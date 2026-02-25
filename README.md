@@ -1,44 +1,92 @@
 # 📰 Daily News Summaries
 
-- Mindspace REIT pre-leases Hyderabad building to Chalet Hotels for  ₹350 crore luxury hotel
-  The 330-room hotel at Mindspace Madhapur will
-  🔗 https://www.livemint.com/companies/news/mindspace-reit-pre-leases-hyderabad-building-to-chalet-hotels-for-350-crore-luxury-hotel-11771993219019.html
+- ED attaches Anil Ambani’s Mumbai house worth Rs 3,716 crore
+  
+  🔗 https://indianexpress.com/article/india/ed-attaches-anil-ambani-mumbai-house-abode-rs-3716-crore-10551907/
 
-- BookMyForex denies data leak claims, says customer funds are safe
-  A report on Wednesday flagged allegedly unauthorised transactions in US dollars and Brazilian reals. This suggests that hackers may have gained access to sensitive card details.
-  🔗 https://www.livemint.com/companies/news/bookmyforex-yes-bank-prepaid-forex-cards-11771995565127.html
+- ‘Yeh kayar log hain, kuch nahin karenge’: What Rahul told Uttarakhand gym trainer ‘Mohammad Deepak’
+  
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-uttarakhand-gym-trainer-mohammd-deepak-10551749/
 
-- Who is David Luan — Amazon’s AI Lab lead who joined after startup Adept was acquired by retail giant, is now leaving?
-  David Luan, Amazon’s AI Lab lead, is leaving the company. He joined after his co-founded startup Adept was acquired by the retail giant.
-  🔗 https://www.livemint.com/companies/people/david-luan-who-amazon-ai-lab-lead-joined-after-startup-adept-acquired-retail-giant-resigned-why-artificial-intelligence-11771985324444.html
+- Who is B Sumathi, the intelligence officer behind Maoist commander Devuji’s surrender
+  
+  🔗 https://indianexpress.com/article/india/who-b-sumathi-intelligence-officer-maoist-commander-devuji-surrender-10551714/
 
-- Can Paramount's $31-a-share offer spark new bidding war for Warner Bros amid Netflix deal?
-  Warner Bros. Discovery Inc. said a new $31-a-share buyout offer from Paramount Skydance Corp. could lead to a better deal than its
-  🔗 https://www.livemint.com/companies/news/paramount-skydance-31-share-offer-bidding-war-warner-bros-discovery-investors-netflix-deal-hollywood-studio-hbo-ellison-11771980059738.html
+- FIR after video shows man assaulted for offering namaz in Uttarakhand
+  
+  🔗 https://indianexpress.com/article/india/fir-after-video-shows-man-assaulted-for-offering-namaz-in-uttarakhand-10551659/
 
-- Suzlon Energy rejigs top deck with an eye on growth, diversification
-  New CEO Ajay Kapur has taken charge at Suzlon as the company reshuffles leadership. Long-time chief J.P. Chalasani moving to steer diversification.
-  🔗 https://www.livemint.com/companies/news/suzlon-energy-rejigs-leadership-growth-diversification-renewable-wind-energy-11771933759092.html
+- Exclusive: NCERT pulls out new Class 8 Social Science textbook after row over section on ‘corruption in judiciary’
+  
+  🔗 https://indianexpress.com/article/india/ncert-pulls-out-class-8-book-section-corruption-in-judiciary-10551542/
 
-- SpiceJet share price hits 10% lower circuit after block deal reports. Do you own?
-   SpiceJet share price slid 10%, hitting the lower circuit in Wednesday's trading session. Reports revealed that 8.4
-  🔗 https://www.livemint.com/market/stock-market-news/spicejet-share-price-hits-10-lower-circuit-after-block-deal-reports-do-you-own-11771998030423.html
+- Anthropic revises AI safety pledge as competition heats up: What does the new policy say?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-ai-safety-pledge-what-new-policy-says-10551702/
 
-- Avoid IT stocks amid AI scare, current valuations; banks set for strong growth over 3-5 years: Vikas Gupta, OmniScience
-  Any selection process should not focus only on the near term revenue and earnings growth, says Vikas Gupta.
-  🔗 https://www.livemint.com/market/stock-market-news/avoid-it-stocks-amid-ai-scare-current-valuations-banks-set-for-strong-growth-over-3-5-years-vikas-gupta-omniscience-11772000771951.html
+- Apple may launch first OLED touchscreen MacBook Pro with Dynamic Island later this year
+  
+  🔗 https://indianexpress.com/article/technology/laptops/apple-may-launch-first-oled-touchscreen-macbook-pro-with-dynamic-island-later-this-year-10551122/
 
-- Bandhan Bank shares extend bull run to fourth day, hit 7-month high. What’s driving the rally?
-  Bandhan Bank stock climbed 1.3% to  ₹182.60, continuing its bull run and achieving a 17% gain in February. Despite a
-  🔗 https://www.livemint.com/market/stock-market-news/bandhan-bank-shares-extend-bull-run-to-fourth-day-hit-7-month-high-what-s-driving-the-rally-11771999485913.html
+- Samsung Galaxy Unpacked 2026: How to watch livestream of Galaxy S26 series launch event in India
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-unpacked-2026-how-to-watch-live-stream-galaxy-s26-series-launch-event-in-india-10551288/
 
-- Multibagger IPO: NSE SME-listed cybersecurity stock doubles allottees' money in five months
-  TechD Cybersecurity doubled investors' funds in five months post-IPO, but shares fell over 12% amid AI replacement concerns. CEO Sunny Vaghela emphasized
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-ipo-nse-sme-listed-cybersecurity-stock-doubles-allottees-money-in-five-months-11771997877404.html
+- Samsung Galaxy Unpacked Event 2026 Live Updates: 2026’s first Android flagship to launch soon, along with Galaxy Buds 4
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-unpacked-event-2026-live-updates-10551160/
 
-- 4650% surge in five years! Multibagger EV stock jumps 8.5% following relief rally on Dalal Street
-  Mercury Ev-Tech's stock surged 8.5% on February 25, reaching  ₹35.55. The company reported Q3 net sales of  �
-  🔗 https://www.livemint.com/market/stock-market-news/4650-surge-in-5-years-multibagger-ev-stock-mercury-ev-tech-share-price-up-4-on-dalal-street-rally-fiis-raise-stake-11771999424381.html
+- Anthropic pushes deeper into enterprise AI with Claude Cowork expansion
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-pushes-deeper-into-enterprise-ai-with-claude-cowork-expansion-10550865/
+
+- Netflix’s Warner deal may be dead. Why the streamer should make a ‘graceful exit.’
+  The most likely outcome is that Netflix will walk away from the bidding war.
+  🔗 https://www.livemint.com/companies/news/netflixs-warner-deal-may-be-dead-why-the-streamer-should-make-a-graceful-exit-11772023583458.html
+
+- Penicillin shot: Will Aurobindo Pharma’s audacious bet rejuvenate antibiotic production in India?
+  Aurobindo Pharma is attempting to manufacture penicillin in India. The company is challenging China’s dominance over the basic antibiotic ingredient.
+  🔗 https://www.livemint.com/companies/aurobindo-pharma-penicillin-g-kakinada-plant-pli-scheme-11772019150046.html
+
+- Philippines Should Work With China on Stalled Gas Project, Tycoon Says
+  A Philippine tycoon said partnering with China may be an option in the development of a new gas field. The two nations have competing maritime claims.
+  🔗 https://www.livemint.com/companies/philippines-should-work-with-china-on-stalled-gas-project-tycoon-says-11772019800183.html
+
+- TCS’ Krithivasan urges senior employees to build AI solutions
+  TCS leadership has asked senior executives to personally develop AI solutions to bridge the
+  🔗 https://www.livemint.com/companies/tcs-leadership-ai-strategy-future-india-it-industry-11772008314836.html
+
+- Puravankara to launch 3 luxury projects in upmarket Mumbai, eyes Gurugram entry
+   Puravankara Ltd plans to launch three luxury residential projects in Mumbai's premium areas. This is part of a  ₹15,200 crore launch pipeline, which includes various developments across cities like
+  🔗 https://www.livemint.com/companies/puravankara-projects-mumbai-gurugram-redevelopment-sothebys-luxury-homes-infra-real-estate-11771820830009.html
+
+- Omnitech Engineering IPO: Issue receives tepid response on Day 01, subscribed 0.09 times. GMP signals flat listing
+  Omnitech Engineering's IPO saw limited investor interest, with 0.09 times subscription by day's end. The estimated listing price is  ₹232, based on a grey market
+  🔗 https://www.livemint.com/market/ipo/omnitech-engineering-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-09-times-gmp-signals-flat-listing-11772021492653.html
+
+- IT stocks under pressure: How investors should restructure their tech portfolio in 2026 amid AI disruption
+  Investors may consider diversifying their portfolios beyond traditional IT stocks. Experts emphasise a balanced approach that includes AI enablers and U.S. tech giants.
+  🔗 https://www.livemint.com/market/stock-market-news/it-stocks-under-pressure-how-investors-should-restructure-their-tech-portfolio-in-2026-amid-ai-disruption-11772009447660.html
+
+- Shree Ram Twistex IPO sees bumper 44 times bids on final day; GMP signals 13% listing gains. Details here
+  Shree Ram Twistex IPO was subscribed 43.66 times as it garnered bids for 46,28,41,632 shares. The NII portion
+  🔗 https://www.livemint.com/market/ipo/shree-ram-twistex-ipo-sees-bumper-44-times-bids-on-final-day-gmp-signals-13-listing-gains-details-here-11772019885139.html
+
+- Gold gains on softer dollar, safe‑haven bid amid US tariff uncertainty
+  Gold gains on softer dollar, safe‑
+  🔗 https://www.livemint.com/market/gold-gains-on-softer-dollar-safe-haven-bid-amid-us-tariff-uncertainty-11772019371356.html
+
+- Emerging-Market Rally Builds as Korea Tops France in Stock Ranks
+  South Korea's bourse is now the world's ninth largest, topping both France and Germany. Emerging-market stocks and currencies
+  🔗 https://www.livemint.com/market/emergingmarket-rally-builds-as-korea-tops-france-in-stock-ranks-11772018566310.html
+
+- How to watch the Galaxy S26 launch live: Launch time, expected price and major upgrades expected
+  Samsung's Galaxy S26 series will debut today at Galaxy Unpacked. The event starts at 10am PT in San Francisco, live-streamed via various platforms. New AI assistant
+  🔗 https://www.livemint.com/technology/gadgets/how-to-watch-the-galaxy-s26-launch-live-launch-time-expected-price-and-major-upgrades-expected-11772019420201.html
+
+- ROI-US AI boom faces electric shock: Bousso
+  US AI boom faces electric shock:
+  🔗 https://www.livemint.com/technology/roius-ai-boom-faces-electric-shock-bousso-11772017305880.html
 
 - Russia opens criminal investigation against Telegram app founder Pavel Durov
   Russia opens criminal investigation against
@@ -52,93 +100,93 @@
   Reddit hit with $20 million UK data
   🔗 https://www.livemint.com/technology/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings-11771938971266.html
 
-- The ‘Tarantino’ fraud: Anatomy of a digital arrest, from a Gurugram home to a tiny Hyderabad bank
-  Under ‘digital arrest’, a Gurugram executive watched her life savings disappear. Discover the chilling anatomy of a sophisticated heist.
-  🔗 https://www.livemint.com/technology/anatomy-digital-arrest-gurugram-executive-scam-5-crore-11771936189481.html
+- US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside
+  U.S. stock index futures edged higher on Wednesday after volatile sessions earlier this week. Investors assessed risks to the AI trade and growing tariff doubts heading
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms
 
-- Anthropic CEO Dario Amodei says AI surpassing humans at ‘almost everything’ is possible
-  Dario Amodei, CEO of Anthropic, believes AI may eventually surpass humans in various tasks, including physical
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-says-ai-surpassing-humans-at-almost-everything-is-possible-11771930803958.html
+- Copper hits two-week high on demand optimism after US tariffs struck down
+  Copper prices rose to two-week highs on Wednesday. U.S. Supreme Court ruled against President Donald Trump's
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/copper-hits-two-week-high-on-demand-optimism-after-us-tariffs-struck-down/articleshow/128782657.cms
 
-- ‘A feedback loop with no brake’: how an AI doomsday report shook US markets - The Guardian
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOam1VaUUycHM3Nlllakd2ZFo0MDZOaUJGNndoNE1jNGFRM0hRNWdTVEJTd0ZGUnlNblBzQWNHSnZ4ODJOek5oR0NrVmtCdjVLVzBMQXRSSWhPUmREZEJDaXdlMEhFZHNEYUtBZUNRTF9ZMHN4WDg4QjE1Ymp5WHkxUHRoTXNQXzNVR1I3aFpVaEtJajlqM0JQMUlTSml2LXE0NTZLbzhFLVV2Ujk3bTNrRVhn?oc=5
+- Ascendas Firstspace buys 9 lakh sq ft industrial warehousing space in Gujarat for Rs 275 cr
+  Ascendas Firstspace has bought 9 lakh square feet of warehousing and industrial space at
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ascendas-firstspace-buys-9-lakh-sq-ft-industrial-warehousing-space-in-gujarat-for-rs-275-cr/articleshow/128782529.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rallies over 500 pts, Nifty above 25,600; IT ... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUdzWjd1ek9HbTFkM20zMHdKNTY2TV9VMF9vRmtlQzdzZ1daN0k5OHI2bzRYRjA1dDVsRmk4WXFHUkY0TXRhZ2ZuUmpuWEdkUkV2SlFIT3FpYmlwcUxzbGw1R0tMWkxwMm
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUdzWjd1ek9HbTFkM20zMHdKNTY2TV9VMF9vRmtlQzdzZ1daN0k5OHI2bzRYRjA1dDVsRmk4WXFHUkY0TXRhZ2ZuUmpuWEdkUkV2SlFIT3FpYmlwcUxzbGw1R0tMWkxwMm1UcDkzOGc3V0hycV9vSHlvT3R2eGtpMTB6bzN6UFNJZm1zMFBkVXhuaE1sS2J0aGxrNzFWN2xPUlJDVHk0YTlJcWhBTjM3UWxpc2tYeGxTZmpHWlMyVnk0MXhNU0ZlQ2xucFc0NV8yRlhlVUVTX0Y5SEp1a01OZURLV2YzZFVqSHJoTm1JWnpVNkxqVnNCUWU0NHQ3M3RGUWpzXzE0TG9hUdIBjwJBVV95cUxNVEpabV9NMGdnOTNZVlJaNkpyVkpMVHJ6N19lbUw5ZXk1MThhdm9LaGVCRnNuT2EzakttbklDTDljTlZBSTNVamxCWUpFcW9ldU9CbFQ3WGhTLXBjVzU3YWdjdUJNRE85WWhZOThSVVFNLW1LaWduV1Q5ZEZrMk9tUXRjbjFodV82dnVEQmNPaFhPNG5VSlAxWlVJUHVDcURhclZpSk12a1dpTHJsOVNsNWh3Q2NPMWNTTjVIbDFoWi1tcnJfWi1wS0x2S1FrUTQtY1pBMTZ3SmZNeVlJVENkQ3BDM2xPNjFuZWNsSUI4V3pKbEdETE1NTGFDWGtzLWtZNjRmOHE5dXh0dlZMSWY4?oc=5
+- Adani Ports completes $495 million bond buyback; early tenders at $196.94 million
+  Adani Ports reported early tenders of $196.94 million in its $495.1 million offshore bond buyback. The company may revise the final acceptance amount, with early settlement due on February 27.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/adani-ports-completes-495-million-bond-buyback-early-tenders-at-196-94-million/articleshow/128782516.cms
 
-- European stocks set for higher open as market nerves ease - CNBC
-  European stocks set for higher open as market
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUZVWDlVbTRMd3BtbUhvLUxUbXRJeUxPOHZ4N0E2R1ZzQWxwb09MVzA5SXR4NnVVMkt6MFd5aVVHZXhKNkg4b3d2eHViUnlhNW8xelhBLTk5azhHRDN0VWtUSHRncFgyT1hNV1lodDhLdzdOanZzRzhoTG9od3lPblNCZVBuWFYxNDdnMEphTFVNLUUydWJ4ZHRrem1yWjEyUmfSAacBQVVfeXFMUHhRT0NNMW93eUdGNUpGcHRITjBKMk8zcllPT3J5dVByY0F0emt0ZWpCZTVXYlc5LVZRZWREM0JMVURMWlVTcU82SG43el96VFhYLU1sNjE0VjVwV0U3MzFWYlVEWnpBQ0taS09ZRU5IV1FEMGRrTWJfZW9NM0pEdi1jdERTTXh6Nm9SRlZBSkxpQ3lzRXFFYm1sSzRvNXVoajdZdWVqTkU?oc=5
+- Stock market quote of the day by Robert Arnott | “In investing, what is comfortable is rarely profitable.”
+  Profitable investing requires going against the crowd, buying during pessimistic sentiment. Successful investors focus on valuation, maintain a long-term horizon, and act on data.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-robert-arnott-in-investing-what-is-comfortable-is-rarely-profitable-/articleshow/128776023.cms
 
-- Stocks Mount Tentative Recovery After AI Scare: Markets Wrap - Bloomberg.com
-  Stocks Mount Tentative Recovery After
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2JFNU80TWpmOXVaRXA5M3h2MEZyUjYzOUx3YkdCbng1N1QwaFA2cXZMek5MWGxaV1c3eTFNT3V4Q1JZcWpKekVxZURjUV81YXZBTUdnMU1zTlZNSW9xOEJ4ZURhUE0tTF9SWXdGLXZWSWM1eWNYQXY2OVhocWtnN3EtTEw5LUNUaG1LUDBXWDg0Mjhw?oc=5
-
-- Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC
-  Stock futures inch higher ahead of key earnings results from Nvidia
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieXZxVk1RWW52MThkTlJiaUROa1JQajh2Z3lxVmtjcW5ZMDNHNnluMjRraFZVTnpaRGhBa2ZBckpWdW05YkpYZEtLY1Jjd3BTM2lud194YUxYaV9TS0IzaVFOT3ZYcU1yZGdsekE4M1F1Ymg2Y29R0gF8QVVfeXFMUGJBVi1KMVlUd0dqQ1pfXy0zNmZaZ1VSUGtITGFEcTdKWmpIYzF0UWljRXFhS0FXMV9HelptOUI5RzI1OXpZQm1LdUtBQndCRF9rYUpTRVRJQmZ5SGVMenQ2R184TzFFNGlHcW9JTzM1SVRRSkRFUV9kUkhvWQ?oc=5
-
-- Piyush Pandey sees buying opportunity in IT stocks despite AI fears
-  Piyush Pandey believes AI disruption fears for Indian IT stocks are overblown. He sees long-term opportunities outweighing short-term volatility. Pandey predicts improved performance in FY27
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/piyush-pandey-sees-buying-opportunity-in-it-stocks-despite-ai-fears/articleshow/128772344.cms
-
-- Softer dollar, modest inflows offer breathing room to Indian rupee
-  The Indian rupee held steady near 90.92 against the dollar, supported by a weaker greenback and foreign bank sales. Local stocks, particularly IT shares, rebounded, contributing to modest dollar inflows.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/softer-dollar-modest-inflows-offer-breathing-room-to-indian-rupee/articleshow/128771610.cms
-
-- Indian bonds rise after strong buying sparks RBI participation bets
-  Indian government bonds saw a rise today. Strong buying from the 'others' investor category boosted prices. This group includes insurers, pension funds, and potentially the Reserve Bank of India.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-after-strong-buying-sparks-rbi-participation-bets/articleshow/128771362.cms
-
-- Rs 3 lakh crore added! 5 key factors behind 700-point Sensex surge, Nifty above 25,600
-  Sensex and Nifty 50 indices surged, recovering from a previous day's sharp decline. Key sectors like IT and Metal led the gains. Several major companies contributed to the upward movement.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-stock-market-is-rising-today-rs-3-lakh-crore-added-key-factors-behind-700-point-sensex-surge-nifty-above-25600/articleshow/128771120.cms
-
-- Chakri Lokapriya sees value in cyclical and PSU stocks despite market volatility
-  Market strategist Chakri Lokapriya identifies selective opportunities in cyclical sectors, railways, defence, and PSU banks. While near-term capex may be subdued due to US Supreme Court ruling
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/chakri-lokapriya-sees-value-in-cyclical-and-psu-stocks-despite-market-volatility/articleshow/128771257.cms
-
-- Modi in Israel live: India’s PM to meet Netanyahu, address Knesset - Al Jazeera
+- Modi in Israel live: India’s PM meets Netanyahu, to address Knesset - Al Jazeera
   Modi in Israel live: India’s
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
-- PM Modi Departs For Israel, Says Visit Will "Set New Goals For Strategic Ties" - NDTV
-  PM Modi Departs For Israel, Says Visit Will "Set
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQODB0Q3oxUWhCaDN3cUc2dkdfLTJuWTh2UWVmNjZ0ak1BdG82YWJ1bG1JTmxPcHI2Y2ZpaVc2b010ZENSa21YVnNwZnVfYnJPbjZiOGh2RHh2bXFRX1NGR1RDeVBDbVpfRGV1Q1hncmdhLVM4TnJBS0xKQ1UwTlBIdV9IaFJZN1VsclVQOXpvMjFINXN1MWhmbjdSTGNuVmVFczFoZnZzczhwdXNXQ1d3c0FBUG1XX1HSAb8BQVVfeXFMT2dKOXRMVWt1R0s2NkJ1MDBnUHF4OFhoTWZpZEpQaE0zUTZqSWpVd2ZLc3NLZUtFcFpBSE91OUJtMmI5S2h1QzlNWWszUGcwM0lOMGJHZmhIWEliOTdMdVE2blJVMVA3OHNGQ1hTZFkwejFsdU43TVd3Q1Q3c1NKV3I4bmVNSzZGN2Vaa0VFdzdBWC0yaGQ5Q0d6ZFIteFZxWkxybEZpUlQ3c3h2OTl0STk5M2JwbGJ4NnNqRkFfREE?oc=5
+- Modi's Israel visit to test India's priorities in the Middle East - BBC
+  Modi's Israel visit to test India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRDZ6NjBKMlNXbzk5am16X3k4Z2lTdTY1WmJmcDFqZTFZLXA1ZmZ2d1lNVFFodkp6REZsM0toMC0zYlVQODRtYXo4bzhCZFFWQ29NNFJNbHh2Zw?oc=5
 
-- Indian PM Modi to visit Israel February 25-26 - Reuters
-  Indian PM Modi to visit Israel
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0t5RUhEZS1MUWhIV1ZMY05PZW1pcGFUdVEyeGhYMElheXg2TXJzZHBtdk84dlM3b1d2SWtlVWsyYnR3S2pVekNzVjhZSndPMG5PSFhVcjh1em1WU1JTTzdHZUdObDRpdTFfUkE5LWRTa0V6cXdYMlNPQnNsamx3QXpGanE5aUF6MW9RdEstZG5BRG00?oc=5
+- How An Ex Branch Manager Masterminded 590-Crore Fraud At IDFC FIRST Bank - NDTV
+  How An Ex Branch Manager Masterminded 590-
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWtTeS1LV09mQnFOTjlPcDlFMnAyS1pXQ3pENnZueEhLRDBGYkF5TXlnSEdzbm5MZ3pEWE12VVZLdmpMbmd0VDFsblI5c1k5REtpSDM1bU45bkRqQUlwaENMZVd1djZKRXdGU200SV9UZTJlV2xFMzdVU3dkZkhSZWptZ2l1OV9YMUJ0YkROVGZFdUNqMG15YUhuc1VJVzdtc1VVTGtTNUpRb0Rhbzh1N3VMV0c4QzJEM0hDbVBlUk5FREFtbHBYS0Q3MXBzREtz0gHYAUFVX3lxTE9lVFJab01ENDY4WEtDTmpLSk1fSHBuWEl4bWtIc1ZERDNVUldiQ3B2UnU2Z0Vjem9GZEJoYmF5dUtjbDZhZDRxeDJlc21EaVp0VHB2MGlOSGZfWmVoU3ZGdXhoWDBvMDlmWC02STNiZW9VUnU5QW5nZUI4SzkyR0toTWxIRVFVQXhKV1VsbVRwT1VwSUk3TXRxdllVTXZXWUlINmhfZzlBeFhLLVVfcTZYUE1iTUF2Rm9PLUItek9DLTczTGRvRi1zTFdRNU9BVDJtcmxqRm5uTg?oc=5
 
-- Good news! MotoGP set to return to India as UP Govt signs MoU - The Times of India
-  MotoGP set to return to India as UP Govt signs Mo
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0l6WHEwdlJXaG96LXlham1aR2VYSDJETEVPMnVONkh4emc2MlcwdnBGZ2JQRU03T0l6WWxxZzBFTk8yQl9WMUwxV1M4Sko0WF9OZVJkVHdHcHE4OUxFLXZ3d21COEN5QVNUcjNvOVNCR200QnA2anZKUy1VTjZmQ3ZCZEw0M0FWYnB1ZTB5b1NsakJ5SGdxZFpWazdNMk01bU9xQ0hZYkdGN0ZtV1lQUW05ZzBaeWUzZHE3ZnJmbE9VZVFMd1BLbkNodFZ1WXdZZHdpT2xR0gHbAUFVX3lxTE1QMG5NNXJnX2FDV0FpNFBBTVhobTJtZDVXc2xvOXpVbjB3ZjZIV0Q5czRvSmpGbWtJdnpaRFJPWUFtZzRjYkxUSlNIZ0E1S1RJTUlwWGNObHh6d1hLcGlta0pFanRqQ1BkcENEdTRPT3A4bktvVjVIcGluell1b0QycjBkTHNQRUN6VF9WNzhkUTlQaDdYeHlPalFzRnhYbmc0Ym42ZGt5SWJuZy13TkVOc21XTXVoVURZTFdMcHRzX0ZxQnkxb2h6d0g4RDZtTGI1UzZOUFNrSDhJbw?oc=5
+- India Playing XI puzzle vs Zimbabwe: Sanju Samson a strong contender, Axar Patel likely to return - The Times of India
+  The Times of India reports that Sanju Samson is a strong contender. Axar Patel
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPeVdFSnVTUUpqWGZJcXJmU2pvWk1fandnYUcyeWdYNFNmMWFkX2Vzb1lOam5oNW9US013UkFicG4xODA5OGpDRndDbEhlNTlPaG9laldLM3dZR3hYazBFdEtVQlVrRlc3UjR0Y28wWWVpUzFCM2EzUGJGODJTUS05X3R1cVFTcjBZLWV6eE13RHUyelhOVTlSTzdLVnZkbUVpSXJOakpGSjdmWjRlbDJic0k3ZW1wTzBTMEllQ1FwQ3ZxTElraWJ3Z2ZPOFJMc3BycXZKbWFGLUZRNGZiamdJNGxadmxoZm43a0IzR3lCeWFHaHhsajB4TFA3dnFpeHRRYkdMQUxDQ2RUQXVKMEdOUjQ4cHd1QzRMZmoya3hROFDSAaYCQVVfeXFMTTNGSC1oSUpoQ1djOThVSzF4NnRjZWM3SWxIRXJ2RWIxbUJicXJUNTJSeU84WXVPaUt6S1JRcnVUVzJfMzBuOWlQdW41OGc5MTRna1JnSnVNbzFmTW1RV3BFMnFkeG1xN0FTOXVZamh2c1QzdzdGVzdfemtvc195aWUtU3UydlJoX0ZNLW5KeWllWDExMS10cGlrNTdhY2NJalFVekRSNV9PQ2otaUFrTHJ6QTNYdHhQNnVJd1FhNFVwbTROcmQwaTR0aWhQb21Nd1ZERXIyTk5ZWm1USkZZSWM2UWVRTmdSRlREWmdBLW9SNFMybWJMbGtfVnRua3NoRXgtblF2OERhRlhwQ3kxYnd1SGt3dzlNcjgxUTdnOEhicnZMZHpn?oc=5
 
-- Indian Army–Indian Railways launch Framework for post-retirement jobs - News On AIR
-  Indian Army–Indian Railways launch Framework
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmkzbHFFSG02U1laTEx4elpXMkZkQzMyMWZOQWJfbVl6bWdGREs4R2J2ZU42OEs3MUZKejVTWjREUWR1UzRFSFFtY2ozNTVkV0hmOXNFel8tLUtIdkF1bV9sT1pKZ21rOEdMNERCV3Zac0RsbGVwTWRDMU1Vdi1JWXJBN0Mybmh6UHA4UDNoTE0tZm42c1M5MTUxVFRkUF8z?oc=5
+- Trump’s State of the Union 2026: Top takeaways for India - The Hindu
+  The Hindu has published an article on India's
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxObktoTU9ycUZkUkFnbGpVZ0pBYmwtQ2hKNERwVGpadG96ZDFFV3F2Tk1mMVo4enZrZHB5alVhSmE0OUVDNXpEV3Z2bG1ySDBsRTJJMkJHeWMxLUd0YmN4YWRUZTRycVpKSW1jTTJVeFVvdlBtSzg1LUtxYmlFSzhhSFpibWE5ZEdSbWhCUWgxV1VxT0VtR2xZS0JZLU5aNm8wQkJRdzNpcEl1MVY2YkJucHIxONIBugFBVV95cUxPeWdyX1p1TlEwMTFLQ2ptWlB6dTFqMm9KZUI0bE55eWxGRWFLVEJqV044QzRRbl8tNzI3ZU5kODdvM3lMMFI5QWdUUGdXMEQzVmlGaFVxaGc4LWgySS13Wi1aTk83MGlZazdURFR4Y2Q0ZnBuVWdjRzVuRlFRVm9OLTZqV3JWNzNZYTJIZC1kRFJjSEMyYWlhd2xYS084YzgxOFNxbkEyUXUyTmpndGtsZDdGNXN0clc0Snc?oc=5
 
-- Modi in Israel live: India’s PM to meet Netanyahu, address Knesset - Al Jazeera
+- Modi in Israel live: India’s PM meets Netanyahu, to address Knesset - Al Jazeera
   Modi in Israel live: India’s
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
-- PM Modi Departs For Israel, Says Visit Will "Set New Goals For Strategic Ties" - NDTV
-  PM Modi Departs For Israel, Says Visit Will "Set
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQODB0Q3oxUWhCaDN3cUc2dkdfLTJuWTh2UWVmNjZ0ak1BdG82YWJ1bG1JTmxPcHI2Y2ZpaVc2b010ZENSa21YVnNwZnVfYnJPbjZiOGh2RHh2bXFRX1NGR1RDeVBDbVpfRGV1Q1hncmdhLVM4TnJBS0xKQ1UwTlBIdV9IaFJZN1VsclVQOXpvMjFINXN1MWhmbjdSTGNuVmVFczFoZnZzczhwdXNXQ1d3c0FBUG1XX1HSAb8BQVVfeXFMT2dKOXRMVWt1R0s2NkJ1MDBnUHF4OFhoTWZpZEpQaE0zUTZqSWpVd2ZLc3NLZUtFcFpBSE91OUJtMmI5S2h1QzlNWWszUGcwM0lOMGJHZmhIWEliOTdMdVE2blJVMVA3OHNGQ1hTZFkwejFsdU43TVd3Q1Q3c1NKV3I4bmVNSzZGN2Vaa0VFdzdBWC0yaGQ5Q0d6ZFIteFZxWkxybEZpUlQ3c3h2OTl0STk5M2JwbGJ4NnNqRkFfREE?oc=5
+- Modi's Israel visit to test India's priorities in the Middle East - BBC
+  Modi's Israel visit to test India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRDZ6NjBKMlNXbzk5am16X3k4Z2lTdTY1WmJmcDFqZTFZLXA1ZmZ2d1lNVFFodkp6REZsM0toMC0zYlVQODRtYXo4bzhCZFFWQ29NNFJNbHh2Zw?oc=5
 
-- Indian PM Modi to visit Israel February 25-26 - Reuters
-  Indian PM Modi to visit Israel
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0t5RUhEZS1MUWhIV1ZMY05PZW1pcGFUdVEyeGhYMElheXg2TXJzZHBtdk84dlM3b1d2SWtlVWsyYnR3S2pVekNzVjhZSndPMG5PSFhVcjh1em1WU1JTTzdHZUdObDRpdTFfUkE5LWRTa0V6cXdYMlNPQnNsamx3QXpGanE5aUF6MW9RdEstZG5BRG00?oc=5
+- How An Ex Branch Manager Masterminded 590-Crore Fraud At IDFC FIRST Bank - NDTV
+  How An Ex Branch Manager Masterminded 590-
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWtTeS1LV09mQnFOTjlPcDlFMnAyS1pXQ3pENnZueEhLRDBGYkF5TXlnSEdzbm5MZ3pEWE12VVZLdmpMbmd0VDFsblI5c1k5REtpSDM1bU45bkRqQUlwaENMZVd1djZKRXdGU200SV9UZTJlV2xFMzdVU3dkZkhSZWptZ2l1OV9YMUJ0YkROVGZFdUNqMG15YUhuc1VJVzdtc1VVTGtTNUpRb0Rhbzh1N3VMV0c4QzJEM0hDbVBlUk5FREFtbHBYS0Q3MXBzREtz0gHYAUFVX3lxTE9lVFJab01ENDY4WEtDTmpLSk1fSHBuWEl4bWtIc1ZERDNVUldiQ3B2UnU2Z0Vjem9GZEJoYmF5dUtjbDZhZDRxeDJlc21EaVp0VHB2MGlOSGZfWmVoU3ZGdXhoWDBvMDlmWC02STNiZW9VUnU5QW5nZUI4SzkyR0toTWxIRVFVQXhKV1VsbVRwT1VwSUk3TXRxdllVTXZXWUlINmhfZzlBeFhLLVVfcTZYUE1iTUF2Rm9PLUItek9DLTczTGRvRi1zTFdRNU9BVDJtcmxqRm5uTg?oc=5
 
-- Good news! MotoGP set to return to India as UP Govt signs MoU - The Times of India
-  MotoGP set to return to India as UP Govt signs Mo
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0l6WHEwdlJXaG96LXlham1aR2VYSDJETEVPMnVONkh4emc2MlcwdnBGZ2JQRU03T0l6WWxxZzBFTk8yQl9WMUwxV1M4Sko0WF9OZVJkVHdHcHE4OUxFLXZ3d21COEN5QVNUcjNvOVNCR200QnA2anZKUy1VTjZmQ3ZCZEw0M0FWYnB1ZTB5b1NsakJ5SGdxZFpWazdNMk01bU9xQ0hZYkdGN0ZtV1lQUW05ZzBaeWUzZHE3ZnJmbE9VZVFMd1BLbkNodFZ1WXdZZHdpT2xR0gHbAUFVX3lxTE1QMG5NNXJnX2FDV0FpNFBBTVhobTJtZDVXc2xvOXpVbjB3ZjZIV0Q5czRvSmpGbWtJdnpaRFJPWUFtZzRjYkxUSlNIZ0E1S1RJTUlwWGNObHh6d1hLcGlta0pFanRqQ1BkcENEdTRPT3A4bktvVjVIcGluell1b0QycjBkTHNQRUN6VF9WNzhkUTlQaDdYeHlPalFzRnhYbmc0Ym42ZGt5SWJuZy13TkVOc21XTXVoVURZTFdMcHRzX0ZxQnkxb2h6d0g4RDZtTGI1UzZOUFNrSDhJbw?oc=5
+- India Playing XI puzzle vs Zimbabwe: Sanju Samson a strong contender, Axar Patel likely to return - The Times of India
+  The Times of India reports that Sanju Samson is a strong contender. Axar Patel
+  🔗 https://news.google.com/rss/articles/CBMioAJBVV95cUxPeVdFSnVTUUpqWGZJcXJmU2pvWk1fandnYUcyeWdYNFNmMWFkX2Vzb1lOam5oNW9US013UkFicG4xODA5OGpDRndDbEhlNTlPaG9laldLM3dZR3hYazBFdEtVQlVrRlc3UjR0Y28wWWVpUzFCM2EzUGJGODJTUS05X3R1cVFTcjBZLWV6eE13RHUyelhOVTlSTzdLVnZkbUVpSXJOakpGSjdmWjRlbDJic0k3ZW1wTzBTMEllQ1FwQ3ZxTElraWJ3Z2ZPOFJMc3BycXZKbWFGLUZRNGZiamdJNGxadmxoZm43a0IzR3lCeWFHaHhsajB4TFA3dnFpeHRRYkdMQUxDQ2RUQXVKMEdOUjQ4cHd1QzRMZmoya3hROFDSAaYCQVVfeXFMTTNGSC1oSUpoQ1djOThVSzF4NnRjZWM3SWxIRXJ2RWIxbUJicXJUNTJSeU84WXVPaUt6S1JRcnVUVzJfMzBuOWlQdW41OGc5MTRna1JnSnVNbzFmTW1RV3BFMnFkeG1xN0FTOXVZamh2c1QzdzdGVzdfemtvc195aWUtU3UydlJoX0ZNLW5KeWllWDExMS10cGlrNTdhY2NJalFVekRSNV9PQ2otaUFrTHJ6QTNYdHhQNnVJd1FhNFVwbTROcmQwaTR0aWhQb21Nd1ZERXIyTk5ZWm1USkZZSWM2UWVRTmdSRlREWmdBLW9SNFMybWJMbGtfVnRua3NoRXgtblF2OERhRlhwQ3kxYnd1SGt3dzlNcjgxUTdnOEhicnZMZHpn?oc=5
 
-- Indian Army–Indian Railways launch Framework for post-retirement jobs - News On AIR
-  Indian Army–Indian Railways launch Framework
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmkzbHFFSG02U1laTEx4elpXMkZkQzMyMWZOQWJfbVl6bWdGREs4R2J2ZU42OEs3MUZKejVTWjREUWR1UzRFSFFtY2ozNTVkV0hmOXNFel8tLUtIdkF1bV9sT1pKZ21rOEdMNERCV3Zac0RsbGVwTWRDMU1Vdi1JWXJBN0Mybmh6UHA4UDNoTE0tZm42c1M5MTUxVFRkUF8z?oc=5
+- Trump’s State of the Union 2026: Top takeaways for India - The Hindu
+  The Hindu has published an article on India's
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxObktoTU9ycUZkUkFnbGpVZ0pBYmwtQ2hKNERwVGpadG96ZDFFV3F2Tk1mMVo4enZrZHB5alVhSmE0OUVDNXpEV3Z2bG1ySDBsRTJJMkJHeWMxLUd0YmN4YWRUZTRycVpKSW1jTTJVeFVvdlBtSzg1LUtxYmlFSzhhSFpibWE5ZEdSbWhCUWgxV1VxT0VtR2xZS0JZLU5aNm8wQkJRdzNpcEl1MVY2YkJucHIxONIBugFBVV95cUxPeWdyX1p1TlEwMTFLQ2ptWlB6dTFqMm9KZUI0bE55eWxGRWFLVEJqV044QzRRbl8tNzI3ZU5kODdvM3lMMFI5QWdUUGdXMEQzVmlGaFVxaGc4LWgySS13Wi1aTk83MGlZazdURFR4Y2Q0ZnBuVWdjRzVuRlFRVm9OLTZqV3JWNzNZYTJIZC1kRFJjSEMyYWlhd2xYS084YzgxOFNxbkEyUXUyTmpndGtsZDdGNXN0clc0Snc?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-25 07:00:37 UTC_
+_Last updated: 2026-02-25 12:57:11 UTC_
