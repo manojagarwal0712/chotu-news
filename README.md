@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- NGT has space for experts, most of them now are former Govt officers
+- ‘Must be living in La La Land’: India slams Pakistan over claims at UNHRC meet
   
-  🔗 https://indianexpress.com/article/india/ngt-has-space-for-experts-most-of-them-now-are-former-govt-officers-10552658/
+  🔗 https://indianexpress.com/article/india/jammu-kashmir-propaganda-la-la-land-india-slams-pakistan-unhrc-meet-10553066/
 
-- Cops vs cops in Himachal after Delhi Police pick up 3 Indian Youth Congress men
+- Isro NVS-02 failure: Broken electrical circuit likely prevented orbit injection, says committee
   
-  🔗 https://indianexpress.com/article/india/cops-vs-cops-in-himachal-after-delhi-police-pick-up-3-indian-youth-congress-men-10552583/
+  🔗 https://indianexpress.com/article/india/isro-nvs-02-failure-broken-electrical-circuit-says-committee-10553127/
 
-- House of J&K Dy CM Surinder Choudhary’s brother among places searched by ACB
+- Gold Today Rate, February 26: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/house-of-jk-dy-cm-surinder-choudharys-brother-among-places-searched-by-acb-10552664/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-february-26-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10553016/
 
-- Clash at Kannur station: Kerala health minister hospitalised following scuffle with protesting students
+- Meet Rado and Rana: Cyberabad’s newest K9 recruits joining fight against drugs and explosives
   
-  🔗 https://indianexpress.com/article/india/clash-at-kannur-station-kerala-health-minister-veena-george-hospitalised-following-scuffle-with-protesting-students-10552635/
+  🔗 https://indianexpress.com/article/india/meet-rado-and-rana-cyberabads-newest-k9-recruits-joining-fight-against-drugs-and-explosives-10552588/
 
-- Linked by blood and sacrifice, back Gaza peace: PM Modi to Israel Parliament
+- Rajasthan tables Disturbed Areas Bill to curb ‘improper clustering’; offences non-bailable with up to 5-year jail term
   
-  🔗 https://indianexpress.com/article/india/linked-by-blood-and-sacrifice-back-gaza-peace-pm-modi-to-israel-parliament-10552574/
+  🔗 https://indianexpress.com/article/india/rajasthan-tables-disturbed-areas-bill-to-curb-improper-clustering-offences-non-bailable-with-up-to-5-year-jail-term-10552602/
+
+- DeepSeek withholds latest AI model from US chipmakers including Nvidia: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-report-10552911/
+
+- OpenAI hires ex-Apple models head from Meta: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-hires-ex-apple-models-head-from-meta-reports-10552908/
+
+- Pentagon asks defense contractors about reliance on Anthropic’s AI services: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/pentagon-asks-defense-contractors-about-reliance-on-anthropics-ai-services-reports-10552909/
+
+- Perplexity CEO Aravind Srinivas reveals the ‘next big thing’ with Perplexity Computer
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/aravind-srinivas-reveals-the-next-big-thing-with-perplexity-computer-10552847/
 
 - Samsung Galaxy S26 vs Galaxy S25: What’s new in Samsung’s latest flagship
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-s26-vs-galaxy-s25-whats-new-in-samsungs-latest-flagship-10552405/
 
-- Samsung unveils the Galaxy S26 and S26+: Price, specs, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-unveils-the-galaxy-s26-and-s26-price-specs-and-more-10552314/
+- NCLAT refuses to stay India’s first corporate class action against Jindal Poly Films
+  The appellate tribunal's decision will allow NCLT proceedings to continue in minority shareholders’  �
+  🔗 https://www.livemint.com/companies/news/nclat-refuses-to-stay-india-s-first-corporate-class-action-against-jindal-poly-films-11772083791169.html
 
-- Samsung Galaxy S26 Ultra vs Galaxy S25 Ultra: What’s new and should you upgrade?
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-specs-camera-battery-chipset-10552157/
+- DeepSeek hides upcoming flagship AI model from US chipmakers like Nvidia, shows preview to Chinese Huawei: Report
+  DeepSeek did not provide access to Nvidia and AMD. This gave Chinese chipmakers, including Huawei, a head start of several weeks.
+  🔗 https://www.livemint.com/companies/news/deepseek-hides-upcoming-flagship-ai-model-from-us-chipmakers-like-nvidia-shows-preview-to-chinese-huawei-report-11772082672048.html
 
-- Samsung Galaxy S26 Ultra unveiled with Privacy Display, Snapdragon 8 Elite Gen5
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-ultra-specs-camera-chipset-ram-battery-design-10551604/
-
-- Samsung’s Galaxy S26 series strategically placed ‘Galaxy AI’ at the centre, not the phones
-  
-  🔗 https://indianexpress.com/article/technology/opinion-technology/samsung-galaxy-unpacked-2026-galaxy-s26-ai-agentic-future-10551418/
+- Google, Microsoft, Amazon to pay their own data centre power bills? Trump summons big tech leaders to woo public
+  The promises, if made by the companies, will lack the force of law and therefore will not be binding. Officials of the Trump administration still believe that a public and formal pledge could bring
+  🔗 https://www.livemint.com/companies/news/google-microsoft-amazon-to-pay-their-own-data-centre-power-bills-trump-summons-big-tech-leaders-to-woo-public-11772072326718.html
 
 - Jensen Huang says ‘markets got it wrong’ after Nvidia posts stellar fourth quarter results defying AI bubble worries
-  Nvidia posted a 73% year-on-year surge in its fourth quarter fiscal revenue at $68.1 billion. Jensen Huang predicted that AI will not go anywhere
+  Nvidia posted a 73% year-on-year surge in its fourth quarter fiscal revenue at $68.1 billion. Jensen Huang, speaking to investors and analysts during a
   🔗 https://www.livemint.com/companies/company-results/jensen-huang-says-markets-got-it-wrong-after-nvidia-posts-stellar-fourth-quarter-results-defying-ai-bubble-worries-11772064517558.html
 
 - Synergy between renewable energy and data centers core to NIIF's Master Fund II
   NIIF’s data centre push is anchored in India�
   🔗 https://www.livemint.com/companies/news/niif-master-fund-ii-renewable-energy-data-centers-digital-infrastructure-ai-led-demand-artificial-intelligence-11772015156832.html
 
-- Uber pumps  ₹3,000 crore into India arm as Rapido challenge intensifies
-  Uber and Rapido are in a fierce competition for market share in India's ride-hailing
-  🔗 https://www.livemint.com/auto-news/uber-pumps-3-000-crore-into-india-arm-as-rapido-challenge-intensifies-ola-cabs-ride-hailing-11772018099231.html
+- HAL, BDL to BEL: Defence stocks extend rally on India-Israel defence deal buzz
+  Nifty Defence India index up 1.07%
+  🔗 https://www.livemint.com/market/stock-market-news/hal-bdl-to-bel-defence-stocks-extend-rally-on-india-israel-defence-deal-buzz-11772081591933.html
 
-- Netflix co-CEO Ted Sarandos to visit White House on Thursday amid Warner Bros bid: Report
-  Netflix CEO Ted Sarandos is expected to attend White House meetings as the company’s $82.
-  🔗 https://www.livemint.com/companies/news/netflix-co-ceo-ted-sarandos-to-visit-white-house-on-thursday-amid-warner-bros-bid-report-11772052860815.html
+- Shree Ram Twistex IPO allotment date LIVE: Step-by-step guide to check status; here's what GMP hints about listing
+  Shree Ram Twistex IPO allotment status can be verified on the NSE and BSE websites. Allotments will be finalized today, with shares credited to demat accounts on February 27. The IPO listing is scheduled for
+  🔗 https://www.livemint.com/market/ipo/shree-ram-twistex-ipo-gmp-shree-ram-twistex-ipo-subscription-status-shree-ram-twistex-ipo-allotment-date-shree-ram-11772087524625.html
 
-- After years of legal wrangling, Enbridge begins rerouting pipeline around Wisconsin reservation
-  Enbridge begins rerouting pipeline
-  🔗 https://www.livemint.com/companies/after-years-of-legal-wrangling-enbridge-begins-rerouting-pipeline-around-wisconsin-reservation-11772052091644.html
+- KSB stock climbs to 8-week high, logging 12% intraday gain. Why is this small-cap rising in a range-bound market?
+  KSB shares surged 12% to  ₹803.85 on February 26, reaching an eight-week high. The stock has gained 12.3% in February, marking
+  🔗 https://www.livemint.com/market/stock-market-news/ksb-stock-climbs-to-8-week-high-logging-12-intraday-gain-why-is-this-small-cap-rising-in-a-range-bound-market-11772085040217.html
 
-- Indian stock market: 10 things that changed for market overnight- Gift Nifty, Nasdaq, Nikkei rally to Nvidia Q4 earnings
-  Gift Nifty was trading around 25,669 level, a premium of nearly 41 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-things-that-changed-for-market-overnight-gift-nifty-nasdaq-nikkei-rally-to-nvidia-q4-earnings-11772038982002.html
+- SBI Life declares interim dividend of  ₹2.7, stock rises around 1.5% - Check record date here
+  The record date for eligible shareholders is March 6, with payout expected by March 27, 2026. SBI Life Insurance shares rose 1.5%
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-life-declares-interim-dividend-of-rs-2-7-sbi-life-share-price-rises-around-1-5-check-sbi-life-record-date-here-11772084393198.html
 
-- Gold, silver rates today: Gold prices fall back to $5,200/oz, silver price near $90. What next?
-  The COMEX gold rate fell nearly 0.50% to $5,201 per ounce. The COMEX silver price slid around 2%
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-fall-back-to-5-200-oz-silver-price-near-90-what-next-11772066616149.html
+- Stocks to buy or sell: Osho Krishan of Angel One suggests buying Central Bank, Engineers India shares in the near-term
+  Nifty 50 and Sensex gained slightly, driven by IT stocks following Nvidia's strong earnings. Institutional buying supported the markets, while mixed trends were noted in wider markets. Analysts
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-osho-krishan-of-angel-one-suggests-buying-central-bank-engineers-india-shares-in-the-nearterm-11772083899393.html
 
-- Stock recommendations for 26 February from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 26 February. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-26-february-from-marketsmith-india-11772021652778.html
-
-- Stocks to buy: Raja Venkatraman recommends two stocks for 26 February
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-stock-picks-26-february-11772026142256.html
-
-- A thaw in the renewable energy deal market? Investors eye CleanMax IPO for pricing cues
-  The listing is expected to set pricing benchmarks for private transactions, including platform sales,
-  🔗 https://www.livemint.com/market/ipo/india-renewable-energy-deals-stalled-cleanmax-ipo-valuation-benchmark-11772002268309.html
+- Guardrails off for Anthropic: Firm tweaks AI safety policy amid heightened competition, lack of regulation—what changes?
+  Anthropic is now weakening its foundational safety principle amid growing competition and lack of government regulation.
+  🔗 https://www.livemint.com/technology/tech-news/guardrails-off-for-anthropic-firm-tweaks-ai-safety-policy-amid-heightened-competition-lack-of-regulation-what-changes-11772071493999.html
 
 - ROI-Time to deflate the AI doom bubble: McGeever
   Time to deflate the AI doom bubble
@@ -96,129 +100,105 @@
   Samsung has launched the Galaxy S26 Ultra with Snapdragon 8 Elite Gen 5 processor. It features a 6.9-inch display, 5,000mAh battery with
   🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s26-ultra-with-snapdragon-8-elite-gen-5-processor-launched-price-specs-and-more-11772044008653.html
 
-- Samsung Galaxy S26 Launch Highlights: Galaxy S26, S26+, S26 Ultra launched with new AI features
-  Samsung has launched the Galaxy S26, S26+ and S26 Ultra along with the Galaxy Buds 4.
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s26-launch-live-updates-unpacked-2026-ultra-price-specs-ai-features-feb-25-11772029674050.html
+- Global Markets | Australian shares hit record high for second day; miners, health, tech fuel rally
+  Australian stocks hit a fresh record high for the second day. Strong performances from miners, healthcare, and tech sectors. Qantas Airways experienced a notable slump due to its international division's profit decline.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-hit-record-high-for-second-day-miners-health-tech-fuel-rally/articleshow/128804618.cms
 
-- S&P 500 posts back-to-back gains, Dow jumps 300 points as Nvidia rises: Live updates - CNBC
-  P 500 posts back-to-back gains, Dow jumps
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5ieXZxVk1RWW52MThkTlJiaUROa1JQajh2Z3lxVmtjcW5ZMDNHNnluMjRraFZVTnpaRGhBa2ZBckpWdW05YkpYZEtLY1Jjd3BTM2lud194YUxYaV9TS0IzaVFOT3ZYcU1yZGdsekE4M1F1Ymg2Y29R0gF8QVVfeXFMUGJBVi1KMVlUd0dqQ1pfXy0zNmZaZ1VSUGtITGFEcTdKWmpIYzF0UWljRXFhS0FXMV9HelptOUI5RzI1OXpZQm1LdUtBQndCRF9rYUpTRVRJQmZ5SGVMenQ2R184TzFFNGlHcW9JTzM1SVRRSkRFUV9kUkhvWQ?oc=5
+- Liraglutide still a ‘decent market’ despite Novo’s price moves: Siddharth Mittal, Biocon
+  Biocon CEO Siddharth Mittal outlines the company's strategy in the competitive GLP-1 market. Focusing on liraglutide's launch in the US and Europe,
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/liraglutide-still-a-decent-market-despite-novos-price-moves-siddharth-mittal-biocon/articleshow/128804478.cms
 
-- Nvidia Earnings Loom as Risk Factor for AI-Obsessed Stock Market - Bloomberg.com
-  Nvidia Earnings Loom as Risk
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHE2WXhqV29sdVBnQy1IN08xaVdHVVhla3h5bmdKb25qVU1UNEVxTHFvbWMtcjJlYk1EUkRpY19yUXN6WjJ5c3FDOEYyeFVaU1BiRnNRYkY5Z0YyV3RaMktkaFA5aFRBdUNrWDZ3NzZHQ1pLX2xWemVGTFdySVh0NENmNE1WQXptWnRwc05sSXlIZkI3bG9xSFp0dUl3YWNLOXIycldneU1iY0xYS0RCNWM2Z1JlUQ?oc=5
+- NSE is said to invite banks to pitch for nearly Rs 23,000 crore IPO
+  National Stock Exchange of India Ltd. has invited banks to pitch for roles in its long-delayed IPO. Move signals fresh momentum for one of India's biggest potential listings.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-is-said-to-invite-banks-to-pitch-for-2-5-bllion-ipo/articleshow/128804242.cms
 
-- Nvidia Earnings Results Steady Markets as AI Spending Debate Intensifies - Decrypt
-  Nvidia Earnings Results Steady
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxONVh3T1BUeWZZVy1oNjI1dTdsY2tzNTJQUmF5YU5pQXkzUFhyaGFJaFhqQ0lTVUl6MGlCYnp6V25GeS1oWGVwQ19XamN1cUN4bWZwcjN6LUczQ2lZRUpVcC1MMFo1M0V0QnlkZ2tGZF9maFpzajZWN213SUJzQzhxN0RFcjd3NU9xNUtncVBLUW3SAZgBQVVfeXFMTTBhOXRhM040WEZ6NDdUeFlQaG5EMHdCT19pR01KTTYteG5tTGU2Vk5TcTI1NzZ4dUZtcDh5eDdtb0l3WllxbU9GUUphei1XeUhUT1A3S2xQTnF1N0tIU1daT1hQSHJhakpoWW9SeC1rR0lHVGN6RkpqeXNOMjJFekxKekVCQlkxZ2lVOEZ4S21kWGh6ZExubXA?oc=5
+- Waaree, Premier Energies shares rise 2% as brokers brush off US CVD fears
+  Indian solar energy stocks saw gains on Thursday. Brokerages reassured investors, downplaying the impact of new US import duties. This is due to their sourcing strategies and limited reliance on Indian-made solar cells.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/waaree-premier-energies-shares-rise-2-as-brokers-brush-off-us-cvd-fears/articleshow/128804004.cms
 
-- ‘A feedback loop with no brake’: how an AI doomsday report shook US markets - The Guardian
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOam1VaUUycHM3Nlllakd2ZFo0MDZOaUJGNndoNE1jNGFRM0hRNWdTVEJTd0ZGUnlNblBzQWNHSnZ4ODJOek5oR0NrVmtCdjVLVzBMQXRSSWhPUmREZEJDaXdlMEhFZHNEYUtBZUNRTF9ZMHN4WDg4QjE1Ymp5WHkxUHRoTXNQXzNVR1I3aFpVaEtJajlqM0JQMUlTSml2LXE0NTZLbzhFLVV2Ujk3bTNrRVhn?oc=5
+- Tejas Networks shares rocket 10%, snap 4-day losing streak. What’s triggering the massive surge?
+  Shares of Tejas Networks rose sharply after the company sealed a major agreement with NEC Corporation. MIMO (Multiple-Input Multiple-Output) is a wireless technology that enhances data speeds.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tejas-networks-shares-rocket-10-snap-4-day-losing-streak-whats-triggering-the-massive-surge/articleshow/128803467.cms
 
-- Closing Bell: Markets erase morning gains, Nifty below 25,500, Sense up 50 pts; auto, metal outperform - Moneycontrol.com
-  Nifty below 25,500, Sense up 50 pts; auto,
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNjJNc1lEaU1NUUZxaEszVjVtazEtdFpnQmF0YUUwSGlqX3FXcDVfVXNkOWhmQWg5LXRxRXhXMlBQdTQ3MjI2Q2twS0FxcV84VDc5SE53VXB3UEZ5RlVXaS02OEZ4V3NMQlNOdU53REpFbDdLSGEtQmlaX1ZJazhPSl9NcWM3QkhXc2MwQmluNllCT3NBWGNacGN6RnVnTnBndEdwSE5lWFNvclNNYmtoMXRpR2ZnXzRySXBKUTBLSzFxUVBHYmI5ekZuc1JGTTZjS3NiTkdqQi1SVUUxRnU5aDNScEt3Z00tOExWUnR1c2Q?oc=5
-
-- Global Market Today | Asian stocks climb, Nvidia pares earlier gains
-  South Korea's Kospi Index reached a record high. Concerns about artificial intelligence are easing. Nvidia's sales forecast is upbeat.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-climb-nvidia-pares-earlier-gains/articleshow/128799100.cms
-
-- US Stock Market | Earnings fail to lift stocks amid AI woes
-  Despite a strong corporate earnings season with 13% growth and positive future guidance, the S&amp;P 500 declined. Investors are grappling with uncertainty surrounding AI's disruptive potential and geopolitical risks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-fail-to-lift-stocks-amid-ai-woes/articleshow/128799063.cms
-
-- Export uncertainty may dull domestic momentum for solar companies
-  US imposition of a 125.87% countervailing duty on Indian solar modules is set to impact domestic companies by potentially lowering module prices. Exporters may redirect unsold inventory to India.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/export-uncertainty-may-dull-domestic-momentum-for-solar-companies/articleshow/128799006.cms
-
-- SP Group's Rs 25,000 crore bond issue price likely to be lower
-  Shapoorji Pallonji Group is set to raise approximately ₹25,000 crore through a bond issue. Improved prospects for asset sales and a potential settlement regarding its stake in Tata Sons are boosting investor confidence.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/sp-groups-rs-25000-crore-bond-issue-price-likely-to-be-lower/articleshow/128798854.cms
-
-- Analysts cautious on IRFC OFS, see limited upside
-  The government is selling a stake in Indian Railway Finance Corporation. The offer for sale aims to meet public shareholding norms.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/analysts-cautious-on-irfc-ofs-see-limited-upside/articleshow/128798797.cms
+- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
+  Modi in Israel updates: India’s PM
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
 - Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India - NDTV
   Pakistan's 'Muslim Ummah' Concern
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzZ5NW1TNDBlMC14OUpUbVJGdnpUbkprM3NCLV9MaWdHS2QtQW9GcFFWOXFsRWIxVXVHNnZmYjJuN1NnR3pLcDJIeWZRQkxQbXNCRXFOLUV6a0VhcEJUQ2ZpMXlaTlBYeEVobVBMQ0d6aWRFOGMtOEpRQ1I1ZVF4cDdsZUJxSDVSQUtzVlF6MHdHWG1sZW1zOXBDMEN0VHUzQzFTekZkM1M3aFV2eGtSbG1R0gG6AUFVX3lxTE9HWklMNjdKWGhQV2hueWFYZkhjbVJ0MmVabkhXTmxEMi1JZXd0QzdkLTNZSXc3ejZmZWJzOGZKVzJXSmhlVGpiYUVfOVVLTm90UmJUbzV1ejVhRktXLWR0THMybkZ5dGxpNC10RXVJS3IteUxGMDIzeWNZTTNDaW9uZHJIZ2J1dFN0dTBiUko3UXBXUVFpZXlaQ25RX0ZkMnZ5bERMUGw2QmFyQV8zXzNQMUJEZFU5RWpOZw?oc=5
 
-- '35 million would have died if...': Trump's new claim on India-Pakistan conflict | India News - Hindustan Times
-  '35 million would have died if...': Trump's new claim on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVlpenB6Vm5MVmg0X25mWWFXWHZ0dlhBOTdtLV9Jc2VWVVBtdEQtS0YzSVpVQWZsS1RmMXJERUs4aGRUWVJiMUZtVi1zdjI2QVBVaTRmdHpDVjJCakhKSVFoUEFHN1VLOHNaTXlDVHBKYTRucGliLVhhY1RaeDNQYmx4d3BHMTFZV0ZtMGF3cXBtczhKR2R0elEtNHlfQ1c3M3BfRkRFNjZyUmVVQTB6MzJ2Y0toaEI0aVZzeHBVR2E0Uko4dm5qMjRzSnRiRThDQk5QTS03NkNlaGNKbU14NmNMTVFNV0VMckloX1pmcVk3QdIB9wFBVV95cUxORlc5UXdXc0tEVTJOSWRZZkFvN2N6aVdyZi1uT3NpR01SN0kzX0RxQ2RNcTNLbE1UUG5ZVEFDZ09reVVmbUx0MzVRbVdzeWcyTmhkaUJaRUtVNWpzRHhDNmk2S1Vyazg5ZjQ4b016QTY4Y2djWlNnQXR0dTZUazhIenZSRE5MQVlwY0xHZ2M1QlEwal9DRmx6bG5fV1Q5RUFPbnQwaW1SSGJJMGEzcE92d004WHJBTzREeTFJbFFEYnNNay1EcVBTU3B4dVc0cWJWd0J0NDNiTDZ0UW52UUVYcjBSdmRMUHVWd0hQQ01uZXNxcXZrSURN?oc=5
+- From Selfies To Shared Ride: PM Modi's Day One In Israel Signals Strong Strategic Bond With India - The Times of India
+  PM Modi's Day One In Israel Signals Strong Strategic Bond With India.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjZhOWVlWGNuU2s4ejFuaElPMHRNa21FSmc1c2puQVpSQjUxX0hOTTdsRkFZUmFUYmN6dURKeFlaV3FFR0xBTDNXbFBCUktoQ2ZUSnpqaldVTEllU2M3OTRVN3dVMHZUMU1YbkZkZ0dpLVhkZ19vbF92eWNmWkhKWUptNy1nY0Mzb2prSjFTQmxZanA4TmNWcG9ZZFFxdGVJM0hXUVB5eWI3YURNZDhYcDktVlVYbmVydWRTZm9ueDFxVmFsYlBtMFFmeV9nOHlNb3FrQ0tkcTREa2FISFRfYURnTWlDQ2I1NnVVR2hSQTM5RHZaQ2c4RGFMVdIBgAJBVV95cUxOZUtOSGx6ZDNieVk5MXRFVjZrd2VjSlRjQ2FFWXlWdTJDd003MkZ1SVJWV2FxcEJ4SmVIcFVlbUdXR1RKVjU2d3hGemtqc29BN2VGOU8wRnJaVGZtZFZPT3VZc29ZQ3lVTFFqZFJaamFoRlViZjI1elJjNzJtYWFXeU9QOFRLcjA3dGs1V3Y3S3dxMG03R3dxSUNpcWJ2amFCNEhwSE1VbEZscXEySmo1RmJJdEtydE9JeTFfZlNMdkdmNzBHd0NsUUlEYk5Oc2FpalpQTExvWEZMSEVjbTlObE9UTEhCN0t2LUotVXoxQ3R1WXZEQW1Db2ZSQlFTbGJx?oc=5
 
-- PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner; key MoUs to be inked on Feb 26 - The Times of India
-  PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner. Key MoUs to be inked
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcVFJX2dqWkVPYkMxVDQ5ZUtiU0FkSU1sa1N1U1A0MkVpazE0R0wyeHlGc19EUnd3WDVQY1FfazA3SFF4NHB5ME15TVJENGZ4ZWV4N1NxRDh2V01XSExzaFR3aHNoVkpua19fYlZHSlBFejdOQTJVejZLTm1DeGhudVRXMVNNaUVZcDM1MnluRUl0eHR6MnIyZHdqdTJFQXBwSTFsaGU5dV9vdTZlODlJUFIxNEZYMXJzT0FZU2NPZkROcUptTGVNckJJUW9IWGpxMzZaN2FLNUp3dWVHWDZ2eTJTdWhqOV9kSFVyQzdHdFE3YjljU1cybHpaMldKMnM1TjJZdzVVODREQdIBjwJBVV95cUxNRWpOWnlOS0hYMm8zTEJRZGIxXzBBQlNKYUh1WDBiNmtUZHU1UWdYQ2VZRk1sRmE2NkNTTFB0MGNvZVpJei1UZjRMdUhPNEp6b0pRVS1xYl9vT2RQWDlNWG9NYUh1ZE1SdVowUFBpR3RzdHFHdHNac0hTLVZSWWRvYlBWbVR5d05GcUFfLU5XV0RKWEctYl9BcmNoZEV0dWUyOERzWlBPYU9kZ1Zkc0pzUF9NZFlQN2ZpeHV5YjZTZTh1bWNBTU0wcWh6dE5Ba0ZTT2c3NVQzRWg1eG1ISENHbFFidjZIcklGWDlOMHhacTQ4U1NnODM3c09teDNNeEpwUFJFdUI1dzhIZC0yY0Rz?oc=5
+- 'J&K Development Budget More Than Pak IMF Bailout': India's 'La La Land' Jibe - NDTV
+  'J&amp;K Development Budget More Than Pak
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVF0dVMzejUwQzJkaVFmSmpGcUp2VDVvckpUUzlyZU5TVnZPbzBWbkNQMC0yQkxjU2tOb2pKQ0gxb2otNVlQdi0yTWhVMkU1UUtUOHJfZzkyTGVXMThUQnIydDRoczJoWnh5a1duTlBfSHg2ZFJub3NCenNjQU0tdjBWdDlxYXRMUjJVRTVnXzhuanRKcDhvRWNnSXA1T19VV3dVMGN0Qk1zUTY5bFQ4cTl30gG6AUFVX3lxTE1sdURIUERpYUR4NWluTWprZ1RHbW5sbmZNTnhjaGNVUGhEUS1uSk1Id1JzSkluWTNwazJ6NDYwX3dpeHd6emEwQVJZeFRFeFJxeDh5OHZyQjlCR2FnZV9nZ2JabG1tY3BCbURSZHZoS0NMRU5Gb04taEdabHEtX0Uwcm1nQ2dES2NrcDJIbXNiWUZ3S0FHRGlwVG5ZV0FadG9mUGtjd3JQYzNOYmR4aGpPa2hUUENLWkIxZw?oc=5
 
-- Morning Digest: PM Modi says India ‘stands firmly’ with Israel; After Supreme Court takes note, NCERT says distribution of Class 8 book with ‘corruption’ in judiciary stopped, and more - The Hindu
-  The Hindu reports that the government is considering a ban on the distribution of Class 8 books with ‘corruption’
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTFKTS1wZmFieHNhQV9adWFlV3VyN0pWNnUxSC1mYnhrc0QwUFNmdUNONDFnTEoxTmlEZFA1UzI3LVBETG9uQkhWbkdFSU1pUDQtajliaHBST3FraVBCZkZPOW9KUUxRemtUbnI2LUJKZ2R3VlN1clBvZW1YR3E2RnI0UWV5SjVzYTNMNFA2aVVYWXcxdnfSAZwBQVVfeXFMUG9hX3FvQWVoV3ZacWE0WGxFOEN0bWo5Y0ZUbEhfVWREVTh6X1hPanFyWVVrRFdBNnYwOU1FenJzQ3p1b0tpNWlfZ2pReFV1dEpiVFBNOHJNNThSb09DOW1KbXVTRXN0TEJPcTI4UFBfMERnQUw2RVdKYTgtMFE3eE5neDlRZEM1NHd1MjdUZFJFYUhabW9mMER1dVhP?oc=5
+- School assembly news headlines, February 26: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 26: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXl3SVRsN0JwSDdtN3VKQ245ZHg1YnRObzhwZnFOYTBQVUZvdXBjTHZYWkE3NEMtSG5nY0NjajVfdnJuLV9zZFpOekNnS2RsbTFsUW9sQ2VlczFGWHF6VlFxY2JhOWgwWXE1a3JUQ1VYS25SSHYzQVVOcjlNNFJOby1VeEwwX2otdmExbmFLcjh6TWpQMENHN2dVaHpyYjVraHRxdjB6QzM0THlGclZQcUZJaldRMVdjWVl1c0tadFQ2dmFBRjctdHJSSHo0T0RicE83WE11UE1hQlZtOTNsX04weUprQdIB6wFBVV95cUxOUWl6NzBDUkY0bVVoSFV1YWVwSlkyRHVnVmJOdUxydG9RYW5mR19XTld4MW0ydXpHRHE4N3I2UHU1SEUtR2tvM0owOXU0VXRmX0duOC0xRXg4a2VuWEdUVWdvSWhqbXhPWjZFbjZrbFIxNW9ySDhDa2ZJTHMzbUQ3dU5hS2RCbHhJUzVxSER4dVoyTV8ybC1LenZ2bkhZU2lNXzN5M3NydHg5NzBNR1N5N1VTTW1RX0E4SF83Y3NGVjVfeld3QVdib3JzX0IzZ3M1RzdSMzdRNGxTLWJxZTZTNlExRTMwUHVVeG9F?oc=5
 
-- India consistently underlined dialogue over confrontation, consensus over division: EAM Jaishankar - News On AIR
-  India consistently underlined dialogue over confrontation, consensus over division
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEpZbEVSRVFkZ1lEX1ByWmxWMGhmV2dGYlRnNG1abXZxbjFRZGVDV3RSX2pKb1JmemQ0WjVHdHZOUUUzMkc5V0xVQnhKNnhxSGIxNnZYVVM2Vzl4czhHbDRGZk94QmVNRF9YUFBSY24xOW1PWVBtMVJQbEhnd2JxSGI3MURvUHQxUXR5RERkLU9rSUItMXloWXV3ZjhYSGZnR3BickdjOEtkRmcwX0N4UkZ5cmJDNkh4OUN6TWFVYldTUUF4?oc=5
-
-- Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India - NDTV
-  Pakistan's 'Muslim Ummah' Concern
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzZ5NW1TNDBlMC14OUpUbVJGdnpUbkprM3NCLV9MaWdHS2QtQW9GcFFWOXFsRWIxVXVHNnZmYjJuN1NnR3pLcDJIeWZRQkxQbXNCRXFOLUV6a0VhcEJUQ2ZpMXlaTlBYeEVobVBMQ0d6aWRFOGMtOEpRQ1I1ZVF4cDdsZUJxSDVSQUtzVlF6MHdHWG1sZW1zOXBDMEN0VHUzQzFTekZkM1M3aFV2eGtSbG1R0gG6AUFVX3lxTE9HWklMNjdKWGhQV2hueWFYZkhjbVJ0MmVabkhXTmxEMi1JZXd0QzdkLTNZSXc3ejZmZWJzOGZKVzJXSmhlVGpiYUVfOVVLTm90UmJUbzV1ejVhRktXLWR0THMybkZ5dGxpNC10RXVJS3IteUxGMDIzeWNZTTNDaW9uZHJIZ2J1dFN0dTBiUko3UXBXUVFpZXlaQ25RX0ZkMnZ5bERMUGw2QmFyQV8zXzNQMUJEZFU5RWpOZw?oc=5
-
-- '35 million would have died if...': Trump's new claim on India-Pakistan conflict | India News - Hindustan Times
-  '35 million would have died if...': Trump's new claim on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVlpenB6Vm5MVmg0X25mWWFXWHZ0dlhBOTdtLV9Jc2VWVVBtdEQtS0YzSVpVQWZsS1RmMXJERUs4aGRUWVJiMUZtVi1zdjI2QVBVaTRmdHpDVjJCakhKSVFoUEFHN1VLOHNaTXlDVHBKYTRucGliLVhhY1RaeDNQYmx4d3BHMTFZV0ZtMGF3cXBtczhKR2R0elEtNHlfQ1c3M3BfRkRFNjZyUmVVQTB6MzJ2Y0toaEI0aVZzeHBVR2E0Uko4dm5qMjRzSnRiRThDQk5QTS03NkNlaGNKbU14NmNMTVFNV0VMckloX1pmcVk3QdIB9wFBVV95cUxORlc5UXdXc0tEVTJOSWRZZkFvN2N6aVdyZi1uT3NpR01SN0kzX0RxQ2RNcTNLbE1UUG5ZVEFDZ09reVVmbUx0MzVRbVdzeWcyTmhkaUJaRUtVNWpzRHhDNmk2S1Vyazg5ZjQ4b016QTY4Y2djWlNnQXR0dTZUazhIenZSRE5MQVlwY0xHZ2M1QlEwal9DRmx6bG5fV1Q5RUFPbnQwaW1SSGJJMGEzcE92d004WHJBTzREeTFJbFFEYnNNay1EcVBTU3B4dVc0cWJWd0J0NDNiTDZ0UW52UUVYcjBSdmRMUHVWd0hQQ01uZXNxcXZrSURN?oc=5
-
-- PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner; key MoUs to be inked on Feb 26 - The Times of India
-  PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner. Key MoUs to be inked
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcVFJX2dqWkVPYkMxVDQ5ZUtiU0FkSU1sa1N1U1A0MkVpazE0R0wyeHlGc19EUnd3WDVQY1FfazA3SFF4NHB5ME15TVJENGZ4ZWV4N1NxRDh2V01XSExzaFR3aHNoVkpua19fYlZHSlBFejdOQTJVejZLTm1DeGhudVRXMVNNaUVZcDM1MnluRUl0eHR6MnIyZHdqdTJFQXBwSTFsaGU5dV9vdTZlODlJUFIxNEZYMXJzT0FZU2NPZkROcUptTGVNckJJUW9IWGpxMzZaN2FLNUp3dWVHWDZ2eTJTdWhqOV9kSFVyQzdHdFE3YjljU1cybHpaMldKMnM1TjJZdzVVODREQdIBjwJBVV95cUxNRWpOWnlOS0hYMm8zTEJRZGIxXzBBQlNKYUh1WDBiNmtUZHU1UWdYQ2VZRk1sRmE2NkNTTFB0MGNvZVpJei1UZjRMdUhPNEp6b0pRVS1xYl9vT2RQWDlNWG9NYUh1ZE1SdVowUFBpR3RzdHFHdHNac0hTLVZSWWRvYlBWbVR5d05GcUFfLU5XV0RKWEctYl9BcmNoZEV0dWUyOERzWlBPYU9kZ1Zkc0pzUF9NZFlQN2ZpeHV5YjZTZTh1bWNBTU0wcWh6dE5Ba0ZTT2c3NVQzRWg1eG1ISENHbFFidjZIcklGWDlOMHhacTQ4U1NnODM3c09teDNNeEpwUFJFdUI1dzhIZC0yY0Rz?oc=5
-
-- Morning Digest: PM Modi says India ‘stands firmly’ with Israel; After Supreme Court takes note, NCERT says distribution of Class 8 book with ‘corruption’ in judiciary stopped, and more - The Hindu
-  The Hindu reports that the government is considering a ban on the distribution of Class 8 books with ‘corruption’
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTFKTS1wZmFieHNhQV9adWFlV3VyN0pWNnUxSC1mYnhrc0QwUFNmdUNONDFnTEoxTmlEZFA1UzI3LVBETG9uQkhWbkdFSU1pUDQtajliaHBST3FraVBCZkZPOW9KUUxRemtUbnI2LUJKZ2R3VlN1clBvZW1YR3E2RnI0UWV5SjVzYTNMNFA2aVVYWXcxdnfSAZwBQVVfeXFMUG9hX3FvQWVoV3ZacWE0WGxFOEN0bWo5Y0ZUbEhfVWREVTh6X1hPanFyWVVrRFdBNnYwOU1FenJzQ3p1b0tpNWlfZ2pReFV1dEpiVFBNOHJNNThSb09DOW1KbXVTRXN0TEJPcTI4UFBfMERnQUw2RVdKYTgtMFE3eE5neDlRZEM1NHd1MjdUZFJFYUhabW9mMER1dVhP?oc=5
-
-- India consistently underlined dialogue over confrontation, consensus over division: EAM Jaishankar - News On AIR
-  India consistently underlined dialogue over confrontation, consensus over division
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEpZbEVSRVFkZ1lEX1ByWmxWMGhmV2dGYlRnNG1abXZxbjFRZGVDV3RSX2pKb1JmemQ0WjVHdHZOUUUzMkc5V0xVQnhKNnhxSGIxNnZYVVM2Vzl4czhHbDRGZk94QmVNRF9YUFBSY24xOW1PWVBtMVJQbEhnd2JxSGI3MURvUHQxUXR5RERkLU9rSUItMXloWXV3ZjhYSGZnR3BickdjOEtkRmcwX0N4UkZ5cmJDNkh4OUN6TWFVYldTUUF4?oc=5
+- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
+  Modi in Israel updates: India’s PM
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
 - Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India - NDTV
   Pakistan's 'Muslim Ummah' Concern
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzZ5NW1TNDBlMC14OUpUbVJGdnpUbkprM3NCLV9MaWdHS2QtQW9GcFFWOXFsRWIxVXVHNnZmYjJuN1NnR3pLcDJIeWZRQkxQbXNCRXFOLUV6a0VhcEJUQ2ZpMXlaTlBYeEVobVBMQ0d6aWRFOGMtOEpRQ1I1ZVF4cDdsZUJxSDVSQUtzVlF6MHdHWG1sZW1zOXBDMEN0VHUzQzFTekZkM1M3aFV2eGtSbG1R0gG6AUFVX3lxTE9HWklMNjdKWGhQV2hueWFYZkhjbVJ0MmVabkhXTmxEMi1JZXd0QzdkLTNZSXc3ejZmZWJzOGZKVzJXSmhlVGpiYUVfOVVLTm90UmJUbzV1ejVhRktXLWR0THMybkZ5dGxpNC10RXVJS3IteUxGMDIzeWNZTTNDaW9uZHJIZ2J1dFN0dTBiUko3UXBXUVFpZXlaQ25RX0ZkMnZ5bERMUGw2QmFyQV8zXzNQMUJEZFU5RWpOZw?oc=5
 
-- '35 million would have died if...': Trump's new claim on India-Pakistan conflict | India News - Hindustan Times
-  '35 million would have died if...': Trump's new claim on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVlpenB6Vm5MVmg0X25mWWFXWHZ0dlhBOTdtLV9Jc2VWVVBtdEQtS0YzSVpVQWZsS1RmMXJERUs4aGRUWVJiMUZtVi1zdjI2QVBVaTRmdHpDVjJCakhKSVFoUEFHN1VLOHNaTXlDVHBKYTRucGliLVhhY1RaeDNQYmx4d3BHMTFZV0ZtMGF3cXBtczhKR2R0elEtNHlfQ1c3M3BfRkRFNjZyUmVVQTB6MzJ2Y0toaEI0aVZzeHBVR2E0Uko4dm5qMjRzSnRiRThDQk5QTS03NkNlaGNKbU14NmNMTVFNV0VMckloX1pmcVk3QdIB9wFBVV95cUxORlc5UXdXc0tEVTJOSWRZZkFvN2N6aVdyZi1uT3NpR01SN0kzX0RxQ2RNcTNLbE1UUG5ZVEFDZ09reVVmbUx0MzVRbVdzeWcyTmhkaUJaRUtVNWpzRHhDNmk2S1Vyazg5ZjQ4b016QTY4Y2djWlNnQXR0dTZUazhIenZSRE5MQVlwY0xHZ2M1QlEwal9DRmx6bG5fV1Q5RUFPbnQwaW1SSGJJMGEzcE92d004WHJBTzREeTFJbFFEYnNNay1EcVBTU3B4dVc0cWJWd0J0NDNiTDZ0UW52UUVYcjBSdmRMUHVWd0hQQ01uZXNxcXZrSURN?oc=5
+- From Selfies To Shared Ride: PM Modi's Day One In Israel Signals Strong Strategic Bond With India - The Times of India
+  PM Modi's Day One In Israel Signals Strong Strategic Bond With India.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjZhOWVlWGNuU2s4ejFuaElPMHRNa21FSmc1c2puQVpSQjUxX0hOTTdsRkFZUmFUYmN6dURKeFlaV3FFR0xBTDNXbFBCUktoQ2ZUSnpqaldVTEllU2M3OTRVN3dVMHZUMU1YbkZkZ0dpLVhkZ19vbF92eWNmWkhKWUptNy1nY0Mzb2prSjFTQmxZanA4TmNWcG9ZZFFxdGVJM0hXUVB5eWI3YURNZDhYcDktVlVYbmVydWRTZm9ueDFxVmFsYlBtMFFmeV9nOHlNb3FrQ0tkcTREa2FISFRfYURnTWlDQ2I1NnVVR2hSQTM5RHZaQ2c4RGFMVdIBgAJBVV95cUxOZUtOSGx6ZDNieVk5MXRFVjZrd2VjSlRjQ2FFWXlWdTJDd003MkZ1SVJWV2FxcEJ4SmVIcFVlbUdXR1RKVjU2d3hGemtqc29BN2VGOU8wRnJaVGZtZFZPT3VZc29ZQ3lVTFFqZFJaamFoRlViZjI1elJjNzJtYWFXeU9QOFRLcjA3dGs1V3Y3S3dxMG03R3dxSUNpcWJ2amFCNEhwSE1VbEZscXEySmo1RmJJdEtydE9JeTFfZlNMdkdmNzBHd0NsUUlEYk5Oc2FpalpQTExvWEZMSEVjbTlObE9UTEhCN0t2LUotVXoxQ3R1WXZEQW1Db2ZSQlFTbGJx?oc=5
 
-- PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner; key MoUs to be inked on Feb 26 - The Times of India
-  PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner. Key MoUs to be inked
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcVFJX2dqWkVPYkMxVDQ5ZUtiU0FkSU1sa1N1U1A0MkVpazE0R0wyeHlGc19EUnd3WDVQY1FfazA3SFF4NHB5ME15TVJENGZ4ZWV4N1NxRDh2V01XSExzaFR3aHNoVkpua19fYlZHSlBFejdOQTJVejZLTm1DeGhudVRXMVNNaUVZcDM1MnluRUl0eHR6MnIyZHdqdTJFQXBwSTFsaGU5dV9vdTZlODlJUFIxNEZYMXJzT0FZU2NPZkROcUptTGVNckJJUW9IWGpxMzZaN2FLNUp3dWVHWDZ2eTJTdWhqOV9kSFVyQzdHdFE3YjljU1cybHpaMldKMnM1TjJZdzVVODREQdIBjwJBVV95cUxNRWpOWnlOS0hYMm8zTEJRZGIxXzBBQlNKYUh1WDBiNmtUZHU1UWdYQ2VZRk1sRmE2NkNTTFB0MGNvZVpJei1UZjRMdUhPNEp6b0pRVS1xYl9vT2RQWDlNWG9NYUh1ZE1SdVowUFBpR3RzdHFHdHNac0hTLVZSWWRvYlBWbVR5d05GcUFfLU5XV0RKWEctYl9BcmNoZEV0dWUyOERzWlBPYU9kZ1Zkc0pzUF9NZFlQN2ZpeHV5YjZTZTh1bWNBTU0wcWh6dE5Ba0ZTT2c3NVQzRWg1eG1ISENHbFFidjZIcklGWDlOMHhacTQ4U1NnODM3c09teDNNeEpwUFJFdUI1dzhIZC0yY0Rz?oc=5
+- 'J&K Development Budget More Than Pak IMF Bailout': India's 'La La Land' Jibe - NDTV
+  'J&amp;K Development Budget More Than Pak
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVF0dVMzejUwQzJkaVFmSmpGcUp2VDVvckpUUzlyZU5TVnZPbzBWbkNQMC0yQkxjU2tOb2pKQ0gxb2otNVlQdi0yTWhVMkU1UUtUOHJfZzkyTGVXMThUQnIydDRoczJoWnh5a1duTlBfSHg2ZFJub3NCenNjQU0tdjBWdDlxYXRMUjJVRTVnXzhuanRKcDhvRWNnSXA1T19VV3dVMGN0Qk1zUTY5bFQ4cTl30gG6AUFVX3lxTE1sdURIUERpYUR4NWluTWprZ1RHbW5sbmZNTnhjaGNVUGhEUS1uSk1Id1JzSkluWTNwazJ6NDYwX3dpeHd6emEwQVJZeFRFeFJxeDh5OHZyQjlCR2FnZV9nZ2JabG1tY3BCbURSZHZoS0NMRU5Gb04taEdabHEtX0Uwcm1nQ2dES2NrcDJIbXNiWUZ3S0FHRGlwVG5ZV0FadG9mUGtjd3JQYzNOYmR4aGpPa2hUUENLWkIxZw?oc=5
 
-- Morning Digest: PM Modi says India ‘stands firmly’ with Israel; After Supreme Court takes note, NCERT says distribution of Class 8 book with ‘corruption’ in judiciary stopped, and more - The Hindu
-  The Hindu reports that the government is considering a ban on the distribution of Class 8 books with ‘corruption’
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTFKTS1wZmFieHNhQV9adWFlV3VyN0pWNnUxSC1mYnhrc0QwUFNmdUNONDFnTEoxTmlEZFA1UzI3LVBETG9uQkhWbkdFSU1pUDQtajliaHBST3FraVBCZkZPOW9KUUxRemtUbnI2LUJKZ2R3VlN1clBvZW1YR3E2RnI0UWV5SjVzYTNMNFA2aVVYWXcxdnfSAZwBQVVfeXFMUG9hX3FvQWVoV3ZacWE0WGxFOEN0bWo5Y0ZUbEhfVWREVTh6X1hPanFyWVVrRFdBNnYwOU1FenJzQ3p1b0tpNWlfZ2pReFV1dEpiVFBNOHJNNThSb09DOW1KbXVTRXN0TEJPcTI4UFBfMERnQUw2RVdKYTgtMFE3eE5neDlRZEM1NHd1MjdUZFJFYUhabW9mMER1dVhP?oc=5
+- School assembly news headlines, February 26: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 26: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXl3SVRsN0JwSDdtN3VKQ245ZHg1YnRObzhwZnFOYTBQVUZvdXBjTHZYWkE3NEMtSG5nY0NjajVfdnJuLV9zZFpOekNnS2RsbTFsUW9sQ2VlczFGWHF6VlFxY2JhOWgwWXE1a3JUQ1VYS25SSHYzQVVOcjlNNFJOby1VeEwwX2otdmExbmFLcjh6TWpQMENHN2dVaHpyYjVraHRxdjB6QzM0THlGclZQcUZJaldRMVdjWVl1c0tadFQ2dmFBRjctdHJSSHo0T0RicE83WE11UE1hQlZtOTNsX04weUprQdIB6wFBVV95cUxOUWl6NzBDUkY0bVVoSFV1YWVwSlkyRHVnVmJOdUxydG9RYW5mR19XTld4MW0ydXpHRHE4N3I2UHU1SEUtR2tvM0owOXU0VXRmX0duOC0xRXg4a2VuWEdUVWdvSWhqbXhPWjZFbjZrbFIxNW9ySDhDa2ZJTHMzbUQ3dU5hS2RCbHhJUzVxSER4dVoyTV8ybC1LenZ2bkhZU2lNXzN5M3NydHg5NzBNR1N5N1VTTW1RX0E4SF83Y3NGVjVfeld3QVdib3JzX0IzZ3M1RzdSMzdRNGxTLWJxZTZTNlExRTMwUHVVeG9F?oc=5
 
-- India consistently underlined dialogue over confrontation, consensus over division: EAM Jaishankar - News On AIR
-  India consistently underlined dialogue over confrontation, consensus over division
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEpZbEVSRVFkZ1lEX1ByWmxWMGhmV2dGYlRnNG1abXZxbjFRZGVDV3RSX2pKb1JmemQ0WjVHdHZOUUUzMkc5V0xVQnhKNnhxSGIxNnZYVVM2Vzl4czhHbDRGZk94QmVNRF9YUFBSY24xOW1PWVBtMVJQbEhnd2JxSGI3MURvUHQxUXR5RERkLU9rSUItMXloWXV3ZjhYSGZnR3BickdjOEtkRmcwX0N4UkZ5cmJDNkh4OUN6TWFVYldTUUF4?oc=5
+- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
+  Modi in Israel updates: India’s PM
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
 
 - Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India - NDTV
   Pakistan's 'Muslim Ummah' Concern
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzZ5NW1TNDBlMC14OUpUbVJGdnpUbkprM3NCLV9MaWdHS2QtQW9GcFFWOXFsRWIxVXVHNnZmYjJuN1NnR3pLcDJIeWZRQkxQbXNCRXFOLUV6a0VhcEJUQ2ZpMXlaTlBYeEVobVBMQ0d6aWRFOGMtOEpRQ1I1ZVF4cDdsZUJxSDVSQUtzVlF6MHdHWG1sZW1zOXBDMEN0VHUzQzFTekZkM1M3aFV2eGtSbG1R0gG6AUFVX3lxTE9HWklMNjdKWGhQV2hueWFYZkhjbVJ0MmVabkhXTmxEMi1JZXd0QzdkLTNZSXc3ejZmZWJzOGZKVzJXSmhlVGpiYUVfOVVLTm90UmJUbzV1ejVhRktXLWR0THMybkZ5dGxpNC10RXVJS3IteUxGMDIzeWNZTTNDaW9uZHJIZ2J1dFN0dTBiUko3UXBXUVFpZXlaQ25RX0ZkMnZ5bERMUGw2QmFyQV8zXzNQMUJEZFU5RWpOZw?oc=5
 
-- '35 million would have died if...': Trump's new claim on India-Pakistan conflict | India News - Hindustan Times
-  '35 million would have died if...': Trump's new claim on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVlpenB6Vm5MVmg0X25mWWFXWHZ0dlhBOTdtLV9Jc2VWVVBtdEQtS0YzSVpVQWZsS1RmMXJERUs4aGRUWVJiMUZtVi1zdjI2QVBVaTRmdHpDVjJCakhKSVFoUEFHN1VLOHNaTXlDVHBKYTRucGliLVhhY1RaeDNQYmx4d3BHMTFZV0ZtMGF3cXBtczhKR2R0elEtNHlfQ1c3M3BfRkRFNjZyUmVVQTB6MzJ2Y0toaEI0aVZzeHBVR2E0Uko4dm5qMjRzSnRiRThDQk5QTS03NkNlaGNKbU14NmNMTVFNV0VMckloX1pmcVk3QdIB9wFBVV95cUxORlc5UXdXc0tEVTJOSWRZZkFvN2N6aVdyZi1uT3NpR01SN0kzX0RxQ2RNcTNLbE1UUG5ZVEFDZ09reVVmbUx0MzVRbVdzeWcyTmhkaUJaRUtVNWpzRHhDNmk2S1Vyazg5ZjQ4b016QTY4Y2djWlNnQXR0dTZUazhIenZSRE5MQVlwY0xHZ2M1QlEwal9DRmx6bG5fV1Q5RUFPbnQwaW1SSGJJMGEzcE92d004WHJBTzREeTFJbFFEYnNNay1EcVBTU3B4dVc0cWJWd0J0NDNiTDZ0UW52UUVYcjBSdmRMUHVWd0hQQ01uZXNxcXZrSURN?oc=5
+- From Selfies To Shared Ride: PM Modi's Day One In Israel Signals Strong Strategic Bond With India - The Times of India
+  PM Modi's Day One In Israel Signals Strong Strategic Bond With India.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjZhOWVlWGNuU2s4ejFuaElPMHRNa21FSmc1c2puQVpSQjUxX0hOTTdsRkFZUmFUYmN6dURKeFlaV3FFR0xBTDNXbFBCUktoQ2ZUSnpqaldVTEllU2M3OTRVN3dVMHZUMU1YbkZkZ0dpLVhkZ19vbF92eWNmWkhKWUptNy1nY0Mzb2prSjFTQmxZanA4TmNWcG9ZZFFxdGVJM0hXUVB5eWI3YURNZDhYcDktVlVYbmVydWRTZm9ueDFxVmFsYlBtMFFmeV9nOHlNb3FrQ0tkcTREa2FISFRfYURnTWlDQ2I1NnVVR2hSQTM5RHZaQ2c4RGFMVdIBgAJBVV95cUxOZUtOSGx6ZDNieVk5MXRFVjZrd2VjSlRjQ2FFWXlWdTJDd003MkZ1SVJWV2FxcEJ4SmVIcFVlbUdXR1RKVjU2d3hGemtqc29BN2VGOU8wRnJaVGZtZFZPT3VZc29ZQ3lVTFFqZFJaamFoRlViZjI1elJjNzJtYWFXeU9QOFRLcjA3dGs1V3Y3S3dxMG03R3dxSUNpcWJ2amFCNEhwSE1VbEZscXEySmo1RmJJdEtydE9JeTFfZlNMdkdmNzBHd0NsUUlEYk5Oc2FpalpQTExvWEZMSEVjbTlObE9UTEhCN0t2LUotVXoxQ3R1WXZEQW1Db2ZSQlFTbGJx?oc=5
 
-- PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner; key MoUs to be inked on Feb 26 - The Times of India
-  PM Modi Israel Visit Live: Netanyahu hosts PM Modi for dinner. Key MoUs to be inked
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNcVFJX2dqWkVPYkMxVDQ5ZUtiU0FkSU1sa1N1U1A0MkVpazE0R0wyeHlGc19EUnd3WDVQY1FfazA3SFF4NHB5ME15TVJENGZ4ZWV4N1NxRDh2V01XSExzaFR3aHNoVkpua19fYlZHSlBFejdOQTJVejZLTm1DeGhudVRXMVNNaUVZcDM1MnluRUl0eHR6MnIyZHdqdTJFQXBwSTFsaGU5dV9vdTZlODlJUFIxNEZYMXJzT0FZU2NPZkROcUptTGVNckJJUW9IWGpxMzZaN2FLNUp3dWVHWDZ2eTJTdWhqOV9kSFVyQzdHdFE3YjljU1cybHpaMldKMnM1TjJZdzVVODREQdIBjwJBVV95cUxNRWpOWnlOS0hYMm8zTEJRZGIxXzBBQlNKYUh1WDBiNmtUZHU1UWdYQ2VZRk1sRmE2NkNTTFB0MGNvZVpJei1UZjRMdUhPNEp6b0pRVS1xYl9vT2RQWDlNWG9NYUh1ZE1SdVowUFBpR3RzdHFHdHNac0hTLVZSWWRvYlBWbVR5d05GcUFfLU5XV0RKWEctYl9BcmNoZEV0dWUyOERzWlBPYU9kZ1Zkc0pzUF9NZFlQN2ZpeHV5YjZTZTh1bWNBTU0wcWh6dE5Ba0ZTT2c3NVQzRWg1eG1ISENHbFFidjZIcklGWDlOMHhacTQ4U1NnODM3c09teDNNeEpwUFJFdUI1dzhIZC0yY0Rz?oc=5
+- 'J&K Development Budget More Than Pak IMF Bailout': India's 'La La Land' Jibe - NDTV
+  'J&amp;K Development Budget More Than Pak
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVF0dVMzejUwQzJkaVFmSmpGcUp2VDVvckpUUzlyZU5TVnZPbzBWbkNQMC0yQkxjU2tOb2pKQ0gxb2otNVlQdi0yTWhVMkU1UUtUOHJfZzkyTGVXMThUQnIydDRoczJoWnh5a1duTlBfSHg2ZFJub3NCenNjQU0tdjBWdDlxYXRMUjJVRTVnXzhuanRKcDhvRWNnSXA1T19VV3dVMGN0Qk1zUTY5bFQ4cTl30gG6AUFVX3lxTE1sdURIUERpYUR4NWluTWprZ1RHbW5sbmZNTnhjaGNVUGhEUS1uSk1Id1JzSkluWTNwazJ6NDYwX3dpeHd6emEwQVJZeFRFeFJxeDh5OHZyQjlCR2FnZV9nZ2JabG1tY3BCbURSZHZoS0NMRU5Gb04taEdabHEtX0Uwcm1nQ2dES2NrcDJIbXNiWUZ3S0FHRGlwVG5ZV0FadG9mUGtjd3JQYzNOYmR4aGpPa2hUUENLWkIxZw?oc=5
 
-- Morning Digest: PM Modi says India ‘stands firmly’ with Israel; After Supreme Court takes note, NCERT says distribution of Class 8 book with ‘corruption’ in judiciary stopped, and more - The Hindu
-  The Hindu reports that the government is considering a ban on the distribution of Class 8 books with ‘corruption’
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTFKTS1wZmFieHNhQV9adWFlV3VyN0pWNnUxSC1mYnhrc0QwUFNmdUNONDFnTEoxTmlEZFA1UzI3LVBETG9uQkhWbkdFSU1pUDQtajliaHBST3FraVBCZkZPOW9KUUxRemtUbnI2LUJKZ2R3VlN1clBvZW1YR3E2RnI0UWV5SjVzYTNMNFA2aVVYWXcxdnfSAZwBQVVfeXFMUG9hX3FvQWVoV3ZacWE0WGxFOEN0bWo5Y0ZUbEhfVWREVTh6X1hPanFyWVVrRFdBNnYwOU1FenJzQ3p1b0tpNWlfZ2pReFV1dEpiVFBNOHJNNThSb09DOW1KbXVTRXN0TEJPcTI4UFBfMERnQUw2RVdKYTgtMFE3eE5neDlRZEM1NHd1MjdUZFJFYUhabW9mMER1dVhP?oc=5
+- School assembly news headlines, February 26: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 26: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXl3SVRsN0JwSDdtN3VKQ245ZHg1YnRObzhwZnFOYTBQVUZvdXBjTHZYWkE3NEMtSG5nY0NjajVfdnJuLV9zZFpOekNnS2RsbTFsUW9sQ2VlczFGWHF6VlFxY2JhOWgwWXE1a3JUQ1VYS25SSHYzQVVOcjlNNFJOby1VeEwwX2otdmExbmFLcjh6TWpQMENHN2dVaHpyYjVraHRxdjB6QzM0THlGclZQcUZJaldRMVdjWVl1c0tadFQ2dmFBRjctdHJSSHo0T0RicE83WE11UE1hQlZtOTNsX04weUprQdIB6wFBVV95cUxOUWl6NzBDUkY0bVVoSFV1YWVwSlkyRHVnVmJOdUxydG9RYW5mR19XTld4MW0ydXpHRHE4N3I2UHU1SEUtR2tvM0owOXU0VXRmX0duOC0xRXg4a2VuWEdUVWdvSWhqbXhPWjZFbjZrbFIxNW9ySDhDa2ZJTHMzbUQ3dU5hS2RCbHhJUzVxSER4dVoyTV8ybC1LenZ2bkhZU2lNXzN5M3NydHg5NzBNR1N5N1VTTW1RX0E4SF83Y3NGVjVfeld3QVdib3JzX0IzZ3M1RzdSMzdRNGxTLWJxZTZTNlExRTMwUHVVeG9F?oc=5
 
-- India consistently underlined dialogue over confrontation, consensus over division: EAM Jaishankar - News On AIR
-  India consistently underlined dialogue over confrontation, consensus over division
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEpZbEVSRVFkZ1lEX1ByWmxWMGhmV2dGYlRnNG1abXZxbjFRZGVDV3RSX2pKb1JmemQ0WjVHdHZOUUUzMkc5V0xVQnhKNnhxSGIxNnZYVVM2Vzl4czhHbDRGZk94QmVNRF9YUFBSY24xOW1PWVBtMVJQbEhnd2JxSGI3MURvUHQxUXR5RERkLU9rSUItMXloWXV3ZjhYSGZnR3BickdjOEtkRmcwX0N4UkZ5cmJDNkh4OUN6TWFVYldTUUF4?oc=5
+- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
+  Modi in Israel updates: India’s PM
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+
+- Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India - NDTV
+  Pakistan's 'Muslim Ummah' Concern
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzZ5NW1TNDBlMC14OUpUbVJGdnpUbkprM3NCLV9MaWdHS2QtQW9GcFFWOXFsRWIxVXVHNnZmYjJuN1NnR3pLcDJIeWZRQkxQbXNCRXFOLUV6a0VhcEJUQ2ZpMXlaTlBYeEVobVBMQ0d6aWRFOGMtOEpRQ1I1ZVF4cDdsZUJxSDVSQUtzVlF6MHdHWG1sZW1zOXBDMEN0VHUzQzFTekZkM1M3aFV2eGtSbG1R0gG6AUFVX3lxTE9HWklMNjdKWGhQV2hueWFYZkhjbVJ0MmVabkhXTmxEMi1JZXd0QzdkLTNZSXc3ejZmZWJzOGZKVzJXSmhlVGpiYUVfOVVLTm90UmJUbzV1ejVhRktXLWR0THMybkZ5dGxpNC10RXVJS3IteUxGMDIzeWNZTTNDaW9uZHJIZ2J1dFN0dTBiUko3UXBXUVFpZXlaQ25RX0ZkMnZ5bERMUGw2QmFyQV8zXzNQMUJEZFU5RWpOZw?oc=5
+
+- From Selfies To Shared Ride: PM Modi's Day One In Israel Signals Strong Strategic Bond With India - The Times of India
+  PM Modi's Day One In Israel Signals Strong Strategic Bond With India.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxObjZhOWVlWGNuU2s4ejFuaElPMHRNa21FSmc1c2puQVpSQjUxX0hOTTdsRkFZUmFUYmN6dURKeFlaV3FFR0xBTDNXbFBCUktoQ2ZUSnpqaldVTEllU2M3OTRVN3dVMHZUMU1YbkZkZ0dpLVhkZ19vbF92eWNmWkhKWUptNy1nY0Mzb2prSjFTQmxZanA4TmNWcG9ZZFFxdGVJM0hXUVB5eWI3YURNZDhYcDktVlVYbmVydWRTZm9ueDFxVmFsYlBtMFFmeV9nOHlNb3FrQ0tkcTREa2FISFRfYURnTWlDQ2I1NnVVR2hSQTM5RHZaQ2c4RGFMVdIBgAJBVV95cUxOZUtOSGx6ZDNieVk5MXRFVjZrd2VjSlRjQ2FFWXlWdTJDd003MkZ1SVJWV2FxcEJ4SmVIcFVlbUdXR1RKVjU2d3hGemtqc29BN2VGOU8wRnJaVGZtZFZPT3VZc29ZQ3lVTFFqZFJaamFoRlViZjI1elJjNzJtYWFXeU9QOFRLcjA3dGs1V3Y3S3dxMG03R3dxSUNpcWJ2amFCNEhwSE1VbEZscXEySmo1RmJJdEtydE9JeTFfZlNMdkdmNzBHd0NsUUlEYk5Oc2FpalpQTExvWEZMSEVjbTlObE9UTEhCN0t2LUotVXoxQ3R1WXZEQW1Db2ZSQlFTbGJx?oc=5
+
+- 'J&K Development Budget More Than Pak IMF Bailout': India's 'La La Land' Jibe - NDTV
+  'J&amp;K Development Budget More Than Pak
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVF0dVMzejUwQzJkaVFmSmpGcUp2VDVvckpUUzlyZU5TVnZPbzBWbkNQMC0yQkxjU2tOb2pKQ0gxb2otNVlQdi0yTWhVMkU1UUtUOHJfZzkyTGVXMThUQnIydDRoczJoWnh5a1duTlBfSHg2ZFJub3NCenNjQU0tdjBWdDlxYXRMUjJVRTVnXzhuanRKcDhvRWNnSXA1T19VV3dVMGN0Qk1zUTY5bFQ4cTl30gG6AUFVX3lxTE1sdURIUERpYUR4NWluTWprZ1RHbW5sbmZNTnhjaGNVUGhEUS1uSk1Id1JzSkluWTNwazJ6NDYwX3dpeHd6emEwQVJZeFRFeFJxeDh5OHZyQjlCR2FnZV9nZ2JabG1tY3BCbURSZHZoS0NMRU5Gb04taEdabHEtX0Uwcm1nQ2dES2NrcDJIbXNiWUZ3S0FHRGlwVG5ZV0FadG9mUGtjd3JQYzNOYmR4aGpPa2hUUENLWkIxZw?oc=5
+
+- School assembly news headlines, February 26: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 26: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXl3SVRsN0JwSDdtN3VKQ245ZHg1YnRObzhwZnFOYTBQVUZvdXBjTHZYWkE3NEMtSG5nY0NjajVfdnJuLV9zZFpOekNnS2RsbTFsUW9sQ2VlczFGWHF6VlFxY2JhOWgwWXE1a3JUQ1VYS25SSHYzQVVOcjlNNFJOby1VeEwwX2otdmExbmFLcjh6TWpQMENHN2dVaHpyYjVraHRxdjB6QzM0THlGclZQcUZJaldRMVdjWVl1c0tadFQ2dmFBRjctdHJSSHo0T0RicE83WE11UE1hQlZtOTNsX04weUprQdIB6wFBVV95cUxOUWl6NzBDUkY0bVVoSFV1YWVwSlkyRHVnVmJOdUxydG9RYW5mR19XTld4MW0ydXpHRHE4N3I2UHU1SEUtR2tvM0owOXU0VXRmX0duOC0xRXg4a2VuWEdUVWdvSWhqbXhPWjZFbjZrbFIxNW9ySDhDa2ZJTHMzbUQ3dU5hS2RCbHhJUzVxSER4dVoyTV8ybC1LenZ2bkhZU2lNXzN5M3NydHg5NzBNR1N5N1VTTW1RX0E4SF83Y3NGVjVfeld3QVdib3JzX0IzZ3M1RzdSMzdRNGxTLWJxZTZTNlExRTMwUHVVeG9F?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-26 01:46:11 UTC_
+_Last updated: 2026-02-26 06:58:56 UTC_
