@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- J-K now without grassroots representation as District Development Councils’ term ends
+- IAF showcases combat prowess, gives peek into Operation Sindoor missions at Exercise Vayu Shakti
   
-  🔗 https://indianexpress.com/article/india/j-k-without-representation-district-development-councils-term-ends-10555859/
+  🔗 https://indianexpress.com/article/india/iaf-showcases-combat-peek-operation-sindoor-missions-exercise-vayu-shakti-10556321/
 
-- ICF to roll out two more 16-coach Vande Bharat Sleeper rakes by March-end
+- ‘Economic regulations by State have profound effects on editorial independence’: SC judge warns of indirect censorship
   
-  🔗 https://indianexpress.com/article/india/icf-to-roll-out-two-more-16-coach-vande-bharat-sleeper-rakes-by-march-end-10555417/
+  🔗 https://indianexpress.com/article/india/economic-regulations-editorial-independence-sc-judge-censorship-10556303/
 
-- ‘Bid to protect guilty’: Uproar in Jharkhand Assembly over children testing HIV positive in Chaibasa
+- Indian Railways’ UTS App to discontinue from March 1: What happens to your R-Wallet balance?
   
-  🔗 https://indianexpress.com/article/india/jharkhand-assembly-children-testing-hiv-positive-chaibasa-10555660/
+  🔗 https://indianexpress.com/article/india/indian-railways-uts-app-to-discontinue-from-march-1-what-happens-to-your-r-wallet-balance-10556280/
 
-- Ministers, academics to take forward PM Modi’s ‘decolonisation’ call through conferences, monographs
+- No more forced recovery: Bihar’s new law limits borrowers to two MFIs and bans unauthorised loans
   
-  🔗 https://indianexpress.com/article/india/ministers-academics-pm-modi-decolonisation-call-10555523/
+  🔗 https://indianexpress.com/article/india/bihar-new-law-limits-borrowers-mfi-ban-unauthorised-loans-10556268/
 
-- Ministers, academics to take forward PM Modi’s ‘decolonisation’ call through conferences, monographs
+- J-K court issues warrants against Hizbul chief Syed Salahuddin, other members of terror group
   
-  🔗 https://indianexpress.com/article/india/ministers-academics-pm-modi-decolonisation-call-conferences-monographs-10555423/
+  🔗 https://indianexpress.com/article/india/j-k-court-issues-warrants-against-hizbul-chief-syed-salahuddin-other-members-of-terror-group-10556109/
+
+- If an asteroid heads for Earth, can we stop it?
+  
+  🔗 https://indianexpress.com/article/technology/science/if-an-asteroid-heads-for-earth-can-we-stop-it-10556166/
+
+- Poland plans social-media ban for children under 15: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/poland-plans-social-media-ban-for-children-under-15-bloomberg-news-reports-10556131/
+
+- Microsoft unveils Copilot Tasks, an AI that works in the background on your behalf
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-copilot-tasks-ai-agent-background-task-completion-10555904/
+
+- Adobe introduces new AI tools to speed up video creation with Firefly
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-introduces-new-ai-tools-to-speed-up-video-creation-with-firefly-10555912/
 
 - Noise launches Master Buds 2 with Sound by Bose tech in India
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/noise-launches-master-buds-2-with-sound-by-bose-tech-in-india-10555911/
 
-- No more fake listings: Over 60,000 verified Aadhaar centers are coming to Google Maps
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/aadhaar-card-centres-google-maps-listing-accessibility-apointment-10555635/
+- Fino Payments Bank MD and CEO Rishi Gupta arrested under GST Act; CFO Ketan Merchant assumes charge
+  Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the CGST and SGST Act. The bank has clarified that the investigation concerns business partners,
+  🔗 https://www.livemint.com/companies/news/fino-payments-bank-md-and-ceo-rishi-gupta-arrested-under-gst-act-cfo-ketan-merchant-assumes-charge-11772211407071.html
 
-- ChatGPT may soon introduce ‘Naughty Chats’, an optional erotica mode for adults
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-naughty-chats-openai-spicier-language-leaked-10555453/
+- Norway’s wealth fund will not invest in Adani Green over corruption allegations
+  Norges did not disclose the details or evidence supporting corruption allegations against Adani Green Energy. As a practice, the fund provides a detailed
+  🔗 https://www.livemint.com/companies/news/norway-wealth-fund-will-not-invest-in-adani-green-energy-over-corruption-allegations-norges-11772188364719.html
 
-- Apple adds interactive F1 track guide to Maps ahead of Australian Grand Prix
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-adds-interactive-f1-track-guide-to-maps-ahead-of-australian-gp-10555390/
+- OpenAI's $110 billion funding pushes its valuation to $840 billion with backing from Amazon, Nvidia, SoftBank
+  OpenAI has raised $110 billion in funding, valuing the company at $
+  🔗 https://www.livemint.com/companies/news/openais-110-billion-funding-pushes-its-valuation-to-840-billion-with-backing-from-amazon-nvidia-softbank-11772208356860.html
 
-- Arduino, Qualcomm bring on-device AI and robotics learning to Indian school systems
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/arduino-qualcomm-bring-on-device-ai-and-robotics-learning-to-indian-school-systems-10555394/
+- Zenex Animal Health acquires majority stake in natural nutrition firm VievePharm
+  Zenex Animal Health India has acquired a majority stake in VievePharm, enhancing its natural
+  🔗 https://www.livemint.com/companies/news/zenex-animal-health-acquires-majority-stake-in-natural-nutrition-firm-vievepharm-11772203743365.html
 
-- SBI leases Navi Mumbai office space for GCC
-  SBI will pay roughly  ₹1.68 crore of monthly rent for the five-year lease tenure. If
-  🔗 https://www.livemint.com/companies/news/sbi-navi-mumbai-office-space-gcc-india-state-bank-global-it-centre-11772185134995.html
+- Amazon announces strategic partnership with OpenAI, to invest $50 billion for AI innovation
+  Amazon will invest $50 billion in OpenAI, beginning with an initial $15
+  🔗 https://www.livemint.com/companies/news/amazon-announces-strategic-partnership-with-openai-to-invest-50-billion-for-ai-innovation-11772200472736.html
 
-- Ares Management buys London office leased to Netflix for £160 million
-  The Copyright Building is located at 30 Berners Street in Fitzrovia, London.
-  🔗 https://www.livemint.com/companies/news/ares-management-buys-london-office-leased-to-netflix-for-160-million-11772186353050.html
+- Pulse of the Street: Bears rule the week; FPIs return deemed tactical
+   weak global cues and tech-sector volatility weight heavily on Indian equities this week. While selective optimism persists in certain pockets
+  🔗 https://www.livemint.com/market/stock-market-news/pulse-of-the-street-bears-rule-the-week-fpi-return-deemed-tactical-nifty-50-stock-market-11772198853087.html
 
-- Byju's insolvency case: Supreme Court issues notice, orders status quo in CoC dispute over impleadment rights
-  The Supreme Court has issued a notice to maintain status quo in the Byju's Committee of Creditors dispute. It follows a complex legal battle after the NCLAT
-  🔗 https://www.livemint.com/companies/news/byjus-insolvency-row-supreme-court-issues-notice-orders-status-quo-in-coc-dispute-over-impleadment-rights-11772181639424.html
+- Bharat Biotech IPO soon? Vaccine maker plans to raise $500 million from stock market, says report
+  Bharat Biotech is seeking to raise over $500 million through an IPO. Established in 1996, the company has distributed over 9 billion vaccines worldwide.
+  🔗 https://www.livemint.com/market/ipo/bharat-biotech-ipo-soon-vaccine-maker-plans-to-raise-500-million-from-stock-market-says-report-11772208161131.html
 
-- Unacademy launches  ₹50 crore Esop buyback after two-year turmoil
-  Unacademy's buyback signals an attempt by the company to reward and retain talent after two years of
-  🔗 https://www.livemint.com/companies/news/unacademy-esop-buyback-two-year-edtech-india-gaurav-munjal-11772183754670.html
+- Gold, silver rates today: Comex gold rises $65/oz; silver gains $5.75/oz on safe-haven buying
+  Gold futures rose to $5,259 and silver to $93.33. Gold is set for a seventh monthly gain, while silver aims for its tenth.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-rises-65-oz-silver-gains-5-75-oz-on-safe-haven-buying-11772201617582.html
 
-- SC refuses to stay  ₹144.5 crore deposit order against SpiceJet, imposes  ₹1 lakh in costs for prolonging litigation
-  SpiceJet must comply with the high court’s direction to deposit  ₹144.51 crore
-  🔗 https://www.livemint.com/companies/news/spicejet-supreme-court-order-spicejet-arbitration-case-aviation-industry-india-11772178657641.html
+- Wall Street slumps on AI worries, hotter-than-expected inflation, Nvidia dips 2.68%, Netflix soars 10.5%
+  The S&amp;amp;P 500 fell 0.6%, the Dow Jones Industrial Average was down
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slumps-on-ai-worries-hotter-than-expected-inflation-11772203005358.html
 
-- Jio Financial launches online marketplace for financial products
-  The marketplace brings together products from Jio Financial Services group companies and other
-  🔗 https://www.livemint.com/market/jio-financial-services-new-app-online-marketplace-financial-products-india-11772190924112.html
-
-- SBI Life, FII-owned NBFC stock Paisalo Digital raises  ₹30 crore through issuance of commercial papers
-  Paisalo Digital, backed by SBI Life, secured  ₹30 crore from 600 commercial papers. Each commercial paper was issued at a discounted price of
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-life-fii-owned-nbfc-stock-paisalo-digital-raises-rs-30-crore-through-issuance-of-commercial-papers-11772190661393.html
-
-- Tejas Networks, Redington to Netweb Technologies: These 5 stocks rise up to 19% despite stock market crash
-  Sensex and Nifty 50 declined over 1% amid geopolitical tensions and foreign fund outflows. Tejas Networks and Redington shares surged 19% and 17
-  🔗 https://www.livemint.com/market/stock-market-news/tejas-networks-redington-to-netweb-technologies-these-5-stocks-rise-up-to-19-despite-stock-market-crash-11772186769925.html
-
-- Don't buy the dip in IT, the sector would undergo a painful transition, says Ametra PMS, co-founder, CIO
-  Ametra PMS co-founder Karan Aggarwal warns investors to avoid the IT sector due to potential AI disruptions. He expects markets to trade in a tight range for 1 to 2
-  🔗 https://www.livemint.com/market/stock-market-news/dont-buy-the-dip-in-it-the-sector-would-undergo-a-painful-transition-says-ametra-pms-co-founder-cio-11772190259360.html
-
-- Nice to ride the winning horse like India: SGX president Syn
-   SGX's Michael Syn says that integrating Mumbai's liquidity with GIFT IFSC is crucial. International participation is limited currently, but increased broker engagement could position GIFT City as
-  🔗 https://www.livemint.com/market/stock-market-news/india-derivatives-market-gift-ifsc-global-trading-centre-sgx-group-michael-syn-11772175233520.html
+- Netflix is big winner in Warner takeover battle as CEO puts shareholders over ego
+  Netflix said it was a disciplined buyer and at the required price to win the bidding contest, buying
+  🔗 https://www.livemint.com/market/stock-market-news/netflix-is-big-winner-in-warner-takeover-battle-as-ceo-puts-shareholders-over-ego-11772202293419.html
 
 - Govts SIM binding directive on app-based messaging platforms ultra vires: Tech industry body BIF
   Govt's SIM binding directive on app-
@@ -100,85 +100,105 @@
   Anthropic is now weakening its foundational safety principle amid growing competition and lack of government regulation.
   🔗 https://www.livemint.com/technology/tech-news/guardrails-off-for-anthropic-firm-tweaks-ai-safety-policy-amid-heightened-competition-lack-of-regulation-what-changes-11772071493999.html
 
-- Indian bond yields end February lower on surplus liquidity
-  Indian government bond yields fell in February as surplus bankingliquidity supported demand ahead of record government borrowing. The yield curve steepened as rates across tenors were impacted
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bond-yields-end-february-lower-on-surplus-liquidity/articleshow/128849279.cms
+- SBI block deal: BNP Paribas buys 5.28 lakh shares in a Rs 64 crore transaction
+  French bank BNP Paribas acquired 5.28 lakh shares of State Bank of India for Rs 64 crore. The transaction occurred through a block deal with Societe Generale.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-block-deal-bnp-paribas-buys-5-28-lakh-shares-in-a-rs-64-crore-transaction/articleshow/128859109.cms
 
-- Listed non-banking finance firm Credent Global Finance raises Rs 30 crore via QIP
-  Credent Global Finance raised Rs 30 crore through a QIP to strengthen its growth capital. The fundraise supports its expansion strategy as revenue and net profit surged sharply year-on-year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/listed-non-banking-finance-firm-credent-global-finance-raises-rs-30-crore-via-qip/articleshow/128849038.cms
+- Infosys ADRs tumble 5%, Wipro slips over 3% as Wall Street rattled by inflation data and AI fears
+  Infosys and Wipro ADRs tumbled on the NYSE amid AI-driven fears. Block's CEO Jack Dorsey announced significant workforce reductions. European markets mostly mirrored the pessimistic sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-tumble-5-wipro-slips-over-3-as-wall-street-rattled-by-inflation-data-and-ai-fears/articleshow/128858822.cms
 
-- Steel HRC prices hit 2-year high at ₹54,000/tonne; how long will the rally last?
-  Hot-rolled coil prices have risen significantly. This surge is driven by higher raw material costs, a government safeguard duty on imports, and strong infrastructure demand.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/steel-hrc-prices-hit-2-year-high-at-54000-how-long-will-the-rally-last/articleshow/128847391.cms
+- Shriram Pistons raises Rs 1,000 crore for Antolin buy
+  Shriram Pistons and Rings raised Rs 1,000 crore via 18- and 24-month NCDs from mutual funds. The deal diversifies SPRL into automotive interiors, reducing EV
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shriram-pistons-raises-rs-1000-crore-for-antolin-buy/articleshow/128857948.cms
 
-- Jack Dorsey fires 4,000 from Block, but shares jump 20%. Does the stock market prefer AI over humans?
-  Shares of Block jumped over 20% after Jack Dorsey announced strong Q4 profits and plans to cut 4,000 jobs. Investors increasingly favour productivity gains from artificial intelligence over workforce size.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jack-dorsey-fires-4000-from-block-but-shares-jump-20-does-the-stock-market-prefer-ai-over-humans/articleshow/128847835.cms
+- US Stocks: Netflix shares surge 9% as investors cheer decision to exit Warner Bros race
+  Netflix jumped more than 9% on Friday as investors applauded its decision to exit the race for Warner Bros.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-netflix-shares-surge-9-as-investors-cheer-decision-to-exit-warner-bros-race/articleshow/128857653.cms
 
-- Brigade Group ties up with Primus Senior Living to build 3 housing projects for elders
-  Realty firm Brigade Group has tied up with Primus Senior Living to develop three housing projects in South India for elderly people.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-group-ties-up-with-primus-senior-living-to-build-3-housing-projects-for-elders/articleshow/128847491.cms
-
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- Vishal Mega Mart bulk deal: Govt of Singapore, HDFC MF buy stakes as promoter sells 14% for Rs 7,636 crore
+  The Government of Singapore, HDFC Mutual Fund and the Monetary Authority of Singapore bought promoter shares worth thousands of crores in Vishal Mega Mart. Samayat Services LLP offloaded a 14% stake
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-bulk-deal-govt-of-singapore-hdfc-mf-buy-stakes-as-promoter-sells-14-for-rs-7636-crore/articleshow/128857180.cms
 
 - "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
   "I Owe India": Netanyahu, His Wife And
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
 
-- Allahabad HC stays arrest of Swami Avimukteshwaranand in POCSO case - The Times of India
-  Allahabad HC stays arrest of Swami Avimuk
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0s2MmhocXROVS02SzJjTzVNMGY2RXJGMC1DQlcyNjlyV3RlanVwX1FaZmlqUnFiTkRkczFTZnQtNXhsS1hya2g0WTVSUUN0SEVqcnRGLXZSZHhDVFNhcm9xLVFnMW1VOWlCNTZyWDIzR3N0aW9UWUE3Xy05MHJSdFA2SFBsSVFHcVo0LWtKR0FTNktyQVZUY0hsVUdyS1V5OXlMdkVrY1ZxdE5vZXNoR192ZEtXZGpxak9LcXRscjhCVkozWnVPQXdyeU1nb2lD0gHWAUFVX3lxTE1LeEtwc0xVLURpTW0teC14cHdYakFDaWY1ZzE5Y2JoMXJDMHFERzVBZmZGRWtMQWZhLTRzN2gyWFZhckVOc1BfT0JVNTdqcVI3QlpKZGVZcXBjM2Q5eEtyZlNUOEJSQmtlUDh1ZWFVSlROT3NvckE3dW5GZU9SVWtPV0VxdGxhQjE3YVFXN29TRkNDUmotT3RTMlZNZnBpNDlocHNFbUViRXE2S0dmQ3c2U3poTGJqR1RacFVBMXZuaEg0Z194T1BmRzJSRnZRSFE1NGVhZXc?oc=5
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
 
-- Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls; HC gives nod to 'The Ker - The Times of India
-  Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls. HC gives nod
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOS2owc3VWQUxVUWZNRkMwczRNWkl2QnpTamYtNmtqSkJVLWkxREgtTW40X0lwY1FKSGhFRlNEUWNaWlc4anMwTmpsaUNoT3dSeDhMdW9ZaE5Nb2kwNEF5by1WLUx5aHB4djZLdWh0VEJ2RzlXTXV0WWNTenVIanpSSXFZSDJhRm8ycmlwNEVscXl4VWNleFpFTl9qVlZaaGtlRk43LUdmOFVyZklaVUJ1M3VMb2lhdEVRSWpGUnpGS252RzlrXzhaeDVveGQ2RUNiRUFWZzV5RndTUFBaYTJPWTl5b2F0dHRtQ3ZkbHA0SGxuNnBhZE1xdXdfWmNEZV90b0FIbEZXeWVVQ3l1NWJWcm5IeVI4UXhrcE5BM3lXMNIBpAJBVV95cUxNZTgzMFkzS29aeURMaHBfTWRBeWVtbUN6VEIzWnR1dnU3MU9RY3lzYmhmQXlqNXhIeERabUQxWV9MRl9QeWhlSVdwNzFPMEJVb0NzbU85bXZCUlBNRnVfVmVyZnBkUm56OUFSZDVESUlPNEJQYlZMaEFlTzRKc01PRnB4QkxlZkdtU0hSSzlKWWdBYVZ4M3BsM3pWekRqZkdCR3lsRE1idnAxY2hNdllKQXI4WU1SbG85RGJYY0FGRU1yc1p2ZldKMEUwRHI5N0swNzJHN3BrNjYwS05IZFp3aWZnOG1VNXFaeHpKNndvQWJBN2VrOGt1Zmw4d1RQajVHcVlINUVMM2dqNmFxcm41X2VCQVdyUnZ2Q0ZTRmZEOVlQT0t5?oc=5
+- Amit Shah Orders Crackdown On Illegal Activities Along Indo-Nepal Border - NDTV
+  Amit Shah orders Crackdown On Illegal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWFYZ3dkcVgxc19PN29nRHM0M2NiTzJycGR3Q1pGSTdLMW9qZU9pNjFoYzlmN1oxbWR3QXlaWmUyNkF3TTZJQlVTSUkyY0h6Q0Z6cldGRm1abUxOVXhQNElGNGJ2SzZVR1JFZ3QxSm1ZbW82cXBOSjZRaFJiaUJxaXktX1BHNUc3X0JwdHJjNG01Q1hJcENsT0hVMEJNWEVRd3lYX0x1aUNodlhWcTViRUZKONIBuwFBVV95cUxPTTlDWHFMRDBnR2hoU1JaTHQzdTJlNUp2cExac0pMU2MxVElMRzktSHdtSG5qWW41SVAzMWppSzI2eTRyVU94Yno3NnB2MzVaNG1aLWg3UmVYTUk0bHhaTWZGaXV2Q05KYWswb0d6cHVvbzUwT3JILWkxRUFxX0NtRGVMMUJWcmFuenZhakhsQXZGam9kbVlHcEVVX012YjBrZG9pWDhDczZzbTdNUzVsZkZRRlFMRUpZNXI0?oc=5
 
-- India's economy grows at faster-than-expected pace of 7.8% in December quarter - CNBC
-  India's economy grows at faster-than-
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9qLTB4b1YyaXptakhzeHBuQW5EeXVBWllxM3ljRUxTbFVqaUs2UnhGcGlKa2NONnVzSk8tVlI1bFFaREN1ckdyUnlwbkNfZ3Z1OURockFGTU90RUVocnh4WFRCYV9OVW4tTThPQkdzVktWTkx1TE12S3Bud9IBgAFBVV95cUxQY1RCS1JBeElvbXVzUHFHazNfaTJ4YmFZeFAydGRCcWFad3J1YWpCSFlmRjJQSFZGbWJYQUtGZjNlRXhEeF9sWlF3WVFZZTRjMldObUpDQzdWMjFDdGxKaEdLVW9HSzJRdWpBa2FjS3h1X1lXb2YtUHUtdU5YR041Qg?oc=5
+- Ex-Muslim YouTuber Saleem Wastik Brutally Stabbed In Ghaziabad Home - NDTV
+  Ex-Muslim YouTuber Sale
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG5RVzBHSWlJSzhsemU4ZmhjMTBJSGFJVGNoWVRWdzdPQlYzeFVGZW5qUUtXQXE2bkJUcDJhOWxpcFhWZnVvOXhFdXJRamlzQVJqM3FqMi1jUjRkQmpKSW9UVjdvcW5uN2V1bXlpcldoaklYYVY2S1hxRXpuY0wtOGxWZFdncHNjZzBGVlFZb05hWFVFZTFmaTNYTGJ2VkFtcm1nRTAyT2h6bEVv0gG0AUFVX3lxTFBQdWhjcS1qclhtY1hPME1vMDdBVmp5UXM1bl9NVWRiX2ZnY0tUM2swa1RrSUppaEhraThEekFQUlBheEN1dTUwSThhdGJBbzFIVkU4ZTJQalV0VFpMVmFMdEV0NzJJTnE1OXFQUUg0UU94NFl4MjU2VjhHekdWbjQ2bW00SVBsMW02aERiV1Q5YzFEbi1nUFJvZ0lPei1POHhSM3czT2FmRmJRWWJXX0RIRU9tdg?oc=5
 
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
-
-- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
-  "I Owe India": Netanyahu, His Wife And
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
-
-- Allahabad HC stays arrest of Swami Avimukteshwaranand in POCSO case - The Times of India
-  Allahabad HC stays arrest of Swami Avimuk
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0s2MmhocXROVS02SzJjTzVNMGY2RXJGMC1DQlcyNjlyV3RlanVwX1FaZmlqUnFiTkRkczFTZnQtNXhsS1hya2g0WTVSUUN0SEVqcnRGLXZSZHhDVFNhcm9xLVFnMW1VOWlCNTZyWDIzR3N0aW9UWUE3Xy05MHJSdFA2SFBsSVFHcVo0LWtKR0FTNktyQVZUY0hsVUdyS1V5OXlMdkVrY1ZxdE5vZXNoR192ZEtXZGpxak9LcXRscjhCVkozWnVPQXdyeU1nb2lD0gHWAUFVX3lxTE1LeEtwc0xVLURpTW0teC14cHdYakFDaWY1ZzE5Y2JoMXJDMHFERzVBZmZGRWtMQWZhLTRzN2gyWFZhckVOc1BfT0JVNTdqcVI3QlpKZGVZcXBjM2Q5eEtyZlNUOEJSQmtlUDh1ZWFVSlROT3NvckE3dW5GZU9SVWtPV0VxdGxhQjE3YVFXN29TRkNDUmotT3RTMlZNZnBpNDlocHNFbUViRXE2S0dmQ3c2U3poTGJqR1RacFVBMXZuaEg0Z194T1BmRzJSRnZRSFE1NGVhZXc?oc=5
-
-- Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls; HC gives nod to 'The Ker - The Times of India
-  Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls. HC gives nod
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOS2owc3VWQUxVUWZNRkMwczRNWkl2QnpTamYtNmtqSkJVLWkxREgtTW40X0lwY1FKSGhFRlNEUWNaWlc4anMwTmpsaUNoT3dSeDhMdW9ZaE5Nb2kwNEF5by1WLUx5aHB4djZLdWh0VEJ2RzlXTXV0WWNTenVIanpSSXFZSDJhRm8ycmlwNEVscXl4VWNleFpFTl9qVlZaaGtlRk43LUdmOFVyZklaVUJ1M3VMb2lhdEVRSWpGUnpGS252RzlrXzhaeDVveGQ2RUNiRUFWZzV5RndTUFBaYTJPWTl5b2F0dHRtQ3ZkbHA0SGxuNnBhZE1xdXdfWmNEZV90b0FIbEZXeWVVQ3l1NWJWcm5IeVI4UXhrcE5BM3lXMNIBpAJBVV95cUxNZTgzMFkzS29aeURMaHBfTWRBeWVtbUN6VEIzWnR1dnU3MU9RY3lzYmhmQXlqNXhIeERabUQxWV9MRl9QeWhlSVdwNzFPMEJVb0NzbU85bXZCUlBNRnVfVmVyZnBkUm56OUFSZDVESUlPNEJQYlZMaEFlTzRKc01PRnB4QkxlZkdtU0hSSzlKWWdBYVZ4M3BsM3pWekRqZkdCR3lsRE1idnAxY2hNdllKQXI4WU1SbG85RGJYY0FGRU1yc1p2ZldKMEUwRHI5N0swNzJHN3BrNjYwS05IZFp3aWZnOG1VNXFaeHpKNndvQWJBN2VrOGt1Zmw4d1RQajVHcVlINUVMM2dqNmFxcm41X2VCQVdyUnZ2Q0ZTRmZEOVlQT0t5?oc=5
-
-- India's economy grows at faster-than-expected pace of 7.8% in December quarter - CNBC
-  India's economy grows at faster-than-
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9qLTB4b1YyaXptakhzeHBuQW5EeXVBWllxM3ljRUxTbFVqaUs2UnhGcGlKa2NONnVzSk8tVlI1bFFaREN1ckdyUnlwbkNfZ3Z1OURockFGTU90RUVocnh4WFRCYV9OVW4tTThPQkdzVktWTkx1TE12S3Bud9IBgAFBVV95cUxQY1RCS1JBeElvbXVzUHFHazNfaTJ4YmFZeFAydGRCcWFad3J1YWpCSFlmRjJQSFZGbWJYQUtGZjNlRXhEeF9sWlF3WVFZZTRjMldObUpDQzdWMjFDdGxKaEdLVW9HSzJRdWpBa2FjS3h1X1lXb2YtUHUtdU5YR041Qg?oc=5
-
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- 'Parliament Has Absolute Prerogative To Enact Laws': Supreme Court On Sedition Pleas - NDTV
+  'Parliament Has Absolute Prerogative To En
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOclFqbnRjeFVyelpxSGcyall5R3JZX19Ba1Y1a18wMWlqa2JNcnlRX3p2WU9QanAyME1BbUE1RDBDMjVhRUdIYWxYMnlxc1daR0pnYU1ja0tPNEJXSzhkcUNfUVp3aFk1NGlQRktPdVhobnpsVlRka0dvTjJoSGo5UHBhTE1aU3k0RUw4bGo5bzJEOHNzZXAydDdIQy13MFNXMUxYa280bXN5R29tNlhwLWNYTlA2bVQtV3E0Y1pkTdIBxwFBVV95cUxPRW5seWlvZE4yS1g5a1BYWkthMGNObl9IVGoyeGMySllsSHBRdTRQNjBnSF9TbDM2SnFmQ2szWkg5RDQ5cWZTaDVkQmc0RDRWR3RFdDMxY1NzOVg1MkdRYU1hQkZaZkJLUENLdFBySXJsUFpUQUZnaWswOXlMOWFUU1BWM1N3Y2ltbE84eGJ1bUduNWZ3OHRvRTM3QnFOMFk5NTBfcWgtVk5rRHRKWEtCTXhNejFkcUsycWVaV0phemh3MGNuajFj?oc=5
 
 - "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
   "I Owe India": Netanyahu, His Wife And
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
 
-- Allahabad HC stays arrest of Swami Avimukteshwaranand in POCSO case - The Times of India
-  Allahabad HC stays arrest of Swami Avimuk
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0s2MmhocXROVS02SzJjTzVNMGY2RXJGMC1DQlcyNjlyV3RlanVwX1FaZmlqUnFiTkRkczFTZnQtNXhsS1hya2g0WTVSUUN0SEVqcnRGLXZSZHhDVFNhcm9xLVFnMW1VOWlCNTZyWDIzR3N0aW9UWUE3Xy05MHJSdFA2SFBsSVFHcVo0LWtKR0FTNktyQVZUY0hsVUdyS1V5OXlMdkVrY1ZxdE5vZXNoR192ZEtXZGpxak9LcXRscjhCVkozWnVPQXdyeU1nb2lD0gHWAUFVX3lxTE1LeEtwc0xVLURpTW0teC14cHdYakFDaWY1ZzE5Y2JoMXJDMHFERzVBZmZGRWtMQWZhLTRzN2gyWFZhckVOc1BfT0JVNTdqcVI3QlpKZGVZcXBjM2Q5eEtyZlNUOEJSQmtlUDh1ZWFVSlROT3NvckE3dW5GZU9SVWtPV0VxdGxhQjE3YVFXN29TRkNDUmotT3RTMlZNZnBpNDlocHNFbUViRXE2S0dmQ3c2U3poTGJqR1RacFVBMXZuaEg0Z194T1BmRzJSRnZRSFE1NGVhZXc?oc=5
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
 
-- Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls; HC gives nod to 'The Ker - The Times of India
-  Evening news wrap: Arvind Kejriwal challenges PM Modi to hold fresh Delhi polls. HC gives nod
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOS2owc3VWQUxVUWZNRkMwczRNWkl2QnpTamYtNmtqSkJVLWkxREgtTW40X0lwY1FKSGhFRlNEUWNaWlc4anMwTmpsaUNoT3dSeDhMdW9ZaE5Nb2kwNEF5by1WLUx5aHB4djZLdWh0VEJ2RzlXTXV0WWNTenVIanpSSXFZSDJhRm8ycmlwNEVscXl4VWNleFpFTl9qVlZaaGtlRk43LUdmOFVyZklaVUJ1M3VMb2lhdEVRSWpGUnpGS252RzlrXzhaeDVveGQ2RUNiRUFWZzV5RndTUFBaYTJPWTl5b2F0dHRtQ3ZkbHA0SGxuNnBhZE1xdXdfWmNEZV90b0FIbEZXeWVVQ3l1NWJWcm5IeVI4UXhrcE5BM3lXMNIBpAJBVV95cUxNZTgzMFkzS29aeURMaHBfTWRBeWVtbUN6VEIzWnR1dnU3MU9RY3lzYmhmQXlqNXhIeERabUQxWV9MRl9QeWhlSVdwNzFPMEJVb0NzbU85bXZCUlBNRnVfVmVyZnBkUm56OUFSZDVESUlPNEJQYlZMaEFlTzRKc01PRnB4QkxlZkdtU0hSSzlKWWdBYVZ4M3BsM3pWekRqZkdCR3lsRE1idnAxY2hNdllKQXI4WU1SbG85RGJYY0FGRU1yc1p2ZldKMEUwRHI5N0swNzJHN3BrNjYwS05IZFp3aWZnOG1VNXFaeHpKNndvQWJBN2VrOGt1Zmw4d1RQajVHcVlINUVMM2dqNmFxcm41X2VCQVdyUnZ2Q0ZTRmZEOVlQT0t5?oc=5
+- Amit Shah Orders Crackdown On Illegal Activities Along Indo-Nepal Border - NDTV
+  Amit Shah orders Crackdown On Illegal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWFYZ3dkcVgxc19PN29nRHM0M2NiTzJycGR3Q1pGSTdLMW9qZU9pNjFoYzlmN1oxbWR3QXlaWmUyNkF3TTZJQlVTSUkyY0h6Q0Z6cldGRm1abUxOVXhQNElGNGJ2SzZVR1JFZ3QxSm1ZbW82cXBOSjZRaFJiaUJxaXktX1BHNUc3X0JwdHJjNG01Q1hJcENsT0hVMEJNWEVRd3lYX0x1aUNodlhWcTViRUZKONIBuwFBVV95cUxPTTlDWHFMRDBnR2hoU1JaTHQzdTJlNUp2cExac0pMU2MxVElMRzktSHdtSG5qWW41SVAzMWppSzI2eTRyVU94Yno3NnB2MzVaNG1aLWg3UmVYTUk0bHhaTWZGaXV2Q05KYWswb0d6cHVvbzUwT3JILWkxRUFxX0NtRGVMMUJWcmFuenZhakhsQXZGam9kbVlHcEVVX012YjBrZG9pWDhDczZzbTdNUzVsZkZRRlFMRUpZNXI0?oc=5
 
-- India's economy grows at faster-than-expected pace of 7.8% in December quarter - CNBC
-  India's economy grows at faster-than-
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9qLTB4b1YyaXptakhzeHBuQW5EeXVBWllxM3ljRUxTbFVqaUs2UnhGcGlKa2NONnVzSk8tVlI1bFFaREN1ckdyUnlwbkNfZ3Z1OURockFGTU90RUVocnh4WFRCYV9OVW4tTThPQkdzVktWTkx1TE12S3Bud9IBgAFBVV95cUxQY1RCS1JBeElvbXVzUHFHazNfaTJ4YmFZeFAydGRCcWFad3J1YWpCSFlmRjJQSFZGbWJYQUtGZjNlRXhEeF9sWlF3WVFZZTRjMldObUpDQzdWMjFDdGxKaEdLVW9HSzJRdWpBa2FjS3h1X1lXb2YtUHUtdU5YR041Qg?oc=5
+- Ex-Muslim YouTuber Saleem Wastik Brutally Stabbed In Ghaziabad Home - NDTV
+  Ex-Muslim YouTuber Sale
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG5RVzBHSWlJSzhsemU4ZmhjMTBJSGFJVGNoWVRWdzdPQlYzeFVGZW5qUUtXQXE2bkJUcDJhOWxpcFhWZnVvOXhFdXJRamlzQVJqM3FqMi1jUjRkQmpKSW9UVjdvcW5uN2V1bXlpcldoaklYYVY2S1hxRXpuY0wtOGxWZFdncHNjZzBGVlFZb05hWFVFZTFmaTNYTGJ2VkFtcm1nRTAyT2h6bEVv0gG0AUFVX3lxTFBQdWhjcS1qclhtY1hPME1vMDdBVmp5UXM1bl9NVWRiX2ZnY0tUM2swa1RrSUppaEhraThEekFQUlBheEN1dTUwSThhdGJBbzFIVkU4ZTJQalV0VFpMVmFMdEV0NzJJTnE1OXFQUUg0UU94NFl4MjU2VjhHekdWbjQ2bW00SVBsMW02aERiV1Q5YzFEbi1nUFJvZ0lPei1POHhSM3czT2FmRmJRWWJXX0RIRU9tdg?oc=5
+
+- 'Parliament Has Absolute Prerogative To Enact Laws': Supreme Court On Sedition Pleas - NDTV
+  'Parliament Has Absolute Prerogative To En
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOclFqbnRjeFVyelpxSGcyall5R3JZX19Ba1Y1a18wMWlqa2JNcnlRX3p2WU9QanAyME1BbUE1RDBDMjVhRUdIYWxYMnlxc1daR0pnYU1ja0tPNEJXSzhkcUNfUVp3aFk1NGlQRktPdVhobnpsVlRka0dvTjJoSGo5UHBhTE1aU3k0RUw4bGo5bzJEOHNzZXAydDdIQy13MFNXMUxYa280bXN5R29tNlhwLWNYTlA2bVQtV3E0Y1pkTdIBxwFBVV95cUxPRW5seWlvZE4yS1g5a1BYWkthMGNObl9IVGoyeGMySllsSHBRdTRQNjBnSF9TbDM2SnFmQ2szWkg5RDQ5cWZTaDVkQmc0RDRWR3RFdDMxY1NzOVg1MkdRYU1hQkZaZkJLUENLdFBySXJsUFpUQUZnaWswOXlMOWFUU1BWM1N3Y2ltbE84eGJ1bUduNWZ3OHRvRTM3QnFOMFk5NTBfcWgtVk5rRHRKWEtCTXhNejFkcUsycWVaV0phemh3MGNuajFj?oc=5
+
+- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
+  "I Owe India": Netanyahu, His Wife And
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
+
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
+
+- Amit Shah Orders Crackdown On Illegal Activities Along Indo-Nepal Border - NDTV
+  Amit Shah orders Crackdown On Illegal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWFYZ3dkcVgxc19PN29nRHM0M2NiTzJycGR3Q1pGSTdLMW9qZU9pNjFoYzlmN1oxbWR3QXlaWmUyNkF3TTZJQlVTSUkyY0h6Q0Z6cldGRm1abUxOVXhQNElGNGJ2SzZVR1JFZ3QxSm1ZbW82cXBOSjZRaFJiaUJxaXktX1BHNUc3X0JwdHJjNG01Q1hJcENsT0hVMEJNWEVRd3lYX0x1aUNodlhWcTViRUZKONIBuwFBVV95cUxPTTlDWHFMRDBnR2hoU1JaTHQzdTJlNUp2cExac0pMU2MxVElMRzktSHdtSG5qWW41SVAzMWppSzI2eTRyVU94Yno3NnB2MzVaNG1aLWg3UmVYTUk0bHhaTWZGaXV2Q05KYWswb0d6cHVvbzUwT3JILWkxRUFxX0NtRGVMMUJWcmFuenZhakhsQXZGam9kbVlHcEVVX012YjBrZG9pWDhDczZzbTdNUzVsZkZRRlFMRUpZNXI0?oc=5
+
+- Ex-Muslim YouTuber Saleem Wastik Brutally Stabbed In Ghaziabad Home - NDTV
+  Ex-Muslim YouTuber Sale
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG5RVzBHSWlJSzhsemU4ZmhjMTBJSGFJVGNoWVRWdzdPQlYzeFVGZW5qUUtXQXE2bkJUcDJhOWxpcFhWZnVvOXhFdXJRamlzQVJqM3FqMi1jUjRkQmpKSW9UVjdvcW5uN2V1bXlpcldoaklYYVY2S1hxRXpuY0wtOGxWZFdncHNjZzBGVlFZb05hWFVFZTFmaTNYTGJ2VkFtcm1nRTAyT2h6bEVv0gG0AUFVX3lxTFBQdWhjcS1qclhtY1hPME1vMDdBVmp5UXM1bl9NVWRiX2ZnY0tUM2swa1RrSUppaEhraThEekFQUlBheEN1dTUwSThhdGJBbzFIVkU4ZTJQalV0VFpMVmFMdEV0NzJJTnE1OXFQUUg0UU94NFl4MjU2VjhHekdWbjQ2bW00SVBsMW02aERiV1Q5YzFEbi1nUFJvZ0lPei1POHhSM3czT2FmRmJRWWJXX0RIRU9tdg?oc=5
+
+- 'Parliament Has Absolute Prerogative To Enact Laws': Supreme Court On Sedition Pleas - NDTV
+  'Parliament Has Absolute Prerogative To En
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOclFqbnRjeFVyelpxSGcyall5R3JZX19Ba1Y1a18wMWlqa2JNcnlRX3p2WU9QanAyME1BbUE1RDBDMjVhRUdIYWxYMnlxc1daR0pnYU1ja0tPNEJXSzhkcUNfUVp3aFk1NGlQRktPdVhobnpsVlRka0dvTjJoSGo5UHBhTE1aU3k0RUw4bGo5bzJEOHNzZXAydDdIQy13MFNXMUxYa280bXN5R29tNlhwLWNYTlA2bVQtV3E0Y1pkTdIBxwFBVV95cUxPRW5seWlvZE4yS1g5a1BYWkthMGNObl9IVGoyeGMySllsSHBRdTRQNjBnSF9TbDM2SnFmQ2szWkg5RDQ5cWZTaDVkQmc0RDRWR3RFdDMxY1NzOVg1MkdRYU1hQkZaZkJLUENLdFBySXJsUFpUQUZnaWswOXlMOWFUU1BWM1N3Y2ltbE84eGJ1bUduNWZ3OHRvRTM3QnFOMFk5NTBfcWgtVk5rRHRKWEtCTXhNejFkcUsycWVaV0phemh3MGNuajFj?oc=5
+
+- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
+  "I Owe India": Netanyahu, His Wife And
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
+
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
+
+- Amit Shah Orders Crackdown On Illegal Activities Along Indo-Nepal Border - NDTV
+  Amit Shah orders Crackdown On Illegal
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWFYZ3dkcVgxc19PN29nRHM0M2NiTzJycGR3Q1pGSTdLMW9qZU9pNjFoYzlmN1oxbWR3QXlaWmUyNkF3TTZJQlVTSUkyY0h6Q0Z6cldGRm1abUxOVXhQNElGNGJ2SzZVR1JFZ3QxSm1ZbW82cXBOSjZRaFJiaUJxaXktX1BHNUc3X0JwdHJjNG01Q1hJcENsT0hVMEJNWEVRd3lYX0x1aUNodlhWcTViRUZKONIBuwFBVV95cUxPTTlDWHFMRDBnR2hoU1JaTHQzdTJlNUp2cExac0pMU2MxVElMRzktSHdtSG5qWW41SVAzMWppSzI2eTRyVU94Yno3NnB2MzVaNG1aLWg3UmVYTUk0bHhaTWZGaXV2Q05KYWswb0d6cHVvbzUwT3JILWkxRUFxX0NtRGVMMUJWcmFuenZhakhsQXZGam9kbVlHcEVVX012YjBrZG9pWDhDczZzbTdNUzVsZkZRRlFMRUpZNXI0?oc=5
+
+- Ex-Muslim YouTuber Saleem Wastik Brutally Stabbed In Ghaziabad Home - NDTV
+  Ex-Muslim YouTuber Sale
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG5RVzBHSWlJSzhsemU4ZmhjMTBJSGFJVGNoWVRWdzdPQlYzeFVGZW5qUUtXQXE2bkJUcDJhOWxpcFhWZnVvOXhFdXJRamlzQVJqM3FqMi1jUjRkQmpKSW9UVjdvcW5uN2V1bXlpcldoaklYYVY2S1hxRXpuY0wtOGxWZFdncHNjZzBGVlFZb05hWFVFZTFmaTNYTGJ2VkFtcm1nRTAyT2h6bEVv0gG0AUFVX3lxTFBQdWhjcS1qclhtY1hPME1vMDdBVmp5UXM1bl9NVWRiX2ZnY0tUM2swa1RrSUppaEhraThEekFQUlBheEN1dTUwSThhdGJBbzFIVkU4ZTJQalV0VFpMVmFMdEV0NzJJTnE1OXFQUUg0UU94NFl4MjU2VjhHekdWbjQ2bW00SVBsMW02aERiV1Q5YzFEbi1nUFJvZ0lPei1POHhSM3czT2FmRmJRWWJXX0RIRU9tdg?oc=5
+
+- 'Parliament Has Absolute Prerogative To Enact Laws': Supreme Court On Sedition Pleas - NDTV
+  'Parliament Has Absolute Prerogative To En
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOclFqbnRjeFVyelpxSGcyall5R3JZX19Ba1Y1a18wMWlqa2JNcnlRX3p2WU9QanAyME1BbUE1RDBDMjVhRUdIYWxYMnlxc1daR0pnYU1ja0tPNEJXSzhkcUNfUVp3aFk1NGlQRktPdVhobnpsVlRka0dvTjJoSGo5UHBhTE1aU3k0RUw4bGo5bzJEOHNzZXAydDdIQy13MFNXMUxYa280bXN5R29tNlhwLWNYTlA2bVQtV3E0Y1pkTdIBxwFBVV95cUxPRW5seWlvZE4yS1g5a1BYWkthMGNObl9IVGoyeGMySllsSHBRdTRQNjBnSF9TbDM2SnFmQ2szWkg5RDQ5cWZTaDVkQmc0RDRWR3RFdDMxY1NzOVg1MkdRYU1hQkZaZkJLUENLdFBySXJsUFpUQUZnaWswOXlMOWFUU1BWM1N3Y2ltbE84eGJ1bUduNWZ3OHRvRTM3QnFOMFk5NTBfcWgtVk5rRHRKWEtCTXhNejFkcUsycWVaV0phemh3MGNuajFj?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-27 12:49:27 UTC_
+_Last updated: 2026-02-27 18:39:28 UTC_
