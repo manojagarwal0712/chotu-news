@@ -1,12 +1,16 @@
 # 📰 Daily News Summaries
 
+- Budget 2026-27: ‘Important to anchor  our fiscal policy in terms of debt’
+  
+  🔗 https://indianexpress.com/article/india/budget-2026-27-important-to-anchor-our-fiscal-policy-in-terms-of-debt-10554543/
+
 - Rs 2,220 cr Bank of Baroda loan ‘fraud’: Fresh CBI case against Anil Ambani
   
   🔗 https://indianexpress.com/article/india/rs-2220-cr-bank-of-baroda-loan-fraud-fresh-cbi-case-against-anil-ambani-10554252/
 
-- Aircel-Maxis case: ED gets persecution sanction against Chidambaram
+- Aircel-Maxis case: ED gets prosecution sanction against Chidambaram
   
-  🔗 https://indianexpress.com/article/india/aircel-maxis-case-ed-gets-persecution-sanction-against-chidambaram-10554253/
+  🔗 https://indianexpress.com/article/india/aircel-maxis-case-ed-gets-prosecution-sanction-against-chidambaram-10554253/
 
 - ‘Communication gap’: Bengal poll officials on SIR duty assaulted in Odisha after ‘mistakenly’ entering village
   
@@ -15,10 +19,6 @@
 - ‘Extraordinarily productive’: India, Israel elevate ties, sign 17 pacts
   
   🔗 https://indianexpress.com/article/india/india-israel-elevate-ties-sign-pacts-modi-netanyahu-10554150/
-
-- Goa nightclub fire: Club owner Luthras among 13 chargesheeted
-  
-  🔗 https://indianexpress.com/article/india/goa-nightclub-fire-club-owner-luthras-among-13-chargesheeted-10554112/
 
 - Scientists turn to artificial intelligence to decode ancient desert mystery
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/women-are-falling-in-love-with-ai-its-a-problem-for-beijing-10553892/
 
-- FS KKR Private Credit Fund Sinks on Dividend Cut, Bad Loans
-  Private credit fund jointly managed by Future Standard and KKR &amp; Co. plunged after cutting its dividend more than forecast. Earnings declined
-  🔗 https://www.livemint.com/companies/fs-kkr-private-credit-fund-sinks-on-dividend-cut-bad-loans-11772130798500.html
+- Block layoffs: Jack Dorsey's firm to let over 4,000 employees go in AI overhaul, shares soar 27%
+  The job cuts at Block is the latest case among fintech and the broader technology sector, where companies have eliminated
+  🔗 https://www.livemint.com/companies/news/block-layoffs-jack-dorsey-firm-to-let-over-4-000-employees-go-in-ai-overhaul-shares-soar-27-per-cent-11772150898568.html
 
-- Layoff news: CNBC to cut nearly a dozen jobs; unify digital, TV news operations, says report
-  CNBC to unify digital and TV news operations
-  🔗 https://www.livemint.com/companies/news/layoff-news-cnbc-to-cut-nearly-a-dozen-jobs-unify-digital-tv-news-operations-says-report-11772126524322.html
+- Investors pile into D2C luggage brands as India’s travel boom accelerates
+   direct-to-consumer luggage startups are securing millions in venture capital funding. But will they succeed?
+  🔗 https://www.livemint.com/companies/start-ups/d2c-luggage-brands-india-indian-luggage-market-11772079386988.html
 
-- India to incentivize wafer, ingot manufacturing with upfront capex support: MNRE secy
-  The MNRE's new strategy aims to boost domestic production of wafers, ingots, and polysilicon. This
-  🔗 https://www.livemint.com/companies/solar-subsidy-india-manufacturing-renewable-energy-capex-pli-wafers-polysilicon-mnre-santosh-kumar-sarangi-psa-agripv-11772108141446.html
+- Up, up and a-whey! Soaring whey costs force India's protein supplement makers to turn to plants
+  Skyrocketing whey prices and import dependencies are forcing Indian protein companies to add plant-based alternatives. Despite the margin squeeze, the market continues to expand as protein shifts from a
+  🔗 https://www.livemint.com/companies/whey-protein-supplements-costs-fmcg-nutraceuticals-plants-imports-india-whey-protein-market-11772046944711.html
 
-- India needs $750 million in flexible funding to build 100 ‘non-profit Unicorns’ in 5 years: Report
-  A new report reveals India requires $750 million in flexible funding over five years. The findings highlight funding constraints and regulatory challenges that hinder the growth of impactful non-profits.
-  🔗 https://www.livemint.com/companies/india-needs-750-million-in-flexible-funding-to-build-100-non-profit-unicorns-in-5-years-report-11772109786362.html
+- Young woman says she was on social media all day long as a child in landmark addiction trial
+  Young woman says she was on social media 'all day long'
+  🔗 https://www.livemint.com/companies/young-woman-says-she-was-on-social-media-all-day-long-as-a-child-in-landmark-addiction-trial-11772142239114.html
 
-- Native acquires strategic stake in RPO venture Woven
-  Native expands into recruitment process outsourcing by taking a stake in Woven
-  🔗 https://www.livemint.com/companies/native-acquires-woven-recruitment-process-outsourcing-talent-solutions-india-growth-11772106441747.html
+- FDA to offer bonus payments to staffers who complete speedy drug reviews
+  FDA to offer bonus payments to
+  🔗 https://www.livemint.com/companies/fda-to-offer-bonus-payments-to-staffers-who-complete-speedy-drug-reviews-11772142116871.html
 
-- Soybeans ease on profit taking after hitting 20-month peak on demand hopes
-  Soybeans ease on profit taking after hitting
-  🔗 https://www.livemint.com/market/soybeans-ease-on-profit-taking-after-hitting-20-month-peak-on-demand-hopes-11772130858070.html
+- Gaudium IVF IPO listing date today. GMP, experts suggest muted debut of shares in stock market today
+  Analysts signal a muted listing of shares in the Indian stock market. Gaudium IVF IPO listing date is today, 27 February 2026
+  🔗 https://www.livemint.com/market/ipo/gaudium-ivf-ipo-listing-date-today-gmp-experts-suggest-muted-debut-of-shares-in-stock-market-today-11772127939194.html
 
-- 560% return in five years! Multibagger FMCG stock to be in focus on Friday; here's why
-  Shares of FMCG brand GRM Overseas expected to be in focus on Friday, 27 February. Company informed that it has
-  🔗 https://www.livemint.com/market/stock-market-news/560-return-in-five-years-multibagger-fmcg-stock-to-be-in-focus-on-friday-heres-why-11772124604587.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 27 February 2026
+  Sumeet Bagadia recommends five shares to buy today. IndusInd Bank, Jamna Auto,
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-27-february-2026-11772125090487.html
 
-- Intuit shares climb over 2% ahead of Q2 earnings
-  Analysts largely expect the results to demonstrate year-over
-  🔗 https://www.livemint.com/market/intuit-shares-climb-over-2-ahead-of-q2-earnings-11772122514759.html
+- Stock recommendations for 27 February from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 27 February. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-27-february-from-marketsmith-india-11772109506293.html
 
-- Local investors may get to sell shares in GIFT City's secondary market
-  IFSCA and RBI are discussing with Centre if local shareholders can be allowed to trade in secondary markets. Two years after a change in rules allowed Indian companies to list in GIFT City exchanges.
-  🔗 https://www.livemint.com/market/gift-city-secondary-market-shares-indian-investors-trading-permitted-11772106154338.html
+- India’s IT trade is changing—and alpha returns are no longer assured
+  After a sharp correction in mid- and small-cap IT stocks and limited upside from large caps, investors are reassessing where market-be
+  🔗 https://www.livemint.com/market/stock-market-news/indian-it-stocks-mid-cap-small-cap-ai-artificial-intelligence-investment-future-11772040010217.html
 
-- Sebi Working Groups submit reports on agri commodity derivatives to Chairman for review
-  Sebi's working groups are reviewing the delivery and settlement framework in agricultural commodity derivatives. Expert panels were tasked with assessing whether the current framework governing margins, position
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-working-groups-submit-reports-on-agri-commodity-derivatives-to-chairman-for-review-11772119861779.html
+- Stocks to buy: Raja Venkatraman recommends three stocks for 27 February
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-top-stocks-for-27-february-11772118021894.html
+
+- Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says
+  Smartphone market set for biggest-ever decline in
+  🔗 https://www.livemint.com/technology/smartphone-market-set-for-biggest-ever-decline-in-2026-on-memory-price-surge-idc-says-11772132768291.html
 
 - Tim Cook announces Apple product launches starting March 2; new iPhone, iPad, and Mac updates anticipated
   Apple is expected to spread its announcements across several days, building toward a media
@@ -96,49 +100,25 @@
   Time to deflate the AI doom bubble
   🔗 https://www.livemint.com/technology/roitime-to-deflate-the-ai-doom-bubble-mcgeever-11772065905800.html
 
-- Samsung Galaxy S26 Ultra vs iPhone 17 Pro Max: Spec-by-spec breakdown, India pricing, and features compared
-  Samsung launched the Galaxy S26 Ultra, competing with Apple's iPhone 17 Pro Max. It does introduce a new Privacy Display and faster 60W wired charging. But whether these upgrades are enough to
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-s26-ultra-vs-iphone-17-pro-max-spec-by-spec-breakdown-india-pricing-and-features-compared-11772048406624.html
+- Pre-market action: Here's the trade setup for today's session
+  Analysts recommend focusing on domestic-facing sectors like PSU banks, autos, healthcare, metals, and capital goods. Markets are expected to trade range-bound with stock-specific action driven by domestic demand and policy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/128833925.cms
 
-- Stock Market Today: Nvidia Stock Falls After Earnings; Dow Rises— Live Updates - WSJ
-  Nvidia's stock fell after the company reported
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0txdG01ZWFEWWF0Qm5Ib18yTXNibVdhVW9EWE9RVHhwZXZMcmlCbXVUUWdkZ3oteU1QOGFXaVhOVE0yREQ2VFZqY0gzSi05ZS1CT01GWUp0bVJvYVQ0bktmazZIUDNqZjhxZWxlZ3IxXzRHd0hGcGZNUFd5XzJxUy1GVDNwUUE?oc=5
+- Stocks in news: Vishal Mega Mart, Bandhan Bank, Indian Oil, Bharti Airtel, BPCL
+  Vishal Mega Mart promoter entity plans to sell a 6.5% stake at a discount. Bharti Airtel's entry into the NBFC space is seen as a strategic growth driver. Bandhan Bank received RBI approval
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vishal-mega-mart-bandhan-bank-indian-oil-bharti-airtel-bpcl/articleshow/128833862.cms
 
-- Japan's Nikkei 225 crosses 59,000 first the first time as central bank board picks fuel 'Takaichi trade' - CNBC
-  Japan's Nikkei 225 crosses 59,000 for the first time as
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQU0ttV0xEcWNTOVNvQVJKdW43UWFrQnNtbTlCZDJJMXJSZHFQbmFqZEJtN3ljdGJveWZVVVpmcWd3QlVnZlcwTGVqYVdOMko2Nnd5Nm1zenREU2RzQUxCRXZWNzR0TzNaRS1laWJvM2NfaWtaSWFPY1doVU1iMUR6d0E1QlNsRTc0dlVvUmRoc1VRWkdCTElQVEY0RFpzUdIBowFBVV95cUxQeVlPQkFEYWIycTAyZHEtbFdxbGo1dHJ3OEd1NG5PZUtMWUNlUlYxQXVIOUJpX2EyMkZ5UVptMVBYa0lDSVZ1RVZMVDdYYVlaakVEZmdVUzNRWmEtRmYxdnVmX2MtQWJ5NHpuVlZKeUxGbktFRy1Hd1phc01ua21EYjU0aXo5cGtGU1h3Tm43NS1UNW5vaWg3RkpBMVRtdF91Ulkw?oc=5
+- Global Market Today | Asian markets retreat following decline in US stocks
+  Asian stocks saw a slight dip from their peak levels. This followed a downturn in Wall Street markets. Despite this, Asian equities continue to outperform global benchmarks this year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-after-decline-in-us-tech-stocks/articleshow/128833759.cms
 
-- S&P 500 falls as Nvidia rolls over following earnings: Live updates - CNBC
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdHZoUEsza0ZKNzZSdzNMd1NuNW1MUm9jVWVyaEtVWkF1U012Ui05aWdZTnlwVXY4MzdtNE9WeGlZdnFieEF6NkZNX2h4TXNNMjB3TDh6SnVncTBFeHYyMDl5OGRpUWo5U3lVLWdpa0dhcUVSVmtn0gF8QVVfeXFMT3pYMkxvOU1QcGNuOTdXUF9YNzlHR0F0MFIzSy1LOHNDd0dQY25ieXhxbktwR2hmQXFVTUoyWmRlSjN3ZURZckZjUGtSTnYtdVJTTDBQbk02WjVUUVJiWElTVzN4QWY5RnpwbjRqd0NUbENreWdaOEFtdFFEeA?oc=5
+- Market players must put ID info in social media posts: Sebi
+  The Securities and Exchange Board of India (Sebi) has mandated that all market intermediaries must prominently display their registered name and registration number on social media platforms. This new rule, effective May 1, aims to help investors easily identify
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-players-must-put-id-info-in-social-media-posts-sebi/articleshow/128833701.cms
 
-- NSE chief proposes retail barriers to entry on derivative markets amidst speculation losses - The Hindu
-  NSE chief proposes retail barriers to entry on derivative markets.
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHZRZlk0TWtzRkN6T1pYVXgtVi1ZZ2lqRXUxc3d5cWdoTkVpdFVUcm5oMlNyUHBrc3ZybzdzN0xsS2ZtdUdQMWs4UVBVWnRZSEZwdHZ5czRBbHYwLXpWSzJuMXZ5ZkhzMmJfdUU3MmdnaWFtODhvQ3V2bzVKZG9iWnd6ZWxyNTdWN202MHVpX0hqT2w4Y2N3bkN5ellZVzhBR1ZNczl5WlBxcXdRVDJ6U1FhZ0hJSl8xRkJpc3pYSWsyQ2JDNzdKNEVOXzR4bXg1Zmd0dUMtOTJhY01Zc3fSAeQBQVVfeXFMTW56Z1VreWdHbUdIUTFKS2xPVHdtYnUtU1o0akp1UDlJVXNPM25UV2hTOHZkT1BhQm44aHFuM19ZOXh4eENZN2dzTHNMQ0x1LXZYcF9WYzJwM0ltYmdJSjZCOTByRzlaVG1LZGYxRmMxMWV5VXpkUU1OVi1KbEs3Zy1jbHFTbTJYOTRjVHo4UVQtQzRDSC1ZOVVHbU1uU3FuVTc5Z3IyWFJrYnVvMFhWSXM0MVk0X2JaTEl6cHY5dE5YUUJ2MkU1Ry1rRW9iZWdzeEFESVZBaEhZYThjZE1RM2xGcmp2?oc=5
-
-- Gold steady as markets await US-Iran nuclear talks outcome - TradingView
-  Gold steady as markets await US-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVdpWm4xZzM4MmRQRFpBRXVoZURIcklKYUtCVVlsSm9yZTlqSHpfTm53UjhyOHV5ZllNVWhoVHprd1BQdXFfdDhpaFJaOEhuaXVlZE9sOXdiZGJpNE9WUE9ONW5Hb29WbFhGUFAweFVMZEJVQzJ4c1NtcXBqZlJMbWVTaTRKUzJiMmJnVVZUUHhIdGdWRTRtVzFrQzlpWmk0UDY1YW9BcDQ2X29OQ0dORVpxZ3Y0RlNCNE51UllmUV9YWjcxbldJ?oc=5
-
-- Vishal Mega Mart promoter entity likely to sell 6.5% stake via block deal: Report
-  Vishal Mega Mart's promoter, Samayat Services LLP, is set to sell a 6.5% stake through a block deal. This move comes as the company reported a 19% rise in net profit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-promoter-entity-likely-to-sell-6-5-stake-via-block-deal-report/articleshow/128820501.cms
-
-- Sebi cautions investors against fake notices demanding STT payments
-  Sebi warns investors about fake notices demanding Securities Transaction Tax payments. Fraudsters are using forged Sebi letterheads to deceive people. Investors are urged to verify all communications.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cautions-investors-against-fake-notices-demanding-stt-payments/articleshow/128819997.cms
-
-- US Stocks: Walmart shares drop after FTC says co agrees to pay $100 million to settle deceptive earnings charges
-  The company falsely claimed all tips went to drivers and inflated base pay and tip amounts. This settlement also prohibits Walmart from misrepresenting future delivery offers.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-walmart-shares-drop-after-ftc-says-co-agrees-to-pay-100-million-to-settle-deceptive-earnings-charges/articleshow/128819841.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Nifty 50 and BSE Sensex ended largely unchanged as financial stocks, led by HDFC Bank, offset gains in auto and FMCG shares. Analysts flagged weak momentum
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/128819417.cms
-
-- Home First Finance bulk deal alert: Promoters sell stake worth Rs 660 crore; Societe Generale among buyers
-  Home First Finance shares fell nearly 6% after promoters Aether and True North sold Rs 660 crore stake. Despite the decline, the stock has outperformed benchmarks over one year and posted strong quarterly profit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/home-first-finance-bulk-deal-alert-promoters-sell-stake-worth-rs-660-crore-societe-generale-among-buyers/articleshow/128818139.cms
+- NSE invites investment banks to pitch for managing IPO
+  The National Stock Exchange has invited 15 investment bankers to pitch for managing its upcoming IPO. JPMorgan Chase and Kotak Mahindra Capital are among those in contention. The exchange is expected to file its draft red herring prospectus in April
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-invites-investment-banks-to-pitch-for-managing-ipo/articleshow/128833399.cms
 
 - Canada Changes Tune On 'Indian Interference' Ahead Of PM Carney's India Visit - NDTV
   Canada Changes Tune On 'Indian Interference' Ahead
@@ -148,37 +128,17 @@
   The Times of India published a story on Netanyahu's visit to India.
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGh3MzYyU0o1WmRka2tUbjQzOW9VZVpyYXdWcW43d1dSa1ZyMVpzR21OVlpYZDB6TFFEWlBuVW1hd0pjMjJFS2RjMmZFRlJ4YUhfZVo2VUZrY3F6NWUwN1FubHJjcU5GUUtYRlVtTEdvTHZERG0wdERiS2xDWDRxaXpGSlE5WjJUSTZUWUhMTkFiM2xWcWU1QXpNQjhPeEdYcDlTbUlMWnB6aE5Qd0ctUUVaMnRUUUUzbmxTZUNXYjhWNERYbzRFNjlHWkFWalFHMFpsWENQalRoREU2UnBLcmZrSUhqc1nSAewBQVVfeXFMTXFmY0p5R0hWa2w4aFZjdUhDOUc3NV8xNWxZZDVQd1NTamVka05kajd5bzU2c243bTYzd3lVazNkaW9wNkVEbXZIUXlHQmtVLUJGQmdmSXdpQzdsZFRxT1cyeDBpM3lCXzNwOGk0Uk9SbG9VcWtLWEoxZHpMVElxRFdReEt3dHhsdTJVMDAtWkNLdnEzNEZCSmEyV2lhR0piUW5MNHJIb1ZJdDk4SVF6MHJFQXYtNFp2dXpteDNCaTFSQ2tJNXhxNEhRdW43dlg4OWVzRUJWSkowcWNIUjRhRjhkOEs0UWhFTjItSU0?oc=5
 
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
 
-- NHRC organises open house discussion on ‘Measures to Curb Spurious Medicines in India’ - News On AIR
-  NHRC organises open house discussion on ‘Measures to
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkhDbkxTSjdCYlh5UER0XzZESm41aDV1S0s1RjNxTVdvcG80Q2VjTnYwZUZkdmVaV2FwcnVYekFLZXJIS3Nod183bzhxSE16aXFqWGx6Q3l2UlhrWjhKcEN0aDNiSjlvVkJMajExblk5WnZoZXJtazJnWlMtcGhFOEd0cWhJUWRUSWpyMTJpZ1k4bExnbVEzQXprcWlWM2RaUU1FalJhQmhnQ2FiRTU0TFVMQno?oc=5
+- India–Kenya JDCC Meeting Concludes, Focus on Expanding Defence Cooperation - News On AIR
+  India–Kenya JDCC Meeting Concludes
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFfZldLOUo5Z3pMQnZHUjhDNHpyWFZjdGlYeHJia3puSURMSFltWHFJWUFtWmdmdVdRZ1hwZllnbXRac3o1YTY3eVNGZWRGdnFVRHRCMzlJbUhpUmFrZHpzd0ZhbFRxdlRmd19NSWd0NTJpYWJaeUMwTF9DcUQ4ZXAtcWg2RVV1VlRzQWZfc01ubDVSaVBZMmc2NXBKdnEtdUljLTFR?oc=5
 
-- Tigers Changing Stripes, Preying More Actively On Humans: Study - NDTV
-  Tigers Changing Stripes, Pre
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHBWOFJrSGlaODFSWW5rcDExeWdsWnF0NzQ2N0pYNkVVWDhHSVNXUXpCTEw4bHdPQzJpbkZHMUV1NFl0ZnItck5VS0Nob090clowdWFRcngxWTlCal9xZnlzc002WTNYQVRFRTVwTDA3bjJySGtYT2NlSFlweXMxQ1hMNDJwY2xYaFNaSGMxTWltcERnRXZ6emNrd0VGZFNhZWxlY9IBrAFBVV95cUxNb3RZc1VvV2tLY1V4aEc2eFVvRy0tZlZtUUdJZDllZFYyLTNZQThHUUdaOUlhTTVBd01fX2JWWnVuUnRQTGZkMEVvbWtNWDg5aTFzbWJhSEp3eVFicThlX2JoeGhoYjAtZDM1WUs3bEluMmZDTzh3UjFFRVY0VnAzdlZRb1YwSkpiSlNSdnFzejV0UktPQmZ3eHZrUm5QbWJmeG1LcVpVZHFDaElr?oc=5
-
-- Canada Changes Tune On 'Indian Interference' Ahead Of PM Carney's India Visit - NDTV
-  Canada Changes Tune On 'Indian Interference' Ahead
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOek90SE5EYTUtVmtkQmdjT01ydmRKdHFWSzEwR1RNUUk2dEdlMnRFM2dhT3dickwwSy1YcTNIYXozWnhZQmV4NEpPX2szcVRFRzV3akRpbDlOeEFYc3RwS2lmeGJBSUdHaTJjRG85X2JNdF82dHkyZ0UxUkljVkNFNFhYYUJKdWg2NWRQZzhuc3JPZzZEQTlDUy1hci1IMXQxbllacTgyZnJLZmR1UGRWUUtTNWtnd9IBvgFBVV95cUxPNU9tR1ZNcDkyZXRpdktudE9yblZOT0p0MHBGejhRVW5LT1kyaTFFYUNCNEhJYU1mMzdVejYzSDRGR0RmYXowLS12cS0wS2V3c3BENUtjMmRldFdwZ0dlVmluS1pqTWpCUnNPVktrU0NScC1Qa05pbUFFSTV6ZkZYOEpqdU9xaEJzX0hRTkhFUGExdkdIZmNwd1RFNXVuM1ZLUTJ6cGZHYzVVM3d4M0RMc3hRcjNtamhJREVia2xn?oc=5
-
-- Watch: Netanyahu surprises ‘friend’ PM Modi in traditional Indian attire; gets a ‘shaandaar’ response - The Times of India
-  The Times of India published a story on Netanyahu's visit to India.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGh3MzYyU0o1WmRka2tUbjQzOW9VZVpyYXdWcW43d1dSa1ZyMVpzR21OVlpYZDB6TFFEWlBuVW1hd0pjMjJFS2RjMmZFRlJ4YUhfZVo2VUZrY3F6NWUwN1FubHJjcU5GUUtYRlVtTEdvTHZERG0wdERiS2xDWDRxaXpGSlE5WjJUSTZUWUhMTkFiM2xWcWU1QXpNQjhPeEdYcDlTbUlMWnB6aE5Qd0ctUUVaMnRUUUUzbmxTZUNXYjhWNERYbzRFNjlHWkFWalFHMFpsWENQalRoREU2UnBLcmZrSUhqc1nSAewBQVVfeXFMTXFmY0p5R0hWa2w4aFZjdUhDOUc3NV8xNWxZZDVQd1NTamVka05kajd5bzU2c243bTYzd3lVazNkaW9wNkVEbXZIUXlHQmtVLUJGQmdmSXdpQzdsZFRxT1cyeDBpM3lCXzNwOGk0Uk9SbG9VcWtLWEoxZHpMVElxRFdReEt3dHhsdTJVMDAtWkNLdnEzNEZCSmEyV2lhR0piUW5MNHJIb1ZJdDk4SVF6MHJFQXYtNFp2dXpteDNCaTFSQ2tJNXhxNEhRdW43dlg4OWVzRUJWSkowcWNIUjRhRjhkOEs0UWhFTjItSU0?oc=5
-
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
-
-- NHRC organises open house discussion on ‘Measures to Curb Spurious Medicines in India’ - News On AIR
-  NHRC organises open house discussion on ‘Measures to
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkhDbkxTSjdCYlh5UER0XzZESm41aDV1S0s1RjNxTVdvcG80Q2VjTnYwZUZkdmVaV2FwcnVYekFLZXJIS3Nod183bzhxSE16aXFqWGx6Q3l2UlhrWjhKcEN0aDNiSjlvVkJMajExblk5WnZoZXJtazJnWlMtcGhFOEd0cWhJUWRUSWpyMTJpZ1k4bExnbVEzQXprcWlWM2RaUU1FalJhQmhnQ2FiRTU0TFVMQno?oc=5
-
-- Tigers Changing Stripes, Preying More Actively On Humans: Study - NDTV
-  Tigers Changing Stripes, Pre
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHBWOFJrSGlaODFSWW5rcDExeWdsWnF0NzQ2N0pYNkVVWDhHSVNXUXpCTEw4bHdPQzJpbkZHMUV1NFl0ZnItck5VS0Nob090clowdWFRcngxWTlCal9xZnlzc002WTNYQVRFRTVwTDA3bjJySGtYT2NlSFlweXMxQ1hMNDJwY2xYaFNaSGMxTWltcERnRXZ6emNrd0VGZFNhZWxlY9IBrAFBVV95cUxNb3RZc1VvV2tLY1V4aEc2eFVvRy0tZlZtUUdJZDllZFYyLTNZQThHUUdaOUlhTTVBd01fX2JWWnVuUnRQTGZkMEVvbWtNWDg5aTFzbWJhSEp3eVFicThlX2JoeGhoYjAtZDM1WUs3bEluMmZDTzh3UjFFRVY0VnAzdlZRb1YwSkpiSlNSdnFzejV0UktPQmZ3eHZrUm5QbWJmeG1LcVpVZHFDaElr?oc=5
+- Sengar’s sentence suspension plea: HC asks AIIMS to examine him - The Times of India
+  Sengar's sentence suspension plea: HC asks AI
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkpVdzFEeWRwaDhMYlFaYVp5cUZuMlRDLWUwUWhnWmVSVmpPUUR3aTF2T1dDbDJOcDZvaWJERm9pSDhYaG0yTjJDZzJ6anhJS3ltM0xJVXlCYzJZa0xxbjlxV0kzOWVDaGNXZTV4blNTZjdDOTktRThSRkxXVkVRTXA3Z2RvNDNSRVdqU3g2aThqcVJkWGRjRmI4M1czaDdWb3hZUkZ4OHRhOXI1Y1B0M3MzR0l0NDFmVE4zU2hzVFdwNlZGb2F0QdIBzgFBVV95cUxOVHMyNEVSU2c5ak1jdVhyUnBTam9mWVY5a1J4SzZzb1FGalFPRlQtcnpVYWJqVEpmM0dfTWlvYnhMNGpnNXFySzN2WTMzTy1xRTdsX3dGbWJLVWx5S3ZfMTNVbXVPRHJRM3JVUGdoeUEyZk56LVljZ3ZIclAwdUk0UHRLRktmTDdHM2JkNU5WZkVhdTZiaGRrSi1aWW1ETzBiRUFhOFRySGFEam5adUVmWXRsYi0tX0psTTNHZ01tTTJIdWtpV0ZhRTh4b1Iydw?oc=5
 
 - Canada Changes Tune On 'Indian Interference' Ahead Of PM Carney's India Visit - NDTV
   Canada Changes Tune On 'Indian Interference' Ahead
@@ -188,65 +148,17 @@
   The Times of India published a story on Netanyahu's visit to India.
   🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGh3MzYyU0o1WmRka2tUbjQzOW9VZVpyYXdWcW43d1dSa1ZyMVpzR21OVlpYZDB6TFFEWlBuVW1hd0pjMjJFS2RjMmZFRlJ4YUhfZVo2VUZrY3F6NWUwN1FubHJjcU5GUUtYRlVtTEdvTHZERG0wdERiS2xDWDRxaXpGSlE5WjJUSTZUWUhMTkFiM2xWcWU1QXpNQjhPeEdYcDlTbUlMWnB6aE5Qd0ctUUVaMnRUUUUzbmxTZUNXYjhWNERYbzRFNjlHWkFWalFHMFpsWENQalRoREU2UnBLcmZrSUhqc1nSAewBQVVfeXFMTXFmY0p5R0hWa2w4aFZjdUhDOUc3NV8xNWxZZDVQd1NTamVka05kajd5bzU2c243bTYzd3lVazNkaW9wNkVEbXZIUXlHQmtVLUJGQmdmSXdpQzdsZFRxT1cyeDBpM3lCXzNwOGk0Uk9SbG9VcWtLWEoxZHpMVElxRFdReEt3dHhsdTJVMDAtWkNLdnEzNEZCSmEyV2lhR0piUW5MNHJIb1ZJdDk4SVF6MHJFQXYtNFp2dXpteDNCaTFSQ2tJNXhxNEhRdW43dlg4OWVzRUJWSkowcWNIUjRhRjhkOEs0UWhFTjItSU0?oc=5
 
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
+- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
+  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
 
-- NHRC organises open house discussion on ‘Measures to Curb Spurious Medicines in India’ - News On AIR
-  NHRC organises open house discussion on ‘Measures to
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkhDbkxTSjdCYlh5UER0XzZESm41aDV1S0s1RjNxTVdvcG80Q2VjTnYwZUZkdmVaV2FwcnVYekFLZXJIS3Nod183bzhxSE16aXFqWGx6Q3l2UlhrWjhKcEN0aDNiSjlvVkJMajExblk5WnZoZXJtazJnWlMtcGhFOEd0cWhJUWRUSWpyMTJpZ1k4bExnbVEzQXprcWlWM2RaUU1FalJhQmhnQ2FiRTU0TFVMQno?oc=5
+- India–Kenya JDCC Meeting Concludes, Focus on Expanding Defence Cooperation - News On AIR
+  India–Kenya JDCC Meeting Concludes
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFfZldLOUo5Z3pMQnZHUjhDNHpyWFZjdGlYeHJia3puSURMSFltWHFJWUFtWmdmdVdRZ1hwZllnbXRac3o1YTY3eVNGZWRGdnFVRHRCMzlJbUhpUmFrZHpzd0ZhbFRxdlRmd19NSWd0NTJpYWJaeUMwTF9DcUQ4ZXAtcWg2RVV1VlRzQWZfc01ubDVSaVBZMmc2NXBKdnEtdUljLTFR?oc=5
 
-- Tigers Changing Stripes, Preying More Actively On Humans: Study - NDTV
-  Tigers Changing Stripes, Pre
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHBWOFJrSGlaODFSWW5rcDExeWdsWnF0NzQ2N0pYNkVVWDhHSVNXUXpCTEw4bHdPQzJpbkZHMUV1NFl0ZnItck5VS0Nob090clowdWFRcngxWTlCal9xZnlzc002WTNYQVRFRTVwTDA3bjJySGtYT2NlSFlweXMxQ1hMNDJwY2xYaFNaSGMxTWltcERnRXZ6emNrd0VGZFNhZWxlY9IBrAFBVV95cUxNb3RZc1VvV2tLY1V4aEc2eFVvRy0tZlZtUUdJZDllZFYyLTNZQThHUUdaOUlhTTVBd01fX2JWWnVuUnRQTGZkMEVvbWtNWDg5aTFzbWJhSEp3eVFicThlX2JoeGhoYjAtZDM1WUs3bEluMmZDTzh3UjFFRVY0VnAzdlZRb1YwSkpiSlNSdnFzejV0UktPQmZ3eHZrUm5QbWJmeG1LcVpVZHFDaElr?oc=5
-
-- Canada Changes Tune On 'Indian Interference' Ahead Of PM Carney's India Visit - NDTV
-  Canada Changes Tune On 'Indian Interference' Ahead
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOek90SE5EYTUtVmtkQmdjT01ydmRKdHFWSzEwR1RNUUk2dEdlMnRFM2dhT3dickwwSy1YcTNIYXozWnhZQmV4NEpPX2szcVRFRzV3akRpbDlOeEFYc3RwS2lmeGJBSUdHaTJjRG85X2JNdF82dHkyZ0UxUkljVkNFNFhYYUJKdWg2NWRQZzhuc3JPZzZEQTlDUy1hci1IMXQxbllacTgyZnJLZmR1UGRWUUtTNWtnd9IBvgFBVV95cUxPNU9tR1ZNcDkyZXRpdktudE9yblZOT0p0MHBGejhRVW5LT1kyaTFFYUNCNEhJYU1mMzdVejYzSDRGR0RmYXowLS12cS0wS2V3c3BENUtjMmRldFdwZ0dlVmluS1pqTWpCUnNPVktrU0NScC1Qa05pbUFFSTV6ZkZYOEpqdU9xaEJzX0hRTkhFUGExdkdIZmNwd1RFNXVuM1ZLUTJ6cGZHYzVVM3d4M0RMc3hRcjNtamhJREVia2xn?oc=5
-
-- Watch: Netanyahu surprises ‘friend’ PM Modi in traditional Indian attire; gets a ‘shaandaar’ response - The Times of India
-  The Times of India published a story on Netanyahu's visit to India.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGh3MzYyU0o1WmRka2tUbjQzOW9VZVpyYXdWcW43d1dSa1ZyMVpzR21OVlpYZDB6TFFEWlBuVW1hd0pjMjJFS2RjMmZFRlJ4YUhfZVo2VUZrY3F6NWUwN1FubHJjcU5GUUtYRlVtTEdvTHZERG0wdERiS2xDWDRxaXpGSlE5WjJUSTZUWUhMTkFiM2xWcWU1QXpNQjhPeEdYcDlTbUlMWnB6aE5Qd0ctUUVaMnRUUUUzbmxTZUNXYjhWNERYbzRFNjlHWkFWalFHMFpsWENQalRoREU2UnBLcmZrSUhqc1nSAewBQVVfeXFMTXFmY0p5R0hWa2w4aFZjdUhDOUc3NV8xNWxZZDVQd1NTamVka05kajd5bzU2c243bTYzd3lVazNkaW9wNkVEbXZIUXlHQmtVLUJGQmdmSXdpQzdsZFRxT1cyeDBpM3lCXzNwOGk0Uk9SbG9VcWtLWEoxZHpMVElxRFdReEt3dHhsdTJVMDAtWkNLdnEzNEZCSmEyV2lhR0piUW5MNHJIb1ZJdDk4SVF6MHJFQXYtNFp2dXpteDNCaTFSQ2tJNXhxNEhRdW43dlg4OWVzRUJWSkowcWNIUjRhRjhkOEs0UWhFTjItSU0?oc=5
-
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
-
-- NHRC organises open house discussion on ‘Measures to Curb Spurious Medicines in India’ - News On AIR
-  NHRC organises open house discussion on ‘Measures to
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkhDbkxTSjdCYlh5UER0XzZESm41aDV1S0s1RjNxTVdvcG80Q2VjTnYwZUZkdmVaV2FwcnVYekFLZXJIS3Nod183bzhxSE16aXFqWGx6Q3l2UlhrWjhKcEN0aDNiSjlvVkJMajExblk5WnZoZXJtazJnWlMtcGhFOEd0cWhJUWRUSWpyMTJpZ1k4bExnbVEzQXprcWlWM2RaUU1FalJhQmhnQ2FiRTU0TFVMQno?oc=5
-
-- Tigers Changing Stripes, Preying More Actively On Humans: Study - NDTV
-  Tigers Changing Stripes, Pre
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHBWOFJrSGlaODFSWW5rcDExeWdsWnF0NzQ2N0pYNkVVWDhHSVNXUXpCTEw4bHdPQzJpbkZHMUV1NFl0ZnItck5VS0Nob090clowdWFRcngxWTlCal9xZnlzc002WTNYQVRFRTVwTDA3bjJySGtYT2NlSFlweXMxQ1hMNDJwY2xYaFNaSGMxTWltcERnRXZ6emNrd0VGZFNhZWxlY9IBrAFBVV95cUxNb3RZc1VvV2tLY1V4aEc2eFVvRy0tZlZtUUdJZDllZFYyLTNZQThHUUdaOUlhTTVBd01fX2JWWnVuUnRQTGZkMEVvbWtNWDg5aTFzbWJhSEp3eVFicThlX2JoeGhoYjAtZDM1WUs3bEluMmZDTzh3UjFFRVY0VnAzdlZRb1YwSkpiSlNSdnFzejV0UktPQmZ3eHZrUm5QbWJmeG1LcVpVZHFDaElr?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Sengar’s sentence suspension plea: HC asks AIIMS to examine him - The Times of India
+  Sengar's sentence suspension plea: HC asks AI
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkpVdzFEeWRwaDhMYlFaYVp5cUZuMlRDLWUwUWhnWmVSVmpPUUR3aTF2T1dDbDJOcDZvaWJERm9pSDhYaG0yTjJDZzJ6anhJS3ltM0xJVXlCYzJZa0xxbjlxV0kzOWVDaGNXZTV4blNTZjdDOTktRThSRkxXVkVRTXA3Z2RvNDNSRVdqU3g2aThqcVJkWGRjRmI4M1czaDdWb3hZUkZ4OHRhOXI1Y1B0M3MzR0l0NDFmVE4zU2hzVFdwNlZGb2F0QdIBzgFBVV95cUxOVHMyNEVSU2c5ak1jdVhyUnBTam9mWVY5a1J4SzZzb1FGalFPRlQtcnpVYWJqVEpmM0dfTWlvYnhMNGpnNXFySzN2WTMzTy1xRTdsX3dGbWJLVWx5S3ZfMTNVbXVPRHJRM3JVUGdoeUEyZk56LVljZ3ZIclAwdUk0UHRLRktmTDdHM2JkNU5WZkVhdTZiaGRrSi1aWW1ETzBiRUFhOFRySGFEam5adUVmWXRsYi0tX0psTTNHZ01tTTJIdWtpV0ZhRTh4b1Iydw?oc=5
 
 
-_Last updated: 2026-02-26 18:49:11 UTC_
+_Last updated: 2026-02-27 01:32:48 UTC_
