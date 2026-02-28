@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Travel advisory: Air India cancels several international flights on March 1 amid Iran-Israel war | Full list
+  
+  🔗 https://indianexpress.com/article/india/travel-advisory-air-india-cancels-international-flights-march-1-iran-israel-war-full-list-10558102/
+
+- From escaping windows to an Rs 8.4 crore IPL Deal: How Aquib Nabi fuelled J&K’s historic Ranji trophy triumph
+  
+  🔗 https://indianexpress.com/article/india/ipl-deal-aquib-nabi-jk-ranji-trophy-10558100/
+
+- ‘Deeply concerned’: India urges restraint after Israel-US strikes on Iran
+  
+  🔗 https://indianexpress.com/article/india/mea-statement-iran-israel-war-operation-lions-roar-indian-nationals-advisory-10557887/
+
 - RBI Holiday List 2026: Banks to remain closed for 11 days in March – Check dates & city-wise closure list
   
   🔗 https://indianexpress.com/article/india/rbi-holiday-list-2026-banks-to-remain-closed-for-11-days-in-march-check-dates-city-wise-closure-list-10557325/
@@ -8,17 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/muslim-league-maoist-congress-modi-anti-national-ai-summit-10557361/
 
-- Amrit Bharat Station Scheme: PM Modi to inaugurate 8 redeveloped railway stations in Tamil Nadu on March 1
+- Study reveals sex bias in Neanderthal-human interbreeding
   
-  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-pm-modi-to-inaugurate-8-redeveloped-railway-stations-in-tamil-nadu-on-march-1-10557214/
+  🔗 https://indianexpress.com/article/technology/science/study-reveals-sex-bias-in-neanderthal-human-interbreeding-10557954/
 
-- Railways revises schedule of Ranchi-Varanasi Vande Bharat train: check new stops, timings
+- Zomato’s Deepinder Goyal shifts focus to neuroscience with Temple
   
-  🔗 https://indianexpress.com/article/india/railways-revises-schedule-of-ranchi-varanasi-vande-bharat-train-new-stops-timings-10557148/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/zomatos-deepinder-goyal-shifts-focus-to-neuroscience-with-temple-10557753/
 
-- ‘Remain near shelters, avoid non-essential travel’: India warns citizens in Israel after Tehran attack
+- Spotify launches Audiobook Charts, offers weekly insights into popular titles
   
-  🔗 https://indianexpress.com/article/india/israel-iran-conflict-indian-embassy-advisory-10556818/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-launches-audiobook-charts-offers-weekly-insights-into-popular-titles-10557754/
 
 - Nothing Phone (4a), Phone (4a) Pro launch March 5: Specs, price rumours, redesigned Glyph
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/vijay-sales-holi-sale-2026-offers-discounts-cards-10557207/
 
-- ChatGPT records strongest subscriber growth as number of weekly users nears a billion
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-records-strongest-subscriber-growth-as-number-of-weekly-users-nears-a-billion-10557308/
+- Why NSE shares won't list on NSE: CEO Ashish Chauhan explains; IPO set to be pure OFS
+  NSE will not self-list when it goes public due to Indian regulations. It will debut on an alternative exchange, following a no-objection certificate from Sebi.
+  🔗 https://www.livemint.com/companies/news/why-nse-shares-wont-list-on-nse-ceo-ashish-chauhan-explains-ipo-set-to-be-pure-ofs-11772276302079.html
 
-- Zoom unveils Virtual Agent 3.0 for customer support with AI capabilities to avoid repeat contacts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/zoom-new-virtual-agent-customer-support-ai-10557274/
-
-- Vivo X200T review: When performance, cameras, and battery finally agree
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/vivo-x200t-review-10557070/
+- Berkshire will buy back shares if stock trades below ‘intrinsic value’, says Warren Buffett successor Greg Abel
+  Berkshire Hathaway may buy back shares if the price falls below its
+  🔗 https://www.livemint.com/companies/news/berkshire-will-buy-back-shares-if-stock-trades-below-intrinsic-value-says-warren-buffett-successor-greg-abel-11772285734952.html
 
 - CCPA fines Raising Superstars  ₹8 lakh for misleading claims on infant development
   CCPA order was in connection with the ‘Prodigy Framework Program’ on its website. According to the CCPA order, the edtech company made
@@ -52,13 +60,9 @@
   ‘Rich Dad, Poor Dad’ author Robert Kiyosaki has some advice amid concerns that artificial intelligence technology will disrupt
   🔗 https://www.livemint.com/companies/people/robert-kiyosaki-ai-will-replace-you-if-think-like-an-employee-not-entrepreneurs-become-richer-jack-dorsey-block-layoffs-11772247168231.html
 
-- Nvidia set to launch new chip that could reset the AI race, says report — Key things to know
-  Nvidia is in the process of designing a new system for “inference” computing. This will allow the company's customers and their AI models to respond to queries
-  🔗 https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html
-
-- What a Warner Bros-Paramount colossus would look like
-  Hollywood�
-  🔗 https://www.livemint.com/companies/news/warner-bros-paramount-deal-netflix-warner-11772255239603.html
+- Bitcoin falls below $65,000: What’s driving the latest crypto crash?
+  Bitcoin prices fell below $65,000 on Saturday due to military actions by
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-falls-below-65-000-what-s-driving-the-latest-crypto-crash-11772281266986.html
 
 - Silver rate today: Can silver price in India touch  ₹3 lakh as Israel attacks Iran today
   MCX silver price has delivered a strong impulsive breakout, clearing the prior consolidation ceiling. The move reflects momentum-driven participation rather than slow accumulation, supported by
@@ -76,29 +80,25 @@
   Global markets, including India's stock market, are expected to decline amid rising uncertainty over
   🔗 https://www.livemint.com/market/stock-market-news/usiran-war-buzz-how-may-the-indian-stock-market-gold-and-silver-rates-react-as-israel-attacks-iran-11772264173857.html
 
-- HEG Greentech demerger: Why Madhusudan Kela is betting  ₹500 crore on this pivot
-  As electric arc furnace capacity rises and energy storage expands, HEG is betting on electrodes and clean-tech. Steel is going green, and HEG
-  🔗 https://www.livemint.com/market/stock-market-news/steel-industry-heg-stock-analysis-11772265343786.html
+- Amid Israel-Iran conflict, FlightRadar24 starts showing error due to ‘unprecedented’ volume
+  Flightradar24 reported unprecedented traffic on its platform following US strikes on Iran. The company acknowledged site availability issues and stated that engineers are actively
+  🔗 https://www.livemint.com/technology/tech-news/amid-israel-iran-conflict-flightradar24-website-showing-error-messages-for-some-users-as-visitor-numbers-skyrocke-11772298581769.html
 
-- Xiaomi 17 Ultra & Pad 8 India Launch LIVE: Xiaomi 17, Xiaomi 17 Ultra to break cover soon
-  Xiaomi 17 series is likely to powered by the Snapdragon 8 Elite Gen 5 processor. The new Pad 7 could run on the Qualcomm Snapdragon 8
+- Xiaomi 17 Ultra with Snapdragon 8 Elite Gen 5 SoC, 6,330 mAh battery launched globally: Price, specs and more
+  Xiaomi 17 Ultra features a Leica triple camera, Snapdragon 8 Elite Gen 5, and a 6.9-inch OLED display. Prices start at 1,499 Euros for
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-ultra-with-snapdragon-8-elite-gen-5-soc-6-330-mah-battery-launched-globally-price-specs-and-more-11772287836327.html
+
+- Xiaomi 17 with triple 50MP Leica cameras, 6,330mAh battery launched in India: Price, specs and more
+  Xiaomi 17 has a 6.3-inch OLED display, Snapdragon 8 Elite Gen 5 processor, Leica triple camera setup, and a 6,330mAh battery with fast charging. It offers four colors
+  🔗 https://www.livemint.com/technology/xiaomi-17-with-triple-50mp-leica-cameras-6-330mah-battery-launched-in-india-price-specs-and-more-11772285230466.html
+
+- Xiaomi 17 Ultra & Pad 8 India Launch LIVE: Xiaomi 17, Xiaomi 17 Ultra, Pad 8 series launched
+  Xiaomi has launched its Xiaomi 17 series at the Barcelona event. Both the phones come with a LEICA
   🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-ultra-pad-8-india-launch-live-updates-leica-camera-price-specs-feb-28-2026-11772277917800.html
 
 - Xiaomi 17, Xiaomi 17 Ultra, Pad 8 global launch today: LIVE-STREAM details, expected specs, features and more
   Xiaomi is launching its flagship Xiaomi 17 series and Pad 8 tablet today. The Xiaomi 17 features a 6.3-inch OLED display, Snapdragon 8 Elite Gen 5 processor, Leica triple camera
   🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-xiaomi-17-ultra-pad-8-global-launch-today-live-stream-details-expected-price-specs-and-more-11772267810247.html
-
-- Govts SIM binding directive on app-based messaging platforms ultra vires: Tech industry body BIF
-  Govt's SIM binding directive on app-
-  🔗 https://www.livemint.com/technology/govts-sim-binding-directive-on-app-based-messaging-platforms-ultra-vires-tech-industry-body-bif-11772192037328.html
-
-- Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says
-  Smartphone market set for biggest-ever decline in
-  🔗 https://www.livemint.com/technology/smartphone-market-set-for-biggest-ever-decline-in-2026-on-memory-price-surge-idc-says-11772132768291.html
-
-- Tim Cook announces Apple product launches starting March 2; new iPhone, iPad, and Mac updates anticipated
-  Apple is expected to spread its announcements across several days, building toward a media
-  🔗 https://www.livemint.com/technology/tech-news/tim-cook-announces-apple-product-launches-starting-march-2-new-iphone-ipad-and-mac-updates-anticipated-11772125932408.html
 
 - FIIs pour Rs 22,615 crore into Indian equities in February. Can Iran-Israel conflict flip the trend?
   Foreign investors showed buying interest in Indian stocks in February. However, recent geopolitical tensions are causing concern. Experts believe FIIs may pause fresh investments.
@@ -120,113 +120,65 @@
   Vanguard ranks among top FIIs in India, with holdings in 48 BSE stocks surging sharply. Several portfolio companies delivered strong FY26 gains, with fresh additions in
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/vanguards-india-portfolio-shines-12-stocks-rally-up-to-120-in-fy26-8-fresh-q3-picks/slideshow/128881719.cms
 
-- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
-  SIM-Binding Rule Set To Change How WhatsApp, Telegram
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
+- 'Moral cowardice': PM Modi's Israel visit under fire as US-Israel launch strikes on Iran | India News - Hindustan Times
+  'Moral cowardice': PM Modi's Israel visit under fire as US-
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQRGtPQVZVMjU5MEJUdEhjbU1SOHpCcV9DaVFzSHQ4azl5WTNrYlE3LUZISTcyeHNSR19CVXdYUG1WRWMtTmpXc3ZuRk5Pd0kzVlh0M3NqQ0JTVzYwVVdHSUtialB4YXBZNmdZNjVtZkczT2lRS1Z1ZjZXX0xzSXFjSE9tNlI3R25xc2hZLWVVM2VEdjZYdGliME95Ml9tZWVTRDliWk5vS3U1M01UR2pMNTRvblFVdk5qRzQ4UlV3eGFqTjdJU2l1S1o4bHI0MENOQVQ3eE9RU2JXbGJIUS1Ka0dyS193VU9NUkJjYUZzUExXblA2WHgyb3ZOT2IxVmhGa0HSAYcCQVVfeXFMT19HeGRNVlVNYTVqRVZhWERxVkgxN0lHekxZYmd2a0I3V3VuaHRuMm9SLUNZY2F2U2t2OGVZTUhQdjcwbFZfMjFwYmhuME5UUHc0YmQtcVpKR00tTFptTS1ScXE4Q0hIbzJFQnhodi13U2FJQWVUSjBEYWhuYzA1cXBNMk9sN1ZpcldITEZKQll4UjNCblAwUzBTQmNka3VCWHRzZmNrMmpaSnFtTGVfLUpLdS03aTRGT2pNd3l2dXR3Z01VbDlRc2p6ekRYUkE1cm8xcHJzOGZIY1NORi02T0Q3UUVJWHBvYlhzZ1ZValVoZzFWQ3N3Tm8wRGRydW1aZks0NkltOWM?oc=5
 
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
+- School assembly news headlines, February 28: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 28: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalZ4SjdxdVBKaVRYdlNJSzhwRXhsQndZUGJOeTNGVnVOdkRDUzA5c1liSmYxdGgyeHd0ZjBVSUxFd29FX2hlM25jak5idlhMMW5YTzd1WlFOWDA1dnNscVZWRDlnX2R6bl9XS25lMXJOdXdoSnZvQkZlSmllMW1TdnB6R0NMQXdXTk9CLTg1QWZTeFhfXzJGckJwR05ycWg2RW9TWS1PczNLZzZoZmNIYUFfYm1lYWdCaGotdFVabk5GMF9Ga1FXcVhSZFVVN3BUblQwOE1iRDNuQXVJLWZlSlFkaXFvZ9IB6wFBVV95cUxPQ2hYdXVMMzJXNjJUdkxnbnkzVnNNZTZ1NjlYc0tLX19wUy1oOGprNUg1aWpfb18wXzQtWDdUdWFrSUlpUVZrRlZ0WnlJWlJiZnRmb0R5M2V3OXJ4dkdDb05MV0VtQXlfUUJmMnV0UkVZYl8zM2FNYmZBUXJhSk8tdFBzeklQYVF0TnBVZUJjc3FWaVNsa1hQMHhBR01JYjA0UlFRUmNQYjZnQnAybXJBLWpoanZhVmFRaktQWEk0V1ZhZXNoNWhmQWsyaWJUWS03Nzc0QkVqazVyaTYyblpKQ1p1MFUydWEzVEJF?oc=5
 
-- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
-  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
+- Harassed In Mumbai, But India Remains A Favourite, Says Travel Vlogger Ines Faria - NDTV
+  .com. Inesfaria.com
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1NBZFMzWE9NclRtaXh2MjJjbU12Z3BBVkZlVlJacDMxRFRnSkRXNmNUZFE3a2s4bkNzWGVYRl80UVVyNlRYclYxSXpJX05zVHFFaGU0YlhMMXpldWt6NXQyM3pfeE9BV1FhSjZhTDhGY2N2STJLWHNva3R5OTh0UzNaamZIU2xITFBqUE9Wd0RmQjNpdzhOVU9meEZobTR4aHRVeVRlLVBVTTlUU0VPNDR5elY5bTRZUjhwcjFn0gHGAUFVX3lxTE5qejI5MzJYTXcwSDRxai1pajVGWi03MzZ3Vjh6Yy1RN2hLV2ZRV3pJT0d3MzJSdzI1cGJTNF9Nb3poZ3V0U05fMU8zNjFabi1yNE4tOWtFTkozM0RNclljVHJmVFdHSVhiV3R3TjRmc2dWQmlmZjRiQkN4MU5VcUtuWDJxWGxhZHRtWWFqbFdyQlJ2TW0wR3dHczVzY1hNckx1a19jSl9xd0NNQzJna3RPc3NCYndCMFJ5VnNjS3hJbFZCSmdOQQ?oc=5
 
-- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
-  ECI begins phased publication of post-SIR rolls in West Bengal.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
+- 'Urge All Sides To...': India Calls For Dialogue And De Escalation As US And Israel Attack Iran - The Times of India
+  'Urge All Sides To...': India Calls For Dialogue And De Escalation
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWttSEJieEwxMENJU1kwdTYwOGpBNk9iZmMwOFJZTlZqRGpFQ29URFRhVkxCMXN1anZJQjFvSXVabkRFQUxWWDBzQjFtQS00YjFONW9ZVmx4ekpwaUZHNkVUR3NPZFE5VFV5amR1U3loUlZYdEhnWXBhQXpRTWluNFdXYThHaF9BOVZKeDJuQ2xDb1hqdEgtVm5UM1B4OVVhLWhBVkUtVHZ3SUF0MWVaYjltTThEbjNiOFpkR2NubExwaFNKUjlibnNKZ1I3TmJRS1NIX3Vod0M1VWtBSVJDd1JFcDE5RXk3cFBHTWt2WU1nTVHSAfgBQVVfeXFMTzRGclcwbHNfSnVJcmNIdUk2Zi1mVlc4MFNYbG1PMmMycXdqMlJkS04ydkdEUlBxOWVVMzh4YkpYd1pEcFR1WW9FZ0tnel96cjVJN0RNYzlOVjJHNkdnVGlDb041ZXh1RjNYc1dkWU5ab181YmRWend5VDFENnRwLTRJOUx4aEM3TW5PNzRrTkNGUzl6b1RZR2ZGZVJZZXMwd29nRGZQZEpDa1BoLWVURDJGdlk2V0dhcXlsNHhOZU90bmVzbm84VnFSUDVSUko1M3JzUTV3eDlGaE5JcG1sME1PX2F0dko3YXJjX0s2VzBuWFJSbmZ3ZlQ?oc=5
 
-- India's top court bans textbook for referring to judicial corruption - BBC
-  India's top court bans textbook for referring
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
+- India advises all Indian nationals in UAE to avoid unnecessary travel - News On AIR
+  India advises all Indian nationals in UAE to avoid unnecessary travel
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjNFZDloaW1BTHdYeEZfWkFpWHlNZkpBanNvU2xqaHY4VU9adUhTUkdhal9tNk1QeWV2YWU4TGVVTUkyaXo1MHNhMjVrUl9aSEFFS1JfZXJOWkZoYkNqcmZZYkJPdk1mcEdKSGdKWEdIWlhSUFhTQ01GSHdOTjNHYUZCSXYzMkNkZXBhOUhwNlBfTDhDVmoxVHVlbzIzNmtM?oc=5
 
-- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
-  SIM-Binding Rule Set To Change How WhatsApp, Telegram
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
+- 'Moral cowardice': PM Modi's Israel visit under fire as US-Israel launch strikes on Iran | India News - Hindustan Times
+  'Moral cowardice': PM Modi's Israel visit under fire as US-
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQRGtPQVZVMjU5MEJUdEhjbU1SOHpCcV9DaVFzSHQ4azl5WTNrYlE3LUZISTcyeHNSR19CVXdYUG1WRWMtTmpXc3ZuRk5Pd0kzVlh0M3NqQ0JTVzYwVVdHSUtialB4YXBZNmdZNjVtZkczT2lRS1Z1ZjZXX0xzSXFjSE9tNlI3R25xc2hZLWVVM2VEdjZYdGliME95Ml9tZWVTRDliWk5vS3U1M01UR2pMNTRvblFVdk5qRzQ4UlV3eGFqTjdJU2l1S1o4bHI0MENOQVQ3eE9RU2JXbGJIUS1Ka0dyS193VU9NUkJjYUZzUExXblA2WHgyb3ZOT2IxVmhGa0HSAYcCQVVfeXFMT19HeGRNVlVNYTVqRVZhWERxVkgxN0lHekxZYmd2a0I3V3VuaHRuMm9SLUNZY2F2U2t2OGVZTUhQdjcwbFZfMjFwYmhuME5UUHc0YmQtcVpKR00tTFptTS1ScXE4Q0hIbzJFQnhodi13U2FJQWVUSjBEYWhuYzA1cXBNMk9sN1ZpcldITEZKQll4UjNCblAwUzBTQmNka3VCWHRzZmNrMmpaSnFtTGVfLUpLdS03aTRGT2pNd3l2dXR3Z01VbDlRc2p6ekRYUkE1cm8xcHJzOGZIY1NORi02T0Q3UUVJWHBvYlhzZ1ZValVoZzFWQ3N3Tm8wRGRydW1aZks0NkltOWM?oc=5
 
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
+- School assembly news headlines, February 28: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 28: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalZ4SjdxdVBKaVRYdlNJSzhwRXhsQndZUGJOeTNGVnVOdkRDUzA5c1liSmYxdGgyeHd0ZjBVSUxFd29FX2hlM25jak5idlhMMW5YTzd1WlFOWDA1dnNscVZWRDlnX2R6bl9XS25lMXJOdXdoSnZvQkZlSmllMW1TdnB6R0NMQXdXTk9CLTg1QWZTeFhfXzJGckJwR05ycWg2RW9TWS1PczNLZzZoZmNIYUFfYm1lYWdCaGotdFVabk5GMF9Ga1FXcVhSZFVVN3BUblQwOE1iRDNuQXVJLWZlSlFkaXFvZ9IB6wFBVV95cUxPQ2hYdXVMMzJXNjJUdkxnbnkzVnNNZTZ1NjlYc0tLX19wUy1oOGprNUg1aWpfb18wXzQtWDdUdWFrSUlpUVZrRlZ0WnlJWlJiZnRmb0R5M2V3OXJ4dkdDb05MV0VtQXlfUUJmMnV0UkVZYl8zM2FNYmZBUXJhSk8tdFBzeklQYVF0TnBVZUJjc3FWaVNsa1hQMHhBR01JYjA0UlFRUmNQYjZnQnAybXJBLWpoanZhVmFRaktQWEk0V1ZhZXNoNWhmQWsyaWJUWS03Nzc0QkVqazVyaTYyblpKQ1p1MFUydWEzVEJF?oc=5
 
-- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
-  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
+- Harassed In Mumbai, But India Remains A Favourite, Says Travel Vlogger Ines Faria - NDTV
+  .com. Inesfaria.com
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1NBZFMzWE9NclRtaXh2MjJjbU12Z3BBVkZlVlJacDMxRFRnSkRXNmNUZFE3a2s4bkNzWGVYRl80UVVyNlRYclYxSXpJX05zVHFFaGU0YlhMMXpldWt6NXQyM3pfeE9BV1FhSjZhTDhGY2N2STJLWHNva3R5OTh0UzNaamZIU2xITFBqUE9Wd0RmQjNpdzhOVU9meEZobTR4aHRVeVRlLVBVTTlUU0VPNDR5elY5bTRZUjhwcjFn0gHGAUFVX3lxTE5qejI5MzJYTXcwSDRxai1pajVGWi03MzZ3Vjh6Yy1RN2hLV2ZRV3pJT0d3MzJSdzI1cGJTNF9Nb3poZ3V0U05fMU8zNjFabi1yNE4tOWtFTkozM0RNclljVHJmVFdHSVhiV3R3TjRmc2dWQmlmZjRiQkN4MU5VcUtuWDJxWGxhZHRtWWFqbFdyQlJ2TW0wR3dHczVzY1hNckx1a19jSl9xd0NNQzJna3RPc3NCYndCMFJ5VnNjS3hJbFZCSmdOQQ?oc=5
 
-- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
-  ECI begins phased publication of post-SIR rolls in West Bengal.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
+- 'Urge All Sides To...': India Calls For Dialogue And De Escalation As US And Israel Attack Iran - The Times of India
+  'Urge All Sides To...': India Calls For Dialogue And De Escalation
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWttSEJieEwxMENJU1kwdTYwOGpBNk9iZmMwOFJZTlZqRGpFQ29URFRhVkxCMXN1anZJQjFvSXVabkRFQUxWWDBzQjFtQS00YjFONW9ZVmx4ekpwaUZHNkVUR3NPZFE5VFV5amR1U3loUlZYdEhnWXBhQXpRTWluNFdXYThHaF9BOVZKeDJuQ2xDb1hqdEgtVm5UM1B4OVVhLWhBVkUtVHZ3SUF0MWVaYjltTThEbjNiOFpkR2NubExwaFNKUjlibnNKZ1I3TmJRS1NIX3Vod0M1VWtBSVJDd1JFcDE5RXk3cFBHTWt2WU1nTVHSAfgBQVVfeXFMTzRGclcwbHNfSnVJcmNIdUk2Zi1mVlc4MFNYbG1PMmMycXdqMlJkS04ydkdEUlBxOWVVMzh4YkpYd1pEcFR1WW9FZ0tnel96cjVJN0RNYzlOVjJHNkdnVGlDb041ZXh1RjNYc1dkWU5ab181YmRWend5VDFENnRwLTRJOUx4aEM3TW5PNzRrTkNGUzl6b1RZR2ZGZVJZZXMwd29nRGZQZEpDa1BoLWVURDJGdlk2V0dhcXlsNHhOZU90bmVzbm84VnFSUDVSUko1M3JzUTV3eDlGaE5JcG1sME1PX2F0dko3YXJjX0s2VzBuWFJSbmZ3ZlQ?oc=5
 
-- India's top court bans textbook for referring to judicial corruption - BBC
-  India's top court bans textbook for referring
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
+- India advises all Indian nationals in UAE to avoid unnecessary travel - News On AIR
+  India advises all Indian nationals in UAE to avoid unnecessary travel
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjNFZDloaW1BTHdYeEZfWkFpWHlNZkpBanNvU2xqaHY4VU9adUhTUkdhal9tNk1QeWV2YWU4TGVVTUkyaXo1MHNhMjVrUl9aSEFFS1JfZXJOWkZoYkNqcmZZYkJPdk1mcEdKSGdKWEdIWlhSUFhTQ01GSHdOTjNHYUZCSXYzMkNkZXBhOUhwNlBfTDhDVmoxVHVlbzIzNmtM?oc=5
 
-- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
-  SIM-Binding Rule Set To Change How WhatsApp, Telegram
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
+- 'Moral cowardice': PM Modi's Israel visit under fire as US-Israel launch strikes on Iran | India News - Hindustan Times
+  'Moral cowardice': PM Modi's Israel visit under fire as US-
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQRGtPQVZVMjU5MEJUdEhjbU1SOHpCcV9DaVFzSHQ4azl5WTNrYlE3LUZISTcyeHNSR19CVXdYUG1WRWMtTmpXc3ZuRk5Pd0kzVlh0M3NqQ0JTVzYwVVdHSUtialB4YXBZNmdZNjVtZkczT2lRS1Z1ZjZXX0xzSXFjSE9tNlI3R25xc2hZLWVVM2VEdjZYdGliME95Ml9tZWVTRDliWk5vS3U1M01UR2pMNTRvblFVdk5qRzQ4UlV3eGFqTjdJU2l1S1o4bHI0MENOQVQ3eE9RU2JXbGJIUS1Ka0dyS193VU9NUkJjYUZzUExXblA2WHgyb3ZOT2IxVmhGa0HSAYcCQVVfeXFMT19HeGRNVlVNYTVqRVZhWERxVkgxN0lHekxZYmd2a0I3V3VuaHRuMm9SLUNZY2F2U2t2OGVZTUhQdjcwbFZfMjFwYmhuME5UUHc0YmQtcVpKR00tTFptTS1ScXE4Q0hIbzJFQnhodi13U2FJQWVUSjBEYWhuYzA1cXBNMk9sN1ZpcldITEZKQll4UjNCblAwUzBTQmNka3VCWHRzZmNrMmpaSnFtTGVfLUpLdS03aTRGT2pNd3l2dXR3Z01VbDlRc2p6ekRYUkE1cm8xcHJzOGZIY1NORi02T0Q3UUVJWHBvYlhzZ1ZValVoZzFWQ3N3Tm8wRGRydW1aZks0NkltOWM?oc=5
 
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
+- School assembly news headlines, February 28: Top India, world, sports, business news - India Today
+  School assembly news headlines, February 28: Top India,
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalZ4SjdxdVBKaVRYdlNJSzhwRXhsQndZUGJOeTNGVnVOdkRDUzA5c1liSmYxdGgyeHd0ZjBVSUxFd29FX2hlM25jak5idlhMMW5YTzd1WlFOWDA1dnNscVZWRDlnX2R6bl9XS25lMXJOdXdoSnZvQkZlSmllMW1TdnB6R0NMQXdXTk9CLTg1QWZTeFhfXzJGckJwR05ycWg2RW9TWS1PczNLZzZoZmNIYUFfYm1lYWdCaGotdFVabk5GMF9Ga1FXcVhSZFVVN3BUblQwOE1iRDNuQXVJLWZlSlFkaXFvZ9IB6wFBVV95cUxPQ2hYdXVMMzJXNjJUdkxnbnkzVnNNZTZ1NjlYc0tLX19wUy1oOGprNUg1aWpfb18wXzQtWDdUdWFrSUlpUVZrRlZ0WnlJWlJiZnRmb0R5M2V3OXJ4dkdDb05MV0VtQXlfUUJmMnV0UkVZYl8zM2FNYmZBUXJhSk8tdFBzeklQYVF0TnBVZUJjc3FWaVNsa1hQMHhBR01JYjA0UlFRUmNQYjZnQnAybXJBLWpoanZhVmFRaktQWEk0V1ZhZXNoNWhmQWsyaWJUWS03Nzc0QkVqazVyaTYyblpKQ1p1MFUydWEzVEJF?oc=5
 
-- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
-  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
+- Harassed In Mumbai, But India Remains A Favourite, Says Travel Vlogger Ines Faria - NDTV
+  .com. Inesfaria.com
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1NBZFMzWE9NclRtaXh2MjJjbU12Z3BBVkZlVlJacDMxRFRnSkRXNmNUZFE3a2s4bkNzWGVYRl80UVVyNlRYclYxSXpJX05zVHFFaGU0YlhMMXpldWt6NXQyM3pfeE9BV1FhSjZhTDhGY2N2STJLWHNva3R5OTh0UzNaamZIU2xITFBqUE9Wd0RmQjNpdzhOVU9meEZobTR4aHRVeVRlLVBVTTlUU0VPNDR5elY5bTRZUjhwcjFn0gHGAUFVX3lxTE5qejI5MzJYTXcwSDRxai1pajVGWi03MzZ3Vjh6Yy1RN2hLV2ZRV3pJT0d3MzJSdzI1cGJTNF9Nb3poZ3V0U05fMU8zNjFabi1yNE4tOWtFTkozM0RNclljVHJmVFdHSVhiV3R3TjRmc2dWQmlmZjRiQkN4MU5VcUtuWDJxWGxhZHRtWWFqbFdyQlJ2TW0wR3dHczVzY1hNckx1a19jSl9xd0NNQzJna3RPc3NCYndCMFJ5VnNjS3hJbFZCSmdOQQ?oc=5
 
-- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
-  ECI begins phased publication of post-SIR rolls in West Bengal.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
+- 'Urge All Sides To...': India Calls For Dialogue And De Escalation As US And Israel Attack Iran - The Times of India
+  'Urge All Sides To...': India Calls For Dialogue And De Escalation
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaWttSEJieEwxMENJU1kwdTYwOGpBNk9iZmMwOFJZTlZqRGpFQ29URFRhVkxCMXN1anZJQjFvSXVabkRFQUxWWDBzQjFtQS00YjFONW9ZVmx4ekpwaUZHNkVUR3NPZFE5VFV5amR1U3loUlZYdEhnWXBhQXpRTWluNFdXYThHaF9BOVZKeDJuQ2xDb1hqdEgtVm5UM1B4OVVhLWhBVkUtVHZ3SUF0MWVaYjltTThEbjNiOFpkR2NubExwaFNKUjlibnNKZ1I3TmJRS1NIX3Vod0M1VWtBSVJDd1JFcDE5RXk3cFBHTWt2WU1nTVHSAfgBQVVfeXFMTzRGclcwbHNfSnVJcmNIdUk2Zi1mVlc4MFNYbG1PMmMycXdqMlJkS04ydkdEUlBxOWVVMzh4YkpYd1pEcFR1WW9FZ0tnel96cjVJN0RNYzlOVjJHNkdnVGlDb041ZXh1RjNYc1dkWU5ab181YmRWend5VDFENnRwLTRJOUx4aEM3TW5PNzRrTkNGUzl6b1RZR2ZGZVJZZXMwd29nRGZQZEpDa1BoLWVURDJGdlk2V0dhcXlsNHhOZU90bmVzbm84VnFSUDVSUko1M3JzUTV3eDlGaE5JcG1sME1PX2F0dko3YXJjX0s2VzBuWFJSbmZ3ZlQ?oc=5
 
-- India's top court bans textbook for referring to judicial corruption - BBC
-  India's top court bans textbook for referring
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
-
-- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
-  SIM-Binding Rule Set To Change How WhatsApp, Telegram
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
-
-- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
-  India and Israel pledge to boost cooperation on trade
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
-
-- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
-  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
-
-- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
-  ECI begins phased publication of post-SIR rolls in West Bengal.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
-
-- India's top court bans textbook for referring to judicial corruption - BBC
-  India's top court bans textbook for referring
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India advises all Indian nationals in UAE to avoid unnecessary travel - News On AIR
+  India advises all Indian nationals in UAE to avoid unnecessary travel
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjNFZDloaW1BTHdYeEZfWkFpWHlNZkpBanNvU2xqaHY4VU9adUhTUkdhal9tNk1QeWV2YWU4TGVVTUkyaXo1MHNhMjVrUl9aSEFFS1JfZXJOWkZoYkNqcmZZYkJPdk1mcEdKSGdKWEdIWlhSUFhTQ01GSHdOTjNHYUZCSXYzMkNkZXBhOUhwNlBfTDhDVmoxVHVlbzIzNmtM?oc=5
 
 
-_Last updated: 2026-02-28 12:38:59 UTC_
+_Last updated: 2026-02-28 18:30:54 UTC_
