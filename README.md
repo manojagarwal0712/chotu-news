@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- PM Modi launches nationwide HPV vaccination drive, inaugurates projects worth Rs 16,680 crore in Rajasthan
+- RBI Holiday List 2026: Banks to remain closed for 11 days in March – Check dates & city-wise closure list
   
-  🔗 https://indianexpress.com/article/india/pm-modi-launches-hpv-vaccination-drive-rajasthan-10556985/
+  🔗 https://indianexpress.com/article/india/rbi-holiday-list-2026-banks-to-remain-closed-for-11-days-in-march-check-dates-city-wise-closure-list-10557325/
 
-- 8 cheetahs on 10-hour flight: India set to get new batch from Botswana
+- ‘Muslim League Maoist Congress’: Modi slams ‘anti-national’ slogans at AI summit
   
-  🔗 https://indianexpress.com/article/india/8-cheetahs-on-10-hour-flight-india-set-to-get-new-batch-from-botswana-10556432/
+  🔗 https://indianexpress.com/article/india/muslim-league-maoist-congress-modi-anti-national-ai-summit-10557361/
 
-- From bombmaker to Assembly guest: 120 ex-Maoists step into Chhattisgarh’s ‘temple of democracy’
+- Amrit Bharat Station Scheme: PM Modi to inaugurate 8 redeveloped railway stations in Tamil Nadu on March 1
   
-  🔗 https://indianexpress.com/article/india/bombmaker-assembly-guest-ex-maoists-chhattisgarh-temple-democracy-10556434/
+  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-pm-modi-to-inaugurate-8-redeveloped-railway-stations-in-tamil-nadu-on-march-1-10557214/
 
-- Jain to Kejriwal, aggregate jail time of AAP’s five top leaders — 82 months
+- Railways revises schedule of Ranchi-Varanasi Vande Bharat train: check new stops, timings
   
-  🔗 https://indianexpress.com/article/india/jain-to-kejriwal-aggregate-jail-time-of-aaps-five-top-leaders-82-months-10556488/
+  🔗 https://indianexpress.com/article/india/railways-revises-schedule-of-ranchi-varanasi-vande-bharat-train-new-stops-timings-10557148/
 
-- Six key faces in Delhi liquor scam case: Charges and clean chit
+- ‘Remain near shelters, avoid non-essential travel’: India warns citizens in Israel after Tehran attack
   
-  🔗 https://indianexpress.com/article/india/six-key-faces-in-delhi-liquor-scam-case-charges-and-clean-chit-10556485/
+  🔗 https://indianexpress.com/article/india/israel-iran-conflict-indian-embassy-advisory-10556818/
 
-- Urban planning and design tech in India is outdated, needs overhaul: Nithya Ramesh, Director, Jana Urban Space
+- Nothing Phone (4a), Phone (4a) Pro launch March 5: Specs, price rumours, redesigned Glyph
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/urban-planning-design-tech-india-outdated-overhaul-nithya-ramesh-director-jana-urban-space-10556930/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-series-launch-date-price-specs-glyph-bar-10557454/
 
-- Dorsey’s blunt AI warning sharpens debate over jobs and profits
+- Vijay Sales Holi Sale 2026: Get 65 per cent off ACs, smartphones from Rs 6,399, and massive bank discounts
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/dorseys-blunt-ai-warning-sharpens-debate-over-jobs-and-profits-10556822/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vijay-sales-holi-sale-2026-offers-discounts-cards-10557207/
 
-- OpenAI’s $110 billion funding round draws investment from Amazon, Nvidia, SoftBank
+- ChatGPT records strongest subscriber growth as number of weekly users nears a billion
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-110-billion-funding-round-draws-investment-from-amazon-nvidia-softbank-10556821/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-records-strongest-subscriber-growth-as-number-of-weekly-users-nears-a-billion-10557308/
 
-- Best smartphones under Rs 30,000 on Amazon right now: Top value picks
+- Zoom unveils Virtual Agent 3.0 for customer support with AI capabilities to avoid repeat contacts
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-smartphones-under-rs-30000-on-amazon-10556123/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/zoom-new-virtual-agent-customer-support-ai-10557274/
 
-- Anthropic faces 6-month federal phaseout after Trump orders agencies to halt its AI use
+- Vivo X200T review: When performance, cameras, and battery finally agree
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-faces-6-month-federal-phaseout-after-donald-trump-orders-agencies-to-halt-its-ai-use-10556648/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/vivo-x200t-review-10557070/
+
+- CCPA fines Raising Superstars  ₹8 lakh for misleading claims on infant development
+  CCPA order was in connection with the ‘Prodigy Framework Program’ on its website. According to the CCPA order, the edtech company made
+  🔗 https://www.livemint.com/companies/news/ccpa-edtech-fine-raising-superstars-11772271711678.html
 
 - Block employee sacked during hiring call warns of more AI job cuts — ‘Survived previous layoffs, was sole breadwinner’
   Jack Dorsey said the Block layoffs were just the beginning. Dorsey expects majority of companies to reach the same conclusion.
@@ -48,37 +52,41 @@
   ‘Rich Dad, Poor Dad’ author Robert Kiyosaki has some advice amid concerns that artificial intelligence technology will disrupt
   🔗 https://www.livemint.com/companies/people/robert-kiyosaki-ai-will-replace-you-if-think-like-an-employee-not-entrepreneurs-become-richer-jack-dorsey-block-layoffs-11772247168231.html
 
-- What a Warner Bros-Paramount colossus would look like
-  Hollywood�
-  🔗 https://www.livemint.com/companies/news/warner-bros-paramount-deal-netflix-warner-11772255239603.html
-
 - Nvidia set to launch new chip that could reset the AI race, says report — Key things to know
   Nvidia is in the process of designing a new system for “inference” computing. This will allow the company's customers and their AI models to respond to queries
   🔗 https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html
 
-- Altman says agreement reached with Pentagon to deploy OpenAI models for classified work—Did Anthropic refusal clear way?
-  OpenAI has reached an agreement with the Pentagon to deploy its models in classified networks. This comes amid the department's spat with Anthropic over “full military use
-  🔗 https://www.livemint.com/companies/news/sam-altman-openai-reach-agreement-deploy-models-chatgpt-us-pentagon-classified-networks-anthropic-claude-refusal-safety-11772249154934.html
+- What a Warner Bros-Paramount colossus would look like
+  Hollywood�
+  🔗 https://www.livemint.com/companies/news/warner-bros-paramount-deal-netflix-warner-11772255239603.html
 
-- Israel, France, Germany to EU: What India's defence diplomacy means for China, Pakistan, US and NATO?
-  India's recent defence deals with Germany, the EU, France, and Israel enhance
-  🔗 https://www.livemint.com/market/stock-market-news/israel-france-germany-to-eu-what-indias-defence-diplomacy-means-for-china-pakistan-and-nato-11772247388504.html
+- Silver rate today: Can silver price in India touch  ₹3 lakh as Israel attacks Iran today
+  MCX silver price has delivered a strong impulsive breakout, clearing the prior consolidation ceiling. The move reflects momentum-driven participation rather than slow accumulation, supported by
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-can-silver-price-in-india-touch-rs-3-lakh-as-israel-attacks-iran-today-11772278276049.html
 
-- Top four stocks with order book surpassing their market caps
-  Here are four stocks with order books bigger than their market caps.
-  🔗 https://www.livemint.com/market/stock-market-news/top-four-indian-stocks-order-book-market-capitalization-investment-analysis-11772192191472.html
+- Stock market holidays in March 2026: NSE, BSE to remain closed on these days next month
+  Those confused about the trade holiday date on Holi should scan the list of trade holidays available on the BSE and the N
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-march-2026-nse-bse-to-remain-closed-on-these-days-next-month-11772272908550.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 2 March 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-2-march-2026-11772214020283.html
+- FPIs turn net buyers in Indian stock market; February inflows top  ₹22,600 crore, highest in 16 months
+  FPIs net bought Indian equities worth  ₹22,615 crore in February. Previously, FPIs
+  🔗 https://www.livemint.com/market/stock-market-news/fpis-turn-net-buyers-in-indian-stock-market-february-inflows-top-rs-22-600-crore-highest-in-16-months-11772272448552.html
 
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari recommends three shares to buy or sell — Central Bank of India, Sh
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11772212170305.html
+- US-Iran war buzz: How may the Indian stock market, gold, and silver rates react as Israel attacks Iran?
+  Global markets, including India's stock market, are expected to decline amid rising uncertainty over
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-buzz-how-may-the-indian-stock-market-gold-and-silver-rates-react-as-israel-attacks-iran-11772264173857.html
 
-- Bank Shares Walloped by More AI and ‘Cockroach’ Credit Woes
-  Financial firms ended February where they spent much of the month: enduring another dizzying blow.
-  🔗 https://www.livemint.com/market/bank-shares-walloped-by-more-ai-and-cockroach-credit-woes-11772230266637.html
+- HEG Greentech demerger: Why Madhusudan Kela is betting  ₹500 crore on this pivot
+  As electric arc furnace capacity rises and energy storage expands, HEG is betting on electrodes and clean-tech. Steel is going green, and HEG
+  🔗 https://www.livemint.com/market/stock-market-news/steel-industry-heg-stock-analysis-11772265343786.html
+
+- Xiaomi 17 Ultra & Pad 8 India Launch LIVE: Xiaomi 17, Xiaomi 17 Ultra to break cover soon
+  Xiaomi 17 series is likely to powered by the Snapdragon 8 Elite Gen 5 processor. The new Pad 7 could run on the Qualcomm Snapdragon 8
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-ultra-pad-8-india-launch-live-updates-leica-camera-price-specs-feb-28-2026-11772277917800.html
+
+- Xiaomi 17, Xiaomi 17 Ultra, Pad 8 global launch today: LIVE-STREAM details, expected specs, features and more
+  Xiaomi is launching its flagship Xiaomi 17 series and Pad 8 tablet today. The Xiaomi 17 features a 6.3-inch OLED display, Snapdragon 8 Elite Gen 5 processor, Leica triple camera
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-xiaomi-17-ultra-pad-8-global-launch-today-live-stream-details-expected-price-specs-and-more-11772267810247.html
 
 - Govts SIM binding directive on app-based messaging platforms ultra vires: Tech industry body BIF
   Govt's SIM binding directive on app-
@@ -92,133 +100,105 @@
   Apple is expected to spread its announcements across several days, building toward a media
   🔗 https://www.livemint.com/technology/tech-news/tim-cook-announces-apple-product-launches-starting-march-2-new-iphone-ipad-and-mac-updates-anticipated-11772125932408.html
 
-- Delhi govt submits proposal to Centre on setting up two AI centres of excellence
-  Delhi govt submits proposal to Centre
-  🔗 https://www.livemint.com/technology/delhi-govt-submits-proposal-to-centre-on-setting-up-two-ai-centres-of-excellence-11772126328003.html
+- FIIs pour Rs 22,615 crore into Indian equities in February. Can Iran-Israel conflict flip the trend?
+  Foreign investors showed buying interest in Indian stocks in February. However, recent geopolitical tensions are causing concern. Experts believe FIIs may pause fresh investments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-pour-rs-22615-crore-into-indian-equities-in-february-can-iran-israel-conflict-flip-the-trend/articleshow/128885382.cms
 
-- Guardrails off for Anthropic: Firm tweaks AI safety policy amid heightened competition, lack of regulation—what changes?
-  Anthropic is now weakening its foundational safety principle amid growing competition and lack of government regulation.
-  🔗 https://www.livemint.com/technology/tech-news/guardrails-off-for-anthropic-firm-tweaks-ai-safety-policy-amid-heightened-competition-lack-of-regulation-what-changes-11772071493999.html
+- Iran-Israel war: Up 20% in 2026, crude oil stares at $80 a barrel
+  Oil prices rallied sharply after US and Israeli strikes on Iran heightened Middle East tensions. Brent and WTI hit multi-month highs, with further gains likely.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/iran-israel-war-up-20-in-2026-crude-oil-stares-at-80-a-barrel/articleshow/128884731.cms
 
-- Dow closes more than 500 points lower after hot inflation report, mounting concerns about AI impact - CNBC
-  The Dow closes more than 500 points lower after hot inflation report. Dow
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1md19zMWZDRkdXWXJPR2pEb2EyZGszb2lIelFjMlhaZi0tM2ttb3V5MzBTYmFpVmE3Y0xWcm05S0liRVA0ei1Qdko2dGZNNkd4M1ZNQzZGYzJpRzUxUkRPcmhOTTVuRkRaUkoxNmRZZmtpLTJ5YXh30gF8QVVfeXFMUHk0X3VvR0ZXUzRxUURDcEt5UG1yRThzNFZJMHZ1ZEVsWk01N1M2RU5ZcGp2MXEyTmNHLUg4aDlPNnE1ZGlVaHdtR0psVFMwSlhBYjMtelRycGtNNnFEay11eXlURnNGM3pyODFzeV9LMmpxU3dJMVJXV3JIWA?oc=5
+- Nifty tests support zone amid corrective market phase; cautious week seen ahead
+  Nifty closed lower after sustained selling, staying above long-term averages. Technical indicators suggest consolidation with corrective bias. Energy, infra and financials show relative strength, while
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-tests-support-zone-amid-corrective-market-phase-cautious-week-seen-ahead/articleshow/128881857.cms
 
-- Markets News, Feb. 27, 2026: Major Indexes End Sharply Lower After Inflation Reading Comes in Hotter Than Expected; Dow Sheds More Than 500 Points - Investopedia
-  The Dow Jones Industrial Average closed down more than 500 points on Tuesday.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOamtXblRVN0JyVlA3M0dXb2lXVS1FNUlhcGFGd0tGQ3p2dnBpVDZ0b2pwV3VYT2tWazZvSTlhZlltQmJfblZaLVBXTmpXeS02aC1DTlhDTUY3WmRBOUlzNDhiSFhFWm05UlA3bF93bllfdDBOdkFyTFozQkFFSnk0ZDRLdXQyNEtZc1pSQjd2Ulo?oc=5
+- Iran-Israel tensions likely to trigger choppy trade on Monday. What should investors do?
+  Indian stock markets are poised for a gap-down opening on Monday following preemptive strikes by Israel on Iran. Global cues remain negative, with experts anticipating choppy trade and advising investors to utilize corrections for long-term buying opportunities
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iran-israel-tensions-likely-to-trigger-choppy-trade-on-monday-what-should-investors-do/articleshow/128881495.cms
 
-- S&P 500 Faces February Loss as Europe, Asia Rally: Markets Wrap - Bloomberg.com
-  P 500 Faces February Loss as Europe, Asia
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1ZyU3BKUzZZV0lDYUNkQVBuYloyMEZTelFYTXAyNlVVOVZMNXNBUVU4bWJDMXNnbi1qYnQwT0RSWDVJbFlMSVQtWS1kbWhFOU1hc01CQmpYd2tCdVVQMFUxZXdjNjltVnJKNEpjc0hfdW0wUEtfdTZzVFM4OEY2Q25EbWZOcGYtMUFGYWVjX2hQSEg5ODhwcXdwcFBraU04TTFPQXpIV3V4U0tMYkNOeS13?oc=5
+- Vanguard’s India portfolio shines: 12 stocks rally up to 120% in FY26, 8 fresh Q3 picks
+  Vanguard ranks among top FIIs in India, with holdings in 48 BSE stocks surging sharply. Several portfolio companies delivered strong FY26 gains, with fresh additions in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vanguards-india-portfolio-shines-12-stocks-rally-up-to-120-in-fy26-8-fresh-q3-picks/slideshow/128881719.cms
 
-- Closing Bell: Nifty below 25,200, Sensex tanks 961 pts; realty, metal, FMCG top drag - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWE2RlB3QTBFVjJpZEY0Z2tyNEVxdVBsSXZKV1RwNWFweXc4SlFOQ1BxSUE5dGRlSzVQSnNOUGJCeXh1a1l4Z19PNWFLQ0JPbmMxRXp6N29NSmxmWllIdU1ra2lJM0ViLT
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWE2RlB3QTBFVjJpZEY0Z2tyNEVxdVBsSXZKV1RwNWFweXc4SlFOQ1BxSUE5dGRlSzVQSnNOUGJCeXh1a1l4Z19PNWFLQ0JPbmMxRXp6N29NSmxmWllIdU1ra2lJM0ViLTdMVXl6bmNsUlZFcHBLdFNlSnpHa1hYV1MwVFFhb1N4Nm5VcTR5VUNiZFlSbm8ySmoyTXY0VUJiMlJEdWxaZUREUlFxVWRlelJlM2JobDBzUUo4bEN4ZXRqSV8tUThSRVdLN20zdTltZ3l5MlFScE5zaWUwczlPa0tlSE02VllUWHV2dTFn?oc=5
+- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
+  SIM-Binding Rule Set To Change How WhatsApp, Telegram
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
 
-- Wall St Week Ahead AI disruption looms over markets with US jobs data on tap - Reuters
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZZSW15R3BDOS12TTNwOVR1eFhlNTV0RktQSkpPMlFrNElmS3ZBY2xQMTJrLUpLRzVPcF9NTGZlaGRBaDJvQmgxdGd4Xzk2Um9MM2RPN3JrZTBIV2g1QzJxLTVoMlRrZzFHVG9yNVJlMkotbkJ0MDdGQ1NSaWRZV3pmTmN1OFVzZHBqUFR5c0xtZ05oYzFXb3UweklzYng5SWNRaENESk5yRGFpeDU5N2FaTVNvNTdTbFE?oc=5
+- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
+  India and Israel pledge to boost cooperation on trade
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
 
-- IPO Calendar: Primary market to see 1 new public offer, but 9 listings grab headlines next week
-  The primary market will see Sedemac Mechatronics’ Rs 1,087 crore IPO open next week. Muted grey market premiums and selective investor interest reflect cautious sentiment
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-to-see-1-new-public-offer-but-9-listings-grab-headlines-next-week/articleshow/128876049.cms
+- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
+  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
 
-- Opportunities in smallcap and midcap stocks increasing: WhiteOak's Trupti Agrawal
-  Small and mid caps offer selective alpha as fundamentals hold up. Private financials, consumer discretionary and healthcare remain promising from a bottom-up perspective.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/opportunities-in-smallcap-and-midcap-stocks-increasing-whiteoaks-trupti-agrawal/articleshow/128875480.cms
+- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
+  ECI begins phased publication of post-SIR rolls in West Bengal.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
 
-- New era of trade volatility: What the court’s decision and Trump’s tariff pivot mean for commodities
-  The U.S. Supreme Court blocked Donald Trump’s sweeping tariffs under IEEPA, but his swift 15% global levy revived uncertainty. The ruling jolted global
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/new-era-of-trade-volatility-what-the-courts-decision-and-trumps-tariff-pivot-mean-for-commodities/articleshow/128875195.cms
+- India's top court bans textbook for referring to judicial corruption - BBC
+  India's top court bans textbook for referring
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
 
-- Titan Company shines, Britannia Industries steadies: consumer stocks back in play
-  India’s consumer sector showed gradual recovery in 3QFY26. Food and staples led gains, while discretionary recovery remained uneven. Titan Company and Britannia Industries delivered strong quarterly performances.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/titan-company-shines-britannia-industries-steadies-consumer-stocks-back-in-play/articleshow/128875136.cms
+- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
+  SIM-Binding Rule Set To Change How WhatsApp, Telegram
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
 
-- US dollar heads for first monthly gain since October
-  The U.S. dollar is poised for its first monthly gain since October. Hotter-than-expected producer price data initially boosted the greenback. Geopolitical uncertainty and expectations of Fed rate cuts are also influencing currency
-  🔗 https://economictimes.indiatimes.com/markets/forex/us-dollar-heads-for-first-monthly-gain-since-october/articleshow/128874916.cms
+- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
+  India and Israel pledge to boost cooperation on trade
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
 
-- A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
-  A 'delicate' balance for Canada and a 'win
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
+- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
+  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
 
-- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
-  Has India’s influence in Afghanistan
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
+  ECI begins phased publication of post-SIR rolls in West Bengal.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
 
-- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
-  Bengaluru-Nepal Air
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+- India's top court bans textbook for referring to judicial corruption - BBC
+  India's top court bans textbook for referring
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
 
-- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
-  Menaka Guruswamy, TMC’s
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
+  SIM-Binding Rule Set To Change How WhatsApp, Telegram
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
 
-- Probe Agencies Not Political Tools: Court - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
+- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
+  India and Israel pledge to boost cooperation on trade
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
 
-- A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
-  A 'delicate' balance for Canada and a 'win
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
+- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
+  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
 
-- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
-  Has India’s influence in Afghanistan
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
+  ECI begins phased publication of post-SIR rolls in West Bengal.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
 
-- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
-  Bengaluru-Nepal Air
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+- India's top court bans textbook for referring to judicial corruption - BBC
+  India's top court bans textbook for referring
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
 
-- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
-  Menaka Guruswamy, TMC’s
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+- SIM-Binding Rule Set To Change How WhatsApp, Telegram Work In India From March 1 - NDTV
+  SIM-Binding Rule Set To Change How WhatsApp, Telegram
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFlUamhLOFN2VXJ6b3RUc2owcmRwUXNBdmNOcnJyY2pKVjdmZ3NqTnhQR29wczgxSl9iTUhwZENIRGhzQ1RhTllHTWRuTjVOUHF5YVpWVGZPakY3Y19PZFNQODhTZ2JQaUhDcTZvTS0yM3l6SjFVSnIwRWZkRDVJVlRvRmRJa2J0UHJRQUZIeHJtMndrZjM3a2JSRHU5OHdKOWktVXZrclpIYXRVZERzWFNBelY4MFY3bUZRc9IBxAFBVV95cUxPUFpvNGEwdnFwaEpiX1d2NVR5QVJrOU5TQTlVNWZHS2hoZWllY1lhRWVveXp3OHkxLTNLdURtZHlRRDEwdFAtblRmR0RDemdlbXB1cHR3NkZOWE9MY3ZtLXZtQW04VW9kaDNyUnJaak4yb1o4VGVqenYtSnFTdDl0bURwUjZpUU9NQXBxanktZEx0ZEVnTUVRTlJya1lTeFlyeWJjd0hHSWpsa1c1bjBNNzBLM3RNMUd5OVlfLTZwWlBQV1p4?oc=5
 
-- Probe Agencies Not Political Tools: Court - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
+- India and Israel pledge to boost cooperation on trade, defence - Al Jazeera
+  India and Israel pledge to boost cooperation on trade
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzFMbWtqR05rMURERUlWY0ZVdkpmRFZWQ1BxU1YyX184U3JfRU04b2hJeE5ETW5IM2ZFak9SSnBHZEtvdU9oOTFRY1ZxMjBYbkdhZXJmc3hXQURhT041VG5QRHhaZU5RcnVwbkhuTUg5c1RvbTlVdmNUZWdJcUVZZVBmLXZGRDM2NkNSTUR2alBMamlBbENVUnRFZ0NjZjdWN1F3SdIBqgFBVV95cUxPY01zSFhpT0VZejQwM0Z6TnhnTlpFMjQxZnZUdzZ4V2JmOHVDaE5xOVVTblVSYlRaY1BoMldsWmliRWZhbURMcVluWWtXbEVmdUdTWnZ2a3lKU3pVY3ZtV1g2bU9QVzZJNjVqNDNzc2tOWld2QWZPbW1iN1h2QV8zQmpfMlVIVG1VRzhISzNzSkJtLVpIQjNfOTg1eWNSQ3IzSGtzVkpHRjJTdw?oc=5
 
-- A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
-  A 'delicate' balance for Canada and a 'win
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
+- Israel Attack Iran Live Updates: 40 Iranian students killed in Israel–US strikes; Kataib Hezbollah vows to attack US - The Times of India
+  The Times of India reports that 40 Iranian students killed in Israel–US strikes; Kataib
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNWUt2M1BBeWxnVzUyYWNtcjljMEluVE0tZGh2TGZ5RWphSlF3VU5QenRkU3NlYlVwTk9xcjEzMFd3TmxYN2RLVUYtYW9EVE9YeHJzeW44NkJwOVRJZXVFVHNtVkJWQ1JhRlNyRlVKZWNxUzg5TXJMekNsV1I0QnRaNFh6aFl4dFlxdjRuc3BteXRoeXltNHc3OTljV2NhVEJvNXJETVBTVWZORTVHM0lLNjRRUkplYjBxSWJBc3Q1Ujh6ZUo0NHVoUUt3Q3dmWVV0cklzd0NZNWppT1o4Z2NhcXlzaHlmVVNnYVd5LVpJVno3eDItT1lJWlVUOHV4N2tFX2pVLTQ2VldCUdIBjwJBVV95cUxPbElRTW42MkowOTNXekFLckg1NUhvNzVaNWJscHV1TWNycEY3emxLOVNSVVVrdGFvZDBueXpyZ0tWSTRVVUJSd0R1czFKMmQ1TnVpSGJHVTZNYkVIREZSdVhfczNtcEUzd3lwaDVOMmdDMVVhd0NZbmdodXBvdWRJLUhPNnEtbmk5VWNqTDRKc21hNFNmRTdUaWFzZHBYZ2E3emZ4OGg1WW9LV28xUVJyOVYzZnYtelV1dVJEYXFibEZOdmVlQ3FyTzh3RTYyU1ZHNUNzV1gxRkF1QTNiMEJzTXRZalhldm43dXFDX1FGM0hMZlBrZW10dmc2Ml9pbldVajI0YV8yRTRud3FISlpN?oc=5
 
-- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
-  Has India’s influence in Afghanistan
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+- ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura - The Hindu
+  ECI begins phased publication of post-SIR rolls in West Bengal.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOWNpbWhWUlByVEMxUzdPcmhUd3QtLURBdVpWOEJGVzRjS1NBZ20td0NLSmxYQlhKNUpQZ202dnZtcHphZF9hWmV1Q3VsSWkyTXZKUDNkNkFfaDhCTXdPbXlacjNCVE1hQnVWeTNPMVd0a1hDM2lVNjl6V1VuNEZGM0hoM3BOMUUzN3FmTEVXTlI4dlp1c3J5SmczUUFFY2d2SmNub2NsMGRlSU9xU0JJU05UU0NqS2dBM3JBOU5fOXE4MlVPT2ZDcXZ1cFRBTlQwN3RKMlNSb2HSAd8BQVVfeXFMTmVBalgzR2kzOHI2QkdZXzdoWlcyY1Y3LTFfanh4ZmoxN2VERzFZcUZNLW5RUnpRN0F3WkdDcjBzWTBReEliZUk1ZGxIbXRBbDJZSlRyUEh4aHBKZ0stbEFQcHVtdWZxR29xUnFLTVBFbGhhVXNWa2JnbUdESXFJcGFXRFhkQnZ3bUlfSzBYN0ZNdXdHck5BeURZX0dtSkVHTXhRSU8tLWI5SUl0THJNUWdhNVV4QWdGM004b0E5b0l6ZUlob2NaZnplbHN5b2M5UjlwanhZWkluRlF1OGprRQ?oc=5
 
-- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
-  Bengaluru-Nepal Air
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
-
-- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
-  Menaka Guruswamy, TMC’s
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
-
-- Probe Agencies Not Political Tools: Court - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
-
-- A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
-  A 'delicate' balance for Canada and a 'win
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
-
-- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
-  Has India’s influence in Afghanistan
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
-
-- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
-  Bengaluru-Nepal Air
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
-
-- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
-  Menaka Guruswamy, TMC’s
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
-
-- Probe Agencies Not Political Tools: Court - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
+- India's top court bans textbook for referring to judicial corruption - BBC
+  India's top court bans textbook for referring
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8waW54VkpHQVhGdXpYZGt6RWNISlc2YXZHT2syYkNicmpRSkJzcUZvQVlSal90VmZVS1pfOTUxZlhOazNobU1xLTEtcWJPOWdGd2hoNnpndTFPUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-28 06:35:18 UTC_
+_Last updated: 2026-02-28 12:38:59 UTC_
