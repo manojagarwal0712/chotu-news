@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- PM Modi launches nationwide HPV vaccination drive, inaugurates projects worth Rs 16,680 crore in Rajasthan
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-launches-hpv-vaccination-drive-rajasthan-10556985/
+
+- 8 cheetahs on 10-hour flight: India set to get new batch from Botswana
+  
+  🔗 https://indianexpress.com/article/india/8-cheetahs-on-10-hour-flight-india-set-to-get-new-batch-from-botswana-10556432/
+
+- From bombmaker to Assembly guest: 120 ex-Maoists step into Chhattisgarh’s ‘temple of democracy’
+  
+  🔗 https://indianexpress.com/article/india/bombmaker-assembly-guest-ex-maoists-chhattisgarh-temple-democracy-10556434/
+
 - Jain to Kejriwal, aggregate jail time of AAP’s five top leaders — 82 months
   
   🔗 https://indianexpress.com/article/india/jain-to-kejriwal-aggregate-jail-time-of-aaps-five-top-leaders-82-months-10556488/
@@ -8,57 +20,53 @@
   
   🔗 https://indianexpress.com/article/india/six-key-faces-in-delhi-liquor-scam-case-charges-and-clean-chit-10556485/
 
-- Uranium to AI on table, Canada’s Carney begins India visit
+- Urban planning and design tech in India is outdated, needs overhaul: Nithya Ramesh, Director, Jana Urban Space
   
-  🔗 https://indianexpress.com/article/india/uranium-to-ai-on-table-canadas-carney-begins-india-visit-10556486/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/urban-planning-design-tech-india-outdated-overhaul-nithya-ramesh-director-jana-urban-space-10556930/
 
-- Amit Shah chairs high-level meet to review security in Bihar border districts
+- Dorsey’s blunt AI warning sharpens debate over jobs and profits
   
-  🔗 https://indianexpress.com/article/india/amit-shah-chairs-high-level-meet-to-review-security-in-bihar-border-districts-10556484/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/dorseys-blunt-ai-warning-sharpens-debate-over-jobs-and-profits-10556822/
 
-- Dharmendra Pradhan at Express Adda: ‘If we want to be a developed economy by 2047, we must focus on knowledge, research’
+- OpenAI’s $110 billion funding round draws investment from Amazon, Nvidia, SoftBank
   
-  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-at-express-adda-textbook-revisions-should-happen-whenever-society-evolves-10556443/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openais-110-billion-funding-round-draws-investment-from-amazon-nvidia-softbank-10556821/
 
-- If an asteroid heads for Earth, can we stop it?
+- Best smartphones under Rs 30,000 on Amazon right now: Top value picks
   
-  🔗 https://indianexpress.com/article/technology/science/if-an-asteroid-heads-for-earth-can-we-stop-it-10556166/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-smartphones-under-rs-30000-on-amazon-10556123/
 
-- Poland plans social-media ban for children under 15: Reports
+- Anthropic faces 6-month federal phaseout after Trump orders agencies to halt its AI use
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/poland-plans-social-media-ban-for-children-under-15-bloomberg-news-reports-10556131/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-faces-6-month-federal-phaseout-after-donald-trump-orders-agencies-to-halt-its-ai-use-10556648/
 
-- Microsoft unveils Copilot Tasks, an AI that works in the background on your behalf
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-copilot-tasks-ai-agent-background-task-completion-10555904/
+- Block employee sacked during hiring call warns of more AI job cuts — ‘Survived previous layoffs, was sole breadwinner’
+  Jack Dorsey said the Block layoffs were just the beginning. Dorsey expects majority of companies to reach the same conclusion.
+  🔗 https://www.livemint.com/companies/people/block-layoff-jack-dorsey-employee-sacked-during-hiring-call-warns-ai-job-cuts-survived-previous-layoffs-sole-breadwinner-11772249293467.html
 
-- Adobe introduces new AI tools to speed up video creation with Firefly
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-introduces-new-ai-tools-to-speed-up-video-creation-with-firefly-10555912/
+- Want to be richer? ‘Rich Dad, Poor Dad’ author Robert Kiyosaki says, ‘AI will replace you’ IF…
+  ‘Rich Dad, Poor Dad’ author Robert Kiyosaki has some advice amid concerns that artificial intelligence technology will disrupt
+  🔗 https://www.livemint.com/companies/people/robert-kiyosaki-ai-will-replace-you-if-think-like-an-employee-not-entrepreneurs-become-richer-jack-dorsey-block-layoffs-11772247168231.html
 
-- Noise launches Master Buds 2 with Sound by Bose tech in India
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/noise-launches-master-buds-2-with-sound-by-bose-tech-in-india-10555911/
+- What a Warner Bros-Paramount colossus would look like
+  Hollywood�
+  🔗 https://www.livemint.com/companies/news/warner-bros-paramount-deal-netflix-warner-11772255239603.html
 
-- It's official! Paramount buys Warner Bros Discovery in historic $110 billion deal as Netflix drops out of race
-  Netflix declines to match Paramount's latest $31-per-share offer. Warner Bros deemed superior to the streaming
-  🔗 https://www.livemint.com/companies/news/its-official-paramount-buys-warner-bros-discovery-in-historic-110-billion-deal-as-netflix-drops-out-of-race-11772238957436.html
+- Nvidia set to launch new chip that could reset the AI race, says report — Key things to know
+  Nvidia is in the process of designing a new system for “inference” computing. This will allow the company's customers and their AI models to respond to queries
+  🔗 https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html
 
-- Horoscope, reimagined: AI to read your stars
-  Startups such as Melooha, AstroSage AI, Vaya
-  🔗 https://www.livemint.com/companies/start-ups/india-ai-astrology-startups-disrupting-faith-tech-market-investment-11772173403034.html
+- Altman says agreement reached with Pentagon to deploy OpenAI models for classified work—Did Anthropic refusal clear way?
+  OpenAI has reached an agreement with the Pentagon to deploy its models in classified networks. This comes amid the department's spat with Anthropic over “full military use
+  🔗 https://www.livemint.com/companies/news/sam-altman-openai-reach-agreement-deploy-models-chatgpt-us-pentagon-classified-networks-anthropic-claude-refusal-safety-11772249154934.html
 
-- Deepinder Goyal wants to hire only supremely fit people for a new startup. Is this even allowed legally?
-  Eternal founder Deepinder Goyal’s longevity venture, Temple, is hiring engineers with body fat below 16% for men and below 26% for women. While health-linked hiring isn
-  🔗 https://www.livemint.com/companies/news/eternals-deepinder-goyal-tests-boundaries-with-plan-to-hire-only-supremely-fit-people-for-temple-11772194668857.html
+- Israel, France, Germany to EU: What India's defence diplomacy means for China, Pakistan, US and NATO?
+  India's recent defence deals with Germany, the EU, France, and Israel enhance
+  🔗 https://www.livemint.com/market/stock-market-news/israel-france-germany-to-eu-what-indias-defence-diplomacy-means-for-china-pakistan-and-nato-11772247388504.html
 
-- MFS Creditors Warn of £930 Million Shortfall
-  Some creditors of Market Financial Solutions Ltd. warned there may be a £930 million ($1.3 billion) shortfall in collateral backing their
-  🔗 https://www.livemint.com/companies/mfs-creditors-warn-of-930-million-shortfall-11772218144607.html
-
-- Goldman Says It’s Unlike Private Credit Peers Hit by Redemptions
-  Goldman Sachs Group Inc.’s asset management arm has sought to reassure clients that redemption rates and software exposure are both relatively
-  🔗 https://www.livemint.com/companies/goldman-says-it-s-unlike-private-credit-peers-hit-by-redemptions-11772217402506.html
+- Top four stocks with order book surpassing their market caps
+  Here are four stocks with order books bigger than their market caps.
+  🔗 https://www.livemint.com/market/stock-market-news/top-four-indian-stocks-order-book-market-capitalization-investment-analysis-11772192191472.html
 
 - Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 2 March 2026
   Sumeet Bagadia recommends three stocks to buy on Monday
@@ -71,14 +79,6 @@
 - Bank Shares Walloped by More AI and ‘Cockroach’ Credit Woes
   Financial firms ended February where they spent much of the month: enduring another dizzying blow.
   🔗 https://www.livemint.com/market/bank-shares-walloped-by-more-ai-and-cockroach-credit-woes-11772230266637.html
-
-- Oil Gains as Worries Over US-Iran Tensions Stretch Into Weekend
-  Traders braced for any escalation to US-Iran tensions heading into the weekend. President Donald Trump signaled he was “not happy�
-  🔗 https://www.livemint.com/market/oil-gains-as-worries-over-us-iran-tensions-stretch-into-weekend-11772229959434.html
-
-- TSX ends lower but posts biggest monthly gain since 2020
-  TSX posts biggest monthly gain since 2020
-  🔗 https://www.livemint.com/market/tsx-ends-lower-but-posts-biggest-monthly-gain-since-2020-11772229221042.html
 
 - Govts SIM binding directive on app-based messaging platforms ultra vires: Tech industry body BIF
   Govt's SIM binding directive on app-
@@ -112,113 +112,113 @@
   P 500 Faces February Loss as Europe, Asia
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1ZyU3BKUzZZV0lDYUNkQVBuYloyMEZTelFYTXAyNlVVOVZMNXNBUVU4bWJDMXNnbi1qYnQwT0RSWDVJbFlMSVQtWS1kbWhFOU1hc01CQmpYd2tCdVVQMFUxZXdjNjltVnJKNEpjc0hfdW0wUEtfdTZzVFM4OEY2Q25EbWZOcGYtMUFGYWVjX2hQSEg5ODhwcXdwcFBraU04TTFPQXpIV3V4U0tMYkNOeS13?oc=5
 
-- Taiwan markets closed on Friday for a holiday - TradingView
-  Taiwan markets closed on Friday
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1FralpHejNNTVgyMUJOVTNxelpaYjQwWThwU2VmcDlQOFNrWEpNM1JVeExMU2c3R1hQWW4zWUgwNE9XWVR4bzFvLVJBLUpMYmduT1RKMnE4LU5naEEtbmhBa0ZheE5MVXZ6U0NjSWNDTmY0WVI3b21kbEhLVlQtOE5kQ05yV2hLTTVTSjZ2LUQ5eE5pbjc4TFZOTUFndEROUkoyRWtROEJIWi1ZY3M3dDhIY2N0dw?oc=5
+- Closing Bell: Nifty below 25,200, Sensex tanks 961 pts; realty, metal, FMCG top drag - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWE2RlB3QTBFVjJpZEY0Z2tyNEVxdVBsSXZKV1RwNWFweXc4SlFOQ1BxSUE5dGRlSzVQSnNOUGJCeXh1a1l4Z19PNWFLQ0JPbmMxRXp6N29NSmxmWllIdU1ra2lJM0ViLT
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWE2RlB3QTBFVjJpZEY0Z2tyNEVxdVBsSXZKV1RwNWFweXc4SlFOQ1BxSUE5dGRlSzVQSnNOUGJCeXh1a1l4Z19PNWFLQ0JPbmMxRXp6N29NSmxmWllIdU1ra2lJM0ViLTdMVXl6bmNsUlZFcHBLdFNlSnpHa1hYV1MwVFFhb1N4Nm5VcTR5VUNiZFlSbm8ySmoyTXY0VUJiMlJEdWxaZUREUlFxVWRlelJlM2JobDBzUUo4bEN4ZXRqSV8tUThSRVdLN20zdTltZ3l5MlFScE5zaWUwczlPa0tlSE02VllUWHV2dTFn?oc=5
 
-- Stock market today: Nifty50 opens below 25,450; BSE Sensex down over 250 points - The Times of India
-  Stock market today: Nifty50 opens below 25,450; B
-  🔗 https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZE9GZ01xckNQTjU3SVZYOVRSOTJuSzRneUFveGcxcmo0NFZsS3hsaEs3ZkM1QzZob0t6S09GN3dVRXpZc0ZmYUZnWW1zTUstTGMwYkE3S0VwRVlFS3lEcDRONDBsN1VRU3FXdFFvUjB5TUZxc2NSblZkZDFJbmF6ektZZmN6dmpCRjMzY0lsSGNtS21KQUd4ZkFJU3FXRXVKd09DQnpJX3Q5bEtaOTlvVWhfWC1Bbm10MjdsM19OTVBwekw0NFFkODRKQ2ZXcGpCUjNFZFRFZ1FScjFLaUpiZmVKTklEanU5Qml0TTJLd3RZN3NPYXE0ZE0xU01UT0Q5M0dZRGt4LTVaOUttWWJjQllHbnJ5d2lPMDMtOGVuMW9ES2dMOGl5bXp3NG1wYXMzZlQ2YjExS01UZWZXWXo1Z0xaM0szbkJPYnlNNE1NMUbSAdYCQVVfeXFMTXRmZVM5NXlUcS1TcVVBUXY3TjdYV1RRTW9lanYyWXI0VWpmZVJfcGJ6eUNFRFJkZWVPRlBWQTFfWFV4YlhqcFNmSVRhQ1hRU1RQUnhwTEVscWQtMWMxbkVWWHo2VEl4T2FtWlNIUHNOV3NSSUFwdk5fUW5vNXN5UExCZXJ6YTNtMFRBV2RLci1KQUFodzlzaVdlcEtJTnA4WGRpTzFBVERjMzN1M2VHemV2U3pPeVRxUm1KMzY3TDI3QVBCU0FuOEtaako3Wi03NVh1d19lb1ZIa0VOUG01ZFVIWWN0R1FvNnVvdTV6bFJ5UUs2MnJta01weUtpSUR5UUV5M2NfZ3ZLNnE4cnlvWF8zVXF2Vy0tOEt2QUZRVXZ5bUZPa0RMdGFDUEhsLUNUN2w5S3RXaEh6c0kxNE5LcTVKQ00zUngzYkVkVktGcWJmamVSb3BB?oc=5
+- Wall St Week Ahead AI disruption looms over markets with US jobs data on tap - Reuters
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZZSW15R3BDOS12TTNwOVR1eFhlNTV0RktQSkpPMlFrNElmS3ZBY2xQMTJrLUpLRzVPcF9NTGZlaGRBaDJvQmgxdGd4Xzk2Um9MM2RPN3JrZTBIV2g1QzJxLTVoMlRrZzFHVG9yNVJlMkotbkJ0MDdGQ1NSaWRZV3pmTmN1OFVzZHBqUFR5c0xtZ05oYzFXb3UweklzYng5SWNRaENESk5yRGFpeDU5N2FaTVNvNTdTbFE?oc=5
 
-- SBI block deal: BNP Paribas buys 5.28 lakh shares in a Rs 64 crore transaction
-  French bank BNP Paribas acquired 5.28 lakh shares of State Bank of India for Rs 64 crore. The transaction occurred through a block deal with Societe Generale.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-block-deal-bnp-paribas-buys-5-28-lakh-shares-in-a-rs-64-crore-transaction/articleshow/128859109.cms
+- IPO Calendar: Primary market to see 1 new public offer, but 9 listings grab headlines next week
+  The primary market will see Sedemac Mechatronics’ Rs 1,087 crore IPO open next week. Muted grey market premiums and selective investor interest reflect cautious sentiment
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-to-see-1-new-public-offer-but-9-listings-grab-headlines-next-week/articleshow/128876049.cms
 
-- Infosys ADRs tumble 5%, Wipro slips over 3% as Wall Street rattled by inflation data and AI fears
-  Infosys and Wipro ADRs tumbled on the NYSE amid AI-driven fears. Block's CEO Jack Dorsey announced significant workforce reductions. European markets mostly mirrored the pessimistic sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-tumble-5-wipro-slips-over-3-as-wall-street-rattled-by-inflation-data-and-ai-fears/articleshow/128858822.cms
+- Opportunities in smallcap and midcap stocks increasing: WhiteOak's Trupti Agrawal
+  Small and mid caps offer selective alpha as fundamentals hold up. Private financials, consumer discretionary and healthcare remain promising from a bottom-up perspective.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/opportunities-in-smallcap-and-midcap-stocks-increasing-whiteoaks-trupti-agrawal/articleshow/128875480.cms
 
-- Shriram Pistons raises Rs 1,000 crore for Antolin buy
-  Shriram Pistons and Rings raised Rs 1,000 crore via 18- and 24-month NCDs from mutual funds. The deal diversifies SPRL into automotive interiors, reducing EV
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/shriram-pistons-raises-rs-1000-crore-for-antolin-buy/articleshow/128857948.cms
+- New era of trade volatility: What the court’s decision and Trump’s tariff pivot mean for commodities
+  The U.S. Supreme Court blocked Donald Trump’s sweeping tariffs under IEEPA, but his swift 15% global levy revived uncertainty. The ruling jolted global
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/new-era-of-trade-volatility-what-the-courts-decision-and-trumps-tariff-pivot-mean-for-commodities/articleshow/128875195.cms
 
-- US Stocks: Netflix shares surge 9% as investors cheer decision to exit Warner Bros race
-  Netflix jumped more than 9% on Friday as investors applauded its decision to exit the race for Warner Bros.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-netflix-shares-surge-9-as-investors-cheer-decision-to-exit-warner-bros-race/articleshow/128857653.cms
+- Titan Company shines, Britannia Industries steadies: consumer stocks back in play
+  India’s consumer sector showed gradual recovery in 3QFY26. Food and staples led gains, while discretionary recovery remained uneven. Titan Company and Britannia Industries delivered strong quarterly performances.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/titan-company-shines-britannia-industries-steadies-consumer-stocks-back-in-play/articleshow/128875136.cms
 
-- Vishal Mega Mart bulk deal: Govt of Singapore, HDFC MF buy stakes as promoter sells 14% for Rs 7,636 crore
-  The Government of Singapore, HDFC Mutual Fund and the Monetary Authority of Singapore bought promoter shares worth thousands of crores in Vishal Mega Mart. Samayat Services LLP offloaded a 14% stake
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-bulk-deal-govt-of-singapore-hdfc-mf-buy-stakes-as-promoter-sells-14-for-rs-7636-crore/articleshow/128857180.cms
-
-- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
-  "I Owe India": Netanyahu, His Wife And
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
-
-- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
-  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
-
-- Amidst Afghanistan-Pakistan escalation, India keeps a close watch - The Times of India
-  The Times of India reported that India is keeping
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUxYME1Bbzc5alZNTHNwYXZLN3ZfZ3dGTEhOejg3MVZ2TFdEN1BBUC1vNHVhcjUtLTFnSnVTUVFSeDlJaFpTZTB4QzB4bnZDYUhBalA1WU5DZXpSZUNaWkhQOUdmQURLMG5HMlJmUTVQSEhrMllmRjFMUDRiUFlyNHVKTUZjbEhOQmxpT3E2cGRUZzA0ZjdsTm50enZVTmRncTdrMTh3aGN6TWczMUQ2T21WTXAxRFJJWjN6bmZTYjd1ZTRfWkR3TDNMQzXSAdIBQVVfeXFMTjUzSC1JWkVuTkI2WWpDNVR6a3FHd2FXX0lyLXVaeXNTUkJ1N0NUNTV2MmRHd3Q2dEFjWW41dml1bmxCMS1qWlZ6alpqN1ZuamIzVHRyd3A5UFU5TnF6RUtrdnVRZ2l2WVM1T3RjTFo2Q2xxTnk2azZPdEtfQTRDOGNQNTAwdDJ1MFlCcllFWlIxeTZlOFFyMDRjUVFWUTNJZDh4S3dfN3d1MW94OHNfRjlqaElyNFJHNGVma3hpZFYxaXFZakdYQ0ZfQ21HR3FpSE13?oc=5
+- US dollar heads for first monthly gain since October
+  The U.S. dollar is poised for its first monthly gain since October. Hotter-than-expected producer price data initially boosted the greenback. Geopolitical uncertainty and expectations of Fed rate cuts are also influencing currency
+  🔗 https://economictimes.indiatimes.com/markets/forex/us-dollar-heads-for-first-monthly-gain-since-october/articleshow/128874916.cms
 
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- Judiciary must not create anti-investment climate: SC - The Times of India
+- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
+  Has India’s influence in Afghanistan
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+
+- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
+  Bengaluru-Nepal Air
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+
+- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
+  Menaka Guruswamy, TMC’s
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+
+- Probe Agencies Not Political Tools: Court - The Times of India
   The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2tidDUxTzQwZkN4MEp6bVkzM0EtSGtpQTBwbmV0dV94RWJkUHA1RHFWQXZkVzkyRHJKSGxXLTZVSTRhQVc0Rmg2VnF3MjA3RUNNVnBnTl9rSnBNMFE1TjdOSk1feUNxQ29RcXpkTC1PZENPVTktY1dSNmxUa3dtcEo4VENXZVpCV1NHS2RpZDNYb3UyV3JTQXlmZTNOZ1J5STM0TnFJNHNqc2JJN0RhTkt6elNBaWtCVHlIbdIBwgFBVV95cUxPQ1lMaG5GX3hIdnRDa1JyV2hRSWFuUTJvVDhQZ3p0TEJ3Q01tVlZBX2pGamtWajZBRkhEd21KQjZkWFdWUV9XT1daZVN1V09TdXdhM3lPdVRlMDkwSmhJeVJqd2xRNU4xdnhqRnp6emhJMWtxc0tXUm1xYjBnQWFkX19lY0Rtcm9tcjl1S3EwYjRQYllyMVp0dGdKMkZSMW9UMmJlRmVqYkEyTVR0RkhxaWg3Uk1tTHNzeEtIM19ZbEJ0Zw?oc=5
-
-- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
-  "I Owe India": Netanyahu, His Wife And
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
-
-- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
-  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
-
-- Amidst Afghanistan-Pakistan escalation, India keeps a close watch - The Times of India
-  The Times of India reported that India is keeping
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUxYME1Bbzc5alZNTHNwYXZLN3ZfZ3dGTEhOejg3MVZ2TFdEN1BBUC1vNHVhcjUtLTFnSnVTUVFSeDlJaFpTZTB4QzB4bnZDYUhBalA1WU5DZXpSZUNaWkhQOUdmQURLMG5HMlJmUTVQSEhrMllmRjFMUDRiUFlyNHVKTUZjbEhOQmxpT3E2cGRUZzA0ZjdsTm50enZVTmRncTdrMTh3aGN6TWczMUQ2T21WTXAxRFJJWjN6bmZTYjd1ZTRfWkR3TDNMQzXSAdIBQVVfeXFMTjUzSC1JWkVuTkI2WWpDNVR6a3FHd2FXX0lyLXVaeXNTUkJ1N0NUNTV2MmRHd3Q2dEFjWW41dml1bmxCMS1qWlZ6alpqN1ZuamIzVHRyd3A5UFU5TnF6RUtrdnVRZ2l2WVM1T3RjTFo2Q2xxTnk2azZPdEtfQTRDOGNQNTAwdDJ1MFlCcllFWlIxeTZlOFFyMDRjUVFWUTNJZDh4S3dfN3d1MW94OHNfRjlqaElyNFJHNGVma3hpZFYxaXFZakdYQ0ZfQ21HR3FpSE13?oc=5
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
 
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- Judiciary must not create anti-investment climate: SC - The Times of India
+- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
+  Has India’s influence in Afghanistan
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+
+- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
+  Bengaluru-Nepal Air
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+
+- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
+  Menaka Guruswamy, TMC’s
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+
+- Probe Agencies Not Political Tools: Court - The Times of India
   The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2tidDUxTzQwZkN4MEp6bVkzM0EtSGtpQTBwbmV0dV94RWJkUHA1RHFWQXZkVzkyRHJKSGxXLTZVSTRhQVc0Rmg2VnF3MjA3RUNNVnBnTl9rSnBNMFE1TjdOSk1feUNxQ29RcXpkTC1PZENPVTktY1dSNmxUa3dtcEo4VENXZVpCV1NHS2RpZDNYb3UyV3JTQXlmZTNOZ1J5STM0TnFJNHNqc2JJN0RhTkt6elNBaWtCVHlIbdIBwgFBVV95cUxPQ1lMaG5GX3hIdnRDa1JyV2hRSWFuUTJvVDhQZ3p0TEJ3Q01tVlZBX2pGamtWajZBRkhEd21KQjZkWFdWUV9XT1daZVN1V09TdXdhM3lPdVRlMDkwSmhJeVJqd2xRNU4xdnhqRnp6emhJMWtxc0tXUm1xYjBnQWFkX19lY0Rtcm9tcjl1S3EwYjRQYllyMVp0dGdKMkZSMW9UMmJlRmVqYkEyTVR0RkhxaWg3Uk1tTHNzeEtIM19ZbEJ0Zw?oc=5
-
-- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
-  "I Owe India": Netanyahu, His Wife And
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
-
-- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
-  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
-
-- Amidst Afghanistan-Pakistan escalation, India keeps a close watch - The Times of India
-  The Times of India reported that India is keeping
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUxYME1Bbzc5alZNTHNwYXZLN3ZfZ3dGTEhOejg3MVZ2TFdEN1BBUC1vNHVhcjUtLTFnSnVTUVFSeDlJaFpTZTB4QzB4bnZDYUhBalA1WU5DZXpSZUNaWkhQOUdmQURLMG5HMlJmUTVQSEhrMllmRjFMUDRiUFlyNHVKTUZjbEhOQmxpT3E2cGRUZzA0ZjdsTm50enZVTmRncTdrMTh3aGN6TWczMUQ2T21WTXAxRFJJWjN6bmZTYjd1ZTRfWkR3TDNMQzXSAdIBQVVfeXFMTjUzSC1JWkVuTkI2WWpDNVR6a3FHd2FXX0lyLXVaeXNTUkJ1N0NUNTV2MmRHd3Q2dEFjWW41dml1bmxCMS1qWlZ6alpqN1ZuamIzVHRyd3A5UFU5TnF6RUtrdnVRZ2l2WVM1T3RjTFo2Q2xxTnk2azZPdEtfQTRDOGNQNTAwdDJ1MFlCcllFWlIxeTZlOFFyMDRjUVFWUTNJZDh4S3dfN3d1MW94OHNfRjlqaElyNFJHNGVma3hpZFYxaXFZakdYQ0ZfQ21HR3FpSE13?oc=5
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
 
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- Judiciary must not create anti-investment climate: SC - The Times of India
+- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
+  Has India’s influence in Afghanistan
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+
+- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
+  Bengaluru-Nepal Air
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+
+- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
+  Menaka Guruswamy, TMC’s
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+
+- Probe Agencies Not Political Tools: Court - The Times of India
   The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2tidDUxTzQwZkN4MEp6bVkzM0EtSGtpQTBwbmV0dV94RWJkUHA1RHFWQXZkVzkyRHJKSGxXLTZVSTRhQVc0Rmg2VnF3MjA3RUNNVnBnTl9rSnBNMFE1TjdOSk1feUNxQ29RcXpkTC1PZENPVTktY1dSNmxUa3dtcEo4VENXZVpCV1NHS2RpZDNYb3UyV3JTQXlmZTNOZ1J5STM0TnFJNHNqc2JJN0RhTkt6elNBaWtCVHlIbdIBwgFBVV95cUxPQ1lMaG5GX3hIdnRDa1JyV2hRSWFuUTJvVDhQZ3p0TEJ3Q01tVlZBX2pGamtWajZBRkhEd21KQjZkWFdWUV9XT1daZVN1V09TdXdhM3lPdVRlMDkwSmhJeVJqd2xRNU4xdnhqRnp6emhJMWtxc0tXUm1xYjBnQWFkX19lY0Rtcm9tcjl1S3EwYjRQYllyMVp0dGdKMkZSMW9UMmJlRmVqYkEyTVR0RkhxaWg3Uk1tTHNzeEtIM19ZbEJ0Zw?oc=5
-
-- "I Owe India": Netanyahu, His Wife And Their 'First Date' At Indian Restaurant - NDTV
-  "I Owe India": Netanyahu, His Wife And
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVdBQzJTVGc2UXB3NFZ5d0VxOXQta25pVWExYm95ZnhOU2lqdFBuOEU2VlFSUHBtVHZfWWRwdXVxUE1QX1I0a0J6V0FhQzRIczdZMkg3T1A2bUgzeHZINmlUNDJFUFJCZTBYR0V3UTBkbWlVOFhkbkVndE9YYnB4c1JiOXZZZDVYdnA3R19Sc2F2aGM0eWJKbjFoWGNfc3NldWR2VW1fTEl2eDdRMV9kZ29uM1hqTS1rejlpaTZmQdIBxwFBVV95cUxONWRFSE9OZnozNXExc3I1d050MjdzQUdHWEZfVmFMUmtOR01TSHNtcF9CN3RGWDl2cWFZMGozYjBSeDFqQzY5cDZSNlZUdFJtZ3hJN2NUX29CYXA5bmh1ZU9SazZxaXd5M0U0ZTlKOF96RnFTU0ZSSmstLXBMdnJ1bWtUTjRWNVRHbmU5aWF1a01mVTFIU2hGZjFZQ1VCVmUta3N1UGtHVm1BSkc4VkRPdDZwNzNOWHIzUXBHbzNZZXdYWUxIaHhZ?oc=5
-
-- US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for ‘productive’ lunch | India News - Hindustan Times
-  US Commerce Secretary makes unscheduled visit to India after Trump tariffs ruling; meets Goyal for
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVVVaQ1l4NlBUeWFWRmJ5eERTUlRxOTdXak5mWWppVVZFV2w4cEV1RGduU0w3N1pnNHFTcFp0MlhnVFpOMlczS0EzMy1pTFRWVVp6WTZ3UEQyN21jTTJ0U05JV1BOSkZudkZFMHdNUmRZSGhrSWlZb01PTmR4b3dvamVYMTduYVlUVnRsZU0wTmRyYmx0UGZPNzJpb0JBVk5jNlVuWk9CdGRiR0tBVlh1YUpqbFllaTVELVRVYU1CWk12U0c0SXRkZ2xvME9QMmFfTjJralVMWUJ4Z0VzeWdEREY1d1NzejREZHo1V0YzZnF5ckxJcnFoWjJyWXJtcndqbXM5YmpCUDPSAY4CQVVfeXFMTVZzTGRzNWluQU43N0dPc1VUOVV3QlhkTlROWEVGdUJFS2JGUVVaVjhucE9hNTdfbUNrOFo4MTM3UGRnUkY5YWRNb1QzZGFqdUR4MFZoSTY5ZEhjUVZnYXFXVmFhOWxfdzNuclJBakttbXNhTE42eFprZ01BZ0dTWVhUNVhvbDRDTEFfbENzQVhnaGMwSUpOZHRYR3FXdElRQUs4TTB0QTM1QTE3WlZmV2VWbTAxSVh0R0tIZXRmc2NxanExSEktREhMZy1LVWlKVHpEY3ViQ2JsTEk1bW5tZU4zZzBqMUU0RFNTTE5BOUVmNzlVano1dDFvRlVFRWExdVREc25ZT0tBY3NkZjl3?oc=5
-
-- Amidst Afghanistan-Pakistan escalation, India keeps a close watch - The Times of India
-  The Times of India reported that India is keeping
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUxYME1Bbzc5alZNTHNwYXZLN3ZfZ3dGTEhOejg3MVZ2TFdEN1BBUC1vNHVhcjUtLTFnSnVTUVFSeDlJaFpTZTB4QzB4bnZDYUhBalA1WU5DZXpSZUNaWkhQOUdmQURLMG5HMlJmUTVQSEhrMllmRjFMUDRiUFlyNHVKTUZjbEhOQmxpT3E2cGRUZzA0ZjdsTm50enZVTmRncTdrMTh3aGN6TWczMUQ2T21WTXAxRFJJWjN6bmZTYjd1ZTRfWkR3TDNMQzXSAdIBQVVfeXFMTjUzSC1JWkVuTkI2WWpDNVR6a3FHd2FXX0lyLXVaeXNTUkJ1N0NUNTV2MmRHd3Q2dEFjWW41dml1bmxCMS1qWlZ6alpqN1ZuamIzVHRyd3A5UFU5TnF6RUtrdnVRZ2l2WVM1T3RjTFo2Q2xxTnk2azZPdEtfQTRDOGNQNTAwdDJ1MFlCcllFWlIxeTZlOFFyMDRjUVFWUTNJZDh4S3dfN3d1MW94OHNfRjlqaElyNFJHNGVma3hpZFYxaXFZakdYQ0ZfQ21HR3FpSE13?oc=5
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
 
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- Judiciary must not create anti-investment climate: SC - The Times of India
+- Has India’s influence in Afghanistan grown under the Taliban? - Al Jazeera
+  Has India’s influence in Afghanistan
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNYU9xQ0IyLVFpUV83SFl2Q1dRRFhkQ3dyVW1Jc3Q2eHF5cll2Z0drQUZHekZaMUpqbENiWWYzWlIxUmtFLS1oQ2dObGVlWWZBMkhna1hqMUhxOExlWWdPZmUzZVQzX2RKOUNCQmZSQjQwLU5kdGVsWUU1NTRoQk1mT1k5YWZVeEJOR3QzTzV6aFplWFFoRmY0dm1yUmpobFBqaFHSAacBQVVfeXFMT1RES3IwcjRhQjRBWC1iWG9fY2V0MXFkbkRhUkZUd0F5MFl1bDBuR0VuZWVMSWxCaWV2NVhYakNfS2ZaNDdDenhqZEpjc1V0WEpldUpQWDROQVNKQks0YnJpcFExc0dvdS0xd09TUzV3Yzd1R2JhUFh1SklSNldOY1N3VVhmc0YzLTdFemtGQ1N3eElJMXpzc3FfUmFQM0ZEclo2Z2dFMEk?oc=5
+
+- Bengaluru-Nepal Air India Express Delayed For 18 Hours, Fliers Raise Slogans - NDTV
+  Bengaluru-Nepal Air
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTl9fdmRpUXAyRFRIMzNzdkkzMW9yOWdDcUJxLW55eUhrOEh1aUdPd3l5V3Nld2hZbmdTak05amtBTEMyTEZnMUVtQ2g1T3lQeHZVRHotRWlrVEhWQmlzUE56MVlYSTFFaG9EZlVmSEJEM1N4dWp0MXpIX3M0eFhUdno3RHV4TEE3WlFqaGdHMlA1RjdOYzIyWF9SZGRYV0c1TjVfeHFBMVZlRWliQm1UcnpROWdEcE92QnVpVzFCRUM2N01OMV8tT250MmRTdWNGSVpFVnI4cjFEUDVEWWpvTFJKUUbSAewBQVVfeXFMTmdDQ0FtcV9CYkxleTdacVNvRC03VXhSUUVHcW50Q0ZCX21YMlZEZHdtWmp2WS1TR0V4S1NOb1pfZmZ1QWxud0VDX0FFaDVvOHQ2ZjdHV2xxMnloUGpiamw2ZDM2UjBXWVpJaUtYTThXOV9oNi1GVE5qMFIyRS1uRDlJZlhqWk83NVFnaXY1RVE1R1NGb2tWeDJycXlQZTBoR2drZENXTUtUQkJKeXlDT3JYZEVZN08zTldGREZFcXUwM1RTU184RlFWbDY3S3hnVHBwemx5el9aZGNnZVRTU1BGM3ZfVzR4bmFZeFY?oc=5
+
+- Menaka Guruswamy, TMC’s pick for Rajya Sabha, could become India’s first LGBTQ+ parliamentarian - The Hindu
+  Menaka Guruswamy, TMC’s
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTWI4eGVIUTduR1c4LXNPY1FzWGdwUkJ3cXllMDB5RHBkQm9DX3dacnNJblBlV3pvb1pkbUQ4OTVqd05ZNlMyd2QzeVltLUQ1YTFRQjhGM2lBaDdxcmI0S1o0Q1ZKbi03YUY4SFZrZmt0U3lvT1FQTE00NzVwR2JKQUU1WEt0WUdkS2w2OHdXZ2o2aVVIWmw2cEFkMmVnY2ZkYy1CZDI2dWIxWlhBMUhGVEpVdThDNVBBWnQzaENheEo1QW5uZXhNVXpCR3N2VHR3ZGxv0gHaAUFVX3lxTFBwdzlqc2p1ZnplYzI3eWdQVm1IZ2tVQzBKOUJJallVTHo0UTZmV2FjdEhBeG9vR1gyRVJGaUl6S1ByNWxDaTJJd2NheVJqMk5VSThOOW5mVFJjN0xlUjNIdWF3X1MxVzhDZUdYM084VF94bDFWTEY1YmtieXF0QldCUGl6OERGY3hyNFR4WjFfLS1lRHhMTDVnWUdkTEtodUw0dUt2NjdMdVZiU0V3MWF4cWl6SkwzNWRKU3pPZWF3VGQ1VUZUNWxHbzU5X0ZDRzRYeDNEQWh4cDFB?oc=5
+
+- Probe Agencies Not Political Tools: Court - The Times of India
   The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNU2tidDUxTzQwZkN4MEp6bVkzM0EtSGtpQTBwbmV0dV94RWJkUHA1RHFWQXZkVzkyRHJKSGxXLTZVSTRhQVc0Rmg2VnF3MjA3RUNNVnBnTl9rSnBNMFE1TjdOSk1feUNxQ29RcXpkTC1PZENPVTktY1dSNmxUa3dtcEo4VENXZVpCV1NHS2RpZDNYb3UyV3JTQXlmZTNOZ1J5STM0TnFJNHNqc2JJN0RhTkt6elNBaWtCVHlIbdIBwgFBVV95cUxPQ1lMaG5GX3hIdnRDa1JyV2hRSWFuUTJvVDhQZ3p0TEJ3Q01tVlZBX2pGamtWajZBRkhEd21KQjZkWFdWUV9XT1daZVN1V09TdXdhM3lPdVRlMDkwSmhJeVJqd2xRNU4xdnhqRnp6emhJMWtxc0tXUm1xYjBnQWFkX19lY0Rtcm9tcjl1S3EwYjRQYllyMVp0dGdKMkZSMW9UMmJlRmVqYkEyTVR0RkhxaWg3Uk1tTHNzeEtIM19ZbEJ0Zw?oc=5
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTFNS2huTDM1TE4wQkhFUzhBYUdwUXdHUnJSd2NaMkV0cC1tTjFwMWFTUENCaUViTllZQ1lXdldkd0h2cDRsVERmZGd4dC1RZU0yZnAwLVVXRjFhUTFZNUNQU25ESWVRV3YxUlgwZ2FYWkwxcEpnQTQxdlk3ZEFkSTl6cmR0WldSc1Fsb0RFWmFmaXFtRW5YQ2owcXNCZ2ZJaVFWUnVQX1FYaThQbUp0Vi1lMNIBuAFBVV95cUxQUmw3QTJtTGxPN1p1aTRhOUtlMS14c25Pc1RyNzNBQ3dQVi04ekNxRURleEJ0d3RaZ241NmdBMGtDZlZNLTJpODJKcFVDSjdVVVhOYnM4bDV5bzl4NVk1M2hhOUpkekFRNTl0OEtSNXNKYUx3RXlWb09WWXdYeDJ4bnZSVXdVY1Z0QWtuUkhLN2x6WldTdWtvM3pUdUZtUmZxWldnMlZjS1VBVjd6YU5WdUd5RGd6NzRi?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-02-28 01:27:50 UTC_
+_Last updated: 2026-02-28 06:35:18 UTC_
