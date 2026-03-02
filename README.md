@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘India stands in solidarity’: PM Modi condemns attack on UAE, dials President
+- Srinagar Lal Chowk sealed, curbs on inter-district movement amid J-K protests against killing of Iran’s Khamenei
   
-  🔗 https://indianexpress.com/article/india/pm-modi-condemns-attack-on-uae-dials-president-iran-us-10559983/
+  🔗 https://indianexpress.com/article/india/srinagar-lal-chowk-sealed-curbs-on-inter-district-movement-amid-j-k-protests-against-killing-of-irans-khamenei-10560094/
 
-- Guru Tegh Bahadur Shaheedi Diwas: PM Modi stresses social unity as Shah flags religious conversions
+- From shattered villages to new township: In Kerala, Wayanad landslide survivors get homes under Rs 299-crore project
   
-  🔗 https://indianexpress.com/article/india/tegh-bahadur-shaheedi-diwas-modi-social-unity-shah-religious-conversion-10559880/
+  🔗 https://indianexpress.com/article/india/from-shattered-villages-to-new-township-in-kerala-wayanad-landslide-survivors-get-homes-under-rs-299-crore-project-10560071/
 
-- Travel advisory for March 2: Air India cancels several international flights for 2nd straight day amid Iran-Israel war
+- Missiles in sky, fear on phone: 10-million Indian diaspora faces war
   
-  🔗 https://indianexpress.com/article/india/travel-advisory-march-2-air-india-cancels-international-flights-iran-israel-war-10559856/
+  🔗 https://indianexpress.com/article/india/missiles-in-sky-fear-on-phone-10-million-indian-diaspora-faces-war-10560090/
 
-- ‘Tamil Nadu has made up its mind’: In Madurai, PM Modi slams DMK over ‘dynasty’, ‘scams’
+- First signal from Delhi: PM Modi tells MBZ ‘strongly condemn’ attack on UAE
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-madurai-pm-modi-dmk-dynasty-scams-10559767/
+  🔗 https://indianexpress.com/article/india/first-signal-from-delhi-pm-modi-tells-mbz-strongly-condemn-attack-on-uae-10560114/
 
-- Up to 10,000 Indian students, pilgrims, business persons and seafarers in Iran: Jaishankar told Parliament last month
+- To hit back, Iran draws from its massive, diverse arsenal of missiles and drones
   
-  🔗 https://indianexpress.com/article/india/up-to-10000-indian-students-pilgrims-business-persons-and-seafarers-in-iran-jaishankar-told-parliament-last-month-10559630/
+  🔗 https://indianexpress.com/article/india/to-hit-back-iran-draws-from-its-massive-diverse-arsenal-of-missiles-and-drones-10560140/
 
 - ‘Grok hasn’t driven anyone to suicide, ChatGPT has’: Elon Musk in OpenAI lawsuit deposition
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-details-layered-protections-in-us-defense-department-pact-10558725/
 
-- Silvana Armani honors a fashion dynasty with fluid, essential collection during Milan Fashion Week
-  Silvana Armani honors a fashion dynasty
-  🔗 https://www.livemint.com/companies/silvana-armani-honors-a-fashion-dynasty-with-fluid-essential-collection-during-milan-fashion-week-11772384283218.html
+- Japanese rare earth magnet giant wants India to not 'overdo' production of key component
+  Japanese magnet giant Proterial is evaluating a manufacturing plant in India. CEO Sean Stack says ‘overdoing’ production incentives could affect
+  🔗 https://www.livemint.com/companies/india-rare-earth-magnet-manufacturing-proterial-warning-government-scheme-11772353031869.html
 
-- Bharti Airtel collaborates with Google for AI-driven spam protection in messaging services
-  The partnership aims to enhance user safety and significantly reduce spam. Bharti Airtel will implement AI-powered
-  🔗 https://www.livemint.com/companies/news/bharti-airtel-collaborates-with-google-for-ai-driven-spam-protection-in-messaging-services-11772378659448.html
+- Novo Holdings scales up India bets with bigger cheques, focus on mature healthcare assets
+  The life sciences investor is increasing ticket sizes and doubling down on speciality care and healthcare services. India emerges as
+  🔗 https://www.livemint.com/companies/news/novo-holdings-ups-cheque-sizes-as-india-opportunity-booms-health-care-hospitals-11772338693829.html
 
-- Former Bira 91 employees protest outside founder Ankur Jain’s home over unpaid salaries, statutory dues
-  Around 50 ex-employees of B9 Beverages demonstrated against unpaid salaries and unfulfilled statutory obligations. They cited financial distress affecting their lives, amid a
-  🔗 https://www.livemint.com/companies/news/former-bira-91-employees-protest-outside-founder-ankur-jain-s-home-over-unpaid-salaries-statutory-dues-11772342386467.html
+- Chemicals maker Dorf Ketal likely defers IPO plans amid Italmatch bid
+  Gujarat's Dorf Ketal is deferring its IPO to secure  ₹2,000 crore in pre-IPO funding
+  🔗 https://www.livemint.com/companies/news/chemicals-maker-dorf-ketal-defers-ipo-italmatch-chemicals-spa-private-equity-firm-bain-capital-11772351166650.html
 
-- US-Iran bets mint millions on prediction markets; Donald Trump Jr linked to key platforms: Report
-  Donald Trump Jr's links to major prediction market platforms Kalshi and Polymarket have raised questions over ethics and whether these companies have benefited from a connection to
-  🔗 https://www.livemint.com/companies/news/us-iran-war-prediction-markets-benefit-who-owns-donald-trump-jr-leading-prediction-firms-polymarket-kalshi-nyt-report-11772336769064.html
+- As cricket attempts to go global, Omnicom FUSE bets on cricket-music blend
+  The ICC is pursuing longer, premium sponsorships to enhance cricket's global appeal.
+  🔗 https://www.livemint.com/companies/news/as-cricket-attempts-to-go-global-omnicom-fuse-bets-on-cricket-music-blend-11772354479899.html
 
-- Berkshire Hathaway’s Abel Vows Firm Will Thrive Beyond Buffett
-  Berkshire Hathaway Inc. Chief Executive Officer Greg Abel vows to keep Warren Buffett’s guiding principles intact.
-  🔗 https://www.livemint.com/companies/berkshire-hathaway-s-abel-vows-firm-will-thrive-beyond-buffett-11772310995108.html
+- Cognizant’s Ravi Kumar snaps up a deal he once won for Infosys
+  Cognizant won a multi-year deal of more than $300 million from Daimler Trucks. Kumar was instrumental in
+  🔗 https://www.livemint.com/companies/cognizants-ravi-kumar-snaps-up-daimler-trucks-deal-he-once-won-for-infosys-11772356912083.html
 
-- Wall Street Week Ahead: Markets brace for turbulent week amid Middle East conflict; gold, Treasuries in focus
-  Beyond the Middle East conflict, market participants will monitor significant economic indicators. February payrolls report, auto sales figures
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-markets-brace-for-turbulent-week-amid-middle-east-conflict-gold-treasuries-in-focus-11772378955108.html
+- Indian stock market: 15 key things that changed for market over weekend - Gift Nifty, US-Israel-Iran war to oil prices
+  Gift Nifty was trading around 25,223 level, a discount of nearly 115 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-15-key-things-that-changed-for-market-over-weekend-gift-nifty-us-israel-iran-war-to-oil-prices-11772388391084.html
 
-- Indian market mavens make contra call on Iran war impact
-  Death of Iran's supreme leader Ayatollah Khamenei raises hopes among them of quick end to conflict in Middle
-  🔗 https://www.livemint.com/market/stock-market-news/indian-markets-stock-rally-iran-leader-death-west-asia-peace-oil-prices-11772351968886.html
+- Oil shock looms: Middle East tensions put Indian markets on edge
+  U.S.-Israel strikes on Iran raise Strait of Hormuz risks, threatening inflation, CAD
+  🔗 https://www.livemint.com/market/mark-to-market/oil-shock-looms-middle-east-tensions-put-indian-markets-on-edge-iran-strait-of-hormuz-11772363650524.html
 
-- Dubai gold flows curbed as flights halted due to US-Israeli strikes on Iran
-  Dubai gold flows curbed as flights halted
-  🔗 https://www.livemint.com/market/dubai-gold-flows-curbed-as-flights-halted-due-to-us-israeli-strikes-on-iran-11772374287054.html
+- US-Iran war: Qantas Airways shares fall 10% to lowest levels in 10 months amid airport closures and oil price rise
+  Qantas Airways stock price fell as much as 10.4% to A$8.92 per share at the open of the Australian market on Monday. It pared some losses during
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-qantas-airways-shares-fall-10-to-lowest-levels-in-10-months-amid-airport-closures-and-oil-price-rise-11772412501078.html
 
-- Wall St Week Ahead-AI disruption looms over markets with US jobs data on tap
-  Wall St Week Ahead-AI disruption looms over markets with US jobs data
-  🔗 https://www.livemint.com/market/wall-st-week-ahead-ai-disruption-looms-over-markets-with-us-jobs-data-on-tap-11772373677188.html
+- Gold, silver rates today: Gold prices near $5,400/oz, silver prices jump 2% to $96 amid US-Israel-Iran war
+  Spot gold prices climbed to $5,400 per ounce during the intraday session. Spot silver prices also surged nearly 2%, touching an intradays high of $
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-touch-5-400-oz-silver-prices-jump-2-to-96-amid-us-israel-iran-war-11772412365319.html
 
-- Hedge Funds, Banks Forced Into Contingency Mode in the UAE
-  Traders and Wall Street executives find themselves confronting a threat few expected to materialize. The United Arab Emirates had pitched itself as the region's safest hub.
-  🔗 https://www.livemint.com/market/hedge-funds-banks-forced-into-contingency-mode-in-the-uae-11772372943711.html
+- US-Iran war: These 6 stocks to remain in focus today amid US attack on Iran. Do you own any?
+  Indian equity markets have already shifted into a risk-off mode. US-Iran
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-these-6-stocks-to-remain-in-focus-today-amid-us-attack-on-iran-do-you-own-any-11772410840234.html
 
 - Nothing Phone 4a and 4a Pro launching on 5 March: Design, expected specs and more
   The Phone 4a will likely include a Snapdragon 7s Gen 4 processor, a triple camera setup along with a 6.78 inch OLED display. The launch event is also likely to see the unveling of new Headphone (a
@@ -100,125 +100,125 @@
   The US used Anthropic's AI during an airstrike on Iran. The technology supported intelligence and target identification. Previous use in capturing Nicolás Maduro.
   🔗 https://www.livemint.com/technology/tech-news/trump-banned-anthropic-hours-later-us-military-used-its-ai-in-iran-strikes-report-11772338406852.html
 
-- Video | Israel-Iran Conflict May Jolt Indian Markets - But For How Long? - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzFLRU1QR2FIYWlHcmREYkFTR2hyNEh2ajEzMEJUdzJwbTZjWUFJajVsLWE0TmR1ajZmSUpERV9DWHdXenBPQUxIMWh0R19DR1JxX3hfcnBhTmk3QW1pYkswNVNLWEhPRE
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzFLRU1QR2FIYWlHcmREYkFTR2hyNEh2ajEzMEJUdzJwbTZjWUFJajVsLWE0TmR1ajZmSUpERV9DWHdXenBPQUxIMWh0R19DR1JxX3hfcnBhTmk3QW1pYkswNVNLWEhPREF4TWx1SEYxRzJaajBLc3V5dDFheXdXb3l0b1pBdFp0SVYxRVIzSnNlR1lmOUZISEY0am0?oc=5
+- How US-Israel attacks on Iran threaten the Strait of Hormuz, oil markets - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU5ZRHJtOWxLNW81OVRvOTkwMkxtMzI5VzhLOW5QbnFVbDJKdFZuU0pka0xraGY5OFBVOXpNNXJyNVAzNWlWYzJ6TVlFMXhqajlsM3JjTnBIeEhITU90OW9UVTE3Y2hWY0
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU5ZRHJtOWxLNW81OVRvOTkwMkxtMzI5VzhLOW5QbnFVbDJKdFZuU0pka0xraGY5OFBVOXpNNXJyNVAzNWlWYzJ6TVlFMXhqajlsM3JjTnBIeEhITU90OW9UVTE3Y2hWY01jYXB3Wl90RlZfaUF6R3Z1UW5KYllZVFB5MDEyQ1g3c1ZEdFpZWUtzWGs1cldqS1hRYXV6MUhzTFdJdVFmU1VhUWtVSExDcdIBtgFBVV95cUxQYTJOZngwU0t3ckdYV2RLVmF6bEZZQ3JTSTQ1OG5nYURtVy1rY1NlcmRNU3FoQUFFeGhBMGVkNUp4ajRaOEdVRVpreDRrVUx1SlhOTWROMkR6WWtOZ3JTaTZGMk5IX1EtYk1tbnA5VV9nb1JYdWtjT1U0MEUtaFdUTlJ3MnplT0ZRWEMyRWtVUmFLUWxpNHYxRVJzV0FtaVVDZGdaajEzc19adW56WE5rN0tiWnBLZw?oc=5
 
-- UAE Stock Markets to Close for Two Days on Iran Strikes Fallout - Bloomberg.com
+- UAE stock markets close, trading halted by Abu Dhabi Securities Exchange and the Dubai Financial Market f - The Times of India
+  UAE stock markets close, trading halted by Abu Dhabi Securities Exchange and the Dubai Financial Market
+  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWFzU2xHeFA2VkVyeEg0Zm1GQ1Y5TDVRV191S2VKb3c4eGJ6WGVFVVlOVlB2WWVTWVdrNmJQWUxxdERaRlFxZlpZYXNqUEVLMDRDb25EYTdpejNfNGVxSV95TXFVRndPZXJMX0htWWk2eHFBLVd1WHlUaEx1dWxtMk9SdTU4QWd3QkxTRlJic3ItZkkxZUtnTDNVaUJlQWE2YTdhcXU1V0ZFQmpqMGxrcWtMVmsyNE5vay1MdVJBemd3cFRMZWpzcHBJR3pKNk8tNnV2aWJvcEZYcnZDRWxfZXJ6OVY2a1BvTEo4T1l0LUplV0FsVmIxeG9TcEJTaXVmbzlVT0dhcHM2cVFNWmowVWVJU3E0ZnZTZUdraDNGMHEtUGpiSzc4aXgxN2xsRGE3N085ZGpqN29mcENlSmREN2VBX29sOVNY0gHOAkFVX3lxTFBFb0lWYS11cXZMUzJFUE0yMzJDcE1EQk9Ud2lHRXVIWGVCTU1jNm5HZW5FemdhRGw4dk9rajVLVzBmZ0U5dGlKbkdxWkhVTDRvbnhGQlJQWFhUd0RNNWktU05qNDU5akd5YksyMUl0SmtOV2VzTGNEVkl3SE5EanpoMktweUg2TU9vUndKQ3RMOGVyRU9lZ200c2hEQVgwaGprb0pXcER6RHg2NFktUllhaUdaMEI0THhBMF9mS2VJVjFRbmZvbmJmWWFhUTdiYUE1SzU3UlNKb2NEajBqeDNuSWlqeUtXT1YxSmVNVy11bTFtWHZ3aGRQNW9laE96VGdUSjRUN2Rta1hTLUJ3YURYWGJRaVRVeHN2WEpJZjh0Q2xHandVeFNsT2hKMk1jczc1aFhnTUt0WTlaV1lkLTBYQ252REpibWV2MUhSRHc?oc=5
+
+- Conflict closes Dubai, Abu Dhabi stock markets to Tuesday: Regulator - The Economic Times
+  The Economic Times reports that Dubai and Abu Dhabi stock
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHpDcG1acmJlU0Qzc0pwb1I0X0paalUwbktXb3FKZkQxWnEwcGYteFRUQ1owOURmQ3RwaEdacTY5NHlXS1NETU44SmVVUG43RmFES1k5OWVfa3BDYTNFdUNMZHA0TjhRd1N4a0U5cDhSc1V3cGg0d1ZFbWJ1dFJLckNOWWNnMGh5aUsyZHByMjRaX1VoUUVoWTlpOXhrM0V1RzB6eVA1VmpISVRxQ29wV0VyMDM0SlNzdlZCZk1DMDlkRHR5ekRYWVVyT1FFOHZMeGNReWhWaEdGZDkyYUZ5R2NB0gHnAUFVX3lxTE04V3BNV3c0MnZnNDZoa0ZiTWV0N2FOZkhDUlBfQTNqVEVLdjNjTVJMYVFOX3lMVTlwcGVEVFNPSFJUNEw1OGZFWGNUWEY0QmdRYlBYek1OLVk5UUVld0hrbjBTQTMwWEd0U1owd2RqR2xNWUxCOXdHNG50RzA0bXI0MFhpUFN0aHdUTFpWOFBmRlR1cGZXQ04wUkduZXpnbk1EN090dW5hcTlHb3ZKTDR3VWtsd1U0QU5ac0sxcEVvMkZrUGlDWGVFdzNFWk1LZFJuVk41VDVHZHJRQkFUeFFSLVk1TDY4SQ?oc=5
+
+- UAE Stock Markets to Close for Two Days on Iran Strikes Fallout - Bloomberg
   UAE Stock Markets to Close for Two Days on
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2ZyNXZWTmVIWTk4TjJOTUplazFFaTFmdkVqUFRHV3laSkpBOFZpZDhyUmEya3luS1B4czMtVVdNRzBQMHNaTXdlZ0ZJTjBkc196Q1lQRkg3bFJXYm5Lc0EzY0QzVlIzdS1NRW9rb0FST1VlRVhaeFZ6eEVrUWxoNUhNWk1xSFlyYjM4dmdiQkdEaVotbEczVG5wVFVWQWlZRGRNRXZjRzNpdlVjWFZ5X0VtWXg?oc=5
 
-- Ahead of Market: 10 key factors that will drive stock market action on Monday - The Economic Times
-  Ahead of Market: 10 key factors that will drive stock market action
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQelhrSkNOZmZzY0hYaFp0cFVtSkNTaEtINzdabEZ3RHZOZm0xTjI2cktYNldENVVaUHZpR1Q3WV9ZR0VJdDJvYm1xS0tVTVpYMzB2QlRfczI5cXRvNGpHQkdQNDZkY0R3QnduLVVYdFBjWDFSM0o3bjZRdXdjZTB5YnBVN0d5alZnZWhiclVOenZoSFNOTzF1T2VzZ01YQzlteWM1OEtXMkVYYlVRS3c1R1k4NEc2aW1tOTlHWnBGbnVHX3dlVzBzX2l3Zlp3aDRicE1tNVpqbzNFdnA4NHpCWGFCV3PSAeoBQVVfeXFMT3VtUWVGU3lmeWFmQkxBaVA1YTF3YzZHMnVqVXk1a0NleTdMMWJLVGZNc1EzMEZYS1lHNmduQjBMSkpKYm0xd2ZNdkhZdUNaVU00Zm9oMl80UG10d2s2OHNaT1J4RWxvZFdPSTAyLUFMVk05RzBUNHZrZmFFTzZ6TE5EOGN3Ri01ZERYTlpwODJVT3B2NkctQVMwMGR1b1hpWnNZWVM3OEM1bzRfZVB4TGNEbDJpemR4eThkclZVTU15T3lVT3RjVloyOFZneXdpVUh2NFY0bVNDRXpMa2hpR1dxTEduRFhBMHN3?oc=5
+- CNBC Daily Open: Markets brace for impact of U.S.-Iran conflict as shockwaves begin to spread - CNBC
+  CNBC: Markets brace for impact of U.S.-Iran
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lnSTI1SFJ5M1NPcm0wWjlQbGdlSWVNVWEzdGFqQi1Ca2NOZGllUTJuQVZXSEE0S3Baek9veThCM2ZhcjlIdndrZ0JTV09vajJEb2JBR1B2d1JEeGhaU2JWX2tBY0UxUnd5Sy1oRVhsQ05PS0ltQjFzRURld0pRems2dWNYYThqWUN5WGtDLUgwTlhseG5fazNBTXFTQzVFblY0eEhSc1FXQ2dhajN6dnRkMGPSAboBQVVfeXFMTmdUdUV0cUZoS0xqSG9iNEFYTHB1cWhacUJMeFZRNmYzVVJjc1p6MExmTDZZdmVBNWNCcmRwUlpkUVBrWXNWOU82aVpDWHloX1phTHZKdDM2dWQwTGZHN24yNUhCMFN3cTg0Z3RiYTRDWHdyRE9zM1UwZlJnckxSdzRheTJpck1zUUFmTV9LeklwRDBDNGJIMm5YVXFleFhTYXd4Qm1Ya1U4bFRNLTRKeVUyeFBoc2hlYld3?oc=5
 
-- Middle East tensions: Will stock market open lower on Monday? Analysts warn of volatility as crude rises - The Times of India
-  Middle East tensions: Will stock market open lower on Monday? Analysts warn of volatility as
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxNUFhyVVQ5TDFaZDNwcnJ2eHA2OHM1ZVplcFhIQWtObUlsU2xvRWY3ejRhZ2xBNHhfTXg2cXVlM3RneVBRdTM3WWFCLXRYVUM1QWk1QkkwYmFOczFTRlZEX2g0cUhZYTBoOElBR3ljTHpJUS1NQ0cwZnhuOGNDUkpTZ0c4N1gwNlZ6cm9aaWNra1JlblBZOS03Y2xnVW5NdTJyYnpJeC1Yc1hNc1lsTjVTclFlZDhOTVlCazNMdmttM0E4YWxHaWQ0VEc0djAwQTYwVFhVVEc0QjdVWkZCWThJT3pkQVpLa3A2aWlGbUZ6U21zX2FqVlZUb0FLYW1BanlGMDA3amNjQUo4S0tsUmtNT3FKQjlWWXfSAZwCQVVfeXFMT1g4U2oxdFJnNDF6ekFLRW1zcmpTSWhJbWo0TVlWWmNsal8zNWd3V0JvNWNyQi0xNTVCeWU3XzhWOTI5RFJnSU0zZTl6c2xOeDYyZ1A3WUNOU1piVzNUMDVhbWg3ckNValFsRS0xdURncldFbGx2NnVnREsyYVg2VXRqOXhqSm56aS1qbWtPbXNiUFNybXI3WUNYU3JqMVVPN21XbnpGRXlVUnhJaG9MN3dNaXEzTHREY0Z5SWJiT2xYcnNGSFZ1QjFmQVZsWmE1WTRFVUphbnBpN3VBRU4xWW1yZHlJMW8wbFRJSk05c2g1QmFPWkJZZGJ4S1pLOXVBcHNqeF9pc0dxZHg5SXlMQ3BsREFCWnROZmxpeTE?oc=5
+- How US-Israel attacks on Iran threaten the Strait of Hormuz, oil markets - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU5ZRHJtOWxLNW81OVRvOTkwMkxtMzI5VzhLOW5QbnFVbDJKdFZuU0pka0xraGY5OFBVOXpNNXJyNVAzNWlWYzJ6TVlFMXhqajlsM3JjTnBIeEhITU90OW9UVTE3Y2hWY0
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU5ZRHJtOWxLNW81OVRvOTkwMkxtMzI5VzhLOW5QbnFVbDJKdFZuU0pka0xraGY5OFBVOXpNNXJyNVAzNWlWYzJ6TVlFMXhqajlsM3JjTnBIeEhITU90OW9UVTE3Y2hWY01jYXB3Wl90RlZfaUF6R3Z1UW5KYllZVFB5MDEyQ1g3c1ZEdFpZWUtzWGs1cldqS1hRYXV6MUhzTFdJdVFmU1VhUWtVSExDcdIBtgFBVV95cUxQYTJOZngwU0t3ckdYV2RLVmF6bEZZQ3JTSTQ1OG5nYURtVy1rY1NlcmRNU3FoQUFFeGhBMGVkNUp4ajRaOEdVRVpreDRrVUx1SlhOTWROMkR6WWtOZ3JTaTZGMk5IX1EtYk1tbnA5VV9nb1JYdWtjT1U0MEUtaFdUTlJ3MnplT0ZRWEMyRWtVUmFLUWxpNHYxRVJzV0FtaVVDZGdaajEzc19adW56WE5rN0tiWnBLZw?oc=5
 
-- What Investors Are Watching This Week: Iran Developments, Jobs Data, Earnings Reports - Investopedia
-  What Investors Are Watching This Week: Iran Developments
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOOTB1SkpvcmtyR2Q4RUlsamtRSUxUZ1FOekxqWW0zeEtTOGRMZVppSmxDbzFZTVViY0tOcmdDa0dSeWtsc01La1F4OE1yUnN3UDU4am1BOHVUWWJaU3JVcmg3dTRRMXhOUlliQVRtVkNZMUxYVzJUeGRDdU1lVmtNOU5rRDlzczNibTR4emdpMXM0cFJIX19lNk0weGZGQzJLRlNiMjlUWmhBUW84N2VyZkE5SU51dlBvLXh3QnRDOTU4VzVWeDllLUt5ZldEUk94TmpxRHdlUWZXQXhEbHd4VURyc3kyYk1KLVE1TGN4ZWlIVGZMZzBQTnMzM3Bvdncx?oc=5
+- UAE stock markets close, trading halted by Abu Dhabi Securities Exchange and the Dubai Financial Market f - The Times of India
+  UAE stock markets close, trading halted by Abu Dhabi Securities Exchange and the Dubai Financial Market
+  🔗 https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWFzU2xHeFA2VkVyeEg0Zm1GQ1Y5TDVRV191S2VKb3c4eGJ6WGVFVVlOVlB2WWVTWVdrNmJQWUxxdERaRlFxZlpZYXNqUEVLMDRDb25EYTdpejNfNGVxSV95TXFVRndPZXJMX0htWWk2eHFBLVd1WHlUaEx1dWxtMk9SdTU4QWd3QkxTRlJic3ItZkkxZUtnTDNVaUJlQWE2YTdhcXU1V0ZFQmpqMGxrcWtMVmsyNE5vay1MdVJBemd3cFRMZWpzcHBJR3pKNk8tNnV2aWJvcEZYcnZDRWxfZXJ6OVY2a1BvTEo4T1l0LUplV0FsVmIxeG9TcEJTaXVmbzlVT0dhcHM2cVFNWmowVWVJU3E0ZnZTZUdraDNGMHEtUGpiSzc4aXgxN2xsRGE3N085ZGpqN29mcENlSmREN2VBX29sOVNY0gHOAkFVX3lxTFBFb0lWYS11cXZMUzJFUE0yMzJDcE1EQk9Ud2lHRXVIWGVCTU1jNm5HZW5FemdhRGw4dk9rajVLVzBmZ0U5dGlKbkdxWkhVTDRvbnhGQlJQWFhUd0RNNWktU05qNDU5akd5YksyMUl0SmtOV2VzTGNEVkl3SE5EanpoMktweUg2TU9vUndKQ3RMOGVyRU9lZ200c2hEQVgwaGprb0pXcER6RHg2NFktUllhaUdaMEI0THhBMF9mS2VJVjFRbmZvbmJmWWFhUTdiYUE1SzU3UlNKb2NEajBqeDNuSWlqeUtXT1YxSmVNVy11bTFtWHZ3aGRQNW9laE96VGdUSjRUN2Rta1hTLUJ3YURYWGJRaVRVeHN2WEpJZjh0Q2xHandVeFNsT2hKMk1jczc1aFhnTUt0WTlaV1lkLTBYQ252REpibWV2MUhSRHc?oc=5
 
-- AI worries push Nifty IT ETFs down up to 21% in Feb, Nasdaq ETFs fall only 5%: Here’s why
-  The Nifty IT index closed February around 20% lower. The tech-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-worries-push-nifty-it-etfs-down-up-to-21-in-feb-nasdaq-etfs-fall-only-5-heres-why/articleshow/128915040.cms
+- Conflict closes Dubai, Abu Dhabi stock markets to Tuesday: Regulator - The Economic Times
+  The Economic Times reports that Dubai and Abu Dhabi stock
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHpDcG1acmJlU0Qzc0pwb1I0X0paalUwbktXb3FKZkQxWnEwcGYteFRUQ1owOURmQ3RwaEdacTY5NHlXS1NETU44SmVVUG43RmFES1k5OWVfa3BDYTNFdUNMZHA0TjhRd1N4a0U5cDhSc1V3cGg0d1ZFbWJ1dFJLckNOWWNnMGh5aUsyZHByMjRaX1VoUUVoWTlpOXhrM0V1RzB6eVA1VmpISVRxQ29wV0VyMDM0SlNzdlZCZk1DMDlkRHR5ekRYWVVyT1FFOHZMeGNReWhWaEdGZDkyYUZ5R2NB0gHnAUFVX3lxTE04V3BNV3c0MnZnNDZoa0ZiTWV0N2FOZkhDUlBfQTNqVEVLdjNjTVJMYVFOX3lMVTlwcGVEVFNPSFJUNEw1OGZFWGNUWEY0QmdRYlBYek1OLVk5UUVld0hrbjBTQTMwWEd0U1owd2RqR2xNWUxCOXdHNG50RzA0bXI0MFhpUFN0aHdUTFpWOFBmRlR1cGZXQ04wUkduZXpnbk1EN090dW5hcTlHb3ZKTDR3VWtsd1U0QU5ac0sxcEVvMkZrUGlDWGVFdzNFWk1LZFJuVk41VDVHZHJRQkFUeFFSLVk1TDY4SQ?oc=5
 
-- Gold, silver prices likely to soar tomorrow amid escalating Middle East war; what lies ahead?
-  Analysts expect high volatility as elevated geopolitical tensions push investors towards safe-haven assets like precious metals.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-likely-to-soar-tomorrow-amid-escalating-middle-east-war-what-lies-ahead/articleshow/128913167.cms
+- UAE Stock Markets to Close for Two Days on Iran Strikes Fallout - Bloomberg
+  UAE Stock Markets to Close for Two Days on
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2ZyNXZWTmVIWTk4TjJOTUplazFFaTFmdkVqUFRHV3laSkpBOFZpZDhyUmEya3luS1B4czMtVVdNRzBQMHNaTXdlZ0ZJTjBkc196Q1lQRkg3bFJXYm5Lc0EzY0QzVlIzdS1NRW9rb0FST1VlRVhaeFZ6eEVrUWxoNUhNWk1xSFlyYjM4dmdiQkdEaVotbEczVG5wVFVWQWlZRGRNRXZjRzNpdlVjWFZ5X0VtWXg?oc=5
 
-- Ahead of Market: 10 key factors that will drive stock market action on Monday
-  Indian stock markets Nifty and BSE Sensex closed significantly lower on Friday. Selling pressure was seen across sectors, with auto, financials, and FMCG being major laggards.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-key-factors-that-will-drive-stock-market-action-on-monday/articleshow/128911893.cms
-
-- Global Markets | Wall Street turns to ‘Haven-First’ strategies amid Iran attacks
-  Global markets are experiencing heightened anxiety due to the fast-moving Middle East conflict. Investors are seeking safety in assets like Treasuries and gold.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-turns-to-haven-first-strategies-amid-iran-attacks/articleshow/128911521.cms
-
-- Cabinet clears IIFCL's IPO plans; modalities being finalised, likely next fiscal: MD Rohit Rishi
-  India Infrastructure Finance Company has received the necessary approvals to proceed with its proposed initial public offer. Cabinet Committee on Economic Affairs cleared its listing on stock exchanges.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cabinet-clears-iifcls-ipo-plans-modalities-being-finalised-likely-next-fiscal-md-rohit-rishi/articleshow/128911332.cms
+- CNBC Daily Open: Markets brace for impact of U.S.-Iran conflict as shockwaves begin to spread - CNBC
+  CNBC: Markets brace for impact of U.S.-Iran
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lnSTI1SFJ5M1NPcm0wWjlQbGdlSWVNVWEzdGFqQi1Ca2NOZGllUTJuQVZXSEE0S3Baek9veThCM2ZhcjlIdndrZ0JTV09vajJEb2JBR1B2d1JEeGhaU2JWX2tBY0UxUnd5Sy1oRVhsQ05PS0ltQjFzRURld0pRems2dWNYYThqWUN5WGtDLUgwTlhseG5fazNBTXFTQzVFblY0eEhSc1FXQ2dhajN6dnRkMGPSAboBQVVfeXFMTmdUdUV0cUZoS0xqSG9iNEFYTHB1cWhacUJMeFZRNmYzVVJjc1p6MExmTDZZdmVBNWNCcmRwUlpkUVBrWXNWOU82aVpDWHloX1phTHZKdDM2dWQwTGZHN24yNUhCMFN3cTg0Z3RiYTRDWHdyRE9zM1UwZlJnckxSdzRheTJpck1zUUFmTV9LeklwRDBDNGJIMm5YVXFleFhTYXd4Qm1Ya1U4bFRNLTRKeVUyeFBoc2hlYld3?oc=5
 
 - After Khamenei's Death, Iran Regime's India Connection Back In Focus - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWW
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWWhSLVVLYmpaZE0wajN5VWV2dzduTnJtVmpFdWVoMjBLQ3JseUNtTWNjNi1KVGlBaENUSFlldXF0Q1ltbDdORjdpU1VZNDFWOHBNNmJWTGdxNzIxR01yYVJVYUwzUGhmMUlheTAwNTRQR0NlVFBJYmlsV2tkLTdqT1lwSk85YkRzaXBpeXZHeE5BeVNuRUHSAf4BQVVfeXFMTU1Da0Q2cGJxV0lYaGhvdE11RDhucERLdUY0LTR0WW41di1CbkEyOVBfa3BxbHVURDVjd2ROSW4wYjlmM1p6Y2EtZW9Wc0pVVnY3ZEdENTNyV0M0cmgxYXgxTFNUSzBtZXU5U1NSSlBqYUU1MGhPUW9XYWVjbkdwZ2RlMERiMTliejNETTREajRmUDE2bEo4OEVNaG5HZElMQ3VtNlo4NnRCaXpud3NzUDgxSkN6cl9xeEJTMWRvLXdrWVhpa3RDX3JPZXl1X01aZlFhWm41aExleVEyUFN1dEs0QWlSZmd2Y2NsTm0yZ1FxV19tVnBhRU5wc2JySUE?oc=5
 
+- ‘India stands in solidarity’: PM Modi speaks to UAE President, condemns attacks on Gulf nation - The Hindu
+  ‘India stands in solidarity’: PM Modi speaks to UAE
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVV9MUzZaOTR5YzdyUnROTGlFcDFaWGVmY29QMllsNnJBLWItX3ZoY1pHM1Q5OTVpVExVSFJYa05QZVZKM2xYWnI2Y1hvRmJmYVRsYmRlUUNFZzdIQ0p3dTNnT0NRZlF4dUFPNDNZVWRfZ3hueDVmM3A1Vi12QV9IaURQeldwLWhSQURVdGZlam1iSzlkeElweE5YTzEyc1EzR1NXMnYxMDdzTG45MHNzbDZyRDN6d0xBOWw4WUhTamNTcVU3OHV6X0NQa090OXl4TE1qN2Qwc20yV2RwaXotUURWTdIB6gFBVV95cUxOQkVJajA4bG5QcVBFRzdXZ1ItekhBTlVNNlJSUjFBbzYyaW1OQkhUaGl6ZDZzOUhDcU9TWF9kYTNjNUsxNmhMc3VJeHRUd3dpODNyWDRGWldQQ0NYZ3BORTFGME1uZ1lOdWk3eEw1ZUw4bmRra1pnbUtIdmFVWTFfWnNzZTFLNXFnNzgzSnJxXzFDREl6dzNQbFhxU1ZDT19LTzNmb29ZLXBqX2xrRnRrUmNSY3AyV2pjbkt5TTVZWlJycEpucHRESWdPRzlPVUNvMWVCRlpOV2Q4bndTb3BBdVFpOWR1bXNsa1E?oc=5
+
+- PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands in solidarity’ | India News - Hindustan Times
+  PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzUxT0ZlQjRrNk5JZmVvTFk0MHNTUm04bzJzUmlxeUQ5S1VqVzJZRk4wM053SzhRZFFyMmRBTnRpQ0k2cmhWaEJ6YUx3TjRiaGYxeTFtWEl3bEt4dFl6UVVSbU9ZQmRoTmRScUcyZEtPVDRzdHdKWDVZaXNYSzRNZXcwQ3NkQ1NmeGNSTnhRU0F5NTkyd0c1MlliQUl0NUdYNmVFQ1pGSlNQV1QwMWJXd284UzdRblpPUWVEY3VaTHVGbzlSSGhmWndNcmdYcjJXZUJUODFVTnpaTjhNel9BT1pMdEZmU24tVDFSTWxrZHnSAfYBQVVfeXFMTmc4X3kxNEFKRExWaU9hcXRybUhFZjM1dXRZNy1TMGZib3drcDJPc3JFRDZncVRmN3ZKMjBKVmNZdzRrMUNHTUVkUDlCZ2pEeXRwTERVMjdIUWNVRXU5ZUo5cUtwS2xTOE40dW1TVzFUelY3WnBGSzFHSDdtUmE3YjY1ZHN6QjJGWFJqM0kwV21EM1V3RFR1blk5NlViSEVFMm5HRktuYkxPdm5BeWRHWVUzS1BPNUhlak04NE9hZU1OTWpnbmp6dWU2S1RkOGxWRWYxbGNsOXNXanZ4YnRMNzFRR3dhaEI3NzNWYTdxaGZNeUtyYjFR?oc=5
+
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- With Canada Home To 29 Lakh Overseas Indians, Carney's India Reset - NDTV
-  With Canada Home To 29 Lakh Overseas
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05JRDJfSE54ZmJhX0YzRmJEa0pmMHA5T2ZiZUtMSFZmQVc4T1dCdllfenN4T3BXYWRodnZxZkxmcDZLbExZUEIyMWVXa1hzZkFZdGU5YXVDSnRDd05teEU1ZTZQVHZldEVwZ2pkdHpuTWlkTjF4eDJXVE1QR2M3VjBMWE9Ua1ZhOGlEclpvMDRfSWs3VVBQZzMwUlFEMkU2UldQdU5QZ3LSAbABQVVfeXFMUE1WQjhxTVdXQzRRd0tQMnEzZzhJaENzUERrTVNvZkZYUzEyMVAteDM0OXRwYkRpX1hISldERGhlcTExNmpOOG9LTGJsUU9laTZBemxDLUo3bE9PVnpJR2M4T21HWngtTGRqT1NyQ0R5U0ZhdnhMRmE5dE1KUDVOVEN6V2pkOHI3UXNyb3ZNRUh5U1czU190VEhLaFNwTDlQb2lXOGo0bXBiUThtSkg4OUE?oc=5
-
-- How India and Canada mended their frayed ties - The Indian Express
-  How India and Canada mended their fr
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlJHRi1wS2hXa2g3TjI5azFMQ29MYzBGaEJTUXBSNV9zQ1F4djRiSWtXMGtxZXE0bmt0Mk8taVFHRUI0UXBnYXVRdEFwbVhoOEFCc0pEa2Y3TFI0RzlJNEpXMDl5ZHJ1clJINC1fcWYyRWpqN0tlWU5jWVRKeXFrbnN2YUk4ZzAxVzVXYldyTkdhQzB6Q1Jfc0k2TXUyTHBj0gGnAUFVX3lxTFBFekcxcVN4YUN3NHB6X3hCVzVCdTdYQlJjMl8xeGVjcDRxVU96SFk4aUdGVDJqV0dzWFNfYVJodE5vRnpZdWNiMXh2Q1NTVEFYVG9WenVwWnpoNkpNZ3NIMGhfR2ZlZEN4ZHpBR1V6WVRlWUdZZEkwcWhGejJ6R1FVSmppY2ZxRTQ2eklVcFZnZHNJeXh6X0xDOFdKSDlSWTVuZU16NFh3?oc=5
-
-- India’s heaviest hydro rotor lowered at Subansiri Project - The Times of India
-  India’s heaviest hydro rotor lowered at
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQckZQb0g4cEF3QmtyZXBxS1VHZnM3SDdRa0VNakU0bEh3Z2NHRjJncTlQSGNMbjZaa2NvaWpwZi1Wa3RWUTdnb0FtN2I0amlZbnBrNDVOMjBsVlNBWXlEMTh0X1JaU1RHaVhFVnpzcWRSUG5tclptYTJkVG9UWmIxX3FwVTJ3Z3F3dVBJanZiYTRpZkd1a2Jva2R2eXVKMDdERkdtNU9Rc05TV1p5V0pNTEZka253STdsYnRjMERUYjQxeWhSXzlKdUpWMXTSAdIBQVVfeXFMTmRyV0x5cDNvMVdUY1RMNGhESjZlZXlPNEc3VjROR1NlbzA3b1ZiRGw2OEZyY2FzQm1jY2lNRkY2b2NWVTFqd3BkRWZoSXktWjFuclpQSGNtaTVfQnl2cHRMSzFRSWZwVzdkUUZnOVBGOXJUNDJ6QXI1anFxTWoybXZMN1dfTXBkallHUXBJU1dNRXNaSmpiVlFPUkkwMUVlV3U1eGZjUlA0RGFlYmdLT3RvMzF1REQ2Rnh6U1hDZGZTZGpwQW9vaDdHZWpQMlRUMzF3?oc=5
+- Counting pills, fearing blasts: Indians stranded in West Asia - The Times of India
+  The Times of India reported that Indian soldiers are
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONjFWYjVSVWs3LTlNQmxUT1NhSVN0aldlMXVXUHBHdkF6LW9Lcmpvb0ZKYk9xalZwSDAybm1Hb3huZXI4Q2JITUJNSDc3LTMxdVJoemtUdWJRTnFST00xc2QybnNzOGVKblJWNXRSeUQ4WnU4YmczWXM4dWIwQmlra0F2Vm00d3htVFI2RWQxNVNkZDNITk8yR1pDOG9LMjJBZUZOaFBhcmtPakhOVFhqaG9FdmRmMFVPS0ZRRkdMQ09LZlM3OHfSAcsBQVVfeXFMTk1ycnJ1QVFzUFptZzQtMUsySG1CbFJJTURZTUdXeUpwX21wTHBOaVVFU2JkVXozcUxPMU1KLWlqcmE0aHhoVG1kN2RGc3ZwX1otRVh0MHlxVlZCemhVRVVfY0hqUUwzRkoyN3dhZFpsdlI2azhUVG5sOWgxU1dQMGtkaWxXRjFNNnV6eUo0NmpuT2NlUWtTYzAtcHI0bV9SdEt4RjJaWVVGLUhSa2xRWlpLRjZLNTdRcmg5QWZjR3ZrLWczYTU4el8xLWc?oc=5
 
 - After Khamenei's Death, Iran Regime's India Connection Back In Focus - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWW
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWWhSLVVLYmpaZE0wajN5VWV2dzduTnJtVmpFdWVoMjBLQ3JseUNtTWNjNi1KVGlBaENUSFlldXF0Q1ltbDdORjdpU1VZNDFWOHBNNmJWTGdxNzIxR01yYVJVYUwzUGhmMUlheTAwNTRQR0NlVFBJYmlsV2tkLTdqT1lwSk85YkRzaXBpeXZHeE5BeVNuRUHSAf4BQVVfeXFMTU1Da0Q2cGJxV0lYaGhvdE11RDhucERLdUY0LTR0WW41di1CbkEyOVBfa3BxbHVURDVjd2ROSW4wYjlmM1p6Y2EtZW9Wc0pVVnY3ZEdENTNyV0M0cmgxYXgxTFNUSzBtZXU5U1NSSlBqYUU1MGhPUW9XYWVjbkdwZ2RlMERiMTliejNETTREajRmUDE2bEo4OEVNaG5HZElMQ3VtNlo4NnRCaXpud3NzUDgxSkN6cl9xeEJTMWRvLXdrWVhpa3RDX3JPZXl1X01aZlFhWm41aExleVEyUFN1dEs0QWlSZmd2Y2NsTm0yZ1FxV19tVnBhRU5wc2JySUE?oc=5
 
+- ‘India stands in solidarity’: PM Modi speaks to UAE President, condemns attacks on Gulf nation - The Hindu
+  ‘India stands in solidarity’: PM Modi speaks to UAE
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVV9MUzZaOTR5YzdyUnROTGlFcDFaWGVmY29QMllsNnJBLWItX3ZoY1pHM1Q5OTVpVExVSFJYa05QZVZKM2xYWnI2Y1hvRmJmYVRsYmRlUUNFZzdIQ0p3dTNnT0NRZlF4dUFPNDNZVWRfZ3hueDVmM3A1Vi12QV9IaURQeldwLWhSQURVdGZlam1iSzlkeElweE5YTzEyc1EzR1NXMnYxMDdzTG45MHNzbDZyRDN6d0xBOWw4WUhTamNTcVU3OHV6X0NQa090OXl4TE1qN2Qwc20yV2RwaXotUURWTdIB6gFBVV95cUxOQkVJajA4bG5QcVBFRzdXZ1ItekhBTlVNNlJSUjFBbzYyaW1OQkhUaGl6ZDZzOUhDcU9TWF9kYTNjNUsxNmhMc3VJeHRUd3dpODNyWDRGWldQQ0NYZ3BORTFGME1uZ1lOdWk3eEw1ZUw4bmRra1pnbUtIdmFVWTFfWnNzZTFLNXFnNzgzSnJxXzFDREl6dzNQbFhxU1ZDT19LTzNmb29ZLXBqX2xrRnRrUmNSY3AyV2pjbkt5TTVZWlJycEpucHRESWdPRzlPVUNvMWVCRlpOV2Q4bndTb3BBdVFpOWR1bXNsa1E?oc=5
+
+- PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands in solidarity’ | India News - Hindustan Times
+  PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzUxT0ZlQjRrNk5JZmVvTFk0MHNTUm04bzJzUmlxeUQ5S1VqVzJZRk4wM053SzhRZFFyMmRBTnRpQ0k2cmhWaEJ6YUx3TjRiaGYxeTFtWEl3bEt4dFl6UVVSbU9ZQmRoTmRScUcyZEtPVDRzdHdKWDVZaXNYSzRNZXcwQ3NkQ1NmeGNSTnhRU0F5NTkyd0c1MlliQUl0NUdYNmVFQ1pGSlNQV1QwMWJXd284UzdRblpPUWVEY3VaTHVGbzlSSGhmWndNcmdYcjJXZUJUODFVTnpaTjhNel9BT1pMdEZmU24tVDFSTWxrZHnSAfYBQVVfeXFMTmc4X3kxNEFKRExWaU9hcXRybUhFZjM1dXRZNy1TMGZib3drcDJPc3JFRDZncVRmN3ZKMjBKVmNZdzRrMUNHTUVkUDlCZ2pEeXRwTERVMjdIUWNVRXU5ZUo5cUtwS2xTOE40dW1TVzFUelY3WnBGSzFHSDdtUmE3YjY1ZHN6QjJGWFJqM0kwV21EM1V3RFR1blk5NlViSEVFMm5HRktuYkxPdm5BeWRHWVUzS1BPNUhlak04NE9hZU1OTWpnbmp6dWU2S1RkOGxWRWYxbGNsOXNXanZ4YnRMNzFRR3dhaEI3NzNWYTdxaGZNeUtyYjFR?oc=5
+
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- With Canada Home To 29 Lakh Overseas Indians, Carney's India Reset - NDTV
-  With Canada Home To 29 Lakh Overseas
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05JRDJfSE54ZmJhX0YzRmJEa0pmMHA5T2ZiZUtMSFZmQVc4T1dCdllfenN4T3BXYWRodnZxZkxmcDZLbExZUEIyMWVXa1hzZkFZdGU5YXVDSnRDd05teEU1ZTZQVHZldEVwZ2pkdHpuTWlkTjF4eDJXVE1QR2M3VjBMWE9Ua1ZhOGlEclpvMDRfSWs3VVBQZzMwUlFEMkU2UldQdU5QZ3LSAbABQVVfeXFMUE1WQjhxTVdXQzRRd0tQMnEzZzhJaENzUERrTVNvZkZYUzEyMVAteDM0OXRwYkRpX1hISldERGhlcTExNmpOOG9LTGJsUU9laTZBemxDLUo3bE9PVnpJR2M4T21HWngtTGRqT1NyQ0R5U0ZhdnhMRmE5dE1KUDVOVEN6V2pkOHI3UXNyb3ZNRUh5U1czU190VEhLaFNwTDlQb2lXOGo0bXBiUThtSkg4OUE?oc=5
-
-- How India and Canada mended their frayed ties - The Indian Express
-  How India and Canada mended their fr
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlJHRi1wS2hXa2g3TjI5azFMQ29MYzBGaEJTUXBSNV9zQ1F4djRiSWtXMGtxZXE0bmt0Mk8taVFHRUI0UXBnYXVRdEFwbVhoOEFCc0pEa2Y3TFI0RzlJNEpXMDl5ZHJ1clJINC1fcWYyRWpqN0tlWU5jWVRKeXFrbnN2YUk4ZzAxVzVXYldyTkdhQzB6Q1Jfc0k2TXUyTHBj0gGnAUFVX3lxTFBFekcxcVN4YUN3NHB6X3hCVzVCdTdYQlJjMl8xeGVjcDRxVU96SFk4aUdGVDJqV0dzWFNfYVJodE5vRnpZdWNiMXh2Q1NTVEFYVG9WenVwWnpoNkpNZ3NIMGhfR2ZlZEN4ZHpBR1V6WVRlWUdZZEkwcWhGejJ6R1FVSmppY2ZxRTQ2eklVcFZnZHNJeXh6X0xDOFdKSDlSWTVuZU16NFh3?oc=5
-
-- India’s heaviest hydro rotor lowered at Subansiri Project - The Times of India
-  India’s heaviest hydro rotor lowered at
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQckZQb0g4cEF3QmtyZXBxS1VHZnM3SDdRa0VNakU0bEh3Z2NHRjJncTlQSGNMbjZaa2NvaWpwZi1Wa3RWUTdnb0FtN2I0amlZbnBrNDVOMjBsVlNBWXlEMTh0X1JaU1RHaVhFVnpzcWRSUG5tclptYTJkVG9UWmIxX3FwVTJ3Z3F3dVBJanZiYTRpZkd1a2Jva2R2eXVKMDdERkdtNU9Rc05TV1p5V0pNTEZka253STdsYnRjMERUYjQxeWhSXzlKdUpWMXTSAdIBQVVfeXFMTmRyV0x5cDNvMVdUY1RMNGhESjZlZXlPNEc3VjROR1NlbzA3b1ZiRGw2OEZyY2FzQm1jY2lNRkY2b2NWVTFqd3BkRWZoSXktWjFuclpQSGNtaTVfQnl2cHRMSzFRSWZwVzdkUUZnOVBGOXJUNDJ6QXI1anFxTWoybXZMN1dfTXBkallHUXBJU1dNRXNaSmpiVlFPUkkwMUVlV3U1eGZjUlA0RGFlYmdLT3RvMzF1REQ2Rnh6U1hDZGZTZGpwQW9vaDdHZWpQMlRUMzF3?oc=5
+- Counting pills, fearing blasts: Indians stranded in West Asia - The Times of India
+  The Times of India reported that Indian soldiers are
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONjFWYjVSVWs3LTlNQmxUT1NhSVN0aldlMXVXUHBHdkF6LW9Lcmpvb0ZKYk9xalZwSDAybm1Hb3huZXI4Q2JITUJNSDc3LTMxdVJoemtUdWJRTnFST00xc2QybnNzOGVKblJWNXRSeUQ4WnU4YmczWXM4dWIwQmlra0F2Vm00d3htVFI2RWQxNVNkZDNITk8yR1pDOG9LMjJBZUZOaFBhcmtPakhOVFhqaG9FdmRmMFVPS0ZRRkdMQ09LZlM3OHfSAcsBQVVfeXFMTk1ycnJ1QVFzUFptZzQtMUsySG1CbFJJTURZTUdXeUpwX21wTHBOaVVFU2JkVXozcUxPMU1KLWlqcmE0aHhoVG1kN2RGc3ZwX1otRVh0MHlxVlZCemhVRVVfY0hqUUwzRkoyN3dhZFpsdlI2azhUVG5sOWgxU1dQMGtkaWxXRjFNNnV6eUo0NmpuT2NlUWtTYzAtcHI0bV9SdEt4RjJaWVVGLUhSa2xRWlpLRjZLNTdRcmg5QWZjR3ZrLWczYTU4el8xLWc?oc=5
 
 - After Khamenei's Death, Iran Regime's India Connection Back In Focus - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWW
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWWhSLVVLYmpaZE0wajN5VWV2dzduTnJtVmpFdWVoMjBLQ3JseUNtTWNjNi1KVGlBaENUSFlldXF0Q1ltbDdORjdpU1VZNDFWOHBNNmJWTGdxNzIxR01yYVJVYUwzUGhmMUlheTAwNTRQR0NlVFBJYmlsV2tkLTdqT1lwSk85YkRzaXBpeXZHeE5BeVNuRUHSAf4BQVVfeXFMTU1Da0Q2cGJxV0lYaGhvdE11RDhucERLdUY0LTR0WW41di1CbkEyOVBfa3BxbHVURDVjd2ROSW4wYjlmM1p6Y2EtZW9Wc0pVVnY3ZEdENTNyV0M0cmgxYXgxTFNUSzBtZXU5U1NSSlBqYUU1MGhPUW9XYWVjbkdwZ2RlMERiMTliejNETTREajRmUDE2bEo4OEVNaG5HZElMQ3VtNlo4NnRCaXpud3NzUDgxSkN6cl9xeEJTMWRvLXdrWVhpa3RDX3JPZXl1X01aZlFhWm41aExleVEyUFN1dEs0QWlSZmd2Y2NsTm0yZ1FxV19tVnBhRU5wc2JySUE?oc=5
 
+- ‘India stands in solidarity’: PM Modi speaks to UAE President, condemns attacks on Gulf nation - The Hindu
+  ‘India stands in solidarity’: PM Modi speaks to UAE
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVV9MUzZaOTR5YzdyUnROTGlFcDFaWGVmY29QMllsNnJBLWItX3ZoY1pHM1Q5OTVpVExVSFJYa05QZVZKM2xYWnI2Y1hvRmJmYVRsYmRlUUNFZzdIQ0p3dTNnT0NRZlF4dUFPNDNZVWRfZ3hueDVmM3A1Vi12QV9IaURQeldwLWhSQURVdGZlam1iSzlkeElweE5YTzEyc1EzR1NXMnYxMDdzTG45MHNzbDZyRDN6d0xBOWw4WUhTamNTcVU3OHV6X0NQa090OXl4TE1qN2Qwc20yV2RwaXotUURWTdIB6gFBVV95cUxOQkVJajA4bG5QcVBFRzdXZ1ItekhBTlVNNlJSUjFBbzYyaW1OQkhUaGl6ZDZzOUhDcU9TWF9kYTNjNUsxNmhMc3VJeHRUd3dpODNyWDRGWldQQ0NYZ3BORTFGME1uZ1lOdWk3eEw1ZUw4bmRra1pnbUtIdmFVWTFfWnNzZTFLNXFnNzgzSnJxXzFDREl6dzNQbFhxU1ZDT19LTzNmb29ZLXBqX2xrRnRrUmNSY3AyV2pjbkt5TTVZWlJycEpucHRESWdPRzlPVUNvMWVCRlpOV2Q4bndTb3BBdVFpOWR1bXNsa1E?oc=5
+
+- PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands in solidarity’ | India News - Hindustan Times
+  PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzUxT0ZlQjRrNk5JZmVvTFk0MHNTUm04bzJzUmlxeUQ5S1VqVzJZRk4wM053SzhRZFFyMmRBTnRpQ0k2cmhWaEJ6YUx3TjRiaGYxeTFtWEl3bEt4dFl6UVVSbU9ZQmRoTmRScUcyZEtPVDRzdHdKWDVZaXNYSzRNZXcwQ3NkQ1NmeGNSTnhRU0F5NTkyd0c1MlliQUl0NUdYNmVFQ1pGSlNQV1QwMWJXd284UzdRblpPUWVEY3VaTHVGbzlSSGhmWndNcmdYcjJXZUJUODFVTnpaTjhNel9BT1pMdEZmU24tVDFSTWxrZHnSAfYBQVVfeXFMTmc4X3kxNEFKRExWaU9hcXRybUhFZjM1dXRZNy1TMGZib3drcDJPc3JFRDZncVRmN3ZKMjBKVmNZdzRrMUNHTUVkUDlCZ2pEeXRwTERVMjdIUWNVRXU5ZUo5cUtwS2xTOE40dW1TVzFUelY3WnBGSzFHSDdtUmE3YjY1ZHN6QjJGWFJqM0kwV21EM1V3RFR1blk5NlViSEVFMm5HRktuYkxPdm5BeWRHWVUzS1BPNUhlak04NE9hZU1OTWpnbmp6dWU2S1RkOGxWRWYxbGNsOXNXanZ4YnRMNzFRR3dhaEI3NzNWYTdxaGZNeUtyYjFR?oc=5
+
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- With Canada Home To 29 Lakh Overseas Indians, Carney's India Reset - NDTV
-  With Canada Home To 29 Lakh Overseas
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05JRDJfSE54ZmJhX0YzRmJEa0pmMHA5T2ZiZUtMSFZmQVc4T1dCdllfenN4T3BXYWRodnZxZkxmcDZLbExZUEIyMWVXa1hzZkFZdGU5YXVDSnRDd05teEU1ZTZQVHZldEVwZ2pkdHpuTWlkTjF4eDJXVE1QR2M3VjBMWE9Ua1ZhOGlEclpvMDRfSWs3VVBQZzMwUlFEMkU2UldQdU5QZ3LSAbABQVVfeXFMUE1WQjhxTVdXQzRRd0tQMnEzZzhJaENzUERrTVNvZkZYUzEyMVAteDM0OXRwYkRpX1hISldERGhlcTExNmpOOG9LTGJsUU9laTZBemxDLUo3bE9PVnpJR2M4T21HWngtTGRqT1NyQ0R5U0ZhdnhMRmE5dE1KUDVOVEN6V2pkOHI3UXNyb3ZNRUh5U1czU190VEhLaFNwTDlQb2lXOGo0bXBiUThtSkg4OUE?oc=5
-
-- How India and Canada mended their frayed ties - The Indian Express
-  How India and Canada mended their fr
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlJHRi1wS2hXa2g3TjI5azFMQ29MYzBGaEJTUXBSNV9zQ1F4djRiSWtXMGtxZXE0bmt0Mk8taVFHRUI0UXBnYXVRdEFwbVhoOEFCc0pEa2Y3TFI0RzlJNEpXMDl5ZHJ1clJINC1fcWYyRWpqN0tlWU5jWVRKeXFrbnN2YUk4ZzAxVzVXYldyTkdhQzB6Q1Jfc0k2TXUyTHBj0gGnAUFVX3lxTFBFekcxcVN4YUN3NHB6X3hCVzVCdTdYQlJjMl8xeGVjcDRxVU96SFk4aUdGVDJqV0dzWFNfYVJodE5vRnpZdWNiMXh2Q1NTVEFYVG9WenVwWnpoNkpNZ3NIMGhfR2ZlZEN4ZHpBR1V6WVRlWUdZZEkwcWhGejJ6R1FVSmppY2ZxRTQ2eklVcFZnZHNJeXh6X0xDOFdKSDlSWTVuZU16NFh3?oc=5
-
-- India’s heaviest hydro rotor lowered at Subansiri Project - The Times of India
-  India’s heaviest hydro rotor lowered at
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQckZQb0g4cEF3QmtyZXBxS1VHZnM3SDdRa0VNakU0bEh3Z2NHRjJncTlQSGNMbjZaa2NvaWpwZi1Wa3RWUTdnb0FtN2I0amlZbnBrNDVOMjBsVlNBWXlEMTh0X1JaU1RHaVhFVnpzcWRSUG5tclptYTJkVG9UWmIxX3FwVTJ3Z3F3dVBJanZiYTRpZkd1a2Jva2R2eXVKMDdERkdtNU9Rc05TV1p5V0pNTEZka253STdsYnRjMERUYjQxeWhSXzlKdUpWMXTSAdIBQVVfeXFMTmRyV0x5cDNvMVdUY1RMNGhESjZlZXlPNEc3VjROR1NlbzA3b1ZiRGw2OEZyY2FzQm1jY2lNRkY2b2NWVTFqd3BkRWZoSXktWjFuclpQSGNtaTVfQnl2cHRMSzFRSWZwVzdkUUZnOVBGOXJUNDJ6QXI1anFxTWoybXZMN1dfTXBkallHUXBJU1dNRXNaSmpiVlFPUkkwMUVlV3U1eGZjUlA0RGFlYmdLT3RvMzF1REQ2Rnh6U1hDZGZTZGpwQW9vaDdHZWpQMlRUMzF3?oc=5
+- Counting pills, fearing blasts: Indians stranded in West Asia - The Times of India
+  The Times of India reported that Indian soldiers are
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONjFWYjVSVWs3LTlNQmxUT1NhSVN0aldlMXVXUHBHdkF6LW9Lcmpvb0ZKYk9xalZwSDAybm1Hb3huZXI4Q2JITUJNSDc3LTMxdVJoemtUdWJRTnFST00xc2QybnNzOGVKblJWNXRSeUQ4WnU4YmczWXM4dWIwQmlra0F2Vm00d3htVFI2RWQxNVNkZDNITk8yR1pDOG9LMjJBZUZOaFBhcmtPakhOVFhqaG9FdmRmMFVPS0ZRRkdMQ09LZlM3OHfSAcsBQVVfeXFMTk1ycnJ1QVFzUFptZzQtMUsySG1CbFJJTURZTUdXeUpwX21wTHBOaVVFU2JkVXozcUxPMU1KLWlqcmE0aHhoVG1kN2RGc3ZwX1otRVh0MHlxVlZCemhVRVVfY0hqUUwzRkoyN3dhZFpsdlI2azhUVG5sOWgxU1dQMGtkaWxXRjFNNnV6eUo0NmpuT2NlUWtTYzAtcHI0bV9SdEt4RjJaWVVGLUhSa2xRWlpLRjZLNTdRcmg5QWZjR3ZrLWczYTU4el8xLWc?oc=5
 
 - After Khamenei's Death, Iran Regime's India Connection Back In Focus - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWW
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0R0MDZJVE0wWk5URFFHQ0NzbTJKNFpmLXF4UEIwdzRDTF9keXdxT2NhcUZlQjlfY01oREdLbTNYWThqZ1ljMXU0S3JIMmFwVzY3RkRqeWFSUW9sNDJLZGtoWlhUOGQyWWhSLVVLYmpaZE0wajN5VWV2dzduTnJtVmpFdWVoMjBLQ3JseUNtTWNjNi1KVGlBaENUSFlldXF0Q1ltbDdORjdpU1VZNDFWOHBNNmJWTGdxNzIxR01yYVJVYUwzUGhmMUlheTAwNTRQR0NlVFBJYmlsV2tkLTdqT1lwSk85YkRzaXBpeXZHeE5BeVNuRUHSAf4BQVVfeXFMTU1Da0Q2cGJxV0lYaGhvdE11RDhucERLdUY0LTR0WW41di1CbkEyOVBfa3BxbHVURDVjd2ROSW4wYjlmM1p6Y2EtZW9Wc0pVVnY3ZEdENTNyV0M0cmgxYXgxTFNUSzBtZXU5U1NSSlBqYUU1MGhPUW9XYWVjbkdwZ2RlMERiMTliejNETTREajRmUDE2bEo4OEVNaG5HZElMQ3VtNlo4NnRCaXpud3NzUDgxSkN6cl9xeEJTMWRvLXdrWVhpa3RDX3JPZXl1X01aZlFhWm41aExleVEyUFN1dEs0QWlSZmd2Y2NsTm0yZ1FxV19tVnBhRU5wc2JySUE?oc=5
 
+- ‘India stands in solidarity’: PM Modi speaks to UAE President, condemns attacks on Gulf nation - The Hindu
+  ‘India stands in solidarity’: PM Modi speaks to UAE
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVV9MUzZaOTR5YzdyUnROTGlFcDFaWGVmY29QMllsNnJBLWItX3ZoY1pHM1Q5OTVpVExVSFJYa05QZVZKM2xYWnI2Y1hvRmJmYVRsYmRlUUNFZzdIQ0p3dTNnT0NRZlF4dUFPNDNZVWRfZ3hueDVmM3A1Vi12QV9IaURQeldwLWhSQURVdGZlam1iSzlkeElweE5YTzEyc1EzR1NXMnYxMDdzTG45MHNzbDZyRDN6d0xBOWw4WUhTamNTcVU3OHV6X0NQa090OXl4TE1qN2Qwc20yV2RwaXotUURWTdIB6gFBVV95cUxOQkVJajA4bG5QcVBFRzdXZ1ItekhBTlVNNlJSUjFBbzYyaW1OQkhUaGl6ZDZzOUhDcU9TWF9kYTNjNUsxNmhMc3VJeHRUd3dpODNyWDRGWldQQ0NYZ3BORTFGME1uZ1lOdWk3eEw1ZUw4bmRra1pnbUtIdmFVWTFfWnNzZTFLNXFnNzgzSnJxXzFDREl6dzNQbFhxU1ZDT19LTzNmb29ZLXBqX2xrRnRrUmNSY3AyV2pjbkt5TTVZWlJycEpucHRESWdPRzlPVUNvMWVCRlpOV2Q4bndTb3BBdVFpOWR1bXNsa1E?oc=5
+
+- PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands in solidarity’ | India News - Hindustan Times
+  PM Modi speaks to UAE President amid Iranian strikes, condemns attacks: ‘India stands
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzUxT0ZlQjRrNk5JZmVvTFk0MHNTUm04bzJzUmlxeUQ5S1VqVzJZRk4wM053SzhRZFFyMmRBTnRpQ0k2cmhWaEJ6YUx3TjRiaGYxeTFtWEl3bEt4dFl6UVVSbU9ZQmRoTmRScUcyZEtPVDRzdHdKWDVZaXNYSzRNZXcwQ3NkQ1NmeGNSTnhRU0F5NTkyd0c1MlliQUl0NUdYNmVFQ1pGSlNQV1QwMWJXd284UzdRblpPUWVEY3VaTHVGbzlSSGhmWndNcmdYcjJXZUJUODFVTnpaTjhNel9BT1pMdEZmU24tVDFSTWxrZHnSAfYBQVVfeXFMTmc4X3kxNEFKRExWaU9hcXRybUhFZjM1dXRZNy1TMGZib3drcDJPc3JFRDZncVRmN3ZKMjBKVmNZdzRrMUNHTUVkUDlCZ2pEeXRwTERVMjdIUWNVRXU5ZUo5cUtwS2xTOE40dW1TVzFUelY3WnBGSzFHSDdtUmE3YjY1ZHN6QjJGWFJqM0kwV21EM1V3RFR1blk5NlViSEVFMm5HRktuYkxPdm5BeWRHWVUzS1BPNUhlak04NE9hZU1OTWpnbmp6dWU2S1RkOGxWRWYxbGNsOXNXanZ4YnRMNzFRR3dhaEI3NzNWYTdxaGZNeUtyYjFR?oc=5
+
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
   A 'delicate' balance for Canada and a 'win
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR055bjZBVUc4c01BNkVKUEgyajY0bnNNX2tQMC1LQ3gyMm1kTno4N2xRN29POHU5bHZLaUxGODhxQ1NoR0NzbGk4Z19kNnFxS2RWS2N0N1cyZw?oc=5
 
-- With Canada Home To 29 Lakh Overseas Indians, Carney's India Reset - NDTV
-  With Canada Home To 29 Lakh Overseas
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05JRDJfSE54ZmJhX0YzRmJEa0pmMHA5T2ZiZUtMSFZmQVc4T1dCdllfenN4T3BXYWRodnZxZkxmcDZLbExZUEIyMWVXa1hzZkFZdGU5YXVDSnRDd05teEU1ZTZQVHZldEVwZ2pkdHpuTWlkTjF4eDJXVE1QR2M3VjBMWE9Ua1ZhOGlEclpvMDRfSWs3VVBQZzMwUlFEMkU2UldQdU5QZ3LSAbABQVVfeXFMUE1WQjhxTVdXQzRRd0tQMnEzZzhJaENzUERrTVNvZkZYUzEyMVAteDM0OXRwYkRpX1hISldERGhlcTExNmpOOG9LTGJsUU9laTZBemxDLUo3bE9PVnpJR2M4T21HWngtTGRqT1NyQ0R5U0ZhdnhMRmE5dE1KUDVOVEN6V2pkOHI3UXNyb3ZNRUh5U1czU190VEhLaFNwTDlQb2lXOGo0bXBiUThtSkg4OUE?oc=5
-
-- How India and Canada mended their frayed ties - The Indian Express
-  How India and Canada mended their fr
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlJHRi1wS2hXa2g3TjI5azFMQ29MYzBGaEJTUXBSNV9zQ1F4djRiSWtXMGtxZXE0bmt0Mk8taVFHRUI0UXBnYXVRdEFwbVhoOEFCc0pEa2Y3TFI0RzlJNEpXMDl5ZHJ1clJINC1fcWYyRWpqN0tlWU5jWVRKeXFrbnN2YUk4ZzAxVzVXYldyTkdhQzB6Q1Jfc0k2TXUyTHBj0gGnAUFVX3lxTFBFekcxcVN4YUN3NHB6X3hCVzVCdTdYQlJjMl8xeGVjcDRxVU96SFk4aUdGVDJqV0dzWFNfYVJodE5vRnpZdWNiMXh2Q1NTVEFYVG9WenVwWnpoNkpNZ3NIMGhfR2ZlZEN4ZHpBR1V6WVRlWUdZZEkwcWhGejJ6R1FVSmppY2ZxRTQ2eklVcFZnZHNJeXh6X0xDOFdKSDlSWTVuZU16NFh3?oc=5
-
-- India’s heaviest hydro rotor lowered at Subansiri Project - The Times of India
-  India’s heaviest hydro rotor lowered at
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQckZQb0g4cEF3QmtyZXBxS1VHZnM3SDdRa0VNakU0bEh3Z2NHRjJncTlQSGNMbjZaa2NvaWpwZi1Wa3RWUTdnb0FtN2I0amlZbnBrNDVOMjBsVlNBWXlEMTh0X1JaU1RHaVhFVnpzcWRSUG5tclptYTJkVG9UWmIxX3FwVTJ3Z3F3dVBJanZiYTRpZkd1a2Jva2R2eXVKMDdERkdtNU9Rc05TV1p5V0pNTEZka253STdsYnRjMERUYjQxeWhSXzlKdUpWMXTSAdIBQVVfeXFMTmRyV0x5cDNvMVdUY1RMNGhESjZlZXlPNEc3VjROR1NlbzA3b1ZiRGw2OEZyY2FzQm1jY2lNRkY2b2NWVTFqd3BkRWZoSXktWjFuclpQSGNtaTVfQnl2cHRMSzFRSWZwVzdkUUZnOVBGOXJUNDJ6QXI1anFxTWoybXZMN1dfTXBkallHUXBJU1dNRXNaSmpiVlFPUkkwMUVlV3U1eGZjUlA0RGFlYmdLT3RvMzF1REQ2Rnh6U1hDZGZTZGpwQW9vaDdHZWpQMlRUMzF3?oc=5
+- Counting pills, fearing blasts: Indians stranded in West Asia - The Times of India
+  The Times of India reported that Indian soldiers are
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONjFWYjVSVWs3LTlNQmxUT1NhSVN0aldlMXVXUHBHdkF6LW9Lcmpvb0ZKYk9xalZwSDAybm1Hb3huZXI4Q2JITUJNSDc3LTMxdVJoemtUdWJRTnFST00xc2QybnNzOGVKblJWNXRSeUQ4WnU4YmczWXM4dWIwQmlra0F2Vm00d3htVFI2RWQxNVNkZDNITk8yR1pDOG9LMjJBZUZOaFBhcmtPakhOVFhqaG9FdmRmMFVPS0ZRRkdMQ09LZlM3OHfSAcsBQVVfeXFMTk1ycnJ1QVFzUFptZzQtMUsySG1CbFJJTURZTUdXeUpwX21wTHBOaVVFU2JkVXozcUxPMU1KLWlqcmE0aHhoVG1kN2RGc3ZwX1otRVh0MHlxVlZCemhVRVVfY0hqUUwzRkoyN3dhZFpsdlI2azhUVG5sOWgxU1dQMGtkaWxXRjFNNnV6eUo0NmpuT2NlUWtTYzAtcHI0bV9SdEt4RjJaWVVGLUhSa2xRWlpLRjZLNTdRcmg5QWZjR3ZrLWczYTU4el8xLWc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-01 18:31:06 UTC_
+_Last updated: 2026-03-02 01:48:03 UTC_
