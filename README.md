@@ -1,244 +1,204 @@
 # 📰 Daily News Summaries
 
-- Manjummel Boys director Chidambaram booked in sexual harassment case by Kochi police
+- ‘Mandated to protect traditions’: Kerala’s state-run temple board to oppose entry of young women in Sabarimala
   
-  🔗 https://indianexpress.com/article/india/manjummel-boys-director-chidambaram-booked-in-sexual-harassment-case-kochi-10560619/
+  🔗 https://indianexpress.com/article/india/sabarimala-young-women-entry-review-supreme-court-10561231/
 
-- Identify ‘pro-Iran radical preachers’: MHA warns states of possible unrest after Israel-US strikes
+- In poll-bound Kerala, CM Vijayan targets Congress over Telangana demolition – ‘Proving to be replicas of BJP governments in the north’
   
-  🔗 https://indianexpress.com/article/india/mha-advisory-states-high-alert-iran-israel-war-protests-khamenei-death-10560597/
+  🔗 https://indianexpress.com/article/india/kerala-cm-vijayan-targets-congress-telangana-demolition-bjp-north-10561052/
 
-- Gold Today Rate, March 2: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- Iran-Israel war 2026: IndiGo cancels over 150 international flights on March 3 – Full list
   
-  🔗 https://indianexpress.com/article/india/gold-today-rate-march-2-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10560567/
+  🔗 https://indianexpress.com/article/india/iran-israel-war-2026-indigo-cancels-over-150-international-flights-on-march-3-full-list-10560931/
 
-- News Today Live Updates, 2 March | Manjummel Boys director Chidambaram booked in sexual harassment case by Kochi police
+- ‘Important milestone’: India and Canada seal landmark uranium deal and Rs 4.1 lakh crore trade vision
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-03-02-2026-news-headlines-10560283/
+  🔗 https://indianexpress.com/article/india/india-canada-reset-uranium-deal-defence-dialogue-50bn-trade-2030-10560956/
 
-- Stock Market Holiday Alert: NSE, BSE to stay closed on key dates in March 2026 — Check full list
+- India and Canada sign Uranium deal in bilateral ties reset, target $50bn trade by 2030
   
-  🔗 https://indianexpress.com/article/india/india-stock-market-holidays-march-2026-nse-bse-list-10560295/
+  🔗 https://indianexpress.com/article/india/india-canada-free-trade-pact-year-end-uranium-deal-10560885/
+
+- Amazon’s AWS reports outage after UAE data centre struck by ‘objects’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-aws-reports-outage-after-uae-data-center-struck-by-objects-10561236/
+
+- Lunar Eclipse 2026: Chandra Grahan date, India timings, Visibility & livestream details
+  
+  🔗 https://indianexpress.com/article/technology/science/lunar-eclipse-2026-chandra-grahan-date-india-timings-visibility-live-stream-details-10561103/
+
+- Google, Airtel partner to add AI spam filters, ID checks to RCS chats in Messages app
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-airtel-spam-scam-protections-rcs-10560995/
+
+- MWC 2026 kicks off with robot phone from Honor, Lenovo’s dual-screen laptops, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/mwc-2026-robot-phone-dual-screen-laptops-ai-10560670/
 
 - How talks between Anthropic and the US Defense Department fell apart
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-talks-between-anthropic-and-the-us-defense-department-fell-apart-10560494/
 
-- Bring on defunct: The iPod enthralls young music listeners
+- The diary of a school dropout: How a nightly ritual built a  ₹2,350 crore empire
+  Eighth-grade dropout Sathish Kumar is now charging into Amul's turf. Can this self-taught visionary’s billion-rupee playbook
+  🔗 https://www.livemint.com/companies/milky-mist-dairy-ipo-revenue-sathish-kumar-11772447225879.html
+
+- L&amp;T data centres target $1bn revenue by 2030
+  The engineering giant is targeting $1 billion revenue by 2030 through phased capacity growth
+  🔗 https://www.livemint.com/companies/news/lt-data-centres-target-1bn-revenue-by-2030-digital-infra-ai-investments-google-reliance-11772421541002.html
+
+- TCS, Infosys halt trips to Middle East as Dubai Airport closes down, employees advised to exercise caution
+  TCS and Infosys have multiple offices in the Middle East. TCS told its employees that travel to the region had been halted.
+  🔗 https://www.livemint.com/companies/news/tcs-infosys-halt-trips-to-middle-east-as-dubai-airport-closes-down-employees-advised-to-exercise-caution-11772418859495.html
+
+- Japanese rare earth magnet giant wants India to not 'overdo' production of key component
+  Japanese magnet giant Proterial is evaluating a manufacturing plant in India. CEO Sean Stack says ‘overdoing’ production incentives could affect
+  🔗 https://www.livemint.com/companies/india-rare-earth-magnet-manufacturing-proterial-warning-government-scheme-11772353031869.html
+
+- Chemicals maker Dorf Ketal likely defers IPO plans amid Italmatch bid
+  Gujarat's Dorf Ketal is deferring its IPO to secure  ₹2,000 crore in pre-IPO funding
+  🔗 https://www.livemint.com/companies/news/chemicals-maker-dorf-ketal-defers-ipo-italmatch-chemicals-spa-private-equity-firm-bain-capital-11772351166650.html
+
+- Stock market crash: What should mutual fund investors do as Dalal Street hit by US-Iran war? Experts share 3 strategies
+  The Indian stock market experienced a significant downturn on March 2, with the BSE Sensex dropping nearly 1,050 points. Analysts advise investors to maintain long-term strategies
+  🔗 https://www.livemint.com/market/stock-market-news/what-should-mutual-fund-investors-do-as-us-iran-war-wipes-out-gains-experts-share-3-strategies-11772454136765.html
+
+- US stock market: Wall Street set to open over 1% lower as US-Iran conflict fuels risk-off mood
+  US stock futures indicate a weak market start. Key indices decline amid escalating tensions in the Middle East.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-over-1-lower-as-us-iran-conflict-fuels-risk-off-mood-11772451867000.html
+
+- Rupee crashes 42 paise to settle at 91.50 against US dollar as US-Iran war drives crude prices higher
+  . Massive selling in domestic equity markets and withdrawal of foreign funds further
+  🔗 https://www.livemint.com/market/stock-market-news/rupee-crashes-42-paise-to-settle-at-91-50-against-us-dollar-11772449711083.html
+
+- Mobilise App Lab IPO Listing: Share list at 20% discount at  ₹64.10 on NSE SME
+  Mobilise App Lab share price made a weak debut in the Indian stock market today, March 2. Share price was listed on Monday at  ₹64.10 apiece on NSE
+  🔗 https://www.livemint.com/market/mobilise-app-lab-ipo-listing-share-list-at-20-discount-at-rs-64-10-on-nse-sme-11772449267698.html
+
+- Stock market crash: Over 850 stocks hit 52-week lows today; Sensex crashes over 2,000 points in 3 sessions
+  As many as 869 stocks hit their 52-week lows on Monday. In the Sensex index, only three stocks ended with gains.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-over-850-stocks-hit-52-week-lows-today-sensex-crashes-over-2-000-points-in-3-sessions-11772445258068.html
+
+- Is Claude down? Hundreds of users report issues in Delhi, Mumbai, Ahmedabad; Anthropic reacts
+  Hundreds of users report issues
+  🔗 https://www.livemint.com/technology/is-claude-down-hundreds-of-users-report-issues-on-downdetector-outage-11772453696659.html
+
+- Stop buying gaming laptops for trading: Your trading laptop must have these specs to handle trading software
+  Professional trading requires single-core CPU speed and Thunderbolt 4. This guide reveals the specs that eliminate chart lag and slippage
+  🔗 https://www.livemint.com/technology/gadgets/stop-buying-gaming-laptops-for-trading-your-trading-laptop-must-have-these-specs-to-handle-trading-software-11772447800994.html
+
+- Apple Launch Event 2026 LIVE Updates: iPhone 17e, entry-level MacBook likely to launch today
+  Apple's big week of launches is all set to kick off from today. The company could unveil new MacBooks, iPads and
+  🔗 https://www.livemint.com/technology/gadgets/apple-event-march-2026-live-updates-iphone-17e-low-cost-macbook-m5-macbook-pro-ipad-air-m4-price-india-11772445395988.html
+
+- Motorola Edge 70 Fusion full specifications revealed ahead of launch: here's what to expect
+  The Edge 70 Fusion features a 6.8-inch AMOLED display, Snapdragon 7s Gen 4 processor, 7
+  🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-fusion-full-specifications-revealed-ahead-of-launch-heres-what-to-expect-11772443489569.html
+
+- AI+ Pulse 2 with 120Hz display and 6,000mAh battery launched in India, price starts at  ₹5,999
+   AI+ has unveiled the Pulse 2 smartphone featuring an octa-core Unisoc T7250 processor, up to 6GB RAM, and a 6,000mAh
+  🔗 https://www.livemint.com/technology/gadgets/ai-pulse-2-with-120hz-display-and-6-000mah-battery-launched-in-india-price-starts-at-rs-5999-11772436193813.html
+
+- Stock market quote of the day by Peter Thiel | “The most contrarian thing of all is not to oppose the crowd but to think for yourself.”
+  True contrarian investing isn't about opposing the crowd, but about independent thought rooted in first principles. Genuine contrarians analyze fundamentals, not just market sentiment, to uncover overlooked risks or opportunities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-quote-of-the-day-by-peter-thiel-the-most-contrarian-thing-of-all-is-not-to-oppose-the-crowd-but-to-think-for-yourself-/articleshow/128942328.cms
+
+- ​Gainers &amp; Losers: Adani Ports, Tejas Networks and Indigo among 8 big movers on Monday
+  Middle East tensions, rising crude prices and defence orders drove intense sector-wide volatility. Eight key stocks — including big movers like Tejas Networks, Ad
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-ports-tejas-networks-and-indigo-among-8-big-movers-on-monday/slideshow/128946286.cms
+
+- Explained: What US‑Israel war on Iran means for Indian stocks and oil prices
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bring-on-defunct-the-ipod-enthralls-young-music-listeners-10560486/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/explained-what-usisrael-war-on-iran-means-for-indian-stocks-and-oil-prices/videoshow/128945465.cms
 
-- Hackers hit Iranian apps, websites after US-Israeli strikes
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hackers-hit-iranian-apps-websites-after-us-israeli-strikes-10560477/
+- Amid West Asia tensions, gold may hit $6,000/ounce, Nifty near-term returns can remain flat: Report
+  Gold prices could surge to USD 6,000 per troy ounce and rupee may weaken to 92-92.5 against USD if
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/amid-west-asia-tensions-gold-may-hit-6000/ounce-nifty-near-term-returns-can-remain-flat-report/articleshow/128945319.cms
 
-- Amazon’s cloud unit reports fire after objects hit UAE data center
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-10560474/
+- Fresh Middle East curve ball raises risks for weary world markets
+   conflict in the Middle East has moved from a fringe risk to a top worry for investors. The prospect of a power struggle in Iran and a protracted regional war has ramifications for everything from
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/analysis-fresh-middle-east-curve-ball-raises-risks-for-weary-world-markets/articleshow/128945043.cms
 
-- ‘Grok hasn’t driven anyone to suicide, ChatGPT has’: Elon Musk in OpenAI lawsuit deposition
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/grok-chatgpt-suicide-elon-musk-deposition-openai-10559901/
-
-- Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
-  Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset
+- India and Canada agree series of deals as Carney and Modi reset ties in Delhi - BBC
+  India and Canada agree series of deals as Carney and Modi reset ties
   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dExCUDczclBsRnRyMVVBLTRwTW91THVESHZQM0MxQzBEX2dhRF9qTTRPdE16T0pWMFMzOW5HZU1Jd3Rmc0plZEJGMWxSSjNKdVBMMA?oc=5
 
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict, may impact India's energy sector | India News - Hindustan Times
+  Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict. Crude
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNendhN0FoeGtGbFhvRFR5aHRPbldkZVF5RlpmbFVkQV94cVo3Mkhvd3VubWZHUVRVdU9yMlJuQ05oWjl2M1Q1eEQxTVlMQVB1SDVqbjgyR29ta1VlX2JUWjFWcFlIT29wNi0xbDJmY1dCenVCZml1M29pWExNbUZKVTNqeUVRVmFWbjR4SFhnaGRIbnk5WEdmS0J4dnBiUE1nN0xrMnlSWGFqTVpITG1UZ3J0MnpBR1pKcWc3S084cGNXQnhzX2QtWXpGdFkwRnBwdE1qSGU3M041VGx5VkluRFZ6a0UtMjNPTHlXVVVQX1paNnVxVVVVVGlkQVFIUVhWWEp5dzY3LVdLRS1nMzZGU9IBlgJBVV95cUxNOHZuZEgwVWtqM0poSkw0cThkMUY4dWhUYTVYUzBHenZXM2tfYVlocHJlU2RfQUtZSnVhVHVHYmRaQnlCcUhHdm5yMmNwWlNQbUlEYUlhVkx2Q1paZnJGTUVDbi1Ha2tFdlB3NnlfX1V3Sm1hT1lGcHFPajFkbERlVVpYRk54T2h5bXFrU3M2UUdzTmJVS3dNZlRNVXY4OFF6Q0l4MWdXNGV0X1pBelFvSVBRNlFNY2pVMWxLSW5MWXJjNnlkSDFCQm1OTzJrb3lxMnl6SFBwTnRBQmgweGtJS0Y1TDVqYkNmZm52OXhVQmtZZG95azhmZWdLQzFmdFZXa0M0Z2VrSi05Ynozc0doR0hoRFVPUQ?oc=5
 
-- Why Parsis Left Iran: Their Journey From Ancient Persia To India - NDTV
-  The Parsis left Iran for India in the
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDNyeGx2VjRQamFFUnk1aHQ4MU9IYUEyNTlsXzRDa2lMY0NmUngxLXU4d1YyUk9GU1RUQjZ5cEpXZjdHVGVOSms1eVQwNDFQYlUtYy1KQ21PN3JuQVh1UWZrMUFtN0tjM1dmMjEzR3ppYV9Na0ZoZ2puOFZHblVNaXdNX1dUVnM2SEwyTVhrSDRkUGwweUNWNzZfb0pUTmxYRFVTUFhRcDNRbGVvaWNMTXVzbzI5dDU1cnBOQVVsTW1td0l2cUFz0gHPAUFVX3lxTE45c0RLQ3NUV0hGV3JaejZGZDRnaVpzVGdFdGVUOEVUbHNBcHBKTUNYdzJqaTNMVW9jcU1tT3VHZ1QwQU1jTEktT3VHSC12WHlKQzkxRGVWNEFwRTlpRmptV3hSLWJRaWIzM1RlcVhhZWx0bXloVG1XYkd3NExXYzNYcjNOdlpLaElNN205NkJ1Sk1GQkJuZF8xWnBsVGZKQzA2Vl9VX3dMRTVTMTk5bl85ZU5XUDVma3NnUXBLYzBwZ3hWcHB3dmtBOVZQeml3bw?oc=5
+- Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast becomes a key destination - The Times of India
+  Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUEFDYnc4YnYtSnNpUUlRMzhHblFnem1JVUNLWXJHZ0lEUE1jdHZubVJFa3hOYjBRMUYzbkx4UjZQbzNKcUZLT05aWFVVeTN3QnBxa1pqbm41VDBzNTA1cmRrZEMzbFlpblFqTk9CS0p0QUpXOHhqOFAtVkF1eXVzanNzaDlhQm0yZEc0NGFHbDZqdDV4QVlfdzdwWElpNE1QUHg5aFN5VzFwTG1seVdKLWZ3QlN1eW4wUTF5WVMxa2hjelNSUG9nTlUyTDB2R2liSHVHSXRBVnV0NzJFcHFndWxkaEVNcDR1MFQ2aXVsOWhwbVJQSFJBSTYxLTlGX2hQQW4zZEhtZ9IBjAJBVV95cUxNeWhyamR4UDkwemhHb2RvUDJ5QzJ6Y0RIem5pZkdRTHg0YVdOSFlTa05CQkxqX01JT0pzVzFoS3U3QmFzaHVJRFBxNFBLQ3ZIVHNhU3ZoMUQ4eUhLdGJZNXhjSmdneXZhQkhzYU5TbjJMNC1KVExRcnQzQTlySk1zaFFSaHBRclV4d3Btc0ZqZnh0QkRqWThXYUFvcVprRHEyZTQwcVN0eGk0Z2R4QmZvRUNVNzZQMFJQYkNXV09tcUVQOG15ZEF6RFBBY1ZQV3JsNjJtcExpTUdQOG5KV3hqRU1WU2IySXMzdUtWUDE5T1ZsbXktRmZwbEZwMlRIRHVYZ081SXNVVFdDYkdl?oc=5
 
-- India Post GDS result 2026: List of official websites to check merit list - The Times of India
-  India Post GDS result 2026: List of official websites to check
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWR2U1VVSjVGYjBGdUpDT0NJMGl1Mlgya0JkRmpsSjI1a0hIWUVvZ0tYTjh1TDl1WEE2Q1cxLTFWdTJFYTl6WEVJcGs4eDljOWFXQnNxdjU3am5sQ3lMRlotRlh3c0VPR2F0RzVrTlVVcE5IMVFObDg4TlctVTd4SFBycTY1c1dDQ1lNSjJqZF9zdUszOFF6SUZib0s4enBIYmRPQTE5VkREUThURFVTMVBQdUt6Wnl1MjM1clBQcTlJdDhRSzhUaGxZSW1veUNLQ0Fkd2Y5YmFuVWtwakpFeFdYWdIB6AFBVV95cUxNTVd3NXN1Mk9yN3NXbi1aczRhY0lwVTE2a0lXbEZyMlhTYXIwME5fWkptVWJFTkJINmVndnB1RVZ0d2NDc0VfVnhxVmNQSWg1ZEkzLUlBSE9vZXRzaS1sX0JRUUg2NkFkWGdyWGxzSG5qa2QydUFCUFJiZU9wMnN2OFhDYmNIVl90MElRMlBqYUl4X01iTWdacm5scnpVM0hCVHZfaGtLXzhMYk5VeGFNRGZhdkJvQ3lFZTBFUmdMWUlhcXFLTEl6bzV6QXBHOUZCX2NjYS00cE9hY1BfQXdQUWFBd3U5aHBf?oc=5
+- India & US should move towards structured India - News On AIR
+  India & US should move towards structured India
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGNFUTgzMXBUNFY5dUhRcDNqNmxub2R1QVc2Q1IyVFFRT2hFY04tNmpMblIzREh5ajlNRE52NHhyQmZpNThWZnVNdmxlSnJsWGF2SjFsT1dWVGtqZDV1Y1hFeGhIR2JndlFyM2o3d0xUQjlLN0lWVWxCUVNNd0ZGUE1DMEczbTNQTGlKMkhmd3ZLUEYzdGZxeml5aXhTeTFPVGZxOGRWRGpnNUVVOWFKbEFERVJkWklLMnFreG9wRDZ0T094c3lwUEw1STFRVkc5akN0bVFvSkZTeGhhRFl2UVR0N2NhUmYtZHR1YXNDYw?oc=5
 
-- Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar - News On AIR
-  Air India Extends Flight Suspension to UAE, Saudi
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU16U2w3NlJXcVNkMTNydnVvOEE3QTJ1ams0SVlqcmxuSmx0M3p5OEkzWlhIQVBfY0xRWnVoMDZMbVhZUnM3VXZUZmxUc0pUT2Z1M2o0aEx0NWd0T19EYmdtNVduTjM0RHBCTlh6WXRuLVcxWWxXSE9oNHg0Q2lfaWFULU55ZUhqN01WbXJzNWVxbE1NVFVVc2NuLWNWZ1U?oc=5
+- Evening news wrap: Middle East tensions escalate; 3 F-15s crash in Kuwait, Indian national killed in Oman - The Times of India
+  The Times of India reports on the latest in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd29pRGx6Y1JTSzZiT1dHeWV2V3h0OU4wUU9VVjczYkVOUkFCYVdZRWU5Q2hkWmtFN1RJd2V6NThBUU1COGNkVXluZWdZdUY5Z1gxUm5XdnhGMHB1TnVZaUxWM0FqTnRHckFWWEk1YV9rbFROMzJqaU5ibXRIUHFKY2ViVFpxbjdJb1Y3VzNpYmk3ZlU1U1hKck9fWmRRaDlHYUctbWZCWkRGNXk3ckNjYWp0NTl1dEFQRnUtZmEybjE3YU1QUVRzNTBINFgxY2NhWFN4UmJzMXJKRzRfSjNrX2d1RUl1MnhTSFN0cHh2T185Mzc4V043QThoWlhzUHp2dDc5U2NfYXBoWFnSAZACQVVfeXFMUEVoMFM2UHlzMXNtREIyZU1iZzhrcHBiYXVIWlZQeWRkZnFYZTlMbWM4czkxaS1ud2pxQzhSQlpRdU11bzljTjhkUFNLNUhtbWVIQUJyNkJkS2ZXNmhUTi05Z1phWWZ2bER0T1lCcmhCVzgxQlJWZHU5aFhEZHloZ2Z1Q2tZYldwT2xSak4wLUxwSzJHcTV6djFuTjdRWnI2OU1UYWFtTUxpRFhjMkNxSTVEekNnanRaV0g5Y1BnOUVpaUhDaFFDNUFDQjNaZndQOE5wR3Z3Y0U3bXlZLXZ5WEVublhweWhKV1M5Ti16dkJYM0ExV0pPT1c4T1ItVjQwNEJvbzNnN0R3bHhlaW1xVHc?oc=5
 
-- Dow futures drop over 300 points as oil prices spike following U.S. attack on Iran: Live updates - CNBC
-  Dow futures drop over 300 points as oil prices spike following U.S
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE96ajBWdWw5MkM0U3k1c0kzS1BrcnVOcTl2a3hJN1lwbzdXMzNDa1M1cHEyaFNPOFEyUE42UmZNTVdKcGNQZzhUdFlOZWtwY3JaX3BfMVM4N1BDMFhUMnFTS0FTTXhNaERMTi1CRHBVbWJHaUVCZmfSAXtBVV95cUxPNDlYdUJSVzlRTnVtbC1lN2xYSGZ6NDJVTGZEaDlYUWhNanN5c0EtbkhZMHVJYmVOSkJ2NHJybS1XVWhVeVZRN004dFVnbXVkSFJkVlNzbENob1FDaWVyaFNDRzFYSGZfUW5rclBjNWV1NHpaRVJHWmk1bE0?oc=5
-
-- Asia airline stocks drop while energy shares rise as Iran conflict escalates - CNBC
-  Stock, Oil Prices Surge as Volatility Grips Financial Markets Amid Iran Developments. Oil Prices surge as Volatile Financial Markets amid Iran Development.
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEdldkhpaEswNTJTNDNtdFZzVl9zbDl4LUd4SEZjU1dXeVBtcmVCX3ExVmphNmlrSWNGdWkwU1ltSVAtVVR4X20wUnN0cmF0WTdmS0EtUE00bXB1bi1ZamxoaWJnRi0tZG9Gd1FVeGZVVmdhR0RpVEtfc3N0MFE1ZHhNclllWHNsZk55VFJGWFhjaUNrQkdFa1ZaMndCUHFWVzB4c0RxTTRLQk1nb21vYnVKTEZfUdIBuwFBVV95cUxQZlBxUDFkMkJIS09JZFZ5QmJQcHRuclJNV2dXSjI2Mmswa0FYZ1VIQUNlbnFyUnVaUXFoUDFyS0VPRVh5dXhvNFJDUUdqZzgwUWhCakZESjBDV1FtcHJldHJveVhvWUc3eGZzOG9NdkYzcktUdmZGRlJ1VGp1YVgzUVdHTzJDek95cEVDRFZxX1ZGZTF5LTRObUJ0XzN2NlFzV05mcTh1aG1vZS1DM3VpUGdreFdGTU9iaHNF?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex sinks over 1,300 pts on Mideast turmoil, Nift... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxOVTE5czNQLXdJQTJocWlSY3FIZzkwWEZzeDZhcWFxM0lPVDFvMDRlYTVQeloyNXhaTGQ4R0FYX3N2ckszcmtFSktnd2djdnJxNWk4UW95Wlo0VHF3Z2dsMDBSaUpXeHh6X1
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOVTE5czNQLXdJQTJocWlSY3FIZzkwWEZzeDZhcWFxM0lPVDFvMDRlYTVQeloyNXhaTGQ4R0FYX3N2ckszcmtFSktnd2djdnJxNWk4UW95Wlo0VHF3Z2dsMDBSaUpXeHh6X1h4V2tHSUJLWGxyZkptaDNyTHRVQ28wMjBWM1VuU2dOT01VaENHX0x1Zk9KZk9mUmlJYU1ubUl5T3lLcUM3QzNYMXNzd2lnckJRX1JXX0hmMlJ1Q0U0bENZS0dVR3VRNEV0WTgySFViT3lRU3c5ODZYOC1zT0ZMdEdRLU1YSXZSYURSSjhJUzY5cnFoVk1WWWRTQjFwMi1oN1HSAYcCQVVfeXFMT2lnb3QxRmw4WVNpa2NLMUg1b195c3FJMjJSQl9KRndtZUs1MVdtQm5KNTVnZW9ZTjNmdERXbnpKUkN6TlJ3enM0N1NzSzFGMHpoLTh3bVlONFk4djJ3UXlLd3QwWG5Zb3RSYzNSMUNscXRCQmdBWU9iTGZmZHpUWWJ0bjhLVUVxT0laYW40NFM4a1VucUxfWW9WWUZELVgzZFFLWHpHQnVsbTl0a3g4N3hsdEVabVg1MXE3TEdLdTk4YmxJNFhmVmY1Yjd6dEg5VDhSMHJuV2ptVm8zVnZjWDd0cUMyNGVJekwwaHY1QUNBV2pSeFZjNUlydmRJYkJDWGxzemVKTkU?oc=5
-
-- The war and markets - Financial Times
-  The Financial Times
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFA2M2NQUGk2WDIwNUNCMTdIZHNRNERTUEVOdFhmaF93Y2RteVBuZGprWnRaOHR5dGxIanBOalhlRXFEQVpBWFlkNWFuOG1IdF82dm9LRUs1WkJISU1WLV9MMkx1U2FLdkVzLW9peHpGZk8?oc=5
-
-- Rupee falls to one-month low, equities slump as Iran war jolts markets - Reuters
-  Rupee falls to one-month low, equ
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWFLb1JGMjRDRHZ3NzB4MjJXRHR0cktIWk11QnA4aE1xeGxwVVd4QUExc1BsLVN3VjV5TjVJa2stS2wzanpCakRsY296ZUN1Z1pkazZNeGNScjJlelBkYXVlMWJ4LWhPREpzVlZWT3EyS3BSUVRTdVNFN092TjBIMjlmLWJtaGxLdVhhUWdJMThDSG5VWEZ0T3REQWZUVm1sWTVKd3V6LTJSb0c0?oc=5
-
-- Amid ‘Cancel ChatGPT’ trend, Anthropic launches feature to help users switch to Claude
-  Anthropic has launched a new import memory feature for Claude. The feature allows paid users to bring memories from other AI chatbots.
-  🔗 https://www.livemint.com/technology/tech-news/amid-cancel-chatgpt-trend-anthropic-launches-feature-to-help-users-switch-to-claude-11772424188496.html
-
-- Apple's ‘big week’ announcements begin from today: iPhone 17e, new iPads, budget MacBook and everything expected
-  CEO Tim Cook has hinted at a multi-day launch starting 2 March, which could conclude with the event on 4 March. Apple plans to unveil several new products this
-  🔗 https://www.livemint.com/technology/tech-news/apples-big-week-announcements-begin-from-today-today-iphone-17e-new-ipads-budget-macbook-and-everything-expected-11772420154057.html
-
-- Nothing Phone 4a and 4a Pro launching on 5 March: Design, expected specs and more
-  The Phone 4a will likely include a Snapdragon 7s Gen 4 processor, a triple camera setup along with a 6.78 inch OLED display. The launch event is also likely to see the unveling of new Headphone (a
-  🔗 https://www.livemint.com/technology/gadgets/nothing-phone-4a-and-4a-pro-launching-on-5-march-design-expected-specs-and-more-11772366311005.html
-
-- OpenAI defends rival Anthropic against Pentagon ban, Sam Altman calls it ‘extremely scary precedent’
-  OpenAI CEO Sam Altman expressed concerns over the US government's ban on rival Anthropic. Despite OpenAI's past tensions with Anthropic, Altman
-  🔗 https://www.livemint.com/technology/tech-news/openai-defends-rival-anthropic-against-pentagon-ban-sam-altman-calls-it-extremely-scary-precedent-11772358073748.html
-
-- Did Grok predict US attack on Iran? Elon Musk claims victory for xAI after viral test
-  Elon Musk's Grok chatbot uniquely predicted the date of the US strike on Iran as 28 February 2026.
-  🔗 https://www.livemint.com/technology/tech-news/did-grok-predict-us-attack-on-iran-elon-musk-claims-victory-for-xai-after-viral-test-11772358748837.html
-
-- Iran-Israel war: Over 30 listed Indian companies face Middle East exposure risk. Are you holding these stocks?
-  More than 30 listed Indian companies face rising geopolitical risk. Exposure spans infrastructure, aviation, energy, logistics and consumer sectors. Crude volatility and trade disruption emerging as key pressure points for Corporate India.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iran-israel-war-over-30-listed-indian-companies-face-middle-east-exposure-risk-are-you-holding-these-stocks/articleshow/128939432.cms
-
-- SEBI deploys AI tool 'Sudarshan', removes 1.2 lakh misleading 'finfluencer' posts: Tuhin Kanta Pandey
-  SEBI has removed over 1.2 lakh misleading posts by unregistered financial influencers. Using an AI tool named Sudarshan, SEBI tracks violations in the digital space.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-deploys-ai-tool-sudarshan-removes-1-2-lakh-misleading-finfluencer-posts-tuhin-kanta-pandey/articleshow/128939153.cms
-
-- Global Markets | Crude markets on edge as Middle East tensions mount: What’s next for oil prices?
-  Brent crude sees wild price swings due to geopolitical developments in the Middle East. Potential disruptions to the Strait of Hormuz threatening significant oil and LNG flows. Investors brace for continued volatility as diplomatic efforts and supply route security remain critical
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-crude-markets-on-edge-as-middle-east-tensions-mount-whats-next-for-oil-prices/articleshow/128939077.cms
-
-- Global markets show resilience amid Middle East tensions: Matt Orton
-  Global markets opened this week with limited declines despite Middle East tensions. Crude prices eased from initial jumps, with the Strait of Hormuz's future being a key
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-show-resilience-amid-middle-east-tensions-matt-orton/articleshow/128938584.cms
-
-- Asian Paints, other paint stocks plunge up to 6% as Israel-Iran war fuels rally in crude oil prices: What lies ahead?
-  Asian Paints and Indigo Paints plunged up to 6% as crude oil prices surged. The conflict, particularly around the Strait of Hormuz, has raised concerns about oil supply disruptions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-other-paint-stocks-plunge-up-to-6-as-israel-iran-war-fuels-rally-in-crude-oil-prices-what-lies-ahead/articleshow/128938387.cms
-
-- Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
-  Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset
+- India and Canada agree series of deals as Carney and Modi reset ties in Delhi - BBC
+  India and Canada agree series of deals as Carney and Modi reset ties
   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dExCUDczclBsRnRyMVVBLTRwTW91THVESHZQM0MxQzBEX2dhRF9qTTRPdE16T0pWMFMzOW5HZU1Jd3Rmc0plZEJGMWxSSjNKdVBMMA?oc=5
 
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict, may impact India's energy sector | India News - Hindustan Times
+  Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict. Crude
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNendhN0FoeGtGbFhvRFR5aHRPbldkZVF5RlpmbFVkQV94cVo3Mkhvd3VubWZHUVRVdU9yMlJuQ05oWjl2M1Q1eEQxTVlMQVB1SDVqbjgyR29ta1VlX2JUWjFWcFlIT29wNi0xbDJmY1dCenVCZml1M29pWExNbUZKVTNqeUVRVmFWbjR4SFhnaGRIbnk5WEdmS0J4dnBiUE1nN0xrMnlSWGFqTVpITG1UZ3J0MnpBR1pKcWc3S084cGNXQnhzX2QtWXpGdFkwRnBwdE1qSGU3M041VGx5VkluRFZ6a0UtMjNPTHlXVVVQX1paNnVxVVVVVGlkQVFIUVhWWEp5dzY3LVdLRS1nMzZGU9IBlgJBVV95cUxNOHZuZEgwVWtqM0poSkw0cThkMUY4dWhUYTVYUzBHenZXM2tfYVlocHJlU2RfQUtZSnVhVHVHYmRaQnlCcUhHdm5yMmNwWlNQbUlEYUlhVkx2Q1paZnJGTUVDbi1Ha2tFdlB3NnlfX1V3Sm1hT1lGcHFPajFkbERlVVpYRk54T2h5bXFrU3M2UUdzTmJVS3dNZlRNVXY4OFF6Q0l4MWdXNGV0X1pBelFvSVBRNlFNY2pVMWxLSW5MWXJjNnlkSDFCQm1OTzJrb3lxMnl6SFBwTnRBQmgweGtJS0Y1TDVqYkNmZm52OXhVQmtZZG95azhmZWdLQzFmdFZXa0M0Z2VrSi05Ynozc0doR0hoRFVPUQ?oc=5
 
-- Why Parsis Left Iran: Their Journey From Ancient Persia To India - NDTV
-  The Parsis left Iran for India in the
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDNyeGx2VjRQamFFUnk1aHQ4MU9IYUEyNTlsXzRDa2lMY0NmUngxLXU4d1YyUk9GU1RUQjZ5cEpXZjdHVGVOSms1eVQwNDFQYlUtYy1KQ21PN3JuQVh1UWZrMUFtN0tjM1dmMjEzR3ppYV9Na0ZoZ2puOFZHblVNaXdNX1dUVnM2SEwyTVhrSDRkUGwweUNWNzZfb0pUTmxYRFVTUFhRcDNRbGVvaWNMTXVzbzI5dDU1cnBOQVVsTW1td0l2cUFz0gHPAUFVX3lxTE45c0RLQ3NUV0hGV3JaejZGZDRnaVpzVGdFdGVUOEVUbHNBcHBKTUNYdzJqaTNMVW9jcU1tT3VHZ1QwQU1jTEktT3VHSC12WHlKQzkxRGVWNEFwRTlpRmptV3hSLWJRaWIzM1RlcVhhZWx0bXloVG1XYkd3NExXYzNYcjNOdlpLaElNN205NkJ1Sk1GQkJuZF8xWnBsVGZKQzA2Vl9VX3dMRTVTMTk5bl85ZU5XUDVma3NnUXBLYzBwZ3hWcHB3dmtBOVZQeml3bw?oc=5
+- Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast becomes a key destination - The Times of India
+  Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUEFDYnc4YnYtSnNpUUlRMzhHblFnem1JVUNLWXJHZ0lEUE1jdHZubVJFa3hOYjBRMUYzbkx4UjZQbzNKcUZLT05aWFVVeTN3QnBxa1pqbm41VDBzNTA1cmRrZEMzbFlpblFqTk9CS0p0QUpXOHhqOFAtVkF1eXVzanNzaDlhQm0yZEc0NGFHbDZqdDV4QVlfdzdwWElpNE1QUHg5aFN5VzFwTG1seVdKLWZ3QlN1eW4wUTF5WVMxa2hjelNSUG9nTlUyTDB2R2liSHVHSXRBVnV0NzJFcHFndWxkaEVNcDR1MFQ2aXVsOWhwbVJQSFJBSTYxLTlGX2hQQW4zZEhtZ9IBjAJBVV95cUxNeWhyamR4UDkwemhHb2RvUDJ5QzJ6Y0RIem5pZkdRTHg0YVdOSFlTa05CQkxqX01JT0pzVzFoS3U3QmFzaHVJRFBxNFBLQ3ZIVHNhU3ZoMUQ4eUhLdGJZNXhjSmdneXZhQkhzYU5TbjJMNC1KVExRcnQzQTlySk1zaFFSaHBRclV4d3Btc0ZqZnh0QkRqWThXYUFvcVprRHEyZTQwcVN0eGk0Z2R4QmZvRUNVNzZQMFJQYkNXV09tcUVQOG15ZEF6RFBBY1ZQV3JsNjJtcExpTUdQOG5KV3hqRU1WU2IySXMzdUtWUDE5T1ZsbXktRmZwbEZwMlRIRHVYZ081SXNVVFdDYkdl?oc=5
 
-- India Post GDS result 2026: List of official websites to check merit list - The Times of India
-  India Post GDS result 2026: List of official websites to check
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWR2U1VVSjVGYjBGdUpDT0NJMGl1Mlgya0JkRmpsSjI1a0hIWUVvZ0tYTjh1TDl1WEE2Q1cxLTFWdTJFYTl6WEVJcGs4eDljOWFXQnNxdjU3am5sQ3lMRlotRlh3c0VPR2F0RzVrTlVVcE5IMVFObDg4TlctVTd4SFBycTY1c1dDQ1lNSjJqZF9zdUszOFF6SUZib0s4enBIYmRPQTE5VkREUThURFVTMVBQdUt6Wnl1MjM1clBQcTlJdDhRSzhUaGxZSW1veUNLQ0Fkd2Y5YmFuVWtwakpFeFdYWdIB6AFBVV95cUxNTVd3NXN1Mk9yN3NXbi1aczRhY0lwVTE2a0lXbEZyMlhTYXIwME5fWkptVWJFTkJINmVndnB1RVZ0d2NDc0VfVnhxVmNQSWg1ZEkzLUlBSE9vZXRzaS1sX0JRUUg2NkFkWGdyWGxzSG5qa2QydUFCUFJiZU9wMnN2OFhDYmNIVl90MElRMlBqYUl4X01iTWdacm5scnpVM0hCVHZfaGtLXzhMYk5VeGFNRGZhdkJvQ3lFZTBFUmdMWUlhcXFLTEl6bzV6QXBHOUZCX2NjYS00cE9hY1BfQXdQUWFBd3U5aHBf?oc=5
+- India & US should move towards structured India - News On AIR
+  India & US should move towards structured India
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGNFUTgzMXBUNFY5dUhRcDNqNmxub2R1QVc2Q1IyVFFRT2hFY04tNmpMblIzREh5ajlNRE52NHhyQmZpNThWZnVNdmxlSnJsWGF2SjFsT1dWVGtqZDV1Y1hFeGhIR2JndlFyM2o3d0xUQjlLN0lWVWxCUVNNd0ZGUE1DMEczbTNQTGlKMkhmd3ZLUEYzdGZxeml5aXhTeTFPVGZxOGRWRGpnNUVVOWFKbEFERVJkWklLMnFreG9wRDZ0T094c3lwUEw1STFRVkc5akN0bVFvSkZTeGhhRFl2UVR0N2NhUmYtZHR1YXNDYw?oc=5
 
-- Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar - News On AIR
-  Air India Extends Flight Suspension to UAE, Saudi
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU16U2w3NlJXcVNkMTNydnVvOEE3QTJ1ams0SVlqcmxuSmx0M3p5OEkzWlhIQVBfY0xRWnVoMDZMbVhZUnM3VXZUZmxUc0pUT2Z1M2o0aEx0NWd0T19EYmdtNVduTjM0RHBCTlh6WXRuLVcxWWxXSE9oNHg0Q2lfaWFULU55ZUhqN01WbXJzNWVxbE1NVFVVc2NuLWNWZ1U?oc=5
+- Evening news wrap: Middle East tensions escalate; 3 F-15s crash in Kuwait, Indian national killed in Oman - The Times of India
+  The Times of India reports on the latest in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd29pRGx6Y1JTSzZiT1dHeWV2V3h0OU4wUU9VVjczYkVOUkFCYVdZRWU5Q2hkWmtFN1RJd2V6NThBUU1COGNkVXluZWdZdUY5Z1gxUm5XdnhGMHB1TnVZaUxWM0FqTnRHckFWWEk1YV9rbFROMzJqaU5ibXRIUHFKY2ViVFpxbjdJb1Y3VzNpYmk3ZlU1U1hKck9fWmRRaDlHYUctbWZCWkRGNXk3ckNjYWp0NTl1dEFQRnUtZmEybjE3YU1QUVRzNTBINFgxY2NhWFN4UmJzMXJKRzRfSjNrX2d1RUl1MnhTSFN0cHh2T185Mzc4V043QThoWlhzUHp2dDc5U2NfYXBoWFnSAZACQVVfeXFMUEVoMFM2UHlzMXNtREIyZU1iZzhrcHBiYXVIWlZQeWRkZnFYZTlMbWM4czkxaS1ud2pxQzhSQlpRdU11bzljTjhkUFNLNUhtbWVIQUJyNkJkS2ZXNmhUTi05Z1phWWZ2bER0T1lCcmhCVzgxQlJWZHU5aFhEZHloZ2Z1Q2tZYldwT2xSak4wLUxwSzJHcTV6djFuTjdRWnI2OU1UYWFtTUxpRFhjMkNxSTVEekNnanRaV0g5Y1BnOUVpaUhDaFFDNUFDQjNaZndQOE5wR3Z3Y0U3bXlZLXZ5WEVublhweWhKV1M5Ti16dkJYM0ExV0pPT1c4T1ItVjQwNEJvbzNnN0R3bHhlaW1xVHc?oc=5
 
-- Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
-  Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset
+- India and Canada agree series of deals as Carney and Modi reset ties in Delhi - BBC
+  India and Canada agree series of deals as Carney and Modi reset ties
   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dExCUDczclBsRnRyMVVBLTRwTW91THVESHZQM0MxQzBEX2dhRF9qTTRPdE16T0pWMFMzOW5HZU1Jd3Rmc0plZEJGMWxSSjNKdVBMMA?oc=5
 
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict, may impact India's energy sector | India News - Hindustan Times
+  Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict. Crude
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNendhN0FoeGtGbFhvRFR5aHRPbldkZVF5RlpmbFVkQV94cVo3Mkhvd3VubWZHUVRVdU9yMlJuQ05oWjl2M1Q1eEQxTVlMQVB1SDVqbjgyR29ta1VlX2JUWjFWcFlIT29wNi0xbDJmY1dCenVCZml1M29pWExNbUZKVTNqeUVRVmFWbjR4SFhnaGRIbnk5WEdmS0J4dnBiUE1nN0xrMnlSWGFqTVpITG1UZ3J0MnpBR1pKcWc3S084cGNXQnhzX2QtWXpGdFkwRnBwdE1qSGU3M041VGx5VkluRFZ6a0UtMjNPTHlXVVVQX1paNnVxVVVVVGlkQVFIUVhWWEp5dzY3LVdLRS1nMzZGU9IBlgJBVV95cUxNOHZuZEgwVWtqM0poSkw0cThkMUY4dWhUYTVYUzBHenZXM2tfYVlocHJlU2RfQUtZSnVhVHVHYmRaQnlCcUhHdm5yMmNwWlNQbUlEYUlhVkx2Q1paZnJGTUVDbi1Ha2tFdlB3NnlfX1V3Sm1hT1lGcHFPajFkbERlVVpYRk54T2h5bXFrU3M2UUdzTmJVS3dNZlRNVXY4OFF6Q0l4MWdXNGV0X1pBelFvSVBRNlFNY2pVMWxLSW5MWXJjNnlkSDFCQm1OTzJrb3lxMnl6SFBwTnRBQmgweGtJS0Y1TDVqYkNmZm52OXhVQmtZZG95azhmZWdLQzFmdFZXa0M0Z2VrSi05Ynozc0doR0hoRFVPUQ?oc=5
 
-- Why Parsis Left Iran: Their Journey From Ancient Persia To India - NDTV
-  The Parsis left Iran for India in the
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDNyeGx2VjRQamFFUnk1aHQ4MU9IYUEyNTlsXzRDa2lMY0NmUngxLXU4d1YyUk9GU1RUQjZ5cEpXZjdHVGVOSms1eVQwNDFQYlUtYy1KQ21PN3JuQVh1UWZrMUFtN0tjM1dmMjEzR3ppYV9Na0ZoZ2puOFZHblVNaXdNX1dUVnM2SEwyTVhrSDRkUGwweUNWNzZfb0pUTmxYRFVTUFhRcDNRbGVvaWNMTXVzbzI5dDU1cnBOQVVsTW1td0l2cUFz0gHPAUFVX3lxTE45c0RLQ3NUV0hGV3JaejZGZDRnaVpzVGdFdGVUOEVUbHNBcHBKTUNYdzJqaTNMVW9jcU1tT3VHZ1QwQU1jTEktT3VHSC12WHlKQzkxRGVWNEFwRTlpRmptV3hSLWJRaWIzM1RlcVhhZWx0bXloVG1XYkd3NExXYzNYcjNOdlpLaElNN205NkJ1Sk1GQkJuZF8xWnBsVGZKQzA2Vl9VX3dMRTVTMTk5bl85ZU5XUDVma3NnUXBLYzBwZ3hWcHB3dmtBOVZQeml3bw?oc=5
+- Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast becomes a key destination - The Times of India
+  Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUEFDYnc4YnYtSnNpUUlRMzhHblFnem1JVUNLWXJHZ0lEUE1jdHZubVJFa3hOYjBRMUYzbkx4UjZQbzNKcUZLT05aWFVVeTN3QnBxa1pqbm41VDBzNTA1cmRrZEMzbFlpblFqTk9CS0p0QUpXOHhqOFAtVkF1eXVzanNzaDlhQm0yZEc0NGFHbDZqdDV4QVlfdzdwWElpNE1QUHg5aFN5VzFwTG1seVdKLWZ3QlN1eW4wUTF5WVMxa2hjelNSUG9nTlUyTDB2R2liSHVHSXRBVnV0NzJFcHFndWxkaEVNcDR1MFQ2aXVsOWhwbVJQSFJBSTYxLTlGX2hQQW4zZEhtZ9IBjAJBVV95cUxNeWhyamR4UDkwemhHb2RvUDJ5QzJ6Y0RIem5pZkdRTHg0YVdOSFlTa05CQkxqX01JT0pzVzFoS3U3QmFzaHVJRFBxNFBLQ3ZIVHNhU3ZoMUQ4eUhLdGJZNXhjSmdneXZhQkhzYU5TbjJMNC1KVExRcnQzQTlySk1zaFFSaHBRclV4d3Btc0ZqZnh0QkRqWThXYUFvcVprRHEyZTQwcVN0eGk0Z2R4QmZvRUNVNzZQMFJQYkNXV09tcUVQOG15ZEF6RFBBY1ZQV3JsNjJtcExpTUdQOG5KV3hqRU1WU2IySXMzdUtWUDE5T1ZsbXktRmZwbEZwMlRIRHVYZ081SXNVVFdDYkdl?oc=5
 
-- India Post GDS result 2026: List of official websites to check merit list - The Times of India
-  India Post GDS result 2026: List of official websites to check
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWR2U1VVSjVGYjBGdUpDT0NJMGl1Mlgya0JkRmpsSjI1a0hIWUVvZ0tYTjh1TDl1WEE2Q1cxLTFWdTJFYTl6WEVJcGs4eDljOWFXQnNxdjU3am5sQ3lMRlotRlh3c0VPR2F0RzVrTlVVcE5IMVFObDg4TlctVTd4SFBycTY1c1dDQ1lNSjJqZF9zdUszOFF6SUZib0s4enBIYmRPQTE5VkREUThURFVTMVBQdUt6Wnl1MjM1clBQcTlJdDhRSzhUaGxZSW1veUNLQ0Fkd2Y5YmFuVWtwakpFeFdYWdIB6AFBVV95cUxNTVd3NXN1Mk9yN3NXbi1aczRhY0lwVTE2a0lXbEZyMlhTYXIwME5fWkptVWJFTkJINmVndnB1RVZ0d2NDc0VfVnhxVmNQSWg1ZEkzLUlBSE9vZXRzaS1sX0JRUUg2NkFkWGdyWGxzSG5qa2QydUFCUFJiZU9wMnN2OFhDYmNIVl90MElRMlBqYUl4X01iTWdacm5scnpVM0hCVHZfaGtLXzhMYk5VeGFNRGZhdkJvQ3lFZTBFUmdMWUlhcXFLTEl6bzV6QXBHOUZCX2NjYS00cE9hY1BfQXdQUWFBd3U5aHBf?oc=5
+- India & US should move towards structured India - News On AIR
+  India & US should move towards structured India
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGNFUTgzMXBUNFY5dUhRcDNqNmxub2R1QVc2Q1IyVFFRT2hFY04tNmpMblIzREh5ajlNRE52NHhyQmZpNThWZnVNdmxlSnJsWGF2SjFsT1dWVGtqZDV1Y1hFeGhIR2JndlFyM2o3d0xUQjlLN0lWVWxCUVNNd0ZGUE1DMEczbTNQTGlKMkhmd3ZLUEYzdGZxeml5aXhTeTFPVGZxOGRWRGpnNUVVOWFKbEFERVJkWklLMnFreG9wRDZ0T094c3lwUEw1STFRVkc5akN0bVFvSkZTeGhhRFl2UVR0N2NhUmYtZHR1YXNDYw?oc=5
 
-- Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar - News On AIR
-  Air India Extends Flight Suspension to UAE, Saudi
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU16U2w3NlJXcVNkMTNydnVvOEE3QTJ1ams0SVlqcmxuSmx0M3p5OEkzWlhIQVBfY0xRWnVoMDZMbVhZUnM3VXZUZmxUc0pUT2Z1M2o0aEx0NWd0T19EYmdtNVduTjM0RHBCTlh6WXRuLVcxWWxXSE9oNHg0Q2lfaWFULU55ZUhqN01WbXJzNWVxbE1NVFVVc2NuLWNWZ1U?oc=5
+- Evening news wrap: Middle East tensions escalate; 3 F-15s crash in Kuwait, Indian national killed in Oman - The Times of India
+  The Times of India reports on the latest in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd29pRGx6Y1JTSzZiT1dHeWV2V3h0OU4wUU9VVjczYkVOUkFCYVdZRWU5Q2hkWmtFN1RJd2V6NThBUU1COGNkVXluZWdZdUY5Z1gxUm5XdnhGMHB1TnVZaUxWM0FqTnRHckFWWEk1YV9rbFROMzJqaU5ibXRIUHFKY2ViVFpxbjdJb1Y3VzNpYmk3ZlU1U1hKck9fWmRRaDlHYUctbWZCWkRGNXk3ckNjYWp0NTl1dEFQRnUtZmEybjE3YU1QUVRzNTBINFgxY2NhWFN4UmJzMXJKRzRfSjNrX2d1RUl1MnhTSFN0cHh2T185Mzc4V043QThoWlhzUHp2dDc5U2NfYXBoWFnSAZACQVVfeXFMUEVoMFM2UHlzMXNtREIyZU1iZzhrcHBiYXVIWlZQeWRkZnFYZTlMbWM4czkxaS1ud2pxQzhSQlpRdU11bzljTjhkUFNLNUhtbWVIQUJyNkJkS2ZXNmhUTi05Z1phWWZ2bER0T1lCcmhCVzgxQlJWZHU5aFhEZHloZ2Z1Q2tZYldwT2xSak4wLUxwSzJHcTV6djFuTjdRWnI2OU1UYWFtTUxpRFhjMkNxSTVEekNnanRaV0g5Y1BnOUVpaUhDaFFDNUFDQjNaZndQOE5wR3Z3Y0U3bXlZLXZ5WEVublhweWhKV1M5Ti16dkJYM0ExV0pPT1c4T1ItVjQwNEJvbzNnN0R3bHhlaW1xVHc?oc=5
 
-- Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
-  Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset
+- India and Canada agree series of deals as Carney and Modi reset ties in Delhi - BBC
+  India and Canada agree series of deals as Carney and Modi reset ties
   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dExCUDczclBsRnRyMVVBLTRwTW91THVESHZQM0MxQzBEX2dhRF9qTTRPdE16T0pWMFMzOW5HZU1Jd3Rmc0plZEJGMWxSSjNKdVBMMA?oc=5
 
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
+- Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict, may impact India's energy sector | India News - Hindustan Times
+  Iran-US war impact on India LIVE: Crude prices climb amid amid West Asia conflict. Crude
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNendhN0FoeGtGbFhvRFR5aHRPbldkZVF5RlpmbFVkQV94cVo3Mkhvd3VubWZHUVRVdU9yMlJuQ05oWjl2M1Q1eEQxTVlMQVB1SDVqbjgyR29ta1VlX2JUWjFWcFlIT29wNi0xbDJmY1dCenVCZml1M29pWExNbUZKVTNqeUVRVmFWbjR4SFhnaGRIbnk5WEdmS0J4dnBiUE1nN0xrMnlSWGFqTVpITG1UZ3J0MnpBR1pKcWc3S084cGNXQnhzX2QtWXpGdFkwRnBwdE1qSGU3M041VGx5VkluRFZ6a0UtMjNPTHlXVVVQX1paNnVxVVVVVGlkQVFIUVhWWEp5dzY3LVdLRS1nMzZGU9IBlgJBVV95cUxNOHZuZEgwVWtqM0poSkw0cThkMUY4dWhUYTVYUzBHenZXM2tfYVlocHJlU2RfQUtZSnVhVHVHYmRaQnlCcUhHdm5yMmNwWlNQbUlEYUlhVkx2Q1paZnJGTUVDbi1Ha2tFdlB3NnlfX1V3Sm1hT1lGcHFPajFkbERlVVpYRk54T2h5bXFrU3M2UUdzTmJVS3dNZlRNVXY4OFF6Q0l4MWdXNGV0X1pBelFvSVBRNlFNY2pVMWxLSW5MWXJjNnlkSDFCQm1OTzJrb3lxMnl6SFBwTnRBQmgweGtJS0Y1TDVqYkNmZm52OXhVQmtZZG95azhmZWdLQzFmdFZXa0M0Z2VrSi05Ynozc0doR0hoRFVPUQ?oc=5
 
-- Why Parsis Left Iran: Their Journey From Ancient Persia To India - NDTV
-  The Parsis left Iran for India in the
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDNyeGx2VjRQamFFUnk1aHQ4MU9IYUEyNTlsXzRDa2lMY0NmUngxLXU4d1YyUk9GU1RUQjZ5cEpXZjdHVGVOSms1eVQwNDFQYlUtYy1KQ21PN3JuQVh1UWZrMUFtN0tjM1dmMjEzR3ppYV9Na0ZoZ2puOFZHblVNaXdNX1dUVnM2SEwyTVhrSDRkUGwweUNWNzZfb0pUTmxYRFVTUFhRcDNRbGVvaWNMTXVzbzI5dDU1cnBOQVVsTW1td0l2cUFz0gHPAUFVX3lxTE45c0RLQ3NUV0hGV3JaejZGZDRnaVpzVGdFdGVUOEVUbHNBcHBKTUNYdzJqaTNMVW9jcU1tT3VHZ1QwQU1jTEktT3VHSC12WHlKQzkxRGVWNEFwRTlpRmptV3hSLWJRaWIzM1RlcVhhZWx0bXloVG1XYkd3NExXYzNYcjNOdlpLaElNN205NkJ1Sk1GQkJuZF8xWnBsVGZKQzA2Vl9VX3dMRTVTMTk5bl85ZU5XUDVma3NnUXBLYzBwZ3hWcHB3dmtBOVZQeml3bw?oc=5
+- Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast becomes a key destination - The Times of India
+  Sea cows of India: Best places to see dugongs as Tamil Nadu’s coast
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPUEFDYnc4YnYtSnNpUUlRMzhHblFnem1JVUNLWXJHZ0lEUE1jdHZubVJFa3hOYjBRMUYzbkx4UjZQbzNKcUZLT05aWFVVeTN3QnBxa1pqbm41VDBzNTA1cmRrZEMzbFlpblFqTk9CS0p0QUpXOHhqOFAtVkF1eXVzanNzaDlhQm0yZEc0NGFHbDZqdDV4QVlfdzdwWElpNE1QUHg5aFN5VzFwTG1seVdKLWZ3QlN1eW4wUTF5WVMxa2hjelNSUG9nTlUyTDB2R2liSHVHSXRBVnV0NzJFcHFndWxkaEVNcDR1MFQ2aXVsOWhwbVJQSFJBSTYxLTlGX2hQQW4zZEhtZ9IBjAJBVV95cUxNeWhyamR4UDkwemhHb2RvUDJ5QzJ6Y0RIem5pZkdRTHg0YVdOSFlTa05CQkxqX01JT0pzVzFoS3U3QmFzaHVJRFBxNFBLQ3ZIVHNhU3ZoMUQ4eUhLdGJZNXhjSmdneXZhQkhzYU5TbjJMNC1KVExRcnQzQTlySk1zaFFSaHBRclV4d3Btc0ZqZnh0QkRqWThXYUFvcVprRHEyZTQwcVN0eGk0Z2R4QmZvRUNVNzZQMFJQYkNXV09tcUVQOG15ZEF6RFBBY1ZQV3JsNjJtcExpTUdQOG5KV3hqRU1WU2IySXMzdUtWUDE5T1ZsbXktRmZwbEZwMlRIRHVYZ081SXNVVFdDYkdl?oc=5
 
-- India Post GDS result 2026: List of official websites to check merit list - The Times of India
-  India Post GDS result 2026: List of official websites to check
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWR2U1VVSjVGYjBGdUpDT0NJMGl1Mlgya0JkRmpsSjI1a0hIWUVvZ0tYTjh1TDl1WEE2Q1cxLTFWdTJFYTl6WEVJcGs4eDljOWFXQnNxdjU3am5sQ3lMRlotRlh3c0VPR2F0RzVrTlVVcE5IMVFObDg4TlctVTd4SFBycTY1c1dDQ1lNSjJqZF9zdUszOFF6SUZib0s4enBIYmRPQTE5VkREUThURFVTMVBQdUt6Wnl1MjM1clBQcTlJdDhRSzhUaGxZSW1veUNLQ0Fkd2Y5YmFuVWtwakpFeFdYWdIB6AFBVV95cUxNTVd3NXN1Mk9yN3NXbi1aczRhY0lwVTE2a0lXbEZyMlhTYXIwME5fWkptVWJFTkJINmVndnB1RVZ0d2NDc0VfVnhxVmNQSWg1ZEkzLUlBSE9vZXRzaS1sX0JRUUg2NkFkWGdyWGxzSG5qa2QydUFCUFJiZU9wMnN2OFhDYmNIVl90MElRMlBqYUl4X01iTWdacm5scnpVM0hCVHZfaGtLXzhMYk5VeGFNRGZhdkJvQ3lFZTBFUmdMWUlhcXFLTEl6bzV6QXBHOUZCX2NjYS00cE9hY1BfQXdQUWFBd3U5aHBf?oc=5
+- India & US should move towards structured India - News On AIR
+  India & US should move towards structured India
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdGNFUTgzMXBUNFY5dUhRcDNqNmxub2R1QVc2Q1IyVFFRT2hFY04tNmpMblIzREh5ajlNRE52NHhyQmZpNThWZnVNdmxlSnJsWGF2SjFsT1dWVGtqZDV1Y1hFeGhIR2JndlFyM2o3d0xUQjlLN0lWVWxCUVNNd0ZGUE1DMEczbTNQTGlKMkhmd3ZLUEYzdGZxeml5aXhTeTFPVGZxOGRWRGpnNUVVOWFKbEFERVJkWklLMnFreG9wRDZ0T094c3lwUEw1STFRVkc5akN0bVFvSkZTeGhhRFl2UVR0N2NhUmYtZHR1YXNDYw?oc=5
 
-- Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar - News On AIR
-  Air India Extends Flight Suspension to UAE, Saudi
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU16U2w3NlJXcVNkMTNydnVvOEE3QTJ1ams0SVlqcmxuSmx0M3p5OEkzWlhIQVBfY0xRWnVoMDZMbVhZUnM3VXZUZmxUc0pUT2Z1M2o0aEx0NWd0T19EYmdtNVduTjM0RHBCTlh6WXRuLVcxWWxXSE9oNHg0Q2lfaWFULU55ZUhqN01WbXJzNWVxbE1NVFVVc2NuLWNWZ1U?oc=5
-
-- Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
-  Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE53dExCUDczclBsRnRyMVVBLTRwTW91THVESHZQM0MxQzBEX2dhRF9qTTRPdE16T0pWMFMzOW5HZU1Jd3Rmc0plZEJGMWxSSjNKdVBMMA?oc=5
-
-- Modi in Israel updates: India’s PM touts ‘vital’ ties in Knesset speech - Al Jazeera
-  Modi in Israel updates: India’s PM
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGZ0X0oxYVdvbE4tbzVtRUdfWDhjUzlvNUxLVHowZlh5QUhWVUZKbXNpM2lXUVRVRGpNZ0pGWHpIZjJNWFRnRTFHRFlWOGQ4OXVwZzNGSUd3cWJ6Ui1vS3pPQi1uWmxTTW03eTAtR2J3Z2s5aDVBYnVFZ1E3QVdUVUF0OVh5M1ZIQXJMeUIwLWNYcmJXUU5IVzRMWFRXWmVuRG51X0NoZFdrLWhYSGFKZkQxb9IBuAFBVV95cUxQeVdmekk1Vkluc0ZZdFpub1Y2c1BXSUdOb014cEtfUUZLOXdWZjNhaFNUWV9BeWpLUnctbElVR3dRRTFQZGJoWFMyLXAtS3ZCZldid0cwdmdsZGRNWXpGb1g4Y1dHSmNCR2FDdlhNWEpUclJZMjh6cWhiY0wzNHhLS1MwSVBOd09JMHoyaldnNVZsQUVkZy1haE1scDZFYzl4alFMeGVDb1dnSktBMnBRWGpjTk51UjVI?oc=5
-
-- Why Parsis Left Iran: Their Journey From Ancient Persia To India - NDTV
-  The Parsis left Iran for India in the
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPVDNyeGx2VjRQamFFUnk1aHQ4MU9IYUEyNTlsXzRDa2lMY0NmUngxLXU4d1YyUk9GU1RUQjZ5cEpXZjdHVGVOSms1eVQwNDFQYlUtYy1KQ21PN3JuQVh1UWZrMUFtN0tjM1dmMjEzR3ppYV9Na0ZoZ2puOFZHblVNaXdNX1dUVnM2SEwyTVhrSDRkUGwweUNWNzZfb0pUTmxYRFVTUFhRcDNRbGVvaWNMTXVzbzI5dDU1cnBOQVVsTW1td0l2cUFz0gHPAUFVX3lxTE45c0RLQ3NUV0hGV3JaejZGZDRnaVpzVGdFdGVUOEVUbHNBcHBKTUNYdzJqaTNMVW9jcU1tT3VHZ1QwQU1jTEktT3VHSC12WHlKQzkxRGVWNEFwRTlpRmptV3hSLWJRaWIzM1RlcVhhZWx0bXloVG1XYkd3NExXYzNYcjNOdlpLaElNN205NkJ1Sk1GQkJuZF8xWnBsVGZKQzA2Vl9VX3dMRTVTMTk5bl85ZU5XUDVma3NnUXBLYzBwZ3hWcHB3dmtBOVZQeml3bw?oc=5
-
-- India Post GDS result 2026: List of official websites to check merit list - The Times of India
-  India Post GDS result 2026: List of official websites to check
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWR2U1VVSjVGYjBGdUpDT0NJMGl1Mlgya0JkRmpsSjI1a0hIWUVvZ0tYTjh1TDl1WEE2Q1cxLTFWdTJFYTl6WEVJcGs4eDljOWFXQnNxdjU3am5sQ3lMRlotRlh3c0VPR2F0RzVrTlVVcE5IMVFObDg4TlctVTd4SFBycTY1c1dDQ1lNSjJqZF9zdUszOFF6SUZib0s4enBIYmRPQTE5VkREUThURFVTMVBQdUt6Wnl1MjM1clBQcTlJdDhRSzhUaGxZSW1veUNLQ0Fkd2Y5YmFuVWtwakpFeFdYWdIB6AFBVV95cUxNTVd3NXN1Mk9yN3NXbi1aczRhY0lwVTE2a0lXbEZyMlhTYXIwME5fWkptVWJFTkJINmVndnB1RVZ0d2NDc0VfVnhxVmNQSWg1ZEkzLUlBSE9vZXRzaS1sX0JRUUg2NkFkWGdyWGxzSG5qa2QydUFCUFJiZU9wMnN2OFhDYmNIVl90MElRMlBqYUl4X01iTWdacm5scnpVM0hCVHZfaGtLXzhMYk5VeGFNRGZhdkJvQ3lFZTBFUmdMWUlhcXFLTEl6bzV6QXBHOUZCX2NjYS00cE9hY1BfQXdQUWFBd3U5aHBf?oc=5
-
-- Air India Extends Flight Suspension to UAE, Saudi Arabia, Israel, Qatar - News On AIR
-  Air India Extends Flight Suspension to UAE, Saudi
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOSU16U2w3NlJXcVNkMTNydnVvOEE3QTJ1ams0SVlqcmxuSmx0M3p5OEkzWlhIQVBfY0xRWnVoMDZMbVhZUnM3VXZUZmxUc0pUT2Z1M2o0aEx0NWd0T19EYmdtNVduTjM0RHBCTlh6WXRuLVcxWWxXSE9oNHg0Q2lfaWFULU55ZUhqN01WbXJzNWVxbE1NVFVVc2NuLWNWZ1U?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Europe Is Decoupling From U.S. Tech - Foreign Policy
-  Europe Is Decoupling
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTlUY2VyWV9OS2hKVXNoYXBCQUdpc2hRVFQxSlNYTjI5eFZkY291U2tPWkFpem9aVk9QVFRKYWU0T0dmYVlXdFRLcTdNOXlMMXBETzZYZUJRYnNORVkyVDRFVUNYZkZDQ25RT0R2MXlmem1jMlVlUzU2NW5fUkw5VWMwYkI4NnlwRXVaMzhiak9xOG0ybVdn?oc=5
-
-- Drone light shows: Where technology, art and new careers take flight - news.cgtn.com
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXpYS25VdE0tMm5DbDJGb210R3BZekRwNHZ3YkZJYjU5cWYzMGZTSUUxc2NNOHQ0a1dSTkxsMldsbkNQTVAyWXJXTGVPY0ZESXZ3b1RPdlFoVTRkQXhuMHQwcEUzOTJQMC1PMUMxbE9xcGh1cEFMdHJta2Q5TzN3WG91dUVFclh0cmhNVW1FLVkxM2QybnVPb2xnUWFfcjI4SjRzZVVPVXIweE1MdG12aWJGcVRCVzg0aEJnc05KVFk?oc=5
-
-- Clash between the Pentagon and Anthropic over military's AI use; everything to know - The Hindu
-  The Hindu has published a report on the Pentagon's use of
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObHFJZTdjY21ZcVEyUGdIeXNLLU94MnZBSnpBU0RxZjNDcTlqZkloS0o0b0Y5MjVaQVZlTHp4OHd5TDdJdWlsMVZqQW1YVVl3cXV6VThrajNackdIckF5cExlYUNXYzRYcmNwNWxLbTJOQ2c5b2lYNjZ1ZUdydEZfTEJFekFrQ1VjOGRneDh6R0lQTnNjOWFLSmwtT0R2bUc3TEk2bUlDVXdDdExMQjlDVWhLcXc2TWVaYUMtV3RTWEVWM1FLeDRHaFUwMTRDSzBFV1puSnh4aUpJTmVoazJSU1BoWDLSAesBQVVfeXFMUGtUc2IxQ3lpSV9vX2c1c0E1anNFcVhqejBYSVR0a0pCM0E0Z0Rjd3dFaHBKUXg1NktlVEhXWW1IaDBXZXVic2oycWRUQXJVSDRRR1RjYXc5RER1TGM2WUdwdGVla0d4RE16b0xhNXZlamFRNWZieTNIT0JOQTdhalZ5SFpzcUh2QlNIR3JMR29HQmp4NGI4U2NaZ2VSYTVoUWpFaWNKYjVkOGN6d21KMk9DNjI4UmMyam5UMTR3cFFTTHU5cUFVVUpkaFlobEg3clgzOVlOVkphUEhVNG9YenM5NkNtVm4xdlpVTQ?oc=5
-
-- Can 'friction-maxxing' fix your focus? - BBC
-  Can 'f
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPVl9VRHdEVl9KSGNrT1pPVE5pRnZ3ZUF2NHhoWEVJc3lNN1JncEJ0Q0x0YTBmVzhKMFQ2eFBnY2IySTlvTG8xeGJhT2RIVld3NFBJUkRtUFpldk10dEZabTZXV0poZ0llVkR4eE5wNzV0X2VxM2F0OEFGSXllbDFObF9pNVc2UQ?oc=5
-
-- PM’s address during inauguration of Micron Semiconductor Technology India Pvt Ltd’s facility in Gujarat - PMIndia
-  PM’s address during inauguration of Micron Semic
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxONkhXSGJsVXdJb1ZRVWJSbHRyd0FiUGJCYTV2d0VXVGExdHZhd0kybFEzSlRFSTR5a2VNVTVVSUk1MFRYUl83RlBBU01abFFiNFUtcl9NNHdhT0ZHb182Tk1za3V1bm05QkVhU1pQWk5KOVIxSDczNzNKRXdQTDNaUnEtZU9mT0JnendMb3lYejdYT202TEZqMGZkSTc5S2tyNEJRbWJlbHl0TVBSOW96Vnp5R1FVNkV4NndEY1dwdWZlaS1jNWdGLWJVLWxTWVhfdzFEYXdvWDFfMlhVNlJqLUdVckZOZnNBb1dWWktWZXduSExRRXJSamQ4cHZRdC1G?oc=5
+- Evening news wrap: Middle East tensions escalate; 3 F-15s crash in Kuwait, Indian national killed in Oman - The Times of India
+  The Times of India reports on the latest in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd29pRGx6Y1JTSzZiT1dHeWV2V3h0OU4wUU9VVjczYkVOUkFCYVdZRWU5Q2hkWmtFN1RJd2V6NThBUU1COGNkVXluZWdZdUY5Z1gxUm5XdnhGMHB1TnVZaUxWM0FqTnRHckFWWEk1YV9rbFROMzJqaU5ibXRIUHFKY2ViVFpxbjdJb1Y3VzNpYmk3ZlU1U1hKck9fWmRRaDlHYUctbWZCWkRGNXk3ckNjYWp0NTl1dEFQRnUtZmEybjE3YU1QUVRzNTBINFgxY2NhWFN4UmJzMXJKRzRfSjNrX2d1RUl1MnhTSFN0cHh2T185Mzc4V043QThoWlhzUHp2dDc5U2NfYXBoWFnSAZACQVVfeXFMUEVoMFM2UHlzMXNtREIyZU1iZzhrcHBiYXVIWlZQeWRkZnFYZTlMbWM4czkxaS1ud2pxQzhSQlpRdU11bzljTjhkUFNLNUhtbWVIQUJyNkJkS2ZXNmhUTi05Z1phWWZ2bER0T1lCcmhCVzgxQlJWZHU5aFhEZHloZ2Z1Q2tZYldwT2xSak4wLUxwSzJHcTV6djFuTjdRWnI2OU1UYWFtTUxpRFhjMkNxSTVEekNnanRaV0g5Y1BnOUVpaUhDaFFDNUFDQjNaZndQOE5wR3Z3Y0U3bXlZLXZ5WEVublhweWhKV1M5Ti16dkJYM0ExV0pPT1c4T1ItVjQwNEJvbzNnN0R3bHhlaW1xVHc?oc=5
 
 
-_Last updated: 2026-03-02 06:55:59 UTC_
+_Last updated: 2026-03-02 12:48:08 UTC_
