@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- West Asia conflict: PM Modi speaks to Sultan of Oman, Crown Prince of Kuwait
+- Khamenei killing: As protests continue in Kashmir, police file FIR over ‘fake news’
   
-  🔗 https://indianexpress.com/article/india/pm-modi-telephonic-talks-oman-sultan-kuwait-crown-prince-west-asia-conflict-10562965/
+  🔗 https://indianexpress.com/article/india/khamenei-killing-protests-kashmir-police-fir-fake-news-10563675/
 
-- Dubai to India flights: 6 things to know as limited services resume amid Iran-Israel War
+- How Israel hacked into Tehran traffic cameras and mobile phone towers to kill Khamenei
   
-  🔗 https://indianexpress.com/article/india/dubai-india-flights-6-things-to-know-as-limited-services-resume-amid-iran-israel-war-10563072/
+  🔗 https://indianexpress.com/article/india/how-israel-hacked-into-tehran-traffic-cameras-and-mobile-phone-towers-to-kill-khamenei-10563608/
 
-- Iran situation evoking ‘great anxiety’: Govt says some Indians dead, missing amid Iran conflict
+- Iran-Israel War: Air India deploys widebody aircraft to Jeddah, Dubai to repatriate stranded passengers
   
-  🔗 https://indianexpress.com/article/india/india-govt-iran-conflict-gulf-nation-death-israel-us-10563034/
+  🔗 https://indianexpress.com/article/india/iran-israel-war-air-india-deploys-widebody-aircraft-to-jeddah-dubai-to-repatriate-stranded-passengers-10563392/
 
-- Chandra Grahan 2026 Timings in India: City-wise lunar eclipse start and end time in Delhi, Bengaluru, Mumbai, Hyderabad and More
+- ‘How can one not feel angry?’: Omar Abdullah condemns killing of Khamenei, appeals to J-K protesters to ‘keep law in mind’
   
-  🔗 https://indianexpress.com/article/india/chandra-grahan-2026-timings-in-india-city-wise-total-lunar-eclipse-start-and-end-time-in-delhi-bengaluru-hyderabad-and-more-10562346/
+  🔗 https://indianexpress.com/article/india/omar-abdullah-khamenei-death-jk-protesters-keep-law-in-mind-10563490/
 
-- What can NRIs do if stuck in airports in Middle East countries? Special flights, advisories, helplines and more
+- The visit of an officer: As BSNL feels the heat, what do govt rules say about protocol
   
-  🔗 https://indianexpress.com/article/india/middle-east-crisis-indian-embassy-helplines-special-flights-indigo-spicejet-10562920/
+  🔗 https://indianexpress.com/article/india/bsnl-officer-visit-government-rules-protocol-10563440/
 
-- Budget PCs may disappear by 2028 because of AI driven RAM crisis, says Gartner
+- MacBook Air and MacBook Pro unveiled with new M5 chips, higher storage and Wi-Fi 7
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/budget-pc-disappear-2028-gartner-ram-storage-crisis-10562914/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-macbook-air-pro-m5-m5-pro-max-india-launch-price-specs-10563542/
 
-- Paramount+ and HBO Max to merge after $110 billion WBD deal
+- Apple silicon: Apple unveils M5 Pro and M5 Max for next-generation MacBook Pro
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/paramount-and-hbo-max-to-merge-after-110-billion-wbd-deal-10563018/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-m5-pro-m5-max-chip-launch-macbook-pro-features-specs-price-10563553/
 
-- ‘Shouldn’t have rushed it’: Sam Altman says OpenAI is amending deal with DoW after backlash
+- How to create stunning Holi portraits for Instagram using ChatGPT’s new special prompt
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-openai-amending-deal-dow-backlash-10562963/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-to-create-stunning-holi-portraits-for-instagram-using-chatgpts-new-special-prompt-10563539/
 
-- Samsung’s JB Park reveals the ‘secret sauce’ behind Galaxy S26: Why the new flagship is more Indian than you think
+- ‘More harm than good’: Why hundreds of researchers want a pause on online age verification
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s26-india-connection-jb-park-rd-noida-bengaluru-10562690/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/online-age-verification-tools-pause-open-letter-10563433/
 
-- Lunar Eclipse: When Earth’s shadow on Moon bridges science and human experience
+- Happy Holi 2026 WhatsApp Wishes Stickers Images and Videos: How to send Holi wishes stickers on WhatsApp
   
-  🔗 https://indianexpress.com/article/technology/science/total-lunar-eclipse-blood-moon-2026-10562645/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/happy-holi-2026-whatsapp-wishes-stickers-images-and-video-how-to-send-holi-wishes-stickers-on-whatsapp-10563159/
 
-- Boat founder Aman Gupta announces new venture Offbeat Studios, claims ‘still hungry, still impatient and still driven’
-  Aman Gupta, founder of Boat, announced the launch of Offbeat Studios. He shared his excitement for the new
-  🔗 https://www.livemint.com/companies/people/boat-founder-aman-gupta-announces-new-venture-offbeat-studios-claims-still-hungry-still-impatient-and-still-driven-11772537800650.html
+- Trump, in Abrupt Reversal, to Continue Fight Against Law Firms
+  The Trump administration has changed its mind on its decision to walk away from appealing its loss in lawsuits over executive orders targeted
+  🔗 https://www.livemint.com/companies/trump-in-abrupt-reversal-to-continue-fight-against-law-firms-11772563062228.html
 
-- War reaches India Inc as fire reported at JSW Infra oil storage terminal in Fujairah
-  A fire broke out at JSW Infrastructure’s Fujairah oil storage terminal after an Iranian drone was intercepted. It
-  🔗 https://www.livemint.com/companies/news/war-reaches-india-inc-as-fire-reported-at-jsw-infra-oil-storage-terminal-in-fujairah-11772535829976.html
+- Amazon rolls out 15-minute grocery delivery in Brazil, touts LatAm country as ‘top investment priority’
+  Amazon launched its Amazon Now service in Brazil, promising 15-minute delivery for essentials and groceries. The service
+  🔗 https://www.livemint.com/companies/news/amazon-rolls-out-15-minute-grocery-delivery-in-brazil-touts-latam-country-as-top-investment-priority-11772556905207.html
 
-- Oister deploys  ₹1,000 crore in startup secondary deals, preps new fund
-  The Gurugram-based investment firm purchases shares from early investors in private companies. It also uses balance sheet capital for direct investments alongside co-investments from limited partners.
-  🔗 https://www.livemint.com/companies/oister-global-set-to-launch-third-secondaries-micro-fund-invests-rs-1-000-cr-in-startups-investors-11772515812519.html
+- Activist investor Elliott invests $1 billion in Pinterest, shares up nearly 8%
+  Elliott Investment Management is investing $1 billion in Pinterest to support its share buyback efforts. Following
+  🔗 https://www.livemint.com/companies/news/activist-investor-elliott-invests-1-billion-in-pinterest-shares-up-nearly-8-11772549979115.html
 
-- Jio Platforms appoints Dan Bailey as President to lead its international business
-  Dan Bailey will report to Akash Ambani and join the Executive Committee. Bailey has over 35 years of experience in telecom and technology sectors.
-  🔗 https://www.livemint.com/companies/news/jio-platforms-appoints-dan-bailey-as-president-to-lead-its-international-business-11772527296158.html
+- Tata Motors, Mahindra say Indonesia export deal intact after disruption reports
+  Tata Motors and Mahindra have denied any disruption to their substantial vehicle export orders to Indonesia. Reports claim
+  🔗 https://www.livemint.com/companies/news/tata-motors-mahindra-indonesia-export-deal-cv-market-india-11772539913690.html
 
-- Mint Explainer: Does US-OpenAI deal signal trouble for Indian startups?
-  The risk is higher in India as it's among the largest markets for AI. OpenAI and US department of war partnership could have security ramifications.
-  🔗 https://www.livemint.com/companies/openai-pentagon-deal-india-ai-startups-sovereign-models-data-security-anthropic-llms-11772444992151.html
+- Uber gets Karnataka aggregator licence; only player cleared for cabs, autos
+  The development ends a prolonged period of regulatory uncertainty for app-based taxi aggregators in the state. Ola's licence expired in June
+  🔗 https://www.livemint.com/companies/news/uber-karnataka-licence-karnataka-transport-aggregator-rules-11772542174911.html
 
-- US stock market: Wall Street set to open over 2% lower as Middle East conflict intensifies; SanDisk down 8.5%
-  The S&amp;amp;P 500, Dow, and Nasdaq dropped 2-2.5% in pre-market trading. Iran's attacks and threats to the
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-over-2-lower-as-middle-east-conflict-intensifies-sandisk-down-85-11772538936059.html
+- UAE markets to resume trading on March 4 after US-Iran conflict triggers temporary closure
+  The United Arab Emirates will resume trading on March 4, after two days of closure due to the US-Israeli war
+  🔗 https://www.livemint.com/market/stock-market-news/uae-markets-to-resume-trading-on-march-4-after-us-iran-conflict-triggers-temporary-closure-11772559677181.html
 
-- MCX gold rate today crashes 3%, silver down 6%: What's dragging precious metals lower despite US-Iran war risk?
-  MCX gold futures for April expiry opened with a 3% cut at  ₹161,092 per 10 grams. MCX was closed for trading in the morning session on account
-  🔗 https://www.livemint.com/market/commodities/mcx-gold-rate-today-crashes-3-silver-down-6-whats-dragging-precious-metals-lower-despite-us-iran-war-risk-11772537921363.html
+- Indian stock market: Gift Nifty crashes 700 points as US-Iran conflict intensifies, crude hits multi-month high
+  The Indian stock market is anticipated to open lower due to escalating tensions between the US, Israel, and Iran. The situation could disrupt oil supplies, impact the rupee, and escalate inflation
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-gift-nifty-crashes-700-points-as-us-iran-conflict-intensifies-crude-hits-multi-month-high-11772555560931.html
 
-- Multibagger alert! Force Motors, MCX among 14 Nifty 500 stocks that gained 100–236% since last Holi. Do you own any?
-  Force Motors was a standout performer, with the stock surging from  6,944 to  ₹23,380 per share. MCX has gained 150%, while Kirl
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-alert-force-motors-mcx-among-14-nifty-500-stocks-that-gained-100-236-since-last-holi-do-you-own-any-11772536040453.html
+- Oil prices surge 8% to highest since 2024 as Middle East tensions escalate
+  Oil prices surged 8% to their highest since July 2024 amid the US-Israel war
+  🔗 https://www.livemint.com/market/commodities/oil-prices-surge-8-to-highest-since-2024-as-middle-east-tensions-escalate-11772556491804.html
 
-- Bulls have defended Nifty's Fortress 24,600 successfully since July. Will it yield this time?
-  Nifty 50 has rebounded from 24,600 several times in the past eight months. A decisive breach, if hostilities in West Asia persist, could pull the index about 3.5% lower
-  🔗 https://www.livemint.com/market/why-24600-is-a-key-support-for-bulls-amid-the-iran-war-11772525712505.html
+- Target Corp shares jump 6% to 11-month high as company lifts sales forecast after another weak quarter
+  Target Corporation's shares rose 6% to $119.65 despite falling revenue and customer traffic. New CEO Michael Fiddelke promises a sales growth return.
+  🔗 https://www.livemint.com/market/stock-market-news/target-corp-shares-jump-6-to-11-month-high-as-company-lifts-sales-forecast-after-another-weak-quarter-11772548609181.html
 
-- Brent near $80, Rupee at 91 and Nifty 50 around 24,800 — How can investors protect portfolios amid US-Iran war?
-  The Nifty faces critical support around 24,600. Sectors like oil marketing and paints may see pressure due to inflationary impacts.
-  🔗 https://www.livemint.com/market/stock-market-news/brent-crude-near-80-rupee-at-91-and-nifty-50-around-24-800-how-can-investors-protect-portfolios-amid-us-iran-war-11772468758337.html
+- Dow drops nearly 2% as global stocks slide, oil prices surge on Middle East tensions
+  Wall Street faces a major stock sell-off as oil prices surge amid escalating fears of
+  🔗 https://www.livemint.com/market/stock-market-news/dow-drops-nearly-2-as-global-stocks-slide-oil-prices-surge-on-middle-east-tensions-11772550395311.html
+
+- Apple hikes prices as iPhone maker unveils new MacBook Air and Pro versions — Check latest rates
+  Apple has updated its MacBook Air and MacBook Pro with faster processors, upgraded storage, and new external monitors. Prices have increased, with the Air starting at $1,099 and the Pro at $
+  🔗 https://www.livemint.com/technology/tech-news/apple-hikes-prices-as-iphone-maker-unveils-new-macbook-air-and-pro-versions-check-latest-rates-11772554990450.html
 
 - Anthropics Claude AI faces second outage in 24 hours as users report difficulties
   's Claude AI faces second outage in
@@ -96,41 +100,25 @@
   An OpenAI researcher has expressed concerns about the company's recent deal to deploy AI tools for the US Department of Defense. The company has been facing backlash since
   🔗 https://www.livemint.com/technology/tech-news/not-worth-it-openai-researcher-questions-pentagon-amid-cancel-chatgpt-trend-antrhopic-claude-11772525401153.html
 
-- Nothing Phone 4a, 4a pro price and storage variants leaked ahead of launch: here's what to expect
-  A new leak has suggested that the Nothing Phone 4a could come with a 1.5K OLED display, Snapdragon 7s Gen 4, and a 50MP camera. The phone could
-  🔗 https://www.livemint.com/technology/gadgets/nothing-phone-4a-4a-pro-price-and-storage-variants-leaked-ahead-of-launch-heres-what-to-expect-11772527040550.html
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Nifty and Sensex pressured by broad-based selling in financials, auto, and consumer stocks. Analysts cite key support at 24,600 on Nifty, with cautious sentiment prevailing. Tejas Networks, BEL, and HD
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/128980765.cms
 
-- Profit booking: Gold falls Rs 4,300, Silver down Rs 17,000 even as US-Iran conflict escalates. What should investors do?
-  Gold and silver on MCX fell sharply on Tuesday. Investors booked profits after Monday’s surge driven by escalating tensions involving United States, Israel and Iran.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/profit-booking-gold-falls-rs-4300-silver-down-rs-17000-even-as-us-iran-conflict-escalates-what-should-investors-do/articleshow/128970702.cms
+- US-Iran war: GIFT Nifty slumps 800 points tracking sharp fall in US stocks. What to expect on Wednesday?
+  Rising crude prices, weakening rupee and risk-off sentiment pressured markets. Analysts note key Nifty and Sensex support levels, while cautioning against aggressive leveraged trades.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-iran-war-gift-nifty-slumps-800-points-tracking-sharp-fall-in-us-stocks-what-to-expect-on-wednesday/articleshow/128979332.cms
 
-- Market quote of the day by Benjamin Graham | "The individual investor should act consistently as an investor and not as a speculator"
-  Benjamin Graham teaches that real investing is grounded in discipline, fundamentals, and patience. Markets tempt us to behave like speculators chasing momentum, but lasting wealth comes from consistency.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-benjamin-graham-the-individual-investor-should-act-consistently-as-an-investor-and-not-as-a-speculator/articleshow/128962734.cms
+- Gold retreats on strong dollar, delayed rate-cut expectations
+  Spot gold dipped while silver, platinum, and palladium also retreated. Analysts expect safe-haven flows and geopolitical risks to support precious metals in the near term.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-retreats-on-strong-dollar-delayed-rate-cut-expectations/articleshow/128978645.cms
 
-- US-Iran war: Brent crude oil rises to $85 per barrel on closure of Strait of Hormuz. What's next?
-  Oil prices spiked as conflict involving Iran disrupted regional supplies. Ship movements slowed, insurers withdrew coverage, and strikes escalated risks. Analysts warn crude may face sharp spikes before stabilising.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/us-iran-war-brent-crude-oil-rises-to-85-per-barrel-on-closure-of-strait-of-hormuz-what-next/articleshow/128970577.cms
+- Market Trading Guide: Buy Sterlite Technologies and BEL on Wednesday for near term gains up to 16%. What’s brewing?
+  Sterlite Technologies and BEL show strong bullish setups, offering near-term
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-sterlite-technologies-and-bel-on-wednesday-for-near-term-gains-up-to-16-whats-brewing/slideshow/128978262.cms
 
-- US Stocks | Buyback plans aren't enough to soothe investors after software-sector rout
-  U.S. software firms are boosting stock buybacks amid a significant market downturn. Investors are wary of AI's disruptive potential, causing a sharp decline in software stocks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-buyback-plans-arent-enough-to-soothe-investors-after-software-sector-rout/articleshow/128969662.cms
-
-- US Stocks Today | Wall Street futures slide as Middle East conflict stokes inflation worries
-  Tech stocks and airlines bore the brunt of the sell-off. Defense and energy firms saw gains.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-wall-street-futures-slide-as-middle-east-conflict-stokes-inflation-worries/articleshow/128969485.cms
-
-- India news: Airlines restart limited Middle East operations - DW.com
-  India news: Airlines restart limited
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0h1M3R2MUVYY0I4NXJiX09DU0VIT0hHLW9DeEFFNmM0UXJzUnFsYTFHRFhkT0FYa0pRM0h6eWcxbzdpaWJpNXNJakY5SU1Za0hEcWsxQ1ZtRFBTeDUzS09Vcjc3UzNLWE9Kd2tKaGpUcURJS0d1YkUxTFJpQ1FSUUF0TVZnLUl3WlRxUGpxRXU3UHg1c1hWYzMtQldYMVh5Q2RNUkpTcFJZY2czb2ljYWlFOGd2SUYwWW9oYlZFUFcwVXJD?oc=5
-
-- First Air India Flight From Dubai Lands In Delhi Amid Middle East Crisis - NDTV
-  First Air India Flight From Dubai Lands In Delhi Amid Middle
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmJGWDl1ZzQ2R0VHQ1B6TVVFY3dhYXRPd0ZWc0tmWFpGWVowMEh2Z3hXai1RRE02VEVFanlZM1Jhd0QzNmhTcUFxR3hTY0RUNzBzMkpsVnVqWnNKUUFrOTA2c216dzgwUnRXWXhXWnpwWjFUdi01aTFrWmhfbGtGRnN4QktZUk94LXdWNl9La1AxVUdTNGRyUFplS00xMUNrd2VSZGZDbzVZcWRRQW5wbld6OC1peE9YOFVCLS03SXJETzZCVTZIZjB5MVh4N3BNNjIyRmpvSdIB3wFBVV95cUxQMkk5SUtfQWJYMkpZanozVUFKd3B5RmFHSWE2YkVTdE9EMVVxc0ZjbXFFRmkxX2dCYXFwd3d3TElHcWlpUFBSd2hieTNzODVwb2JKSTRreVlRVmdFXzFlRkxGLXltbkJqWmI0aFoxN2FnS1VQTlFaU3FtUDNrVHZYWTU2ZF9lTExTeVp4ZmVxZG1EbHowbGhsMy0wY2t3R18xRE94eG8tU21QV3Z0Znl6cEdhVnVPRDVFXzNKNkFVMmM3TUFianBPT3ZZaW1yZmtSOHR1aG9yX0wwdTdNY1pF?oc=5
-
-- Flights from Dubai and Abu Dhabi to India Resume - News On AIR
-  Flights from Dubai and Abu Dhabi to India
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkhIbVJGeXBkUVFXMkYzZUNJNkUwVVp0eERnLUZUYWJMOTNoWHpWWEV6Tk9YSUU3U1ZseFpSUU9JOTBLOVp1cnliOHN3UzNIZHlGZlA4VlJHZnNMU1RDQ01nSEowVWNPdHQtTTBKZW92S0Uxd1EyYWFwLXBYQUlzVXBZbDE?oc=5
+- US Stocks Today | Dow crashes over 1,000 pts, Nasdaq falls 2% as Middle East conflict stokes inflation worries
+  The Dow, S&amp;P 500, and Nasdaq all retreated at the opening bell. Growing concerns over geopolitical risks and market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-middle-east-conflict-fans-inflation-fears/articleshow/128976863.cms
 
 - India preparing for 'another war': Pakistan President makes big claim, urges talks months after Op Sindoor | India News - Hindustan Times
   India preparing for 'another war': Pakistan President makes big claim, urges talks months after Op
@@ -140,25 +128,17 @@
   700 Tankers Jam Strait Of Hormuz: Will
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3pkV3pmRU5ObzY1OUhhTklQZmhwcDJRWEtSbUNMMU4ydk9VS1pKMERBNXFPLVcyZmpQTmRaWWo5QzdtRjliWkY4TW9JRlhDVzlQLVhtZWJzQjVMQnc3YzRld2FkeTJNTWlSTmpYS2VWaHJCeHVFMHUtODdZTmFnTjZoOXVuODJWZXZZTEE5T0ZmS1dDcnhyUUlTMDRSbTB1Uk9zdll0SFFpUWhGUVI1VEV5ZjJ3Vlk4RkN1bWdIVjB3YjA3LUFSZkZR0gHSAUFVX3lxTFBzX21qZ2FzLTJNY204WWxJTmx3dnY3RTY0Y2hxTWJfMGFUQ0xERkJjMXpsamJqN1ZQMC1RMWp5c2tqLTN3M3ZHclRPVV9zd3RUUXJRcWNCQmswZzl1bXFIbWJOaHE2cjhDSjhGMXJ3R2RCT2R4b1k3ZWt4X0NkRVBzZzRyNmZ1cmQ5dnNjaWJEY3FTSjlfSnpjMHdvSjNpb3l6OGxnOWFHMnlOTWFodl83WFRab3dOMzVNb3lyOFlnY05aNlItbEc0ajYyX0JZSzhXZw?oc=5
 
-- India news: Airlines restart limited Middle East operations - DW.com
-  India news: Airlines restart limited
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0h1M3R2MUVYY0I4NXJiX09DU0VIT0hHLW9DeEFFNmM0UXJzUnFsYTFHRFhkT0FYa0pRM0h6eWcxbzdpaWJpNXNJakY5SU1Za0hEcWsxQ1ZtRFBTeDUzS09Vcjc3UzNLWE9Kd2tKaGpUcURJS0d1YkUxTFJpQ1FSUUF0TVZnLUl3WlRxUGpxRXU3UHg1c1hWYzMtQldYMVh5Q2RNUkpTcFJZY2czb2ljYWlFOGd2SUYwWW9oYlZFUFcwVXJD?oc=5
+- India urges calls for early end to Iran-Israel conflict with 'dialogue & diplomacy'; flags risk for India - The Times of India
+  India urges calls for early end to Iran-Israel conflict with 'dialogue & diplomacy'
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNR2VYMHBXYUxlYlJ3YTd6N2FaV3pzTDdWREN5U195cjk5UTA4RHp1a0VGTm9lSjRGYURTNWdQdXAwbTlrNkZvVVgtSE0yMzk0bEd5UnhkMThUT1FKdmRfYUlHWDRfX1FldHVMTTJ3UDZPY0RxdVJWT3NYSlhLYV9zdGhITW9NODA3NXBJczVhajdXV2ZscGtiQjV3emdXQXFvNHlJSVNEeUxxNlZIUEt1ZHBKYnFWYkYxd090VHY2WFo1cDZrX29BN3NaaFdQcG05d2NmTDhNUjVWM19DSWhaUmxVTE9OQ1JVQmxlblZ2WWtOdDlIeC15Mkl2OFh5QUptZ0tzOFNmVdIBjAJBVV95cUxPUGpNNmRqd1dKQ1JmRU1aZ3dBakItVmtiblpXSHhNN2J0cloySFJjYVppWHBhZ2NKM1R0b3hoa1lZcnR1Ujlzci05Z3lfWlpDSDVKWFFGanZkNEgxTFVVN3dpdTRpVUU4RkllcXJLVTN4c0I5WnlnWGJtbTJZMzF4LWVnVzRIaGNHVl9JZHhwdTJnb1FrSG9kY3lZYjJMaUxhNmpiWkp5MVAwV2xGdjJXbU9SS1NDZWFncVFqTUFqVFJWbDZvMF91alozalUzUkVTUnVVNWFuR29ib1k4RmNiSFR2aXJueG51QmV0cmFBUUZBbExmamJlNjZYcGNva1h4aXJaSF9ONFo0MW5y?oc=5
 
-- First Air India Flight From Dubai Lands In Delhi Amid Middle East Crisis - NDTV
-  First Air India Flight From Dubai Lands In Delhi Amid Middle
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmJGWDl1ZzQ2R0VHQ1B6TVVFY3dhYXRPd0ZWc0tmWFpGWVowMEh2Z3hXai1RRE02VEVFanlZM1Jhd0QzNmhTcUFxR3hTY0RUNzBzMkpsVnVqWnNKUUFrOTA2c216dzgwUnRXWXhXWnpwWjFUdi01aTFrWmhfbGtGRnN4QktZUk94LXdWNl9La1AxVUdTNGRyUFplS00xMUNrd2VSZGZDbzVZcWRRQW5wbld6OC1peE9YOFVCLS03SXJETzZCVTZIZjB5MVh4N3BNNjIyRmpvSdIB3wFBVV95cUxQMkk5SUtfQWJYMkpZanozVUFKd3B5RmFHSWE2YkVTdE9EMVVxc0ZjbXFFRmkxX2dCYXFwd3d3TElHcWlpUFBSd2hieTNzODVwb2JKSTRreVlRVmdFXzFlRkxGLXltbkJqWmI0aFoxN2FnS1VQTlFaU3FtUDNrVHZYWTU2ZF9lTExTeVp4ZmVxZG1EbHowbGhsMy0wY2t3R18xRE94eG8tU21QV3Z0Znl6cEdhVnVPRDVFXzNKNkFVMmM3TUFianBPT3ZZaW1yZmtSOHR1aG9yX0wwdTdNY1pF?oc=5
+- Pakistan continues anti-India rhetoric even during US-Iran war. What they said | India News - Hindustan Times
+  Pakistan continues anti-India rhetoric even during US-Iran war.
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdFRUQ2pobDZENGhoSTlrNVRaeTZQdVpYZTY2Z3R2dVp3UmdvYzBhN05YZUVrQkRkVERhUVVheFdTY0NsSjJoQWRKbUhXbFFCdkVmbmR0em83Z0NNQkJEOFlPOFBCeW9LSmFHYkZZN01sOUw4dVBxcjVCejFiajMtYkdpTU1nU3F4VkY2cHRxQURLVFgxSFp6ZFUta3ljV1JyR1ZlMGxWYU51QWE2b1A5LXdjUGVMeldISnRGYVkwWnhmQTFoM2NqZ3FMQmphNG5YbXN1dFZuUdIB3AFBVV95cUxOeTNKcHRaWGZlVmJfLVYyanRkSE1Wcm9tcnA1Zm1QQ2RhUjlxZXFmdFhfMGpMNFphVWdOZUtVbXN2azdXalpfWTVZSjF0WEw5b0hLYktWNFA2Rjc1UlB5N1NrWUk0U2VGTXQ4cmowR0IyV1Nad0ZPT1VEZHBDeUFNOGVycmx4WDM3RzgyVnB3b3A4aUxsSzRoQ095aDVyVDRXbXc3bG5TSTA3LVRiaTFIbXZsSHFLZW1ZUHJIQUphMk1naGRsbmZMOG0yQXZ6bFFRRWlBc1plRDFiLUll?oc=5
 
-- Flights from Dubai and Abu Dhabi to India Resume - News On AIR
-  Flights from Dubai and Abu Dhabi to India
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkhIbVJGeXBkUVFXMkYzZUNJNkUwVVp0eERnLUZUYWJMOTNoWHpWWEV6Tk9YSUU3U1ZseFpSUU9JOTBLOVp1cnliOHN3UzNIZHlGZlA4VlJHZnNMU1RDQ01nSEowVWNPdHQtTTBKZW92S0Uxd1EyYWFwLXBYQUlzVXBZbDE?oc=5
-
-- India preparing for 'another war': Pakistan President makes big claim, urges talks months after Op Sindoor | India News - Hindustan Times
-  India preparing for 'another war': Pakistan President makes big claim, urges talks months after Op
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNaE5KOURkOFJZM1dRY3E3UHY0M3h4UFBFeE15cjMzTkRPVXJORUhFMi1IZUZfcDBRZHJHWDF1QWQ1bUZXOUFna2x2dVNoTTktSUVITnBtRVNZampQbWZlYjJhZkNHcEFxOXQ4OV9TYlk1bk9qdFUzMkJlbWwwSGhENTBxa212aFN4N1ZEb0ZjVmFOQ1I5SlRZV0JHVDlnbjFBek41UXdVRjVLb0ZyS3pMakZ6SFBVVXlqeHh4MGxUSmpkVkRFdFdkM0l0V2JMZnJ4dVR1cTN3bkNINmloUXVaSmNzQjVDWDZ1clNSYUFfbGhlOTM3RmczSzNZZmZMSnJ4X1c0UGdkTHJfZ9IBjwJBVV95cUxQekZJc2h1Uk1OdU85MXhTd0lhX2RoWi1CdUJTcnFta2F5dTZyc3dadjJzOHI3V0ZFSjJUSlBtbFgzbm4tN2NQcTBRZl9ESF80NFBNaVZrdjJXR2ZIeGV0Wkp1b1p0NmJWbU9RU0ctM1ZwZ2ZaT1FLRHZYLTliMi1rWUxWMTFNWkdmckxCMWhjWFlpMnJtX0RJcEhzWUt4OTFLT005SkZITVJfaTZsdmpfd3NXWTFFTkhDNUhOVkJHOVg2eUxsZFA3LTAxaXU1ZndCRDRfWDA2S1AtMnE5SnhBelFzSlRCaEI0SERJY2tvVWR1LXVETlVkdUQ3bktDUVFTN05QdUlJVE5wdllKeEdN?oc=5
-
-- 700 Tankers Jam Strait Of Hormuz: Will India Be Forced To Ration Fuel? - NDTV
-  700 Tankers Jam Strait Of Hormuz: Will
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3pkV3pmRU5ObzY1OUhhTklQZmhwcDJRWEtSbUNMMU4ydk9VS1pKMERBNXFPLVcyZmpQTmRaWWo5QzdtRjliWkY4TW9JRlhDVzlQLVhtZWJzQjVMQnc3YzRld2FkeTJNTWlSTmpYS2VWaHJCeHVFMHUtODdZTmFnTjZoOXVuODJWZXZZTEE5T0ZmS1dDcnhyUUlTMDRSbTB1Uk9zdll0SFFpUWhGUVI1VEV5ZjJ3Vlk4RkN1bWdIVjB3YjA3LUFSZkZR0gHSAUFVX3lxTFBzX21qZ2FzLTJNY204WWxJTmx3dnY3RTY0Y2hxTWJfMGFUQ0xERkJjMXpsamJqN1ZQMC1RMWp5c2tqLTN3M3ZHclRPVV9zd3RUUXJRcWNCQmswZzl1bXFIbWJOaHE2cjhDSjhGMXJ3R2RCT2R4b1k3ZWt4X0NkRVBzZzRyNmZ1cmQ5dnNjaWJEY3FTSjlfSnpjMHdvSjNpb3l6OGxnOWFHMnlOTWFodl83WFRab3dOMzVNb3lyOFlnY05aNlItbEc0ajYyX0JZSzhXZw?oc=5
+- Brave Indian women chase World Cup dream - The Times of India
+  Brave Indian women chase World Cup dream.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2RrYjFoUlo0dmNnZUtVeWNyT3liVG45MUppVlBsN2dOSFBETTRKVzhWWk5TLS1lekhDQ0NMLXh5LUw1ZTRSNVZGT09pbmVrTFhubkkzSWhmSVBEdW1iUnFWRW40SjFWcFM0eHhranY0dGpaYm9ldGFJWmx6SWhHaFRuZFVfbTBrajRqdDMzSmhpSURnZjlMR1VoRGJqcDVXMmlTdTcxaDhjN2dqTlJESNIBtgFBVV95cUxNaVluY2FKdFZWRGUwU1V6UzZLYlJZRGNQSWQ0eF9aZWFQOUVsZFVuaFh2a0V3SENMVE5fZlZVWGI3NnQxcURvTVZtTGF2TnU5NGoyTzV6ajQ4QWhEQWhORTZQOEF5QXNvZkZJSjh6NVVGZGRFZ2dhNGNGUlYxRXBiVk1BLUpxQzhZWGdGcUdKLUFOQ2hiY09XNUViSEdDN21Tclg4WFJXanA5UHpoVUF1dVZoRk5UZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-03 12:58:22 UTC_
+_Last updated: 2026-03-03 18:44:37 UTC_
