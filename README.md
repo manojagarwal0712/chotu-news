@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Iran-Israel war 2026: IndiGo cancels 112 international flights on March 6 – Full list
-  
-  🔗 https://indianexpress.com/article/india/iran-israel-war-2026-indigo-cancels-112-international-flights-on-march-6-full-list-10565935/
+- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
+  "Baseless": India Rejects Report Claim
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
 
-- Andhra Pradesh to give Rs 25,000 for second, third child as Chandrababu Naidu pushes ‘population boost’
-  
-  🔗 https://indianexpress.com/article/india/andhra-pradesh-second-third-child-naidu-population-policy-10566126/
+- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
+  India Sent Vessel To Help Sinking Iranian Warship
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
-- India offers condolences over Khamenei’s death, Foreign Secretary Misri reaches Iran embassy
-  
-  🔗 https://indianexpress.com/article/india/india-condolences-khamenei-death-foreign-secretary-misri-iran-embassy-10566055/
+- 87 Killed As US Sinks Iran Ship Headed Back From India After Naval Exercise - NDTV
+  87 killed As US Sinks Iran Ship Headed Back From
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPODJUdmZFYWh3ZDMzem02UndyMjZoajVpc0xCMS13MlU5WkVid0l5bjdDZGxseFJ2OTdSbENBdGZ6OFJUSGYwOGE3XzhlLVc4bGFtXy1OeGFURnVDVW5hZFdnXzlUS0VTN2tyb0RVX3hjTXFjcV8wRFl0Yl9VOUR6RldtSVRwbnV0Vk5kNG01NDJWejEwQVZPdlp5dDhUa2dBMEJPRlZ4V1g4ZGVT0gG0AUFVX3lxTE1aclBnOG02THA1YUpaQ3ZoZWtPaDB4WHhVWGljajFfRF9DX0RhMDRZektwbmM3akRVU20yeFZKbFZUYWllUVhxSTJrMXFra21udm95Ny1OUF9aRXNWMGFvZ3F2RVVqOTBiZkx0VEJ1ckpNYW9vbHBDZ182MzBQNGJmU2VNWll2SEZkWWN0a1BVc05xcHoyRlloNldqeWJxMldxWFIzTEJ6aDd3M01JdW1JS240OQ?oc=5
 
-- Army foils terror infiltration attempt along LoC in J&K’s Rajouri
-  
-  🔗 https://indianexpress.com/article/india/army-terror-infiltration-attempt-loc-in-jammu-kashmir-rajouri-10565982/
+- 'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian Navy’s guest', sunk by torpedo - The Times of India
+  'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM2Z5ZWdjVHVvTXVwSnNEZkpXSUZ6cEJUZjdlNHhmSDFNOGd5WHlORDBYYjlrd2JaV2RhTk5iTHRrMUNFY3dEaF8tUzM5Snh0aG80blFSUUZ0RkZYT2ZYRzV0bGxwcnpUaUZyTFN5UTNxNzhhaGRYX2Ntdk45M0NMTGhmVVAxazRXbUxhTWNwdE1xNUFESjllVU43RGlxc3ZLZ29KdjUwV0h3TDV3bk4ySjFuUjhaSFpGTkFGaVJldVI0aERHSVhEWUpMdmoxUUl3UzV0ZjZhcFV4Ym5qQ1BTWk8yeTJIMjBpSkoyNTZtWmozR29iMHlvOdIB_gFBVV95cUxPY0s3Z1B1QnYtaVU0c183bklnZlVYOUdHWkMxV015S0oxbmFqRFFsTkNuY1lKaDI1OVZ3OERFUXVlN2RyNlFxRExHbksxUms2a3JwTkVNczkzNC1VQzhKVlYyZDFhbFMySUN3MDM3dTZ2eWZNWGpJeE5sVlZmSFNLeVpxc2V5WFctdlNGNGx1M3EyV1RiUzktVnFNVHd5a2dfX1haYV95NmVSUmR4S3d2WGNDLThJZk1FbWVqaWYtM2YzaVdjR2ZSMU9DMkU1LUVuYmViMzQzZXJubGppZERCalZSaVUzQWhtWTFZNVBoNlhldnpLZXMyVWstdXdrQQ?oc=5
 
-- Three suspended Congress MLAs join BJP in Assam ahead of Assembly polls
+- Japanese tourists celebrate Holi in Puri - The Times of India
+  Japanese tourists celebrate Holi in Pur
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHBEcHBRa2pVSlFtUW1Ia3otWjkxWUJoZFFNNk5wN0Z3cmlSa3BlbHp1b3FWeEZHS1VKUkU3UTZJbUR2TzZ0SmZIZ2duakVVVFlMZUJRV1h1cnFzYm0wcnVud1ZzajBKV0RtcDkxVWU2NXFtWWJmZ1RUU1oyVzlvWThJemhzLXFBSFRjWlJKclBTdENVLVN6UVkzZmtUb0J2aDZ2VjdhYzl0RTNaOGtpVDI0b1p4ekc1OXhZ0gHAAUFVX3lxTE9nYnd4X3lRYWhfcVkyUTFvVUJLWm41VUJNS3hNRUtDSkt1d0VabzRLOEd5ZFlKVVVKUzRtblptdzlPYm9GcW5HNG1IVG54UW9IRENzaFRNR1NCb1ZPWHhxNUFmM1pUOVlhNHFoVWdTMmt0NE5WTFpKNmVDS29fNl9NMkZXRUo3aW5zVm5nTXlrUWs4eVN4T1hCRHVkVEFBYkpaVnRRYXYyZHFnS3NWOGR4ZGl4MFBWR05Qd0NvX1M0Uw?oc=5
+
+- MacBook Neo vs MacBook Air M5 vs M4: Which Apple laptop should you buy?
   
-  🔗 https://indianexpress.com/article/india/three-suspended-congress-mla-bjp-assam-assembly-polls-10565900/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/macbook-neo-vs-macbook-air-m5-vs-m4-which-apple-laptop-should-you-buy-10566546/
+
+- Google cuts Play Store fees, opens billing after antitrust battle with Fortnite maker
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-play-store-fees-billing-antitrust-battle-fortnite-10566458/
+
+- Nothing unveils mid-range Phone 4a series amid intensifying global smartphone competition
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothings-mid-range-phone-4a-series-gets-price-increase-testing-consumers-patience-in-a-tighter-economy-10566353/
 
 - Nothing Phone (4a) Pro vs Phone (4a): Specs, features, price in India compared
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-ai-introduces-voice-mode-in-perplexity-computer-10566216/
 
-- Nothing Phone (4a), Phone (4a) Pro launched in India with Snapdragon 7 series chips, Glyph upgrades
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-4a-pro-launch-india-price-specs-availability-10565946/
+- Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch
+  Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from
+  🔗 https://www.livemint.com/companies/oracle-plans-thousands-of-job-cuts-in-face-of-ai-cash-crunch-11772735990130.html
 
-- Nothing Phone 4a review: The new mid-range champion with a G-Shock soul — and that camera is remarkable
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/nothing-phone-4a-review-10565986/
+- Elon Musk defends tweets in lawsuit alleging they caused Twitter stock to fall before acquisition
+  Elon Musk defends tweets in lawsuit alleging they caused
+  🔗 https://www.livemint.com/companies/elon-musk-defends-tweets-in-lawsuit-alleging-they-caused-twitter-stock-to-fall-before-acquisition-11772733823238.html
 
-- ‘Straight up lies’: Anthropic CEO attacks OpenAI after ChatGPT uninstall surge
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/straight-up-lies-anthropic-ceo-attacks-openai-after-chatgpt-uninstall-surge-10565648/
+- Berkshire Hathaway CEO Greg Abel plans to spend entire pay on company shares, says, ‘it's not taking away from…’
+  Greg Abel, CEO of Berkshire Hathaway, will use his entire take-home pay to buy company stock. He recently purchased $15.3 million in shares
+  🔗 https://www.livemint.com/companies/people/berkshire-hathaway-ceo-greg-abel-plans-to-spend-entire-pay-on-company-shares-its-not-taking-away-from-11772711222710.html
+
+- 'Samhi Hotels to be a  ₹3,000 crore topline business'
+  Samhi Hotels is targeting a topline of  ₹3,000 crore, driven by expansion in Hyderabad and Bengaluru, as well as a strategic investment in Rare India
+  🔗 https://www.livemint.com/companies/news/samhi-hotels-to-be-a-3-000-crore-topline-business-11772704362438.html
 
 - Betadine maker Win-Medicare eyes $150-200 million stake sale; taps EY
   The Umesh Modi Group has reportedly sought a valuation of up to  ₹4,000 crore for the pharmaceutical firm
   🔗 https://www.livemint.com/companies/news/winmedicare-stake-sale-umesh-modi-group-11772692608132.html
 
-- Eversource back in fray for BluSmart assets as insolvency process unfolds
-  Eversource Capital is eyeing BluSmart Mobility�
-  🔗 https://www.livemint.com/companies/news/eversource-blusmart-mobility-assets-acquisition-ev-charging-network-india-11772686021265.html
+- Oil jumps 5% on supply concerns as Iran conflict widens
+  Oil jumps 5% on
+  🔗 https://www.livemint.com/market/oil-jumps-5-on-supply-concerns-as-iran-conflict-widens-11772737040852.html
 
-- Anthropic resumes Pentagon talks as CEO Dario Amodei makes ‘last-ditch’ bid to avoid supply chain ban: Report
-  Anthropic CEO Dario Amodei is negotiating with the US Defense Department. He is in talks with Undersecretary Emil Michael to
-  🔗 https://www.livemint.com/companies/news/anthropic-resumes-pentagon-talks-as-ceo-dario-amodei-makes-last-ditch-bid-to-avoid-supply-chain-ban-report-11772699452328.html
+- Indian stock market: Gift Nifty tumbles 350 points amid escalating US-Iran conflict; Brent crude hovers near 2-year high
+  The Gift Nifty is down 350 points, hinting at a potential continuation of market losses. Geopolitical tensions in the Middle East and halted tanker traffic are impacting oil prices and market stability.
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-gift-nifty-tumbles-350-points-amid-escalating-us-iran-conflict-brent-crude-hovers-near-2-year-high-11772729960350.html
 
-- Facing tighter lounge economics, Encalm Hospitality pivots to hotels, catering, overseas airports
-  Airport lounge operator Encalm plans hotels, in-flight catering and overseas airport bids.
-  🔗 https://www.livemint.com/companies/facing-tighter-lounge-economics-encalm-hospitality-pivots-to-hotels-catering-overseas-airports-dreamfolks-adani-11772641083643.html
+- Broadcom stock rallies 6% on upbeat earnings; AI chip sales expected to hit $100 billion by 2027
+  Broadcom reports $19.3 billion in sales and a net income increase to $7.35 billion. The company anticipates $22 billion in revenue for the next quarter.
+  🔗 https://www.livemint.com/market/stock-market-news/broadcom-stock-rallies-6-on-upbeat-earnings-ai-chip-sales-expected-to-hit-100-billion-by-2027-11772723176079.html
 
-- India's budget smartwatch bubble bursts: Sales plummet, innovation lags
-  The market for low-cost smartwatches, which saw a massive surge, is now contracting sharply
-  🔗 https://www.livemint.com/companies/india-smartwatch-sales-boat-noise-fire-boltt-titan-wearables-no-real-upgrades-11772683945497.html
+- Why Tesla stock price targets on Wall Street are useless
+  Wall Street’s Tesla price targets should be taken with a grain
+  🔗 https://www.livemint.com/market/stock-market-news/why-tesla-stock-price-targets-on-wall-street-are-useless-11772726842460.html
 
-- US-Iran war lifts crude: Why ONGC, Oil India could be biggest gainers in Indian stock market
-  The US-Iran conflict has closed the Strait of Hormuz, leading to a jump in Brent crude prices from $73 to $85 per barrel. This surge is expected to affect global
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-lifts-crude-why-ongc-oil-india-could-be-biggest-gainers-in-indian-stock-market-11772711820698.html
+- Nifty, Sensex rebound on hopes of West Asia de-escalation, short covering
+  The benchmark Nifty50 index recovered close to half of its recent losses on Thursday. Reports emerged that Iran had reached out to the US for talks
+  🔗 https://www.livemint.com/market/indian-stock-market-recovery-west-asia-conflict-easing-expert-analysis-investor-guide-11772712640755.html
 
-- 6 common mistakes NRIs should avoid while starting their investment journey
-  If an NRI plans to retire abroad, it may be prudent to balance Indian investments with global assets to hedge currency risks. Those planning to return to India may prefer a greater allocation to ru
-  🔗 https://www.livemint.com/market/stock-market-news/6-common-mistakes-nris-should-avoid-while-starting-their-investment-journey-11772712596606.html
-
-- Bank of India, PNB plan infra bond sales after robust demand for BoB issue
-  Bank of India could raise up to 100 billion rupees ($1.09 billion) PNB will consider a 20-50 billion-rupee
-  🔗 https://www.livemint.com/market/bonds/bank-of-india-pnb-plan-infra-bond-sales-after-robust-demand-for-bob-issue-11772711252332.html
-
-- Rupee rebounds from lowest level to settle 45 paise higher at 91.60 against US dollar
-  The Reserve Bank seems to have intervened to help the local currency from extreme volatility due to uncertainties on the ongoing war involving the US, Israel
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-rebounds-from-lowest-level-to-settle-45-paise-higher-at-91-60-against-us-dollar-11772710380221.html
-
-- Gold-silver ratio nears 62 mark: What does it signal for investors amid US-Iran war?
-  Analysts suggest a 70-75% allocation in gold due to its safe-haven status. The gold-silver ratio is stabilising near 62.
-  🔗 https://www.livemint.com/market/commodities/goldsilver-ratio-nears-62-mark-what-does-it-signal-for-investors-amid-us-iran-war-11772709678059.html
+- Meta Ray-Bans may have exposed your most intimate moments: Here's what every owner must do immediately
+   Meta is facing scrutiny for its privacy policies regarding user data collection through devices like Ray-Ban Smart Glasses. Cybersecurity experts highlight loopholes that compromise data safety.
+  🔗 https://www.livemint.com/technology/tech-news/concerned-about-meta-ray-ban-ai-glasses-data-getting-into-wrong-hands-here-is-what-experts-say-you-should-do-11772720674761.html
 
 - Nothing Phone 4a with Snapdragon 7s Gen 4 processor, Glyph Bar launched in India: Price, specs and more
   The Phone (4a) has a 50MP periscope telephoto lens and a 6.78-inch AMOLED display. The phone offers a Snapdragon 7s Gen
@@ -92,73 +96,97 @@
   Learn why the M3 and M4 are now the smartest buys for your budget. Maximize your 2026 savings with our guide to the MacBook price
   🔗 https://www.livemint.com/technology/gadgets/macbook-price-drop-in-2026-why-buying-the-m3-and-m4-models-is-a-smart-choice-right-now-11772702885671.html
 
-- Nothing Phone 4a Launch LIVE: Nothing Phone 4a, Phone 4a Pro launched in India
-  Nothing has launched the Phone 4a, Phone4a Pro in India alongside the
+- Nothing Phone 4a Launch Highlights: Nothing Phone 4a, Phone 4a Pro launched in India
+  Nothing has launched the Phone 4a, Phone 4 a Pro in India alongside the
   🔗 https://www.livemint.com/technology/gadgets/nothing-phone-4a-launch-live-updates-price-india-specs-4a-pro-glyph-bar-march-5-2026-11772696632691.html
 
-- Realme Narzo Power 5G with Dimensity 7400 SoC, 10,001 mAh battery launched in India: Price, specs and more
-  Realme launched the Narzo Power 5G in India featuring a 10,001 mAh battery, Dimensity 7400 processor. First sale offers include discounts and a free 4-year battery
-  🔗 https://www.livemint.com/technology/gadgets/realme-narzo-power-5g-with-dimensity-7400-soc-10-001-mah-battery-launched-in-india-price-specs-and-more-11772692209336.html
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  The BSE Sensex surged 900 points to 80,015 and the NSE Nifty 50 rose 285 points. Buying in metals, auto and realty supported gains
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129099546.cms
 
-- Stock market quote of the day by Carlos Slim Helú | "Courage taught me no matter how bad a crisis gets... any sound investment will eventually pay off."
-  Carlos Slim Helu, a business magnate, teaches that courage is key. Sound investments, backed by strong fundamentals, recover from crises. Emotional control helps investors distinguish temporary declines from fundamental changes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-carlos-slim-hel-courage-taught-me-no-matter-how-bad-a-crisis-gets-any-sound-investment-will-eventually-pay-off-/articleshow/129080199.cms
+- US Stocks: Fed's Tom Barkin says sticky inflation, better jobs data could shift the risk outlook
+  Richmond Fed president Tom Barkin said still high inflation and stronger recent jobs numbers may shift the Fed's risk outlook. U.S. conflict with Iran
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-feds-tom-barkin-says-sticky-inflation-better-jobs-data-could-shift-the-risk-outlook/articleshow/129098244.cms
 
-- Embassy REIT raises Rs 1,400 cr via issue of debentures
-  Realty firm Embassy Office Parks REIT has raised Rs
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-raises-rs-1400-cr-via-issue-of-debentures/articleshow/129089595.cms
+- US Stocks: Broadcom shares rise as $100 billion AI forecast signals gains in Nvidia-dominated market
+  Broadcom shares rose nearly 3% on Thursday after the company predicted over $100 billion in AI chip sales next year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-broadcom-shares-rise-as-100-billion-ai-forecast-signals-gains-in-nvidia-dominated-market/articleshow/129098018.cms
 
-- US Stocks: US bonds tumble as oil price surge kindles inflation fears
-  The selloff in U.S. Treasuries continued for a fourth day on Thursday. Investors fear surging energy prices from the war in the Middle East could
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-bonds-tumble-as-oil-price-surge-kindles-inflation-fears/articleshow/129087052.cms
+- US stocks today: Dow crashes 600 points as Middle East war risks oil price surge
+  US markets tumbled Thursday as the Middle East conflict escalated. This could force the Federal Reserve to delay interest rate cuts. Energy stocks saw gains, while travel companies faltered.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-investors-weigh-middle-east-war-risks/articleshow/129097341.cms
 
-- Rupee ends higher, Middle East conflict to keep RBI support in play
-  The Indian rupee logged its biggest one-day gain in a month on Thursday. The Reserve Bank of India stepped in aggressively to shore up the currency.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-higher-middle-east-conflict-to-keep-rbi-support-in-play/articleshow/129085786.cms
+- Data Patterns among 6 stocks that hit 52-week highs &amp; rallied up to 33% in a month
+  The BSE Sensex surged 900 points to close above 80,000, pushing several stocks to fresh yearly highs. Companies including Data Patterns (India), Sai Life Sciences,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-6-stocks-that-hit-52-week-highs-amp-rallied-up-to-33-in-a-month/slideshow/129091950.cms
 
-- Global Markets | European shares fall as Middle East war, tepid earnings weigh
-  European shares edged lower on Thursday as an expanding Middle East conflict weighed on market sentiment. A string ‌of
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-fall-as-middle-east-war-tepid-earnings-weigh/articleshow/129083284.cms
+- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
+  "Baseless": India Rejects Report Claim
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
 
-- Oil Hope For India? Iran Says Hormuz Strait Only Closed To US, Israel, Europe - NDTV
-  Iran says Hormuz Strait Only Closed To US, Israel
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdXlGaUNzVEMwWjRITnM4MkhBdUpwd25TSzN6TFZKVXVNRGJWM2otUEdqU003Q0puYWE5MkNmcV9JTmp0YXplemxYaGVEOG1aLUFYU2U4dTZpbVNNMDJpbml2elpZd1M2MnFZQS1NM0NUaDVubUh4Z19BN2loZFA4OHpidXdHbEd2azU2d1JiWnRLNmE1Qzk0NUhiNzY5emNDUTZIZXpCS1V0Wkpmb3lCX1EtdUE4NW8yZGFHTnp6Sk9jQ0FEUDhGd3E0YXJhN01oMHA3S1k4d2xlSU5DLWdCSHpB0gHqAUFVX3lxTFBRLWwxZTIwUEM4MmJ5NnBsN3VmdTRFVS1PMG1icWRybzJFSmU1MDM0MWZPZDVtMHNtUjhPUWlXYU9JdzVHLTE2N19HcUdnZE1mX0JLT21WbDRBeDZHaTR4U2hyd2xWUzhjMExwNHVmQjJYQzFHOUwtNWlGazNxS3Q1dG5zRHRtUVdmVUNqMkNDZEdobTJqWUZhSlZPV2FIbVZpdXBlYW42ZVRocldfdFJaQU1yMHJOOWhZTUNlUnM5UW1kQU5BbDdlVlRFMnVndDVJNDRISklDUTFmNkdIcnNISm5jQndEWlg1dw?oc=5
+- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
+  India Sent Vessel To Help Sinking Iranian Warship
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
-- Modi Sides With Might in the Middle East - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0R3bmpLWVZWcWNlSVFYaHhsQllBQXVRblhpdV9BNEotZVJmMk8yd2ZVQ3o5QnY5bTdXQmJWLWNsb2dtbUJ5YUxZeTBBSWpiYjdWU3JIWVhLYWJHcnFtZXNKRDNRUEdhWW1yZ3Z1emJQeE8tRFdUQVI4OWRQXzFQY2NqUThHM20tZTZfOUk2UTQzNmlyRWlUNVFrS05JNWp6Rk5Na09RT2J5eENTbjBja2toM1VoMjJKbnprdGx6ZWNrdmJhSjYzTzNR?oc=5
+- 87 Killed As US Sinks Iran Ship Headed Back From India After Naval Exercise - NDTV
+  87 killed As US Sinks Iran Ship Headed Back From
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPODJUdmZFYWh3ZDMzem02UndyMjZoajVpc0xCMS13MlU5WkVid0l5bjdDZGxseFJ2OTdSbENBdGZ6OFJUSGYwOGE3XzhlLVc4bGFtXy1OeGFURnVDVW5hZFdnXzlUS0VTN2tyb0RVX3hjTXFjcV8wRFl0Yl9VOUR6RldtSVRwbnV0Vk5kNG01NDJWejEwQVZPdlp5dDhUa2dBMEJPRlZ4V1g4ZGVT0gG0AUFVX3lxTE1aclBnOG02THA1YUpaQ3ZoZWtPaDB4WHhVWGljajFfRF9DX0RhMDRZektwbmM3akRVU20yeFZKbFZUYWllUVhxSTJrMXFra21udm95Ny1OUF9aRXNWMGFvZ3F2RVVqOTBiZkx0VEJ1ckpNYW9vbHBDZ182MzBQNGJmU2VNWll2SEZkWWN0a1BVc05xcHoyRlloNldqeWJxMldxWFIzTEJ6aDd3M01JdW1JS240OQ?oc=5
 
-- 23,000 Indian Sailors Stranded Near Strait Of Hormuz Amid Iran War: Sources - NDTV
-  23,000 Indian Sailors Stranded Near Strait
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkpMM0l2dExQNWJKT2V3TlNQMWNjMWRIbmRrRXRIOTVQdG1KN3ZDdEpRak53aTVwa3NPaHFORDA4UXlPbk1uWFVUVjhzUGtjSzQxbkdGb0JDdDZzaEp1Y3FuM05Ga0pLbnhRMkg5X1pHVWZUdkZtQ0xVakpMNGdtLW91SE52UlVvUmdzZ1pHY1BWSUFVV0taNGZoZ2Q4UExvSXhwZFc5TzN5ZUJPTG9VM2x1NU94M29EZGNMcjdIeUMtWVdGWXh5cFFB0gHSAUFVX3lxTFBrbFZOMmhOX2RDLUhlcHFKb0lZR0FLWjdkZXFYcUNfS3c0UXRZZ0lMVUpaMWZYS2xBcDlKRzdzQzJOY18xNXJVLWpYcEJxV2E4NExOenZUVk4xNmUwTDNGa0hkelVDdXN6OE5yU1A3RjVVN19FZ1pQRVRIRUVfN1pPRTd3U3FFZ2VMaFdseEU5Mkk4enJ2aUpSY0k4eHlvbXpaTnJlZjFNOGdZdlNpOTFaNlZVSmlmN3dJTVBOVldYenViRUtfNDlxdXYwLW55b0xDQQ?oc=5
+- 'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian Navy’s guest', sunk by torpedo - The Times of India
+  'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM2Z5ZWdjVHVvTXVwSnNEZkpXSUZ6cEJUZjdlNHhmSDFNOGd5WHlORDBYYjlrd2JaV2RhTk5iTHRrMUNFY3dEaF8tUzM5Snh0aG80blFSUUZ0RkZYT2ZYRzV0bGxwcnpUaUZyTFN5UTNxNzhhaGRYX2Ntdk45M0NMTGhmVVAxazRXbUxhTWNwdE1xNUFESjllVU43RGlxc3ZLZ29KdjUwV0h3TDV3bk4ySjFuUjhaSFpGTkFGaVJldVI0aERHSVhEWUpMdmoxUUl3UzV0ZjZhcFV4Ym5qQ1BTWk8yeTJIMjBpSkoyNTZtWmozR29iMHlvOdIB_gFBVV95cUxPY0s3Z1B1QnYtaVU0c183bklnZlVYOUdHWkMxV015S0oxbmFqRFFsTkNuY1lKaDI1OVZ3OERFUXVlN2RyNlFxRExHbksxUms2a3JwTkVNczkzNC1VQzhKVlYyZDFhbFMySUN3MDM3dTZ2eWZNWGpJeE5sVlZmSFNLeVpxc2V5WFctdlNGNGx1M3EyV1RiUzktVnFNVHd5a2dfX1haYV95NmVSUmR4S3d2WGNDLThJZk1FbWVqaWYtM2YzaVdjR2ZSMU9DMkU1LUVuYmViMzQzZXJubGppZERCalZSaVUzQWhtWTFZNVBoNlhldnpLZXMyVWstdXdrQQ?oc=5
 
-- Jaishankar speaks with Iranian counterpart Abbas Araghchi amid Middle East crisis | India News - Hindustan Times
-  Jaishankar speaks with Iranian counterpart Abbas Araghchi amid
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWVxN1ZSMXJzeW8wRUZpRXRoUzk1c1BGT3pCT3Q3Z1JSaThDMkFxNDdTMDFKQTNHZkxGUDF5ZlE5MUVoM2g1SGhRNmNtbWlXRHdyLU85ZEY0WjJ2TDNkY205eFVHT1pSYVZHdTNZWm1XVGpHV18zemRWSUlrRlFWVGl2dzlQS2xtM3BpRGVtMktVZXV3NU9vZUxQUnhBTGVLbUNPUUxWcFRxWG5xQ2FoMVpPeGI3dUxDT1I1d0VlYm10WVo1bTFkV2JOOVhqS0NJME5XU0prRmF2dWt60gHiAUFVX3lxTE5MLWZON2JaMDdUOVpDYTJvWTJaY1phZFpib3QzVjhpMFdJSnZTY2hCUlhuSURfd3g2UVdMTjhqdlNDN0t2R0VJRXhFeHY0d01RSVZBcUR0V0tXTlp0NmFZbDhrRXVvZUxac2M2SkFZWk55cllsMUUyN1hUSzRNcFVybWJSeFUwZmNQaHJyeDF3clpsMTV5ZzJaTHRidEk0MFpzeVcxdllZbDlVZUpWQ0VIckxLY1JHZnl1RWtvclNlSWxVSWc3eDlDUklWOEppZVhad0JPZE1sdVJXMnFWbjhUZlE?oc=5
+- Japanese tourists celebrate Holi in Puri - The Times of India
+  Japanese tourists celebrate Holi in Pur
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHBEcHBRa2pVSlFtUW1Ia3otWjkxWUJoZFFNNk5wN0Z3cmlSa3BlbHp1b3FWeEZHS1VKUkU3UTZJbUR2TzZ0SmZIZ2duakVVVFlMZUJRV1h1cnFzYm0wcnVud1ZzajBKV0RtcDkxVWU2NXFtWWJmZ1RUU1oyVzlvWThJemhzLXFBSFRjWlJKclBTdENVLVN6UVkzZmtUb0J2aDZ2VjdhYzl0RTNaOGtpVDI0b1p4ekc1OXhZ0gHAAUFVX3lxTE9nYnd4X3lRYWhfcVkyUTFvVUJLWm41VUJNS3hNRUtDSkt1d0VabzRLOEd5ZFlKVVVKUzRtblptdzlPYm9GcW5HNG1IVG54UW9IRENzaFRNR1NCb1ZPWHhxNUFmM1pUOVlhNHFoVWdTMmt0NE5WTFpKNmVDS29fNl9NMkZXRUo3aW5zVm5nTXlrUWs4eVN4T1hCRHVkVEFBYkpaVnRRYXYyZHFnS3NWOGR4ZGl4MFBWR05Qd0NvX1M0Uw?oc=5
 
-- India condoles Khamenei’s killing; Foreign Secretary Vikram Misri meets Iranian envoy - The Economic Times
-  India condoles Khamenei’s killing; Foreign
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNG1iRjR3ZWxCcGtKekR6MXV4VUQyZS1KVERZdnZvcG1Vd01vNUFlLXZfQ0FfcUtZcGFic1hHTE9zMURoTEJyclJuZVQ0U2RxLWI5S3l4MVZ6emVNdXcxeUhUdV9KcXdRWHZNdEplVVQ0a2ljcVpZT0dYUnZyTjRIQklybFFXTXUxcWhzYXcyYmt6M1VCOUctNFZMTFdYU1NzNTBqdTdWeVBCQnhKaGRTdVRHb1A4Vmh2bW12UEV4UGc1SW41TEd3Q1VVak9kbC1sck1SZjZablhSX0NpWC1ZOERVenQzOUtvNkFXcWRkVElUa2daSGhWUngySE9JWXM5Qi0tVzk4NlZ6RE1sVnlldUdwU2VzN3VRZnfSAZ8CQVVfeXFMTmFLaTI3SngtclpPNlJBeTZhZGc4Uy1ZNDBhNWNIdTgtY0hSQ1gzQ1dPUDRIM2ktX1hiSV9ydUFWZ2NGNzM4X1FBbUQwRmNraHRoQWc1bk9CN1djVWc0ZGV2Y3Y0OU5QbkRVTXRnSkx6Rkp4eFROcFFlWE8yTXdLWjBsM296dDN4UGZKMV9xWE53blVoQmMzeWlZSG9sN1FKeVdYNzFSSk5OYjN2OVBlNW12QU45QXNWNGg0cmVJUHN5cS1MSXVSUjhRTktpUUJRc3dzZmM4RlBQM0lNSWhLc1RhYTRLdk9uQUdXSTFEbVJIRDBmSHFHUnVMem9ZNlFyUGJrMFZ5SnRTZHVoaXJmQWkza1Z4RmctM1F3T3JOcm8?oc=5
+- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
+  "Baseless": India Rejects Report Claim
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
 
-- Oil Hope For India? Iran Says Hormuz Strait Only Closed To US, Israel, Europe - NDTV
-  Iran says Hormuz Strait Only Closed To US, Israel
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdXlGaUNzVEMwWjRITnM4MkhBdUpwd25TSzN6TFZKVXVNRGJWM2otUEdqU003Q0puYWE5MkNmcV9JTmp0YXplemxYaGVEOG1aLUFYU2U4dTZpbVNNMDJpbml2elpZd1M2MnFZQS1NM0NUaDVubUh4Z19BN2loZFA4OHpidXdHbEd2azU2d1JiWnRLNmE1Qzk0NUhiNzY5emNDUTZIZXpCS1V0Wkpmb3lCX1EtdUE4NW8yZGFHTnp6Sk9jQ0FEUDhGd3E0YXJhN01oMHA3S1k4d2xlSU5DLWdCSHpB0gHqAUFVX3lxTFBRLWwxZTIwUEM4MmJ5NnBsN3VmdTRFVS1PMG1icWRybzJFSmU1MDM0MWZPZDVtMHNtUjhPUWlXYU9JdzVHLTE2N19HcUdnZE1mX0JLT21WbDRBeDZHaTR4U2hyd2xWUzhjMExwNHVmQjJYQzFHOUwtNWlGazNxS3Q1dG5zRHRtUVdmVUNqMkNDZEdobTJqWUZhSlZPV2FIbVZpdXBlYW42ZVRocldfdFJaQU1yMHJOOWhZTUNlUnM5UW1kQU5BbDdlVlRFMnVndDVJNDRISklDUTFmNkdIcnNISm5jQndEWlg1dw?oc=5
+- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
+  India Sent Vessel To Help Sinking Iranian Warship
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
-- Modi Sides With Might in the Middle East - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0R3bmpLWVZWcWNlSVFYaHhsQllBQXVRblhpdV9BNEotZVJmMk8yd2ZVQ3o5QnY5bTdXQmJWLWNsb2dtbUJ5YUxZeTBBSWpiYjdWU3JIWVhLYWJHcnFtZXNKRDNRUEdhWW1yZ3Z1emJQeE8tRFdUQVI4OWRQXzFQY2NqUThHM20tZTZfOUk2UTQzNmlyRWlUNVFrS05JNWp6Rk5Na09RT2J5eENTbjBja2toM1VoMjJKbnprdGx6ZWNrdmJhSjYzTzNR?oc=5
+- 87 Killed As US Sinks Iran Ship Headed Back From India After Naval Exercise - NDTV
+  87 killed As US Sinks Iran Ship Headed Back From
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPODJUdmZFYWh3ZDMzem02UndyMjZoajVpc0xCMS13MlU5WkVid0l5bjdDZGxseFJ2OTdSbENBdGZ6OFJUSGYwOGE3XzhlLVc4bGFtXy1OeGFURnVDVW5hZFdnXzlUS0VTN2tyb0RVX3hjTXFjcV8wRFl0Yl9VOUR6RldtSVRwbnV0Vk5kNG01NDJWejEwQVZPdlp5dDhUa2dBMEJPRlZ4V1g4ZGVT0gG0AUFVX3lxTE1aclBnOG02THA1YUpaQ3ZoZWtPaDB4WHhVWGljajFfRF9DX0RhMDRZektwbmM3akRVU20yeFZKbFZUYWllUVhxSTJrMXFra21udm95Ny1OUF9aRXNWMGFvZ3F2RVVqOTBiZkx0VEJ1ckpNYW9vbHBDZ182MzBQNGJmU2VNWll2SEZkWWN0a1BVc05xcHoyRlloNldqeWJxMldxWFIzTEJ6aDd3M01JdW1JS240OQ?oc=5
 
-- 23,000 Indian Sailors Stranded Near Strait Of Hormuz Amid Iran War: Sources - NDTV
-  23,000 Indian Sailors Stranded Near Strait
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkpMM0l2dExQNWJKT2V3TlNQMWNjMWRIbmRrRXRIOTVQdG1KN3ZDdEpRak53aTVwa3NPaHFORDA4UXlPbk1uWFVUVjhzUGtjSzQxbkdGb0JDdDZzaEp1Y3FuM05Ga0pLbnhRMkg5X1pHVWZUdkZtQ0xVakpMNGdtLW91SE52UlVvUmdzZ1pHY1BWSUFVV0taNGZoZ2Q4UExvSXhwZFc5TzN5ZUJPTG9VM2x1NU94M29EZGNMcjdIeUMtWVdGWXh5cFFB0gHSAUFVX3lxTFBrbFZOMmhOX2RDLUhlcHFKb0lZR0FLWjdkZXFYcUNfS3c0UXRZZ0lMVUpaMWZYS2xBcDlKRzdzQzJOY18xNXJVLWpYcEJxV2E4NExOenZUVk4xNmUwTDNGa0hkelVDdXN6OE5yU1A3RjVVN19FZ1pQRVRIRUVfN1pPRTd3U3FFZ2VMaFdseEU5Mkk4enJ2aUpSY0k4eHlvbXpaTnJlZjFNOGdZdlNpOTFaNlZVSmlmN3dJTVBOVldYenViRUtfNDlxdXYwLW55b0xDQQ?oc=5
+- 'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian Navy’s guest', sunk by torpedo - The Times of India
+  'Will bitterly regret': Iran warns US after IRIS Dena, 'Indian
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM2Z5ZWdjVHVvTXVwSnNEZkpXSUZ6cEJUZjdlNHhmSDFNOGd5WHlORDBYYjlrd2JaV2RhTk5iTHRrMUNFY3dEaF8tUzM5Snh0aG80blFSUUZ0RkZYT2ZYRzV0bGxwcnpUaUZyTFN5UTNxNzhhaGRYX2Ntdk45M0NMTGhmVVAxazRXbUxhTWNwdE1xNUFESjllVU43RGlxc3ZLZ29KdjUwV0h3TDV3bk4ySjFuUjhaSFpGTkFGaVJldVI0aERHSVhEWUpMdmoxUUl3UzV0ZjZhcFV4Ym5qQ1BTWk8yeTJIMjBpSkoyNTZtWmozR29iMHlvOdIB_gFBVV95cUxPY0s3Z1B1QnYtaVU0c183bklnZlVYOUdHWkMxV015S0oxbmFqRFFsTkNuY1lKaDI1OVZ3OERFUXVlN2RyNlFxRExHbksxUms2a3JwTkVNczkzNC1VQzhKVlYyZDFhbFMySUN3MDM3dTZ2eWZNWGpJeE5sVlZmSFNLeVpxc2V5WFctdlNGNGx1M3EyV1RiUzktVnFNVHd5a2dfX1haYV95NmVSUmR4S3d2WGNDLThJZk1FbWVqaWYtM2YzaVdjR2ZSMU9DMkU1LUVuYmViMzQzZXJubGppZERCalZSaVUzQWhtWTFZNVBoNlhldnpLZXMyVWstdXdrQQ?oc=5
 
-- Jaishankar speaks with Iranian counterpart Abbas Araghchi amid Middle East crisis | India News - Hindustan Times
-  Jaishankar speaks with Iranian counterpart Abbas Araghchi amid
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNWVxN1ZSMXJzeW8wRUZpRXRoUzk1c1BGT3pCT3Q3Z1JSaThDMkFxNDdTMDFKQTNHZkxGUDF5ZlE5MUVoM2g1SGhRNmNtbWlXRHdyLU85ZEY0WjJ2TDNkY205eFVHT1pSYVZHdTNZWm1XVGpHV18zemRWSUlrRlFWVGl2dzlQS2xtM3BpRGVtMktVZXV3NU9vZUxQUnhBTGVLbUNPUUxWcFRxWG5xQ2FoMVpPeGI3dUxDT1I1d0VlYm10WVo1bTFkV2JOOVhqS0NJME5XU0prRmF2dWt60gHiAUFVX3lxTE5MLWZON2JaMDdUOVpDYTJvWTJaY1phZFpib3QzVjhpMFdJSnZTY2hCUlhuSURfd3g2UVdMTjhqdlNDN0t2R0VJRXhFeHY0d01RSVZBcUR0V0tXTlp0NmFZbDhrRXVvZUxac2M2SkFZWk55cllsMUUyN1hUSzRNcFVybWJSeFUwZmNQaHJyeDF3clpsMTV5ZzJaTHRidEk0MFpzeVcxdllZbDlVZUpWQ0VIckxLY1JHZnl1RWtvclNlSWxVSWc3eDlDUklWOEppZVhad0JPZE1sdVJXMnFWbjhUZlE?oc=5
+- Japanese tourists celebrate Holi in Puri - The Times of India
+  Japanese tourists celebrate Holi in Pur
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHBEcHBRa2pVSlFtUW1Ia3otWjkxWUJoZFFNNk5wN0Z3cmlSa3BlbHp1b3FWeEZHS1VKUkU3UTZJbUR2TzZ0SmZIZ2duakVVVFlMZUJRV1h1cnFzYm0wcnVud1ZzajBKV0RtcDkxVWU2NXFtWWJmZ1RUU1oyVzlvWThJemhzLXFBSFRjWlJKclBTdENVLVN6UVkzZmtUb0J2aDZ2VjdhYzl0RTNaOGtpVDI0b1p4ekc1OXhZ0gHAAUFVX3lxTE9nYnd4X3lRYWhfcVkyUTFvVUJLWm41VUJNS3hNRUtDSkt1d0VabzRLOEd5ZFlKVVVKUzRtblptdzlPYm9GcW5HNG1IVG54UW9IRENzaFRNR1NCb1ZPWHhxNUFmM1pUOVlhNHFoVWdTMmt0NE5WTFpKNmVDS29fNl9NMkZXRUo3aW5zVm5nTXlrUWs4eVN4T1hCRHVkVEFBYkpaVnRRYXYyZHFnS3NWOGR4ZGl4MFBWR05Qd0NvX1M0Uw?oc=5
 
-- India condoles Khamenei’s killing; Foreign Secretary Vikram Misri meets Iranian envoy - The Economic Times
-  India condoles Khamenei’s killing; Foreign
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNG1iRjR3ZWxCcGtKekR6MXV4VUQyZS1KVERZdnZvcG1Vd01vNUFlLXZfQ0FfcUtZcGFic1hHTE9zMURoTEJyclJuZVQ0U2RxLWI5S3l4MVZ6emVNdXcxeUhUdV9KcXdRWHZNdEplVVQ0a2ljcVpZT0dYUnZyTjRIQklybFFXTXUxcWhzYXcyYmt6M1VCOUctNFZMTFdYU1NzNTBqdTdWeVBCQnhKaGRTdVRHb1A4Vmh2bW12UEV4UGc1SW41TEd3Q1VVak9kbC1sck1SZjZablhSX0NpWC1ZOERVenQzOUtvNkFXcWRkVElUa2daSGhWUngySE9JWXM5Qi0tVzk4NlZ6RE1sVnlldUdwU2VzN3VRZnfSAZ8CQVVfeXFMTmFLaTI3SngtclpPNlJBeTZhZGc4Uy1ZNDBhNWNIdTgtY0hSQ1gzQ1dPUDRIM2ktX1hiSV9ydUFWZ2NGNzM4X1FBbUQwRmNraHRoQWc1bk9CN1djVWc0ZGV2Y3Y0OU5QbkRVTXRnSkx6Rkp4eFROcFFlWE8yTXdLWjBsM296dDN4UGZKMV9xWE53blVoQmMzeWlZSG9sN1FKeVdYNzFSSk5OYjN2OVBlNW12QU45QXNWNGg0cmVJUHN5cS1MSXVSUjhRTktpUUJRc3dzZmM4RlBQM0lNSWhLc1RhYTRLdk9uQUdXSTFEbVJIRDBmSHFHUnVMem9ZNlFyUGJrMFZ5SnRTZHVoaXJmQWkza1Z4RmctM1F3T3JOcm8?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-05 12:50:28 UTC_
+_Last updated: 2026-03-05 19:17:56 UTC_
