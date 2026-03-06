@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Medical student tells counsellor about sexual abuse she suffered 11 years ago, leads to 18-year jail for tuition teacher
+- ‘My brothers are in Tehran, my mother’s family in Afghanistan’: Iranian trader in Tripura watches two homelands at war
   
-  🔗 https://indianexpress.com/article/india/medical-student-tells-counsellor-about-sexual-abuse-she-suffered-11-years-ago-leads-to-18-year-jail-for-tuition-teacher-10566910/
+  🔗 https://indianexpress.com/article/india/brothers-tehran-mother-family-afghanistan-iranian-trader-tripura-two-homelands-war-10567405/
 
-- ‘Hope our children can be brought back’: Families worry in Dehradun as strikes on Iran continue
+- Gold Today Rate, March 6: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/hope-our-children-can-be-brought-back-families-worry-in-dehradun-as-strikes-on-iran-continue-10566856/
+  🔗 https://indianexpress.com/article/india/gold-today-rate-march-6-check-18-22-and-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-and-other-cities-10567344/
 
-- Parental control on apps, curbs on phones in school: Goa panel discusses social media restrictions for children
+- ‘How long will American blackmail continue’: Congress after US’ 30-day waiver to India on Russian oil imports
   
-  🔗 https://indianexpress.com/article/india/parental-control-on-apps-curbs-on-phones-in-school-goa-panel-discusses-social-media-restrictions-for-children-10566850/
+  🔗 https://indianexpress.com/article/india/american-blackmail-congress-30-day-waiver-india-russian-oil-import-10567351/
 
-- Indore water crisis: Old pipeline no longer being used, new supply line now covers 70% of Bhagirathpura, corporation tells court
+- ED raids Mumbai, Hyderabad locations linked to Anil Ambani’s Reliance Power in money laundering probe
   
-  🔗 https://indianexpress.com/article/india/indore-water-crisis-old-pipeline-no-longer-being-used-new-supply-line-now-covers-70-of-bhagirathpura-corporation-tells-court-10566852/
+  🔗 https://indianexpress.com/article/india/ed-raids-mumbai-hyderabad-locations-linked-to-anil-ambanis-reliance-power-in-money-laundering-probe-10567353/
 
-- Amit Shah unveils ‘Pragati’, ‘Vikas’ — mascots for Census 2027
+- 2 Indian Air Force personnel killed in Sukhoi crash in Assam
   
-  🔗 https://indianexpress.com/article/india/amit-shah-unveils-pragati-vikas-mascots-for-census-2027-10567040/
+  🔗 https://indianexpress.com/article/india/iaf-su30-mki-crash-assam-2-pilots-killed-10567325/
+
+- US mulls new rules for AI chip exports, including requiring US investments by foreign firms
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-mulls-new-rules-for-ai-chip-exports-including-requiring-us-investments-by-foreign-firms-10567305/
+
+- Pentagon informed Anthropic it is a supply chain risk
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/pentagon-informed-anthropic-it-is-a-supply-chain-risk-10567284/
+
+- OpenAI unveils GPT-5.4, an AI model that can operate computers and software
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-unveils-gpt-5-4-an-ai-model-that-can-operate-computers-and-software-10567241/
 
 - Why the Phone 4a Pro could be Nothing’s most polarising smartphone yet
   
@@ -28,57 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/macbook-neo-vs-macbook-air-m5-vs-m4-which-apple-laptop-should-you-buy-10566546/
 
-- Google cuts Play Store fees, opens billing after antitrust battle with Fortnite maker
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-play-store-fees-billing-antitrust-battle-fortnite-10566458/
+- $40 billion loan: SoftBank seeks record financing to fund OpenAI investment — Here's what we know
+  SoftBank is in talks with lenders for a record $40 billion loan to finance its OpenAI stake purchase. It would be its largest dollar
+  🔗 https://www.livemint.com/companies/news/softbank-seeks-record-40-billion-loan-financing-banks-fund-openai-stake-invest-masayoshi-son-ai-bubble-concern-liquidity-11772773618772.html
 
-- Nothing unveils mid-range Phone 4a series amid intensifying global smartphone competition
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothings-mid-range-phone-4a-series-gets-price-increase-testing-consumers-patience-in-a-tighter-economy-10566353/
+- Microsoft to keep using Anthropic's Claude AI for many clients despite Pentagon's ‘supply chain risk’ label on startup
+  Microsoft will not use Anthropic's Claude AI in defence-related contracts. Department of War extensively uses Microsoft 365 productivity software.
+  🔗 https://www.livemint.com/companies/news/microsoft-to-keep-using-anthropics-claude-for-many-clients-despite-pentagons-supply-chain-risk-label-on-ai-firm-11772770347321.html
 
-- Nothing Phone (4a) Pro vs Phone (4a): Specs, features, price in India compared
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-pro-vs-phone-4a-specs-features-price-in-india-compared-10566234/
+- Warren Buffett sold THIS stock for 50% profit and made a mistake worth billions — here's what you can learn
+  Warren Buffett reflected on his 1967 sale of Disney stock as a billion-dollar error. Here's a valuable lesson that investors can learn from the Oracle of Omaha's
+  🔗 https://www.livemint.com/companies/people/warren-buffett-sold-walt-disney-stock-50-pc-profit-mistake-billions-disneyland-success-how-investing-lesson-not-distress-11772764476415.html
 
-- Rural e-commerce startup Rozana raises  ₹290 crore led by Bertelsmann India
-  Rural e-commerce startup Rozana has raised  ₹290 crore in a Series B round led by Bertelsmann India
-  🔗 https://www.livemint.com/companies/start-ups/rozana-india-rural-e-commerce-series-b-funding-bertelsmann-india-investments-11772683395812.html
+- Sam Altman takes swipe at Anthropic amid uproar over OpenAI-Pentagon deal — ‘Bad for society’
+  The Pentagon and Anthtropic have been locked in a months-long dispute over the company's insistence on safeguards that the Defense Department said went too
+  🔗 https://www.livemint.com/companies/news/sam-altman-takes-swipe-at-anthropic-amid-uproar-over-openai-pentagon-deal-bad-for-society-11772757032355.html
 
-- Drugmakers step up obesity awareness as weight-loss drug race heats up
-  India has 254 million obese people and over 100 million with diabetes, according to a Lancet study from 2023. Plus, 351 million people suffer from abdominal obesity, while 136 million people
-  🔗 https://www.livemint.com/companies/news/drugmakers-ramp-up-ad-campaigns-to-promote-glp1s-11772703685403.html
+- Hong Kong ex-media mogul Jimmy Lai will not appeal national security conviction, legal team says
+  Hong Kong ex-media mogul Jimmy Lai will
+  🔗 https://www.livemint.com/companies/hong-kong-ex-media-mogul-jimmy-lai-will-not-appeal-national-security-conviction-legal-team-says-11772764979832.html
 
-- Pentagon vs Anthropic: Defense Department formally notifies AI startup it is deemed supply chain risk
-  Pentagon says it's determined Anthropic PBC and its products pose a risk to the US supply chain. Anthropic has previously vowed to challenge in court any supply-
-  🔗 https://www.livemint.com/companies/news/pentagon-vs-anthropic-defense-department-formally-notifies-ai-startup-it-is-deemed-supply-chain-risk-11772755995692.html
+- LIG Nex1 shares jump 17% amid US-Iran war; South Korean defence stock surges 78% in five days
+  LIG Nex1 shares have skyrocketed 78.7%, taking the company’s market capitalisation near 18 trillion KRW. The defence stock had already
+  🔗 https://www.livemint.com/market/stock-market-news/lig-nex1-shares-jump-17-amid-us-iran-war-south-korean-defence-stock-surges-78-in-five-days-11772776742593.html
 
-- Pentagon Notifies Anthropic It’s Deemed Firm Supply-Chain Risk
-  Pentagon says it has formally notified Anthropic PBC that it’s determined the company and its products pose a risk.
-  🔗 https://www.livemint.com/companies/pentagon-notifies-anthropic-it-s-deemed-firm-supply-chain-risk-11772738828025.html
+- Vodafone Idea, Filatex Fashions to Suzlon Energy— These are the top most traded stocks on the NSE today
+  Vodafone Idea, Filatex Fashions, Tata Silver Exchange Traded Fund, Navkar Urbanstructure, and Suzlon
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-filatex-fashions-to-suzlon-energy-these-are-the-top-most-traded-stocks-on-the-nse-today-11772775251988.html
 
-- Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch
-  Oracle Corp. is planning to ax thousands of jobs, among its moves to handle a cash crunch from
-  🔗 https://www.livemint.com/companies/oracle-plans-thousands-of-job-cuts-in-face-of-ai-cash-crunch-11772735990130.html
+- BEL to HAL, Axis Bank: Phillip Capital lists stocks to buy, sees Nifty target between 26,500–27,500 for March 2027
+  Geopolitical tensions between US and Iran could lead to short-term volatility in Indian markets. Phillip Capital encourages long-term investments in quality stocks
+  🔗 https://www.livemint.com/market/stock-market-news/bel-to-hal-l-t-axis-bank-phillip-capital-lists-stocks-to-buy-nifty-target-at-26-500-27-500-for-march-2027-11772699488018.html
 
-- Indian stock market: 10 key things that changed for market overnight - Gift Nifty, US-Iran war, Dow Jones to oil prices
-  Gift Nifty was trading around 24,605 level, a discount of nearly 249 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-overnight-gift-nifty-us-iran-war-dow-jones-to-oil-prices-11772725743866.html
+- Reliance share price gains over 2% after India gets waiver to purchase Russian crude oil
+  Reliance Industries shares rose 2.5% on March 6, following a US Treasury exemption allowing Indian refiners to purchase Russian oil. This move aims to stabilize global energy markets amid Middle East
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-share-price-gains-over-2-after-india-gets-waiver-to-purchase-russian-crude-oil-11772773753366.html
 
-- Stocks to watch: Jio Financial Services, TCS, Bajaj Auto among 10 shares in focus on Friday
-  The Nifty 50 ended 285 points higher at 24,765, while the BSE Sensex staged a strong recovery, climbing 1.14% to 80,
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-jio-financial-services-tcs-bajaj-auto-among-10-shares-in-focus-on-friday-11772728175919.html
+- Mint Explainer | Gold and silver aren’t acting like safe havens this time—here's why
+  Gold and silver surged when the West Asia crisis erupted but quickly gave up most of those gains. stretched valuations, speculative flows, margin calls and shifting expectations for US interest rates are compl
+  🔗 https://www.livemint.com/market/commodities/gold-silver-price-volatility-safe-haven-outlook-west-asia-conflict-11772767742225.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 6 March 2026
-  Sumeet Bagadia recommends five shares to buy today. Power Finance Corporation, Jammu and Kashmir Bank, Sarda Energy &
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-6-march-2026-11772726187192.html
+- Motorola Edge 70 Fusion with 7,000mAh battery, Snapdragon 7s Gen 4 SoC launched in India: Price, specs and more
+   Motorola Edge 70 Fusion with 6.78-inch AMOLED display, Snapdragon 7s Gen 4 processor, and a 7000mAh battery has been launched in India. The phone starts
+  🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-fusion-with-7-000mah-battery-snapdragon-7s-gen-4-soc-launched-in-india-price-specs-and-more-11772772935188.html
 
-- Stocks to buy: Raja Venkatraman recommends three stocks for 6 March
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-three-stocks-for-6-march-11772723011137.html
-
-- GIFT City nears framework for direct share listings without IPO
-  Proposed rules could allow Indian and overseas companies to list shares on GIFT City exchanges without raising fresh funds.
-  🔗 https://www.livemint.com/market/stock-market-news/gift-city-ifsc-direct-listing-operational-framework-companies-global-investors-11772688764792.html
+- WhatsApp could soon offer a paid subscription tier with exclusive stickers and ringtones: Report
+  WhatsApp is reportedly developing a premium subscription plan called WhatsApp Plus. The new plan could offer features like customized app icon
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-offer-a-paid-subscription-tier-with-exclusive-stickers-and-ringtones-report-11772766720190.html
 
 - Meta Ray-Bans may have exposed your most intimate moments: Here's what every owner must do immediately
    Meta is facing scrutiny for its privacy policies regarding user data collection through devices like Ray-Ban Smart Glasses. Cybersecurity experts highlight loopholes that compromise data safety.
@@ -92,133 +100,105 @@
   Apple's MacBook Neo is an entry-level laptop aimed at students. It features a 13-inch Liquid Retina display, A18 Pro processor, and macOS Tahoe. It offers 16 hours of battery life, a
   🔗 https://www.livemint.com/technology/gadgets/apple-launches-mac-neo-at-rs-69-900-top-features-specs-and-how-it-compares-to-macbook-air-11772679950486.html
 
-- MacBook price drop in 2026: Why buying the M3 and M4 models is a smart choice right now
-  Learn why the M3 and M4 are now the smartest buys for your budget. Maximize your 2026 savings with our guide to the MacBook price
-  🔗 https://www.livemint.com/technology/gadgets/macbook-price-drop-in-2026-why-buying-the-m3-and-m4-models-is-a-smart-choice-right-now-11772702885671.html
-
-- Nothing Phone 4a Launch Highlights: Nothing Phone 4a, Phone 4a Pro launched in India
-  Nothing has launched the Phone 4a, Phone 4 a Pro in India alongside the
-  🔗 https://www.livemint.com/technology/gadgets/nothing-phone-4a-launch-live-updates-price-india-specs-4a-pro-glyph-bar-march-5-2026-11772696632691.html
-
-- Stock Market Today: Dow Drops More Than 1,000 Points, Oil Pushes Higher on Widening Iran Conflict— Live Updates - WSJ
-  Dow futures tick higher, but index heads for worst week since October. Oil Pushes Higher on Widening Iran Conflict.
+- Stock Market News, March 5, 2026: Dow Drops 1.6%, Oil Pushes Above $80 - WSJ
+  Stock Market News, March 5, 2026: Dow
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNTThHbnFNUmprbGNNWWtBNG56NlRxUVV2QjU5Z1Z0RmYwWE9tM3R0T215bFdTeWF2RDN0N1d6bFFSSk5DY0UyMk44WGhxTTFITnJqZHFRWS03eEV2elpUbEpsMm5GTjFqemhibF9oZFBnTjUtVDBNQWtUN3lKakxZdzVXUUQwTzQ?oc=5
 
-- Goldman Says Oil Market Not Yet Confident in US Hormuz Measures - Bloomberg.com
-  Goldman: Oil Market Not Yet Confident
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNODVsNW9nNE5Vb1otUU1xS1dLM09UWWdHbzVMeWpnckx3NW9QY0lxN2VLN09wajRraVZIdnVzSlBhbGl2RU1wQXFROGVQaWRvbjZWUXhQYU9TWW9veUQzTlU1VGRQYjhZUGM5bUhMUG9qNVBETHF5ZUhhLVJPUzNST0JKZnQxbUs3NnJkZlpndXJuSnBpOGRYeW9idmE5cFp1UzBMT0VXUTFMeXltRWNmM1Vvdk0?oc=5
+- Asia markets trade mixed after Wall Street losses, oil prices dip after Thursday surge - CNBC
+  Asia markets trade mixed after Wall Street losses, oil prices dip
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkpXaDM1cDhkOTMtbmFPRTdxeVpQV21fTE1sZ0NUaURrMDlMQ210Q2xlaWZzcXZsaWNvTk1taG9rTk83NEl0bS1LRVJQcXlQX0ZKY01wNXFWejVHTHRnU2RhOVNsZkVnM1R2U3hlcEs0Q0s3ejlyMzlnUEZfY28wY1dLRmVYamp4bmJLSVNoOV9nblZ1bkJIZNIBngFBVV95cUxOTEZZNXJSNWVXelduOEY5dDN3cmt0LTJ6WEdwTEVXSGhjSUtPdWYwWlV2X1U3S05QeEFqQ2hqUGx0VUJkcERrRFpjVVpDdTBJd1YyWmZPZ1o3U0RCc250LTgtVVFxTFFvSHNfdFU1TkdybWVzTktnREdtTGhFVjNJbm95bzFhNWF0Nm84amhUc0MwYnZpQlpqbWt1b29Edw?oc=5
 
-- Why the world's top-performing stock market in 2025 is seeing historic volatility - CNBC
-  Why the world's top-performing stock market in
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOajh1dnlwUm9JVXpTZWdJS012UHduSzVfQWY4UC1BUUcxVDNKX0VhemlTb0lPR3BaY3MyQ0d1WGtmSDctVGs1VFZFdTJVVnlLOEpsZzVCSmM0dkpsRHlJM3c0RW1vLVFIR2szQm1fN2Y5aTJ1UGV5Z1FQTDZWM3pFeHhOMW9nUdIBiwFBVV95cUxQQXBVSUU2WGZkbVc0SmtUQ2hqVUh2eHNkblNGbVQ1OHgzNXl5Z0ZBMEtUWFNSTlhQS2oyWmF5cUI1VnBfbS11NmtpdXVLdENLMTlzcldYOWdXZm90MnExOEh3QUtvNEljU012c3BkVXBxZmpXMDVvQWt0WTBqbkRGX1Q4aTNfcnBYbGlj?oc=5
+- Dow futures tick higher, but index heads for worst week since October on oil surge: Live updates - CNBC
+  Dow futures tick higher, but index heads for worst week since October on
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MXF4cTl4THdfRVlZaTRvVU5rRDdDYldDcXJGSWR6dTBoOHVhRkVqVkNnMzVkcW9Xa0c5T0VTTjdqZmM4dmVyUlhzMXVNNjVTQXVWSllPYzk1M3RJUzRQdDdLRHVXczIzWFcydThscHZobXBnZ2xr0gF8QVVfeXFMT1BVclhGZDM1U3l6Q2RVZm54eElyMVRWTkNyV2RUajVWRUZhVTZjZ0ZsVXpueGlPc0JoZ1B2NVI3bEsyRGF2NnNQbHJHRU1pZEUyU3BZUHVDZGxvVFM5UDFaYU9KOFhHM2NEM2dfVC15ZjA1YUIzMjNEWWxRUA?oc=5
 
-- Predicability vs panic: Here is how markets navigated through the previous three geopolitical conflicts - Upstox
-  "Upstox" is an online magazine that focuses on
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0tlQU9LSFpwTFZNTnVLOGw0aFVuWVF5aVJncWhfeTBwSmVoamlCcXMxNVlIcnNCNUlQdlYtaHVUeVprTHduV2tlVVNBVVJIWm9yTENFdE5weUJhNnI1RVJKS0hmaDBpU3Q1OEl4aGRxWUNKMEZpWWdCV09rRHE3VFFEaDFkWXprYmVpa2NnYTJQUmt4cGpWRFNkTm1WaFQyUGhQeHd3eDN5dk0tem5Rb3ZaVTN6Y3JXZWwwR01vZ2NKTm5zRjA4UVc3aGI3SS1VeDI2SnVTeXQ1OXJBLUlpRExRcDdHOVFock5abHFCOWkzRmxj?oc=5
+- Asian Stocks Erase Losses, Dollar and Oil Decline: Markets Wrap - Bloomberg
+  Asian Stocks Erase Losses,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmxENm1KNTZyQzFWN2tTZ3d4WE8wel83SW1IbDh6ODJ4dXl4OXJ5b2tCeVVuNklpSFRiYTFTeE80VWlScC11R3VJb0RqQ1c3aC1pV3piN3EtZ1NXTEZOQkFQNUVKQVRNdGowcjNyNDVQZ213aFViNk1XTktXeHZzWkRwZi1uSUNoYW9aTDUtR29jWHFHMkZCdTd4SkZnNzFETVdlLTJxOFo5LWxIMW5IQlBDbw?oc=5
 
-- Stock market today: Nifty50 ends above 24,750; BSE Sensex up 900 points - top reasons for rally - The Times of India
-  Nifty50 ends above 24,750; BSE Sensex up 900 points - top
-  🔗 https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZEZyQ0xibFBfcDRVVUtndzdzd2xRMkxLMG0zUU9mVVVoemhlanNRTklxZmdnZVV4T2dkMmtWRnF2c0plRDNVNF93Zm9VRW0tTWNvUk1KWWk1Vzg4cVZPLTBLcEhzTU1meGZ1SzlvQ0hCT3V4NU9yT2V1MC1wcVdTSG5FdF9naHZiaWp2eksyQ0gwdzhnQWl6LVlWc1d5RHBlS1liZ2pydU5IXzE4ajZiMkxlRVNlUjZoWTdBR3ZBNUUwMVRYLXpTQy1VLXAyMEIydWNtRHdXS3ZmQmdsTGQ2Rkd2Rlk0QW5XelJWSVRSMFlSZmFPM09qdGZ3bEZOZnVpUzhVNFdEQnVsU1VWc2tOMmlHaTR6Yjdsb3UyQVpNQkpZWlhMXzY4aDBrONIBsAJBVV95cUxPT09HMkNlWllRbENvdHpwSlZPRUJQdFpGRUhzV2llSHgzQWhvVDBCWjJ1SmxXdlpiLUN2MDRsRjdYOWFNOUthbGtiQlZkQ0wwdDAzMlZSUUJLUnZmbUxEUnNUem9LNDJ3ZzFGMGZjdnJncV9mNUFNREFIU1hCeENpTEFwT0NVWW51T2tCRGVQMTFYMktmaXlJV090dTZQRW56cklLUF9wY1FQQVFqby1MLUJTa1dpZHpsYm1zQUtOREVtc1JpNWJ4U2hxLTZiVjJFWk1iVGhacXZGTlVKYjNsbXhkU0lVTjdubkJPZmkwOWhYU2hFTzVGQ1lGZE1ITjhwdWpFWlFpQTlxRFdYWHcyTGJFQ2RUYzVDY1U1SlRkcmZaUGszRU04ZXdCMFB2d3I1?oc=5
+- Stock Market LIVE Updates: Sensex Falls 500 Points, Nifty Opens 150 Lower After Dow Sell-Off - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHVGRXlUQ1g1bzhDdURUY256UTJLZG41U1dPLTVLLV9MTFdUTmNIZ2tZdDhqUEdXWXhLdGpLai1YZUJmRmFVdjg3c05KQWFfQTRrVEszMUFqbEhGbk40TDM5cU1fVkxjdG
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHVGRXlUQ1g1bzhDdURUY256UTJLZG41U1dPLTVLLV9MTFdUTmNIZ2tZdDhqUEdXWXhLdGpLai1YZUJmRmFVdjg3c05KQWFfQTRrVEszMUFqbEhGbk40TDM5cU1fVkxjdGlzem5Scm5Sb2ZSNDdHQ1ZHSkVsRFB4YjVwTEtPbEh1VldLeVNObzg1aDhQVG1tcDctZlJ6bkIzZUdNRlpVRnp4OVdvM2VyMVRuSVo0MzNPdVQ5M0QzYkhFTkw4M0VJVWZIVGUwazQtdEU4UWNFQl9Ka3piZWNoQdIB6AFBVV95cUxNTUV6dHE0Y2gwejhBSHUyR3NSOXB0d1lLRHNfQmVCaTdRV1VHa3otNjRObnhfbm44Y1lBVVZFaVhjNzZlVjlLNzM2OUxyVFNzd29pbVYxZEpDdFgwNlppZnAycUpidnN1LVZwNFV4UGNYVGEwOVpJb051UVUydzMyRXNzUXo0VmVNTWRINmVSMVlCSzJPRFZiMGtJemtVdmw3N3NuYkZYeG9ZeFpPVTFhR2hwTmVFQUhNc2dtS1pBR3dNaWljSmgyOXkyVUkyeVVvVWZ2ODB6NzlYcG5DRWRWQURucnlVZlFF?oc=5
 
-- GIFT Nifty down 170 points; here's the trading setup for today's session
-  Indian stock markets recovered, ending a three-day losing streak. The India VIX, a fear gauge, saw a significant drop. Foreign portfolio investors were net sellers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129124622.cms
+- Markets still digesting West Asia shock; domestic sectors offer relative comfort, says Dharmesh Kant
+  Market experts advise caution despite a brief equity rebound. Analysts believe the market has not fully absorbed the impact of recent events. Investors are advised to focus on domestic-oriented sectors.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-still-digesting-west-asia-shock-domestic-sectors-offer-relative-comfort-says-dharmesh-kant/articleshow/129135983.cms
 
-- Stocks in news: Mazagon Dock, Indian Oil, GRSE, Petronet LNG, GAIL
-  Indian markets saw a strong rebound on Thursday. Improved global sentiment and buying in major stocks fueled the rise. Several companies like Indian Oil, GAIL, and Mazagon Dock are in focus due to significant news.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mazagon-dock-indian-oil-grse-petronet-lng-gail/articleshow/129124467.cms
+- 62% women plan to invest in crypto in next 6–12 months; Bitcoin remains top entry asset: CoinSwitch
+  A nationwide CoinSwitch survey shows rising interest among Indian women in crypto investing. Bitcoin remains the preferred entry asset, while most women allocate a small share of their income to digital assets.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/62-women-plan-to-invest-in-crypto-in-next-612-months-bitcoin-remains-top-entry-asset-coinswitch/articleshow/129135809.cms
 
-- Oil price down more than 2% in early Asian trade
-  Oil prices fall more than two percent in early Asian trade after strong gains in recent days on the back of the conflict in the Middle East. "Further action to reduce pressure on oil is imminent," US President Donald Trump said.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-down-more-than-2-in-early-asian-trade/articleshow/129124281.cms
+- Indian bonds fall as traders eye auction, RBI buying
+  Indian government bonds saw an early dip as traders braced for a crucial auction. Despite rising crude oil prices and U.S. Treasury yields, domestic bonds have shown resilience.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-fall-as-traders-eye-auction-rbi-buying/articleshow/129135378.cms
 
-- Global Market Today | Asian stocks drop as war drags on, crude oil falls
-  Asian equities experienced their steepest weekly loss in six years as renewed Iranian strikes and the ongoing Middle East conflict drove a broad retreat in risk assets. Oil prices edged lower, though they remain on track for their biggest weekly surge since 2022
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-war-drags-on-crude-oil-falls/articleshow/129124229.cms
+- Big railway PSU merger on the way? IRCON, RVNL shares rally up to 12% on merger reports
+   IRCON and RVNL shares surged significantly on Friday following reports of a proposed merger initiated by the Ministry of Railways. The proposal now awaits approval from various government ministries and the CCEA.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/big-railway-psu-merger-on-the-way-ircon-rvnl-shares-rally-up-to-12-on-merger-reports/articleshow/129135350.cms
 
-- Rising oil prices to hit profit margins of OMCs, pump up upstream companies
-  Rising crude oil prices are expected to significantly impact the March-quarter profits of oil marketing companies. While upstream companies like ONGC and Oil India stand to benefit from higher crude prices, gas utilities face pressure
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rising-prices-to-hit-profit-margins-of-omcs-pump-up-upstream-cos/articleshow/129123928.cms
+- Stock broking firm Shreni Shares files IPO papers with Sebi
+  The company has filed preliminary papers with Sebi. The public issue includes a fresh share sale and an offer for sale by existing shareholders.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/stock-broking-firm-shreni-shares-files-ipo-papers-with-sebi/articleshow/129134948.cms
 
-- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
-  "Baseless": India Rejects Report Claim
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
+- India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
-  India Sent Vessel To Help Sinking Iranian Warship
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
+- US will ‘not make same mistake’ of giving India 'China-like concessions', says official - The Times of India
+  US will ‘not make same mistake’ of giving India �
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV3FTa0dMVXFfMlRzcmh4b2pHQlpaOHBQQzJ2dWtlbWc4dHkxRG95VEVjVE13S1lveC1ZelJfa0k4Y3F2MTA0bzd5MU0wZlkzQTduRGdtSExVUVk3cW1JQWhDZzZBTGVvN3RfbG5TQlBFZGVLaGF0YUp2MTdPYms3Z3JIUWNkclVKVHMtbjlfUDNQQm9lUGFqT1lfQmpMejJCalVtS1JJSzhIQ0F6Umg4dVlzZXB6dVVCRE5DeHZJaF9tVkNsbC1ESjUtWkhWaGtUVXBFN1l3c2JGQWV5WW0wNzFuTWxPZkdUZ1ZacFFkZGpFUzdjNGN5M1V4bTjSAYICQVVfeXFMTWNlZHNPRWo4bnl3WC1JRXctQ2dJLTY1cW5ndWstZUNHZnhaa0ZrbnpVRndmN0xJU0pXcVRjYmZFWXlOanFGUGZFemJ2Ujk1OFR5aVcxTnd6SmlSVzJjYlp1cU4wanZWNEQxcG16WWotNHprRWVXYjFEbmdjM1V5YXNQTHF6cC1YUnhWUDZycGZxT01QY3BNdHFua3RNazJSeGR1YmxlRU5tWTJQanl1UDdLUHdaZDN5a1FjTmVlNDJhMDk4RjVwbmxwOHNNTk12Q3Q0VzRZS2FHWjVuQlpkU2xmSW9QZjhXSzN0em5RUlVYQTZwbHMxOVBLQVZOVnQwcjVB?oc=5
 
-- "Guest Of India Struck In International Waters": Iran On US Submarine Attack - NDTV
-  "Guest Of India Struck In International Waters":
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaF9xNFE1OUtDZy10VXB3MkRfWG5Sa05NREc2ZFdab1lqN1ZnUjJiaDZaUWhOOW0yMlhScnNqZ0V0VnNtcHNnOEt0c2M1RmFYRkt4bFIzTHR4cy1uLWxFX3FTNkp2dmhaSkxobzlvd0VqX25ueGFwaDV2WW85VEw2d2ozcW82bkx5Mnk2UGp6b0U4dHVRRndrSVktY1Z1Qm96cmt1SjJSMkgySXV3RFlveGR0S1Q5TjFKMlAyN3Q3cTFqdEZURk41c1dreUXSAdQBQVVfeXFMUEVXcFgyRWQ2VEctR2U3Ykdic1g0UV9TdUpKS2lMVTRZNTE3VnRwV1k2bEN3cDdBRlN3QXJrLS1QbkFKemJ6d2p1VlZiS3RaSmJ4UC1NeWZ0Skx4enQ2RnoyYl96TUtmQ1NXUEtORjJMZWc3eGZUVlVIUzZqNUd2UnhTeXRrYUFuZm9ZVDM4RUFhemxpT3ZSVlljVS1SWDJMaDJPZDNEcnVjMFlQX3JGcm16bjh5T0tiT0J6UXZlVGx6c09oU0hURFRpazZaVXRpZEE5eF8?oc=5
+- India news: US grants a 30-day waiver for Russian oil import - DW.com
+  The US has granted a 30-day waiver
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1JZ21od2ZieWRmZ2MwQ2VCekZfMlJwSnNxMXROYTdSYUMwU0VIa2hyMFpsd1BJVWtvcWxGNVlIZlJIOXp5YXVkRHdnOHY4Y2V2dWYzNkktVUZzY0c2akRTVFFzeTlOWHJBU0VqRnFmeXpjRFBQc2ZMcE16SHZTSGJrT0ZTSW96dFFJSGNrZFJZNXgtYmJHUVhEZw?oc=5
 
-- US sub sinks Iranian warship in Indian Ocean, Hegseth says - BBC
-  US sub sinks Iranian warship in Indian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVFRNZlhjeUQ3Wm1pY0JKbkMtbk9hZDdWcFRab0F4ckdoQVU1aE1pd0ZXbmJBNllqcEFJYm5paFNJZ2xHeWZmX2Q3TzliNzdjWnBDeThvSHNHQQ?oc=5
-
-- India's 'moist heatwaves' getting worse, says study - The Times of India
-  India's 'moist heatwaves'
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVJWSWJ3NGVTMEh1dXBPWVIydTZ2ODBienl2VU9jNnpJWEZ5a0plcWk4ZVZFaEQydnZ2UFR2SFZMR0h4akJmM2pWaWF1ZjNmeEthMGZDajlSaGxZakVXQ0dPVHZVNDRpUWxDV1EtUWZoQmxuUFhyRWR5NWNlbVBWcklBRE5jQ0xKOUg0NFVrTUdfVHllbU1ZV3NKWi11ejFQZnJnZFl5ZGxJWUhIWG9VSnA5Z3J3QdIBuwFBVV95cUxQS21mUkU0X3BxUWVpdlc1OS1vTU0weXNjTXFDWllDVnNDcHh5Y2FidEtacFB3RmVGemE0VkxEZVlqVmNRWS12LTRsakR1U2RDM0JqZkdvbXNBVi1JWEdqS183R2g1QU13YW1FdGJ4a3dOOFNnbjJOcHFTZGhDUVpmWUJpTjRaQXNOVTZmRkxEMUZlRGNDYVNJcFh6WUVIM3BKZWQ2OWw1MTFMckxxTW9GcmN1S1JOMTZlZFgw?oc=5
-
-- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
-  "Baseless": India Rejects Report Claim
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
+- India's intelligence role in Iran’s warship IRIS Dena? Analyst raises doubts - theweek.in
+  India's intelligence role in Iran’s
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUV2Qzl2VzFxcDY3azFkUVJWNDN4UUJET0VuNTRsLVgtWlJ4NXluVk42RnZyRkNEdXg2Wkp6Tmo5dlJlWDQycWtXT1Qxd2lsdFIydXF3WHNzVjVmUW1xMzlGS3JtUVVOTzRjWlBVQ2J4UG1fZ0NRX3J3LTBUTDdoVlkwWXRBS25kTmZrazRZUUVPbUx0MnE4Q21USy1zM08tc1dVQ3IyZ2ZXbjMwdUV6bUFTLTZrcGVuVWg3LUlfLTlFNlBKQWM1LdIBzgFBVV95cUxOQVJDeXRQRC1yT21acDl1c2QwTGJZM25IbXdtZ05DemQ5T3YwSVdFc1JXZl9Lcm9VRG4wU0wzanVlTE5xRkVtQ2RlSGdqbDE1VDBoRmNsa3dWN0VZczgxRi0ySWFUdEZhUW5oYU11MkwzZVJYRTFNaDFhVzRXWUVWcC0xOEw1ekZadlBQQUJnTjFJQ01WY1JHdWczLTJUdlBHYWktWTR2dnBuWnVvNGVsMXdXT09lUDNBY2lISVZudHRpdTlMeXNxak5nNXFQdw?oc=5
 
 - India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
   India Sent Vessel To Help Sinking Iranian Warship
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
-- "Guest Of India Struck In International Waters": Iran On US Submarine Attack - NDTV
-  "Guest Of India Struck In International Waters":
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaF9xNFE1OUtDZy10VXB3MkRfWG5Sa05NREc2ZFdab1lqN1ZnUjJiaDZaUWhOOW0yMlhScnNqZ0V0VnNtcHNnOEt0c2M1RmFYRkt4bFIzTHR4cy1uLWxFX3FTNkp2dmhaSkxobzlvd0VqX25ueGFwaDV2WW85VEw2d2ozcW82bkx5Mnk2UGp6b0U4dHVRRndrSVktY1Z1Qm96cmt1SjJSMkgySXV3RFlveGR0S1Q5TjFKMlAyN3Q3cTFqdEZURk41c1dreUXSAdQBQVVfeXFMUEVXcFgyRWQ2VEctR2U3Ykdic1g0UV9TdUpKS2lMVTRZNTE3VnRwV1k2bEN3cDdBRlN3QXJrLS1QbkFKemJ6d2p1VlZiS3RaSmJ4UC1NeWZ0Skx4enQ2RnoyYl96TUtmQ1NXUEtORjJMZWc3eGZUVlVIUzZqNUd2UnhTeXRrYUFuZm9ZVDM4RUFhemxpT3ZSVlljVS1SWDJMaDJPZDNEcnVjMFlQX3JGcm16bjh5T0tiT0J6UXZlVGx6c09oU0hURFRpazZaVXRpZEE5eF8?oc=5
+- India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- US sub sinks Iranian warship in Indian Ocean, Hegseth says - BBC
-  US sub sinks Iranian warship in Indian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVFRNZlhjeUQ3Wm1pY0JKbkMtbk9hZDdWcFRab0F4ckdoQVU1aE1pd0ZXbmJBNllqcEFJYm5paFNJZ2xHeWZmX2Q3TzliNzdjWnBDeThvSHNHQQ?oc=5
+- US will ‘not make same mistake’ of giving India 'China-like concessions', says official - The Times of India
+  US will ‘not make same mistake’ of giving India �
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV3FTa0dMVXFfMlRzcmh4b2pHQlpaOHBQQzJ2dWtlbWc4dHkxRG95VEVjVE13S1lveC1ZelJfa0k4Y3F2MTA0bzd5MU0wZlkzQTduRGdtSExVUVk3cW1JQWhDZzZBTGVvN3RfbG5TQlBFZGVLaGF0YUp2MTdPYms3Z3JIUWNkclVKVHMtbjlfUDNQQm9lUGFqT1lfQmpMejJCalVtS1JJSzhIQ0F6Umg4dVlzZXB6dVVCRE5DeHZJaF9tVkNsbC1ESjUtWkhWaGtUVXBFN1l3c2JGQWV5WW0wNzFuTWxPZkdUZ1ZacFFkZGpFUzdjNGN5M1V4bTjSAYICQVVfeXFMTWNlZHNPRWo4bnl3WC1JRXctQ2dJLTY1cW5ndWstZUNHZnhaa0ZrbnpVRndmN0xJU0pXcVRjYmZFWXlOanFGUGZFemJ2Ujk1OFR5aVcxTnd6SmlSVzJjYlp1cU4wanZWNEQxcG16WWotNHprRWVXYjFEbmdjM1V5YXNQTHF6cC1YUnhWUDZycGZxT01QY3BNdHFua3RNazJSeGR1YmxlRU5tWTJQanl1UDdLUHdaZDN5a1FjTmVlNDJhMDk4RjVwbmxwOHNNTk12Q3Q0VzRZS2FHWjVuQlpkU2xmSW9QZjhXSzN0em5RUlVYQTZwbHMxOVBLQVZOVnQwcjVB?oc=5
 
-- India's 'moist heatwaves' getting worse, says study - The Times of India
-  India's 'moist heatwaves'
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVJWSWJ3NGVTMEh1dXBPWVIydTZ2ODBienl2VU9jNnpJWEZ5a0plcWk4ZVZFaEQydnZ2UFR2SFZMR0h4akJmM2pWaWF1ZjNmeEthMGZDajlSaGxZakVXQ0dPVHZVNDRpUWxDV1EtUWZoQmxuUFhyRWR5NWNlbVBWcklBRE5jQ0xKOUg0NFVrTUdfVHllbU1ZV3NKWi11ejFQZnJnZFl5ZGxJWUhIWG9VSnA5Z3J3QdIBuwFBVV95cUxQS21mUkU0X3BxUWVpdlc1OS1vTU0weXNjTXFDWllDVnNDcHh5Y2FidEtacFB3RmVGemE0VkxEZVlqVmNRWS12LTRsakR1U2RDM0JqZkdvbXNBVi1JWEdqS183R2g1QU13YW1FdGJ4a3dOOFNnbjJOcHFTZGhDUVpmWUJpTjRaQXNOVTZmRkxEMUZlRGNDYVNJcFh6WUVIM3BKZWQ2OWw1MTFMckxxTW9GcmN1S1JOMTZlZFgw?oc=5
+- India news: US grants a 30-day waiver for Russian oil import - DW.com
+  The US has granted a 30-day waiver
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1JZ21od2ZieWRmZ2MwQ2VCekZfMlJwSnNxMXROYTdSYUMwU0VIa2hyMFpsd1BJVWtvcWxGNVlIZlJIOXp5YXVkRHdnOHY4Y2V2dWYzNkktVUZzY0c2akRTVFFzeTlOWHJBU0VqRnFmeXpjRFBQc2ZMcE16SHZTSGJrT0ZTSW96dFFJSGNrZFJZNXgtYmJHUVhEZw?oc=5
 
-- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
-  "Baseless": India Rejects Report Claim
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
-
-- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
-  India Sent Vessel To Help Sinking Iranian Warship
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
-
-- "Guest Of India Struck In International Waters": Iran On US Submarine Attack - NDTV
-  "Guest Of India Struck In International Waters":
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaF9xNFE1OUtDZy10VXB3MkRfWG5Sa05NREc2ZFdab1lqN1ZnUjJiaDZaUWhOOW0yMlhScnNqZ0V0VnNtcHNnOEt0c2M1RmFYRkt4bFIzTHR4cy1uLWxFX3FTNkp2dmhaSkxobzlvd0VqX25ueGFwaDV2WW85VEw2d2ozcW82bkx5Mnk2UGp6b0U4dHVRRndrSVktY1Z1Qm96cmt1SjJSMkgySXV3RFlveGR0S1Q5TjFKMlAyN3Q3cTFqdEZURk41c1dreUXSAdQBQVVfeXFMUEVXcFgyRWQ2VEctR2U3Ykdic1g0UV9TdUpKS2lMVTRZNTE3VnRwV1k2bEN3cDdBRlN3QXJrLS1QbkFKemJ6d2p1VlZiS3RaSmJ4UC1NeWZ0Skx4enQ2RnoyYl96TUtmQ1NXUEtORjJMZWc3eGZUVlVIUzZqNUd2UnhTeXRrYUFuZm9ZVDM4RUFhemxpT3ZSVlljVS1SWDJMaDJPZDNEcnVjMFlQX3JGcm16bjh5T0tiT0J6UXZlVGx6c09oU0hURFRpazZaVXRpZEE5eF8?oc=5
-
-- US sub sinks Iranian warship in Indian Ocean, Hegseth says - BBC
-  US sub sinks Iranian warship in Indian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVFRNZlhjeUQ3Wm1pY0JKbkMtbk9hZDdWcFRab0F4ckdoQVU1aE1pd0ZXbmJBNllqcEFJYm5paFNJZ2xHeWZmX2Q3TzliNzdjWnBDeThvSHNHQQ?oc=5
-
-- India's 'moist heatwaves' getting worse, says study - The Times of India
-  India's 'moist heatwaves'
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVJWSWJ3NGVTMEh1dXBPWVIydTZ2ODBienl2VU9jNnpJWEZ5a0plcWk4ZVZFaEQydnZ2UFR2SFZMR0h4akJmM2pWaWF1ZjNmeEthMGZDajlSaGxZakVXQ0dPVHZVNDRpUWxDV1EtUWZoQmxuUFhyRWR5NWNlbVBWcklBRE5jQ0xKOUg0NFVrTUdfVHllbU1ZV3NKWi11ejFQZnJnZFl5ZGxJWUhIWG9VSnA5Z3J3QdIBuwFBVV95cUxQS21mUkU0X3BxUWVpdlc1OS1vTU0weXNjTXFDWllDVnNDcHh5Y2FidEtacFB3RmVGemE0VkxEZVlqVmNRWS12LTRsakR1U2RDM0JqZkdvbXNBVi1JWEdqS183R2g1QU13YW1FdGJ4a3dOOFNnbjJOcHFTZGhDUVpmWUJpTjRaQXNOVTZmRkxEMUZlRGNDYVNJcFh6WUVIM3BKZWQ2OWw1MTFMckxxTW9GcmN1S1JOMTZlZFgw?oc=5
-
-- "Baseless": India Rejects Report Claiming US Using Its Ports For Iran Strikes - NDTV
-  "Baseless": India Rejects Report Claim
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXI4Tl9CZjJHVVFoM3d4cE5MNVpHOTJXS1pYcXZNamEwa3RLdEl1Q3pJN1FNemNOaWN3M00tbU9SV2ZkX1czYWVPN1pyMDJZYldodEpzOTFheUQ5WkwxMVBOWFBuNXl1bGwyZnkyUjA1ZFVxVE5PTjl1Rl9lRWpQQ3ZRbk50NXBWRFFhNzZRN181bmxsbVltYmhISGRmQjZfcG1tVTZyQWM2WF9jaWVqaWZWaEJKcHk3R2Z3UGhPN2k0aFXSAcsBQVVfeXFMTWhycHRSQ05LTWVwX3BpVVR2RE8ySGZ1ZW9tQVV2SF9JZjNodFZXM010WjNKV3lhTlcwNWtrb05Ud1VlTkVXZkhGb0RYbDZZQzNkZnlrY1dyMWt1OXFGTkZYaDhsQVZEUW9mRlJ3Snp6S2dNOV83VlRoUWhCeE5HTUh0WlBSTVMyclV2eWhwREtwN0ZsZFNkdVN2bGlaYk1IOVhrbWZ1RmwxVWk3bFVLM2RfLVQ1eUk4SGNidXpfSGxBanNFRHFQOEpfTDg?oc=5
+- India's intelligence role in Iran’s warship IRIS Dena? Analyst raises doubts - theweek.in
+  India's intelligence role in Iran’s
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUV2Qzl2VzFxcDY3azFkUVJWNDN4UUJET0VuNTRsLVgtWlJ4NXluVk42RnZyRkNEdXg2Wkp6Tmo5dlJlWDQycWtXT1Qxd2lsdFIydXF3WHNzVjVmUW1xMzlGS3JtUVVOTzRjWlBVQ2J4UG1fZ0NRX3J3LTBUTDdoVlkwWXRBS25kTmZrazRZUUVPbUx0MnE4Q21USy1zM08tc1dVQ3IyZ2ZXbjMwdUV6bUFTLTZrcGVuVWg3LUlfLTlFNlBKQWM1LdIBzgFBVV95cUxOQVJDeXRQRC1yT21acDl1c2QwTGJZM25IbXdtZ05DemQ5T3YwSVdFc1JXZl9Lcm9VRG4wU0wzanVlTE5xRkVtQ2RlSGdqbDE1VDBoRmNsa3dWN0VZczgxRi0ySWFUdEZhUW5oYU11MkwzZVJYRTFNaDFhVzRXWUVWcC0xOEw1ekZadlBQQUJnTjFJQ01WY1JHdWczLTJUdlBHYWktWTR2dnBuWnVvNGVsMXdXT09lUDNBY2lISVZudHRpdTlMeXNxak5nNXFQdw?oc=5
 
 - India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
   India Sent Vessel To Help Sinking Iranian Warship
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
-- "Guest Of India Struck In International Waters": Iran On US Submarine Attack - NDTV
-  "Guest Of India Struck In International Waters":
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNaF9xNFE1OUtDZy10VXB3MkRfWG5Sa05NREc2ZFdab1lqN1ZnUjJiaDZaUWhOOW0yMlhScnNqZ0V0VnNtcHNnOEt0c2M1RmFYRkt4bFIzTHR4cy1uLWxFX3FTNkp2dmhaSkxobzlvd0VqX25ueGFwaDV2WW85VEw2d2ozcW82bkx5Mnk2UGp6b0U4dHVRRndrSVktY1Z1Qm96cmt1SjJSMkgySXV3RFlveGR0S1Q5TjFKMlAyN3Q3cTFqdEZURk41c1dreUXSAdQBQVVfeXFMUEVXcFgyRWQ2VEctR2U3Ykdic1g0UV9TdUpKS2lMVTRZNTE3VnRwV1k2bEN3cDdBRlN3QXJrLS1QbkFKemJ6d2p1VlZiS3RaSmJ4UC1NeWZ0Skx4enQ2RnoyYl96TUtmQ1NXUEtORjJMZWc3eGZUVlVIUzZqNUd2UnhTeXRrYUFuZm9ZVDM4RUFhemxpT3ZSVlljVS1SWDJMaDJPZDNEcnVjMFlQX3JGcm16bjh5T0tiT0J6UXZlVGx6c09oU0hURFRpazZaVXRpZEE5eF8?oc=5
+- India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- US sub sinks Iranian warship in Indian Ocean, Hegseth says - BBC
-  US sub sinks Iranian warship in Indian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVFRNZlhjeUQ3Wm1pY0JKbkMtbk9hZDdWcFRab0F4ckdoQVU1aE1pd0ZXbmJBNllqcEFJYm5paFNJZ2xHeWZmX2Q3TzliNzdjWnBDeThvSHNHQQ?oc=5
+- US will ‘not make same mistake’ of giving India 'China-like concessions', says official - The Times of India
+  US will ‘not make same mistake’ of giving India �
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV3FTa0dMVXFfMlRzcmh4b2pHQlpaOHBQQzJ2dWtlbWc4dHkxRG95VEVjVE13S1lveC1ZelJfa0k4Y3F2MTA0bzd5MU0wZlkzQTduRGdtSExVUVk3cW1JQWhDZzZBTGVvN3RfbG5TQlBFZGVLaGF0YUp2MTdPYms3Z3JIUWNkclVKVHMtbjlfUDNQQm9lUGFqT1lfQmpMejJCalVtS1JJSzhIQ0F6Umg4dVlzZXB6dVVCRE5DeHZJaF9tVkNsbC1ESjUtWkhWaGtUVXBFN1l3c2JGQWV5WW0wNzFuTWxPZkdUZ1ZacFFkZGpFUzdjNGN5M1V4bTjSAYICQVVfeXFMTWNlZHNPRWo4bnl3WC1JRXctQ2dJLTY1cW5ndWstZUNHZnhaa0ZrbnpVRndmN0xJU0pXcVRjYmZFWXlOanFGUGZFemJ2Ujk1OFR5aVcxTnd6SmlSVzJjYlp1cU4wanZWNEQxcG16WWotNHprRWVXYjFEbmdjM1V5YXNQTHF6cC1YUnhWUDZycGZxT01QY3BNdHFua3RNazJSeGR1YmxlRU5tWTJQanl1UDdLUHdaZDN5a1FjTmVlNDJhMDk4RjVwbmxwOHNNTk12Q3Q0VzRZS2FHWjVuQlpkU2xmSW9QZjhXSzN0em5RUlVYQTZwbHMxOVBLQVZOVnQwcjVB?oc=5
 
-- India's 'moist heatwaves' getting worse, says study - The Times of India
-  India's 'moist heatwaves'
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVJWSWJ3NGVTMEh1dXBPWVIydTZ2ODBienl2VU9jNnpJWEZ5a0plcWk4ZVZFaEQydnZ2UFR2SFZMR0h4akJmM2pWaWF1ZjNmeEthMGZDajlSaGxZakVXQ0dPVHZVNDRpUWxDV1EtUWZoQmxuUFhyRWR5NWNlbVBWcklBRE5jQ0xKOUg0NFVrTUdfVHllbU1ZV3NKWi11ejFQZnJnZFl5ZGxJWUhIWG9VSnA5Z3J3QdIBuwFBVV95cUxQS21mUkU0X3BxUWVpdlc1OS1vTU0weXNjTXFDWllDVnNDcHh5Y2FidEtacFB3RmVGemE0VkxEZVlqVmNRWS12LTRsakR1U2RDM0JqZkdvbXNBVi1JWEdqS183R2g1QU13YW1FdGJ4a3dOOFNnbjJOcHFTZGhDUVpmWUJpTjRaQXNOVTZmRkxEMUZlRGNDYVNJcFh6WUVIM3BKZWQ2OWw1MTFMckxxTW9GcmN1S1JOMTZlZFgw?oc=5
+- India news: US grants a 30-day waiver for Russian oil import - DW.com
+  The US has granted a 30-day waiver
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1JZ21od2ZieWRmZ2MwQ2VCekZfMlJwSnNxMXROYTdSYUMwU0VIa2hyMFpsd1BJVWtvcWxGNVlIZlJIOXp5YXVkRHdnOHY4Y2V2dWYzNkktVUZzY0c2akRTVFFzeTlOWHJBU0VqRnFmeXpjRFBQc2ZMcE16SHZTSGJrT0ZTSW96dFFJSGNrZFJZNXgtYmJHUVhEZw?oc=5
+
+- India's intelligence role in Iran’s warship IRIS Dena? Analyst raises doubts - theweek.in
+  India's intelligence role in Iran’s
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUV2Qzl2VzFxcDY3azFkUVJWNDN4UUJET0VuNTRsLVgtWlJ4NXluVk42RnZyRkNEdXg2Wkp6Tmo5dlJlWDQycWtXT1Qxd2lsdFIydXF3WHNzVjVmUW1xMzlGS3JtUVVOTzRjWlBVQ2J4UG1fZ0NRX3J3LTBUTDdoVlkwWXRBS25kTmZrazRZUUVPbUx0MnE4Q21USy1zM08tc1dVQ3IyZ2ZXbjMwdUV6bUFTLTZrcGVuVWg3LUlfLTlFNlBKQWM1LdIBzgFBVV95cUxOQVJDeXRQRC1yT21acDl1c2QwTGJZM25IbXdtZ05DemQ5T3YwSVdFc1JXZl9Lcm9VRG4wU0wzanVlTE5xRkVtQ2RlSGdqbDE1VDBoRmNsa3dWN0VZczgxRi0ySWFUdEZhUW5oYU11MkwzZVJYRTFNaDFhVzRXWUVWcC0xOEw1ekZadlBQQUJnTjFJQ01WY1JHdWczLTJUdlBHYWktWTR2dnBuWnVvNGVsMXdXT09lUDNBY2lISVZudHRpdTlMeXNxak5nNXFQdw?oc=5
+
+- India Sent Vessel To Help Sinking Iranian Warship Near Sri Lanka: Navy - NDTV
+  India Sent Vessel To Help Sinking Iranian Warship
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVnT2F4eEdvdG5QS0ZodXFEdXkwM0dJVVJLMU1qQUhVQUk3MHROTFJUVldaQTFtU2VVUDU0YzZoVVEtR0xGTG9UbDhuRTItUUVlZ3IxU2Y1ZjRLQ0tYS2UydUQ3UG9hV3lKbXh3LU1wUVZxU0JmeFNYSHZmMnR4eGR2X09sME5Bc0poSl9xT1Zza1F6UGRNTjhyb2lQTXBnYUNxMjVPbXRDMXNwU3RVdmNZUVZaZ2ZEUDJSZ01KRW96RmxhLUtKajhxc9IB0wFBVV95cUxQRER6T0hvOE5IY0NSZGxPdlZCd1d4bWF0ZUR6dXdnWm9MdTJSM0M3bFNtOFgxekNBS3NqcEtqd0N2NTJiMkFGOTJhRTJMVGVPbUM3XzlPcklMS3N3MEN1bVNVT202QThIS2xHU0FsUERhYVRMTWZ2UXZWdFdTMmhYdlJyT3FMc0lDMnFfVU9mYU9fZ2Y0dVpsbGlHV1h5Q0hzTVRFbktqWFBnY2ZzSVhUZktsbkVsbFdDdXF3Q1NoNzE1N290OXRiTjZWdWs4aFJhdUQw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-06 01:49:45 UTC_
+_Last updated: 2026-03-06 06:45:34 UTC_
