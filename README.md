@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Iran-Israel war: Air India, Air India Express to operate around 50 flights to six Middle East cities on March 7 – Full list
+- Sam Altman at Adda: ‘I don’t think there should be any single superintelligence in the world’
   
-  🔗 https://indianexpress.com/article/india/iran-israel-war-air-india-air-india-express-to-operate-around-50-flights-to-six-middle-east-cities-on-march-7-full-list-10568766/
+  🔗 https://indianexpress.com/article/india/sam-altman-at-adda-i-dont-think-there-should-be-any-single-superintelligence-in-the-world-10568974/
 
-- Iran-Israel war update: IndiGo to operate flights to 5 destinations in Middle East on March 7 – Full list
+- Stop reporting TRPs for TV news channels immediately: Govt to BARC amid West Asia conflict
   
-  🔗 https://indianexpress.com/article/india/iran-israel-war-indigo-middle-east-flights-march-7-full-list-10568705/
+  🔗 https://indianexpress.com/article/india/stop-reporting-trps-for-tv-news-channels-immediately-govt-to-barc-amid-west-asia-conflict-10568930/
 
-- Days before IRIS Dena sinking, India approved urgent docking for Iranian ship in Kochi
+- ‘You won’t succeed even in 100 attempts’: Amit Shah slams Rahul Gandhi over AI event protest
   
-  🔗 https://indianexpress.com/article/india/days-before-iris-dena-sink-india-approve-urgent-docking-iran-ship-kochi-10568723/
+  🔗 https://indianexpress.com/article/india/you-wont-succeed-even-in-100-attempts-amit-shah-slams-rahul-gandhi-over-ai-event-protest-10568967/
 
-- Setback for ED in JKCA ‘scam’ case as Srinagar court blocks move to add charges
+- Temperatures shooting up to 10 degrees above normal, heatwave alert issued for Himachal, Rajasthan and Gujarat
   
-  🔗 https://indianexpress.com/article/india/setback-ed-jkca-scam-case-srinagar-court-add-charges-10568608/
+  🔗 https://indianexpress.com/article/india/temperatures-shooting-up-to-10-degrees-above-normal-heatwave-alert-issued-for-himachal-rajasthan-and-gujarat-10568929/
 
-- Two years after launch, Railways upgrades India’s 42nd Vande Bharat train to 20 coaches – check route
+- 9,000 Indians stuck in Iran, Centre works on plan to bring them home
   
-  🔗 https://indianexpress.com/article/india/two-years-after-launch-railways-upgrades-indias-42nd-vande-bharat-train-to-20-coaches-check-route-10568530/
+  🔗 https://indianexpress.com/article/india/9000-indians-stuck-in-iran-centre-works-on-plan-to-bring-them-home-10568912/
+
+- Love Machines are here to monetise the loneliness economy: James Muldoon, author and sociologist
+  
+  🔗 https://indianexpress.com/article/technology/ai-companion-apps-loneliness-economy-james-muldoon-interview-10568000/
+
+- Nothing Phone 4a Pro FAQ: Answering a few early questions
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-pro-faq-answering-a-few-early-questions-10568985/
 
 - Lost for 6,000 years: ‘Extinct’ marsupials found alive in New Guinea forests
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/karnataka-becomes-1st-indian-state-to-ban-social-media-for-children-under-16-10568130/
 
-- Microsoft teases next-gen Xbox, codenamed Project Helix
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-teases-next-gen-xbox-codenamed-project-helix-10567888/
+- PhonePe created $10bn value in 10 years. Esop holders to pocket $1.4bn of that
+  PhonePe is heading to an IPO valuing it at a likely $10.5 billion. The digital payments platform's unusually high Esop bill is estimated at $1.4 billion.
+  🔗 https://www.livemint.com/companies/news/phonepe-employee-stock-options-ipo-valuation-profitability-impact-11772709684410.html
 
-- AWS launches Amazon Connect Health, an AI agent platform for healthcare providers
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/aws-launches-amazon-connect-health-an-ai-agent-platform-for-healthcare-providers-10567625/
+- AI rocks the tech boat, but an island of calm is in sight
+   ER&amp;amp;D firms that build complex hardware and the associated software may be less vulnerable to the AI apocalypse. Much of their work goes into creating physical products
+  🔗 https://www.livemint.com/companies/erd-firms-better-placed-to-survive-ai-model-wave-it-sector-cyient-ltts-kpit-11772783837601.html
+
+- Safra Pays $2 Billion Dividend to Its Owners Ahead of Tax Hike
+  Banco Safra SA paid 11 billion reais ($2 billion) in dividends and interest to the owners of its parent company in 2025
+  🔗 https://www.livemint.com/companies/safra-pays-2-billion-dividend-to-its-owners-ahead-of-tax-hike-11772825179440.html
+
+- Top Korea Power Firm Revs Up US Growth Betting on AI Supercycle
+  South Korea’s top power equipment maker, HD Hyundai Electric Co., is accelerating its US expansion. The company is betting that demand for transformers and
+  🔗 https://www.livemint.com/companies/top-korea-power-firm-revs-up-us-growth-betting-on-ai-supercycle-11772824750997.html
 
 - SAT partly allows Kotak AMC appeal in Essel FMP case, upholds  ₹1.6 crore penalty on trustee, executives
   The Securities Appellate Tribunal also extended the stay on penalties by eight weeks to allow
   🔗 https://www.livemint.com/companies/news/sat-partly-allows-kotak-amc-appeal-in-essel-fmp-case-upholds-1-6-crore-penalty-on-trustee-executives-11772810362547.html
 
-- Flipkart layoffs 2026: Nearly 500 employees asked to leave after performance review, says report
-   Flipkart has asked 400-500 employees, about 3-4% of its workforce,
-  🔗 https://www.livemint.com/companies/news/flipkart-layoffs-2026-nearly-500-employees-asked-to-leave-after-performance-review-says-report-11772799780616.html
+- NYSE to Pay SEC $9 Million Tied to 2023 Market Outage Turmoil
+  The New York Stock Exchange agreed to pay a $9 million to settle US Securities and Exchange Commission allegations. An internal malfunction led to a botched market open and wild price swings on
+  🔗 https://www.livemint.com/market/nyse-to-pay-sec-9-million-tied-to-2023-market-outage-turmoil-11772833820677.html
 
-- Uber eyes $13 billion intercity travel market with AbhiBus tie-up
-  Uber has integrated AbhiBus into its app to capture the under-penetrated intercity
-  🔗 https://www.livemint.com/companies/news/uber-ixigo-abhibus-tie-up-13-billion-intercity-travel-market-challenging-redbus-intrcity-smartbus-zingbus-flixbus-11772789784979.html
+- Stocks slide as soaring oil prices and US job losses rattle markets
+  Stocks slide as soaring oil prices
+  🔗 https://www.livemint.com/market/stocks-slide-as-soaring-oil-prices-and-us-job-losses-rattle-markets-11772830358590.html
 
-- AI layoffs 2026: From Oracle to Amazon, these tech companies cut over 35,000 jobs so far this year
-  Job cuts continue in the global tech sector, with over 35,000 layoffs in 2026 alone. Companies such
-  🔗 https://www.livemint.com/companies/news/ai-layoffs-2026-from-oracle-to-amazon-these-tech-companies-cut-over-35-000-jobs-so-far-this-year-11772793120840.html
+- US yields fall in choppy trade as weak jobs report weighed against inflation risk
+  U.S. yields fall in choppy trade as weak
+  🔗 https://www.livemint.com/market/us-yields-fall-in-choppy-trade-as-weak-jobs-report-weighed-against-inflation-risk-11772828322214.html
 
-- Superhealth bets honesty, light assets will power its out-patient hospital model
-  Superhealth Hospital hopes to offer affordable VIP care.
-  🔗 https://www.livemint.com/companies/superhealth-honesty-asset-light-hospital-model-out-patient-india-healthcare-pharma-11772537179584.html
+- CME cattle lower on long liquidation, weak jobs report
+  CME
+  🔗 https://www.livemint.com/market/cme-cattle-lower-on-long-liquidation-weak-jobs-report-11772826109646.html
 
-- Gold, silver rates today: Comex gold jumps $104/oz; silver gains $3.15 after US payrolls data
-  Gold and silver prices rose following a surprising drop in US jobs data. A strong dollar limited gains, and geopolitical tensions in the Middle East continue to complicate the economic outlook.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-104-oz-silver-gains-3-15-after-us-payrolls-data-11772813032518.html
-
-- Crude oil surges 11% as Trump rules out Iran deal without ‘unconditional surrender’; Brent tops $90
-  The ongoing US-Iran conflict is causing market instability and fears of rising consumer prices. On 6 March, crude oil prices jumped significantly following Trump's demands for Iran's unconditional surrender.
-  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-surges-11-as-trump-rules-out-iran-deal-without-unconditional-surrender-brent-tops-90-11772811361668.html
-
-- Indian stocks plummet to 14-month weekly low as Middle East goes on the boil
-   crude prices, relentless FPI outflows, and a weakening Rupee combine
-  🔗 https://www.livemint.com/market/indian-stocks-plummet-to-14-month-weekly-low-as-middle-east-goes-on-the-boil-11772803660099.html
-
-- SEBI introduces voluntary debit freeze facility for mutual fund folios — here's how it protects investors
-  SEBI has launched a voluntary debit freeze facility for mutual fund investors to enhance digital security. Effective from 30 April 20
-  🔗 https://www.livemint.com/market/sebi-introduces-voluntary-debit-freeze-facility-for-mutual-fund-folios-heres-how-it-protects-investors-11772807120263.html
-
-- Wall Street: Dow Jones slumps 1.20%, S&amp;P 500 sheds 1.07% on Middle East war, poor jobs data
-  The Dow Jones Industrial Average fell 1.20%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-declines-on-west-asia-conflict-weak-jobs-data-11772808620741.html
+- US private credit defaults hit record 9.2% in 2025, Fitch says
+  US private credit defaults hit record 9
+  🔗 https://www.livemint.com/market/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-11772822659068.html
 
 - Samsung Galaxy A36, A56 specifications leaked ahead of launch, price range tipped
   The A37 could be 7.4mm thick, while the A57 could be slimmer at 6.9mm. The A37
@@ -100,6 +100,10 @@
   WhatsApp is reportedly developing a premium subscription plan called WhatsApp Plus. The new plan could offer features like customized app icon
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-offer-a-paid-subscription-tier-with-exclusive-stickers-and-ringtones-report-11772766720190.html
 
+- Traders warn $100 oil is imminent if Iran war keeps raging
+  Brent crude has crossed $90 a barrel, gaining more than 25% this week. Oil prices remain below past crisis peaks but are rising fast.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/traders-warn-100-oil-is-imminent-if-iran-war-keeps-raging/articleshow/129187438.cms
+
 - US Stocks: US retail sales decline as consumer pullback deepens
   US retail sales declined by 0.2 percent in January, according to delayed government data. The data missed some analysts' expectations amid persistent concerns
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-retail-sales-decline-as-consumer-pullback-deepens/articleshow/129163691.cms
@@ -116,77 +120,65 @@
   The U.S. economy unexpectedly shed jobs in February amid a strike by ​healthcare workers.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-nonfarm-payrolls-decline-in-february-unemployment-rate-rises-to-4-4/articleshow/129161175.cms
 
-- Global Stocks: Big bond markets left battered and bruised as Middle East war stokes inflation angst
-  The world's biggest bond markets were headed for their worst week since at least April. Concerns that war in the Middle East will renew upward pressure on inflation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-big-bond-markets-left-battered-and-bruised-as-middle-east-war-stokes-inflation-angst/articleshow/129160889.cms
-
 - India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
-  India Gets 30-Day Waiver From US To Buy
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- 25.5 billion pound agreement with India: UK’s focus has ‘decisively shifted’ to execution of trade pact - The Financial Express
+  25.5 billion pound agreement with India: UK’s focus has �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxObFZ1Sm1NMURicGZlNkU2Q0JyLWJOVHhqb2FTVjExeGp1bklqWmFfNzBmbXZrbmE0bEFhVElFcWFXX1c0ak5xQVM4a2VGYmhEOE53Tm9vYlB1RmtfcVRGeDBwcGRiU1JuMlV3Z1pXRzVsWHdpOHdQTXc3ZEcyQkRoLXZGRktLOFM4RVh1aXFFM3BiRXBOVEVqUjEwMEI2S1pUVG9VdzhjNVdNaEZtU2JLLUJEeHNQYkdzYVBUZzA0UUZOdVI1U1VuU2pKRTBYdDgzak1NdmtQdHdUeHdXVldxNzlwUkk3RmN1aHfSAfABQVVfeXFMTndvc3o0SVFDSDFrb1lGZ3BaZzNaUFBjWkE3YlVISS1qNHlGbXo5U2h3R09hSUtXU0NXZUk1RDhLRVNCbUd6VFBvandab2Q2VHVUeHJSOTZKbk54VU5RUk1VcU9CUTFrbGlrNHVTTWtpTTBSbU5CcDlleWN5RnRVOXJ5T0RRNkFpdDlKUFpUNGtUYjd3cjNkQnVYLVpxaGJvMWRQb1l4NVc1TVJ6bHhXbDdxSEpPUDVQNWFYaTlibFAyZ2xSLUtiWFZ2VlhCSm0wYlRwVkZoNHVXMl9pQTljYUE4a2k2VU94ZUFSY0J5aU84?oc=5
 
-- "Too Many Ill-Wishers": Russia To Not Disclose Data On Oil Export To India - NDTV
-  "Too Many Ill-Wishers": Russia To Not
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWdfeHNfci1Ea0xXN0NBUWZ2RV9HYU10ZWxlejNrVzUwc1VzMzZ4bG5nMnlRbEE5bjI0ZEwwa3dDTURwQXdYRXJaSlEyWkFlT0dNY1ItUFpacHNacjd6ZUMwX2pmcXI3TG1vMkN4cFAzZW55SUx6TnlERkFrN0xPR2hXOWxvWXlrYmZKTmFXQmgwb2VLVkkzbXktZlBVdjZNdHM3MFFYY3dJWkowSk01Mk5B0gG6AUFVX3lxTE4zNnZWTnBuY3d0UmwtWlRIZXFVdDR0M3FaOWcwdVluYXVHVl9ZVjNwZHhGUjEtX0cxbWJfbnBsMnU1SmdPN0N2S2JHdnlSSXBYRnpaeGZtZFZKR1lzWFd0VE5vbGFWbUduRjN0ek1ub3U4alNvVlpRVkl0bzZndk85dTFMWWc3RFBQZG1jZk9nb2FvUE9kbnI4N2JXWlkwOGljTi1aVzEzMXZrZUJsRHY3ZHFlZ0IxZHZSdw?oc=5
+- "Trade With India, Yes. But Will Learn From China Mistake": US Official - NDTV
+  "Trade With India, Yes. But Will Learn
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQcG5jZTdGMzZkRllVSXYyV0VHLVNYM2loM1N6c0FWZzdpaGZWMm9XdkdBZmFJQzJuSk0ycW9BUURnaEo2TFJoVW9HMVB1eEl1ck53RUdCM08zWW5OTzhlMW1aQWIzOS1IN1l2NWJoQWVpR3lJN2E3bDkwX1dRQ3ZGY0ltVVNvZ1NWbUdtbjdEdkt4MURwbjFIWWdhRTZHbEhjV1h4XzNJVGVFUVJBS3lQdVYyODhRVVVORUVCc0loQXp1ZzRFcmNMdjlNaUx6SFlBRGtidHo0UHF3NEFFeHFndHMwdVZ5TzRQUGlxM0VRdjZ2NjBxXzU2cVkxMTZWeGs0cko1TkNWQXRLeVVC0gGUAkFVX3lxTE5vWFB4UUxqZVpicWFHWVczb0x0N2xZc0ZqaGdvaFVCbVRLNDdaWUhKRmZtZWtkaU1kbHlFRG1fWGdNZU5KRmpnS1Ewb2ZRc0dtdVFUR25URXFMSVB1eG5qdW4tVjVmUW1mdWlMSU9CbGFSNDFyYkNRWS0wUFVUVzU2ekNxUXEybGRFbXVycUc4emR2NG9sTDJBLTFBMHJKWloyWWZJbnpTanFobHY5MTlTVmFmMkpaaHFlcWl5dW1GWmpVUnNqSHNFa3JCZzhxTVYxSmlOb2xwQ1NBOU1uVEdZM1ZpLU1ZZXVxeml1b2lLQkY2bnlIODRkUlhfejFLdklmaWhJLWlCZzdwRDNwT18yX0lMRA?oc=5
 
-- 'F**k America, India, China': Nepal PM Frontrunner Balen Shah's 2025 Post Goes Viral, Triggers Outrage - News18
-  'F**k America, India, China': Nepal PM Front
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXZ5ZlNwWDcxcTZTU2t0aFEzN04xSHN3b1Jmb0tWRklvX3Zfb3dvNHZObFhlUEF5Z3dnejJicjNad1ptV1AzRnlVT2o2N0d0UDZkTlFpTjJ3NmFZQUFGbDlrY1ZwTEluZzJDOW1xeWtpUS1nTV9Lc0lGbVM0V2dyQmJyTElOWWV3S3BuYmY5eE5OR0liMzlhd1FYeDctbkVFZXU0V2JuLW9IR2NTYzhiUmxaUjl1Sm9KZGRqVkgzM1pRZ3dMSGZlNTdJdWtyb3Vs0gHWAUFVX3lxTE5iOVZXdGJhdkxjT3NURXhRSVdJYjNCbmdNRXp0TV9VeWtGeHc3RTZmd2dNbHdPckg2WEdZVjZDbkl0M3I5V2hWSWRfVGFrbWU4VDZsc3VaOTVPMG02U1BwU21mM1JtSlZHTEwwYnU2dy1aYlBVWjBQVzVSV2dUQk4xeGNrQkZ2Y1NqYUNVb2NFSnE3VVVzdk1lR2RyTG9mOFVNQlJacjcyeURfa2ZVTTJmVXliTWNaNC11ajQxUllNc2pjNkZrdElBQjRScm1INUFwUXI1VUE?oc=5
+- 'Won't repeat the mistakes we made with China': Top Trump official on India trade deal | India News - Hindustan Times
+  'Won't repeat the mistakes we made with China': Top Trump official on India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDYweW1zenFJeEVnVDdhY3RwOUItaG5hRGhaby10TFdnQ0FtckZ2SjFxYUhYS0hhb1VSUjlZRXctVjVpb3R4b1RvMlJMWXhWMkhLRjVsU3lvUVlDMHc3OGpYUXAxbE5ndWxLZVV3a0VBcWliOVZ4VEN3VXdfcm9GRmt1cHlWNkRuRTRNQ0FCWkIxdU5xOUlmbFlSamhBZGNxRFNNVUJpUmtDY1M0V0RpZW1qck9reGFXcVhMMVlSRUFHenJwVUk2UmloWW1UOXdmTDBTWGd0dnZUYzk5VmfSAeMBQVVfeXFMTzJhRjVoYjNPOEpOY251bkFza1FyOTJOVzEwdUpBYy1razhRNjVlVGpsZkRwM3pQVjQtQTBLSVR1M1JjV0s1SkhWU1lKSFhKN0hBUF9KSDlLVDRMdS1pOFU5Q0NGZHIyYTk0WDNvWndBVWl2aE83WmpfNkM4QUdJOGhidjhncmpIbmZGZnQ4WXM0MzVFclpteHRjYlpySDg1ZjhDbkthazhzaUQ1em90bGh5ZEVIVWpiMGRYb2wycGFnSm1tSzhQYXRfVmRLYXZ1cG1fVHJyWFRuVklaeWJ5ZE1RejA?oc=5
 
-- ‘Big brother’ charge, border dispute: Why India is keeping a close eye on Nepal election results | India News - Hindustan Times
-  ‘Big brother’ charge, border dispute: Why India is keeping a close eye
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1FzbkNXbHdkZU15dmVuc2lXRDViZmZSQm5NMVlOc1Y3MzhHR21tNEVYeExadG5FM1hfcmFEZ0RHOGh6WmM4V0RqemlESnhYUzB0dmpnTV9TZVY5eUVoSkxhb3NaUzZHRU51aU9kYkhnQzFHb1o2Y1FhV0ZzSW1mS0k1Y0RpS1A0RFlKY2d1cmZHajlOc3lfTklDWUE1SzZ1NXFqUzh0QzM3TmN3N1ZCWHJIZmQ0ZWlxRkQ0R19UMTRrUzlkR1IxVHlQV2pRVTBVakQxbXhJRjJQNEt5Q1p6QkdLV1pNWUE2ZlpV0gHwAUFVX3lxTE91TEQzZGgtY1pFeDJKRl8tZVJrdkx3SUF6TGpBT3BLTjlPYk1hWFJYOS1LSXNJOF9KdFJJYmRETVAxazgxY0tYVjFKSDVuZWRra0dyREI3SExKRk9KYkpHY0JRdVRsWDBtTG03WTVCaFM4M0ZNQ0djemlNT1F2N1dZOGpWVG9DRUVJbW04eUZEVWRwWHhZeWhsMFc5enFRTUR6Tl9sNVFWWFRrYmxxNDE0MUd1bGpWazM0SG4wb2lJbGYyR2o0dURTMnkxak54QnpZak5YSkIxLW9RUDNsNE9SUDAyZnN4WnJSdUE0cVB1Tw?oc=5
+- Goa cashew fest to create awareness about safe driving - The Times of India
+  Goa cashew fest to create awareness about safe
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXF0anNqV1dsVWlJdWVHOUVkTndFaFM4MUpHVFlYNFlVQmVpWnhrOUtKdXJkZUhmYldFMHdtc1ZrWW93QUhjNHRSS1VQVzE5MWdWeThzaUhoMGdTNVE5RFV4cG1RZTRfVVV3MUVSdW0zdHlLSDZ5a3FDVU8xZF84QmlVdnVxOHQ4S0tfZnVxRng3dzBnbWJxR2MtSnBDa0NmbU50YjhMNEZ6elJYdTF1eUlOSE9Fa0xjS2dNQTB4SdIBxAFBVV95cUxQZTBaaHdxZ1dzM0pZTFV0LTNTeUFOV19YZUFEaFR0bjlab0FUVm5YWS1GRkFrb2ctMDVkdjJGZElWUzJkc1FMZ0lBV3lyOGZvMXZTVUtNNkdJZnhramhFdDBEaTI1bTE4WG11WXAxeWRLNGNhUnNoWWxvSEFVZU1IcDI2aUlJRUEzdUFsRGRNRjU0dnh0TGpIZzJ0eEJILWx3NjVrUjlKLUx4WXRnSnhTV3BNemlPZ2FXejRERHV5ZHRqNVJS?oc=5
 
 - India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
-  India Gets 30-Day Waiver From US To Buy
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- 25.5 billion pound agreement with India: UK’s focus has ‘decisively shifted’ to execution of trade pact - The Financial Express
+  25.5 billion pound agreement with India: UK’s focus has �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxObFZ1Sm1NMURicGZlNkU2Q0JyLWJOVHhqb2FTVjExeGp1bklqWmFfNzBmbXZrbmE0bEFhVElFcWFXX1c0ak5xQVM4a2VGYmhEOE53Tm9vYlB1RmtfcVRGeDBwcGRiU1JuMlV3Z1pXRzVsWHdpOHdQTXc3ZEcyQkRoLXZGRktLOFM4RVh1aXFFM3BiRXBOVEVqUjEwMEI2S1pUVG9VdzhjNVdNaEZtU2JLLUJEeHNQYkdzYVBUZzA0UUZOdVI1U1VuU2pKRTBYdDgzak1NdmtQdHdUeHdXVldxNzlwUkk3RmN1aHfSAfABQVVfeXFMTndvc3o0SVFDSDFrb1lGZ3BaZzNaUFBjWkE3YlVISS1qNHlGbXo5U2h3R09hSUtXU0NXZUk1RDhLRVNCbUd6VFBvandab2Q2VHVUeHJSOTZKbk54VU5RUk1VcU9CUTFrbGlrNHVTTWtpTTBSbU5CcDlleWN5RnRVOXJ5T0RRNkFpdDlKUFpUNGtUYjd3cjNkQnVYLVpxaGJvMWRQb1l4NVc1TVJ6bHhXbDdxSEpPUDVQNWFYaTlibFAyZ2xSLUtiWFZ2VlhCSm0wYlRwVkZoNHVXMl9pQTljYUE4a2k2VU94ZUFSY0J5aU84?oc=5
 
-- "Too Many Ill-Wishers": Russia To Not Disclose Data On Oil Export To India - NDTV
-  "Too Many Ill-Wishers": Russia To Not
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONWdfeHNfci1Ea0xXN0NBUWZ2RV9HYU10ZWxlejNrVzUwc1VzMzZ4bG5nMnlRbEE5bjI0ZEwwa3dDTURwQXdYRXJaSlEyWkFlT0dNY1ItUFpacHNacjd6ZUMwX2pmcXI3TG1vMkN4cFAzZW55SUx6TnlERkFrN0xPR2hXOWxvWXlrYmZKTmFXQmgwb2VLVkkzbXktZlBVdjZNdHM3MFFYY3dJWkowSk01Mk5B0gG6AUFVX3lxTE4zNnZWTnBuY3d0UmwtWlRIZXFVdDR0M3FaOWcwdVluYXVHVl9ZVjNwZHhGUjEtX0cxbWJfbnBsMnU1SmdPN0N2S2JHdnlSSXBYRnpaeGZtZFZKR1lzWFd0VE5vbGFWbUduRjN0ek1ub3U4alNvVlpRVkl0bzZndk85dTFMWWc3RFBQZG1jZk9nb2FvUE9kbnI4N2JXWlkwOGljTi1aVzEzMXZrZUJsRHY3ZHFlZ0IxZHZSdw?oc=5
+- "Trade With India, Yes. But Will Learn From China Mistake": US Official - NDTV
+  "Trade With India, Yes. But Will Learn
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQcG5jZTdGMzZkRllVSXYyV0VHLVNYM2loM1N6c0FWZzdpaGZWMm9XdkdBZmFJQzJuSk0ycW9BUURnaEo2TFJoVW9HMVB1eEl1ck53RUdCM08zWW5OTzhlMW1aQWIzOS1IN1l2NWJoQWVpR3lJN2E3bDkwX1dRQ3ZGY0ltVVNvZ1NWbUdtbjdEdkt4MURwbjFIWWdhRTZHbEhjV1h4XzNJVGVFUVJBS3lQdVYyODhRVVVORUVCc0loQXp1ZzRFcmNMdjlNaUx6SFlBRGtidHo0UHF3NEFFeHFndHMwdVZ5TzRQUGlxM0VRdjZ2NjBxXzU2cVkxMTZWeGs0cko1TkNWQXRLeVVC0gGUAkFVX3lxTE5vWFB4UUxqZVpicWFHWVczb0x0N2xZc0ZqaGdvaFVCbVRLNDdaWUhKRmZtZWtkaU1kbHlFRG1fWGdNZU5KRmpnS1Ewb2ZRc0dtdVFUR25URXFMSVB1eG5qdW4tVjVmUW1mdWlMSU9CbGFSNDFyYkNRWS0wUFVUVzU2ekNxUXEybGRFbXVycUc4emR2NG9sTDJBLTFBMHJKWloyWWZJbnpTanFobHY5MTlTVmFmMkpaaHFlcWl5dW1GWmpVUnNqSHNFa3JCZzhxTVYxSmlOb2xwQ1NBOU1uVEdZM1ZpLU1ZZXVxeml1b2lLQkY2bnlIODRkUlhfejFLdklmaWhJLWlCZzdwRDNwT18yX0lMRA?oc=5
 
-- 'F**k America, India, China': Nepal PM Frontrunner Balen Shah's 2025 Post Goes Viral, Triggers Outrage - News18
-  'F**k America, India, China': Nepal PM Front
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdXZ5ZlNwWDcxcTZTU2t0aFEzN04xSHN3b1Jmb0tWRklvX3Zfb3dvNHZObFhlUEF5Z3dnejJicjNad1ptV1AzRnlVT2o2N0d0UDZkTlFpTjJ3NmFZQUFGbDlrY1ZwTEluZzJDOW1xeWtpUS1nTV9Lc0lGbVM0V2dyQmJyTElOWWV3S3BuYmY5eE5OR0liMzlhd1FYeDctbkVFZXU0V2JuLW9IR2NTYzhiUmxaUjl1Sm9KZGRqVkgzM1pRZ3dMSGZlNTdJdWtyb3Vs0gHWAUFVX3lxTE5iOVZXdGJhdkxjT3NURXhRSVdJYjNCbmdNRXp0TV9VeWtGeHc3RTZmd2dNbHdPckg2WEdZVjZDbkl0M3I5V2hWSWRfVGFrbWU4VDZsc3VaOTVPMG02U1BwU21mM1JtSlZHTEwwYnU2dy1aYlBVWjBQVzVSV2dUQk4xeGNrQkZ2Y1NqYUNVb2NFSnE3VVVzdk1lR2RyTG9mOFVNQlJacjcyeURfa2ZVTTJmVXliTWNaNC11ajQxUllNc2pjNkZrdElBQjRScm1INUFwUXI1VUE?oc=5
+- 'Won't repeat the mistakes we made with China': Top Trump official on India trade deal | India News - Hindustan Times
+  'Won't repeat the mistakes we made with China': Top Trump official on India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDYweW1zenFJeEVnVDdhY3RwOUItaG5hRGhaby10TFdnQ0FtckZ2SjFxYUhYS0hhb1VSUjlZRXctVjVpb3R4b1RvMlJMWXhWMkhLRjVsU3lvUVlDMHc3OGpYUXAxbE5ndWxLZVV3a0VBcWliOVZ4VEN3VXdfcm9GRmt1cHlWNkRuRTRNQ0FCWkIxdU5xOUlmbFlSamhBZGNxRFNNVUJpUmtDY1M0V0RpZW1qck9reGFXcVhMMVlSRUFHenJwVUk2UmloWW1UOXdmTDBTWGd0dnZUYzk5VmfSAeMBQVVfeXFMTzJhRjVoYjNPOEpOY251bkFza1FyOTJOVzEwdUpBYy1razhRNjVlVGpsZkRwM3pQVjQtQTBLSVR1M1JjV0s1SkhWU1lKSFhKN0hBUF9KSDlLVDRMdS1pOFU5Q0NGZHIyYTk0WDNvWndBVWl2aE83WmpfNkM4QUdJOGhidjhncmpIbmZGZnQ4WXM0MzVFclpteHRjYlpySDg1ZjhDbkthazhzaUQ1em90bGh5ZEVIVWpiMGRYb2wycGFnSm1tSzhQYXRfVmRLYXZ1cG1fVHJyWFRuVklaeWJ5ZE1RejA?oc=5
 
-- ‘Big brother’ charge, border dispute: Why India is keeping a close eye on Nepal election results | India News - Hindustan Times
-  ‘Big brother’ charge, border dispute: Why India is keeping a close eye
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1FzbkNXbHdkZU15dmVuc2lXRDViZmZSQm5NMVlOc1Y3MzhHR21tNEVYeExadG5FM1hfcmFEZ0RHOGh6WmM4V0RqemlESnhYUzB0dmpnTV9TZVY5eUVoSkxhb3NaUzZHRU51aU9kYkhnQzFHb1o2Y1FhV0ZzSW1mS0k1Y0RpS1A0RFlKY2d1cmZHajlOc3lfTklDWUE1SzZ1NXFqUzh0QzM3TmN3N1ZCWHJIZmQ0ZWlxRkQ0R19UMTRrUzlkR1IxVHlQV2pRVTBVakQxbXhJRjJQNEt5Q1p6QkdLV1pNWUE2ZlpV0gHwAUFVX3lxTE91TEQzZGgtY1pFeDJKRl8tZVJrdkx3SUF6TGpBT3BLTjlPYk1hWFJYOS1LSXNJOF9KdFJJYmRETVAxazgxY0tYVjFKSDVuZWRra0dyREI3SExKRk9KYkpHY0JRdVRsWDBtTG03WTVCaFM4M0ZNQ0djemlNT1F2N1dZOGpWVG9DRUVJbW04eUZEVWRwWHhZeWhsMFc5enFRTUR6Tl9sNVFWWFRrYmxxNDE0MUd1bGpWazM0SG4wb2lJbGYyR2o0dURTMnkxak54QnpZak5YSkIxLW9RUDNsNE9SUDAyZnN4WnJSdUE0cVB1Tw?oc=5
+- Goa cashew fest to create awareness about safe driving - The Times of India
+  Goa cashew fest to create awareness about safe
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXF0anNqV1dsVWlJdWVHOUVkTndFaFM4MUpHVFlYNFlVQmVpWnhrOUtKdXJkZUhmYldFMHdtc1ZrWW93QUhjNHRSS1VQVzE5MWdWeThzaUhoMGdTNVE5RFV4cG1RZTRfVVV3MUVSdW0zdHlLSDZ5a3FDVU8xZF84QmlVdnVxOHQ4S0tfZnVxRng3dzBnbWJxR2MtSnBDa0NmbU50YjhMNEZ6elJYdTF1eUlOSE9Fa0xjS2dNQTB4SdIBxAFBVV95cUxQZTBaaHdxZ1dzM0pZTFV0LTNTeUFOV19YZUFEaFR0bjlab0FUVm5YWS1GRkFrb2ctMDVkdjJGZElWUzJkc1FMZ0lBV3lyOGZvMXZTVUtNNkdJZnhramhFdDBEaTI1bTE4WG11WXAxeWRLNGNhUnNoWWxvSEFVZU1IcDI2aUlJRUEzdUFsRGRNRjU0dnh0TGpIZzJ0eEJILWx3NjVrUjlKLUx4WXRnSnhTV3BNemlPZ2FXejRERHV5ZHRqNVJS?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISE
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzFpU1JHNkVvYkJCb0lRYmh4WUxtcnEyQW5WeGRSdGRvYmRab0hBT09LWjZ0dThTVVVjUWd3WmlBa01fYUh1T05BaV9USHBxTlJ0QkI5bEt3cE5BcFRxdExRUENwdjNISERzeFM3TlVhNGU3cGlaMnluaU5DRU5rZ2pES3cwT0pRTUs5ZXRrUl9lWTkwdDhGUDNZS1VWM2NWYzB1YXZmVHNqZ9IBsgFBVV95cUxOSWZreF9XOUVRSVB5b0tOQkh5VGtDeHB1dUo1TERMQVF6WkRkcWMxdXhxQ3JRVERPclJfZjJ4b1V6aHdtVnoydVp6TlR6ekZhWDFBVHJyVktwTlhBRmhYRVZjaFBJOVlFWjZNa0h2SE9Ed080bHJaVkRsWGN6bHVmN0dBVFhfWkpmemtHb0lIY0NsUVo1VGtiUU5MdVdGQ096bWFScXIteW5ZRENtTnFQeXRR?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 25.5 billion pound agreement with India: UK’s focus has ‘decisively shifted’ to execution of trade pact - The Financial Express
+  25.5 billion pound agreement with India: UK’s focus has �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxObFZ1Sm1NMURicGZlNkU2Q0JyLWJOVHhqb2FTVjExeGp1bklqWmFfNzBmbXZrbmE0bEFhVElFcWFXX1c0ak5xQVM4a2VGYmhEOE53Tm9vYlB1RmtfcVRGeDBwcGRiU1JuMlV3Z1pXRzVsWHdpOHdQTXc3ZEcyQkRoLXZGRktLOFM4RVh1aXFFM3BiRXBOVEVqUjEwMEI2S1pUVG9VdzhjNVdNaEZtU2JLLUJEeHNQYkdzYVBUZzA0UUZOdVI1U1VuU2pKRTBYdDgzak1NdmtQdHdUeHdXVldxNzlwUkk3RmN1aHfSAfABQVVfeXFMTndvc3o0SVFDSDFrb1lGZ3BaZzNaUFBjWkE3YlVISS1qNHlGbXo5U2h3R09hSUtXU0NXZUk1RDhLRVNCbUd6VFBvandab2Q2VHVUeHJSOTZKbk54VU5RUk1VcU9CUTFrbGlrNHVTTWtpTTBSbU5CcDlleWN5RnRVOXJ5T0RRNkFpdDlKUFpUNGtUYjd3cjNkQnVYLVpxaGJvMWRQb1l4NVc1TVJ6bHhXbDdxSEpPUDVQNWFYaTlibFAyZ2xSLUtiWFZ2VlhCSm0wYlRwVkZoNHVXMl9pQTljYUE4a2k2VU94ZUFSY0J5aU84?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- "Trade With India, Yes. But Will Learn From China Mistake": US Official - NDTV
+  "Trade With India, Yes. But Will Learn
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQcG5jZTdGMzZkRllVSXYyV0VHLVNYM2loM1N6c0FWZzdpaGZWMm9XdkdBZmFJQzJuSk0ycW9BUURnaEo2TFJoVW9HMVB1eEl1ck53RUdCM08zWW5OTzhlMW1aQWIzOS1IN1l2NWJoQWVpR3lJN2E3bDkwX1dRQ3ZGY0ltVVNvZ1NWbUdtbjdEdkt4MURwbjFIWWdhRTZHbEhjV1h4XzNJVGVFUVJBS3lQdVYyODhRVVVORUVCc0loQXp1ZzRFcmNMdjlNaUx6SFlBRGtidHo0UHF3NEFFeHFndHMwdVZ5TzRQUGlxM0VRdjZ2NjBxXzU2cVkxMTZWeGs0cko1TkNWQXRLeVVC0gGUAkFVX3lxTE5vWFB4UUxqZVpicWFHWVczb0x0N2xZc0ZqaGdvaFVCbVRLNDdaWUhKRmZtZWtkaU1kbHlFRG1fWGdNZU5KRmpnS1Ewb2ZRc0dtdVFUR25URXFMSVB1eG5qdW4tVjVmUW1mdWlMSU9CbGFSNDFyYkNRWS0wUFVUVzU2ekNxUXEybGRFbXVycUc4emR2NG9sTDJBLTFBMHJKWloyWWZJbnpTanFobHY5MTlTVmFmMkpaaHFlcWl5dW1GWmpVUnNqSHNFa3JCZzhxTVYxSmlOb2xwQ1NBOU1uVEdZM1ZpLU1ZZXVxeml1b2lLQkY2bnlIODRkUlhfejFLdklmaWhJLWlCZzdwRDNwT18yX0lMRA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- 'Won't repeat the mistakes we made with China': Top Trump official on India trade deal | India News - Hindustan Times
+  'Won't repeat the mistakes we made with China': Top Trump official on India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeDYweW1zenFJeEVnVDdhY3RwOUItaG5hRGhaby10TFdnQ0FtckZ2SjFxYUhYS0hhb1VSUjlZRXctVjVpb3R4b1RvMlJMWXhWMkhLRjVsU3lvUVlDMHc3OGpYUXAxbE5ndWxLZVV3a0VBcWliOVZ4VEN3VXdfcm9GRmt1cHlWNkRuRTRNQ0FCWkIxdU5xOUlmbFlSamhBZGNxRFNNVUJpUmtDY1M0V0RpZW1qck9reGFXcVhMMVlSRUFHenJwVUk2UmloWW1UOXdmTDBTWGd0dnZUYzk5VmfSAeMBQVVfeXFMTzJhRjVoYjNPOEpOY251bkFza1FyOTJOVzEwdUpBYy1razhRNjVlVGpsZkRwM3pQVjQtQTBLSVR1M1JjV0s1SkhWU1lKSFhKN0hBUF9KSDlLVDRMdS1pOFU5Q0NGZHIyYTk0WDNvWndBVWl2aE83WmpfNkM4QUdJOGhidjhncmpIbmZGZnQ4WXM0MzVFclpteHRjYlpySDg1ZjhDbkthazhzaUQ1em90bGh5ZEVIVWpiMGRYb2wycGFnSm1tSzhQYXRfVmRLYXZ1cG1fVHJyWFRuVklaeWJ5ZE1RejA?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Goa cashew fest to create awareness about safe driving - The Times of India
+  Goa cashew fest to create awareness about safe
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXF0anNqV1dsVWlJdWVHOUVkTndFaFM4MUpHVFlYNFlVQmVpWnhrOUtKdXJkZUhmYldFMHdtc1ZrWW93QUhjNHRSS1VQVzE5MWdWeThzaUhoMGdTNVE5RFV4cG1RZTRfVVV3MUVSdW0zdHlLSDZ5a3FDVU8xZF84QmlVdnVxOHQ4S0tfZnVxRng3dzBnbWJxR2MtSnBDa0NmbU50YjhMNEZ6elJYdTF1eUlOSE9Fa0xjS2dNQTB4SdIBxAFBVV95cUxQZTBaaHdxZ1dzM0pZTFV0LTNTeUFOV19YZUFEaFR0bjlab0FUVm5YWS1GRkFrb2ctMDVkdjJGZElWUzJkc1FMZ0lBV3lyOGZvMXZTVUtNNkdJZnhramhFdDBEaTI1bTE4WG11WXAxeWRLNGNhUnNoWWxvSEFVZU1IcDI2aUlJRUEzdUFsRGRNRjU0dnh0TGpIZzJ0eEJILWx3NjVrUjlKLUx4WXRnSnhTV3BNemlPZ2FXejRERHV5ZHRqNVJS?oc=5
 
 
-_Last updated: 2026-03-06 18:41:10 UTC_
+_Last updated: 2026-03-07 01:30:11 UTC_
