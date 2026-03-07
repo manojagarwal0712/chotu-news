@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
+- Indian Railways to launch Nagercoil-Charlapalli Amrit Bharat Express train soon
+  
+  🔗 https://indianexpress.com/article/india/nagercoil-charlapalli-amrit-bharat-express-launch-indian-railways-10569953/
+
+- ‘It was the humane thing to do’: S Jaishankar confirms India allowed Iranian ship to dock in Kochi
+  
+  🔗 https://indianexpress.com/article/india/jaishankar-india-iranian-ship-kochi-10569843/
+
+- ‘Decision was humanitarian, not political’: Jaishankar on Iran ship IRIS Lavan docking in Kochi
+  
+  🔗 https://indianexpress.com/article/india/iranian-naval-vessel-kochi-jaishankar-explains-10569493/
+
+- ‘We are attacking US bases, not neighbours; India-Iran relations deep’: Abdul Majid Hakim Elahi, Ayatollah Ali Hosseini Khamenei’s representative in India
+  
+  🔗 https://indianexpress.com/article/india/attacking-us-bases-not-neighbours-india-iran-relations-deep-abdul-majid-hakim-elahi-ayatollah-interview-ali-hosseini-khamenei-10569418/
+
 - Middle East airspace disruption: IndiGo, Air India operate limited flights; Qatar, Etihad announce partial schedules
   
   🔗 https://indianexpress.com/article/india/middle-east-war-indigo-air-india-qatar-etihad-flight-schedules-10569238/
 
-- Setting up a casino in Goa just got more expensive
+- Vivo X300 FE India launch expected soon: Check specs, camera, price
   
-  🔗 https://indianexpress.com/article/india/hike-in-licencing-for-new-casinos-happiness-index-kushavati-push-key-takeaways-from-goas-budget-10568821/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-x300-fe-india-launch-expected-soon-check-specs-camera-price-10569847/
 
-- Assam Opposition forms 4-party alliance for polls: Akhil Gogoi’s Raijor Dal missing
+- Forget Android and iOS: This phone runs on Linux and comes with a physical privacy switch
   
-  🔗 https://indianexpress.com/article/india/assam-opposition-forms-4-party-alliance-for-polls-akhil-gogois-raijor-dal-missing-10568823/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/jolla-phone-sailfish-os-linux-privacy-features-price-specs-10569504/
 
-- Domestic LPG cylinder prices get sharp hike of Rs 60 amid West Asia crisis
+- Why 60-year-olds in China are queuing up to learn OpenClaw
   
-  🔗 https://indianexpress.com/article/india/domestic-lpg-cylinder-price-hike-rs60-west-asia-crisis-delhi-full-list-10569072/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-60-year-olds-in-china-are-queuing-up-to-learn-openclaw-10569704/
 
-- Police report that put her in detention camp just gave this 60-year-old Assam woman Indian citizenship
+- New icons, themes, and colours: WhatsApp may soon launch a premium subscription plan
   
-  🔗 https://indianexpress.com/article/india/declared-foreigner-spent-2-years-in-detention-camp-assam-woman-gets-citizenship-under-caa-after-7-year-fight-10568820/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-may-soon-launch-a-premium-subscription-plan-10569703/
 
-- Nvidia sets $4 million target cash bonus for CEO Huang under fiscal 2027 plan
+- Samsung may bring ‘vibe coding’ to Galaxy phones, let users build custom apps with AI
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-sets-4-million-target-cash-bonus-for-ceo-huang-under-fiscal-2027-plan-10569197/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-vibe-coding-ai-phone-custom-apps-10569386/
 
-- US draws up strict new AI guidelines amid Anthropic clash: Reports
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-reports-10569198/
+- Porter founders Pranav Goel, Uttam Digga win EY Entrepreneur Of The Year 2025 in start-up category
+  Pranav Goel and Uttam Digga won EY's Entrepreneur Of The Year 2025 Award
+  🔗 https://www.livemint.com/companies/people/porter-founders-pranav-goel-uttam-digga-win-ey-entrepreneur-of-the-year-2025-in-start-up-category-11772886223984.html
 
-- Love Machines are here to monetise the loneliness economy: James Muldoon, author and sociologist
-  
-  🔗 https://indianexpress.com/article/technology/ai-companion-apps-loneliness-economy-james-muldoon-interview-10568000/
-
-- Nothing Phone 4a Pro FAQ: Answering a few early questions
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-4a-pro-faq-answering-a-few-early-questions-10568985/
-
-- Lost for 6,000 years: ‘Extinct’ marsupials found alive in New Guinea forests
-  
-  🔗 https://indianexpress.com/article/technology/science/lost-for-6000-years-extinct-marsupials-found-alive-in-new-guinea-forests-10568498/
+- Sundar Pichai pay hike: Google grants Indian-origin CEO new  ₹63,61,79,82,000 pay deal
+  Google raises CEO Sundar Pichai’s potential compensation to $692 million over
+  🔗 https://www.livemint.com/companies/people/sundar-pichai-pay-hike-google-grants-indian-origin-ceo-new-rs-63-61-79-82-000-pay-deal-11772881714435.html
 
 - Mint Explainer: Why Reliance is betting on legacy regional brands to build its FMCG empire
   Reliance Consumer Products is expanding by acquiring regional legacy brands. The strategy taps loyal local customer bases and plugs them into Reliance’
@@ -52,33 +60,25 @@
    ER&amp;amp;D firms that build complex hardware and the associated software may be less vulnerable to the AI apocalypse. Much of their work goes into creating physical products
   🔗 https://www.livemint.com/companies/erd-firms-better-placed-to-survive-ai-model-wave-it-sector-cyient-ltts-kpit-11772783837601.html
 
-- Safra Pays $2 Billion Dividend to Its Owners Ahead of Tax Hike
-  Banco Safra SA paid 11 billion reais ($2 billion) in dividends and interest to the owners of its parent company in 2025
-  🔗 https://www.livemint.com/companies/safra-pays-2-billion-dividend-to-its-owners-ahead-of-tax-hike-11772825179440.html
+- US-Iran war to crude oil prices: Top five triggers that may dictate Indian stock market this week
+  On Friday, the Sensex plunged 1,097 points, or 1.4%, to close at 78,9
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-indian-stock-market-this-week-11772876284199.html
 
-- Top Korea Power Firm Revs Up US Growth Betting on AI Supercycle
-  South Korea’s top power equipment maker, HD Hyundai Electric Co., is accelerating its US expansion. The company is betting that demand for transformers and
-  🔗 https://www.livemint.com/companies/top-korea-power-firm-revs-up-us-growth-betting-on-ai-supercycle-11772824750997.html
+- US-Iran war: Why US Dollar is rising despite soaring crude oil prices? SBI report explains
+  The US Dollar index gained 1.3% for the week, marking its strongest weekly rise since mid-November 2024. Rising tensions
+  🔗 https://www.livemint.com/market/usiran-war-why-us-dollar-is-rising-despite-soaring-crude-oil-prices-sbi-report-explains-11772870760757.html
+
+- A winning blue-chip fund flips the script on the AI trade
+  The Schwab US Dividend Equity ETF is trouncing the S&amp;P 500 this year.
+  🔗 https://www.livemint.com/market/stock-market-news/a-winning-blue-chip-fund-flips-the-script-on-the-ai-trade-11772870577790.html
+
+- Upcoming IPOs: Rajputana Stainless IPO, Innovision IPO among new issues to open next week; check full list here
+  The Rajputana Stainless IPO and Innovision IPO will open for bidding in the coming week. In the SME segment, the Apsis Aerocom IPO is scheduled
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-rajputana-stainless-ipo-innovision-ipo-among-new-issues-to-open-next-week-check-full-list-here-11772866689611.html
 
 - Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   Mehul Kothari recommends three shares to buy or sell — Jammu and Kashmir Bank
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11772862243851.html
-
-- Small-cap jewellery stock declares  ₹350 crore fund raise through issuance of fresh shares, raises authorised capital
-  Motisons Jewellers informed that the board considered and approved raising of  ₹350
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-jewellery-stock-motisons-jewellers-declares-350-crore-fund-raise-through-issuance-of-fresh-shares-11772854853436.html
-
-- SBI Life-owned NBFC stock under  ₹50 sets board meeting date to discuss fundraiser proposal
-  Paisalo Digital plans to raise funds through non-convertible debentures in a private placement.
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-life-owned-nbfc-stock-under-50-sets-board-meeting-date-to-discuss-fundraiser-proposal-11772852412640.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 9 March 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday. Bharat
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-9-march-2026-11772845492313.html
-
-- NYSE to Pay SEC $9 Million Tied to 2023 Market Outage Turmoil
-  The New York Stock Exchange agreed to pay a $9 million to settle US Securities and Exchange Commission allegations. An internal malfunction led to a botched market open and wild price swings on
-  🔗 https://www.livemint.com/market/nyse-to-pay-sec-9-million-tied-to-2023-market-outage-turmoil-11772833820677.html
 
 - Samsung Galaxy A36, A56 specifications leaked ahead of launch, price range tipped
   The A37 could be 7.4mm thick, while the A57 could be slimmer at 6.9mm. The A37
@@ -100,85 +100,45 @@
   WhatsApp is reportedly developing a premium subscription plan called WhatsApp Plus. The new plan could offer features like customized app icon
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-offer-a-paid-subscription-tier-with-exclusive-stickers-and-ringtones-report-11772766720190.html
 
-- Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints: Live updates - CNBC
-  Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MXF4cTl4THdfRVlZaTRvVU5rRDdDYldDcXJGSWR6dTBoOHVhRkVqVkNnMzVkcW9Xa0c5T0VTTjdqZmM4dmVyUlhzMXVNNjVTQXVWSllPYzk1M3RJUzRQdDdLRHVXczIzWFcydThscHZobXBnZ2xr0gF8QVVfeXFMT1BVclhGZDM1U3l6Q2RVZm54eElyMVRWTkNyV2RUajVWRUZhVTZjZ0ZsVXpueGlPc0JoZ1B2NVI3bEsyRGF2NnNQbHJHRU1pZEUyU3BZUHVDZGxvVFM5UDFaYU9KOFhHM2NEM2dfVC15ZjA1YUIzMjNEWWxRUA?oc=5
+- Dalal Street Week Ahead: Defensive, stock-specific approach advised to protect gains
+  Rising volatility and weakening market breadth signal caution for investors. While some sectors like Infrastructure and Pharma show relative strength, others are under pressure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-defensive-stock-specific-approach-advised-to-protect-gains/articleshow/129212825.cms
 
-- Kalshi prediction market sued over ouster of Iran leader bet - The Hindu
-  The Hindu has published an exclusive article on the
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmNsbHpodDhZcHJFbmtha3ZBanJuV1RmY0I1NU5DalJhNzVaS1pYaWpXeVgtRjdzTnR1VTlHV291UUo2Nl9OcW5lUDZ4SEp3d3FMcVBmMks4QUtoTEFlc3dhcVZXalF4V3ZmUG8xaHMwQWk0R1laeVlzN2lJa3lKVXhOWXN4bjJVbG9aMGQ1c1FuTWxoS2J3NjZUUVRZOXFxUjJzdFdKOWtCZC1NUEY0SEpKTEltWjc0dW9RQ0VKSDRrclHSAcoBQVVfeXFMTjJvSFZUMHBKdy1oLTJvZnF4MTNlU1pXQTNPSnZRYkpqRFdMM29SQTlnWnNmSExIQ2NZaWpIcWFiTmxWUHBqMUZBRVlrZ1lhSWhCNnFBbldyU01iZW5ySzYxTzByakE3MzlQeUxsT1lvYmlZS3FXZGFnZU5nUW1GZmVHeHlzR19wS21jV0I5ZGdBd1VoVGlucXYwX012TUlwSjVPcWx5MHNCYjZWQUJvZHFNYU45NVFyak9uT3hMVHdPV2V2Q19xcXJ5UQ?oc=5
+- Explained: Why BlackRock stock tanked 7% after curbing withdrawals from flagship fund
+  BlackRock shares fell sharply after the asset manager restricted withdrawals from its flagship private credit fund, HLEND.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-why-blackrock-stock-tanked-7-after-curbing-withdrawals-from-flagship-fund/articleshow/129210168.cms
 
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
+- Women account for only 5% of CEOs in India’s listed companies: Primeinfobase report
+  Women remain significantly underrepresented in leadership roles at India’s listed companies. Primeinfobase report shows women hold only 5% of CEO or MD positions and just 10% of executive directorships.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/women-account-for-only-5-of-ceos-in-indias-listed-companies-primeinfobase-report/articleshow/129204165.cms
 
-- Investors are expecting Donald Trump to back down in the war with Iran – but what if he doesn’t? - The Guardian
-  Investors are expecting Donald Trump to back down in the war with Iran – but what if
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFB1MENmejB1MHlEdDUzX2lfc3dCX3NVcUpLMGFFVFptbURVUFZuTU5wQTczc3plck5KYVVvd0k0aERNVjk0eVBMYlQ4bTRNSEp0UzZNcVltdTBaU3dYWllkN1ExUGZQeWxxYjBIYTU4Mk41VXQ4eTlGY2RQZ1Y4VGVzelMtYVh3Z2xpOFk0WnpJQWt0LXkzUFhEeVNIc1psTjFYcnp2YzZuZnd0dkR1QzFPWVkxTU9PRzlTTlF5MEZYczd5dExhN0dEZWF0RjNrR3d6ajZKVmQ?oc=5
+- Coforge, Persistent Systems among 10 stocks that have fallen most in 2026. Do you own any?
+  Several stocks on the BSE 200 index have seen sharp declines at the start of CY2026. Technology and new-age companies dominate the list of laggards.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/coforge-persistent-systems-among-10-stocks-that-have-fallen-most-in-2026-do-you-own-any/slideshow/129204008.cms
 
-- The Iran War Is Hitting Gulf Markets, Lifting Israel and Shifting Risk Across the Region - WSJ
-  The Iran War Is Hitting Gulf Markets, Lifting Israel and
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWtsVEZrWHBnOWlNeklEZDkxYmdCOURsSkF3NS16TVhYTzFRMHliZkNtR3JLSWtiZ2QwMFZMN0szSzRsLUkwNzVTLS1NeExWLW1OTXBoT0pVSGRhWElHQXcxNUVNZmJJVlFjZVpvZTF5Z2ZIeDFmV29neHE5bTU2dmpiZzN1YVRWaHgyZk4xWmd1TmxMb3p6MkhLQzM2aGZzZzA5MmdlNUZtSG81NTFUNzJqUkJVY1MtdS1ZVnZ6UnAzZ3ExcnJ1R3dkY0RZdTQ?oc=5
-
-- Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints: Live updates - CNBC
-  Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MXF4cTl4THdfRVlZaTRvVU5rRDdDYldDcXJGSWR6dTBoOHVhRkVqVkNnMzVkcW9Xa0c5T0VTTjdqZmM4dmVyUlhzMXVNNjVTQXVWSllPYzk1M3RJUzRQdDdLRHVXczIzWFcydThscHZobXBnZ2xr0gF8QVVfeXFMT1BVclhGZDM1U3l6Q2RVZm54eElyMVRWTkNyV2RUajVWRUZhVTZjZ0ZsVXpueGlPc0JoZ1B2NVI3bEsyRGF2NnNQbHJHRU1pZEUyU3BZUHVDZGxvVFM5UDFaYU9KOFhHM2NEM2dfVC15ZjA1YUIzMjNEWWxRUA?oc=5
-
-- Kalshi prediction market sued over ouster of Iran leader bet - The Hindu
-  The Hindu has published an exclusive article on the
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmNsbHpodDhZcHJFbmtha3ZBanJuV1RmY0I1NU5DalJhNzVaS1pYaWpXeVgtRjdzTnR1VTlHV291UUo2Nl9OcW5lUDZ4SEp3d3FMcVBmMks4QUtoTEFlc3dhcVZXalF4V3ZmUG8xaHMwQWk0R1laeVlzN2lJa3lKVXhOWXN4bjJVbG9aMGQ1c1FuTWxoS2J3NjZUUVRZOXFxUjJzdFdKOWtCZC1NUEY0SEpKTEltWjc0dW9RQ0VKSDRrclHSAcoBQVVfeXFMTjJvSFZUMHBKdy1oLTJvZnF4MTNlU1pXQTNPSnZRYkpqRFdMM29SQTlnWnNmSExIQ2NZaWpIcWFiTmxWUHBqMUZBRVlrZ1lhSWhCNnFBbldyU01iZW5ySzYxTzByakE3MzlQeUxsT1lvYmlZS3FXZGFnZU5nUW1GZmVHeHlzR19wS21jV0I5ZGdBd1VoVGlucXYwX012TUlwSjVPcWx5MHNCYjZWQUJvZHFNYU45NVFyak9uT3hMVHdPV2V2Q19xcXJ5UQ?oc=5
-
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
-
-- Investors are expecting Donald Trump to back down in the war with Iran – but what if he doesn’t? - The Guardian
-  Investors are expecting Donald Trump to back down in the war with Iran – but what if
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFB1MENmejB1MHlEdDUzX2lfc3dCX3NVcUpLMGFFVFptbURVUFZuTU5wQTczc3plck5KYVVvd0k0aERNVjk0eVBMYlQ4bTRNSEp0UzZNcVltdTBaU3dYWllkN1ExUGZQeWxxYjBIYTU4Mk41VXQ4eTlGY2RQZ1Y4VGVzelMtYVh3Z2xpOFk0WnpJQWt0LXkzUFhEeVNIc1psTjFYcnp2YzZuZnd0dkR1QzFPWVkxTU9PRzlTTlF5MEZYczd5dExhN0dEZWF0RjNrR3d6ajZKVmQ?oc=5
-
-- The Iran War Is Hitting Gulf Markets, Lifting Israel and Shifting Risk Across the Region - WSJ
-  The Iran War Is Hitting Gulf Markets, Lifting Israel and
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWtsVEZrWHBnOWlNeklEZDkxYmdCOURsSkF3NS16TVhYTzFRMHliZkNtR3JLSWtiZ2QwMFZMN0szSzRsLUkwNzVTLS1NeExWLW1OTXBoT0pVSGRhWElHQXcxNUVNZmJJVlFjZVpvZTF5Z2ZIeDFmV29neHE5bTU2dmpiZzN1YVRWaHgyZk4xWmd1TmxMb3p6MkhLQzM2aGZzZzA5MmdlNUZtSG81NTFUNzJqUkJVY1MtdS1ZVnZ6UnAzZ3ExcnJ1R3dkY0RZdTQ?oc=5
+- Multiple states to borrow Rs 45,960 crore through RBI SGS auction on March 10
+  The Reserve Bank of India (RBI) has announced that multiple state governments will raise a total of Rs 45,960 crore through the auction of State Government
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/multiple-states-to-borrow-rs-45960-crore-through-rbi-sgs-auction-on-march-10/articleshow/129203327.cms
 
 - "Indians Have Been Good Actors": Trump Aide On Russian Oil Waiver - NDTV
   "Indians Have Been Good Actors":
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVJsSjhTYzFtTGVyNzg2UXJEQVpKUmtxTGJhM21EMUx1cHMtV0g2RUZ0SWVuVEFRdVJGNVptM3lybU1ELUo0Z0xyZ1FOMVJRUGR0cjRUZWljNzNuaThETGRlbXhGUWNONk9EdmdfMkNEbU9IQi14M2Jyc240cmhjaW4tNU9IM1Foak9OMkhGLWZ5X0J6UlZOSVZEMVZmYTZHVGxiak9weVpmOVZZQlNLR3RXOTJuclVxR1lB0gHDAUFVX3lxTE9xVFNLREdFdmdpQlhUd0pfODFQd3llT1hpLXotZG5OVTlDM1lWSGktaHBldFRXUmtRaHdLX0pKTnRrSEdlbWFHbmprb2lBR19Obk9zU3Z3ZFMtNkgxRjlzcTNxeWJUaC1SSkQ2TjNRN3Flb2d4VGl1ZnFPZElwMXRVZmpPMXBBNkpMcmNwV0tuTkdOS1Vqb0s3WGhOUHg1RTFVaElBQjRtbi1SRHctdVNXY3psMEpDeVRoTkVlNVNZcXFiNA?oc=5
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVJsSjhTYzFtTGVyNzg2UXJEQVpKUmtxTGJhM21EMUx1cHMtV0g2RUZ0SWVuVEFRdVJGNVptM3lybU1ELUo0Z0xyZ1FOMVJRUGR0cjRUZWljNzNuaThETGRlbXhGUWNONk9EdmdfMkNEbU9IQi14M2Jyc240cmhjaW4tNU9IM1Foak9OMkhGLWZ5X0J6UlZOSVZEMVZmYTZHVGxiak9weVpmOVZZQlNLR3RXOTJuclVxR1lB?oc=5
 
 - ‘Buy that oil, bring it to your refineries': Trump's Energy Secretary on why US gave 30-day Russian oil waiver to India | India News - Hindustan Times
   ‘Buy that oil, bring it to your refineries': Trump's Energy Secretary on why US gave 30-
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcXF6dkRIdlBYVHlDcmp2UGNYajJNNm9nanl5UUZQbHlEU0NpYzlxX3FTMXlaQkZ6MlU0WTRvMnRqOGpDY0Q5a2o0VFNJSm1vOHFTYVdUYWFpYWtYRkNKVEE3Rno3TnpNR1dWSGhzR2dlODIxU3IyQzBZUEJjTlFKOUhuekxuYW5YRjJ1b2NjMnR1c3ZtVENnUkNUNDZHTk9jcEotaENDOU1kdFRrNlpVREI0WkpPQ3lHYkU4TTV2V3NMQnY2SEZNUk1LZ1dkWXhQQVFoR3R2dEJ0Wk94Wkk1QUJnVFNNc0t5RWtvOXE1ZUVPemRVcUpoNG8xRkVBVUQwemNDVGlYUXXSAY4CQVVfeXFMUGFLZXg0aVlmR3JwcGNab256OEZxYk1WSnRxNWZyWWZvV2VmN0I5aDl5WGtQRDk5ZlpKSFlja0VQQWJ5RVRhdHhxVGFKTzB2YmZqbWVpZy0tcVNDNm1YOWRTbXBqQ2t2bEJzMDNTcktONk5tOWpUR1RlLUFjUk1pdk9vY2JVdGhkamNfNWZua2QxSFl6NkVNakRHelVtSjQxTUtIdVJ1NE1uYkNpejdXRExhWTNWblFJMzBRQlpBUmlIbVEzRUlFdEVzbURUU3dUWlp1RXVWcHRkRndVM0s0SGFEbTQxaHlKRld1b0FBRGt1eU5iSlg3UjlUMDhkLTZoUWoxaFBZdzV5YnlSb2Nn?oc=5
 
-- 'Cowardly and compromised': Congress slams government after U.S.’ ‘gave India permission’ remark - The Hindu
-  'Cowardly and compromised': Congress slams government after
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ3QxeXdKSmgzd3l0MU9LcV9pR2JQLTBHSUh6d25UM01oZFRNTEkwbmpIX0tHSFdCUHhNRGN1V0FUV3lrb1gteUFOTkN5T1l4X1BDZEZCZzM1eVdTUVd4OGhfRTZJS2tGLW9UX1ZVSjdETzZQQmRiZzBpdEdzMDVDbVpzRTRfOWNKdDV5V3RvVU80UkZVbFQ5S3BTTzJCMWU3NXl1OExaQ1U2cUJ4NGFtN2J6WTFBbHozSHpGVXpMMnFXNllCbnVUS0FQRF83eXlUeGlmT0dpUkN4TW9NZEgza9IB5wFBVV95cUxNQnZxX2JuRk5vMkNRc01FbEJWTUFnSERkY3FLX29nanY1ZS1Yc2hvTVdwRUgwUXh0dE9LMDdjdHFZdXFEQ2lLSWptN1Z6MEYyZFVrMVUteXlORVZ4T3hpU3VxQVJyQkxxeHFUU0FHV1dnLW1RZ05nb0IySHFnWmZLMzlEd09sS0tOZmRlU0liRjNlaFB5QnhvRzdRMG1jbzFfcDZBZXN2bUdGeUxnbTZFTnlPU2tyZTBHWnlaWWFOZ1h0YUlSallXNkc0bm5ySnloaDlHQUNNbnljVkhhbFp6cm5KdlZhWXM?oc=5
+- 'India’s energy stock position improving': Govt says petrol and diesel prices will not rise - The Times of India
+  'India’s energy stock position improving': Govt says petrol and
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxPVUZGeW1LUm52eF9yRlU5dWRmRFpjZVJ5V2tjN2I3cmk0Q2lGNHJ5czJyeUNYVDBaUHRzSFpnOUh2MExreFFUbkRQNGZfLW0tUE5GTHN3RllTVGZKNEtyemp3OWRlZlllLTN1ZkhfRjU4a2c3TE9kbTd3ZDJ0dW5vWXpOLU14Ui1IT2JTUFVhUHRKZHBfcVZqRDhCZFBPbmNrWkRZV3p5a20tSThZUXdWTElkVW1iSWhZa0hseEtwZlVEQmtqYUVodkR2bndObWJqWEhmdE9fVFFDQ29KelFHaDUxTTRndHdObXlQMVVJT0ZpVG4tN0xqRWNlR0wyQWp1SExV0gGIAkFVX3lxTE9mWWZjX2RUWjFReHF6T2RyM0g3MFpaaUw3VUJWejc4T2Y3SWV2QjhyTFRxc2ZTdEVocW81Q3djRXhqMEJ2U0hSOXA3VDdLM3ZZX1VneVRaZnk4VTV0VU5PX3otYzNQc2dGRWNJRlBndTM1b1AwYXRESFdNZG1kQnUybjlwWm14Mk9Yb2hGME9TVGJka01DejdyZVB3WUF1RlRzVWpFRG0wZFRCSHQ1aXEyWFFFWlFtMmY2ZHZTSEtMU0tjZGdTcXN4NnVRbDR6Vlk1Y1dCeWFaZTVXWEdNZjBPUHJHTHZnVFExWFFfSGdWWXg0RTJBdU9Ib1ZXLTFMeGd4MkFEeEx4Zg?oc=5
 
-- US-Israel-Iran War Live Updates: Explosion heard over Dubai airport; Saudi Arabia urges Iran to ‘avoid miscalculation’ - The Times of India
-  The Times of India reported that the explosion occurred at the Dubai airport.
-  🔗 https://news.google.com/rss/articles/CBMi9AJBVV95cUxNczVadDRTdVRHczBYS1FCaFNpWG9ickVJMmg3UFlBT2ZLWVZYLV9obXJnQjV0aV9fYnFyQk9YYXJjUjVNYkZ6X3VIZTZoWWdNSVlnYU5Vb2gwRTJOUEdZWV9KaTJYenBRQktWMmFfY3RZUnp2T1NTSVFNcmlNSFJucFUwak9CX1JiT2FwNmV6Ty1IQW5zU0IwRGFxRmNfVzhNZVZrOFNpZUFLQVBIR2dYSGM1amY1WUFBdVRRQlZSRC1DWVpJTVFWZG9NUGFJem9sdjFITHRleWdleXFLZkRaaDVYOFpiSlBkNE5Sd1hVMmFIZldyczRWV3VNMXlCd2pYSTdZUXFZOW9XdG9xN0J0X3FZZmYxY0VEb21td2g0M2FUV3hNaGdaME84eXpqRHhfclMxX0R1Z05jWEVVZ1JLSXlMamtRVlA1T0pHeU51MGNvOE8ydlMzODczYkhsdWRGUE5DWkdIaW5MamtxWld2X3pmUS0?oc=5
+- Aravalli Panel "Completely Suppressed" Forest Survey Opinion, Supreme Court Told - NDTV
+  Aravalli Panel "Completely Supp
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOdngzeEV5eUYyVUg2RUVoZXY1dU1lVEt0RDNuNmNmVW9URDhaX3FSdDdlY2ZPMi1rVDhEeHd1WjJmVEpPVHJxUm1qTDlZdTBUeFlXWUZqVW1Ma3NUczR0ZEZiaGhFRWh1ZmluX3F1STlCMGdwTWZMWG8yeUpCM2NoUHVZZW1FZ0Q3ZUtMTVM4OGhTYmJaZTZQNjQ2VjFGTFVrUnBkNmdCUFZJbWpseWotY0VlMXRNOUt5Q2c?oc=5
 
-- IRIS Dena: The final voyage of the Iranian warship sunk by the US - BBC
-  IRIS Dena: The final voyage of the Iranian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Xb0FYXzAybUJYaFJ0c1FNRTV0VVR1V2drckFPaW1rVkZVYVlzOVZJNjhNbXc2d0d5M0Nxa1JJcmIyZk5LTnljdC16bl9qZXBqZXpkYXFpQ09PUQ?oc=5
-
-- "Indians Have Been Good Actors": Trump Aide On Russian Oil Waiver - NDTV
-  "Indians Have Been Good Actors":
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVJsSjhTYzFtTGVyNzg2UXJEQVpKUmtxTGJhM21EMUx1cHMtV0g2RUZ0SWVuVEFRdVJGNVptM3lybU1ELUo0Z0xyZ1FOMVJRUGR0cjRUZWljNzNuaThETGRlbXhGUWNONk9EdmdfMkNEbU9IQi14M2Jyc240cmhjaW4tNU9IM1Foak9OMkhGLWZ5X0J6UlZOSVZEMVZmYTZHVGxiak9weVpmOVZZQlNLR3RXOTJuclVxR1lB0gHDAUFVX3lxTE9xVFNLREdFdmdpQlhUd0pfODFQd3llT1hpLXotZG5OVTlDM1lWSGktaHBldFRXUmtRaHdLX0pKTnRrSEdlbWFHbmprb2lBR19Obk9zU3Z3ZFMtNkgxRjlzcTNxeWJUaC1SSkQ2TjNRN3Flb2d4VGl1ZnFPZElwMXRVZmpPMXBBNkpMcmNwV0tuTkdOS1Vqb0s3WGhOUHg1RTFVaElBQjRtbi1SRHctdVNXY3psMEpDeVRoTkVlNVNZcXFiNA?oc=5
-
-- ‘Buy that oil, bring it to your refineries': Trump's Energy Secretary on why US gave 30-day Russian oil waiver to India | India News - Hindustan Times
-  ‘Buy that oil, bring it to your refineries': Trump's Energy Secretary on why US gave 30-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcXF6dkRIdlBYVHlDcmp2UGNYajJNNm9nanl5UUZQbHlEU0NpYzlxX3FTMXlaQkZ6MlU0WTRvMnRqOGpDY0Q5a2o0VFNJSm1vOHFTYVdUYWFpYWtYRkNKVEE3Rno3TnpNR1dWSGhzR2dlODIxU3IyQzBZUEJjTlFKOUhuekxuYW5YRjJ1b2NjMnR1c3ZtVENnUkNUNDZHTk9jcEotaENDOU1kdFRrNlpVREI0WkpPQ3lHYkU4TTV2V3NMQnY2SEZNUk1LZ1dkWXhQQVFoR3R2dEJ0Wk94Wkk1QUJnVFNNc0t5RWtvOXE1ZUVPemRVcUpoNG8xRkVBVUQwemNDVGlYUXXSAY4CQVVfeXFMUGFLZXg0aVlmR3JwcGNab256OEZxYk1WSnRxNWZyWWZvV2VmN0I5aDl5WGtQRDk5ZlpKSFlja0VQQWJ5RVRhdHhxVGFKTzB2YmZqbWVpZy0tcVNDNm1YOWRTbXBqQ2t2bEJzMDNTcktONk5tOWpUR1RlLUFjUk1pdk9vY2JVdGhkamNfNWZua2QxSFl6NkVNakRHelVtSjQxTUtIdVJ1NE1uYkNpejdXRExhWTNWblFJMzBRQlpBUmlIbVEzRUlFdEVzbURUU3dUWlp1RXVWcHRkRndVM0s0SGFEbTQxaHlKRld1b0FBRGt1eU5iSlg3UjlUMDhkLTZoUWoxaFBZdzV5YnlSb2Nn?oc=5
-
-- 'Cowardly and compromised': Congress slams government after U.S.’ ‘gave India permission’ remark - The Hindu
-  'Cowardly and compromised': Congress slams government after
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ3QxeXdKSmgzd3l0MU9LcV9pR2JQLTBHSUh6d25UM01oZFRNTEkwbmpIX0tHSFdCUHhNRGN1V0FUV3lrb1gteUFOTkN5T1l4X1BDZEZCZzM1eVdTUVd4OGhfRTZJS2tGLW9UX1ZVSjdETzZQQmRiZzBpdEdzMDVDbVpzRTRfOWNKdDV5V3RvVU80UkZVbFQ5S3BTTzJCMWU3NXl1OExaQ1U2cUJ4NGFtN2J6WTFBbHozSHpGVXpMMnFXNllCbnVUS0FQRF83eXlUeGlmT0dpUkN4TW9NZEgza9IB5wFBVV95cUxNQnZxX2JuRk5vMkNRc01FbEJWTUFnSERkY3FLX29nanY1ZS1Yc2hvTVdwRUgwUXh0dE9LMDdjdHFZdXFEQ2lLSWptN1Z6MEYyZFVrMVUteXlORVZ4T3hpU3VxQVJyQkxxeHFUU0FHV1dnLW1RZ05nb0IySHFnWmZLMzlEd09sS0tOZmRlU0liRjNlaFB5QnhvRzdRMG1jbzFfcDZBZXN2bUdGeUxnbTZFTnlPU2tyZTBHWnlaWWFOZ1h0YUlSallXNkc0bm5ySnloaDlHQUNNbnljVkhhbFp6cm5KdlZhWXM?oc=5
-
-- US-Israel-Iran War Live Updates: Explosion heard over Dubai airport; Saudi Arabia urges Iran to ‘avoid miscalculation’ - The Times of India
-  The Times of India reported that the explosion occurred at the Dubai airport.
-  🔗 https://news.google.com/rss/articles/CBMi9AJBVV95cUxNczVadDRTdVRHczBYS1FCaFNpWG9ickVJMmg3UFlBT2ZLWVZYLV9obXJnQjV0aV9fYnFyQk9YYXJjUjVNYkZ6X3VIZTZoWWdNSVlnYU5Vb2gwRTJOUEdZWV9KaTJYenBRQktWMmFfY3RZUnp2T1NTSVFNcmlNSFJucFUwak9CX1JiT2FwNmV6Ty1IQW5zU0IwRGFxRmNfVzhNZVZrOFNpZUFLQVBIR2dYSGM1amY1WUFBdVRRQlZSRC1DWVpJTVFWZG9NUGFJem9sdjFITHRleWdleXFLZkRaaDVYOFpiSlBkNE5Sd1hVMmFIZldyczRWV3VNMXlCd2pYSTdZUXFZOW9XdG9xN0J0X3FZZmYxY0VEb21td2g0M2FUV3hNaGdaME84eXpqRHhfclMxX0R1Z05jWEVVZ1JLSXlMamtRVlA1T0pHeU51MGNvOE8ydlMzODczYkhsdWRGUE5DWkdIaW5MamtxWld2X3pmUS0?oc=5
-
-- IRIS Dena: The final voyage of the Iranian warship sunk by the US - BBC
-  IRIS Dena: The final voyage of the Iranian
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Xb0FYXzAybUJYaFJ0c1FNRTV0VVR1V2drckFPaW1rVkZVYVlzOVZJNjhNbXc2d0d5M0Nxa1JJcmIyZk5LTnljdC16bl9qZXBqZXpkYXFpQ09PUQ?oc=5
+- 'Reflects friendly ties': Iran thanks India for letting IRIS Lavan dock in Kochi - The Times of India
+  'Reflects friendly ties': Iran thanks India for letting IRIS
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUmpTVmpQTUZNQ2tfNW9paUprd0xOeGNGdFcweDlPQ3NOemlmNVU0RlozMXk2ZEpxbFJyV3N5MG5RTWV0eWgxV0JKR010Nk5Id1NlZmVqWGNPeVBRNTc4WlNhZzJXX0VLRGo2THlJWUU1ZWY3WW8waXpQQUcxd2FYODBDaUtoNFVqRE9pX3ZGWXhEbFd3dUo1MDNnMWExUE1qd3hLSU1nUGVvZ2QzUDVUQXNpbnUyQUw3YXN6RjVadGI5RWxmc0JDbkh4X283Zl9QVF9Iam9pUnM5NU5pNGfSAeMBQVVfeXFMUHU3eml4TG9lZDVCbV9aRU5meVU2RlBfNXZTZkFKUVFMMWNJVVRmTFNROXBVQmVwQ29fMmd6QjAtN3JnOHktY2tYY01KRjRPT1E3UlZDdEpuOHVpOE05Qm0yYXVLcmxKdkJJSm5Bdk5OYVF0NHhaejI3SlY2dHNtaHlIOEIxamhzbEdfX21HV3RYT3VES3M0WVdZVFZoTFBUelNqU1lvYnBHX3VxaG9EdkRTbUJldWNFSXZKeU82MlRsRnhJazJ3eUNDbXJBeGRJdktPaW5VSkxrenY0NldoMzF6U2s?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,5 +160,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-03-07 06:38:05 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-03-07 12:40:08 UTC_
