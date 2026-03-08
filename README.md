@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Railways revises schedule of Coimbatore-Bengaluru Vande Bharat train
+- ‘Mahilaon mei dam hai’: On Women’s Day, President calls for end to gender discrimination, change in mindset at home
   
-  🔗 https://indianexpress.com/article/india/railways-revises-schedule-of-coimbatore-bengaluru-vande-bharat-train-10571477/
+  🔗 https://indianexpress.com/article/india/womens-day-president-murmu-gender-discrimination-10571886/
 
-- Iran-Israel war 2026: Air India to operate 78 additional international flights on 9 routes from March 10 – Full list
+- Nasir-Junaid murder: Victims’ families ‘worried’ as Monu Manesar released from jail, return home to drum beats, garlands
   
-  🔗 https://indianexpress.com/article/india/iran-israel-war-air-india-78-additional-international-flights-9-routes-march-10-10571413/
+  🔗 https://indianexpress.com/article/india/monu-manesar-bail-nasir-junaid-murder-case-rajasthan-hc-10571863/
 
-- Nagercoil-Charlapalli Amrit Bharat Express: Check launch date, route, stoppages, frequency
+- Iran-Israel war: Jaishankar to speak on West Asia conflict tomorrow
   
-  🔗 https://indianexpress.com/article/india/nagercoil-charlapalli-amrit-bharat-express-check-launch-date-route-stoppages-frequency-10571273/
+  🔗 https://indianexpress.com/article/india/s-jaishankar-lok-sabha-statement-west-asia-iran-israel-war-india-10571781/
 
-- Assaulted by driver during taxi ride to Nainital, Delhi woman forced to hide near village for hours: police
+- ‘Corruption is security snatched from a family’: Lt Governor Manoj Sinha opens new high-tech ACB hubs in Jammu
   
-  🔗 https://indianexpress.com/article/india/assault-driver-taxi-ride-nainital-delhi-woman-hide-village-hours-police-10571201/
+  🔗 https://indianexpress.com/article/india/manoj-sinha-acb-jammu-kashmir-corruption-security-remark-10571755/
 
-- Father carries newborn’s body from hospital in cardboard box, Jharkhand to probe why no ambulance provided
+- Sanitary pads, biogas and yoga: How women Mukhiyas are quietly reshaping rural Bihar
   
-  🔗 https://indianexpress.com/article/india/jharkhand-newborn-body-hospital-cardboard-box-ambulance-10571131/
+  🔗 https://indianexpress.com/article/india/sanitary-pad-biogas-yoga-women-mukhiyas-rural-bihar-10571580/
 
 - Sarvam releases open-weight models debuted at AI Summit: How they compare with DeepSeek, Gemini
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/mobile-tabs/google-pixel-10-vs-pixel-10a-10570302/
 
+- Arnya, Supreme Universal raises  ₹1030 crore for Mumbai-focused fund
+  Real estate projects need capital, including debt and equity, at various stages of their life cycle. However, the
+  🔗 https://www.livemint.com/companies/news/arnya-real-estates-fund-supreme-universal-real-estate-investment-india-11772903713998.html
+
 - The cost of fame: why Bold Care found A-listers cheaper and more effective than the Meta ad algorithm
   D2C brands in India continue to rely on increasingly expensive performance marketing to sustain sales. Bold Care, best known for its viral ads, has found a way
   🔗 https://www.livemint.com/companies/the-cost-of-fame-why-bold-care-found-a-listers-cheaper-and-more-effective-than-the-meta-ad-algorithm-11772954365581.html
@@ -56,29 +60,25 @@
   BII says its investment thesis is focused on startups that help villages earn more or spend more. Rising rural incomes and
   🔗 https://www.livemint.com/companies/bertelsmann-sees-rural-india-as-its-next-big-investment-frontier-e-commerce-startups-11772867039043.html
 
-- Million bucks: Here's what Google CEO Sundar Pichai must achieve to unlock the full  ₹6,361 crore pay package
-  Google CEO Sundar Pichai has been granted a massive $692 million ( ₹6,361 crore) salary for the next three
-  🔗 https://www.livemint.com/companies/people/google-ceo-sundar-pichai-alphabet-must-achieve-unlock-full-salary-6361-crore-pay-package-stock-performance-waymo-wing-11772939580373.html
+- Wall Street Week Ahead: Spotlight on consumer price inflation, crude oil prices amid intensifying Middle East war
+  Oil prices are set to rise further as the war involving Iran triggers massive supply shocks. Leading exporters are scaling back production as storage reaches capacity.
+  🔗 https://www.livemint.com/market/wall-street-week-ahead-spotlight-on-consumer-price-inflation-crude-oil-prices-amid-intensifying-middle-east-war-11772987485442.html
+
+- Small-cap FMCG stock to be in focus on Monday, 9 March: Here's why
+  The small-cap stock is likely to be in focus on Monday, March 9, following a hike
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-to-be-in-focus-on-monday-9-march-heres-why-11772974162561.html
+
+- Gold Trims Weekly Loss as US Jobs Data Raises Fed Rate Cut Bets
+  Gold rises as traders raise bets on monetary easing following a weak US jobs
+  🔗 https://www.livemint.com/market/gold-trims-weekly-loss-as-us-jobs-data-raises-fed-rate-cut-bets-11772976149554.html
+
+- Wall St Week Ahead-Middle East developments set to sway US stocks as inflation data adds wrinkle
+  Middle East developments set to sway US stocks as inflation data adds wrinkle.
+  🔗 https://www.livemint.com/market/wall-st-week-ahead-middle-east-developments-set-to-sway-us-stocks-as-inflation-data-adds-wrinkle-11772974918210.html
 
 - Aramco Shares Surge Most Since 2023 as War Roils Energy Markets
   Saudi Aramco jumped the most since May 2023 on Sunday. The Iran war entered its second week, prompting supply disruptions that may
   🔗 https://www.livemint.com/market/aramco-shares-surge-most-since-2023-as-war-roils-energy-markets-11772967911634.html
-
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday — 9 March 2026
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-9-february-2026-11772965229806.html
-
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 9 March 2026
-   NMDC, Equitas Small Finance Bank, and SBFC are stocks to buy under
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-9-february-2026-11772960063786.html
-
-- Indian stock market may have a gap-down opening on Monday, Nifty 50 may slip below 24K this week; here's why
-  Global markets may come under pressure amid ongoing Middle East tensions and oil production shutdowns in several OPEC countries.
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-indian-stock-market-may-have-a-big-gap-down-opening-on-monday-nifty-50-may-slip-below-24k-this-week-11772953700550.html
-
-- Silver prices crash by  ₹5,000 this week despite Middle East crisis: Is the white metal's investment story over?
-  Silver prices crashed by  ₹5,000 this week despite the Middle East crisis. However, analysts believe that large corrections often follow par
-  🔗 https://www.livemint.com/market/commodities/silver-prices-crash-by-rs-5-000-this-week-despite-middle-east-crisis-is-the-white-metals-investment-story-over-11772953330817.html
 
 - Happy International Women's Day 2026: Top 10 AI prompts to make cinematic photos on ChatGPT, Nano Banana, Grok, others
   International Women's Day has been celebrated every year since 1911. This year's theme is 'Rights. Justice. Action. For ALL Women and Girls' We've brought you some AI prompts to generate images for the occasion.
@@ -100,26 +100,6 @@
    Motorola Edge 70 Fusion with 6.78-inch AMOLED display, Snapdragon 7s Gen 4 processor, and a 7000mAh battery has been launched in India. The phone starts
   🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-fusion-with-7-000mah-battery-snapdragon-7s-gen-4-soc-launched-in-india-price-specs-and-more-11772772935188.html
 
-- Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints: Live updates - CNBC
-  Dow falls 450 points, posts worst week in nearly a year as oil tops $90
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MXF4cTl4THdfRVlZaTRvVU5rRDdDYldDcXJGSWR6dTBoOHVhRkVqVkNnMzVkcW9Xa0c5T0VTTjdqZmM4dmVyUlhzMXVNNjVTQXVWSllPYzk1M3RJUzRQdDdLRHVXczIzWFcydThscHZobXBnZ2xr0gF8QVVfeXFMT1BVclhGZDM1U3l6Q2RVZm54eElyMVRWTkNyV2RUajVWRUZhVTZjZ0ZsVXpueGlPc0JoZ1B2NVI3bEsyRGF2NnNQbHJHRU1pZEUyU3BZUHVDZGxvVFM5UDFaYU9KOFhHM2NEM2dfVC15ZjA1YUIzMjNEWWxRUA?oc=5
-
-- Will US stock market head for big crash on Monday, and will Dow Jones, S&P 500 and Nasdaq stay in red or f - The Economic Times
-  Will US stock market head for big crash on Monday? Dow Jones, S&P 500, Nasdaq, and
-  🔗 https://news.google.com/rss/articles/CBMiswNBVV95cUxOb1FIUk9idDRhWFc2bnBPam5vWVpIRGFWSnJsaGEtcjJubWJTalp6OUNrRTVReFp1WGFjRXVOVjFhVkctSmxwbE8tSXN5SXRpeDR3SHJERFduSjl6Unl0VUlxeWNQTUtvM3RJOVRISjFQQnNQQ0pKb3MtaGE3bnRHVWxGeHY1RS1IYlo0enNSY0l4Z0FQVUxOVnBmV3lONFczSnJ3djBXU3FrSkxxdUhBWnJVdEF1Z2tlQS1YRHlxVnh2V0ZXVG9MS2JWQXljcXI5UC1qOGFrYTlyT2lSNHFGT1A0akl5NmREc1Q5VVpvdFpTb1VlMWJCU1AybGJGUGREVkdvTmcwdllxWHZvSXVXOTZab250S3FXaWVnd3N6SV8tak5MRkpwZ3Y4aklWZG1OMzVCa2d4aThoWENMWEVaOE1aUlNSS0ZBbUdCZXdiQVcxX1BUR1VGMDBmWG03akE2aTZ1czRPUjlDQ1drWVBlMUxkS3VpM2FtNXpIU2pZbmxLbmx1dnlGb2p2YmhRWEV6TXVZZG9pQkVCbjV6cDg0bm5aSS1pbDB6Uzg0LWpSR3A1M1HSAbgDQVVfeXFMTlJPZ1hmN2R2bTVETnpwOXFHMi0xWFVpVEYzc3htYWVTb1ZGTnhOZ25HaFBnSTk2d2hRZ0h4TXZNYThmQ1hfdkpid0VzM0Q3amJhZmVXWnhDZ0VhekxSSnF5STFKNUdiei1NVUV1dW5jb2lxVWRKeUx0QTJkMk9oVDZiTEdzMHVjOUlkeGQ0bU5XUjBWWnd6eG5pSXJLNGhvd0R0enlUR014LU1nd2pwdFhFWEVCT0wxYzZnQnFkcS1mYjM2eWF6dEFzRHVWblhxcExLMXJmV0ZPRjZSdHQ2U2dBb21KNkdBb1pIbjFOcE9ZX2Iwa2xqWk1LbkhQdTY1MnZfY29rWGgtVUZvbDJjaHlaVXlPOG5qTW5KeTg1NjlUd0xPeXpTUTVUcXFURmtWd1NxNEZnVXJ5WXJmMm5kUFpScWVmaEJZeTd6X1E0YWpmY0Q2Yi1vZ2NSWTNjQ3VpbnBhR1JnUmszcnB4YnJIS2lVVmdQdW9wSU54N1ltblNzNmlzT2VYamM4aWRpTWRwdTk5WGR5c0dZYUpSLXIxaFUzOWI3dXFwcVAyWmFHaGY3RTRsNXdpeWo?oc=5
-
-- Iran Conflict Puts the Emerging-Markets Revival to the Test - Bloomberg.com
-  Iran Conflict Puts the Emerging-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0haQjkwdktUTHVsS3gtV2VYVTFmMkdyTDBwS01FUWZhVmgtemNqVXRaaWF3ZnFMNXVkV2d1Z1RJaVI4S1hzWklaTkVmX0xJSExOcUx4WG1LZkR1MERSQ3V3aktaMWJvczFnTnlkdUtRUDlnRmxkTzFFdk5lbFlBeDl1NU9GVkRWUEI5T1I1aC1vMU9ZZ2pycUo3eDRyLTlNWXdlX3FFWnZuY1d1SHJz?oc=5
-
-- Oil Market Chaos Set to Deepen as More Gulf Giants Cut Output - Bloomberg.com
-  Oil Market Chaos Set to Deepen as More Gulf
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGczemg5MUNlblRYek53UHFWc2txMHBpdEdyUnlRZ1lwSUlBLTRFZkxfUjh3enRON2JPbUdKaUcyQ19kZUtwbm9uX0NSRVhUdVBZR3p3Q2h5akpROFdyNU1OX1hNbnMtM1pZQi1CVzNtMWxnNDU3TDR2ZEFtdjNPRmpHak5qZUFwVlRPalN2SXpfWHRrTmJJN0ZPR3RWcjFWUF9uYVBISzFuVWMwNmVkZEJR?oc=5
-
-- TCS CEO on the ‘AI worry and anxiety’ that has wiped billions from stock markets globally, says: It is a - The Times of India
-  TCS CEO on the ‘AI worry and anxiety’ that has wiped billions from stock markets globally
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQYmNiMU1RVGtCaXVrWkRvQ20wOGx0YW1OeWFDU1lCVy1QM0JHRmlLZEJQYnk3aTZrM3I3anVaRnEzb011OGFIYlZqSGNfM0l0LW55SG5uTElwT0k5VUp3dzJaa2dGRU5aak1XZjFnMWo2OTNVRHNlUDFlSDhzY25FMXRIX3RpLVZoV21VNWhfTjZRVDkzWDY0U0VCX0l3WkVIcXNGalN4cjhQU0FFX1RlMVJHU0ZfdUVyd2Q2a29vV0RydjQ2bmpieG5ORzFZck9VX3BKeVNsaGRwOTJyS2JRcEYyQklWdEdUNlJ0SzJ5TExkdFBXWnFISGtvM0hNQVExbmZjZ0dsa0x2cHBrZXg3VERB0gGXAkFVX3lxTE52RFB3c2dlVVRtbFdsakY3WGhnYlhrTGI0a3FUcG9GaFBjZWVRM2hWTTRNTGt4N2JiQnFNQnc2ZTZZSUFTQXo2b1gyTkR3OXQ0bTBlaVhZWDZ0OHE5N2JOMmttZGR0RjJPRGlsX0czaU5VeVR5M0V6STd5eUtQaHQyREtCOEt3WFVVcVFQM05VMVBLZ1NKYXM3WlhpMVhWY3g0VDM3Wk50NE44Q2FXdHJHRFE4cm1CRHBWMGYyYXJBMXhucDJ5OHlFMVpTMncycUN5X19paF9Rbm1qZXlfQkJoU1M1eG9JUkFBM2lCU3R3dG5FNWJ5Y0JsVnFCcE9MVXRHNldVTGRFelpwVzdIMlIyWFY5WmtLWQ?oc=5
-
 - Ahead of Market: 10 things that will decide stock market action on Monday
   Rising US bond yields and a stronger dollar have triggered risk-off behaviour among foreign investors. Analysts say volatility may persist, though selective value-buying opportunities could emerge for long-term investors.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129260972.cms
@@ -140,25 +120,25 @@
   Rising geopolitical risks, refinery disruptions and tanker delays are pushing prices higher. This is creating economic vulnerabilities for major Asian importers, including India, China, Japan and South Korea.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-oil-markets-on-edge-as-west-asia-unrest-triggers-new-energy-shockwave/articleshow/129255467.cms
 
-- ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
-  ‘Never dependent on permission’: Government official on US ‘wa
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
+- US allows India to buy Russian oil during US-Israel war with Iran - BBC
+  US allows India to buy Russian oil during US-
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
 
-- 'India decides its own rise': Jaishankar pushes back against US official’s ‘economic rival’ remarks | India News - Hindustan Times
-  'India decides its own rise': Jaishankar pushes back against US official
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbkdYZjVmalowUERFN3BaYjByZFgtSklNbkROWWpncGFjZ2hTWVBMOENLT0RLNXh2NllEeFkyUUd4aGtYZlFjaHd4Vkx6bmJRYUdTZlpya1VsU0Jwb3VxMFBXTTREeHozOVc1MWxxcDdlUWFMZFo3b2tuRWhMTVhLTTNVaHpXbTZ4LUZNT2MzRXh6Sk9ZY1RXSUJ0bXNVQ3ZLTWRZdTl5aGZVWjRJakM1dWdHLVJfMUkzVWdkVE5mV05jNTVkbVZ0dVZLTDIyckdDUzMtX2VnMnoxUERvTEHSAeMBQVVfeXFMTktVSmFwdERyclFJV3M3LWRZN1o3ZTc3N0hkVldIZE94SVZrRm9pYnlwa1o4cVVTOTlWZzlJdDhrT3N4TFZIcC0wTWVSaG1tYnpoRFZCUm1HdGdreGJ6amZEc0V6ZDlWeXlMVi1jdDZVaGIxalF0WFRrcHVfNjFqS2RwM09yaTNScGF6Z0FxY3FOUGRzTlpFakVXSlFWWWgtclV5S1hGTlVEZS1pN241YmtwSERZY29vVU85TWZQMVpZQ3VwSU4wS0YxR1J6OVg5MGZrdkpPejc3NXJPSHpTVTF6X1U?oc=5
+- 'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India - NDTV
+  'Take Pressure Off': Trump On Easing Oil Prices
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTVaTGRvOUxxZXRDMmNXeW9QcWMwbWFDdm5URzVqV3pCUk55Uzloak5nazNjUlczdUtEeUpZdlN3Q1dLcmRHZ2czenViOFlfNUNTX1MxclBxcVV5azZNbGpIY1F0U09aS05uSmktTGt5Yld1UUN5bDA0aW0xd2JLekFDcnpJRzdRV3ltYm13R2gwZUd1UW9FNnVYeVM5ZVlNWGpLYWhHSkRwUEo2RnF4aDJvUFltV195WkNRTmF4WGpWclEtLUNDedIB0AFBVV95cUxOVmZWS0R0QmVqc0JCcjkwZE45d3lMSHdBSUVTRjRMYnp6aVlyUm1TelZJUlRWYTh2R09IVWxhOGJIOXZaZFJHVWdqNmdpc0ZqNmcteTcwcGJsX1lFclZpbC1OdjZFa2tYWFpBcTQtendFTkZfUldRTGJoelpybGVFUXZWZy1DdlZLSHZRbkt4Z2JDUC1BYUdlUnUxcGJaN2N6dnh1LU1PWGNOdmFOR3VlRVF0dUktWlRNR3RpOGR6am1nYm00Y0RPeGhjQ0U4MEVr?oc=5
 
-- Route To Lachen, Gateway To Gurudongmar Lake, Reopens In Sikkim - NDTV
-  Route To Lachen, Gateway To Gur
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxONmhqeFJDUVM0NjkwTy11UlhqV1ZUY09WYjZIODlhUlNRVWZST0w2bE40VTZPbGk5UjJiZU1WaEY0TG9hRHZqWVdiZkFIRjJvcWN6NVp2WnprNnI4RlZZTEVlRkpuVnZKbVhRSG5Wa25xREZsejk4RW45a01DckZfRWRKNC1tMzJiYmpKMnlieG5ha0JPUngzNEtiWmxUWG5iNmxMStIBrAFBVV95cUxNdEJ2Z294ajBWVExZejdvaEFuY2lucWJia3B6X1E0ZVQ0ekZ3d2p0b0lJa2p3WmxJTWFNRV9MNFZvRjhrN2IxaFNRWEpDYWJBdnFBY3JxNGZFeVA2QkpsMl92MUIxZ0w4VzRpakEzYTIzQWFkSUdDVGl6M0p0V0cycVh3ZnVseTRfdmphekh2cnZFTjAzbktYZDdLME1wWVpBMWoxMDU1alh6Z3Aw?oc=5
+- 'Mind your own business': Kamal Haasan’s sharp message to Trump on India's oil policy - The Times of India
+  'Mind your own business': Kamal Haasan’s sharp message
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSVBjWkhNWUxOSDRXb3k1VjhXcDRvMW9jc1hkWGk0WFVxSGRTeXBmWlJlcHB1Y2stZHVJZG14YlM1OGppRUU1a25VZm9KQTlla0w0dTY1TloxZ2JLak5FOFQ2bjJ3WTJZa1hlYlJuSmdJS012X2FiQzNKSFFYQ1J2OXpibm1CQ3pLbHFxaTZKaWFXR2hLSHlOSkZBSlVEcDZ0bldERkYyRFczTU9jNUt3WUpJaUtwLXV6YTczcFY0a3BmN2xxd2FxYVRNTm9FNEk1LXEyZVlNXzVzZHpVM2tNd3d30gHnAUFVX3lxTE81ZlBRS2J0SGUzU2FQZXJzamxob0ZidnYyRU4wcnJZeGpLaHVPc082dV83NldTaFB3dFh3WWFiQWR3aXQyYlNzS0hmUnpzZ2ZlN08xX0VhbDUta2pidS1Rd0p1ck9nWEpMaTRWdDVxZU9Jd1FJTVNNN0J4cEFYXzdMSjh3a3lCczFoVDhNR2pzS3BBZW9UckFtcGRXN016YXdoZkJMazUtNXNMLWt0T0RGdDZKMjU5TVluMUtQQ3VPTVZtQm9GbXVXLWEwSnFEOW9tT2hmTWhZN2c4RlhiRnJtUjRzOHFwTQ?oc=5
 
-- Women at the Centre of India’s Development: VP Radhakrishnan - News On AIR
-  Women at the Centre of India’s
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQelpLNktCSmNUbm9XTWFfYUFCeUZUZlZ2MGl5aWN3VF80Rlp4a19OV0NWbVlmTDVHUWlBZFlzazFvZy1Tc0hiS1Q0RDZPWm83NW1CQXJjMXJiZU02ckFpdm1pOVhGb2xDd3d1LXRQWV9nT0Q5WWR5NjhWUFFaMzR6NDg4cjZIV3l4M3VtMDVzb1hiZw?oc=5
+- Indian national Jaskaran Singh arrested by US immigration in San Diego over 'criminal history' | India News - Hindustan Times
+  Indian national Jaskaran Singh arrested by US immigration in San Diego over 'criminal
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0ZnZUZkX3VkbTNIV1ZpT0daMkdFV2lQc1Y4RG9EdTBqLWxiRGlkT0RUZnhUbjZHdjZhR19MWl9Wa0Y2bE95RndiaXJtMHNIMzQyckZHNExNdkxHMk4xZmgydEdBSVItMFJKYjJMaUZtckp0bE5LYW1PUlhrSnNDYUF3YjV2M21VdnRoc0FKYXBTTEZYR2RSOTUwTXBOOFptZ2dtVTBsRHRYV09KWFUyYm1qajZ5eWJjQWh6T2xza2RNdkNhMnEtUTVVbGNsamkybkVXX1NnUVY0dGZuQUc0QU1YNTctSDZabkczZW53eGLSAfYBQVVfeXFMUE92UkhOWnA2Uk1WdG1nazIxeEx6YWNxRmxLb0hPb25BUzBNZ3dDSDJGRVZPT1VhN0ZZZVdlckZBUGhIeEEybll4SXhqVEJSbUpubEJiOE5sNFA1VkpYSlZmU3RiM0hvTEc3elBFNTFxUTBlWjM0OHFESGtxZVRLWUNyQlFJeXJzTUtacThQdEhCaThqVGJ5Qko2b1ZFcjlXX3BWaU5mSWZQNTFfdk01TXM5MUpISzF1UDgzQ251MDVUUy1Wc2xaQV91Y3plZFVuY25mZWsxQXJ1YllLZmhMNzhITkRBcXFac1BkRzdvMl9RSXU5TDZB?oc=5
 
-- AAP Fulfils Promise To Punjab Women 4 Years After Polls, Congress Protests - NDTV
-  AAP Fulfils Promise To Punjab Women 4
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlVpaDVTZkpRLU5TRWRteU14WWRIenpaUlJWdGFwTEt4QWwtZDNJQ19vNjdJcHdRR24tOXMtT3czT0pCZGMzTGhZVk4wcnVkWE9pRzJiUGd1clZVa096QmdvTzVjS1o2dFFhZ3UwbG1VaU9SMUdzN3JOVGlpTjF3VVJjNWFOUjVNTHRYNTBRWkxWLVVDTnZPR0V0X0VtNUNQdjVhY0QzLTNJQU1yMGVtcDdhcVPSAbwBQVVfeXFMTjBSZE1nR1A5bnFfbTViYkpwcTJ5NEp4Wm9BMjFKMC0tNDl0UUpTUDhDcUFiYmhtMXFvajg1c0lqMjA2WEJTcWIzVHRWV3VpenVLSHVOam9qUWxLdzZsdHFRTUhvNVZvRUZzM2hZWjNCWDhEREVvaEJ1SDFJa2N6NlZFS3VsODk0UlB0QjdwY2ZmZy1vcUszS3d0N0JmWGpYdlh0b2VCMjZIY1o0VjdWakczaDdKTW1aMTdCbHA?oc=5
+- "Exceptional Skills, Determination, Teamwork": PM Modi On India's T20 World Cup Victory - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1oWUZ0NjFpMklPbmNSeFdGdllodGEyY0F2ZkhWUTU2QzcyYzlFQ0Z0Nmk3Rmc4QTFHYVRQR1I1d3lOdlpxMVNaUHpXUkxPaWZ0VGdYTlhvUlpleGdaSjNBZG5kRV94dz
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1oWUZ0NjFpMklPbmNSeFdGdllodGEyY0F2ZkhWUTU2QzcyYzlFQ0Z0Nmk3Rmc4QTFHYVRQR1I1d3lOdlpxMVNaUHpXUkxPaWZ0VGdYTlhvUlpleGdaSjNBZG5kRV94dzl0cWVwM3U2LUNvbjJNWkJNTkh4MnlaWGVheWRmR3hzSVBtdUZRN0JWSlhDWm1hNWNuNXRfWlM0aFVsd2s3MEMyeEI1UFJhcU9kMlh2QzZsVXdHUWxUY0lWbEhK0gHMAUFVX3lxTE9yUWVtdmx2TzBtZmV2ZjFGa3JyOEpPSzAzSThGbVhmS21FcTNsRGhqMzVqSHJsRzdwaDAzQ3J3QzZMR2laZzNpZWJzc3lxTUxnbXR1cjVSTmZ3bVV4S0xtRDliYlZxR2c1MzZpZXBfTkhEallXbllDR0RKbmlXRERkRjJxS3UydWFwa0VlVzFFT1VGV0tTZ1ktek9aS0p5ckZyTmZhVS1EbXBXazRaOHd0Q2Q3Zy1hY2thRUJwdnpyaUZjWnpYZHE0U3JLQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-08 12:41:34 UTC_
+_Last updated: 2026-03-08 18:30:52 UTC_
