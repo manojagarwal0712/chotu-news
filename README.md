@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Over 52,000 Indian nationals brought back from Gulf to India in a week, says MEA
+  
+  🔗 https://indianexpress.com/article/india/indian-nationals-gulf-west-asia-india-return-mea-10570686/
+
+- Exclusive: Vaishno Devi medical college, which lost MBBS nod amid protests against Muslim students, seeks fresh approval
+  
+  🔗 https://indianexpress.com/article/india/exclusive-vaishno-devi-medical-college-which-lost-mbbs-nod-amid-protests-against-muslim-students-seeks-fresh-approval-10570509/
+
+- BJP Nagaland ally and ruling NPF opposes Vande Mataram: ‘Alien… threatens our rights’
+  
+  🔗 https://indianexpress.com/article/india/bjp-nagaland-ally-and-ruling-npf-opposes-vande-mataram-alien-threatens-our-rights-10570498/
+
 - Self-taught Jharkhand developer builds dictionary app to keep Ho language alive – ‘Language is one of the biggest markers of our identity
   
   🔗 https://indianexpress.com/article/india/self-taught-jharkhand-developer-builds-dictionary-app-to-keep-ho-language-alive-10570415/
@@ -8,17 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/bjp-leader-arrested-for-growing-opium-on-5-acre-farm-in-chhattisgarh-suspended-from-party-10570486/
 
-- Study: Rs 54K expenses per hospitalisation in pvt facilities under PMJAY
+- ‘About principle, not people’: OpenAI’s robotics chief resigns over Pentagon AI contract
   
-  🔗 https://indianexpress.com/article/india/study-rs-54k-expenses-per-hospitalisation-in-pvt-facilities-under-pmjay-10570543/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-robotics-chief-resigns-pentagon-ai-contract-10570931/
 
-- For two years, her IFS dream was written on the wall. This week, Kerala’s Sreeja J S achieved it
+- For OpenAI and Anthropic, the competition is deeply personal
   
-  🔗 https://indianexpress.com/article/india/for-two-years-her-ifs-dream-was-written-on-the-wall-this-week-keralas-sreeja-j-s-achieved-it-10570503/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/for-openai-and-anthropic-the-competition-is-deeply-personal-10570839/
 
-- Heatwave alert for Vidarbha, Andhra, TN, Gujarat until March 11
+- China could see widespread use of brain-computer tech in 3-5 years, expert says
   
-  🔗 https://indianexpress.com/article/india/heatwave-alert-for-vidarbha-andhra-tn-gujarat-until-march-11-10570573/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-could-see-widespread-use-of-brain-computer-tech-in-3-5-years-expert-says-10570829/
 
 - Google Pixel 10 vs Pixel 10a: A closer look at design, display, and camera upgrades
   
@@ -28,57 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-caricature-trend-personal-data-fraud-risk-explained-10570136/
 
-- OpenAI is transforming ChatGPT for Android: New ‘Memory’ tools and a full-screen makeover leaked
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-new-memory-feature-10569868/
+- The invisible manager: how AI is running hotels without replacing humans
+  Hotels are using AI to decide how cool their rooms should be. A staff member will still open the door, and a chef will still cook your dal Bukhara.
+  🔗 https://www.livemint.com/companies/news/ai-running-hotels-without-replacing-humans-service-robots-roseate-radisson-wyndham-11772940637716.html
 
-- Vivo X300 FE India launch expected soon: Check specs, camera, price
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-x300-fe-india-launch-expected-soon-check-specs-camera-price-10569847/
+- Bertelsmann sees rural India as its next big investment frontier
+  BII says its investment thesis is focused on startups that help villages earn more or spend more. Rising rural incomes and
+  🔗 https://www.livemint.com/companies/bertelsmann-sees-rural-india-as-its-next-big-investment-frontier-e-commerce-startups-11772867039043.html
 
-- Forget Android and iOS: This phone runs on Linux and comes with a physical privacy switch
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/jolla-phone-sailfish-os-linux-privacy-features-price-specs-10569504/
+- Million bucks: Here's what Google CEO Sundar Pichai must achieve to unlock the full  ₹6,361 crore pay package
+  Google CEO Sundar Pichai has been granted a massive $692 million ( ₹6,361 crore) salary for the next three
+  🔗 https://www.livemint.com/companies/people/google-ceo-sundar-pichai-alphabet-must-achieve-unlock-full-salary-6361-crore-pay-package-stock-performance-waymo-wing-11772939580373.html
 
-- In charts: The final report card of Buffett's era and Greg Abel’s challenges
-  Greg Abel faces the formidable challenge of maintaining Berkshire Hathaway’s historic legacy while managing a record
-  🔗 https://www.livemint.com/companies/news/warren-buffett-final-report-card-greg-abel-challenges-berkshire-hathaway-11772804453762.html
+- Google's Sundar Pichai gets $692 million — How his pay stacks up against other Big Tech CEOs
+  Sundar Pichai, the CEO of Google and its parent company Alphabet, could now earn up to
+  🔗 https://www.livemint.com/companies/people/googles-sundar-pichai-gets-692-million-how-his-pay-stacks-up-against-other-big-tech-ceos-11772942081855.html
 
-- ‘Just go for it’: Cognizant's Sreedevi Palit talks about imposter syndrome, framing policies, and more on Women's Day
-  Sreedevi Palit Human Resources and D&amp;amp;I chief at Cognizant believes this year's theme ‘Give to Gain’ is a call to action for
-  🔗 https://www.livemint.com/companies/people/womens-day-2026-cognizant-sreedevi-palit-imposter-syndrome-frame-corporate-policies-advice-entrepreneurs-pay-it-forward-11772788687158.html
-
-- New Mountain Scraps $32 Billion Deal With Ex-Executive Holt
-  New Mountain Capital has scrapped a deal with one of its former top executives. The veteran dealmaker was trying to acquire five portfolio companies.
-  🔗 https://www.livemint.com/companies/new-mountain-scraps-32-billion-deal-with-ex-executive-holt-11772928436229.html
-
-- OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal
+- ‘About principle, not people’, OpenAI's robotics head quits after company's Pentagon deal — Who is Caitlin Kalinowski?
   The head of OpenAI’s robotics team resigned Saturday. He cited the company's deal to deploy
-  🔗 https://www.livemint.com/companies/openais-head-of-robotics-resigns-over-company-s-pentagon-deal-11772923969241.html
+  🔗 https://www.livemint.com/companies/people/who-caitlin-kalinowski-openai-robotics-head-quits-company-pentagon-deal-anthropic-military-use-meta-apple-macbook-design-11772934799332.html
 
-- JP Morgan CEO Jamie Dimon says AI can enable a four-day work week for employees
-  Jamie Dimon, CEO of JP Morgan, believes AI could reduce the
-  🔗 https://www.livemint.com/companies/people/jp-morgan-ceo-jamie-dimon-says-ai-can-enable-a-four-day-work-week-for-employees-11772902434269.html
+- Three segments quietly winning amid war, oil shocks, and the market bloodbath
+  Even amid the bloodbath, a handful of stocks quietly marched higher.
+  🔗 https://www.livemint.com/market/stock-market-news/iran-war-oil-prices-india-market-bloodbath-safe-segments-to-invest-11772937241655.html
 
-- In a growing portion of India, nearly every third investor is now a woman
-  The set of states with a female investor participation rate of at least 30% has now expanded to include Goa, Mizoram, Sikkim and
-  🔗 https://www.livemint.com/market/stock-market-news/women-investors-india-indian-stock-market-11772802075160.html
+- Why gas prices could top $5 again if the Iran war drags on
+  If the war drags out, there’s a very real chance of record high prices at the pump.
+  🔗 https://www.livemint.com/market/commodities/why-gas-prices-could-top-5-again-if-the-iran-war-drags-on-11772949385364.html
 
-- Traders Snatch Up Derivatives as Risks Grow: Credit Weekly
-  A weakening US jobs market. Artificial intelligence and the potential demise of whole industries. War
-  🔗 https://www.livemint.com/market/traders-snatch-up-derivatives-as-risks-grow-credit-weekly-11772915132294.html
+- How US-Iran war may impact India's stake in Chabhar Port,  ₹15,000 crore bilateral trade?
+  The US-Iran war has jeopardised India's $1.68
+  🔗 https://www.livemint.com/market/stock-market-news/how-us-iran-war-may-impact-indias-stake-in-chabhar-port-rs-15-000-crore-bilateral-trade-11772944882844.html
 
-- Stock to buy: Sumeet Bagadia of Choice Broking has recommended this FMCG stock as his Women's Day Pick
-  Choice Broking recommends buying Colgate-Palmolive at 2200 to 2160 levels, anticipating potential
-  🔗 https://www.livemint.com/market/stock-market-news/stock-to-buy-for-short-term-sumeet-bagadia-of-choice-broking-has-recommended-this-fmcg-stock-as-his-womens-day-pick-11772891601562.html
+- Women's Day: Equity mutual fund share triples to 32% in women portfolios, fixed deposits fall sharply
+  A new report by Equirus shows Indian women investors are moving from traditional low-risk strategies to diversified portfolios. Their approach includes cautious adoption of AI for research.
+  🔗 https://www.livemint.com/market/stock-market-news/womens-day-2026-equity-mutual-fund-share-triples-to-32-in-women-portfolios-fixed-deposits-fall-sharply-equirus-11772943361773.html
 
-- US-Iran war to crude oil prices: Top five triggers that may dictate Indian stock market this week
-  On Friday, the Sensex plunged 1,097 points, or 1.4%, to close at 78,9
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-indian-stock-market-this-week-11772876284199.html
+- HAL, BEL, BDL, Zen Technologies to GRSE: Is defence the new IT for the Indian stock market?
+  Firms like HAL and &amp;nbsp;BDL have seen returns exceeding 500%. Experts view defence as a potential growth sector akin to
+  🔗 https://www.livemint.com/market/stock-market-news/hal-bel-bdl-zen-technologies-to-grse-is-defence-the-new-it-for-the-indian-stock-market-11772938435253.html
 
-- US-Iran war: Why US Dollar is rising despite soaring crude oil prices? SBI report explains
-  The US Dollar index gained 1.3% for the week, marking its strongest weekly rise since mid-November 2024. Rising tensions
-  🔗 https://www.livemint.com/market/usiran-war-why-us-dollar-is-rising-despite-soaring-crude-oil-prices-sbi-report-explains-11772870760757.html
+- Happy International Women's Day 2026: Top 10 AI prompts to make cinematic photos on ChatGPT, Nano Banana, Grok, others
+  International Women's Day has been celebrated every year since 1911. This year's theme is 'Rights. Justice. Action. For ALL Women and Girls' We've brought you some AI prompts to generate images for the occasion.
+  🔗 https://www.livemint.com/technology/tech-news/happy-international-womens-day-2026-top-10-ai-prompts-to-make-cinematic-photos-on-chatgpt-nano-banana-grok-others-11772943795973.html
 
 - Samsung Galaxy A36, A56 specifications leaked ahead of launch, price range tipped
   The A37 could be 7.4mm thick, while the A57 could be slimmer at 6.9mm. The A37
@@ -96,137 +100,65 @@
    Motorola Edge 70 Fusion with 6.78-inch AMOLED display, Snapdragon 7s Gen 4 processor, and a 7000mAh battery has been launched in India. The phone starts
   🔗 https://www.livemint.com/technology/gadgets/motorola-edge-70-fusion-with-7-000mah-battery-snapdragon-7s-gen-4-soc-launched-in-india-price-specs-and-more-11772772935188.html
 
-- WhatsApp could soon offer a paid subscription tier with exclusive stickers and ringtones: Report
-  WhatsApp is reportedly developing a premium subscription plan called WhatsApp Plus. The new plan could offer features like customized app icon
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-offer-a-paid-subscription-tier-with-exclusive-stickers-and-ringtones-report-11772766720190.html
+- Mcap of 8 of top-10 most valued firms erodes by Rs 2.81 lakh cr; SBI biggest laggard
+  The combined market valuation of eight of the top-10 most-valued firms eroded by Rs 2,81,581.53 crore last week. State Bank
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-most-valued-firms-erodes-by-rs-2-81-lakh-cr-sbi-biggest-laggard/articleshow/129255055.cms
 
-- Dalal Street Week Ahead: Defensive, stock-specific approach advised to protect gains
-  Rising volatility and weakening market breadth signal caution for investors. While some sectors like Infrastructure and Pharma show relative strength, others are under pressure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-defensive-stock-specific-approach-advised-to-protect-gains/articleshow/129212825.cms
+- Fear, oil shocks and volatility: Why investor behavior matters more than ever
+  Indian markets face volatility due to global tensions. Investors often desire stability but markets respond to real risks like rising oil prices and geopolitical events. Success hinges on disciplined behavior, not predictions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fear-oil-shocks-and-volatility-why-investor-behavior-matters-more-than-ever/articleshow/129253239.cms
 
-- Explained: Why BlackRock stock tanked 7% after curbing withdrawals from flagship fund
-  BlackRock shares fell sharply after the asset manager restricted withdrawals from its flagship private credit fund, HLEND.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-why-blackrock-stock-tanked-7-after-curbing-withdrawals-from-flagship-fund/articleshow/129210168.cms
+- How passive investing could shape women’s investment choices in 2026
+  Women are increasingly shaping India’s mutual fund landscape. One in four investors now being female. Passive strategies such as index funds and ETFs are emerging as low-cost tools.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-passive-investing-could-shape-womens-investment-choices-in-2026/articleshow/129252799.cms
 
-- Women account for only 5% of CEOs in India’s listed companies: Primeinfobase report
-  Women remain significantly underrepresented in leadership roles at India’s listed companies. Primeinfobase report shows women hold only 5% of CEO or MD positions and just 10% of executive directorships.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/women-account-for-only-5-of-ceos-in-indias-listed-companies-primeinfobase-report/articleshow/129204165.cms
+- 5 IPOs to open this week. Check GMPs to track listing sentiments
+  India’s primary market will see five IPOs open next week, including four mainboard issues and one SME offering
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/5-ipos-to-open-this-week-check-gmps-to-track-listing-sentiments/slideshow/129252936.cms
 
-- Coforge, Persistent Systems among 10 stocks that have fallen most in 2026. Do you own any?
-  Several stocks on the BSE 200 index have seen sharp declines at the start of CY2026. Technology and new-age companies dominate the list of laggards.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/coforge-persistent-systems-among-10-stocks-that-have-fallen-most-in-2026-do-you-own-any/slideshow/129204008.cms
-
-- Multiple states to borrow Rs 45,960 crore through RBI SGS auction on March 10
-  The Reserve Bank of India (RBI) has announced that multiple state governments will raise a total of Rs 45,960 crore through the auction of State Government
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/multiple-states-to-borrow-rs-45960-crore-through-rbi-sgs-auction-on-march-10/articleshow/129203327.cms
-
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- 10 smallcaps that delivered up to 25% returns in a week when 1,000 stocks fell
+  Jindal Poly Films leads the rally among outperformers. Despite a volatile week driven by geopolitical tensions and rising crude prices, several smallcap stocks bucked the broader market trend.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-smallcaps-that-delivered-up-to-25-returns-in-a-week-when-1000-stocks-fell/slideshow/129252624.cms
 
 - "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
   "Never Depended On Permission": India
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
-- ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
-  ‘Never dependent on permission’: Government official on US ‘wa
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
+- 'Wanted to come into our port': EAM Jaishankar on India's rescue of Iranian ships - The Times of India
+  'Wanted to come into our port': EAM Jaishankar
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekN6SlliZ00yNXhuLVl2QlN6YmlOODJLRXpKLUFhMVFJN0pkUjZyUDhaaGtzejMwSHN3YUVjS0t3S0hkNGFuYmRkS1JqVjVFWkdEUk9nYVRjOFdFQU03RDZGam12RmZHUk95VEpELXVGdnZubXZGUlJBS3ViWVM1OUdHNTFDTUlRY0R0a0VCMzZVemJMeXdsZ2gycHlVNGRNYUE2aFU0MkJKZW45SWlKLXlWRExKQU5oOVlLcjNRRXNBX0hfV3VFVzRLY1B6VUltaVVwVm9jNU5aVmx3cVHSAeMBQVVfeXFMTzU5SXVqWGhaeDNmb2NJM3VkelBhV0wxRElkWUhzMnNlcTdETHdJLXdxekFBay1QU3dRSVBFTFlsSS1INkluRjAxRTRabHJNMDlTRWpNbDNpMFRmdnp5QVpSVENnbll5YnI2U2xiMUtYOW1WY2J3bm5lcUp6UGx6c2FwQ2ZqS0c2VFF2enFjOFdIdGRuMzg0Wldhcm94WWVuSEFYRzc0bXZ1eFdlbUUyYVlZVUt0SEtfdEFFMGFTOV9OTGRpYVVJUFJualktbHd1UFV2UGVEcTlBVWlXWmRIT2xxb2c?oc=5
 
-- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
-  Band Baaja Bitiya: The heartwarming tale of a father,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
+- Iran Strikes Israel’s Haifa Refinery Linked To India In Response To Attack On Oil Depots | Video - News18
+  Iran Strikes Israel’s Haifa Refinery Linked To India In
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hkVExLenFHVFFBVXlqRHNBRmt6ZVdIN1NXM3FKYnp0YzJxRER6Z09XZzJrNWRLQkJvTjhUWGMycVNILUpYdGFOM3gyS3FQNDY4MUxtNS1CbklMVG9oa0tFWi1nZmpDUTVFS3NGc25tMjhyOUJmOUtuMDdxZnB1ekRIeTNiNzhGeDFhLWJsd25aMzZYdC1oMnpKLVQ4eFZ1S2F3WTNqNk1FMS1QdV9jOVpxalJ2dUdhXzlFSkZhcVRha1MySzRWaTRoNnhpaHU40gHWAUFVX3lxTE04bEhaVHU5UWgyMWhRb1RwbDBXejRhcWFPR3E4emp3R1podlMtUnN1VDFZSXNscXpyRWs1aF9ZZGsxT1dESGNsUU05Si1NYTQ0NHd4bGJydFdjN2kyRERPZWxiejFqUGg4MEgwcFdQSWJKT2RkdmZwUWFmWWRhV3lKbFFlZ1M4VmhtdkZnbHZOZzNrVncydDhzdV9XWjVCUTRVSWhJOW5SWU5QMjBkaWpDdkgxYUlaQzY4Uk1fcmhQQnd6SGJRMjhUTG5rR1ZCYXREdTRyTnc?oc=5
 
-- What is the state of the environment in India? | Explained - The Hindu
-  What is the state of the environment in India?
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
+- India plays an important role in maintaining stability in the region: Taiwanese legislator Chia-Pin Chung - News On AIR
+  India plays an important role in maintaining stability in the region: Taiwanese legislator Ch
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNaF80TEc5U3NVczRSRW16Z2c2STFrYTl4VTJoOXFJUXpYNURYdThUMkVEWnY3RWFfTGwzNUJxTzYzSXZPT3A0bDgzUmtCNHFaNk1iU3p1dHV5eFdSVVZzb01COGhGN3NJWUF2TUQ5RU9Mb0pkYmdsckpVWlJyR2hKYzVyelE3WlI1b3JyR2hDVk9qNkw0Tk9VQi11WnFHTUQ2RF9pVGk2Z0N4RGxzM3hNdFF5WkYzWjdQSk85RFQtOVRfWDdvOXlDUFNwOHhvems?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
-
-- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
-  "Never Depended On Permission": India
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
-
-- ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
-  ‘Never dependent on permission’: Government official on US ‘wa
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
-
-- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
-  Band Baaja Bitiya: The heartwarming tale of a father,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
-
-- What is the state of the environment in India? | Explained - The Hindu
-  What is the state of the environment in India?
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
-
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- Madhya Pradesh Trainee Cops Told To Start Day With 'Dakshinamurthy Shloka' - NDTV
+  Madhya Pradesh Trainee Cops Told
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUNMelVjWVFlaGwzWFBtQU1NMWpLclNkVk42bTczcFVoMUl1MnNFeDFqMmhoVUVWeERUblh6QzktZzk2NkdMZlppUkZWUVJPOTJZRUd6WGk1QlJ0SzREUHNGU24za1JXMWd2ZGJ0c0d2R0liT1E5V0RCdHNTaWhzcXJNTGtlb1l1OXpDU0M4eUNHMmFXeTV2cEFtekhEaFNnR2N2YlRjVGRKakRuTEtkYjY2RDVmZ2NFWXd3Vk1NaGtJbDJnaGJxUURaaXQxd9IB1gFBVV95cUxPMlhpbUdSRkJCb2RmWk44M2VTSjRuSV9wWk1IbVJ6d3pEcVdiQVl3aUZsOTU0MXczR25lcWdhTzJIS09hZG44aFVPa2ExTzBjMWpCbVhzNER3UjlVcXVLTkxORHcyaHVBd3NVWHQ0SlpXZTBsT0UyRjc4bHY0ZzFuVFJwWWxaaWx0dFA4QUMxbXRaVVlBM3ZSSHhaZjZaTVdld3JqRFEtdUQzdElRdlNvdWc1emkyVURSb1pzbHJyZ3BlWExJYzhQbTRSS0VXd1R5cFZKSWN3?oc=5
 
 - "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
   "Never Depended On Permission": India
   🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
-- ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
-  ‘Never dependent on permission’: Government official on US ‘wa
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
+- 'Wanted to come into our port': EAM Jaishankar on India's rescue of Iranian ships - The Times of India
+  'Wanted to come into our port': EAM Jaishankar
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNekN6SlliZ00yNXhuLVl2QlN6YmlOODJLRXpKLUFhMVFJN0pkUjZyUDhaaGtzejMwSHN3YUVjS0t3S0hkNGFuYmRkS1JqVjVFWkdEUk9nYVRjOFdFQU03RDZGam12RmZHUk95VEpELXVGdnZubXZGUlJBS3ViWVM1OUdHNTFDTUlRY0R0a0VCMzZVemJMeXdsZ2gycHlVNGRNYUE2aFU0MkJKZW45SWlKLXlWRExKQU5oOVlLcjNRRXNBX0hfV3VFVzRLY1B6VUltaVVwVm9jNU5aVmx3cVHSAeMBQVVfeXFMTzU5SXVqWGhaeDNmb2NJM3VkelBhV0wxRElkWUhzMnNlcTdETHdJLXdxekFBay1QU3dRSVBFTFlsSS1INkluRjAxRTRabHJNMDlTRWpNbDNpMFRmdnp5QVpSVENnbll5YnI2U2xiMUtYOW1WY2J3bm5lcUp6UGx6c2FwQ2ZqS0c2VFF2enFjOFdIdGRuMzg0Wldhcm94WWVuSEFYRzc0bXZ1eFdlbUUyYVlZVUt0SEtfdEFFMGFTOV9OTGRpYVVJUFJualktbHd1UFV2UGVEcTlBVWlXWmRIT2xxb2c?oc=5
 
-- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
-  Band Baaja Bitiya: The heartwarming tale of a father,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
+- Iran Strikes Israel’s Haifa Refinery Linked To India In Response To Attack On Oil Depots | Video - News18
+  Iran Strikes Israel’s Haifa Refinery Linked To India In
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0hkVExLenFHVFFBVXlqRHNBRmt6ZVdIN1NXM3FKYnp0YzJxRER6Z09XZzJrNWRLQkJvTjhUWGMycVNILUpYdGFOM3gyS3FQNDY4MUxtNS1CbklMVG9oa0tFWi1nZmpDUTVFS3NGc25tMjhyOUJmOUtuMDdxZnB1ekRIeTNiNzhGeDFhLWJsd25aMzZYdC1oMnpKLVQ4eFZ1S2F3WTNqNk1FMS1QdV9jOVpxalJ2dUdhXzlFSkZhcVRha1MySzRWaTRoNnhpaHU40gHWAUFVX3lxTE04bEhaVHU5UWgyMWhRb1RwbDBXejRhcWFPR3E4emp3R1podlMtUnN1VDFZSXNscXpyRWs1aF9ZZGsxT1dESGNsUU05Si1NYTQ0NHd4bGJydFdjN2kyRERPZWxiejFqUGg4MEgwcFdQSWJKT2RkdmZwUWFmWWRhV3lKbFFlZ1M4VmhtdkZnbHZOZzNrVncydDhzdV9XWjVCUTRVSWhJOW5SWU5QMjBkaWpDdkgxYUlaQzY4Uk1fcmhQQnd6SGJRMjhUTG5rR1ZCYXREdTRyTnc?oc=5
 
-- What is the state of the environment in India? | Explained - The Hindu
-  What is the state of the environment in India?
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
+- India plays an important role in maintaining stability in the region: Taiwanese legislator Chia-Pin Chung - News On AIR
+  India plays an important role in maintaining stability in the region: Taiwanese legislator Ch
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNaF80TEc5U3NVczRSRW16Z2c2STFrYTl4VTJoOXFJUXpYNURYdThUMkVEWnY3RWFfTGwzNUJxTzYzSXZPT3A0bDgzUmtCNHFaNk1iU3p1dHV5eFdSVVZzb01COGhGN3NJWUF2TUQ5RU9Mb0pkYmdsckpVWlJyR2hKYzVyelE3WlI1b3JyR2hDVk9qNkw0Tk9VQi11WnFHTUQ2RF9pVGk2Z0N4RGxzM3hNdFF5WkYzWjdQSk85RFQtOVRfWDdvOXlDUFNwOHhvems?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
-
-- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
-  "Never Depended On Permission": India
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
-
-- ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
-  ‘Never dependent on permission’: Government official on US ‘wa
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
-
-- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
-  Band Baaja Bitiya: The heartwarming tale of a father,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
-
-- What is the state of the environment in India? | Explained - The Hindu
-  What is the state of the environment in India?
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Madhya Pradesh Trainee Cops Told To Start Day With 'Dakshinamurthy Shloka' - NDTV
+  Madhya Pradesh Trainee Cops Told
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUNMelVjWVFlaGwzWFBtQU1NMWpLclNkVk42bTczcFVoMUl1MnNFeDFqMmhoVUVWeERUblh6QzktZzk2NkdMZlppUkZWUVJPOTJZRUd6WGk1QlJ0SzREUHNGU24za1JXMWd2ZGJ0c0d2R0liT1E5V0RCdHNTaWhzcXJNTGtlb1l1OXpDU0M4eUNHMmFXeTV2cEFtekhEaFNnR2N2YlRjVGRKakRuTEtkYjY2RDVmZ2NFWXd3Vk1NaGtJbDJnaGJxUURaaXQxd9IB1gFBVV95cUxPMlhpbUdSRkJCb2RmWk44M2VTSjRuSV9wWk1IbVJ6d3pEcVdiQVl3aUZsOTU0MXczR25lcWdhTzJIS09hZG44aFVPa2ExTzBjMWpCbVhzNER3UjlVcXVLTkxORHcyaHVBd3NVWHQ0SlpXZTBsT0UyRjc4bHY0ZzFuVFJwWWxaaWx0dFA4QUMxbXRaVVlBM3ZSSHhaZjZaTVdld3JqRFEtdUQzdElRdlNvdWc1emkyVURSb1pzbHJyZ3BlWExJYzhQbTRSS0VXd1R5cFZKSWN3?oc=5
 
 
-_Last updated: 2026-03-08 01:48:10 UTC_
+_Last updated: 2026-03-08 06:40:41 UTC_
