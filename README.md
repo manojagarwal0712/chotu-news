@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Iran-Israel war: Air India, Air India Express to operate 50+ flights to six Middle East cities on March 8 – Full list
+- Self-taught Jharkhand developer builds dictionary app to keep Ho language alive – ‘Language is one of the biggest markers of our identity
   
-  🔗 https://indianexpress.com/article/india/iran-israel-war-air-india-50-flights-6-middle-east-cities-march-8-full-list-10570374/
+  🔗 https://indianexpress.com/article/india/self-taught-jharkhand-developer-builds-dictionary-app-to-keep-ho-language-alive-10570415/
 
-- Many who protested after Khamenei’s killing arrested in Kashmir, Mehbooba says
+- BJP leader ‘arrested for growing opium on 5-acre farm’ in Chhattisgarh, suspended from party
   
-  🔗 https://indianexpress.com/article/india/mehbooba-mufti-khamenei-protests-arrests-kashmir-police-internet-restored-10570351/
+  🔗 https://indianexpress.com/article/india/bjp-leader-arrested-for-growing-opium-on-5-acre-farm-in-chhattisgarh-suspended-from-party-10570486/
 
-- Indians make ‘good ambassadors’, integrate easily abroad: Chandrababu Naidu at Raisina Dialogue
+- Study: Rs 54K expenses per hospitalisation in pvt facilities under PMJAY
   
-  🔗 https://indianexpress.com/article/india/indians-make-good-ambassadors-integrate-easily-abroad-chandrababu-naidu-at-raisina-dialogue-10570323/
+  🔗 https://indianexpress.com/article/india/study-rs-54k-expenses-per-hospitalisation-in-pvt-facilities-under-pmjay-10570543/
 
-- Kedarnath to Kanyakumari, infiltrators will be driven out: Amit Shah in Uttarakhand
+- For two years, her IFS dream was written on the wall. This week, Kerala’s Sreeja J S achieved it
   
-  🔗 https://indianexpress.com/article/india/amit-shah-haridwar-rally-infiltrators-dhami-government-4-years-ucc-caa-10570270/
+  🔗 https://indianexpress.com/article/india/for-two-years-her-ifs-dream-was-written-on-the-wall-this-week-keralas-sreeja-j-s-achieved-it-10570503/
 
-- ‘My experience made me strong’: Cancer survivor cracks UPSC after 14-year battle, secures AIR 946
+- Heatwave alert for Vidarbha, Andhra, TN, Gujarat until March 11
   
-  🔗 https://indianexpress.com/article/india/cancer-survivor-upsc-air-146-10570220/
+  🔗 https://indianexpress.com/article/india/heatwave-alert-for-vidarbha-andhra-tn-gujarat-until-march-11-10570573/
 
 - Google Pixel 10 vs Pixel 10a: A closer look at design, display, and camera upgrades
   
@@ -40,25 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/mobile-tabs/jolla-phone-sailfish-os-linux-privacy-features-price-specs-10569504/
 
+- In charts: The final report card of Buffett's era and Greg Abel’s challenges
+  Greg Abel faces the formidable challenge of maintaining Berkshire Hathaway’s historic legacy while managing a record
+  🔗 https://www.livemint.com/companies/news/warren-buffett-final-report-card-greg-abel-challenges-berkshire-hathaway-11772804453762.html
+
+- ‘Just go for it’: Cognizant's Sreedevi Palit talks about imposter syndrome, framing policies, and more on Women's Day
+  Sreedevi Palit Human Resources and D&amp;amp;I chief at Cognizant believes this year's theme ‘Give to Gain’ is a call to action for
+  🔗 https://www.livemint.com/companies/people/womens-day-2026-cognizant-sreedevi-palit-imposter-syndrome-frame-corporate-policies-advice-entrepreneurs-pay-it-forward-11772788687158.html
+
+- New Mountain Scraps $32 Billion Deal With Ex-Executive Holt
+  New Mountain Capital has scrapped a deal with one of its former top executives. The veteran dealmaker was trying to acquire five portfolio companies.
+  🔗 https://www.livemint.com/companies/new-mountain-scraps-32-billion-deal-with-ex-executive-holt-11772928436229.html
+
+- OpenAI’s Head of Robotics Resigns Over Company’s Pentagon Deal
+  The head of OpenAI’s robotics team resigned Saturday. He cited the company's deal to deploy
+  🔗 https://www.livemint.com/companies/openais-head-of-robotics-resigns-over-company-s-pentagon-deal-11772923969241.html
+
 - JP Morgan CEO Jamie Dimon says AI can enable a four-day work week for employees
   Jamie Dimon, CEO of JP Morgan, believes AI could reduce the
   🔗 https://www.livemint.com/companies/people/jp-morgan-ceo-jamie-dimon-says-ai-can-enable-a-four-day-work-week-for-employees-11772902434269.html
 
-- Who is Shaan Patel? 22-year old entrepreneur launches quant investment company
-  Shaan Patel is a 22-year-old entrepreneur from Gujarat. He has launched Shaan
-  🔗 https://www.livemint.com/companies/people/who-is-shaan-patel-22-year-old-entrepreneur-launches-quant-investment-company-11772898766037.html
+- In a growing portion of India, nearly every third investor is now a woman
+  The set of states with a female investor participation rate of at least 30% has now expanded to include Goa, Mizoram, Sikkim and
+  🔗 https://www.livemint.com/market/stock-market-news/women-investors-india-indian-stock-market-11772802075160.html
 
-- Sundar Pichai net worth: What Google’s latest pay package means for the Indian-origin CEO's wealth?
-  Sundar Pichai's new compensation package worth $692 million will make him one of the highest-paid CEOs globally
-  🔗 https://www.livemint.com/companies/people/sundar-pichai-net-worth-what-google-s-latest-pay-package-means-for-the-indian-origin-ceos-wealth-11772887373409.html
-
-- Ukraine’s low-cost Shahed killers draw US and Gulf interest, but a wartime ban blocks sales
-   Ukraine’s low-cost Shahed killers
-  🔗 https://www.livemint.com/companies/ukraines-low-cost-shahed-killers-draw-us-and-gulf-interest-but-a-wartime-ban-blocks-sales-11772889563998.html
-
-- Porter founders Pranav Goel, Uttam Digga win EY Entrepreneur Of The Year 2025 in start-up category
-  Pranav Goel and Uttam Digga won EY's Entrepreneur Of The Year 2025 Award
-  🔗 https://www.livemint.com/companies/people/porter-founders-pranav-goel-uttam-digga-win-ey-entrepreneur-of-the-year-2025-in-start-up-category-11772886223984.html
+- Traders Snatch Up Derivatives as Risks Grow: Credit Weekly
+  A weakening US jobs market. Artificial intelligence and the potential demise of whole industries. War
+  🔗 https://www.livemint.com/market/traders-snatch-up-derivatives-as-risks-grow-credit-weekly-11772915132294.html
 
 - Stock to buy: Sumeet Bagadia of Choice Broking has recommended this FMCG stock as his Women's Day Pick
   Choice Broking recommends buying Colgate-Palmolive at 2200 to 2160 levels, anticipating potential
@@ -71,14 +79,6 @@
 - US-Iran war: Why US Dollar is rising despite soaring crude oil prices? SBI report explains
   The US Dollar index gained 1.3% for the week, marking its strongest weekly rise since mid-November 2024. Rising tensions
   🔗 https://www.livemint.com/market/usiran-war-why-us-dollar-is-rising-despite-soaring-crude-oil-prices-sbi-report-explains-11772870760757.html
-
-- A winning blue-chip fund flips the script on the AI trade
-  The Schwab US Dividend Equity ETF is trouncing the S&amp;P 500 this year.
-  🔗 https://www.livemint.com/market/stock-market-news/a-winning-blue-chip-fund-flips-the-script-on-the-ai-trade-11772870577790.html
-
-- Upcoming IPOs: Rajputana Stainless IPO, Innovision IPO among new issues to open next week; check full list here
-  The Rajputana Stainless IPO and Innovision IPO will open for bidding in the coming week. In the SME segment, the Apsis Aerocom IPO is scheduled
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-rajputana-stainless-ipo-innovision-ipo-among-new-issues-to-open-next-week-check-full-list-here-11772866689611.html
 
 - Samsung Galaxy A36, A56 specifications leaked ahead of launch, price range tipped
   The A37 could be 7.4mm thick, while the A57 could be slimmer at 6.9mm. The A37
@@ -99,26 +99,6 @@
 - WhatsApp could soon offer a paid subscription tier with exclusive stickers and ringtones: Report
   WhatsApp is reportedly developing a premium subscription plan called WhatsApp Plus. The new plan could offer features like customized app icon
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-offer-a-paid-subscription-tier-with-exclusive-stickers-and-ringtones-report-11772766720190.html
-
-- Dow falls 450 points, posts worst week in nearly a year as oil tops $90, jobs data disappoints: Live updates - CNBC
-  US stock market rebounds as oil prices stop spiking. Dow falls 450 points, posts worst week in nearly a year as oil tops $90.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB3MXF4cTl4THdfRVlZaTRvVU5rRDdDYldDcXJGSWR6dTBoOHVhRkVqVkNnMzVkcW9Xa0c5T0VTTjdqZmM4dmVyUlhzMXVNNjVTQXVWSllPYzk1M3RJUzRQdDdLRHVXczIzWFcydThscHZobXBnZ2xr0gF8QVVfeXFMT1BVclhGZDM1U3l6Q2RVZm54eElyMVRWTkNyV2RUajVWRUZhVTZjZ0ZsVXpueGlPc0JoZ1B2NVI3bEsyRGF2NnNQbHJHRU1pZEUyU3BZUHVDZGxvVFM5UDFaYU9KOFhHM2NEM2dfVC15ZjA1YUIzMjNEWWxRUA?oc=5
-
-- Traders aghast at dumping of medical waste inside Mattuthavani vegetable market - The Hindu
-  Traders aghast at dumping of medical waste
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdDlsRjROWWpwUUdTemxBRVhqMEFMTUgtc1hHZmZFZE5JTnQ3UHgyWnZfV0JnRjBKR28tTGJTWmtRckdjb3htOHZNTXU5MTlwTm85TGtoWS1sd2RidUtRUFQyNGd0Z1ZXZUhFRXRpRlJZcFdJOEFvVkpDbkFRU2NGclF3VU02VUVlQVBWSHdTQjgxMEZrU0d6QnVXeXYxNzlpeGUxMF8tUGgtZEpqR0ZmaG04MnRPNVY2X2RFTFZ3UzZhSnVYamdkSjJNQWgtc1JadVZCaEhNbTBQVk850gHjAUFVX3lxTE95bC02eThreTQ1d0dyYlo5ZGxtRDZ5RTJMNUdNTk1RZHZoUC1vN2g3eVJjWU9pZTRQUk5ndkhMSDk1eGQtb2Y4TUNSSVdETVJHcGNWZ1QySG1hM1ZneGxMYWZzZnYyMkNDY3htRlJJV0NrNFE5SE1UTXA1MFhUNzVJaDZWRFJUZW5SVjRpbEV3d0ZSOXVLQUIwMzlPdnh4MkxWa09ROWN3RTVWSFZXTlppZjJuREllOHV0d3VxNl9KZUVheklHVEZ0Y2tXcjFXNVZDLUNkQkRoUm92ME85OUxBcWZv?oc=5
-
-- Best Mutual Fund Strategies to Follow During War and Market Uncertainty - Equitymaster
-  Best Mutual Fund Strategies to Follow During War and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVldKMVZ4Y0paa19aSnFJb09EY3EyMDRySEpQbVgtSW9SMnJfUUdPOWltOGF0U042OWtDdFNxR0FGeTVMc2FKYmJUTkZfYmxoZF9SRk56MlhqdndHT1NMcHM1b3hmZ09tdFJULUJHZS10ZXFORDJqUjlxRFc2b1R5MjRqZlY5QTh2SVl2RVhkWGpTQ1RlSDJBQW96Q0JYY2Yxd19mRWhVX25xRXpWN0tqLTJ2Q0IyRldlVS1tTVA5Z0lrcVNWeGtoa2wzenVaZHQzdVpNdW8wU2RSTVVtcmVPVVlBRUZLNFpCUnkwWFpPQ2dfZw?oc=5
-
-- A Large-Cap Fund For Volatile Markets - BusinessLine
-  A Large-Cap
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdE11d2U2ZDFYQl93YmJ6eE05dlZka2VGVlhyVzRNMFBsX3lHcG1aSkp1b29RbEM2VVBwNjdTdXgyaWp0VVNvV1Q1eXZVREtON0toeE5OMkt4Z194bGxhdVh4MEhwcUpaeDFIS1d4QmdyeWtrM2dWT2ltR2ZjVWxsQ0VuU2lvVVBEeE00RmdGb1FjMnhXMkhnVHhxUVJBWG01T3l6Q1llenNiY0tSNnpFNm5tWkoxS24t0gG_AUFVX3lxTE9SZnh6WS1yRjJnVGI4WkVRSEFWT2Rhb1JiOGF6YTR2R0dia1doZkQyWnYxOVM1b0RobGllQld5Y180S1J4bFJCejdJM1hrdzZPRXdzOXd6cllQUnd0S0k0ZUVkNEVPVXFJTUVvUUxvWnN2bmJYNm1jTFQ3cE1ySkNIWXV0ZlZUNS1ueWhhVWpKTlloNXlHSVVBdzBFZ2N2dGtoVVJqUmgza3pZbldIdFV0TFZfeWNqclJiTTQzVG5r?oc=5
-
-- The Middle East and Global Energy Markets – Topics - IEA – International Energy Agency
-  The Middle East and Global Energy Markets – Topics.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9kNS1IdFp6WjVuS1piMEtENVRTTUhhR2ZpRktvQnJ6Tm1WZ2ktb3FHckplNWc4UHNFd0V4S0FmNnktMnQ4WWtPRm9hSmQ1ejZLRGVWajM5ZEtJWkRkTWJxeFdES1JraFQ4MDBhSkN3MmRsNklfc2ZB?oc=5
 
 - Dalal Street Week Ahead: Defensive, stock-specific approach advised to protect gains
   Rising volatility and weakening market breadth signal caution for investors. While some sectors like Infrastructure and Pharma show relative strength, others are under pressure.
@@ -144,81 +124,81 @@
   US allows India to buy Russian oil during US-
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
 
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
+- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
+  "Never Depended On Permission": India
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
 - ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
   ‘Never dependent on permission’: Government official on US ‘wa
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
 
-- 90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops - NDTV
-  90-year-old Woman Raped By
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNUU11NG9RZmY4aEQyZWRfaDVoak1Cenhya1pQZk41Yk9NdXBzcmNNc3hNZDNYNXFXYTBVU2xMVzNfa28wRUNkcG15WHhGaFFVZThfbnN2U3M4cURkVF8xU3dIUW1ob1RDY2lTYXdseFlNR3o1ZTNDSWNmZDJkZjlFaUlkaUpYU1p0Q05ETGw0S2lpaG82Y2xsM1JmNmh6UG5aY3N2X1Fn0gGuAUFVX3lxTE0wTXUwWGp0aXhwR2tsY0IwRkppc1RCRWJGX3VjSDZuZWdSQ1V0QzBwOWlHZS1nMElndU5kSF9qTnJDUERiZ3JvZHVmdkVMS2Q5anFPejU0dUhWdUV3Y1kzZlI5RFFMZmRMNUMyYko1NE5YOTVQNXljbnV3S3lrcV9feGxIVDM1TGxxNW1IdF9sc2J6V1NrSHBhN0JHRDgxRUJVVU1WMzExVmRtRlp5Zw?oc=5
+- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
+  Band Baaja Bitiya: The heartwarming tale of a father,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
 
-- Assam Group Stuck In Dubai Posts Video, Appeals For Help - NDTV
-  Assam Group Stuck In Dubai Posts
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG5IMzc0SWxhRlU1U0dqbHpzZGhsUC1tcElTSTBsSUNpX2pfb0NocjRabEM4bVBiR1JBMGJWdW92ZTRQeEtmU09fVlR5c0J4VlJqUGJhN2lUeThMcS1COHFwbmxSa2VwQUhzV3JhaUVKUHREZ1ZneXRTaVhzMzhFRlFUUklLVldOQ1JFWlFibFJQZ2MtaTR6RUstQ3JHOXp0dmxjWmZ0Y1NDVmNzd3NrRlNEUFrSAbwBQVVfeXFMUDFZSUs3aHRDMUN0eUtpSWxqekg4V0hnX0JoTlVFQWU2NnhlMUptSW5tYnd4alJIOUppanV5aWczZ01pTHVPUDU3Wmpkd0JkSHNHblc2bVhSWXowc2J0NlZNd3VmVVNES0FJdnhTdWJyMlUweXk3aFVKUTBFaU9zMTlJNXVWbnI3YjYzWGExd0lxTWxyNEIzS0YtMGdpNmRzVXNwR1FOYUY4ZmpSanFTekxwcHgtN1ZOaTZXazE?oc=5
+- What is the state of the environment in India? | Explained - The Hindu
+  What is the state of the environment in India?
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
 
 - US allows India to buy Russian oil during US-Israel war with Iran - BBC
   US allows India to buy Russian oil during US-
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
 
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
+- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
+  "Never Depended On Permission": India
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
 - ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
   ‘Never dependent on permission’: Government official on US ‘wa
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
 
-- 90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops - NDTV
-  90-year-old Woman Raped By
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNUU11NG9RZmY4aEQyZWRfaDVoak1Cenhya1pQZk41Yk9NdXBzcmNNc3hNZDNYNXFXYTBVU2xMVzNfa28wRUNkcG15WHhGaFFVZThfbnN2U3M4cURkVF8xU3dIUW1ob1RDY2lTYXdseFlNR3o1ZTNDSWNmZDJkZjlFaUlkaUpYU1p0Q05ETGw0S2lpaG82Y2xsM1JmNmh6UG5aY3N2X1Fn0gGuAUFVX3lxTE0wTXUwWGp0aXhwR2tsY0IwRkppc1RCRWJGX3VjSDZuZWdSQ1V0QzBwOWlHZS1nMElndU5kSF9qTnJDUERiZ3JvZHVmdkVMS2Q5anFPejU0dUhWdUV3Y1kzZlI5RFFMZmRMNUMyYko1NE5YOTVQNXljbnV3S3lrcV9feGxIVDM1TGxxNW1IdF9sc2J6V1NrSHBhN0JHRDgxRUJVVU1WMzExVmRtRlp5Zw?oc=5
+- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
+  Band Baaja Bitiya: The heartwarming tale of a father,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
 
-- Assam Group Stuck In Dubai Posts Video, Appeals For Help - NDTV
-  Assam Group Stuck In Dubai Posts
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG5IMzc0SWxhRlU1U0dqbHpzZGhsUC1tcElTSTBsSUNpX2pfb0NocjRabEM4bVBiR1JBMGJWdW92ZTRQeEtmU09fVlR5c0J4VlJqUGJhN2lUeThMcS1COHFwbmxSa2VwQUhzV3JhaUVKUHREZ1ZneXRTaVhzMzhFRlFUUklLVldOQ1JFWlFibFJQZ2MtaTR6RUstQ3JHOXp0dmxjWmZ0Y1NDVmNzd3NrRlNEUFrSAbwBQVVfeXFMUDFZSUs3aHRDMUN0eUtpSWxqekg4V0hnX0JoTlVFQWU2NnhlMUptSW5tYnd4alJIOUppanV5aWczZ01pTHVPUDU3Wmpkd0JkSHNHblc2bVhSWXowc2J0NlZNd3VmVVNES0FJdnhTdWJyMlUweXk3aFVKUTBFaU9zMTlJNXVWbnI3YjYzWGExd0lxTWxyNEIzS0YtMGdpNmRzVXNwR1FOYUY4ZmpSanFTekxwcHgtN1ZOaTZXazE?oc=5
+- What is the state of the environment in India? | Explained - The Hindu
+  What is the state of the environment in India?
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
 
 - US allows India to buy Russian oil during US-Israel war with Iran - BBC
   US allows India to buy Russian oil during US-
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
 
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
+- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
+  "Never Depended On Permission": India
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
 - ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
   ‘Never dependent on permission’: Government official on US ‘wa
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
 
-- 90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops - NDTV
-  90-year-old Woman Raped By
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNUU11NG9RZmY4aEQyZWRfaDVoak1Cenhya1pQZk41Yk9NdXBzcmNNc3hNZDNYNXFXYTBVU2xMVzNfa28wRUNkcG15WHhGaFFVZThfbnN2U3M4cURkVF8xU3dIUW1ob1RDY2lTYXdseFlNR3o1ZTNDSWNmZDJkZjlFaUlkaUpYU1p0Q05ETGw0S2lpaG82Y2xsM1JmNmh6UG5aY3N2X1Fn0gGuAUFVX3lxTE0wTXUwWGp0aXhwR2tsY0IwRkppc1RCRWJGX3VjSDZuZWdSQ1V0QzBwOWlHZS1nMElndU5kSF9qTnJDUERiZ3JvZHVmdkVMS2Q5anFPejU0dUhWdUV3Y1kzZlI5RFFMZmRMNUMyYko1NE5YOTVQNXljbnV3S3lrcV9feGxIVDM1TGxxNW1IdF9sc2J6V1NrSHBhN0JHRDgxRUJVVU1WMzExVmRtRlp5Zw?oc=5
+- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
+  Band Baaja Bitiya: The heartwarming tale of a father,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
 
-- Assam Group Stuck In Dubai Posts Video, Appeals For Help - NDTV
-  Assam Group Stuck In Dubai Posts
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG5IMzc0SWxhRlU1U0dqbHpzZGhsUC1tcElTSTBsSUNpX2pfb0NocjRabEM4bVBiR1JBMGJWdW92ZTRQeEtmU09fVlR5c0J4VlJqUGJhN2lUeThMcS1COHFwbmxSa2VwQUhzV3JhaUVKUHREZ1ZneXRTaVhzMzhFRlFUUklLVldOQ1JFWlFibFJQZ2MtaTR6RUstQ3JHOXp0dmxjWmZ0Y1NDVmNzd3NrRlNEUFrSAbwBQVVfeXFMUDFZSUs3aHRDMUN0eUtpSWxqekg4V0hnX0JoTlVFQWU2NnhlMUptSW5tYnd4alJIOUppanV5aWczZ01pTHVPUDU3Wmpkd0JkSHNHblc2bVhSWXowc2J0NlZNd3VmVVNES0FJdnhTdWJyMlUweXk3aFVKUTBFaU9zMTlJNXVWbnI3YjYzWGExd0lxTWxyNEIzS0YtMGdpNmRzVXNwR1FOYUY4ZmpSanFTekxwcHgtN1ZOaTZXazE?oc=5
+- What is the state of the environment in India? | Explained - The Hindu
+  What is the state of the environment in India?
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
 
 - US allows India to buy Russian oil during US-Israel war with Iran - BBC
   US allows India to buy Russian oil during US-
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
 
-- 'Reached Out To India To Buy Russian Oil To Ease Global Markets': US - NDTV
-  'Reached Out To India To Buy Russian Oil To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTXF5YU5UYzBvQWZTX2M2XzI3NlBkYjF1YkUtQVdUWXBJWmgtRWlDRy1nRmtUSWNWMUNzTDhXajdFQWlfa3VaY3dUa1BKRDlKejlNclJ1dlMyMW0xUUZCdU1vczZRSG1NaTZYNHhLYjU4YkJTQURKUkdPc3FSXzVKaU5OdEhuZzZBMGtQWHFDZlhPMzNpU2Rpa1dtdmE1a0dwVGt3azFpUEpmd9IBsgFBVV95cUxNbkFONWRhZ3hzbUZ3SWRTZ1VIWFM0bUxKVVNmY3BoeTJ2dFcxbEJQbmFLaUVEa0pxQ1BPR1VmWEZzcmZSWGFpRk5NY0U3VmdXUFV2dGswUzdreS14WUtJWVZOYnoxRnV4RWtfYVZwU1R3V0d5TF9XZllENDFSdkloQWRDOC1kWElzb3dHSUR2bVNMNkUxZ01tWXZJZTJHbUFZVFd2NWFqZ3NZLTNfck9KNHJR?oc=5
+- "Never Depended On Permission": India On Trump's 30-Day Russian Oil Waiver - NDTV
+  "Never Depended On Permission": India
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUkszQUZNNHAtZU9vMHY5ckZlNnVRZ1o3Z1hXaGc0cF9mLXhlMFJhSGxldC1XWU9fM0EzcU13Z3RROHBPNnJ2QzhjRWJmSVdQTzlQejJVNHVoVUpfWW1oN0J4MVBHRmJ5QlpPNzFUMldBV0V4NnVzeFVSNnVmZ09YOXE4dGItbE9kaVgtUVBRNVJaeER4WEh2WTY4c3JlclBFOHA2Sks1bXJYSnNWc19SRFJidHp5cnJjU24wbnNwcXRIZW82UlJqWHhlYzV5YTBqYjhpNnNua2hPeHRrYXM5dGxEOUpoaDVMcFFJb2ZkUzZLa1RxQVHSAf4BQVVfeXFMUHNXaTUwd3FMaTZwSlZWNmlhNnJta1ZNcGwwNDVfWFBxdzRSaGEzQ3V4TkxVUURDZkJ3WF9UX0hKbWtxRXpURDgySDhWOERHYl8zX2NGR3lQeEozeER3dGpGLUtHVFF4cDBTVkFkTUs1VzBXeWZyY3c3UWFYQnFtZHBSckdVNDdVQTJOLWhjaWZPdWxsakpNSW5laFlqVVltZzdrOEdzMzFIRlJnaWxMM1YzU3pnNW5XSEhXMXVMT0I0ek5Eb1JZbHdiT1Y3RXZmbi0wOHJwdThmNzFSQURYYkkzNU9udHhTcXh5eGdWa0Y3VzcyeHJVMVRUeEpqZHc?oc=5
 
 - ‘Never dependent on permission’: Government official on US ‘waiver’ for India to import Russian oil - The Times of India
   ‘Never dependent on permission’: Government official on US ‘wa
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQWi05RVhnV29iQzAteGRnYzZBSFRKcHBFVWdfbUIxR05SNVZyMS1MMXBQYUFxWEtzQVR5eHd0aHdHbHVFYzllN092OW56V1ExcnBGY211MjhTZThjYm8wLTJQT2dndEdPN0txd0I0cWhianI3RGV6ZzRrZlJReDRpZ192Mlk3TER3ZGl2S2liY0xMajJUMmdwaEE0TndSWHRDQktfejJSa3kwdEZNUENDRVUyamtDa2E5WF9Palc0RTkzMWxBRXpWOGpBSVZSZmIyUHhQX2ZySE92dktjdlpKRVIydHlSbjNkRnUzS1ZEeHR5dVczYnZzZkdWT3hKX0dSUW1kLUdXRk9xellf0gGSAkFVX3lxTE53X1hNWU1RQWR2YnpJdHh0MWdNYk53anlZcVhubkwteV9DMzNaVEhrUXlSX3pDVUpTenNJa2YwVnZTTE9YT1RLcEY5M1ktT1FsOUFoNUNDUGYtTVF3UWRzZXlMQzNqalduanAzcF93eXJ4XzJUY1IxckVDbE1mZjlqN0FvRkxNRFFrTjFHT3J2QTE4ckw2YmJqYXNTWS1PRzhiOW9hVWVMY05tc3BZTWwyVDk5RjBYTjlFUzZQcXRNMXFNSzBiNHdpdlh1anJZa0xSc2hJTTBrWWlBc09qdmNrcFdqTkhwcFRubUhQMXNETzZzVHhIQkprNlp6YmVmYUcwR01KVkE2SFJXcjJkZ1JoS3c?oc=5
 
-- 90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops - NDTV
-  90-year-old Woman Raped By
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNUU11NG9RZmY4aEQyZWRfaDVoak1Cenhya1pQZk41Yk9NdXBzcmNNc3hNZDNYNXFXYTBVU2xMVzNfa28wRUNkcG15WHhGaFFVZThfbnN2U3M4cURkVF8xU3dIUW1ob1RDY2lTYXdseFlNR3o1ZTNDSWNmZDJkZjlFaUlkaUpYU1p0Q05ETGw0S2lpaG82Y2xsM1JmNmh6UG5aY3N2X1Fn0gGuAUFVX3lxTE0wTXUwWGp0aXhwR2tsY0IwRkppc1RCRWJGX3VjSDZuZWdSQ1V0QzBwOWlHZS1nMElndU5kSF9qTnJDUERiZ3JvZHVmdkVMS2Q5anFPejU0dUhWdUV3Y1kzZlI5RFFMZmRMNUMyYko1NE5YOTVQNXljbnV3S3lrcV9feGxIVDM1TGxxNW1IdF9sc2J6V1NrSHBhN0JHRDgxRUJVVU1WMzExVmRtRlp5Zw?oc=5
+- Band Baaja Bitiya: The heartwarming tale of a father, daughter and a wedding band wowing India - BBC
+  Band Baaja Bitiya: The heartwarming tale of a father,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOTlTVnlLR0F4ZzF5WEU2dEJYM09CRzFiVndsN0RfVlFhbHZFczdybVo4ZXdwWnJoSDFBNHRHT2tYdzdsYnVqRENyZDFhXzJhWUZaRU9rQlNxUQ?oc=5
 
-- Assam Group Stuck In Dubai Posts Video, Appeals For Help - NDTV
-  Assam Group Stuck In Dubai Posts
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOTG5IMzc0SWxhRlU1U0dqbHpzZGhsUC1tcElTSTBsSUNpX2pfb0NocjRabEM4bVBiR1JBMGJWdW92ZTRQeEtmU09fVlR5c0J4VlJqUGJhN2lUeThMcS1COHFwbmxSa2VwQUhzV3JhaUVKUHREZ1ZneXRTaVhzMzhFRlFUUklLVldOQ1JFWlFibFJQZ2MtaTR6RUstQ3JHOXp0dmxjWmZ0Y1NDVmNzd3NrRlNEUFrSAbwBQVVfeXFMUDFZSUs3aHRDMUN0eUtpSWxqekg4V0hnX0JoTlVFQWU2NnhlMUptSW5tYnd4alJIOUppanV5aWczZ01pTHVPUDU3Wmpkd0JkSHNHblc2bVhSWXowc2J0NlZNd3VmVVNES0FJdnhTdWJyMlUweXk3aFVKUTBFaU9zMTlJNXVWbnI3YjYzWGExd0lxTWxyNEIzS0YtMGdpNmRzVXNwR1FOYUY4ZmpSanFTekxwcHgtN1ZOaTZXazE?oc=5
+- What is the state of the environment in India? | Explained - The Hindu
+  What is the state of the environment in India?
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1JlOERKNHVWLXZ3WU5sWkJyOEJuYzNLbDh1b3pEUGNBRGhOaktmUFFjVURNdGZRczhwd1dRZlFhdURSSVdScmpYbXJxRnJhN3pQWHI5Q2xDSUtxdFFIUHhralFsR19DZnVlOGVqb3FpUVgyYjNiVXFmaUp4Zm1zYlNyb19VdzgwUHRkcm5kN2NITEdWZEV1YUpKOW15MFBNSThoTFR2LXA2TXd0YmJMVWozNmZTRWtuVzh2aTZzdHo3bGJFY01TN3BLQTY?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-07 18:31:22 UTC_
+_Last updated: 2026-03-08 01:48:10 UTC_
