@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- India remains in favour of peace, dialogue, advocates de-escalation: Jaishankar on Middle East war
+- 54 communal riots, 7 mob lynchings in Odisha in last 2 years, CM tells Assembly
   
-  🔗 https://indianexpress.com/article/india/jaishankar-middle-east-war-indians-iran-israel-us-10572580/
+  🔗 https://indianexpress.com/article/india/odisha-communal-riots-mob-lynchings-cm-majhi-data-house-10573136/
 
-- Parliament Budget Session 2026 Live Updates | ‘India remains in favour of peace, return to dialogue & diplomacy’: S Jaishankar on Middle East conflict
+- Accusing PM of ‘destroying India’s standing’, Congress protests in J-K over US trade deal, statehood
   
-  🔗 https://indianexpress.com/article/india/parliament-budget-session-live-updates-om-birla-no-confidence-motion-lok-sabha-debate-us-trade-deal-iran-war-jaishankar-march-9-latest-news-10572325/
+  🔗 https://indianexpress.com/article/india/accusing-pm-of-destroying-indias-standing-congress-protests-in-j-k-over-us-trade-deal-statehood-10573120/
 
-- Commercial space stations the next big thing in space
+- ‘PM ran away’: Rahul Gandhi targets Modi over US deal and West Asia silence as Lok Sabha adjourned
   
-  🔗 https://indianexpress.com/article/india/commercial-space-stations-the-next-big-thing-in-space-10572240/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-modi-west-asia-parliament-lok-sabha-speaker-no-confidence-10573109/
 
-- 1 constituency and a question of ‘respect’: Raijor Dal on why alliance with Congress collapsed in Assam
+- Khamenei’s killing: Mehbooba Mufti visits Iran embassy, says praying for its victory in ‘war against evil’
   
-  🔗 https://indianexpress.com/article/india/1-constituency-and-a-question-of-respect-raijor-dal-on-why-alliance-with-congress-collapsed-in-assam-10572057/
+  🔗 https://indianexpress.com/article/india/mehbooba-mufti-iran-embassy-khamenei-killing-condolences-10573093/
 
-- Exclusive: Academic stress linked to 3 suicides on BITS Pilani Goa campus, police probe indicates
+- Indian Railways revises timings of these 4 Vande Bharat trains – Full list
   
-  🔗 https://indianexpress.com/article/india/academic-stress-personal-issues-what-probe-into-student-deaths-on-bits-pilani-goa-campus-found-10572059/
+  🔗 https://indianexpress.com/article/india/indian-railways-revises-timings-of-these-4-vande-bharat-trains-full-list-10572849/
+
+- ‘AI brain fry’: Managing AI tools is mentally draining workers who want to quit, new study warns
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-brain-fry-mentally-draining-workers-new-study-10572863/
 
 - Australians reach for VPNs, find porn sites blocked as online age-restrictions take effect
   
@@ -36,15 +40,19 @@
   
   🔗 https://indianexpress.com/article/technology/science/youve-never-seen-ants-like-this-before-10572353/
 
-- X probes offensive posts by xAI’s Grok chatbot: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/x-probes-offensive-posts-by-xais-grok-chatbot-report-10572349/
+- CCI probes links Tata, JSW to steel cartel via WhatsApp chats, production data: Report
+  Tata Steel, JSW Steel and state-run Steel Authority of India Limited, or SAIL,
+  🔗 https://www.livemint.com/companies/cci-probes-links-tata-jsw-to-steel-cartel-via-whatsapp-chats-production-data-report-11773043990854.html
+
+- 360 One Asset closes fifth private credit fund with $400 million corpus
+  The fund will provide structured credit financing to Indian companies. It will help institutional investors
+  🔗 https://www.livemint.com/companies/news/360-one-asset-closes-fifth-private-credit-fund-with-400-million-corpus-11773039046850.html
 
 - Cult.fit's fitness playbook widens: Affordable gyms, Pilates studios and products fuel growth
   The company is investing in mass-market centres like Cult Neo and premium Pilates studios. This puts it in competition with boutique studios, independent gyms and a growing wave of D2C fitness brands.
   🔗 https://www.livemint.com/companies/cultfit-fitness-gyms-pilates-consumer-products-cult-neo-lifestyle-brand-health-tech-ipo-11772977868876.html
 
-- ​'Firing Jack was the final straw': Musk attacks Twitter leadership, takes aim at OpenAI's Bret Taylor
+- ​'Firing Jack was the final straw': Elon Musk attacks Twitter leadership, takes aim at OpenAI's Bret Taylor
   Elon Musk has criticized former Twitter leadership, labeling them as 'lunatic left' and targeting Bret Taylor. He discussed Dorsey's
   🔗 https://www.livemint.com/companies/news/firing-jack-was-the-final-straw-musk-attacks-twitter-leadership-takes-aim-at-openais-bret-taylor-11773033240125.html
 
@@ -52,173 +60,165 @@
   Tamara Hospitality plans to add about 600 rooms through eight projects over the next three to five years. The company is also adopting an
   🔗 https://www.livemint.com/companies/tamara-hospitality-hotel-industry-india-mid-scal-hotels-11773027663965.html
 
-- Can summer demand, Iran conflict help Tata Power restart its Mundra plant?
-  CEO Praveer Sinha says talks with Gujarat on a revised power purchase pact are nearing completion. Analysts see rising
-  🔗 https://www.livemint.com/companies/news/can-summer-demand-iran-conflict-help-tata-power-restart-its-mundra-plant-thermal-power-11772949643159.html
+- IPO-bound PhonePe's payments business generates  ₹1,931.80 crore in adjusted EBITDA in FY25
+  The offering includes 50.66 million shares, primarily from Walmart. PhonePe has filed its Updated Draft Red Herring Prospectus with SEBI, moving closer to its IPO.
+  🔗 https://www.livemint.com/market/ipo/ipobound-phonepes-payments-business-generates-rs-1-931-80-crore-in-adjusted-ebitda-in-fy25-11773055604360.html
 
-- Zepto eyes updated IPO filing in April even as valuation comes under review
-  Aadit Palicha-led Zepto's valuation target for the IPO has come under review
-  🔗 https://www.livemint.com/companies/news/zepto-eyes-april-deadline-for-updated-drhp-as-ipo-valuations-face-investor-scrutiny-11772955714200.html
+- Rajputana Stainless IPO booked 30% on first day; GMP rises marginally. Check key details
+  Rajputana Stainless PO has seen 30% bidding so far, primarily from institutional investors. The
+  🔗 https://www.livemint.com/market/ipo/rajputana-stainless-ipo-booked-30-on-first-day-gmp-rises-marginally-check-key-details-11773057545148.html
 
-- Why are gold, silver rates today under pressure despite the escalating US-Iran war? Explained with 5 reasons
-  Gold and silver prices declined despite intensifying geopolitical tensions. The conflict involving the United States and Israel against Iran has escalated.
-  🔗 https://www.livemint.com/market/commodities/why-are-gold-silver-rates-today-under-pressure-despite-the-escalating-us-iran-war-explained-with-5-reasons-11773036599521.html
+- DIIs buy over  ₹32,000 crore in March. Can they curtail stock market crash amid FII selling?
+  Domestic institutional investors have actively purchased equities in the Indian stock market. SIP inflows in mutual funds remain strong, indicating domestic resilience.
+  🔗 https://www.livemint.com/market/stock-market-news/diis-buy-over-rs-32-000-crore-in-march-will-it-cushion-stock-market-crash-amid-fii-selling-11773048348406.html
 
-- Vodafone Idea, YES Bank to Suzlon Energy— These are the top most traded stocks on the NSE today
-  Vodafone Idea, Tata Silver Exchange Traded Fund, YES Bank among most traded stocks. ONGC, Cupid, Tata Steel, and Jupiter Wagons were among the most active stocks.
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-yes-bank-to-suzlon-energy-these-are-the-top-most-traded-stocks-on-the-nse-today-11773034182529.html
+- How much can Nifty 50 rise in case of a resolution to the US-Iran war? Check analyst targets
+  Experts suggest Nifty could recover to 24,500–25,000 if crude prices stabilise. Short-term volatility shouldn't deter long-term investors,
+  🔗 https://www.livemint.com/market/stock-market-news/how-much-can-nifty-50-rise-in-case-of-a-resolution-to-the-us-iran-war-check-analyst-targets-11773054363126.html
 
-- Paras Defence, Mazagon Dock to BEL: HDFC Sec begins coverage on 8 defence stocks amid US-Iran war - how many do you own?
-  HDFC Securities recommends Buy on Data Patterns and Apollo Micro Systems, Add on Astra Microwave and Bharat Electronics. Suggest Reduce for Paras Defence, Hindustan
-  🔗 https://www.livemint.com/market/stock-market-news/paras-defence-mazagon-dock-to-bel-hdfc-sec-initiates-coverage-on-8-defence-stocks-amid-us-iran-war-do-you-own-11773032488048.html
+- From HDFC Bank to TCS— 875 stocks touch their 52-week lows today; investors lose  ₹12 lakh crore in just 2 sessions
+  As many as 875 stocks hit their 52-week lows on the BSE. In the Sensex index, five stocks touched their one-year low levels
+  🔗 https://www.livemint.com/market/stock-market-news/from-hdfc-bank-to-tcs-875-stocks-touch-their-52-week-lows-today-investors-lose-12-lakh-crore-in-just-2-sessions-11773052498793.html
 
-- Cupid share price jumps 15% despite stock market crash. What's behind the rally?
-  Cupid share price surged 15% on March 9, following the announcement of a 4:1 bonus issue. Shareholders will receive four bonus shares for each held share
-  🔗 https://www.livemint.com/market/cupid-share-price-jumps-15-despite-stock-market-crash-as-the-stock-trades-ex-record-on-4-1-bonus-issue-11773034707899.html
+- iPhone 18 Pro, iPhone 18 Pro Max launching this year: Expected price, specs and more
+  Apple's upcoming iPhone 18 Pro and Pro Max are expected to retain similar display sizes while featuring under-display Face ID and a new unified design
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-launching-this-year-expected-price-specs-and-more-11773048981362.html
 
-- Acetech E-Commerce share price makes flat debut on NSE SME, lists at the IPO price of  ₹112
-  Acetech E-Commerce share price made a flat debut in the Indian stock market on Monday, March 9. The stock
-  🔗 https://www.livemint.com/market/stock-market-news/acetech-e-commerce-share-price-makes-flat-debut-on-nse-sme-lists-at-the-ipo-price-11773032125262.html
+- Confused between Core i5 and Ryzen 5 laptops under  ₹60000? Consider these picks for high performance
+  Choosing between Intel Core i5 and AMD Ryzen 5 laptops under  ₹60000? These options
+  🔗 https://www.livemint.com/technology/gadgets/confused-between-core-i5-and-ryzen-5-laptops-under-rs-60000-consider-these-picks-for-high-performance-11773050218523.html
 
-- Apple could expand 'Ultra' tier with an OLED MacBook and high-end iPhone: Here's what to expect
-  Apple could launch three new Ultra products this year including a foldable iPhone, advanced AirPods
-  🔗 https://www.livemint.com/technology/gadgets/apple-could-expand-ultra-tier-with-an-oled-macbook-and-high-end-iphone-heres-what-to-expect-11773025384983.html
+- Poco X8 Pro, Poco X8 Pro confirmed to launch in India on 17 March: Expected price, specs and more
+  Poco is set to launch the Poco X8 Pro and X8 Max 5G in India on March 17. Both mid-range gaming phones
+  🔗 https://www.livemint.com/technology/gadgets/poco-x8-pro-poco-x8-pro-confirmed-to-launch-in-india-on-17-march-expected-price-specs-and-more-11773049074782.html
 
-- Happy International Women's Day 2026: Top 10 AI prompts to make cinematic photos on ChatGPT, Nano Banana, Grok, others
-  International Women's Day has been celebrated every year since 1911. This year's theme is 'Rights. Justice. Action. For ALL Women and Girls' We've brought you some AI prompts to generate images for the occasion.
-  🔗 https://www.livemint.com/technology/tech-news/happy-international-womens-day-2026-top-10-ai-prompts-to-make-cinematic-photos-on-chatgpt-nano-banana-grok-others-11772943795973.html
+- Samsung Galaxy M17e 5G full specifications revealed ahead of 17 March India launch: here's what to expect
+  The Galaxy M17e 5G will debut on 17 March and is expected to come in the sub- ₹20,000 price bracket. It features a dual rear
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-m17e-5g-full-specifications-revealed-ahead-of-17-march-india-launch-heres-what-to-expect-11773043303848.html
 
-- Samsung Galaxy A36, A56 specifications leaked ahead of launch, price range tipped
-  The A37 could be 7.4mm thick, while the A57 could be slimmer at 6.9mm. The A37
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a36-a56-specifications-leaked-ahead-of-launch-price-range-tipped-11772795607440.html
+- Researchers warn AI models can successfully match anonymous internet users to their real identities
+  Generative AI has made it easier for hackers to reveal the identities of anonymous social media users. Researchers found that AI can match online profiles to real identities.
+  🔗 https://www.livemint.com/technology/tech-news/researchers-warn-ai-language-models-can-successfully-match-anonymous-internet-users-to-their-real-identities-11773037863128.html
 
-- Nothing Phone 4a vs Motorola Edge 70 Fusion: India price, specs, battery and more compared
-  The Motorola Edge 70 Fusion offers better battery life, durability, and display. The Nothing Phone 4a focuses on design and camera versatility.
-  🔗 https://www.livemint.com/technology/gadgets/nothing-phone-4a-vs-motorola-edge-70-fusion-india-price-specs-battery-and-more-compared-11772789098468.html
-
-- Realme C83 5G with 7,000mAh battery and Dimensity 6300 SoC launched in india, price starts at  ₹13,499
-  Realme C83 5G is launched in India featuring a 7000mAh battery, 6.7-inch LCD
-  🔗 https://www.livemint.com/technology/gadgets/realme-c83-5g-with-7-000mah-battery-and-dimensity-6300-soc-launched-in-india-price-starts-at-rs-13499-11772779950731.html
-
-- Oil Tops $110 as Iran War Forces More Gulf Giants to Cut Output - Bloomberg
-  <ol><li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWRJNnBldUx4S2tKTHg5SmRSaWdkUGFKbG1XSWVFNDVpLWs0YTV4WVpaSDZfbGNIbS1ZMnlLQUNSQ3F4dkZFMmpDRmExbks2TU02QkNpRnRwWUVudTRCeHdMNTNYSU1YeE
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWRJNnBldUx4S2tKTHg5SmRSaWdkUGFKbG1XSWVFNDVpLWs0YTV4WVpaSDZfbGNIbS1ZMnlLQUNSQ3F4dkZFMmpDRmExbks2TU02QkNpRnRwWUVudTRCeHdMNTNYSU1YeE1fcWt4ckMzWHJBZEFsRUlHdVVBQ3VpaGM5OWlhcDNJVk9IY3o4b1VTVDZuNlVmMVhYT2VJeFE?oc=5
-
-- Dow futures tumble over 1,000 points as U.S. oil nears $120 a barrel to begin the week's trading: Live updates - CNBC
-  Dow futures tumble over 1,000 points as U.S. oil nears $
+- Dow futures tumble 600 points as oil tops $100 a barrel, raising stagflation fear: Live updates - CNBC
+  Dow futures tumble 600 points as oil tops $100 a barrel, raising stagflation fear: Live updates.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1jZWVOSjdmd0MxR1ZqTGtMX21STEwxMVdfNW1NZklIMFFGejZTQ3AtOXB4SWFwSTBBeTVWNllvMzd6QktndW1kR3hNMmVhdFAwTktwd180Rmg2c1B0NkwyX2M1ald2RFVocGRYQnptY0ZyczJBaGdR0gF8QVVfeXFMTlRmVVlSTGRhSW4wS2RpVVNmOV9STTVYUnlRNHVzcjlvSW5vdVQzSG9kTXFGakFSRm4xcUJPcXRFWmpBUGZIWTVSekpRNndGWGJoM2FtZVJpX1hfWGkxNnRlZWNVU3QtNmlGLTZuQTkwclpzMWg1UzFQb01tUg?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex crashes over 1,900 pts, Nifty below 23,900; S... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikAJBVV95cUxPMWFlMFRkd0VmQTFpVUsyNHZ0RGdoWGJwaTNOYlBKQkg3VVlLZm9TNDBISVczblkwYklTVnZDcGUxUENnbnk4U1ZqN0xnVVlmMzI1ZFpjMC12MjBMUFNxaGRYX3JZTzN6RX
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPMWFlMFRkd0VmQTFpVUsyNHZ0RGdoWGJwaTNOYlBKQkg3VVlLZm9TNDBISVczblkwYklTVnZDcGUxUENnbnk4U1ZqN0xnVVlmMzI1ZFpjMC12MjBMUFNxaGRYX3JZTzN6RXJ6RW04MzV4LUREcWFJYWhUVnJzVXc1RHplYVczdEl0dUlXeWc4aE8tMHV0djl0X0taTDNVMVN2aHlXeE5zVW1ZMXNPYWFzMlpMN0lpSHRzTHZuTVJMYThXQzdFT3lBYV8xUmhwOFBXc25qLW1JZ0E5NTFSUkg3aFQya1BMd3g2eXgtWlFCaTdVNFRQNjBrME5UTGM0VHJsTWgtYjZIaWdpalctTG5QRtIBlgJBVV95cUxQSTdqY0FGTWVFaFB5dVNDZ21OS182TmhrMnJHdVFZc28wcjA2ZEowMGQ3dGwycFNvSkFENF9weVF2THRGT1lWRWdtM1dnWksyRU43TFczTHY0UXNsMnVlaU1wT0lDcnhCTGhfS2xXb1IxWmxIY0lQd05Qd1FpdGZic1lkLXVoamVLZWdlLU9HOENkUTY2QmRta0E4UjdvN3NwbW1yeE03MnZLcm9QQWQ1LTc4eGZibENJREdhZW0yVEw2N3RzbzBzcEFZczZudk9CSlA0RE1RN3pSQklMOWlQQ1dLcm9mZ09USXpWcUJaNXp3Q05GbGNFTTdxNEhUUWR3ZllLS1BlYU5lclF4OXJiMzlwMGJfdw?oc=5
+- Shares skid as oil surge threatens inflation shock - Reuters
+  Shares skid as oil surge
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGYxOUxvQ1c5Z0VoOGgzSEVGRFZ5MDZQMEFwekFUTzZodllydGZ2d3hST3IyT3cwQWhXUElsSWthcFU0Mk1DZm1HaDcyYmZ2b2FTTTlHWFhUNW9wQjRVYUVLTG9sNWFpS2owY0dIdmIxTlpXcXVKRHc5YXlsT2FJbThidw?oc=5
 
-- 3 Warning Signs Flashing in the Stock Market - Investing.com India
-  3 Warning Signs Flashing in the
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVdlbjh0MzFjS1pxMV9uWU81dGJMUEh5WW1Ob2U5X3cwa2VmcVNHaWlPOHg0UXAwdkhDVUJ1MmtVNG1xU1hvUTlfYkVCSHo3MVdIV3ZiOG1ta2FPMXltT2w1WXZvbE9iQTdQQUUteDdGWjcxTjJBMERXcnRYS3ZnelFLcXp1VldvcW0za0k0ZG9ndw?oc=5
+- Stock Market Highlights: Sensex Down 1,300 Points, Nifty Finishes 420 Lower - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGxBZmU4WnhVMXFmZk5PTlpjRmpEWmJJNVB4VVBMS3FlZG1wY1NOUWJXR0pydGw1NzFaNkt2UGJVSEVUQU1qWEJKd0VhTjJYaGwtU25QX05vQlAwTXQ1dVo4a3BXanhOak
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGxBZmU4WnhVMXFmZk5PTlpjRmpEWmJJNVB4VVBMS3FlZG1wY1NOUWJXR0pydGw1NzFaNkt2UGJVSEVUQU1qWEJKd0VhTjJYaGwtU25QX05vQlAwTXQ1dVo4a3BXanhOakt4M205NHlmZlBVY3YxRTZfbC11S3VCRGRoaGljX0c4WUtLUzhYWGE4X1I1V0N1NmsyUXRRUFd5WW12MXhMWHF1akxEbUllcVNVS2RXUzdQR3fSAcIBQVVfeXFMT1BnOXRHMGFhU1dCeVJxSllCTHdIbS1PQzF6N0E0Y1JkQy1vbjAtaWxuTTNqSFpESEVMMjhlUk0tRzF0NUVuRzlNdUxCRFBCSmxtQ29lRk9NNElPajdaRUw0OFhLWk5WUkh0dVM0Vk1pM3VVV1NPTU1WZ1F2NVlkbUZlaWx0SjJWTFUxd0pYbUpZRzVZeTNobFBqSHFWU0ZFbWhWREFNT0hVaFhaRV8wUV9IUFBUcGx2WnNxYXVRRHZsWnc?oc=5
 
-- What to Expect in Markets This Week: Data on Inflation, Housing, and Consumer Sentiment; Earnings From Oracle, Adobe - Investopedia
-  What to Expect in Markets This Week: Data on Inflation, Housing, and
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaURIZFJLTkpKQTF6YjVkQ3lweVBwMi1WRHJzTHRJUE5pLUhOc2ZrUFFKcE4wenZhS2d1LVo4TWNNeTBNbGdBXy1hR0I4bWlmYlZ2S2QzNTM0SVAzY3I5QThlOEJ1N2VCVVExTlRkazF3dGtIT2dqcnRkYTMxY19lUWo5VVRsbUpTMTE5MWt4cmxqMzdJQnhoa0tTWVM5MmVQd2UzWDNVRjd3aWJ3SC1zNE5qaUlsNlhFNVBMd1pDYS1xU2J6TFVKanZtZ3dCT09kRG40UTBTTzNOTG5yYWJkdUJCaUxRX2lXdWJON1k0ek4?oc=5
+- G7 nations to hold emergency meeting on oil as stock markets sink - BBC
+  G7 nations to hold emergency meeting on oil as
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSy1lNEhYY3Y0T0N6N0x2OWo4aGNtdElMRnVYMExsbEJ6d3VUbjc1VWlDaWhDVGFWWVFHOTFlZTJCUjZBX3Z5TDJvbkNnRXRGeGwyeURmUFlMZw?oc=5
 
-- Middle East tensions are hammering banks; Narendra Solanki says buy the dip
-  Middle East tensions are driving the selloff. Despite this, India's economic growth story remains strong. Sectors like Power Transmission, Consumer Durables, and Pharma are recommended for investment.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/middle-east-tensions-are-hammering-banks-narendra-solanki-says-buy-the-dip/articleshow/129316476.cms
+- West Asia conflict oil hike, market reactions LIVE: Markets tumble, Rupee closes at all-time low - The Hindu
+  The rupee closed at an all-time low against the US dollar
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbWJwMGwtZXYybDVtaF9ERlpuZWJZTkF0UDJva2NOZTFNY245SWxKOVAycHQyTkpPVlYzVExxQXVFd3ZLaG50dE9ZTE0yaU9ybHRwbVhLRkwzYTkwMERjTGtsQUtpWGZGZm5SbFpjbXU0MGpBUnRYeUo1WkxIWVJnTXJ0Z1FZUzN6U3Z5Y0FZRXI5RXNjRUFCVHVQNUdRMXU1UUpoQ0x1c0Q4R3E4eFFXdThSYWxPd1RVVncyRHZnUENCMFVjMDI0WGYyTzY3R0tQZWRmR1VWRzBQcjVoaHV0VXlVSGZQYTYyVGtiSTBzdU5BMVhRWmd5ZzBfTdIBggJBVV95cUxOcU5jX3p4Tmp0alBrNkV4cXBIenFtbDJrUnhnN3VpNk0wZnZwM0RQcnNJc1NKbGpDa3Q3dngwYjkxWVk3N2I3M1BaSGY4cHFNbC0xYm1BelN3aFZBVVNKYzNwZktnMUVHV1VQbnJGMUZlckFMeXkxMTBzUk4zOXJoVGJtZWhCNWhDUnRkMUV1NlJVNWVEMS1iVDdMZGRIUGdoUE5KZDNVVTBRNGt3M2ZCZXRxc0RjUXZzVkpMbWRLb19Wcl91cW5NNWFFYTZlWWpMTlcxRkc5ZXlGVmtNNmRnYmYtWlIzbTlCSE1TYzc5ZEdzRlYxMnUtVEpRRFg3Y1RXV2c?oc=5
 
-- HDFC Bank shares drop 4%; Nifty Bank slumps as entire banking pack falls
-  HDFC Bank shares fell over 4% on Monday as geopolitical tensions in West Asia triggered broad selling in banking stocks. The Nifty Bank index also dropped sharply with all banking stocks trading in the red.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-drop-4-nifty-bank-slumps-as-entire-banking-pack-falls/articleshow/129316688.cms
+- Investors' wealth erodes by over Rs 22 lakh cr since beginning of West Asia conflict
+   Equity investors became poorer by Rs 22.40 lakh crore since the beginning of the conflict involving the US, Israel and Iran. The BSE Sensex
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/investors-wealth-erodes-by-over-rs-22-lakh-cr-since-beginning-of-west-asia-conflict/articleshow/129334430.cms
 
-- Dubai index slides 4% as oil soars on escalating Iran conflict
-  US-Israeli conflict with Iran is widening. Oil prices surged over 25 percent. UAE stock markets saw a sharp decline early Monday.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dubai-index-slides-4-as-oil-soars-on-escalating-iran-conflict/articleshow/129316467.cms
+- Stock market quote of the day by Bill Gross | "The market can move for irrational reasons, and you have to be prepared for that."
+  Financial markets are not always rational, as investor sentiment, fear, and greed can drive sharp price swings defying traditional analysis. Understanding this psychological influence is crucial for navigating market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-bill-gross-the-market-can-move-for-irrational-reasons-and-you-have-to-be-prepared-for-that-/articleshow/129323254.cms
 
-- From Tokyo to Sydney, bonds plunge as oil breaches $115
-  Global bonds experienced a sharp decline on Monday. A worsening U.S.-Israeli conflict with Iran propelled oil prices past $115 per barrel.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/from-tokyo-to-sydney-bonds-plunge-as-oil-breaches-115/articleshow/129316349.cms
+- TCS, HDFC Bank among 5 Sensex stocks that hit 52-week lows &amp; slid up to 14% in a month
+  The Sensex plunged 1,352 points to close at 77,566 amid a broad market sell-off. Five major index stocks hit 52-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-hdfc-bank-among-5-sensex-stocks-that-hit-52-week-lows-amp-slid-up-to-14-in-a-month/slideshow/129333283.cms
 
-- Bitcoin hovers near $68K, Ethereum around $2K as oil price surge and as ETF outflows pressure crypto
-  Cryptocurrency prices are hovering near key levels. Investors are recalibrating positions amid macro uncertainty and volatile capital flows.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-68k-ethereum-around-2k-as-oil-price-surge-and-as-etf-outflows-pressure-crypto/articleshow/129315345.cms
+- BSE Index Services launches BSE SmallCap 500-based market cap and factor indices
+  BSE Index Services has launched the BSE SmallCap 500 and four factor-based indices. These rules-based benchmarks provide benchmarks for small-cap equities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-index-services-launches-bse-smallcap-500-based-market-cap-and-factor-indices/articleshow/129332539.cms
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- MCX crude oil futures rocket 62% in just 6 sessions! Should investors buy liquid gold?
+  Crude oil futures on MCX have jumped 62% in six sessions after Middle East war triggered supply fears and production cuts. Analysts warn prolonged conflict could push
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/mcx-crude-oil-futures-rocket-62-in-just-6-sessions-should-investors-buy-liquid-gold/articleshow/129332287.cms
 
-- 'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India - NDTV
-  'Take Pressure Off': Trump On Easing Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTVaTGRvOUxxZXRDMmNXeW9QcWMwbWFDdm5URzVqV3pCUk55Uzloak5nazNjUlczdUtEeUpZdlN3Q1dLcmRHZ2czenViOFlfNUNTX1MxclBxcVV5azZNbGpIY1F0U09aS05uSmktTGt5Yld1UUN5bDA0aW0xd2JLekFDcnpJRzdRV3ltYm13R2gwZUd1UW9FNnVYeVM5ZVlNWGpLYWhHSkRwUEo2RnF4aDJvUFltV195WkNRTmF4WGpWclEtLUNDedIB0AFBVV95cUxOVmZWS0R0QmVqc0JCcjkwZE45d3lMSHdBSUVTRjRMYnp6aVlyUm1TelZJUlRWYTh2R09IVWxhOGJIOXZaZFJHVWdqNmdpc0ZqNmcteTcwcGJsX1lFclZpbC1OdjZFa2tYWFpBcTQtendFTkZfUldRTGJoelpybGVFUXZWZy1DdlZLSHZRbkt4Z2JDUC1BYUdlUnUxcGJaN2N6dnh1LU1PWGNOdmFOR3VlRVF0dUktWlRNR3RpOGR6am1nYm00Y0RPeGhjQ0U4MEVr?oc=5
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help’, Cong hits back with US treasury secy's remarks | India News - Hindustan Times
-  BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNeFQtdEY4d2ZZS05uZ1g1N0J4al9DVUJKX0xyTk9IRDItMUJlOU1TWG96UEs2RmNwNHE3NHMyM0dSdWxaRURweEhQX3YxQWUtbEloZFZLSWppaXkxaThNQkJOOFVudVRPNEdYcGlocFdwTXo4WURoYXN0Z2Fwd0h1QTJYZ0l5Qk9SYlVVaF9BVFVWVjRVc29BeUxQMlFGMlUwLUdwaDdWQlVGV0J6MTJfenpVdjlTT1BzQnIyeHEyWWEyb2ZvYXkyeVQ0WXBHTEhadTNyZmRkUGN1czF2bHplSXlpaEZvSEgzWmJqVXQ2Z1lSemk3dTcxXzVCUUs1OW54Q1VheGRjck9jd9IBjwJBVV95cUxQckoxTXBuSTdSaThvbnZPX3dNcUVjRXhDQ0VGTnZoenVpS19WNjhlTTkzU0NiNzhtNFFxTUpkMmlUNjdSVXFYM2VEbVFWTHVVMFcwRjhIdUtoR0VfVHRlQnNfaEhRSEQ2M1pvWEEyTmhxLUYwTWdiSVpWUWlVVUREV1pBMFBubExXTU5xR2cxZHVFbzlCNUdLM0ZzOXZrRTlLaHlTajZjTXhmZXZ6LWd1QXhpZ0p0UDNsWm1LbkFndk41aU94UGs5U01EWlB2QXplQWVoYkxHd0tXRWxwdU94NVJObUtleWdHV3N1cjlLczY2S0t4amt2OUZWYzR6QXBXUEY5cVZyVmZWRkRsTWJZ?oc=5
+- Crude Oil Rally Near 120 Dollars, Raises Big Question If India Can Survive Crisis With Russian Oil - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNE
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNEJxa1ZobzhIRlJITGxxV3V5WG5jelc4Wi1JM1J0SE0xVDFlZUxmNURsRTlORGoteThLNUFMUzUzZnV1dFl6Rzdyci1PajUwZjR3OGpBbGRraVUydl9rM2YzMGpqazdDejQwWjhDczdFZG1hOElkQ2FTamlxakdLOVhzU2JDaF9VeExHRXhDLXpkcC16RXdkbFZ5SGhRd9IBgwJBVV95cUxNZkt2cXVUOVphNjdSVjl2WUJicFhUZUxvZ1ZlWE40TDd2emtvcWxoOGhlb0RRR0pRMENCNGRyT0lyYTZzMGlCS2pQSFg4SW1aODN6ODhVNkRCdlE4MDhGQnd0V1dTWC1VVWN4VWJ4WGlJNDBnTUFEc0V0Qk16aUhTMERUazQxQ1IxbWtaVnAxTUNQSTVaaVFKU1lYOE5uOWxKaGs1R19FMkFnUTdEVEx2bkl5T2lHNWVQYlZFYTVJc2ppRHBiRUtFbVZIcEluT1FKZWlFNlFZQ0tuSjJBN0dTVEFyMC1RNld1bE9JNEtEckJJS2tNLUtIYjRaRzdEOG5zVHEw?oc=5
 
-- Why South India’s real estate market is set to surge on massive infrastructure investments - The Times of India
-  Why South India’s real estate market is set to surge on massive
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRUxHbTNFWGxLWmlRM3BYWkJyaTVPdm56RlVqRzZOak14MkR5aWtfZVdkT2RaZWx5d1dpUDdrcW9KUHkxaDQ2QjN1YWlVOVByTWtBRVlZUkIwZ2xqSTZmcmVOM2pSZm1IbzBYT2NSOHRKdjdLcGVDX3d2Q3d0UzNQcjc3MUtseXlYbjJQaEdBT05jSVVzS0U2QWxHVEdtSEpvdGRTRUNQUkJtTE1oUFphVnNURVI4Nlo1cm95TEN0eXdPQ1lCSEdWdUt2MktHVzFjaWhHWllSUEE3RjcyR21pTnVGZlZPekNvNTZfMmFqMm5FeUpRS2toNmRPMznSAYICQVVfeXFMUGZLU3J6VG9KSFY0QlJnWE41SnVkQzRCbnFjcTYwSXRHV1ZXOG5KSEhfajRJVDZyanNRT0VvRjJ2cTFWenZZam1vdHFienFLQTJrUkhfVW42VUp0VkRGZGpwRjZnWW9aYUxQNHJxTTVMT0J1emRGUTJQamlKLWFaS0VOV0dMT3piRUVkMmNrVVpDOFI2bzBCeEJScHZjZ3JTUDNJS2IzckNSb1JaWks2b016RXFTV2Z6X1pxbm1reHZGODNZS2ZwN0tqV25DTUYyblRkMDVuV3ZvVWJTRFAtT2ZDd2ZIdGRQaGdvR3RiRFZMczBlX0ljT0JKOHZuWmUtZ3lB?oc=5
+- ‘Didn’t watch, so they won!’; Amitabh Bachchan’s funny take after India’s big victory - The Times of India
+  ‘Didn’t watch, so they won!�
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeE4ycmR1TW1sSllJeVpWNTFLT05zdlZMa3Y2LTRWUklORUIydHBGUVR5SmczbENqR0hYSlNJT0w1bGItUlJNTFl4RjN2eEdaV1hsX1ZuYnUzd3VMUmdZRlhtTG1jYXFZRHdhd1M1UXUzSEQyUjJxd3V1UkNTbktNRlpvTE9aaENnaUJCMUlMTmlQSnczU0pqalJMRmpvaUdvbXV3MXBLOWZLdnY4d0JKZUVkYXRkR3JjVDJuU1d3OVpfV3M1VUJiQ3ZpZnJJa3VzN0FWNVdhSUhzeVFNYXdZWUZxNVhpY0tleVdwZDZfQUUxNjVXeHpFM2NRQUQ1N2lGYzhCaNIBigJBVV95cUxQSTlJRlNCTzUyeTRCWFVMYzAwWFROMFQ5LURPNkF2R1pmbWlwT19ZcUg1dFB4ekNxc3lRSlNUSnRWVUtWWFkzWHowVUxVYmJPdVlUMktqSFp4RHphSHNJNUdxUWRKT1dFZUhmQWRWTUlGQVBtZVhNWEVfdUFFNTdkLTA2VTNPOWxyNC16ZG1Vb25Fa1VyMVYzOEJNcEJHakUwS2RIX05aX05Ed3gyem9jNFFWSUtaS05jTFdBZHFnbnNYN2NaZDFiNGpzRWF1dHZvcjB0eUJLLWNPVnBjTGpKTVVwc2tlWkd4Rm9QVzgyMFphc1cta256eHNaN2VuNmxMWGZUN3RwbS1tdw?oc=5
 
-- "Every Effort Being Made To Bring Back Stuck Indians": S Jaishankar On Iran War - NDTV
-  "Every Effort Being Made To Bring Back Stuck Indians
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkhXSHVmYUwzUElsZHlFanhkTEw0QkRWZ3gzSWJwck5uUE5rV3I2WlBlcjhqOUJnTlJuN0dGbjlidzVoOHNHWDJHU01wYlBGb2FOVlpINEh1TlI3a3puaE9kdmVUM0U2QW5razRSRHVWUHRDV3U5TkluMUJHMGRsRlNKN3dvYXFOUWhfaFBIUS15Y0o3bTViaXo1MnowM0xibTI5MnpNLTZpd2NnNlRzVWU0YVBBc01PVERfODJxd2tSUng3Qk1oMS1TTkczY0d0VTV3RlhSTHNnRGJTTF9kVXY2SkdiR0E10gHwAUFVX3lxTE00NE44U2Y5SGRNdG1GVUl2NVlGdXlIMHlnTGEwaDFMWFpJd25Wd1RPYUZNVjlMWTZzWlB0X3VUbE9ZUnlqeWF2cHZzQ2VhTGdCWGQzanI1NUZ6WjM0ZThmYW84ZXo5ZkxBZmZURjNmS09wcmE5YnJVamlSZmhYUTEwd1hkNE5jMUh4aFM5QTlWZVBBNFVEbGNaZDU1V0pYQm1FbGdzbHRlU1l1OWZlRURUVTZBMmNNRVB1VUIwT0V0cjNIemRvWjViQWpSX1pzM2FrTWRfNWxkZzluQ1kzSWhoeGxkb0gwTTlHMTI0elg2Nw?oc=5
+- Opposition Ditches Om Birla Trust Vote, Trains Guns On Centre Over Iran War, Oil Shock - NDTV
+  The opposition in India has voted against the Birla Trust
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOanlzYmlYcDJVV1hNSkl4NXZURXFjZ1RIZ204LTBUSUVrN2VyREV4eE1FTTFLVXJxaUJpRGlwTmhUdnp6aFdmN0I5ZGNtODYyRmh5SmtjRS1NUWFmUnRtVHljcE9ZeXludmtpbTlBMk10Si1Icl9mQmF1V3hOZzVYZkJ3anVxNkt3VEdDUm9BYlU5UjM0WVpxbzJ1LVNSNEgxZXJsSU04cEpkNzl6WjVOM3ZzWlF4TWZGLWJoTHhYanNSaEgyekdTUzB3VmVFR25pdHJfektvQUxnTWFWUXQxSEtTSzJpV2swNHNfTXdMbTFwNVJiemJmYS1OMlcyd9IBhgJBVV95cUxNVGROWklEdHFySzFaOHJaOVpyQTllbF9lWGVfb3VoaGw2Tlh1WUpMQ0ZNWFpwVHViU3h6YmJOMXFEQ3diNFJYYU1yaHRybUdHa0t6Q0RYVVl2bUNpUW94c0o3aXRlTWZLLVlOS0tOYmp5LWY5RU9yU1NPdTF2MGhoWVBLUzBRMnM5YVlQZzllOC0zYUM5QjJtSTdqNlNVcjktblVVRHNhMnNtUUJiNy0xeWViMjVsSGFDNGphVlg2ZmpWWldiWndLQUd6UjBqREppdWlza1R5NEhQT05jV1RqenRPTTFOZUJ5dnF1Q1JhRW4xblVkTml5M0FKbndGc3ZudnJQUDlB?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- Evening news wrap: Court grants interim bail to Sharjeel Imam; Putin offers support to Iran’s new leader - The Times of India
+  The Times of India: Court grants interim bail to Sharjeel Imam. Putin offers support
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOR3hoZ0R3V2F2enJzQmJCNjd2Nk53WWdlV0ktYW5PNzI2UVl4NDRtQnduN1c3SHJwWS13MWNPazdwd01BQ0FrM2FXckIybUduU3dqX1N2OV9iSDJybDF0Q1ZfZWl1djdub0hwWTI3U3FaZVA5d3UtQmV4UkNKaVIwTmN1R1BGck4tRnJqVmNRWVRRbk9HVTdudVYxQkJLaklDd1VCaURiWnBMNjhEOVJSdHFub21aaHNFdmdEUXBVVEkySC1VQmRpUElVUXJLR1E2UjZKT0pLRGE3bTV5LUxsU2oxMTl3TFB6NVhQTWNoOUNUN01Gd2t0UlpCZGhYY0dENGxJVUJuWEIwUE5DcVdOTkhwVXR1NzVBS2FF0gGgAkFVX3lxTE5Yd00yak1WbjZQZ1FZLTZiM0tZZDZuZXZpWmtsS3NPaFdmb01NdG1FVDV6ZlRUQzdlb0E1N1o2Qm0yLTA0VXlGazdVSmotZ2xyaUt0dnhPQ2ZSTXhGdExfRlB5LXB0YVBCNmFIdHJjTWRYQzZUenlfNzRyT2dyZjllY2Z1WW80RFdDR3V4eW81eTgyRU9YSkhKT2ZUMVE0OE5SaGxKMzV5ZXQ4OWFZSUFRakF4blVaUHJfU1hzWXc5ZDVkSHNJdC1XdmhGNUcxOGhPQ0R1bGJsNDJnZDBJZG1rTWk2VFo1djhERHFRUTUwVUJQNmRoUVVmRDN5eFFudXVCN3BzMmVDdzVEaU9jRUtocjNZd01LNGdEU1ZRcVJ0dQ?oc=5
 
-- 'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India - NDTV
-  'Take Pressure Off': Trump On Easing Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTVaTGRvOUxxZXRDMmNXeW9QcWMwbWFDdm5URzVqV3pCUk55Uzloak5nazNjUlczdUtEeUpZdlN3Q1dLcmRHZ2czenViOFlfNUNTX1MxclBxcVV5azZNbGpIY1F0U09aS05uSmktTGt5Yld1UUN5bDA0aW0xd2JLekFDcnpJRzdRV3ltYm13R2gwZUd1UW9FNnVYeVM5ZVlNWGpLYWhHSkRwUEo2RnF4aDJvUFltV195WkNRTmF4WGpWclEtLUNDedIB0AFBVV95cUxOVmZWS0R0QmVqc0JCcjkwZE45d3lMSHdBSUVTRjRMYnp6aVlyUm1TelZJUlRWYTh2R09IVWxhOGJIOXZaZFJHVWdqNmdpc0ZqNmcteTcwcGJsX1lFclZpbC1OdjZFa2tYWFpBcTQtendFTkZfUldRTGJoelpybGVFUXZWZy1DdlZLSHZRbkt4Z2JDUC1BYUdlUnUxcGJaN2N6dnh1LU1PWGNOdmFOR3VlRVF0dUktWlRNR3RpOGR6am1nYm00Y0RPeGhjQ0U4MEVr?oc=5
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help’, Cong hits back with US treasury secy's remarks | India News - Hindustan Times
-  BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNeFQtdEY4d2ZZS05uZ1g1N0J4al9DVUJKX0xyTk9IRDItMUJlOU1TWG96UEs2RmNwNHE3NHMyM0dSdWxaRURweEhQX3YxQWUtbEloZFZLSWppaXkxaThNQkJOOFVudVRPNEdYcGlocFdwTXo4WURoYXN0Z2Fwd0h1QTJYZ0l5Qk9SYlVVaF9BVFVWVjRVc29BeUxQMlFGMlUwLUdwaDdWQlVGV0J6MTJfenpVdjlTT1BzQnIyeHEyWWEyb2ZvYXkyeVQ0WXBHTEhadTNyZmRkUGN1czF2bHplSXlpaEZvSEgzWmJqVXQ2Z1lSemk3dTcxXzVCUUs1OW54Q1VheGRjck9jd9IBjwJBVV95cUxQckoxTXBuSTdSaThvbnZPX3dNcUVjRXhDQ0VGTnZoenVpS19WNjhlTTkzU0NiNzhtNFFxTUpkMmlUNjdSVXFYM2VEbVFWTHVVMFcwRjhIdUtoR0VfVHRlQnNfaEhRSEQ2M1pvWEEyTmhxLUYwTWdiSVpWUWlVVUREV1pBMFBubExXTU5xR2cxZHVFbzlCNUdLM0ZzOXZrRTlLaHlTajZjTXhmZXZ6LWd1QXhpZ0p0UDNsWm1LbkFndk41aU94UGs5U01EWlB2QXplQWVoYkxHd0tXRWxwdU94NVJObUtleWdHV3N1cjlLczY2S0t4amt2OUZWYzR6QXBXUEY5cVZyVmZWRkRsTWJZ?oc=5
+- Crude Oil Rally Near 120 Dollars, Raises Big Question If India Can Survive Crisis With Russian Oil - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNE
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNEJxa1ZobzhIRlJITGxxV3V5WG5jelc4Wi1JM1J0SE0xVDFlZUxmNURsRTlORGoteThLNUFMUzUzZnV1dFl6Rzdyci1PajUwZjR3OGpBbGRraVUydl9rM2YzMGpqazdDejQwWjhDczdFZG1hOElkQ2FTamlxakdLOVhzU2JDaF9VeExHRXhDLXpkcC16RXdkbFZ5SGhRd9IBgwJBVV95cUxNZkt2cXVUOVphNjdSVjl2WUJicFhUZUxvZ1ZlWE40TDd2emtvcWxoOGhlb0RRR0pRMENCNGRyT0lyYTZzMGlCS2pQSFg4SW1aODN6ODhVNkRCdlE4MDhGQnd0V1dTWC1VVWN4VWJ4WGlJNDBnTUFEc0V0Qk16aUhTMERUazQxQ1IxbWtaVnAxTUNQSTVaaVFKU1lYOE5uOWxKaGs1R19FMkFnUTdEVEx2bkl5T2lHNWVQYlZFYTVJc2ppRHBiRUtFbVZIcEluT1FKZWlFNlFZQ0tuSjJBN0dTVEFyMC1RNld1bE9JNEtEckJJS2tNLUtIYjRaRzdEOG5zVHEw?oc=5
 
-- Why South India’s real estate market is set to surge on massive infrastructure investments - The Times of India
-  Why South India’s real estate market is set to surge on massive
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRUxHbTNFWGxLWmlRM3BYWkJyaTVPdm56RlVqRzZOak14MkR5aWtfZVdkT2RaZWx5d1dpUDdrcW9KUHkxaDQ2QjN1YWlVOVByTWtBRVlZUkIwZ2xqSTZmcmVOM2pSZm1IbzBYT2NSOHRKdjdLcGVDX3d2Q3d0UzNQcjc3MUtseXlYbjJQaEdBT05jSVVzS0U2QWxHVEdtSEpvdGRTRUNQUkJtTE1oUFphVnNURVI4Nlo1cm95TEN0eXdPQ1lCSEdWdUt2MktHVzFjaWhHWllSUEE3RjcyR21pTnVGZlZPekNvNTZfMmFqMm5FeUpRS2toNmRPMznSAYICQVVfeXFMUGZLU3J6VG9KSFY0QlJnWE41SnVkQzRCbnFjcTYwSXRHV1ZXOG5KSEhfajRJVDZyanNRT0VvRjJ2cTFWenZZam1vdHFienFLQTJrUkhfVW42VUp0VkRGZGpwRjZnWW9aYUxQNHJxTTVMT0J1emRGUTJQamlKLWFaS0VOV0dMT3piRUVkMmNrVVpDOFI2bzBCeEJScHZjZ3JTUDNJS2IzckNSb1JaWks2b016RXFTV2Z6X1pxbm1reHZGODNZS2ZwN0tqV25DTUYyblRkMDVuV3ZvVWJTRFAtT2ZDd2ZIdGRQaGdvR3RiRFZMczBlX0ljT0JKOHZuWmUtZ3lB?oc=5
+- ‘Didn’t watch, so they won!’; Amitabh Bachchan’s funny take after India’s big victory - The Times of India
+  ‘Didn’t watch, so they won!�
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeE4ycmR1TW1sSllJeVpWNTFLT05zdlZMa3Y2LTRWUklORUIydHBGUVR5SmczbENqR0hYSlNJT0w1bGItUlJNTFl4RjN2eEdaV1hsX1ZuYnUzd3VMUmdZRlhtTG1jYXFZRHdhd1M1UXUzSEQyUjJxd3V1UkNTbktNRlpvTE9aaENnaUJCMUlMTmlQSnczU0pqalJMRmpvaUdvbXV3MXBLOWZLdnY4d0JKZUVkYXRkR3JjVDJuU1d3OVpfV3M1VUJiQ3ZpZnJJa3VzN0FWNVdhSUhzeVFNYXdZWUZxNVhpY0tleVdwZDZfQUUxNjVXeHpFM2NRQUQ1N2lGYzhCaNIBigJBVV95cUxQSTlJRlNCTzUyeTRCWFVMYzAwWFROMFQ5LURPNkF2R1pmbWlwT19ZcUg1dFB4ekNxc3lRSlNUSnRWVUtWWFkzWHowVUxVYmJPdVlUMktqSFp4RHphSHNJNUdxUWRKT1dFZUhmQWRWTUlGQVBtZVhNWEVfdUFFNTdkLTA2VTNPOWxyNC16ZG1Vb25Fa1VyMVYzOEJNcEJHakUwS2RIX05aX05Ed3gyem9jNFFWSUtaS05jTFdBZHFnbnNYN2NaZDFiNGpzRWF1dHZvcjB0eUJLLWNPVnBjTGpKTVVwc2tlWkd4Rm9QVzgyMFphc1cta256eHNaN2VuNmxMWGZUN3RwbS1tdw?oc=5
 
-- "Every Effort Being Made To Bring Back Stuck Indians": S Jaishankar On Iran War - NDTV
-  "Every Effort Being Made To Bring Back Stuck Indians
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkhXSHVmYUwzUElsZHlFanhkTEw0QkRWZ3gzSWJwck5uUE5rV3I2WlBlcjhqOUJnTlJuN0dGbjlidzVoOHNHWDJHU01wYlBGb2FOVlpINEh1TlI3a3puaE9kdmVUM0U2QW5razRSRHVWUHRDV3U5TkluMUJHMGRsRlNKN3dvYXFOUWhfaFBIUS15Y0o3bTViaXo1MnowM0xibTI5MnpNLTZpd2NnNlRzVWU0YVBBc01PVERfODJxd2tSUng3Qk1oMS1TTkczY0d0VTV3RlhSTHNnRGJTTF9kVXY2SkdiR0E10gHwAUFVX3lxTE00NE44U2Y5SGRNdG1GVUl2NVlGdXlIMHlnTGEwaDFMWFpJd25Wd1RPYUZNVjlMWTZzWlB0X3VUbE9ZUnlqeWF2cHZzQ2VhTGdCWGQzanI1NUZ6WjM0ZThmYW84ZXo5ZkxBZmZURjNmS09wcmE5YnJVamlSZmhYUTEwd1hkNE5jMUh4aFM5QTlWZVBBNFVEbGNaZDU1V0pYQm1FbGdzbHRlU1l1OWZlRURUVTZBMmNNRVB1VUIwT0V0cjNIemRvWjViQWpSX1pzM2FrTWRfNWxkZzluQ1kzSWhoeGxkb0gwTTlHMTI0elg2Nw?oc=5
+- Opposition Ditches Om Birla Trust Vote, Trains Guns On Centre Over Iran War, Oil Shock - NDTV
+  The opposition in India has voted against the Birla Trust
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOanlzYmlYcDJVV1hNSkl4NXZURXFjZ1RIZ204LTBUSUVrN2VyREV4eE1FTTFLVXJxaUJpRGlwTmhUdnp6aFdmN0I5ZGNtODYyRmh5SmtjRS1NUWFmUnRtVHljcE9ZeXludmtpbTlBMk10Si1Icl9mQmF1V3hOZzVYZkJ3anVxNkt3VEdDUm9BYlU5UjM0WVpxbzJ1LVNSNEgxZXJsSU04cEpkNzl6WjVOM3ZzWlF4TWZGLWJoTHhYanNSaEgyekdTUzB3VmVFR25pdHJfektvQUxnTWFWUXQxSEtTSzJpV2swNHNfTXdMbTFwNVJiemJmYS1OMlcyd9IBhgJBVV95cUxNVGROWklEdHFySzFaOHJaOVpyQTllbF9lWGVfb3VoaGw2Tlh1WUpMQ0ZNWFpwVHViU3h6YmJOMXFEQ3diNFJYYU1yaHRybUdHa0t6Q0RYVVl2bUNpUW94c0o3aXRlTWZLLVlOS0tOYmp5LWY5RU9yU1NPdTF2MGhoWVBLUzBRMnM5YVlQZzllOC0zYUM5QjJtSTdqNlNVcjktblVVRHNhMnNtUUJiNy0xeWViMjVsSGFDNGphVlg2ZmpWWldiWndLQUd6UjBqREppdWlza1R5NEhQT05jV1RqenRPTTFOZUJ5dnF1Q1JhRW4xblVkTml5M0FKbndGc3ZudnJQUDlB?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- Evening news wrap: Court grants interim bail to Sharjeel Imam; Putin offers support to Iran’s new leader - The Times of India
+  The Times of India: Court grants interim bail to Sharjeel Imam. Putin offers support
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOR3hoZ0R3V2F2enJzQmJCNjd2Nk53WWdlV0ktYW5PNzI2UVl4NDRtQnduN1c3SHJwWS13MWNPazdwd01BQ0FrM2FXckIybUduU3dqX1N2OV9iSDJybDF0Q1ZfZWl1djdub0hwWTI3U3FaZVA5d3UtQmV4UkNKaVIwTmN1R1BGck4tRnJqVmNRWVRRbk9HVTdudVYxQkJLaklDd1VCaURiWnBMNjhEOVJSdHFub21aaHNFdmdEUXBVVEkySC1VQmRpUElVUXJLR1E2UjZKT0pLRGE3bTV5LUxsU2oxMTl3TFB6NVhQTWNoOUNUN01Gd2t0UlpCZGhYY0dENGxJVUJuWEIwUE5DcVdOTkhwVXR1NzVBS2FF0gGgAkFVX3lxTE5Yd00yak1WbjZQZ1FZLTZiM0tZZDZuZXZpWmtsS3NPaFdmb01NdG1FVDV6ZlRUQzdlb0E1N1o2Qm0yLTA0VXlGazdVSmotZ2xyaUt0dnhPQ2ZSTXhGdExfRlB5LXB0YVBCNmFIdHJjTWRYQzZUenlfNzRyT2dyZjllY2Z1WW80RFdDR3V4eW81eTgyRU9YSkhKT2ZUMVE0OE5SaGxKMzV5ZXQ4OWFZSUFRakF4blVaUHJfU1hzWXc5ZDVkSHNJdC1XdmhGNUcxOGhPQ0R1bGJsNDJnZDBJZG1rTWk2VFo1djhERHFRUTUwVUJQNmRoUVVmRDN5eFFudXVCN3BzMmVDdzVEaU9jRUtocjNZd01LNGdEU1ZRcVJ0dQ?oc=5
 
-- 'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India - NDTV
-  'Take Pressure Off': Trump On Easing Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTVaTGRvOUxxZXRDMmNXeW9QcWMwbWFDdm5URzVqV3pCUk55Uzloak5nazNjUlczdUtEeUpZdlN3Q1dLcmRHZ2czenViOFlfNUNTX1MxclBxcVV5azZNbGpIY1F0U09aS05uSmktTGt5Yld1UUN5bDA0aW0xd2JLekFDcnpJRzdRV3ltYm13R2gwZUd1UW9FNnVYeVM5ZVlNWGpLYWhHSkRwUEo2RnF4aDJvUFltV195WkNRTmF4WGpWclEtLUNDedIB0AFBVV95cUxOVmZWS0R0QmVqc0JCcjkwZE45d3lMSHdBSUVTRjRMYnp6aVlyUm1TelZJUlRWYTh2R09IVWxhOGJIOXZaZFJHVWdqNmdpc0ZqNmcteTcwcGJsX1lFclZpbC1OdjZFa2tYWFpBcTQtendFTkZfUldRTGJoelpybGVFUXZWZy1DdlZLSHZRbkt4Z2JDUC1BYUdlUnUxcGJaN2N6dnh1LU1PWGNOdmFOR3VlRVF0dUktWlRNR3RpOGR6am1nYm00Y0RPeGhjQ0U4MEVr?oc=5
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help’, Cong hits back with US treasury secy's remarks | India News - Hindustan Times
-  BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNeFQtdEY4d2ZZS05uZ1g1N0J4al9DVUJKX0xyTk9IRDItMUJlOU1TWG96UEs2RmNwNHE3NHMyM0dSdWxaRURweEhQX3YxQWUtbEloZFZLSWppaXkxaThNQkJOOFVudVRPNEdYcGlocFdwTXo4WURoYXN0Z2Fwd0h1QTJYZ0l5Qk9SYlVVaF9BVFVWVjRVc29BeUxQMlFGMlUwLUdwaDdWQlVGV0J6MTJfenpVdjlTT1BzQnIyeHEyWWEyb2ZvYXkyeVQ0WXBHTEhadTNyZmRkUGN1czF2bHplSXlpaEZvSEgzWmJqVXQ2Z1lSemk3dTcxXzVCUUs1OW54Q1VheGRjck9jd9IBjwJBVV95cUxQckoxTXBuSTdSaThvbnZPX3dNcUVjRXhDQ0VGTnZoenVpS19WNjhlTTkzU0NiNzhtNFFxTUpkMmlUNjdSVXFYM2VEbVFWTHVVMFcwRjhIdUtoR0VfVHRlQnNfaEhRSEQ2M1pvWEEyTmhxLUYwTWdiSVpWUWlVVUREV1pBMFBubExXTU5xR2cxZHVFbzlCNUdLM0ZzOXZrRTlLaHlTajZjTXhmZXZ6LWd1QXhpZ0p0UDNsWm1LbkFndk41aU94UGs5U01EWlB2QXplQWVoYkxHd0tXRWxwdU94NVJObUtleWdHV3N1cjlLczY2S0t4amt2OUZWYzR6QXBXUEY5cVZyVmZWRkRsTWJZ?oc=5
+- Crude Oil Rally Near 120 Dollars, Raises Big Question If India Can Survive Crisis With Russian Oil - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNE
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNEJxa1ZobzhIRlJITGxxV3V5WG5jelc4Wi1JM1J0SE0xVDFlZUxmNURsRTlORGoteThLNUFMUzUzZnV1dFl6Rzdyci1PajUwZjR3OGpBbGRraVUydl9rM2YzMGpqazdDejQwWjhDczdFZG1hOElkQ2FTamlxakdLOVhzU2JDaF9VeExHRXhDLXpkcC16RXdkbFZ5SGhRd9IBgwJBVV95cUxNZkt2cXVUOVphNjdSVjl2WUJicFhUZUxvZ1ZlWE40TDd2emtvcWxoOGhlb0RRR0pRMENCNGRyT0lyYTZzMGlCS2pQSFg4SW1aODN6ODhVNkRCdlE4MDhGQnd0V1dTWC1VVWN4VWJ4WGlJNDBnTUFEc0V0Qk16aUhTMERUazQxQ1IxbWtaVnAxTUNQSTVaaVFKU1lYOE5uOWxKaGs1R19FMkFnUTdEVEx2bkl5T2lHNWVQYlZFYTVJc2ppRHBiRUtFbVZIcEluT1FKZWlFNlFZQ0tuSjJBN0dTVEFyMC1RNld1bE9JNEtEckJJS2tNLUtIYjRaRzdEOG5zVHEw?oc=5
 
-- Why South India’s real estate market is set to surge on massive infrastructure investments - The Times of India
-  Why South India’s real estate market is set to surge on massive
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRUxHbTNFWGxLWmlRM3BYWkJyaTVPdm56RlVqRzZOak14MkR5aWtfZVdkT2RaZWx5d1dpUDdrcW9KUHkxaDQ2QjN1YWlVOVByTWtBRVlZUkIwZ2xqSTZmcmVOM2pSZm1IbzBYT2NSOHRKdjdLcGVDX3d2Q3d0UzNQcjc3MUtseXlYbjJQaEdBT05jSVVzS0U2QWxHVEdtSEpvdGRTRUNQUkJtTE1oUFphVnNURVI4Nlo1cm95TEN0eXdPQ1lCSEdWdUt2MktHVzFjaWhHWllSUEE3RjcyR21pTnVGZlZPekNvNTZfMmFqMm5FeUpRS2toNmRPMznSAYICQVVfeXFMUGZLU3J6VG9KSFY0QlJnWE41SnVkQzRCbnFjcTYwSXRHV1ZXOG5KSEhfajRJVDZyanNRT0VvRjJ2cTFWenZZam1vdHFienFLQTJrUkhfVW42VUp0VkRGZGpwRjZnWW9aYUxQNHJxTTVMT0J1emRGUTJQamlKLWFaS0VOV0dMT3piRUVkMmNrVVpDOFI2bzBCeEJScHZjZ3JTUDNJS2IzckNSb1JaWks2b016RXFTV2Z6X1pxbm1reHZGODNZS2ZwN0tqV25DTUYyblRkMDVuV3ZvVWJTRFAtT2ZDd2ZIdGRQaGdvR3RiRFZMczBlX0ljT0JKOHZuWmUtZ3lB?oc=5
+- ‘Didn’t watch, so they won!’; Amitabh Bachchan’s funny take after India’s big victory - The Times of India
+  ‘Didn’t watch, so they won!�
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeE4ycmR1TW1sSllJeVpWNTFLT05zdlZMa3Y2LTRWUklORUIydHBGUVR5SmczbENqR0hYSlNJT0w1bGItUlJNTFl4RjN2eEdaV1hsX1ZuYnUzd3VMUmdZRlhtTG1jYXFZRHdhd1M1UXUzSEQyUjJxd3V1UkNTbktNRlpvTE9aaENnaUJCMUlMTmlQSnczU0pqalJMRmpvaUdvbXV3MXBLOWZLdnY4d0JKZUVkYXRkR3JjVDJuU1d3OVpfV3M1VUJiQ3ZpZnJJa3VzN0FWNVdhSUhzeVFNYXdZWUZxNVhpY0tleVdwZDZfQUUxNjVXeHpFM2NRQUQ1N2lGYzhCaNIBigJBVV95cUxQSTlJRlNCTzUyeTRCWFVMYzAwWFROMFQ5LURPNkF2R1pmbWlwT19ZcUg1dFB4ekNxc3lRSlNUSnRWVUtWWFkzWHowVUxVYmJPdVlUMktqSFp4RHphSHNJNUdxUWRKT1dFZUhmQWRWTUlGQVBtZVhNWEVfdUFFNTdkLTA2VTNPOWxyNC16ZG1Vb25Fa1VyMVYzOEJNcEJHakUwS2RIX05aX05Ed3gyem9jNFFWSUtaS05jTFdBZHFnbnNYN2NaZDFiNGpzRWF1dHZvcjB0eUJLLWNPVnBjTGpKTVVwc2tlWkd4Rm9QVzgyMFphc1cta256eHNaN2VuNmxMWGZUN3RwbS1tdw?oc=5
 
-- "Every Effort Being Made To Bring Back Stuck Indians": S Jaishankar On Iran War - NDTV
-  "Every Effort Being Made To Bring Back Stuck Indians
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkhXSHVmYUwzUElsZHlFanhkTEw0QkRWZ3gzSWJwck5uUE5rV3I2WlBlcjhqOUJnTlJuN0dGbjlidzVoOHNHWDJHU01wYlBGb2FOVlpINEh1TlI3a3puaE9kdmVUM0U2QW5razRSRHVWUHRDV3U5TkluMUJHMGRsRlNKN3dvYXFOUWhfaFBIUS15Y0o3bTViaXo1MnowM0xibTI5MnpNLTZpd2NnNlRzVWU0YVBBc01PVERfODJxd2tSUng3Qk1oMS1TTkczY0d0VTV3RlhSTHNnRGJTTF9kVXY2SkdiR0E10gHwAUFVX3lxTE00NE44U2Y5SGRNdG1GVUl2NVlGdXlIMHlnTGEwaDFMWFpJd25Wd1RPYUZNVjlMWTZzWlB0X3VUbE9ZUnlqeWF2cHZzQ2VhTGdCWGQzanI1NUZ6WjM0ZThmYW84ZXo5ZkxBZmZURjNmS09wcmE5YnJVamlSZmhYUTEwd1hkNE5jMUh4aFM5QTlWZVBBNFVEbGNaZDU1V0pYQm1FbGdzbHRlU1l1OWZlRURUVTZBMmNNRVB1VUIwT0V0cjNIemRvWjViQWpSX1pzM2FrTWRfNWxkZzluQ1kzSWhoeGxkb0gwTTlHMTI0elg2Nw?oc=5
+- Opposition Ditches Om Birla Trust Vote, Trains Guns On Centre Over Iran War, Oil Shock - NDTV
+  The opposition in India has voted against the Birla Trust
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOanlzYmlYcDJVV1hNSkl4NXZURXFjZ1RIZ204LTBUSUVrN2VyREV4eE1FTTFLVXJxaUJpRGlwTmhUdnp6aFdmN0I5ZGNtODYyRmh5SmtjRS1NUWFmUnRtVHljcE9ZeXludmtpbTlBMk10Si1Icl9mQmF1V3hOZzVYZkJ3anVxNkt3VEdDUm9BYlU5UjM0WVpxbzJ1LVNSNEgxZXJsSU04cEpkNzl6WjVOM3ZzWlF4TWZGLWJoTHhYanNSaEgyekdTUzB3VmVFR25pdHJfektvQUxnTWFWUXQxSEtTSzJpV2swNHNfTXdMbTFwNVJiemJmYS1OMlcyd9IBhgJBVV95cUxNVGROWklEdHFySzFaOHJaOVpyQTllbF9lWGVfb3VoaGw2Tlh1WUpMQ0ZNWFpwVHViU3h6YmJOMXFEQ3diNFJYYU1yaHRybUdHa0t6Q0RYVVl2bUNpUW94c0o3aXRlTWZLLVlOS0tOYmp5LWY5RU9yU1NPdTF2MGhoWVBLUzBRMnM5YVlQZzllOC0zYUM5QjJtSTdqNlNVcjktblVVRHNhMnNtUUJiNy0xeWViMjVsSGFDNGphVlg2ZmpWWldiWndLQUd6UjBqREppdWlza1R5NEhQT05jV1RqenRPTTFOZUJ5dnF1Q1JhRW4xblVkTml5M0FKbndGc3ZudnJQUDlB?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- Evening news wrap: Court grants interim bail to Sharjeel Imam; Putin offers support to Iran’s new leader - The Times of India
+  The Times of India: Court grants interim bail to Sharjeel Imam. Putin offers support
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOR3hoZ0R3V2F2enJzQmJCNjd2Nk53WWdlV0ktYW5PNzI2UVl4NDRtQnduN1c3SHJwWS13MWNPazdwd01BQ0FrM2FXckIybUduU3dqX1N2OV9iSDJybDF0Q1ZfZWl1djdub0hwWTI3U3FaZVA5d3UtQmV4UkNKaVIwTmN1R1BGck4tRnJqVmNRWVRRbk9HVTdudVYxQkJLaklDd1VCaURiWnBMNjhEOVJSdHFub21aaHNFdmdEUXBVVEkySC1VQmRpUElVUXJLR1E2UjZKT0pLRGE3bTV5LUxsU2oxMTl3TFB6NVhQTWNoOUNUN01Gd2t0UlpCZGhYY0dENGxJVUJuWEIwUE5DcVdOTkhwVXR1NzVBS2FF0gGgAkFVX3lxTE5Yd00yak1WbjZQZ1FZLTZiM0tZZDZuZXZpWmtsS3NPaFdmb01NdG1FVDV6ZlRUQzdlb0E1N1o2Qm0yLTA0VXlGazdVSmotZ2xyaUt0dnhPQ2ZSTXhGdExfRlB5LXB0YVBCNmFIdHJjTWRYQzZUenlfNzRyT2dyZjllY2Z1WW80RFdDR3V4eW81eTgyRU9YSkhKT2ZUMVE0OE5SaGxKMzV5ZXQ4OWFZSUFRakF4blVaUHJfU1hzWXc5ZDVkSHNJdC1XdmhGNUcxOGhPQ0R1bGJsNDJnZDBJZG1rTWk2VFo1djhERHFRUTUwVUJQNmRoUVVmRDN5eFFudXVCN3BzMmVDdzVEaU9jRUtocjNZd01LNGdEU1ZRcVJ0dQ?oc=5
 
-- 'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India - NDTV
-  'Take Pressure Off': Trump On Easing Oil Prices
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTVaTGRvOUxxZXRDMmNXeW9QcWMwbWFDdm5URzVqV3pCUk55Uzloak5nazNjUlczdUtEeUpZdlN3Q1dLcmRHZ2czenViOFlfNUNTX1MxclBxcVV5azZNbGpIY1F0U09aS05uSmktTGt5Yld1UUN5bDA0aW0xd2JLekFDcnpJRzdRV3ltYm13R2gwZUd1UW9FNnVYeVM5ZVlNWGpLYWhHSkRwUEo2RnF4aDJvUFltV195WkNRTmF4WGpWclEtLUNDedIB0AFBVV95cUxOVmZWS0R0QmVqc0JCcjkwZE45d3lMSHdBSUVTRjRMYnp6aVlyUm1TelZJUlRWYTh2R09IVWxhOGJIOXZaZFJHVWdqNmdpc0ZqNmcteTcwcGJsX1lFclZpbC1OdjZFa2tYWFpBcTQtendFTkZfUldRTGJoelpybGVFUXZWZy1DdlZLSHZRbkt4Z2JDUC1BYUdlUnUxcGJaN2N6dnh1LU1PWGNOdmFOR3VlRVF0dUktWlRNR3RpOGR6am1nYm00Y0RPeGhjQ0U4MEVr?oc=5
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help’, Cong hits back with US treasury secy's remarks | India News - Hindustan Times
-  BJP recasts ‘permission’ to buy Russian oil as US seeking India's ‘help
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNeFQtdEY4d2ZZS05uZ1g1N0J4al9DVUJKX0xyTk9IRDItMUJlOU1TWG96UEs2RmNwNHE3NHMyM0dSdWxaRURweEhQX3YxQWUtbEloZFZLSWppaXkxaThNQkJOOFVudVRPNEdYcGlocFdwTXo4WURoYXN0Z2Fwd0h1QTJYZ0l5Qk9SYlVVaF9BVFVWVjRVc29BeUxQMlFGMlUwLUdwaDdWQlVGV0J6MTJfenpVdjlTT1BzQnIyeHEyWWEyb2ZvYXkyeVQ0WXBHTEhadTNyZmRkUGN1czF2bHplSXlpaEZvSEgzWmJqVXQ2Z1lSemk3dTcxXzVCUUs1OW54Q1VheGRjck9jd9IBjwJBVV95cUxQckoxTXBuSTdSaThvbnZPX3dNcUVjRXhDQ0VGTnZoenVpS19WNjhlTTkzU0NiNzhtNFFxTUpkMmlUNjdSVXFYM2VEbVFWTHVVMFcwRjhIdUtoR0VfVHRlQnNfaEhRSEQ2M1pvWEEyTmhxLUYwTWdiSVpWUWlVVUREV1pBMFBubExXTU5xR2cxZHVFbzlCNUdLM0ZzOXZrRTlLaHlTajZjTXhmZXZ6LWd1QXhpZ0p0UDNsWm1LbkFndk41aU94UGs5U01EWlB2QXplQWVoYkxHd0tXRWxwdU94NVJObUtleWdHV3N1cjlLczY2S0t4amt2OUZWYzR6QXBXUEY5cVZyVmZWRkRsTWJZ?oc=5
+- Crude Oil Rally Near 120 Dollars, Raises Big Question If India Can Survive Crisis With Russian Oil - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNE
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSUdwcUQxbkc5SVJ1a2MyMVV0UzJxbEVIbHdIWmdXcy15eWVvQVIwNjJ2Z1NnR0lwQW9pSUI0eEN0UWp2emw2UmhpMGVLZ0xBYi03eDlYdVh1ZlpOTkM5aTBZcUMxQ0NHNEJxa1ZobzhIRlJITGxxV3V5WG5jelc4Wi1JM1J0SE0xVDFlZUxmNURsRTlORGoteThLNUFMUzUzZnV1dFl6Rzdyci1PajUwZjR3OGpBbGRraVUydl9rM2YzMGpqazdDejQwWjhDczdFZG1hOElkQ2FTamlxakdLOVhzU2JDaF9VeExHRXhDLXpkcC16RXdkbFZ5SGhRd9IBgwJBVV95cUxNZkt2cXVUOVphNjdSVjl2WUJicFhUZUxvZ1ZlWE40TDd2emtvcWxoOGhlb0RRR0pRMENCNGRyT0lyYTZzMGlCS2pQSFg4SW1aODN6ODhVNkRCdlE4MDhGQnd0V1dTWC1VVWN4VWJ4WGlJNDBnTUFEc0V0Qk16aUhTMERUazQxQ1IxbWtaVnAxTUNQSTVaaVFKU1lYOE5uOWxKaGs1R19FMkFnUTdEVEx2bkl5T2lHNWVQYlZFYTVJc2ppRHBiRUtFbVZIcEluT1FKZWlFNlFZQ0tuSjJBN0dTVEFyMC1RNld1bE9JNEtEckJJS2tNLUtIYjRaRzdEOG5zVHEw?oc=5
 
-- Why South India’s real estate market is set to surge on massive infrastructure investments - The Times of India
-  Why South India’s real estate market is set to surge on massive
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRUxHbTNFWGxLWmlRM3BYWkJyaTVPdm56RlVqRzZOak14MkR5aWtfZVdkT2RaZWx5d1dpUDdrcW9KUHkxaDQ2QjN1YWlVOVByTWtBRVlZUkIwZ2xqSTZmcmVOM2pSZm1IbzBYT2NSOHRKdjdLcGVDX3d2Q3d0UzNQcjc3MUtseXlYbjJQaEdBT05jSVVzS0U2QWxHVEdtSEpvdGRTRUNQUkJtTE1oUFphVnNURVI4Nlo1cm95TEN0eXdPQ1lCSEdWdUt2MktHVzFjaWhHWllSUEE3RjcyR21pTnVGZlZPekNvNTZfMmFqMm5FeUpRS2toNmRPMznSAYICQVVfeXFMUGZLU3J6VG9KSFY0QlJnWE41SnVkQzRCbnFjcTYwSXRHV1ZXOG5KSEhfajRJVDZyanNRT0VvRjJ2cTFWenZZam1vdHFienFLQTJrUkhfVW42VUp0VkRGZGpwRjZnWW9aYUxQNHJxTTVMT0J1emRGUTJQamlKLWFaS0VOV0dMT3piRUVkMmNrVVpDOFI2bzBCeEJScHZjZ3JTUDNJS2IzckNSb1JaWks2b016RXFTV2Z6X1pxbm1reHZGODNZS2ZwN0tqV25DTUYyblRkMDVuV3ZvVWJTRFAtT2ZDd2ZIdGRQaGdvR3RiRFZMczBlX0ljT0JKOHZuWmUtZ3lB?oc=5
+- ‘Didn’t watch, so they won!’; Amitabh Bachchan’s funny take after India’s big victory - The Times of India
+  ‘Didn’t watch, so they won!�
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeE4ycmR1TW1sSllJeVpWNTFLT05zdlZMa3Y2LTRWUklORUIydHBGUVR5SmczbENqR0hYSlNJT0w1bGItUlJNTFl4RjN2eEdaV1hsX1ZuYnUzd3VMUmdZRlhtTG1jYXFZRHdhd1M1UXUzSEQyUjJxd3V1UkNTbktNRlpvTE9aaENnaUJCMUlMTmlQSnczU0pqalJMRmpvaUdvbXV3MXBLOWZLdnY4d0JKZUVkYXRkR3JjVDJuU1d3OVpfV3M1VUJiQ3ZpZnJJa3VzN0FWNVdhSUhzeVFNYXdZWUZxNVhpY0tleVdwZDZfQUUxNjVXeHpFM2NRQUQ1N2lGYzhCaNIBigJBVV95cUxQSTlJRlNCTzUyeTRCWFVMYzAwWFROMFQ5LURPNkF2R1pmbWlwT19ZcUg1dFB4ekNxc3lRSlNUSnRWVUtWWFkzWHowVUxVYmJPdVlUMktqSFp4RHphSHNJNUdxUWRKT1dFZUhmQWRWTUlGQVBtZVhNWEVfdUFFNTdkLTA2VTNPOWxyNC16ZG1Vb25Fa1VyMVYzOEJNcEJHakUwS2RIX05aX05Ed3gyem9jNFFWSUtaS05jTFdBZHFnbnNYN2NaZDFiNGpzRWF1dHZvcjB0eUJLLWNPVnBjTGpKTVVwc2tlWkd4Rm9QVzgyMFphc1cta256eHNaN2VuNmxMWGZUN3RwbS1tdw?oc=5
 
-- "Every Effort Being Made To Bring Back Stuck Indians": S Jaishankar On Iran War - NDTV
-  "Every Effort Being Made To Bring Back Stuck Indians
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkhXSHVmYUwzUElsZHlFanhkTEw0QkRWZ3gzSWJwck5uUE5rV3I2WlBlcjhqOUJnTlJuN0dGbjlidzVoOHNHWDJHU01wYlBGb2FOVlpINEh1TlI3a3puaE9kdmVUM0U2QW5razRSRHVWUHRDV3U5TkluMUJHMGRsRlNKN3dvYXFOUWhfaFBIUS15Y0o3bTViaXo1MnowM0xibTI5MnpNLTZpd2NnNlRzVWU0YVBBc01PVERfODJxd2tSUng3Qk1oMS1TTkczY0d0VTV3RlhSTHNnRGJTTF9kVXY2SkdiR0E10gHwAUFVX3lxTE00NE44U2Y5SGRNdG1GVUl2NVlGdXlIMHlnTGEwaDFMWFpJd25Wd1RPYUZNVjlMWTZzWlB0X3VUbE9ZUnlqeWF2cHZzQ2VhTGdCWGQzanI1NUZ6WjM0ZThmYW84ZXo5ZkxBZmZURjNmS09wcmE5YnJVamlSZmhYUTEwd1hkNE5jMUh4aFM5QTlWZVBBNFVEbGNaZDU1V0pYQm1FbGdzbHRlU1l1OWZlRURUVTZBMmNNRVB1VUIwT0V0cjNIemRvWjViQWpSX1pzM2FrTWRfNWxkZzluQ1kzSWhoeGxkb0gwTTlHMTI0elg2Nw?oc=5
+- Opposition Ditches Om Birla Trust Vote, Trains Guns On Centre Over Iran War, Oil Shock - NDTV
+  The opposition in India has voted against the Birla Trust
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxOanlzYmlYcDJVV1hNSkl4NXZURXFjZ1RIZ204LTBUSUVrN2VyREV4eE1FTTFLVXJxaUJpRGlwTmhUdnp6aFdmN0I5ZGNtODYyRmh5SmtjRS1NUWFmUnRtVHljcE9ZeXludmtpbTlBMk10Si1Icl9mQmF1V3hOZzVYZkJ3anVxNkt3VEdDUm9BYlU5UjM0WVpxbzJ1LVNSNEgxZXJsSU04cEpkNzl6WjVOM3ZzWlF4TWZGLWJoTHhYanNSaEgyekdTUzB3VmVFR25pdHJfektvQUxnTWFWUXQxSEtTSzJpV2swNHNfTXdMbTFwNVJiemJmYS1OMlcyd9IBhgJBVV95cUxNVGROWklEdHFySzFaOHJaOVpyQTllbF9lWGVfb3VoaGw2Tlh1WUpMQ0ZNWFpwVHViU3h6YmJOMXFEQ3diNFJYYU1yaHRybUdHa0t6Q0RYVVl2bUNpUW94c0o3aXRlTWZLLVlOS0tOYmp5LWY5RU9yU1NPdTF2MGhoWVBLUzBRMnM5YVlQZzllOC0zYUM5QjJtSTdqNlNVcjktblVVRHNhMnNtUUJiNy0xeWViMjVsSGFDNGphVlg2ZmpWWldiWndLQUd6UjBqREppdWlza1R5NEhQT05jV1RqenRPTTFOZUJ5dnF1Q1JhRW4xblVkTml5M0FKbndGc3ZudnJQUDlB?oc=5
+
+- Evening news wrap: Court grants interim bail to Sharjeel Imam; Putin offers support to Iran’s new leader - The Times of India
+  The Times of India: Court grants interim bail to Sharjeel Imam. Putin offers support
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOR3hoZ0R3V2F2enJzQmJCNjd2Nk53WWdlV0ktYW5PNzI2UVl4NDRtQnduN1c3SHJwWS13MWNPazdwd01BQ0FrM2FXckIybUduU3dqX1N2OV9iSDJybDF0Q1ZfZWl1djdub0hwWTI3U3FaZVA5d3UtQmV4UkNKaVIwTmN1R1BGck4tRnJqVmNRWVRRbk9HVTdudVYxQkJLaklDd1VCaURiWnBMNjhEOVJSdHFub21aaHNFdmdEUXBVVEkySC1VQmRpUElVUXJLR1E2UjZKT0pLRGE3bTV5LUxsU2oxMTl3TFB6NVhQTWNoOUNUN01Gd2t0UlpCZGhYY0dENGxJVUJuWEIwUE5DcVdOTkhwVXR1NzVBS2FF0gGgAkFVX3lxTE5Yd00yak1WbjZQZ1FZLTZiM0tZZDZuZXZpWmtsS3NPaFdmb01NdG1FVDV6ZlRUQzdlb0E1N1o2Qm0yLTA0VXlGazdVSmotZ2xyaUt0dnhPQ2ZSTXhGdExfRlB5LXB0YVBCNmFIdHJjTWRYQzZUenlfNzRyT2dyZjllY2Z1WW80RFdDR3V4eW81eTgyRU9YSkhKT2ZUMVE0OE5SaGxKMzV5ZXQ4OWFZSUFRakF4blVaUHJfU1hzWXc5ZDVkSHNJdC1XdmhGNUcxOGhPQ0R1bGJsNDJnZDBJZG1rTWk2VFo1djhERHFRUTUwVUJQNmRoUVVmRDN5eFFudXVCN3BzMmVDdzVEaU9jRUtocjNZd01LNGdEU1ZRcVJ0dQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-09 07:00:30 UTC_
+_Last updated: 2026-03-09 12:55:34 UTC_
