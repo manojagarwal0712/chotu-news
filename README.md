@@ -1,64 +1,84 @@
 # 📰 Daily News Summaries
 
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
+- Gold Rate Today, March 5: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-10-india-price-silver-rally-10574111/
 
-- ‘To take a little pressure off’: Trump on US waiver to India for Russian oil purchase amid Iran war| India News - Hindustan Times
-  ‘To take a little pressure off’: Trump on US waiver to India for Russian oil
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX04wTi1mT0ZJX2hucUthNGU1UFItYnE5VU9FTjl6UWNBN0ZlRm1pTGxOT2pTUlZIZ0M1bEJfZWwtMHJDQkN3N2QtZldMcUFydDEzQy1BYzNscDN2b3VyY1VQRC1NZ3BSZ1RBbFBPYjJFNG5wSXlUWnBiVHBQbmt3RDVnWk40VUlVY3N1MTVseFdmYjJGX1pHSWdDSElDMVE1TTM1X2JlVFN3Q3pJWlMwQmxOTnpsUnlURlhoelBjbUtfM3FYOV91dGZISGhSN1h3bEpvQ0NxbEFMaFRpeFNHNzZRN3VtNkNQQm9ibmdETzk?oc=5
+- NCERT issues unconditional apology to Supreme Court; withdraws Class 8 textbook over controversial ‘judiciary’ chapter
+  
+  🔗 https://indianexpress.com/article/india/ncert-apologises-for-class-8-social-science-textbook-chapter-on-judiciary-10574007/
 
-- Investment in J&K hydro plan gets NHPC nod - The Times of India
-  Investment in J&amp;K hydro
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXBQSnVrTzR6Qm1xSU1CRktiWW8tTlNEUjBPZ0ltVGJjVU9aeWJHbkd5ZGlPOEVrdkRNVXZrQ0hjdy04NVF6QXBod2FONmlqNlR5VHNVMjlsS1FQTGJmcEpoSkxQeTZHWlVKV2NDbmNaUmdzNzhWLTdXdkpjQjdvSVRDQzA5SndYSVZ2Z29kaHd0eXVsb2ExXzNDSVpuZmJkczlWT2htZWhCRm54R0HSAbMBQVVfeXFMTzNFdjd0X1VoZ1h6U3NNaGsyMm5HcXhWSGZvRDRERTVvZS1zNVd0dlVXMkdlVlpZRnVGMVpNdlpnY0h4eVI3YWJGbGJzV0duV0MxUnhkN1RqVWJtN3JGdFRXU0tGNm5zTC1rems1bzI3M0NGcm9veW8wclJKdlM2b01Rb29nWTRiNDMxaVZySUs1MDZkUVRHYTVndmdQNUE3UUVuVjE0OUFSaEhsdEFZeDE5M3c?oc=5
+- ‘I can arrest you’: Row after Giridih DC’s ‘Women’s Day’ warning to protesting water workers goes viral, BJP demands action
+  
+  🔗 https://indianexpress.com/article/india/i-can-arrest-you-row-after-giridih-dcs-womens-day-warning-to-protesting-water-workers-goes-viral-bjp-demands-action-10573680/
 
-- 1,000 Stranded Indians Leave Doha on Qatar Airways Flights in Three Days: Indian Embassy - News On AIR
-  1,000 Stranded Indians Leave Doha on Qatar Airways Flights
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDV4cGRLRWkzSHRuWFpfNXFQVnNhdGdjZV9tUjM2WThGSWRUclIwUHd1UlJwN056QldNS2hyNllUaVNjVm5Ob1JuWWJIVGtBT2V6NGs4TW1kNWNBMC1tNmpwVlhIODlOZlN0ODhKNWVueTRfdHhKT1hlM3JpWEJCRkw4RE83ZFFXd01MaXc5V0EtcE9wSmhFaVRWVjBfbHM3Nm02dXZtRTgwTndoLUQwVl9SbmVWZDA?oc=5
+- Why some cheetahs from Madhya Pradesh are making their way to Rajasthan
+  
+  🔗 https://indianexpress.com/article/india/why-some-cheetahs-from-madhya-pradesh-are-making-their-way-to-rajasthan-10573674/
 
-- Left politicians raise Rahul’s ‘CJP’ comments at opposition meet - The Times of India
-  Left politicians raise Rahul’s ‘C
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ZGUjRQbGl5MXQ5anlnVF9NbTVERnhTNy1yN083ZFltcF9DTzYybi10ZmhZQlRJU0RaWVh2bnZkRUJfa2xqa3RtWFFTdENQOGROUzhhLWtpY05JeWk3aVBGZDV5RXVoUGttNmh0TWxuenpHTXBjR1cxZ0tPdVV4NEVlUW04N2UxQWRBSWpjRG4wNmlvalJtbFNLV3J3SlFEeENCazFNaUJVTGZSVndZWFBETTkzNW1sV3JKUDYtek15OWowQ1hYcg?oc=5
+- Kerala minister Ganesh Kumar’s wife alleges infidelity, he calls it election stunt
+  
+  🔗 https://indianexpress.com/article/india/what-i-saw-in-the-bedroom-i-cannot-explain-kerala-minister-ganesh-kumars-wife-alleges-infidelity-he-calls-it-election-stunt-10573679/
 
-- GCCs managed to ward off AI impact on hiring—not anymore
-  Novartis, Celanese, Eli Lilly and Hyundai have opened AI-dedicated centres to explore automation of internal processes and segments.
-  🔗 https://www.livemint.com/companies/news/new-ai-teams-and-centres-are-making-way-for-gccs-11773045450557.html
+- Microsoft deepens ties with Anthropic, integrates Claude Cowork agentic AI tool with 365 Copilot
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-anthropic-integrates-claude-cowork-agentic-ai-10574127/
 
-- While rivals retreat from default guarantees, Moneyview is doubling down
-  Moneyview’s rising expenses and growing partner list suggest a high-stakes bet on partner-led
-  🔗 https://www.livemint.com/companies/moneyview-doubles-down-on-dlg-lending-ahead-of-ipo-11773048823463.html
+- Anthropic sues to block Pentagon blacklisting over AI use restrictions
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-sues-to-block-pentagon-blacklisting-over-ai-use-restrictions-10573993/
 
-- Ather eyes big distribution push in FY27 adding 400 stores—in stark contrast with Ola Electric's shrunk footprint
-  Ather Energy plans a big distribution push expanding its store network to over 1,100 by March 2027. Read about the newest warfront in Indian electric scooters market blended with insights from an earlier Ather
-  🔗 https://www.livemint.com/companies/india-electric-scooter-ather-distribution-push-ola-electric-shrinks-number-of-stores-11773046053330.html
+- Amid wave of kids’ online safety laws, age-checking tech comes of age
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age-10573980/
 
-- White House prepares executive order to remove Anthropic's Claude AI from federal systems: Axios
-  The White House is preparing an executive order directing federal agencies to remove Anthropic’s Claude AI from government systems. The
-  🔗 https://www.livemint.com/companies/news/white-house-prepares-executive-order-to-remove-anthropics-claude-ai-from-federal-systems-axios-11773099659566.html
+- Bluesky CEO Jay Graber steps down, advisor Toni Schneider named interim chief
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/bluesky-ceo-jay-graber-steps-down-advisor-toni-schneider-named-interim-chief-10573973/
 
-- Law firms field force majeure queries as war sets off panic
-  US and Israel’s joint strikes on Iran evoked retaliatory missile and drone attacks across the Persian Gulf region. That has frozen movement through the Strait of Hormuz, sending Brent
-  🔗 https://www.livemint.com/companies/news/india-companies-force-majeure-west-asia-conflict-trade-disruption-legal-advice-11773047360032.html
+- ‘AI brain fry’: Managing AI tools is mentally draining workers who want to quit, new study warns
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-brain-fry-mentally-draining-workers-new-study-10572863/
 
-- Gold, silver rates today: Gold price regains $5,100 level, silver price up 4%. What should investors do?
-  Spot gold rate today was up 1% to $5,145 per ounce, during the Asian trading hours on Monday. Spot silver prices
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-price-regains-5-100-level-silver-price-up-4-what-should-investors-do-11773103072531.html
+- Sonata Software files bankruptcy petition against US retail client over $10.65 million dues
+  Sonata seeks damages from OBSA Operating Company in a Delaware court. The IT services firm has sought damages amid a client ramp
+  🔗 https://www.livemint.com/companies/news/sonata-software-files-bankruptcy-case-against-retail-client-it-industry-business-11773120124870.html
 
-- Stocks to buy: Raja Venkatraman recommends three stocks for 10 March
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-stock-recommendations-10-march-nifty-sensex-11773102316675.html
+- India now makes 1 in 4 iPhones as Apple assembles entire iPhone 17 lineup locally
+  Apple's iPhone production in India increased by 53% in the past year. The company is now making 1 in 4 iPhones globally sold
+  🔗 https://www.livemint.com/companies/news/india-now-makes-1-in-4-iphones-as-apple-assembles-entire-iphone-17-lineup-locally-11773122136767.html
 
-- Oil falls over 6% as Trump predicts Middle East de-escalation
-  Oil falls over 6%
-  🔗 https://www.livemint.com/market/oil-falls-over-6-as-trump-predicts-middle-east-deescalation-11773104388061.html
+- ‘Unprecedented and unlawful’: OpenAI and Google staff rush to support Anthropic's lawsuit against Pentagon AI blacklist
+  Over 30 OpenAI and Google DeepMind employees have filed an amicus brief in support of Anthropic's lawsuit against the US Defense Department. They argue
+  🔗 https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html
 
-- Stock recommendations for 10 March from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 10 March. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-10-march-top-stock-picks-marketsmith-india-11773054810505.html
+- Who is Sendil Palani? Tesla VP who joined during ‘Deathwatch’ era resigns; Elon Musk thanks him for ‘epic contribution’
+  Sendil Palani, Tesla's VP of Finance, has resigned after 17 years. His departure coincides with the company's shift towards AI and robotics.
+  🔗 https://www.livemint.com/companies/people/who-is-sendil-palani-tesla-vp-who-joined-during-deathwatch-era-resigns-elon-musk-thanks-him-for-epic-contribution-11773114125461.html
 
-- Buy or sell: Amid US-Iran war, Vaishali Parekh recommends three intraday stocks to buy today
-  Vaishali Parekh recommends three intraday stocks to buy
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-amid-us-iran-war-tension-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-11773073373018.html
+- Simon & Schuster names former Amazon executive Greg Greeley as CEO, succeeding Jonathan Karp
+  Simon &amp; Schuster names former Amazon
+  🔗 https://www.livemint.com/companies/simon-schuster-names-former-amazon-executive-greg-greeley-as-ceo-succeeding-jonathan-karp-11773114723499.html
+
+- Bitcoin prices reclaim $70,000 on easing worries in Middle East. Can they rise further?
+  Bitcoin rose as much as 2.32% to $70,581 in early Asian trading on Tuesday.
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-prices-reclaim-70-000-on-easing-worries-in-middle-east-can-they-rise-further-11773118363248.html
+
+- BrahMos missile export: Indonesia agreement may benefit HAL, Data Patterns and 3 other defence stocks
+  Indian defence stocks such as Hindustan Aeronautics, Data Patterns (India), Paras Defence and Space Technologies, Premier Explosives and PTI Industries
+  🔗 https://www.livemint.com/market/stock-market-news/brahmos-missile-export-indonesia-agreement-may-benefit-hal-data-patterns-and-3-other-defence-stocks-11773122165282.html
+
+- 2470% surge in five years! Multibagger small-cap stock hits upper circuit following relief rally on Dalal Street
+  Spice Lounge Food Works shares rose 5% to  ₹30.16 on March 10. Stock has shown substantial gains, up 254% in the past year and 2,470% over
+  🔗 https://www.livemint.com/market/stock-market-news/2470-rally-in-5-years-multibagger-small-cap-stock-spice-lounge-food-works-hits-upper-circuit-as-dalal-street-rises-11773118719781.html
+
+- Park Medi World stock price climbs to a new peak after this update
+  Park Medi World shares jumped as much as 3.5% to a new peak of  ₹208.72 apiece. The IPO investors are meanwhile enjoying 30% returns on their investment as
+  🔗 https://www.livemint.com/market/stock-market-news/park-medi-world-stock-price-climbs-to-a-new-peak-after-this-update-11773122707432.html
+
+- India's First GIFT City IPO by XED postponed to March 16 due to Middle East conflict
+  XED Executive Development's IPO has been postponed to March 16, 2026. GIFT City aims for a $12 million raise, offering US dollar-denominated shares to qualified
+  🔗 https://www.livemint.com/market/ipo/indias-first-gift-city-ipo-by-xed-postponed-due-to-middle-east-conflict-11773120365133.html
 
 - iPhone 18 Pro, iPhone 18 Pro Max launching this year: Expected price, specs and more
   Apple's upcoming iPhone 18 Pro and Pro Max are expected to retain similar display sizes while featuring under-display Face ID and a new unified design
@@ -80,105 +100,113 @@
   Generative AI has made it easier for hackers to reveal the identities of anonymous social media users. Researchers found that AI can match online profiles to real identities.
   🔗 https://www.livemint.com/technology/tech-news/researchers-warn-ai-language-models-can-successfully-match-anonymous-internet-users-to-their-real-identities-11773037863128.html
 
-- Stock Market Highlights: Sensex Down 1,300 Points, Nifty Finishes 420 Lower - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGxBZmU4WnhVMXFmZk5PTlpjRmpEWmJJNVB4VVBMS3FlZG1wY1NOUWJXR0pydGw1NzFaNkt2UGJVSEVUQU1qWEJKd0VhTjJYaGwtU25QX05vQlAwTXQ1dVo4a3BXanhOak
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGxBZmU4WnhVMXFmZk5PTlpjRmpEWmJJNVB4VVBMS3FlZG1wY1NOUWJXR0pydGw1NzFaNkt2UGJVSEVUQU1qWEJKd0VhTjJYaGwtU25QX05vQlAwTXQ1dVo4a3BXanhOakt4M205NHlmZlBVY3YxRTZfbC11S3VCRGRoaGljX0c4WUtLUzhYWGE4X1I1V0N1NmsyUXRRUFd5WW12MXhMWHF1akxEbUllcVNVS2RXUzdQR3fSAcIBQVVfeXFMT1BnOXRHMGFhU1dCeVJxSllCTHdIbS1PQzF6N0E0Y1JkQy1vbjAtaWxuTTNqSFpESEVMMjhlUk0tRzF0NUVuRzlNdUxCRFBCSmxtQ29lRk9NNElPajdaRUw0OFhLWk5WUkh0dVM0Vk1pM3VVV1NPTU1WZ1F2NVlkbUZlaWx0SjJWTFUxd0pYbUpZRzVZeTNobFBqSHFWU0ZFbWhWREFNT0hVaFhaRV8wUV9IUFBUcGx2WnNxYXVRRHZsWnc?oc=5
+- Global Market |  Strait of Hormuz tensions keeping oil markets on edge: Richard Yetsenga
+  Global oil markets are experiencing sharp volatility due to geopolitical tensions in West Asia. Asian economies, heavily reliant on imported energy, are particularly vulnerable and are considering emergency responses.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-strait-of-hormuz-tensions-keeping-oil-markets-on-edge-richard-yetsenga/articleshow/129378741.cms
 
-- Asia markets moderate losses after reported Saudi oil release slightly ease prices - CNBC
-  Asia markets moderate losses after reported Saudi oil release slightly
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxmSjNuZUwwa0g2cVlyVFpBejJLLVRuV3dBdzdfcVhBUjk5bDdVdUdCQzFQZXhYa0t1Y0tGSUJwcUdkaUs5RHdBZmVOYUVFODc0cXNvSEhnMU9icHk3b1lTM0Jic1ByVmVxbHVqam1LN0FmTzBBTHN2dkhKV3ZBd0phX3VEX3FMbjd5X2VtVEhhSnJmVXI0VTQwbWF4ZXF4VFJtLXRUWnIzVjA2M1pTZkxyODN5NmZXVnfSAb8BQVVfeXFMUE82Ul85ZmlvQTltbjNOVGVGbTBVQXRYUkNkVHptTUhxb290d3VWX1VzaDFTcVgxbmFQVkN6VEFyTkN0YjA0bFVhbGpsSUhMWldsbEVsRmhvUlF5MU5ULXJULW9YZEZSaHNiUTRiZW8wUGEyMEpNd0hSZllxWDY1M0xoSGtSSVpjSXdtbEs1MkppNnlBU004dWdIeGpuWDE2cDVnUjBKRXp0YUhHLU1WY09RVGlkR21obk9tdlE4M28?oc=5
+- India bonds perk up as Trump remark cools oil; state sale eyed
+  Indian government bonds saw a rebound as oil prices dropped significantly following President Trump's comments on the Iran conflict. Despite this relief, traders remain cautious due to ongoing Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-perk-up-as-trump-remark-cools-oil-state-sale-eyed/articleshow/129378596.cms
 
-- G7 to take 'necessary measures' to support energy supplies - BBC
-  G7 to take 'necessary measures
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSy1lNEhYY3Y0T0N6N0x2OWo4aGNtdElMRnVYMExsbEJ6d3VUbjc1VWlDaWhDVGFWWVFHOTFlZTJCUjZBX3Z5TDJvbkNnRXRGeGwyeURmUFlMZw?oc=5
+- Bitcoin rebounds to $70K as easing Middle East tensions and oil price pullback lift crypto sentiment
+  Bitcoin has rebounded towards $70,000, gaining nearly 3.50% in a day. Major altcoins also saw significant gains, with the global crypto market capitalization rising to $2.38 trillion.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-to-70k-as-easing-middle-east-tensions-and-oil-price-pullback-lift-crypto-sentiment/articleshow/129377567.cms
 
-- Iran war threatens prolonged impact on energy markets as oil prices rise - Al Jazeera
-  Iran war threatens prolonged impact on energy markets as oil prices
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1N6azFLTkk2alZ5RFlOY3E5WWRmVGhoZU83ZFZXVW83SWZlTzBfWkdZNzZJUkVHdko3Qkp5SmFBX01mQ3NRZDVLd0tEVmdYS3JHTkhrdTh4M3Z1MEF4eU1URzlEU3JkQ1NXVGJzQ0dGVFFzeGI0QzRZd19uelFHUWhpUmVwUFk0RF9tcEJmRDBnVlJVTDFFX0Vyc0dIWEdKLXppZDhNRXpDVF9mM0lpZXNR0gG3AUFVX3lxTE93VUY2WXpfSVdpRHVKMkIycUNiWWtTVjB5LXJBeW1VZ3VLbmdOdkxYdHN2YWpqR3k4Z0pMc1UxcWxEWGp5M2o0VEV0TmFacjFjNGhYN3AxREE2NjRmN1A2OW5sT1ppZkZobHlUU1Vob0dBemNjLV9fTXFyLTVIYUdZQmlhUGZBMzN1RHpleFY0T3IwbzVlNW5YMHlJY0Y1QUpnQUdnNWxzWlRjdGZpX1pUODlBTHZFdw?oc=5
+- Three decades of markets: A Balasubramanian on compounding, investor evolution and India’s long-term promise
+  Market veteran A Balasubramanian highlights India's capital market evolution since the 1990s. He notes increased investor participation and confidence, asserting India's resilience.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/three-decades-of-markets-a-balasubramanian-on-compounding-investor-evolution-and-indias-long-term-promise/articleshow/129377603.cms
 
-- West Asia conflict oil hike, market reactions highlights: Markets tumble, Rupee closes at all-time low - The Hindu
-  The Indian rupee closed at an all-time low against the US
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbWJwMGwtZXYybDVtaF9ERlpuZWJZTkF0UDJva2NOZTFNY245SWxKOVAycHQyTkpPVlYzVExxQXVFd3ZLaG50dE9ZTE0yaU9ybHRwbVhLRkwzYTkwMERjTGtsQUtpWGZGZm5SbFpjbXU0MGpBUnRYeUo1WkxIWVJnTXJ0Z1FZUzN6U3Z5Y0FZRXI5RXNjRUFCVHVQNUdRMXU1UUpoQ0x1c0Q4R3E4eFFXdThSYWxPd1RVVncyRHZnUENCMFVjMDI0WGYyTzY3R0tQZWRmR1VWRzBQcjVoaHV0VXlVSGZQYTYyVGtiSTBzdU5BMVhRWmd5ZzBfTdIBggJBVV95cUxOcU5jX3p4Tmp0alBrNkV4cXBIenFtbDJrUnhnN3VpNk0wZnZwM0RQcnNJc1NKbGpDa3Q3dngwYjkxWVk3N2I3M1BaSGY4cHFNbC0xYm1BelN3aFZBVVNKYzNwZktnMUVHV1VQbnJGMUZlckFMeXkxMTBzUk4zOXJoVGJtZWhCNWhDUnRkMUV1NlJVNWVEMS1iVDdMZGRIUGdoUE5KZDNVVTBRNGt3M2ZCZXRxc0RjUXZzVkpMbWRLb19Wcl91cW5NNWFFYTZlWWpMTlcxRkc5ZXlGVmtNNmRnYmYtWlIzbTlCSE1TYzc5ZEdzRlYxMnUtVEpRRFg3Y1RXV2c?oc=5
-
-- Oil falls over 6% as Trump predicts Middle East de-escalation
-  Oil prices dropped significantly after reaching three-year highs. President Trump suggested the Middle East conflict could end soon. This eased fears of prolonged supply disruptions.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-over-6-as-trump-predicts-middle-east-de-escalation/articleshow/129365796.cms
-
-- Dalal Street sinks to 10-month low amid panic selling as crude crosses $100
-  Indian stock markets experienced a significant downturn on Monday. Key indices reached a 10-month low as oil prices surged past $100 a barrel. Foreign investors sold shares heavily.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-sinks-to-10-month-low-amid-panic-selling-as-crude-crosses-100/articleshow/129365630.cms
-
-- US Stock Market | JPMorgan sees 10% correction in S&amp;P 500
-  JPMorgan's trading desk is tactically bearish on US stocks, warning of a potential 10% S&amp;P 500 correction due to the ongoing Iran conflict. Traders are unprepared for this drop, with positioning currently neutral
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-jpmorgan-sees-10-correction-in-sp-500/articleshow/129365458.cms
-
-- Edelweiss raises Rs 375 crore in alternatives arm
-  Edelweiss Financial Services has secured fresh capital for its alternatives arm, EAAA India Alternatives. The move precedes the platform's planned listing in India's private credit and real assets sector.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/edelweiss-raises-rs-375-crore-in-alternatives-arm/articleshow/129365308.cms
-
-- A crypto coin's rise is fuelled by US treasury backing
-  Stablecoins, pegged to the US dollar and backed by Treasurys, are revolutionizing finance. President Trump champions their adoption, viewing them as a path to making America the 'Crypto Capital'
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/a-crypto-coins-rise-is-fuelled-by-us-treasury-backing/articleshow/129365201.cms
+- Defence stocks can rally up to 38%, says Motilal Oswal. Here are 4 reasons why
+  Motilal Oswal highlights Hindustan Aeronautics and Bharat Dynamics as top picks, citing rising geopolitical tensions. Strong order inflows further bolster the bullish outlook for these companies.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-can-rally-up-to-38-says-motilal-oswal-here-are-4-reasons-why/articleshow/129377098.cms
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- ‘To take a little pressure off’: Trump on US waiver to India for Russian oil purchase amid Iran war| India News - Hindustan Times
-  ‘To take a little pressure off’: Trump on US waiver to India for Russian oil
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX04wTi1mT0ZJX2hucUthNGU1UFItYnE5VU9FTjl6UWNBN0ZlRm1pTGxOT2pTUlZIZ0M1bEJfZWwtMHJDQkN3N2QtZldMcUFydDEzQy1BYzNscDN2b3VyY1VQRC1NZ3BSZ1RBbFBPYjJFNG5wSXlUWnBiVHBQbmt3RDVnWk40VUlVY3N1MTVseFdmYjJGX1pHSWdDSElDMVE1TTM1X2JlVFN3Q3pJWlMwQmxOTnpsUnlURlhoelBjbUtfM3FYOV91dGZISGhSN1h3bEpvQ0NxbEFMaFRpeFNHNzZRN3VtNkNQQm9ibmdETzk?oc=5
+- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
+  ‘Contact with Iran leadership difficult’: Jaishankar spells
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
 
-- Investment in J&K hydro plan gets NHPC nod - The Times of India
-  Investment in J&amp;K hydro
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXBQSnVrTzR6Qm1xSU1CRktiWW8tTlNEUjBPZ0ltVGJjVU9aeWJHbkd5ZGlPOEVrdkRNVXZrQ0hjdy04NVF6QXBod2FONmlqNlR5VHNVMjlsS1FQTGJmcEpoSkxQeTZHWlVKV2NDbmNaUmdzNzhWLTdXdkpjQjdvSVRDQzA5SndYSVZ2Z29kaHd0eXVsb2ExXzNDSVpuZmJkczlWT2htZWhCRm54R0HSAbMBQVVfeXFMTzNFdjd0X1VoZ1h6U3NNaGsyMm5HcXhWSGZvRDRERTVvZS1zNVd0dlVXMkdlVlpZRnVGMVpNdlpnY0h4eVI3YWJGbGJzV0duV0MxUnhkN1RqVWJtN3JGdFRXU0tGNm5zTC1rems1bzI3M0NGcm9veW8wclJKdlM2b01Rb29nWTRiNDMxaVZySUs1MDZkUVRHYTVndmdQNUE3UUVuVjE0OUFSaEhsdEFZeDE5M3c?oc=5
+- India news: FM Jaishankar briefs parliament on Iran war - dw.com
+  India news: FM Jaishank
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
 
-- 1,000 Stranded Indians Leave Doha on Qatar Airways Flights in Three Days: Indian Embassy - News On AIR
-  1,000 Stranded Indians Leave Doha on Qatar Airways Flights
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDV4cGRLRWkzSHRuWFpfNXFQVnNhdGdjZV9tUjM2WThGSWRUclIwUHd1UlJwN056QldNS2hyNllUaVNjVm5Ob1JuWWJIVGtBT2V6NGs4TW1kNWNBMC1tNmpwVlhIODlOZlN0ODhKNWVueTRfdHhKT1hlM3JpWEJCRkw4RE83ZFFXd01MaXc5V0EtcE9wSmhFaVRWVjBfbHM3Nm02dXZtRTgwTndoLUQwVl9SbmVWZDA?oc=5
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+  Iris Dena: Torpedo
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
 
-- Left politicians raise Rahul’s ‘CJP’ comments at opposition meet - The Times of India
-  Left politicians raise Rahul’s ‘C
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ZGUjRQbGl5MXQ5anlnVF9NbTVERnhTNy1yN083ZFltcF9DTzYybi10ZmhZQlRJU0RaWVh2bnZkRUJfa2xqa3RtWFFTdENQOGROUzhhLWtpY05JeWk3aVBGZDV5RXVoUGttNmh0TWxuenpHTXBjR1cxZ0tPdVV4NEVlUW04N2UxQWRBSWpjRG4wNmlvalJtbFNLV3J3SlFEeENCazFNaUJVTGZSVndZWFBETTkzNW1sV3JKUDYtek15OWowQ1hYcg?oc=5
-
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
-
-- ‘To take a little pressure off’: Trump on US waiver to India for Russian oil purchase amid Iran war| India News - Hindustan Times
-  ‘To take a little pressure off’: Trump on US waiver to India for Russian oil
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX04wTi1mT0ZJX2hucUthNGU1UFItYnE5VU9FTjl6UWNBN0ZlRm1pTGxOT2pTUlZIZ0M1bEJfZWwtMHJDQkN3N2QtZldMcUFydDEzQy1BYzNscDN2b3VyY1VQRC1NZ3BSZ1RBbFBPYjJFNG5wSXlUWnBiVHBQbmt3RDVnWk40VUlVY3N1MTVseFdmYjJGX1pHSWdDSElDMVE1TTM1X2JlVFN3Q3pJWlMwQmxOTnpsUnlURlhoelBjbUtfM3FYOV91dGZISGhSN1h3bEpvQ0NxbEFMaFRpeFNHNzZRN3VtNkNQQm9ibmdETzk?oc=5
-
-- Investment in J&K hydro plan gets NHPC nod - The Times of India
-  Investment in J&amp;K hydro
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXBQSnVrTzR6Qm1xSU1CRktiWW8tTlNEUjBPZ0ltVGJjVU9aeWJHbkd5ZGlPOEVrdkRNVXZrQ0hjdy04NVF6QXBod2FONmlqNlR5VHNVMjlsS1FQTGJmcEpoSkxQeTZHWlVKV2NDbmNaUmdzNzhWLTdXdkpjQjdvSVRDQzA5SndYSVZ2Z29kaHd0eXVsb2ExXzNDSVpuZmJkczlWT2htZWhCRm54R0HSAbMBQVVfeXFMTzNFdjd0X1VoZ1h6U3NNaGsyMm5HcXhWSGZvRDRERTVvZS1zNVd0dlVXMkdlVlpZRnVGMVpNdlpnY0h4eVI3YWJGbGJzV0duV0MxUnhkN1RqVWJtN3JGdFRXU0tGNm5zTC1rems1bzI3M0NGcm9veW8wclJKdlM2b01Rb29nWTRiNDMxaVZySUs1MDZkUVRHYTVndmdQNUE3UUVuVjE0OUFSaEhsdEFZeDE5M3c?oc=5
-
-- 1,000 Stranded Indians Leave Doha on Qatar Airways Flights in Three Days: Indian Embassy - News On AIR
-  1,000 Stranded Indians Leave Doha on Qatar Airways Flights
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDV4cGRLRWkzSHRuWFpfNXFQVnNhdGdjZV9tUjM2WThGSWRUclIwUHd1UlJwN056QldNS2hyNllUaVNjVm5Ob1JuWWJIVGtBT2V6NGs4TW1kNWNBMC1tNmpwVlhIODlOZlN0ODhKNWVueTRfdHhKT1hlM3JpWEJCRkw4RE83ZFFXd01MaXc5V0EtcE9wSmhFaVRWVjBfbHM3Nm02dXZtRTgwTndoLUQwVl9SbmVWZDA?oc=5
-
-- Left politicians raise Rahul’s ‘CJP’ comments at opposition meet - The Times of India
-  Left politicians raise Rahul’s ‘C
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ZGUjRQbGl5MXQ5anlnVF9NbTVERnhTNy1yN083ZFltcF9DTzYybi10ZmhZQlRJU0RaWVh2bnZkRUJfa2xqa3RtWFFTdENQOGROUzhhLWtpY05JeWk3aVBGZDV5RXVoUGttNmh0TWxuenpHTXBjR1cxZ0tPdVV4NEVlUW04N2UxQWRBSWpjRG4wNmlvalJtbFNLV3J3SlFEeENCazFNaUJVTGZSVndZWFBETTkzNW1sV3JKUDYtek15OWowQ1hYcg?oc=5
+- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
+  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- ‘To take a little pressure off’: Trump on US waiver to India for Russian oil purchase amid Iran war| India News - Hindustan Times
-  ‘To take a little pressure off’: Trump on US waiver to India for Russian oil
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX04wTi1mT0ZJX2hucUthNGU1UFItYnE5VU9FTjl6UWNBN0ZlRm1pTGxOT2pTUlZIZ0M1bEJfZWwtMHJDQkN3N2QtZldMcUFydDEzQy1BYzNscDN2b3VyY1VQRC1NZ3BSZ1RBbFBPYjJFNG5wSXlUWnBiVHBQbmt3RDVnWk40VUlVY3N1MTVseFdmYjJGX1pHSWdDSElDMVE1TTM1X2JlVFN3Q3pJWlMwQmxOTnpsUnlURlhoelBjbUtfM3FYOV91dGZISGhSN1h3bEpvQ0NxbEFMaFRpeFNHNzZRN3VtNkNQQm9ibmdETzk?oc=5
+- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
+  ‘Contact with Iran leadership difficult’: Jaishankar spells
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
 
-- Investment in J&K hydro plan gets NHPC nod - The Times of India
-  Investment in J&amp;K hydro
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXBQSnVrTzR6Qm1xSU1CRktiWW8tTlNEUjBPZ0ltVGJjVU9aeWJHbkd5ZGlPOEVrdkRNVXZrQ0hjdy04NVF6QXBod2FONmlqNlR5VHNVMjlsS1FQTGJmcEpoSkxQeTZHWlVKV2NDbmNaUmdzNzhWLTdXdkpjQjdvSVRDQzA5SndYSVZ2Z29kaHd0eXVsb2ExXzNDSVpuZmJkczlWT2htZWhCRm54R0HSAbMBQVVfeXFMTzNFdjd0X1VoZ1h6U3NNaGsyMm5HcXhWSGZvRDRERTVvZS1zNVd0dlVXMkdlVlpZRnVGMVpNdlpnY0h4eVI3YWJGbGJzV0duV0MxUnhkN1RqVWJtN3JGdFRXU0tGNm5zTC1rems1bzI3M0NGcm9veW8wclJKdlM2b01Rb29nWTRiNDMxaVZySUs1MDZkUVRHYTVndmdQNUE3UUVuVjE0OUFSaEhsdEFZeDE5M3c?oc=5
+- India news: FM Jaishankar briefs parliament on Iran war - dw.com
+  India news: FM Jaishank
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
 
-- 1,000 Stranded Indians Leave Doha on Qatar Airways Flights in Three Days: Indian Embassy - News On AIR
-  1,000 Stranded Indians Leave Doha on Qatar Airways Flights
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDV4cGRLRWkzSHRuWFpfNXFQVnNhdGdjZV9tUjM2WThGSWRUclIwUHd1UlJwN056QldNS2hyNllUaVNjVm5Ob1JuWWJIVGtBT2V6NGs4TW1kNWNBMC1tNmpwVlhIODlOZlN0ODhKNWVueTRfdHhKT1hlM3JpWEJCRkw4RE83ZFFXd01MaXc5V0EtcE9wSmhFaVRWVjBfbHM3Nm02dXZtRTgwTndoLUQwVl9SbmVWZDA?oc=5
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+  Iris Dena: Torpedo
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
 
-- Left politicians raise Rahul’s ‘CJP’ comments at opposition meet - The Times of India
-  Left politicians raise Rahul’s ‘C
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ZGUjRQbGl5MXQ5anlnVF9NbTVERnhTNy1yN083ZFltcF9DTzYybi10ZmhZQlRJU0RaWVh2bnZkRUJfa2xqa3RtWFFTdENQOGROUzhhLWtpY05JeWk3aVBGZDV5RXVoUGttNmh0TWxuenpHTXBjR1cxZ0tPdVV4NEVlUW04N2UxQWRBSWpjRG4wNmlvalJtbFNLV3J3SlFEeENCazFNaUJVTGZSVndZWFBETTkzNW1sV3JKUDYtek15OWowQ1hYcg?oc=5
+- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
+  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
+
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
+
+- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
+  ‘Contact with Iran leadership difficult’: Jaishankar spells
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
+
+- India news: FM Jaishankar briefs parliament on Iran war - dw.com
+  India news: FM Jaishank
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
+
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+  Iris Dena: Torpedo
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
+
+- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
+  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-10 01:31:12 UTC_
+_Last updated: 2026-03-10 06:46:25 UTC_
