@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Gold Rate Today, March 5: Check 18, 22 and 24 carat gold prices Chennai, Mumbai, Delhi, Kolkata and other cities
+- ‘Anti-national, subversive activities’: 3 J-K Jal Shakti workers dismissed from service
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-march-10-india-price-silver-rally-10574111/
+  🔗 https://indianexpress.com/article/india/anti-national-activities-j-k-jal-shakti-workers-dismissed-10574967/
 
-- NCERT issues unconditional apology to Supreme Court; withdraws Class 8 textbook over controversial ‘judiciary’ chapter
+- Uproar in Rajya Sabha over Bengal SIR: As Opposition MPs stage walkout, Nadda says their only aim is to incite ‘anarchy’
   
-  🔗 https://indianexpress.com/article/india/ncert-apologises-for-class-8-social-science-textbook-chapter-on-judiciary-10574007/
+  🔗 https://indianexpress.com/article/india/rajya-sabha-walkout-west-bengal-electoral-rolls-sir-jp-nadda-tmc-10574861/
 
-- ‘I can arrest you’: Row after Giridih DC’s ‘Women’s Day’ warning to protesting water workers goes viral, BJP demands action
+- Wangchuk to Kejriwal, Modi govt normalising jailing people on bogus charges: Sisodia in Jammu
   
-  🔗 https://indianexpress.com/article/india/i-can-arrest-you-row-after-giridih-dcs-womens-day-warning-to-protesting-water-workers-goes-viral-bjp-demands-action-10573680/
+  🔗 https://indianexpress.com/article/india/wangchuk-kejriwal-modi-govt-jailing-people-bogus-charges-sisodia-jammu-10574627/
 
-- Why some cheetahs from Madhya Pradesh are making their way to Rajasthan
+- Exclusive: Union Cabinet approves Jal Jeevan Mission extension until 2028 with lower allocation
   
-  🔗 https://indianexpress.com/article/india/why-some-cheetahs-from-madhya-pradesh-are-making-their-way-to-rajasthan-10573674/
+  🔗 https://indianexpress.com/article/india/jal-jeevan-mission-extension-2028-approval-151-lakh-crore-10574604/
 
-- Kerala minister Ganesh Kumar’s wife alleges infidelity, he calls it election stunt
+- In his swan song yatra, Nitish strikes optimistic note for Bihar; deputy says he’s not going anywhere
   
-  🔗 https://indianexpress.com/article/india/what-i-saw-in-the-bedroom-i-cannot-explain-kerala-minister-ganesh-kumars-wife-alleges-infidelity-he-calls-it-election-stunt-10573679/
+  🔗 https://indianexpress.com/article/india/nitish-kumar-final-yatra-bihar-cm-supaul-nda-10574528/
 
-- Microsoft deepens ties with Anthropic, integrates Claude Cowork agentic AI tool with 365 Copilot
+- BSNL Kavach allows women to recharge phones without revealing mobile number: Here’s what it means
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-anthropic-integrates-claude-cowork-agentic-ai-10574127/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/bsnl-kavach-feature-recharge-store-temporary-mobile-number-10574848/
 
-- Anthropic sues to block Pentagon blacklisting over AI use restrictions
+- AI models can be used to unmask anonymous social media accounts, new study warns
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-sues-to-block-pentagon-blacklisting-over-ai-use-restrictions-10573993/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-unmask-anonymous-social-media-accounts-new-study-10574629/
 
-- Amid wave of kids’ online safety laws, age-checking tech comes of age
+- SanDisk’s smallest 1TB USB-C flash drive launches in India starting at Rs 2,049
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amid-wave-of-kids-online-safety-laws-age-checking-tech-comes-of-age-10573980/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sandisk-extreme-fit-usb-c-flash-drive-india-rs-2049-10574616/
 
-- Bluesky CEO Jay Graber steps down, advisor Toni Schneider named interim chief
+- 1 in 4 iPhones are now made in India as Apple ramps up production by 53 per cent
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bluesky-ceo-jay-graber-steps-down-advisor-toni-schneider-named-interim-chief-10573973/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-india-production-53-per-cent-increase-10566334/
 
-- ‘AI brain fry’: Managing AI tools is mentally draining workers who want to quit, new study warns
+- Anthropic rolls out Code Reviews that can catch bugs often unnoticed by human reviewers
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-brain-fry-mentally-draining-workers-new-study-10572863/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-rolls-out-code-reviews-10574338/
 
-- Sonata Software files bankruptcy petition against US retail client over $10.65 million dues
-  Sonata seeks damages from OBSA Operating Company in a Delaware court. The IT services firm has sought damages amid a client ramp
-  🔗 https://www.livemint.com/companies/news/sonata-software-files-bankruptcy-case-against-retail-client-it-industry-business-11773120124870.html
+- Ghosted by the bot: Why IndiaMART is desperate to be visible on ChatGPT
+  IndiaMART has dragged OpenAI to court, arguing that its exclusion from such results on ChatGPT has had a catastrophic impact on its business.
+  🔗 https://www.livemint.com/companies/indiamart-v-openai-the-future-of-b2b-discovery-11773140694232.html
 
-- India now makes 1 in 4 iPhones as Apple assembles entire iPhone 17 lineup locally
-  Apple's iPhone production in India increased by 53% in the past year. The company is now making 1 in 4 iPhones globally sold
-  🔗 https://www.livemint.com/companies/news/india-now-makes-1-in-4-iphones-as-apple-assembles-entire-iphone-17-lineup-locally-11773122136767.html
+- US court dismisses Anti-Terrorism Act lawsuit against Binance, founder Changpeng Zhao — here is all we know
+  A US federal court has dismissed an anti-terrorism lawsuit filed by 535 plaintiffs against Binance and its founder Changpeng
+  🔗 https://www.livemint.com/companies/news/us-court-dismisses-anti-terrorism-act-lawsuit-against-binance-founder-changpeng-zhao-heres-all-we-know-11773139044904.html
 
-- ‘Unprecedented and unlawful’: OpenAI and Google staff rush to support Anthropic's lawsuit against Pentagon AI blacklist
-  Over 30 OpenAI and Google DeepMind employees have filed an amicus brief in support of Anthropic's lawsuit against the US Defense Department. They argue
-  🔗 https://www.livemint.com/companies/news/unprecedented-and-unlawful-openai-and-google-staff-rush-to-support-anthropics-lawsuit-against-pentagon-ai-blacklist-11773113859089.html
+- Experimenting with vibe coding? Nithin Kamath says ‘If I traded and had Claude…’
+  Kite lets users build portfolio dashboards, backtesting setups, market insight tools, and even automated trading setups. Zerodha
+  🔗 https://www.livemint.com/companies/people/experimenting-with-vibe-coding-nithin-kamath-says-if-i-traded-and-had-claude-11773130466798.html
 
-- Who is Sendil Palani? Tesla VP who joined during ‘Deathwatch’ era resigns; Elon Musk thanks him for ‘epic contribution’
-  Sendil Palani, Tesla's VP of Finance, has resigned after 17 years. His departure coincides with the company's shift towards AI and robotics.
-  🔗 https://www.livemint.com/companies/people/who-is-sendil-palani-tesla-vp-who-joined-during-deathwatch-era-resigns-elon-musk-thanks-him-for-epic-contribution-11773114125461.html
+- Meta closes Tel Aviv office amid Israel-Iran war, affecting nearly 1,000 employees: Report
+   Meta has temporarily closed its Tel Aviv office due to the ongoing Israel-Iran war, impacting its 900 employees. The company will provide hotel stays for those without safe shelter.
+  🔗 https://www.livemint.com/companies/news/meta-closes-tel-aviv-office-amid-israel-iran-war-affecting-nearly-1-000-employees-report-11773126340896.html
 
-- Simon & Schuster names former Amazon executive Greg Greeley as CEO, succeeding Jonathan Karp
-  Simon &amp; Schuster names former Amazon
-  🔗 https://www.livemint.com/companies/simon-schuster-names-former-amazon-executive-greg-greeley-as-ceo-succeeding-jonathan-karp-11773114723499.html
+- Inside Royal Orchid’s playbook for India’s next hotel boom
+  Royal Orchid Hotels runs brands such as Regenta Hotels and Iconiqa Hotels
+  🔗 https://www.livemint.com/companies/news/royal-orchid-hotels-regenta-iconiqa-hospitality-industry-branded-hotels-travel-tour-franchise-11773118762375.html
 
-- Bitcoin prices reclaim $70,000 on easing worries in Middle East. Can they rise further?
-  Bitcoin rose as much as 2.32% to $70,581 in early Asian trading on Tuesday.
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-prices-reclaim-70-000-on-easing-worries-in-middle-east-can-they-rise-further-11773118363248.html
+- Redington shares shot up 11.5% after this Apple report on iPhone making in India
+  Redington share price rose 11.6% to  ₹259.30, ending a five-day decline. Surge follows a report of a 53% increase in iPhone production in India
+  🔗 https://www.livemint.com/market/stock-market-news/redington-shares-shot-up-11-5-after-this-apple-report-on-iphone-making-in-india-11773142069630.html
 
-- BrahMos missile export: Indonesia agreement may benefit HAL, Data Patterns and 3 other defence stocks
-  Indian defence stocks such as Hindustan Aeronautics, Data Patterns (India), Paras Defence and Space Technologies, Premier Explosives and PTI Industries
-  🔗 https://www.livemint.com/market/stock-market-news/brahmos-missile-export-indonesia-agreement-may-benefit-hal-data-patterns-and-3-other-defence-stocks-11773122165282.html
+- Silver rate jumps more than 4% on MCX, touches  ₹2.8 lakh— Is it the right time to buy the white metal?
+  Silver prices have gained more than  ₹42,000, or 18%, this year so far in the spot market. Silver benefits from both investment demand and strong industrial usage in sectors such as solar
+  🔗 https://www.livemint.com/market/commodities/silver-rate-jumps-more-than-4-on-mcx-touches-2-8-lakh-is-it-the-right-time-to-buy-the-white-metal-11773139520915.html
 
-- 2470% surge in five years! Multibagger small-cap stock hits upper circuit following relief rally on Dalal Street
-  Spice Lounge Food Works shares rose 5% to  ₹30.16 on March 10. Stock has shown substantial gains, up 254% in the past year and 2,470% over
-  🔗 https://www.livemint.com/market/stock-market-news/2470-rally-in-5-years-multibagger-small-cap-stock-spice-lounge-food-works-hits-upper-circuit-as-dalal-street-rises-11773118719781.html
+- IndiGo, IOC to Petronet LNG: US-Iran war pushes 75 stocks from Nifty 500 pack into bears' grip
+  From the Nifty 500 pack, some 75 stocks have seen a decline of 10% or more, pushing them into bear grip.
+  🔗 https://www.livemint.com/market/stock-market-news/indigo-ioc-to-petronet-lng-us-iran-war-pushes-75-stocks-from-nifty-500-pack-into-bears-grip-11773140620598.html
 
-- Park Medi World stock price climbs to a new peak after this update
-  Park Medi World shares jumped as much as 3.5% to a new peak of  ₹208.72 apiece. The IPO investors are meanwhile enjoying 30% returns on their investment as
-  🔗 https://www.livemint.com/market/stock-market-news/park-medi-world-stock-price-climbs-to-a-new-peak-after-this-update-11773122707432.html
+- Top Gainers &amp; Losers on Mar 10: Rashtriya Chemicals, Redington, Tejas Networks, Dixon Tech among top gainers
+  Nifty 50 up 1% and BSE Sensex up 0.82%. Fertilizer stocks surged, while some tech and cable stocks faced losses.
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-mar-10-rashtriya-chemicals-redington-tejas-networks-dixon-tech-hero-motocorp-among-top-11773139538487.html
 
-- India's First GIFT City IPO by XED postponed to March 16 due to Middle East conflict
-  XED Executive Development's IPO has been postponed to March 16, 2026. GIFT City aims for a $12 million raise, offering US dollar-denominated shares to qualified
-  🔗 https://www.livemint.com/market/ipo/indias-first-gift-city-ipo-by-xed-postponed-due-to-middle-east-conflict-11773120365133.html
+- Israel stock market today: TA 125 index jumps over 1% amid de-escalation buzz in US-Iran war
+  The TA-125 Index rose 1.2%, while crude oil prices fell 10% after Trump hinted at easing sanctions amidst ongoing Middle East tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/israel-stock-market-today-ta-125-index-jumps-over-1-amid-de-escalation-buzz-in-us-iran-war-11773135344377.html
+
+- iPhone Fold leaks: Expected price, release date, specifications and more
+  Apple's foldable iPhone is likely to launch later this year. The phone could feature a dual rear camera setup and four
+  🔗 https://www.livemint.com/technology/gadgets/iphone-fold-leaks-expected-price-release-date-specifications-and-more-11773140252782.html
+
+- Russia-backed hackers target Signal and WhatsApp accounts: How the attack works, how to stay safe and more
+  Dutch intelligence agencies warn of a global cyber campaign by Russian-backed hackers. Hackers are using phishing techniques to gain access to the accounts, urging victims to provide SMS codes
+  🔗 https://www.livemint.com/technology/tech-news/russiabacked-hackers-targetting-signal-and-whatsapp-accounts-how-are-attacker-gaining-access-how-to-stay-safe-and-mor-11773132089162.html
+
+- Xiaomi Pad 8 with Snapdragon 8s Gen 4 processor, 9,200mAh battery launched in India: Price, specs and more
+  Xiaomi has launched the Pad 8 tablet in India. It features a Snapdragon 8s Gen 4 processor, a 9200mAh battery, and
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-pad-8-with-snapdragon-8s-gen-4-processor-9-200mah-battery-launched-in-india-price-specs-and-more-11773125296287.html
 
 - iPhone 18 Pro, iPhone 18 Pro Max launching this year: Expected price, specs and more
   Apple's upcoming iPhone 18 Pro and Pro Max are expected to retain similar display sizes while featuring under-display Face ID and a new unified design
@@ -88,97 +100,105 @@
   Choosing between Intel Core i5 and AMD Ryzen 5 laptops under  ₹60000? These options
   🔗 https://www.livemint.com/technology/gadgets/confused-between-core-i5-and-ryzen-5-laptops-under-rs-60000-consider-these-picks-for-high-performance-11773050218523.html
 
-- Poco X8 Pro, Poco X8 Pro confirmed to launch in India on 17 March: Expected price, specs and more
-  Poco is set to launch the Poco X8 Pro and X8 Max 5G in India on March 17. Both mid-range gaming phones
-  🔗 https://www.livemint.com/technology/gadgets/poco-x8-pro-poco-x8-pro-confirmed-to-launch-in-india-on-17-march-expected-price-specs-and-more-11773049074782.html
+- Relief Rally Lifts Stocks as Dollar Extends Losses: Markets Wrap - Bloomberg
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUZlbTRLY2xKQ1dOdlFIRm9tcWdEWXpCMWR0WGZVM3oxTDhmRXU3cW5zRzFZeGJRVzd5Uk9jcXhBQjExQjZMb1V6X05NMHVPampybWJpazVrdDJqbFNFMnYxN3pGRnVtdVdkckFsN01VWVkxdVpDQ2x6b1NBUDhZVG01emRQaVpUZ0pJVzIzZkNVeU42XzdleWRTUmUxazlycTFMeXFFSHJfMVRSUEM2dUtNOA?oc=5
 
-- Samsung Galaxy M17e 5G full specifications revealed ahead of 17 March India launch: here's what to expect
-  The Galaxy M17e 5G will debut on 17 March and is expected to come in the sub- ₹20,000 price bracket. It features a dual rear
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-m17e-5g-full-specifications-revealed-ahead-of-17-march-india-launch-heres-what-to-expect-11773043303848.html
+- Rupee rebounds from all-time low to 91.85 against U.S. dollar - The Hindu
+  Rupee rebounds from all-time low to
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPWm9vZzlZcFp3S0RtbjVCM2NlRDM3dENXSWRqRFQ2bHlWT21xcllTamdFMXVEZEpxQ0Z5V3dvV0JTcWxKUkQyY05scXlDM05rTjBiZy1IX1VPdDg1YUlrQnI0eklZYVJoZWtDYlRLbnRaZDBNSDNacUVIRXo3RENXX3RuRmhtZmhBWEE3R2Ryb2lsRDdlWHdheGlSVlRMbDN6V19yS3poM0gzaFphQ1BOWFAyVjBpN01SYV9iWdIBwwFBVV95cUxPVE16OTE0MDNRRXRLT2NTb3ZrZ1Y2OXNkWmJ0alhQdmlNMkNmS2IxcmZocFJlcC1iTGV0OW92UGRMa0xybXBsemg5LXVmaU9FaUszbWRoTEE2NXZ0eXFTbUh6SGdQYVp2d1lWMnZKRnZ2Q3lfMlRoV0M4eU5tTi1xZ01yTklaelJ6VkE3TmVuSFFiYXFuRVdnNklQSTd1RlhCT1FUV2pxaTVncnB4b2JNajdoMnZrekdHa0U2a1l4bnA5LUk?oc=5
 
-- Researchers warn AI models can successfully match anonymous internet users to their real identities
-  Generative AI has made it easier for hackers to reveal the identities of anonymous social media users. Researchers found that AI can match online profiles to real identities.
-  🔗 https://www.livemint.com/technology/tech-news/researchers-warn-ai-language-models-can-successfully-match-anonymous-internet-users-to-their-real-identities-11773037863128.html
+- Markets Bet Trump will End Iran War Soon Despite Threats from Both Sides - Deccan Chronicle
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWNGdlFBV2tvY1dTYVhac1U5SDRFTXZvTFZBSHhDRFVxS3R5UUVEQVBTN013X3dvZUlKdWhBWWNuQkxOWVd3T05GUGlQaWZQNHdZMkVaME5PdVR2YV84T2VXNUNmdGNyQjdaSTBvUmVXamROeXFMRmhNS3lhaG4zblBNVHhvZko1MV8xZThFckxfLVdHRHJaM0szcTdFWXhIcmJ2Ujg0T1M0a2l4QnZ2UDZEWkp3d2Y2TmF5OEs3d9IBxAFBVV95cUxNbEZscFZiVEE1YkpiSWtBbTF4TUN2S29KLVBjR2dnaHowSk0tQUdzV24ycjl0TTg3eVUwUW5LbEdsOXdOeEQ0cG4xOWpvYzJUTnNfQVpBalpOWG1qNVZma2ItMG5WQ2xTdVQwOF9mTFFpbFUtQjNpallQY1VsaTFtMU9iQWJYa0pKZmhOZmpkUTBBODZPMVVYa2ZPN2Zma2QyOFltcEJFMHR5VExheWxQTXZoSmd5M24xTWVzVXFZemZadTVD?oc=5
 
-- Global Market |  Strait of Hormuz tensions keeping oil markets on edge: Richard Yetsenga
-  Global oil markets are experiencing sharp volatility due to geopolitical tensions in West Asia. Asian economies, heavily reliant on imported energy, are particularly vulnerable and are considering emergency responses.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-strait-of-hormuz-tensions-keeping-oil-markets-on-edge-richard-yetsenga/articleshow/129378741.cms
+- Asia markets moderate losses after reported Saudi oil release slightly ease prices - CNBC
+  Asia markets moderate losses after reported Saudi oil release slightly
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxmSjNuZUwwa0g2cVlyVFpBejJLLVRuV3dBdzdfcVhBUjk5bDdVdUdCQzFQZXhYa0t1Y0tGSUJwcUdkaUs5RHdBZmVOYUVFODc0cXNvSEhnMU9icHk3b1lTM0Jic1ByVmVxbHVqam1LN0FmTzBBTHN2dkhKV3ZBd0phX3VEX3FMbjd5X2VtVEhhSnJmVXI0VTQwbWF4ZXF4VFJtLXRUWnIzVjA2M1pTZkxyODN5NmZXVnfSAb8BQVVfeXFMUE82Ul85ZmlvQTltbjNOVGVGbTBVQXRYUkNkVHptTUhxb290d3VWX1VzaDFTcVgxbmFQVkN6VEFyTkN0YjA0bFVhbGpsSUhMWldsbEVsRmhvUlF5MU5ULXJULW9YZEZSaHNiUTRiZW8wUGEyMEpNd0hSZllxWDY1M0xoSGtSSVpjSXdtbEs1MkppNnlBU004dWdIeGpuWDE2cDVnUjBKRXp0YUhHLU1WY09RVGlkR21obk9tdlE4M28?oc=5
 
-- India bonds perk up as Trump remark cools oil; state sale eyed
-  Indian government bonds saw a rebound as oil prices dropped significantly following President Trump's comments on the Iran conflict. Despite this relief, traders remain cautious due to ongoing Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-perk-up-as-trump-remark-cools-oil-state-sale-eyed/articleshow/129378596.cms
+- Stock Market Today: Oil Price Slides; Dow Futures Inch Lower — Live Updates - WSJ
+  Stock Market Today: Oil Price Slides; Dow Fut
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQb19NWUw5bS0wSW9nN3Y4Wmw2cC0xOFNDakdXLTJYOEZfZXl0OTdCdzdidy1YdVRjTUFKODNzUXRlMDQwSHNGQm1SSjZEenVya3ZTeENDVnVVNU55NzZIQzY1a3drOTRPS2hGZ3ZYYktfV1pRT2U4TmdqSHROd19HNDFJZEZfamc?oc=5
 
-- Bitcoin rebounds to $70K as easing Middle East tensions and oil price pullback lift crypto sentiment
-  Bitcoin has rebounded towards $70,000, gaining nearly 3.50% in a day. Major altcoins also saw significant gains, with the global crypto market capitalization rising to $2.38 trillion.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-to-70k-as-easing-middle-east-tensions-and-oil-price-pullback-lift-crypto-sentiment/articleshow/129377567.cms
+- Stock market quote of the day by Thomas Rowe Price Jr. | "Change is the investor’s only certainty"
+  Embracing change is the investor's only certainty, as markets are living systems constantly evolving. Seeking permanence leads to risk, while adaptability through learning, diversification, long-term thinking, and
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/market-quote-of-the-day-by-thomas-rowe-price-jr-change-is-the-investors-only-certainty/articleshow/129384892.cms
 
-- Three decades of markets: A Balasubramanian on compounding, investor evolution and India’s long-term promise
-  Market veteran A Balasubramanian highlights India's capital market evolution since the 1990s. He notes increased investor participation and confidence, asserting India's resilience.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/three-decades-of-markets-a-balasubramanian-on-compounding-investor-evolution-and-indias-long-term-promise/articleshow/129377603.cms
+- Top 10 high growth large-cap stocks: Profit surges over 50% YoY in Q3FY26
+  Adani Enterprises led with a 9,630% jump, followed by Tata Steel and Indian Oil. Steel, energy, finance, FMCG and hospitality firms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/top-10-high-growth-large-cap-stocks-profit-surges-over-50-yoy-in-q3fy26/slideshow/129396629.cms
 
-- Defence stocks can rally up to 38%, says Motilal Oswal. Here are 4 reasons why
-  Motilal Oswal highlights Hindustan Aeronautics and Bharat Dynamics as top picks, citing rising geopolitical tensions. Strong order inflows further bolster the bullish outlook for these companies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-can-rally-up-to-38-says-motilal-oswal-here-are-4-reasons-why/articleshow/129377098.cms
+- US Stocks: Bill Ackman files for combined IPOs of Pershing Square, new fund
+  Billionaire investor Bill Ackman's Pershing Square filed for U.S. initial public offerings of his hedge fund and a new fund on Tuesday
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-bill-ackman-files-for-combined-ipos-of-pershing-square-new-fund/articleshow/129395744.cms
 
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
+- Trump bought Netflix and Warner Bros bonds at height of bidding war with Paramount
+  U.S. President Donald Trump bought more than $1.1 million of Netflix bonds over the last three months. The streaming giant unsuccessfully fought
+  🔗 https://economictimes.indiatimes.com/markets/bonds/trump-bought-netflix-and-warner-bros-bonds-at-height-of-bidding-war-with-paramount/articleshow/129394433.cms
 
-- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
-  ‘Contact with Iran leadership difficult’: Jaishankar spells
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
-
-- India news: FM Jaishankar briefs parliament on Iran war - dw.com
-  India news: FM Jaishank
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
-
-- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
-  Iris Dena: Torpedo
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
-  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
+- State Bank of India to tap infrastructure bonds after a 16-month hiatus: Bankers
+  India's largest lender State Bank of India will issue infrastructure bonds in March. It will be the first
+  🔗 https://economictimes.indiatimes.com/markets/bonds/state-bank-of-india-to-tap-infrastructure-bonds-after-a-16-month-hiatus-bankers/articleshow/129394274.cms
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
-  ‘Contact with Iran leadership difficult’: Jaishankar spells
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
+- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
+  The Times of India reports on the latest developments in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
 
-- India news: FM Jaishankar briefs parliament on Iran war - dw.com
-  India news: FM Jaishank
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
+- Why Genetically Modified Food Crops May Be Key To India's Food Security - NDTV
+  Why Genetically Modified Food Crops May Be Key
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGFSeEthNUFIY2NxeUE4cUdRcDhvdElfVXRXQV9iX3MyY1NpLTNGMUZjbTJSVG4xeEx1RUZYS0ZTekhTZU9HVktSVm10clowUGR5Z3dTMXZLZjBadzZ0WkhjQ2tpendOT25vLU9mZlUxU04zLW9kcEdiZjEtOW0wZmVFU3RIc1ROYVA3TndDMDJHQnBnQ1hWU3pOLTZLcFZacC0tTGFoWkRkdnh5ekVCbNIBuAFBVV95cUxNbjZ5ZUhkOURyTFZuR0xUdDlpdmdYZnprMlFtOS1BUE9pcDF6bnhQWTA0eDRJQkdfWWFRaW1vaVdncDRtZDJwbGZGNW9sbmZhcHgtanpnbEZTVzhWY05BWGZYUGRmU1JBOHZhalN6MmdoOGllY2pfQ1lxZXNXSVRKVzBkeC1ZbTdBcGlKVzdXZ28tUlpIUTczNlFrUnl1RUs3RnJtcGt3VEJFaFZpOUZDSkFfZkc5a0ZG?oc=5
+
+- Bengaluru, Chennai, Mumbai Hotels Flag LPG Cylinder Shortage, Centre Responds - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3JOUFlVY2xXNFlmNlB6TEFkU1Z2cDNybk8yTFhHNFY0aXVTUUh4S1dMMnN4YnVXaV9mRFUtZkp0SVByRlJqVTgwaDVGRXJleEhyeThtVDJBQUFOYWQ1aXpBVTdqOVZMOWxFVdIB0wFBVV95cUxQNTNCaFJFdVNtcVJsWEx0M3ozZFpSTVp2Q3BtNVNFU19yUkJ6a081RXJxbkxEV2NLTk5FVk8ySVR5N3VjUXlFMlRyZ1hSTEkySGlham50NmZpTUVwdVlsbzJZV1VhaXRwdTJkTHI0Zk5tU1dxbXJLY1lPQ05ObXNWdTQ5RDhleU54MDRMN1RIdGxSVzdfaThQeWdPdVFVX1F2V29iQWFSb3JUaTlWSktFQ3lSMXJPQ0MxeEV5b0huOGNQTTRzdDh4TmpNN0hRYTBTX0x3?oc=5
 
 - Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
   Iris Dena: Torpedo
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
-  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- ‘Contact with Iran leadership difficult’: Jaishankar spells out India’s position on Middle East war - The Times of India
-  ‘Contact with Iran leadership difficult’: Jaishankar spells
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2VFV1p5bUY2TlB6SlNYWDhnVk80aFJJUnVBYnVtOE84Q0NSMEtVUk9UQTM3WWZpSFM4clhVT3VCV3FINlpFdE8wWkNEQ1ZQT3ViM3lYakU1R2tpc2JyTmRyYnp5a2NPSmlFMm5MNXdkaFhhZ05ybUxOMjRRTkVhNy1ualkwSkpDeHBwbnM4aWJscVJ6c1NMRTBHOWRqX293enVLeHlMakV3N3RPSTBOYXZSaTliek82bWVJc3BHRXJmVzJPT2swUnhXTTdQUFZrSHkzZGtPdDJxVUdKOEZRTTlqTGEtWHltZ2VramswZWs5NjlDQ0HSAfsBQVVfeXFMTnFPWXEwN0Y4NWtSTHVTX2JMbndwMFFTSEVVc3hDbWNnd3g1Y0k2MnZRT0hYNkMxNWVCTUpCRndKNC01blk1R056V1dfekJNU1c2aW80YzQxeWRkNTZPNDc5V0VHQ2RWMS1JYUNsY1I5VzIyTUllb2J3X0JrLVMyRTkyZXVlTXp2Wncxemt1cm9WSjB2Rmx0SXU4M013aWVVYmhNTGVaNi1RNlc1TVh2aU5rV1JuZURJWUdIVlpxcFRlRDFsWlRfZC1CZThVVkl1V1JvMDZ5ZS1pNk54TWd5MS1tTS04V1R3Vm11UkQ4WGRrWjlXOVNmMUpsNVU?oc=5
+- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
+  The Times of India reports on the latest developments in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
 
-- India news: FM Jaishankar briefs parliament on Iran war - dw.com
-  India news: FM Jaishank
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVB2S0txZGhBbW85MDVkVzYtSHJUa2dmT0NxMzl2UFE3NzJYNXB4TTNOZHB3a2hPZlVQMDhqVzdUMzVaZTVoQ1U0aEMzRHFTTlVqdVVmMlRZUU9pcEJuZWw3VW1KQmlkOGZOekxjZGtIcGpjaGhMRUdkQjZYenF0S2dIeU5Xd05Vc1k5MnFCYmJfRy1V?oc=5
+- Why Genetically Modified Food Crops May Be Key To India's Food Security - NDTV
+  Why Genetically Modified Food Crops May Be Key
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGFSeEthNUFIY2NxeUE4cUdRcDhvdElfVXRXQV9iX3MyY1NpLTNGMUZjbTJSVG4xeEx1RUZYS0ZTekhTZU9HVktSVm10clowUGR5Z3dTMXZLZjBadzZ0WkhjQ2tpendOT25vLU9mZlUxU04zLW9kcEdiZjEtOW0wZmVFU3RIc1ROYVA3TndDMDJHQnBnQ1hWU3pOLTZLcFZacC0tTGFoWkRkdnh5ekVCbNIBuAFBVV95cUxNbjZ5ZUhkOURyTFZuR0xUdDlpdmdYZnprMlFtOS1BUE9pcDF6bnhQWTA0eDRJQkdfWWFRaW1vaVdncDRtZDJwbGZGNW9sbmZhcHgtanpnbEZTVzhWY05BWGZYUGRmU1JBOHZhalN6MmdoOGllY2pfQ1lxZXNXSVRKVzBkeC1ZbTdBcGlKVzdXZ28tUlpIUTczNlFrUnl1RUs3RnJtcGt3VEJFaFZpOUZDSkFfZkc5a0ZG?oc=5
+
+- Bengaluru, Chennai, Mumbai Hotels Flag LPG Cylinder Shortage, Centre Responds - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3JOUFlVY2xXNFlmNlB6TEFkU1Z2cDNybk8yTFhHNFY0aXVTUUh4S1dMMnN4YnVXaV9mRFUtZkp0SVByRlJqVTgwaDVGRXJleEhyeThtVDJBQUFOYWQ1aXpBVTdqOVZMOWxFVdIB0wFBVV95cUxQNTNCaFJFdVNtcVJsWEx0M3ozZFpSTVp2Q3BtNVNFU19yUkJ6a081RXJxbkxEV2NLTk5FVk8ySVR5N3VjUXlFMlRyZ1hSTEkySGlham50NmZpTUVwdVlsbzJZV1VhaXRwdTJkTHI0Zk5tU1dxbXJLY1lPQ05ObXNWdTQ5RDhleU54MDRMN1RIdGxSVzdfaThQeWdPdVFVX1F2V29iQWFSb3JUaTlWSktFQ3lSMXJPQ0MxeEV5b0huOGNQTTRzdDh4TmpNN0hRYTBTX0x3?oc=5
 
 - Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
   Iris Dena: Torpedo
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran says oil blockade will continue until US–Israel attacks end; targets Gulf energy sites - The Times of India
-  The Times of India reports that Iran is planning to target Gulf energy sites. Iran says oil blockade
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaXh1d1g3MURtQTdkQzZ0QjBJNlVUeUJQdU9OYjVHcjRPT3hzMWRXOG1ncXk1SDF0SklYdE05TzhiZm1NSmJRZmd3cUFjXy1vSktpclZiSWwwck1HTHFDM0RiRHYyNTFaVFU3RXdmZ1VBU3pWdVpDZEp1R190NEZQOWpPcC03ZHRQQlRWci1rQXN6aWdpV3FyNmNTVjNfY2FxMTRwaF9hSDU0TmkxV0RmNFQtbl9PV29aSkk5RGpyejlaTUpLUjM2S2Z1UFFiVmlyMzJlSGxGWElubmNvVkI3S3I3aU4wY29pNnloaHJTcHFiTUp3QXVxM1RKdjZTWXNJMXM0QlFjdnA0azNvM3J6b1hJRTFxbkFqRlRzd0NQbWxFQ3VMWENNTWVJcGxmUEhZTnZQT2xjUmQtakhsTFl2eXYyODJpcTZTVFNVV3pleXN4TnfSAdgCQVVfeXFMTkpxaDBHV280dGVnalM3NXA5NzF6bGgyTk9wUXFqWExqT3E3aHhEbU1vUjc4OENUOXp0TUFVT0ZCZHRTcDlxQnYzcmZqR212VGo2NV9UWFByeTBpeU56elBlSmFacEdvVkwwS2g0M0hDeDAwSnN2TTdLcGFsZlZIZE1vLVVoNV9pczFCM2YwbW5qM3R4X3VmWmtUdXIzbjBpZDh6MldYMnFXS2tEVWhWX2xfQXFqbnhxaVpkWm1xSmx6SG1YNVNoU29YVUhtTC1LMU1CZUlFZWtoNlVfNEVXSEtJdTVxRUlMVmxZQnFnX2U5SzZFQ05BOENVdHd5QkxXS3RqQTVkT0Q2ZmR1RWRYTWtUdUJoVzlFVWJYQ2Y3eHZJbVhnaG9EbFhIM3ByY3lPQ05TR1pBRVZVZ2xvaVd5WmlVeFFvZ1FteDI4dWw1cDhhdXJkcDdkWEE?oc=5
+- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
+  Iran War Creates A $35 Trillion 'Super
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
+
+- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
+  The Times of India reports on the latest developments in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
+
+- Why Genetically Modified Food Crops May Be Key To India's Food Security - NDTV
+  Why Genetically Modified Food Crops May Be Key
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGFSeEthNUFIY2NxeUE4cUdRcDhvdElfVXRXQV9iX3MyY1NpLTNGMUZjbTJSVG4xeEx1RUZYS0ZTekhTZU9HVktSVm10clowUGR5Z3dTMXZLZjBadzZ0WkhjQ2tpendOT25vLU9mZlUxU04zLW9kcEdiZjEtOW0wZmVFU3RIc1ROYVA3TndDMDJHQnBnQ1hWU3pOLTZLcFZacC0tTGFoWkRkdnh5ekVCbNIBuAFBVV95cUxNbjZ5ZUhkOURyTFZuR0xUdDlpdmdYZnprMlFtOS1BUE9pcDF6bnhQWTA0eDRJQkdfWWFRaW1vaVdncDRtZDJwbGZGNW9sbmZhcHgtanpnbEZTVzhWY05BWGZYUGRmU1JBOHZhalN6MmdoOGllY2pfQ1lxZXNXSVRKVzBkeC1ZbTdBcGlKVzdXZ28tUlpIUTczNlFrUnl1RUs3RnJtcGt3VEJFaFZpOUZDSkFfZkc5a0ZG?oc=5
+
+- Bengaluru, Chennai, Mumbai Hotels Flag LPG Cylinder Shortage, Centre Responds - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQRW9hWFBhdHpUMkx1UV9xUW9xUnhzYTRSQlBINFRnZkstS2xsaGNmQ2hfWXNRbzRnQjJxTHhIT0pRZWVwbl96amtpLUxvak1wMWt5REV4YXBqMDNnSFFOTVZqS1ZPMnBRR3JOUFlVY2xXNFlmNlB6TEFkU1Z2cDNybk8yTFhHNFY0aXVTUUh4S1dMMnN4YnVXaV9mRFUtZkp0SVByRlJqVTgwaDVGRXJleEhyeThtVDJBQUFOYWQ1aXpBVTdqOVZMOWxFVdIB0wFBVV95cUxQNTNCaFJFdVNtcVJsWEx0M3ozZFpSTVp2Q3BtNVNFU19yUkJ6a081RXJxbkxEV2NLTk5FVk8ySVR5N3VjUXlFMlRyZ1hSTEkySGlham50NmZpTUVwdVlsbzJZV1VhaXRwdTJkTHI0Zk5tU1dxbXJLY1lPQ05ObXNWdTQ5RDhleU54MDRMN1RIdGxSVzdfaThQeWdPdVFVX1F2V29iQWFSb3JUaTlWSktFQ3lSMXJPQ0MxeEV5b0huOGNQTTRzdDh4TmpNN0hRYTBTX0x3?oc=5
+
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+  Iris Dena: Torpedo
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBILVNUWUJ4RnoxNUk4SVBkZFNGWXhTMmc2N19SNGtGNWlHNHJmVGVJVnVZa0I3dmZUOEdSTV9JZGZjWVN0Ml8xRW0xYlNoOUVWRTNKRkZ0Y0lhQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-10 06:46:25 UTC_
+_Last updated: 2026-03-10 12:51:56 UTC_
