@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Protocol war in Kerala: Why CM Pinarayi Vijayan is boycotting PM Modi’s Kochi event
+- Two Indians killed, one missing in merchant vessels attack amid Israel-US Iran war: MEA
   
-  🔗 https://indianexpress.com/article/india/protocol-war-kerala-cm-pinarayi-vijayan-boycott-pm-modi-kochi-event-10575931/
+  🔗 https://indianexpress.com/article/india/indians-killed-missing-merchant-vessels-attack-israel-is-iran-war-10576776/
 
-- Defence Ministry to shift soon, clearing the way for South Block’s retrofitting as a museum
+- 108 Maoists, Rs 3.6 crore cash, 1 kg gold – surrenders mark days leading up to Home Ministry deadline
   
-  🔗 https://indianexpress.com/article/india/defence-ministry-shift-south-block-retrofitting-museum-10575930/
+  🔗 https://indianexpress.com/article/india/108-maoists-cash-gold-surrenders-home-ministry-deadline-10576767/
 
-- Parliament Budget Session 2026 Live Updates: Amit Shah to address House as debate on impeachment motion to oust Om Birla continues
+- BJP MP demands action against Bengal government for President’s ‘protocol breach’
   
-  🔗 https://indianexpress.com/article/india/parliament-budget-session-live-updates-om-birla-no-confidence-motion-amit-shah-10575841/
+  🔗 https://indianexpress.com/article/india/president-murmu-protocol-breach-bjp-mp-baburam-nishad-bengal-row-10576625/
 
-- Benefits to boarded out officer cadets — ‘We will have to summon secretaries now’: SC warns Centre over delay in decision
+- India LPG Gas Shortage Live Updates: Kerala CM says livelihoods under threat
   
-  🔗 https://indianexpress.com/article/india/sc-benefits-disabled-military-cadets-centre-delay-10575737/
+  🔗 https://indianexpress.com/article/india/india-lpg-gas-shortage-live-updates-iran-israel-restaurants-petrol-pumps-10576531/
 
-- ‘Pre-soak grains, cook in batches, rationalise menu’: National restaurant body issues advisory as LPG shortage hits kitchens
+- CBI books its own inspector for attempting Rs 2-crore extortion in South Delhi
   
-  🔗 https://indianexpress.com/article/india/pre-soak-grains-cook-in-batches-rationalise-menu-national-restaurant-body-issues-advisory-as-lpg-shortage-hits-kitchens-10575526/
+  🔗 https://indianexpress.com/article/india/cbi-inspector-extortion-fir-south-delhi-resident-10576514/
 
-- Instagram down: Thousands of users report facing issues with DMs, social feed
+- Google’s NotebookLM can now turn your favorite novels into AI-hosted podcasts and custom infographics
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-down-thousands-of-users-report-facing-issues-with-dms-feed-10575987/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-notebooklm-update-epub-support-custom-infographics-features-10576614/
 
-- Zoom unveils real-time voice translation, deepfake detection features for video calls
+- Amazon looks to add stricter checks after outages linked to AI coding tools: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/zoom-new-live-voice-translation-deepfake-detection-video-calls-10575835/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-stricter-code-checks-outages-ai-tools-report-10576612/
 
-- Meta acquires AI agent social network Moltbook
+- First RAM and storage, now CPUs: Why AI is making laptops 40% more expensive in 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-acquires-ai-agent-social-network-moltbook-10575282/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-cpu-price-increase-laptop-40-per-cent-expensive-2026-10576264/
 
-- China pins hopes on society-wide AI push to add jobs, rejuvenate economy
+- China warns state agencies, banks against installing apps running OpenClaw
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-pins-hopes-on-society-wide-ai-push-to-add-jobs-rejuvenate-economy-10575214/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/china-warns-state-agencies-banks-against-installing-openclaw-ai-apps-10576403/
 
-- MIT’s new ‘Silent Sense’ wearable lets you talk to AI and others without uttering a single word
+- Microsoft backs Anthropic in amicus brief to halt US DOD’s ‘supply-chain risk’ designation
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mit-alterego-silent-sense-wearable-10575055/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-backs-anthropic-in-amicus-brief-to-halt-us-dods-supply-chain-risk-designation-10576373/
 
-- Meta acquires viral Reddit-style AI-agent platform Moltbook, hires its creators
-  Moltbook creators Matt Schlicht and Ben Parr will join the Meta Superintelligence Labs.
-  🔗 https://www.livemint.com/companies/news/meta-acquires-moltbook-the-viral-reddit-like-ai-agent-only-platform-hires-its-creators-matt-schlicht-ben-parr-11773197126661.html
+- Talent wars heat up: Tech giants turn to influencers for viral job hunts on social media
+  India’s top tech firms are partnering with social media influencers to run viral recruitment campaigns targeting Gen Z and AI talent. These high-paying collaborations are
+  🔗 https://www.livemint.com/companies/talent-wars-tech-giants-influencers-viral-job-hunts-social-media-gen-z-ai-talent-social-media-11773204323838.html
 
-- Volkswagen Layoffs: Carmaker to cut 50,000 jobs in Germany as profit falls, EV business faces pressure
-  Volkswagen announced it will cut 50,000 jobs in Germany by 2030 due to declining profits
-  🔗 https://www.livemint.com/companies/news/volkswagen-layoffs-carmaker-to-cut-50-000-jobs-in-germany-as-profit-falls-ev-business-faces-pressure-11773193480222.html
+- Hyatt elevates Sunjae Sharma to Asia Pacific leadership role; Vikas Chawla to head India operations
+  Sunjae Sharma will take on broader regional responsibilities. David Udell, group president for Hyatt's Asia Pacific operations,
+  🔗 https://www.livemint.com/companies/news/hyatt-hotels-india-asia-pacific-leadership-sunjae-sharma-vikas-chawla-11773219940297.html
 
-- Air India to levy fuel surcharge: Full region-wise price hike list and implementation timeline
-  Air India announced a phased increase in fuel surcharges for both domestic and international flights due to rising jet fuel
-  🔗 https://www.livemint.com/companies/news/air-india-to-levy-fuel-surcharge-full-region-wise-price-hike-list-and-implementation-timeline-11773189607895.html
+- Siemens bets on private capex revival in India, sees local businesses leapfrog to AI-led automation
+  Siemens in India looks stronger under the extended tenure of CEO Sunil Mathur. How is it positioned to next power growth in its digital industries, smart infrastructure, and mobility businesses next? Find out
+  🔗 https://www.livemint.com/companies/india-siemens-capex-revival-ai-automation-smart-infrastructure-digital-mobility-11773200773308.html
 
-- VinFast hires seasoned auto executives to accelerate India expansion
-  The Vietnamese EV maker has recruited more than half a dozen senior leaders and executives with prior stints at firms such as Hyundai Motor Company.
-  🔗 https://www.livemint.com/companies/vinfast-india-hiring-auto-industry-executives-ev-expansion-11773133443243.html
+- Adani Energy Solutions raises $500 million from Apollo Global through dollar bonds
+  The capital will be used to refinance $500 million of a subsidiary's bonds that are maturing in early August. These bonds were issued in
+  🔗 https://www.livemint.com/companies/news/adani-energy-bonds-adani-transmission-debt-11773212652525.html
 
-- US Didn’t Escort Tanker Through Hormuz, Refuting Wright Post
-  The US said no oil tanker has been escorted by its navy through the Strait of Hormuz. It refutes an
-  🔗 https://www.livemint.com/companies/us-didn-t-escort-tanker-through-hormuz-refuting-wright-post-11773171147532.html
+- Air India Express aircraft's nose wheel faces malfunction at Phuket airport — here's what we know
+  Air India Express flight from Hyderabad to Phuket faced a nose-wheel issue. The aircraft remains on the runway.
+  🔗 https://www.livemint.com/companies/news/air-india-express-aircrafts-nose-wheel-faces-malfunction-at-phuket-airport-heres-what-we-know-11773216484396.html
 
-- Sensex crashes over 1,000 points; Nifty 50 drops below 24,000— 5 key factors behind market fall explained
-  The 30-share pack Sensex crashed over 1,000 points, or 1.3%, to fall to an intraday low
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-over-1-000-points-nifty-50-drops-below-24-000-why-is-the-stock-market-falling-explained-11773210747016.html
+- The Fed’s hawks and doves are drifting further apart. What it means for investors.
+  Futures markets assign a 99.4% chance that the Fed
+  🔗 https://www.livemint.com/market/the-fed-s-hawks-and-doves-are-drifting-further-apart-what-it-means-for-investors-11773232206222.html
 
-- Apsis Aerocom IPO day 1: GMP, subscription status, price, other key details of SME IPO in 10 points
-  Apsis Aerocom IPO opened for public subscription on Wednesday, March 11. Company said it had raised over  ₹10 crore from
-  🔗 https://www.livemint.com/market/ipo/apsis-aerocom-ipo-day-1-gmp-subscription-status-price-other-key-details-of-sme-ipo-in-10-points-11773207702572.html
+- Indian rupee falls 16 paise to end at 92.01 against US dollar as crude prices rebound
+  FII outflows and weak sentiments in the domestic equity markets pressured
+  🔗 https://www.livemint.com/market/stock-market-news/indian-rupee-falls-16-paise-to-end-at-92-01-against-us-dollar-as-crude-prices-rebound-11773231096326.html
 
-- Adani Total Gas to Gujarat Gas, GAIL: Gas stocks surge up to 15% as US-Iran conflict raises supply concerns
-  The US-Iran conflict escalates, affecting global gas prices and supply routes. Domestic gas prices in India have surged, with stock gains in gas companies.
-  🔗 https://www.livemint.com/market/stock-market-news/adani-total-gas-to-gujarat-gas-gail-gas-stocks-surge-up-to-15-as-us-iran-conflict-raises-supply-concerns-11773208894917.html
+- Rajputana Stainless IPO fully subscribed on final day; NII portion sees strong demand, GMP signals muted debut
+  The Rajputana Stainless IPO was subscribed 1.12 times by its closing date on March 11. As of today, the grey market premium (G
+  🔗 https://www.livemint.com/market/stock-market-news/rajputana-stainless-ipo-fully-subscribed-on-final-day-nii-portion-sees-strong-demand-gmp-signals-muted-debut-11773229551910.html
 
-- SRF to Asian Paints - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment
-  Despite recent losses, Nifty 50 closed above 24,000. Analysts predict potential rebounds if support holds at this level.
-  🔗 https://www.livemint.com/market/stock-market-news/srf-to-asian-paints-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11773208649264.html
+- Nifty Bank crashes 8% in March so far: What’s driving the sharp selloff?
+  Nifty Bank index has crashed 8% so far in March. Bank of Baroda, Federal Bank, Punjab National Bank, Union Bank, and Can
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-bank-crashes-8-in-march-so-far-what-s-driving-the-sharp-selloff-11773226217698.html
 
-- Gold-silver ratio can rise to 70-72 zone, says Tata Mutual Fund: What does it mean for investors?
-  Gold–silver ratio has rebounded to around 56 after earlier falling to multi-year lows. Tata Mutual Fund expects the ratio to mean-revert toward the 70–72
-  🔗 https://www.livemint.com/market/commodities/goldsilver-ratio-can-rise-to-70-72-zone-says-tata-mutual-fund-what-does-it-mean-for-investors-11773208585564.html
+- Devyani to Westlife FoodWorld: QSR stocks near 52-week lows! Should you avoid the sector amid LPG crisis in India?
+  Independent restaurants face the most immediate risk of closures. Large quick service restaurant (QSR) chains could also experience margin pressure.
+  🔗 https://www.livemint.com/market/stock-market-news/devyani-to-westlife-foodworld-qsr-stocks-near-52-week-lows-should-you-avoid-the-sector-amid-lpg-crisis-in-india-11773228564556.html
+
+- Adobe adds AI assistant to Photoshop, upgrades Firefly with new generative tools
+  Adobe is launching a beta AI assistant for Photoshop on web and mobile. The assistant simplifies editing tasks through voice or text commands. Firefly Image Editor receives updates for improved image manipulation
+  🔗 https://www.livemint.com/technology/tech-news/adobe-adds-ai-assistant-to-photoshop-upgrades-firefly-with-new-generative-tools-11773225938595.html
+
+- Google turns Chrome into an AI browser with Gemini support in India — top features, how to use and more
+  Gemini AI can be used to summarize content, draft emails, and edit images. The feature is now available to users in India, Canada
+  🔗 https://www.livemint.com/technology/tech-news/google-chrome-becomes-ai-browser-with-gemini-support-in-india-top-features-how-to-use-and-more-11773214220175.html
 
 - Xiaomi 17, Xiaomi 17 Ultra with LEICA camera setup launched in India: Price, specs, launch offers and more
   Xiaomi launched the 17 series in India, featuring LTPO 120Hz displays, Snapdragon 8 Elite Gen 5 processors, and LEICA camera
@@ -92,73 +100,125 @@
   Made in India laptops now account for nearly 30% of domestic sales, up from less than 5% in 2024. Local manufacturers like Dixon and Syrma SGS are aggressively scaling capacity
   🔗 https://www.livemint.com/technology/tech-news/made-in-india-laptops-share-rises-pli-scheme-11773135445691.html
 
-- Michael Burry claims Nvidia used ‘mafia-like’ tactics to block AMD in Oracle data center deal, calls for antitrust probe
-  Oracle and OpenAI’s broader plan to build 4.5 gigawatts of AI data centre capacity remains
-  🔗 https://www.livemint.com/technology/tech-news/oracle-openai-abandon-texas-ai-data-centre-expansion-tied-to-500-billion-stargate-project-report-11773158722386.html
+- Why is stock market down today (March 11, 2026)? Nifty50 closes at 23,866; BSE Sensex tanks 1,342 points - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwJBVV95cUxNTmtyLWllZ1VEMlJVSkIxb3N3dlFYckIyb2VmQm81bUQ3c0RJeVJ2SWJxOUhwRWs3Y1pCSnpDZnB0STQ1bmU0OFN4Mnh5bnRrd2JPUTgwTFlheU0xRDJIaE1tTnRTU1BQZk
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxNTmtyLWllZ1VEMlJVSkIxb3N3dlFYckIyb2VmQm81bUQ3c0RJeVJ2SWJxOUhwRWs3Y1pCSnpDZnB0STQ1bmU0OFN4Mnh5bnRrd2JPUTgwTFlheU0xRDJIaE1tTnRTU1BQZkdGVEhkYkgwR19nWWJiVjRlMWhEZzVBU3dmUzRpdWFHRThHS1BkemNQN2ZlZC1BcTM5WVo4NktlTFVWU0RyZkdPNmR6MWNaY191NGhORWtvRWFrcXFhWDBXdzhIaVM5ZUV1RkVRUF9pWXZoUmhSeVFuTGN1MHZXMDJHZEdxWjlfWVNmdWRra0NyR3FxNXhmZ3FSb3hzNVY5X0M3WG9iLW16U09tOW1HZjFzQkhjY01nWHFCWE9Gal9BYmpxa3BNVlBlRlNCT1XSAbQCQVVfeXFMTnhJTXFZMUZKTDA5R3BVZUJnQkRobUxrTlpGWkZuSFdBcXJFZ3RTemdtMGtqVVQyWGVNUnRQd20ta1N3MEhzWDhwYVpSTWpJbGNVOERDMnNlSFJMV2R4RjhYU3FFYWoxZHgzd0dIeFFhQ1NuUzNDOEUxQWRKc2prOFNfai1aM1ctOXVza2QxV0IxVTdpZEpuMDJZblBlbXpZc2dCTEw2VHcyZUpjZ25JLUJINzVGSTU3cURjdl85djVCSkRyUUE4TWwtcW9YNFltdUp2NEZDbVJIUVZUWEdFaURfT1JoRmg2aUxIM0p5Zl9NYkRCT2t2ZDF3eC00OHRfa19PVmlTRVFDS0VnXzdSWmpxb0x3S24wSzNDTk54dTFUcGZnN1Rzb1hEQmtQY1FnSTl1T24?oc=5
 
-- iPhone Fold leaks: Expected price, release date, specifications and more
-  Apple's foldable iPhone is likely to launch later this year. The phone could feature a dual rear camera setup and four
-  🔗 https://www.livemint.com/technology/gadgets/iphone-fold-leaks-expected-price-release-date-specifications-and-more-11773140252782.html
+- Asia markets moderate losses after reported Saudi oil release slightly ease prices - CNBC
+  Asia markets moderate losses after reported Saudi oil release slightly
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxmSjNuZUwwa0g2cVlyVFpBejJLLVRuV3dBdzdfcVhBUjk5bDdVdUdCQzFQZXhYa0t1Y0tGSUJwcUdkaUs5RHdBZmVOYUVFODc0cXNvSEhnMU9icHk3b1lTM0Jic1ByVmVxbHVqam1LN0FmTzBBTHN2dkhKV3ZBd0phX3VEX3FMbjd5X2VtVEhhSnJmVXI0VTQwbWF4ZXF4VFJtLXRUWnIzVjA2M1pTZkxyODN5NmZXVnfSAb8BQVVfeXFMUE82Ul85ZmlvQTltbjNOVGVGbTBVQXRYUkNkVHptTUhxb290d3VWX1VzaDFTcVgxbmFQVkN6VEFyTkN0YjA0bFVhbGpsSUhMWldsbEVsRmhvUlF5MU5ULXJULW9YZEZSaHNiUTRiZW8wUGEyMEpNd0hSZllxWDY1M0xoSGtSSVpjSXdtbEs1MkppNnlBU004dWdIeGpuWDE2cDVnUjBKRXp0YUhHLU1WY09RVGlkR21obk9tdlE4M28?oc=5
 
-- This Ambani-owned stock's market cap slips below cash balance. Is it a deep value pick?
-  JustDial's market capitalization has fallen below its cash reserves, prompting questions about its valuation. Investors are advised to await a defined capital allocation policy before considering it a value pick.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/this-ambani-owned-stocks-market-cap-slips-below-cash-balance-is-it-a-deep-value-pick/articleshow/129443055.cms
+- Deleted Tweet From Energy Secretary Sends Oil Markets on Another Wild Ride - WSJ
+  Deleted Tweet From Energy Secretary Sends Oil Markets
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3RDWDV3ZHhTNmdFQ2locU1fT1NnSEJzb3VLRGlRTlBiN0JlRzFYb1JnQjY1Zl8zMVRHSnJxQ2dFR3JSd3hyNFZXUWlTa3VmYUNYSll5bE9wNFZoVG5DR04ydE1IQWhTV1JaNmF2N2Zsa3ZvZXRCUkw5bkFZUkxkcWFFZGIwUWM5WUJ5SnpnSlRkOGxNOHRQTkFza2lvZ3pKYTBsVVdlcDZtNncteWlobHZRSHFCNUlCSlE?oc=5
 
-- US Stock Market | Caution in the C-Suite: US insider selling hits 20-month peak as market jitters intensify
-  US corporate insiders significantly increased stock sales in February while limiting purchases, pushing the seller-to-buyer ratio to its highest level since July 2024. Data from The Washington Service showed rising executive caution amid market volatility.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-caution-in-the-c-suite-us-insider-selling-hits-20-month-peak-as-market-jitters-intensify/articleshow/129441197.cms
+- Stock Market Today: Futures Tick Higher Ahead of Consumer Inflation Data; Oil Hovers Near $85/Barrel as IEA Set to Decide on Releasing Reserves - Investopedia
+  Stock Market Today: Futures Tick Higher Ahead of Consumer Inflation Data. Oil Hovers Near $85
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPdldYVXpfekw0Y0dSNzFpejBLOHlFVWdEVnEwSDJnRFpsNUNmZEtLNU5rbnlpTlRBU19hcElXVEJYYWs0RnFlODVKU0tXUEVGYThoR1c2eUk2RTF6N1M0U0NkX0J2OWZHcmhiaVhpZExFaUJpNzhkdlRQVEd4X3FNeWRlREhBWTZnNE1iUDhB?oc=5
 
-- Cupid shares plunge 6% after 15% rally over two days: What lies ahead?
-  Cupid shares experienced a dip on Wednesday after a two-day rally that drove the stock 15% higher. In January this year, Cupid announced its board of directors had approved the issue of bonus shares in the ratio of 4:
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-plunge-6-after-15-rally-over-two-days-what-lies-ahead/articleshow/129440911.cms
+- Qatar's LNG Shutdown Sends Shockwaves Through Global Gas Markets - Crude Oil Prices Today | OilPrice.com
+  Qatar's LNG Shutdown Sends Shockwaves Through Global
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVpESGM2bnpBb1lUaXo3Y2tkdW11ZXVLRHJPY0lkUDRZV3RmNlV4cGkxVDdmMHBXRG5DNExqQW1ja0lwQkpEc3d0bkJQOGY4ekphdUFTY0pFclA3NHc3M01Ma04tdlRLejR6WE02bHpSNXFIU29yWHQzTndndTYtb2gxR0NYV09kb0FjNlpVNC1HNkR1bGgtNWEtZ1lJNHVnWlJNZUVVd3RlNG13V1FTUVRMZDlKSnRmUHNB0gHAAUFVX3lxTE1DblZOcy0wa1U5cGhuQTBBOWxDZWllTlU0dHplaWYyZDNFaUVqNmlDNmd2Y2dkMzB1QVJuYkV1dzc4N1F6VnREZ3FVM2R4VFdTV0MtOFVhMVJEaUJDY1h3OW1hVm5QTEVBQ1JiU0ptRExtaFplQmh1WlpBd1dVWl9ZbUpLc3ROWUFkVlkyTnVEQXNuR1A3dXVEeUFJNjg3cU1EOWtJMUsyYThsUHo2T3hmZzFZZjNZQ0tBWXp6S2J0TQ?oc=5
 
-- Reports of my death are greatly exaggerated! Why Nuvama is screaming buy on all top 10 IT stocks
-  Nuvama says fears that Gen-AI will cripple India’s IT services model are overblown. After a sharp AI-driven selloff that pushed valuations to multi-year lows, the brokerage has upgraded all top
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reports-of-my-death-are-greatly-exaggerated-why-nuvama-is-screaming-buy-on-all-top-10-it-stocks/articleshow/129440142.cms
+- Stock market quote of the day by Jesse Livermore | “There is only one side of the market and it is not the bull side or the bear side, but the right side.”
+  Legendary trader Jesse Livermore's wisdom emphasizes aligning with market reality. Success hinges on accurately interpreting signals and adapting to dynamic trends. The 'right side' is dictated by evidence, demanding flexibility and objective analysis.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-jesse-livermore-there-is-only-one-side-of-the-market-and-it-is-not-the-bull-side-or-the-bear-side-but-the-right-side-/articleshow/129450426.cms
 
-- Indian bonds firm up on steady oil, upcoming RBI buying
-  Indian government bonds gained early Wednesday after global oil prices eased. Investors also awaited details of the central bank's upcoming bond purchases
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-firm-up-on-steady-oil-upcoming-rbi-buying/articleshow/129439904.cms
+- Emami among 7 small-cap stocks hit 52-week lows; slip up to 25% in a month
+  Seven BSE 250 Smallcap stocks, including Sapphire Foods, JK Lakshmi Cement, Relaxo, Aegis Logistics, Five
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/emami-among-7-small-cap-stocks-hit-52-week-lows-slip-up-to-25-in-a-month/slideshow/129460973.cms
 
-- 'Good actors': Why US ‘allowed’ India to purchase Russian oil despite tariff tensions | India News - Hindustan Times
-  'Good actors': Why US ‘allowed’ India to purchase Russian
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
+- Rising energy prices roil global bonds as traders tear up rate cut bets
+  Short-dated bond yields, particularly in Europe, climbed sharply. Investors braced for a more hawkish monetary policy stance.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/rising-energy-prices-roil-global-bonds-as-traders-tear-up-rate-cut-bets/articleshow/129460172.cms
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- Portugal sells 1.41 billion euros of seven and nine-year bonds
+  Portugal sells $1.64 billion of seven and nine-year bonds at auction
+  🔗 https://economictimes.indiatimes.com/markets/bonds/portugal-sells-1-41-billion-euros-of-seven-and-nine-year-bonds/articleshow/129459991.cms
 
-- 'Good Actors': White House On 'Temporary Permission' To India Over Russian Oil Purchases - The Times of India
-  'Good Actors': White House On 'Temporary Permission'
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFU3TUdqdzBCRG5TVk5TWVFIUFRBUlFoUVlRRVJRci12LVpTbENxV0RtMVVGV2xRLTd0eThIWEgyd3JwOGxqcXZpeFB6VGdRQ2hyTXNDbGJwbzNCdlpqTXhSV1hBbFVfRUxrb3FQWWR0VnRmQi10RERtQ1dPUll6QnNQUEQ1dVpYUzkzbEwyM1NENV9VZlk1VW1KMHNiX2dNRTgwNHRiYXJHaTJpUm00X2xVVTFrTEhwSnBvVF9VLVF2MFRkX3FXMFphVHJRVmVFUUsyOEhDYUNYajBaQTRYdDh4bFdXMzFITlR30gHwAUFVX3lxTFBEZE9WWTBzczBGTHVsd1FvOTRjTmF3LTd2ODZVS1RPNF82U1JDZ0tOcFE5MXdjSkgyejVfRXJmdmNFOW9kbV9hUkJtTUZaMlRNdHdkYjlEd2J6STEwdHVMaGlSM1I1aXNEbURiREJ2dHhCM2ZkN3JSQVZEMDBrd19ZZEFFcFdZZ0pFVThfWnQydW5IRl9wLXVpT3Y1b1VwcjlxandoT091Nm12ZHVsM3JSWURlcjVROG1nTFRTZkRBa2h3MEhrWWtkM19fQkZNTkpxbklvR2hWS1RJdjRxVE0yWnVZMXU4TmFuZUh6S3h1eQ?oc=5
+- US Stocks Today | Wall Street futures edge up as investors eye crude prices, inflation report
+  U.S. stock index futures edged higher in choppy trading on Wednesday. Investors assessed the outlook for crude prices and awaited a key inflation report
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-wall-street-futures-edge-up-as-investors-eye-crude-prices-inflation-report/articleshow/129459735.cms
 
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
-
-- 'Historic $300 billion deal': US to get new oil refinery with Reliance backing; Trump calls it 'massive w - The Times of India
-  'Historic $300 billion deal': US to get new oil refinery with Reliance backing.
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOZGpsSUFTYVlXQnA0UFBRRWk0RjI5UXdrMFpfdWoxVi1kSGp3bk1Ea3d1VmhZTFRVU2FnZXFUdHZLYXd0SDYza1FyWTBRU2p2VzQzNF9BYjRrajZrWkw5dzlxTWdnY0VFZjc2R2xMd1dqZ2NVcHpoNk1qNDZ4djg4NmQ4VzBGUnVYZTBpUXVyS0lkb0pfel9IdnBabklVOVBIdFI1Tk5tbXJyRnVGeHdCMm02N3llcmxoY0JYT09hTEZRWVZyajNrUFZlNXh6emp4bVpOY2I5d1U5Tm1rMGt2SHp3alBSUXo5Vjhwb2lMWU5XYmY0VTZEam1Za0JkczdmR185VXlXaTdscWUzb0Nkckh3eEwyTVBYWVJfeTF6VdIBpAJBVV95cUxPZGNnODg4VXFILXYxUl9NSmxUbHVzX2x6Q3ZnSUtwSXlMNlhGWVRicF9BU3VOZERZcm9oaVZxUU41Q2RUR1lxSlhlbUZoQVYwY0Z2SDdteFZsaUh3SFVCWDFITGZQV1lRSUNkNXhSZTNVSWRPNXZYZUpWbWtwY3lLVkZmQ0pjdldDNWZpSTVsSzF6dWRTS2VoNlVLbC1WUzdMMGVIcEVNNEt4dkV2ZFRaUGlvdUlVbWkyQ0VMRG9KOFhuSUl4cVZpdlZjcUNyZW5hd01mb2hKbWZOcHE4cE80YkhMakNfT3FJR3gwT3pNejJoNzJYQTdWc0cyVV9PcVliZW5nWHpZMERFYWk5UUZndDAwRlpnXzVXaHVxcE1lYWZWZUpB?oc=5
+- El Nino may hit India's monsoon, hotter months ahead, says WMO - The Times of India
+  El Nino may hit India's monsoon, hotter months
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTdvb3hwaUZFNXRPRjR0UlpobmtWLXJYQ21pbmlaeWhJWmdwQkVPczVwelQ4NlhlaWlHeFlWTEc3V1BPY3p1bF8td2FuOFhqU0FheGlDdW1RSHJKcGZIbmMzemtDbTduM3JwcEhiX0lfS2lfaTJ5VXVSZmFHOVlzcE9rS0o0ZDRldkd1MU00WUFVMHlZelBxRURWVVlFV0pWcGZaZ0duYzFmSEpDbkw2UHdfZ1E3dnNUUm9rTTZPandJaWRlWlHSAcsBQVVfeXFMUDVlZ2U4UFFLei1qelcxcDBybjhPRnVoWGZ6UDlNVU1tRjZ3SnctVGFjbk5nSTJZUlY3UWtHdFRxdnZXbDlMRDVXSHZVR0kwM1JJYWtIYl9IaVZfQ2thWFF5OEFKV3VZSDlUUHc0RHdLazJqbGRkTzFBeTRiU3RRNWJjdEFHU3oyVDFzSzhubS1xQzl0NHJTVnBBZ1NDanp4RzBWZlFHTDFSaDNwaUVUTEhQLXN3QTBfTnN3S1JvcXYwX0k0WElsTkRWY3c?oc=5
 
 - 'Good actors': Why US ‘allowed’ India to purchase Russian oil despite tariff tensions | India News - Hindustan Times
   'Good actors': Why US ‘allowed’ India to purchase Russian
   🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
 
-- US allows India to buy Russian oil during US-Israel war with Iran - BBC
-  US allows India to buy Russian oil during US-
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZGd0Yk5Hcmp3anFKM0duYzV1SGIzYUlXWEZXNmZHdHRqaTYteGkweU8wY2NIY2hEZkEyVVdlUUVsMXpwSUxtNHh5RF9IT0xFOVVkOXdMWFlKUQ?oc=5
+- 100 Indian Students To Return From Iran Via Armenia Route - NDTV
+  100 Indian Students To Return From Iran Via
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHFZRUVPVXlacEg0NUxpSlBsb1ZKVTg5b2VvY0pQZThTaUpRcFBXOFMxel80V0x6RG9uUTlvQVFBNWZ1R0hQa09HZVc0dXpnS1hoTHZRRml1T2ltWDE5TGNZUkN4M0VaaDNaSTJHdDhKVW1XeTAtZjhub2FFdFNNbTl3TGZvS19fcUtSUkp4V0Ryd1dCcUVjenhTU1RCekFTelNCT0tKcnd2WEx2bkpaLXpLLWbSAbwBQVVfeXFMTWNHSkRjaHZpWkd3YnhWR0MwdnVuREw2SFZIRWk4Q05WdlJOTVBHd1BKTzNUTjB2RjJCR25IZ3AwNXlNN1NHZUU1LWhLUmEzdlZFQmlleENqWmpKM0tqUlRHYnpheG9NcjFWN0VuWU95cHgtbnRTYUUzelFaNVNfR2pMLWMwLVdKY0tsRzAtdlRaME1nRXNGaGllNmJkVm54ODlzRzdjLW9IMWF3YjJUeG5Gb3BHcTNfYjBBY28?oc=5
 
-- 'Good Actors': White House On 'Temporary Permission' To India Over Russian Oil Purchases - The Times of India
-  'Good Actors': White House On 'Temporary Permission'
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFU3TUdqdzBCRG5TVk5TWVFIUFRBUlFoUVlRRVJRci12LVpTbENxV0RtMVVGV2xRLTd0eThIWEgyd3JwOGxqcXZpeFB6VGdRQ2hyTXNDbGJwbzNCdlpqTXhSV1hBbFVfRUxrb3FQWWR0VnRmQi10RERtQ1dPUll6QnNQUEQ1dVpYUzkzbEwyM1NENV9VZlk1VW1KMHNiX2dNRTgwNHRiYXJHaTJpUm00X2xVVTFrTEhwSnBvVF9VLVF2MFRkX3FXMFphVHJRVmVFUUsyOEhDYUNYajBaQTRYdDh4bFdXMzFITlR30gHwAUFVX3lxTFBEZE9WWTBzczBGTHVsd1FvOTRjTmF3LTd2ODZVS1RPNF82U1JDZ0tOcFE5MXdjSkgyejVfRXJmdmNFOW9kbV9hUkJtTUZaMlRNdHdkYjlEd2J6STEwdHVMaGlSM1I1aXNEbURiREJ2dHhCM2ZkN3JSQVZEMDBrd19ZZEFFcFdZZ0pFVThfWnQydW5IRl9wLXVpT3Y1b1VwcjlxandoT091Nm12ZHVsM3JSWURlcjVROG1nTFRTZkRBa2h3MEhrWWtkM19fQkZNTkpxbklvR2hWS1RJdjRxVE0yWnVZMXU4TmFuZUh6S3h1eQ?oc=5
+- "Won't Desert Citizens During Trouble": PM Modi On Indians Stranded In Gulf - NDTV
+  "Won't Desert Citizens During Trouble": PM
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWC1NbUlSZi1vXy1vSUtiaDJ3OFNLRjg3WU9MSDVMYTJWcUtwbjE5b3JTbE9mUlVKUHRBa3lMSFJLbldPWDZ1ZkdYeklUUTVsS2s3YW9LU1daMW9Eb0NoMWVoUXd2ZWRxNWVMczIzSWxMeDQ1UmhIbXZETzlocHAtM05VWWh4RUlSZDAtTEpPMzZSS1Q0azB4aVhaZ2l4a2tzdkRWWkM0c1c4dDF6UjZJT1cyWXBGd2ZwNm10M2NNNDVhT0g4eG5jQXlhbU5wYjZ1aVNJQdIB3AFBVV95cUxOOTFPOXYzZ0NneXl3RWs2NFJFTGNyaUJBVnFPd0lGXzVONE1xemFoX3Ytd3BUX2lqb3dTUHNyNWh3MWNFazdfVTRzd0hGZFU3ZC1ycEx3OHZhclRNejZqcURmR2RsQVNja25MYVNZa2FHS25fQkVlRU11b2o4ZFV3Um1wUVdSSUhXcXhmRl83ekt3WGxDMkkzN1ZpdlFLNWgwSVhvWEpzZU9SYUlUVWo5WWJUbUtuYVdfTmZTOEswOF96TUVDd2p5TjlyWnl4THRZOC04SnFqUGIyc0lW?oc=5
 
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
+- Evening news wrap: IRCTC directs station kitchens to use microwave, induction; PM Modi assures help for I - The Times of India
+  Evening news wrap: IRCTC directs station kitchens to use microwave, induction. PM
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPVlNZd01hd0dFZDNuYXczMC1nQlVNREktdGVadjgtRVowUUswc2poQVZoTkR2NndaUkZQUzg4c1M2aEZBcU1KdElKaXhIWm02SXpFcE12TnZIRVROUEpPMjVaV09HWF9KR0dpZTdTcTRKMXZDS05IeFNWMzEzVnRfVkQ1aDRSbEVDV0Z1TTY3VUhZVGdteW1KUnE5LW9jMEozN0xQMTJXNUNJLVBqUUpCS2VCWWlkdFpVQ3k0UlpuVmlvMERLTDlwN3B3NHE2QXJrTXRwMkVHYTd4eDRXeFJ4ZUtiYWk2LTRpV1hWNkdfWlYxdHRzREVnNEV3NHY3NFNNT0U1dFIyZTZKMk9BWFpsSnZoVnQ4b05fSHM4U1lsQnE2dGow0gGqAkFVX3lxTE94eEgtd0xmSGk4Xzh4R0cxUHJvbGJkVDhMOG00c1pkZHIxYmpOT3drUTlDanZnRzQxZm9LZVlYT2UzSTB4X20wU0xybUpHbkpCbXVVZ0JBX081ckx0Y2VxSEpVblRadTZ1TnhXUXVrbzhFVjhZWlZOcU1sVXZtNDZ5bFBmS0xKSGlFMHY3aFZ4STlJREh6WC1ic0tBSGYtTzZwSU84LTN5UHROdzY2QVZCSGhtRGNBYXNVR3JWanlTT1dkMU5xbFZ0d0E5M0JqdkUxVzV1cVg2WG9FUk82ZVVWYzJWbmpSQ3FqUUpNbHF1V2tPZkRGNGZPdzJWY0d3QXJHRVluNGloM2dEUkM5eWhVQThyLTNidGoyLXpCV3IxQTk2YUp4Y3B6UUE?oc=5
 
-- 'Historic $300 billion deal': US to get new oil refinery with Reliance backing; Trump calls it 'massive w - The Times of India
-  'Historic $300 billion deal': US to get new oil refinery with Reliance backing.
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOZGpsSUFTYVlXQnA0UFBRRWk0RjI5UXdrMFpfdWoxVi1kSGp3bk1Ea3d1VmhZTFRVU2FnZXFUdHZLYXd0SDYza1FyWTBRU2p2VzQzNF9BYjRrajZrWkw5dzlxTWdnY0VFZjc2R2xMd1dqZ2NVcHpoNk1qNDZ4djg4NmQ4VzBGUnVYZTBpUXVyS0lkb0pfel9IdnBabklVOVBIdFI1Tk5tbXJyRnVGeHdCMm02N3llcmxoY0JYT09hTEZRWVZyajNrUFZlNXh6emp4bVpOY2I5d1U5Tm1rMGt2SHp3alBSUXo5Vjhwb2lMWU5XYmY0VTZEam1Za0JkczdmR185VXlXaTdscWUzb0Nkckh3eEwyTVBYWVJfeTF6VdIBpAJBVV95cUxPZGNnODg4VXFILXYxUl9NSmxUbHVzX2x6Q3ZnSUtwSXlMNlhGWVRicF9BU3VOZERZcm9oaVZxUU41Q2RUR1lxSlhlbUZoQVYwY0Z2SDdteFZsaUh3SFVCWDFITGZQV1lRSUNkNXhSZTNVSWRPNXZYZUpWbWtwY3lLVkZmQ0pjdldDNWZpSTVsSzF6dWRTS2VoNlVLbC1WUzdMMGVIcEVNNEt4dkV2ZFRaUGlvdUlVbWkyQ0VMRG9KOFhuSUl4cVZpdlZjcUNyZW5hd01mb2hKbWZOcHE4cE80YkhMakNfT3FJR3gwT3pNejJoNzJYQTdWc0cyVV9PcVliZW5nWHpZMERFYWk5UUZndDAwRlpnXzVXaHVxcE1lYWZWZUpB?oc=5
+- El Nino may hit India's monsoon, hotter months ahead, says WMO - The Times of India
+  El Nino may hit India's monsoon, hotter months
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTdvb3hwaUZFNXRPRjR0UlpobmtWLXJYQ21pbmlaeWhJWmdwQkVPczVwelQ4NlhlaWlHeFlWTEc3V1BPY3p1bF8td2FuOFhqU0FheGlDdW1RSHJKcGZIbmMzemtDbTduM3JwcEhiX0lfS2lfaTJ5VXVSZmFHOVlzcE9rS0o0ZDRldkd1MU00WUFVMHlZelBxRURWVVlFV0pWcGZaZ0duYzFmSEpDbkw2UHdfZ1E3dnNUUm9rTTZPandJaWRlWlHSAcsBQVVfeXFMUDVlZ2U4UFFLei1qelcxcDBybjhPRnVoWGZ6UDlNVU1tRjZ3SnctVGFjbk5nSTJZUlY3UWtHdFRxdnZXbDlMRDVXSHZVR0kwM1JJYWtIYl9IaVZfQ2thWFF5OEFKV3VZSDlUUHc0RHdLazJqbGRkTzFBeTRiU3RRNWJjdEFHU3oyVDFzSzhubS1xQzl0NHJTVnBBZ1NDanp4RzBWZlFHTDFSaDNwaUVUTEhQLXN3QTBfTnN3S1JvcXYwX0k0WElsTkRWY3c?oc=5
+
+- 'Good actors': Why US ‘allowed’ India to purchase Russian oil despite tariff tensions | India News - Hindustan Times
+  'Good actors': Why US ‘allowed’ India to purchase Russian
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
+
+- 100 Indian Students To Return From Iran Via Armenia Route - NDTV
+  100 Indian Students To Return From Iran Via
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHFZRUVPVXlacEg0NUxpSlBsb1ZKVTg5b2VvY0pQZThTaUpRcFBXOFMxel80V0x6RG9uUTlvQVFBNWZ1R0hQa09HZVc0dXpnS1hoTHZRRml1T2ltWDE5TGNZUkN4M0VaaDNaSTJHdDhKVW1XeTAtZjhub2FFdFNNbTl3TGZvS19fcUtSUkp4V0Ryd1dCcUVjenhTU1RCekFTelNCT0tKcnd2WEx2bkpaLXpLLWbSAbwBQVVfeXFMTWNHSkRjaHZpWkd3YnhWR0MwdnVuREw2SFZIRWk4Q05WdlJOTVBHd1BKTzNUTjB2RjJCR25IZ3AwNXlNN1NHZUU1LWhLUmEzdlZFQmlleENqWmpKM0tqUlRHYnpheG9NcjFWN0VuWU95cHgtbnRTYUUzelFaNVNfR2pMLWMwLVdKY0tsRzAtdlRaME1nRXNGaGllNmJkVm54ODlzRzdjLW9IMWF3YjJUeG5Gb3BHcTNfYjBBY28?oc=5
+
+- "Won't Desert Citizens During Trouble": PM Modi On Indians Stranded In Gulf - NDTV
+  "Won't Desert Citizens During Trouble": PM
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWC1NbUlSZi1vXy1vSUtiaDJ3OFNLRjg3WU9MSDVMYTJWcUtwbjE5b3JTbE9mUlVKUHRBa3lMSFJLbldPWDZ1ZkdYeklUUTVsS2s3YW9LU1daMW9Eb0NoMWVoUXd2ZWRxNWVMczIzSWxMeDQ1UmhIbXZETzlocHAtM05VWWh4RUlSZDAtTEpPMzZSS1Q0azB4aVhaZ2l4a2tzdkRWWkM0c1c4dDF6UjZJT1cyWXBGd2ZwNm10M2NNNDVhT0g4eG5jQXlhbU5wYjZ1aVNJQdIB3AFBVV95cUxOOTFPOXYzZ0NneXl3RWs2NFJFTGNyaUJBVnFPd0lGXzVONE1xemFoX3Ytd3BUX2lqb3dTUHNyNWh3MWNFazdfVTRzd0hGZFU3ZC1ycEx3OHZhclRNejZqcURmR2RsQVNja25MYVNZa2FHS25fQkVlRU11b2o4ZFV3Um1wUVdSSUhXcXhmRl83ekt3WGxDMkkzN1ZpdlFLNWgwSVhvWEpzZU9SYUlUVWo5WWJUbUtuYVdfTmZTOEswOF96TUVDd2p5TjlyWnl4THRZOC04SnFqUGIyc0lW?oc=5
+
+- Evening news wrap: IRCTC directs station kitchens to use microwave, induction; PM Modi assures help for I - The Times of India
+  Evening news wrap: IRCTC directs station kitchens to use microwave, induction. PM
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPVlNZd01hd0dFZDNuYXczMC1nQlVNREktdGVadjgtRVowUUswc2poQVZoTkR2NndaUkZQUzg4c1M2aEZBcU1KdElKaXhIWm02SXpFcE12TnZIRVROUEpPMjVaV09HWF9KR0dpZTdTcTRKMXZDS05IeFNWMzEzVnRfVkQ1aDRSbEVDV0Z1TTY3VUhZVGdteW1KUnE5LW9jMEozN0xQMTJXNUNJLVBqUUpCS2VCWWlkdFpVQ3k0UlpuVmlvMERLTDlwN3B3NHE2QXJrTXRwMkVHYTd4eDRXeFJ4ZUtiYWk2LTRpV1hWNkdfWlYxdHRzREVnNEV3NHY3NFNNT0U1dFIyZTZKMk9BWFpsSnZoVnQ4b05fSHM4U1lsQnE2dGow0gGqAkFVX3lxTE94eEgtd0xmSGk4Xzh4R0cxUHJvbGJkVDhMOG00c1pkZHIxYmpOT3drUTlDanZnRzQxZm9LZVlYT2UzSTB4X20wU0xybUpHbkpCbXVVZ0JBX081ckx0Y2VxSEpVblRadTZ1TnhXUXVrbzhFVjhZWlZOcU1sVXZtNDZ5bFBmS0xKSGlFMHY3aFZ4STlJREh6WC1ic0tBSGYtTzZwSU84LTN5UHROdzY2QVZCSGhtRGNBYXNVR3JWanlTT1dkMU5xbFZ0d0E5M0JqdkUxVzV1cVg2WG9FUk82ZVVWYzJWbmpSQ3FqUUpNbHF1V2tPZkRGNGZPdzJWY0d3QXJHRVluNGloM2dEUkM5eWhVQThyLTNidGoyLXpCV3IxQTk2YUp4Y3B6UUE?oc=5
+
+- El Nino may hit India's monsoon, hotter months ahead, says WMO - The Times of India
+  El Nino may hit India's monsoon, hotter months
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTdvb3hwaUZFNXRPRjR0UlpobmtWLXJYQ21pbmlaeWhJWmdwQkVPczVwelQ4NlhlaWlHeFlWTEc3V1BPY3p1bF8td2FuOFhqU0FheGlDdW1RSHJKcGZIbmMzemtDbTduM3JwcEhiX0lfS2lfaTJ5VXVSZmFHOVlzcE9rS0o0ZDRldkd1MU00WUFVMHlZelBxRURWVVlFV0pWcGZaZ0duYzFmSEpDbkw2UHdfZ1E3dnNUUm9rTTZPandJaWRlWlHSAcsBQVVfeXFMUDVlZ2U4UFFLei1qelcxcDBybjhPRnVoWGZ6UDlNVU1tRjZ3SnctVGFjbk5nSTJZUlY3UWtHdFRxdnZXbDlMRDVXSHZVR0kwM1JJYWtIYl9IaVZfQ2thWFF5OEFKV3VZSDlUUHc0RHdLazJqbGRkTzFBeTRiU3RRNWJjdEFHU3oyVDFzSzhubS1xQzl0NHJTVnBBZ1NDanp4RzBWZlFHTDFSaDNwaUVUTEhQLXN3QTBfTnN3S1JvcXYwX0k0WElsTkRWY3c?oc=5
+
+- 'Good actors': Why US ‘allowed’ India to purchase Russian oil despite tariff tensions | India News - Hindustan Times
+  'Good actors': Why US ‘allowed’ India to purchase Russian
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
+
+- 100 Indian Students To Return From Iran Via Armenia Route - NDTV
+  100 Indian Students To Return From Iran Via
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHFZRUVPVXlacEg0NUxpSlBsb1ZKVTg5b2VvY0pQZThTaUpRcFBXOFMxel80V0x6RG9uUTlvQVFBNWZ1R0hQa09HZVc0dXpnS1hoTHZRRml1T2ltWDE5TGNZUkN4M0VaaDNaSTJHdDhKVW1XeTAtZjhub2FFdFNNbTl3TGZvS19fcUtSUkp4V0Ryd1dCcUVjenhTU1RCekFTelNCT0tKcnd2WEx2bkpaLXpLLWbSAbwBQVVfeXFMTWNHSkRjaHZpWkd3YnhWR0MwdnVuREw2SFZIRWk4Q05WdlJOTVBHd1BKTzNUTjB2RjJCR25IZ3AwNXlNN1NHZUU1LWhLUmEzdlZFQmlleENqWmpKM0tqUlRHYnpheG9NcjFWN0VuWU95cHgtbnRTYUUzelFaNVNfR2pMLWMwLVdKY0tsRzAtdlRaME1nRXNGaGllNmJkVm54ODlzRzdjLW9IMWF3YjJUeG5Gb3BHcTNfYjBBY28?oc=5
+
+- "Won't Desert Citizens During Trouble": PM Modi On Indians Stranded In Gulf - NDTV
+  "Won't Desert Citizens During Trouble": PM
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWC1NbUlSZi1vXy1vSUtiaDJ3OFNLRjg3WU9MSDVMYTJWcUtwbjE5b3JTbE9mUlVKUHRBa3lMSFJLbldPWDZ1ZkdYeklUUTVsS2s3YW9LU1daMW9Eb0NoMWVoUXd2ZWRxNWVMczIzSWxMeDQ1UmhIbXZETzlocHAtM05VWWh4RUlSZDAtTEpPMzZSS1Q0azB4aVhaZ2l4a2tzdkRWWkM0c1c4dDF6UjZJT1cyWXBGd2ZwNm10M2NNNDVhT0g4eG5jQXlhbU5wYjZ1aVNJQdIB3AFBVV95cUxOOTFPOXYzZ0NneXl3RWs2NFJFTGNyaUJBVnFPd0lGXzVONE1xemFoX3Ytd3BUX2lqb3dTUHNyNWh3MWNFazdfVTRzd0hGZFU3ZC1ycEx3OHZhclRNejZqcURmR2RsQVNja25MYVNZa2FHS25fQkVlRU11b2o4ZFV3Um1wUVdSSUhXcXhmRl83ekt3WGxDMkkzN1ZpdlFLNWgwSVhvWEpzZU9SYUlUVWo5WWJUbUtuYVdfTmZTOEswOF96TUVDd2p5TjlyWnl4THRZOC04SnFqUGIyc0lW?oc=5
+
+- Evening news wrap: IRCTC directs station kitchens to use microwave, induction; PM Modi assures help for I - The Times of India
+  Evening news wrap: IRCTC directs station kitchens to use microwave, induction. PM
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPVlNZd01hd0dFZDNuYXczMC1nQlVNREktdGVadjgtRVowUUswc2poQVZoTkR2NndaUkZQUzg4c1M2aEZBcU1KdElKaXhIWm02SXpFcE12TnZIRVROUEpPMjVaV09HWF9KR0dpZTdTcTRKMXZDS05IeFNWMzEzVnRfVkQ1aDRSbEVDV0Z1TTY3VUhZVGdteW1KUnE5LW9jMEozN0xQMTJXNUNJLVBqUUpCS2VCWWlkdFpVQ3k0UlpuVmlvMERLTDlwN3B3NHE2QXJrTXRwMkVHYTd4eDRXeFJ4ZUtiYWk2LTRpV1hWNkdfWlYxdHRzREVnNEV3NHY3NFNNT0U1dFIyZTZKMk9BWFpsSnZoVnQ4b05fSHM4U1lsQnE2dGow0gGqAkFVX3lxTE94eEgtd0xmSGk4Xzh4R0cxUHJvbGJkVDhMOG00c1pkZHIxYmpOT3drUTlDanZnRzQxZm9LZVlYT2UzSTB4X20wU0xybUpHbkpCbXVVZ0JBX081ckx0Y2VxSEpVblRadTZ1TnhXUXVrbzhFVjhZWlZOcU1sVXZtNDZ5bFBmS0xKSGlFMHY3aFZ4STlJREh6WC1ic0tBSGYtTzZwSU84LTN5UHROdzY2QVZCSGhtRGNBYXNVR3JWanlTT1dkMU5xbFZ0d0E5M0JqdkUxVzV1cVg2WG9FUk82ZVVWYzJWbmpSQ3FqUUpNbHF1V2tPZkRGNGZPdzJWY0d3QXJHRVluNGloM2dEUkM5eWhVQThyLTNidGoyLXpCV3IxQTk2YUp4Y3B6UUE?oc=5
+
+- El Nino may hit India's monsoon, hotter months ahead, says WMO - The Times of India
+  El Nino may hit India's monsoon, hotter months
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTdvb3hwaUZFNXRPRjR0UlpobmtWLXJYQ21pbmlaeWhJWmdwQkVPczVwelQ4NlhlaWlHeFlWTEc3V1BPY3p1bF8td2FuOFhqU0FheGlDdW1RSHJKcGZIbmMzemtDbTduM3JwcEhiX0lfS2lfaTJ5VXVSZmFHOVlzcE9rS0o0ZDRldkd1MU00WUFVMHlZelBxRURWVVlFV0pWcGZaZ0duYzFmSEpDbkw2UHdfZ1E3dnNUUm9rTTZPandJaWRlWlHSAcsBQVVfeXFMUDVlZ2U4UFFLei1qelcxcDBybjhPRnVoWGZ6UDlNVU1tRjZ3SnctVGFjbk5nSTJZUlY3UWtHdFRxdnZXbDlMRDVXSHZVR0kwM1JJYWtIYl9IaVZfQ2thWFF5OEFKV3VZSDlUUHc0RHdLazJqbGRkTzFBeTRiU3RRNWJjdEFHU3oyVDFzSzhubS1xQzl0NHJTVnBBZ1NDanp4RzBWZlFHTDFSaDNwaUVUTEhQLXN3QTBfTnN3S1JvcXYwX0k0WElsTkRWY3c?oc=5
+
+- 'Good actors': Why US ‘allowed’ India to purchase Russian oil despite tariff tensions | India News - Hindustan Times
+  'Good actors': Why US ‘allowed’ India to purchase Russian
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
+
+- 100 Indian Students To Return From Iran Via Armenia Route - NDTV
+  100 Indian Students To Return From Iran Via
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHFZRUVPVXlacEg0NUxpSlBsb1ZKVTg5b2VvY0pQZThTaUpRcFBXOFMxel80V0x6RG9uUTlvQVFBNWZ1R0hQa09HZVc0dXpnS1hoTHZRRml1T2ltWDE5TGNZUkN4M0VaaDNaSTJHdDhKVW1XeTAtZjhub2FFdFNNbTl3TGZvS19fcUtSUkp4V0Ryd1dCcUVjenhTU1RCekFTelNCT0tKcnd2WEx2bkpaLXpLLWbSAbwBQVVfeXFMTWNHSkRjaHZpWkd3YnhWR0MwdnVuREw2SFZIRWk4Q05WdlJOTVBHd1BKTzNUTjB2RjJCR25IZ3AwNXlNN1NHZUU1LWhLUmEzdlZFQmlleENqWmpKM0tqUlRHYnpheG9NcjFWN0VuWU95cHgtbnRTYUUzelFaNVNfR2pMLWMwLVdKY0tsRzAtdlRaME1nRXNGaGllNmJkVm54ODlzRzdjLW9IMWF3YjJUeG5Gb3BHcTNfYjBBY28?oc=5
+
+- "Won't Desert Citizens During Trouble": PM Modi On Indians Stranded In Gulf - NDTV
+  "Won't Desert Citizens During Trouble": PM
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWC1NbUlSZi1vXy1vSUtiaDJ3OFNLRjg3WU9MSDVMYTJWcUtwbjE5b3JTbE9mUlVKUHRBa3lMSFJLbldPWDZ1ZkdYeklUUTVsS2s3YW9LU1daMW9Eb0NoMWVoUXd2ZWRxNWVMczIzSWxMeDQ1UmhIbXZETzlocHAtM05VWWh4RUlSZDAtTEpPMzZSS1Q0azB4aVhaZ2l4a2tzdkRWWkM0c1c4dDF6UjZJT1cyWXBGd2ZwNm10M2NNNDVhT0g4eG5jQXlhbU5wYjZ1aVNJQdIB3AFBVV95cUxOOTFPOXYzZ0NneXl3RWs2NFJFTGNyaUJBVnFPd0lGXzVONE1xemFoX3Ytd3BUX2lqb3dTUHNyNWh3MWNFazdfVTRzd0hGZFU3ZC1ycEx3OHZhclRNejZqcURmR2RsQVNja25MYVNZa2FHS25fQkVlRU11b2o4ZFV3Um1wUVdSSUhXcXhmRl83ekt3WGxDMkkzN1ZpdlFLNWgwSVhvWEpzZU9SYUlUVWo5WWJUbUtuYVdfTmZTOEswOF96TUVDd2p5TjlyWnl4THRZOC04SnFqUGIyc0lW?oc=5
+
+- Evening news wrap: IRCTC directs station kitchens to use microwave, induction; PM Modi assures help for I - The Times of India
+  Evening news wrap: IRCTC directs station kitchens to use microwave, induction. PM
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxPVlNZd01hd0dFZDNuYXczMC1nQlVNREktdGVadjgtRVowUUswc2poQVZoTkR2NndaUkZQUzg4c1M2aEZBcU1KdElKaXhIWm02SXpFcE12TnZIRVROUEpPMjVaV09HWF9KR0dpZTdTcTRKMXZDS05IeFNWMzEzVnRfVkQ1aDRSbEVDV0Z1TTY3VUhZVGdteW1KUnE5LW9jMEozN0xQMTJXNUNJLVBqUUpCS2VCWWlkdFpVQ3k0UlpuVmlvMERLTDlwN3B3NHE2QXJrTXRwMkVHYTd4eDRXeFJ4ZUtiYWk2LTRpV1hWNkdfWlYxdHRzREVnNEV3NHY3NFNNT0U1dFIyZTZKMk9BWFpsSnZoVnQ4b05fSHM4U1lsQnE2dGow0gGqAkFVX3lxTE94eEgtd0xmSGk4Xzh4R0cxUHJvbGJkVDhMOG00c1pkZHIxYmpOT3drUTlDanZnRzQxZm9LZVlYT2UzSTB4X20wU0xybUpHbkpCbXVVZ0JBX081ckx0Y2VxSEpVblRadTZ1TnhXUXVrbzhFVjhZWlZOcU1sVXZtNDZ5bFBmS0xKSGlFMHY3aFZ4STlJREh6WC1ic0tBSGYtTzZwSU84LTN5UHROdzY2QVZCSGhtRGNBYXNVR3JWanlTT1dkMU5xbFZ0d0E5M0JqdkUxVzV1cVg2WG9FUk82ZVVWYzJWbmpSQ3FqUUpNbHF1V2tPZkRGNGZPdzJWY0d3QXJHRVluNGloM2dEUkM5eWhVQThyLTNidGoyLXpCV3IxQTk2YUp4Y3B6UUE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-11 06:49:23 UTC_
+_Last updated: 2026-03-11 12:51:05 UTC_
