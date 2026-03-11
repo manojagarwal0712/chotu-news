@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Anarchy disguised as principle’: Rahul Gandhi in NDA crosshairs as Parliament battle over Speaker Om Birla intensifies
+- Shortened menus at restaurants, days-long wait for laundry: How LPG shortage amid West Asia conflict is affecting Indians
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-nda-crosshairs-parliament-battle-om-birla-10575267/
+  🔗 https://indianexpress.com/article/india/lpg-shortage-west-asia-conflict-affecting-indians-shortened-menus-restaurants-wait-laundry-affecting-indians-10575500/
 
-- Birla presided over liquidation of Parliamentary democracy, says Moitra
+- Soon after Rahman became PM, Bangladesh spy chief met top Indian intel officials
   
-  🔗 https://indianexpress.com/article/india/om-birla-liquidation-parliamentary-democracy-mahua-moitra-10575144/
+  🔗 https://indianexpress.com/article/india/soon-after-rahman-became-pm-bangladesh-spy-chief-met-top-indian-intel-officials-10575581/
 
-- Tension in Meghalaya: Why Garo Hills council elections have triggered 2 deaths and a curfew
+- Lt Gen Ghai: Most of China’s ‘Xiaokang’ villages along LAC in contested areas
   
-  🔗 https://indianexpress.com/article/india/tension-meghalaya-why-garo-hills-council-elections-deaths-curfew-10575101/
+  🔗 https://indianexpress.com/article/india/lt-gen-ghai-most-of-chinas-xiaokang-villages-along-lac-in-contested-areas-10575578/
 
-- ‘Of paramount importance’: SC to examine Bombay HC verdict on Centre’s fact check units under IT Rules
+- Jaishankar, Iran’s Araghchi hold third call as war rages
   
-  🔗 https://indianexpress.com/article/india/supreme-court-bombay-hc-verdict-centre-fact-check-units-it-rules-10575019/
+  🔗 https://indianexpress.com/article/india/jaishankar-irans-araghchi-hold-third-call-as-war-rages-10575614/
 
-- ‘Anti-national, subversive activities’: 3 J-K Jal Shakti workers dismissed from service
+- Govt is responsible for weakening the institution of Speaker, says Opposition
   
-  🔗 https://indianexpress.com/article/india/anti-national-activities-j-k-jal-shakti-workers-dismissed-10574967/
+  🔗 https://indianexpress.com/article/india/govt-is-responsible-for-weakening-the-institution-of-speaker-says-opposition-10575610/
 
 - Meta acquires AI agent social network Moltbook
   
@@ -40,25 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-planning-open-source-ai-agent-platform-nemoclaw-what-it-means-10574971/
 
-- Why may IndiGo's parent InterGlobe Aviation shares have a gap-down opening on Wednesday? Explained
-  InterGlobe Aviation shares may open lower following CEO Pieter Elbers' resignation for personal reasons. Rahul Bhatia steps in as interim CEO. The company’s shares have lost 10% of their value since
-  🔗 https://www.livemint.com/market/stock-market-news/why-may-indigos-parent-interglobe-aviation-shares-have-a-gap-down-opening-on-wednesday-explained-11773161659202.html
+- VinFast hires seasoned auto executives to accelerate India expansion
+  The Vietnamese EV maker has recruited more than half a dozen senior leaders and executives with prior stints at firms such as Hyundai Motor Company.
+  🔗 https://www.livemint.com/companies/vinfast-india-hiring-auto-industry-executives-ev-expansion-11773133443243.html
 
-- Brent crude plunges 12% to below $90 as markets bet on emergency stockpile release
-  Crude oil prices plummeted 12% to $87.06 per barrel on 10 March, following a 17% drop previously. The International Energy Agency is meeting to discuss emergency stock releases.
-  🔗 https://www.livemint.com/market/stock-market-news/brent-crude-plunges-12-to-below-90-as-markets-bet-on-emergency-stockpile-release-11773157094050.html
+- US Didn’t Escort Tanker Through Hormuz, Refuting Wright Post
+  The US said no oil tanker has been escorted by its navy through the Strait of Hormuz. It refutes an
+  🔗 https://www.livemint.com/companies/us-didn-t-escort-tanker-through-hormuz-refuting-wright-post-11773171147532.html
 
-- Innovision IPO: Issue receives tepid response on Day 01, subscribed 0.02 times; GMP signals flat listing
-   Innovision's IPO opened on March 10 with a weak investor response, subscribed 0.02 times. Listing is expected on March 17. The offering aims to
-  🔗 https://www.livemint.com/market/stock-market-news/innovision-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-02-times-gmp-signals-flat-listing-11773156020244.html
+- How ‘Pokemon’ and ‘Resident Evil’ Rewrote Gaming History
+  In the space of just 23 days three decades ago, two
+  🔗 https://www.livemint.com/companies/how-pokemon-and-resident-evil-rewrote-gaming-history-11773170636837.html
 
-- Gold, silver rates today: Comex gold jumps $136/oz; silver gains $6 as dollar weakens amid US–Iran war
-  Gold and silver prices surged on 10 March, with gold rising $136 and silver climbing $6 per troy ounce. The US Dollar Index's retreat fueled this rally amid
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-136-oz-silver-gains-6-as-dollar-weakens-amid-us-iran-war-11773153562476.html
+- Ozempic's drug maker, Novo Nordisk, receives FDA warning letter over unreported side effects: What are they?
+  Novo Nordisk faces FDA scrutiny over unreported Ozempic side effects, including deaths and a suicide. Despite risks like nausea and pancreatitis, the drug helps control blood sugar, slow digestion
+  🔗 https://www.livemint.com/companies/news/ozempics-drug-maker-novo-nordisk-receives-fda-warning-letter-over-unreported-side-effects-what-are-they-11773166761857.html
 
-- US stock market: Dow, S&amp;P 500 futures fall as Iran war keeps investors cautious
-  The US stock market is expected to open lower on 10 March. Key averages decline due to the ongoing Israel-Iran conflict. Crude oil prices have corrected sharply.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-dow-s-p-500-futures-fall-as-us-iran-war-keep-investors-cautious-11773146442833.html
+- Reliance taking 'proactive steps' to optimise refinery operations to keep domestic LPG supply stable
+  The company shared a statement on Tuesday in which it said that it has been working in close proximity with the government.
+  🔗 https://www.livemint.com/companies/news/reliance-taking-proactive-steps-to-optimise-refinery-operations-to-keep-domestic-lpg-supply-stable-11773163477456.html
+
+- Gold, silver rates today: Gold prices climb above $5,200, silver prices reach $89 an ounce. What should investors do?
+  Spot gold rate today was trading 0.34% lower at $5224 per ounce. Meanwhile, spot silver prices were also trading in red, down 0
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-climb-above-5-200-silver-prices-reach-89-an-ounce-what-should-investors-do-11773189907095.html
+
+- Crude oil prices fall on reports of IEA proposal for reserve release; Brent oil slips below $88 a barrel
+  Brent crude oil prices have risen nearly 50% since the start of the year due to the effective closure of the Strait of Horm
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-fall-on-reports-of-iea-proposal-for-reserve-release-brent-oil-slips-below-88-a-barrel-11773190638735.html
+
+- SEDEMAC Mechatronics IPO listing date today. GMP, experts signal share debut at a modest premium in Indian stock market
+  SEDEMAC Mechatronics IPO GMP today and analysts signal a modest listing of shares. SED
+  🔗 https://www.livemint.com/market/ipo/sedemac-mechatronics-ipo-listing-date-today-gmp-experts-signal-share-debut-at-a-modest-premium-in-indian-stock-market-11773160595304.html
+
+- Australian shares extend recovery as miners rally on strong metal prices
+  Australian shares extend recovery as miners rally
+  🔗 https://www.livemint.com/market/australian-shares-extend-recovery-as-miners-rally-on-strong-metal-prices-11773189464973.html
+
+- Australian dollar hits multi-year highs as bulls scent rate rise
+  Australian dollar hits multi-
+  🔗 https://www.livemint.com/market/australian-dollar-hits-multi-year-highs-as-bulls-scent-rate-rise-11773189222693.html
+
+- Incentives, value addition boost made-in-India laptops
+  Made in India laptops now account for nearly 30% of domestic sales, up from less than 5% in 2024. Local manufacturers like Dixon and Syrma SGS are aggressively scaling capacity
+  🔗 https://www.livemint.com/technology/tech-news/made-in-india-laptops-share-rises-pli-scheme-11773135445691.html
 
 - Michael Burry claims Nvidia used ‘mafia-like’ tactics to block AMD in Oracle data center deal, calls for antitrust probe
   Oracle and OpenAI’s broader plan to build 4.5 gigawatts of AI data centre capacity remains
@@ -76,89 +100,93 @@
   Xiaomi has launched the Pad 8 tablet in India. It features a Snapdragon 8s Gen 4 processor, a 9200mAh battery, and
   🔗 https://www.livemint.com/technology/gadgets/xiaomi-pad-8-with-snapdragon-8s-gen-4-processor-9-200mah-battery-launched-in-india-price-specs-and-more-11773125296287.html
 
-- iPhone 18 Pro, iPhone 18 Pro Max launching this year: Expected price, specs and more
-  Apple's upcoming iPhone 18 Pro and Pro Max are expected to retain similar display sizes while featuring under-display Face ID and a new unified design
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-launching-this-year-expected-price-specs-and-more-11773048981362.html
+- AIFs could get upto Rs 17,000 crore after PFRDA opens NPS door
+  India's pension fund regulator has permitted 1% of the ₹17 lakh crore assets under management to be invested in alternative investment funds. This move aims to channel domestic institutional money into private equity
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aifs-could-get-upto-rs-17000-crore-after-pfrda-opens-nps-door/articleshow/129429307.cms
 
-- Argentina President woos Wall Street, cites economic turnaround with net energy exports
-  Argentina's President Milei assured investors in New York that the nation's economic revival is on track. Milei emphasized U.S. backing and new trade agreements, aiming to attract investment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/argentina-president-woos-wall-street-cites-economic-turnaround-with-net-energy-exports/articleshow/129407731.cms
+- D-St bulls, rupee regain ground amid global oil price rollercoaster
+  Indian stocks and the rupee saw a strong rebound on Tuesday. This recovery followed a significant drop in crude oil prices. Asian markets also experienced gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-st-bulls-rupee-regain-ground-amid-global-oil-price-rollercoaster/articleshow/129428901.cms
 
-- Oil sinks 11% to below $90 as Trump moots Middle East de-escalation
-  U.S. President Donald Trump predicted the war in the Middle East could end soon. That lowered expectations of prolonged disruptions to oil supply. Oil prices soared to an almost four-year high in the
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-sinks-11-to-below-90-as-trump-moots-middle-east-de-escalation/articleshow/129405702.cms
+- Global Market Today | Oil drops on reserve release report, Asian stocks gain
+  Oil prices fell Wednesday following a report of the International Energy Agency's proposed largest-ever release of oil reserves. This news, coupled with market volatility from mixed signals regarding the Iran conflict and a deleted US Navy escort claim, impacted energy
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-drops-on-reserve-release-report-asian-stocks-gain/articleshow/129428743.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  The Sensex rose 640 points and Nifty closed above 24,260. Analysts expect cautious trading as investors watch developments in the Middle East conflict.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/129405512.cms
+- RBI aligns capital rules of banks with global norms
+  New guidelines require banks to include trading-partner exposures from all consolidated entities. Updated 'add-on' percentages for off-balance-sheet trades like derivatives are now in effect.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-aligns-capital-rules-of-banks-with-global-norms/articleshow/129428393.cms
 
-- Global Stocks: Portfolio flows to emerging markets slow to $22 billion in February, says IIF
-  Foreign investors sharply slowed their purchases of emerging market assets in February to below $22 billion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-portfolio-flows-to-emerging-markets-slow-to-22-billion-in-february-says-iif/articleshow/129402582.cms
+- RBI links bank dividends to Common Equity Tier 1 ratio
+  The Reserve Bank of India has revised dividend payout norms for banks. The new guidelines, effective April 1, 2027, offer greater flexibility to well-capitalized banks. Payouts can range from 0% to 100% of adjusted profit
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-links-bank-dividends-to-cet1-ratio/articleshow/129428292.cms
 
-- Deutsche Bank upgrades US and European tech sector, turns 'overweight' on software
-  Deutsche Bank upgraded the U.S. and European technology sector to "neutral" from "underweight" The bank turned "overweight" on
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/deutsche-bank-upgrades-us-and-european-tech-sector-turns-overweight-on-software/articleshow/129402302.cms
-
-- Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
-  Iran War Creates A $35 Trillion 'Super
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
-
-- India news: 'No plans to increase fuel prices' - dw.com
-  India news: 'No plans
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFNUVFQ4ZGZzemRtWVF1ZC1KcnNfZW5wUlhNTEl4dWFKRFM2UXZRbFZ1cFhXTzJsNnBiYUdPakg5Q3JRbmt1RFJHVnZzVWE4VWNMZk9ueG05LTJzQVNmLTI1S1lKMkx3Nmh3Tk5ES1BuSzdLbXZPUXRiS21scnBuRHVrX2QyMjA?oc=5
-
-- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
-  The Times of India reports on the latest developments in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
-
-- Global Iran War Impact, India Fuel Supply Concerns, Pakistan Austerity Steps And More. - The Times of India
-  The Times of India has published an article on the Iran-Pakistan conflict
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYTNUSXZ5MmZ3akl2TzRlcVMzTmJscDl0eS1LUGNlakpTcmlUVVNXM2duZ0YzWW1EMmFsQ1lhRm1NVy1pcmlYVktCbUgtUHE2anpLakRyb280UTlGRjhvUURTVUVrbmpZZHhxMGFWMmFuQ3Z2SGE4TURFc3ZBZlBYQ09nRC1ZY0lQRjhUVldLcEdBN0tMeGxoRUloM2N5ZHFOMjFraFcxcDR0NkZiZmRBREpfTWtPWWpScW5sUC1hRzFUUXNPMzdWTkQxYU5IRnl6eURmSUhrVTNEYjVIMXdqT2xfWmZqVnNzdWxGanlUaVhZNjdBNkHSAfsBQVVfeXFMTkJiN1JRdVczQ1RmaWNPN2h5cmhRdVg4QXE0a01ObGE2bW15M2Y5cmdqRkl4dEpvSWVZZVhkTTUxb0ZMbTBqZUdEbVZYVEV5RXlkNm43bXFRTUdZVzZGRFpLMGpOd1VXaklZNWtrclFPTDE1ZE5ENWtjb2RyY1ZCWDJLRE11WXF0TVNua3ViOXp2ZW10Y05JTnFQUEJpRU5HdGY0eGVSMHNMeW5od1VWM21pVUxrbVJybEZ0NmZhNFFaVDFrWlI2RnZWSzlxQUxobjF1YW1odC1pdktrT3R2QmEtTGV4eGVGWE84ZVhhRTBHSlNtZ0d3TEpmdFk?oc=5
-
-- Bhagwant Mann Flags Risk To Farmers From India-US Trade Deal - NDTV
-  Bhagwant Mann Flags Risk To
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2pQcFRzTXRKYW9FektCMmlNNi1KeVVxc00tZGh5Y2prbmVRN3F1R2dIVWdCMlNwaFFkeGpDMG1CSUxnaFB0d09kZkljVDA0RjdabGI0M1JJTGZYVWE5RU5yQkk2TFh5MWp0aTJtMDRZVng5T0Q5QXJITEFsdGYtVExfZjZIOGtad0ZJaDJiLUg4dURhbjJTOUdzc3FEQkgzMWY00gGrAUFVX3lxTE5wd0JtZHo4aXk4bjIzVlY5NnVNQVVHSUtmUVRGeEpaRy1tZlpISkdGbnpDc3dXZHphaEJGUWtvVmdIVnQ4eloyQ0JiZjhKOTNNa0JlY0E4U1NkU3lqZm9YVzZYZ2VGbXd2SUlHd0FSa1U0blhHRG9RZE5vZENnajE5OTlNSTRlVTZSMjRwOXQ1aWt3Y1BicnVkVnRlQmpYYUR6RjVWTnNLN1htNA?oc=5
+- 'Good actors': White House on ‘allowing’ India to resume Russian oil purchase | India News - Hindustan Times
+  'Good actors': White House on ‘allowing’ India
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- India news: 'No plans to increase fuel prices' - dw.com
-  India news: 'No plans
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFNUVFQ4ZGZzemRtWVF1ZC1KcnNfZW5wUlhNTEl4dWFKRFM2UXZRbFZ1cFhXTzJsNnBiYUdPakg5Q3JRbmt1RFJHVnZzVWE4VWNMZk9ueG05LTJzQVNmLTI1S1lKMkx3Nmh3Tk5ES1BuSzdLbXZPUXRiS21scnBuRHVrX2QyMjA?oc=5
+- Sanju Samson: The nearly-forgotten cricketer who became India's T20 World Cup hero - BBC
+  Sanju Samson is India's T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83QnV4YkpFdlo1RVVkR1ZoZEFKdE5sTFdxY3lYbWo0Q25QSjBWaFB1dGN5MWE5ZWRYbHBEOEJRUEV0UTQ4U0dfbkh4WmJlQWNxcExlbGEzVFVTdw?oc=5
 
-- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
-  The Times of India reports on the latest developments in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
+- 'Wish we had 2–3 players like him in Pakistan': Ex-cricketer's blunt take on this Indian cricketer - The Times of India
+  'Wish we had 2–3 players like him in Pakistan': Ex-c
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQWHFtc2hUZVJPXzMtZV9RMmo0c3pHdEpZYlBwaENxODNrTEJTc3dDRkg1TFE2WHNmb0NQaU1sb2duNzNPV0FMTl9UVWJ2WlpmSkU1ZWJ1OVhtWGE1ZGw3LVk5QUJJTDVmcWdGbHNQYVNKdmp0NkVyVFJlV3ZweG96cWdIWUZKSDZVaU9ic25HRFAwV0NaTHpWaXlYOGl2ZFhxY2E3UVdjVHNnV3YtWEZLZGlrVm9CM1BtZGstQm9OdTNFVkJibGFGcEc1VkQ3VEVmZjRtaXpWOU16VlIzUllfNWhOSU1XckZOVmc2R1VVdFFFWEMybW92cXU2YUNIeEEtU2N6WDVB0gGLAkFVX3lxTE1ab3M0YklxOEhTM0x0QzN1ZjhXZzRXeFp1d3hJQWpxM201YUZ1ZWRDdWhGLTd5XzFJdk5aSDk5M25CWTREbGtXNEhhYkxDYXFPUExoVFEyS1FHaU0yMlhlcWxEb2EyeDhSckRNX2xNdGNQZWQxWEQtOENpOVlMU0NUR3B0ODF2UG9Fd1ZPS1VHY1g5ckZFQ3VmcDhVczJqYnJEMFZDVlBFTF9RWi1CQWx0cExPMWR2VkFSQkRqczRUQzk0UU9vcUt0ZFAzakVmZHVNcmVqdHFJNGFmSVczUTBFZ0xjX3JmdVRKWS1MMm9rOHRYc0tMd3J5NVE0V3h1WGdGMGFKcWpDWTVvYw?oc=5
 
-- Global Iran War Impact, India Fuel Supply Concerns, Pakistan Austerity Steps And More. - The Times of India
-  The Times of India has published an article on the Iran-Pakistan conflict
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYTNUSXZ5MmZ3akl2TzRlcVMzTmJscDl0eS1LUGNlakpTcmlUVVNXM2duZ0YzWW1EMmFsQ1lhRm1NVy1pcmlYVktCbUgtUHE2anpLakRyb280UTlGRjhvUURTVUVrbmpZZHhxMGFWMmFuQ3Z2SGE4TURFc3ZBZlBYQ09nRC1ZY0lQRjhUVldLcEdBN0tMeGxoRUloM2N5ZHFOMjFraFcxcDR0NkZiZmRBREpfTWtPWWpScW5sUC1hRzFUUXNPMzdWTkQxYU5IRnl6eURmSUhrVTNEYjVIMXdqT2xfWmZqVnNzdWxGanlUaVhZNjdBNkHSAfsBQVVfeXFMTkJiN1JRdVczQ1RmaWNPN2h5cmhRdVg4QXE0a01ObGE2bW15M2Y5cmdqRkl4dEpvSWVZZVhkTTUxb0ZMbTBqZUdEbVZYVEV5RXlkNm43bXFRTUdZVzZGRFpLMGpOd1VXaklZNWtrclFPTDE1ZE5ENWtjb2RyY1ZCWDJLRE11WXF0TVNua3ViOXp2ZW10Y05JTnFQUEJpRU5HdGY0eGVSMHNMeW5od1VWM21pVUxrbVJybEZ0NmZhNFFaVDFrWlI2RnZWSzlxQUxobjF1YW1odC1pdktrT3R2QmEtTGV4eGVGWE84ZVhhRTBHSlNtZ0d3TEpmdFk?oc=5
+- "Exceptional Skills, Determination, Teamwork": PM Modi On India's T20 World Cup Victory - NDTV
+  "Exceptional Skills, Determination, Teamwork
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1oWUZ0NjFpMklPbmNSeFdGdllodGEyY0F2ZkhWUTU2QzcyYzlFQ0Z0Nmk3Rmc4QTFHYVRQR1I1d3lOdlpxMVNaUHpXUkxPaWZ0VGdYTlhvUlpleGdaSjNBZG5kRV94dzl0cWVwM3U2LUNvbjJNWkJNTkh4MnlaWGVheWRmR3hzSVBtdUZRN0JWSlhDWm1hNWNuNXRfWlM0aFVsd2s3MEMyeEI1UFJhcU9kMlh2QzZsVXdHUWxUY0lWbEhK0gHMAUFVX3lxTE9yUWVtdmx2TzBtZmV2ZjFGa3JyOEpPSzAzSThGbVhmS21FcTNsRGhqMzVqSHJsRzdwaDAzQ3J3QzZMR2laZzNpZWJzc3lxTUxnbXR1cjVSTmZ3bVV4S0xtRDliYlZxR2c1MzZpZXBfTkhEallXbllDR0RKbmlXRERkRjJxS3UydWFwa0VlVzFFT1VGV0tTZ1ktek9aS0p5ckZyTmZhVS1EbXBXazRaOHd0Q2Q3Zy1hY2thRUJwdnpyaUZjWnpYZHE0U3JLQQ?oc=5
 
-- Bhagwant Mann Flags Risk To Farmers From India-US Trade Deal - NDTV
-  Bhagwant Mann Flags Risk To
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2pQcFRzTXRKYW9FektCMmlNNi1KeVVxc00tZGh5Y2prbmVRN3F1R2dIVWdCMlNwaFFkeGpDMG1CSUxnaFB0d09kZkljVDA0RjdabGI0M1JJTGZYVWE5RU5yQkk2TFh5MWp0aTJtMDRZVng5T0Q5QXJITEFsdGYtVExfZjZIOGtad0ZJaDJiLUg4dURhbjJTOUdzc3FEQkgzMWY00gGrAUFVX3lxTE5wd0JtZHo4aXk4bjIzVlY5NnVNQVVHSUtmUVRGeEpaRy1tZlpISkdGbnpDc3dXZHphaEJGUWtvVmdIVnQ4eloyQ0JiZjhKOTNNa0JlY0E4U1NkU3lqZm9YVzZYZ2VGbXd2SUlHd0FSa1U0blhHRG9RZE5vZENnajE5OTlNSTRlVTZSMjRwOXQ1aWt3Y1BicnVkVnRlQmpYYUR6RjVWTnNLN1htNA?oc=5
+- 'Good actors': White House on ‘allowing’ India to resume Russian oil purchase | India News - Hindustan Times
+  'Good actors': White House on ‘allowing’ India
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWUd3RUNnNVR3M2xYLWhSRjlRcTdZZnNpdW5sd2Vpa25oNFlHZlVvclU3Vk9FcnRmc2E1NzFoZEtKX1RVZDZESnBhSU8ta3ZVbElleFpPdWZ6WlQyeGlaYnREZ0ROSVFuQnpKQWhxanN1LW5PQjIyYkt2TXRMSnlnWG5sQnh1TmtQUWRNVGNjZm85aVlkelc0MlFBNmRBWE5WeWxxaHQ4QUxCdXlUanpFdUtNNVpmdlFXTXVoU0lyU2d1NzVpdVUyZ0p3LXVTN1RVRGM1QlBRZEVKczVZT1pFcFAtd2M2UWlNNlFQeUdINUtBb1AzbnNXY1JxZFI0ekRUWmMyN0tqV2zSAY4CQVVfeXFMTWVYZWJ5V2ZxRXczZ2FOS3FYMGVpQXhTNlVVUTJJWWFIeGJjX0JHbm5NaWcySzAtZlZpUHhNUjdiQV9Mb2NEMzhSTWlZbG1JbFlnYlhZRUdnVktYb2ktTWh5czROdHdyLVNNaFNTSDhLVUFCMnZ0WlVlOWktdVBWRGhzTXpxQ3RoaFpYYmJJNlVYSmQ0THA4SHV1dUpqbm9QTXViMW5nMk84bE83RDB6QTRsMXkyNHFtODd3LW1nNnhOV1hSTlBQd0Z4YW5EYjlodkhha1loY2J4ejNMeWkwWlNWXy1vTzlHZ1lwUGJMVHZKc1hUSi1ObEZhaDVWUUlXX3hmdVAtbVhxbE9KaFd3?oc=5
 
 - Iran War Creates A $35 Trillion 'Superpower', Bigger Than India and UK Combined - NDTV
   Iran War Creates A $35 Trillion 'Super
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWFncElsSWVtNXVjeUY5RzNSLUw0dEFVRDc0VnJxNEhBSEJvUzMxT2xjaFduRHJQLUNIc3FjSlhvMGNrZG12MlNGeWFXYlBYcWZTNGVrdHNyamJMX0dtRFJtbW1YQWxTdFU4VWR1OTBwMnpBc01VdUJIOWZIXzFhb21nNWs1MVd6NDltX0YtM0xOd09aVzJVWk9IeTNGdzNaTVc1YmR5UVhmdVlKX0N2bmNIZWZLMHPSAb8BQVVfeXFMTlZiNER5c0h1UjRHMTB5M3dlS1hCT3p0Qjk2TktFRUREb01TZUhxZmtGMmxNRHQxTXNQczdvRGVVYi1IaHpkSFBDbUY0RzVWX3V6UzZzemxueFFZQ1VGTmZ2UkZ2bHZHZnV2Znc5XzFvR1Y1UzZWOEhsV1FTdUJwZ2dIQkZMY1Zya0NoZUczeWJUb2ZaV1o3QWNaOV9VdzB6enBjNlNHNGNaQXNZTVFrWk5JQ2RmYm9PbHlDbjNrdzg?oc=5
 
-- India news: 'No plans to increase fuel prices' - dw.com
-  India news: 'No plans
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFNUVFQ4ZGZzemRtWVF1ZC1KcnNfZW5wUlhNTEl4dWFKRFM2UXZRbFZ1cFhXTzJsNnBiYUdPakg5Q3JRbmt1RFJHVnZzVWE4VWNMZk9ueG05LTJzQVNmLTI1S1lKMkx3Nmh3Tk5ES1BuSzdLbXZPUXRiS21scnBuRHVrX2QyMjA?oc=5
+- Sanju Samson: The nearly-forgotten cricketer who became India's T20 World Cup hero - BBC
+  Sanju Samson is India's T20 World Cup
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE83QnV4YkpFdlo1RVVkR1ZoZEFKdE5sTFdxY3lYbWo0Q25QSjBWaFB1dGN5MWE5ZWRYbHBEOEJRUEV0UTQ4U0dfbkh4WmJlQWNxcExlbGEzVFVTdw?oc=5
 
-- Evening news wrap: How has US-Iran war hit India? Pakistan announces crisis measures amid Middle East ten - The Times of India
-  The Times of India reports on the latest developments in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOLW9BMTNVa19kMTRPMzR4Zmp6T2VoTnhZeUFqZnU1Tnl0N2hsNUkxa3pXT1NKTG0xc2Z2dXh4dHNkclZFaEVfTUtXOGxIZW5NdVhxYzJ4ckI4MjFPRUtCTGJlNGxUNGJZQ05VMk0waEVfSng5ODYwN0luN0k3M0gwNk5pbXFUSjV5d3FMWkFUUDMzYlpQbmFqY0QwYWpOVEpEZGJ1S196WVFxVjNUc0NQTndlcG9TUGppQXVuSjRVZWRUVWhIUTdTLWoyeXR6V2FEVnZTQ0g5YWN6ekdTT21zX0NnR2g3WkVwUVFwdFZNTmhMS2JBYTFvVngzMElBR0Z0RWVaTTdQRHp6NEh60gGSAkFVX3lxTE1vMkl4eVFIZURiY3lxVC1FcUlXb1lEZkFzM2NOY2ZuWkpLbjJ6LWk2SXgyd2lwd0dYMlBKeWVUVEdBQmNuRkdGWldvLVJWa21IcWN3MlduQVNjcktKVEhfZXZvaWk5QndTbmlxY2xUR0VoVVhHeFd0dUwxZWVDVTRxYlNvY1VDaHQ5d0ZmOEcyTnI1T01tSHdUT05RQUp0YS1tMVlMZVREeG5Kb0VPTUdJSFpNSHlnNHlQNG5SRndRLWpVbWw0Z3pKXzZyV2VVa3dLOHBUTF9RcWUxTTE1UzJCVzRNUHRxb0Jwd182emFUYXRXOG1zOHhVUnZ2QTE0NVk2ZC1ZWkNfUFJBTXExSUYwaWc?oc=5
+- 'Wish we had 2–3 players like him in Pakistan': Ex-cricketer's blunt take on this Indian cricketer - The Times of India
+  'Wish we had 2–3 players like him in Pakistan': Ex-c
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxQWHFtc2hUZVJPXzMtZV9RMmo0c3pHdEpZYlBwaENxODNrTEJTc3dDRkg1TFE2WHNmb0NQaU1sb2duNzNPV0FMTl9UVWJ2WlpmSkU1ZWJ1OVhtWGE1ZGw3LVk5QUJJTDVmcWdGbHNQYVNKdmp0NkVyVFJlV3ZweG96cWdIWUZKSDZVaU9ic25HRFAwV0NaTHpWaXlYOGl2ZFhxY2E3UVdjVHNnV3YtWEZLZGlrVm9CM1BtZGstQm9OdTNFVkJibGFGcEc1VkQ3VEVmZjRtaXpWOU16VlIzUllfNWhOSU1XckZOVmc2R1VVdFFFWEMybW92cXU2YUNIeEEtU2N6WDVB0gGLAkFVX3lxTE1ab3M0YklxOEhTM0x0QzN1ZjhXZzRXeFp1d3hJQWpxM201YUZ1ZWRDdWhGLTd5XzFJdk5aSDk5M25CWTREbGtXNEhhYkxDYXFPUExoVFEyS1FHaU0yMlhlcWxEb2EyeDhSckRNX2xNdGNQZWQxWEQtOENpOVlMU0NUR3B0ODF2UG9Fd1ZPS1VHY1g5ckZFQ3VmcDhVczJqYnJEMFZDVlBFTF9RWi1CQWx0cExPMWR2VkFSQkRqczRUQzk0UU9vcUt0ZFAzakVmZHVNcmVqdHFJNGFmSVczUTBFZ0xjX3JmdVRKWS1MMm9rOHRYc0tMd3J5NVE0V3h1WGdGMGFKcWpDWTVvYw?oc=5
 
-- Global Iran War Impact, India Fuel Supply Concerns, Pakistan Austerity Steps And More. - The Times of India
-  The Times of India has published an article on the Iran-Pakistan conflict
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYTNUSXZ5MmZ3akl2TzRlcVMzTmJscDl0eS1LUGNlakpTcmlUVVNXM2duZ0YzWW1EMmFsQ1lhRm1NVy1pcmlYVktCbUgtUHE2anpLakRyb280UTlGRjhvUURTVUVrbmpZZHhxMGFWMmFuQ3Z2SGE4TURFc3ZBZlBYQ09nRC1ZY0lQRjhUVldLcEdBN0tMeGxoRUloM2N5ZHFOMjFraFcxcDR0NkZiZmRBREpfTWtPWWpScW5sUC1hRzFUUXNPMzdWTkQxYU5IRnl6eURmSUhrVTNEYjVIMXdqT2xfWmZqVnNzdWxGanlUaVhZNjdBNkHSAfsBQVVfeXFMTkJiN1JRdVczQ1RmaWNPN2h5cmhRdVg4QXE0a01ObGE2bW15M2Y5cmdqRkl4dEpvSWVZZVhkTTUxb0ZMbTBqZUdEbVZYVEV5RXlkNm43bXFRTUdZVzZGRFpLMGpOd1VXaklZNWtrclFPTDE1ZE5ENWtjb2RyY1ZCWDJLRE11WXF0TVNua3ViOXp2ZW10Y05JTnFQUEJpRU5HdGY0eGVSMHNMeW5od1VWM21pVUxrbVJybEZ0NmZhNFFaVDFrWlI2RnZWSzlxQUxobjF1YW1odC1pdktrT3R2QmEtTGV4eGVGWE84ZVhhRTBHSlNtZ0d3TEpmdFk?oc=5
+- "Exceptional Skills, Determination, Teamwork": PM Modi On India's T20 World Cup Victory - NDTV
+  "Exceptional Skills, Determination, Teamwork
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1oWUZ0NjFpMklPbmNSeFdGdllodGEyY0F2ZkhWUTU2QzcyYzlFQ0Z0Nmk3Rmc4QTFHYVRQR1I1d3lOdlpxMVNaUHpXUkxPaWZ0VGdYTlhvUlpleGdaSjNBZG5kRV94dzl0cWVwM3U2LUNvbjJNWkJNTkh4MnlaWGVheWRmR3hzSVBtdUZRN0JWSlhDWm1hNWNuNXRfWlM0aFVsd2s3MEMyeEI1UFJhcU9kMlh2QzZsVXdHUWxUY0lWbEhK0gHMAUFVX3lxTE9yUWVtdmx2TzBtZmV2ZjFGa3JyOEpPSzAzSThGbVhmS21FcTNsRGhqMzVqSHJsRzdwaDAzQ3J3QzZMR2laZzNpZWJzc3lxTUxnbXR1cjVSTmZ3bVV4S0xtRDliYlZxR2c1MzZpZXBfTkhEallXbllDR0RKbmlXRERkRjJxS3UydWFwa0VlVzFFT1VGV0tTZ1ktek9aS0p5ckZyTmZhVS1EbXBXazRaOHd0Q2Q3Zy1hY2thRUJwdnpyaUZjWnpYZHE0U3JLQQ?oc=5
 
-- Bhagwant Mann Flags Risk To Farmers From India-US Trade Deal - NDTV
-  Bhagwant Mann Flags Risk To
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2pQcFRzTXRKYW9FektCMmlNNi1KeVVxc00tZGh5Y2prbmVRN3F1R2dIVWdCMlNwaFFkeGpDMG1CSUxnaFB0d09kZkljVDA0RjdabGI0M1JJTGZYVWE5RU5yQkk2TFh5MWp0aTJtMDRZVng5T0Q5QXJITEFsdGYtVExfZjZIOGtad0ZJaDJiLUg4dURhbjJTOUdzc3FEQkgzMWY00gGrAUFVX3lxTE5wd0JtZHo4aXk4bjIzVlY5NnVNQVVHSUtmUVRGeEpaRy1tZlpISkdGbnpDc3dXZHphaEJGUWtvVmdIVnQ4eloyQ0JiZjhKOTNNa0JlY0E4U1NkU3lqZm9YVzZYZ2VGbXd2SUlHd0FSa1U0blhHRG9RZE5vZENnajE5OTlNSTRlVTZSMjRwOXQ1aWt3Y1BicnVkVnRlQmpYYUR6RjVWTnNLN1htNA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-10 18:44:48 UTC_
+_Last updated: 2026-03-11 01:31:16 UTC_
