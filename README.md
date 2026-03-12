@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- Man who ‘wanted to kill Farooq Abdullah for 20 years’: Who is Kamal Singh Jamwal
+- ‘No shortage of petrol, diesel’: Petroleum Minister Hardeep Puri says panic on LPG driven by consumer anxiety
   
-  🔗 https://indianexpress.com/article/india/man-who-wanted-to-kill-farooq-abdullah-karan-singh-jamwal-10577766/
+  🔗 https://indianexpress.com/article/india/hardeep-puri-lok-sabha-oil-supply-lpg-shortage-west-asia-crisis-strait-of-hormuz-10578395/
 
-- In Assam, a medical college is renamed, a political storm brews
+- Amid gunfights and abductions, tensions spike in Manipur’s Ukhrul as release of 21 is followed by discovery of 2 bodies
   
-  🔗 https://indianexpress.com/article/india/in-assam-a-medical-college-is-renamed-a-political-storm-brews-10577412/
+  🔗 https://indianexpress.com/article/india/gunfights-abductions-tensions-manipur-ukhrul-release-discovery-bodies-10578500/
 
-- ‘Is our son’s life worth so little?’: Family after Supreme Court order in BIT Mesra student’s death
+- Parliamentary panel sounds alarm as urban development budget hits five-year low
   
-  🔗 https://indianexpress.com/article/india/is-our-sons-life-worth-so-little-family-after-supreme-court-order-in-bit-mesra-students-death-10577208/
+  🔗 https://indianexpress.com/article/india/mohua-budget-parliamentary-panel-urban-development-allocation-10578482/
 
-- Odisha CM flags ‘ill-treatment’ of President Murmu during West Bengal visit
+- Raghav Chadha questions ‘loot’ on prepaid recharge plans, says ‘mobile no longer a luxury’
   
-  🔗 https://indianexpress.com/article/india/odisha-cm-flags-ill-treatment-of-president-murmu-during-west-bengal-visit-10577187/
+  🔗 https://indianexpress.com/article/india/raghav-chadha-loot-28-day-mobile-prepaid-recharge-plans-10578259/
 
-- Meet the 2 families that took fight to Supreme Court after losing daughters to ‘Covid vaccine side-effects’
+- As concerns over LPG shortages grow rapidly, Govt declares war on ‘misinformation’
   
-  🔗 https://indianexpress.com/article/india/meet-the-2-families-that-took-fight-to-supreme-court-after-losing-daughters-to-covid-vaccine-side-effects-10577203/
+  🔗 https://indianexpress.com/article/india/lpg-shortage-india-govt-curbs-rumours-panic-booking-10578288/
+
+- YouTube Premium Lite Rs 89 plan gets 2 new features for free
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-premium-lite-rs-89-plan-gets-2-new-features-for-free-10578349/
+
+- Perplexity unveils ‘Personal Computer’, an AI agent that manages your tasks and files
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-personal-computer-ai-agent-10578145/
+
+- Nvidia launches Nemotron 3 Super, an open model to build cheaper and accurate AI agents
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-launches-nemotron-3-super-open-weight-ai-model-10578239/
+
+- I went to an Apple Store in Los Angeles, and tried the MacBook Neo: Here’s my experience
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-macbook-neo-2026-budget-notebook-10578018/
 
 - Samsung Galaxy S26 Ultra Review: A step toward ‘intelligent’ smartphones
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/samsung-galaxy-s26-ultra-review-10577842/
 
-- WhatsApp rolls out new parent-managed accounts for under-13 users: How parents can set it up
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-new-parent-managed-accounts-how-to-setup-10577808/
+- Why are startups taking longer to go beyond seed funding? RTP Global’s Garg explains
+   AI has shrunk development timelines, but it is taking longer to win customers
+  🔗 https://www.livemint.com/companies/start-ups/india-startup-seed-funding-ai-startups-rtp-global-nishit-garg-11773301855665.html
 
-- ‘Stealth’ Pokemon hit boosts Nintendo Switch 2 momentum sentiment
-  
-  🔗 https://indianexpress.com/article/technology/gaming/stealth-pokemon-hit-boosts-nintendo-switch-2-momentum-sentiment-10577697/
+- This startup lets you harvest your own mangoes, without owning a mango tree
+  Indian startup Rent A Tree allows people to lease mango trees for harvesting. Founded by Umesh Damodaran, the company offers fresh, tree-ripened mangoes
+  🔗 https://www.livemint.com/companies/start-ups/rent-a-tree-kerala-startup-lets-you-lease-mango-trees-harvest-mangoes-11773313324283.html
 
-- Atlassian to cut roughly 10% jobs in pivot to AI, Rajeev Rajan will step down as CTO
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/atlassian-to-cut-roughly-10-jobs-in-pivot-to-ai-rajeev-rajan-will-step-down-as-cto-10577684/
+- Early, contrarian AI trend has global IT firms hiring more in India to deliver growth, improve margins
+  Capgemini, Cognizant, and EPAM are increasing India headcount to leverage local talent. This trend, driven by a need to protect margins, contrasts with some Indian peers reducing workforce.
+  🔗 https://www.livemint.com/companies/early-ai-trend-outcome-global-it-firms-hire-more-india-cognizant-epam-capgemini-tcs-infosys-wipro-11773287038664.html
 
-- Pentagon opens door to exempt Anthropic use beyond 6-month ramp-down, memo says
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pentagon-opens-door-to-exempt-anthropic-use-beyond-6-month-ramp-down-memo-says-10577674/
+- HCLTech offers work from home as LPG crunch disrupts office cafeterias
+  Several cafeteria vendors were unable to operate due to the ongoing LPG crunch. HCL Tech allowed staff to
+  🔗 https://www.livemint.com/companies/hcltech-wfh-lpg-crunch-office-cafeterias-work-from-home-11773301582718.html
 
-- Anthropic in talks with Blackstone, other PE firms to set up AI joint venture: Report
-  Anthropic is in talks with Blackstone and Hellman &amp;amp; Friedman to form a Palantir‑style joint venture. US
-  🔗 https://www.livemint.com/companies/news/anthropic-in-talks-with-blackstone-other-pe-firms-to-set-up-ai-joint-venture-report-11773287347357.html
+- IndiGo, Air India get relief as CCI dismisses complaint on ticket cancellations and market dominance
+  CCI dismisses a complaint against IndiGo and Air India over alleged market dominance
+  🔗 https://www.livemint.com/companies/news/indigo-air-india-get-relief-as-cci-dismisses-complaint-on-ticket-cancellations-and-market-dominance-11773297992279.html
 
-- Atlassian layoffs: Software giant cuts 10% of workforce to ‘self-fund AI investment’
-   Atlassian announced a 10% workforce reduction, affecting 1,600 employees. Co-founder Mike Cannon-Brookes acknowledged the difficult decision in a memo to
-  🔗 https://www.livemint.com/companies/news/atlassian-layoffs-software-giant-cuts-10-of-workforce-to-self-fund-ai-investment-11773288283427.html
+- ₹11 to  ₹1205: Multibagger penny stock turns  ₹1 lakh into  ₹1.09 crore in five years
+  Lloyds Metals &amp;amp; Energy has delivered significant returns to investors, with shares rising 10,854% since March 2021. In terms of yearly performance,
+  🔗 https://www.livemint.com/market/stock-market-news/rs-11-to-rs-1205-multibagger-penny-stock-turns-rs-1-lakh-into-rs-1-09-crore-in-five-years-11773317561364.html
 
-- 'Funny reference to Microsoft': Elon Musk debuts Macrohard to emulate entire companies
-  The project will utilize Tesla's AI4 chip and Grok AI, a sophisticated navigation system, to process real-time actions. The project will
-  🔗 https://www.livemint.com/companies/news/funny-reference-to-microsoft-elon-musk-debuts-macrohard-to-emulate-entire-companies-tesla-11773284332831.html
+- The Strait of Hormuz could take weeks—even months—to reopen, military experts say
+  At that rate, analysts say oil prices would climb to $150. That would send the
+  🔗 https://www.livemint.com/market/commodities/the-strait-of-hormuz-could-take-weeks-even-months-to-reopen-military-experts-say-11773318144483.html
 
-- Aster DM wins nod for Quality Care merger, paving way for $7 bn hospital giant
-  Once completed, Aster-Quality merger will establish India’s third-largest hospital operator in terms of total beds. Apollo Hospitals Enterprise
-  🔗 https://www.livemint.com/companies/aster-dm-quality-care-merger-blackstone-healthcare-deal-alisha-moopen-11773239880959.html
+- US stock market today: Dow, S&amp;P 500 futures slip as war-driven oil surge clouds US Fed rate cut outlook
+  US stock market is expected to open lower on March 12 as futures of three key averages decline due to rising crude oil prices. The US-Israel conflict with Iran escalates, impacting oil prices, while investors
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-slip-as-war-driven-oil-surge-clouds-us-fed-rate-cut-outlook-11773311833974.html
 
-- Private credit fuels founder buybacks ahead of public listings
-  India’s private credit market has expanded rapidly, with a wave of domestic and global investment firms offering faster, more flexible capital. Promoters are tapping these funds to shore up share
-  🔗 https://www.livemint.com/companies/promoters-tap-private-credit-firms-to-up-stake-prior-to-public-market-listing-11773123317062.html
+- NSE picks 20 banks, eight law firms for mega IPO
+  Morgan Stanley, Citi, JP Morgan among foreign bankers. Kotak Mahindra, JM Financial, Axis and IIFL Capital among Indian bankers managing the NSE IPO.
+  🔗 https://www.livemint.com/market/ipo/national-stock-exchange-ipo-merchant-bankers-law-firms-advisors-selected-11773311688509.html
 
-- Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries - CNBC
-  Brent crude hits $100 a barrel as reserve release plans fail to ease
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQandIT1NOTEI3MXJPUWVqZ1dyaHB2UEgyNk1uZXFBMnNranBvcnYwVFh1bHZXUDFKYUlkNjhWcGhyMTgyQTN1WF9WNjZmNDAtRzRzTWZ4TG5YUWkyUmFyd3hCOWQ5dlF6WjA0SWZ0dXhTLXhjdFhuX21JVnhGUi0zdkhmanFzbDRSdG56ai05QjdhUGNUdGYzNW1lczVSMGNDN1HSAacBQVVfeXFMTkZDYVlJUU9XekR1WFlsZVpzZ1F0S0tLM0s1NTBsVF9EQmhUOS15ZzJYQmNNNWFNcl90Y2hxMGJqM3BzLUpJNWlZdmVnY2NMeldJT1dYazZXOW9IY0FfZW5xMHduQnR6NnpReUFmUHdZWVBPRlZNZGFtWVBoOGdwcjR5SG1GdW5Md1VycXRvdzFNNGFWcDh3emtfZjNBMGRKaE1oREVyTDQ?oc=5
+- IndiGo investors shrug off Pieter Elbers’ exit as Rahul Bhatia plays ‘Main Hoon Na’
+  Analysts don't expect much change in the airline's strategic approach.
+  🔗 https://www.livemint.com/market/indigo-founder-rahul-bhatia-returns-steadies-airline-investors-market-11773294774758.html
 
-- Deleted Tweet From Energy Secretary Sends Oil Markets on Another Wild Ride - WSJ
-  Deleted Tweet From Energy Secretary Sends Oil Markets
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3RDWDV3ZHhTNmdFQ2locU1fT1NnSEJzb3VLRGlRTlBiN0JlRzFYb1JnQjY1Zl8zMVRHSnJxQ2dFR3JSd3hyNFZXUWlTa3VmYUNYSll5bE9wNFZoVG5DR04ydE1IQWhTV1JaNmF2N2Zsa3ZvZXRCUkw5bkFZUkxkcWFFZGIwUWM5WUJ5SnpnSlRkOGxNOHRQTkFza2lvZ3pKYTBsVVdlcDZtNncteWlobHZRSHFCNUlCSlE?oc=5
+- Karnataka constitutes committee on responsible AI to develop comprehensive framework
+  Karnataka constitutes committee
+  🔗 https://www.livemint.com/technology/karnataka-constitutes-committee-on-responsible-ai-to-develop-comprehensive-framework-11773312319250.html
 
-- India ready to support oil markets as IEA agrees record release - Reuters
-  India ready to support oil markets as IEA
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjh4VmpuTnZMalZuWm00UzVZT3NSdjE3c2lMc0ZxVXNOOXZJaW03a1M0VldLTFd4Wkl2elBqVDM4Rmo5enZuc0x2MXlYbEIzenZLSnhpZHFqZy1zTVlTUkYxYXRiSi1YdFcyeFpWaW85bC1TODJkQ2F5YUlXeml3VkVzbmlaRjdFMDZkOUFjaHdPeVItVHZEOU1NZ2N6M29FWEIyVjg0UFN3ckNLalE?oc=5
+- iQOO Z11x with 7,200 mAh battery and Dimensity 7400 SoC launched in India, price starts at  ₹18,999
+  iQOO has launched the Z11x 5G in India, featuring a 7200mAh battery, dual rear cameras, and a 6.76-inch Full HD+ display.
+  🔗 https://www.livemint.com/technology/gadgets/iqoo-z11x-with-7-200-mah-battery-and-dimensity-7400-soc-launched-in-india-price-starts-at-rs-18999-11773300696830.html
 
-- Stock Market LIVE Updates: Sensex Sheds 500 Points, Nifty Down 200 As Oil Soars - NDTV
+- Adobe adds AI assistant to Photoshop, upgrades Firefly with new generative tools
+  Adobe is launching a beta AI assistant for Photoshop on web and mobile. The assistant simplifies editing tasks through voice or text commands. Firefly Image Editor receives updates for improved image manipulation
+  🔗 https://www.livemint.com/technology/tech-news/adobe-adds-ai-assistant-to-photoshop-upgrades-firefly-with-new-generative-tools-11773225938595.html
+
+- Google turns Chrome into an AI browser with Gemini support in India — top features, how to use and more
+  Gemini AI can be used to summarize content, draft emails, and edit images. The feature is now available to users in India, Canada
+  🔗 https://www.livemint.com/technology/tech-news/google-chrome-becomes-ai-browser-with-gemini-support-in-india-top-features-how-to-use-and-more-11773214220175.html
+
+- Xiaomi 17, Xiaomi 17 Ultra with LEICA camera setup launched in India: Price, specs, launch offers and more
+  Xiaomi launched the 17 series in India, featuring LTPO 120Hz displays, Snapdragon 8 Elite Gen 5 processors, and LEICA camera
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-xiaomi-17-ultra-with-leica-camera-setup-launched-in-india-price-specs-launch-offers-and-more-11773209865678.html
+
+- Global Stocks Fall as Vessel Attacks Lift Oil: Markets Wrap - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUQtSjViSWt6T2NCSWNPc1BqUlhDTE9jNjJaajVrRW9HX1RscEh3T2dob2ZMVzF4Vndyelh1UHVCb2JNOUwzeTBaeTlsSVY2OG1VS3k0VGxvMl9FWVd4Tm9QTXNjYjVTY0FHM3RHRlFkTWNhNG1EZ2RzV3ZaZWx5d0FTU1BiS0s3ODdpRVVFTDJlOFRkeWc?oc=5
+
+- Dow futures fall 400 points with oil rising, U.S. not ready to escort tankers through Strait of Hormuz: Live updates - CNBC
+  Dow futures fall 400 points with oil rising, U.S. not ready to escort
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5paHdBWjNhaGdxNmdBM1pNQWFWbFBqVHNNVXdDTlFKc2w5c1ZMUDNpUmwwaGttc1R0S3IxekQ1NUxXdEFZanVmdERMdzZkMlZkaWhUY2pVc3dxSHZ0VEdkVkd0SkVOUFZGVmtzS3lXcFV1cXdFaTM00gF8QVVfeXFMUDBWTEFlRDFhUXdyRGhRYUZuLXJEOVhkTUhHalpXbnNoNzFsWk4wdW5HT3l4ZjAzdjV5bVg2MGFGa3Z1LWV6cWRwdW12cVBPdG4wMVF3Q3pETTVOTEZYTEFqcDFyOG52RksxQkdZNGlKSG5lQkFfcXk3UUNldA?oc=5
+
+- Stock Market Today: Futures Sink as Oil Prices Extend Surge; IEA Says 'Largest Supply Disruption' in History - Investopedia
+  Oil Prices Extend Surge; IEA Says 'Largest Supply Disruption
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQUm5BMGpNTUhOZlJ1UXlHWHg2cHRkb0hqT1ZOTnllRndvQTNMb0dsSmt6NW5TTVppNEJiWDNsSU9WeXQwcF9Yc3JVUWVmSWFEc1hiS2FTMS1IM2h5ZmNieldNenE2Z3VOLXBuMzVaSHc0ME05R1Rtb1ZJZWFJMEpaY21peXJRUC1UeEVVWDY3b2g?oc=5
+
+- Stock Market Highlights: Sensex Sheds 800 Points, Nifty Down 200 As Oil Soars - NDTV
   <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV3Zrd1pXUXNQV0RiMjFCVURqWlhiMV9Za0dDcDFjeExJMDZlcGVIODhRQ0ZCZUs3SWFSTzdjeWlXcDl2Wm9oSE9ONXpqWVZqNXd2eHpTOEN0Y2NRS2I0dzh4czdybUVEV1
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV3Zrd1pXUXNQV0RiMjFCVURqWlhiMV9Za0dDcDFjeExJMDZlcGVIODhRQ0ZCZUs3SWFSTzdjeWlXcDl2Wm9oSE9ONXpqWVZqNXd2eHpTOEN0Y2NRS2I0dzh4czdybUVEV1paY056bUU5Y0tfYnlBNnVHZUg1U3UtQm9TUXdid0ZtaFVVczBqcFdIM1ZmZm51ckd6X29sQXVEYUh6VlBJYmtyWEMwU2UxZG5ERkRKRlE4UG9URFZFM0ZkbldIbndWeUkwTTc4UXI5ck5QRXRiaU1WVlpzSEpxOEZSRk9xVFVXeFduREdZalfSAfgBQVVfeXFMT2tCbThTZWpBZ0FIekFaZWctaDJLcFp2aVFpY05yNmNaQzYyelZic0pQcmdkYlNSdk1yaXdFYzQtMWNRcnNkM2FoX1NmaWlzdjZPRXlTYjBrSE9fN3U0V0xPS2hBMkpfdWRBb0hJbXNOX0ZoUjhvZVN5VTZFdi1LU1NCbkhDS0pPaFB1UkdRdkpSdmZ6NVhNV3ZGRHJmWXZuel9PaGR0THpVUGNEWk5lU3I4MU83QmU3a2U5LWlVVGNGRUc3VnhjNC1aVE00eEJHS05FSndUNVpNRjhUcFRHX1YxYzZjQzlTZkFXRWVncVA4VlRwNGdXeW0?oc=5
 
-- Dow futures tumble 500 points as oil prices continue their ascent amid Iran war: Live updates - CNBC
-  Dow futures tumble 500 points as oil prices continue to rise amid Iran
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5paHdBWjNhaGdxNmdBM1pNQWFWbFBqVHNNVXdDTlFKc2w5c1ZMUDNpUmwwaGttc1R0S3IxekQ1NUxXdEFZanVmdERMdzZkMlZkaWhUY2pVc3dxSHZ0VEdkVkd0SkVOUFZGVmtzS3lXcFV1cXdFaTM00gF8QVVfeXFMUDBWTEFlRDFhUXdyRGhRYUZuLXJEOVhkTUhHalpXbnNoNzFsWk4wdW5HT3l4ZjAzdjV5bVg2MGFGa3Z1LWV6cWRwdW12cVBPdG4wMVF3Q3pETTVOTEZYTEFqcDFyOG52RksxQkdZNGlKSG5lQkFfcXk3UUNldA?oc=5
+- S&P Global Ratings Forecasts Global Sustainable Bond Market Will Consolidate In 2026 with Issuance Levels at $800-900 billion - S&P Global
+  S&amp;P Global Ratings Forecasts Global Sustainable Bond Market Will Consolidate In
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWXpwYmFqMlo0NGZvYU0tWWdrZzZEN0ZPaTNKb1RSb3BCamhNaUpnZ1NqTVhMajBwdHdfZktjb1NNMVZPbDNva2szcDhBSUxId3Nva1N0M1dUWkd6RzlTWGJMNDgycURzYVItNjBudld5Y0xYdmtjTk81S1g4SkJkb1JtcVExUDI4SldKd1F6WDJ4ZThRM0dUSXlZaEt2VGRZTU9Cb1BXREE2OUlGMmRSWG5lWFo4NW5PbHJhLVlRWjM0eDB6SEh4RlhNX2NsSl84MEtQN002a21UTUxiTVlFYmY1alF3S09TNWpxbzdEZ3BYMVcz?oc=5
 
-- Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries - CNBC
-  Brent crude hits $100 a barrel as reserve release plans fail to ease
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQandIT1NOTEI3MXJPUWVqZ1dyaHB2UEgyNk1uZXFBMnNranBvcnYwVFh1bHZXUDFKYUlkNjhWcGhyMTgyQTN1WF9WNjZmNDAtRzRzTWZ4TG5YUWkyUmFyd3hCOWQ5dlF6WjA0SWZ0dXhTLXhjdFhuX21JVnhGUi0zdkhmanFzbDRSdG56ai05QjdhUGNUdGYzNW1lczVSMGNDN1HSAacBQVVfeXFMTkZDYVlJUU9XekR1WFlsZVpzZ1F0S0tLM0s1NTBsVF9EQmhUOS15ZzJYQmNNNWFNcl90Y2hxMGJqM3BzLUpJNWlZdmVnY2NMeldJT1dYazZXOW9IY0FfZW5xMHduQnR6NnpReUFmUHdZWVBPRlZNZGFtWVBoOGdwcjR5SG1GdW5Md1VycXRvdzFNNGFWcDh3emtfZjNBMGRKaE1oREVyTDQ?oc=5
+- Quote of the day by Carl Icahn: “In life and business, there are two cardinal sins. The first is to act precipitously without thought and the second is to not act at all.”
+  Legendary investor Carl Icahn warns against two major pitfalls: rash decisions and complete inaction. Successful leaders and individuals must find a balance, he says.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/stock-market-quote-of-the-day-by-carl-icahn-in-life-and-business-there-are-two-cardinal-sins-the-first-is-to-act-precipitously-without-thought-and-the-second-is-to-not-act-at-all-/articleshow/129499488.cms
 
-- Deleted Tweet From Energy Secretary Sends Oil Markets on Another Wild Ride - WSJ
-  Deleted Tweet From Energy Secretary Sends Oil Markets
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3RDWDV3ZHhTNmdFQ2locU1fT1NnSEJzb3VLRGlRTlBiN0JlRzFYb1JnQjY1Zl8zMVRHSnJxQ2dFR3JSd3hyNFZXUWlTa3VmYUNYSll5bE9wNFZoVG5DR04ydE1IQWhTV1JaNmF2N2Zsa3ZvZXRCUkw5bkFZUkxkcWFFZGIwUWM5WUJ5SnpnSlRkOGxNOHRQTkFza2lvZ3pKYTBsVVdlcDZtNncteWlobHZRSHFCNUlCSlE?oc=5
+- Coal India among 4 stocks that hit 52-week highs &amp; rallied up to 15% in a month
+  BSE Sensex fell 829 points to close at 76,034. Four BSE 200 stocks—Aurobindo Pharma, Coal India
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/coal-india-among-4-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/129507768.cms
 
-- India ready to support oil markets as IEA agrees record release - Reuters
-  India ready to support oil markets as IEA
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjh4VmpuTnZMalZuWm00UzVZT3NSdjE3c2lMc0ZxVXNOOXZJaW03a1M0VldLTFd4Wkl2elBqVDM4Rmo5enZuc0x2MXlYbEIzenZLSnhpZHFqZy1zTVlTUkYxYXRiSi1YdFcyeFpWaW85bC1TODJkQ2F5YUlXeml3VkVzbmlaRjdFMDZkOUFjaHdPeVItVHZEOU1NZ2N6M29FWEIyVjg0UFN3ckNLalE?oc=5
+- India bonds fall as escalating Iran war pushes up oil
+  Indian government bonds fell on Thursday, snapping a two-session rally. An escalating Middle East war kept oil prices elevated
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-escalating-iran-war-pushes-up-oil/articleshow/129507568.cms
 
-- Stock Market LIVE Updates: Sensex Sheds 500 Points, Nifty Down 200 As Oil Soars - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV3Zrd1pXUXNQV0RiMjFCVURqWlhiMV9Za0dDcDFjeExJMDZlcGVIODhRQ0ZCZUs3SWFSTzdjeWlXcDl2Wm9oSE9ONXpqWVZqNXd2eHpTOEN0Y2NRS2I0dzh4czdybUVEV1
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV3Zrd1pXUXNQV0RiMjFCVURqWlhiMV9Za0dDcDFjeExJMDZlcGVIODhRQ0ZCZUs3SWFSTzdjeWlXcDl2Wm9oSE9ONXpqWVZqNXd2eHpTOEN0Y2NRS2I0dzh4czdybUVEV1paY056bUU5Y0tfYnlBNnVHZUg1U3UtQm9TUXdid0ZtaFVVczBqcFdIM1ZmZm51ckd6X29sQXVEYUh6VlBJYmtyWEMwU2UxZG5ERkRKRlE4UG9URFZFM0ZkbldIbndWeUkwTTc4UXI5ck5QRXRiaU1WVlpzSEpxOEZSRk9xVFVXeFduREdZalfSAfgBQVVfeXFMT2tCbThTZWpBZ0FIekFaZWctaDJLcFp2aVFpY05yNmNaQzYyelZic0pQcmdkYlNSdk1yaXdFYzQtMWNRcnNkM2FoX1NmaWlzdjZPRXlTYjBrSE9fN3U0V0xPS2hBMkpfdWRBb0hJbXNOX0ZoUjhvZVN5VTZFdi1LU1NCbkhDS0pPaFB1UkdRdkpSdmZ6NVhNV3ZGRHJmWXZuel9PaGR0THpVUGNEWk5lU3I4MU83QmU3a2U5LWlVVGNGRUc3VnhjNC1aVE00eEJHS05FSndUNVpNRjhUcFRHX1YxYzZjQzlTZkFXRWVncVA4VlRwNGdXeW0?oc=5
+- Aurum PropTech sells two commercial buildings for Rs 112 cr in Navi Mumbai
+  Aurum PropTech Ltd has sold two commercial buildings in Navi Mumbai for Rs 112 crore. The company will use funds
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aurum-proptech-sells-two-commercial-buildings-for-rs-112-cr-in-navi-mumbai/articleshow/129507500.cms
 
-- Dow futures tumble 500 points as oil prices continue their ascent amid Iran war: Live updates - CNBC
-  Dow futures tumble 500 points as oil prices continue to rise amid Iran
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5paHdBWjNhaGdxNmdBM1pNQWFWbFBqVHNNVXdDTlFKc2w5c1ZMUDNpUmwwaGttc1R0S3IxekQ1NUxXdEFZanVmdERMdzZkMlZkaWhUY2pVc3dxSHZ0VEdkVkd0SkVOUFZGVmtzS3lXcFV1cXdFaTM00gF8QVVfeXFMUDBWTEFlRDFhUXdyRGhRYUZuLXJEOVhkTUhHalpXbnNoNzFsWk4wdW5HT3l4ZjAzdjV5bVg2MGFGa3Z1LWV6cWRwdW12cVBPdG4wMVF3Q3pETTVOTEZYTEFqcDFyOG52RksxQkdZNGlKSG5lQkFfcXk3UUNldA?oc=5
+- Assotech Realty to invest Rs 200 cr to build hotel in Shirdi
+  Real estate company Assotech Realty will invest Rs 200 crore to develop a hotel in Shirdi, Maharashtra.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/assotech-realty-to-invest-rs-200-cr-to-build-hotel-in-shirdi/articleshow/129507339.cms
 
-- Stay invested, deploy money gradually amid market volatility: Prateek Agarwal
-  Geopolitical tensions and trade route disruptions are making investors cautious. Market participants are closely monitoring the Strait of Hormuz. While uncertainty typically lowers valuations, it can create opportunities.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/stay-invested-deploy-money-gradually-amid-market-volatility-prateek-agarwal/articleshow/129495307.cms
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
 
-- Amid market volatility, Neeraj Dewan sees opportunities in these three sectors
-  Neeraj Dewan identifies selective long-term opportunities in sectors like energy, defensives, food delivery platforms, auto, and select PSU stocks. He advises gradual accumulation on dips.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/amid-market-volatility-neeraj-dewan-sees-opportunities-in-these-three-sectors/articleshow/129494484.cms
+- India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation': Government briefs on LPG supply concerns - The Times of India
+  India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
 
-- Bitcoin consolidates near $70,000 as macro uncertainty offsets institutional demand
-  Bitcoin consolidated near $70,000 despite positive institutional demand. Spot Bitcoin ETFs saw significant inflows and whale holdings rose. Analysts suggest cautious sentiment with limited near-term breakout
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-70000-as-macro-uncertainty-offsets-institutional-demand/articleshow/129494088.cms
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
 
-- Stock to buy: Jefferies lists 10 reasons to buy its top CRDMO pick Sai Life Sciences
-  Jefferies has initiated coverage on Sai Life Sciences with a 'Buy' rating and a Rs 1,300 target price. The brokerage highlighted the company's healthy pipeline, global presence, and clean balance sheet as key investment
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-to-buy-jefferies-lists-10-reasons-to-buy-its-top-crdmo-pick-sai-life-sciences/articleshow/129494038.cms
+- 'India's Fuel Supply Stable': Hardeep Singh Puri Rejects LPG Shortage, Oil Crisis Fears In Lok Sabha - The Times of India
+  'India's Fuel Supply Stable': Hardeep Singh Puri Rejects
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2xUcldHems3WFM5ekZOZ1RiVVlpZnhsNXktR0JKUHZqN3J3TWdrckxvQXViQ09nVEdoZFpFWGhqZlFYb2EyODdZcXhsVUwxa0NiLV9xY1d0a29SdlFGSDY5WnNORzJUTzFWel9XelZKcU83Ry1GNTFkYTFheVozMFNIS3g0dUFyRXdtTndrT1owVjB3VDM3azYycGV4dW5kZDhQUmh6bHdEWldqcEZjZ1BPUXQ4NE4zZ3FVQU5HS2NRalFYSDVkMXFza1Qwc2lhekNYTS1VbHA3QThLUGgyOENoTDB6UlJicWpKV0lEcURpcG94RDc0dU1lY9IBgAJBVV95cUxPNWZhSFNsVFd6b1dnemV3ZE1pYlR3c3B1MDc4Y2RhR0pPQks1MXZQQ1pKVGFINnBwN004bHRfUTJfbmFjNFFOVFFDTzFXQmpMbXRJY3VmWXh2dlNvS3Nnenlmd3NzRDJhVWNla1l3N3pCVElnZlMtc1hfX01UZmxjTTZ3clVQek1ZcEYtV3lBY0p1R05RZXFPdjIwVnkyQUh3R2ZPdXNyUmFxSDh2RUxYOHI0T0cwYUVpMi1jQzhzbkZQbGxmWWN2N21hMWg3SzdKTDJTcWxyMzdCRG80Mzk2cXBWNFU4WXNBYWEwTXlMdGp5TzZrX1lzUG9MWWVzSElZ?oc=5
 
-- AI to disrupt banking? Nomura initiates coverage on 3 NBFC stocks that can beat banks for next 15 years
-  Nomura has initiated coverage on Tata Capital, L&amp;T Finance and Piramal Finance with Buy ratings. The brokerage expects NBFCs to outpace banks over the next 15 years, driven by MSME credit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ai-to-disrupt-banking-nomura-initiates-coverage-on-3-nbfc-stocks-that-can-beat-banks-for-next-15-years/articleshow/129493893.cms
+- Top news of the day: March 12, 2026 - The Hindu
+  The Hindu is a Hindi-language
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEduQng3VV9IOWNlMTVFZGYwRGo1RlhCeXVZd1RZaFBUaGItZDZ3Nm5qVF9EQ0tVT3FWZXM5S3Nud2VFR1lPMVF6TGh6RzNtZzNlQ0VGZ29wSjV4OFpZOXFvamxxSWlNaUNNMDRjaDI3NVZrR3FaS2h2ajk4ckNFeE8zaXlIZVFFQjVJ0gGSAUFVX3lxTE1pbEpfQVFLVWRDcXZvQ0pXTHhXakxKb3ZqQmF6S0l0LUVKam1vdjZlbFFzelQ0czdYc2JycWVpX1daamRpQ1JKY1lSYldfc0ttZlVGQk5HUk5XbmJRT2hKX0xIaE5USTdwTUJqZFIyVXU5SllFOFNiM21haTZjX2pUOHlfUEFXYXQtczFHNjJXeXpn?oc=5
 
-- S Jaishankar's Intervention Behind Iran's Hormuz Clearance To India: Sources - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMn
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMnRUWG9PRXNxRW12ekEtY1A0ZGVwa0pIMi14c1cyUHZtbFppNFNIOVE2RS1GQ3dlV1VyNDVyTjNqVU02T0Ezc2c4RDhxS0dxS18wVFpTOGJHSXFJS3dqS0tjNG4xWDBBUEFnNnnSAdQBQVVfeXFMTk9rYXRJRUxWcjNfSzJURGhWWk85ZmVoNng2eUpQRlp6VXo0SVFzNml0R0NKOXpNY21fdWt6OWlkZUtBN1RsRUJaMW40N3hVYVlteWpFLUpwLU9vOW1TNEFSYXlMUDZ3RUZxSDNDU1Z6c2xTTDctcm9lNkdUaEVJSHBwUHp5d2h3MDdjSVRDZUFUVmZXUEZlQ1p5WEY4RVcxWnFQQmJBYzVIZ3dJT1NCOTM5ZS10d2pLMjlfTTIyZGhlY3JFMzNvUk9fWG5CNDhDWFp5MTk?oc=5
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
 
-- Iran Allows Safe Passage for India-Flagged Tankers Through Strait of Hormuz Amid Tensions - News On AIR
-  Iran Allows Safe Passage for India-Flagged Tankers Through Strait
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTBUY3dUNjRMM0RmSVJnbzdZaTFCTnRFakQzNkcwczRBVEFscXRTVUtrVzBWNWZ4VFh4VDhSZDE0UGpPeXhMMVJJT3NfUUJHQ3pTWWN0NmFnbkxHSjY2aXRISUNUZ3UzY1VldUEtS04zOVNkdEpLVE52S2ZJMFlrNjAyVHQwdFBybjNZbFJfTmMzYlQ5UFFrVjhYZV9aSThrWUJ2QTdHZ2JQSEpHdklnWlJZcTBOY1ptTHU0?oc=5
+- India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation': Government briefs on LPG supply concerns - The Times of India
+  India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
 
-- 108 Maoists, Carrying Total Bounty Of Rs 3.95 Crore, Surrender In Bastar - NDTV
-  108 Maoists, Carrying Total Bounty Of Rs
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTFKMFJtbWZmSVF6S0tmY2I1MVRlenhwWllhUXBFZ0x0RmdwaHNxLWtzR29qMDNwVmJTSDVKN0hIc1JIZzdWWktxUDVGTjdmbU9kTHVNMlBvQjZWa05Hc2hJNGJ5QnhyV3B6U1N6RnBYOVZKRE5JVFVwcHpqbXVLclotVWdRUGV6TkNmTUpuQnJONU5TTmhwX2dqc2l1Ty1Say10ZXdsVmEyZFB1T0VWc0RwNHM4TWJNS3NvcjF1azJhdTjSAcsBQVVfeXFMTmpkYnJsaEE2ZXIwMWVlNDRGQVhkTDhobUhJTXkwdXBuMUl3RUJtU2kzelVBTk9qV2hFZjlDUWtKUHgycDJjZ1hKR2JVRFJVaENoZXNJT01iVERVYjYzckJwcWpoSkNzbmdORmV3MEFicHZFZmk5UTdWZGxqa2FOWFhpSTRiY0wzbW9DVlZrbmNWM1Bza1RtTzF5MG5sRWYwb2pjTEZLVExLenJhV04tVGRwcWgtN2xYcE13c2JsS2pnLXZfelFJc0ZRc1E?oc=5
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
 
-- India Joins 29 Countries To Demand Protection For Peacekeepers In Lebanon - NDTV
-  India Joins 29 Countries To Demand Protection For
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlUREFta1c3TUVfNnFCMHRyNEktR0xFZkRROXBHYnUzSFBXSUVKQjZEenl4dEJXMll3V2pUSDc0ZWFCUGh1NkgwRTBJMnVleXQ1bTBfdF9iUFczSk5sWnRzNHc0S2s5dW95ajlYM3Q1MmNVeExmLThKNndwdXp2amE3bmJnNWtLQ2VKOVhON0pPbzlhZ19fSkZkOXhJNmE5OUpZcG10SVRoUE53YlJvUWtiUFFiSHViOXdMdktfWHpwdHRLV09pWmFR0gHSAUFVX3lxTE1JakxaVTVSN3pNTlBQNTR6aS1LZWpoTWNneG5NZWF4OEtwZUdZUmROR1kwbkl6NGlyaTRXMU1kVVNzbDRpOEtKMDdfVFJ4WWx4U0JQSjhUUHIxclJYckJRZ0xwOGFFZ0hmTlBLVlpXR2VoSS12NUVPd181bkR4WVVLdi1Ob1dRRjhpY3NMWFl2TnZRTVh2VHFqbEpZZVN1aFktdkV5ZVB2T0VpMDJhLVIzR3pZNnZXOGZaTF9QSHJoaENFZ1dfTGdnNmhtSldIN2NsQQ?oc=5
+- 'India's Fuel Supply Stable': Hardeep Singh Puri Rejects LPG Shortage, Oil Crisis Fears In Lok Sabha - The Times of India
+  'India's Fuel Supply Stable': Hardeep Singh Puri Rejects
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2xUcldHems3WFM5ekZOZ1RiVVlpZnhsNXktR0JKUHZqN3J3TWdrckxvQXViQ09nVEdoZFpFWGhqZlFYb2EyODdZcXhsVUwxa0NiLV9xY1d0a29SdlFGSDY5WnNORzJUTzFWel9XelZKcU83Ry1GNTFkYTFheVozMFNIS3g0dUFyRXdtTndrT1owVjB3VDM3azYycGV4dW5kZDhQUmh6bHdEWldqcEZjZ1BPUXQ4NE4zZ3FVQU5HS2NRalFYSDVkMXFza1Qwc2lhekNYTS1VbHA3QThLUGgyOENoTDB6UlJicWpKV0lEcURpcG94RDc0dU1lY9IBgAJBVV95cUxPNWZhSFNsVFd6b1dnemV3ZE1pYlR3c3B1MDc4Y2RhR0pPQks1MXZQQ1pKVGFINnBwN004bHRfUTJfbmFjNFFOVFFDTzFXQmpMbXRJY3VmWXh2dlNvS3Nnenlmd3NzRDJhVWNla1l3N3pCVElnZlMtc1hfX01UZmxjTTZ3clVQek1ZcEYtV3lBY0p1R05RZXFPdjIwVnkyQUh3R2ZPdXNyUmFxSDh2RUxYOHI0T0cwYUVpMi1jQzhzbkZQbGxmWWN2N21hMWg3SzdKTDJTcWxyMzdCRG80Mzk2cXBWNFU4WXNBYWEwTXlMdGp5TzZrX1lzUG9MWWVzSElZ?oc=5
 
-- Iran-Israel war LIVE: Iraq shuts down oil ports after 2 tankers attacked; Indian national killed, 38 rescued - The Hindu
-  The Hindu reports that an Indian national was killed in an attack on an oil tanker
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXYxSVB5Sm5hVFktNzFOUjFwcUFySXR0WkZqT2Y3UF90SkJWRzMxNnh1Z0FuZXgyaWVtd3NuNEpNOVhNWlF3MndEOWZjOEFNNVBZaDZYRzlRZ1Nla1RacHNDWUFQT3ZLR0lWbjM3X1dDdHpIOC1OaWlxZ1QzeVhaVFdob1VORjYwM1V2dDFNbkdITnZhbjIycmZMMGEtOXNmVGFOS2FEQ0V4SEpuQ0MxelQ0OWlsdlRGd3RLUFNFenV4WDjSAcoBQVVfeXFMTUFDX25XRzJjTTU1YmllUTN2eThFUi01c1g1b2cwUUgydFI4LUFDV0JYQi04U2xpMDNEX2p0S2RpcmNLQ1VLQU50N2hxcTBMdEVmNHFOU1ZRTEFhcFBCOG1rbGJRNXpfU2VBZDF5cm1pbTZROXJWdVZlNEp3MzVsb1lGeGVoUmZTWE0ybnc0WkJOMXN1cTF4U2s1anp4a1dzUjJ4aGZRWFhWZF9JMjNqS1oyY0VWWU5JUTRYeHYxMXlMaGR1bXlXcF9kZw?oc=5
+- Top news of the day: March 12, 2026 - The Hindu
+  The Hindu is a Hindi-language
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEduQng3VV9IOWNlMTVFZGYwRGo1RlhCeXVZd1RZaFBUaGItZDZ3Nm5qVF9EQ0tVT3FWZXM5S3Nud2VFR1lPMVF6TGh6RzNtZzNlQ0VGZ29wSjV4OFpZOXFvamxxSWlNaUNNMDRjaDI3NVZrR3FaS2h2ajk4ckNFeE8zaXlIZVFFQjVJ0gGSAUFVX3lxTE1pbEpfQVFLVWRDcXZvQ0pXTHhXakxKb3ZqQmF6S0l0LUVKam1vdjZlbFFzelQ0czdYc2JycWVpX1daamRpQ1JKY1lSYldfc0ttZlVGQk5HUk5XbmJRT2hKX0xIaE5USTdwTUJqZFIyVXU5SllFOFNiM21haTZjX2pUOHlfUEFXYXQtczFHNjJXeXpn?oc=5
 
-- S Jaishankar's Intervention Behind Iran's Hormuz Clearance To India: Sources - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMn
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMnRUWG9PRXNxRW12ekEtY1A0ZGVwa0pIMi14c1cyUHZtbFppNFNIOVE2RS1GQ3dlV1VyNDVyTjNqVU02T0Ezc2c4RDhxS0dxS18wVFpTOGJHSXFJS3dqS0tjNG4xWDBBUEFnNnnSAdQBQVVfeXFMTk9rYXRJRUxWcjNfSzJURGhWWk85ZmVoNng2eUpQRlp6VXo0SVFzNml0R0NKOXpNY21fdWt6OWlkZUtBN1RsRUJaMW40N3hVYVlteWpFLUpwLU9vOW1TNEFSYXlMUDZ3RUZxSDNDU1Z6c2xTTDctcm9lNkdUaEVJSHBwUHp5d2h3MDdjSVRDZUFUVmZXUEZlQ1p5WEY4RVcxWnFQQmJBYzVIZ3dJT1NCOTM5ZS10d2pLMjlfTTIyZGhlY3JFMzNvUk9fWG5CNDhDWFp5MTk?oc=5
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
 
-- Iran Allows Safe Passage for India-Flagged Tankers Through Strait of Hormuz Amid Tensions - News On AIR
-  Iran Allows Safe Passage for India-Flagged Tankers Through Strait
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTBUY3dUNjRMM0RmSVJnbzdZaTFCTnRFakQzNkcwczRBVEFscXRTVUtrVzBWNWZ4VFh4VDhSZDE0UGpPeXhMMVJJT3NfUUJHQ3pTWWN0NmFnbkxHSjY2aXRISUNUZ3UzY1VldUEtS04zOVNkdEpLVE52S2ZJMFlrNjAyVHQwdFBybjNZbFJfTmMzYlQ5UFFrVjhYZV9aSThrWUJ2QTdHZ2JQSEpHdklnWlJZcTBOY1ptTHU0?oc=5
+- India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation': Government briefs on LPG supply concerns - The Times of India
+  India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
 
-- 108 Maoists, Carrying Total Bounty Of Rs 3.95 Crore, Surrender In Bastar - NDTV
-  108 Maoists, Carrying Total Bounty Of Rs
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTFKMFJtbWZmSVF6S0tmY2I1MVRlenhwWllhUXBFZ0x0RmdwaHNxLWtzR29qMDNwVmJTSDVKN0hIc1JIZzdWWktxUDVGTjdmbU9kTHVNMlBvQjZWa05Hc2hJNGJ5QnhyV3B6U1N6RnBYOVZKRE5JVFVwcHpqbXVLclotVWdRUGV6TkNmTUpuQnJONU5TTmhwX2dqc2l1Ty1Say10ZXdsVmEyZFB1T0VWc0RwNHM4TWJNS3NvcjF1azJhdTjSAcsBQVVfeXFMTmpkYnJsaEE2ZXIwMWVlNDRGQVhkTDhobUhJTXkwdXBuMUl3RUJtU2kzelVBTk9qV2hFZjlDUWtKUHgycDJjZ1hKR2JVRFJVaENoZXNJT01iVERVYjYzckJwcWpoSkNzbmdORmV3MEFicHZFZmk5UTdWZGxqa2FOWFhpSTRiY0wzbW9DVlZrbmNWM1Bza1RtTzF5MG5sRWYwb2pjTEZLVExLenJhV04tVGRwcWgtN2xYcE13c2JsS2pnLXZfelFJc0ZRc1E?oc=5
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
 
-- India Joins 29 Countries To Demand Protection For Peacekeepers In Lebanon - NDTV
-  India Joins 29 Countries To Demand Protection For
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlUREFta1c3TUVfNnFCMHRyNEktR0xFZkRROXBHYnUzSFBXSUVKQjZEenl4dEJXMll3V2pUSDc0ZWFCUGh1NkgwRTBJMnVleXQ1bTBfdF9iUFczSk5sWnRzNHc0S2s5dW95ajlYM3Q1MmNVeExmLThKNndwdXp2amE3bmJnNWtLQ2VKOVhON0pPbzlhZ19fSkZkOXhJNmE5OUpZcG10SVRoUE53YlJvUWtiUFFiSHViOXdMdktfWHpwdHRLV09pWmFR0gHSAUFVX3lxTE1JakxaVTVSN3pNTlBQNTR6aS1LZWpoTWNneG5NZWF4OEtwZUdZUmROR1kwbkl6NGlyaTRXMU1kVVNzbDRpOEtKMDdfVFJ4WWx4U0JQSjhUUHIxclJYckJRZ0xwOGFFZ0hmTlBLVlpXR2VoSS12NUVPd181bkR4WVVLdi1Ob1dRRjhpY3NMWFl2TnZRTVh2VHFqbEpZZVN1aFktdkV5ZVB2T0VpMDJhLVIzR3pZNnZXOGZaTF9QSHJoaENFZ1dfTGdnNmhtSldIN2NsQQ?oc=5
+- 'India's Fuel Supply Stable': Hardeep Singh Puri Rejects LPG Shortage, Oil Crisis Fears In Lok Sabha - The Times of India
+  'India's Fuel Supply Stable': Hardeep Singh Puri Rejects
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2xUcldHems3WFM5ekZOZ1RiVVlpZnhsNXktR0JKUHZqN3J3TWdrckxvQXViQ09nVEdoZFpFWGhqZlFYb2EyODdZcXhsVUwxa0NiLV9xY1d0a29SdlFGSDY5WnNORzJUTzFWel9XelZKcU83Ry1GNTFkYTFheVozMFNIS3g0dUFyRXdtTndrT1owVjB3VDM3azYycGV4dW5kZDhQUmh6bHdEWldqcEZjZ1BPUXQ4NE4zZ3FVQU5HS2NRalFYSDVkMXFza1Qwc2lhekNYTS1VbHA3QThLUGgyOENoTDB6UlJicWpKV0lEcURpcG94RDc0dU1lY9IBgAJBVV95cUxPNWZhSFNsVFd6b1dnemV3ZE1pYlR3c3B1MDc4Y2RhR0pPQks1MXZQQ1pKVGFINnBwN004bHRfUTJfbmFjNFFOVFFDTzFXQmpMbXRJY3VmWXh2dlNvS3Nnenlmd3NzRDJhVWNla1l3N3pCVElnZlMtc1hfX01UZmxjTTZ3clVQek1ZcEYtV3lBY0p1R05RZXFPdjIwVnkyQUh3R2ZPdXNyUmFxSDh2RUxYOHI0T0cwYUVpMi1jQzhzbkZQbGxmWWN2N21hMWg3SzdKTDJTcWxyMzdCRG80Mzk2cXBWNFU4WXNBYWEwTXlMdGp5TzZrX1lzUG9MWWVzSElZ?oc=5
 
-- Iran-Israel war LIVE: Iraq shuts down oil ports after 2 tankers attacked; Indian national killed, 38 rescued - The Hindu
-  The Hindu reports that an Indian national was killed in an attack on an oil tanker
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXYxSVB5Sm5hVFktNzFOUjFwcUFySXR0WkZqT2Y3UF90SkJWRzMxNnh1Z0FuZXgyaWVtd3NuNEpNOVhNWlF3MndEOWZjOEFNNVBZaDZYRzlRZ1Nla1RacHNDWUFQT3ZLR0lWbjM3X1dDdHpIOC1OaWlxZ1QzeVhaVFdob1VORjYwM1V2dDFNbkdITnZhbjIycmZMMGEtOXNmVGFOS2FEQ0V4SEpuQ0MxelQ0OWlsdlRGd3RLUFNFenV4WDjSAcoBQVVfeXFMTUFDX25XRzJjTTU1YmllUTN2eThFUi01c1g1b2cwUUgydFI4LUFDV0JYQi04U2xpMDNEX2p0S2RpcmNLQ1VLQU50N2hxcTBMdEVmNHFOU1ZRTEFhcFBCOG1rbGJRNXpfU2VBZDF5cm1pbTZROXJWdVZlNEp3MzVsb1lGeGVoUmZTWE0ybnc0WkJOMXN1cTF4U2s1anp4a1dzUjJ4aGZRWFhWZF9JMjNqS1oyY0VWWU5JUTRYeHYxMXlMaGR1bXlXcF9kZw?oc=5
+- Top news of the day: March 12, 2026 - The Hindu
+  The Hindu is a Hindi-language
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEduQng3VV9IOWNlMTVFZGYwRGo1RlhCeXVZd1RZaFBUaGItZDZ3Nm5qVF9EQ0tVT3FWZXM5S3Nud2VFR1lPMVF6TGh6RzNtZzNlQ0VGZ29wSjV4OFpZOXFvamxxSWlNaUNNMDRjaDI3NVZrR3FaS2h2ajk4ckNFeE8zaXlIZVFFQjVJ0gGSAUFVX3lxTE1pbEpfQVFLVWRDcXZvQ0pXTHhXakxKb3ZqQmF6S0l0LUVKam1vdjZlbFFzelQ0czdYc2JycWVpX1daamRpQ1JKY1lSYldfc0ttZlVGQk5HUk5XbmJRT2hKX0xIaE5USTdwTUJqZFIyVXU5SllFOFNiM21haTZjX2pUOHlfUEFXYXQtczFHNjJXeXpn?oc=5
 
-- S Jaishankar's Intervention Behind Iran's Hormuz Clearance To India: Sources - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMn
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMnRUWG9PRXNxRW12ekEtY1A0ZGVwa0pIMi14c1cyUHZtbFppNFNIOVE2RS1GQ3dlV1VyNDVyTjNqVU02T0Ezc2c4RDhxS0dxS18wVFpTOGJHSXFJS3dqS0tjNG4xWDBBUEFnNnnSAdQBQVVfeXFMTk9rYXRJRUxWcjNfSzJURGhWWk85ZmVoNng2eUpQRlp6VXo0SVFzNml0R0NKOXpNY21fdWt6OWlkZUtBN1RsRUJaMW40N3hVYVlteWpFLUpwLU9vOW1TNEFSYXlMUDZ3RUZxSDNDU1Z6c2xTTDctcm9lNkdUaEVJSHBwUHp5d2h3MDdjSVRDZUFUVmZXUEZlQ1p5WEY4RVcxWnFQQmJBYzVIZ3dJT1NCOTM5ZS10d2pLMjlfTTIyZGhlY3JFMzNvUk9fWG5CNDhDWFp5MTk?oc=5
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
 
-- Iran Allows Safe Passage for India-Flagged Tankers Through Strait of Hormuz Amid Tensions - News On AIR
-  Iran Allows Safe Passage for India-Flagged Tankers Through Strait
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTBUY3dUNjRMM0RmSVJnbzdZaTFCTnRFakQzNkcwczRBVEFscXRTVUtrVzBWNWZ4VFh4VDhSZDE0UGpPeXhMMVJJT3NfUUJHQ3pTWWN0NmFnbkxHSjY2aXRISUNUZ3UzY1VldUEtS04zOVNkdEpLVE52S2ZJMFlrNjAyVHQwdFBybjNZbFJfTmMzYlQ5UFFrVjhYZV9aSThrWUJ2QTdHZ2JQSEpHdklnWlJZcTBOY1ptTHU0?oc=5
+- India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation': Government briefs on LPG supply concerns - The Times of India
+  India LPG Cylinder Shortage News Live Updates: 'It's a difficult situation
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
 
-- 108 Maoists, Carrying Total Bounty Of Rs 3.95 Crore, Surrender In Bastar - NDTV
-  108 Maoists, Carrying Total Bounty Of Rs
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTFKMFJtbWZmSVF6S0tmY2I1MVRlenhwWllhUXBFZ0x0RmdwaHNxLWtzR29qMDNwVmJTSDVKN0hIc1JIZzdWWktxUDVGTjdmbU9kTHVNMlBvQjZWa05Hc2hJNGJ5QnhyV3B6U1N6RnBYOVZKRE5JVFVwcHpqbXVLclotVWdRUGV6TkNmTUpuQnJONU5TTmhwX2dqc2l1Ty1Say10ZXdsVmEyZFB1T0VWc0RwNHM4TWJNS3NvcjF1azJhdTjSAcsBQVVfeXFMTmpkYnJsaEE2ZXIwMWVlNDRGQVhkTDhobUhJTXkwdXBuMUl3RUJtU2kzelVBTk9qV2hFZjlDUWtKUHgycDJjZ1hKR2JVRFJVaENoZXNJT01iVERVYjYzckJwcWpoSkNzbmdORmV3MEFicHZFZmk5UTdWZGxqa2FOWFhpSTRiY0wzbW9DVlZrbmNWM1Bza1RtTzF5MG5sRWYwb2pjTEZLVExLenJhV04tVGRwcWgtN2xYcE13c2JsS2pnLXZfelFJc0ZRc1E?oc=5
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
 
-- India Joins 29 Countries To Demand Protection For Peacekeepers In Lebanon - NDTV
-  India Joins 29 Countries To Demand Protection For
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlUREFta1c3TUVfNnFCMHRyNEktR0xFZkRROXBHYnUzSFBXSUVKQjZEenl4dEJXMll3V2pUSDc0ZWFCUGh1NkgwRTBJMnVleXQ1bTBfdF9iUFczSk5sWnRzNHc0S2s5dW95ajlYM3Q1MmNVeExmLThKNndwdXp2amE3bmJnNWtLQ2VKOVhON0pPbzlhZ19fSkZkOXhJNmE5OUpZcG10SVRoUE53YlJvUWtiUFFiSHViOXdMdktfWHpwdHRLV09pWmFR0gHSAUFVX3lxTE1JakxaVTVSN3pNTlBQNTR6aS1LZWpoTWNneG5NZWF4OEtwZUdZUmROR1kwbkl6NGlyaTRXMU1kVVNzbDRpOEtKMDdfVFJ4WWx4U0JQSjhUUHIxclJYckJRZ0xwOGFFZ0hmTlBLVlpXR2VoSS12NUVPd181bkR4WVVLdi1Ob1dRRjhpY3NMWFl2TnZRTVh2VHFqbEpZZVN1aFktdkV5ZVB2T0VpMDJhLVIzR3pZNnZXOGZaTF9QSHJoaENFZ1dfTGdnNmhtSldIN2NsQQ?oc=5
+- 'India's Fuel Supply Stable': Hardeep Singh Puri Rejects LPG Shortage, Oil Crisis Fears In Lok Sabha - The Times of India
+  'India's Fuel Supply Stable': Hardeep Singh Puri Rejects
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2xUcldHems3WFM5ekZOZ1RiVVlpZnhsNXktR0JKUHZqN3J3TWdrckxvQXViQ09nVEdoZFpFWGhqZlFYb2EyODdZcXhsVUwxa0NiLV9xY1d0a29SdlFGSDY5WnNORzJUTzFWel9XelZKcU83Ry1GNTFkYTFheVozMFNIS3g0dUFyRXdtTndrT1owVjB3VDM3azYycGV4dW5kZDhQUmh6bHdEWldqcEZjZ1BPUXQ4NE4zZ3FVQU5HS2NRalFYSDVkMXFza1Qwc2lhekNYTS1VbHA3QThLUGgyOENoTDB6UlJicWpKV0lEcURpcG94RDc0dU1lY9IBgAJBVV95cUxPNWZhSFNsVFd6b1dnemV3ZE1pYlR3c3B1MDc4Y2RhR0pPQks1MXZQQ1pKVGFINnBwN004bHRfUTJfbmFjNFFOVFFDTzFXQmpMbXRJY3VmWXh2dlNvS3Nnenlmd3NzRDJhVWNla1l3N3pCVElnZlMtc1hfX01UZmxjTTZ3clVQek1ZcEYtV3lBY0p1R05RZXFPdjIwVnkyQUh3R2ZPdXNyUmFxSDh2RUxYOHI0T0cwYUVpMi1jQzhzbkZQbGxmWWN2N21hMWg3SzdKTDJTcWxyMzdCRG80Mzk2cXBWNFU4WXNBYWEwTXlMdGp5TzZrX1lzUG9MWWVzSElZ?oc=5
 
-- Iran-Israel war LIVE: Iraq shuts down oil ports after 2 tankers attacked; Indian national killed, 38 rescued - The Hindu
-  The Hindu reports that an Indian national was killed in an attack on an oil tanker
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXYxSVB5Sm5hVFktNzFOUjFwcUFySXR0WkZqT2Y3UF90SkJWRzMxNnh1Z0FuZXgyaWVtd3NuNEpNOVhNWlF3MndEOWZjOEFNNVBZaDZYRzlRZ1Nla1RacHNDWUFQT3ZLR0lWbjM3X1dDdHpIOC1OaWlxZ1QzeVhaVFdob1VORjYwM1V2dDFNbkdITnZhbjIycmZMMGEtOXNmVGFOS2FEQ0V4SEpuQ0MxelQ0OWlsdlRGd3RLUFNFenV4WDjSAcoBQVVfeXFMTUFDX25XRzJjTTU1YmllUTN2eThFUi01c1g1b2cwUUgydFI4LUFDV0JYQi04U2xpMDNEX2p0S2RpcmNLQ1VLQU50N2hxcTBMdEVmNHFOU1ZRTEFhcFBCOG1rbGJRNXpfU2VBZDF5cm1pbTZROXJWdVZlNEp3MzVsb1lGeGVoUmZTWE0ybnc0WkJOMXN1cTF4U2s1anp4a1dzUjJ4aGZRWFhWZF9JMjNqS1oyY0VWWU5JUTRYeHYxMXlMaGR1bXlXcF9kZw?oc=5
-
-- S Jaishankar's Intervention Behind Iran's Hormuz Clearance To India: Sources - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMn
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQamYxQ2FJTkxrbWwwNnE0c0JzVzdNX3VLTFZYMkI1OGpmQTZseGNaVlFRRDZXeENjTVNGQThlNnFVa0RQeEVjbFpiX0hPV2hQU3VGSWRUNzNUNU8ybzJZdXdndEdyVWoyMnRUWG9PRXNxRW12ekEtY1A0ZGVwa0pIMi14c1cyUHZtbFppNFNIOVE2RS1GQ3dlV1VyNDVyTjNqVU02T0Ezc2c4RDhxS0dxS18wVFpTOGJHSXFJS3dqS0tjNG4xWDBBUEFnNnnSAdQBQVVfeXFMTk9rYXRJRUxWcjNfSzJURGhWWk85ZmVoNng2eUpQRlp6VXo0SVFzNml0R0NKOXpNY21fdWt6OWlkZUtBN1RsRUJaMW40N3hVYVlteWpFLUpwLU9vOW1TNEFSYXlMUDZ3RUZxSDNDU1Z6c2xTTDctcm9lNkdUaEVJSHBwUHp5d2h3MDdjSVRDZUFUVmZXUEZlQ1p5WEY4RVcxWnFQQmJBYzVIZ3dJT1NCOTM5ZS10d2pLMjlfTTIyZGhlY3JFMzNvUk9fWG5CNDhDWFp5MTk?oc=5
-
-- Iran Allows Safe Passage for India-Flagged Tankers Through Strait of Hormuz Amid Tensions - News On AIR
-  Iran Allows Safe Passage for India-Flagged Tankers Through Strait
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTBUY3dUNjRMM0RmSVJnbzdZaTFCTnRFakQzNkcwczRBVEFscXRTVUtrVzBWNWZ4VFh4VDhSZDE0UGpPeXhMMVJJT3NfUUJHQ3pTWWN0NmFnbkxHSjY2aXRISUNUZ3UzY1VldUEtS04zOVNkdEpLVE52S2ZJMFlrNjAyVHQwdFBybjNZbFJfTmMzYlQ5UFFrVjhYZV9aSThrWUJ2QTdHZ2JQSEpHdklnWlJZcTBOY1ptTHU0?oc=5
-
-- 108 Maoists, Carrying Total Bounty Of Rs 3.95 Crore, Surrender In Bastar - NDTV
-  108 Maoists, Carrying Total Bounty Of Rs
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTFKMFJtbWZmSVF6S0tmY2I1MVRlenhwWllhUXBFZ0x0RmdwaHNxLWtzR29qMDNwVmJTSDVKN0hIc1JIZzdWWktxUDVGTjdmbU9kTHVNMlBvQjZWa05Hc2hJNGJ5QnhyV3B6U1N6RnBYOVZKRE5JVFVwcHpqbXVLclotVWdRUGV6TkNmTUpuQnJONU5TTmhwX2dqc2l1Ty1Say10ZXdsVmEyZFB1T0VWc0RwNHM4TWJNS3NvcjF1azJhdTjSAcsBQVVfeXFMTmpkYnJsaEE2ZXIwMWVlNDRGQVhkTDhobUhJTXkwdXBuMUl3RUJtU2kzelVBTk9qV2hFZjlDUWtKUHgycDJjZ1hKR2JVRFJVaENoZXNJT01iVERVYjYzckJwcWpoSkNzbmdORmV3MEFicHZFZmk5UTdWZGxqa2FOWFhpSTRiY0wzbW9DVlZrbmNWM1Bza1RtTzF5MG5sRWYwb2pjTEZLVExLenJhV04tVGRwcWgtN2xYcE13c2JsS2pnLXZfelFJc0ZRc1E?oc=5
-
-- India Joins 29 Countries To Demand Protection For Peacekeepers In Lebanon - NDTV
-  India Joins 29 Countries To Demand Protection For
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlUREFta1c3TUVfNnFCMHRyNEktR0xFZkRROXBHYnUzSFBXSUVKQjZEenl4dEJXMll3V2pUSDc0ZWFCUGh1NkgwRTBJMnVleXQ1bTBfdF9iUFczSk5sWnRzNHc0S2s5dW95ajlYM3Q1MmNVeExmLThKNndwdXp2amE3bmJnNWtLQ2VKOVhON0pPbzlhZ19fSkZkOXhJNmE5OUpZcG10SVRoUE53YlJvUWtiUFFiSHViOXdMdktfWHpwdHRLV09pWmFR0gHSAUFVX3lxTE1JakxaVTVSN3pNTlBQNTR6aS1LZWpoTWNneG5NZWF4OEtwZUdZUmROR1kwbkl6NGlyaTRXMU1kVVNzbDRpOEtKMDdfVFJ4WWx4U0JQSjhUUHIxclJYckJRZ0xwOGFFZ0hmTlBLVlpXR2VoSS12NUVPd181bkR4WVVLdi1Ob1dRRjhpY3NMWFl2TnZRTVh2VHFqbEpZZVN1aFktdkV5ZVB2T0VpMDJhLVIzR3pZNnZXOGZaTF9QSHJoaENFZ1dfTGdnNmhtSldIN2NsQQ?oc=5
-
-- Iran-Israel war LIVE: Iraq shuts down oil ports after 2 tankers attacked; Indian national killed, 38 rescued - The Hindu
-  The Hindu reports that an Indian national was killed in an attack on an oil tanker
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXYxSVB5Sm5hVFktNzFOUjFwcUFySXR0WkZqT2Y3UF90SkJWRzMxNnh1Z0FuZXgyaWVtd3NuNEpNOVhNWlF3MndEOWZjOEFNNVBZaDZYRzlRZ1Nla1RacHNDWUFQT3ZLR0lWbjM3X1dDdHpIOC1OaWlxZ1QzeVhaVFdob1VORjYwM1V2dDFNbkdITnZhbjIycmZMMGEtOXNmVGFOS2FEQ0V4SEpuQ0MxelQ0OWlsdlRGd3RLUFNFenV4WDjSAcoBQVVfeXFMTUFDX25XRzJjTTU1YmllUTN2eThFUi01c1g1b2cwUUgydFI4LUFDV0JYQi04U2xpMDNEX2p0S2RpcmNLQ1VLQU50N2hxcTBMdEVmNHFOU1ZRTEFhcFBCOG1rbGJRNXpfU2VBZDF5cm1pbTZROXJWdVZlNEp3MzVsb1lGeGVoUmZTWE0ybnc0WkJOMXN1cTF4U2s1anp4a1dzUjJ4aGZRWFhWZF9JMjNqS1oyY0VWWU5JUTRYeHYxMXlMaGR1bXlXcF9kZw?oc=5
+- Top news of the day: March 12, 2026 - The Hindu
+  The Hindu is a Hindi-language
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEduQng3VV9IOWNlMTVFZGYwRGo1RlhCeXVZd1RZaFBUaGItZDZ3Nm5qVF9EQ0tVT3FWZXM5S3Nud2VFR1lPMVF6TGh6RzNtZzNlQ0VGZ29wSjV4OFpZOXFvamxxSWlNaUNNMDRjaDI3NVZrR3FaS2h2ajk4ckNFeE8zaXlIZVFFQjVJ0gGSAUFVX3lxTE1pbEpfQVFLVWRDcXZvQ0pXTHhXakxKb3ZqQmF6S0l0LUVKam1vdjZlbFFzelQ0czdYc2JycWVpX1daamRpQ1JKY1lSYldfc0ttZlVGQk5HUk5XbmJRT2hKX0xIaE5USTdwTUJqZFIyVXU5SllFOFNiM21haTZjX2pUOHlfUEFXYXQtczFHNjJXeXpn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-12 06:51:32 UTC_
+_Last updated: 2026-03-12 12:49:53 UTC_
