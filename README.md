@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Amid cross-voting fears in Rajya Sabha polls, Odisha Congress moves MLAs to Bengaluru resort
+- ‘Basavaraju killing was our collective failure… Sonu was a traitor’: Top Maoist Devuji, who surrendered last month, speaks out
   
-  🔗 https://indianexpress.com/article/india/odisha-congress-mlas-bengaluru-resort-rajya-sabha-election-poaching-fears-10579537/
+  🔗 https://indianexpress.com/article/india/basavaraju-killing-failure-sonu-traitor-maoist-devuji-surrender-speaks-10580344/
 
-- India LPG Gas Cylinder Shortage, Petrol Prices Live Updates: Brent crude breaches $100-mark again; India pushes kerosene, coal amid cooking gas crisis
+- Over 100 fall ill after consuming food at wedding feast in Jharkhand’s Palamu
   
-  🔗 https://indianexpress.com/article/india/lpg-gas-shortage-petrol-diesel-price-crude-oil-live-updates-india-10577558/
+  🔗 https://indianexpress.com/article/india/palamu-wedding-food-poisoning-over-100-ill-medical-camp-10580317/
 
-- PM Kisan Samman Nidhi Yojana 22nd Installment: Date, Time, eligibility, how to check Rs 2000 payment in bank account
+- RSS pays tributes to Shivraj Patil, Sangh critic R Nallakannu; flags Bangladesh, Manipur concerns
   
-  🔗 https://indianexpress.com/article/india/pm-kisan-22nd-installment-date-time-today-check-payment-10579364/
+  🔗 https://indianexpress.com/article/india/rss-pays-tributes-to-shivraj-patil-sangh-critic-r-nallakannu-flags-bangladesh-manipur-concerns-10580161/
 
-- ‘In safe custody’: ASI denies Netaji’s cap is missing, says was taken for Port Blair exhibition
+- 10 lakh leaflets with ‘chargesheet’ against Himanta govt: Behind the arrest of 4 Congress workers in Guwahati
   
-  🔗 https://indianexpress.com/article/india/safe-custody-asi-netaji-cap-missing-port-blair-exhibition-10579437/
+  🔗 https://indianexpress.com/article/india/himanta-govt-congress-workers-arrest-leaflets-chargesheet-guwahati-10579972/
 
-- How a court ruling has put Bihar govt’s plans for iconic Patna library in limbo
+- Jaishankar speaks with Iran foreign minister Araghchi as he calls for co-operation from BRICS amid West Asia conflict
   
-  🔗 https://indianexpress.com/article/india/how-a-court-ruling-has-put-bihar-govts-plans-for-iconic-patna-library-in-limbo-10579029/
+  🔗 https://indianexpress.com/article/india/jaishankar-araghchi-call-brics-west-asia-conflict-modi-pezeshkian-10579878/
+
+- ‘This acts like a safety net’: Truecaller’s Kunal Dua on the new Family Protection feature
+  
+  🔗 https://indianexpress.com/article/technology/truecallers-kunal-dua-on-the-new-family-protection-feature-10580221/
+
+- Adobe CEO Shantanu Narayen steps down after 28 years; Satya Nadella hails ‘legendary run’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-ceo-shantanu-narayen-steps-down-10579858/
+
+- From school maps to metal shrapnel: The chilling ways top AI chatbots just failed a major safety probe
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-chatbots-ccdh-investigation-violent-content-safety-failure-10579587/
 
 - Truecaller rolls out Family Protection in India offering shared safety against scams
   
@@ -28,17 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/more-than-20-of-australian-teens-still-on-social-media-after-ban-report-finds-10579357/
 
-- Amazon plans to move Prime Day event to June from July: Report
-  
-  🔗 https://indianexpress.com/article/technology/amazon-plans-to-move-prime-day-event-to-june-from-july-report-10579351/
+- Delivery Hero Holder Aspex Tells CEO to Sell Units or Leave
+  Delivery Hero SE’s second-largest shareholder, Aspex Management, is threatening to try and replace the food delivery
+  🔗 https://www.livemint.com/companies/news/delivery-hero-second-largest-shareholder-aspex-tells-ceo-niklas-ostberg-sell-units-or-leave-company-asset-sale-foodpanda-11773403048300.html
 
-- LinkedIn introduces AI-powered Feed ranking, cracks down on automated comments
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/linkedin-introduces-ai-powered-feed-ranking-cracks-down-on-automated-comments-10579266/
+- Adobe CEO Shantanu Narayen leaves after 18 years; schoolmate Satya Nadella applauds 'empathy to creative process'
+  Adobe CEO Shantanu Narayen steps down after 18 years; to remaining as chairperson until a successor is found. He increased revenue from $3.58 billion to $23.8 billion but has
+  🔗 https://www.livemint.com/companies/shantanu-narayen-leave-adobe-18-years-schoolmate-satya-nadella-creative-process-11773383393868.html
 
-- Tinder tries to win back Gen Z users with video speed dating feature, bets heavily on AI
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tinder-tries-to-win-back-gen-z-users-with-video-speed-dating-feature-bets-heavily-on-ai-10579012/
+- ByteDance to get access to top-end Nvidia Blackwell chips? Report says TikTok parent planning Malaysia AI data centre
+   ByteDance is working with South Asian firm Aolani Cloud, drawing up plans to use around 500 Nvidia Blackwell computing systems at a unit in Malaysia.
+  🔗 https://www.livemint.com/companies/news/bytedance-to-get-access-to-top-end-nvidia-blackwell-chips-report-says-tiktok-parent-planning-malaysia-ai-data-centre-11773391217162.html
 
 - Who is Shantanu Narayen? Know all about the outgoing Adobe CEO’s Indian roots, net worth and more
   Adobe CEO Shantanu Narayen will step down after nearly 20 years. Under his leadership, Adobe's revenue grew from $3 billion to over $21 billion.
@@ -48,37 +60,29 @@
   Oman India Joint Investment Fund has secured a $100 million first close for its third private equity fund. The fund plans to raise up to $
   🔗 https://www.livemint.com/companies/start-ups/oman-india-joint-investment-fund-third-pe-fund-11773375906097.html
 
-- ‘Not a goodbye…’: What Adobe CEO Shantanu Narayen told employees after announcing decision to step down
-  Shantanu Narayen, CEO of Adobe for 18 years, will step down once a successor is appointed, while continuing as board chairman. Adobe faces intensifying competition from AI rivals
-  🔗 https://www.livemint.com/companies/people/not-a-goodbye-what-adobe-ceo-shantanu-narayen-told-employees-after-announcing-decision-to-step-down-11773363774363.html
+- Defying Gravity! This small-cap stock has rallied 50% year-to-date; here’s why
+  Dee Development Engineers has rallied 50% YTD defying the broader market slump. The company's robust order book
+  🔗 https://www.livemint.com/market/stock-market-news/defying-gravity-this-small-cap-stock-has-rallied-50-year-to-date-here-s-why-11773404231772.html
 
-- Live Nation employee mocks customers as so stupid in internal messages released in court case
-  Live Nation employee mocks customers as 'so stupid
-  🔗 https://www.livemint.com/companies/live-nation-employee-mocks-customers-as-so-stupid-in-internal-messages-released-in-court-case-11773351009822.html
+- Miniratna PSU Mishra Dhatu declares 8.50% interim dividend. Check record date, other details
+  In the past 12 months, Mishra Dhatu Nigam has declared an equity dividend amounting to  ₹0
+  🔗 https://www.livemint.com/market/stock-market-news/miniratna-psu-mishra-dhatu-declares-8-50-interim-dividend-check-record-date-other-details-11773403067162.html
 
-- Pentagon Test Office Needs More Data On New Hypersonic Missile
-  The Pentagon testing office said it won’t get enough data to evaluate the combat effectiveness of the US’s first hypersonic missile until early next year.
-  🔗 https://www.livemint.com/companies/pentagon-test-office-needs-more-data-on-new-hypersonic-missile-11773343162624.html
+- Stocks to buy: Nandish Shah of Motilal Oswal positive on PSU banking stocks, recommends SBI, PNB, Indian Bank
+  Nandish Shah from Motilal Oswal highlights Punjab National Bank, SBI, and Indian Bank as strong long-
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nandish-shah-of-motilal-oswal-positive-on-psu-banking-stocks-recommends-sbi-pnb-indian-bank-11773400076577.html
 
-- IFCI, NTPC Green, HFCL, YES Bank— These are among the top most traded stocks on the NSE today
-  Vodafone Idea, IFCI, NTPC Green Energy, HFCL, YES Bank, Suzlon Energy, Tata Gold Exchange Traded
-  🔗 https://www.livemint.com/market/stock-market-news/ifci-ntpc-green-hfcl-yes-bank-these-are-among-the-top-most-traded-stocks-on-the-nse-today-11773380448395.html
+- War fears push FPIs to double India hedges to near record high
+  In two weeks since the outbreak of the West Asia war, large overseas funds nearly doubled protection against market fall
+  🔗 https://www.livemint.com/market/stock-market-news/fpi-short-bets-india-markets-iran-war-risk-off-foreign-investors-11773393800441.html
 
-- Stock market crash: NALCO, Hindustan Zinc to Tata Steel — why are metal stocks nosediving today?
-   metal stocks are nosediving due to the market estimates about the shortage of gas supply for the industrial
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-nalco-hindustan-zinc-to-tata-steel-why-are-metal-stocks-nosediving-today-11773379097627.html
+- Want to build immense wealth? Invest in equities the way you buy gold, says Mira Asset's Swarup Mohanty
+  If you can transfer that ‘buy and hold’ discipline from gold to equity, you will build
+  🔗 https://www.livemint.com/market/stock-market-news/want-to-build-immense-wealth-invest-in-equities-the-way-you-buy-gold-says-mira-assets-swarup-mohanty-11773397498096.html
 
-- Adani Power, NTPC Green to JSW Energy: Power stocks surge up to 6% — What's behind the rise?
-  Several power stocks like NTPC Green Energy, Adani Power, JSW Energy and Tata Power gained up to 1-6% in the early trade. However, a few stocks were either trading flat or in the red around
-  🔗 https://www.livemint.com/market/stock-market-news/adani-power-ntpc-green-to-jsw-energy-power-stocks-surge-up-to-6-whats-behind-the-rise-11773381432922.html
-
-- Apsis Aerocom IPO Day 3: Last day to buy - check GMP, subscription status, and other details for the SME IPO
-  Apsis Aerocom's IPO closes today after launching on March 11. The allotment is expected on March 16, while the stock will list on NSE SME
-  🔗 https://www.livemint.com/market/ipo/apsis-aerocom-ipo-day-3-last-day-to-buy-check-gmp-subscription-status-and-other-details-for-the-sme-ipo-11773381049781.html
-
-- ACME Solar share price jumps over 9% despite stock market crash; here's why
-  ACME Solar share price rose over 9% after announcing 142.67 MW of Battery Energy Storage System deployment in Rajasthan. The company aims for a total BESS capacity of
-  🔗 https://www.livemint.com/market/stock-market-news/acme-solar-share-price-jumps-over-9-despite-stock-market-crash-heres-why-11773378779668.html
+- xAI hiring reset: Elon Musk apologises to AI talent overlooked during early hiring, promises overhaul
+  Elon Musk says he will restructure xAI
+  🔗 https://www.livemint.com/technology/tech-news/xai-hiring-reset-elon-musk-apologises-to-ai-talent-overlooked-during-early-hiring-promises-overhaul-11773388791591.html
 
 - Meta reportedly delays rollout of new AI model Avocado – here's why
   The delayed timeline comes even as the company invests heavily to expand its AI ambitions, including a
@@ -96,29 +100,105 @@
    WhatsApp is launching 'parent-managed accounts' for pre-teens. The setup requires both devices to link accounts, and a Parent PIN secures
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-launches-parent-managed-account-feature-how-it-works-how-to-use-and-more-11773315744745.html
 
-- Karnataka constitutes committee on responsible AI to develop comprehensive framework
-  Karnataka constitutes committee
-  🔗 https://www.livemint.com/technology/karnataka-constitutes-committee-on-responsible-ai-to-develop-comprehensive-framework-11773312319250.html
+- Quote of the day by Israel Englander: "Every investor has a different need. And the idea is to try to adjust yourself to those needs."
+  Israel Englander, founder of Millennium Management, built a global hedge fund on a core belief. Millennium operates a multi-manager platform. This allows diverse strategies to capture market opportunities.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-israel-englander-every-investor-has-a-different-need-and-the-idea-is-to-try-to-adjust-yourself-to-those-needs-/articleshow/129545792.cms
 
-- Don't predict the oil price; predict how long the pain lasts and hold cash: Nandan Chakraborty
-  The Hormuz Strait crisis poses a significant risk to India's energy and fertilizer supplies. DAM Capital's Nandan Chakraborty advises investors to focus on the duration of the disruption, not just oil prices.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/dont-predict-the-oil-price-predict-how-long-the-pain-lasts-and-hold-cash-nandan-chakraborty/articleshow/129541049.cms
+- Growth Leaders: 10 midcap stocks with stellar 50%+ YoY sales gains
+  Several NSE midcap companies delivered strong growth in the December 2025 quarter. Firms across sectors such as metals, real estate, energy and healthcare reported sharp demand-led expansion
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/growth-leaders-10-midcap-stocks-with-stellar-50-yoy-sales-gains/slideshow/129552681.cms
 
-- India bonds dip, facing sustained oil rise, macro risks
-  Indian government bonds are falling. Oil prices remain high, fueling inflation worries. The rupee has hit a new low against the dollar.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-facing-sustained-oil-rise-macro-risks/articleshow/129540960.cms
+- NABARD to issue over 3-year bonds: Bankers
+  India's National Bank for Agriculture and Rural Development (NABARD) plans to raise 80 billion ‌rupees ($866.12 million)
+  🔗 https://economictimes.indiatimes.com/markets/bonds/nabard-to-issue-over-3-year-bonds-bankers/articleshow/129551979.cms
 
-- Rupee hits all-time low; analysts expect fall to 95 if Iran war drags on
-  Foreign investors are selling Indian stocks. The central bank is intervening to support the currency. The situation is expected to continue under pressure.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-all-time-low-analysts-expect-fall-to-95-if-iran-war-drags-on/articleshow/129540862.cms
+- India bonds pressured by oil surge; RBI likely shielding 10-yr bond as Iran war set to enter third week
+  Indian government bonds came under heavy selling pressure this week. benchmark 10-year bond showed resilience, supported by likely robust purchases by
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-pressured-by-oil-surge-rbi-likely-shielding-10-yr-bond-as-iran-war-set-to-enter-third-week/articleshow/129551595.cms
 
-- NSE IPO optimism lifts IFCI shares by 11%. What's the connection?
-  IFCI shares surged over 11% after the National Stock Exchange (NSE) appointed 20 merchant bankers and eight law firms for its upcoming IPO. IFCI holds an indirect stake in NSE through its
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-optimism-lifts-ifci-shares-by-11-whats-the-connection/articleshow/129540201.cms
+- Godrej Properties' promoters hike stake by 5% in FY26, buy public shares for Rs 2,674 cr
+  Godrej Properties Ltd's promoters have increased their stake in the company by 5 per cent this fiscal through purchases of public shares worth Rs 2,674 crore in the open market.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-promoters-hike-stake-by-5-in-fy26-buy-public-shares-for-rs-2674-cr/articleshow/129551429.cms
 
-- Bitcoin rebounds toward $72K as US Treasury comments ease oil inflation concerns
-  Bitcoin surged towards $72,000 after U.S. Treasury Secretary Scott Bessent addressed market concerns. Major altcoins also experienced strong upward movement. This rally added billions to the crypto market cap.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-toward-72k-as-us-treasury-comments-ease-oil-inflation-concerns/articleshow/129540037.cms
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  The ship was bound for India from the port of
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+
+- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
+  Reports of Iran allowing Indian ships through Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+
+- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
+  Around 23,000 Indian Sailors In Gulf,
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
+  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  The ship was bound for India from the port of
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+
+- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
+  Reports of Iran allowing Indian ships through Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+
+- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
+  Around 23,000 Indian Sailors In Gulf,
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
+  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  The ship was bound for India from the port of
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+
+- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
+  Reports of Iran allowing Indian ships through Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+
+- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
+  Around 23,000 Indian Sailors In Gulf,
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
+  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+
+- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
+  The ship was bound for India from the port of
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+
+- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
+  Reports of Iran allowing Indian ships through Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+
+- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
+  Around 23,000 Indian Sailors In Gulf,
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
+  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
+  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+
+- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
+  India LPG Crisis Live Updates: Centre Prioritises Household Use
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-13 06:48:21 UTC_
+_Last updated: 2026-03-13 12:49:22 UTC_
