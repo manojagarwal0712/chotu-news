@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- ‘Basavaraju killing was our collective failure… Sonu was a traitor’: Top Maoist Devuji, who surrendered last month, speaks out
+- BJP-backed panel sweeps Panaji civic polls; Utpal Parrikar’s ‘Ami Panjekar’ falls short
   
-  🔗 https://indianexpress.com/article/india/basavaraju-killing-failure-sonu-traitor-maoist-devuji-surrender-speaks-10580344/
+  🔗 https://indianexpress.com/article/india/ccp-election-results-2026-panaji-babush-monserrate-victory-utpal-parrikar-10580686/
 
-- Over 100 fall ill after consuming food at wedding feast in Jharkhand’s Palamu
+- Centre sets conditions for states to receive Jal Jeevan funds
   
-  🔗 https://indianexpress.com/article/india/palamu-wedding-food-poisoning-over-100-ill-medical-camp-10580317/
+  🔗 https://indianexpress.com/article/india/centre-sets-conditions-for-states-to-receive-jal-jeevan-funds-10580665/
 
-- RSS pays tributes to Shivraj Patil, Sangh critic R Nallakannu; flags Bangladesh, Manipur concerns
+- 2 Indians killed, 10 injured as downed drone falls in Oman city
   
-  🔗 https://indianexpress.com/article/india/rss-pays-tributes-to-shivraj-patil-sangh-critic-r-nallakannu-flags-bangladesh-manipur-concerns-10580161/
+  🔗 https://indianexpress.com/article/india/2-indians-killed-10-injured-as-downed-drone-falls-in-oman-city-10580557/
 
-- 10 lakh leaflets with ‘chargesheet’ against Himanta govt: Behind the arrest of 4 Congress workers in Guwahati
+- A Bihar youth became toast of the town for clearing UPSC. Now, the truth is out – and he is missing
   
-  🔗 https://indianexpress.com/article/india/himanta-govt-congress-workers-arrest-leaflets-chargesheet-guwahati-10579972/
+  🔗 https://indianexpress.com/article/india/bihar-youth-clearing-upsc-truth-out-missing-10580507/
 
-- Jaishankar speaks with Iran foreign minister Araghchi as he calls for co-operation from BRICS amid West Asia conflict
+- Srinagar’s Jamia Masjid shut for prayers on last Friday of Ramzan, Mirwaiz slams authorities — ‘Our hearts bleed’
   
-  🔗 https://indianexpress.com/article/india/jaishankar-araghchi-call-brics-west-asia-conflict-modi-pezeshkian-10579878/
+  🔗 https://indianexpress.com/article/india/srinagar-jamia-masjid-shut-for-prayers-friday-ramzan-mirwaiz-slams-authorities-10580411/
+
+- Facebook Marketplace will now use Meta AI to answer the age old ‘Is this still available?’ question
+  
+  🔗 https://indianexpress.com/article/technology/social/facebook-marketplace-buyers-sellers-meta-ai-features-10580149/
 
 - ‘This acts like a safety net’: Truecaller’s Kunal Dua on the new Family Protection feature
   
@@ -36,49 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/truecaller-rolls-out-family-protection-in-india-offering-shared-safety-against-scams-10579578/
 
-- More than 20% of Australian teens still on social media after ban, report finds
-  
-  🔗 https://indianexpress.com/article/technology/more-than-20-of-australian-teens-still-on-social-media-after-ban-report-finds-10579357/
+- Jindal Stainless MD says processes ‘adversely impacted’ due to heavy dependence on industrial gases, West Asia conflict
+  Several processes ‘adversely impacted’ due to heavy
+  🔗 https://www.livemint.com/companies/news/jindal-stainless-process-adverse-impact-west-asia-war-heavily-depend-industrial-gas-propane-lpg-fuel-md-abhyuday-jindal-11773414577642.html
+
+- Who is Sadanand Date? 2007-batch IPS officer takes charge as new Sebi executive director
+  Sadanand Date assumed charge as
+  🔗 https://www.livemint.com/companies/people/who-is-sadanand-date-2007-batch-ips-officer-takes-charge-as-new-sebi-executive-director-11773419561781.html
+
+- IndiGo air-tickets to get costlier from March 14 amid increased fuel prices: Check additional prices for all routes
+  IndiGo will impose a fuel surcharge on both
+  🔗 https://www.livemint.com/companies/news/indigo-air-tickets-flights-costlier-from-march-14-increased-atf-jet-fuel-prices-check-additional-prices-fuel-surcharge-11773411313298.html
+
+- Top FDA drug official is trying to hire a friend whos seeking a bold new warning on antidepressants
+  Top FDA drug official is trying to hire a friend who's seeking
+  🔗 https://www.livemint.com/companies/top-fda-drug-official-is-trying-to-hire-a-friend-whos-seeking-a-bold-new-warning-on-antidepressants-11773411502412.html
 
 - Delivery Hero Holder Aspex Tells CEO to Sell Units or Leave
   Delivery Hero SE’s second-largest shareholder, Aspex Management, is threatening to try and replace the food delivery
   🔗 https://www.livemint.com/companies/news/delivery-hero-second-largest-shareholder-aspex-tells-ceo-niklas-ostberg-sell-units-or-leave-company-asset-sale-foodpanda-11773403048300.html
 
-- Adobe CEO Shantanu Narayen leaves after 18 years; schoolmate Satya Nadella applauds 'empathy to creative process'
-  Adobe CEO Shantanu Narayen steps down after 18 years; to remaining as chairperson until a successor is found. He increased revenue from $3.58 billion to $23.8 billion but has
-  🔗 https://www.livemint.com/companies/shantanu-narayen-leave-adobe-18-years-schoolmate-satya-nadella-creative-process-11773383393868.html
+- SEBI slaps  ₹10 lakh fine on Anand Rathi Share and Stock Brokers for cybersecurity violations
+  The penalty follows an inspection period from April 2023 to August 2024. Anand Rathi Share and Stock Brokers Limited has been fined  ₹10
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-slaps-rs-10-lakh-fine-on-anand-rathi-share-and-stock-brokers-for-cybersecurity-violations-11773422089057.html
 
-- ByteDance to get access to top-end Nvidia Blackwell chips? Report says TikTok parent planning Malaysia AI data centre
-   ByteDance is working with South Asian firm Aolani Cloud, drawing up plans to use around 500 Nvidia Blackwell computing systems at a unit in Malaysia.
-  🔗 https://www.livemint.com/companies/news/bytedance-to-get-access-to-top-end-nvidia-blackwell-chips-report-says-tiktok-parent-planning-malaysia-ai-data-centre-11773391217162.html
+- Pulse of the Street: Indian stocks log worst weekly fall in six years as West Asia conflict drags on
+  On Friday, the Nifty 50 fell 2.06% to 23,
+  🔗 https://www.livemint.com/market/stock-market-news/pulse-of-the-street-indian-stocks-log-worst-weekly-fall-in-six-years-as-west-asia-conflict-drags-on-11773406623476.html
 
-- Who is Shantanu Narayen? Know all about the outgoing Adobe CEO’s Indian roots, net worth and more
-  Adobe CEO Shantanu Narayen will step down after nearly 20 years. Under his leadership, Adobe's revenue grew from $3 billion to over $21 billion.
-  🔗 https://www.livemint.com/companies/people/who-is-shantanu-narayen-know-all-about-adobe-ceo-s-indian-roots-net-worth-11773380589791.html
+- GSP Crop Science raises  ₹120 crore from anchor investors ahead of IPO
+  GSP Crop Science Limited has raised  ₹120 crore from anchor investors ahead of its IPO, which opens on March 16, 2026. The IPO includes a
+  🔗 https://www.livemint.com/market/stock-market-news/gsp-crop-science-raises-rs-120-crore-from-anchor-investors-ahead-of-ipo-11773419255943.html
 
-- Oman India Joint Investment Fund marks first close of $100 million for its third fund
-  Oman India Joint Investment Fund has secured a $100 million first close for its third private equity fund. The fund plans to raise up to $
-  🔗 https://www.livemint.com/companies/start-ups/oman-india-joint-investment-fund-third-pe-fund-11773375906097.html
+- Om Power Transmission gets SEBI nod for raising funds through IPO launch. Details here
+  Om Power Transmission, based in Gujarat, has received SEBI approval for its IPO of 1 crore equity shares. The funds will support capital expenditure
+  🔗 https://www.livemint.com/market/stock-market-news/om-power-transmission-gets-sebi-nod-for-raising-funds-through-ipo-launch-details-here-11773416561556.html
 
-- Defying Gravity! This small-cap stock has rallied 50% year-to-date; here’s why
-  Dee Development Engineers has rallied 50% YTD defying the broader market slump. The company's robust order book
-  🔗 https://www.livemint.com/market/stock-market-news/defying-gravity-this-small-cap-stock-has-rallied-50-year-to-date-here-s-why-11773404231772.html
-
-- Miniratna PSU Mishra Dhatu declares 8.50% interim dividend. Check record date, other details
-  In the past 12 months, Mishra Dhatu Nigam has declared an equity dividend amounting to  ₹0
-  🔗 https://www.livemint.com/market/stock-market-news/miniratna-psu-mishra-dhatu-declares-8-50-interim-dividend-check-record-date-other-details-11773403067162.html
-
-- Stocks to buy: Nandish Shah of Motilal Oswal positive on PSU banking stocks, recommends SBI, PNB, Indian Bank
-  Nandish Shah from Motilal Oswal highlights Punjab National Bank, SBI, and Indian Bank as strong long-
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-nandish-shah-of-motilal-oswal-positive-on-psu-banking-stocks-recommends-sbi-pnb-indian-bank-11773400076577.html
-
-- War fears push FPIs to double India hedges to near record high
-  In two weeks since the outbreak of the West Asia war, large overseas funds nearly doubled protection against market fall
-  🔗 https://www.livemint.com/market/stock-market-news/fpi-short-bets-india-markets-iran-war-risk-off-foreign-investors-11773393800441.html
-
-- Want to build immense wealth? Invest in equities the way you buy gold, says Mira Asset's Swarup Mohanty
-  If you can transfer that ‘buy and hold’ discipline from gold to equity, you will build
-  🔗 https://www.livemint.com/market/stock-market-news/want-to-build-immense-wealth-invest-in-equities-the-way-you-buy-gold-says-mira-assets-swarup-mohanty-11773397498096.html
+- IDBI Bank stake sale may be scrapped by government after low bids: Report
+  The government has been trying to privatise the Mumbai-based lender for several
+  🔗 https://www.livemint.com/market/stock-market-news/idbi-bank-stake-sale-may-be-scrapped-after-low-bids-report-11773417404361.html
 
 - xAI hiring reset: Elon Musk apologises to AI talent overlooked during early hiring, promises overhaul
   Elon Musk says he will restructure xAI
@@ -100,105 +100,125 @@
    WhatsApp is launching 'parent-managed accounts' for pre-teens. The setup requires both devices to link accounts, and a Parent PIN secures
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-launches-parent-managed-account-feature-how-it-works-how-to-use-and-more-11773315744745.html
 
-- Quote of the day by Israel Englander: "Every investor has a different need. And the idea is to try to adjust yourself to those needs."
-  Israel Englander, founder of Millennium Management, built a global hedge fund on a core belief. Millennium operates a multi-manager platform. This allows diverse strategies to capture market opportunities.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-israel-englander-every-investor-has-a-different-need-and-the-idea-is-to-try-to-adjust-yourself-to-those-needs-/articleshow/129545792.cms
+- S&P 500 is under pressure again from oil crisis, heads for third-straight losing week: Live updates - CNBC
+  P 500 heads for third-straight losing week: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE56bVdILXBTMkZXWDlVUkRTNGVyRGZlQVpQMFZaLW5jREQxZE1ZeVZaUDJ5aFMtb2NnSGlJY1Vrdnp5WGVnZWdHc1V5SEV5ZFlKZWlxT0ppSVE1SDJxRGNjZXV2VWppMktyVUtFUHpBdWxGVFZ0SF800gF8QVVfeXFMUDIxV2FtTlFxQTVJNVctNkVIQzZWNHdnOE93d3l6dUFkQVNaS2F0TlJnUEhDcUNya09QSmU3cVdqLXQtc1pWbWY4YzRNRDNOUjVPYzVudFhQdW0xajlweXJua2Q2ZUpmSnlPQXluYzJlY1c4UlFyVGUxcVoyNg?oc=5
 
-- Growth Leaders: 10 midcap stocks with stellar 50%+ YoY sales gains
-  Several NSE midcap companies delivered strong growth in the December 2025 quarter. Firms across sectors such as metals, real estate, energy and healthcare reported sharp demand-led expansion
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/growth-leaders-10-midcap-stocks-with-stellar-50-yoy-sales-gains/slideshow/129552681.cms
+- Stocks Extend Slide With Oil at $100; Dollar Gains: Markets Wrap - Bloomberg.com
+  Stocks Extend Slide With Oil at $100
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2x1cHBvY3d2WVNpd3pjVC0za21rNnVIVy1Fd3VxTzFHOGxsMW53UnhFN2lqV1Z2eHZWRVJVQllzVVNGc0MyWG9nVlNhMlJqRkl5NXA3emsyOTVCVlV6WTJtSzBvQkMyRk9NajFkakNCOVNyaXVDc1JRdHBKdGpLQ01HZ2tJUkhqbDFGR3BqZEVMVnZNTno2SlJzWXdmYi0yRDd2RDZQQVhvcklVRXc5bnhRRQ?oc=5
 
-- NABARD to issue over 3-year bonds: Bankers
-  India's National Bank for Agriculture and Rural Development (NABARD) plans to raise 80 billion ‌rupees ($866.12 million)
-  🔗 https://economictimes.indiatimes.com/markets/bonds/nabard-to-issue-over-3-year-bonds-bankers/articleshow/129551979.cms
+- Stock Market Today: Equities Fall as Oil Resumes Ascent; Major Indexes Set for 3rd Straight Week of Declines - Investopedia
+  Stock Market Today: Equities Fall as Oil Resumes Ascent; Major Index
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUp2d3dfZ0Y0SjRPUFJSWWYtSko5WGU3bVpyZFZjR0N4bndiZHZGMjk5WUR2TTlrTkwxbHdRTjZwWkdMQm5MWTM5LU1KTXl0aXVXX29ZRHNqdnhJeGhMdW1qTDZhZ2NlYjlDY1RBTHVoenN2d3ZFZHk2bVpPU0J3aTkzdTc4RmhNSmxaRjBab1A?oc=5
 
-- India bonds pressured by oil surge; RBI likely shielding 10-yr bond as Iran war set to enter third week
-  Indian government bonds came under heavy selling pressure this week. benchmark 10-year bond showed resilience, supported by likely robust purchases by
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-pressured-by-oil-surge-rbi-likely-shielding-10-yr-bond-as-iran-war-set-to-enter-third-week/articleshow/129551595.cms
+- Stock Market Highlights: Rs 9.5 Lakh Crore Investor Wealth Wiped Out As Oil Shock Rattles Markets - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTE9BZVdRSGJNN2ZKZGhNa2R1eHB0TlFaOTFJTlJFNS0xZHZtNVY5TFZ1TTEzOW5PYUt0VTNsWjM1OUtOS0dfblYtNHI4NjQzb2oybkk0Vm5yeVdPbVI3dGlNSW5PSFdOdT
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTE9BZVdRSGJNN2ZKZGhNa2R1eHB0TlFaOTFJTlJFNS0xZHZtNVY5TFZ1TTEzOW5PYUt0VTNsWjM1OUtOS0dfblYtNHI4NjQzb2oybkk0Vm5yeVdPbVI3dGlNSW5PSFdOdTNnQlBtc3hqT09YeHZaYnNjVVRCOHFHN0ZXX0ZlLXZmS2QzTldrSWc5cEhVR3htcjg4QWVsSkNfMFRqek0xUXBYcHhFY2ZJekx0X25JYjhYeUhJVmtraXlVVnhQWVRMWkQwSllxb2JkXzZDSEtfUy1tMlFINlFYWkViLVNCZ9IB7gFBVV95cUxQeXFvZW9lMmN0RzNJLVVvUWpQN1llekhFcmJtWVFCRzhKSmRQaUtkUFpoRWdPMDVVR0h2SG14RE9lWjNVd1htc2dDQTBJZVB2QUw5VHh2aW1Bc0FUM3c4NXFHbDczbTVzSmRrNk9LMkZMNHpkWjdrbE1UQmRXb2d6SzRmSlVIeXVndDMtaDR0aDEzUGVaOVh5cXNNTTBmT3dsWHFmcnVKR3VzU19aY2M5bzIwRlRzTkVRQWtrNXV3OHl1bVp2UGRQemstRmUyODkzNTlJQ2FqWVBmbjFuTV9PblhpREhJZVhDMDBZZGVB?oc=5
 
-- Godrej Properties' promoters hike stake by 5% in FY26, buy public shares for Rs 2,674 cr
-  Godrej Properties Ltd's promoters have increased their stake in the company by 5 per cent this fiscal through purchases of public shares worth Rs 2,674 crore in the open market.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-promoters-hike-stake-by-5-in-fy26-buy-public-shares-for-rs-2674-cr/articleshow/129551429.cms
+- What does buying the dip really mean? - Finshots
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZXJPNU9NT1dkeWVNV3BGdWVERTl2S0xaWlFDeWRpTHo0Yk9VXzl5MjBXSmQtQ0xIdHZCZjFPWkExVUpuWXJGN3loMVVWX2laOFE4QUtzQVcydVMyOWs0Z2FXN2tOZjhZRmx0dXI3cXJJbnc?oc=5
 
-- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+- India reduces minimum public share float, paving way for NSE, Jio listings
+  The regulator last year proposed to halve the minimum amount of ‌shares large companies had to offer in their IPOs. This has now been formally notified by the government. Those valued at above $57 billion after listing
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/india-reduces-minimum-public-share-float-paving-way-for-nse-jio-listings/articleshow/129561702.cms
 
-- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
-  Reports of Iran allowing Indian ships through Strait of Horm
+- US stocks today: S&amp;P 500, Nasdaq slip as investors assess data, Iran war fallout
+  US stocks experienced a downturn on Friday, with major indices set to end the week lower. Investors are now anticipating fewer Federal Reserve rate cuts this year, as rising energy costs and slowing economic growth fuel stagflation fears
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-as-investors-assess-data-iran-war-fallout/articleshow/129560549.cms
+
+- Rupee closes at new low at 92.46 against the US dollar, down 0.7% this week
+  The rupee hit a fresh closing low of 92.46 against the dollar on Friday. Sustained foreign fund outflows and importer demand further pressured the currency.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-new-low-at-92-46-against-the-us-dollar-down-0-7-this-week/articleshow/129559982.cms
+
+- India to scrap bids for majority stake in IDBI Bank: Report
+  India is set to shelve the bids it received for a majority stake in its state-owned IDBI Bank. The amounts were below the minimum price sought, Bloomberg ‌
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-to-scrap-bids-for-majority-stake-in-idbi-bank-report/articleshow/129559857.cms
+
+- RBI injects Rs 50,000 crore via OMO; liquidity move comes ahead of advance tax, GST outflows
+  The Reserve Bank of India injected Rs 50,000 crore into the banking system. The move supported India's benchmark 10-year bond yield, which remained flat. The RBI has infused a total of Rs 3.50 lakh crore through O
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-injects-rs-50000-crore-via-omo-liquidity-move-comes-ahead-of-advance-tax-gst-outflows/articleshow/129559895.cms
+
+- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
 
-- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
-  Around 23,000 Indian Sailors In Gulf,
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+- 'No-one will hire women' - India's top court rejects menstrual leave petition - BBC
+  'No-one will hire women' - India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMmdhM2lIemp5MG8wOXZqams5VWFvOFc5WEtXR2FTSHJLTzlNSHhxME9haHd3YkFONlJ6cE5SS05TNkZKOXlRQTFkLXVhbFk0d1NlYXBkVHpCdw?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
-  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- 'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave - The Times of India
+  'These are plans to call women inferior': CJI led-Supreme Court bench
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU11c3lxZDJ2cnlWd05nNzY4Vnh4cF9JN3FIRy1IYUM1cjJoTEpzdzJlOWNJbHJ2ZEVqSjZHb3RuOHAteC0yZ3lua3NFMXprejFqUFRfdWhoMXlFRGlPUUstck5fTUJCTk5iblRmc2loeENYUmtpQzJlR3lpSmxaSnVkd2tjMnlza3hzZzZVT2dyemxVcTdVX0VxMHhEYkVyazJZeElMbkZfZ2tTZTMtWFRVRC1KdGZkcjZDMGx5NUUyOG1STzNkWnVhZXd3bXd6RlMyZDQ5ejEwaFBZQWhJMG1tSnpYd2lhU1lnbWpSSlBTVTlLV19scjZn0gH_AUFVX3lxTFBaSzRORzQwdFdBU3Z1Q1pSV3Z2VWc3TXVaV2IzTWt1YV8wMnhXaGJyNHI1STFuM0E0SXJrTi10MEFsbkFKLTNvbDNOa21Ed0xBWEUyb0R0TW1meEZaZDMzTmZGNzFuOEJxekJsZzJhUHF0UVE1Q1d3VnZ0ZHl3dUJxX01acGtfOFd3WWNaNlY3SVEwS2pjVU5FNGZuWFljTU05UmdOX3BTNVpBazhVbzBKZnh3c2dQVURVRTFlOVBjdXVweDRqOWVENGxTenNJRVVMaWl5NDExdFFHanZlXzFfXzM5eHQ1WmE0X0syVTB4UU5aSDZvODVwZE4yUlNlMA?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- From Japan To Spain: Countries That Provide Menstrual Leaves - NDTV
+  From Japan To Spain: Countries That
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1B2WUlGX0YzV3BUbWtDVU1OZmtJQVJjNjdTaFdKRnpwaXNnelZJQ1M0Mk5MTThLLWlqdlVaQ1JqWnhwdjJvdWRfdEZKTkU1Q0hmZ1ZOR0VMRHRsb2NrZ0lyUjhHZFVSUE9JWnVUUks2WVpNcnRzUUlpUzAybnNXLXFOV0NuNTdwdl9lMGVFVVFsaUtGQ1p6VTQydXBGY1dXaU84cE5rZFNPQUZDd21vVUZzbHhCdDNVaEpwRmlZalVaQzdCS1pIWVVrWkRqaVhrUzZqWldtYlHSAeABQVVfeXFMT1RDcEVDVGVlSzJ6UXZwZ0RwME1UR1k2QjY4MWV1ZHZ2THVvUWpqdlFmYmJyLTZtc2ViSm1DZ19GV0VBRWktUVpNQm52M2ZaR2VNT181R2YtMUdfQkdPVEFBM3lfT19iSm1iLUtXN0RmUVBEcE9aYmRkbVQ2X3BiUGtVazhqWmdlUlV2UjRSQ2VoYll3ZDIwaW4yVW1WcWMzOGtZTFJnRnJfRXNhSm1VVDg3bkZ0c29fNDdvdXhzS2V3SnZBMmRrZjJScDVXZVhJeVZMejNmYjFHNVYtdVBUd24?oc=5
 
-- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+- FASTag Annual Pass to cost Rs 3,075 from April - The Times of India
+  FASTag Annual Pass to cost Rs 3,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUlTNXZVSEJnUXpKMTI0N0lYTzlrYzZmX0JBTzdUdmlaZ1JKMHVIa25FZGUwVFVhQmV2WC00T3A5eXZQdkRnQXphdjk3U256VUtSMDl6dlpJSnhzbzlidEdPcEk4M0s2QTZFU1paMmtwYUUxc0p4ZXpYYkp6d1d5WkE3amp6OEN6Ymt6cU9iMDJaNGdMX2JVemJ5WHJrR3B5WG4yZDhqaVpzZGtaX29mUmFwa9IBuAFBVV95cUxQMGU5blBLa0dVaWktMXN2bVp3cDlfR2FreWEtOGNHV0M5RGhNUWVWb1FkNldfcjdfNHVyb2JrNV9MdTIzc1VYb2owemhHOTc4NWZxbzFLQVp0T2lJbEc3SkZfTTkydlRSWWQyS3NFakduVnh0U1pPMUFaLV9YX0dPS3U1eklpcXp0QTJRdU82VEVpWEkwRVNhejJ0a0dKdFZfNWV4TTdIUjQ1LWpKZGdLN2NyNHlfcFhx?oc=5
 
-- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
-  Reports of Iran allowing Indian ships through Strait of Horm
+- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
 
-- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
-  Around 23,000 Indian Sailors In Gulf,
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+- 'No-one will hire women' - India's top court rejects menstrual leave petition - BBC
+  'No-one will hire women' - India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMmdhM2lIemp5MG8wOXZqams5VWFvOFc5WEtXR2FTSHJLTzlNSHhxME9haHd3YkFONlJ6cE5SS05TNkZKOXlRQTFkLXVhbFk0d1NlYXBkVHpCdw?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
-  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- 'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave - The Times of India
+  'These are plans to call women inferior': CJI led-Supreme Court bench
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU11c3lxZDJ2cnlWd05nNzY4Vnh4cF9JN3FIRy1IYUM1cjJoTEpzdzJlOWNJbHJ2ZEVqSjZHb3RuOHAteC0yZ3lua3NFMXprejFqUFRfdWhoMXlFRGlPUUstck5fTUJCTk5iblRmc2loeENYUmtpQzJlR3lpSmxaSnVkd2tjMnlza3hzZzZVT2dyemxVcTdVX0VxMHhEYkVyazJZeElMbkZfZ2tTZTMtWFRVRC1KdGZkcjZDMGx5NUUyOG1STzNkWnVhZXd3bXd6RlMyZDQ5ejEwaFBZQWhJMG1tSnpYd2lhU1lnbWpSSlBTVTlLV19scjZn0gH_AUFVX3lxTFBaSzRORzQwdFdBU3Z1Q1pSV3Z2VWc3TXVaV2IzTWt1YV8wMnhXaGJyNHI1STFuM0E0SXJrTi10MEFsbkFKLTNvbDNOa21Ed0xBWEUyb0R0TW1meEZaZDMzTmZGNzFuOEJxekJsZzJhUHF0UVE1Q1d3VnZ0ZHl3dUJxX01acGtfOFd3WWNaNlY3SVEwS2pjVU5FNGZuWFljTU05UmdOX3BTNVpBazhVbzBKZnh3c2dQVURVRTFlOVBjdXVweDRqOWVENGxTenNJRVVMaWl5NDExdFFHanZlXzFfXzM5eHQ1WmE0X0syVTB4UU5aSDZvODVwZE4yUlNlMA?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- From Japan To Spain: Countries That Provide Menstrual Leaves - NDTV
+  From Japan To Spain: Countries That
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1B2WUlGX0YzV3BUbWtDVU1OZmtJQVJjNjdTaFdKRnpwaXNnelZJQ1M0Mk5MTThLLWlqdlVaQ1JqWnhwdjJvdWRfdEZKTkU1Q0hmZ1ZOR0VMRHRsb2NrZ0lyUjhHZFVSUE9JWnVUUks2WVpNcnRzUUlpUzAybnNXLXFOV0NuNTdwdl9lMGVFVVFsaUtGQ1p6VTQydXBGY1dXaU84cE5rZFNPQUZDd21vVUZzbHhCdDNVaEpwRmlZalVaQzdCS1pIWVVrWkRqaVhrUzZqWldtYlHSAeABQVVfeXFMT1RDcEVDVGVlSzJ6UXZwZ0RwME1UR1k2QjY4MWV1ZHZ2THVvUWpqdlFmYmJyLTZtc2ViSm1DZ19GV0VBRWktUVpNQm52M2ZaR2VNT181R2YtMUdfQkdPVEFBM3lfT19iSm1iLUtXN0RmUVBEcE9aYmRkbVQ2X3BiUGtVazhqWmdlUlV2UjRSQ2VoYll3ZDIwaW4yVW1WcWMzOGtZTFJnRnJfRXNhSm1VVDg3bkZ0c29fNDdvdXhzS2V3SnZBMmRrZjJScDVXZVhJeVZMejNmYjFHNVYtdVBUd24?oc=5
 
-- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+- FASTag Annual Pass to cost Rs 3,075 from April - The Times of India
+  FASTag Annual Pass to cost Rs 3,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUlTNXZVSEJnUXpKMTI0N0lYTzlrYzZmX0JBTzdUdmlaZ1JKMHVIa25FZGUwVFVhQmV2WC00T3A5eXZQdkRnQXphdjk3U256VUtSMDl6dlpJSnhzbzlidEdPcEk4M0s2QTZFU1paMmtwYUUxc0p4ZXpYYkp6d1d5WkE3amp6OEN6Ymt6cU9iMDJaNGdMX2JVemJ5WHJrR3B5WG4yZDhqaVpzZGtaX29mUmFwa9IBuAFBVV95cUxQMGU5blBLa0dVaWktMXN2bVp3cDlfR2FreWEtOGNHV0M5RGhNUWVWb1FkNldfcjdfNHVyb2JrNV9MdTIzc1VYb2owemhHOTc4NWZxbzFLQVp0T2lJbEc3SkZfTTkydlRSWWQyS3NFakduVnh0U1pPMUFaLV9YX0dPS3U1eklpcXp0QTJRdU82VEVpWEkwRVNhejJ0a0dKdFZfNWV4TTdIUjQ1LWpKZGdLN2NyNHlfcFhx?oc=5
 
-- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
-  Reports of Iran allowing Indian ships through Strait of Horm
+- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
 
-- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
-  Around 23,000 Indian Sailors In Gulf,
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+- 'No-one will hire women' - India's top court rejects menstrual leave petition - BBC
+  'No-one will hire women' - India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMmdhM2lIemp5MG8wOXZqams5VWFvOFc5WEtXR2FTSHJLTzlNSHhxME9haHd3YkFONlJ6cE5SS05TNkZKOXlRQTFkLXVhbFk0d1NlYXBkVHpCdw?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
-  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- 'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave - The Times of India
+  'These are plans to call women inferior': CJI led-Supreme Court bench
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU11c3lxZDJ2cnlWd05nNzY4Vnh4cF9JN3FIRy1IYUM1cjJoTEpzdzJlOWNJbHJ2ZEVqSjZHb3RuOHAteC0yZ3lua3NFMXprejFqUFRfdWhoMXlFRGlPUUstck5fTUJCTk5iblRmc2loeENYUmtpQzJlR3lpSmxaSnVkd2tjMnlza3hzZzZVT2dyemxVcTdVX0VxMHhEYkVyazJZeElMbkZfZ2tTZTMtWFRVRC1KdGZkcjZDMGx5NUUyOG1STzNkWnVhZXd3bXd6RlMyZDQ5ejEwaFBZQWhJMG1tSnpYd2lhU1lnbWpSSlBTVTlLV19scjZn0gH_AUFVX3lxTFBaSzRORzQwdFdBU3Z1Q1pSV3Z2VWc3TXVaV2IzTWt1YV8wMnhXaGJyNHI1STFuM0E0SXJrTi10MEFsbkFKLTNvbDNOa21Ed0xBWEUyb0R0TW1meEZaZDMzTmZGNzFuOEJxekJsZzJhUHF0UVE1Q1d3VnZ0ZHl3dUJxX01acGtfOFd3WWNaNlY3SVEwS2pjVU5FNGZuWFljTU05UmdOX3BTNVpBazhVbzBKZnh3c2dQVURVRTFlOVBjdXVweDRqOWVENGxTenNJRVVMaWl5NDExdFFHanZlXzFfXzM5eHQ1WmE0X0syVTB4UU5aSDZvODVwZE4yUlNlMA?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- From Japan To Spain: Countries That Provide Menstrual Leaves - NDTV
+  From Japan To Spain: Countries That
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1B2WUlGX0YzV3BUbWtDVU1OZmtJQVJjNjdTaFdKRnpwaXNnelZJQ1M0Mk5MTThLLWlqdlVaQ1JqWnhwdjJvdWRfdEZKTkU1Q0hmZ1ZOR0VMRHRsb2NrZ0lyUjhHZFVSUE9JWnVUUks2WVpNcnRzUUlpUzAybnNXLXFOV0NuNTdwdl9lMGVFVVFsaUtGQ1p6VTQydXBGY1dXaU84cE5rZFNPQUZDd21vVUZzbHhCdDNVaEpwRmlZalVaQzdCS1pIWVVrWkRqaVhrUzZqWldtYlHSAeABQVVfeXFMT1RDcEVDVGVlSzJ6UXZwZ0RwME1UR1k2QjY4MWV1ZHZ2THVvUWpqdlFmYmJyLTZtc2ViSm1DZ19GV0VBRWktUVpNQm52M2ZaR2VNT181R2YtMUdfQkdPVEFBM3lfT19iSm1iLUtXN0RmUVBEcE9aYmRkbVQ2X3BiUGtVazhqWmdlUlV2UjRSQ2VoYll3ZDIwaW4yVW1WcWMzOGtZTFJnRnJfRXNhSm1VVDg3bkZ0c29fNDdvdXhzS2V3SnZBMmRrZjJScDVXZVhJeVZMejNmYjFHNVYtdVBUd24?oc=5
 
-- A Dark Night: India-Bound Oil Tanker's Daring Dash Through Strait Of Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtpNnZRbGlfTnlaZXlBaGkydXpoS0tJWnlYak5HQnY3ZWl0MVBmTVNjM3RscGwxQ3pnM1laRFhzMUNNY0l6NU1nMXVUQkplQlVEbk9zZjJIU1pyWXcxOWZqbE1STnAyT1M0Z2dzMW5UVjRBNlYtWEdVT1JueVhRWmVObHBnMkVsaU53Y0dSS0xycXBVb1VkTDRZVFVTMDdoR2dUWkppUUNVeE1RQmNCek9NeFZZQnF0bXJBT1hpa0dCek1O0gHMAUFVX3lxTE1XUlFXUlV5NlJMdVA2UE5abWxiSExVcUVmMi1VVzZUcVUzVHlJSzFvM0xDNXpldkJlb0FxVkxZelMyOGtTN1RpUUpId1FkVFpaN1BYS0VGdWJuc1BHMzhhVnFwUTc2ZXNCdXFqQ1dEYlhnQ0VYMGlUSFA5ejdOVGVkQjZ6SHBNQ3VMMFN5X1ZqMVBPQUE5ekRqQ0Q3MkVpMUd2NURWZW00ZlJKTU81V3lzbVppcVhWNDd4cGxIWko0SFJyZENEZzhWSXlPYw?oc=5
+- FASTag Annual Pass to cost Rs 3,075 from April - The Times of India
+  FASTag Annual Pass to cost Rs 3,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUlTNXZVSEJnUXpKMTI0N0lYTzlrYzZmX0JBTzdUdmlaZ1JKMHVIa25FZGUwVFVhQmV2WC00T3A5eXZQdkRnQXphdjk3U256VUtSMDl6dlpJSnhzbzlidEdPcEk4M0s2QTZFU1paMmtwYUUxc0p4ZXpYYkp6d1d5WkE3amp6OEN6Ymt6cU9iMDJaNGdMX2JVemJ5WHJrR3B5WG4yZDhqaVpzZGtaX29mUmFwa9IBuAFBVV95cUxQMGU5blBLa0dVaWktMXN2bVp3cDlfR2FreWEtOGNHV0M5RGhNUWVWb1FkNldfcjdfNHVyb2JrNV9MdTIzc1VYb2owemhHOTc4NWZxbzFLQVp0T2lJbEc3SkZfTTkydlRSWWQyS3NFakduVnh0U1pPMUFaLV9YX0dPS3U1eklpcXp0QTJRdU82VEVpWEkwRVNhejJ0a0dKdFZfNWV4TTdIUjQ1LWpKZGdLN2NyNHlfcFhx?oc=5
 
-- Reports of Iran allowing Indian ships through Strait of Hormuz ‘premature’: Centre - The Hindu
-  Reports of Iran allowing Indian ships through Strait of Horm
+- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
 
-- Around 23,000 Indian Sailors In Gulf, 24 Ships West Of Hormuz: Centre - NDTV
-  Around 23,000 Indian Sailors In Gulf,
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV0lDSWNwTlJoX3VDRDZBYnlMR2Y5bGpqbnY2UGxHdkQzb0ZJU1B2RllKbVZmMWMzcy1RdVN4ODN1Y1hDbXpueHpjc3N5QjBLTlg0M3ZyLTNVQUZRQ0lvVFBPOEhPUFpKOVlLVzhTYWtUTHU1TEFlVEw3MWhaOFJmT3lWU3Z3RGEzRVhNQmNmbkRPSDQzR0k1QlBYWUR3WUFwQ0JVLVk0UmJsOHQ1dUFnS3ZnWUF1ZjRzZ2VTaDZNMmRBaFdyX3ZHQmk1cFlVNG05bzJtdzhaMTBOQ2JQSjZTNzJwcHZURWg5SVRMZG0tSGV0Njl6Qi12SkhvMUVYd9IBhgJBVV95cUxOX2tta1A1NEZySXNldTJRZDNhbUJWbzlTdkZUZkJrOWV4WmV6aHRLWVNxY1FPc2hkYjNHbnB5d1c5Rm1kTlNFYnRLbHVqaUtWaWdFYUpPcElKQW9rLUtWdGVSYkU2enhKNm0tVEpIYmJ2UmN1eVZmU3NBbHNpMU5EMjNVbEp2ZkRYVW5aWHNZOHJBZDVEQk15S1hDaVJ3NVpWaVg1YlpTMlhLSGNncUR3bFBfQ2pDUHZnaFZpcG96eHpGR1N5emlpTW9PNW1Pb0M2NXVZb0ZXQkFQRXhIdllGR2NxcHZVOW12QkhwSG5FU25zamNGNzZkZ3JwLXBMR2RDMnlrRUhR?oc=5
+- 'No-one will hire women' - India's top court rejects menstrual leave petition - BBC
+  'No-one will hire women' - India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMmdhM2lIemp5MG8wOXZqams5VWFvOFc5WEtXR2FTSHJLTzlNSHhxME9haHd3YkFONlJ6cE5SS05TNkZKOXlRQTFkLXVhbFk0d1NlYXBkVHpCdw?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: 'Matter of concern': Govt on LPG supply after closure of Strait of Hormuz, makes big appeal - The Times of India
-  The Times of India reports that India is facing a shortage of LPG. India's LPG supply has been cut off
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- 'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave - The Times of India
+  'These are plans to call women inferior': CJI led-Supreme Court bench
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSU11c3lxZDJ2cnlWd05nNzY4Vnh4cF9JN3FIRy1IYUM1cjJoTEpzdzJlOWNJbHJ2ZEVqSjZHb3RuOHAteC0yZ3lua3NFMXprejFqUFRfdWhoMXlFRGlPUUstck5fTUJCTk5iblRmc2loeENYUmtpQzJlR3lpSmxaSnVkd2tjMnlza3hzZzZVT2dyemxVcTdVX0VxMHhEYkVyazJZeElMbkZfZ2tTZTMtWFRVRC1KdGZkcjZDMGx5NUUyOG1STzNkWnVhZXd3bXd6RlMyZDQ5ejEwaFBZQWhJMG1tSnpYd2lhU1lnbWpSSlBTVTlLV19scjZn0gH_AUFVX3lxTFBaSzRORzQwdFdBU3Z1Q1pSV3Z2VWc3TXVaV2IzTWt1YV8wMnhXaGJyNHI1STFuM0E0SXJrTi10MEFsbkFKLTNvbDNOa21Ed0xBWEUyb0R0TW1meEZaZDMzTmZGNzFuOEJxekJsZzJhUHF0UVE1Q1d3VnZ0ZHl3dUJxX01acGtfOFd3WWNaNlY3SVEwS2pjVU5FNGZuWFljTU05UmdOX3BTNVpBazhVbzBKZnh3c2dQVURVRTFlOVBjdXVweDRqOWVENGxTenNJRVVMaWl5NDExdFFHanZlXzFfXzM5eHQ1WmE0X0syVTB4UU5aSDZvODVwZE4yUlNlMA?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- From Japan To Spain: Countries That Provide Menstrual Leaves - NDTV
+  From Japan To Spain: Countries That
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1B2WUlGX0YzV3BUbWtDVU1OZmtJQVJjNjdTaFdKRnpwaXNnelZJQ1M0Mk5MTThLLWlqdlVaQ1JqWnhwdjJvdWRfdEZKTkU1Q0hmZ1ZOR0VMRHRsb2NrZ0lyUjhHZFVSUE9JWnVUUks2WVpNcnRzUUlpUzAybnNXLXFOV0NuNTdwdl9lMGVFVVFsaUtGQ1p6VTQydXBGY1dXaU84cE5rZFNPQUZDd21vVUZzbHhCdDNVaEpwRmlZalVaQzdCS1pIWVVrWkRqaVhrUzZqWldtYlHSAeABQVVfeXFMT1RDcEVDVGVlSzJ6UXZwZ0RwME1UR1k2QjY4MWV1ZHZ2THVvUWpqdlFmYmJyLTZtc2ViSm1DZ19GV0VBRWktUVpNQm52M2ZaR2VNT181R2YtMUdfQkdPVEFBM3lfT19iSm1iLUtXN0RmUVBEcE9aYmRkbVQ2X3BiUGtVazhqWmdlUlV2UjRSQ2VoYll3ZDIwaW4yVW1WcWMzOGtZTFJnRnJfRXNhSm1VVDg3bkZ0c29fNDdvdXhzS2V3SnZBMmRrZjJScDVXZVhJeVZMejNmYjFHNVYtdVBUd24?oc=5
+
+- FASTag Annual Pass to cost Rs 3,075 from April - The Times of India
+  FASTag Annual Pass to cost Rs 3,
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUlTNXZVSEJnUXpKMTI0N0lYTzlrYzZmX0JBTzdUdmlaZ1JKMHVIa25FZGUwVFVhQmV2WC00T3A5eXZQdkRnQXphdjk3U256VUtSMDl6dlpJSnhzbzlidEdPcEk4M0s2QTZFU1paMmtwYUUxc0p4ZXpYYkp6d1d5WkE3amp6OEN6Ymt6cU9iMDJaNGdMX2JVemJ5WHJrR3B5WG4yZDhqaVpzZGtaX29mUmFwa9IBuAFBVV95cUxQMGU5blBLa0dVaWktMXN2bVp3cDlfR2FreWEtOGNHV0M5RGhNUWVWb1FkNldfcjdfNHVyb2JrNV9MdTIzc1VYb2owemhHOTc4NWZxbzFLQVp0T2lJbEc3SkZfTTkydlRSWWQyS3NFakduVnh0U1pPMUFaLV9YX0dPS3U1eklpcXp0QTJRdU82VEVpWEkwRVNhejJ0a0dKdFZfNWV4TTdIUjQ1LWpKZGdLN2NyNHlfcFhx?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-13 12:49:22 UTC_
+_Last updated: 2026-03-13 18:37:40 UTC_
