@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
+- Centre revokes Sonam Wangchuk’s detention under National Security Act
+  
+  🔗 https://indianexpress.com/article/india/centre-revokes-sonam-wangchuk-detention-nsa-mha-10581330/
+
+- India’s navigation satellite system suffers major setback: 1 of 4 operational IRNSS satellites fails
+  
+  🔗 https://indianexpress.com/article/india/navic-satellite-irnss-1f-failure-atomic-clock-malfunction-10581224/
+
+- ‘Benefit of doubt’: Court acquits three in 2020 killing of J&K BJP leader Waseem Bari
+  
+  🔗 https://indianexpress.com/article/india/benefit-of-doubt-court-acquits-three-in-2020-killing-of-jk-bjp-leader-waseem-bari-10580751/
+
+- World Cup final, a village scuffle, and the loss of a boy who spoke through gestures
+  
+  🔗 https://indianexpress.com/article/india/world-cup-final-a-village-scuffle-and-the-loss-of-a-boy-who-spoke-through-gestures-10580742/
+
 - LPG crisis fuels uproar in Lok Sabha, adjourned twice
   
   🔗 https://indianexpress.com/article/india/lpg-crisis-fuels-uproar-in-lok-sabha-adjourned-twice-10580875/
 
-- BAC meet: Opp seeks discussion on West Asia crisis, govt  says it may consider
+- Instagram is killing end-to-end encryption for DMs by May 8
   
-  🔗 https://indianexpress.com/article/india/bac-meet-opp-seeks-discussion-on-west-asia-crisis-govt-says-it-may-consider-10580855/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-is-killing-end-to-end-encryption-for-dms-by-may-8-10581143/
 
-- El Niño likely to emerge post-July, say international weather models
+- Tinder’s 50 million users are burning out. The app is betting AI can fix what swiping broke
   
-  🔗 https://indianexpress.com/article/india/el-nino-likely-to-emerge-post-july-say-international-weather-models-10580858/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tinder-ai-strategy-takes-shape-dating-landscape-2026-10581049/
 
-- As BRICS chair, condemn attacks on Iran: Tehran’s message to Delhi
+- Meta may cut up to 20% of workforce as AI spending surges
   
-  🔗 https://indianexpress.com/article/india/as-brics-chair-condemn-attacks-on-iran-tehrans-message-to-delhi-10580827/
-
-- Will try our best: Iran envoy on safe passage for India-bound fuel ships
-  
-  🔗 https://indianexpress.com/article/india/will-try-our-best-iran-envoy-on-safe-passage-for-india-bound-fuel-ships-10580777/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-may-cut-up-to-20-of-workforce-as-ai-spending-surges-10580965/
 
 - AI zoomers and doomers hog attention, real work happens in the middle: Vivian Schiller, Aspen Digital
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/social/facebook-marketplace-buyers-sellers-meta-ai-features-10580149/
 
-- ‘This acts like a safety net’: Truecaller’s Kunal Dua on the new Family Protection feature
-  
-  🔗 https://indianexpress.com/article/technology/truecallers-kunal-dua-on-the-new-family-protection-feature-10580221/
+- Who is Devendra Singh Chaplot? IIT Bombay alum joins xAI to build superintelligence, welcomed by Elon Musk
+  Devendra Singh Chaplot is an IIT Bombay Computer Science graduate. He has
+  🔗 https://www.livemint.com/companies/people/who-is-devendra-singh-chaplot-iit-bombay-alum-joins-xai-to-build-superintelligence-welcomed-by-elon-musk-11773455029815.html
 
-- Adobe CEO Shantanu Narayen steps down after 28 years; Satya Nadella hails ‘legendary run’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-ceo-shantanu-narayen-steps-down-10579858/
-
-- From school maps to metal shrapnel: The chilling ways top AI chatbots just failed a major safety probe
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-chatbots-ccdh-investigation-violent-content-safety-failure-10579587/
+- Meta layoffs: Mark Zuckerberg's tech firm plans to cut nearly 16,000 jobs as AI costs mount, says report — what we know
+  If Meta settles on the 20% figure, this layoff will be the most significant job cut at Mark Zuckerberg's company since
+  🔗 https://www.livemint.com/companies/news/meta-layoffs-mark-zuckerbergs-tech-firm-plans-to-cut-nearly-16-000-jobs-as-ai-costs-mount-says-report-what-we-know-11773451516319.html
 
 - Jindal Steel's Thyssenkrupp buy talks in gridlock, a new suitor stirs the pot
   Jindal Steel International is seeking clarity on pension liabilities, retrenchment costs and German government support for a cleaner steel transition. Thyss
@@ -52,33 +60,25 @@
   JPMorgan Chase &amp; Co. and Partners Group Holding AG have canceled upcoming gatherings in the UAE.
   🔗 https://www.livemint.com/companies/jpmorgan-partners-group-cancel-uae-events-as-war-drags-on-11773432504414.html
 
-- Jindal Stainless MD says processes ‘adversely impacted’ due to heavy dependence on industrial gases, West Asia conflict
-  Several processes ‘adversely impacted’ due to heavy
-  🔗 https://www.livemint.com/companies/news/jindal-stainless-process-adverse-impact-west-asia-war-heavily-depend-industrial-gas-propane-lpg-fuel-md-abhyuday-jindal-11773414577642.html
+- Stock market crash: Should you worry as investors lost  ₹20 lakh crore last week? Radhika Gupta of Edelweiss explains
+  Radhika Gupta from Edelweiss Mutual Fund recommends investors remain committed
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-stock-market-crash-should-you-worry-as-investors-lost-rs-20-lakh-crore-last-week-radhika-gupta-edelweiss-11773468076662.html
 
-- Who is Sadanand Date? 2007-batch IPS officer takes charge as new Sebi executive director
-  Sadanand Date assumed charge as
-  🔗 https://www.livemint.com/companies/people/who-is-sadanand-date-2007-batch-ips-officer-takes-charge-as-new-sebi-executive-director-11773419561781.html
+- Trump threatens to bomb Iran's oil infra; what does it mean for Indian stock market, oil, gold, silver rates?
+  The US has targeted military sites on Iran's Kharg Island, threatening
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-news-trump-threatens-irans-oil-infra-what-does-it-mean-for-indian-stock-market-oil-gold-silver-rates-11773461520626.html
+
+- US-Iran war: Russia, China to Israel — Who wants the Strait of Hormuz to open soon?
+  The US-Iran war persists with no signs of de-escalation, benefiting Russia through higher oil
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-russia-china-to-israel-who-wants-the-strait-of-hormuz-to-open-soon-11773452729484.html
+
+- Is Polycab India stock headed towards  ₹6,000?
+  The stock of Polycab has been falling over the last few days. Let's look
+  🔗 https://www.livemint.com/market/stock-market-news/polycab-india-stock-price-fall-experts-analysis-future-trajectory-investment-decision-11773398341208.html
 
 - Stock market mock trading today: BSE to conduct market-wide drill for equity, commodity &amp; currency segments
   The BSE and the NSE will conduct this market-wide drill to test its trading infrastructure across multiple segments, including currency
   🔗 https://www.livemint.com/market/stock-market-news/stock-market-mock-trading-today-bse-to-conduct-market-wide-drill-for-equity-commodity-currency-segments-11773423357506.html
-
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell — Shree
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-shree-renuka-sugars-suzlon-energy-adani-power-mehul-kothari-anand-rathi-three-shares-to-buy-11773421152303.html
-
-- Oaktree’s Poli Says Bigger Price Moves in Credit Are Coming
-  Oaktree Capital Management’s Danielle Poli says the moment for the distressed debt shop to scoop up the asset class in dro
-  🔗 https://www.livemint.com/market/oaktrees-poli-says-bigger-price-moves-in-credit-are-coming-11773439091408.html
-
-- EM Eyes Back-to-Back Weekly Slump as Iran War Sparks Risk-Off
-  Emerging-market assets heading for second week of losses. Middle East crisis shows no signs of abating. Concerns grow
-  🔗 https://www.livemint.com/market/em-eyes-back-to-back-weekly-slump-as-iran-war-sparks-riskoff-11773435898598.html
-
-- European Stocks Erase Losses as Oil Slips Below $100 a Barrel
-  European stocks rose Friday as oil prices slipped below $100 a barrel. News reports of an Indian tanker’s passage from the Strait of Hormuz.
-  🔗 https://www.livemint.com/market/european-stocks-erase-losses-as-oil-slips-below-100-a-barrel-11773428264137.html
 
 - xAI hiring reset: Elon Musk apologises to AI talent overlooked during early hiring, promises overhaul
   Elon Musk says he will restructure xAI
@@ -100,125 +100,125 @@
    WhatsApp is launching 'parent-managed accounts' for pre-teens. The setup requires both devices to link accounts, and a Parent PIN secures
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-launches-parent-managed-account-feature-how-it-works-how-to-use-and-more-11773315744745.html
 
+- ‘Lose $1 Million in 2 Seconds’: Market Chaos Rocks Trading Desks - Bloomberg.com
+  ‘Lose $1 Million in 2
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2MweGdLX2ZHY3UtSC11VWcwVkRFVHhodmZuVWppTmF1bDZfU09HdDRaNkRPSXByVkVVVXIydDBqRE9Jc2hkWUliSTJHRmxrdmZLNFVoZWZ5YXJGdzlES0x3Q0xfcnNCUGpWR0Nid0pST3JZUG82cHduMWozU2lqdnJhOWQ5eXphOGstTjM5dVAzUm5CNmRsc3VfTlNWNHpWUkhNV1l0bXctS184NlZCQzlB?oc=5
+
 - Asia-Pacific markets tumble as investors brace for a prolonged war in Middle East - CNBC
   Asia-Pacific markets tumble as investors brace for a prolonged
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNb211Wm83enZOTGllemdDRml3QkNfUWNKX0pha21mZ2xPd1ZKazI1U0V5VGo4YV9Nb0owc3hSdHBGODdpMFFtY3ZlSnBjdjA2djJpZTFiNWhiXzlTVUxqQU5yOXlqLVNySTU0N2tlZjhKWm1Mc0pldlRuN1pvVWJoV0hDalJ0QlVib1VoOGRaRElVS1JuaUc0bXltNHZGd9IBowFBVV95cUxQNlpuWU02UkRXaFB2VC1zbUJzdjF5WUJEZFlkTzZWczBBYnpHdVRVNmUtTnRrU1RQdUNSbTZ1ckQxdkZidm5qcEJVdTJ2Z0YwQ3FzcjlvVzc5UVBVVnh1cXd1M1pQbjNUb3VrcWJwRnFZNXRzclFzY0pNLW1ibXNrS25vWGhJb1g1UXh3TXpBN2ViVGliQkF4azBIR2JKdEJ3Rjhr?oc=5
 
-- Markets News, March 13, 2026: Equities Finish Lower as Oil Resumes Ascent; Indexes Record 3rd Straight Week of Declines - Investopedia
-  The Dow Jones Industrial Average closed at a record low on March 13, 2026.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUp2d3dfZ0Y0SjRPUFJSWWYtSko5WGU3bVpyZFZjR0N4bndiZHZGMjk5WUR2TTlrTkwxbHdRTjZwWkdMQm5MWTM5LU1KTXl0aXVXX29ZRHNqdnhJeGhMdW1qTDZhZ2NlYjlDY1RBTHVoenN2d3ZFZHk2bVpPU0J3aTkzdTc4RmhNSmxaRjBab1A?oc=5
+- Global Wealth Summit 2026 Live: SEBI chief says volatility natural feature of markets, outlines ‘real strength’ of ecosystem - Moneycontrol.com
+  &nbsp;&ngt;<font color="#6f6f
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0RNbVladHRXWDZWNjZ6TUFUUGF5a2tXVGJIOExscUdiQ2lVYk5lZ0NoWk1hcXZkRjFScThEM1ljN2duZmExeU43YWZpa1V1TWZxRnp2TGxJRG9wbXJkVFFrbHRuX1ZWVFY2MUlsNl9HVTN1N1oyQTRiSWp1RnRWc2FPU2VsVTB5ZlQtdTMtN3MzV2UwTFM1M2ItVkdKY184ekpMbkNVYVRUUkNZdmJ0cnY4Zng2Ml9UUEHSAb8BQVVfeXFMTlNreUxWTlZKM18wekg4bkJDa3E0aXROV2RiN1UtcDFWY2JxOHBQWVNMMmM0UHdnY3NMY2ZNZ0VWNnRmOEZHc1hwZTU0bmRTZ1lhaGIwTm5UUGhtZlFKS0l0VENUaFNkaThkVGsyT29tMlphQnEwWk9aejZEZjgtcXRjZDRnTE1hNVZFT2V2ckFKWmk2ZDgwM0l0blQwUUZzcS0wZ1REN1BwdVFpVHZ2d2xpTE40ZUhsMDkxOFpDQ2s?oc=5
 
-- Why are US stock market indexes down today, and will S&P 500, Dow Jones and Nasdaq stay in red or turn gre - The Economic Times
-  Why stock indexes are down today, and why they will stay down.
-  🔗 https://news.google.com/rss/articles/CBMiowNBVV95cUxNMC1iQ04wNzVreHNVZUkwSDR6TG9zS3JYeFhSN2V5UEJqVEN0ZTU3U05hc25Jc3FaejJiWm05WDk3WC1KTjlha0hMb0N5ZWZRaVNtX01HU1NoMFJTOU9JMzJKZDhYb2lDUEtjNS1UWmZfempkeUtYNkJxNGhsMnB1TUM0d3Ita0lLZEgzSXVWcy12X0xvN1hkZnFRbXU3bXdENkpuNHB1VHB6N3NsSnVNMnBkUlM3SnlxODdRMHZiZ3dWUGMtc0JJMUxsQXAwNlJlUUY3ZWl6MDc1SUZHRzRteGhTUXV3cFZQZk1NOTRPZ1RfVG5FUmFWaC1BNHBYMzdCdG5CR3FuN2xfSXBKOGFTbHBjd0R5T05mVW1TdF9vTXcwVTVPaVhlNExudHl6R3JfOVFSNklBSVYtOGw0eVRfUXd2b0Z0VVhueDkwc0lWYURWN01aWld1UGs0Rk43cWdja3V3MWdrMkdvUTVKdmhCNGYtN25adERuMFRzTFloeERUazdPajl3MU9Xb1FRaEk0aWd4MUMyN3BKTEN4MS1FU3JuQdIBqANBVV95cUxNa0RTdmI0OHE3NHItSzlvaXBhQzNyYU5odkxKR2E3bC1vSVBBSm85aXBoMWJiclN5QTFudzd6R1g0X1JzdjU2NmIzczVjbW5zZjI5NlNaQ3NfdFdHT0FpUEFwejNpVG8yY2RINHpodWxQUmM4bG5UR2dxcGVrMWxsZEtwMGVoWWlNVlFyVjZGSjBvLTZVSHEzd05NdXA2ZDg3bjlFdFRIMGZ2UzQwZWxCcENDN2RFQ1V5MU9WWTdxRHhKXzFGMXZHR2dVdVQwT2pPMDc3ZGRIQld3TDdNM2ZsdVh4R3pEMWVVWENpem9tZExjd0MtUUM1dVIxUWRwV3JTU2RJSWEzRnZkSmtQQm9iSUR3TkNLUmwzWkp1cHU4U2plN2t4bFNBOTlKelJ6WU5qUnhHdnQydnZWOFVQaUFIcEVDMVVyeENyb3IySFJIbzBMOXp2aUp5MDNrdGFYalE2cHNYR0gzWS1RYU9KcnA4dTI5U0Q3NllHaEx0Nl93ZTFTY3V1VFpKUHh5ZWZ1aW83OGpkVFo0Q2hRd2ZIUUswNWpYUDE0T01D?oc=5
-
-- Stock Market News, March 13, 2026: Oil Prices Turn Above $100; Dow Slips - WSJ
-  Stock Market News, March 13, 2026: Oil
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOWklveHBDNktxM2RRZmFCbmk5eDkzQmJ4YlRpdVFINkROM3EyNjQ5UlVjNndBcUlBR2p6WHB3ZFB5RUtpcjlmUzhva1FkOHhqMl9IendpQkYyclJSaVdMWkNBZkl2MVE3ZVV0QW41M1ZzNTY2UWhwR2RMUXJFTm1Lcng0UDVINzQ?oc=5
+- What does buying the dip really mean? - Finshots
+  &nbsp;&
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE96ZXJPNU9NT1dkeWVNV3BGdWVERTl2S0xaWlFDeWRpTHo0Yk9VXzl5MjBXSmQtQ0xIdHZCZjFPWkExVUpuWXJGN3loMVVWX2laOFE4QUtzQVcydVMyOWs0Z2FXN2tOZjhZRmx0dXI3cXJJbnc?oc=5
 
 - Stock Market Highlights: Rs 9.5 Lakh Crore Investor Wealth Wiped Out As Oil Shock Rattles Markets - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTE9BZVdRSGJNN2ZKZGhNa2R1eHB0TlFaOTFJTlJFNS0xZHZtNVY5TFZ1TTEzOW5PYUt0VTNsWjM1OUtOS0dfblYtNHI4NjQzb2oybkk0Vm5yeVdPbVI3dGlNSW5PSFdOdT
+  " target="_blank">Stock Market Highlights: Rs 9.5
   🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTE9BZVdRSGJNN2ZKZGhNa2R1eHB0TlFaOTFJTlJFNS0xZHZtNVY5TFZ1TTEzOW5PYUt0VTNsWjM1OUtOS0dfblYtNHI4NjQzb2oybkk0Vm5yeVdPbVI3dGlNSW5PSFdOdTNnQlBtc3hqT09YeHZaYnNjVVRCOHFHN0ZXX0ZlLXZmS2QzTldrSWc5cEhVR3htcjg4QWVsSkNfMFRqek0xUXBYcHhFY2ZJekx0X25JYjhYeUhJVmtraXlVVnhQWVRMWkQwSllxb2JkXzZDSEtfUy1tMlFINlFYWkViLVNCZ9IB7gFBVV95cUxQeXFvZW9lMmN0RzNJLVVvUWpQN1llekhFcmJtWVFCRzhKSmRQaUtkUFpoRWdPMDVVR0h2SG14RE9lWjNVd1htc2dDQTBJZVB2QUw5VHh2aW1Bc0FUM3c4NXFHbDczbTVzSmRrNk9LMkZMNHpkWjdrbE1UQmRXb2d6SzRmSlVIeXVndDMtaDR0aDEzUGVaOVh5cXNNTTBmT3dsWHFmcnVKR3VzU19aY2M5bzIwRlRzTkVRQWtrNXV3OHl1bVp2UGRQemstRmUyODkzNTlJQ2FqWVBmbjFuTV9PblhpREhJZVhDMDBZZGVB?oc=5
 
-- India reduces minimum public share float, paving way for NSE, Jio listings
-  The regulator last year proposed to halve the minimum amount of ‌shares large companies had to offer in their IPOs. This has now been formally notified by the government. Those valued at above $57 billion after listing
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/india-reduces-minimum-public-share-float-paving-way-for-nse-jio-listings/articleshow/129561702.cms
+- Concurrent Losers: 12 smallcap stocks decline for 5 consecutive sessions
+  12 small-cap stocks, including Aqylon Nexus, Silver Touch, and Sapphire Foods
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-12-smallcap-stocks-decline-for-5-consecutive-sessions/slideshow/129569877.cms
 
-- US stocks today: S&amp;P 500, Nasdaq slip as investors assess data, Iran war fallout
-  US stocks experienced a downturn on Friday, with major indices set to end the week lower. Investors are now anticipating fewer Federal Reserve rate cuts this year, as rising energy costs and slowing economic growth fuel stagflation fears
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-as-investors-assess-data-iran-war-fallout/articleshow/129560549.cms
+- IPO Calendar: Coal India subsidiary among 3 IPOs scheduled for next week
+  India’s primary market will see three IPOs, including two mainboard issues and one SME offering. GSP Crop Science and CMPDI, a Coal India subsidiary, are the highlights.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-coal-india-subsidiary-among-3-ipos-scheduled-for-next-week/articleshow/129569743.cms
 
-- Rupee closes at new low at 92.46 against the US dollar, down 0.7% this week
-  The rupee hit a fresh closing low of 92.46 against the dollar on Friday. Sustained foreign fund outflows and importer demand further pressured the currency.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-new-low-at-92-46-against-the-us-dollar-down-0-7-this-week/articleshow/129559982.cms
+- Jefferies picks 7 stocks with up to 117% upside potential. How many do you have?
+  Jefferies’ seven top picks, including Eternal, JSW Steel, Bharat Forge, S
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jefferies-picks-7-stocks-with-up-to-117-upside-potential-how-many-do-you-have/slideshow/129569707.cms
 
-- India to scrap bids for majority stake in IDBI Bank: Report
-  India is set to shelve the bids it received for a majority stake in its state-owned IDBI Bank. The amounts were below the minimum price sought, Bloomberg ‌
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-to-scrap-bids-for-majority-stake-in-idbi-bank-report/articleshow/129559857.cms
+- Global Markets | Markets in Turmoil? François Rochon’s ‘corporate masterpiece’ strategy offers a timeless edge
+  Canadian investor François Rochon suggests treating investing as an art, not a science. He emphasizes rational, disciplined company selection for long-term gains.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-markets-in-turmoil-franois-rochons-corporate-masterpiece-strategy-offers-a-timeless-edge/articleshow/129569574.cms
 
-- RBI injects Rs 50,000 crore via OMO; liquidity move comes ahead of advance tax, GST outflows
-  The Reserve Bank of India injected Rs 50,000 crore into the banking system. The move supported India's benchmark 10-year bond yield, which remained flat. The RBI has infused a total of Rs 3.50 lakh crore through O
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-injects-rs-50000-crore-via-omo-liquidity-move-comes-ahead-of-advance-tax-gst-outflows/articleshow/129559895.cms
+- Crude futures turn positive on continued Hormuz closure
+  US has issued a license for countries to buy Russian oil. Concerns grow about potential damage to oil infrastructure.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/crude-futures-turn-positive-on-continued-hormuz-closure/articleshow/129569501.cms
 
-- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+- ‘Spent months on bullying, now begging’: Iran on US waiver for India to buy Russian oil | India News - Hindustan Times
+  ‘Spent months on bullying, now begging’: Iran on US waiver for
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxObl9RQk96SUtRdkNYbE9GUjFmN2xmMnpVSnFubTR3ZUNvbkxXOEQyLTFyWEpQMl92VXRlUG5WWkUxZkdIQl94aHhJWFlpRmFoLXRhYVZYRVpsemVjRVo3c21NR1VuODVsWnVfWGptNG9vZzFyd2JkcUtJMldxVzFNRWJmSmhqRHN1cGcydldiT0dpbjBuaW03V1RfY3JiZUZfZkVDN2FBRWhaZDVndnBwaloxVlNFYTkwcTM4M2h5RFhNV25vTjJNQ2UxcEcyNzE1U0M5bmdnQWFJd2Jrb2Qw0gHkAUFVX3lxTE9CMGVDRXBGbkwzY1JOZ0JvN3BiN3BhOFBQN1pCMU54d2hKaGEtNDJRQ0FDQ2ZqQklJY2lQNWV5TDdYSGljb0xwY1NJMDBuQ1FMWjlfR2hkUVd6QTNEUjFYNE05RnIzQVlfS3E0RnZYNndVWUFWb1BrRlRTWnEtX2RKYi12ZTdOS05abDZ4cHRRekJPOEZoTjJsalVsR2hXdzJmR2Nndm8tZm5TSUJVOVdESktyb1phOVVvRXZha1l6NG9NY3dNV19mN043T3d0dlZST3NybHRfVVFjQmVfb1IwTGxKNA?oc=5
 
-- The slow burn to success - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBDUnVKY05EYXc5RzQ0T1B4d2tDMThQQ0JSYTQydkZWUGJTRUtEdUpvT0o5cm1acFhBZnRrYWlmUDBEVmhsSmZlSnJfQVE0SzRSRjdYYVI2MDJOWHNKcjk0WFp6RlpJZlhXdUhHRDNHSk9qcDJESkdRbDFHQURKZEMyV3drWTlLdlhiZm1hQjVxM0VBcHFj0gGcAUFVX3lxTE9FaXdjV1dmR0JqUVRJTXdzcVA2RHFaUHFMWmlPb1pyM2Yza0d1V2w5b0d2UU4zYk1tNS1zNmlJS3E0b2VuRGUzQ0Z5MEpPZ1JHT3k0SlBxSnFxOFh2Vkp1TzZidmlEVWc5dDhYTi1lZnFuNVFpckEwRFNJSTEwS2pWUmJXRlc2dmcwTEQzMFAydFQ2bnk3aWVOS2RTRQ?oc=5
+- After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea - NDTV
+  After 'Permitting' India, US Allows Sale
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRURUNUt0U0w3OVZSWGJud0ZKWUxmSWhCZjRON3FyVnhYOHBNRGpTb0dnNU9pXzd4aG5ERFhXc2JLb2pXYVE4c3RfSTBDWW1pN1lCYi1pamhnQ0RPcG5tOXFLYjFMSVNsS19kNXBiTEdYWlcyZ2xPdVNpakpZVDJYWVdZdnVlVzBtZkd3R2dwTWRCcFQzMTBqYjNMb0lTNXhNNHZiNnRaLURFWGJRZ3lEUFZlY0k0aWRpaTJkaHIwN0RJQk5HUkYzM1BBcjh6VWhWeTFKS2NvRUzSAeABQVVfeXFMUHdJRy1NNmRDOEFZc20zaEJtN04tYTNrN251VlVfRHZSZ2dJaGRqSGl0SzhuM2VGd25XWmxaT3FRangtajJZeW1OUDNtQm1GOTNGUGVldDZnbHJSU1lNd0czbWplNzAxXzFnNm5PYnVXY2hpMkhoTnRidThSZXh3RFFIdkhnS2FDdkJsMzA5Nllfa3N4cW1SOV83MlpweGdWOGlMQ2xpSjJrNXNURk56SE5kaWI2UzRNVlhCN01uNG4xRmN2NTZUUmpYeVZweFdXMUVhaUkwZWZZZlRjYjhuVEM?oc=5
 
-- In photos: Tracing India's history through its chairs - BBC
-  The chairs were donated to the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRGlIYUxIclZZUm5OM1B3RldqcjZub0J5NnN2d2lGOWpqSk90MndBTXFwMTdYeFdJemRxWUVWd1pYZFZsa0wxX0RocnR3UVRidUlCWkpieUQ0QQ?oc=5
+- Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade, Tariff Pressures - The Times of India
+  Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSElVdU1fUjlMcm1MVnV2RU1vV0RieXV1M19pVGh2bXRSOVdXWUhnQzI2NEZNRUdPTVN4TlFRYldOMTRNZmh0Z211THBEUHNOMk9oSVpndXJXTmdQbU1IUkppOW8wZEo4RkVnMFA3TmlCZFlxVjVob2p5RVkxOF9rLUY4RFBabmUxQWdXREd2Tl9HdW1PYzZ5VE92RXJjbXZnSnNVU3Vjc2NMNzRxRlN1M0pfN3FjWFA2RmVaR2Niand5SW05NFNHbzhWRUtXRmFJemdKUjlIX0dOa2NHaTJwZ29ZZEFwWXdjZUhJdHd6YS11R2NuYmpwWHhyQjXSAYICQVVfeXFMTlp5SW4tWEFPcjZZd1M5N09fRGh3RnlHcDNURExlMGJnR2RzYW12MFpGdTBTbVk0TGJKOWhqRW16SnZKVGUzU01VeDhNSEcyWW9lMG1qVWhoQmc4Z0JXMW1FNzVsVlJ2ZnNYek85TExtR2MyUmJfSk9OdzA3dnNmcF9nQ1VBZlo2WTY4bXVQMXBvZ1M3R0NCR3R0RXRidVpraGlhbVh3aWNzcE5xNVRtVlFTdXRZeEtFLTRkd0RnQjI2YzhvcUVTR2syX0xnSHRsRW9WWlE3MEdsX2h1QzlFMkxPNWhubWI3MGtleVZhMFFWM0VfdktvMnlFRWFmSVFCYm1B?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- India-Bound LPG Tanker Crosses Strait Of Hormuz Amid Iran Blockade: Sources - NDTV
+  India-Bound LPG Tanker Crosses
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnVFQ2tTWVRwT2E1YndJOFlCaXZtZnNNUnBGWDZYMXhXeTM3ZGRVMExic1BNZXVKWTRXMThya1RoQ1hKVEFsOVBPOG54XzFZbklwRkdqTlhUUEs5SHFGNHhRSi1WV1g5RnR5ejlJa3VwUGhkQmY0VV9tRkpoZEFIUy1LaXFKUXg1Zmd4VHVXT0lCeUxhTnFOUko5TEVOdWRSNE9Gd0RWX3llQlZ4dDBaSjFZM192VXVjRlpRYUozdG1vWXlSV3NJUThRNlR1T2d2TUHSAdoBQVVfeXFMTWNMdUVNamExOVoyYlJZWDBMT1BKNzBJTGsyZmFLeGVtUm4zeGNQZjc1VG5rY2E1M3VVdV9CM2ZPdkVaZjJVTUFSVGgxTTg4TWdkUGNOTzRRQlNwSW9pWVI1Mjg4NFVWaFZTZndrcDFLZGYwTzNuc1dVS184dnNXVWw2SWJSYmlDVW91aTZPREJOaUtCeTAzRlB0WWpUZ1FzSmI4dmFQWFY4TUFjUkVWT0NxbXNrY0ZjeWt2c1g0UXVLU2U1OW80VmY0cGh6bEhtRVFMLWZacTBEU2c?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: Highlights - The Times of India
-  India LPG Cylinder Shortage News
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- LPG Crisis in India Live Updates: MP's struggling to get tea in Parliament, says Congress MP - The Times of India
+  LPG crisis in India Live Updates: MP's struggling to get tea in Parliament,
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+- ‘Spent months on bullying, now begging’: Iran on US waiver for India to buy Russian oil | India News - Hindustan Times
+  ‘Spent months on bullying, now begging’: Iran on US waiver for
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxObl9RQk96SUtRdkNYbE9GUjFmN2xmMnpVSnFubTR3ZUNvbkxXOEQyLTFyWEpQMl92VXRlUG5WWkUxZkdIQl94aHhJWFlpRmFoLXRhYVZYRVpsemVjRVo3c21NR1VuODVsWnVfWGptNG9vZzFyd2JkcUtJMldxVzFNRWJmSmhqRHN1cGcydldiT0dpbjBuaW03V1RfY3JiZUZfZkVDN2FBRWhaZDVndnBwaloxVlNFYTkwcTM4M2h5RFhNV25vTjJNQ2UxcEcyNzE1U0M5bmdnQWFJd2Jrb2Qw0gHkAUFVX3lxTE9CMGVDRXBGbkwzY1JOZ0JvN3BiN3BhOFBQN1pCMU54d2hKaGEtNDJRQ0FDQ2ZqQklJY2lQNWV5TDdYSGljb0xwY1NJMDBuQ1FMWjlfR2hkUVd6QTNEUjFYNE05RnIzQVlfS3E0RnZYNndVWUFWb1BrRlRTWnEtX2RKYi12ZTdOS05abDZ4cHRRekJPOEZoTjJsalVsR2hXdzJmR2Nndm8tZm5TSUJVOVdESktyb1phOVVvRXZha1l6NG9NY3dNV19mN043T3d0dlZST3NybHRfVVFjQmVfb1IwTGxKNA?oc=5
 
-- The slow burn to success - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBDUnVKY05EYXc5RzQ0T1B4d2tDMThQQ0JSYTQydkZWUGJTRUtEdUpvT0o5cm1acFhBZnRrYWlmUDBEVmhsSmZlSnJfQVE0SzRSRjdYYVI2MDJOWHNKcjk0WFp6RlpJZlhXdUhHRDNHSk9qcDJESkdRbDFHQURKZEMyV3drWTlLdlhiZm1hQjVxM0VBcHFj0gGcAUFVX3lxTE9FaXdjV1dmR0JqUVRJTXdzcVA2RHFaUHFMWmlPb1pyM2Yza0d1V2w5b0d2UU4zYk1tNS1zNmlJS3E0b2VuRGUzQ0Z5MEpPZ1JHT3k0SlBxSnFxOFh2Vkp1TzZidmlEVWc5dDhYTi1lZnFuNVFpckEwRFNJSTEwS2pWUmJXRlc2dmcwTEQzMFAydFQ2bnk3aWVOS2RTRQ?oc=5
+- After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea - NDTV
+  After 'Permitting' India, US Allows Sale
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRURUNUt0U0w3OVZSWGJud0ZKWUxmSWhCZjRON3FyVnhYOHBNRGpTb0dnNU9pXzd4aG5ERFhXc2JLb2pXYVE4c3RfSTBDWW1pN1lCYi1pamhnQ0RPcG5tOXFLYjFMSVNsS19kNXBiTEdYWlcyZ2xPdVNpakpZVDJYWVdZdnVlVzBtZkd3R2dwTWRCcFQzMTBqYjNMb0lTNXhNNHZiNnRaLURFWGJRZ3lEUFZlY0k0aWRpaTJkaHIwN0RJQk5HUkYzM1BBcjh6VWhWeTFKS2NvRUzSAeABQVVfeXFMUHdJRy1NNmRDOEFZc20zaEJtN04tYTNrN251VlVfRHZSZ2dJaGRqSGl0SzhuM2VGd25XWmxaT3FRangtajJZeW1OUDNtQm1GOTNGUGVldDZnbHJSU1lNd0czbWplNzAxXzFnNm5PYnVXY2hpMkhoTnRidThSZXh3RFFIdkhnS2FDdkJsMzA5Nllfa3N4cW1SOV83MlpweGdWOGlMQ2xpSjJrNXNURk56SE5kaWI2UzRNVlhCN01uNG4xRmN2NTZUUmpYeVZweFdXMUVhaUkwZWZZZlRjYjhuVEM?oc=5
 
-- In photos: Tracing India's history through its chairs - BBC
-  The chairs were donated to the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRGlIYUxIclZZUm5OM1B3RldqcjZub0J5NnN2d2lGOWpqSk90MndBTXFwMTdYeFdJemRxWUVWd1pYZFZsa0wxX0RocnR3UVRidUlCWkpieUQ0QQ?oc=5
+- Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade, Tariff Pressures - The Times of India
+  Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSElVdU1fUjlMcm1MVnV2RU1vV0RieXV1M19pVGh2bXRSOVdXWUhnQzI2NEZNRUdPTVN4TlFRYldOMTRNZmh0Z211THBEUHNOMk9oSVpndXJXTmdQbU1IUkppOW8wZEo4RkVnMFA3TmlCZFlxVjVob2p5RVkxOF9rLUY4RFBabmUxQWdXREd2Tl9HdW1PYzZ5VE92RXJjbXZnSnNVU3Vjc2NMNzRxRlN1M0pfN3FjWFA2RmVaR2Niand5SW05NFNHbzhWRUtXRmFJemdKUjlIX0dOa2NHaTJwZ29ZZEFwWXdjZUhJdHd6YS11R2NuYmpwWHhyQjXSAYICQVVfeXFMTlp5SW4tWEFPcjZZd1M5N09fRGh3RnlHcDNURExlMGJnR2RzYW12MFpGdTBTbVk0TGJKOWhqRW16SnZKVGUzU01VeDhNSEcyWW9lMG1qVWhoQmc4Z0JXMW1FNzVsVlJ2ZnNYek85TExtR2MyUmJfSk9OdzA3dnNmcF9nQ1VBZlo2WTY4bXVQMXBvZ1M3R0NCR3R0RXRidVpraGlhbVh3aWNzcE5xNVRtVlFTdXRZeEtFLTRkd0RnQjI2YzhvcUVTR2syX0xnSHRsRW9WWlE3MEdsX2h1QzlFMkxPNWhubWI3MGtleVZhMFFWM0VfdktvMnlFRWFmSVFCYm1B?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- India-Bound LPG Tanker Crosses Strait Of Hormuz Amid Iran Blockade: Sources - NDTV
+  India-Bound LPG Tanker Crosses
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnVFQ2tTWVRwT2E1YndJOFlCaXZtZnNNUnBGWDZYMXhXeTM3ZGRVMExic1BNZXVKWTRXMThya1RoQ1hKVEFsOVBPOG54XzFZbklwRkdqTlhUUEs5SHFGNHhRSi1WV1g5RnR5ejlJa3VwUGhkQmY0VV9tRkpoZEFIUy1LaXFKUXg1Zmd4VHVXT0lCeUxhTnFOUko5TEVOdWRSNE9Gd0RWX3llQlZ4dDBaSjFZM192VXVjRlpRYUozdG1vWXlSV3NJUThRNlR1T2d2TUHSAdoBQVVfeXFMTWNMdUVNamExOVoyYlJZWDBMT1BKNzBJTGsyZmFLeGVtUm4zeGNQZjc1VG5rY2E1M3VVdV9CM2ZPdkVaZjJVTUFSVGgxTTg4TWdkUGNOTzRRQlNwSW9pWVI1Mjg4NFVWaFZTZndrcDFLZGYwTzNuc1dVS184dnNXVWw2SWJSYmlDVW91aTZPREJOaUtCeTAzRlB0WWpUZ1FzSmI4dmFQWFY4TUFjUkVWT0NxbXNrY0ZjeWt2c1g0UXVLU2U1OW80VmY0cGh6bEhtRVFMLWZacTBEU2c?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: Highlights - The Times of India
-  India LPG Cylinder Shortage News
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- LPG Crisis in India Live Updates: MP's struggling to get tea in Parliament, says Congress MP - The Times of India
+  LPG crisis in India Live Updates: MP's struggling to get tea in Parliament,
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+- ‘Spent months on bullying, now begging’: Iran on US waiver for India to buy Russian oil | India News - Hindustan Times
+  ‘Spent months on bullying, now begging’: Iran on US waiver for
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxObl9RQk96SUtRdkNYbE9GUjFmN2xmMnpVSnFubTR3ZUNvbkxXOEQyLTFyWEpQMl92VXRlUG5WWkUxZkdIQl94aHhJWFlpRmFoLXRhYVZYRVpsemVjRVo3c21NR1VuODVsWnVfWGptNG9vZzFyd2JkcUtJMldxVzFNRWJmSmhqRHN1cGcydldiT0dpbjBuaW03V1RfY3JiZUZfZkVDN2FBRWhaZDVndnBwaloxVlNFYTkwcTM4M2h5RFhNV25vTjJNQ2UxcEcyNzE1U0M5bmdnQWFJd2Jrb2Qw0gHkAUFVX3lxTE9CMGVDRXBGbkwzY1JOZ0JvN3BiN3BhOFBQN1pCMU54d2hKaGEtNDJRQ0FDQ2ZqQklJY2lQNWV5TDdYSGljb0xwY1NJMDBuQ1FMWjlfR2hkUVd6QTNEUjFYNE05RnIzQVlfS3E0RnZYNndVWUFWb1BrRlRTWnEtX2RKYi12ZTdOS05abDZ4cHRRekJPOEZoTjJsalVsR2hXdzJmR2Nndm8tZm5TSUJVOVdESktyb1phOVVvRXZha1l6NG9NY3dNV19mN043T3d0dlZST3NybHRfVVFjQmVfb1IwTGxKNA?oc=5
 
-- The slow burn to success - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBDUnVKY05EYXc5RzQ0T1B4d2tDMThQQ0JSYTQydkZWUGJTRUtEdUpvT0o5cm1acFhBZnRrYWlmUDBEVmhsSmZlSnJfQVE0SzRSRjdYYVI2MDJOWHNKcjk0WFp6RlpJZlhXdUhHRDNHSk9qcDJESkdRbDFHQURKZEMyV3drWTlLdlhiZm1hQjVxM0VBcHFj0gGcAUFVX3lxTE9FaXdjV1dmR0JqUVRJTXdzcVA2RHFaUHFMWmlPb1pyM2Yza0d1V2w5b0d2UU4zYk1tNS1zNmlJS3E0b2VuRGUzQ0Z5MEpPZ1JHT3k0SlBxSnFxOFh2Vkp1TzZidmlEVWc5dDhYTi1lZnFuNVFpckEwRFNJSTEwS2pWUmJXRlc2dmcwTEQzMFAydFQ2bnk3aWVOS2RTRQ?oc=5
+- After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea - NDTV
+  After 'Permitting' India, US Allows Sale
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRURUNUt0U0w3OVZSWGJud0ZKWUxmSWhCZjRON3FyVnhYOHBNRGpTb0dnNU9pXzd4aG5ERFhXc2JLb2pXYVE4c3RfSTBDWW1pN1lCYi1pamhnQ0RPcG5tOXFLYjFMSVNsS19kNXBiTEdYWlcyZ2xPdVNpakpZVDJYWVdZdnVlVzBtZkd3R2dwTWRCcFQzMTBqYjNMb0lTNXhNNHZiNnRaLURFWGJRZ3lEUFZlY0k0aWRpaTJkaHIwN0RJQk5HUkYzM1BBcjh6VWhWeTFKS2NvRUzSAeABQVVfeXFMUHdJRy1NNmRDOEFZc20zaEJtN04tYTNrN251VlVfRHZSZ2dJaGRqSGl0SzhuM2VGd25XWmxaT3FRangtajJZeW1OUDNtQm1GOTNGUGVldDZnbHJSU1lNd0czbWplNzAxXzFnNm5PYnVXY2hpMkhoTnRidThSZXh3RFFIdkhnS2FDdkJsMzA5Nllfa3N4cW1SOV83MlpweGdWOGlMQ2xpSjJrNXNURk56SE5kaWI2UzRNVlhCN01uNG4xRmN2NTZUUmpYeVZweFdXMUVhaUkwZWZZZlRjYjhuVEM?oc=5
 
-- In photos: Tracing India's history through its chairs - BBC
-  The chairs were donated to the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRGlIYUxIclZZUm5OM1B3RldqcjZub0J5NnN2d2lGOWpqSk90MndBTXFwMTdYeFdJemRxWUVWd1pYZFZsa0wxX0RocnR3UVRidUlCWkpieUQ0QQ?oc=5
+- Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade, Tariff Pressures - The Times of India
+  Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSElVdU1fUjlMcm1MVnV2RU1vV0RieXV1M19pVGh2bXRSOVdXWUhnQzI2NEZNRUdPTVN4TlFRYldOMTRNZmh0Z211THBEUHNOMk9oSVpndXJXTmdQbU1IUkppOW8wZEo4RkVnMFA3TmlCZFlxVjVob2p5RVkxOF9rLUY4RFBabmUxQWdXREd2Tl9HdW1PYzZ5VE92RXJjbXZnSnNVU3Vjc2NMNzRxRlN1M0pfN3FjWFA2RmVaR2Niand5SW05NFNHbzhWRUtXRmFJemdKUjlIX0dOa2NHaTJwZ29ZZEFwWXdjZUhJdHd6YS11R2NuYmpwWHhyQjXSAYICQVVfeXFMTlp5SW4tWEFPcjZZd1M5N09fRGh3RnlHcDNURExlMGJnR2RzYW12MFpGdTBTbVk0TGJKOWhqRW16SnZKVGUzU01VeDhNSEcyWW9lMG1qVWhoQmc4Z0JXMW1FNzVsVlJ2ZnNYek85TExtR2MyUmJfSk9OdzA3dnNmcF9nQ1VBZlo2WTY4bXVQMXBvZ1M3R0NCR3R0RXRidVpraGlhbVh3aWNzcE5xNVRtVlFTdXRZeEtFLTRkd0RnQjI2YzhvcUVTR2syX0xnSHRsRW9WWlE3MEdsX2h1QzlFMkxPNWhubWI3MGtleVZhMFFWM0VfdktvMnlFRWFmSVFCYm1B?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- India-Bound LPG Tanker Crosses Strait Of Hormuz Amid Iran Blockade: Sources - NDTV
+  India-Bound LPG Tanker Crosses
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnVFQ2tTWVRwT2E1YndJOFlCaXZtZnNNUnBGWDZYMXhXeTM3ZGRVMExic1BNZXVKWTRXMThya1RoQ1hKVEFsOVBPOG54XzFZbklwRkdqTlhUUEs5SHFGNHhRSi1WV1g5RnR5ejlJa3VwUGhkQmY0VV9tRkpoZEFIUy1LaXFKUXg1Zmd4VHVXT0lCeUxhTnFOUko5TEVOdWRSNE9Gd0RWX3llQlZ4dDBaSjFZM192VXVjRlpRYUozdG1vWXlSV3NJUThRNlR1T2d2TUHSAdoBQVVfeXFMTWNMdUVNamExOVoyYlJZWDBMT1BKNzBJTGsyZmFLeGVtUm4zeGNQZjc1VG5rY2E1M3VVdV9CM2ZPdkVaZjJVTUFSVGgxTTg4TWdkUGNOTzRRQlNwSW9pWVI1Mjg4NFVWaFZTZndrcDFLZGYwTzNuc1dVS184dnNXVWw2SWJSYmlDVW91aTZPREJOaUtCeTAzRlB0WWpUZ1FzSmI4dmFQWFY4TUFjUkVWT0NxbXNrY0ZjeWt2c1g0UXVLU2U1OW80VmY0cGh6bEhtRVFMLWZacTBEU2c?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: Highlights - The Times of India
-  India LPG Cylinder Shortage News
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- LPG Crisis in India Live Updates: MP's struggling to get tea in Parliament, says Congress MP - The Times of India
+  LPG crisis in India Live Updates: MP's struggling to get tea in Parliament,
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- ‘Premature to comment’: MEA on reports of Indian ships passing through Strait of Hormuz - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTT
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGNPQUlqendvVjFkdTVWWXhkTk55QXdYd2E0eGRUcXZMMlI4TS1KS2N4dTBmSXNyalQxZGZWS195SDBYcndYWjZScnNoLXV3a1BncXdjVHJ1blVuWVpnUDR1MjV6RUdmTThGNU03dkMyb3I4R01tQXJOMUtqaTllSkc3SXNlVUVKVzh5eHdsNGVocmtkcjV4d0pQUHU1N2t4bEFnUm11a2UwMGs2dTVLaFEyTHdpTnNnRlMxeTd4UFFHQWFCZy1mSzVDbFU5aHpFaFBVS9IB2wFBVV95cUxPSmFsd2lqenU3QUJIV21UU0JpUGo3aWhBc2J1YU9PUWstTUxrNy1wN3pqSnVKS3R3WGlXaXVHMmRlZm1jLTZDRFdKRGsxWXpaYXdsNWhhTm9DT2l5VGNJTm5jcU1RcWhnTkFGdmVjYkxHRWZJZzJlSEJYNTNJUWNnX3pVUEVlSXhLTFhJMVlKWmdFLTVaWGNFLXpOc25mYlNLbHB0YV9HVDlSS3Y2VVhMazlYMjNuX1lGeUpYdW5iclFUUnJxTFlBVHJzT3czZmx5Y1VQTjd3bVdRQlU?oc=5
+- ‘Spent months on bullying, now begging’: Iran on US waiver for India to buy Russian oil | India News - Hindustan Times
+  ‘Spent months on bullying, now begging’: Iran on US waiver for
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxObl9RQk96SUtRdkNYbE9GUjFmN2xmMnpVSnFubTR3ZUNvbkxXOEQyLTFyWEpQMl92VXRlUG5WWkUxZkdIQl94aHhJWFlpRmFoLXRhYVZYRVpsemVjRVo3c21NR1VuODVsWnVfWGptNG9vZzFyd2JkcUtJMldxVzFNRWJmSmhqRHN1cGcydldiT0dpbjBuaW03V1RfY3JiZUZfZkVDN2FBRWhaZDVndnBwaloxVlNFYTkwcTM4M2h5RFhNV25vTjJNQ2UxcEcyNzE1U0M5bmdnQWFJd2Jrb2Qw0gHkAUFVX3lxTE9CMGVDRXBGbkwzY1JOZ0JvN3BiN3BhOFBQN1pCMU54d2hKaGEtNDJRQ0FDQ2ZqQklJY2lQNWV5TDdYSGljb0xwY1NJMDBuQ1FMWjlfR2hkUVd6QTNEUjFYNE05RnIzQVlfS3E0RnZYNndVWUFWb1BrRlRTWnEtX2RKYi12ZTdOS05abDZ4cHRRekJPOEZoTjJsalVsR2hXdzJmR2Nndm8tZm5TSUJVOVdESktyb1phOVVvRXZha1l6NG9NY3dNV19mN043T3d0dlZST3NybHRfVVFjQmVfb1IwTGxKNA?oc=5
 
-- The slow burn to success - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBDUnVKY05EYXc5RzQ0T1B4d2tDMThQQ0JSYTQydkZWUGJTRUtEdUpvT0o5cm1acFhBZnRrYWlmUDBEVmhsSmZlSnJfQVE0SzRSRjdYYVI2MDJOWHNKcjk0WFp6RlpJZlhXdUhHRDNHSk9qcDJESkdRbDFHQURKZEMyV3drWTlLdlhiZm1hQjVxM0VBcHFj0gGcAUFVX3lxTE9FaXdjV1dmR0JqUVRJTXdzcVA2RHFaUHFMWmlPb1pyM2Yza0d1V2w5b0d2UU4zYk1tNS1zNmlJS3E0b2VuRGUzQ0Z5MEpPZ1JHT3k0SlBxSnFxOFh2Vkp1TzZidmlEVWc5dDhYTi1lZnFuNVFpckEwRFNJSTEwS2pWUmJXRlc2dmcwTEQzMFAydFQ2bnk3aWVOS2RTRQ?oc=5
+- After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea - NDTV
+  After 'Permitting' India, US Allows Sale
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRURUNUt0U0w3OVZSWGJud0ZKWUxmSWhCZjRON3FyVnhYOHBNRGpTb0dnNU9pXzd4aG5ERFhXc2JLb2pXYVE4c3RfSTBDWW1pN1lCYi1pamhnQ0RPcG5tOXFLYjFMSVNsS19kNXBiTEdYWlcyZ2xPdVNpakpZVDJYWVdZdnVlVzBtZkd3R2dwTWRCcFQzMTBqYjNMb0lTNXhNNHZiNnRaLURFWGJRZ3lEUFZlY0k0aWRpaTJkaHIwN0RJQk5HUkYzM1BBcjh6VWhWeTFKS2NvRUzSAeABQVVfeXFMUHdJRy1NNmRDOEFZc20zaEJtN04tYTNrN251VlVfRHZSZ2dJaGRqSGl0SzhuM2VGd25XWmxaT3FRangtajJZeW1OUDNtQm1GOTNGUGVldDZnbHJSU1lNd0czbWplNzAxXzFnNm5PYnVXY2hpMkhoTnRidThSZXh3RFFIdkhnS2FDdkJsMzA5Nllfa3N4cW1SOV83MlpweGdWOGlMQ2xpSjJrNXNURk56SE5kaWI2UzRNVlhCN01uNG4xRmN2NTZUUmpYeVZweFdXMUVhaUkwZWZZZlRjYjhuVEM?oc=5
 
-- In photos: Tracing India's history through its chairs - BBC
-  The chairs were donated to the
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRGlIYUxIclZZUm5OM1B3RldqcjZub0J5NnN2d2lGOWpqSk90MndBTXFwMTdYeFdJemRxWUVWd1pYZFZsa0wxX0RocnR3UVRidUlCWkpieUQ0QQ?oc=5
+- Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade, Tariff Pressures - The Times of India
+  Iran Mocks US, Says White House Now Begging India To Buy Russian Oil After Trade
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSElVdU1fUjlMcm1MVnV2RU1vV0RieXV1M19pVGh2bXRSOVdXWUhnQzI2NEZNRUdPTVN4TlFRYldOMTRNZmh0Z211THBEUHNOMk9oSVpndXJXTmdQbU1IUkppOW8wZEo4RkVnMFA3TmlCZFlxVjVob2p5RVkxOF9rLUY4RFBabmUxQWdXREd2Tl9HdW1PYzZ5VE92RXJjbXZnSnNVU3Vjc2NMNzRxRlN1M0pfN3FjWFA2RmVaR2Niand5SW05NFNHbzhWRUtXRmFJemdKUjlIX0dOa2NHaTJwZ29ZZEFwWXdjZUhJdHd6YS11R2NuYmpwWHhyQjXSAYICQVVfeXFMTlp5SW4tWEFPcjZZd1M5N09fRGh3RnlHcDNURExlMGJnR2RzYW12MFpGdTBTbVk0TGJKOWhqRW16SnZKVGUzU01VeDhNSEcyWW9lMG1qVWhoQmc4Z0JXMW1FNzVsVlJ2ZnNYek85TExtR2MyUmJfSk9OdzA3dnNmcF9nQ1VBZlo2WTY4bXVQMXBvZ1M3R0NCR3R0RXRidVpraGlhbVh3aWNzcE5xNVRtVlFTdXRZeEtFLTRkd0RnQjI2YzhvcUVTR2syX0xnSHRsRW9WWlE3MEdsX2h1QzlFMkxPNWhubWI3MGtleVZhMFFWM0VfdktvMnlFRWFmSVFCYm1B?oc=5
 
-- India LPG Crisis Live Updates: Centre Prioritises Household Use, Induction Stoves Go Out Of Stock - NDTV
-  India LPG Crisis Live Updates: Centre Prioritises Household Use
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWl9samY4MW1aNTJNOENBYTdOckVSSlJ4QS05VmlJbEQxb3lLenFmcmxaSUdaNGt1eUdONXhseHdhSUhwOFhDRTVQc2JWU2J4cHRCSExFYVp0ZmhYX3RHUTd6WFlOTktPQmhHUjdjRmxndkNraGMxYVc1U3AwZ091Z3U3cVZ0TkVid3o3Zi13NnBRaGVKOW9VRU5WMjlQMm1SbEFDaXlRU2xHQVFkM28yVlh0LS1iQVBFUnNRSnFyOHppVl8wSDlwbTVIMG9kamc4c1hOQURVQ1Zac0ZLVXlSY0kwazJGRHNBc28wa1FvcTFrYnpY0gH8AUFVX3lxTE5RNV81dlVRdFNiUktPZUxIZW1WbmJITVViR2lUeVVuRWtSUVNJeVNETno2cERXSHN0QWpRM0tfdjl4V1B2eDdvNkVVbWdqWkpLT2xvQ1FUVmFlMk5YLVY1ZF96ZmdJUzFqNVpYT2NNMU9lbzFBM0pXc2hfNC1lUFZ5M201bF9qYnVfTENOdkozQTl0clp4NHc0Y0JqaHFiSEZkWFdFeGUtLUVScW5pOFpkLWFvd2dFMjFSdlJwYzY5Z1gxUmh2VE16VHAwZWRsb0VhZTBJbnowWnUtYS1BWkRkRGdPbXctSkg5M1pBOUtPdGI2clZDLWhPRTU2Tw?oc=5
+- India-Bound LPG Tanker Crosses Strait Of Hormuz Amid Iran Blockade: Sources - NDTV
+  India-Bound LPG Tanker Crosses
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYnVFQ2tTWVRwT2E1YndJOFlCaXZtZnNNUnBGWDZYMXhXeTM3ZGRVMExic1BNZXVKWTRXMThya1RoQ1hKVEFsOVBPOG54XzFZbklwRkdqTlhUUEs5SHFGNHhRSi1WV1g5RnR5ejlJa3VwUGhkQmY0VV9tRkpoZEFIUy1LaXFKUXg1Zmd4VHVXT0lCeUxhTnFOUko5TEVOdWRSNE9Gd0RWX3llQlZ4dDBaSjFZM192VXVjRlpRYUozdG1vWXlSV3NJUThRNlR1T2d2TUHSAdoBQVVfeXFMTWNMdUVNamExOVoyYlJZWDBMT1BKNzBJTGsyZmFLeGVtUm4zeGNQZjc1VG5rY2E1M3VVdV9CM2ZPdkVaZjJVTUFSVGgxTTg4TWdkUGNOTzRRQlNwSW9pWVI1Mjg4NFVWaFZTZndrcDFLZGYwTzNuc1dVS184dnNXVWw2SWJSYmlDVW91aTZPREJOaUtCeTAzRlB0WWpUZ1FzSmI4dmFQWFY4TUFjUkVWT0NxbXNrY0ZjeWt2c1g0UXVLU2U1OW80VmY0cGh6bEhtRVFMLWZacTBEU2c?oc=5
 
-- India LPG Cylinder Shortage News Live Updates: Highlights - The Times of India
-  India LPG Cylinder Shortage News
-  🔗 https://news.google.com/rss/articles/CBMitgJBVV95cUxNQlNCWlBZd3hBVTRaMm1oeG1hX2lyeWdWT1pfSEJCa3UyYVBubnVLRkxxV1VTV0dxbkdmcHdRR2lJLUZycTlNZElQelNpZVhrN1JOSVFSaW44bXoxdlhDbE9GS2M4eHVnVmdLc1hyNWlnc19CVUZRQkFYd2NBMUFBeHA2MEhGQV9PZVhqZUQtQlhTTEdueGd4b2l6UC1XcXNVZkFiMkVYaktfbFVjVW5FMVNYZjdoNVpZQmpOZFhKY2NrR0R4djYycm03NXJTYmRhMWJtX3hGR1lzalItQlVSZURVWDhGQ1B5anNnYlF3a3dqaTRyZVhwbjA1UWc0QmFhVWM4THN4bEE3MHFKNTl6N2dIaUpYM2xPNy1iZURkakJaMk5EcDc2b25KOXBOZHA1NnJndWFR0gG7AkFVX3lxTE8yV3VnTkU2N3BiQWJVX05FWWFLRE54QUN0eTRBcGlYbkp1enBjX3RzOURrNDkwdzk2R3ZmWFBfRlV2ZjJBTy00MlowUGIwSzNkUmJXUnhXdVdHMzZ0enhPR1puSWh1bk0tNmxBZDB1VUxLWDNpUDRDY3FucVUwMW5OWWRwRmZzeWE2cTRwWHpra2hwLVBoX2FUWmZhUGtCaEpKRVBucDBRcDZ6MFVYV05qT2ZJYi1GTFcyQk5aTzhrY3J4ZGdaVWE5UnF4Z2R6OVhPMFQwZjFHMkhLTTZFbkt2QVVCODZVOWNXc3lJQjJzTkZpcWM0RHFYV2JXNEdESUZlWEU1elh2d05JSWRuVE1pQ3RqZkpUNFFCc3FOdlAxSDA3X1c3UWhBTk4xN0E1ZkxSZXV4clJ6UGhlcw?oc=5
+- LPG Crisis in India Live Updates: MP's struggling to get tea in Parliament, says Congress MP - The Times of India
+  LPG crisis in India Live Updates: MP's struggling to get tea in Parliament,
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-14 01:33:13 UTC_
+_Last updated: 2026-03-14 06:44:08 UTC_
