@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Mass copying through a microphone? Video leads to lecturer’s suspension and shifting of HP board exam centre in Kangra
+- India condemns Pakistan air strikes against Afghanistan: ‘Kabul’s sovereignty must be respected’
   
-  🔗 https://indianexpress.com/article/india/mass-copying-microphone-video-lecturers-suspension-hp-board-exam-10581604/
+  🔗 https://indianexpress.com/article/india/india-condemns-pakistan-aistrike-afghanistan-kabul-sovereignty-10582179/
 
-- Centre revokes Sonam Wangchuk’s detention under National Security Act
+- Congress, BJP slam Left govt’s ‘U-turn’ on Sabarimala: Election gimmick to ‘deceive the faithful’
   
-  🔗 https://indianexpress.com/article/india/centre-revokes-sonam-wangchuk-detention-nsa-mha-10581330/
+  🔗 https://indianexpress.com/article/india/congress-bjp-slam-left-govts-u-turn-on-sabarimala-election-gimmick-deceive-faithful-10582160/
 
-- India’s navigation satellite system suffers major setback: 1 of 4 operational IRNSS satellites fails
+- Chhattisgarh man died by suicide after ‘threatening call from police’ — then came a twist
   
-  🔗 https://indianexpress.com/article/india/navic-satellite-irnss-1f-failure-atomic-clock-malfunction-10581224/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-man-died-by-suicide-after-threatening-call-from-police-10582115/
 
-- ‘Benefit of doubt’: Court acquits three in 2020 killing of J&K BJP leader Waseem Bari
+- Jharkhand reviews VIP flight contract after fatal air ambulance crash
   
-  🔗 https://indianexpress.com/article/india/benefit-of-doubt-court-acquits-three-in-2020-killing-of-jk-bjp-leader-waseem-bari-10580751/
+  🔗 https://indianexpress.com/article/india/jharkhand-reviews-vip-flight-contract-after-fatal-air-ambulance-crash-10582106/
 
-- A silent world shattered: How scuffle during T20 World Cup final led to death of hearing-impaired teen in Bihar
+- Dharali floods: Uttarakhand govt initiates rehabilitation of 115 affected families
   
-  🔗 https://indianexpress.com/article/india/world-cup-final-a-village-scuffle-and-the-loss-of-a-boy-who-spoke-through-gestures-10580742/
+  🔗 https://indianexpress.com/article/india/dharali-floods-uttarakhand-govt-rehabilitation-115-affected-families-10582044/
 
 - iPhone Fold could cost around $2,000: Display, RAM and camera details tipped
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/tinder-ai-strategy-takes-shape-dating-landscape-2026-10581049/
 
+- Avenue Supermarts DMART appoints Kalpana Unadkat as chairperson, she replaces Chandrashekhar Bhave
+  Unadkat will replace Chandrashekhar Bhave as the Chairman of the Board on April 1. Avenue
+  🔗 https://www.livemint.com/companies/news/avenue-supermarts-dmart-appoints-kalpana-unadkat-as-chairperson-she-replaces-chandrashekhar-bhave-11773504355571.html
+
 - Bring your own food! LPG shortage prompts action by IT giants HCLTech, Infosys, Cognizant
   Companies, including Infosys, HCL, and TCS
   🔗 https://www.livemint.com/companies/news/bring-your-own-food-lpg-shortage-prompts-action-by-it-giants-hcltech-infosys-cognizant-11773489571070.html
@@ -55,10 +59,6 @@
 - Meta layoffs: Mark Zuckerberg's tech firm plans to cut nearly 16,000 jobs as AI costs mount, says report — what we know
   If Meta settles on the 20% figure, this layoff will be the most significant job cut at Mark Zuckerberg's company since
   🔗 https://www.livemint.com/companies/news/meta-layoffs-mark-zuckerbergs-tech-firm-plans-to-cut-nearly-16-000-jobs-as-ai-costs-mount-says-report-what-we-know-11773451516319.html
-
-- Jindal Steel's Thyssenkrupp buy talks in gridlock, a new suitor stirs the pot
-  Jindal Steel International is seeking clarity on pension liabilities, retrenchment costs and German government support for a cleaner steel transition. Thyss
-  🔗 https://www.livemint.com/companies/naveen-jindal-thyssenkrupp-steel-acquisition-talks-11773390729695.html
 
 - Finance Ministry amends rules on minimum public shareholding for IPOs — Here's a look at the changes, benefits
   Finance Ministry has revised IPO rules to lower minimum public shareholding. Aimed to boost the struggling IPO market.
@@ -80,6 +80,14 @@
   Radhika Gupta from Edelweiss Mutual Fund recommends investors remain committed
   🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-stock-market-crash-should-you-worry-as-investors-lost-rs-20-lakh-crore-last-week-radhika-gupta-edelweiss-11773468076662.html
 
+- Elon Musk says Tesla’s ‘Terafab’ AI chip manufacturing project to launch next week
+  Tesla could eventually transform itself into an integrated device manufacturer (IDM) — designing and
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-tesla-s-terafab-ai-chip-manufacturing-project-to-launch-next-week-11773498279882.html
+
+- India's NavIC satellite system faces challenge as IRNSS-1F failed after atomic clock malfunction: what we know
+  Only four of the 11 satellites deployed for the NavIC system are fully operational. A minimum of four is needed for complete coverage.
+  🔗 https://www.livemint.com/technology/indias-navic-satellite-system-faces-challenge-as-irnss-1f-failed-after-atomic-clock-malfunction-what-we-know-11773487890299.html
+
 - xAI hiring reset: Elon Musk apologises to AI talent overlooked during early hiring, promises overhaul
   Elon Musk says he will restructure xAI
   🔗 https://www.livemint.com/technology/tech-news/xai-hiring-reset-elon-musk-apologises-to-ai-talent-overlooked-during-early-hiring-promises-overhaul-11773388791591.html
@@ -92,14 +100,6 @@
   These office laptops focus on smooth performance, reliable battery life, and practical features.
   🔗 https://www.livemint.com/technology/gadgets/starting-office-work-these-beginner-friendly-laptops-make-daily-tasks-easier-11773314579342.html
 
-- Elon Musk's warning as Amazon probes AI-linked outages: ‘Proceed with caution’
-  Elon Musk's comment came after a post from cybersecurity consultant Lukasz Olejnik. The cybersecurity consultant had
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-warning-as-amazon-probes-ai-linked-outages-proceed-with-caution-11773334616020.html
-
-- WhatsApp launches parent managed account feature: How it works, how to use and more
-   WhatsApp is launching 'parent-managed accounts' for pre-teens. The setup requires both devices to link accounts, and a Parent PIN secures
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-launches-parent-managed-account-feature-how-it-works-how-to-use-and-more-11773315744745.html
-
 - ‘Lose $1 Million in 2 Seconds’: Market Chaos Rocks Trading Desks - Bloomberg.com
   ‘Lose $1 Million in 2
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2MweGdLX2ZHY3UtSC11VWcwVkRFVHhodmZuVWppTmF1bDZfU09HdDRaNkRPSXByVkVVVXIydDBqRE9Jc2hkWUliSTJHRmxrdmZLNFVoZWZ5YXJGdzlES0x3Q0xfcnNCUGpWR0Nid0pST3JZUG82cHduMWozU2lqdnJhOWQ5eXphOGstTjM5dVAzUm5CNmRsc3VfTlNWNHpWUkhNV1l0bXctS184NlZCQzlB?oc=5
@@ -108,17 +108,17 @@
   Oil Market Report - March 2026 – Analysis.
   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX0FFdHZ1NHg4dWR4T193M1VJV3hjNTlrMDRjN2FHdUZWb2lsREotUFl4bXNxMElPenpKdjFwb0l4QTVtcDRaajROY2txT0p3ZDFNYXd2V2pRSTlKck5rNU9LTXZreG8?oc=5
 
-- Oil Markets Brace for Lasting Turmoil in the Gulf - WSJ
-  Oil Markets Brace for Lasting
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEp1V2RCYmRqbU0tajhyS1p6YXBlMFBBNmFmZnpvVkVGODdFemFabFhEVjRoNnRRamxGZWg3OG1yV0lmRUNSS1NCZENsb3BpTnVCWFlDZHN3WTUyNnVBNmR4SWpyTWt6Z1hQeHJOSmRVMmNHSjd3dEdDS0RwYk92NHRvalhHdlg4YUhCWXVDNUlOYl9jenBxR0ctT3pHaTlHZlB1M19EMGlJaU1jbU9YeWRHeExiQQ?oc=5
+- Crude oil futures separate from reality as Asia physical market buckles - Reuters
+  Crude oil futures separate from reality as Asia
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjZNcHg5NFlxQlFEZDNlaHNzQmZyYzdYeDBDYVVjNjJWT184OXd6Y3pCOFIwLUoyU2ZKQ3hQa2NHRU1vdXRENEloZDE2eDhmdjZFQWRyYWNYcmcycXBlVXhYRWh0akdqN09wQ0JmVGlyYXFGaDVJM2ZGVmNOa2dOSmpwNDZqOHpORU10VnJYX0p2cEhtZHlYTzBwaG9IdlI3WGxDcDMzeUMxMVBYTDVwc3JzNjY4bmZESy1r?oc=5
 
-- IEA announces release of 400 million barrels of oil. But is it enough? - Al Jazeera
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGRGZ29zOEp4VXRFMFlmNXM4amY0WXNGVFpob3hvQkNpbF9VTUN1OHBxWUMybTNmc1Z0VklJOElGYzlvTmVkWlZyUEFoWTM0aHJBVmRSNHpINHB1aDFKQzZ0OVpKNThMSjNfdnF2a2pGaWlsOTRDVlpUcmRFYzBVeVk1blpRNVEyMG9fZ3MxcDRzVkZXenlxeWVIbkc4VXh2dldtVk1zM2UxTE02LWfSAbMBQVVfeXFMTlQ5YW9acndQaWdBSmpsZU9ma1E0WDQzYlh6ekgwalJYSWdQanFuN045ZU0zc0N0dXd4WVN2VXFYZFJpbEFLb0ZPS2h3WHJVam9wbW9iQWtlQUdGcm4yTm9MUHBfTFNyem1tTTZuOGlfSTdPeEF2SFNmeDJXcW5VbFVfVGdWbTFTOXg1MVd3cEFBRm9kN3JxbWVjZWJ6WWpWMmtjT21HTDJhYkpQVWRwNVVsUms?oc=5
+- Oil prices in the driving seat as energy shock upends global markets - Financial Times
+  Oil prices in the driving seat as energy shock upends
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE45ckszMXVNallISmtQcFBFTnJWTjFmc2dfWWZxYkVycTk1ajVZM2hZSE5hUWZ0OFcxelRncC11S190YlN0Z050SzEtOGlJdlYzdi1zNm1PaUdXTzdFZUpLTXVFanVPVzhldWZpMXh4VjE?oc=5
 
-- Global Wealth Summit 2026 Live: Market participants should be encouraged to take positions for longer tenors such as next month and beyond, says BSE's Sundararaman Ramamurthy - Moneycontrol.com
-  Global Wealth Summit 2026 Live: Market participants should be encouraged to take positions for longer tenors such as next month and
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNT0RNbVladHRXWDZWNjZ6TUFUUGF5a2tXVGJIOExscUdiQ2lVYk5lZ0NoWk1hcXZkRjFScThEM1ljN2duZmExeU43YWZpa1V1TWZxRnp2TGxJRG9wbXJkVFFrbHRuX1ZWVFY2MUlsNl9HVTN1N1oyQTRiSWp1RnRWc2FPU2VsVTB5ZlQtdTMtN3MzV2UwTFM1M2ItVkdKY184ekpMbkNVYVRUUkNZdmJ0cnY4Zng2Ml9UUEHSAb8BQVVfeXFMTlNreUxWTlZKM18wekg4bkJDa3E0aXROV2RiN1UtcDFWY2JxOHBQWVNMMmM0UHdnY3NMY2ZNZ0VWNnRmOEZHc1hwZTU0bmRTZ1lhaGIwTm5UUGhtZlFKS0l0VENUaFNkaThkVGsyT29tMlphQnEwWk9aejZEZjgtcXRjZDRnTE1hNVZFT2V2ckFKWmk2ZDgwM0l0blQwUUZzcS0wZ1REN1BwdVFpVHZ2d2xpTE40ZUhsMDkxOFpDQ2s?oc=5
+- Raamdeo Agrawal has a message if markets drop another 10%, here's the five-year upside - Moneycontrol.com
+  Raamdeo Agrawal has a message if markets
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjVqeHpta1EwcGNsNDNpLXBjaER2cUVzdmxaaDZzTlNOV2RRZFdkR25FZFd2Wld0ZjBZQzc1SFVYR1NKdjkyaTU4YkNHWW5OZjVYaWZ4MERJSzh3T3FRT002THNZSFo5WVdDRzhXSWt2TEVra1lKdmNiVnNGSWhscVc0UFZjU0xHVFluVV9wX2N2WWRWRHV0Z2kxR2dXLTFwa25Qbm1URGZRMl83Rk14R1pmY0VMQUl4TUFHSlQ5TjdnVXp3aHRLcXRuV3JpY1dmN2dhY1pnOE9CTDF4QjVFU1RTYWjSAeoBQVVfeXFMTXNZQ2d1Nl9oVmp6dGY0aVpId3J2SUUtOEpGbW5UVHVHRU1sUTkwT0R1bzIzcmpDRF9rYmhJN1FaMVNWRnRVenhWSDNCOHRZemVnYVhBQzZqdVBfb2l0TVZMejM5QVJOY3YweWoyVWxtUTJWSl9PNDhtYjZwUW13YUxFVU5XYndLUDFubkZsZVAxMFA3WnhGcU15My13aFhyOGwtYlFLS281ODU3YTFLOU5NNGNvY25uNnVobUV5ZjdNYkdnb2N4TWh3cFdLMjd3S3JmUXVNMTVVMGo3Q01Gd1FqWE1tenlvQjV3?oc=5
 
 - War fears spark market panic, but correction may be opening buying opportunities: Sunny Agrawal
   Sharp market selloff amid geopolitical tensions may offer selective long-term buying opportunities, says Sunny Agrawal. He highlights robust order books, corrected valuations, and attractive prospects in private banks, consumer internet
@@ -140,65 +140,65 @@
   Smallcap stocks have corrected sharply but are still not cheap, says Sonam Srivastava of Wright Research. She highlights opportunities in private banks, pharma and capital goods.
   🔗 https://economictimes.indiatimes.com/markets/expert-view/smallcaps-cheaper-but-not-cheap-yet-sonam-srivastava-urges-selective-investing/articleshow/129571392.cms
 
-- 2 India-Bound Ships Cross Hormuz After 4 Rounds Of Phone Calls, PM's Outreach - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2Ml
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2MlpMczRrZ0R6eXI0Z1RMblM3Y3JhNmJZbU5mYU1hYXIxUlB5b2x1ZlVmX0FEUG90Z0hZNTY0ajBYZ1FyNFpQOTdYQ1FzcWN2dDBYeERFc2x5T3k4U2ZjMzVubVZQUnpOd3VOTmtUZUtLZlpVdU00SlVMQVBhTHczVURxak9mZERKSHJ5R3FHTTBqTHfSAfsBQVVfeXFMTUs4Rl9SR2VLME1RaC1Id2cyVjlHWU50UjQ1OHUzUzdkX2xXN3UxcUQ1VDdyV3ZTVVNJeU1zU3QtTUFYblJrZlpJUTFzRWZHYlh5OEZYQURNOWZXVjhMX3RuZzg2Q3NXUW5jY2U2XzRYUjZSbFQxUXgxMmZvM2ZVUDFuejc4X2Q4elRLSzU1LXhFbm11UzM0ZjJ0OG9HdzloMWM3TjNXTUZOVUFaWXdZMHQ2WF9xazNuUE1xb2ZHakVvTG9FYVFSdkRLdkhrYWdoZFVyN3hYT0M1VElVTWppU2ZEbVItTGtRQ3pWdUI1aV9jVlpab0w5YVJxZDA?oc=5
+- Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
-- Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS solidarity again - The Times of India
-  Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjRCUlZXcG5ycU1VX1FWT3JMdmVMSlk4M1NqMDh0VklzbXJFVENKUV9rSkNoVUIybWlBMDcwRDkzWXJsQU9iYWpJM2JWcmJ3VUdBZkV3TnZKOTBDZ1k0SnloeGdnSVVqV2lJcDFVQUxGUy1NZ1J1T2dkalo2YW9TLVVhZHoyU3FSZEw1dkVJYjVzQUhveDlGcTZXQ0RrNnhnaV8zQkcwR0Qybnh1SW1lcElKbFRDUXIyNVNITUpYQ1drZU9nczN0QWZNZFVZZ9IB0wFBVV95cUxNSDQ3bFNWZUdLWEljZFhZMUZlb1ZQYkhxM29fRnR1SDJPMmgyV203Y0VhUl9YaU15bmk4Z2g4NzVQV3F1YjJvRW50M2lHTG1nSzY0ZThNQ1MybHFPNnBBUGVWWERadGJLNWN2OVdkbmtFdW41ZGt1TWpNek1lLVN5T0JFa0RIbE5zT1VqbUFWRS1mZGNlcjk0aUVyN25zOUJsOXBRSGUtRHhqTUpOeER2V1hBNkJMS0ViMjVSaFBqWllNc1lIYi1GVF83TWl6akZ1a3FZ?oc=5
-
-- BJP, Trinamool Workers Clash In Kolkata Ahead Of PM Modi's Rally - NDTV
-  BJP, Trinamool Workers Clash In
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObURDSzRoNEFjbUgyS3ltTldlMDMyUWZSS2RFR0pTdGtWTzlEU1BHQ2x5UDRyUXpza3o1RTJlaENia1lTYWNoMGZJc0lqUmh1cmZSSXluQW83cEpEVTNZNWZ0MUNUdmJXWmpNUEZveEVBeWx2YjJkMGtMOEpXREdsU1dNY1hSYkswOU12dXF2cEdRajl0NS1ZQjg2M3dfYV9YQVFjcVFQeGNhVUdLMHNqWFM2MURkTGZxVEYtZjFQRkd2MFUweG1z0gHPAUFVX3lxTFB3VUczZUEwWmNIM19VRUVLak9TVlJnMjlzQTRXcVkxZjlPbDd5SzBFN2pnUWVMUHF2OVBDQVRpdFZFU19BZmc5cWhfSDBsZXltRDE4Mm9oZTQ3c0M3aFBJOEhjbHNZVkp0NFZuWDBtMS1EeDBfbDAwX0JwemNNVlFTTnYyNTFSV0NDb1BtcTZ4b0JPZHFXMF95amEza3ltcC1ncUNjV2JuMGluVGF0dVE2NkZKQ3Q5SDVLVHI5d1V2U1JvM2cwczJfVHd6aE1uUQ?oc=5
-
-- 'Change is imminent': PM Modi's Bengali pride pitch at Kolkata rally | India News - Hindustan Times
-  'Change is imminent': PM Modi's Bengali pride pitch at
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUZpSkhYaG5RbTlOenJfc3Z5dGtQMklYdWc5eWE4aFVzRDBxVC1DaWw0WXB2WFRvTllZXzFJUHNPSzNTYlZQRFB0XzFONWFrU19XZjNFRWVMemxJbnNTbFZJQ01va01rNUZtbmJRSUpSMmFleE5TTFdlQklrZFZxNzN3aUg0YmVmQ0MyZkFoeTMyNV9xUEFTT2IzZ3UzbTdSU3hTYVdJZUs3LUkyTVpBeXJXeWFSNXYzeFBibzVBS3BHNVp1U3fSAcsBQVVfeXFMTkZaczdXd3dzZXhmQ3VTYTh0NXdROHV6SHFMZTgyVTNpUEV3Yk9RaEZYVE5OcHgxMTdWNDVVTkVfUUZ0UHdVVkNqZTJabm9nNm9fZjIydXRIQUpPN3lQdzFXZGJFQjBoVy1UWnFnV1dsYjhxMUJTQnBIWU5RcGEtWTkyc1V1TkExR05zWTdaY0h2U09NUU01TVd3YVVIQVdmQU9nQ1FpTTFLYng0cVpsRVdlY2QzNnNiclpubjVYUTNtTWxEWW9fR3lyS1U?oc=5
-
-- LPG Crisis in India Live Updates: Govt assures fuel availability, says LPG supply a 'concern but no dry-out' - The Times of India
-  The Times of India reported that India is running out of LPG.
+- LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
+  The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- 2 India-Bound Ships Cross Hormuz After 4 Rounds Of Phone Calls, PM's Outreach - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2Ml
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2MlpMczRrZ0R6eXI0Z1RMblM3Y3JhNmJZbU5mYU1hYXIxUlB5b2x1ZlVmX0FEUG90Z0hZNTY0ajBYZ1FyNFpQOTdYQ1FzcWN2dDBYeERFc2x5T3k4U2ZjMzVubVZQUnpOd3VOTmtUZUtLZlpVdU00SlVMQVBhTHczVURxak9mZERKSHJ5R3FHTTBqTHfSAfsBQVVfeXFMTUs4Rl9SR2VLME1RaC1Id2cyVjlHWU50UjQ1OHUzUzdkX2xXN3UxcUQ1VDdyV3ZTVVNJeU1zU3QtTUFYblJrZlpJUTFzRWZHYlh5OEZYQURNOWZXVjhMX3RuZzg2Q3NXUW5jY2U2XzRYUjZSbFQxUXgxMmZvM2ZVUDFuejc4X2Q4elRLSzU1LXhFbm11UzM0ZjJ0OG9HdzloMWM3TjNXTUZOVUFaWXdZMHQ2WF9xazNuUE1xb2ZHakVvTG9FYVFSdkRLdkhrYWdoZFVyN3hYT0M1VElVTWppU2ZEbVItTGtRQ3pWdUI1aV9jVlpab0w5YVJxZDA?oc=5
+- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
+  Pipes vs Cylinders: India
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
 
-- Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS solidarity again - The Times of India
-  Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjRCUlZXcG5ycU1VX1FWT3JMdmVMSlk4M1NqMDh0VklzbXJFVENKUV9rSkNoVUIybWlBMDcwRDkzWXJsQU9iYWpJM2JWcmJ3VUdBZkV3TnZKOTBDZ1k0SnloeGdnSVVqV2lJcDFVQUxGUy1NZ1J1T2dkalo2YW9TLVVhZHoyU3FSZEw1dkVJYjVzQUhveDlGcTZXQ0RrNnhnaV8zQkcwR0Qybnh1SW1lcElKbFRDUXIyNVNITUpYQ1drZU9nczN0QWZNZFVZZ9IB0wFBVV95cUxNSDQ3bFNWZUdLWEljZFhZMUZlb1ZQYkhxM29fRnR1SDJPMmgyV203Y0VhUl9YaU15bmk4Z2g4NzVQV3F1YjJvRW50M2lHTG1nSzY0ZThNQ1MybHFPNnBBUGVWWERadGJLNWN2OVdkbmtFdW41ZGt1TWpNek1lLVN5T0JFa0RIbE5zT1VqbUFWRS1mZGNlcjk0aUVyN25zOUJsOXBRSGUtRHhqTUpOeER2V1hBNkJMS0ViMjVSaFBqWllNc1lIYi1GVF83TWl6akZ1a3FZ?oc=5
+- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
+  Long LPG Queues Across India Amid West Asia Conflict Fears.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
 
-- BJP, Trinamool Workers Clash In Kolkata Ahead Of PM Modi's Rally - NDTV
-  BJP, Trinamool Workers Clash In
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObURDSzRoNEFjbUgyS3ltTldlMDMyUWZSS2RFR0pTdGtWTzlEU1BHQ2x5UDRyUXpza3o1RTJlaENia1lTYWNoMGZJc0lqUmh1cmZSSXluQW83cEpEVTNZNWZ0MUNUdmJXWmpNUEZveEVBeWx2YjJkMGtMOEpXREdsU1dNY1hSYkswOU12dXF2cEdRajl0NS1ZQjg2M3dfYV9YQVFjcVFQeGNhVUdLMHNqWFM2MURkTGZxVEYtZjFQRkd2MFUweG1z0gHPAUFVX3lxTFB3VUczZUEwWmNIM19VRUVLak9TVlJnMjlzQTRXcVkxZjlPbDd5SzBFN2pnUWVMUHF2OVBDQVRpdFZFU19BZmc5cWhfSDBsZXltRDE4Mm9oZTQ3c0M3aFBJOEhjbHNZVkp0NFZuWDBtMS1EeDBfbDAwX0JwemNNVlFTTnYyNTFSV0NDb1BtcTZ4b0JPZHFXMF95amEza3ltcC1ncUNjV2JuMGluVGF0dVE2NkZKQ3Q5SDVLVHI5d1V2U1JvM2cwczJfVHd6aE1uUQ?oc=5
+- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
+  India has adequate fertilizer stocks ahead of Kharif season, says
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
 
-- 'Change is imminent': PM Modi's Bengali pride pitch at Kolkata rally | India News - Hindustan Times
-  'Change is imminent': PM Modi's Bengali pride pitch at
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUZpSkhYaG5RbTlOenJfc3Z5dGtQMklYdWc5eWE4aFVzRDBxVC1DaWw0WXB2WFRvTllZXzFJUHNPSzNTYlZQRFB0XzFONWFrU19XZjNFRWVMemxJbnNTbFZJQ01va01rNUZtbmJRSUpSMmFleE5TTFdlQklrZFZxNzN3aUg0YmVmQ0MyZkFoeTMyNV9xUEFTT2IzZ3UzbTdSU3hTYVdJZUs3LUkyTVpBeXJXeWFSNXYzeFBibzVBS3BHNVp1U3fSAcsBQVVfeXFMTkZaczdXd3dzZXhmQ3VTYTh0NXdROHV6SHFMZTgyVTNpUEV3Yk9RaEZYVE5OcHgxMTdWNDVVTkVfUUZ0UHdVVkNqZTJabm9nNm9fZjIydXRIQUpPN3lQdzFXZGJFQjBoVy1UWnFnV1dsYjhxMUJTQnBIWU5RcGEtWTkyc1V1TkExR05zWTdaY0h2U09NUU01TVd3YVVIQVdmQU9nQ1FpTTFLYng0cVpsRVdlY2QzNnNiclpubjVYUTNtTWxEWW9fR3lyS1U?oc=5
+- Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
-- LPG Crisis in India Live Updates: Govt assures fuel availability, says LPG supply a 'concern but no dry-out' - The Times of India
-  The Times of India reported that India is running out of LPG.
+- LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
+  The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- 2 India-Bound Ships Cross Hormuz After 4 Rounds Of Phone Calls, PM's Outreach - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2Ml
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0tZM0JHZndsNmpjWVNBclRKM05XUFc1YzhhQU4yTUdnankyWkJ4eUZUWTBPS1pyYjVjbmQ0UHVZMXFrdl9wRHNMc1V1WTR6TnoyOVA0Y0NTUzNNdkJNUXpCV21GU3h2MlpMczRrZ0R6eXI0Z1RMblM3Y3JhNmJZbU5mYU1hYXIxUlB5b2x1ZlVmX0FEUG90Z0hZNTY0ajBYZ1FyNFpQOTdYQ1FzcWN2dDBYeERFc2x5T3k4U2ZjMzVubVZQUnpOd3VOTmtUZUtLZlpVdU00SlVMQVBhTHczVURxak9mZERKSHJ5R3FHTTBqTHfSAfsBQVVfeXFMTUs4Rl9SR2VLME1RaC1Id2cyVjlHWU50UjQ1OHUzUzdkX2xXN3UxcUQ1VDdyV3ZTVVNJeU1zU3QtTUFYblJrZlpJUTFzRWZHYlh5OEZYQURNOWZXVjhMX3RuZzg2Q3NXUW5jY2U2XzRYUjZSbFQxUXgxMmZvM2ZVUDFuejc4X2Q4elRLSzU1LXhFbm11UzM0ZjJ0OG9HdzloMWM3TjNXTUZOVUFaWXdZMHQ2WF9xazNuUE1xb2ZHakVvTG9FYVFSdkRLdkhrYWdoZFVyN3hYT0M1VElVTWppU2ZEbVItTGtRQ3pWdUI1aV9jVlpab0w5YVJxZDA?oc=5
+- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
+  Pipes vs Cylinders: India
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
 
-- Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS solidarity again - The Times of India
-  Iran to allow Indian ships to pass, Modi says India a friend of Iran; Tehran seeks BRICS
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjRCUlZXcG5ycU1VX1FWT3JMdmVMSlk4M1NqMDh0VklzbXJFVENKUV9rSkNoVUIybWlBMDcwRDkzWXJsQU9iYWpJM2JWcmJ3VUdBZkV3TnZKOTBDZ1k0SnloeGdnSVVqV2lJcDFVQUxGUy1NZ1J1T2dkalo2YW9TLVVhZHoyU3FSZEw1dkVJYjVzQUhveDlGcTZXQ0RrNnhnaV8zQkcwR0Qybnh1SW1lcElKbFRDUXIyNVNITUpYQ1drZU9nczN0QWZNZFVZZ9IB0wFBVV95cUxNSDQ3bFNWZUdLWEljZFhZMUZlb1ZQYkhxM29fRnR1SDJPMmgyV203Y0VhUl9YaU15bmk4Z2g4NzVQV3F1YjJvRW50M2lHTG1nSzY0ZThNQ1MybHFPNnBBUGVWWERadGJLNWN2OVdkbmtFdW41ZGt1TWpNek1lLVN5T0JFa0RIbE5zT1VqbUFWRS1mZGNlcjk0aUVyN25zOUJsOXBRSGUtRHhqTUpOeER2V1hBNkJMS0ViMjVSaFBqWllNc1lIYi1GVF83TWl6akZ1a3FZ?oc=5
+- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
+  Long LPG Queues Across India Amid West Asia Conflict Fears.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
 
-- BJP, Trinamool Workers Clash In Kolkata Ahead Of PM Modi's Rally - NDTV
-  BJP, Trinamool Workers Clash In
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxObURDSzRoNEFjbUgyS3ltTldlMDMyUWZSS2RFR0pTdGtWTzlEU1BHQ2x5UDRyUXpza3o1RTJlaENia1lTYWNoMGZJc0lqUmh1cmZSSXluQW83cEpEVTNZNWZ0MUNUdmJXWmpNUEZveEVBeWx2YjJkMGtMOEpXREdsU1dNY1hSYkswOU12dXF2cEdRajl0NS1ZQjg2M3dfYV9YQVFjcVFQeGNhVUdLMHNqWFM2MURkTGZxVEYtZjFQRkd2MFUweG1z0gHPAUFVX3lxTFB3VUczZUEwWmNIM19VRUVLak9TVlJnMjlzQTRXcVkxZjlPbDd5SzBFN2pnUWVMUHF2OVBDQVRpdFZFU19BZmc5cWhfSDBsZXltRDE4Mm9oZTQ3c0M3aFBJOEhjbHNZVkp0NFZuWDBtMS1EeDBfbDAwX0JwemNNVlFTTnYyNTFSV0NDb1BtcTZ4b0JPZHFXMF95amEza3ltcC1ncUNjV2JuMGluVGF0dVE2NkZKQ3Q5SDVLVHI5d1V2U1JvM2cwczJfVHd6aE1uUQ?oc=5
+- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
+  India has adequate fertilizer stocks ahead of Kharif season, says
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
 
-- 'Change is imminent': PM Modi's Bengali pride pitch at Kolkata rally | India News - Hindustan Times
-  'Change is imminent': PM Modi's Bengali pride pitch at
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUZpSkhYaG5RbTlOenJfc3Z5dGtQMklYdWc5eWE4aFVzRDBxVC1DaWw0WXB2WFRvTllZXzFJUHNPSzNTYlZQRFB0XzFONWFrU19XZjNFRWVMemxJbnNTbFZJQ01va01rNUZtbmJRSUpSMmFleE5TTFdlQklrZFZxNzN3aUg0YmVmQ0MyZkFoeTMyNV9xUEFTT2IzZ3UzbTdSU3hTYVdJZUs3LUkyTVpBeXJXeWFSNXYzeFBibzVBS3BHNVp1U3fSAcsBQVVfeXFMTkZaczdXd3dzZXhmQ3VTYTh0NXdROHV6SHFMZTgyVTNpUEV3Yk9RaEZYVE5OcHgxMTdWNDVVTkVfUUZ0UHdVVkNqZTJabm9nNm9fZjIydXRIQUpPN3lQdzFXZGJFQjBoVy1UWnFnV1dsYjhxMUJTQnBIWU5RcGEtWTkyc1V1TkExR05zWTdaY0h2U09NUU01TVd3YVVIQVdmQU9nQ1FpTTFLYng0cVpsRVdlY2QzNnNiclpubjVYUTNtTWxEWW9fR3lyS1U?oc=5
+- Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
-- LPG Crisis in India Live Updates: Govt assures fuel availability, says LPG supply a 'concern but no dry-out' - The Times of India
-  The Times of India reported that India is running out of LPG.
+- LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
+  The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
+- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
+  Pipes vs Cylinders: India
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
 
-_Last updated: 2026-03-14 12:43:00 UTC_
+- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
+  Long LPG Queues Across India Amid West Asia Conflict Fears.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
+
+- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
+  India has adequate fertilizer stocks ahead of Kharif season, says
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
+
+
+_Last updated: 2026-03-14 18:34:39 UTC_
