@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- India condemns Pakistan air strikes against Afghanistan: ‘Kabul’s sovereignty must be respected’
+- SIT formed to probe attempt on Farooq Abdullah’s life
   
-  🔗 https://indianexpress.com/article/india/india-condemns-pakistan-aistrike-afghanistan-kabul-sovereignty-10582179/
+  🔗 https://indianexpress.com/article/india/sit-formed-to-probe-attempt-on-farooq-abdullahs-life-10582340/
 
-- Congress, BJP slam Left govt’s ‘U-turn’ on Sabarimala: Election gimmick to ‘deceive the faithful’
+- Sonam Wangchuk freed, but Ladakh’s March 16 shutdown will go ahead as planned. Here’s why
   
-  🔗 https://indianexpress.com/article/india/congress-bjp-slam-left-govts-u-turn-on-sabarimala-election-gimmick-deceive-faithful-10582160/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-freed-but-ladakhs-march-16-shutdown-will-go-ahead-as-planned-heres-why-10582305/
 
-- Chhattisgarh man died by suicide after ‘threatening call from police’ — then came a twist
+- Long queues lead to scuffle as LPG anxiety continues in Punjab
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-man-died-by-suicide-after-threatening-call-from-police-10582115/
+  🔗 https://indianexpress.com/article/india/long-queues-lead-to-scuffle-as-lpg-anxiety-continues-in-punjab-10582275/
 
-- Jharkhand reviews VIP flight contract after fatal air ambulance crash
+- BRICS members involved in conflict, difficult to forge consensus: MEA
   
-  🔗 https://indianexpress.com/article/india/jharkhand-reviews-vip-flight-contract-after-fatal-air-ambulance-crash-10582106/
+  🔗 https://indianexpress.com/article/india/brics-members-involved-in-conflict-difficult-to-forge-consensus-mea-10582338/
 
-- Dharali floods: Uttarakhand govt initiates rehabilitation of 115 affected families
+- Security expert’s book traces roots of terror in South Asia
   
-  🔗 https://indianexpress.com/article/india/dharali-floods-uttarakhand-govt-rehabilitation-115-affected-families-10582044/
+  🔗 https://indianexpress.com/article/india/security-experts-book-traces-roots-of-terror-in-south-asia-10582339/
 
 - iPhone Fold could cost around $2,000: Display, RAM and camera details tipped
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/tinder-ai-strategy-takes-shape-dating-landscape-2026-10581049/
 
+- FCC’s Carr Threatens TV Broadcast Licenses Over News Coverage
+  The FCC threatened broadcasters with cancellation of their licenses if they did not “correct course
+  🔗 https://www.livemint.com/companies/fccs-carr-threatens-tv-broadcast-licenses-over-news-coverage-11773519726413.html
+
+- BP Cleared for First New Gulf of Mexico Field Project Since 2010 Blowout
+  The Trump administration approved BP Plc’s plan to pump billions of dollars worth of crude from the Gulf of Mexico. It will be the first virgin field development in the Gulf since the deadly 2010 Deep
+  🔗 https://www.livemint.com/companies/bp-cleared-for-first-new-gulf-of-mexico-field-project-since-2010-blowout-11773514177032.html
+
+- A pardon lobbyist, $500,000 demand and alleged enforcer lead to extortion charge in New York
+  A pardon lobbyist, $500,000 demand and
+  🔗 https://www.livemint.com/companies/a-pardon-lobbyist-500-000-demand-and-alleged-enforcer-lead-to-extortion-charge-in-new-york-11773513514965.html
+
 - Avenue Supermarts DMART appoints Kalpana Unadkat as chairperson, she replaces Chandrashekhar Bhave
   Unadkat will replace Chandrashekhar Bhave as the Chairman of the Board on April 1. Avenue
   🔗 https://www.livemint.com/companies/news/avenue-supermarts-dmart-appoints-kalpana-unadkat-as-chairperson-she-replaces-chandrashekhar-bhave-11773504355571.html
@@ -48,17 +60,17 @@
   Companies, including Infosys, HCL, and TCS
   🔗 https://www.livemint.com/companies/news/bring-your-own-food-lpg-shortage-prompts-action-by-it-giants-hcltech-infosys-cognizant-11773489571070.html
 
-- Accenture chief Julia Sweet lays out conditions for promotion, warns of job loss: ‘If you want to get promoted…'
-  Accenture is investing $3 billion over three years to embed AI across operations. The company aims to double its AI talent to 80,000 professionals.
-  🔗 https://www.livemint.com/companies/news/accenture-chief-julia-sweet-lays-out-conditions-for-promotion-warns-of-job-loss-if-you-want-to-get-promoted-ai-11773469457593.html
+- The US attacked Iran’s Kharg Island. What it could mean for oil prices.
+  Kharg Island, a tiny coral outcrop off the Iranian
+  🔗 https://www.livemint.com/market/the-us-attacked-iran-s-kharg-island-what-it-could-mean-for-oil-prices-11773537725014.html
 
-- Who is Devendra Singh Chaplot? IIT Bombay alum joins xAI to build superintelligence, welcomed by Elon Musk
-  Devendra Singh Chaplot is an IIT Bombay Computer Science graduate. He has
-  🔗 https://www.livemint.com/companies/people/who-is-devendra-singh-chaplot-iit-bombay-alum-joins-xai-to-build-superintelligence-welcomed-by-elon-musk-11773455029815.html
+- Don’t tweak portfolios amid crude oil price spike: Dr Joseph Thomas, Emkay Wealth Management explains why
+  A prolonged conflict that leads to crude prices remaining sticky above US$ 100 per barrel may have an outsized impact on growth trajectories.
+  🔗 https://www.livemint.com/market/stock-market-news/dont-tweak-portfolios-amid-crude-oil-price-spike-dr-joseph-thomas-emkay-wealth-management-explains-why-11773468260676.html
 
-- Meta layoffs: Mark Zuckerberg's tech firm plans to cut nearly 16,000 jobs as AI costs mount, says report — what we know
-  If Meta settles on the 20% figure, this layoff will be the most significant job cut at Mark Zuckerberg's company since
-  🔗 https://www.livemint.com/companies/news/meta-layoffs-mark-zuckerbergs-tech-firm-plans-to-cut-nearly-16-000-jobs-as-ai-costs-mount-says-report-what-we-know-11773451516319.html
+- Crude oil prices may touch $150/barrel. What does it mean for Indian stock market, gold and silver rates?
+  Mirae Asset Sharekhan estimates if crude oil prices remain elevated in the $85–$90 range for the next two months, earnings growth
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-prices-could-touch-150-barrel-what-does-it-mean-for-indian-stock-market-gold-and-silver-rates-11773464695764.html
 
 - Finance Ministry amends rules on minimum public shareholding for IPOs — Here's a look at the changes, benefits
   Finance Ministry has revised IPO rules to lower minimum public shareholding. Aimed to boost the struggling IPO market.
@@ -67,18 +79,6 @@
 - Sebi chief Tuhin Kanta Pandey warns investors against ‘impulsive’ trading, says market volatility is ‘natural’
   Sebi chairman Tuhin Kanta Pandey emphasized the resilience and depth of India's capital markets. He advised retail investors to
   🔗 https://www.livemint.com/market/stock-market-news/sebi-chief-tuhin-kanta-pandey-warns-investors-against-impulsive-trading-says-market-volatility-is-natural-11773475172773.html
-
-- Middle East conflict: Nifty 50 crashes 9.20%, Sensex tanks 7,685 points in two weeks; more pain or trend reversal ahead?
-  The Nifty 50 index has crashed from 25,496 to 23.151
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-us-iran-war-nifty-50-crashes-9-20-sensex-tanks-7-685-points-why-is-indian-stock-market-falling-11773475032677.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 16 March 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday. Syngene
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-stock-picks-recommends-three-stocks-to-buy-on-monday-16-march-2026-11773471929467.html
-
-- Stock market crash: Should you worry as investors lost  ₹20 lakh crore last week? Radhika Gupta of Edelweiss explains
-  Radhika Gupta from Edelweiss Mutual Fund recommends investors remain committed
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-stock-market-crash-should-you-worry-as-investors-lost-rs-20-lakh-crore-last-week-radhika-gupta-edelweiss-11773468076662.html
 
 - Elon Musk says Tesla’s ‘Terafab’ AI chip manufacturing project to launch next week
   Tesla could eventually transform itself into an integrated device manufacturer (IDM) — designing and
@@ -104,21 +104,21 @@
   ‘Lose $1 Million in 2
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2MweGdLX2ZHY3UtSC11VWcwVkRFVHhodmZuVWppTmF1bDZfU09HdDRaNkRPSXByVkVVVXIydDBqRE9Jc2hkWUliSTJHRmxrdmZLNFVoZWZ5YXJGdzlES0x3Q0xfcnNCUGpWR0Nid0pST3JZUG82cHduMWozU2lqdnJhOWQ5eXphOGstTjM5dVAzUm5CNmRsc3VfTlNWNHpWUkhNV1l0bXctS184NlZCQzlB?oc=5
 
-- Oil Market Report - March 2026 – Analysis - IEA – International Energy Agency
-  Oil Market Report - March 2026 – Analysis.
-  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX0FFdHZ1NHg4dWR4T193M1VJV3hjNTlrMDRjN2FHdUZWb2lsREotUFl4bXNxMElPenpKdjFwb0l4QTVtcDRaajROY2txT0p3ZDFNYXd2V2pRSTlKck5rNU9LTXZreG8?oc=5
+- Raamdeo Agrawal has a message if markets drop another 10%, here's the five-year upside - Moneycontrol.com
+  Raamdeo Agrawal has a message if markets
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjVqeHpta1EwcGNsNDNpLXBjaER2cUVzdmxaaDZzTlNOV2RRZFdkR25FZFd2Wld0ZjBZQzc1SFVYR1NKdjkyaTU4YkNHWW5OZjVYaWZ4MERJSzh3T3FRT002THNZSFo5WVdDRzhXSWt2TEVra1lKdmNiVnNGSWhscVc0UFZjU0xHVFluVV9wX2N2WWRWRHV0Z2kxR2dXLTFwa25Qbm1URGZRMl83Rk14R1pmY0VMQUl4TUFHSlQ5TjdnVXp3aHRLcXRuV3JpY1dmN2dhY1pnOE9CTDF4QjVFU1RTYWjSAeoBQVVfeXFMTXNZQ2d1Nl9oVmp6dGY0aVpId3J2SUUtOEpGbW5UVHVHRU1sUTkwT0R1bzIzcmpDRF9rYmhJN1FaMVNWRnRVenhWSDNCOHRZemVnYVhBQzZqdVBfb2l0TVZMejM5QVJOY3YweWoyVWxtUTJWSl9PNDhtYjZwUW13YUxFVU5XYndLUDFubkZsZVAxMFA3WnhGcU15My13aFhyOGwtYlFLS281ODU3YTFLOU5NNGNvY25uNnVobUV5ZjdNYkdnb2N4TWh3cFdLMjd3S3JmUXVNMTVVMGo3Q01Gd1FqWE1tenlvQjV3?oc=5
 
 - Crude oil futures separate from reality as Asia physical market buckles - Reuters
   Crude oil futures separate from reality as Asia
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjZNcHg5NFlxQlFEZDNlaHNzQmZyYzdYeDBDYVVjNjJWT184OXd6Y3pCOFIwLUoyU2ZKQ3hQa2NHRU1vdXRENEloZDE2eDhmdjZFQWRyYWNYcmcycXBlVXhYRWh0akdqN09wQ0JmVGlyYXFGaDVJM2ZGVmNOa2dOSmpwNDZqOHpORU10VnJYX0p2cEhtZHlYTzBwaG9IdlI3WGxDcDMzeUMxMVBYTDVwc3JzNjY4bmZESy1r?oc=5
 
-- Oil prices in the driving seat as energy shock upends global markets - Financial Times
-  Oil prices in the driving seat as energy shock upends
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE45ckszMXVNallISmtQcFBFTnJWTjFmc2dfWWZxYkVycTk1ajVZM2hZSE5hUWZ0OFcxelRncC11S190YlN0Z050SzEtOGlJdlYzdi1zNm1PaUdXTzdFZUpLTXVFanVPVzhldWZpMXh4VjE?oc=5
+- Oil Markets Brace for Lasting Turmoil in the Gulf - WSJ
+  Oil Markets Brace for Lasting
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEp1V2RCYmRqbU0tajhyS1p6YXBlMFBBNmFmZnpvVkVGODdFemFabFhEVjRoNnRRamxGZWg3OG1yV0lmRUNSS1NCZENsb3BpTnVCWFlDZHN3WTUyNnVBNmR4SWpyTWt6Z1hQeHJOSmRVMmNHSjd3dEdDS0RwYk92NHRvalhHdlg4YUhCWXVDNUlOYl9jenBxR0ctT3pHaTlHZlB1M19EMGlJaU1jbU9YeWRHeExiQQ?oc=5
 
-- Raamdeo Agrawal has a message if markets drop another 10%, here's the five-year upside - Moneycontrol.com
-  Raamdeo Agrawal has a message if markets
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjVqeHpta1EwcGNsNDNpLXBjaER2cUVzdmxaaDZzTlNOV2RRZFdkR25FZFd2Wld0ZjBZQzc1SFVYR1NKdjkyaTU4YkNHWW5OZjVYaWZ4MERJSzh3T3FRT002THNZSFo5WVdDRzhXSWt2TEVra1lKdmNiVnNGSWhscVc0UFZjU0xHVFluVV9wX2N2WWRWRHV0Z2kxR2dXLTFwa25Qbm1URGZRMl83Rk14R1pmY0VMQUl4TUFHSlQ5TjdnVXp3aHRLcXRuV3JpY1dmN2dhY1pnOE9CTDF4QjVFU1RTYWjSAeoBQVVfeXFMTXNZQ2d1Nl9oVmp6dGY0aVpId3J2SUUtOEpGbW5UVHVHRU1sUTkwT0R1bzIzcmpDRF9rYmhJN1FaMVNWRnRVenhWSDNCOHRZemVnYVhBQzZqdVBfb2l0TVZMejM5QVJOY3YweWoyVWxtUTJWSl9PNDhtYjZwUW13YUxFVU5XYndLUDFubkZsZVAxMFA3WnhGcU15My13aFhyOGwtYlFLS281ODU3YTFLOU5NNGNvY25uNnVobUV5ZjdNYkdnb2N4TWh3cFdLMjd3S3JmUXVNMTVVMGo3Q01Gd1FqWE1tenlvQjV3?oc=5
+- Oil Market Report - March 2026 – Analysis - IEA – International Energy Agency
+  Oil Market Report - March 2026 – Analysis.
+  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFX0FFdHZ1NHg4dWR4T193M1VJV3hjNTlrMDRjN2FHdUZWb2lsREotUFl4bXNxMElPenpKdjFwb0l4QTVtcDRaajROY2txT0p3ZDFNYXd2V2pRSTlKck5rNU9LTXZreG8?oc=5
 
 - War fears spark market panic, but correction may be opening buying opportunities: Sunny Agrawal
   Sharp market selloff amid geopolitical tensions may offer selective long-term buying opportunities, says Sunny Agrawal. He highlights robust order books, corrected valuations, and attractive prospects in private banks, consumer internet
@@ -144,61 +144,109 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
+- India condemns Pakistan air strikes in Afghanistan, calls for respect of sovereignty - News On AIR
+  India condemns Pakistan air strikes in Afghanistan, calls for respect of
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdzaURvWXdybjlNNEYzY1lfQnliRFpFZVkwQk9abTRUaExvOTVBdmdRZlppelJfOFA1a3JhR2lIaWR2djI3RUVyazJjeGd6NzVOYVNGc18wblNUNEZOTkxQU2h6RXZ5eE51aHFibm9taC1zX2lucmhhby1nZHJqNkNCaV9qb0R0MVF1QVJOQ0ZtbVl6U0haTHVPa0J6NlNLMTdPTnJCdDRYTm45V3dnb05vRQ?oc=5
+
 - LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
   The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
-  Pipes vs Cylinders: India
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
+- Diesel transport faces risk if urea supply disrupted: Auto industry - The Times of India
+  Diesel transport faces risk if urea supply disrupted,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2lLLVR1dWZEMlRqTG1NZVEyTnJlSEs1ZExiVFBPcUpONm1nTHBFekJRdloySnhUUVJaQmpDSDdQd1JYM2lZcm16UGxpbk9Ud0E0VHhrTzljcGpXdlBBamliQzhiTmh4c2FQaE5za243bnE3VjIxNkZzS0t5bWdkRzUtdTBLNnEwUlBNRjB6Z2g5TVAxQnZuM1JYRGRCdm9wVDB5c2xZYWRwN19wTldaVEREeWlyRWdGZmh0enJTVGl6YnIyLVlfcHBIYkpybVHSAdQBQVVfeXFMTzYzbEF0eHVZV0xBX3h0MkVSSllUZ3IzNlNMdDhoSUIxbHN3QjEwZXdyLWRnVnVidmYxcFBCN3RmX3IxTXVjdzV0R3BoMnltdTlubkJLN1lhMkRSck5TdXY2cDdDUEhKcmlScEhnSE52SFRqMDl6dDdyU19mZE9vZXhpQnE0N3ZZeF84QnpTcWg2SjRYb0F5VGh1UkJxcW5veUo3RDZLUkladkRJc3YxQV9FcTVOUERnWGNHY2Zrd0NQWV8xTkJaaV9yekRsR3RXOWo2SVQ?oc=5
 
-- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
-  Long LPG Queues Across India Amid West Asia Conflict Fears.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
-
-- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
-  India has adequate fertilizer stocks ahead of Kharif season, says
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
+- Climate Activist Sonam Wangchuk, Detained For Nearly 6 Months, To Be Released - NDTV
+  Climate Activist Sonam Wangchuk, Detained
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdPZHREYWp4MF9VV3BtMzF3cXhGQ1FUUV9yeDdKVHhtZnUtc256czJJck1IVzFoU09DN3ZXX1hzM2VoQTRIbTFlUWk2eWZOanVNakZCQ0otcGlVd3ZuRkIxLXpNWnV5ZXl3d1RHTHdBZDJfc3d0djNfSlFPWXRsQjZVN3BvMUZkWnJjMEtHTkw2dVpfMTVmWEpZcTVwWWdteXh1US1FYUprWnlyTS1rc2ZYX3lMQTRrVk5QcTFqbWZfSV9hb1hrS2ZKdEVDaG5xUWh0ODNmNVhMRTdzUklj0gHnAUFVX3lxTE05enFKaXQtU21XNG5CSGRjM1pCWXljYWp5ZDFSMWtkVVliSkNfbXRXSzVNS3Z2bFZ3MWtrRmEzZEhTTkR2Q1g0M0R4Z3ROekt2WG9MU0R4cGk0Q2Qtc1MzRXhObmtrNjY3dVk3M2phSkpPdU1BMVgtX0l2N0ZEYVFZb2pFUU1vTkRBZlBranpNcDZvX1gtYXBNb1JqNXZWR2Yzd1pUZzhMVXJhWU9SMjZGbXVyVkJJVjFjOVg0V1QtSUJFYlFBT1RTdTRqd3VRZjJwRk96QWhYeURyQ2tzUkFfT2JTTVZ6RQ?oc=5
 
 - Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
   <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
+- India condemns Pakistan air strikes in Afghanistan, calls for respect of sovereignty - News On AIR
+  India condemns Pakistan air strikes in Afghanistan, calls for respect of
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdzaURvWXdybjlNNEYzY1lfQnliRFpFZVkwQk9abTRUaExvOTVBdmdRZlppelJfOFA1a3JhR2lIaWR2djI3RUVyazJjeGd6NzVOYVNGc18wblNUNEZOTkxQU2h6RXZ5eE51aHFibm9taC1zX2lucmhhby1nZHJqNkNCaV9qb0R0MVF1QVJOQ0ZtbVl6U0haTHVPa0J6NlNLMTdPTnJCdDRYTm45V3dnb05vRQ?oc=5
+
 - LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
   The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
-  Pipes vs Cylinders: India
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
+- Diesel transport faces risk if urea supply disrupted: Auto industry - The Times of India
+  Diesel transport faces risk if urea supply disrupted,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2lLLVR1dWZEMlRqTG1NZVEyTnJlSEs1ZExiVFBPcUpONm1nTHBFekJRdloySnhUUVJaQmpDSDdQd1JYM2lZcm16UGxpbk9Ud0E0VHhrTzljcGpXdlBBamliQzhiTmh4c2FQaE5za243bnE3VjIxNkZzS0t5bWdkRzUtdTBLNnEwUlBNRjB6Z2g5TVAxQnZuM1JYRGRCdm9wVDB5c2xZYWRwN19wTldaVEREeWlyRWdGZmh0enJTVGl6YnIyLVlfcHBIYkpybVHSAdQBQVVfeXFMTzYzbEF0eHVZV0xBX3h0MkVSSllUZ3IzNlNMdDhoSUIxbHN3QjEwZXdyLWRnVnVidmYxcFBCN3RmX3IxTXVjdzV0R3BoMnltdTlubkJLN1lhMkRSck5TdXY2cDdDUEhKcmlScEhnSE52SFRqMDl6dDdyU19mZE9vZXhpQnE0N3ZZeF84QnpTcWg2SjRYb0F5VGh1UkJxcW5veUo3RDZLUkladkRJc3YxQV9FcTVOUERnWGNHY2Zrd0NQWV8xTkJaaV9yekRsR3RXOWo2SVQ?oc=5
 
-- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
-  Long LPG Queues Across India Amid West Asia Conflict Fears.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
-
-- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
-  India has adequate fertilizer stocks ahead of Kharif season, says
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
+- Climate Activist Sonam Wangchuk, Detained For Nearly 6 Months, To Be Released - NDTV
+  Climate Activist Sonam Wangchuk, Detained
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdPZHREYWp4MF9VV3BtMzF3cXhGQ1FUUV9yeDdKVHhtZnUtc256czJJck1IVzFoU09DN3ZXX1hzM2VoQTRIbTFlUWk2eWZOanVNakZCQ0otcGlVd3ZuRkIxLXpNWnV5ZXl3d1RHTHdBZDJfc3d0djNfSlFPWXRsQjZVN3BvMUZkWnJjMEtHTkw2dVpfMTVmWEpZcTVwWWdteXh1US1FYUprWnlyTS1rc2ZYX3lMQTRrVk5QcTFqbWZfSV9hb1hrS2ZKdEVDaG5xUWh0ODNmNVhMRTdzUklj0gHnAUFVX3lxTE05enFKaXQtU21XNG5CSGRjM1pCWXljYWp5ZDFSMWtkVVliSkNfbXRXSzVNS3Z2bFZ3MWtrRmEzZEhTTkR2Q1g0M0R4Z3ROekt2WG9MU0R4cGk0Q2Qtc1MzRXhObmtrNjY3dVk3M2phSkpPdU1BMVgtX0l2N0ZEYVFZb2pFUU1vTkRBZlBranpNcDZvX1gtYXBNb1JqNXZWR2Yzd1pUZzhMVXJhWU9SMjZGbXVyVkJJVjFjOVg0V1QtSUJFYlFBT1RTdTRqd3VRZjJwRk96QWhYeURyQ2tzUkFfT2JTTVZ6RQ?oc=5
 
 - Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
   <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
 
+- India condemns Pakistan air strikes in Afghanistan, calls for respect of sovereignty - News On AIR
+  India condemns Pakistan air strikes in Afghanistan, calls for respect of
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdzaURvWXdybjlNNEYzY1lfQnliRFpFZVkwQk9abTRUaExvOTVBdmdRZlppelJfOFA1a3JhR2lIaWR2djI3RUVyazJjeGd6NzVOYVNGc18wblNUNEZOTkxQU2h6RXZ5eE51aHFibm9taC1zX2lucmhhby1nZHJqNkNCaV9qb0R0MVF1QVJOQ0ZtbVl6U0haTHVPa0J6NlNLMTdPTnJCdDRYTm45V3dnb05vRQ?oc=5
+
 - LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
   The Times of India reports that the government is trying to find a solution to the crisis.
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
 
-- Pipes vs Cylinders: India's PNG Advantage And LPG Concern Explained - NDTV
-  Pipes vs Cylinders: India
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenFER3dFcWJzc2wwbnhmSFl3T19EZ2xCUlBWSnExeGJZUktZZFZzTnZrX01ybDZ3NEZGcm1IYUJiejJ0T2dNZ2RSNkRvZzR0bWd3TWs3YWdkOTRhdEhUR0NpVjBFRE94dFBYX3FsaFhaRUM0UUZjbDU2V1l2TTM1LU5DcHItdWg5d3ByTFZSSV9qd1ZIMm54eV9GaHgxSmowa25FQjNGY050UdIBsgFBVV95cUxNRldyZjhRazhYZ0ZuemlteEtOTVlpQ0pFUEtmR3BOUjlWX2RoUXVKdlFVdm5idkg3cTFJemRadGUwMlFpeXBLdHk1ZTI5eGxLS1VYdVV0a3lKTE0yQk5KQlc1RmVXWlNldndjbDR0Z0xnNGVwb2F2QUw1ekUzNVJVaE5Xb005THpWUzZlNjZXZllSdlpxQl9RWmM4UTVZR1MwZDN2bnd4WkU1YzJnckFYb0x3?oc=5
+- Diesel transport faces risk if urea supply disrupted: Auto industry - The Times of India
+  Diesel transport faces risk if urea supply disrupted,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2lLLVR1dWZEMlRqTG1NZVEyTnJlSEs1ZExiVFBPcUpONm1nTHBFekJRdloySnhUUVJaQmpDSDdQd1JYM2lZcm16UGxpbk9Ud0E0VHhrTzljcGpXdlBBamliQzhiTmh4c2FQaE5za243bnE3VjIxNkZzS0t5bWdkRzUtdTBLNnEwUlBNRjB6Z2g5TVAxQnZuM1JYRGRCdm9wVDB5c2xZYWRwN19wTldaVEREeWlyRWdGZmh0enJTVGl6YnIyLVlfcHBIYkpybVHSAdQBQVVfeXFMTzYzbEF0eHVZV0xBX3h0MkVSSllUZ3IzNlNMdDhoSUIxbHN3QjEwZXdyLWRnVnVidmYxcFBCN3RmX3IxTXVjdzV0R3BoMnltdTlubkJLN1lhMkRSck5TdXY2cDdDUEhKcmlScEhnSE52SFRqMDl6dDdyU19mZE9vZXhpQnE0N3ZZeF84QnpTcWg2SjRYb0F5VGh1UkJxcW5veUo3RDZLUkladkRJc3YxQV9FcTVOUERnWGNHY2Zrd0NQWV8xTkJaaV9yekRsR3RXOWo2SVQ?oc=5
 
-- Video | LPG Shortage News | Long LPG Queues Across India Amid West Asia Conflict Fears - NDTV
-  Long LPG Queues Across India Amid West Asia Conflict Fears.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1ozc0lvZUhQaE93Um4wR2RqUnpkazJOMlNkU3hUcTZ1UnRORGR5REhSUERWbElvU0NjX0g4WGgtQzdEaEc3XzdxeGVhdFlTTEQ2amdEMVF3TDczejBLSFg2Rnk1LTZnUV80RVFHNmQxOXpUZlpxZnNBTjBSZHFlMHdFNGRkdi1IWm9jSWJLNGluTjZadUNDQ1NuTXhSZE1qcUVTQWRsdnF3SlJMYTM2Nw?oc=5
+- Climate Activist Sonam Wangchuk, Detained For Nearly 6 Months, To Be Released - NDTV
+  Climate Activist Sonam Wangchuk, Detained
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdPZHREYWp4MF9VV3BtMzF3cXhGQ1FUUV9yeDdKVHhtZnUtc256czJJck1IVzFoU09DN3ZXX1hzM2VoQTRIbTFlUWk2eWZOanVNakZCQ0otcGlVd3ZuRkIxLXpNWnV5ZXl3d1RHTHdBZDJfc3d0djNfSlFPWXRsQjZVN3BvMUZkWnJjMEtHTkw2dVpfMTVmWEpZcTVwWWdteXh1US1FYUprWnlyTS1rc2ZYX3lMQTRrVk5QcTFqbWZfSV9hb1hrS2ZKdEVDaG5xUWh0ODNmNVhMRTdzUklj0gHnAUFVX3lxTE05enFKaXQtU21XNG5CSGRjM1pCWXljYWp5ZDFSMWtkVVliSkNfbXRXSzVNS3Z2bFZ3MWtrRmEzZEhTTkR2Q1g0M0R4Z3ROekt2WG9MU0R4cGk0Q2Qtc1MzRXhObmtrNjY3dVk3M2phSkpPdU1BMVgtX0l2N0ZEYVFZb2pFUU1vTkRBZlBranpNcDZvX1gtYXBNb1JqNXZWR2Yzd1pUZzhMVXJhWU9SMjZGbXVyVkJJVjFjOVg0V1QtSUJFYlFBT1RTdTRqd3VRZjJwRk96QWhYeURyQ2tzUkFfT2JTTVZ6RQ?oc=5
 
-- India has adequate fertilizer stocks ahead of Kharif season: EAM Spokesperson Randhir Jaiswal - News On AIR
-  India has adequate fertilizer stocks ahead of Kharif season, says
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORmYwNFh3ajZ4eENhYU45Tk84bHpfcGljbXVWNlExZHZuQVNYSEJoRUlxUy1JRjV1bGVYSU1IZWpSQ0pOLTRkZDNzUnQtQldiNEpJLTdyblpHWExZeHNSRzNDaWpiT1ZwNFl4RnkwMFZiY1ZsZ1JWUW8tRG5JUlpLLThkQkdQa0o5SHRNSzZSNzdsMEhFZ1RZbHpFMWdaNHlIYWozYm1yN2FDcHZ3bDdIQi1RcGN5VUR1eC15dm5zdw?oc=5
+- Two Indian ships cross Strait of Hormuz as Iran says it allowed passage - Al Jazeera
+  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VH
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1NIVTZaU2E3SEUwT0R2cDhHNW5FYVpESE5zU0hEZ0pucEpKWFlXbGlDU3dtUWF1OVNMLVBZVlFmZ3ZzeU5ZR0V2T0ZPVWxWdWJqUW9rU2NDTmU1bWVOa0xTWHVkY2Y3VHpUMUwzQUhSd0kwS0ttWl85bkIwUHNTcGhGQzB1ZUQ4Si1BSkVxTGFsTWRQYU9sWGNhekNWamlKYS1hc0xEZWRnaU94MWJfb3VR0gG3AUFVX3lxTE5ibnAzWEVOcVNBX2FZS2hjcXYwbWM3Wm1Pc0djcHlEMVFpT2xuUW40ZmNxQU1Ycm1TX2JXSUVkcUFKblEzUGthSTc1N3I4WElJbUxsdGp5YmktcDU4WkJYNENKb2FVcDdTcXA3aF9aSlNaSzM0R1Z0N09TYlJteUhfMnd6OWJSMU1FOEtDYmlldndqYXVmWWVtVUxmN2ZHbVZvOXJRQUJ1X2w2R2pzOUUtVnJHRHBFMA?oc=5
+
+- India condemns Pakistan air strikes in Afghanistan, calls for respect of sovereignty - News On AIR
+  India condemns Pakistan air strikes in Afghanistan, calls for respect of
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdzaURvWXdybjlNNEYzY1lfQnliRFpFZVkwQk9abTRUaExvOTVBdmdRZlppelJfOFA1a3JhR2lIaWR2djI3RUVyazJjeGd6NzVOYVNGc18wblNUNEZOTkxQU2h6RXZ5eE51aHFibm9taC1zX2lucmhhby1nZHJqNkNCaV9qb0R0MVF1QVJOQ0ZtbVl6U0haTHVPa0J6NlNLMTdPTnJCdDRYTm45V3dnb05vRQ?oc=5
+
+- LPG Crisis in India Live Updates: No LPG access for households with piped gas connections, says government - The Times of India
+  The Times of India reports that the government is trying to find a solution to the crisis.
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxQYmVxb0tqdmd0LVRMY2kwX0I0ZmpDR2JWU3NGRmRpVFJ6OU1sdktqaGpxV3VrYThJcDBrcjlDaVlUNXMxX29QMVRuTEFUcGRfSnpaWmJKcmdfcGMxTDNEbFk2SDd4ZU05djlUbEJSY2tBZGU5QW81VWdSd1RtOVBYSnh0YnVBN2dXVEVFZkhfYmJiNGlhRzFvalpxZ0tmcVJfV2ZoaEZnQVBPQm9sSkJYV3E3TU1vSmpaMkIxaVNkUklyY2lzcnhFd0ltOWNXcTBXYlRrV2xKVElzaU5EY3VLZVZFMkVBcHJ5elhrWTBKN29wRl9sMGZNSzZuS0ltYy1aQ1NGalJkR0RibGxXNmN3eTNPb0tGYXpmdXJZY25udEFJd0FCUl8tbzdkeHg1M2NSbDdORVh2Vjltd3RUQWZrVGRWR2Y1NWRpNGpncUlxSG1rbE82YlczQtIB3gJBVV95cUxNZldORFRfRzd2VEYwMDZtR09Pb25seHhZaFljc0hha2tLbkhNTGNwU25Hdmc2ZGprS3k2MTBmcTQwc0hpWElWNjAyUUQ3dnlSM2NxVGhIcDhFREZ3ZXlfc082bUU2cjludGhZbVZORzR6S2hJem1iNGh3SmJSOHVXUWZkNW5IRndZQlkxVnRNOW8yUUJSUHlhWnd0V1lKRFU1TWhFWUZtekUtV0RPOFpkZUg0VTEtdEhrYU8zNU5RdHBiNFd3M2g0YnoxU1ROYnFUYUdHbFFFUW9yamVIZDJLbThNODl4M0N0NUxxOW9NYWhxeVdXQ1U0ZG9Ib2lQTVFIZjFWWWdPYTA4aE1KVHJheXYyOUtDVXpKc0ROMG5yRlRHUFRBaUFWaTFJYzdwUnp5SGloQkZILUM1NkUxSzdkMm8wTTRPWk5NZEdKcHRDcUxuaUZlYmVrb3ZIblRwdw?oc=5
+
+- Diesel transport faces risk if urea supply disrupted: Auto industry - The Times of India
+  Diesel transport faces risk if urea supply disrupted,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2lLLVR1dWZEMlRqTG1NZVEyTnJlSEs1ZExiVFBPcUpONm1nTHBFekJRdloySnhUUVJaQmpDSDdQd1JYM2lZcm16UGxpbk9Ud0E0VHhrTzljcGpXdlBBamliQzhiTmh4c2FQaE5za243bnE3VjIxNkZzS0t5bWdkRzUtdTBLNnEwUlBNRjB6Z2g5TVAxQnZuM1JYRGRCdm9wVDB5c2xZYWRwN19wTldaVEREeWlyRWdGZmh0enJTVGl6YnIyLVlfcHBIYkpybVHSAdQBQVVfeXFMTzYzbEF0eHVZV0xBX3h0MkVSSllUZ3IzNlNMdDhoSUIxbHN3QjEwZXdyLWRnVnVidmYxcFBCN3RmX3IxTXVjdzV0R3BoMnltdTlubkJLN1lhMkRSck5TdXY2cDdDUEhKcmlScEhnSE52SFRqMDl6dDdyU19mZE9vZXhpQnE0N3ZZeF84QnpTcWg2SjRYb0F5VGh1UkJxcW5veUo3RDZLUkladkRJc3YxQV9FcTVOUERnWGNHY2Zrd0NQWV8xTkJaaV9yekRsR3RXOWo2SVQ?oc=5
+
+- Climate Activist Sonam Wangchuk, Detained For Nearly 6 Months, To Be Released - NDTV
+  Climate Activist Sonam Wangchuk, Detained
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdPZHREYWp4MF9VV3BtMzF3cXhGQ1FUUV9yeDdKVHhtZnUtc256czJJck1IVzFoU09DN3ZXX1hzM2VoQTRIbTFlUWk2eWZOanVNakZCQ0otcGlVd3ZuRkIxLXpNWnV5ZXl3d1RHTHdBZDJfc3d0djNfSlFPWXRsQjZVN3BvMUZkWnJjMEtHTkw2dVpfMTVmWEpZcTVwWWdteXh1US1FYUprWnlyTS1rc2ZYX3lMQTRrVk5QcTFqbWZfSV9hb1hrS2ZKdEVDaG5xUWh0ODNmNVhMRTdzUklj0gHnAUFVX3lxTE05enFKaXQtU21XNG5CSGRjM1pCWXljYWp5ZDFSMWtkVVliSkNfbXRXSzVNS3Z2bFZ3MWtrRmEzZEhTTkR2Q1g0M0R4Z3ROekt2WG9MU0R4cGk0Q2Qtc1MzRXhObmtrNjY3dVk3M2phSkpPdU1BMVgtX0l2N0ZEYVFZb2pFUU1vTkRBZlBranpNcDZvX1gtYXBNb1JqNXZWR2Yzd1pUZzhMVXJhWU9SMjZGbXVyVkJJVjFjOVg0V1QtSUJFYlFBT1RTdTRqd3VRZjJwRk96QWhYeURyQ2tzUkFfT2JTTVZ6RQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-14 18:34:39 UTC_
+_Last updated: 2026-03-15 01:58:33 UTC_
