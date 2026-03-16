@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Sprinklers that didn’t work, late call to fire brigade: Fire that killed 10 at Cuttack hospital another man-made tragedy
+- Row over chapter on ‘corruption in judiciary’: NCERT affidavit on ‘high-powered’ panel lists late Bibek Debroy among 19 members
   
-  🔗 https://indianexpress.com/article/india/cuttack-hospital-fire-brigade-odisha-10584996/
+  🔗 https://indianexpress.com/article/india/ncert-affidavit-supreme-court-textbook-controversy-10585417/
 
-- Missing engine of Jharkhand air ambulance recovered 21 days after tragic crash
+- NDA says govt making huge investment in Railways; Need better facilities, Opposition responds
   
-  🔗 https://indianexpress.com/article/india/missing-engine-jharkhand-air-ambulance-recovered-21-days-after-tragic-crash-10584934/
+  🔗 https://indianexpress.com/article/india/nda-says-govt-making-huge-investment-in-railways-need-better-facilities-opposition-responds-10585411/
 
-- NFSA coverage based on 2011 Census may exclude eligible households: parliamentary panel
+- Garo Hills council term extended by six months after poll tensions
   
-  🔗 https://indianexpress.com/article/india/nfsa-beneficiary-database-update-2011-census-panel-report-10584705/
+  🔗 https://indianexpress.com/article/india/ghadc-meghalaya-elections-postponed-cem-resigns-st-only-notification-violence-10585410/
 
-- Kerala churn begins: Denied ticket, CPI MLA joins BJP, claims seats being ‘sold’
+- J&K Deputy CM Surinder Choudhary seeks review of personal security – ‘Movement without full cover poses a significant risk’
   
-  🔗 https://indianexpress.com/article/india/kerala-elections-cpi-mla-c-mukundan-joins-bjp-seat-sold-allegations-10584721/
+  🔗 https://indianexpress.com/article/india/jk-deputy-cm-surinder-choudhary-security-review-farooq-abdullah-attack-fallout-10585358/
 
-- ‘It is better that we coordinate and get a solution’: Jaishankar hopeful Iran talks will ease Hormuz route for Indian ships
+- Fresh trouble in Assam Congress? In letter to senior leadership, former minister Bordoloi flags ‘humiliation’
   
-  🔗 https://indianexpress.com/article/india/it-is-better-that-we-coordinate-and-get-a-solution-jaishankar-hopeful-iran-talks-will-ease-hormuz-route-for-indian-ships-10584690/
+  🔗 https://indianexpress.com/article/india/trouble-assam-congress-letter-senior-leaders-pradyut-bordoloi-humiliation-10585292/
+
+- Apple AirPods Max 2 launched: Better noise cancellation, new AI features; India price at Rs 67,900
+  
+  🔗 https://indianexpress.com/article/technology/apple-airpods-max-2-india-launch-price-features-10585149/
 
 - Nvidia GTC 2026 keynote livestream: How to watch Jensen Huang’s AI announcements live
   
@@ -36,29 +40,25 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/british-teens-resist-australian-style-social-media-ban-10584744/
 
-- Leadership exits, Grok controversy: Why Elon Musk wants xAI to start over again
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-xai-rebuilding-leadership-exits-grok-10584373/
+- Mark Zuckerberg's tech firm Meta's shares jump on report of plans to cut 20% or more of workforce
+  If Meta settles on the 20% figure, the cuts will be the biggest since a late 2022 and early 2023 restructuring it dubbed the
+  🔗 https://www.livemint.com/companies/news/mark-zuckerberg-meta-shares-jump-on-report-of-plans-to-cut-20-per-cent-or-more-of-workforce-11773682007566.html
 
-- TikTok and Meta's algorithm race compromised safety for engagement, say whistleblowers: Report
-  Whistleblowers told BBC that Meta and TikTok prioritised user engagement over safety. The algorithm race led to increased harassment and exploitation, putting vulnerable users
-  🔗 https://www.livemint.com/companies/news/tiktok-meta-algorithm-race-compromised-safety-for-engagement-interview-reviews-children-risk-violence-bbc-whistleblowers-11773655415425.html
+- Reliance signs $3 billion deal with Samsung C&amp;T for 15-year supply of green ammonia — here's all we know
+  Reliance Industries has signed a $3 billion agreement with South Korea's Samsung C&amp;amp;T to supply green ammonia for 15 years.
+  🔗 https://www.livemint.com/companies/news/reliance-industries-ril-3-billion-green-ammonia-deal-samsung-c-t-15-year-long-term-energy-supply-purchase-agreement-11773672094560.html
 
-- Ashar Group launches Urban Futures Lab, commits  ₹25 crore to back urbantech startups
-  Ashar Group has launched Ashar Urban Futures Lab (UFL), India’s first venture studio for urb
-  🔗 https://www.livemint.com/companies/news/ashar-group-launches-urban-futures-lab-commits-25-crore-to-back-urbantech-startups-11773653328955.html
+- OpenAI courts private equity to join enterprise AI venture, sources say
+  OpenAI is in advanced talks with private equity firms to form a JV that would distribute its enterprise products across the firms
+  🔗 https://www.livemint.com/companies/news/openai-courts-private-equity-join-venture-enterprise-ai-venture-sources-tpg-advent-bain-brookfield-pre-money-valuation-11773671231472.html
 
-- West Asia conflict rattles oil markets, but Citi sees no rush for credit lines
-  Citi’s global corporate banking chief Jason Rekate. Corporate clients are holding back from drawing bank liquidity despite
-  🔗 https://www.livemint.com/companies/news/citi-sees-no-surge-in-corporate-credit-demand-despite-oil-shock-amid-west-asia-conflict-11773639642638.html
+- Atlys secures $36 million in Series C funding from Susquehanna Asia VC
+  Atlys has secured $36 million in Series C funding to expand its AI-powered visa processing platform into new international markets. The round, led by Susquehanna
+  🔗 https://www.livemint.com/companies/atlys-visa-processing-startup-raises-funding-makemytrip-invests-11773664574465.html
 
-- Why Simba beer maker is looking to shift gears to a more premium play
-  Simba Beer maker Sona Beverages is sharpening its premium focus. It is expanding into large markets such as
-  🔗 https://www.livemint.com/companies/news/simba-beer-maker-shift-gears-premium-play-alcohol-brewers-budweiser-bira-91-heineken-sona-beverages-11773628752013.html
-
-- Pilot to proof: India's agentic AI startups face a funding test
-  India’s agentic AI startups are facing a Series A bottleneck. Only those with revenue traction or
-  🔗 https://www.livemint.com/companies/company-results/pilot-to-proof-indias-agentic-ai-startups-face-a-funding-test-openai-saas-google-genai-accenture-11773549174308.html
+- IPO-bound CMPDI bets on parent Coal India to power future growth
+  Coal India has set an ambitious production target of reaching one billion tonnes and eventually 1.5 billion
+  🔗 https://www.livemint.com/companies/cmpdi-ipo-coal-india-mining-consultancy-price-band-growth-plans-11773664154493.html
 
 - Gold-silver ratio expected to rise above 70 mark. Time to dump silver for gold?
   US spot gold prices, currently at $5000, have lost 5% in March so far. Meanwhile, US spot silver is down 15.5% during the same period and has slumped
@@ -80,6 +80,10 @@
   Apsis Aerocom IPO allotment is set for March 16, with shares listed on March 18.
   🔗 https://www.livemint.com/market/ipo/apsis-aerocom-ipo-gmp-apsis-aerocom-ipo-allotment-apsis-aerocom-ipo-allotment-status-apsis-aerocom-ipo-subscription-11773654825917.html
 
+- Apple debuts AirPods Max 2 headphones: What's in for musicians, podcasters and gamers?
+  The AirPods Max 2 offer active noise cancellation that’s 1.5x more effective than the original
+  🔗 https://www.livemint.com/technology/apple-debuts-airpods-max-2-headphones-whats-in-for-musicians-podcasters-and-gamers-11773680882612.html
+
 - OnePlus Nord 6 tipped to launch in India soon: Expected price, specs and everything expected
   The Nord 6 could debut with a Snapdragon 8s Gen 4 processor, 12GB RAM, and a 6.78-inch OLED display.
   🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-tipped-to-launch-in-india-soon-expected-price-specs-and-everything-expected-11773570770131.html
@@ -96,109 +100,93 @@
   Techie Paul Conyngham developed a custom mRNA vaccine for his dog, Rose, using ChatGPT and AlphaFold. The AI-assisted process involved
   🔗 https://www.livemint.com/technology/tech-news/techie-shrinks-dogs-tumor-by-half-after-using-chatgpt-to-design-first-personalized-cancer-vaccine-11773562362158.html
 
-- Will AI change how Computer Science is taught? Perplexity CEO thinks so
-  The AI era is pushing computer science back toward mathematics,
-  🔗 https://www.livemint.com/technology/tech-news/will-ai-change-how-computer-science-is-taught-perplexity-ceo-thinks-so-11773547841279.html
+- Small investors fear US SEC will drive corporate gadflies to extinction
+  Proposed new rules and higher ownership thresholds could sideline individual shareholders, activists, and faith-based groups. Business groups aim to curb what they deem excessive or irrelevant proposals.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/small-investors-fear-us-sec-will-drive-corporate-gadflies-to-extinction/articleshow/129617039.cms
 
-- Oil Supplies in Focus Ahead of Stock, Bond Open: Markets Wrap - Bloomberg.com
-  Oil Supplies in Focus Ahead of Stock,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUUyMUdCa2lUWGp4QWEwUlJCc00xaDBGd1p4bDAzYnVsemtPdXFrRzhIYXRXcnpvVUNNZjNKdlhka2l1TTNLYkRENWUxbU5LYklWYnJGc21RLW5KUnc0OXhWS2FUNjFnWnQ3SzBiLW1RUFRVUWgybU5aSWZ3OXlORDJqcUZ2S3E5MkZITHc4RHF6azFuZEN4dzk2SzdTUk9POVFMbE42dzRWYkF2S09N?oc=5
+- London Metal Exchange electronic trading resumes after nearly 3-hour outage
+  The London Metal Exchange's LME Select platform experienced a nearly three-hour outage on Monday due to a technical issue. This disruption halted price updates for key metal contracts, prompting the LME to declare a Disruption Event.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/london-metal-exchange-electronic-trading-resumes-after-nearly-3-hour-outage/articleshow/129616485.cms
 
-- Strategic oil release may calm markets but cannot fix Hormuz disruption - Al Jazeera
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFFHV2otR2Z5cnFLQ2t6S3hqWlI3aTNPNFJNR0YwOUstbl9fRVR0Q25Nal8teGxjWlMzVGpZWUZuTW5fdzRCOXFCWUZaenRfcTlua2NWSzVBOEFCRF9WSjRlcElOeDQxTHlmR1VseEhBTmxGaEh1Tm55YmhNOU93M0dpVEstSE9KZWl3RGV0U0RkdEs2YzVpRXFkemo0WU1QcGhNdEstY0x2OGZoY3B4bHZXWTJnZ9IBuwFBVV95cUxQaGcxU2JlTWFfV0lmcTFXLUpyQzVISkVIR1FiT1M1NzMySzA4YVhzUFpPdHRSaTdoeEVSX2cxV3Z0cFltMGo5RVhOTUFOSUV0ZlZoeHVVZlA0eTZRT3NIRjV2bUo3RnlQSUNhcFc3UC1NOVVRVUxkQ2l6bTg3ZExCcjV4NGhUTERrWHZlZkliRkpoM1A0c3cwMGJfTTRSV3hGRlo4N2diUjVUUzlOV2hyVzhLdDBYWEN0VXhB?oc=5
+- Hedge funds 'aggressively' short financial stocks, says Goldman Sachs
+  Global hedge funds are aggressively selling financial stocks, making the sector the year's top target for short bets. Investors are hedging against broader credit risks, potentially anticipating systemic markdowns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/hedge-funds-aggressively-short-financial-stocks-says-goldman-sachs/articleshow/129614573.cms
 
-- The Least-Bad Fix to Hormuz Crisis Is Still Nowhere in Sight - Bloomberg.com
-  The Least-Bad Fix to Horm
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1hZVFRhYzRDT2hmbTdEcFBqMTV0NGp6VUx2bU5LWVZ0U0h3UjVMMEZZc1dMYmlneERIVzF4RHl6WjBsdldLeWFIZTg4N1JZZGo5UGl3MzM4b25GZUVpOTVkVHNLSmI2SGh1Rjl6RUpmM0Rfdl9xRldfR21hdzh4ZHlvei14dE9xOTJPUm1JZ1dDMEwyMFFUZ19fOA?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian indices ended a three-session losing streak with Nifty gaining 257.70 points. Banks, auto, and consumer stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/129614138.cms
 
-- Sensex Today | Nifty 50 | Stock Market Highlights | Closing Bell: Sensex ends 939 pts higher on fag-end b... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNWEliMXNqdmZ1akxyc2w0el9nSGMyQzRXaXFTdnAzTjdjMDljR2pkSUFZZGNBSU9aZXBpR3JyUTItVV80aFVxeHRHdlJqVHhHN242RGhtcXBTT29UN0UwU1NUU0VqTzBVVz
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNWEliMXNqdmZ1akxyc2w0el9nSGMyQzRXaXFTdnAzTjdjMDljR2pkSUFZZGNBSU9aZXBpR3JyUTItVV80aFVxeHRHdlJqVHhHN242RGhtcXBTT29UN0UwU1NUU0VqTzBVVzUzRmNlMkFpc3ZYLXpUT3FTc2RvYjA3NC10VUtMMkpTVk5JaEUxRGtTb25iQnVlblA5bW5RQzR0MW9EeU93eXVHY2txNTRFdUJ2MGkycDNNNTh5Z0RKMDk2NjE4dVNDdHRWSFRGT0ZxZFkwM2c3bW1jcWVWOGFVQlRyV09MWi1DT3otc05zaVNOOUNka0VLRVFfa0MwY0dzbEU1d29zV1lEVFhtbDlj0gGUAkFVX3lxTE85T3lkN0VfMC1RWHlqLWxJaEE4Q0ZhV2Uwbjh3R09TSnpmSndSYjFVbDE1UFhEaEYwWFE2c0hWVy0xSzRQdzZuaXF6RnItdjh0S0R2TGVucjFXbGlseV9WeFJRZ21yUDFIMFRBSks5RE1qZTg2Z09BbWJRWmo0S01TWHI4cF9KeXdwRXp5X1NPeklObENpbHB0QXdkY2VNclByTGZHTDlPRGxJMExTWDBadlFMMTdUd1pXQy1Md2FLMm1xOEpuei1sZGtwdTk5M05YWWlYZW90cTdKSHNxcXptX1MyazM4NGxVQlFzQmhWM1h1ang0b01rVTk1eHBKS3Y4ZmF5MHhMQVBudkJOU25RQ3VQSg?oc=5
+- Market Trading Guide: Buy Adani Power and UltraTech Cement on Tuesday for gains up to 12%
+  Nifty ended a three-session losing streak with strong gains, forming a bullish reversal pattern. Analysts see potential near
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-power-and-ultratech-cement-on-tuesday-for-gains-up-to-12/articleshow/129613979.cms
 
-- Iran holds the key to reopening global energy markets - TradingView
-  Iran holds the key to reopening
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0QwaURWenJ0MVFtVlEyZ1dsRUVGYU5YRXREblRGZWNteVVxaTV2MTJZRWduTlk4VzJ3MlllcndyRXJNWGFUOW1BeUk4MkF0WEM0UGZ5R1E2d3pyVEJySWstVmtKcVZqbkRLWUFpSTVzNHdTelRwd1FWRHpZWFMwSEZlbTVLd1dLZGdoV1Rnb01pMXJtNk5sUTg4dnctelpwWURuazVFclJYYWRIUDVWN0xCTUZHcGpQdHZRWHVIamQ?oc=5
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- Gainers &amp; Losers: HDFC Bank, IDBI Bank among 7 big movers on Monday
-  Nifty surged 257 points, led by HDFC Bank, Bajel Projects, and Tejas Networks. IDBI Bank, Bandhan, Fino Payments Bank,
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-hdfc-bank-idbi-bank-among-7-big-movers-on-monday/slideshow/129610330.cms
+- US energy secretary hints at India role in securing Strait of Hormuz | India News - Hindustan Times
+  US energy secretary hints at India role in securing Strait of Hormuz
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNDBNNnNqS1BMRkJtSzh1TGtXeEY5VDJZLTEwRWcybVVjcFlrN3piQTZIcmlPMEJNN0oyX3V0eUptOVpxVTByY3JvUEFMb0xRV3FSd0MyeEtVMTZYM0RrT3MyejE1dUZ0MWR3TFdDRnh0OUxNWE9OdmVubnhzM2k3aGNqWUFiT3hLRUVwTEdRRy1OQUNPQlMzTHZJSkpfMElGanMzWl9iOEJocmMzMnlNTGtJTTBmbkZtQ2FaRGFiaTFVVzVYU3ctZXZuLTNHeGRLTWRmMWhzZlBRcENXVzAzc01Hay10eVR6NGxfZXFoMmJqSVpQckE5ZtIB_gFBVV95cUxNNWFaUk9OZ3FveEJ5Yi1zRFduY1VGeUs5LWFWenByd1hLMFlrQ25mZnI3SFplUnNzeHlzR1VOSWFIUkJ4anZwTzEwNDhyZG9ELXFyYTVVYXdCT1NWWGFPaFg3UTVxVVhEMFJlWDJEX09qam5yVUk0NWNzRVRqVEFYZ0lWSEpxYkItM1o3Slc3V0hycnd4T09xbkMxQ05kSnVsQ3BVOVNGY25mVXdaZ2ZzUnBuNXN5VzhueDVCaVZjdm1TTUw4dGI3dXZVaVhHRDJRaXFpUVF0d0ZXdFF1ZWJ1ZzlvNDI3aUdHbGwycndnOFVTaUs2aXExc25OdE54UQ?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: Dow Jones Today | US Stock Market Live Updates futures rise as tech stocks gain; Middle East conflict in focus
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/129610253.cms
-
-- Quote of the day by Ken Griffin-"Investors who find the best businesses to put their money behind are rewarded for their research"
-  Hedge fund billionaire Ken Griffin says long-term investing success comes from deep research and identifying companies with durable strengths. Focusing on fundamentals, quality businesses, and disciplined analysis helps investors navigate market cycles.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ken-griffin-investors-who-find-the-best-businesses-to-put-their-money-behind-are-rewarded-for-their-research/articleshow/129605789.cms
-
-- India's ethanol moment has arrived — and the industry says it's ready for more
-  India has mandated 20% ethanol in petrol from April 2026. This move bolsters farmer incomes and reduces foreign exchange outgo. Industry now eyeing further expansion into aviation fuel and cooking gas.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-ethanol-moment-has-arrived-and-the-industry-says-its-ready-for-more/articleshow/129608247.cms
-
-- Reliance said to work with six banks for Jio’s upcoming IPO
-  Reliance Industries Ltd. is working with six banks, including BofA Securities and Goldman Sachs Group, on the planned IPO of its telecom unit, Jio Platforms Ltd.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-said-to-work-with-six-banks-on-jios-upcoming-ipo/articleshow/129608265.cms
-
-- "Abandoning Thorium As Energy Source Is Suicidal For India," Scientist Warns - NDTV
-  "Abandoning Thorium As Energy Source
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0Z5czRKX1dZUXJPNnhvcmhkc0VsOWtjWWtmZmctQUZCam9VbHlPdFpjX2U2dDB3ajlTVDJfSTdBNC1FRXAyQWcyZm0zdmNnSU1GQ2tBNjFlaVhWbGdzckstTlR5SDZ2RlVmRFVFbHFLa2NmWHB3OW5UR3ZRNUZwUV9ZRWFKRDhldzlzZmppQmZ4RWpLNHhTeDdyZnZMVi00WlBHNC1lSkNLaVNYZWppNl94YjnSAbwBQVVfeXFMUEFWN3NGTVA0cnY2N0ZUZTh2MkpNMDZiMFpKN2dGbGl5VzA4dVIwSXlLcTI3R1VubUluSG1kaTYycjhETzdSRWRfN2JXSnRGRWlobXZBYzRudWlzVU1JalI4TlBCel9GUFpiMThLUGx0X21EUnBQcFlGNFM5azQ1UktiTlJ5UW5JZGVKQ1FxOWFoNHVTT0JjSGFmeWsydDJPSWh0SnNzbnBuSjRzWW1LRkhhbFVEdDRnNC1uQmM?oc=5
-
-- Jaishankar says Iran got nothing in 'exchange' for Indian-flagged ships' passage: ‘We have a relationship’ | India News - Hindustan Times
-  Jaishankar says Iran got nothing in 'exchange' for Indian-fl
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0NtTW8zS3R4SzdzaW9GX2xiLVJCR1R4bE02dW1UVk9LUE1FdzZjZHFhNHl0RXVGT0ZueWlhenRsWUV5UXhoWW5kbC02NUJqeS1QbU8tYm1oanFnRWxiZFFjeHZUQlZpV2Q4SlZvRjRhRDh1Q2tmTXd4RXBETVBKX0laT0VEamFZQXFvRS1IUDM4N3pDLXVnSFViT29nLVBSb21LUkVBRXR6cE9ickNhU2IxZFVKeUxpYVFZQTNrYUtWdUZ6dHhLaEh5VlU0RGw0NkJZYlltd0RpRmZtZ05MUjFsLUd2aXByeTNTOFRid0pLTE5hZTNOZNIB_gFBVV95cUxOOVhHS29jOFFaakotN2p0UWRiUGJadm0wb0tGMTdpYmJZUzVZXy0zVkFqZHBJTkVkaHhjNkFyYmxWQXJjbFdaYnd5RFJNVXZKWHJnRnd3REhwcVE0N1AwTXFrV0Q2WVB0SDJRUnVCckZ0TGdfTEtvNUpkNXZKNzJnX3A5aGRaRXB1VEpxUzNZR09lVm1rYjdaVlZsVjQ1b1JQZGhOdnBKdUZWSDUwWXg0SjgzZUlaS0ktdG5ObFNYSW1WeXNpVy10czd5NXkzc2hDR1lmVjFoTElEOTlSXzFSdVQtZF8tczlYVy04QWNObjM5ZHVLYkRvSzVDTmI4dw?oc=5
+- Odisha: Ten killed in trauma centre ICU fire in Cuttack - BBC
+  Odisha: Ten killed in trauma
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WnlEMzRNM2tDY1YtVUEzakxfLWpUVFNlSG1HeEtXTEFDY3lCcnFyOXI5SEZBSVp4MXNPNWJkb3ZoS3dTRmlUMmR5WEhlZjlGNzdXME1nalRGdw?oc=5
 
 - India LPG Cylinder Shortage News Live Updates: LPG-laden ship reaches Mundra Port; govt assures uninterrupted supply - The Times of India
   India LPG Cylinder Shortage News Live Updates: LPG-laden ship
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW8?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW_SAdgCQVVfeXFMTzRSM0ZwWmV5MTZmMWotUmxqbk9walBjNVhPQk1lUWhCTk5nSVN0YUVraHJxVHQ5SVc5SnlxbThXOGgwM1pyc0xYelV4T0FiZ1Q2TWxqTEo1WXhrNWJxQzBaZDFlSE9Jb1RRM2RLN1dsWVlqbGpTMko2SXBKS2Fmc3FVamF1MVdxM0hKSXBVOC03WEFYdjdCOEFyQWpRT3JiVHUzTkpVNURkMUdkX241MXo0RXR0SUVEUzdsYmg4eEh3cE01cTJCVURzcWRacDN0aGlpeWxSN2UwSF94LVJ3bkNtYjlUdzNKOTFIaDZXa2pENUcyTUhWdGlpX19HRHEwM0EtdF9vZWtVMVpBOEJSQ1NmUURiN0Z4LXF1X2tIX1pDVTBlcW10MDduaEgwQVNVcHhpX1NyN1AxQzhMdVc2eUpfdFo3cndYaEFXcVlzVy11ZFRWR045NFE?oc=5
 
-- India & Nordic countries underscore importance of leveraging both India-EU FTA & India-EFTA TEPA - News On AIR
-  India & Nordic countries underscore importance of leveraging both India-EU FTA &
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkQ5eWlWOURWVlZuOGNGTmQ5SlNXekdKcHgtTE9lRy10UHJ0TmszQlppZ092bVZCNENqc0NUWDgyMi14TG9BTGlVY0JmS2M4RXQ2WFZWT3BOZU8yWS10ZXFzenBpTk1mUi1JZDBzelZMNVF5LUZqRjdFQ2NLaGxTaFZFbG4za3JHN3pGY19GNk95UlZHUURxWGozMnFBek85aWdBc0JRVl9SN3Y3Q0ZVV2o2b2VsOXNFODVsWEllMA?oc=5
+- India news: Clashes erupt in Kolkata ahead of Modi rally - dw.com
+  India news: Clashes erupt in K
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGhpVTFIX1VBV3hfVmxFa2tWTTI4NXZoRWgyb19YbFFpYWJqU3J2SzhQcXdwbklUYnltN2d2Ml95cjJadDRVTmtTeEZlb3VnemV4aVVOMnBGbnRrYm9VUzRCdllUdTFVTXpNcFZqZUotZXJ6aUd6YmFuRjhRa2QwTmhTME9hWXFuVXA3NjgyNTdrWnVxMHc?oc=5
 
-- Evening news wrap: Iran warns Hormuz can’t be used for attacks; BJP releases 1st candidate list for Benga - The Times of India
-  Iran warns Hormuz can't be used for attacks; BJP releases 1st candidate list for
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOeWUyLUZUcGRlWFk4Zm1CMVBuN0F5U1FrQlpZM2RZOEE0NE5GSndjSS1pcGdiUG81Qzh4OG5zN3c1dHVYRFdlTjhIei1YUUFDbGR0eTNLQ2FkdF9zcFQ5UnVMQ01fZVRENlFKSHVzTFdCYzh4SkVfTXI5WllQbUdaY01LbjNyQVdLbWV3dldqdXRfMlhPNGR0emRTb1g5R0dveDJVeDZjV2g2aUY1N3pZWGhnQkdybVRkZG5LTlR5V2RtUHZjaXZQOHFzd0E0Nm5YclFjWWo0RDZnNmdkMGxCcHlYek9BMGFVUWs4WHNPSnNSc0hHRnlhX3NqVHBoRXBHLXkyMkRtZlZ5VFF6cFJtNUln0gGXAkFVX3lxTE9jWTUyRFVvOEFteHEzWDRWU3hEbVpRem9aZXlRcVJWVnJqRm1uU3RHaXpLVWpydndzRXR2SFpOU1QtQ25FUkJZMmRoNkU4aVBRYXpUUW1HZ3RWZ0ZYSzZDNUU4cnNoemI1VG9kcVF5RUQzcHpOanQxVkt2U2tWVFFxa3A4dXVPa2F2UjBiYWxsMmdESHlNeVk0YWxaX1MxUXFtS1lxRERHUlNtN3Q5LTZMX2Z1TERtaFhjdnFBM1BCenVPdVBRdk5HUjRSbU90NXhjaUNNbkc2a0ctR1JMbUlWbEFmS2psUkVUTi04UnpKaDA1UU9uVFhpT050MHpGSEFoaVJ2Q3g5OVBrSDN6cUd1ZFBjb21JOA?oc=5
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- "Abandoning Thorium As Energy Source Is Suicidal For India," Scientist Warns - NDTV
-  "Abandoning Thorium As Energy Source
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0Z5czRKX1dZUXJPNnhvcmhkc0VsOWtjWWtmZmctQUZCam9VbHlPdFpjX2U2dDB3ajlTVDJfSTdBNC1FRXAyQWcyZm0zdmNnSU1GQ2tBNjFlaVhWbGdzckstTlR5SDZ2RlVmRFVFbHFLa2NmWHB3OW5UR3ZRNUZwUV9ZRWFKRDhldzlzZmppQmZ4RWpLNHhTeDdyZnZMVi00WlBHNC1lSkNLaVNYZWppNl94YjnSAbwBQVVfeXFMUEFWN3NGTVA0cnY2N0ZUZTh2MkpNMDZiMFpKN2dGbGl5VzA4dVIwSXlLcTI3R1VubUluSG1kaTYycjhETzdSRWRfN2JXSnRGRWlobXZBYzRudWlzVU1JalI4TlBCel9GUFpiMThLUGx0X21EUnBQcFlGNFM5azQ1UktiTlJ5UW5JZGVKQ1FxOWFoNHVTT0JjSGFmeWsydDJPSWh0SnNzbnBuSjRzWW1LRkhhbFVEdDRnNC1uQmM?oc=5
+- US energy secretary hints at India role in securing Strait of Hormuz | India News - Hindustan Times
+  US energy secretary hints at India role in securing Strait of Hormuz
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNDBNNnNqS1BMRkJtSzh1TGtXeEY5VDJZLTEwRWcybVVjcFlrN3piQTZIcmlPMEJNN0oyX3V0eUptOVpxVTByY3JvUEFMb0xRV3FSd0MyeEtVMTZYM0RrT3MyejE1dUZ0MWR3TFdDRnh0OUxNWE9OdmVubnhzM2k3aGNqWUFiT3hLRUVwTEdRRy1OQUNPQlMzTHZJSkpfMElGanMzWl9iOEJocmMzMnlNTGtJTTBmbkZtQ2FaRGFiaTFVVzVYU3ctZXZuLTNHeGRLTWRmMWhzZlBRcENXVzAzc01Hay10eVR6NGxfZXFoMmJqSVpQckE5ZtIB_gFBVV95cUxNNWFaUk9OZ3FveEJ5Yi1zRFduY1VGeUs5LWFWenByd1hLMFlrQ25mZnI3SFplUnNzeHlzR1VOSWFIUkJ4anZwTzEwNDhyZG9ELXFyYTVVYXdCT1NWWGFPaFg3UTVxVVhEMFJlWDJEX09qam5yVUk0NWNzRVRqVEFYZ0lWSEpxYkItM1o3Slc3V0hycnd4T09xbkMxQ05kSnVsQ3BVOVNGY25mVXdaZ2ZzUnBuNXN5VzhueDVCaVZjdm1TTUw4dGI3dXZVaVhHRDJRaXFpUVF0d0ZXdFF1ZWJ1ZzlvNDI3aUdHbGwycndnOFVTaUs2aXExc25OdE54UQ?oc=5
 
-- Jaishankar says Iran got nothing in 'exchange' for Indian-flagged ships' passage: ‘We have a relationship’ | India News - Hindustan Times
-  Jaishankar says Iran got nothing in 'exchange' for Indian-fl
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0NtTW8zS3R4SzdzaW9GX2xiLVJCR1R4bE02dW1UVk9LUE1FdzZjZHFhNHl0RXVGT0ZueWlhenRsWUV5UXhoWW5kbC02NUJqeS1QbU8tYm1oanFnRWxiZFFjeHZUQlZpV2Q4SlZvRjRhRDh1Q2tmTXd4RXBETVBKX0laT0VEamFZQXFvRS1IUDM4N3pDLXVnSFViT29nLVBSb21LUkVBRXR6cE9ickNhU2IxZFVKeUxpYVFZQTNrYUtWdUZ6dHhLaEh5VlU0RGw0NkJZYlltd0RpRmZtZ05MUjFsLUd2aXByeTNTOFRid0pLTE5hZTNOZNIB_gFBVV95cUxOOVhHS29jOFFaakotN2p0UWRiUGJadm0wb0tGMTdpYmJZUzVZXy0zVkFqZHBJTkVkaHhjNkFyYmxWQXJjbFdaYnd5RFJNVXZKWHJnRnd3REhwcVE0N1AwTXFrV0Q2WVB0SDJRUnVCckZ0TGdfTEtvNUpkNXZKNzJnX3A5aGRaRXB1VEpxUzNZR09lVm1rYjdaVlZsVjQ1b1JQZGhOdnBKdUZWSDUwWXg0SjgzZUlaS0ktdG5ObFNYSW1WeXNpVy10czd5NXkzc2hDR1lmVjFoTElEOTlSXzFSdVQtZF8tczlYVy04QWNObjM5ZHVLYkRvSzVDTmI4dw?oc=5
-
-- India LPG Cylinder Shortage News Live Updates: LPG-laden ship reaches Mundra Port; govt assures uninterrupted supply - The Times of India
-  India LPG Cylinder Shortage News Live Updates: LPG-laden ship
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW8?oc=5
-
-- India & Nordic countries underscore importance of leveraging both India-EU FTA & India-EFTA TEPA - News On AIR
-  India & Nordic countries underscore importance of leveraging both India-EU FTA &
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkQ5eWlWOURWVlZuOGNGTmQ5SlNXekdKcHgtTE9lRy10UHJ0TmszQlppZ092bVZCNENqc0NUWDgyMi14TG9BTGlVY0JmS2M4RXQ2WFZWT3BOZU8yWS10ZXFzenBpTk1mUi1JZDBzelZMNVF5LUZqRjdFQ2NLaGxTaFZFbG4za3JHN3pGY19GNk95UlZHUURxWGozMnFBek85aWdBc0JRVl9SN3Y3Q0ZVV2o2b2VsOXNFODVsWEllMA?oc=5
-
-- Evening news wrap: Iran warns Hormuz can’t be used for attacks; BJP releases 1st candidate list for Benga - The Times of India
-  Iran warns Hormuz can't be used for attacks; BJP releases 1st candidate list for
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOeWUyLUZUcGRlWFk4Zm1CMVBuN0F5U1FrQlpZM2RZOEE0NE5GSndjSS1pcGdiUG81Qzh4OG5zN3c1dHVYRFdlTjhIei1YUUFDbGR0eTNLQ2FkdF9zcFQ5UnVMQ01fZVRENlFKSHVzTFdCYzh4SkVfTXI5WllQbUdaY01LbjNyQVdLbWV3dldqdXRfMlhPNGR0emRTb1g5R0dveDJVeDZjV2g2aUY1N3pZWGhnQkdybVRkZG5LTlR5V2RtUHZjaXZQOHFzd0E0Nm5YclFjWWo0RDZnNmdkMGxCcHlYek9BMGFVUWs4WHNPSnNSc0hHRnlhX3NqVHBoRXBHLXkyMkRtZlZ5VFF6cFJtNUln0gGXAkFVX3lxTE9jWTUyRFVvOEFteHEzWDRWU3hEbVpRem9aZXlRcVJWVnJqRm1uU3RHaXpLVWpydndzRXR2SFpOU1QtQ25FUkJZMmRoNkU4aVBRYXpUUW1HZ3RWZ0ZYSzZDNUU4cnNoemI1VG9kcVF5RUQzcHpOanQxVkt2U2tWVFFxa3A4dXVPa2F2UjBiYWxsMmdESHlNeVk0YWxaX1MxUXFtS1lxRERHUlNtN3Q5LTZMX2Z1TERtaFhjdnFBM1BCenVPdVBRdk5HUjRSbU90NXhjaUNNbkc2a0ctR1JMbUlWbEFmS2psUkVUTi04UnpKaDA1UU9uVFhpT050MHpGSEFoaVJ2Q3g5OVBrSDN6cUd1ZFBjb21JOA?oc=5
-
-- "Abandoning Thorium As Energy Source Is Suicidal For India," Scientist Warns - NDTV
-  "Abandoning Thorium As Energy Source
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0Z5czRKX1dZUXJPNnhvcmhkc0VsOWtjWWtmZmctQUZCam9VbHlPdFpjX2U2dDB3ajlTVDJfSTdBNC1FRXAyQWcyZm0zdmNnSU1GQ2tBNjFlaVhWbGdzckstTlR5SDZ2RlVmRFVFbHFLa2NmWHB3OW5UR3ZRNUZwUV9ZRWFKRDhldzlzZmppQmZ4RWpLNHhTeDdyZnZMVi00WlBHNC1lSkNLaVNYZWppNl94YjnSAbwBQVVfeXFMUEFWN3NGTVA0cnY2N0ZUZTh2MkpNMDZiMFpKN2dGbGl5VzA4dVIwSXlLcTI3R1VubUluSG1kaTYycjhETzdSRWRfN2JXSnRGRWlobXZBYzRudWlzVU1JalI4TlBCel9GUFpiMThLUGx0X21EUnBQcFlGNFM5azQ1UktiTlJ5UW5JZGVKQ1FxOWFoNHVTT0JjSGFmeWsydDJPSWh0SnNzbnBuSjRzWW1LRkhhbFVEdDRnNC1uQmM?oc=5
-
-- Jaishankar says Iran got nothing in 'exchange' for Indian-flagged ships' passage: ‘We have a relationship’ | India News - Hindustan Times
-  Jaishankar says Iran got nothing in 'exchange' for Indian-fl
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0NtTW8zS3R4SzdzaW9GX2xiLVJCR1R4bE02dW1UVk9LUE1FdzZjZHFhNHl0RXVGT0ZueWlhenRsWUV5UXhoWW5kbC02NUJqeS1QbU8tYm1oanFnRWxiZFFjeHZUQlZpV2Q4SlZvRjRhRDh1Q2tmTXd4RXBETVBKX0laT0VEamFZQXFvRS1IUDM4N3pDLXVnSFViT29nLVBSb21LUkVBRXR6cE9ickNhU2IxZFVKeUxpYVFZQTNrYUtWdUZ6dHhLaEh5VlU0RGw0NkJZYlltd0RpRmZtZ05MUjFsLUd2aXByeTNTOFRid0pLTE5hZTNOZNIB_gFBVV95cUxOOVhHS29jOFFaakotN2p0UWRiUGJadm0wb0tGMTdpYmJZUzVZXy0zVkFqZHBJTkVkaHhjNkFyYmxWQXJjbFdaYnd5RFJNVXZKWHJnRnd3REhwcVE0N1AwTXFrV0Q2WVB0SDJRUnVCckZ0TGdfTEtvNUpkNXZKNzJnX3A5aGRaRXB1VEpxUzNZR09lVm1rYjdaVlZsVjQ1b1JQZGhOdnBKdUZWSDUwWXg0SjgzZUlaS0ktdG5ObFNYSW1WeXNpVy10czd5NXkzc2hDR1lmVjFoTElEOTlSXzFSdVQtZF8tczlYVy04QWNObjM5ZHVLYkRvSzVDTmI4dw?oc=5
+- Odisha: Ten killed in trauma centre ICU fire in Cuttack - BBC
+  Odisha: Ten killed in trauma
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE16WnlEMzRNM2tDY1YtVUEzakxfLWpUVFNlSG1HeEtXTEFDY3lCcnFyOXI5SEZBSVp4MXNPNWJkb3ZoS3dTRmlUMmR5WEhlZjlGNzdXME1nalRGdw?oc=5
 
 - India LPG Cylinder Shortage News Live Updates: LPG-laden ship reaches Mundra Port; govt assures uninterrupted supply - The Times of India
   India LPG Cylinder Shortage News Live Updates: LPG-laden ship
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW8?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW_SAdgCQVVfeXFMTzRSM0ZwWmV5MTZmMWotUmxqbk9walBjNVhPQk1lUWhCTk5nSVN0YUVraHJxVHQ5SVc5SnlxbThXOGgwM1pyc0xYelV4T0FiZ1Q2TWxqTEo1WXhrNWJxQzBaZDFlSE9Jb1RRM2RLN1dsWVlqbGpTMko2SXBKS2Fmc3FVamF1MVdxM0hKSXBVOC03WEFYdjdCOEFyQWpRT3JiVHUzTkpVNURkMUdkX241MXo0RXR0SUVEUzdsYmg4eEh3cE01cTJCVURzcWRacDN0aGlpeWxSN2UwSF94LVJ3bkNtYjlUdzNKOTFIaDZXa2pENUcyTUhWdGlpX19HRHEwM0EtdF9vZWtVMVpBOEJSQ1NmUURiN0Z4LXF1X2tIX1pDVTBlcW10MDduaEgwQVNVcHhpX1NyN1AxQzhMdVc2eUpfdFo3cndYaEFXcVlzVy11ZFRWR045NFE?oc=5
 
-- India & Nordic countries underscore importance of leveraging both India-EU FTA & India-EFTA TEPA - News On AIR
-  India & Nordic countries underscore importance of leveraging both India-EU FTA &
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkQ5eWlWOURWVlZuOGNGTmQ5SlNXekdKcHgtTE9lRy10UHJ0TmszQlppZ092bVZCNENqc0NUWDgyMi14TG9BTGlVY0JmS2M4RXQ2WFZWT3BOZU8yWS10ZXFzenBpTk1mUi1JZDBzelZMNVF5LUZqRjdFQ2NLaGxTaFZFbG4za3JHN3pGY19GNk95UlZHUURxWGozMnFBek85aWdBc0JRVl9SN3Y3Q0ZVV2o2b2VsOXNFODVsWEllMA?oc=5
+- India news: Clashes erupt in Kolkata ahead of Modi rally - dw.com
+  India news: Clashes erupt in K
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGhpVTFIX1VBV3hfVmxFa2tWTTI4NXZoRWgyb19YbFFpYWJqU3J2SzhQcXdwbklUYnltN2d2Ml95cjJadDRVTmtTeEZlb3VnemV4aVVOMnBGbnRrYm9VUzRCdllUdTFVTXpNcFZqZUotZXJ6aUd6YmFuRjhRa2QwTmhTME9hWXFuVXA3NjgyNTdrWnVxMHc?oc=5
 
-- Evening news wrap: Iran warns Hormuz can’t be used for attacks; BJP releases 1st candidate list for Benga - The Times of India
-  Iran warns Hormuz can't be used for attacks; BJP releases 1st candidate list for
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOeWUyLUZUcGRlWFk4Zm1CMVBuN0F5U1FrQlpZM2RZOEE0NE5GSndjSS1pcGdiUG81Qzh4OG5zN3c1dHVYRFdlTjhIei1YUUFDbGR0eTNLQ2FkdF9zcFQ5UnVMQ01fZVRENlFKSHVzTFdCYzh4SkVfTXI5WllQbUdaY01LbjNyQVdLbWV3dldqdXRfMlhPNGR0emRTb1g5R0dveDJVeDZjV2g2aUY1N3pZWGhnQkdybVRkZG5LTlR5V2RtUHZjaXZQOHFzd0E0Nm5YclFjWWo0RDZnNmdkMGxCcHlYek9BMGFVUWs4WHNPSnNSc0hHRnlhX3NqVHBoRXBHLXkyMkRtZlZ5VFF6cFJtNUln0gGXAkFVX3lxTE9jWTUyRFVvOEFteHEzWDRWU3hEbVpRem9aZXlRcVJWVnJqRm1uU3RHaXpLVWpydndzRXR2SFpOU1QtQ25FUkJZMmRoNkU4aVBRYXpUUW1HZ3RWZ0ZYSzZDNUU4cnNoemI1VG9kcVF5RUQzcHpOanQxVkt2U2tWVFFxa3A4dXVPa2F2UjBiYWxsMmdESHlNeVk0YWxaX1MxUXFtS1lxRERHUlNtN3Q5LTZMX2Z1TERtaFhjdnFBM1BCenVPdVBRdk5HUjRSbU90NXhjaUNNbkc2a0ctR1JMbUlWbEFmS2psUkVUTi04UnpKaDA1UU9uVFhpT050MHpGSEFoaVJ2Q3g5OVBrSDN6cUd1ZFBjb21JOA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-16 13:03:51 UTC_
+_Last updated: 2026-03-16 18:59:16 UTC_
