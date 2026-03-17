@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
+- Gold Rate Today, March 17: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-17-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10585993/
+
+- Theft at Kerala’s Kowdiar Palace: Royal family thought jewellery would be found within palace, say police
+  
+  🔗 https://indianexpress.com/article/india/theft-at-keralas-kowdiar-palace-royal-family-thought-jewellery-would-be-found-within-palace-say-police-10585568/
+
+- Litigant brings ‘miscarried foetus’ to High Court, judges warn against bid to ‘secure undue sympathy’
+  
+  🔗 https://indianexpress.com/article/india/litigant-brings-miscarried-foetus-to-high-court-judges-warn-against-bid-to-secure-undue-sympathy-10585572/
+
+- Two Uttarakhand IPS officers move High Court over ‘mala fide’ forced deputation to lower rank
+  
+  🔗 https://indianexpress.com/article/india/two-uttarakhand-ips-officers-move-high-court-over-mala-fide-forced-deputation-to-lower-rank-10585566/
+
 - Suspension of all 8 Opposition MPs to be revoked today
   
   🔗 https://indianexpress.com/article/india/suspension-of-all-8-opposition-mps-to-be-revoked-today-10585620/
 
-- ‘State secy sidelined me to ensure his wife gets seat’: Stir in CPM’s Kannur bastion as senior leader quits party
+- Nvidia Built the AI Era. Now It Has to Defend It.
   
-  🔗 https://indianexpress.com/article/india/kerala-state-secretary-wife-gets-seat-kannur-senior-cpim-leader-quits-party-10585567/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-built-the-ai-era-now-it-has-to-defend-it-10585861/
 
-- Centre hikes Arthiyas commission on wheat, paddy procurement
+- Tennessee minors sue Musk’s xAI, alleging Grok generated sexual images of them
   
-  🔗 https://indianexpress.com/article/india/centre-hikes-arthiyas-commission-on-wheat-paddy-procurement-10585607/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tennessee-minors-sue-musks-xai-alleging-grok-generated-sexual-images-of-them-10585840/
 
-- Every country has right to act keeping own interests in mind: Israel envoy
+- Skild AI, Nvidia deploy robot brain on Blackwell assembly lines
   
-  🔗 https://indianexpress.com/article/india/every-country-has-right-to-act-keeping-own-interests-in-mind-israel-envoy-10585600/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/skild-ai-nvidia-deploy-robot-brain-on-blackwell-assembly-lines-10585839/
 
-- Free gas, waiving off security deposit: How some distribution firms are incentivising switch from LPG to PNG
+- Nvidia bets on AI inference as chip revenue opportunity hits $1 trillion
   
-  🔗 https://indianexpress.com/article/india/west-asia-conflict-distribution-companies-incentivise-switch-from-lpg-to-png-10585596/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-bets-on-ai-inference-as-chip-revenue-opportunity-hits-1-trillion-10585838/
 
-- Apple AirPods Max 2 launched: Better noise cancellation, new AI features; India price at Rs 67,900
+- Apple’s new Rs 67,900 AirPods Max 2 can now translate your live conversations in real-time
   
   🔗 https://indianexpress.com/article/technology/apple-airpods-max-2-india-launch-price-features-10585149/
 
-- Nvidia GTC 2026 keynote livestream: How to watch Jensen Huang’s AI announcements live
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-gtc-2026-keynote-livestream-how-to-watch-jensen-huang-ai-10585058/
+- The Leela acquires Coorg resort for up to  ₹560 crore, deepens push into nature-led luxury
+  The Leela Palaces has purchased a 71-villa resort in Coorg for  ₹560 crore. This acquisition supports the company's strategy to focus on high-end, luxury hospitality
+  🔗 https://www.livemint.com/companies/news/the-leela-acquires-coorg-resort-for-up-to-560-crore-deepens-push-into-nature-led-luxury-11773719240913.html
 
-- Nvidia GTC 2026: What to expect from Jensen Huang’s keynote including next-gen GPUs, Groq deal
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-gtc-2026-what-to-expect-jensen-huang-keynote-10584907/
+- Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock
+  Closing arguments set to begin in Twitter shareholder trial
+  🔗 https://www.livemint.com/companies/closing-arguments-set-to-begin-in-twitter-shareholder-trial-accusing-musk-of-driving-down-stock-11773723700853.html
 
-- Accel and Google unveil first cohort of AI startups for India-focused accelerator programme
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/accel-google-unveil-first-cohort-ai-startups-accelerator-10584755/
+- Jensen Huang says Nvidia will generate $1 trillion revenue through 2027 with AI chips — Key highlights from GTC 2026
+  This is the first chip from the startup that Nvidia mostly acquired in a $20 billion asset purchase in December last year.
+  🔗 https://www.livemint.com/companies/news/jensen-huang-says-nvidia-will-generate-1-trillion-revenue-through-2027-with-ai-chips-key-highlights-from-gtc-2026-11773713124951.html
 
-- British teens resist Australian-style social media ban
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/british-teens-resist-australian-style-social-media-ban-10584744/
-
-- IT firms rethink billing as artificial intelligence reshapes work
-  US-based IT services company EPAM Systems Inc and homegrown Tech Mahindra Ltd are looking to include artificial intelligence costs in billing rates.
-  🔗 https://www.livemint.com/companies/it-companies-devise-new-billing-strategies-for-ai-work-11773646293307.html
+- OpenAI may owe Elon Musk as much as $109 billion; Tesla boss says ‘will in no way enrich myself’
+  Elon Musk's fraud lawsuit against Sam Altman, OpenAI and Microsoft threatens to reshape the entire industry. As the most consequential AI trial of the decade approaches
+  🔗 https://www.livemint.com/companies/people/openai-may-owe-elon-musk-as-much-as-109-billion-tesla-boss-says-will-in-no-way-enrich-myself-11773713116471.html
 
 - Data centre boom brightens engineering job prospects—100,000 new jobs likely
   AI, data localization and tax sops spur investment in India’s data centre industry. The sector is seen generating over 100,000 new engineering jobs in the coming years
   🔗 https://www.livemint.com/companies/news/indias-data-centre-boom-engineering-jobs-ai-it-services-11773658963275.html
 
-- Atomberg’s next spin as it prepares for IPO: From selling fans to supplying components
-  Atomberg is expanding beyond consumer appliances into supplying motors, controllers and other components to manufacturers. The move could open a new growth engine for the company as it prepares for a public listing.
-  🔗 https://www.livemint.com/companies/news/atomberg-fans-bldc-atomberg-ipo-plan-appliance-maker-india-consumer-electronics-supply-chains-11773641965354.html
+- Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 17 March 2026
+  MCX gold April contracts increased by more than  ₹650 per 10 grams to 1,57,130. In the previous session, the MCXGold April futures contract ended at  1,55,
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-check-the-live-price-of-22k-24k-and-18k-gold-prices-on-17-march-2026-delhi-mumbai-chennai-kolkata-11773727897468.html
 
-- Asian Private Bankers Go on Blitz to Calm Private Credit Nerves
-  Private bankers across Asia are scrambling to contain client anxiety. redemption pressures ripple through the $1.8 trillion private credit market.
-  🔗 https://www.livemint.com/companies/asian-private-bankers-go-on-blitz-to-calm-private-credit-nerves-11773696512440.html
+- Adani Group stock Adani Power share rallies 7.5% in 2 days on big order win; do you own?
+  Adani Power has secured five long-term PSA bids totaling 10,400 MW. It aims to expand capacity to 41.87 GW by FY32 with significant investments. The stock has risen 7.
+  🔗 https://www.livemint.com/market/stock-market-news/adani-group-stock-adani-power-share-rallies-7-5-in-2-days-on-big-order-win-do-you-own-11773729100847.html
 
-- Bankman-Fried’s Mom Told to Not Call Court on Son’s Behalf
-  FTX co-founder Sam Bankman-Fried's mother may have been a law professor at Stanford University. But the judge who sentenced her son to 25 years in prison
-  🔗 https://www.livemint.com/companies/bankmanfrieds-mom-told-to-not-call-court-on-son-s-behalf-11773693241344.html
+- Vodafone Idea, MRPL, YES Bank, Eternal— These are among the top most traded stocks on the NSE today
+  Vodafone Idea, Tata Silver Exchange Traded Fund, Mangalore Refinery and Petrochemicals (MRPL), YES Bank, Eternal, ITI,
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-mrpl-yes-bank-eternal-these-are-among-the-top-most-traded-stocks-on-the-nse-today-11773726501996.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 17 March 2026
-  Sumeet Bagadia recommends five shares to buy today. Acutaas Chemicals, Aether Industries, Sai Life Sciences
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-17-march-2026-11773710131632.html
+- Nifty 50 can crash to 21,000 if crude oil prices remain around $100 for next 3-4 months amid US-Iran war: Seshadri Sen
+  Once crude oil prices moderate to around $70 per barrel, India’s economy and corporate earnings are expected to recover. Seshadri Sen believes the correction would be temporary.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-can-crash-to-21-000-if-crude-oil-prices-remain-around-100-for-next-3-4-months-amid-us-iran-war-seshadri-sen-11773727682945.html
 
-- Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US-Iran war to Nasdaq, Nikkei rally
-  Gift Nifty was trading around 23,504 level, a premium of nearly 75 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-iran-war-to-nasdaq-nikkei-rally-11773684132565.html
+- Penny stock under Re 1 hits upper circuit following stock market rebound
+  Pulsar International said that following the milestone of crossing  ₹900 million in revenues from the verticals.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-pulsar-international-hits-upper-circuit-following-stock-market-rebound-11773726095248.html
 
-- Gold, silver rates today: Gold prices near $5,000/oz, silver prices at $80. Is it the right time to buy?
-  Spot gold rate today was trading marginally higher at $5,008 per ounce. Spot silver prices were down 0.21% to $80.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-near-5-000-oz-silver-prices-at-80-is-it-the-right-time-to-buy-11773708069194.html
-
-- Is PG Electroplast headed towards  ₹400?
-  PG Electroplast shares have fallen amid LNG supply disruptions and
-  🔗 https://www.livemint.com/market/stock-market-news/pg-electroplast-stock-analysis-future-investment-decision-guide-11773650580057.html
-
-- Stock recommendations for 17 March from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 17 March. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-17-march-marketsmith-india-sensex-nifty-11773662763790.html
+- Poco X8 Pro, X8 Pro Max India price leaks just hours ahead of launch: here's what to expect
+  Poco is launching its Poco X8 Pro series globally and in India today. Leaked prices suggest the X 8 Pro will cost  ₹33,999 for the 8GB model
+  🔗 https://www.livemint.com/technology/gadgets/poco-x8-pro-x8-pro-max-india-price-leaks-just-hours-ahead-of-launch-heres-what-to-expect-11773728184598.html
 
 - Apple debuts AirPods Max 2 headphones: What's in for musicians, podcasters and gamers?
   The AirPods Max 2 offer active noise cancellation that’s 1.5x more effective than the original
@@ -96,49 +100,85 @@
   The move comes shortly after Musk reorganized the xAI team, significantly cutting down the straff. Musk claims xAI will match leading AI labs like Anthropic, OpenAI
   🔗 https://www.livemint.com/technology/tech-news/days-after-sweeping-layoffs-elon-musk-vows-xai-will-match-rivals-google-anthropic-and-openai-this-year-11773557212769.html
 
-- Techie shrinks dog's tumor by half after using ChatGPT to design ‘first personalized cancer vaccine’
-  Techie Paul Conyngham developed a custom mRNA vaccine for his dog, Rose, using ChatGPT and AlphaFold. The AI-assisted process involved
-  🔗 https://www.livemint.com/technology/tech-news/techie-shrinks-dogs-tumor-by-half-after-using-chatgpt-to-design-first-personalized-cancer-vaccine-11773562362158.html
+- Iran war deepens correction risk: Is Nifty headed toward the 21,000 zone?
+  Indian equities remain under pressure amid West Asia tensions. Analysts see the 21,000–22,000 zone as a potential bottom, backed by technical patterns, valuations, and Fibonacci levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iran-war-deepens-correction-risk-is-nifty-headed-toward-the-21000-zone/articleshow/129625798.cms
 
-- LME Trading Restored After Two-Hour Halt Roiled Metals Markets - Bloomberg.com
-  LME Trading Restored After Two
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1BaVGd0SFZnODZyTXZvUzhRcktON2hBWUhxUHllclZpcWlWMDlaSmFqWEsxMGpQSjFpbGFNaURWZzdoQy0xN3lkd21kS0xITC0xS3VZVE53MGQ0NVlxUW9oSDk0MEtOMjF3WUMzbjJDeFdVSmY2Z04zWlkwblNSUjFEaVlSaDJ5UktJc0lLVWlZUkwwemVhNDdvQ2x5Q1VHNGhESWFlSWxKQ0hnbjd4TQ?oc=5
+- Aggressively buy Eternal shares now after 40% crash! Why JM Financial feels gas crisis impact on Zomato is overstated
+   JM Financial believes concerns around the LPG crisis and competition are overstated. The brokerage expects steady growth in Zomato and Blinkit businesses.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aggressively-buy-eternal-shares-now-after-40-crash-why-jm-financial-feels-gas-crisis-impact-on-zomato-is-overstated/articleshow/129625753.cms
 
-- Sensex Today | Nifty 50 | Stock Market Highlights | Closing Bell: Sensex ends 939 pts higher on fag-end b... - The Economic Times
-  Sensex ends 939 pts higher on fag-end b...
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNWEliMXNqdmZ1akxyc2w0el9nSGMyQzRXaXFTdnAzTjdjMDljR2pkSUFZZGNBSU9aZXBpR3JyUTItVV80aFVxeHRHdlJqVHhHN242RGhtcXBTT29UN0UwU1NUU0VqTzBVVzUzRmNlMkFpc3ZYLXpUT3FTc2RvYjA3NC10VUtMMkpTVk5JaEUxRGtTb25iQnVlblA5bW5RQzR0MW9EeU93eXVHY2txNTRFdUJ2MGkycDNNNTh5Z0RKMDk2NjE4dVNDdHRWSFRGT0ZxZFkwM2c3bW1jcWVWOGFVQlRyV09MWi1DT3otc05zaVNOOUNka0VLRVFfa0MwY0dzbEU1d29zV1lEVFhtbDlj0gGUAkFVX3lxTE85T3lkN0VfMC1RWHlqLWxJaEE4Q0ZhV2Uwbjh3R09TSnpmSndSYjFVbDE1UFhEaEYwWFE2c0hWVy0xSzRQdzZuaXF6RnItdjh0S0R2TGVucjFXbGlseV9WeFJRZ21yUDFIMFRBSks5RE1qZTg2Z09BbWJRWmo0S01TWHI4cF9KeXdwRXp5X1NPeklObENpbHB0QXdkY2VNclByTGZHTDlPRGxJMExTWDBadlFMMTdUd1pXQy1Md2FLMm1xOEpuei1sZGtwdTk5M05YWWlYZW90cTdKSHNxcXptX1MyazM4NGxVQlFzQmhWM1h1ang0b01rVTk1eHBKS3Y4ZmF5MHhMQVBudkJOU25RQ3VQSg?oc=5
+- Naredco partners with realty portal Magicbricks for research, market intelligence in property sector
+  Realty body Naredco has partnered with Magicbricks to boost data analytics, research, and market intelligence. The collaboration aims to foster a transparent, data-driven real estate sector, empowering consumers, investors, and policymakers.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/naredco-partners-with-realty-portal-magicbricks-for-research-market-intelligence-in-property-sector/articleshow/129625177.cms
 
-- Closing Bell: Market snaps 3-day fall; Nifty above 23,400, Sensex surges 939 pts - Moneycontrol.com
-  The Dow Jones Industrial Average closed at a record high on
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxORHZHZ0V5bDEzZXNhb2p3NEFadzZRa1owSXBHN0Uybk4wOTAyZTczclI4QUVLaXdDWFByYkNkX3FSM1NwUjdBMmFpVXg4YVhUS3lpeklRelU0V3ZCWUd4VENpQ0VyOXF0NEc1WW1ZNEEwS1RXS2tXZnlrZVhhZEduMjN3b2ZzLUM2OFpFSWdSOE1xWlBGeVpDaU44ZDRPNk93ZlFlalAzQkZETkR5bWFFTlI3TVRGdUVjOHdtTFZlaWpfRzVTRVdsWGJfSE9PSVhsS3I5TV9MX0Zvdm9uVWEtTXVxZ19zUEhrcV95NDh5bDYxeUtmVGRURU8yZENtUVg3OUR3QkMwc0FrZFNPbjE5eFliRdIBmAJBVV95cUxQWnMyZXFsM25fTV9YNUYtekREWEdBWGZ5d3lsaXljenZTMG5WOGhjQmhZWW9GbEpYdEZJWVJybE9xVzJWUWRSUklTRjdIcUdnUF9xblJZYzZYalVWY0JMQ3Y0YmtIbWNsa3Z6amRZNjZKbnZ6ME9JVjdIMHoxc3doNTRKMjZDSktoZXdvT3RXTVJNdnJFSkpSbG5IMVEzVWNvN3R1RmQtcVFQczBqU1ptWEtXMWZYZmdZbkltckdwUS1mQk5PY3lCMUsycktRdV9CZUc2R1M2U1psTFcxV3pKSnhHOGJyOWN4MFNBbUx4cXdxRTNuUXJjTkotVjhOQmZLX0ZJQlZfT2t6LVUtdmpyRkpxRUhubFkw?oc=5
+- Bitcoin nears $75K as strong technical signals and short liquidations accelerate rally
+  Bitcoin surged past the $75,000 mark, propelled by strong technical indicators and significant derivatives activity. The cryptocurrency experienced a notable rally, with Ethereum and several altcoins also showing gains.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-nears-75k-as-strong-technical-signals-and-short-liquidations-accelerate-rally/articleshow/129624799.cms
 
-- Sensex Today | Stock Market Highlights: Sensex jumps 939 points, Nifty 50 ends above 23,400 - CNBC TV18
-  Sensex jumps 939 points, Nifty 50 ends above 23,
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLTAxOGJWS1BuSExkLWkxSGwzcHBFMHJRLWcxQ2ZTXzN3MU84Rk5yalJmWlRUOXpQQjI3UGMxM25wX2szS2dGRTk5SlRFdXR0VnRlNVlXbXZaN2V3SE5xak9HNzg5V2xQWklMeGJVdU50aVE3QnJ4QU1jMzg3b2VyM0VNNDlyazExeFR6MHdkVjZINDhNYUdnYXcyVmtzQjU5ZHRlQ2g1MzVrS096UUprRVc3Wnh1cnB4emsyeU42U0plZ19WUURORlVKM3JieW9VTTNSR2JvVjVKS3YwWi1mTWRjWVpjYWw2VXpSZEZHcUxsVXg0MFHSAfsBQVVfeXFMUEc5T0NJTGJleUZFdFNwRDM5bXFqX05VSzRoZlItdGRuMUduV0VJcnUweERiS1g4eGduS1NtMVlxXzlXSXplemtUcG5mbGc2QjhwbE1TMUs0RndMMnRudzFwbWdIbU5aWmtlRUx3NGluVVlBeXVqbE56bDFISl9xbTh0WmV1aFVhTHlhQ2ZqY1pTcmZxXzZvTXY4Y1VRUy1zeUE3ZmFURzFWTWc0cHVURFVFQXVNZkx6Q3puTkhoNjM1di1yZ2hQNl9rUHhseHIzRmVGdGs5T29FeFFHV3hqOThleHFrVnV2azZveEtfVHBfeGp1SGEzY1JtUEk?oc=5
+- Dharmesh Kant on FY27 earnings, Iran crisis and smart investment strategies
+  Despite revised earnings growth expectations, the Nifty index's current multiple offers a comfortable entry point for staggered investments. Defence, metals, and auto sectors show promise, while banking and NBFCs warrant caution.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/dharmesh-kant-on-fy27-earnings-iran-crisis-and-smart-investment-strategies/articleshow/129624848.cms
 
-- Asia-Pacific markets open higher after oil declines sent Wall Street higher overnight - CNBC
-  Asia-Pacific markets open higher after oil declines sent
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWg5bFRLTGw4SnVnbzRRRVR1dGwxQlR1aEtDSUJNcTlVbnRPVGhRMERjODAweGROenRua3hCdW9tb1M4WUFTRF9tUzd6M216UVNkYWVBcDZXeDhObzVyWlNOc2lFM01Hdm5DQXNRckRjNER6VU4tMjN2STF6UjJVbzI2cWRmUFlYcUY1Um5zTGlBdnAyU054aWNybVHSAaIBQVVfeXFMUDNHbGQweHdybTBZaVBlUUxSRmNLbFZPdFFrVmtQSXltWlVxcUhwOTl4cWRQX0piaGtqTF9FNlNWRVgxeURvaG8tcUUzYVV1RjVGd2dER0hDNURLejZaM1gxUEVpQ213aTNpbzVNZVNZNFRXQVJXNXZPUmZBZ192S3JlNGNLdXNrUTR3czJpY3JUNDFCQ3Z3ZHczWFJPYVNVWWNR?oc=5
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- Oil gains over 2% to $102.69 a barrel as market weighs Iran war supply risks
-  Strait of Hormuz faces significant disruption due to ongoing U.S.-Israeli war on Iran. Allies have rebuffed calls to escort tankers, raising supply shortage concerns. The UAE has already reduced production
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-gains-over-2-to-102-69-a-barrel-as-market-weighs-iran-war-supply-risks/articleshow/129621674.cms
+- 'Distorted picture of India': MEA slams US report recommending sanctions on RSS, R&AW - The Times of India
+  'Distorted picture of India': MEA slams US report recommending sanctions
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcFplY3ZHR0NDM0RzQTN2RlhZbUtBeGRsT3BleGt0THZEU1lVWnZzY3h1ODAxSHNyQlBjMVNKQ2g2RWJzdGctZU5LYzlSUjUtbmdKNC1aQ1htMkwyMUlBMGhMLThfTzh5Rl9wWUVsMmFiOEM1aXhrVi1DMXk2a0x2SG9oY3RHRFR4cEphMnZXRjFqaUtLMDRhSHJDcUtaWV9QMEZ5TXo2T1RGVXBTYlVjM2NyTDd2eUJZWmVkWnhkaTJjUzJuVnQ2TjFFdlkwYkV1NGVjZ0FDdkNGVVZJMTlNVlh30gHnAUFVX3lxTE83MkU2TnZhc2JGaXRFT0ZiRTFFYVFEQlYzMW9rbjlXZ0VIWWs1UzJkV2FrYlFvZ1pEVkNhQXhPdEhhVEdZb19mZWd1UTIyZ1BWcGszam1xbEFHZTQ4bUpTZkZ3VnIwZW92Z3BXWkU4Qkt4dktvVG1NazQzSlZWZGMtX09lR2htRnQ3Rl9YSGtyR2E4b0dRMmxoYklWVHZRdUFYSFBGY0kwYkdIaVVpOS1xQ2NKbmc2Y1I5TnVtdTNrbEhnUWQzYjIwLU1tbHE1Q0NtbnFOYS1CSGUwRWFhTmlOYUFyMXBycw?oc=5
 
-- Global Market Today: Asian stocks follow Wall Street higher, oil gains
-  Asian equities opened higher, mirroring Wall Street's optimism that more tankers could navigate the Strait of Hormuz. Despite a rebound in Brent crude, concerns over potential
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-follow-wall-street-higher-oil-gains/articleshow/129621652.cms
+- NDA's Outreach To Vijay's TVK Hits Roadblock. Reason: Superstar Rajinikanth - NDTV
+  NDA's Outreach To Vijay
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV2k1LW9xNUpGN0RXYnBFUi02YUFiZnBMY0tSc1RCcjV6TW1sazhDTVRnRUlBRkluNjFhVjdVRDBpa24xcklza0ROYXRZY1Zkb0M1UlM1cmxrdUlmV0k4cUthd2Ftd3JNLU5TTzJXTTZtQk9pb2JfT0hfMFFlY29RWWd6TDhHQUMyZmRjWVVua1ZjUUQtcGVQN0hmQWNFcW5tZEViZXdVeC14bGdYNUlWV053ekZOUGdNa3EzdmpSUkN2X0hiVWM1Z3FuaDM0WDlJZ0czX2pUdktTeU9jbUYzdtIB6AFBVV95cUxOckJDWE9fS25BZEtTaU1nOXZ0Wkt0MDNtd21IWFlBWmVuRTV0akNtQU40MU5HWGdxNWFNM2t5Yi03amlENDNtMHRxSnUyNmduT2dtMTNOY2ZHVnNvMGwyelgtWTFHN1FYNXB4a214c1l3YnJBRGE3c3AyXzZFUXVhd3ptZzFwUVdwWjhRMTQySm9DOGtodTZIdUNyRTVTQWR5dkJ3SVkyZWVlRFA1UG1FeWs1UXZXeDYzdVF4VDJSU2JadGlNXzJrV0hjcXVFZnM2QWhRRjRYckdkNThjY0JUYk9BQXJqeHVw?oc=5
 
-- Cement stocks rally on hopes cos will pass on rise in costs
-  Cement stocks saw a surge today. Manufacturers are likely to increase prices to cover rising fuel expenses. This move is expected to provide some immediate relief.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cement-stocks-rally-on-hopes-cos-will-pass-on-rise-in-costs/articleshow/129621630.cms
+- LPG Prices In India Today, March 17: Know Gas Cylinder Prices In Delhi, Mumbai, Chennai, Other Cities - News18
+  LPG Prices In India Today, March 17: Know Gas Cylinder
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTZ5ZDhEZEZyOVhWaW1Pbng3YTk2VENKV1ZpWmdrQkNQZWl6V1E3ZGpwOHY2RmlucDVtTGk4VHlRVFZ5enlKZU5HSWlWdWpRSEZORGVjSEIxZGhVcmJveXZVWm5pLWdRNTBsNjFrWWs1NzFpS20zbmdnTkQ2dUxoQVVwbTREbWMxYVJQQURfSE83UHJYWEF6T3Ixc29vV2pXQ0hTaUFkdW1XRTItLXNyMkhuQzRjZ2hnRnBNWG9uN1EyVGY1ekh2NjktU1A2UE54bDRtRzBESGNDMW5ELXc5OXFiZEZLSE55NmfSAe8BQVVfeXFMTnlBMzFmdkk5MDFMTW1lQ0ptTVp3TmNQbTlXbkFONDlHdmN3c1JHa2pnV3BoWmNTblhLaUtkVW5xYUt5YklWT19oVlVEMHRzRzFTTUdMMFdLNDBxbmlPQjVWY3poXzBpZWFBZmdOXzRab3pBQXY4WkRHOGQ4Qy1TLUg1UDZEQkg1WWFBbnRsaGwwMllYYTZTaWlFenBQSVpqUlZnWExOb0RnRnVxQUF2TEJnVlQ5QXlwdTFrbzZ6YUNXSFpnTTZDb0Rqb1NPLXBoUHJMamo0cEVDem84TlY5bEdRNGxiMDVjTjRMNmFOSE0?oc=5
 
-- Buy the dip or stay cautious? War and valuations cloud market outlook
-  Indian equities are at a market midnight, facing mixed signals after an 18-month sell-off. Geopolitical tensions and AI disruptions overshadow deeper concerns, making aggressive buying difficult
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/buy-the-dip-or-stay-cautious-war-and-valuations-cloud-market-outlook/articleshow/129621581.cms
+- India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'Nanda Devi' carrying more than 47,000 metric tons of LPG reaches Gujarat - The Times of India
+  India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'N
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW_SAdgCQVVfeXFMTzRSM0ZwWmV5MTZmMWotUmxqbk9walBjNVhPQk1lUWhCTk5nSVN0YUVraHJxVHQ5SVc5SnlxbThXOGgwM1pyc0xYelV4T0FiZ1Q2TWxqTEo1WXhrNWJxQzBaZDFlSE9Jb1RRM2RLN1dsWVlqbGpTMko2SXBKS2Fmc3FVamF1MVdxM0hKSXBVOC03WEFYdjdCOEFyQWpRT3JiVHUzTkpVNURkMUdkX241MXo0RXR0SUVEUzdsYmg4eEh3cE01cTJCVURzcWRacDN0aGlpeWxSN2UwSF94LVJ3bkNtYjlUdzNKOTFIaDZXa2pENUcyTUhWdGlpX19HRHEwM0EtdF9vZWtVMVpBOEJSQ1NmUURiN0Z4LXF1X2tIX1pDVTBlcW10MDduaEgwQVNVcHhpX1NyN1AxQzhMdVc2eUpfdFo3cndYaEFXcVlzVy11ZFRWR045NFE?oc=5
 
-- IDBI Bank down 35% from peak: Is it time to buy the dip?
-   IDBI Bank shares dropped significantly following reports of a potential stake sale delay. Bids reportedly fell below the government's expected price. Investors are advised to monitor the bank's financial performance improvements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-down-35-from-peak-is-it-time-to-buy-the-dip/articleshow/129621543.cms
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
+
+- 'Distorted picture of India': MEA slams US report recommending sanctions on RSS, R&AW - The Times of India
+  'Distorted picture of India': MEA slams US report recommending sanctions
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcFplY3ZHR0NDM0RzQTN2RlhZbUtBeGRsT3BleGt0THZEU1lVWnZzY3h1ODAxSHNyQlBjMVNKQ2g2RWJzdGctZU5LYzlSUjUtbmdKNC1aQ1htMkwyMUlBMGhMLThfTzh5Rl9wWUVsMmFiOEM1aXhrVi1DMXk2a0x2SG9oY3RHRFR4cEphMnZXRjFqaUtLMDRhSHJDcUtaWV9QMEZ5TXo2T1RGVXBTYlVjM2NyTDd2eUJZWmVkWnhkaTJjUzJuVnQ2TjFFdlkwYkV1NGVjZ0FDdkNGVVZJMTlNVlh30gHnAUFVX3lxTE83MkU2TnZhc2JGaXRFT0ZiRTFFYVFEQlYzMW9rbjlXZ0VIWWs1UzJkV2FrYlFvZ1pEVkNhQXhPdEhhVEdZb19mZWd1UTIyZ1BWcGszam1xbEFHZTQ4bUpTZkZ3VnIwZW92Z3BXWkU4Qkt4dktvVG1NazQzSlZWZGMtX09lR2htRnQ3Rl9YSGtyR2E4b0dRMmxoYklWVHZRdUFYSFBGY0kwYkdIaVVpOS1xQ2NKbmc2Y1I5TnVtdTNrbEhnUWQzYjIwLU1tbHE1Q0NtbnFOYS1CSGUwRWFhTmlOYUFyMXBycw?oc=5
+
+- NDA's Outreach To Vijay's TVK Hits Roadblock. Reason: Superstar Rajinikanth - NDTV
+  NDA's Outreach To Vijay
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV2k1LW9xNUpGN0RXYnBFUi02YUFiZnBMY0tSc1RCcjV6TW1sazhDTVRnRUlBRkluNjFhVjdVRDBpa24xcklza0ROYXRZY1Zkb0M1UlM1cmxrdUlmV0k4cUthd2Ftd3JNLU5TTzJXTTZtQk9pb2JfT0hfMFFlY29RWWd6TDhHQUMyZmRjWVVua1ZjUUQtcGVQN0hmQWNFcW5tZEViZXdVeC14bGdYNUlWV053ekZOUGdNa3EzdmpSUkN2X0hiVWM1Z3FuaDM0WDlJZ0czX2pUdktTeU9jbUYzdtIB6AFBVV95cUxOckJDWE9fS25BZEtTaU1nOXZ0Wkt0MDNtd21IWFlBWmVuRTV0akNtQU40MU5HWGdxNWFNM2t5Yi03amlENDNtMHRxSnUyNmduT2dtMTNOY2ZHVnNvMGwyelgtWTFHN1FYNXB4a214c1l3YnJBRGE3c3AyXzZFUXVhd3ptZzFwUVdwWjhRMTQySm9DOGtodTZIdUNyRTVTQWR5dkJ3SVkyZWVlRFA1UG1FeWs1UXZXeDYzdVF4VDJSU2JadGlNXzJrV0hjcXVFZnM2QWhRRjRYckdkNThjY0JUYk9BQXJqeHVw?oc=5
+
+- LPG Prices In India Today, March 17: Know Gas Cylinder Prices In Delhi, Mumbai, Chennai, Other Cities - News18
+  LPG Prices In India Today, March 17: Know Gas Cylinder
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTZ5ZDhEZEZyOVhWaW1Pbng3YTk2VENKV1ZpWmdrQkNQZWl6V1E3ZGpwOHY2RmlucDVtTGk4VHlRVFZ5enlKZU5HSWlWdWpRSEZORGVjSEIxZGhVcmJveXZVWm5pLWdRNTBsNjFrWWs1NzFpS20zbmdnTkQ2dUxoQVVwbTREbWMxYVJQQURfSE83UHJYWEF6T3Ixc29vV2pXQ0hTaUFkdW1XRTItLXNyMkhuQzRjZ2hnRnBNWG9uN1EyVGY1ekh2NjktU1A2UE54bDRtRzBESGNDMW5ELXc5OXFiZEZLSE55NmfSAe8BQVVfeXFMTnlBMzFmdkk5MDFMTW1lQ0ptTVp3TmNQbTlXbkFONDlHdmN3c1JHa2pnV3BoWmNTblhLaUtkVW5xYUt5YklWT19oVlVEMHRzRzFTTUdMMFdLNDBxbmlPQjVWY3poXzBpZWFBZmdOXzRab3pBQXY4WkRHOGQ4Qy1TLUg1UDZEQkg1WWFBbnRsaGwwMllYYTZTaWlFenBQSVpqUlZnWExOb0RnRnVxQUF2TEJnVlQ5QXlwdTFrbzZ6YUNXSFpnTTZDb0Rqb1NPLXBoUHJMamo0cEVDem84TlY5bEdRNGxiMDVjTjRMNmFOSE0?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'Nanda Devi' carrying more than 47,000 metric tons of LPG reaches Gujarat - The Times of India
+  India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'N
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW_SAdgCQVVfeXFMTzRSM0ZwWmV5MTZmMWotUmxqbk9walBjNVhPQk1lUWhCTk5nSVN0YUVraHJxVHQ5SVc5SnlxbThXOGgwM1pyc0xYelV4T0FiZ1Q2TWxqTEo1WXhrNWJxQzBaZDFlSE9Jb1RRM2RLN1dsWVlqbGpTMko2SXBKS2Fmc3FVamF1MVdxM0hKSXBVOC03WEFYdjdCOEFyQWpRT3JiVHUzTkpVNURkMUdkX241MXo0RXR0SUVEUzdsYmg4eEh3cE01cTJCVURzcWRacDN0aGlpeWxSN2UwSF94LVJ3bkNtYjlUdzNKOTFIaDZXa2pENUcyTUhWdGlpX19HRHEwM0EtdF9vZWtVMVpBOEJSQ1NmUURiN0Z4LXF1X2tIX1pDVTBlcW10MDduaEgwQVNVcHhpX1NyN1AxQzhMdVc2eUpfdFo3cndYaEFXcVlzVy11ZFRWR045NFE?oc=5
+
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
+
+- 'Distorted picture of India': MEA slams US report recommending sanctions on RSS, R&AW - The Times of India
+  'Distorted picture of India': MEA slams US report recommending sanctions
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcFplY3ZHR0NDM0RzQTN2RlhZbUtBeGRsT3BleGt0THZEU1lVWnZzY3h1ODAxSHNyQlBjMVNKQ2g2RWJzdGctZU5LYzlSUjUtbmdKNC1aQ1htMkwyMUlBMGhMLThfTzh5Rl9wWUVsMmFiOEM1aXhrVi1DMXk2a0x2SG9oY3RHRFR4cEphMnZXRjFqaUtLMDRhSHJDcUtaWV9QMEZ5TXo2T1RGVXBTYlVjM2NyTDd2eUJZWmVkWnhkaTJjUzJuVnQ2TjFFdlkwYkV1NGVjZ0FDdkNGVVZJMTlNVlh30gHnAUFVX3lxTE83MkU2TnZhc2JGaXRFT0ZiRTFFYVFEQlYzMW9rbjlXZ0VIWWs1UzJkV2FrYlFvZ1pEVkNhQXhPdEhhVEdZb19mZWd1UTIyZ1BWcGszam1xbEFHZTQ4bUpTZkZ3VnIwZW92Z3BXWkU4Qkt4dktvVG1NazQzSlZWZGMtX09lR2htRnQ3Rl9YSGtyR2E4b0dRMmxoYklWVHZRdUFYSFBGY0kwYkdIaVVpOS1xQ2NKbmc2Y1I5TnVtdTNrbEhnUWQzYjIwLU1tbHE1Q0NtbnFOYS1CSGUwRWFhTmlOYUFyMXBycw?oc=5
+
+- NDA's Outreach To Vijay's TVK Hits Roadblock. Reason: Superstar Rajinikanth - NDTV
+  NDA's Outreach To Vijay
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV2k1LW9xNUpGN0RXYnBFUi02YUFiZnBMY0tSc1RCcjV6TW1sazhDTVRnRUlBRkluNjFhVjdVRDBpa24xcklza0ROYXRZY1Zkb0M1UlM1cmxrdUlmV0k4cUthd2Ftd3JNLU5TTzJXTTZtQk9pb2JfT0hfMFFlY29RWWd6TDhHQUMyZmRjWVVua1ZjUUQtcGVQN0hmQWNFcW5tZEViZXdVeC14bGdYNUlWV053ekZOUGdNa3EzdmpSUkN2X0hiVWM1Z3FuaDM0WDlJZ0czX2pUdktTeU9jbUYzdtIB6AFBVV95cUxOckJDWE9fS25BZEtTaU1nOXZ0Wkt0MDNtd21IWFlBWmVuRTV0akNtQU40MU5HWGdxNWFNM2t5Yi03amlENDNtMHRxSnUyNmduT2dtMTNOY2ZHVnNvMGwyelgtWTFHN1FYNXB4a214c1l3YnJBRGE3c3AyXzZFUXVhd3ptZzFwUVdwWjhRMTQySm9DOGtodTZIdUNyRTVTQWR5dkJ3SVkyZWVlRFA1UG1FeWs1UXZXeDYzdVF4VDJSU2JadGlNXzJrV0hjcXVFZnM2QWhRRjRYckdkNThjY0JUYk9BQXJqeHVw?oc=5
+
+- LPG Prices In India Today, March 17: Know Gas Cylinder Prices In Delhi, Mumbai, Chennai, Other Cities - News18
+  LPG Prices In India Today, March 17: Know Gas Cylinder
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTZ5ZDhEZEZyOVhWaW1Pbng3YTk2VENKV1ZpWmdrQkNQZWl6V1E3ZGpwOHY2RmlucDVtTGk4VHlRVFZ5enlKZU5HSWlWdWpRSEZORGVjSEIxZGhVcmJveXZVWm5pLWdRNTBsNjFrWWs1NzFpS20zbmdnTkQ2dUxoQVVwbTREbWMxYVJQQURfSE83UHJYWEF6T3Ixc29vV2pXQ0hTaUFkdW1XRTItLXNyMkhuQzRjZ2hnRnBNWG9uN1EyVGY1ekh2NjktU1A2UE54bDRtRzBESGNDMW5ELXc5OXFiZEZLSE55NmfSAe8BQVVfeXFMTnlBMzFmdkk5MDFMTW1lQ0ptTVp3TmNQbTlXbkFONDlHdmN3c1JHa2pnV3BoWmNTblhLaUtkVW5xYUt5YklWT19oVlVEMHRzRzFTTUdMMFdLNDBxbmlPQjVWY3poXzBpZWFBZmdOXzRab3pBQXY4WkRHOGQ4Qy1TLUg1UDZEQkg1WWFBbnRsaGwwMllYYTZTaWlFenBQSVpqUlZnWExOb0RnRnVxQUF2TEJnVlQ5QXlwdTFrbzZ6YUNXSFpnTTZDb0Rqb1NPLXBoUHJMamo0cEVDem84TlY5bEdRNGxiMDVjTjRMNmFOSE0?oc=5
+
+- India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'Nanda Devi' carrying more than 47,000 metric tons of LPG reaches Gujarat - The Times of India
+  India LPG Cylinder Shortage News Live Updates: After 'Shivalik', another LPG tanker, 'N
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTHd5VGdZbkowbEx3dlBOY3NlYmRtVGpWUEp4UTMyeURxdVJlMmVZWXlBTTE3Y1g3dGdMU2ZDd25BaUI0T05nQks3ckpsUjcwdnJyM18wQy0wX1dVcEwwY1dpbmNmMkJ4M0VIWmtuZkhGYW5BanVEUGU3MmQ4eXZsbEpYNmx4a3dKcjZxNHVwMi1tanpvOG9FOE9kMGtoQ2pnbllrTmFIRWttZHNHbnVqSVNBc2loVTgwTl9kVVJXbWJ4TDN1bnlfMTBnOUhGMWhXSW16VUJzTXpUNnhmTzByYlpOYmNUaVdHb2ZXVzFVanc1YnJFQWx3aTFySWFZejNRdVlXbkQzNnBZaDlUVGFJVFZlODJTQWJqLXR0clJQbDF0dHJ6UjRfdjFvdElVQll1N0I4UUVERV9BbnVxWDFIWEFoY1NmNHp3elJoUDBJcFdTOW_SAdgCQVVfeXFMTzRSM0ZwWmV5MTZmMWotUmxqbk9walBjNVhPQk1lUWhCTk5nSVN0YUVraHJxVHQ5SVc5SnlxbThXOGgwM1pyc0xYelV4T0FiZ1Q2TWxqTEo1WXhrNWJxQzBaZDFlSE9Jb1RRM2RLN1dsWVlqbGpTMko2SXBKS2Fmc3FVamF1MVdxM0hKSXBVOC03WEFYdjdCOEFyQWpRT3JiVHUzTkpVNURkMUdkX241MXo0RXR0SUVEUzdsYmg4eEh3cE01cTJCVURzcWRacDN0aGlpeWxSN2UwSF94LVJ3bkNtYjlUdzNKOTFIaDZXa2pENUcyTUhWdGlpX19HRHEwM0EtdF9vZWtVMVpBOEJSQ1NmUURiN0Z4LXF1X2tIX1pDVTBlcW10MDduaEgwQVNVcHhpX1NyN1AxQzhMdVc2eUpfdFo3cndYaEFXcVlzVy11ZFRWR045NFE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-17 01:48:18 UTC_
+_Last updated: 2026-03-17 07:03:31 UTC_
