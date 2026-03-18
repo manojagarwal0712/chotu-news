@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- UPSC ‘success’ that wasn’t: From Bihar village hero to police custody — rise and fall of Sheikhpura’s fake ‘AIR 440’
+- ‘Violates federal character of Constitution’: Parliament panel spars over VBSA Bill that could redraw India’s higher education map
   
-  🔗 https://indianexpress.com/article/india/upsc-success-that-wasnt-from-bihar-village-hero-to-police-custody-rise-and-fall-of-sheikhpuras-fake-air-440-10587589/
+  🔗 https://indianexpress.com/article/india/violates-federal-character-of-constitution-parliament-panel-spars-over-vbsa-bill-that-could-redraw-indias-higher-education-map-10588128/
 
-- ‘If Kejriwal is to be finished, there is only one way…’: In Goa after ‘agnipariksha’, AAP convener takes aim at Modi
+- Indore house fire kills 7: EV charging point, LPG cylinder blasts suspected in pre-dawn tragedy
   
-  🔗 https://indianexpress.com/article/india/if-kejriwal-is-to-be-finished-there-is-only-one-way-in-goa-after-agnipariksha-aap-convener-takes-aim-at-modi-10587588/
+  🔗 https://indianexpress.com/article/india/indore-house-fire-kills-7-ev-charging-point-lpg-cylinder-blasts-suspected-10588115/
 
-- Swift YouTube rise and a brutal end: Pregnant woman stabbed and strangled, husband is prime suspect
+- Gold Rate Today, March 18: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/swift-youtube-rise-and-a-brutal-end-pregnant-woman-stabbed-and-strangled-husband-is-prime-suspect-10587571/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-18-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10588049/
 
-- On the table: Global media outreach proposal with IIS officers in foreign missions
+- Centre signs MoUs with MP, Rajasthan to implement Jal Jeevan Mission Phase 2
   
-  🔗 https://indianexpress.com/article/india/on-the-table-global-media-outreach-proposal-with-iis-officers-in-foreign-missions-10587609/
+  🔗 https://indianexpress.com/article/india/centre-signs-mous-with-mp-rajasthan-to-implement-jal-jeevan-mission-phase-2-10587994/
 
-- Odisha Congress suspends 3 MLAs for cross-voting in Rajya Sabha polls
+- Air travel gets a flyer-first push: 60% free seats, families to sit together under new rules
   
-  🔗 https://indianexpress.com/article/india/odisha-congress-suspends-3-mlas-for-cross-voting-in-rajya-sabha-polls-10587663/
+  🔗 https://indianexpress.com/article/india/dgca-passenger-rights-free-seats-pnr-seating-new-rules-india-10587976/
 
-- FUJIFILM India to launch Instax Mini 13 instant camera with design upgrades and new features
+- Samsung discontinues its ambitious Galaxy Z TriFold after three months: Is this the end of triple-folding phones?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/fujifilm-india-to-launch-instax-mini-13-instant-camera-with-design-upgrades-and-new-features-10587252/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-discontinues-its-ambitious-galaxy-z-trifold-after-three-months-is-this-the-end-of-triple-folding-phones-10588072/
 
-- Vivo unveils T5x 5G in India with massive battery and performance focus
+- OpenAI releases GPT-5.4 mini and nano, its most capable small models yet
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vivo-unveils-t5x-5g-in-india-with-massive-battery-and-performance-focus-10587208/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-releases-gpt-5-4-mini-and-nano-its-most-capable-small-models-yet-10587983/
 
-- Oura Ring 4 goes on sale in India starting March 18: Price starts at Rs 28,900 with a monthly catch
+- Samsung sees AI driving strong chip demand in 2026, executive says
   
-  🔗 https://indianexpress.com/article/technology/gadgets/oura-ring-4-india-price-rs-28900-sale-date-amazon-croma-subscription-10587161/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-10587916/
 
-- NVIDIA’s GPT moment for graphics sparks backlash: Why gamers are calling DLSS 5 ‘AI slop’
+- A mystery AI model has developers buzzing: Is this DeepSeek’s latest blockbuster?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-unveils-dlss-5-0-ceo-jensen-huang-calls-it-a-gpt-moment-for-graphics-10586432/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/a-mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-10587915/
 
-- Samsung may pull the plug on Galaxy Z TriFold just months after launch
+- Nvidia preparing Groq chips that can be sold in Chinese market, sources say
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-may-pull-the-plug-on-galaxy-z-trifold-just-months-after-launch-10586928/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-preparing-groq-chips-that-can-be-sold-in-chinese-market-sources-say-10587914/
+
+- Anthropic shut out of US defence deals? Pentagon says it is developing alternatives to the Claude-maker
+  The Pentagon is developing alternatives to Anthropic's technology. The move follows a fallout over military AI
+  🔗 https://www.livemint.com/companies/news/anthropic-shut-out-of-us-defence-deals-pentagon-says-it-is-developing-alternatives-to-the-claudemaker-11773806554631.html
+
+- Startups spark a revolution in appliances as they rethink design and tech to fit modern Indian homes
+  Startups are targeting India’s fast-growing appliance market with design-led, smart products.
+  🔗 https://www.livemint.com/companies/smart-home-appliances-india-startups-atomberg-nuuk-11773806515546.html
+
+- After a washed-out year, beer makers bet big on summer for FY27 growth
+  Early summer and state reforms are boosting sales. Supply bottlenecks and weather risks could temper the upturn
+  🔗 https://www.livemint.com/companies/news/india-beer-market-growth-united-breweries-ab-inbev-11773805535922.html
+
+- KKR plans to invest $310 million in PMI Electro to expand Allfleet electric bus platform
+  KKR will acquire a majority stake in Allfleet and minority stake in PMI Electro. KKR
+  🔗 https://www.livemint.com/companies/news/kkr-pmi-electro-investment-electric-buses-11773804750728.html
 
 - Amazon to slash USPS deliveries by two-thirds - what it means for your packages and delivery costs?
   Amazon plans to cut USPS package volumes by up to two-thirds. The move could threaten billions in revenue for the
   🔗 https://www.livemint.com/companies/news/amazon-to-slash-usps-deliveries-by-two-thirds-what-it-means-for-your-packages-and-delivery-costs-11773793814168.html
 
-- Adani gets NCLT nod to acquire JAL, gains scale in north India real estate
-  The approval hands the Adani Group a ready-made real estate platform spanning 3,985 acres across Noida, the Yamuna Expressway and Greater No
-  🔗 https://www.livemint.com/companies/adani-gets-nclt-nod-to-acquire-jal-gains-scale-in-north-india-real-estate-jaiprakash-associates-11773746583213.html
+- Gold Rate Today: Check the live price of 22K, 24K and 18K gold prices on 18 March 2026
+  Here are the December 9 gold prices for key cities, including Ahmedabad, Delhi, Kolkata, Mumbai, Hyder
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-check-the-live-price-of-22k-24k-and-18k-gold-prices-on-18-march-2026-11773811985061.html
 
-- Volkswagen Group yet to finalise India EV strategy as rivals accelerate
-  Audi India's top executives said that the company has exhausted its current resource allocation for the EV business. The company is in discussions with its headquarters for the next phase
-  🔗 https://www.livemint.com/companies/news/volkswagen-group-india-skoda-electric-vehicle-ev-strategy-rivals-audi-renault-honda-hyundai-vinfast-suzuki-bmw-11773745490645.html
+- CDSL to NALCO- Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment
+  Nifty 50 gained 0.45% to 23,686, while Sensex reached 76,415.29. Despite a weekly gain of 2.5%, both indices remain 6% lower this month.
+  🔗 https://www.livemint.com/market/stock-market-news/cdsl-to-nalco-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11773802744445.html
 
-- A two-year extension for Chandrasekaran at Tata Sons? Noel Tata has a plan in mind
-  Noel Tata is keen on a new leadership structure for Tata Sons. He wants separate roles of chairman, CEO and
-  🔗 https://www.livemint.com/companies/people/a-two-year-extension-for-natarajan-chandrasekaran-at-tata-sons-noel-tata-has-a-plan-in-mind-11773740337759.html
+- JP Power share price surges 12% amid high volumes. Is Adani takeover of JP Associates behind the rally? Explained
+  JP Power share price rose as much as 11.80% to  ₹15.63 on the National Stock Exchange. This is the second straight day of gains
+  🔗 https://www.livemint.com/market/stock-market-news/jp-power-share-price-surges-12-amid-high-volumes-is-adani-takeover-of-jp-associates-behind-the-rally-explained-11773814201666.html
 
-- CureBay absorbs Saveo's pharma distribution unit to expand rural reach
-  CureBay has acquired Saveo’s pharma distribution business to strengthen its
-  🔗 https://www.livemint.com/companies/start-ups/curebay-saveo-acquisition-rural-healthcare-india-healthtech-future-growth-11773724820384.html
+- HDFC Bank, ICICI Bank, Infosys among top mutual fund buys in February; SBI, Bajaj Finance see selling
+  The top five sectors where domestic mutual funds are overweight compared with the BSE 200 include Pharmaceuticals &amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-icici-bank-infosys-among-top-mutual-fund-buys-in-february-sbi-bajaj-finance-see-selling-11773813695837.html
 
-- Nifty 50, Sensex today: What to expect from Indian stock market in trade on March 18
-  Gift Nifty was trading around 23,648 level, a premium of nearly 31 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-march-18-11773770409716.html
+- Multibagger stock: Hazoor Multi Projects shares jump 5% following positive bias on Dalal Street
+  The small-cap stock has proven to be a multibagger by delivering 251% returns in three years and 9500% in five years. Hazoor Multi Projects opened at  �
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-hazoor-multi-projects-shares-jump-5-following-positive-dalal-street-bias-11773812834077.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 18 March 2026
-  Sumeet Bagadia recommends five shares to buy today. Godawari Power and Ispat Limited, Great Eastern Shipping Company, Aster DM Healthcare
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-18-march-2026-11773796527404.html
+- Apple releases its first-ever Background Security Improvements update: What is it, how to download and more
+  Apple has introduced its first Background Security Improvement (BSI) update. This new system offers lightweight
+  🔗 https://www.livemint.com/technology/tech-news/apple-releases-its-first-ever-background-security-improvements-update-what-is-it-how-to-download-and-more-11773811045105.html
 
-- Indian stock market: 8 key things that changed for market overnight- Gift Nifty, US-Iran war, oil prices to Nasdaq rally
-  Gift Nifty was trading around 23,639 level, a premium of nearly 21 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-iran-war-oil-prices-to-nasdaq-rally-11773770790520.html
-
-- Gold, silver rates today: Gold prices trade near $5,000, silver prices slip below $80. What's the near-term outlook?
-  Spot gold was trading marginally higher at $5,012 per ounce. Spot silver was down 0.17% to $79.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-trade-near-5-000-silver-prices-slip-below-80-whats-near-term-outlook-11773794535305.html
-
-- Stocks to buy: Raja Venkatraman recommends three stocks for 18 March
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-18-march-nifty-sensex-federal-bank-aurobindo-pharma-vardhman-textiles-11773751657650.html
+- Best phones under  ₹25,000 in India in March 2026: OnePlus Nord CE 5, Motorola Edge 70 Fusion, realme P4 Power and more
+  Smartphone prices are increasing due to memory chip costs making it harder to pick the best phones in each category. Here's a list
+  🔗 https://www.livemint.com/technology/gadgets/best-phones-under-rs-25-000-in-india-in-march-2026-oneplus-nord-ce-5-motorola-edge-70-fusion-realme-p4-power-and-more-11773806366411.html
 
 - OpenAI upgrades ChatGPT free tier with faster GPT-5.4 Mini, adds new 'subagent' capabilities
   OpenAI has introduced GPT-5.4 Mini and Nano models for free users. OpenAI says its new Mini model excels
@@ -92,173 +100,153 @@
   Oura has launched the Oura Ring 4 in India. The ring will be available starting March 18 via Amazon and Croma.
   🔗 https://www.livemint.com/technology/gadgets/oura-debuts-in-india-with-oura-ring-4-launch-price-specs-health-features-and-more-11773756368207.html
 
-- Poco X8 Pro, X8 Pro Max with HyperOS 3, IP68/IP69 rating launched: Price, specs launch offers and more
-  Poco X8 Pro and X8 Max have AMOLED displays with 120Hz refresh rate, 50MP cameras, and run on latest HyperOS
-  🔗 https://www.livemint.com/technology/gadgets/poco-x8-pro-x8-pro-max-with-hyperos-3-ip68-ip69-rating-launched-price-specs-launch-offers-and-more-11773750502399.html
-
-- POCO X8 Pro Series Launch Highlights: Poco X8 Pro, Iron Man edition, X8 Pro Max launched - Check price, specs and more
-  Poco has launched the Poco X8 Pro, X8 Max and the X8
-  🔗 https://www.livemint.com/technology/gadgets/poco-x8-pro-max-launch-live-updates-price-india-specifications-flipkart-sale-details-march-17-11773745171833.html
-
 - Stock Market News, March 17, 2026: Dow Jumps, Brent Crude Pulls Back From $105 Oil Gains Amid Mideast Attacks - WSJ
   The WSJ looks at the Dow Jones Industrial Average on March 17, 2026
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQYkxndVU4VWdGTWktYTU3WVJWOEFFZlpmMFh4Z3J2eGRQWjQwNkVBRnktRmx1akN3QmRydXp2TmNnenZrUVU5Yk84eFVOVTEtbnE3U29Idm5qUnlWMkJkM0ZDWHVsT004UHlVbWtxMGk0T1V6bU8tT2d2VUowZG9NTDlGSFBiSHc?oc=5
 
-- Markets News, March 17, 2026: Major Indexes End Higher for 2nd Straight Session as Investors Digest War Developments - Investopedia
-  Investopedia: Major Indexes End Higher for 2nd Straight Session as Investors
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPd203ZjluUy1ZZWU0RnUtTlBsNzBXUWt0WmQ1d0FEclRQTGpKUEtuLTE1SFVHbVAxaG11ZlZKOXVZby1MbE1od3hJV09EWU9Vd2gyaVp5ZlBmaXRuNFpfS1paTDFieWNLXzF3a2VIVHpBRkI2WkZvTm91c3AxWFVlbTNld3FhdlFqeXhueDZfYkM?oc=5
-
-- Asian Stocks Poised for Gains in Cautious Trading: Markets Wrap - Bloomberg.com
-  Asian Stocks Poised for Gains
+- Asian Stocks Gain Before Fed, Oil Holds Near $103: Markets Wrap - Bloomberg.com
+  Asian Stocks Gain Before Fed, Oil Hold
   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNVQVMyTWdSdlMxLVlLWVJmclA3WjU1S1l2WHhDVnBnQ0hPSWVuSUVJN05lNEVzLU5uTm1nT0F4TG5PSDRjUWtzQWVZLUJMMjdmSmtsTjVmYXE1WWtpRGM1WllZOWhZRUphSFZZMVRVdktYUEdNZW5HWEc1UWVWSmQzOF8zdEZLQVh2cVh6ZTRfT3BMdnc?oc=5
 
-- Hyperliquid’s HIP-3 markets hit $1.43 billion open interest fueled by 24/7 tokenized equities, commodities trading - The Block
-  Hyperliquid’s HIP-3 markets hit $1.43
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHpRdkl3VUozYklJTURaS2NJRmVpdlY2bkJhcllNaVp3RERUR3BPbTBwbjJSdGhBamlKbGpWcDZpVTF6YWJLTVZhVGJ2dThrR05qV2ktTENSVDhUMEN4NkdBT0ZjVXNwWm1lN0pWYmZJZzJiYWJuaDFoSDNDR2J5Vlo4dTR1MWJfRk4zRnFuMEt6Q2hCUzJ2U1hrejhaYTEtbmxKMGpLV3dCNlBRbnFmbWFLeWFfNnlNb0VSTEJZR0JQSzQ4NzJXQlBFY1I?oc=5
+- Sensex Today, Stock Market LIVE Updates: Sensex, Nifty Open In Green For 3rd Straight Day - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1g3RkM1ODdQcjY1N0tBV3dGaU85N1BXemVuOEg3OUR3ZmJ4c3NWS0hoSTJZdEZfSHN1dmJLdE5COG1lMG5aN1FWSWxLWDZSVDg0cjR4c1lFYkdFZHJXNVM3dmZjN2txan
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1g3RkM1ODdQcjY1N0tBV3dGaU85N1BXemVuOEg3OUR3ZmJ4c3NWS0hoSTJZdEZfSHN1dmJLdE5COG1lMG5aN1FWSWxLWDZSVDg0cjR4c1lFYkdFZHJXNVM3dmZjN2txanR3Z2FyclowQlhpaWdoZlk3a2djVkg4Sjk3Zk1EUDE1TXQ1OUpHal9lZlpxZFZwakQ0UzZISVhTUFp3Mm1zRzZJY0pBcUlMaUNzXzVKSUUxdnfSAcIBQVVfeXFMTWt5WGpjbUxCTjZCNVdtVG5qRjljdE1qeVJfT3YtYVZZbVJkaUtoV2ZrRmRiSlJSMGJGQmJDMkZieXk5Q1M1UjNhbXJBd2FXejI1THZiTW9KU0JzczFBcjBzakNVbng5d1hzRGtZUVJRenBtRXRXcHlJWFprS21jWkxnaUdPMmhfQmNxYUlkSUNQM2JNMDVuajFtNnRWdXhnRDJJS3lPRS04WXhGbGhWQmU5WkVvQ2VobUhxVVlNUWU1M2c?oc=5
 
-- South Korea's Presidnet Lee to hold meeting on capital markets, Blue House says - TradingView
-  South Korea's Presidnet Lee to hold meeting on
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1NERHlNc1VzS3FrZlFDRV9qUlZWM1R0ampmWVNFb0VLLUNCYi13TzZSWkpkN1otbS1SRmI0ZGgxNjVTanhYQ0ppcXRja3ZrSEtIai1EQjNRM2J0dTNvRGpBQVNpZ2w0SHJyTGxwc2pKMDc0M1RsdTd1d0l1ZE10SVF1dkZma0dfNXRlZWRBRklqY2xoQzBmaVYxY2p5elRjQVpzVFVKRTEwaTNXSFE4OExENmV2RDN3ZURMb1pXdWxiWVBHOXJtNXZsek1yZVdwSTZ4S0lwSy1tRnZpcDExQmx3?oc=5
+- European markets set to open higher as attention turns to the Fed - CNBC
+  European markets set to open higher as attention turns to
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNQTNjb091NFlBSUdYNUNsR0xucEE3bXdhc2dGT2RYM0FiNHpJZDVDRDVRckNBUUxNb3YxQmxJU0FIQ0Fmemk3Z1drb0V6dVdEOTJmQ1ZSd1lSQjB5LUc5Sm13TXcwNy01X1lVMEhtOXlTREc0Z3dvYV9VNEVqbEpiRFdFMHVYcnk5VFhTSFhObHBtd01UdnduWThGcFB5Z9IBowFBVV95cUxNdnJPWVVoMU5kOENPN1JLNEp5SzZWTFRzNW9val83RmhJSFp3MUFYa041MjRmbDB0bWp3ZkxyZDlaNkduSzliVDROSi1PTkhZQ1BKVGRMOHdObmJDRGZSR3pGME5TOFQ1M3AwNWFXN2duYUhlTGhsVk1TeXpVTWdNZk8tcHV0bWZXVTNFaFNNOFdWUzdaZTBFT1NYYWVqNWVfcHZ3?oc=5
 
-- Jio tells bankers it may file IPO prospectus as early as March
-  Reliance Industries preparing for massive IPO of its telecom arm, Jio Platforms. The company plans to file initial documents by the end of this month. This could be India's largest ever IPO.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-tells-bankers-it-may-file-ipo-prospectus-as-early-as-march/articleshow/129644990.cms
+- Tech stocks, led by Nvidia, providing relief to markets - BBC
+  Tech stocks, led by Nvidia,
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTJmbTg4OGpsSE0wQTQyTDVxaFpGUHlmbW1PZUV3aXBpNXZfc0h0cGtlaTdYRTJQZXIzWkw3THdfZDU1N3ZiTkY0Mk4zaXctRExIT1hTYl92ekd4UFpLWFVUdW5OdmZKT0VrTkQta1ZhUy1FT0g1YllvSHZKdjdtbXpUd3JQMjYxamVXSWlFbU5zT3oxT1c4Tw?oc=5
 
-- Global Market Today | Asian stocks gain ahead of Fed rate decision, oil holds near $103
-  Asian equities opened higher, mirroring gains in US stocks and Treasuries as investors look past geopolitical tensions. Continued volatility is expected until the energy situation stabilizes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-ahead-of-fed-rate-decision-oil-holds-near-103/articleshow/129644919.cms
+- Dipan Mehta urges caution despite early signs of market rebound
+   Markets show a tentative rebound, but sustainability hinges on external factors like oil prices and news flow. Experts caution against definitive bottom calls, emphasizing structural shifts for a sustained uptrend. Sector-specific insights reveal resilience in pharma,
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-urges-caution-despite-early-signs-of-market-rebound/articleshow/129648796.cms
 
-- Dalal Street newbies using IPO muscle to beat down debt
-  Data reveals that nearly a quarter of funds raised in recent share sales are allocated to paying off borrowings. This shift suggests companies are prioritizing balance sheet repair and liquidity for insiders.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/dalal-street-newbies-using-ipo-muscle-to-beat-down-debt/articleshow/129644883.cms
+- US Fed outcome today amid Iran war: What to expect and what it means for Indian markets
+  The US Federal Reserve is expected to hold rates amid rising uncertainty from the Iran conflict and mixed economic signals. Markets will closely track the Fed’s commentary for cues on rate cuts. Indian equities may react to global liquidity trends,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/us-fed-outcome-today-amid-iran-war-what-to-expect-and-what-it-means-for-indian-markets/articleshow/129648345.cms
 
-- Standard Chartered Bank  settles Sebi case over FPI lapses
-  Sebi found failures in monitoring FPI disclosures and reporting changes in beneficial ownership. Delays in processing investor grouping updates also noted.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/standard-chartered-bank-settles-sebi-case-over-fpi-lapses/articleshow/129644822.cms
+- Adani Power shares fall 2%, snap two-day gaining streak. Here is why
+  Adani Power shares declined after a recent rally. The company continues to secure long-term power supply agreements and expand capacity.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-fall-2-snap-two-day-gaining-streak-here-is-why/articleshow/129648239.cms
 
-- CFM ARC wins bid for PNB's Gammon debt at 73% haircut
-   CFM Asset Reconstruction Company has acquired Punjab National Bank's ₹514 crore loan to Gammon India. This acquisition gives CFM control over a significant portion of Gammon's legacy non-performing asset. The deal represents a substantial
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cfm-arc-wins-bid-for-pnbs-gammon-debt-at-73-haircut/articleshow/129644811.cms
+- Hexaware Tech shares jump 5% on launch of Agentverse AI platform
+  Hexaware Technologies has launched Agentverse, an enterprise AI platform with 600+ agents. The offering aims to help companies move from AI pilots to full-scale deployment.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hexaware-tech-shares-jump-5-after-firm-launches-agentverse-with-600-ai-agents/articleshow/129648172.cms
 
-- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
-  India Flags "Selective Targeting" After US
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
+- US Stock Market | US stocks flash strong buy signal as sentiment resets, strategists turn optimistic
+  Key indicator from Barclays suggests a good time to buy. Investor sentiment has cooled and positioning is light. Major Wall Street firms are also becoming more positive.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-stocks-flash-strong-buy-signal-as-sentiment-resets-strategists-turn-optimistic/articleshow/129648125.cms
 
-- BJP lashes out at Congress for 'endorsing' USCIRF report - The Times of India
-  BJP lashes out at Congress for 'endors
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXZHaWQzZ3VCMUJJRjJYeXMxV0ZHMmx2Qy1udFV0V2h0QWlrSC1KQzlaV2pDdTJmZm1zeW1mak5Gd0xCMmplTU5wSWNwdDNiaGZ4d19SZk1GNHRiMXFXcU0zV1h0VW5GLUJ4TnNyS0tyLWNaYmhyenlKbGFiUTNPcGQ1eElpcmJPSV9pUTBSZEZQaTdpZEdrTWRaZFdwWUhTYmFHVUxmYjloNTkxc0hXYWNESUtnNm5UUWJJOVV3Y9IBxAFBVV95cUxPRDNHTGMybUN4THJpVERTaXhGMFVpb1dqNzB6T1hxT1d5V2k3UGdpUW1GUzlJT0dQUXNoOTVlVjdiczIzZ2YwRWQtcjlQeFVlVF9BWEU2VU5YV1A4LXZNZ3ExdkNUTGhoRlJFTmhXMC1HcTZwZE1fT1psbUxlS1hXRU5MVWZNMThtTzF1VFlsay16UDFyX3had1JtOHVWWlVFaUN0dF9pX2d2MloyeERpYkR0S0ZPejRlekRlMU1PSjdwLTJs?oc=5
+- Big relief for Indian flyers, govt mandates 60% seats in flights to be free | India News - Hindustan Times
+  The Indian government has mandated 60% of seats in flights to be free.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbFE1WGpGLTlseld0R2dOSlNKcm80SnVZMTlWTGRaX3Q4SlR6YzczWURoUWZFZkhXcWQwOWUyWkxHYmVHMnc1bnQ1dllaVEJoNEprSDk5WV9RN3dPeEFtb3RRWjdBUE1DbFRmeVN5emlLaEdOc3h5QVRnZExObVRjOEpvbWtfN0JKc2dxLVNBVWloOHo1ZWNFZWxleWNOdDNmTE1Oc3NCUlpDQ1ZqSS1VT0Qycm5ia3F2LUN2bU1nYVlEUHpQa2hDeDU4RW1RVVZkZ1JnRmpWTlpyM0RKWjRyLTcwaXpmUdIB6wFBVV95cUxPV3BFMGNMMHpWcXc5RzJBcXR6Y0xEZTA4X3FPTWk3SFF6bTFlQzlTMVVWQkJSRTlXRy1EM2o2bF9iWGVjQ0ZVRDd5TUVBMTBHZkN0MG5McnhLck9nR3hERU5OOXdkcUZoeFFoaDFkdG9aUVhWM093TGZ6aUMyS1V3WGhIaFI1NnJpRWhjUUpMWUFrTFZIV1pJdFdsR0ladHJvRjlnQWRteERiNlU3U2U0X1FpakJfYW9nc2xBYjVMN2wtcVRqVnRDcVdkaEh1Vk1acUZ2ek1Wano1LWw0bGVMRVpvS3FGMG80eXJR?oc=5
 
-- India dismisses USCIRF report, describes it as motivated and biased | India News - Hindustan Times
-  India dismisses USCIRF report, describes it as motivated
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1JER1h3MkNOT09aYXdRZGcyOXE2SFVXV2Q4bjVRX29WZ3B1N3h5NUt1aXMyY0stdnQzb2YtMFAwVmxmNlhHX3h6YVAybVhZdWxIZmZNZjdKN1pLb2ZJa1I5MGtqenRLd3RpYUh2cFN4TjhETXlYdlRsNGozV2hsRW5xWTE4QnlNdlJjTjNmTGtJeWxKaWxkdFRpOEpTV0NCeXZ0T0tLMlNvcWZkVEx2MEtIYkt3bm5DUU1xaDR6SWxNOENlLS1SMtIBzgFBVV95cUxPR3lXamZfaFFZMUZWUlRYLTMzRU5wdUNaRjBoZEgxc05YN25BS1VYS251Z1FoMC1zanUwelJqN1JLNFBGcV9TOUFvdXY0Q3Z4cUdyZF90UG9OeWl0MUFOcEFRbzYtcWgzVTVYR1A1cFlUNk1GVlJSeDRSV2U5SE8wQnlCemVuRmdwM1pudzhCZGZUNTBPSEhpV1FjX1BUMVlidXlyQ3lTLVNMYldjOFdrd1EyczdGVHFndUJ5TVFxWTFXcjR2SHBSajYybjE1Zw?oc=5
+- Air India to Run 50 Scheduled and Non-Scheduled Flights to West Asia Today - News On AIR
+  Air India to Run 50 Scheduled and Non-Scheduled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxORTd4b2NmdTVsbHg0TFdYZzluZUc1M0d2a1NVbDVVSDd6U2RnSFJ0NnB5alEyV3RPVDdTMlN0X2MyWnc3My1KdFRhTWJsYnZYUTBVXzNtWUQ4Xy1sZVFQSjNVWmw3d1F1YTJaLUdhTHR2NVdydnMyZVJ6V2pzZTUyQjRBWGREUTVndlNMREZvSTJqTnBxUGxiTXlpNkxOZGxfTzNSUDJQaw?oc=5
 
-- India news: Second LPG tanker reaches India amid shortage - dw.com
-  India news: Second LPG tanker
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGItZ3JLQlFsQlpkODRUMUlWQzVJY0FTWTVLeGd5LTBlUjNhWk1PVGdFWXNHZV9Zbkd0NHAxVGdFMlY5cVZ2V1JXMTZJQW5IRTF1ZkpKdlA2a0ZCenRWaUJTY3RTNUpyV2JqVTVoVF9JdnJCZ1ljSnJ2WFB3RTBLeUF3U0FLSWNKUldLN3cxY1BvVmNxaUVR?oc=5
-
-- How Indian Navy Ships Are Escorting Vessels Amid Strait Of Hormuz Closure - NDTV
-  How Indian Navy Ships Are Escorting Vessels Amid
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOclRNTTBXQ21wamRxYjZoLTE4bVJPcHF4QkpQSDNoODVBZ2NiU3NZZnpSbkRmTEdUR1RUdS1qNmZqNnhZbGVtaGRheHVBM2dEc2tReXZBNy1KazZWczc1WThwQjBuOTczblh1YzlORVR1bklWZFp2ekpBQ2xXTmxhZmRMYnFBMjlGN0xYYXhTZWFwTVdTbGpPX3JaTlRQYkpkbmJPLUxXa0t4cThNdmlQNUdKX3FJSVlhSGJtbzhoMlR6ZUVJWS1JUy00QXl4dGhXNHhNOS1tSklBRk9aaDFzTU0ySDMxQjBlcXRPZmZRVU1MREJ5UkRtYVd1WW5xY0o3SFHSAYoCQVVfeXFMUFQyUWlqYUJpOXVqSDlaS3hZQTVILXdCM1lNb3VWRk9jRmxnOXZPTktPckxOeUEwcndsNjJWV2UwY29ZWGxYaWVtOXhkZDlLMlZIS1BXY1Y0ZGtXWEIyUmlDbUJ6S1NFZjZhVmpuR0xGVi1CLXAzX2xSLTYwRTZtZm1jYUgyc2pXUzBFc2xhdm4ycUdtZ2ZOaDZ2QXdRNGNVWUhwUzlaT0Q1djI3amlOSkdPS2k2aUZRWFVtMUpZY0R5dFFOeEJhT2tvMzd6T1VFOVNxUUdGalIxUVY3WlRaQ09peXhJOHhOUjVscWp6ajhJalNhRDZpb29wY3I0dHJ2ZUt1TWd3OExzUUE?oc=5
+- In Big Relief For Flyers, Centre Says No Selection Fee On 60% Seats - NDTV
+  " target="_blank"?oc=5"
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEpnckc4RHhtVlljbXM4TGgtZ0lvN2dZMW50a3pwalNYMjlYWnJnWHBQNk1USTl2eFU3V2ZWNk9IeTk4SWtjdU1CZmc5OFhLdTlnc3JwMUNBdHhoaXdwVm9oZVJ0dlRLck9WSUJ1NGF5dkQ2UVp2M3F6RHFQdUdHOE8yVlRCM0NWUkx1NUdBVkZBMWlCWUI3bUpLQXVPd3pjWGdlc3RxWlBRNUFObUF3M0xR0gG6AUFVX3lxTFBwMjE2Z0N2d3Y4QmFDcmxyRk1DNV9HQkhqc1NKQ1NYeUtyYmd6TnBrX2tuZ0NBRmlTVkt4SkRZU09RcnpPV3E0TTlSbEo5bGREa3Bka3pLMmpMYXVldkNHSFhYdDNwcm0wUHpmSFd6VVJkbVpDQldLSTh4WWpRUlktRmxMMHV4dHhCbnZSU01MQ3pHb0R6ekxBbnZESUJEVWN0MzBtdzVmRjRjNVh1cy1ZendLX0N5bTRDUQ?oc=5
 
 - India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
   India Flags "Selective Targeting" After US
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- BJP lashes out at Congress for 'endorsing' USCIRF report - The Times of India
-  BJP lashes out at Congress for 'endors
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXZHaWQzZ3VCMUJJRjJYeXMxV0ZHMmx2Qy1udFV0V2h0QWlrSC1KQzlaV2pDdTJmZm1zeW1mak5Gd0xCMmplTU5wSWNwdDNiaGZ4d19SZk1GNHRiMXFXcU0zV1h0VW5GLUJ4TnNyS0tyLWNaYmhyenlKbGFiUTNPcGQ1eElpcmJPSV9pUTBSZEZQaTdpZEdrTWRaZFdwWUhTYmFHVUxmYjloNTkxc0hXYWNESUtnNm5UUWJJOVV3Y9IBxAFBVV95cUxPRDNHTGMybUN4THJpVERTaXhGMFVpb1dqNzB6T1hxT1d5V2k3UGdpUW1GUzlJT0dQUXNoOTVlVjdiczIzZ2YwRWQtcjlQeFVlVF9BWEU2VU5YV1A4LXZNZ3ExdkNUTGhoRlJFTmhXMC1HcTZwZE1fT1psbUxlS1hXRU5MVWZNMThtTzF1VFlsay16UDFyX3had1JtOHVWWlVFaUN0dF9pX2d2MloyeERpYkR0S0ZPejRlekRlMU1PSjdwLTJs?oc=5
+- PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation - News On AIR
+  PIB Fact Check Unit Busts Fake ‘Youth K
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2g4Yk9MOGRjcEFZQlM0Qjk3dU1KOXB5ZjJKTUZMcm5tbEhZRnpTZ2FkM2w5WG9jeERFNXRjeXNMQnNiMFlfZVZFTTFSWEhkUzRiTXFpOXZhZ2dybU0xZVRXdkZEdVF3dDU3Nk9zUFo4eGE1U0s2a3Z5c1ZuUFpEOWhyNFFGUWphMFMza2lhcC1sbXNENHVEZkFtNV9QM2JqRFRzT28xdWpjWjcwUVFrOHhNUUZFdw?oc=5
 
-- India dismisses USCIRF report, describes it as motivated and biased | India News - Hindustan Times
-  India dismisses USCIRF report, describes it as motivated
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1JER1h3MkNOT09aYXdRZGcyOXE2SFVXV2Q4bjVRX29WZ3B1N3h5NUt1aXMyY0stdnQzb2YtMFAwVmxmNlhHX3h6YVAybVhZdWxIZmZNZjdKN1pLb2ZJa1I5MGtqenRLd3RpYUh2cFN4TjhETXlYdlRsNGozV2hsRW5xWTE4QnlNdlJjTjNmTGtJeWxKaWxkdFRpOEpTV0NCeXZ0T0tLMlNvcWZkVEx2MEtIYkt3bm5DUU1xaDR6SWxNOENlLS1SMtIBzgFBVV95cUxPR3lXamZfaFFZMUZWUlRYLTMzRU5wdUNaRjBoZEgxc05YN25BS1VYS251Z1FoMC1zanUwelJqN1JLNFBGcV9TOUFvdXY0Q3Z4cUdyZF90UG9OeWl0MUFOcEFRbzYtcWgzVTVYR1A1cFlUNk1GVlJSeDRSV2U5SE8wQnlCemVuRmdwM1pudzhCZGZUNTBPSEhpV1FjX1BUMVlidXlyQ3lTLVNMYldjOFdrd1EyczdGVHFndUJ5TVFxWTFXcjR2SHBSajYybjE1Zw?oc=5
+- Big relief for Indian flyers, govt mandates 60% seats in flights to be free | India News - Hindustan Times
+  The Indian government has mandated 60% of seats in flights to be free.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbFE1WGpGLTlseld0R2dOSlNKcm80SnVZMTlWTGRaX3Q4SlR6YzczWURoUWZFZkhXcWQwOWUyWkxHYmVHMnc1bnQ1dllaVEJoNEprSDk5WV9RN3dPeEFtb3RRWjdBUE1DbFRmeVN5emlLaEdOc3h5QVRnZExObVRjOEpvbWtfN0JKc2dxLVNBVWloOHo1ZWNFZWxleWNOdDNmTE1Oc3NCUlpDQ1ZqSS1VT0Qycm5ia3F2LUN2bU1nYVlEUHpQa2hDeDU4RW1RVVZkZ1JnRmpWTlpyM0RKWjRyLTcwaXpmUdIB6wFBVV95cUxPV3BFMGNMMHpWcXc5RzJBcXR6Y0xEZTA4X3FPTWk3SFF6bTFlQzlTMVVWQkJSRTlXRy1EM2o2bF9iWGVjQ0ZVRDd5TUVBMTBHZkN0MG5McnhLck9nR3hERU5OOXdkcUZoeFFoaDFkdG9aUVhWM093TGZ6aUMyS1V3WGhIaFI1NnJpRWhjUUpMWUFrTFZIV1pJdFdsR0ladHJvRjlnQWRteERiNlU3U2U0X1FpakJfYW9nc2xBYjVMN2wtcVRqVnRDcVdkaEh1Vk1acUZ2ek1Wano1LWw0bGVMRVpvS3FGMG80eXJR?oc=5
 
-- India news: Second LPG tanker reaches India amid shortage - dw.com
-  India news: Second LPG tanker
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGItZ3JLQlFsQlpkODRUMUlWQzVJY0FTWTVLeGd5LTBlUjNhWk1PVGdFWXNHZV9Zbkd0NHAxVGdFMlY5cVZ2V1JXMTZJQW5IRTF1ZkpKdlA2a0ZCenRWaUJTY3RTNUpyV2JqVTVoVF9JdnJCZ1ljSnJ2WFB3RTBLeUF3U0FLSWNKUldLN3cxY1BvVmNxaUVR?oc=5
+- Air India to Run 50 Scheduled and Non-Scheduled Flights to West Asia Today - News On AIR
+  Air India to Run 50 Scheduled and Non-Scheduled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxORTd4b2NmdTVsbHg0TFdYZzluZUc1M0d2a1NVbDVVSDd6U2RnSFJ0NnB5alEyV3RPVDdTMlN0X2MyWnc3My1KdFRhTWJsYnZYUTBVXzNtWUQ4Xy1sZVFQSjNVWmw3d1F1YTJaLUdhTHR2NVdydnMyZVJ6V2pzZTUyQjRBWGREUTVndlNMREZvSTJqTnBxUGxiTXlpNkxOZGxfTzNSUDJQaw?oc=5
 
-- How Indian Navy Ships Are Escorting Vessels Amid Strait Of Hormuz Closure - NDTV
-  How Indian Navy Ships Are Escorting Vessels Amid
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOclRNTTBXQ21wamRxYjZoLTE4bVJPcHF4QkpQSDNoODVBZ2NiU3NZZnpSbkRmTEdUR1RUdS1qNmZqNnhZbGVtaGRheHVBM2dEc2tReXZBNy1KazZWczc1WThwQjBuOTczblh1YzlORVR1bklWZFp2ekpBQ2xXTmxhZmRMYnFBMjlGN0xYYXhTZWFwTVdTbGpPX3JaTlRQYkpkbmJPLUxXa0t4cThNdmlQNUdKX3FJSVlhSGJtbzhoMlR6ZUVJWS1JUy00QXl4dGhXNHhNOS1tSklBRk9aaDFzTU0ySDMxQjBlcXRPZmZRVU1MREJ5UkRtYVd1WW5xY0o3SFHSAYoCQVVfeXFMUFQyUWlqYUJpOXVqSDlaS3hZQTVILXdCM1lNb3VWRk9jRmxnOXZPTktPckxOeUEwcndsNjJWV2UwY29ZWGxYaWVtOXhkZDlLMlZIS1BXY1Y0ZGtXWEIyUmlDbUJ6S1NFZjZhVmpuR0xGVi1CLXAzX2xSLTYwRTZtZm1jYUgyc2pXUzBFc2xhdm4ycUdtZ2ZOaDZ2QXdRNGNVWUhwUzlaT0Q1djI3amlOSkdPS2k2aUZRWFVtMUpZY0R5dFFOeEJhT2tvMzd6T1VFOVNxUUdGalIxUVY3WlRaQ09peXhJOHhOUjVscWp6ajhJalNhRDZpb29wY3I0dHJ2ZUt1TWd3OExzUUE?oc=5
-
-- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
-  India Flags "Selective Targeting" After US
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
-
-- BJP lashes out at Congress for 'endorsing' USCIRF report - The Times of India
-  BJP lashes out at Congress for 'endors
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXZHaWQzZ3VCMUJJRjJYeXMxV0ZHMmx2Qy1udFV0V2h0QWlrSC1KQzlaV2pDdTJmZm1zeW1mak5Gd0xCMmplTU5wSWNwdDNiaGZ4d19SZk1GNHRiMXFXcU0zV1h0VW5GLUJ4TnNyS0tyLWNaYmhyenlKbGFiUTNPcGQ1eElpcmJPSV9pUTBSZEZQaTdpZEdrTWRaZFdwWUhTYmFHVUxmYjloNTkxc0hXYWNESUtnNm5UUWJJOVV3Y9IBxAFBVV95cUxPRDNHTGMybUN4THJpVERTaXhGMFVpb1dqNzB6T1hxT1d5V2k3UGdpUW1GUzlJT0dQUXNoOTVlVjdiczIzZ2YwRWQtcjlQeFVlVF9BWEU2VU5YV1A4LXZNZ3ExdkNUTGhoRlJFTmhXMC1HcTZwZE1fT1psbUxlS1hXRU5MVWZNMThtTzF1VFlsay16UDFyX3had1JtOHVWWlVFaUN0dF9pX2d2MloyeERpYkR0S0ZPejRlekRlMU1PSjdwLTJs?oc=5
-
-- India dismisses USCIRF report, describes it as motivated and biased | India News - Hindustan Times
-  India dismisses USCIRF report, describes it as motivated
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1JER1h3MkNOT09aYXdRZGcyOXE2SFVXV2Q4bjVRX29WZ3B1N3h5NUt1aXMyY0stdnQzb2YtMFAwVmxmNlhHX3h6YVAybVhZdWxIZmZNZjdKN1pLb2ZJa1I5MGtqenRLd3RpYUh2cFN4TjhETXlYdlRsNGozV2hsRW5xWTE4QnlNdlJjTjNmTGtJeWxKaWxkdFRpOEpTV0NCeXZ0T0tLMlNvcWZkVEx2MEtIYkt3bm5DUU1xaDR6SWxNOENlLS1SMtIBzgFBVV95cUxPR3lXamZfaFFZMUZWUlRYLTMzRU5wdUNaRjBoZEgxc05YN25BS1VYS251Z1FoMC1zanUwelJqN1JLNFBGcV9TOUFvdXY0Q3Z4cUdyZF90UG9OeWl0MUFOcEFRbzYtcWgzVTVYR1A1cFlUNk1GVlJSeDRSV2U5SE8wQnlCemVuRmdwM1pudzhCZGZUNTBPSEhpV1FjX1BUMVlidXlyQ3lTLVNMYldjOFdrd1EyczdGVHFndUJ5TVFxWTFXcjR2SHBSajYybjE1Zw?oc=5
-
-- India news: Second LPG tanker reaches India amid shortage - dw.com
-  India news: Second LPG tanker
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGItZ3JLQlFsQlpkODRUMUlWQzVJY0FTWTVLeGd5LTBlUjNhWk1PVGdFWXNHZV9Zbkd0NHAxVGdFMlY5cVZ2V1JXMTZJQW5IRTF1ZkpKdlA2a0ZCenRWaUJTY3RTNUpyV2JqVTVoVF9JdnJCZ1ljSnJ2WFB3RTBLeUF3U0FLSWNKUldLN3cxY1BvVmNxaUVR?oc=5
-
-- How Indian Navy Ships Are Escorting Vessels Amid Strait Of Hormuz Closure - NDTV
-  How Indian Navy Ships Are Escorting Vessels Amid
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOclRNTTBXQ21wamRxYjZoLTE4bVJPcHF4QkpQSDNoODVBZ2NiU3NZZnpSbkRmTEdUR1RUdS1qNmZqNnhZbGVtaGRheHVBM2dEc2tReXZBNy1KazZWczc1WThwQjBuOTczblh1YzlORVR1bklWZFp2ekpBQ2xXTmxhZmRMYnFBMjlGN0xYYXhTZWFwTVdTbGpPX3JaTlRQYkpkbmJPLUxXa0t4cThNdmlQNUdKX3FJSVlhSGJtbzhoMlR6ZUVJWS1JUy00QXl4dGhXNHhNOS1tSklBRk9aaDFzTU0ySDMxQjBlcXRPZmZRVU1MREJ5UkRtYVd1WW5xY0o3SFHSAYoCQVVfeXFMUFQyUWlqYUJpOXVqSDlaS3hZQTVILXdCM1lNb3VWRk9jRmxnOXZPTktPckxOeUEwcndsNjJWV2UwY29ZWGxYaWVtOXhkZDlLMlZIS1BXY1Y0ZGtXWEIyUmlDbUJ6S1NFZjZhVmpuR0xGVi1CLXAzX2xSLTYwRTZtZm1jYUgyc2pXUzBFc2xhdm4ycUdtZ2ZOaDZ2QXdRNGNVWUhwUzlaT0Q1djI3amlOSkdPS2k2aUZRWFVtMUpZY0R5dFFOeEJhT2tvMzd6T1VFOVNxUUdGalIxUVY3WlRaQ09peXhJOHhOUjVscWp6ajhJalNhRDZpb29wY3I0dHJ2ZUt1TWd3OExzUUE?oc=5
+- In Big Relief For Flyers, Centre Says No Selection Fee On 60% Seats - NDTV
+  " target="_blank"?oc=5"
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEpnckc4RHhtVlljbXM4TGgtZ0lvN2dZMW50a3pwalNYMjlYWnJnWHBQNk1USTl2eFU3V2ZWNk9IeTk4SWtjdU1CZmc5OFhLdTlnc3JwMUNBdHhoaXdwVm9oZVJ0dlRLck9WSUJ1NGF5dkQ2UVp2M3F6RHFQdUdHOE8yVlRCM0NWUkx1NUdBVkZBMWlCWUI3bUpLQXVPd3pjWGdlc3RxWlBRNUFObUF3M0xR0gG6AUFVX3lxTFBwMjE2Z0N2d3Y4QmFDcmxyRk1DNV9HQkhqc1NKQ1NYeUtyYmd6TnBrX2tuZ0NBRmlTVkt4SkRZU09RcnpPV3E0TTlSbEo5bGREa3Bka3pLMmpMYXVldkNHSFhYdDNwcm0wUHpmSFd6VVJkbVpDQldLSTh4WWpRUlktRmxMMHV4dHhCbnZSU01MQ3pHb0R6ekxBbnZESUJEVWN0MzBtdzVmRjRjNVh1cy1ZendLX0N5bTRDUQ?oc=5
 
 - India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
   India Flags "Selective Targeting" After US
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- BJP lashes out at Congress for 'endorsing' USCIRF report - The Times of India
-  BJP lashes out at Congress for 'endors
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXZHaWQzZ3VCMUJJRjJYeXMxV0ZHMmx2Qy1udFV0V2h0QWlrSC1KQzlaV2pDdTJmZm1zeW1mak5Gd0xCMmplTU5wSWNwdDNiaGZ4d19SZk1GNHRiMXFXcU0zV1h0VW5GLUJ4TnNyS0tyLWNaYmhyenlKbGFiUTNPcGQ1eElpcmJPSV9pUTBSZEZQaTdpZEdrTWRaZFdwWUhTYmFHVUxmYjloNTkxc0hXYWNESUtnNm5UUWJJOVV3Y9IBxAFBVV95cUxPRDNHTGMybUN4THJpVERTaXhGMFVpb1dqNzB6T1hxT1d5V2k3UGdpUW1GUzlJT0dQUXNoOTVlVjdiczIzZ2YwRWQtcjlQeFVlVF9BWEU2VU5YV1A4LXZNZ3ExdkNUTGhoRlJFTmhXMC1HcTZwZE1fT1psbUxlS1hXRU5MVWZNMThtTzF1VFlsay16UDFyX3had1JtOHVWWlVFaUN0dF9pX2d2MloyeERpYkR0S0ZPejRlekRlMU1PSjdwLTJs?oc=5
+- PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation - News On AIR
+  PIB Fact Check Unit Busts Fake ‘Youth K
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2g4Yk9MOGRjcEFZQlM0Qjk3dU1KOXB5ZjJKTUZMcm5tbEhZRnpTZ2FkM2w5WG9jeERFNXRjeXNMQnNiMFlfZVZFTTFSWEhkUzRiTXFpOXZhZ2dybU0xZVRXdkZEdVF3dDU3Nk9zUFo4eGE1U0s2a3Z5c1ZuUFpEOWhyNFFGUWphMFMza2lhcC1sbXNENHVEZkFtNV9QM2JqRFRzT28xdWpjWjcwUVFrOHhNUUZFdw?oc=5
 
-- India dismisses USCIRF report, describes it as motivated and biased | India News - Hindustan Times
-  India dismisses USCIRF report, describes it as motivated
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1JER1h3MkNOT09aYXdRZGcyOXE2SFVXV2Q4bjVRX29WZ3B1N3h5NUt1aXMyY0stdnQzb2YtMFAwVmxmNlhHX3h6YVAybVhZdWxIZmZNZjdKN1pLb2ZJa1I5MGtqenRLd3RpYUh2cFN4TjhETXlYdlRsNGozV2hsRW5xWTE4QnlNdlJjTjNmTGtJeWxKaWxkdFRpOEpTV0NCeXZ0T0tLMlNvcWZkVEx2MEtIYkt3bm5DUU1xaDR6SWxNOENlLS1SMtIBzgFBVV95cUxPR3lXamZfaFFZMUZWUlRYLTMzRU5wdUNaRjBoZEgxc05YN25BS1VYS251Z1FoMC1zanUwelJqN1JLNFBGcV9TOUFvdXY0Q3Z4cUdyZF90UG9OeWl0MUFOcEFRbzYtcWgzVTVYR1A1cFlUNk1GVlJSeDRSV2U5SE8wQnlCemVuRmdwM1pudzhCZGZUNTBPSEhpV1FjX1BUMVlidXlyQ3lTLVNMYldjOFdrd1EyczdGVHFndUJ5TVFxWTFXcjR2SHBSajYybjE1Zw?oc=5
+- Big relief for Indian flyers, govt mandates 60% seats in flights to be free | India News - Hindustan Times
+  The Indian government has mandated 60% of seats in flights to be free.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbFE1WGpGLTlseld0R2dOSlNKcm80SnVZMTlWTGRaX3Q4SlR6YzczWURoUWZFZkhXcWQwOWUyWkxHYmVHMnc1bnQ1dllaVEJoNEprSDk5WV9RN3dPeEFtb3RRWjdBUE1DbFRmeVN5emlLaEdOc3h5QVRnZExObVRjOEpvbWtfN0JKc2dxLVNBVWloOHo1ZWNFZWxleWNOdDNmTE1Oc3NCUlpDQ1ZqSS1VT0Qycm5ia3F2LUN2bU1nYVlEUHpQa2hDeDU4RW1RVVZkZ1JnRmpWTlpyM0RKWjRyLTcwaXpmUdIB6wFBVV95cUxPV3BFMGNMMHpWcXc5RzJBcXR6Y0xEZTA4X3FPTWk3SFF6bTFlQzlTMVVWQkJSRTlXRy1EM2o2bF9iWGVjQ0ZVRDd5TUVBMTBHZkN0MG5McnhLck9nR3hERU5OOXdkcUZoeFFoaDFkdG9aUVhWM093TGZ6aUMyS1V3WGhIaFI1NnJpRWhjUUpMWUFrTFZIV1pJdFdsR0ladHJvRjlnQWRteERiNlU3U2U0X1FpakJfYW9nc2xBYjVMN2wtcVRqVnRDcVdkaEh1Vk1acUZ2ek1Wano1LWw0bGVMRVpvS3FGMG80eXJR?oc=5
 
-- India news: Second LPG tanker reaches India amid shortage - dw.com
-  India news: Second LPG tanker
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGItZ3JLQlFsQlpkODRUMUlWQzVJY0FTWTVLeGd5LTBlUjNhWk1PVGdFWXNHZV9Zbkd0NHAxVGdFMlY5cVZ2V1JXMTZJQW5IRTF1ZkpKdlA2a0ZCenRWaUJTY3RTNUpyV2JqVTVoVF9JdnJCZ1ljSnJ2WFB3RTBLeUF3U0FLSWNKUldLN3cxY1BvVmNxaUVR?oc=5
+- Air India to Run 50 Scheduled and Non-Scheduled Flights to West Asia Today - News On AIR
+  Air India to Run 50 Scheduled and Non-Scheduled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxORTd4b2NmdTVsbHg0TFdYZzluZUc1M0d2a1NVbDVVSDd6U2RnSFJ0NnB5alEyV3RPVDdTMlN0X2MyWnc3My1KdFRhTWJsYnZYUTBVXzNtWUQ4Xy1sZVFQSjNVWmw3d1F1YTJaLUdhTHR2NVdydnMyZVJ6V2pzZTUyQjRBWGREUTVndlNMREZvSTJqTnBxUGxiTXlpNkxOZGxfTzNSUDJQaw?oc=5
 
-- How Indian Navy Ships Are Escorting Vessels Amid Strait Of Hormuz Closure - NDTV
-  How Indian Navy Ships Are Escorting Vessels Amid
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOclRNTTBXQ21wamRxYjZoLTE4bVJPcHF4QkpQSDNoODVBZ2NiU3NZZnpSbkRmTEdUR1RUdS1qNmZqNnhZbGVtaGRheHVBM2dEc2tReXZBNy1KazZWczc1WThwQjBuOTczblh1YzlORVR1bklWZFp2ekpBQ2xXTmxhZmRMYnFBMjlGN0xYYXhTZWFwTVdTbGpPX3JaTlRQYkpkbmJPLUxXa0t4cThNdmlQNUdKX3FJSVlhSGJtbzhoMlR6ZUVJWS1JUy00QXl4dGhXNHhNOS1tSklBRk9aaDFzTU0ySDMxQjBlcXRPZmZRVU1MREJ5UkRtYVd1WW5xY0o3SFHSAYoCQVVfeXFMUFQyUWlqYUJpOXVqSDlaS3hZQTVILXdCM1lNb3VWRk9jRmxnOXZPTktPckxOeUEwcndsNjJWV2UwY29ZWGxYaWVtOXhkZDlLMlZIS1BXY1Y0ZGtXWEIyUmlDbUJ6S1NFZjZhVmpuR0xGVi1CLXAzX2xSLTYwRTZtZm1jYUgyc2pXUzBFc2xhdm4ycUdtZ2ZOaDZ2QXdRNGNVWUhwUzlaT0Q1djI3amlOSkdPS2k2aUZRWFVtMUpZY0R5dFFOeEJhT2tvMzd6T1VFOVNxUUdGalIxUVY3WlRaQ09peXhJOHhOUjVscWp6ajhJalNhRDZpb29wY3I0dHJ2ZUt1TWd3OExzUUE?oc=5
+- In Big Relief For Flyers, Centre Says No Selection Fee On 60% Seats - NDTV
+  " target="_blank"?oc=5"
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEpnckc4RHhtVlljbXM4TGgtZ0lvN2dZMW50a3pwalNYMjlYWnJnWHBQNk1USTl2eFU3V2ZWNk9IeTk4SWtjdU1CZmc5OFhLdTlnc3JwMUNBdHhoaXdwVm9oZVJ0dlRLck9WSUJ1NGF5dkQ2UVp2M3F6RHFQdUdHOE8yVlRCM0NWUkx1NUdBVkZBMWlCWUI3bUpLQXVPd3pjWGdlc3RxWlBRNUFObUF3M0xR0gG6AUFVX3lxTFBwMjE2Z0N2d3Y4QmFDcmxyRk1DNV9HQkhqc1NKQ1NYeUtyYmd6TnBrX2tuZ0NBRmlTVkt4SkRZU09RcnpPV3E0TTlSbEo5bGREa3Bka3pLMmpMYXVldkNHSFhYdDNwcm0wUHpmSFd6VVJkbVpDQldLSTh4WWpRUlktRmxMMHV4dHhCbnZSU01MQ3pHb0R6ekxBbnZESUJEVWN0MzBtdzVmRjRjNVh1cy1ZendLX0N5bTRDUQ?oc=5
 
 - India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
   India Flags "Selective Targeting" After US
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- BJP lashes out at Congress for 'endorsing' USCIRF report - The Times of India
-  BJP lashes out at Congress for 'endors
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXZHaWQzZ3VCMUJJRjJYeXMxV0ZHMmx2Qy1udFV0V2h0QWlrSC1KQzlaV2pDdTJmZm1zeW1mak5Gd0xCMmplTU5wSWNwdDNiaGZ4d19SZk1GNHRiMXFXcU0zV1h0VW5GLUJ4TnNyS0tyLWNaYmhyenlKbGFiUTNPcGQ1eElpcmJPSV9pUTBSZEZQaTdpZEdrTWRaZFdwWUhTYmFHVUxmYjloNTkxc0hXYWNESUtnNm5UUWJJOVV3Y9IBxAFBVV95cUxPRDNHTGMybUN4THJpVERTaXhGMFVpb1dqNzB6T1hxT1d5V2k3UGdpUW1GUzlJT0dQUXNoOTVlVjdiczIzZ2YwRWQtcjlQeFVlVF9BWEU2VU5YV1A4LXZNZ3ExdkNUTGhoRlJFTmhXMC1HcTZwZE1fT1psbUxlS1hXRU5MVWZNMThtTzF1VFlsay16UDFyX3had1JtOHVWWlVFaUN0dF9pX2d2MloyeERpYkR0S0ZPejRlekRlMU1PSjdwLTJs?oc=5
+- PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation - News On AIR
+  PIB Fact Check Unit Busts Fake ‘Youth K
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2g4Yk9MOGRjcEFZQlM0Qjk3dU1KOXB5ZjJKTUZMcm5tbEhZRnpTZ2FkM2w5WG9jeERFNXRjeXNMQnNiMFlfZVZFTTFSWEhkUzRiTXFpOXZhZ2dybU0xZVRXdkZEdVF3dDU3Nk9zUFo4eGE1U0s2a3Z5c1ZuUFpEOWhyNFFGUWphMFMza2lhcC1sbXNENHVEZkFtNV9QM2JqRFRzT28xdWpjWjcwUVFrOHhNUUZFdw?oc=5
 
-- India dismisses USCIRF report, describes it as motivated and biased | India News - Hindustan Times
-  India dismisses USCIRF report, describes it as motivated
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1JER1h3MkNOT09aYXdRZGcyOXE2SFVXV2Q4bjVRX29WZ3B1N3h5NUt1aXMyY0stdnQzb2YtMFAwVmxmNlhHX3h6YVAybVhZdWxIZmZNZjdKN1pLb2ZJa1I5MGtqenRLd3RpYUh2cFN4TjhETXlYdlRsNGozV2hsRW5xWTE4QnlNdlJjTjNmTGtJeWxKaWxkdFRpOEpTV0NCeXZ0T0tLMlNvcWZkVEx2MEtIYkt3bm5DUU1xaDR6SWxNOENlLS1SMtIBzgFBVV95cUxPR3lXamZfaFFZMUZWUlRYLTMzRU5wdUNaRjBoZEgxc05YN25BS1VYS251Z1FoMC1zanUwelJqN1JLNFBGcV9TOUFvdXY0Q3Z4cUdyZF90UG9OeWl0MUFOcEFRbzYtcWgzVTVYR1A1cFlUNk1GVlJSeDRSV2U5SE8wQnlCemVuRmdwM1pudzhCZGZUNTBPSEhpV1FjX1BUMVlidXlyQ3lTLVNMYldjOFdrd1EyczdGVHFndUJ5TVFxWTFXcjR2SHBSajYybjE1Zw?oc=5
+- Big relief for Indian flyers, govt mandates 60% seats in flights to be free | India News - Hindustan Times
+  The Indian government has mandated 60% of seats in flights to be free.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbFE1WGpGLTlseld0R2dOSlNKcm80SnVZMTlWTGRaX3Q4SlR6YzczWURoUWZFZkhXcWQwOWUyWkxHYmVHMnc1bnQ1dllaVEJoNEprSDk5WV9RN3dPeEFtb3RRWjdBUE1DbFRmeVN5emlLaEdOc3h5QVRnZExObVRjOEpvbWtfN0JKc2dxLVNBVWloOHo1ZWNFZWxleWNOdDNmTE1Oc3NCUlpDQ1ZqSS1VT0Qycm5ia3F2LUN2bU1nYVlEUHpQa2hDeDU4RW1RVVZkZ1JnRmpWTlpyM0RKWjRyLTcwaXpmUdIB6wFBVV95cUxPV3BFMGNMMHpWcXc5RzJBcXR6Y0xEZTA4X3FPTWk3SFF6bTFlQzlTMVVWQkJSRTlXRy1EM2o2bF9iWGVjQ0ZVRDd5TUVBMTBHZkN0MG5McnhLck9nR3hERU5OOXdkcUZoeFFoaDFkdG9aUVhWM093TGZ6aUMyS1V3WGhIaFI1NnJpRWhjUUpMWUFrTFZIV1pJdFdsR0ladHJvRjlnQWRteERiNlU3U2U0X1FpakJfYW9nc2xBYjVMN2wtcVRqVnRDcVdkaEh1Vk1acUZ2ek1Wano1LWw0bGVMRVpvS3FGMG80eXJR?oc=5
 
-- India news: Second LPG tanker reaches India amid shortage - dw.com
-  India news: Second LPG tanker
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGItZ3JLQlFsQlpkODRUMUlWQzVJY0FTWTVLeGd5LTBlUjNhWk1PVGdFWXNHZV9Zbkd0NHAxVGdFMlY5cVZ2V1JXMTZJQW5IRTF1ZkpKdlA2a0ZCenRWaUJTY3RTNUpyV2JqVTVoVF9JdnJCZ1ljSnJ2WFB3RTBLeUF3U0FLSWNKUldLN3cxY1BvVmNxaUVR?oc=5
+- Air India to Run 50 Scheduled and Non-Scheduled Flights to West Asia Today - News On AIR
+  Air India to Run 50 Scheduled and Non-Scheduled
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxORTd4b2NmdTVsbHg0TFdYZzluZUc1M0d2a1NVbDVVSDd6U2RnSFJ0NnB5alEyV3RPVDdTMlN0X2MyWnc3My1KdFRhTWJsYnZYUTBVXzNtWUQ4Xy1sZVFQSjNVWmw3d1F1YTJaLUdhTHR2NVdydnMyZVJ6V2pzZTUyQjRBWGREUTVndlNMREZvSTJqTnBxUGxiTXlpNkxOZGxfTzNSUDJQaw?oc=5
 
-- How Indian Navy Ships Are Escorting Vessels Amid Strait Of Hormuz Closure - NDTV
-  How Indian Navy Ships Are Escorting Vessels Amid
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOclRNTTBXQ21wamRxYjZoLTE4bVJPcHF4QkpQSDNoODVBZ2NiU3NZZnpSbkRmTEdUR1RUdS1qNmZqNnhZbGVtaGRheHVBM2dEc2tReXZBNy1KazZWczc1WThwQjBuOTczblh1YzlORVR1bklWZFp2ekpBQ2xXTmxhZmRMYnFBMjlGN0xYYXhTZWFwTVdTbGpPX3JaTlRQYkpkbmJPLUxXa0t4cThNdmlQNUdKX3FJSVlhSGJtbzhoMlR6ZUVJWS1JUy00QXl4dGhXNHhNOS1tSklBRk9aaDFzTU0ySDMxQjBlcXRPZmZRVU1MREJ5UkRtYVd1WW5xY0o3SFHSAYoCQVVfeXFMUFQyUWlqYUJpOXVqSDlaS3hZQTVILXdCM1lNb3VWRk9jRmxnOXZPTktPckxOeUEwcndsNjJWV2UwY29ZWGxYaWVtOXhkZDlLMlZIS1BXY1Y0ZGtXWEIyUmlDbUJ6S1NFZjZhVmpuR0xGVi1CLXAzX2xSLTYwRTZtZm1jYUgyc2pXUzBFc2xhdm4ycUdtZ2ZOaDZ2QXdRNGNVWUhwUzlaT0Q1djI3amlOSkdPS2k2aUZRWFVtMUpZY0R5dFFOeEJhT2tvMzd6T1VFOVNxUUdGalIxUVY3WlRaQ09peXhJOHhOUjVscWp6ajhJalNhRDZpb29wY3I0dHJ2ZUt1TWd3OExzUUE?oc=5
+- In Big Relief For Flyers, Centre Says No Selection Fee On 60% Seats - NDTV
+  " target="_blank"?oc=5"
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEpnckc4RHhtVlljbXM4TGgtZ0lvN2dZMW50a3pwalNYMjlYWnJnWHBQNk1USTl2eFU3V2ZWNk9IeTk4SWtjdU1CZmc5OFhLdTlnc3JwMUNBdHhoaXdwVm9oZVJ0dlRLck9WSUJ1NGF5dkQ2UVp2M3F6RHFQdUdHOE8yVlRCM0NWUkx1NUdBVkZBMWlCWUI3bUpLQXVPd3pjWGdlc3RxWlBRNUFObUF3M0xR0gG6AUFVX3lxTFBwMjE2Z0N2d3Y4QmFDcmxyRk1DNV9HQkhqc1NKQ1NYeUtyYmd6TnBrX2tuZ0NBRmlTVkt4SkRZU09RcnpPV3E0TTlSbEo5bGREa3Bka3pLMmpMYXVldkNHSFhYdDNwcm0wUHpmSFd6VVJkbVpDQldLSTh4WWpRUlktRmxMMHV4dHhCbnZSU01MQ3pHb0R6ekxBbnZESUJEVWN0MzBtdzVmRjRjNVh1cy1ZendLX0N5bTRDUQ?oc=5
 
-- Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ
-  WSJ: Russia Is Sharing Satellite Imagery and
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOaS1WTjVIZFN4bDNEdGNmd0NDSDZIZlpzbkxmcWJYNWc5SnU2RlFZVzNwZGxTODZXUmE5U2s5Q3FFVXkyUEt6SHVzNWNjcXlLYnByR0VYXzMxYXpCZldkTzhsTTZDNy01Qm5XZ2NvNkRKOU5VQ2djenFVVUNxeDVISENLSnFBbzVKeko2RVY3Q1FCRUhVd0ZkMVJvelFBbHVQc0lR?oc=5
+- India Flags "Selective Targeting" After US Body Urges Sanctions On R&AW, RSS - NDTV
+  India Flags "Selective Targeting" After US
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnRtZ1FyY2l2cHRkM3d1cGRldFhKR1lqSzVlUTVNRlVDLTZOT0UtMmJsX0ZsZ3dSc1hQUXUxdVlYSVpGbHNWYVlKWHZ6OE1QRmczRjlrYkw0b0daZmNPSi12YWh1d3JiUkJZOEtWRmVYUXZpVWxYZWcxNzhKSDNSTkN3OHFtUUpBLUljS01iV1JvVlJqQWJncWhkMVgwbXp0dEdwa2ZVLVFXeEZaMDVNR0o5SErSAbwBQVVfeXFMUF82YUF2T1JoclNZMFA0QTBsMFFpQV93azJQazBQbmV1THpiLWhEVWhRX2pSbk56VTctYnNKMGo1SVlWaTZrOHpzR3FIUTNLd05HYVQ0VlprS0JjWTFaOUZJWUlULTNVWlJKbV9jZzBFc2M2ZENnUVdqQi1USVJkYkI5ZF9VX05DWXRVajlpMkZNSXhlLWNRZGx5d2owQzQ2RW82Ry1fVGJCaW0wZVM0ODdXNGYtMFRMNWdqVjU?oc=5
 
-- Ethiraj College organises drone technology exhibition - The Hindu
-  Ethiraj College organ
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3o4d1RZQklDOVlRRUZCcWFUSXdqTzVfQU5NOFVXV1hKRUZXUC1kQjFKaTNPV2VRaWFHTXJZZExXRVMzWFJMaXFlN0s3V3pIc0d6U3VEbUV2SDZJYjdsbUhuck5MSkNEOG1wOGE1ampQWXFSbDY4d2tBTkg5bV9EbnpPWEpVNkxCaWxoZW9FbU5yRmU5LUd3TnE2U1drQlMwWmFQY2ItU25iZ1psRjhtdGZIai10UTZQRFHSAcABQVVfeXFMUE80WTczamY5S0hadGhPR3BxblU0dXBiZjZRMWFUUTFuVGZQX1FxUnVuU0hyN01aSHFTeF9GMUt0V3A3MnVramY5ODVybTU0amZwdFZCMmRrMU9jNmU3M3FFVkpEdl9FZEVvSzNsMnVPQWFLVk44M051YjE5Z3ZpeXFGLVNxeEo3WDY3djhPczFPUVp1NGRUYi0yVDRXTFJyMlR1XzNCN25NNHd4c1ZMVXBEc3Y4OF9fUjBpdVIxYjVT?oc=5
+- PIB Fact Check Unit Busts Fake ‘Youth Khelo India Federation’ Claiming Govt Affiliation - News On AIR
+  PIB Fact Check Unit Busts Fake ‘Youth K
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOV2g4Yk9MOGRjcEFZQlM0Qjk3dU1KOXB5ZjJKTUZMcm5tbEhZRnpTZ2FkM2w5WG9jeERFNXRjeXNMQnNiMFlfZVZFTTFSWEhkUzRiTXFpOXZhZ2dybU0xZVRXdkZEdVF3dDU3Nk9zUFo4eGE1U0s2a3Z5c1ZuUFpEOWhyNFFGUWphMFMza2lhcC1sbXNENHVEZkFtNV9QM2JqRFRzT28xdWpjWjcwUVFrOHhNUUZFdw?oc=5
 
-- MediaTek Develops Active Optical Cable Technology with Microsoft Research to Deliver Significant Improvements in Data Center Efficiency - MediaTek
-  MediaTek developed Active Optical Cable Technology with Microsoft Research to deliver Significant Improvements
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNbVRicjh2ZlpjQnFWUElkaUFsdXk3dk9pb25VQUx6XzdYX0FQVWlodG13ODJPYXVjTkE3bm9MYTNrLUlHbEtTRXdQSnRVVWdqMkkwbm9ESTFZT1R4NV9XRU5fZXdYcEtqa2RuNnF5UzluTFR6WmNaY1p1X2k5UzgwVGpoaW9JaTd3RmNzOUpYcW9SOGNRUDhGWEZXZ0FyR0lMTDB1ZTR4WUZKQXhTUl9IZzlweDl0TlRnamFrSGFHdkFtQkVPUjd2bUN1d0U3bkJlaG9CakZxZk1pZDNnSzBpdnoyOE5wdy1MdlQ3dXhUMW13UFhGOVI0N0JWR1JPYjd00gGQAkFVX3lxTE9ZcUJldUFVbDN5ZlozenRUdUFaYjlCN1NYME1DX0ZQLWg2Z1J5aF9wZ0NEU3NjTjdFN3hycGg2WDlnRWg3T2pXamtxMHg5NS1FYTFpN29mNVo5QUJ1aF9idEJFd2pmWXdVTk9PQXc2T3pBMEZVZVlHVDVJZWoxMjR4bVNjcHhrUEtzWEVuSzVrSms2aXl5NVlHb3RrblNPWXZyeVkwanplT2VoaEI4eTI1SkRoMmpkODI2OG9qRmlSMDZfRWlVcUNFVXJvUE9ORHE1bWtqdHIwSzUwUk5VWE9xUklVemxWUzJ2bDRNLVNMdzJIZnJZZm42MDhNT3NXWExnVVFxNkExYlR5b2RVWC14?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ - Forbes
-  Nvidia’s AI-
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjNTZ2p4dG56OVNzZkp2aDM1eXh3X0t3T25QVzVHd0VYRTVJYW55bWJ5VDR6UVJZcHZCcERsVy01ejRZRHRkelZGbHoyVEJNUndZQ2QtOFhpOTgwajZkSWh1aFdMaTlhUnhIa0djWWhDdEdIRzJyNU9MOEgzbHBjRXNGei10S1VvMklZTjlyUjNNeTVIQ0g0TlZ1ZnFmMXJ5b0dqd3FSRDNsN3RCcTVPUjVLdmdBLVJiZVVXd1pQQUE?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters
-  Zelenskiy says Ukraine wants money, technology
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWlSVHFNMFJTZmwwemVVQW9JdHhWY3B5UG1INnNPcHFUVlVOSXdmTHdKVml4dVotbnhycU9hUDVCbzlfV1VhQ015dG1QbFZfSjMwUHp4SEtVb2VMZk9CMV85SHZwbEZQcE9xRjd4M29KLXJNSmUxU2hhakRjaWlJS2tqM3dWcWNXcWlvYnFiRUZuS1lVd0hfcnR3cWZOX0pTRWpJT1UtZnlYLXl1dUl2TUNnTjJXMGdMRUpKMzcza3JOdTNVVVFGa1pveVJyNFNDcEhMeg?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-18 01:53:57 UTC_
+_Last updated: 2026-03-18 07:01:13 UTC_
