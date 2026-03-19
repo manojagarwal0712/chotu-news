@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
+- Indian High Commissioner to UK Doraiswami is new ambassador to China
+  
+  🔗 https://indianexpress.com/article/india/vikram-doraiswami-appointed-india-ambassador-to-china-ifs-mea-10591043/
+
+- JD(U) MLA Anant Singh, arrested in 2025 over violence in which ex-RJD man was shot and run over by a vehicle, gets bail
+  
+  🔗 https://indianexpress.com/article/india/anant-singh-bail-patna-high-court-murder-case-10591024/
+
+- Anil Ambani questioned by CBI in Rs 2,900-crore RCom fraud probe, summoned again tomorrow
+  
+  🔗 https://indianexpress.com/article/india/anil-d-ambani-cbi-rcom-bank-fraud-10590880/
+
+- Must work in mission mode to emerge as global hub of indigenous drone manufacturing: Rajnath
+  
+  🔗 https://indianexpress.com/article/india/global-hub-drone-manufacturing-mission-mode-rajnath-singh-10590751/
+
 - Train to Sikkim: Sevoke-Rangpo railway project achieves major tunnel breakthrough, commissioning likely by Dec 2027
   
   🔗 https://indianexpress.com/article/india/train-to-sikkim-sevoke-rangpo-railway-project-tunnel-breakthrough-commissioning-2027-10590537/
 
-- Two decades on, Chhattisgarh puts number of tribals displaced by Maoist violence at 31,098
+- AI Chatbots want your health records. Tread carefully.
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-idp-survey-bastar-tribals-telangana-andhra-pradesh-rehabilitation-10590618/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-chatbots-want-your-health-records-tread-carefully-10590812/
 
-- ‘Snake venom didn’t fall in psychotropic drugs category under NDPS Act’: SC quashes FIR, proceedings against YouTuber Elvish Yadav in 2023 case
+- OnePlus Nord 6 launch soon: Here’s what to expect from the rumoured specs
   
-  🔗 https://indianexpress.com/article/india/elvish-yadav-sc-quashes-wildlife-ndps-charges-10590526/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/oneplus-nord-6-launch-soon-heres-what-to-expect-from-the-rumoured-specs-10590238/
 
-- Railways begins DPR survey for Gauge Conversion of Kangra Valley line
+- Nothing Phone 4a Pro review: Secretly mainstream
   
-  🔗 https://indianexpress.com/article/india/railways-begins-dpr-survey-for-gauge-conversion-of-kangra-valley-railway-line-10590432/
+  🔗 https://indianexpress.com/article/technology/opinion-technology/nothing-phone-4a-pro-review-10590544/
 
-- Covert ‘call centre’ busted in Srinagar cyber fraud crackdown; 7 held
+- Google updates Stitch: What it is and what it means for Figma, other design tools
   
-  🔗 https://indianexpress.com/article/india/covert-call-centre-srinagar-cyber-fraud-10590474/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-stitch-ai-design-tool-what-it-is-figma-impact-10590665/
 
-- How AI-generated videos are distorting your child’s YouTube feed
+- Can AI fix loneliness? Researchers say talking to strangers beats chatbots
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-generated-videos-distorting-child-youtube-feed-10590649/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-chatbots-vs-human-interaction-loneliness-study-ubc-10590531/
 
-- ‘Cosmic archaeology’: Meet PicII-503, the most chemically primitive star ever found outside the Milky Way
-  
-  🔗 https://indianexpress.com/article/technology/science/picii-503-the-most-chemically-primitive-star-ever-found-outside-milky-way-10590533/
+- States Sue to Stop Nexstar’s $3.5 Billion Deal for Tegna
+  A group of state attorneys general are suing to block the $3.5 billion deal. The deal would create the largest operator of local broadcasters in the
+  🔗 https://www.livemint.com/companies/states-sue-to-stop-nexstar-s-3-5-billion-deal-for-tegna-11773946168735.html
 
-- Artemis II to take astronauts around Moon again, over half a century after US’ last trip
-  
-  🔗 https://indianexpress.com/article/technology/science/half-century-later-us-artemis-ii-aims-to-take-astronauts-around-moon-again-10590304/
+- Live Nation CEO Michael Rapino, defending his company, takes star role at antitrust trial
+  Live Nation CEO Michael Rapino takes star role
+  🔗 https://www.livemint.com/companies/live-nation-ceo-michael-rapino-defending-his-company-takes-star-role-at-antitrust-trial-11773946168979.html
 
-- Noise Master Buds 2 review: Bose-tuned audio at a price that makes sense for India
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/noise-master-buds-2-review-price-india-bose-audio-features-10590254/
+- First challenge filed against Adani’s  ₹14,543-crore resolution plan for Jaiprakash Associates
+  The NCLAT will hear
+  🔗 https://www.livemint.com/companies/adani-jal-takeover-nclat-challenge-contractor-claims-insolvency-proceedings-india-11773936157687.html
 
-- Garmin challenges WearOS with new native WhatsApp app: Is your smartwatch supported?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/garmin-smartwatch-whatsapp-app-support-features-10589072/
+- Uber–Rivian deal: $1.25 billion investment to deploy 50,000 robotaxis across US, Europe by 2031
+  The partnership marks a major push into the robotaxi market. Plans to
+  🔗 https://www.livemint.com/companies/news/uberrivian-deal-1-25-billion-investment-to-deploy-50-000-robotaxis-across-us-europe-by-2031-11773930240638.html
 
 - AIESL eyes Jewar, Navi Mumbai MRO hubs as competition intensifies
   State-run aircraft maintenance firm plans  ₹200–300 crore investment in
   🔗 https://www.livemint.com/companies/news/aiesl-eyes-jewar-navi-mumbai-mro-hubs-as-competition-intensifies-aircraft-indigo-akasa-air-india-11773888175572.html
 
-- War slows IPOs, but startups keep bringing headquarters home
-  Richer valuations, deep domestic liquidity, regulatory tailwinds and waning US listing appeal are driving the shift back home. Though geopolitical tensions are delaying IPO timelines,
-  🔗 https://www.livemint.com/companies/war-slows-ipos-but-startups-keep-bringing-headquarters-home-flipkart-zepto-phonepe-zomato-11773898353658.html
+- Small-cap Vibhor Steel share price to be in focus on Friday as company secures  ₹17 crore order
+  Vibhor Steel Tubes announced a new order worth  ₹16.87 crore for transmission towers from Agrawal Infracab Pvt Ltd. The company reported
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-vibhor-steel-share-price-to-be-in-focus-on-friday-as-company-secures-rs-17-crore-order-11773940121291.html
 
-- India faces plastic packaging crunch: Crude oil prices and hoarding create scarcity for F&amp;B firms
-  Plastic price spikes are being worsened by stockpiling and disrupted procurement cycles. Food and beverage makers are already exposed with expected
-  🔗 https://www.livemint.com/companies/plastic-packaging-shortage-india-packaging-industry-crude-oil-prices-pet-resins-polyolefin-food-and-beverage-packaging-11773891925926.html
+- SBI, Amundi to offload 10% in SBI Funds IPO, no fresh shares to be issued
+  SBI will offer up to 128.3 million shares, while Amundi SA will sell up to
+  🔗 https://www.livemint.com/market/ipo/sbi-amundi-stake-sale-mutual-fund-ipo-market-conditions-challenges-opportunities-11773937055193.html
 
-- West Asia war may squeeze profit for India's top beer maker as input costs rise as summer starts
-  State-set beer prices mean the company must absorb war-driven cost hikes. Kingfisher producer United Breweries warns of a 5-
-  🔗 https://www.livemint.com/companies/news/west-asia-war-united-breweries-beer-input-costs-vivek-gupta-profitability-heineken-kingfisher-cans-freight-costs-11773891225304.html
+- FedEx Corp stock slips 1% ahead of third quarter earnings
+  Analysts’ consensus estimates suggest the corporation will announce a 6% rise in quarterly revenue to $23.5 billion.
+  🔗 https://www.livemint.com/market/fedex-corp-stock-slips-1-ahead-of-third-quarter-earnings-11773935979881.html
 
-- Dr Reddy’s, Sun, Zydus ready semaglutide generics, weight loss drug's prices expected to halve in India
-  Over 50 brands of the same molecule hitting the market this year. Which one will be a crowd favourite? Mint decodes.
-  🔗 https://www.livemint.com/companies/india-weight-loss-drugs-semaglutide-dr-reddys-sun-zydus-alkem-novo-nordisk-ozempic-wegovy-11773853801561.html
+- IREDA board to meet on this date to consider the interim dividend for FY26
+  IREDA's board will meet on March 25 to consider an interim dividend for FY 2025-26. Trading window for securities will remain closed until 48 hours post-meeting.
+  🔗 https://www.livemint.com/market/stock-market-news/ireda-board-to-meet-on-this-date-to-consider-the-interim-dividend-for-fy26-11773933567123.html
 
-- Powerica IPO to open next week: Here are 10 key things from the RHP that investors must know
-  The company has cut its IPO size from the  ₹1,400 crore proposed in the draft papers filed in August 2025. Powerica IPO is priced
-  🔗 https://www.livemint.com/market/ipo/powerica-ipo-to-open-next-week-here-are-10-key-things-from-the-rhp-that-investors-must-know-11773923836052.html
-
-- Accenture Q3 revenue forecast misses estimates on cautious enterprise spending
-  Accenture expects a 1% revenue hit for fiscal 2026 from a slowdown in its federal business.
-  🔗 https://www.livemint.com/market/stock-market-news/accenture-q3-revenue-forecast-misses-estimates-on-cautious-enterprise-spending-11773923850426.html
-
-- US stock market today: Dow, S&amp;P 500 futures steady even as Middle East tensions escalate; Brent nears $120
-  The US stock market is expected to open flat as tensions in the Middle East rise. The Dow Jones fell significantly in the previous session.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-steady-as-middle-east-tensions-escalate-brent-nears-120-11773917997983.html
-
-- Precious metals slump! MCX gold rate crashes  ₹8,800 per 10g to  ₹1.44 lakh; silver prices plunge  ₹25,500/kg
-  Gold and silver prices dropped to multi-week lows on MCX. Gold has seen an 11% decline in March, while silver's month-to
-  🔗 https://www.livemint.com/market/commodities/mcx-gold-rate-crashes-rs-8-700-per-10g-to-rs-1-44-lakh-silver-prices-plunge-rs-22300kg-11773922651910.html
-
-- Choice Mutual Fund launches Nifty 50, Nifty Next 50 index fund NFOs: Date, risk factors &amp; other details explained
-  The Choice Nifty Next 50 Index Fund offers exposure to a set of emerging large-cap companies that have the potential to evolve
-  🔗 https://www.livemint.com/market/stock-market-news/choice-mutual-fund-launches-nifty-50-nifty-next-50-index-fund-nfos-date-risk-factors-other-details-explained-11773905376508.html
+- Accenture shares jump nearly 5% on upbeat Q2 performance driven by strong AI demand
+  Accenture's shares rose 4.7% to $204.20 on 19 March following strong Q2 2026 results. The company reported $2.93 EPS and $1.86 billion net
+  🔗 https://www.livemint.com/market/accenture-shares-jump-nearly-5-on-upbeat-q2-performance-driven-by-strong-ai-demand-11773928625313.html
 
 - OnePlus Nord Buds 4 Pro with 55dB ANC, up to 54-hour battery launched in India at  ₹3,999
   Nord Buds 4 Pro come with active noise cancellation, 12mm dynamic drivers, and Bluetooth 6.0. They will be available to buy from March 23 in Radiant Gray and Raven Black colour variants
@@ -100,45 +100,25 @@
   Apple CEO Tim Cook assured that the iPhone will remain central to the company's strategy. Cook also talked about what the next 50 years of Apple could look like
   🔗 https://www.livemint.com/technology/gadgets/iphone-is-not-going-away-tim-cook-shuts-down-rumors-of-ai-hardware-replacing-apples-flagship-11773894233583.html
 
-- Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2hoWkVQQ2Y3MEtxRi05TTE0MTd3ME0ta1N3TUJHNEtEWDJEeG0xX1pVNU1SdC05UkJrTG5pZ2NtMmFLUWVERGJHMWVRU3JjckRkRnJJT2RXZkxjVHVqeVLSAcgBQVVfeXFMTzV4elZ2WTJkUVBpNTJEeHR0cjhPdnlBbU55RXBZaXMxVnFTZXAyeGhlZ0FnN3c4SkVlYUVoMmV0cXZhcnowNE9ONjVFWmdrYTVfbm1hc1FxWWhxWmt1cnRUQ2hULW1wUERsaVE0MUEyRl83TlZMeG9aeEJzbDJBY1ZNME9NSl96bDVxMkJJVkxoVVZIRkloekdiV3NsS3ZIek4xQ05wdmF4UzB3SnNnaGlMZXpBajQ0UmJIN3dMTGZjLUJCNlZWeTY?oc=5
+- HDFC Bank ADRs crash another 4% after sharp selloff, hinting at more losses on Friday
+  HDFC Bank's US-listed shares dipped further following the former chairman's sudden resignation. Despite management's reassurances and a lack of specific details, investors remain cautious. Analysts, however, see the stock correction as a
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-adrs-crash-another-4-after-sharp-selloff-hinting-at-more-losses-on-friday/articleshow/129684783.cms
 
-- Stock Market News, March 18, 2026: Dow Falls After Powell Voices Inflation Worries - WSJ
-  The WSJ published a story on March 18, 20
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWF4Wm1ldV9CTWtLR1AzM2o4czNDaFFJSDJyMWQ2WWRNUWZfczhJUHpza3VXN1N4UmduQ3dLNzY4LWJpNVpSWFVXN2FLb0dtV2NRTnhMRVpLNjJMM294NDhtRDNSc2VpX0NBWERHdVJwSjlCaExLcDZqeks2Z3Y1cFVVRmRId3M?oc=5
+- View: Don't panic, don't capitulate; investors try to see beyond Iran war, says Mike Dolan
+  Global investors remain hesitant to abandon stocks and bonds despite recent energy shocks and inflation concerns. Historical resilience to oil disruptions and strong pre-existing themes like AI and growth offer some support. However, the duration of the Iran conflict and its impact
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms
 
-- Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates - CNBC
-  Asia markets track Wall Street losses as Iran war fuels energy worries.
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXlEeFF2c256Y1ZlTktzbkdfNFROcVcxakk2X0JOWDZtdVJwUGZxVDA1Um8zWXl2Y1RBSzZ0TWJCenUzbmhaYmNSTjVvUnJKdHduaUp0VUNid3hZZlppYTNhNVl1dG5VN1FiZkdfLTBlckd2NnFibVlWNFlJc0NDUVp6bEEwNDNk0gGOAUFVX3lxTE9BSWhCek5oenRYdGhJcGlMSEM3MEdjZ3hIb2ZjTEpwVFNsa1FQZGRpR2RVQzh5cTY3VTVKY1duWXdvNTE3LUsxWDdCUzRQVm96VU1nRHc0U0hiRkJxMXlpOFd2OExGaU9ON3JIOXM5RlRkY1VOV0pYeG5sMFhyVFJwQjFJZzFNd1Y5QXNVZnc?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Nifty and Sensex saw steep declines, volatility spiked, and technical indicators signaled further downside risk. Bearish momentum dominating near-term market direction.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129683153.cms
 
-- Stock Market Today: Futures Slip as Oil Prices Soar Further; Treasury Yields Gain, Gold Falls - Investopedia
-  Stock Market Today: Futures Slip as Oil Prices Soar Further
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVNrSFE3VV9UM1A4dTVHUjIyc1ZuWmlQZmoxcTFablRWaFFsQl9sNGtVRmFyUGo3MWh0bHNaUFlkVGZTUlExUXFYeERBcEhlYzBKSm5mdnhuejZtRVpfdmd4cjZDNUxBZ0c4b3U2aGc0NGNWQzBSa2MzTTVtWVFLY1RXc1VVQWNOQzVkQy0wZlQ?oc=5
+- Iran war escalation wakes markets up to risks of deeper economic pain
+  Investors reassessing the potential economic fallout from the war in ​Iran are selling assets across the globe.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/iran-war-escalation-wakes-markets-up-to-risks-of-deeper-economic-pain/articleshow/129682513.cms
 
-- Bessent Flags Potential Reserve Release, No Market Intervention - Bloomberg.com
-  Bessent Flags Potential Reserve
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVlLNEpZRUxiYTlESXdINkF0VVdIU0NiNWNhcGZDMm9jZUxaWFpsMDFzZ3lwWFhuMFd3NXdaN01TLUdBVzFfVG84S3JGeDJMTk5mMnpvcTdjQ2FkN2wwdlBqTEZibmJ5endEV1JxOHdoYVBod1BMY2wzN1I2eEF4N2ZxNlVZaHJxZFd2YnJrZWVnVkFfNU0tc2JiZWZsYTdIcVhlcDZrN0NtZTMzT0p4RlFXOA?oc=5
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures dip as soaring oil prices, Fed outlook spook investors
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-israel-war-crude-brent-oil-tech-ai-stock-price-news-fed-rate-impact/liveblog/129679941.cms
-
-- Quote of the day by Shelby M.C. Davis: “Invest for the long haul. Don’t get too greedy and don’t get too scared.”
-  Legendary investor Shelby M. C. Davis emphasised that long-term investing succeeds when discipline overrides emotion. Markets move in cycles, and staying invested helps investors benefit from compounding.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-shelby-m-c-davis-invest-for-the-long-haul-dont-get-too-greedy-and-dont-get-too-scared-/articleshow/129671217.cms
-
-- Gainers &amp; Losers: HDFC Bank, Adani Total and Infosys among 6 top movers on Thursday
-  HDFC Bank, Adani Total Gas, Infosys and sector-wide selling in autos and IT shaped a turbulent trading day
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-hdfc-bank-adani-total-and-infosys-among-6-top-movers-on-thursday/slideshow/129679748.cms
-
-- Gold falls to over one-month low on stronger dollar, hawkish Fed tone
-  Gold prices fell to their lowest level in more than a month on Thursday. A stronger dollar and rising Treasury yields, while a hawkish U
-  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-falls-to-over-one-month-low-on-stronger-dollar-hawkish-fed-tone/articleshow/129678948.cms
-
-- HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month
-  Indian stock markets experienced a significant downturn on Thursday. The benchmark Sensex dropped by 2,497 points, closing at 74,207. Five prominent stocks
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tcs-among-5-sensex-stocks-hitting-52-week-lows-down-up-to-16-in-a-month/slideshow/129678702.cms
+- Nearly 28 million trips from Mideast at risk this year due to Iran war, Oxford Economics research note says
+  Nearly 28 million outbound trips from the Middle East are at risk this year. This is due to the disruption caused by the war launched by the U.S. and Israel on
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nearly-28-million-trips-from-mideast-at-risk-this-year-due-to-iran-war-oxford-economics-research-note-says/articleshow/129682721.cms
 
 - India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
   India Eyes Entry Into European 6th-Gener
@@ -148,37 +128,17 @@
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
-  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
+- "Pakistan Has A History": India On US Intel Chief's Nuclear Threat Remark - NDTV
+  "Pakistan Has A History": India On US Intel
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnMwaHRfWDBIWWtON05GVE1oNE1lUVRTdkZDMUh3NGxpZGxMVFlpU1dMUEZiZlQzTWZaZnZ3R2QyaFNYU2NlaGZidl9QQmtqbmVmdnFNU29OVktzOTNRVDAyaFdUUzRpdFNrUWd0X0RHVFo3OExQTFc1WDIwWldtUkdyTzk4SjNSMEJMZkFBWFZtMEV4TWZkazVXVGZRSGhDdGNnQ3JJV0RLR2lDb19R0gG3AUFVX3lxTE1lNnFSUWxkdVNkbG9YcmV4WUEwREtvWGJ1b3Utd0hocm8xeGh6QjFLdW9LeUhuRVRBSzJZdUhIcU96ZDR2c2s0cGpnLS1mX094UEFRcFBVQ3dxSk1uaXJyQVVBdWtIbnk1U2lRaEJqQnBJX0NPdDlzUGl1WTZEQmx6cDZsR21kbFo5dmFpVTk1bUZHV2YzTmhCdFVhMDM4amlrNXVpUm9Nb3FCUDNpZ0tENDNoYkNqOA?oc=5
 
-- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
-  India's young are more educated than ever. So why are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
+- ‘Threat to world’: India flags Pakistan's ‘history’ after US intel chief Tulsi Gabbard's remarks | India News - Hindustan Times
+  India flags Pakistan's ‘history’ after US intel chief Tulsi G
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWZSMzdabmJSMFpPTEh5V1BVc2FYQzkyYjRuSXRPNGowWldZM21rTFF4RUR0R0pRVzNOZzF4dWRMQmtjVFVPY1ItLXQ1VGVGMFBHS0ZmWkI3cFNPRXhvNThzbVd0TVQ5NnBTVjc5eFlMUTRCOVpSUERtYV85NXhETU5yUGFzU3poOUR5SU53VXhiOU5ORzlwZ1lXVW5qUTRFRTVTODliZE40MEgwZXBNZUFGeU9GYnVXTWhhR1JKRk05Rzd6eFBCSlpNRDIyQ0RsVVJkWVd1b091QzFnTUZLS05mN29BSVHSAewBQVVfeXFMUExHQm1kZHZaNHdJeWZKQWw2MjdEc3BaOGFiSUh5UUM1TVBaV0poV3dKYjhSXzUtcEFqVjg4TUd1MC1DcnR4czF0MkZHTlJHR04tUllSQzhvQVZqUFNZWDdzbDJqTDUxV1hnVEdOcExtLXIwaGtEWHkza2lXd1hvQkVVeklZVER2cWtKWHlWUkhUc29sN2NwZC1BOGpiTm50dTdZeEN4U1RzRUlScllTclNyWEpOYWdVY3VmQXg2MTRNaVhyUVNQY1ozc2s2M3RYVmlfTGNwWVZvckdkQ0txMVJsU3dQODgyNEtiRmc?oc=5
 
-- India news: 'Suggestive' song row reaches parliament - dw.com
-  India news: 'Suggest
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
-
-- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
-  India Eyes Entry Into European 6th-Gener
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
-
-- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
-  India, Pakistan ties ‘remain a risk
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
-
-- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
-  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
-
-- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
-  India's young are more educated than ever. So why are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
-
-- India news: 'Suggestive' song row reaches parliament - dw.com
-  India news: 'Suggest
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
+- Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India - The Times of India
+  The Times of India reports that the US is considering sanctions against Iran.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzI3WXIyLUhjNThvUkJmcTVSVWdQSFA0RDE1SXR1c2M1YjB6SzR3d1plZDh4SmF4WDBwN2pqcFA0ZkdYVWUwR2hUMmZrMFhvTkxtZ0xIVTdRNGdnLVJBZVlYSlZYdGdBTGdYOG84ZVZDX2J6aU1US01NTHZTeVByWUtMNEdocEphMXlzRW1MMUpTbWEtbEtPT1p5ZlJmZHRVX2dvc1VfeUpMQ29zYjBJMEtvdk8ybVhObVoyT1psR0JOZldWQ2t1S013MXRZazBXWDhibzFDVW92Z0V6aWtsUWZlSkRuSHcxWGFzOEFGOEpNa2l1Yk9SWk9YRE4yeVXSAYQCQVVfeXFMT2RZOXZCcE95YURKTVZvUkFpdG5OeGxJb1hRbGw2YWs2RVdFNGFJbC05Yzk4aDFKcjhpMkh6QnRxYTg0N1Qzc3NzZUVkTkQ5SW9hT2JXY01vNC0wbGo3UElfWGdmZjhVdk1mSTduSkgyRXF6QXVrZjlEYldzUnQtRzB6bFNldVlOUnFiS3JzbFI1OEsxNElLbUNXSDJZYzdmaEZxTG1xMnB1NVZCRGZMdG9talJ6WUhzUFBVNUgxRWd3ZU9BVDRGdlFZU0xtQklUMUJSX2ZXWFJZQTNLWWlCcjBqSm44Z0oyZ2VCXzhPMlFZZUNQbjhBT2dUS2daVEJfSW1ORTY?oc=5
 
 - India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
   India Eyes Entry Into European 6th-Gener
@@ -188,57 +148,17 @@
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
-  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
+- "Pakistan Has A History": India On US Intel Chief's Nuclear Threat Remark - NDTV
+  "Pakistan Has A History": India On US Intel
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnMwaHRfWDBIWWtON05GVE1oNE1lUVRTdkZDMUh3NGxpZGxMVFlpU1dMUEZiZlQzTWZaZnZ3R2QyaFNYU2NlaGZidl9QQmtqbmVmdnFNU29OVktzOTNRVDAyaFdUUzRpdFNrUWd0X0RHVFo3OExQTFc1WDIwWldtUkdyTzk4SjNSMEJMZkFBWFZtMEV4TWZkazVXVGZRSGhDdGNnQ3JJV0RLR2lDb19R0gG3AUFVX3lxTE1lNnFSUWxkdVNkbG9YcmV4WUEwREtvWGJ1b3Utd0hocm8xeGh6QjFLdW9LeUhuRVRBSzJZdUhIcU96ZDR2c2s0cGpnLS1mX094UEFRcFBVQ3dxSk1uaXJyQVVBdWtIbnk1U2lRaEJqQnBJX0NPdDlzUGl1WTZEQmx6cDZsR21kbFo5dmFpVTk1bUZHV2YzTmhCdFVhMDM4amlrNXVpUm9Nb3FCUDNpZ0tENDNoYkNqOA?oc=5
 
-- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
-  India's young are more educated than ever. So why are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
+- ‘Threat to world’: India flags Pakistan's ‘history’ after US intel chief Tulsi Gabbard's remarks | India News - Hindustan Times
+  India flags Pakistan's ‘history’ after US intel chief Tulsi G
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWZSMzdabmJSMFpPTEh5V1BVc2FYQzkyYjRuSXRPNGowWldZM21rTFF4RUR0R0pRVzNOZzF4dWRMQmtjVFVPY1ItLXQ1VGVGMFBHS0ZmWkI3cFNPRXhvNThzbVd0TVQ5NnBTVjc5eFlMUTRCOVpSUERtYV85NXhETU5yUGFzU3poOUR5SU53VXhiOU5ORzlwZ1lXVW5qUTRFRTVTODliZE40MEgwZXBNZUFGeU9GYnVXTWhhR1JKRk05Rzd6eFBCSlpNRDIyQ0RsVVJkWVd1b091QzFnTUZLS05mN29BSVHSAewBQVVfeXFMUExHQm1kZHZaNHdJeWZKQWw2MjdEc3BaOGFiSUh5UUM1TVBaV0poV3dKYjhSXzUtcEFqVjg4TUd1MC1DcnR4czF0MkZHTlJHR04tUllSQzhvQVZqUFNZWDdzbDJqTDUxV1hnVEdOcExtLXIwaGtEWHkza2lXd1hvQkVVeklZVER2cWtKWHlWUkhUc29sN2NwZC1BOGpiTm50dTdZeEN4U1RzRUlScllTclNyWEpOYWdVY3VmQXg2MTRNaVhyUVNQY1ozc2s2M3RYVmlfTGNwWVZvckdkQ0txMVJsU3dQODgyNEtiRmc?oc=5
 
-- India news: 'Suggestive' song row reaches parliament - dw.com
-  India news: 'Suggest
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
-
-- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
-  India Eyes Entry Into European 6th-Gener
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
-
-- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
-  India, Pakistan ties ‘remain a risk
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
-
-- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
-  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
-
-- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
-  India's young are more educated than ever. So why are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
-
-- India news: 'Suggestive' song row reaches parliament - dw.com
-  India news: 'Suggest
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
-
-- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
-  India Eyes Entry Into European 6th-Gener
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
-
-- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
-  India, Pakistan ties ‘remain a risk
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
-
-- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
-  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
-
-- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
-  India's young are more educated than ever. So why are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
-
-- India news: 'Suggestive' song row reaches parliament - dw.com
-  India news: 'Suggest
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
+- Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India - The Times of India
+  The Times of India reports that the US is considering sanctions against Iran.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzI3WXIyLUhjNThvUkJmcTVSVWdQSFA0RDE1SXR1c2M1YjB6SzR3d1plZDh4SmF4WDBwN2pqcFA0ZkdYVWUwR2hUMmZrMFhvTkxtZ0xIVTdRNGdnLVJBZVlYSlZYdGdBTGdYOG84ZVZDX2J6aU1US01NTHZTeVByWUtMNEdocEphMXlzRW1MMUpTbWEtbEtPT1p5ZlJmZHRVX2dvc1VfeUpMQ29zYjBJMEtvdk8ybVhObVoyT1psR0JOZldWQ2t1S013MXRZazBXWDhibzFDVW92Z0V6aWtsUWZlSkRuSHcxWGFzOEFGOEpNa2l1Yk9SWk9YRE4yeVXSAYQCQVVfeXFMT2RZOXZCcE95YURKTVZvUkFpdG5OeGxJb1hRbGw2YWs2RVdFNGFJbC05Yzk4aDFKcjhpMkh6QnRxYTg0N1Qzc3NzZUVkTkQ5SW9hT2JXY01vNC0wbGo3UElfWGdmZjhVdk1mSTduSkgyRXF6QXVrZjlEYldzUnQtRzB6bFNldVlOUnFiS3JzbFI1OEsxNElLbUNXSDJZYzdmaEZxTG1xMnB1NVZCRGZMdG9talJ6WUhzUFBVNUgxRWd3ZU9BVDRGdlFZU0xtQklUMUJSX2ZXWFJZQTNLWWlCcjBqSm44Z0oyZ2VCXzhPMlFZZUNQbjhBT2dUS2daVEJfSW1ORTY?oc=5
 
 
-_Last updated: 2026-03-19 12:58:04 UTC_
+_Last updated: 2026-03-19 18:54:26 UTC_
