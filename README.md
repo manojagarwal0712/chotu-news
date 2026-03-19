@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- House panel recommends comprehensive performance review of all designated IoEs
+- A decade on the run, undone by one digital slip: How a 2016 murder unravelled in Kerala, with AI help
   
-  🔗 https://indianexpress.com/article/india/house-panel-recommends-comprehensive-performance-review-of-all-designated-ioes-10589404/
+  🔗 https://indianexpress.com/article/india/a-decade-on-the-run-undone-by-one-digital-slip-how-a-2016-murder-unravelled-in-kerala-with-ai-help-10589543/
 
-- Cabinet approves 4-lane Barabanki-Bahraich highway in UP at a cost of Rs 6,969 crore
+- Choice of food to phone ownership: 33 questions Odisha residents will be asked from April 16
   
-  🔗 https://indianexpress.com/article/india/cabinet-4-lane-barabanki-bahraich-highway-up-10589347/
+  🔗 https://indianexpress.com/article/india/choice-of-food-to-phone-ownership-33-questions-odisha-residents-will-be-asked-from-april-16-10589538/
 
-- Rain, hail, and a 6°C dip: IMD issues 48-hour thunderstorm alert for Delhi-NCR and Haryana
+- Nitish Kumar set for unopposed return as JD(U) chief
   
-  🔗 https://indianexpress.com/article/india/delhi-ncr-weather-alert-rain-thunderstorm-imd-march-20-10589185/
+  🔗 https://indianexpress.com/article/india/nitish-kumar-set-for-unopposed-return-as-jdu-chief-10589556/
 
-- Vijay rules out alliance speculation at Ramzan Iftar, signals TVK will go it alone
+- 60% jump in NH-related complaints this fiscal: Gadkari in RS
   
-  🔗 https://indianexpress.com/article/india/vijay-ramzan-iftar-tvk-10589289/
+  🔗 https://indianexpress.com/article/india/60-jump-in-nh-related-complaints-this-fiscal-gadkari-in-rs-10589659/
 
-- X down for several users as site fails to load
+- LS clears Demands for Grants for various ministries, Rs 53-lakh crore approved
   
-  🔗 https://indianexpress.com/article/india/x-down-for-several-users-10589295/
+  🔗 https://indianexpress.com/article/india/ls-clears-demands-for-grants-for-various-ministries-rs-53-lakh-crore-approved-10589658/
 
 - Whale protein discovery could hold clues to longer human lifespans, scientists say
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobe-and-nvidia-partner-to-build-ai-tools-for-creators-and-marketers-10589059/
 
+- HSBC layoffs soon? Wall Street giant may slash 20,000 roles amid AI-led overhaul, says report
+  The CEO's reported plans to shrink workforce in HSBC's middle and back office to accommodate AI is one of the first signs that could demonstrate how the technology may
+  🔗 https://www.livemint.com/companies/news/hsbc-layoffs-soon-wall-street-giant-may-slash-20-000-roles-amid-ai-led-overhaul-says-report-11773883152084.html
+
+- 2,400 Kaiser mental health professionals strike in Northern California over AI concerns
+  2,400 Kaiser mental health professionals
+  🔗 https://www.livemint.com/companies/2400-kaiser-mental-health-professionals-strike-in-northern-california-over-ai-concerns-11773868438362.html
+
+- Pennsylvania regulators seek $2.6 million in penalties for deadly 2023 chocolate factory explosion
+  Pennsylvania regulators seek $2.6
+  🔗 https://www.livemint.com/companies/pennsylvania-regulators-seek-2-6-million-in-penalties-for-deadly-2023-chocolate-factory-explosion-11773862270559.html
+
 - Private Credit Woes Aren’t a Repeat of Financial Crisis, Bank of America Analyst Says
   The recent selloff in firms tied to the private credit industry threw Ares Management Corp. “
   🔗 https://www.livemint.com/companies/private-credit-woes-aren-t-a-repeat-of-financial-crisis-bank-of-america-analyst-says-11773859494061.html
@@ -48,37 +60,29 @@
   War with Iran may slow the pace of dealmaking but it’s unlikely to dent overall M&amp
   🔗 https://www.livemint.com/companies/iran-war-may-delay-deal-timelines-not-derail-m-a-mcmaster-says-11773859307435.html
 
-- Macys posts strong Q4 results but a reserved outlook reflects uncertainty around tariffs, Iran war
-  Macy's posts strong Q4 results but a
-  🔗 https://www.livemint.com/companies/macys-posts-strong-q4-results-but-a-reserved-outlook-reflects-uncertainty-around-tariffs-iran-war-11773844861985.html
+- Indian stock market: 10 key things that changed overnight- Gift Nifty, US Fed policy, Nasdaq, Nikkei slump to oil prices
+  Gift Nifty was trading around 23,251 level, a discount of nearly 525 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-overnight-gift-nifty-us-fed-policy-nasdaq-nikkei-slump-to-oil-prices-11773856536065.html
 
-- He dropped out of college - at 34, this Indian edtech co-founder joins Forbes World's Billionaires List 2026
-  The Indian edtech entrepreneur is also among five others who have made it to the world’s richest ranks in their 30s, as
-  🔗 https://www.livemint.com/companies/people/he-dropped-out-of-college-at-33-this-indian-edtech-co-founder-joins-forbes-worlds-billionaires-list-2026-11773839459456.html
+- Gold, silver rates today: Gold prices fall 1% to $4,800, silver prices trade at $75 level. Is it right time to buy?
+  Spot gold rate today was down 1% to $4,844 per ounce, while spot silver prices plunged 2
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-fall-1-to-4-800-silver-prices-trade-at-75-level-is-it-right-time-to-buy-11773880964363.html
 
-- Nazara Technologies to buy two Spanish gaming firms
-  Nazara will initially buy a 50% controlling stake in Bluetile Games S.L. and BestPlay
-  🔗 https://www.livemint.com/companies/news/nazara-tech-bluetile-bestplay-acquisition-gaming-industry-india-11773838597708.html
+- Gold, silver rate today LIVE: Gold, silver under pressure after US Fed meeting; US-Iran war, BoJ interest rate in focus?
+  Gold prices have remained lacklustre in March so far, shedding nearly 4%. Meanwhile, silver prices have lost 16% during the same period. On MCX, gold prices are hovering around  �
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-gold-prices-today-silver-prices-today-us-iran-war-us-fed-meeting-bank-of-japan-news-19032026-11773834358005.html
 
-- US Fed keeps rates unchanged for second straight meeting at 3.5%–3.75%; signals one rate cut this year: 5 key takeaways
-  The US Federal Reserve has maintained its benchmark interest rate at 3.5% to 3.75% for the second
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-keeps-rates-unchanged-for-second-straight-meeting-at-3-5-3-75-signals-one-rate-cut-this-year-5-key-takeaways-11773855402186.html
+- Bank of Japan Rate Decision LIVE: Will BoJ hike interest rate again in today's policy decision
+  The BoJ is widely expected to keep rates unchanged following its two-day policy meeting.
+  🔗 https://www.livemint.com/market/stock-market-news/bank-of-japan-rate-decision-live-boj-interest-rate-nikkei-global-market-asian-shares-bank-of-japan-policy-today-march-19-11773846299473.html
 
-- Vedanta board to meet on this date to consider third interim dividend for FY26
-  Vedanta's board will meet on March 23 to consider the third interim dividend for 2025-26. The record date for shareholder entitlement is set for March 28, 20
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-board-to-meet-on-this-date-to-consider-third-interim-dividend-for-fy26-11773849555916.html
+- Rajputana Stainless IPO listing date today. GMP, experts signal muted debut of shares on Dalal Street
+  Rajputana Stainless IPO listing date is March 19. The shares will be listed on both the stock exchanges - NSE and BSE.
+  🔗 https://www.livemint.com/market/ipo/rajputana-stainless-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-on-dalal-street-11773855684484.html
 
-- Micron Technology shares extend rally ahead of second quarter earnings
-  Micron Technology is projected to report a fiscal second quarter net income of $10.1 billion on $19
-  🔗 https://www.livemint.com/market/stock-market-news/micron-technology-shares-extend-rally-ahead-of-second-quarter-earnings-11773838887086.html
-
-- Brent crude rebounds 9.6% from day's low to $110 on reports of attack on Iran’s South Pars gas field
-  Crude oil prices rose 9% after an attack on Iran's South Pars gas field. Reports suggest Israel, with US consent, targeted the site.
-  🔗 https://www.livemint.com/market/stock-market-news/brent-crude-rebounds-9-6-from-days-low-to-110-on-reports-of-attack-on-iran-s-south-pars-gas-field-11773843333720.html
-
-- Gold, silver rates today: Comex gold slides $171/oz; silver plunges $4.30 on hotter-than-expected US PPI
-  Gold and silver prices have sharply declined after a higher-than-expected US Producer Price Index and a rebound in crude oil prices. Gold fell to $4,837, while
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slides-171-oz-silver-plunges-4-30-on-hotter-than-expected-us-ppi-11773840055345.html
+- Meta AI agent goes rogue, leaks sensitive company and user data in major internal security breach: Report
+  A rogue Meta AI agent exposed certain data to unauthorized employees. The incident is said to have lasted two hours and was classified as 'Sev 1' severity.
+  🔗 https://www.livemint.com/technology/tech-news/meta-ai-agent-goes-rogue-leaks-sensitive-company-and-user-data-in-major-internal-security-breach-report-11773883343637.html
 
 - Elon Musk's X limits ‘dislike button’ to verified users to curb spam bots
   Musk said the dislike button will be for subscribers/verified accounts only.
@@ -96,49 +100,25 @@
   N Nvidia's new chips will now be optimized to run AI. After over three years of doubling down on
   🔗 https://www.livemint.com/technology/nvidia-ai-chip-groq3-vera-rubin-chip-ai-strategy-india-11773832650435.html
 
-- 'I can't imagine life without…': Tim Cook shuts down retirement rumors
-  Apple CEO Tim Cook has opened up about his retirement rumors. Cook, in a recent interview,
-  🔗 https://www.livemint.com/technology/tech-news/i-cant-imagine-life-without-tim-cook-shuts-down-retirement-rumors-11773822103121.html
+- Stock market holiday today for Gudi Padwa 2026: Are NSE &amp; BSE open or closed for Gudi Padwa celebration? Check now
+  India celebrates Gudi Padwa today. Stock exchanges BSE and the NSE will open for trading at the usual time.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-gudi-padwa-2026-are-nse-bse-open-or-closed-for-gudi-padwa-celebration-check-now/articleshow/129662011.cms
 
-- Stock Market Today: Major Indexes Retreat Ahead of Fed Rate Decision; Inflation Data Lands Hot, Oil Prices Rise; Dow Sheds 450 Points - Investopedia
-  Stock Market Today: Major Indexes Retreat Ahead of Fed Rate Decision. Inflation Data Lands Hot
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTVWSHhmcXFKdk8xNUdZVEtOeW1TYUpKZFBUQXZfY0t4NzJTSWRWbDlpclpKTk54bDh4X0NrZC1VVloySXA0UGV1Zk1KVmNNckV1VGo3MDNiODFYNWpIZE9Nam56NDh0R01qVFdzb3diSjlOQzF0d1VZNzBOS2tTaTB6UnNXNDd6S21MU2J4V0I?oc=5
+- Global Market Today | Asian stocks decline as oil’s surge saps sentiment
+  Asian markets fell Thursday as attacks on energy infrastructure in the Middle East pushed oil prices up. Japan's Nikkei 225 saw a significant drop. Investors are trimming risk as the conflict escalates.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-as-oils-surge-saps-sentiment/articleshow/129668537.cms
 
-- Stocks Rise as Oil Drops in Runup to Fed Meeting: Markets Wrap - Bloomberg.com
-  Stocks Rise as Oil Drops in Runup to
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNVQVMyTWdSdlMxLVlLWVJmclA3WjU1S1l2WHhDVnBnQ0hPSWVuSUVJN05lNEVzLU5uTm1nT0F4TG5PSDRjUWtzQWVZLUJMMjdmSmtsTjVmYXE1WWtpRGM1WllZOWhZRUphSFZZMVRVdktYUEdNZW5HWEc1UWVWSmQzOF8zdEZLQVh2cVh6ZTRfT3BMdnc?oc=5
+- Rupee sinks to new low as soaring Brent nears $110
+  The Indian rupee hit a record low of 92.63 against the US dollar on Wednesday. Despite RBI's efforts to defend the 92.50 level, the rupee breached it following the release of oil premium data.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-new-low-as-soaring-brent-nears-110/articleshow/129668503.cms
 
-- Watch Live: Fed Chair Jerome Powell Talks FOMC Interest-Rate Decision - WSJ
-  Watch Live: Fed Chair Jerome Powell Talks
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWF4Wm1ldV9CTWtLR1AzM2o4czNDaFFJSDJyMWQ2WWRNUWZfczhJUHpza3VXN1N4UmduQ3dLNzY4LWJpNVpSWFVXN2FLb0dtV2NRTnhMRVpLNjJMM294NDhtRDNSc2VpX0NBWERHdVJwSjlCaExLcDZqeks2Z3Y1cFVVRmRId3M?oc=5
+- Iran’s Yuan push for oil trade signals fresh challenge to dollar dominance
+  Iran is reportedly considering demanding Chinese yuan for oil shipments through the Strait of Hormuz. This potential de-dollarization strategy aims to bypass sanctions and bolster ties with China.
+  🔗 https://economictimes.indiatimes.com/markets/forex/irans-yuan-push-for-oil-trade-signals-fresh-challenge-to-dollar-dominance/articleshow/129668467.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex surges over 900 pts, Nifty above 23,800; IT a... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxPMTJaOHpyaS1rYkZyUXBxeklRYktPV1lTbGFpVmVOamczOTc3ekVxamNZV3JPVnZaWHNZQm10YjdwektSNHJRUGZMRUpKUVgtZEhaSzBiZTV3UUlOY3VKRTR1dmtSSElEcX
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPMTJaOHpyaS1rYkZyUXBxeklRYktPV1lTbGFpVmVOamczOTc3ekVxamNZV3JPVnZaWHNZQm10YjdwektSNHJRUGZMRUpKUVgtZEhaSzBiZTV3UUlOY3VKRTR1dmtSSElEcXpNbkFXYW82OHdTZlREWkg5SUFYcWZ6ME1McHBiTjJUU19KWWZtWVVsUUxCM3JocE1PU2VMOG12S281Wlg3WkNfLVpoYl9MWGM0bzlFdV9ia1REanFjemlxbkVVdkx3SHliQzAxWXV4ZDYzZmxyU25qTGw1eUVCV21VZ1FIcGpNTW15RERTTUt0cFlGWENOTXVQWlFaa01mQ2J3V0NTUGcyUdIBjwJBVV95cUxNTkZmWlJSemYtZF9ndS1Bbm4td2xzdUNlOWNZcXBoMGJUS24yYy0xdUxGdUdXX3BaRDhiRVRMUU0tR002YjlGa2ViUzRjc3c2RjFXYlgzYkFDVWNybjNrQ3hkR0FJcmNLN3ZON3YzbzJERlEwR1A1cDc1TTBWXzJFbF9veklqQVhoQV85TUpPUEpUNXoxNUlReTVUZnhheHdlVy1RYnNVR29fb1hqNlh0bDE4d1NUR1ZtWjlwWEU3WG9xa21mZTdEd1Bqck9jTzN6ZTJUS1NJN184NmR6YmU5Q0xUbXZ2TjhHeTEyOFpIenhFZGhMdEp3eHVXNWJSUjRBcWh6M3NHdEdQS1MxYkQ4?oc=5
-
-- Tech stocks, led by Nvidia, providing relief to markets - BBC
-  Tech stocks, led by Nvidia,
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTJmbTg4OGpsSE0wQTQyTDVxaFpGUHlmbW1PZUV3aXBpNXZfc0h0cGtlaTdYRTJQZXIzWkw3THdfZDU1N3ZiTkY0Mk4zaXctRExIT1hTYl92ekd4UFpLWFVUdW5OdmZKT0VrTkQta1ZhUy1FT0g1YllvSHZKdjdtbXpUd3JQMjYxamVXSWlFbU5zT3oxT1c4Tw?oc=5
-
-- US Stocks: Trade Desk shares drop 5% after report that Publicis advised clients against using its platform
-  Publicis Groupe advised clients to avoid the platform. An independent audit found Trade Desk violated agreement clauses. Trade Desk disputes the audit's conclusions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trade-desk-shares-drop-7-after-report-that-publicis-advised-clients-against-using-its-platform/articleshow/129663831.cms
-
-- US Stocks: Unilever shares fall on investor concerns about food business spin-off
-  Unilever shares dropped as investors worried about a potential food business split. Comes soon after the company separated its ice cream brands. Analysts suggest the new CEO needs more time before further restructuring.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unilever-shares-fall-on-investor-concerns-about-food-business-spin-off/articleshow/129663633.cms
-
-- US Federal Reserve keeps rates unchanged; revises inflation outlook upward to 2.7%
-  The US Federal Reserve held interest rates steady, balancing moderating economic growth with rising geopolitical tensions. Indian markets reacted positively, extending gains.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-keeps-rates-unchanged-as-policymakers-balance-iran-war-and-macro-data/articleshow/129662486.cms
-
-- IPO bound Coal India arm CMPDIL garners Rs 470 crore from anchor investors
-  Central Mine Planning and Design Institute (CMPDIL) has raised Rs 470 crore from anchor investors, including LIC and several mutual funds. The initial share sale, an offer for sale by Coal India, opens for public subscription on March 20
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-coal-india-arm-cmpdil-garners-rs-470-crore-from-anchor-investors/articleshow/129661292.cms
-
-- Crypto exchange Kraken freezes IPO plans, CoinDesk reports
-  Kraken has put its multibillion-dollar initial public offering plan on hold, CoinDesk
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-exchange-kraken-freezes-ipo-plans-coindesk-reports/articleshow/129660929.cms
+- Stocks in news: Manappuram Finance, Kotak Bank, Nazara Technologies, United Breweries
+  Indian markets continued their recovery for a third straight session. Nifty approaching the 23,800-24,000 resistance zone. Key stocks like Manappuram Finance, Kotak Bank, Naz
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-manappuram-finance-kotak-bank-nazara-technologies-united-breweries/articleshow/129662710.cms
 
 - Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
   " target="_blank" target
@@ -148,37 +128,17 @@
   'Kind people': Iran thanks India as it receives first medical aid shipment from New
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkFGemtUeDRsSTJzeGZ4RWVaeTRCcklWTnV3dm5RMGtuaVBmVWFCZWtERmJBelkzNDQxWEMtZG1zU0J3cDRwOVUyUWdYOWtFRGpweTBrQm9scTVVWHEtTEVjdXQ4cWlveE1SQWlsQTBGV0MyVjFCMzBnQ21tV3hheU01WGJ4eXMyMWE1SkNMN1gyVlNtQ2U4Vy0xb0UzT3BCb3pNU1d5Y2dWQ1I5dlRqbjFWRTdHRWU3QWI5VTVnVXFyVjBDTFN5ODI3cEdjYkl6dzlxRThuZmxTQm9hMlNJRmU4VTBxbkg1LVHSAe8BQVVfeXFMTVZPMl92MVY2aS0tcXgtSTJSOFYwVUo2YjNMTWNwbElJY0NzTWJIMDRFdlFaYjYxVjdkLWI3ZFZ2R3pHVUtvSHJJMGFzOXBINU5LUlE1blg0VnFFeDFVeFpTbmQzRzBTTW83akZFQ3lIcmtmSVVUM0M2NTVtejJCRnAxZ0pZQjVMUTRPLWl2R1hNSXpKOXVwbnlid251ejVaZVdMaG80SThtVEYtZ1c0U19RSmlpMXNjQVVDQ1lzZnpMcWdhVFBaNFg3S3ZXSWU3bEowMEVEcDdGd3A3LVU2amRvVFhZWUlkNkxmTGVQaDg?oc=5
 
-- 2-3 drones sighted along India’s border every day: Parliament panel report - The Hindu
-  2-3 drones sighted along India’
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOclJFcHZhQ1RaeDllLUlFZzg4WXlMTkhYakthOEp5aWkzcnpTLTRzS1VaQnN5OU9vQV9ZMkZtR3NEaEtib0E4Nk4zcll4QnlLdHJoZThfeFRwOGNybU1peUx2WEYySDRTeHpnVm1SU2hJN0RrVENtRDUxdlIyMVVyc0JnbEk5QXhwWjl5c0NKU1ZTLWN2U0lTV18zREdfVUsyVFpON3ktS2I5Z2pDN0toUDVrQ1RYeGxqYmw1RE5GZjZ3ZjNxLV83aXdqQdIB0gFBVV95cUxPdGljU0gyUlVwOS1sdGRKTnBqVkNRMjFKZ0g4UUE5YVZIZlBFS1hTWEJHNmZ1Y2pFTlVUWTV4OXVYMTdoZ3VrbHdZaFNCdEFrMUIyTTdxVWk0TzNSZ1JJYXJMQmlaWUVsSmVMQTlvazdrbWxKYUVPRUhydXViakR2d2dZQmdHa2N1d2hIWURQanRpU0dkVVh5RzNxWVJzV2JXVTlKUHpsdnBVdk1mbTc4ZkROTDZaOUlBd3JNV0trRUkwTmhPSy1ObENCSXJ4LW5VeEE?oc=5
+- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
+  India, Pakistan ties ‘remain a risk
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- LPG Gas Crisis in India Live Updates: 'No congestion of any kind has been reported at any port', says shipping ministry - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6Rl
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
+- Israel’s AI major in $11 million deal with Indian companies to make UAVs locally - The Times of India
+  Israel’s AI major in $11 million deal with Indian companies to
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVFiY05GdGdTYmZsNjlpV0tsU3ZFM25JcWlDTWlZUnpCSXczS3lUclM0TENYdWYwYTZHSVVrQkc3eGtvSkVCMnRyQ1RmNjFrV2R3T19OS3I1V092ZXExZEs0d1V1Znl6Mjg2UXE4SXBKWGgxX2tXSjM5MExYbUVaVjJ0T0xJLVhmaDFtQi12RDJSRWpROXhDdURycmc5TnpvTTFUaGRMZnV3RDFoOXA2ZXpHbG0wTmNtRDh0S1ZOU3NxSHQ4akZLMmNnV3R1NlpWQXNUWkp2N2tDSUlSdW9ZLTNHS2hwQmZH0gHuAUFVX3lxTE9ldHVyR0htZ2NtTGRXS1lZTHJGZmItUVNyQnZiX2xhZzc2UFplbWNxbjB4NUNyUEFUaDRLQkhGNHBTNmdGb1RuTW1OV0ZIeVAwcGxJNEZYNDN3cTItU3RzMjB5UXFIZW1iQlBSLVd0aDFGRzJlVVJqQ2E3WWRfUUlPQV9EV3M4ck1tWXNVZjdId2g5eVFlNEdTOG9DbGRyN0JZb1pDMkhNMHc1OVZTZDJyN1hoWGMzOXJrVF93VmJjNjBRaTVqaVE4N0p1bzI1ZFAwMFpnR2puNFo2TjkzbWZ1SE53X3RxUlpRTC1QaFE?oc=5
 
-- Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement - NDTV
-  Gulmarg Land Lease Case Closed,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHJYczRGMmtFRGRWbl9sVHhxbzliM1VfWXcxTVdxWUtvb2Q1TmNLcGVtM1hjZlNkU0pQTkZ6Y2NQV0cwdVNfS2lBcnFWX0p2UXRUb3FMMmNNV01oRDU4aVM3TmdTa3M0YlF2ajVxbzl5dlJNZWE1U1g0WW5WTkcwaC05cm02OXFQQ2hrdUVzN1RVbzRJUFZJMmE1eXFDTHR6ai0zd0tOZ1FvbU9nRkg2YV83RHBuS1hqVndDZ2hxak5pbERvY2lQVHRjZ1ZKMzIz0gHYAUFVX3lxTE0yWTJlR3dnOHFMV3BYd1V1cjhZSmJEcTRPZ1FUaW9NUEdheFZCWTM1bGJuaXZDYlR3d3dxdnlhOE1HcG1rdzcxbVhJdGkzNEJieGtqTmRDRTNmRjBzdTBXQmwzWGxydGlxLVNrcjVxQlR1ZVNoSWdhZU5la2txMFRwOElBNHNfTS1ZYVJhZnNNX0pDRW4zTk9KT1hFX1VkSTdaeXdHd3NkZmlJRzY4LTBmbkxFa0VQcm83RlJiYXM3YmdzMXN4ZzMtWUNvRXFyQTdjUEM4LXZONA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- 'Kind people': Iran thanks India as it receives first medical aid shipment from New Delhi - The Times of India
-  'Kind people': Iran thanks India as it receives first medical aid shipment from New
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkFGemtUeDRsSTJzeGZ4RWVaeTRCcklWTnV3dm5RMGtuaVBmVWFCZWtERmJBelkzNDQxWEMtZG1zU0J3cDRwOVUyUWdYOWtFRGpweTBrQm9scTVVWHEtTEVjdXQ4cWlveE1SQWlsQTBGV0MyVjFCMzBnQ21tV3hheU01WGJ4eXMyMWE1SkNMN1gyVlNtQ2U4Vy0xb0UzT3BCb3pNU1d5Y2dWQ1I5dlRqbjFWRTdHRWU3QWI5VTVnVXFyVjBDTFN5ODI3cEdjYkl6dzlxRThuZmxTQm9hMlNJRmU4VTBxbkg1LVHSAe8BQVVfeXFMTVZPMl92MVY2aS0tcXgtSTJSOFYwVUo2YjNMTWNwbElJY0NzTWJIMDRFdlFaYjYxVjdkLWI3ZFZ2R3pHVUtvSHJJMGFzOXBINU5LUlE1blg0VnFFeDFVeFpTbmQzRzBTTW83akZFQ3lIcmtmSVVUM0M2NTVtejJCRnAxZ0pZQjVMUTRPLWl2R1hNSXpKOXVwbnlid251ejVaZVdMaG80SThtVEYtZ1c0U19RSmlpMXNjQVVDQ1lzZnpMcWdhVFBaNFg3S3ZXSWU3bEowMEVEcDdGd3A3LVU2amRvVFhZWUlkNkxmTGVQaDg?oc=5
-
-- 2-3 drones sighted along India’s border every day: Parliament panel report - The Hindu
-  2-3 drones sighted along India’
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOclJFcHZhQ1RaeDllLUlFZzg4WXlMTkhYakthOEp5aWkzcnpTLTRzS1VaQnN5OU9vQV9ZMkZtR3NEaEtib0E4Nk4zcll4QnlLdHJoZThfeFRwOGNybU1peUx2WEYySDRTeHpnVm1SU2hJN0RrVENtRDUxdlIyMVVyc0JnbEk5QXhwWjl5c0NKU1ZTLWN2U0lTV18zREdfVUsyVFpON3ktS2I5Z2pDN0toUDVrQ1RYeGxqYmw1RE5GZjZ3ZjNxLV83aXdqQdIB0gFBVV95cUxPdGljU0gyUlVwOS1sdGRKTnBqVkNRMjFKZ0g4UUE5YVZIZlBFS1hTWEJHNmZ1Y2pFTlVUWTV4OXVYMTdoZ3VrbHdZaFNCdEFrMUIyTTdxVWk0TzNSZ1JJYXJMQmlaWUVsSmVMQTlvazdrbWxKYUVPRUhydXViakR2d2dZQmdHa2N1d2hIWURQanRpU0dkVVh5RzNxWVJzV2JXVTlKUHpsdnBVdk1mbTc4ZkROTDZaOUlBd3JNV0trRUkwTmhPSy1ObENCSXJ4LW5VeEE?oc=5
-
-- LPG Gas Crisis in India Live Updates: 'No congestion of any kind has been reported at any port', says shipping ministry - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6Rl
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
-
-- Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement - NDTV
-  Gulmarg Land Lease Case Closed,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHJYczRGMmtFRGRWbl9sVHhxbzliM1VfWXcxTVdxWUtvb2Q1TmNLcGVtM1hjZlNkU0pQTkZ6Y2NQV0cwdVNfS2lBcnFWX0p2UXRUb3FMMmNNV01oRDU4aVM3TmdTa3M0YlF2ajVxbzl5dlJNZWE1U1g0WW5WTkcwaC05cm02OXFQQ2hrdUVzN1RVbzRJUFZJMmE1eXFDTHR6ai0zd0tOZ1FvbU9nRkg2YV83RHBuS1hqVndDZ2hxak5pbERvY2lQVHRjZ1ZKMzIz0gHYAUFVX3lxTE0yWTJlR3dnOHFMV3BYd1V1cjhZSmJEcTRPZ1FUaW9NUEdheFZCWTM1bGJuaXZDYlR3d3dxdnlhOE1HcG1rdzcxbVhJdGkzNEJieGtqTmRDRTNmRjBzdTBXQmwzWGxydGlxLVNrcjVxQlR1ZVNoSWdhZU5la2txMFRwOElBNHNfTS1ZYVJhZnNNX0pDRW4zTk9KT1hFX1VkSTdaeXdHd3NkZmlJRzY4LTBmbkxFa0VQcm83RlJiYXM3YmdzMXN4ZzMtWUNvRXFyQTdjUEM4LXZONA?oc=5
+- 'Very unusual, need remedy': SC on Mamata 'obstructing' ED charge - The Times of India
+  'Very unusual, need remedy': SC on Mamata
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTnRZclZlLXd3UGk3ZXZ1aVhYQmFaWndEY0dlUFpGODdiMkpIYy1jRUZFVW4zSklYNGo5aGFYSlNJeGZaeVNLSzlDb0NZNTJ3RjhfeVhpRjIxV053N2UxMjF2N3hVV25kcFdOZVU0bWpVc1huTXNJVV91YXBJWUZoclZiOWRvMk9pb1JraG10OWktYUNHeDVFc1BkdnJxa1lCakU1b29ES3lZQjBHTUQ2bTI0MTEzU1Fadk5KY0Y1Sm9pbC1wSWfSAcsBQVVfeXFMUGlWUktuNEFieU1lbTFfUVlvczFSTW1aZ2hPZmRIOWl2ekpfNnVXTFlOQWt4SlNTM2ZpNk1KRGFtM0xXRUhRNm0weEdhWmRtc3NoVFotX211ak5iaXNmb3MxZmg3TlJvbXlUMXJ4M1ZRcFJaWjAxRlpKWElDeXc1U2VrNUQ0bW5yYUIxRVZRTjFoWmtQZTRzX3Jjd2NOa0I1aFF2ZW5iVU1JdjZ2Zjh0YjJKMklKSW1QamlhUDdOWE1DUlhRa18wY2dSSW8?oc=5
 
 - Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
   " target="_blank" target
@@ -188,65 +148,17 @@
   'Kind people': Iran thanks India as it receives first medical aid shipment from New
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkFGemtUeDRsSTJzeGZ4RWVaeTRCcklWTnV3dm5RMGtuaVBmVWFCZWtERmJBelkzNDQxWEMtZG1zU0J3cDRwOVUyUWdYOWtFRGpweTBrQm9scTVVWHEtTEVjdXQ4cWlveE1SQWlsQTBGV0MyVjFCMzBnQ21tV3hheU01WGJ4eXMyMWE1SkNMN1gyVlNtQ2U4Vy0xb0UzT3BCb3pNU1d5Y2dWQ1I5dlRqbjFWRTdHRWU3QWI5VTVnVXFyVjBDTFN5ODI3cEdjYkl6dzlxRThuZmxTQm9hMlNJRmU4VTBxbkg1LVHSAe8BQVVfeXFMTVZPMl92MVY2aS0tcXgtSTJSOFYwVUo2YjNMTWNwbElJY0NzTWJIMDRFdlFaYjYxVjdkLWI3ZFZ2R3pHVUtvSHJJMGFzOXBINU5LUlE1blg0VnFFeDFVeFpTbmQzRzBTTW83akZFQ3lIcmtmSVVUM0M2NTVtejJCRnAxZ0pZQjVMUTRPLWl2R1hNSXpKOXVwbnlid251ejVaZVdMaG80SThtVEYtZ1c0U19RSmlpMXNjQVVDQ1lzZnpMcWdhVFBaNFg3S3ZXSWU3bEowMEVEcDdGd3A3LVU2amRvVFhZWUlkNkxmTGVQaDg?oc=5
 
-- 2-3 drones sighted along India’s border every day: Parliament panel report - The Hindu
-  2-3 drones sighted along India’
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOclJFcHZhQ1RaeDllLUlFZzg4WXlMTkhYakthOEp5aWkzcnpTLTRzS1VaQnN5OU9vQV9ZMkZtR3NEaEtib0E4Nk4zcll4QnlLdHJoZThfeFRwOGNybU1peUx2WEYySDRTeHpnVm1SU2hJN0RrVENtRDUxdlIyMVVyc0JnbEk5QXhwWjl5c0NKU1ZTLWN2U0lTV18zREdfVUsyVFpON3ktS2I5Z2pDN0toUDVrQ1RYeGxqYmw1RE5GZjZ3ZjNxLV83aXdqQdIB0gFBVV95cUxPdGljU0gyUlVwOS1sdGRKTnBqVkNRMjFKZ0g4UUE5YVZIZlBFS1hTWEJHNmZ1Y2pFTlVUWTV4OXVYMTdoZ3VrbHdZaFNCdEFrMUIyTTdxVWk0TzNSZ1JJYXJMQmlaWUVsSmVMQTlvazdrbWxKYUVPRUhydXViakR2d2dZQmdHa2N1d2hIWURQanRpU0dkVVh5RzNxWVJzV2JXVTlKUHpsdnBVdk1mbTc4ZkROTDZaOUlBd3JNV0trRUkwTmhPSy1ObENCSXJ4LW5VeEE?oc=5
+- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
+  India, Pakistan ties ‘remain a risk
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- LPG Gas Crisis in India Live Updates: 'No congestion of any kind has been reported at any port', says shipping ministry - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6Rl
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
+- Israel’s AI major in $11 million deal with Indian companies to make UAVs locally - The Times of India
+  Israel’s AI major in $11 million deal with Indian companies to
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVFiY05GdGdTYmZsNjlpV0tsU3ZFM25JcWlDTWlZUnpCSXczS3lUclM0TENYdWYwYTZHSVVrQkc3eGtvSkVCMnRyQ1RmNjFrV2R3T19OS3I1V092ZXExZEs0d1V1Znl6Mjg2UXE4SXBKWGgxX2tXSjM5MExYbUVaVjJ0T0xJLVhmaDFtQi12RDJSRWpROXhDdURycmc5TnpvTTFUaGRMZnV3RDFoOXA2ZXpHbG0wTmNtRDh0S1ZOU3NxSHQ4akZLMmNnV3R1NlpWQXNUWkp2N2tDSUlSdW9ZLTNHS2hwQmZH0gHuAUFVX3lxTE9ldHVyR0htZ2NtTGRXS1lZTHJGZmItUVNyQnZiX2xhZzc2UFplbWNxbjB4NUNyUEFUaDRLQkhGNHBTNmdGb1RuTW1OV0ZIeVAwcGxJNEZYNDN3cTItU3RzMjB5UXFIZW1iQlBSLVd0aDFGRzJlVVJqQ2E3WWRfUUlPQV9EV3M4ck1tWXNVZjdId2g5eVFlNEdTOG9DbGRyN0JZb1pDMkhNMHc1OVZTZDJyN1hoWGMzOXJrVF93VmJjNjBRaTVqaVE4N0p1bzI1ZFAwMFpnR2puNFo2TjkzbWZ1SE53X3RxUlpRTC1QaFE?oc=5
 
-- Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement - NDTV
-  Gulmarg Land Lease Case Closed,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHJYczRGMmtFRGRWbl9sVHhxbzliM1VfWXcxTVdxWUtvb2Q1TmNLcGVtM1hjZlNkU0pQTkZ6Y2NQV0cwdVNfS2lBcnFWX0p2UXRUb3FMMmNNV01oRDU4aVM3TmdTa3M0YlF2ajVxbzl5dlJNZWE1U1g0WW5WTkcwaC05cm02OXFQQ2hrdUVzN1RVbzRJUFZJMmE1eXFDTHR6ai0zd0tOZ1FvbU9nRkg2YV83RHBuS1hqVndDZ2hxak5pbERvY2lQVHRjZ1ZKMzIz0gHYAUFVX3lxTE0yWTJlR3dnOHFMV3BYd1V1cjhZSmJEcTRPZ1FUaW9NUEdheFZCWTM1bGJuaXZDYlR3d3dxdnlhOE1HcG1rdzcxbVhJdGkzNEJieGtqTmRDRTNmRjBzdTBXQmwzWGxydGlxLVNrcjVxQlR1ZVNoSWdhZU5la2txMFRwOElBNHNfTS1ZYVJhZnNNX0pDRW4zTk9KT1hFX1VkSTdaeXdHd3NkZmlJRzY4LTBmbkxFa0VQcm83RlJiYXM3YmdzMXN4ZzMtWUNvRXFyQTdjUEM4LXZONA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- 'Kind people': Iran thanks India as it receives first medical aid shipment from New Delhi - The Times of India
-  'Kind people': Iran thanks India as it receives first medical aid shipment from New
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkFGemtUeDRsSTJzeGZ4RWVaeTRCcklWTnV3dm5RMGtuaVBmVWFCZWtERmJBelkzNDQxWEMtZG1zU0J3cDRwOVUyUWdYOWtFRGpweTBrQm9scTVVWHEtTEVjdXQ4cWlveE1SQWlsQTBGV0MyVjFCMzBnQ21tV3hheU01WGJ4eXMyMWE1SkNMN1gyVlNtQ2U4Vy0xb0UzT3BCb3pNU1d5Y2dWQ1I5dlRqbjFWRTdHRWU3QWI5VTVnVXFyVjBDTFN5ODI3cEdjYkl6dzlxRThuZmxTQm9hMlNJRmU4VTBxbkg1LVHSAe8BQVVfeXFMTVZPMl92MVY2aS0tcXgtSTJSOFYwVUo2YjNMTWNwbElJY0NzTWJIMDRFdlFaYjYxVjdkLWI3ZFZ2R3pHVUtvSHJJMGFzOXBINU5LUlE1blg0VnFFeDFVeFpTbmQzRzBTTW83akZFQ3lIcmtmSVVUM0M2NTVtejJCRnAxZ0pZQjVMUTRPLWl2R1hNSXpKOXVwbnlid251ejVaZVdMaG80SThtVEYtZ1c0U19RSmlpMXNjQVVDQ1lzZnpMcWdhVFBaNFg3S3ZXSWU3bEowMEVEcDdGd3A3LVU2amRvVFhZWUlkNkxmTGVQaDg?oc=5
-
-- 2-3 drones sighted along India’s border every day: Parliament panel report - The Hindu
-  2-3 drones sighted along India’
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOclJFcHZhQ1RaeDllLUlFZzg4WXlMTkhYakthOEp5aWkzcnpTLTRzS1VaQnN5OU9vQV9ZMkZtR3NEaEtib0E4Nk4zcll4QnlLdHJoZThfeFRwOGNybU1peUx2WEYySDRTeHpnVm1SU2hJN0RrVENtRDUxdlIyMVVyc0JnbEk5QXhwWjl5c0NKU1ZTLWN2U0lTV18zREdfVUsyVFpON3ktS2I5Z2pDN0toUDVrQ1RYeGxqYmw1RE5GZjZ3ZjNxLV83aXdqQdIB0gFBVV95cUxPdGljU0gyUlVwOS1sdGRKTnBqVkNRMjFKZ0g4UUE5YVZIZlBFS1hTWEJHNmZ1Y2pFTlVUWTV4OXVYMTdoZ3VrbHdZaFNCdEFrMUIyTTdxVWk0TzNSZ1JJYXJMQmlaWUVsSmVMQTlvazdrbWxKYUVPRUhydXViakR2d2dZQmdHa2N1d2hIWURQanRpU0dkVVh5RzNxWVJzV2JXVTlKUHpsdnBVdk1mbTc4ZkROTDZaOUlBd3JNV0trRUkwTmhPSy1ObENCSXJ4LW5VeEE?oc=5
-
-- LPG Gas Crisis in India Live Updates: 'No congestion of any kind has been reported at any port', says shipping ministry - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6Rl
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
-
-- Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement - NDTV
-  Gulmarg Land Lease Case Closed,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHJYczRGMmtFRGRWbl9sVHhxbzliM1VfWXcxTVdxWUtvb2Q1TmNLcGVtM1hjZlNkU0pQTkZ6Y2NQV0cwdVNfS2lBcnFWX0p2UXRUb3FMMmNNV01oRDU4aVM3TmdTa3M0YlF2ajVxbzl5dlJNZWE1U1g0WW5WTkcwaC05cm02OXFQQ2hrdUVzN1RVbzRJUFZJMmE1eXFDTHR6ai0zd0tOZ1FvbU9nRkg2YV83RHBuS1hqVndDZ2hxak5pbERvY2lQVHRjZ1ZKMzIz0gHYAUFVX3lxTE0yWTJlR3dnOHFMV3BYd1V1cjhZSmJEcTRPZ1FUaW9NUEdheFZCWTM1bGJuaXZDYlR3d3dxdnlhOE1HcG1rdzcxbVhJdGkzNEJieGtqTmRDRTNmRjBzdTBXQmwzWGxydGlxLVNrcjVxQlR1ZVNoSWdhZU5la2txMFRwOElBNHNfTS1ZYVJhZnNNX0pDRW4zTk9KT1hFX1VkSTdaeXdHd3NkZmlJRzY4LTBmbkxFa0VQcm83RlJiYXM3YmdzMXN4ZzMtWUNvRXFyQTdjUEM4LXZONA?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 'Very unusual, need remedy': SC on Mamata 'obstructing' ED charge - The Times of India
+  'Very unusual, need remedy': SC on Mamata
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTnRZclZlLXd3UGk3ZXZ1aVhYQmFaWndEY0dlUFpGODdiMkpIYy1jRUZFVW4zSklYNGo5aGFYSlNJeGZaeVNLSzlDb0NZNTJ3RjhfeVhpRjIxV053N2UxMjF2N3hVV25kcFdOZVU0bWpVc1huTXNJVV91YXBJWUZoclZiOWRvMk9pb1JraG10OWktYUNHeDVFc1BkdnJxa1lCakU1b29ES3lZQjBHTUQ2bTI0MTEzU1Fadk5KY0Y1Sm9pbC1wSWfSAcsBQVVfeXFMUGlWUktuNEFieU1lbTFfUVlvczFSTW1aZ2hPZmRIOWl2ekpfNnVXTFlOQWt4SlNTM2ZpNk1KRGFtM0xXRUhRNm0weEdhWmRtc3NoVFotX211ak5iaXNmb3MxZmg3TlJvbXlUMXJ4M1ZRcFJaWjAxRlpKWElDeXc1U2VrNUQ0bW5yYUIxRVZRTjFoWmtQZTRzX3Jjd2NOa0I1aFF2ZW5iVU1JdjZ2Zjh0YjJKMklKSW1QamlhUDdOWE1DUlhRa18wY2dSSW8?oc=5
 
 
-_Last updated: 2026-03-18 18:56:38 UTC_
+_Last updated: 2026-03-19 01:53:20 UTC_
