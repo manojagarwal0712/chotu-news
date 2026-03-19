@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- ‘In Rajasthan’s Shekhawati haveli towns, the race the save fading frescoes’
+- Train to Sikkim: Sevoke-Rangpo railway project achieves major tunnel breakthrough, commissioning likely by Dec 2027
   
-  🔗 https://indianexpress.com/article/india/in-rajasthans-shekhawati-haveli-towns-the-race-the-save-fading-frescoes-10590046/
+  🔗 https://indianexpress.com/article/india/train-to-sikkim-sevoke-rangpo-railway-project-tunnel-breakthrough-commissioning-2027-10590537/
 
-- Gold Rate Today, March 19: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Two decades on, Chhattisgarh puts number of tribals displaced by Maoist violence at 31,098
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-march-19-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10590023/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-idp-survey-bastar-tribals-telangana-andhra-pradesh-rehabilitation-10590618/
 
-- BJP announces candidates for bypolls in Goa, Karnataka, Nagaland, Tripura
+- ‘Snake venom didn’t fall in psychotropic drugs category under NDPS Act’: SC quashes FIR, proceedings against YouTuber Elvish Yadav in 2023 case
   
-  🔗 https://indianexpress.com/article/india/bjp-announces-candidates-for-bypolls-in-goa-karnataka-nagaland-tripura-10589931/
+  🔗 https://indianexpress.com/article/india/elvish-yadav-sc-quashes-wildlife-ndps-charges-10590526/
 
-- News Today Live Updates, 19 March | Amidst tension in Uttam Nagar, Delhi Police seek more companies of paramilitary forces for Eid
+- Railways begins DPR survey for Gauge Conversion of Kangra Valley line
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-03-19-2026-news-headlines-10589764/
+  🔗 https://indianexpress.com/article/india/railways-begins-dpr-survey-for-gauge-conversion-of-kangra-valley-railway-line-10590432/
 
-- Nagpur riots, one year on: Chargesheets filed in all FIRs except one naming VHP, Bajrang Dal members
+- Covert ‘call centre’ busted in Srinagar cyber fraud crackdown; 7 held
   
-  🔗 https://indianexpress.com/article/india/nagpur-riots-one-year-on-chargesheets-filed-in-all-firs-except-one-naming-vhp-bajrang-dal-members-10589579/
+  🔗 https://indianexpress.com/article/india/covert-call-centre-srinagar-cyber-fraud-10590474/
 
-- Perplexity brings Comet AI browser to iOS with Voice mode, hybrid search
+- How AI-generated videos are distorting your child’s YouTube feed
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-brings-comet-ai-browser-to-ios-with-voice-mode-hybrid-search-10589907/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-generated-videos-distorting-child-youtube-feed-10590649/
 
-- Apple’s China smartphone sales jump 23% to start 2026, bucking industry trend
+- ‘Cosmic archaeology’: Meet PicII-503, the most chemically primitive star ever found outside the Milky Way
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-china-smartphone-sales-jump-23-to-start-2026-bucking-industry-trend-10589841/
+  🔗 https://indianexpress.com/article/technology/science/picii-503-the-most-chemically-primitive-star-ever-found-outside-milky-way-10590533/
 
-- Bridgewater’s chief scientist Sekhon to join Google’s DeepMind AI unit
+- Artemis II to take astronauts around Moon again, over half a century after US’ last trip
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bridgewaters-chief-scientist-sekhon-to-join-googles-deepmind-ai-unit-10589840/
+  🔗 https://indianexpress.com/article/technology/science/half-century-later-us-artemis-ii-aims-to-take-astronauts-around-moon-again-10590304/
 
-- Whale protein discovery could hold clues to longer human lifespans, scientists say
+- Noise Master Buds 2 review: Bose-tuned audio at a price that makes sense for India
   
-  🔗 https://indianexpress.com/article/technology/science/whale-protein-discovery-could-hold-clues-to-longer-human-lifespans-scientists-say-10589237/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/noise-master-buds-2-review-price-india-bose-audio-features-10590254/
 
-- Silicon Valley bet on war. It’s paying off
+- Garmin challenges WearOS with new native WhatsApp app: Is your smartwatch supported?
   
-  🔗 https://indianexpress.com/article/technology/silicon-valley-us-israel-iran-war-10589148/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/garmin-smartwatch-whatsapp-app-support-features-10589072/
+
+- AIESL eyes Jewar, Navi Mumbai MRO hubs as competition intensifies
+  State-run aircraft maintenance firm plans  ₹200–300 crore investment in
+  🔗 https://www.livemint.com/companies/news/aiesl-eyes-jewar-navi-mumbai-mro-hubs-as-competition-intensifies-aircraft-indigo-akasa-air-india-11773888175572.html
+
+- War slows IPOs, but startups keep bringing headquarters home
+  Richer valuations, deep domestic liquidity, regulatory tailwinds and waning US listing appeal are driving the shift back home. Though geopolitical tensions are delaying IPO timelines,
+  🔗 https://www.livemint.com/companies/war-slows-ipos-but-startups-keep-bringing-headquarters-home-flipkart-zepto-phonepe-zomato-11773898353658.html
+
+- India faces plastic packaging crunch: Crude oil prices and hoarding create scarcity for F&amp;B firms
+  Plastic price spikes are being worsened by stockpiling and disrupted procurement cycles. Food and beverage makers are already exposed with expected
+  🔗 https://www.livemint.com/companies/plastic-packaging-shortage-india-packaging-industry-crude-oil-prices-pet-resins-polyolefin-food-and-beverage-packaging-11773891925926.html
 
 - West Asia war may squeeze profit for India's top beer maker as input costs rise as summer starts
   State-set beer prices mean the company must absorb war-driven cost hikes. Kingfisher producer United Breweries warns of a 5-
@@ -48,205 +60,185 @@
   Over 50 brands of the same molecule hitting the market this year. Which one will be a crowd favourite? Mint decodes.
   🔗 https://www.livemint.com/companies/india-weight-loss-drugs-semaglutide-dr-reddys-sun-zydus-alkem-novo-nordisk-ozempic-wegovy-11773853801561.html
 
-- 'Not in congruence with my values and ethics': Full text of the resignation letter that shook HDFC Bank’s top deck
-  Shares of HDFC Bank tumbled to their 52-week low during early trade on Thursday
-  🔗 https://www.livemint.com/companies/people/hdfc-bank-part-time-chairman-quits-read-full-text-of-atanu-chakrabortys-resignation-letter-to-lender-11773896764760.html
+- Powerica IPO to open next week: Here are 10 key things from the RHP that investors must know
+  The company has cut its IPO size from the  ₹1,400 crore proposed in the draft papers filed in August 2025. Powerica IPO is priced
+  🔗 https://www.livemint.com/market/ipo/powerica-ipo-to-open-next-week-here-are-10-key-things-from-the-rhp-that-investors-must-know-11773923836052.html
 
-- HDFC Bank seeks to steady nerves after Chakraborty exit; Mistry says ethics charge “defies logic”
-  Atanu Chakraborty’s sudden exit, interim chairman Keki Mistry told analysts
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-atanu-chakraborty-resignation-keki-mistry-interim-chairman-11773896264803.html
+- Accenture Q3 revenue forecast misses estimates on cautious enterprise spending
+  Accenture expects a 1% revenue hit for fiscal 2026 from a slowdown in its federal business.
+  🔗 https://www.livemint.com/market/stock-market-news/accenture-q3-revenue-forecast-misses-estimates-on-cautious-enterprise-spending-11773923850426.html
 
-- Binance founder is now richer than Bill Gates. How much is Changpeng Zhao net worth and what fuels his wealth?
-  This comes just 17 months after Zhao, better known by his initials CZ, got out of jail after a sweeping investigation into Binance.
-  🔗 https://www.livemint.com/companies/people/binance-founder-is-now-richer-than-bill-gates-how-much-is-changpeng-zhao-net-worth-and-what-fuels-his-wealth-11773890328135.html
+- US stock market today: Dow, S&amp;P 500 futures steady even as Middle East tensions escalate; Brent nears $120
+  The US stock market is expected to open flat as tensions in the Middle East rise. The Dow Jones fell significantly in the previous session.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-steady-as-middle-east-tensions-escalate-brent-nears-120-11773917997983.html
 
-- Stock market rout deepens as HDFC Bank shock meets West Asia turmoil
-  Sensex and Nifty fell over 2% as banking stocks slumped on HDFC Bank shock. Oil price surge amid West
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-rout-deepens-as-hdfc-bank-shock-meets-west-asia-turmoil-11773900435554.html
+- Precious metals slump! MCX gold rate crashes  ₹8,800 per 10g to  ₹1.44 lakh; silver prices plunge  ₹25,500/kg
+  Gold and silver prices dropped to multi-week lows on MCX. Gold has seen an 11% decline in March, while silver's month-to
+  🔗 https://www.livemint.com/market/commodities/mcx-gold-rate-crashes-rs-8-700-per-10g-to-rs-1-44-lakh-silver-prices-plunge-rs-22300kg-11773922651910.html
 
-- FPIs dump financial stocks worth  ₹31,800 crore in first half of March; overall outflows top  ₹52,700 crore
-  FPIs offloaded financial services stocks worth  ₹31,831 crore between March 1 and 15
-  🔗 https://www.livemint.com/market/stock-market-news/fpis-turn-heavy-sellers-in-financials-pull-out-over-rs-31-000-crore-in-h1-march-11773901054521.html
+- Choice Mutual Fund launches Nifty 50, Nifty Next 50 index fund NFOs: Date, risk factors &amp; other details explained
+  The Choice Nifty Next 50 Index Fund offers exposure to a set of emerging large-cap companies that have the potential to evolve
+  🔗 https://www.livemint.com/market/stock-market-news/choice-mutual-fund-launches-nifty-50-nifty-next-50-index-fund-nfos-date-risk-factors-other-details-explained-11773905376508.html
 
-- HDFC Bank share price crash wipes off  ₹1 lakh crore in market cap — Here's how much LIC, FIIs &amp; others lost
-  HDFC Bank share price crashed 8% to a 52-week low of  ₹772 on the BSE today. The investor sentiment had weakened significantly overnight as HDFC Bank ADRs tumbled as much as 7%
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-crash-wipes-off-rs-1-lakh-crore-in-market-cap-heres-how-much-lic-fiis-others-lost-11773901360050.html
+- OnePlus Nord Buds 4 Pro with 55dB ANC, up to 54-hour battery launched in India at  ₹3,999
+  Nord Buds 4 Pro come with active noise cancellation, 12mm dynamic drivers, and Bluetooth 6.0. They will be available to buy from March 23 in Radiant Gray and Raven Black colour variants
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-buds-4-pro-with-55db-anc-and-up-to-54-hour-battery-launched-in-india-priced-at-rs-3999-11773908221179.html
 
-- NSE index options turnover surges amid West Asia volatility
-  Nifty and Bank Nifty options volumes to record highs amid a spike in volatility. War in West Asia has pushed Nifty and
-  🔗 https://www.livemint.com/market/stock-market-news/nse-index-options-surge-nifty-bank-nifty-market-volatility-west-asia-war-11773850702201.html
+- ‘Google will win the AI race’: Elon Musk makes rare admission, claims Grok will win in space
+  Elon Musk acknowledges that Google will win the AI race in the US, while China will dominate globally and SpaceX will lead in space. His comments follow a discussion on
+  🔗 https://www.livemint.com/technology/tech-news/google-will-win-the-ai-race-elon-musk-makes-rare-admission-claims-grok-will-win-in-space-11773909384017.html
 
-- Innovision IPO likely to list at a discounted price - Here's what GMP signals
-  Innovision's IPO not fully subscribed after six days. Bids received exceeded shares offered, particularly from QIBs. The price range was adjusted to  ₹494- �
-  🔗 https://www.livemint.com/market/ipo/innovision-ipo-likely-to-list-at-a-discounted-price-heres-what-innovision-ipo-gmp-signals-11773901358175.html
+- Realme P4 Lite 5G with 6.8-inch 144Hz display and 7,000mAh battery launched in India, price starts at  ₹12,999
+  Realme has launched the P4 Lite 5G, featuring a 7,000mAh battery, 144Hz display, and a 13MP rear camera. Priced starting at  �
+  🔗 https://www.livemint.com/technology/gadgets/realme-p4-lite-with-6-8-inch-144hz-display-and-7-000mah-battery-launched-in-india-price-starts-at-rs-12999-11773904825558.html
+
+- Meta shuts down Horizon Worlds in VR to focus on a mobile-only app: here's what you need to know
+  Horizon Worlds will be removed from the Quest store by March 31. The app will also be removed by June 15, 2026.
+  🔗 https://www.livemint.com/technology/tech-news/meta-shuts-down-horizon-worlds-in-vr-to-focus-on-a-mobile-only-app-heres-what-you-need-to-know-11773901715000.html
 
 - 'iPhone is not going away': Tim Cook shuts down rumors of AI hardware replacing Apple's flagship
   Apple CEO Tim Cook assured that the iPhone will remain central to the company's strategy. Cook also talked about what the next 50 years of Apple could look like
   🔗 https://www.livemint.com/technology/gadgets/iphone-is-not-going-away-tim-cook-shuts-down-rumors-of-ai-hardware-replacing-apples-flagship-11773894233583.html
 
-- Mystery AI model revealed to be Xiaomis following suspicions it was DeepSeek V4
-  Mystery AI model revealed to be Xiaomi
-  🔗 https://www.livemint.com/technology/mystery-ai-model-revealed-to-be-xiaomis-following-suspicions-it-was-deepseek-v4-11773897430726.html
-
-- Update your iPhone now: Apple warns users as Google uncovers Russian-linked ‘DarkSword’ spyware threat
-  The DarkSword exploit allows complete control over affected devices. Apple has urged iPhone users to update their devices.
-  🔗 https://www.livemint.com/technology/tech-news/update-your-iphone-now-apple-warns-users-as-google-uncovers-russian-linked-darksword-spyware-threat-11773890379309.html
-
-- Meta AI agent goes rogue, leaks sensitive company and user data in major internal security breach: Report
-  A rogue Meta AI agent exposed certain data to unauthorized employees. The incident is said to have lasted two hours and was classified as 'Sev 1' severity.
-  🔗 https://www.livemint.com/technology/tech-news/meta-ai-agent-goes-rogue-leaks-sensitive-company-and-user-data-in-major-internal-security-breach-report-11773883343637.html
-
-- Elon Musk's X limits ‘dislike button’ to verified users to curb spam bots
-  Musk said the dislike button will be for subscribers/verified accounts only.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-x-limits-dislike-button-to-verified-users-to-curb-spam-bots-11773849345782.html
+- Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2hoWkVQQ2Y3MEtxRi05TTE0MTd3ME0ta1N3TUJHNEtEWDJEeG0xX1pVNU1SdC05UkJrTG5pZ2NtMmFLUWVERGJHMWVRU3JjckRkRnJJT2RXZkxjVHVqeVLSAcgBQVVfeXFMTzV4elZ2WTJkUVBpNTJEeHR0cjhPdnlBbU55RXBZaXMxVnFTZXAyeGhlZ0FnN3c4SkVlYUVoMmV0cXZhcnowNE9ONjVFWmdrYTVfbm1hc1FxWWhxWmt1cnRUQ2hULW1wUERsaVE0MUEyRl83TlZMeG9aeEJzbDJBY1ZNME9NSl96bDVxMkJJVkxoVVZIRkloekdiV3NsS3ZIek4xQ05wdmF4UzB3SnNnaGlMZXpBajQ0UmJIN3dMTGZjLUJCNlZWeTY?oc=5
 
 - Stock Market News, March 18, 2026: Dow Falls After Powell Voices Inflation Worries - WSJ
   The WSJ published a story on March 18, 20
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWF4Wm1ldV9CTWtLR1AzM2o4czNDaFFJSDJyMWQ2WWRNUWZfczhJUHpza3VXN1N4UmduQ3dLNzY4LWJpNVpSWFVXN2FLb0dtV2NRTnhMRVpLNjJMM294NDhtRDNSc2VpX0NBWERHdVJwSjlCaExLcDZqeks2Z3Y1cFVVRmRId3M?oc=5
 
-- US Fed Keeps Rates Unchanged: What It Means For Indian Stock Markets - NDTV
-  US Fed Keeps Rates Unchanged: What It
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjJkeF9SZlpMcU92Ykd4R1RXYTZDdTVnVlQzVUNVT2FhekxQRzVLYnJaVWZGS2RZWm12UzJnWjV6SXBPMDhyQjV1dV81MnNDVG0yNlAxYWxYT2JVR1g4X1VDblBxaWVJMXpUckJCU2lwNHdnUkhEc3ZqekM4a2trbmpESUpDbmNOa0RhYTZycmE2TE1FT212NXJVWlIxS0RkejJQcEV2dndDbUVXeklvV2xob0h5eC1zTUNJQ1BSNNIBxwFBVV95cUxOYThvUHZFdjQ3S2ZzWEtzZm5wTlotX25JRXMzN3F5SVpDZ0NBenFHdnpmOE9VZlM0LXpYUUlzY2JnSU95NWV1WFo5SmEwMV8ybFh0RlRibU5fYXFEbUFZcTNrT0dTRjh1dFRINE1KN2NqRi1tZ2ZPTDBtbVhxVVRBVlZydUp2YjFwMTR3R1QxVDNiTFhPMldrZlZiWmZHT24tTms4QnFmY05KUEZHTmVNVUFXS2JLV2w1MzA2UWFUbXFzVFNnWWc0?oc=5
+- Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates - CNBC
+  Asia markets track Wall Street losses as Iran war fuels energy worries.
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXlEeFF2c256Y1ZlTktzbkdfNFROcVcxakk2X0JOWDZtdVJwUGZxVDA1Um8zWXl2Y1RBSzZ0TWJCenUzbmhaYmNSTjVvUnJKdHduaUp0VUNid3hZZlppYTNhNVl1dG5VN1FiZkdfLTBlckd2NnFibVlWNFlJc0NDUVp6bEEwNDNk0gGOAUFVX3lxTE9BSWhCek5oenRYdGhJcGlMSEM3MEdjZ3hIb2ZjTEpwVFNsa1FQZGRpR2RVQzh5cTY3VTVKY1duWXdvNTE3LUsxWDdCUzRQVm96VU1nRHc0U0hiRkJxMXlpOFd2OExGaU9ON3JIOXM5RlRkY1VOV0pYeG5sMFhyVFJwQjFJZzFNd1Y5QXNVZnc?oc=5
 
-- Fed Holds Interest Rates Steady Amid Rising Inflation and Slowing Job Market - Investopedia
-  Fed Holds Interest Rates Steady Amid Rising In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUk5FejFjVUFXUmNwT2dfRWluV2w3SWFMaEc1azNhaC1kaVhvbXhVRERLWE05WmYtbHhrcjRpRzQtV1VtUExZQjJmR1FtS3ZCTnV5LWs3aE4zT0RoTnhDS1JVVC05ZE1fMWNtX3JqenJSN0RVbkVJSUIzRW01ZmF2U0FUcU51U0w5T2lUSTU4SFluZWNsNW9TSEtXMHktV3o1clBLQ3ZBMk15OWFpa1lpSWVB?oc=5
+- Stock Market Today: Futures Slip as Oil Prices Soar Further; Treasury Yields Gain, Gold Falls - Investopedia
+  Stock Market Today: Futures Slip as Oil Prices Soar Further
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVNrSFE3VV9UM1A4dTVHUjIyc1ZuWmlQZmoxcTFablRWaFFsQl9sNGtVRmFyUGo3MWh0bHNaUFlkVGZTUlExUXFYeERBcEhlYzBKSm5mdnhuejZtRVpfdmd4cjZDNUxBZ0c4b3U2aGc0NGNWQzBSa2MzTTVtWVFLY1RXc1VVQWNOQzVkQy0wZlQ?oc=5
 
-- Asian Stocks to Fall as Iran War Saps Sentiment: Markets Wrap - Bloomberg.com
-  Asian Stocks to Fall as Iran War S
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTdqNWptXzI5ZV9TR29aOUJPM0xHOU1kZTZDLWZRSXUxSlMtQlo0TmF6Y296SWFmYkk0dkp2ZlVwaG1DSDJGUEN5ZDFFWFAxY0lIZzN5ZFhQOUFnY1djYUxiWEtrR3dRT3h3aDZLM2QxaDd0X0k0VmV0TWQ2WWc2anc5WTUwa0xlS3NzRDVfOXFTU2RCU2c?oc=5
+- Bessent Flags Potential Reserve Release, No Market Intervention - Bloomberg.com
+  Bessent Flags Potential Reserve
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVlLNEpZRUxiYTlESXdINkF0VVdIU0NiNWNhcGZDMm9jZUxaWFpsMDFzZ3lwWFhuMFd3NXdaN01TLUdBVzFfVG84S3JGeDJMTk5mMnpvcTdjQ2FkN2wwdlBqTEZibmJ5endEV1JxOHdoYVBod1BMY2wzN1I2eEF4N2ZxNlVZaHJxZFd2YnJrZWVnVkFfNU0tc2JiZWZsYTdIcVhlcDZrN0NtZTMzT0p4RlFXOA?oc=5
 
-- Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110 - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2hoWkVQQ2Y3MEtxRi05TTE0MTd3ME0ta1N3TUJHNEtEWDJEeG0xX1pVNU1SdC05UkJrTG5pZ2NtMmFLUWVERGJHMWVRU3JjckRkRnJJT2RXZkxjVHVqeVLSAcgBQVVfeXFMTzV4elZ2WTJkUVBpNTJEeHR0cjhPdnlBbU55RXBZaXMxVnFTZXAyeGhlZ0FnN3c4SkVlYUVoMmV0cXZhcnowNE9ONjVFWmdrYTVfbm1hc1FxWWhxWmt1cnRUQ2hULW1wUERsaVE0MUEyRl83TlZMeG9aeEJzbDJBY1ZNME9NSl96bDVxMkJJVkxoVVZIRkloekdiV3NsS3ZIek4xQ05wdmF4UzB3SnNnaGlMZXpBajQ0UmJIN3dMTGZjLUJCNlZWeTY?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures dip as soaring oil prices, Fed outlook spook investors
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-israel-war-crude-brent-oil-tech-ai-stock-price-news-fed-rate-impact/liveblog/129679941.cms
 
-- Nifty Bank plunges 3% as HDFC Bank crashes: Key levels to watch out for
-  HDFC Bank's shares plummeted nearly 9%, dragging the Nifty Bank index down over 3% and breaching key support levels. Investors now await the RBI's upcoming meeting for further direction.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-plunges-3-as-hdfc-bank-crashes-key-levels-to-watch-out-for/articleshow/129672621.cms
+- Quote of the day by Shelby M.C. Davis: “Invest for the long haul. Don’t get too greedy and don’t get too scared.”
+  Legendary investor Shelby M. C. Davis emphasised that long-term investing succeeds when discipline overrides emotion. Markets move in cycles, and staying invested helps investors benefit from compounding.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-shelby-m-c-davis-invest-for-the-long-haul-dont-get-too-greedy-and-dont-get-too-scared-/articleshow/129671217.cms
 
-- US yields rise as investors pare back Fed cut bets
-  U.S. Treasury yields climbed on Thursday, particularly at the short end. Investors significantly reduced Federal Reserve rate-cut expectations for the year. Policymakers now anticipate less easing, with investors pricing in minimal cuts by December.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/us-yields-rise-as-investors-pare-back-fed-cut-bets/articleshow/129672504.cms
+- Gainers &amp; Losers: HDFC Bank, Adani Total and Infosys among 6 top movers on Thursday
+  HDFC Bank, Adani Total Gas, Infosys and sector-wide selling in autos and IT shaped a turbulent trading day
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-hdfc-bank-adani-total-and-infosys-among-6-top-movers-on-thursday/slideshow/129679748.cms
 
-- Asia's currencies under siege: Mitul Kotecha on why the Indian rupee, Korean won, and Thai baht face prolonged pain
-  Global markets face prolonged turbulence as geopolitical conflict drives oil prices higher and weakens Asian currencies. Investors are shifting to safe haven assets like the US dollar, gold, and developed market bonds.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/asias-currencies-under-siege-mitul-kotecha-on-why-the-indian-rupee-korean-won-and-thai-baht-face-prolonged-pain/articleshow/129672417.cms
+- Gold falls to over one-month low on stronger dollar, hawkish Fed tone
+  Gold prices fell to their lowest level in more than a month on Thursday. A stronger dollar and rising Treasury yields, while a hawkish U
+  🔗 https://economictimes.indiatimes.com/markets/commodities/gold-falls-to-over-one-month-low-on-stronger-dollar-hawkish-fed-tone/articleshow/129678948.cms
 
-- HDFC Bank’s delayed response to chairman exit raises sentiment risks: Bernstein
-  HDFC Bank mishandled communication around former chairman Atanu Chakraborty’s resignation, delaying clarity and worsening uncertainty. Despite strong fundamentals, governance concerns, and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-banks-delayed-response-to-chairman-exit-raises-sentiment-risks-bernstein/articleshow/129672273.cms
+- HDFC Bank, TCS among 5 Sensex stocks hitting 52-week lows; down up to 16% in a month
+  Indian stock markets experienced a significant downturn on Thursday. The benchmark Sensex dropped by 2,497 points, closing at 74,207. Five prominent stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-tcs-among-5-sensex-stocks-hitting-52-week-lows-down-up-to-16-in-a-month/slideshow/129678702.cms
 
-- JSW Realty eyes over Rs 2,000 crore revenue from luxury housing project in Mumbai
-  JSW Realty has partnered with the Patel family to transform their historic Malabar Court property in Mumbai into a high-end residential tower. The development is projected to yield over Rs 2,000 crore in revenue, marking a significant
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/jsw-realty-eyes-over-rs-2000-crore-revenue-from-luxury-housing-project-in-mumbai/articleshow/129671941.cms
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- Russian tip-off led to the arrest of US national VanDyke, six Ukrainians by NIA | India News - Hindustan Times
-  Russian tip-off led to the arrest of US national VanDyke,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGZBSGpNcTRnNElfTmo2ODNOMEp2bk5rNG5sVkNxRnFzRGN2STloQ2ZRSE1LY3NDTGN6Q1B0YTdJdkk4bVpBWU9xU0dBcUpVWFl1MENMUWdGcnpjWW53UFoyQW9wQXN5Vkl6VHVFaUZNTGtyMEpHTlhkd2ZIeHF6Y19HUHhCRzVTSVlabUp2WG93cFJIRTMxWElQa1FoYmwtSW9qVDJvMVpkZE9lZlNNTDhUYk5zcFhqOTlJNzVybUZvNlZrdmRxbDkyYW12YkxvS0twTDJmOUhMaGUtbjV4d0w4SmRaZ9IB6wFBVV95cUxNaVdIZl9YSExFcEpOdXpOVTUtRkVjRm5zRl9vVUxsUmNxU2lDZW9kQVh6cEVKcU1YWkpCaklhWmhKNjYtR3lBLUF4Ty1Kb0lFY3B3bGRPZVlLRkVHaF9yMjVueHI2aVVkYjlQdXZnZTVHamZTYU5kakFpeXFjOFktUVJVRmR6SGRlSDBzTjFyNzlsZ2puckR5Ql8xQkI5Tkxhd3U2UjRpOHlsRkhUeFdYSDlpSURmRkpkS0owNGVCYmhYTWgzVkhZS3ZWQVQ1NUxwZFdoNV9CU2RZVFFRSmRlRXJDQ2ZxalhIQTlB?oc=5
-
-- Fighter, Filmmaker Or Facilitator Of Conflict? Why Matthew VanDyke Has Raised Many Eyebrows In India - The Times of India
-  Matthew VanDyke has raised many Eyebrows in India. He is
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT215MUpmREdZSEhOVS1UR0s0UDhicC1qRUZnMkZ4akg4ckp5ZWxhVGdRVXNRUEN5MjRQSDZfTE5FVVFTR3k2ajgyWVk0bmVZRlBaVWZ0N1J6ai1NaENzak83UERySjg0Nkg1dkxvWlN5RktVbUgzZkJFMmtzaTRNMlVyMzZUUVA2X1k1R0FhUE9TOFBrNVB4ODd3R3p0OVNyVXk4cGJ6VVo0YzhhU2c0UDRIenZWdC1CYkVuUkNsRnNMVlR3X2JqUXEzek9ILXFVUjNoNFRraXJ0Ty13RDVZNlYwWlpzbEJtTUFOTHh1cE95ZVJZalVjb3pjMV95NWPSAYQCQVVfeXFMTkZlMWtjRXV4VDBqQTBRZVExMm12OXlsUDQ4SGlONkwyMThLRm82NWZ3YWZ4UjNQMi1BQzZzR1pBRU1HMFZZeHdkR0Q1d2p4NUI1SDRvUlRJQ3dzZk41RmV2NTd5MEk5QTBneXczSkg2cEJSVnJlSmlWY0FtYVhmSE5JbEZBck16NmhSSG53NHZuZW9lZDRLem9xbTJlQWNQUm1nSG5WSXVyVTUxNjROMW42cDdyU2RUNGJ1Tm81WTlIMmtJX24zNnFMaU5wbFR3MGVnR1ZEMFJkaG93V1Zfc0U0S3ZySVhjTDRIdXBpa24ya3BqR1hMRzltWmIwR3p3R1Y3X0M?oc=5
+- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
+  India Eyes Entry Into European 6th-Gener
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
 
 - India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- LPG Gas Crisis in India Live Updates: 14 held as violence erupts between customers, LPG agency staff in UP; 1,000 cylinders seized in 200 raids in Chhattisgarh - The Times of India
-  The Times of India reported the incident. LPG agency staff in UP were also arrested.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
+- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
+  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
 
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
+- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
+  India's young are more educated than ever. So why are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
 
-- Russian tip-off led to the arrest of US national VanDyke, six Ukrainians by NIA | India News - Hindustan Times
-  Russian tip-off led to the arrest of US national VanDyke,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGZBSGpNcTRnNElfTmo2ODNOMEp2bk5rNG5sVkNxRnFzRGN2STloQ2ZRSE1LY3NDTGN6Q1B0YTdJdkk4bVpBWU9xU0dBcUpVWFl1MENMUWdGcnpjWW53UFoyQW9wQXN5Vkl6VHVFaUZNTGtyMEpHTlhkd2ZIeHF6Y19HUHhCRzVTSVlabUp2WG93cFJIRTMxWElQa1FoYmwtSW9qVDJvMVpkZE9lZlNNTDhUYk5zcFhqOTlJNzVybUZvNlZrdmRxbDkyYW12YkxvS0twTDJmOUhMaGUtbjV4d0w4SmRaZ9IB6wFBVV95cUxNaVdIZl9YSExFcEpOdXpOVTUtRkVjRm5zRl9vVUxsUmNxU2lDZW9kQVh6cEVKcU1YWkpCaklhWmhKNjYtR3lBLUF4Ty1Kb0lFY3B3bGRPZVlLRkVHaF9yMjVueHI2aVVkYjlQdXZnZTVHamZTYU5kakFpeXFjOFktUVJVRmR6SGRlSDBzTjFyNzlsZ2puckR5Ql8xQkI5Tkxhd3U2UjRpOHlsRkhUeFdYSDlpSURmRkpkS0owNGVCYmhYTWgzVkhZS3ZWQVQ1NUxwZFdoNV9CU2RZVFFRSmRlRXJDQ2ZxalhIQTlB?oc=5
+- India news: 'Suggestive' song row reaches parliament - dw.com
+  India news: 'Suggest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
 
-- Fighter, Filmmaker Or Facilitator Of Conflict? Why Matthew VanDyke Has Raised Many Eyebrows In India - The Times of India
-  Matthew VanDyke has raised many Eyebrows in India. He is
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT215MUpmREdZSEhOVS1UR0s0UDhicC1qRUZnMkZ4akg4ckp5ZWxhVGdRVXNRUEN5MjRQSDZfTE5FVVFTR3k2ajgyWVk0bmVZRlBaVWZ0N1J6ai1NaENzak83UERySjg0Nkg1dkxvWlN5RktVbUgzZkJFMmtzaTRNMlVyMzZUUVA2X1k1R0FhUE9TOFBrNVB4ODd3R3p0OVNyVXk4cGJ6VVo0YzhhU2c0UDRIenZWdC1CYkVuUkNsRnNMVlR3X2JqUXEzek9ILXFVUjNoNFRraXJ0Ty13RDVZNlYwWlpzbEJtTUFOTHh1cE95ZVJZalVjb3pjMV95NWPSAYQCQVVfeXFMTkZlMWtjRXV4VDBqQTBRZVExMm12OXlsUDQ4SGlONkwyMThLRm82NWZ3YWZ4UjNQMi1BQzZzR1pBRU1HMFZZeHdkR0Q1d2p4NUI1SDRvUlRJQ3dzZk41RmV2NTd5MEk5QTBneXczSkg2cEJSVnJlSmlWY0FtYVhmSE5JbEZBck16NmhSSG53NHZuZW9lZDRLem9xbTJlQWNQUm1nSG5WSXVyVTUxNjROMW42cDdyU2RUNGJ1Tm81WTlIMmtJX24zNnFMaU5wbFR3MGVnR1ZEMFJkaG93V1Zfc0U0S3ZySVhjTDRIdXBpa24ya3BqR1hMRzltWmIwR3p3R1Y3X0M?oc=5
-
-- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
-  India, Pakistan ties ‘remain a risk
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
-
-- LPG Gas Crisis in India Live Updates: 14 held as violence erupts between customers, LPG agency staff in UP; 1,000 cylinders seized in 200 raids in Chhattisgarh - The Times of India
-  The Times of India reported the incident. LPG agency staff in UP were also arrested.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- Russian tip-off led to the arrest of US national VanDyke, six Ukrainians by NIA | India News - Hindustan Times
-  Russian tip-off led to the arrest of US national VanDyke,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGZBSGpNcTRnNElfTmo2ODNOMEp2bk5rNG5sVkNxRnFzRGN2STloQ2ZRSE1LY3NDTGN6Q1B0YTdJdkk4bVpBWU9xU0dBcUpVWFl1MENMUWdGcnpjWW53UFoyQW9wQXN5Vkl6VHVFaUZNTGtyMEpHTlhkd2ZIeHF6Y19HUHhCRzVTSVlabUp2WG93cFJIRTMxWElQa1FoYmwtSW9qVDJvMVpkZE9lZlNNTDhUYk5zcFhqOTlJNzVybUZvNlZrdmRxbDkyYW12YkxvS0twTDJmOUhMaGUtbjV4d0w4SmRaZ9IB6wFBVV95cUxNaVdIZl9YSExFcEpOdXpOVTUtRkVjRm5zRl9vVUxsUmNxU2lDZW9kQVh6cEVKcU1YWkpCaklhWmhKNjYtR3lBLUF4Ty1Kb0lFY3B3bGRPZVlLRkVHaF9yMjVueHI2aVVkYjlQdXZnZTVHamZTYU5kakFpeXFjOFktUVJVRmR6SGRlSDBzTjFyNzlsZ2puckR5Ql8xQkI5Tkxhd3U2UjRpOHlsRkhUeFdYSDlpSURmRkpkS0owNGVCYmhYTWgzVkhZS3ZWQVQ1NUxwZFdoNV9CU2RZVFFRSmRlRXJDQ2ZxalhIQTlB?oc=5
-
-- Fighter, Filmmaker Or Facilitator Of Conflict? Why Matthew VanDyke Has Raised Many Eyebrows In India - The Times of India
-  Matthew VanDyke has raised many Eyebrows in India. He is
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT215MUpmREdZSEhOVS1UR0s0UDhicC1qRUZnMkZ4akg4ckp5ZWxhVGdRVXNRUEN5MjRQSDZfTE5FVVFTR3k2ajgyWVk0bmVZRlBaVWZ0N1J6ai1NaENzak83UERySjg0Nkg1dkxvWlN5RktVbUgzZkJFMmtzaTRNMlVyMzZUUVA2X1k1R0FhUE9TOFBrNVB4ODd3R3p0OVNyVXk4cGJ6VVo0YzhhU2c0UDRIenZWdC1CYkVuUkNsRnNMVlR3X2JqUXEzek9ILXFVUjNoNFRraXJ0Ty13RDVZNlYwWlpzbEJtTUFOTHh1cE95ZVJZalVjb3pjMV95NWPSAYQCQVVfeXFMTkZlMWtjRXV4VDBqQTBRZVExMm12OXlsUDQ4SGlONkwyMThLRm82NWZ3YWZ4UjNQMi1BQzZzR1pBRU1HMFZZeHdkR0Q1d2p4NUI1SDRvUlRJQ3dzZk41RmV2NTd5MEk5QTBneXczSkg2cEJSVnJlSmlWY0FtYVhmSE5JbEZBck16NmhSSG53NHZuZW9lZDRLem9xbTJlQWNQUm1nSG5WSXVyVTUxNjROMW42cDdyU2RUNGJ1Tm81WTlIMmtJX24zNnFMaU5wbFR3MGVnR1ZEMFJkaG93V1Zfc0U0S3ZySVhjTDRIdXBpa24ya3BqR1hMRzltWmIwR3p3R1Y3X0M?oc=5
+- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
+  India Eyes Entry Into European 6th-Gener
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
 
 - India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- LPG Gas Crisis in India Live Updates: 14 held as violence erupts between customers, LPG agency staff in UP; 1,000 cylinders seized in 200 raids in Chhattisgarh - The Times of India
-  The Times of India reported the incident. LPG agency staff in UP were also arrested.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
+- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
+  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
 
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
+- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
+  India's young are more educated than ever. So why are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
 
-- Russian tip-off led to the arrest of US national VanDyke, six Ukrainians by NIA | India News - Hindustan Times
-  Russian tip-off led to the arrest of US national VanDyke,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVGZBSGpNcTRnNElfTmo2ODNOMEp2bk5rNG5sVkNxRnFzRGN2STloQ2ZRSE1LY3NDTGN6Q1B0YTdJdkk4bVpBWU9xU0dBcUpVWFl1MENMUWdGcnpjWW53UFoyQW9wQXN5Vkl6VHVFaUZNTGtyMEpHTlhkd2ZIeHF6Y19HUHhCRzVTSVlabUp2WG93cFJIRTMxWElQa1FoYmwtSW9qVDJvMVpkZE9lZlNNTDhUYk5zcFhqOTlJNzVybUZvNlZrdmRxbDkyYW12YkxvS0twTDJmOUhMaGUtbjV4d0w4SmRaZ9IB6wFBVV95cUxNaVdIZl9YSExFcEpOdXpOVTUtRkVjRm5zRl9vVUxsUmNxU2lDZW9kQVh6cEVKcU1YWkpCaklhWmhKNjYtR3lBLUF4Ty1Kb0lFY3B3bGRPZVlLRkVHaF9yMjVueHI2aVVkYjlQdXZnZTVHamZTYU5kakFpeXFjOFktUVJVRmR6SGRlSDBzTjFyNzlsZ2puckR5Ql8xQkI5Tkxhd3U2UjRpOHlsRkhUeFdYSDlpSURmRkpkS0owNGVCYmhYTWgzVkhZS3ZWQVQ1NUxwZFdoNV9CU2RZVFFRSmRlRXJDQ2ZxalhIQTlB?oc=5
+- India news: 'Suggestive' song row reaches parliament - dw.com
+  India news: 'Suggest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
 
-- Fighter, Filmmaker Or Facilitator Of Conflict? Why Matthew VanDyke Has Raised Many Eyebrows In India - The Times of India
-  Matthew VanDyke has raised many Eyebrows in India. He is
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT215MUpmREdZSEhOVS1UR0s0UDhicC1qRUZnMkZ4akg4ckp5ZWxhVGdRVXNRUEN5MjRQSDZfTE5FVVFTR3k2ajgyWVk0bmVZRlBaVWZ0N1J6ai1NaENzak83UERySjg0Nkg1dkxvWlN5RktVbUgzZkJFMmtzaTRNMlVyMzZUUVA2X1k1R0FhUE9TOFBrNVB4ODd3R3p0OVNyVXk4cGJ6VVo0YzhhU2c0UDRIenZWdC1CYkVuUkNsRnNMVlR3X2JqUXEzek9ILXFVUjNoNFRraXJ0Ty13RDVZNlYwWlpzbEJtTUFOTHh1cE95ZVJZalVjb3pjMV95NWPSAYQCQVVfeXFMTkZlMWtjRXV4VDBqQTBRZVExMm12OXlsUDQ4SGlONkwyMThLRm82NWZ3YWZ4UjNQMi1BQzZzR1pBRU1HMFZZeHdkR0Q1d2p4NUI1SDRvUlRJQ3dzZk41RmV2NTd5MEk5QTBneXczSkg2cEJSVnJlSmlWY0FtYVhmSE5JbEZBck16NmhSSG53NHZuZW9lZDRLem9xbTJlQWNQUm1nSG5WSXVyVTUxNjROMW42cDdyU2RUNGJ1Tm81WTlIMmtJX24zNnFMaU5wbFR3MGVnR1ZEMFJkaG93V1Zfc0U0S3ZySVhjTDRIdXBpa24ya3BqR1hMRzltWmIwR3p3R1Y3X0M?oc=5
+- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
+  India Eyes Entry Into European 6th-Gener
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
 
 - India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- LPG Gas Crisis in India Live Updates: 14 held as violence erupts between customers, LPG agency staff in UP; 1,000 cylinders seized in 200 raids in Chhattisgarh - The Times of India
-  The Times of India reported the incident. LPG agency staff in UP were also arrested.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUzdWSlpjN0tWQWIzd29MdW5FcVByZlY3bWRhUDVtazZ2bW1US0NqeUo4TFFfY0dSNFBmQnZJVzByREJ3TFNtQmtpQW5lQjdWUDNDZWtubWNuMlI4eG44bHN1UXYzWVV6RlYtdTdWeTVDOTJNNm9DRHZlM0R1Z2NtSEZ1UjIzQWdhZi1vY1RfQkt6ZWVjQ2JfcWg0Zlk3cnVreWVVdi04WUdDY19HT3JnNlVCdC1meG9XYkpIa0ktbWdoQ1ZoT0duZTdWODV3OWhuTGZZcHZrelNmQmo3aGpLQ28yeDZkWkZJaUJlVndyQjNIY0NELUVkREIxVDZSZngyaDRpdDF0X2VFVWM4bWo2VjdJY1dsYlB1V2x3X1MtZU56THJNc1RBWEpPdDVNZ1RBUTUyNzJMelUxS05QNDRZdldIUzc4NVBCWHI4Uk4zMURyZ1XSAdgCQVVfeXFMTlhQVDBiNjZtVXRVM1U2bHNmclR0MWd0ZzNFSUd1ZERrWlVmUnNUX3FGOFo2TDRGeVpDeU92akZuY3czVEhFWHh1d3dOR1BfWEQ1UVQ2dnl5MXAtMVZnZ2NrLUxVQkR6UVNTYWdtdHRZLTNETzEwdjViUlJIWllhRERGMHVjbXplTEp2S0RBOHoyd0ZGeXNFb0M5QTk1elRYZklHV1JSTTY4ZHByQ3p6MnZvWTMwR052cng0UTRyUjhwSUJuVm9STTRuLXBVcmhWUThuWkRMSnNLX0dpS05VUk5uNlNYSUpIaTZxb0E0YnNuSmtkRGFOMmZPMUhUQ2FOVlZMT0xBNVU4dlJCcUlSdkFoZHdwaklUNHo5akdvOFpLejlJVmN5YThvdmYxN3dOamdybk84S18xQndsWWRZTGFXcDBCYmJ3UTRIU19MMWZqMjg4VE4yb1U?oc=5
+- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
+  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
+  India's young are more educated than ever. So why are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India news: 'Suggestive' song row reaches parliament - dw.com
+  India news: 'Suggest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
+  India Eyes Entry Into European 6th-Gener
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
+  India, Pakistan ties ‘remain a risk
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
+  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
+  India's young are more educated than ever. So why are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India news: 'Suggestive' song row reaches parliament - dw.com
+  India news: 'Suggest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
+
+- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
+  India Eyes Entry Into European 6th-Gener
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
+
+- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
+  India, Pakistan ties ‘remain a risk
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
+
+- Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks around 2,500 points & more - The Times of India
+  Evening news wrap: Iran hits Saudi's Aramco and Kuwait refinery; Sensex tanks
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEFRQm9hUXpkN2NEWkNMM3pYWXBLa2k2TXBCZm1mNUZnRlNLazlzNlFQQ3hEdEdKdTVHVHByVmVDNHI0OEFyVzBDSTk3dDlja1pwNmVlYkFfMVdVSkMzX3BrZDBVRFhPM0FXcU1Gc0ZMaHdWUjhMN0F1VmZNMTlZYU1taE1kVHd6ME5qaVZYMmRrUnBESk12aW5UVzdoZVdpMnpoanFkSk1WOGdqUzd0SGZOMjlrdTJjRnktMWMtSmZzTUZTQ3JxSUZ5c1d0d2hSbHNuNHh4NkFGbllZV3FpMHhfMDZOX2hnaHpEQUQ0ZUUteDN0OFZQNmJn0gH_AUFVX3lxTFA0OTVSUUJLNExZNWNxZUlaMmVkSExReEs3NGRDQ3NCaEJzMWFLLVBJM2xGRTVldnR5RlV6UUlyX2pPVzZ5bXdfWlFpREJBV3J4LWhIZUxKQnJPeFFCZUxBLWRxYWt6OGhOZGdhOHBnQWJHTTkwbUVJd093d3V5QzVjdi1oZXZKNEhMTEdPN0FpR29LZ3B4bnNPZ1RNYVZYUFpFbGF4T3Zfc1haSDJBb0c3UHZwTW5wcXhRSWxiVzB0MDR6Ym1jQ0ZiTmNpcnp0US1xdFE5dDlESmFVWDl0b3hyTy1ncUl2V3oxVFFrcEx1UDAwdDRJTXJ6bzc1dWt5RQ?oc=5
+
+- Unemployment: India's young are more educated than ever. So why are so many jobless? - BBC
+  India's young are more educated than ever. So why are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sYVBmU3BoMGdocTE0WDRTd1dqdnZyLWhNM3czYk9qbHNHTWpUVkxLRjdYUWtVeEpmaXUteGtIMFRNWVE0Vm5id2hWVFNaRWVzMldQMUFCQVB5Zw?oc=5
+
+- India news: 'Suggestive' song row reaches parliament - dw.com
+  India news: 'Suggest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU1RSDJRNnhHbEViZ2N5QmZGX3ExdTRua0J0OXlyenBfZTlod2taajFHS1F4enlNVHhkY2hBSUNYMmFPVkNtZ2l1ZHJPYmdCV1J6T2ZLQzF4S0s4ZlhCLUFoNEpuTVlXOWR4dzhoV0pncGZaczlaTUtyWDQ4OHFiU252OG1UbUtrMUpmbjRjeFA0MGhVb2FvUGN3?oc=5
 
 
-_Last updated: 2026-03-19 06:57:41 UTC_
+_Last updated: 2026-03-19 12:58:04 UTC_
