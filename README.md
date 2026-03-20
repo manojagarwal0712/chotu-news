@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Indian High Commissioner to UK Doraiswami is new ambassador to China
+- Life term for ‘mass’ conversion, displaying details of those who want to convert: What’s in Chhattisgarh’s new Bill?
   
-  🔗 https://indianexpress.com/article/india/vikram-doraiswami-appointed-india-ambassador-to-china-ifs-mea-10591043/
+  🔗 https://indianexpress.com/article/india/life-term-for-mass-conversion-displaying-details-of-those-who-want-to-convert-whats-in-chhattisgarhs-new-bill-10591207/
 
-- JD(U) MLA Anant Singh, arrested in 2025 over violence in which ex-RJD man was shot and run over by a vehicle, gets bail
+- ‘EV was not being charged’: After deadly fire at Indore businessman’s house, his son raises some questions
   
-  🔗 https://indianexpress.com/article/india/anant-singh-bail-patna-high-court-murder-case-10591024/
+  🔗 https://indianexpress.com/article/india/ev-was-not-being-charged-after-deadly-fire-at-indore-businessmans-house-his-son-raises-some-questions-10591216/
 
-- Anil Ambani questioned by CBI in Rs 2,900-crore RCom fraud probe, summoned again tomorrow
+- Inter-state sex racket busted; three arrested
   
-  🔗 https://indianexpress.com/article/india/anil-d-ambani-cbi-rcom-bank-fraud-10590880/
+  🔗 https://indianexpress.com/article/india/inter-state-sex-racket-busted-three-arrested-10591313/
 
-- Must work in mission mode to emerge as global hub of indigenous drone manufacturing: Rajnath
+- Fast-track sessions court appointed for Zubeen Garg’s death case trial: CM Himanta Biswa Sarma
   
-  🔗 https://indianexpress.com/article/india/global-hub-drone-manufacturing-mission-mode-rajnath-singh-10590751/
+  🔗 https://indianexpress.com/article/india/fast-track-sessions-court-appointed-for-zubeen-gargs-death-case-trial-cm-himanta-biswa-sarma-10591300/
 
-- Train to Sikkim: Sevoke-Rangpo railway project achieves major tunnel breakthrough, commissioning likely by Dec 2027
+- 7 foreign nationals arrested by NIA | Possibly orchestrated: Ukraine on terror plot charge; India says legal processes being followed
   
-  🔗 https://indianexpress.com/article/india/train-to-sikkim-sevoke-rangpo-railway-project-tunnel-breakthrough-commissioning-2027-10590537/
+  🔗 https://indianexpress.com/article/india/7-foreign-nationals-arrested-by-nia-possibly-orchestrated-ukraine-on-terror-plot-charge-india-says-legal-processes-being-followed-10591219/
 
 - AI Chatbots want your health records. Tread carefully.
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-chatbots-vs-human-interaction-loneliness-study-ubc-10590531/
 
-- States Sue to Stop Nexstar’s $3.5 Billion Deal for Tegna
-  A group of state attorneys general are suing to block the $3.5 billion deal. The deal would create the largest operator of local broadcasters in the
-  🔗 https://www.livemint.com/companies/states-sue-to-stop-nexstar-s-3-5-billion-deal-for-tegna-11773946168735.html
+- Titan leans on silver as gold rally prices out entry-level buyers
+  Titan is expanding design-led silver offerings to retain entry-level buyers
+  🔗 https://www.livemint.com/companies/news/titan-gold-silver-jewellery-india-jewellery-market-tanishq-mia-shaya-11773894750337.html
 
-- Live Nation CEO Michael Rapino, defending his company, takes star role at antitrust trial
-  Live Nation CEO Michael Rapino takes star role
-  🔗 https://www.livemint.com/companies/live-nation-ceo-michael-rapino-defending-his-company-takes-star-role-at-antitrust-trial-11773946168979.html
+- Singer India eyes premiumization, diversification to garner greater market share
+  The sewing machine manufacturer is modernizing its portfolio by focusing on high-value electric zig zag models. It is aiming to
+  🔗 https://www.livemint.com/companies/singer-india-premiumization-zig-zag-sewing-machine-consumer-durables-appliances-diversification-manufacturing-11773895060299.html
 
-- First challenge filed against Adani’s  ₹14,543-crore resolution plan for Jaiprakash Associates
-  The NCLAT will hear
-  🔗 https://www.livemint.com/companies/adani-jal-takeover-nclat-challenge-contractor-claims-insolvency-proceedings-india-11773936157687.html
+- HDFC Bank crisis: Investors in the dark despite repeated reassurance
+  Bank insists nothing wrong
+  🔗 https://www.livemint.com/news/hdfc-bank-crisis-investors-in-the-dark-despite-repeated-reassurance-11773920830960.html
 
-- Uber–Rivian deal: $1.25 billion investment to deploy 50,000 robotaxis across US, Europe by 2031
-  The partnership marks a major push into the robotaxi market. Plans to
-  🔗 https://www.livemint.com/companies/news/uberrivian-deal-1-25-billion-investment-to-deploy-50-000-robotaxis-across-us-europe-by-2031-11773930240638.html
+- New York man pleads guilty to cyberstalking in threats to relative of the late UnitedHealthcare CEO
+  New York man pleads guilty to cyberstalking in
+  🔗 https://www.livemint.com/companies/new-york-man-pleads-guilty-to-cyberstalking-in-threats-to-relative-of-the-late-unitedhealthcare-ceo-11773953059648.html
 
-- AIESL eyes Jewar, Navi Mumbai MRO hubs as competition intensifies
-  State-run aircraft maintenance firm plans  ₹200–300 crore investment in
-  🔗 https://www.livemint.com/companies/news/aiesl-eyes-jewar-navi-mumbai-mro-hubs-as-competition-intensifies-aircraft-indigo-akasa-air-india-11773888175572.html
+- Live Nation CEO’s Pay Tied to ‘Solving’ DOJ-Antitrust Problem
+  Live Nation Entertainment Inc. Chief Executive Officer Michael Rapino told a New York jury that his multi-million-dollar compensation is tied in part to his “solving the DOJ problem” Rapino
+  🔗 https://www.livemint.com/companies/live-nation-ceo-s-pay-tied-to-solving-doj-antitrust-problem-11773947334954.html
 
-- Small-cap Vibhor Steel share price to be in focus on Friday as company secures  ₹17 crore order
-  Vibhor Steel Tubes announced a new order worth  ₹16.87 crore for transmission towers from Agrawal Infracab Pvt Ltd. The company reported
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-vibhor-steel-share-price-to-be-in-focus-on-friday-as-company-secures-rs-17-crore-order-11773940121291.html
+- Indian stock market: 10 key things that changed for market overnight - Gift Nifty, US-Iran war, gold rate to oil prices
+  Gift Nifty was trading around 23,177 level, a premium of nearly 122 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-key-things-that-changed-for-market-overnight-gift-nifty-us-iran-war-gold-rate-to-oil-prices-11773939182854.html
 
-- SBI, Amundi to offload 10% in SBI Funds IPO, no fresh shares to be issued
-  SBI will offer up to 128.3 million shares, while Amundi SA will sell up to
-  🔗 https://www.livemint.com/market/ipo/sbi-amundi-stake-sale-mutual-fund-ipo-market-conditions-challenges-opportunities-11773937055193.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 20 March 2026
+  Torrent Power, Bharat Heavy Electricals, Linde India, Fertilisers And Chemicals Travancore
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-20-march-2026-11773942272284.html
 
-- FedEx Corp stock slips 1% ahead of third quarter earnings
-  Analysts’ consensus estimates suggest the corporation will announce a 6% rise in quarterly revenue to $23.5 billion.
-  🔗 https://www.livemint.com/market/fedex-corp-stock-slips-1-ahead-of-third-quarter-earnings-11773935979881.html
+- Stocks to watch: HDFC Bank, NTPC, Wipro among 10 shares in focus today
+  On Thursday, the Nifty 50 dropped 775 points, or 3.26%, to close at 23,000. The B
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-hdfc-bank-ntpc-wipro-among-10-shares-in-focus-today-11773943831003.html
 
-- IREDA board to meet on this date to consider the interim dividend for FY26
-  IREDA's board will meet on March 25 to consider an interim dividend for FY 2025-26. Trading window for securities will remain closed until 48 hours post-meeting.
-  🔗 https://www.livemint.com/market/stock-market-news/ireda-board-to-meet-on-this-date-to-consider-the-interim-dividend-for-fy26-11773933567123.html
+- Stocks to buy: Raja Venkatraman recommends three stocks for 20 March
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-raja-venkatraman-recommends-three-stocks-for-20-march-11773919469498.html
 
-- Accenture shares jump nearly 5% on upbeat Q2 performance driven by strong AI demand
-  Accenture's shares rose 4.7% to $204.20 on 19 March following strong Q2 2026 results. The company reported $2.93 EPS and $1.86 billion net
-  🔗 https://www.livemint.com/market/accenture-shares-jump-nearly-5-on-upbeat-q2-performance-driven-by-strong-ai-demand-11773928625313.html
+- Bearish bets on HDFC Bank at record highs, volatility may persist
+  Foreign investors, HDFC Bank’s biggest shareholder category,
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-stock-record-short-bets-fpi-selling-correction-likely-11773932272893.html
+
+- ‘Phase of refocus’: OpenAI to merge ChatGPT, Codex, and Atlas into a unified desktop ‘superapp’
+  OpenAI is merging its AI web browser, ChatGPT, and Codex into a desktop super app. CEO Fidji Simo emphasized focusing on new successful projects while avoiding distractions
+  🔗 https://www.livemint.com/technology/tech-news/phase-of-refocus-openai-to-merge-chatgpt-codex-and-atlas-into-a-unified-desktop-superapp-11773969909884.html
 
 - OnePlus Nord Buds 4 Pro with 55dB ANC, up to 54-hour battery launched in India at  ₹3,999
   Nord Buds 4 Pro come with active noise cancellation, 12mm dynamic drivers, and Bluetooth 6.0. They will be available to buy from March 23 in Radiant Gray and Raven Black colour variants
@@ -96,69 +100,93 @@
   Horizon Worlds will be removed from the Quest store by March 31. The app will also be removed by June 15, 2026.
   🔗 https://www.livemint.com/technology/tech-news/meta-shuts-down-horizon-worlds-in-vr-to-focus-on-a-mobile-only-app-heres-what-you-need-to-know-11773901715000.html
 
-- 'iPhone is not going away': Tim Cook shuts down rumors of AI hardware replacing Apple's flagship
-  Apple CEO Tim Cook assured that the iPhone will remain central to the company's strategy. Cook also talked about what the next 50 years of Apple could look like
-  🔗 https://www.livemint.com/technology/gadgets/iphone-is-not-going-away-tim-cook-shuts-down-rumors-of-ai-hardware-replacing-apples-flagship-11773894233583.html
+- Buy MCX on dips: Technical setup indicates continued momentum in coming weeks, says Shivangi Sarda
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/buy-mcx-on-dips-technical-setup-indicates-continued-momentum-in-coming-weeks-says-shivangi-sarda/videoshow/129672458.cms
 
-- HDFC Bank ADRs crash another 4% after sharp selloff, hinting at more losses on Friday
-  HDFC Bank's US-listed shares dipped further following the former chairman's sudden resignation. Despite management's reassurances and a lack of specific details, investors remain cautious. Analysts, however, see the stock correction as a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-adrs-crash-another-4-after-sharp-selloff-hinting-at-more-losses-on-friday/articleshow/129684783.cms
+- Global Market Today | Asian stocks edge higher at open as oil retreats
+  Asian markets opened higher on Friday. This followed a rebound in US stocks and a drop in oil prices. Efforts are underway to stabilize energy prices and financial conditions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-edge-higher-at-open-as-oil-retreats/articleshow/129690138.cms
 
-- View: Don't panic, don't capitulate; investors try to see beyond Iran war, says Mike Dolan
-  Global investors remain hesitant to abandon stocks and bonds despite recent energy shocks and inflation concerns. Historical resilience to oil disruptions and strong pre-existing themes like AI and growth offer some support. However, the duration of the Iran conflict and its impact
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/view-dont-panic-dont-capitulate-investors-try-to-see-beyond-iran-war-says-mike-dolan/articleshow/129683574.cms
+- Indian indices log biggest single-day decline in nearly two years
+  Indian equity benchmarks experienced their steepest single-day drop in nearly two years. Attacks on West Asian oil and gas infrastructure fueled inflation concerns. HDFC Bank's sharp decline added further pressure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-indices-log-biggest-single-day-decline-in-nearly-two-years/articleshow/129690097.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Nifty and Sensex saw steep declines, volatility spiked, and technical indicators signaled further downside risk. Bearish momentum dominating near-term market direction.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129683153.cms
+- Tax authorities ask FPIs to appoint local representatives for compliance
+  Indian tax authorities are pushing foreign portfolio investors (FPIs) to designate a 'representative assessee' for tax default engagement. This move, following an incident with Jane Street, has raised concerns among FPIs and custodians about potential
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tax-authorities-ask-fpis-to-appoint-local-representatives-for-compliance/articleshow/129690066.cms
 
-- Iran war escalation wakes markets up to risks of deeper economic pain
-  Investors reassessing the potential economic fallout from the war in ​Iran are selling assets across the globe.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/iran-war-escalation-wakes-markets-up-to-risks-of-deeper-economic-pain/articleshow/129682513.cms
+- Encube Ethicals stake sale on hold, IPO likely by 2027
+  Encube Ethicals has halted plans for a majority stake sale due to a valuation gap. The pharmaceutical firm is now eyeing an Initial Public Offering by 2027. Existing investor Quadria Capital is expected to participate in the public offering
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/encube-ethicals-stake-sale-on-hold-ipo-likely-by-2027/articleshow/129690057.cms
 
-- Nearly 28 million trips from Mideast at risk this year due to Iran war, Oxford Economics research note says
-  Nearly 28 million outbound trips from the Middle East are at risk this year. This is due to the disruption caused by the war launched by the U.S. and Israel on
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nearly-28-million-trips-from-mideast-at-risk-this-year-due-to-iran-war-oxford-economics-research-note-says/articleshow/129682721.cms
+- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
 
-- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
-  India Eyes Entry Into European 6th-Gener
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
-
-- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
-  India, Pakistan ties ‘remain a risk
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
+- 'Clandestine history of nuclear proliferation': India on US intelligence report flagging Pakistan a threat - India TV News
+  'Clandestine history of nuclear proliferation': India on US intelligence report
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkVDMlZlZWhoOGFYRFo1cGQxWGxReXpYUlk4aDlRel9oZ1NrSkpVYUVrd1hJNzNaYkpVdk9MVnhLdHJ0RmwyZzA4QkM0MWVBczItc1FETjN1WVlEcVd2RzVqRFVJTHoxSWtld1d2eEpfdlhrblpDeG52MFZMSkR0U2t0UnVBNjRhb25RU1BLRlpyVjN2Wk9EcWpJY3M3VUxid2dMSEhHS3E5alRMdTQ1UDdVMzVBZEVYZzZ0SUQxd3R4RmdBd3FReWI1TkIzQTFtRFJZQmtuUERldTZQcEtCdjVadWxMcm14Ykx2RUxrWE8tVXfSAfgBQVVfeXFMTzhEMTItNjhLdHJSYk1odWNtVDJuRlVuMHBzQjZwV25XS2w3bk5IU21Zb2xtelNjZUxmamwzcTVZOHVWelBBYjNMczdQZ0MyRGNOQVdfWkNGRlFNX3JLdC1HYy1tMWZDYnhROUFObFV5cEtsajhIRFZONmRDRG1tVGp5NEU2Z09pRExvZml6M2VTVnVBekpSeVFkc0dyWUxQV3RoQkpFSkpMdjJmWGNKZjZKNUQ2TU1mczlaOGF1WkFhSThvMkVnNGg3c0RObENyb2FPTkNxSHdHNEtpdWhMbE4yeWFlOVRVQnFJNVFPcUROTldRU2JWaWM?oc=5
 
 - "Pakistan Has A History": India On US Intel Chief's Nuclear Threat Remark - NDTV
   "Pakistan Has A History": India On US Intel
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnMwaHRfWDBIWWtON05GVE1oNE1lUVRTdkZDMUh3NGxpZGxMVFlpU1dMUEZiZlQzTWZaZnZ3R2QyaFNYU2NlaGZidl9QQmtqbmVmdnFNU29OVktzOTNRVDAyaFdUUzRpdFNrUWd0X0RHVFo3OExQTFc1WDIwWldtUkdyTzk4SjNSMEJMZkFBWFZtMEV4TWZkazVXVGZRSGhDdGNnQ3JJV0RLR2lDb19R0gG3AUFVX3lxTE1lNnFSUWxkdVNkbG9YcmV4WUEwREtvWGJ1b3Utd0hocm8xeGh6QjFLdW9LeUhuRVRBSzJZdUhIcU96ZDR2c2s0cGpnLS1mX094UEFRcFBVQ3dxSk1uaXJyQVVBdWtIbnk1U2lRaEJqQnBJX0NPdDlzUGl1WTZEQmx6cDZsR21kbFo5dmFpVTk1bUZHV2YzTmhCdFVhMDM4amlrNXVpUm9Nb3FCUDNpZ0tENDNoYkNqOA?oc=5
 
-- ‘Threat to world’: India flags Pakistan's ‘history’ after US intel chief Tulsi Gabbard's remarks | India News - Hindustan Times
-  India flags Pakistan's ‘history’ after US intel chief Tulsi G
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWZSMzdabmJSMFpPTEh5V1BVc2FYQzkyYjRuSXRPNGowWldZM21rTFF4RUR0R0pRVzNOZzF4dWRMQmtjVFVPY1ItLXQ1VGVGMFBHS0ZmWkI3cFNPRXhvNThzbVd0TVQ5NnBTVjc5eFlMUTRCOVpSUERtYV85NXhETU5yUGFzU3poOUR5SU53VXhiOU5ORzlwZ1lXVW5qUTRFRTVTODliZE40MEgwZXBNZUFGeU9GYnVXTWhhR1JKRk05Rzd6eFBCSlpNRDIyQ0RsVVJkWVd1b091QzFnTUZLS05mN29BSVHSAewBQVVfeXFMUExHQm1kZHZaNHdJeWZKQWw2MjdEc3BaOGFiSUh5UUM1TVBaV0poV3dKYjhSXzUtcEFqVjg4TUd1MC1DcnR4czF0MkZHTlJHR04tUllSQzhvQVZqUFNZWDdzbDJqTDUxV1hnVEdOcExtLXIwaGtEWHkza2lXd1hvQkVVeklZVER2cWtKWHlWUkhUc29sN2NwZC1BOGpiTm50dTdZeEN4U1RzRUlScllTclNyWEpOYWdVY3VmQXg2MTRNaVhyUVNQY1ozc2s2M3RYVmlfTGNwWVZvckdkQ0txMVJsU3dQODgyNEtiRmc?oc=5
-
-- Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India - The Times of India
-  The Times of India reports that the US is considering sanctions against Iran.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzI3WXIyLUhjNThvUkJmcTVSVWdQSFA0RDE1SXR1c2M1YjB6SzR3d1plZDh4SmF4WDBwN2pqcFA0ZkdYVWUwR2hUMmZrMFhvTkxtZ0xIVTdRNGdnLVJBZVlYSlZYdGdBTGdYOG84ZVZDX2J6aU1US01NTHZTeVByWUtMNEdocEphMXlzRW1MMUpTbWEtbEtPT1p5ZlJmZHRVX2dvc1VfeUpMQ29zYjBJMEtvdk8ybVhObVoyT1psR0JOZldWQ2t1S013MXRZazBXWDhibzFDVW92Z0V6aWtsUWZlSkRuSHcxWGFzOEFGOEpNa2l1Yk9SWk9YRE4yeVXSAYQCQVVfeXFMT2RZOXZCcE95YURKTVZvUkFpdG5OeGxJb1hRbGw2YWs2RVdFNGFJbC05Yzk4aDFKcjhpMkh6QnRxYTg0N1Qzc3NzZUVkTkQ5SW9hT2JXY01vNC0wbGo3UElfWGdmZjhVdk1mSTduSkgyRXF6QXVrZjlEYldzUnQtRzB6bFNldVlOUnFiS3JzbFI1OEsxNElLbUNXSDJZYzdmaEZxTG1xMnB1NVZCRGZMdG9talJ6WUhzUFBVNUgxRWd3ZU9BVDRGdlFZU0xtQklUMUJSX2ZXWFJZQTNLWWlCcjBqSm44Z0oyZ2VCXzhPMlFZZUNQbjhBT2dUS2daVEJfSW1ORTY?oc=5
-
-- India Eyes Entry Into European 6th-Generation Fighter Program. What It Means - NDTV
-  India Eyes Entry Into European 6th-Gener
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNWG5hT2NXeHhhWmdKYlFLYXRxdVY2SjlVS0RqTllienRGOUtxaktXR0V4cVB0bnd1eHEtRC01alBjS21icTBtc3FBN3o0M09XVlRtWVFvdXU1cGdNb1A5RHl6b01udURxQ2xRVVBKaGcxS3psMTgyWW5XUE15ck4zLTF6Z0pEQkpxWDJ2VUJSc2lfb3VGZlhFc1Y2b1U5RXFQanEzatIBrAFBVV95cUxOQjNKN0ZZMWZoVzllN2E0aG0yX2E4UnJja20yZmRkV0V4ZURIVkRTMHZDWThTUlVGcEFSa1RJa2FpZ2pOa21COVdmVmlNM3g1V1dSVFVRWUc3blhnNTcxN2RzS1MtTk5la2RmV0RWNEcwblZoQllmX3d5YWxuaU80QWFQSlR5enBrMlZrWG9XSWhFUkdIbU9ibldwQm9UQVhnSjBpakpwSEVfNlN4?oc=5
-
 - India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
   India, Pakistan ties ‘remain a risk
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
+
+- Varun Chakravarthy used his skills incorrectly at T20 World Cup: Amit Mishra - The Times of India
+  Varun Chakravarthy used his skills incorrectly at T20 World
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTlDRVpjd2FqS2tLN1dnbUZBM0VGTDNJYko5T2JNdFVSbGxwLUpVdmEyWXVHeERUQ3poaGdYbzhEWmxrenVjMkoxM0xxV1N0bE1vbTZxMndxRHBGNzNkR0VTN01ydnFDVHFTMTYwN2ZfM0VyNTlwXzVVRjllSnl0eWhka0hERGdYbmtHWUVMSFJMNUhVSWYyRGFjMG5uNmdhUXlYaV9adUFNSDFpNjk4NDJlQk85elNQaVlmSVVzQkQ3NC1MNVEwTVpoQjZtR1hzX3JvdENHbVUxNzRmMGJGX1Vyc05RRC1kOHQzajlB0gHzAUFVX3lxTE9pWUJTSTVVZGZpTzRwZlVDMV9RaE4xNkZndV9FZlJrc01Bb0Y1czh2OEhPZGRPVjVjVnM5NmtOVGFDcVhmOUpFQWx3enptUmRBY3NldGktQU5QQjE2Zy0tU3B0U21Ga05wS25lcGZkRFNyWHdVWGNpSVVLM0RSYzhvM3N6ZUZBTV8tY3pnZWV6Y3UyMzVGR1pTalA5aGloZFZ2MjFHRVJrME0tWXlpTEFxdU9OOEY2Q0kzX1pOQU9zdm9qbmljMXRRU2UzdFROSWl3RlZCS2EyZF91elJyN0U5VzdVY1l6Y2tKcjZ5V1JZcXc5OA?oc=5
+
+- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
+
+- 'Clandestine history of nuclear proliferation': India on US intelligence report flagging Pakistan a threat - India TV News
+  'Clandestine history of nuclear proliferation': India on US intelligence report
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkVDMlZlZWhoOGFYRFo1cGQxWGxReXpYUlk4aDlRel9oZ1NrSkpVYUVrd1hJNzNaYkpVdk9MVnhLdHJ0RmwyZzA4QkM0MWVBczItc1FETjN1WVlEcVd2RzVqRFVJTHoxSWtld1d2eEpfdlhrblpDeG52MFZMSkR0U2t0UnVBNjRhb25RU1BLRlpyVjN2Wk9EcWpJY3M3VUxid2dMSEhHS3E5alRMdTQ1UDdVMzVBZEVYZzZ0SUQxd3R4RmdBd3FReWI1TkIzQTFtRFJZQmtuUERldTZQcEtCdjVadWxMcm14Ykx2RUxrWE8tVXfSAfgBQVVfeXFMTzhEMTItNjhLdHJSYk1odWNtVDJuRlVuMHBzQjZwV25XS2w3bk5IU21Zb2xtelNjZUxmamwzcTVZOHVWelBBYjNMczdQZ0MyRGNOQVdfWkNGRlFNX3JLdC1HYy1tMWZDYnhROUFObFV5cEtsajhIRFZONmRDRG1tVGp5NEU2Z09pRExvZml6M2VTVnVBekpSeVFkc0dyWUxQV3RoQkpFSkpMdjJmWGNKZjZKNUQ2TU1mczlaOGF1WkFhSThvMkVnNGg3c0RObENyb2FPTkNxSHdHNEtpdWhMbE4yeWFlOVRVQnFJNVFPcUROTldRU2JWaWM?oc=5
 
 - "Pakistan Has A History": India On US Intel Chief's Nuclear Threat Remark - NDTV
   "Pakistan Has A History": India On US Intel
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnMwaHRfWDBIWWtON05GVE1oNE1lUVRTdkZDMUh3NGxpZGxMVFlpU1dMUEZiZlQzTWZaZnZ3R2QyaFNYU2NlaGZidl9QQmtqbmVmdnFNU29OVktzOTNRVDAyaFdUUzRpdFNrUWd0X0RHVFo3OExQTFc1WDIwWldtUkdyTzk4SjNSMEJMZkFBWFZtMEV4TWZkazVXVGZRSGhDdGNnQ3JJV0RLR2lDb19R0gG3AUFVX3lxTE1lNnFSUWxkdVNkbG9YcmV4WUEwREtvWGJ1b3Utd0hocm8xeGh6QjFLdW9LeUhuRVRBSzJZdUhIcU96ZDR2c2s0cGpnLS1mX094UEFRcFBVQ3dxSk1uaXJyQVVBdWtIbnk1U2lRaEJqQnBJX0NPdDlzUGl1WTZEQmx6cDZsR21kbFo5dmFpVTk1bUZHV2YzTmhCdFVhMDM4amlrNXVpUm9Nb3FCUDNpZ0tENDNoYkNqOA?oc=5
 
-- ‘Threat to world’: India flags Pakistan's ‘history’ after US intel chief Tulsi Gabbard's remarks | India News - Hindustan Times
-  India flags Pakistan's ‘history’ after US intel chief Tulsi G
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLWZSMzdabmJSMFpPTEh5V1BVc2FYQzkyYjRuSXRPNGowWldZM21rTFF4RUR0R0pRVzNOZzF4dWRMQmtjVFVPY1ItLXQ1VGVGMFBHS0ZmWkI3cFNPRXhvNThzbVd0TVQ5NnBTVjc5eFlMUTRCOVpSUERtYV85NXhETU5yUGFzU3poOUR5SU53VXhiOU5ORzlwZ1lXVW5qUTRFRTVTODliZE40MEgwZXBNZUFGeU9GYnVXTWhhR1JKRk05Rzd6eFBCSlpNRDIyQ0RsVVJkWVd1b091QzFnTUZLS05mN29BSVHSAewBQVVfeXFMUExHQm1kZHZaNHdJeWZKQWw2MjdEc3BaOGFiSUh5UUM1TVBaV0poV3dKYjhSXzUtcEFqVjg4TUd1MC1DcnR4czF0MkZHTlJHR04tUllSQzhvQVZqUFNZWDdzbDJqTDUxV1hnVEdOcExtLXIwaGtEWHkza2lXd1hvQkVVeklZVER2cWtKWHlWUkhUc29sN2NwZC1BOGpiTm50dTdZeEN4U1RzRUlScllTclNyWEpOYWdVY3VmQXg2MTRNaVhyUVNQY1ozc2s2M3RYVmlfTGNwWVZvckdkQ0txMVJsU3dQODgyNEtiRmc?oc=5
+- India, Pakistan ties ‘remain a risk’ for nuclear conflict: U.S. Intelligence - The Hindu
+  India, Pakistan ties ‘remain a risk
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWZHbTF2NnNURVBsNkljVER2V3VkVHl1TUdJMG5hS1p1aWRwRjRVRmFWbXlLcnIyWmxHM2JzNEJibzUtc1U4aWdPa2dlc1VFTDI0RnR3b0JoQVkxano4cnhHUi1DQ3BuVTNYNnBGdnNQQUJxdTVwMUs0VDlXMGJsblZGTWJsSWZQbUUwT2Q4MXBJRlZPelJoZ3dfNUM3aF9MWE1hU1RCekFvRE1JYjZuQ3JJM3pXYzlNWFdxMExGTG15MGM4VWZNRU5NZmh6eEHSAdYBQVVfeXFMTUVHUjBadzgzX0VpektWa2c0cm5aVE4zR1dyc1lVQzQyREItWHpOZTMxdko3M1J2RHVLS00tNG11Z3lVNDRpMHFOWW9NS2FNRzVUYnNPeGU3cVVFbGlVbGJ3MUpSVTBsYUZ3blBTTGR2WkdHZXIwaE5IQ25nWWNlZ092bXdnczBYOXNhaGp6S3lRUlBISUhGNzBUVTFhZkV0QUh3NDNvaE1kYW85bWcxb3RrUEd4UFRXdWpSZ2NUVkpYSGNjNXl3WDRZOGtGQWhHdDNQbDlodw?oc=5
 
-- Big oil relief soon? What Trump’s possible ‘unsanctioning’ of Iran crude means for India - The Times of India
-  The Times of India reports that the US is considering sanctions against Iran.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzI3WXIyLUhjNThvUkJmcTVSVWdQSFA0RDE1SXR1c2M1YjB6SzR3d1plZDh4SmF4WDBwN2pqcFA0ZkdYVWUwR2hUMmZrMFhvTkxtZ0xIVTdRNGdnLVJBZVlYSlZYdGdBTGdYOG84ZVZDX2J6aU1US01NTHZTeVByWUtMNEdocEphMXlzRW1MMUpTbWEtbEtPT1p5ZlJmZHRVX2dvc1VfeUpMQ29zYjBJMEtvdk8ybVhObVoyT1psR0JOZldWQ2t1S013MXRZazBXWDhibzFDVW92Z0V6aWtsUWZlSkRuSHcxWGFzOEFGOEpNa2l1Yk9SWk9YRE4yeVXSAYQCQVVfeXFMT2RZOXZCcE95YURKTVZvUkFpdG5OeGxJb1hRbGw2YWs2RVdFNGFJbC05Yzk4aDFKcjhpMkh6QnRxYTg0N1Qzc3NzZUVkTkQ5SW9hT2JXY01vNC0wbGo3UElfWGdmZjhVdk1mSTduSkgyRXF6QXVrZjlEYldzUnQtRzB6bFNldVlOUnFiS3JzbFI1OEsxNElLbUNXSDJZYzdmaEZxTG1xMnB1NVZCRGZMdG9talJ6WUhzUFBVNUgxRWd3ZU9BVDRGdlFZU0xtQklUMUJSX2ZXWFJZQTNLWWlCcjBqSm44Z0oyZ2VCXzhPMlFZZUNQbjhBT2dUS2daVEJfSW1ORTY?oc=5
+- Varun Chakravarthy used his skills incorrectly at T20 World Cup: Amit Mishra - The Times of India
+  Varun Chakravarthy used his skills incorrectly at T20 World
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQTlDRVpjd2FqS2tLN1dnbUZBM0VGTDNJYko5T2JNdFVSbGxwLUpVdmEyWXVHeERUQ3poaGdYbzhEWmxrenVjMkoxM0xxV1N0bE1vbTZxMndxRHBGNzNkR0VTN01ydnFDVHFTMTYwN2ZfM0VyNTlwXzVVRjllSnl0eWhka0hERGdYbmtHWUVMSFJMNUhVSWYyRGFjMG5uNmdhUXlYaV9adUFNSDFpNjk4NDJlQk85elNQaVlmSVVzQkQ3NC1MNVEwTVpoQjZtR1hzX3JvdENHbVUxNzRmMGJGX1Vyc05RRC1kOHQzajlB0gHzAUFVX3lxTE9pWUJTSTVVZGZpTzRwZlVDMV9RaE4xNkZndV9FZlJrc01Bb0Y1czh2OEhPZGRPVjVjVnM5NmtOVGFDcVhmOUpFQWx3enptUmRBY3NldGktQU5QQjE2Zy0tU3B0U21Ga05wS25lcGZkRFNyWHdVWGNpSVVLM0RSYzhvM3N6ZUZBTV8tY3pnZWV6Y3UyMzVGR1pTalA5aGloZFZ2MjFHRVJrME0tWXlpTEFxdU9OOEY2Q0kzX1pOQU9zdm9qbmljMXRRU2UzdFROSWl3RlZCS2EyZF91elJyN0U5VzdVY1l6Y2tKcjZ5V1JZcXc5OA?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-19 18:54:26 UTC_
+_Last updated: 2026-03-20 01:47:58 UTC_
