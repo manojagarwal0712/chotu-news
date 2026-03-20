@@ -1,224 +1,164 @@
 # 📰 Daily News Summaries
 
-- ‘It feels like a second birth’: Sky Light’s Indian survivors return home with only the clothes on their backs
+- Indian Railways’ RailOne App to integrate with Bharat Taxi, to provide last-mile connectivity from New Delhi station
   
-  🔗 https://indianexpress.com/article/india/sky-lights-indian-survivors-return-home-with-only-the-clothes-on-their-backs-10591231/
+  🔗 https://indianexpress.com/article/india/indian-railways-railone-app-bharat-taxi-new-delhi-last-mile-connectivity-10592572/
 
-- From Congress veteran to BJP candidate in 2 days: Pradyut Bordoloi makes BJP’s list of 88 candidates for Assam polls
+- No child will study hungry: Telangana budget promises free breakfast in schools, ₹5 lakh universal insurance
   
-  🔗 https://indianexpress.com/article/india/from-congress-veteran-to-bjp-candidate-in-2-days-pradyut-bordoloi-makes-bjps-list-of-88-candidates-for-assam-polls-10591215/
+  🔗 https://indianexpress.com/article/india/telangana-budget-free-breakfast-schools-%e2%82%b95-lakh-insurance-10592560/
 
-- Family heist: How former teacher, wife and son ‘manipulated pension records to siphon crores into their accounts’
+- AAP’s Saurabh Bhardwaj accuses BJP of ‘letting people die’ in Palam fire to avoid embarrassment
   
-  🔗 https://indianexpress.com/article/india/family-heist-how-former-teacher-wife-and-son-manipulated-pension-records-to-siphon-crores-into-their-accounts-10591208/
+  🔗 https://indianexpress.com/article/india/palam-fire-tragedy-aap-saurabh-bhardwaj-bjp-negligence-allegations-10592587/
 
-- Life term for ‘mass’ conversion, displaying details of those who want to convert: What’s in Chhattisgarh’s new Bill?
+- New Delhi railway station to get AI cameras, QR code-based entry system to enhance safety, ease rush
   
-  🔗 https://indianexpress.com/article/india/life-term-for-mass-conversion-displaying-details-of-those-who-want-to-convert-whats-in-chhattisgarhs-new-bill-10591207/
+  🔗 https://indianexpress.com/article/india/new-delhi-railway-station-ai-cameras-qr-code-based-entry-system-safety-ease-rush-10592389/
 
-- ‘EV was not being charged’: After deadly fire at Indore businessman’s house, his son raises some questions
+- Udaipur-Asarva Vande Bharat train gets new stoppage – check station, timings
   
-  🔗 https://indianexpress.com/article/india/ev-was-not-being-charged-after-deadly-fire-at-indore-businessmans-house-his-son-raises-some-questions-10591216/
+  🔗 https://indianexpress.com/article/india/udaipur-asarva-vande-bharat-train-gets-new-stoppage-check-station-timings-10592238/
 
-- Human vs bots: Cloudflare CEO Matthew Prince says AI traffic could surpass human activity by 2027
+- Government bans 300 betting and gambling platforms, bringing the total to 8,400
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/cloudflare-ceo-matthew-prince-says-ai-traffic-could-surpass-human-activity-by-2027-10591705/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/government-bans-300-betting-apps-online-gaming-act-2025-crackdown-10592482/
 
-- Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI: Report
+- Tech and gadget launches today (March 20, 2026): OPPO K14 5G Pro 3, Valour Watch 1R, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-report-10591562/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-20-2026-oppo-k14-5g-pro-3-valour-watch-1r-and-more-10592272/
 
-- Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal
+- I spent days with the new Asus ZenBook S16. Here’s what I think about the premium notebook
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal-10591561/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-zenbook-s16-2026-review-10592441/
 
-- OpenAI to buy Python toolmaker Astral to take on Anthropic
+- Croma announces Ugadi and Gudi Padwa sale, MacBook Neo starting from Rs 38,706
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-to-buy-python-toolmaker-astral-to-take-on-anthropic-10591560/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/croma-ugadi-gudi-padwa-sale-2026-macbook-neo-rtx-50-series-laptop-tv-offers-10592145/
 
-- AI Chatbots want your health records. Tread carefully
+- Trust no resume: AI is rewriting the rules of hiring, here’s how
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-chatbots-want-your-health-records-tread-carefully-10590812/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-is-rewriting-the-rules-of-hiring-heres-how-10592152/
 
-- Rentomojo aims to raise up to  ₹1,200 cr via IPO, to file draft papers soon
-  Furniture rental startup Rentomojo plans to raise  ₹1,000–1,
-  🔗 https://www.livemint.com/companies/start-ups/rentomojo-ipo-subscription-model-startups-india-furniture-rental-11773983868722.html
+- JPMorgan Chase CEO Jamie Dimon sees an end on the horizon. But not yet.
+  After two decades, JPMorgan Chase’s CEO says he has three or four more years on the job.
+  🔗 https://www.livemint.com/companies/news/jpmorgan-chase-ceo-jamie-dimon-sees-an-end-on-the-horizon-but-not-yet-11774009706972.html
 
-- Mint Explainer | Why Big Food is cutting back: Slow growth, new health trends, and GLP-1 drugs push giants to exit
-  Major FMCG players are rethinking their portfolios, a stark contrast to India's booming food market. From slow
-  🔗 https://www.livemint.com/companies/global-food-companies-unilever-nestl-kraft-heinz-fmcg-exit-food-business-spin-off-packaged-food-market-india-glp-1-drug-11773981392359.html
+- Emcure betting on innovator edge in crowded weight-loss drug market
+  Several top Indian drugmakers will launch cheaper generics immediately, with intense
+  🔗 https://www.livemint.com/companies/news/emcure-betting-on-innovator-edge-in-crowded-weight-loss-drug-market-11773995546630.html
 
-- Crypto.com layoffs: Company to cut 12% workforce as AI push reshapes operations — all you need to know
-  Companies like Meta and Crypto.com cut jobs to adapt to AI-driven changes. This year, over 39,000 employees have been affected.
-  🔗 https://www.livemint.com/companies/news/cryptocom-layoffs-company-to-cut-12-workforce-as-ai-push-reshapes-operations-all-you-need-to-know-11773975062689.html
+- NCLAT stays bank guarantee invocation in JAL case, admits contractor’s plea
+   Velocity moved the appellate tribunal after the NCLT rejected its claim of over  ₹1 crore arising
+  🔗 https://www.livemint.com/companies/news/nclat-stays-bank-guarantee-invocation-in-jal-case-admits-contractor-s-plea-11774002515513.html
 
-- Titan leans on silver as gold rally prices out entry-level buyers
-  Titan is expanding design-led silver offerings to retain entry-level buyers
-  🔗 https://www.livemint.com/companies/news/titan-gold-silver-jewellery-india-jewellery-market-tanishq-mia-shaya-11773894750337.html
+- Solar cell manufacturer Jupiter International hires bankers for $300 million IPO
+  Jupiter International has appointed four investment banks to lead a $300 million IPO, with a May filing.
+  🔗 https://www.livemint.com/companies/news/solar-cell-manufacturer-jupiter-international-hires-bankers-for-300-million-ipo-11773998341025.html
 
-- Singer India eyes premiumization, diversification to garner greater market share
-  The sewing machine manufacturer is modernizing its portfolio by focusing on high-value electric zig zag models. It is aiming to
-  🔗 https://www.livemint.com/companies/singer-india-premiumization-zig-zag-sewing-machine-consumer-durables-appliances-diversification-manufacturing-11773895060299.html
+- Vodafone Idea, BSNL begin talks to share telecom infrastructure
+  The move to share towers, fibre and spectrum aims to cut costs and improve network reach. The government says any deal
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-bsnl-begin-talks-to-share-telecom-infrastructure-11773995050690.html
 
-- Gold price today: Rates rise nearly 2% after 5% fall; check 20 March prices in Delhi, Mumbai, Bengaluru and other cities
-  Gold prices are influenced by central bank purchases and geopolitical tensions. Short-term pressures from a stronger US dollar are noted, while recent price increases reflect safe-haven demand.
-  🔗 https://www.livemint.com/market/commodities/gold-price-today-rates-rise-nearly-2-after-5-fall-check-20-march-prices-in-delhi-mumbai-bengaluru-and-other-cities-11773981325757.html
+- US stock market today: Dow, S&amp;P 500 futures slip as investors stay cautious; FedEx shares jump 7%
+  US stock futures indicate a negative opening, with the S&amp;amp;P 500 and Dow facing volatility. FedEx shares rose 10% in pre-market trade after an upbeat performance in
+  🔗 https://www.livemint.com/market/us-stock-market-today-dow-s-p-500-futures-slip-as-investors-stay-cautious-fedex-shares-jump-7-11774005226406.html
 
-- Sensex, Nifty 50, Bank Nifty jump more than 1% each: Has Indian stock market bottomed out after Thursday's crash?
-  Sensex, Nifty 50, and Bank Nifty are witnessing a relief rally after Thursday's massive fall. A slight decline in crude oil prices, hopes that the worst in terms of war may be over, and
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-bank-nifty-jump-more-than-1-each-has-indian-stock-market-bottomed-out-after-thursdays-crash-11773981304961.html
+- Gold prices to crash to $4,400? Tread cautiously as tech charts signal bearish bias
+   YES Bank indicates that gold prices typically perform well during stagflation, but current trends show a bearish outlook. A break below $5000 could lead to further declines.
+  🔗 https://www.livemint.com/market/commodities/gold-prices-to-crash-to-4-400-tread-cautiously-as-tech-charts-signal-bearish-bias-11774003963127.html
 
-- Speciality Medicines IPO opens: Issue booked 15% so far; check GMP, price band and other key details about SME IPO
-  Speciality Medicines IPO, worth  ₹29 crore, opened for bidding today and will available till March 24. The offer is entirely a
-  🔗 https://www.livemint.com/market/ipo/speciality-medicines-ipo-opens-issue-booked-15-so-far-check-gmp-price-band-and-other-key-details-about-sme-ipo-11773986040233.html
+- Sensex, Nifty 50 end higher— Stocks at 52-week highs, top gainers, most traded stocks and other key highlights
+  The Sensex ended 326 points, or 0.44%, higher at 74,532.96. The Nifty 50 ended with
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-higher-stocks-at-52-week-highs-top-gainers-most-traded-stocks-and-other-key-highlights-11774001979236.html
 
-- Innovision IPO allotment status finalised. GMP, steps to check share allotment status online
-  Online check can be done through the websites of BSE and NSE. Kfin Technologies is the Innovision IPO registrar.
-  🔗 https://www.livemint.com/market/ipo/innovision-ipo-allotment-status-finalised-gmp-steps-to-check-share-allotment-status-online-11773985108394.html
+- Mrs Bectors investors await proof of recovery
+  Export weakness and slower domestic traction have weighed on growth. For Mrs. Bect
+  🔗 https://www.livemint.com/market/mark-to-market/mrs-bectors-shares-exports-revenue-growth-fy27-outlook-11773997813401.html
 
-- Tata Power share price jumps 5% after signing PPA with Gujarat govt
-  Tata Power rose 5% after Gujarat approved a new power supply agreement, allowing the co to restart its 4-gigawatt Mundra facility.
-  🔗 https://www.livemint.com/market/stock-market-news/tata-power-share-price-jumps-5-after-signing-ppa-with-gujarat-govt-11773983589172.html
+- Gold rate outlook: Yellow metal prices set for third week in a row. Opportunity to buy?
+  Gold prices have dropped over 6% this week amid a strong US dollar and cautious Federal Reserve stance. Gold prices on MCX rose by   ₹1,914 to  �
+  🔗 https://www.livemint.com/market/commodities/gold-rate-outlook-yellow-metal-prices-set-for-third-week-in-a-row-opportunity-to-buy-11774001376795.html
+
+- ‘Out of ideas’: Nvidia CEO Jensen Huang dismisses AI job loss fears, blames recent layoffs on lack of ‘imagination’
+  Nvidia CEO Jensen Huang criticized companies laying off workers due to AI, asserting that they lack imagination. He also went on to dismiss
+  🔗 https://www.livemint.com/technology/tech-news/out-of-ideas-nvidia-ceo-jensen-huang-dismisses-ai-job-loss-fears-blames-recent-layoffs-on-lack-of-imagination-11773995361646.html
+
+- OnePlus Nord 6 design, full specifications leaked ahead of launch: here's what to expect
+  The Nord 6 could feature a 6.78-inch AMOLED display, Snapdragon 8s Gen 4 processor and a dual camera setup with a 50MP primary lens.
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-design-full-specifications-leaked-ahead-of-launch-heres-what-to-expect-11773997802081.html
+
+- A single smartphone notification hijacks your focus for 7 seconds, new study finds
+  A single social media notification can disrupt cognitive processing for about 7 seconds. The research indicates that the frequency of notifications, not just screen time, significantly impacts attention
+  🔗 https://www.livemint.com/technology/tech-news/a-single-smartphone-notification-hijacks-your-focus-for-7-seconds-new-study-finds-11773989849380.html
+
+- Want to sideload apps on Android? Google now requires Developer Mode and a 24-hour wait for installing unverified apps
+  Google has revised its sideloading rules for Android. New process requires users to enable developer mode and a verification check to prevent coercion from scammers.
+  🔗 https://www.livemint.com/technology/tech-news/want-to-sideload-apps-on-android-google-now-requires-developer-mode-and-a-24-hour-wait-for-installing-unverified-apps-11773987717313.html
 
 - US takes down ‘cybercrime-as-a-service’ botnets that hijacked over 3 million IoT devices globally
   The US Justice Department has dismantled four major botnets responsible for significant DDoS attacks. These botnets, operating on a 'cybercrime-as-a-service'
   🔗 https://www.livemint.com/technology/tech-news/us-takes-down-cybercrime-as-a-service-botnets-that-hijacked-over-3-million-iot-devices-globally-11773980650016.html
 
-- Eid-ul-Fitr 2026: 50 AI prompts to create your viral festive look via Gemini- Check step-by-step guide
-  Eid-ul-Fitr 2026 is around the corner, and if you are looking to create your
-  🔗 https://www.livemint.com/technology/tech-news/eidulfitr-2026-50-ai-prompts-to-create-your-viral-festive-look-step-by-step-guide-11773972439844.html
+- Gainers &amp; Losers: Firstcry, GMDC and Petronet LNG among 7 top movers on Friday
+  Indian markets closed higher Friday, led by IT gains. Top movers: GMDC, First
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-firstcry-gmdc-and-petronet-lng-among-7-top-movers-on-friday/slideshow/129700435.cms
 
-- ‘Phase of refocus’: OpenAI to merge ChatGPT, Codex, and Atlas into a unified desktop ‘superapp’
-  OpenAI is merging its AI web browser, ChatGPT, and Codex into a desktop super app. CEO Fidji Simo emphasized focusing on new successful projects while avoiding distractions
-  🔗 https://www.livemint.com/technology/tech-news/phase-of-refocus-openai-to-merge-chatgpt-codex-and-atlas-into-a-unified-desktop-superapp-11773969909884.html
+- Max Estates aims Rs 3,000 crore revenue from new housing project in Noida
+  Max Estates Ltd expects Rs 3,000 crore revenue from
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-aims-rs-3000-crore-revenue-from-new-housing-project-in-noida/articleshow/129699798.cms
 
-- OnePlus Nord Buds 4 Pro with 55dB ANC, up to 54-hour battery launched in India at  ₹3,999
-  Nord Buds 4 Pro come with active noise cancellation, 12mm dynamic drivers, and Bluetooth 6.0. They will be available to buy from March 23 in Radiant Gray and Raven Black colour variants
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-buds-4-pro-with-55db-anc-and-up-to-54-hour-battery-launched-in-india-priced-at-rs-3999-11773908221179.html
+- Paranjape Schemes to invest Rs 700cr to develop 1400 homes in Pune
+  Paranjape Schemes Construction Ltd will invest Rs 700 crore to develop four projects
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/paranjape-schemes-to-invest-rs-700cr-to-develop-1400-homes-in-pune/articleshow/129699771.cms
 
-- ‘Google will win the AI race’: Elon Musk makes rare admission, claims Grok will win in space
-  Elon Musk acknowledges that Google will win the AI race in the US, while China will dominate globally and SpaceX will lead in space. His comments follow a discussion on
-  🔗 https://www.livemint.com/technology/tech-news/google-will-win-the-ai-race-elon-musk-makes-rare-admission-claims-grok-will-win-in-space-11773909384017.html
+- Wall St futures slip as Iran war rages on, investors dial down rate cut bets
+  U.S. stock index futures slipped in choppy trading on Friday. The Iran war approached its fourth week, roiling energy markets and prompting investors to aggressively
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-st-futures-slip-as-iran-war-rages-on-investors-dial-down-rate-cut-bets/articleshow/129699658.cms
 
-- Stocks fall for a second day, but close off session lows as oil surge eases: Live updates - CNBC
-  Stocks fall for a second day, but close off session lows as oil
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9VRmtGbFBCdTBjZ1dycnhqRHUzX0RRYU85b1hMV1k4SkRoV2xvbE11TTlxeDZKZkhnWDd6WHlKblRKU1dsX1V0cEp6Z0lvTmk2TGhCbzljYmplOEYwbHhTRUFYN2RzLWRRTXU2MTVPSWVtdi1kWHVr0gF8QVVfeXFMTUkzUG90WC1SR0owMkFIMTBqQmttTlIwX19GRzRmZWtJY0tibzdTOXhoVzRGQTNST0NWYzhiV3hNTTZkcGFlTUthSmt1MXpXYTNkb0JlRVI4c2pGTUFSb0RSNkFFSHplT1dyTmwweENPWkliOGdGc2hkSGJBcw?oc=5
+- Gold set for worst week in six years as war curbs rate-cut bets
+  Gold headed for the biggest weekly loss in six years. War in the Middle East boosted energy prices and
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-in-six-years-as-war-curbs-rate-cut-bets/articleshow/129699635.cms
 
-- Stock Market News, March 19, 2026: Brent Crude Retreats After Touching $119 - WSJ
-  Stock Market News, March 19, 2026:
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNay12LVB0dVo1blFSX1JkVnlOc3ZDYnVHWXQ0VDFEbTFRN1JidTV1dHBJNTBBN2x6TlRIX2ZTWVB1dUNVa0ZzXzQwU0xIRWJqeDREYnAydXJfaXkxTVlsU2luOU9aYm9lNDJFbjRQeGVka1hXbVp1NGNTenNmNVVvc1ZTZ1QyOWs?oc=5
+- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
+  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Sensex Gains 1,000 Points, Nifty Up 300, Rupee Falls - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTG5FYWRSZ01iZkNTS2VUbkNDeWtTMDhTSkVtVlZ3RzN0NlNaQ2p1WUdWZkljMERTamJKbDlEd285R0REd24tOEdJYktkSjd6dUhoclc2V0oyYU14dmpfek9uOE9PUElQRX
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTG5FYWRSZ01iZkNTS2VUbkNDeWtTMDhTSkVtVlZ3RzN0NlNaQ2p1WUdWZkljMERTamJKbDlEd285R0REd24tOEdJYktkSjd6dUhoclc2V0oyYU14dmpfek9uOE9PUElQRXlzTjUyMFY1V2NYNllvdnA0cGdJVVZfZVlSUXVIUFdDZ0dOcnJ2TldMRTN4NlRBZXAyX1BZODhyOW5OWEtQa19RdjFvUjhxcU4wVElUcUp1WjdCRnBUU1ltbm82THZtb2tfa29kTVBqU0FJc0I4d01rZlHSAeMBQVVfeXFMT2l4VDU4RzRQYVI3NlR5OFJ2eDdoNl91WUo2MG9uODl4akFTUjBmMFp4OF82NWV5djFKR0FUUXZBOGR3eHBGSjhnMW1oQmE0S1FQVEktX0tSZ05NME1pRnN4RXZJaG0wcDBVcHUyM3VQelV1SjRvQ2hNSzVXek5zYVdwd0dDbEtLNTJoQk5iTkJGTG53SU5qT2VBR014UjdLSTRrajVBUVZTSlkxcGJyM09RbXNwdGlZQUxyLUFJSUdfZVBtVFB2VTV6ZURfVHpiTmk3eHFyNTBaNWhsakY4c2NvWGs?oc=5
+- 67% of India's unemployed youth are graduates: Report - The Times of India
+  67% of India's unemployed youth are graduates
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTUzUkQtNlVhMUx1aGNVV1JWdU4wVHlWMHFaSzhZRzJRYkhrMk5yQmJ0SEdRRGNxeGxYZFdZa21tRnhhemlnNDB3ekxtNVZVTGtkYUl3dTRwLWlVZmFYWjJUY0FOaUdDcUM3dzdxSjhVRThkbG1ZQmNQMUZCRi1yUGR2UmhkOUhueHdvZ1FoeW5fRXBmVXV2aEtaejJYRDZXX29ERFk3a0stdnU5Sm1lM0RHZjJoYU9JaWfSAb8BQVVfeXFMT3lTZ2YwTk50dFI4SENYS2dETEd3SWdnN2FRUjZBUDd5NGlXcUJISHR3d0NUSlRueFBJT1QzZDcxSUlBUjlTSlc0eThOUWZrVjhvYVpjS19rdl9fQnAyMDBabXY1RW9aTEF0RlgtYXo4VTdFZjFHVHFPOU5yZ2d6M2ZvTmItdzdXVFI0VFBJN2ctbUl1UXBuc0FjZUNtbUJTell3aFV6SFNsajdocGswZWZrMG9PU3p5d3VvOEtTUkU?oc=5
 
-- The Iran war is sending shockwaves through the world's busiest IPO market - CNBC
-  The Iran war is sending shockwaves through the world
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQemQ2RGk2UTVQbWpRQjFBaERuOS1jM01sY3p2aVhRNlpVak1JZ2tVdVJxajFDM2lueEZKT1c1aFBfQkNfbkVCY2RTdHVXVnF1Qmt5RzRSVWxqc0JZWE84b2QycEx4WFN6Sm5mR0YyUHhBcjluSW1iU3hVekJmVlZwcNIBhgFBVV95cUxPZEpvdXkyb1NtOUpOb1lSeDJMR1VCR1hFc05hUVNBR28zT2R2cExKaGUwbGlfLTE5NXdTSWhPTlFEemxtSHJDSTMteXNwV0pOajdVSmlvLUt2RWxtSjBvTTVvb3BzeE03LUlHWE1EaGVlakNjTHAtMEpKOVBkSndjWHNsdEFZZw?oc=5
+- Wrong Aircraft: Air India's Canada Flight's U-Turn After 4 Hours In Air - NDTV
+  Air India's Canada flight's U-turn after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGoydnpaZDNHM3J0ZHMzdG0xNllPYzFmb0ZxaTFpY1pfdi1WbC1pNDFaYzBnOTNPNGNyenNtQ3NJU1h4UmJpSkMwRkNVWVJXZlpueEpjbWNZc1pPc1gtTnJZZGpDU2o4VGNtQzc0NmxuaDVMNDMzRjdfblUxbzNCTWxpVWdUdGJiQkVDX0FXazRsNEUtQVRjb0pwZFB0akd6c1poallzck5fRXZvTlHSAbYBQVVfeXFMTlVzSUZCRnlSM2RNM0F2WmpFRWpHOUFUMFJRUlFTaUE1OWU1RWJvUzhFM0VKRFdpeDhkT21zbW4zNHprU1QydW0zU3JJQVNRQnh1ejlSVXIyODRVSE9SQ1pKUWJaakhkZ1N2R0hucFZZSDF6WXlqeHdkSUI1WnJ0cTBMWmRNQ2dCS1dKRndGZ0NQcU5BVDZUVEJYQ3YxY3BRYkdOMlhuWTFCSG9tcm0tQ0NNN0tCNkE?oc=5
 
-- Rupee breaches 93/dollar for the first time, down 19 paise to 93.08 against U.S. dollar - The Hindu
-  Rupee breaches 93/dollar for the first time, down 19 pa
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHhGalJjeUhuTTc3ODRXWWpmcG10eXB3S0pVY0l6LUlOTU1nTF93TVM2ODNKOVA1eUlUYno1NUpfWlpRZFoyNkV5R2lXbDJsOHJGMU96ZTd1eHpOQWpWaVluckU0MDRDbG1hLUR5emxUN1VaM0llaEVpRzdSQzZGYzJ3TE9GUTFncUVFbjFZbkJnNkJiTjlEVlh2VTFPQUZhQ1V3Y0YtdGpqNzhHc1VUUjlvWdIBugFBVV95cUxPeDF4ZkZqR2w5MjBTTkRGbHo4c3dMbUdlTjA2Y0tPR1Vfdi1LN2kyaXhURFB3REtKVDltZWNBVVhKT2NmY096STU3dlcwR0hMSnd3YUE5WlZhdTc1ZERmd0V2TlZxRk5mbEExTUFPV3lKZTBoV2EtSWdKLWdGbWJTc2dkX18tZmk0NGdSd21KNWxjXzQ2d194NTV0NzFrQU5VV2F2RDNabklCZ2tJWklKWVh0OUxLbWhsRmc?oc=5
+- Market Guru Raamdeo Agrawal Sees India Shares as “Fairly Valued” - Bloomberg.com
+  Market Guru Raamdeo Agraw
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVRMcC02LUlJSVFKWWh2aVlwbGFwT0ptUDR6enBYOGJDdHE0ZXBHZy1ualZMNmF4bFZiWnk4aWpyY0FWUkdFVEJCWFJZSTVNa2drN1J6bi1BX0pSSEZtaVNDTEM2U09UR3JhcWtqeGQ4dXRnN1dHMjhpVW1jZ1JLaHkzcUpTc1pWOWVYMUt1Yy1LS01XWjExa1lPWnd3RURvX3pmR0hkcW45czNZSEkyUk9KRk1jYTZRbkFfYlU4cENhM01BT1Fn?oc=5
 
-- Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% in March so far amid raging Iran-US war
-  Bajaj Finance shares have plunged over 20% in a month, eroding more than Rs 1 lakh crore in market value. Rising oil prices, inflation concerns and macroeconomic risks flagged by Moody’s have weighed on sentiment
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms
+- Indian duo lost to Indonesian pair in Orleans Masters Badminton - News On AIR
+  Indian duo lost to Indonesian pair in Orleans Masters Bad
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNkdFBPUzVKTTFES1lDczFVcDBUZEp3Q2VXMmVtaDRxdEhxNFNXQXFfY2VyYTM2SHd0M0Jaa1hBYXUtUFA1cjAwazFGbUp1SEhkNk9OVF93cS1uTE5FcWwxckRLbXViUGpxRjZPWFhvXzhneEljOVZPUnByckRfR1Myc2FaWHJwSGdFbGJaZnBfeFpXWUxrVg?oc=5
 
-- Markets in waiting mode: Retail investors advised patience amid global tensions
-  Global markets are volatile due to Middle East conflict. India's energy security provides a strong position. Experts advise patience for retail investors.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-in-waiting-mode-retail-investors-advised-patience-amid-global-tensions/articleshow/129693732.cms
+- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
+  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- Tata Power shares jump 5% after Gujarat govt approves supply agreement for Mundra plant
-  Tata Power shares surged after Gujarat approved a new power supply deal. This allows the company to restart its 4-gigawatt Mundra plant. Agreement aims to boost power output amid potential summer gas shortages.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-jump-5-after-gujarat-govt-approves-supply-agreement-for-mundra-plant/articleshow/129693407.cms
+- 67% of India's unemployed youth are graduates: Report - The Times of India
+  67% of India's unemployed youth are graduates
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTUzUkQtNlVhMUx1aGNVV1JWdU4wVHlWMHFaSzhZRzJRYkhrMk5yQmJ0SEdRRGNxeGxYZFdZa21tRnhhemlnNDB3ekxtNVZVTGtkYUl3dTRwLWlVZmFYWjJUY0FOaUdDcUM3dzdxSjhVRThkbG1ZQmNQMUZCRi1yUGR2UmhkOUhueHdvZ1FoeW5fRXBmVXV2aEtaejJYRDZXX29ERFk3a0stdnU5Sm1lM0RHZjJoYU9JaWfSAb8BQVVfeXFMT3lTZ2YwTk50dFI4SENYS2dETEd3SWdnN2FRUjZBUDd5NGlXcUJISHR3d0NUSlRueFBJT1QzZDcxSUlBUjlTSlc0eThOUWZrVjhvYVpjS19rdl9fQnAyMDBabXY1RW9aTEF0RlgtYXo4VTdFZjFHVHFPOU5yZ2d6M2ZvTmItdzdXVFI0VFBJN2ctbUl1UXBuc0FjZUNtbUJTell3aFV6SFNsajdocGswZWZrMG9PU3p5d3VvOEtTUkU?oc=5
 
-- Markets on edge: Mayuresh Joshi on the only strategy that makes sense right now
-   Markets face turbulence in March 2026. Energy strikes in the Middle East cause oil prices to surge. Analysts warn of inflation and stagflation risks.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-on-edge-mayuresh-joshi-on-the-only-strategy-that-makes-sense-right-now/articleshow/129693222.cms
+- Wrong Aircraft: Air India's Canada Flight's U-Turn After 4 Hours In Air - NDTV
+  Air India's Canada flight's U-turn after
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGoydnpaZDNHM3J0ZHMzdG0xNllPYzFmb0ZxaTFpY1pfdi1WbC1pNDFaYzBnOTNPNGNyenNtQ3NJU1h4UmJpSkMwRkNVWVJXZlpueEpjbWNZc1pPc1gtTnJZZGpDU2o4VGNtQzc0NmxuaDVMNDMzRjdfblUxbzNCTWxpVWdUdGJiQkVDX0FXazRsNEUtQVRjb0pwZFB0akd6c1poallzck5fRXZvTlHSAbYBQVVfeXFMTlVzSUZCRnlSM2RNM0F2WmpFRWpHOUFUMFJRUlFTaUE1OWU1RWJvUzhFM0VKRFdpeDhkT21zbW4zNHprU1QydW0zU3JJQVNRQnh1ejlSVXIyODRVSE9SQ1pKUWJaakhkZ1N2R0hucFZZSDF6WXlqeHdkSUI1WnJ0cTBMWmRNQ2dCS1dKRndGZ0NQcU5BVDZUVEJYQ3YxY3BRYkdOMlhuWTFCSG9tcm0tQ0NNN0tCNkE?oc=5
 
-- SBI shares jump 3% after subsidiary SBI Funds Management files draft IPO papers
-  SBI Funds Management filed draft IPO papers with Sebi for a pure offer for sale of 20.37 crore shares. Proceeds will go to selling shareholders, including SBI and Amund
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-shares-jump-3-after-subsidiary-sbi-funds-management-files-draft-ipo-papers/articleshow/129693172.cms
+- Market Guru Raamdeo Agrawal Sees India Shares as “Fairly Valued” - Bloomberg.com
+  Market Guru Raamdeo Agraw
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVRMcC02LUlJSVFKWWh2aVlwbGFwT0ptUDR6enBYOGJDdHE0ZXBHZy1ualZMNmF4bFZiWnk4aWpyY0FWUkdFVEJCWFJZSTVNa2drN1J6bi1BX0pSSEZtaVNDTEM2U09UR3JhcWtqeGQ4dXRnN1dHMjhpVW1jZ1JLaHkzcUpTc1pWOWVYMUt1Yy1LS01XWjExa1lPWnd3RURvX3pmR0hkcW45czNZSEkyUk9KRk1jYTZRbkFfYlU4cENhM01BT1Fn?oc=5
 
-- India orders oil, gas entities to share data amid crisis, invokes Essential Commodities Act | India News - Hindustan Times
-  India orders oil, gas entities to share data amid crisis, invokes Essential Comm
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmdSbWZxcFZTdThNb3FVcE1WSUJtTTVZUDRuRldyU2hFRC1TUndPaWJwRElZZmJ4eXY0LUw0dTNBdTJkZEtUWGo3MEhEaUZWVzJDQm5jNHljWXpRREJnVnJCU19PVGNZU1ZyQjJJc1hlQ2RRcl8zazlZWjFVaG05VGlSUFV1bmJyN3Fjam90MkFQSkdGMGJOWFpCSG53MmRGcDlKSHp0VGlNTVdTcnQ3SGJiNldmVGhEaC1XSE1jMElnMzFIQWNsUmRtOXZYWmY4NnRFNnRZMHBBRGhyR1JGOWd1azZKR0HSAewBQVVfeXFMUHFVWFo5clR4YjM0d1BfS3ZlUVljbUhPVWNKeHBIbVZ6cE9FN3ZaTGpUZjlKaTFUWHJVMFVVbzlteGhmSmZVVjBnTEpQRmlpMXhiYndYRVd0eEc0TUVxd0pWaWJodmdMN082MmI5Rng4N0syWkxkNzN5Z1ZEdzBIam11bUxHb2puM3R6MUc5dGdOZTZ0OFpZRlJCZlVYdUN2dWM5VDZyZXFQMmNKWXJSclRvd2ZZSXBvVUtQX0pHM0QtWENqc09FS2EzSWRJVkN6ZjBOOHFvaTNZNlFaakVwWUdRQTFkdVBIRGc3anA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- LPG Gas Crisis in India Live Updates: Qatar cuts LNG output 17% after missile hit; India should diversify its energy sources, says Shashi Tharoor - The Times of India
-  The Times of India reports that Qatar has cut LNG output 17% after missile hit.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQVVXdlUxSFpvV2pGWmJxeWZpd0lpN2ZpNk83MVl4VEFoTnhtVGRGWlVWM0R3cURRYS1VSkNvMEwzQkVtY25hcENmUTNtSGdCZTVtX0JkWHN3R2tsbjFkNmJOdjBfa3BCTUxVdFlpdVd5T2Q4b012Q1RvSTd3WjJHTnVKWmQ4Y1dOcmN1amVBcmtRSnBPYS1HM0hTa0RwZGZ0Tm1NcUFrYlo5Z2RfYlhlQlJqVFlNc3VCVGpOMEZxZDZINkd1MC1MLVR3UjdiY0d6UmpwNVdWU0ljbTlqdVhmN3B6ZHFaTTJ5S19kVFNUSXg4MmlUcnN2X1ZjTHZyaTFrNFNFYzlKdlFOY1hhZTBSVnVVOGZ5V0NwVkFDTi02WXMtUlRuTWhJcTg1MERpd3NCSkg5Ql9rV04zVVVJNGdaZktMLUU5cWZnWUt3Vi1xcklrdUnSAdgCQVVfeXFMTXhvUFJEVFF4aUw4ZXR1cFhzaXMzdlNLN1BvZGl6SUVUbTNjNXFPcUdaUFZVZmxyQkZVUmw4d2lEUDVHeXRXUXRibGxzcW5RcnpJVWd1TU9vODd2WmVOVXNuQlVTYUhOM0xrNXZydlBvNXlCREd4SHRBeFBaWTAzZzhLQVFrbXNNMVA4aVBLbVVkbzZmQjE4YjlHRHZveWFxNVEtalRLU1hJUlQ0YlNqQnBoSldFTVVob0hXLVRUNnNkUzI4RE5rSmJpTkwwdEFVVGx6S0RPcjlHc0t5S2pTd1A5b3JkdmNxR0N4aU5uMGRLNS1QQkpQdi0xc1Njbnc5a0FQcXVzN2IyRnpqTDVaRXlsQTA4NGR3aUhVQmRJS2g3bmlXUks1UlhQcHljVm1SWkZOTzBrQTNZQ2cydW1iTXM2MzhkQVMyOGYtQnUyQ0dRdHZMWDBxOEc?oc=5
-
-- ‘Rare’ system brings rain, winter-like chill in Delhi, yellow warning issued: ‘Sweater weather alert’ | India News - Hindustan Times
-  ‘Rare’ system brings rain, winter-like chill in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRHI5VVg0TThlTEM4dEhvcU5OSjBMckcyWDJzc1o0SXJuTUZKNk9hLWw2ZUtzZEtoOGx2blgteG1IVk5DanJmMU16dVFPbkdXUy1jTmpxZkF1SXBCbkRjQ0FHd1Juc19JelMyTmZYcHFCVTUxSlJYQURlSDlSNW90M2E0S2pVWVJBamhsdU9qek5BRW9qdnNmc0xxLVltMlZlYVFZNm9KWGJqTGg3ZTFMZ20zcW5BMHdscEEyczhMNURfUEUxWVNoWGFydGdtc3pma0hsbFR0dTl1STd0WHZTYktXd1Bxal9BdThobFJ30gHzAUFVX3lxTE91bnNtX0pmU2JBcGVzM3FfS3hSbEtKdUc5Uy1qdkRua2NMenNmdlVhQ2FkbHRiUHVWY2hTZ0tiSVFVcFpmdk11dHdXTGxFVmYxQ1lDN2d3cDl6WUM3VWZFYlNGTFl5ZVdvNUh3Vlc0Q3NGWGRCOHplTWR6M3lIS0ZrMWhzRzR0QlFXUU1OZnVOYXdYYWs0dGZJVEV6Zy05Szl6Vy1GX09JbUQ5VzNpSUNWTmU3Y2pOeGxXWC1hbF9vTEdGRnFFb0Y4S2VLSE1GTGJPRFd0X011bndyREtETW91TUhMYWNKYXQ4Q2ZKQVAtRGYtNA?oc=5
-
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
-
-- India orders oil, gas entities to share data amid crisis, invokes Essential Commodities Act | India News - Hindustan Times
-  India orders oil, gas entities to share data amid crisis, invokes Essential Comm
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmdSbWZxcFZTdThNb3FVcE1WSUJtTTVZUDRuRldyU2hFRC1TUndPaWJwRElZZmJ4eXY0LUw0dTNBdTJkZEtUWGo3MEhEaUZWVzJDQm5jNHljWXpRREJnVnJCU19PVGNZU1ZyQjJJc1hlQ2RRcl8zazlZWjFVaG05VGlSUFV1bmJyN3Fjam90MkFQSkdGMGJOWFpCSG53MmRGcDlKSHp0VGlNTVdTcnQ3SGJiNldmVGhEaC1XSE1jMElnMzFIQWNsUmRtOXZYWmY4NnRFNnRZMHBBRGhyR1JGOWd1azZKR0HSAewBQVVfeXFMUHFVWFo5clR4YjM0d1BfS3ZlUVljbUhPVWNKeHBIbVZ6cE9FN3ZaTGpUZjlKaTFUWHJVMFVVbzlteGhmSmZVVjBnTEpQRmlpMXhiYndYRVd0eEc0TUVxd0pWaWJodmdMN082MmI5Rng4N0syWkxkNzN5Z1ZEdzBIam11bUxHb2puM3R6MUc5dGdOZTZ0OFpZRlJCZlVYdUN2dWM5VDZyZXFQMmNKWXJSclRvd2ZZSXBvVUtQX0pHM0QtWENqc09FS2EzSWRJVkN6ZjBOOHFvaTNZNlFaakVwWUdRQTFkdVBIRGc3anA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- LPG Gas Crisis in India Live Updates: Qatar cuts LNG output 17% after missile hit; India should diversify its energy sources, says Shashi Tharoor - The Times of India
-  The Times of India reports that Qatar has cut LNG output 17% after missile hit.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQVVXdlUxSFpvV2pGWmJxeWZpd0lpN2ZpNk83MVl4VEFoTnhtVGRGWlVWM0R3cURRYS1VSkNvMEwzQkVtY25hcENmUTNtSGdCZTVtX0JkWHN3R2tsbjFkNmJOdjBfa3BCTUxVdFlpdVd5T2Q4b012Q1RvSTd3WjJHTnVKWmQ4Y1dOcmN1amVBcmtRSnBPYS1HM0hTa0RwZGZ0Tm1NcUFrYlo5Z2RfYlhlQlJqVFlNc3VCVGpOMEZxZDZINkd1MC1MLVR3UjdiY0d6UmpwNVdWU0ljbTlqdVhmN3B6ZHFaTTJ5S19kVFNUSXg4MmlUcnN2X1ZjTHZyaTFrNFNFYzlKdlFOY1hhZTBSVnVVOGZ5V0NwVkFDTi02WXMtUlRuTWhJcTg1MERpd3NCSkg5Ql9rV04zVVVJNGdaZktMLUU5cWZnWUt3Vi1xcklrdUnSAdgCQVVfeXFMTXhvUFJEVFF4aUw4ZXR1cFhzaXMzdlNLN1BvZGl6SUVUbTNjNXFPcUdaUFZVZmxyQkZVUmw4d2lEUDVHeXRXUXRibGxzcW5RcnpJVWd1TU9vODd2WmVOVXNuQlVTYUhOM0xrNXZydlBvNXlCREd4SHRBeFBaWTAzZzhLQVFrbXNNMVA4aVBLbVVkbzZmQjE4YjlHRHZveWFxNVEtalRLU1hJUlQ0YlNqQnBoSldFTVVob0hXLVRUNnNkUzI4RE5rSmJpTkwwdEFVVGx6S0RPcjlHc0t5S2pTd1A5b3JkdmNxR0N4aU5uMGRLNS1QQkpQdi0xc1Njbnc5a0FQcXVzN2IyRnpqTDVaRXlsQTA4NGR3aUhVQmRJS2g3bmlXUks1UlhQcHljVm1SWkZOTzBrQTNZQ2cydW1iTXM2MzhkQVMyOGYtQnUyQ0dRdHZMWDBxOEc?oc=5
-
-- ‘Rare’ system brings rain, winter-like chill in Delhi, yellow warning issued: ‘Sweater weather alert’ | India News - Hindustan Times
-  ‘Rare’ system brings rain, winter-like chill in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRHI5VVg0TThlTEM4dEhvcU5OSjBMckcyWDJzc1o0SXJuTUZKNk9hLWw2ZUtzZEtoOGx2blgteG1IVk5DanJmMU16dVFPbkdXUy1jTmpxZkF1SXBCbkRjQ0FHd1Juc19JelMyTmZYcHFCVTUxSlJYQURlSDlSNW90M2E0S2pVWVJBamhsdU9qek5BRW9qdnNmc0xxLVltMlZlYVFZNm9KWGJqTGg3ZTFMZ20zcW5BMHdscEEyczhMNURfUEUxWVNoWGFydGdtc3pma0hsbFR0dTl1STd0WHZTYktXd1Bxal9BdThobFJ30gHzAUFVX3lxTE91bnNtX0pmU2JBcGVzM3FfS3hSbEtKdUc5Uy1qdkRua2NMenNmdlVhQ2FkbHRiUHVWY2hTZ0tiSVFVcFpmdk11dHdXTGxFVmYxQ1lDN2d3cDl6WUM3VWZFYlNGTFl5ZVdvNUh3Vlc0Q3NGWGRCOHplTWR6M3lIS0ZrMWhzRzR0QlFXUU1OZnVOYXdYYWs0dGZJVEV6Zy05Szl6Vy1GX09JbUQ5VzNpSUNWTmU3Y2pOeGxXWC1hbF9vTEdGRnFFb0Y4S2VLSE1GTGJPRFd0X011bndyREtETW91TUhMYWNKYXQ4Q2ZKQVAtRGYtNA?oc=5
-
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
-
-- India orders oil, gas entities to share data amid crisis, invokes Essential Commodities Act | India News - Hindustan Times
-  India orders oil, gas entities to share data amid crisis, invokes Essential Comm
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmdSbWZxcFZTdThNb3FVcE1WSUJtTTVZUDRuRldyU2hFRC1TUndPaWJwRElZZmJ4eXY0LUw0dTNBdTJkZEtUWGo3MEhEaUZWVzJDQm5jNHljWXpRREJnVnJCU19PVGNZU1ZyQjJJc1hlQ2RRcl8zazlZWjFVaG05VGlSUFV1bmJyN3Fjam90MkFQSkdGMGJOWFpCSG53MmRGcDlKSHp0VGlNTVdTcnQ3SGJiNldmVGhEaC1XSE1jMElnMzFIQWNsUmRtOXZYWmY4NnRFNnRZMHBBRGhyR1JGOWd1azZKR0HSAewBQVVfeXFMUHFVWFo5clR4YjM0d1BfS3ZlUVljbUhPVWNKeHBIbVZ6cE9FN3ZaTGpUZjlKaTFUWHJVMFVVbzlteGhmSmZVVjBnTEpQRmlpMXhiYndYRVd0eEc0TUVxd0pWaWJodmdMN082MmI5Rng4N0syWkxkNzN5Z1ZEdzBIam11bUxHb2puM3R6MUc5dGdOZTZ0OFpZRlJCZlVYdUN2dWM5VDZyZXFQMmNKWXJSclRvd2ZZSXBvVUtQX0pHM0QtWENqc09FS2EzSWRJVkN6ZjBOOHFvaTNZNlFaakVwWUdRQTFkdVBIRGc3anA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- LPG Gas Crisis in India Live Updates: Qatar cuts LNG output 17% after missile hit; India should diversify its energy sources, says Shashi Tharoor - The Times of India
-  The Times of India reports that Qatar has cut LNG output 17% after missile hit.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQVVXdlUxSFpvV2pGWmJxeWZpd0lpN2ZpNk83MVl4VEFoTnhtVGRGWlVWM0R3cURRYS1VSkNvMEwzQkVtY25hcENmUTNtSGdCZTVtX0JkWHN3R2tsbjFkNmJOdjBfa3BCTUxVdFlpdVd5T2Q4b012Q1RvSTd3WjJHTnVKWmQ4Y1dOcmN1amVBcmtRSnBPYS1HM0hTa0RwZGZ0Tm1NcUFrYlo5Z2RfYlhlQlJqVFlNc3VCVGpOMEZxZDZINkd1MC1MLVR3UjdiY0d6UmpwNVdWU0ljbTlqdVhmN3B6ZHFaTTJ5S19kVFNUSXg4MmlUcnN2X1ZjTHZyaTFrNFNFYzlKdlFOY1hhZTBSVnVVOGZ5V0NwVkFDTi02WXMtUlRuTWhJcTg1MERpd3NCSkg5Ql9rV04zVVVJNGdaZktMLUU5cWZnWUt3Vi1xcklrdUnSAdgCQVVfeXFMTXhvUFJEVFF4aUw4ZXR1cFhzaXMzdlNLN1BvZGl6SUVUbTNjNXFPcUdaUFZVZmxyQkZVUmw4d2lEUDVHeXRXUXRibGxzcW5RcnpJVWd1TU9vODd2WmVOVXNuQlVTYUhOM0xrNXZydlBvNXlCREd4SHRBeFBaWTAzZzhLQVFrbXNNMVA4aVBLbVVkbzZmQjE4YjlHRHZveWFxNVEtalRLU1hJUlQ0YlNqQnBoSldFTVVob0hXLVRUNnNkUzI4RE5rSmJpTkwwdEFVVGx6S0RPcjlHc0t5S2pTd1A5b3JkdmNxR0N4aU5uMGRLNS1QQkpQdi0xc1Njbnc5a0FQcXVzN2IyRnpqTDVaRXlsQTA4NGR3aUhVQmRJS2g3bmlXUks1UlhQcHljVm1SWkZOTzBrQTNZQ2cydW1iTXM2MzhkQVMyOGYtQnUyQ0dRdHZMWDBxOEc?oc=5
-
-- ‘Rare’ system brings rain, winter-like chill in Delhi, yellow warning issued: ‘Sweater weather alert’ | India News - Hindustan Times
-  ‘Rare’ system brings rain, winter-like chill in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRHI5VVg0TThlTEM4dEhvcU5OSjBMckcyWDJzc1o0SXJuTUZKNk9hLWw2ZUtzZEtoOGx2blgteG1IVk5DanJmMU16dVFPbkdXUy1jTmpxZkF1SXBCbkRjQ0FHd1Juc19JelMyTmZYcHFCVTUxSlJYQURlSDlSNW90M2E0S2pVWVJBamhsdU9qek5BRW9qdnNmc0xxLVltMlZlYVFZNm9KWGJqTGg3ZTFMZ20zcW5BMHdscEEyczhMNURfUEUxWVNoWGFydGdtc3pma0hsbFR0dTl1STd0WHZTYktXd1Bxal9BdThobFJ30gHzAUFVX3lxTE91bnNtX0pmU2JBcGVzM3FfS3hSbEtKdUc5Uy1qdkRua2NMenNmdlVhQ2FkbHRiUHVWY2hTZ0tiSVFVcFpmdk11dHdXTGxFVmYxQ1lDN2d3cDl6WUM3VWZFYlNGTFl5ZVdvNUh3Vlc0Q3NGWGRCOHplTWR6M3lIS0ZrMWhzRzR0QlFXUU1OZnVOYXdYYWs0dGZJVEV6Zy05Szl6Vy1GX09JbUQ5VzNpSUNWTmU3Y2pOeGxXWC1hbF9vTEdGRnFFb0Y4S2VLSE1GTGJPRFd0X011bndyREtETW91TUhMYWNKYXQ4Q2ZKQVAtRGYtNA?oc=5
-
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
-
-- India orders oil, gas entities to share data amid crisis, invokes Essential Commodities Act | India News - Hindustan Times
-  India orders oil, gas entities to share data amid crisis, invokes Essential Comm
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQmdSbWZxcFZTdThNb3FVcE1WSUJtTTVZUDRuRldyU2hFRC1TUndPaWJwRElZZmJ4eXY0LUw0dTNBdTJkZEtUWGo3MEhEaUZWVzJDQm5jNHljWXpRREJnVnJCU19PVGNZU1ZyQjJJc1hlQ2RRcl8zazlZWjFVaG05VGlSUFV1bmJyN3Fjam90MkFQSkdGMGJOWFpCSG53MmRGcDlKSHp0VGlNTVdTcnQ3SGJiNldmVGhEaC1XSE1jMElnMzFIQWNsUmRtOXZYWmY4NnRFNnRZMHBBRGhyR1JGOWd1azZKR0HSAewBQVVfeXFMUHFVWFo5clR4YjM0d1BfS3ZlUVljbUhPVWNKeHBIbVZ6cE9FN3ZaTGpUZjlKaTFUWHJVMFVVbzlteGhmSmZVVjBnTEpQRmlpMXhiYndYRVd0eEc0TUVxd0pWaWJodmdMN082MmI5Rng4N0syWkxkNzN5Z1ZEdzBIam11bUxHb2puM3R6MUc5dGdOZTZ0OFpZRlJCZlVYdUN2dWM5VDZyZXFQMmNKWXJSclRvd2ZZSXBvVUtQX0pHM0QtWENqc09FS2EzSWRJVkN6ZjBOOHFvaTNZNlFaakVwWUdRQTFkdVBIRGc3anA?oc=5
-
-- Big Details Emerge After US Mercenary Matthew VanDyke's Arrest In India - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3F3UnVlWXZHNnJ6NE9NOWR2MjJuOGxSazN3MUdEYTViei1sWV92Z1FCSjlFRXZfVVVEOE1uZWNrMzJSMExZSm84elFYWEpqZ3lETDg2Smh6UEp3aHdBaWRMVHpHbllTUWhNaUxTNnRueVJ2Y0xBcHN3UHpyTGRlR0MwVGlSTWNLSlZqSmVBQWUzYW91d0c3MmtpenZfZEo3a19hcnRUWXVIT0tzYmtBTmU4X0dnd9IBvgFBVV95cUxOU2E0NnhFY3Fnd2xMVkpFbThjYUlTOHByZzJkSGI3Slp0MXJSd3prNTlPY3FCRDdGb3E0V0xtVzdBeWhDZzRYMlZKcWlKVF8yaEExSGx2M0txWVJPSUJ3eXZldUhXdG5ZUEplRE9zRVgxX1AwWWFTOWYwS1FITEUwcml0SjZIQWc0RVhjSGlyd3RhVS04VkV3NmZmUEpHTlBybXh2ZzZfVzQ1TWU1QWYzUTBxVzRqOWw0c2p6eHdR?oc=5
-
-- LPG Gas Crisis in India Live Updates: Qatar cuts LNG output 17% after missile hit; India should diversify its energy sources, says Shashi Tharoor - The Times of India
-  The Times of India reports that Qatar has cut LNG output 17% after missile hit.
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOQVVXdlUxSFpvV2pGWmJxeWZpd0lpN2ZpNk83MVl4VEFoTnhtVGRGWlVWM0R3cURRYS1VSkNvMEwzQkVtY25hcENmUTNtSGdCZTVtX0JkWHN3R2tsbjFkNmJOdjBfa3BCTUxVdFlpdVd5T2Q4b012Q1RvSTd3WjJHTnVKWmQ4Y1dOcmN1amVBcmtRSnBPYS1HM0hTa0RwZGZ0Tm1NcUFrYlo5Z2RfYlhlQlJqVFlNc3VCVGpOMEZxZDZINkd1MC1MLVR3UjdiY0d6UmpwNVdWU0ljbTlqdVhmN3B6ZHFaTTJ5S19kVFNUSXg4MmlUcnN2X1ZjTHZyaTFrNFNFYzlKdlFOY1hhZTBSVnVVOGZ5V0NwVkFDTi02WXMtUlRuTWhJcTg1MERpd3NCSkg5Ql9rV04zVVVJNGdaZktMLUU5cWZnWUt3Vi1xcklrdUnSAdgCQVVfeXFMTXhvUFJEVFF4aUw4ZXR1cFhzaXMzdlNLN1BvZGl6SUVUbTNjNXFPcUdaUFZVZmxyQkZVUmw4d2lEUDVHeXRXUXRibGxzcW5RcnpJVWd1TU9vODd2WmVOVXNuQlVTYUhOM0xrNXZydlBvNXlCREd4SHRBeFBaWTAzZzhLQVFrbXNNMVA4aVBLbVVkbzZmQjE4YjlHRHZveWFxNVEtalRLU1hJUlQ0YlNqQnBoSldFTVVob0hXLVRUNnNkUzI4RE5rSmJpTkwwdEFVVGx6S0RPcjlHc0t5S2pTd1A5b3JkdmNxR0N4aU5uMGRLNS1QQkpQdi0xc1Njbnc5a0FQcXVzN2IyRnpqTDVaRXlsQTA4NGR3aUhVQmRJS2g3bmlXUks1UlhQcHljVm1SWkZOTzBrQTNZQ2cydW1iTXM2MzhkQVMyOGYtQnUyQ0dRdHZMWDBxOEc?oc=5
-
-- ‘Rare’ system brings rain, winter-like chill in Delhi, yellow warning issued: ‘Sweater weather alert’ | India News - Hindustan Times
-  ‘Rare’ system brings rain, winter-like chill in Delhi.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRHI5VVg0TThlTEM4dEhvcU5OSjBMckcyWDJzc1o0SXJuTUZKNk9hLWw2ZUtzZEtoOGx2blgteG1IVk5DanJmMU16dVFPbkdXUy1jTmpxZkF1SXBCbkRjQ0FHd1Juc19JelMyTmZYcHFCVTUxSlJYQURlSDlSNW90M2E0S2pVWVJBamhsdU9qek5BRW9qdnNmc0xxLVltMlZlYVFZNm9KWGJqTGg3ZTFMZ20zcW5BMHdscEEyczhMNURfUEUxWVNoWGFydGdtc3pma0hsbFR0dTl1STd0WHZTYktXd1Bxal9BdThobFJ30gHzAUFVX3lxTE91bnNtX0pmU2JBcGVzM3FfS3hSbEtKdUc5Uy1qdkRua2NMenNmdlVhQ2FkbHRiUHVWY2hTZ0tiSVFVcFpmdk11dHdXTGxFVmYxQ1lDN2d3cDl6WUM3VWZFYlNGTFl5ZVdvNUh3Vlc0Q3NGWGRCOHplTWR6M3lIS0ZrMWhzRzR0QlFXUU1OZnVOYXdYYWs0dGZJVEV6Zy05Szl6Vy1GX09JbUQ5VzNpSUNWTmU3Y2pOeGxXWC1hbF9vTEdGRnFFb0Y4S2VLSE1GTGJPRFd0X011bndyREtETW91TUhMYWNKYXQ4Q2ZKQVAtRGYtNA?oc=5
-
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
+- Indian duo lost to Indonesian pair in Orleans Masters Badminton - News On AIR
+  Indian duo lost to Indonesian pair in Orleans Masters Bad
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNkdFBPUzVKTTFES1lDczFVcDBUZEp3Q2VXMmVtaDRxdEhxNFNXQXFfY2VyYTM2SHd0M0Jaa1hBYXUtUFA1cjAwazFGbUp1SEhkNk9OVF93cS1uTE5FcWwxckRLbXViUGpxRjZPWFhvXzhneEljOVZPUnByckRfR1Myc2FaWHJwSGdFbGJaZnBfeFpXWUxrVg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-20 06:52:13 UTC_
+_Last updated: 2026-03-20 12:49:29 UTC_
