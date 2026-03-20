@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Indian Railways’ RailOne App to integrate with Bharat Taxi, to provide last-mile connectivity from New Delhi station
+- Raymond Group Chairman, MD Gautam Singhania hospitalised after boat mishap in Maldives
   
-  🔗 https://indianexpress.com/article/india/indian-railways-railone-app-bharat-taxi-new-delhi-last-mile-connectivity-10592572/
+  🔗 https://indianexpress.com/article/india/raymond-group-chairman-md-gautam-singhania-hospitalised-after-boat-mishap-10593074/
 
-- No child will study hungry: Telangana budget promises free breakfast in schools, ₹5 lakh universal insurance
+- EC sets up 19 appellate tribunals for Bengal SIR appeals
   
-  🔗 https://indianexpress.com/article/india/telangana-budget-free-breakfast-schools-%e2%82%b95-lakh-insurance-10592560/
+  🔗 https://indianexpress.com/article/india/ec-sets-up-19-appellate-tribunals-for-bengal-sir-appeals-10592958/
 
-- AAP’s Saurabh Bhardwaj accuses BJP of ‘letting people die’ in Palam fire to avoid embarrassment
+- ‘We just want him back’: Ranchi man dies on ship near Dubai amid Strait of Hormuz closure, kin seek help to repatriate body
   
-  🔗 https://indianexpress.com/article/india/palam-fire-tragedy-aap-saurabh-bhardwaj-bjp-negligence-allegations-10592587/
+  🔗 https://indianexpress.com/article/india/ranchi-merchant-navy-captain-rakesh-ranjan-singh-death-dubai-repatriation-delay-10592952/
 
-- New Delhi railway station to get AI cameras, QR code-based entry system to enhance safety, ease rush
+- Days after Pak strike in Kabul, India sends medical aid to Afghanistan
   
-  🔗 https://indianexpress.com/article/india/new-delhi-railway-station-ai-cameras-qr-code-based-entry-system-safety-ease-rush-10592389/
+  🔗 https://indianexpress.com/article/india/india-medical-aid-afghanistan-kabul-pakistan-airstrike-mea-statement-10592977/
 
-- Udaipur-Asarva Vande Bharat train gets new stoppage – check station, timings
+- Why Shias in Rajasthan have decided to forgo Eid celebrations
   
-  🔗 https://indianexpress.com/article/india/udaipur-asarva-vande-bharat-train-gets-new-stoppage-check-station-timings-10592238/
+  🔗 https://indianexpress.com/article/india/rajasthan-shia-community-eid-mourning-ayatollah-khamenei-death-10592887/
 
 - Government bans 300 betting and gambling platforms, bringing the total to 8,400
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-is-rewriting-the-rules-of-hiring-heres-how-10592152/
 
+- CBS News layoffs: Internal memo shows 6% jobs to be cut to ‘remain competitive’, CBS Radio to end in May, say reports
+  Paramount Skydance Corp.’s CBS News cut 6% of its workforce
+  🔗 https://www.livemint.com/companies/news/cbs-news-layoffs-internal-memo-shows-6-jobs-to-be-cut-to-remain-competitive-cbs-radio-to-end-in-may-say-reports-11774021063664.html
+
+- Zomato hikes platform fee to offset rising operational costs. Here's how much more you will pay
+  The move comes amid surging crude oil prices driven by the ongoing West Asia conflict.
+  🔗 https://www.livemint.com/companies/company-results/zomato-hikes-platform-fee-to-offset-rising-operational-costs-heres-how-much-more-you-will-pay-11774010793397.html
+
+- SBI shifts 64 staffers from West Asia to Mumbai, moves operations amid escalating regional conflict
+  India's largest lender activated its business continuity plan, obtaining regulatory approvals to manage three countries
+  🔗 https://www.livemint.com/companies/state-bank-of-india-sbi-64-staffers-west-asia-mumbai-escalating-regional-conflict-temporary-relocation-uae-bahrain-11774007032739.html
+
 - JPMorgan Chase CEO Jamie Dimon sees an end on the horizon. But not yet.
   After two decades, JPMorgan Chase’s CEO says he has three or four more years on the job.
   🔗 https://www.livemint.com/companies/news/jpmorgan-chase-ceo-jamie-dimon-sees-an-end-on-the-horizon-but-not-yet-11774009706972.html
@@ -48,37 +60,25 @@
   Several top Indian drugmakers will launch cheaper generics immediately, with intense
   🔗 https://www.livemint.com/companies/news/emcure-betting-on-innovator-edge-in-crowded-weight-loss-drug-market-11773995546630.html
 
-- NCLAT stays bank guarantee invocation in JAL case, admits contractor’s plea
-   Velocity moved the appellate tribunal after the NCLT rejected its claim of over  ₹1 crore arising
-  🔗 https://www.livemint.com/companies/news/nclat-stays-bank-guarantee-invocation-in-jal-case-admits-contractor-s-plea-11774002515513.html
+- Russell 2000 on correction path as Iran war fans inflation fears, rate-cut bets dim
+  
+  🔗 https://www.livemint.com/market/russell-2000-on-correction-path-as-iran-war-fans-inflation-fears-rate-cut-bets-dim-11774031797345.html
 
-- Solar cell manufacturer Jupiter International hires bankers for $300 million IPO
-  Jupiter International has appointed four investment banks to lead a $300 million IPO, with a May filing.
-  🔗 https://www.livemint.com/companies/news/solar-cell-manufacturer-jupiter-international-hires-bankers-for-300-million-ipo-11773998341025.html
+- Nasdaq-listed T3 Defense stock crashes below $1 as selling intensifies; down 59% in March so far
+  The stock of T3 Defense has seen a significant decline, losing 59% in March and reaching $0.96, down from $16 a year ago
+  🔗 https://www.livemint.com/market/stock-market-news/nasdaqlisted-t3-defense-stock-crashes-below-1-as-selling-intensifies-down-59-in-march-so-far-11774027403440.html
 
-- Vodafone Idea, BSNL begin talks to share telecom infrastructure
-  The move to share towers, fibre and spectrum aims to cut costs and improve network reach. The government says any deal
-  🔗 https://www.livemint.com/companies/news/vodafone-idea-bsnl-begin-talks-to-share-telecom-infrastructure-11773995050690.html
+- NBFC stock under  ₹50 to be in focus on Monday after this rating update on commercial papers worth  ₹540 crore
+  Paisalo Digital Limited shares will be in focus after receiving a BWR A1+ rating. Despite recent stock decline, it has shown strong long-term returns.
+  🔗 https://www.livemint.com/market/stock-market-news/nbfc-stock-under-rs-50-to-be-in-focus-on-monday-after-this-rating-update-on-commercial-papers-worth-rs-540-crore-11774023268238.html
 
-- US stock market today: Dow, S&amp;P 500 futures slip as investors stay cautious; FedEx shares jump 7%
-  US stock futures indicate a negative opening, with the S&amp;amp;P 500 and Dow facing volatility. FedEx shares rose 10% in pre-market trade after an upbeat performance in
-  🔗 https://www.livemint.com/market/us-stock-market-today-dow-s-p-500-futures-slip-as-investors-stay-cautious-fedex-shares-jump-7-11774005226406.html
+- Super Micro Computer shares crash 29% after co-founder charged in US with smuggling Nvidia chips to China
+  Super Micro Computer shares plummeted 29% to $21.85. US prosecutors charged employees with smuggling Nvidia chips to China, violating export controls.
+  🔗 https://www.livemint.com/market/stock-market-news/super-micro-computer-shares-crash-29-after-co-founder-charged-in-us-with-smuggling-nvidia-chips-to-china-11774017910548.html
 
-- Gold prices to crash to $4,400? Tread cautiously as tech charts signal bearish bias
-   YES Bank indicates that gold prices typically perform well during stagflation, but current trends show a bearish outlook. A break below $5000 could lead to further declines.
-  🔗 https://www.livemint.com/market/commodities/gold-prices-to-crash-to-4-400-tread-cautiously-as-tech-charts-signal-bearish-bias-11774003963127.html
-
-- Sensex, Nifty 50 end higher— Stocks at 52-week highs, top gainers, most traded stocks and other key highlights
-  The Sensex ended 326 points, or 0.44%, higher at 74,532.96. The Nifty 50 ended with
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-higher-stocks-at-52-week-highs-top-gainers-most-traded-stocks-and-other-key-highlights-11774001979236.html
-
-- Mrs Bectors investors await proof of recovery
-  Export weakness and slower domestic traction have weighed on growth. For Mrs. Bect
-  🔗 https://www.livemint.com/market/mark-to-market/mrs-bectors-shares-exports-revenue-growth-fy27-outlook-11773997813401.html
-
-- Gold rate outlook: Yellow metal prices set for third week in a row. Opportunity to buy?
-  Gold prices have dropped over 6% this week amid a strong US dollar and cautious Federal Reserve stance. Gold prices on MCX rose by   ₹1,914 to  �
-  🔗 https://www.livemint.com/market/commodities/gold-rate-outlook-yellow-metal-prices-set-for-third-week-in-a-row-opportunity-to-buy-11774001376795.html
+- Central Mine Planning IPO: Issue receives tepid response on Day 01, subscribed 0.07 times; GMP signals flat listing
+  Central Mine Planning &amp;amp; Design Institute's IPO attracted minimal investor interest, subscribing only 0.07 times. The offer, entirely an OFS, has
+  🔗 https://www.livemint.com/market/ipo/central-mine-planning-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-07-times-gmp-signals-flat-listing-11774016415193.html
 
 - ‘Out of ideas’: Nvidia CEO Jensen Huang dismisses AI job loss fears, blames recent layoffs on lack of ‘imagination’
   Nvidia CEO Jensen Huang criticized companies laying off workers due to AI, asserting that they lack imagination. He also went on to dismiss
@@ -100,93 +100,125 @@
   The US Justice Department has dismantled four major botnets responsible for significant DDoS attacks. These botnets, operating on a 'cybercrime-as-a-service'
   🔗 https://www.livemint.com/technology/tech-news/us-takes-down-cybercrime-as-a-service-botnets-that-hijacked-over-3-million-iot-devices-globally-11773980650016.html
 
-- Gainers &amp; Losers: Firstcry, GMDC and Petronet LNG among 7 top movers on Friday
-  Indian markets closed higher Friday, led by IT gains. Top movers: GMDC, First
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-firstcry-gmdc-and-petronet-lng-among-7-top-movers-on-friday/slideshow/129700435.cms
+- Stock Market Highlights: Markets Close In Green, Rupee Falls To Record Low - NDTV
+  Stock Market Highlights: Markets Close In Green, Ru
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTG5FYWRSZ01iZkNTS2VUbkNDeWtTMDhTSkVtVlZ3RzN0NlNaQ2p1WUdWZkljMERTamJKbDlEd285R0REd24tOEdJYktkSjd6dUhoclc2V0oyYU14dmpfek9uOE9PUElQRXlzTjUyMFY1V2NYNllvdnA0cGdJVVZfZVlSUXVIUFdDZ0dOcnJ2TldMRTN4NlRBZXAyX1BZODhyOW5OWEtQa19RdjFvUjhxcU4wVElUcUp1WjdCRnBUU1ltbm82THZtb2tfa29kTVBqU0FJc0I4d01rZlHSAeMBQVVfeXFMT2l4VDU4RzRQYVI3NlR5OFJ2eDdoNl91WUo2MG9uODl4akFTUjBmMFp4OF82NWV5djFKR0FUUXZBOGR3eHBGSjhnMW1oQmE0S1FQVEktX0tSZ05NME1pRnN4RXZJaG0wcDBVcHUyM3VQelV1SjRvQ2hNSzVXek5zYVdwd0dDbEtLNTJoQk5iTkJGTG53SU5qT2VBR014UjdLSTRrajVBUVZTSlkxcGJyM09RbXNwdGlZQUxyLUFJSUdfZVBtVFB2VTV6ZURfVHpiTmk3eHFyNTBaNWhsakY4c2NvWGs?oc=5
 
-- Max Estates aims Rs 3,000 crore revenue from new housing project in Noida
-  Max Estates Ltd expects Rs 3,000 crore revenue from
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-aims-rs-3000-crore-revenue-from-new-housing-project-in-noida/articleshow/129699798.cms
+- Stock market today (March 20, 2026): Nifty50 ends above 23,100; BSE Sensex closes above 74,500 - The Times of India
+  Stock market today (March 20, 2026): Nifty50 ends above 23
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxOQ1NEcF91Rl9mbmd6VnFETHQ4LU4zWW15a1hVTDBsNVZpZlJXTnM0b3RhYjBFUUFtdk1JSnlTREktdzdYOVpTVXdWWlg1akwzc1ZDaGtvaUFLSlktNFFVbnB1WHoxWkVBSWpRNHp3VHYtSjZPYzFsWHJUOTVLVFFOQUdNOV81UWV3MDFpaWFQSGIwWkloblprbVM5c2ktMHF0dElHZV9YdzJBVlFIRlk3V2FzNXJuYXdMZktaS2I3bTR0VDBZS0VHN29NVGg0SGNVOEdsWTNVdHNWWTJieldTOGJCWXpYZnRSVnY0Q1A2TU1JcTNHUGFBQWxNV2MxbVY5dFB4RGs2VzFRRDJIM2hyMmp6Y3dfaERDZVAxM3lpeHdjRy1WY0FuWlhhZGlaQ3R2amhWNHo4LV9KM3N1TlHSAcMCQVVfeXFMUGVkLTZqUGtfMWJwLWhVRm85NXJ3cXZpeXVFMHJQUW80Y3c2QWdfZTVIY2h1S3B0RkhObXdvbEdTX0hNUDlWY1E4dXQzOUtKeEhNLVl4dTA4SlVfcFZsQV9lWDhQemtKNlo0V3NlbzdDV0UtYlFPeWR6Y2wyd0Jxdk80Wl9jZFc5MDZMQjR1WjktbXFMRFRQVDRmTkJTTHFiSS1tNGl4VzVJRmFBc2VsV1FCdkIxdExMRTFUTGpfY3kyS0Vmd2ZlZVpsSHdWTXZVX2w3Yk90cTVvZVRMUEhFUmt1d2ZJN3lPTl9Jdi1VaEF6MENlVVBzcWtTM3V3eG40eFNlVkVTMDNITVdybXBEb2lkUm9zUjhRcWxZQWxRWERUc055WHFUbDF2X0tyRzBybGlseXhITlpmVWhhR1J2bTNmcW8?oc=5
 
-- Paranjape Schemes to invest Rs 700cr to develop 1400 homes in Pune
-  Paranjape Schemes Construction Ltd will invest Rs 700 crore to develop four projects
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/paranjape-schemes-to-invest-rs-700cr-to-develop-1400-homes-in-pune/articleshow/129699771.cms
+- Trade setup for March 20: Can NIFTY50 hold the 23,000 support on Friday? - Upstox
+  Trade setup for March 20: Can NIFTY50
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPMVZkbWZLWHJmT3JlWS04RUZFZU8yWG9HR21JV2hYeVhkdDBpMEtndFNGV3NyZnpNT2dYc24zdnlTWGVSeS1CSHVTMTE1UjVVVks4NndlUGlKZUlBTU44YndJWF9ncFFDeGUwQktKN0VfTXBkM1BWU3h4RkkzZVhQOUNKYTkxZmlqcTdJUVllYndpNHI4eURpSnNweklHVHdleWFEbldOMXlGQVBFYTY0YWtIelZ3cGk0anR4clNLTUd6WGk5S0M5Wi01UQ?oc=5
 
-- Wall St futures slip as Iran war rages on, investors dial down rate cut bets
-  U.S. stock index futures slipped in choppy trading on Friday. The Iran war approached its fourth week, roiling energy markets and prompting investors to aggressively
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-st-futures-slip-as-iran-war-rages-on-investors-dial-down-rate-cut-bets/articleshow/129699658.cms
+- Stock Market Today: Stocks Face Fourth Straight Week of Declines — Live Updates - WSJ
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlRKcDRJRnhLZzJibGJzYXkyQkk2ZVNRcUhzc3ZqdDlhV3NKZFdycnY2Nk5IN0x2RFZUYkdrUnRUcXVWQ0pQR3VlcE9XLWRHWkV4b3c3dGxLX1JfM0tRMjlmSVVtREVJVG
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlRKcDRJRnhLZzJibGJzYXkyQkk2ZVNRcUhzc3ZqdDlhV3NKZFdycnY2Nk5IN0x2RFZUYkdrUnRUcXVWQ0pQR3VlcE9XLWRHWkV4b3c3dGxLX1JfM0tRMjlmSVVtREVJVG0xU05mS3VUbjJ6WmppX2t1RlJVcEt4M05NVldMRlU?oc=5
 
-- Gold set for worst week in six years as war curbs rate-cut bets
-  Gold headed for the biggest weekly loss in six years. War in the Middle East boosted energy prices and
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-in-six-years-as-war-curbs-rate-cut-bets/articleshow/129699635.cms
+- Markets bet on Fed rate hike as soon as July - TradingView
+  Markets bet on Fed rate hike as
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjQydjlxS0Y4Vm1YdUJPWmNvLV9rUXd2c2VsSkl1TnpUeDVmVGVyc0lacjRiTENqRU5hTm1oRXRYdUw1SWdmNmdXNTBmelY4VHNDUlp6eGhJYUVBRk45dFdNcDg5YnFzMnZmb0cxbEEtakxsWnJqTjc5bmVPNzA0V1JDZGRic3pPeTRkMm5vVHhPSmhhRjRIUU9OV01yQk9qOFJMa3VyMUlKdDFxMWotNUpLdlI?oc=5
+
+- Goldman Sachs, ICICI Pru MF buy DLF shares worth Rs 231 crore via block deals
+  Goldman Sachs and ICICI Prudential Mutual Fund acquired significant stakes in DLF Limited via block deals worth Rs 231 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-icici-pru-mf-buy-dlf-shares-worth-rs-231-crore-via-block-deals/articleshow/129705162.cms
+
+- First in Motilal Oswal AMC investing series: QGLP principles for disciplined investing
+  
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/first-in-motilal-oswal-amc-investing-series-qglp-principles-for-disciplined-investing/videoshow/129704137.cms
+
+- Aelea Commodities bulk deal: Ashish Kacholia bets Rs 9.3 crore on a microcap that is down 36% in a year
+  Ashish Kacholia bought shares worth Rs 9.3 crore in Aelea Commodities via a bulk deal. The stock trades
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aelea-commodities-bulk-deal-ashish-kacholia-bets-rs-9-3-crore-on-a-microcap-that-is-down-36-in-a-year/articleshow/129704093.cms
+
+- US stocks: Fed officials say Iran war obscuring economic, monetary policy outlook
+  Two Federal Reserve officials say the Iran war and its impact on energy markets are clouding the outlook for the economy and monetary policy. One policymaker laid ‌out an outlook calling for notably more interest rate cuts than
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fed-officials-say-iran-war-obscuring-economic-monetary-policy-outlook/articleshow/129703612.cms
+
+- RBI to conduct Rs 1 lakh cr overnight variable rate repo auction on Mar 23
+  The Reserve Bank of India will conduct an overnight variable rate repo (VRR) auction of Rs 1 lakh
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-1-lakh-cr-overnight-variable-rate-repo-auction-on-mar-23/articleshow/129703587.cms
+
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
 
 - How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
   How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- 67% of India's unemployed youth are graduates: Report - The Times of India
-  67% of India's unemployed youth are graduates
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTUzUkQtNlVhMUx1aGNVV1JWdU4wVHlWMHFaSzhZRzJRYkhrMk5yQmJ0SEdRRGNxeGxYZFdZa21tRnhhemlnNDB3ekxtNVZVTGtkYUl3dTRwLWlVZmFYWjJUY0FOaUdDcUM3dzdxSjhVRThkbG1ZQmNQMUZCRi1yUGR2UmhkOUhueHdvZ1FoeW5fRXBmVXV2aEtaejJYRDZXX29ERFk3a0stdnU5Sm1lM0RHZjJoYU9JaWfSAb8BQVVfeXFMT3lTZ2YwTk50dFI4SENYS2dETEd3SWdnN2FRUjZBUDd5NGlXcUJISHR3d0NUSlRueFBJT1QzZDcxSUlBUjlTSlc0eThOUWZrVjhvYVpjS19rdl9fQnAyMDBabXY1RW9aTEF0RlgtYXo4VTdFZjFHVHFPOU5yZ2d6M2ZvTmItdzdXVFI0VFBJN2ctbUl1UXBuc0FjZUNtbUJTell3aFV6SFNsajdocGswZWZrMG9PU3p5d3VvOEtTUkU?oc=5
+- Raymond MD Gautam Singhania injured in Maldives speedboat accident; 2 Indians missing - The Times of India
+  Raymond MD Gautam Singhania injured in Maldives speed
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWFJRU5NZjl3SDJJODY4U1FmNjVhNVZJVElGb0lzcGV4VWhEWmd5WF9FNHYzMVFxazNnc182NG9ya2FOWGdBWXpiZUF6SWNsclpCUmtDelRNMnhfcm9QalotQkkxbTNYc1hXd1hWSXZRREJRZnotbWNoYkNzQ2dsQWRTM1RGcjZPV1lsdDN4b05UcU1vY2tZR1JxZm1ldFQ5Sk42NzM2a2ktM3JvaXZUMmRGMzI4OHJ5QzUwV2FLbzVsUXFRdkpfdVYtdHJuRUlfbVkwdDZ4eGZIT29iNEVfVTRrMkRtQXfSAewBQVVfeXFMUGVYZWFhQVRLZ18xYkp6QzRla0JlMUlSYTBhTE91amkxLWFCWGFPVHJYczg4ZzJZT1pIOWRGUmNnV0JOM19aR1NhZnpoZzZtbTZvOEZxYUF2RXJzdHp6SnlxWTZuR244eGtCYnpuNjE2SHJtVnBULTFYX3k2Smcyc1I3eVBQUzB3OHY2Wi1NNXloQWNqTFpSVV9HVUw2OVA2anFFNkQ0c1R4S3J6c2tIaXA1d2xQZHdpUDVoYTFlZC0tUTJZZlY2Uk53RklFZXNBYWo2ajZ0Vkk2cklybGZ1U3R3R1BYT2FzVkV0RjE?oc=5
 
-- Wrong Aircraft: Air India's Canada Flight's U-Turn After 4 Hours In Air - NDTV
-  Air India's Canada flight's U-turn after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGoydnpaZDNHM3J0ZHMzdG0xNllPYzFmb0ZxaTFpY1pfdi1WbC1pNDFaYzBnOTNPNGNyenNtQ3NJU1h4UmJpSkMwRkNVWVJXZlpueEpjbWNZc1pPc1gtTnJZZGpDU2o4VGNtQzc0NmxuaDVMNDMzRjdfblUxbzNCTWxpVWdUdGJiQkVDX0FXazRsNEUtQVRjb0pwZFB0akd6c1poallzck5fRXZvTlHSAbYBQVVfeXFMTlVzSUZCRnlSM2RNM0F2WmpFRWpHOUFUMFJRUlFTaUE1OWU1RWJvUzhFM0VKRFdpeDhkT21zbW4zNHprU1QydW0zU3JJQVNRQnh1ejlSVXIyODRVSE9SQ1pKUWJaakhkZ1N2R0hucFZZSDF6WXlqeHdkSUI1WnJ0cTBMWmRNQ2dCS1dKRndGZ0NQcU5BVDZUVEJYQ3YxY3BRYkdOMlhuWTFCSG9tcm0tQ0NNN0tCNkE?oc=5
+- Proposed Footpath Policy Aims To Reclaim Pedestrian Spaces In Bengaluru - NDTV
+  Proposed Footpath Policy Aims To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNempnQUlZMkhYYVJIU21ZVjZSOXFiT2JVR3BtOVFqV2JDMC14VlJHb1NyMXRrS1pxRlZCSHd1VmtjaTRDelJueWQyYTI1eUNNMndmRHJyeHlRM3NXaU9qMzFpQlVZVWFPdXJfSUFiQUptem9MZlZhVG5lX3JyenhocDV2SU1tdWx3Z2RDM1Y3a2dadTRjWEd4NWhpR0d1V0FJQmlxM2QyVTdTNVFEbDF6WVZEUEpsaXhm0gHAAUFVX3lxTE4wZ1NibU5YRkdXNDY0STF0YTBxaXdicmhTRXV0WVh1UmhiX0ZtQU1NMzMzdTVoczR2RHZIUXFfdElodG5NajBPN2RXdjlYWTJCLU9teGJaX1hBMEF3LXlKQjhiekhkT0w0V0Exa1dXTGZPRE9aOXA1aFNoSURaTUtoaEZfd1NJVHY1MkJOcjF3eXI3cVI1Vk56NEo1cFFpQWw5MTBzejZpV3ZNaWhLQTZTcjh2MUtxc3lYemlJd0FLRQ?oc=5
 
-- Market Guru Raamdeo Agrawal Sees India Shares as “Fairly Valued” - Bloomberg.com
-  Market Guru Raamdeo Agraw
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVRMcC02LUlJSVFKWWh2aVlwbGFwT0ptUDR6enBYOGJDdHE0ZXBHZy1ualZMNmF4bFZiWnk4aWpyY0FWUkdFVEJCWFJZSTVNa2drN1J6bi1BX0pSSEZtaVNDTEM2U09UR3JhcWtqeGQ4dXRnN1dHMjhpVW1jZ1JLaHkzcUpTc1pWOWVYMUt1Yy1LS01XWjExa1lPWnd3RURvX3pmR0hkcW45czNZSEkyUk9KRk1jYTZRbkFfYlU4cENhM01BT1Fn?oc=5
+- MoD Reveals India Exploring Joining GCAP Or FCAS Sixth Generation Fighter Programme - The Times of India
+  The Times of India reports that India is considering joining GCAP or
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUk05QmFmckVxRWNXaXJXRUJRa1JuTGo3MUdBeXpPcFBKOFFGUm96dnB3ajdwUHJHVS1GekVxQ0lidlRyVXZ1aDRGWjk4eEtYbndWbkswamVCclh0NEhncklqdlYtRjZOYTRhbnFKWDFpWXhZVkxpaS1FeGpTeTBvMXYySnNTa3J6QlZwOW5JWjdGSVY4RXZWZDNEbTBSTDFna0FmeGVyTGdGM2F3N1lXWVgzY01Od09fV2NmclVfRkNCcEExektZNXBERWVNWW5IbUU1alBtSWpDTWpRNnFjUnZyNE80aGtrWUI4?oc=5
 
-- Indian duo lost to Indonesian pair in Orleans Masters Badminton - News On AIR
-  Indian duo lost to Indonesian pair in Orleans Masters Bad
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNkdFBPUzVKTTFES1lDczFVcDBUZEp3Q2VXMmVtaDRxdEhxNFNXQXFfY2VyYTM2SHd0M0Jaa1hBYXUtUFA1cjAwazFGbUp1SEhkNk9OVF93cS1uTE5FcWwxckRLbXViUGpxRjZPWFhvXzhneEljOVZPUnByckRfR1Myc2FaWHJwSGdFbGJaZnBfeFpXWUxrVg?oc=5
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
 
 - How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
   How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
   🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- 67% of India's unemployed youth are graduates: Report - The Times of India
-  67% of India's unemployed youth are graduates
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTUzUkQtNlVhMUx1aGNVV1JWdU4wVHlWMHFaSzhZRzJRYkhrMk5yQmJ0SEdRRGNxeGxYZFdZa21tRnhhemlnNDB3ekxtNVZVTGtkYUl3dTRwLWlVZmFYWjJUY0FOaUdDcUM3dzdxSjhVRThkbG1ZQmNQMUZCRi1yUGR2UmhkOUhueHdvZ1FoeW5fRXBmVXV2aEtaejJYRDZXX29ERFk3a0stdnU5Sm1lM0RHZjJoYU9JaWfSAb8BQVVfeXFMT3lTZ2YwTk50dFI4SENYS2dETEd3SWdnN2FRUjZBUDd5NGlXcUJISHR3d0NUSlRueFBJT1QzZDcxSUlBUjlTSlc0eThOUWZrVjhvYVpjS19rdl9fQnAyMDBabXY1RW9aTEF0RlgtYXo4VTdFZjFHVHFPOU5yZ2d6M2ZvTmItdzdXVFI0VFBJN2ctbUl1UXBuc0FjZUNtbUJTell3aFV6SFNsajdocGswZWZrMG9PU3p5d3VvOEtTUkU?oc=5
+- Raymond MD Gautam Singhania injured in Maldives speedboat accident; 2 Indians missing - The Times of India
+  Raymond MD Gautam Singhania injured in Maldives speed
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWFJRU5NZjl3SDJJODY4U1FmNjVhNVZJVElGb0lzcGV4VWhEWmd5WF9FNHYzMVFxazNnc182NG9ya2FOWGdBWXpiZUF6SWNsclpCUmtDelRNMnhfcm9QalotQkkxbTNYc1hXd1hWSXZRREJRZnotbWNoYkNzQ2dsQWRTM1RGcjZPV1lsdDN4b05UcU1vY2tZR1JxZm1ldFQ5Sk42NzM2a2ktM3JvaXZUMmRGMzI4OHJ5QzUwV2FLbzVsUXFRdkpfdVYtdHJuRUlfbVkwdDZ4eGZIT29iNEVfVTRrMkRtQXfSAewBQVVfeXFMUGVYZWFhQVRLZ18xYkp6QzRla0JlMUlSYTBhTE91amkxLWFCWGFPVHJYczg4ZzJZT1pIOWRGUmNnV0JOM19aR1NhZnpoZzZtbTZvOEZxYUF2RXJzdHp6SnlxWTZuR244eGtCYnpuNjE2SHJtVnBULTFYX3k2Smcyc1I3eVBQUzB3OHY2Wi1NNXloQWNqTFpSVV9HVUw2OVA2anFFNkQ0c1R4S3J6c2tIaXA1d2xQZHdpUDVoYTFlZC0tUTJZZlY2Uk53RklFZXNBYWo2ajZ0Vkk2cklybGZ1U3R3R1BYT2FzVkV0RjE?oc=5
 
-- Wrong Aircraft: Air India's Canada Flight's U-Turn After 4 Hours In Air - NDTV
-  Air India's Canada flight's U-turn after
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGoydnpaZDNHM3J0ZHMzdG0xNllPYzFmb0ZxaTFpY1pfdi1WbC1pNDFaYzBnOTNPNGNyenNtQ3NJU1h4UmJpSkMwRkNVWVJXZlpueEpjbWNZc1pPc1gtTnJZZGpDU2o4VGNtQzc0NmxuaDVMNDMzRjdfblUxbzNCTWxpVWdUdGJiQkVDX0FXazRsNEUtQVRjb0pwZFB0akd6c1poallzck5fRXZvTlHSAbYBQVVfeXFMTlVzSUZCRnlSM2RNM0F2WmpFRWpHOUFUMFJRUlFTaUE1OWU1RWJvUzhFM0VKRFdpeDhkT21zbW4zNHprU1QydW0zU3JJQVNRQnh1ejlSVXIyODRVSE9SQ1pKUWJaakhkZ1N2R0hucFZZSDF6WXlqeHdkSUI1WnJ0cTBMWmRNQ2dCS1dKRndGZ0NQcU5BVDZUVEJYQ3YxY3BRYkdOMlhuWTFCSG9tcm0tQ0NNN0tCNkE?oc=5
+- Proposed Footpath Policy Aims To Reclaim Pedestrian Spaces In Bengaluru - NDTV
+  Proposed Footpath Policy Aims To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNempnQUlZMkhYYVJIU21ZVjZSOXFiT2JVR3BtOVFqV2JDMC14VlJHb1NyMXRrS1pxRlZCSHd1VmtjaTRDelJueWQyYTI1eUNNMndmRHJyeHlRM3NXaU9qMzFpQlVZVWFPdXJfSUFiQUptem9MZlZhVG5lX3JyenhocDV2SU1tdWx3Z2RDM1Y3a2dadTRjWEd4NWhpR0d1V0FJQmlxM2QyVTdTNVFEbDF6WVZEUEpsaXhm0gHAAUFVX3lxTE4wZ1NibU5YRkdXNDY0STF0YTBxaXdicmhTRXV0WVh1UmhiX0ZtQU1NMzMzdTVoczR2RHZIUXFfdElodG5NajBPN2RXdjlYWTJCLU9teGJaX1hBMEF3LXlKQjhiekhkT0w0V0Exa1dXTGZPRE9aOXA1aFNoSURaTUtoaEZfd1NJVHY1MkJOcjF3eXI3cVI1Vk56NEo1cFFpQWw5MTBzejZpV3ZNaWhLQTZTcjh2MUtxc3lYemlJd0FLRQ?oc=5
 
-- Market Guru Raamdeo Agrawal Sees India Shares as “Fairly Valued” - Bloomberg.com
-  Market Guru Raamdeo Agraw
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVRMcC02LUlJSVFKWWh2aVlwbGFwT0ptUDR6enBYOGJDdHE0ZXBHZy1ualZMNmF4bFZiWnk4aWpyY0FWUkdFVEJCWFJZSTVNa2drN1J6bi1BX0pSSEZtaVNDTEM2U09UR3JhcWtqeGQ4dXRnN1dHMjhpVW1jZ1JLaHkzcUpTc1pWOWVYMUt1Yy1LS01XWjExa1lPWnd3RURvX3pmR0hkcW45czNZSEkyUk9KRk1jYTZRbkFfYlU4cENhM01BT1Fn?oc=5
+- MoD Reveals India Exploring Joining GCAP Or FCAS Sixth Generation Fighter Programme - The Times of India
+  The Times of India reports that India is considering joining GCAP or
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUk05QmFmckVxRWNXaXJXRUJRa1JuTGo3MUdBeXpPcFBKOFFGUm96dnB3ajdwUHJHVS1GekVxQ0lidlRyVXZ1aDRGWjk4eEtYbndWbkswamVCclh0NEhncklqdlYtRjZOYTRhbnFKWDFpWXhZVkxpaS1FeGpTeTBvMXYySnNTa3J6QlZwOW5JWjdGSVY4RXZWZDNEbTBSTDFna0FmeGVyTGdGM2F3N1lXWVgzY01Od09fV2NmclVfRkNCcEExektZNXBERWVNWW5IbUU1alBtSWpDTWpRNnFjUnZyNE80aGtrWUI4?oc=5
 
-- Indian duo lost to Indonesian pair in Orleans Masters Badminton - News On AIR
-  Indian duo lost to Indonesian pair in Orleans Masters Bad
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmNkdFBPUzVKTTFES1lDczFVcDBUZEp3Q2VXMmVtaDRxdEhxNFNXQXFfY2VyYTM2SHd0M0Jaa1hBYXUtUFA1cjAwazFGbUp1SEhkNk9OVF93cS1uTE5FcWwxckRLbXViUGpxRjZPWFhvXzhneEljOVZPUnByckRfR1Myc2FaWHJwSGdFbGJaZnBfeFpXWUxrVg?oc=5
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
+  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Raymond MD Gautam Singhania injured in Maldives speedboat accident; 2 Indians missing - The Times of India
+  Raymond MD Gautam Singhania injured in Maldives speed
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWFJRU5NZjl3SDJJODY4U1FmNjVhNVZJVElGb0lzcGV4VWhEWmd5WF9FNHYzMVFxazNnc182NG9ya2FOWGdBWXpiZUF6SWNsclpCUmtDelRNMnhfcm9QalotQkkxbTNYc1hXd1hWSXZRREJRZnotbWNoYkNzQ2dsQWRTM1RGcjZPV1lsdDN4b05UcU1vY2tZR1JxZm1ldFQ5Sk42NzM2a2ktM3JvaXZUMmRGMzI4OHJ5QzUwV2FLbzVsUXFRdkpfdVYtdHJuRUlfbVkwdDZ4eGZIT29iNEVfVTRrMkRtQXfSAewBQVVfeXFMUGVYZWFhQVRLZ18xYkp6QzRla0JlMUlSYTBhTE91amkxLWFCWGFPVHJYczg4ZzJZT1pIOWRGUmNnV0JOM19aR1NhZnpoZzZtbTZvOEZxYUF2RXJzdHp6SnlxWTZuR244eGtCYnpuNjE2SHJtVnBULTFYX3k2Smcyc1I3eVBQUzB3OHY2Wi1NNXloQWNqTFpSVV9HVUw2OVA2anFFNkQ0c1R4S3J6c2tIaXA1d2xQZHdpUDVoYTFlZC0tUTJZZlY2Uk53RklFZXNBYWo2ajZ0Vkk2cklybGZ1U3R3R1BYT2FzVkV0RjE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Proposed Footpath Policy Aims To Reclaim Pedestrian Spaces In Bengaluru - NDTV
+  Proposed Footpath Policy Aims To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNempnQUlZMkhYYVJIU21ZVjZSOXFiT2JVR3BtOVFqV2JDMC14VlJHb1NyMXRrS1pxRlZCSHd1VmtjaTRDelJueWQyYTI1eUNNMndmRHJyeHlRM3NXaU9qMzFpQlVZVWFPdXJfSUFiQUptem9MZlZhVG5lX3JyenhocDV2SU1tdWx3Z2RDM1Y3a2dadTRjWEd4NWhpR0d1V0FJQmlxM2QyVTdTNVFEbDF6WVZEUEpsaXhm0gHAAUFVX3lxTE4wZ1NibU5YRkdXNDY0STF0YTBxaXdicmhTRXV0WVh1UmhiX0ZtQU1NMzMzdTVoczR2RHZIUXFfdElodG5NajBPN2RXdjlYWTJCLU9teGJaX1hBMEF3LXlKQjhiekhkT0w0V0Exa1dXTGZPRE9aOXA1aFNoSURaTUtoaEZfd1NJVHY1MkJOcjF3eXI3cVI1Vk56NEo1cFFpQWw5MTBzejZpV3ZNaWhLQTZTcjh2MUtxc3lYemlJd0FLRQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- MoD Reveals India Exploring Joining GCAP Or FCAS Sixth Generation Fighter Programme - The Times of India
+  The Times of India reports that India is considering joining GCAP or
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUk05QmFmckVxRWNXaXJXRUJRa1JuTGo3MUdBeXpPcFBKOFFGUm96dnB3ajdwUHJHVS1GekVxQ0lidlRyVXZ1aDRGWjk4eEtYbndWbkswamVCclh0NEhncklqdlYtRjZOYTRhbnFKWDFpWXhZVkxpaS1FeGpTeTBvMXYySnNTa3J6QlZwOW5JWjdGSVY4RXZWZDNEbTBSTDFna0FmeGVyTGdGM2F3N1lXWVgzY01Od09fV2NmclVfRkNCcEExektZNXBERWVNWW5IbUU1alBtSWpDTWpRNnFjUnZyNE80aGtrWUI4?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
+  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Raymond MD Gautam Singhania injured in Maldives speedboat accident; 2 Indians missing - The Times of India
+  Raymond MD Gautam Singhania injured in Maldives speed
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWFJRU5NZjl3SDJJODY4U1FmNjVhNVZJVElGb0lzcGV4VWhEWmd5WF9FNHYzMVFxazNnc182NG9ya2FOWGdBWXpiZUF6SWNsclpCUmtDelRNMnhfcm9QalotQkkxbTNYc1hXd1hWSXZRREJRZnotbWNoYkNzQ2dsQWRTM1RGcjZPV1lsdDN4b05UcU1vY2tZR1JxZm1ldFQ5Sk42NzM2a2ktM3JvaXZUMmRGMzI4OHJ5QzUwV2FLbzVsUXFRdkpfdVYtdHJuRUlfbVkwdDZ4eGZIT29iNEVfVTRrMkRtQXfSAewBQVVfeXFMUGVYZWFhQVRLZ18xYkp6QzRla0JlMUlSYTBhTE91amkxLWFCWGFPVHJYczg4ZzJZT1pIOWRGUmNnV0JOM19aR1NhZnpoZzZtbTZvOEZxYUF2RXJzdHp6SnlxWTZuR244eGtCYnpuNjE2SHJtVnBULTFYX3k2Smcyc1I3eVBQUzB3OHY2Wi1NNXloQWNqTFpSVV9HVUw2OVA2anFFNkQ0c1R4S3J6c2tIaXA1d2xQZHdpUDVoYTFlZC0tUTJZZlY2Uk53RklFZXNBYWo2ajZ0Vkk2cklybGZ1U3R3R1BYT2FzVkV0RjE?oc=5
+
+- Proposed Footpath Policy Aims To Reclaim Pedestrian Spaces In Bengaluru - NDTV
+  Proposed Footpath Policy Aims To
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNempnQUlZMkhYYVJIU21ZVjZSOXFiT2JVR3BtOVFqV2JDMC14VlJHb1NyMXRrS1pxRlZCSHd1VmtjaTRDelJueWQyYTI1eUNNMndmRHJyeHlRM3NXaU9qMzFpQlVZVWFPdXJfSUFiQUptem9MZlZhVG5lX3JyenhocDV2SU1tdWx3Z2RDM1Y3a2dadTRjWEd4NWhpR0d1V0FJQmlxM2QyVTdTNVFEbDF6WVZEUEpsaXhm0gHAAUFVX3lxTE4wZ1NibU5YRkdXNDY0STF0YTBxaXdicmhTRXV0WVh1UmhiX0ZtQU1NMzMzdTVoczR2RHZIUXFfdElodG5NajBPN2RXdjlYWTJCLU9teGJaX1hBMEF3LXlKQjhiekhkT0w0V0Exa1dXTGZPRE9aOXA1aFNoSURaTUtoaEZfd1NJVHY1MkJOcjF3eXI3cVI1Vk56NEo1cFFpQWw5MTBzejZpV3ZNaWhLQTZTcjh2MUtxc3lYemlJd0FLRQ?oc=5
+
+- MoD Reveals India Exploring Joining GCAP Or FCAS Sixth Generation Fighter Programme - The Times of India
+  The Times of India reports that India is considering joining GCAP or
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUk05QmFmckVxRWNXaXJXRUJRa1JuTGo3MUdBeXpPcFBKOFFGUm96dnB3ajdwUHJHVS1GekVxQ0lidlRyVXZ1aDRGWjk4eEtYbndWbkswamVCclh0NEhncklqdlYtRjZOYTRhbnFKWDFpWXhZVkxpaS1FeGpTeTBvMXYySnNTa3J6QlZwOW5JWjdGSVY4RXZWZDNEbTBSTDFna0FmeGVyTGdGM2F3N1lXWVgzY01Od09fV2NmclVfRkNCcEExektZNXBERWVNWW5IbUU1alBtSWpDTWpRNnFjUnZyNE80aGtrWUI4?oc=5
 
 
-_Last updated: 2026-03-20 12:49:29 UTC_
+_Last updated: 2026-03-20 18:45:27 UTC_
