@@ -1,44 +1,44 @@
 # 📰 Daily News Summaries
 
-- Delhi-NCR wakes up to unusual fog, cool spell likely to continue; IMD forecasts rain, thunderstorms across North India
+- Iran war: Flight operations in West Asia remain disrupted; Air India group to run 42 flights today
   
-  🔗 https://indianexpress.com/article/india/delhi-weather-forecast-fog-rain-alert-imd-update-march-21-2026-10593523/
+  🔗 https://indianexpress.com/article/india/air-india-express-west-asia-flights-march-21-fare-cap-dispute-10593956/
 
-- Year after stampede, Goa steps up Jatra safety with watchtowers, control room, multiple entry points
+- Railways renovates 73-year-old bridge in Uttar Pradesh; to enhance train speed, cut travel time
   
-  🔗 https://indianexpress.com/article/india/year-after-stampede-goa-steps-up-jatra-safety-with-watchtowers-control-room-multiple-entry-points-10593157/
+  🔗 https://indianexpress.com/article/india/railways-renovates-73-year-old-bridge-in-uttar-pradesh-to-enhance-train-speed-cut-travel-time-10594080/
 
-- How J-K Police helped 75-year-old UP woman find her family after 11 years
+- PM Modi speaks with Iranian President on Eid, Nowruz: ‘Condemned attacks on critical infrastructure in the region’
   
-  🔗 https://indianexpress.com/article/india/how-j-k-police-helped-75-year-old-up-woman-find-her-family-after-11-years-10593158/
+  🔗 https://indianexpress.com/article/india/pm-modi-iran-president-eid-nowruz-condemn-attacks-pezeshkian-10594142/
 
-- Express Exclusive: Govt asks WhatsApp to block device IDs used in digital arrest scams
+- Odisha seafarer stuck in Persian Gulf amid West Asia tensions; family appeals for safe return
   
-  🔗 https://indianexpress.com/article/india/high-level-committee-meeting-govt-asks-whatsapp-to-block-device-ids-used-in-digital-arrest-scams-10593222/
+  🔗 https://indianexpress.com/article/india/odisha-seafarer-stuck-in-persian-gulf-amid-west-asia-tensions-family-appeals-for-safe-return-10593914/
 
-- Another Indian killed in missile attack on Riyadh, toll up to six
+- Four bananas and a police complaint: Teacher and cook come to blows over mid-day meal dispute
   
-  🔗 https://indianexpress.com/article/india/another-indian-killed-in-missile-attack-on-riyadh-toll-up-to-six-10593207/
+  🔗 https://indianexpress.com/article/india/hazaribagh-school-teacher-cook-fight-mid-day-meal-bananas-probe-10594000/
 
-- Tech workers go all-in on AI, but returns may be flattening
+- Historians challenge the legendary march to Hastings
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-workers-go-all-in-on-ai-but-returns-may-be-flattening-10593495/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/historians-challenge-the-legendary-march-to-hastings-10594189/
 
-- Amazon plans smartphone comeback more than a decade after Fire Phone flop
+- Samsung may not be giving up on the triple-fold: A thinner, tougher Galaxy Z TriFold 2 may make an appearance next year
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop-10593486/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-z-trifold-2-galaxy-z-slide-rumours-leaks-launch-timeline-10594106/
 
-- Climate tech is moving away from a green premium: Ankur Shrivastava, Founder, Momentum Capital
+- Jupiter and Saturn gain more moons: Solar system count rises to 442
   
-  🔗 https://indianexpress.com/article/technology/climate-tech-startups-india-ankur-shrivastava-interview-10592716/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/jupiter-and-saturn-gain-more-moons-solar-system-count-rises-to-442-10594184/
 
-- Government bans 300 betting and gambling platforms, bringing the total to 8,400
+- I tested the Galaxy Buds 4 Pro: Samsung finally made the AirPods Pro-level wireless earbuds for Android users
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/government-bans-300-betting-apps-online-gaming-act-2025-crackdown-10592482/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/amsung-galaxy-buds-4-pro-review-10594148/
 
-- Tech and gadget launches today (March 20, 2026): OPPO K14 5G Pro 3, Valour Watch 1R, and more
+- Anthropic study reveals what users expect from AI and what worries them
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-20-2026-oppo-k14-5g-pro-3-valour-watch-1r-and-more-10592272/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-study-reveals-what-users-expect-from-ai-and-what-worries-them-10593924/
 
 - Elon Musk misled investors before buying Twitter in 2022, finds US jury — $2.6 billion coming for shareholders?
   Lawyers for the plaintiff estimated a $2.6 billion payout in damages. The class-action lawsuit was filed just before Elon Musk took control
@@ -60,6 +60,14 @@
   Brazilian President Luiz Inacio Lula da Silva says he spoke with Mexican leader Claudia Sheinbaum about a possible exploration partnership
   🔗 https://www.livemint.com/companies/lula-says-petrobras-pemex-could-partner-on-oil-exploration-11774032964358.html
 
+- What does Donald Trump's hint to wind down the US-Iran war mean for India's stock market, gold and silver rates?
+  President Trump hinted at winding down efforts in Iran, causing a rebound in the US stock market.
+  🔗 https://www.livemint.com/market/stock-market-news/what-does-donald-trumps-hint-to-wind-down-the-us-iran-war-mean-for-indias-stock-market-gold-and-silver-rates-11774079373555.html
+
+- Why is oil and gas PSU stock ONGC the lone star amid the US-Iran war? Explained
+   ONGC share price has shown resilience amid the US-Iran war, shedding
+  🔗 https://www.livemint.com/market/stock-market-news/why-is-oil-and-gas-psu-stock-ongc-the-lone-star-amid-the-us-iran-war-explained-11774074662291.html
+
 - India also has a 'Strait of Hormuz' to counter China's border aggression
   The Iranian government uses the Strait of
   🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-news-india-china-news-india-also-has-a-strait-of-hormuz-to-counter-chinas-border-aggression-11774069456643.html
@@ -71,14 +79,6 @@
 - US-Iran war effect: S&amp;P 500 lost over $1 trillion market cap last week, crashes 5.83% in one month
   The S&amp;amp;P 500 index lost over 2.
   🔗 https://www.livemint.com/market/stock-market-news/usiran-war-effect-on-us-stock-market-s-p-500-lost-over-1-trillion-market-cap-last-week-crashes-5-83-in-one-mont-11774061692159.html
-
-- Gold rate today: Resilient US dollar, inflation fear may drag gold price in India to  ₹1.27 lakh
-  Gold prices fell significantly last week, finishing at  ₹1,44,825 per 10
-  🔗 https://www.livemint.com/market/commodities/gold-rate-today-us-iran-war-resilient-us-dollar-inflation-fear-may-drag-gold-price-in-india-to-rs-1-27-lakh-11774059560048.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 23 March 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday. J
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-23-march-2026-11774021056468.html
 
 - ‘Out of ideas’: Nvidia CEO Jensen Huang dismisses AI job loss fears, blames recent layoffs on lack of ‘imagination’
   Nvidia CEO Jensen Huang criticized companies laying off workers due to AI, asserting that they lack imagination. He also went on to dismiss
@@ -100,85 +100,125 @@
   The US Justice Department has dismantled four major botnets responsible for significant DDoS attacks. These botnets, operating on a 'cybercrime-as-a-service'
   🔗 https://www.livemint.com/technology/tech-news/us-takes-down-cybercrime-as-a-service-botnets-that-hijacked-over-3-million-iot-devices-globally-11773980650016.html
 
-- Don't panic, stay invested: NSE's Harish Ahuja advices retail investors amid global market volatility
-  NSE's Harish K Ahuja advises retail investors against panic selling. He urges patience and a long-term perspective. He highlighted that India's market fundamentals remain strong.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dont-panic-stay-invested-nses-harish-ahuja-advices-retail-investors-amid-global-market-volatility/articleshow/129714256.cms
+- US stock markets dip for fourth straight week over US-Israel war on Iran - The Guardian
+  US stock markets dip for fourth straight week over US-Israel
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaXRWV3lEWk5xYkxpRjNfYmtvS3hxZThLZlVWeHcteVd6UkRQdldfNkdFUkVHZmtySE9abVU0Nlc3ZVVaQlktd0FmU09zVkFuZUNUX0ZZaDU2dWxRMHNPa29VeUNoRmdWNlMtZl9heHBXSk9jQWZYN0hKSHlQMjQ?oc=5
 
-- Metals to shine? Hindustan Copper, Tata Steel, other stocks plunge up to 14% in one month; what lies ahead?
-  Metal stocks have plunged recently due to geopolitical tensions and hawkish Fed commentary. Experts anticipate a near-term surge in metal prices, driven by the Iran-US conflict and rising oil costs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/metals-to-shine-hindustan-copper-tata-steel-other-stocks-plunge-up-to-14-in-one-month-what-lies-ahead/articleshow/129714250.cms
+- Stocks fall for a second day, but close off session lows as oil surge eases: Live updates - CNBC
+  Stocks fall for a second day, but close off session lows as oil
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9VRmtGbFBCdTBjZ1dycnhqRHUzX0RRYU85b1hMV1k4SkRoV2xvbE11TTlxeDZKZkhnWDd6WHlKblRKU1dsX1V0cEp6Z0lvTmk2TGhCbzljYmplOEYwbHhTRUFYN2RzLWRRTXU2MTVPSWVtdi1kWHVr0gF8QVVfeXFMTUkzUG90WC1SR0owMkFIMTBqQmttTlIwX19GRzRmZWtJY0tibzdTOXhoVzRGQTNST0NWYzhiV3hNTTZkcGFlTUthSmt1MXpXYTNkb0JlRVI4c2pGTUFSb0RSNkFFSHplT1dyTmwweENPWkliOGdGc2hkSGJBcw?oc=5
 
-- Dubai realty slows amid geopolitical shocks; India emerges as preferred investment destination, suggest experts
-  Capital is now flowing towards India's stable markets like Gurugram and Mumbai. Domestic demand is driving growth in India. Dubai remains an option for rental income, but India is seen as a wealth creation hub.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-realty-slows-amid-geopolitical-shocks-india-emerges-as-preferred-investment-destination-suggest-experts/articleshow/129714203.cms
+- Nifty Prediction For Monday: Mideast Crisis, Crude Oil Price To Keep Markets Volatile; Know Key Levels For - News18
+  Nifty Prediction For Monday: Mideast Crisis, Crude Oil Price
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOTdMZFJPb0YzVVktYk9tMGNqZHd3MXptaTM4Z29zcHJtUDJQSjN0XzRCSnpucVZHREh5WFZpeExMUi1UTXdINUdxQXRFQ2Q2WVhCaExETnByakxtZ1VQb3RsZHNwVlBVN1V4enZ6YVNza1hYc25GSklKWEUxcVdLY3pUN3ZPWlQyNWZadlBhT0xBU0kzWmpVMVJqWU9ZMXhxQ3ltcUxBV2EwRTdtOVVqZzFjMTBlSUdHSmxXeUFIR0l2UmFxbXdSbTN5ZV9RR2JkUGV0a0N6RmdxM1lURkNIN1VGclFvdEVmeDBMVldVdk5tajFoS2VMbEdFZnAwaVHSAYQCQVVfeXFMT0k2RHBPZEJQRGZzR0VGRUNyNkpPR1RzUzJEUlBiV2UzdUNGaEZoRHJQcXB1SEFTSGRXX0h5dWRtSzMyVTdMbWZKMlBVZFV0QlpsQm9FOU1ETWNjblFfdV9KRWhjbWxyY2t3N0pSMUdTTndfUWlnQTVaSlR5aElYbFZURGNBNzVyZk00amxiRF9KYjRGbklGZHVTVHNhX05UNlJZakdNV1BaaTZOMjNlZVZkWUE3RGxBUHZTNmlkcDdOQjVXRFprdXNZbHExb0p6SlFtd0RjSmQyUUh6Y2lVcmRDdWlZUUk1clV5QnJtVTJCOWxiUFREaE9BTGJIam40TXFrOGQ?oc=5
 
-- IDBI, SpiceJet among 10 stocks that saw sharpest fall, down up to 21% this week. Do you own any?
-  Indian markets witnessed a broad-based sell-off amid escalating Middle East tensions and rising crude oil prices. Several stocks, including IDBI Bank and SpiceJet, declined sharply during the week.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/idbi-spicejet-among-10-stocks-that-saw-sharpest-fall-down-up-to-21-this-week-do-you-own-any/slideshow/129714131.cms
+- 'Bring almost 140 mn barrels to global markets': After Russian, US eases sanctions on Iranian oil - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilwJBVV95cUxNbFZLRHBMU2IwY2c3ZGUwbHp4ZVo2eTc3aEdnVXQxeUtOcjZ4SXZaRG1sSW5XLW01U2tleXZwU3Rad3pjeEl5WEZYeV9MOW1iQ3ZsNzNlQjQ5N1I1OVNPZWFmTVNpMVJPak
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxNbFZLRHBMU2IwY2c3ZGUwbHp4ZVo2eTc3aEdnVXQxeUtOcjZ4SXZaRG1sSW5XLW01U2tleXZwU3Rad3pjeEl5WEZYeV9MOW1iQ3ZsNzNlQjQ5N1I1OVNPZWFmTVNpMVJPakRRVC1rc284b2dEWnBLZVd2Y0loYzJFQW9PV1ZGd2xYN3JIdWw5dlZsOGVpSWRoZk9DMWpFRUxSbFo4R2VuUHlhX1kyUDUtNmpuV3VMYi1UZDh1NGRLN2x0UkdnbnExeFA0ZmxBY3ZZU1hRMlBncFRfVm9aWDBTSkFVWlhYZmpKRmRNS3F5WFJabXR0cjY0MnRCUFlIZUE1TFRPWlJad3FCWVpKYkpXUFRNb1p3cVnSAZwCQVVfeXFMUF9xS0lDdzEzMEp4cVU5UC1jclhNWjJMVE44cXMzZjU4dUotRUFwdGRHU2pEYU5MQVVvZ085M2tuSS01STNfczRfMHNhUllLSmw1VWZWcU9WM2tzUXdmYTQ5N2hkb1hTaGEtdlp6MWYxVWZsYmYxMDZpc0xNZnl0eXJUcTlNT09xUE1BR2M1X1U2ODRQeFB1aTJRMXNDdE1rQXJSSndRQU8tQ2R2Y25TZDVjazUxdm04Qmo3NjFwNHhLRlA0d0RWX1BDUllJNm9hcGF5bGZDeEVNYzJyM3V4bHViV0tFNHNFQUU4N25lTE80Ym9VQVFQSDJvaXI3VmxMbDA3X0FsMzI3MUVCVTZPR2lPbG9fcGZNVDA4X08?oc=5
 
-- Bitcoin ranges between $69K-$70K amid defensive positioning, large holders keep buying
-  Bitcoin traded in a narrow range amid cautious derivatives positioning. Institutional inflows into ETFs and stable price action indicate a consolidation phase. Analysts expect a decisive move once macro conditions improve.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-ranges-between-69k-70k-amid-defensive-positioning-large-holders-keep-buying/articleshow/129713599.cms
+- "The Market Is Fragile": John Storey on Finding Opportunities in Turbulent Markets - Goldman Sachs
+  "The Market Is Fragile": John Storey on
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1zRm0zZzhNcEo3ZkRNRUdMMDBzM05kOWJoZFZibkxab1JSUHp0b01qZ2M3X0hEMWFON2NBa3VDbFR4MFZGTGJTWk1USVBTZjYxVlhBTjl5OThPSXVEOEdZSTFLRzJhR1lLeV8zb05nX3dtUVNpaGMtLVIyT0hFMmgzSjZ0VEgxTEIzRy1RV3V0dDAySUM4U0xhcjQyQU9HOEN0cHkteDA0TDdVallOcnFELW1ZdXdNZzRWVFJxaW9ESERUSFAxSA?oc=5
 
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
+- D-Street Week Ahead: Bearish outlook deepens as Nifty slips below key supports
+   Markets ended the week marginally lower, with the Nifty breaching key support levels. Rising volatility and oversold RSI indicate continued weakness. While some sectors like Energy and Pharma show relative strength.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-bearish-outlook-deepens-as-nifty-slips-below-key-supports/articleshow/129717122.cms
 
-- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
-  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
+- Abu Dhabi Investment Portfolio: 6 stocks surge up to 110% in FY26, 3 fresh Q3 picks
+  Abu Dhabi Investment Authority’s India portfolio rose 7% in FY26. Six stocks delivered gains of up to 110%. However, performance remained uneven as several holdings declined sharply.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/abu-dhabi-investment-portfolio-6-stocks-surge-up-to-110-in-fy26-3-fresh-q3-picks/slideshow/129717011.cms
 
-- Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to buy Iranian oil after U.S. waives sanctions - The Hindu
-  Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUldHQUpGR1B2ZDFvclZhZ2pwd0lGZUlScXEzQ1lTeWQ2VnB0S3l4OUJTRjFLcjlVRm1QaWt3MkcybzdEcm4wdmVMNEMyYlJhbG1PZTVraEpKbURYbWtTX2xFX1N3OHgwazRiVGlQVlNYVDhLR01qdEx2Y3psLW55eXdrb0FFRTB0MmZfTng0UWFGMHFKTk8wU2dHanVmbEd3RGJCUnVSZGNaYnF6VllKT1FzSHYwUUdCRm9jWG9Ca3J2UkdlZGdZczBVN1gyUks0UlRiX255RDBkXy01Nnp4MDM1d9IB6gFBVV95cUxNWFI0WElzSTY0MjZTRXk0a2xkaFZnM25MOVZtY1A5ZlQybkMxTGpwajE0eFpDZFBUU3B1cE1xOEl5YTJhdlNCUEljOXJUUFFEUWtxWk1qVG9SLU9xWG1GU0NGLVA3b1RUMElJWHFIajJkR3llTzhMS3Z5by1JdVRSWXJlNWF6YlNiRThnUS1IUFhiWkUxbXAtMm9yRkdUcWNIc2xQcFVBLUVRa0hfMVFCUERvM1FsczlHSGhaMmtvNVBGenMwOFNHdFRMU2FySEUtT0p4bmk2OWRfaVRuZkVManlSTW1CcTFobGc?oc=5
+- F&amp;O Talk | Nifty grapples with dead cat bounce syndrome as pullbacks get sold. Sudeep Shah on Olectra, IDBI, 4 more stocks
+  Indian stock markets closed higher Friday, boosted by IT, auto, and metal sectors. Analysts express caution due to ongoing West Asian conflict, elevated oil prices, and persistent FII outflows. Nifty and Bank Nifty face resistance
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-grapples-with-dead-cat-bounce-syndrome-as-pullbacks-get-sold-sudeep-shah-on-olectra-idbi-4-more-stocks/articleshow/129716202.cms
 
-- ‘Won’t let Modi ji snatch rights’: Mamata Banerjee targets BJP during Eid in Kolkata -watch - The Times of India
-  ‘Won’t let Modi ji snatch rights’:
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX19Ec0FrS0RqM1dmbjMycTRVMGRXbzQxMDZCeVN3UldaMlA5dlFQZC02U29uWlRTbmhnSnpPLVNpejdXdEJ2ZTZ5X0xCSG1veGV0UTRLSkdUUlkwQ01wOVFoNUJHclMzT2cta3pmZngtcXpoUjZlclBGUm5OdldySUtBLWx5NUI3bExrTExSdkVVSThxbG04MmJtQ0JEOUVoN1B0Y3BDMDNkX25vVU16ZkFyemhrc0NjSGp4elhrMXJhZUVhNUx0SWFSc2x4THdwOWlyY282UGNfdEV2WEdVMkgzeXQ5blMyTnfSAe8BQVVfeXFMTU5RVWxSU1dRUnQ2aHBhc2FSZFRSS3kwUlgwVnZadjd4RExwVE5ZVXduWjctQ25fUEw0M1JxZjZnUWp5cm96UVQ3VnJIVE5Mak85enZlU0RKZVk2aVE0bVlvaDl5el9CR1dpOTBRTmI1ck9zWnJSX21nMFRUdmRwN2NiakJfLUotXy1GWjF6UXN1VjF1Rk9iZzhvOGFUelBfWnRYaThKOXM1d1J3ZHdTSWQ2UXgzTlZtWnI2TF9LQVowaUNSeDN6Tk13Wm5vZWlCWDBxVGZkSTJNQjRfcUR0b2xXdTJ3YkFRbUNhdUpGY1E?oc=5
+- India is right to act on offshore crypto platforms but it must also build a fairer market
+  A Financial Action Task Force report backs India’s concerns that the real risk in crypto lies in offshore, non-
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/india-is-right-to-act-on-offshore-crypto-platforms-but-it-must-also-build-a-fairer-market/articleshow/129715278.cms
 
-- Air India, IndiGo, SpiceJet oppose government’s 60% free seat selection decision - The Hindu
-  Air India, IndiGo, SpiceJet oppose
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzZhTDdzVXJ4dDNWUEJQTmxOTm9kNHE1R3g0S2ppUFM2eklnNHFNS1JsZ2E1MWRscDVJOG9zLXZlWWhCZnhPR05WcGs5VmFvOHM3djlPc3lkb0ZweFl4eXlrbGZHaWZ4QnhaYm52cmlleklfRWg0Z3ZDbWV3NHAwb0JEbTU5NWVrMkhIZmRHbTBWTXJJelRnQ3ZOcXNwakU4Y1cyVlBhemVaUmVWazJQYUtCVzI0cEx1emhMZmlhT1V0YnFpZU5iVk5lOEFkd3VZ0gHXAUFVX3lxTE1iLVdrZ3NKT1FpeXdYQWFYN2s5c0Iwb3p5OXMzbHd3dHM0NmN5Zk1oSGd3T0ZlQUFmd05UalZtQ1Q2MjREbDJmYmVHM2lqV0pCQWFSOVE0a0NWZ1haR0UtUjNHX3hsakl5SGhPQVRzeUxmUmZuTjdILUtlMTJwSzljMHppSHlSeERjTjFaMVBwTFh0QkxWSG5YWFNLZWJjWW1TRDhFc3dJQlZYbzFaaFl0a0dwOWlWVGtXRWw2RlZ3UElvSUtLcFB6aGRhdlZOTjZpOXFUNlNz?oc=5
-
-- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
-  A 1,000-Km Rain Band
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
-
-- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
-  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
-
-- Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to buy Iranian oil after U.S. waives sanctions - The Hindu
-  Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUldHQUpGR1B2ZDFvclZhZ2pwd0lGZUlScXEzQ1lTeWQ2VnB0S3l4OUJTRjFLcjlVRm1QaWt3MkcybzdEcm4wdmVMNEMyYlJhbG1PZTVraEpKbURYbWtTX2xFX1N3OHgwazRiVGlQVlNYVDhLR01qdEx2Y3psLW55eXdrb0FFRTB0MmZfTng0UWFGMHFKTk8wU2dHanVmbEd3RGJCUnVSZGNaYnF6VllKT1FzSHYwUUdCRm9jWG9Ca3J2UkdlZGdZczBVN1gyUks0UlRiX255RDBkXy01Nnp4MDM1d9IB6gFBVV95cUxNWFI0WElzSTY0MjZTRXk0a2xkaFZnM25MOVZtY1A5ZlQybkMxTGpwajE0eFpDZFBUU3B1cE1xOEl5YTJhdlNCUEljOXJUUFFEUWtxWk1qVG9SLU9xWG1GU0NGLVA3b1RUMElJWHFIajJkR3llTzhMS3Z5by1JdVRSWXJlNWF6YlNiRThnUS1IUFhiWkUxbXAtMm9yRkdUcWNIc2xQcFVBLUVRa0hfMVFCUERvM1FsczlHSGhaMmtvNVBGenMwOFNHdFRMU2FySEUtT0p4bmk2OWRfaVRuZkVManlSTW1CcTFobGc?oc=5
-
-- ‘Won’t let Modi ji snatch rights’: Mamata Banerjee targets BJP during Eid in Kolkata -watch - The Times of India
-  ‘Won’t let Modi ji snatch rights’:
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX19Ec0FrS0RqM1dmbjMycTRVMGRXbzQxMDZCeVN3UldaMlA5dlFQZC02U29uWlRTbmhnSnpPLVNpejdXdEJ2ZTZ5X0xCSG1veGV0UTRLSkdUUlkwQ01wOVFoNUJHclMzT2cta3pmZngtcXpoUjZlclBGUm5OdldySUtBLWx5NUI3bExrTExSdkVVSThxbG04MmJtQ0JEOUVoN1B0Y3BDMDNkX25vVU16ZkFyemhrc0NjSGp4elhrMXJhZUVhNUx0SWFSc2x4THdwOWlyY282UGNfdEV2WEdVMkgzeXQ5blMyTnfSAe8BQVVfeXFMTU5RVWxSU1dRUnQ2aHBhc2FSZFRSS3kwUlgwVnZadjd4RExwVE5ZVXduWjctQ25fUEw0M1JxZjZnUWp5cm96UVQ3VnJIVE5Mak85enZlU0RKZVk2aVE0bVlvaDl5el9CR1dpOTBRTmI1ck9zWnJSX21nMFRUdmRwN2NiakJfLUotXy1GWjF6UXN1VjF1Rk9iZzhvOGFUelBfWnRYaThKOXM1d1J3ZHdTSWQ2UXgzTlZtWnI2TF9LQVowaUNSeDN6Tk13Wm5vZWlCWDBxVGZkSTJNQjRfcUR0b2xXdTJ3YkFRbUNhdUpGY1E?oc=5
-
-- Air India, IndiGo, SpiceJet oppose government’s 60% free seat selection decision - The Hindu
-  Air India, IndiGo, SpiceJet oppose
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzZhTDdzVXJ4dDNWUEJQTmxOTm9kNHE1R3g0S2ppUFM2eklnNHFNS1JsZ2E1MWRscDVJOG9zLXZlWWhCZnhPR05WcGs5VmFvOHM3djlPc3lkb0ZweFl4eXlrbGZHaWZ4QnhaYm52cmlleklfRWg0Z3ZDbWV3NHAwb0JEbTU5NWVrMkhIZmRHbTBWTXJJelRnQ3ZOcXNwakU4Y1cyVlBhemVaUmVWazJQYUtCVzI0cEx1emhMZmlhT1V0YnFpZU5iVk5lOEFkd3VZ0gHXAUFVX3lxTE1iLVdrZ3NKT1FpeXdYQWFYN2s5c0Iwb3p5OXMzbHd3dHM0NmN5Zk1oSGd3T0ZlQUFmd05UalZtQ1Q2MjREbDJmYmVHM2lqV0pCQWFSOVE0a0NWZ1haR0UtUjNHX3hsakl5SGhPQVRzeUxmUmZuTjdILUtlMTJwSzljMHppSHlSeERjTjFaMVBwTFh0QkxWSG5YWFNLZWJjWW1TRDhFc3dJQlZYbzFaaFl0a0dwOWlWVGtXRWw2RlZ3UElvSUtLcFB6aGRhdlZOTjZpOXFUNlNz?oc=5
+- Rupee on shaky ground, touches fresh low of 93.73
+  The Indian rupee experienced its sharpest single-day fall since late 2022, plummeting to a historic low of 93.73 against the dollar. Surging oil prices
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-on-shaky-ground-touches-fresh-low-of-93-73/articleshow/129715234.cms
 
 - A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
   A 1,000-Km Rain Band
   🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
 
-- How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena got exposed | India News - Hindustan Times
-  How Pakistan's disinformation campaign against India over US strike on Iran Navy's IRIS Dena
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1dodXIybWhxaDdmWDZlR1VhU1V4Y1R1bHJGRnNjdjFIMU9yX0RBNE9EMmVpWVRKNksyS2oxZkladHp3aEVCQ3laQUJRUUphUkRRN0tESzdwYXkwZTdJVUQyUEJSQkY0V2dCX1hSZmdlcFB4RjllTXA2ZU5XUXRpeWtJTDIxdWJ1RXNndkkwWXI0NmdlYWl5ek41eDB0bkVyeHZEcF9adDBHNEI2cjhadmVsN0JaM2pIV0ZKbklBNzRHTEtqcGd2NDhSeFY5ZmZtSTEzUmw0OXlXUTlGWHVZWUhxVUVVSnpFZ3M1czlJelhFUHPSAfgBQVVfeXFMTTZxcUlqUkdRUFJCUDNndkJkNV8tdHBySTY3U3FXM3VGT0t6dHl5el8yXzRkNEVKeTlIblNGVDZyZVV0a3VPSm1RRk1mWXhCWUhGMi1JNjBXWDFTZ2hKRDhZMllXeTUwT2xwUTFiS21nQUJhRmhwcVBPSjJWRnNVUE1UUG9JZkh0WUtHM3pDVzJlMG5KVGc4UlRuUmtlQm40X192Y2J6N1VqR19rMEJIdWYtdHVpTDhvMHhQM1JJVjBBREotcng1cEw2WEczZ0Q5MzZWNVhTa1NKUmUtbmItZkx0STMxQmRlQTNGSWpXODhvM0VTelFVd2c?oc=5
+- Indian Refiners Look To Buy Iranian Oil As US Waives Sanctions: Report - NDTV
+  Indian Refiners Look To Buy Iranian Oil As US
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNpNWp5MmdpanZFZno1YTRldGQyOENUMnhjN3NTU2tRZEhkV1dON2l5Y0dLdlotMktmNFlmc0hRbTBqTXNleVlLWUNvaGZQRWlHSXQ5dEV6UVFoWEMyQzhWNE5OTDdUWmkxUW00M3dYaTVSRFN5TVlEZ3dFZktXWWRodVdtRFRuRTB1Vm9KYzdGR0JtcVFuVFd0VXoxdVFlaVhYQzkyRXdVdEdkbDF0OVg3dU1xYkc1ZkJv0gHDAUFVX3lxTE9WajM0UEVCZDU0eVdUN3F5aUlURDg3M1Q3LVhmaTJuV2thRExsc2oxSnFWbDJDTE5pYU9tbTljel9oNHoxMVVleDdwM0I5aHB3OXhhWlRWNE04ZWoxbzFPNkU0bjFwRS1FTXdmMkpEOVNMZ3NtZm1LWjYzM1BLYmxSWlFvMUVpUjhBS2dRb0Y3dUlHYmhmZi03Z0UwcGxoUGNiWHo5eXBOMmp2bEVEN3BlYjM2SjM0cS1kZmxJXzNmN2ludw?oc=5
 
-- Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to buy Iranian oil after U.S. waives sanctions - The Hindu
-  Iran-Israel war LIVE: Refiners in India, elsewhere in Asia, look to
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUldHQUpGR1B2ZDFvclZhZ2pwd0lGZUlScXEzQ1lTeWQ2VnB0S3l4OUJTRjFLcjlVRm1QaWt3MkcybzdEcm4wdmVMNEMyYlJhbG1PZTVraEpKbURYbWtTX2xFX1N3OHgwazRiVGlQVlNYVDhLR01qdEx2Y3psLW55eXdrb0FFRTB0MmZfTng0UWFGMHFKTk8wU2dHanVmbEd3RGJCUnVSZGNaYnF6VllKT1FzSHYwUUdCRm9jWG9Ca3J2UkdlZGdZczBVN1gyUks0UlRiX255RDBkXy01Nnp4MDM1d9IB6gFBVV95cUxNWFI0WElzSTY0MjZTRXk0a2xkaFZnM25MOVZtY1A5ZlQybkMxTGpwajE0eFpDZFBUU3B1cE1xOEl5YTJhdlNCUEljOXJUUFFEUWtxWk1qVG9SLU9xWG1GU0NGLVA3b1RUMElJWHFIajJkR3llTzhMS3Z5by1JdVRSWXJlNWF6YlNiRThnUS1IUFhiWkUxbXAtMm9yRkdUcWNIc2xQcFVBLUVRa0hfMVFCUERvM1FsczlHSGhaMmtvNVBGenMwOFNHdFRMU2FySEUtT0p4bmk2OWRfaVRuZkVManlSTW1CcTFobGc?oc=5
+- Iran war: Gas shortage risks pushing India towards polluting fuels - BBC
+  Iran war: Gas shortage risks pushing India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fakRMaFozeDNwUEN1QlZrVGdHVzdZQXd4Y0JyWUw4ajZZU1dJYUJnNllDd09KM3BuZWppdVRWOWZFbmF3MTV0c0o5WjFOWEFGLVpMM2ZoTGFFUQ?oc=5
 
-- ‘Won’t let Modi ji snatch rights’: Mamata Banerjee targets BJP during Eid in Kolkata -watch - The Times of India
-  ‘Won’t let Modi ji snatch rights’:
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX19Ec0FrS0RqM1dmbjMycTRVMGRXbzQxMDZCeVN3UldaMlA5dlFQZC02U29uWlRTbmhnSnpPLVNpejdXdEJ2ZTZ5X0xCSG1veGV0UTRLSkdUUlkwQ01wOVFoNUJHclMzT2cta3pmZngtcXpoUjZlclBGUm5OdldySUtBLWx5NUI3bExrTExSdkVVSThxbG04MmJtQ0JEOUVoN1B0Y3BDMDNkX25vVU16ZkFyemhrc0NjSGp4elhrMXJhZUVhNUx0SWFSc2x4THdwOWlyY282UGNfdEV2WEdVMkgzeXQ5blMyTnfSAe8BQVVfeXFMTU5RVWxSU1dRUnQ2aHBhc2FSZFRSS3kwUlgwVnZadjd4RExwVE5ZVXduWjctQ25fUEw0M1JxZjZnUWp5cm96UVQ3VnJIVE5Mak85enZlU0RKZVk2aVE0bVlvaDl5el9CR1dpOTBRTmI1ck9zWnJSX21nMFRUdmRwN2NiakJfLUotXy1GWjF6UXN1VjF1Rk9iZzhvOGFUelBfWnRYaThKOXM1d1J3ZHdTSWQ2UXgzTlZtWnI2TF9LQVowaUNSeDN6Tk13Wm5vZWlCWDBxVGZkSTJNQjRfcUR0b2xXdTJ3YkFRbUNhdUpGY1E?oc=5
+- PM Modi Speaks To Iran President, Stresses Need For Secure Shipping Lanes - NDTV
+  PM Modi Speaks To Iran President, Stresses
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2psU25lNGVOS0NZc3A5THY0T25MenYwUlZQSU5fM2hSQk9CN3lnbGRNcXE4dTJXaTFlWWo2OXAta2xNd2FHOERCSVNEQUVlTWgwZTZnQ3VzeWVRUnoycU5vY3REeHRSV3k0TTNIUHpkaXY1T1VVWmxRNm5PWlh6TlBoSDlzcWx1ZlFUVkxITG1INXBQYmNiTGUwUDB5OHRocExkUDBPTm51Z03SAbMBQVVfeXFMT1ZUOW9yM25ZRjNXbWtvNFUtdVFtSHVsdXJiemw1SFc0bGR3cFV1cmlfU3hOMzloNUgtZUxDeVptWDN5WTBRdjR3X2Z6QldUaGlBZEhvVkJXZ3pmYmxQX3VwaU1sck05RUtieHI4aFZCdmJ2Y1VRc0FZVWI3X19TdS01SG1UQmU4d3NkMXNCTXI5cGdZMHlXQlZzSGJGWkR4RzI1dkl2cEFPMkNIZXF4clVhX0E?oc=5
 
-- Air India, IndiGo, SpiceJet oppose government’s 60% free seat selection decision - The Hindu
-  Air India, IndiGo, SpiceJet oppose
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzZhTDdzVXJ4dDNWUEJQTmxOTm9kNHE1R3g0S2ppUFM2eklnNHFNS1JsZ2E1MWRscDVJOG9zLXZlWWhCZnhPR05WcGs5VmFvOHM3djlPc3lkb0ZweFl4eXlrbGZHaWZ4QnhaYm52cmlleklfRWg0Z3ZDbWV3NHAwb0JEbTU5NWVrMkhIZmRHbTBWTXJJelRnQ3ZOcXNwakU4Y1cyVlBhemVaUmVWazJQYUtCVzI0cEx1emhMZmlhT1V0YnFpZU5iVk5lOEFkd3VZ0gHXAUFVX3lxTE1iLVdrZ3NKT1FpeXdYQWFYN2s5c0Iwb3p5OXMzbHd3dHM0NmN5Zk1oSGd3T0ZlQUFmd05UalZtQ1Q2MjREbDJmYmVHM2lqV0pCQWFSOVE0a0NWZ1haR0UtUjNHX3hsakl5SGhPQVRzeUxmUmZuTjdILUtlMTJwSzljMHppSHlSeERjTjFaMVBwTFh0QkxWSG5YWFNLZWJjWW1TRDhFc3dJQlZYbzFaaFl0a0dwOWlWVGtXRWw2RlZ3UElvSUtLcFB6aGRhdlZOTjZpOXFUNlNz?oc=5
+- The people who make Delhi walk - The Times of India
+  The people who make Delhi walk.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2VmakpvWUp5b1MybFpjR2kzeGNwTGRKRTVBTHBjX1plMmV5S3ZlZ3FSeDZBcGo2T3c4RWptTUJMOTliQ3N4OUZqeW5aVTZ0b1p2MlZNb3dlS3U1eVJQb3pfZGwzRGt2MUg2a3pvSUd5OWUtSGp2MERsQU0wVWY3QWxoQ20yalJaaEZRWXBQWU5KMFU1MUVmMnBQSFVURi0wZGhXV0ZB?oc=5
+
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
+
+- Indian Refiners Look To Buy Iranian Oil As US Waives Sanctions: Report - NDTV
+  Indian Refiners Look To Buy Iranian Oil As US
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNpNWp5MmdpanZFZno1YTRldGQyOENUMnhjN3NTU2tRZEhkV1dON2l5Y0dLdlotMktmNFlmc0hRbTBqTXNleVlLWUNvaGZQRWlHSXQ5dEV6UVFoWEMyQzhWNE5OTDdUWmkxUW00M3dYaTVSRFN5TVlEZ3dFZktXWWRodVdtRFRuRTB1Vm9KYzdGR0JtcVFuVFd0VXoxdVFlaVhYQzkyRXdVdEdkbDF0OVg3dU1xYkc1ZkJv0gHDAUFVX3lxTE9WajM0UEVCZDU0eVdUN3F5aUlURDg3M1Q3LVhmaTJuV2thRExsc2oxSnFWbDJDTE5pYU9tbTljel9oNHoxMVVleDdwM0I5aHB3OXhhWlRWNE04ZWoxbzFPNkU0bjFwRS1FTXdmMkpEOVNMZ3NtZm1LWjYzM1BLYmxSWlFvMUVpUjhBS2dRb0Y3dUlHYmhmZi03Z0UwcGxoUGNiWHo5eXBOMmp2bEVEN3BlYjM2SjM0cS1kZmxJXzNmN2ludw?oc=5
+
+- Iran war: Gas shortage risks pushing India towards polluting fuels - BBC
+  Iran war: Gas shortage risks pushing India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fakRMaFozeDNwUEN1QlZrVGdHVzdZQXd4Y0JyWUw4ajZZU1dJYUJnNllDd09KM3BuZWppdVRWOWZFbmF3MTV0c0o5WjFOWEFGLVpMM2ZoTGFFUQ?oc=5
+
+- PM Modi Speaks To Iran President, Stresses Need For Secure Shipping Lanes - NDTV
+  PM Modi Speaks To Iran President, Stresses
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2psU25lNGVOS0NZc3A5THY0T25MenYwUlZQSU5fM2hSQk9CN3lnbGRNcXE4dTJXaTFlWWo2OXAta2xNd2FHOERCSVNEQUVlTWgwZTZnQ3VzeWVRUnoycU5vY3REeHRSV3k0TTNIUHpkaXY1T1VVWmxRNm5PWlh6TlBoSDlzcWx1ZlFUVkxITG1INXBQYmNiTGUwUDB5OHRocExkUDBPTm51Z03SAbMBQVVfeXFMT1ZUOW9yM25ZRjNXbWtvNFUtdVFtSHVsdXJiemw1SFc0bGR3cFV1cmlfU3hOMzloNUgtZUxDeVptWDN5WTBRdjR3X2Z6QldUaGlBZEhvVkJXZ3pmYmxQX3VwaU1sck05RUtieHI4aFZCdmJ2Y1VRc0FZVWI3X19TdS01SG1UQmU4d3NkMXNCTXI5cGdZMHlXQlZzSGJGWkR4RzI1dkl2cEFPMkNIZXF4clVhX0E?oc=5
+
+- The people who make Delhi walk - The Times of India
+  The people who make Delhi walk.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2VmakpvWUp5b1MybFpjR2kzeGNwTGRKRTVBTHBjX1plMmV5S3ZlZ3FSeDZBcGo2T3c4RWptTUJMOTliQ3N4OUZqeW5aVTZ0b1p2MlZNb3dlS3U1eVJQb3pfZGwzRGt2MUg2a3pvSUd5OWUtSGp2MERsQU0wVWY3QWxoQ20yalJaaEZRWXBQWU5KMFU1MUVmMnBQSFVURi0wZGhXV0ZB?oc=5
+
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
+
+- Indian Refiners Look To Buy Iranian Oil As US Waives Sanctions: Report - NDTV
+  Indian Refiners Look To Buy Iranian Oil As US
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNpNWp5MmdpanZFZno1YTRldGQyOENUMnhjN3NTU2tRZEhkV1dON2l5Y0dLdlotMktmNFlmc0hRbTBqTXNleVlLWUNvaGZQRWlHSXQ5dEV6UVFoWEMyQzhWNE5OTDdUWmkxUW00M3dYaTVSRFN5TVlEZ3dFZktXWWRodVdtRFRuRTB1Vm9KYzdGR0JtcVFuVFd0VXoxdVFlaVhYQzkyRXdVdEdkbDF0OVg3dU1xYkc1ZkJv0gHDAUFVX3lxTE9WajM0UEVCZDU0eVdUN3F5aUlURDg3M1Q3LVhmaTJuV2thRExsc2oxSnFWbDJDTE5pYU9tbTljel9oNHoxMVVleDdwM0I5aHB3OXhhWlRWNE04ZWoxbzFPNkU0bjFwRS1FTXdmMkpEOVNMZ3NtZm1LWjYzM1BLYmxSWlFvMUVpUjhBS2dRb0Y3dUlHYmhmZi03Z0UwcGxoUGNiWHo5eXBOMmp2bEVEN3BlYjM2SjM0cS1kZmxJXzNmN2ludw?oc=5
+
+- Iran war: Gas shortage risks pushing India towards polluting fuels - BBC
+  Iran war: Gas shortage risks pushing India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fakRMaFozeDNwUEN1QlZrVGdHVzdZQXd4Y0JyWUw4ajZZU1dJYUJnNllDd09KM3BuZWppdVRWOWZFbmF3MTV0c0o5WjFOWEFGLVpMM2ZoTGFFUQ?oc=5
+
+- PM Modi Speaks To Iran President, Stresses Need For Secure Shipping Lanes - NDTV
+  PM Modi Speaks To Iran President, Stresses
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2psU25lNGVOS0NZc3A5THY0T25MenYwUlZQSU5fM2hSQk9CN3lnbGRNcXE4dTJXaTFlWWo2OXAta2xNd2FHOERCSVNEQUVlTWgwZTZnQ3VzeWVRUnoycU5vY3REeHRSV3k0TTNIUHpkaXY1T1VVWmxRNm5PWlh6TlBoSDlzcWx1ZlFUVkxITG1INXBQYmNiTGUwUDB5OHRocExkUDBPTm51Z03SAbMBQVVfeXFMT1ZUOW9yM25ZRjNXbWtvNFUtdVFtSHVsdXJiemw1SFc0bGR3cFV1cmlfU3hOMzloNUgtZUxDeVptWDN5WTBRdjR3X2Z6QldUaGlBZEhvVkJXZ3pmYmxQX3VwaU1sck05RUtieHI4aFZCdmJ2Y1VRc0FZVWI3X19TdS01SG1UQmU4d3NkMXNCTXI5cGdZMHlXQlZzSGJGWkR4RzI1dkl2cEFPMkNIZXF4clVhX0E?oc=5
+
+- The people who make Delhi walk - The Times of India
+  The people who make Delhi walk.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2VmakpvWUp5b1MybFpjR2kzeGNwTGRKRTVBTHBjX1plMmV5S3ZlZ3FSeDZBcGo2T3c4RWptTUJMOTliQ3N4OUZqeW5aVTZ0b1p2MlZNb3dlS3U1eVJQb3pfZGwzRGt2MUg2a3pvSUd5OWUtSGp2MERsQU0wVWY3QWxoQ20yalJaaEZRWXBQWU5KMFU1MUVmMnBQSFVURi0wZGhXV0ZB?oc=5
+
+- A 1,000-Km Rain Band Is Bringing Storms In India, Pakistan, Afghanistan - NDTV
+  A 1,000-Km Rain Band
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXhRSHpBWlV0RnFCZHNvNExjalNvQVZLdHc1MTZTczhJY0JlUmlLQkN4eXAtQlNWNHVmVWhhZ1Z5LTRWejJ1Y1Exc3k0YXJLZGFueEdqU2lLcXFJNzBSdVIxU1hGNlBqY2NPdTE2Nm5kS2dMbHF1STdvdkxlMXZCMUxsLU5uVFhiNUNSS1hzNEhGYWc1cVItRE9iNWdVZGdfZnhIdm1QRXBudU5jS1AtaDQwU0hacDVSUi0zUGFkXzNLOEJSQnJLdGZYRW9LVnh2REdjUmdoLXBYRXZT0gHkAUFVX3lxTE9aM2hTRjNOYTdEbVZHR3hpcjl0TlBPd1pLZHVXWjZnRkJCODdjdW9QTVF0Q0JRTHNES0FZYWZBVEtxSEhrSEhNR0dBWjhOQUhLQ0VkWG1YWGRRd3U3MEVYRng2RVlNdDA2Zkc0QjhwNHNidmFKb29TTGNqX2RjeXI5LTZSV2JqMUlWc3c4NGhTMzdYTkEtOTJ0VTJyd0l4M0FXZHVqRktCcnM5ck1DZ2RmNWRzNWp3UlktYmNjRmVuOHozZk9WQUwxemRUUWRoMWhqbmdoOWJZa18wYVhNcXU1N3A4bA?oc=5
+
+- Indian Refiners Look To Buy Iranian Oil As US Waives Sanctions: Report - NDTV
+  Indian Refiners Look To Buy Iranian Oil As US
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjNpNWp5MmdpanZFZno1YTRldGQyOENUMnhjN3NTU2tRZEhkV1dON2l5Y0dLdlotMktmNFlmc0hRbTBqTXNleVlLWUNvaGZQRWlHSXQ5dEV6UVFoWEMyQzhWNE5OTDdUWmkxUW00M3dYaTVSRFN5TVlEZ3dFZktXWWRodVdtRFRuRTB1Vm9KYzdGR0JtcVFuVFd0VXoxdVFlaVhYQzkyRXdVdEdkbDF0OVg3dU1xYkc1ZkJv0gHDAUFVX3lxTE9WajM0UEVCZDU0eVdUN3F5aUlURDg3M1Q3LVhmaTJuV2thRExsc2oxSnFWbDJDTE5pYU9tbTljel9oNHoxMVVleDdwM0I5aHB3OXhhWlRWNE04ZWoxbzFPNkU0bjFwRS1FTXdmMkpEOVNMZ3NtZm1LWjYzM1BLYmxSWlFvMUVpUjhBS2dRb0Y3dUlHYmhmZi03Z0UwcGxoUGNiWHo5eXBOMmp2bEVEN3BlYjM2SjM0cS1kZmxJXzNmN2ludw?oc=5
+
+- Iran war: Gas shortage risks pushing India towards polluting fuels - BBC
+  Iran war: Gas shortage risks pushing India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fakRMaFozeDNwUEN1QlZrVGdHVzdZQXd4Y0JyWUw4ajZZU1dJYUJnNllDd09KM3BuZWppdVRWOWZFbmF3MTV0c0o5WjFOWEFGLVpMM2ZoTGFFUQ?oc=5
+
+- PM Modi Speaks To Iran President, Stresses Need For Secure Shipping Lanes - NDTV
+  PM Modi Speaks To Iran President, Stresses
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2psU25lNGVOS0NZc3A5THY0T25MenYwUlZQSU5fM2hSQk9CN3lnbGRNcXE4dTJXaTFlWWo2OXAta2xNd2FHOERCSVNEQUVlTWgwZTZnQ3VzeWVRUnoycU5vY3REeHRSV3k0TTNIUHpkaXY1T1VVWmxRNm5PWlh6TlBoSDlzcWx1ZlFUVkxITG1INXBQYmNiTGUwUDB5OHRocExkUDBPTm51Z03SAbMBQVVfeXFMT1ZUOW9yM25ZRjNXbWtvNFUtdVFtSHVsdXJiemw1SFc0bGR3cFV1cmlfU3hOMzloNUgtZUxDeVptWDN5WTBRdjR3X2Z6QldUaGlBZEhvVkJXZ3pmYmxQX3VwaU1sck05RUtieHI4aFZCdmJ2Y1VRc0FZVWI3X19TdS01SG1UQmU4d3NkMXNCTXI5cGdZMHlXQlZzSGJGWkR4RzI1dkl2cEFPMkNIZXF4clVhX0E?oc=5
+
+- The people who make Delhi walk - The Times of India
+  The people who make Delhi walk.
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2VmakpvWUp5b1MybFpjR2kzeGNwTGRKRTVBTHBjX1plMmV5S3ZlZ3FSeDZBcGo2T3c4RWptTUJMOTliQ3N4OUZqeW5aVTZ0b1p2MlZNb3dlS3U1eVJQb3pfZGwzRGt2MUg2a3pvSUd5OWUtSGp2MERsQU0wVWY3QWxoQ20yalJaaEZRWXBQWU5KMFU1MUVmMnBQSFVURi0wZGhXV0ZB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Amazon, Meta, Google and Microsoft's 'AI problem' reaches China as two biggest Chinese technology compani - The Times of India
+  Amazon, Meta, Google and Microsoft's 'AI problem' reaches China as two
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdzBPSDhtSENpTnZ1Zm5jTjFGLVJGQ1o5M0ZPWDhJVjY1WE5hajZKX2xrTDNLNnVGd3c0MC1ZUUJJU3VUM3NkLUdNWFBmVE83QjdQOGxtdkxtSENqckVkOGw3b1NtMWwwUVd5cHZaNnhVTm1CeHFNbHRVenJQc1lZZ0NkZVlkMXFibFMxd3BPVmwxVzJkVWE1NnNSTTNjNDZINjE0SEJsdFB1eXpVdlJhb2lNMVlkTnZhWDdhZ1FmTUJRS3RRbmlpYXF3MnFGZmxUQ285SWl6ZTBQMVB0TFdoamlmVzJwbHlUVmpWWUp1YTdQNWpUY0Y0eEVqT2Y2enVHY2Y1ejMweW4xTWFUeFZEYUxuVTN5MW43dnB2WUg3U2NwYkhoY1NkeURldnRqS1Z6NHhBNEgtNmZCaGNBcVdFYnBn0gHHAkFVX3lxTE04aTlzeG43NnYycDJ3X0cyOWt6bGlfOEstYkFnN2JUYTF0Y0ZyV1RscmdoSW1DLWtNZEtTZlZ1WWYtamJKQzg0YUI4UEhuUG85SVRNSmVNWDhLaTE0eXdhTksyQzYzUkVQdGZ5Q2hFT1lXOXE1NEtCR2lLVjZlXzQ0TkNsNWthckxlMXlqVVhhTXBTUGVxN3BmYTB4a0hPWm9MSDBlU21QSmlGRUdpb3BDRmpOdjdnekdxczhRRG51M2h5TnNxQUJvcERjdnQ2ZlhPRm1tVTBUT3EzVXF3VVEzVXVtR2lVMFFVTUowZzNCbHdVMkhvNktqemFjUENGd1JuaXJ2NnZnVlZRWUdzWjd0YVlYSVp4S1d2NGh6V3dINFNWcC01RzlCWk1va1VtMkNha1hBcjM2UEZmZ1RmM2tKM3NjbFp3RQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Wimbledon to introduce video review technology - The Hindu
+  Wimbledon to introduce
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTFQU3RhWkNsUW5sSGVuTjlNSjU2cUFtRkJoLXM4SFVHWWtiZ3Noa0lOYUZEbHQydXdoQlViMGpRb1AyUjlhbUgwWC1FZ09GWmItMFRQa0IyZDlWbkR0UVh5MlNJcjZuNUZ5NEFFcFBWMklSWWtrdEduRGg1SlZVeVZmeXFxUEJKbzlhdHJjQkhEMnM3TTNMTkJCVUVMeUNIWTlweGRDa9IBrgFBVV95cUxNQkd1ZGtkRzRyOHk1MVBWc0VTWFFERGlUN2JJeFJScjMxUzVINE1DVlNQV0FLMkF2ME9zaHdYbXBESnk0QjhNTXpLN0R6QVFYaXNEaVZWLWdlbXhJdlZfS09rTWN5X3ZncFl5ZGQxVS1LanFIeE9XeDVrYlA5ZmxlMzdjMEpnR0hNbU9nbDdfUDU5OE8wNUFTWlhpM1d6NnRpSmFEanBJdS1VM3piZnc?oc=5
+
+- OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review
+  OpenAI is throwing everything into building a fully automated
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5
+
+- From dating to health: How technology has ruined our lives - India Today
+  India Today: From dating to health, how
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXpQaWlWWURRTmhuR3RKbHMtT2tFOVpLZExNWDVVb2otM2twWDB6SG0yQ2tXbWdMUUM0d3JTSUxPOGJFZy0wYkpDeGlsejdITUstREhubTktSjhxbUN0RG5oUmJVWUNuZG9LOWlRQndPTFBqb3Q3ZzZ4azI3T3V2VnNQWGVaLUNkdkZFdUNRMjgyUjluZW41bUVydzBGNUFLM3pwUTFRT19NaTdoeGpIa3JLOXBieXUyRkpMcENpNmp4eTkxT1NFZ29nZC1YbWVYNWdvaGVuRdIB3AFBVV95cUxNVlI1c3lGRm45b2tSNWpQTlhFYXczUW1VNUVrNG9NTHFlVHc5bzVPa2R5Zll1VGpSR0ZCUWhiQUotejE3dWx5TDBmNWIwb282bnp3cHBlMTdtVF9KRC1mY0FaVzJSUWJlZkdVcm1fVWxrSFJKUWplWmVUWlJVUG9mM3VtZ0FaRTZBMEFRcmt3eVBDSmtfclVFbjRTYU9kYUdwZnhrcDNsUTVLOE5lQ3Z2dmpVQ0V1UG01ZUZENTVoMnVmQm9JMk9IdVE0blhjbDc0cFU5V085bU1UVG9W?oc=5
+
+- The push to end animal testing is gaining steam, but technology can’t fill the gap yet - CNN
+  The push to end animal testing is gaining steam, but technology can�
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE0zVFI1OTRiRFI5RV91Nl8tbk5JMDVhczhETFdiRTNjZV9TQWlDVWk3dWJqWC1uYTNZQVRTLWRwdkdQcldObERSRUlCV2xWc0g0N053N29EdWhxYmp5M0ZtRndMLWhDZkdScms5UkZ0YVE1Z3BBcWxDdmhjOA?oc=5
 
 
-_Last updated: 2026-03-21 06:41:04 UTC_
+_Last updated: 2026-03-21 12:41:51 UTC_
