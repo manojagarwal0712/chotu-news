@@ -1,5 +1,9 @@
 # 📰 Daily News Summaries
 
+- ‘We wouldn’t have agreed if Biren was in power’: Kuki-Zo leaders come to the table as new Manipur CM extends olive branch
+  
+  🔗 https://indianexpress.com/article/india/kuki-zo-leaders-come-to-the-table-as-new-manipur-cm-extends-olive-branch-10594984/
+
 - The private CCTV that helped Jammu police catch ‘Badaa Prince’ and gang sabotaging city surveillance
   
   🔗 https://indianexpress.com/article/india/jammu-cctv-clue-cracks-gang-behind-smart-city-signal-surveillance-disruptions-10594561/
@@ -16,9 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/exclusive-eight-indians-one-war-a-long-way-home-survivors-of-the-skylight-missile-attack-speak-on-life-after-the-fire-10594612/
 
-- PM Modi speaks with Iran President, flags attacks on energy infra, shipping lanes
+- Sorry, Mom. You’re chatting with an AI agent, not your son.
   
-  🔗 https://indianexpress.com/article/india/pm-modi-speaks-with-iran-president-flags-attacks-on-energy-infra-shipping-lanes-10594596/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sorry-mom-youre-chatting-with-an-ai-agent-not-your-son-10594916/
+
+- OpenAI to nearly double workforce to 8,000 by end-2026: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-to-nearly-double-workforce-to-8000-by-end-2026-report-10594910/
+
+- Pinterest CEO calls for ban on social media for youth under 16
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/pinterest-ceo-calls-for-ban-on-social-media-for-youth-under-16-10594888/
 
 - ‘Not quite a gas planet’: Magma ocean world discovered 35 light-years from Earth
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/science/plot-twist-in-1066-that-epic-march-to-hastings-may-be-a-mythhistorians-challenge-the-legendary-march-to-hastings-10594189/
 
-- Samsung may not be giving up on the triple-fold: A thinner, tougher Galaxy Z TriFold 2 may make an appearance next year
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-z-trifold-2-galaxy-z-slide-rumours-leaks-launch-timeline-10594106/
+- Vedanta moves NCLAT against Adani’s Jaiprakash Associates takeover
+  The NCLT had on 17 March approved Adani Enterprises’ resolution
+  🔗 https://www.livemint.com/companies/news/vedanta-nclat-adani-enterprises-jaiprakash-associates-resolution-11774152634823.html
 
-- Jupiter and Saturn gain more moons: Solar system count rises to 442
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/jupiter-and-saturn-gain-more-moons-solar-system-count-rises-to-442-10594184/
-
-- I tested the Galaxy Buds 4 Pro: Samsung finally made the AirPods Pro-level wireless earbuds for Android users
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/amsung-galaxy-buds-4-pro-review-10594148/
+- OpenAI co-founder says he is in a ‘state of psychosis’ — Here's why Andrej Karpathy is nervous about the future
+  Andrej Karpathy was writing just 20% of his code with 80% delegated to an agent. He noticed how much of a change his life has undergone.
+  🔗 https://www.livemint.com/companies/people/openai-co-founder-says-he-is-in-a-state-of-psychosis-heres-why-andrej-karpathy-is-nervous-about-the-future-11774150464496.html
 
 - Built on subscriptions, tested by AI: Inside Shantanu Narayen’s Adobe legacy
   Shantanu Narayen's subscription gamble paid
@@ -52,201 +60,85 @@
   OpenAI's latest funding round valued it at $840 billion. Big Tech and Mas
   🔗 https://www.livemint.com/companies/news/ai-boom-openai-set-to-double-its-team-by-end-of-2026-new-hires-to-be-deployed-across-these-fields-report-11774006631282.html
 
-- Elon Musk misled investors before buying Twitter in 2022, finds US jury — $2.6 billion coming for shareholders?
-  Lawyers for the plaintiff estimated a $2.6 billion payout in damages. The class-action lawsuit was filed just before Elon Musk took control
-  🔗 https://www.livemint.com/companies/news/elon-musk-misled-investors-before-buying-twitter-in-2022-finds-us-jury-2-6-billion-coming-for-shareholders-11774055141824.html
+- Mcap of five of top-10 most valued firms erodes by  ₹1 lakh cr; HDFC Bank biggest laggard
+  The market valuation of five top firms fell by  ₹1 lakh crore last week, with HDFC Bank suffering the most. Reliance Industries, however, saw a significant increase
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-five-of-top-10-most-valued-firms-erodes-by-rs-1-lakh-cr-hdfc-bank-biggest-laggard-11774156641414.html
 
-- Great Eastern Shipping gains as charter rates double due to war in West Asia
-  The shipping firm is using high spot-market exposure to capitalize on increased global charter rates fuelled by the West Asia war. Its strategic fleet positioning and successful navigation of blockaded waters have driven
-  🔗 https://www.livemint.com/companies/great-eastern-shipping-gains-as-charter-rates-double-due-to-war-in-west-asia-vessels-fuel-oil-11773994135861.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 23 March 2026
+  The Indian stock market has seen massive volatility this month on the back of US-Iran war and a cascading impact on oil, gas and fuel supply. Check Sumeet Bagadia's outlook for the market in the coming with,
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-23-march-2026-11774152428576.html
 
-- 30% YTD return! Healthcare stock to be in focus on Monday - Here's why
-  In December 2025, Park Medi World revealed an all-cash agreement worth  ₹245 crore to
-  🔗 https://www.livemint.com/market/stock-market-news/30-ytd-return-healthcare-stock-to-be-in-focus-on-monday-heres-why-11774087937285.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 23 March 2026
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-23-march-2026-11774150230507.html
 
-- What does Donald Trump's hint to wind down the US-Iran war mean for India's stock market, gold and silver rates?
-  President Trump hinted at winding down efforts in Iran, causing a rebound in the US stock market.
-  🔗 https://www.livemint.com/market/stock-market-news/what-does-donald-trumps-hint-to-wind-down-the-us-iran-war-mean-for-indias-stock-market-gold-and-silver-rates-11774079373555.html
+- Gold, silver rate today: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver on 22 March
+  MCX gold price closed slightly lower at  ₹1,44,825 on Friday, following which trading was halted for the weekend. Meanwhile
+  🔗 https://www.livemint.com/market/commodities/gold-silver-price-today-in-delhi-mumbai-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-21-march-11774145865999.html
 
-- Why is oil and gas PSU stock ONGC the lone star amid the US-Iran war? Explained
-   ONGC share price has shown resilience amid the US-Iran war, shedding
-  🔗 https://www.livemint.com/market/stock-market-news/why-is-oil-and-gas-psu-stock-ongc-the-lone-star-amid-the-us-iran-war-explained-11774074662291.html
+- Amir Chand Jagdish Kumar IPO to open on Tuesday: 10 key things to know from RHP
+  Amir Chand Jagdish Kumar IPO will open for public subscription on Tuesday, March 24, and will remain open until Friday, March 27. IPO price band has been fixed
+  🔗 https://www.livemint.com/market/ipo/amir-chand-jagdish-kumar-ipo-to-open-on-tuesday-10-key-things-to-know-from-rhp-11774145041681.html
 
-- India also has a 'Strait of Hormuz' to counter China's border aggression
-  The Iranian government uses the Strait of
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-news-india-china-news-india-also-has-a-strait-of-hormuz-to-counter-chinas-border-aggression-11774069456643.html
+- What is Vibe Coding? Who coined the word? Why are Sundar Pichai, Sridhar Vembu debating over it?
+  Vibe coding has taken over tech leaders ranging from Google CEO Sundar Pichai to Zoho founder Sridhar Vembu.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-vibe-coding-who-coined-the-word-why-are-sundar-pichai-sridhar-vembu-debating-over-it-11774155356948.html
 
-- While everyone sells, smart investors are buying
-  Value investing can turn market volatility
-  🔗 https://www.livemint.com/market/stock-market-news/while-everyone-sells-smart-investors-are-buying-11774068309751.html
+- GTA 6 release date, price in India, map, characters, storyline and all you need to know
+  GTA VI is set to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S. The game could have a potential PC release the
+  🔗 https://www.livemint.com/technology/tech-news/gta-6-release-date-price-in-india-map-characters-storyline-and-all-you-need-to-know-11774150463019.html
+
+- WhatsApp could soon add a feature that auto-deletes messages within 15 minutes: here's how it works
+  WhatsApp is reportedly developing a privacy upgrade for its disappearing messages feature. It could allow users to set a timer
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-could-soon-add-a-feature-that-auto-deletes-messages-within-15-minutes-heres-how-it-works-11774141545458.html
+
+- Samsung Galaxy A37, A57 confirmed to launch in India on 25 March: Expected price, specs and more
+  Samsung's Galaxy A37 and Galaxy A57 are all set to debut in India on 25 March. The two phones are likely to be powered by the Exynos
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a37-a57-confirmed-to-launch-in-india-on-25-march-expected-price-specs-and-more-11774143600987.html
 
 - Is PlayStation still down? What does Status page say about ‘issues’ on Gaming &amp; Social services
   Sony reports services restored, but some users continue to experience issues with
   🔗 https://www.livemint.com/technology/is-playstation-still-down-sony-confirms-psn-gaming-and-social-issues-resolved-after-global-outage-ps5-psn-down-11774136107656.html
 
-- ‘Out of ideas’: Nvidia CEO Jensen Huang dismisses AI job loss fears, blames recent layoffs on lack of ‘imagination’
-  Nvidia CEO Jensen Huang criticized companies laying off workers due to AI, asserting that they lack imagination. He also went on to dismiss
-  🔗 https://www.livemint.com/technology/tech-news/out-of-ideas-nvidia-ceo-jensen-huang-dismisses-ai-job-loss-fears-blames-recent-layoffs-on-lack-of-imagination-11773995361646.html
+- Foreign investors dump Rs 88,000 crore in March; 2026 outflows cross Rs 1 lakh crore
+  Foreign investors have pulled out Rs 88,180 crore (about USD 9.6 billion) from Indian equities so far this month. Concerns over the impact of elevated crude oil prices on India's growth
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-dump-rs-88000-crore-in-machr-2026-outflows-cross-rs-1-lakh-crore/articleshow/129729235.cms
 
-- OnePlus Nord 6 design, full specifications leaked ahead of launch: here's what to expect
-  The Nord 6 could feature a 6.78-inch AMOLED display, Snapdragon 8s Gen 4 processor and a dual camera setup with a 50MP primary lens.
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-design-full-specifications-leaked-ahead-of-launch-heres-what-to-expect-11773997802081.html
+- UTI AMC CEO says safety margin in smallcaps limited, backs financials and manufacturing
+  UTI Asset Management Company CEO Vetri Subramaniam warns of limited margin of safety in small caps despite corrections. He favours financials, manufacturing and capital goods
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/uti-amc-ceo-says-safety-margin-in-smallcaps-limited-backs-financials-and-manufacturing/articleshow/129728750.cms
 
-- A single smartphone notification hijacks your focus for 7 seconds, new study finds
-  A single social media notification can disrupt cognitive processing for about 7 seconds. The research indicates that the frequency of notifications, not just screen time, significantly impacts attention
-  🔗 https://www.livemint.com/technology/tech-news/a-single-smartphone-notification-hijacks-your-focus-for-7-seconds-new-study-finds-11773989849380.html
+- Mcap of five of top-10 most valued firms erodes by Rs 1 lakh cr; HDFC Bank biggest laggard
+  The combined market valuation of five of the top-10 most-valued firms eroded by Rs 1 lakh crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-five-of-top-10-most-valued-firms-erodes-by-rs-1-lakh-cr-hdfc-bank-biggest-laggard/articleshow/129728609.cms
 
-- Want to sideload apps on Android? Google now requires Developer Mode and a 24-hour wait for installing unverified apps
-  Google has revised its sideloading rules for Android. New process requires users to enable developer mode and a verification check to prevent coercion from scammers.
-  🔗 https://www.livemint.com/technology/tech-news/want-to-sideload-apps-on-android-google-now-requires-developer-mode-and-a-24-hour-wait-for-installing-unverified-apps-11773987717313.html
+- From Turbulence to Stability: Pat Dorsey’s timeless guide to picking winning stocks
+   moat investing focuses on companies with durable advantages. Key moat sources include intangible assets, switching costs, network effects, and cost leadership.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/from-turbulence-to-stability-pat-dorseys-timeless-guide-to-picking-winning-stocks/articleshow/129728392.cms
 
-- US stock markets dip for fourth straight week over US-Israel war on Iran - The Guardian
-  US stock markets dip for fourth straight week over US-Israel
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaXRWV3lEWk5xYkxpRjNfYmtvS3hxZThLZlVWeHcteVd6UkRQdldfNkdFUkVHZmtySE9abVU0Nlc3ZVVaQlktd0FmU09zVkFuZUNUX0ZZaDU2dWxRMHNPa29VeUNoRmdWNlMtZl9heHBXSk9jQWZYN0hKSHlQMjQ?oc=5
+- ​10 Sensex stocks with up to 60% upside potential - Are these in your portfolio?​
+  10 Sensex stocks stand out with projected gains of 30% to 60%, signaling solid return
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-sensex-stocks-with-up-to-60-upside-potential-are-these-in-your-portfolio/slideshow/129728178.cms
 
-- Stocks fall for a second day, but close off session lows as oil surge eases: Live updates - CNBC
-  Stocks fall for a second day, but close off session lows as oil
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9VRmtGbFBCdTBjZ1dycnhqRHUzX0RRYU85b1hMV1k4SkRoV2xvbE11TTlxeDZKZkhnWDd6WHlKblRKU1dsX1V0cEp6Z0lvTmk2TGhCbzljYmplOEYwbHhTRUFYN2RzLWRRTXU2MTVPSWVtdi1kWHVr0gF8QVVfeXFMTUkzUG90WC1SR0owMkFIMTBqQmttTlIwX19GRzRmZWtJY0tibzdTOXhoVzRGQTNST0NWYzhiV3hNTTZkcGFlTUthSmt1MXpXYTNkb0JlRVI4c2pGTUFSb0RSNkFFSHplT1dyTmwweENPWkliOGdGc2hkSGJBcw?oc=5
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures slip as Iran war rages on, investors di... - The Economic Times
-  The Economic Times reports on the latest developments in the Iran war.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOY25VX3Brby1XMW1HaXlDR1ZaRklVSjhHeFdqLVdnUk92bFFYVzNLYWRxM0VZUk8zZG1Xd0xfZkc4SFMzdjUyaVpVaUJjR251Mlk4ZkhodUtYaXlOTVNyT2ozLXV5WW5hS2pZdXdvbzJLRmtfb1dYSDZKRzB3VHBhcWsxSnplMXRSREsyaXpVcU9uN2hkcEdRalV6WWlWTTZjeGxOSlFiY3c2b0xyNmJxai1BWFZhT1UyNllDRDJic183TlI2b19NUmtTT0ZwNmkteTZGQ0FWSHdhLUZKemVTQ3NUOWNIeEp5RENiS0JMTXJwN1BJQTg0ZTVPNXRqYXRRTDhtb3JZbUh5MmJacG9ESlNaR3loR0hYTHJZWHpB0gGjAkFVX3lxTE12STdJUWNfak9IMjJMVnJRaUhxaDBydFBxeGZIRG5YRXZKUEZic0kyX0ZiY2xxNk90WVJwZnh6X1p4VjNfRkZxc2lob1Z1cW9OVjRoWlRTbEVIRXI1blFySEZSanUwTGNvMXlqd3JQaXJFdDNhZFlKVExDcjlOUTR1cmFrWVJZT3Z3X0JjNnc4NF9GRDBSM0dWQ1dZWGJ4X3RjTVA2TTl1dWk0YWZ0V2dPSnUwMWg5d0cwWXBlODdoaWE3UWFzMGwwR1hmZFc4b2pocThrbkg2MWVWQ1hDZUF0T1dEM0hPR2d0MGlxZmtlbC1jb2VBLXF6OEc4TjN0bDhZOFJHNkJzbkxEamRraERZaDRoTGlKZGpCaThxRTJXYUsyUQ?oc=5
-
-- Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled - MarketWatch
-  Financial markets are responding to the Iran conflict in unexpected ways. Some investors
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNEtJeG9FUFhOcGw5QUd1YWhQRXBCTWlQYTc5YXZYWUxmdmlVYzNtSkExRUo3VVRJS3l5U3RjWEF3NjVFLVVtVE1saThxMFU3ajA3dnpldk1fSENvNHlsclRpUlZOb2Y1Q2NZSDFuZmFDNGxrNTNQWS0ydWEtZmY3eXVIRFBfS2lUUnFkekhTZGtlM2pncUFZWDJwZm1fZ2xybmpvaW9yODY3OTdUcVB4SEVDbjljR1FCZ1RUd0NENUx4SzNJcXh0NDlGWWYzdGNvRXp4WExjNWdDd2VtN3FJ?oc=5
-
-- Sell-on-rise market? SBI Securities sees Nifty under pressure, picks two stocks for the week ahead - Moneycontrol.com
-  SBI Securities sees Nifty under pressure, picks two stocks for
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemVhelVPQmdfTjRXc29XUGlKeVpUY3UyQ1VBOVgxcGQ1T3NvNTVEV1FNZU9DYy1udmR0aWxhaElmWlg3SVNVOVZoY2ZpLTcxS0ZRUmFsM0ppMHJaUlJvRXJCWFgwOF9Kdlp4aDBleEtoN1hrOUZqT2tmUmd6VGpXUUJmVGJIR2EtdzI0eElpQXI4YnhGc0dzRm1YOTF1b05saDZUc3FCWkxYZ0RhcDNUcVByc1lWd2ZraDBaSVNtbEtFNUdvdnZvU1k1QTg4WHdhSHF3UDliV0RrNzNfVE13N0piMUgyY0tEV043cHRabmsyQk3SAfgBQVVfeXFMTWotX0s4Q2FvZlVBU0steVRYLUZYbXVfRXRDbVpDank1OHB3SHdiYktzNlc5ZEg0R044Q3VNMU44Z1E4TklHOXgxYU5FNjJ1U1ZrWk45ZnlfZFFGY2s1T212azRndGNNdUw5dzNaY0RlVUFidjBuckw2NGk2ZkhaeF9MTE5ER0xBWHFLYkd3X3YzeFdpVzV3aWk0ZGtUdDhkMThQdGxQMzNvUGZ4VldFVEs0VUpjaG95V0Vic3hIQmFJVm44MkYyQWE2ZXpnN1k0MHU5N01Eb1AtX0xoMDBaRU5OaUxIVjhTdlc1dkVFdGU1Um12R0hic00?oc=5
-
-- D-Street Week Ahead: Bearish outlook deepens as Nifty slips below key supports
-   Markets ended the week marginally lower, with the Nifty breaching key support levels. Rising volatility and oversold RSI indicate continued weakness. While some sectors like Energy and Pharma show relative strength.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-bearish-outlook-deepens-as-nifty-slips-below-key-supports/articleshow/129717122.cms
-
-- Abu Dhabi Investment Portfolio: 6 stocks surge up to 110% in FY26, 3 fresh Q3 picks
-  Abu Dhabi Investment Authority’s India portfolio rose 7% in FY26. Six stocks delivered gains of up to 110%. However, performance remained uneven as several holdings declined sharply.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/abu-dhabi-investment-portfolio-6-stocks-surge-up-to-110-in-fy26-3-fresh-q3-picks/slideshow/129717011.cms
-
-- F&amp;O Talk | Nifty grapples with dead cat bounce syndrome as pullbacks get sold. Sudeep Shah on Olectra, IDBI, 4 more stocks
-  Indian stock markets closed higher Friday, boosted by IT, auto, and metal sectors. Analysts express caution due to ongoing West Asian conflict, elevated oil prices, and persistent FII outflows. Nifty and Bank Nifty face resistance
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-grapples-with-dead-cat-bounce-syndrome-as-pullbacks-get-sold-sudeep-shah-on-olectra-idbi-4-more-stocks/articleshow/129716202.cms
-
-- India is right to act on offshore crypto platforms but it must also build a fairer market
-  A Financial Action Task Force report backs India’s concerns that the real risk in crypto lies in offshore, non-
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/india-is-right-to-act-on-offshore-crypto-platforms-but-it-must-also-build-a-fairer-market/articleshow/129715278.cms
-
-- Rupee on shaky ground, touches fresh low of 93.73
-  The Indian rupee experienced its sharpest single-day fall since late 2022, plummeting to a historic low of 93.73 against the dollar. Surging oil prices
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-on-shaky-ground-touches-fresh-low-of-93-73/articleshow/129715234.cms
+- 'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to p - The Times of India
+  'Did not initiate war': In call with PM Modi, Iran President Pezeshkian
+  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNQVkwM2F0eGpuLW8yajdpNE9ETldiZ2JHV3dDRjU4VDdPT2dfckR0c0phOExFZ25BRi1lLWQ2YUVxa1ZvTWpuczB4d0d2cy1fWGd3LV9sWm10TktUN1c1YjIxdlJRZ0VnUTVvUlVRTFNLLVpxLWFEVkxfZGFhMHBhZkR3eUxyTUFoN3hsSUd2aTI1NjMzUFZuQnk4THlqV3prLU4yTmdjbUpOdFo3cnRxUWtwSmlXSTg1VjNmWHJZLVlnWW1jcjNzOHNCeFpTVmx6cXNIYklGRUtOYjdWWmhsRHF6bHktaHdQQnRLZl9PVjd1VnN5V1VDS1JySHRSLS03QnhuMHJ4OUZmVFYyalVzcVgtRGhKUkVJU3BsdXNSMng0SHF1WHA40gGsAkFVX3lxTE1RY2I4S0Rvakd5cW5hWng0TTVUU1pkZDZ4ZUN0MEtPNlR1bmNrbGItVjJBTW9zU3ZkRmpFNFR6b3BxM1VtNm5obG1yTFN2ZzZhbjYzV0NncHFMYWtyUVVnakkwQmUxMlNES0V3cE9HaGkwYTYwZkptS0phWXBMalNNUWZlbVpSN0VIUEVmT3BUVGxZMWhxSGFyR2tzUkhndkZTeS0xVWlKMGNxZEVSSGVBRWpNU1NUN1VRZTQ2enFiaUZzcXk2OGtCOTZNZkVpa0EteEhjdXYwa2N0TFpRaWMycUNDbGViMHg1cjdNQk5PUVhRcnU2OTNnYTFGWDNmWmFxbXpXSGRvYVBOaW9nZ1pwRzMyekoxdzc1UE1hR2k0clBJaXVZbDdtNE5CSw?oc=5
 
 - US Seeking Nod To Use Indian Territory For Iran Strikes? A Fact-Check - NDTV
   US Seeking Nod To Use Indian Territory For Iran
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQl8xQnVYNW9aS3BEcGVlRUJsQWRYbUVFbkZFb3YteThHLVE3VkNkUkh1a1B5eFNaSGE3elJlMlJJc0RIUkVGSE1abmJldC14c1A4ZkwyMlhzNjZMdXpDTzZMTUUycHVvYXlBNWt3UHZtN2k3X2Q3aWJxR3BQNmxVMVNSMjVZdDdaZ1FoMmFYTjVENjZ4N3phTUJxcVkzdEE2RG5PQzNCY0ZkVjkwZ0HSAbYBQVVfeXFMTThkcWN3Sm1yWTJGNlBBOENPaWJMVjM3QnQxb1Z4d0Fsd0J2cmoybTMyMVBtTXRqbm9YMl9GSXdYOVltcWVXYlU4bXg2X2ZQdUlRRFlMb3B1T1lvREFLQmEyeEs0c2pGUDF2MW81TVJod1BaU3ZFVVhUTjZqMHQ0bGRvRkJxWkZ2T3JHQmM3eWtHVlFrckJQaURONWxoTWRhX2d3UWpSUFQ5Y2FCcDU0enFvRXhCdHc?oc=5
 
-- US planning to attack Iran from western India? MEA fact-checks viral claim | India News - Hindustan Times
-  The claim was made in the Hindustan Times. The claim was
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnhUbGUtaUVsSVZ5YVp2cnhMQTZpYzh2QkFSNHctaGtyS0w4aXpkR0Mzb0JMc0dTY1J6anU1QU9nbk0yVTNERlI5NkRJMFpIcVJPbmVMTU5xNVdRdzZLdkdPWEFqZ0VjYWh0blpuWGJudlBGenpfcDhCY19CZ0h2Uk5yREdwSUlBVFpsa2VYNGd3eTFybTJJQXl2WlFUb2RKWVNJd0xsTjJsRms5ZmhxRUd2U2F0ZGdCcmhfSDAzME1QRWlyTkZKM1FZX3VDblcy0gHWAUFVX3lxTE9TbmREbmNLUVoyOUFZRXg2cHFabEE4Z0VfOGZ3dWhvd1BRT2NJaVJ3aVJtNW5PbFA4eHVYREwzX05kdU1OTG4zMHVQVVg5RUU4bWdpUTA2dk56TWZiOUJrN1plbUtCMHhiWEltTkhTZFV4NlNYdGJoczhaTHBSbnd2T1AxOGU2OHVJYVJQbEYzYnZZWVpTd2JuRHYyb2pFNXpISUNqX0IteGo4YmJOY0x5WjJrbkVORTJPazF4ZEJ4R2diUDRHUmQ2ZHhkLW5VNW9lMGRrekE?oc=5
-
-- Ex-judges, diplomats flag bias in USCIRF religious freedom report - The Times of India
-  Ex-judges, diplomats flag bias in USC
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXZ0bF9OT2RWVTZOeU5vMXhqUXdZZGZBeVExUzF5c0xObThwT09ibHY1QlpuQlV1d2ZuTlQ0V1E5THVFZWlzUDlZc2dPRGpTSThMZDJKZV9aU3hLUjB3R25CVWVHdEkteHhaeDI2MDNyTHI2Z2RSdHFmZjR6UW1MZk01THZ2U3l4eldTcFhDdF85TlpzZ1Z3ZktGbFFxcU4xQTRsOW5peXVjMGVDcWtBdWZ3amNEQk5UbkhXR2tzMDNWTzdPNUpBWWdaZUbSAdIBQVVfeXFMTXVxNEVTT2w3MlZyWkxjNVl6dHYwVGFYdmctRmZGdThxZ0x4MUxZeko3TEhySXpvODhaRC14Slo4QTB3c0ZzcFk1U1k1WUlVZUd4ZldzMHN3LTNfZ3h0Mk1mbGhTbUl3X0tjbzJfX0hfaFRBLThQMHN1SWRaZExoNjZLYWczeTBEakV1OVo1alNIZTlzX0NGcE9zU2JyMl9INDVac1BDeWdCMW4zVTFIb3NHYkRDaWZ0dlQ0RVBSN3ZoR19TbncxUmJIa2VlTFdxdDRn?oc=5
+- US Ship Carrying LPG Reaches India Amid Middle East Crisis - NDTV
+  US Ship Carrying LPG Reaches
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOYU9TSWt3WGtUNEUxU3Q5a0hKakFVdnQ1TC1uQ3REV25ZMmEwTG0xODZzNUxyRHJYZTFaNlIyS19GT0VkUnYzSDlEV2NMLVRQc1BUeXJZdjFLZ0RWNURpcHR0NUxRbXNPZkRVNnR5RXVrbGRFdTJZVXFPT0VsVzBEZ2NrQ1ROdTFvWkZzcUk1M0hVQWhXZHF2Tk40aDFNQ2w4ME83azNXWHNfUFNX0gG0AUFVX3lxTE1UN29Lc3lPT3B1eGdXS2NpdWwyQUxyN3RLMUEwMTJmcHJOdnJZUmpnNHBRNzJ5bFJvSDdJSkc4WWd3RWwzdzJqVHk5Q0tWYTVRdk1jdHQyU3ctZFJwVVpnc2EyemU1UUJ1cHpUekhoRUNtNmJLMzF5WVFHMi1TXzFkR1F3all1VVdTcVg1aU53X09BVHNOTThpY0xSamFxV3l0WVQ1VDV1Yk1GS1BLdFloVDh5Qg?oc=5
 
 - BCCI Announces India Tour of Ireland for T20I Series - News On AIR
   BCCI Announces India Tour of Ireland for
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
 
-- 'Biggest infiltrator is PM': Mamata at Eid meet - The Times of India
-  'Biggest infiltrator is PM': Mam
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNGOWdlTi0xODlaODhkbVhCc29Hd2FlWV9xaG5PREJlSjdxZ0w1Ry12Q2NORFE0WmFocHl6cE43NmN3NWs5RGhWYU4zTmhGOUdFdW16NkxhWHB1Y0FDYW9FbUdDRDA3OFVkemdMdmdCQVpPMEF4c3BMNVI5aUtqVkJsTlEzZm50cVI2VElXdzFRZHl1R3BPSlptQW9JTm83ejNPMks5Q2phVXFaTjBKbUl30gG3AUFVX3lxTE1Ud3ZBODZVN28ydmZlSE5qcDFoLVc4T1dzUjB0c2xvX2VBdzNSalZMakd4dVBtTHVIQ2xMVkpBOVVseE5rcEZycnRGbjdUYzN3aF95dDMxVFR2Y2E0S1ZfRG5Yem5NYlVxaTU2RlloR3dlSGdma1pHeEZ4X0pOMlAzVlBpT2hXNmtKcklhZXdGemdhd0RqdDIxbHJaUEN1SnJPVUZ0azN6TXBxaVB0Y3VhcEhFSU9BOA?oc=5
-
-- US Seeking Nod To Use Indian Territory For Iran Strikes? A Fact-Check - NDTV
-  US Seeking Nod To Use Indian Territory For Iran
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQl8xQnVYNW9aS3BEcGVlRUJsQWRYbUVFbkZFb3YteThHLVE3VkNkUkh1a1B5eFNaSGE3elJlMlJJc0RIUkVGSE1abmJldC14c1A4ZkwyMlhzNjZMdXpDTzZMTUUycHVvYXlBNWt3UHZtN2k3X2Q3aWJxR3BQNmxVMVNSMjVZdDdaZ1FoMmFYTjVENjZ4N3phTUJxcVkzdEE2RG5PQzNCY0ZkVjkwZ0HSAbYBQVVfeXFMTThkcWN3Sm1yWTJGNlBBOENPaWJMVjM3QnQxb1Z4d0Fsd0J2cmoybTMyMVBtTXRqbm9YMl9GSXdYOVltcWVXYlU4bXg2X2ZQdUlRRFlMb3B1T1lvREFLQmEyeEs0c2pGUDF2MW81TVJod1BaU3ZFVVhUTjZqMHQ0bGRvRkJxWkZ2T3JHQmM3eWtHVlFrckJQaURONWxoTWRhX2d3UWpSUFQ5Y2FCcDU0enFvRXhCdHc?oc=5
-
-- US planning to attack Iran from western India? MEA fact-checks viral claim | India News - Hindustan Times
-  The claim was made in the Hindustan Times. The claim was
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnhUbGUtaUVsSVZ5YVp2cnhMQTZpYzh2QkFSNHctaGtyS0w4aXpkR0Mzb0JMc0dTY1J6anU1QU9nbk0yVTNERlI5NkRJMFpIcVJPbmVMTU5xNVdRdzZLdkdPWEFqZ0VjYWh0blpuWGJudlBGenpfcDhCY19CZ0h2Uk5yREdwSUlBVFpsa2VYNGd3eTFybTJJQXl2WlFUb2RKWVNJd0xsTjJsRms5ZmhxRUd2U2F0ZGdCcmhfSDAzME1QRWlyTkZKM1FZX3VDblcy0gHWAUFVX3lxTE9TbmREbmNLUVoyOUFZRXg2cHFabEE4Z0VfOGZ3dWhvd1BRT2NJaVJ3aVJtNW5PbFA4eHVYREwzX05kdU1OTG4zMHVQVVg5RUU4bWdpUTA2dk56TWZiOUJrN1plbUtCMHhiWEltTkhTZFV4NlNYdGJoczhaTHBSbnd2T1AxOGU2OHVJYVJQbEYzYnZZWVpTd2JuRHYyb2pFNXpISUNqX0IteGo4YmJOY0x5WjJrbkVORTJPazF4ZEJ4R2diUDRHUmQ2ZHhkLW5VNW9lMGRrekE?oc=5
-
-- Ex-judges, diplomats flag bias in USCIRF religious freedom report - The Times of India
-  Ex-judges, diplomats flag bias in USC
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXZ0bF9OT2RWVTZOeU5vMXhqUXdZZGZBeVExUzF5c0xObThwT09ibHY1QlpuQlV1d2ZuTlQ0V1E5THVFZWlzUDlZc2dPRGpTSThMZDJKZV9aU3hLUjB3R25CVWVHdEkteHhaeDI2MDNyTHI2Z2RSdHFmZjR6UW1MZk01THZ2U3l4eldTcFhDdF85TlpzZ1Z3ZktGbFFxcU4xQTRsOW5peXVjMGVDcWtBdWZ3amNEQk5UbkhXR2tzMDNWTzdPNUpBWWdaZUbSAdIBQVVfeXFMTXVxNEVTT2w3MlZyWkxjNVl6dHYwVGFYdmctRmZGdThxZ0x4MUxZeko3TEhySXpvODhaRC14Slo4QTB3c0ZzcFk1U1k1WUlVZUd4ZldzMHN3LTNfZ3h0Mk1mbGhTbUl3X0tjbzJfX0hfaFRBLThQMHN1SWRaZExoNjZLYWczeTBEakV1OVo1alNIZTlzX0NGcE9zU2JyMl9INDVac1BDeWdCMW4zVTFIb3NHYkRDaWZ0dlQ0RVBSN3ZoR19TbncxUmJIa2VlTFdxdDRn?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Biggest infiltrator is PM': Mamata at Eid meet - The Times of India
-  'Biggest infiltrator is PM': Mam
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNGOWdlTi0xODlaODhkbVhCc29Hd2FlWV9xaG5PREJlSjdxZ0w1Ry12Q2NORFE0WmFocHl6cE43NmN3NWs5RGhWYU4zTmhGOUdFdW16NkxhWHB1Y0FDYW9FbUdDRDA3OFVkemdMdmdCQVpPMEF4c3BMNVI5aUtqVkJsTlEzZm50cVI2VElXdzFRZHl1R3BPSlptQW9JTm83ejNPMks5Q2phVXFaTjBKbUl30gG3AUFVX3lxTE1Ud3ZBODZVN28ydmZlSE5qcDFoLVc4T1dzUjB0c2xvX2VBdzNSalZMakd4dVBtTHVIQ2xMVkpBOVVseE5rcEZycnRGbjdUYzN3aF95dDMxVFR2Y2E0S1ZfRG5Yem5NYlVxaTU2RlloR3dlSGdma1pHeEZ4X0pOMlAzVlBpT2hXNmtKcklhZXdGemdhd0RqdDIxbHJaUEN1SnJPVUZ0azN6TXBxaVB0Y3VhcEhFSU9BOA?oc=5
-
-- US Seeking Nod To Use Indian Territory For Iran Strikes? A Fact-Check - NDTV
-  US Seeking Nod To Use Indian Territory For Iran
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQl8xQnVYNW9aS3BEcGVlRUJsQWRYbUVFbkZFb3YteThHLVE3VkNkUkh1a1B5eFNaSGE3elJlMlJJc0RIUkVGSE1abmJldC14c1A4ZkwyMlhzNjZMdXpDTzZMTUUycHVvYXlBNWt3UHZtN2k3X2Q3aWJxR3BQNmxVMVNSMjVZdDdaZ1FoMmFYTjVENjZ4N3phTUJxcVkzdEE2RG5PQzNCY0ZkVjkwZ0HSAbYBQVVfeXFMTThkcWN3Sm1yWTJGNlBBOENPaWJMVjM3QnQxb1Z4d0Fsd0J2cmoybTMyMVBtTXRqbm9YMl9GSXdYOVltcWVXYlU4bXg2X2ZQdUlRRFlMb3B1T1lvREFLQmEyeEs0c2pGUDF2MW81TVJod1BaU3ZFVVhUTjZqMHQ0bGRvRkJxWkZ2T3JHQmM3eWtHVlFrckJQaURONWxoTWRhX2d3UWpSUFQ5Y2FCcDU0enFvRXhCdHc?oc=5
-
-- US planning to attack Iran from western India? MEA fact-checks viral claim | India News - Hindustan Times
-  The claim was made in the Hindustan Times. The claim was
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnhUbGUtaUVsSVZ5YVp2cnhMQTZpYzh2QkFSNHctaGtyS0w4aXpkR0Mzb0JMc0dTY1J6anU1QU9nbk0yVTNERlI5NkRJMFpIcVJPbmVMTU5xNVdRdzZLdkdPWEFqZ0VjYWh0blpuWGJudlBGenpfcDhCY19CZ0h2Uk5yREdwSUlBVFpsa2VYNGd3eTFybTJJQXl2WlFUb2RKWVNJd0xsTjJsRms5ZmhxRUd2U2F0ZGdCcmhfSDAzME1QRWlyTkZKM1FZX3VDblcy0gHWAUFVX3lxTE9TbmREbmNLUVoyOUFZRXg2cHFabEE4Z0VfOGZ3dWhvd1BRT2NJaVJ3aVJtNW5PbFA4eHVYREwzX05kdU1OTG4zMHVQVVg5RUU4bWdpUTA2dk56TWZiOUJrN1plbUtCMHhiWEltTkhTZFV4NlNYdGJoczhaTHBSbnd2T1AxOGU2OHVJYVJQbEYzYnZZWVpTd2JuRHYyb2pFNXpISUNqX0IteGo4YmJOY0x5WjJrbkVORTJPazF4ZEJ4R2diUDRHUmQ2ZHhkLW5VNW9lMGRrekE?oc=5
-
-- Ex-judges, diplomats flag bias in USCIRF religious freedom report - The Times of India
-  Ex-judges, diplomats flag bias in USC
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXZ0bF9OT2RWVTZOeU5vMXhqUXdZZGZBeVExUzF5c0xObThwT09ibHY1QlpuQlV1d2ZuTlQ0V1E5THVFZWlzUDlZc2dPRGpTSThMZDJKZV9aU3hLUjB3R25CVWVHdEkteHhaeDI2MDNyTHI2Z2RSdHFmZjR6UW1MZk01THZ2U3l4eldTcFhDdF85TlpzZ1Z3ZktGbFFxcU4xQTRsOW5peXVjMGVDcWtBdWZ3amNEQk5UbkhXR2tzMDNWTzdPNUpBWWdaZUbSAdIBQVVfeXFMTXVxNEVTT2w3MlZyWkxjNVl6dHYwVGFYdmctRmZGdThxZ0x4MUxZeko3TEhySXpvODhaRC14Slo4QTB3c0ZzcFk1U1k1WUlVZUd4ZldzMHN3LTNfZ3h0Mk1mbGhTbUl3X0tjbzJfX0hfaFRBLThQMHN1SWRaZExoNjZLYWczeTBEakV1OVo1alNIZTlzX0NGcE9zU2JyMl9INDVac1BDeWdCMW4zVTFIb3NHYkRDaWZ0dlQ0RVBSN3ZoR19TbncxUmJIa2VlTFdxdDRn?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Biggest infiltrator is PM': Mamata at Eid meet - The Times of India
-  'Biggest infiltrator is PM': Mam
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNGOWdlTi0xODlaODhkbVhCc29Hd2FlWV9xaG5PREJlSjdxZ0w1Ry12Q2NORFE0WmFocHl6cE43NmN3NWs5RGhWYU4zTmhGOUdFdW16NkxhWHB1Y0FDYW9FbUdDRDA3OFVkemdMdmdCQVpPMEF4c3BMNVI5aUtqVkJsTlEzZm50cVI2VElXdzFRZHl1R3BPSlptQW9JTm83ejNPMks5Q2phVXFaTjBKbUl30gG3AUFVX3lxTE1Ud3ZBODZVN28ydmZlSE5qcDFoLVc4T1dzUjB0c2xvX2VBdzNSalZMakd4dVBtTHVIQ2xMVkpBOVVseE5rcEZycnRGbjdUYzN3aF95dDMxVFR2Y2E0S1ZfRG5Yem5NYlVxaTU2RlloR3dlSGdma1pHeEZ4X0pOMlAzVlBpT2hXNmtKcklhZXdGemdhd0RqdDIxbHJaUEN1SnJPVUZ0azN6TXBxaVB0Y3VhcEhFSU9BOA?oc=5
-
-- US Seeking Nod To Use Indian Territory For Iran Strikes? A Fact-Check - NDTV
-  US Seeking Nod To Use Indian Territory For Iran
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNQl8xQnVYNW9aS3BEcGVlRUJsQWRYbUVFbkZFb3YteThHLVE3VkNkUkh1a1B5eFNaSGE3elJlMlJJc0RIUkVGSE1abmJldC14c1A4ZkwyMlhzNjZMdXpDTzZMTUUycHVvYXlBNWt3UHZtN2k3X2Q3aWJxR3BQNmxVMVNSMjVZdDdaZ1FoMmFYTjVENjZ4N3phTUJxcVkzdEE2RG5PQzNCY0ZkVjkwZ0HSAbYBQVVfeXFMTThkcWN3Sm1yWTJGNlBBOENPaWJMVjM3QnQxb1Z4d0Fsd0J2cmoybTMyMVBtTXRqbm9YMl9GSXdYOVltcWVXYlU4bXg2X2ZQdUlRRFlMb3B1T1lvREFLQmEyeEs0c2pGUDF2MW81TVJod1BaU3ZFVVhUTjZqMHQ0bGRvRkJxWkZ2T3JHQmM3eWtHVlFrckJQaURONWxoTWRhX2d3UWpSUFQ5Y2FCcDU0enFvRXhCdHc?oc=5
-
-- US planning to attack Iran from western India? MEA fact-checks viral claim | India News - Hindustan Times
-  The claim was made in the Hindustan Times. The claim was
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnhUbGUtaUVsSVZ5YVp2cnhMQTZpYzh2QkFSNHctaGtyS0w4aXpkR0Mzb0JMc0dTY1J6anU1QU9nbk0yVTNERlI5NkRJMFpIcVJPbmVMTU5xNVdRdzZLdkdPWEFqZ0VjYWh0blpuWGJudlBGenpfcDhCY19CZ0h2Uk5yREdwSUlBVFpsa2VYNGd3eTFybTJJQXl2WlFUb2RKWVNJd0xsTjJsRms5ZmhxRUd2U2F0ZGdCcmhfSDAzME1QRWlyTkZKM1FZX3VDblcy0gHWAUFVX3lxTE9TbmREbmNLUVoyOUFZRXg2cHFabEE4Z0VfOGZ3dWhvd1BRT2NJaVJ3aVJtNW5PbFA4eHVYREwzX05kdU1OTG4zMHVQVVg5RUU4bWdpUTA2dk56TWZiOUJrN1plbUtCMHhiWEltTkhTZFV4NlNYdGJoczhaTHBSbnd2T1AxOGU2OHVJYVJQbEYzYnZZWVpTd2JuRHYyb2pFNXpISUNqX0IteGo4YmJOY0x5WjJrbkVORTJPazF4ZEJ4R2diUDRHUmQ2ZHhkLW5VNW9lMGRrekE?oc=5
-
-- Ex-judges, diplomats flag bias in USCIRF religious freedom report - The Times of India
-  Ex-judges, diplomats flag bias in USC
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXZ0bF9OT2RWVTZOeU5vMXhqUXdZZGZBeVExUzF5c0xObThwT09ibHY1QlpuQlV1d2ZuTlQ0V1E5THVFZWlzUDlZc2dPRGpTSThMZDJKZV9aU3hLUjB3R25CVWVHdEkteHhaeDI2MDNyTHI2Z2RSdHFmZjR6UW1MZk01THZ2U3l4eldTcFhDdF85TlpzZ1Z3ZktGbFFxcU4xQTRsOW5peXVjMGVDcWtBdWZ3amNEQk5UbkhXR2tzMDNWTzdPNUpBWWdaZUbSAdIBQVVfeXFMTXVxNEVTT2w3MlZyWkxjNVl6dHYwVGFYdmctRmZGdThxZ0x4MUxZeko3TEhySXpvODhaRC14Slo4QTB3c0ZzcFk1U1k1WUlVZUd4ZldzMHN3LTNfZ3h0Mk1mbGhTbUl3X0tjbzJfX0hfaFRBLThQMHN1SWRaZExoNjZLYWczeTBEakV1OVo1alNIZTlzX0NGcE9zU2JyMl9INDVac1BDeWdCMW4zVTFIb3NHYkRDaWZ0dlQ0RVBSN3ZoR19TbncxUmJIa2VlTFdxdDRn?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Biggest infiltrator is PM': Mamata at Eid meet - The Times of India
-  'Biggest infiltrator is PM': Mam
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNGOWdlTi0xODlaODhkbVhCc29Hd2FlWV9xaG5PREJlSjdxZ0w1Ry12Q2NORFE0WmFocHl6cE43NmN3NWs5RGhWYU4zTmhGOUdFdW16NkxhWHB1Y0FDYW9FbUdDRDA3OFVkemdMdmdCQVpPMEF4c3BMNVI5aUtqVkJsTlEzZm50cVI2VElXdzFRZHl1R3BPSlptQW9JTm83ejNPMks5Q2phVXFaTjBKbUl30gG3AUFVX3lxTE1Ud3ZBODZVN28ydmZlSE5qcDFoLVc4T1dzUjB0c2xvX2VBdzNSalZMakd4dVBtTHVIQ2xMVkpBOVVseE5rcEZycnRGbjdUYzN3aF95dDMxVFR2Y2E0S1ZfRG5Yem5NYlVxaTU2RlloR3dlSGdma1pHeEZ4X0pOMlAzVlBpT2hXNmtKcklhZXdGemdhd0RqdDIxbHJaUEN1SnJPVUZ0azN6TXBxaVB0Y3VhcEhFSU9BOA?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
+  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
 
 
-_Last updated: 2026-03-22 01:52:13 UTC_
+_Last updated: 2026-03-22 06:47:20 UTC_
