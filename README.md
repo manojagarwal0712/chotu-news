@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- How surprise field visits by Madhya Pradesh CM proved costly for top admin, police officers
+- Budget Session LIVE 2026: Lok Sabha resumes after festive holiday break, question hour begins
   
-  🔗 https://indianexpress.com/article/india/how-surprise-field-visits-by-madhya-pradesh-cm-proved-costly-for-top-admin-police-officers-10595715/
+  🔗 https://indianexpress.com/article/india/budget-session-live-2026-finance-minister-nirmala-sitharaman-corporate-finance-bill-10596080/
 
-- Drop Jinnah, Sir Syed, Iqbal from Political Science syllabus: Jammu University panel after ABVP protest
+- Gold Rate Today, March 23: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/drop-jinnah-sir-syed-iqbal-from-political-science-syllabus-jammu-university-panel-after-abvp-protest-10595708/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-23-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10596069/
 
-- On Bihar Diwas, PM Modi praises Nitish for state’s development
+- Assam twist: BJP minister Nandita Garlosa jumps ship to Congress
   
-  🔗 https://indianexpress.com/article/india/on-bihar-diwas-pm-modi-praises-nitish-for-states-development-10595751/
+  🔗 https://indianexpress.com/article/india/another-assam-twist-now-minister-in-himanta-govt-jumps-ship-to-congress-10595986/
 
-- West Asia conflict: PM reviews mitigating measures planned, sets up team of key ministers
+- Kerala polls: ‘Hindu MLA’ remarks by BJP’s Guruvayur candidate land him in trouble with election officials
   
-  🔗 https://indianexpress.com/article/india/pm-narendra-modi-ccs-meeting-west-asia-war-us-israel-iran-oil-supply-food-security-10595658/
+  🔗 https://indianexpress.com/article/india/kerala-polls-hindu-mla-remarks-by-bjps-guruvayur-candidate-land-him-in-trouble-with-election-officials-10595716/
 
-- 8,931 days: Union ministers, BJP chief hail Modi for becoming longest-serving head of elected govt
+- Assam election: Rumblings of discontent among BJP leaders dropped for recent recruits from Congress
   
-  🔗 https://indianexpress.com/article/india/modi-bjp-union-ministers-10595538/
+  🔗 https://indianexpress.com/article/india/assam-election-rumblings-of-discontent-among-bjp-leaders-dropped-for-recent-recruits-from-congress-10595707/
+
+- Why Elon Musk is building ‘Tera-fab’, a mega chip factory to power his AI empire
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-elon-musk-is-building-tera-fab-mega-chip-factory-ai-empire-10596261/
+
+- Trapped! Inside a self-driving car during an anti-robot attack
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack-10595957/
+
+- Tencent integrates WeChat with OpenClaw AI agent amid China tech battle
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle-10595955/
 
 - Xiaomi Pad 8 review: With smooth screen and premium build, is this tablet finally a true laptop replacement?
   
@@ -28,177 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-claude-code-channels-anthropic-openclaw-ai-agents-10595037/
 
-- Sorry, Mom. You’re chatting with an AI agent, not your son.
+- If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy - The Times of India
+  If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi1UOWxwWVNBNkVRTXUzUVJZYUlIZzRQVjdmNFJEWXNOc0cyWUFzUnVpZE5PV0lDT2d5QXpYNnhVelpwV0tmVF9VSW5MdzFZZGgybEVOM2Fxb25yamo3OVVSZjNVSWtOVTV3MnUtR3NWQXdHN0UzTFFKV2FBRUlOVmFUUzBETFNoSzhMSTN5UkV6eThEcjJzNEV4Unc4RU10b0kxWWI0dUYyNGp6bUxPb1gwR3ZPcE43SGNoQV96OERIenFTOUluX3NWaEJQanFyVlJralNlWGEwNHRCeHI1Z1FEaVpNeUxyZTlSNGdiUnZ2S1hjWjM00gH8AUFVX3lxTE9MQXJvLWNPX0hUU3JjTGZxWlRqdy1YZUNpQjJTaGctUGNVR0NwZE5XYVVCbXN4dXB1THR4cm9UT0FCbXVSVTZUOFI4a2UyRk5mR3BOSXFreXBNd21zd2dkMG1zSUt6ckxncmFaTGhsRHRmSG9aUFU1UUJkZGpTRWZTUlU1dDBhN29rUW9YUnhnODY5WnVLWEt2SVlFN3drOHFILWU0UExOLVc5NDZ2dzFncHhieVM3RXZaZkVVQlR3VnR1bGgyc283d05mN1dxb1A5aTlOdmhCalgzWk5KTEI0ZmpINE1CdGZzWlRpamQ0RERXZnVPTzFaSUVuYg?oc=5
+
+- PM Modi reviews power readiness in high-level meet as West Asia conflict rages | India News - Hindustan Times
+  PM Modi reviews power readiness in high-level meet as West Asia conflict r
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnY3ZlBCUHpHdnlva0lLYnVfaHJsX3pQUmY4Ri05MlhrdDNKZkZnVmMzLXZ2Yk9oa3V4Tm1NMXpndkkwQWVMUXhsclFLSXZtZTlkZnZLeThkSWdVNm1TaWpxODBKM2JZWnR5cm5Jc3Z6TEo0dzN5c0t2NVpJV2N4RThxeWhBUFVENFdvckJHTzJVWWRXV2g3cThTbU1YSFhBM0ZBYUtjTEJkMXFtVXNGX25UWm8ySDZrY0VDcTVxSnRPaWNhUlRqR0lPVlJRbE9hdnBoWEJXcnBoc0JNRHNIYi0yNWZTRHJYSVZCZUx3ZEJMc3pFZGpZYtIB_gFBVV95cUxPSUxWMXVCMElocnN0YlExN0QyYU1leVROenAtcGhyVy1IdXFJWmFkODFEdGlXdW9xZkJETmlIYXU4Z2ZWMUlQMzh4X09vem00U25qM2RFOHpUOFF4TGRRYTBvYlo4M1V6SDdleWFLUmtJajlYYThNaEdENFJkRE1IbWhSUU5CQkJweG85SG9zbE5oWEd0Mkc1azFlM2xVMWhwZGV3V0dKQVR1OUIzdzhGM2Q0cWhaS1ZKeElIZUdKeXVJdTJGV2dQYlZkRFFBWHhXNDFZU1VLRFh3Ylp2UUh6ak9yZGtSTTJVUDltZlc0RVhEQTVKdWl3UzVVdDk5Zw?oc=5
+
+- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
+  PM Modi becomes India's Longest-Serving
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
+
+- PM Modi Heads List Of Longest-Serving Leaders: Who Are The Others? - NDTV
+  PM Modi heads List Of Longest-Serv
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRTU1JaSUJNWHQ2OHhucVNYOWVhNV8tVm9fRnNQN1RRUFo4ZmRpby1EZGRzb3JEc0pWeFU2bzlYSFhRZUttRWhJQWM0VU9EQ0EyMDc1S0dBamFoMjFQdW9HQ3NwajR5Yi05MXZZOFZxQ0Y3THRuWXQ5THFBR0xia0xwVzAtUkNwVEtISXhjdWs1aTN4Qk5vdGtSRnMxSGNza3R5MnZmZVPSAbABQVVfeXFMUHVtS2IzVmhqVW9RSjU0YS16SUlXS0hFcnF0bF9tMVFraGYwbzNEZEZpeUh1NE5xekhzdVNDd09xZ3pJMmlwM3FUWmp4YXNlaUNONmpDdHJxZGgzZkxCMUxpX2ljTXJNalBvclZuMWxvdndMU2F3a2FxMEtBNlVqb2phVUdNa3MwTDh4UjJyMjhBLTRnM0ZzUG9DbUZndDhHa0xIMDZydDhWMWcySF9vTko?oc=5
+
+- Adobe Names Shamik Basu As Vice President, Creative Products Group In India - NDTV
+  Adobe Names Shamik Basu As Vice President
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1piMlJQdmxLOUJmN0FrVVo2MUlyaGI0QVZYaGdqT0hsVkhVcTk4N2c4X21CS2JZZDRMU3BZN25MWDIwTVdIbXpKbUVhOU9KX3pHRERIcjV2V01zNmhWZ3lEVEtrMGRRMkd1R0FoeldzQndNaDU4Nl9pRWZITkZqUmozeEVYUkQ2LXVWcW5WbVZNOFV0bzZhQVJYTGx6LVFuajZBYnQwdERKeGxhM2ZubVR6ZFg2QdIBvgFBVV95cUxOVkJjOElMT0tBLUVjUXVpRWZ6MnJxcG4wMkJEaDJWQmktRlRuWDdlZmdMbng4LUhtZFY5U0otVkpFMDJWMC0tZWlGTHdJRk1vSTdzeEtISHhSNUs4Y2hnRkMzVkU0eWMxTFF2eXhDSlNhME41ajJnSXdEVVVZbERNSFNzVy04cnJ2Y29zM3hYdm95dVJBU1pSd21RNENWV2RWaTl3cGx2U25teDAzZVdDWncza19ZSDRTRXNZWEJn?oc=5
+
+- Vinay Rajani of HDFC Sec suggests Indusind Bank, REC shares to sell in the near-term
+  The Nifty 50 and Sensex fell significantly as the rupee hit an all-time low due to rising Middle East tensions and high oil prices. India's equity volatility index surged,
+  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-indusind-bank-rec-shares-to-sell-in-the-nearterm-11774246853437.html
+
+- Vodafone Idea, JP Power, YES Bank— These are among the most traded stocks on NSE today
+  Vodafone Idea, Tata Silver Exchange Traded Fund and YES Bank were among the most traded stocks, on the most active stocks in terms of volume.
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-jp-power-yes-bank-these-are-among-the-most-traded-stocks-on-nse-today-11774245924361.html
+
+- RBI’s pile-up of government bonds is extraordinary but could it help build infrastructure?
+  The Reserve Bank of India’s frequent open market operations to infuse banks with liquidity have left with a large stack of government bonds. The earnings could be ch
+  🔗 https://www.livemint.com/market/bonds/rbi-government-bonds-build-infrastructure-open-market-operations-banking-g-secs-11774163252024.html
+
+- BTS comeback concert fails to impress investors, Hybe shares see worst day since June 2022 after low turnout — Details
+  The BTS concert in Seoul's Gyeongbokgung Palace drew a much smaller crowd that authorities had initially
+  🔗 https://www.livemint.com/market/stock-market-news/bts-comeback-concert-fails-to-impress-investors-hybe-shares-see-worst-day-since-june-2022-after-low-turnout-details-11774244407158.html
+
+- Will GSP Crop Science IPO witness a weak listing tomorrow as US-Iran war rages? Here's what GMP signals
+  GSP Crop Science's  ₹400 crore IPO saw strong demand and was fully subscribed. The IPO includes fresh issuance and an offer for sale.
+  🔗 https://www.livemint.com/market/ipo/will-gsp-crop-science-ipo-witness-weak-ipo-listing-tomorrow-march-24-as-us-iran-war-rages-heres-what-ipo-gmp-signals-11774245753456.html
+
+- Asian stock markets plunge amid Trump’s ultimatum on Iran - Al Jazeera
+  Asian stock markets plunge amid Trump’
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmNwSHdSTWlYVHpfcHM3bHV2bUFKbFloR09KRURLZ0lzN3poOGpBYko2S0djbWR5bllOODlHSlRFQTQ0d2Jrc0tlMlRzcmtoSVdmZjl4bGNfOTRrQ2JLWW1LTmM5NTZyZ2tIenRzem9qdGJZd1VoVHVFVUpmVmpCUWJGUFB3ZlFVam5RamlJaUxFaGNDUWhMenZXTXAzZ2kwbmfSAacBQVVfeXFMTS1EX0pZbEdiUm8wVFIyZTVpaUt5R1lZbndZX2VqR0NpZTJUelRENUJvcThTMDJXdWhNQnpHN2dsSWhQZFJnN2p3VHhvYzdWYk5PVUdzZ2hyQnoxY1F4b3p5cU84VVJKbzN5U21VSEx0ZXFobnRCclllRE9fYUc0YVZLQUxzeWxIbzdCSkZXd0VKaEZyZEJzZm8xY3ItZ1Uyejk5MnkxSlU?oc=5
+
+- South Korea’s Kospi and Japan's Nikkei tumble more than 5% as Trump-Iran threats escalate - CNBC
+  South Korea’s Kospi and Japan’
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHVEMUhkQzRtN2ZRWExXVkFnbVlZZy1uWDBPWFNtN1owOFFZQUtYallLbkgza2xwMWxwQUNtTjBOeFU4N2tKRkQ1V3AzN0gwVFNzQ1BlUE9jZURORWdMMmJVdXV3bzVjdjRQNi0yX3BCX3BIZ0l4QjVweThTMEo0enI1aEhkQ184aS15RkUxZlNtTkFkX3NKQ1Q1dm00RkpRMTUtM0Mzb2txcDNzMlZLVEtLVdIBuAFBVV95cUxORHctRHhSdERIQ1RKY0RXTzViYUVjX0RZZTVQVC1wVWtLU2hoYWI0dVppcWJwOHJaak5kTWtFZDJzaENzVWdFUXlLN1ZiXzJfeHNqaGVLX2YzNU5uSEYtOU5lY1hXdUJMQmwyV2dyMm90LWxRYmdZdGxKM2FyVXMwSEVBUHpEMWpfOW9JOE9heWhpQmlkUEtXeFoyTW5VbUQ5eHFpaU15TEo5N0MwbUIxb2w0blRxb2Vn?oc=5
+
+- Stock Market Live: Sensex Crashes 1,800 Points, Rupee Hits Fresh Low Amid Hormuz Uncertainty - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeVJNQkdic1JlYnZZdGpZSXhmbTNoS2hvblJoUUFYS0hqSDF4dExacU44aEwtUFpiT2VQaWlMXzI5dzdVWjBCYklKRTZkenhRS0Z3dFQ0eFE5NFZ2ZmstRWtZOXZrNWpLdm
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeVJNQkdic1JlYnZZdGpZSXhmbTNoS2hvblJoUUFYS0hqSDF4dExacU44aEwtUFpiT2VQaWlMXzI5dzdVWjBCYklKRTZkenhRS0Z3dFQ0eFE5NFZ2ZmstRWtZOXZrNWpLdmpFWjdZRHVQU1lndkNjUkVzYUZMb0pVdTlGNFdaODhEZ2lHcy1TNzYtMGM3ZE9iXzVWUGVuTWlBRF80d1h3c0N2aVY1b3h1NndLVDdxeDNKZXFncG1aLW9hWUttRjdycU03aXJkeWh1RlB3bmhnemNtVTB4dnEybHZHV1BmRVZYV3FYX3h5MXdHbzEtc2tn0gH_AUFVX3lxTFBsdU5Ud1pyQ0Q0OVRIeDBzRVY5aURZbFJhRkVXb3gxbTZsX3dBYURqZ0hGZzFwV0ZHYXJHUEF6TlhYMGlHT0k1MjVjazZMdmZDV19JQ0stQlhtZVZsNzRSUlc5dVhFSDdkTkFCbV9ndkM0SGdZNW8teV9sX2ZvTGdYcWZKU1BOUlgxWGFZQXZYdEZEeHdrRmdvLWZpSkU5QkNjSDQ3bmhXeDVMZ1J3NzNab0ZTRVRXWU5uSEM1ckY0SzBjekpjOS1TdXZpQ05ZM2d2c1hWV3dNeGtydW16X0owRVdrblM1YUVENFhBandDSGd1SzhfVjB4Q2ExWHZ0TQ?oc=5
+
+- Global Natural Gas Markets Are A Bigger Problem Than Oil Right Now - Forbes
+  Global Natural Gas Markets Are A Bigger Problem Than
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxORE9lNlNMZ1B2WjZ1NENYTmRVVjg0WlVvdnFzWFZSc2xHT3k2YlNYdGNZcXh0MmR5UVpQelJsSDhHZUlqSFBSSVZBQTNyd0paY2R6UWlDbU1laENQdEU5bFFxbDdRMmJxNkxuWmNsLW5NS3Jkem5rdlpKQWRwTjVkU2ZqSlNEcEtNbFFEenNuSFdycTFTdGs4Nk1aMG51Qy0yVmhjOHZib1FCVmlJVTlJVXFWbTl6YThrNHpuUkRMQQ?oc=5
+
+- Rupee nears 94, down 41 paise to record low of 93.94 - The Hindu
+  Rupee nears 94, down 41 paise
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3FxWHdaTEJhVFA3ejhFWU9Va3F3Wkg1OEZKVE1HcnVuNGFvazJMcjUtd3BkUUtfQkY3ZU4yeUZhZFBZMlZDWUhaZ3BkcF9PbU1fQldCV1NTVHI2bmo4Mk04Ull0N09UWjNYTkxMSzVZSjlEdHJBSUVmZW92ZU1COXhjV1ZoSXpCcnpUUjRzeEJ5aW1wRi1jNDZiaERpOGJJMWR2czFlcHFCOVFpYWJDQUw0NFR5OGVFSnfSAcABQVVfeXFMTjB5YW9TdjRWVUduY21IN0xIM2tRUVU5RnRFbmJjcXdoQWFIbDNUMEJLbGY0TVpTUFNEQm5fNlhzUkZVWnY4dDNkVFltWmxkMUM0d2FlV3BRbmYyODdXRHFmLWR6cDdqa3JVOVpFcWdSUzJ6bGlWMXliTlN1al95Ukt1TlpQbVA0WndtWXFWSmEyZHI0RTR5SFZoWEN6Mnk5YmwyaEpPVmhJMFZaZVBxSXQ2czEwYlk3V0NIUURvd09C?oc=5
+
+- Oil supply crunch to keep global markets under pressure: Arvind Sanger
+  Oil prices are now the central market driver, with a structural supply imbalance and potential Strait of Hormuz disruptions posing significant macroeconomic risks. Emerging markets face varied impacts, with energy exporters better positioned than importers.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/oil-supply-crunch-to-keep-global-markets-under-pressure-arvind-sanger/articleshow/129744644.cms
+
+- Paytm, Pine Labs shares drop up to 22% in one month: Jefferies cuts target prices but sees positive risk reward, here’s why
+  Despite recent stock dips, Jefferies maintains a positive outlook on PayTM and Pine Labs. Both companies are targeting over 20% revenue growth and margin expansion. Jefferies reiterates 'Buy' ratings, though target prices
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/paytm-pine-labs-shares-drop-up-to-22-in-one-month-jefferies-cuts-target-prices-but-sees-positive-risk-reward-heres-why/articleshow/129744114.cms
+
+- Dalal Street Bloodbath: Rs 11 lakh cr wiped out as Sensex sinks 1,800 pts, Nifty below 22,550
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sorry-mom-youre-chatting-with-an-ai-agent-not-your-son-10594916/
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-bloodbath-rs-11-lakh-cr-wiped-out-as-sensex-sinks-1800-pts-nifty-below-22550/videoshow/129744100.cms
 
-- OpenAI to nearly double workforce to 8,000 by end-2026: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-to-nearly-double-workforce-to-8000-by-end-2026-report-10594910/
+- India is bracing for an oil shock. Pashupati Advani on where smart money is hiding right now
+  Investors are closely watching oil prices and the rupee's trajectory. Global energy disruptions are impacting exporters directly. A domestic crisis at HDFC Bank, stemming from corporate governance issues, is also weighing on investor sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/india-is-bracing-for-an-oil-shock-pashupati-advani-on-where-smart-money-is-hiding-right-now/articleshow/129743931.cms
 
-- Pinterest CEO calls for ban on social media for youth under 16
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/pinterest-ceo-calls-for-ban-on-social-media-for-youth-under-16-10594888/
+- Bitcoin falls to $68K amid US-Iran tensions; over $240M in long positions wiped out
+  Bitcoin dipped below $70,000 to $68,000 amid geopolitical tensions. Analysts suggest caution due to fragile market structure and the need for sustained ETF demand.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-to-68k-amid-us-iran-tensions-over-240m-in-long-positions-wiped-out/articleshow/129743697.cms
 
-- Former Google executive Matt Brittin appointed as BBC's new chief after Tim Davie resignation over Trump fiasco: Report
-  Director-General Tim Davie will step down on 2 April. He announced his resignation in November following widespread criticism of the BBC.
-  🔗 https://www.livemint.com/companies/news/former-google-exec-matt-brittin-appointed-as-bbcs-new-director-general-after-tim-davie-resignation-over-trump-fiasco-11774225779196.html
+- If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy - The Times of India
+  If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi1UOWxwWVNBNkVRTXUzUVJZYUlIZzRQVjdmNFJEWXNOc0cyWUFzUnVpZE5PV0lDT2d5QXpYNnhVelpwV0tmVF9VSW5MdzFZZGgybEVOM2Fxb25yamo3OVVSZjNVSWtOVTV3MnUtR3NWQXdHN0UzTFFKV2FBRUlOVmFUUzBETFNoSzhMSTN5UkV6eThEcjJzNEV4Unc4RU10b0kxWWI0dUYyNGp6bUxPb1gwR3ZPcE43SGNoQV96OERIenFTOUluX3NWaEJQanFyVlJralNlWGEwNHRCeHI1Z1FEaVpNeUxyZTlSNGdiUnZ2S1hjWjM00gH8AUFVX3lxTE9MQXJvLWNPX0hUU3JjTGZxWlRqdy1YZUNpQjJTaGctUGNVR0NwZE5XYVVCbXN4dXB1THR4cm9UT0FCbXVSVTZUOFI4a2UyRk5mR3BOSXFreXBNd21zd2dkMG1zSUt6ckxncmFaTGhsRHRmSG9aUFU1UUJkZGpTRWZTUlU1dDBhN29rUW9YUnhnODY5WnVLWEt2SVlFN3drOHFILWU0UExOLVc5NDZ2dzFncHhieVM3RXZaZkVVQlR3VnR1bGgyc283d05mN1dxb1A5aTlOdmhCalgzWk5KTEI0ZmpINE1CdGZzWlRpamQ0RERXZnVPTzFaSUVuYg?oc=5
 
-- PE firm Multiples bets on AI-first tech services, pares legacy bets
-  Multiples Alternate Asset Management is betting on AI-first tech services firms. The shift reflects a broader change in India’s
-  🔗 https://www.livemint.com/companies/news/multiples-backs-ai-first-tech-services-firms-as-it-sheds-legacy-bets-11774155827278.html
+- PM Modi reviews power readiness in high-level meet as West Asia conflict rages | India News - Hindustan Times
+  PM Modi reviews power readiness in high-level meet as West Asia conflict r
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnY3ZlBCUHpHdnlva0lLYnVfaHJsX3pQUmY4Ri05MlhrdDNKZkZnVmMzLXZ2Yk9oa3V4Tm1NMXpndkkwQWVMUXhsclFLSXZtZTlkZnZLeThkSWdVNm1TaWpxODBKM2JZWnR5cm5Jc3Z6TEo0dzN5c0t2NVpJV2N4RThxeWhBUFVENFdvckJHTzJVWWRXV2g3cThTbU1YSFhBM0ZBYUtjTEJkMXFtVXNGX25UWm8ySDZrY0VDcTVxSnRPaWNhUlRqR0lPVlJRbE9hdnBoWEJXcnBoc0JNRHNIYi0yNWZTRHJYSVZCZUx3ZEJMc3pFZGpZYtIB_gFBVV95cUxPSUxWMXVCMElocnN0YlExN0QyYU1leVROenAtcGhyVy1IdXFJWmFkODFEdGlXdW9xZkJETmlIYXU4Z2ZWMUlQMzh4X09vem00U25qM2RFOHpUOFF4TGRRYTBvYlo4M1V6SDdleWFLUmtJajlYYThNaEdENFJkRE1IbWhSUU5CQkJweG85SG9zbE5oWEd0Mkc1azFlM2xVMWhwZGV3V0dKQVR1OUIzdzhGM2Q0cWhaS1ZKeElIZUdKeXVJdTJGV2dQYlZkRFFBWHhXNDFZU1VLRFh3Ylp2UUh6ak9yZGtSTTJVUDltZlc0RVhEQTVKdWl3UzVVdDk5Zw?oc=5
 
-- Tata Semiconductor raises $735 million for chip fab, pledges Dholera land
-  Tata Semiconductor has raised the amount from five foreign banks for its Gujarat fab unit. Lenders imposing what executives call “unconventional’ terms on ownership, branding
-  🔗 https://www.livemint.com/companies/news/tata-semiconductor-chip-fab-foreign-banks-debt-dholera-11774152509511.html
+- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
+  PM Modi becomes India's Longest-Serving
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
 
-- The chieftains of Tata Sons and the Shapoorji Pallonji Group come together, but for a religious event
-  The Kumbhabhishekam event committee's fund-raising letter naming Tata Sons chair Chandrasekaran as chief
-  🔗 https://www.livemint.com/companies/chieftains-tata-sons-shapoorji-pallonji-group-together-religious-event-chandrasekaran-shapoor-mistry-sri-sankara-mattham-11774178146258.html
+- PM Modi Heads List Of Longest-Serving Leaders: Who Are The Others? - NDTV
+  PM Modi heads List Of Longest-Serv
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRTU1JaSUJNWHQ2OHhucVNYOWVhNV8tVm9fRnNQN1RRUFo4ZmRpby1EZGRzb3JEc0pWeFU2bzlYSFhRZUttRWhJQWM0VU9EQ0EyMDc1S0dBamFoMjFQdW9HQ3NwajR5Yi05MXZZOFZxQ0Y3THRuWXQ5THFBR0xia0xwVzAtUkNwVEtISXhjdWs1aTN4Qk5vdGtSRnMxSGNza3R5MnZmZVPSAbABQVVfeXFMUHVtS2IzVmhqVW9RSjU0YS16SUlXS0hFcnF0bF9tMVFraGYwbzNEZEZpeUh1NE5xekhzdVNDd09xZ3pJMmlwM3FUWmp4YXNlaUNONmpDdHJxZGgzZkxCMUxpX2ljTXJNalBvclZuMWxvdndMU2F3a2FxMEtBNlVqb2phVUdNa3MwTDh4UjJyMjhBLTRnM0ZzUG9DbUZndDhHa0xIMDZydDhWMWcySF9vTko?oc=5
 
-- Saudi Aramco boss pulls out of major international energy conference due to Iran conflict, source says
-  Saudi Aramco boss pulls out of major
-  🔗 https://www.livemint.com/companies/saudi-aramco-boss-pulls-out-of-major-international-energy-conference-due-to-iran-conflict-source-says-11774213278554.html
+- Adobe Names Shamik Basu As Vice President, Creative Products Group In India - NDTV
+  Adobe Names Shamik Basu As Vice President
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1piMlJQdmxLOUJmN0FrVVo2MUlyaGI0QVZYaGdqT0hsVkhVcTk4N2c4X21CS2JZZDRMU3BZN25MWDIwTVdIbXpKbUVhOU9KX3pHRERIcjV2V01zNmhWZ3lEVEtrMGRRMkd1R0FoeldzQndNaDU4Nl9pRWZITkZqUmozeEVYUkQ2LXVWcW5WbVZNOFV0bzZhQVJYTGx6LVFuajZBYnQwdERKeGxhM2ZubVR6ZFg2QdIBvgFBVV95cUxOVkJjOElMT0tBLUVjUXVpRWZ6MnJxcG4wMkJEaDJWQmktRlRuWDdlZmdMbng4LUhtZFY5U0otVkpFMDJWMC0tZWlGTHdJRk1vSTdzeEtISHhSNUs4Y2hnRkMzVkU0eWMxTFF2eXhDSlNhME41ajJnSXdEVVVZbERNSFNzVy04cnJ2Y29zM3hYdm95dVJBU1pSd21RNENWV2RWaTl3cGx2U25teDAzZVdDWncza19ZSDRTRXNZWEJn?oc=5
 
-- Indian stock market: 10 things that changed for market over weekend - Gift Nifty, Nikkei, Nasdaq slump to US-Iran war
-  Gift Nifty was trading around 22,808 level, a discount of nearly 332 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-things-that-changed-for-market-over-weekend-gift-nifty-nikkei-nasdaq-slump-to-us-iran-war-11774200720663.html
+- If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy - The Times of India
+  If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi1UOWxwWVNBNkVRTXUzUVJZYUlIZzRQVjdmNFJEWXNOc0cyWUFzUnVpZE5PV0lDT2d5QXpYNnhVelpwV0tmVF9VSW5MdzFZZGgybEVOM2Fxb25yamo3OVVSZjNVSWtOVTV3MnUtR3NWQXdHN0UzTFFKV2FBRUlOVmFUUzBETFNoSzhMSTN5UkV6eThEcjJzNEV4Unc4RU10b0kxWWI0dUYyNGp6bUxPb1gwR3ZPcE43SGNoQV96OERIenFTOUluX3NWaEJQanFyVlJralNlWGEwNHRCeHI1Z1FEaVpNeUxyZTlSNGdiUnZ2S1hjWjM00gH8AUFVX3lxTE9MQXJvLWNPX0hUU3JjTGZxWlRqdy1YZUNpQjJTaGctUGNVR0NwZE5XYVVCbXN4dXB1THR4cm9UT0FCbXVSVTZUOFI4a2UyRk5mR3BOSXFreXBNd21zd2dkMG1zSUt6ckxncmFaTGhsRHRmSG9aUFU1UUJkZGpTRWZTUlU1dDBhN29rUW9YUnhnODY5WnVLWEt2SVlFN3drOHFILWU0UExOLVc5NDZ2dzFncHhieVM3RXZaZkVVQlR3VnR1bGgyc283d05mN1dxb1A5aTlOdmhCalgzWk5KTEI0ZmpINE1CdGZzWlRpamQ0RERXZnVPTzFaSUVuYg?oc=5
 
-- Australian shares drop to 10-month low as traders gauge Middle East jitters
-  Australian shares drop to 10-month low
-  🔗 https://www.livemint.com/market/australian-shares-drop-to-10-month-low-as-traders-gauge-middle-east-jitters-11774229091795.html
+- PM Modi reviews power readiness in high-level meet as West Asia conflict rages | India News - Hindustan Times
+  PM Modi reviews power readiness in high-level meet as West Asia conflict r
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnY3ZlBCUHpHdnlva0lLYnVfaHJsX3pQUmY4Ri05MlhrdDNKZkZnVmMzLXZ2Yk9oa3V4Tm1NMXpndkkwQWVMUXhsclFLSXZtZTlkZnZLeThkSWdVNm1TaWpxODBKM2JZWnR5cm5Jc3Z6TEo0dzN5c0t2NVpJV2N4RThxeWhBUFVENFdvckJHTzJVWWRXV2g3cThTbU1YSFhBM0ZBYUtjTEJkMXFtVXNGX25UWm8ySDZrY0VDcTVxSnRPaWNhUlRqR0lPVlJRbE9hdnBoWEJXcnBoc0JNRHNIYi0yNWZTRHJYSVZCZUx3ZEJMc3pFZGpZYtIB_gFBVV95cUxPSUxWMXVCMElocnN0YlExN0QyYU1leVROenAtcGhyVy1IdXFJWmFkODFEdGlXdW9xZkJETmlIYXU4Z2ZWMUlQMzh4X09vem00U25qM2RFOHpUOFF4TGRRYTBvYlo4M1V6SDdleWFLUmtJajlYYThNaEdENFJkRE1IbWhSUU5CQkJweG85SG9zbE5oWEd0Mkc1azFlM2xVMWhwZGV3V0dKQVR1OUIzdzhGM2Q0cWhaS1ZKeElIZUdKeXVJdTJGV2dQYlZkRFFBWHhXNDFZU1VLRFh3Ylp2UUh6ak9yZGtSTTJVUDltZlc0RVhEQTVKdWl3UzVVdDk5Zw?oc=5
 
-- Gold, silver rates today: Precious metals crash as tension rises in the US-Iran war, yellow metal below $4,500
-  Gold and silver prices continue to fall amid rising tensions in the Middle East. Check today's COMEX gold and silver
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-flat-after-biggest-weekly-decline-in-over-40-years-silver-price-near-68-11774226399129.html
+- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
+  PM Modi becomes India's Longest-Serving
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
 
-- Fannie, Freddie Place Large Bids for Mortgage-Backed Securities
-  Fannie Mae and Freddie Mac have begun placing sizable orders to purchase mortgage-backed securities, a person with direct knowledge of the matter says.
-  🔗 https://www.livemint.com/market/fannie-freddie-place-large-bids-for-mortgage-backed-securities-11774227616570.html
+- PM Modi Heads List Of Longest-Serving Leaders: Who Are The Others? - NDTV
+  PM Modi heads List Of Longest-Serv
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRTU1JaSUJNWHQ2OHhucVNYOWVhNV8tVm9fRnNQN1RRUFo4ZmRpby1EZGRzb3JEc0pWeFU2bzlYSFhRZUttRWhJQWM0VU9EQ0EyMDc1S0dBamFoMjFQdW9HQ3NwajR5Yi05MXZZOFZxQ0Y3THRuWXQ5THFBR0xia0xwVzAtUkNwVEtISXhjdWs1aTN4Qk5vdGtSRnMxSGNza3R5MnZmZVPSAbABQVVfeXFMUHVtS2IzVmhqVW9RSjU0YS16SUlXS0hFcnF0bF9tMVFraGYwbzNEZEZpeUh1NE5xekhzdVNDd09xZ3pJMmlwM3FUWmp4YXNlaUNONmpDdHJxZGgzZkxCMUxpX2ljTXJNalBvclZuMWxvdndMU2F3a2FxMEtBNlVqb2phVUdNa3MwTDh4UjJyMjhBLTRnM0ZzUG9DbUZndDhHa0xIMDZydDhWMWcySF9vTko?oc=5
 
-- Innovision IPO listing date today. GMP, experts signal share debut at a steep discount on Indian stock market
-  Innovision IPO listing date is today, 23 March 2026. Equity shares will be listed on BSE and NSE.
-  🔗 https://www.livemint.com/market/ipo/innovision-ipo-listing-date-today-gmp-experts-signal-share-debut-at-a-steep-discount-on-indian-stock-market-11774201796122.html
+- Adobe Names Shamik Basu As Vice President, Creative Products Group In India - NDTV
+  Adobe Names Shamik Basu As Vice President
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1piMlJQdmxLOUJmN0FrVVo2MUlyaGI0QVZYaGdqT0hsVkhVcTk4N2c4X21CS2JZZDRMU3BZN25MWDIwTVdIbXpKbUVhOU9KX3pHRERIcjV2V01zNmhWZ3lEVEtrMGRRMkd1R0FoeldzQndNaDU4Nl9pRWZITkZqUmozeEVYUkQ2LXVWcW5WbVZNOFV0bzZhQVJYTGx6LVFuajZBYnQwdERKeGxhM2ZubVR6ZFg2QdIBvgFBVV95cUxOVkJjOElMT0tBLUVjUXVpRWZ6MnJxcG4wMkJEaDJWQmktRlRuWDdlZmdMbng4LUhtZFY5U0otVkpFMDJWMC0tZWlGTHdJRk1vSTdzeEtISHhSNUs4Y2hnRkMzVkU0eWMxTFF2eXhDSlNhME41ajJnSXdEVVVZbERNSFNzVy04cnJ2Y29zM3hYdm95dVJBU1pSd21RNENWV2RWaTl3cGx2U25teDAzZVdDWncza19ZSDRTRXNZWEJn?oc=5
 
-- Best mobile phones under  ₹20,000 in India in March 2026: Realme P4, Motorola Edge 60 Fusion and more
-  Check out our list of top phones under the  ₹20,000
-  🔗 https://www.livemint.com/technology/gadgets/best-mobile-phones-under-rs-20-000-in-india-in-march-2026-realme-p4-motorola-edge-60-fusion-and-more-11774171022893.html
+- If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy - The Times of India
+  If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi1UOWxwWVNBNkVRTXUzUVJZYUlIZzRQVjdmNFJEWXNOc0cyWUFzUnVpZE5PV0lDT2d5QXpYNnhVelpwV0tmVF9VSW5MdzFZZGgybEVOM2Fxb25yamo3OVVSZjNVSWtOVTV3MnUtR3NWQXdHN0UzTFFKV2FBRUlOVmFUUzBETFNoSzhMSTN5UkV6eThEcjJzNEV4Unc4RU10b0kxWWI0dUYyNGp6bUxPb1gwR3ZPcE43SGNoQV96OERIenFTOUluX3NWaEJQanFyVlJralNlWGEwNHRCeHI1Z1FEaVpNeUxyZTlSNGdiUnZ2S1hjWjM00gH8AUFVX3lxTE9MQXJvLWNPX0hUU3JjTGZxWlRqdy1YZUNpQjJTaGctUGNVR0NwZE5XYVVCbXN4dXB1THR4cm9UT0FCbXVSVTZUOFI4a2UyRk5mR3BOSXFreXBNd21zd2dkMG1zSUt6ckxncmFaTGhsRHRmSG9aUFU1UUJkZGpTRWZTUlU1dDBhN29rUW9YUnhnODY5WnVLWEt2SVlFN3drOHFILWU0UExOLVc5NDZ2dzFncHhieVM3RXZaZkVVQlR3VnR1bGgyc283d05mN1dxb1A5aTlOdmhCalgzWk5KTEI0ZmpINE1CdGZzWlRpamQ0RERXZnVPTzFaSUVuYg?oc=5
 
-- Mint Explainer | Can IBM reboot its AI play with $11 billion Confluent buyout?
-  IBM is betting on faster, more reliable data pipelines. Confluent’s real-time
-  🔗 https://www.livemint.com/technology/tech-news/ibm-confluent-buyout-impact-on-ai-cloud-agentic-ai-india-aws-google-microsoft-azure-11774167948601.html
+- PM Modi reviews power readiness in high-level meet as West Asia conflict rages | India News - Hindustan Times
+  PM Modi reviews power readiness in high-level meet as West Asia conflict r
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnY3ZlBCUHpHdnlva0lLYnVfaHJsX3pQUmY4Ri05MlhrdDNKZkZnVmMzLXZ2Yk9oa3V4Tm1NMXpndkkwQWVMUXhsclFLSXZtZTlkZnZLeThkSWdVNm1TaWpxODBKM2JZWnR5cm5Jc3Z6TEo0dzN5c0t2NVpJV2N4RThxeWhBUFVENFdvckJHTzJVWWRXV2g3cThTbU1YSFhBM0ZBYUtjTEJkMXFtVXNGX25UWm8ySDZrY0VDcTVxSnRPaWNhUlRqR0lPVlJRbE9hdnBoWEJXcnBoc0JNRHNIYi0yNWZTRHJYSVZCZUx3ZEJMc3pFZGpZYtIB_gFBVV95cUxPSUxWMXVCMElocnN0YlExN0QyYU1leVROenAtcGhyVy1IdXFJWmFkODFEdGlXdW9xZkJETmlIYXU4Z2ZWMUlQMzh4X09vem00U25qM2RFOHpUOFF4TGRRYTBvYlo4M1V6SDdleWFLUmtJajlYYThNaEdENFJkRE1IbWhSUU5CQkJweG85SG9zbE5oWEd0Mkc1azFlM2xVMWhwZGV3V0dKQVR1OUIzdzhGM2Q0cWhaS1ZKeElIZUdKeXVJdTJGV2dQYlZkRFFBWHhXNDFZU1VLRFh3Ylp2UUh6ak9yZGtSTTJVUDltZlc0RVhEQTVKdWl3UzVVdDk5Zw?oc=5
 
-- Elon Musk launches Terafab, unveils ‘most epic’ AI chip factory for Tesla and SpaceX
-  Terafab is a joint venture between Tesla and SpaceX. The initative is aimed at creating a comprehensive chip manufacturing facility in Austin, Texas.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-launches-terafab-unveils-most-epic-ai-chip-factory-for-tesla-and-spacex-11774167604152.html
+- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
+  PM Modi becomes India's Longest-Serving
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
 
-- Is iPhone Fold launch delayed? New leak reveals Apple's ‘Ultra’ iPhone may mirror iPhone X strategy
-  The Ultra iPhone from the company may not launch alongside the iPhone 18 Pro lineup in September. Apple's foldable phone may face another delay
-  🔗 https://www.livemint.com/technology/gadgets/is-iphone-fold-launch-delayed-new-leak-reveals-apples-ultra-iphone-may-mirror-iphone-x-strategy-11774163752499.html
+- PM Modi Heads List Of Longest-Serving Leaders: Who Are The Others? - NDTV
+  PM Modi heads List Of Longest-Serv
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRTU1JaSUJNWHQ2OHhucVNYOWVhNV8tVm9fRnNQN1RRUFo4ZmRpby1EZGRzb3JEc0pWeFU2bzlYSFhRZUttRWhJQWM0VU9EQ0EyMDc1S0dBamFoMjFQdW9HQ3NwajR5Yi05MXZZOFZxQ0Y3THRuWXQ5THFBR0xia0xwVzAtUkNwVEtISXhjdWs1aTN4Qk5vdGtSRnMxSGNza3R5MnZmZVPSAbABQVVfeXFMUHVtS2IzVmhqVW9RSjU0YS16SUlXS0hFcnF0bF9tMVFraGYwbzNEZEZpeUh1NE5xekhzdVNDd09xZ3pJMmlwM3FUWmp4YXNlaUNONmpDdHJxZGgzZkxCMUxpX2ljTXJNalBvclZuMWxvdndMU2F3a2FxMEtBNlVqb2phVUdNa3MwTDh4UjJyMjhBLTRnM0ZzUG9DbUZndDhHa0xIMDZydDhWMWcySF9vTko?oc=5
 
-- ‘Reddit is for humans’: Social media platform may soon ask to see your face to keep AI bots out
-  Reddit's CEO Steve Huffman has said that the platform may use Touch ID or Face ID to keep AI bots out. Huffman also noted that
-  🔗 https://www.livemint.com/technology/tech-news/reddit-is-for-humans-social-media-platform-may-soon-ask-to-see-your-face-to-keep-ai-bots-out-11774156396396.html
+- Adobe Names Shamik Basu As Vice President, Creative Products Group In India - NDTV
+  Adobe Names Shamik Basu As Vice President
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1piMlJQdmxLOUJmN0FrVVo2MUlyaGI0QVZYaGdqT0hsVkhVcTk4N2c4X21CS2JZZDRMU3BZN25MWDIwTVdIbXpKbUVhOU9KX3pHRERIcjV2V01zNmhWZ3lEVEtrMGRRMkd1R0FoeldzQndNaDU4Nl9pRWZITkZqUmozeEVYUkQ2LXVWcW5WbVZNOFV0bzZhQVJYTGx6LVFuajZBYnQwdERKeGxhM2ZubVR6ZFg2QdIBvgFBVV95cUxOVkJjOElMT0tBLUVjUXVpRWZ6MnJxcG4wMkJEaDJWQmktRlRuWDdlZmdMbng4LUhtZFY5U0otVkpFMDJWMC0tZWlGTHdJRk1vSTdzeEtISHhSNUs4Y2hnRkMzVkU0eWMxTFF2eXhDSlNhME41ajJnSXdEVVVZbERNSFNzVy04cnJ2Y29zM3hYdm95dVJBU1pSd21RNENWV2RWaTl3cGx2U25teDAzZVdDWncza19ZSDRTRXNZWEJn?oc=5
 
-- Global Market Today | Asia shares slip, oil choppy as Gulf war escalates
-  Global markets tumbled as escalating US-Iran tensions and prolonged Israeli conflict sent oil prices soaring. Asian shares and futures dipped, with investors bracing for weeks of fighting. This inflationary shock has extinguished hopes for rate cuts.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-slip-oil-choppy-as-gulf-war-escalates/articleshow/129740978.cms
+- If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex-Pak envoy - The Times of India
+  If America strikes us, we should attack Indian cities like Delhi and Mumbai: Ex
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi1UOWxwWVNBNkVRTXUzUVJZYUlIZzRQVjdmNFJEWXNOc0cyWUFzUnVpZE5PV0lDT2d5QXpYNnhVelpwV0tmVF9VSW5MdzFZZGgybEVOM2Fxb25yamo3OVVSZjNVSWtOVTV3MnUtR3NWQXdHN0UzTFFKV2FBRUlOVmFUUzBETFNoSzhMSTN5UkV6eThEcjJzNEV4Unc4RU10b0kxWWI0dUYyNGp6bUxPb1gwR3ZPcE43SGNoQV96OERIenFTOUluX3NWaEJQanFyVlJralNlWGEwNHRCeHI1Z1FEaVpNeUxyZTlSNGdiUnZ2S1hjWjM00gH8AUFVX3lxTE9MQXJvLWNPX0hUU3JjTGZxWlRqdy1YZUNpQjJTaGctUGNVR0NwZE5XYVVCbXN4dXB1THR4cm9UT0FCbXVSVTZUOFI4a2UyRk5mR3BOSXFreXBNd21zd2dkMG1zSUt6ckxncmFaTGhsRHRmSG9aUFU1UUJkZGpTRWZTUlU1dDBhN29rUW9YUnhnODY5WnVLWEt2SVlFN3drOHFILWU0UExOLVc5NDZ2dzFncHhieVM3RXZaZkVVQlR3VnR1bGgyc283d05mN1dxb1A5aTlOdmhCalgzWk5KTEI0ZmpINE1CdGZzWlRpamQ0RERXZnVPTzFaSUVuYg?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-   Markets closed last week with a negative bias, anticipating a data-sensitive upcoming week influenced by global uncertainties. West Asia conflict and crude oil prices are key external drivers. The Indian rupee experienced its
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129740963.cms
+- PM Modi reviews power readiness in high-level meet as West Asia conflict rages | India News - Hindustan Times
+  PM Modi reviews power readiness in high-level meet as West Asia conflict r
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnY3ZlBCUHpHdnlva0lLYnVfaHJsX3pQUmY4Ri05MlhrdDNKZkZnVmMzLXZ2Yk9oa3V4Tm1NMXpndkkwQWVMUXhsclFLSXZtZTlkZnZLeThkSWdVNm1TaWpxODBKM2JZWnR5cm5Jc3Z6TEo0dzN5c0t2NVpJV2N4RThxeWhBUFVENFdvckJHTzJVWWRXV2g3cThTbU1YSFhBM0ZBYUtjTEJkMXFtVXNGX25UWm8ySDZrY0VDcTVxSnRPaWNhUlRqR0lPVlJRbE9hdnBoWEJXcnBoc0JNRHNIYi0yNWZTRHJYSVZCZUx3ZEJMc3pFZGpZYtIB_gFBVV95cUxPSUxWMXVCMElocnN0YlExN0QyYU1leVROenAtcGhyVy1IdXFJWmFkODFEdGlXdW9xZkJETmlIYXU4Z2ZWMUlQMzh4X09vem00U25qM2RFOHpUOFF4TGRRYTBvYlo4M1V6SDdleWFLUmtJajlYYThNaEdENFJkRE1IbWhSUU5CQkJweG85SG9zbE5oWEd0Mkc1azFlM2xVMWhwZGV3V0dKQVR1OUIzdzhGM2Q0cWhaS1ZKeElIZUdKeXVJdTJGV2dQYlZkRFFBWHhXNDFZU1VLRFh3Ylp2UUh6ak9yZGtSTTJVUDltZlc0RVhEQTVKdWl3UzVVdDk5Zw?oc=5
 
-- Stocks in news: Vedanta, Tata Capital, Tata Motors PV, Godrej Properties, Dr Reddy's
-   Markets ended marginally higher after a volatile session. Vedanta challenged Adani's bid for Jaiprakash Associates. Tata Motors PV announced price hikes for its vehicles.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-tata-capital-tata-motors-pv-godrej-properties-dr-reddys/articleshow/129740930.cms
+- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
+  PM Modi becomes India's Longest-Serving
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
 
-- No let up in war &amp; rhetoric, a break of 22,900 can take Nifty to 22,500
-  Key support is seen around 22,900, with a risk of decline to 22,500 if tensions escalate. Upside is expected to be capped between 23,400 and 24,200.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/no-let-up-in-war-rhetoric-a-break-of-22900-can-take-nifty-to-22500/articleshow/129740870.cms
+- PM Modi Heads List Of Longest-Serving Leaders: Who Are The Others? - NDTV
+  PM Modi heads List Of Longest-Serv
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkRTU1JaSUJNWHQ2OHhucVNYOWVhNV8tVm9fRnNQN1RRUFo4ZmRpby1EZGRzb3JEc0pWeFU2bzlYSFhRZUttRWhJQWM0VU9EQ0EyMDc1S0dBamFoMjFQdW9HQ3NwajR5Yi05MXZZOFZxQ0Y3THRuWXQ5THFBR0xia0xwVzAtUkNwVEtISXhjdWs1aTN4Qk5vdGtSRnMxSGNza3R5MnZmZVPSAbABQVVfeXFMUHVtS2IzVmhqVW9RSjU0YS16SUlXS0hFcnF0bF9tMVFraGYwbzNEZEZpeUh1NE5xekhzdVNDd09xZ3pJMmlwM3FUWmp4YXNlaUNONmpDdHJxZGgzZkxCMUxpX2ljTXJNalBvclZuMWxvdndMU2F3a2FxMEtBNlVqb2phVUdNa3MwTDh4UjJyMjhBLTRnM0ZzUG9DbUZndDhHa0xIMDZydDhWMWcySF9vTko?oc=5
 
-- Gold braces for worst week in 4 decades
-  Gold is poised for its largest weekly loss since 1983. The precious metal's decline accelerated as the dollar and bond yields rallied.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-braces-for-worst-week-in-4-decades/articleshow/129740860.cms
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
-  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
-
-- EPFO reaches out to subscribers with unclaimed balance - The Times of India
-  EPFO reaches out to subscribers with unclaimed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
-
-- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
-  Cab drivers across Gurugram are on strike today
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
-  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
-
-- EPFO reaches out to subscribers with unclaimed balance - The Times of India
-  EPFO reaches out to subscribers with unclaimed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
-
-- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
-  Cab drivers across Gurugram are on strike today
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
-  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
-
-- EPFO reaches out to subscribers with unclaimed balance - The Times of India
-  EPFO reaches out to subscribers with unclaimed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
-
-- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
-  Cab drivers across Gurugram are on strike today
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
-  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
-
-- EPFO reaches out to subscribers with unclaimed balance - The Times of India
-  EPFO reaches out to subscribers with unclaimed
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
-
-- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
-  Cab drivers across Gurugram are on strike today
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
-
-- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
-  BCCI Announces India Tour of Ireland for
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
+- Adobe Names Shamik Basu As Vice President, Creative Products Group In India - NDTV
+  Adobe Names Shamik Basu As Vice President
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1piMlJQdmxLOUJmN0FrVVo2MUlyaGI0QVZYaGdqT0hsVkhVcTk4N2c4X21CS2JZZDRMU3BZN25MWDIwTVdIbXpKbUVhOU9KX3pHRERIcjV2V01zNmhWZ3lEVEtrMGRRMkd1R0FoeldzQndNaDU4Nl9pRWZITkZqUmozeEVYUkQ2LXVWcW5WbVZNOFV0bzZhQVJYTGx6LVFuajZBYnQwdERKeGxhM2ZubVR6ZFg2QdIBvgFBVV95cUxOVkJjOElMT0tBLUVjUXVpRWZ6MnJxcG4wMkJEaDJWQmktRlRuWDdlZmdMbng4LUhtZFY5U0otVkpFMDJWMC0tZWlGTHdJRk1vSTdzeEtISHhSNUs4Y2hnRkMzVkU0eWMxTFF2eXhDSlNhME41ajJnSXdEVVVZbERNSFNzVy04cnJ2Y29zM3hYdm95dVJBU1pSd21RNENWV2RWaTl3cGx2U25teDAzZVdDWncza19ZSDRTRXNZWEJn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-23 01:54:52 UTC_
+_Last updated: 2026-03-23 07:08:28 UTC_
