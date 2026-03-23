@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- How surprise field visits by Madhya Pradesh CM proved costly for top admin, police officers
+  
+  🔗 https://indianexpress.com/article/india/how-surprise-field-visits-by-madhya-pradesh-cm-proved-costly-for-top-admin-police-officers-10595715/
+
+- Drop Jinnah, Sir Syed, Iqbal from Political Science syllabus: Jammu University panel after ABVP protest
+  
+  🔗 https://indianexpress.com/article/india/drop-jinnah-sir-syed-iqbal-from-political-science-syllabus-jammu-university-panel-after-abvp-protest-10595708/
+
+- On Bihar Diwas, PM Modi praises Nitish for state’s development
+  
+  🔗 https://indianexpress.com/article/india/on-bihar-diwas-pm-modi-praises-nitish-for-states-development-10595751/
+
 - West Asia conflict: PM reviews mitigating measures planned, sets up team of key ministers
   
   🔗 https://indianexpress.com/article/india/pm-narendra-modi-ccs-meeting-west-asia-war-us-israel-iran-oil-supply-food-security-10595658/
@@ -7,18 +19,6 @@
 - 8,931 days: Union ministers, BJP chief hail Modi for becoming longest-serving head of elected govt
   
   🔗 https://indianexpress.com/article/india/modi-bjp-union-ministers-10595538/
-
-- 28-year-old woman killed after ropeway cable snaps in Chhattisgarh
-  
-  🔗 https://indianexpress.com/article/india/chhattisgarh-ropeway-cable-accident-woman-killed-10595541/
-
-- ‘Criminalising lived realities’: Protests across India against Transgender Persons Amendment Bill
-  
-  🔗 https://indianexpress.com/article/india/transgender-persons-protection-of-rights-amendment-bill-2026-protests-nalsa-10595508/
-
-- Video of teacher caning student at Vedic school in Ujjain goes viral, police register case
-  
-  🔗 https://indianexpress.com/article/india/video-teacher-caning-student-vedic-school-ujjain-10595486/
 
 - Xiaomi Pad 8 review: With smooth screen and premium build, is this tablet finally a true laptop replacement?
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/pinterest-ceo-calls-for-ban-on-social-media-for-youth-under-16-10594888/
 
-- Elon Musk announces ‘Terrafab’ project, will produce own AI chips to service Tesla, SpaceX's lofty space computing goals
-  Elon Musk announced SpaceX and Tesla will collaborate on a chip manufacturing facility in Austin, Texas. The facility will produce chips for AI, robotics
-  🔗 https://www.livemint.com/companies/news/elon-musk-terrafab-manufacture-texas-will-produce-own-ai-chips-service-tesla-cars-spacex-space-computing-goal-1-terawatt-11774199314298.html
+- Former Google executive Matt Brittin appointed as BBC's new chief after Tim Davie resignation over Trump fiasco: Report
+  Director-General Tim Davie will step down on 2 April. He announced his resignation in November following widespread criticism of the BBC.
+  🔗 https://www.livemint.com/companies/news/former-google-exec-matt-brittin-appointed-as-bbcs-new-director-general-after-tim-davie-resignation-over-trump-fiasco-11774225779196.html
 
-- Writing there are issues but not spelling them out creates uncertainties, says HDFC Bank CEO Jagdishan
-  Sashidhar Jagdishan says the market uncertainty stems from the former chairman’s vague resignation despite a lack of specific prior issues. He also expresses his
-  🔗 https://www.livemint.com/companies/writing-there-are-issues-but-not-spelling-them-out-creates-uncertainties-hdfc-bank-ceo-jagdishan-11774193456463.html
+- PE firm Multiples bets on AI-first tech services, pares legacy bets
+  Multiples Alternate Asset Management is betting on AI-first tech services firms. The shift reflects a broader change in India’s
+  🔗 https://www.livemint.com/companies/news/multiples-backs-ai-first-tech-services-firms-as-it-sheds-legacy-bets-11774155827278.html
 
-- Reddit CEO Steve Huffman feels AI won't impact entry level jobs for new graduates — Here's why
-  Reddit CEO Steve Huffman feels that artificial intelligence will not have an impact on entry level jobs for new graduates. He also feels that AI
-  🔗 https://www.livemint.com/companies/news/reddit-ceo-steve-huffman-artificial-intelligence-productive-no-engineer-job-cuts-hire-ai-native-new-graduates-write-code-11774191994718.html
+- Tata Semiconductor raises $735 million for chip fab, pledges Dholera land
+  Tata Semiconductor has raised the amount from five foreign banks for its Gujarat fab unit. Lenders imposing what executives call “unconventional’ terms on ownership, branding
+  🔗 https://www.livemint.com/companies/news/tata-semiconductor-chip-fab-foreign-banks-debt-dholera-11774152509511.html
 
-- 95% projects in West Asia are progressing as usual: L&amp;T
-  L&amp;amp;T always had a contingency plan for a war
-  🔗 https://www.livemint.com/companies/larsen-toubro-west-asia-project-operations-continuity-management-11774174307228.html
+- The chieftains of Tata Sons and the Shapoorji Pallonji Group come together, but for a religious event
+  The Kumbhabhishekam event committee's fund-raising letter naming Tata Sons chair Chandrasekaran as chief
+  🔗 https://www.livemint.com/companies/chieftains-tata-sons-shapoorji-pallonji-group-together-religious-event-chandrasekaran-shapoor-mistry-sri-sankara-mattham-11774178146258.html
 
-- Pernod Ricard seeks to nurture premium whiskey Blender’s Pride with fashion, new campaign on ‘success’
-  This month, French alcohol major Pernod Ricard released a new brand campaign for Blender’s
-  🔗 https://www.livemint.com/companies/pernod-ricard-india-cmo-blender-pride-strategy-whiskey-market-growth-11774171242294.html
+- Saudi Aramco boss pulls out of major international energy conference due to Iran conflict, source says
+  Saudi Aramco boss pulls out of major
+  🔗 https://www.livemint.com/companies/saudi-aramco-boss-pulls-out-of-major-international-energy-conference-due-to-iran-conflict-source-says-11774213278554.html
 
-- Oil prices to rise further on Monday as Mideast war escalates
-  Oil prices to rise further as
-  🔗 https://www.livemint.com/market/oil-prices-to-rise-further-on-monday-as-mideast-war-escalates-11774189631312.html
+- Indian stock market: 10 things that changed for market over weekend - Gift Nifty, Nikkei, Nasdaq slump to US-Iran war
+  Gift Nifty was trading around 22,808 level, a discount of nearly 332 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-10-things-that-changed-for-market-over-weekend-gift-nifty-nikkei-nasdaq-slump-to-us-iran-war-11774200720663.html
 
-- In a best-case scenario, the ongoing chaos can bring opportunity in next month, says expert
-  India continues to exhibit relative resilience, supported by a stable external debt position and strong underlying
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-ongoing-chaos-can-bring-opportunity-in-next-month-says-expert-11774169068506.html
+- Australian shares drop to 10-month low as traders gauge Middle East jitters
+  Australian shares drop to 10-month low
+  🔗 https://www.livemint.com/market/australian-shares-drop-to-10-month-low-as-traders-gauge-middle-east-jitters-11774229091795.html
 
-- USD vs INR: Rupee touches record low of 93.60. Can it further depreciate to 100 per dollar amid US-Iran war?
-  The rupee dropped over 1% to 93.7350 per dollar, breaching its previous record low of 92.63 hit earlier in
-  🔗 https://www.livemint.com/market/stock-market-news/usd-vs-inr-rupee-touches-record-low-of-93-60-can-it-further-depreciate-to-100-per-dollar-amid-us-iran-war-11774172851898.html
+- Gold, silver rates today: Precious metals crash as tension rises in the US-Iran war, yellow metal below $4,500
+  Gold and silver prices continue to fall amid rising tensions in the Middle East. Check today's COMEX gold and silver
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-flat-after-biggest-weekly-decline-in-over-40-years-silver-price-near-68-11774226399129.html
 
-- Gold rate today: Bullion logs worst weekly decline in 40 years. Will it crash further amid the ongoing US-Iran war?
-  Gold prices have remained under pressure since the beginning of US-Israel-Iran war. Checkout
-  🔗 https://www.livemint.com/market/commodities/gold-rate-today-bullion-witnesses-worst-weekly-decline-in-40-years-will-it-crash-further-amid-the-ongoing-us-iran-war-11774168727051.html
+- Fannie, Freddie Place Large Bids for Mortgage-Backed Securities
+  Fannie Mae and Freddie Mac have begun placing sizable orders to purchase mortgage-backed securities, a person with direct knowledge of the matter says.
+  🔗 https://www.livemint.com/market/fannie-freddie-place-large-bids-for-mortgage-backed-securities-11774227616570.html
 
-- Upcoming IPOs: Amir Chand Jagdish Kumar IPO, Powerica IPO among seven new issues to open next week; check list here
-  Investor sentiment remains cautious and selective, with markets closely monitoring geopolitical developments and volatility. Check the full list of IPOs opening next week.
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-amir-chand-jagdish-kumar-ipo-powerica-ipo-among-seven-new-issues-to-open-next-week-check-list-here-11774164129726.html
+- Innovision IPO listing date today. GMP, experts signal share debut at a steep discount on Indian stock market
+  Innovision IPO listing date is today, 23 March 2026. Equity shares will be listed on BSE and NSE.
+  🔗 https://www.livemint.com/market/ipo/innovision-ipo-listing-date-today-gmp-experts-signal-share-debut-at-a-steep-discount-on-indian-stock-market-11774201796122.html
 
 - Best mobile phones under  ₹20,000 in India in March 2026: Realme P4, Motorola Edge 60 Fusion and more
   Check out our list of top phones under the  ₹20,000
@@ -100,105 +100,105 @@
   Reddit's CEO Steve Huffman has said that the platform may use Touch ID or Face ID to keep AI bots out. Huffman also noted that
   🔗 https://www.livemint.com/technology/tech-news/reddit-is-for-humans-social-media-platform-may-soon-ask-to-see-your-face-to-keep-ai-bots-out-11774156396396.html
 
-- Trenzet Infra files papers with Sebi to raise funds via IPO
-  Trenzet Infra Ltd has filed preliminary papers with capital markets regulator Sebi to raise
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/trenzet-infra-files-papers-with-sebi-to-raise-funds-via-ipo/articleshow/129732394.cms
+- Global Market Today | Asia shares slip, oil choppy as Gulf war escalates
+  Global markets tumbled as escalating US-Iran tensions and prolonged Israeli conflict sent oil prices soaring. Asian shares and futures dipped, with investors bracing for weeks of fighting. This inflationary shock has extinguished hopes for rate cuts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-slip-oil-choppy-as-gulf-war-escalates/articleshow/129740978.cms
 
-- Godrej Properties, Lodha acquire over 25 land parcels in FY26 to build homes, eye Rs 1 lakh cr revenue
-  Godrej Properties Ltd and Lodha Developers Ltd are bullish on India's housing demand. They have acquired more than 25 land parcels so far this fiscal year.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-lodha-acquire-over-25-land-parcels-in-fy26-to-build-homes-eye-rs-1-lakh-cr-revenue/articleshow/129732359.cms
+- Pre-market action: Here's the trade setup for today's session
+   Markets closed last week with a negative bias, anticipating a data-sensitive upcoming week influenced by global uncertainties. West Asia conflict and crude oil prices are key external drivers. The Indian rupee experienced its
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129740963.cms
 
-- Govt may consider OFS option for raising public float in IDBI Bank
-  The government may consider selling a stake in IDBI Bank through the Offer-for-Sale (OFS) route to increase public
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-may-consider-ofs-option-for-raising-public-float-in-idbi-bank/articleshow/129732323.cms
+- Stocks in news: Vedanta, Tata Capital, Tata Motors PV, Godrej Properties, Dr Reddy's
+   Markets ended marginally higher after a volatile session. Vedanta challenged Adani's bid for Jaiprakash Associates. Tata Motors PV announced price hikes for its vehicles.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-tata-capital-tata-motors-pv-godrej-properties-dr-reddys/articleshow/129740930.cms
 
-- Sebi board to consider FPI settlement norms ease, intermediary reforms on Monday
-   Markets regulator Sebi board is set to meet on Monday to deliberate on a wide-ranging agenda. There is a proposal to ease fund settlement norms for foreign portfolio investors (FPIs)
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-to-consider-fpi-settlement-norms-ease-intermediary-reforms-on-monday/articleshow/129731252.cms
+- No let up in war &amp; rhetoric, a break of 22,900 can take Nifty to 22,500
+  Key support is seen around 22,900, with a risk of decline to 22,500 if tensions escalate. Upside is expected to be capped between 23,400 and 24,200.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/no-let-up-in-war-rhetoric-a-break-of-22900-can-take-nifty-to-22500/articleshow/129740870.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian markets rose, led by IT, auto, and metal stocks. Analysts indicate short-term pullbacks, with
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129730838.cms
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- 'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to p - The Times of India
-  'Did not initiate war': In call with PM Modi, Iran President Pezeshkian
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNQVkwM2F0eGpuLW8yajdpNE9ETldiZ2JHV3dDRjU4VDdPT2dfckR0c0phOExFZ25BRi1lLWQ2YUVxa1ZvTWpuczB4d0d2cy1fWGd3LV9sWm10TktUN1c1YjIxdlJRZ0VnUTVvUlVRTFNLLVpxLWFEVkxfZGFhMHBhZkR3eUxyTUFoN3hsSUd2aTI1NjMzUFZuQnk4THlqV3prLU4yTmdjbUpOdFo3cnRxUWtwSmlXSTg1VjNmWHJZLVlnWW1jcjNzOHNCeFpTVmx6cXNIYklGRUtOYjdWWmhsRHF6bHktaHdQQnRLZl9PVjd1VnN5V1VDS1JySHRSLS03QnhuMHJ4OUZmVFYyalVzcVgtRGhKUkVJU3BsdXNSMng0SHF1WHA40gGsAkFVX3lxTE1RY2I4S0Rvakd5cW5hWng0TTVUU1pkZDZ4ZUN0MEtPNlR1bmNrbGItVjJBTW9zU3ZkRmpFNFR6b3BxM1VtNm5obG1yTFN2ZzZhbjYzV0NncHFMYWtyUVVnakkwQmUxMlNES0V3cE9HaGkwYTYwZkptS0phWXBMalNNUWZlbVpSN0VIUEVmT3BUVGxZMWhxSGFyR2tzUkhndkZTeS0xVWlKMGNxZEVSSGVBRWpNU1NUN1VRZTQ2enFiaUZzcXk2OGtCOTZNZkVpa0EteEhjdXYwa2N0TFpRaWMycUNDbGViMHg1cjdNQk5PUVhRcnU2OTNnYTFGWDNmWmFxbXpXSGRvYVBOaW9nZ1pwRzMyekoxdzc1UE1hR2k0clBJaXVZbDdtNE5CSw?oc=5
-
-- Pradhan concludes Bharat Innovates pre-summit: ‘goal is to take innovations from every corner of India to global stage’ - The Hindu
-  Pradhan concludes Bharat Innovates pre-summit: ‘goal is
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQcUxUVlFnQmkwMm14SkpvaTVDcTAtbVZMZVJJMmFOVFJNUGhIQVVxOHJRT09KNXptZkUzc1NpUC1KR2pwNEpPbVhaZXQ0c3dUNWdERlZ3Q3pDTTktTlplYVB4YmJrcTNoS0cwMjZ3TGp0Z2ttRkRpOXlYRkI1Y3RPV0cxVDVmOG5xWThHQTdtQVUweFdlTjh5NUt6WHM1RXBhb0JjekxHX2swTi1KZjJvT2FReXludnZYakNleTR1N3N1RjJhS19LbUI5Ujd2bk10U3lyS1RTeFVwRnBzMUluTUJqQV92bjctWkJaLVd5VUw4QmV1WFdiM0tfWERscVd50gGHAkFVX3lxTE1OOVAwZWRYUE9pbWNWd1dmUmJJbElBai1QREpBNThESGFSQWljNHluY1pnVDMxd0dNUGZkT0otODQ0elFvS0Jma0FKcm4ybXRleVdoNjN5cjdxUGd1aS1ENVdHaU9GSnUySU1TTnZZNlNyRDQ0TFQ0ZHZkTEFoVllqNFVRYjVBTVVUQkVxdkh4Zi01R1paSVFTZ0hGNElyZzBuOUxwRnFyMVBJTGNEcVJwRm1WX1JRakFmVmNRSU04c3M3c045Rkh6WlhwbThOckhtazBZa3Y1U1FoQjhhRzE1YkpyNEcxY3N1aUdRZ2tOVTFoWTRVZ200WjdFYjJLanpYcGMyem80?oc=5
-
-- Coal gasification will be pivotal in strengthening India’s energy security: Union Minister G Kishan Reddy - News On AIR
-  Coal gasification will be pivotal in strengthening India’s energy security
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFMb21GYnNpaWJJNkZpLTVaSUpiQlVDUldSV3pkdnNHRm9UbHdQdVFWeWRaSUNjODF5NzdEcVVqS21mdjZMeDFhY2NtTDJ6RF9pajFqQ0wwdWktdzhZNHB1MEVONXh1SE8xOF9UNVZIVWxsTGJmVlB2Z3BZYXZIQUprMGJybmphZWxPRHBCeVo3RmNJMGhpSndmUkVXOFNJWE1jRHdPWDFtZzBLQ0djWGtNYTBOd2xFVGxhb29NUW5EOUxrUVVQSk1iMTJSUQ?oc=5
-
-- Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQald0UXZ1cVFSblFQRzFLYmdFU3YxbnJoelcxWmVlZ2Z0MjMyNlZYQ3YxbU10dzFPYUtSclJ5Z1VvR21EaXdKTXR3c3N1VVlBWGk0M3huTU5FY0RRYjlLTW1la0xDTl9oOXprWUUxam13cnVGeFRCWVo1aEppNWhWZ2M4X1ZHVWpwYkZpZEtkTXlXbXB3Sl9Wc1FXaUU0cXJBYllxZW5yNFlUeVZEUHhOS3lB0gG6AUFVX3lxTE45STh3aklHbl8yaUhGdVE2cHlUN3lseHVBcTUwWGhERldKdkI4RjkwWi1vZUtmVXlfLXo1QmlVckp0SXZHTHdXeTFKamY2eFBITi0tOGJWZU5qN3otb3F5ckVBVnlaYlhuRmFVU0JqamRIc3R6aUw0ZmZDcWFUWmt0MEQtWFRVYk5HcWZHMXJKcFdFVl9xcUJ2V0FTZU5tUTdaMDc4blVodGhsb3BpYUtaRGpoeGIxWXBpZw?oc=5
+- Gold braces for worst week in 4 decades
+  Gold is poised for its largest weekly loss since 1983. The precious metal's decline accelerated as the dollar and bond yields rallied.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-braces-for-worst-week-in-4-decades/articleshow/129740860.cms
 
 - 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
   'Pak Must Not Think Twice, Hit Mumbai,
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
 
-- 'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to p - The Times of India
-  'Did not initiate war': In call with PM Modi, Iran President Pezeshkian
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNQVkwM2F0eGpuLW8yajdpNE9ETldiZ2JHV3dDRjU4VDdPT2dfckR0c0phOExFZ25BRi1lLWQ2YUVxa1ZvTWpuczB4d0d2cy1fWGd3LV9sWm10TktUN1c1YjIxdlJRZ0VnUTVvUlVRTFNLLVpxLWFEVkxfZGFhMHBhZkR3eUxyTUFoN3hsSUd2aTI1NjMzUFZuQnk4THlqV3prLU4yTmdjbUpOdFo3cnRxUWtwSmlXSTg1VjNmWHJZLVlnWW1jcjNzOHNCeFpTVmx6cXNIYklGRUtOYjdWWmhsRHF6bHktaHdQQnRLZl9PVjd1VnN5V1VDS1JySHRSLS03QnhuMHJ4OUZmVFYyalVzcVgtRGhKUkVJU3BsdXNSMng0SHF1WHA40gGsAkFVX3lxTE1RY2I4S0Rvakd5cW5hWng0TTVUU1pkZDZ4ZUN0MEtPNlR1bmNrbGItVjJBTW9zU3ZkRmpFNFR6b3BxM1VtNm5obG1yTFN2ZzZhbjYzV0NncHFMYWtyUVVnakkwQmUxMlNES0V3cE9HaGkwYTYwZkptS0phWXBMalNNUWZlbVpSN0VIUEVmT3BUVGxZMWhxSGFyR2tzUkhndkZTeS0xVWlKMGNxZEVSSGVBRWpNU1NUN1VRZTQ2enFiaUZzcXk2OGtCOTZNZkVpa0EteEhjdXYwa2N0TFpRaWMycUNDbGViMHg1cjdNQk5PUVhRcnU2OTNnYTFGWDNmWmFxbXpXSGRvYVBOaW9nZ1pwRzMyekoxdzc1UE1hR2k0clBJaXVZbDdtNE5CSw?oc=5
+- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
+  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
 
-- Pradhan concludes Bharat Innovates pre-summit: ‘goal is to take innovations from every corner of India to global stage’ - The Hindu
-  Pradhan concludes Bharat Innovates pre-summit: ‘goal is
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQcUxUVlFnQmkwMm14SkpvaTVDcTAtbVZMZVJJMmFOVFJNUGhIQVVxOHJRT09KNXptZkUzc1NpUC1KR2pwNEpPbVhaZXQ0c3dUNWdERlZ3Q3pDTTktTlplYVB4YmJrcTNoS0cwMjZ3TGp0Z2ttRkRpOXlYRkI1Y3RPV0cxVDVmOG5xWThHQTdtQVUweFdlTjh5NUt6WHM1RXBhb0JjekxHX2swTi1KZjJvT2FReXludnZYakNleTR1N3N1RjJhS19LbUI5Ujd2bk10U3lyS1RTeFVwRnBzMUluTUJqQV92bjctWkJaLVd5VUw4QmV1WFdiM0tfWERscVd50gGHAkFVX3lxTE1OOVAwZWRYUE9pbWNWd1dmUmJJbElBai1QREpBNThESGFSQWljNHluY1pnVDMxd0dNUGZkT0otODQ0elFvS0Jma0FKcm4ybXRleVdoNjN5cjdxUGd1aS1ENVdHaU9GSnUySU1TTnZZNlNyRDQ0TFQ0ZHZkTEFoVllqNFVRYjVBTVVUQkVxdkh4Zi01R1paSVFTZ0hGNElyZzBuOUxwRnFyMVBJTGNEcVJwRm1WX1JRakFmVmNRSU04c3M3c045Rkh6WlhwbThOckhtazBZa3Y1U1FoQjhhRzE1YkpyNEcxY3N1aUdRZ2tOVTFoWTRVZ200WjdFYjJLanpYcGMyem80?oc=5
+- EPFO reaches out to subscribers with unclaimed balance - The Times of India
+  EPFO reaches out to subscribers with unclaimed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
 
-- Coal gasification will be pivotal in strengthening India’s energy security: Union Minister G Kishan Reddy - News On AIR
-  Coal gasification will be pivotal in strengthening India’s energy security
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFMb21GYnNpaWJJNkZpLTVaSUpiQlVDUldSV3pkdnNHRm9UbHdQdVFWeWRaSUNjODF5NzdEcVVqS21mdjZMeDFhY2NtTDJ6RF9pajFqQ0wwdWktdzhZNHB1MEVONXh1SE8xOF9UNVZIVWxsTGJmVlB2Z3BZYXZIQUprMGJybmphZWxPRHBCeVo3RmNJMGhpSndmUkVXOFNJWE1jRHdPWDFtZzBLQ0djWGtNYTBOd2xFVGxhb29NUW5EOUxrUVVQSk1iMTJSUQ?oc=5
+- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
+  Cab drivers across Gurugram are on strike today
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
 
-- Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQald0UXZ1cVFSblFQRzFLYmdFU3YxbnJoelcxWmVlZ2Z0MjMyNlZYQ3YxbU10dzFPYUtSclJ5Z1VvR21EaXdKTXR3c3N1VVlBWGk0M3huTU5FY0RRYjlLTW1la0xDTl9oOXprWUUxam13cnVGeFRCWVo1aEppNWhWZ2M4X1ZHVWpwYkZpZEtkTXlXbXB3Sl9Wc1FXaUU0cXJBYllxZW5yNFlUeVZEUHhOS3lB0gG6AUFVX3lxTE45STh3aklHbl8yaUhGdVE2cHlUN3lseHVBcTUwWGhERldKdkI4RjkwWi1vZUtmVXlfLXo1QmlVckp0SXZHTHdXeTFKamY2eFBITi0tOGJWZU5qN3otb3F5ckVBVnlaYlhuRmFVU0JqamRIc3R6aUw0ZmZDcWFUWmt0MEQtWFRVYk5HcWZHMXJKcFdFVl9xcUJ2V0FTZU5tUTdaMDc4blVodGhsb3BpYUtaRGpoeGIxWXBpZw?oc=5
-
-- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
-  'Pak Must Not Think Twice, Hit Mumbai,
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
-
-- 'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to p - The Times of India
-  'Did not initiate war': In call with PM Modi, Iran President Pezeshkian
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNQVkwM2F0eGpuLW8yajdpNE9ETldiZ2JHV3dDRjU4VDdPT2dfckR0c0phOExFZ25BRi1lLWQ2YUVxa1ZvTWpuczB4d0d2cy1fWGd3LV9sWm10TktUN1c1YjIxdlJRZ0VnUTVvUlVRTFNLLVpxLWFEVkxfZGFhMHBhZkR3eUxyTUFoN3hsSUd2aTI1NjMzUFZuQnk4THlqV3prLU4yTmdjbUpOdFo3cnRxUWtwSmlXSTg1VjNmWHJZLVlnWW1jcjNzOHNCeFpTVmx6cXNIYklGRUtOYjdWWmhsRHF6bHktaHdQQnRLZl9PVjd1VnN5V1VDS1JySHRSLS03QnhuMHJ4OUZmVFYyalVzcVgtRGhKUkVJU3BsdXNSMng0SHF1WHA40gGsAkFVX3lxTE1RY2I4S0Rvakd5cW5hWng0TTVUU1pkZDZ4ZUN0MEtPNlR1bmNrbGItVjJBTW9zU3ZkRmpFNFR6b3BxM1VtNm5obG1yTFN2ZzZhbjYzV0NncHFMYWtyUVVnakkwQmUxMlNES0V3cE9HaGkwYTYwZkptS0phWXBMalNNUWZlbVpSN0VIUEVmT3BUVGxZMWhxSGFyR2tzUkhndkZTeS0xVWlKMGNxZEVSSGVBRWpNU1NUN1VRZTQ2enFiaUZzcXk2OGtCOTZNZkVpa0EteEhjdXYwa2N0TFpRaWMycUNDbGViMHg1cjdNQk5PUVhRcnU2OTNnYTFGWDNmWmFxbXpXSGRvYVBOaW9nZ1pwRzMyekoxdzc1UE1hR2k0clBJaXVZbDdtNE5CSw?oc=5
-
-- Pradhan concludes Bharat Innovates pre-summit: ‘goal is to take innovations from every corner of India to global stage’ - The Hindu
-  Pradhan concludes Bharat Innovates pre-summit: ‘goal is
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQcUxUVlFnQmkwMm14SkpvaTVDcTAtbVZMZVJJMmFOVFJNUGhIQVVxOHJRT09KNXptZkUzc1NpUC1KR2pwNEpPbVhaZXQ0c3dUNWdERlZ3Q3pDTTktTlplYVB4YmJrcTNoS0cwMjZ3TGp0Z2ttRkRpOXlYRkI1Y3RPV0cxVDVmOG5xWThHQTdtQVUweFdlTjh5NUt6WHM1RXBhb0JjekxHX2swTi1KZjJvT2FReXludnZYakNleTR1N3N1RjJhS19LbUI5Ujd2bk10U3lyS1RTeFVwRnBzMUluTUJqQV92bjctWkJaLVd5VUw4QmV1WFdiM0tfWERscVd50gGHAkFVX3lxTE1OOVAwZWRYUE9pbWNWd1dmUmJJbElBai1QREpBNThESGFSQWljNHluY1pnVDMxd0dNUGZkT0otODQ0elFvS0Jma0FKcm4ybXRleVdoNjN5cjdxUGd1aS1ENVdHaU9GSnUySU1TTnZZNlNyRDQ0TFQ0ZHZkTEFoVllqNFVRYjVBTVVUQkVxdkh4Zi01R1paSVFTZ0hGNElyZzBuOUxwRnFyMVBJTGNEcVJwRm1WX1JRakFmVmNRSU04c3M3c045Rkh6WlhwbThOckhtazBZa3Y1U1FoQjhhRzE1YkpyNEcxY3N1aUdRZ2tOVTFoWTRVZ200WjdFYjJLanpYcGMyem80?oc=5
-
-- Coal gasification will be pivotal in strengthening India’s energy security: Union Minister G Kishan Reddy - News On AIR
-  Coal gasification will be pivotal in strengthening India’s energy security
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFMb21GYnNpaWJJNkZpLTVaSUpiQlVDUldSV3pkdnNHRm9UbHdQdVFWeWRaSUNjODF5NzdEcVVqS21mdjZMeDFhY2NtTDJ6RF9pajFqQ0wwdWktdzhZNHB1MEVONXh1SE8xOF9UNVZIVWxsTGJmVlB2Z3BZYXZIQUprMGJybmphZWxPRHBCeVo3RmNJMGhpSndmUkVXOFNJWE1jRHdPWDFtZzBLQ0djWGtNYTBOd2xFVGxhb29NUW5EOUxrUVVQSk1iMTJSUQ?oc=5
-
-- Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQald0UXZ1cVFSblFQRzFLYmdFU3YxbnJoelcxWmVlZ2Z0MjMyNlZYQ3YxbU10dzFPYUtSclJ5Z1VvR21EaXdKTXR3c3N1VVlBWGk0M3huTU5FY0RRYjlLTW1la0xDTl9oOXprWUUxam13cnVGeFRCWVo1aEppNWhWZ2M4X1ZHVWpwYkZpZEtkTXlXbXB3Sl9Wc1FXaUU0cXJBYllxZW5yNFlUeVZEUHhOS3lB0gG6AUFVX3lxTE45STh3aklHbl8yaUhGdVE2cHlUN3lseHVBcTUwWGhERldKdkI4RjkwWi1vZUtmVXlfLXo1QmlVckp0SXZHTHdXeTFKamY2eFBITi0tOGJWZU5qN3otb3F5ckVBVnlaYlhuRmFVU0JqamRIc3R6aUw0ZmZDcWFUWmt0MEQtWFRVYk5HcWZHMXJKcFdFVl9xcUJ2V0FTZU5tUTdaMDc4blVodGhsb3BpYUtaRGpoeGIxWXBpZw?oc=5
+- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
+  BCCI Announces India Tour of Ireland for
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
 
 - 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
   'Pak Must Not Think Twice, Hit Mumbai,
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
 
-- 'Did not initiate war': In call with PM Modi, Iran President Pezeshkian calls on India-chaired Brics to p - The Times of India
-  'Did not initiate war': In call with PM Modi, Iran President Pezeshkian
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNQVkwM2F0eGpuLW8yajdpNE9ETldiZ2JHV3dDRjU4VDdPT2dfckR0c0phOExFZ25BRi1lLWQ2YUVxa1ZvTWpuczB4d0d2cy1fWGd3LV9sWm10TktUN1c1YjIxdlJRZ0VnUTVvUlVRTFNLLVpxLWFEVkxfZGFhMHBhZkR3eUxyTUFoN3hsSUd2aTI1NjMzUFZuQnk4THlqV3prLU4yTmdjbUpOdFo3cnRxUWtwSmlXSTg1VjNmWHJZLVlnWW1jcjNzOHNCeFpTVmx6cXNIYklGRUtOYjdWWmhsRHF6bHktaHdQQnRLZl9PVjd1VnN5V1VDS1JySHRSLS03QnhuMHJ4OUZmVFYyalVzcVgtRGhKUkVJU3BsdXNSMng0SHF1WHA40gGsAkFVX3lxTE1RY2I4S0Rvakd5cW5hWng0TTVUU1pkZDZ4ZUN0MEtPNlR1bmNrbGItVjJBTW9zU3ZkRmpFNFR6b3BxM1VtNm5obG1yTFN2ZzZhbjYzV0NncHFMYWtyUVVnakkwQmUxMlNES0V3cE9HaGkwYTYwZkptS0phWXBMalNNUWZlbVpSN0VIUEVmT3BUVGxZMWhxSGFyR2tzUkhndkZTeS0xVWlKMGNxZEVSSGVBRWpNU1NUN1VRZTQ2enFiaUZzcXk2OGtCOTZNZkVpa0EteEhjdXYwa2N0TFpRaWMycUNDbGViMHg1cjdNQk5PUVhRcnU2OTNnYTFGWDNmWmFxbXpXSGRvYVBOaW9nZ1pwRzMyekoxdzc1UE1hR2k0clBJaXVZbDdtNE5CSw?oc=5
+- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
+  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
 
-- Pradhan concludes Bharat Innovates pre-summit: ‘goal is to take innovations from every corner of India to global stage’ - The Hindu
-  Pradhan concludes Bharat Innovates pre-summit: ‘goal is
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQcUxUVlFnQmkwMm14SkpvaTVDcTAtbVZMZVJJMmFOVFJNUGhIQVVxOHJRT09KNXptZkUzc1NpUC1KR2pwNEpPbVhaZXQ0c3dUNWdERlZ3Q3pDTTktTlplYVB4YmJrcTNoS0cwMjZ3TGp0Z2ttRkRpOXlYRkI1Y3RPV0cxVDVmOG5xWThHQTdtQVUweFdlTjh5NUt6WHM1RXBhb0JjekxHX2swTi1KZjJvT2FReXludnZYakNleTR1N3N1RjJhS19LbUI5Ujd2bk10U3lyS1RTeFVwRnBzMUluTUJqQV92bjctWkJaLVd5VUw4QmV1WFdiM0tfWERscVd50gGHAkFVX3lxTE1OOVAwZWRYUE9pbWNWd1dmUmJJbElBai1QREpBNThESGFSQWljNHluY1pnVDMxd0dNUGZkT0otODQ0elFvS0Jma0FKcm4ybXRleVdoNjN5cjdxUGd1aS1ENVdHaU9GSnUySU1TTnZZNlNyRDQ0TFQ0ZHZkTEFoVllqNFVRYjVBTVVUQkVxdkh4Zi01R1paSVFTZ0hGNElyZzBuOUxwRnFyMVBJTGNEcVJwRm1WX1JRakFmVmNRSU04c3M3c045Rkh6WlhwbThOckhtazBZa3Y1U1FoQjhhRzE1YkpyNEcxY3N1aUdRZ2tOVTFoWTRVZ200WjdFYjJLanpYcGMyem80?oc=5
+- EPFO reaches out to subscribers with unclaimed balance - The Times of India
+  EPFO reaches out to subscribers with unclaimed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
 
-- Coal gasification will be pivotal in strengthening India’s energy security: Union Minister G Kishan Reddy - News On AIR
-  Coal gasification will be pivotal in strengthening India’s energy security
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEFMb21GYnNpaWJJNkZpLTVaSUpiQlVDUldSV3pkdnNHRm9UbHdQdVFWeWRaSUNjODF5NzdEcVVqS21mdjZMeDFhY2NtTDJ6RF9pajFqQ0wwdWktdzhZNHB1MEVONXh1SE8xOF9UNVZIVWxsTGJmVlB2Z3BZYXZIQUprMGJybmphZWxPRHBCeVo3RmNJMGhpSndmUkVXOFNJWE1jRHdPWDFtZzBLQ0djWGtNYTBOd2xFVGxhb29NUW5EOUxrUVVQSk1iMTJSUQ?oc=5
+- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
+  Cab drivers across Gurugram are on strike today
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
 
-- Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQald0UXZ1cVFSblFQRzFLYmdFU3YxbnJoelcxWmVlZ2Z0MjMyNlZYQ3YxbU10dzFPYUtSclJ5Z1VvR21EaXdKTXR3c3N1VVlBWGk0M3huTU5FY0RRYjlLTW1la0xDTl9oOXprWUUxam13cnVGeFRCWVo1aEppNWhWZ2M4X1ZHVWpwYkZpZEtkTXlXbXB3Sl9Wc1FXaUU0cXJBYllxZW5yNFlUeVZEUHhOS3lB0gG6AUFVX3lxTE45STh3aklHbl8yaUhGdVE2cHlUN3lseHVBcTUwWGhERldKdkI4RjkwWi1vZUtmVXlfLXo1QmlVckp0SXZHTHdXeTFKamY2eFBITi0tOGJWZU5qN3otb3F5ckVBVnlaYlhuRmFVU0JqamRIc3R6aUw0ZmZDcWFUWmt0MEQtWFRVYk5HcWZHMXJKcFdFVl9xcUJ2V0FTZU5tUTdaMDc4blVodGhsb3BpYUtaRGpoeGIxWXBpZw?oc=5
+- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
+  BCCI Announces India Tour of Ireland for
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
+
+- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
+  'Pak Must Not Think Twice, Hit Mumbai,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
+
+- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
+  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
+
+- EPFO reaches out to subscribers with unclaimed balance - The Times of India
+  EPFO reaches out to subscribers with unclaimed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
+
+- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
+  Cab drivers across Gurugram are on strike today
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
+
+- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
+  BCCI Announces India Tour of Ireland for
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
+
+- 'Pak Must Not Think Twice, Hit Mumbai, Delhi': Ex Envoy's Chilling Remark - NDTV
+  'Pak Must Not Think Twice, Hit Mumbai,
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFpvZWxuZkNCOXpMNGJNcjFTdkxiNTRocm5aeXktR3FyWFFhVXNyOHNIU2w4Z3poZkEyTjdlUjd5SldTVGtXbXZBTjhPa1dJMDgtUEFNcXF4NDAxQzB2T0tLSXNZZmYzZjN4R1hmcUlieGg2YkVDMkxWZldCY21RcngxcGFfaXQzS0U3eXBybTlMU3l5cGFxdmlzTzZQVV9qaExmX24ySk1wNHBiN3pzSHJ3b2tadmQ2dGJfX1ZQNGR1anhvdUNRNjlSc3FaVmfSAdcBQVVfeXFMT2VZZVRrc0FpUWpUVGtSenB6a0JlYUFpWWo4MExXRG5OSC16bXlpLTk5U1RISnZLbUxVT25pc2NxOFpiUDZvQzRTVmhQSTJfc0hMZDJIQ1U5LXVXUFZXQl81S1hLOUNXYU5iLVdTTHZ1aVdpdFBVdHNsS0F4V3FnVEhDR0JndjRldTZpNHp2MWc5WnNONGRtanNfYkhiendERmg5eWRtdGdyWTdRcW5ORklLZmhvY1F5ajgtZHZZejRBZFRRLVZvQl8xeVc2blQ5QVlDbl9nbEk?oc=5
+
+- If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre remark | India News - Hindustan Times
+  If US attacks Pakistan, we will target New Delhi and Mumbai: Former Pak envoy's bizarre
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYUJobDNkRE1DRy0yY2p0cFNnTThXVk4wVVpaRko1dTRFdzdxWDlFd0JIQmJ0dVN0TGVTNTQwNW5GV29rZlpIdDZkMllIOFBwN3NsRVdpQ3VzZFFSOTV0d21IOERUQXA2dVNibHlrWTE3QlpnSmQwc1NmMDhIT2dWaXd5d3YwVmJjbmFWV3A2bTdRN0NBb0Q3NE1UdWpWYlE2aVJNaHBYZXBIWDNXUjFCWkZYd3hoQWJyOGJLNlhfVHR4eEV6aWdSRkc5TEhRYmNkVlZZSV9JUFNLVzRXOFNYQ3lfOHZhQzhNVkFPMUttS3RMd9IB9wFBVV95cUxPaUZ2RWt2a2k3Y1FiLU95NHdJamNoakRtNzZHMVBOVm9hWG42ZE1tQ2xWOGpjVUR4S0dtNGhVUTJ5dWJlZkFNRkZPR0p5S1JLdVlFUjlPTDdTaFk2LWUtSW96WGpCSnh4cm9RUUZ5ajEwWGJwdXdwY3dyaU9rMEZCeVZqaFNCNms4Y1YyaUZDRmxpbmUyVjJaQ0tqQ0xGVFMwNHpWX0VkUEN2alZkbTFjeFYyWWhCUTdXMDNqS01TcXdVSFhwdlpJTFR1ZS0yZThaeV94RWdyTEFFMFc4eUQ4Umtzci1kWWpndVdSSWtLN0x6U0gxVjJ3?oc=5
+
+- EPFO reaches out to subscribers with unclaimed balance - The Times of India
+  EPFO reaches out to subscribers with unclaimed
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcERTbE9Vd1g5VXJjZzJhdWktTm04Tmg2U2E4SDFVcU9wVW1XUTg5U2xKd2lTakFWbWNPVjIwbFFhZU9zcWJKS3RiUFR5NVFaZW5ldDdQajJYd0ZDbEJRRGFpS3B4TEZzdnNGWHN1ejEzWnpHVW5OT0JGZTkwc1F5Tjl5UnVNRjFlbGVOWklkb1YzeEFOeU1RZk5VVThyQ2xQcGpfSDBGZ0RSb0Z0TWR1dUFNZGRaM2pkazNtRzBJMNIBxAFBVV95cUxPeXpqd3l6U0htUXlzNzlZeEFLcTAtdkJTbFhZZV9vN1dKM3BnZmpzYVFIWE1UQTg0T2F3cmlyVWZPUll1cHVCTEJsSFptTWYzcERSVl92ODlYWTd1eU1wQ2JTcm5HUFBxbkdEVXdqMFpQbEc1NE9VLVdDUWNyTDEwUGlYRkV0eTBQcHdwRm41eWIxaXBKYkdUN09jUjIyMHNFZGNGaEN5VnhVSm5rdXZic1pEZkhRUjA4c2E1Vmt1RWd1UVRV?oc=5
+
+- Why cab drivers across Gurugram are on strike today | India News - Hindustan Times
+  Cab drivers across Gurugram are on strike today
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9vTVgxSzNJZzZSQzJfQXhQdXFaazkxeDFocWVCVzViMi1KSFp0b2Uwa2x5ZEZwZ0M2N1VSdndmeHBEMFZFWFhfYXhlcWZfeG5rLWx3eEJYdjcyMEo1cHFpcjlNRDdyV056WVRHRDNkbFVOellkNnFReXB3MVZEblYtVXVIcEI2XzlIOExBQm5EWFFsQzJuNG9nQmpJYVBSRWJLODJWS01hRWNqUG1ScVZTS1_SAboBQVVfeXFMUDItMEVIbGZhbnNfOHpHUkdyU0s2cm1ram14Z3pIaEFWWWNOUml3d2ZWOFluMzBYemhqdGlWNHBJa25hRWd5b25naDBSMGgzbE5SMVNob05TSnVRWjhwc3hNcWxNUlFvaF9HUUo0RmZJVEN6UkJReFQ2Y1NyWDNTS0hOdU9OcEJtOWFhZ05EaDY4Vzh0aGlJQTlKT1FrTFdNUlJoVzVxeUlXbWgxNmJwRjVBNUw2d19YWWl3?oc=5
+
+- BCCI Announces India Tour of Ireland for T20I Series - News On AIR
+  BCCI Announces India Tour of Ireland for
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmdWdDBqQmFtVXk1UzlOLWNpRG90ZlBRZnF6UURxZUtIYTk2ZmJGQ056eWdCOUkycHlCN19NTmZWVTVNMHpUdmZhV3RPaEVBS25ocWpRYWQ1M19QQXY3SXRva1haZnA0YVlVS2tCQkI5TU5TaTlaZXNVQldLWEZkbUpucWlVQ0xWLVE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-22 18:34:45 UTC_
+_Last updated: 2026-03-23 01:54:52 UTC_
