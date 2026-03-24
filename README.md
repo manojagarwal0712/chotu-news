@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Kerala Weather Update: IMD issues yellow alert; Kerala braces for ‘hot and humid’ week
+- He killed comrade for wanting to surrender. Month later, Odisha’s top Maoist lays down arms himself
   
-  🔗 https://indianexpress.com/article/india/kerala-weather-update-imd-issues-yellow-alert-kerala-braces-for-hot-and-humid-week-10597859/
+  🔗 https://indianexpress.com/article/india/killed-comrade-surrender-odisha-maoist-lays-down-arms-himself-10598902/
 
-- Gold, Silver Rate Today, 24 March 2026 Live Updates: MCX gold down nearly 5%, silver stages partial recovery after steep fall
+- Jharkhand to Greater Noida via Ahmedabad – journey of a teenage girl ‘trafficked, confined by couple’
   
-  🔗 https://indianexpress.com/article/india/gold-silver-prices-today-live-updates-india-bullion-mcx-10597782/
+  🔗 https://indianexpress.com/article/india/jharkhand-greater-noida-ahmedabad-journey-teenage-girl-trafficked-confined-couple-10598752/
 
-- Gold Rate Today, March 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- West Asia conflict: PM Modi says India has adequate crude storage and arrangements for supplies despite ‘serious crisis’
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-march-24-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10597547/
+  🔗 https://indianexpress.com/article/india/pm-modi-rajya-sabha-crude-oil-supply-west-asia-crisis-energy-security-10598608/
 
-- ‘Days of Royalty are Over’: Behind the explosive fallout between Tripura CM and the royal scion ahead of April polls
+- PM’s foreign policy a ‘universal joke’, says Rahul; Kharge seeks answers on energy crisis
   
-  🔗 https://indianexpress.com/article/india/tripura-ttaadc-elections-tipra-motha-bjp-rift-pradyot-debarrma-manik-saha-tiprasa-accord-10597704/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-pm-modi-foreign-policy-west-asia-covid-modi-10598558/
 
-- Rajasthan villagers spend night at collectorate as protest against cement plant intensifies
+- Opposition demands all-party meet on Women’s Reservation Act amendment, seeks govt note
   
-  🔗 https://indianexpress.com/article/india/rajasthan-villagers-spend-night-at-collectorate-as-protest-against-cement-plant-intensifies-10597442/
+  🔗 https://indianexpress.com/article/india/opposition-demands-all-party-meet-on-womens-reservation-act-amendment-seeks-govt-note-10598398/
 
-- Apple to hold annual developers conference from June 8
+- Google Gemini will soon let you import memory from ChatGPT: Here’s how it works
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-to-hold-annual-developers-conference-from-june-8-10597715/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-import-memory-chatgpt-feature-explained-10598890/
 
-- OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic: Reports
+- Tech and Gadget Launches Today (March 24, 2026):Vivo T5x 5G, Samsung Forever, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-reports-10597714/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-24-2026vivo-t5x-5g-samsung-forever-and-more-10598863/
 
-- Meta’s Zuckerberg developing AI agent to help with his CEO duties: Report
+- Your iPhone could be hacked in minutes: Why a new GitHub leak puts millions of Apple devices at risk
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/metas-zuckerberg-developing-ai-agent-to-help-with-his-ceo-duties-report-10596571/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-darksword-hacking-kit-ios-18-26-10598427/
 
-- Samsung brings AirDrop support to Galaxy S26 series: How to transfer files to iPhone
+- Anthropic’s Claude can now use your computer like a human: Will it replace OpenClaw?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-brings-airdrop-support-galaxy-s26-how-to-transfer-files-10596534/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-computer-use-ai-agents-openclaw-10598605/
 
-- iPhone 17 now at cheapest price in India: Check all latest deals, discounts, exchange offers here
+- Simple nail polish may solve one of touchscreen’s biggest problems
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-cheapest-price-india-latest-deals-discounts-10596451/
+  🔗 https://indianexpress.com/article/technology/science/simple-nail-polish-may-solve-one-of-touchscreens-biggest-problems-10598422/
 
-- HDFC Bank may appoint Wadia Ghandy, Trilegal to study board meeting minutes to trace Chakraborty's concerns
-  Wadia Ghandy &amp;amp; Co and Trilegal will help HDFC Bank’s internal legal counsels s
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-atanu-chakraborty-resignation-wadia-ghandy-trilegal-banking-industry-india-11774324404276.html
+- JPMorgan appoints Rahul Badhwar as India senior country officer
+  HSBC veteran Badhwar will join in July. The bank is sharpening
+  🔗 https://www.livemint.com/companies/news/jp-morgan-rahul-badhwar-india-senior-country-officer-hsbc-veteran-new-appointment-11774350262916.html
 
-- OpenAI warns Microsoft could be a ‘risk factor’ in its business ahead of potential IPO: Report
-  OpenAI said that the operating results of the AI company will depend on whether it can successfully establish relationships with additional partners. However, a glitch in the Microsoft
-  🔗 https://www.livemint.com/companies/news/openai-warns-microsoft-could-be-a-risk-factor-in-its-business-ahead-of-potential-ipo-report-11774320777322.html
+- Merger done, can Omnicom-IPG keep the agency model alive in India?
+  As ads become more digital and media gets complicated, services offered by the advertising industry are getting commodified, automated, and simply co-opted by Big Tech and consulting firms. Om
+  🔗 https://www.livemint.com/companies/omnicom-ipg-merger-2026-global-ad-landscape-shift-11774349656992.html
 
-- HDFC Bank appoints external law firms to review Atanu Chakraborty's resignation letter — ‘Did not mention…’
-  Atanu Chakraborty stepped down from his role, citing differences with HDFC Bank over ‘values and ethics’ The bank is conducting a third-
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-appoints-external-law-firms-to-review-atanu-chakrabortys-resignation-letter-did-not-mention-11774316265532.html
+- LeapFrog drops continuation vehicle plans, eyes listings, block deals, M&amp;A for exits
+  LeapFrog Investments says block deals, mergers, acquisitions, and public listings are primary paths
+  🔗 https://www.livemint.com/companies/leapfrog-investments-continuation-vehicles-ipos-m-a-block-deals-exits-pranav-kumar-public-listings-private-equity-11774345028373.html
 
-- Accenture cautions employees walking into offices without seat bookings
-  Accenture India is threatening employees with disciplinary action for visiting offices without prior seat bookings. The policy highlights the tension between the firm's cost-efficiency goals and its
-  🔗 https://www.livemint.com/companies/accenture-office-booking-policy-employees-corrective-action-real-estate-11774253825742.html
+- How Ford is using AI to power its next-gen ambitions
+  Ford is embedding AI across engineering and operations as it races to become a software-led mobility company. From 15-hour
+  🔗 https://www.livemint.com/companies/ford-ai-strategy-software-defined-vehicles-india-tech-hub-11774320523828.html
 
-- Rapido disrupted cabs. Can it do the same in food delivery?
-  Rapido is launching Ownly, a food-delivery app using a subscription-led model. By onboarding mom-and-pop outlets and reducing consumer fees
-  🔗 https://www.livemint.com/companies/news/rapido-disrupted-cabs-can-it-do-the-same-in-food-delivery-11774264427876.html
+- NCLAT refuses to stay Adani’s  ₹14,543 crore JAL resolution plan, seeks lenders' responses
+  The tribunal has allowed the implementation of Adani�
+  🔗 https://www.livemint.com/companies/news/nclat-refuses-to-stay-adani-s-14-543-crore-jal-resolution-plan-seeks-lenders-responses-11774336892763.html
 
-- Highness Microelectronics IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO in 10 key points
-  The Highness Microelectronics IPO has opened for subscription. With significant interest shown and a promising grey market premium, investors are keen to learn about the details.
-  🔗 https://www.livemint.com/market/ipo/highness-microelectronics-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11774328761020.html
+- Central Mine Planning IPO Day 3: Issue booked 1.05x on strong QIB demand; all other portions remain undersubscribed
+  Central Mine Planning IPO was subscribed 1.05 times at the end of the third day. Only the QIB segment was fully booked and all other segments did not sail through.
+  🔗 https://www.livemint.com/market/ipo/central-mine-planning-ipo-day-3-issue-booked-1-05x-on-strong-qib-demand-all-other-portions-remain-undersubscribed-11774355774546.html
 
-- Gold, silver rate today, 24 March: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver on
-  Gold and silver prices crashed today on the MCX amid the war in the Middle East and inflation concerns. Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-24-march-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-on-11774328695176.html
+- Powerica IPO: Issue receives tepid response on Day 01, subscribed 0.01x; GMP signals flat listing
+  Powerica Limited's IPO launched on March 23 saw minimal interest, with only 0.01 times subscription. The company aims to raise  ₹1,100 crore at a price
+  🔗 https://www.livemint.com/market/stock-market-news/powerica-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-01x-gmp-signals-flat-listing-11774354255492.html
 
-- Gold price crash echoes 2008 trend, could pave way for $11,400, predicts Peter Schiff
-  Peter Schiff highlights a similar trend observed during 2008 GFC, when prices crashed 32%, erasing about 40% of the bull market gains.
-  🔗 https://www.livemint.com/market/commodities/gold-price-crash-echoes-2008-trend-could-pave-way-for-gold-rate-to-hit-11-400-predicts-peter-schiff-11774331921796.html
+- Stock market holidays: BSE, NSE to see 3 trading holidays in next 8 sessions. Check details
+  There are two holiday-shortened weeks in the Indian stock market to mark the occasions of Ram Nav
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-bse-nse-to-see-3-trading-holidays-in-next-8-sessions-check-details-11774354028990.html
 
-- Penny stock under  ₹5 jumps over 7% on acquisition update. Do you own?
-  SEPC share price has declined 40% in one month, and has plunged 52% on a year-to-date (YTD) basis. The penny stock
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-sepc-share-price-jumps-over-7-on-acquisition-update-do-you-own-11774331466589.html
+- US stock market today: Dow, S&amp;P 500 futures edge lower as oil rebound tempers relief rally
+  Oil prices rebound following Iran's denial of talks with the US. Key indices are down slightly, and ongoing tensions in West Asia continue to impact oil prices.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-edge-lower-as-oil-rebound-tempers-relief-rally-11774349848239.html
 
-- Small-cap under  ₹50: IT stock jumps 6.5% following stock market rally
-  Blue Cloud Softech Solutions saw a 6.5% rise in share price, indicating a strategic move into public sector healthcare. The company announced a purchase order from Central
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-under-rs-50-it-stock-jumps-6-5-following-stock-market-rally-11774329588350.html
+- US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court
+  In December 2020, some $3.5 billion worth of Bitcoin was taken from its owner in what’s been called the biggest crypto hack ever. Almost five years later, the new holder of the hoard — by
+  🔗 https://www.livemint.com/market/uss-mysterious-15-billion-crypto-haul-faces-questions-in-court-11774351217973.html
 
 - AI becoming integral to how networks are designed, experienced: TRAI Chief
    AI becoming integral to how networks
@@ -100,85 +100,45 @@
   Check out our list of top phones under the  ₹20,000
   🔗 https://www.livemint.com/technology/gadgets/best-mobile-phones-under-rs-20-000-in-india-in-march-2026-realme-p4-motorola-edge-60-fusion-and-more-11774171022893.html
 
-- Convenience at pricey valuation: Urban Company shares jump 3% but Motilal Oswal remains neutral, here's why
-  Motilal Oswal initiated coverage with a Neutral rating, citing balanced risk-reward at current valuations. While strong growth prospects and market leadership support the outlook, concerns around valuation, competition and gradual consumer adoption limit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/convenience-at-pricey-valuation-urban-company-shares-jump-3-but-motilal-oswal-remains-neutral-heres-why/articleshow/129769082.cms
+- US Stocks Today | US stocks futures subdued as Middle East uncertainty tempers relief rally
+  U.S. stock index futures were muted on Tuesday after a relief rally in the previous session. renewed doubts over easing Middle East tensions weighed on sentiment despite President Donald Trump
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-futures-subdued-as-middle-east-uncertainty-tempers-relief-rally/articleshow/129776170.cms
 
-- HDFC Bank a “screaming buy” amid market uncertainty: Sameer Dalal
-  Market expert Sameer Dalal views HDFC Bank as a 'screaming buy' despite current market jitters and governance concerns. He believes the bank's current valuation offers a
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/hdfc-bank-a-screaming-buy-amid-market-uncertainty-sameer-dalal/articleshow/129769037.cms
+- Veeba Food is said to plan IPO to raise up to $200 million
+  VRB Consumer Products preparing an IPO that could raise up to $200 million. Firm has hired Axis Capital, Motilal Oswal Investment Advisors and Jefferies Financial Group.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/veeba-food-is-said-to-plan-ipo-to-raise-up-to-200-million/articleshow/129775894.cms
 
-- Prolonged conflict could send crude prices soaring to $125: Peter McGuire
-  Geopolitical developments are causing market volatility. Traders are reacting to political signals, influencing price discovery. Future oil prices depend on de-escalation or further conflict.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/prolonged-conflict-could-send-crude-prices-soaring-to-125-peter-mcguire/articleshow/129768581.cms
+- 65% of Indian firms plan flexible workspaces by 2027: CBRE-FICCI Report
+  Nearly 65% of office occupiers in India expect to integrate flexible workspaces into their portfolios by 2027. Currently, 55% of respondents already maintain such spaces within their office setups.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/65-of-indian-firms-plan-flexible-workspaces-by-2027-cbre-ficci-report/articleshow/129775404.cms
 
-- Suzlon Energy shares jump 3% as firm wins sixth repeat order for 100 MW from GAIL
-  Suzlon Energy shares rose over 3% after the company secured its sixth repeat 100 MW wind energy order from GAIL. The project, located in Maharashtra, will support decarbonisation efforts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-jump-3-as-firm-wins-sixth-repeat-order-for-100-mw-from-gail/articleshow/129768564.cms
+- Sattva Group expects over Rs 8,600 cr revenue from new 50 acre housing project in Bengaluru
+  Sattva Group is expecting a revenue of over Rs 8,600 crore from its new 50 acre residential project in Bengaluru.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sattva-group-expects-over-rs-8600-cr-revenue-from-new-50-acre-housing-project-in-bengaluru/articleshow/129775319.cms
 
-- Bitcoin climbs to $70K as Trump’s Iran strike pause sparks risk-on rally, crypto market cap adds $60 billion
-  Cryptocurrencies saw gains, with Bitcoin outperforming traditional assets. Near-term price action for Bitcoin remains dependent on geopolitical stability and Federal Reserve policy.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-70k-as-trumps-iran-strike-pause-sparks-risk-on-rally-crypto-market-cap-adds-60-billion/articleshow/129768435.cms
+- 9 large-cap stocks trading below their industry average PE
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-large-cap-stocks-trading-below-their-industry-average-pe/slideshow/129775382.cms
 
-- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
-  PM Modi becomes India's Longest-Serving
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
+- PM Modi Says, India’s West Asia Approach Highlights Its Strength and Decisive Action - News On AIR
+  PM Modi: India’s West Asia Approach Highlights Its Strength
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTJWQkQweVhWZE16eEZMaDA4T0FITUoxN3UxLTQxc3VFUHprRDNXb3p2SEMzd2UxUFkxUW9xSEt1M1k4UTVWN3RDMVhoT0VuYUVIWXRqYkhfT1NnZ3hiem1scWN3NloyLWc4OTVOQlZZSGJXUDQza3U0eEw5Yk42U0E0LTRGWE1UODROYmU3ckxKLVJrblN3Wk1fcWFjNkFzcU5uVWY2bw?oc=5
 
-- LPG Crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage, rising prices; Rajasthan gets 10% extra commercial LPG quota - The Times of India
-  LPG crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage. Rajasthan gets 10%
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+- Govt calls all-party meet tomorrow to discuss Iran-US war, amid Oppn uproar | India News - Hindustan Times
+  Govt calls all-party meet tomorrow to discuss Iran-US war
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxONk9UUFl0NVd6SDliN0dlNjViZHlqZjI1VEwyMzNuSTBEZDJPUktHRUtvYi0tVFJpdUROdGlPVS1ZajZweWxfbWgxYlRiZkpxeS1pNnQzSVNMNkI3dFptM2dvVVN1Z0V6VkRkbTFfQy1SUldjRHN0ZVhmWUZaTV84cVlLeWtZTnFvb0Z4d18wWXhVNUlJTnlCQWZpTkhCWVhzb0xWNUhrZVZ4MnAzOUVSSldWSVNxNldaRmF6S1F3VlJmcExUSDVVYTRocVRqbnBleXlNSEdZeGt5Unk2WnBIQWZ3N25mQUM5NldhTEViTk1EekdLYkRCWGpIT3FmTS13R2ZCX0JzZ9IBjAJBVV95cUxQSzhNbmlXaUxEMUNjTXBxanRfS3VBdEpJVDhHM3g3Y0NIcHhHTkdsSDYzanNFa290ZlAzbGpZMmUxcGJJbTdTV2FHWXlObGl3b1M5MzJ1RGNLSmZWUEpPSk1pMnBFal9yc0JneWI0aXBieDRBdDhBaWx0OGVuN2xWNWZhTlVSamlyMUdKOGRhOHZGR0lwZkpPV3ptVVdmR2M0UEpVOUdsbFFoUEN3emM4TGZHQUVqQkFqUWtjSTJqVTU0UVhvTUgwRU94RVRBcnRlWGthbVZiUGF3dDhTSmZONFNKY18wWl9XbUJMSVlKR2lCTzNsS2JXX2pIelVKd0o0ZEVCcUw0a2pIU0VD?oc=5
 
-- Air India, Air India Express to Operate 24 Flights to and from West Asia Today - News On AIR
-  Air India, Air India Express to Operate 24 Flights to and from
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2h5aWFfTk40d2o5MzBVTUt2bUtuY05hVXoyMUd2RHpfZS0yRUtUNHdLX2RTR0VEX1VCT0x4WTJSaG94N1hlNnh3dXY1U0I0V1dHd3pDejVSWV9hNjlJN3BCdUJKeDk5a2lyazhsZjlLUjh4ZzJWajA5dlY4OTlFVmtIV2RHN2tPQjZWQVlFU1hjYkVEU3Vqb3l5c1lPWkVKT0t1YTdIalVtWjg?oc=5
+- Video: Offered Rs 4 Per Kg, Maharashtra Farmer Dumps 25 Quintals Of Tomatoes - NDTV
+  A Maharashtra farmer has been offered Rs 4 per Kg
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDQzckkxVG5nMUg0YU8zemhETHF5YS1YaEs4TVB2SlV2cmJ4WXJwYUU0YUZtSUY3YU9DOUI1LVFmVWJZYmxCM1l6djZfSlY5VEx5SUNhQmd4ZXJiWDNWOTlLWlhxeDI5NzV1czFjZ0s3aS1xZmdGWnV4SHpoUHd3T2c5UWN2LVROakRQSEdrSGQ2cVdzVmdJYW5jeFlqZnY4TUNhSENLTy1zZU1ISzBjS2M2V1FFUdIBvgFBVV95cUxQOTZvRkJ1VF9aMXR4c3RyZ09Gcy1oejBKWU9GejJ4dGF2S3JKZGVhZ2ZyTmh5S2J4ZEVRQUNwbDY5XzJuUThoMmpFOUNLbmluMElsR18zUDhESEpkdVUtYkNlQkE2N0hLUHJCY040bTdsMUtsNGMzcnJHQ3dRcWl1MlNZM290NU9NMEFUVE9SRnFfMmNCclBtN0dobjBxQ21EWmIyd2JCUDNySnA5OG8xRTFDSWVsRGVVejFJaTFn?oc=5
 
-- US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five days after 'very good' talks - The Hindu
-  US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQW93ejBDM1l6cDFaRHVqdUt5ZUwtZXplX2VqSjBYaVN2aHpNRVYyWkpDQnlXVk1rWW5fd0lRN1JDRkRBVldyaDYyT1JxbFJFSkhHYkkwT0ROSVk0OUI5a044S1RWckM5Q2xKUGpOY3lWSnJpUFdHb25GbWp0M2FRZXg3Qmk4eXVGWWpGaHdYby1EU1kzQW42cHJmR3FUbmx2aTdGaWJUNHIwREhCaGNmeGxkV244WGt3U3VteEJCUnlkNllqcjUyaGlVM19UeGJQdGQ1LXV4Vm9DQ29oSXd4SDdTbm8wNGNNQ1ptemVELWwxUdIB-AFBVV95cUxPcEtQLWRBTUxEd203MUNuYm93M0Q5dVNJLWRyMmVfMHhQM1hYMU5tNjVwS09xMjBvZi1uQjdGY0hFRGtWaC1GeWlhSS1Ob3ZGNDZabGYxRTBRTEx0WURiZHZKQ3VLTk5hZWdDNjgyNHRTSTlCVndtR2hWREVJXzJyUENlelNMVmRSN0xQd0tLS3NJWTNxelotZ1VMZDA2M2pzWHNRLV9yVll5VS12NFNwR3lsWnN6dmQzd2NyRnVXVV9Oa0NKZ005dW9odThXSWVOay1kdDFoa3ZiWGVtR3l4VkFrN3J4N3EtSUgxR1k0NGs1dkloN0tUag?oc=5
+- Evening news wrap: PM Modi outlines India's fuel preparedness; Kashmiri separatist Asiya Andrabi gets lif - The Times of India
+  Evening news wrap: PM Modi outlines India's fuel preparedness. Kashmiri
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNSGRpV21fRUg5MGo1VGJVYnExZ0R4MDRPMGVkOUZ1REdZSlpPQXkyVzdDLXhrbGpoalloN3RWTWwtSTViaG5yT25BS1RhMENsUHViSzVfYzhGYTFWTGV3M3dveHVMNzlSdnJaLUhMZEFxVF9yaEZDb2N3QlZoYmt6X1d2NWVwNkM5Q3JZZGlQY0xJbHkwSkhtVkg3YW1XWEFNc2N3THBqNnRfSENIN2Jlcl9ZSmVaSXhSTmctVklkVy1RTUdWMEdFaFRmUlJJZ1RQUG5RVmdQV21ubVU0M2UxbjBWV3NMVVdIemZuUjdmUlIxSFpfaGFIN1JhU2dVSUVCTHJiMEdfVi1NNFZyVTJVN0x0OXktOU9a0gGeAkFVX3lxTE9JQkphSWZrTUR0SE1GVkhCTlJ2dUt3emR0OGx2dzRnd3dGX2l1RFh1N2dSUU16V29HY2dBOE9tak5aVHNzWHdYUWoxQWp0czlFV3E5NUJ4bjJ6a3FpT0VOb1JpbDhLa3Bqc2FudUNWcjktZjhQVF9ndkQ2MnJSSXNiRThrWHdmQ2NIOGtxUXA0LUdOa291d1Rpc2VDOFBjYWlFX1pXRjdUMFJ0aFY2aTYwdDh6bFVqTnlZMnZXemJSWDFwRTZqLW42VnJBcmxaOFBlVWI0WEdqVi1LdVVYZFp0REdfdEplWFFkeXN0ekRyV2FWNVJKRG1wX3lzVWZ1SHgwX0dXTWtGR2tudUtndVcyeElTWEZnSXVLNEtyQ1E?oc=5
 
-- Germany has a shortage of workers - so it's turning to India for help - BBC
-  Germany has a shortage of workers - so it's turning to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WYWxSVkowV3JDVlNvc19xYmFTQ0U1VHlVTXlsWXdKYVFfbjFRTS13cXhQaVE1QUpMNExSWHg5bW5DcTRSenpqNkdVaEJRVEI0eTlQVkZ1MzBqQQ?oc=5
-
-- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
-  PM Modi becomes India's Longest-Serving
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
-
-- LPG Crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage, rising prices; Rajasthan gets 10% extra commercial LPG quota - The Times of India
-  LPG crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage. Rajasthan gets 10%
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
-
-- Air India, Air India Express to Operate 24 Flights to and from West Asia Today - News On AIR
-  Air India, Air India Express to Operate 24 Flights to and from
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2h5aWFfTk40d2o5MzBVTUt2bUtuY05hVXoyMUd2RHpfZS0yRUtUNHdLX2RTR0VEX1VCT0x4WTJSaG94N1hlNnh3dXY1U0I0V1dHd3pDejVSWV9hNjlJN3BCdUJKeDk5a2lyazhsZjlLUjh4ZzJWajA5dlY4OTlFVmtIV2RHN2tPQjZWQVlFU1hjYkVEU3Vqb3l5c1lPWkVKT0t1YTdIalVtWjg?oc=5
-
-- US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five days after 'very good' talks - The Hindu
-  US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQW93ejBDM1l6cDFaRHVqdUt5ZUwtZXplX2VqSjBYaVN2aHpNRVYyWkpDQnlXVk1rWW5fd0lRN1JDRkRBVldyaDYyT1JxbFJFSkhHYkkwT0ROSVk0OUI5a044S1RWckM5Q2xKUGpOY3lWSnJpUFdHb25GbWp0M2FRZXg3Qmk4eXVGWWpGaHdYby1EU1kzQW42cHJmR3FUbmx2aTdGaWJUNHIwREhCaGNmeGxkV244WGt3U3VteEJCUnlkNllqcjUyaGlVM19UeGJQdGQ1LXV4Vm9DQ29oSXd4SDdTbm8wNGNNQ1ptemVELWwxUdIB-AFBVV95cUxPcEtQLWRBTUxEd203MUNuYm93M0Q5dVNJLWRyMmVfMHhQM1hYMU5tNjVwS09xMjBvZi1uQjdGY0hFRGtWaC1GeWlhSS1Ob3ZGNDZabGYxRTBRTEx0WURiZHZKQ3VLTk5hZWdDNjgyNHRTSTlCVndtR2hWREVJXzJyUENlelNMVmRSN0xQd0tLS3NJWTNxelotZ1VMZDA2M2pzWHNRLV9yVll5VS12NFNwR3lsWnN6dmQzd2NyRnVXVV9Oa0NKZ005dW9odThXSWVOay1kdDFoa3ZiWGVtR3l4VkFrN3J4N3EtSUgxR1k0NGs1dkloN0tUag?oc=5
-
-- Germany has a shortage of workers - so it's turning to India for help - BBC
-  Germany has a shortage of workers - so it's turning to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WYWxSVkowV3JDVlNvc19xYmFTQ0U1VHlVTXlsWXdKYVFfbjFRTS13cXhQaVE1QUpMNExSWHg5bW5DcTRSenpqNkdVaEJRVEI0eTlQVkZ1MzBqQQ?oc=5
-
-- 8,931 Days In Office, PM Modi Becomes India's Longest-Serving Head Of Government - NDTV
-  PM Modi becomes India's Longest-Serving
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3NlSHFoaUw5VzRNVktpamEtMjFBWWx2RXVZanFqaWtDUnBiMVRDWG1GOXY0Uk45dnR3amJtQ1p2TVVqQ3pzdy11VUFRdWVZOTUxcXExSElsWDMxZFpNT3lYWmhSVkNfRUxCaFRkLWVTbW5FSEZkUEE0ZTV0X3VWdUdKODdLR0M5dXB4by0zXy1VdjZIYUwyUmVtNmdKOWZzeG8yTEZacXhlQjQ5Y1RpVjNWMmdQUlJHZzBVajBzRGV4TDNNTEdxdE9R0gHSAUFVX3lxTE40MXlNZkFzWUVsS0FEY0c1TVROVTFmTlNoeGtFMDR0WG9iX3NDRXUweXRTMGpNQjM0cUhMbWhZTHAtRllaMVp5SEpoRFZBalp3Z3J0UjI0YnVHb1RvckdVTVY2Y1JZSDA2X0VLdnI3blRoOEJ3elZaUGFfM0ZCTVRzdTRtVTBkaTNiUVV2YkppNEFfblRUcnFwdEk1c3FyR1pXZ0FBbDhoVzgwWTY4YWg3ZGkxd3RsNWVBa0J4TW44UHpRN2YwTU50b0ZfbVZQaEt0QQ?oc=5
-
-- LPG Crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage, rising prices; Rajasthan gets 10% extra commercial LPG quota - The Times of India
-  LPG crisis in India Live Updates: Congress urges PM Narendra Modi to explain steps taken to tackle LPG shortage. Rajasthan gets 10%
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
-
-- Air India, Air India Express to Operate 24 Flights to and from West Asia Today - News On AIR
-  Air India, Air India Express to Operate 24 Flights to and from
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX2h5aWFfTk40d2o5MzBVTUt2bUtuY05hVXoyMUd2RHpfZS0yRUtUNHdLX2RTR0VEX1VCT0x4WTJSaG94N1hlNnh3dXY1U0I0V1dHd3pDejVSWV9hNjlJN3BCdUJKeDk5a2lyazhsZjlLUjh4ZzJWajA5dlY4OTlFVmtIV2RHN2tPQjZWQVlFU1hjYkVEU3Vqb3l5c1lPWkVKT0t1YTdIalVtWjg?oc=5
-
-- US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five days after 'very good' talks - The Hindu
-  US-Israeli war on Iran LIVE: Trump says postponing Iran power plant strikes for five
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQW93ejBDM1l6cDFaRHVqdUt5ZUwtZXplX2VqSjBYaVN2aHpNRVYyWkpDQnlXVk1rWW5fd0lRN1JDRkRBVldyaDYyT1JxbFJFSkhHYkkwT0ROSVk0OUI5a044S1RWckM5Q2xKUGpOY3lWSnJpUFdHb25GbWp0M2FRZXg3Qmk4eXVGWWpGaHdYby1EU1kzQW42cHJmR3FUbmx2aTdGaWJUNHIwREhCaGNmeGxkV244WGt3U3VteEJCUnlkNllqcjUyaGlVM19UeGJQdGQ1LXV4Vm9DQ29oSXd4SDdTbm8wNGNNQ1ptemVELWwxUdIB-AFBVV95cUxPcEtQLWRBTUxEd203MUNuYm93M0Q5dVNJLWRyMmVfMHhQM1hYMU5tNjVwS09xMjBvZi1uQjdGY0hFRGtWaC1GeWlhSS1Ob3ZGNDZabGYxRTBRTEx0WURiZHZKQ3VLTk5hZWdDNjgyNHRTSTlCVndtR2hWREVJXzJyUENlelNMVmRSN0xQd0tLS3NJWTNxelotZ1VMZDA2M2pzWHNRLV9yVll5VS12NFNwR3lsWnN6dmQzd2NyRnVXVV9Oa0NKZ005dW9odThXSWVOay1kdDFoa3ZiWGVtR3l4VkFrN3J4N3EtSUgxR1k0NGs1dkloN0tUag?oc=5
-
-- Germany has a shortage of workers - so it's turning to India for help - BBC
-  Germany has a shortage of workers - so it's turning to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WYWxSVkowV3JDVlNvc19xYmFTQ0U1VHlVTXlsWXdKYVFfbjFRTS13cXhQaVE1QUpMNExSWHg5bW5DcTRSenpqNkdVaEJRVEI0eTlQVkZ1MzBqQQ?oc=5
+- India news: Loni is world's most polluted city, report says - DW.com
+  India news: Loni is world's
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjVadDEyTHh3TWNPVGlKT1ptOE12ZUR1cVJfXzQwSDdfakI3RGNnX3d2ODc2RDBVamxFb0hIWk1KMTBudnNyc3hYdU1rbFZoRXVYdlZjWFVFR1lTMS1raERKajhKck1pZlBpMVZzSjZzcHlJMy1VeHhlNWxtTHRHZklxeFlUaEFGZXFLZFhKLVV6cE9raVdHenJ0NnJ6eExkVWlnY2tMUmZ0LVk?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-24 07:02:07 UTC_
+_Last updated: 2026-03-24 13:03:03 UTC_
