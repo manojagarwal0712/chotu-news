@@ -1,84 +1,72 @@
 # 📰 Daily News Summaries
 
-- He killed comrade for wanting to surrender. Month later, Odisha’s top Maoist lays down arms himself
-  
-  🔗 https://indianexpress.com/article/india/killed-comrade-surrender-odisha-maoist-lays-down-arms-himself-10598902/
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
 
-- Jharkhand to Greater Noida via Ahmedabad – journey of a teenage girl ‘trafficked, confined by couple’
-  
-  🔗 https://indianexpress.com/article/india/jharkhand-greater-noida-ahmedabad-journey-teenage-girl-trafficked-confined-couple-10598752/
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
 
-- West Asia conflict: PM Modi says India has adequate crude storage and arrangements for supplies despite ‘serious crisis’
-  
-  🔗 https://indianexpress.com/article/india/pm-modi-rajya-sabha-crude-oil-supply-west-asia-crisis-energy-security-10598608/
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
 
-- PM’s foreign policy a ‘universal joke’, says Rahul; Kharge seeks answers on energy crisis
-  
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-pm-modi-foreign-policy-west-asia-covid-modi-10598558/
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
 
-- Opposition demands all-party meet on Women’s Reservation Act amendment, seeks govt note
-  
-  🔗 https://indianexpress.com/article/india/opposition-demands-all-party-meet-on-womens-reservation-act-amendment-seeks-govt-note-10598398/
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
 
-- Google Gemini will soon let you import memory from ChatGPT: Here’s how it works
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-import-memory-chatgpt-feature-explained-10598890/
+- Nelson Peltz Is Giving Hedge Funds a Little Sweetener
+  Nelson Peltz has sweetened his bid for Janus Henderson Group Plc to a “best and final’ $8 billion. The billionaire activist investor can be pushed around a little bit.
+  🔗 https://www.livemint.com/companies/nelson-peltz-is-giving-hedge-funds-a-little-sweetener-11774377299322.html
 
-- Tech and Gadget Launches Today (March 24, 2026):Vivo T5x 5G, Samsung Forever, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-24-2026vivo-t5x-5g-samsung-forever-and-more-10598863/
+- Nvidia’s Huang says human-level AI has arrived. Don’t get too excited.
+  CEO Jensen Huang is positive about the potential of artificial intelligence. Nvidia stock
+  🔗 https://www.livemint.com/companies/news/nvidias-huang-says-human-level-ai-has-arrived-don-t-get-too-excited-11774367693354.html
 
-- Your iPhone could be hacked in minutes: Why a new GitHub leak puts millions of Apple devices at risk
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-darksword-hacking-kit-ios-18-26-10598427/
+- Trai drops 1% turnover penalty proposal, caps telcos’ false reporting fine at  ₹5 cr
+  The telecom regulator bows to industry pressure, replacing the controversial percentage-based fines with a fixed, slab-based framework
+  🔗 https://www.livemint.com/companies/trai-turnover-penalty-proposal-telcos-false-reporting-fine-tariff-plans-financial-penalties-licence-fees-spectrum-11774361354014.html
 
-- Anthropic’s Claude can now use your computer like a human: Will it replace OpenClaw?
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-computer-use-ai-agents-openclaw-10598605/
+- Sona Comstar battle: Priya Kapur moves to oust Rani Kapur from trust
+  The developments mark the latest escalation in the dispute between Priya Kapur and her estranged mother-in-law, Rani Kapur.
+  🔗 https://www.livemint.com/companies/people/priya-kapur-removes-rani-kapur-from-a-key-family-trust-as-sona-comstars-promoter-battle-escalates-11774356400966.html
 
-- Simple nail polish may solve one of touchscreen’s biggest problems
-  
-  🔗 https://indianexpress.com/article/technology/science/simple-nail-polish-may-solve-one-of-touchscreens-biggest-problems-10598422/
+- Swiggy follows suit after Zomato raises platform fee per order amid Middle East conflict — check new rate
+  Swiggy has raised its platform fee per order, following a similar increase by Zomato amid the Middle East conflict. Both companies now charge effectively the
+  🔗 https://www.livemint.com/companies/news/swiggy-follows-suit-raises-platform-fee-per-order-after-zomato-amid-middle-east-conflict-check-new-rate-11774355127333.html
 
-- JPMorgan appoints Rahul Badhwar as India senior country officer
-  HSBC veteran Badhwar will join in July. The bank is sharpening
-  🔗 https://www.livemint.com/companies/news/jp-morgan-rahul-badhwar-india-senior-country-officer-hsbc-veteran-new-appointment-11774350262916.html
+- Wall Street indexes mixed on rising yields, worries about Middle East war
+  Wall Street indexes mixed on rising yields, worries about
+  🔗 https://www.livemint.com/market/wall-street-indexes-mixed-on-rising-yields-worries-about-middle-east-war-11774378412615.html
 
-- Merger done, can Omnicom-IPG keep the agency model alive in India?
-  As ads become more digital and media gets complicated, services offered by the advertising industry are getting commodified, automated, and simply co-opted by Big Tech and consulting firms. Om
-  🔗 https://www.livemint.com/companies/omnicom-ipg-merger-2026-global-ad-landscape-shift-11774349656992.html
+- Oil rises as supply disruption persists and Iran denies talks with US
+  Oil rises as supply disruption persists and
+  🔗 https://www.livemint.com/market/oil-rises-as-supply-disruption-persists-and-iran-denies-talks-with-us-11774377361135.html
 
-- LeapFrog drops continuation vehicle plans, eyes listings, block deals, M&amp;A for exits
-  LeapFrog Investments says block deals, mergers, acquisitions, and public listings are primary paths
-  🔗 https://www.livemint.com/companies/leapfrog-investments-continuation-vehicles-ipos-m-a-block-deals-exits-pranav-kumar-public-listings-private-equity-11774345028373.html
+- Relief rally lifts markets as Trump’s Iran strike pause cools war jitters
+  Indian stocks surged on Tuesday, led by the Nifty 50 and Sensex 30
+  🔗 https://www.livemint.com/market/relief-rally-lifts-markets-as-us-donald-trump-iran-strike-pause-cools-war-jitters-11774359025762.html
 
-- How Ford is using AI to power its next-gen ambitions
-  Ford is embedding AI across engineering and operations as it races to become a software-led mobility company. From 15-hour
-  🔗 https://www.livemint.com/companies/ford-ai-strategy-software-defined-vehicles-india-tech-hub-11774320523828.html
+- HCL Technologies sets board meeting date to declare Q4 results 2026, interim dividend for FY26
+  HCL Technologies will hold a board meeting on April 21, 2026, to review Q4 FY26 financial results and consider an interim dividend. The company shares have remained under severe pressure
+  🔗 https://www.livemint.com/market/stock-market-news/hcl-technologies-sets-board-meeting-date-to-declare-q4-results-2026-interim-dividend-for-fy26-11774368552990.html
 
-- NCLAT refuses to stay Adani’s  ₹14,543 crore JAL resolution plan, seeks lenders' responses
-  The tribunal has allowed the implementation of Adani�
-  🔗 https://www.livemint.com/companies/news/nclat-refuses-to-stay-adani-s-14-543-crore-jal-resolution-plan-seeks-lenders-responses-11774336892763.html
+- Amir Chand Jagdish Kumar IPO: Issue subscribed 1.26x on Day 1, NII demand drives subscription
+  Amir Chand Jagdish Kumar (Exports) IPO was subscribed 1.26 times by the end of its opening day. The price range is  ₹201
+  🔗 https://www.livemint.com/market/stock-market-news/amir-chand-jagdish-kumar-ipo-issue-subscribed-1-26x-on-day-1-nii-demand-drives-subscription-11774367580542.html
 
-- Central Mine Planning IPO Day 3: Issue booked 1.05x on strong QIB demand; all other portions remain undersubscribed
-  Central Mine Planning IPO was subscribed 1.05 times at the end of the third day. Only the QIB segment was fully booked and all other segments did not sail through.
-  🔗 https://www.livemint.com/market/ipo/central-mine-planning-ipo-day-3-issue-booked-1-05x-on-strong-qib-demand-all-other-portions-remain-undersubscribed-11774355774546.html
+- A group of Oscar winners set out to make the definitive AI documentary
+  A group of Oscar winners set out to
+  🔗 https://www.livemint.com/technology/a-group-of-oscar-winners-set-out-to-make-the-definitive-ai-documentary-11774366184879.html
 
-- Powerica IPO: Issue receives tepid response on Day 01, subscribed 0.01x; GMP signals flat listing
-  Powerica Limited's IPO launched on March 23 saw minimal interest, with only 0.01 times subscription. The company aims to raise  ₹1,100 crore at a price
-  🔗 https://www.livemint.com/market/stock-market-news/powerica-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-01x-gmp-signals-flat-listing-11774354255492.html
-
-- Stock market holidays: BSE, NSE to see 3 trading holidays in next 8 sessions. Check details
-  There are two holiday-shortened weeks in the Indian stock market to mark the occasions of Ram Nav
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-bse-nse-to-see-3-trading-holidays-in-next-8-sessions-check-details-11774354028990.html
-
-- US stock market today: Dow, S&amp;P 500 futures edge lower as oil rebound tempers relief rally
-  Oil prices rebound following Iran's denial of talks with the US. Key indices are down slightly, and ongoing tensions in West Asia continue to impact oil prices.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-edge-lower-as-oil-rebound-tempers-relief-rally-11774349848239.html
-
-- US’s Mysterious $15 Billion Crypto Haul Faces Questions in Court
-  In December 2020, some $3.5 billion worth of Bitcoin was taken from its owner in what’s been called the biggest crypto hack ever. Almost five years later, the new holder of the hoard — by
-  🔗 https://www.livemint.com/market/uss-mysterious-15-billion-crypto-haul-faces-questions-in-court-11774351217973.html
+- Czech police arrest 3 over arson at drone warehouse supplying Ukraine
+  Czech police arrest 3 over
+  🔗 https://www.livemint.com/technology/czech-police-arrest-3-over-arson-at-drone-warehouse-supplying-ukraine-11774363694929.html
 
 - AI becoming integral to how networks are designed, experienced: TRAI Chief
    AI becoming integral to how networks
@@ -92,81 +80,125 @@
   The OnePlus 15T smartphone will be launched in China on Tuesday, 24 March. Ahead of the device's unveiling, here's everything you need to know about
   🔗 https://www.livemint.com/technology/gadgets/oneplus-15t-to-be-unveiled-soon-launch-date-specifications-expected-price-in-india-all-you-need-to-know-11774238848094.html
 
-- Apple stalls launch of two new smart home devices as it waits for Gemini powered Siri AI: Report
-  Apple has reportedly not launched new products due to delays in Siri and AI upgrades. Apple has developed new
-  🔗 https://www.livemint.com/technology/tech-news/apple-stalls-launch-of-two-new-smart-home-devices-as-it-waits-for-gemini-powered-siri-ai-report-11774229036853.html
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Indian indices jumped sharply as President Trump hinted at a pause in Middle East conflict, boosting banks, auto, and IT stocks. Despite gains, technical charts signal market uncertainty
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/129780997.cms
 
-- Best mobile phones under  ₹20,000 in India in March 2026: Realme P4, Motorola Edge 60 Fusion and more
-  Check out our list of top phones under the  ₹20,000
-  🔗 https://www.livemint.com/technology/gadgets/best-mobile-phones-under-rs-20-000-in-india-in-march-2026-realme-p4-motorola-edge-60-fusion-and-more-11774171022893.html
+- Adani Green block deal: BNP Paribas buys 6.9 lakh shares worth Rs 56 crore
+  Adani Green Energy saw block deals with BNP Paribas buying and Morgan Stanley selling shares. Despite a December-quarter net loss, the company’s power supply revenue and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-green-block-deal-bnp-paribas-buys-6-9-lakh-shares-worth-rs-56-crore/articleshow/129780932.cms
 
-- US Stocks Today | US stocks futures subdued as Middle East uncertainty tempers relief rally
-  U.S. stock index futures were muted on Tuesday after a relief rally in the previous session. renewed doubts over easing Middle East tensions weighed on sentiment despite President Donald Trump
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-futures-subdued-as-middle-east-uncertainty-tempers-relief-rally/articleshow/129776170.cms
+- NBFCs seek easing of LCR norms, propose graded haircuts for bonds; finance ministry asks RBI to review industry demand
+   NBFCs have urged the finance ministry to replace flat LCR haircuts on lower-rated bonds with a graded system. The government has asked RBI to review the proposal.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/nbfcs-seek-easing-of-lcr-norms-propose-graded-haircuts-for-bonds-finance-ministry-asks-rbi-to-review-industry-demand/articleshow/129780873.cms
 
-- Veeba Food is said to plan IPO to raise up to $200 million
-  VRB Consumer Products preparing an IPO that could raise up to $200 million. Firm has hired Axis Capital, Motilal Oswal Investment Advisors and Jefferies Financial Group.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/veeba-food-is-said-to-plan-ipo-to-raise-up-to-200-million/articleshow/129775894.cms
+- Market Trading Guide: Buy Linde India and Prime Focus on Wednesday for short term gains up to 20%. Here’s why?
+  Nifty surged on gains in banks, auto and IT but formed an indecisive candle near 23,000 resistance, signaling uncertainty. Market direction hinges on next session’s opening.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-linde-india-and-prime-focus-on-wednesday-for-short-term-gains-up-to-20-heres-why/articleshow/129780295.cms
 
-- 65% of Indian firms plan flexible workspaces by 2027: CBRE-FICCI Report
-  Nearly 65% of office occupiers in India expect to integrate flexible workspaces into their portfolios by 2027. Currently, 55% of respondents already maintain such spaces within their office setups.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/65-of-indian-firms-plan-flexible-workspaces-by-2027-cbre-ficci-report/articleshow/129775404.cms
+- US Stocks: ImmunityBio shares drop 20% on FDA warning letter over cancer therapy claims in ad
+  Shares of ImmunityBio fell 20% on Tuesday. The U.S. Food and Drug Administration issued a warning letter that said a television advertisement and podcast promoting �
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-immunitybio-shares-drop-20-on-fda-warning-letter-over-cancer-therapy-claims-in-ad/articleshow/129780018.cms
 
-- Sattva Group expects over Rs 8,600 cr revenue from new 50 acre housing project in Bengaluru
-  Sattva Group is expecting a revenue of over Rs 8,600 crore from its new 50 acre residential project in Bengaluru.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sattva-group-expects-over-rs-8600-cr-revenue-from-new-50-acre-housing-project-in-bengaluru/articleshow/129775319.cms
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
 
-- 9 large-cap stocks trading below their industry average PE
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-large-cap-stocks-trading-below-their-industry-average-pe/slideshow/129775382.cms
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
 
-- PM Modi Says, India’s West Asia Approach Highlights Its Strength and Decisive Action - News On AIR
-  PM Modi: India’s West Asia Approach Highlights Its Strength
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTJWQkQweVhWZE16eEZMaDA4T0FITUoxN3UxLTQxc3VFUHprRDNXb3p2SEMzd2UxUFkxUW9xSEt1M1k4UTVWN3RDMVhoT0VuYUVIWXRqYkhfT1NnZ3hiem1scWN3NloyLWc4OTVOQlZZSGJXUDQza3U0eEw5Yk42U0E0LTRGWE1UODROYmU3ckxKLVJrblN3Wk1fcWFjNkFzcU5uVWY2bw?oc=5
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
 
-- Govt calls all-party meet tomorrow to discuss Iran-US war, amid Oppn uproar | India News - Hindustan Times
-  Govt calls all-party meet tomorrow to discuss Iran-US war
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxONk9UUFl0NVd6SDliN0dlNjViZHlqZjI1VEwyMzNuSTBEZDJPUktHRUtvYi0tVFJpdUROdGlPVS1ZajZweWxfbWgxYlRiZkpxeS1pNnQzSVNMNkI3dFptM2dvVVN1Z0V6VkRkbTFfQy1SUldjRHN0ZVhmWUZaTV84cVlLeWtZTnFvb0Z4d18wWXhVNUlJTnlCQWZpTkhCWVhzb0xWNUhrZVZ4MnAzOUVSSldWSVNxNldaRmF6S1F3VlJmcExUSDVVYTRocVRqbnBleXlNSEdZeGt5Unk2WnBIQWZ3N25mQUM5NldhTEViTk1EekdLYkRCWGpIT3FmTS13R2ZCX0JzZ9IBjAJBVV95cUxQSzhNbmlXaUxEMUNjTXBxanRfS3VBdEpJVDhHM3g3Y0NIcHhHTkdsSDYzanNFa290ZlAzbGpZMmUxcGJJbTdTV2FHWXlObGl3b1M5MzJ1RGNLSmZWUEpPSk1pMnBFal9yc0JneWI0aXBieDRBdDhBaWx0OGVuN2xWNWZhTlVSamlyMUdKOGRhOHZGR0lwZkpPV3ptVVdmR2M0UEpVOUdsbFFoUEN3emM4TGZHQUVqQkFqUWtjSTJqVTU0UVhvTUgwRU94RVRBcnRlWGthbVZiUGF3dDhTSmZONFNKY18wWl9XbUJMSVlKR2lCTzNsS2JXX2pIelVKd0o0ZEVCcUw0a2pIU0VD?oc=5
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
 
-- Video: Offered Rs 4 Per Kg, Maharashtra Farmer Dumps 25 Quintals Of Tomatoes - NDTV
-  A Maharashtra farmer has been offered Rs 4 per Kg
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDQzckkxVG5nMUg0YU8zemhETHF5YS1YaEs4TVB2SlV2cmJ4WXJwYUU0YUZtSUY3YU9DOUI1LVFmVWJZYmxCM1l6djZfSlY5VEx5SUNhQmd4ZXJiWDNWOTlLWlhxeDI5NzV1czFjZ0s3aS1xZmdGWnV4SHpoUHd3T2c5UWN2LVROakRQSEdrSGQ2cVdzVmdJYW5jeFlqZnY4TUNhSENLTy1zZU1ISzBjS2M2V1FFUdIBvgFBVV95cUxQOTZvRkJ1VF9aMXR4c3RyZ09Gcy1oejBKWU9GejJ4dGF2S3JKZGVhZ2ZyTmh5S2J4ZEVRQUNwbDY5XzJuUThoMmpFOUNLbmluMElsR18zUDhESEpkdVUtYkNlQkE2N0hLUHJCY040bTdsMUtsNGMzcnJHQ3dRcWl1MlNZM290NU9NMEFUVE9SRnFfMmNCclBtN0dobjBxQ21EWmIyd2JCUDNySnA5OG8xRTFDSWVsRGVVejFJaTFn?oc=5
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
 
-- Evening news wrap: PM Modi outlines India's fuel preparedness; Kashmiri separatist Asiya Andrabi gets lif - The Times of India
-  Evening news wrap: PM Modi outlines India's fuel preparedness. Kashmiri
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNSGRpV21fRUg5MGo1VGJVYnExZ0R4MDRPMGVkOUZ1REdZSlpPQXkyVzdDLXhrbGpoalloN3RWTWwtSTViaG5yT25BS1RhMENsUHViSzVfYzhGYTFWTGV3M3dveHVMNzlSdnJaLUhMZEFxVF9yaEZDb2N3QlZoYmt6X1d2NWVwNkM5Q3JZZGlQY0xJbHkwSkhtVkg3YW1XWEFNc2N3THBqNnRfSENIN2Jlcl9ZSmVaSXhSTmctVklkVy1RTUdWMEdFaFRmUlJJZ1RQUG5RVmdQV21ubVU0M2UxbjBWV3NMVVdIemZuUjdmUlIxSFpfaGFIN1JhU2dVSUVCTHJiMEdfVi1NNFZyVTJVN0x0OXktOU9a0gGeAkFVX3lxTE9JQkphSWZrTUR0SE1GVkhCTlJ2dUt3emR0OGx2dzRnd3dGX2l1RFh1N2dSUU16V29HY2dBOE9tak5aVHNzWHdYUWoxQWp0czlFV3E5NUJ4bjJ6a3FpT0VOb1JpbDhLa3Bqc2FudUNWcjktZjhQVF9ndkQ2MnJSSXNiRThrWHdmQ2NIOGtxUXA0LUdOa291d1Rpc2VDOFBjYWlFX1pXRjdUMFJ0aFY2aTYwdDh6bFVqTnlZMnZXemJSWDFwRTZqLW42VnJBcmxaOFBlVWI0WEdqVi1LdVVYZFp0REdfdEplWFFkeXN0ekRyV2FWNVJKRG1wX3lzVWZ1SHgwX0dXTWtGR2tudUtndVcyeElTWEZnSXVLNEtyQ1E?oc=5
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
 
-- India news: Loni is world's most polluted city, report says - DW.com
-  India news: Loni is world's
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjVadDEyTHh3TWNPVGlKT1ptOE12ZUR1cVJfXzQwSDdfakI3RGNnX3d2ODc2RDBVamxFb0hIWk1KMTBudnNyc3hYdU1rbFZoRXVYdlZjWFVFR1lTMS1raERKajhKck1pZlBpMVZzSjZzcHlJMy1VeHhlNWxtTHRHZklxeFlUaEFGZXFLZFhKLVV6cE9raVdHenJ0NnJ6eExkVWlnY2tMUmZ0LVk?oc=5
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
+
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
+
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
+
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
+
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
+
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
+
+- Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? - Al Jazeera
+  Why has India arrested US, Ukrainian nationals under
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNTENDcUotLWllaFlMai16TVRfTzk5VUxVdGJrSGhCZVhYaWgwUmpFV2J2MDFvQnFNWHF4c0JEcldGNHJRZVE4N2NoMFRIZFpRVHlJUmYzU1Z4bnY2UUt6UzVkZ2hLSWpsdzQxbDVoTV9jQUZVbFliMTY4bDFnLVNrNzltcjM0cDNGcXU5ZXp3Z2hVcmdCWjIxQmVVVnpRWkV4cWRmcUE5RkZ0ZGRRbXfSAbMBQVVfeXFMTXBJcU9ST1NhUGdIV25OUnBNbE5xSnd3bVBZSlRseUhsWEZWblE5aDV0TGlPdC1naklNUkw4VmtZeWE1VUFPYU9LNUNBUDU0NzViVWFRZFBnNDYxbDhheklLcjVVZDFLOFJUbkhEbEszRDJueFZsclZ4X2kyMERTUXgzM0l3b051LWI4bDV6Q01zUFBFLUhMTmhFVEpaMzNCQThyYkxuYkdISVh5YjNmWHJKZGc?oc=5
+
+- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
+  " target="_blank">How Much Cr
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
+
+- LPG Crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to reach India by March 27 - The Times of India
+  LPG crisis in India Live Updates: Two Indian LPG carriers cross Strait of Hormuz, set to
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+
+- Delhi Wasn't World's Most Polluted City Last Year, This Indian Town Was - NDTV
+  Delhi Wasn't World's Most Polluted
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPUllXZHVXeEY0Q1p6NllYTkJubW5sVndKRzRHc3dob3E1b0FLQ05rdHQ5QUN1WHY4UFlGZEl5SUxuSXdsOHRqYTB2QVYyRE9BUmw5U09aZHlVZ2Zja1BJVGZjZjQtUnlRVXUxYUlNb0FZc2o4Ym9mdjBrRkMyNkIwb2V0ZmVNWlR1ZEF2cGEtelZORnlfSXphYjdLTmFpc3BPS2pWM2Y0MTJvRGw5bmfSAbYBQVVfeXFMTlRIQVBjTTlVVG5xM1MwRTFFWVZ3NlBVWlU2MXpmTkVod3ZhNk43ZHkwN2Z3TkdoQ1AzYjBFcjRkT3dGTTNRZjdVemZIaXNXU3pNdWpuc2FHTGg1SlFWeUVRS1h3ejZDNHhSTlNyWG1PMkpLcjN2QWNmUFJ3UWRrbzZwWHdFMERyaHVYN0lYaFB1M2t4dmNwTGxNUXNQa1NKa1c2bHROc0VMMHlnYTNPR1dFVTVrcXc?oc=5
+
+- Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure - NDTV
+  Centre Notifies Order To Stre
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXJWVC10cURaWHU5ZGJlT1hubk9FbHlMSHJhVkJub0Y3dWd0N3JDRVc5U3BTVkxxdF9CQk05OERnbjBabUJwaGRaM3NxTnd6a1pya0J2aWVWVkRqSWZpa1JoamxUeUROb2VjQ1gxY29lTmZUTlNVX255YnZKUENQQmhFQ0I2b19DWVRmc3NfakZuRkJVczJRU05TYVA2MU1hY3pjMHRLRkFqanRxSFHSAbYBQVVfeXFMT2dDQm81NGg1cHJ6QngwMHlNLWJhTl9JeE45ZmJ0TWY2NUg2YzNRdzB4RUJIaEFqN2M2ZWYwVjBfRHlTNk1USllKOVFITzl0VXVod0Q2Tmhnal95TTQwRHZJQ2FOeEZWRjI0R0xDWFU1Tlp0RTZFSVNBVUFiMzVKZklYLTFjSGxkdklQcmM3Z0h3SXdFYUhoQk4xV2pBdDFyczd6YzlQSUc3MldfMG5uY2RnNDFfWWc?oc=5
 
 
-_Last updated: 2026-03-24 13:03:03 UTC_
+_Last updated: 2026-03-24 19:00:09 UTC_
