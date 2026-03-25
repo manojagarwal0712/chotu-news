@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Gold Rate Today, March 25: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Centre’s advisory to hotels, restaurants: Don’t add ‘LPG charges’, ‘gas surcharge’ automatically in bills
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-march-25-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10599861/
+  🔗 https://indianexpress.com/article/india/ccpa-warns-restaurants-against-levying-gas-lpg-charge-10600813/
 
-- Sonia Gandhi admitted to Sir Ganga Ram Hospital in Delhi
+- Need to formalise a comprehensive integrated roadmap based on lessons learnt in West Asia conflict: Rajnath
   
-  🔗 https://indianexpress.com/article/india/sonia-gandhi-health-update-hospitalised-delhi-congress-10599715/
+  🔗 https://indianexpress.com/article/india/west-asia-conflict-india-defence-preparedness-roadmap-supply-chain-10600751/
 
-- Not just Jammu, Kashmir: Proposed legislation seeks 2 new divisions in J-K — Chenab and Pir Panjal
+- Centre introduces FCRA Amendment Bill in Lok Sabha amid Opposition protest
   
-  🔗 https://indianexpress.com/article/india/not-just-jammu-kashmir-proposed-legislation-seeks-2-new-divisions-in-j-k-chenab-and-pir-panjal-10599458/
+  🔗 https://indianexpress.com/article/india/fcra-amendment-bill-2026-lok-sabha-opposition-protest-10600722/
 
-- Inside Odisha’s big culinary push: State to fund premium Odia restaurants across major Indian cities
+- A patient went missing from Jamshedpur hospital. 10 days later, body found on premises, cannula still attached
   
-  🔗 https://indianexpress.com/article/india/inside-odishas-big-culinary-push-state-to-fund-premium-odia-restaurants-across-major-indian-cities-10599457/
+  🔗 https://indianexpress.com/article/india/patient-went-missing-jamshedpur-hospital-body-found-premises-cannula-attached-10600661/
 
-- Bihar’s smaller towns make their mark in state board exam results
+- As Lok Sabha passes Finance Bill, Finance Minister Sitharaman targets Congress, TMC, DMK on economy
   
-  🔗 https://indianexpress.com/article/india/bihars-smaller-towns-make-their-mark-in-state-board-exam-results-10599456/
+  🔗 https://indianexpress.com/article/india/lok-sabha-passes-finance-bill-sitharaman-targets-congress-tmc-dmk-economy-10600591/
 
-- How HP’s new IQ on-device assistant reimagines the AI interface on PCs
+- OnePlus India head Robin Liu steps down, denies shutdown buzz
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-hps-new-iq-on-device-assistant-reimagines-the-ai-interface-on-pcs-10600010/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-india-ceo-robin-liu-resigns-shutdown-rumors-restructuring-10600447/
 
-- Talking to chatbots, dodging people: Is AI rewiring how we connect?
+- Nasa plans nuclear-powered mission to send Skyfall helicopters to Mars by 2028
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/is-ai-rewiring-how-we-connect-10598653/
+  🔗 https://indianexpress.com/article/technology/science/nasa-plans-nuclear-powered-mission-to-send-skyfall-helicopters-to-mars-by-2028-10600664/
 
-- OpenAI shuts down Sora, pivots to enterprise and developer tools
+- I tried the OnePlus Nord Buds 4 Pro, and here’s why this is the most value TWS of 2026
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-shuts-down-sora-pivots-to-enterprise-and-developer-tools-10599862/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-buds-4-pro-review-10600629/
 
-- Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims
+- Steve Wozniak says AI cannot replace humans, calls current tools disappointing
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ordered-to-pay-375-million-in-new-mexico-trial-over-child-exploitation-user-safety-claims-10599794/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-steve-wozniak-ai-criticism-disappointed-human-brain-replacement-10600259/
 
-- I thought my iPhone 4 was done after a 3-storey fall — What I found on the concrete changed everything
+- The Big Bang’s ‘missing’ half: Why new research suggests black holes swallowed the universe’s antimatter
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/apple-iphone-4-durability-story-macbook-air-longevity-10599689/
+  🔗 https://indianexpress.com/article/technology/science/why-new-research-suggests-black-holes-swallowed-the-universes-antimatter-10600229/
+
+- Kotak Mahindra Bank responds over alleged fraud: Initiated ‘detailed reconciliation’ of FDs to Panchkula Municipal Corp
+  Kotak Mahindra Bank has initiated reconciliation of fixed deposits and linked bank accounts maintained by the Municipal Corporation of P
+  🔗 https://www.livemint.com/companies/news/kotak-mahindra-bank-alleged-rs-150-crore-fraud-says-initiate-detailed-reconciliation-fds-panchkula-municipal-corporation-11774429627256.html
+
+- Sunil Mittal to step down as Airtel Africa chair in July; to be succeeded by Gopal Vittal
+  Sunil Bharti Mittal will retire as chair of Airtel Africa in July 2026. Gopal
+  🔗 https://www.livemint.com/companies/news/sunil-mittal-to-step-down-as-airtel-africa-chair-in-july-to-be-succeeded-by-gopal-vittal-11774426351776.html
+
+- Who is Kiran Mani? OpenAI hires India’s JioStar CEO to head up Asia-Pacific
+  Mani will relocate to Singapore, focusing on capturing user growth in key markets like
+  🔗 https://www.livemint.com/companies/people/who-is-kiran-mani-openai-hires-india-s-jiostar-ceo-to-head-up-asiapacific-11774422818071.html
+
+- Meesho bets on AI voice assistant ‘Vaani’ to boost small-town shopping
+  Mesho rolled out a conversational voice assistant, ‘Vaani’, on Wednesday. The move reflects a broader shift in how the company is thinking
+  🔗 https://www.livemint.com/companies/meesho-launches-ai-voice-assistant-vaani-to-boost-ecommerce-discovery-11774417218768.html
 
 - HCLTech eyes software biz reboot in AI era
   HCLTech recently acquired two firms to strengthen its software offerings. The company acquired Florida-based data analytics firm Jaspersoft and Antwerp-based agentic AI startup
   🔗 https://www.livemint.com/companies/hcltech-restructures-software-business-ai-growth-strategy-11774405907968.html
 
-- Epic Games layoffs: Fortnite maker to slash 1,000 jobs, says ‘sorry’ — What we know so far; read full memo to employees
-   Epic Games employees who are being laid off in the current cycle will be provided with a severance package
-  🔗 https://www.livemint.com/companies/news/epic-games-layoffs-fortnite-maker-to-slash-1-000-jobs-says-sorry-what-we-know-so-far-read-full-memo-to-employees-11774416612352.html
+- US stock market today: Dow Jones, S&amp;P 500 futures rise on hopes of de-escalation in US-Iran conflict
+  US futures traded higher on March 25 due to optimism surrounding negotiations with Iran, despite recent troop deployments. President Trump announced a 15-point plan for peace.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-s-p-500-futures-rise-on-hopes-of-de-escalation-in-us-iran-conflict-11774438805349.html
 
-- China bars Manus co-founders from leaving country as it reviews Meta's $2 billion acquisition: Report
-   Meta said it would acquire Manus in December. Manus makes general-purpose AI agents that operate as digital employees.
-  🔗 https://www.livemint.com/companies/news/china-bars-manus-co-founders-from-leaving-country-as-it-reviews-metas-2-billion-acquisition-report-11774416004585.html
+- HDFC Bank, L&amp;T to Eternal: These large-cap stocks powered 3.5% two-day rally in Nifty 50
+  The Nifty 50 rose 1.72% today, taking the two-day rally to 3.5%. The rally was broad-based, as barring Coal
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-l-t-to-eternal-these-large-cap-stocks-powered-3-5-two-day-rally-in-nifty-50-11774437278460.html
 
-- Bain, EQT, TPG enter final leg of race for UK’s Vitabiotics at $900 mn-$1 bn valuation
-  Several mid-size deals have been announced recently as companies look to capture the growing demand for protein, hydration and clean
-  🔗 https://www.livemint.com/companies/news/vitabiotics-bain-eqt-tpg-nutrition-brands-health-and-wellness-market-india-11774408610782.html
+- Gold price in India jumps  ₹15,000 in two days. Will the rally continue?
+  MCX gold rate today climbed to an intraday high of  ₹1,44,570. In two
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-in-india-on-25-march-2026-jumps-rs-15-000-in-two-day-us-iran-war-us-fed-rate-cut-us-dollar-us-inflation-11774433093517.html
 
-- Fast&amp;Up’s parent raises  ₹300 crore from Elev8 Venture, limited partners
-  The move highlights a strategic expansion into consumer platforms, with a strong focus on brands leveraging science, innovation, and digital channels
-  🔗 https://www.livemint.com/companies/start-ups/fastup-fullife-healthcare-elev8-venture-partners-avendus-capital-11774408460135.html
+- Top Gainers &amp; Losers on March 25: PCBL Chemical, Reliance Power, Kaynes Tech, Indian Bank among top gainers
+  Nifty Consumer Durables index led gains at 3.51%, while PCB Chemical surged 13.7%. Real estate and PSU banks also saw significant gains.
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-march-25-pcbl-chemical-reliance-power-kaynes-tech-indian-bank-among-top-gainers-11774430665995.html
 
-- Indian 10-year bond yields ease as crude oil prices slip below $100 a barrel on US-Iran ceasefire hopes
-  The uptick in bond prices followed a sharp decline in crude oil prices. The benchmark Brent crude contract was nearly 5% lower at $99.60 per barrel.
-  🔗 https://www.livemint.com/market/bonds/indian-10-year-bond-yields-ease-as-crude-oil-prices-slip-below-100-a-barrel-on-us-iran-ceasefire-hopes-11774420574525.html
+- Vivid Electromech IPO Day 1: Issue booked 38% so far; check GMP, issue details
+  The Vivid Electromech IPO runs from March 25 to March 30. The company specializes in LV and MV electrical panels and reported a net profit of  ₹9.
+  🔗 https://www.livemint.com/market/ipo/vivid-electromech-ipo-gmp-day-1-issue-booked-38-so-far-check-gmp-issue-details-11774432609878.html
 
-- NBFC penny stock under  ₹10 jumps over 4% following Indian stock market rally
-  NBFC stock Golden Legand Leasing and Finance rose nearly 5% amid stock market rally
-  🔗 https://www.livemint.com/market/stock-market-news/nbfc-penny-stock-under-10-golden-legand-leasing-and-finance-jumps-over-4-following-indian-stock-market-rally-11774416071733.html
+- Samsung Galaxy A37, Galaxy A57 with Exynos SoC, 5,000mAh battery launched: Price, specs and more
+  The Galaxy A37 and A57 feature triple cameras, 5,000mAh batteries, and AI enhancements. Both models offer a 6.7-inch FHD+
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a37-galaxy-a57-with-exynos-soc-5-000mah-battery-launched-price-specs-and-more-11774440084894.html
 
-- Big blow for traders! F&amp;O trading with Zerodha may get costlier from April 1: Reports
-  Zerodha plans to increase brokerage charges for certain intraday derivatives traders from April 1. Traders failing to meet the SEBI cash collateral requirement will incur a  ₹40
-  🔗 https://www.livemint.com/market/stock-market-news/big-blow-for-traders-f-o-trading-with-nithin-kamaths-zerodha-may-get-costlier-from-april-1-reports-11774418643624.html
+- Samsung Galaxy A37, A57 Launch LIVE: Galaxy A37, A57 launched in India
+  Samsung to begin unveiling of the two phones from 5:30PM today. Galaxy A57 could run on Exynos 1680SoC while the A
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a37-a57-launch-live-updates-price-specs-features-india-2026-11774435218022.html
 
-- 385% return in one year! Multibagger stock hits upper circuit after launch of AI-driven health platform
-  Take.Health is an AI-driven health platform aiming to provide personalized health insights and enhance digital wellness in India. The initiative aligns with the government's
-  🔗 https://www.livemint.com/market/stock-market-news/385-return-in-one-year-multibagger-stock-hits-upper-circuit-after-launch-of-ai-driven-health-platform-11774418698702.html
-
-- LED stock MIC Electronics share price jumps 5% following bull trend on Dalal Street
-  The stock of MIC Electronics hit its upper circuit at  ₹33.23, boosted by market optimism. A board
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-led-stock-mic-electronics-share-price-jumps-5-following-bull-trend-on-dalal-street-11774416503474.html
+- Elon Musk overrules product chief Nikita Bier, pauses X's controversial region-based payout strategy
+  Musk acknowledged the feedback from the users and noted that there is a need for further consideration.
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-overrules-product-chief-nikita-bier-pauses-xs-controversial-region-based-payout-strategy-11774428133272.html
 
 - New Mexico jury says Meta harms childrens mental health and safety, violating state law
   New Mexico jury says Meta harms children's mental
@@ -88,77 +100,133 @@
   A group of Oscar winners set out to
   🔗 https://www.livemint.com/technology/a-group-of-oscar-winners-set-out-to-make-the-definitive-ai-documentary-11774366184879.html
 
-- Czech police arrest 3 over arson at drone warehouse supplying Ukraine
-  Czech police arrest 3 over
-  🔗 https://www.livemint.com/technology/czech-police-arrest-3-over-arson-at-drone-warehouse-supplying-ukraine-11774363694929.html
+- Powerica IPO Day 2: Issue subscribed just 3%; check GMP and key details inside
+  Powerica IPO saw weak demand on day two, with 3% subscription and retail interest. Grey market premium remains negligible. The company aims to raise Rs 1,100 crore,
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/powerica-ipo-day-2-issue-subscribed-just-3-check-gmp-and-key-details-inside/articleshow/129802000.cms
 
-- AI becoming integral to how networks are designed, experienced: TRAI Chief
-   AI becoming integral to how networks
-  🔗 https://www.livemint.com/technology/ai-becoming-integral-to-how-networks-are-designed-experienced-trai-chief-11774279322873.html
+- Quote of the day by John Kay: “Three simple rules – pay less, diversify more and be contrarian – will serve almost everyone well.”
+  John Kay distils investing into three timeless rules: pay less, diversify more, and be contrarian. These principles cut through market noise, emphasising valuation discipline.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-kay-three-simple-rules-pay-less-diversify-more-and-be-contrarian-will-serve-almost-everyone-well-/articleshow/129791991.cms
 
-- Upgrade your workflow with AI-powered laptops from Dell, HP and more for under  ₹60000
-   AI laptops under  ₹60000 now offer smarter performance, faster multitasking
-  🔗 https://www.livemint.com/technology/gadgets/upgrade-your-workflow-with-ai-powered-laptops-from-dell-hp-and-more-for-under-rs-60000-11774246499638.html
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures gain on Mideast ceasefire hopes
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-hormuz-crude-brent-oil-nvidia-apple-ai-stock-price-news/liveblog/129801128.cms
 
-- Railway infrastructure provider Laxyo files Rs 150 cr IPO papers
-  Laxyo Ltd, an EPC services provider for railway infrastructure, has filed preliminary papers with Sebi for a Rs 150 crore IPO. The company plans
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infrastructure-provider-laxyo-files-rs-150-cr-ipo-papers/articleshow/129793290.cms
+- Gainers &amp; Losers: RPSG Ventures and L&amp;T among 7 top movers on Wednesday. Here’s why
+  Market action was dominated by sharp moves in RPSG Ventures, Larsen &amp; Tou
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-rpsg-ventures-and-lampt-among-7-top-movers-on-wednesday-heres-why/slideshow/129801011.cms
 
-- Global Markets | Australian shares rally on softer inflation, Mideast ceasefire prospect
-  The S&amp;P/ASX 200 index reached its strongest daily gain since February 9. Softer inflation data boosted market sentiment. Hopes for a Middle East ceasefire also contributed to the rise.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-rally-on-softer-inflation-mideast-ceasefire-prospect/articleshow/129793194.cms
+- US Stocks Today | US stock futures gain on Mideast ceasefire hopes
+  U.S. stock index futures climbed on Wednesday after media reports that the U.S was seeking a month-long ceasefire in its
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-futures-gain-on-mideast-ceasefire-hopes/articleshow/129800325.cms
 
-- RBI steps in as prior intervention-linked flows pressure rupee near record lows
-  Heavy dollar demand from maturing non-deliverable forwards weighed on the currency. Traders reported the Reserve Bank of India used state-run banks for intervention.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-steps-in-as-prior-intervention-linked-flows-pressure-rupee-near-record-lows/articleshow/129792973.cms
-
-- Market nears inflection point; select largecaps offer entry window: Pankaj Pandey
-  Market expert Pankaj Pandey sees opportunity in current market dips. Pandey recommends buying quality largecap stocks in autos, cement, and capital goods. He advises patience for HDFC Bank due to near-term challenges.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-nears-inflection-point-select-largecaps-offer-entry-window-pankaj-pandey/articleshow/129792783.cms
-
-- 3 growth juggernauts can power 24% surge in Solar Industries shares, says Elara after initiating with Buy
-  Elara Capital has initiated coverage on Solar Industries with a 'Buy' rating and a target price of Rs 15,450. The brokerage highlights three key growth drivers: a booming defence portfolio, aggressive global expansion across 90 countries
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms
-
-- Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Hormuz remains open | India News - Hindustan Times
-  Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFE2WmhIVDVBWTJyUkF1TWpWQThJdGVfRFF2U1g5YnBFa2xIOFl4aExHLXFoVDY1X2ZNcUlkTXBodW1PSlgtQmVjdGtPbENILTlnbU1CTXdjWUZZdlRWZzljUVN6SVNTVFJaTzRHcUxRUDZCRjI0X3drTVZFX2RTbUk0RHI1U1IwUjNUSW5hY1RHQ2Rqc21lVm9va0xRbzhDaE82dnR3c1hRajltS0k1ejNJOExDSkkxcG94LUNZUldtRFU4YXREODFhYVA0Mnc1SjhScy130gHbAUFVX3lxTE84VTUzXzlPZHZBX25hTUJuTXdyVEJaREE3ZXEtRW5TYnJqS0piMmdZSmV6aEtyT3Mzd0lqb0NIMV9QT1U5SmJNZVdSYloydlJLQm5xSmdsak1FZHUyb3QteHRIRHBGV3VrQ0tib1RubVVoQWNNa2xheWNyTHFCODVJZDVHWTAtMVZjVzFWRDViTGhvVmlaRG12b21uYVZYVU96ZFBsNFh4Y0xFN0pIM2w4YmNTZVU4bjFMcHY4LXZzYTQtUXhtd2xZYjROTjVXYktfRTd4UDdHMUZ0SQ?oc=5
-
-- Trump dials Modi as US contemplates peace talks with Iran - The Times of India
-  The Times of India reports that the US is holding talks
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEppZklwNm9LRlhtNmEyekVNTmhmdGRtdzdQWEJIU2QtdU5sdzV6a2J4Y3AwTDhUMGswSUkzMHNoR2p0ZW1oMDNKN3ZQbFlYMlpjYTdfVkhIeWxOOGlyQVFJeUNTRFlJemRnMVN3b3pjbHItZ3RicERDT1NlRER3NUluVUhCb3pQYnJpVnlLc2U2X1AwYmowcE1xaFlRWFYzbm1tM2xMcjFKbVg3S2JnWVJiQXV1Wkk1TU1lZlhRa3R5RnPSAcgBQVVfeXFMTXNyMUJOb1VIczU5eGtHVVhVaG50RmVBNVhCQ25YcGt4anZkUzJZa1FRRG1UWUljaGxhREVYUzJEUVZLaDhaVElHZFZCeGdDNVVqaE5JNnNMT0lTM3hEbnluTmN1ZkNWd0VRNkVEZzVxQ25qN3hGb1Vtc2FXNnZjaUxUNDg1VHlsa0c1VU5yYkE1VjBYWG9uYXRjaFFmcHY0OE11aTVZMkdYUmI0eUFoc2hxVm0xN2ZPaXJGUHhXdzZuZ3h4VDF4VkU?oc=5
-
-- "India Has Adequate Crude Oil Stores, Need To Be Atmanirbhar": PM Amid Iran War - NDTV
-  "India Has Adequate Crude Oil Stores, Need
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXJ3ZEl1MVNqeWVObXFvckJFWEQ0VFY2UDU5MlZxU2E2OFpueWZQdGNNWGZUQWFVWVdwUlB5eGRlNlhJcHJRSWtXdUV3djI3azNpZ2FlZWNsSnQ5YkEzbzM0MFRWQTJRNVlJdGlYUC0ycVFSTHNpZTlVRWxRa3FGWGRQRGNYV3NfSk9ERHoyZ2huZU9aczctcGpiMk1TV29iNVZYbjV6TEVNMFlES2duTGF0d3c1ZFFqWmp5Wmln0gHGAUFVX3lxTE95SlZyQno2TlBPUUl5a0RQeVVBbnJZVDlESkExallJYVJ3bzdINzM3eHVnTmtKT29UbHZVcmZxRWxheTdFcElUanFsM3VMakVZMVNsb2VtMjlNcFp0bFduejkxcm9BOGZIdDNGSTJBNUZ5dmREV1BfZWNHRDBndjVLSDRVQVI0bGRaZ3ZHYkkxVDBjVnlENjl0VWp1eE56dVhibTJEZkprZEd1TE9hVkVjODh3VUxxSGxBYWJXZk1VUlV5dTZ0dw?oc=5
+- Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran war disruptions | India News - Hindustan Times
+  Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlhIb2QxRkt2ZjNTSlN6Q3RJaFhRS3ZLT1doZVdmR0h2YzhLb2FPX1QweHRCUjFnX1pYUHNVOTR1Vkw5clRvdWl3T0Y3eG5xRmE1REgtSE93VmlpZTFMa1BRaEpVTXNDa21KOVhKNGRYMlRJWXZGdGZSZnVQUGVkMXpDWDRNc2xZT3RaVVZ1UFlERVBxZlluZndTV1NoOE9TTnpUcXpZT01LWkpPeFNVMFJKVXVtRDZPS3lJR3JOT0paV25jWEVTZVFUVmFrTlpORUxlcDE0VmtQLW9GTkJzdkdTQTVsWUxxS2puYVNR0gHzAUFVX3lxTE5ETWJOWnNkYW9lRjNEaVVBRWRialkwX2NwYWV1dzNzam10MXFDUm9YaXA1RXFybDhmOHFaQmlhaDFZVEN1WWtXVFN6c245S1BMbWdYbkZSb1REUVk2OVVSc1A0MEdHczJPcDExYlU5cGlsWU15SEJjOERGaW90cHJSczltWFRFYXgyMjhzX3BfYkpWaHY0OE5xSDNFU1lTYjVLQVZnWXlqd09CenpKSnZ0QVdFWjVjbDlsSXJzUFJqVHA0dVhQOVNxaVVQVVVDTG9CUnJteVRjb2JNQmpSVGV0eEFjTmNIdkRaSVg4XzR3QWpzaw?oc=5
 
 - Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
   Gold Prices Fall Sharply Amid Global Economic Uncertainty
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
 
-- Warships Escort 2 Indian LPG Tankers In Gulf Of Oman Day After Hormuz Transit - NDTV
-  Warships Escort 2 Indian LPG Tankers In Gulf
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG9TSHJTc3VlUV8wZ3NMNHVKeVJ6cWw2RzNHY2hwbEtiNGhzNEFNTXVkVUdpVjktdVluOUpVeVJBSG1iQlRCeGhGUVhSMkUyVjdmMGNsX2RMZG5KOWVRQndWQTZ0eFRvZFZtd05hTWpzRURYY3AwR2huM1oxUEw4R3dOREJHdXpxX09Ba0dQc19MSm5SRTllbHQzRGpfbW9GdXBPeGc2VDNpVmVSQi0wYmF6U2twQXVZMEHSAcIBQVVfeXFMT2dQUjJmSVFGUGFKU3dVNVVuRjMzWTRSUmRqbGl4aGxfM3JLUUdsOU5nOFRPZ2RObGF5ajZ0RUQ3TXZ6YjBDbWlreHhpMkhGWlFfWW9kc1BfVTZGWkxNeThMT25mSE9TTG15WkpVS3BfX0llaWZFanhkakFKQlFFZVhVNllnakZWaTllT0NDYnEwRTRKREVXZ0xSMnFrbXdxTDYtamloQWx6UnhyR21Db29yczFNczVGS3FNZmJ2OGQ4UUE?oc=5
+- LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol and diesel supply - The Times of India
+  LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
 
-- Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Hormuz remains open | India News - Hindustan Times
-  Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFE2WmhIVDVBWTJyUkF1TWpWQThJdGVfRFF2U1g5YnBFa2xIOFl4aExHLXFoVDY1X2ZNcUlkTXBodW1PSlgtQmVjdGtPbENILTlnbU1CTXdjWUZZdlRWZzljUVN6SVNTVFJaTzRHcUxRUDZCRjI0X3drTVZFX2RTbUk0RHI1U1IwUjNUSW5hY1RHQ2Rqc21lVm9va0xRbzhDaE82dnR3c1hRajltS0k1ejNJOExDSkkxcG94LUNZUldtRFU4YXREODFhYVA0Mnc1SjhScy130gHbAUFVX3lxTE84VTUzXzlPZHZBX25hTUJuTXdyVEJaREE3ZXEtRW5TYnJqS0piMmdZSmV6aEtyT3Mzd0lqb0NIMV9QT1U5SmJNZVdSYloydlJLQm5xSmdsak1FZHUyb3QteHRIRHBGV3VrQ0tib1RubVVoQWNNa2xheWNyTHFCODVJZDVHWTAtMVZjVzFWRDViTGhvVmlaRG12b21uYVZYVU96ZFBsNFh4Y0xFN0pIM2w4YmNTZVU4bjFMcHY4LXZzYTQtUXhtd2xZYjROTjVXYktfRTd4UDdHMUZ0SQ?oc=5
+- With NavIC setback, India unable to use satellite system for security purposes: experts - The Hindu
+  With NavIC setback, India unable to use satellite system for
+  🔗 https://news.google.com/rss/articles/CBMitwJBVV95cUxOSng1Z1UycEhnZTNBNTNGUlJMdzk2bVhDQTZYcFM1elA3VmlOSTIxb1hqYkdfX2xuV0FNQ2pPSVFqRGI5Vm80cUdRM2JVVmhZb0tsdGFWYkx5S2lYT3d1a0ZxdGdwY0MzcllMbURWdlNRdDNOU2I4V3RFX3BYTXNZVkxxeE1ndUg1bXkxcHhraG1WeHJ2NGJuWWprRDB1VnZROFNuejZON0R0cGV0NkdXQndObnRsVEtuTmRVZ2p2cXF0dTlOcW9nNDRJdzJhaG1BZ3FiRzMtTnphT0xXS0d4dEI1WkZLU0o1UHQ1TXlreEJmTkZROGxxVkFQbVRwOTFIT05iMGdObU9vdHdrX2hrOVhTcDdPeGpGX0t4ZmxyUGlpemhuUEttaS1QMEhZbndLaDVMZ0NqZ9IBvgJBVV95cUxQM29BdUgtdE9tTzJLUWt6SmJndjVCY1psQXZlLUNrbEhZdGNOMWVEcFhQSTIyenV6Z0taTWFTdWNjZHhUdUxSN0hwc0RfR2RNOWQ0MGVZWDM3Z1Y1WTNla3VGYkxXOTBWbEt1ZzFLbEZEdlF1SmczX0tDVFZtZ05xRXdsVFVoR3MwaXNGUm1LbkVSUUpxNU1JWVhvMXFhWWxFMmFMUUlmdjNzYXN5ZUVDd1dOZjFtclZyZGZHZmpjZXlUZlZaZTVsRzBvUEZETDAzNkpENkRqNWFOS1FUeUxfNW8zMERWMGUtR251RFpPdmpHeGo5aGYxQWFvdHY5NkY0MVhyc1ZFb3FLVnNZRkdjWFRCa203NEljZXBhcHlNQWdGbkJXNzdJLVBFZkNNSkVMQWg2UUF2b29DSFp2UHc?oc=5
 
-- Trump dials Modi as US contemplates peace talks with Iran - The Times of India
-  The Times of India reports that the US is holding talks
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEppZklwNm9LRlhtNmEyekVNTmhmdGRtdzdQWEJIU2QtdU5sdzV6a2J4Y3AwTDhUMGswSUkzMHNoR2p0ZW1oMDNKN3ZQbFlYMlpjYTdfVkhIeWxOOGlyQVFJeUNTRFlJemRnMVN3b3pjbHItZ3RicERDT1NlRER3NUluVUhCb3pQYnJpVnlLc2U2X1AwYmowcE1xaFlRWFYzbm1tM2xMcjFKbVg3S2JnWVJiQXV1Wkk1TU1lZlhRa3R5RnPSAcgBQVVfeXFMTXNyMUJOb1VIczU5eGtHVVhVaG50RmVBNVhCQ25YcGt4anZkUzJZa1FRRG1UWUljaGxhREVYUzJEUVZLaDhaVElHZFZCeGdDNVVqaE5JNnNMT0lTM3hEbnluTmN1ZkNWd0VRNkVEZzVxQ25qN3hGb1Vtc2FXNnZjaUxUNDg1VHlsa0c1VU5yYkE1VjBYWG9uYXRjaFFmcHY0OE11aTVZMkdYUmI0eUFoc2hxVm0xN2ZPaXJGUHhXdzZuZ3h4VDF4VkU?oc=5
+- Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology, Jitin Prasada | DD News On Air - News On AIR
+  Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFR1VkZCQ1V5STFVbzI4ZzNWdkJxNFhBYS0tSl9iTjRodThVdU9OVEJ3S2NfRHhuajhvSjZ3YWsxWUNVejNsdVZ6S2lKY0xmQlpDdWdRMWVfM3ZieFY5SmtlUjY2eWljbC1UdnBXcWJOeDJCa0FoRmFfeGlYRGI4WWwtbFdqM3FnaWdKSjZDYWpDS2FFcDJpY1RYRGZjTFZjanJ3RngxWkpBN1BDRmZyeGdmMENkVDBwTk03WFdTMjZsd3FuRVFKQXhtWHpXbUZqSnY4bDVVa2hlYThFajBETXE3emU?oc=5
 
-- "India Has Adequate Crude Oil Stores, Need To Be Atmanirbhar": PM Amid Iran War - NDTV
-  "India Has Adequate Crude Oil Stores, Need
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXJ3ZEl1MVNqeWVObXFvckJFWEQ0VFY2UDU5MlZxU2E2OFpueWZQdGNNWGZUQWFVWVdwUlB5eGRlNlhJcHJRSWtXdUV3djI3azNpZ2FlZWNsSnQ5YkEzbzM0MFRWQTJRNVlJdGlYUC0ycVFSTHNpZTlVRWxRa3FGWGRQRGNYV3NfSk9ERHoyZ2huZU9aczctcGpiMk1TV29iNVZYbjV6TEVNMFlES2duTGF0d3c1ZFFqWmp5Wmln0gHGAUFVX3lxTE95SlZyQno2TlBPUUl5a0RQeVVBbnJZVDlESkExallJYVJ3bzdINzM3eHVnTmtKT29UbHZVcmZxRWxheTdFcElUanFsM3VMakVZMVNsb2VtMjlNcFp0bFduejkxcm9BOGZIdDNGSTJBNUZ5dmREV1BfZWNHRDBndjVLSDRVQVI0bGRaZ3ZHYkkxVDBjVnlENjl0VWp1eE56dVhibTJEZkprZEd1TE9hVkVjODh3VUxxSGxBYWJXZk1VUlV5dTZ0dw?oc=5
+- Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran war disruptions | India News - Hindustan Times
+  Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlhIb2QxRkt2ZjNTSlN6Q3RJaFhRS3ZLT1doZVdmR0h2YzhLb2FPX1QweHRCUjFnX1pYUHNVOTR1Vkw5clRvdWl3T0Y3eG5xRmE1REgtSE93VmlpZTFMa1BRaEpVTXNDa21KOVhKNGRYMlRJWXZGdGZSZnVQUGVkMXpDWDRNc2xZT3RaVVZ1UFlERVBxZlluZndTV1NoOE9TTnpUcXpZT01LWkpPeFNVMFJKVXVtRDZPS3lJR3JOT0paV25jWEVTZVFUVmFrTlpORUxlcDE0VmtQLW9GTkJzdkdTQTVsWUxxS2puYVNR0gHzAUFVX3lxTE5ETWJOWnNkYW9lRjNEaVVBRWRialkwX2NwYWV1dzNzam10MXFDUm9YaXA1RXFybDhmOHFaQmlhaDFZVEN1WWtXVFN6c245S1BMbWdYbkZSb1REUVk2OVVSc1A0MEdHczJPcDExYlU5cGlsWU15SEJjOERGaW90cHJSczltWFRFYXgyMjhzX3BfYkpWaHY0OE5xSDNFU1lTYjVLQVZnWXlqd09CenpKSnZ0QVdFWjVjbDlsSXJzUFJqVHA0dVhQOVNxaVVQVVVDTG9CUnJteVRjb2JNQmpSVGV0eEFjTmNIdkRaSVg4XzR3QWpzaw?oc=5
 
 - Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
   Gold Prices Fall Sharply Amid Global Economic Uncertainty
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
 
-- Warships Escort 2 Indian LPG Tankers In Gulf Of Oman Day After Hormuz Transit - NDTV
-  Warships Escort 2 Indian LPG Tankers In Gulf
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG9TSHJTc3VlUV8wZ3NMNHVKeVJ6cWw2RzNHY2hwbEtiNGhzNEFNTXVkVUdpVjktdVluOUpVeVJBSG1iQlRCeGhGUVhSMkUyVjdmMGNsX2RMZG5KOWVRQndWQTZ0eFRvZFZtd05hTWpzRURYY3AwR2huM1oxUEw4R3dOREJHdXpxX09Ba0dQc19MSm5SRTllbHQzRGpfbW9GdXBPeGc2VDNpVmVSQi0wYmF6U2twQXVZMEHSAcIBQVVfeXFMT2dQUjJmSVFGUGFKU3dVNVVuRjMzWTRSUmRqbGl4aGxfM3JLUUdsOU5nOFRPZ2RObGF5ajZ0RUQ3TXZ6YjBDbWlreHhpMkhGWlFfWW9kc1BfVTZGWkxNeThMT25mSE9TTG15WkpVS3BfX0llaWZFanhkakFKQlFFZVhVNllnakZWaTllT0NDYnEwRTRKREVXZ0xSMnFrbXdxTDYtamloQWx6UnhyR21Db29yczFNczVGS3FNZmJ2OGQ4UUE?oc=5
+- LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol and diesel supply - The Times of India
+  LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+
+- With NavIC setback, India unable to use satellite system for security purposes: experts - The Hindu
+  With NavIC setback, India unable to use satellite system for
+  🔗 https://news.google.com/rss/articles/CBMitwJBVV95cUxOSng1Z1UycEhnZTNBNTNGUlJMdzk2bVhDQTZYcFM1elA3VmlOSTIxb1hqYkdfX2xuV0FNQ2pPSVFqRGI5Vm80cUdRM2JVVmhZb0tsdGFWYkx5S2lYT3d1a0ZxdGdwY0MzcllMbURWdlNRdDNOU2I4V3RFX3BYTXNZVkxxeE1ndUg1bXkxcHhraG1WeHJ2NGJuWWprRDB1VnZROFNuejZON0R0cGV0NkdXQndObnRsVEtuTmRVZ2p2cXF0dTlOcW9nNDRJdzJhaG1BZ3FiRzMtTnphT0xXS0d4dEI1WkZLU0o1UHQ1TXlreEJmTkZROGxxVkFQbVRwOTFIT05iMGdObU9vdHdrX2hrOVhTcDdPeGpGX0t4ZmxyUGlpemhuUEttaS1QMEhZbndLaDVMZ0NqZ9IBvgJBVV95cUxQM29BdUgtdE9tTzJLUWt6SmJndjVCY1psQXZlLUNrbEhZdGNOMWVEcFhQSTIyenV6Z0taTWFTdWNjZHhUdUxSN0hwc0RfR2RNOWQ0MGVZWDM3Z1Y1WTNla3VGYkxXOTBWbEt1ZzFLbEZEdlF1SmczX0tDVFZtZ05xRXdsVFVoR3MwaXNGUm1LbkVSUUpxNU1JWVhvMXFhWWxFMmFMUUlmdjNzYXN5ZUVDd1dOZjFtclZyZGZHZmpjZXlUZlZaZTVsRzBvUEZETDAzNkpENkRqNWFOS1FUeUxfNW8zMERWMGUtR251RFpPdmpHeGo5aGYxQWFvdHY5NkY0MVhyc1ZFb3FLVnNZRkdjWFRCa203NEljZXBhcHlNQWdGbkJXNzdJLVBFZkNNSkVMQWg2UUF2b29DSFp2UHc?oc=5
+
+- Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology, Jitin Prasada | DD News On Air - News On AIR
+  Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFR1VkZCQ1V5STFVbzI4ZzNWdkJxNFhBYS0tSl9iTjRodThVdU9OVEJ3S2NfRHhuajhvSjZ3YWsxWUNVejNsdVZ6S2lKY0xmQlpDdWdRMWVfM3ZieFY5SmtlUjY2eWljbC1UdnBXcWJOeDJCa0FoRmFfeGlYRGI4WWwtbFdqM3FnaWdKSjZDYWpDS2FFcDJpY1RYRGZjTFZjanJ3RngxWkpBN1BDRmZyeGdmMENkVDBwTk03WFdTMjZsd3FuRVFKQXhtWHpXbUZqSnY4bDVVa2hlYThFajBETXE3emU?oc=5
+
+- Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran war disruptions | India News - Hindustan Times
+  Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlhIb2QxRkt2ZjNTSlN6Q3RJaFhRS3ZLT1doZVdmR0h2YzhLb2FPX1QweHRCUjFnX1pYUHNVOTR1Vkw5clRvdWl3T0Y3eG5xRmE1REgtSE93VmlpZTFMa1BRaEpVTXNDa21KOVhKNGRYMlRJWXZGdGZSZnVQUGVkMXpDWDRNc2xZT3RaVVZ1UFlERVBxZlluZndTV1NoOE9TTnpUcXpZT01LWkpPeFNVMFJKVXVtRDZPS3lJR3JOT0paV25jWEVTZVFUVmFrTlpORUxlcDE0VmtQLW9GTkJzdkdTQTVsWUxxS2puYVNR0gHzAUFVX3lxTE5ETWJOWnNkYW9lRjNEaVVBRWRialkwX2NwYWV1dzNzam10MXFDUm9YaXA1RXFybDhmOHFaQmlhaDFZVEN1WWtXVFN6c245S1BMbWdYbkZSb1REUVk2OVVSc1A0MEdHczJPcDExYlU5cGlsWU15SEJjOERGaW90cHJSczltWFRFYXgyMjhzX3BfYkpWaHY0OE5xSDNFU1lTYjVLQVZnWXlqd09CenpKSnZ0QVdFWjVjbDlsSXJzUFJqVHA0dVhQOVNxaVVQVVVDTG9CUnJteVRjb2JNQmpSVGV0eEFjTmNIdkRaSVg4XzR3QWpzaw?oc=5
+
+- Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
+  Gold Prices Fall Sharply Amid Global Economic Uncertainty
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
+
+- LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol and diesel supply - The Times of India
+  LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+
+- With NavIC setback, India unable to use satellite system for security purposes: experts - The Hindu
+  With NavIC setback, India unable to use satellite system for
+  🔗 https://news.google.com/rss/articles/CBMitwJBVV95cUxOSng1Z1UycEhnZTNBNTNGUlJMdzk2bVhDQTZYcFM1elA3VmlOSTIxb1hqYkdfX2xuV0FNQ2pPSVFqRGI5Vm80cUdRM2JVVmhZb0tsdGFWYkx5S2lYT3d1a0ZxdGdwY0MzcllMbURWdlNRdDNOU2I4V3RFX3BYTXNZVkxxeE1ndUg1bXkxcHhraG1WeHJ2NGJuWWprRDB1VnZROFNuejZON0R0cGV0NkdXQndObnRsVEtuTmRVZ2p2cXF0dTlOcW9nNDRJdzJhaG1BZ3FiRzMtTnphT0xXS0d4dEI1WkZLU0o1UHQ1TXlreEJmTkZROGxxVkFQbVRwOTFIT05iMGdObU9vdHdrX2hrOVhTcDdPeGpGX0t4ZmxyUGlpemhuUEttaS1QMEhZbndLaDVMZ0NqZ9IBvgJBVV95cUxQM29BdUgtdE9tTzJLUWt6SmJndjVCY1psQXZlLUNrbEhZdGNOMWVEcFhQSTIyenV6Z0taTWFTdWNjZHhUdUxSN0hwc0RfR2RNOWQ0MGVZWDM3Z1Y1WTNla3VGYkxXOTBWbEt1ZzFLbEZEdlF1SmczX0tDVFZtZ05xRXdsVFVoR3MwaXNGUm1LbkVSUUpxNU1JWVhvMXFhWWxFMmFMUUlmdjNzYXN5ZUVDd1dOZjFtclZyZGZHZmpjZXlUZlZaZTVsRzBvUEZETDAzNkpENkRqNWFOS1FUeUxfNW8zMERWMGUtR251RFpPdmpHeGo5aGYxQWFvdHY5NkY0MVhyc1ZFb3FLVnNZRkdjWFRCa203NEljZXBhcHlNQWdGbkJXNzdJLVBFZkNNSkVMQWg2UUF2b29DSFp2UHc?oc=5
+
+- Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology, Jitin Prasada | DD News On Air - News On AIR
+  Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFR1VkZCQ1V5STFVbzI4ZzNWdkJxNFhBYS0tSl9iTjRodThVdU9OVEJ3S2NfRHhuajhvSjZ3YWsxWUNVejNsdVZ6S2lKY0xmQlpDdWdRMWVfM3ZieFY5SmtlUjY2eWljbC1UdnBXcWJOeDJCa0FoRmFfeGlYRGI4WWwtbFdqM3FnaWdKSjZDYWpDS2FFcDJpY1RYRGZjTFZjanJ3RngxWkpBN1BDRmZyeGdmMENkVDBwTk03WFdTMjZsd3FuRVFKQXhtWHpXbUZqSnY4bDVVa2hlYThFajBETXE3emU?oc=5
+
+- Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran war disruptions | India News - Hindustan Times
+  Oil companies say India has enough fuel after PM asks country to ‘be prepared’ over Iran
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlhIb2QxRkt2ZjNTSlN6Q3RJaFhRS3ZLT1doZVdmR0h2YzhLb2FPX1QweHRCUjFnX1pYUHNVOTR1Vkw5clRvdWl3T0Y3eG5xRmE1REgtSE93VmlpZTFMa1BRaEpVTXNDa21KOVhKNGRYMlRJWXZGdGZSZnVQUGVkMXpDWDRNc2xZT3RaVVZ1UFlERVBxZlluZndTV1NoOE9TTnpUcXpZT01LWkpPeFNVMFJKVXVtRDZPS3lJR3JOT0paV25jWEVTZVFUVmFrTlpORUxlcDE0VmtQLW9GTkJzdkdTQTVsWUxxS2puYVNR0gHzAUFVX3lxTE5ETWJOWnNkYW9lRjNEaVVBRWRialkwX2NwYWV1dzNzam10MXFDUm9YaXA1RXFybDhmOHFaQmlhaDFZVEN1WWtXVFN6c245S1BMbWdYbkZSb1REUVk2OVVSc1A0MEdHczJPcDExYlU5cGlsWU15SEJjOERGaW90cHJSczltWFRFYXgyMjhzX3BfYkpWaHY0OE5xSDNFU1lTYjVLQVZnWXlqd09CenpKSnZ0QVdFWjVjbDlsSXJzUFJqVHA0dVhQOVNxaVVQVVVDTG9CUnJteVRjb2JNQmpSVGV0eEFjTmNIdkRaSVg4XzR3QWpzaw?oc=5
+
+- Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
+  Gold Prices Fall Sharply Amid Global Economic Uncertainty
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
+
+- LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol and diesel supply - The Times of India
+  LPG Crisis in India Live Updates: Govt pushes PNG expansion, assures adequate petrol
+  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxNbFROcExQcTkyN2ZsbFlHMzZGYXo2WllLaHVKQ2hsLWk3a0tXWl9OYkdvOW8yZl9VdjJFaGNoVUhKY3lLd1VxUTdhZm1YQjVuRXE0MjlfZWpWdl85c1Vha1J1SXRNZGlFMUpneXRCbGdqb0gwQlYzMGpuUHp0bldlblJPV1FvN01HdmpJNnE2NU1OUEtQWFowbDcxTWVXSmlpRUp1WlNtTXNPa3dndlFpLWN2ZzRNUlFCTE9fUVZsLTNTc0I4Z1ZON1lkRzFoY1pCa21SY2ZGcTBHSFdncXBGV0VrcUpUZ3BwOFFYTmR2M2wtQUR0RHAzYUlXbXk5N2RLbVQ0NWhtWm9qLUtKcHZpUWZpTUd6dkROR3BySUJSUDNNdXBaRkh3RzJqcjZNQnRrVk1MTm9RSnJCa3JlWTVuaENweURuZjl5MW5sa0NnMU1aUE3SAdgCQVVfeXFMUFZJYURKVEhOUF9zYW43RE50UEZGQ1VJcTNvc0ZWR2hTbmpOUDFUN2RGTXBtZDJKYWp2amF0VHVKWml4UjBmMU5ULXVMVGtVVVFSajA5NXFTZUhnMHcwOUstcmdEZHdqZW1iNGJ1cmxTZ08wTWozZVBmdW4za2J6ZUtQLTdnOHpmZXk5REE4NVZKcUxOSU5MRGVKVk5Vd2dqNElHUXpkb3E0Q2JCMmpOTTB1bnZET1FhVEM4cktjbzhLcHA3OURrMUJUNWZRNnRnSWtURVBZbk9xQklzQUN4S1hYakNDV0JBZndBVFFOaWZTbTlsMHpwX2pPTUFYdnFsMVptUHJwQ0ZnYjNZcDhVRHZnT3ZlbFExeWJfb0tfMTFmbkNiU1dtRVR6M0FuRXZ6c3BTbkt2QWlSb0NIU1lOdmFhUXFkdU84aVVKWUk3em5PRXpYeUpZWUo?oc=5
+
+- With NavIC setback, India unable to use satellite system for security purposes: experts - The Hindu
+  With NavIC setback, India unable to use satellite system for
+  🔗 https://news.google.com/rss/articles/CBMitwJBVV95cUxOSng1Z1UycEhnZTNBNTNGUlJMdzk2bVhDQTZYcFM1elA3VmlOSTIxb1hqYkdfX2xuV0FNQ2pPSVFqRGI5Vm80cUdRM2JVVmhZb0tsdGFWYkx5S2lYT3d1a0ZxdGdwY0MzcllMbURWdlNRdDNOU2I4V3RFX3BYTXNZVkxxeE1ndUg1bXkxcHhraG1WeHJ2NGJuWWprRDB1VnZROFNuejZON0R0cGV0NkdXQndObnRsVEtuTmRVZ2p2cXF0dTlOcW9nNDRJdzJhaG1BZ3FiRzMtTnphT0xXS0d4dEI1WkZLU0o1UHQ1TXlreEJmTkZROGxxVkFQbVRwOTFIT05iMGdObU9vdHdrX2hrOVhTcDdPeGpGX0t4ZmxyUGlpemhuUEttaS1QMEhZbndLaDVMZ0NqZ9IBvgJBVV95cUxQM29BdUgtdE9tTzJLUWt6SmJndjVCY1psQXZlLUNrbEhZdGNOMWVEcFhQSTIyenV6Z0taTWFTdWNjZHhUdUxSN0hwc0RfR2RNOWQ0MGVZWDM3Z1Y1WTNla3VGYkxXOTBWbEt1ZzFLbEZEdlF1SmczX0tDVFZtZ05xRXdsVFVoR3MwaXNGUm1LbkVSUUpxNU1JWVhvMXFhWWxFMmFMUUlmdjNzYXN5ZUVDd1dOZjFtclZyZGZHZmpjZXlUZlZaZTVsRzBvUEZETDAzNkpENkRqNWFOS1FUeUxfNW8zMERWMGUtR251RFpPdmpHeGo5aGYxQWFvdHY5NkY0MVhyc1ZFb3FLVnNZRkdjWFRCa203NEljZXBhcHlNQWdGbkJXNzdJLVBFZkNNSkVMQWg2UUF2b29DSFp2UHc?oc=5
+
+- Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology, Jitin Prasada | DD News On Air - News On AIR
+  Total of 190 projects have been approved under India AI Mission: MoS for Electronics & Information Technology.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFR1VkZCQ1V5STFVbzI4ZzNWdkJxNFhBYS0tSl9iTjRodThVdU9OVEJ3S2NfRHhuajhvSjZ3YWsxWUNVejNsdVZ6S2lKY0xmQlpDdWdRMWVfM3ZieFY5SmtlUjY2eWljbC1UdnBXcWJOeDJCa0FoRmFfeGlYRGI4WWwtbFdqM3FnaWdKSjZDYWpDS2FFcDJpY1RYRGZjTFZjanJ3RngxWkpBN1BDRmZyeGdmMENkVDBwTk03WFdTMjZsd3FuRVFKQXhtWHpXbUZqSnY4bDVVa2hlYThFajBETXE3emU?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-25 07:00:52 UTC_
+_Last updated: 2026-03-25 13:01:55 UTC_
