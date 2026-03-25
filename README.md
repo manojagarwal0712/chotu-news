@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
+- Gold Rate Today, March 25: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-25-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10599861/
+
+- Sonia Gandhi admitted to Sir Ganga Ram Hospital in Delhi
+  
+  🔗 https://indianexpress.com/article/india/sonia-gandhi-health-update-hospitalised-delhi-congress-10599715/
+
+- Not just Jammu, Kashmir: Proposed legislation seeks 2 new divisions in J-K — Chenab and Pir Panjal
+  
+  🔗 https://indianexpress.com/article/india/not-just-jammu-kashmir-proposed-legislation-seeks-2-new-divisions-in-j-k-chenab-and-pir-panjal-10599458/
+
+- Inside Odisha’s big culinary push: State to fund premium Odia restaurants across major Indian cities
+  
+  🔗 https://indianexpress.com/article/india/inside-odishas-big-culinary-push-state-to-fund-premium-odia-restaurants-across-major-indian-cities-10599457/
+
 - Bihar’s smaller towns make their mark in state board exam results
   
   🔗 https://indianexpress.com/article/india/bihars-smaller-towns-make-their-mark-in-state-board-exam-results-10599456/
 
-- Kochi Biennale head Bose Krishnamachari resigned after sexual harassment allegation
+- How HP’s new IQ on-device assistant reimagines the AI interface on PCs
   
-  🔗 https://indianexpress.com/article/india/kochi-biennale-head-resigned-after-sexual-harassment-allegation-10599476/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-hps-new-iq-on-device-assistant-reimagines-the-ai-interface-on-pcs-10600010/
 
-- ‘Delimitation won’t just be based on population, Congress spreading propaganda’: Telangana BJP chief
+- Talking to chatbots, dodging people: Is AI rewiring how we connect?
   
-  🔗 https://indianexpress.com/article/india/delimitation-wont-just-be-based-on-population-congress-spreading-propaganda-telangana-bjp-chief-10599436/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/is-ai-rewiring-how-we-connect-10598653/
 
-- Sri Lanka President discusses West Asia situation with PM Modi
+- OpenAI shuts down Sora, pivots to enterprise and developer tools
   
-  🔗 https://indianexpress.com/article/india/sri-lanka-president-discusses-west-asia-situation-with-pm-modi-10599541/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-shuts-down-sora-pivots-to-enterprise-and-developer-tools-10599862/
 
-- 170 custodial deaths in first 74 days this year: MHA
+- Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims
   
-  🔗 https://indianexpress.com/article/india/170-custodial-deaths-in-first-74-days-this-year-mha-10599536/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ordered-to-pay-375-million-in-new-mexico-trial-over-child-exploitation-user-safety-claims-10599794/
 
-- HP unveils IQ as on-device AI, high-performance PCs to help accelerate enterprise AI adoption
+- I thought my iPhone 4 was done after a 3-storey fall — What I found on the concrete changed everything
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-unveils-iq-as-on-device-ai-high-performance-pcs-to-help-accelerate-enterprise-ai-adoption-10599479/
+  🔗 https://indianexpress.com/article/technology/opinion-technology/apple-iphone-4-durability-story-macbook-air-longevity-10599689/
 
-- Galactic cosmic rays: Invisible rain that never stops falling
-  
-  🔗 https://indianexpress.com/article/technology/science/galactic-cosmic-rays-invisible-rain-that-never-stops-falling-10599077/
+- HCLTech eyes software biz reboot in AI era
+  HCLTech recently acquired two firms to strengthen its software offerings. The company acquired Florida-based data analytics firm Jaspersoft and Antwerp-based agentic AI startup
+  🔗 https://www.livemint.com/companies/hcltech-restructures-software-business-ai-growth-strategy-11774405907968.html
 
-- Google Gemini will soon let you import memory from ChatGPT: Here’s how it works
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-gemini-import-memory-chatgpt-feature-explained-10598890/
+- Epic Games layoffs: Fortnite maker to slash 1,000 jobs, says ‘sorry’ — What we know so far; read full memo to employees
+   Epic Games employees who are being laid off in the current cycle will be provided with a severance package
+  🔗 https://www.livemint.com/companies/news/epic-games-layoffs-fortnite-maker-to-slash-1-000-jobs-says-sorry-what-we-know-so-far-read-full-memo-to-employees-11774416612352.html
 
-- Tech and Gadget Launches Today (March 24, 2026):Vivo T5x 5G, Samsung Forever, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-24-2026vivo-t5x-5g-samsung-forever-and-more-10598863/
+- China bars Manus co-founders from leaving country as it reviews Meta's $2 billion acquisition: Report
+   Meta said it would acquire Manus in December. Manus makes general-purpose AI agents that operate as digital employees.
+  🔗 https://www.livemint.com/companies/news/china-bars-manus-co-founders-from-leaving-country-as-it-reviews-metas-2-billion-acquisition-report-11774416004585.html
 
-- Your iPhone could be hacked in minutes: Why a new GitHub leak puts millions of Apple devices at risk
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-darksword-hacking-kit-ios-18-26-10598427/
+- Bain, EQT, TPG enter final leg of race for UK’s Vitabiotics at $900 mn-$1 bn valuation
+  Several mid-size deals have been announced recently as companies look to capture the growing demand for protein, hydration and clean
+  🔗 https://www.livemint.com/companies/news/vitabiotics-bain-eqt-tpg-nutrition-brands-health-and-wellness-market-india-11774408610782.html
 
-- Prosus sees long runway in India portfolio
-   Prosus deployed $675 million in companies such as Urban Company, PayU,
-  🔗 https://www.livemint.com/companies/start-ups/prosus-india-investments-startup-investments-india-urban-company-payu-rapido-11774324102149.html
+- Fast&amp;Up’s parent raises  ₹300 crore from Elev8 Venture, limited partners
+  The move highlights a strategic expansion into consumer platforms, with a strong focus on brands leveraging science, innovation, and digital channels
+  🔗 https://www.livemint.com/companies/start-ups/fastup-fullife-healthcare-elev8-venture-partners-avendus-capital-11774408460135.html
 
-- Jio eyes up to $140 bn IPO valuation; TPG, KKR, General Atlantic, Silver Lake to sell
-  Reliance Industries is not expected to sell any shares in Jio Platforms. The company is also not looking to issue new stock to raise capital in what is touted
-  🔗 https://www.livemint.com/companies/news/reliance-jio-eyes-up-to-140-bn-ipo-valuation-tpg-kkr-general-atlantic-silver-lake-to-sell-11774345545378.html
+- Indian 10-year bond yields ease as crude oil prices slip below $100 a barrel on US-Iran ceasefire hopes
+  The uptick in bond prices followed a sharp decline in crude oil prices. The benchmark Brent crude contract was nearly 5% lower at $99.60 per barrel.
+  🔗 https://www.livemint.com/market/bonds/indian-10-year-bond-yields-ease-as-crude-oil-prices-slip-below-100-a-barrel-on-us-iran-ceasefire-hopes-11774420574525.html
 
-- Oracle reworks its suite of cloud software as agentic apps
-  Oracle reworks its suite of
-  🔗 https://www.livemint.com/companies/oracle-reworks-its-suite-of-cloud-software-as-agentic-apps-11774390817397.html
+- NBFC penny stock under  ₹10 jumps over 4% following Indian stock market rally
+  NBFC stock Golden Legand Leasing and Finance rose nearly 5% amid stock market rally
+  🔗 https://www.livemint.com/market/stock-market-news/nbfc-penny-stock-under-10-golden-legand-leasing-and-finance-jumps-over-4-following-indian-stock-market-rally-11774416071733.html
 
-- Anthropic and Pentagon head to court as AI firm seeks end to stigmatizing supply chain risk label
-  Anthropic and Pentagon head to court as AI firm seeks
-  🔗 https://www.livemint.com/companies/anthropic-and-pentagon-head-to-court-as-ai-firm-seeks-end-to-stigmatizing-supply-chain-risk-label-11774382361272.html
+- Big blow for traders! F&amp;O trading with Zerodha may get costlier from April 1: Reports
+  Zerodha plans to increase brokerage charges for certain intraday derivatives traders from April 1. Traders failing to meet the SEBI cash collateral requirement will incur a  ₹40
+  🔗 https://www.livemint.com/market/stock-market-news/big-blow-for-traders-f-o-trading-with-nithin-kamaths-zerodha-may-get-costlier-from-april-1-reports-11774418643624.html
 
-- Nelson Peltz Is Giving Hedge Funds a Little Sweetener
-  Nelson Peltz has sweetened his bid for Janus Henderson Group Plc to a “best and final’ $8 billion. The billionaire activist investor can be pushed around a little bit.
-  🔗 https://www.livemint.com/companies/nelson-peltz-is-giving-hedge-funds-a-little-sweetener-11774377299322.html
+- 385% return in one year! Multibagger stock hits upper circuit after launch of AI-driven health platform
+  Take.Health is an AI-driven health platform aiming to provide personalized health insights and enhance digital wellness in India. The initiative aligns with the government's
+  🔗 https://www.livemint.com/market/stock-market-news/385-return-in-one-year-multibagger-stock-hits-upper-circuit-after-launch-of-ai-driven-health-platform-11774418698702.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 25 March 2026
-  Indian indices gained as much as 2% on Tuesday, after witnessing robust buying interest. Sumeet Bagadia of Choice Broking recommends
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-25-march-2026-11774401245804.html
-
-- From Gift Nifty, US-Iran peace plan, to gold price rally: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,153 level, a premium of nearly 225 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-peace-plan-to-gold-price-rally-10-key-things-that-changed-for-indian-stock-market-overnight-11774371465626.html
-
-- Gold, silver rates today: Amid signs of de-escalation in US-Iran war, COMEX gold above $4,600/oz, silver price jumps 7%
-  Gold and silver rates today snapped their losing run to gain as much as 7% on Wednesday, March 25. Check out the latest COMEX gold and silver
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-amid-signs-of-de-escalation-in-us-iran-war-comex-gold-above-4-600-oz-silver-price-jumps-7-11774399176189.html
-
-- Indonesia Markets Reopen as Shifting Iran Headlines Spur Caution
-  Indonesian markets reopen Wednesday after a week-long holiday. Investors weigh rapidly shifting headlines on the Iran war and persistent concerns over fiscal and governance risks
-  🔗 https://www.livemint.com/market/indonesia-markets-reopen-as-shifting-iran-headlines-spur-caution-11774400676115.html
-
-- Gold Extends Gains as Reports of Iran War Talks Offer Respite
-  Gold extended gains after reports that the US is seeking a diplomatic route to ending the war in the Middle East. Gold
-  🔗 https://www.livemint.com/market/gold-extends-gains-as-reports-of-iran-war-talks-offer-respite-11774400305813.html
+- LED stock MIC Electronics share price jumps 5% following bull trend on Dalal Street
+  The stock of MIC Electronics hit its upper circuit at  ₹33.23, boosted by market optimism. A board
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-led-stock-mic-electronics-share-price-jumps-5-following-bull-trend-on-dalal-street-11774416503474.html
 
 - New Mexico jury says Meta harms childrens mental health and safety, violating state law
   New Mexico jury says Meta harms children's mental
@@ -100,145 +100,65 @@
    AI laptops under  ₹60000 now offer smarter performance, faster multitasking
   🔗 https://www.livemint.com/technology/gadgets/upgrade-your-workflow-with-ai-powered-laptops-from-dell-hp-and-more-for-under-rs-60000-11774246499638.html
 
-- Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
-  Stock Market Today: Nasdaq Slips, Brent Cr
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXNNY1pVSUZNekl5bnZCQzRKbUgxczdCWnRiaVNtUWszQVZTeTcyRUgtdmVncFlrOVZPZkc0a0V1UUhLRHRsNmg0aUVVeDJPSWVLT3ZlVkhxOHhBSkZTS3dVSk1LSHFZY2xYU0VJdnZjaThvcmNua3dWZGVJRnBpRnFzYnloOFk?oc=5
+- Railway infrastructure provider Laxyo files Rs 150 cr IPO papers
+  Laxyo Ltd, an EPC services provider for railway infrastructure, has filed preliminary papers with Sebi for a Rs 150 crore IPO. The company plans
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/railway-infrastructure-provider-laxyo-files-rs-150-cr-ipo-papers/articleshow/129793290.cms
 
-- Dow surges 600 points in relief rally after Trump says U.S. and Iran have had ‘productive’ talks: Live updates - CNBC
-  The Dow surges 600 points in relief rally after Trump says U.S. and Iran
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYklHb25TWGpmdWdnbGVmRk4xdDNJZ1Y2VTJsRVJCZTUwOU5QWVJsRU1XZTRhWDY1OG1nTld3NGdITmFiX1lDYUlDZld1M01saG9nZWNIcnREZkFqNmJHaTdXLWlUbTUyTDNCU1VVS21sdUhsSDRv0gF8QVVfeXFMUDJ5VGxYVUlFemlReXFsS1BtdXJYbnlsYmduX0tHV1FjR0cwVVBJenF2ZFlmOEhuVU1ZdVoycl9VNmhkbTBiVzhrcVhkdjB1WEZkSGhxTXBIQ2JBRWxQcmthLXRIQWZFNk1CZlc3eXJSWTRIQjhTcE40WVpacQ?oc=5
+- Global Markets | Australian shares rally on softer inflation, Mideast ceasefire prospect
+  The S&amp;P/ASX 200 index reached its strongest daily gain since February 9. Softer inflation data boosted market sentiment. Hopes for a Middle East ceasefire also contributed to the rise.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-rally-on-softer-inflation-mideast-ceasefire-prospect/articleshow/129793194.cms
 
-- Oil Falls, US Stock Futures Climb on Iran Hopes: Markets Wrap - Bloomberg.com
-  Oil Falls, US Stock Futures Climb
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmotMmZtZVVxclJpYnJtUEdUeWJRY0FYMzRpRVNFRGZ2U0t4cUZXVHhwamhtSVc1akdCczJOM3loc25oQmNLa0J4WTZDMm1jUXV5RFdoRXBfLTJvRC1SOEtGcTlEX3ViN3BNLUxpSFRIM0kwMjBOZnRENXFtMERPb05jN21PaWJkNGJxZ19MRmc1ZTl2?oc=5
+- RBI steps in as prior intervention-linked flows pressure rupee near record lows
+  Heavy dollar demand from maturing non-deliverable forwards weighed on the currency. Traders reported the Reserve Bank of India used state-run banks for intervention.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-steps-in-as-prior-intervention-linked-flows-pressure-rupee-near-record-lows/articleshow/129792973.cms
 
-- Currency markets drift as traders sceptical of US efforts to end Iran war - TradingView
-  Currency markets drift as traders sceptical of US efforts
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUmR2NXlaVVBsbXhUVlFFbnNTV2RiWUo3b29sOG5IMHhIaTdueXJhMFduRlFTYWZZX0F2SVp5Mk9XNDNMNEI0MUJPejd5bXJGZVZWbEFYYU51SlQzNFRHM19qTGxYSXRlSFNYSC03c1hXRGpEVWNjMjViX2psQ29TNkNwaUJyeEo2NkFKaWxzeEpfVGF6aWdPcmoyVzNNaTZ2d0R5UEFfODlEcHI0V2pHSGVYbk05SFl1UFoyNFJPTk14aXNLVXBWc0VjcFB0dy1pdDdBX0Q5Z0pSWmM?oc=5
+- Market nears inflection point; select largecaps offer entry window: Pankaj Pandey
+  Market expert Pankaj Pandey sees opportunity in current market dips. Pandey recommends buying quality largecap stocks in autos, cement, and capital goods. He advises patience for HDFC Bank due to near-term challenges.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-nears-inflection-point-select-largecaps-offer-entry-window-pankaj-pandey/articleshow/129792783.cms
 
-- Asia-Pacific markets are set for higher open as Trump comments signal Iran war de-escalation - CNBC
-  Asia-Pacific markets are set for higher open as Trump comments
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2tXNDMtNlRTMzlScHR2ZjlDaWI2S3dFcnZFTXJ0NkRndVN3dXVlWWx1Z3BTblU0eV9mQ2ViMmRRckE3TEJZaVktYnJadnRUQmR3b3JYVDkzWW5pTkwzUVAxUFJYTFB3cEdISUd3WGtZZHp6NUtIdmg2bjZ2Unh5TERjLXFKamlMdGNjanNYc3V5Z9IBlwFBVV95cUxQNTVxVmRubFZ1MXhxc2VIejU1bVhpbnQxdmpKMThHVllMS3NQVWZ1ZlViUnZfUTRPSF9UZF9zeGU2TGJrQWh4Uzg1ZjVhZ29XSHZ0U1dJRVMzQVNiQmdKTmYyLVk2V2N1aWxrdVRPUXIwdC0xcXZpeFRPN1ljeDJUSjBfcUdvNkxxb0JQdVhxMVBVY2pPbndV?oc=5
+- 3 growth juggernauts can power 24% surge in Solar Industries shares, says Elara after initiating with Buy
+  Elara Capital has initiated coverage on Solar Industries with a 'Buy' rating and a target price of Rs 15,450. The brokerage highlights three key growth drivers: a booming defence portfolio, aggressive global expansion across 90 countries
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms
 
-- Stocks in news: M&amp;M, Kotak Bank, Adani Green, United Spirits, Interarch Building Solutions, Welspun Corp
-  Indian stock markets surged on Tuesday. This rise followed positive news from US-Iran negotiations. Major indices like the Nifty and Sensex saw significant gains. Several companies including Mahindra &amp; Mahind
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-mm-kotak-bank-adani-green-united-spirits-interarch-building-solutions-welspun-corp/articleshow/129789402.cms
+- Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Hormuz remains open | India News - Hindustan Times
+  Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFE2WmhIVDVBWTJyUkF1TWpWQThJdGVfRFF2U1g5YnBFa2xIOFl4aExHLXFoVDY1X2ZNcUlkTXBodW1PSlgtQmVjdGtPbENILTlnbU1CTXdjWUZZdlRWZzljUVN6SVNTVFJaTzRHcUxRUDZCRjI0X3drTVZFX2RTbUk0RHI1U1IwUjNUSW5hY1RHQ2Rqc21lVm9va0xRbzhDaE82dnR3c1hRajltS0k1ejNJOExDSkkxcG94LUNZUldtRFU4YXREODFhYVA0Mnc1SjhScy130gHbAUFVX3lxTE84VTUzXzlPZHZBX25hTUJuTXdyVEJaREE3ZXEtRW5TYnJqS0piMmdZSmV6aEtyT3Mzd0lqb0NIMV9QT1U5SmJNZVdSYloydlJLQm5xSmdsak1FZHUyb3QteHRIRHBGV3VrQ0tib1RubVVoQWNNa2xheWNyTHFCODVJZDVHWTAtMVZjVzFWRDViTGhvVmlaRG12b21uYVZYVU96ZFBsNFh4Y0xFN0pIM2w4YmNTZVU4bjFMcHY4LXZzYTQtUXhtd2xZYjROTjVXYktfRTd4UDdHMUZ0SQ?oc=5
 
-- Global Market Today: Oil falls, Asian stocks rise on Iran de-escalation hopes
-  Global markets reacted positively as hopes grew for an end to the Middle East conflict. Oil prices fell significantly, while stock markets in Asia saw gains. Gold and Bitcoin prices also rose.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-falls-asian-stocks-rise-on-iran-de-escalation-hopes/articleshow/129789384.cms
+- Trump dials Modi as US contemplates peace talks with Iran - The Times of India
+  The Times of India reports that the US is holding talks
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEppZklwNm9LRlhtNmEyekVNTmhmdGRtdzdQWEJIU2QtdU5sdzV6a2J4Y3AwTDhUMGswSUkzMHNoR2p0ZW1oMDNKN3ZQbFlYMlpjYTdfVkhIeWxOOGlyQVFJeUNTRFlJemRnMVN3b3pjbHItZ3RicERDT1NlRER3NUluVUhCb3pQYnJpVnlLc2U2X1AwYmowcE1xaFlRWFYzbm1tM2xMcjFKbVg3S2JnWVJiQXV1Wkk1TU1lZlhRa3R5RnPSAcgBQVVfeXFMTXNyMUJOb1VIczU5eGtHVVhVaG50RmVBNVhCQ25YcGt4anZkUzJZa1FRRG1UWUljaGxhREVYUzJEUVZLaDhaVElHZFZCeGdDNVVqaE5JNnNMT0lTM3hEbnluTmN1ZkNWd0VRNkVEZzVxQ25qN3hGb1Vtc2FXNnZjaUxUNDg1VHlsa0c1VU5yYkE1VjBYWG9uYXRjaFFmcHY0OE11aTVZMkdYUmI0eUFoc2hxVm0xN2ZPaXJGUHhXdzZuZ3h4VDF4VkU?oc=5
 
-- D-Street rebounds as US halts Iran strikes; Nifty jumps nearly 2%
-  Indian equities surged nearly 2% and the rupee gained as traders reduced bearish bets following the US halting strikes on Iran. tempered optimism persists due to a lack of reciprocal statements from Tehran and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-rebounds-as-us-halts-iran-strikes-nifty-jumps-nearly-2/articleshow/129789316.cms
+- "India Has Adequate Crude Oil Stores, Need To Be Atmanirbhar": PM Amid Iran War - NDTV
+  "India Has Adequate Crude Oil Stores, Need
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXJ3ZEl1MVNqeWVObXFvckJFWEQ0VFY2UDU5MlZxU2E2OFpueWZQdGNNWGZUQWFVWVdwUlB5eGRlNlhJcHJRSWtXdUV3djI3azNpZ2FlZWNsSnQ5YkEzbzM0MFRWQTJRNVlJdGlYUC0ycVFSTHNpZTlVRWxRa3FGWGRQRGNYV3NfSk9ERHoyZ2huZU9aczctcGpiMk1TV29iNVZYbjV6TEVNMFlES2duTGF0d3c1ZFFqWmp5Wmln0gHGAUFVX3lxTE95SlZyQno2TlBPUUl5a0RQeVVBbnJZVDlESkExallJYVJ3bzdINzM3eHVnTmtKT29UbHZVcmZxRWxheTdFcElUanFsM3VMakVZMVNsb2VtMjlNcFp0bFduejkxcm9BOGZIdDNGSTJBNUZ5dmREV1BfZWNHRDBndjVLSDRVQVI0bGRaZ3ZHYkkxVDBjVnlENjl0VWp1eE56dVhibTJEZkprZEd1TE9hVkVjODh3VUxxSGxBYWJXZk1VUlV5dTZ0dw?oc=5
 
-- JP Morgan names Rahul Badhwar as India Head
-  Rahul Badhwar joins from HSBC after a three-decade career. He will drive the bank's growth strategy and ensure the full firm is brought to clients.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jp-morgan-names-rahul-badhwar-as-india-head/articleshow/129789248.cms
+- Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
+  Gold Prices Fall Sharply Amid Global Economic Uncertainty
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
 
-- Sterling Biotech: SC orders release of Rs 5,100 crore to banks
-  The Supreme Court has ordered its registry to disburse ₹5,100 crore from former Sterling Biotech directors to banks proportionally within a week. The court also barred further claims from un
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sterling-biotech-sc-orders-release-of-rs-5100-crore-to-banks/articleshow/129789236.cms
+- Warships Escort 2 Indian LPG Tankers In Gulf Of Oman Day After Hormuz Transit - NDTV
+  Warships Escort 2 Indian LPG Tankers In Gulf
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG9TSHJTc3VlUV8wZ3NMNHVKeVJ6cWw2RzNHY2hwbEtiNGhzNEFNTXVkVUdpVjktdVluOUpVeVJBSG1iQlRCeGhGUVhSMkUyVjdmMGNsX2RMZG5KOWVRQndWQTZ0eFRvZFZtd05hTWpzRURYY3AwR2huM1oxUEw4R3dOREJHdXpxX09Ba0dQc19MSm5SRTllbHQzRGpfbW9GdXBPeGc2VDNpVmVSQi0wYmF6U2twQXVZMEHSAcIBQVVfeXFMT2dQUjJmSVFGUGFKU3dVNVVuRjMzWTRSUmRqbGl4aGxfM3JLUUdsOU5nOFRPZ2RObGF5ajZ0RUQ3TXZ6YjBDbWlreHhpMkhGWlFfWW9kc1BfVTZGWkxNeThMT25mSE9TTG15WkpVS3BfX0llaWZFanhkakFKQlFFZVhVNllnakZWaTllT0NDYnEwRTRKREVXZ0xSMnFrbXdxTDYtamloQWx6UnhyR21Db29yczFNczVGS3FNZmJ2OGQ4UUE?oc=5
 
-- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
-  " target="_blank">How Much Cr
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
+- Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Hormuz remains open | India News - Hindustan Times
+  Modi, Trump discuss West Asia conflict; PM says must ensure Strait of Horm
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFE2WmhIVDVBWTJyUkF1TWpWQThJdGVfRFF2U1g5YnBFa2xIOFl4aExHLXFoVDY1X2ZNcUlkTXBodW1PSlgtQmVjdGtPbENILTlnbU1CTXdjWUZZdlRWZzljUVN6SVNTVFJaTzRHcUxRUDZCRjI0X3drTVZFX2RTbUk0RHI1U1IwUjNUSW5hY1RHQ2Rqc21lVm9va0xRbzhDaE82dnR3c1hRajltS0k1ejNJOExDSkkxcG94LUNZUldtRFU4YXREODFhYVA0Mnc1SjhScy130gHbAUFVX3lxTE84VTUzXzlPZHZBX25hTUJuTXdyVEJaREE3ZXEtRW5TYnJqS0piMmdZSmV6aEtyT3Mzd0lqb0NIMV9QT1U5SmJNZVdSYloydlJLQm5xSmdsak1FZHUyb3QteHRIRHBGV3VrQ0tib1RubVVoQWNNa2xheWNyTHFCODVJZDVHWTAtMVZjVzFWRDViTGhvVmlaRG12b21uYVZYVU96ZFBsNFh4Y0xFN0pIM2w4YmNTZVU4bjFMcHY4LXZzYTQtUXhtd2xZYjROTjVXYktfRTd4UDdHMUZ0SQ?oc=5
 
-- Six Reasons Why Pakistan as US-Iran Interlocutor Is a Strategic Setback for India - TheWire.in
-  The Wire.in has compiled a list of six reasons
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVMxMlhXSTlmQ0dsYUMxbVpXbGlyaVNtNVFwV19EQThtU1Q0cjBfVEs3d1JHdWJvdkFKNEVWOU9SLVdDUVZKQ0JJcW5UdHJ3TFh0QlZXU18tajR1MkpVODZDNXNZWTZGV29oQm5fNEZjQ2NLMHZpQ1F3Q2U3WmtCcHFLS3FGV3ZQSWZhSmVIaWpXUDFOanRqTEgwaXEtQzFlWU5vT3dFSHc3V1JydjRxQV8yYWw1UdIBuwFBVV95cUxNZXJSY2NNNWFGR25ET1Q1SDdQSm5zN1lrY0Z4Y3p4X0FBQmh5S1oyS2VUZjZlTFk4ZDBrSFZhT2xjVDA2dHV2UDE2S2x2MXZ2ZnpUT3B4dzBWdnMyc0hDNl9SVkNhWjYxOVdoeWVTWkZ1aFByY21NX2drd0pHemNpcFVkbjhzaHIzRGVMOUt5VGRCQ1d2QjJxc2MwX2lTQUdjWC10QnVzSUpSRXplTE5oQ3lRb1VlaGhMVUpz?oc=5
+- Trump dials Modi as US contemplates peace talks with Iran - The Times of India
+  The Times of India reports that the US is holding talks
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEppZklwNm9LRlhtNmEyekVNTmhmdGRtdzdQWEJIU2QtdU5sdzV6a2J4Y3AwTDhUMGswSUkzMHNoR2p0ZW1oMDNKN3ZQbFlYMlpjYTdfVkhIeWxOOGlyQVFJeUNTRFlJemRnMVN3b3pjbHItZ3RicERDT1NlRER3NUluVUhCb3pQYnJpVnlLc2U2X1AwYmowcE1xaFlRWFYzbm1tM2xMcjFKbVg3S2JnWVJiQXV1Wkk1TU1lZlhRa3R5RnPSAcgBQVVfeXFMTXNyMUJOb1VIczU5eGtHVVhVaG50RmVBNVhCQ25YcGt4anZkUzJZa1FRRG1UWUljaGxhREVYUzJEUVZLaDhaVElHZFZCeGdDNVVqaE5JNnNMT0lTM3hEbnluTmN1ZkNWd0VRNkVEZzVxQ25qN3hGb1Vtc2FXNnZjaUxUNDg1VHlsa0c1VU5yYkE1VjBYWG9uYXRjaFFmcHY0OE11aTVZMkdYUmI0eUFoc2hxVm0xN2ZPaXJGUHhXdzZuZ3h4VDF4VkU?oc=5
 
-- US-Israel-Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank - The Times of India
-  Fire breaks out at Kuwait airport after drones hit fuel tank.
-  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxPU1lXNHlXa3VucWxkendTcmFQWS1LWmdZUGp4RGUwcURYNm1YWkVfWU4zZFRidmtzY0NJcEJrWUtraWw0aXFBbUJHX21LOWlRMVl5SkxrZERiVkxiRTV6S0JKMFdEbkZOdVpoek9SY3VRR1liWXRUUkZxSk5TZkFaaEpyaWN0YkRUbXNQUjhaVDkzY1NLRTFLWmJfX3doSXNLVVF5aDNHVjNWTkNGaDNMRjhIbDNDZWpxLUhLRFEwOWVMNVZtcWdpLWRKc2JtR0EwTzM3dGRyb2h5V28zTzBWclpyMVhXc3NpN2ZjVFUzM1NJVGNSUFZIWmk0SmprY0RtamxhM01KNTlTbmVESUVfNFByS09oaFVjSkNxdXJCT21iRE1DNUYyb0lDcVltQ01DNWx5VFhWMjk1U1ZFYjhyQkVxdEF6dTU2VFpzd0JSN2hNY3J3MXVnUDRnT0MxTzNTaEVLU0c1TGQ4UHVTdTRfb1AwR1NMY05BN1JrZHRn0gGDA0FVX3lxTE5uaFV6eDFHZXJUNTUzdkg2MHh1cmJ0cUZFT3NjRkF6WklCWlVXcXduX2FHU2liRS00RjJZbTI3WHVzMHhmSTJ5TGZUZHBTZktRWlBZV3hFeDZya3lCeDBVTGtuSkZTMzJDMk9GSjNIZ054enRjQnVCRFVTcGU5eU4zOHpDSFlJaEozR3AwTmZJSXhYV0RmUlpxT29LUURmRlcyUFJIXzh2dFBaeVF3aU5nTUpPZlh4Zl9aQThYZ3RxUEJVNHVJZjBCZ1luYWRQeEVvRnl6akVSMkNPQkpTTGZiVFNjV3EtRUc1dXRacjlNdkh2ODdGTjFiZ1l1cXNtSnBuV1ZmSnl6X2dnRm81cXh2dEVycTFQMEpKVm5yNUp2THhhbFpDcG5vZk5sUzdXcmRjRDVpVTJCR0hTSlpJWlhQUzRDV1VMbTl6WGgtSDdRbXV1ZHB0d1h2Y3J6em1MUGg4WDJyMmhtMWdMdXJZTm9MRG82Z2JnWklqOGxFNzJzdFZVNA?oc=5
+- "India Has Adequate Crude Oil Stores, Need To Be Atmanirbhar": PM Amid Iran War - NDTV
+  "India Has Adequate Crude Oil Stores, Need
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXJ3ZEl1MVNqeWVObXFvckJFWEQ0VFY2UDU5MlZxU2E2OFpueWZQdGNNWGZUQWFVWVdwUlB5eGRlNlhJcHJRSWtXdUV3djI3azNpZ2FlZWNsSnQ5YkEzbzM0MFRWQTJRNVlJdGlYUC0ycVFSTHNpZTlVRWxRa3FGWGRQRGNYV3NfSk9ERHoyZ2huZU9aczctcGpiMk1TV29iNVZYbjV6TEVNMFlES2duTGF0d3c1ZFFqWmp5Wmln0gHGAUFVX3lxTE95SlZyQno2TlBPUUl5a0RQeVVBbnJZVDlESkExallJYVJ3bzdINzM3eHVnTmtKT29UbHZVcmZxRWxheTdFcElUanFsM3VMakVZMVNsb2VtMjlNcFp0bFduejkxcm9BOGZIdDNGSTJBNUZ5dmREV1BfZWNHRDBndjVLSDRVQVI0bGRaZ3ZHYkkxVDBjVnlENjl0VWp1eE56dVhibTJEZkprZEd1TE9hVkVjODh3VUxxSGxBYWJXZk1VUlV5dTZ0dw?oc=5
 
-- S Jaishankar Meets Iranian Ambassador, Discusses Middle East Conflict - NDTV
-  S Jaishankar Meets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3BMWlREaFZteXFlSEpoRlBnaUROcnJhbkw0RUFGYXFxd3lxaS1nUlFrdzgyMnVLYm1waGNFZDNiOWdDcElXVEVKdDVLXzNROWZCcVo2ZGMycmdNOTdIS2xscUF1V3JEUkEyMklhT3pGdUpDYkRwYkc3ZXJPY2M0SHFIY0puMm1CdHJkSUhNVzJSRlN0ckVRc3ZHa3h4Mzg1UHdfalZlNUJoRV9yNGYtOUNFblotUUpzWThRYWNqbm1NLUHSAcsBQVVfeXFMT3dndi1wbUJ2aEQ1QnY3Q2RMNG5BZC1TU3kzbkxTeE9KQl9xaEVvM3A0VGdpR2xzNkFiVVYyZ29qNHNacTF3YnJ3dzdsRV9MYmpZb0tfV01pUzBGeWhiZGpxaFhJRkFjT3lMeWFJdkZpUUdYZmJVVlgxdDZ5bFNkc2tkUXpXcWpEeHhCWk1PUG1CTWdaWnowQjlfRTNCcXNCWjl5WUxVR2pndE42UkdSQTVVRkVNZzh3YkpUMTZZT0FZcjJTbFJ2NHFzb0U?oc=5
+- Gold Prices Fall Sharply Amid Global Economic Uncertainty: Check Rates In Your City - NDTV
+  Gold Prices Fall Sharply Amid Global Economic Uncertainty
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGVYSTBCaGhyTEptd2lHdWlRSVJ0cnRWYUg1bjZ1U1R0endpNUk3ajBxaFBCa214RzlQTF9mYUQ0ZTQ0LWgwZEhITTRNU3RNM1F3dFJ2MDljQmt3X3V6VW1IU1VoT2NUbU1NcFRlRk1LZXVvVjJJZ1IzRlVmdlF3Z2dfR2VtM2pNdFhjcE5kOXNvSDkyWmlfV3dyejBNQkJFQlptQXJQUjZSOFRDVE9IcFNoVnJaTy1vZlBkdWs5anU1NkhBZFAzekRfTl90ei0yVUF0UVJkUWdCVmhYQ1RwN2RqQjU2TnRXS1hkcmk3OE1DREs1dVZxUw?oc=5
 
-- Scheduled caste status only for Hindus, Buddhists, Sikhs: SC - The Times of India
-  Scheduled caste status only for Hindus, Buddh
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXk5Z0ViemtJY0NhT3hVZUloZUhrclhqajBhMklMSWVSTS12djVzdllMSWhISTRvVjFyUjVoMGxCbk4ybEM3LUVUTWhQd3RaX3pzRXYyNXRzUGU5SjNZRk9wbXdJVTFSWjZ3Z3p2MURqcXBHbEFqT19EbnhTYTFPYU14YWV4LUJnWmFFaU5RVVhZLW50UlZwakRGeU1oYWRDVHM0RkZpM0IzWVlVMTF2MEI4MlNJbndUYndqeml3c1JGZjTSAcgBQVVfeXFMUFlDN2ZtWFVtQlh2blRyVzNJaExSZ2tFXzAzLVhkcEpTZjRVaGQ3Z3NzdzdRRkJqUWw1RUVtb3RTQXhtMUgwU2N4ZkRDbzhwa0FlekdZV3hXMGpkT21zb09oZ043Rm5tWm1WOFFvOVU1TjRIak1zS3VUVWRpRXhaUnZseDNTc0Q2RDhLRHFERURXLXN2V3BrMXlSVkg3b2RHWUhWUmcxeWlucTc3bEd6RUc5TFN6SE54SFY5d3RiTm1WeGktMmcxVHM?oc=5
-
-- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
-  " target="_blank">How Much Cr
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
-
-- Six Reasons Why Pakistan as US-Iran Interlocutor Is a Strategic Setback for India - TheWire.in
-  The Wire.in has compiled a list of six reasons
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVMxMlhXSTlmQ0dsYUMxbVpXbGlyaVNtNVFwV19EQThtU1Q0cjBfVEs3d1JHdWJvdkFKNEVWOU9SLVdDUVZKQ0JJcW5UdHJ3TFh0QlZXU18tajR1MkpVODZDNXNZWTZGV29oQm5fNEZjQ2NLMHZpQ1F3Q2U3WmtCcHFLS3FGV3ZQSWZhSmVIaWpXUDFOanRqTEgwaXEtQzFlWU5vT3dFSHc3V1JydjRxQV8yYWw1UdIBuwFBVV95cUxNZXJSY2NNNWFGR25ET1Q1SDdQSm5zN1lrY0Z4Y3p4X0FBQmh5S1oyS2VUZjZlTFk4ZDBrSFZhT2xjVDA2dHV2UDE2S2x2MXZ2ZnpUT3B4dzBWdnMyc0hDNl9SVkNhWjYxOVdoeWVTWkZ1aFByY21NX2drd0pHemNpcFVkbjhzaHIzRGVMOUt5VGRCQ1d2QjJxc2MwX2lTQUdjWC10QnVzSUpSRXplTE5oQ3lRb1VlaGhMVUpz?oc=5
-
-- US-Israel-Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank - The Times of India
-  Fire breaks out at Kuwait airport after drones hit fuel tank.
-  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxPU1lXNHlXa3VucWxkendTcmFQWS1LWmdZUGp4RGUwcURYNm1YWkVfWU4zZFRidmtzY0NJcEJrWUtraWw0aXFBbUJHX21LOWlRMVl5SkxrZERiVkxiRTV6S0JKMFdEbkZOdVpoek9SY3VRR1liWXRUUkZxSk5TZkFaaEpyaWN0YkRUbXNQUjhaVDkzY1NLRTFLWmJfX3doSXNLVVF5aDNHVjNWTkNGaDNMRjhIbDNDZWpxLUhLRFEwOWVMNVZtcWdpLWRKc2JtR0EwTzM3dGRyb2h5V28zTzBWclpyMVhXc3NpN2ZjVFUzM1NJVGNSUFZIWmk0SmprY0RtamxhM01KNTlTbmVESUVfNFByS09oaFVjSkNxdXJCT21iRE1DNUYyb0lDcVltQ01DNWx5VFhWMjk1U1ZFYjhyQkVxdEF6dTU2VFpzd0JSN2hNY3J3MXVnUDRnT0MxTzNTaEVLU0c1TGQ4UHVTdTRfb1AwR1NMY05BN1JrZHRn0gGDA0FVX3lxTE5uaFV6eDFHZXJUNTUzdkg2MHh1cmJ0cUZFT3NjRkF6WklCWlVXcXduX2FHU2liRS00RjJZbTI3WHVzMHhmSTJ5TGZUZHBTZktRWlBZV3hFeDZya3lCeDBVTGtuSkZTMzJDMk9GSjNIZ054enRjQnVCRFVTcGU5eU4zOHpDSFlJaEozR3AwTmZJSXhYV0RmUlpxT29LUURmRlcyUFJIXzh2dFBaeVF3aU5nTUpPZlh4Zl9aQThYZ3RxUEJVNHVJZjBCZ1luYWRQeEVvRnl6akVSMkNPQkpTTGZiVFNjV3EtRUc1dXRacjlNdkh2ODdGTjFiZ1l1cXNtSnBuV1ZmSnl6X2dnRm81cXh2dEVycTFQMEpKVm5yNUp2THhhbFpDcG5vZk5sUzdXcmRjRDVpVTJCR0hTSlpJWlhQUzRDV1VMbTl6WGgtSDdRbXV1ZHB0d1h2Y3J6em1MUGg4WDJyMmhtMWdMdXJZTm9MRG82Z2JnWklqOGxFNzJzdFZVNA?oc=5
-
-- S Jaishankar Meets Iranian Ambassador, Discusses Middle East Conflict - NDTV
-  S Jaishankar Meets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3BMWlREaFZteXFlSEpoRlBnaUROcnJhbkw0RUFGYXFxd3lxaS1nUlFrdzgyMnVLYm1waGNFZDNiOWdDcElXVEVKdDVLXzNROWZCcVo2ZGMycmdNOTdIS2xscUF1V3JEUkEyMklhT3pGdUpDYkRwYkc3ZXJPY2M0SHFIY0puMm1CdHJkSUhNVzJSRlN0ckVRc3ZHa3h4Mzg1UHdfalZlNUJoRV9yNGYtOUNFblotUUpzWThRYWNqbm1NLUHSAcsBQVVfeXFMT3dndi1wbUJ2aEQ1QnY3Q2RMNG5BZC1TU3kzbkxTeE9KQl9xaEVvM3A0VGdpR2xzNkFiVVYyZ29qNHNacTF3YnJ3dzdsRV9MYmpZb0tfV01pUzBGeWhiZGpxaFhJRkFjT3lMeWFJdkZpUUdYZmJVVlgxdDZ5bFNkc2tkUXpXcWpEeHhCWk1PUG1CTWdaWnowQjlfRTNCcXNCWjl5WUxVR2pndE42UkdSQTVVRkVNZzh3YkpUMTZZT0FZcjJTbFJ2NHFzb0U?oc=5
-
-- Scheduled caste status only for Hindus, Buddhists, Sikhs: SC - The Times of India
-  Scheduled caste status only for Hindus, Buddh
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXk5Z0ViemtJY0NhT3hVZUloZUhrclhqajBhMklMSWVSTS12djVzdllMSWhISTRvVjFyUjVoMGxCbk4ybEM3LUVUTWhQd3RaX3pzRXYyNXRzUGU5SjNZRk9wbXdJVTFSWjZ3Z3p2MURqcXBHbEFqT19EbnhTYTFPYU14YWV4LUJnWmFFaU5RVVhZLW50UlZwakRGeU1oYWRDVHM0RkZpM0IzWVlVMTF2MEI4MlNJbndUYndqeml3c1JGZjTSAcgBQVVfeXFMUFlDN2ZtWFVtQlh2blRyVzNJaExSZ2tFXzAzLVhkcEpTZjRVaGQ3Z3NzdzdRRkJqUWw1RUVtb3RTQXhtMUgwU2N4ZkRDbzhwa0FlekdZV3hXMGpkT21zb09oZ043Rm5tWm1WOFFvOVU1TjRIak1zS3VUVWRpRXhaUnZseDNTc0Q2RDhLRHFERURXLXN2V3BrMXlSVkg3b2RHWUhWUmcxeWlucTc3bEd6RUc5TFN6SE54SFY5d3RiTm1WeGktMmcxVHM?oc=5
-
-- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
-  " target="_blank">How Much Cr
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
-
-- Six Reasons Why Pakistan as US-Iran Interlocutor Is a Strategic Setback for India - TheWire.in
-  The Wire.in has compiled a list of six reasons
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVMxMlhXSTlmQ0dsYUMxbVpXbGlyaVNtNVFwV19EQThtU1Q0cjBfVEs3d1JHdWJvdkFKNEVWOU9SLVdDUVZKQ0JJcW5UdHJ3TFh0QlZXU18tajR1MkpVODZDNXNZWTZGV29oQm5fNEZjQ2NLMHZpQ1F3Q2U3WmtCcHFLS3FGV3ZQSWZhSmVIaWpXUDFOanRqTEgwaXEtQzFlWU5vT3dFSHc3V1JydjRxQV8yYWw1UdIBuwFBVV95cUxNZXJSY2NNNWFGR25ET1Q1SDdQSm5zN1lrY0Z4Y3p4X0FBQmh5S1oyS2VUZjZlTFk4ZDBrSFZhT2xjVDA2dHV2UDE2S2x2MXZ2ZnpUT3B4dzBWdnMyc0hDNl9SVkNhWjYxOVdoeWVTWkZ1aFByY21NX2drd0pHemNpcFVkbjhzaHIzRGVMOUt5VGRCQ1d2QjJxc2MwX2lTQUdjWC10QnVzSUpSRXplTE5oQ3lRb1VlaGhMVUpz?oc=5
-
-- US-Israel-Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank - The Times of India
-  Fire breaks out at Kuwait airport after drones hit fuel tank.
-  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxPU1lXNHlXa3VucWxkendTcmFQWS1LWmdZUGp4RGUwcURYNm1YWkVfWU4zZFRidmtzY0NJcEJrWUtraWw0aXFBbUJHX21LOWlRMVl5SkxrZERiVkxiRTV6S0JKMFdEbkZOdVpoek9SY3VRR1liWXRUUkZxSk5TZkFaaEpyaWN0YkRUbXNQUjhaVDkzY1NLRTFLWmJfX3doSXNLVVF5aDNHVjNWTkNGaDNMRjhIbDNDZWpxLUhLRFEwOWVMNVZtcWdpLWRKc2JtR0EwTzM3dGRyb2h5V28zTzBWclpyMVhXc3NpN2ZjVFUzM1NJVGNSUFZIWmk0SmprY0RtamxhM01KNTlTbmVESUVfNFByS09oaFVjSkNxdXJCT21iRE1DNUYyb0lDcVltQ01DNWx5VFhWMjk1U1ZFYjhyQkVxdEF6dTU2VFpzd0JSN2hNY3J3MXVnUDRnT0MxTzNTaEVLU0c1TGQ4UHVTdTRfb1AwR1NMY05BN1JrZHRn0gGDA0FVX3lxTE5uaFV6eDFHZXJUNTUzdkg2MHh1cmJ0cUZFT3NjRkF6WklCWlVXcXduX2FHU2liRS00RjJZbTI3WHVzMHhmSTJ5TGZUZHBTZktRWlBZV3hFeDZya3lCeDBVTGtuSkZTMzJDMk9GSjNIZ054enRjQnVCRFVTcGU5eU4zOHpDSFlJaEozR3AwTmZJSXhYV0RmUlpxT29LUURmRlcyUFJIXzh2dFBaeVF3aU5nTUpPZlh4Zl9aQThYZ3RxUEJVNHVJZjBCZ1luYWRQeEVvRnl6akVSMkNPQkpTTGZiVFNjV3EtRUc1dXRacjlNdkh2ODdGTjFiZ1l1cXNtSnBuV1ZmSnl6X2dnRm81cXh2dEVycTFQMEpKVm5yNUp2THhhbFpDcG5vZk5sUzdXcmRjRDVpVTJCR0hTSlpJWlhQUzRDV1VMbTl6WGgtSDdRbXV1ZHB0d1h2Y3J6em1MUGg4WDJyMmhtMWdMdXJZTm9MRG82Z2JnWklqOGxFNzJzdFZVNA?oc=5
-
-- S Jaishankar Meets Iranian Ambassador, Discusses Middle East Conflict - NDTV
-  S Jaishankar Meets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3BMWlREaFZteXFlSEpoRlBnaUROcnJhbkw0RUFGYXFxd3lxaS1nUlFrdzgyMnVLYm1waGNFZDNiOWdDcElXVEVKdDVLXzNROWZCcVo2ZGMycmdNOTdIS2xscUF1V3JEUkEyMklhT3pGdUpDYkRwYkc3ZXJPY2M0SHFIY0puMm1CdHJkSUhNVzJSRlN0ckVRc3ZHa3h4Mzg1UHdfalZlNUJoRV9yNGYtOUNFblotUUpzWThRYWNqbm1NLUHSAcsBQVVfeXFMT3dndi1wbUJ2aEQ1QnY3Q2RMNG5BZC1TU3kzbkxTeE9KQl9xaEVvM3A0VGdpR2xzNkFiVVYyZ29qNHNacTF3YnJ3dzdsRV9MYmpZb0tfV01pUzBGeWhiZGpxaFhJRkFjT3lMeWFJdkZpUUdYZmJVVlgxdDZ5bFNkc2tkUXpXcWpEeHhCWk1PUG1CTWdaWnowQjlfRTNCcXNCWjl5WUxVR2pndE42UkdSQTVVRkVNZzh3YkpUMTZZT0FZcjJTbFJ2NHFzb0U?oc=5
-
-- Scheduled caste status only for Hindus, Buddhists, Sikhs: SC - The Times of India
-  Scheduled caste status only for Hindus, Buddh
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXk5Z0ViemtJY0NhT3hVZUloZUhrclhqajBhMklMSWVSTS12djVzdllMSWhISTRvVjFyUjVoMGxCbk4ybEM3LUVUTWhQd3RaX3pzRXYyNXRzUGU5SjNZRk9wbXdJVTFSWjZ3Z3p2MURqcXBHbEFqT19EbnhTYTFPYU14YWV4LUJnWmFFaU5RVVhZLW50UlZwakRGeU1oYWRDVHM0RkZpM0IzWVlVMTF2MEI4MlNJbndUYndqeml3c1JGZjTSAcgBQVVfeXFMUFlDN2ZtWFVtQlh2blRyVzNJaExSZ2tFXzAzLVhkcEpTZjRVaGQ3Z3NzdzdRRkJqUWw1RUVtb3RTQXhtMUgwU2N4ZkRDbzhwa0FlekdZV3hXMGpkT21zb09oZ043Rm5tWm1WOFFvOVU1TjRIak1zS3VUVWRpRXhaUnZseDNTc0Q2RDhLRHFERURXLXN2V3BrMXlSVkg3b2RHWUhWUmcxeWlucTc3bEd6RUc5TFN6SE54SFY5d3RiTm1WeGktMmcxVHM?oc=5
-
-- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
-  " target="_blank">How Much Cr
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
-
-- Six Reasons Why Pakistan as US-Iran Interlocutor Is a Strategic Setback for India - TheWire.in
-  The Wire.in has compiled a list of six reasons
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVMxMlhXSTlmQ0dsYUMxbVpXbGlyaVNtNVFwV19EQThtU1Q0cjBfVEs3d1JHdWJvdkFKNEVWOU9SLVdDUVZKQ0JJcW5UdHJ3TFh0QlZXU18tajR1MkpVODZDNXNZWTZGV29oQm5fNEZjQ2NLMHZpQ1F3Q2U3WmtCcHFLS3FGV3ZQSWZhSmVIaWpXUDFOanRqTEgwaXEtQzFlWU5vT3dFSHc3V1JydjRxQV8yYWw1UdIBuwFBVV95cUxNZXJSY2NNNWFGR25ET1Q1SDdQSm5zN1lrY0Z4Y3p4X0FBQmh5S1oyS2VUZjZlTFk4ZDBrSFZhT2xjVDA2dHV2UDE2S2x2MXZ2ZnpUT3B4dzBWdnMyc0hDNl9SVkNhWjYxOVdoeWVTWkZ1aFByY21NX2drd0pHemNpcFVkbjhzaHIzRGVMOUt5VGRCQ1d2QjJxc2MwX2lTQUdjWC10QnVzSUpSRXplTE5oQ3lRb1VlaGhMVUpz?oc=5
-
-- US-Israel-Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank - The Times of India
-  Fire breaks out at Kuwait airport after drones hit fuel tank.
-  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxPU1lXNHlXa3VucWxkendTcmFQWS1LWmdZUGp4RGUwcURYNm1YWkVfWU4zZFRidmtzY0NJcEJrWUtraWw0aXFBbUJHX21LOWlRMVl5SkxrZERiVkxiRTV6S0JKMFdEbkZOdVpoek9SY3VRR1liWXRUUkZxSk5TZkFaaEpyaWN0YkRUbXNQUjhaVDkzY1NLRTFLWmJfX3doSXNLVVF5aDNHVjNWTkNGaDNMRjhIbDNDZWpxLUhLRFEwOWVMNVZtcWdpLWRKc2JtR0EwTzM3dGRyb2h5V28zTzBWclpyMVhXc3NpN2ZjVFUzM1NJVGNSUFZIWmk0SmprY0RtamxhM01KNTlTbmVESUVfNFByS09oaFVjSkNxdXJCT21iRE1DNUYyb0lDcVltQ01DNWx5VFhWMjk1U1ZFYjhyQkVxdEF6dTU2VFpzd0JSN2hNY3J3MXVnUDRnT0MxTzNTaEVLU0c1TGQ4UHVTdTRfb1AwR1NMY05BN1JrZHRn0gGDA0FVX3lxTE5uaFV6eDFHZXJUNTUzdkg2MHh1cmJ0cUZFT3NjRkF6WklCWlVXcXduX2FHU2liRS00RjJZbTI3WHVzMHhmSTJ5TGZUZHBTZktRWlBZV3hFeDZya3lCeDBVTGtuSkZTMzJDMk9GSjNIZ054enRjQnVCRFVTcGU5eU4zOHpDSFlJaEozR3AwTmZJSXhYV0RmUlpxT29LUURmRlcyUFJIXzh2dFBaeVF3aU5nTUpPZlh4Zl9aQThYZ3RxUEJVNHVJZjBCZ1luYWRQeEVvRnl6akVSMkNPQkpTTGZiVFNjV3EtRUc1dXRacjlNdkh2ODdGTjFiZ1l1cXNtSnBuV1ZmSnl6X2dnRm81cXh2dEVycTFQMEpKVm5yNUp2THhhbFpDcG5vZk5sUzdXcmRjRDVpVTJCR0hTSlpJWlhQUzRDV1VMbTl6WGgtSDdRbXV1ZHB0d1h2Y3J6em1MUGg4WDJyMmhtMWdMdXJZTm9MRG82Z2JnWklqOGxFNzJzdFZVNA?oc=5
-
-- S Jaishankar Meets Iranian Ambassador, Discusses Middle East Conflict - NDTV
-  S Jaishankar Meets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3BMWlREaFZteXFlSEpoRlBnaUROcnJhbkw0RUFGYXFxd3lxaS1nUlFrdzgyMnVLYm1waGNFZDNiOWdDcElXVEVKdDVLXzNROWZCcVo2ZGMycmdNOTdIS2xscUF1V3JEUkEyMklhT3pGdUpDYkRwYkc3ZXJPY2M0SHFIY0puMm1CdHJkSUhNVzJSRlN0ckVRc3ZHa3h4Mzg1UHdfalZlNUJoRV9yNGYtOUNFblotUUpzWThRYWNqbm1NLUHSAcsBQVVfeXFMT3dndi1wbUJ2aEQ1QnY3Q2RMNG5BZC1TU3kzbkxTeE9KQl9xaEVvM3A0VGdpR2xzNkFiVVYyZ29qNHNacTF3YnJ3dzdsRV9MYmpZb0tfV01pUzBGeWhiZGpxaFhJRkFjT3lMeWFJdkZpUUdYZmJVVlgxdDZ5bFNkc2tkUXpXcWpEeHhCWk1PUG1CTWdaWnowQjlfRTNCcXNCWjl5WUxVR2pndE42UkdSQTVVRkVNZzh3YkpUMTZZT0FZcjJTbFJ2NHFzb0U?oc=5
-
-- Scheduled caste status only for Hindus, Buddhists, Sikhs: SC - The Times of India
-  Scheduled caste status only for Hindus, Buddh
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXk5Z0ViemtJY0NhT3hVZUloZUhrclhqajBhMklMSWVSTS12djVzdllMSWhISTRvVjFyUjVoMGxCbk4ybEM3LUVUTWhQd3RaX3pzRXYyNXRzUGU5SjNZRk9wbXdJVTFSWjZ3Z3p2MURqcXBHbEFqT19EbnhTYTFPYU14YWV4LUJnWmFFaU5RVVhZLW50UlZwakRGeU1oYWRDVHM0RkZpM0IzWVlVMTF2MEI4MlNJbndUYndqeml3c1JGZjTSAcgBQVVfeXFMUFlDN2ZtWFVtQlh2blRyVzNJaExSZ2tFXzAzLVhkcEpTZjRVaGQ3Z3NzdzdRRkJqUWw1RUVtb3RTQXhtMUgwU2N4ZkRDbzhwa0FlekdZV3hXMGpkT21zb09oZ043Rm5tWm1WOFFvOVU1TjRIak1zS3VUVWRpRXhaUnZseDNTc0Q2RDhLRHFERURXLXN2V3BrMXlSVkg3b2RHWUhWUmcxeWlucTc3bEd6RUc5TFN6SE54SFY5d3RiTm1WeGktMmcxVHM?oc=5
-
-- How Much Crude Oil Reserve Does India Have? What Union Minister Said - NDTV
-  " target="_blank">How Much Cr
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxOZDlSVnRheV9wMnVScTY2SzF6bW1VSFVmbTVGSXRRSEw3T3czam4xVTBRTnVVWHpTS0tvS0t1WjJKUWtjYnVtSk9UaWJtcmpfQ0plM1NWbXd1LWhiY055ZVhWSl9mamt3NXJlNGE3UXNGOXRMVjNEbWJSZ0FobXdWYllBV1pXcTlRRjA2bU9YWF9MbEdXbjg2bFVPOGRDMUJmOUJ2VUlkNHJVUktHQjZrUTFUbUk2NUFDZjhsbWp6MFhBa19YeUdRdGROVC1NVnVMU201a25UYXMydXdXNUNSZGFtT09RSjAybEpFRXZTT1hhNjNrT3BkbEhtQlJTYXMxRTFxU2w0UC04NzAzX2NvTmV30gGaAkFVX3lxTE9OaGFYWTRNRmx5ckp6SGpuRmRya1VxbkM5YXpUU0RFc3dPUW90ODdVVlQ1clpLOER4TUdvU21uN2kzR3NRR3l5SHdOMVJmRFltOWp2MTRhenQ4djhuUnAydGlSbFc4MDh3U251QUJQZDJucTZ3ZmZLUlJidlo2WEJ1OWlQNkhNMzdCNTdmOUQtbHZoQWhfOTNYbXJLSThtLUNfNWt1MTBRam96ank5blloWU95RjNMWEhzM0Radmkxa2ZCLTJrRE9UdTFLVDJYM0tVRWd5OUJCYVlJRjBZSmotRC1Kdnl3aFVwTXpHb3VJSHFNaUZ1UWRSY2dKRDUxVGRSbXpScjJJUWRzSGRVZG9KZnE5Umd5OEpPQQ?oc=5
-
-- Six Reasons Why Pakistan as US-Iran Interlocutor Is a Strategic Setback for India - TheWire.in
-  The Wire.in has compiled a list of six reasons
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVMxMlhXSTlmQ0dsYUMxbVpXbGlyaVNtNVFwV19EQThtU1Q0cjBfVEs3d1JHdWJvdkFKNEVWOU9SLVdDUVZKQ0JJcW5UdHJ3TFh0QlZXU18tajR1MkpVODZDNXNZWTZGV29oQm5fNEZjQ2NLMHZpQ1F3Q2U3WmtCcHFLS3FGV3ZQSWZhSmVIaWpXUDFOanRqTEgwaXEtQzFlWU5vT3dFSHc3V1JydjRxQV8yYWw1UdIBuwFBVV95cUxNZXJSY2NNNWFGR25ET1Q1SDdQSm5zN1lrY0Z4Y3p4X0FBQmh5S1oyS2VUZjZlTFk4ZDBrSFZhT2xjVDA2dHV2UDE2S2x2MXZ2ZnpUT3B4dzBWdnMyc0hDNl9SVkNhWjYxOVdoeWVTWkZ1aFByY21NX2drd0pHemNpcFVkbjhzaHIzRGVMOUt5VGRCQ1d2QjJxc2MwX2lTQUdjWC10QnVzSUpSRXplTE5oQ3lRb1VlaGhMVUpz?oc=5
-
-- US-Israel-Iran War News Live Updates: Fire breaks out at Kuwait airport after drones hit fuel tank - The Times of India
-  Fire breaks out at Kuwait airport after drones hit fuel tank.
-  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxPU1lXNHlXa3VucWxkendTcmFQWS1LWmdZUGp4RGUwcURYNm1YWkVfWU4zZFRidmtzY0NJcEJrWUtraWw0aXFBbUJHX21LOWlRMVl5SkxrZERiVkxiRTV6S0JKMFdEbkZOdVpoek9SY3VRR1liWXRUUkZxSk5TZkFaaEpyaWN0YkRUbXNQUjhaVDkzY1NLRTFLWmJfX3doSXNLVVF5aDNHVjNWTkNGaDNMRjhIbDNDZWpxLUhLRFEwOWVMNVZtcWdpLWRKc2JtR0EwTzM3dGRyb2h5V28zTzBWclpyMVhXc3NpN2ZjVFUzM1NJVGNSUFZIWmk0SmprY0RtamxhM01KNTlTbmVESUVfNFByS09oaFVjSkNxdXJCT21iRE1DNUYyb0lDcVltQ01DNWx5VFhWMjk1U1ZFYjhyQkVxdEF6dTU2VFpzd0JSN2hNY3J3MXVnUDRnT0MxTzNTaEVLU0c1TGQ4UHVTdTRfb1AwR1NMY05BN1JrZHRn0gGDA0FVX3lxTE5uaFV6eDFHZXJUNTUzdkg2MHh1cmJ0cUZFT3NjRkF6WklCWlVXcXduX2FHU2liRS00RjJZbTI3WHVzMHhmSTJ5TGZUZHBTZktRWlBZV3hFeDZya3lCeDBVTGtuSkZTMzJDMk9GSjNIZ054enRjQnVCRFVTcGU5eU4zOHpDSFlJaEozR3AwTmZJSXhYV0RmUlpxT29LUURmRlcyUFJIXzh2dFBaeVF3aU5nTUpPZlh4Zl9aQThYZ3RxUEJVNHVJZjBCZ1luYWRQeEVvRnl6akVSMkNPQkpTTGZiVFNjV3EtRUc1dXRacjlNdkh2ODdGTjFiZ1l1cXNtSnBuV1ZmSnl6X2dnRm81cXh2dEVycTFQMEpKVm5yNUp2THhhbFpDcG5vZk5sUzdXcmRjRDVpVTJCR0hTSlpJWlhQUzRDV1VMbTl6WGgtSDdRbXV1ZHB0d1h2Y3J6em1MUGg4WDJyMmhtMWdMdXJZTm9MRG82Z2JnWklqOGxFNzJzdFZVNA?oc=5
-
-- S Jaishankar Meets Iranian Ambassador, Discusses Middle East Conflict - NDTV
-  S Jaishankar Meets
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3BMWlREaFZteXFlSEpoRlBnaUROcnJhbkw0RUFGYXFxd3lxaS1nUlFrdzgyMnVLYm1waGNFZDNiOWdDcElXVEVKdDVLXzNROWZCcVo2ZGMycmdNOTdIS2xscUF1V3JEUkEyMklhT3pGdUpDYkRwYkc3ZXJPY2M0SHFIY0puMm1CdHJkSUhNVzJSRlN0ckVRc3ZHa3h4Mzg1UHdfalZlNUJoRV9yNGYtOUNFblotUUpzWThRYWNqbm1NLUHSAcsBQVVfeXFMT3dndi1wbUJ2aEQ1QnY3Q2RMNG5BZC1TU3kzbkxTeE9KQl9xaEVvM3A0VGdpR2xzNkFiVVYyZ29qNHNacTF3YnJ3dzdsRV9MYmpZb0tfV01pUzBGeWhiZGpxaFhJRkFjT3lMeWFJdkZpUUdYZmJVVlgxdDZ5bFNkc2tkUXpXcWpEeHhCWk1PUG1CTWdaWnowQjlfRTNCcXNCWjl5WUxVR2pndE42UkdSQTVVRkVNZzh3YkpUMTZZT0FZcjJTbFJ2NHFzb0U?oc=5
-
-- Scheduled caste status only for Hindus, Buddhists, Sikhs: SC - The Times of India
-  Scheduled caste status only for Hindus, Buddh
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXk5Z0ViemtJY0NhT3hVZUloZUhrclhqajBhMklMSWVSTS12djVzdllMSWhISTRvVjFyUjVoMGxCbk4ybEM3LUVUTWhQd3RaX3pzRXYyNXRzUGU5SjNZRk9wbXdJVTFSWjZ3Z3p2MURqcXBHbEFqT19EbnhTYTFPYU14YWV4LUJnWmFFaU5RVVhZLW50UlZwakRGeU1oYWRDVHM0RkZpM0IzWVlVMTF2MEI4MlNJbndUYndqeml3c1JGZjTSAcgBQVVfeXFMUFlDN2ZtWFVtQlh2blRyVzNJaExSZ2tFXzAzLVhkcEpTZjRVaGQ3Z3NzdzdRRkJqUWw1RUVtb3RTQXhtMUgwU2N4ZkRDbzhwa0FlekdZV3hXMGpkT21zb09oZ043Rm5tWm1WOFFvOVU1TjRIak1zS3VUVWRpRXhaUnZseDNTc0Q2RDhLRHFERURXLXN2V3BrMXlSVkg3b2RHWUhWUmcxeWlucTc3bEd6RUc5TFN6SE54SFY5d3RiTm1WeGktMmcxVHM?oc=5
+- Warships Escort 2 Indian LPG Tankers In Gulf Of Oman Day After Hormuz Transit - NDTV
+  Warships Escort 2 Indian LPG Tankers In Gulf
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG9TSHJTc3VlUV8wZ3NMNHVKeVJ6cWw2RzNHY2hwbEtiNGhzNEFNTXVkVUdpVjktdVluOUpVeVJBSG1iQlRCeGhGUVhSMkUyVjdmMGNsX2RMZG5KOWVRQndWQTZ0eFRvZFZtd05hTWpzRURYY3AwR2huM1oxUEw4R3dOREJHdXpxX09Ba0dQc19MSm5SRTllbHQzRGpfbW9GdXBPeGc2VDNpVmVSQi0wYmF6U2twQXVZMEHSAcIBQVVfeXFMT2dQUjJmSVFGUGFKU3dVNVVuRjMzWTRSUmRqbGl4aGxfM3JLUUdsOU5nOFRPZ2RObGF5ajZ0RUQ3TXZ6YjBDbWlreHhpMkhGWlFfWW9kc1BfVTZGWkxNeThMT25mSE9TTG15WkpVS3BfX0llaWZFanhkakFKQlFFZVhVNllnakZWaTllT0NDYnEwRTRKREVXZ0xSMnFrbXdxTDYtamloQWx6UnhyR21Db29yczFNczVGS3FNZmJ2OGQ4UUE?oc=5
 
 
-_Last updated: 2026-03-25 01:52:07 UTC_
+_Last updated: 2026-03-25 07:00:52 UTC_
