@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- After public outrage, Odisha to withdraw Bills providing three-fold salary hike to ministers, MLAs
+- Dehradun: Medical student found dead in car, canula attached to arm; FIR filed after father blames HOD
   
-  🔗 https://indianexpress.com/article/india/odisha-government-withdraws-mla-salary-hike-bills-public-outrage-10602981/
+  🔗 https://indianexpress.com/article/india/dehradun-medical-student-found-dead-in-car-canula-attached-to-arm-fir-filed-after-father-blames-hod-10603347/
 
-- Freebies worth Rs.408 crore seized in Assembly polls so far
+- Jaya Bachchan’s fiery standoff in Rajya Sabha as controversial Transgender Bill clears Parliament
   
-  🔗 https://indianexpress.com/article/india/freebies-worth-rs-408-crore-seized-in-assembly-polls-so-far-10602948/
+  🔗 https://indianexpress.com/article/india/jaya-bachchans-fiery-standoff-in-rajya-sabha-as-controversial-transgender-bill-clears-parliament-10603115/
 
-- De-addiction cess, ban on liquor shops near Puri temple: What Odisha’s new excise policy proposes
+- Railways to build underpasses in mission mode, projects to be completed in just 12 hours – here’s how
   
-  🔗 https://indianexpress.com/article/india/de-addiction-ban-liquor-shops-puri-temple-odisha-new-excise-policy-10602881/
+  🔗 https://indianexpress.com/article/india/railways-to-build-underpasses-in-mission-mode-projects-to-be-completed-in-just-12-hours-heres-how-10603210/
 
-- IPS officer suspended over harassment allegations by colleague’s wife
+- Kerala Congress sees internal churn over CM choice; Chennithala gains support
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-ips-officer-suspended-harassment-allegations-colleagues-wife-10602878/
+  🔗 https://indianexpress.com/article/india/kerala-congress-cm-choice-chennithala-10603211/
 
-- PM Modi to interact with CMs on West Asia conflict; review preparedness, plans
+- Young voters in focus, EC plans on reviving electoral literacy clubs in schools and colleges
   
-  🔗 https://indianexpress.com/article/india/pm-modi-chief-ministers-meeting-west-asia-conflict-preparedness-fuel-supply-10602871/
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-first-time-voters-impact-27-lakh-youth-10603176/
+
+- US jury verdicts against Meta, Google tee up fight over tech liability shield
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/us-jury-verdicts-against-meta-google-tee-up-fight-over-tech-liability-shield-10603082/
 
 - Archaeologists uncover over 700-year-old warship from failed Mongol invasion
   
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/why-meta-delay-community-notes-rollout-india-10602756/
 
-- Reddit to start ‘humanity tests’: Why your account could soon face an iris scan or ID check
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/redduit-humanity-test-ai-bot-content-crackdown-10602291/
+- Millennium and Engineers Gate Wind Down Hedge Fund Partnership
+  Millennium Management is in the process of taking back cash it gave to Engineers Gate to trade on its behalf. The hedge funds agreed
+  🔗 https://www.livemint.com/companies/millennium-and-engineers-gate-wind-down-hedge-fund-partnership-11774550698779.html
 
 - Sonia Rawal to head Allianz Jio Reinsurance as JV commences operations
   The 50:50 joint venture between Jio Financial Services and Allianz Group received final approval from the
@@ -56,29 +60,29 @@
   The deal with L&amp;amp;T Technology Services comes as AM Group advances plans to invest about $25 billion to build a 1 GW
   🔗 https://www.livemint.com/companies/news/lt-tech-sells-smart-world-communication-business-india-ami-paradigm-11774504863808.html
 
-- Why Palantir CEO believes people with ADHD, autism and neurodivergence will thrive in AI boom
-  Palantir CEO Alex Karp says individuals with vocational training or neurodivergent traits should not fear AI's rise. He emphasises the importance
-  🔗 https://www.livemint.com/companies/people/palantir-ceo-alex-karp-thinks-people-with-adhd-autism-other-neudivergence-disorders-have-a-unique-edge-in-the-ai-era-11774497154873.html
+- Crude oil prices spike over 5% as conflicting US-Iran signals cloud ceasefire prospects
+  Brent crude oil prices climb to $102.49, reflecting uncertainties in US-Iran negotiations. The conflict has hindered oil shipments through the Strait of Hormuz.
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-prices-spike-over-5-as-conflicting-us-iran-signals-cloud-ceasefire-prospects-11774543330917.html
 
-- Chennai Petroleum declares  ₹8 interim dividend for FY26; sets April 2 as record date
-  Chennai Petroleum Corporation declared an interim dividend of  ₹8 per equity share for FY 2025-26. The current dividend yield is approximately
-  🔗 https://www.livemint.com/market/stock-market-news/chennai-petroleum-declares-rs-8-interim-dividend-for-fy26-sets-april-2-as-record-date-11774528827440.html
+- Semiconductor stocks sink as Google’s new AI tech threatens memory demand - Micron drops 4.82%, Sandisk tanks 8.35%
+  Google says its TurboQuant algorithm can diminish the memory capacity required for operating large language models by a factor of six.
+  🔗 https://www.livemint.com/market/stock-market-news/semiconductor-stocks-sink-as-google-s-new-ai-tech-threatens-memory-demand-micron-drops-4-82-sandisk-tanks-835-11774543402309.html
 
-- US stock market today: Dow, S&amp;P 500 futures steady as investors track US-Iran war developments
-  The Dow, S&amp;amp;P 500, and Nasdaq traded flat, while conflicting statements from both nations about war-ending
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-steady-as-investors-track-us-iran-war-developments-11774524164501.html
+- Kodiak Sciences shares climb over 71% after strong late-stage trial results for eye drug Zenkuda
+  Kodiak Sciences saw a 71.2% stock increase on 26 March, reaching $38.95. Successful trial results for Zenkuda, a treatment
+  🔗 https://www.livemint.com/market/stock-market-news/kodiak-sciences-shares-climb-over-71-after-strong-late-stage-trial-results-for-eye-drug-zenkuda-11774539007219.html
 
-- Gaudium IVF, Saatvik Green Energy, Tolins Tyres among 5 stocks in focus as IPO lock-in expires tomorrow
-  Gaudium IVF, Shriram Triputi Balajee Agro, Saatvik Green Energy, Gujarat Kidney &amp;amp; Super Speciality, and Tolins Ty
-  🔗 https://www.livemint.com/market/stock-market-news/gaudium-ivf-saatvik-green-energy-tolins-tyres-among-5-stocks-in-focus-as-ipo-lock-in-expires-tomorrow-11774521761985.html
+- Gold, silver rates today: Comex gold drops $143/oz; silver falls $5.6/oz amid uncertainty over US-Iran ceasefire plan
+  Gold and silver prices fell sharply as conflicting US-Iran ceasefire signals heightened market volatility. The US dollar's strength and ongoing inflation fears from energy price hikes further pressured precious metals.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-143-oz-silver-falls-5-6-oz-amid-uncertainty-over-us-iran-ceasefire-plan-11774532050220.html
 
-- Navratna PSU stock IREDA share price to be in focus on Friday after dividend announcement; check record date
-  IREDA has declared an interim dividend of  ₹0.6 per equity share for FY 2025-26. The stock has faced a 30% decline over the past
-  🔗 https://www.livemint.com/market/stock-market-news/navratna-psu-stock-ireda-share-price-to-be-in-focus-on-friday-after-dividend-announcement-check-record-date-11774522140427.html
+- Wall Street drops as crude oil gains amid uncertainty over Mideast conflict de-escalation
+  The S&amp;amp;P 500 sank 1%, the Dow Jones Industrial Average was down 0.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-drops-as-crude-oil-gains-amid-uncertainty-over-mideast-conflict-deescalation-11774532328906.html
 
-- Nifty 50 jumps nearly 800 points in two sessions on US-Iran de-escalation hopes; can the rally sustain?
-  Investors are regaining confidence in domestic equities as the Nifty 50 rebounds significantly. Despite this, ongoing concerns about crude oil prices and geopolitical tensions
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-jumps-nearly-800-points-in-two-sessions-on-us-iran-de-escalation-hopes-can-the-rally-sustain-11774514886645.html
+- AI is giving bad advice to flatter its users, says new study on dangers of overly agreeable chatbots
+   AI is giving bad advice to flatter its users, says new
+  🔗 https://www.livemint.com/technology/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of-overly-agreeable-chatbots-11774548219243.html
 
 - Vivo V70 FE confirmed to launched in India: Launch date, expected specs and all you need to know
   The Vivo V70 FE will launch in India on April 2, 2026. Leaks suggest that the device could feature a
@@ -96,109 +100,65 @@
   : How AI can (and can't
   🔗 https://www.livemint.com/technology/one-tech-tip-heres-how-ai-can-and-cant-help-you-in-your-job-hunt-11774501262482.html
 
-- Meta to turn employees into ‘AI builders’, reorganize teams into smaller pods amid Reality Labs layoffs: Report
-   Meta is rebranding employees as AI builders. The pilot program is aimed at enhancing engineering productivity.
-  🔗 https://www.livemint.com/technology/tech-news/meta-to-turn-employees-into-ai-builders-reorganize-teams-into-smaller-pods-amid-reality-labs-layoffs-report-11774488761030.html
+- Stock Market Today: Dow Slips, Oil Pushes Past $100 Again — Live Updates - WSJ
+  The Dow Jones Industrial Average and the S&P 500 both closed down on Tuesday. The Nasdaq closed in Correction Territory. Oil moved back above $100/barrel for the first time since September.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnI5emtmNEJTWlNqM1E0SEJzbzJzT0w5VlEtTl9ZTVoxZi00amNRZHpNaVRXN0ZXcFRWTTBkbGs3b1ZaYU9BSWtpM3dqd1RObkZzWlRUY19HcVNHWnItRmpWdXI5dWZOM0NHZHdNT2RiZFA4amNrYlprUERWem05MHNTdVZQbWs?oc=5
 
-- Gold price today: Yellow metal slides Rs 4,300/10g, silver tanks Rs 13,700/kg as MCX reopens post Ram Navami break
-  Gold dropped Rs 4,300 per 10g to Rs 1,39,800, while silver slid Rs 13,700 per kg to Rs 2,21,146. Domestic bullion followed global cues, with COM
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-yellow-metal-crashes-rs-4300/10g-silver-slides-rs-13700-as-mcx-reopens-post-ram-navami/articleshow/129824807.cms
+- Gold slips as markets assess prospects of Iran ceasefire - Reuters
+  Gold slips as markets assess prospects of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFpTTlg5cFhoeURFbEJLb2IxamI3d24xQkxlT3V5NkhzOEdrVmFFdEVoSmVoVFNwTkJwRjZ2Q0ZKbExYQm9kcEV6UG94WUVjUFFwUHROQ1FnOWFJZ01hR0xvQjZiMVVCWlBYN2pONDNSbjBOdlJwQXpyZHZrN05xdEV3R3JSWndWM2tHMDJ1MGRQX0Z2SUVvSWE3dGU1YXc?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures trade lower amid confusion over Mideast peace talks
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-ai-tech-stock-price-news/liveblog/129825084.cms
+- US Stock Market | Gold no longer a safe haven? What’s dragging the yellow metal down - The Economic Times
+  Gold is no longer a safe haven. What’s dragging the yellow metal
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDNJb2xramYxNVNHTGYyX2hTVnRoNGVoUDJ3WFBUUWFLemVQNW1JUk5LVXItSF9Kb1Z5cHB5elZUOWlnSEh1cVE4RXlpM3JZZDlwdEN0OF90MTEtRklTc3lFY1JfYzVXNW9xTnZBUU5GZm5hWWFOekttYzlhaTBzY013cDdwMXBYLTFlLXQ5WU04bUJtbDhJMkxZRmxYRm5Ta1lnYUJxM1k3N2Uwb2dFV0tVX1kxRkVtc3E2Mk9UbGhPQ1V1dHZTbjljcTcxaW1WRXM2bm9LRVpQLU9SMjVHVHVZLUE4NGdiU3R3UENR0gHzAUFVX3lxTE5kME9OQXNkcjNQV0pRS1lPQUhIZjY3TnVmc2dfcERQZWJLR1U4NEhiZU5lOWdoVGN0WS1BRXVsemhKT2N4NGZiUWFha29NN05NaWFUUm9DSlhPUDF3RGJLWmxsYWlDR01GUHlZV0FwNTlKdXRaUXlsWlM5UTJOQ09uUnJMWmpQa3FHMGxNdXF5T0dVRXROTlprWFhVWk1VVDhhNXdIRm5vdXdXRWREaGV2VUVaVGlMRWpxX20wOEtndTBaMzJIV3lXYUZlQXRGN25YRU1RYmNibVZsdnFyNkN0MmdQQjgtbmdaU2tLM0hZWklpYw?oc=5
 
-- Quote of the day by Daniel Kahneman: “An investment said to have an 80% chance of success sounds far more attractive than one with a 20% chance of failure. The mind can’t easily recognise that they are the same.”
-  Daniel Kahneman explains how framing bias distorts investment decisions. Investors often react to positive or negative wording rather than actual risk. Recognising this cognitive trap and reframing information objectively can lead to clearer judgment, rational
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-daniel-kahneman-an-investment-said-to-have-an-80-chance-of-success-sounds-far-more-attractive-than-one-with-a-20-chance-of-failure-the-mind-cant-easily-recognise-that-they-are-the-same-/articleshow/129817545.cms
+- Gold at $10,000? Market watchers hold firm on forecasts despite bullion bear market slide - CNBC
+  Gold at $10,000? Market watchers hold firm
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxORHgtWUhoNVdacGJfQmY5LVZycDFaZjhkMnNmemgzRVNQTVVJTnozSHBFU3VFVzUzMXQ4NFBRbDJyRVVQYUhmTm13N0V1aHBMTXYyaVB3akZOWTA3bHU3LU4wSFJFMkRKSVhhZE9Jc2Vha09JNTdsdGdpQmdnWVdhd2NyVWh6a3Y1d21ZMkc4aFZhNkg0MUR5VWtRWEtsbU010gGmAUFVX3lxTFBZNGd3WjBMZ0psYmZuQ3RkQ3B0OWIwSEJ4V2kwelFLYXR4a1ZTMmxQOUVfemYzY1kzVktIVk4xSk5wTE5tMnJlSjl2ZUF1MDZSdkp2QlpDbHhXR09ETVBKVWhPWHpPLVdSRkZRZHhYQV9naV9qclQ1aHNsdEhEMlpyM2ltS1psNGI4RzA1VG5RZkZKYnFKcXczeDhicks3RzU5TUlqNnc?oc=5
 
-- My portfolio is down too: Ace investor Vijay Kedia says volatile times build seasoned long-term investors
-  Investor Vijay Kedia urges patience, stressing losses are unreal until sold. Kedia advises discipline, emotional control, and long term perspective for wealth creation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/my-portfolio-is-down-too-ace-investor-vijay-kedia-says-volatile-times-build-seasoned-long-term-investors/articleshow/129824708.cms
+- FPIs sell record ₹1.1 lakh crore in Indian equities as markets remain fragile - The Hindu
+  FPIs sell record ₹1.1 lakh crore
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDhydUdfRHFLeVkwSDZJS0ZyblJkWXQ3aGtTU0syRG5famhxelkwT0FfYzJJNHN2REFneXpqVk5wVm5oQUlKREhranE1cjA1M0lGT0I0ZWRRdXNXZUJQUXFnVVU5N1NXUU5GU3dwZmtaUi1KRzNRY1NfdTF5N19aTUxrVTFmLVFfd29XaXVWMDlUVWt0YnY1ZEx6eko1d09aTUhsYW0xRkM1Q2VyaGF4aklYNnV3clFnM09yVkhjRzJkS1NBTkhTaVdMS08tRm5ZNU9v0gHaAUFVX3lxTE9BcEt2WG1uTkhMRXl6SUNzejM5ZEF1UmpDOUJLSFQ4Zy1JZjRiSm9NM3VfRTNLLVhleHpnZ2FRM0xpWnoxYm5NU2hUZVR3cy1HZ1JfN1pOODRGQkQ5WHRPS3RDRFV4Q25XVkV1UTNPaXdORU5SMlZ2QU9LZ2lzeW1qcFdXNU9RNENEdWRja2hySnh0OEd2Q1lrYjY2TUZKcGk3dXUzemFmbjlkejRNNkxoY3FaS3Zxa1V6M2VuLUROY3BXcDRtQXM3TFBTZnhid1ZFWWV2TXJzTy1n?oc=5
 
-- Market rout wipes Rs 33 lakh cr since Iran War: Vijay Kedia's real lessons on paper losses
-  The market capitalisation of all BSE-listed firms has dropped by Rs 32.7 lakh crore since the Iran conflict. Vijay Kedia urges investors to stay calm amid market volatility.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-rout-wipes-rs-33-lakh-cr-since-iran-war-vijay-kedias-real-lessons-on-paper-losses/articleshow/129824092.cms
+- US stocks: Apple plans to open Siri to rival AI services, Bloomberg News reports
+  Apple is set to open its Siri voice assistant to other artificial intelligence services. This move will allow users to connect with AI platforms like Alphabet's Gemini and Anthropic's Claude directly through Siri.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports/articleshow/129832615.cms
 
-- India, 5 Others On Iran's "Friendly Nation" List For Safe Hormuz Passage - NDTV
-  India, 5 Others On Iran's "Friendly
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZDQWtJUW9zQjhtb1RFaDBNSzUxYjdyZTZ2VXRFZjJCUkFWdXdhc0hoTTlocGZ1ZlNrbXpyeE5mMEJxOXhDa0NibTNFVENocW5YOUU0cUJjMzdmTXkwNGVLZmxrVDNvVFFmRkl5NVFQclRkdzdjNEZYSDhUeUcwbms5eXFPbE0wQkpzX0p2MUVpa3JkV0pLVGprdk1TNEt3NWVWQjZXbkZ1RW9UeGRHVU1VRWM4YmNmclVVV3J30gHGAUFVX3lxTE5zbE41ajJ1TkcyZHpjUjJ6SzF5Z0lZaWc2enlSRDRiMkpQTHU0WkdCWno4RW9saHNsM3hhbHFDS20wZjJtS0ZYNTh1QTE4SEZ4ZDZnT0h1MGphZEJQRWdpbkFXUTMxRDVnUkhWMGxnTlFPZEFWcEdsZ2JHUzZUTTdhampOZVJ5ZEJUZ1V6alZoMmhLbEdKekNvbFFJR3ZfU1p1NGFObUZPWTZZdXcta3UzQ21MR21IY0ZKby1iY2tzTWt2Q0dDdw?oc=5
+- Global Stocks: FTSE Russell to align free-float rules for UK, foreign firms
+  FTSE Russell will lower the minimum free-float requirement for all companies in the FTSE UK Index Series to 10% from June 2026. This change aims to better reflect the UK market by removing the disparity for non-
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-ftse-russell-to-align-free-float-rules-for-uk-foreign-firms/articleshow/129832095.cms
 
-- Iran war: India's fertiliser supply under strain after Hormuz blockade - BBC
-  Iran war: India's fertiliser supply
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2V3c5NVp1cm5JdnlwcUtPM0JESlhtWVFfbU9mLUJydGlQMWVKR0FsZG9sVW5IRmpwczcwTHVIdW84Q3hzR0x2TWx1VjgxTDV2c1Y3c29TZWMwdw?oc=5
+- US Stocks: Meta shares drop 7% on fears US verdicts open door to deluge of lawsuits
+   Meta Platforms shares tumbled 7% after two verdicts found the social media giant liable for harm to young users. These rulings, totaling hundreds of millions in fines, could expose Meta to extensive litigation.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-meta-shares-drop-7-on-fears-us-verdicts-open-door-to-deluge-of-lawsuits/articleshow/129831258.cms
 
-- India among five nations granted passage through Strait of Hormuz by Iran - The Hindu
-  India among five nations granted passage through Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2J1WGJuQ0lDQzJKekhBTUFhT1BqcW5kZ2JBaHVORThBaEp6UERCTFBheU00cWxjVkJkbEVwX1pjNEtsNFNyYWpMakY1YTJsNG9aZVpBYnpzMkRmeTdWczF1T3MyYm92YzItZ3RMaDRCRWZMV0lWN21BMnlZcXZIOGVHNkp3Tk9JTkhJY2FVWGVPaVY0V0x4OHNscGJJdjlBYUlBWGwycWplR1FPLVZCTmVNU2Nrdzlyc2hNcHlydDN5bk94NkNnUngzZmNWNTjSAdYBQVVfeXFMTmt1aTdYNVZqTTFxRUkwUlQ5VFdPclNRMjJSTXVmUXFDSjVadXkxRXJiYUxFTEQ0Q2tWcTMwQmw2dFJmM29XdGpNS0E0Ulp5QlJxeXdJUHlsaEJtRzFaWW1Cdk12WnhxUHd1T3UyQ0NBSWVYS0E3cVFhSEJEYVV2RjZTUTlOY2lZWjk3ODhvdnpfOWN0d0J2dFVXcjdLUks4c0dpdmVVdEs4anNIRGZqQ3NtTlAycTZRTEYzOXNnTV9DNlZFWVMxYWRwVDhORk9JUUhHMG9FQQ?oc=5
+- Chennai Petroleum announces Rs 8 per share dividend, sets April 2 as record date. Check dividend yield
+  Chennai Petroleum Corporation announced an interim dividend of Rs 8 per share for FY 2025-26. Shares remain strong, up over 60%
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-announces-rs-8-per-share-dividend-sets-april-2-as-record-date-check-dividend-yield/articleshow/129829246.cms
 
-- Can't be a broker nation: EAM Jaishankar at all-party meet - The Times of India
-  The Times of India reported that Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2FmZWZfcmZPRWYtTll2bkRSUUgtcWo2Tmx2SW1FT3U4bVhsMjBkc1NwTUdnZDNSaEo4UDFDT05JSkEtWkUwd2FUVHVhMHFJV0RKTWsySl9XaVlCcUdfdGxWczlmekJwMm9ZNTRRUTlSZjBDUWJNLURITmtCNG90RFpZQWNKWFluZm44dXNpMDN0TEVKRUpZelR2d3RrTExrYlZXajUxSWNaVWhIbjc5MDZWUdIBuAFBVV95cUxNSlg0Y0lqTnlrX0dYb3ZEQ2JWeVJGdl9PMk5jRXFId0ZxbjZ1MG00bnIzeVNnQ09qbGwtWkFHMjBNRkh6S000YUIyMWs4SEtPakVxazhubzczQXB1ZEdGanVfbXJ0ZEthTkxOSzZRcndobjM3V01hdlVDMjNFQVNMLV9nY2lvdUQ1YkpKcWtjY1J5clNwRzVqRWp3eGc2Y3psZGoyN1pqbGwxbXBGX0xoMEZ5Si0yNlQ2?oc=5
-
-- LGP and Fuel Crisis in India Live Update: Amid panic buying, Telangana govt says state has enough fuel, LPG stocks - The Times of India
-  The Times of India reported the fuel crisis in the state of Telangana.
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxQR3A5Yzh4cm1lM0o1SUVYMkFJd3hSeVhFck1vUnFyYWNORXRHcVJBWnZzOER1Y0lDLTYwdk0yTkR3UnFtVFhxc1NKQnp0aXlIengzWHhuQWJSblUyWnVxd3NfdGltblRFRmwxZXNkbklYOG4zUy1iNFkzczdGQWJCbWtPQTBva1ZTYkp3SkViUG9hLTNCbnJtNl9ZV3RDZW5hUHRhTnN2SHNmQ1dVcDFzbExsdE9xV29YQXpsaXNXQ29DclJVUEJ3ZFQxZEpzeGZnUHc2OXh5Z2lrRVllaV91cVhxYXpqT3k5aDVZcjQ0QmtpeVdxQXhrOFZ3Ylpad25QVU9UUlZuS2hoWlJxZVJqOU5lbDhZdGthQXBxektqZXZvTk9zZS1ybEdwVnVnVmYxcmt6MTlnYndlZThya3RJMkNpeUJ0Sm40ckM4VExBdDFKUi05UkRaMjM2QVRjdUJ5V09FdVZmRW8?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Nifty climbed above 23,300 while Sensex reclaimed 75,000. Analysts see near-term bullish momentum, though global uncertainties, volatility and resistance levels may cap
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/129828925.cms
 
 - India, 5 Others On Iran's "Friendly Nation" List For Safe Hormuz Passage - NDTV
   India, 5 Others On Iran's "Friendly
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZDQWtJUW9zQjhtb1RFaDBNSzUxYjdyZTZ2VXRFZjJCUkFWdXdhc0hoTTlocGZ1ZlNrbXpyeE5mMEJxOXhDa0NibTNFVENocW5YOUU0cUJjMzdmTXkwNGVLZmxrVDNvVFFmRkl5NVFQclRkdzdjNEZYSDhUeUcwbms5eXFPbE0wQkpzX0p2MUVpa3JkV0pLVGprdk1TNEt3NWVWQjZXbkZ1RW9UeGRHVU1VRWM4YmNmclVVV3J30gHGAUFVX3lxTE5zbE41ajJ1TkcyZHpjUjJ6SzF5Z0lZaWc2enlSRDRiMkpQTHU0WkdCWno4RW9saHNsM3hhbHFDS20wZjJtS0ZYNTh1QTE4SEZ4ZDZnT0h1MGphZEJQRWdpbkFXUTMxRDVnUkhWMGxnTlFPZEFWcEdsZ2JHUzZUTTdhampOZVJ5ZEJUZ1V6alZoMmhLbEdKekNvbFFJR3ZfU1p1NGFObUZPWTZZdXcta3UzQ21MR21IY0ZKby1iY2tzTWt2Q0dDdw?oc=5
 
-- Iran war: India's fertiliser supply under strain after Hormuz blockade - BBC
-  Iran war: India's fertiliser supply
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2V3c5NVp1cm5JdnlwcUtPM0JESlhtWVFfbU9mLUJydGlQMWVKR0FsZG9sVW5IRmpwczcwTHVIdW84Q3hzR0x2TWx1VjgxTDV2c1Y3c29TZWMwdw?oc=5
-
-- India among five nations granted passage through Strait of Hormuz by Iran - The Hindu
-  India among five nations granted passage through Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2J1WGJuQ0lDQzJKekhBTUFhT1BqcW5kZ2JBaHVORThBaEp6UERCTFBheU00cWxjVkJkbEVwX1pjNEtsNFNyYWpMakY1YTJsNG9aZVpBYnpzMkRmeTdWczF1T3MyYm92YzItZ3RMaDRCRWZMV0lWN21BMnlZcXZIOGVHNkp3Tk9JTkhJY2FVWGVPaVY0V0x4OHNscGJJdjlBYUlBWGwycWplR1FPLVZCTmVNU2Nrdzlyc2hNcHlydDN5bk94NkNnUngzZmNWNTjSAdYBQVVfeXFMTmt1aTdYNVZqTTFxRUkwUlQ5VFdPclNRMjJSTXVmUXFDSjVadXkxRXJiYUxFTEQ0Q2tWcTMwQmw2dFJmM29XdGpNS0E0Ulp5QlJxeXdJUHlsaEJtRzFaWW1Cdk12WnhxUHd1T3UyQ0NBSWVYS0E3cVFhSEJEYVV2RjZTUTlOY2lZWjk3ODhvdnpfOWN0d0J2dFVXcjdLUks4c0dpdmVVdEs4anNIRGZqQ3NtTlAycTZRTEYzOXNnTV9DNlZFWVMxYWRwVDhORk9JUUhHMG9FQQ?oc=5
-
-- Can't be a broker nation: EAM Jaishankar at all-party meet - The Times of India
-  The Times of India reported that Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2FmZWZfcmZPRWYtTll2bkRSUUgtcWo2Tmx2SW1FT3U4bVhsMjBkc1NwTUdnZDNSaEo4UDFDT05JSkEtWkUwd2FUVHVhMHFJV0RKTWsySl9XaVlCcUdfdGxWczlmekJwMm9ZNTRRUTlSZjBDUWJNLURITmtCNG90RFpZQWNKWFluZm44dXNpMDN0TEVKRUpZelR2d3RrTExrYlZXajUxSWNaVWhIbjc5MDZWUdIBuAFBVV95cUxNSlg0Y0lqTnlrX0dYb3ZEQ2JWeVJGdl9PMk5jRXFId0ZxbjZ1MG00bnIzeVNnQ09qbGwtWkFHMjBNRkh6S000YUIyMWs4SEtPakVxazhubzczQXB1ZEdGanVfbXJ0ZEthTkxOSzZRcndobjM3V01hdlVDMjNFQVNMLV9nY2lvdUQ1YkpKcWtjY1J5clNwRzVqRWp3eGc2Y3psZGoyN1pqbGwxbXBGX0xoMEZ5Si0yNlQ2?oc=5
-
-- LGP and Fuel Crisis in India Live Update: Amid panic buying, Telangana govt says state has enough fuel, LPG stocks - The Times of India
-  The Times of India reported the fuel crisis in the state of Telangana.
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxQR3A5Yzh4cm1lM0o1SUVYMkFJd3hSeVhFck1vUnFyYWNORXRHcVJBWnZzOER1Y0lDLTYwdk0yTkR3UnFtVFhxc1NKQnp0aXlIengzWHhuQWJSblUyWnVxd3NfdGltblRFRmwxZXNkbklYOG4zUy1iNFkzczdGQWJCbWtPQTBva1ZTYkp3SkViUG9hLTNCbnJtNl9ZV3RDZW5hUHRhTnN2SHNmQ1dVcDFzbExsdE9xV29YQXpsaXNXQ29DclJVUEJ3ZFQxZEpzeGZnUHc2OXh5Z2lrRVllaV91cVhxYXpqT3k5aDVZcjQ0QmtpeVdxQXhrOFZ3Ylpad25QVU9UUlZuS2hoWlJxZVJqOU5lbDhZdGthQXBxektqZXZvTk9zZS1ybEdwVnVnVmYxcmt6MTlnYndlZThya3RJMkNpeUJ0Sm40ckM4VExBdDFKUi05UkRaMjM2QVRjdUJ5V09FdVZmRW8?oc=5
-
-- India, 5 Others On Iran's "Friendly Nation" List For Safe Hormuz Passage - NDTV
-  India, 5 Others On Iran's "Friendly
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZDQWtJUW9zQjhtb1RFaDBNSzUxYjdyZTZ2VXRFZjJCUkFWdXdhc0hoTTlocGZ1ZlNrbXpyeE5mMEJxOXhDa0NibTNFVENocW5YOUU0cUJjMzdmTXkwNGVLZmxrVDNvVFFmRkl5NVFQclRkdzdjNEZYSDhUeUcwbms5eXFPbE0wQkpzX0p2MUVpa3JkV0pLVGprdk1TNEt3NWVWQjZXbkZ1RW9UeGRHVU1VRWM4YmNmclVVV3J30gHGAUFVX3lxTE5zbE41ajJ1TkcyZHpjUjJ6SzF5Z0lZaWc2enlSRDRiMkpQTHU0WkdCWno4RW9saHNsM3hhbHFDS20wZjJtS0ZYNTh1QTE4SEZ4ZDZnT0h1MGphZEJQRWdpbkFXUTMxRDVnUkhWMGxnTlFPZEFWcEdsZ2JHUzZUTTdhampOZVJ5ZEJUZ1V6alZoMmhLbEdKekNvbFFJR3ZfU1p1NGFObUZPWTZZdXcta3UzQ21MR21IY0ZKby1iY2tzTWt2Q0dDdw?oc=5
+- 'Friendly nations' only: Iran allows India, Pakistan, 3 other countries to use Strait of Hormuz amid war - The Times of India
+  'Friendly nations' only: Iran allows India, Pakistan, 3 other countries to use
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQMW1fQkJtX2UxMHFTQ3h5YmFRcU9OLXdLN08yME9PcXlrcFBvU0IwRzM1ZHN5Z2hMTElVX3o5aUh1eXdqVlZTTzNrRi02SHBJTW1GZHNIWklvc2JlZ1phMjJEMXF4OFNXQjVtZnE5VXFGWWYtS3cxbG5KTjhhYUZmcVd3M3Bobi1KVGRCYUxXamFRc0owM2cwWERYMGhzYjVYRnZBMGNZQllobUQtLVc2eGJzR1EweDNJMHd3aU1mZEpyU3ZlRzVRWEFMb3JqZGtGUkticmZUZnVFaktDOGRGRmZSaVN0UG80SlRyZmRSNlNfR0xYRXYyNEJYZk12UTI5NkZnc0ZYMWtQWjJhZWdZaWNHZ9IBmAJBVV95cUxNVHpEbjktYTBvZ2xmbUVYekpWVnlPMUdsak5rTkJwNzV1dlJtelFxSldkX2pXNlRBM1VTQjFDanlraGpNRmpSa1l4U0twQlUtbWVHazktLXQ0TXhITUs4RnNfSEFoNmRXN0ZOODc2ZHduc29nYlNBNDltMEtRUUpWYXZJQmg2c0p3T2hOc0pQVGNrY08wY1MwQVJMaFVWZkRjUmdaeWh5a2NiNVZHYlBJQmRoWGtoS1R6WDVTUDA1dXM3MmU5R3Boa3NocW9fcG13TVBuaEt2b24zT2hQdGVOd3ByOWxJWGR1V0wxbUNLV3BzWGhwWWVpVXEtcDU5Zmg2NjY1ZXdDMEtoWkZwMmFlcWlTYWx3YXFZ?oc=5
 
 - Iran war: India's fertiliser supply under strain after Hormuz blockade - BBC
   Iran war: India's fertiliser supply
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2V3c5NVp1cm5JdnlwcUtPM0JESlhtWVFfbU9mLUJydGlQMWVKR0FsZG9sVW5IRmpwczcwTHVIdW84Q3hzR0x2TWx1VjgxTDV2c1Y3c29TZWMwdw?oc=5
 
-- India among five nations granted passage through Strait of Hormuz by Iran - The Hindu
-  India among five nations granted passage through Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2J1WGJuQ0lDQzJKekhBTUFhT1BqcW5kZ2JBaHVORThBaEp6UERCTFBheU00cWxjVkJkbEVwX1pjNEtsNFNyYWpMakY1YTJsNG9aZVpBYnpzMkRmeTdWczF1T3MyYm92YzItZ3RMaDRCRWZMV0lWN21BMnlZcXZIOGVHNkp3Tk9JTkhJY2FVWGVPaVY0V0x4OHNscGJJdjlBYUlBWGwycWplR1FPLVZCTmVNU2Nrdzlyc2hNcHlydDN5bk94NkNnUngzZmNWNTjSAdYBQVVfeXFMTmt1aTdYNVZqTTFxRUkwUlQ5VFdPclNRMjJSTXVmUXFDSjVadXkxRXJiYUxFTEQ0Q2tWcTMwQmw2dFJmM29XdGpNS0E0Ulp5QlJxeXdJUHlsaEJtRzFaWW1Cdk12WnhxUHd1T3UyQ0NBSWVYS0E3cVFhSEJEYVV2RjZTUTlOY2lZWjk3ODhvdnpfOWN0d0J2dFVXcjdLUks4c0dpdmVVdEs4anNIRGZqQ3NtTlAycTZRTEYzOXNnTV9DNlZFWVMxYWRwVDhORk9JUUhHMG9FQQ?oc=5
+- Jaishankar defends India’s stand as Opposition targets govt. on ‘Pak. mediation’ in West Asia - The Hindu
+  Jaishankar defends India’s stand as Opposition targets
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdzJjRGlxWmVlcW1CUU1Qb0V2UWJ2QjZfWEUySW42T0t1Y3djM0FMNEpXeTdwamxGLTVNbloyV0N5TWxhRW1xRjZQd2IzQzl1RlBKNTJJSG95ZWpwTVUtel9VTDJ1UXRiUWxIQ2luc2NsYkxsWXRsdlZiX1k3RVhKYXlqd2k2elFzVDVaRzk0OTVkOGd5ZjBFQWZiTTZteWtWalRtZDgtenlwZ0lzaTNMRzlJdzhmWWM0Qkg5dGtRQUxDRi1LOXNKYXprSDZUQUNXeThma0VLendoaXRiaDgxN9IB5wFBVV95cUxOOGlic09ESTdUaHdFX3NIbENTMFJ4TGxaejc1R0VyMFRhY1FNQ0s3clVkem5rTXZraFhMdHgwR3RyV2FUT1hjekVLUkV3SUk3blBxZGZpangxUUVrUUV0UnFSMEZ4V095QkRMMFN5eWdIUXBXYnZWZUFtWndab0tHWldoUTZydXRmbXpVdDBVS3Nlb2pQbW1NSURlRi1EbHEtWldVN3ctMHUzMzBnU195WmRvZlVObm9xOHlBVDJTZXlybzRPUzVlWGhJQ3VvOEVrdFhhZXR0WHVvUWFWRnMwWXFXdVhKVFE?oc=5
 
-- Can't be a broker nation: EAM Jaishankar at all-party meet - The Times of India
-  The Times of India reported that Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2FmZWZfcmZPRWYtTll2bkRSUUgtcWo2Tmx2SW1FT3U4bVhsMjBkc1NwTUdnZDNSaEo4UDFDT05JSkEtWkUwd2FUVHVhMHFJV0RKTWsySl9XaVlCcUdfdGxWczlmekJwMm9ZNTRRUTlSZjBDUWJNLURITmtCNG90RFpZQWNKWFluZm44dXNpMDN0TEVKRUpZelR2d3RrTExrYlZXajUxSWNaVWhIbjc5MDZWUdIBuAFBVV95cUxNSlg0Y0lqTnlrX0dYb3ZEQ2JWeVJGdl9PMk5jRXFId0ZxbjZ1MG00bnIzeVNnQ09qbGwtWkFHMjBNRkh6S000YUIyMWs4SEtPakVxazhubzczQXB1ZEdGanVfbXJ0ZEthTkxOSzZRcndobjM3V01hdlVDMjNFQVNMLV9nY2lvdUQ1YkpKcWtjY1J5clNwRzVqRWp3eGc2Y3psZGoyN1pqbGwxbXBGX0xoMEZ5Si0yNlQ2?oc=5
-
-- LGP and Fuel Crisis in India Live Update: Amid panic buying, Telangana govt says state has enough fuel, LPG stocks - The Times of India
-  The Times of India reported the fuel crisis in the state of Telangana.
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxQR3A5Yzh4cm1lM0o1SUVYMkFJd3hSeVhFck1vUnFyYWNORXRHcVJBWnZzOER1Y0lDLTYwdk0yTkR3UnFtVFhxc1NKQnp0aXlIengzWHhuQWJSblUyWnVxd3NfdGltblRFRmwxZXNkbklYOG4zUy1iNFkzczdGQWJCbWtPQTBva1ZTYkp3SkViUG9hLTNCbnJtNl9ZV3RDZW5hUHRhTnN2SHNmQ1dVcDFzbExsdE9xV29YQXpsaXNXQ29DclJVUEJ3ZFQxZEpzeGZnUHc2OXh5Z2lrRVllaV91cVhxYXpqT3k5aDVZcjQ0QmtpeVdxQXhrOFZ3Ylpad25QVU9UUlZuS2hoWlJxZVJqOU5lbDhZdGthQXBxektqZXZvTk9zZS1ybEdwVnVnVmYxcmt6MTlnYndlZThya3RJMkNpeUJ0Sm40ckM4VExBdDFKUi05UkRaMjM2QVRjdUJ5V09FdVZmRW8?oc=5
-
-- India, 5 Others On Iran's "Friendly Nation" List For Safe Hormuz Passage - NDTV
-  India, 5 Others On Iran's "Friendly
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZDQWtJUW9zQjhtb1RFaDBNSzUxYjdyZTZ2VXRFZjJCUkFWdXdhc0hoTTlocGZ1ZlNrbXpyeE5mMEJxOXhDa0NibTNFVENocW5YOUU0cUJjMzdmTXkwNGVLZmxrVDNvVFFmRkl5NVFQclRkdzdjNEZYSDhUeUcwbms5eXFPbE0wQkpzX0p2MUVpa3JkV0pLVGprdk1TNEt3NWVWQjZXbkZ1RW9UeGRHVU1VRWM4YmNmclVVV3J30gHGAUFVX3lxTE5zbE41ajJ1TkcyZHpjUjJ6SzF5Z0lZaWc2enlSRDRiMkpQTHU0WkdCWno4RW9saHNsM3hhbHFDS20wZjJtS0ZYNTh1QTE4SEZ4ZDZnT0h1MGphZEJQRWdpbkFXUTMxRDVnUkhWMGxnTlFPZEFWcEdsZ2JHUzZUTTdhampOZVJ5ZEJUZ1V6alZoMmhLbEdKekNvbFFJR3ZfU1p1NGFObUZPWTZZdXcta3UzQ21MR21IY0ZKby1iY2tzTWt2Q0dDdw?oc=5
-
-- Iran war: India's fertiliser supply under strain after Hormuz blockade - BBC
-  Iran war: India's fertiliser supply
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2V3c5NVp1cm5JdnlwcUtPM0JESlhtWVFfbU9mLUJydGlQMWVKR0FsZG9sVW5IRmpwczcwTHVIdW84Q3hzR0x2TWx1VjgxTDV2c1Y3c29TZWMwdw?oc=5
-
-- India among five nations granted passage through Strait of Hormuz by Iran - The Hindu
-  India among five nations granted passage through Strait of Horm
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2J1WGJuQ0lDQzJKekhBTUFhT1BqcW5kZ2JBaHVORThBaEp6UERCTFBheU00cWxjVkJkbEVwX1pjNEtsNFNyYWpMakY1YTJsNG9aZVpBYnpzMkRmeTdWczF1T3MyYm92YzItZ3RMaDRCRWZMV0lWN21BMnlZcXZIOGVHNkp3Tk9JTkhJY2FVWGVPaVY0V0x4OHNscGJJdjlBYUlBWGwycWplR1FPLVZCTmVNU2Nrdzlyc2hNcHlydDN5bk94NkNnUngzZmNWNTjSAdYBQVVfeXFMTmt1aTdYNVZqTTFxRUkwUlQ5VFdPclNRMjJSTXVmUXFDSjVadXkxRXJiYUxFTEQ0Q2tWcTMwQmw2dFJmM29XdGpNS0E0Ulp5QlJxeXdJUHlsaEJtRzFaWW1Cdk12WnhxUHd1T3UyQ0NBSWVYS0E3cVFhSEJEYVV2RjZTUTlOY2lZWjk3ODhvdnpfOWN0d0J2dFVXcjdLUks4c0dpdmVVdEs4anNIRGZqQ3NtTlAycTZRTEYzOXNnTV9DNlZFWVMxYWRwVDhORk9JUUhHMG9FQQ?oc=5
-
-- Can't be a broker nation: EAM Jaishankar at all-party meet - The Times of India
-  The Times of India reported that Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2FmZWZfcmZPRWYtTll2bkRSUUgtcWo2Tmx2SW1FT3U4bVhsMjBkc1NwTUdnZDNSaEo4UDFDT05JSkEtWkUwd2FUVHVhMHFJV0RKTWsySl9XaVlCcUdfdGxWczlmekJwMm9ZNTRRUTlSZjBDUWJNLURITmtCNG90RFpZQWNKWFluZm44dXNpMDN0TEVKRUpZelR2d3RrTExrYlZXajUxSWNaVWhIbjc5MDZWUdIBuAFBVV95cUxNSlg0Y0lqTnlrX0dYb3ZEQ2JWeVJGdl9PMk5jRXFId0ZxbjZ1MG00bnIzeVNnQ09qbGwtWkFHMjBNRkh6S000YUIyMWs4SEtPakVxazhubzczQXB1ZEdGanVfbXJ0ZEthTkxOSzZRcndobjM3V01hdlVDMjNFQVNMLV9nY2lvdUQ1YkpKcWtjY1J5clNwRzVqRWp3eGc2Y3psZGoyN1pqbGwxbXBGX0xoMEZ5Si0yNlQ2?oc=5
-
-- LGP and Fuel Crisis in India Live Update: Amid panic buying, Telangana govt says state has enough fuel, LPG stocks - The Times of India
-  The Times of India reported the fuel crisis in the state of Telangana.
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxQR3A5Yzh4cm1lM0o1SUVYMkFJd3hSeVhFck1vUnFyYWNORXRHcVJBWnZzOER1Y0lDLTYwdk0yTkR3UnFtVFhxc1NKQnp0aXlIengzWHhuQWJSblUyWnVxd3NfdGltblRFRmwxZXNkbklYOG4zUy1iNFkzczdGQWJCbWtPQTBva1ZTYkp3SkViUG9hLTNCbnJtNl9ZV3RDZW5hUHRhTnN2SHNmQ1dVcDFzbExsdE9xV29YQXpsaXNXQ29DclJVUEJ3ZFQxZEpzeGZnUHc2OXh5Z2lrRVllaV91cVhxYXpqT3k5aDVZcjQ0QmtpeVdxQXhrOFZ3Ylpad25QVU9UUlZuS2hoWlJxZVJqOU5lbDhZdGthQXBxektqZXZvTk9zZS1ybEdwVnVnVmYxcmt6MTlnYndlZThya3RJMkNpeUJ0Sm40ckM4VExBdDFKUi05UkRaMjM2QVRjdUJ5V09FdVZmRW8?oc=5
+- S Jaishankar Said India Not "Go-Between Country" Like Pak: Sources On Iran Mediation - NDTV
+  S Jaishankar Said India Not "Go-
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVlVZTndMRTRsUS1aM0tUMmZGLXA5eFhOQ0sxMjMzTEFvem9ybmxXZk1XOS1SeXdSLUFsdXNMV2o3djZNM0trV1l2MVdaR0pfY0tFZk1fd0N2aWlleFQyZm1VVERCeEYxaWprQXlVUTE4UEVJbjVSUGZZV2VaUmlVOUIxZjJFcXpQem1QNG9qblZSbkYyMlBMcURWc1BhR2V1djJtNXlpUHctVnU2WmZjVW5uR0NhblYwVEdwYkI0WElOZERQcmRqMGgtUzZyWEdrV29RZjl4Z2t2UDdPNGp4S2J30gHqAUFVX3lxTE1BamQxRzlzMXZUdTNMVDlIU0lXMkt3eXN5QllpLVJrTmxaaE0wYl8ydUpzVTBiMHo5UzZEc1ZHcUhGNktKYl9SZGhTMFVLVzBPekxyMVJsZTk1NTB6OTRCbkRYa1dYU0c4U1pfZE9mYjVtdTZjZkMwUVpCQk9zMDZmSmtER3FXSjQ2TkdIZ1hselYzbTJXQmJkVWh2RzhGaVotZVRyclZWcnhzX1E0UG1laFdPbHg4R2ljXzNaUGJkem9xa3lkSUFIX08tSGxEUzlWN0NnWk10bk9JZTM1VkdfUWFXMkJ2TU9LQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-26 13:05:58 UTC_
+_Last updated: 2026-03-26 19:02:45 UTC_
