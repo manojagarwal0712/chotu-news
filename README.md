@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Panel: Take steps to protect farmers against cheap edible oil imports
+- Noida International Airport Inauguration Live Updates: PM Modi arrives to inaugurate Noida International Airport
   
-  🔗 https://indianexpress.com/article/india/panel-take-steps-to-protect-farmers-against-cheap-edible-oil-imports-10605516/
+  🔗 https://indianexpress.com/article/india/noida-international-airport-inauguration-today-yogi-adityanath-pm-modi-live-updates-10605877/
 
-- 5 QUESTIONS | Deepender Hooda: ‘Need laws to regulate use of social media, mitigate its ill-effects’
+- ‘99% Hindus want out of Congress; it will become single-community party after Assam polls’: CM Himanta
   
-  🔗 https://indianexpress.com/article/india/5-questions-deepender-hooda-need-laws-to-regulate-use-of-social-media-mitigate-its-ill-effects-10605511/
+  🔗 https://indianexpress.com/article/india/himanta-sarma-congress-hindus-assam-election-remark-10605822/
 
-- Rajya Sabha clears Finance Bill 2026 | Excise duty cut to not burden citizens, says FM; poll move: Opposition
+- Violence after Ram Navami procession in Jharkhand’s Garhwa district; 19 arrested
   
-  🔗 https://indianexpress.com/article/india/rajya-sabha-clears-finance-bill-2026-excise-duty-cut-to-not-burden-citizens-says-fm-poll-move-opposition-10605510/
+  🔗 https://indianexpress.com/article/india/violence-ram-navami-procession-in-jharkhands-garhwa-district-19-arrested-10605918/
 
-- Transgender advisors who quit council: Were kept in dark about Bill, minister skipped meet
+- Indus Water Treaty suspension speeding up projects, govt says J-K hydropower capacity to rise 46%
   
-  🔗 https://indianexpress.com/article/india/transgender-advisors-who-quit-council-were-kept-in-dark-about-bill-minister-skipped-meet-10605457/
+  🔗 https://indianexpress.com/article/india/indus-water-treaty-suspension-speeding-up-projects-govt-says-j-k-hydropower-capacity-to-rise-46-10605376/
 
-- Rs 2.38 lakh cr-defence push: DAC clears 5 S-400 missile systems from Russia, transport aircraft
+- ‘Election to save Assam’: Gaurav Gogoi holds steady in keen Jorhat tussle with BJP veteran
   
-  🔗 https://indianexpress.com/article/india/rs-2-38-lakh-cr-defence-push-dac-clears-5-s-400-missile-systems-from-russia-transport-aircraft-10605455/
+  🔗 https://indianexpress.com/article/india/election-to-save-assam-gaurav-gogoi-holds-steady-in-keen-jorhat-tussle-with-bjp-veteran-10605389/
 
-- NASA Artemis 2 countdown begins: Crew prepares for historic moon mission launch
+- Why AI that says ‘you’re right’ could be dangerous, according to a new study
   
-  🔗 https://indianexpress.com/article/technology/science/countdown-begins-nasas-artemis-2-crew-prepares-for-launch-just-a-week-away-10604812/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-ai-that-says-youre-right-could-be-dangerous-according-to-a-new-study-10605905/
 
-- Tech and Gadget Launches Today (March 27, 2026): TECNO Spark 50, Samsung Galaxy Book6, and more
+- UK joins global push to rein in children’s screen use with national guidance
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-27-2026-tecno-spark-50-samsung-galaxy-book6-and-more-10604747/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-joins-global-push-to-rein-in-childrens-screen-use-with-national-guidance-10605821/
 
-- Apple may be testing a 200MP sensor for future iPhone Pro models
+- Austria plans social media ban for children under 14
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-iphone-200mp-camera-sensor-leak-sony-lyt-901-details-10604435/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/austria-plans-social-media-ban-for-children-under-14-10605815/
 
-- Are we close to finding life beyond Earth? 45 planets show potential, say scientists
+- Sony to hike PlayStation 5 prices again as memory chip costs surge
   
-  🔗 https://indianexpress.com/article/technology/science/could-life-exist-here-scientists-highlight-45-intriguing-planets-10604597/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-to-hike-playstation-5-prices-again-as-memory-chip-costs-surge-10605792/
 
-- Google brings Search Live to more countries, adds support for more Indian languages
+- Tech can be an impact amplifier, but it’s not the whole story: Brigit Helms, Miller Center for Global Impact
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-brings-search-live-to-more-countries-adds-support-for-more-indian-languages-10604452/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/innovation-brigit-helms-miller-center-social-enterprises-india-ai-impact-10604450/
+
+- Google nears massive financing agreement for Anthropic's 500-megawatt data center project: Report
+  Google is nearing a multibillion-dollar deal to support Anthropic's Texas data center. The financing could exceed $5
+  🔗 https://www.livemint.com/companies/news/google-nears-massive-financing-agreement-for-anthropics-500-megawatt-data-center-project-report-11774672878301.html
+
+- KPMG plans to lay off hundreds of workers — who is likely to be impacted? Everything we know so far
+  KPMG's UK unit has alerted nearly 600 audit employees about potential layoffs. Here are the roles that will
+  🔗 https://www.livemint.com/companies/news/kpmg-plans-to-lay-off-hundreds-of-workers-who-is-likely-to-be-impacted-everything-we-know-so-far-11774667641106.html
 
 - Workers strike at one of the largest US meatpacking plants will continue for a 3rd week
   Workers' strike at one of the largest US meat
@@ -52,15 +60,19 @@
   Codelco expects to produce slightly more copper in 2026 than last year. Chilean state-owned miner battles to put a string
   🔗 https://www.livemint.com/companies/codelco-expects-to-churn-out-slightly-more-copper-this-year-11774636345809.html
 
-- Judge wont block meeting that could exempt Gulf drilling from Endangered Species Act
-  Judge won't block meeting that could exempt
-  🔗 https://www.livemint.com/companies/judge-wont-block-meeting-that-could-exempt-gulf-drilling-from-endangered-species-act-11774629873629.html
+- Treasury Yields at Year’s High Lure Buyers, Snap Link to Oil
+  A Treasury market selloff stalled as investors, doubtful that the energy crisis will lead the Federal Reserve to raise interest rates.
+  🔗 https://www.livemint.com/market/treasury-yields-at-year-s-high-lure-buyers-snap-link-to-oil-11774677698157.html
 
-- Indian exporters look abroad to manage payment risks
-  Indian exporters are setting up overseas entities in markets like Singapore, Hong Kong, Dubai, and the US to manage payment flows
-  🔗 https://www.livemint.com/companies/indian-exporters-overseas-payment-entities-geopolitical-risks-business-continuity-11774516362098.html
+- Tesla, NVIDIA, Microsoft to Apple: Magnificent 7 stocks market cap crashes $1.72 trillion during US-Iran war
+  US stock market: Coined in 2023 by BofA
+  🔗 https://www.livemint.com/market/stock-market-news/tesla-nvidia-microsoft-to-apple-magnificent-7-stocks-market-cap-crashes-1-72-trillion-during-us-iran-war-us-stocks-11774666243371.html
 
-- Is Tejas Networks stock headed towards Rs600?
+- Gold rate today in India jumps over  ₹17,000 from the weekly low. Is this a right time to buy gold?
+  MCX gold rate finished at  ₹1,47,270
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-in-india-28-march-2026-over-rs-17-000-from-the-weekly-low-is-this-a-right-time-to-buy-sell-gold-11774660222175.html
+
+- Is Tejas Networks stock headed towards  ₹600?
   The stock of Tejas Networks has been rising in a falling market. Let's look at some factors that could
   🔗 https://www.livemint.com/market/stock-market-news/tejas-networks-stock-rally-analysis-future-prospects-11774607123141.html
 
@@ -68,17 +80,13 @@
   Many of Sebi’s rules have passed their sell-by date, says
   🔗 https://www.livemint.com/market/sebi-regulations-impact-assessment-m-damodaran-financial-markets-india-investment-summit-11774621710229.html
 
-- Fund With Anthropic Stake Extends Drop in Stunning IPO Reversal
-  Shares of the Fundrise Innovation Fund fell sharply for a second straight day Friday. Shares remain well above the underlying value of its holdings in private tech firms.
-  🔗 https://www.livemint.com/market/fund-with-anthropic-stake-extends-drop-in-stunning-ipo-reversal-11774652844279.html
+- Meta readies two prescription-supported Ray-Ban AI glasses, set to launch next week: Report
+   Meta plans to launch two new Ray-Ban smart glasses next week. The glasses will be available in rectangular and rounded styles
+  🔗 https://www.livemint.com/technology/tech-news/meta-readies-two-prescription-supported-ray-ban-ai-glasses-set-to-launch-next-week-report-11774663973968.html
 
-- Stocks fall, oil prices rise on darkening economic outlook from Middle East war
-  U.
-  🔗 https://www.livemint.com/market/stocks-fall-oil-prices-rise-on-darkening-economic-outlook-from-middle-east-war-11774638459538.html
-
-- Stocks stumble to lowest levels in over six months as Middle East tensions weigh
-  Stocks stumble to lowest levels in over six months as Middle
-  🔗 https://www.livemint.com/market/stocks-stumble-to-lowest-levels-in-over-six-months-as-middle-east-tensions-weigh-11774637344862.html
+- Microsoft reportedly developing a cheaper Xbox Game Pass tier for first-party studio titles: here's what to expect
+  A leak suggests Microsoft is creating a budget Xbox Game Pass tier named 'Triton' The move comes amidst rumours that Xbox CEO Asha Sharma wants to make Game pass more affordable
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-reportedly-developing-a-cheaper-xbox-game-pass-tier-for-first-party-studio-titles-heres-what-to-expect-11774660570567.html
 
 - Indonesia starts implementing social media restrictions for children under 16
   Indonesia starts implementing
@@ -92,68 +100,40 @@
   New US pricing will set the standard Sony PlayStation 5 at $649.
   🔗 https://www.livemint.com/industry/retail/sony-to-raise-playstation-5-price-to-offset-soaring-memory-chip-costs-heres-how-much-it-will-cost-now-11774627103251.html
 
-- Sharp launches India's first window AC with active air purification: Check price, specs, and features
-  Sharp has launched the Ryohu-FS fixed-speed window ACs with capacities from 1.41 to 1.70 tons.
-  🔗 https://www.livemint.com/technology/gadgets/sharp-launches-indias-first-window-ac-with-active-air-purification-check-price-specs-and-features-11774600590325.html
+- Rentomojo files draft papers with Sebi for IPO; plans Rs 150-cr fresh issue
+  Rentomojo is a leading player in the organized online rental segment for furniture and appliances. The company plans to use the proceeds for debt repayment, warehouse expenses, and general corporate needs.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-files-draft-papers-with-sebi-for-ipo-plans-rs-150-cr-fresh-issue/articleshow/129860253.cms
 
-- Google employees are flocking to ‘Agent Smith’ AI tool to automate coding tasks from their phones: Report
-  Google employees are using a new AI tool named Agent Smith which automates tasks like coding. The popularity of the new tool has led Google to restrict has led
-  🔗 https://www.livemint.com/technology/tech-news/google-employees-are-flocking-to-agent-smith-ai-tool-to-automate-coding-tasks-from-their-phones-sundar-pichai-openclaw-11774612035734.html
+- IPO Calendar: No fresh issues next week; Coal India subsidiary, 6 more companies set to debut
+  Focus shifts to the listing of Coal India's subsidiary, CMPDI, on Monday. Emiac Technologies' SME IPO continues bidding until Wednesday. Sai Parenteral and Powerica are expected to list on Thursday.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-no-fresh-issues-next-week-coal-india-subsidiary-6-more-companies-set-to-debut/articleshow/129860106.cms
 
-- Stock Market News, March 27, 2026: Dow Falls 793 Points, Landing in a Correction - wsj.com
-  The Dow Jones Industrial Average closed down 793 points on March 27, 2026. The drop was the fifth consecutive week of closing down.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFVrc2xHRktFUVl4Q3daZTltMnRDQ29CcUZzTEpQbG5lamJydVN2WU1WeTNLX19mYnhwN21tbkpNeFpVXzF6ZDVKb2hXcVNaOXNLTHE0dC11Q0RRUU9hZGNXMjBRWHdIR2FfTW1jc0NpbkRxSDRZa2JleEhENDgxd2xmVGp4aFU?oc=5
+- From Wealth to Wisdom: Top traits that define great investors
+  Key traits include independent thinking, emotional discipline, and a long-term perspective. Embracing discomfort, continuous learning, and focusing on quality businesses are crucial.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/from-wealth-to-wisdom-top-traits-that-define-great-investors/articleshow/129859701.cms
 
-- RBI curbs net open positions of banks in forex markets - The Times of India
-  RBI curbs net open positions of banks in fore
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX1hqTzVyeTc4c3hoRkdfbWNuTFRIMUNNOTkzU0RDYnlOd21HUVhwQnMwQ0JTcmFPYXhhNzRCaFgzNk9TRmRYbjFFYnhXOHZKS3lHenJzbllqR1lEbzRqSjY5YnBvMFJsSFBfekRCMVZxSWV0ZFFWczJIWkZabWNGVUFaWjB3LXVqYjBZc2pJWWliTmZWUUNFRTNnSWxoRzduS3JLOHlGRHE1NGVpMGc4WE5WUDBNRU4tclB6dVhkVEc4VzlpQ3ZRYTZYMEZpZFhNVnhFVmJkVdIB3AFBVV95cUxORDF6RGVpU2ZKeDF1WHJzMzNGaHZESkdyZnR3YjV3VE5neEZBWEZ3cnBscnZaY20xZlpvT2xTSUVOTU9EcDFYTUhpRUZoUU1TVFI1Y3dob2RsTGw2ZlBrVDJJNWxLQXBpNWhnekQ4dFdueTMzRlk2OTQxeFFBUV9VbEF5V2tFTDAyWnVob1N1V1VibGQ3OXFLc0lQRkdDSFNJdTZ3X200WFZPT2dRSm0wOGNEYWhGcUxURVpVdVNuaHR2UWU4TU0wSTBCaTF6MHRWc0VDXzFLbjNJeFc5?oc=5
+- Oil spikes, markets swoon. Now what? A disciplined approach to the West Asia crisis
+  Investors should stick to disciplined plans, rebalancing portfolios and upgrading quality during dips. Geopolitical shocks like the West Asian conflict can unsettle markets, but history shows resilience.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/oil-spikes-markets-swoon-now-what-a-disciplined-approach-to-the-west-asia-crisis/articleshow/129859619.cms
 
-- What is the real cost of betting on weather catastrophes? - Aeon
-  What is the real cost of betting on
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVlqSGpaN2VMRndyUnoxWm1RQ3J0TnVWUVJPV0ltdU40Um5zWGxkT2UtMUUzWGNfOGVRaEViVjlvX3JZb21GNlNkc1lsRTZDRFFfREVLMW5VUGcyZ2M2Zk5YcXB0TVZzUW5qbzgybWZjMi15ME9Ba3B5UzhhcF9qZFhtZXllQQ?oc=5
-
-- Sensex crashes 1,700 points: 3 reasons why markets are falling today - indiatoday.in
-  Sensex crashes 1,700 points: 3
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbnhsaDM4UC1Sc1FqNHpfQjhNUEdmWm40STgxQUVzUVF6U2FXNWs0M0pxM1NDbFgydmxUYjJHeUNUV3BJT0phS1NQbTdDLUlNNEZuRFZMRTM1TnhiX3ZqbnZmcnB2Y2pZRC1RQW9Oa2cyRGQzdEx1TFFwS21uYXVyTFpJTDRYcDJ5dlNLeXA4TnpXNjdZaFNYTWNBRVJMUGJ3WENraEFlTmhMSks1VE9oYURVNUdlM3ZwZEtsck1FQXpyM0RpUGthSDY3V2tjSDFXeVVBRTc5eTY0MzNZOWfSAeMBQVVfeXFMTlRxWDJCLXR0NjhKNTJRSV8zazVNUG1mQXhqWG9jeGoyLWg1bWs4ZDJWMW1Pa290enBVS0N1aURSVnJNUWFTUWp6VFhfa1RoaUQtNGtzeXNUTXZOdWU3V1A5dHcxTHVsbl83dTdROWFUMkdGTUZBUlZ2UG1JNUtzY21DaXppaDAyT1U2blZwQmpqRjBBWWx1ZnNCQkhfeF9IdWVpdnRTUlZNdGRYdlUtSW9MRlo5UzlZVWpELVZRLW5kckNTRjVyU3pxaFVHLU52cTRiaU5HR3JicW1iMVFVNnlFbTA?oc=5
-
-- Stock Market, Sensex Highlights: Sensex Crashes 1,690 Points Amid Negative Global Cues - NDTV
-  Stock Market, Sensex Highlights: Sensex Cr
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjRtcUJqZjZFOU9BNUJmQXdiZ0V1ZENLOXhscUpkdEhBQW1HNEgyZHB3U3hDOGJVX1dGWWxYNjZBcGd2UWQySUVwYzN4dGFGLXdfWGRvSkMzUUtrbDNUN0dxWE83dHc1bkxLdXNCYndUcldJTUc1bkQ5eFpqZVV3WmtaeC1XX0FKVWlNSjZPMlhpX09fb0R4blZLUkVMTUFQdlZjbGZzOHJOT0FuVF8yYlZ0QWpHWmExV3hvcGtacnFwQjZLM0xobNIB0AFBVV95cUxQVUdjOXRyWFVxVFIwOFNnMmd0X1NrNVhMQUJQc1UzY1k5NnFGVXo0Y0dXMXVlYWZYUjllWUlEQ2JjMUNjN0JacEY3dC1hM3J1SGZQZ0EzSEdEcGRlcHI3aEhUd2lLdkhVc0tjdE9fRmw0SDhkeG9LaVdxMWJxNGtyRHk1SHlpM0FpNXRZWE1hUzV3c3NtR2l3aHVNeE5tU3A0OUdEbkdMeHRaYko5UVhRaUdVdTl6eU9jS1I4WTdnTkM2VWp1LWlDb1RGUVgzLUQ4?oc=5
-
-- Markets drown in Red Sea: Rupee bleeds, bears maul Street
-  Indian equities also suffered significant declines, marking a fifth consecutive week of losses. Analysts warn of further depreciation for the rupee if the conflict persists and central bank intervention remains subdued.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-drown-in-red-sea-rupee-bleeds-bears-maul-street/articleshow/129857257.cms
-
-- US stocks today: US stocks tumble to lowest close in 6 months as Iran war drags; Nasdaq confirms correction
-  Megacap and software stocks led the decline. Rising oil prices fueled inflation fears and dampened rate cut expectations. Markets now anticipate potential Fed rate hikes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms
-
-- RBI tightens norms on net open positions to curb rupee’s slide
-  Banks must now keep their open positions within 100 million US dollars each day. This regulation comes as the rupee faces pressure and has depreciated significantly.
-  🔗 https://economictimes.indiatimes.com/markets/forex/rbi-tightens-norms-on-net-open-positions-to-curb-rupees-slide/articleshow/129857304.cms
-
-- Accel-backed Rentomojo files for India IPO
-  Rentomojo has filed for an initial ‌public ⁠off
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/accel-backed-rentomojo-files-for-india-ipo/articleshow/129853972.cms
-
-- Qatar's Doha Bank to bid India 'goodbye'
-  Doha Bank will close its Mumbai and Kochi branches after more than a decade. The bank will now operate solely through a representative office in the country.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/qatars-doha-bank-to-bid-india-goodbye/articleshow/129857300.cms
+- How GIFT City can reshape cross-border investing for domestic and international investors
+  GTT City is transforming global investing for Indians and attracting foreign capital. NRIs and foreign investors find investing in India simpler with relaxed compliance and tax norms.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-gift-city-can-reshape-cross-border-investing-for-domestic-and-international-investors/articleshow/129859580.cms
 
 - Ensure Supplies, Work As "Team India": PM Modi To Chief Ministers On Gulf Crisis - NDTV
   The Indian Prime Minister has called on the Gulf states to send
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnhPM1pWRWIyaXZzYWtzTTZNZng3U0VxVzZnX3UwWWtsY2ZGZElUZDMwYm5NQ2xWZ2N6anBRZFlQckdFa0h2Tkw5NnhlZEFHWmtFdjJXNFZ2bmg5YnFyNmlaMWxmLS02ejRoalplVEtsQ0h2WXF1WkVVZ3RrbVNtZDJnU2hWNHlMQ3lJZWFOaTNsc2FydEI3LU5vYTYyczMxdXRYZGYxQjVDMDZpaS1hVld1ZXUycWlhc3E2Zlc3VDlSby1rSndwNGFVeVdYdnRzNGfSAdoBQVVfeXFMT2lqZEFFSVdZQmpzRDR0UUU1bktFLUFOYU41SjMxNm5lbUxYc1JVSG9sR3NZcUY5U0RqdkNhSHBWcHhMNFgwQUNrWHJESGZYRF84WXpjb0UwQlVacFhCTkJQUjhyOUkxSlJpcGJVX1VNR3V6OHBXbUtvOE0tODlQOXBpQlBibU9qT1BCZzFmcGFBQ2Nqa3RLSjlpb0tBcjNWSS1YRGZNR3phU081MDdjcnRVai1oVXhpWFZfRjVydURuU3dkQktWTWtua1B3emhRSUVQcWUtZFNfd1E?oc=5
 
-- PM Modi's meet with CMs highlights: PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with CMs | India News - Hindustan Times
-  PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with C
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNWNVVUxTY285MHZNUVdxTWgxeFg4Vko4V3dCcTVXWFhQLWxtUjhnUG5GMXVXUjVTNDFTcFQwV3RLVWdxTWNhQXdIbk82VkN6M1FYcFk2X29oZFdVeW5YYWs1ZE1aMnVSb25PNk94TS1UYXNGSlJZREU1bC1IT0VXZE9CMXpvYVNLbFdSSGVNTER5T0hJbkl4c2YtMHJlNS1CdXBWVGxDT2dfSmFmcmZiaElRdlZpTWpNNHpjWVhGWUNXSnM3SERfTkdLTU9NLTdTYlRlZi1MdmE1Q1RqeURyNnJ0SWZwb0s0ZDdXZnRKd3p4TERQRzNmVS1MSHZLNnPSAYQCQVVfeXFMUGZiV1FDcWw5Y2FQZXNOZ2dOcE9IeTBsejNjN09ocGROcFh4d2lBbUdxZUk0OUhNblNCZHpqNTdtRGdKT3FlQ0FPWk9SSkR1UnZjMWtvU28xTmtlcmV5SjFhVDhvUzB1LURvdVVtY01ZcHZiUTBraEExSGE2UFVzTzFFN0thU0FmRXRoYVhsY0VQV2NhMmJNYzFrZkNzdzFILXU1UGZ2eEFNSmh6X1pIWFh0bWZiMm9xaC1HSjRmb2t5aG0yd0tVM0lTZ1FhN0R3VUk1SlRsc1E4bVNSZENhR3hKV3ZDWW5BeFprSnoybG10Uk9ScnhITkFZNHhQbTVkTmN5SXI?oc=5
+- Synergy, Team India spirit: What was discussed in key PM Modi-CMs meet amid Iran war - The Times of India
+  The Times of India reported that key Indian leaders met in New Delhi. The
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODhUektleFVISFkxckFxM0tZQ19pdlBIYnhGQVp4SHZNSmNZNmx0WXZEQ2tZcjdIOTJfSG9ycG5jTkJwVXp2RUNhU094Q25RWjBNdG9DenZQVWtqUXdiNzJ4WUFwbC1GMF9fSmJtYkxRS3ZHbXVOcUVycGZFZ3NtSFBLQTRELUxHa2p0bGlLdGhROVVQSUl6V0Z0LVFvTVFvT1ZWUFVYbFFIYmpnMWdrTmdvZUxBbmYwb2lpT1RETV9Id2syWXZYWGViX0xLRDlOZktDdHFTWFQwbGpzNG9YTFZLeTPSAeoBQVVfeXFMUEpnTkJPXzdscnNRZ1plTndNRVZMb1ZtVjZIQThlazRyRHJZcW1nOWR0SzhzQTFDUmcwbDRLaVFEVk5IM2tpa21HbWhKWFhKQnd6dU9JcWxRRm5CYXhMSG1JNHNGc2FvWExxZTJ0VXlLM3FYVFIzeHZrQi1WYm9kb1dMN0N5cHZjQUkwTUJtRE5JRC1PT3BZcElyVnJnTVVuWk41b3ZUcF9jTnpTeTRjSUFDaWtDNHhYNkk2ZnkxNlFXUkpVVU1DdUhGbnJiSG90VlBDcXBnU2dsN2NhVnZJWEdFb205U25VTzln?oc=5
 
-- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
-  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
+- The Hindu Morning Digest: March 28, 2026 - The Hindu
+  The Hindu Morning Digest: March
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXBpVndfSWZMV3B4VXhPMmV4WHFfRUpOWm1qdHBTOHRsOHNzaEYyZTFfRG82NFFJTERRLUZQUjdySEh1MUE1RmlPY2ZtYy13dmhQdFp0LXllVEExR1RfMENjV1dqVkZ3cWh5Z3k0dkF5YklPOFloRFBNSWtyMHlUTnphaDRRbVNHNllJ0gGSAUFVX3lxTE1qRG5HWFA3QVZmdzczYllULTZCb2NCOWVWUWxnYUJ0YXR1UDIwSDJVaE54R2FZNl9vZTVNME9YNWkwSXFEZ21KeEVIak56enVXeTdSZUgxTmI2RmpBSGgzOWNqaW1zUmpXcjJOWE42T1ZGODhaQVgzeGkxYnhLOGdPZ0VYaHZHaTluSXdLbHZSeHNB?oc=5
 
-- Lockdown in India rumours ‘completely false’, say Union Ministers - thehindu.com
-  Lockdown in India rumours ‘
+- Lockdown in India rumours ‘completely false’, say Union Ministers - The Hindu
+  Lockdown in India rumours ‘completely
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXM4cGE1M0NkQXFKN212cWs5d2NXQnNTZUFUNTJyTEszUTZvVGFwZkVOU2plLWVVM1FaUXk4UVVidUxPMnN1V0RKR2F0N25sbHIwR3A1aGF1TWk0QjNROFBNeWlmZGY5MDhENWt0Y01BNWJxNllKVmhyYU1zSkV3M3NENWNvbDRoNjdKeFBnbjRKVlE3OTE2ZnA2VjRzMEpvTEhUVEV2eFZWMDYtdXpxUzVyWlZ5Vm0y0gG_AUFVX3lxTE15NWJMVDhlQzM0aEtRQlF0eW9qQTJGbnBBS24yV0RPZW1mWXAtakFZSWJuR1JaNlRzUWZzWjBKRnAwLV9iMGFqeU42WGlHNmI3MDExaGtocnR5eGNfaEVzNDdYQ1JyZmdrX1dpXzZCNWhuSC00SmE2aEtwY1ZBb2g0elRCTnB2alZCbGJVYThxRTUyYTcwZU1BS2d6Z2piWkRMbFozaHdZaEhyY3Q3RzFmeW52a0kzQUZjVzJ6WHlr?oc=5
 
 - Rumours Of Lockdown In India Completely False, No Such Proposal: Hardeep Singh Puri - NDTV
@@ -164,16 +144,16 @@
   The Indian Prime Minister has called on the Gulf states to send
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnhPM1pWRWIyaXZzYWtzTTZNZng3U0VxVzZnX3UwWWtsY2ZGZElUZDMwYm5NQ2xWZ2N6anBRZFlQckdFa0h2Tkw5NnhlZEFHWmtFdjJXNFZ2bmg5YnFyNmlaMWxmLS02ejRoalplVEtsQ0h2WXF1WkVVZ3RrbVNtZDJnU2hWNHlMQ3lJZWFOaTNsc2FydEI3LU5vYTYyczMxdXRYZGYxQjVDMDZpaS1hVld1ZXUycWlhc3E2Zlc3VDlSby1rSndwNGFVeVdYdnRzNGfSAdoBQVVfeXFMT2lqZEFFSVdZQmpzRDR0UUU1bktFLUFOYU41SjMxNm5lbUxYc1JVSG9sR3NZcUY5U0RqdkNhSHBWcHhMNFgwQUNrWHJESGZYRF84WXpjb0UwQlVacFhCTkJQUjhyOUkxSlJpcGJVX1VNR3V6OHBXbUtvOE0tODlQOXBpQlBibU9qT1BCZzFmcGFBQ2Nqa3RLSjlpb0tBcjNWSS1YRGZNR3phU081MDdjcnRVai1oVXhpWFZfRjVydURuU3dkQktWTWtua1B3emhRSUVQcWUtZFNfd1E?oc=5
 
-- PM Modi's meet with CMs highlights: PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with CMs | India News - Hindustan Times
-  PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with C
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNWNVVUxTY285MHZNUVdxTWgxeFg4Vko4V3dCcTVXWFhQLWxtUjhnUG5GMXVXUjVTNDFTcFQwV3RLVWdxTWNhQXdIbk82VkN6M1FYcFk2X29oZFdVeW5YYWs1ZE1aMnVSb25PNk94TS1UYXNGSlJZREU1bC1IT0VXZE9CMXpvYVNLbFdSSGVNTER5T0hJbkl4c2YtMHJlNS1CdXBWVGxDT2dfSmFmcmZiaElRdlZpTWpNNHpjWVhGWUNXSnM3SERfTkdLTU9NLTdTYlRlZi1MdmE1Q1RqeURyNnJ0SWZwb0s0ZDdXZnRKd3p4TERQRzNmVS1MSHZLNnPSAYQCQVVfeXFMUGZiV1FDcWw5Y2FQZXNOZ2dOcE9IeTBsejNjN09ocGROcFh4d2lBbUdxZUk0OUhNblNCZHpqNTdtRGdKT3FlQ0FPWk9SSkR1UnZjMWtvU28xTmtlcmV5SjFhVDhvUzB1LURvdVVtY01ZcHZiUTBraEExSGE2UFVzTzFFN0thU0FmRXRoYVhsY0VQV2NhMmJNYzFrZkNzdzFILXU1UGZ2eEFNSmh6X1pIWFh0bWZiMm9xaC1HSjRmb2t5aG0yd0tVM0lTZ1FhN0R3VUk1SlRsc1E4bVNSZENhR3hKV3ZDWW5BeFprSnoybG10Uk9ScnhITkFZNHhQbTVkTmN5SXI?oc=5
+- Synergy, Team India spirit: What was discussed in key PM Modi-CMs meet amid Iran war - The Times of India
+  The Times of India reported that key Indian leaders met in New Delhi. The
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODhUektleFVISFkxckFxM0tZQ19pdlBIYnhGQVp4SHZNSmNZNmx0WXZEQ2tZcjdIOTJfSG9ycG5jTkJwVXp2RUNhU094Q25RWjBNdG9DenZQVWtqUXdiNzJ4WUFwbC1GMF9fSmJtYkxRS3ZHbXVOcUVycGZFZ3NtSFBLQTRELUxHa2p0bGlLdGhROVVQSUl6V0Z0LVFvTVFvT1ZWUFVYbFFIYmpnMWdrTmdvZUxBbmYwb2lpT1RETV9Id2syWXZYWGViX0xLRDlOZktDdHFTWFQwbGpzNG9YTFZLeTPSAeoBQVVfeXFMUEpnTkJPXzdscnNRZ1plTndNRVZMb1ZtVjZIQThlazRyRHJZcW1nOWR0SzhzQTFDUmcwbDRLaVFEVk5IM2tpa21HbWhKWFhKQnd6dU9JcWxRRm5CYXhMSG1JNHNGc2FvWExxZTJ0VXlLM3FYVFIzeHZrQi1WYm9kb1dMN0N5cHZjQUkwTUJtRE5JRC1PT3BZcElyVnJnTVVuWk41b3ZUcF9jTnpTeTRjSUFDaWtDNHhYNkk2ZnkxNlFXUkpVVU1DdUhGbnJiSG90VlBDcXBnU2dsN2NhVnZJWEdFb205U25VTzln?oc=5
 
-- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
-  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
+- The Hindu Morning Digest: March 28, 2026 - The Hindu
+  The Hindu Morning Digest: March
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXBpVndfSWZMV3B4VXhPMmV4WHFfRUpOWm1qdHBTOHRsOHNzaEYyZTFfRG82NFFJTERRLUZQUjdySEh1MUE1RmlPY2ZtYy13dmhQdFp0LXllVEExR1RfMENjV1dqVkZ3cWh5Z3k0dkF5YklPOFloRFBNSWtyMHlUTnphaDRRbVNHNllJ0gGSAUFVX3lxTE1qRG5HWFA3QVZmdzczYllULTZCb2NCOWVWUWxnYUJ0YXR1UDIwSDJVaE54R2FZNl9vZTVNME9YNWkwSXFEZ21KeEVIak56enVXeTdSZUgxTmI2RmpBSGgzOWNqaW1zUmpXcjJOWE42T1ZGODhaQVgzeGkxYnhLOGdPZ0VYaHZHaTluSXdLbHZSeHNB?oc=5
 
-- Lockdown in India rumours ‘completely false’, say Union Ministers - thehindu.com
-  Lockdown in India rumours ‘
+- Lockdown in India rumours ‘completely false’, say Union Ministers - The Hindu
+  Lockdown in India rumours ‘completely
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXM4cGE1M0NkQXFKN212cWs5d2NXQnNTZUFUNTJyTEszUTZvVGFwZkVOU2plLWVVM1FaUXk4UVVidUxPMnN1V0RKR2F0N25sbHIwR3A1aGF1TWk0QjNROFBNeWlmZGY5MDhENWt0Y01BNWJxNllKVmhyYU1zSkV3M3NENWNvbDRoNjdKeFBnbjRKVlE3OTE2ZnA2VjRzMEpvTEhUVEV2eFZWMDYtdXpxUzVyWlZ5Vm0y0gG_AUFVX3lxTE15NWJMVDhlQzM0aEtRQlF0eW9qQTJGbnBBS24yV0RPZW1mWXAtakFZSWJuR1JaNlRzUWZzWjBKRnAwLV9iMGFqeU42WGlHNmI3MDExaGtocnR5eGNfaEVzNDdYQ1JyZmdrX1dpXzZCNWhuSC00SmE2aEtwY1ZBb2g0elRCTnB2alZCbGJVYThxRTUyYTcwZU1BS2d6Z2piWkRMbFozaHdZaEhyY3Q3RzFmeW52a0kzQUZjVzJ6WHlr?oc=5
 
 - Rumours Of Lockdown In India Completely False, No Such Proposal: Hardeep Singh Puri - NDTV
@@ -184,36 +164,16 @@
   The Indian Prime Minister has called on the Gulf states to send
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnhPM1pWRWIyaXZzYWtzTTZNZng3U0VxVzZnX3UwWWtsY2ZGZElUZDMwYm5NQ2xWZ2N6anBRZFlQckdFa0h2Tkw5NnhlZEFHWmtFdjJXNFZ2bmg5YnFyNmlaMWxmLS02ejRoalplVEtsQ0h2WXF1WkVVZ3RrbVNtZDJnU2hWNHlMQ3lJZWFOaTNsc2FydEI3LU5vYTYyczMxdXRYZGYxQjVDMDZpaS1hVld1ZXUycWlhc3E2Zlc3VDlSby1rSndwNGFVeVdYdnRzNGfSAdoBQVVfeXFMT2lqZEFFSVdZQmpzRDR0UUU1bktFLUFOYU41SjMxNm5lbUxYc1JVSG9sR3NZcUY5U0RqdkNhSHBWcHhMNFgwQUNrWHJESGZYRF84WXpjb0UwQlVacFhCTkJQUjhyOUkxSlJpcGJVX1VNR3V6OHBXbUtvOE0tODlQOXBpQlBibU9qT1BCZzFmcGFBQ2Nqa3RLSjlpb0tBcjNWSS1YRGZNR3phU081MDdjcnRVai1oVXhpWFZfRjVydURuU3dkQktWTWtua1B3emhRSUVQcWUtZFNfd1E?oc=5
 
-- PM Modi's meet with CMs highlights: PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with CMs | India News - Hindustan Times
-  PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with C
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNWNVVUxTY285MHZNUVdxTWgxeFg4Vko4V3dCcTVXWFhQLWxtUjhnUG5GMXVXUjVTNDFTcFQwV3RLVWdxTWNhQXdIbk82VkN6M1FYcFk2X29oZFdVeW5YYWs1ZE1aMnVSb25PNk94TS1UYXNGSlJZREU1bC1IT0VXZE9CMXpvYVNLbFdSSGVNTER5T0hJbkl4c2YtMHJlNS1CdXBWVGxDT2dfSmFmcmZiaElRdlZpTWpNNHpjWVhGWUNXSnM3SERfTkdLTU9NLTdTYlRlZi1MdmE1Q1RqeURyNnJ0SWZwb0s0ZDdXZnRKd3p4TERQRzNmVS1MSHZLNnPSAYQCQVVfeXFMUGZiV1FDcWw5Y2FQZXNOZ2dOcE9IeTBsejNjN09ocGROcFh4d2lBbUdxZUk0OUhNblNCZHpqNTdtRGdKT3FlQ0FPWk9SSkR1UnZjMWtvU28xTmtlcmV5SjFhVDhvUzB1LURvdVVtY01ZcHZiUTBraEExSGE2UFVzTzFFN0thU0FmRXRoYVhsY0VQV2NhMmJNYzFrZkNzdzFILXU1UGZ2eEFNSmh6X1pIWFh0bWZiMm9xaC1HSjRmb2t5aG0yd0tVM0lTZ1FhN0R3VUk1SlRsc1E4bVNSZENhR3hKV3ZDWW5BeFprSnoybG10Uk9ScnhITkFZNHhQbTVkTmN5SXI?oc=5
+- Synergy, Team India spirit: What was discussed in key PM Modi-CMs meet amid Iran war - The Times of India
+  The Times of India reported that key Indian leaders met in New Delhi. The
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODhUektleFVISFkxckFxM0tZQ19pdlBIYnhGQVp4SHZNSmNZNmx0WXZEQ2tZcjdIOTJfSG9ycG5jTkJwVXp2RUNhU094Q25RWjBNdG9DenZQVWtqUXdiNzJ4WUFwbC1GMF9fSmJtYkxRS3ZHbXVOcUVycGZFZ3NtSFBLQTRELUxHa2p0bGlLdGhROVVQSUl6V0Z0LVFvTVFvT1ZWUFVYbFFIYmpnMWdrTmdvZUxBbmYwb2lpT1RETV9Id2syWXZYWGViX0xLRDlOZktDdHFTWFQwbGpzNG9YTFZLeTPSAeoBQVVfeXFMUEpnTkJPXzdscnNRZ1plTndNRVZMb1ZtVjZIQThlazRyRHJZcW1nOWR0SzhzQTFDUmcwbDRLaVFEVk5IM2tpa21HbWhKWFhKQnd6dU9JcWxRRm5CYXhMSG1JNHNGc2FvWExxZTJ0VXlLM3FYVFIzeHZrQi1WYm9kb1dMN0N5cHZjQUkwTUJtRE5JRC1PT3BZcElyVnJnTVVuWk41b3ZUcF9jTnpTeTRjSUFDaWtDNHhYNkk2ZnkxNlFXUkpVVU1DdUhGbnJiSG90VlBDcXBnU2dsN2NhVnZJWEdFb205U25VTzln?oc=5
 
-- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
-  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
+- The Hindu Morning Digest: March 28, 2026 - The Hindu
+  The Hindu Morning Digest: March
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXBpVndfSWZMV3B4VXhPMmV4WHFfRUpOWm1qdHBTOHRsOHNzaEYyZTFfRG82NFFJTERRLUZQUjdySEh1MUE1RmlPY2ZtYy13dmhQdFp0LXllVEExR1RfMENjV1dqVkZ3cWh5Z3k0dkF5YklPOFloRFBNSWtyMHlUTnphaDRRbVNHNllJ0gGSAUFVX3lxTE1qRG5HWFA3QVZmdzczYllULTZCb2NCOWVWUWxnYUJ0YXR1UDIwSDJVaE54R2FZNl9vZTVNME9YNWkwSXFEZ21KeEVIak56enVXeTdSZUgxTmI2RmpBSGgzOWNqaW1zUmpXcjJOWE42T1ZGODhaQVgzeGkxYnhLOGdPZ0VYaHZHaTluSXdLbHZSeHNB?oc=5
 
-- Lockdown in India rumours ‘completely false’, say Union Ministers - thehindu.com
-  Lockdown in India rumours ‘
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXM4cGE1M0NkQXFKN212cWs5d2NXQnNTZUFUNTJyTEszUTZvVGFwZkVOU2plLWVVM1FaUXk4UVVidUxPMnN1V0RKR2F0N25sbHIwR3A1aGF1TWk0QjNROFBNeWlmZGY5MDhENWt0Y01BNWJxNllKVmhyYU1zSkV3M3NENWNvbDRoNjdKeFBnbjRKVlE3OTE2ZnA2VjRzMEpvTEhUVEV2eFZWMDYtdXpxUzVyWlZ5Vm0y0gG_AUFVX3lxTE15NWJMVDhlQzM0aEtRQlF0eW9qQTJGbnBBS24yV0RPZW1mWXAtakFZSWJuR1JaNlRzUWZzWjBKRnAwLV9iMGFqeU42WGlHNmI3MDExaGtocnR5eGNfaEVzNDdYQ1JyZmdrX1dpXzZCNWhuSC00SmE2aEtwY1ZBb2g0elRCTnB2alZCbGJVYThxRTUyYTcwZU1BS2d6Z2piWkRMbFozaHdZaEhyY3Q3RzFmeW52a0kzQUZjVzJ6WHlr?oc=5
-
-- Rumours Of Lockdown In India Completely False, No Such Proposal: Hardeep Singh Puri - NDTV
-  Rumours Of Lockdown In India Completely False,
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVkhfODIwcWRXYlJZcV9iRFNKb2hFU29qTjlWYVdqTjhkSWY1N3dfeHpRRGN2QnhWTUcxYWRWQTJDM2tORWFuOXB0UjZmQ1hVOUtWVXpvR1RWTE1zS3duMkNVc1dEZGFaelVqWnctMGE3Q0d5N1VWRk4tcm1ocjVjRVpiUjR6cGpTNFdzYzZEMnB3VnRwaEFJR01vNjhjenpsR0ZQMUNhNGo0Tm5iOG1jMlBud3BqQVQ3b0FlYVd0UGU5QXNTVEpsM1dwZ3hlZ2lDMGExTk4zeFAxUjVnOFI4YUFodmxiUdIB7gFBVV95cUxNaU5UbGRab25aSk1pd3hrWlM3N2NlYWRfLWwxaXM0ZXJ5cDB0RUdhcTZUOG1Bc3RmM3RYNWZfT1dEaWN6cnkzbkRfN2pZWUtDWHVjeUhpZjBFd2Y0Qmo4OXltcDJoeWRVTGJqdW9ZVUM1a1dSNGZqNHpGa0VzQ2h3RWFoRER6bV9KVHV3R3doblpzcGNLTDROTzlucE1YSDBrQUY4d09KbjBJY21LdkZsQ3lDTWpPNVJHMXE4OEpzWkZyMlpIVjZlbVBqT2ZuRjRTR3hjNDVWV1pPd0pWS2xQaGc4TkRma3RIdFpQdW13?oc=5
-
-- Ensure Supplies, Work As "Team India": PM Modi To Chief Ministers On Gulf Crisis - NDTV
-  The Indian Prime Minister has called on the Gulf states to send
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnhPM1pWRWIyaXZzYWtzTTZNZng3U0VxVzZnX3UwWWtsY2ZGZElUZDMwYm5NQ2xWZ2N6anBRZFlQckdFa0h2Tkw5NnhlZEFHWmtFdjJXNFZ2bmg5YnFyNmlaMWxmLS02ejRoalplVEtsQ0h2WXF1WkVVZ3RrbVNtZDJnU2hWNHlMQ3lJZWFOaTNsc2FydEI3LU5vYTYyczMxdXRYZGYxQjVDMDZpaS1hVld1ZXUycWlhc3E2Zlc3VDlSby1rSndwNGFVeVdYdnRzNGfSAdoBQVVfeXFMT2lqZEFFSVdZQmpzRDR0UUU1bktFLUFOYU41SjMxNm5lbUxYc1JVSG9sR3NZcUY5U0RqdkNhSHBWcHhMNFgwQUNrWHJESGZYRF84WXpjb0UwQlVacFhCTkJQUjhyOUkxSlJpcGJVX1VNR3V6OHBXbUtvOE0tODlQOXBpQlBibU9qT1BCZzFmcGFBQ2Nqa3RLSjlpb0tBcjNWSS1YRGZNR3phU081MDdjcnRVai1oVXhpWFZfRjVydURuU3dkQktWTWtua1B3emhRSUVQcWUtZFNfd1E?oc=5
-
-- PM Modi's meet with CMs highlights: PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with CMs | India News - Hindustan Times
-  PM recalls ‘Team India’ effort during Covid-19 pandemic in meeting with C
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNWNVVUxTY285MHZNUVdxTWgxeFg4Vko4V3dCcTVXWFhQLWxtUjhnUG5GMXVXUjVTNDFTcFQwV3RLVWdxTWNhQXdIbk82VkN6M1FYcFk2X29oZFdVeW5YYWs1ZE1aMnVSb25PNk94TS1UYXNGSlJZREU1bC1IT0VXZE9CMXpvYVNLbFdSSGVNTER5T0hJbkl4c2YtMHJlNS1CdXBWVGxDT2dfSmFmcmZiaElRdlZpTWpNNHpjWVhGWUNXSnM3SERfTkdLTU9NLTdTYlRlZi1MdmE1Q1RqeURyNnJ0SWZwb0s0ZDdXZnRKd3p4TERQRzNmVS1MSHZLNnPSAYQCQVVfeXFMUGZiV1FDcWw5Y2FQZXNOZ2dOcE9IeTBsejNjN09ocGROcFh4d2lBbUdxZUk0OUhNblNCZHpqNTdtRGdKT3FlQ0FPWk9SSkR1UnZjMWtvU28xTmtlcmV5SjFhVDhvUzB1LURvdVVtY01ZcHZiUTBraEExSGE2UFVzTzFFN0thU0FmRXRoYVhsY0VQV2NhMmJNYzFrZkNzdzFILXU1UGZ2eEFNSmh6X1pIWFh0bWZiMm9xaC1HSjRmb2t5aG0yd0tVM0lTZ1FhN0R3VUk1SlRsc1E4bVNSZENhR3hKV3ZDWW5BeFprSnoybG10Uk9ScnhITkFZNHhQbTVkTmN5SXI?oc=5
-
-- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
-  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
-
-- Lockdown in India rumours ‘completely false’, say Union Ministers - thehindu.com
-  Lockdown in India rumours ‘
+- Lockdown in India rumours ‘completely false’, say Union Ministers - The Hindu
+  Lockdown in India rumours ‘completely
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXM4cGE1M0NkQXFKN212cWs5d2NXQnNTZUFUNTJyTEszUTZvVGFwZkVOU2plLWVVM1FaUXk4UVVidUxPMnN1V0RKR2F0N25sbHIwR3A1aGF1TWk0QjNROFBNeWlmZGY5MDhENWt0Y01BNWJxNllKVmhyYU1zSkV3M3NENWNvbDRoNjdKeFBnbjRKVlE3OTE2ZnA2VjRzMEpvTEhUVEV2eFZWMDYtdXpxUzVyWlZ5Vm0y0gG_AUFVX3lxTE15NWJMVDhlQzM0aEtRQlF0eW9qQTJGbnBBS24yV0RPZW1mWXAtakFZSWJuR1JaNlRzUWZzWjBKRnAwLV9iMGFqeU42WGlHNmI3MDExaGtocnR5eGNfaEVzNDdYQ1JyZmdrX1dpXzZCNWhuSC00SmE2aEtwY1ZBb2g0elRCTnB2alZCbGJVYThxRTUyYTcwZU1BS2d6Z2piWkRMbFozaHdZaEhyY3Q3RzFmeW52a0kzQUZjVzJ6WHlr?oc=5
 
 - Rumours Of Lockdown In India Completely False, No Such Proposal: Hardeep Singh Puri - NDTV
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-28 01:50:41 UTC_
+_Last updated: 2026-03-28 06:56:03 UTC_
