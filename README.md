@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Parliamentary panel recommends modernisation of Railways’ production units to meet rolling stock targets
+  
+  🔗 https://indianexpress.com/article/india/parliamentary-panel-recommends-modernisation-of-railways-production-units-to-meet-rolling-stock-targets-10607878/
+
+- Railways plans to increase train handling capacity in Mumbai – Here’s how
+  
+  🔗 https://indianexpress.com/article/india/railways-plans-to-increase-train-handling-capacity-in-mumbai-heres-how-10606753/
+
+- Telangana passes landmark Bill to dock salary of employees who neglect their parents
+  
+  🔗 https://indianexpress.com/article/india/telangana-bill-seeks-cut-salary-of-private-govt-employees-who-neglect-parents-10607647/
+
 - TVK candidate list out: Actor-politician Vijay to contest from Perambur, Trichy East in Tamil Nadu Assembly polls
   
   🔗 https://indianexpress.com/article/india/tamil-nadu-elections-tvk-vijay-perambur-trichy-east-candidate-list-out-10607436/
@@ -8,17 +20,13 @@
   
   🔗 https://indianexpress.com/article/india/ie100-the-list-of-most-powerful-indians-in-2026-10607167/
 
-- Goa: Gujarat tourist stabbed to death by friend at Calangute resort
+- WWDC 2026: Here’s everything Apple plans to show off at its annual developer conference in June
   
-  🔗 https://indianexpress.com/article/india/goa-gujarat-tourist-stabbed-to-death-by-friend-at-calangute-resort-10606916/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-heres-everything-apple-plans-to-show-off-at-its-annual-developer-conference-in-june-10607650/
 
-- ‘Wounds get opened again’: In Assembly, Sajad Lone draws parallel between Farooq Abdullah attack and his father’s assassination
+- Anthropic’s ‘Claude Mythos’: What to know about the upcoming AI model’s capabilities, risks, and expected rollout
   
-  🔗 https://indianexpress.com/article/india/wounds-get-opened-again-in-assembly-sajad-lone-draws-parallel-between-farooq-abdullah-attack-and-his-fathers-assassination-10606969/
-
-- Translocated Bandhavgarh tigress poisoned and buried in MP’s Chhindwara; five arrested for retaliatory killing
-  
-  🔗 https://indianexpress.com/article/india/radio-collared-tigress-poisoned-buried-in-mp-5-arrested-in-chhindwara-10606912/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropis-claude-mythos-what-to-know-about-unreleased-ai-model-10607661/
 
 - Everything from iPhones and PlayStations to your Netflix subscription is about to get a lot more expensive
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/having-a-conversation-and-creating-best-practices-for-your-childs-social-media-use-10607284/
 
-- Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in online search
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/yahoo-turns-to-ai-powered-answer-engine-scout-to-lead-it-back-to-its-roots-in-online-search-10607243/
+- As Jewar gears up, Delhi airport firm seeks jet fuel tax parity to stay in the game
+  GMR Airports has urged Delhi to cut VAT on jet fuel to 1–4% from 25%. It warns that higher taxes could shift airline traffic
+  🔗 https://www.livemint.com/companies/gmr-seeks-cut-in-delhi-jet-fuel-vat-jewar-airport-11774628590240.html
 
-- Why earning more won’t always make you happier, according to science
-  
-  🔗 https://indianexpress.com/article/technology/science/why-earning-more-wont-always-make-you-happier-according-to-science-10606714/
+- Leela Palaces ramps up expansion to tap India’s booming luxury travel
+  Leela Palaces Hotels is accelerating expansion in India's luxury hospitality with nine new properties. With a solid financial position and rising demand, the company aims to have
+  🔗 https://www.livemint.com/companies/news/leela-palaces-hotels-resorts-india-luxury-expansion-plans-11774612673621.html
 
-- Elon Musk's xAI has lost all 8 of its original co-founders since January- Ross Nordeen is the last to go
-  The departure of Ross Nordeen marks the end of an era at one of the world's most valuable AI companies. It raises fresh questions about stability ahead of a landmark SpaceX IPO.
-  🔗 https://www.livemint.com/companies/news/elon-musks-xai-has-lost-all-8-of-its-original-co-founders-since-january-ross-nordeen-is-the-last-to-go-11774757797365.html
+- Vedanta's Anil Agarwal invokes Gita in first statement on Jaypee bid reversal: ‘We have no attachment to this asset’
+  Anil Agarwal said Vedanta had no attachment to the asset and talked about fulfilling Dharma. He indicated that Vedanta will challenge
+  🔗 https://www.livemint.com/companies/news/vedantas-anil-agarwal-invokes-gita-in-first-statement-on-jaypee-bid-reversal-we-have-no-attachment-to-this-asset-11774772933249.html
 
-- Vedanta demerger: Anil Agarwal confirms April timeline, says company to split into 5 entities
-  Vedanta is one of India's largest resources companies with an enterprise value of $37 billion. Vedanta has been
-  🔗 https://www.livemint.com/companies/news/vedanta-demerger-anil-agarwal-confirms-april-timeline-says-company-to-split-into-5-entities-11774755787015.html
+- PetroChina Profit Drops on Lower Oil Cost, Weak Fuel Demand
+  PetroChina Co.’s earnings fell last year,
+  🔗 https://www.livemint.com/companies/petrochina-profit-drops-on-lower-oil-cost-weak-fuel-demand-11774775859126.html
 
-- Vijaypat Singhania, former MD of Raymond Group, dies at 87
-  Vijaypat Singhania, former MD of Raymond Group, passed away at 87. Son Gautam Singhania described father as ‘vision
-  🔗 https://www.livemint.com/companies/vijaypat-singhania-former-md-of-raymond-group-dies-at-87-11774718167428.html
+- Dr Reddy’s gets 30 days to sell ‘Olymviq’ stock in Novo trademark case
+  Dr Reddy's agrees to rebrand sem
+  🔗 https://www.livemint.com/companies/news/dr-reddys-olymviq-trademark-dispute-novo-nordisk-delhi-hc-11774766984771.html
 
-- Jubilant FoodWorks says impact of LPG supply shortage limited amid West Asia war
-  Jubilant FoodWorks said certain parts of its store network, which includes Domino's Pizza and Dunking Donuts have been impacted by the shortage
-  🔗 https://www.livemint.com/companies/news/jubilant-foodworks-network-stores-dominos-pizza-dunkin-donuts-impact-lpg-supply-shortage-west-asia-war-move-electric-png-11774709426356.html
+- Jewellery stock to watch on Monday; here's why
+  PC Jeweller share price ended the Friday's trading session in red, closed 1.48% lower at  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/stock-to-watch-pc-jewellers-share-price-in-focus-on-monday-heres-why-11774778102386.html
 
-- Google sued by Epstein survivors for refusing to remove AI Mode results exposing their identities
-  A woman has sued the US government and Google for not protecting her identity. The lawsuit claims the DOJ released private information of survivors.
-  🔗 https://www.livemint.com/companies/news/google-doj-sued-by-jeffrey-epstein-survivors-for-refusing-to-remove-ai-mode-results-exposing-their-identities-11774679364898.html
+- The stock market’s bottom is closer than you think
+  Stocks are cheaper, and earnings growth is
+  🔗 https://www.livemint.com/market/the-stock-market-s-bottom-is-closer-than-you-think-11774778964320.html
 
-- Indian stock market: How are Sensex and Nifty 50 likely to perform this week amid US-Iran ceasefire talks?
-  Both Indian indices - Sensex and Nifty 50 - fell over 2% on Friday. Checkout how's the Indian market is likely to perform this week
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-this-week-amid-us-iran-ceasefire-talks-11774764822508.html
+- Some trades ahead of Trump policy moves raise questions
+  U.S.
+  🔗 https://www.livemint.com/market/some-trades-ahead-of-trump-policy-moves-raise-questions-11774778493116.html
 
-- Gold, silver rate today, 29 March: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
-  Gold and silver prices rose today on the MCX amid the war in the Middle East and weak dollar. Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-29-march-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11774759656660.html
+- Gold rate today: How's the precious metal likely to trade amid US-Iran ceasefire talks? Experts weigh in
+  Gold prices have fallen over 15% since the beginning of US-Iran war on February 28. Check how's gold is likely to perform in the
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-hows-the-precious-metal-likely-to-trade-amid-us-iran-ceasefire-talks-experts-weigh-in-11774773348850.html
 
-- Penny stock under  ₹10 to be in focus on Monday; here's why
-   NBFC stock closed Friday's session 7% higher despite weak market sentiments. The stock is
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-10-golden-legand-leasing-and-finance-to-be-in-focus-on-monday-heres-why-11774761590164.html
-
-- Record  ₹1.14 lakh crore exodus! Foreign investors pull out of Indian stocks in March amid Middle East conflict
-  The previous record for the highest monthly exodus stood at  ₹94,017 crore in October 2024. With one
-  🔗 https://www.livemint.com/market/stock-market-news/record-1-14-lakh-crore-exodus-foreign-investors-pull-out-of-indian-stocks-in-march-amid-middle-east-conflict-11774760102406.html
-
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 30 March 2026
-  The Indian stock fell for straight fifth week amid ongoing geopolitical tensions. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-30-march-2026-11774754947045.html
+- Mcap of 7 of top-10 most valued firms drops by  ₹1.75 lakh crore; Reliance biggest laggard
+  Last week, the BSE benchmark Sensex lost 949.74 points or 1.27
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-7-of-top-10-most-valued-firms-drops-by-rs-1-75-lakh-crore-reliance-biggest-laggard-11774772554827.html
 
 - Meta readies two prescription-supported Ray-Ban AI glasses, set to launch next week: Report
    Meta plans to launch two new Ray-Ban smart glasses next week. The glasses will be available in rectangular and rounded styles
@@ -100,65 +100,45 @@
   New US pricing will set the standard Sony PlayStation 5 at $649.
   🔗 https://www.livemint.com/industry/retail/sony-to-raise-playstation-5-price-to-offset-soaring-memory-chip-costs-heres-how-much-it-will-cost-now-11774627103251.html
 
-- How Trump and the oil markets move in sync: a tango in five charts - bbc.com
+- How Trump and the oil markets move in sync: a tango in five charts - BBC
   How Trump and the oil markets move in sync: a tang
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRngyZkRxWURmNTMwOUxmckRoUG85VllVV0hwX1lLd1F6dHZhQUNXdFE0ME5QSGhiMUlGWUFqMXk5SHZkYi1NaFdNd1RsYndiczlZcE9sUlBQUQ?oc=5
 
-- What Smart People Are Saying About the Market Sell-Off - markets.businessinsider.com
-  The Dow fell 793 points, landing in a Correction on March 27.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1JyVTJsZDYyLWRhSURuWmZsbldEY2l4RTJwaWtRdHNPdml2bmFWSVVyM0h6aFNHNGEwYXMwbEZodmIyVlpWNXlTaFA5WlJVY0pOcmFYZFlGN1dNWVdXUmd4YmFFLUJWQzk2M0JlbjBCSFlKUmFaMUQwR05XUjc0bnlCZG12M2pTdjhNZkZXVHZDQQ?oc=5
+- Dalal Street week ahead: Middle East tensions, oil swings to steer markets in holiday-shortened week - Moneycontrol.com
+  Moneycontrol.com: Middle East tensions, oil swings to steer
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ1VHQkdtbjRxU3VUdEUyUFRqcGFYdW80YllKR1MzUGgxTXgtdHktMEI3UGk4VEpzT2V0OEx1LXN5UW1uTlNlMjUzUGtyYmVDVHhEUW5mMEtiMVNJX2FUMzRlb25sQmFEejhWY0xEZ3Z6TjV0eWp6RzdSTnM2U0tmal9FSDZVOFd2MzlncDRJUlR1eXhqelNhRVpELTFDM2xNYmV0NU8tdGFOTEhUZEF6OWdiUU9WdWt0RHRuY2ZEektwZUZrUlhjN3BScDQ4NGJsWXBtVFJELXpzTkxubUZUSXVzdHl3SlRfT3lWSWlKRC1JeGNBb3fSAfsBQVVfeXFMUElaNGxzS1pTT1pVVTRfeUlGOGJTdnZldHlQSVZYc0xPYnhXWEJuazV2UlFQMUNDcWJpa01CWk9pRlpmLXJKamF4TXRRQWhDX3FPSWdPWkdycXVSMnZKWXdEei1EaVdLSDV0QnpUUU5zd2Q5VXh4ekxFVkMzREUyTlZDeVZNbkQ5M1pYOWRMN2FVR2F0R2MtMXotcnRhOFlJTW1yNHNSenVNczVCNTRFNEJWUHAtZ21xdWszTG9zUGF2cVA1NTRLR01LWmluUUt3cll3dEpESGJEQWpIX201d2gzLVk3blNMME9jQ05uekx1WDdaY2FiZ0xQUzQ?oc=5
 
-- What is the real cost of betting on weather catastrophes? - Aeon
-  What is the real cost of betting on
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVlqSGpaN2VMRndyUnoxWm1RQ3J0TnVWUVJPV0ltdU40Um5zWGxkT2UtMUUzWGNfOGVRaEViVjlvX3JZb21GNlNkc1lsRTZDRFFfREVLMW5VUGcyZ2M2Zk5YcXB0TVZzUW5qbzgybWZjMi15ME9Ba3B5UzhhcF9qZFhtZXllQQ?oc=5
+- US-Iran ceasefire talks to crude oil prices: Top five triggers that may dictate the Indian stock market this week - Mint
+  The Indian stock market is expected to open at a record high this week. Investors are
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQSEVLWm1GSkFQZGlZanAyRDZMbU1xYlB3YTdRbms3dEUwQ1VmaEx5U2MyQ2hMYVZEVEtxeEFRQndfaFNwVkJRT3RYQlRHUHF0ZUtuX2VfeEdiZWh1VFFhR2lRQlJCN1U1YkRyZmlFT3d6N1ltdDFRbVNITl92RXk1TzJvdDBwRGdjSU1tZHRmOWtSZWZNWHVubmVUeWs4aW5pTVJOZTRzZEZMbkpPcTlmZzRhQXJXaXJZcjFhZ09JVU8zMkVBYXNOS3NjVGNVNlctcVduTEFrMWFVVDFGb3Z2Z0tmMFY4VHNtZkhXSnpxcHBVTXRYdmw3SmZtQjRIV0d0LU8waHVNZXdNOGxaaUHSAZMCQVVfeXFMTmtqTGY3bUYzZGFCR0htOVNwVWRBdHl0Si1jeXh5S1RUNmduVGpfOEYwVzJNbGU0dU1qZHpQV01URWRqTDJ0dEctYXA0SDRQcExKSk93dUJhWWM0VGpqd3pfVS0xdU11dmdIdXpaM24weGFCc1Fhck5uU0tBWllmaTYtTWctbU9QdkdJV2RtMmt4WUhsYjZ0WHFYaVFxbkF2WlhfYmRtaklRbXdoVHkwM3BWOXdDVlI2RGt6ZFpfZkl5dzRNNWpJZUs5WnVKV3ZXRkYtYWo0cy1rNUpNSS15eGdhbGRKUFc5SWRyVk1oejdITENLNDMweFcxRzVwX09RZnQ4YW8xUzlBT0JGSFpFTlpoZ2s?oc=5
 
-- Iran war, crude, rupee among 8 factors to steer D-Street in holiday-shortened week - The Economic Times
-  Iran war, crude, rupee among 8 factors to steer D
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZm9BcG9xbHVlNnJDV09qVVd2UW15WmxOd1NvYXkwZzJzNVRuVUxzSXB2b1hEb0RqQ1NvMlJCV3d0RVhsbkdXcTNZbDFzZ3FLN3dzNGFFNXF6eHZDamF3dXFwT0RWWkV3MGdKLVhETFg2d2V1VHZ6THJiV3R3ZVFXdV9vUkF1MWEtcl81bi1XSTZoei1MR1hvWXVrdmIwd0NPSjI5YnpxTlcybVZ5ZnZ3TXhMNHR6RmZhbE4tMXp1MGFRc1dfN0tCSjF1U04yZkRja3YwcF81SDZjTHBRZ1FhR09LMVhXSFc4RWfSAe8BQVVfeXFMTmdldVY0em5vb3pwOU9XQm93RHdOaTl6NWM0dUp5VFhOa1ZCb1VPRi1ncTRoNWc4c24tOVFVcFk3RmJHR0E3eGh6Wjl1ZVBBUTZpdlJ0a2NPVE5IWjNpakgybGFwcGxpTWQ2bFlPX0wxd2dDYU93NWV1T2NnZ1pBS1plRWNlOHNINDB0ZjdtZ0xXaXl6OUEwNy1sMWx2T3VuY0Uwam5DTVF6Uk9WQUJkNW5xZU9nOXdPZjJZNV9DV1JES0JRTnB4N1pybVJ1eFVDTUxsUzFNMnpqZ2VCTzBuY2hhNXgtclF1R2h1cnRjazA?oc=5
+- Stock Market News, March 27, 2026: Dow Falls 793 Points, Landing in a Correction - WSJ
+  The Dow fell 793 points on March 27, 2026
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFVrc2xHRktFUVl4Q3daZTltMnRDQ29CcUZzTEpQbG5lamJydVN2WU1WeTNLX19mYnhwN21tbkpNeFpVXzF6ZDVKb2hXcVNaOXNLTHE0dC11Q0RRUU9hZGNXMjBRWHdIR2FfTW1jc0NpbkRxSDRZa2JleEhENDgxd2xmVGp4aFU?oc=5
 
-- High up, and soaring: Chennai's rental market - The Hindu
-  Chennai's rental market
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUs3Ri1BYllQV3pnRkZ3U2s5Y1JOWGZjdExoRnhXOVpHbHlQZFZEQnYyQ1V4bVdfOXBWdTg5QjZjUVYzcWh1cEhrd3l5NTNQcnRBSlRoeGZTSm9PRG1kQmtRdjY1V2JUN3p1UkhrMlVMRWptZEV5U01qRGU5dEFPVmVoTkI2T1lYbi1QcFNOY0dLXzjSAZoBQVVfeXFMTm1rQ0o4RExiZzhCazVkYjVrQ3RKdWpEejdEc2NSeHdxRWg5NWtRNVpWSVdkR2tQbGFOZmNoSzZEVmlSTmtJZXAyOV84YXJlX21LN1Z0WGxlZnVOM0piNDVIaEh6U3J0WnltWFVJaDRsUWFkd3NnYndydTlVZjczNlQ4d3JpRkpXc1ZRaUhVZzhoX2hjdXBBTDV1QQ?oc=5
+- Markets News, March 27, 2026: Stocks Plunge, Extend Skid to 5 Weeks; Dow Ends Down Nearly 800 Points; Oil Climbs - Investopedia
+  The Dow ended down nearly 800 points on March 27, 2026.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUMyeGF3S09TcllPRUdWWnFmLTdVT21JU0VTWnRuMHhvMmxqelZGU2otaE1VQWI2aHNOWEtUWjJKYzVPWlRldkNyUGJQelJPWVRCS2h0ZWNZZXJLaVRZdldvUXNWdUh6S3l5QkQxdzNXVFV3d1hBRnZBcnlzTjRTbnVaMWZJMHIybUsxZ3lEZUM?oc=5
 
-- Intellius Recode files draft IPO papers with Sebi; plans to raise Rs 117 cr from fresh issue
-  Intellius Recode Ltd has filed preliminary papers with the markets regulator Sebi
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/intellius-recode-files-draft-ipo-papers-with-sebi-plans-to-raise-rs-117-cr-from-fresh-issue/articleshow/129876799.cms
+- Ahead of market: 10 things that will decide stock market action on Monday
+  Nifty fell 2.09% to 22,819.60, Sensex down 2.25%. US and European indices also declined amid geopolitical uncertainty. Financials, autos, and consumer stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129879482.cms
 
-- War is profitable, time to get richer: 'Rich Dad Poor Dad' author Robert Kiyosaki
-  Robert Kiyosaki warns that wars, while tragic, are financially profitable for some. He also reiterated that market crashes could create opportunities for prepared investors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/war-is-profitable-time-to-get-richer-rich-dad-poor-dad-author-robert-kiyosaki/articleshow/129876638.cms
+- US Stocks Markets | Lucrative bets that anticipated Trump's policy surprises warrant scrutiny, experts say
+  Well-timed trades ahead of U.S. President Donald Trump's major policy surprises have potentially led to millions of dollars in profits for unknown traders. Legal experts say they should be investigated to protect fair markets
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-markets-lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say/articleshow/129878786.cms
 
-- Dividend, bonus issue alert: IREDA among 12 stocks turning ex-date for corporate actions this week. Do you own any?
-  Around 12 stocks will turn ex-date this week for corporate actions including dividends, bonus issues, rights issues, and stock splits. Key companies like TVS Motor Company, Triton Val
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-bonus-issue-alert-ireda-among-12-stocks-turning-ex-date-for-corporate-actions-this-week-do-you-own-any/slideshow/129876771.cms
+- Investors to keep a track of West Asia war, crude oil prices in holiday-shortened week: Analysts
+  Developments related to the ongoing month-long war in West Asia, its impact on crude oil prices, and global trends would continue to be key drivers
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/investors-to-keep-a-track-of-west-asia-war-crude-oil-prices-in-holiday-shortened-week-analysts/articleshow/129878363.cms
 
-- 8 midcap stocks with massive upside potential of up to 75%. Do you own any?
-  These stocks offer projected gains driven by improving fundamentals and positive sentiment. With consensus Buy or Strong Buy ratings, they present compelling opportunities for investors seeking high-growth mid-cap ideas.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-massive-upside-potential-of-up-to-75-do-you-own-any/slideshow/129876422.cms
+- Mcap of 7 of top-10 most valued firms drops by Rs 1.75 lakh cr; Reliance biggest laggard
+  The combined market valuation of seven of the top-10 most valued firms tumbled by Rs 1.75 lakh crore in a holiday-shortened last week. Rel
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-7-of-top-10-most-valued-firms-drops-by-rs-1-75-lakh-cr-reliance-biggest-laggard/articleshow/129877989.cms
 
-- Market trading guide: Buy ACME Solar and Dalmia Bharat on Monday for short-term gains up to 16%. Here’s why
-  Nifty snapped its two-day rally amid weak sentiment driven by Iran-US tensions, high energy prices, and a falling rupee. Technical indicators signal continued bearish momentum. Experts suggest a sell
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-acme-solar-and-dalmia-bharat-on-monday-for-short-term-gains-up-to-16-heres-why/articleshow/129876087.cms
-
-- IE100: The list of most powerful Indians in 2026 - The Indian Express
-  The Indian Express is one of the country's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3JIX1BDMjZJNlR3WUZOLUc4d01DYUduaEFSak1oNWFyclgtYUUySGhiS2hSM2gyQ0ZpYTZrX0w5aHo1VmduOV82TThjdHluci1wUlFXUWdZSEZtd09pdDFrZ0VkNmNHTlhXWGNPZU9mdjJmSWExRzdlb0lPOVlQVzJqbTU5U0R5VFRtdnYtOWJZblVUYWM4S19jVnAtQdIBpAFBVV95cUxQUjdmcUJwMUJPRTRxU2ZxRWZ0VkpQXzd3VHBtMS1kTWpnME9CS0t4dWNVRjBwUl96R0d3MXhucnJ6Z1lOVFJPMVpObzU3bjQ5WE9LUUp0c1h5VTVlX2lmSFpPM2xzN05ZRUNBTnpXTE8yZ1lfQ1RTLW9zazBpaU04SEZsMzZaVnNLSTg0YlhsTE9IYnhPMDh0Z2loc25zU0xxWEc2Yg?oc=5
-
-- 'Petrol, diesel crisis developing worldwide': PM Modi cautions during 132nd Mann ki Baat - The Times of India
-  'Petrol, diesel crisis developing worldwide': PM Modi cautions during
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNODNZMG85VnZfd256dTd3MUd6OTFTQTJNaWtUQjNpaGJ5TEhWdHdsX2pWODdsb2h5VXljd2t6UXhMM24ycGwybE8weENrblNwQlFQSnlrTTRNTmtlMGRCRGdWN1ZFY01mdE5tMW1iVDJ0QzBBRFBiT210VHBZVnBBUjBNNjRKS19qZURDX0tFVHM0VXdubzByU2ZqU2czbzdXQXVybnU3UEgyUGFISnhpNFlfRW0wLTdmZEZUMmdESWNqaWR4UmdLOFpXVU5LNkRuQWktVzgzb0VmVjEwRGVYal9sOTh3Z0HSAewBQVVfeXFMTTFPVXJYTlF5OEF0bko1RjE1bkE1TFpsc2dPT2IxOVp1WHlNT3lfY2ZBSUxidTEzeDdIUGVGTTljU1NwQUhYdGIzbmd3dnZDN2tfcy1DU3BBSDk2NWc5cjhhSE9PRU1Zc1Z0RktXbU1KcVNaN2ZTRXJwRVlZekpvdHRiQ0dFOERuTWJreFU3SmNmWlBMeWE0YnFzbDFYOGN6WjVMV0Z5N2hMSHNGY1dFRllBYTBiczhiZXVJY2ItZmVrVzlzRUN5YVBpeHVNNGIxSDQ0ek0wV1VKejg1dGU5a21oR1pOVGc3MjRnR00?oc=5
-
-- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
-  India Denies Reports Of Musk Joining Trump-PM
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
-
-- India news: Government cuts excise duties on petrol, diesel - dw.com
-  India cuts excise duties on petrol,
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmEyN0pFVVUxeXV6MTY2eXNqREUyeEhnSmhtSk5JdG00TDVORTNtX1RTUEtUTS1odzNodTctZmg4UmpIcTVReElVeHZpSFNwZ1FyajczeDUyWHhkQ3J0ZHM3UXZFckU2UWJjZm9Na29weDJSbWl3b0pQSmxfMWlGMjFSV1FOdmd2b1dhVGFKZzZzY0FCUWdjMGItV2lMU0xS?oc=5
-
-- 5 India-bound LPG ships stay anchored near Hormuz Strait - The Hindu
-  5 India-bound LPG ships stay
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTljWjVrb29jc3g1QUxkM19CRGh5dkJ2dUZ5R2tzdjZ4N21oOXc0WU5Va3Z5OHloVUE5NlRYV19WVXUtckNhRXh0ZzNUZEdIM3c0ajQyUUh0cUtCR2QxRU9MRGFlUHZwazRnMlFHQnhRVGd5TDg2YVR2QktjZnVCdmlDVHJSNDVOWTR0NEFrOE1feWdGUXBVdFo4ZVJtNDhidUFPalF6Nk5lUVVyM0lDZFllckNUQdIBvAFBVV95cUxOaHFMQU54U0YtMTh2WjBNR2Q3TVFHaElic3NnR0k3WkF5TS1OMmEyTGNSVXIxbmNhbzlPVUxreUllVkl0T1hwSW00RkltMFROckE4ZEZWS0xNZzgtTU9LSDItQkNfdEw3OGs5emZWeEstSXJwN29jbUxQVHVjQk1mUHZkTTMtOVYtak9hZjNDbkhELTVQY2JWdkNzWjVLUzBKNWd5OUpJMG9CXzlwTWN3ZVNIcmMwckd5RDB4aQ?oc=5
+- NCLAT dismisses BSE pleas challenging NCLT’s power to defreeze demat accounts in insolvency cases
+  NCLAT dismissed BSE’s appeals against NCLT orders to defreeze demat accounts of insolvent firms. Tribunal said dues leading to account freezes qualify as debt, allowing resolution professionals
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nclat-dismisses-bse-pleas-challenging-nclts-power-to-defreeze-demat-accounts-in-insolvency-cases/articleshow/129877891.cms
 
 - IE100: The list of most powerful Indians in 2026 - The Indian Express
   The Indian Express is one of the country's
@@ -172,33 +152,13 @@
   India Denies Reports Of Musk Joining Trump-PM
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- India news: Government cuts excise duties on petrol, diesel - dw.com
-  India cuts excise duties on petrol,
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmEyN0pFVVUxeXV6MTY2eXNqREUyeEhnSmhtSk5JdG00TDVORTNtX1RTUEtUTS1odzNodTctZmg4UmpIcTVReElVeHZpSFNwZ1FyajczeDUyWHhkQ3J0ZHM3UXZFckU2UWJjZm9Na29weDJSbWl3b0pQSmxfMWlGMjFSV1FOdmd2b1dhVGFKZzZzY0FCUWdjMGItV2lMU0xS?oc=5
+- PM Modi in Mann Ki Baat urges people not to be misled by rumours and trust information given by government - News On AIR
+  PM Modi in Mann Ki Baat urges people not to be misled by rumours.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm1NRUN6dVlsNm9oMm96Um5PWjBtWDZaUkIteDJyN1lKMjdFVDdGek51TlBqUk8xU3BJb0xhOFg1Q3hEY2pvSElyRkc4WFlOQUU5bjhNYXQ0TVJ6M0s2cEhEZmlBaFN6QnZ1LTZKMDRHRGlLSllvOUZjU1dMMGtWN2EzTnVOSnAwX19vdHNEMm5hYXJ0YmpwSzJiNDF6ekNyT1RFZ2NTbWh6U0k?oc=5
 
-- 5 India-bound LPG ships stay anchored near Hormuz Strait - The Hindu
-  5 India-bound LPG ships stay
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTljWjVrb29jc3g1QUxkM19CRGh5dkJ2dUZ5R2tzdjZ4N21oOXc0WU5Va3Z5OHloVUE5NlRYV19WVXUtckNhRXh0ZzNUZEdIM3c0ajQyUUh0cUtCR2QxRU9MRGFlUHZwazRnMlFHQnhRVGd5TDg2YVR2QktjZnVCdmlDVHJSNDVOWTR0NEFrOE1feWdGUXBVdFo4ZVJtNDhidUFPalF6Nk5lUVVyM0lDZFllckNUQdIBvAFBVV95cUxOaHFMQU54U0YtMTh2WjBNR2Q3TVFHaElic3NnR0k3WkF5TS1OMmEyTGNSVXIxbmNhbzlPVUxreUllVkl0T1hwSW00RkltMFROckE4ZEZWS0xNZzgtTU9LSDItQkNfdEw3OGs5emZWeEstSXJwN29jbUxQVHVjQk1mUHZkTTMtOVYtak9hZjNDbkhELTVQY2JWdkNzWjVLUzBKNWd5OUpJMG9CXzlwTWN3ZVNIcmMwckd5RDB4aQ?oc=5
-
-- IE100: The list of most powerful Indians in 2026 - The Indian Express
-  The Indian Express is one of the country's
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3JIX1BDMjZJNlR3WUZOLUc4d01DYUduaEFSak1oNWFyclgtYUUySGhiS2hSM2gyQ0ZpYTZrX0w5aHo1VmduOV82TThjdHluci1wUlFXUWdZSEZtd09pdDFrZ0VkNmNHTlhXWGNPZU9mdjJmSWExRzdlb0lPOVlQVzJqbTU5U0R5VFRtdnYtOWJZblVUYWM4S19jVnAtQdIBpAFBVV95cUxQUjdmcUJwMUJPRTRxU2ZxRWZ0VkpQXzd3VHBtMS1kTWpnME9CS0t4dWNVRjBwUl96R0d3MXhucnJ6Z1lOVFJPMVpObzU3bjQ5WE9LUUp0c1h5VTVlX2lmSFpPM2xzN05ZRUNBTnpXTE8yZ1lfQ1RTLW9zazBpaU04SEZsMzZaVnNLSTg0YlhsTE9IYnhPMDh0Z2loc25zU0xxWEc2Yg?oc=5
-
-- 'Petrol, diesel crisis developing worldwide': PM Modi cautions during 132nd Mann ki Baat - The Times of India
-  'Petrol, diesel crisis developing worldwide': PM Modi cautions during
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNODNZMG85VnZfd256dTd3MUd6OTFTQTJNaWtUQjNpaGJ5TEhWdHdsX2pWODdsb2h5VXljd2t6UXhMM24ycGwybE8weENrblNwQlFQSnlrTTRNTmtlMGRCRGdWN1ZFY01mdE5tMW1iVDJ0QzBBRFBiT210VHBZVnBBUjBNNjRKS19qZURDX0tFVHM0VXdubzByU2ZqU2czbzdXQXVybnU3UEgyUGFISnhpNFlfRW0wLTdmZEZUMmdESWNqaWR4UmdLOFpXVU5LNkRuQWktVzgzb0VmVjEwRGVYal9sOTh3Z0HSAewBQVVfeXFMTTFPVXJYTlF5OEF0bko1RjE1bkE1TFpsc2dPT2IxOVp1WHlNT3lfY2ZBSUxidTEzeDdIUGVGTTljU1NwQUhYdGIzbmd3dnZDN2tfcy1DU3BBSDk2NWc5cjhhSE9PRU1Zc1Z0RktXbU1KcVNaN2ZTRXJwRVlZekpvdHRiQ0dFOERuTWJreFU3SmNmWlBMeWE0YnFzbDFYOGN6WjVMV0Z5N2hMSHNGY1dFRllBYTBiczhiZXVJY2ItZmVrVzlzRUN5YVBpeHVNNGIxSDQ0ek0wV1VKejg1dGU5a21oR1pOVGc3MjRnR00?oc=5
-
-- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
-  India Denies Reports Of Musk Joining Trump-PM
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
-
-- India news: Government cuts excise duties on petrol, diesel - dw.com
-  India cuts excise duties on petrol,
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmEyN0pFVVUxeXV6MTY2eXNqREUyeEhnSmhtSk5JdG00TDVORTNtX1RTUEtUTS1odzNodTctZmg4UmpIcTVReElVeHZpSFNwZ1FyajczeDUyWHhkQ3J0ZHM3UXZFckU2UWJjZm9Na29weDJSbWl3b0pQSmxfMWlGMjFSV1FOdmd2b1dhVGFKZzZzY0FCUWdjMGItV2lMU0xS?oc=5
-
-- 5 India-bound LPG ships stay anchored near Hormuz Strait - The Hindu
-  5 India-bound LPG ships stay
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTljWjVrb29jc3g1QUxkM19CRGh5dkJ2dUZ5R2tzdjZ4N21oOXc0WU5Va3Z5OHloVUE5NlRYV19WVXUtckNhRXh0ZzNUZEdIM3c0ajQyUUh0cUtCR2QxRU9MRGFlUHZwazRnMlFHQnhRVGd5TDg2YVR2QktjZnVCdmlDVHJSNDVOWTR0NEFrOE1feWdGUXBVdFo4ZVJtNDhidUFPalF6Nk5lUVVyM0lDZFllckNUQdIBvAFBVV95cUxOaHFMQU54U0YtMTh2WjBNR2Q3TVFHaElic3NnR0k3WkF5TS1OMmEyTGNSVXIxbmNhbzlPVUxreUllVkl0T1hwSW00RkltMFROckE4ZEZWS0xNZzgtTU9LSDItQkNfdEw3OGs5emZWeEstSXJwN29jbUxQVHVjQk1mUHZkTTMtOVYtak9hZjNDbkhELTVQY2JWdkNzWjVLUzBKNWd5OUpJMG9CXzlwTWN3ZVNIcmMwckd5RDB4aQ?oc=5
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - NDTV
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
 
 - IE100: The list of most powerful Indians in 2026 - The Indian Express
   The Indian Express is one of the country's
@@ -212,13 +172,13 @@
   India Denies Reports Of Musk Joining Trump-PM
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- India news: Government cuts excise duties on petrol, diesel - dw.com
-  India cuts excise duties on petrol,
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmEyN0pFVVUxeXV6MTY2eXNqREUyeEhnSmhtSk5JdG00TDVORTNtX1RTUEtUTS1odzNodTctZmg4UmpIcTVReElVeHZpSFNwZ1FyajczeDUyWHhkQ3J0ZHM3UXZFckU2UWJjZm9Na29weDJSbWl3b0pQSmxfMWlGMjFSV1FOdmd2b1dhVGFKZzZzY0FCUWdjMGItV2lMU0xS?oc=5
+- PM Modi in Mann Ki Baat urges people not to be misled by rumours and trust information given by government - News On AIR
+  PM Modi in Mann Ki Baat urges people not to be misled by rumours.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm1NRUN6dVlsNm9oMm96Um5PWjBtWDZaUkIteDJyN1lKMjdFVDdGek51TlBqUk8xU3BJb0xhOFg1Q3hEY2pvSElyRkc4WFlOQUU5bjhNYXQ0TVJ6M0s2cEhEZmlBaFN6QnZ1LTZKMDRHRGlLSllvOUZjU1dMMGtWN2EzTnVOSnAwX19vdHNEMm5hYXJ0YmpwSzJiNDF6ekNyT1RFZ2NTbWh6U0k?oc=5
 
-- 5 India-bound LPG ships stay anchored near Hormuz Strait - The Hindu
-  5 India-bound LPG ships stay
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTljWjVrb29jc3g1QUxkM19CRGh5dkJ2dUZ5R2tzdjZ4N21oOXc0WU5Va3Z5OHloVUE5NlRYV19WVXUtckNhRXh0ZzNUZEdIM3c0ajQyUUh0cUtCR2QxRU9MRGFlUHZwazRnMlFHQnhRVGd5TDg2YVR2QktjZnVCdmlDVHJSNDVOWTR0NEFrOE1feWdGUXBVdFo4ZVJtNDhidUFPalF6Nk5lUVVyM0lDZFllckNUQdIBvAFBVV95cUxOaHFMQU54U0YtMTh2WjBNR2Q3TVFHaElic3NnR0k3WkF5TS1OMmEyTGNSVXIxbmNhbzlPVUxreUllVkl0T1hwSW00RkltMFROckE4ZEZWS0xNZzgtTU9LSDItQkNfdEw3OGs5emZWeEstSXJwN29jbUxQVHVjQk1mUHZkTTMtOVYtak9hZjNDbkhELTVQY2JWdkNzWjVLUzBKNWd5OUpJMG9CXzlwTWN3ZVNIcmMwckd5RDB4aQ?oc=5
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - NDTV
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
 
 - IE100: The list of most powerful Indians in 2026 - The Indian Express
   The Indian Express is one of the country's
@@ -232,33 +192,61 @@
   India Denies Reports Of Musk Joining Trump-PM
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- India news: Government cuts excise duties on petrol, diesel - dw.com
-  India cuts excise duties on petrol,
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmEyN0pFVVUxeXV6MTY2eXNqREUyeEhnSmhtSk5JdG00TDVORTNtX1RTUEtUTS1odzNodTctZmg4UmpIcTVReElVeHZpSFNwZ1FyajczeDUyWHhkQ3J0ZHM3UXZFckU2UWJjZm9Na29weDJSbWl3b0pQSmxfMWlGMjFSV1FOdmd2b1dhVGFKZzZzY0FCUWdjMGItV2lMU0xS?oc=5
+- PM Modi in Mann Ki Baat urges people not to be misled by rumours and trust information given by government - News On AIR
+  PM Modi in Mann Ki Baat urges people not to be misled by rumours.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm1NRUN6dVlsNm9oMm96Um5PWjBtWDZaUkIteDJyN1lKMjdFVDdGek51TlBqUk8xU3BJb0xhOFg1Q3hEY2pvSElyRkc4WFlOQUU5bjhNYXQ0TVJ6M0s2cEhEZmlBaFN6QnZ1LTZKMDRHRGlLSllvOUZjU1dMMGtWN2EzTnVOSnAwX19vdHNEMm5hYXJ0YmpwSzJiNDF6ekNyT1RFZ2NTbWh6U0k?oc=5
 
-- 5 India-bound LPG ships stay anchored near Hormuz Strait - The Hindu
-  5 India-bound LPG ships stay
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTljWjVrb29jc3g1QUxkM19CRGh5dkJ2dUZ5R2tzdjZ4N21oOXc0WU5Va3Z5OHloVUE5NlRYV19WVXUtckNhRXh0ZzNUZEdIM3c0ajQyUUh0cUtCR2QxRU9MRGFlUHZwazRnMlFHQnhRVGd5TDg2YVR2QktjZnVCdmlDVHJSNDVOWTR0NEFrOE1feWdGUXBVdFo4ZVJtNDhidUFPalF6Nk5lUVVyM0lDZFllckNUQdIBvAFBVV95cUxOaHFMQU54U0YtMTh2WjBNR2Q3TVFHaElic3NnR0k3WkF5TS1OMmEyTGNSVXIxbmNhbzlPVUxreUllVkl0T1hwSW00RkltMFROckE4ZEZWS0xNZzgtTU9LSDItQkNfdEw3OGs5emZWeEstSXJwN29jbUxQVHVjQk1mUHZkTTMtOVYtak9hZjNDbkhELTVQY2JWdkNzWjVLUzBKNWd5OUpJMG9CXzlwTWN3ZVNIcmMwckd5RDB4aQ?oc=5
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - NDTV
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
 
-- Opinion | Technology Weakens Our Minds. It’s Time to Resist. - The New York Times
-  The New York Times published an op-ed piece on
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaW1waElENEgzMlF5bnpkbzl2c3lfYlcyRFFZRkpnaGpNWTMxY2V1b0ZzbzZSblVUWDNfVmhCY2NxNm1JYlQ1QnBERy1lV19MZHNiSm5vbnlBa0RkNERuMmE0eDM2YkVuN2tKSTBaNF9Cb0lSQlFrZ1J0U0NrUllWd3ZTbnIwa0ZHSzhF?oc=5
+- IE100: The list of most powerful Indians in 2026 - The Indian Express
+  The Indian Express is one of the country's
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3JIX1BDMjZJNlR3WUZOLUc4d01DYUduaEFSak1oNWFyclgtYUUySGhiS2hSM2gyQ0ZpYTZrX0w5aHo1VmduOV82TThjdHluci1wUlFXUWdZSEZtd09pdDFrZ0VkNmNHTlhXWGNPZU9mdjJmSWExRzdlb0lPOVlQVzJqbTU5U0R5VFRtdnYtOWJZblVUYWM4S19jVnAtQdIBpAFBVV95cUxQUjdmcUJwMUJPRTRxU2ZxRWZ0VkpQXzd3VHBtMS1kTWpnME9CS0t4dWNVRjBwUl96R0d3MXhucnJ6Z1lOVFJPMVpObzU3bjQ5WE9LUUp0c1h5VTVlX2lmSFpPM2xzN05ZRUNBTnpXTE8yZ1lfQ1RTLW9zazBpaU04SEZsMzZaVnNLSTg0YlhsTE9IYnhPMDh0Z2loc25zU0xxWEc2Yg?oc=5
 
-- ISRO technology being sold cheaply to private firms, Parliamentary panel finds - WION
-  ISRO technology being sold cheaply to private firms
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxONlc0Snhtck0wVUJZRWxlbGdjX0JJdHNxMkYySVZFamlmSGV1bEEzamRkOGFUdzI3b0YxVUFaUGFGMzQ2U29SY3JXZnh3RTVTV1ZaWTZaMjd3bFM2Y2NMMnRoN3ZfVkNaVEFMQVlKSFI2aUZ4NzdQc196OHV0c0huOEc5SkVPWUV0ZzNoQzg5WU56REZJUHlORUNvajRsamZuZXNNSDhSdFNIOWVSMVcwcEV0UE9ubUtTbjIzNkEwdDBCMVp40gHKAUFVX3lxTFBjTThHclEzYzJvZEtLSGdMMHAySVZ3WUpOcjhzODltNk1oNkFTSThRYTBET0N0eEVhdUsyRDd2ZVlOQVZEd0VVTXdmNGpseHloVXlURTVlWjFiUjRWcmx6UFNsUVdOSUpjTWNLQUZUaEpRZmxDamsxY0hQSm01eEhFa1JMRnN6RGpxZFJTQ29sSU5oTWlxX3pENkM0N0JtODJvWGJIS0NNejZkYTRfMTFQZEd6d0VfRlpnN1E4QnRCcmlDMjJ0OTVDQVE?oc=5
+- 'Petrol, diesel crisis developing worldwide': PM Modi cautions during 132nd Mann ki Baat - The Times of India
+  'Petrol, diesel crisis developing worldwide': PM Modi cautions during
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNODNZMG85VnZfd256dTd3MUd6OTFTQTJNaWtUQjNpaGJ5TEhWdHdsX2pWODdsb2h5VXljd2t6UXhMM24ycGwybE8weENrblNwQlFQSnlrTTRNTmtlMGRCRGdWN1ZFY01mdE5tMW1iVDJ0QzBBRFBiT210VHBZVnBBUjBNNjRKS19qZURDX0tFVHM0VXdubzByU2ZqU2czbzdXQXVybnU3UEgyUGFISnhpNFlfRW0wLTdmZEZUMmdESWNqaWR4UmdLOFpXVU5LNkRuQWktVzgzb0VmVjEwRGVYal9sOTh3Z0HSAewBQVVfeXFMTTFPVXJYTlF5OEF0bko1RjE1bkE1TFpsc2dPT2IxOVp1WHlNT3lfY2ZBSUxidTEzeDdIUGVGTTljU1NwQUhYdGIzbmd3dnZDN2tfcy1DU3BBSDk2NWc5cjhhSE9PRU1Zc1Z0RktXbU1KcVNaN2ZTRXJwRVlZekpvdHRiQ0dFOERuTWJreFU3SmNmWlBMeWE0YnFzbDFYOGN6WjVMV0Z5N2hMSHNGY1dFRllBYTBiczhiZXVJY2ItZmVrVzlzRUN5YVBpeHVNNGIxSDQ0ek0wV1VKejg1dGU5a21oR1pOVGc3MjRnR00?oc=5
 
-- 'Quantum computing talent should be used for good' - bbc.com
-  'Quantum computing talent should
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UURvVmo2YlBybTFaTzV0ZjFvaG5jT1lUNmE5eHVjY0RDWF9QeEhhTkxabUh4MjMtOG5ucEVLSExNM2FqQU5OUjRsTFd1QmJxQnJiX3VUMC1pQQ?oc=5
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- Students told to leverage technology, contribute to country’s scientific self-reliance - The Hindu
-  Students told to leverage technology, contribute to country
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQODNrV0dRdl8weVBaVUFYSVZtOEtHU0lRNHYzU3lSa2hLV2xQZUJZM3RKUmR1Z25aV2hlbDlkZ3NmcmJ3QnFPRFZXM3MzTjA3SldjZWMzYWk3VERneFdYbFpMUEF2WGVzQmZIeHM2NWQxUGNnX1Z0WUR2NkVWUFlGcWZWN0ZEaFdwdzJHWm9takFJLUlnY2swNEc2UUk3aGhBTkdLVjYwZWVud1FkZmhfVDh3dTd6ZmE1TVhGaDZFZzhtYTlIR1k4bDMzeUt2OVhqbmJkRDhqbzBCbWF2WHFubjU3bnpSQUZKYjdkYnJWVdIB9gFBVV95cUxNN29TNWlMdl83UkF3dHNjRDNiWkVYNWhfbDJ5cU1fMDJHXy0zalVpTnRaTE54d1JWZmdiX2ZmZnRiLS1BamFmWXdqSEVQWUI2X0tjRm43QWJQdDlOUkJ5ZmlOcV9VLWVIdl9nRmlBc050MmRCMkE5S093dG0yT0VXZm94Q1NNU2FtSFhfeFdQRXdOX3VlYjJXUW5FRlJ6Qy1Ob0pWNTh2M0pTMnphQjRrVldrOVc5MC1haHRxY0JOU2doUzJ3VTA3N2pkWGctbDE0SGtBOE9hQ2JvTVlQTll3bWxjc202XzdXcUM4eUFNdXAwaTFMdVE?oc=5
+- PM Modi in Mann Ki Baat urges people not to be misled by rumours and trust information given by government - News On AIR
+  PM Modi in Mann Ki Baat urges people not to be misled by rumours.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm1NRUN6dVlsNm9oMm96Um5PWjBtWDZaUkIteDJyN1lKMjdFVDdGek51TlBqUk8xU3BJb0xhOFg1Q3hEY2pvSElyRkc4WFlOQUU5bjhNYXQ0TVJ6M0s2cEhEZmlBaFN6QnZ1LTZKMDRHRGlLSllvOUZjU1dMMGtWN2EzTnVOSnAwX19vdHNEMm5hYXJ0YmpwSzJiNDF6ekNyT1RFZ2NTbWh6U0k?oc=5
 
-- Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence) - The Guardian
-  Number of AI chatbots ignoring human instructions increasing, study says.
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXI3UGo1cW5fREpzZzB2alZoT0R2dnM4RjRMLWZQbmJuclpPLURBamNUdXhVYUJFM0d2cEpiOG5EN2VjVVhQV2pQUWl3QU5EMGpGLTd1elZ0RzJYOUpSZFFvR3VFcC1jVWZvMmVTMEZWTFRyREVHSFdhVFFtSVYxWE9sek9MTHFRQ3hnTUxpYjBKOThkbVNCcGpGVnRHS1VUQUxvVlFITHVWVG41TmlEdmdsNTgxNURNZUdPRWJBcw?oc=5
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - NDTV
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-29 07:01:50 UTC_
+_Last updated: 2026-03-29 12:45:45 UTC_
