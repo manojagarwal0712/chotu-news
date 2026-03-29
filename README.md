@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Farooq Abdullah attack sparks outrage in J&K Assembly – ‘Grave security lapse’
+- ‘Wounds get opened again’: In Assembly, Sajad Lone draws parallel between Farooq Abdullah attack and his father’s assassination
   
-  🔗 https://indianexpress.com/article/india/farooq-abdullah-attack-sparks-outrage-in-jk-assembly-grave-security-lapse-10606826/
+  🔗 https://indianexpress.com/article/india/wounds-get-opened-again-in-assembly-sajad-lone-draws-parallel-between-farooq-abdullah-attack-and-his-fathers-assassination-10606969/
 
-- Railways upgrades 161-year-old Yamuna Bridge in Uttar Pradesh, train services to improve on key routes
+- Translocated Bandhavgarh tigress poisoned and buried in MP’s Chhindwara; five arrested for retaliatory killing
   
-  🔗 https://indianexpress.com/article/india/railways-upgrades-161-year-old-yamuna-bridge-in-uttar-pradesh-train-services-to-improve-on-key-routes-10606783/
+  🔗 https://indianexpress.com/article/india/radio-collared-tigress-poisoned-buried-in-mp-5-arrested-in-chhindwara-10606912/
 
-- Odisha BJP MLA fires during Ram Navami procession; case registered
+- LPG crisis, lockdown rumours and an exodus from Surat: Why many Odia migrants are back home
   
-  🔗 https://indianexpress.com/article/india/odisha-mla-fires-psos-weapon-ram-navami-procession-case-registered-10606800/
+  🔗 https://indianexpress.com/article/india/lpg-crisis-forces-odisha-migrants-to-return-home-from-surat-in-droves-10606911/
 
-- Hazaribagh on edge after rape-murder of 12-year-old who stepped out to watch Ram Navami procession
+- How Maharashtra’s Gadchiroli is turning ‘pujaris’ into allies in the fight against malaria
   
-  🔗 https://indianexpress.com/article/india/hazaribagh-rape-murder-12-year-out-watch-ram-navami-procession-10606772/
+  🔗 https://indianexpress.com/article/india/maharashtra-gadchiroli-pujaris-allies-fight-against-malaria-10606959/
 
-- Churn in Uttarakhand as 2 former MLAs from BJP, 1 from BSP jump ship to Congress
+- Second call since war began: Modi, Saudi Crown Prince discuss West Asia conflict
   
-  🔗 https://indianexpress.com/article/india/uttarakhand-ex-bjp-bsp-mlas-join-congress-10606758/
+  🔗 https://indianexpress.com/article/india/second-call-since-war-began-modi-saudi-crown-prince-discuss-west-asia-conflict-10607033/
 
 - Why earning more won’t always make you happier, according to science
   
@@ -41,11 +41,11 @@
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-halts-sd-cfexpress-card-orders-amid-global-memory-shortage-10606313/
 
 - Vijaypat Singhania, former MD of Raymond Group, dies at 87
-  Vijaypat Singhania, former MD of Raymond Group, passed away at 87. His son Gautam Singhania desribed father as �
+  Vijaypat Singhania, former MD of Raymond Group, passed away at 87. Son Gautam Singhania described father as ‘vision
   🔗 https://www.livemint.com/companies/vijaypat-singhania-former-md-of-raymond-group-dies-at-87-11774718167428.html
 
-- Jubilant FoodWorks says stores impacted by LPG supply shortage amid West Asia war: What we know
-  Jubilant FoodWorks said that certain parts of its store network, which includes Domino's Pizza and Dunking Donuts have been impacted by the shortage
+- Jubilant FoodWorks says impact of LPG supply shortage limited amid West Asia war
+  Jubilant FoodWorks said certain parts of its store network, which includes Domino's Pizza and Dunking Donuts have been impacted by the shortage
   🔗 https://www.livemint.com/companies/news/jubilant-foodworks-network-stores-dominos-pizza-dunkin-donuts-impact-lpg-supply-shortage-west-asia-war-move-electric-png-11774709426356.html
 
 - Google sued by Epstein survivors for refusing to remove AI Mode results exposing their identities
@@ -59,6 +59,10 @@
 - KPMG plans to lay off hundreds of workers — who is likely to be impacted? Everything we know so far
   KPMG's UK unit has alerted nearly 600 audit employees about potential layoffs. Here are the roles that will
   🔗 https://www.livemint.com/companies/news/kpmg-plans-to-lay-off-hundreds-of-workers-who-is-likely-to-be-impacted-everything-we-know-so-far-11774667641106.html
+
+- SBI Funds Management IPO plan: How its mutual fund business rose to the top
+  SBI Mutual Fund, India’s largest fund house, has a growth tailwind. Its
+  🔗 https://www.livemint.com/market/ipo/sbi-mutual-fund-ipo-plan-how-it-became-india-largest-fund-house-11774687453377.html
 
 - Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 30 March 2026
   Sumeet Bagadia recommends three stocks to buy on Monday — ONGC, TCS, and Bh
@@ -75,10 +79,6 @@
 - Treasury Yields at Year’s High Lure Buyers, Snap Link to Oil
   A Treasury market selloff stalled as investors, doubtful that the energy crisis will lead the Federal Reserve to raise interest rates.
   🔗 https://www.livemint.com/market/treasury-yields-at-year-s-high-lure-buyers-snap-link-to-oil-11774677698157.html
-
-- Tesla, NVIDIA, Microsoft to Apple: Magnificent 7 stocks market cap crashes $1.72 trillion during US-Iran war
-  US stock market: Coined in 2023 by BofA
-  🔗 https://www.livemint.com/market/stock-market-news/tesla-nvidia-microsoft-to-apple-magnificent-7-stocks-market-cap-crashes-1-72-trillion-during-us-iran-war-us-stocks-11774666243371.html
 
 - Meta readies two prescription-supported Ray-Ban AI glasses, set to launch next week: Report
    Meta plans to launch two new Ray-Ban smart glasses next week. The glasses will be available in rectangular and rounded styles
@@ -100,26 +100,6 @@
   New US pricing will set the standard Sony PlayStation 5 at $649.
   🔗 https://www.livemint.com/industry/retail/sony-to-raise-playstation-5-price-to-offset-soaring-memory-chip-costs-heres-how-much-it-will-cost-now-11774627103251.html
 
-- Stock Market News, March 27, 2026: Dow Falls 793 Points, Landing in a Correction - WSJ
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFVrc2xHRktFUVl4Q3daZTltMnRDQ29CcUZzTEpQbG5lamJydVN2WU1WeTNLX19mYnhwN21tbkpNeFpVXzF6ZDVKb2hXcVNaOXNLTHE0dC11Q0RRUU9hZGNXMjBRWHdIR2
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFVrc2xHRktFUVl4Q3daZTltMnRDQ29CcUZzTEpQbG5lamJydVN2WU1WeTNLX19mYnhwN21tbkpNeFpVXzF6ZDVKb2hXcVNaOXNLTHE0dC11Q0RRUU9hZGNXMjBRWHdIR2FfTW1jc0NpbkRxSDRZa2JleEhENDgxd2xmVGp4aFU?oc=5
-
-- Silver lining to market crash? Analysts say Nifty now at fair valuations after 9% March selloff; what lies - economictimes.com
-  Nifty now at fair valuations after 9% March selloff; what lies
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPOXNTdnpzb1NDbXNLa0hEOGQzY291eGFMcmNFZkszazFjc1FoSHdGWExjbXNuYjBWVnhSU202QmZqcUl2MGNXX3JqM2JabzBnRUlORlRXVmpuNHVFTG5pNlhLaUNUenVyNDg2TUV2a0RNQk1aOWhzVjhjUGNwOThabFh0VkRMbTZFenpxcE4xai05TEM1Y3BoZkhFQ3VvTmQwUFIxNHdkV0FNQTRoQ0YyYUZ0UlVabVoxQWpvNVRCbEstTU13blljUGNXRU56VFJYVURfbTJpU29QTTNiNXNyY0RHdHNaenNmS2phTlc0SVJLeDViWGlZSHBGWVFqS0w4bXZpM1Frd3ZqZVhHQVVjMdIBlgJBVV95cUxOT2YtZGlhV2daX1llNHV1ZVA4RXk4U1Q1VHN6Njd2eDBJUEpZOGgzMktZT3Z6ODNtWXU5Tm1PNHNkbmRHQVZOQWxRanN3cW1TVHAxa1Q1ODBSZmFLVHJfbDUzdE1iWUhpUUMwMnhBZGk1ZzFsSG9MaUZKc0VGdmhJQy10blZZZ2NYZUZvLXBxVDZNMHdqZ1ZoeG1VbnhDUjh6dS1fUDFFeUJMVnd1UGZZekJMdDFHa3Q2WFQ2eEdGUC1aTWs2cm45NDE5dlUzeVFCWGxPRVhPSm9QTGFWZWJWSUpUaTYzUFotRUMxS2paakdSekRSMEhsQzZtMUF3V0Z2dmxJdllzSVlORHQ3NnFnWjYzMDF5QQ?oc=5
-
-- What is the real cost of betting on weather catastrophes? - Aeon
-  What is the real cost of betting on
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVlqSGpaN2VMRndyUnoxWm1RQ3J0TnVWUVJPV0ltdU40Um5zWGxkT2UtMUUzWGNfOGVRaEViVjlvX3JZb21GNlNkc1lsRTZDRFFfREVLMW5VUGcyZ2M2Zk5YcXB0TVZzUW5qbzgybWZjMi15ME9Ba3B5UzhhcF9qZFhtZXllQQ?oc=5
-
-- 4 weeks into US-Israel-Iran war: Brent Crude up 45%, NIFTY & SENSEX fall over 9%, wiping out over ₹40 lakh crore in market cap - Upstox
-  4 weeks into US-Israel-Iran war: Brent Crude up 45%, NIFTY & SENSE
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOQjZqa3VkcVJHSi1OS2Z4d3lPc1RrSzRKZlc3Mld0ZEh4cGwwc2owN0x6dS1RUU5GTy1KekpzTFZuOU9LcDN6a09IOXBvNHNUaU15V2o3ZmprRHFKeFQ5ZVNYNnBOcXNHY3BXZk93ODFQb3otSUtlZ3VERlp0RV9ZSk9aZ0lwajRfd1VSSWZ6MDVIVXRPdFZkY25ZTmtrZXZEaEZYSXExR1ZmMjBkcHRucmVkX1R4STVZXzdYNE5nMHNiZllVTS1aRGhzdlBURlNOYzBlSVpKVDBQbjRndEx3X1dxb2ZGMGRONjFfMy1uZUxBSnNXbXcxUFpHVHNrUXhqUk5KeG9n?oc=5
-
-- Asia markets trade mixed as murky U.S.-Iran peace deal prospects keep investors on edge - CNBC
-  Asia markets trade mixed as murky U.S.-Iran peace
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOd21ESEhJU00zazlWSzFDV1FmMlAzZU9BanBOMTdhNkw2X0VKMGE2cU9RME5HcFFIaDE1NTBVc2tudnNMR0Z4SGF4Nmg2aXhSQndBNDdYTXRyUExOV0FKLWJrajB6MGRkbHVQcER1SllzYTFhaDV6a2xsRXBUWlNCQUI0VXZXc2tCSmNQclYzZEZrTlRWcW1CQmh4ONIBoAFBVV95cUxPX0FxWjc4RXE5RlpFYTVKUm5TOXJxamFBN0sySlhBcUIxQ0tYQ1F1cjRLZFctT3BUd2JIU3U1dDlLU29sa2FubjVFcDF0VThzN1pKam8xa1p5SFFKYmR1ZDh5enFzaEI4NEtocjBITDRPNURocDZUQkQ1ZkpzMXBINGxwS0ZSRkUydWNIUkgyUmFpQmRlSEZRRjB3bWtLTDJC?oc=5
-
 - FIIs sell Indian equities worth Rs 1.14 lakh crore in March; 2026 outflow balloons to Rs 1.27 lakh crore
   Foreign institutional investors (FIIs) offloaded domestic equities worth Rs 1,13,810 crore in March. So far, this year,
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-1-14-lakh-crore-in-march-2026-outflow-balloons-to-rs-1-27-lakh-crore/articleshow/129864121.cms
@@ -140,113 +120,45 @@
   Markets are experiencing sharp swings due to global tensions. Experts advise against selling, suggesting this is a time to buy in small parts. Investors should deploy capital gradually over the next few months.
   🔗 https://economictimes.indiatimes.com/markets/expert-view/volatility-throws-up-opportunity-but-patience-key-says-sameer-dalal/articleshow/129861603.cms
 
-- "Pak In Denial": India Backs Bangladesh As It Seeks Justice For 1971 Genocide - NDTV
-  "Pak In Denial": India Backs Bangladesh As
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkI5bVFSOGFOQ3pGeExJWUpwaEdmMjRpcDdWbXVFdmg0V05xcUZmbm5MdkdJVWYwaWRxdE5sVmIzU0NsSTZxR05zeXFHdjktbks0U1cya0drTEU3QjNwbncwMUthejhlaGFJd2tLRWFfRjBKU00yVFd4eW1ORFV1UDBrdXc0U3NscEhrZmdHUjJ2RG41aWVCbDlKS1R5a0NpQ3JXcGpuR3VwcDNXS0d0RTVzRkZVR25fNi1RWNIBxAFBVV95cUxOZVBVNTdUWlNzckVicTBKdnhXWGJCaVdXcjI4dWo1QXlHWmFMbDNkb0ZjQndYbS03ajRvSlZJckoxcTZKRE1kRm0zUndvNmRnS1c1elo0RDQ3ZWhrZkl2OUpSTktQM1dQajlLZFpZUkJaYWVjd0h6RW9DQkdPVFhTMEFPaXc2VXdIc1NoOWNLLTJhT01JZmhiSC0zRHBVSDhIWFRUV2N3cnFLY3NjZHdrWmcxZkJaS0loWmtKUUd0YzBEbTA4?oc=5
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - ndtv.com
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- 'Lockdown in India rumours completely false': Govt breaks silence amid speculation | India News - Hindustan Times
-  'Lockdown in India rumours completely false': Govt breaks silence
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbllaSXhJVExmRE9WQTVkUzFudXFfdTlCQ01zeU9mWnh6RVNJcHBCMVM2WnNHTHBjazFzMFRKbVp1T1RXakcwVWZiNnBVbHdrdkE2anBJTXB1cWhCU3FJS2NvRG4xc1E0SmcxWjM4Q09JYkpyVzJvbTA1RTMyQi0wTEhmazQ4SEs1X2puX21Cd0pnaWs2M2Qxc2p4eWs0SDRPUjhnOGFEYlRNa29kelc0VVNQblhORVExSjNnSDR2NFpQOEQ2a2lXOEQ2Zkp4Q3FXMzhBdjNTM2FHanNseDJ2aUZvYzlwd9IB6wFBVV95cUxQdzY0NWh3eVRjX1VadTdBcVE4cUFHVEp4SlRQRU9YMkRXeUh5d3pEZWJLVzZ2eWRBNGtpOGtDV3JXbEotZ0hydEJwTW1xaWJFUVZGb2o5Z2g4RmR5eXN6dkNlWGdzNnhuLVBqdXoxYmhQb2RLd1loU19kdk9icnZHMWFEVm1FS2Q4UVVZRTFnMzIyZFc2akpQVVAzRGlIWmU5YUdhUkZMMnl5UXJhd0ZqS2VISjFJZlFPZGV0Tm5Cek5kMVAyd2xqSU9LdWxrUHRQdFA5c2hwTHN1blNic01CUXhzSlgtM3lXYm44?oc=5
+- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
+  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
 
-- Breaking News Live March 28: EC publishes second supplementary voter list in Bengal - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ZmR09sZVROTy1jMFFrMk1WSHZndXo1RmtoMmlPTmo2Y3BBVUxtcmZhNXFYeGMySFVCdm1WMjUwblhfTnJ1UFRrUHcwLVk0WWcwcERVdHRXMGtDNUdSYWZxZUhVb2x3YmJhTnl4SnZ2em1mTzl6MTJNODdSbmkwYTlzMTUycW1ZY0t6bG9jRWh5T1l5TXhKOVlRMjJwRFpzUjVKWUhzTXZtOXZNVWVsM3h6MNIBuAFBVV95cUxPckI5Wk8wNE5JbF9TR0UyZTk2ZXZIWTNpSUlOZ3RweGJoVHY1SExFc1Q4cThIT2xwM2ktUjlZLWhuUk4yR2tOa1d3QkYzeXZkY2llTFNvMmdMUE95VERUX284bkhYbnpjMnhnNjRQUHVtVUxXbThER3N2OGJnQVJud1p0VFRZcVgzb0JFZGZpeXZzUmg0R0N0QW1XWU5TWlVsTV9LRjUwaV9yd1lFUUFMNTI2S1kxRG93?oc=5
+- US President Donald Trump Says India-US Ties Will Grow Stronger - News On AIR
+  US President Donald Trump Says India-US Ties
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkRLUDJ2d2VYRGVlSDhlUmsxbGxHMXJQaXM4Sjl0cW1QWTVHeW10UFFTYk1BVkpKdVp1a1BjQi11WE82VW45RVVBdS1paXMwY0NVTjN4LUt1a0pIYUlQUkpQQW5uQ2NJNWlBTElESEVYckhTVUxTdlZTSlN3OHVvTFVUc1JIZ0VzREdZUFU1ZnVmOXlEaXRsWA?oc=5
 
-- Air India discontinues operations on Delhi-Gaya route - The Times of India
-  Air India discontinues operations on Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0YzLVhDQkxqYmtxT1RBa2Y2cWN3akZYdUU1R0VNX1lRMGRvQk16amdJVkoyUElOSjhLVHZDazFGbkdObXR2Z1VyWXdEM25TZkxOUlN0VVV4V0JfaGhxS3lOcUJTVnM4VTF6RzRJc1JWSnl6aDZKTElXLW4zZnlOMm8ydVFXbE1hU3FQeVZ0UGoxRU9UVG1VRTFQWDlEMmNGUEpIanpYdl9tUG1DSllPNmxvVmNZMmsyeDNZbHIzdUpaLURq0gHKAUFVX3lxTE9VejJjRGdSdkEzMktwcDA5TmkzQU9UM0QyeEQ5d2MwblBhejJVaDRTdzE1UVdaZ2tCekFIS3ZiYkhlRXlscFUxYVlySnhMTGV2cHVqM1ctR3l5bTgxLXU2NWRlVFcyODk3cEZ1Wk1lQ01fQWR6QlRSbjNkcUthVFVRVHJKLTZGWGViUV9UaTZCYlNJdkNCeGw2aF9ZYjJYdUFFaUhLeVFqY1hmNXJJazFkdHBLclFoOG1IMk1BSW1OcGNUZm4xcVlBS1E?oc=5
+- LPG Gas Shortage in India News Live Update: 'Jag Vasant' carrying 47,000 tonnes of LPG reaches Gujarat's Vadinar port - The Times of India
+  'Jag Vasant' carrying 47,000 tonnes of LPG reaches Gujarat's Vadinar
+  🔗 https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNUZPUllPZFAydFdYLUEwTGd6amFXZVhYM3l4Z2Y1dkRjV2dxQkdLWHg4NHJUNU43X0pHTjZWbzFNS2JfNUg1angzXzhyeE9mLVZOMDVpNjVRcjZIVnRlNjBMT2pWQU5QclczSXJwVllWVWhHZUNNXy1pZDd2bnN6WVBLSFZaa2g3OVo3QTVVbUVqcWgteFB0QjlJYXhELUVkNFk1djMxdEFTaklXSEcyU0JGdjFnbnNHbUl5VDZVbkhva3g3czQ0UzhiUTdvR0YwS0FkazNubFpkZmh3OUw2VlU4cUplMmJfRkppV1pKeUJ0VVpnS3BLSm1mcUU3WncyWjNvZy1XakEzZjYzdUZVcU1IUDBnX1FIZmNGNG9HdFItZlNVLVl4ZUdWSjliWUpLTUZPUDJPR2Rsbm5XZVN4YnIwQ2xVVktMbzU5Y1ZNNjFrWG05VXltTW5fQzdqZS1TQmc?oc=5
 
-- Alva’s campus comes alive with colours of India - The Times of India
-  Alva’s campus comes alive with
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmJ2Xzd3MENYcVQxc2xjYi12ZmV1UjdoUzdwbWdIUFl3ZnBUUnhvOVU4Z3phRW1rcjFaQ1pKN1RVUzFleDQ0bVduZFBRczRhZmhhSjA3Vi1MUldBaTRSTlZCRnN0cGt6SFlUYU9xOVNnYmxYUG9HMWZkY2dZeWVfS3VaRnV4OUROS0FQVW9fYU1ELXpQRkNtMlBGdlFaNVE2SjNHdVhaY2QyZHI5RkV4QXR2VVhSUkZlT3g1M2lvMEXSAcYBQVVfeXFMTzhua1NDYUdfOWJld1p1cTdFejdWaWlyYUhCVVZDREZiV3hCOUZnZks4RTFTNHNORDBXUGZzcUtoWkFnMzNfMVhZU3hFUWQ2Q1VaVWhJNUEzbzlDbERhQ3JObHRSWGxiam5EV0cxczR6TzZJaF8yZmZicUFYMmlsb2tTR09wRnlzWmg4TUhQNm5tS1UxRmlyYnl3Tm43SEVYdXB5NWJxcERoc0JpTF82bjVRbjBWd29YVnhZaHJHa1Y5LXJKT2d3?oc=5
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - ndtv.com
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
 
-- "Pak In Denial": India Backs Bangladesh As It Seeks Justice For 1971 Genocide - NDTV
-  "Pak In Denial": India Backs Bangladesh As
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkI5bVFSOGFOQ3pGeExJWUpwaEdmMjRpcDdWbXVFdmg0V05xcUZmbm5MdkdJVWYwaWRxdE5sVmIzU0NsSTZxR05zeXFHdjktbks0U1cya0drTEU3QjNwbncwMUthejhlaGFJd2tLRWFfRjBKU00yVFd4eW1ORFV1UDBrdXc0U3NscEhrZmdHUjJ2RG41aWVCbDlKS1R5a0NpQ3JXcGpuR3VwcDNXS0d0RTVzRkZVR25fNi1RWNIBxAFBVV95cUxOZVBVNTdUWlNzckVicTBKdnhXWGJCaVdXcjI4dWo1QXlHWmFMbDNkb0ZjQndYbS03ajRvSlZJckoxcTZKRE1kRm0zUndvNmRnS1c1elo0RDQ3ZWhrZkl2OUpSTktQM1dQajlLZFpZUkJaYWVjd0h6RW9DQkdPVFhTMEFPaXc2VXdIc1NoOWNLLTJhT01JZmhiSC0zRHBVSDhIWFRUV2N3cnFLY3NjZHdrWmcxZkJaS0loWmtKUUd0YzBEbTA4?oc=5
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - ndtv.com
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- 'Lockdown in India rumours completely false': Govt breaks silence amid speculation | India News - Hindustan Times
-  'Lockdown in India rumours completely false': Govt breaks silence
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbllaSXhJVExmRE9WQTVkUzFudXFfdTlCQ01zeU9mWnh6RVNJcHBCMVM2WnNHTHBjazFzMFRKbVp1T1RXakcwVWZiNnBVbHdrdkE2anBJTXB1cWhCU3FJS2NvRG4xc1E0SmcxWjM4Q09JYkpyVzJvbTA1RTMyQi0wTEhmazQ4SEs1X2puX21Cd0pnaWs2M2Qxc2p4eWs0SDRPUjhnOGFEYlRNa29kelc0VVNQblhORVExSjNnSDR2NFpQOEQ2a2lXOEQ2Zkp4Q3FXMzhBdjNTM2FHanNseDJ2aUZvYzlwd9IB6wFBVV95cUxQdzY0NWh3eVRjX1VadTdBcVE4cUFHVEp4SlRQRU9YMkRXeUh5d3pEZWJLVzZ2eWRBNGtpOGtDV3JXbEotZ0hydEJwTW1xaWJFUVZGb2o5Z2g4RmR5eXN6dkNlWGdzNnhuLVBqdXoxYmhQb2RLd1loU19kdk9icnZHMWFEVm1FS2Q4UVVZRTFnMzIyZFc2akpQVVAzRGlIWmU5YUdhUkZMMnl5UXJhd0ZqS2VISjFJZlFPZGV0Tm5Cek5kMVAyd2xqSU9LdWxrUHRQdFA5c2hwTHN1blNic01CUXhzSlgtM3lXYm44?oc=5
+- Elon Musk joined Trump's call with PM Modi on Iran war earlier this week: Report - The Times of India
+  Elon Musk joined Trump's call with PM Modi on Iran war earlier this week
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNl9FbTE0NGF0NlNsS2hpa2dXNUNUN0l0SnFWMlllaUo2bWx2dWlZNTJDRElqaWhMSnJEQVV0OFA0NU1GaS1kYTBBdWViQUtQd2ZOTjJpVW9JTThEU1h2azNOaWdoZmkzblkwOVJTS2tkeFl0eEo3cjVsSDFwMWpmTVNoVkdGelBnZEpWQmowaGRyUUs4T19MUkRuYThQWDUtRFZ6eTFFNU9SenM2VFV3SWtUTjIzUUg4LWtsb25KbXhtNFlwWVBiVDFtR05oRldkSmZqUWoybVJfcWJhSnd30gHkAUFVX3lxTE5sMG16Z0J4eDFfVENIM3U2c091ME9XckFfZVZVZk5ZUUJjbFN4NFQyYmpDUFQzbnFnTllfY2p1LTJFSXpPWTg2SEoxQ1ppVXU0YjY0NGN6cDZqajRzdldTRE14VU9qcHFBTjhhYktwT2o0c0VXbWRPaUtsX0lsQzhMSnZBb3hPMHpmNlZvQXJZc3JNRUxHZ3M2VFR0UVhCSERRbGpqREdYZF9nMG9zclZzUUhqMkVkRUx0UW1WWDJvblpJRC1MUlo0NnliVklsRVRySzVvbTFIdnlQUEUwWU5nbVVZbw?oc=5
 
-- Breaking News Live March 28: EC publishes second supplementary voter list in Bengal - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ZmR09sZVROTy1jMFFrMk1WSHZndXo1RmtoMmlPTmo2Y3BBVUxtcmZhNXFYeGMySFVCdm1WMjUwblhfTnJ1UFRrUHcwLVk0WWcwcERVdHRXMGtDNUdSYWZxZUhVb2x3YmJhTnl4SnZ2em1mTzl6MTJNODdSbmkwYTlzMTUycW1ZY0t6bG9jRWh5T1l5TXhKOVlRMjJwRFpzUjVKWUhzTXZtOXZNVWVsM3h6MNIBuAFBVV95cUxPckI5Wk8wNE5JbF9TR0UyZTk2ZXZIWTNpSUlOZ3RweGJoVHY1SExFc1Q4cThIT2xwM2ktUjlZLWhuUk4yR2tOa1d3QkYzeXZkY2llTFNvMmdMUE95VERUX284bkhYbnpjMnhnNjRQUHVtVUxXbThER3N2OGJnQVJud1p0VFRZcVgzb0JFZGZpeXZzUmg0R0N0QW1XWU5TWlVsTV9LRjUwaV9yd1lFUUFMNTI2S1kxRG93?oc=5
+- US President Donald Trump Says India-US Ties Will Grow Stronger - News On AIR
+  US President Donald Trump Says India-US Ties
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkRLUDJ2d2VYRGVlSDhlUmsxbGxHMXJQaXM4Sjl0cW1QWTVHeW10UFFTYk1BVkpKdVp1a1BjQi11WE82VW45RVVBdS1paXMwY0NVTjN4LUt1a0pIYUlQUkpQQW5uQ2NJNWlBTElESEVYckhTVUxTdlZTSlN3OHVvTFVUc1JIZ0VzREdZUFU1ZnVmOXlEaXRsWA?oc=5
 
-- Air India discontinues operations on Delhi-Gaya route - The Times of India
-  Air India discontinues operations on Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0YzLVhDQkxqYmtxT1RBa2Y2cWN3akZYdUU1R0VNX1lRMGRvQk16amdJVkoyUElOSjhLVHZDazFGbkdObXR2Z1VyWXdEM25TZkxOUlN0VVV4V0JfaGhxS3lOcUJTVnM4VTF6RzRJc1JWSnl6aDZKTElXLW4zZnlOMm8ydVFXbE1hU3FQeVZ0UGoxRU9UVG1VRTFQWDlEMmNGUEpIanpYdl9tUG1DSllPNmxvVmNZMmsyeDNZbHIzdUpaLURq0gHKAUFVX3lxTE9VejJjRGdSdkEzMktwcDA5TmkzQU9UM0QyeEQ5d2MwblBhejJVaDRTdzE1UVdaZ2tCekFIS3ZiYkhlRXlscFUxYVlySnhMTGV2cHVqM1ctR3l5bTgxLXU2NWRlVFcyODk3cEZ1Wk1lQ01fQWR6QlRSbjNkcUthVFVRVHJKLTZGWGViUV9UaTZCYlNJdkNCeGw2aF9ZYjJYdUFFaUhLeVFqY1hmNXJJazFkdHBLclFoOG1IMk1BSW1OcGNUZm4xcVlBS1E?oc=5
+- LPG Gas Shortage in India News Live Update: 'Jag Vasant' carrying 47,000 tonnes of LPG reaches Gujarat's Vadinar port - The Times of India
+  'Jag Vasant' carrying 47,000 tonnes of LPG reaches Gujarat's Vadinar
+  🔗 https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNUZPUllPZFAydFdYLUEwTGd6amFXZVhYM3l4Z2Y1dkRjV2dxQkdLWHg4NHJUNU43X0pHTjZWbzFNS2JfNUg1angzXzhyeE9mLVZOMDVpNjVRcjZIVnRlNjBMT2pWQU5QclczSXJwVllWVWhHZUNNXy1pZDd2bnN6WVBLSFZaa2g3OVo3QTVVbUVqcWgteFB0QjlJYXhELUVkNFk1djMxdEFTaklXSEcyU0JGdjFnbnNHbUl5VDZVbkhva3g3czQ0UzhiUTdvR0YwS0FkazNubFpkZmh3OUw2VlU4cUplMmJfRkppV1pKeUJ0VVpnS3BLSm1mcUU3WncyWjNvZy1XakEzZjYzdUZVcU1IUDBnX1FIZmNGNG9HdFItZlNVLVl4ZUdWSjliWUpLTUZPUDJPR2Rsbm5XZVN4YnIwQ2xVVktMbzU5Y1ZNNjFrWG05VXltTW5fQzdqZS1TQmc?oc=5
 
-- Alva’s campus comes alive with colours of India - The Times of India
-  Alva’s campus comes alive with
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmJ2Xzd3MENYcVQxc2xjYi12ZmV1UjdoUzdwbWdIUFl3ZnBUUnhvOVU4Z3phRW1rcjFaQ1pKN1RVUzFleDQ0bVduZFBRczRhZmhhSjA3Vi1MUldBaTRSTlZCRnN0cGt6SFlUYU9xOVNnYmxYUG9HMWZkY2dZeWVfS3VaRnV4OUROS0FQVW9fYU1ELXpQRkNtMlBGdlFaNVE2SjNHdVhaY2QyZHI5RkV4QXR2VVhSUkZlT3g1M2lvMEXSAcYBQVVfeXFMTzhua1NDYUdfOWJld1p1cTdFejdWaWlyYUhCVVZDREZiV3hCOUZnZks4RTFTNHNORDBXUGZzcUtoWkFnMzNfMVhZU3hFUWQ2Q1VaVWhJNUEzbzlDbERhQ3JObHRSWGxiam5EV0cxczR6TzZJaF8yZmZicUFYMmlsb2tTR09wRnlzWmg4TUhQNm5tS1UxRmlyYnl3Tm43SEVYdXB5NWJxcERoc0JpTF82bjVRbjBWd29YVnhZaHJHa1Y5LXJKT2d3?oc=5
-
-- "Pak In Denial": India Backs Bangladesh As It Seeks Justice For 1971 Genocide - NDTV
-  "Pak In Denial": India Backs Bangladesh As
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkI5bVFSOGFOQ3pGeExJWUpwaEdmMjRpcDdWbXVFdmg0V05xcUZmbm5MdkdJVWYwaWRxdE5sVmIzU0NsSTZxR05zeXFHdjktbks0U1cya0drTEU3QjNwbncwMUthejhlaGFJd2tLRWFfRjBKU00yVFd4eW1ORFV1UDBrdXc0U3NscEhrZmdHUjJ2RG41aWVCbDlKS1R5a0NpQ3JXcGpuR3VwcDNXS0d0RTVzRkZVR25fNi1RWNIBxAFBVV95cUxOZVBVNTdUWlNzckVicTBKdnhXWGJCaVdXcjI4dWo1QXlHWmFMbDNkb0ZjQndYbS03ajRvSlZJckoxcTZKRE1kRm0zUndvNmRnS1c1elo0RDQ3ZWhrZkl2OUpSTktQM1dQajlLZFpZUkJaYWVjd0h6RW9DQkdPVFhTMEFPaXc2VXdIc1NoOWNLLTJhT01JZmhiSC0zRHBVSDhIWFRUV2N3cnFLY3NjZHdrWmcxZkJaS0loWmtKUUd0YzBEbTA4?oc=5
-
-- 'Lockdown in India rumours completely false': Govt breaks silence amid speculation | India News - Hindustan Times
-  'Lockdown in India rumours completely false': Govt breaks silence
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbllaSXhJVExmRE9WQTVkUzFudXFfdTlCQ01zeU9mWnh6RVNJcHBCMVM2WnNHTHBjazFzMFRKbVp1T1RXakcwVWZiNnBVbHdrdkE2anBJTXB1cWhCU3FJS2NvRG4xc1E0SmcxWjM4Q09JYkpyVzJvbTA1RTMyQi0wTEhmazQ4SEs1X2puX21Cd0pnaWs2M2Qxc2p4eWs0SDRPUjhnOGFEYlRNa29kelc0VVNQblhORVExSjNnSDR2NFpQOEQ2a2lXOEQ2Zkp4Q3FXMzhBdjNTM2FHanNseDJ2aUZvYzlwd9IB6wFBVV95cUxQdzY0NWh3eVRjX1VadTdBcVE4cUFHVEp4SlRQRU9YMkRXeUh5d3pEZWJLVzZ2eWRBNGtpOGtDV3JXbEotZ0hydEJwTW1xaWJFUVZGb2o5Z2g4RmR5eXN6dkNlWGdzNnhuLVBqdXoxYmhQb2RLd1loU19kdk9icnZHMWFEVm1FS2Q4UVVZRTFnMzIyZFc2akpQVVAzRGlIWmU5YUdhUkZMMnl5UXJhd0ZqS2VISjFJZlFPZGV0Tm5Cek5kMVAyd2xqSU9LdWxrUHRQdFA5c2hwTHN1blNic01CUXhzSlgtM3lXYm44?oc=5
-
-- Breaking News Live March 28: EC publishes second supplementary voter list in Bengal - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ZmR09sZVROTy1jMFFrMk1WSHZndXo1RmtoMmlPTmo2Y3BBVUxtcmZhNXFYeGMySFVCdm1WMjUwblhfTnJ1UFRrUHcwLVk0WWcwcERVdHRXMGtDNUdSYWZxZUhVb2x3YmJhTnl4SnZ2em1mTzl6MTJNODdSbmkwYTlzMTUycW1ZY0t6bG9jRWh5T1l5TXhKOVlRMjJwRFpzUjVKWUhzTXZtOXZNVWVsM3h6MNIBuAFBVV95cUxPckI5Wk8wNE5JbF9TR0UyZTk2ZXZIWTNpSUlOZ3RweGJoVHY1SExFc1Q4cThIT2xwM2ktUjlZLWhuUk4yR2tOa1d3QkYzeXZkY2llTFNvMmdMUE95VERUX284bkhYbnpjMnhnNjRQUHVtVUxXbThER3N2OGJnQVJud1p0VFRZcVgzb0JFZGZpeXZzUmg0R0N0QW1XWU5TWlVsTV9LRjUwaV9yd1lFUUFMNTI2S1kxRG93?oc=5
-
-- Air India discontinues operations on Delhi-Gaya route - The Times of India
-  Air India discontinues operations on Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0YzLVhDQkxqYmtxT1RBa2Y2cWN3akZYdUU1R0VNX1lRMGRvQk16amdJVkoyUElOSjhLVHZDazFGbkdObXR2Z1VyWXdEM25TZkxOUlN0VVV4V0JfaGhxS3lOcUJTVnM4VTF6RzRJc1JWSnl6aDZKTElXLW4zZnlOMm8ydVFXbE1hU3FQeVZ0UGoxRU9UVG1VRTFQWDlEMmNGUEpIanpYdl9tUG1DSllPNmxvVmNZMmsyeDNZbHIzdUpaLURq0gHKAUFVX3lxTE9VejJjRGdSdkEzMktwcDA5TmkzQU9UM0QyeEQ5d2MwblBhejJVaDRTdzE1UVdaZ2tCekFIS3ZiYkhlRXlscFUxYVlySnhMTGV2cHVqM1ctR3l5bTgxLXU2NWRlVFcyODk3cEZ1Wk1lQ01fQWR6QlRSbjNkcUthVFVRVHJKLTZGWGViUV9UaTZCYlNJdkNCeGw2aF9ZYjJYdUFFaUhLeVFqY1hmNXJJazFkdHBLclFoOG1IMk1BSW1OcGNUZm4xcVlBS1E?oc=5
-
-- Alva’s campus comes alive with colours of India - The Times of India
-  Alva’s campus comes alive with
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmJ2Xzd3MENYcVQxc2xjYi12ZmV1UjdoUzdwbWdIUFl3ZnBUUnhvOVU4Z3phRW1rcjFaQ1pKN1RVUzFleDQ0bVduZFBRczRhZmhhSjA3Vi1MUldBaTRSTlZCRnN0cGt6SFlUYU9xOVNnYmxYUG9HMWZkY2dZeWVfS3VaRnV4OUROS0FQVW9fYU1ELXpQRkNtMlBGdlFaNVE2SjNHdVhaY2QyZHI5RkV4QXR2VVhSUkZlT3g1M2lvMEXSAcYBQVVfeXFMTzhua1NDYUdfOWJld1p1cTdFejdWaWlyYUhCVVZDREZiV3hCOUZnZks4RTFTNHNORDBXUGZzcUtoWkFnMzNfMVhZU3hFUWQ2Q1VaVWhJNUEzbzlDbERhQ3JObHRSWGxiam5EV0cxczR6TzZJaF8yZmZicUFYMmlsb2tTR09wRnlzWmg4TUhQNm5tS1UxRmlyYnl3Tm43SEVYdXB5NWJxcERoc0JpTF82bjVRbjBWd29YVnhZaHJHa1Y5LXJKT2d3?oc=5
-
-- "Pak In Denial": India Backs Bangladesh As It Seeks Justice For 1971 Genocide - NDTV
-  "Pak In Denial": India Backs Bangladesh As
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkI5bVFSOGFOQ3pGeExJWUpwaEdmMjRpcDdWbXVFdmg0V05xcUZmbm5MdkdJVWYwaWRxdE5sVmIzU0NsSTZxR05zeXFHdjktbks0U1cya0drTEU3QjNwbncwMUthejhlaGFJd2tLRWFfRjBKU00yVFd4eW1ORFV1UDBrdXc0U3NscEhrZmdHUjJ2RG41aWVCbDlKS1R5a0NpQ3JXcGpuR3VwcDNXS0d0RTVzRkZVR25fNi1RWNIBxAFBVV95cUxOZVBVNTdUWlNzckVicTBKdnhXWGJCaVdXcjI4dWo1QXlHWmFMbDNkb0ZjQndYbS03ajRvSlZJckoxcTZKRE1kRm0zUndvNmRnS1c1elo0RDQ3ZWhrZkl2OUpSTktQM1dQajlLZFpZUkJaYWVjd0h6RW9DQkdPVFhTMEFPaXc2VXdIc1NoOWNLLTJhT01JZmhiSC0zRHBVSDhIWFRUV2N3cnFLY3NjZHdrWmcxZkJaS0loWmtKUUd0YzBEbTA4?oc=5
-
-- 'Lockdown in India rumours completely false': Govt breaks silence amid speculation | India News - Hindustan Times
-  'Lockdown in India rumours completely false': Govt breaks silence
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbllaSXhJVExmRE9WQTVkUzFudXFfdTlCQ01zeU9mWnh6RVNJcHBCMVM2WnNHTHBjazFzMFRKbVp1T1RXakcwVWZiNnBVbHdrdkE2anBJTXB1cWhCU3FJS2NvRG4xc1E0SmcxWjM4Q09JYkpyVzJvbTA1RTMyQi0wTEhmazQ4SEs1X2puX21Cd0pnaWs2M2Qxc2p4eWs0SDRPUjhnOGFEYlRNa29kelc0VVNQblhORVExSjNnSDR2NFpQOEQ2a2lXOEQ2Zkp4Q3FXMzhBdjNTM2FHanNseDJ2aUZvYzlwd9IB6wFBVV95cUxQdzY0NWh3eVRjX1VadTdBcVE4cUFHVEp4SlRQRU9YMkRXeUh5d3pEZWJLVzZ2eWRBNGtpOGtDV3JXbEotZ0hydEJwTW1xaWJFUVZGb2o5Z2g4RmR5eXN6dkNlWGdzNnhuLVBqdXoxYmhQb2RLd1loU19kdk9icnZHMWFEVm1FS2Q4UVVZRTFnMzIyZFc2akpQVVAzRGlIWmU5YUdhUkZMMnl5UXJhd0ZqS2VISjFJZlFPZGV0Tm5Cek5kMVAyd2xqSU9LdWxrUHRQdFA5c2hwTHN1blNic01CUXhzSlgtM3lXYm44?oc=5
-
-- Breaking News Live March 28: EC publishes second supplementary voter list in Bengal - The Times of India
-  The Times of India is a leading English-language newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ZmR09sZVROTy1jMFFrMk1WSHZndXo1RmtoMmlPTmo2Y3BBVUxtcmZhNXFYeGMySFVCdm1WMjUwblhfTnJ1UFRrUHcwLVk0WWcwcERVdHRXMGtDNUdSYWZxZUhVb2x3YmJhTnl4SnZ2em1mTzl6MTJNODdSbmkwYTlzMTUycW1ZY0t6bG9jRWh5T1l5TXhKOVlRMjJwRFpzUjVKWUhzTXZtOXZNVWVsM3h6MNIBuAFBVV95cUxPckI5Wk8wNE5JbF9TR0UyZTk2ZXZIWTNpSUlOZ3RweGJoVHY1SExFc1Q4cThIT2xwM2ktUjlZLWhuUk4yR2tOa1d3QkYzeXZkY2llTFNvMmdMUE95VERUX284bkhYbnpjMnhnNjRQUHVtVUxXbThER3N2OGJnQVJud1p0VFRZcVgzb0JFZGZpeXZzUmg0R0N0QW1XWU5TWlVsTV9LRjUwaV9yd1lFUUFMNTI2S1kxRG93?oc=5
-
-- Air India discontinues operations on Delhi-Gaya route - The Times of India
-  Air India discontinues operations on Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0YzLVhDQkxqYmtxT1RBa2Y2cWN3akZYdUU1R0VNX1lRMGRvQk16amdJVkoyUElOSjhLVHZDazFGbkdObXR2Z1VyWXdEM25TZkxOUlN0VVV4V0JfaGhxS3lOcUJTVnM4VTF6RzRJc1JWSnl6aDZKTElXLW4zZnlOMm8ydVFXbE1hU3FQeVZ0UGoxRU9UVG1VRTFQWDlEMmNGUEpIanpYdl9tUG1DSllPNmxvVmNZMmsyeDNZbHIzdUpaLURq0gHKAUFVX3lxTE9VejJjRGdSdkEzMktwcDA5TmkzQU9UM0QyeEQ5d2MwblBhejJVaDRTdzE1UVdaZ2tCekFIS3ZiYkhlRXlscFUxYVlySnhMTGV2cHVqM1ctR3l5bTgxLXU2NWRlVFcyODk3cEZ1Wk1lQ01fQWR6QlRSbjNkcUthVFVRVHJKLTZGWGViUV9UaTZCYlNJdkNCeGw2aF9ZYjJYdUFFaUhLeVFqY1hmNXJJazFkdHBLclFoOG1IMk1BSW1OcGNUZm4xcVlBS1E?oc=5
-
-- Alva’s campus comes alive with colours of India - The Times of India
-  Alva’s campus comes alive with
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmJ2Xzd3MENYcVQxc2xjYi12ZmV1UjdoUzdwbWdIUFl3ZnBUUnhvOVU4Z3phRW1rcjFaQ1pKN1RVUzFleDQ0bVduZFBRczRhZmhhSjA3Vi1MUldBaTRSTlZCRnN0cGt6SFlUYU9xOVNnYmxYUG9HMWZkY2dZeWVfS3VaRnV4OUROS0FQVW9fYU1ELXpQRkNtMlBGdlFaNVE2SjNHdVhaY2QyZHI5RkV4QXR2VVhSUkZlT3g1M2lvMEXSAcYBQVVfeXFMTzhua1NDYUdfOWJld1p1cTdFejdWaWlyYUhCVVZDREZiV3hCOUZnZks4RTFTNHNORDBXUGZzcUtoWkFnMzNfMVhZU3hFUWQ2Q1VaVWhJNUEzbzlDbERhQ3JObHRSWGxiam5EV0cxczR6TzZJaF8yZmZicUFYMmlsb2tTR09wRnlzWmg4TUhQNm5tS1UxRmlyYnl3Tm43SEVYdXB5NWJxcERoc0JpTF82bjVRbjBWd29YVnhZaHJHa1Y5LXJKT2d3?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 2 India-Bound LPG Tankers Cross Strait Of Hormuz - ndtv.com
+  2 India-Bound LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXh3V3ZyZTdSTUFzUWRBMTk4N3RMakJZVWx4VnNpSDU5Ti1CV2RHTGRRUEd4Rm9QSnlDbHVIYWJXLVItS2ZwWHpIUlBfTXEyUE1jeE5hNHB2MkVqY3BvOWhaWXJRbFJhOUtRd0dvSnJSOENLLW4yNUNGZHlRMTVEamVqb1NUa3BhSHVJNlVGWGpnUWo0MUtMMzJTS2dwWlhTcV95UlJxQUPSAbABQVVfeXFMT3pXSzhDaUg0SnNQT29mRGpVSlJjdzBrTFhQSTU3bVNYNU9kUlBkLXBUUl8yWUx3d3Rmc1E3MW56amVLaFZaTGh6R1lReFo4MnI1YVZIMFE0a2RpbHp3dVN1TFVxT2NYNWdSSFhQNVlCRVg0NUhCczI5aWlZSTFKdTJQeVJoTWdZa2NCWGpVSklzYXpMV2RGZzBxanhIYlJvTlV1M3dvemItdkFmWlZxS2c?oc=5
 
 
-_Last updated: 2026-03-28 18:35:59 UTC_
+_Last updated: 2026-03-29 02:00:01 UTC_
