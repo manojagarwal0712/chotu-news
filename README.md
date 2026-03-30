@@ -1,164 +1,224 @@
 # 📰 Daily News Summaries
 
-- Nishikant Dubey’s CIA ‘link’ remarks on Biju Patnaik trigger storm, BJD MP quits parliamentary panel
+- 8 Indians killed in West Asia conflict so far; Kuwait desalination plant worker latest victim
   
-  🔗 https://indianexpress.com/article/india/nishikant-dubeys-cia-link-remarks-on-biju-patnaik-trigger-storm-bjd-mp-quits-parliamentary-panel-10608546/
+  🔗 https://indianexpress.com/article/india/8-indians-killed-in-west-asia-conflict-so-far-kuwait-desalination-plant-worker-latest-victim-10609066/
 
-- ‘Justice for Zubeen in 100 days’ among Congress’s ‘five guarantees’ for Assam
+- Nitish Kumar steps down as Bihar legislator, remains Chief Minister for now
   
-  🔗 https://indianexpress.com/article/india/justice-for-zubeen-in-100-days-among-congresss-five-guarantees-for-assam-10608543/
+  🔗 https://indianexpress.com/article/india/bihar-cm-nitish-kumar-resigns-mlc-from-state-assembly-10609018/
 
-- Cutting through Maoist heartland: Over last 15 months, remote Chhattisgarh villages got string of roads, bridges
+- Gold Rate Today, March 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/cutting-through-maoist-heartland-over-last-15-months-remote-chhattisgarh-villages-got-string-of-roads-bridges-10608597/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-30-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10608987/
 
-- War lessons for military: Rethinking air defence, countering drones to targets
+- ‘Stable’ live-in couples to be considered married in Census 2027
   
-  🔗 https://indianexpress.com/article/india/war-lessons-for-military-rethinking-air-defence-countering-drones-to-targets-10608606/
+  🔗 https://indianexpress.com/article/india/stable-live-in-couples-considered-married-in-census-2027-10608896/
 
-- Canada audit flags high approval rates for Indian student visas amid fraud concerns
+- Mahavir Jayanti 2026 Bank Holiday: Are banks open or closed on March 30–31 in India? City-wise list below
   
-  🔗 https://indianexpress.com/article/india/canada-audit-flags-high-approval-rates-for-indian-student-visas-amid-fraud-concerns-10608623/
+  🔗 https://indianexpress.com/article/india/mahavir-jayanti-2026-bank-holiday-are-banks-open-or-closed-march-30-31-10608803/
+
+- Bluesky introduces Attie, a new app that lets users vibe-code their own social feed
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/bluesky-introduces-attie-ai-agent-social-media-app-details-10609074/
+
+- Chromebook remorse: Tech backlash at schools extends beyond phones
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chromebook-remorse-tech-backlash-at-schools-extends-beyond-phones-10608878/
+
+- Swiss back tougher social media rules for minors, survey finds
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/swiss-back-tougher-social-media-rules-for-minors-survey-finds-10608872/
+
+- SpaceX’s upcoming listing stirs up social media frenzy, ticker bets
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacexs-listing-stirs-up-social-media-frenzy-ticker-bets-10608867/
 
 - WWDC 2026: Here’s everything Apple plans to show off at its annual developer conference in June
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-heres-everything-apple-plans-to-show-off-at-its-annual-developer-conference-in-june-10607650/
 
-- Anthropic’s ‘Claude Mythos’: What to know about the upcoming AI model’s capabilities, risks, and expected rollout
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropis-claude-mythos-what-to-know-about-unreleased-ai-model-10607661/
+- Trust, not technology, is helping startups make inroads into the Indian hinterland
+  Startups in India focus on trust and technology in targeting small town India. Companies like Wealthy and Supernova have adapted business models to local nuances.
+  🔗 https://www.livemint.com/companies/start-ups/india-startups-bharat-tier-2-market-inroads-business-price-conscious-customer-internet-upi-penetration-trust-tech-11774594443932.html
 
-- Everything from iPhones and PlayStations to your Netflix subscription is about to get a lot more expensive
-  
-  🔗 https://indianexpress.com/article/technology/everything-from-iphones-playstation5-to-your-netflix-subscription-is-about-to-get-a-lot-more-expensive-10607343/
+- US Treasury to consult with insurance regulators on private credit lenders, sources say
+  US Treasury to consult with insurance regulators on private credit lenders
+  🔗 https://www.livemint.com/companies/us-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-11774830917693.html
 
-- Meta to launch prescription-focused Ray Ban smart glasses amid growing wearable push: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-launch-prescription-focused-ray-ban-smart-glasses-report-10607359/
+- Listing boosts Orkla India’s appeal for talent and acquisitions: CEO Sharma
+  Over the past two years, several multinational corporations have listed their India subsidiaries. Hyundai and LG, marking a revival in such listings.
+  🔗 https://www.livemint.com/companies/talent-m-a-opportunities-mnc-listing-india-subsidiary-orkla-ceo-11774774556478.html
 
-- Having a conversation and creating best practices for your child’s social media use
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/having-a-conversation-and-creating-best-practices-for-your-childs-social-media-use-10607284/
+- IFC to up India investments 30% to $7 bn this fiscal, focus on local push, jobs
+  International Finance Corporation plans to raise India investments by 30% to $7 billion this fiscal. The lender has already committed $5.2 billion in eight months and aims to scale annual financing to
+  🔗 https://www.livemint.com/companies/world-bank-ifc-india-investment-fy26-development-financing-municipal-jobs-11774763449555.html
 
-- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
-  India Denies Reports Of Musk Joining Trump-PM
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
+- CTG Duty Free Looks to Earnings Catalyst to Snap 39% Rout
+  China Tourism Group Duty Free Corp.’s shares may be poised to shift course after a weak run this year. stabilizing sales and improving demand
+  🔗 https://www.livemint.com/companies/ctg-duty-free-looks-to-earnings-catalyst-to-snap-39-rout-11774826763347.html
 
-- US Israel Iran War LIVE: Indian Killed After Iranian Strike Damages Kuwait Power Station - NDTV
-  Iranian strike damages Kuwait Power Station. Indian killed after Iranian
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPcW85bXhrRndNakt1U0JiZFRtdTBDRE45aldHdlIzNmhMNlNybjYwZGRxU0lFM0s1U1VxOFlFa1RpVmFPT1RITGJJazhoN1ZvWU51VVZPUGQ1YnhlQW9mcEFLVXV4Z2lpTDJSUFdTQVo5UV8xcXpDQ0lfaXJMRUo0N1NIMGlXWGt5bHJ3SV9tS1Rja3ZGODJzQzRQZFFGQ29JazgyZW9CWTZZdUN6Q1NXRWs4OTA2bkFsUWNENWVYakhFZUtoaERlakNULUlISVc0SDV2TmhwZE5rZmtFVmxZMzZ1VHl2WEpGTm13dEFsNTdnLU1uQkdKZWUtcmNyTkpGMy16aEdzLUtxUFJOU0JodkxjNXdLMUpR0gGgAkFVX3lxTE02RjRUbnF5U0gtNE50LUZqUFZOTVJTRTJxYndVQ1RtbFJuck1nb0lWVVVkeTRGd3F3V2UtQWRzZlg3a0xyWFR3dmE1djV3cEJNUGFZbURvb0JvRzBLQmdOWFBnOFV4NnJFZkJaU2xhM0RGWWZqcVVyRFA1d3dsSUQ5b25pRmhvZC1vNHQ2Z2RCV1gzQzk0TGFsbnlHQVpuM0o3cE04d25EZ0hlTXlYVU1mYmVCQmNBdWtVYVJyejQzeUlpRHJ4eWVYN2txbDVhdEZ1LXYyNWZkQ0ZIMUxmajRvc1FnUm5oODhnY0lMQ2poN1hkN3FDVXVWc1FRZXFHSFM3VlloY1ZwTEhrSnhNY2ZQNU82aUFOdUgtQkZ3aldXag?oc=5
+- Gold, silver rate today, 30 March: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
+  Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-30-march-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11774851517585.html
 
-- Iran-Israel war LIVE: Iran strikes Kuwait power station killing one Indian worker - The Hindu
-  Iran-Israel war LIVE: Iran strikes Kuwait power station
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3MwRXlXeXFCdEVOSmFMcGlvaUZOZXJsVlRiZVFtSVpqQVFxMFRWalh2czVKcWE5ZWxVT3JidkxYYVhfbTZWc1VmVlZ4OWRha1dqQ1hpY2J3WjBSRzBuZjlYdEZwVzVQM1d6YzZGczYwNGJvNnVLOFJKdXVhZmZMU01GU2I2TlVZNHlNaVR0czA0M3NielBnSWhIQXY0V3otYjlycXNlRlRzUVJOdnfSAbQBQVVfeXFMTktHSC15X09pRi1aOXFvdkZSTnhRdEhKaTZxcFdSQnhWbTNIWXhQRnpOYWhoaDlnbUpzZHFZOU1RMUJPV0hDYmZNSUlKaEVGdm05LXZfbUhhR1VMN2I4clNQTG1HaWo1M01fUElvTG0wT19VeDJjemdnLU4xZVRaOXphMlJRU0xXUmhhdXBob0FxWG84YXVUQ0t2cG9FNVRpWmdKSWt6NGc2aGRkVkxvckdWbnNS?oc=5
+- Why must investors look beyond the bottom-fishing in smallcaps?
+  Net inflows into small-cap funds jumped in February, with several fund houses launching new schemes. Experts
+  🔗 https://www.livemint.com/market/stock-market-news/smallcaps-investing-india-high-returns-high-risks-11774846421302.html
 
-- US-Israel-Iran War News Live Updates: 'US could take the oil in Iran': Trump signals seizure of Kharg Island export hub - The Times of India
-  The Times of India reports that Israel has seized the Kharg Island export hub.
-  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxNSkppQjNUQmNFdUJmS0RjMV9YdXl1WUowYUpfMmgzMlpLbHJjZUlwTjhYX0lrdUZETXNkenJyczREOFRfa2RKaG14cnQ5dzFscWRoLTJueE9Gc2tBWkdyZWZMWTR4WXQ4ekJ2dVV0cDhibDYyMFlyaFUwZGR5TWMyLUdndW1FbVp1WmdmV3ZXcHhzUFhGWlhSZ2FDOGtMM0FfLVZmOERfYzdlTU9SZFcyMGwwd3N0UkZGX3h5YTB4bUs5b1Nrc2RIajJidFVrVlJoQm9pcmNxYy1vQm53M1RBUlE5b3hoMmpacHU0cUdyaWhaTEM5TjZWUkV6WGRlODgwVVZfRERwd01qNzk0MEFldnA2RWNuQjZhaFlTd2VJd3Ewcm4zTDRFYXRCWEs4QnpxdGRjOHhqc3ppbmN2UkF5ZTUtZzMyckRqWjRYWNIB0gJBVV95cUxNWnY2QWluTGRfdGsxdndiN2Z5N2NvN0F2bHgtbldiZzJPQWF1Ty1wZHo3VUFRalVlemNPZjBaaHZyeUpWd1VlVFEtak5IaUhqejEyN0RocnJoUHhEcXZVaVdHNTZQb0NjcnBZRlo2bERMTzJUbWQtQ2FITDhRbzNNUGdBT3RBOFhwaTJOWWNOUlAyS25EZVFhc04wT0htal9HSzV5dGlHcDBKX29wZlc1Zlk5aGNHUTl3cWNud0pyVkxxY09ESEJIYmlJckFtQ0s1SnM0Z1BFQ0ppRWM5Z1BSRHVCT0NfU2dMSHNiVnV3QWV3cDZfUDVjVkw0bDFGenBwVlQwbGMzY2Q4LW1JNXdITXo1WWlrTVoyQ1VyZzc1SVNISWl4aDRCeHRUYmozU1QzOV9XdFlPQ1hhVEtTaTlsZE1KcU51RXh2Q1p5SjlPbjJGZw?oc=5
+- South African Stock Index Is Heading for Worst Month Since 2008
+  Johannesburg’s benchmark stock index is heading for its worst month in almost two decades. Iran war saps demand for emerging-market assets
+  🔗 https://www.livemint.com/market/south-african-stock-index-is-heading-for-worst-month-since-2008-11774854471687.html
 
-- Karnataka man behind 1,100+ hoax bomb threats across India, arrested | Latest News Delhi - Hindustan Times
-  Karnataka man behind 1,100+ hoax bomb threats across
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkthRGdFWndsb1p1UnRJaEdHa3lMVnNVdTU3c3dUakdTV29YdnZkX1VvOEZSR2Q4dk9qcHMxVWMyR0dHTVFEVWpXZmpmZmZ3U25uakVvM2dUTmZ0YUxRLUZiUHA2d0lDZmFlbHo0OTJ4a09aS0ptcnpHOWdGbTRyb3RLeXp1aEJrSmpiU3B6TG1WaUtQZlhZOTByR0JmOXFzc0pHcFhlRE04bS1JV3d6UVpieGFwSUdfZjB2cTZldW9paGZteE930gHMAUFVX3lxTE1YVFAtSHpkbDhyVXpzcWJ5WWxfcE9DOFRCc0dNN2R2Q3g2bDdqT2lOYXNOd1VDaXRXZ21sRTRyMFdwUVl1N29oZHl1M0hidGU3WWdNUm50bGE3NVhDWE01bzZUVXdMV1NkYUh0QVdTM2hGLS1Cdk9XR3JBQjVBSnc2TEs5cHptWkdsbVVOX29OMGwzd2FnRXZfc0t2M0xPOUlGajNPeHhuejZoWXZhY0dIN254Q2JjalV6UVNadTFpYlEyWklWTVpHV29uag?oc=5
+- Coal India subsidiary CMPDI share price crashes 9% after weak listing. Buy, sell or hold amid stock market crash?
+  CMPDI IPO listing took place amid the stock market crash today, as the benchmark indices, Sensex and Nifty 50 declined over 1.5% each. Central Mine Planning &amp;amp; Design Institute shares were listed
+  🔗 https://www.livemint.com/market/stock-market-news/coal-india-subsidiary-cmpdi-share-price-crashes-9-after-weak-listing-buy-sell-or-hold-amid-stock-market-crash-11774853176799.html
 
-- Investor Unease Builds Entering War’s Fifth Week: Markets Wrap - Bloomberg.com
-  Investor Unease Builds
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGdXeFV5bzIyWUgxQUthRWNkTGp1enhUWGxGQzYtUmJDa3dFdTVrc0x4RlBSMVNSZXpwRks4MUw0N3FNY2hpZjZqbVBWem5XWXFtZXQ3UHNqRDJlUC12cmljcHpCN002TkVTT2tmMVRWUG1QMDhrdndETFNwa0N0RnRQS2pIZGpDN0NpSGNRdUhqQVFKUWJnQ0tCZ2N1T3JFWmVtNWd0X3RkYmNtck83cE93?oc=5
+- HDFC Bank share tumbles nearly 6% in 2 days after Jefferies’ Chris Wood removes stock from portfolio
+  HDFC Bank share price stayed under pressure on Monday, March 30, extending its recent slide. Sentiment weakened following Jefferies’ Christopher Wood’s decision to drop the stock from key portfolios.
+  🔗 https://www.livemint.com/market/stock-market-news/greed-and-fear-report-hdfc-bank-share-falls-6-in-2-days-after-jefferies-chris-wood-removes-stock-from-portfolio-11774852063072.html
 
-- How Trump and the oil markets move in sync: a tango in five charts - BBC
-  How Trump and the oil markets move in sync: a tang
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRngyZkRxWURmNTMwOUxmckRoUG85VllVV0hwX1lLd1F6dHZhQUNXdFE0ME5QSGhiMUlGWUFqMXk5SHZkYi1NaFdNd1RsYndiczlZcE9sUlBQUQ?oc=5
+- DeepSeek outage: Chinese AI startup's near-perfect record broken by massive seven-hour global outage
+  DeepSeek went down for over seven hours on Sunday. DeepSeek has not disclosed the reason for the
+  🔗 https://www.livemint.com/technology/tech-news/deepseek-outage-chinese-ai-startups-near-perfect-record-broken-by-massive-seven-hour-global-outage-11774849454165.html
 
-- Stock Market Today: All You Need To Know Before Going Into Trade On March 30 - NDTV Profit
-  Stock Market Today: All You Need To Know Before Going Into Trade On
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlU1RUJpMWxEODIyeWE0LUMtTmN6UXJMaGhHWS1hNGxOZW9wUktOdHUtZllkdkhPanRHSG82UFN5bUs0aVY3bXNVNVU1MHV1bEE2NW5qZWRIT0NPY3RWN25sbE5zN0UtRHlJN0FoeldlVkh4X0UtS1dGczNLOWU2eHdUQnFZUjJhYzZlbndsakNXX2VabXFEMS1rcE9NNm5CZVpiVmJFVXhBcnY2R2JSN1VrSm1MQWlrMjl30gHDAUFVX3lxTE44b1c3RzV1SHVzX2JfTEF5aGIwa1E4X3UzY1kteEpSWGp5TEJvMXRicVNXS2VnMjBGSzNvdnVMck1va1NkRF9sMm83QjFfaW1mQjZoX3FDMFE2UW40cEFZUEVlSDN6V1dLOThScXlXZ2haTUgtMEhVLUhFSHNuZlFvS2VDRldCZDcwSmZTVE1lekc4TWhJckYtaVpPMG1hSk91VFhPRVZvRTh1dEZWX0lwdVZvLVNUTW5GaFlnQnR3Tnl2SQ?oc=5
+- Government likely to extend SIM-binding deadline for WhatsApp, Telegram and other messaging platforms: Report
+  SIM binding rules aim to fight cybercriminals exploiting unlinked accounts for scams.
+  🔗 https://www.livemint.com/technology/tech-news/government-likely-to-extend-sim-binding-deadline-for-whatsapp-telegram-and-other-messaging-platforms-report-11774847756507.html
 
-- First Tick: Top global cues to watch in today’s trade - Moneycontrol.com
-  Moneycontrol.com: Top global cues
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2ZxNzlDZTlXOVNvR0NiRkZISVdVUEJ3X1VRanRWM3FYT1MteXpWQ01ydGpYTG50alZJSHkyS2xaS3EteC1aeUloZi1KenNuQ1FtRmdPWEY4QnVkUVdKYzhiZWtnai1TZEd3a3JzMXdidWlyWUtmQ25OMGZHUWttUTVFdVRMenZiWHQ5V0FrNEt2NHVoTlVhRE5LUElPN0FvQ2VxcGY5eWhMWXl1MjVPZ1VDelkxX3hQY2NnYUlR0gHDAUFVX3lxTE0zaXY5azNfZVJQR3pyMEVDSmxnT0pCR19kSHNxTkFBUVJMdnpSZ0RvdGxSdVJweG5lMWZBblBPUUN3VnJDdGZvTzlLZEZyUHNkS1d6TTlSaWF5OEFkYzlLNE5SQ3BHS2tLR2FET0N3N2g0d0RVc1NWVjF6M2FIMmNuSTgwUFVJY2ZMZFFTRFBqNlNEMWp1ZDNIN1FlVExUWUdGTjVSUl84WThYMU5hMEk4VU42SkVqeDlCUy1mVlBGX1ZTaw?oc=5
+- Upcoming smartphone launches in April: Top devices from OnePlus, Oppo, Xiaomi, and Vivo
+  April is set to be a busy month for smartphone launches, with major brands confirming several models. Among the notable upcoming releases include Oppo Find X9 Ultra, Realme 16,
+  🔗 https://www.livemint.com/technology/gadgets/upcoming-smartphone-in-april-launches-top-devices-from-oneplus-oppo-xiaomi-and-vivo-11774840218965.html
 
-- Week ahead: Oil prices, US-Israel-Iran war, auto sales data, FIIs activity among key market triggers to watch - Upstox
-  Week ahead: Oil prices, US-Israel-Iran war, auto sales
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb1NoYjdNMmpDRkV0ZlpYTm9weWRpdE5rWnpxYmN3RkZBVUdpejdnazlaUmV2aDdyUC0xLS1iN0tQYW11WEVQSUg2UktwdUx0bUtJejhQTll0TDk0NXo4UHVBTjdQRUpRUDBObGJMR3laalFfbEtBUHU3QTZMMzhZX0JBNUI3NWpkVmowUF9nUXRLc3cxcmxrNVhiMEdfd3pydTFVZW0zRmZDZEZQeTRZRkx2bGt0NFNxTE5BSkJQOEMxdEswVU9qZDMtZ00tSXdkcVBhWVYwMDVVUExrNGVoVnRFQ0NUWXBUSHgxQUFMdjRab2lCc2dwTnR3?oc=5
+- Apple readies massive Siri overhaul for iOS 27: 5 major AI upgrades to expect at WWDC 2026
+  Apple is expected to bring features like personalized responses by tapping into user data, third-party AI chatbot integration, a dedicated Siri app and more.
+  🔗 https://www.livemint.com/technology/tech-news/apple-readies-massive-siri-overhaul-for-ios-27-5-major-ai-upgrades-to-expect-at-wwdc-2026-11774835467941.html
 
 - OnePlus Nord 6 India launch roundup: Launch date, expected price and specifications
   The OnePlus Nord 6 will debut in India on 7 April. The phone is expected to be priced in the  ₹35,000 - 40,000 price bracket.
   🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-india-launch-roundup-launch-date-expected-price-and-specifications-11774832262052.html
 
-- India can build serious AI with less capital than frontier labs: Peak XV’s Ravishankar
-  G.V. Ravishankar of Peak XV Capital highlights India's potential in the AI sector. Indian startups can thrive by quickly adopting AI for practical
-  🔗 https://www.livemint.com/technology/india-ai-startup-funding-valuations-peak-xv-capital-ravishankar-investment-strategy-11774775396016.html
+- South Korea's Kospi leads declines in Asia as Middle East war enters fifth week - CNBC
+  South Korea's Kospi leads declines in Asia as Middle
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWwyRVVJcTZaRDJWZHV3V2Y3MGpuVFdRVlg0TzBMNVkwMWh1T1hYbVN1VnNtbGUwOG9BQktsMXNTZ004MWZOWEVPbC1ULV9pSS0xQWgxVm5Sc092ZjBJa2tZSmIxVXM5TDV2UmVBZF9FLVoxYjJHZzVjQlhGNUFlSExnZ2xLc1BkWDQ1MlZmWmYwSXkyYlEtdjFn0gGfAUFVX3lxTE1QMG8yV0szRFl6TWhKdHpZUlFwWnJVdFNYMzVsclNMaXA5Z3VDQ3ZQcnpadDJRVzNnenRuM0Q2SFdydWRsNlFGaGo5dG55akdDTlp4QXdrYjdVTnU4STE3d0RXYUozVVIxc2VsR21BZkV6MjhCdFl1OTFkZWlydFVlNjJwb1N1QnpKUXlkTjV0QlZNZlBWdk41aHVPMVgyTQ?oc=5
 
-- Meta readies two prescription-supported Ray-Ban AI glasses, set to launch next week: Report
-   Meta plans to launch two new Ray-Ban smart glasses next week. The glasses will be available in rectangular and rounded styles
-  🔗 https://www.livemint.com/technology/tech-news/meta-readies-two-prescription-supported-ray-ban-ai-glasses-set-to-launch-next-week-report-11774663973968.html
+- European markets set to start the week lower as Iran war intensifies - CNBC
+  European markets set to start the week lower as Iran
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOUzY4di1yQmZtWEJTUW54bnVLN1dseWF0eGk0SXJCTXo4dGM4cVpEemhmS25mUHgycTd4MUNnVk9UWG84MzF6RXo3bE5BQU1BdHNtRGthNkZnWk4zUm1PS2NwSy10RDVwTGdmRWV2WHJWdU9JbnJFcGRaMm9FOHNwT25zUEU0X0VmMmxVdk5MZ0RBcjNHeUh3UGNkbnNYd9IBowFBVV95cUxNZ2hVdUthLV92bUxVbTQ1MFFjYkxfX3N1MWNzdTlmUEI2MkpTR0hVY0VXSlVjMjVOV0VHMjVLZmJsYWstMTlGMG55NjdzZXpGR00zVko2X1lkTWdnTFRDeGJCQ2I2SjR3T3h3U3RfckRlSVpGUjNWQW1WZDVla0VwS1ppcnhVWThSQ3pHT0thbGdraUxPVHVlUEkySnFaOVY4ODhB?oc=5
 
-- Microsoft reportedly developing a cheaper Xbox Game Pass tier for first-party studio titles: here's what to expect
-  A leak suggests Microsoft is creating a budget Xbox Game Pass tier named 'Triton' The move comes amidst rumours that Xbox CEO Asha Sharma wants to make Game pass more affordable
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-reportedly-developing-a-cheaper-xbox-game-pass-tier-for-first-party-studio-titles-heres-what-to-expect-11774660570567.html
+- Stocks sag in Asia, Brent crude heading for record month - reuters.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNa051RXp2bjRya0M2X2tSTFp6eE4zWjJDYjlwTDZZS3RkV3gyVEVOdzNPejlhaW5abm54UHV3a21rWnpNM19QRWs0QnJ2MGs4RHNZQ1NySC1uOXJmQWZpSlNCZ2ZQS2xDOGdnTi1LcFgzMENMRmdiMlg1Y0tjTjdvOWhFaw?oc=5
 
-- Indonesia starts implementing social media restrictions for children under 16
-  Indonesia starts implementing
-  🔗 https://www.livemint.com/technology/indonesia-starts-implementing-social-media-restrictions-for-children-under-16-11774659753055.html
+- Sensex Today | Stock Market Live: Sensex dips 970 pts, Nifty below 22,600; India VIX up 6%, realty, financials drag - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNSTlzeEhjQVA3X0pJZlU1TzVLTTRDMmpqMjRSNjdqQVB2QlZDeTFjVWVfSVZ2UUxKR3pNTHFZT1hXeXljcGdzSzFCU0wyTFhSSVpmdTlqbHhLUjFTTTdfT0R5d0VuYkx0OW
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNSTlzeEhjQVA3X0pJZlU1TzVLTTRDMmpqMjRSNjdqQVB2QlZDeTFjVWVfSVZ2UUxKR3pNTHFZT1hXeXljcGdzSzFCU0wyTFhSSVpmdTlqbHhLUjFTTTdfT0R5d0VuYkx0OWFjYUctaEZuQ3d2d1lQRUF6MTVYUnRtTmJCVW9hTTVuZDU0Z05DR3Rlcm5kdzl1UUIyQlZOMGQydjVWSWJYV1lzbmR4bHJPWjFJcEpJYmlmRkhmTzlBdTNPOWJBTi14dGRuSGtSbnBsNTZzMGhwbjlLazhDT3RQNEstSHFEQWgyQWJVaHViTGlEMTRDMm4xOUs4UVhkN0VGWTZITU9idExHRkFqVWNxZkdvONIBmAJBVV95cUxQeURKZEZLZ3NmM3pUNUhLSmNWUVJMRmNrVXE2eWlMNnZuRGpfVG5FbzJlM0JKX2FUTjNFWUFoTkhGeWN2bW5EenV5Wk5ENnpZWkJHYm9zRjhzOGpmaFVWSV9sUnJ4NU1tOXo3ZmhNLXRkRkZYa1d0TlN0MkJ3SV9EaUk2UWlwZlF3cFZJbFNCczF4a2trX1Vrb2tSdlRkYWRrdWpQOHNwY1dQZkhpaWpQS0wzaWVVVWtITThjNnBoZlZndUpTMEJKNS0yMmotR0d2VEtWbC1oTHZjWkhIZlJDRVNKVEdRSE9aNEc1ak9YX3ZnWVY2S0pyeWotbDR5Y1JodHhJNHRjMXVXUkxENFRJXzFyOWQ1N0dU?oc=5
 
-- Global Market Today | Stocks dive in Asia, brent crude heads for record monthly rise
-  Asian markets tumbled as investors braced for a prolonged Gulf conflict. President Trump's remarks on potential U.S. actions against Iran's oil exports added to market jitters. Pakistan prepared for peace talks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-stocks-dive-in-asia-brent-crude-heads-for-record-monthly-rise/articleshow/129889477.cms
+- Sri Lanka in Talks for Russian Oil Products as War Jolts Market - Bloomberg.com
+  Sri Lanka in Talks for Russian Oil Products as
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPblVhRGNRRnVwSU05OTB3SHJ3bXJMQ0VTLTVyNTBzU2ZMaEZNZ2IxemYwQXhURVFwSU1zdUFvbnlkU0hUeGlIdV9hY2F0cFRrYWtFV05yTFg2NnhlN0tRTHRSMHFYSVJJSjM4ZXpmclZDSDd3NEtrVW9Qbm9oY0RDNjc1NlpGQ3FsLXBLNV9NbGdCX2pTM1RaenBpVWo3dmQtaHM4UHlZbkxDb2t0SFZlNUpGd2U?oc=5
 
-- India unleashes curbs on rupee bets as intervention costs swell
-  India's central bank is implementing forceful new rules to curb speculative bets against the rupee. The move aims to stabilize the currency amid record lows driven by the Iran war.
-  🔗 https://economictimes.indiatimes.com/markets/forex/india-unleashes-curbs-on-rupee-bets-as-intervention-costs-swell/articleshow/129889456.cms
+- Defence stocks to fire up? Brokerages bullish after DAC clears Rs 2.38 lakh cr proposals; check top picks
+  Brokerages are bullish on Indian defense stocks following the Defense Acquisition Council's approval of proposals worth Rs 2.38 lakh crore. These approvals, including S-400 missile systems and Su-30 engine overhauls, signal strong order infl
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-to-fire-up-brokerages-bullish-after-dac-clears-rs-2-38-lakh-cr-proposals-check-top-picks/articleshow/129893640.cms
 
-- Global Market | Vital oil benchmarks say a different story
-  Asian oil refiners are seeking alternatives to Middle East crude benchmarks. War-driven price volatility has detached from physical market realities.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/vital-oil-benchmarks-say-a-different-story/articleshow/129889442.cms
+- Global bonds set for steep monthly losses as Iran war stokes stagflation fears
+  Global government bonds are facing significant monthly losses. Oil prices above $100 are pushing bets for higher-for-longer interest rates. China's bonds, however, show resilience.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/global-bonds-set-for-steep-monthly-losses-as-iran-war-stokes-stagflation-fears/articleshow/129893098.cms
 
-- Stocks in news: TVS Motor Company, Info Edge, NTPC, NHPC, Coal India, Sammaan Capital, Som Distilleries &amp; Breweries
-  Indian markets experienced a sharp decline on Friday, with Nifty and Sensex falling over 2% due to volatility. Elevated energy prices and a weakening rupee
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tvs-motor-company-info-edge-ntpc-nhpc-coal-india-sammaan-capital-som-distilleries-breweries/articleshow/129882085.cms
+- ‘Markets to stay under pressure’: Amnish Aggarwal sees limited upside near term
+  Experts warn of the full economic impact yet to be felt. Financials and NBFCs face challenges from potential slowdowns. Investors are advised to prioritize caution and quality.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-to-stay-under-pressure-amnish-aggarwal-sees-limited-upside-near-term/articleshow/129892966.cms
 
-- Rupee seen bouncing up as RBI extends safety net below
-  The Reserve Bank of India has issued a new directive to banks. This rule limits their net open positions in the rupee to $100 million daily. Traders anticipate significant dollar sales by banks. The rupee could see immediate gains
-  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-seen-bouncing-up-as-rbi-extends-safety-net-below/articleshow/129889408.cms
+- Oil shock is quietly morphing into a global growth crisis, warns Stephen Innes
+  Middle East conflict now signals a global growth shock, warns macro strategist Stephen Innes. Elevated oil prices, potentially $90-$100, are forcing central banks into difficult choices, risking stagflation. Innes sees opportunity in electric vehicles
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/oil-shock-is-quietly-morphing-into-a-global-growth-crisis-warns-stephen-innes/articleshow/129892355.cms
 
-- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
-  India Denies Reports Of Musk Joining Trump-PM
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
-
-- US Israel Iran War LIVE: Indian Killed After Iranian Strike Damages Kuwait Power Station - NDTV
-  Iranian strike damages Kuwait Power Station. Indian killed after Iranian
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPcW85bXhrRndNakt1U0JiZFRtdTBDRE45aldHdlIzNmhMNlNybjYwZGRxU0lFM0s1U1VxOFlFa1RpVmFPT1RITGJJazhoN1ZvWU51VVZPUGQ1YnhlQW9mcEFLVXV4Z2lpTDJSUFdTQVo5UV8xcXpDQ0lfaXJMRUo0N1NIMGlXWGt5bHJ3SV9tS1Rja3ZGODJzQzRQZFFGQ29JazgyZW9CWTZZdUN6Q1NXRWs4OTA2bkFsUWNENWVYakhFZUtoaERlakNULUlISVc0SDV2TmhwZE5rZmtFVmxZMzZ1VHl2WEpGTm13dEFsNTdnLU1uQkdKZWUtcmNyTkpGMy16aEdzLUtxUFJOU0JodkxjNXdLMUpR0gGgAkFVX3lxTE02RjRUbnF5U0gtNE50LUZqUFZOTVJTRTJxYndVQ1RtbFJuck1nb0lWVVVkeTRGd3F3V2UtQWRzZlg3a0xyWFR3dmE1djV3cEJNUGFZbURvb0JvRzBLQmdOWFBnOFV4NnJFZkJaU2xhM0RGWWZqcVVyRFA1d3dsSUQ5b25pRmhvZC1vNHQ2Z2RCV1gzQzk0TGFsbnlHQVpuM0o3cE04d25EZ0hlTXlYVU1mYmVCQmNBdWtVYVJyejQzeUlpRHJ4eWVYN2txbDVhdEZ1LXYyNWZkQ0ZIMUxmajRvc1FnUm5oODhnY0lMQ2poN1hkN3FDVXVWc1FRZXFHSFM3VlloY1ZwTEhrSnhNY2ZQNU82aUFOdUgtQkZ3aldXag?oc=5
-
-- Iran-Israel war LIVE: Iran strikes Kuwait power station killing one Indian worker - The Hindu
-  Iran-Israel war LIVE: Iran strikes Kuwait power station
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3MwRXlXeXFCdEVOSmFMcGlvaUZOZXJsVlRiZVFtSVpqQVFxMFRWalh2czVKcWE5ZWxVT3JidkxYYVhfbTZWc1VmVlZ4OWRha1dqQ1hpY2J3WjBSRzBuZjlYdEZwVzVQM1d6YzZGczYwNGJvNnVLOFJKdXVhZmZMU01GU2I2TlVZNHlNaVR0czA0M3NielBnSWhIQXY0V3otYjlycXNlRlRzUVJOdnfSAbQBQVVfeXFMTktHSC15X09pRi1aOXFvdkZSTnhRdEhKaTZxcFdSQnhWbTNIWXhQRnpOYWhoaDlnbUpzZHFZOU1RMUJPV0hDYmZNSUlKaEVGdm05LXZfbUhhR1VMN2I4clNQTG1HaWo1M01fUElvTG0wT19VeDJjemdnLU4xZVRaOXphMlJRU0xXUmhhdXBob0FxWG84YXVUQ0t2cG9FNVRpWmdKSWt6NGc2aGRkVkxvckdWbnNS?oc=5
-
-- US-Israel-Iran War News Live Updates: 'US could take the oil in Iran': Trump signals seizure of Kharg Island export hub - The Times of India
-  The Times of India reports that Israel has seized the Kharg Island export hub.
-  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxNSkppQjNUQmNFdUJmS0RjMV9YdXl1WUowYUpfMmgzMlpLbHJjZUlwTjhYX0lrdUZETXNkenJyczREOFRfa2RKaG14cnQ5dzFscWRoLTJueE9Gc2tBWkdyZWZMWTR4WXQ4ekJ2dVV0cDhibDYyMFlyaFUwZGR5TWMyLUdndW1FbVp1WmdmV3ZXcHhzUFhGWlhSZ2FDOGtMM0FfLVZmOERfYzdlTU9SZFcyMGwwd3N0UkZGX3h5YTB4bUs5b1Nrc2RIajJidFVrVlJoQm9pcmNxYy1vQm53M1RBUlE5b3hoMmpacHU0cUdyaWhaTEM5TjZWUkV6WGRlODgwVVZfRERwd01qNzk0MEFldnA2RWNuQjZhaFlTd2VJd3Ewcm4zTDRFYXRCWEs4QnpxdGRjOHhqc3ppbmN2UkF5ZTUtZzMyckRqWjRYWNIB0gJBVV95cUxNWnY2QWluTGRfdGsxdndiN2Z5N2NvN0F2bHgtbldiZzJPQWF1Ty1wZHo3VUFRalVlemNPZjBaaHZyeUpWd1VlVFEtak5IaUhqejEyN0RocnJoUHhEcXZVaVdHNTZQb0NjcnBZRlo2bERMTzJUbWQtQ2FITDhRbzNNUGdBT3RBOFhwaTJOWWNOUlAyS25EZVFhc04wT0htal9HSzV5dGlHcDBKX29wZlc1Zlk5aGNHUTl3cWNud0pyVkxxY09ESEJIYmlJckFtQ0s1SnM0Z1BFQ0ppRWM5Z1BSRHVCT0NfU2dMSHNiVnV3QWV3cDZfUDVjVkw0bDFGenBwVlQwbGMzY2Q4LW1JNXdITXo1WWlrTVoyQ1VyZzc1SVNISWl4aDRCeHRUYmozU1QzOV9XdFlPQ1hhVEtTaTlsZE1KcU51RXh2Q1p5SjlPbjJGZw?oc=5
-
-- Karnataka man behind 1,100+ hoax bomb threats across India, arrested | Latest News Delhi - Hindustan Times
-  Karnataka man behind 1,100+ hoax bomb threats across
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkthRGdFWndsb1p1UnRJaEdHa3lMVnNVdTU3c3dUakdTV29YdnZkX1VvOEZSR2Q4dk9qcHMxVWMyR0dHTVFEVWpXZmpmZmZ3U25uakVvM2dUTmZ0YUxRLUZiUHA2d0lDZmFlbHo0OTJ4a09aS0ptcnpHOWdGbTRyb3RLeXp1aEJrSmpiU3B6TG1WaUtQZlhZOTByR0JmOXFzc0pHcFhlRE04bS1JV3d6UVpieGFwSUdfZjB2cTZldW9paGZteE930gHMAUFVX3lxTE1YVFAtSHpkbDhyVXpzcWJ5WWxfcE9DOFRCc0dNN2R2Q3g2bDdqT2lOYXNOd1VDaXRXZ21sRTRyMFdwUVl1N29oZHl1M0hidGU3WWdNUm50bGE3NVhDWE01bzZUVXdMV1NkYUh0QVdTM2hGLS1Cdk9XR3JBQjVBSnc2TEs5cHptWkdsbVVOX29OMGwzd2FnRXZfc0t2M0xPOUlGajNPeHhuejZoWXZhY0dIN254Q2JjalV6UVNadTFpYlEyWklWTVpHV29uag?oc=5
+- Bitcoin trades near $67K, recovery may stretch to Q2 2027 as correction deepens; ETF flows turn negative
+  Spot Bitcoin ETFs saw net outflows, breaking a four-week inflow streak. The broader crypto market cap edged up, but US-Iran tensions and rising oil prices are creating investor caution.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-67k-recovery-may-stretch-to-q2-2027-as-correction-deepens-etf-flows-turn-negative/articleshow/129892281.cms
 
 - India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
   India Denies Reports Of Musk Joining Trump-PM
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
 
-- US Israel Iran War LIVE: Indian Killed After Iranian Strike Damages Kuwait Power Station - NDTV
-  Iranian strike damages Kuwait Power Station. Indian killed after Iranian
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPcW85bXhrRndNakt1U0JiZFRtdTBDRE45aldHdlIzNmhMNlNybjYwZGRxU0lFM0s1U1VxOFlFa1RpVmFPT1RITGJJazhoN1ZvWU51VVZPUGQ1YnhlQW9mcEFLVXV4Z2lpTDJSUFdTQVo5UV8xcXpDQ0lfaXJMRUo0N1NIMGlXWGt5bHJ3SV9tS1Rja3ZGODJzQzRQZFFGQ29JazgyZW9CWTZZdUN6Q1NXRWs4OTA2bkFsUWNENWVYakhFZUtoaERlakNULUlISVc0SDV2TmhwZE5rZmtFVmxZMzZ1VHl2WEpGTm13dEFsNTdnLU1uQkdKZWUtcmNyTkpGMy16aEdzLUtxUFJOU0JodkxjNXdLMUpR0gGgAkFVX3lxTE02RjRUbnF5U0gtNE50LUZqUFZOTVJTRTJxYndVQ1RtbFJuck1nb0lWVVVkeTRGd3F3V2UtQWRzZlg3a0xyWFR3dmE1djV3cEJNUGFZbURvb0JvRzBLQmdOWFBnOFV4NnJFZkJaU2xhM0RGWWZqcVVyRFA1d3dsSUQ5b25pRmhvZC1vNHQ2Z2RCV1gzQzk0TGFsbnlHQVpuM0o3cE04d25EZ0hlTXlYVU1mYmVCQmNBdWtVYVJyejQzeUlpRHJ4eWVYN2txbDVhdEZ1LXYyNWZkQ0ZIMUxmajRvc1FnUm5oODhnY0lMQ2poN1hkN3FDVXVWc1FRZXFHSFM3VlloY1ZwTEhrSnhNY2ZQNU82aUFOdUgtQkZ3aldXag?oc=5
+- Piyush Goyal’s strong message to world: India pushes core trade issues, blocks IFDA at WTO - economictimes.indiatimes.com
+  Piyush Goyal: India pushes core trade issues, blocks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdERzenVyNURtSndpT3FrRF9KeW91NVVGSnJISE0yUFRvelVkazJ0RWxBUDN1Y2ktVnphYzJDdEl3eHdzSWtKSWM4dnNjdDBlMjFKMHBURnlYQzQySGlBT0Qxbmg0ZDByQXhMUFJ3Z3dwNDBDaHQzdThrRmJjZ1Q5aU84b2VWZ0g0bFgyRndMXzdoSUt5Mm5qR0lWa1FJX2c4OVpwM3UwYlVrQ2ttYWtNdWZzMzIxZE0wT2NpLUY1Q0stc2QxR0JuVjVCaC1nMC1kOVdfc3czUURPWWRNTHhyQzdQZUY4dHZqLVIteXdIdUlSQQ?oc=5
 
-- Iran-Israel war LIVE: Iran strikes Kuwait power station killing one Indian worker - The Hindu
-  Iran-Israel war LIVE: Iran strikes Kuwait power station
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3MwRXlXeXFCdEVOSmFMcGlvaUZOZXJsVlRiZVFtSVpqQVFxMFRWalh2czVKcWE5ZWxVT3JidkxYYVhfbTZWc1VmVlZ4OWRha1dqQ1hpY2J3WjBSRzBuZjlYdEZwVzVQM1d6YzZGczYwNGJvNnVLOFJKdXVhZmZMU01GU2I2TlVZNHlNaVR0czA0M3NielBnSWhIQXY0V3otYjlycXNlRlRzUVJOdnfSAbQBQVVfeXFMTktHSC15X09pRi1aOXFvdkZSTnhRdEhKaTZxcFdSQnhWbTNIWXhQRnpOYWhoaDlnbUpzZHFZOU1RMUJPV0hDYmZNSUlKaEVGdm05LXZfbUhhR1VMN2I4clNQTG1HaWo1M01fUElvTG0wT19VeDJjemdnLU4xZVRaOXphMlJRU0xXUmhhdXBob0FxWG84YXVUQ0t2cG9FNVRpWmdKSWt6NGc2aGRkVkxvckdWbnNS?oc=5
+- Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West Asia crisis - News On AIR
+  Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWVJemVEbnVXVFIzLWZ5dmpHQ0xXM3hhRVA3dUJvc2VBR0xuTWs2bGpMMl9aTzdERGw5Vlc5clF4cS1OZWhSUU8zWmw2TV9nd1hheG5TZHJET3VzN0lGazh5akM1MzQwSmhRNVo2SW03NE9lbEtEOXI3M2pobzRTWUJXaGs0UXpaR0xYOEZOZjVzMkx6a1hDOUk5OURSRVNHRHFoU0RIaWZNclJ3Nm9GMHJOVGlndUFjM0FVT3VlaExKNHFBNUl3NjAzYW5IQmRqS0FJ?oc=5
 
-- US-Israel-Iran War News Live Updates: 'US could take the oil in Iran': Trump signals seizure of Kharg Island export hub - The Times of India
-  The Times of India reports that Israel has seized the Kharg Island export hub.
-  🔗 https://news.google.com/rss/articles/CBMizAJBVV95cUxNSkppQjNUQmNFdUJmS0RjMV9YdXl1WUowYUpfMmgzMlpLbHJjZUlwTjhYX0lrdUZETXNkenJyczREOFRfa2RKaG14cnQ5dzFscWRoLTJueE9Gc2tBWkdyZWZMWTR4WXQ4ekJ2dVV0cDhibDYyMFlyaFUwZGR5TWMyLUdndW1FbVp1WmdmV3ZXcHhzUFhGWlhSZ2FDOGtMM0FfLVZmOERfYzdlTU9SZFcyMGwwd3N0UkZGX3h5YTB4bUs5b1Nrc2RIajJidFVrVlJoQm9pcmNxYy1vQm53M1RBUlE5b3hoMmpacHU0cUdyaWhaTEM5TjZWUkV6WGRlODgwVVZfRERwd01qNzk0MEFldnA2RWNuQjZhaFlTd2VJd3Ewcm4zTDRFYXRCWEs4QnpxdGRjOHhqc3ppbmN2UkF5ZTUtZzMyckRqWjRYWNIB0gJBVV95cUxNWnY2QWluTGRfdGsxdndiN2Z5N2NvN0F2bHgtbldiZzJPQWF1Ty1wZHo3VUFRalVlemNPZjBaaHZyeUpWd1VlVFEtak5IaUhqejEyN0RocnJoUHhEcXZVaVdHNTZQb0NjcnBZRlo2bERMTzJUbWQtQ2FITDhRbzNNUGdBT3RBOFhwaTJOWWNOUlAyS25EZVFhc04wT0htal9HSzV5dGlHcDBKX29wZlc1Zlk5aGNHUTl3cWNud0pyVkxxY09ESEJIYmlJckFtQ0s1SnM0Z1BFQ0ppRWM5Z1BSRHVCT0NfU2dMSHNiVnV3QWV3cDZfUDVjVkw0bDFGenBwVlQwbGMzY2Q4LW1JNXdITXo1WWlrTVoyQ1VyZzc1SVNISWl4aDRCeHRUYmozU1QzOV9XdFlPQ1hhVEtTaTlsZE1KcU51RXh2Q1p5SjlPbjJGZw?oc=5
+- Indian Worker Killed In Kuwait After Iranian Attack On Power Facility - NDTV
+  Indian Worker Killed In Kuwait After Iranian Attack On
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXlBNEtsMk9xbklXUEpBMVhheWt6T0JPVnVQSngwX0tWQzdjX083c3dNVTdEOE54U0pYUnlubWJTQUVlN3BFcUluektVeFpwcTZhdTgyRUFldnEzM3pyeHZlMHlTMlNEZjl1cFhiUFA3ZWQySnk5ZGJIY1NBdS1MUmlZaENkMG5aeUJRS1BxRDMyVXZFVnZWSjBhSVlYN1VKczl3WlRVdVE5U3FvUHFB0gG3AUFVX3lxTE13UXNKbUVBSkVaMnlnMnhjUHRSakp4c1R2NW01cnJsbk1wcmVZQ25JbjBxS3lQUy1wZ3RWN2FsVHczNm0zY2QwNnNVcWV6R2czVlRVWkczcjJBREFvb05JNE93aVlKU0tGVmVDWmxNbU9JMnhuVDE2THN2S2hFOXNwVHN4aUExTzZoemhkOG1Da3JwUG1ETTRNamhjcHVPdWlZckFnSy1GQXNWZEhpMTZQV1ZOakNWZw?oc=5
 
-- Karnataka man behind 1,100+ hoax bomb threats across India, arrested | Latest News Delhi - Hindustan Times
-  Karnataka man behind 1,100+ hoax bomb threats across
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkthRGdFWndsb1p1UnRJaEdHa3lMVnNVdTU3c3dUakdTV29YdnZkX1VvOEZSR2Q4dk9qcHMxVWMyR0dHTVFEVWpXZmpmZmZ3U25uakVvM2dUTmZ0YUxRLUZiUHA2d0lDZmFlbHo0OTJ4a09aS0ptcnpHOWdGbTRyb3RLeXp1aEJrSmpiU3B6TG1WaUtQZlhZOTByR0JmOXFzc0pHcFhlRE04bS1JV3d6UVpieGFwSUdfZjB2cTZldW9paGZteE930gHMAUFVX3lxTE1YVFAtSHpkbDhyVXpzcWJ5WWxfcE9DOFRCc0dNN2R2Q3g2bDdqT2lOYXNOd1VDaXRXZ21sRTRyMFdwUVl1N29oZHl1M0hidGU3WWdNUm50bGE3NVhDWE01bzZUVXdMV1NkYUh0QVdTM2hGLS1Cdk9XR3JBQjVBSnc2TEs5cHptWkdsbVVOX29OMGwzd2FnRXZfc0t2M0xPOUlGajNPeHhuejZoWXZhY0dIN254Q2JjalV6UVNadTFpYlEyWklWTVpHV29uag?oc=5
+- Story Indian worker killed - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejFqS0x2T0dyTzBubVp2cE9BSU5ySXNUVmVGelVndGFsVXVOTWJrTFc2TGxSOERtbklfMmlyM20tTHBsTVo1UGIzTVFXRzVpYk9qalU1NnNTZmVoR3RkUG9lT1NGV0RldzJtWkt4QUwxRnBoV0x5bDJDNmhkSXhfd3ZKN3MtRjIwR196OWdNX04zOS1lS0hXUzZNMXRUcENTcEtUNTFGU2RCY0dGckR0MVRDdUlkTTJVWmFXZEZLcm8wNGRFWkJtZkdULVdycGNx0gHWAUFVX3lxTE90dV90emk1WTlwUFFSUThuNW5YSkU5X1VDanBlN1VpRXlrcU1PdnRVTEE4SzhDTnQwSlZ0U3liZ29ERC1pdTNqV09FMFJldmtXREhidXpLZ1luelJ1Z1ZDRzZEbzE0dDBXNFQ2a2oyWkNFVmw0TnlvZ19Na0tVekNSSUp3bEdBZmY3WVV4azlLLVVnUzVObWNNY2ZjUll5bG9STjN5T1JTS3lWcEV1eWFTUE5jYndvaWlvLXl5VUQ1Smo2MF9ETUFHTHJTSjFuaG9FSFNINEE?oc=5
+
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
+
+- Piyush Goyal’s strong message to world: India pushes core trade issues, blocks IFDA at WTO - economictimes.indiatimes.com
+  Piyush Goyal: India pushes core trade issues, blocks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdERzenVyNURtSndpT3FrRF9KeW91NVVGSnJISE0yUFRvelVkazJ0RWxBUDN1Y2ktVnphYzJDdEl3eHdzSWtKSWM4dnNjdDBlMjFKMHBURnlYQzQySGlBT0Qxbmg0ZDByQXhMUFJ3Z3dwNDBDaHQzdThrRmJjZ1Q5aU84b2VWZ0g0bFgyRndMXzdoSUt5Mm5qR0lWa1FJX2c4OVpwM3UwYlVrQ2ttYWtNdWZzMzIxZE0wT2NpLUY1Q0stc2QxR0JuVjVCaC1nMC1kOVdfc3czUURPWWRNTHhyQzdQZUY4dHZqLVIteXdIdUlSQQ?oc=5
+
+- Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West Asia crisis - News On AIR
+  Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWVJemVEbnVXVFIzLWZ5dmpHQ0xXM3hhRVA3dUJvc2VBR0xuTWs2bGpMMl9aTzdERGw5Vlc5clF4cS1OZWhSUU8zWmw2TV9nd1hheG5TZHJET3VzN0lGazh5akM1MzQwSmhRNVo2SW03NE9lbEtEOXI3M2pobzRTWUJXaGs0UXpaR0xYOEZOZjVzMkx6a1hDOUk5OURSRVNHRHFoU0RIaWZNclJ3Nm9GMHJOVGlndUFjM0FVT3VlaExKNHFBNUl3NjAzYW5IQmRqS0FJ?oc=5
+
+- Indian Worker Killed In Kuwait After Iranian Attack On Power Facility - NDTV
+  Indian Worker Killed In Kuwait After Iranian Attack On
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXlBNEtsMk9xbklXUEpBMVhheWt6T0JPVnVQSngwX0tWQzdjX083c3dNVTdEOE54U0pYUnlubWJTQUVlN3BFcUluektVeFpwcTZhdTgyRUFldnEzM3pyeHZlMHlTMlNEZjl1cFhiUFA3ZWQySnk5ZGJIY1NBdS1MUmlZaENkMG5aeUJRS1BxRDMyVXZFVnZWSjBhSVlYN1VKczl3WlRVdVE5U3FvUHFB0gG3AUFVX3lxTE13UXNKbUVBSkVaMnlnMnhjUHRSakp4c1R2NW01cnJsbk1wcmVZQ25JbjBxS3lQUy1wZ3RWN2FsVHczNm0zY2QwNnNVcWV6R2czVlRVWkczcjJBREFvb05JNE93aVlKU0tGVmVDWmxNbU9JMnhuVDE2THN2S2hFOXNwVHN4aUExTzZoemhkOG1Da3JwUG1ETTRNamhjcHVPdWlZckFnSy1GQXNWZEhpMTZQV1ZOakNWZw?oc=5
+
+- Story Indian worker killed - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejFqS0x2T0dyTzBubVp2cE9BSU5ySXNUVmVGelVndGFsVXVOTWJrTFc2TGxSOERtbklfMmlyM20tTHBsTVo1UGIzTVFXRzVpYk9qalU1NnNTZmVoR3RkUG9lT1NGV0RldzJtWkt4QUwxRnBoV0x5bDJDNmhkSXhfd3ZKN3MtRjIwR196OWdNX04zOS1lS0hXUzZNMXRUcENTcEtUNTFGU2RCY0dGckR0MVRDdUlkTTJVWmFXZEZLcm8wNGRFWkJtZkdULVdycGNx0gHWAUFVX3lxTE90dV90emk1WTlwUFFSUThuNW5YSkU5X1VDanBlN1VpRXlrcU1PdnRVTEE4SzhDTnQwSlZ0U3liZ29ERC1pdTNqV09FMFJldmtXREhidXpLZ1luelJ1Z1ZDRzZEbzE0dDBXNFQ2a2oyWkNFVmw0TnlvZ19Na0tVekNSSUp3bEdBZmY3WVV4azlLLVVnUzVObWNNY2ZjUll5bG9STjN5T1JTS3lWcEV1eWFTUE5jYndvaWlvLXl5VUQ1Smo2MF9ETUFHTHJTSjFuaG9FSFNINEE?oc=5
+
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
+
+- Piyush Goyal’s strong message to world: India pushes core trade issues, blocks IFDA at WTO - economictimes.indiatimes.com
+  Piyush Goyal: India pushes core trade issues, blocks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdERzenVyNURtSndpT3FrRF9KeW91NVVGSnJISE0yUFRvelVkazJ0RWxBUDN1Y2ktVnphYzJDdEl3eHdzSWtKSWM4dnNjdDBlMjFKMHBURnlYQzQySGlBT0Qxbmg0ZDByQXhMUFJ3Z3dwNDBDaHQzdThrRmJjZ1Q5aU84b2VWZ0g0bFgyRndMXzdoSUt5Mm5qR0lWa1FJX2c4OVpwM3UwYlVrQ2ttYWtNdWZzMzIxZE0wT2NpLUY1Q0stc2QxR0JuVjVCaC1nMC1kOVdfc3czUURPWWRNTHhyQzdQZUY4dHZqLVIteXdIdUlSQQ?oc=5
+
+- Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West Asia crisis - News On AIR
+  Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWVJemVEbnVXVFIzLWZ5dmpHQ0xXM3hhRVA3dUJvc2VBR0xuTWs2bGpMMl9aTzdERGw5Vlc5clF4cS1OZWhSUU8zWmw2TV9nd1hheG5TZHJET3VzN0lGazh5akM1MzQwSmhRNVo2SW03NE9lbEtEOXI3M2pobzRTWUJXaGs0UXpaR0xYOEZOZjVzMkx6a1hDOUk5OURSRVNHRHFoU0RIaWZNclJ3Nm9GMHJOVGlndUFjM0FVT3VlaExKNHFBNUl3NjAzYW5IQmRqS0FJ?oc=5
+
+- Indian Worker Killed In Kuwait After Iranian Attack On Power Facility - NDTV
+  Indian Worker Killed In Kuwait After Iranian Attack On
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXlBNEtsMk9xbklXUEpBMVhheWt6T0JPVnVQSngwX0tWQzdjX083c3dNVTdEOE54U0pYUnlubWJTQUVlN3BFcUluektVeFpwcTZhdTgyRUFldnEzM3pyeHZlMHlTMlNEZjl1cFhiUFA3ZWQySnk5ZGJIY1NBdS1MUmlZaENkMG5aeUJRS1BxRDMyVXZFVnZWSjBhSVlYN1VKczl3WlRVdVE5U3FvUHFB0gG3AUFVX3lxTE13UXNKbUVBSkVaMnlnMnhjUHRSakp4c1R2NW01cnJsbk1wcmVZQ25JbjBxS3lQUy1wZ3RWN2FsVHczNm0zY2QwNnNVcWV6R2czVlRVWkczcjJBREFvb05JNE93aVlKU0tGVmVDWmxNbU9JMnhuVDE2THN2S2hFOXNwVHN4aUExTzZoemhkOG1Da3JwUG1ETTRNamhjcHVPdWlZckFnSy1GQXNWZEhpMTZQV1ZOakNWZw?oc=5
+
+- Story Indian worker killed - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejFqS0x2T0dyTzBubVp2cE9BSU5ySXNUVmVGelVndGFsVXVOTWJrTFc2TGxSOERtbklfMmlyM20tTHBsTVo1UGIzTVFXRzVpYk9qalU1NnNTZmVoR3RkUG9lT1NGV0RldzJtWkt4QUwxRnBoV0x5bDJDNmhkSXhfd3ZKN3MtRjIwR196OWdNX04zOS1lS0hXUzZNMXRUcENTcEtUNTFGU2RCY0dGckR0MVRDdUlkTTJVWmFXZEZLcm8wNGRFWkJtZkdULVdycGNx0gHWAUFVX3lxTE90dV90emk1WTlwUFFSUThuNW5YSkU5X1VDanBlN1VpRXlrcU1PdnRVTEE4SzhDTnQwSlZ0U3liZ29ERC1pdTNqV09FMFJldmtXREhidXpLZ1luelJ1Z1ZDRzZEbzE0dDBXNFQ2a2oyWkNFVmw0TnlvZ19Na0tVekNSSUp3bEdBZmY3WVV4azlLLVVnUzVObWNNY2ZjUll5bG9STjN5T1JTS3lWcEV1eWFTUE5jYndvaWlvLXl5VUQ1Smo2MF9ETUFHTHJTSjFuaG9FSFNINEE?oc=5
+
+- India Denies Reports Of Musk Joining Trump-PM Modi Phone Call On Iran War - NDTV
+  India Denies Reports Of Musk Joining Trump-PM
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0JSMFgzOTE1Q0RLNVZvQkdmejFsWU5JX0tUNDRnemdMLTBxNWtTd1JqM3owQ0hVdlluU3diT2xFNEduZXQzeXJ4a3dQU0t4RjN1NmtMQThRZU5VTGVaRTQyUG5JaHh2MmtWYWg1UVVRR0ZiWERWSmd1ZlZ3ekZ1NmMxb3gza2QzZTdWNlJVYjVHY3AxOUhsSGRvS1JpV3U4YkcyVThOSWhwMWQ1a1czTEp0RTI4aWFhRWt5YTBQTmhPYXp1LUFMaUFweVZGMzkz0gHYAUFVX3lxTE8tQjNPLUlzZDk1WGRJWTh4azFpdXQ5TzZRTWpVUThnQlZPNDVpcWtfYnNoZGtPeXh5V3lCUWRaa1lsNm9XcFloQnFENE5JWXE2UDFTRVc3VnBSZ09lVjM5MUd0XzIzRzllbG5HNFBwZUJsY1ZsOWhVb0lpZVBJWjFEcm1mZlNxV2FxRVZjUU5qOW9rMFYtdThwQXZISjUxQmJlb0ZieFVqcTV6SXhSaG9zRm5oc3pfOFlxb3E2d1ZSOW9pcUttck9QSzlkLU1qU0h0UEZzT3FhZA?oc=5
+
+- Piyush Goyal’s strong message to world: India pushes core trade issues, blocks IFDA at WTO - economictimes.indiatimes.com
+  Piyush Goyal: India pushes core trade issues, blocks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdERzenVyNURtSndpT3FrRF9KeW91NVVGSnJISE0yUFRvelVkazJ0RWxBUDN1Y2ktVnphYzJDdEl3eHdzSWtKSWM4dnNjdDBlMjFKMHBURnlYQzQySGlBT0Qxbmg0ZDByQXhMUFJ3Z3dwNDBDaHQzdThrRmJjZ1Q5aU84b2VWZ0g0bFgyRndMXzdoSUt5Mm5qR0lWa1FJX2c4OVpwM3UwYlVrQ2ttYWtNdWZzMzIxZE0wT2NpLUY1Q0stc2QxR0JuVjVCaC1nMC1kOVdfc3czUURPWWRNTHhyQzdQZUY4dHZqLVIteXdIdUlSQQ?oc=5
+
+- Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West Asia crisis - News On AIR
+  Sri Lankan President expresses gratitude towards India for support in sending fuel to amid West
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWVJemVEbnVXVFIzLWZ5dmpHQ0xXM3hhRVA3dUJvc2VBR0xuTWs2bGpMMl9aTzdERGw5Vlc5clF4cS1OZWhSUU8zWmw2TV9nd1hheG5TZHJET3VzN0lGazh5akM1MzQwSmhRNVo2SW03NE9lbEtEOXI3M2pobzRTWUJXaGs0UXpaR0xYOEZOZjVzMkx6a1hDOUk5OURSRVNHRHFoU0RIaWZNclJ3Nm9GMHJOVGlndUFjM0FVT3VlaExKNHFBNUl3NjAzYW5IQmRqS0FJ?oc=5
+
+- Indian Worker Killed In Kuwait After Iranian Attack On Power Facility - NDTV
+  Indian Worker Killed In Kuwait After Iranian Attack On
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXlBNEtsMk9xbklXUEpBMVhheWt6T0JPVnVQSngwX0tWQzdjX083c3dNVTdEOE54U0pYUnlubWJTQUVlN3BFcUluektVeFpwcTZhdTgyRUFldnEzM3pyeHZlMHlTMlNEZjl1cFhiUFA3ZWQySnk5ZGJIY1NBdS1MUmlZaENkMG5aeUJRS1BxRDMyVXZFVnZWSjBhSVlYN1VKczl3WlRVdVE5U3FvUHFB0gG3AUFVX3lxTE13UXNKbUVBSkVaMnlnMnhjUHRSakp4c1R2NW01cnJsbk1wcmVZQ25JbjBxS3lQUy1wZ3RWN2FsVHczNm0zY2QwNnNVcWV6R2czVlRVWkczcjJBREFvb05JNE93aVlKU0tGVmVDWmxNbU9JMnhuVDE2THN2S2hFOXNwVHN4aUExTzZoemhkOG1Da3JwUG1ETTRNamhjcHVPdWlZckFnSy1GQXNWZEhpMTZQV1ZOakNWZw?oc=5
+
+- Story Indian worker killed - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejFqS0x2T0dyTzBubVp2cE9BSU5ySXNUVmVGelVndGFsVXVOTWJrTFc2TGxSOERtbklfMmlyM20tTHBsTVo1UGIzTVFXRzVpYk9qalU1NnNTZmVoR3RkUG9lT1NGV0RldzJtWkt4QUwxRnBoV0x5bDJDNmhkSXhfd3ZKN3MtRjIwR196OWdNX04zOS1lS0hXUzZNMXRUcENTcEtUNTFGU2RCY0dGckR0MVRDdUlkTTJVWmFXZEZLcm8wNGRFWkJtZkdULVdycGNx0gHWAUFVX3lxTE90dV90emk1WTlwUFFSUThuNW5YSkU5X1VDanBlN1VpRXlrcU1PdnRVTEE4SzhDTnQwSlZ0U3liZ29ERC1pdTNqV09FMFJldmtXREhidXpLZ1luelJ1Z1ZDRzZEbzE0dDBXNFQ2a2oyWkNFVmw0TnlvZ19Na0tVekNSSUp3bEdBZmY3WVV4azlLLVVnUzVObWNNY2ZjUll5bG9STjN5T1JTS3lWcEV1eWFTUE5jYndvaWlvLXl5VUQ1Smo2MF9ETUFHTHJTSjFuaG9FSFNINEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-30 02:02:56 UTC_
+_Last updated: 2026-03-30 07:24:47 UTC_
