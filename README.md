@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Bihar Nalanda Temple Stampede Live Updates: CM Nitish Kumar Rs 6 lakh ex gratia for kin of deceased after 8 killed during prayers
+  
+  🔗 https://indianexpress.com/article/india/nalanda-stampede-live-updates-deaths-injured-bihar-temple-10610960/
+
+- Gold Rate Today, March 31: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-march-31-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10610812/
+
+- Assembly Elections 2026 Live Updates: UCC, ‘love jihad’ laws part of Assam poll agenda says Assam CM Sarma
+  
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-polling-dates-voter-count-latest-updates-10610667/
+
 - As Nitish Kumar’s Rajya Sabha move triggers churn in Bihar, the big question: Who succeeds him?
   
   🔗 https://indianexpress.com/article/india/as-nitish-kumars-rajya-sabha-move-triggers-churn-in-bihar-the-big-question-who-succeeds-him-10610345/
@@ -8,17 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/over-2-37-lakh-electors-to-vote-from-home-election-commission-10610422/
 
-- Not road rage, previous night’s bar brawl led to shootout that killed retired Brigadier on morning walk: Dehradun police
+- Artemis II Launch Date, Time, Live Stream: How to watch NASA Artemis II launch mission live
   
-  🔗 https://indianexpress.com/article/india/not-road-rage-previous-nights-bar-brawl-led-to-shootout-that-killed-retired-brigadier-on-morning-walk-dehradun-police-10610360/
+  🔗 https://indianexpress.com/article/technology/science/how-to-watch-artemis-ii-launch-live-nasas-historic-moon-flyby-mission-10610926/
 
-- A deadline, encounters, surrenders: The 2 years that dismantled Chhattisgarh’s Maoist bastions
+- Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones
   
-  🔗 https://indianexpress.com/article/india/a-deadline-encounters-surrenders-the-2-years-that-dismantled-chhattisgarhs-maoist-bastions-10610359/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chromebook-remorse-tech-backlash-at-schools-extends-beyond-phones-10610675/
 
-- Some states misusing OBC quota by including Muslims: Rajya Sabha MP K Laxman
+- What to Know About California’s Executive Order on AI
   
-  🔗 https://indianexpress.com/article/india/some-states-misusing-obc-quota-by-including-muslims-rajya-sabha-mp-k-laxman-10610443/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-to-know-about-californias-executive-order-on-ai-10610677/
 
 - Apple MacBook Air M5 review: The ‘right’ Mac for everyone
   
@@ -28,17 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-in-early-2025-10609431/
 
-- Top AI chatbots endorsed harmful user behaviour in 51% of cases, new Stanford study finds
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/top-ai-chatbots-sycophancy-standford-study-key-findings-10609393/
-
-- Bluesky introduces Attie, a new app that lets users vibe-code their own social feed
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/bluesky-introduces-attie-ai-agent-social-media-app-details-10609074/
-
-- Chromebook remorse: Tech backlash at schools extends beyond phones
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chromebook-remorse-tech-backlash-at-schools-extends-beyond-phones-10608878/
+- Indian mid-size IT companies look beyond US: Asia, Africa emerge as new growth hotspots
+  Asia, Africa and West Asia are emerging as key growth engines for Indian IT. These markets offer faster expansion than traditional US and European strongh
+  🔗 https://www.livemint.com/companies/persistent-systems-hexaware-firstsource-solutions-indian-mid-size-it-companies-asia-africa-growth-hotspots-11774926819661.html
 
 - The 72-hour U-turn: Inside the boardroom drama at Sundaram Clayton
   The TVS Group's patriarch returned to become chairman. The company secretary who left but stayed on, and the patriarch
@@ -56,129 +60,145 @@
   ECB has reservations about banking credentials of MPS board's CEO
   🔗 https://www.livemint.com/companies/ecb-has-reservations-about-banking-credentials-of-mps-boards-ceo-candidate-source-says-11774895502140.html
 
-- Airtel data centre arm Nxtra to raise $1 billion investment
-  Bharti Airtel’s Nxtra has
-  🔗 https://www.livemint.com/companies/airtel-nxtra-data-center-investment-alpha-wave-global-carlyle-11774887359101.html
+- Nifty 50 has risen eight times in last 10 years in April: Will US-Iran war clouds derail strong seasonality?
+  Historical data from Trendlyne shows that between 2016 and 2025, barring 2021 and 2022, the 50-pack Nifty has ended the month of
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-has-risen-eight-times-in-last-10-years-in-april-will-us-iran-war-clouds-derail-strong-seasonality-11774938458192.html
 
-- Gold, silver rates today: Gold prices rise above $4,600, silver surges to $73/oz. Should you trade?
-  Gold and silver rates today surged up to 4% after Federal Reserve indicated that long-term US inflation expectations remained in check. Checkout latest gold
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-rise-above-4-600-silver-surges-to-73-oz-should-you-trade-11774919758351.html
+- Easebuzz eyes $80–100 million pre-IPO round, appoints banker
+  The profitable payments firm will launch a mid-year process with Avendus as banker. It is targeting a valuation markup ahead of a fundraise
+  🔗 https://www.livemint.com/market/ipo/easebuzz-pre-ipo-funding-fintech-india-11774929060470.html
 
-- Hedge Funds Chase Yen Strength Plays on Intervention Fears
-  Hedge fund demand for dollar-yen options that profit from a decline in the pair has increased after the currency moved past
-  🔗 https://www.livemint.com/market/hedge-funds-chase-yen-strength-plays-on-intervention-fears-11774921161340.html
+- Gold, silver rates today: Check 24K, 22K gold, 999 silver rates on 31 March in your city — Delhi, Mumbai, others
+  On 31 March, gold prices fell in India, while silver gained slightly.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-check-24k-22k-gold-999-silver-rates-on-31-march-in-your-city-delhi-mumbai-others-11774930486041.html
 
-- Stock market holidays 2026: Are BSE and NSE closed today for trading on Mahavir Jayanti?
-  The Indian stock market will remain closed for two sessions this week. Checkout full stock market
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holidays-are-bse-and-nse-closed-for-trading-on-mahavir-jayanti-2026-11774917709440.html
+- Stocks to buy for short term: From DMart, MCX to Aurobindo Pharma— Experts suggest 6 stock picks for next 1-2 weeks
+  Six stocks to buy for short term: Avenue Supermarts (DMart), MCX, and Aurobindo Pharma.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-from-dmart-mcx-to-aurobindo-pharma-experts-suggest-6-stock-picks-for-next-1-2-weeks-11774926864617.html
 
-- After Iran, gold is looking less glittery
-  
-  🔗 https://www.livemint.com/market/after-iran-gold-is-looking-less-glittery-11774918279870.html
+- Oil prices remain steady as Trump signals possible end to US-Iran war. What's near-term outlook?
+  Oil prices were marginally up on Tuesday after reports revealed that Donald Trump was open to ending war against Iran. Check latest crude oil prices, along with
+  🔗 https://www.livemint.com/market/commodities/oil-slips-1-as-trump-signals-possible-end-to-us-iran-conflict-can-prices-drop-to-100-bbl-level-11774927057676.html
 
-- HDFC Bank falls on governance rumours: an opportunity or a warning?
-  HDFC Bank stock trades at a significant discount after a tough month. If this is a case of market overreaction, it is a clear
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-stock-fall-governance-rumors-opportunity-warning-11774859099406.html
+- Meta begins testing premium Instagram Plus subscription with exclusive Story features: here's what you should know
+   Meta is testing a new subscription called Instagram Plus in select countries. The new subscription will offer features like anonymous Story
+  🔗 https://www.livemint.com/technology/tech-news/meta-begins-testing-premium-instagram-plus-subscription-with-exclusive-story-features-heres-what-you-should-know-11774933380843.html
+
+- Meta, Snapchat, TikTok and YouTube arent fully complying with child account ban, Australia says
+   Meta, Snapchat, TikTok and YouTube aren
+  🔗 https://www.livemint.com/technology/meta-snapchat-tiktok-and-youtube-arent-fully-complying-with-child-account-ban-australia-says-11774936272382.html
+
+- Apple releases iOS 26.5 beta 1 update: Check top new features, how to download and more
+  Apple has released the iOS 26.5 beta 1 update with new emojis, keyboard improvements, and hints of upcoming features. The
+  🔗 https://www.livemint.com/technology/tech-news/apple-releases-ios-26-5-beta-1-update-check-top-new-features-how-to-download-and-more-11774923924707.html
+
+- Apple cracks down on AI generated apps, removes vibe coding app 'Anything' from App Store
+  Apple has removed the app 'Anythng' from the App Store for violating self-containment
+  🔗 https://www.livemint.com/technology/tech-news/apple-cracks-down-on-ai-generated-apps-removes-vibe-coding-app-anything-from-app-store-11774918247078.html
 
 - Big Tech sports broadcast rights could imperil US local TV news, stations argue
   Big Tech sports broadcast rights could imperil
   🔗 https://www.livemint.com/technology/big-tech-sports-broadcast-rights-could-imperil-us-local-tv-news-stations-argue-11774904425091.html
 
-- Meta, Amazon and Google blame artificial intelligence for massive job cuts: Is AI the real culprit behind tech layoffs?
-  According to a tech investor, blaming AI is better than citing cost pressure. Major tech giants such as Meta, Amazon and Google announced job cuts in the past.
-  🔗 https://www.livemint.com/technology/tech-news/meta-amazon-and-google-blame-artificial-intelligence-for-massive-job-cuts-is-ai-the-real-culprit-behind-tech-layoffs-11774882481251.html
+- Wall Street rally ahead? Dow futures jump nearly 500 points on Trump’s reported plans to exit Iran war
+  Gains in Dow, Nasdaq and S&amp;P futures come amid stable oil prices and falling bond yields. But uncertainty remains due to ongoing risks in the Strait of Hormuz.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wall-street-rally-ahead-dow-futures-jump-nearly-500-points-on-trumps-reported-plans-to-exit-iran-war/articleshow/129917897.cms
 
-- Meity moots IT rules tweaks to mandate platforms compliance with advisories, SOPs
-  Meity moots IT rules tweaks
-  🔗 https://www.livemint.com/technology/meity-moots-it-rules-tweaks-to-mandate-platforms-compliance-with-advisories-sops-11774886011106.html
+- Bitcoin holds near $67,000 despite geopolitical tensions; demand from long-term holders rises
+  Bitcoin held near the $67,000 level amid persistent geopolitical tensions and macro uncertainty. Altcoins largely declined, and overall market capitalisation edged lower.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67000-despite-geopolitical-tensions-demand-from-long-term-holders-rises/articleshow/129917633.cms
 
-- Govt to electronics firms: Upgrade engineering skills, develop design capacity
-  Union electronics and information technology minister Ashwini Vaishnaw gave companies 15 days to come up with clear product design plans. Failure to comply could result in incentives being withheld or
-  🔗 https://www.livemint.com/technology/ashwini-vaishnaw-electronics-manufacturing-product-design-global-standards-11774876780403.html
+- PropShare Celestia's Rs 244-cr IPO to open on Apr 10
+  Property Share Investment Trust, India's first registered SM REIT, announced its Rs 244.65 crore IPO for PropShare Celestia. The issue, priced between Rs 10-10.50 lakh per unit, aims to acquire seven floors
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/propshare-celestias-rs-244-cr-ipo-to-open-on-apr-10/articleshow/129917556.cms
 
-- Ukrainians chide German defense boss for jibes about Lego drones made by housewives
-  Ukrainians chide German defense boss
-  🔗 https://www.livemint.com/technology/ukrainians-chide-german-defense-boss-for-jibes-about-lego-drones-made-by-housewives-11774868710758.html
+- IndiQube leases 48,000 sq ft office space in Bengaluru to GCC, eyes Rs 75 cr rent in 5 yrs
+  IndiQube Spaces Ltd has secured a significant deal in Bengaluru. The realty firm leased 48,000 sq ft of office space. A health technology firm will establish a global capability centre.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indiqube-leases-48000-sq-ft-office-space-in-bengaluru-to-gcc-eyes-rs-75-cr-rent-in-5-yrs/articleshow/129917532.cms
 
-- NDF difference swings as banks stay away from usual forex bets
-  RBI curbs on net open rupee positions created volatility in dollar-rupee forwards. Initially, the gap between domestic and overseas rates widened significantly as banks anticipated selling dollars.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/ndf-difference-swings-as-banks-stay-away-from-usual-forex-bets/articleshow/129914176.cms
+- Housing sales in top 9 cities dip 13% in Jan-Mar, fall below 1 lakh unit after 18 quarters: PropEquity
+  Housing sales across nine major cities dropped 13% YoY to 98,761 units in Q1 2026.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/housing-sales-in-top-9-cities-dip-13-in-jan-mar-fall-below-1-lakh-unit-after-18-quarters-propequity/articleshow/129917463.cms
 
-- Stock Market Holiday: NSE, BSE closed today for Mahavir Jayanti. What are the upcoming market holidays in 2026?
-  Indian stock markets are closed today for Shri Mahavir Jayanti. This is the first of two market holidays this week. Trading will resume on Friday for Good Friday and again on April 14 for Dr. Baba Saheb
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-closed-today-for-mahavir-jayanti-what-are-the-upcoming-market-holidays-in-2026/articleshow/129900702.cms
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
 
-- Irdai to push basic health cover, hospital scorecards to expand sector
-  India's insurance regulator is set to introduce basic, no-frills health covers and performance scorecards for insurers and hospitals. These initiatives are designed to enhance transparency and informed choices for policyholders.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/irdai-to-push-basic-health-cover-hospital-scorecards-to-expand-sector/articleshow/129914127.cms
+- Exclusive: Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon - NDTV
+  " target="_blank">Exclusive
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0prSDlEN2dYUUtfZzlGM0Nvc3hSbHJnOUJPVjdvTWJnNHEtVDRqd1F5dHc4cXRualBUQTFYcWdlV2h2MnpFclo5RG02SEdTbGVpdDV2d2NOVlBzZmZKeF9KeHlnb1phcTNtVmkxNjBDQ1JGNVdOLWMyUlQ2SzRSMmZlSDhmNVdMTmZWQXc0c2hpY2cxc0pGcXFiTVdUem9QWDI2THJMRU5iV19sT0ZvaDdSUzRHTDJENDYwQtIBxAFBVV95cUxNYndLYzJ6cWNQYzNkVUVKWi1RRzFxaGZGT3dYNGhXdWRXTFdWVXVCLXJLRGh3Y3p5ZG5jRk1lSHZzYkREX1pNaElkMHFjNEEwajNiNk5yQXVFUnRqZGYyZk5IOWNhQXhRWk9uTHhRSl84ZERjdHAtQmlLUUltbmNhR3JzdExJVE1EY1UyR05rd0p4T3NrUEhyTkdvZy1uajc5aVlrS2lWaHAyRXFvc1pHN011NjVRNkdUN2hlcW5IYThuVkpz?oc=5
 
-- Lending rates fall some more, private banks lead push
-  Fresh rupee loan rates dipped in February, with private banks leading the decline. Public sector banks increased their lending rates.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lending-rates-fall-some-more-private-banks-lead-push/articleshow/129914107.cms
+- Stampede breaks out at Sheetla Temple in Bihar's Nalanda; 8 feared dead | India News - Hindustan Times
+  Stampede breaks out at Sheetla Temple in Bihar's Nal
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT0wtd3pOZWNnYk1BZXllLW9wdmJTM1Jkc2ZhTldvN05tcjdMQmdQaVZualA5VWlRcldSaFpZN2pyeFZaUUs0el9jcGxzWnhnMUF5cXRNd2ZuNTI2ejUycl9ONlBIbmJmdENnRHY0WFdrdDd4VHFURVN4ZkUzUTlkcmZZNGMxbmliR0U2NnpJZEJ5ZmFYWmxQT3dXeXlvUFJEUWpXRVJ3VnVzcGluMWhZczJLbEE1OUc0VGZVZzNxWGhoTW9yaFZqTkFxeFRlOWpMMDBHONIB2gFBVV95cUxPaUdvV055OUVibF9jQmVPcjlfemlhSGU1TDBpQ09DSGVhbWtTeVdjemFNTnhiQ0pwcWU0ZGlKdENPSW0yei0yTkV1S1NNQVlHOGhCWFNibjA2TmdMeWNaOTh2YjNrcDk3UXp3R3ZwakpxRWh5VTVfYXFaclNJRUlSdFBRX1Q5a010ekxJOWpJM1doOXpENXM2MGZUODFyZk5yaTBEaGtuYnBlTGNhdXhFN3c4REtNRlRiN0V5a2EwaVU3QnFHM0Z1Q2VGVGg1dUxQeWxEWU8tZ19jdw?oc=5
 
-- XED Executive Development withdraws first-ever GIFT IPO
-  XED Executive Development has withdrawn its initial public offering from GIFT City's IFSC due to a cautious investor mood. Despite retail interest, procedural issues and subdued institutional participation led the company to postpone its market debut.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/xed-executive-development-withdraws-first-ever-gift-ipo/articleshow/129914041.cms
+- LPG Crisis in India News Live Update: Govt says diversification has helped improve availability of crude, LPG, LNG in country - The Times of India
+  The Times of India reports that India is facing a shortage of LPG in the country.
+  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxObk5TZ2VuVHJ1SUxHRERYb0VLN1RJWS1BTEVZQ3Y5bDJPMk1MX2pmbUtZNV9IMzV2NHB2a2hUUHJqUXRqam5KRWdJcE1lQVJGTXVleXgzWnltaXdzOGdJdlZ1OUpqZXRYV1lRRFJneGxIcFluSnphWXJBRWZ5NEV6d2pqT1NEM1g3d3Nla0ZqeXp0bXdOWkRMV2s4Z19aT0RtTTE5dlptbkdnR0dkamhlZzgtUTR1RVR0dXNaQ1JRaWxPMVdKbVBvLUVnczhiY3RfY1diYjlicmM5RFBKTGUwbkg5MkttOERXMVR0Z3I3SExVMDQtdXhVd1U2MUdrVjI5TFRjcTdCdU01eURXN1hVTnNFLWFpMFoxVEZkcGFVbk0yd2NDZTVtNy05V1RXNW14djFCVXk1SnBxODIxTk53UnNtRUZyUlFzbzdaRFpmTmdMT2gtcEZkRHRrOURnanNidmpyNzVacWM?oc=5
 
-- Iranian Plane, Scheduled For India Aid Mission, Hit By US Airstrike: Report - NDTV
-  Iranian Plane, Scheduled For India Aid Mission
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdWo1bkVpV0JxT29wODFxSzhka1JkRDIycHJIR01OcnF1ZTRjY1M2WW9kSEp6a3ZVeV9TQWI4R0pyV18tWXFZNUxyQl9selZEcm55bnY2TTB5ZGhCWDZabXlvQV9icm1BV3BrSldSMXBaMVZDY0E5cU0zY3BEWGVtT1YyS1RxSGdQbVRRRURfSW1HTWRBcHdSOUxZRENRY2wxVEdtbzhNcnlNaVR6SXBDNy1sY1d5TzU5LVV4cUNXOXM4ZVJLYnRxbmhKQlB2ZEpUbWtoVmhROWJaUGNGX3hPeGVadGpnWG5QdzZ4RC1WMXREZkctWXBobXlTdnViZ9IBhgJBVV95cUxNOG5WekFCUnFyNUJyeDBlWGFPcnZOZjEwcjl5SjZuT2QtTFJxSTdnT3NjVDNldUxBQV9uRFZwazBzQ1RCYzctNVpSRTZxOHVvMjdpOFVUVGUxcGJtbDkzaWFwSGViRjFmbHJLNk9LN0xRUF9YR1VmMlNLXzNpdmN1LW5xNGRCYUJWYlRVMTdwaDktb2lwYjhjSDN4MmFxWFdMbVlLY0FrZDFJS0dEOGU1WHVNTFBua241R1MxR01TUEZXd1NOcjQ3RFY0WTZXbEVJbGFQLWRtdlMtNmxxSlRtWTVtTk8zSDZDOTFoUXR1eWxkbDV6akdIRzFUMkJJSE92X3lTWGRR?oc=5
+- Indian restaurant in Dubai offers up to 65% discount, but there's a twist - India Today
+  Indian restaurant in Dubai offers up to 65% discount, but
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWM0MTVLNTVGbEMzamJtSXRRTjFESGR0emZjZl9lbV9ncHNyMUoyRTFEcmZOOWNQaEYyTXMzMW1EM3RSYmRlS3dnc3g5VWQ5RVVYaG9LRTZyby1zdFV6Rmdoc0hqSUlsMzBPVGFxUHFLYVl1LU1LQ1NGM0pCcXdJVmNhbEFpdEtIdjE5NDc5XzdlbmxXcllkOHdtOXZzWEhpSzRjWDdZMy15TE10SW5FbGZPNkdfSGZlWnlnR290Mm9KNW9fUjk4V1ZGM1RFLXo10gHWAUFVX3lxTE9JdENZT1AxVGhTeDBxRElaTGRPNXFzZWt1cUpnRnFsMUhhaFc1VEgwR3J6OG9PRTZZQk5MLUNNZW1BaVg2cnJLaFh5OHNpX29sSXN4eHJxZ1lPTU5tM0htS3BvX3luQnctRWIzSUJ5NFdPMW45ZUZaRmRtTXROTHZ0T2NiMFdiZTJQenNPLWdxVGdqN3hJMW1RdXEtbEctMlZUSVA4SVNBNWFsSnBTQ245bVFITUUwdjQ5OGxEXzRwX0QyMXg1SV84UndQbWUxdWFxLVBtT3c?oc=5
 
-- India flags slower growth, wider deficit as Iran war raises the stakes for New Delhi - CNBC
-  India flags slower growth, wider deficit as Iran war raises the stakes
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0pOUWRaemZKWE1pS1ZqWW1aNzV4Y0NvSnZKU0IxcXBmWlNVOHhMZHVXaVVDbERwODJHR2gtZWR6akswTVpCLXVwM2Eydmd1MFdrNWFPVnF2cE91LXRXUWM5MXotay05TjEtOHNZb2RfaWNQMFQtY3dwbWI0ODd0NGJXRUdFUl9Pb2pWa2FR0gGTAUFVX3lxTE12RG5QcWdhWHRENlZtRW1iQ0EtNFdQUlk4REFQcjhLWmNpZEZtRkpwTnF5ZEdUb25aVGR2U19HSnlYQlJCZ3JxcXV4Ty1JU3lOZnRmVjYwV2s2SVdSZHcweXJYOVM3LWNUR05ydnA0eDBwNUU2ZlVIWE5xN0MtbU96Z21ubmdRaUtRbUZoY0phVUN4RQ?oc=5
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran hits fully loaded Kuwaiti oil tanker in Dubai; firefighting teams deployed - The Times of India
-  The Times of India reports that Iran hit a fully loaded Kuwaiti oil tanker in Dubai
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxNZWY0XzNFNXFqeHBDTzRnbGNVMmRULVBIMjlYZVZEdjZnbEt4ODNkMVJaZ0pXdTFlc0ROYm13ekVDQmdaWGtKQkxDLVlKMGV1VVh3bnB2dVZQcnAyWVh6aTQ3ZUlDRFZKd0l3WmNKMTM1bXVZclczSnFuUmJCRm9rSWFSajhMeXYyUGhGV29EM1ExN0NONnRNYzlKUjVHbHlKaDI3aGFDMFZYYjd2dTVyY1ZzeVhzTGRzU21WdjdmTnp2RjZINlJtNnhDQTgyN3VxcFdzMldSNndjTGpWN0ZjR2ZUMzcyNUszRzFacDBOcWVhUjN4bWpiSHN6OXl1VzFRdG81eEQtV2NwQWdlSXh3cVg1UHJYSzRiNDFpc2hoazhQY3NpUGVVaDQtV3E0cVZTN1lyeWpiWmdkYmd0enI00gHEAkFVX3lxTE8wcWtJY2dkMUdxSDA0Q0RxNkpzN0I1eFllWUdwa3JPdDBtMHp6STBOMU9YV1E5NDlJZ0M0SmFhckgtOEI3ZTNrLTFoZjZxQ2IwNHgtZUs4NUVMVmhiVHl6UEY0WUlZTHVpSTBJaS1iUGplRG95OG9wcldwN0ozMEFqUGRmQ3NYa0ZFUElnQTEzTWxhWlh5bHVMNkt2ZG5sQ2lWX3Z2YnV6M3Faa0lmQXM0SnBqbjhpU1R6YUNLRGtnYW9nYy1pY0Y3S0FWVWVFbUtnTUsyN0cxdnFVdzdwOF8xQkFKYzZtZm1nQVVsLV9KanZydTR2QWRLc2I5Y19hUngyOHlzMHQxeHlTV09GYlZRUGNvUU9ZNjVLQWM2aFQ0YlBsS0NzbzVNQ05DbTcyN0NmYU1qUi1xQ0ltaXJjRkV5SHNOdQ?oc=5
+- Exclusive: Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon - NDTV
+  " target="_blank">Exclusive
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0prSDlEN2dYUUtfZzlGM0Nvc3hSbHJnOUJPVjdvTWJnNHEtVDRqd1F5dHc4cXRualBUQTFYcWdlV2h2MnpFclo5RG02SEdTbGVpdDV2d2NOVlBzZmZKeF9KeHlnb1phcTNtVmkxNjBDQ1JGNVdOLWMyUlQ2SzRSMmZlSDhmNVdMTmZWQXc0c2hpY2cxc0pGcXFiTVdUem9QWDI2THJMRU5iV19sT0ZvaDdSUzRHTDJENDYwQtIBxAFBVV95cUxNYndLYzJ6cWNQYzNkVUVKWi1RRzFxaGZGT3dYNGhXdWRXTFdWVXVCLXJLRGh3Y3p5ZG5jRk1lSHZzYkREX1pNaElkMHFjNEEwajNiNk5yQXVFUnRqZGYyZk5IOWNhQXhRWk9uTHhRSl84ZERjdHAtQmlLUUltbmNhR3JzdExJVE1EY1UyR05rd0p4T3NrUEhyTkdvZy1uajc5aVlrS2lWaHAyRXFvc1pHN011NjVRNkdUN2hlcW5IYThuVkpz?oc=5
 
-- PM Modi Says Gulf Nations Prioritising Safety Of Indians, Slams Congress - NDTV
-  PM Modi says Gulf Nations Prioritising Safety
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2FZMXpackRxZG9zbDhRMnc0WVpVYUtTTmhmWEFJRHpscEdqaUpXZHFSZzdlMk12WjN6dWhLNVpLbXBOYkFSdDlpTnNGdm9ScWREQXNrYlczRVB0d1BuVWdNTzZ2ekd2Rzg2aUxMRVdVc0k1Tkd3dmdLa25acjdRUEkwT2FNQmZqcmxNaHV0UUtyUGpEc2JwQURLbFNqSXZKeDhFRk8tRjRJS0YyRU82TTlB0gG6AUFVX3lxTE1DeHpGXzNPdV9vR1dLbk5oZXRtZ2VVakxON0NPLUhKZTZycmxiaTJGZmppRFJNNkptS2NkUk16cnRwZExYUDlKdDRhYkNoOWtlVVlIMlNOV3JhWmxfazBVdWRuY053WkdTeUlVemZrNS1QRmNwQmpFeTJmR194b1FDaGxFOFIxaXBhTHFaOXByM2dNRjhHRENQMDZXd0FyclJVZUZyREIwU1FRTm1yZjE3RTVsTTJTdjIwUQ?oc=5
+- Stampede breaks out at Sheetla Temple in Bihar's Nalanda; 8 feared dead | India News - Hindustan Times
+  Stampede breaks out at Sheetla Temple in Bihar's Nal
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT0wtd3pOZWNnYk1BZXllLW9wdmJTM1Jkc2ZhTldvN05tcjdMQmdQaVZualA5VWlRcldSaFpZN2pyeFZaUUs0el9jcGxzWnhnMUF5cXRNd2ZuNTI2ejUycl9ONlBIbmJmdENnRHY0WFdrdDd4VHFURVN4ZkUzUTlkcmZZNGMxbmliR0U2NnpJZEJ5ZmFYWmxQT3dXeXlvUFJEUWpXRVJ3VnVzcGluMWhZczJLbEE1OUc0VGZVZzNxWGhoTW9yaFZqTkFxeFRlOWpMMDBHONIB2gFBVV95cUxPaUdvV055OUVibF9jQmVPcjlfemlhSGU1TDBpQ09DSGVhbWtTeVdjemFNTnhiQ0pwcWU0ZGlKdENPSW0yei0yTkV1S1NNQVlHOGhCWFNibjA2TmdMeWNaOTh2YjNrcDk3UXp3R3ZwakpxRWh5VTVfYXFaclNJRUlSdFBRX1Q5a010ekxJOWpJM1doOXpENXM2MGZUODFyZk5yaTBEaGtuYnBlTGNhdXhFN3c4REtNRlRiN0V5a2EwaVU3QnFHM0Z1Q2VGVGg1dUxQeWxEWU8tZ19jdw?oc=5
 
-- Breaking News Live March 31: Key LeT recruiter held in Delhi after month-long operation - The Times of India
-  The Times of India reported that a key LeT recruiter was arrested in
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2R6aXZyb2IzWkViYUtua0YwSXdtbFFzU0tHRjVnUXo4a0lTQjB2ajdhaEk1d0M1NXcwOUZla0xudG1FeDJGclZBWWZ3Ny1oNHRpNXlhc2RfdkltSHVTdUZMUkplRzE1Y3plWXU0S1duUGhEX05yNU1vRklhMU5JQl9zV2VvTEVFbjZDdmhhajcyeEJSNTROMzJodDdCbWNFTkktV3Z4bkNVWVXSAbABQVVfeXFMUFBORVZSZ0NfYjl6d0M0YkhsWUk2bmlaUDdlRHozNUVmWl8tdU55NV9tNXdKRmdNeEs4SHVLMUtmX2tGeTYzRVE3U3ZDYmxmRGVURDJLVlRhalVoM0dKWmQzQmUwNU5xRzhqMFZ1TkkzVmFMWmtCZFlSaEVDc0NxNFkwQXZuMGo2bDR6dldLZlFjY3VVa05iTVJQYmVvT2RrUjQ4ZlhKQ0sxUEFIbld4MTM?oc=5
+- LPG Crisis in India News Live Update: Govt says diversification has helped improve availability of crude, LPG, LNG in country - The Times of India
+  The Times of India reports that India is facing a shortage of LPG in the country.
+  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxObk5TZ2VuVHJ1SUxHRERYb0VLN1RJWS1BTEVZQ3Y5bDJPMk1MX2pmbUtZNV9IMzV2NHB2a2hUUHJqUXRqam5KRWdJcE1lQVJGTXVleXgzWnltaXdzOGdJdlZ1OUpqZXRYV1lRRFJneGxIcFluSnphWXJBRWZ5NEV6d2pqT1NEM1g3d3Nla0ZqeXp0bXdOWkRMV2s4Z19aT0RtTTE5dlptbkdnR0dkamhlZzgtUTR1RVR0dXNaQ1JRaWxPMVdKbVBvLUVnczhiY3RfY1diYjlicmM5RFBKTGUwbkg5MkttOERXMVR0Z3I3SExVMDQtdXhVd1U2MUdrVjI5TFRjcTdCdU01eURXN1hVTnNFLWFpMFoxVEZkcGFVbk0yd2NDZTVtNy05V1RXNW14djFCVXk1SnBxODIxTk53UnNtRUZyUlFzbzdaRFpmTmdMT2gtcEZkRHRrOURnanNidmpyNzVacWM?oc=5
 
-- Iranian Plane, Scheduled For India Aid Mission, Hit By US Airstrike: Report - NDTV
-  Iranian Plane, Scheduled For India Aid Mission
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdWo1bkVpV0JxT29wODFxSzhka1JkRDIycHJIR01OcnF1ZTRjY1M2WW9kSEp6a3ZVeV9TQWI4R0pyV18tWXFZNUxyQl9selZEcm55bnY2TTB5ZGhCWDZabXlvQV9icm1BV3BrSldSMXBaMVZDY0E5cU0zY3BEWGVtT1YyS1RxSGdQbVRRRURfSW1HTWRBcHdSOUxZRENRY2wxVEdtbzhNcnlNaVR6SXBDNy1sY1d5TzU5LVV4cUNXOXM4ZVJLYnRxbmhKQlB2ZEpUbWtoVmhROWJaUGNGX3hPeGVadGpnWG5QdzZ4RC1WMXREZkctWXBobXlTdnViZ9IBhgJBVV95cUxNOG5WekFCUnFyNUJyeDBlWGFPcnZOZjEwcjl5SjZuT2QtTFJxSTdnT3NjVDNldUxBQV9uRFZwazBzQ1RCYzctNVpSRTZxOHVvMjdpOFVUVGUxcGJtbDkzaWFwSGViRjFmbHJLNk9LN0xRUF9YR1VmMlNLXzNpdmN1LW5xNGRCYUJWYlRVMTdwaDktb2lwYjhjSDN4MmFxWFdMbVlLY0FrZDFJS0dEOGU1WHVNTFBua241R1MxR01TUEZXd1NOcjQ3RFY0WTZXbEVJbGFQLWRtdlMtNmxxSlRtWTVtTk8zSDZDOTFoUXR1eWxkbDV6akdIRzFUMkJJSE92X3lTWGRR?oc=5
+- Indian restaurant in Dubai offers up to 65% discount, but there's a twist - India Today
+  Indian restaurant in Dubai offers up to 65% discount, but
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWM0MTVLNTVGbEMzamJtSXRRTjFESGR0emZjZl9lbV9ncHNyMUoyRTFEcmZOOWNQaEYyTXMzMW1EM3RSYmRlS3dnc3g5VWQ5RVVYaG9LRTZyby1zdFV6Rmdoc0hqSUlsMzBPVGFxUHFLYVl1LU1LQ1NGM0pCcXdJVmNhbEFpdEtIdjE5NDc5XzdlbmxXcllkOHdtOXZzWEhpSzRjWDdZMy15TE10SW5FbGZPNkdfSGZlWnlnR290Mm9KNW9fUjk4V1ZGM1RFLXo10gHWAUFVX3lxTE9JdENZT1AxVGhTeDBxRElaTGRPNXFzZWt1cUpnRnFsMUhhaFc1VEgwR3J6OG9PRTZZQk5MLUNNZW1BaVg2cnJLaFh5OHNpX29sSXN4eHJxZ1lPTU5tM0htS3BvX3luQnctRWIzSUJ5NFdPMW45ZUZaRmRtTXROTHZ0T2NiMFdiZTJQenNPLWdxVGdqN3hJMW1RdXEtbEctMlZUSVA4SVNBNWFsSnBTQ245bVFITUUwdjQ5OGxEXzRwX0QyMXg1SV84UndQbWUxdWFxLVBtT3c?oc=5
 
-- India flags slower growth, wider deficit as Iran war raises the stakes for New Delhi - CNBC
-  India flags slower growth, wider deficit as Iran war raises the stakes
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0pOUWRaemZKWE1pS1ZqWW1aNzV4Y0NvSnZKU0IxcXBmWlNVOHhMZHVXaVVDbERwODJHR2gtZWR6akswTVpCLXVwM2Eydmd1MFdrNWFPVnF2cE91LXRXUWM5MXotay05TjEtOHNZb2RfaWNQMFQtY3dwbWI0ODd0NGJXRUdFUl9Pb2pWa2FR0gGTAUFVX3lxTE12RG5QcWdhWHRENlZtRW1iQ0EtNFdQUlk4REFQcjhLWmNpZEZtRkpwTnF5ZEdUb25aVGR2U19HSnlYQlJCZ3JxcXV4Ty1JU3lOZnRmVjYwV2s2SVdSZHcweXJYOVM3LWNUR05ydnA0eDBwNUU2ZlVIWE5xN0MtbU96Z21ubmdRaUtRbUZoY0phVUN4RQ?oc=5
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran hits fully loaded Kuwaiti oil tanker in Dubai; firefighting teams deployed - The Times of India
-  The Times of India reports that Iran hit a fully loaded Kuwaiti oil tanker in Dubai
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxNZWY0XzNFNXFqeHBDTzRnbGNVMmRULVBIMjlYZVZEdjZnbEt4ODNkMVJaZ0pXdTFlc0ROYm13ekVDQmdaWGtKQkxDLVlKMGV1VVh3bnB2dVZQcnAyWVh6aTQ3ZUlDRFZKd0l3WmNKMTM1bXVZclczSnFuUmJCRm9rSWFSajhMeXYyUGhGV29EM1ExN0NONnRNYzlKUjVHbHlKaDI3aGFDMFZYYjd2dTVyY1ZzeVhzTGRzU21WdjdmTnp2RjZINlJtNnhDQTgyN3VxcFdzMldSNndjTGpWN0ZjR2ZUMzcyNUszRzFacDBOcWVhUjN4bWpiSHN6OXl1VzFRdG81eEQtV2NwQWdlSXh3cVg1UHJYSzRiNDFpc2hoazhQY3NpUGVVaDQtV3E0cVZTN1lyeWpiWmdkYmd0enI00gHEAkFVX3lxTE8wcWtJY2dkMUdxSDA0Q0RxNkpzN0I1eFllWUdwa3JPdDBtMHp6STBOMU9YV1E5NDlJZ0M0SmFhckgtOEI3ZTNrLTFoZjZxQ2IwNHgtZUs4NUVMVmhiVHl6UEY0WUlZTHVpSTBJaS1iUGplRG95OG9wcldwN0ozMEFqUGRmQ3NYa0ZFUElnQTEzTWxhWlh5bHVMNkt2ZG5sQ2lWX3Z2YnV6M3Faa0lmQXM0SnBqbjhpU1R6YUNLRGtnYW9nYy1pY0Y3S0FWVWVFbUtnTUsyN0cxdnFVdzdwOF8xQkFKYzZtZm1nQVVsLV9KanZydTR2QWRLc2I5Y19hUngyOHlzMHQxeHlTV09GYlZRUGNvUU9ZNjVLQWM2aFQ0YlBsS0NzbzVNQ05DbTcyN0NmYU1qUi1xQ0ltaXJjRkV5SHNOdQ?oc=5
+- Exclusive: Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon - NDTV
+  " target="_blank">Exclusive
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0prSDlEN2dYUUtfZzlGM0Nvc3hSbHJnOUJPVjdvTWJnNHEtVDRqd1F5dHc4cXRualBUQTFYcWdlV2h2MnpFclo5RG02SEdTbGVpdDV2d2NOVlBzZmZKeF9KeHlnb1phcTNtVmkxNjBDQ1JGNVdOLWMyUlQ2SzRSMmZlSDhmNVdMTmZWQXc0c2hpY2cxc0pGcXFiTVdUem9QWDI2THJMRU5iV19sT0ZvaDdSUzRHTDJENDYwQtIBxAFBVV95cUxNYndLYzJ6cWNQYzNkVUVKWi1RRzFxaGZGT3dYNGhXdWRXTFdWVXVCLXJLRGh3Y3p5ZG5jRk1lSHZzYkREX1pNaElkMHFjNEEwajNiNk5yQXVFUnRqZGYyZk5IOWNhQXhRWk9uTHhRSl84ZERjdHAtQmlLUUltbmNhR3JzdExJVE1EY1UyR05rd0p4T3NrUEhyTkdvZy1uajc5aVlrS2lWaHAyRXFvc1pHN011NjVRNkdUN2hlcW5IYThuVkpz?oc=5
 
-- PM Modi Says Gulf Nations Prioritising Safety Of Indians, Slams Congress - NDTV
-  PM Modi says Gulf Nations Prioritising Safety
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2FZMXpackRxZG9zbDhRMnc0WVpVYUtTTmhmWEFJRHpscEdqaUpXZHFSZzdlMk12WjN6dWhLNVpLbXBOYkFSdDlpTnNGdm9ScWREQXNrYlczRVB0d1BuVWdNTzZ2ekd2Rzg2aUxMRVdVc0k1Tkd3dmdLa25acjdRUEkwT2FNQmZqcmxNaHV0UUtyUGpEc2JwQURLbFNqSXZKeDhFRk8tRjRJS0YyRU82TTlB0gG6AUFVX3lxTE1DeHpGXzNPdV9vR1dLbk5oZXRtZ2VVakxON0NPLUhKZTZycmxiaTJGZmppRFJNNkptS2NkUk16cnRwZExYUDlKdDRhYkNoOWtlVVlIMlNOV3JhWmxfazBVdWRuY053WkdTeUlVemZrNS1QRmNwQmpFeTJmR194b1FDaGxFOFIxaXBhTHFaOXByM2dNRjhHRENQMDZXd0FyclJVZUZyREIwU1FRTm1yZjE3RTVsTTJTdjIwUQ?oc=5
+- Stampede breaks out at Sheetla Temple in Bihar's Nalanda; 8 feared dead | India News - Hindustan Times
+  Stampede breaks out at Sheetla Temple in Bihar's Nal
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT0wtd3pOZWNnYk1BZXllLW9wdmJTM1Jkc2ZhTldvN05tcjdMQmdQaVZualA5VWlRcldSaFpZN2pyeFZaUUs0el9jcGxzWnhnMUF5cXRNd2ZuNTI2ejUycl9ONlBIbmJmdENnRHY0WFdrdDd4VHFURVN4ZkUzUTlkcmZZNGMxbmliR0U2NnpJZEJ5ZmFYWmxQT3dXeXlvUFJEUWpXRVJ3VnVzcGluMWhZczJLbEE1OUc0VGZVZzNxWGhoTW9yaFZqTkFxeFRlOWpMMDBHONIB2gFBVV95cUxPaUdvV055OUVibF9jQmVPcjlfemlhSGU1TDBpQ09DSGVhbWtTeVdjemFNTnhiQ0pwcWU0ZGlKdENPSW0yei0yTkV1S1NNQVlHOGhCWFNibjA2TmdMeWNaOTh2YjNrcDk3UXp3R3ZwakpxRWh5VTVfYXFaclNJRUlSdFBRX1Q5a010ekxJOWpJM1doOXpENXM2MGZUODFyZk5yaTBEaGtuYnBlTGNhdXhFN3c4REtNRlRiN0V5a2EwaVU3QnFHM0Z1Q2VGVGg1dUxQeWxEWU8tZ19jdw?oc=5
 
-- Breaking News Live March 31: Key LeT recruiter held in Delhi after month-long operation - The Times of India
-  The Times of India reported that a key LeT recruiter was arrested in
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2R6aXZyb2IzWkViYUtua0YwSXdtbFFzU0tHRjVnUXo4a0lTQjB2ajdhaEk1d0M1NXcwOUZla0xudG1FeDJGclZBWWZ3Ny1oNHRpNXlhc2RfdkltSHVTdUZMUkplRzE1Y3plWXU0S1duUGhEX05yNU1vRklhMU5JQl9zV2VvTEVFbjZDdmhhajcyeEJSNTROMzJodDdCbWNFTkktV3Z4bkNVWVXSAbABQVVfeXFMUFBORVZSZ0NfYjl6d0M0YkhsWUk2bmlaUDdlRHozNUVmWl8tdU55NV9tNXdKRmdNeEs4SHVLMUtmX2tGeTYzRVE3U3ZDYmxmRGVURDJLVlRhalVoM0dKWmQzQmUwNU5xRzhqMFZ1TkkzVmFMWmtCZFlSaEVDc0NxNFkwQXZuMGo2bDR6dldLZlFjY3VVa05iTVJQYmVvT2RrUjQ4ZlhKQ0sxUEFIbld4MTM?oc=5
+- LPG Crisis in India News Live Update: Govt says diversification has helped improve availability of crude, LPG, LNG in country - The Times of India
+  The Times of India reports that India is facing a shortage of LPG in the country.
+  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxObk5TZ2VuVHJ1SUxHRERYb0VLN1RJWS1BTEVZQ3Y5bDJPMk1MX2pmbUtZNV9IMzV2NHB2a2hUUHJqUXRqam5KRWdJcE1lQVJGTXVleXgzWnltaXdzOGdJdlZ1OUpqZXRYV1lRRFJneGxIcFluSnphWXJBRWZ5NEV6d2pqT1NEM1g3d3Nla0ZqeXp0bXdOWkRMV2s4Z19aT0RtTTE5dlptbkdnR0dkamhlZzgtUTR1RVR0dXNaQ1JRaWxPMVdKbVBvLUVnczhiY3RfY1diYjlicmM5RFBKTGUwbkg5MkttOERXMVR0Z3I3SExVMDQtdXhVd1U2MUdrVjI5TFRjcTdCdU01eURXN1hVTnNFLWFpMFoxVEZkcGFVbk0yd2NDZTVtNy05V1RXNW14djFCVXk1SnBxODIxTk53UnNtRUZyUlFzbzdaRFpmTmdMT2gtcEZkRHRrOURnanNidmpyNzVacWM?oc=5
 
-- Iranian Plane, Scheduled For India Aid Mission, Hit By US Airstrike: Report - NDTV
-  Iranian Plane, Scheduled For India Aid Mission
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdWo1bkVpV0JxT29wODFxSzhka1JkRDIycHJIR01OcnF1ZTRjY1M2WW9kSEp6a3ZVeV9TQWI4R0pyV18tWXFZNUxyQl9selZEcm55bnY2TTB5ZGhCWDZabXlvQV9icm1BV3BrSldSMXBaMVZDY0E5cU0zY3BEWGVtT1YyS1RxSGdQbVRRRURfSW1HTWRBcHdSOUxZRENRY2wxVEdtbzhNcnlNaVR6SXBDNy1sY1d5TzU5LVV4cUNXOXM4ZVJLYnRxbmhKQlB2ZEpUbWtoVmhROWJaUGNGX3hPeGVadGpnWG5QdzZ4RC1WMXREZkctWXBobXlTdnViZ9IBhgJBVV95cUxNOG5WekFCUnFyNUJyeDBlWGFPcnZOZjEwcjl5SjZuT2QtTFJxSTdnT3NjVDNldUxBQV9uRFZwazBzQ1RCYzctNVpSRTZxOHVvMjdpOFVUVGUxcGJtbDkzaWFwSGViRjFmbHJLNk9LN0xRUF9YR1VmMlNLXzNpdmN1LW5xNGRCYUJWYlRVMTdwaDktb2lwYjhjSDN4MmFxWFdMbVlLY0FrZDFJS0dEOGU1WHVNTFBua241R1MxR01TUEZXd1NOcjQ3RFY0WTZXbEVJbGFQLWRtdlMtNmxxSlRtWTVtTk8zSDZDOTFoUXR1eWxkbDV6akdIRzFUMkJJSE92X3lTWGRR?oc=5
+- Indian restaurant in Dubai offers up to 65% discount, but there's a twist - India Today
+  Indian restaurant in Dubai offers up to 65% discount, but
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWM0MTVLNTVGbEMzamJtSXRRTjFESGR0emZjZl9lbV9ncHNyMUoyRTFEcmZOOWNQaEYyTXMzMW1EM3RSYmRlS3dnc3g5VWQ5RVVYaG9LRTZyby1zdFV6Rmdoc0hqSUlsMzBPVGFxUHFLYVl1LU1LQ1NGM0pCcXdJVmNhbEFpdEtIdjE5NDc5XzdlbmxXcllkOHdtOXZzWEhpSzRjWDdZMy15TE10SW5FbGZPNkdfSGZlWnlnR290Mm9KNW9fUjk4V1ZGM1RFLXo10gHWAUFVX3lxTE9JdENZT1AxVGhTeDBxRElaTGRPNXFzZWt1cUpnRnFsMUhhaFc1VEgwR3J6OG9PRTZZQk5MLUNNZW1BaVg2cnJLaFh5OHNpX29sSXN4eHJxZ1lPTU5tM0htS3BvX3luQnctRWIzSUJ5NFdPMW45ZUZaRmRtTXROTHZ0T2NiMFdiZTJQenNPLWdxVGdqN3hJMW1RdXEtbEctMlZUSVA4SVNBNWFsSnBTQ245bVFITUUwdjQ5OGxEXzRwX0QyMXg1SV84UndQbWUxdWFxLVBtT3c?oc=5
 
-- India flags slower growth, wider deficit as Iran war raises the stakes for New Delhi - CNBC
-  India flags slower growth, wider deficit as Iran war raises the stakes
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0pOUWRaemZKWE1pS1ZqWW1aNzV4Y0NvSnZKU0IxcXBmWlNVOHhMZHVXaVVDbERwODJHR2gtZWR6akswTVpCLXVwM2Eydmd1MFdrNWFPVnF2cE91LXRXUWM5MXotay05TjEtOHNZb2RfaWNQMFQtY3dwbWI0ODd0NGJXRUdFUl9Pb2pWa2FR0gGTAUFVX3lxTE12RG5QcWdhWHRENlZtRW1iQ0EtNFdQUlk4REFQcjhLWmNpZEZtRkpwTnF5ZEdUb25aVGR2U19HSnlYQlJCZ3JxcXV4Ty1JU3lOZnRmVjYwV2s2SVdSZHcweXJYOVM3LWNUR05ydnA0eDBwNUU2ZlVIWE5xN0MtbU96Z21ubmdRaUtRbUZoY0phVUN4RQ?oc=5
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran hits fully loaded Kuwaiti oil tanker in Dubai; firefighting teams deployed - The Times of India
-  The Times of India reports that Iran hit a fully loaded Kuwaiti oil tanker in Dubai
-  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxNZWY0XzNFNXFqeHBDTzRnbGNVMmRULVBIMjlYZVZEdjZnbEt4ODNkMVJaZ0pXdTFlc0ROYm13ekVDQmdaWGtKQkxDLVlKMGV1VVh3bnB2dVZQcnAyWVh6aTQ3ZUlDRFZKd0l3WmNKMTM1bXVZclczSnFuUmJCRm9rSWFSajhMeXYyUGhGV29EM1ExN0NONnRNYzlKUjVHbHlKaDI3aGFDMFZYYjd2dTVyY1ZzeVhzTGRzU21WdjdmTnp2RjZINlJtNnhDQTgyN3VxcFdzMldSNndjTGpWN0ZjR2ZUMzcyNUszRzFacDBOcWVhUjN4bWpiSHN6OXl1VzFRdG81eEQtV2NwQWdlSXh3cVg1UHJYSzRiNDFpc2hoazhQY3NpUGVVaDQtV3E0cVZTN1lyeWpiWmdkYmd0enI00gHEAkFVX3lxTE8wcWtJY2dkMUdxSDA0Q0RxNkpzN0I1eFllWUdwa3JPdDBtMHp6STBOMU9YV1E5NDlJZ0M0SmFhckgtOEI3ZTNrLTFoZjZxQ2IwNHgtZUs4NUVMVmhiVHl6UEY0WUlZTHVpSTBJaS1iUGplRG95OG9wcldwN0ozMEFqUGRmQ3NYa0ZFUElnQTEzTWxhWlh5bHVMNkt2ZG5sQ2lWX3Z2YnV6M3Faa0lmQXM0SnBqbjhpU1R6YUNLRGtnYW9nYy1pY0Y3S0FWVWVFbUtnTUsyN0cxdnFVdzdwOF8xQkFKYzZtZm1nQVVsLV9KanZydTR2QWRLc2I5Y19hUngyOHlzMHQxeHlTV09GYlZRUGNvUU9ZNjVLQWM2aFQ0YlBsS0NzbzVNQ05DbTcyN0NmYU1qUi1xQ0ltaXJjRkV5SHNOdQ?oc=5
+- Exclusive: Hezbollah Seeks India's Role To Stop Israel's War Against Lebanon - NDTV
+  " target="_blank">Exclusive
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0prSDlEN2dYUUtfZzlGM0Nvc3hSbHJnOUJPVjdvTWJnNHEtVDRqd1F5dHc4cXRualBUQTFYcWdlV2h2MnpFclo5RG02SEdTbGVpdDV2d2NOVlBzZmZKeF9KeHlnb1phcTNtVmkxNjBDQ1JGNVdOLWMyUlQ2SzRSMmZlSDhmNVdMTmZWQXc0c2hpY2cxc0pGcXFiTVdUem9QWDI2THJMRU5iV19sT0ZvaDdSUzRHTDJENDYwQtIBxAFBVV95cUxNYndLYzJ6cWNQYzNkVUVKWi1RRzFxaGZGT3dYNGhXdWRXTFdWVXVCLXJLRGh3Y3p5ZG5jRk1lSHZzYkREX1pNaElkMHFjNEEwajNiNk5yQXVFUnRqZGYyZk5IOWNhQXhRWk9uTHhRSl84ZERjdHAtQmlLUUltbmNhR3JzdExJVE1EY1UyR05rd0p4T3NrUEhyTkdvZy1uajc5aVlrS2lWaHAyRXFvc1pHN011NjVRNkdUN2hlcW5IYThuVkpz?oc=5
 
-- PM Modi Says Gulf Nations Prioritising Safety Of Indians, Slams Congress - NDTV
-  PM Modi says Gulf Nations Prioritising Safety
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2FZMXpackRxZG9zbDhRMnc0WVpVYUtTTmhmWEFJRHpscEdqaUpXZHFSZzdlMk12WjN6dWhLNVpLbXBOYkFSdDlpTnNGdm9ScWREQXNrYlczRVB0d1BuVWdNTzZ2ekd2Rzg2aUxMRVdVc0k1Tkd3dmdLa25acjdRUEkwT2FNQmZqcmxNaHV0UUtyUGpEc2JwQURLbFNqSXZKeDhFRk8tRjRJS0YyRU82TTlB0gG6AUFVX3lxTE1DeHpGXzNPdV9vR1dLbk5oZXRtZ2VVakxON0NPLUhKZTZycmxiaTJGZmppRFJNNkptS2NkUk16cnRwZExYUDlKdDRhYkNoOWtlVVlIMlNOV3JhWmxfazBVdWRuY053WkdTeUlVemZrNS1QRmNwQmpFeTJmR194b1FDaGxFOFIxaXBhTHFaOXByM2dNRjhHRENQMDZXd0FyclJVZUZyREIwU1FRTm1yZjE3RTVsTTJTdjIwUQ?oc=5
+- Stampede breaks out at Sheetla Temple in Bihar's Nalanda; 8 feared dead | India News - Hindustan Times
+  Stampede breaks out at Sheetla Temple in Bihar's Nal
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT0wtd3pOZWNnYk1BZXllLW9wdmJTM1Jkc2ZhTldvN05tcjdMQmdQaVZualA5VWlRcldSaFpZN2pyeFZaUUs0el9jcGxzWnhnMUF5cXRNd2ZuNTI2ejUycl9ONlBIbmJmdENnRHY0WFdrdDd4VHFURVN4ZkUzUTlkcmZZNGMxbmliR0U2NnpJZEJ5ZmFYWmxQT3dXeXlvUFJEUWpXRVJ3VnVzcGluMWhZczJLbEE1OUc0VGZVZzNxWGhoTW9yaFZqTkFxeFRlOWpMMDBHONIB2gFBVV95cUxPaUdvV055OUVibF9jQmVPcjlfemlhSGU1TDBpQ09DSGVhbWtTeVdjemFNTnhiQ0pwcWU0ZGlKdENPSW0yei0yTkV1S1NNQVlHOGhCWFNibjA2TmdMeWNaOTh2YjNrcDk3UXp3R3ZwakpxRWh5VTVfYXFaclNJRUlSdFBRX1Q5a010ekxJOWpJM1doOXpENXM2MGZUODFyZk5yaTBEaGtuYnBlTGNhdXhFN3c4REtNRlRiN0V5a2EwaVU3QnFHM0Z1Q2VGVGg1dUxQeWxEWU8tZ19jdw?oc=5
 
-- Breaking News Live March 31: Key LeT recruiter held in Delhi after month-long operation - The Times of India
-  The Times of India reported that a key LeT recruiter was arrested in
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX2R6aXZyb2IzWkViYUtua0YwSXdtbFFzU0tHRjVnUXo4a0lTQjB2ajdhaEk1d0M1NXcwOUZla0xudG1FeDJGclZBWWZ3Ny1oNHRpNXlhc2RfdkltSHVTdUZMUkplRzE1Y3plWXU0S1duUGhEX05yNU1vRklhMU5JQl9zV2VvTEVFbjZDdmhhajcyeEJSNTROMzJodDdCbWNFTkktV3Z4bkNVWVXSAbABQVVfeXFMUFBORVZSZ0NfYjl6d0M0YkhsWUk2bmlaUDdlRHozNUVmWl8tdU55NV9tNXdKRmdNeEs4SHVLMUtmX2tGeTYzRVE3U3ZDYmxmRGVURDJLVlRhalVoM0dKWmQzQmUwNU5xRzhqMFZ1TkkzVmFMWmtCZFlSaEVDc0NxNFkwQXZuMGo2bDR6dldLZlFjY3VVa05iTVJQYmVvT2RrUjQ4ZlhKQ0sxUEFIbld4MTM?oc=5
+- LPG Crisis in India News Live Update: Govt says diversification has helped improve availability of crude, LPG, LNG in country - The Times of India
+  The Times of India reports that India is facing a shortage of LPG in the country.
+  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxObk5TZ2VuVHJ1SUxHRERYb0VLN1RJWS1BTEVZQ3Y5bDJPMk1MX2pmbUtZNV9IMzV2NHB2a2hUUHJqUXRqam5KRWdJcE1lQVJGTXVleXgzWnltaXdzOGdJdlZ1OUpqZXRYV1lRRFJneGxIcFluSnphWXJBRWZ5NEV6d2pqT1NEM1g3d3Nla0ZqeXp0bXdOWkRMV2s4Z19aT0RtTTE5dlptbkdnR0dkamhlZzgtUTR1RVR0dXNaQ1JRaWxPMVdKbVBvLUVnczhiY3RfY1diYjlicmM5RFBKTGUwbkg5MkttOERXMVR0Z3I3SExVMDQtdXhVd1U2MUdrVjI5TFRjcTdCdU01eURXN1hVTnNFLWFpMFoxVEZkcGFVbk0yd2NDZTVtNy05V1RXNW14djFCVXk1SnBxODIxTk53UnNtRUZyUlFzbzdaRFpmTmdMT2gtcEZkRHRrOURnanNidmpyNzVacWM?oc=5
+
+- Indian restaurant in Dubai offers up to 65% discount, but there's a twist - India Today
+  Indian restaurant in Dubai offers up to 65% discount, but
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWM0MTVLNTVGbEMzamJtSXRRTjFESGR0emZjZl9lbV9ncHNyMUoyRTFEcmZOOWNQaEYyTXMzMW1EM3RSYmRlS3dnc3g5VWQ5RVVYaG9LRTZyby1zdFV6Rmdoc0hqSUlsMzBPVGFxUHFLYVl1LU1LQ1NGM0pCcXdJVmNhbEFpdEtIdjE5NDc5XzdlbmxXcllkOHdtOXZzWEhpSzRjWDdZMy15TE10SW5FbGZPNkdfSGZlWnlnR290Mm9KNW9fUjk4V1ZGM1RFLXo10gHWAUFVX3lxTE9JdENZT1AxVGhTeDBxRElaTGRPNXFzZWt1cUpnRnFsMUhhaFc1VEgwR3J6OG9PRTZZQk5MLUNNZW1BaVg2cnJLaFh5OHNpX29sSXN4eHJxZ1lPTU5tM0htS3BvX3luQnctRWIzSUJ5NFdPMW45ZUZaRmRtTXROTHZ0T2NiMFdiZTJQenNPLWdxVGdqN3hJMW1RdXEtbEctMlZUSVA4SVNBNWFsSnBTQ245bVFITUUwdjQ5OGxEXzRwX0QyMXg1SV84UndQbWUxdWFxLVBtT3c?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-03-31 01:58:32 UTC_
+_Last updated: 2026-03-31 07:10:19 UTC_
