@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Adivasi women paraded, faces blackened over bike theft allegation in Jharkhand’s Ranchi
+- Modi targets Congress’s ‘dangerous law’ pitch in Assam, promises UCC; Priyanka alleges corruption
+  
+  🔗 https://indianexpress.com/article/india/modi-targets-congresss-dangerous-law-pitch-in-assam-promises-ucc-priyanka-alleges-corruption-10614223/
+
+- 8 arrested for ‘spreading rumours’ about LPG, petrol shortage; police say they were chasing views online
+  
+  🔗 https://indianexpress.com/article/india/arrested-rumours-lpg-petrol-shortage-police-chasing-views-10614193/
+
+- Woman molested, dragged through village in Bihar’s Nalanda; 8 held
+  
+  🔗 https://indianexpress.com/article/india/woman-molested-dragged-through-village-in-bihars-nalanda-10614112/
+
+- Indian Railways’ boarding station change rules 2026 get effective: Eligibility and step-by-step guide
+  
+  🔗 https://indianexpress.com/article/india/indian-railways-boarding-station-change-rules-2026-10613986/
+
+- Adivasi women paraded, faces blackened over bike theft charge in Ranchi
   
   🔗 https://indianexpress.com/article/india/adivasi-women-paraded-faces-blackened-bike-theft-allegation-jharkhands-ranchi-10613806/
 
-- Lok Sabha clears Bill to make Amaravati sole capital of Andhra Pradesh, YSR Congress stages walkout
+- Shroud of Turin, linked by believers to Jesus Christ, has an Indian DNA signal: Study
   
-  🔗 https://indianexpress.com/article/india/lok-sabha-andhra-pradesh-reorganisation-bill-2026-amaravati-capital-10613688/
-
-- Ranchi lawyer convicted for assaulting female colleague inside HC; court says victim’s testimony ‘inspires confidence’
-  
-  🔗 https://indianexpress.com/article/india/ranchi-lawyer-convicted-assaulting-female-colleague-inside-hc-victims-testimony-confidence-10613608/
-
-- J&K backs private member land Bill, Sajjad Lone flags ‘super elite’ bias
-  
-  🔗 https://indianexpress.com/article/india/jk-private-member-land-bill-sajjad-lone-supre-elite-bias-10613559/
-
-- Fleeing abuse at home, Andhra teen ‘gangraped’ after arriving in Odisha
-  
-  🔗 https://indianexpress.com/article/india/fleeing-abuse-at-home-andhra-teen-gangraped-after-arriving-in-odisha-10613492/
+  🔗 https://indianexpress.com/article/technology/science/shroud-of-turin-linked-by-believers-to-jesus-christ-has-an-indian-dna-signal-study-10614146/
 
 - Nothing eyes smartglasses: Carl Pei may be planning AI-powered wearable for 2027
   
@@ -36,49 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/rbi-new-upi-rules-april-1-two-factor-authentication-atm-charges-10613144/
 
-- Why NASA isn’t landing on the Moon yet: Artemis’ future plans
-  
-  🔗 https://indianexpress.com/article/technology/science/why-nasa-isnt-landing-on-the-moon-yet-artemis-future-plans-10613183/
+- ‘Built in the 1940s to count tanks’: Nithin Kamath questions if GDP is right measure of progress
+  Zerodha founder and CEO Nithin Kamath has debated reliance on GDP as a measure of economic growth and progress. Kam
+  🔗 https://www.livemint.com/companies/people/built-in-1940s-count-tanks-zerodha-nithin-kamath-questions-if-gdp-right-measure-progress-growth-india-ai-economy-planet-11775056064180.html
 
-- SC to decide if coke breeze imports qualify for duty exemption for steelmakers
-  CESTAT rulings have pushed the top court to decide whether coke breeze qualifies as metallurgical coke.
-  🔗 https://www.livemint.com/companies/news/supreme-court-steel-industry-coke-breeze-customs-duty-exemption-costs-11775042512379.html
+- Vodafone Idea adds users after 5 years
+  The modest user additions signal a potential turnaround for the struggling telecom operator. The gain reflects its recent network expansion
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-subscribers-growth-telecom-operator-network-expansion-agr-relief-11775058952442.html
 
-- IPO plans hit by West Asia war, firms recalibrate listings amid volatility
-  Other companies including Turtlemint, Indo-Mim, Inframarket, Symbiotech Pharmalabs, Duroflex, and
-  🔗 https://www.livemint.com/companies/ipo-market-slowdown-india-companies-delay-listings-west-asia-war-11775037366684.html
+- Elon Musk's SpaceX submits draft IPO filing ahead of AI rivals Anthropic, OpenAI, says report — Here's what we know
+  Elon Musk's rocket, satellite and AI company closer to delivering the biggest-ever listing. SpaceX has filed confidentially for an
+  🔗 https://www.livemint.com/companies/news/elon-musk-spacex-submit-draft-ipo-filing-before-ai-rivals-anthropic-openai-report-biggest-listing-june-2026-date-markets-11775059315832.html
 
-- Mint Explainer: What the weight-loss drug frenzy means for pharma sector and for you
-  A price war has hit India’s weight-loss and diabetes drug market after semaglutide lost patent protection. Cheaper generics may widen access, but concerns
-  🔗 https://www.livemint.com/companies/ozempic-wegovy-price-cut-india-generic-semaglutide-market-competition-11775030562975.html
+- More than 16 lakh government email accounts migrated to Zoho’s cloud platform at a cost of  ₹180 crore
+  The Central government has migrated 16.68 lakh official email accounts to Zoho's cloud platform. This initiative aims to improve email security and modernize communication
+  🔗 https://www.livemint.com/companies/news/more-than-16-lakh-government-email-accounts-migrated-to-zoho-s-cloud-platform-11775059559179.html
 
-- Indus Towers appoints ex-Amazon executive Venkatesh Tiwari as new COO
-  Indus Towers appoints Venkatesh Tiwari as its new
-  🔗 https://www.livemint.com/companies/news/indus-towers-appoints-ex-amazon-executive-venkatesh-tiwari-as-new-coo-11775034820990.html
+- Will India get Iranian crude after 7-year gap? Tanker signals Gujarat port; ‘no specific information’, says govt
+  The Ping Shun reportedly began transmitting signals on Monday, indicating it will arrive at India’s western port of
+  🔗 https://www.livemint.com/companies/news/tanker-carrying-iranian-crude-heading-towards-gujarat-port-no-specific-information-says-govt-11775050060403.html
 
-- Mamaearth's Ghazal Alagh shares advice for team leaders on AI use: 'Teach people how to think, adopt'
-  Mamaearth co-founder Ghazal Alagh urges team leaders to focus on fostering critical thinking and clarity about AI's benefits in their
-  🔗 https://www.livemint.com/companies/people/mamaearths-ghazal-alagh-shares-advice-for-team-leaders-on-ai-use-teach-people-how-to-think-adopt-11775033703343.html
+- Conagra Brands shares drop 3% after weak annual profit forecast on rising costs
+  Conagra Brands anticipates an annual adjusted profit of $1.70 per share.
+  🔗 https://www.livemint.com/market/stock-market-news/conagra-brands-shares-drop-3-after-weak-annual-profit-forecast-on-rising-costs-11775062847774.html
 
-- Markets make an uneasy truce with Iran war risks. This is what a real rally needs.
-  Stock markets are hopeful. Oil markets less
-  🔗 https://www.livemint.com/market/stock-market-news/markets-make-an-uneasy-truce-with-iran-war-risks-this-is-what-a-real-rally-needs-11775046171367.html
+- TVS Motor shares to be in focus on Thursday as March sales jump 25% to 5.19 lakh units
+  TVS Motor Company saw March 2026 sales grow by 25%, driven by two-wheelers and a 44% increase in EV sales. Despite a significant drop in share prices in March, the
+  🔗 https://www.livemint.com/market/stock-market-news/tvs-motor-shares-to-be-in-focus-on-thursday-as-march-sales-jump-25-to-5-19-lakh-units-11775062530185.html
 
-- US stock market today: Dow, S&amp;P 500 futures gain rise on hopes of US-Iran war de-escalation
-  US stock futures indicate a positive market opening amid optimism for the Iran war's end. Trump hints at a US withdrawal from the conflict, while Israel and Yemeni forces
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-gain-rise-on-hopes-of-us-iran-war-deescalation-11775041478730.html
+- Nike shares sink 14.5% to over a decade low after CEO flags weak sales outlook amid China stumble
+  Nike's shares fell 14.5% after a disappointing sales forecast. CEO Elliott Hill warned of challenges in China, projecting a 20% sales decline.
+  🔗 https://www.livemint.com/market/nike-shares-sink-14-5-to-over-a-decade-low-after-flagging-weak-sales-outlook-11775057973577.html
 
-- How can NRI investors deploy funds in mutual funds in India? Explained
-  Investing in Indian mutual funds allows NRIs to diversify their portfolio. Mutual funds offer professionally managed portfolios across equity and debt markets.
-  🔗 https://www.livemint.com/market/stock-market-news/how-can-nri-investors-deploy-funds-in-mutual-funds-in-india-explained-11775044694517.html
+- Gold, silver rates today: Comex gold jumps $113/oz; silver nears $76/oz as dollar eases from recent highs
+  April gold hit $4,791, while May silver reached $75.95, as the US dollar weakened and President Trump's remarks fuelled ceasefire hopes.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-113-oz-silver-nears-76-oz-as-dollar-eases-from-recent-highs-11775051677501.html
 
-- US Treasuries jump as potential resolution to Iran war fuel rate cut hopes
-  Yields on 2-year and 10-year government notes each slipped by
-  🔗 https://www.livemint.com/market/stock-market-news/us-treasuries-jump-as-potential-resolution-to-iran-war-fuel-rate-cut-hopes-11775041894278.html
-
-- Difficult to predict market outlook for FY27; higher energy prices can impact earnings: Krishnan VR of Marcellus
-  Krishnan VR, head of quantitative research at Marcellus Investment Managers, discusses the unpredictable market landscape for FY
-  🔗 https://www.livemint.com/market/stock-market-news/difficult-to-predict-stock-market-outlook-for-fy27-higher-energy-prices-can-impact-earnings-krishnan-vr-of-marcellus-11775040056205.html
+- Strong start to FY27 as markets add  ₹9.3 trillion in investor wealth
+  If global uncertainty lingers and crude prices stay elevated for long, the impact on both the economy and
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-sensex-wealth-creation-market-outlook-global-cues-investment-opportunity-11775051391684.html
 
 - Passengers stranded in moving traffic after robotaxi outage in Chinas Wuhan
   Passengers stranded in moving traffic
@@ -100,125 +100,125 @@
   Google is now allowing users to change their embarrassing Gmail usernames. The feature is currently onlly available
   🔗 https://www.livemint.com/technology/tech-news/google-ends-20-year-restriction-finally-allows-users-to-change-embarrassing-gmail-usernames-11775014836422.html
 
-- Stock Market Today: Dow Futures Rise on Hopes for Quick End to War — Live Updates - WSJ
-  Stock futures are higher to start the month as optimism around Iran war ending grows.
+- Stock Market Today: Dow Gains 450 Points on Hopes for Quick End to Iran War — Live Updates - WSJ
+  Asian Stocks Set to Track US Rally on Iran Hopes: Markets Wrap. Major Indexes Have Best Day Since May; Oil Pulls Back.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGZhRngyVU1HUy1IWHNjbnMyeW1Fajl4QUt5SEd5XzBLdGcyTmxrT0VJVWJxYXVPaVlLTWd1TTg4MmtUWnZUS1JmcmtsOUxyQTBNYXozTFhMWUdEQTI2emRHV0I5U2VQaF9xb2twSC1Wc3VDbENPNHAyUWFyYW1yeFFUN0tCWWs?oc=5
 
-- VNRX: Licensing-driven diagnostics platform targets multi-billion dollar markets with scalable, low-cost tests - TradingView
-  VNRX is a new diagnostics platform
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOYUJ2RXJoRUVjY1RYUVJTMWhja0o3XzdkMkdPNWM0eGNlVnpUYUJRU2RwUjkweDllQjdNd3l1WEhHRktpczZ6ek1ZN09vd0RodGx5WjRkMHM3VEhKVGVYY0wwTXBsRWtDcjZyOU9NMnNKVWZvb2ttTzdXTFlyVUxORV9rcGR5bEdlNFM2M2JnVmVLSkc3Q1RiaXVUdnhIeEdjRU1fTkVRU3lKUy02b0owUjZ4aUdYSkJPUk9DZGlITXItaXdCb001ZXV1cENrWmxYY2dHRzlWRXJud0UydDJkSkZhd0ZXenNMMlEyeWJIRnNuZnBNekthNXlMaV9WMkVRVGVNbkZ3SU1kRnFiY1BISUgwUDJ1U3NtX0tv?oc=5
+- Elon Musk's SpaceX Could Launch Largest Ever Stock Market Listing: Report - NDTV
+  Elon Musk's SpaceX could launch Larg
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG4tNDRFQXM1ZEc0dUFoeGQtOVQydjZRa1FHOThTRWVTWVNlTUw1Vl9lS1E0NG9lVF9qd1ZRMjV6Sm53aG9DTXE4eUpRNzJlVE1UWWpMdE9FMlNEdFFBaklmWG92Z0tOX05WZ2d5VW1PcGJJZFlxUlhuRmdXVHdYMEdXeGJDRGg0YklOaW13TjU2Q0U4ZmZUWjhJQVBpbkI5ZWhkOWdoNlA5ejNiU0tsX1BB0gG6AUFVX3lxTE4ydlhNQlZSQkxUcHMxd1I4a1RvcVIwQ3h0MlF6eEl6RjJyMnhHdUE3YWt3NXpYYWhoTGJUNFZaRFNZZ2lQMkQtcndGZzNuVS1fOEFLVllEdGFYZGFPNHFVdlBfNUd6bVFHQkVGUVZwVW5QcHJUXzVOemlQYS1nU2c0SV9FLXluR0o5WExMSmlVZ3VMTVcwUEcwRUM5S0xIMFlHOE9CalhhMHpXWTV2NUp4dWRQMWQxZjZpZw?oc=5
 
-- BOE’s Bailey Says Traders Ahead of Themselves on Rate Hike Bets - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHRSTVB2d0x2dTNDQVc3VEpoU2pSRWJodkxKWkxaUmw0N0k0OWRnaXFDUWt0TXZOOHhqOEJUQ2Z5MnVRNmNpN2x6SkVMU2R0LVp6dmpIMG9OWThpUzZaRFRPSElHUkRBdDNKZlBCVHFLS240VFRBTGRkWmdsdVJxM2YtbjA0QVR4M2pvNWpnMkVQTzVUYUt6TU5wUlFBWUt2QWtMVDN6Zk9EaXBwT3p4SUliM1k?oc=5
-
-- Stock Market Highlights: Sensex Closes 1,186 Points Higher As Trump Says Will Leave Iran Soon - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFRwZk11cGVOYm5pRndWLXNtNEF2UFg1NFpvTWJfWGlFNEpJd0VNS2ltYWRXaURNSWRRQmpTSjRIUUttZE5vNE9wUzFQV2xzaU42ZmhXMGRnRWJjZW5ZbDlIMmcxeWdUcl
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFRwZk11cGVOYm5pRndWLXNtNEF2UFg1NFpvTWJfWGlFNEpJd0VNS2ltYWRXaURNSWRRQmpTSjRIUUttZE5vNE9wUzFQV2xzaU42ZmhXMGRnRWJjZW5ZbDlIMmcxeWdUcldKNE16MS1nQ1FhSmNjbUVTTWNmajFnQUpxcEpkQlZYcUtzanRra21ueFBpaHl2N3B2SDU4b3Q0MEdiNF8tSkY4Ny1RVzhDQ2lQckg4d1hZTThVWFh0a0dwWWRfY0R2MkhFMi1EcEJTNC1EbUloa0Y3T1pnYkEtdFVwT24taEhicEtDbERHSdIB9wFBVV95cUxPMmM1ZE9CZlQzOWQ0NFVNRms2dDIwVUI5QVV1RXlSRzJaMnZlT3JkUjlCSHlmMGVpV1Q5WTVadjZCeWRUX2ROaGZHZnBYaldQUzFRSzZPcW40TzJMbFI0b21EbndyY2ZaVjNPdl9RY0phWlVSRm1iNkJwMjZ2NU5YaUQ2b3BBck4zSXFaWkt2ZW50V082amlUQ3dhX0J5Ti0yNE1LWjdsRkFmWTZfempyTTdJcVpiM0duRDhvN3E5NDU0bjJoNWVGMkFKaWV5YzVxSEszNXVZSkE2WEk1X3BXNElzY3BjTlpqUGxzTGtWY19VYVZlOWNZ?oc=5
+- SpaceX confidentially files to go public on stock market, reports say - The Guardian
+  SpaceX confidentially files to go public on stock
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNU09XZTA0aEY5cS1hcE11LXJ4Q055ZzRKVFotOHFBSnYyUnBQeWZuV1NSV092R0VXeWF5eXJWb0RtU3VDY25LR2NFWXdYY0ZzRmRtYnpyOGRhaWw2alNNOGNfZzFEMEp0YkprYVVtamt5NXlReXd3M28xWDhxclljMTV4dmhzVmZ2alQyQ1A2aw?oc=5
 
 - South Korea's Kospi leads rebound in Asia markets as Trump says Iran war could end in weeks - CNBC
   South Korea's Kospi leads rebound in Asia markets as Trump says Iran
   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUW1fYnJmM21JOTVMTVdzbEpzVGJNdVJOVUpWZ1BoTkNiM21OZVQ3M2pORnNpT0h3N0hrZ0FCQ19VYWJtV3ZFM1BicVhVaEwzU1BXWVpvcExXVUhyQjhRVUNxcWhMRFRKLWhFRUhMck9uN29BaXZaWFhGTUk1ZlVzSjVleTF2MEo3WmVwZVNqX3R1Nk84TlNkatIBngFBVV95cUxOYlJGTmRoTmxkb2tZYmVicjhfMVV4dGZYOVlrRUpfdEhJYktXLXY5MkFucG9nTDdPVnV3XzBIZzRyRTJoYnZlSkJhNnlNM2Rwb1dCRVZEQzdMTVJGUEFsdXBOcHVBLWZWb0VSd1BJRmxCbGZCUDNiak5pUHppaVlrQ1ZBbmNmcllzeUt0ODU2eWxLWS1sX1VTZG1aM0V6Zw?oc=5
 
-- US Stocks Today | Massive short squeeze fogs market’s view on Iran peace prospects
-  US stocks staged their biggest rally in months. Much of the surge was driven by optimism over Iran peace prospects. Heavily shorted stocks jumped sharply.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-massive-short-squeeze-fogs-markets-view-on-iran-peace-prospects/articleshow/129952506.cms
+- Middle East conflict continues to disrupt global poultry trade - Poultry World
+  Middle East conflict continues to disrupt global poultry
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUnI4YlphQV9BaW5VNFBnbU5MNTZJSHlnc2YzNWZfN3VSaXNFaEVDeU9uVEtvYzA5STk3aW1qWVduQWFwRUVnVU9aTExvUGlDaEdaOEtJSXg0QnRLSFRCTDhDa1NNOEVFclQtaDRxdFJnbFNuMFNiOTFrdlRZdjdsaGd6TjlhRExKVl91M09wcURud2c1VFFmTXJmUTJPVWxRd0R6dWZ1eTBqeTY3cVJyeUdpNU1UU09NR1JRWHNvS1E2aXJhUkRjV20xZWt2VlpxaDVFRHhqMDZRdnZhOXY0NEpzeU9HQQ?oc=5
 
-- Gainers &amp; Losers: Cupid, GRSE among 8 stocks that were in spotlight on Wednesday
-  CNN.com will feature i
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-cupid-grse-among-8-stocks-that-were-in-spotlight-on-wednesday/slideshow/129952178.cms
+- Elon Musk's SpaceX confidentially files papers for IPO. Here's a guide to US listing process
+  Elon Musk's SpaceX has confidentially filed for a U.S. listing. This typically involves hiring underwriters, a quiet period, and SEC review. The process culminates in a roadshow, pricing,
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musks-spacex-confidentially-files-papers-for-ipo-heres-a-guide-to-us-listing-process/articleshow/129960310.cms
 
-- Quote of the day by Michael Burry: "The most important question to ask before buying a stock is why it's mispriced."
-  Michael Burry’s philosophy highlights that investing success comes from identifying why a stock is mispriced. A strong company isn’t always a good investment if optimism is already priced in.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-michael-burry-the-most-important-question-to-ask-before-buying-a-stock-is-why-its-mispriced-/articleshow/129948745.cms
+- Bharti Airtel block deal: BNP Paribas buys Rs 96 crore worth shares; BofA sells
+  BNP Paribas bought 5.4 lakh shares from BoFA Securities for Rs 96 crore. The shares were acquired at Rs 1,782 apiece
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-block-deal-bnp-paribas-buys-rs-96-crore-worth-shares-bofa-sells/articleshow/129958466.cms
 
-- Gold loan NBFCs have enough buffer for now — but a second 15% price drop would test them: Fitch Ratings
-  India's gold loan NBFCs remain stable due to strong collateral buffers. A further 15-20% decline could strain risk controls, especially if borrower cash flows weaken.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/gold-loan-nbfcs-have-enough-buffer-for-now-but-a-second-15-price-drop-would-test-them-fitch-ratings/articleshow/129951589.cms
+- RBI doubles down on curbing rupee speculation after initial steps fall short
+  The Reserve Bank of India has intensified its crackdown on rupee speculation. New rules bar rebooking of forward contracts and FX derivatives with related parties.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-doubles-down-on-curbing-rupee-speculation-after-initial-steps-fall-short/articleshow/129957702.cms
 
-- US Stock Market Today | Dow Jones | US stock futures rise as optimism grows over Mideast peace talks
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-april-1-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-tech-stock-price-news/liveblog/129951564.cms
+- Morgan Stanley's E*Trade in talks to lead SpaceX IPO share sale to small investors in US: Sources
+  Morgan Stanley's E*Trade is reportedly in talks to lead SpaceX's upcoming IPO share sales to everyday U.S. investors. SpaceX is considering reserving up to 30% of shares for retail investors. This move would allow E*
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanleys-etrade-in-talks-to-lead-spacex-ipo-share-sale-to-small-investors-in-us-sources/articleshow/129956785.cms
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+- Mega IPOs loom on Wall Street as Elon Musk's SpaceX confidentially files paperwork
+  Elon Musk's rocket-and-satellite company looks to beat OpenAI and Anthropic to the new listings market.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/mega-ipos-loom-on-wall-street-as-elon-musks-spacex-confidentially-files-paperwork/articleshow/129956725.cms
+
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
+
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
-  18 India-Flagged Ships Carrying Crude
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - NDTV
+  PM Modi, President Murmu Complete Self-En
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
 
-- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
-  The Times of India reported that a terrorist was killed in an encounter in Jammu
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: CCS meeting chaired by PM Modi concludes - The Times of India
+  LPG Gas Cylinder Price Hike India Live Updates: CCS meeting
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
-  India set to face Bhutan in SAFF U
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+- Adani Ports Crosses 500-Million-Tonne Cargo Milestone - NDTV
+  Adani Ports Cross
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzU2d2toLXI4anZrbVE3dkVDWmpPWEFVS0gtTmdUbmFuMUVucHljN2lkNUI1NnB6Wk1IRzZLZWdzLXZaUHQ0a29kRnhkVnh4VEpCQ3RBN2ZFd1hzckJlbURKaHZtdkIwSVpid0tZel9HLU9zNnNGdkJnZEJpRThlZ2YxTmxwZmttNlh0QXZkbzAzc1lJWlpwN09R0gGiAUFVX3lxTE1WVHBjVkJJTS1jc0FqVVlUV0dxdkhLOWVxNmJwQTlUejEtZHlxVVAzeEhsOE9KMy1FZS10Y1k5SUZJUG1sX29LOHVza3FiVlA0TkdjclhRRnpqZGZpcFF4QXJsR29YVHFLU3JaV2dnNVRheWprdkFlcXE2aVhTa1gwSTZvUjhXN1Jlc2NfNTlmTTFSN1kybUd0LVBMeGlsNTNwQQ?oc=5
 
-- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
-  Supreme Court Dismisses Appeal Over Air
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
-  18 India-Flagged Ships Carrying Crude
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - NDTV
+  PM Modi, President Murmu Complete Self-En
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
 
-- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
-  The Times of India reported that a terrorist was killed in an encounter in Jammu
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: CCS meeting chaired by PM Modi concludes - The Times of India
+  LPG Gas Cylinder Price Hike India Live Updates: CCS meeting
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
-  India set to face Bhutan in SAFF U
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+- Adani Ports Crosses 500-Million-Tonne Cargo Milestone - NDTV
+  Adani Ports Cross
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzU2d2toLXI4anZrbVE3dkVDWmpPWEFVS0gtTmdUbmFuMUVucHljN2lkNUI1NnB6Wk1IRzZLZWdzLXZaUHQ0a29kRnhkVnh4VEpCQ3RBN2ZFd1hzckJlbURKaHZtdkIwSVpid0tZel9HLU9zNnNGdkJnZEJpRThlZ2YxTmxwZmttNlh0QXZkbzAzc1lJWlpwN09R0gGiAUFVX3lxTE1WVHBjVkJJTS1jc0FqVVlUV0dxdkhLOWVxNmJwQTlUejEtZHlxVVAzeEhsOE9KMy1FZS10Y1k5SUZJUG1sX29LOHVza3FiVlA0TkdjclhRRnpqZGZpcFF4QXJsR29YVHFLU3JaV2dnNVRheWprdkFlcXE2aVhTa1gwSTZvUjhXN1Jlc2NfNTlmTTFSN1kybUd0LVBMeGlsNTNwQQ?oc=5
 
-- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
-  Supreme Court Dismisses Appeal Over Air
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
-  18 India-Flagged Ships Carrying Crude
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - NDTV
+  PM Modi, President Murmu Complete Self-En
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
 
-- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
-  The Times of India reported that a terrorist was killed in an encounter in Jammu
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: CCS meeting chaired by PM Modi concludes - The Times of India
+  LPG Gas Cylinder Price Hike India Live Updates: CCS meeting
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
-  India set to face Bhutan in SAFF U
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+- Adani Ports Crosses 500-Million-Tonne Cargo Milestone - NDTV
+  Adani Ports Cross
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzU2d2toLXI4anZrbVE3dkVDWmpPWEFVS0gtTmdUbmFuMUVucHljN2lkNUI1NnB6Wk1IRzZLZWdzLXZaUHQ0a29kRnhkVnh4VEpCQ3RBN2ZFd1hzckJlbURKaHZtdkIwSVpid0tZel9HLU9zNnNGdkJnZEJpRThlZ2YxTmxwZmttNlh0QXZkbzAzc1lJWlpwN09R0gGiAUFVX3lxTE1WVHBjVkJJTS1jc0FqVVlUV0dxdkhLOWVxNmJwQTlUejEtZHlxVVAzeEhsOE9KMy1FZS10Y1k5SUZJUG1sX29LOHVza3FiVlA0TkdjclhRRnpqZGZpcFF4QXJsR29YVHFLU3JaV2dnNVRheWprdkFlcXE2aVhTa1gwSTZvUjhXN1Jlc2NfNTlmTTFSN1kybUd0LVBMeGlsNTNwQQ?oc=5
 
-- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
-  Supreme Court Dismisses Appeal Over Air
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
-  18 India-Flagged Ships Carrying Crude
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - NDTV
+  PM Modi, President Murmu Complete Self-En
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
 
-- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
-  The Times of India reported that a terrorist was killed in an encounter in Jammu
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: CCS meeting chaired by PM Modi concludes - The Times of India
+  LPG Gas Cylinder Price Hike India Live Updates: CCS meeting
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
-  India set to face Bhutan in SAFF U
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
-
-- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
-  Supreme Court Dismisses Appeal Over Air
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+- Adani Ports Crosses 500-Million-Tonne Cargo Milestone - NDTV
+  Adani Ports Cross
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzU2d2toLXI4anZrbVE3dkVDWmpPWEFVS0gtTmdUbmFuMUVucHljN2lkNUI1NnB6Wk1IRzZLZWdzLXZaUHQ0a29kRnhkVnh4VEpCQ3RBN2ZFd1hzckJlbURKaHZtdkIwSVpid0tZel9HLU9zNnNGdkJnZEJpRThlZ2YxTmxwZmttNlh0QXZkbzAzc1lJWlpwN09R0gGiAUFVX3lxTE1WVHBjVkJJTS1jc0FqVVlUV0dxdkhLOWVxNmJwQTlUejEtZHlxVVAzeEhsOE9KMy1FZS10Y1k5SUZJUG1sX29LOHVza3FiVlA0TkdjclhRRnpqZGZpcFF4QXJsR29YVHFLU3JaV2dnNVRheWprdkFlcXE2aVhTa1gwSTZvUjhXN1Jlc2NfNTlmTTFSN1kybUd0LVBMeGlsNTNwQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-01 13:12:07 UTC_
+_Last updated: 2026-04-01 18:58:47 UTC_
