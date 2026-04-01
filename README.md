@@ -1,144 +1,224 @@
 # 📰 Daily News Summaries
 
-- Bank Holiday 1 April 2026: Why branches are shut and what still works
+- Adivasi women paraded, faces blackened over bike theft allegation in Jharkhand’s Ranchi
   
-  🔗 https://indianexpress.com/article/india/bank-holiday-1-april-2026-why-branches-are-shut-and-what-still-works-10612923/
+  🔗 https://indianexpress.com/article/india/adivasi-women-paraded-faces-blackened-bike-theft-allegation-jharkhands-ranchi-10613806/
 
-- Gold Silver Rate Today, April 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Lok Sabha clears Bill to make Amaravati sole capital of Andhra Pradesh, YSR Congress stages walkout
   
-  🔗 https://indianexpress.com/article/india/gold-silver-rate-today-april-1-check-18-22-and-24-carat-gold-prices-in-chennai-bangalore-mumbai-delhi-kolkata-hyderabad-and-other-cities-10612847/
+  🔗 https://indianexpress.com/article/india/lok-sabha-andhra-pradesh-reorganisation-bill-2026-amaravati-capital-10613688/
 
-- In year NDA passed law to replace MGNREGA, 8% dip in families that availed the rural job scheme
+- Ranchi lawyer convicted for assaulting female colleague inside HC; court says victim’s testimony ‘inspires confidence’
   
-  🔗 https://indianexpress.com/article/india/mgnregs-usage-decline-gramin-scheme-india-10612797/
+  🔗 https://indianexpress.com/article/india/ranchi-lawyer-convicted-assaulting-female-colleague-inside-hc-victims-testimony-confidence-10613608/
 
-- Madhya Pradesh: Ujjwala gave them smoke-free kitchens, but now, dung-cake stoves are back
+- J&K backs private member land Bill, Sajjad Lone flags ‘super elite’ bias
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-ujjwala-smoke-free-kitchens-now-dung-cake-stoves-10612416/
+  🔗 https://indianexpress.com/article/india/jk-private-member-land-bill-sajjad-lone-supre-elite-bias-10613559/
 
-- X Goes Dark: Users hit by outage across India, US and UK
+- Fleeing abuse at home, Andhra teen ‘gangraped’ after arriving in Odisha
   
-  🔗 https://indianexpress.com/article/india/x-goes-dark-users-hit-by-outage-across-india-us-and-uk-10612682/
+  🔗 https://indianexpress.com/article/india/fleeing-abuse-at-home-andhra-teen-gangraped-after-arriving-in-odisha-10613492/
 
-- As Google teases a screenless fitness wearable, Whoop reaches $10 billion valuation
+- Nothing eyes smartglasses: Carl Pei may be planning AI-powered wearable for 2027
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-google-teases-a-screenless-fitness-wearable-whoop-reaches-10-billion-valuation-10612949/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-smartglasses-launch-2027-carl-pei-ai-10613252/
 
-- Meta to limit PG-13 rating use for teen accounts in Motion Picture Association deal
+- ‘Yes-man’ AI can push users into false beliefs, MIT researchers warn
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-limit-pg-13-rating-use-for-teen-accounts-in-motion-picture-association-deal-10612767/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/yes-man-ai-can-push-users-into-false-beliefs-mit-researchers-warn-10613500/
 
-- Apple’s 50-year journey from garage to tech titan
+- Anthropic blunder exposes 2,000 lines of Claude Code’s internal source code: What it reveals
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-50-year-journey-from-garage-to-tech-titan-10612769/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-blunder-exposes-claude-code-internal-source-code-10613346/
 
-- Oracle set to cut thousands of jobs amid rising AI investments and cost pressures
+- Your UPI PIN is no longer enough: Why your next online payment will require a fingerprint or OTP starting today
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/oracle-set-to-cut-thousands-of-jobs-amid-rising-ai-investments-and-cost-pressures-10612701/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/rbi-new-upi-rules-april-1-two-factor-authentication-atm-charges-10613144/
 
-- Samsung’s new Hearapy app can stop car sickness in just 60 seconds: Here’s how it works
+- Why NASA isn’t landing on the Moon yet: Artemis’ future plans
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-hearapy-app-motion-sickness-10611976/
+  🔗 https://indianexpress.com/article/technology/science/why-nasa-isnt-landing-on-the-moon-yet-artemis-future-plans-10613183/
 
-- iPhone production at risk? Report says India's smartphone export could go down by 25% amid Iran war
-  India's smartphone exports could be cut down by 22-25% if the current Iran conflict continues. While Apple makes around a quarter of its iPhones in India, the company is said
-  🔗 https://www.livemint.com/companies/news/iphone-production-at-risk-report-says-indias-smartphone-export-could-go-down-by-25-amid-iran-war-11775024152523.html
+- SC to decide if coke breeze imports qualify for duty exemption for steelmakers
+  CESTAT rulings have pushed the top court to decide whether coke breeze qualifies as metallurgical coke.
+  🔗 https://www.livemint.com/companies/news/supreme-court-steel-industry-coke-breeze-customs-duty-exemption-costs-11775042512379.html
 
-- Jungle Ventures eyes 8-10 exits in 18 months, half from India
-  The venture capital firm is eyeing a massive liquidity harvest through IPOs and acquisitions. mature portfolio companies such as T
-  🔗 https://www.livemint.com/companies/news/jungle-ventures-exits-india-startups-ipo-pipeline-11775006991020.html
+- IPO plans hit by West Asia war, firms recalibrate listings amid volatility
+  Other companies including Turtlemint, Indo-Mim, Inframarket, Symbiotech Pharmalabs, Duroflex, and
+  🔗 https://www.livemint.com/companies/ipo-market-slowdown-india-companies-delay-listings-west-asia-war-11775037366684.html
 
-- Oracle slashes 30,000 jobs: How much severance was offered? Which departments were affected? Key questions answered
-  Oracle, employing 162,000, announced $50 billion in debt and equity fundraising, alongside 30,000 layoffs. The layoffs, affecting various roles, are not
-  🔗 https://www.livemint.com/companies/news/oracle-slashes-30-000-jobs-how-much-severance-pay-were-offered-which-dept-were-affected-key-question-answered-11775018754012.html
+- Mint Explainer: What the weight-loss drug frenzy means for pharma sector and for you
+  A price war has hit India’s weight-loss and diabetes drug market after semaglutide lost patent protection. Cheaper generics may widen access, but concerns
+  🔗 https://www.livemint.com/companies/ozempic-wegovy-price-cut-india-generic-semaglutide-market-competition-11775030562975.html
 
-- AAI profit leans on privatized airports as core network bleeds
-  Six airports under the public-private partnership model drove over 30% of FY25 net profit. One-off payments boosting profits
-  🔗 https://www.livemint.com/companies/news/aai-profit-driven-by-privatized-airports-ppp-adani-11775013672269.html
+- Indus Towers appoints ex-Amazon executive Venkatesh Tiwari as new COO
+  Indus Towers appoints Venkatesh Tiwari as its new
+  🔗 https://www.livemint.com/companies/news/indus-towers-appoints-ex-amazon-executive-venkatesh-tiwari-as-new-coo-11775034820990.html
 
-- ChatGPT parent OpenAI raises $122 billion in record funding round, valuation hits $852 billion
-  OpenAI expects enterprise sales to increase to 50% of its revenue this year. The company generates $2 billion monthly, recently added advertising to ChatGPT.
-  🔗 https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html
+- Mamaearth's Ghazal Alagh shares advice for team leaders on AI use: 'Teach people how to think, adopt'
+  Mamaearth co-founder Ghazal Alagh urges team leaders to focus on fostering critical thinking and clarity about AI's benefits in their
+  🔗 https://www.livemint.com/companies/people/mamaearths-ghazal-alagh-shares-advice-for-team-leaders-on-ai-use-teach-people-how-to-think-adopt-11775033703343.html
 
-- How long can the Nifty 50 stay in the bull trend after the US-Iran war de-escalation?
-  The Nifty may recover if geopolitical tensions ease, but it requires lower crude prices and stronger institutional flows for a sustainable bullish trend. A decisive close above 23,550-
-  🔗 https://www.livemint.com/market/stock-market-news/how-long-can-the-nifty-50-stay-in-the-bull-trend-after-the-us-iran-war-deescalation-11775026415149.html
+- Markets make an uneasy truce with Iran war risks. This is what a real rally needs.
+  Stock markets are hopeful. Oil markets less
+  🔗 https://www.livemint.com/market/stock-market-news/markets-make-an-uneasy-truce-with-iran-war-risks-this-is-what-a-real-rally-needs-11775046171367.html
 
-- Vodafone Idea, Ola Electric, YES Bank, HDFC Bank— These are among the most traded stocks on NSE today
-  Vodafone Idea, Tata Silver Exchange Traded Fund, Ola Electric Mobility, YES Bank, GTL Infrastructure, and HDFC Bank were
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-ola-electric-yes-bank-hdfc-bank-these-are-among-the-most-traded-stocks-on-nse-today-11775025233848.html
+- US stock market today: Dow, S&amp;P 500 futures gain rise on hopes of US-Iran war de-escalation
+  US stock futures indicate a positive market opening amid optimism for the Iran war's end. Trump hints at a US withdrawal from the conflict, while Israel and Yemeni forces
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-gain-rise-on-hopes-of-us-iran-war-deescalation-11775041478730.html
 
-- PC Jeweller share price jumps 7% amid rising gold, silver rates today
-  PC Jeweller's share price jumped 7% on Wednesday amid rising gold and silver prices and a sharp rise in the Indian stock market's benchmark indices. Check out
-  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-7-amid-rising-gold-silver-rates-today-11775023779061.html
+- How can NRI investors deploy funds in mutual funds in India? Explained
+  Investing in Indian mutual funds allows NRIs to diversify their portfolio. Mutual funds offer professionally managed portfolios across equity and debt markets.
+  🔗 https://www.livemint.com/market/stock-market-news/how-can-nri-investors-deploy-funds-in-mutual-funds-in-india-explained-11775044694517.html
 
-- Gold, silver rates today: Check 24K, 22K gold, 999 silver rates on 1 April in your city — Delhi, Mumbai, others
-  Gold and silver prices in India are on the rise following gains in international bullion prices. Check retail gold and silver
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-check-24k-22k-gold-999-silver-rates-on-1-april-in-your-city-delhi-mumbai-others-11775024366150.html
+- US Treasuries jump as potential resolution to Iran war fuel rate cut hopes
+  Yields on 2-year and 10-year government notes each slipped by
+  🔗 https://www.livemint.com/market/stock-market-news/us-treasuries-jump-as-potential-resolution-to-iran-war-fuel-rate-cut-hopes-11775041894278.html
 
-- Small-cap stock under  ₹50 jumps over 9% following Dalal Street rally
-  Hazoor Multi Projects share price has fallen 22% in one month, and has declined over 31% on a year-to-date (YTD) basis. The smallcap stock
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hazoor-multi-projects-share-price-jumps-9-following-dalal-street-rally-11775025022902.html
+- Difficult to predict market outlook for FY27; higher energy prices can impact earnings: Krishnan VR of Marcellus
+  Krishnan VR, head of quantitative research at Marcellus Investment Managers, discusses the unpredictable market landscape for FY
+  🔗 https://www.livemint.com/market/stock-market-news/difficult-to-predict-stock-market-outlook-for-fy27-higher-energy-prices-can-impact-earnings-krishnan-vr-of-marcellus-11775040056205.html
 
-- Oil slides over 3% as Middle East uncertainty keeps markets on edge
-  Investors locked in profits amid uncertainty, with analysts noting that even if the war ends, infrastructure damage and supply chain disruptions will likely keep oil supplies tight for some time.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-over-3-as-middle-east-uncertainty-keeps-markets-on-edge/articleshow/129944323.cms
+- Passengers stranded in moving traffic after robotaxi outage in Chinas Wuhan
+  Passengers stranded in moving traffic
+  🔗 https://www.livemint.com/technology/passengers-stranded-in-moving-traffic-after-robotaxi-outage-in-chinas-wuhan-11775038808060.html
 
-- Cochin Shipyard shares rally 15%, add Rs 4,700 crore to market value: What’s behind the surge?
-  Cochin Shipyard shares surged approximately 15% after its inclusion in the NSE's F&amp;O segment. This rally aligns with a broader bullish trend in shipyard stocks, fueled by strong performance from peers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-rally-15-add-rs-4700-crore-to-market-value-whats-behind-the-surge/articleshow/129944030.cms
+- Android Auto left behind as OpenAI brings ChatGPT to Apple CarPlay: here's how it works
+  ChatGPT is now available on Apple CarPlay. The popular AI app can be used to interact with the
+  🔗 https://www.livemint.com/technology/tech-news/openai-brings-chatgpt-to-apple-carplay-android-auto-left-behind-11775035010150.html
 
-- "Geopolitics won’t derail markets forever": Devina Mehra urges investors to stay the course
-  Long-term trends suggest geopolitics has limited influence on stock markets. India's oil import dependence remains a key concern, though opportunities may emerge during this volatile period.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/geopolitics-wont-derail-markets-forever-devina-mehra-urges-investors-to-stay-the-course/articleshow/129943878.cms
+- iPhone 18 Pro, iPhone 18 Pro Max launching soon: Expected price, camera, processor and more
+  Apple could launch its iPhone 18 Pro series in September. The company could keep the same 6.3 and 6.9-inch displays on the
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-launching-soon-expected-price-camera-processor-and-more-11775029159080.html
 
-- US Stock Market | Oracle shares jump 6% amid layoff buzz; AI pivot drives investor optimism
-  Oracle's stock surged despite widespread layoffs. Investors are focusing on future growth potential, viewing the job cuts as a strategic move.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oracle-shares-jump-6-amid-layoff-buzz-ai-pivot-drives-investor-optimism/articleshow/129943780.cms
+- Perplexity AI accused of embedding ‘undetectable’ trackers for secretly routing sensitive user data to Meta and Google
+  Perplexity AI is facing a proposed class-action lawsuit. The complaint claims that tracking software was embedded in the search engine to transmit personal information of users.
+  🔗 https://www.livemint.com/technology/tech-news/perplexity-ai-accused-of-embedding-undetectable-trackers-for-secretly-routing-sensitive-user-data-to-meta-and-google-11775013680758.html
 
-- Indian real estate attracts $1.4 billion investments in Q1 2026
-  Indian real estate saw its strongest first quarter for institutional investments in 2026, reaching $1.4 billion. Commercial assets led this growth, attracting 80 percent of the investments.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indian-real-estate-attracts-1-4-billion-investments-in-q1-2026/articleshow/129943768.cms
+- Google ends 20-year restriction, finally allows users to change embarrassing Gmail usernames
+  Google is now allowing users to change their embarrassing Gmail usernames. The feature is currently onlly available
+  🔗 https://www.livemint.com/technology/tech-news/google-ends-20-year-restriction-finally-allows-users-to-change-embarrassing-gmail-usernames-11775014836422.html
 
-- Houthis Threaten Strait No 2 As Iran War Expands. What It Means For India - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONjkwX1cxRUtIQi12eTdXMi1ONzc3eTVOS1ZHbTZDQXpHOEhVekFVOEVFTzkxQUUxbzloOEk2MFpnMDBKaUNEWlQ3Y3hISHNod1JEaW5GaTA5ZWZ2c3hVdVRMTzRpTEtXVWhicURSNnEzdkZ1dXI4Z1lueldPU0FGb3dzYkxWWEhUc1k0a2thVGplVmFJakRGV20xbl9FTnBvaTJuS0ZDZ3lyVWxCbWFQLVdidVZCbXZiMXQ5Y3BQeG4wSkVFOVdGMlQwQnhXSjJGcjA2NFlWV1p5SXdYYkF2V3FvLTVMZnVEc2xpSGNKclRzT3JUOEthT1oyXzRQVkxNc1J0VDljbWU3UXFjaFE?oc=5
+- Stock Market Today: Dow Futures Rise on Hopes for Quick End to War — Live Updates - WSJ
+  Stock futures are higher to start the month as optimism around Iran war ending grows.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGZhRngyVU1HUy1IWHNjbnMyeW1Fajl4QUt5SEd5XzBLdGcyTmxrT0VJVWJxYXVPaVlLTWd1TTg4MmtUWnZUS1JmcmtsOUxyQTBNYXozTFhMWUdEQTI2emRHV0I5U2VQaF9xb2twSC1Wc3VDbENPNHAyUWFyYW1yeFFUN0tCWWs?oc=5
 
-- A Warning From 1991: Is India's Next Big Shock Hiding In Its Oil Bill? - NDTV
-  A Warning From 1991: Is India's Next Big Shock H
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEprSTN6dEJYQWpCMHpMVVFON0JiczRWOWE3ZS1FdWg3T2lmMHpuZm40bC1WT2xiaVlPUUk0bmw5ZWxSZ2g4Ymx0M3d6OTlSUXdza1RZc1BjMWZldmNBTUJCMWE5ZUlLZ3ZDZEo0UGpDR0sxM0IwTHFaOHBiU1RkamZTcjhqLXg3cTBYbWxpVjFVV29wVmFBRjRUeG8tUjN1RXNqbzhFY0pyTVdsYkxCU0ZHUUhOdmoxblFzNDB4NDZVQlBOTkhvd2xnUVZaTllfVktfRk1ZYU5nR1ZSZklKbGFxLS3SAewBQVVfeXFMUG84WDJmRzJDb0xLb1JURzZydXlCcnNzRk51Z1JZajdrc1UwczRodld0NnlHb0E1S3pfam9iSUxMbzVSb3JHWFJvM3ZFTi1neWJWY0lCeWUwSXVldG9tbjVMS29nTUZMb0dmQ3hRczhCZWtLc25LTXdGMVlBdG5YX0J3a3laVTJDbmdvdGE5ZkdCYVNNMmh5SVp5TGQzMDc3elhlbVYtVTViQnJjc0I4OVhJelByRGRrdDBlVWNFdUp2WllmYjZKZFZZamR4a0JEZl90S011bGVtT2lsclFfNkZwVWwzYXh3TzFaOEg?oc=5
+- VNRX: Licensing-driven diagnostics platform targets multi-billion dollar markets with scalable, low-cost tests - TradingView
+  VNRX is a new diagnostics platform
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOYUJ2RXJoRUVjY1RYUVJTMWhja0o3XzdkMkdPNWM0eGNlVnpUYUJRU2RwUjkweDllQjdNd3l1WEhHRktpczZ6ek1ZN09vd0RodGx5WjRkMHM3VEhKVGVYY0wwTXBsRWtDcjZyOU9NMnNKVWZvb2ttTzdXTFlyVUxORV9rcGR5bEdlNFM2M2JnVmVLSkc3Q1RiaXVUdnhIeEdjRU1fTkVRU3lKUy02b0owUjZ4aUdYSkJPUk9DZGlITXItaXdCb001ZXV1cENrWmxYY2dHRzlWRXJud0UydDJkSkZhd0ZXenNMMlEyeWJIRnNuZnBNekthNXlMaV9WMkVRVGVNbkZ3SU1kRnFiY1BISUgwUDJ1U3NtX0tv?oc=5
 
-- US-Israel-Iran War Live Updates: Yemen's Houthis launch missiles towards Israel; at least 7 killed in IDF strikes in Lebanon's Beirut - The Times of India
-  The Times of India reports that at least 7 killed in IDF strikes in Lebanon's Beirut.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxOSG5GV2w1YUxVd1ZfcmVtYXQ4TWFtSVE1Slg1VnJVUlZxZDEzMlZxdEZ4UUlCMWNHOGRER2hXdGlaUTlhaDNzRHVUVkd1Q000c0RqWHJ1OEdCTlllRXhhM0hJRS1qRFF4RnY3R3ptc3djOGZtbUI4emd4bzBYVHI0WjBqZUJwNWV1VVJxeF9VRXF2Y2Ytak9wMlNORlVzWUtHSWdlNXhNdWpxckFwMTRkYXZSOG51LTBIbUFfRGdBQk8yOGpHd0dMc010QXhwWWlNX1V3VXhiQUJBVzAzYUxaNmszSkJyOF9rbU96LXYxQXFINWJIbzZjQjJDOHNlQlA1eUt6LWFhb1FyUGhhcTVUbFhWUUUyMWlmUWdKbEFodllCM0ZXeWNXb1ZzenI4c3dTOTBVQUFQUDdzSDBHQkZqWmQzdGJUUFFLTGE40gHQAkFVX3lxTFBiTnY3VnZPWVBLQkdjTGxNUDd5V01HWXh2ekVaemNvYlVmeGJvX1BsUHBieHVUZ1BNdWFyV2gxNDlsVUN5aW5LSTEza3lobE5qczlPRDkxTWg1b0NfR3BBNW9WR1V6UXQwMHBXUWdZaXFWVnNvMW9aejhhZzZZOGJaT3hDdTcyOEwzdFBDbk9MZGJqOHRfOXNFSTNJRFp4elZid3dtOHpoUkJhQ1pBa2dSWTVpTEZMNDRld1lXaVNfa1dkMms1dDJ3QVNDQkNPeUIwSC1BOFZ0eC1TTWQyWllYMnl1bEVYOUNldHFEdmJhR3h6bTRfREh3WmZraHAyVjlnaXNWeEFnb0paalI3QTNwWHkxVV85YzZfWE90bGxoTlp3NWdHTnY1WlpJUEQwNlRqQ2FhdVRKQzh1bUZZNDZuMDRoQms5N0d2QWc4M3F3LQ?oc=5
+- BOE’s Bailey Says Traders Ahead of Themselves on Rate Hike Bets - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHRSTVB2d0x2dTNDQVc3VEpoU2pSRWJodkxKWkxaUmw0N0k0OWRnaXFDUWt0TXZOOHhqOEJUQ2Z5MnVRNmNpN2x6SkVMU2R0LVp6dmpIMG9OWThpUzZaRFRPSElHUkRBdDNKZlBCVHFLS240VFRBTGRkWmdsdVJxM2YtbjA0QVR4M2pvNWpnMkVQTzVUYUt6TU5wUlFBWUt2QWtMVDN6Zk9EaXBwT3p4SUliM1k?oc=5
 
-- India News: Jet fuel prices reach record high amid Iran war - dw.com
-  India News: Jet fuel prices reach record high
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDN4YmUxM19pQnVROEg0MlQzdktHMWp5aTJreG5MdVFVSS1sRzRmMzRIMXpDb3BzVDhzS1diX2JqV3VVUGF4TXotNU9zQ3NDbGZEN0dieXdfaVNsdGFFT1dKQkxEQzh5amFNTm9HbW12MkZKdnRmRDNSOWZoazlvZmE3UDdCV2tkT2tUZTQyMlNmYnVUWW9YOWRn?oc=5
+- Stock Market Highlights: Sensex Closes 1,186 Points Higher As Trump Says Will Leave Iran Soon - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFRwZk11cGVOYm5pRndWLXNtNEF2UFg1NFpvTWJfWGlFNEpJd0VNS2ltYWRXaURNSWRRQmpTSjRIUUttZE5vNE9wUzFQV2xzaU42ZmhXMGRnRWJjZW5ZbDlIMmcxeWdUcl
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRFRwZk11cGVOYm5pRndWLXNtNEF2UFg1NFpvTWJfWGlFNEpJd0VNS2ltYWRXaURNSWRRQmpTSjRIUUttZE5vNE9wUzFQV2xzaU42ZmhXMGRnRWJjZW5ZbDlIMmcxeWdUcldKNE16MS1nQ1FhSmNjbUVTTWNmajFnQUpxcEpkQlZYcUtzanRra21ueFBpaHl2N3B2SDU4b3Q0MEdiNF8tSkY4Ny1RVzhDQ2lQckg4d1hZTThVWFh0a0dwWWRfY0R2MkhFMi1EcEJTNC1EbUloa0Y3T1pnYkEtdFVwT24taEhicEtDbERHSdIB9wFBVV95cUxPMmM1ZE9CZlQzOWQ0NFVNRms2dDIwVUI5QVV1RXlSRzJaMnZlT3JkUjlCSHlmMGVpV1Q5WTVadjZCeWRUX2ROaGZHZnBYaldQUzFRSzZPcW40TzJMbFI0b21EbndyY2ZaVjNPdl9RY0phWlVSRm1iNkJwMjZ2NU5YaUQ2b3BBck4zSXFaWkt2ZW50V082amlUQ3dhX0J5Ti0yNE1LWjdsRkFmWTZfempyTTdJcVpiM0duRDhvN3E5NDU0bjJoNWVGMkFKaWV5YzVxSEszNXVZSkE2WEk1X3BXNElzY3BjTlpqUGxzTGtWY19VYVZlOWNZ?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
+- South Korea's Kospi leads rebound in Asia markets as Trump says Iran war could end in weeks - CNBC
+  South Korea's Kospi leads rebound in Asia markets as Trump says Iran
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxPUW1fYnJmM21JOTVMTVdzbEpzVGJNdVJOVUpWZ1BoTkNiM21OZVQ3M2pORnNpT0h3N0hrZ0FCQ19VYWJtV3ZFM1BicVhVaEwzU1BXWVpvcExXVUhyQjhRVUNxcWhMRFRKLWhFRUhMck9uN29BaXZaWFhGTUk1ZlVzSjVleTF2MEo3WmVwZVNqX3R1Nk84TlNkatIBngFBVV95cUxOYlJGTmRoTmxkb2tZYmVicjhfMVV4dGZYOVlrRUpfdEhJYktXLXY5MkFucG9nTDdPVnV3XzBIZzRyRTJoYnZlSkJhNnlNM2Rwb1dCRVZEQzdMTVJGUEFsdXBOcHVBLWZWb0VSd1BJRmxCbGZCUDNiak5pUHppaVlrQ1ZBbmNmcllzeUt0ODU2eWxLWS1sX1VTZG1aM0V6Zw?oc=5
+
+- US Stocks Today | Massive short squeeze fogs market’s view on Iran peace prospects
+  US stocks staged their biggest rally in months. Much of the surge was driven by optimism over Iran peace prospects. Heavily shorted stocks jumped sharply.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-massive-short-squeeze-fogs-markets-view-on-iran-peace-prospects/articleshow/129952506.cms
+
+- Gainers &amp; Losers: Cupid, GRSE among 8 stocks that were in spotlight on Wednesday
+  CNN.com will feature i
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-cupid-grse-among-8-stocks-that-were-in-spotlight-on-wednesday/slideshow/129952178.cms
+
+- Quote of the day by Michael Burry: "The most important question to ask before buying a stock is why it's mispriced."
+  Michael Burry’s philosophy highlights that investing success comes from identifying why a stock is mispriced. A strong company isn’t always a good investment if optimism is already priced in.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-michael-burry-the-most-important-question-to-ask-before-buying-a-stock-is-why-its-mispriced-/articleshow/129948745.cms
+
+- Gold loan NBFCs have enough buffer for now — but a second 15% price drop would test them: Fitch Ratings
+  India's gold loan NBFCs remain stable due to strong collateral buffers. A further 15-20% decline could strain risk controls, especially if borrower cash flows weaken.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/gold-loan-nbfcs-have-enough-buffer-for-now-but-a-second-15-price-drop-would-test-them-fitch-ratings/articleshow/129951589.cms
+
+- US Stock Market Today | Dow Jones | US stock futures rise as optimism grows over Mideast peace talks
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-april-1-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-tech-stock-price-news/liveblog/129951564.cms
+
+- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- Houthis Threaten Strait No 2 As Iran War Expands. What It Means For India - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONjkwX1cxRUtIQi12eTdXMi1ONzc3eTVOS1ZHbTZDQXpHOEhVekFVOEVFTzkxQUUxbzloOEk2MFpnMDBKaUNEWlQ3Y3hISHNod1JEaW5GaTA5ZWZ2c3hVdVRMTzRpTEtXVWhicURSNnEzdkZ1dXI4Z1lueldPU0FGb3dzYkxWWEhUc1k0a2thVGplVmFJakRGV20xbl9FTnBvaTJuS0ZDZ3lyVWxCbWFQLVdidVZCbXZiMXQ5Y3BQeG4wSkVFOVdGMlQwQnhXSjJGcjA2NFlWV1p5SXdYYkF2V3FvLTVMZnVEc2xpSGNKclRzT3JUOEthT1oyXzRQVkxNc1J0VDljbWU3UXFjaFE?oc=5
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
 
-- A Warning From 1991: Is India's Next Big Shock Hiding In Its Oil Bill? - NDTV
-  A Warning From 1991: Is India's Next Big Shock H
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEprSTN6dEJYQWpCMHpMVVFON0JiczRWOWE3ZS1FdWg3T2lmMHpuZm40bC1WT2xiaVlPUUk0bmw5ZWxSZ2g4Ymx0M3d6OTlSUXdza1RZc1BjMWZldmNBTUJCMWE5ZUlLZ3ZDZEo0UGpDR0sxM0IwTHFaOHBiU1RkamZTcjhqLXg3cTBYbWxpVjFVV29wVmFBRjRUeG8tUjN1RXNqbzhFY0pyTVdsYkxCU0ZHUUhOdmoxblFzNDB4NDZVQlBOTkhvd2xnUVZaTllfVktfRk1ZYU5nR1ZSZklKbGFxLS3SAewBQVVfeXFMUG84WDJmRzJDb0xLb1JURzZydXlCcnNzRk51Z1JZajdrc1UwczRodld0NnlHb0E1S3pfam9iSUxMbzVSb3JHWFJvM3ZFTi1neWJWY0lCeWUwSXVldG9tbjVMS29nTUZMb0dmQ3hRczhCZWtLc25LTXdGMVlBdG5YX0J3a3laVTJDbmdvdGE5ZkdCYVNNMmh5SVp5TGQzMDc3elhlbVYtVTViQnJjc0I4OVhJelByRGRrdDBlVWNFdUp2WllmYjZKZFZZamR4a0JEZl90S011bGVtT2lsclFfNkZwVWwzYXh3TzFaOEg?oc=5
+- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
+  The Times of India reported that a terrorist was killed in an encounter in Jammu
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
 
-- US-Israel-Iran War Live Updates: Yemen's Houthis launch missiles towards Israel; at least 7 killed in IDF strikes in Lebanon's Beirut - The Times of India
-  The Times of India reports that at least 7 killed in IDF strikes in Lebanon's Beirut.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxOSG5GV2w1YUxVd1ZfcmVtYXQ4TWFtSVE1Slg1VnJVUlZxZDEzMlZxdEZ4UUlCMWNHOGRER2hXdGlaUTlhaDNzRHVUVkd1Q000c0RqWHJ1OEdCTlllRXhhM0hJRS1qRFF4RnY3R3ptc3djOGZtbUI4emd4bzBYVHI0WjBqZUJwNWV1VVJxeF9VRXF2Y2Ytak9wMlNORlVzWUtHSWdlNXhNdWpxckFwMTRkYXZSOG51LTBIbUFfRGdBQk8yOGpHd0dMc010QXhwWWlNX1V3VXhiQUJBVzAzYUxaNmszSkJyOF9rbU96LXYxQXFINWJIbzZjQjJDOHNlQlA1eUt6LWFhb1FyUGhhcTVUbFhWUUUyMWlmUWdKbEFodllCM0ZXeWNXb1ZzenI4c3dTOTBVQUFQUDdzSDBHQkZqWmQzdGJUUFFLTGE40gHQAkFVX3lxTFBiTnY3VnZPWVBLQkdjTGxNUDd5V01HWXh2ekVaemNvYlVmeGJvX1BsUHBieHVUZ1BNdWFyV2gxNDlsVUN5aW5LSTEza3lobE5qczlPRDkxTWg1b0NfR3BBNW9WR1V6UXQwMHBXUWdZaXFWVnNvMW9aejhhZzZZOGJaT3hDdTcyOEwzdFBDbk9MZGJqOHRfOXNFSTNJRFp4elZid3dtOHpoUkJhQ1pBa2dSWTVpTEZMNDRld1lXaVNfa1dkMms1dDJ3QVNDQkNPeUIwSC1BOFZ0eC1TTWQyWllYMnl1bEVYOUNldHFEdmJhR3h6bTRfREh3WmZraHAyVjlnaXNWeEFnb0paalI3QTNwWHkxVV85YzZfWE90bGxoTlp3NWdHTnY1WlpJUEQwNlRqQ2FhdVRKQzh1bUZZNDZuMDRoQms5N0d2QWc4M3F3LQ?oc=5
+- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
+  India set to face Bhutan in SAFF U
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
 
-- India News: Jet fuel prices reach record high amid Iran war - dw.com
-  India News: Jet fuel prices reach record high
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDN4YmUxM19pQnVROEg0MlQzdktHMWp5aTJreG5MdVFVSS1sRzRmMzRIMXpDb3BzVDhzS1diX2JqV3VVUGF4TXotNU9zQ3NDbGZEN0dieXdfaVNsdGFFT1dKQkxEQzh5amFNTm9HbW12MkZKdnRmRDNSOWZoazlvZmE3UDdCV2tkT2tUZTQyMlNmYnVUWW9YOWRn?oc=5
+- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
+  Supreme Court Dismisses Appeal Over Air
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
+- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
   Census 2027: India begins counting a
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+
+- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
+  The Times of India reported that a terrorist was killed in an encounter in Jammu
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+
+- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
+  India set to face Bhutan in SAFF U
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+
+- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
+  Supreme Court Dismisses Appeal Over Air
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+
+- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+  Census 2027: India begins counting a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+
+- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
+  The Times of India reported that a terrorist was killed in an encounter in Jammu
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+
+- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
+  India set to face Bhutan in SAFF U
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+
+- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
+  Supreme Court Dismisses Appeal Over Air
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
+
+- Census 2027: India begins counting a billion-plus people in mega exercise - bbc.com
+  Census 2027: India begins counting a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+
+- 18 India-Flagged Ships Carrying Crude Oil, LPG Stranded In Hormuz Amid War - NDTV
+  18 India-Flagged Ships Carrying Crude
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDktUU83eEVySFRCRmtxWEtQNVFBdVBxOE83V3VDeTdZYkFaaHpXV28wQklUMXN0NTgxblNOa09pd3NZSDhHR3psNTJYY21IVkpOM18wX0hlVlM3UXBWS052VlppOWl1ZUxsSGFKNDU0SmhkZFpwcDJDTXJncERqNVlFaFVwY1Z3blV2dDNpNWhuQXMwdlZKZUhXYmVfYjlkem5mSVd6WFZIMUhEcXoyWGJuTm1hWEI3VEY5bTZhV25BZ0lER1hSb2FxdTlDTlVq0gHYAUFVX3lxTFBBUjFyT0dMd1A4TFJ3RHB6VmtfM2RxU3RRWXJ4eXVkUVdGWkVXMWowVGRKM3JXcFR0andaQXkwRHlrWHZmVml1MW51bTJ2b0pvUUM0R1c4cGNMeE9ESVRFa3hxaGFYRkdPTzd1Wk55UlBhVE84RDhQQTlzMVJ4UGVIZ2VLbU5IRFJXWU83NDd2SHd1NjAxLS1OT3k2QzE5VzNYT1BEWkQ3cjd2cWR4UWFHNTJ5YU9oOWtjR0l1VnhHdXc4MHFBQmtQREpXWUwwUk9RZkpNU1M3LQ?oc=5
+
+- Breaking News Live April 1: One terrorist killed in encounter in Jammu and Kashmir's Gandebal - The Times of India
+  The Times of India reported that a terrorist was killed in an encounter in Jammu
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkxaZWkzbFg3TGc5dThWYlNMVUFhSllFQXlCYVVseUNIbVhUTFRmSGRtUHZHRjM1OEJjb2U0NFNDcFBubWxLeHdVRzdQSThqQXNHdklfWHJiY1RXTkNESTFDd3JBYkZLWW1xNTRkc3YxUk93WENUZWxGM08tVWFtTjd3cE1aOVRDeEx1OV9XTGoxVmZKWVNqd3pScmRpNXBqNVV6T2gzZmcxdlZKYjhIUkpB0gG3AUFVX3lxTE1xTnFXOGNjR2UtZEJnVEprXzE3QldXMUtGektCSERjTUFFZXg4OVhFSnFJYUc2Z0t5cGlBbERzVGNKb0NNcnZoOTF2UEZJOUl4QlRnSFpHTmFrOGUteTJudkdnNE42Y2dsNVVDR3dOZDhYQ2duWWZPUjBBaW8td05NTnBPZml3bmJ2dEY5TU1XOHMyZ1RWWktjOTB3MzQySVdnb0NWOGs2WVRSRDZ1OGl2OVhrSG0ycw?oc=5
+
+- India set to face Bhutan in SAFF U20 Championship semi-final - News On AIR
+  India set to face Bhutan in SAFF U
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjFPREJ6aEdpTnl1dFczOGZjNzVQZWphRkJERXNINUhpTGxyMDQ1dWtiVWRsTHM0MWY2ZVd5V0hRVnM3V2RYdVlnZjNMdnprRmJmaVNpMWpmS0tndlFuQ2JzUjM4b3BGa29IOGpYOUJRSlJfTW5vaEFEN1Q2bzJVdUpYSE5leFVwS0thNVhjQUVGOUJY?oc=5
+
+- Supreme Court Dismisses Appeal Over Air India Crash Fuel Switches Report - NDTV
+  Supreme Court Dismisses Appeal Over Air
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkFmMW1XMG5GeE5Lemc4WmlfWFFxZ3l5QThaMXlTUFJnY2E5Yy1DZlI2cDMwUER5OVlzRjRpV21CT3hJcWJrZ0hZVWlKNmFTbVBiNWlsYjFkd2l3bDhfU0N4R05rUXo1eTBOaEJJNXhoT2c5VHJBdVdUX2M2d0JBanV3RlZjQVBQVnpCSnBjRXJ0RjNXZ1JrMjFpY0hSeFRDaUdtVm9VU25HTUkwZU13dVdNTdIBuwFBVV95cUxOQXVSMlFpN25zcl9UOEhJMnNQNDN5WDhlbGhMU2FPRVFzOXp4eWJHQms4NXlPZlF1QXJuWjItcno4Tl9PTEJ5X1ZlazJ5X2lBZ2NMcXZWSzZxUVBIWndCZHktUU9GbHYyc0NfOFg4R09TaEJ1bklRSXcxU1NBZTNMMXAxUU9kcm9wWG4zYURUYWxqZjNKazFKQzF3eEpkUTFWM1NBamVqN2xaWDZzcjRQRm5NQ0VTNWFOZVFJ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,5 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-04-01 07:17:20 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-04-01 13:12:07 UTC_
