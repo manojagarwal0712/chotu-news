@@ -1,144 +1,164 @@
 # 📰 Daily News Summaries
 
-- Overcrowding, open bathing spaces for women among major issues in Odisha prisons: CAG report
+- Bank Holiday 1 April 2026: Why branches are shut and what still works
   
-  🔗 https://indianexpress.com/article/india/overcrowding-open-bathing-spaces-for-women-among-major-issues-in-odisha-prisons-cag-report-10612333/
+  🔗 https://indianexpress.com/article/india/bank-holiday-1-april-2026-why-branches-are-shut-and-what-still-works-10612923/
 
-- ‘Dangerous game’: Opposition targets Kerala CM over ‘compromise with majority and minority communalism’
+- Gold Silver Rate Today, April 1: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/dangerous-game-opposition-targets-kerala-cm-over-compromise-with-majority-and-minority-communalism-10612336/
+  🔗 https://indianexpress.com/article/india/gold-silver-rate-today-april-1-check-18-22-and-24-carat-gold-prices-in-chennai-bangalore-mumbai-delhi-kolkata-hyderabad-and-other-cities-10612847/
 
-- Hemant Soren’s ‘Sheesh Mahal’ moment? Plan to build Rs 69-crore CM residence triggers political row in Jharkhand
+- In year NDA passed law to replace MGNREGA, 8% dip in families that availed the rural job scheme
   
-  🔗 https://indianexpress.com/article/india/hemant-sorens-sheesh-mahal-moment-plan-to-build-rs-69-crore-cm-residence-triggers-political-row-in-jharkhand-10612304/
+  🔗 https://indianexpress.com/article/india/mgnregs-usage-decline-gramin-scheme-india-10612797/
 
-- Football fever spills onto Kerala poll pitch — even Messi is not spared
+- Madhya Pradesh: Ujjwala gave them smoke-free kitchens, but now, dung-cake stoves are back
   
-  🔗 https://indianexpress.com/article/india/football-fever-spills-kerala-poll-pitch-messi-10612464/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-ujjwala-smoke-free-kitchens-now-dung-cake-stoves-10612416/
 
-- Adulterated Osmania biscuits, fake paneer, rotten eggs: What Hyderabad’s crackdown on eateries has revealed
+- X Goes Dark: Users hit by outage across India, US and UK
   
-  🔗 https://indianexpress.com/article/india/adulterated-osmania-biscuits-fake-paneer-rotten-eggs-what-hyderabads-crackdown-on-eateries-has-revealed-10612335/
+  🔗 https://indianexpress.com/article/india/x-goes-dark-users-hit-by-outage-across-india-us-and-uk-10612682/
+
+- As Google teases a screenless fitness wearable, Whoop reaches $10 billion valuation
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-google-teases-a-screenless-fitness-wearable-whoop-reaches-10-billion-valuation-10612949/
+
+- Meta to limit PG-13 rating use for teen accounts in Motion Picture Association deal
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-limit-pg-13-rating-use-for-teen-accounts-in-motion-picture-association-deal-10612767/
+
+- Apple’s 50-year journey from garage to tech titan
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-50-year-journey-from-garage-to-tech-titan-10612769/
+
+- Oracle set to cut thousands of jobs amid rising AI investments and cost pressures
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/oracle-set-to-cut-thousands-of-jobs-amid-rising-ai-investments-and-cost-pressures-10612701/
 
 - Samsung’s new Hearapy app can stop car sickness in just 60 seconds: Here’s how it works
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-hearapy-app-motion-sickness-10611976/
 
-- Tech and gadget launches today (March 31, 2026): XElectron iProjector 3, Xiaomi TV S Mini LED Series, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-march-31-2026-xelectron-iprojector-3-xiaomi-tv-s-mini-led-series-and-more-10611675/
+- iPhone production at risk? Report says India's smartphone export could go down by 25% amid Iran war
+  India's smartphone exports could be cut down by 22-25% if the current Iran conflict continues. While Apple makes around a quarter of its iPhones in India, the company is said
+  🔗 https://www.livemint.com/companies/news/iphone-production-at-risk-report-says-indias-smartphone-export-could-go-down-by-25-amid-iran-war-11775024152523.html
 
-- Instagram may soon offer premium tools as Meta tests subscription
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-may-soon-offer-premium-tools-as-meta-tests-subscription-10611731/
+- Jungle Ventures eyes 8-10 exits in 18 months, half from India
+  The venture capital firm is eyeing a massive liquidity harvest through IPOs and acquisitions. mature portfolio companies such as T
+  🔗 https://www.livemint.com/companies/news/jungle-ventures-exits-india-startups-ipo-pipeline-11775006991020.html
 
-- Mystery deepens: could a second Sphinx lie beneath Giza?
-  
-  🔗 https://indianexpress.com/article/technology/science/mystery-deepens-could-a-second-sphinx-lie-beneath-giza-10611732/
+- Oracle slashes 30,000 jobs: How much severance was offered? Which departments were affected? Key questions answered
+  Oracle, employing 162,000, announced $50 billion in debt and equity fundraising, alongside 30,000 layoffs. The layoffs, affecting various roles, are not
+  🔗 https://www.livemint.com/companies/news/oracle-slashes-30-000-jobs-how-much-severance-pay-were-offered-which-dept-were-affected-key-question-answered-11775018754012.html
 
-- Asus TUF Gaming A14 review: A surprisingly powerful 14-inch gaming machine
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-tuf-gaming-a14-review-10611681/
+- AAI profit leans on privatized airports as core network bleeds
+  Six airports under the public-private partnership model drove over 30% of FY25 net profit. One-off payments boosting profits
+  🔗 https://www.livemint.com/companies/news/aai-profit-driven-by-privatized-airports-ppp-adani-11775013672269.html
 
-- Why Wow! Momo’s packaged foods are emerging as a second growth engine
-  Momo is projecting revenue of  ₹850 crore by FY26. The company is witnessing 100% year-on-year growth in packaged foods.
-  🔗 https://www.livemint.com/companies/news/why-wow-momo-s-packaged-foods-are-emerging-as-a-second-growth-engine-fmcg-itc-hul-11774946490911.html
+- ChatGPT parent OpenAI raises $122 billion in record funding round, valuation hits $852 billion
+  OpenAI expects enterprise sales to increase to 50% of its revenue this year. The company generates $2 billion monthly, recently added advertising to ChatGPT.
+  🔗 https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html
 
-- US appeals court denies bid from families of Boeing 737 Max crash victims to reopen criminal case
-  US appeals court denies bid from families of Boeing 737 Max crash
-  🔗 https://www.livemint.com/companies/us-appeals-court-denies-bid-from-families-of-boeing-737-max-crash-victims-to-reopen-criminal-case-11774992889422.html
+- How long can the Nifty 50 stay in the bull trend after the US-Iran war de-escalation?
+  The Nifty may recover if geopolitical tensions ease, but it requires lower crude prices and stronger institutional flows for a sustainable bullish trend. A decisive close above 23,550-
+  🔗 https://www.livemint.com/market/stock-market-news/how-long-can-the-nifty-50-stay-in-the-bull-trend-after-the-us-iran-war-deescalation-11775026415149.html
 
-- Elon Musk must face class action over late disclosure of Twitter stake, judge rules
-  Elon Musk must face class action over late
-  🔗 https://www.livemint.com/companies/elon-musk-must-face-class-action-over-late-disclosure-of-twitter-stake-judge-rules-11774990285888.html
+- Vodafone Idea, Ola Electric, YES Bank, HDFC Bank— These are among the most traded stocks on NSE today
+  Vodafone Idea, Tata Silver Exchange Traded Fund, Ola Electric Mobility, YES Bank, GTL Infrastructure, and HDFC Bank were
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-ola-electric-yes-bank-hdfc-bank-these-are-among-the-most-traded-stocks-on-nse-today-11775025233848.html
 
-- Tether Cuts Gold Traders Months After Hiring Them From HSBC
-  Tether Holdings SA has cut two senior precious metals traders just months after hiring them from HSBC Holdings Plc.
-  🔗 https://www.livemint.com/companies/tether-cuts-gold-traders-months-after-hiring-them-from-hsbc-11774982698768.html
+- PC Jeweller share price jumps 7% amid rising gold, silver rates today
+  PC Jeweller's share price jumped 7% on Wednesday amid rising gold and silver prices and a sharp rise in the Indian stock market's benchmark indices. Check out
+  🔗 https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-7-amid-rising-gold-silver-rates-today-11775023779061.html
 
-- 'Today is your last working day…’: Oracle cuts jobs globally, thousands laid off in latest cost cutting move
-  Layoffs by the software maker appear to have reportedly affected employees in multiple regions across the globe.
-  🔗 https://www.livemint.com/companies/news/today-is-your-last-working-day-oracle-cuts-jobs-globally-thousands-laid-off-in-latest-cost-cutting-move-11774974609128.html
+- Gold, silver rates today: Check 24K, 22K gold, 999 silver rates on 1 April in your city — Delhi, Mumbai, others
+  Gold and silver prices in India are on the rise following gains in international bullion prices. Check retail gold and silver
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-check-24k-22k-gold-999-silver-rates-on-1-april-in-your-city-delhi-mumbai-others-11775024366150.html
 
-- From Gift Nifty, US-Iran war to Nasdaq, Nikkei rally: 8 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 22,870 level, a premium of nearly 444 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-to-nasdaq-nikkei-rally-8-key-things-that-changed-for-indian-stock-market-overnight-11775006326078.html
+- Small-cap stock under  ₹50 jumps over 9% following Dalal Street rally
+  Hazoor Multi Projects share price has fallen 22% in one month, and has declined over 31% on a year-to-date (YTD) basis. The smallcap stock
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hazoor-multi-projects-share-price-jumps-9-following-dalal-street-rally-11775025022902.html
 
-- Gold, silver rates today: Gold prices climb to $4,700, silver prices at $75/oz. Is it the right time to buy?
-  Gold and silver rates today continued their winning streak for the third session. Check out the latest gold and silver
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-price-today-climbs-to-4-700-silver-prices-at-75-oz-is-it-the-right-time-to-buy-gold-11775004225631.html
+- Oil slides over 3% as Middle East uncertainty keeps markets on edge
+  Investors locked in profits amid uncertainty, with analysts noting that even if the war ends, infrastructure damage and supply chain disruptions will likely keep oil supplies tight for some time.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-over-3-as-middle-east-uncertainty-keeps-markets-on-edge/articleshow/129944323.cms
 
-- Gold Extends Three-Day Gain After Trump Signals End to Iran War
-  Gold extended a three-day rally after President Donald Trump said he expected the US to end the war
-  🔗 https://www.livemint.com/market/gold-extends-three-day-gain-after-trump-signals-end-to-iran-war-11775006427462.html
+- Cochin Shipyard shares rally 15%, add Rs 4,700 crore to market value: What’s behind the surge?
+  Cochin Shipyard shares surged approximately 15% after its inclusion in the NSE's F&amp;O segment. This rally aligns with a broader bullish trend in shipyard stocks, fueled by strong performance from peers.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-rally-15-add-rs-4700-crore-to-market-value-whats-behind-the-surge/articleshow/129944030.cms
 
-- Why Ather Energy could benefit from the oil price shock
-  Ather has steadily gained speed in terms of stock price and sales volume. While Ola has been grappling
-  🔗 https://www.livemint.com/market/mark-to-market/ather-energy-stock-sales-growth-ev-market-india-hero-11774945298452.html
+- "Geopolitics won’t derail markets forever": Devina Mehra urges investors to stay the course
+  Long-term trends suggest geopolitics has limited influence on stock markets. India's oil import dependence remains a key concern, though opportunities may emerge during this volatile period.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/geopolitics-wont-derail-markets-forever-devina-mehra-urges-investors-to-stay-the-course/articleshow/129943878.cms
 
-- GNG Electronics: How the PC refurbisher is winning from the Global AI RAM crisis
-  GNG Electronics is capturing the shift with low-cost refurbished tech and rising margins.
-  🔗 https://www.livemint.com/market/stock-market-news/gng-electronics-pc-refurbisher-winning-global-ai-ram-crisis-profits-11774951788057.html
+- US Stock Market | Oracle shares jump 6% amid layoff buzz; AI pivot drives investor optimism
+  Oracle's stock surged despite widespread layoffs. Investors are focusing on future growth potential, viewing the job cuts as a strategic move.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oracle-shares-jump-6-amid-layoff-buzz-ai-pivot-drives-investor-optimism/articleshow/129943780.cms
 
-- X down again? Elon Musk's social media platform suffers another outage for thousands of users
-  Elon Musk's social media platform X is experiencing outages
-  🔗 https://www.livemint.com/technology/tech-news/x-twitter-down-again-elon-musks-social-media-app-suffers-another-outage-for-thousands-of-users-11775006632638.html
+- Indian real estate attracts $1.4 billion investments in Q1 2026
+  Indian real estate saw its strongest first quarter for institutional investments in 2026, reaching $1.4 billion. Commercial assets led this growth, attracting 80 percent of the investments.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indian-real-estate-attracts-1-4-billion-investments-in-q1-2026/articleshow/129943768.cms
 
-- Mamdani puts New York City government back on TikTok
-  Mamdani puts
-  🔗 https://www.livemint.com/technology/mamdani-puts-new-york-city-government-back-on-tiktok-11774992096059.html
+- Houthis Threaten Strait No 2 As Iran War Expands. What It Means For India - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONjkwX1cxRUtIQi12eTdXMi1ONzc3eTVOS1ZHbTZDQXpHOEhVekFVOEVFTzkxQUUxbzloOEk2MFpnMDBKaUNEWlQ3Y3hISHNod1JEaW5GaTA5ZWZ2c3hVdVRMTzRpTEtXVWhicURSNnEzdkZ1dXI4Z1lueldPU0FGb3dzYkxWWEhUc1k0a2thVGplVmFJakRGV20xbl9FTnBvaTJuS0ZDZ3lyVWxCbWFQLVdidVZCbXZiMXQ5Y3BQeG4wSkVFOVdGMlQwQnhXSjJGcjA2NFlWV1p5SXdYYkF2V3FvLTVMZnVEc2xpSGNKclRzT3JUOEthT1oyXzRQVkxNc1J0VDljbWU3UXFjaFE?oc=5
 
-- Anthropic's AI coding tool, Claude Code, accidentally reveals its source code; here's what happened
-  Anthropic accidentally exposed the full source code of its AI tool Claude Code due to a packaging error. While no user data or core AI systems were affected, the leak revealed
-  🔗 https://www.livemint.com/technology/tech-news/anthropics-ai-coding-tool-claude-code-accidentally-reveals-its-source-code-heres-what-happened-11774977255558.html
+- A Warning From 1991: Is India's Next Big Shock Hiding In Its Oil Bill? - NDTV
+  A Warning From 1991: Is India's Next Big Shock H
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEprSTN6dEJYQWpCMHpMVVFON0JiczRWOWE3ZS1FdWg3T2lmMHpuZm40bC1WT2xiaVlPUUk0bmw5ZWxSZ2g4Ymx0M3d6OTlSUXdza1RZc1BjMWZldmNBTUJCMWE5ZUlLZ3ZDZEo0UGpDR0sxM0IwTHFaOHBiU1RkamZTcjhqLXg3cTBYbWxpVjFVV29wVmFBRjRUeG8tUjN1RXNqbzhFY0pyTVdsYkxCU0ZHUUhOdmoxblFzNDB4NDZVQlBOTkhvd2xnUVZaTllfVktfRk1ZYU5nR1ZSZklKbGFxLS3SAewBQVVfeXFMUG84WDJmRzJDb0xLb1JURzZydXlCcnNzRk51Z1JZajdrc1UwczRodld0NnlHb0E1S3pfam9iSUxMbzVSb3JHWFJvM3ZFTi1neWJWY0lCeWUwSXVldG9tbjVMS29nTUZMb0dmQ3hRczhCZWtLc25LTXdGMVlBdG5YX0J3a3laVTJDbmdvdGE5ZkdCYVNNMmh5SVp5TGQzMDc3elhlbVYtVTViQnJjc0I4OVhJelByRGRrdDBlVWNFdUp2WllmYjZKZFZZamR4a0JEZl90S011bGVtT2lsclFfNkZwVWwzYXh3TzFaOEg?oc=5
 
-- India's average monthly mobile data consumption crossed 31 GB mark, 5G traffic grew by 70%: Report
-  India has now the world's second-largest 5G subscriber base, 5G data consumption and 5G FWA user base
-  🔗 https://www.livemint.com/technology/tech-news/indias-average-monthly-mobile-data-consumption-crossed-31-gb-mark-5g-traffic-grew-by-70-report-11774964567711.html
+- US-Israel-Iran War Live Updates: Yemen's Houthis launch missiles towards Israel; at least 7 killed in IDF strikes in Lebanon's Beirut - The Times of India
+  The Times of India reports that at least 7 killed in IDF strikes in Lebanon's Beirut.
+  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxOSG5GV2w1YUxVd1ZfcmVtYXQ4TWFtSVE1Slg1VnJVUlZxZDEzMlZxdEZ4UUlCMWNHOGRER2hXdGlaUTlhaDNzRHVUVkd1Q000c0RqWHJ1OEdCTlllRXhhM0hJRS1qRFF4RnY3R3ptc3djOGZtbUI4emd4bzBYVHI0WjBqZUJwNWV1VVJxeF9VRXF2Y2Ytak9wMlNORlVzWUtHSWdlNXhNdWpxckFwMTRkYXZSOG51LTBIbUFfRGdBQk8yOGpHd0dMc010QXhwWWlNX1V3VXhiQUJBVzAzYUxaNmszSkJyOF9rbU96LXYxQXFINWJIbzZjQjJDOHNlQlA1eUt6LWFhb1FyUGhhcTVUbFhWUUUyMWlmUWdKbEFodllCM0ZXeWNXb1ZzenI4c3dTOTBVQUFQUDdzSDBHQkZqWmQzdGJUUFFLTGE40gHQAkFVX3lxTFBiTnY3VnZPWVBLQkdjTGxNUDd5V01HWXh2ekVaemNvYlVmeGJvX1BsUHBieHVUZ1BNdWFyV2gxNDlsVUN5aW5LSTEza3lobE5qczlPRDkxTWg1b0NfR3BBNW9WR1V6UXQwMHBXUWdZaXFWVnNvMW9aejhhZzZZOGJaT3hDdTcyOEwzdFBDbk9MZGJqOHRfOXNFSTNJRFp4elZid3dtOHpoUkJhQ1pBa2dSWTVpTEZMNDRld1lXaVNfa1dkMms1dDJ3QVNDQkNPeUIwSC1BOFZ0eC1TTWQyWllYMnl1bEVYOUNldHFEdmJhR3h6bTRfREh3WmZraHAyVjlnaXNWeEFnb0paalI3QTNwWHkxVV85YzZfWE90bGxoTlp3NWdHTnY1WlpJUEQwNlRqQ2FhdVRKQzh1bUZZNDZuMDRoQms5N0d2QWc4M3F3LQ?oc=5
 
-- Cardi B and Steph Curry earn Webby Award nominations, along with Sydney Sweeneys bathwater
-  Cardi B and Steph Curry earn Webby
-  🔗 https://www.livemint.com/technology/cardi-b-and-steph-curry-earn-webby-award-nominations-along-with-sydney-sweeneys-bathwater-11774965405016.html
+- India News: Jet fuel prices reach record high amid Iran war - dw.com
+  India News: Jet fuel prices reach record high
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDN4YmUxM19pQnVROEg0MlQzdktHMWp5aTJreG5MdVFVSS1sRzRmMzRIMXpDb3BzVDhzS1diX2JqV3VVUGF4TXotNU9zQ3NDbGZEN0dieXdfaVNsdGFFT1dKQkxEQzh5amFNTm9HbW12MkZKdnRmRDNSOWZoazlvZmE3UDdCV2tkT2tUZTQyMlNmYnVUWW9YOWRn?oc=5
 
-- Asian Stocks Set to Track US Rally on Iran Hopes: Markets Wrap - Bloomberg.com
-  Asian Stocks Set to Track US Rally on Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3pqbTdITXBiUWxabEl5MjQ3T3YwTk1hdlpvNTlaeGhmOGJuZTlLbGg2M1NmMURNX0pDanNIQlB6TllyVmdidlVkNUlRbml0em1rbkRha1EzeGJMbEF3NnU3QzdrQ3dyOVJGWGRwYUdZS3VyS3ZkTkt3REJZVE5kUWE2UVBtQTR6S1VNZ3Nwbzk0X1RYaFhHaXV4OTl2Ri1sRDg5Ym9pQW9LNFBlc0xKXzJB?oc=5
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
+  Census 2027: India begins counting a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- South Korea's Kospi leads declines in Asia as Middle East war enters fifth week - CNBC
-  South Korea's Kospi leads declines in Asia as Middle
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWwyRVVJcTZaRDJWZHV3V2Y3MGpuVFdRVlg0TzBMNVkwMWh1T1hYbVN1VnNtbGUwOG9BQktsMXNTZ004MWZOWEVPbC1ULV9pSS0xQWgxVm5Sc092ZjBJa2tZSmIxVXM5TDV2UmVBZF9FLVoxYjJHZzVjQlhGNUFlSExnZ2xLc1BkWDQ1MlZmWmYwSXkyYlEtdjFn0gGfAUFVX3lxTE1QMG8yV0szRFl6TWhKdHpZUlFwWnJVdFNYMzVsclNMaXA5Z3VDQ3ZQcnpadDJRVzNnenRuM0Q2SFdydWRsNlFGaGo5dG55akdDTlp4QXdrYjdVTnU4STE3d0RXYUozVVIxc2VsR21BZkV6MjhCdFl1OTFkZWlydFVlNjJwb1N1QnpKUXlkTjV0QlZNZlBWdk41aHVPMVgyTQ?oc=5
+- Houthis Threaten Strait No 2 As Iran War Expands. What It Means For India - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxONjkwX1cxRUtIQi12eTdXMi1ONzc3eTVOS1ZHbTZDQXpHOEhVekFVOEVFTzkxQUUxbzloOEk2MFpnMDBKaUNEWlQ3Y3hISHNod1JEaW5GaTA5ZWZ2c3hVdVRMTzRpTEtXVWhicURSNnEzdkZ1dXI4Z1lueldPU0FGb3dzYkxWWEhUc1k0a2thVGplVmFJakRGV20xbl9FTnBvaTJuS0ZDZ3lyVWxCbWFQLVdidVZCbXZiMXQ5Y3BQeG4wSkVFOVdGMlQwQnhXSjJGcjA2NFlWV1p5SXdYYkF2V3FvLTVMZnVEc2xpSGNKclRzT3JUOEthT1oyXzRQVkxNc1J0VDljbWU3UXFjaFE?oc=5
 
-- Asia markets rally on optimism Iran war could end soon - TradingView
-  Asia markets rally on optimism Iran war could
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2xFNnRnTGJSSDROZXhwTUdyQXVqZkNkQ1pBU3pvRERSeWNNYzN5ZHFGM0dIOWJMXzR5aUFIeUs2U2lKZUlxMHFzamprZ05uSHc5SWhLWGdQTTdXMkdEMlI0NVQ4aV9nbVdDcjFudGxzM2RBMTNQVEpzaFlhMGk5cVRRTnR5Mm5Xc014d0pOYkstX3Bnb2hUdFBOVlhsXzFqcXZDY2NUaDNjajhrYkxxSjVGUC1yVVBxY3JSY0MzWHJ1Zw?oc=5
+- A Warning From 1991: Is India's Next Big Shock Hiding In Its Oil Bill? - NDTV
+  A Warning From 1991: Is India's Next Big Shock H
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaEprSTN6dEJYQWpCMHpMVVFON0JiczRWOWE3ZS1FdWg3T2lmMHpuZm40bC1WT2xiaVlPUUk0bmw5ZWxSZ2g4Ymx0M3d6OTlSUXdza1RZc1BjMWZldmNBTUJCMWE5ZUlLZ3ZDZEo0UGpDR0sxM0IwTHFaOHBiU1RkamZTcjhqLXg3cTBYbWxpVjFVV29wVmFBRjRUeG8tUjN1RXNqbzhFY0pyTVdsYkxCU0ZHUUhOdmoxblFzNDB4NDZVQlBOTkhvd2xnUVZaTllfVktfRk1ZYU5nR1ZSZklKbGFxLS3SAewBQVVfeXFMUG84WDJmRzJDb0xLb1JURzZydXlCcnNzRk51Z1JZajdrc1UwczRodld0NnlHb0E1S3pfam9iSUxMbzVSb3JHWFJvM3ZFTi1neWJWY0lCeWUwSXVldG9tbjVMS29nTUZMb0dmQ3hRczhCZWtLc25LTXdGMVlBdG5YX0J3a3laVTJDbmdvdGE5ZkdCYVNNMmh5SVp5TGQzMDc3elhlbVYtVTViQnJjc0I4OVhJelByRGRrdDBlVWNFdUp2WllmYjZKZFZZamR4a0JEZl90S011bGVtT2lsclFfNkZwVWwzYXh3TzFaOEg?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Highlights: Dow soars 1,125 pts, Nasdaq, S&P 3% after Iran say... - The Economic Times
-  The Dow soars 1,125 pts, Nasdaq, S&amp;P 3% after
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxNMFd3cFZjRTkxU25OQ3ZobEJ4cVUyOFhZQUthcWUyZDdsVFp1Wi11QzdSbURiVVEzZElOX2FVRlpnaVQ0VEQ5dUFJZklsd011UURVRXQ2UjFLYXAzMTY5c1FmUlRpWVFFVEFKT1VyVGgzNHBoVHRLSXdxT0FYRTI3cTV6YmtYX3Ytb2d2dURONlVhdXR2aDZkZThPZHV6Vnpvc21oLVA5QjZBcFhrLVVhSUoxZ25HVVFtdTJYckZNZldGcU1vZGV1TFhBY2pJR2JHZzd2RmZtdjVhUEVsT2s0SDZZNnNtdHZMbjNIYjlRWXkzYWJYNmxNeEdsd2s4bkdiZU9aY3ducWwwX0Y2cWFFNHZyeHg0aW5FbU1pVmI1Rk9xclBCNnlLUGNpZ2dnVXN6M0HSAbcCQVVfeXFMT21BVG9YNThoTTlKdWZBVzgzN0MwTXpkWnh5NVM5VHRwWmxXcnpjRGtBbm8xdkV3V21yRUlXRlVMRkVZTlBnWkhEb1RIYUFHUHFzRGtNaGdvLWVfVXMxQUt1TllYY0tka1ZES3hjMUo5Ymt3cGhRZHFueU8wV3pFU2hQLVp1ekhSd0JISWxhRjBocnp5RnZjZXpzOVlVbHJ3TFJTYUJ4eThNeEtPVkRmY0xwdS0xcVY0TEtTRlZ0NFc5ODJDT0JvZXV5RmJoSkVQblNjQ3RiQjVuSGVPR2JhNHd4cDNFSi1mUUFDYjBBLXZmTEdRWEhZUTBGR3hyV1VSQ3ZxbWNBWjN4SnotY2Z2b0VDMEtYVGp5YjZ0ZlBEMVBvUjZtSUtFUEJlS0x0enNqZk5yWkdCSEU?oc=5
+- US-Israel-Iran War Live Updates: Yemen's Houthis launch missiles towards Israel; at least 7 killed in IDF strikes in Lebanon's Beirut - The Times of India
+  The Times of India reports that at least 7 killed in IDF strikes in Lebanon's Beirut.
+  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxOSG5GV2w1YUxVd1ZfcmVtYXQ4TWFtSVE1Slg1VnJVUlZxZDEzMlZxdEZ4UUlCMWNHOGRER2hXdGlaUTlhaDNzRHVUVkd1Q000c0RqWHJ1OEdCTlllRXhhM0hJRS1qRFF4RnY3R3ptc3djOGZtbUI4emd4bzBYVHI0WjBqZUJwNWV1VVJxeF9VRXF2Y2Ytak9wMlNORlVzWUtHSWdlNXhNdWpxckFwMTRkYXZSOG51LTBIbUFfRGdBQk8yOGpHd0dMc010QXhwWWlNX1V3VXhiQUJBVzAzYUxaNmszSkJyOF9rbU96LXYxQXFINWJIbzZjQjJDOHNlQlA1eUt6LWFhb1FyUGhhcTVUbFhWUUUyMWlmUWdKbEFodllCM0ZXeWNXb1ZzenI4c3dTOTBVQUFQUDdzSDBHQkZqWmQzdGJUUFFLTGE40gHQAkFVX3lxTFBiTnY3VnZPWVBLQkdjTGxNUDd5V01HWXh2ekVaemNvYlVmeGJvX1BsUHBieHVUZ1BNdWFyV2gxNDlsVUN5aW5LSTEza3lobE5qczlPRDkxTWg1b0NfR3BBNW9WR1V6UXQwMHBXUWdZaXFWVnNvMW9aejhhZzZZOGJaT3hDdTcyOEwzdFBDbk9MZGJqOHRfOXNFSTNJRFp4elZid3dtOHpoUkJhQ1pBa2dSWTVpTEZMNDRld1lXaVNfa1dkMms1dDJ3QVNDQkNPeUIwSC1BOFZ0eC1TTWQyWllYMnl1bEVYOUNldHFEdmJhR3h6bTRfREh3WmZraHAyVjlnaXNWeEFnb0paalI3QTNwWHkxVV85YzZfWE90bGxoTlp3NWdHTnY1WlpJUEQwNlRqQ2FhdVRKQzh1bUZZNDZuMDRoQms5N0d2QWc4M3F3LQ?oc=5
 
-- Hiring in the US drops to pandemic lows as job market under Trump stagnates - Al Jazeera
-  Hiring in the US drops to pandemic lows as job market
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkI2RW5NTU1LTHJKamNlVzA4Nzgxd1M0VDMzOURYVElOTG9VbU02ajFMbEU2MVUyOHg1MExzbVZjWmp6V3VxWWRiWFVEUmw2QzZHMVlQOFhNdUdYX0xtSHF3NFVKeFdmdThUVzBRdUM5RUppbmR5RzdkYWI2SXB2M3dvUzVOZnBCM1BQR1QyemVjelpGRlBFT09OQWhkdEd2aUdLLWlwUkdaVkhNcGdHYWhhLV8tVzZ3TVJZ0gHAAUFVX3lxTE1rTVVUdG9za2NycUxKSlZuU2hwSjJFTERhX252RHF3SnotRnhvNmdHZGNZazZZcEN1WDVkZm1NS0dhQjMxVHZwRktpRFhEODRvSE1tTkZielBTRWZwMlVBUkRZY3B5U2JJNUhTVGtOY05ScmRYUG9TMEdMLTZMRXVWcFV3TWZHNndEeTJYRkpIUV9kZGFraUtpQ3dxWFN2anNCcFBacC0yXzY5Zmx2YU9pREE4Ny1nb2doWS1iZnhkdA?oc=5
+- India News: Jet fuel prices reach record high amid Iran war - dw.com
+  India News: Jet fuel prices reach record high
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDN4YmUxM19pQnVROEg0MlQzdktHMWp5aTJreG5MdVFVSS1sRzRmMzRIMXpDb3BzVDhzS1diX2JqV3VVUGF4TXotNU9zQ3NDbGZEN0dieXdfaVNsdGFFT1dKQkxEQzh5amFNTm9HbW12MkZKdnRmRDNSOWZoazlvZmE3UDdCV2tkT2tUZTQyMlNmYnVUWW9YOWRn?oc=5
 
-- Front-month Brent oil futures extend gains after record monthly rise in March
-  Middle East tensions are keeping markets on edge. Reports suggest the US and Iran might be nearing a peace deal.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/front-month-brent-oil-futures-extend-gains-after-record-monthly-rise-in-march/articleshow/129939258.cms
+- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
+  Census 2027: India begins counting a
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
 
-- Rupee seen sliding to 100 per dollar as oil prices surge
-  India's rupee faces potential record lows against the dollar, possibly exceeding 100. Analysts warn that elevated oil prices will worsen inflation and the current-account deficit.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-seen-sliding-to-100-per-dollar-as-oil-prices-surge/articleshow/129939077.cms
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Global Market Today | Asian stocks jump on Iran war offramp, oil steady
-  Asian stocks rallied as optimism grew that the war in Iran may be nearing an end. The dollar fell and Treasuries extended gains as President Trump suggested a resolution within weeks. Markets are now shifting focus to policymakers' responses
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-jump-on-iran-war-offramp-oil-steady/articleshow/129938931.cms
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- US Stock Market | Wall Street soars as traders bet on potential war off-ramp
-  Wall Street surged on hopes of peace in the Middle East. Major US indexes experienced their biggest gains since May 2025. Technology stocks like Nvidia and Alphabet performed strongly.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-soars-as-traders-bet-on-potential-war-off-ramp/articleshow/129938876.cms
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Rupee tops Asia’s worst performers list with 9.9% slide in FY26
-  The Indian rupee ended FY26 as Asia's weakest currency against the US dollar. It depreciated by 9.88% due to significant foreign investor withdrawals. The Reserve Bank of India intervened to stabilize the rupee.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-tops-asias-worst-performers-list-with-9-9-slide-in-fy26/articleshow/129938831.cms
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 
-_Last updated: 2026-04-01 02:06:30 UTC_
+_Last updated: 2026-04-01 07:17:20 UTC_
