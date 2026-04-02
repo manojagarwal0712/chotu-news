@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- J-K govt depts, PSUs owe thousands of crores in power tariff dues, Assembly told
+- Rajya Sabha passes Jan Vishwas Bill; have tried to bring swift and proportionate penalties, says Goyal
   
-  🔗 https://indianexpress.com/article/india/j-k-govt-depts-psus-owe-thousands-of-crores-in-power-tariff-dues-assembly-told-10615772/
+  🔗 https://indianexpress.com/article/india/rajya-sabha-passes-jan-vishwas-bill-have-tried-to-bring-swift-and-proportionate-penalties-says-goyal-10616203/
 
-- Mumbai-Ahmedabad bullet train project: How tunnel construction is progressing on MAHSR corridor
+- Raghav Chadha’s video message after AAP removes him from key post
   
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-project-how-tunnel-construction-is-progressing-on-mahsr-corridor-10615606/
+  🔗 https://indianexpress.com/article/india/raghav-chadha-aap-rajya-sabha-deputy-leader-removed-video-evil-eye-emoji-10615945/
 
-- ‘Injustice’: Rahul Gandhi slams CAPF Bill, cites story of injured jawan denied promotion
+- Poll body hands over Bengal probe to NIA after judicial officers attacked
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-capf-bill-debate-row-assam-10615614/
+  🔗 https://indianexpress.com/article/india/ec-hands-over-bengal-probe-to-nia-10616107/
 
-- Vande Bharat Sleeper train: Indo-Russian JV ‘Kinet Railway Solutions’ completes first car body, prototype soon
+- Oil jumps 7percent after Trump warns of fresh Iran strikes; petrol prices fluctuate in India
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-train-indo-russian-jv-kinet-railway-solutions-completes-first-car-body-prototype-soon-10615452/
+  🔗 https://indianexpress.com/article/india/business-economy-oil-prices-surge-brent-crude-108-trump-iran-remarks-petrol-diesel-rates-india-march-2026-10615384/
 
-- ‘Stop your games’: Rajya Sabha erupts as Kiren Rijiju hints at special session; Opposition alleges poll code violation
+- India’s defence exports increased by 62.66% in 2025-26 to reach all-time high of Rs 38,424 crore: Ministry
   
-  🔗 https://indianexpress.com/article/india/womens-reservation-bill-parliament-session-row-10615502/
+  🔗 https://indianexpress.com/article/india/india-defence-exports-increased-2025-26-ministry-10616024/
+
+- Tech and gadget launches today (April 2, 2026):Vivo V70 FE, Ambrane introduces semi-solid battery pack, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-2-2026vivo-v70-fe-ambrane-introduces-semi-solid-battery-pack-and-more-10615730/
 
 - No passwords, no scans: Scientists unveil ‘VitalID’, a way to log in using your skull’s unique vibrations
   
@@ -36,49 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/apple-macbook-neo-review-price-india-specs-windows-comparison-10614704/
 
-- SpaceX’s orbital data centers could face same hurdles as Microsoft’s abandoned undersea project
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacexs-orbital-data-centers-could-face-same-hurdles-as-microsofts-abandoned-undersea-project-10614701/
+- Emami to acquire 100% stake in Axiom Ayurveda, maker of Alofrut flavoured drink: Here are the details
+  Emami is set to acquire the remaining stake in Axiom Ayurveda for up to  �
+  🔗 https://www.livemint.com/companies/news/emami-to-acquire-100-stake-in-axiom-ayurveda-maker-of-alofrut-flavoured-drink-here-are-the-details-11775140297055.html
 
-- Oracle layoffs: Ex-employee alleges algorithm targeted senior executives with unvested stock
-  Oracle has offered severance pay to 30,000 laid-off employees. The layoffs were part of a cost-cutting strategy that affected 19% of the workforce.
-  🔗 https://www.livemint.com/companies/news/oracle-layoffs-ex-employee-alleges-algorithm-targeted-senior-executives-with-unvested-stock-11775129191394.html
+- TVS Venu Group to acquire PGIM's India asset management unit
+  PGIM India AMC, formerly DHFL Pramerica Mutual
+  🔗 https://www.livemint.com/companies/tvs-venu-group-acquires-pgim-india-asset-management-mutual-funds-deal-11775143312439.html
 
-- Marico forecasts double-digit growth in Q4 operating profit, shares rise 2.5%
-  For the quarter ending 31 March, the firm projects consolidated revenue growth in the low twenties, with an expected sequential rise in gross margins.
-  🔗 https://www.livemint.com/companies/company-results/marico-forecasts-double-digit-growth-in-q4-operating-profit-shares-rise-25-11775128233707.html
+- Cyrus Poonawalla buys Ravi Varma painting for  ₹167 crore: Check Serum Institute founder's net worth, assets
+  Cyrus Poonawalla made headlines after buying Ravi Varma's famous painting, Yashoda and Krishna, for  ₹167.2 crore. Here's
+  🔗 https://www.livemint.com/companies/people/cyrus-poonawalla-buys-ravi-varma-painting-for-rs-167-crore-check-serum-institute-founders-net-worth-assets-11775142386447.html
 
-- Investor demand for branded plots remains strong, says Abhinandan Lodha
-  Home sales in India have started showing signs of tapering. Abhinandan Lodha said demand for
-  🔗 https://www.livemint.com/companies/news/real-estate-india-branded-plots-the-house-of-abhinandan-lodha-11775127630719.html
+- Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations
+  Tesla sales rise after brutal year of Musk boycotts
+  🔗 https://www.livemint.com/companies/tesla-sales-rise-after-brutal-year-of-musk-boycotts-but-still-fall-short-of-expectations-11775139821012.html
 
-- Hard luggage, soft sales: Why your parents’ favourite suitcase brand is falling behind
-  Safari and D2C luggage startups have seized the momentum. Explore how identity, e-commerce, and premium hard-shells
-  🔗 https://www.livemint.com/companies/india-vip-safari-luggage-fight-independent-newbie-brands-11775125922709.html
+- Emcure halves price of its semaglutide weight loss drug Poviztra after Novo Nordisk patent expiry — check new rates
+  Emcure Pharmaceuticals has reduced the price of its weight management drug Poviztra. The move follows increased competition after semagl
+  🔗 https://www.livemint.com/companies/news/emcure-cuts-price-of-novo-nordisks-weight-loss-drug-nearly-in-half-check-new-rates-11775134040439.html
 
-- Mint Explainer | Can this startup make 10-minute delivery finally work?
-  Swish has raised about $38 million, nearly doubling its valuation. Can the 10-minute food delivery finally crack unit economics?
-  🔗 https://www.livemint.com/companies/start-ups/food-delivery-swiggy-zomato-zepto-swish-10-minute-delivery-india-11775118505267.html
+- India’s share in global market cap slips to 3% in March amid Middle East war concerns: Report
+  India's share of global market capitalization dropped to 3% in March 2026, marking a three-year low. The Nifty 50 plunged 11.3%, and foreign investors withdrew a record  �
+  🔗 https://www.livemint.com/market/stock-market-news/indias-share-in-global-market-cap-slips-to-3-in-march-amid-middle-east-war-concerns-report-11775122879611.html
 
-- US stock market today: Dow Jones futures crash over 1% in pre-open session after Trump's address to the nation
-  US stock futures plummeted as he signaled no imminent end to military operations. Crude oil prices surged, with Brent crude experiencing significant gains.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-futures-crash-over-1-in-pre-open-session-after-trumps-address-to-the-nation-11775129151072.html
+- Tesla shares drop over 4.5% as Q1 deliveries and production miss estimates
+  Tesla delivered 358,023 vehicles, down 14.4% from the previous quarter. The company is facing weak demand and rising competition in the US and globally.
+  🔗 https://www.livemint.com/market/stock-market-news/tesla-shares-drop-over-4-5-as-q1-deliveries-and-production-miss-estimates-11775140959771.html
 
-- US-Iran war fallout: Investors lose over  ₹41 lakh crore; FIIs sell Indian stocks worth over  ₹1.3 lakh crore since Feb 28
-  The ongoing US-Iran conflict has led to significant losses in the Indian stock market. Experts suggest that if the situation stabilizes, a market recovery could be on the horizon.
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-fallout-investors-lose-over-41-lakh-crore-fiis-sell-indian-stocks-worth-over-1-3-lakh-crore-since-feb-28-11775127700050.html
+- Gold, silver rates today: Comex gold drops $233/oz; silver falls $6.4/oz as Trump signals escalation in Iran conflict
+  Gold and silver futures saw significant declines as investor confidence waned due to fears of inflation and potential rate hikes.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-233-oz-silver-falls-6-4-oz-as-trump-signals-escalation-in-iran-conflict-11775135778900.html
 
-- Adani Energy Solutions sets board meeting date to consider and approve Q4 results 2026
-  The trading window for designated persons will close from April 1 to April 27, 2026. Adani Energy Solutions' Board will meet on April 23, 20
-  🔗 https://www.livemint.com/market/adani-energy-solutions-sets-board-meeting-date-to-consider-and-approve-q4-results-2026-11775126906372.html
+- Rupee jumps the most in nearly 13 years after RBI’s forex curbs, outlook uncertain
+  The local unit touched a high of 92.82, before it closed at 93.1050
+  🔗 https://www.livemint.com/market/rupee-rebounds-after-rbi-s-sweeping-forex-curbs-but-outlook-hinges-on-global-cues-11775136434798.html
 
-- Gold, silver rates today: Soaring oil prices drag precious metals up to 8%. Should you buy?
-  Gold and silver prices plummeted on April 2 after oil prices surged nearly 7% following President Trump's aggressive remarks on Iran. Gold fell 4.3% to  ₹1,47
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-soaring-oil-prices-drag-precious-metals-up-to-8-should-you-buy-11775124839681.html
+- Wall Street recovers most early losses as investors monitor efforts to restore Strait of Hormuz
+  The Dow Jones Industrial Average fell 0.30%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-lower-as-crude-oil-surges-after-trump-s-aggressive-comments-on-iran-11775138489096.html
 
-- Top Gainers &amp; Losers on April 02: Latent View Analytics, OLA, Coforge, Swiggy, Wipro, Nykaa,  among top gainers
-  On April 2, Indian stocks recovered from early losses, led by technology stocks and a stronger rupee. The rupee's gain was the largest in over 12 years due to regulatory measures.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-02-latent-view-analytics-ola-coforge-swiggy-wipro-nykaa-linde-india-among-top-g-11775123064669.html
+- Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute
+  Trump administration appeals ruling that blocked Pentagon action
+  🔗 https://www.livemint.com/technology/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute-11775148233145.html
 
 - Is X down? Thousands of users report issues with news feed in US: What we know
   Elon Musk's platform X is reportedly facing another outage, preventing users from accessing feeds. As per users, issues
@@ -96,129 +100,105 @@
   OpenAI's upcoming AI model ‘Spud’ is a result of two years of research. The new model will serve as a foundational
   🔗 https://www.livemint.com/technology/tech-news/what-is-openai-s-spud-greg-brockman-teases-new-chatgpt-model-build-on-years-of-research-11775105908398.html
 
-- Redmi Note 15 SE 5G with 6.77-inch AMOLED display and 5,800 mAH battery launched in India, price starts at…
-  Xiaomi has launched the budget-friendly Redmi Note 15 SE 5G. The phone starts at a price of  ₹19,999 and will
-  🔗 https://www.livemint.com/technology/gadgets/redmi-note-15-se-5g-with-6-77-inch-amoled-display-and-5-800-mah-battery-launched-in-india-price-starts-at-11775112299774.html
+- RBI clears Emirates NBD to acquire up to 74% stake in RBL Bank; lender to become foreign bank post acquisition
+  Emirates NBD has received RBI approval to acquire up to 74% stake in RBL Bank. Voting rights will be capped at 26%, while regulatory relaxations facilitate the transition.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-clears-emirates-nbd-to-acquire-up-to-74-stake-in-rbl-bank-lender-to-become-foreign-bank-post-acquisition/articleshow/129983475.cms
 
-- Stock Market Today: Dow Futures Fall, Oil Climbs After Trump Iran Address — Live Updates - WSJ
-  Asia-Pacific markets plunge as oil surges after Trump's speech on Iran war. Dow drops 700 points as oil surge: Dow picks up steam: Live updates.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXFicnluVTNIX3RGaFktRXg3clVNWUVYVTU0S0hVcHFmZWpsZUl0T19MVEFvcnFYVGN5OUlrbEJwUUR4UUkxUW8wNy1PV0lCZlJXU0xiOUtOQlpRMVFtTV9WbUlvdmFYN2ZLcEZFVksxWVhkLTd6Q2pSdjBsSzdsbUFhdFVfRjg?oc=5
+- What's the key to outperformance in stock market? Nithin Kamath explains
+  Nithin Kamath emphasises that diversified, long-term investing is the most reliable path to outperform the stock market. Highlighting operational challenges in portfolio analytics on Zerodha�
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/whats-the-key-to-outperformance-in-stock-market-nithin-kamath-explains/articleshow/129982880.cms
 
-- Stock Market Highlights: Markets End In Green After Sensex Started Day 1,400 Points Lower - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR3RiTkFZd2pfY0g2dVBRME5nN184TmZEeTgxR3JsVFBtXzcwMTJLTVp2ZU5uUTB2YzVFZnlsNzl4dFlQUzl3QzVpQk1EZVhKUFY2Y2xHSkdFa2NjcGZ3OUhVSEU0WmRoej
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR3RiTkFZd2pfY0g2dVBRME5nN184TmZEeTgxR3JsVFBtXzcwMTJLTVp2ZU5uUTB2YzVFZnlsNzl4dFlQUzl3QzVpQk1EZVhKUFY2Y2xHSkdFa2NjcGZ3OUhVSEU0WmRoejR5TmQ5WWMxU2d2M0dpMkMzYzM0Z2xsVVE1RGczT24wdzlmRERILV90VkxvSzZrUXB2Y2ttcWZESUZqT0lkM003Wk5yNG9GQ3EyRnBWdkpnM0RHaVNrY0NscWFKVUJTQVg5OUVORGJPc09ZaNIB3AFBVV95cUxQXzJMaUh4cndHWWxnRDdVTDFobHFMNnRMbXhoTFpXQXZNcE41bWdwQkxFXzFVT3BNMW1SQ0dSVDVTNzVFd0dHaDdXaXZiWnUzT2xTWFV1dEV2YlVXMkpCeHIxZnBvRmRnY25LdURfMktNM3d0NnN3R29qZnllS0t3UE5BOUw2RUhJQzJWMGxBMmd1dkF0ZzRNazR2UW9JcFJvMTQwbnBSaWlkOUh4TXJXZkNFdWZKRjFEY2RiYXJGYzB6VV9Uc3BxWXVpY2lCdzEzWldTRFFMeTZMTzRI?oc=5
+- PNB Q4 updates: Global business rises 11% YoY to Rs 29.72 lakh crore; advances jump 13%
+  Punjab National Bank reported an 11% year-on-year rise in global business to Rs 29.72 lakh crore in Q4. Domestic business and deposits also posted steady growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pnb-q4-updates-global-business-rises-11-yoy-to-rs-29-72-lakh-crore-advances-jump-13/articleshow/129982315.cms
 
-- India Trading Ban Rocks $149 Billion-a-Day Offshore Rupee Market - Bloomberg.com
-  India Trading Ban Rocks $149 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPa01FM3ltZ242Nzk2ZnpZanMxUzFJWlg1LUNQLWt6WXJ4ZzJpaHB4ODNVekN0d1J0R0RnM2Jpa20zcVd0M2k1QmRYOF81a1JlMmFobFVVMU9pZXhkcmFTbUZRXzZNNEhSRnZ2QWxNaUNyOEdSTkNZTlYtQ01mbV9KSTh2QlVwdjZXbXE2THhCbERGRmlGRzRhT2RScV8zQlYxaWNLLU5GTEVnSlhzRmRjNlRscGY?oc=5
+- US Stocks | Tesla shares slide 4% after first-quarter deliveries miss estimates
+  Tesla missed Wall Street expectations for first-quarter deliveries on Thursday. The company reported its weakest numbers in four quarters.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tesla-shares-slide-4-after-first-quarter-deliveries-miss-estimates/articleshow/129981851.cms
 
-- Multi-billion dollar offshore NDF market gets reality check after RBI clampdown on speculative trades - Moneycontrol.com
-  Multi-billion dollar offshore NDF market gets reality check after
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbnJTYmw2dHFBNHVvaHlNbDRFeU9JRkNXUGRyTU9Ma0pBZGpVam1qdnVWQTVJaEUwNnp2NmJQOXRTejBjakVkNE5POHpwNlRHeFFOR0R2eERCQklURmRJV2xlZkVoTHBkWU11LWtNamRMMmg3dU05NkpnTEduMEtlRjluWVNjcGRaNlhIaWNaNXRLSGRWeTVIb1MyMk8xdzlGTWxiWlpVTkdMZFBOUjZIUXoyczBrY0VHTkdtTFhCNGp6djBiVFl0dWpuZWRPdjJnSWtnWkp2OHVpSkhmcUpUWm04MGk0MWNNTEhJd3BaUUk5Vk5WLUhsYlNB0gH_AUFVX3lxTFBYM1VOQW1UVHo5MW9BTnVVWkZwT0IxODQyWkFYOXRVTjJmdVZJYmZyNW10d1RrVWRNN0FMb1FfWHJIdXI2QzF3V2l1T1g4cmZ1Y2swb2hubXI0Ry1TY3EtLXA2SHNMMzhla21qc3ZmenpjSTc3VWVSakRmUmF3Zm5oUVV6dGtiMF93SnU5MDRoTndTVzlMSU5HZXBJUkpHdzhKRGEtcnl5bnV6X0hCTTBsb2lNRmxVNXAwcWJRSkdYWE1Ja1pHc19RdkRHN3A5VE5mdnc2d0tveUNJUlZOeHNrNEpOc18tcUdvaXFNZ3QweEVJaGlrYmx3UXZQMmFJcw?oc=5
+- EPC player Sadbhav Futuretech files draft papers with Sebi for IPO
+  EPC solar player Sadbhav Futuretech has filed its draft papers with Sebi for an IPO. The company plans to use the proceeds for working capital.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/epc-player-sadbhav-futuretech-files-draft-papers-with-sebi-for-ipo/articleshow/129981768.cms
 
-- RBI Clampdown on Rupee Speculation Triggers Market Dislocation - Bloomberg.com
-  RBI Clampdown on
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxONFk1Z0VCOW11Nmd6UUl4NUNkRFJGVmdsNHlVNVVVZFROVnV1NmtteVp5dThOZE5hUVYwU2JSZlVpekFWWklQblBNdHVYTVNfUGY0bXFRR1RlZHlKcF81VldpT3Z0VUo4dE9QZHZVbEVmdk1VZ0hMMi15ck03c09rUjJsejVUY1M4dFJXdDF5dWZPVlNXM0o4dlZySkhMMldmZjhQLWVEMnpKSU1ETlpfeE5zcw?oc=5
-
-- Quote of the day by Baron Rothschild: “Buy when there’s blood in the streets, even if the blood is your own”
-  The investing maxim “Buy when there’s blood in the streets” highlights how market panic creates opportunities. Successful contrarian investors act against fear, focusing on undervalued assets with strong fundamentals. Discipline,
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-baron-rothschild-buy-when-theres-blood-in-the-streets-even-if-the-blood-is-your-own/articleshow/129975044.cms
-
-- Gainers &amp; Losers: Latent View and Ola Electric among 6 big movers on Thursday
-  D-Street staged a strong recovery led by IT stocks. Latent View, Ola Electric, Tata Chemicals,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-latent-view-and-ola-electric-among-6-big-movers-on-thursday/slideshow/129979197.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks futures slide as Trump threatens more strikes on Iran
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-april-2-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/129979069.cms
-
-- Gold slides 3% as oil surges on dimming hopes of end to Iran war
-  Gold prices drop sharply on Thursday, pulling back from two-week highs. Oil prices surge after U.S. President Donald Trump vows continued
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-3-as-oil-surges-on-dimming-hopes-of-end-to-iran-war/articleshow/129978634.cms
-
-- Sebi considers bringing back open market buybacks via stock exchange route
-  Sebi is looking at bringing back open market share buybacks via stock exchanges. This method was stopped earlier due to transparency and price discovery worries.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-considers-bringing-back-open-market-buybacks-via-stock-exchange-route/articleshow/129978229.cms
+- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
+  India Joins 60 Countries' Effort
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
 
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
+  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
+  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
 
-- Iran-Israel war LIVE: India to attend U.K.-led meeting on Strait of Hormuz - The Hindu
-  Iran-Israel war LIVE: India to attend U.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTBQX1g1ckdqQWRiT0pud25NT2lKbFlQRkdfT1ZKZ0lTYU1CSzJLUzYxZl9sUnprSV91SDVhRzlKYUFnNVp1LUF1NE0yMlZTZ3BvTGFNQnhvazB5U3ZUQ1pDLXJOMFk2RXl4UlY4bjJFbnBPUExoYjR5VGVhLVZuaGJ3VEcwSXZCeVluZTJlaUZrRTRhM29mazJRVWtYYlZYVVVvX0RZSXBNTENSZEZVcXplRWRwT2ZSQlZ4STBZbjVtZFJBb0Y4OGV5bkFuNHZCMlE?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Dreame Technology launches direct-to-consumer platform in India - The Times of India
-  Dreame Technology launches direct-to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjJLdnQzaFlRN3daaFhpbkRWR2JiZFozRmlvaEpjQjhJcFh0MDFleXlmN0FHSzE2RldHLXR2dTNnRU1tLTI5bVVrM0hFU29rTFQtRVd6b3pTUFoweHlwNnNBZnBlZHpYWGUxaUYyVXpOZ2RGUE4wYUdYTnAxbEtMc2dJYkpmU1pHOEpSOHlfSDlGSG9GQVNPeUlka3FPS280NjVoT05RUHpQemI3TUVWR3ZLY1NwNVJFUnFKdjZlUkhXbmtsYjZLWlAzMDVnUmZ2czYzWUJrQnZJZHQxTWRn0gHkAUFVX3lxTE1VOWl6dW1UNEtiSkk3d01Cc3VIRlNTN3FqMlB0Z3FDbGx4RXNVTGw5YXFlYWRMb3cweVZiR1NkT0VSQ1dmV3ZZT1RuUG43TnlTdjl2UzEyempWVjRVamZXY3J3aW9aWFItSmxXTl9Qem01ZFFpRGZOMDNOeGhiTkNNcGNWYnliVXBaX1J5ZHM5NTRsSl9PWG1HU3FSVDc1Wm1IM1ctbjdaOWoyaFZUZmVKN3RlRHE4Nm1uYWdWNmNSdVp5MnJTOEdraTFTT2lId3VLVDJVZWs0eEh0V1JzbXhRbDg2NA?oc=5
+- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
+  As Iran War Jolts Pakistan's Economy, India Acts as Key St
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
 
-- India calls for ensuring safety and security of UN peacekeepers - News On AIR
-  India calls for ensuring safety and security of UN peace
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0FiMDI4MmNqa08yOEFxaGRmYzF5NG5yWm8tbjdmaU9GNVlzSFpxMjJiS1ZVUFFWc3ZKOFV5MEY5N2IxUVV1QTJrZ3ZOclJ5ZE9OaHNfa1JhTEk3YmpZeUU1Zlh5MVVNRkVmWFFEaGMxeXVETVV3R2FDajl5VF9oOE9leUhPaTNfTGttOFJCTkFmWkF2OS1hUg?oc=5
-
-- "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
-  "Our Indian Friends In Safe Hands, No Wor
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
-
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
-
-- Iran-Israel war LIVE: India to attend U.K.-led meeting on Strait of Hormuz - The Hindu
-  Iran-Israel war LIVE: India to attend U.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTBQX1g1ckdqQWRiT0pud25NT2lKbFlQRkdfT1ZKZ0lTYU1CSzJLUzYxZl9sUnprSV91SDVhRzlKYUFnNVp1LUF1NE0yMlZTZ3BvTGFNQnhvazB5U3ZUQ1pDLXJOMFk2RXl4UlY4bjJFbnBPUExoYjR5VGVhLVZuaGJ3VEcwSXZCeVluZTJlaUZrRTRhM29mazJRVWtYYlZYVVVvX0RZSXBNTENSZEZVcXplRWRwT2ZSQlZ4STBZbjVtZFJBb0Y4OGV5bkFuNHZCMlE?oc=5
-
-- Dreame Technology launches direct-to-consumer platform in India - The Times of India
-  Dreame Technology launches direct-to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjJLdnQzaFlRN3daaFhpbkRWR2JiZFozRmlvaEpjQjhJcFh0MDFleXlmN0FHSzE2RldHLXR2dTNnRU1tLTI5bVVrM0hFU29rTFQtRVd6b3pTUFoweHlwNnNBZnBlZHpYWGUxaUYyVXpOZ2RGUE4wYUdYTnAxbEtMc2dJYkpmU1pHOEpSOHlfSDlGSG9GQVNPeUlka3FPS280NjVoT05RUHpQemI3TUVWR3ZLY1NwNVJFUnFKdjZlUkhXbmtsYjZLWlAzMDVnUmZ2czYzWUJrQnZJZHQxTWRn0gHkAUFVX3lxTE1VOWl6dW1UNEtiSkk3d01Cc3VIRlNTN3FqMlB0Z3FDbGx4RXNVTGw5YXFlYWRMb3cweVZiR1NkT0VSQ1dmV3ZZT1RuUG43TnlTdjl2UzEyempWVjRVamZXY3J3aW9aWFItSmxXTl9Qem01ZFFpRGZOMDNOeGhiTkNNcGNWYnliVXBaX1J5ZHM5NTRsSl9PWG1HU3FSVDc1Wm1IM1ctbjdaOWoyaFZUZmVKN3RlRHE4Nm1uYWdWNmNSdVp5MnJTOEdraTFTT2lId3VLVDJVZWs0eEh0V1JzbXhRbDg2NA?oc=5
-
-- India calls for ensuring safety and security of UN peacekeepers - News On AIR
-  India calls for ensuring safety and security of UN peace
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0FiMDI4MmNqa08yOEFxaGRmYzF5NG5yWm8tbjdmaU9GNVlzSFpxMjJiS1ZVUFFWc3ZKOFV5MEY5N2IxUVV1QTJrZ3ZOclJ5ZE9OaHNfa1JhTEk3YmpZeUU1Zlh5MVVNRkVmWFFEaGMxeXVETVV3R2FDajl5VF9oOE9leUhPaTNfTGttOFJCTkFmWkF2OS1hUg?oc=5
+- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
+  India Joins 60 Countries' Effort
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
 
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
+  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
+  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
 
-- Iran-Israel war LIVE: India to attend U.K.-led meeting on Strait of Hormuz - The Hindu
-  Iran-Israel war LIVE: India to attend U.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTBQX1g1ckdqQWRiT0pud25NT2lKbFlQRkdfT1ZKZ0lTYU1CSzJLUzYxZl9sUnprSV91SDVhRzlKYUFnNVp1LUF1NE0yMlZTZ3BvTGFNQnhvazB5U3ZUQ1pDLXJOMFk2RXl4UlY4bjJFbnBPUExoYjR5VGVhLVZuaGJ3VEcwSXZCeVluZTJlaUZrRTRhM29mazJRVWtYYlZYVVVvX0RZSXBNTENSZEZVcXplRWRwT2ZSQlZ4STBZbjVtZFJBb0Y4OGV5bkFuNHZCMlE?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Dreame Technology launches direct-to-consumer platform in India - The Times of India
-  Dreame Technology launches direct-to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjJLdnQzaFlRN3daaFhpbkRWR2JiZFozRmlvaEpjQjhJcFh0MDFleXlmN0FHSzE2RldHLXR2dTNnRU1tLTI5bVVrM0hFU29rTFQtRVd6b3pTUFoweHlwNnNBZnBlZHpYWGUxaUYyVXpOZ2RGUE4wYUdYTnAxbEtMc2dJYkpmU1pHOEpSOHlfSDlGSG9GQVNPeUlka3FPS280NjVoT05RUHpQemI3TUVWR3ZLY1NwNVJFUnFKdjZlUkhXbmtsYjZLWlAzMDVnUmZ2czYzWUJrQnZJZHQxTWRn0gHkAUFVX3lxTE1VOWl6dW1UNEtiSkk3d01Cc3VIRlNTN3FqMlB0Z3FDbGx4RXNVTGw5YXFlYWRMb3cweVZiR1NkT0VSQ1dmV3ZZT1RuUG43TnlTdjl2UzEyempWVjRVamZXY3J3aW9aWFItSmxXTl9Qem01ZFFpRGZOMDNOeGhiTkNNcGNWYnliVXBaX1J5ZHM5NTRsSl9PWG1HU3FSVDc1Wm1IM1ctbjdaOWoyaFZUZmVKN3RlRHE4Nm1uYWdWNmNSdVp5MnJTOEdraTFTT2lId3VLVDJVZWs0eEh0V1JzbXhRbDg2NA?oc=5
+- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
+  As Iran War Jolts Pakistan's Economy, India Acts as Key St
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
 
-- India calls for ensuring safety and security of UN peacekeepers - News On AIR
-  India calls for ensuring safety and security of UN peace
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0FiMDI4MmNqa08yOEFxaGRmYzF5NG5yWm8tbjdmaU9GNVlzSFpxMjJiS1ZVUFFWc3ZKOFV5MEY5N2IxUVV1QTJrZ3ZOclJ5ZE9OaHNfa1JhTEk3YmpZeUU1Zlh5MVVNRkVmWFFEaGMxeXVETVV3R2FDajl5VF9oOE9leUhPaTNfTGttOFJCTkFmWkF2OS1hUg?oc=5
+- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
+  India Joins 60 Countries' Effort
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
 
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
+  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
+  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
 
-- Iran-Israel war LIVE: India to attend U.K.-led meeting on Strait of Hormuz - The Hindu
-  Iran-Israel war LIVE: India to attend U.
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTBQX1g1ckdqQWRiT0pud25NT2lKbFlQRkdfT1ZKZ0lTYU1CSzJLUzYxZl9sUnprSV91SDVhRzlKYUFnNVp1LUF1NE0yMlZTZ3BvTGFNQnhvazB5U3ZUQ1pDLXJOMFk2RXl4UlY4bjJFbnBPUExoYjR5VGVhLVZuaGJ3VEcwSXZCeVluZTJlaUZrRTRhM29mazJRVWtYYlZYVVVvX0RZSXBNTENSZEZVcXplRWRwT2ZSQlZ4STBZbjVtZFJBb0Y4OGV5bkFuNHZCMlE?oc=5
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Dreame Technology launches direct-to-consumer platform in India - The Times of India
-  Dreame Technology launches direct-to
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjJLdnQzaFlRN3daaFhpbkRWR2JiZFozRmlvaEpjQjhJcFh0MDFleXlmN0FHSzE2RldHLXR2dTNnRU1tLTI5bVVrM0hFU29rTFQtRVd6b3pTUFoweHlwNnNBZnBlZHpYWGUxaUYyVXpOZ2RGUE4wYUdYTnAxbEtMc2dJYkpmU1pHOEpSOHlfSDlGSG9GQVNPeUlka3FPS280NjVoT05RUHpQemI3TUVWR3ZLY1NwNVJFUnFKdjZlUkhXbmtsYjZLWlAzMDVnUmZ2czYzWUJrQnZJZHQxTWRn0gHkAUFVX3lxTE1VOWl6dW1UNEtiSkk3d01Cc3VIRlNTN3FqMlB0Z3FDbGx4RXNVTGw5YXFlYWRMb3cweVZiR1NkT0VSQ1dmV3ZZT1RuUG43TnlTdjl2UzEyempWVjRVamZXY3J3aW9aWFItSmxXTl9Qem01ZFFpRGZOMDNOeGhiTkNNcGNWYnliVXBaX1J5ZHM5NTRsSl9PWG1HU3FSVDc1Wm1IM1ctbjdaOWoyaFZUZmVKN3RlRHE4Nm1uYWdWNmNSdVp5MnJTOEdraTFTT2lId3VLVDJVZWs0eEh0V1JzbXhRbDg2NA?oc=5
+- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
+  As Iran War Jolts Pakistan's Economy, India Acts as Key St
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
 
-- India calls for ensuring safety and security of UN peacekeepers - News On AIR
-  India calls for ensuring safety and security of UN peace
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0FiMDI4MmNqa08yOEFxaGRmYzF5NG5yWm8tbjdmaU9GNVlzSFpxMjJiS1ZVUFFWc3ZKOFV5MEY5N2IxUVV1QTJrZ3ZOclJ5ZE9OaHNfa1JhTEk3YmpZeUU1Zlh5MVVNRkVmWFFEaGMxeXVETVV3R2FDajl5VF9oOE9leUhPaTNfTGttOFJCTkFmWkF2OS1hUg?oc=5
+- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
+  India Joins 60 Countries' Effort
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+
+- "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
+  "Our Indian Friends In Safe Hands, No Wor
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
+
+- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
+  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
+  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
+
+- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
+  India's new population count is controversial. The
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
+
+- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
+  As Iran War Jolts Pakistan's Economy, India Acts as Key St
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-02 13:04:45 UTC_
+_Last updated: 2026-04-02 18:55:22 UTC_
