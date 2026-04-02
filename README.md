@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- India defence exports hit Rs 38,424 Crore in FY26, Rajnath lauds 62% surge
+  
+  🔗 https://indianexpress.com/article/india/india-defence-exports-hit-rs-38424-crore-in-fy26-rajnath-lauds-62-surge-10614871/
+
+- At Rs 167.20 crore, a Raja Ravi Varma canvas sets new record for Indian art at an auction
+  
+  🔗 https://indianexpress.com/article/india/a-raja-ravi-varma-canvas-sets-new-record-for-indian-art-at-an-auction-10614673/
+
 - ‘We were minutes away from striking Pakistan from sea’: Navy Chief on Operation Sindoor
   
   🔗 https://indianexpress.com/article/india/we-were-minutes-away-from-striking-pakistan-from-sea-navy-chief-on-operation-sindoor-10614376/
@@ -12,33 +20,29 @@
   
   🔗 https://indianexpress.com/article/india/nc-legislator-breaks-down-in-jk-assembly-as-reservation-bill-is-rejected-by-voice-vote-10614386/
 
-- In Jaipur, a pink elephant, a Russian photographer, and an animal cruelty storm
+- Apple’s new Rs 69,900 MacBook Neo is here: Why Windows users might finally switch
   
-  🔗 https://indianexpress.com/article/india/in-jaipur-a-pink-elephant-a-russian-photographer-and-an-animal-cruelty-storm-10614370/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/apple-macbook-neo-review-price-india-specs-windows-comparison-10614704/
 
-- Jan Vishwas (Amendment)  Bill gets Lok Sabha nod: ‘It was Colonial thought to punish everything’
+- SpaceX’s orbital data centers could face same hurdles as Microsoft’s abandoned undersea project
   
-  🔗 https://indianexpress.com/article/india/jan-vishwas-amendment-bill-gets-lok-sabha-nod-it-was-colonial-thought-to-punish-everything-10614436/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacexs-orbital-data-centers-could-face-same-hurdles-as-microsofts-abandoned-undersea-project-10614701/
+
+- Meta, Snapchat, TikTok and YouTube aren’t fully complying with child account ban, Australia says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-snapchat-tiktok-and-youtube-arent-fully-complying-with-child-account-ban-australia-says-10614694/
+
+- WhatsApp says Italian surveillance company tricked around 200 users into downloading spyware
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-says-italian-surveillance-company-tricked-around-200-users-into-downloading-spyware-10614691/
 
 - Artemis II lifts off: Four astronauts begin a journey marking a new era in space travel
   
   🔗 https://indianexpress.com/article/technology/science/four-astronauts-begin-a-journey-marking-a-new-era-in-space-travel-10614584/
 
-- Shroud of Turin, linked by believers to Jesus Christ, has an Indian DNA signal: Study
-  
-  🔗 https://indianexpress.com/article/technology/science/shroud-of-turin-linked-by-believers-to-jesus-christ-has-an-indian-dna-signal-study-10614146/
-
-- Nothing eyes smartglasses: Carl Pei may be planning AI-powered wearable for 2027
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-smartglasses-launch-2027-carl-pei-ai-10613252/
-
-- ‘Yes-man’ AI can push users into false beliefs, MIT researchers warn
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/yes-man-ai-can-push-users-into-false-beliefs-mit-researchers-warn-10613500/
-
-- Anthropic blunder exposes 2,000 lines of Claude Code’s internal source code: What it reveals
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-blunder-exposes-claude-code-internal-source-code-10613346/
+- Adani Ports crosses 500 MT million tonnes cargo handling milestone — What it means?
+  Adani Ports and Special Economic Zone Ltd has surpassed 500 million tonnes of cargo handled. The company aims to reach 1 billion tonnes by 2030.
+  🔗 https://www.livemint.com/companies/adani-ports-crosses-500-mt-million-tonnes-cargo-handling-milestone-what-it-means-11775108024262.html
 
 - India's top consulting and audit firms hit by AI and war; job cuts, hiring freeze loom
   Consulting and auditing firms are slowing hiring and cutting jobs due to AI automation and reduced client demand linked to the West Asia war. Research and production services roles face the biggest impact
@@ -56,29 +60,37 @@
   Mint learns that about 12,000-15,000 of Oracle’s layoffs will be in India. India has
   🔗 https://www.livemint.com/companies/oracle-layoffs-signal-deepening-ai-threat-for-software-firms-and-employees-11775047640787.html
 
-- Sonos Makes Marketing Cuts as New CMO Reshapes Division
-  Sonos Inc. eliminated jobs on its marketing team Wednesday. New Chief Marketing Officer Colleen DeCourcy told employees that the division “had grown
-  🔗 https://www.livemint.com/companies/sonos-makes-marketing-cuts-as-new-cmo-reshapes-division-11775070582327.html
+- Gold, silver rates today: Check 24K, 22K gold, 999 silver rates on 2 April in your city — Delhi, Mumbai, others
+  Gold and silver prices in India witnessed a downfall following losses in international bullion prices. Check retail gold and silver
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-check-24k-22k-gold-999-silver-rates-on-2-april-in-your-city-delhi-mumbai-others-11775111418162.html
 
-- From Gift Nifty, Trump speech on Iran war to oil prices: 8 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 22,448 level, a discount of nearly 352 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-trump-speech-on-iran-war-to-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11775093671812.html
+- India 10-year bond yield cross 7% amid surge in crude oil prices; likely to remain elevated
+  The benchmark 6.48% 2035 bond yield rose about 4 bps to 7.0734%, its highest level since May 21, 2024. Notably, benchmark yields have increased by 37 bps in March
+  🔗 https://www.livemint.com/market/bonds/india-10-year-bond-yield-cross-7-amid-surge-in-crude-oil-prices-likely-to-remain-elevated-11775112586375.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 2 April 2026
-  Sensex and Nifty 50 posted robust gains on Monday, snapping two-day losing streak. Sumeet Bagadia of Choice Bro
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-2-april-2026-11775091092530.html
+- Oil prices jump 5% after Donald Trump’s speech, may head toward $120 as US–Iran war escalates
+  Crude oil prices continue to shine, surging nearly 5% after Donald Trump said the US would continue to attack Iran aggressively. Check out the latest crude oil
+  🔗 https://www.livemint.com/market/commodities/oil-prices-jump-5-after-donald-trump-s-speech-may-head-toward-120-as-us-iran-war-escalates-11775100059455.html
 
-- FTSE Review Looms for Vietnam Stocks as Foreign Outflows Persist
-  FTSE Russell’s final decision on upgrading Vietnamese equities to emerging-
-  🔗 https://www.livemint.com/market/ftse-review-looms-for-vietnam-stocks-as-foreign-outflows-persist-11775092740752.html
+- HDFC Bank shares in focus as report signals action against 12 more executives in mis-selling of AT-1 bonds case
+  HDFC Bank has penalised 12 additional executives, over and above the three senior officials who were dismissed last
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-in-focus-as-report-signals-action-against-12-more-executives-in-mis-selling-of-at-1-bonds-case-11775109189681.html
 
-- Amir Chand Jagdish Kumar IPO listing date today. GMP, experts signal muted debut of shares in Indian stock market
-  Amir Chand Jagdish Kumar IPO listing date is today, 2 April 2026. Analysts signal muted listing of shares.
-  🔗 https://www.livemint.com/market/ipo/amir-chand-jagdish-kumar-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-indian-stock-market-11775062536836.html
+- Small-cap stock under  ₹50 shows resilience against stock market crash
+  Rathi Steel and Power's stock price rose 1.35% to  ₹15 on April 2. The company reported a 63.5% revenue increase in Q4
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-rathi-steel-and-power-share-price-gains-despite-stock-market-crash-after-q4-results-2026-11775106846090.html
 
-- Stock recommendations for 2 April from MarketSmith India
-  MarketSmith India reveals its top stock recommendations for today, 2 April. Get expert insights into
-  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-marketsmith-india-sensex-nifty-11775051005473.html
+- Redmi Note 15 SE 5G with 6.77-inch AMOLED display and 5,800 mAH battery launched in India, price starts at…
+  Xiaomi has launched the budget-friendly Redmi Note 15 SE 5G. The phone starts at a price of  ₹19,999 and will
+  🔗 https://www.livemint.com/technology/gadgets/redmi-note-15-se-5g-with-6-77-inch-amoled-display-and-5-800-mah-battery-launched-in-india-price-starts-at-11775112299774.html
+
+- ChatGPT and Anthropic could soon route extremist AI users to a new third-party tool: Report
+  A new tool being developed in New Zealand aims to direct individuals exhibiting violent extremist tendencies on ChatGPT to deradicalization support
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-users-showing-extremist-tendencies-may-be-guided-to-support-via-a-new-tool-report-11775108046552.html
+
+- Meta warns iPhone users of Italian spyware campaign disguised as WhatsApp: Here's what you need to know
+  Around 200 users in Italy were tricked into downloading a fake WhatsApp app. The app contained spyware developed by SIO.
+  🔗 https://www.livemint.com/technology/tech-news/meta-warns-iphone-users-of-italian-spyware-campaign-disguised-as-whatsapp-heres-what-you-need-to-know-11775093402858.html
 
 - Before you pick the MacBook Neo take a look at these alternatives that may suit you better
   Explore alternatives offering stronger performance, improved displays, and greater flexibility. Find a laptop that truly matches your needs
@@ -88,137 +100,85 @@
   Passengers stranded in moving traffic
   🔗 https://www.livemint.com/technology/passengers-stranded-in-moving-traffic-after-robotaxi-outage-in-chinas-wuhan-11775038808060.html
 
-- Android Auto left behind as OpenAI brings ChatGPT to Apple CarPlay: here's how it works
-  ChatGPT is now available on Apple CarPlay. The popular AI app can be used to interact with the
-  🔗 https://www.livemint.com/technology/tech-news/openai-brings-chatgpt-to-apple-carplay-android-auto-left-behind-11775035010150.html
+- Tariff threat ain't over yet! Sun Pharma, other pharma stocks plunge up to 6%
+  Trump administration may impose tariffs on drugmakers not ensuring low prices in US. Concerns over costs and supply chains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tariff-threat-aint-over-yet-sun-pharma-other-pharma-stocks-plunge-up-to-6/articleshow/129969809.cms
 
-- iPhone 18 Pro, iPhone 18 Pro Max launching soon: Expected price, camera, processor and more
-  Apple could launch its iPhone 18 Pro series in September. The company could keep the same 6.3 and 6.9-inch displays on the
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-launching-soon-expected-price-camera-processor-and-more-11775029159080.html
+- More missiles or no war? How markets are reading Trump's latest signals
+  The Sensex dropped significantly, mirroring a broader selloff across emerging Asian markets. Brent crude surged, and the dollar strengthened, further pressuring Indian equities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/more-missiles-or-no-war-how-markets-are-reading-trumps-latest-signals/articleshow/129969754.cms
 
-- Perplexity AI accused of embedding ‘undetectable’ trackers for secretly routing sensitive user data to Meta and Google
-  Perplexity AI is facing a proposed class-action lawsuit. The complaint claims that tracking software was embedded in the search engine to transmit personal information of users.
-  🔗 https://www.livemint.com/technology/tech-news/perplexity-ai-accused-of-embedding-undetectable-trackers-for-secretly-routing-sensitive-user-data-to-meta-and-google-11775013680758.html
+- Prolonged conflict could push crude to extreme levels: Paul Meeks
+  U.S. President Donald Trump has injected renewed uncertainty into global markets. Investors, anticipating de-escalation, instead faced aggressive rhetoric that could prolong geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/prolonged-conflict-could-push-crude-to-extreme-levels-paul-meeks/articleshow/129969675.cms
 
-- Stock Market Today: Dow Gains 450 Points on Hopes for Quick End to Iran War — Live Updates - WSJ
-  The WSJ reports that the Dow rose 450 points on hopes for a
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGZhRngyVU1HUy1IWHNjbnMyeW1Fajl4QUt5SEd5XzBLdGcyTmxrT0VJVWJxYXVPaVlLTWd1TTg4MmtUWnZUS1JmcmtsOUxyQTBNYXozTFhMWUdEQTI2emRHV0I5U2VQaF9xb2twSC1Wc3VDbENPNHAyUWFyYW1yeFFUN0tCWWs?oc=5
+- Karnataka Bank shares tumble 6% after lender's Q4 deposits rise 4%, advances up 7%
+  Karnataka Bank shares saw a significant drop of nearly 6 percent on Thursday. This followed the release of the bank's provisional business update. CASA deposits rose 10 percent year-on-year. Total deposits also saw growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/karnataka-bank-shares-tumble-6-after-lenders-q4-deposits-rise-4-advances-up-7/articleshow/129969494.cms
 
-- Asian Stocks to Rise on Hopes Iran War Nearing End: Markets Wrap - Bloomberg.com
-  Asian Stocks to Rise on Hopes Iran War
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTVEZ3ByQnVHY2Z3Q1E4NG14Z3AyZVlFSEZ1MzJxRXFlVmlqbGtyWjhUSUlXM3d6MndtNXQ3azJZX1lhVHhmclJvZXJhNUg1UDA0d1BRU29wTmdjbVJwNmJock9oRF8xVFk1Mm1fYmhKWGVLQ1JXazVnU2dNM3duV0tITVhobXAwTWM1djI1TWd5TktlTG9sbW1kSktOOXFXWFdTZVJKWXRmMGYxRE00aVkwTEQ?oc=5
+- India bonds fall before first FY27 debt sale as war keeps oil high
+  Indian government bonds declined on the fiscal year's first trading day. 10-year yield nearing an eleventh consecutive rise. Surge driven by escalating oil prices following President Trump's statements on continued attacks in Iran.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-before-first-fy27-debt-sale-as-war-keeps-oil-high/articleshow/129969252.cms
 
-- Ganesh to expand in north Indian markets - The Times of India
-  Ganesh to expand in north Indian
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVoxLU9VbW1ZSm0zUEpJc1dEYk9xYnVBeHlxUkZyakx4QXB6LXUxTHhLTkppRkxWWldUNXJ2N1JnVDRSZzRHdWFfemN3VHJDRG9xWjl0NTV1YWFqQy00WTgwbHRQZVNKN3FPOWp0cXJWOVJtWDR4cE5yd1lzVnB2YnBvYm5HQU9JWXJ5VmFjRC1xVUJGQVVuOEJ0UnhHOWx1UEppTnF4bjVfaklqMzZ6MFJkZDMyUdIBuwFBVV95cUxPd3FKYXFzNTNnblpyRldfMUVCbXRvODgtaUZLM3p6cEZfRWdBVS1nR3NzaTkzZ1dJZ25XVTFJMDNZd3NXckItOTI5em5qUEJpRTFrV3M2SUVVbXg5cE1IY1lqX2d4WjlsZGpLM0xkTzhFQ3h6WVRmMFBUVERlVnY0NUtyczcxekZLZnFSWHpWamJyX3R1UEYxM2N5MUJQa0Z0bnhMdmxhUTI5UlJrZ0dYeEc0N3Y3VDc2eVd3?oc=5
-
-- Asia-Pacific markets set to extend recovery as investors await Trump address on Iran war - CNBC
-  Asia-Pacific markets set to extend recovery as investors await Trump
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTVDRFMxbVZRTXF1eGZ4RmtDRFhXc1h3Z3VXZ21qTVg1VnBJNkxXVUlfNC1ZUHJzVkc3clB3cS1QczhGaUxxSlVJZjZ0VFRFTGh0QUdTQXNGQ21adVBQYzFteGNvSUoydVY5S1F5WlY0eE1waTRCZVJ4dF90OFN3LThFX2pkXzhvOTRr?oc=5
-
-- Markets stage relief rally up 1.6% after two day rout - thehindu.com
-  Markets stage relief rally up 1.
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU1WMUJrRzdBRUlpQjFQbE0zRXFmODZUZUJaTm9GZXFjOWxaX090MGlEd29nOTNpczg5VkdweHN4YUEzZnhubFZ5bHNaSWVKb01nQTBsQkR0Q1gtYlE3b09TVmNLODg0c3hjaTJreHpLOXNvdVZOVzJKa2ZjeDdtaWhPVEIyMmVJTHlySEwwRjFSQWxHUWJaekROa2d1NEN2dV81RXhRVjnSAa8BQVVfeXFMTkpLeFFQSUxaVHE4N0c2cXJFbWlBNU5jVkJOeWk3SjJGQlVKcWFFeXNqcm9ENFhUS2p3eE1OamZzbHhmQW1RR2tiMmhYRGF5Z1YzLVF0cU5LbUJGRUZwS095Mm5hUTJVNDZmRXdMNTlyeERoVWpwQlduVFlQbWt0WlRidkFKNUxEam44R1d2Qm15MDN4UTR5R3lZbjdmaFBaZ01ldE9neUpkbzhQSk5YWQ?oc=5
-
-- India doubles down on curbing rupee speculation after initial steps fall short
-   Reserve Bank of India has intensified its crackdown on rupee speculation. New rules prevent banks from offering rupee non-deliverable forwards and bar companies from rebooking cancelled forward contracts.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/india-doubles-down-on-curbing-rupee-speculation-after-initial-steps-fall-short/articleshow/129964467.cms
-
-- US Stock Market | Wall Street ends higher on speculation about end to Iran war
-  Wall Street surged as President Trump hinted at a swift end to Middle East conflict, boosting tech giants like Alphabet. Investors are optimistic about de-escalation, despite ongoing inflation fears and mixed economic data.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-ends-higher-on-speculation-about-end-to-iran-war/articleshow/129964189.cms
-
-- Global market today | Asian stocks rise on hopes Iran war nearing end
-  Asian markets rallying as investors anticipate an end to Iran conflict. Hopes for de-escalation are boosting stocks and lowering oil prices. President Trump is set to address the nation, with expectations of reduced US military action.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-hopes-iran-war-nearing-end/articleshow/129964169.cms
-
-- GIFT Nifty down 300 points; here's the trading setup for today's session
-  Indian equity benchmarks closed higher on Wednesday. Analysts advise caution near resistance levels. The India VIX saw a significant drop, indicating reduced market fear.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/129958578.cms
-
-- Stocks in news: Tata Power, IndiGo, Maruti Suzuki, Indian Oil, Adani Green
-   Markets rebounded to start the new financial year, with the Nifty seeing a relief rally after a March decline. Key stocks like Tata Power, IndiGo, Maruti Suzuki, Indian Oil, and Adani Green are in focus
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-power-indigo-maruti-suzuki-indian-oil-adani-green/articleshow/129958483.cms
+- Pakistan's push in Iran war diplomacy - is India sidelined? - BBC
+  Pakistan's push in Iran war diplomacy -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KaFI4Q2xuaU1Rbk1UUTJyUV94THNPaHRodHRLYjhIT3ZYV2Jsc1VscjBJbmRDVkRDX0JpMWt2T2RZOHFQRkNvS2x5eWpXXzdNS1JNZ3ZfZUZMZw?oc=5
 
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall; restaurants shrink menus, migrant workers bear brunt - The Times of India
+  The Times of India reports that Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall.
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - ndtv.com
-  PM Modi, President Murmu Complete Self-En
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
+- After LPG And Fuel, Iran War Can Also Disrupt India's Internet. Here's How - NDTV
+  After LPG And Fuel, Iran War Can Also Dis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDJpWFZHODNCcm9ZdVphQTE1TDFUa0x3M3Z3bFY0RlhVemN1OVJObmNFTXpoVzBna3JMMXFtU0FnWjBEazlDX2tpUGVIM0NBLVM4anFLY0JaWFlNaE11djNBTDRqQzRQLTkxOXdBa3N5VkZ2VkhjMFlhRGI4VkdNdVFjOG9mZzJoZm9USkZUR3F1eFl6QlFNbHN2VnZmRlM1d1RBYTJ1VGdhWHZ0a0HSAbYBQVVfeXFMTmRkQVN2WDRxOTE4MGNyVzFfVTRLdENKdGV6Wkh0M0UzSTFfSHlfZEZrQXlYS2JCa0xUMXl4Ri15UFpTeGhDWFd6RHdBZU9hQUdwd3lFSVZONUpkYzdibWJUYnFKN1hQcnRlVUc3MkVFYkplWlA2ZEJXZEJDRXU0N1JzcHhVQ1lFcF9mMnRZbGdSSEgxbVlRWEhoLVdrOElULXNSVkJ2YjkxeC1ISHdscDlFM1Q3dFE?oc=5
 
-- J&K govt announces revival of 120-yr-old power project - The Times of India
-  The Times of India reported on the revival of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWY0Rjl6bzJFYzN3RkRpVGtuZ25rQnQ3akltbWpIRUtESXF6d3JRR1g5djVtc2IwRXhHdW5MUVF0WERhSDJkRDlTUmhCelZEaHZ4YW1DVVdDV0xHYmVjRVZyX2tiSU02X3N4RVpLUGxJS00wc2dQWkFqclRJeU03YmR5Vy1XSG9tUlRhLUFyMzQ0WWs3UzE2Ykgwczl1RHc5bHNXSFJENlhHMlRUNWFESWxTMnNkblF5MkRIdGhn0gHDAUFVX3lxTE1fWl9FREVJa3kzTHlFZkQ1aTVUM3dpQzAwSVFfSHdKSlZGaGpiRHBrRXF6eFdtRGgyNEhhdjAxekk0clJETmV2WUgwcmNZWmxJNnBxU3R4RnkzdmJnTmQ5V1JFYTJ3NmVUSmJPVnFGa3QyLS1rWGR4MWdGdnZqWGdhMVJpdG5JRm1UN2NiV1R0NlJrSWNjcW5xbGx0NExMTThoUTJXMjRUd0lIaDFieElIdUZBeks5UHV3OEZYWXdvOUFhNA?oc=5
+- India Pakistan: Navy was minutes away from striking Pakistan from sea during Operation Sindoor: Admiral Tripathi - The Hindu
+  The Indian Navy was minutes away from striking Pakistan from sea during Operation Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMURaRzZFckVnbzNLOXRHeGVzY25NZE1BSF9fd3k3UzhTMHFpWlNWRjA5cUd0T3VFUUEybEJNQTFGczluWVlvbGpGdEZBbUcxU09KRktxU2pzcm45U2lOVl9SN2FwN2hCeWpFa2tHVmVXYkhlNXQ4NnFfdVc4ZzEzUVdMOFhtcFJnczZjcXExcTROZnViRVhZY3p3bmZBQkxkS3huUXUxU09uMVRRQm9PaElEWkVyVWE2NWVWQV9wTnV4eGdzSVFNMkZqRklpcGd1Nk5acW52ZHI1dWt2U254S1VvcGdvbmFzS1HSAfABQVVfeXFMT1FsRGdnOEVJdGxDM1dqYVhqY0czTDh6b0FYbFAtRE02YzFYTy1iY2hXYnB4dU9YRzd5Ym5UYmhpa09pNEtKbVZWRlBkamZiOXhsMk1nV3gyVjNHU2IwbmE3Vm1rTWNDdkxEaXBDUDFyVmdkU2pfREJjUm9pdldFV25Pd2gzRDdPQTVtbmtUM3FvSTQ3TFIyRm9IR094OXRIaFRqTlRtdnhzUUVpaWpOTWhHS1RMdkEtUHhwUzRkS0xaVG9yWl9NbUgtSVYzellOYUZFalFSZ3pfeWE2X3N2WnlCa192am5Hc01IOHpXU1E1?oc=5
 
-- India Sends 1,000 Metric Tonnes of Rice to Burkina Faso as Humanitarian Aid - newsonair.gov.in
-  India Sends 1,000 Metric Tonnes of
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlZfc2RfVV9kZWg1eGtRaUMxdm5acnkzcWo0amd6TzRnbS0zR092YjFKWkRGNm1wc2cxZHZFbHpONmpQcTlVRzByOU5ZUVdXaEk3WmlKejFDa2pFendRT3p3eGgyLXE2aHJHUjF3OGtwSTRrMV9zaXZ2ZXhiaDVlZGZORVlFTzIta3FNdjVDMHFvZjd0enJsRGlSYmxpTVVGeUVRRTNYWQ?oc=5
-
-- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
-  India's new population count is controversial. The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
-
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
-
-- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - ndtv.com
-  PM Modi, President Murmu Complete Self-En
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
-
-- J&K govt announces revival of 120-yr-old power project - The Times of India
-  The Times of India reported on the revival of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWY0Rjl6bzJFYzN3RkRpVGtuZ25rQnQ3akltbWpIRUtESXF6d3JRR1g5djVtc2IwRXhHdW5MUVF0WERhSDJkRDlTUmhCelZEaHZ4YW1DVVdDV0xHYmVjRVZyX2tiSU02X3N4RVpLUGxJS00wc2dQWkFqclRJeU03YmR5Vy1XSG9tUlRhLUFyMzQ0WWs3UzE2Ykgwczl1RHc5bHNXSFJENlhHMlRUNWFESWxTMnNkblF5MkRIdGhn0gHDAUFVX3lxTE1fWl9FREVJa3kzTHlFZkQ1aTVUM3dpQzAwSVFfSHdKSlZGaGpiRHBrRXF6eFdtRGgyNEhhdjAxekk0clJETmV2WUgwcmNZWmxJNnBxU3R4RnkzdmJnTmQ5V1JFYTJ3NmVUSmJPVnFGa3QyLS1rWGR4MWdGdnZqWGdhMVJpdG5JRm1UN2NiV1R0NlJrSWNjcW5xbGx0NExMTThoUTJXMjRUd0lIaDFieElIdUZBeks5UHV3OEZYWXdvOUFhNA?oc=5
-
-- India Sends 1,000 Metric Tonnes of Rice to Burkina Faso as Humanitarian Aid - newsonair.gov.in
-  India Sends 1,000 Metric Tonnes of
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlZfc2RfVV9kZWg1eGtRaUMxdm5acnkzcWo0amd6TzRnbS0zR092YjFKWkRGNm1wc2cxZHZFbHpONmpQcTlVRzByOU5ZUVdXaEk3WmlKejFDa2pFendRT3p3eGgyLXE2aHJHUjF3OGtwSTRrMV9zaXZ2ZXhiaDVlZGZORVlFTzIta3FNdjVDMHFvZjd0enJsRGlSYmxpTVVGeUVRRTNYWQ?oc=5
+- Pakistan's push in Iran war diplomacy - is India sidelined? - BBC
+  Pakistan's push in Iran war diplomacy -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KaFI4Q2xuaU1Rbk1UUTJyUV94THNPaHRodHRLYjhIT3ZYV2Jsc1VscjBJbmRDVkRDX0JpMWt2T2RZOHFQRkNvS2x5eWpXXzdNS1JNZ3ZfZUZMZw?oc=5
 
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall; restaurants shrink menus, migrant workers bear brunt - The Times of India
+  The Times of India reports that Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall.
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - ndtv.com
-  PM Modi, President Murmu Complete Self-En
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
+- After LPG And Fuel, Iran War Can Also Disrupt India's Internet. Here's How - NDTV
+  After LPG And Fuel, Iran War Can Also Dis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDJpWFZHODNCcm9ZdVphQTE1TDFUa0x3M3Z3bFY0RlhVemN1OVJObmNFTXpoVzBna3JMMXFtU0FnWjBEazlDX2tpUGVIM0NBLVM4anFLY0JaWFlNaE11djNBTDRqQzRQLTkxOXdBa3N5VkZ2VkhjMFlhRGI4VkdNdVFjOG9mZzJoZm9USkZUR3F1eFl6QlFNbHN2VnZmRlM1d1RBYTJ1VGdhWHZ0a0HSAbYBQVVfeXFMTmRkQVN2WDRxOTE4MGNyVzFfVTRLdENKdGV6Wkh0M0UzSTFfSHlfZEZrQXlYS2JCa0xUMXl4Ri15UFpTeGhDWFd6RHdBZU9hQUdwd3lFSVZONUpkYzdibWJUYnFKN1hQcnRlVUc3MkVFYkplWlA2ZEJXZEJDRXU0N1JzcHhVQ1lFcF9mMnRZbGdSSEgxbVlRWEhoLVdrOElULXNSVkJ2YjkxeC1ISHdscDlFM1Q3dFE?oc=5
 
-- J&K govt announces revival of 120-yr-old power project - The Times of India
-  The Times of India reported on the revival of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWY0Rjl6bzJFYzN3RkRpVGtuZ25rQnQ3akltbWpIRUtESXF6d3JRR1g5djVtc2IwRXhHdW5MUVF0WERhSDJkRDlTUmhCelZEaHZ4YW1DVVdDV0xHYmVjRVZyX2tiSU02X3N4RVpLUGxJS00wc2dQWkFqclRJeU03YmR5Vy1XSG9tUlRhLUFyMzQ0WWs3UzE2Ykgwczl1RHc5bHNXSFJENlhHMlRUNWFESWxTMnNkblF5MkRIdGhn0gHDAUFVX3lxTE1fWl9FREVJa3kzTHlFZkQ1aTVUM3dpQzAwSVFfSHdKSlZGaGpiRHBrRXF6eFdtRGgyNEhhdjAxekk0clJETmV2WUgwcmNZWmxJNnBxU3R4RnkzdmJnTmQ5V1JFYTJ3NmVUSmJPVnFGa3QyLS1rWGR4MWdGdnZqWGdhMVJpdG5JRm1UN2NiV1R0NlJrSWNjcW5xbGx0NExMTThoUTJXMjRUd0lIaDFieElIdUZBeks5UHV3OEZYWXdvOUFhNA?oc=5
+- India Pakistan: Navy was minutes away from striking Pakistan from sea during Operation Sindoor: Admiral Tripathi - The Hindu
+  The Indian Navy was minutes away from striking Pakistan from sea during Operation Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMURaRzZFckVnbzNLOXRHeGVzY25NZE1BSF9fd3k3UzhTMHFpWlNWRjA5cUd0T3VFUUEybEJNQTFGczluWVlvbGpGdEZBbUcxU09KRktxU2pzcm45U2lOVl9SN2FwN2hCeWpFa2tHVmVXYkhlNXQ4NnFfdVc4ZzEzUVdMOFhtcFJnczZjcXExcTROZnViRVhZY3p3bmZBQkxkS3huUXUxU09uMVRRQm9PaElEWkVyVWE2NWVWQV9wTnV4eGdzSVFNMkZqRklpcGd1Nk5acW52ZHI1dWt2U254S1VvcGdvbmFzS1HSAfABQVVfeXFMT1FsRGdnOEVJdGxDM1dqYVhqY0czTDh6b0FYbFAtRE02YzFYTy1iY2hXYnB4dU9YRzd5Ym5UYmhpa09pNEtKbVZWRlBkamZiOXhsMk1nV3gyVjNHU2IwbmE3Vm1rTWNDdkxEaXBDUDFyVmdkU2pfREJjUm9pdldFV25Pd2gzRDdPQTVtbmtUM3FvSTQ3TFIyRm9IR094OXRIaFRqTlRtdnhzUUVpaWpOTWhHS1RMdkEtUHhwUzRkS0xaVG9yWl9NbUgtSVYzellOYUZFalFSZ3pfeWE2X3N2WnlCa192am5Hc01IOHpXU1E1?oc=5
 
-- India Sends 1,000 Metric Tonnes of Rice to Burkina Faso as Humanitarian Aid - newsonair.gov.in
-  India Sends 1,000 Metric Tonnes of
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlZfc2RfVV9kZWg1eGtRaUMxdm5acnkzcWo0amd6TzRnbS0zR092YjFKWkRGNm1wc2cxZHZFbHpONmpQcTlVRzByOU5ZUVdXaEk3WmlKejFDa2pFendRT3p3eGgyLXE2aHJHUjF3OGtwSTRrMV9zaXZ2ZXhiaDVlZGZORVlFTzIta3FNdjVDMHFvZjd0enJsRGlSYmxpTVVGeUVRRTNYWQ?oc=5
+- Pakistan's push in Iran war diplomacy - is India sidelined? - BBC
+  Pakistan's push in Iran war diplomacy -
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KaFI4Q2xuaU1Rbk1UUTJyUV94THNPaHRodHRLYjhIT3ZYV2Jsc1VscjBJbmRDVkRDX0JpMWt2T2RZOHFQRkNvS2x5eWpXXzdNS1JNZ3ZfZUZMZw?oc=5
 
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- Census 2027: India begins counting a billion-plus people in mega exercise - BBC
-  Census 2027: India begins counting a
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3c0szMG5yRDFlRXpYMWNnVDNlY1BUYlgtYW83SzRLb0VoaUdhblIwODFDeVlvR2JPTjd4bkItQ0FwSWtfUGZPaU1pQVc3ektUZmEtTEZQUjZnUQ?oc=5
+- LPG Gas Cylinder Price Hike India Live Updates: Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall; restaurants shrink menus, migrant workers bear brunt - The Times of India
+  The Times of India reports that Telangana’s hospitality sector cripples amid 50% commercial LPG shortfall.
+  🔗 https://news.google.com/rss/articles/CBMi8AJBVV95cUxNSk1JOHQ0bGUtT0NaYVhUb0RUUjBVTHlQZG4wMWVLVkhxM1hyMWJhZEVxTkU3QTFySHlfNG53Q0Ywa2tFZzJPU2k3XzY5d1R0VlhxcDRkQU4zNXRWajUxSnZUU3c3RF83Tmw3ZkJ0RU5yaGFIQTM1Q1R1bnMtR3NfdGE1TjlhMjA3LVpTaThuTUtKbzhQZ0ttSEN4ejFJOHhvRTNWUC1OZWlzd0FnVmM2TjVvSjRVUXZEbmxxYzZlTHFMRURHcDBsbW50ay1sMVpvWlRaZE1qcTR2WlBLeWhJeXpvNllIaFZjYUtYMUMtTThRYVV5WkwyZ0hURW01bmNJc2RMV2FEZzFpcDRUa3RmNHhnWUZ2SXRBWlVGSWRVdE1LcncySERBTjZmbkdzeU81N05RQy0wVnlHMW1ibGVOTk1nTHVpWkIyTWRaaGRjQlhxMnh3TFFoUGhFYnUtSkJEMVNOWEFLQjdOX09BaXVFTtIB9gJBVV95cUxQODZIT2tmTy1BYUNYbldMRzdLeHhvLUR6MFpHWkVyUUpKLTVuenAwWTZPSVNmNGhRX0ZfWWdSYk5yX3VGUUhmQmQ0MDdLam1IN2ZSUjJ5eXJWMlR1SUQ5WTg3dnc0cDBRQ1F2cTZSN1MzSmJld3Q2NVRwQ1VsdnhPY0xLQzMxZjN2R1ljLWNFY2hTcVB6Z3dGdlpMRE9KQkIxaldRelJkdVNuakRWdUdqVVg3OFlyV1BqSGZqNXhyRTlRdWROYjVPcnFyZm53R2xWQzNtMjVWOXhZbDM4SXNpYlJveDF2czJoWTYtdERXY19yLVNEVjNxWkhaRHB1Nm5tV1ZMRklFOFZQazJHQURmRVlXRGltWF9XR0d0SHRNRTVDcjl3dndzMWxjOTRrd3RqMTU4Z0JUNFhGellTN3dyUmpXVEdBQTVOTHd0NU13ejlrb3pnclNDWk1qUDRRZnJZb2dyLWl2RlMzSWV0cGRrWnFkemJRZw?oc=5
 
-- PM Modi, President Murmu Complete Self-Enumeration On First Day Of Census 2027 - ndtv.com
-  PM Modi, President Murmu Complete Self-En
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0tnWnQtRVQ0OENSR3YtZzVMZ2h2dXI4dGNIY2U1U0lLYXBEUDB5RTRYa1UybEpOcFVnQjBObFJpMndYZUVjYmZJUzZUcnRCX3ZLVjJJNzBVd0ZfeXUtSVdoSTFmRllsWDViVTMzTC1oWWctMHd0eHBKRC01SEtZMENodzNaY1B6MmZ2TzdBcnZZa1N5bWQzYnREMTJBYzNXS2twanhrSXBiQ04xT2gtZXZyYWZ1WWRpWkHSAcIBQVVfeXFMT3phdmRCR0ZGZGE2XzU2TnR3Q3FtNFZQb0EtbEt5ejM3NnpQRlRGV1Y5TFplTDFDZHgzT29RMDgxV3lRSUFxTENtNzdXbk5RSWlBME5vRzg2cVM3UkdrSVhqeWZPWjVvVThnejNrRGg1dE9VYVIwZmpIek1Ld1pxbnNhNDBWVnQ3ak9OQnFhc2FGbkxLLWdGSFgxN1NJdVJfLXp0X3NQUFAwRFA3RGc0RktUempIUHBMOHJLZ0FsUXRYV3c?oc=5
+- After LPG And Fuel, Iran War Can Also Disrupt India's Internet. Here's How - NDTV
+  After LPG And Fuel, Iran War Can Also Dis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDJpWFZHODNCcm9ZdVphQTE1TDFUa0x3M3Z3bFY0RlhVemN1OVJObmNFTXpoVzBna3JMMXFtU0FnWjBEazlDX2tpUGVIM0NBLVM4anFLY0JaWFlNaE11djNBTDRqQzRQLTkxOXdBa3N5VkZ2VkhjMFlhRGI4VkdNdVFjOG9mZzJoZm9USkZUR3F1eFl6QlFNbHN2VnZmRlM1d1RBYTJ1VGdhWHZ0a0HSAbYBQVVfeXFMTmRkQVN2WDRxOTE4MGNyVzFfVTRLdENKdGV6Wkh0M0UzSTFfSHlfZEZrQXlYS2JCa0xUMXl4Ri15UFpTeGhDWFd6RHdBZU9hQUdwd3lFSVZONUpkYzdibWJUYnFKN1hQcnRlVUc3MkVFYkplWlA2ZEJXZEJDRXU0N1JzcHhVQ1lFcF9mMnRZbGdSSEgxbVlRWEhoLVdrOElULXNSVkJ2YjkxeC1ISHdscDlFM1Q3dFE?oc=5
 
-- J&K govt announces revival of 120-yr-old power project - The Times of India
-  The Times of India reported on the revival of
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWY0Rjl6bzJFYzN3RkRpVGtuZ25rQnQ3akltbWpIRUtESXF6d3JRR1g5djVtc2IwRXhHdW5MUVF0WERhSDJkRDlTUmhCelZEaHZ4YW1DVVdDV0xHYmVjRVZyX2tiSU02X3N4RVpLUGxJS00wc2dQWkFqclRJeU03YmR5Vy1XSG9tUlRhLUFyMzQ0WWs3UzE2Ykgwczl1RHc5bHNXSFJENlhHMlRUNWFESWxTMnNkblF5MkRIdGhn0gHDAUFVX3lxTE1fWl9FREVJa3kzTHlFZkQ1aTVUM3dpQzAwSVFfSHdKSlZGaGpiRHBrRXF6eFdtRGgyNEhhdjAxekk0clJETmV2WUgwcmNZWmxJNnBxU3R4RnkzdmJnTmQ5V1JFYTJ3NmVUSmJPVnFGa3QyLS1rWGR4MWdGdnZqWGdhMVJpdG5JRm1UN2NiV1R0NlJrSWNjcW5xbGx0NExMTThoUTJXMjRUd0lIaDFieElIdUZBeks5UHV3OEZYWXdvOUFhNA?oc=5
-
-- India Sends 1,000 Metric Tonnes of Rice to Burkina Faso as Humanitarian Aid - newsonair.gov.in
-  India Sends 1,000 Metric Tonnes of
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlZfc2RfVV9kZWg1eGtRaUMxdm5acnkzcWo0amd6TzRnbS0zR092YjFKWkRGNm1wc2cxZHZFbHpONmpQcTlVRzByOU5ZUVdXaEk3WmlKejFDa2pFendRT3p3eGgyLXE2aHJHUjF3OGtwSTRrMV9zaXZ2ZXhiaDVlZGZORVlFTzIta3FNdjVDMHFvZjd0enJsRGlSYmxpTVVGeUVRRTNYWQ?oc=5
+- India Pakistan: Navy was minutes away from striking Pakistan from sea during Operation Sindoor: Admiral Tripathi - The Hindu
+  The Indian Navy was minutes away from striking Pakistan from sea during Operation Sindoor
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMURaRzZFckVnbzNLOXRHeGVzY25NZE1BSF9fd3k3UzhTMHFpWlNWRjA5cUd0T3VFUUEybEJNQTFGczluWVlvbGpGdEZBbUcxU09KRktxU2pzcm45U2lOVl9SN2FwN2hCeWpFa2tHVmVXYkhlNXQ4NnFfdVc4ZzEzUVdMOFhtcFJnczZjcXExcTROZnViRVhZY3p3bmZBQkxkS3huUXUxU09uMVRRQm9PaElEWkVyVWE2NWVWQV9wTnV4eGdzSVFNMkZqRklpcGd1Nk5acW52ZHI1dWt2U254S1VvcGdvbmFzS1HSAfABQVVfeXFMT1FsRGdnOEVJdGxDM1dqYVhqY0czTDh6b0FYbFAtRE02YzFYTy1iY2hXYnB4dU9YRzd5Ym5UYmhpa09pNEtKbVZWRlBkamZiOXhsMk1nV3gyVjNHU2IwbmE3Vm1rTWNDdkxEaXBDUDFyVmdkU2pfREJjUm9pdldFV25Pd2gzRDdPQTVtbmtUM3FvSTQ3TFIyRm9IR094OXRIaFRqTlRtdnhzUUVpaWpOTWhHS1RMdkEtUHhwUzRkS0xaVG9yWl9NbUgtSVYzellOYUZFalFSZ3pfeWE2X3N2WnlCa192am5Hc01IOHpXU1E1?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-02 01:55:50 UTC_
+_Last updated: 2026-04-02 07:10:17 UTC_
