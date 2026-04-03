@@ -1,64 +1,72 @@
 # 📰 Daily News Summaries
 
-- Odisha BJP, BJD leaders unite in demanding rollback of move to shrink South Coast Railway
+- 11 months after bilateral ties took a hit, India and Azerbaijan officials meet in Baku
   
-  🔗 https://indianexpress.com/article/india/odisha-bjp-bjd-unite-rollback-shrink-south-coast-railway-10617493/
+  🔗 https://indianexpress.com/article/india/india-azerbaijan-relations-operation-sindoor-baku-reengagement-iran-evacuation-10617919/
 
-- India’s fastest Metre Gauge train completes 59 years of service: Check name, route, stoppages
+- LPG delayed, residents block Shimla bypass road in Dehradun
   
-  🔗 https://indianexpress.com/article/india/indias-fastest-metre-gauge-train-completes-59-years-of-service-check-name-route-stoppages-10617300/
+  🔗 https://indianexpress.com/article/india/dehradun-shimla-bypass-road-lpg-protest-supply-shortage-west-asia-war-10617903/
 
-- BJP candidates list for Tamil Nadu elections 2026: Find the full list here
+- Earthquake in Jammu & Kashmir: Tremors felt in Delhi-NCR, other places in north India
   
-  🔗 https://indianexpress.com/article/india/bjp-candidates-list-tamil-nadu-elections-2026-full-list-here-10617341/
+  🔗 https://indianexpress.com/article/india/earthquake-jk-tremors-across-region-delhi-ncr-10617892/
 
-- Railway Board approves new route for Amritsar-Katra Vande Bharat train – Check stoppages, timings
+- Will challenge Gujarat UCC in court: AIMPLB
   
-  🔗 https://indianexpress.com/article/india/railway-board-approves-new-route-for-amritsar-katra-vande-bharat-train-check-stoppages-timings-10617035/
+  🔗 https://indianexpress.com/article/india/aimplb-challenge-gujarat-ucc-bill-high-court-constitutionally-flawed-10617804/
 
-- Tea at Rs 10, Samosa at Rs 20: UDAN Yatri Cafe expands to 24 Airports – Full list
+- EC suspends West Bengal official for canvassing for TMC
   
-  🔗 https://indianexpress.com/article/india/tea-at-rs-10-samosa-at-rs-20-udan-yatri-cafe-expands-to-24-airports-full-list-10617102/
+  🔗 https://indianexpress.com/article/india/ec-suspends-west-bengal-official-for-canvassing-for-tmc-10617769/
 
-- Sam Altman’s OpenAI just bought popular talk show TBPN, and they’re killing its $30 million ad business
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-acquires-tbpn-deal-details-ai-industry-impact-10617423/
+- OpenAI acquires technology talk show TBPN in surprise move - Reuters
+  OpenAI acquires technology talk show
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I?oc=5
 
-- Google now allows you to control avatars through prompts in its Vids app
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-now-allows-you-to-control-avatars-through-prompts-in-its-vids-app-10617432/
+- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
+  The proliferation of AI-enabled military technology in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
 
-- Think your password is safe? It might be easier to crack than you think
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-weak-passwords-remain-a-major-digital-threat-10617433/
+- Colvale jail eyes advanced technology to block illegal use of mobile phones - The Times of India
+  Colvale jail eyes advanced technology to block illegal use of mobile phones
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWFnVFRIalgtRERKUFBSVmk5NWVZcTEyUmVhSnhFZFJiRnRua3BjXzlaYlcyZXNPV2YydENDVXlQQndwVFdZNDkybUtSOE5pUjI3LWFjbVFDR25YNWViZ1lETzhhVGkwRWVIdGxiZ1N1OVg5Q2kxeFNVQWI5TUlYNkxUTmJYWGhyTzB2U1c1SGk0bEhoRU1tSmFGM3o2d0pOaGZnTGhSVW1jaVA2SDBTaWE1RG9jZ1Q2ajFpWkNSSVdPWkdHNUU2V0k0dFdFT1FRS2pPdmlZWkROVnFRaGNZ0gHkAUFVX3lxTE1EWC12Z01LaGVrS2VpSC1mRmtlb041YWVwcklmdXpfNWJtT0VYckVxUFZpRjdPMDhMenRnVUx6VEFmQ0dNcXR6Rnc0YWg5dzVtNGRqTkt1bmxLZmlCRzh6dVQ1TEpvb2JpTHlUMnBzazBHWFJ3b19TSHBZQXQyWHBkTHNaNWlZV3pKdE55OHVVOXlCYUUyREVFSl9PR1FxMXNzeWJpd1VGOVFlM09VYWFESkVKemVsemxSdlpUaV9ZX0VEeWgtRUdrb2JHUHp5Y1N0d1hPdDFsRXlJUzdnTkdZZ1dmMA?oc=5
 
-- Gemma 4 explained: How Google is bringing AI to more developers
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/gemma-4-explained-how-google-is-bringing-ai-to-more-developers-10617383/
+- Economists Are Drawing Stronger Connections Between A.I. and Jobs - The New York Times
+  Economists are Drawing Stronger Connections Between A
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXh2dFhNVHlqNXV6MC11ck8xZHk4b0ZoNTByMXJhdzI1UGdtR25feXkwTU8taVQ1YWFWVXVHYW0wUzNMM1NYRVBsVmpURDdRdm40ZXc2ZjlQZUNUNFFYdkttb2NNclcxS1ZfMFpaYTNhSm8tUWRlaHZibEZwQ1QtYVdqME1HalNBcDU2cFFYd1U3LU1UQ2FtMHRFMDlFdmQxUzluSGl1eTE1QVN2?oc=5
 
-- Microsoft’s new AI transcription model beats Google Gemini 3.1 Flash: Here’s how little it costs
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-mai-transcribe-1-launch-accuracy-price-features-10617165/
+- Under the Skin of America’s Humanoid Robots: Chinese Technology - wsj.com
+  Under the Skin of America’
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
 
-- Consumer megadeals make a rare comeback in the first quarter
-  CNN.
-  🔗 https://www.livemint.com/companies/consumer-megadeals-make-a-rare-comeback-in-the-first-quarter-11775217703508.html
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
 
-- HDFC Bank may not take legal action on Atanu Chakraborty, to focus on issues raised in resignation letter — Report
-  HDFC Bank's Board of Directors has mandated external law firms to independently examine governance processes. While the chances to seek damages from Chakrab
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-may-not-take-legal-action-on-atanu-chakraborty-to-focus-on-issues-raised-in-resignation-letter-report-11775206045948.html
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- Elon Musk's SpaceX eyes more than $2 trillion valuation in likely record-breaking IPO: Report
-  SpaceX submitted its draft papers for a public listing earlier this week. The company aims for an IPO valuation over $2 trillion.
-  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-eyes-more-than-2-trillion-valuation-in-likely-record-breaking-ipo-report-11775198422178.html
+- 5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India - The Times of India
+  5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1EaVFOZWJVTkxzM2hPUGgzc2ZFZE11MGNGbXdwRWJMa210bmFyc0Vhbk9JUHFwaU1ncG9zaFA2Q1FEOXMxaEM4enVhcEZTYndXdVV3TWVqREc5U01YYTctTHFUZFJwSlZNcVZVdEpmajVFQW93M2xLaFEyVmNReEFXMUtqZWpyVmtBRlpQUGd0YXVoOE1RdTJqaFV3TmRzSnpsR0tJOHJwQkdMdXM2Zm5xSU5iMFo0cTJRSlg5YkNtdGR6dGQtNk1QVdIB0AFBVV95cUxOcHVTdllNcnl0VXprTDYxa1YwU3JMOHpPaVgxUEZjQlJMSl9HMmlMcFM1Y25sUXM3Mno4RjBSUWFUTmtzc2JMa0lGVTZYcEdnSklXRE1TV0UxOEgyQ2JVVW44d2pzc0drNGJLLUlFTUV1alNwWVBOT3pSenBELU5SeUQ2WWdqN1hDVllMbHdvbDNUc04yYjdvNFpMZlh6cWhnTWhHc2I5TkJURnBvZ3ZxMzV0VlljbEdqV0lrWXFRUFZwd2I4QUtYOVFMNUFqeDkx?oc=5
 
-- Microsoft plans $10 billion investment in Japan to grow AI,  train 1 million workers by 2030
-  Microsoft will train 1 million engineers and developers by 2030. The plan was unveiled during a visit to Tokyo by Vice Chair and President Brad Smith.
-  🔗 https://www.livemint.com/companies/news/microsoft-plans-10-billion-investment-in-japan-to-grow-ai-train-1-million-workers-by-2030-11775190635744.html
+- Earthquake tremors felt in several parts of north India - The Hindu
+  Earthquake tremors felt in several
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
 
-- Who is Sharon Pais? Flipkart executive likely to take over as Myntra CEO after Nandita Sinha exits
-  Myntra CEO Nandita Sinha will step down after over a decade. Sharon Pais is likely to replace her.
-  🔗 https://www.livemint.com/companies/news/who-is-sharon-pais-flipkart-executive-likely-to-take-over-as-myntra-ceo-after-nandita-sinha-exits-11775187528317.html
+- Indian Vessel, 3 Others Cross Strait Of Hormuz Via 'New Shipping Route' - NDTV
+  Indian Vessel, 3 Others Cross Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWdmWkNQRTJrM0lfblVoeUtWMm1KT2JLZldGeXUxZWlyTUJpelE4TGc3T2V3OF9vaWozOUdZUmtBelZzU1hxQUR5d2JtaXh2eGo0V3dsb0dEVXpDcFYxWVNwb2lRTlRQNUVBd2hISVdUdHV6N1FOV1RXQWdnSHJlUjdiUkRPR3Y1X253SHd0YTN3NEt5NUxseTFQVl92bGotNWtVdXRsTXlVYXpCZENMSXpWdGF5MjgzejNDQ3JLeHo3T3JESzdXMy1LY1ZWd9IB1gFBVV95cUxOUTNOMC15WUlYR3hwakhiazlaT0RBOFZrT21DTWliTzlNOVVlVXdEamF1cTlVSWhOQ2QzSDRXWnVCZ1BMaDZaSklaUmtIZVh6d18wXzNfQmR0WEtoMUFrYjk4R2FxZzVGWkdZODI1c3FFUHpXYzQ0NzRILTFPVkRGYjdCeFF2emlEQW51SU5ONFdPMURRVHdlWGYwT0RQTXRvRlFGZm5ZTTNEb1BJSW14d2dteXEyOTNQaVJwdTVXZk5FSWZwOW5faHVwU01Tak9wSHNrNEdR?oc=5
+
+- HUL, Dabur, Asian Paints likely to see margin pressure on rising crude and input costs: Axis Securities
+  The US-Iran conflict is set to affect FMCG, paints, QSR, and retail sectors. Rising oil prices and supply chain disruptions are expected to compress margins.
+  🔗 https://www.livemint.com/market/stock-market-news/hul-dabur-asian-paints-likely-to-see-margin-pressure-on-rising-crude-and-input-costs-axis-securities-11775226478784.html
+
+- FPIs extend selling streak to 21 trading sessions; pull out  ₹1.37 lakh crore amid West Asia conflict
+  Foreign portfolio investors have extended their selling in April. Nifty 50 index has dropped 11.2% in six weeks. Rising oil prices and global tensions affecting investor sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/fpis-extend-selling-streak-to-21-trading-sessions-pull-out-rs-1-37-lakh-crore-amid-west-asia-conflict-11775221402639.html
 
 - MCX silver price crashes 47% from peak. Can it fall below  ₹2 lakhs?
   MCX silver has fallen nearly 47% from its peak, reflecting profit booking amid geopolitical tensions. Prices dropped significantly on April 2, with futures down 4
@@ -72,33 +80,45 @@
   Indian banking stocks are facing pressure from rising yields, RBI limitations, and inflation fears. Many stocks have entered bear market territory as investors worry about future profitability.
   🔗 https://www.livemint.com/market/stock-market-news/banking-rout-deepens-nifty-bank-down-16-in-5-weeks-amid-macro-headwinds-8-index-stocks-slip-into-bear-territory-11775212168592.html
 
-- Upcoming IPO: Kay Jay Forgings files draft papers with SEBI for  ₹360 crore IPO
-  Kay Jay Forgings has filed a draft red herring prospectus with SEBI for an IPO. Funds will support capital expenditures and debt reduction.
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-kay-jay-forgings-files-draft-papers-with-sebi-for-rs-360-crore-ipo-11775212436334.html
+- OpenAI acquires technology talk show TBPN in surprise move - Reuters
+  OpenAI acquires technology talk show
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I?oc=5
 
-- Stocks to buy: Sumeet Bagadia recommends five breakout stocks after stock market rebound
-  Nifty 50 and Sensex recovered slightly after earlier declines, driven by rupee appreciation. Domestic equity markets are closed today for Good Friday. Sumeet Bagadia recommends five stocks to buy
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-sumeet-bagadia-recommends-five-breakout-stocks-after-stock-market-rebound-11775207425132.html
+- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
+  The proliferation of AI-enabled military technology in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
 
-- OpenAI, Anthropic contractor Mercor targeted in major security breach — what data was stolen, who carried out the hack?
-  Mercor is one of Silicon Valley's hottest start-ups, valued at $10 billion. It works with AI companies, including OpenAI and Anthropic, to help train models.
-  🔗 https://www.livemint.com/technology/tech-news/openai-anthropic-contractor-mercor-targeted-in-major-security-breach-what-data-was-stolen-who-carried-out-the-hack-11775198590710.html
+- Colvale jail eyes advanced technology to block illegal use of mobile phones - The Times of India
+  Colvale jail eyes advanced technology to block illegal use of mobile phones
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWFnVFRIalgtRERKUFBSVmk5NWVZcTEyUmVhSnhFZFJiRnRua3BjXzlaYlcyZXNPV2YydENDVXlQQndwVFdZNDkybUtSOE5pUjI3LWFjbVFDR25YNWViZ1lETzhhVGkwRWVIdGxiZ1N1OVg5Q2kxeFNVQWI5TUlYNkxUTmJYWGhyTzB2U1c1SGk0bEhoRU1tSmFGM3o2d0pOaGZnTGhSVW1jaVA2SDBTaWE1RG9jZ1Q2ajFpWkNSSVdPWkdHNUU2V0k0dFdFT1FRS2pPdmlZWkROVnFRaGNZ0gHkAUFVX3lxTE1EWC12Z01LaGVrS2VpSC1mRmtlb041YWVwcklmdXpfNWJtT0VYckVxUFZpRjdPMDhMenRnVUx6VEFmQ0dNcXR6Rnc0YWg5dzVtNGRqTkt1bmxLZmlCRzh6dVQ1TEpvb2JpTHlUMnBzazBHWFJ3b19TSHBZQXQyWHBkTHNaNWlZV3pKdE55OHVVOXlCYUUyREVFSl9PR1FxMXNzeWJpd1VGOVFlM09VYWFESkVKemVsemxSdlpUaV9ZX0VEeWgtRUdrb2JHUHp5Y1N0d1hPdDFsRXlJUzdnTkdZZ1dmMA?oc=5
 
-- Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute
-  Trump administration appeals ruling that blocked Pentagon action
-  🔗 https://www.livemint.com/technology/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute-11775148233145.html
+- Economists Are Drawing Stronger Connections Between A.I. and Jobs - The New York Times
+  Economists are Drawing Stronger Connections Between A
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXh2dFhNVHlqNXV6MC11ck8xZHk4b0ZoNTByMXJhdzI1UGdtR25feXkwTU8taVQ1YWFWVXVHYW0wUzNMM1NYRVBsVmpURDdRdm40ZXc2ZjlQZUNUNFFYdkttb2NNclcxS1ZfMFpaYTNhSm8tUWRlaHZibEZwQ1QtYVdqME1HalNBcDU2cFFYd1U3LU1UQ2FtMHRFMDlFdmQxUzluSGl1eTE1QVN2?oc=5
 
-- Is X down? Thousands of users report issues with news feed in US: What we know
-  Elon Musk's platform X is reportedly facing another outage, preventing users from accessing feeds. As per users, issues
-  🔗 https://www.livemint.com/technology/is-x-down-hundreds-of-users-report-issues-with-news-feed-in-us-what-we-know-11775119112120.html
+- Under the Skin of America’s Humanoid Robots: Chinese Technology - wsj.com
+  Under the Skin of America’
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
 
-- Realme 16 with iPhone Air like camera module and 7,000mAh battery launched in India, price starts at  ₹31,999
-  Realme 16 has a 120Hz AMOLED display, 7,000mAh battery, and MediaTek Dimensity 6400 Turbo processor.
-  🔗 https://www.livemint.com/technology/gadgets/realme-16-with-iphone-air-like-camera-module-and-7-000mah-battery-launched-in-india-price-starts-at-rs-31999-11775115281470.html
+- Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates - CNBC
+  Dow closes lower as Trump comments dampen traders' hopes for
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA4UVpPQ2VFbWlkQTkxbUlRcFVlaFlqOEJQOWp2WlJia1c4Zks3d1Jhd29kM2hHZW44VGllZUR3NS16LW5yZHhmTzU4R3lDeUppRXdjT2ZoNmM0ckRzUWlJUlRtbFhjd3l0UndtQURSWUpTRWdWWHBj0gF8QVVfeXFMT0g4OVFEel84Q2dtWjVITFozMlVoeXNBQnQ2LUl1OE02YkpkR0F3VWZva1gwQWtxUXlnVWt3dG14dG1yenNRVUl1Rl9CRmFqc2NZMm81ck5MYlBSLVR0VjY0blFLeHVMVU9VaGlVamVzMG5hYmRLeTZuZmVfTw?oc=5
 
-- Vivo V70 FE with 200MP camera and 7,000mAh battery launched in India, price starts at  ₹37,999
-  The V70 FE has a 1.5K AMOLED display, MediaTek Dimensity 7360 Turbo processor, and IP68/IP69
-  🔗 https://www.livemint.com/technology/gadgets/vivo-v70-fe-with-200mp-camera-and-7-000mah-battery-launched-in-india-price-starts-at-rs-40999-11775114083114.html
+- Asia-Pacific markets plunge as oil surges after Trump's speech on Iran war - CNBC
+  Asia-Pacific markets plunge as oil surges after Trump
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTVDRFMxbVZRTXF1eGZ4RmtDRFhXc1h3Z3VXZ21qTVg1VnBJNkxXVUlfNC1ZUHJzVkc3clB3cS1QczhGaUxxSlVJZjZ0VFRFTGh0QUdTQXNGQ21adVBQYzFteGNvSUoydVY5S1F5WlY0eE1waTRCZVJ4dF90OFN3LThFX2pkXzhvOTRr0gGQAUFVX3lxTE1lMHgzZUF6VmM0a2pWNlZ2dzJPLXptYXlabTVmUmVsNk1kQXltZWIzQzZqbFdIanlIc0F1QXNCTlhBajh3REFoSU0ybEVENU1KQXk5U3I2LURSRm9ES29zYVJBUjRJRzBPN2dJYjlWNlVWNjAtUEVNV2ZiOXZHTkM2UDVrcklkZnJvWldHaFppOQ?oc=5
+
+- Oil price jumps and markets slide after Trump warning to Iran - The Guardian
+  Oil price jumps and markets slide after Trump warning to
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1R0cUp6blhKUWQ3emVLMmxjWFZtakhJdUM3RVJlLTE1aE5WRXRJMnBudEMycFZtd09WYm1pazRPRllaSnZLMDh3dG41VHpzaFZRdmI0cGczRjhjY01KNzRLbGJBaVhwTmxPcWxZOGt4TE5UZlc2dHBGWnA2NC0yT1JlSkotSW11VmpJSTN5cmtCb3J1a1B1QTV4dFR1Qjk5LXFyeWVMSjMxZTduUUNHOA?oc=5
+
+- Asian Equities May Open Higher After US Rebound: Markets Wrap - Bloomberg.com
+  Asian Equities May Open Higher After US
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2FCRGdHTzR6SUxHZFpBM1ZFZmxVVVZWd0loUDVQdU1yOV9kbk5PZFktOU5uQ25FaG4yVThIVGJ6eXZSOU5qMnVXTjdBU2RIekR0eWN1T18tb3FTbWEzNlhKQk5NZFcyNGsybHJRX0Z0QVBuQUhSTVVXTU1TQkV0SG5kTHdqVmRORUtzaUtLY0Vkb091RExJN0xuZUVta0xXS0VhN3p2dlk0NWVINm4yaQ?oc=5
+
+- Good Friday Holiday: Are Stock Markets, MCX And Banks Shut Today - NDTV
+  "Good Friday Holiday: Are Stock Markets,
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXdxRG1BZTN0b2M2cWFWcmU1dThVNGNqX0VtdXYtalM5R1U1ZHdvNVZkeFVhaDlKcVBvaXpmYXE4by01akVOaGhrWE5zd0Q3WHY3LTNUd1R5SHJEamdTYWRENi1LUUgzMzdwUEhqTFc5ZHp6ZEw2TnJoeTl1VGRhLTZKczc2Z3ROQVZPQ3dFeXh5QjBidXpYWDREeVJqMWEyRndLMXh5ZEUyTGpYb195ZE84SUNfS0VyREJCVE9DbU53QdIBygFBVV95cUxNdmI1THBCRERwOUZSa3ExcjFuZjdicGVvYjlOSWNBZG9CTG55bkRSLW93Mkt5QXRINURUM3FMVWt1c2VfZng5c0tBdVZMSV90NnY5c1U4S0MzeGZ6YzE0ZDRsOXdnYmRsdWtIcmNHOHdKeDZYOHNLUVdwc1RUaVRIbmtHaG9iYmpDVzk0YVhRdWtHemtjV3RYZng3NG53a1BkVFlkMGZJb1ZrdTBBcHRJNVVtZHpwNHczQnRGX2ZxNjNOR3hwem4xbjBB?oc=5
 
 - Sobha Q4 biz update: Sales rise 11% YoY to Rs 2,039 crore as company closes FY26 with record figures
   Sobha recorded Rs 2,039 crore in sales in Q4FY26, up 11% YoY. Bangalore contributed 51% and NCR Rs 610 crore. For FY26, the company achieved record annual sales of Rs
@@ -128,37 +148,17 @@
   "We're Only Nation To Lose Mariners At Horm
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
-  The INS Aridhaman will be India's 3rd nuclear sub.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
+- 5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India - The Times of India
+  5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1EaVFOZWJVTkxzM2hPUGgzc2ZFZE11MGNGbXdwRWJMa210bmFyc0Vhbk9JUHFwaU1ncG9zaFA2Q1FEOXMxaEM4enVhcEZTYndXdVV3TWVqREc5U01YYTctTHFUZFJwSlZNcVZVdEpmajVFQW93M2xLaFEyVmNReEFXMUtqZWpyVmtBRlpQUGd0YXVoOE1RdTJqaFV3TmRzSnpsR0tJOHJwQkdMdXM2Zm5xSU5iMFo0cTJRSlg5YkNtdGR6dGQtNk1QVdIB0AFBVV95cUxOcHVTdllNcnl0VXprTDYxa1YwU3JMOHpPaVgxUEZjQlJMSl9HMmlMcFM1Y25sUXM3Mno4RjBSUWFUTmtzc2JMa0lGVTZYcEdnSklXRE1TV0UxOEgyQ2JVVW44d2pzc0drNGJLLUlFTUV1alNwWVBOT3pSenBELU5SeUQ2WWdqN1hDVllMbHdvbDNUc04yYjdvNFpMZlh6cWhnTWhHc2I5TkJURnBvZ3ZxMzV0VlljbEdqV0lrWXFRUFZwd2I4QUtYOVFMNUFqeDkx?oc=5
 
-- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
-  Russia offers to increase supply of crude oil, LNG to India amid war
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
+- Earthquake tremors felt in several parts of north India - The Hindu
+  Earthquake tremors felt in several
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
 
-- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
-  Rajnath Singh Commissions
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
-
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
-
-- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
-  "We're Only Nation To Lose Mariners At Horm
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
-
-- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
-  The INS Aridhaman will be India's 3rd nuclear sub.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
-
-- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
-  Russia offers to increase supply of crude oil, LNG to India amid war
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
-
-- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
-  Rajnath Singh Commissions
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
+- Indian Vessel, 3 Others Cross Strait Of Hormuz Via 'New Shipping Route' - NDTV
+  Indian Vessel, 3 Others Cross Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWdmWkNQRTJrM0lfblVoeUtWMm1KT2JLZldGeXUxZWlyTUJpelE4TGc3T2V3OF9vaWozOUdZUmtBelZzU1hxQUR5d2JtaXh2eGo0V3dsb0dEVXpDcFYxWVNwb2lRTlRQNUVBd2hISVdUdHV6N1FOV1RXQWdnSHJlUjdiUkRPR3Y1X253SHd0YTN3NEt5NUxseTFQVl92bGotNWtVdXRsTXlVYXpCZENMSXpWdGF5MjgzejNDQ3JLeHo3T3JESzdXMy1LY1ZWd9IB1gFBVV95cUxOUTNOMC15WUlYR3hwakhiazlaT0RBOFZrT21DTWliTzlNOVVlVXdEamF1cTlVSWhOQ2QzSDRXWnVCZ1BMaDZaSklaUmtIZVh6d18wXzNfQmR0WEtoMUFrYjk4R2FxZzVGWkdZODI1c3FFUHpXYzQ0NzRILTFPVkRGYjdCeFF2emlEQW51SU5ONFdPMURRVHdlWGYwT0RQTXRvRlFGZm5ZTTNEb1BJSW14d2dteXEyOTNQaVJwdTVXZk5FSWZwOW5faHVwU01Tak9wSHNrNEdR?oc=5
 
 - Iran war could make beer and bottled water pricier for Indians - BBC
   Iran war could make beer and bottled water pric
@@ -168,17 +168,17 @@
   "We're Only Nation To Lose Mariners At Horm
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
-  The INS Aridhaman will be India's 3rd nuclear sub.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
+- 5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India - The Times of India
+  5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1EaVFOZWJVTkxzM2hPUGgzc2ZFZE11MGNGbXdwRWJMa210bmFyc0Vhbk9JUHFwaU1ncG9zaFA2Q1FEOXMxaEM4enVhcEZTYndXdVV3TWVqREc5U01YYTctTHFUZFJwSlZNcVZVdEpmajVFQW93M2xLaFEyVmNReEFXMUtqZWpyVmtBRlpQUGd0YXVoOE1RdTJqaFV3TmRzSnpsR0tJOHJwQkdMdXM2Zm5xSU5iMFo0cTJRSlg5YkNtdGR6dGQtNk1QVdIB0AFBVV95cUxOcHVTdllNcnl0VXprTDYxa1YwU3JMOHpPaVgxUEZjQlJMSl9HMmlMcFM1Y25sUXM3Mno4RjBSUWFUTmtzc2JMa0lGVTZYcEdnSklXRE1TV0UxOEgyQ2JVVW44d2pzc0drNGJLLUlFTUV1alNwWVBOT3pSenBELU5SeUQ2WWdqN1hDVllMbHdvbDNUc04yYjdvNFpMZlh6cWhnTWhHc2I5TkJURnBvZ3ZxMzV0VlljbEdqV0lrWXFRUFZwd2I4QUtYOVFMNUFqeDkx?oc=5
 
-- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
-  Russia offers to increase supply of crude oil, LNG to India amid war
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
+- Earthquake tremors felt in several parts of north India - The Hindu
+  Earthquake tremors felt in several
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
 
-- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
-  Rajnath Singh Commissions
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
+- Indian Vessel, 3 Others Cross Strait Of Hormuz Via 'New Shipping Route' - NDTV
+  Indian Vessel, 3 Others Cross Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWdmWkNQRTJrM0lfblVoeUtWMm1KT2JLZldGeXUxZWlyTUJpelE4TGc3T2V3OF9vaWozOUdZUmtBelZzU1hxQUR5d2JtaXh2eGo0V3dsb0dEVXpDcFYxWVNwb2lRTlRQNUVBd2hISVdUdHV6N1FOV1RXQWdnSHJlUjdiUkRPR3Y1X253SHd0YTN3NEt5NUxseTFQVl92bGotNWtVdXRsTXlVYXpCZENMSXpWdGF5MjgzejNDQ3JLeHo3T3JESzdXMy1LY1ZWd9IB1gFBVV95cUxOUTNOMC15WUlYR3hwakhiazlaT0RBOFZrT21DTWliTzlNOVVlVXdEamF1cTlVSWhOQ2QzSDRXWnVCZ1BMaDZaSklaUmtIZVh6d18wXzNfQmR0WEtoMUFrYjk4R2FxZzVGWkdZODI1c3FFUHpXYzQ0NzRILTFPVkRGYjdCeFF2emlEQW51SU5ONFdPMURRVHdlWGYwT0RQTXRvRlFGZm5ZTTNEb1BJSW14d2dteXEyOTNQaVJwdTVXZk5FSWZwOW5faHVwU01Tak9wSHNrNEdR?oc=5
 
 - Iran war could make beer and bottled water pricier for Indians - BBC
   Iran war could make beer and bottled water pric
@@ -188,17 +188,37 @@
   "We're Only Nation To Lose Mariners At Horm
   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
-  The INS Aridhaman will be India's 3rd nuclear sub.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
+- 5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India - The Times of India
+  5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1EaVFOZWJVTkxzM2hPUGgzc2ZFZE11MGNGbXdwRWJMa210bmFyc0Vhbk9JUHFwaU1ncG9zaFA2Q1FEOXMxaEM4enVhcEZTYndXdVV3TWVqREc5U01YYTctTHFUZFJwSlZNcVZVdEpmajVFQW93M2xLaFEyVmNReEFXMUtqZWpyVmtBRlpQUGd0YXVoOE1RdTJqaFV3TmRzSnpsR0tJOHJwQkdMdXM2Zm5xSU5iMFo0cTJRSlg5YkNtdGR6dGQtNk1QVdIB0AFBVV95cUxOcHVTdllNcnl0VXprTDYxa1YwU3JMOHpPaVgxUEZjQlJMSl9HMmlMcFM1Y25sUXM3Mno4RjBSUWFUTmtzc2JMa0lGVTZYcEdnSklXRE1TV0UxOEgyQ2JVVW44d2pzc0drNGJLLUlFTUV1alNwWVBOT3pSenBELU5SeUQ2WWdqN1hDVllMbHdvbDNUc04yYjdvNFpMZlh6cWhnTWhHc2I5TkJURnBvZ3ZxMzV0VlljbEdqV0lrWXFRUFZwd2I4QUtYOVFMNUFqeDkx?oc=5
 
-- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
-  Russia offers to increase supply of crude oil, LNG to India amid war
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
+- Earthquake tremors felt in several parts of north India - The Hindu
+  Earthquake tremors felt in several
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
 
-- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
-  Rajnath Singh Commissions
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
+- Indian Vessel, 3 Others Cross Strait Of Hormuz Via 'New Shipping Route' - NDTV
+  Indian Vessel, 3 Others Cross Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWdmWkNQRTJrM0lfblVoeUtWMm1KT2JLZldGeXUxZWlyTUJpelE4TGc3T2V3OF9vaWozOUdZUmtBelZzU1hxQUR5d2JtaXh2eGo0V3dsb0dEVXpDcFYxWVNwb2lRTlRQNUVBd2hISVdUdHV6N1FOV1RXQWdnSHJlUjdiUkRPR3Y1X253SHd0YTN3NEt5NUxseTFQVl92bGotNWtVdXRsTXlVYXpCZENMSXpWdGF5MjgzejNDQ3JLeHo3T3JESzdXMy1LY1ZWd9IB1gFBVV95cUxOUTNOMC15WUlYR3hwakhiazlaT0RBOFZrT21DTWliTzlNOVVlVXdEamF1cTlVSWhOQ2QzSDRXWnVCZ1BMaDZaSklaUmtIZVh6d18wXzNfQmR0WEtoMUFrYjk4R2FxZzVGWkdZODI1c3FFUHpXYzQ0NzRILTFPVkRGYjdCeFF2emlEQW51SU5ONFdPMURRVHdlWGYwT0RQTXRvRlFGZm5ZTTNEb1BJSW14d2dteXEyOTNQaVJwdTVXZk5FSWZwOW5faHVwU01Tak9wSHNrNEdR?oc=5
+
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
+
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
+
+- 5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors felt in north India - The Times of India
+  5.9 magnitude earthquake hits Afghanistan's Hindu Kush region, tremors
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOdW1EaVFOZWJVTkxzM2hPUGgzc2ZFZE11MGNGbXdwRWJMa210bmFyc0Vhbk9JUHFwaU1ncG9zaFA2Q1FEOXMxaEM4enVhcEZTYndXdVV3TWVqREc5U01YYTctTHFUZFJwSlZNcVZVdEpmajVFQW93M2xLaFEyVmNReEFXMUtqZWpyVmtBRlpQUGd0YXVoOE1RdTJqaFV3TmRzSnpsR0tJOHJwQkdMdXM2Zm5xSU5iMFo0cTJRSlg5YkNtdGR6dGQtNk1QVdIB0AFBVV95cUxOcHVTdllNcnl0VXprTDYxa1YwU3JMOHpPaVgxUEZjQlJMSl9HMmlMcFM1Y25sUXM3Mno4RjBSUWFUTmtzc2JMa0lGVTZYcEdnSklXRE1TV0UxOEgyQ2JVVW44d2pzc0drNGJLLUlFTUV1alNwWVBOT3pSenBELU5SeUQ2WWdqN1hDVllMbHdvbDNUc04yYjdvNFpMZlh6cWhnTWhHc2I5TkJURnBvZ3ZxMzV0VlljbEdqV0lrWXFRUFZwd2I4QUtYOVFMNUFqeDkx?oc=5
+
+- Earthquake tremors felt in several parts of north India - The Hindu
+  Earthquake tremors felt in several
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
+
+- Indian Vessel, 3 Others Cross Strait Of Hormuz Via 'New Shipping Route' - NDTV
+  Indian Vessel, 3 Others Cross Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWdmWkNQRTJrM0lfblVoeUtWMm1KT2JLZldGeXUxZWlyTUJpelE4TGc3T2V3OF9vaWozOUdZUmtBelZzU1hxQUR5d2JtaXh2eGo0V3dsb0dEVXpDcFYxWVNwb2lRTlRQNUVBd2hISVdUdHV6N1FOV1RXQWdnSHJlUjdiUkRPR3Y1X253SHd0YTN3NEt5NUxseTFQVl92bGotNWtVdXRsTXlVYXpCZENMSXpWdGF5MjgzejNDQ3JLeHo3T3JESzdXMy1LY1ZWd9IB1gFBVV95cUxOUTNOMC15WUlYR3hwakhiazlaT0RBOFZrT21DTWliTzlNOVVlVXdEamF1cTlVSWhOQ2QzSDRXWnVCZ1BMaDZaSklaUmtIZVh6d18wXzNfQmR0WEtoMUFrYjk4R2FxZzVGWkdZODI1c3FFUHpXYzQ0NzRILTFPVkRGYjdCeFF2emlEQW51SU5ONFdPMURRVHdlWGYwT0RQTXRvRlFGZm5ZTTNEb1BJSW14d2dteXEyOTNQaVJwdTVXZk5FSWZwOW5faHVwU01Tak9wSHNrNEdR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- OpenAI acquires technology talk show TBPN in surprise move - Reuters
+  OpenAI acquires technology talk show
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
+  The proliferation of AI-enabled military technology in the Middle East.
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
+
+- Colvale jail eyes advanced technology to block illegal use of mobile phones - The Times of India
+  Colvale jail eyes advanced technology to block illegal use of mobile phones
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWFnVFRIalgtRERKUFBSVmk5NWVZcTEyUmVhSnhFZFJiRnRua3BjXzlaYlcyZXNPV2YydENDVXlQQndwVFdZNDkybUtSOE5pUjI3LWFjbVFDR25YNWViZ1lETzhhVGkwRWVIdGxiZ1N1OVg5Q2kxeFNVQWI5TUlYNkxUTmJYWGhyTzB2U1c1SGk0bEhoRU1tSmFGM3o2d0pOaGZnTGhSVW1jaVA2SDBTaWE1RG9jZ1Q2ajFpWkNSSVdPWkdHNUU2V0k0dFdFT1FRS2pPdmlZWkROVnFRaGNZ0gHkAUFVX3lxTE1EWC12Z01LaGVrS2VpSC1mRmtlb041YWVwcklmdXpfNWJtT0VYckVxUFZpRjdPMDhMenRnVUx6VEFmQ0dNcXR6Rnc0YWg5dzVtNGRqTkt1bmxLZmlCRzh6dVQ1TEpvb2JpTHlUMnBzazBHWFJ3b19TSHBZQXQyWHBkTHNaNWlZV3pKdE55OHVVOXlCYUUyREVFSl9PR1FxMXNzeWJpd1VGOVFlM09VYWFESkVKemVsemxSdlpUaV9ZX0VEeWgtRUdrb2JHUHp5Y1N0d1hPdDFsRXlJUzdnTkdZZ1dmMA?oc=5
+
+- Economists Are Drawing Stronger Connections Between A.I. and Jobs - The New York Times
+  Economists are Drawing Stronger Connections Between A
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXh2dFhNVHlqNXV6MC11ck8xZHk4b0ZoNTByMXJhdzI1UGdtR25feXkwTU8taVQ1YWFWVXVHYW0wUzNMM1NYRVBsVmpURDdRdm40ZXc2ZjlQZUNUNFFYdkttb2NNclcxS1ZfMFpaYTNhSm8tUWRlaHZibEZwQ1QtYVdqME1HalNBcDU2cFFYd1U3LU1UQ2FtMHRFMDlFdmQxUzluSGl1eTE1QVN2?oc=5
+
+- Under the Skin of America’s Humanoid Robots: Chinese Technology - wsj.com
+  Under the Skin of America’
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
 
 
-_Last updated: 2026-04-03 12:56:46 UTC_
+_Last updated: 2026-04-03 18:44:03 UTC_
