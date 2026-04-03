@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Rajya Sabha passes Jan Vishwas Bill; have tried to bring swift and proportionate penalties, says Goyal
+- 33 days, no answers: Family of India’s first West Asia war casualty moves Bombay HC to bring sailor’s body home
   
-  🔗 https://indianexpress.com/article/india/rajya-sabha-passes-jan-vishwas-bill-have-tried-to-bring-swift-and-proportionate-penalties-says-goyal-10616203/
+  🔗 https://indianexpress.com/article/india/33-days-no-answers-family-of-indias-first-west-asia-war-casualty-moves-bombay-hc-to-bring-sailors-body-home-10616169/
 
-- Raghav Chadha’s video message after AAP removes him from key post
+- Kerala Assembly polls: In industrial hub on comeback trail, snapshots of a campaign
   
-  🔗 https://indianexpress.com/article/india/raghav-chadha-aap-rajya-sabha-deputy-leader-removed-video-evil-eye-emoji-10615945/
+  🔗 https://indianexpress.com/article/india/kerala-assembly-polls-in-industrial-hub-on-comeback-trail-snapshots-of-a-campaign-10616357/
 
-- Poll body hands over Bengal probe to NIA after judicial officers attacked
+- Why Bihar govt letter on Z-plus security for Nitish Kumar irks his JDU colleagues
   
-  🔗 https://indianexpress.com/article/india/ec-hands-over-bengal-probe-to-nia-10616107/
+  🔗 https://indianexpress.com/article/india/why-bihar-govt-letter-on-z-plus-security-for-nitish-kumar-irks-his-jdu-colleagues-10616310/
 
-- Oil jumps 7percent after Trump warns of fresh Iran strikes; petrol prices fluctuate in India
+- India flags ‘unimpeded transit’, 60-nation meet calls for reopening Hormuz
   
-  🔗 https://indianexpress.com/article/india/business-economy-oil-prices-surge-brent-crude-108-trump-iran-remarks-petrol-diesel-rates-india-march-2026-10615384/
+  🔗 https://indianexpress.com/article/india/west-asia-war-us-iran-india-flags-unimpeded-transit-60-nation-meet-calls-for-reopening-hormuz-10616222/
 
-- India’s defence exports increased by 62.66% in 2025-26 to reach all-time high of Rs 38,424 crore: Ministry
+- Governance today needs new capabilities: Mishra
   
-  🔗 https://indianexpress.com/article/india/india-defence-exports-increased-2025-26-ministry-10616024/
+  🔗 https://indianexpress.com/article/india/governance-today-needs-new-capabilities-mishra-10616396/
 
 - Tech and gadget launches today (April 2, 2026):Vivo V70 FE, Ambrane introduces semi-solid battery pack, and more
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/apple-macbook-neo-review-price-india-specs-windows-comparison-10614704/
 
-- Emami to acquire 100% stake in Axiom Ayurveda, maker of Alofrut flavoured drink: Here are the details
-  Emami is set to acquire the remaining stake in Axiom Ayurveda for up to  �
-  🔗 https://www.livemint.com/companies/news/emami-to-acquire-100-stake-in-axiom-ayurveda-maker-of-alofrut-flavoured-drink-here-are-the-details-11775140297055.html
+- Faith tech firms chase growth in $35 billion market with product push
+  As digital spirituality platforms expand into commerce, they are testing whether products can drive retention and revenue while navigating
+  🔗 https://www.livemint.com/companies/faith-tech-firms-chase-growth-in-35-billion-market-with-product-push-vama-astrotalk-faith-religious-products-11775110778352.html
 
-- TVS Venu Group to acquire PGIM's India asset management unit
-  PGIM India AMC, formerly DHFL Pramerica Mutual
-  🔗 https://www.livemint.com/companies/tvs-venu-group-acquires-pgim-india-asset-management-mutual-funds-deal-11775143312439.html
+- The-US Iran war opens a rare sweet spot for India’s space startups
+  Geopolitical tensions are fueling a
+  🔗 https://www.livemint.com/companies/start-ups/india-space-startups-capitalize-global-satellite-surveillance-demand-11775116568538.html
 
-- Cyrus Poonawalla buys Ravi Varma painting for  ₹167 crore: Check Serum Institute founder's net worth, assets
-  Cyrus Poonawalla made headlines after buying Ravi Varma's famous painting, Yashoda and Krishna, for  ₹167.2 crore. Here's
-  🔗 https://www.livemint.com/companies/people/cyrus-poonawalla-buys-ravi-varma-painting-for-rs-167-crore-check-serum-institute-founders-net-worth-assets-11775142386447.html
+- Exodus, revenue strain cloud Birlasoft CEO's Angan Guha’s turnaround plan
+  Under Angan Guha’s watch, Birlasoft's revenue grew at a CAGR of 3.35% between FY
+  🔗 https://www.livemint.com/companies/news/exodus-revenue-strain-cloud-birlasoft-ceos-angan-guha-s-turnaround-plan-11775129269554.html
 
-- Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations
-  Tesla sales rise after brutal year of Musk boycotts
-  🔗 https://www.livemint.com/companies/tesla-sales-rise-after-brutal-year-of-musk-boycotts-but-still-fall-short-of-expectations-11775139821012.html
+- In a shifting world, this is India’s leadership moment, says McKinsey global chief
+  Resilience, talent and new technology opportunities could help India lead in a volatile and multipolar global economy.
+  🔗 https://www.livemint.com/companies/news/india-leadership-moment-mckinsey-global-md-sternfels-ai-trade-11775130730085.html
 
-- Emcure halves price of its semaglutide weight loss drug Poviztra after Novo Nordisk patent expiry — check new rates
-  Emcure Pharmaceuticals has reduced the price of its weight management drug Poviztra. The move follows increased competition after semagl
-  🔗 https://www.livemint.com/companies/news/emcure-cuts-price-of-novo-nordisks-weight-loss-drug-nearly-in-half-check-new-rates-11775134040439.html
+- Ex-Centerview Banker Gets Deal to End US Insider-Trading Case
+  Federal prosecutors have reached a settlement to eventually drop criminal charges against a former Centerview Partners LLC investment banker. She was accused of participating in an international insider-trading
+  🔗 https://www.livemint.com/companies/excenterview-banker-gets-deal-to-end-us-insider-trading-case-11775158175582.html
 
-- India’s share in global market cap slips to 3% in March amid Middle East war concerns: Report
-  India's share of global market capitalization dropped to 3% in March 2026, marking a three-year low. The Nifty 50 plunged 11.3%, and foreign investors withdrew a record  �
-  🔗 https://www.livemint.com/market/stock-market-news/indias-share-in-global-market-cap-slips-to-3-in-march-amid-middle-east-war-concerns-report-11775122879611.html
+- Stock market holiday: Are BSE, NSE closed today for Good Friday 2026?
+  The stock market holiday calendar on the BSE and National Stock Exchange (NSE) shows April 3 as a trading holiday for Good Friday.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-are-bse-nse-closed-today-for-good-friday-2026-11775178165258.html
 
-- Tesla shares drop over 4.5% as Q1 deliveries and production miss estimates
-  Tesla delivered 358,023 vehicles, down 14.4% from the previous quarter. The company is facing weak demand and rising competition in the US and globally.
-  🔗 https://www.livemint.com/market/stock-market-news/tesla-shares-drop-over-4-5-as-q1-deliveries-and-production-miss-estimates-11775140959771.html
+- Bitcoin Lingers Near Lower Bound of Trading Range Amid Conflict
+  Bitcoin trades near the lower bound of its more-than-a-month-long trading range
+  🔗 https://www.livemint.com/market/bitcoin-lingers-near-lower-bound-of-trading-range-amid-conflict-11775163860878.html
 
-- Gold, silver rates today: Comex gold drops $233/oz; silver falls $6.4/oz as Trump signals escalation in Iran conflict
-  Gold and silver futures saw significant declines as investor confidence waned due to fears of inflation and potential rate hikes.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-233-oz-silver-falls-6-4-oz-as-trump-signals-escalation-in-iran-conflict-11775135778900.html
+- Dollar rises against peers on renewed concerns about Middle East conflict
+  Dollar rises against peers on
+  🔗 https://www.livemint.com/market/dollar-rises-against-peers-on-renewed-concerns-about-middle-east-conflict-11775159036992.html
 
-- Rupee jumps the most in nearly 13 years after RBI’s forex curbs, outlook uncertain
-  The local unit touched a high of 92.82, before it closed at 93.1050
-  🔗 https://www.livemint.com/market/rupee-rebounds-after-rbi-s-sweeping-forex-curbs-but-outlook-hinges-on-global-cues-11775136434798.html
+- Oil prices surge, as stocks tumble on Iran war worry
+  Oil prices surge, as
+  🔗 https://www.livemint.com/market/oil-prices-surge-as-stocks-tumble-on-iran-war-worry-11775157551306.html
 
-- Wall Street recovers most early losses as investors monitor efforts to restore Strait of Hormuz
-  The Dow Jones Industrial Average fell 0.30%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-lower-as-crude-oil-surges-after-trump-s-aggressive-comments-on-iran-11775138489096.html
+- Wall Street inches lower as investors assess Middle East developments
+  Wall Street inches lower as investors assess Middle
+  🔗 https://www.livemint.com/market/wall-street-inches-lower-as-investors-assess-middle-east-developments-11775155888475.html
 
 - Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute
   Trump administration appeals ruling that blocked Pentagon action
@@ -100,6 +100,10 @@
   OpenAI's upcoming AI model ‘Spud’ is a result of two years of research. The new model will serve as a foundational
   🔗 https://www.livemint.com/technology/tech-news/what-is-openai-s-spud-greg-brockman-teases-new-chatgpt-model-build-on-years-of-research-11775105908398.html
 
+- US Stocks | US stocks end mixed as Iran war worries linger before Holiday break
+  U.S. stocks closed mixed on Thursday, paring earlier losses. Investor sentiment steadied after Iran and Britain signaled de-escalation. Utilities rose, while consumer discretionary stocks slid.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-end-mixed-as-worries-linger-before-holiday-break/articleshow/129988619.cms
+
 - RBI clears Emirates NBD to acquire up to 74% stake in RBL Bank; lender to become foreign bank post acquisition
   Emirates NBD has received RBI approval to acquire up to 74% stake in RBL Bank. Voting rights will be capped at 26%, while regulatory relaxations facilitate the transition.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-clears-emirates-nbd-to-acquire-up-to-74-stake-in-rbl-bank-lender-to-become-foreign-bank-post-acquisition/articleshow/129983475.cms
@@ -116,89 +120,65 @@
   Tesla missed Wall Street expectations for first-quarter deliveries on Thursday. The company reported its weakest numbers in four quarters.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tesla-shares-slide-4-after-first-quarter-deliveries-miss-estimates/articleshow/129981851.cms
 
-- EPC player Sadbhav Futuretech files draft papers with Sebi for IPO
-  EPC solar player Sadbhav Futuretech has filed its draft papers with Sebi for an IPO. The company plans to use the proceeds for working capital.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/epc-player-sadbhav-futuretech-files-draft-papers-with-sebi-for-ipo/articleshow/129981768.cms
-
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  India Joins 60 Countries' Effort
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
-
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
-
-- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
-  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
-  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
 
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
-  As Iran War Jolts Pakistan's Economy, India Acts as Key St
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
+- Surpur paintings: A 400-year-old North Karnataka legacy - The Times of India
+  Surpur paintings: A 400-year
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWhWTHV2UkJwdU9vYjEteTRpNS1DMUJZaFM3VGlzaW5wRzU2Q0pKb1h6VWdfSUppeEhOc1RUNWNGcGl1ZUtNQmJ6OWJhLUJPcGRjNkYxODAxS3F1eDUxN1FxRVNZcXFpZlRfY3dZbklLTlRJczk4VUU2aThZM3RwaUlWbTk2eXdVdW1maURMQlU0OHFhR19aZzItNl9DYlN6R2lEbi1DckdRNTdhQnlFUUtVcURfbU52QUFlOGxoMNIBxAFBVV95cUxNRVluMkdzd2RzOEhKVG5XU09ZaUxHY1E5c0xCc3lfOTl0OUdUN0FkdEtLbzNWLUhyWGtGN1I3YWpZNVlhUFNaRGJXMVplMlZnY1VUQlJ1NkZHMl9pUF9kSHVKQUxCRmoyR25CVGtSN0ZnVTg2eF9jeEkwRERrRHdhR2JVenBxb0FmVlAyY01HX01aX1FnaEpxWkNMS1YyTHZrWXpfTml1aTYwYmM0eEpWSS1LNVd1RlNDTlgtR1hPOFF3VVR4?oc=5
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  India Joins 60 Countries' Effort
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
-  "Our Indian Friends In Safe Hands, No Wor
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
-
-- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
-  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
-  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
-
-- History’s biggest census: Why India’s new population count is controversial - Al Jazeera
-  India's new population count is controversial. The
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
-
-- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
-  As Iran War Jolts Pakistan's Economy, India Acts as Key St
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
-
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  India Joins 60 Countries' Effort
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- Congress MLA gets 3 year jail in fraud case - The Times of India
+  Congress MLA gets 3 year jail in fraud case.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDdoSlYyMDJ0dG50WHozUmFBaGF5MXREakdLckd0Qi1QR2xidEV3MUIwU0J2TG54MXg1M2t4U21YNzBfalE1MndIRXk4UGFURnJrbnZTUnd2M1lnSmM4UkNBaF82VUxtS0cwMUF5ZXE4a2pPZDRmNEcycnNyTDZ6R1VMTE9vcFdxWlJUblotcG1LMGdSbWxpRGo4LTc3VERuX1Z0YlBGSHZCdW1DTmJTQdIBtgFBVV95cUxPTXZSWWt1TWpBWnk4SURlMmRpVExjazBqc0c2YkdRd2dOOU40V3FhUnZxcGdtejN0c2lZdnltd2pEQWhMSTExZmpPWUZEa19PbTJuSHI3RmFvVUJ4bUVTaXZ0bkI1ZWdreEVacnpRN2lvMnA2N0JfWWc1RUQ5NG4xUkVCRWJFd1N0MGNPSTBxaE9mVVpYYlhGdUxlMVZjXzdGbzVjRVdraWRDTE5ERWJzZEQ2OEYtUQ?oc=5
 
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
 
-- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
-  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
-  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
-
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
-  As Iran War Jolts Pakistan's Economy, India Acts as Key St
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
+- Surpur paintings: A 400-year-old North Karnataka legacy - The Times of India
+  Surpur paintings: A 400-year
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWhWTHV2UkJwdU9vYjEteTRpNS1DMUJZaFM3VGlzaW5wRzU2Q0pKb1h6VWdfSUppeEhOc1RUNWNGcGl1ZUtNQmJ6OWJhLUJPcGRjNkYxODAxS3F1eDUxN1FxRVNZcXFpZlRfY3dZbklLTlRJczk4VUU2aThZM3RwaUlWbTk2eXdVdW1maURMQlU0OHFhR19aZzItNl9DYlN6R2lEbi1DckdRNTdhQnlFUUtVcURfbU52QUFlOGxoMNIBxAFBVV95cUxNRVluMkdzd2RzOEhKVG5XU09ZaUxHY1E5c0xCc3lfOTl0OUdUN0FkdEtLbzNWLUhyWGtGN1I3YWpZNVlhUFNaRGJXMVplMlZnY1VUQlJ1NkZHMl9pUF9kSHVKQUxCRmoyR25CVGtSN0ZnVTg2eF9jeEkwRERrRHdhR2JVenBxb0FmVlAyY01HX01aX1FnaEpxWkNMS1YyTHZrWXpfTml1aTYwYmM0eEpWSS1LNVd1RlNDTlgtR1hPOFF3VVR4?oc=5
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  India Joins 60 Countries' Effort
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
+
+- Congress MLA gets 3 year jail in fraud case - The Times of India
+  Congress MLA gets 3 year jail in fraud case.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDdoSlYyMDJ0dG50WHozUmFBaGF5MXREakdLckd0Qi1QR2xidEV3MUIwU0J2TG54MXg1M2t4U21YNzBfalE1MndIRXk4UGFURnJrbnZTUnd2M1lnSmM4UkNBaF82VUxtS0cwMUF5ZXE4a2pPZDRmNEcycnNyTDZ6R1VMTE9vcFdxWlJUblotcG1LMGdSbWxpRGo4LTc3VERuX1Z0YlBGSHZCdW1DTmJTQdIBtgFBVV95cUxPTXZSWWt1TWpBWnk4SURlMmRpVExjazBqc0c2YkdRd2dOOU40V3FhUnZxcGdtejN0c2lZdnltd2pEQWhMSTExZmpPWUZEa19PbTJuSHI3RmFvVUJ4bUVTaXZ0bkI1ZWdreEVacnpRN2lvMnA2N0JfWWc1RUQ5NG4xUkVCRWJFd1N0MGNPSTBxaE9mVVpYYlhGdUxlMVZjXzdGbzVjRVdraWRDTE5ERWJzZEQ2OEYtUQ?oc=5
 
 - "Our Indian Friends In Safe Hands, No Worries": Iran On Hormuz Blockade - NDTV
   "Our Indian Friends In Safe Hands, No Wor
   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTlVYOGMzZkVBX09VTzdpU0JzZG1YcXdfQ3lyemhsVzNBcGloQlBoeVBFa1B2OGdIa1dRMHU4N3JxcjFmRWJ6TUNHejgyYnpYbmlJQlI4eWhaY0dYbzBIOHhxWTRUdzNETTJ1NGxSVWN2Mm55SkxwUVA5ejlwMzRVWF9PSFpPM3R6c29YXy1RRkRpMVk2bDZvdDlXdEw5VXZNd3B5OWNOazBYN0NwZ1JpdkxnU1NCdmFvVFNWWVY5MXJWQzMxdTJuQnFIYlROekVHTDFIbjFCRlNfUdIB4gFBVV95cUxPcDU4MmNVcGVDdkZGQmg1NERsYkZHTVVMX3FmSE85YlpTeU43Vk84aF93TVRfa010SllrRDhXYlM5Y2pNR05aZEN1MlZNZzJrblhGYm90RjUwYTFEM0YyWmx3QkZibjZLNnlmdFVuRWFnY3pvNkJLY0lFNVhJTFNpeXVWbmtxUngySUhzbV90Y3ltQUdNRl9FOXMzalZDZXVqRmJQcDhUZWxMQUxESEx2NWxKT2d6TnEwODRWUS1uN0lCdndqRlhiRFpkN0tNUS1NQmFzWU5zb2dEU1ZFb21MLW9B?oc=5
 
-- US-Israel-Iran War News Live Updates: Iranian President Pezeshkian questions attacks on hospitals, research center; urges WHO to act - The Times of India
-  The Times of India reports that the Iranian government is planning to strike back at the Israeli strikes.
-  🔗 https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcDhLTFJlWUFxdzdJUjJ4aUJIVzI5NURhdDU3Ym84T2otd0dQYlhUX3ZndWxiaTBhOXlkSWt2M1pmTWxvR0ZHa2p1emJ5VG1KOFVXZWpPZ1RPaXpuZWpGUF83U2FqWXhaREdId1FlVTJpY0lzUmpJbEJpQ2VTdWVYQW80SHF4SzRrZlM3NUhPVzczRkFIWGd3VFdxblN4QzViREJoZDRYTjZFSWFvTG9TNzdlekVfS3lFQzdEYnlJNVV2OW9pSlIxUTU0dXpBMUVDbkl1VkFlN2t0TDZMWXNnZklia3lGZ3JqNU5Ob3h4ZFE2WFMtOWx5a2UyUGtQUWx6SXN3czJFODVKOWlDWkswOThyX0Vvb1VELXFFakptdWF2cWpSVkFMcHdNRDRocmVqTjYxR2tIQ3pXU240Z05pLVpNN3pIemV2Z29qcnJERkF0Rm1DbVBr0gHcAkFVX3lxTFBfWkdMcWhTNFQ3N2xZR0Z4dTFUVkU2eFQxcXMtYUlTTjd5bkV6bnNILWxfdFRxU3BBeUg2OVpJY29ETzRVekZsa0ZFbTJhb1RDMDZUckRnZTMyY0w4Y3RsWjFjUXBzSmVEWjNrNjNfa1Ezb0RHUy10Q1FqVDloUERES0NCakotU3dtTklTc1RWVDBkc0JNMzlJbUtzQXJTYnVuQ3lLQjV3UmFmQUVpYlRBdThfMlkxVUYxMUZ1WTd6djljSzRZRmFWRS1iYThlc21DMlZqQXVvR2czTzR2OWpfSUtKWDI3VG90UWxtaFpRdkZHUUVKcEc1WnQ3WTcwODNkTGlndUJiUEhNVWpUeGtDcjBqSkpjR19GakhSX1dULXdNNGI5cDVwSjBfdVB3bE9DY1ktUXpHZjgxN1ZZQm9aSk9uTnJYOXU0NUEya2taT1ZiZWpJRUc2aFBfMw?oc=5
-
 - History’s biggest census: Why India’s new population count is controversial - Al Jazeera
   India's new population count is controversial. The
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOa25FU3ZIT0c2eTBKeWUzM19XWVhOa3RLOFJFNnRGYl90T3RMMl83TVhJTVpKWG5YSHdkeXMwQmxDSjNlSHVzT05JS0ZEQ2FPQVRub2F5OWhkdWJWNTdtZDdlcnVVUHNzX0R2MlVqRXJFR2VyY3pvU3Z0RGFuRkpfU2lfTkk3ZzRLeDUwWGx1NEt4SXJiT1Qwc1FZalNROWZlYXFFT2FQSlVQLTUzVEc2RGlB0gG3AUFVX3lxTFBfS2lIbmhnWWJ0S3pZTk1pVXJxT0Q4aXVKanVONkI5YXNpRVlWWHR2TnZIVFFOM3JPQWJBQmxTaGNmNEc3blNvTEtUX2RLcXJNUURveDlCN0NuMjMyM0p5LS1QZU1YUndtLVVJNVVuWjVENjAyN0dwNWkzZ3BxZzBRRVFmS2dqNy1nUXM0ZWtESWFoRHNGb0lmbUtWeDVhY2NvX0kxUE9qZ0ZDdHhpSlpsdzBLUnZGbw?oc=5
 
-- As Iran War Jolts Pakistan's Economy, India Acts as Key Stabiliser for Neighbours - The Times of India
-  As Iran War Jolts Pakistan's Economy, India Acts as Key St
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMW9uTGVLb1FlYk84c1UwUXNTMVo2aHg0LS1Na29ycWlWQzdrWGZZRnBJUXRMbWpvbm55SWI4WjR2YkdCWmx2WHRmT01LOXRwU1g4dFhJV29wQ3MxNnVMYzhiSWprcTlXdnhKM2RPWExDVW85XzR5MWhkTzJ4bjRtcGlUWmh6NXFIbGV5WDdjTG92Tm5jZ0F1YUhqRHZqMmdqQjloMU1UVGdET3ZyYlVGbGxoX3FTd0htNGwwN3BSaHRDUU9Jb1NOeS1adHZBaS1GV1BHczFDQUt3ejFyN2tiWm8wemFiZw?oc=5
+- Surpur paintings: A 400-year-old North Karnataka legacy - The Times of India
+  Surpur paintings: A 400-year
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWhWTHV2UkJwdU9vYjEteTRpNS1DMUJZaFM3VGlzaW5wRzU2Q0pKb1h6VWdfSUppeEhOc1RUNWNGcGl1ZUtNQmJ6OWJhLUJPcGRjNkYxODAxS3F1eDUxN1FxRVNZcXFpZlRfY3dZbklLTlRJczk4VUU2aThZM3RwaUlWbTk2eXdVdW1maURMQlU0OHFhR19aZzItNl9DYlN6R2lEbi1DckdRNTdhQnlFUUtVcURfbU52QUFlOGxoMNIBxAFBVV95cUxNRVluMkdzd2RzOEhKVG5XU09ZaUxHY1E5c0xCc3lfOTl0OUdUN0FkdEtLbzNWLUhyWGtGN1I3YWpZNVlhUFNaRGJXMVplMlZnY1VUQlJ1NkZHMl9pUF9kSHVKQUxCRmoyR25CVGtSN0ZnVTg2eF9jeEkwRERrRHdhR2JVenBxb0FmVlAyY01HX01aX1FnaEpxWkNMS1YyTHZrWXpfTml1aTYwYmM0eEpWSS1LNVd1RlNDTlgtR1hPOFF3VVR4?oc=5
+
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
+
+- Congress MLA gets 3 year jail in fraud case - The Times of India
+  Congress MLA gets 3 year jail in fraud case.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDdoSlYyMDJ0dG50WHozUmFBaGF5MXREakdLckd0Qi1QR2xidEV3MUIwU0J2TG54MXg1M2t4U21YNzBfalE1MndIRXk4UGFURnJrbnZTUnd2M1lnSmM4UkNBaF82VUxtS0cwMUF5ZXE4a2pPZDRmNEcycnNyTDZ6R1VMTE9vcFdxWlJUblotcG1LMGdSbWxpRGo4LTc3VERuX1Z0YlBGSHZCdW1DTmJTQdIBtgFBVV95cUxPTXZSWWt1TWpBWnk4SURlMmRpVExjazBqc0c2YkdRd2dOOU40V3FhUnZxcGdtejN0c2lZdnltd2pEQWhMSTExZmpPWUZEa19PbTJuSHI3RmFvVUJ4bUVTaXZ0bkI1ZWdreEVacnpRN2lvMnA2N0JfWWc1RUQ5NG4xUkVCRWJFd1N0MGNPSTBxaE9mVVpYYlhGdUxlMVZjXzdGbzVjRVdraWRDTE5ERWJzZEQ2OEYtUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-02 18:55:22 UTC_
+_Last updated: 2026-04-03 01:56:46 UTC_
