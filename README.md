@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- ‘We don’t do soft PR’: AAP hits back with ‘samosa’ jab after Raghav Chadha’s ‘silenced’ video
+- Odisha BJP, BJD leaders unite in demanding rollback of move to shrink South Coast Railway
   
-  🔗 https://indianexpress.com/article/india/aap-vs-raghav-chadha-soft-pr-samosa-jab-silenced-video-10616804/
+  🔗 https://indianexpress.com/article/india/odisha-bjp-bjd-unite-rollback-shrink-south-coast-railway-10617493/
 
-- Madhya Pradesh midnight drama: Congress chief storms Assembly as Datia MLA is disqualified
+- India’s fastest Metre Gauge train completes 59 years of service: Check name, route, stoppages
   
-  🔗 https://indianexpress.com/article/india/congress-chief-assembly-datia-mla-disqualified-10616792/
+  🔗 https://indianexpress.com/article/india/indias-fastest-metre-gauge-train-completes-59-years-of-service-check-name-route-stoppages-10617300/
 
-- After family claimed Kashmiri man killed by Army had no terror links, LG orders magisterial inquiry
+- BJP candidates list for Tamil Nadu elections 2026: Find the full list here
   
-  🔗 https://indianexpress.com/article/india/kashmiri-army-terror-lg-orders-magisterial-inquiry-10616760/
+  🔗 https://indianexpress.com/article/india/bjp-candidates-list-tamil-nadu-elections-2026-full-list-here-10617341/
 
-- YSRCP opposes single-capital model after Andhra Bill becomes law, pushes three-capital plan and ‘Plan B’
+- Railway Board approves new route for Amritsar-Katra Vande Bharat train – Check stoppages, timings
   
-  🔗 https://indianexpress.com/article/india/ysrcp-opposes-single-capital-model-andhra-bill-law-three-capital-plan-10616759/
+  🔗 https://indianexpress.com/article/india/railway-board-approves-new-route-for-amritsar-katra-vande-bharat-train-check-stoppages-timings-10617035/
 
-- Bank holiday today: Are banks open on Good Friday? List of full bank holidays in April 2026
+- Tea at Rs 10, Samosa at Rs 20: UDAN Yatri Cafe expands to 24 Airports – Full list
   
-  🔗 https://indianexpress.com/article/india/bank-holiday-today-good-friday-list-of-holidays-in-april-2026-10616700/
+  🔗 https://indianexpress.com/article/india/tea-at-rs-10-samosa-at-rs-20-udan-yatri-cafe-expands-to-24-airports-full-list-10617102/
 
-- Artemis II Day 2: Crew begins journey to the Moon after key engine burn
+- Sam Altman’s OpenAI just bought popular talk show TBPN, and they’re killing its $30 million ad business
   
-  🔗 https://indianexpress.com/article/technology/science/artemis-ii-day-2-crew-begins-journey-to-the-moon-after-key-engine-burn-10616844/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-acquires-tbpn-deal-details-ai-industry-impact-10617423/
 
-- iPhone 17 at Rs 44,768: Croma’s ‘Everything Apple’ sale returns with big discounts
+- Google now allows you to control avatars through prompts in its Vids app
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-17-at-rs-44768-cromas-everything-apple-sale-returns-with-big-discounts-10616805/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-now-allows-you-to-control-avatars-through-prompts-in-its-vids-app-10617432/
 
-- Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism
+- Think your password is safe? It might be easier to crack than you think
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/crisis-contractor-for-openai-anthropic-eyes-a-move-to-combat-extremism-10616636/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-weak-passwords-remain-a-major-digital-threat-10617433/
 
-- Who is Amit Kshatriya: NASA’s systems man at the centre of a new space push
+- Gemma 4 explained: How Google is bringing AI to more developers
   
-  🔗 https://indianexpress.com/article/world/who-is-amit-kshatriya-nasas-systems-man-at-the-centre-of-a-new-space-push-10616494/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/gemma-4-explained-how-google-is-bringing-ai-to-more-developers-10617383/
 
-- Under global spotlight, Australia plays hardball on social media ban
+- Microsoft’s new AI transcription model beats Google Gemini 3.1 Flash: Here’s how little it costs
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/under-global-spotlight-australia-plays-hardball-on-social-media-ban-10616622/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-mai-transcribe-1-launch-accuracy-price-features-10617165/
+
+- Consumer megadeals make a rare comeback in the first quarter
+  CNN.
+  🔗 https://www.livemint.com/companies/consumer-megadeals-make-a-rare-comeback-in-the-first-quarter-11775217703508.html
+
+- HDFC Bank may not take legal action on Atanu Chakraborty, to focus on issues raised in resignation letter — Report
+  HDFC Bank's Board of Directors has mandated external law firms to independently examine governance processes. While the chances to seek damages from Chakrab
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-may-not-take-legal-action-on-atanu-chakraborty-to-focus-on-issues-raised-in-resignation-letter-report-11775206045948.html
+
+- Elon Musk's SpaceX eyes more than $2 trillion valuation in likely record-breaking IPO: Report
+  SpaceX submitted its draft papers for a public listing earlier this week. The company aims for an IPO valuation over $2 trillion.
+  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-eyes-more-than-2-trillion-valuation-in-likely-record-breaking-ipo-report-11775198422178.html
 
 - Microsoft plans $10 billion investment in Japan to grow AI,  train 1 million workers by 2030
   Microsoft will train 1 million engineers and developers by 2030. The plan was unveiled during a visit to Tokyo by Vice Chair and President Brad Smith.
@@ -48,37 +60,29 @@
   Myntra CEO Nandita Sinha will step down after over a decade. Sharon Pais is likely to replace her.
   🔗 https://www.livemint.com/companies/news/who-is-sharon-pais-flipkart-executive-likely-to-take-over-as-myntra-ceo-after-nandita-sinha-exits-11775187528317.html
 
-- OpenAI expands into media with TBPN acquisition — read Fidji Simo's full message to team
-  The acquisition of TBPN came as somewhat of a surprise, given that OpenAI had not previously indicated any plans to enter the media business.
-  🔗 https://www.livemint.com/companies/news/sam-altmans-openai-buys-tech-news-talk-show-tbpn-agi-deployment-ceo-fidji-simo-full-memo-to-employees-11775190315066.html
+- MCX silver price crashes 47% from peak. Can it fall below  ₹2 lakhs?
+  MCX silver has fallen nearly 47% from its peak, reflecting profit booking amid geopolitical tensions. Prices dropped significantly on April 2, with futures down 4
+  🔗 https://www.livemint.com/market/commodities/mcx-silver-price-crashes-47-from-peak-can-it-fall-below-rs-2-lakhs-11775214109974.html
 
-- Faith tech firms chase growth in $35 billion market with product push
-  As digital spirituality platforms expand into commerce, they are testing whether products can drive retention and revenue while navigating
-  🔗 https://www.livemint.com/companies/faith-tech-firms-chase-growth-in-35-billion-market-with-product-push-vama-astrotalk-faith-religious-products-11775110778352.html
+- Upcoming IPO: Punjab Carbonic files DRHP with SEBI to raise funds through public issue
+  Punjab Carbonic Limited has filed its Draft Red Herring Prospectus for an IPO of up to 95 lakh equity shares
+  🔗 https://www.livemint.com/market/stock-market-news/upcoming-ipo-punjab-carbonic-files-drhp-with-sebi-to-raise-funds-through-public-issue-11775214239862.html
 
-- The US-Iran war opens a rare sweet spot for India’s space startups
-  Geopolitical tensions are fueling a
-  🔗 https://www.livemint.com/companies/start-ups/india-space-startups-capitalize-global-satellite-surveillance-demand-11775116568538.html
+- Banking rout deepens: Nifty Bank down 16% in 5 weeks amid macro headwinds; 8 index stocks slip into bear territory
+  Indian banking stocks are facing pressure from rising yields, RBI limitations, and inflation fears. Many stocks have entered bear market territory as investors worry about future profitability.
+  🔗 https://www.livemint.com/market/stock-market-news/banking-rout-deepens-nifty-bank-down-16-in-5-weeks-amid-macro-headwinds-8-index-stocks-slip-into-bear-territory-11775212168592.html
 
-- Gold, silver rates today: Check 24K, 22K gold, 999 silver rates on 3 April in your city — Delhi, Mumbai, others
-  On April 3, gold rates in India were stable with 24-carat gold priced at  ₹1,49,210/10 gm and silver
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-check-24k-22k-gold-999-silver-rates-on-3-april-in-your-city-delhi-mumbai-others-11775198860775.html
+- Upcoming IPO: Kay Jay Forgings files draft papers with SEBI for  ₹360 crore IPO
+  Kay Jay Forgings has filed a draft red herring prospectus with SEBI for an IPO. Funds will support capital expenditures and debt reduction.
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-kay-jay-forgings-files-draft-papers-with-sebi-for-rs-360-crore-ipo-11775212436334.html
 
-- Upcoming IPO: Punjab Carbonic, Sadbhav Futuretech, Bvishal Oil and Energy files draft papers with SEBI for IPO
-  Punjab Carbonic, Sadbhav Futuretech, and Bvishal Oil have filed draft red herring prospectuses for IPOs with SEBI. Funds
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-punjab-carbonic-sadbhav-futuretech-bvishal-oil-and-energy-files-draft-papers-with-sebi-for-ipo-11775197421551.html
+- Stocks to buy: Sumeet Bagadia recommends five breakout stocks after stock market rebound
+  Nifty 50 and Sensex recovered slightly after earlier declines, driven by rupee appreciation. Domestic equity markets are closed today for Good Friday. Sumeet Bagadia recommends five stocks to buy
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-sumeet-bagadia-recommends-five-breakout-stocks-after-stock-market-rebound-11775207425132.html
 
-- Blackstone-backed EPL unlocks new growth avenue with Indovida merger
-  EPL, the supplier of one out of every three toothpaste tubes globally, has lacked
-  🔗 https://www.livemint.com/market/mark-to-market/blackstonebacked-epl-new-growth-avenue-indovida-merger-toothpaste-tubes-rigid-packaging-revenue-synergies-11775194979350.html
-
-- Penny stock under  ₹10 to be in focus on Monday after this AI update
-  Silverline Technologies share price has crashed 56% in one month, and has dropped 1% on a year-to-date (YTD) basis. The
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-silverline-technologies-share-price-to-be-in-focus-on-monday-after-this-ai-update-11775197656733.html
-
-- HUL board to meet on April 30 to approve Q4, FY26 results; dividend in focus — details here
-  Hindustan Unilever's Board will meet on 30 April 2026 to review financial results for the year ending 31 March 2026. The company will also present to analysts after the meeting. HUL stock
-  🔗 https://www.livemint.com/market/stock-market-news/hul-share-price-in-focus-hul-sets-board-meeting-date-to-declare-dividend-q4-results-2026-details-here-11775195755110.html
+- OpenAI, Anthropic contractor Mercor targeted in major security breach — what data was stolen, who carried out the hack?
+  Mercor is one of Silicon Valley's hottest start-ups, valued at $10 billion. It works with AI companies, including OpenAI and Anthropic, to help train models.
+  🔗 https://www.livemint.com/technology/tech-news/openai-anthropic-contractor-mercor-targeted-in-major-security-breach-what-data-was-stolen-who-carried-out-the-hack-11775198590710.html
 
 - Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute
   Trump administration appeals ruling that blocked Pentagon action
@@ -96,169 +100,133 @@
   The V70 FE has a 1.5K AMOLED display, MediaTek Dimensity 7360 Turbo processor, and IP68/IP69
   🔗 https://www.livemint.com/technology/gadgets/vivo-v70-fe-with-200mp-camera-and-7-000mah-battery-launched-in-india-price-starts-at-rs-40999-11775114083114.html
 
-- What is OpenAI’s ‘Spud’? Greg Brockman teases new ChatGPT model built on years of research
-  OpenAI's upcoming AI model ‘Spud’ is a result of two years of research. The new model will serve as a foundational
-  🔗 https://www.livemint.com/technology/tech-news/what-is-openai-s-spud-greg-brockman-teases-new-chatgpt-model-build-on-years-of-research-11775105908398.html
+- Sobha Q4 biz update: Sales rise 11% YoY to Rs 2,039 crore as company closes FY26 with record figures
+  Sobha recorded Rs 2,039 crore in sales in Q4FY26, up 11% YoY. Bangalore contributed 51% and NCR Rs 610 crore. For FY26, the company achieved record annual sales of Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sobha-q4-biz-update-sales-rise-11-yoy-to-rs-2039-crore-as-company-closes-fy26-with-record-figures/articleshow/130000709.cms
 
-- Stock Market News, April 2, 2026: U.S. Oil Prices Post Largest One-Day Gain Since 2020 - WSJ
-  The WSJ reports that U.S. Oil Prices Post L
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXFicnluVTNIX3RGaFktRXg3clVNWUVYVTU0S0hVcHFmZWpsZUl0T19MVEFvcnFYVGN5OUlrbEJwUUR4UUkxUW8wNy1PV0lCZlJXU0xiOUtOQlpRMVFtTV9WbUlvdmFYN2ZLcEZFVksxWVhkLTd6Q2pSdjBsSzdsbUFhdFVfRjg?oc=5
+- Quote of the day by Warren Buffett: “Be fearful when others are greedy and greedy when others are fearful”
+  Warren Buffett’s iconic advice underscores the importance of contrarian thinking and emotional discipline in investing. By understanding market psychology and valuing assets during fear-driven sell-offs, investors can identify opportunities and manage risks.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-be-fearful-when-others-are-greedy-and-greedy-when-others-are-fearful/articleshow/130000406.cms
 
-- Markets News, April 2, 2026: Major Indexes Snap 5-Week Skids as Stocks Rebound from Early Rout; Oil Prices Jump on Iran War Concerns - investopedia.com
-  Markets News, April 2, 2026: Major Indexes Snap 5-Week Skids as St
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTdiWkxFUUR0Y2VVNTBqWF9KT29nM05SWkFGYVhibGhKbUcwUHlvbWRmOHJzdGZaNld2SWFYUVJoeUxXNXdlWXBDV0gzQnlKRXFuUGZVNTJiUW1Kd3RrLWhBVzVodFpFUXlKcDBmanc1SGVURl90Tm9mam1ELW5IR1RHd2hZak9mdXJWRUE4Nl8?oc=5
+- HDFC Securities sees muted Q4 for IT pack; picks Infosys, HCL and 5 more stocks for up to 57% gains
+  HDFC Securities expects a muted Q4 for Indian IT stocks, with tier-1 growth at -1.1 to +0.9% QoQ CC. It recommends seven stocks, including Infosys
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-securities-sees-muted-q4-for-it-pack-picks-infosys-hcl-and-5-more-stocks-for-up-to-57-gains/slideshow/130000297.cms
 
-- Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates - CNBC
-  Dow closes lower as Trump comments dampen traders' hopes for
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA4UVpPQ2VFbWlkQTkxbUlRcFVlaFlqOEJQOWp2WlJia1c4Zks3d1Jhd29kM2hHZW44VGllZUR3NS16LW5yZHhmTzU4R3lDeUppRXdjT2ZoNmM0ckRzUWlJUlRtbFhjd3l0UndtQURSWUpTRWdWWHBj0gF8QVVfeXFMT0g4OVFEel84Q2dtWjVITFozMlVoeXNBQnQ2LUl1OE02YkpkR0F3VWZva1gwQWtxUXlnVWt3dG14dG1yenNRVUl1Rl9CRmFqc2NZMm81ck5MYlBSLVR0VjY0blFLeHVMVU9VaGlVamVzMG5hYmRLeTZuZmVfTw?oc=5
+- Holiday Halt: Why US stock market is closed for trading on Friday
+  U.S. stock markets, including the NYSE and Nasdaq, will remain closed on Friday, April 3, 2026, for Good Friday. Bond markets will operate on reduced hours. Trading will resume on Monday, April 6
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-why-us-stock-market-is-closed-for-trading-on-friday/articleshow/129999991.cms
 
-- NDD Ban Explained: How NDD Ban Impacts Rupee Speculation and Forex Market Stability - Vajiram & Ravi
-  NDD Ban Explained: How NDD Ban Impacts Ru
-  🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9Kd2NaOGhPWmlmZkR3MlQzSWZuYWlvcjhsd0hCazE0d2lVVE1qQzEwREUyNHpKekJtQlk1N09nU3gyc1RIZXZrVkU5WXdNczRocEg2azFDYno1V1lnMEFudVRTOEw5aXZSaVlDb1BR?oc=5
+- SWP planning: 5 conservative hybrid funds that stood out over 3 years
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/swp-planning-5-conservative-hybrid-funds-that-stood-out-over-3-years/slideshow/129999440.cms
 
-- Bitcoin supply in profit heads to ‘true bear market’ levels - TradingView
-  Bitcoin supply in profit heads to ‘
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGN2S0ZZTTh4TmVQdXVjSERMZ0UtaXFCSHp6Q1pMR1J6Z2x6QkVkeDJKYVc2UTVYd3Z1VENMUnAwTXBzSDYtc0ZtVGxXUjAyU3dHUWJwSUVzQTI0QzRYalZIRGtGUEM5RHhqQzZCaGdaZFJsazdEWi1TYURpNzBSTzNfYlFrcWctS1F4SmVHRlhCUGVwdFdxdXpNWmhWdDc4MVFFWHFBVnNKSHVFMlQ0RXVvR1RkUzR1blBGOUVn?oc=5
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
 
-- Losing $1 billion a day: Gurmeet Chadha urges PMO, Finance Ministry to revisit capital gains tax, STT
-  Gurmeet Chadha has urged the government to revisit capital gains tax and STT. He claims India is losing nearly $1 billion daily since July 2024.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/losing-1-billion-a-day-gurmeet-chadha-urges-pmo-finance-ministry-to-revisit-capital-gains-tax-stt/articleshow/129995974.cms
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- ETMarkets Smart Talk | Renewables, defence to lead in FY27; infra and gas stocks offer high-risk opportunities: Siddarth Bhamre
-  Siddarth Bhamre expects renewables and defence to lead market performance in FY27. Infrastructure and gas stocks may offer high-risk opportunities post-correction. FII flows could recover in the second half, with valuations
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-renewables-defence-to-lead-in-fy27-infra-and-gas-stocks-offer-high-risk-opportunities-siddarth-bhamre/articleshow/129994961.cms
+- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
+  The INS Aridhaman will be India's 3rd nuclear sub.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
 
-- De-dollarisation, war, and debt: Why gold is regaining monetary relevance
-  Central bank buying, structural shifts in the financial system and weakening confidence in fiat currencies are driving demand. Despite short-term volatility, gold’s long-term outlook remains strong amid a transition towards a multipolar global economic
-  🔗 https://economictimes.indiatimes.com/markets/commodities/views/de-dollarisation-war-and-debt-why-gold-is-regaining-monetary-relevance/articleshow/129994795.cms
+- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
+  Russia offers to increase supply of crude oil, LNG to India amid war
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
 
-- Axis Bank to deepen insurance bet with Rs 389 crore infusion in Axis Max Life; stake seen at 19.99%
-   Axis Bank plans to invest Rs 389 crore in Axis Max Life, raising its combined stake to 19.99%. The move strengthens its insurance play as the sector expands.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-to-deepen-insurance-bet-with-rs-389-crore-infusion-in-axis-max-life-stake-seen-at-19-99/articleshow/129994737.cms
+- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
+  Rajnath Singh Commissions
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
 
-- The architecture of resilience: Why India’s private credit stands apart
-  India’s private credit market stands resilient amid global stress due to its conservative fund structures, strict leverage norms, and closed-ended AIF framework. Unlike global peers facing liquidity and redemption pressures, the system aligns investor
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/the-architecture-of-resilience-why-indias-private-credit-stands-apart/articleshow/129994601.cms
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYX
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
+  The INS Aridhaman will be India's 3rd nuclear sub.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
 
-- LPG Gas Cylinder Crisis in India Live Updates: Commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP) to meet rising demand - The Times of India
-  The commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP)
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxNblJ3MDZCMUw5d0h4dE81OHRFbm9wWklXVUQ1RVpGOXRNYktiZXBEWTY0Mjc5bkJDV3NhSzZYSVhVbThQaENjY0NuRzZKUDlLU2NWTVo4cGZya2hjRVY4cXlTLXRWR210S0Z4YjlJSGNtWEdVVkxxVHVWdzZMNVRMelVCd2VRRlotdXM5MkNTQ1FqOGY0bl94dEdfRDRWUTc0MS1kdnhXbjlOV2dRT1N0ZzNSNnpWWEFkMG9SSXZUY00zVUR5VmJERmw5MFVPRUpXdnI4Y2I5RzJwV3F6SFh5NTBRVklEaUd1Ti1LdmJKSE1vVVdubWtpbkZsUjNoUWxNcERadEROelVWWjdpejRJZTFpd0RmT0R2N1hyNDVSODVyYzZjQ21WdEFFMlM5VHAweWR4aXZuZy14aHlIXzdXaXVGWGt0M0REekZYY29QUWFWQm5uSHJmWGMySEJJWk9FN0k5bFVnZXbSAe4CQVVfeXFMT2lydWNTaEtVb1g0Ymx6UmdVay1seGVJVlBvMlpEU2hFSWZjVk9lUzZ1VXpMUGhMSDZsYVJmbWY1ZWtnUHh0cGVBa3JnNktONG1NNWVMX2MtMXNsU1g2M1VIOGxSS2VtM0pvU2RtS0pPT3poMEVSOWhtVHd1T1QwdGxBdmU0dzFkSzNtc3BVb3FHSzVNRzlKbGJlNUtKUzhPYzkwRHY5dXl6S2cxNUtsRUV0d0w4S29PZGQxWGNXcDRNLWhFdnB4RzZmWHpqLVVGdVJuWGk2dXV3dEVtU1hfbmtleFNXU1dTNE5uazAySnliM1JGeXl1NzFuNzhJak0zMEpZTVpBZ0lEYkNQaXp1WHB4cFhwcjVFbmo0MHQ3Ulg3M0lWUFAyWG9JQlBIbEZFVVk5a0RNSXFzSkcwOHlmb205SENjdERNc2x6c2Jnc1lULWlGX3VaTHBSMDdLUTdQRlE1RU1yUmFFZHhOUUtR?oc=5
+- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
+  Russia offers to increase supply of crude oil, LNG to India amid war
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
 
-- Bound for India initially, ship with Iranian crude now heads to China | India News - Hindustan Times
-  The ship with Iranian crude now heads to China. It was bound for
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOejBJeFJGRE5WTU8teUxmRjQwMkxoWmlGb1NFQlRqWEJ1dXllcWxueW90QkItRElsZjJUUHlaNlFROHFGM0N3NG5BalBONWctMmRIbVNZMVZpSkFoRFRtcVU3WGJ0bFZZVUZHN29CMjBEUDhrd0ZJZ3U3VHdZbERWblhqbGdwODRuWlA0UG9veUlCN0xiOWpqZlNQZnVGWFliamlpNVYwb1AtSmJoRUluQ1h2bUM5OU83MlZ3aGJrSEt2WTlNc3M5MG16NNIB0AFBVV95cUxOblB5ZTFCeU91cE02c2lXNUR1bHFyQTFDSzh5ekg4MV9YX0tsQXd5TF9INGVWUUVaTWJzbERsNUVlZ2FEU2JBQklCVGItNkRuLTdYWkpYQ2FCVklrODBId2hSZmlqS05nSWFQb0REN1BKVF8yWTJkMnRQTTJMY3ozcURldTF0N2tjTVh0RGFJT1pqbmVlNmNIZDItcGc3TDM0d2gxR2hCQkJQMUppQUtqeUk1bEVKZXJaeEJEVFJ3U0loaWFLOFlPWlFhT0ZnUWJB?oc=5
+- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
+  Rajnath Singh Commissions
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
 
-- US Influencer's 24-Hour Trip To India Just To See Taj Mahal Stuns The Internet - NDTV
-  US Influencer's 24-Hour Trip To India Just To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1nUG0zMkZReHhuT0lWUEN0cHQwd2ZfbUUyTGo5Y2ZXNHpWWG5oVHNXbXByVjV6Uk52N2ZNS0JRd1RVVGs4Z1dsZjR5UzVkSXRON25ZYXVMQVVmazh3N2RDSzYtaFljNTBQNURGRzI5T19LUC1MVWJrcGNNcG1yNFNTV0Q0QnB2LUhPancwODU5RE1rOGNDMXVHZ2V0WXRWd05VN3VYNHBHVTVXSkFXVk9Pd1bSAbwBQVVfeXFMUHh5Uk1SVWZHNDdZZ3RlWmlkUmZhcVpuc041eXVkSlQtdW5NamNhT3k5WUVBRVV3bVNUR0FLSlZaNXNiYUJ5bTN0Q2tKVDFCN2NabkVTeWpwYW80eC1yUlNmQzJrWUVWdVRvSmxIVUgxR2lINE9OOFRqajd0VTEtVS1PYnNjLVc4MlpoYWxmYUNKczNVMWFIcE90UjNMbXhaRkVMMUF5SjBYTDV2TXAwSkktYlFzcnF0cUNNVEM?oc=5
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYX
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
+  The INS Aridhaman will be India's 3rd nuclear sub.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
 
-- LPG Gas Cylinder Crisis in India Live Updates: Commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP) to meet rising demand - The Times of India
-  The commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP)
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxNblJ3MDZCMUw5d0h4dE81OHRFbm9wWklXVUQ1RVpGOXRNYktiZXBEWTY0Mjc5bkJDV3NhSzZYSVhVbThQaENjY0NuRzZKUDlLU2NWTVo4cGZya2hjRVY4cXlTLXRWR210S0Z4YjlJSGNtWEdVVkxxVHVWdzZMNVRMelVCd2VRRlotdXM5MkNTQ1FqOGY0bl94dEdfRDRWUTc0MS1kdnhXbjlOV2dRT1N0ZzNSNnpWWEFkMG9SSXZUY00zVUR5VmJERmw5MFVPRUpXdnI4Y2I5RzJwV3F6SFh5NTBRVklEaUd1Ti1LdmJKSE1vVVdubWtpbkZsUjNoUWxNcERadEROelVWWjdpejRJZTFpd0RmT0R2N1hyNDVSODVyYzZjQ21WdEFFMlM5VHAweWR4aXZuZy14aHlIXzdXaXVGWGt0M0REekZYY29QUWFWQm5uSHJmWGMySEJJWk9FN0k5bFVnZXbSAe4CQVVfeXFMT2lydWNTaEtVb1g0Ymx6UmdVay1seGVJVlBvMlpEU2hFSWZjVk9lUzZ1VXpMUGhMSDZsYVJmbWY1ZWtnUHh0cGVBa3JnNktONG1NNWVMX2MtMXNsU1g2M1VIOGxSS2VtM0pvU2RtS0pPT3poMEVSOWhtVHd1T1QwdGxBdmU0dzFkSzNtc3BVb3FHSzVNRzlKbGJlNUtKUzhPYzkwRHY5dXl6S2cxNUtsRUV0d0w4S29PZGQxWGNXcDRNLWhFdnB4RzZmWHpqLVVGdVJuWGk2dXV3dEVtU1hfbmtleFNXU1dTNE5uazAySnliM1JGeXl1NzFuNzhJak0zMEpZTVpBZ0lEYkNQaXp1WHB4cFhwcjVFbmo0MHQ3Ulg3M0lWUFAyWG9JQlBIbEZFVVk5a0RNSXFzSkcwOHlmb205SENjdERNc2x6c2Jnc1lULWlGX3VaTHBSMDdLUTdQRlE1RU1yUmFFZHhOUUtR?oc=5
+- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
+  Russia offers to increase supply of crude oil, LNG to India amid war
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
 
-- Bound for India initially, ship with Iranian crude now heads to China | India News - Hindustan Times
-  The ship with Iranian crude now heads to China. It was bound for
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOejBJeFJGRE5WTU8teUxmRjQwMkxoWmlGb1NFQlRqWEJ1dXllcWxueW90QkItRElsZjJUUHlaNlFROHFGM0N3NG5BalBONWctMmRIbVNZMVZpSkFoRFRtcVU3WGJ0bFZZVUZHN29CMjBEUDhrd0ZJZ3U3VHdZbERWblhqbGdwODRuWlA0UG9veUlCN0xiOWpqZlNQZnVGWFliamlpNVYwb1AtSmJoRUluQ1h2bUM5OU83MlZ3aGJrSEt2WTlNc3M5MG16NNIB0AFBVV95cUxOblB5ZTFCeU91cE02c2lXNUR1bHFyQTFDSzh5ekg4MV9YX0tsQXd5TF9INGVWUUVaTWJzbERsNUVlZ2FEU2JBQklCVGItNkRuLTdYWkpYQ2FCVklrODBId2hSZmlqS05nSWFQb0REN1BKVF8yWTJkMnRQTTJMY3ozcURldTF0N2tjTVh0RGFJT1pqbmVlNmNIZDItcGc3TDM0d2gxR2hCQkJQMUppQUtqeUk1bEVKZXJaeEJEVFJ3U0loaWFLOFlPWlFhT0ZnUWJB?oc=5
+- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
+  Rajnath Singh Commissions
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
 
-- US Influencer's 24-Hour Trip To India Just To See Taj Mahal Stuns The Internet - NDTV
-  US Influencer's 24-Hour Trip To India Just To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1nUG0zMkZReHhuT0lWUEN0cHQwd2ZfbUUyTGo5Y2ZXNHpWWG5oVHNXbXByVjV6Uk52N2ZNS0JRd1RVVGs4Z1dsZjR5UzVkSXRON25ZYXVMQVVmazh3N2RDSzYtaFljNTBQNURGRzI5T19LUC1MVWJrcGNNcG1yNFNTV0Q0QnB2LUhPancwODU5RE1rOGNDMXVHZ2V0WXRWd05VN3VYNHBHVTVXSkFXVk9Pd1bSAbwBQVVfeXFMUHh5Uk1SVWZHNDdZZ3RlWmlkUmZhcVpuc041eXVkSlQtdW5NamNhT3k5WUVBRVV3bVNUR0FLSlZaNXNiYUJ5bTN0Q2tKVDFCN2NabkVTeWpwYW80eC1yUlNmQzJrWUVWdVRvSmxIVUgxR2lINE9OOFRqajd0VTEtVS1PYnNjLVc4MlpoYWxmYUNKczNVMWFIcE90UjNMbXhaRkVMMUF5SjBYTDV2TXAwSkktYlFzcnF0cUNNVEM?oc=5
+- Iran war could make beer and bottled water pricier for Indians - BBC
+  Iran war could make beer and bottled water pric
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYX
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- "We're Only Nation To Lose Mariners At Hormuz": India At Iran War Talks - NDTV
+  "We're Only Nation To Lose Mariners At Horm
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWG1NOC16TE85ZUJSWmJydUJYcjhiZ3dBS01Md0xWcEhRZ1RlOXRMU1ZOS1ZRRnlHc2lmNDNMRzZQbjNWb1FMcTFzOGJGNW9HNjYzSFhLVW1wZHNpUEdsWjB6S3FxeXNnam1nZlNSSXJYOXY5ZzdWX0JLRnFINk1LS1drbXR0RGpNZTQ0eW9IRzVlVlVmUXhQTnZ5ak5Ydm95WVAyS1VNdjFFbERGTUgwWUtlRUNtV21zQ0VweF9YWdIBxwFBVV95cUxOdjlLU3hLb19JRWZhSjd1VHRqbjhaTVQxZWhCZUN0ZG5OVWd5R0tWQ3VSejk4clBIMVFXNUV4MHpGMUhfSmMxQnBUQVpyRUVTdFRUTVFhdTA4RGZoa1lDclFJQzl3UkdHaU91T20zaVVUamJlbUNHby02d01EWmo0T3RSOG12QnBzSnJLSWJJV1A4d3diZl9mMEI0TC1oWklzaEN1bzU4YjE3eFNVTWFSaVk0SG9vMEN2T3lreVhoX2t3bERkNm5J?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Bigger, quieter and deadlier: Navy commissions INS Aridhaman - all about India's 3rd nuclear sub - The Times of India
+  The INS Aridhaman will be India's 3rd nuclear sub.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVlUR3FBTFdldWZqdGlIRk1aOEhqX2JLZG5kSW9udHQwSFYxbC1rVTBsWmcydVh6aENsRTNiaV9GNkw0aUwxazNOaEh5NnVzeV9ENG45MFZQUGpRb3VDVk56cFFIZElZZlluVVU4NWVhUFZRUFRaeHBpWGtFXzVid3BDU1ktdnJfRTMtWDNVaU1EMzRUUmFxZThIdldQOTdPSEhjeWFuZ3lzNjYwSHRzdkZfcGc0aTRKeHZ4Z0FUZDNNcVk2OHlIbzZRalFwSDREb19xbTJaSjhQTGVXdTlHQVVnR0lpOUhLazNHOXNDZkI5ZUZ5UmdtRU1B0gH_AUFVX3lxTE13eGFXdWthZHEzTlRpa1hOeFZWM2dWcmk0RUVVSmh3ZWRDaVlLaTdqWnBnVlVCMDdCakRwUzBMemd6WGtxVjIxTDdYWDViQ280UjNfLTVBYWlKUTVQWHNhanNGZ0tkU1ZFei1QT194V1ZkS285cXIxQ1ozUmpWNUotY0NPU2ZjYTg3QTVUUEhGek5MSFp0cnk2QWY2aEZDR0VzN2w2SFFOeVVRaFljU3RJWUhmaWdSUnR3UE9vRW40T1UxdE5yenVSeWp6ODR2MktJekdlM3h1a2wyeTZoeHVrLTNMMlJpblROVlY0cHJJMFFycmFSdThjaFM0UFE4dw?oc=5
 
-- LPG Gas Cylinder Crisis in India Live Updates: Commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP) to meet rising demand - The Times of India
-  The commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP)
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxNblJ3MDZCMUw5d0h4dE81OHRFbm9wWklXVUQ1RVpGOXRNYktiZXBEWTY0Mjc5bkJDV3NhSzZYSVhVbThQaENjY0NuRzZKUDlLU2NWTVo4cGZya2hjRVY4cXlTLXRWR210S0Z4YjlJSGNtWEdVVkxxVHVWdzZMNVRMelVCd2VRRlotdXM5MkNTQ1FqOGY0bl94dEdfRDRWUTc0MS1kdnhXbjlOV2dRT1N0ZzNSNnpWWEFkMG9SSXZUY00zVUR5VmJERmw5MFVPRUpXdnI4Y2I5RzJwV3F6SFh5NTBRVklEaUd1Ti1LdmJKSE1vVVdubWtpbkZsUjNoUWxNcERadEROelVWWjdpejRJZTFpd0RmT0R2N1hyNDVSODVyYzZjQ21WdEFFMlM5VHAweWR4aXZuZy14aHlIXzdXaXVGWGt0M0REekZYY29QUWFWQm5uSHJmWGMySEJJWk9FN0k5bFVnZXbSAe4CQVVfeXFMT2lydWNTaEtVb1g0Ymx6UmdVay1seGVJVlBvMlpEU2hFSWZjVk9lUzZ1VXpMUGhMSDZsYVJmbWY1ZWtnUHh0cGVBa3JnNktONG1NNWVMX2MtMXNsU1g2M1VIOGxSS2VtM0pvU2RtS0pPT3poMEVSOWhtVHd1T1QwdGxBdmU0dzFkSzNtc3BVb3FHSzVNRzlKbGJlNUtKUzhPYzkwRHY5dXl6S2cxNUtsRUV0d0w4S29PZGQxWGNXcDRNLWhFdnB4RzZmWHpqLVVGdVJuWGk2dXV3dEVtU1hfbmtleFNXU1dTNE5uazAySnliM1JGeXl1NzFuNzhJak0zMEpZTVpBZ0lEYkNQaXp1WHB4cFhwcjVFbmo0MHQ3Ulg3M0lWUFAyWG9JQlBIbEZFVVk5a0RNSXFzSkcwOHlmb205SENjdERNc2x6c2Jnc1lULWlGX3VaTHBSMDdLUTdQRlE1RU1yUmFFZHhOUUtR?oc=5
+- Russia offers to increase supply of crude oil, LNG to India amid war in West Asia - The Hindu
+  Russia offers to increase supply of crude oil, LNG to India amid war
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMXJ4bTA1aS1lSkNOdVUtckJLQVZtNHZIQ0F2Z1RxUFBWWTlsNk92b0VuYkF3R2JCOWhXVU5KRjlaYlVtTExIZlFpYXpoZzRlekpuNEYyVFpYeXVRVHd3MlZpX3pzc204UFBaeHNoUmFveTRlMzRwQ2pTYW1hNmtzc1hobGFZMkhzdzJ4Um5jWGRKQzFYV192MGVwajhTSVA1VFNXYlNNWGdWS2pFSksxRTJJS2swaHROSkhFLVlkV3g4a2FSc2hjMWhHa1RkTzZfVWRZeW1n0gHcAUFVX3lxTE9MdnhUZk1lZktTMlJiM051TGJ4RnFRRzBvQ296aF9EdFFDMVdjc0NLWU9zejRxY2wzUHIyc3R4bHBrRkVYNmlvTW5NbUlDcW1wSWkxS1NTdWRiUDNBYmlRQ2p4bkRVREY3OFppQ2h4X3Ntalk3dldLUE5aVjZySFpuM09ZeEswSWFTS0JrRlBLSG9YV0Q3N0xzRFJBWmRhUld1bUx3SzJROGQ5TEJQMFloYVNrX0tGZVBqQlkyaGlXUXFvQjJ0N0d2WlZCMVNzMjJPVndQT2Q2WjJ4SEo?oc=5
 
-- Bound for India initially, ship with Iranian crude now heads to China | India News - Hindustan Times
-  The ship with Iranian crude now heads to China. It was bound for
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOejBJeFJGRE5WTU8teUxmRjQwMkxoWmlGb1NFQlRqWEJ1dXllcWxueW90QkItRElsZjJUUHlaNlFROHFGM0N3NG5BalBONWctMmRIbVNZMVZpSkFoRFRtcVU3WGJ0bFZZVUZHN29CMjBEUDhrd0ZJZ3U3VHdZbERWblhqbGdwODRuWlA0UG9veUlCN0xiOWpqZlNQZnVGWFliamlpNVYwb1AtSmJoRUluQ1h2bUM5OU83MlZ3aGJrSEt2WTlNc3M5MG16NNIB0AFBVV95cUxOblB5ZTFCeU91cE02c2lXNUR1bHFyQTFDSzh5ekg4MV9YX0tsQXd5TF9INGVWUUVaTWJzbERsNUVlZ2FEU2JBQklCVGItNkRuLTdYWkpYQ2FCVklrODBId2hSZmlqS05nSWFQb0REN1BKVF8yWTJkMnRQTTJMY3ozcURldTF0N2tjTVh0RGFJT1pqbmVlNmNIZDItcGc3TDM0d2gxR2hCQkJQMUppQUtqeUk1bEVKZXJaeEJEVFJ3U0loaWFLOFlPWlFhT0ZnUWJB?oc=5
+- Rajnath Singh Commissions Indian Navy's Stealth Frigate INS Taragiri - NDTV
+  Rajnath Singh Commissions
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEVNLVJoSTh0Q2E0Qm1hRmNpdktBR0M2VmtwLURVSTEtZ2E2U0RrdlRVbWFLWnZuSVQ3dzlYMUI0V2NncGR6UDVDUnRZUFk3MUpZR0lmM0ZQTUlwMTZmYXA5RHdZU20ydGt0ZS0tM1V1M0ZWVGNZMUNoc0hxUm9NWFFmR1RxOUpNaGRXaHBtVlZOV09NZExSN2tSTW04WUxKQzJNZ2hUWjQyTzZFNHdKVVhjVmlTNERKS2JYaTZtNW5GcjTSAcsBQVVfeXFMTnBxSUotX2lTY0x0UDVRbzJrLW1TSXhLSnZtYWlEX2FtTjRaeF96WmRTd19JOXlPamgyM1R6NVlXcEtETTIwcHpOeWV0bjFFXzBSY0dmSkYyeG45VEVvUG9mNWxuWmVrMzlXNTg3aXZCN3ZCcmo5c1NXVHVDd0FLQU1CWTVGNVRQYjlPX0Nha3VGdjdBczFTOXhsZTF6M25KZHVWRXhkbVlOc05VbW9RZlVfeXBTeTQ0YlFzTnE3SGNuSWtzMVZsTXVxcmc?oc=5
 
-- US Influencer's 24-Hour Trip To India Just To See Taj Mahal Stuns The Internet - NDTV
-  US Influencer's 24-Hour Trip To India Just To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1nUG0zMkZReHhuT0lWUEN0cHQwd2ZfbUUyTGo5Y2ZXNHpWWG5oVHNXbXByVjV6Uk52N2ZNS0JRd1RVVGs4Z1dsZjR5UzVkSXRON25ZYXVMQVVmazh3N2RDSzYtaFljNTBQNURGRzI5T19LUC1MVWJrcGNNcG1yNFNTV0Q0QnB2LUhPancwODU5RE1rOGNDMXVHZ2V0WXRWd05VN3VYNHBHVTVXSkFXVk9Pd1bSAbwBQVVfeXFMUHh5Uk1SVWZHNDdZZ3RlWmlkUmZhcVpuc041eXVkSlQtdW5NamNhT3k5WUVBRVV3bVNUR0FLSlZaNXNiYUJ5bTN0Q2tKVDFCN2NabkVTeWpwYW80eC1yUlNmQzJrWUVWdVRvSmxIVUgxR2lINE9OOFRqajd0VTEtVS1PYnNjLVc4MlpoYWxmYUNKczNVMWFIcE90UjNMbXhaRkVMMUF5SjBYTDV2TXAwSkktYlFzcnF0cUNNVEM?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYX
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- LPG Gas Cylinder Crisis in India Live Updates: Commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP) to meet rising demand - The Times of India
-  The commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP)
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxNblJ3MDZCMUw5d0h4dE81OHRFbm9wWklXVUQ1RVpGOXRNYktiZXBEWTY0Mjc5bkJDV3NhSzZYSVhVbThQaENjY0NuRzZKUDlLU2NWTVo4cGZya2hjRVY4cXlTLXRWR210S0Z4YjlJSGNtWEdVVkxxVHVWdzZMNVRMelVCd2VRRlotdXM5MkNTQ1FqOGY0bl94dEdfRDRWUTc0MS1kdnhXbjlOV2dRT1N0ZzNSNnpWWEFkMG9SSXZUY00zVUR5VmJERmw5MFVPRUpXdnI4Y2I5RzJwV3F6SFh5NTBRVklEaUd1Ti1LdmJKSE1vVVdubWtpbkZsUjNoUWxNcERadEROelVWWjdpejRJZTFpd0RmT0R2N1hyNDVSODVyYzZjQ21WdEFFMlM5VHAweWR4aXZuZy14aHlIXzdXaXVGWGt0M0REekZYY29QUWFWQm5uSHJmWGMySEJJWk9FN0k5bFVnZXbSAe4CQVVfeXFMT2lydWNTaEtVb1g0Ymx6UmdVay1seGVJVlBvMlpEU2hFSWZjVk9lUzZ1VXpMUGhMSDZsYVJmbWY1ZWtnUHh0cGVBa3JnNktONG1NNWVMX2MtMXNsU1g2M1VIOGxSS2VtM0pvU2RtS0pPT3poMEVSOWhtVHd1T1QwdGxBdmU0dzFkSzNtc3BVb3FHSzVNRzlKbGJlNUtKUzhPYzkwRHY5dXl6S2cxNUtsRUV0d0w4S29PZGQxWGNXcDRNLWhFdnB4RzZmWHpqLVVGdVJuWGk2dXV3dEVtU1hfbmtleFNXU1dTNE5uazAySnliM1JGeXl1NzFuNzhJak0zMEpZTVpBZ0lEYkNQaXp1WHB4cFhwcjVFbmo0MHQ3Ulg3M0lWUFAyWG9JQlBIbEZFVVk5a0RNSXFzSkcwOHlmb205SENjdERNc2x6c2Jnc1lULWlGX3VaTHBSMDdLUTdQRlE1RU1yUmFFZHhOUUtR?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Bound for India initially, ship with Iranian crude now heads to China | India News - Hindustan Times
-  The ship with Iranian crude now heads to China. It was bound for
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOejBJeFJGRE5WTU8teUxmRjQwMkxoWmlGb1NFQlRqWEJ1dXllcWxueW90QkItRElsZjJUUHlaNlFROHFGM0N3NG5BalBONWctMmRIbVNZMVZpSkFoRFRtcVU3WGJ0bFZZVUZHN29CMjBEUDhrd0ZJZ3U3VHdZbERWblhqbGdwODRuWlA0UG9veUlCN0xiOWpqZlNQZnVGWFliamlpNVYwb1AtSmJoRUluQ1h2bUM5OU83MlZ3aGJrSEt2WTlNc3M5MG16NNIB0AFBVV95cUxOblB5ZTFCeU91cE02c2lXNUR1bHFyQTFDSzh5ekg4MV9YX0tsQXd5TF9INGVWUUVaTWJzbERsNUVlZ2FEU2JBQklCVGItNkRuLTdYWkpYQ2FCVklrODBId2hSZmlqS05nSWFQb0REN1BKVF8yWTJkMnRQTTJMY3ozcURldTF0N2tjTVh0RGFJT1pqbmVlNmNIZDItcGc3TDM0d2gxR2hCQkJQMUppQUtqeUk1bEVKZXJaeEJEVFJ3U0loaWFLOFlPWlFhT0ZnUWJB?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- US Influencer's 24-Hour Trip To India Just To See Taj Mahal Stuns The Internet - NDTV
-  US Influencer's 24-Hour Trip To India Just To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1nUG0zMkZReHhuT0lWUEN0cHQwd2ZfbUUyTGo5Y2ZXNHpWWG5oVHNXbXByVjV6Uk52N2ZNS0JRd1RVVGs4Z1dsZjR5UzVkSXRON25ZYXVMQVVmazh3N2RDSzYtaFljNTBQNURGRzI5T19LUC1MVWJrcGNNcG1yNFNTV0Q0QnB2LUhPancwODU5RE1rOGNDMXVHZ2V0WXRWd05VN3VYNHBHVTVXSkFXVk9Pd1bSAbwBQVVfeXFMUHh5Uk1SVWZHNDdZZ3RlWmlkUmZhcVpuc041eXVkSlQtdW5NamNhT3k5WUVBRVV3bVNUR0FLSlZaNXNiYUJ5bTN0Q2tKVDFCN2NabkVTeWpwYW80eC1yUlNmQzJrWUVWdVRvSmxIVUgxR2lINE9OOFRqajd0VTEtVS1PYnNjLVc4MlpoYWxmYUNKczNVMWFIcE90UjNMbXhaRkVMMUF5SjBYTDV2TXAwSkktYlFzcnF0cUNNVEM?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India Joins 60 Countries' Effort To Reopen Strait Of Hormuz - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYX
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjRwWW9GUUFzMmRPRl93TzVCaW1qaDJwQ3BvU2hEU3Z5SFQ1VDd0dHBWeDhYemlteEdpSm1iQ3RLdE1EczVRVjVXaEptZHJNX2VpdHUwcVhIbmsydXdXYmtuT3J3dURaYXIzdUVxOGI5OGtuRWpnaVk0LXlvaUxZNmlKZXktNVdEZVNXd1hrRHVLb3B6b1dzODhtR0UwdkNVc20wS2kwWjBTZjNLaFU2aE82dnhGc05PZVZOM3VtWk9wb1ZaWDJIa19va3BpVXcyOUw3TTdiN3ZNUHp6R1p1OXVCMHpHbzB4a1o0TW5rNW9ld9IB-gFBVV95cUxNb3dDcUd1eG41a29fT1hDMzdFT1ZUNzEtNmd2WDB0S2RKdzRfcjRlZXhpYXZpdWduSUlvWTd5MUR4akJDYk5RLWppUGlCSXAwRjFpczNpVDM3VkVUU0pYMEJLczBnd2FVOVhLYzJhUXFFVE5MRTdfUEhTNWRIbkZrODNWaVQyeVV4YS1DMElPZVM3bWgwYWJ3SzItYy15cXR2aTd1RjQtdWZXeHRtZEZrV2dKM0wybmdNOXdBR2N1TXNoeFZoYzhfczFkRzdZN0MyaTJwYmdxd2xubTBIaW5sZGNSLUN6UHZzZ1Z3T2ZaY1BlQkRoSjJWTWFn?oc=5
-
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
-
-- LPG Gas Cylinder Crisis in India Live Updates: Commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP) to meet rising demand - The Times of India
-  The commercial LPG quota in Uttarakhand rises to 66% under revised Standard Operating Procedure (SOP)
-  🔗 https://news.google.com/rss/articles/CBMi6AJBVV95cUxNblJ3MDZCMUw5d0h4dE81OHRFbm9wWklXVUQ1RVpGOXRNYktiZXBEWTY0Mjc5bkJDV3NhSzZYSVhVbThQaENjY0NuRzZKUDlLU2NWTVo4cGZya2hjRVY4cXlTLXRWR210S0Z4YjlJSGNtWEdVVkxxVHVWdzZMNVRMelVCd2VRRlotdXM5MkNTQ1FqOGY0bl94dEdfRDRWUTc0MS1kdnhXbjlOV2dRT1N0ZzNSNnpWWEFkMG9SSXZUY00zVUR5VmJERmw5MFVPRUpXdnI4Y2I5RzJwV3F6SFh5NTBRVklEaUd1Ti1LdmJKSE1vVVdubWtpbkZsUjNoUWxNcERadEROelVWWjdpejRJZTFpd0RmT0R2N1hyNDVSODVyYzZjQ21WdEFFMlM5VHAweWR4aXZuZy14aHlIXzdXaXVGWGt0M0REekZYY29QUWFWQm5uSHJmWGMySEJJWk9FN0k5bFVnZXbSAe4CQVVfeXFMT2lydWNTaEtVb1g0Ymx6UmdVay1seGVJVlBvMlpEU2hFSWZjVk9lUzZ1VXpMUGhMSDZsYVJmbWY1ZWtnUHh0cGVBa3JnNktONG1NNWVMX2MtMXNsU1g2M1VIOGxSS2VtM0pvU2RtS0pPT3poMEVSOWhtVHd1T1QwdGxBdmU0dzFkSzNtc3BVb3FHSzVNRzlKbGJlNUtKUzhPYzkwRHY5dXl6S2cxNUtsRUV0d0w4S29PZGQxWGNXcDRNLWhFdnB4RzZmWHpqLVVGdVJuWGk2dXV3dEVtU1hfbmtleFNXU1dTNE5uazAySnliM1JGeXl1NzFuNzhJak0zMEpZTVpBZ0lEYkNQaXp1WHB4cFhwcjVFbmo0MHQ3Ulg3M0lWUFAyWG9JQlBIbEZFVVk5a0RNSXFzSkcwOHlmb205SENjdERNc2x6c2Jnc1lULWlGX3VaTHBSMDdLUTdQRlE1RU1yUmFFZHhOUUtR?oc=5
-
-- Bound for India initially, ship with Iranian crude now heads to China | India News - Hindustan Times
-  The ship with Iranian crude now heads to China. It was bound for
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOejBJeFJGRE5WTU8teUxmRjQwMkxoWmlGb1NFQlRqWEJ1dXllcWxueW90QkItRElsZjJUUHlaNlFROHFGM0N3NG5BalBONWctMmRIbVNZMVZpSkFoRFRtcVU3WGJ0bFZZVUZHN29CMjBEUDhrd0ZJZ3U3VHdZbERWblhqbGdwODRuWlA0UG9veUlCN0xiOWpqZlNQZnVGWFliamlpNVYwb1AtSmJoRUluQ1h2bUM5OU83MlZ3aGJrSEt2WTlNc3M5MG16NNIB0AFBVV95cUxOblB5ZTFCeU91cE02c2lXNUR1bHFyQTFDSzh5ekg4MV9YX0tsQXd5TF9INGVWUUVaTWJzbERsNUVlZ2FEU2JBQklCVGItNkRuLTdYWkpYQ2FCVklrODBId2hSZmlqS05nSWFQb0REN1BKVF8yWTJkMnRQTTJMY3ozcURldTF0N2tjTVh0RGFJT1pqbmVlNmNIZDItcGc3TDM0d2gxR2hCQkJQMUppQUtqeUk1bEVKZXJaeEJEVFJ3U0loaWFLOFlPWlFhT0ZnUWJB?oc=5
-
-- US Influencer's 24-Hour Trip To India Just To See Taj Mahal Stuns The Internet - NDTV
-  US Influencer's 24-Hour Trip To India Just To
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1nUG0zMkZReHhuT0lWUEN0cHQwd2ZfbUUyTGo5Y2ZXNHpWWG5oVHNXbXByVjV6Uk52N2ZNS0JRd1RVVGs4Z1dsZjR5UzVkSXRON25ZYXVMQVVmazh3N2RDSzYtaFljNTBQNURGRzI5T19LUC1MVWJrcGNNcG1yNFNTV0Q0QnB2LUhPancwODU5RE1rOGNDMXVHZ2V0WXRWd05VN3VYNHBHVTVXSkFXVk9Pd1bSAbwBQVVfeXFMUHh5Uk1SVWZHNDdZZ3RlWmlkUmZhcVpuc041eXVkSlQtdW5NamNhT3k5WUVBRVV3bVNUR0FLSlZaNXNiYUJ5bTN0Q2tKVDFCN2NabkVTeWpwYW80eC1yUlNmQzJrWUVWdVRvSmxIVUgxR2lINE9OOFRqajd0VTEtVS1PYnNjLVc4MlpoYWxmYUNKczNVMWFIcE90UjNMbXhaRkVMMUF5SjBYTDV2TXAwSkktYlFzcnF0cUNNVEM?oc=5
-
-- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
-  The proliferation of AI-enabled military technology in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
-
-- Gemma 4: Byte for byte, the most capable open models - blog.google
-  Gemma 4: Byte for byte
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5
-
-- Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ
-  Under the Skin of America’
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
-
-- Zenergize Bets on Silicon Carbide Technology to Drive Inverter Growth in India - Saur Energy
-  Saur Energy is one of the world's largest energy
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTFKZ19hVHU2WG9zU1RGQkRlZFRETURHVV94cFYyd1pPcURzSlRoN01raHNzc21ySEdabUtOV2hVT2lNTV91SzJ4Z3BoNmR3WGpORmpPS3Z6blo5aG9ramJHaDZSYUk5UHZWVmk3LU9pNVVJVTVlNy00RGRINlpoWm9FVThZeGpVNXk1ankzS2lwSlJxM2x4TUlIRTFvMGJKRkJwSkh2eXdBSTZNUEpSTjJRQkRXRkd1T2tsUnlkQnRhdnI5WFdvNjJwM3M?oc=5
-
-- Claude’s code: Anthropic leaks source code for AI software engineering tool | Technology - The Guardian
-  Anthropic leaks source code for AI software engineering tool.
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkFQZFotSTRnZTNoTUV0SXBLVGp3OFFTREREd0dlbVhSZThYYU5uWW1jLVRCWERocnhZTGxuQnVpc28zNWFNZkFTSmc3MTg5TWlKZVVBRDhKMXhBdjNuUXlYZEhHSXloekRfUG1jR3VXV1dKdnY5RTlsU0w5VVNIeXo3M1hEb1JQVFE?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-03 07:08:21 UTC_
+_Last updated: 2026-04-03 12:56:46 UTC_
