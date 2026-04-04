@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Kashmiri man’s killing in Army encounter finds echo in Assembly
+- Meitei MLAs led by Manipur CM Khemchand Singh travel to Jiribam by road, to camp for 3 days
   
-  🔗 https://indianexpress.com/article/india/kashmiri-mans-killing-in-army-encounter-finds-echo-in-assembly-10618490/
+  🔗 https://indianexpress.com/article/india/meitei-mlas-led-by-manipur-cm-khemchand-singh-travel-to-jiribam-by-road-to-camp-for-3-days-10619056/
 
-- ‘Untouched, undaunted’: Cong MP Shashi Tharoor day after attack on his gunman, driver in Malappuram
+- High-Speed Rail in India: DPRs for 3 bullet train corridors likely by March 2027
   
-  🔗 https://indianexpress.com/article/india/congress-mp-shashi-tharoor-gunman-driver-attacked-kerala-police-10618374/
+  🔗 https://indianexpress.com/article/india/high-speed-rail-in-india-dprs-for-3-bullet-train-corridors-likely-by-march-2027-10618888/
 
-- Yogi Adityanath warns of ‘love jihad, land jihad’ in Assam, says only NDA can stop demographic shift
+- J&K minister revives Mehbooba’s old remark, blames PDP for abrogation of Article 370
   
-  🔗 https://indianexpress.com/article/india/yogi-adityanath-love-jihad-land-jihad-in-assam-elections-10618347/
+  🔗 https://indianexpress.com/article/india/jk-assembly-row-ittoo-pdp-article-370-mufti-remark-10618917/
 
-- Assembly Elections 2026 Live Updates: Rahul Gandhi accuses Kerala CM of ties with anti-minority forces
+- ‘Everything is being weaponised’: S Jaishankar warns of structural global shifts while hailing India’s resilience amid West Asia war
   
-  🔗 https://indianexpress.com/article/india/bengal-kerala-assam-tamil-nadu-assembly-elections-2026-live-updates-10618192/
+  🔗 https://indianexpress.com/article/india/india-s-jaishankar-iim-raipur-convocation-global-shocks-india-economy-resilience-10618729/
 
-- ‘1,300 deaths since 2016’: Tejashwi targets Bihar govt as Motihari hooch deaths rise
+- Indian Railways hits new milestone: Western Dedicated Freight Corridor fully completed; train capacity set to double
   
-  🔗 https://indianexpress.com/article/india/bihar-hooch-tragedy-motihari-death-toll-rises-5-tejashwi-nitish-10617155/
+  🔗 https://indianexpress.com/article/india/indian-railways-hits-new-milestone-western-dedicated-freight-corridor-fully-completed-train-capacity-set-to-double-10618737/
+
+- Your car is now a mobile office: Google Meet launches on Apple CarPlay with a strict safety twist
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-meet-apple-carplay-features-android-auto-launch-10618798/
+
+- OpenAI expands COO Brad Lightcap’s role as AGI chief steps away on medical leave
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-expands-coo-role-leadership-reshuffle-10618633/
 
 - DeepSeek’s V4 model will run on Huawei chips: Report
   
@@ -32,13 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/science/brain-freeze-the-science-behind-the-sudden-cold-shock-10617815/
 
-- Sam Altman’s OpenAI just bought popular talk show TBPN, and they’re killing its $30 million ad business
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-acquires-tbpn-deal-details-ai-industry-impact-10617423/
-
-- Google now allows you to control avatars through prompts in its Vids app
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-now-allows-you-to-control-avatars-through-prompts-in-its-vids-app-10617432/
+- Venu Srinivasan quits Bai Hirabai Charitable Trust after questions over his eligibility, cites other commitments
+  Venu Srinivasan quits Bai Hirabai Charitable Trust. Mehli
+  🔗 https://www.livemint.com/companies/people/venu-srinivasan-quits-bai-hirabai-charitable-trust-after-questions-over-his-eligibility-cites-other-commitments-11775302840362.html
 
 - OpenAI undergoes dramatic C-suite overhaul ahead of IPO — CMO to step down for cancer recovery, COO moves on to new role
   OpenAI's product chief Fidji Simo will take a significant medical leave as well. The major leadership shakeup comes amid a pivotal time for
@@ -49,16 +53,20 @@
   🔗 https://www.livemint.com/companies/swimwear-demand-surges-with-rise-in-fitness-swimming-and-domestic-travel-cuckoo-cava-speedo-myntra-amazon-11775202410786.html
 
 - Why India is becoming a key market for mid-luxury Swiss watches
-  Swiss luxury watchmaker Tag Heuer plans to grow its presence in India, particularly in major cities. The brand sees India becoming a key market in the EMEA region.
+  Swiss luxury watchmaker Tag Heuer plans to grow its presence in India, particularly in major cities. The brand sees India becoming a key market in the MEITA region.
   🔗 https://www.livemint.com/companies/news/why-india-is-becoming-a-key-market-for-mid-luxury-swiss-watches-11775214069858.html
 
 - Telecom regulator orders Reliance Jio to stop ‘discriminatory’ tariff practices
   The directive follows a probe into Jio’s discontinuation of certain entry-level prepaid recharge plans offering 1 GB data per day.
   🔗 https://www.livemint.com/companies/news/reliance-jio-tariff-plan-telecom-industry-india-regulator-trai-airtel-11775204254480.html
 
-- OpenAI COO Shifts Out of Role, AGI CEO Taking Medical Leave
-  OpenAI’s chief operating officer is shifting into a new role. Two other top executives are going on leave due to health reasons.
-  🔗 https://www.livemint.com/companies/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave-11775245616845.html
+- Defying the sell-off: 5 stocks holding firm in a volatile market
+  As sharp swings rattle Indian equities, a handful of stocks are bucking the
+  🔗 https://www.livemint.com/market/stock-market-news/defying-the-sell-off-5-stocks-holding-firm-in-a-volatile-market-11775131453088.html
+
+- Silver rate today, 4 April: Why white metal may not dip below  ₹2 lakh? Explained
+  MCX silver price finished at  ₹2,
+  🔗 https://www.livemint.com/market/stock-market-news/silver-rate-today-4-april-2026-why-white-metal-may-not-dip-below-rs-2-lakh-explained-11775284397938.html
 
 - HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war?
   India's defence sector is buzzing with recent deals with Germany, France, EU, and Israel.
@@ -72,13 +80,13 @@
   HDFC Bank share price has fallen from  ₹
   🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-dips-25-in-ytd-whats-wrong-with-the-dalal-street-heavyweight-11775269496136.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 6 April 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday. Tata Consumer Products, BEL, and AC
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-april-2026-11775235029612.html
+- Apple 50th anniversary sale: iPhone 17 drops below  ₹50,000, iPhone 17 Pro Max available at  ₹1,02,900
+  Apple celebrates 50 years with discounts on iPhones including the iPhone 17 and Pro Max. Customers can benefit
+  🔗 https://www.livemint.com/technology/gadgets/apple-50th-anniversary-sale-iphone-17-drops-below-rs-50-000-iphone-17-pro-max-available-at-rs-102900-11775295923758.html
 
-- Stocks to buy or sell: Ajit Mishra of Religare Broking suggests strategies for 3 shares
-  The Indian stock market faces fluctuations due to global cues and geopolitical tensions. Ajit Mishra from Religare Broking outlines strategies for navigating these turbulent waters. Discover which stocks to
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-ajit-mishra-of-religare-broking-suggests-strategies-for-3-shares-11775214116002.html
+- Claude AI can now search your Outlook emails and Teams chats for free: Here's how it works
+  Anthropic has enabled all users to access the Microsoft 365 connector. The feature was previously available only to the company's Team and Enterprise users. With the new integration users can search and analyze
+  🔗 https://www.livemint.com/technology/tech-news/claude-ai-can-now-search-your-outlook-emails-and-teams-chats-for-free-heres-how-it-works-11775288608129.html
 
 - Mark Zuckerberg's Meta builds new AI hardware divison, hires hires veteran engineer for mysterious AI gadget: Report
    Meta is assembling a hardware team under its Superintelligence Labs. The move is said to indicate the company's interest in developing AI gadgets.
@@ -92,173 +100,85 @@
    AI startup Ex-Human is suing Apple for removing its apps from the App Store. The company claims that the wrongful takedown resulted in &
   🔗 https://www.livemint.com/technology/tech-news/ai-porn-startup-sues-apple-over-app-store-takedowns-claims-500-000-in-lost-revenue-11775264151619.html
 
-- OpenAI, Anthropic contractor Mercor targeted in major security breach — what data was stolen, who carried out the hack?
-  Mercor is one of Silicon Valley's hottest start-ups, valued at $10 billion. It works with AI companies, including OpenAI and Anthropic, to help train models.
-  🔗 https://www.livemint.com/technology/tech-news/openai-anthropic-contractor-mercor-targeted-in-major-security-breach-what-data-was-stolen-who-carried-out-the-hack-11775198590710.html
+- AU Small Finance Bank Q4 business update: Deposits up 23% YoY at Rs 1.52 lk cr, advances rise 25%
+  AU Small Finance Bank reported steady Q4 growth with deposits rising 23% year-on-year to Rs 1.52 lakh crore. Despite strong operational performance, the stock has declined amid broader weakness in banking stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms
 
-- Trump administration appeals ruling that blocked Pentagon action against Anthropic over AI dispute
-  Trump administration appeals ruling that blocked Pentagon action
-  🔗 https://www.livemint.com/technology/trump-administration-appeals-ruling-that-blocked-pentagon-action-against-anthropic-over-ai-dispute-11775148233145.html
+- Bandhan Bank Q4 business update: Advances rise to Rs 1.54 lakh crore, deposits up 10%
+  Bandhan Bank reported a 12.6% YoY rise in advances to Rs 1.54 lakh crore. Retail deposits led the surge, while the CASA ratio stood at 29.31%. Collection
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-q4-business-update-advances-rise-to-rs-1-54-lakh-crore-deposits-up-10/articleshow/130016638.cms
 
-- Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates - CNBC
-  Dow closes lower as Trump comments dampen traders' hopes for
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA4UVpPQ2VFbWlkQTkxbUlRcFVlaFlqOEJQOWp2WlJia1c4Zks3d1Jhd29kM2hHZW44VGllZUR3NS16LW5yZHhmTzU4R3lDeUppRXdjT2ZoNmM0ckRzUWlJUlRtbFhjd3l0UndtQURSWUpTRWdWWHBj0gF8QVVfeXFMT0g4OVFEel84Q2dtWjVITFozMlVoeXNBQnQ2LUl1OE02YkpkR0F3VWZva1gwQWtxUXlnVWt3dG14dG1yenNRVUl1Rl9CRmFqc2NZMm81ck5MYlBSLVR0VjY0blFLeHVMVU9VaGlVamVzMG5hYmRLeTZuZmVfTw?oc=5
+- 8 stocks surged over 50% in each of the last 3 fiscal years; rally up to 3,100%
+  Eight stocks have delivered over 50% returns in each of the last three fiscal years. With gains ranging from 500% to over 3,100%, these consistent outperformers highlight strong underlying
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-stocks-surged-over-50-in-each-of-the-last-3-fiscal-years-rally-up-to-3100/slideshow/130016086.cms
 
-- 5 Things to Know Before the Stock Market Opens - Investopedia
-  5 Things to Know Before the Stock
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPS3VRWHdERF92QzdXYWRJVW9HSFVHRXZuUDQ0T2E2SWF4S0xkdGhMRUt6bmp4TEFnZnBMbU5Nc3Z0MDRFUGowc01BVlVjQVo1M3ppNjI4bkx0RTJleFR6bjRIbzNuUllpWHRoMXZIb19VTGhYZ0lRT0NObUdhMUdTc3VNMGd4OU5yR3BGd05OT3VlQld0dFdvOW1RT184Zw?oc=5
+- HDFC Bank Q4 business update: Lender reports 15% YoY growth in deposits, advances jump 12%
+  HDFC Bank reported a steady Q4, with deposits rising 15% YoY and advances growing 12%. Average deposits touched Rs 28.51 lakh crore, while period-end deposits stood at Rs 31.06
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q4-business-update-lender-reports-15-yoy-growth-in-deposits-advances-jump-12/articleshow/130015244.cms
 
-- Oil price jumps and markets slide after Trump warning to Iran - The Guardian
-  Oil price jumps and markets slide after Trump warning to
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1R0cUp6blhKUWQ3emVLMmxjWFZtakhJdUM3RVJlLTE1aE5WRXRJMnBudEMycFZtd09WYm1pazRPRllaSnZLMDh3dG41VHpzaFZRdmI0cGczRjhjY01KNzRLbGJBaVhwTmxPcWxZOGt4TE5UZlc2dHBGWnA2NC0yT1JlSkotSW11VmpJSTN5cmtCb3J1a1B1QTV4dFR1Qjk5LXFyeWVMSjMxZTduUUNHOA?oc=5
+- Dalal Street Week Ahead: All eyes on 21,700 make-or-break zone as Nifty braces for volatility
+  Nifty ended lower after persistent selling dragged the index below key short-term supports. With the index approaching the crucial 21,700 zone, sentiment remains fragile amid global uncertainties. Technical indicators stay bearish, suggesting caution, selective
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-all-eyes-on-21700-make-or-break-zone-as-nifty-weakens-further/articleshow/130015190.cms
 
-- Asian Equities May Open Higher After US Rebound: Markets Wrap - Bloomberg.com
-  Asian Equities May Open Higher After US
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2FCRGdHTzR6SUxHZFpBM1ZFZmxVVVZWd0loUDVQdU1yOV9kbk5PZFktOU5uQ25FaG4yVThIVGJ6eXZSOU5qMnVXTjdBU2RIekR0eWN1T18tb3FTbWEzNlhKQk5NZFcyNGsybHJRX0Z0QVBuQUhSTVVXTU1TQkV0SG5kTHdqVmRORUtzaUtLY0Vkb091RExJN0xuZUVta0xXS0VhN3p2dlk0NWVINm4yaQ?oc=5
-
-- NSE's next big bet: India’s first domestic-benchmark gas futures - Finshots
-  NSE's next big bet:
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1FyTHI1Qm5XalYtcmltUTlrNm1ROXd6VVJadkxudkVyaDd5QW9QdjdxVjM5OWxudEtfWEg3TUdsc05zVHYwSUJINGJHdmtPX04zQkVLXzV2THlkY254emJmQVFQMnllaGRNd0hWeVA1QnZTZlQ1VXozOC1DWHNzTmVpWUZfZmptcVBoNFFxdlF3X0Y3?oc=5
-
-- Midcap mayhem! 10 stocks that plunged up to 29% in March. How many do you own?
-  Midcap stocks saw sharp declines in March as rising crude prices, geopolitical tensions and continued FII outflows dragged markets lower. This list highlights 10 worst-performing midcaps, with losses of up to 29%, reflecting
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcap-mayhem-10-stocks-that-plunged-up-to-29-in-march-how-many-do-you-own/slideshow/130014658.cms
-
-- Bitcoin holds near $67K as crypto markets stay muted; volatility seen rising ahead
-  Bitcoin hovered near the $67,000 mark on Saturday. Analysts flagged tightening ranges and bottoming implied volatility. Key levels remain $65k on the downside and $69K on the upside.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-67k-as-crypto-markets-stay-muted-volatility-seen-rising-ahead/articleshow/130014542.cms
-
-- Selling by Bitcoin ‘whales’ blunts institutional demand
-  CryptoQuant: Bitcoin demand remains weak as whales and broader market participants continue to sell. Despite a brief rebound in March, sustained negative accumulation could keep Bitcoin stuck in a broader bear trend.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/selling-by-bitcoin-whales-blunts-institutional-demand/articleshow/130014049.cms
-
-- Smallcap Stars: 10 stocks rally up to 72% despite 11% Nifty crash in March. Do you own any?
-  Despite 11% fall in the Nifty during March, select smallcap stocks delivered strong gains of up to 72%. List highlights standout performers across sectors that defied the broader market downturn.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smallcap-stars-10-stocks-rally-up-to-72-despite-11-nifty-crash-in-march-do-you-own-any/slideshow/130013994.cms
-
-- Global markets at an inflexion point: Q2 could reward patience over prediction
-  Global markets are shifting from a low-volatility regime due to geopolitical tensions and persistent inflation. As Q2 begins, investors face uncertainty regarding valuation sustainability in a higher-rate environment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-at-an-inflexion-point-q2-could-reward-patience-over-prediction/articleshow/130013139.cms
-
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
+- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - India Today
+  Congress leaders break ranks with Rahul Gandhi on Iran war.
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
 
 - India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
   India, Bangladesh Talk Defence Ties As Dhaka Moves
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
 
-- ‘Not Kashmir’: Rajasthan's Bikaner turns white after intense hailstorm | Watch | India News - Hindustan Times
-  Rajasthan's Bikaner turns white after intense ha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm83bEJmWU1KYndmT1hqTkdaVklRYUNyZ0FsVXdFa1JOYVJRX1pQai0taVJKWF9DTDFuTjZ5bXhLZDMxUEVWT0NIeDhmdGJfTGl2N2ZzZGdpT2xmaS1QZ3lkWWRjdDV0VlRBdm5WQUc1UXZ6a3EtWjBnQ3RSS3ZJMGdxS25qNEZ5Y1kybnA2Yks0OVhYMjhEVWZ0NVlYM1hTcmQ1YjVfS2x1RHRtUzF1U1NRVzd4YWxWNzI0NFh4QjBBNGwxY1FBeEJ4V2NRVGdB0gHWAUFVX3lxTE0zaDNnZGpfUC1uVUtxWUJzSlhNMEJQV2lHZVV2VTBzbzJlbS01dFd2N1BfYUhTeUZpNWE5SjU0XzFydXNKTllsUEZTa00tY25yNVRfMHdJNFZtNHZQOTk2T0tHZDc2UVJMNGxuR3UtYnFpd3d6enFMYnd5TG1lRE9ZSWdBUG1ISDhicFFhQlcwZ2NFSDVOdGxJaXFrNHRvYXpwR01NTE41aFVtcmV2al9XOHk1b19aVjdIUjZzR3g0bUZzSTdGSXRuLWY1VWVwX2hkRkZfc0E?oc=5
+- Evening news wrap: Iran says it never refused peace talks in Pakistan; Raghav Chadha's 'Dhurandhar' attack on AAP & more - The Times of India
+  Evening news wrap: Iran says it never refused peace talks in Pakistan; Raghav Chadha's
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOSjZjaUVpdGswZEpQVzhkZFNmLVMzM09lb25ydno1MEczTkxycnFLSEdHMk1nU2U0ZmtmUF8zMW11ZlNDdXY5VGp5V3pGNkdxcnRfYTgwdGFpUDBJSjFnaGRJNmFERFBpM3FqcU1iVFRaOENEM2N4VThCY0FNUlZHMjBVS0I1RVQzdERKY1kwWUQ3dmNCZ29xaXhib3JRd3d3Rnk3cjhhcldydzZDQnRXbEhVblJDeDdrNXJZVmQxU254TTNKQTA5a0RUTllhc01tX3dfTE5VcVRXdUhualhvMkh4NXA0Sm1rX3NwNjgtd19jcV8xUWYzRndocUgxSWJiTmk2dWlWRFJwMzI4aFE?oc=5
 
-- ‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war - The Guardian
-  ‘India is going to face a food crisis’: Farmers panic
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURkakJhTDRNSnRua20xcVR6QWY5UWlNSnRHV21oS3Jhb2FGTFVhRmozOFZNTlZjNVRrLXlpdzdLMEFpMlhkWngxSEJLQnFlb2ppSEc1bi1FTlNTMTlCRmNyeHRUQ1NfUEpubHJJTXhrRG5vU3d0LWY3NDdrdW42LVR2aHJ5X1dkRVgxTGRldVZLUVNKNEE?oc=5
+- Gratuity After Just One Year? Here Is What The New Labour Codes Mean For Fixed-Term Workers - NDTV
+  &nbsp;&ngt;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNemIwYWtLTlZadFlTOVNkVDBmZ3dBdjRGbWo0dldadWpXLVVGRmZfTFBBSHh3Nzd3ZlU5OE5yVktyTndFUU5nVmd0MWN2aFYwWUVxWGY1V0kxNFdNVmplYmNrOG56a28wcjBWSVhPYUk0Q1RPQUhaMmMxQU9KSk5ZV29nVWhfai1TM1B2VDFMYUJlYnplTHhRZF9VOF9HOFZzYjBId1pJNEVOR3dwMGN1NjhHYndKNG9XS2dnN3VhUWlPYWxsSkZoWDFIUdIB0wFBVV95cUxNaUNXUFhTWV9OUmFrUWlBcmZHRklTUEE4YU5uXzVkNG05NWFIYXpJSWFveWVTTi1ZLTltOHgzMXRKek40YTNxdl9VUFMwSHF1RjhMOGpTRlN5bklDWDBGUUJiQmxDQm8wZi1BN0FjeTVWenRBTlhmeGRKOVQyc1NacmxBUEROSERvZWJnSjI0bDNWYnVhRlY5azBHaDE2eEo3Q3RFUGhTdUJFa0dEY0pQUkhZdVZDWTl6LV9DYzlyU05mdmNLd3ZjSkpRODNBdFpXckZN?oc=5
 
-- Earthquake tremors felt in several parts of north India - The Hindu
-  Earthquake tremors felt in several
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
+- 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
+  8 Indian Vessels Have Crossed Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
 
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
-  India, Bangladesh Talk Defence Ties As Dhaka Moves
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- ‘Not Kashmir’: Rajasthan's Bikaner turns white after intense hailstorm | Watch | India News - Hindustan Times
-  Rajasthan's Bikaner turns white after intense ha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm83bEJmWU1KYndmT1hqTkdaVklRYUNyZ0FsVXdFa1JOYVJRX1pQai0taVJKWF9DTDFuTjZ5bXhLZDMxUEVWT0NIeDhmdGJfTGl2N2ZzZGdpT2xmaS1QZ3lkWWRjdDV0VlRBdm5WQUc1UXZ6a3EtWjBnQ3RSS3ZJMGdxS25qNEZ5Y1kybnA2Yks0OVhYMjhEVWZ0NVlYM1hTcmQ1YjVfS2x1RHRtUzF1U1NRVzd4YWxWNzI0NFh4QjBBNGwxY1FBeEJ4V2NRVGdB0gHWAUFVX3lxTE0zaDNnZGpfUC1uVUtxWUJzSlhNMEJQV2lHZVV2VTBzbzJlbS01dFd2N1BfYUhTeUZpNWE5SjU0XzFydXNKTllsUEZTa00tY25yNVRfMHdJNFZtNHZQOTk2T0tHZDc2UVJMNGxuR3UtYnFpd3d6enFMYnd5TG1lRE9ZSWdBUG1ISDhicFFhQlcwZ2NFSDVOdGxJaXFrNHRvYXpwR01NTE41aFVtcmV2al9XOHk1b19aVjdIUjZzR3g0bUZzSTdGSXRuLWY1VWVwX2hkRkZfc0E?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- ‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war - The Guardian
-  ‘India is going to face a food crisis’: Farmers panic
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURkakJhTDRNSnRua20xcVR6QWY5UWlNSnRHV21oS3Jhb2FGTFVhRmozOFZNTlZjNVRrLXlpdzdLMEFpMlhkWngxSEJLQnFlb2ppSEc1bi1FTlNTMTlCRmNyeHRUQ1NfUEpubHJJTXhrRG5vU3d0LWY3NDdrdW42LVR2aHJ5X1dkRVgxTGRldVZLUVNKNEE?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Earthquake tremors felt in several parts of north India - The Hindu
-  Earthquake tremors felt in several
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
-
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
-
-- India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
-  India, Bangladesh Talk Defence Ties As Dhaka Moves
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
-
-- ‘Not Kashmir’: Rajasthan's Bikaner turns white after intense hailstorm | Watch | India News - Hindustan Times
-  Rajasthan's Bikaner turns white after intense ha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm83bEJmWU1KYndmT1hqTkdaVklRYUNyZ0FsVXdFa1JOYVJRX1pQai0taVJKWF9DTDFuTjZ5bXhLZDMxUEVWT0NIeDhmdGJfTGl2N2ZzZGdpT2xmaS1QZ3lkWWRjdDV0VlRBdm5WQUc1UXZ6a3EtWjBnQ3RSS3ZJMGdxS25qNEZ5Y1kybnA2Yks0OVhYMjhEVWZ0NVlYM1hTcmQ1YjVfS2x1RHRtUzF1U1NRVzd4YWxWNzI0NFh4QjBBNGwxY1FBeEJ4V2NRVGdB0gHWAUFVX3lxTE0zaDNnZGpfUC1uVUtxWUJzSlhNMEJQV2lHZVV2VTBzbzJlbS01dFd2N1BfYUhTeUZpNWE5SjU0XzFydXNKTllsUEZTa00tY25yNVRfMHdJNFZtNHZQOTk2T0tHZDc2UVJMNGxuR3UtYnFpd3d6enFMYnd5TG1lRE9ZSWdBUG1ISDhicFFhQlcwZ2NFSDVOdGxJaXFrNHRvYXpwR01NTE41aFVtcmV2al9XOHk1b19aVjdIUjZzR3g0bUZzSTdGSXRuLWY1VWVwX2hkRkZfc0E?oc=5
-
-- ‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war - The Guardian
-  ‘India is going to face a food crisis’: Farmers panic
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURkakJhTDRNSnRua20xcVR6QWY5UWlNSnRHV21oS3Jhb2FGTFVhRmozOFZNTlZjNVRrLXlpdzdLMEFpMlhkWngxSEJLQnFlb2ppSEc1bi1FTlNTMTlCRmNyeHRUQ1NfUEpubHJJTXhrRG5vU3d0LWY3NDdrdW42LVR2aHJ5X1dkRVgxTGRldVZLUVNKNEE?oc=5
-
-- Earthquake tremors felt in several parts of north India - The Hindu
-  Earthquake tremors felt in several
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
-
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
-
-- India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
-  India, Bangladesh Talk Defence Ties As Dhaka Moves
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
-
-- ‘Not Kashmir’: Rajasthan's Bikaner turns white after intense hailstorm | Watch | India News - Hindustan Times
-  Rajasthan's Bikaner turns white after intense ha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm83bEJmWU1KYndmT1hqTkdaVklRYUNyZ0FsVXdFa1JOYVJRX1pQai0taVJKWF9DTDFuTjZ5bXhLZDMxUEVWT0NIeDhmdGJfTGl2N2ZzZGdpT2xmaS1QZ3lkWWRjdDV0VlRBdm5WQUc1UXZ6a3EtWjBnQ3RSS3ZJMGdxS25qNEZ5Y1kybnA2Yks0OVhYMjhEVWZ0NVlYM1hTcmQ1YjVfS2x1RHRtUzF1U1NRVzd4YWxWNzI0NFh4QjBBNGwxY1FBeEJ4V2NRVGdB0gHWAUFVX3lxTE0zaDNnZGpfUC1uVUtxWUJzSlhNMEJQV2lHZVV2VTBzbzJlbS01dFd2N1BfYUhTeUZpNWE5SjU0XzFydXNKTllsUEZTa00tY25yNVRfMHdJNFZtNHZQOTk2T0tHZDc2UVJMNGxuR3UtYnFpd3d6enFMYnd5TG1lRE9ZSWdBUG1ISDhicFFhQlcwZ2NFSDVOdGxJaXFrNHRvYXpwR01NTE41aFVtcmV2al9XOHk1b19aVjdIUjZzR3g0bUZzSTdGSXRuLWY1VWVwX2hkRkZfc0E?oc=5
-
-- ‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war - The Guardian
-  ‘India is going to face a food crisis’: Farmers panic
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURkakJhTDRNSnRua20xcVR6QWY5UWlNSnRHV21oS3Jhb2FGTFVhRmozOFZNTlZjNVRrLXlpdzdLMEFpMlhkWngxSEJLQnFlb2ppSEc1bi1FTlNTMTlCRmNyeHRUQ1NfUEpubHJJTXhrRG5vU3d0LWY3NDdrdW42LVR2aHJ5X1dkRVgxTGRldVZLUVNKNEE?oc=5
-
-- Earthquake tremors felt in several parts of north India - The Hindu
-  Earthquake tremors felt in several
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
-
-- Iran war could make beer and bottled water pricier for Indians - BBC
-  Iran war could make beer and bottled water pric
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR0tlSmlsQnBpWlp0QkhZNlpjcVBua1FJQUcyR2pJeUVoNHpsSGJVR0xaVDJqWEQ2WjJuY3d3V1l3R2laMEt6cFYwaHljd3BadGZDU25aOThwQQ?oc=5
-
-- India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
-  India, Bangladesh Talk Defence Ties As Dhaka Moves
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
-
-- ‘Not Kashmir’: Rajasthan's Bikaner turns white after intense hailstorm | Watch | India News - Hindustan Times
-  Rajasthan's Bikaner turns white after intense ha
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm83bEJmWU1KYndmT1hqTkdaVklRYUNyZ0FsVXdFa1JOYVJRX1pQai0taVJKWF9DTDFuTjZ5bXhLZDMxUEVWT0NIeDhmdGJfTGl2N2ZzZGdpT2xmaS1QZ3lkWWRjdDV0VlRBdm5WQUc1UXZ6a3EtWjBnQ3RSS3ZJMGdxS25qNEZ5Y1kybnA2Yks0OVhYMjhEVWZ0NVlYM1hTcmQ1YjVfS2x1RHRtUzF1U1NRVzd4YWxWNzI0NFh4QjBBNGwxY1FBeEJ4V2NRVGdB0gHWAUFVX3lxTE0zaDNnZGpfUC1uVUtxWUJzSlhNMEJQV2lHZVV2VTBzbzJlbS01dFd2N1BfYUhTeUZpNWE5SjU0XzFydXNKTllsUEZTa00tY25yNVRfMHdJNFZtNHZQOTk2T0tHZDc2UVJMNGxuR3UtYnFpd3d6enFMYnd5TG1lRE9ZSWdBUG1ISDhicFFhQlcwZ2NFSDVOdGxJaXFrNHRvYXpwR01NTE41aFVtcmV2al9XOHk1b19aVjdIUjZzR3g0bUZzSTdGSXRuLWY1VWVwX2hkRkZfc0E?oc=5
-
-- ‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war - The Guardian
-  ‘India is going to face a food crisis’: Farmers panic
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOYURkakJhTDRNSnRua20xcVR6QWY5UWlNSnRHV21oS3Jhb2FGTFVhRmozOFZNTlZjNVRrLXlpdzdLMEFpMlhkWngxSEJLQnFlb2ppSEc1bi1FTlNTMTlCRmNyeHRUQ1NfUEpubHJJTXhrRG5vU3d0LWY3NDdrdW42LVR2aHJ5X1dkRVgxTGRldVZLUVNKNEE?oc=5
-
-- Earthquake tremors felt in several parts of north India - The Hindu
-  Earthquake tremors felt in several
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGdETFI1UHpHMTNPSjlaTWlCRzJROHhjd2w4YzkwdlRnZW9tQUMyNTQtVDBBZHdoT3hMX0ZETzBaekNzbGVhRnBZejh0Uzd4Y2cwN0EwQ1lYczBHTHhYU25MZHJIRkZfNDlUYTh4RnZheklSWnVlYzJzaDlDODRjS2N6Y1FZcnZMWFk5azNQY2NZT1c1dlVWOGRvRHo2NmlxZG5uQktXMC1GOTlfV2NVNTZCOWJLWHNYWXBYM1d3cEpzYndzVjV6UmwzakFpWlRLQkNTelVn0gHcAUFVX3lxTE1ybmwtNXZnU3hhM1YyQjlRVEdFWEdVMTd5aWRJeWx2Ql9xU2RrWFNPdkhOczFrNUpIWlgxR1B3Wnh1UlhSWS1fbVlySG1MRVNaX0lPbzlpWnI1cUdxZF81VDhQbWlLX290akY4SGxzeTRtOUFYYTNhQ0dKR2dKZGNIS0hBSmtJVEdXV3h1RGFBUHBMa2JPdTZxYURNX1pXcVU4VmJULXc4V1lyWk9fVFkxTnZMTTZnQ1FHUm43SzBKNTZySWdLdlJzYW1oRVVkSnl2T2JtTXl6dXFmS3o?oc=5
-
-- OpenAI acquires technology talk show TBPN in surprise move - Reuters
-  OpenAI acquires technology talk show
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 - The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
   The proliferation of AI-enabled military technology in the Middle East.
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
 
+- NASA's Artemis II moon mission: iPhones, Nikon cameras and all the tech on spacecraft - The Times of India
+  The Times of India has published an article on NASA's Artemis II moon mission
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSHQyLW16VjRMQ2N1ZG5aTG9zdnRPVUxPQnduSmJKSGlKMmphSThMMDkxVjl4YW9HSVBCYURXbDNrVXNxcGFFdFVQek53OFFNSk5yMW9QOVBLTUx5MDRHMFV2OTlhcS0xRlNEYUF5SDZnSUpFbkY5OUxXWGtaSkZuWmN1Sm9jQ0pfZGkzOENwVFZIMjZ6LWV2VXNid0lRam1aUnVhQWxkVnlmYkZyb1gzSnNWZk1ndlcwT25QMThzWmxubV82NmV1clpxZVNtay1rdTBrOU5EMkxUaEI4YUllVjlBQnc2OWFncDNrcS0yR1AwVnVXTEFNRdIB_gFBVV95cUxQWk9ldDN2STVjZ2h1cDhKLV9hVTN2b0poQjVZX2thbHc0X2tBQUlCNlVIaWpZOW00MHA5UHFYclBwZWpyTU9qNDlJX3ZwMW14SXlQVG5FNHFwNkFoczQ3dmlMVDF3ZkktdDFaQVUyX1ZqczNoME91Yl8yV2o0eElXYlVsYTFDR2praFlfSHVNLUFxRTZ6NTJvbWZsR3dXbWo5VExqQlVRaG03QmtpNmVBSnBEeWJBQmRma0h4VGc3c0hGUmNpQ1RNeU93Zi1YenlxVTJtMlRyMHgxLW44aVEwbU5pc21mSlV5U2d0cDVjNFZHcTBVb2NpSmhXV3Z0QQ?oc=5
+
+- AI is rewiring the world’s most prolific film industry - Reuters
+  AI is rewiring the world
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5
+
 - Gemma 4: Byte for byte, the most capable open models - blog.google
   Gemma 4: Byte for byte
   🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5
 
-- Under the Skin of America’s Humanoid Robots: Chinese Technology - wsj.com
+- Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ
   Under the Skin of America’
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
 
-- MUHS invites applications from faculty for advanced course in health sciences education technology,... - Medical Dialogues
-   MUHS invites applications from faculty for advanced course in health sciences
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxPT3h6QlVtcXVQSkNtVW80d3ctVnRoOVNvZFpNeUVkakkzNW80a1ZFWGJudVo5eHVNdVRwMmM3SVNvamVwVHAxb2d3eC1naV9aaGhYMVpyVzJJbU1ITHpVaTdxeFFTVF83TFpISXFWcGpLNmpjQ0R1N0M4dUtVVm9FM0pTeWh0c3BnMVkxNEpBcGdnU2l1M1M2OHFfWnNVWWFGbURQcHgtRzdsWWJEMzNPS01fWlR2VnR3T3R5MVY4STRaZTBrdGpPamdDRWhDOVRFVldEY21DSVpVQjEtWTY3c0x5ay02OFJPQ1BpV2UxVC0zUEdzOEl2VTg3NEZ4d2VVMUl0ajNn0gGLAkFVX3lxTE1LUElGaTY3V2NPckZMS24wU1RTR2p1S3JQOHRVeFhBT3I3eGxOaDM3amVlTzVPV3k0ODZfdnllblZJMzBzU0FVTVVoS0R2YVd5MUY0bEhxb1FHaFVHNUh1WkhUbnNORHp2aWY2bmxJempYWGVsUXBFT1Z4dGpVOXpid3BzUzU2b1VqdE1ldjBVZ25BU3AwZ3lNUUpqWFJSeFVuN1NRdmJKRkZEd1Y0bDNGMFVKYm53bWdYQWVqRUc3LUJtMkYxbkhBYWVPOEVXR0V0a29MZjJPV3kycG5CLThtLTl6V1VZNFBhS21iX2E2aWw4cGhBWENOVkxDb01ORE43THpJd0hHenNuRQ?oc=5
 
-
-_Last updated: 2026-04-04 06:58:45 UTC_
+_Last updated: 2026-04-04 12:45:38 UTC_
