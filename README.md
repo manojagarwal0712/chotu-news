@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- ‘Linguistic imposition’ vs ‘linguistic liberation’: Stalin and Pradhan clash over 3-language formula
+  
+  🔗 https://indianexpress.com/article/india/mk-stalin-dharmendra-pradhan-hindi-imposition-nep-samagra-shiksha-funding-row-10619280/
+
+- J&K Assembly clears Bill to set up private universities; Omar Abdullah calls it ‘milestone’ for youth
+  
+  🔗 https://indianexpress.com/article/india/jk-assembly-bill-private-universities-omar-abdullah-milestone-youth-10619189/
+
+- Puri airport gets Centre’s Stage-I forest clearance; project to boost global pilgrim connectivity
+  
+  🔗 https://indianexpress.com/article/india/puri-airport-forest-clearance-stage-1-jagannath-international-airport-10619141/
+
 - Meitei MLAs led by Manipur CM Khemchand Singh travel to Jiribam by road, to camp for 3 days
   
   🔗 https://indianexpress.com/article/india/meitei-mlas-led-by-manipur-cm-khemchand-singh-travel-to-jiribam-by-road-to-camp-for-3-days-10619056/
@@ -7,18 +19,6 @@
 - High-Speed Rail in India: DPRs for 3 bullet train corridors likely by March 2027
   
   🔗 https://indianexpress.com/article/india/high-speed-rail-in-india-dprs-for-3-bullet-train-corridors-likely-by-march-2027-10618888/
-
-- J&K minister revives Mehbooba’s old remark, blames PDP for abrogation of Article 370
-  
-  🔗 https://indianexpress.com/article/india/jk-assembly-row-ittoo-pdp-article-370-mufti-remark-10618917/
-
-- ‘Everything is being weaponised’: S Jaishankar warns of structural global shifts while hailing India’s resilience amid West Asia war
-  
-  🔗 https://indianexpress.com/article/india/india-s-jaishankar-iim-raipur-convocation-global-shocks-india-economy-resilience-10618729/
-
-- Indian Railways hits new milestone: Western Dedicated Freight Corridor fully completed; train capacity set to double
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-hits-new-milestone-western-dedicated-freight-corridor-fully-completed-train-capacity-set-to-double-10618737/
 
 - Your car is now a mobile office: Google Meet launches on Apple CarPlay with a strict safety twist
   
@@ -60,6 +60,10 @@
   The directive follows a probe into Jio’s discontinuation of certain entry-level prepaid recharge plans offering 1 GB data per day.
   🔗 https://www.livemint.com/companies/news/reliance-jio-tariff-plan-telecom-industry-india-regulator-trai-airtel-11775204254480.html
 
+- IMF Warns Tokenized Finance Risks Amplifying Market Crises Ahead
+  Blockchain could accelerate financial crises beyond regulators’ ability to respond, IMF says. Technology promises to cut costs and eliminate settlement delays, IMF
+  🔗 https://www.livemint.com/market/imf-warns-tokenized-finance-risks-amplifying-market-crises-ahead-11775308862640.html
+
 - Defying the sell-off: 5 stocks holding firm in a volatile market
   As sharp swings rattle Indian equities, a handful of stocks are bucking the
   🔗 https://www.livemint.com/market/stock-market-news/defying-the-sell-off-5-stocks-holding-firm-in-a-volatile-market-11775131453088.html
@@ -75,10 +79,6 @@
 - Gold, silver rate today, 4 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
   Gold, silver rate today, 4 April: Check the live price of gold and silver today in Delhi,
   🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-4-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775273464551.html
-
-- HDFC Bank share price dips 25% in YTD. Should you buy after a strong financial update?
-  HDFC Bank share price has fallen from  ₹
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-dips-25-in-ytd-whats-wrong-with-the-dalal-street-heavyweight-11775269496136.html
 
 - Apple 50th anniversary sale: iPhone 17 drops below  ₹50,000, iPhone 17 Pro Max available at  ₹1,02,900
   Apple celebrates 50 years with discounts on iPhones including the iPhone 17 and Pro Max. Customers can benefit
@@ -120,25 +120,65 @@
   Nifty ended lower after persistent selling dragged the index below key short-term supports. With the index approaching the crucial 21,700 zone, sentiment remains fragile amid global uncertainties. Technical indicators stay bearish, suggesting caution, selective
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-all-eyes-on-21700-make-or-break-zone-as-nifty-weakens-further/articleshow/130015190.cms
 
-- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - India Today
-  Congress leaders break ranks with Rahul Gandhi on Iran war.
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
+- 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
+  8 Indian Vessels Have Crossed Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
 
-- India, Bangladesh Talk Defence Ties As Dhaka Moves Away From Yunus' Pak Push - NDTV
-  India, Bangladesh Talk Defence Ties As Dhaka Moves
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVpaZWRvdWg4YXpIOEQ2X1BqN0g2ZTZ1MEtkX1U4MXJvRzU0cFp1NEFNWjNkWm93UzgyMUZTNE56R0tBaVA3ZUxYSzVDZV9pd0tpcGhKMFB6TDBzZUk3cGhaMDd1aGkzeEkxVnUyRVhYWVpFM0FKNWZHdmlsZUt1aS1OQzhFdHBET3JJQnVLZkJDUU1tOVlBNVM5R3ZsLW9WV0hqeWpjQXRMLUxVTjRqcTJ2ZWdKUdIBvgFBVV95cUxNRElMQVpaRlNkMTBwRUZpYnlGN2RjRHJmUjlhTE9RdjhMbnJqX3BDQ08yZmlJY3VYV0pnWHhXeEppbGtDOVl4d1p5aVRjQ0c2RUFBQkpIQlVrakhrRnlPajdCUmpTU002ZThCQWc3bGpCSGE0aXpoZkM5SjNpRk1abDNuQzRMVHdCYThYTUtzUGxpdC1KU0RMck1hQ2JXbWxmVm9KWFZpLXh6cVFYcU5CMFE0S3lHUEluOGZLeG9R?oc=5
+- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - The Times of India
+  7th India-flagged LPG tanker crosses
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
 
-- Evening news wrap: Iran says it never refused peace talks in Pakistan; Raghav Chadha's 'Dhurandhar' attack on AAP & more - The Times of India
-  Evening news wrap: Iran says it never refused peace talks in Pakistan; Raghav Chadha's
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOSjZjaUVpdGswZEpQVzhkZFNmLVMzM09lb25ydno1MEczTkxycnFLSEdHMk1nU2U0ZmtmUF8zMW11ZlNDdXY5VGp5V3pGNkdxcnRfYTgwdGFpUDBJSjFnaGRJNmFERFBpM3FqcU1iVFRaOENEM2N4VThCY0FNUlZHMjBVS0I1RVQzdERKY1kwWUQ3dmNCZ29xaXhib3JRd3d3Rnk3cjhhcldydzZDQnRXbEhVblJDeDdrNXJZVmQxU254TTNKQTA5a0RUTllhc01tX3dfTE5VcVRXdUhualhvMkh4NXA0Sm1rX3NwNjgtd19jcV8xUWYzRndocUgxSWJiTmk2dWlWRFJwMzI4aFE?oc=5
+- One more Indian-flagged LPG tanker Green Sanvi on way to India after crossing war-affected Strait of Hormuz - News On AIR
+  One more Indian-flagged LPG tanker Green Sanvi on way to India after
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTUp0M05TT1hsWTllUDZ0VUlIay1oUEtRR29wUmdQdk1BN3dHdm95MXJuRUlrMk9Ya0hmVEFBZFhkNGRZLTZ3SmRteTBXQW5VVWxkTlFmU0tUYUNLMVJfbW9oZERvcW40WTFydmpwT1c2aS0wdW41cVJSTUM0c0hkc082cG5UUE53VUFwc2xpZ18yWGR0Vk9Td01EaURfTnVHbFFkM0EwWENBUmhRSmRNVjNLbGNFS3hVeXpWOGd4dzBRcnVMeGVrdnJsU1lycWFxeDlv?oc=5
 
-- Gratuity After Just One Year? Here Is What The New Labour Codes Mean For Fixed-Term Workers - NDTV
-  &nbsp;&ngt;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNemIwYWtLTlZadFlTOVNkVDBmZ3dBdjRGbWo0dldadWpXLVVGRmZfTFBBSHh3Nzd3ZlU5OE5yVktyTndFUU5nVmd0MWN2aFYwWUVxWGY1V0kxNFdNVmplYmNrOG56a28wcjBWSVhPYUk0Q1RPQUhaMmMxQU9KSk5ZV29nVWhfai1TM1B2VDFMYUJlYnplTHhRZF9VOF9HOFZzYjBId1pJNEVOR3dwMGN1NjhHYndKNG9XS2dnN3VhUWlPYWxsSkZoWDFIUdIB0wFBVV95cUxNaUNXUFhTWV9OUmFrUWlBcmZHRklTUEE4YU5uXzVkNG05NWFIYXpJSWFveWVTTi1ZLTltOHgzMXRKek40YTNxdl9VUFMwSHF1RjhMOGpTRlN5bklDWDBGUUJiQmxDQm8wZi1BN0FjeTVWenRBTlhmeGRKOVQyc1NacmxBUEROSERvZWJnSjI0bDNWYnVhRlY5azBHaDE2eEo3Q3RFUGhTdUJFa0dEY0pQUkhZdVZDWTl6LV9DYzlyU05mdmNLd3ZjSkpRODNBdFpXckZN?oc=5
+- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
+  India's Defence Exports At All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+
+- ‘Will take it to Kolkata’: Pakistan minister Asif's big threat after Rajnath's stern warning | India News - Hindustan Times
+  ‘Will take it to Kolkata’: Pakistan minister Asif
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcEVSVWJ2ZUJTNDBDR0E3Sml5YTZaczRZWVNLNmRJUW1hdlFfQTVkUEI4QXU5R0w2b3F6WUhheWN2NHBfYTBGV1lFUk91NjFWVmVsWXFFTGhwSU5FaFRrUF83Q3RJMEt0M2pJVGFrbnVQblRzVEQtOVI0emtuVkJVbE92cTI1SDh1SDFSd3NrM1ptWWJGWVpDbndxM3lOc2J1Z0V5YUJCRkdGRlBSM254RHBjZUh4NGRxaW9KaUlzTllnUEJ6emdlOV91UGlWVlJVNFJmbk9ldmYwMWFqbGdfajZHcWjSAeoBQVVfeXFMTm9USTFCM2RiUEV4QTdyQ0FKMjNJSWpmdk9oMC1TTUJCdTlLOE15aFJsVXdGRVhscnlfbUJmbHBNUnR3bVZFY1pTRVlmcDc1bHpkLVhLRGdpQW5kSEdHYVpUaGVsVmlvQllTZDFObDdDQjFrd2MwX3N0NXZXTjY4TEc3SE13c3drM1VYUkFSM2F5aFFYVlQ1dmVhX3U0TjVral9sRWtBTjFHRUhtSXZFYlBzZFVGSnVZMm1zb3JqZmlBUVpwVUkwZ0VoNmx4b1RvUS0xWldnR2JzT2pqNUFDVnlpV29DRXV4aGl3?oc=5
 
 - 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
   8 Indian Vessels Have Crossed Strait Of Horm
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
+
+- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - The Times of India
+  7th India-flagged LPG tanker crosses
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
+
+- One more Indian-flagged LPG tanker Green Sanvi on way to India after crossing war-affected Strait of Hormuz - News On AIR
+  One more Indian-flagged LPG tanker Green Sanvi on way to India after
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTUp0M05TT1hsWTllUDZ0VUlIay1oUEtRR29wUmdQdk1BN3dHdm95MXJuRUlrMk9Ya0hmVEFBZFhkNGRZLTZ3SmRteTBXQW5VVWxkTlFmU0tUYUNLMVJfbW9oZERvcW40WTFydmpwT1c2aS0wdW41cVJSTUM0c0hkc082cG5UUE53VUFwc2xpZ18yWGR0Vk9Td01EaURfTnVHbFFkM0EwWENBUmhRSmRNVjNLbGNFS3hVeXpWOGd4dzBRcnVMeGVrdnJsU1lycWFxeDlv?oc=5
+
+- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
+  India's Defence Exports At All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+
+- ‘Will take it to Kolkata’: Pakistan minister Asif's big threat after Rajnath's stern warning | India News - Hindustan Times
+  ‘Will take it to Kolkata’: Pakistan minister Asif
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcEVSVWJ2ZUJTNDBDR0E3Sml5YTZaczRZWVNLNmRJUW1hdlFfQTVkUEI4QXU5R0w2b3F6WUhheWN2NHBfYTBGV1lFUk91NjFWVmVsWXFFTGhwSU5FaFRrUF83Q3RJMEt0M2pJVGFrbnVQblRzVEQtOVI0emtuVkJVbE92cTI1SDh1SDFSd3NrM1ptWWJGWVpDbndxM3lOc2J1Z0V5YUJCRkdGRlBSM254RHBjZUh4NGRxaW9KaUlzTllnUEJ6emdlOV91UGlWVlJVNFJmbk9ldmYwMWFqbGdfajZHcWjSAeoBQVVfeXFMTm9USTFCM2RiUEV4QTdyQ0FKMjNJSWpmdk9oMC1TTUJCdTlLOE15aFJsVXdGRVhscnlfbUJmbHBNUnR3bVZFY1pTRVlmcDc1bHpkLVhLRGdpQW5kSEdHYVpUaGVsVmlvQllTZDFObDdDQjFrd2MwX3N0NXZXTjY4TEc3SE13c3drM1VYUkFSM2F5aFFYVlQ1dmVhX3U0TjVral9sRWtBTjFHRUhtSXZFYlBzZFVGSnVZMm1zb3JqZmlBUVpwVUkwZ0VoNmx4b1RvUS0xWldnR2JzT2pqNUFDVnlpV29DRXV4aGl3?oc=5
+
+- 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
+  8 Indian Vessels Have Crossed Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
+
+- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - The Times of India
+  7th India-flagged LPG tanker crosses
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
+
+- One more Indian-flagged LPG tanker Green Sanvi on way to India after crossing war-affected Strait of Hormuz - News On AIR
+  One more Indian-flagged LPG tanker Green Sanvi on way to India after
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTUp0M05TT1hsWTllUDZ0VUlIay1oUEtRR29wUmdQdk1BN3dHdm95MXJuRUlrMk9Ya0hmVEFBZFhkNGRZLTZ3SmRteTBXQW5VVWxkTlFmU0tUYUNLMVJfbW9oZERvcW40WTFydmpwT1c2aS0wdW41cVJSTUM0c0hkc082cG5UUE53VUFwc2xpZ18yWGR0Vk9Td01EaURfTnVHbFFkM0EwWENBUmhRSmRNVjNLbGNFS3hVeXpWOGd4dzBRcnVMeGVrdnJsU1lycWFxeDlv?oc=5
+
+- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
+  India's Defence Exports At All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+
+- ‘Will take it to Kolkata’: Pakistan minister Asif's big threat after Rajnath's stern warning | India News - Hindustan Times
+  ‘Will take it to Kolkata’: Pakistan minister Asif
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcEVSVWJ2ZUJTNDBDR0E3Sml5YTZaczRZWVNLNmRJUW1hdlFfQTVkUEI4QXU5R0w2b3F6WUhheWN2NHBfYTBGV1lFUk91NjFWVmVsWXFFTGhwSU5FaFRrUF83Q3RJMEt0M2pJVGFrbnVQblRzVEQtOVI0emtuVkJVbE92cTI1SDh1SDFSd3NrM1ptWWJGWVpDbndxM3lOc2J1Z0V5YUJCRkdGRlBSM254RHBjZUh4NGRxaW9KaUlzTllnUEJ6emdlOV91UGlWVlJVNFJmbk9ldmYwMWFqbGdfajZHcWjSAeoBQVVfeXFMTm9USTFCM2RiUEV4QTdyQ0FKMjNJSWpmdk9oMC1TTUJCdTlLOE15aFJsVXdGRVhscnlfbUJmbHBNUnR3bVZFY1pTRVlmcDc1bHpkLVhLRGdpQW5kSEdHYVpUaGVsVmlvQllTZDFObDdDQjFrd2MwX3N0NXZXTjY4TEc3SE13c3drM1VYUkFSM2F5aFFYVlQ1dmVhX3U0TjVral9sRWtBTjFHRUhtSXZFYlBzZFVGSnVZMm1zb3JqZmlBUVpwVUkwZ0VoNmx4b1RvUS0xWldnR2JzT2pqNUFDVnlpV29DRXV4aGl3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,25 +200,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
-  The proliferation of AI-enabled military technology in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- NASA's Artemis II moon mission: iPhones, Nikon cameras and all the tech on spacecraft - The Times of India
-  The Times of India has published an article on NASA's Artemis II moon mission
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSHQyLW16VjRMQ2N1ZG5aTG9zdnRPVUxPQnduSmJKSGlKMmphSThMMDkxVjl4YW9HSVBCYURXbDNrVXNxcGFFdFVQek53OFFNSk5yMW9QOVBLTUx5MDRHMFV2OTlhcS0xRlNEYUF5SDZnSUpFbkY5OUxXWGtaSkZuWmN1Sm9jQ0pfZGkzOENwVFZIMjZ6LWV2VXNid0lRam1aUnVhQWxkVnlmYkZyb1gzSnNWZk1ndlcwT25QMThzWmxubV82NmV1clpxZVNtay1rdTBrOU5EMkxUaEI4YUllVjlBQnc2OWFncDNrcS0yR1AwVnVXTEFNRdIB_gFBVV95cUxQWk9ldDN2STVjZ2h1cDhKLV9hVTN2b0poQjVZX2thbHc0X2tBQUlCNlVIaWpZOW00MHA5UHFYclBwZWpyTU9qNDlJX3ZwMW14SXlQVG5FNHFwNkFoczQ3dmlMVDF3ZkktdDFaQVUyX1ZqczNoME91Yl8yV2o0eElXYlVsYTFDR2praFlfSHVNLUFxRTZ6NTJvbWZsR3dXbWo5VExqQlVRaG03QmtpNmVBSnBEeWJBQmRma0h4VGc3c0hGUmNpQ1RNeU93Zi1YenlxVTJtMlRyMHgxLW44aVEwbU5pc21mSlV5U2d0cDVjNFZHcTBVb2NpSmhXV3Z0QQ?oc=5
-
-- AI is rewiring the world’s most prolific film industry - Reuters
-  AI is rewiring the world
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5
-
-- Gemma 4: Byte for byte, the most capable open models - blog.google
-  Gemma 4: Byte for byte
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5
-
-- Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ
-  Under the Skin of America’
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-04 12:45:38 UTC_
+_Last updated: 2026-04-04 18:38:08 UTC_
