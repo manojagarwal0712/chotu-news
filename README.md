@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- Jaishankar discusses ‘bilateral relations, regional developments’ in call with Iran foreign minister Araghchi
+  
+  🔗 https://indianexpress.com/article/india/jaishankar-discusses-bilateral-relations-regional-developments-in-call-with-iran-foreign-minister-araghchi-10620753/
+
+- Iran war: Air India, Air India Express plan 30 West Asia flights on April 6 – Check routes
+  
+  🔗 https://indianexpress.com/article/india/iran-war-air-india-air-india-express-plan-30-west-asia-flights-on-april-6-check-routes-10620326/
+
+- ‘Picture abhi baaki hai’: Raghav Chadha fires back at AAP colleagues with new video
+  
+  🔗 https://indianexpress.com/article/india/raghav-chadha-video-punjab-issues-aap-criticism-10620257/
+
+- Cash, liquor, drugs among freebies worth Rs 651 crore seized in four poll-bound states, UT: Election Commission
+  
+  🔗 https://indianexpress.com/article/india/cash-liquor-drugs-among-freebies-worth-rs-651-crore-seized-in-four-poll-bound-states-ut-election-commission-10620320/
+
 - India’s first semi-high-speed train completes 10 years: Check name, route, speed, stoppages
   
   🔗 https://indianexpress.com/article/india/indias-first-semi-high-speed-train-completes-10-years-check-name-route-speed-stoppages-10620103/
-
-- Congress claims Himanta’s wife has passports from 3 countries, Assam CM threatens to file defamation case
-  
-  🔗 https://indianexpress.com/article/india/congress-claims-himantas-wife-has-passports-from-3-countries-assam-cm-threatens-to-file-defamation-case-10620243/
-
-- ‘At least we can light a chulha here’: Scenes from a railway station in Bihar
-  
-  🔗 https://indianexpress.com/article/india/patna-junction-migrants-return-delhi-lpg-prices-west-asia-war-impact-10620070/
-
-- PHOTOS | Amrit Bharat Express train 3.0 to get AC coaches with new interior design
-  
-  🔗 https://indianexpress.com/article/india/photos-amrit-bharat-express-train-3-0-to-get-ac-coaches-with-new-interior-design-10619910/
-
-- NHSRCL plans Surat rolling stock depot for Mumbai-Ahmedabad bullet train commissioning
-  
-  🔗 https://indianexpress.com/article/india/nhsrcl-plans-surat-rolling-stock-depot-for-mumbai-ahmedabad-bullet-train-commissioning-10619408/
 
 - Xiaomi 17 Ultra is the ‘Leica’ camera phone I didn’t know I needed
   
@@ -60,6 +60,10 @@
   Buffett says he is not ready to commit to continuing his annual donations to the Gates Foundation. It is his first televised interview since stepping down
   🔗 https://www.livemint.com/companies/people/warren-buffett-to-stop-donating-to-gates-foundation-after-epstein-saga-billionaire-will-wait-and-see-what-unfolds-11775357259832.html
 
+- Wall Street Week Ahead: Focus on inflation reports, crude oil, Federal Reserve minutes
+  Eight OPEC members to raise production starting in May. Crude oil will remain a
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-inflation-reports-crude-oil-federal-reserve-minutes-11775405308423.html
+
 - Gold rate today: Yellow metal falls 7% during the US-Iran war. Is it a right time to buy gold?
   Despite continued geopolitical tensions, gold prices have declined by nearly 7% since February 28.
   🔗 https://www.livemint.com/market/commodities/gold-rate-today-yellow-metal-falls-7-during-the-us-iran-war-is-it-a-right-time-to-buy-gold-11775380117008.html
@@ -75,10 +79,6 @@
 - US-Iran war: Can US dollar replace gold as safe-haven asset amid soaring oil prices?
   Dollar index has rebounded strongly after falling nearly 10% in 2025. Here's what experts say on whether the index could replace gold as safe-
   🔗 https://www.livemint.com/market/stock-market-news/usiran-war-can-us-dollar-replace-gold-as-safe-haven-asset-amid-soaring-oil-prices-11775372285676.html
-
-- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war?
-  Both Indian indices - Sensex and Nifty 50 - ended the week on a lower note for sixth week. Checkout how's the Indian market is likely to perform this week,
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11775367985838.html
 
 - Mint Explainer | India finds a space surveillance market. Why regulations may pose a challenge
   Current global conflicts, such as the Iran war, have shown that most strikes are being driven by advanced remote ballistic missiles. While it means significant business scope for Indian
@@ -100,25 +100,25 @@
   Anthropic will stop supporting third-party AI tools like OpenClaw for its Claude subscription.
   🔗 https://www.livemint.com/technology/tech-news/using-openclaw-on-claude-anthropic-is-about-to-start-charging-you-extra-11775273277585.html
 
-- ‘It’s all fear and headlines’: energy traders race to keep pace with volatile oil markets - theguardian.com
-  ‘It’s all fear and headlines’:
+- ‘It’s all fear and headlines’: energy traders race to keep pace with volatile oil markets - The Guardian
+  ‘It’s all fear and headlines’: energy
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxObDg1X3gtNEV3aGNubFg5emVweG5fUVhnOXhndE1lUnlFTHBVTF90WThXRlpMc1FZWS1ld0I3SFR3UUQtX3BkMHhFRTVfYlN0Nno1UnlJenZZamZuRW1UQjIwRjN3dHVkSk4tYjI5N3BfQkJpczJrMThmSTVZdldtTHZzOFZGN0daV3FNYW1NR0VLeWJuREhNd0pzdW53bENzS0lJNFl2d1c1X3BqZEE0aTk0anB3MVNvWWZaZlBXek9udjZ2UHhLYTFMNFBqRUE?oc=5
 
-- Defying the sell-off: 5 stocks holding firm in a volatile market - Mint
-  The stock market has been in a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzBBd2lkYnFIMmx2bmpYUDdxTlN4Nk9GWnA5WnBXOGhVOUdUaVQwUjFfQy1mSE1uMWlJZVlROUc0S1E5M1FmZVMwcXpYNVpjSndNaVU1bjNEdmhCN0JkQXpsZGhZa3htQWhCckM0S3V5ZkRndTFkLUdZbWJXbnFKSWZkcktTUnBValAweWxlekJvYzZzaDNLNUFHeHR6SWpWQm52b3FMZkVnNjRDTDMzQzBvLTM5cUxzVHU4aWxGNUx0ejdXS3JNOVExVzBuUdIB0wFBVV95cUxQSG16MVRfUjF0WF9Mb1VRMkpXMDNuNmFFTGU3Q25pN1RNVk56MWYwS1JvZ2NsNmwtWHlwbEJ0a0k3N0w0eC0wTEl1dllhODd0MXpGM2E5dk9fRS1NWFR2MlpVcHYzRWJCc2c2QkVsXzVWVkpSMDJFWThaQjlwWm4tUUZUQmEzVDZyaUYwdFMxM1o2SnFocHFPOVdBZEhVRkJzYmNHZG5KRUlkT2d6VVV0NTZiRTdVdmpWWkxDTjlxUmowd3hKOFpvOHQwQmYwNnZUTm1j?oc=5
-
-- Ahead of Market: 10 things that will decide D-Street action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide D-
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdHl5Zkk0QkZQTGpscS11UzNEN295cU5yaTFUS05vc1FSZUFGQnVpR29xVDNyZE1qNWF1cjRsd1BCTERzaC1xM0RJWHZTLVpld2Zjdk5EM2d1NmlFYVFSV3FicnRhUkZoZzVRM0NuSkNZcXBVS3hFMUdyYmRieENfeENsWGhpOEREcDJWci1aVXBpOFpIS2FJc3pPRkxJZ1BHbktPaFRhLVliQUM2Y3lXNDZwa3JQOGVlUlo5bnNTS19qcmJ3U3BKNnFDT0lGS2lHMlZhZnJ6R0hRQdIB3wFBVV95cUxOeVlpUUd5ZUt2Q2JVZ1lZQm1ZSzRsbzd5eXU0bDdMWEtwYkt0MDVneTNiak9EOVhYZnBtU1pFTE5ibHhieUhVaS00MnlPUjNGM3BYZDhNbUE3Y1p2M2M2R0d6LTFOdjVPY1B1djZtX3E1UmdFWllXbmZKU29tYk9uTzB4amdNYWVBMEdsU0FIMHVsVi1IeHpFb2dVclphZGVxRlZ5NFdZc092ZmpaZ0pITGJ2MzVXUXpsZVpRMEhyczQ5dUNueDRlY09VNGRKR2s1ejZvVHQtM1lfZkRnLTVn?oc=5
-
-- Odisha bans open market LPG sales, mandates e-KYC for cylinder procurement - The Times of India
-  Odisha bans open market LPG sales, mandates e
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU0l0UlkwMDVwb0ZWNUY4aWRkUGxJUFphSW5YYnRyTmNjWVZISkdZcG9KT204UXJ2OXMyVTA5UVMtTUtiaGxKU3VPTjIxNDJvOGlxUkFNcnVzdEdGTTdiWEdPX3BYaTNNTGtYdk43ZzZrRHllLTZTcVlYRVh6d1MyOVFFclY5X1VBT0Z6VFQ5OGpXWmYzQ1ctZHo5MnRhbWNPM003dExKczZHNWRMZzI3ZGNvRDFSX2luUnd2YmhRUXZtVEZQdl84TXVNQXd5QlQ1MElhRmIxY0dPeVpNNDJFdXlNejFHLW_SAewBQVVfeXFMTXZJNmllejZ0STdhQXNfRUN2T3JDU1NRNFhoYnBaOG1JTzhmM1NzYUM4YTZ3aW82M3BnZXdjUVh3QWxzVXpxc3BnT3JZY3lJaWJJRnRwa3ZDeUdZUU5DeTRnLXR2QWxwbFpXUHlhdVZSNUVoT0w1bU54VlNuNlVFTjFBYzEtamUyV1h5VEhmWEZVOTN1VE0tNFV2VGpEYVFRejhyQ1VXSHRMRnZjNC0xN3NqR2hHZm9DWkxRbjFDMTdzeWUxdEFwRDYtMFBHWHJuLVRaTVpnbVZaU01BWFA2ZTFEZ1VBS0JfZ0h5SlU?oc=5
+- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war? - Mint
+  Indian stock market: How are Sensex and Nifty likely to perform
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXhqcXhwZnZ0czA5d2x5RDNrNTBsb3pRNjZ3R0dQQzF6R1I4eGJPbmF0VHRkeUhjMlFiSmd3Q3d3eHBZUFl5bC1WQlh4bUR4Q29Xc2hsRHdjR1MtYlZjcnZsVG9LLUZoaHpaVldKcGVjQ3NnOUVlMGFubXU1Q0hZUmNpUDNnbF9YMi1zaGhjM3JHTDBmdFAtNFlRVVZZSVJidlgtNFp2ZW8wbW1ucFNadmw4UW5EeUJPRFgtVXBlWi10WDkySHVVS1l6d05UMjI5VHhYZ0xLenpwaHNWZ0QydFlKN0t1MWdQemwwcGQ0STTSAfYBQVVfeXFMTXhlOTlXSjYxdm9zdmpqc0FHdVRDcFNCYU1GMXB0SElRY2RQU01vVzMxTmNDa0tyUVhRSEs4SDFSUDZOVTNoZUdTcHBnTkZ2WVR1V2VkNzg2RldCRERkMmtycXpFWnZuQy15UWxvaFBIZ2lMRHpDQUtRQ3FEOFZiZC02cGx0ZjNuNDZYejdMUEdBYW15NzVxZzBzRTd2WUdPYUhnUlVhdHdnSTNMdWR0X2NhUHU3YVctZUtaWS04VUowSDZKVDAwREdsdTNHWTM1WHlaN3plM2xFS2gzVWdQVEQ4UEY1RXZLYlZYQi05WUtXd1ZyXzNn?oc=5
 
 - Week ahead: US-Israel-Iran conflict, rising crude oil prices, RBI MPC meeting among key market triggers to watch - Upstox
   Week ahead: US-Israel-Iran conflict, rising crude oil prices,
   🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzlyODd1QTBjRngwY0pHSDlRLWVDUHVHdy1qWjg5VUY4dE9oWFd4LUszdXk2VVBIV0dLOTNBRzBtX1A4ZElUUmxPZTVTVHBLVWJQZHZVZXRrQVg5QUtqa2x0c0hUd1ZQeklNWV92SFZqcklVUWJZaEVteTFaTkhILS1SWGxxWS1XV2k1cjRmNC1fUHpxNkNURXlFZGx3Y1R4eW81NkI4WE03b2xQWnhKWHZPOXNHbEJvREZ2UjhFeXhqTnpWd2FtaS1EYnBIS19oUVdHN3BNT1FXcmhpTlBFUmRTMWdGNmxkbUFhWl8xQ1N1LTZYNWZ5elIzblNJdw?oc=5
+
+- Street Signs: Nifty logs sixth weekly fall, sliding into your DMs, more - Business Standard
+  " target="_blank">Street Signs: N
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR3dXTWZZdVFFSTV6MmhwdlJoQTBBcTd6ZHZhbk02bHQxUmFzNVM5VmVpRl81ZTk4aDNnSk50OG1uWWJqWjg3WlhNak5ORFhUNTRNTFpNWFd5a0hwY1BxN3l3NDRFeTBkaFBPc3BWTGdmVTBPbGhLVFg3OVhsYTNjOVpmNTBqYzZSS0hUU0w5dmVsdFM1cFBPSVE4Y2hoNnk1dWs5UktOSC1yNG91ZEsyWUJ3d0RiaTh2eURRd2RlV0w4d3ZlcmllakhWRjl1b0820gHWAUFVX3lxTE55SEpybHd6eml6eHA0d2lfRGpHVzI1VXBhUGVESV9RSnZyTll6NE5MWHI4c1l1eXpBazZyXzMxdlE1dElqNmktV2lhNmROQnNaallkUDRaVkZKNXRyYWtGOEdLQzFiQ0hLdDBYTmdtZjdKaGo5QWZxMmFBckE3OVIycHp1alNzdVdvX1M1UjJkWXlzdUpQZE1LUWNnWkJjYUNBWDBES1VCS0FMYTI1ODU5ODFxbFlxeDJZb2l2a3diR0JsbElGYlNWQ0NiUTNnSmNFdDQyeEE?oc=5
+
+- Cultural and tourism market welcomes a spring travel boom - news.cgtn.com
+  Cultural and tourism market welcomes a
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWdtcTUzRWhlRndjSTRMT3Z1NnFKVGx1dUczS1BsU0p0aXpncHJ6ODNTdi1GbmRIb3diRmxOaVJ4eW1qcmU0VkwyaHdnYWxYUkcxQ2F5aU11b3RlcEU3Vm1XQUtpYllab19Da09QTng5M0VzbW5EN0d2emdmUHRxaV85THpyZWdaLU9iSXg4WjFGOUNuVGZQYW1sMmIzUkJiVE9QNV91ZFptdWJkZnlWZzY0M20?oc=5
 
 - Ahead of Market: 10 things that will decide D-Street action on Monday
   Bulls staged a sharp rebound on Thursday, lifting Sensex and Nifty to a second straight gain. Analysts see near-term upside but caution that broader weakness and elevated volatility persist.
@@ -140,93 +140,125 @@
   Bank Nifty showing early signs of stabilization after recent volatility. Easing selling pressure and improving technical indicators suggest a potential short-term rebound. Traders are advised to monitor key levels and historical trends
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-nifty-bank-amid-rbi-monetary-policy-anand-james-shares-his-playbook/articleshow/130034999.cms
 
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
+- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - ndtv.com
   India Makes First Iranian Oil Purchase In 7 Years, With
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
 
-- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
-  India's Defence Exports At All-Time High
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+- ‘Will Hit Kolkata’: Pakistan Defence Minister Threatens Attack On India - News18
+  ‘Will Hit Kolkata�
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExXRUpaa2NNSFBfV05VWWVwQ0tRSGZYSjlpcFA1b2JrTUxaeUk0dXlRS2x4MzFFby1QZ2lxUVYyOE53VE1CbHl1VVFxemFIXzlLVmFnRV83aXdsb2N4bTh3dWpxU1dUMEFpSjVfSDJkbWpkYXNLWUZrVFJnWXdOOWhrNDhubUhPaW42Ny1uRFp1cTVyalVxQ3FKWXp2UHpYZ2ZsdXR4SmN2UGU2OGdtcEdIUHhBLW_SAbwBQVVfeXFMUHlRc0VQWVRZS0dLWC01NF92eF9wbXY4RlhOZmZxT0JTNVFjbXRVTkttakEtdmxtVWR2VFlKRGljc0RWYU55Z2luOVRzUTFvanNQckZiYXFlV184NHJDclBHSWw0Q0dEczZIbWF0TWg2NUdFYXNveTY2WUlpMEI1VXRyZ3dkTm9JU0ZMcGJWZnIyWmNDdEh6dDlPT0R2RFdmd1RCSzV1dTN3dWZFMkZxS01hSWhvZXZMbzdOMTg?oc=5
 
-- As U.S. sanctions deadlines expire this month, exporters urge government to revive oil-rice barter trade mechanism with Iran - The Hindu
-  As U.S. sanctions deadlines expire this month, exporters urge government to revive
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQX0daVWN2Q2I4aXNzV1RFYnF2VE9fVVNzUzNBMWFHNFJNVko3eWEtZzlOX0hqMjdvNUYzdVFzSlNDMTlYQVRyUFVhdy0yU2ZfTEYwbnRoX0x2VllfUVozNWIydWtVeEFBRThoLTFoamRSaHFxSjBEWU9iODR3QjM1cHdZcy1mSW80WTZfTDgtNXJmUzRGV0xUNkFNbzdxMHRzLTd1ckNuQ2Q5Z3pYRm5sdUZwdEpwNW9qRVNBU3czMExFcWFXbkV5cEs2cTFVMUFEVnNpWFNwTkNQaVF3dDZRclJoYWVhNTFETkxqNUJHNDVmUk9QTzBSRWE1Z2hIN3ZEUkt4WG5GYTJEanBf0gGTAkFVX3lxTE5UazJoNDJHbE5PdU5vQWZSckF2Yk4tWGstOF9sbnhRbHp3MGVicnZXbHdUTUtCWHQtVVJiT0dwcTV5c3EtWFlOUWxwbVRTb25HMU85bzE0TnZnLVNCeng5Yld5dzQwOHJVeGQ3Z195RG9HOFdoenpEakZsT0ZNTXp2V2lsSnNBMmRZMDhtYjc4dG1MRWV3dnhJVXNCU3NLenlZUXlvQ09GS242RlhVdEZOenphNXN2N2RfTHRYQjdHamhLSE5rNzN4U1NmQjFqN0RxVU1Eb3dwZGhYYm1SaXBHTVZ5dm52UkhCUEJKWktEeU5ZZUE1U2UwR1JrMkhvZElWVXl4NWRJcDhnTU9VaVF3emdv?oc=5
+- Porcupines push saffron to brink in Kashmir - The Times of India
+  Porcupines push saffron
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZkb0Jzamw2OWJRWGc4MFF0ckZtTHRTbDRmRURod0Jrb3M2SnMxN2U1Rmc2QnBaTm1WeEJzYzhWaU9ZZDAzSmdKcUhCS1BoMFA4Mi1PbUkxb01CMVpCa3poWXBZX2k4TjUzS3dfaF9xUUpQR1l0cnoxZEVXRGFXSjh0aVB6QVdZcU45RVR5amo5anJmMXVMNm15bnlHZlFMQWY0M0NucUlfY2hjRUQ1WQ?oc=5
 
-- India’s Major ports record 915 million tonnes Cargo in Financial Year 2025-26 - News On AIR
-  India’s Major ports record 915 million tonnes Cargo
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnVYY3V2SUVLUnduR05kVE53STVaZkRCWnBoeVpoN1dEc0Q2aDdZdm1ZRHlNU0dvRTlvdW5XZjllYjRpb3VqeTJRU3BuanpITHJnbTRZVk1nQWN1MzlhVnRlZkptdW1EOW1OaTlqdWhTUFJUR2J2aUdFNms1T1g2ckJIYWFRQll4LVppdEltdHRkdTFPUzA1bW42SkFPRGNDS3RQbHhRcGVOUQ?oc=5
+- India sends humanitarian aid to Afghanistan following floods and earthquakes - News On AIR
+  India sends humanitarian aid to Afghanistan following floods and earthquakes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xSYWtMMlptdGhKMUZTZU1ZSkJZR0dCUDZEWWdrQklkbnJJaWstazhJbjhwSjJtTlRuMkxxYzRveUd0czI4OGVvYXZTdUQ2b0I1VUFaZVR2NkpSTUpIS1dyWUtKMEpfNGN0bEJiZThCRFdXMGVITTZiQ2RoR1FGWFpXNFVwNGcwb21kWXQwOXBIdHZ0RGZGQWZ1bWxGM3VMalEtU2wyTVVIQQ?oc=5
 
-- Government Medicine Scam Busted In Delhi, Rs 70 Lakh Stock Seized - NDTV
-  Government Medicine Scam Busted In Delhi,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXlBUWZya1ZQcVVzRzhfaGk5R1Y4SFlZYWdWYVhRbnVpOUdRUjJpVGh0aWtVcVRLdUVGM1FNdkI1SXg5LTBVSTE3QUc5aE5GeUxmT0JFZEhFeExVTGxPSTlGSFN6TlQxX2ZBY291TW9fOWZObFhMbGVZRDZGQjZYanoxaEZuRnh2RnIxZ0prY0xvcXNxZk83cC1lajVwN21IbVFQNXdTcVTSAbABQVVfeXFMUFVUYjlXWHlpRDhvcmY2QVBsTmtuUlJMYTNqc2xDcWNEWDVmNTN3UTV4cGhGNXJfZUdWaWJXMy1tbW15VjhPUlVKR1Y5dlk1S29yWnhHMFotMjNnWUNESXVFUWJieVlqdzl5Y0pxZC1CY1RsbTlIOTFNVnNzZ281b0c3X2xzck5JSzRnT2dhTTBKczJXUUd0SGJiSThMaTlDaDU3Y2Y4aDV2aHgwZE40ZFM?oc=5
+- Yellow alert issued for Tuesday - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRTYk1ZSWJsT181VEtYUXVPRGZlYnNIVUpSaW9xNkJGM1NPRkYyMG1JQXgwQkdjb1ZhTEQ1TFo4ejRvRmZoOXBvRFlXMVpMOEVVSzR4MkxDVkYwS0FqODhwN1A3RHdzQmxBcWh0cWVZRWx0Q1pHaTUzVW5LR2NaVjZQdnlXX296OXpKZE04RTI3VExLamVSQ3lUUTlwa3JfMVJTRmRHc9IBrAFBVV95cUxQcVNOa0pVTDVwTDNZR3NmRzJ3bnpxRXVYRVg0cEQ5OXZTdW9lUm1RR3ZqcTlmRVhzNDkxVG9mdzZrcjR6X3RVR0wtOGJiVkRxazk5M3doaTl5ckhnRXBvbW4xeWhRRVpieWxOd0lvVERBT3J2NEJ0WGRELWpkOVdqU01MNWM3NjBGcTlSQ1gzUE1xT04yRGdvZmtjNmNCYmQ5S1RDeFZIbTlYckVW?oc=5
 
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
+- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - ndtv.com
   India Makes First Iranian Oil Purchase In 7 Years, With
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
 
-- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
-  India's Defence Exports At All-Time High
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+- ‘Will Hit Kolkata’: Pakistan Defence Minister Threatens Attack On India - News18
+  ‘Will Hit Kolkata�
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExXRUpaa2NNSFBfV05VWWVwQ0tRSGZYSjlpcFA1b2JrTUxaeUk0dXlRS2x4MzFFby1QZ2lxUVYyOE53VE1CbHl1VVFxemFIXzlLVmFnRV83aXdsb2N4bTh3dWpxU1dUMEFpSjVfSDJkbWpkYXNLWUZrVFJnWXdOOWhrNDhubUhPaW42Ny1uRFp1cTVyalVxQ3FKWXp2UHpYZ2ZsdXR4SmN2UGU2OGdtcEdIUHhBLW_SAbwBQVVfeXFMUHlRc0VQWVRZS0dLWC01NF92eF9wbXY4RlhOZmZxT0JTNVFjbXRVTkttakEtdmxtVWR2VFlKRGljc0RWYU55Z2luOVRzUTFvanNQckZiYXFlV184NHJDclBHSWw0Q0dEczZIbWF0TWg2NUdFYXNveTY2WUlpMEI1VXRyZ3dkTm9JU0ZMcGJWZnIyWmNDdEh6dDlPT0R2RFdmd1RCSzV1dTN3dWZFMkZxS01hSWhvZXZMbzdOMTg?oc=5
 
-- As U.S. sanctions deadlines expire this month, exporters urge government to revive oil-rice barter trade mechanism with Iran - The Hindu
-  As U.S. sanctions deadlines expire this month, exporters urge government to revive
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQX0daVWN2Q2I4aXNzV1RFYnF2VE9fVVNzUzNBMWFHNFJNVko3eWEtZzlOX0hqMjdvNUYzdVFzSlNDMTlYQVRyUFVhdy0yU2ZfTEYwbnRoX0x2VllfUVozNWIydWtVeEFBRThoLTFoamRSaHFxSjBEWU9iODR3QjM1cHdZcy1mSW80WTZfTDgtNXJmUzRGV0xUNkFNbzdxMHRzLTd1ckNuQ2Q5Z3pYRm5sdUZwdEpwNW9qRVNBU3czMExFcWFXbkV5cEs2cTFVMUFEVnNpWFNwTkNQaVF3dDZRclJoYWVhNTFETkxqNUJHNDVmUk9QTzBSRWE1Z2hIN3ZEUkt4WG5GYTJEanBf0gGTAkFVX3lxTE5UazJoNDJHbE5PdU5vQWZSckF2Yk4tWGstOF9sbnhRbHp3MGVicnZXbHdUTUtCWHQtVVJiT0dwcTV5c3EtWFlOUWxwbVRTb25HMU85bzE0TnZnLVNCeng5Yld5dzQwOHJVeGQ3Z195RG9HOFdoenpEakZsT0ZNTXp2V2lsSnNBMmRZMDhtYjc4dG1MRWV3dnhJVXNCU3NLenlZUXlvQ09GS242RlhVdEZOenphNXN2N2RfTHRYQjdHamhLSE5rNzN4U1NmQjFqN0RxVU1Eb3dwZGhYYm1SaXBHTVZ5dm52UkhCUEJKWktEeU5ZZUE1U2UwR1JrMkhvZElWVXl4NWRJcDhnTU9VaVF3emdv?oc=5
+- Porcupines push saffron to brink in Kashmir - The Times of India
+  Porcupines push saffron
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZkb0Jzamw2OWJRWGc4MFF0ckZtTHRTbDRmRURod0Jrb3M2SnMxN2U1Rmc2QnBaTm1WeEJzYzhWaU9ZZDAzSmdKcUhCS1BoMFA4Mi1PbUkxb01CMVpCa3poWXBZX2k4TjUzS3dfaF9xUUpQR1l0cnoxZEVXRGFXSjh0aVB6QVdZcU45RVR5amo5anJmMXVMNm15bnlHZlFMQWY0M0NucUlfY2hjRUQ1WQ?oc=5
 
-- India’s Major ports record 915 million tonnes Cargo in Financial Year 2025-26 - News On AIR
-  India’s Major ports record 915 million tonnes Cargo
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnVYY3V2SUVLUnduR05kVE53STVaZkRCWnBoeVpoN1dEc0Q2aDdZdm1ZRHlNU0dvRTlvdW5XZjllYjRpb3VqeTJRU3BuanpITHJnbTRZVk1nQWN1MzlhVnRlZkptdW1EOW1OaTlqdWhTUFJUR2J2aUdFNms1T1g2ckJIYWFRQll4LVppdEltdHRkdTFPUzA1bW42SkFPRGNDS3RQbHhRcGVOUQ?oc=5
+- India sends humanitarian aid to Afghanistan following floods and earthquakes - News On AIR
+  India sends humanitarian aid to Afghanistan following floods and earthquakes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xSYWtMMlptdGhKMUZTZU1ZSkJZR0dCUDZEWWdrQklkbnJJaWstazhJbjhwSjJtTlRuMkxxYzRveUd0czI4OGVvYXZTdUQ2b0I1VUFaZVR2NkpSTUpIS1dyWUtKMEpfNGN0bEJiZThCRFdXMGVITTZiQ2RoR1FGWFpXNFVwNGcwb21kWXQwOXBIdHZ0RGZGQWZ1bWxGM3VMalEtU2wyTVVIQQ?oc=5
 
-- Government Medicine Scam Busted In Delhi, Rs 70 Lakh Stock Seized - NDTV
-  Government Medicine Scam Busted In Delhi,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXlBUWZya1ZQcVVzRzhfaGk5R1Y4SFlZYWdWYVhRbnVpOUdRUjJpVGh0aWtVcVRLdUVGM1FNdkI1SXg5LTBVSTE3QUc5aE5GeUxmT0JFZEhFeExVTGxPSTlGSFN6TlQxX2ZBY291TW9fOWZObFhMbGVZRDZGQjZYanoxaEZuRnh2RnIxZ0prY0xvcXNxZk83cC1lajVwN21IbVFQNXdTcVTSAbABQVVfeXFMUFVUYjlXWHlpRDhvcmY2QVBsTmtuUlJMYTNqc2xDcWNEWDVmNTN3UTV4cGhGNXJfZUdWaWJXMy1tbW15VjhPUlVKR1Y5dlk1S29yWnhHMFotMjNnWUNESXVFUWJieVlqdzl5Y0pxZC1CY1RsbTlIOTFNVnNzZ281b0c3X2xzck5JSzRnT2dhTTBKczJXUUd0SGJiSThMaTlDaDU3Y2Y4aDV2aHgwZE40ZFM?oc=5
+- Yellow alert issued for Tuesday - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRTYk1ZSWJsT181VEtYUXVPRGZlYnNIVUpSaW9xNkJGM1NPRkYyMG1JQXgwQkdjb1ZhTEQ1TFo4ejRvRmZoOXBvRFlXMVpMOEVVSzR4MkxDVkYwS0FqODhwN1A3RHdzQmxBcWh0cWVZRWx0Q1pHaTUzVW5LR2NaVjZQdnlXX296OXpKZE04RTI3VExLamVSQ3lUUTlwa3JfMVJTRmRHc9IBrAFBVV95cUxQcVNOa0pVTDVwTDNZR3NmRzJ3bnpxRXVYRVg0cEQ5OXZTdW9lUm1RR3ZqcTlmRVhzNDkxVG9mdzZrcjR6X3RVR0wtOGJiVkRxazk5M3doaTl5ckhnRXBvbW4xeWhRRVpieWxOd0lvVERBT3J2NEJ0WGRELWpkOVdqU01MNWM3NjBGcTlSQ1gzUE1xT04yRGdvZmtjNmNCYmQ5S1RDeFZIbTlYckVW?oc=5
 
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
+- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - ndtv.com
   India Makes First Iranian Oil Purchase In 7 Years, With
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
 
-- India's Defence Exports At All-Time High: Who Buys And What India Sells - NDTV
-  India's Defence Exports At All-Time High
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWVRd0ZIbTNUNkJ2LUp1eWIyWWVqTm5adFJ3bGN6N2liMGRMWWFfSWZJc3k3bGgzMVNJUElxRzk5WU80RDhhcWF2OURySW55c2FXem1LeEd1Q1pybmJnOEh5NmNRem5pZzI0bzcwaEVnNHdXUV9qUTlzLW8wa2hpZFdBLW5sQ05TSVpNenM2Y1ZrYkdCcTAxZ3lROWpZQjcteTdhR2JjSU0xbmdqNld30gG3AUFVX3lxTFBkaGtSY0dmUXdQcThVcTVEaS1EeEVUV29LdXlWNGstazFDT2hvZ0FGRmpvSUxLN095YmdiOUlkZi1jbTNNWmZFMUh1TVRqREVfZ1lFNkUwQmlFMm8wU1I2TFF3QnZBNW42eXZTRFpySm5OQmNseWRWbk5NaVJuZUZQUENKVVRpdTMzZWw3cjBtU010a2tWY0pzUUVNUHFFUThsV04xTXg5Y3FyWG91Q01rYmozOFE0VQ?oc=5
+- ‘Will Hit Kolkata’: Pakistan Defence Minister Threatens Attack On India - News18
+  ‘Will Hit Kolkata�
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExXRUpaa2NNSFBfV05VWWVwQ0tRSGZYSjlpcFA1b2JrTUxaeUk0dXlRS2x4MzFFby1QZ2lxUVYyOE53VE1CbHl1VVFxemFIXzlLVmFnRV83aXdsb2N4bTh3dWpxU1dUMEFpSjVfSDJkbWpkYXNLWUZrVFJnWXdOOWhrNDhubUhPaW42Ny1uRFp1cTVyalVxQ3FKWXp2UHpYZ2ZsdXR4SmN2UGU2OGdtcEdIUHhBLW_SAbwBQVVfeXFMUHlRc0VQWVRZS0dLWC01NF92eF9wbXY4RlhOZmZxT0JTNVFjbXRVTkttakEtdmxtVWR2VFlKRGljc0RWYU55Z2luOVRzUTFvanNQckZiYXFlV184NHJDclBHSWw0Q0dEczZIbWF0TWg2NUdFYXNveTY2WUlpMEI1VXRyZ3dkTm9JU0ZMcGJWZnIyWmNDdEh6dDlPT0R2RFdmd1RCSzV1dTN3dWZFMkZxS01hSWhvZXZMbzdOMTg?oc=5
 
-- As U.S. sanctions deadlines expire this month, exporters urge government to revive oil-rice barter trade mechanism with Iran - The Hindu
-  As U.S. sanctions deadlines expire this month, exporters urge government to revive
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQX0daVWN2Q2I4aXNzV1RFYnF2VE9fVVNzUzNBMWFHNFJNVko3eWEtZzlOX0hqMjdvNUYzdVFzSlNDMTlYQVRyUFVhdy0yU2ZfTEYwbnRoX0x2VllfUVozNWIydWtVeEFBRThoLTFoamRSaHFxSjBEWU9iODR3QjM1cHdZcy1mSW80WTZfTDgtNXJmUzRGV0xUNkFNbzdxMHRzLTd1ckNuQ2Q5Z3pYRm5sdUZwdEpwNW9qRVNBU3czMExFcWFXbkV5cEs2cTFVMUFEVnNpWFNwTkNQaVF3dDZRclJoYWVhNTFETkxqNUJHNDVmUk9QTzBSRWE1Z2hIN3ZEUkt4WG5GYTJEanBf0gGTAkFVX3lxTE5UazJoNDJHbE5PdU5vQWZSckF2Yk4tWGstOF9sbnhRbHp3MGVicnZXbHdUTUtCWHQtVVJiT0dwcTV5c3EtWFlOUWxwbVRTb25HMU85bzE0TnZnLVNCeng5Yld5dzQwOHJVeGQ3Z195RG9HOFdoenpEakZsT0ZNTXp2V2lsSnNBMmRZMDhtYjc4dG1MRWV3dnhJVXNCU3NLenlZUXlvQ09GS242RlhVdEZOenphNXN2N2RfTHRYQjdHamhLSE5rNzN4U1NmQjFqN0RxVU1Eb3dwZGhYYm1SaXBHTVZ5dm52UkhCUEJKWktEeU5ZZUE1U2UwR1JrMkhvZElWVXl4NWRJcDhnTU9VaVF3emdv?oc=5
+- Porcupines push saffron to brink in Kashmir - The Times of India
+  Porcupines push saffron
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZkb0Jzamw2OWJRWGc4MFF0ckZtTHRTbDRmRURod0Jrb3M2SnMxN2U1Rmc2QnBaTm1WeEJzYzhWaU9ZZDAzSmdKcUhCS1BoMFA4Mi1PbUkxb01CMVpCa3poWXBZX2k4TjUzS3dfaF9xUUpQR1l0cnoxZEVXRGFXSjh0aVB6QVdZcU45RVR5amo5anJmMXVMNm15bnlHZlFMQWY0M0NucUlfY2hjRUQ1WQ?oc=5
 
-- India’s Major ports record 915 million tonnes Cargo in Financial Year 2025-26 - News On AIR
-  India’s Major ports record 915 million tonnes Cargo
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnVYY3V2SUVLUnduR05kVE53STVaZkRCWnBoeVpoN1dEc0Q2aDdZdm1ZRHlNU0dvRTlvdW5XZjllYjRpb3VqeTJRU3BuanpITHJnbTRZVk1nQWN1MzlhVnRlZkptdW1EOW1OaTlqdWhTUFJUR2J2aUdFNms1T1g2ckJIYWFRQll4LVppdEltdHRkdTFPUzA1bW42SkFPRGNDS3RQbHhRcGVOUQ?oc=5
+- India sends humanitarian aid to Afghanistan following floods and earthquakes - News On AIR
+  India sends humanitarian aid to Afghanistan following floods and earthquakes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xSYWtMMlptdGhKMUZTZU1ZSkJZR0dCUDZEWWdrQklkbnJJaWstazhJbjhwSjJtTlRuMkxxYzRveUd0czI4OGVvYXZTdUQ2b0I1VUFaZVR2NkpSTUpIS1dyWUtKMEpfNGN0bEJiZThCRFdXMGVITTZiQ2RoR1FGWFpXNFVwNGcwb21kWXQwOXBIdHZ0RGZGQWZ1bWxGM3VMalEtU2wyTVVIQQ?oc=5
 
-- Government Medicine Scam Busted In Delhi, Rs 70 Lakh Stock Seized - NDTV
-  Government Medicine Scam Busted In Delhi,
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXlBUWZya1ZQcVVzRzhfaGk5R1Y4SFlZYWdWYVhRbnVpOUdRUjJpVGh0aWtVcVRLdUVGM1FNdkI1SXg5LTBVSTE3QUc5aE5GeUxmT0JFZEhFeExVTGxPSTlGSFN6TlQxX2ZBY291TW9fOWZObFhMbGVZRDZGQjZYanoxaEZuRnh2RnIxZ0prY0xvcXNxZk83cC1lajVwN21IbVFQNXdTcVTSAbABQVVfeXFMUFVUYjlXWHlpRDhvcmY2QVBsTmtuUlJMYTNqc2xDcWNEWDVmNTN3UTV4cGhGNXJfZUdWaWJXMy1tbW15VjhPUlVKR1Y5dlk1S29yWnhHMFotMjNnWUNESXVFUWJieVlqdzl5Y0pxZC1CY1RsbTlIOTFNVnNzZ281b0c3X2xzck5JSzRnT2dhTTBKczJXUUd0SGJiSThMaTlDaDU3Y2Y4aDV2aHgwZE40ZFM?oc=5
+- Yellow alert issued for Tuesday - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRTYk1ZSWJsT181VEtYUXVPRGZlYnNIVUpSaW9xNkJGM1NPRkYyMG1JQXgwQkdjb1ZhTEQ1TFo4ejRvRmZoOXBvRFlXMVpMOEVVSzR4MkxDVkYwS0FqODhwN1A3RHdzQmxBcWh0cWVZRWx0Q1pHaTUzVW5LR2NaVjZQdnlXX296OXpKZE04RTI3VExLamVSQ3lUUTlwa3JfMVJTRmRHc9IBrAFBVV95cUxQcVNOa0pVTDVwTDNZR3NmRzJ3bnpxRXVYRVg0cEQ5OXZTdW9lUm1RR3ZqcTlmRVhzNDkxVG9mdzZrcjR6X3RVR0wtOGJiVkRxazk5M3doaTl5ckhnRXBvbW4xeWhRRVpieWxOd0lvVERBT3J2NEJ0WGRELWpkOVdqU01MNWM3NjBGcTlSQ1gzUE1xT04yRGdvZmtjNmNCYmQ5S1RDeFZIbTlYckVW?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - ndtv.com
+  India Makes First Iranian Oil Purchase In 7 Years, With
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- ‘Will Hit Kolkata’: Pakistan Defence Minister Threatens Attack On India - News18
+  ‘Will Hit Kolkata�
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExXRUpaa2NNSFBfV05VWWVwQ0tRSGZYSjlpcFA1b2JrTUxaeUk0dXlRS2x4MzFFby1QZ2lxUVYyOE53VE1CbHl1VVFxemFIXzlLVmFnRV83aXdsb2N4bTh3dWpxU1dUMEFpSjVfSDJkbWpkYXNLWUZrVFJnWXdOOWhrNDhubUhPaW42Ny1uRFp1cTVyalVxQ3FKWXp2UHpYZ2ZsdXR4SmN2UGU2OGdtcEdIUHhBLW_SAbwBQVVfeXFMUHlRc0VQWVRZS0dLWC01NF92eF9wbXY4RlhOZmZxT0JTNVFjbXRVTkttakEtdmxtVWR2VFlKRGljc0RWYU55Z2luOVRzUTFvanNQckZiYXFlV184NHJDclBHSWw0Q0dEczZIbWF0TWg2NUdFYXNveTY2WUlpMEI1VXRyZ3dkTm9JU0ZMcGJWZnIyWmNDdEh6dDlPT0R2RFdmd1RCSzV1dTN3dWZFMkZxS01hSWhvZXZMbzdOMTg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Porcupines push saffron to brink in Kashmir - The Times of India
+  Porcupines push saffron
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZkb0Jzamw2OWJRWGc4MFF0ckZtTHRTbDRmRURod0Jrb3M2SnMxN2U1Rmc2QnBaTm1WeEJzYzhWaU9ZZDAzSmdKcUhCS1BoMFA4Mi1PbUkxb01CMVpCa3poWXBZX2k4TjUzS3dfaF9xUUpQR1l0cnoxZEVXRGFXSjh0aVB6QVdZcU45RVR5amo5anJmMXVMNm15bnlHZlFMQWY0M0NucUlfY2hjRUQ1WQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India sends humanitarian aid to Afghanistan following floods and earthquakes - News On AIR
+  India sends humanitarian aid to Afghanistan following floods and earthquakes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xSYWtMMlptdGhKMUZTZU1ZSkJZR0dCUDZEWWdrQklkbnJJaWstazhJbjhwSjJtTlRuMkxxYzRveUd0czI4OGVvYXZTdUQ2b0I1VUFaZVR2NkpSTUpIS1dyWUtKMEpfNGN0bEJiZThCRFdXMGVITTZiQ2RoR1FGWFpXNFVwNGcwb21kWXQwOXBIdHZ0RGZGQWZ1bWxGM3VMalEtU2wyTVVIQQ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Yellow alert issued for Tuesday - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRTYk1ZSWJsT181VEtYUXVPRGZlYnNIVUpSaW9xNkJGM1NPRkYyMG1JQXgwQkdjb1ZhTEQ1TFo4ejRvRmZoOXBvRFlXMVpMOEVVSzR4MkxDVkYwS0FqODhwN1A3RHdzQmxBcWh0cWVZRWx0Q1pHaTUzVW5LR2NaVjZQdnlXX296OXpKZE04RTI3VExLamVSQ3lUUTlwa3JfMVJTRmRHc9IBrAFBVV95cUxQcVNOa0pVTDVwTDNZR3NmRzJ3bnpxRXVYRVg0cEQ5OXZTdW9lUm1RR3ZqcTlmRVhzNDkxVG9mdzZrcjR6X3RVR0wtOGJiVkRxazk5M3doaTl5ckhnRXBvbW4xeWhRRVpieWxOd0lvVERBT3J2NEJ0WGRELWpkOVdqU01MNWM3NjBGcTlSQ1gzUE1xT04yRGdvZmtjNmNCYmQ5S1RDeFZIbTlYckVW?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - ndtv.com
+  India Makes First Iranian Oil Purchase In 7 Years, With
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- ‘Will Hit Kolkata’: Pakistan Defence Minister Threatens Attack On India - News18
+  ‘Will Hit Kolkata�
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUExXRUpaa2NNSFBfV05VWWVwQ0tRSGZYSjlpcFA1b2JrTUxaeUk0dXlRS2x4MzFFby1QZ2lxUVYyOE53VE1CbHl1VVFxemFIXzlLVmFnRV83aXdsb2N4bTh3dWpxU1dUMEFpSjVfSDJkbWpkYXNLWUZrVFJnWXdOOWhrNDhubUhPaW42Ny1uRFp1cTVyalVxQ3FKWXp2UHpYZ2ZsdXR4SmN2UGU2OGdtcEdIUHhBLW_SAbwBQVVfeXFMUHlRc0VQWVRZS0dLWC01NF92eF9wbXY4RlhOZmZxT0JTNVFjbXRVTkttakEtdmxtVWR2VFlKRGljc0RWYU55Z2luOVRzUTFvanNQckZiYXFlV184NHJDclBHSWw0Q0dEczZIbWF0TWg2NUdFYXNveTY2WUlpMEI1VXRyZ3dkTm9JU0ZMcGJWZnIyWmNDdEh6dDlPT0R2RFdmd1RCSzV1dTN3dWZFMkZxS01hSWhvZXZMbzdOMTg?oc=5
+
+- Porcupines push saffron to brink in Kashmir - The Times of India
+  Porcupines push saffron
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZkb0Jzamw2OWJRWGc4MFF0ckZtTHRTbDRmRURod0Jrb3M2SnMxN2U1Rmc2QnBaTm1WeEJzYzhWaU9ZZDAzSmdKcUhCS1BoMFA4Mi1PbUkxb01CMVpCa3poWXBZX2k4TjUzS3dfaF9xUUpQR1l0cnoxZEVXRGFXSjh0aVB6QVdZcU45RVR5amo5anJmMXVMNm15bnlHZlFMQWY0M0NucUlfY2hjRUQ1WQ?oc=5
+
+- India sends humanitarian aid to Afghanistan following floods and earthquakes - News On AIR
+  India sends humanitarian aid to Afghanistan following floods and earthquakes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2xSYWtMMlptdGhKMUZTZU1ZSkJZR0dCUDZEWWdrQklkbnJJaWstazhJbjhwSjJtTlRuMkxxYzRveUd0czI4OGVvYXZTdUQ2b0I1VUFaZVR2NkpSTUpIS1dyWUtKMEpfNGN0bEJiZThCRFdXMGVITTZiQ2RoR1FGWFpXNFVwNGcwb21kWXQwOXBIdHZ0RGZGQWZ1bWxGM3VMalEtU2wyTVVIQQ?oc=5
+
+- Yellow alert issued for Tuesday - The Times of India
+  The Times of India reported that
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlRTYk1ZSWJsT181VEtYUXVPRGZlYnNIVUpSaW9xNkJGM1NPRkYyMG1JQXgwQkdjb1ZhTEQ1TFo4ejRvRmZoOXBvRFlXMVpMOEVVSzR4MkxDVkYwS0FqODhwN1A3RHdzQmxBcWh0cWVZRWx0Q1pHaTUzVW5LR2NaVjZQdnlXX296OXpKZE04RTI3VExLamVSQ3lUUTlwa3JfMVJTRmRHc9IBrAFBVV95cUxQcVNOa0pVTDVwTDNZR3NmRzJ3bnpxRXVYRVg0cEQ5OXZTdW9lUm1RR3ZqcTlmRVhzNDkxVG9mdzZrcjR6X3RVR0wtOGJiVkRxazk5M3doaTl5ckhnRXBvbW4xeWhRRVpieWxOd0lvVERBT3J2NEJ0WGRELWpkOVdqU01MNWM3NjBGcTlSQ1gzUE1xT04yRGdvZmtjNmNCYmQ5S1RDeFZIbTlYckVW?oc=5
+
+- Apple at 50: Where did the tech giant succeed and fail? - BBC
+  Apple turns 50 this year. The tech giant
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRl9zSk5oWlJHNlM1cUNFWFN3UDFSSFZaTEFyRmxubnQwc2xoMm4xcGd2MllNZllwRERNUEFWX1VXUTBJdm5iXzRwT1paWTFMWFZoUlR4T25hdw?oc=5
+
+- Meta CTO Andrew Bosworth to engineers and college graduates looking to join technology industry: You just - The Times of India
+  The Times of India is a leading newspaper in India. It is based in New Delhi
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ3Fmal9xOXBPN0J0UktWNDVlU2U5YnUxU0RyamNmOHNpZnNWbjZkeExNQ21VMGRzY29wTVd2Zml3dnRYcU9CNGVERjFtemF6SWRYXy1jMG5RVmZzQjJmVG1DaGVZejBId0l3ZXZfNHZUenZUWl9mMEY4VmpBak8tbGpaQTBvTm5ZSkM5WjB2YXZiYmFiRVU4QTU1YXhlNlluZ2xKc0RoU09Sa1Atd2ZrU01FYXU3OVZ1enFURGxJSlotckM4QzJtZWxORXpOa2JqSUhLNXZ6ejBPZElxVWE0d2pnRWE4Yy1fRUVCWUduaGxpcGxnQk9DRjFKb1A4ZG1DN21lRDAzamhNbVhW0gGSAkFVX3lxTE9GX1l6dkcwTjhWQmlLaHV1bUk0QmhraEJGdzdFUGtWTFE0ZTMyZzVQWWRzNXNrdVZScWZYTVd4NzFMcjJKYkNKTG1XQTE2WDdTOFdYVnY4cm9iTEFLeW9kZk95SERldmxNal9HbmduSkpWZnRjbk5aT1FNVk13RE5TVHBIT2ZEQ2hBUlJ0MEpwRmtrS0lzemttTkJkS2h6UGdrOGVFLUpxbHkzcUs1LUU1M0laSjBlMlhfZ1FDQ1RXYlh0V25HWlhOVno3SXY5bGJqS0VLbG5XTGdacW1sYmU4bkZiTlhCaVVScmlUNEM2UU1WMjRKR0ctSnJFenlZVWlCVF9xcFZ2aDRPWVZURlpVSWc?oc=5
+
+- Poornaprajna College hosts symposium on science and technology - The Hindu
+  Poornaprajna College
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUS1BdnJ0NjhiZkpaRkdjelR3em1NMWRUeGZJazVGeWNSZjdPSmtBcmk1QlN6NXYwMGdSN0R1c2s1WVllbGJuekthajdXSEsxNnpSRUEyQmxzZk5hM1NoZzlhMTI3NDIwcG44WUtJOWtxTUJ2WjhBVVp3bjhqSFptdkV1OGxreEs3YkRRNzlZWnB5NFVuRUx5SVdfalgzeXRKeG1KdVBmVTB0MTl4MFU3Y09PYXlFckcxWmg4UlM2dk5sYlhXaDJobtIBzwFBVV95cUxQOUVNdlB3VDlvYUU4OUtNODlienlINGlnZ0FMV2F0X2lESWZRV3pTR0NWc1h1YjhfTy1qTkZiT3lEX0szbmRqQUJsczdJTVpzRFlDRHRYeGJ0STkzY0lIZ2h4YW5ETmM4aUhvYVA4SWczYWZUczFRMHQ3UWNtZFVuX0pBZFhpRXEwNEhRRkx5WThiR0JvMWVyLTgyM3ozNUFrUnFrUXdYWk40bXRoNjd2ZjViVFlJcE1maEVTb00xNEtRN2VYS3U0cGJEZmVPX2M?oc=5
+
+- Gemma 4: Byte for byte, the most capable open models - blog.google
+  Gemma 4: Byte for byte
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5
+
+- 'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems - CNBC
+  'Silent killers': How AI start-ups are trying to solve
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOVGtUVUNJTXlpYUYxYU15cGJlLXlWVHdUMHBHVmRON1NORmFPeWgzNFRYeWZmM1dZLVZhazFkSlAyYUNsZkMxYl9BNXgyQ3R0OTJ4SV96amlWaU04RENoNC13bk1BSmtJLVdvODhzTGE4YnNXang3aHZJLWF0eVJaX0VUSEYzNHhsejNhQ9IBkgFBVV95cUxNYjd5VE85RlFWQTFqbnNHS0xuRERxMlVNdmxkd21jMWg5ampRX2I3ZEIwOXJmNlBHa3JmVlQ3NHVhUF9kZ1lkTU1xNzh0ekFqM0ZQRzBYX1JJZzVsNDZMY3ViVlRoTkJMc3NaTXJFN0dwUEo4WTY3V2ZDUlJUSm9nbnFWOEJlNFhEUVFHOUNoS1ptZw?oc=5
 
 
-_Last updated: 2026-04-05 12:48:30 UTC_
+_Last updated: 2026-04-05 18:40:54 UTC_
