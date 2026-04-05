@@ -12,13 +12,25 @@
   
   🔗 https://indianexpress.com/article/india/ec-suspends-4-police-officials-for-law-and-order-failure-during-suvendus-roadshow-10619462/
 
-- Everything today being leveraged, if not actually weaponised: EAM
+- Everything today being leveraged, if not actually weaponised: Jaishankar on changing global order
   
   🔗 https://indianexpress.com/article/india/everything-today-being-leveraged-if-not-actually-weaponised-eam-10619468/
 
-- Month after his killing, seafarer’s remains to return home today
+- 36 days, a missile strike, a High Court petition: Seafarer Dixit Solanki’s remains to finally come home today
   
   🔗 https://indianexpress.com/article/india/month-after-his-killing-seafarers-remains-to-return-home-today-10619393/
+
+- ‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openclaw-creator-hits-back-anthropic-policy-third-party-tools-10619696/
+
+- Telegram’s Durov says Russia triggered payment system problem by blocking VPNs
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-10619638/
+
+- What teens are doing with those role-playing chatbots
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-teens-are-doing-with-those-role-playing-chatbots-10619619/
 
 - Your car is now a mobile office: Google Meet launches on Apple CarPlay with a strict safety twist
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-expands-coo-role-leadership-reshuffle-10618633/
 
-- DeepSeek’s V4 model will run on Huawei chips: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/deepseeks-v4-model-will-run-on-huawei-chips-report-10618486/
+- Microsoft is on a new AI journey after reworked OpenAI deal
+  The tech giant is pursuing new research avenues that the company hopes will put its AI
+  🔗 https://www.livemint.com/companies/microsoft-is-on-a-new-ai-journey-after-reworked-openai-deal-11775365077642.html
 
-- NASA’s Artemis II: How iPhones found their way into space
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasas-artemis-ii-how-iphones-found-their-way-into-space-10618352/
-
-- Brain freeze: the science behind the sudden cold shock
-  
-  🔗 https://indianexpress.com/article/technology/science/brain-freeze-the-science-behind-the-sudden-cold-shock-10617815/
+- Warren Buffett to stop donating to Gates Foundation after Epstein saga? Billionaire will ‘wait and see what unfolds’
+  Buffett says he is not ready to commit to continuing his annual donations to the Gates Foundation. It is his first televised interview since stepping down
+  🔗 https://www.livemint.com/companies/people/warren-buffett-to-stop-donating-to-gates-foundation-after-epstein-saga-billionaire-will-wait-and-see-what-unfolds-11775357259832.html
 
 - Workers plan to halt strike at major US meatpacking plant and resume negotiations
   Workers plan to halt strike at major
@@ -52,173 +60,145 @@
   OpenAI's product chief Fidji Simo will take a significant medical leave as well. The major leadership shakeup comes amid a pivotal time for
   🔗 https://www.livemint.com/companies/news/openai-dramatic-c-suite-overhaul-ahead-of-ipo-cmo-to-step-down-for-cancer-recovery-coo-moves-on-to-new-role-fidji-simo-11775265285617.html
 
-- Swimwear demand surges with rise in fitness swimming and domestic travel
-  The swimwear market has reached  ₹8.5 billion, fuelled by a rise in swimming for fitness. While leader Speedo leans on performance heritage, D2C startups
-  🔗 https://www.livemint.com/companies/swimwear-demand-surges-with-rise-in-fitness-swimming-and-domestic-travel-cuckoo-cava-speedo-myntra-amazon-11775202410786.html
+- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war?
+  Both Indian indices - Sensex and Nifty 50 - ended the week on a lower note for sixth week. Checkout how's the Indian market is likely to perform this week,
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11775367985838.html
 
-- Why India is becoming a key market for mid-luxury Swiss watches
-  Swiss luxury watchmaker Tag Heuer plans to grow its presence in India, particularly in major cities. The brand sees India becoming a key market in the MEITA region.
-  🔗 https://www.livemint.com/companies/news/why-india-is-becoming-a-key-market-for-mid-luxury-swiss-watches-11775214069858.html
+- Gold, silver rate today, 5 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
+  Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-5-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775361987848.html
 
-- IMF Warns Tokenized Finance Risks Amplifying Market Crises Ahead
-  Blockchain could accelerate financial crises beyond regulators’ ability to respond, IMF says. Technology promises to cut costs and eliminate settlement delays, IMF
-  🔗 https://www.livemint.com/market/imf-warns-tokenized-finance-risks-amplifying-market-crises-ahead-11775308862640.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 6 April 2026
+  The Indian stock fell for straight sixth week amid ongoing geopolitical tensions. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-april-2026-11775361829263.html
 
-- Defying the sell-off: 5 stocks holding firm in a volatile market
-  As sharp swings rattle Indian equities, a handful of stocks are bucking the
-  🔗 https://www.livemint.com/market/stock-market-news/defying-the-sell-off-5-stocks-holding-firm-in-a-volatile-market-11775131453088.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 6 April 2026
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-6-april-2026-11775359920199.html
 
-- Silver rate today, 4 April: Why white metal may not dip below  ₹2 lakh? Explained
-  MCX silver price finished at  ₹2,
-  🔗 https://www.livemint.com/market/stock-market-news/silver-rate-today-4-april-2026-why-white-metal-may-not-dip-below-rs-2-lakh-explained-11775284397938.html
+- RBI MPC meeting, US-Iran war to crude oil prices: Top five triggers that may dictate the Indian stock market this week
+  The Indian stock market extended its losing streak for a sixth straight week on escalating geopolitical tensions in the Middle East. While some of the global triggers continue this week, read on to know what are the fresh
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-us-iran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11775354210271.html
 
-- HAL, BDL, GRSE, Mazagon Dock Shipbuilders to BEL: Which defence stock to buy amid US-Iran war?
-  India's defence sector is buzzing with recent deals with Germany, France, EU, and Israel.
-  🔗 https://www.livemint.com/market/stock-market-news/hal-bdl-grse-mazagon-dock-shipbuilders-to-bel-which-defence-stock-to-buy-amid-us-iran-war-11775277292297.html
+- Apple 50th anniversary sale: iPhone 17 drops below  ₹50,000, iPhone 17 Pro Max available at  ₹1,02,900
+  Apple celebrates 50 years with discounts on iPhones including the iPhone 17 and Pro Max. Customers can benefit
+  🔗 https://www.livemint.com/technology/gadgets/apple-50th-anniversary-sale-iphone-17-drops-below-rs-50-000-iphone-17-pro-max-available-at-rs-102900-11775295923758.html
 
-- Gold, silver rate today, 4 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
-  Gold, silver rate today, 4 April: Check the live price of gold and silver today in Delhi,
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-4-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775273464551.html
+- Claude AI can now search your Outlook emails and Teams chats for free: Here's how it works
+  Anthropic has enabled all users to access the Microsoft 365 connector. The feature was previously available only to the company's Team and Enterprise users. With the new integration users can search and analyze
+  🔗 https://www.livemint.com/technology/tech-news/claude-ai-can-now-search-your-outlook-emails-and-teams-chats-for-free-heres-how-it-works-11775288608129.html
 
-- The proliferation of AI-enabled military technology in the Middle East - The International Institute for Strategic Studies
-  The proliferation of AI-enabled military technology in the Middle East.
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0hMNTIwclNIS0MxS2lQSnl6VG0xS3NqU3Z4NldJNXpReW9mNlBtYnNSZnFYcWpOTHVUQU1mWG5kb282Rlc3NlhtX1RHamw1SUVzN1p1UzUyRHJ3UmcyNnpXdTBzcWE4RXFQb050cy1Ic2Jua0hEMUxfV3NxQU5LUFZaM2hZVGZWNlBtczRVUmY0ZHFoV2JjTzlZcjQwUXhMMkQ3cW1GZVZWVFhQLWpmZVlMQjRLYVhsSHpMY3kyQVBMclJrOUdfdDlQYVJWVXZYTEVV?oc=5
+- Mark Zuckerberg's Meta builds new AI hardware divison, hires hires veteran engineer for mysterious AI gadget: Report
+   Meta is assembling a hardware team under its Superintelligence Labs. The move is said to indicate the company's interest in developing AI gadgets.
+  🔗 https://www.livemint.com/technology/tech-news/mark-zuckerbergs-meta-builds-new-ai-hardware-divison-hires-hires-veteran-engineer-for-mysterious-ai-gadget-report-11775279852534.html
 
-- Apple at 50: Where did the tech giant succeed and fail? - BBC
-  Apple turns 50 this year. The tech giant
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRl9zSk5oWlJHNlM1cUNFWFN3UDFSSFZaTEFyRmxubnQwc2xoMm4xcGd2MllNZllwRERNUEFWX1VXUTBJdm5iXzRwT1paWTFMWFZoUlR4T25hdw?oc=5
+- Using OpenClaw on Claude? Anthropic is about to start charging you extra
+  Anthropic will stop supporting third-party AI tools like OpenClaw for its Claude subscription.
+  🔗 https://www.livemint.com/technology/tech-news/using-openclaw-on-claude-anthropic-is-about-to-start-charging-you-extra-11775273277585.html
 
-- AI is rewiring the world’s most prolific film industry - Reuters
-  AI is rewiring the world
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5
+- AI porn startup sues Apple over App Store takedowns, claims $500,000 in lost revenue
+   AI startup Ex-Human is suing Apple for removing its apps from the App Store. The company claims that the wrongful takedown resulted in &
+  🔗 https://www.livemint.com/technology/tech-news/ai-porn-startup-sues-apple-over-app-store-takedowns-claims-500-000-in-lost-revenue-11775264151619.html
 
-- Impulse Space, Anduril Building Space Technology for Golden Dome - Bloomberg.com
-  Impulse Space, Anduril
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVdsVjJVX2llcDMzX1VtY3h2MVRhMm13QVA2QmtqMWpaM0VVc1I4djFsWUMwZFdlTVc0cHMwQkduYmVHSUhTemFMazBIcjUwaER1MFNhVG1ab1ZIZHVHdzBFV0RiYXNsNU1SdmltdGJ4ckVIZkMwVzA2UDhrZXdlWUFJVDBQTDlpVlBVT3J1bGhHUGhLSUFLS1ZRNjg5cG5XMVo3Ml9TbTNXQTJ0RFExUTFhYnU?oc=5
-
-- Gemma 4: Byte for byte, the most capable open models - blog.google
-  Gemma 4: Byte for byte
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq pare losses on hopes that Iran could reopen the Strait of Hormuz - Yahoo Finance UK
-  The Strait of Hormuz has been closed since the 1980s. The Strait is believed to
+- Stock market today: Dow, S&P 500, Nasdaq pare losses on hopes that Iran could reopen the Strait of Hormuz - uk.finance.yahoo.com
+  The Strait of Hormuz is a key shipping lane between the Persian Gulf and the
   🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekNBVDJEelFiQ0dZV2d6dVhWVUFRZ04xV2pLVzFLM1VVU2FnVEd1VkM4bnlKY0pUM3dYem5kTmZRNmlXSXl6MGxneUVUZmktZHN5T3QySjltZFVsS2UzWFlCeDNrYV92UW5mN0NlU3l6OERrRXZhX1hLY29sdjRwWUx4SkotZGZmNjJOZmVQMHFfbnBFWG9fbEFUUGRxX2hKSDRXSVVJak1aUHlyckdlRkdManJla3h2bUJaNUptRmlJUVhZcTVGSDQ1eGQxWXV3Szlz?oc=5
 
-- Markets News, April 2, 2026: Major Indexes Snap 5-Week Skids as Stocks Rebound from Early Rout; Oil Prices Jump on Iran War Concerns - Investopedia
-  Markets News, April 2, 2026: Major Indexes Snap 5-Week Skids as St
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTdiWkxFUUR0Y2VVNTBqWF9KT29nM05SWkFGYVhibGhKbUcwUHlvbWRmOHJzdGZaNld2SWFYUVJoeUxXNXdlWXBDV0gzQnlKRXFuUGZVNTJiUW1Kd3RrLWhBVzVodFpFUXlKcDBmanc1SGVURl90Tm9mam1ELW5IR1RHd2hZak9mdXJWRUE4Nl8?oc=5
+- Market declines for sixth straight week; Rupee rebounds from record low - Moneycontrol.com
+  Market declines for sixth straight week; Rupee
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNkVHeFYySkpGQnRITDJzSXM1c3hVbFo3SEE3Z1NJT1htQW16UFdnYU9rMXY5Sm9qTTQ3SXl4SFNxNjJkTnctSW9ETW1TaUZPVWU1SGVJSzF6T0NnZzZaYUlYcm52aUNnNENRcmFHcWQtSGwtNTJsYXdpLXYyc2RQX1BBM25qY01iUER5bExwMTRnLVZFWlI5OEZETWFfVmlOYTNfNnJwSUIwTmhOTHJvendYaERxTlI5NmtQQW5hT0FSVWZEdm11R1o5a2lQTVFTYUFaMGY0TDBkZ9IB3wFBVV95cUxOS05qcXhuUGY2WjJnaUlhaHJYVlJGLUo5cXJHM1BDR3B2Ukl2QVpYU3RoVUFLV2VmMVg2YzZWN0x1eW1XeHVXUnRuOXZlVkpFQU9BakwtMmNxVnJnbERNbHJNSWN0bzQ0VnliLTllYklKV2J3RThYbk81Qkl1NTNNZ0k1VGtZM0JqNllVTTladGotal9yeVZnbTIyeEE1a3ZFVms1Rm9XM2wwaEVXc0NsTTlXLVBjYXBJQ0hvTk9FV0RObUdYRVViMUcyVGpWMnJWODZUelFVSWJNRzFUSzRB?oc=5
 
-- The Week Ahead: Markets Eye Inflation Data, Fed Minutes and War Risks - FXEmpire
-  The Week Ahead: Markets Eye Inflation Data,
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOanpBcDhCcVphRURJY0twc3doYUl3VTBSWEpoN1hJQmpudkFVQnpnal9hT0FhaERtNEhaMjB4cVNZNEdsVXVhS3FhelZNWTJhVGdMbG5NWUFmekdLT05FWkxLSlR2b241V1NOOFVEYWFxVUE2ZHIzN0hTY1FTa1RZcVNFNS15bHdqaG8xVmtWRUFGdDVWTG1PbE8zNlhwQUcwZzd2eGdwSkdzRmI5TE9iYXk5cmNzd0NYT2c?oc=5
+- RBI MPC meeting, US-Iran war to crude oil prices: Top five triggers that may dictate the Indian stock market this week - Mint
+  RBI MPC meeting, US-Iran war to crude oil prices: Top five triggers that
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOakhIUTRzaEVzZDM2TjlBZGdPMkNrWmVyNnRDRktxNGxna1pjNWNlR3FqVzk2RFF0ODhNbVJEcjhYZGdqTWtmLUw1TzQ5M2NYaERuTWV6NmR1QjFHSW1pUUV4N0lkUHlaR1F4em1mQkJWNXJZWkpoYThZWG9xeThJeDVjd0FVUkFaalczS3ZPNDdsMFF0V2RYa09PclRCOERYTGtNd3g4Ql9lMlY1YUFGMnE2ZlNJbENMalgya1VOaFlSdXlKczltZGl4WXUyelM4M0NIN1BydTN1VnVISHVyUWZnOHFwbTZEM29DREtpYk80M1l6LTVqTHVNLWlycEhtZXdWbTNhVzEtQnhuSjVfcWhldljSAZoCQVVfeXFMUGpJNnNzM3FrQkhoRmdnS0d4YWpqSVFtRS10ME1EQkE2cXdScDE0b1VFdlVpRjA2UnVOaU1fdzQ0TTU3RmFTRTVSdDdLZi1mTTk4MzFWbkFXRzRCb2J4OVNMTWk0dHdSUWFaRGRLemJBM25YTldPWnNXeUthNzFqQ0Y0QXdtUDM0cGxySEl0SF91YXRack9iYlVzdERkc1FlcDRlT280a25xUnpuemZDMmlMM2ZaWlJoVHNuUUN3VEotel9Sc2FKQUR0emhGS2xwb0JaTFN5VzN1ckpqbEtYOUNBT3diT2dBVHFyMUhvdHNGbGNvaG12T0FmemhkT0xjV3BvbGlWc3V0Mzh0bHpIYWUtRnM2VHZkUEtB?oc=5
 
-- Sensex, Nifty outlook for Monday, April 6: What to expect from stock market? Key levels, trading strategy & more - Business Today
-  Business Today reports on the Sensex, Nifty outlook for Monday, April 6. What
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNT19lQW83MGJheG5SaWo4YzlpUllteG5HZGVWU0xDb1ZkV0hnWDVVOHNhZTA5RXRqZzdkWFlJWTdYU3dNc3lhcnh0amdGMnJWN2hCaUY5MmxFTDJQYXl1R2E5bDNONmpRNFVzTzlpNzdKZUN2TThrekt1YjAxTVd0ZmhQMG9xZzA4bmQ0ZHMxQnItX2dFdHBrdVpMMEZiVEJJOXBnT0ROem8wUjhmS3ZEeWtnNEZZbWtaSnY0ZFB3U1A3MGtmMjY0OUpBbmQ5RDh5MzhoXzQ2QWRhbENnSk5UaWhtYzdBMjJPLTlteXc0Ulp4b0hEenBfekVxbDdzbUc1QjNn0gGIAkFVX3lxTFBrcjNrZkZhMWhacFh2Z3dUcTVRSExsaU1PNFdnZzl0LUFSQUF4dXRaUEI2bzRnMzFndnpZOG1lQVFrdHcxYTBoTTJCZno5a3BiRzRWVWZTbTBXRC0ycWpBVUJNRFZ3UlNrVTRwa19iN2lEWjd0S21VOHJHLWI0TkVvd3RpelpjWWlRSXdZOTZwc3Y0N2hfMFZaWEVhMTNBcm9YQ1RudkEyTTdENjlJaEFtSDlsTU5kSkZVWkV0NEk4eWh4SXVOUjlJa1lXQ3loNzJwc2l5NXN1bnNneDRyc0hGenViczFkdkJHaFZqeHVQUFFSVGpVMnlSUW82OEZaaE4tcU5McHpJQg?oc=5
+- Week ahead: US-Israel-Iran conflict, rising crude oil prices, RBI MPC meeting among key market triggers to watch - Upstox
+  Week ahead: US-Israel-Iran conflict, rising crude oil prices,
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYzlyODd1QTBjRngwY0pHSDlRLWVDUHVHdy1qWjg5VUY4dE9oWFd4LUszdXk2VVBIV0dLOTNBRzBtX1A4ZElUUmxPZTVTVHBLVWJQZHZVZXRrQVg5QUtqa2x0c0hUd1ZQeklNWV92SFZqcklVUWJZaEVteTFaTkhILS1SWGxxWS1XV2k1cjRmNC1fUHpxNkNURXlFZGx3Y1R4eW81NkI4WE03b2xQWnhKWHZPOXNHbEJvREZ2UjhFeXhqTnpWd2FtaS1EYnBIS19oUVdHN3BNT1FXcmhpTlBFUmRTMWdGNmxkbUFhWl8xQ1N1LTZYNWZ5elIzblNJdw?oc=5
 
-- High-stakes timing: Trump’s Iran warning expires just after markets open on Monday - what can happen? - The Economic Times
-  High-stakes timing: Trump’s Iran warning expires just after markets open
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTzF0QTk2M0VRb3FMbF9KZmJUWGdHWVhvaUdMWS1rOVFvb2dYOHNRU0RxS284a09DZjA1U284R0k5NHdmR2dDbHZsNTlUTDZGYVdJWHFEN1dib0tPdGNtYVQ1UF9vdkpPQzRNbWpHNmtNaXFQb2pZZHlVZDE5SnAtWll5S240WDYzSU4xTFBMWFVCOVpfaDU0U2NaT1hGOUc3bDVMWjZOc2sxbUpYVE5lbWJDTThESlFSMERfMk5GZ25GOFdyZ0tWc3JQNDZUMy1tRV9NYWZlSWxNc3ZSVzlMaE1KYWVEWDVydFBnel9fb3JmeFhweHdDQ1VRemhOVTFSdlHSAYcCQVVfeXFMT0ZNMlBCbTBqSExKTFBILWZ0SEp2amVOVTlNSExQeUR3OTkybjNKWXVrSnZIUmFHRU14RE55VUk4ZjVScjMxTkdPc3E5LTJURUxJOWFwSzJ1dkNuRFBYWmJJd3ZuTnVqLTlMelh1VVB3Wi1valAtV1BiWVZRbFgtTWxyS2JCMEJiWWtNakJsSjI2di13WFRBbTF4em5TM0tFYldfNjlxOHRreDlkUWFVU2dEWU1PYmxyei1aMU9HY0JOSFg4MmFhZVB2RGtua1dDa1JHbktVNXdfOTFwbUkwR01ycldIQUtrd0N0b045OHNURmxMWWxFV2E0TXdOLVNnMnctelJqTEk?oc=5
-
-- AU Small Finance Bank Q4 business update: Deposits up 23% YoY at Rs 1.52 lk cr, advances rise 25%
-  AU Small Finance Bank reported steady Q4 growth with deposits rising 23% year-on-year to Rs 1.52 lakh crore. Despite strong operational performance, the stock has declined amid broader weakness in banking stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms
-
-- Bandhan Bank Q4 business update: Advances rise to Rs 1.54 lakh crore, deposits up 10%
-  Bandhan Bank reported a 12.6% YoY rise in advances to Rs 1.54 lakh crore. Retail deposits led the surge, while the CASA ratio stood at 29.31%. Collection
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-q4-business-update-advances-rise-to-rs-1-54-lakh-crore-deposits-up-10/articleshow/130016638.cms
-
-- 8 stocks surged over 50% in each of the last 3 fiscal years; rally up to 3,100%
-  Eight stocks have delivered over 50% returns in each of the last three fiscal years. With gains ranging from 500% to over 3,100%, these consistent outperformers highlight strong underlying
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/8-stocks-surged-over-50-in-each-of-the-last-3-fiscal-years-rally-up-to-3100/slideshow/130016086.cms
-
-- HDFC Bank Q4 business update: Lender reports 15% YoY growth in deposits, advances jump 12%
-  HDFC Bank reported a steady Q4, with deposits rising 15% YoY and advances growing 12%. Average deposits touched Rs 28.51 lakh crore, while period-end deposits stood at Rs 31.06
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q4-business-update-lender-reports-15-yoy-growth-in-deposits-advances-jump-12/articleshow/130015244.cms
-
-- Dalal Street Week Ahead: All eyes on 21,700 make-or-break zone as Nifty braces for volatility
-  Nifty ended lower after persistent selling dragged the index below key short-term supports. With the index approaching the crucial 21,700 zone, sentiment remains fragile amid global uncertainties. Technical indicators stay bearish, suggesting caution, selective
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-all-eyes-on-21700-make-or-break-zone-as-nifty-weakens-further/articleshow/130015190.cms
-
-- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - timesofindia.indiatimes.com
-  7th India-flagged L
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
+- Grey Market: India is ageing faster than its care systems can keep up. A new wave of startups is trying to - The Economic Times
+  A new wave of startups is trying to tackle India's ageing care system.
+  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxOOHdybzFhUlROWGNudXRCQnZfblhDdHUxeHFlRTF5N001MElFUG02UTlSZ1FnTnU1TG1YMFdBZV83VW5HWUF5R0h2QzVkYjNIOWJCcF9uOXk0LWZLbkRMU0c1NkdMUkJkWmY3Xzk3Q1p6ZWswRHIyWUZjbzJITk9nMWE3OW1saF9SWFZzazBRTmxNcXQzRWVlWEdvQlI1bGlUSklfUDAyeGlsa1BVanNoSUx0SUhkd01aLVNWU0hHWHBrUzlyd0o4SFZhbWpsZUc0V0JHdS1uNldjbUVRelh0OGxkV0VxVGhjbUw3eXFNdjFETWxHbmRjWDI1TFNkYUFMNTJQSm11UkE3M0NlWlNHQlFvcTVaNUdqNnpWSlI1ZjJzZHkyOVYwSTVpT2ZNdTB1ZWVIejlBUzLSAb4CQVVfeXFMT3lYSU9NcGs0ZUc1MHg0dVhQbnppMU13VjV4M1ZON0tfT2ZHb0xaWmlTSXRWTU80MDk2QVRVcmlsbDRlU2JSU3FfQnhmcHV0b0xxdExqUmFISy1TY0dkTkg0YVhOSGVpSTlCdXluTGxmdUpSQ2RFRmM3OVZ0MXFpeWZPelY5UGtib3ZpOTdSaUVOc2pNQnRWTEtuU1RFMWloZUROSFNlU0hqaEZTWEtwbXpzOW9LQS1VMS0wT3lRRW9KR01xTkJyb1VFeloyRmcwTHN4eU1GOHBkSnN5N3dWcTdDcUJmMGF1blJhcDAtRW5naXBMSnFLaDFrQ0NqSmJHdzJ6NmQ5SDYyaDA1eUFXLXNaRjdxTjc2ZHFQZ1NXR1dldFZFQ1RMQ2hwTl9QTExqMkpsSjMwNHJTTnM5Z293?oc=5
 
 - 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
   8 Indian Vessels Have Crossed Strait Of Horm
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
 
-- India news: LPG tanker headed for Mumbai crosses Hormuz - dw.com
-  India news: LPG tanker headed
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOalozSzVic1Q1VDVDYmhqZVFNYlkzN05vam15aWFRXzBlek1TM2lkdmlERHcwaXZfbHN2M2d6TDRzU1NUUnpvYXFjUG9aOUltVEN4MTUxSVg2RURkQk90UFhVMVVyazNXa0VsdkNqM2k3OGlmNkxreHhKckJid2NJUlRERF9QWGd3T2F4Sk5QRDlBd0pFbDlKSmx3dURRT01ZdkE?oc=5
+- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - indiatoday.in
+  Congress leaders break ranks with Rahul Gandhi on Iran war
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Student complains of being forced to attend Modi event in 29° heat; Instagram vlog gets withheld in India - Alt News
+  Student complains of being forced to attend Modi event in 29° heat. Instagram vlog
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQQV9lQ0VQNmlGS2t6UHdwWHRJR01FTjhmX2s4WVd4M3ExUGpTcVNLTUxVMmVod05pNVRKZU4zNEZwa2VZQ3Q4Q1B5MzhxaGU3a2pYcUdqSHNydXFCY0V3UjJhbktoalJHSGFCQjVNU1pld1QtMzdSV2dpRkIycDVNZ05WOWF2aHN5aFFuWGZ0eFgwb1dLOTBaOTNwMXlMSjY2RzlidUF6UG5HNGRzeUtMbmZ0YVg4ZnFrQ3RmTUpHZXYtY05qelE?oc=5
 
-- Parliament panel seeks accurate enumeration of all disabilities in Census - timesofindia.indiatimes.com
-  Parliament panel seeks accurate enumeration of
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFV6eEtuTnFSa0lNNkFMeEVJallXaG1wTjdvYWxCNzQwWUFmaFhubGVySTNiYnZnSWtfNVoxaFU5OVJzM3RwcFJtNTlzQi1JWXBET2RpcHN1NGczMVhaQVNNTEhDSlhHQ0VSX0E4ZXJ6YU5sSzZoVTFILUxvY09sc2Y5UGNtZHl2OF9vVHNvMzhQTmM0MHY5Mm5DTkpFaTd3ZkpGWHBYQVdPa3ZOeHZNRGtoRWpTUndQX2RfVk9TUzN3NGJXT0RoYThaUHAyVlJSdDhDcEV5UU7SAd4BQVVfeXFMTW1leXJDb2J3b1RyaUNPUGVlYmM3NFNfYmxPWjdYOTZvdVMxd0dOcl9xZTF6bGYxV1U1Q1JHUkY2ZWN3bFVyRnQwazJpSE9xcURzU3llNENOUjBWRG9GdDViV21wVW1Pd28yR18wcEJocF9RMloza2djOVlOX3k2N2xUMFFDQVN1My0xeGFhcTVJNkpOc1Vid3JRYWZaWUdiMU9RU1B2M1JwWl9UR0VIRnpGWHZBbW1PMkM3STFOeTVuT2l6NC1LazZuRWV1d2t1alVCTUpyS3FZLXl2VE93?oc=5
+- Why India-bound Iran oil shipment rerouted mid-voyage to China? Centre explains | India News - Hindustan Times
+  Why India-bound Iran oil shipment rerouted mid-voy
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQVERuc1dQYVE4NTYxTndvU0V3dzU0c0RoeDg4TGZSSzFLc05iWUFkX0dVcmFKRU1WN0N3M1VCT20yVko3YmV6Z0ZLT0RYTTVKODU3ODRZakx5aTFQR1ZPME5wcDVCMU5SdzBWZUlZWmo4V25FWXhSTUN1TVotelFwZ3BnSUZPQlZ1b0FOWTNHVkZmZFlWdElPcFA2cW5xS1l5TjhpbzdxYzdtenU3czFXWTBSaElHMXJjSDhNd09rNFBVV19kMEU1R2prREVDTXliMVp0a05CdzBja3JCcWNQTldDcTNxQ2NtSUFyVzk1bzF3T3haUWNubWJLd01WOUJHQkdn0gGIAkFVX3lxTFBMY21EdXNJTy1RWmNTLU4wMjNWMm5mMnRWV3gyVDQ5dVJVeHFGTUNnamduYU9Pb2VwNnJ0dlpjUFVIMEpNdFBhbTcxYXNBQUxyTVFOUDNoQnRUekVxSG94NmdfRVZ4LS1QMkpmWDJTcUdrN182NnFzNU5zNXRZZXdGQmhyMWM4dHZ6VG9UbWthcjU3ejdEbXgxa2RwU1VILVM5Sm45LXFSNFBGa3RmTTBHd201U3Utell1U3Z5VXg0c3IySzF2OVd1d0VlNmVYaVo1aU9KeGl1Q182NFFSSlZ3MnNWd0xVUDFRVS1QWVp1bUZxUmhZbV9SbU1MRHBjelpUUlNMNm5veA?oc=5
 
-- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - timesofindia.indiatimes.com
-  7th India-flagged L
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
-
-- 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
-  8 Indian Vessels Have Crossed Strait Of Horm
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
-
-- India news: LPG tanker headed for Mumbai crosses Hormuz - dw.com
-  India news: LPG tanker headed
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOalozSzVic1Q1VDVDYmhqZVFNYlkzN05vam15aWFRXzBlek1TM2lkdmlERHcwaXZfbHN2M2d6TDRzU1NUUnpvYXFjUG9aOUltVEN4MTUxSVg2RURkQk90UFhVMVVyazNXa0VsdkNqM2k3OGlmNkxreHhKckJid2NJUlRERF9QWGd3T2F4Sk5QRDlBd0pFbDlKSmx3dURRT01ZdkE?oc=5
-
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
-
-- Parliament panel seeks accurate enumeration of all disabilities in Census - timesofindia.indiatimes.com
-  Parliament panel seeks accurate enumeration of
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFV6eEtuTnFSa0lNNkFMeEVJallXaG1wTjdvYWxCNzQwWUFmaFhubGVySTNiYnZnSWtfNVoxaFU5OVJzM3RwcFJtNTlzQi1JWXBET2RpcHN1NGczMVhaQVNNTEhDSlhHQ0VSX0E4ZXJ6YU5sSzZoVTFILUxvY09sc2Y5UGNtZHl2OF9vVHNvMzhQTmM0MHY5Mm5DTkpFaTd3ZkpGWHBYQVdPa3ZOeHZNRGtoRWpTUndQX2RfVk9TUzN3NGJXT0RoYThaUHAyVlJSdDhDcEV5UU7SAd4BQVVfeXFMTW1leXJDb2J3b1RyaUNPUGVlYmM3NFNfYmxPWjdYOTZvdVMxd0dOcl9xZTF6bGYxV1U1Q1JHUkY2ZWN3bFVyRnQwazJpSE9xcURzU3llNENOUjBWRG9GdDViV21wVW1Pd28yR18wcEJocF9RMloza2djOVlOX3k2N2xUMFFDQVN1My0xeGFhcTVJNkpOc1Vid3JRYWZaWUdiMU9RU1B2M1JwWl9UR0VIRnpGWHZBbW1PMkM3STFOeTVuT2l6NC1LazZuRWV1d2t1alVCTUpyS3FZLXl2VE93?oc=5
-
-- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - timesofindia.indiatimes.com
-  7th India-flagged L
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
+- Western disturbance sweeps north India; Hills experience fresh snowfall, while rain lashes plains - News On AIR
+  Western disturbance sweeps north India; Hills experience fresh snowfall, while
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXI5RGMzbm9jZlZwTXpHeVVlTGNIaU16bjFhWWVLNGp5WHh2QTI2dGFlTXNVc19JcjItdEpqelBldTNILUJwM1daQVRLV3NoZWRBZGx0dUF5eGRscERNajQ4SlYtZXJYdHhCZlZXNHc4eUlrMDRtVHpXd0R3VXExYlZsbnZoNGtxdnpLT3ViMFFOeWVzMnpMSjRSNEJfOHVDQndrRXhaZkY4U05qOFpiZ19ab3lfeGkyN3NqeG91RGl2LU0?oc=5
 
 - 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
   8 Indian Vessels Have Crossed Strait Of Horm
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
 
-- India news: LPG tanker headed for Mumbai crosses Hormuz - dw.com
-  India news: LPG tanker headed
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOalozSzVic1Q1VDVDYmhqZVFNYlkzN05vam15aWFRXzBlek1TM2lkdmlERHcwaXZfbHN2M2d6TDRzU1NUUnpvYXFjUG9aOUltVEN4MTUxSVg2RURkQk90UFhVMVVyazNXa0VsdkNqM2k3OGlmNkxreHhKckJid2NJUlRERF9QWGd3T2F4Sk5QRDlBd0pFbDlKSmx3dURRT01ZdkE?oc=5
+- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - indiatoday.in
+  Congress leaders break ranks with Rahul Gandhi on Iran war
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Student complains of being forced to attend Modi event in 29° heat; Instagram vlog gets withheld in India - Alt News
+  Student complains of being forced to attend Modi event in 29° heat. Instagram vlog
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQQV9lQ0VQNmlGS2t6UHdwWHRJR01FTjhmX2s4WVd4M3ExUGpTcVNLTUxVMmVod05pNVRKZU4zNEZwa2VZQ3Q4Q1B5MzhxaGU3a2pYcUdqSHNydXFCY0V3UjJhbktoalJHSGFCQjVNU1pld1QtMzdSV2dpRkIycDVNZ05WOWF2aHN5aFFuWGZ0eFgwb1dLOTBaOTNwMXlMSjY2RzlidUF6UG5HNGRzeUtMbmZ0YVg4ZnFrQ3RmTUpHZXYtY05qelE?oc=5
 
-- Parliament panel seeks accurate enumeration of all disabilities in Census - timesofindia.indiatimes.com
-  Parliament panel seeks accurate enumeration of
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFV6eEtuTnFSa0lNNkFMeEVJallXaG1wTjdvYWxCNzQwWUFmaFhubGVySTNiYnZnSWtfNVoxaFU5OVJzM3RwcFJtNTlzQi1JWXBET2RpcHN1NGczMVhaQVNNTEhDSlhHQ0VSX0E4ZXJ6YU5sSzZoVTFILUxvY09sc2Y5UGNtZHl2OF9vVHNvMzhQTmM0MHY5Mm5DTkpFaTd3ZkpGWHBYQVdPa3ZOeHZNRGtoRWpTUndQX2RfVk9TUzN3NGJXT0RoYThaUHAyVlJSdDhDcEV5UU7SAd4BQVVfeXFMTW1leXJDb2J3b1RyaUNPUGVlYmM3NFNfYmxPWjdYOTZvdVMxd0dOcl9xZTF6bGYxV1U1Q1JHUkY2ZWN3bFVyRnQwazJpSE9xcURzU3llNENOUjBWRG9GdDViV21wVW1Pd28yR18wcEJocF9RMloza2djOVlOX3k2N2xUMFFDQVN1My0xeGFhcTVJNkpOc1Vid3JRYWZaWUdiMU9RU1B2M1JwWl9UR0VIRnpGWHZBbW1PMkM3STFOeTVuT2l6NC1LazZuRWV1d2t1alVCTUpyS3FZLXl2VE93?oc=5
+- Why India-bound Iran oil shipment rerouted mid-voyage to China? Centre explains | India News - Hindustan Times
+  Why India-bound Iran oil shipment rerouted mid-voy
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQVERuc1dQYVE4NTYxTndvU0V3dzU0c0RoeDg4TGZSSzFLc05iWUFkX0dVcmFKRU1WN0N3M1VCT20yVko3YmV6Z0ZLT0RYTTVKODU3ODRZakx5aTFQR1ZPME5wcDVCMU5SdzBWZUlZWmo4V25FWXhSTUN1TVotelFwZ3BnSUZPQlZ1b0FOWTNHVkZmZFlWdElPcFA2cW5xS1l5TjhpbzdxYzdtenU3czFXWTBSaElHMXJjSDhNd09rNFBVV19kMEU1R2prREVDTXliMVp0a05CdzBja3JCcWNQTldDcTNxQ2NtSUFyVzk1bzF3T3haUWNubWJLd01WOUJHQkdn0gGIAkFVX3lxTFBMY21EdXNJTy1RWmNTLU4wMjNWMm5mMnRWV3gyVDQ5dVJVeHFGTUNnamduYU9Pb2VwNnJ0dlpjUFVIMEpNdFBhbTcxYXNBQUxyTVFOUDNoQnRUekVxSG94NmdfRVZ4LS1QMkpmWDJTcUdrN182NnFzNU5zNXRZZXdGQmhyMWM4dHZ6VG9UbWthcjU3ejdEbXgxa2RwU1VILVM5Sm45LXFSNFBGa3RmTTBHd201U3Utell1U3Z5VXg0c3IySzF2OVd1d0VlNmVYaVo1aU9KeGl1Q182NFFSSlZ3MnNWd0xVUDFRVS1QWVp1bUZxUmhZbV9SbU1MRHBjelpUUlNMNm5veA?oc=5
 
-- 7th India-flagged LPG tanker crosses Hormuz, 17 in queue - timesofindia.indiatimes.com
-  7th India-flagged L
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VsLU9qZVE2UzdQRnJqQUNVNzFfckNzaEtjWVZPbGk1dTBUd0tNXzBVQmpTSjVqOVZIVlZ3SDBpMF9hVGZxdGplOUdHY1UySVhlYXM3eHNKX2xQZ24zdHJ4cklZU1FfNENQeWlTa085MXExNUM5WF9ZZXZQSktZampMZENPSTJGRUdxajRGM0tVNjdPVnBQbTRrdDIzVVVidFI0ZFRMNE03U0hZbkpJcUZPOGpvb1dfaDk2LVc0aV_SAcYBQVVfeXFMTS1yYmJwMzdlaWtGMmRwaVFNRlNpODJsSnl1VlZQcmZQTTJDSGVNa2RWU2pKVTZ5YmJ5LTVoS2JaemVVMWcyOXFfazZtTDJ3VDdoYkJKV1JKc0pIY1RkNVE1TVZyNzVSVnJ5OUZqNE1ISWdDTkxRSzVrS1FCcnJodG9zSWtnZmIzeDR5SEYzNDdPb04zUzhNNFM0cHY5WkZyWERTQXowRzJMU1FoaE1ZRTF6OU1IUXpRdDFjbHBUNU4ydXZuOFpn?oc=5
+- Western disturbance sweeps north India; Hills experience fresh snowfall, while rain lashes plains - News On AIR
+  Western disturbance sweeps north India; Hills experience fresh snowfall, while
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXI5RGMzbm9jZlZwTXpHeVVlTGNIaU16bjFhWWVLNGp5WHh2QTI2dGFlTXNVc19JcjItdEpqelBldTNILUJwM1daQVRLV3NoZWRBZGx0dUF5eGRscERNajQ4SlYtZXJYdHhCZlZXNHc4eUlrMDRtVHpXd0R3VXExYlZsbnZoNGtxdnpLT3ViMFFOeWVzMnpMSjRSNEJfOHVDQndrRXhaZkY4U05qOFpiZ19ab3lfeGkyN3NqeG91RGl2LU0?oc=5
 
 - 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
   8 Indian Vessels Have Crossed Strait Of Horm
   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
 
-- India news: LPG tanker headed for Mumbai crosses Hormuz - dw.com
-  India news: LPG tanker headed
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOalozSzVic1Q1VDVDYmhqZVFNYlkzN05vam15aWFRXzBlek1TM2lkdmlERHcwaXZfbHN2M2d6TDRzU1NUUnpvYXFjUG9aOUltVEN4MTUxSVg2RURkQk90UFhVMVVyazNXa0VsdkNqM2k3OGlmNkxreHhKckJid2NJUlRERF9QWGd3T2F4Sk5QRDlBd0pFbDlKSmx3dURRT01ZdkE?oc=5
+- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - indiatoday.in
+  Congress leaders break ranks with Rahul Gandhi on Iran war
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
 
-- India news: Defense exports surge to over $4 billion - dw.com
-  India news: Defense exports surge to
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQc25zaTl4ZGhSZDIyTElzb3E2VUZkM0MycjN6Q1c2cU9nc1dqV1d1OVppVzNabW5Mdk5pekwyZ2VGM3pHYjg3YU9NVnJrbF9KSXZvb0g5ZTJhaGFpTE8yRDdSRGRxUjhqeWdQWW95ZE51QlZXQkNETmItRFd4SkF0VDJDaEZIR05FbnNQS2dQZw?oc=5
+- Student complains of being forced to attend Modi event in 29° heat; Instagram vlog gets withheld in India - Alt News
+  Student complains of being forced to attend Modi event in 29° heat. Instagram vlog
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQQV9lQ0VQNmlGS2t6UHdwWHRJR01FTjhmX2s4WVd4M3ExUGpTcVNLTUxVMmVod05pNVRKZU4zNEZwa2VZQ3Q4Q1B5MzhxaGU3a2pYcUdqSHNydXFCY0V3UjJhbktoalJHSGFCQjVNU1pld1QtMzdSV2dpRkIycDVNZ05WOWF2aHN5aFFuWGZ0eFgwb1dLOTBaOTNwMXlMSjY2RzlidUF6UG5HNGRzeUtMbmZ0YVg4ZnFrQ3RmTUpHZXYtY05qelE?oc=5
 
-- Parliament panel seeks accurate enumeration of all disabilities in Census - timesofindia.indiatimes.com
-  Parliament panel seeks accurate enumeration of
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFV6eEtuTnFSa0lNNkFMeEVJallXaG1wTjdvYWxCNzQwWUFmaFhubGVySTNiYnZnSWtfNVoxaFU5OVJzM3RwcFJtNTlzQi1JWXBET2RpcHN1NGczMVhaQVNNTEhDSlhHQ0VSX0E4ZXJ6YU5sSzZoVTFILUxvY09sc2Y5UGNtZHl2OF9vVHNvMzhQTmM0MHY5Mm5DTkpFaTd3ZkpGWHBYQVdPa3ZOeHZNRGtoRWpTUndQX2RfVk9TUzN3NGJXT0RoYThaUHAyVlJSdDhDcEV5UU7SAd4BQVVfeXFMTW1leXJDb2J3b1RyaUNPUGVlYmM3NFNfYmxPWjdYOTZvdVMxd0dOcl9xZTF6bGYxV1U1Q1JHUkY2ZWN3bFVyRnQwazJpSE9xcURzU3llNENOUjBWRG9GdDViV21wVW1Pd28yR18wcEJocF9RMloza2djOVlOX3k2N2xUMFFDQVN1My0xeGFhcTVJNkpOc1Vid3JRYWZaWUdiMU9RU1B2M1JwWl9UR0VIRnpGWHZBbW1PMkM3STFOeTVuT2l6NC1LazZuRWV1d2t1alVCTUpyS3FZLXl2VE93?oc=5
+- Why India-bound Iran oil shipment rerouted mid-voyage to China? Centre explains | India News - Hindustan Times
+  Why India-bound Iran oil shipment rerouted mid-voy
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQVERuc1dQYVE4NTYxTndvU0V3dzU0c0RoeDg4TGZSSzFLc05iWUFkX0dVcmFKRU1WN0N3M1VCT20yVko3YmV6Z0ZLT0RYTTVKODU3ODRZakx5aTFQR1ZPME5wcDVCMU5SdzBWZUlZWmo4V25FWXhSTUN1TVotelFwZ3BnSUZPQlZ1b0FOWTNHVkZmZFlWdElPcFA2cW5xS1l5TjhpbzdxYzdtenU3czFXWTBSaElHMXJjSDhNd09rNFBVV19kMEU1R2prREVDTXliMVp0a05CdzBja3JCcWNQTldDcTNxQ2NtSUFyVzk1bzF3T3haUWNubWJLd01WOUJHQkdn0gGIAkFVX3lxTFBMY21EdXNJTy1RWmNTLU4wMjNWMm5mMnRWV3gyVDQ5dVJVeHFGTUNnamduYU9Pb2VwNnJ0dlpjUFVIMEpNdFBhbTcxYXNBQUxyTVFOUDNoQnRUekVxSG94NmdfRVZ4LS1QMkpmWDJTcUdrN182NnFzNU5zNXRZZXdGQmhyMWM4dHZ6VG9UbWthcjU3ejdEbXgxa2RwU1VILVM5Sm45LXFSNFBGa3RmTTBHd201U3Utell1U3Z5VXg0c3IySzF2OVd1d0VlNmVYaVo1aU9KeGl1Q182NFFSSlZ3MnNWd0xVUDFRVS1QWVp1bUZxUmhZbV9SbU1MRHBjelpUUlNMNm5veA?oc=5
+
+- Western disturbance sweeps north India; Hills experience fresh snowfall, while rain lashes plains - News On AIR
+  Western disturbance sweeps north India; Hills experience fresh snowfall, while
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXI5RGMzbm9jZlZwTXpHeVVlTGNIaU16bjFhWWVLNGp5WHh2QTI2dGFlTXNVc19JcjItdEpqelBldTNILUJwM1daQVRLV3NoZWRBZGx0dUF5eGRscERNajQ4SlYtZXJYdHhCZlZXNHc4eUlrMDRtVHpXd0R3VXExYlZsbnZoNGtxdnpLT3ViMFFOeWVzMnpMSjRSNEJfOHVDQndrRXhaZkY4U05qOFpiZ19ab3lfeGkyN3NqeG91RGl2LU0?oc=5
+
+- 8 Indian Vessels Have Crossed Strait Of Hormuz, Among Highest In The World - NDTV
+  8 Indian Vessels Have Crossed Strait Of Horm
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZvdU5WeHV0a1VTZ3N2NTFyeENjWGw0ZnE0blVwZUtZdmltOHNfb2NxaGhsMUs0clU3S3l6ZzhHRjlTbjRTRUpoOUh4MlBaRGd2NzZ4V0pYYjdsTy1KQkp5eHEtTmZteXowVk43NUlxQnU2WEQ5ZWl4aXlHM2RyWElTRWVoU09IUU1sZ3A5SVVfcHZWazM0YkcxODRUeUpsOEtHNmFKeDJmNjdqRmJlb0I2aUF0dXQ5MUcwYTQtbWh1RVRqSHNv0gHPAUFVX3lxTFBsUmNXN1R1RDF1eHJobjk2ZGhfTGx2MkJFUmp5WjhTTEJBSU5CX24zT204RDRhb0VLbDFtWEdTdEszLUctS1JZZjBvcDI0UDJCLTkxdDBDaC1ESDBXZ053d1g2aWxpdjYxU1dNeHhjSDVaU3RrZmdBeHlRWHNPZzNvU3FlWF9kWDhxclBEcGRSVHhPN1hCWUZFSXpnSkMxVlM4bkp0SE1VUnJtblZwWkZFMzZjVlpESFNDOTVVdTJkcnc1MjVIMnhES2pJTWUzYw?oc=5
+
+- Congress leaders break ranks with Rahul Gandhi on Iran war, LPG supply - indiatoday.in
+  Congress leaders break ranks with Rahul Gandhi on Iran war
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOU9tRFN2b09KSnpTNzNmYlcweWhzajhPX0tNUlN6T2JPSmUzUEhLdkJycHZOU2pNa3RqcGhFWHFiOWxmTjBIaGhXbU9vS3oxRUpoUlRfa3JTal9FeWxUWTdpZmd2QUIwUE1SWnR3VDlHSDY0SUJBVU1LekRFNG9RX2gySjZEbjl6eGoxYmVzQzRNY295ekFQSDhlUFBPb0xOVUhHa09tYVctRmpBbVBXbjNuOHZGZm44Vmo0WUp0QlpZLWM3MjJHNGpxRmxWcHowMi05aNIB2gFBVV95cUxQV2NaYmVNOGlUekJ3QURMSnRrT0VrUzNaaHdnZnZFN3AyM0RYdk9yWHFudEFDSnVKUFNzSTVDOFgtOEx3Y096TzB0Tl96eExBNEpmemh6TE5uVTkwVnZSWnR4V1lzTWNlZk1Zb1BuRE1tNjR4SEpWdmpiUUxVOFpOellOT18xOFp5ZlZVV21yeUp6TG9BaFdQWTJsWlc4RjNHV0g3ZEREaEluYlRqM0JuOVdJQkVuM2UtTVFoSjZycG5oOGI2Q0w2d1RXVGtHRDAyeHdKTDNUMFl0QQ?oc=5
+
+- Student complains of being forced to attend Modi event in 29° heat; Instagram vlog gets withheld in India - Alt News
+  Student complains of being forced to attend Modi event in 29° heat. Instagram vlog
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQQV9lQ0VQNmlGS2t6UHdwWHRJR01FTjhmX2s4WVd4M3ExUGpTcVNLTUxVMmVod05pNVRKZU4zNEZwa2VZQ3Q4Q1B5MzhxaGU3a2pYcUdqSHNydXFCY0V3UjJhbktoalJHSGFCQjVNU1pld1QtMzdSV2dpRkIycDVNZ05WOWF2aHN5aFFuWGZ0eFgwb1dLOTBaOTNwMXlMSjY2RzlidUF6UG5HNGRzeUtMbmZ0YVg4ZnFrQ3RmTUpHZXYtY05qelE?oc=5
+
+- Why India-bound Iran oil shipment rerouted mid-voyage to China? Centre explains | India News - Hindustan Times
+  Why India-bound Iran oil shipment rerouted mid-voy
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQVERuc1dQYVE4NTYxTndvU0V3dzU0c0RoeDg4TGZSSzFLc05iWUFkX0dVcmFKRU1WN0N3M1VCT20yVko3YmV6Z0ZLT0RYTTVKODU3ODRZakx5aTFQR1ZPME5wcDVCMU5SdzBWZUlZWmo4V25FWXhSTUN1TVotelFwZ3BnSUZPQlZ1b0FOWTNHVkZmZFlWdElPcFA2cW5xS1l5TjhpbzdxYzdtenU3czFXWTBSaElHMXJjSDhNd09rNFBVV19kMEU1R2prREVDTXliMVp0a05CdzBja3JCcWNQTldDcTNxQ2NtSUFyVzk1bzF3T3haUWNubWJLd01WOUJHQkdn0gGIAkFVX3lxTFBMY21EdXNJTy1RWmNTLU4wMjNWMm5mMnRWV3gyVDQ5dVJVeHFGTUNnamduYU9Pb2VwNnJ0dlpjUFVIMEpNdFBhbTcxYXNBQUxyTVFOUDNoQnRUekVxSG94NmdfRVZ4LS1QMkpmWDJTcUdrN182NnFzNU5zNXRZZXdGQmhyMWM4dHZ6VG9UbWthcjU3ejdEbXgxa2RwU1VILVM5Sm45LXFSNFBGa3RmTTBHd201U3Utell1U3Z5VXg0c3IySzF2OVd1d0VlNmVYaVo1aU9KeGl1Q182NFFSSlZ3MnNWd0xVUDFRVS1QWVp1bUZxUmhZbV9SbU1MRHBjelpUUlNMNm5veA?oc=5
+
+- Western disturbance sweeps north India; Hills experience fresh snowfall, while rain lashes plains - News On AIR
+  Western disturbance sweeps north India; Hills experience fresh snowfall, while
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXI5RGMzbm9jZlZwTXpHeVVlTGNIaU16bjFhWWVLNGp5WHh2QTI2dGFlTXNVc19JcjItdEpqelBldTNILUJwM1daQVRLV3NoZWRBZGx0dUF5eGRscERNajQ4SlYtZXJYdHhCZlZXNHc4eUlrMDRtVHpXd0R3VXExYlZsbnZoNGtxdnpLT3ViMFFOeWVzMnpMSjRSNEJfOHVDQndrRXhaZkY4U05qOFpiZ19ab3lfeGkyN3NqeG91RGl2LU0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-05 02:02:59 UTC_
+_Last updated: 2026-04-05 07:03:20 UTC_
