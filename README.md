@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Gold Rate Today, April 6: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- ‘Died in September, family told in March’: Russia-Ukraine war claims Jammu youth’s life
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-april-6-check-18-22-24-carat-prices-chennai-mumbai-delhi-kolkata-10621333/
+  🔗 https://indianexpress.com/article/india/died-september-family-told-march-russia-ukraine-jammu-youth-10622014/
 
-- Exclusive: Agriculture Ministry asks Krishi Bhawan babus to drive private participation at Vidisha farm fair
+- Odisha govt clarifies no ban on 5kg LPG cylinders after panic over minister’s remark
   
-  🔗 https://indianexpress.com/article/india/exclusive-agriculture-ministry-asks-krishi-bhawan-babus-to-drive-private-participation-at-vidisha-farm-fair-10621264/
+  🔗 https://indianexpress.com/article/india/odisha-govt-5kg-lpg-cylinder-ban-students-migrants-10621905/
 
-- Assembly Elections 2026 Live Updates: In Assam, Modi pushes Women’s Bill, says no state will lose representation
+- Parliamentary panel calls for timely completion of Dankuni-Surat Dedicated Freight Corridor
   
-  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-westbengal-assam-tamilnadu-kerala-10621207/
+  🔗 https://indianexpress.com/article/india/parliamentary-panel-calls-for-timely-completion-of-dankuni-surat-dedicated-freight-corridor-10621692/
 
-- Police ‘helped track her down’, father ‘staged suicide’: Cops suspended after Andhra woman found dead
+- His wife Riniki under Congress fire, Himanta lobs a ‘Pakistan-angle’ grenade
   
-  🔗 https://indianexpress.com/article/india/police-helped-track-her-down-father-staged-suicide-cops-suspended-after-andhra-woman-found-dead-10621040/
+  🔗 https://indianexpress.com/article/india/assam-cm-himanta-biswa-sarma-congress-pakistan-angle-wife-rinki-10621780/
 
-- Bihar Congress asks party’s central leadership to revise district presidents’ list, cites ‘massive social imbalance’
+- Amit Jogi sentenced to life imprisonment for 2003 murder of NCP leader
   
-  🔗 https://indianexpress.com/article/india/bihar-congress-asks-partys-central-leadership-to-revise-district-presidents-list-cites-massive-social-imbalance-10621041/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-high-court-sentences-amit-jogi-to-life-imprisonment-in-2003-in-ram-avtar-jaggi-murder-case-10621677/
+
+- NASA Artemis II Day 5: Crew reaches moon, clocks record-breaking distance from Earth
+  
+  🔗 https://indianexpress.com/article/technology/science/nasa-artemis-ii-day-5-crew-reaches-moon-clocks-record-breaking-distance-from-earth-10621962/
+
+- Google just doubled your AI Pro storage to 5TB for free — and you probably didn’t notice
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-just-doubled-your-ai-pro-storage-to-5tb-for-free-and-you-probably-didnt-notice-10621682/
 
 - Japan bets on robots to sustain economy amid ageing population
   
@@ -32,53 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/xiaomi-17-ultra-leica-camera-phone-2026-review-10619919/
 
-- ‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openclaw-creator-hits-back-anthropic-policy-third-party-tools-10619696/
+- Adar Poonawalla to partner with Trivitron to expand MyLab outside India
+  The deal is currently in advanced due diligence stages, and the final contours of the transaction are yet to be decided. Two Trivitron
+  🔗 https://www.livemint.com/companies/adar-poonawalla-mylab-trivitron-joint-venture-healthcare-medical-devices-11775470055114.html
 
-- Telegram’s Durov says Russia triggered payment system problem by blocking VPNs
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/telegrams-durov-says-russia-triggered-payment-system-problem-by-blocking-vpns-10619638/
+- How a blind man made it possible for others with low vision to build Lego sets
+   blind man made it possible for others with low vision to
+  🔗 https://www.livemint.com/companies/how-a-blind-man-made-it-possible-for-others-with-low-vision-to-build-lego-sets-11775477141368.html
 
-- SC clears way for Adani’s  ₹14,543 crore JAL plan
-  The top court refused to stay implementation, but directed NCLAT oversight and exped
-  🔗 https://www.livemint.com/companies/news/sc-clears-way-for-adani-s-14-543-crore-jal-plan-11775455142459.html
+- Here's what India Inc. is projecting for salary increment, promotions, attrition rates, talent development in 2026
+  Financial services, manufacturing and pharma leading pay growth. Overall promotion rates have reached 14% in 2026.
+  🔗 https://www.livemint.com/companies/news/salary-increment-pay-hike-growth-9-pc-india-inc-sectors-2026-steady-rate-promotion-employee-attrition-talent-development-11775465448427.html
 
-- AirAsia X to increase fares as jet fuel prices soar amid US-Iran conflict — How much do tickets cost now?
-  AirAsia X co-founder Tony Fernandes said in
-  🔗 https://www.livemint.com/companies/news/airasia-x-to-increase-fares-as-jet-fuel-prices-soar-amid-us-iran-conflict-how-much-do-tickets-cost-now-11775454016869.html
+- E-motorcycle maker Matter Motor eyes $50 mn in fresh round at $300 mn valuation
+  The fundraising comes as India’s electric motorcycle segment struggles to
+  🔗 https://www.livemint.com/companies/start-ups/emotorcycle-india-matter-motor-50-mn-valuation-11775450938015.html
 
-- Wipro bags $1 billion contract from Singapore's Olam Group, to acquire arm Mindsprint
-  Wipro will also acquire Mindsprint, Olam�
-  🔗 https://www.livemint.com/companies/news/wipro-share-price-contract-olam-group-mindsprint-it-services-india-11775447456434.html
+- Meta Layoffs: Facebook parent to cut 200 Silicon Valley jobs next month; who is impacted?
+  The Meta layoffs will happen in its Silicon Valley offices. Here is everything you need to know about the upcoming layoffs.
+  🔗 https://www.livemint.com/companies/news/meta-layoffs-facebook-parent-to-cut-200-silicon-valley-jobs-next-month-who-is-impacted-11775465552810.html
 
-- Big tobacco whistleblower says Meta, YouTube knowingly designed addictive products for children — ‘They expected to…’
-  Wigand says social media companies are using their advertisements to try to get children addicted. Wigand said his first thought when he learned about the trial
-  🔗 https://www.livemint.com/companies/news/big-tobacco-whistleblower-says-meta-youtube-knowingly-designed-addictive-products-for-children-they-expected-to-11775443156996.html
+- From sprint to stumble: Has the mad rush to invest in IPOs lost momentum?
+  A year after listing, only four mainboard IPOs were trading above their issue price in 2025. Our deep dive on what to expect going forward.
+  🔗 https://www.livemint.com/market/ipo/markets-ipos-retail-investors-ipo-frenzy-fades-2026-analysis-11775476331148.html
 
-- Middle managers out; ‘player coaches’ and ‘org leads’ now steer the ship at Meta and Block, thanks to AI
-  Companies are looking to dissolve dedicated middle manage levels in an unconventional pitch. For years, businesses have reorganised themselves
-  🔗 https://www.livemint.com/companies/news/middle-managers-out-player-coaches-and-org-leads-now-steer-the-ship-at-meta-and-block-thanks-to-ai-11775439303555.html
+- Earnings season kicks off this week: Which sectors could shine in Q4 &amp; how to position your portfolio?
+  The US-Iran conflict in March is expected to weigh on corporate earnings. BofA has slashed Nifty 50 earnings outlook, while analysts see pressure in select sectors.
+  🔗 https://www.livemint.com/market/stock-market-news/earnings-season-kicks-off-this-week-which-sectors-could-shine-in-q4-how-to-position-your-portfolio-11775477979696.html
 
-- New Trump Deadline Looms as Ceasefire Push Keeps Markets on Edge
-  US allies are reportedly pressing for a last-minute deal with Iran. President Donald Trump extended his deadline to Tuesday for Tehran to reopen the Strait of Hormuz.
-  🔗 https://www.livemint.com/market/new-trump-deadline-looms-as-ceasefire-push-keeps-markets-on-edge-11775460014487.html
+- Dow Jones futures nudge higher in pre-open session. What does it mean for US stock market?
+  US stock futures gained on April 6 due to rising optimism for a ceasefire in West Asia. Crude oil prices also declined, contributing to a positive market mood.
+  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-futures-nudge-higher-in-pre-open-session-what-does-it-mean-for-us-stock-market-11775475090448.html
 
-- Sobha Ltd exits FY26 with record pre-sales. Is there room for growth?
-  Sobha sold around 5.5 million square feet of space in FY26, up 18.5% year-on-
-  🔗 https://www.livemint.com/market/mark-to-market/sobha-share-price-real-estate-india-it-industry-11775455526214.html
+- Indian rupee weakness: Temporary shock or structural decline—or both?
+  The Indian rupee faces significant pressure due to a combination of temporary shocks from rising oil prices and structural
+  🔗 https://www.livemint.com/market/stock-market-news/indian-rupee-weakness-temporary-shock-or-structural-decline-or-both-11775475959563.html
 
-- GE Shipping share price rises despite sideways trends in the Indian stock market
-  GE Shipping jumped 3% to  ₹1,484.20
-  🔗 https://www.livemint.com/market/stock-market-news/ge-shipping-share-price-rises-despite-sideways-trends-in-the-indian-stock-market-11775455317035.html
+- Is a surprise RBI rate hike coming this week as US-Iran war continues?
+  RBI's Monetary Policy Committee meets on April 8. Most economists expect the RBI to maintain rates.
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-monetary-policy-is-a-surprise-rbi-rate-hike-coming-this-week-as-us-iran-war-enters-6th-week-11775468092947.html
 
-- Vinay Rajani of HDFC Sec suggests GE Shipping, Arvind shares to buy for short-term
-  Nifty 50 dropped 0.47% to 22,606.1, while Sensex fell 0.59% to 72,886.6. Eleven out of sixteen sectors reported losses
-  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-ge-shipping-arvind-shares-to-buy-for-shortterm-11775456417672.html
+- iPhone Fold launching soon: Expected price, display, camera, colours and other specifications
+  The iPhone Fold is expected to launch in September alongside the iPhone 18 Pro. It features a foldable design, A20 Pro chipset, and quad camera setup, while lacking FaceID
+  🔗 https://www.livemint.com/technology/gadgets/iphone-fold-launching-soon-expected-price-display-camera-colours-and-other-specifications-11775462400047.html
 
-- Volatile stock market, falling gold prices: Are long-term government bonds the smart bet now?
-  Long-term government bonds may offer a stable investment option. Analysts highlight high yields and the potential for capital gains.
-  🔗 https://www.livemint.com/market/bonds/volatile-stock-market-falling-gold-prices-are-long-term-government-bonds-the-smart-bet-now-11775454541115.html
+- OnePlus Nord 6 India launch tomorrow:Expected price, specifications and live-stream details
+  The OnePlus Nord 6 will be debuting in India at 7PM tomorrow. Ahead of the launch, take a look at
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-india-launch-tomorrow-expected-price-specifications-and-live-stream-details-11775459621397.html
 
 - ‘Argue with Dario’: Anthropic's head of growth says Claude maker encourages employees to call out its CEO publicly
   Anthropic's Head of Growth Amol Avasarala has revealed that the AI startup encourages employees to openly disagree with leadership. He noted that this culture of transparency through Slack channels
@@ -92,141 +100,145 @@
   Infinix Note 60 Pro will be launched in India on April 13. The company is offering pre-booking offers include up to  ₹
   🔗 https://www.livemint.com/technology/gadgets/infinix-note-60-pro-with-active-matrix-display-confirmed-to-launch-in-india-pre-book-benefits-specs-and-features-11775442516086.html
 
-- Are your apps secretly stealing your data? FBI warns iPhone and Android users over Chinese mobile apps
-  The FBI has warned of risks linked to downloading mobile apps, particularly those developed in China. The agency says such apps could expose user data
-  🔗 https://www.livemint.com/technology/tech-news/are-your-apps-secretly-stealing-your-data-fbi-issues-massive-warning-for-iphone-and-android-users-11775437350495.html
+- Stock Market Today: Nasdaq Futures Rise on Cease-Fire Efforts — Live Updates - WSJ
+  S&amp;P 500 futures nudge higher on report Iran and U.S. are trying for ceasefire: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWNLUVlvcnZ5N0Y3dXVNUG9fT2laXzFGWTZESTBNZzA3YTZXUXhhZTNhV3RnMjNKQXlPTXUxaGtJMm1odGlOckZTR2ZfNmNuWU93M18yaFhtNlNZRGtJeTlSaV96eTd5eVdUZUQ1VzBCVmhqTXlqQ25VRDk2ckZDU0FfSUZDY3M?oc=5
 
-- Mint Explainer | India finds a space surveillance market. Why regulations may pose a challenge
-  Current global conflicts, such as the Iran war, have shown that most strikes are being driven by advanced remote ballistic missiles. While it means significant business scope for Indian
-  🔗 https://www.livemint.com/technology/india-finds-a-space-surveillance-market-why-regulations-may-pose-a-challenge-11775370342591.html
+- Stock Market Highlights: Sensex Closes 787 Points Higher On Possibility Of US-Iran Deal - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkdHOW5sTjRQMUIzczl1UkJoTkFmV0NlZmdOUjIzQVFVdUQ0RDk4SlR5ZXZiU1NreU1WdDd2ejhCRFU1T0FJaldfdmdDM0lnVEJEaWRVZ0ctUXpZaGZKTHZxUXRUSVk4WE
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkdHOW5sTjRQMUIzczl1UkJoTkFmV0NlZmdOUjIzQVFVdUQ0RDk4SlR5ZXZiU1NreU1WdDd2ejhCRFU1T0FJaldfdmdDM0lnVEJEaWRVZ0ctUXpZaGZKTHZxUXRUSVk4WE9NYm5zY1FwaldxSExlVWE1dmVFNDNXRUt3OG45dy1IM0FPaTRGVVJSUmhrYzdfTW1hLTNpSFdEc1BqMUF4ZUVjYWdNbDRUcGhTYjVlbUxtVHNBd3JCUjdyLTdnLWVNd2p2aldFWHNLZXlWMUg2X2xVZWpYQS1yUzVaWWgxaEnSAe8BQVVfeXFMTXlxWGw2LTVJSVo5R0tQXzBxZ3duRFdNc0Q0ZGpJUjdkX3AtVk1mc2JzUTgyajA0TjgtTU1nNHp4T0lmRDdRV2NrZU1uZndNMEp5OFIyZ0NCdnRlaERwdzlRNkY0QXQzcXZBeFRtcXQ2VGxHUlhpZzItSEdabDJvTzI3VTZySVpsTEtOMUNkVS1LckVGbFBBbVM5ZWFIQ2pLZW5hU1VjLTlhOXdidTB1MnB3OFlNeTM5cng5SEtpS2NGa3NqTmtHQldaYUVTQ01hbXZ0N2pLV0llQjJ6RHFONDZfTGUxMHRjQUZfUFZHTlE?oc=5
 
-- Bajaj Alternate Investment Management bags PMS licence from Sebi
-  Bajaj Alternate Investment Management has secured SEBI approval to launch Portfolio Management Services (PMS) This move targets high-net-worth individuals with customized, research-backed strategies in listed equities.
-  🔗 https://economictimes.indiatimes.com/markets/aif-pms/bajaj-alternate-investment-management-bags-pms-licence-from-sebi/articleshow/130053444.cms
+- Reliance Industries shares slump nearly 4%, market cap drops by ₹68,000 crore; key things to know - upstox.com
+  Reliance Industries shares slump nearly 4%, market cap drops by �
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMzVLbmNUaGtobW5XQ1FGMW5mMzNEZDlJMTM5bnlXWDFiSllEM196cUg4V2gyUjRhbVFjN25vY1hIY1psOE5aVVF0bmdaSUdUUHFKSTBsUGwyMlZKSUQ3dWFxWU5aUkd5d1VfZTRDVnAzMHRRX0U2bFhJdm81TUsyMkRkeFRIY0lLZk8zTnVIX0lSRGVrRGN1b3o1WVVvN2RCTEJHUDNNZlV6Yk9sYzhTdHo0RjZ2Vnd6c0oyb080TFkyYUQ3OU5MVWhBWFFFN0hjOUZWdW1xYmdVT0pMR3hLdGF1ajJiSjg?oc=5
 
-- Aditya Shah sees PSU banks, SBI and HDFC as key picks amid volatility
-  India's banking sector demonstrates resilience with steady loan and deposit growth. While concerns about margins and global risks persist, the micro-lending cycle has bottomed out. Investors are advised to balance opportunities with caution.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/aditya-shah-sees-psu-banks-sbi-and-hdfc-as-key-picks-amid-volatility/articleshow/130053106.cms
+- West Asia crisis: Export uncertainty hits mango farmers in Karnataka, expect steady prices - The Hindu
+  The Hindu: Export uncertainty hits mango farmers in Karn
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaUN6RzhwWjRVUGJ6Yldkc2FXXzhnaHR5R0hLMk81bkhBalNpXzhxMU5URkNja0RZcFNYUi1JVjRaSkxQb19lUm8tMHhkWDhEdXhLLXF6UEpVLWRVc1BmbnVobnE1cGRrMjI1bUtfbFFIenRvQktMNzltRFNQNUFhLUR3c3A3dG00ZTRuYU5KVW1vbEJDZFpRZVYxVlFwZ3E0UF8yTGxrWmZLc29TT3FSUWxobFdFWWJTUDJsVE9fc1ZsX0ptMVNSVzhhWGF2R1FGaERVSjFlOFljdlVPQm8yWXpjeHRHZUJia040dEFTdm5yV1gyMTFGeWc1bEVfYkZwV01hSGVUSS3SAY8CQVVfeXFMTVU4TC1KTHVwODNNTnJQc25FRk9RSVVFdWc5X2tFRmdOdmttdDNTdjFhVlVtRXlHTDMwSmlJWFpBTTRNNUotUGNxYkl1X1ZXSXpqYndZQmdkQ0Z0UDd0WjlUX2EwMk1lQXg1T3JRTk40QjZteEZRSy10V2RINnJsLV9CYmU1Y3BUTV84QnBzc2xfWnZybGFkRy1hOFJJVmRFTkctNFNRcDVPVTJMdnhUYjVxR3hIUWU1dm1ldEpncURnU25OR1czWVdIWkp6WVZ5NGdqbkhqTTJQeENJblFJdjhhdmlkbU5WT21KTTFHb2JjNVBaVkh6YzlzY2Radi0xSm0wanhWdGlYY3JCZWhoNA?oc=5
 
-- US tariffs on metals and pharma: Which Indian stocks are safe and which aren't: Sudip Bandyopadhyay
-  Indian equity markets face policy risks from US tariffs and West Asia conflict. These issues impact metals and pharmaceutical sectors. Vedanta and NALCO are well-positioned in aluminium. Tata Steel faces uncertainty due to European operations.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-tariffs-on-metals-and-pharma-which-indian-stocks-are-safe-and-which-arent-sudip-bandyopadhyay/articleshow/130052558.cms
+- Saudis Raise Asia Oil to Record Premium as War Upends Market - bloomberg.com
+  Saudis Raise Asia Oil to Record Premium
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDJKZnV3eGFRSklaWnVlaEhyOUhSSmdNc2pPSVMwWURlNTl0UG5NaEwyUzB3QTQtM2FIWnROMzBEdFYtUV9FbFFkd25nTHBTaHlfdk5vNGMtRzFHcklmRHVVUWtoSXpDODZGZXlPRzkzVHpOZ2dWdS1PeTdGTnFrT0VtUUFxY3Z3U1ZrTGhVckxpUDZQYnBrTGQ4NXF4ZWp3SVBnLTRJbDJsSnBnd19fMFB3?oc=5
 
-- 5 PSU bank stocks jump up to 4% after reporting March quarter biz updates. Check details
-  The Nifty PSU Bank Index rose 0.5% on Monday, defying a broader market decline. Several lenders reported strong March quarter business updates.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/5-psu-bank-stocks-rally-up-to-4-after-reporting-march-quarter-updates-check-details/articleshow/130053007.cms
+- Quote of the day by Jeremy Grantham: "Every bubble ends with the same words: 'This time is different."
+  Financial bubbles reflect recurring investor psychology: optimism, greed, and the belief that “this time is different’ Despite innovation, overvaluation, herd behaviour, and FOMO often trigger crashes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms
 
-- India FX curbs soften pressure on rupee even as offshore influence lingers, Axis' Gambhir says
-  The Reserve Bank of India has tightened foreign exchange rules to shield the rupee from offshore market pressures. These measures aim to curb speculation and prevent offshore activity from depleting RBI's FX reserves.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/india-fx-curbs-soften-pressure-on-rupee-even-as-offshore-influence-lingers-axis-gambhir-says/articleshow/130052872.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq futures edge up as investors weigh Iran war developments
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms
 
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
-  India Makes First Iranian Oil Purchase In 7 Years, With
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
+- US Stocks | Iran war may push US inflation, interest rates higher than expectations, warns JPMorgan CEO Jamie Dimon
+  JPMorgan CEO Jamie Dimon warns that the US-Iran war and rising oil prices could push inflation and interest rates higher than expected. Geopolitical tensions, high asset prices, and private credit risks may trigger market
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms
 
-- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
-  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
+- India bonds jump on Mideast peace proposal, 10-year yield slides most in 15 weeks
+  Indian bonds surged Monday, with the 10-year ​yield falling the most in nearly 15 weeks. Hopes of an end to the Middle East war after the U.S.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-on-mideast-peace-proposal-10-year-yield-slides-most-in-15-weeks/articleshow/130060680.cms
 
-- US-Israel-Iran War News Live Updates: Iran targets telecom site in UAE; deputy FM says Trump threats on civilian sites could be war crimes - The Times of India
-  The Times of India reports that Iran has targeted a telecom site in the UAE. Iran has also threatened to attack Israel if
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
+- Gainers &amp; Losers: Trent, RIL &amp; DMart among 8 big movers on Monday
+  Nifty rose 255 points and Sensex gained 787 points amid strong quarterly updates and market-wide buying. Trent, RIL
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-trent-ril-amp-dmart-among-8-big-movers-on-monday/slideshow/130059851.cms
 
-- You can hire house help in 15 minutes in India. But is the system fair? - BBC
-  You can hire house help in 15 minutes in India. But is
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uampqRDJObHZ6aUZULUZkN2FvNHBwSEplNzl6NmZTN2lqMTh6QXRWdVl2Y2RVTjBydGRGN2Zzc1ZfQTVmNFRWakJ1NVFSNDE5cWo4NzIzTDVQZw?oc=5
-
-- India Sends Humanitarian Aid to Afghanistan Amid Floods & Earthquakes - News On AIR
-  India Sends Humanitarian Aid to Afghanistan Amid Flood
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOcHQ1ZzBfVi1sNTY3LWtUT1VnQmFzSVpFaUdBWXZHM1puVmtUbXdWYzBvLU52N3RlaWxhTlhfU3RrMHBqaXlvcUloRXpfd1c1blU5YUs1Y1VHVWxvTGhadS1Rd3FlaVVzcTl2R0pBZ0xYVTVENFVrT0Zya2dmdlpVdENYUFRlTHlrRHV3dmdEOXdmNVF6V3JaQ0g5YkV5Zw?oc=5
-
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
-  India Makes First Iranian Oil Purchase In 7 Years, With
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
 - Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran targets telecom site in UAE; deputy FM says Trump threats on civilian sites could be war crimes - The Times of India
-  The Times of India reports that Iran has targeted a telecom site in the UAE. Iran has also threatened to attack Israel if
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
+- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
+  India Today reports that the Chief Secretary of Malda has apologised to the CJI
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
 
-- You can hire house help in 15 minutes in India. But is the system fair? - BBC
-  You can hire house help in 15 minutes in India. But is
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uampqRDJObHZ6aUZULUZkN2FvNHBwSEplNzl6NmZTN2lqMTh6QXRWdVl2Y2RVTjBydGRGN2Zzc1ZfQTVmNFRWakJ1NVFSNDE5cWo4NzIzTDVQZw?oc=5
+- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
+  Tea Tribe Factor Intensifies Battle In Upper
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
 
-- India Sends Humanitarian Aid to Afghanistan Amid Floods & Earthquakes - News On AIR
-  India Sends Humanitarian Aid to Afghanistan Amid Flood
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOcHQ1ZzBfVi1sNTY3LWtUT1VnQmFzSVpFaUdBWXZHM1puVmtUbXdWYzBvLU52N3RlaWxhTlhfU3RrMHBqaXlvcUloRXpfd1c1blU5YUs1Y1VHVWxvTGhadS1Rd3FlaVVzcTl2R0pBZ0xYVTVENFVrT0Zya2dmdlpVdENYUFRlTHlrRHV3dmdEOXdmNVF6V3JaQ0g5YkV5Zw?oc=5
+- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
+  Congress Flags 'Offshore Assets'
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
 
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
-  India Makes First Iranian Oil Purchase In 7 Years, With
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
-
-- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
-  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran targets telecom site in UAE; deputy FM says Trump threats on civilian sites could be war crimes - The Times of India
-  The Times of India reports that Iran has targeted a telecom site in the UAE. Iran has also threatened to attack Israel if
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
-
-- You can hire house help in 15 minutes in India. But is the system fair? - BBC
-  You can hire house help in 15 minutes in India. But is
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uampqRDJObHZ6aUZULUZkN2FvNHBwSEplNzl6NmZTN2lqMTh6QXRWdVl2Y2RVTjBydGRGN2Zzc1ZfQTVmNFRWakJ1NVFSNDE5cWo4NzIzTDVQZw?oc=5
-
-- India Sends Humanitarian Aid to Afghanistan Amid Floods & Earthquakes - News On AIR
-  India Sends Humanitarian Aid to Afghanistan Amid Flood
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOcHQ1ZzBfVi1sNTY3LWtUT1VnQmFzSVpFaUdBWXZHM1puVmtUbXdWYzBvLU52N3RlaWxhTlhfU3RrMHBqaXlvcUloRXpfd1c1blU5YUs1Y1VHVWxvTGhadS1Rd3FlaVVzcTl2R0pBZ0xYVTVENFVrT0Zya2dmdlpVdENYUFRlTHlrRHV3dmdEOXdmNVF6V3JaQ0g5YkV5Zw?oc=5
-
-- India Makes First Iranian Oil Purchase In 7 Years, With "No Payment Hurdle" - NDTV
-  India Makes First Iranian Oil Purchase In 7 Years, With
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkF6eVdub3EzRm92VVJ3ZS1Ec0NoNzdQU0NQVHc1Z1lhNk02STRmUUpIZHg2RU1OVVpkZ2pyNnJ6c0JWOVhwS1I0SmN0NjlTRzZZb1ZrZDdxb0Q4MHpfWU5lR2JvOXdka3JQYXhUaWJwR2J2NjBsUXc1bGYwTk5ONEdUdVhCS2xhMEtPbFVwZjVncTRDSGxHY0hERlRhS0tER1lYOV9zQ3lfZHJXdGNJNl9VRER1U0lzNEtlNHhHdE5FRlRzd0tPZXZYd2ppdzVCaHc1emFSbWRvVFEwNlBN0gHnAUFVX3lxTE9JLXVHcnp6NVY3SzdDY2J0Q29UY000MGNGMUdIY0xDSDF4WHVIdFFydlotVHA5UkZmX3pyTzVpZkY1djJ5ZmRUZHpGcmhSUVFZX2loSC1LWUlrRkJBXzRtY2V1X2g2UlBndG1NbmU5UFRHbEdWRUlsakI5MnpMYjd3eEpsM0pOS1haTVF6U2g1eWU3WG9KblpWQjdGMlVMNE4wSEgzN0YzektVNmZMTHZsVVVLV09jVWxCZS1rMlhqcUpucmp0NmlMVFJIY2Z0TlBxd1drQzZCWmNZN1RNVTBCdWpuSWRfdw?oc=5
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
 - Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran targets telecom site in UAE; deputy FM says Trump threats on civilian sites could be war crimes - The Times of India
-  The Times of India reports that Iran has targeted a telecom site in the UAE. Iran has also threatened to attack Israel if
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
+- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
+  India Today reports that the Chief Secretary of Malda has apologised to the CJI
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
 
-- You can hire house help in 15 minutes in India. But is the system fair? - BBC
-  You can hire house help in 15 minutes in India. But is
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uampqRDJObHZ6aUZULUZkN2FvNHBwSEplNzl6NmZTN2lqMTh6QXRWdVl2Y2RVTjBydGRGN2Zzc1ZfQTVmNFRWakJ1NVFSNDE5cWo4NzIzTDVQZw?oc=5
+- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
+  Tea Tribe Factor Intensifies Battle In Upper
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
 
-- India Sends Humanitarian Aid to Afghanistan Amid Floods & Earthquakes - News On AIR
-  India Sends Humanitarian Aid to Afghanistan Amid Flood
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOcHQ1ZzBfVi1sNTY3LWtUT1VnQmFzSVpFaUdBWXZHM1puVmtUbXdWYzBvLU52N3RlaWxhTlhfU3RrMHBqaXlvcUloRXpfd1c1blU5YUs1Y1VHVWxvTGhadS1Rd3FlaVVzcTl2R0pBZ0xYVTVENFVrT0Zya2dmdlpVdENYUFRlTHlrRHV3dmdEOXdmNVF6V3JaQ0g5YkV5Zw?oc=5
+- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
+  Congress Flags 'Offshore Assets'
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
+  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
+  India Today reports that the Chief Secretary of Malda has apologised to the CJI
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
+  Tea Tribe Factor Intensifies Battle In Upper
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
+  Congress Flags 'Offshore Assets'
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
+  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
+
+- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
+  India Today reports that the Chief Secretary of Malda has apologised to the CJI
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+
+- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
+  Tea Tribe Factor Intensifies Battle In Upper
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+
+- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
+  Congress Flags 'Offshore Assets'
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
+  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
+
+- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
+  India Today reports that the Chief Secretary of Malda has apologised to the CJI
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+
+- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
+  Tea Tribe Factor Intensifies Battle In Upper
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+
+- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
+  Congress Flags 'Offshore Assets'
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
 
 
-_Last updated: 2026-04-06 07:26:59 UTC_
+_Last updated: 2026-04-06 13:03:17 UTC_
