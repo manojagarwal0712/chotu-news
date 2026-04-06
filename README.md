@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- ‘Died in September, family told in March’: Russia-Ukraine war claims Jammu youth’s life
+- Burglary at Madhya Pradesh Sports Minister’s house, 6 trophies stolen: Police
   
-  🔗 https://indianexpress.com/article/india/died-september-family-told-march-russia-ukraine-jammu-youth-10622014/
+  🔗 https://indianexpress.com/article/india/burglary-at-madhya-pradesh-sports-ministers-house-6-trophies-stolen-police-10622464/
 
-- Odisha govt clarifies no ban on 5kg LPG cylinders after panic over minister’s remark
+- Chairman, Speaker reject Opposition motions to impeach CEC Gyanesh Kumar
   
-  🔗 https://indianexpress.com/article/india/odisha-govt-5kg-lpg-cylinder-ban-students-migrants-10621905/
+  🔗 https://indianexpress.com/article/india/rajya-sabha-chairman-cp-radhakrishnan-rejected-opposition-motion-remove-cec-gyanesh-kumar-10622419/
 
-- Parliamentary panel calls for timely completion of Dankuni-Surat Dedicated Freight Corridor
+- ‘Never outshine the master’: Raghav Chadha shares cryptic Instagram post amid row with AAP
   
-  🔗 https://indianexpress.com/article/india/parliamentary-panel-calls-for-timely-completion-of-dankuni-surat-dedicated-freight-corridor-10621692/
+  🔗 https://indianexpress.com/article/india/raghav-chadha-instagram-post-48-laws-of-power-aap-row-10622069/
 
-- His wife Riniki under Congress fire, Himanta lobs a ‘Pakistan-angle’ grenade
+- Taj employee killed in Goa after Mini Cooper crashes into bike, businessman’s son arrested
   
-  🔗 https://indianexpress.com/article/india/assam-cm-himanta-biswa-sarma-congress-pakistan-angle-wife-rinki-10621780/
+  🔗 https://indianexpress.com/article/india/goa-taj-employee-killed-mini-cooper-businessman-son-arrested-10622340/
 
-- Amit Jogi sentenced to life imprisonment for 2003 murder of NCP leader
+- India’s first gourami fossil found in UP’s Siwalik foothills, reveals 4.8-million-year-old freshwater ecosystem
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-high-court-sentences-amit-jogi-to-life-imprisonment-in-2003-in-ram-avtar-jaggi-murder-case-10621677/
+  🔗 https://indianexpress.com/article/india/india-first-gourami-fossil-up-siwalik-foothills-freshwater-ecosystem-10622269/
+
+- NASA’s Artemis II breaks Apollo 13’s distance record as humans travel farther from Earth than ever before
+  
+  🔗 https://indianexpress.com/article/technology/science/nasas-artemis-ii-breaks-apollo-13s-distance-record-as-humans-travel-farther-from-earth-than-ever-before-10622554/
+
+- Study of 1,700 languages uncovers hidden rules shaping how we speak
+  
+  🔗 https://indianexpress.com/article/technology/science/study-of-1700-languages-uncovers-hidden-rules-shaping-how-we-speak-10622414/
+
+- Diabetes rates are lower in high-altitude environments & scientists may have discovered why
+  
+  🔗 https://indianexpress.com/article/technology/science/diabetes-rates-are-lower-in-high-altitude-environments-scientists-may-have-discovered-whydiabetes-rates-are-lower-in-high-altitude-environments-and-scientists-may-have-discovered-why-10622137/
 
 - NASA Artemis II Day 5: Crew reaches moon, clocks record-breaking distance from Earth
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-just-doubled-your-ai-pro-storage-to-5tb-for-free-and-you-probably-didnt-notice-10621682/
 
-- Japan bets on robots to sustain economy amid ageing population
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/japan-bets-on-robots-to-sustain-economy-amid-ageing-population-10621516/
+- InCred Alternatives closes maiden special opportunities credit fund with  ₹1,500 crore corpus
+  75% of the fund has already been deployed across sectors such as auto, power
+  🔗 https://www.livemint.com/companies/news/incred-alternatives-closes-maiden-special-opportunities-credit-fund-at-rs-1-500-crore-11775478620245.html
 
-- NASA Artemis II Astronauts Race Into Moon’s Embrace After Quiet Easter
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-artemis-ii-astronauts-race-into-moons-embrace-after-quiet-easter-10621281/
-
-- Xiaomi 17 Ultra is the ‘Leica’ camera phone I didn’t know I needed
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/xiaomi-17-ultra-leica-camera-phone-2026-review-10619919/
+- Exclusive: Air India CEO Campbell Wilson resigns amid losses, operational setbacks
+  Campbell Wilson, who joined from Singapore Airlines subsidiary Scoot in 2022, was to continue
+  🔗 https://www.livemint.com/companies/news/exclusive-air-india-ceo-campbell-wilson-resigns-amid-losses-operational-setbacks-11775494586493.html
 
 - Adar Poonawalla to partner with Trivitron to expand MyLab outside India
   The deal is currently in advanced due diligence stages, and the final contours of the transaction are yet to be decided. Two Trivitron
@@ -52,33 +60,25 @@
   Financial services, manufacturing and pharma leading pay growth. Overall promotion rates have reached 14% in 2026.
   🔗 https://www.livemint.com/companies/news/salary-increment-pay-hike-growth-9-pc-india-inc-sectors-2026-steady-rate-promotion-employee-attrition-talent-development-11775465448427.html
 
-- E-motorcycle maker Matter Motor eyes $50 mn in fresh round at $300 mn valuation
-  The fundraising comes as India’s electric motorcycle segment struggles to
-  🔗 https://www.livemint.com/companies/start-ups/emotorcycle-india-matter-motor-50-mn-valuation-11775450938015.html
+- Up 1180% in 5 years! Multibagger Deep Industries stock to be in focus on Tuesday after securing order from ONGC
+  Deep Industries is expected to attract investor interest after securing a  ₹59 crore order from ONGC for gas services. The company reported a 49.8
+  🔗 https://www.livemint.com/market/stock-market-news/up-1180-in-5-years-multibagger-deep-industries-stock-to-be-in-focus-on-tuesday-after-securing-an-order-from-ongc-11775494505707.html
 
-- Meta Layoffs: Facebook parent to cut 200 Silicon Valley jobs next month; who is impacted?
-  The Meta layoffs will happen in its Silicon Valley offices. Here is everything you need to know about the upcoming layoffs.
-  🔗 https://www.livemint.com/companies/news/meta-layoffs-facebook-parent-to-cut-200-silicon-valley-jobs-next-month-who-is-impacted-11775465552810.html
+- Warren Buffett's top 5 tips for long-term investment and why they still hold water
+  Warren Buffett is renowned for his long-term investment strategies. Here are some of the billionaire's top tips for long-
+  🔗 https://www.livemint.com/market/stock-market-news/warren-buffett-top-5-tips-long-term-investment-why-they-still-hold-water-you-advice-ordinary-investors-markets-berkshire-11775487004313.html
 
-- From sprint to stumble: Has the mad rush to invest in IPOs lost momentum?
-  A year after listing, only four mainboard IPOs were trading above their issue price in 2025. Our deep dive on what to expect going forward.
-  🔗 https://www.livemint.com/market/ipo/markets-ipos-retail-investors-ipo-frenzy-fades-2026-analysis-11775476331148.html
+- Seagate Technology shares jump over 9% to record high, rally extends to fourth day
+  Seagate Technology shares rose 9.5% to $470, marking a four-day gain of 30%. As AI
+  🔗 https://www.livemint.com/market/stock-market-news/seagate-technology-shares-jump-over-9-to-record-high-rally-extends-to-fourth-day-11775488200909.html
 
-- Earnings season kicks off this week: Which sectors could shine in Q4 &amp; how to position your portfolio?
-  The US-Iran conflict in March is expected to weigh on corporate earnings. BofA has slashed Nifty 50 earnings outlook, while analysts see pressure in select sectors.
-  🔗 https://www.livemint.com/market/stock-market-news/earnings-season-kicks-off-this-week-which-sectors-could-shine-in-q4-how-to-position-your-portfolio-11775477979696.html
+- After the correction, DSP sees a shift in equities—but this is not a full-throttle buy signal
+  DSP Mutual Fund suggests moderate equity exposure as valuations improve. While large-cap stocks show promise, small- and mid-caps remain elevated.
+  🔗 https://www.livemint.com/market/stock-market-news/after-the-correction-dsp-sees-a-shift-in-equities-but-this-is-not-a-full-throttle-buy-signal-11775487366412.html
 
-- Dow Jones futures nudge higher in pre-open session. What does it mean for US stock market?
-  US stock futures gained on April 6 due to rising optimism for a ceasefire in West Asia. Crude oil prices also declined, contributing to a positive market mood.
-  🔗 https://www.livemint.com/market/stock-market-news/dow-jones-futures-nudge-higher-in-pre-open-session-what-does-it-mean-for-us-stock-market-11775475090448.html
-
-- Indian rupee weakness: Temporary shock or structural decline—or both?
-  The Indian rupee faces significant pressure due to a combination of temporary shocks from rising oil prices and structural
-  🔗 https://www.livemint.com/market/stock-market-news/indian-rupee-weakness-temporary-shock-or-structural-decline-or-both-11775475959563.html
-
-- Is a surprise RBI rate hike coming this week as US-Iran war continues?
-  RBI's Monetary Policy Committee meets on April 8. Most economists expect the RBI to maintain rates.
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-monetary-policy-is-a-surprise-rbi-rate-hike-coming-this-week-as-us-iran-war-enters-6th-week-11775468092947.html
+- Gold, silver rates today: Comex gold gains $54/oz, silver nears $73 on Iran ceasefire hopes
+  Gold and silver prices rose modestly on 6 April, with gold hitting $4,733 and silver $73.73. The market remains cautious amid geopolitical tensions
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-54-oz-silver-nears-73-on-iran-ceasefire-hopes-11775478344175.html
 
 - iPhone Fold launching soon: Expected price, display, camera, colours and other specifications
   The iPhone Fold is expected to launch in September alongside the iPhone 18 Pro. It features a foldable design, A20 Pro chipset, and quad camera setup, while lacking FaceID
@@ -100,47 +100,47 @@
   Infinix Note 60 Pro will be launched in India on April 13. The company is offering pre-booking offers include up to  ₹
   🔗 https://www.livemint.com/technology/gadgets/infinix-note-60-pro-with-active-matrix-display-confirmed-to-launch-in-india-pre-book-benefits-specs-and-features-11775442516086.html
 
-- Stock Market Today: Nasdaq Futures Rise on Cease-Fire Efforts — Live Updates - WSJ
-  S&amp;P 500 futures nudge higher on report Iran and U.S. are trying for ceasefire: Live updates.
+- S&P 500 rises slightly as investors hope for last-minute Iran ceasefire: Live updates - CNBC
+  S&amp;P 500 rises slightly as investors hope
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5vbk04ZFk5c2NiZHN3QWhPMXFpd1NtTkxKWHpmNEtwbDBCdFZxZnNqUWhZa3BPNzhBRjJBRUJoZks3UGVzOEw1bHBNaGIwZDRRc3hiRTBfNDN4R1VZZmZoTUI1RzJaOURabWFNX2V2azUtZzlpQ0pv0gF8QVVfeXFMTmdjSGJqQnFXZkxveDdsR0RHZDBudldTb3B4QXZyUlJIZUtBUUxYSGk3RUN4MnlwZHBKZTRaa0JCbTRBU0hURkNzSG9GUnJWcWxBWEdwel9XZDM2Y1lnNndVUldQc2RENmxBOTVuSDFzdnlDemNtTlRtUWtiRQ?oc=5
+
+- Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - Bloomberg.com
+  "Trading Open Shadowed by
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0l1SHVJS1g1OE80Y2VxZGZ6dWFPQTJPT2wtWk9JbnlneWZjZ2gyMjFScjg5TDFXRTFiUm4tN0RPUmhKdkN0NklyeDdzRGNvb3pYV29LbktmUUFGenc4cGJ4bXJ5THFRelpxOXBsRmxpbmpaM0twNWFONjFERmpKRF9PUWt6eXR1Um5ybVE2UVk5a0JPbUtxTS1LYnQ2S0p6RjVrZHNsQkwxaXpNd0sxQkhmZw?oc=5
+
+- Stock Market Today: Dow, Nasdaq Move Higher on Cease-Fire Efforts — Live Updates - WSJ
+  The WSJ reports on the latest developments in the
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWNLUVlvcnZ5N0Y3dXVNUG9fT2laXzFGWTZESTBNZzA3YTZXUXhhZTNhV3RnMjNKQXlPTXUxaGtJMm1odGlOckZTR2ZfNmNuWU93M18yaFhtNlNZRGtJeTlSaV96eTd5eVdUZUQ1VzBCVmhqTXlqQ25VRDk2ckZDU0FfSUZDY3M?oc=5
 
-- Stock Market Highlights: Sensex Closes 787 Points Higher On Possibility Of US-Iran Deal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkdHOW5sTjRQMUIzczl1UkJoTkFmV0NlZmdOUjIzQVFVdUQ0RDk4SlR5ZXZiU1NreU1WdDd2ejhCRFU1T0FJaldfdmdDM0lnVEJEaWRVZ0ctUXpZaGZKTHZxUXRUSVk4WE
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkdHOW5sTjRQMUIzczl1UkJoTkFmV0NlZmdOUjIzQVFVdUQ0RDk4SlR5ZXZiU1NreU1WdDd2ejhCRFU1T0FJaldfdmdDM0lnVEJEaWRVZ0ctUXpZaGZKTHZxUXRUSVk4WE9NYm5zY1FwaldxSExlVWE1dmVFNDNXRUt3OG45dy1IM0FPaTRGVVJSUmhrYzdfTW1hLTNpSFdEc1BqMUF4ZUVjYWdNbDRUcGhTYjVlbUxtVHNBd3JCUjdyLTdnLWVNd2p2aldFWHNLZXlWMUg2X2xVZWpYQS1yUzVaWWgxaEnSAe8BQVVfeXFMTXlxWGw2LTVJSVo5R0tQXzBxZ3duRFdNc0Q0ZGpJUjdkX3AtVk1mc2JzUTgyajA0TjgtTU1nNHp4T0lmRDdRV2NrZU1uZndNMEp5OFIyZ0NCdnRlaERwdzlRNkY0QXQzcXZBeFRtcXQ2VGxHUlhpZzItSEdabDJvTzI3VTZySVpsTEtOMUNkVS1LckVGbFBBbVM5ZWFIQ2pLZW5hU1VjLTlhOXdidTB1MnB3OFlNeTM5cng5SEtpS2NGa3NqTmtHQldaYUVTQ01hbXZ0N2pLV0llQjJ6RHFONDZfTGUxMHRjQUZfUFZHTlE?oc=5
+- Stock Market Highlights: Nifty, Sensex rebound and closed with gains amid strong buying in banks, realty and midcaps - BusinessLine
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFBVY3Rvc3pvZzQ5bkZ1ZVkyOEFnZ3ZHM2pJaVBxVDFUSWpaSTBodVY1X1loOXZSU0tLVkUxY1J1QVRxNVJxSHhfYS1nbUp1T2U2aXgxZk90b3pJbF8wNlFsUm9BclJEVD
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFBVY3Rvc3pvZzQ5bkZ1ZVkyOEFnZ3ZHM2pJaVBxVDFUSWpaSTBodVY1X1loOXZSU0tLVkUxY1J1QVRxNVJxSHhfYS1nbUp1T2U2aXgxZk90b3pJbF8wNlFsUm9BclJEVDJpeXlhdzJWYW9qUW1QbnZrT0pVTG81NFhkaFdSZmJxXzgxVzFja3lLRW83Skx3SHc2Wm5KYTI5WDBNMkhVbDhuNTdLOUZyV3N2QlRXd3dCS2fSAcABQVVfeXFMUEZHOTVUczhsNGJCRkluTGRNOEVxWVJXQTFOSjhQdHl1endJdWpTbldyRW9hYTA2Z1J2amZXM2JKandYUmZ3YlI4MkNTcUh4ME9zNXpZTW8xZVY5WDVuVFRVc1kyLThId3J3a1RXdmRlMmNMQ1pBNFBQRkRPVFZTamM5eGtST2Z2ODNaSF9CTUhFdUJjVDlQRzFPRWVHcE12eHY3bm5UX04zbkRPNjVLWlM5TDZIRllLdHh2emFSb05a?oc=5
 
-- Reliance Industries shares slump nearly 4%, market cap drops by ₹68,000 crore; key things to know - upstox.com
-  Reliance Industries shares slump nearly 4%, market cap drops by �
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMzVLbmNUaGtobW5XQ1FGMW5mMzNEZDlJMTM5bnlXWDFiSllEM196cUg4V2gyUjRhbVFjN25vY1hIY1psOE5aVVF0bmdaSUdUUHFKSTBsUGwyMlZKSUQ3dWFxWU5aUkd5d1VfZTRDVnAzMHRRX0U2bFhJdm81TUsyMkRkeFRIY0lLZk8zTnVIX0lSRGVrRGN1b3o1WVVvN2RCTEJHUDNNZlV6Yk9sYzhTdHo0RjZ2Vnd6c0oyb080TFkyYUQ3OU5MVWhBWFFFN0hjOUZWdW1xYmdVT0pMR3hLdGF1ajJiSjg?oc=5
+- After The 70% Oil Spike, Markets Are Bracing For The Next Big Move - Forbes
+  After The 70% Oil Spike, Markets Are Bracing
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXBpVDJxN3J3VXJYcl9sU3lyUWxhTklQdGtNa2xpVktiMkI5QjlNVnRYUy11ZWlJaTZzYWxFUGJtXzVUdG5JY2otRHp1ZUZGWFNOU2ZwdTdnY19OR1l5Vk5fdFg3NFpSa211ZDhIT3BMZXhrWE1iSVdQSW42d0l6SDRidEtRcENoMlJKbFNzXzJUdmVJbWNVS192STBMVkVYTnhOb3RfQ2xFRmVxR0Zpc3phbjdibW8?oc=5
 
-- West Asia crisis: Export uncertainty hits mango farmers in Karnataka, expect steady prices - The Hindu
-  The Hindu: Export uncertainty hits mango farmers in Karn
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaUN6RzhwWjRVUGJ6Yldkc2FXXzhnaHR5R0hLMk81bkhBalNpXzhxMU5URkNja0RZcFNYUi1JVjRaSkxQb19lUm8tMHhkWDhEdXhLLXF6UEpVLWRVc1BmbnVobnE1cGRrMjI1bUtfbFFIenRvQktMNzltRFNQNUFhLUR3c3A3dG00ZTRuYU5KVW1vbEJDZFpRZVYxVlFwZ3E0UF8yTGxrWmZLc29TT3FSUWxobFdFWWJTUDJsVE9fc1ZsX0ptMVNSVzhhWGF2R1FGaERVSjFlOFljdlVPQm8yWXpjeHRHZUJia040dEFTdm5yV1gyMTFGeWc1bEVfYkZwV01hSGVUSS3SAY8CQVVfeXFMTVU4TC1KTHVwODNNTnJQc25FRk9RSVVFdWc5X2tFRmdOdmttdDNTdjFhVlVtRXlHTDMwSmlJWFpBTTRNNUotUGNxYkl1X1ZXSXpqYndZQmdkQ0Z0UDd0WjlUX2EwMk1lQXg1T3JRTk40QjZteEZRSy10V2RINnJsLV9CYmU1Y3BUTV84QnBzc2xfWnZybGFkRy1hOFJJVmRFTkctNFNRcDVPVTJMdnhUYjVxR3hIUWU1dm1ldEpncURnU25OR1czWVdIWkp6WVZ5NGdqbkhqTTJQeENJblFJdjhhdmlkbU5WT21KTTFHb2JjNVBaVkh6YzlzY2Radi0xSm0wanhWdGlYY3JCZWhoNA?oc=5
+- US Fed's Austan Goolsbee, Beth Hammack say inflation is flashing 'orange' or worse
+  Federal Reserve officials expressed concern over persistent inflation. Both acknowledge the financial system is generally stable.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-austan-goolsbee-beth-hammack-say-inflation-is-flashing-orange-or-worse/articleshow/130067610.cms
 
-- Saudis Raise Asia Oil to Record Premium as War Upends Market - bloomberg.com
-  Saudis Raise Asia Oil to Record Premium
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDJKZnV3eGFRSklaWnVlaEhyOUhSSmdNc2pPSVMwWURlNTl0UG5NaEwyUzB3QTQtM2FIWnROMzBEdFYtUV9FbFFkd25nTHBTaHlfdk5vNGMtRzFHcklmRHVVUWtoSXpDODZGZXlPRzkzVHpOZ2dWdS1PeTdGTnFrT0VtUUFxY3Z3U1ZrTGhVckxpUDZQYnBrTGQ4NXF4ZWp3SVBnLTRJbDJsSnBnd19fMFB3?oc=5
+- Sebi considering large-scale training push for independent directors to boost corporate governance: Tuhin Kanta Pandey
+  Sebi is planning a large-scale capacity-building initiative for independent directors to strengthen corporate governance. The move signals a shift from rule-making to improving boardroom effectiveness.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-considering-large-scale-training-push-for-independent-directors-to-boost-corporate-governance-tuhin-kanta-pandey/articleshow/130066352.cms
 
-- Quote of the day by Jeremy Grantham: "Every bubble ends with the same words: 'This time is different."
-  Financial bubbles reflect recurring investor psychology: optimism, greed, and the belief that “this time is different’ Despite innovation, overvaluation, herd behaviour, and FOMO often trigger crashes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-jeremy-grantham-every-bubble-ends-with-the-same-words-this-time-is-different-/articleshow/130058136.cms
+- NY Fed says March supply chain pressures highest since start of 2023
+  In March, supply chain pressures surged to levels unseen since earlier this year. This escalation could further drive up inflation, creating hurdles for the Federal Reserve's price stabilization efforts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-ny-fed-says-march-supply-chain-pressures-highest-since-start-of-2023/articleshow/130066269.cms
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500, Nasdaq futures edge up as investors weigh Iran war developments
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms
+- New Jersey cannot regulate Kalshi's prediction market, US appeals court rules
+  A federal appeals court ruled on Monday that New Jersey gaming regulators cannot prevent Kalshi from using its prediction market to place financial bets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules/articleshow/130065838.cms
 
-- US Stocks | Iran war may push US inflation, interest rates higher than expectations, warns JPMorgan CEO Jamie Dimon
-  JPMorgan CEO Jamie Dimon warns that the US-Iran war and rising oil prices could push inflation and interest rates higher than expected. Geopolitical tensions, high asset prices, and private credit risks may trigger market
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-iran-war-may-push-us-inflation-interest-rates-higher-than-expectations-warns-jpmorgan-ceo-jamie-dimon/articleshow/130060857.cms
+- US Stocks: National Healthcare Properties moves closer to public markets with US IPO filing
+  National Healthcare Properties is the latest real estate investment trust looking to tap public markets this year.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-national-healthcare-properties-moves-closer-to-public-markets-with-us-ipo-filing/articleshow/130065715.cms
 
-- India bonds jump on Mideast peace proposal, 10-year yield slides most in 15 weeks
-  Indian bonds surged Monday, with the 10-year ​yield falling the most in nearly 15 weeks. Hopes of an end to the Middle East war after the U.S.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-on-mideast-peace-proposal-10-year-yield-slides-most-in-15-weeks/articleshow/130060680.cms
-
-- Gainers &amp; Losers: Trent, RIL &amp; DMart among 8 big movers on Monday
-  Nifty rose 255 points and Sensex gained 787 points amid strong quarterly updates and market-wide buying. Trent, RIL
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-trent-ril-amp-dmart-among-8-big-movers-on-monday/slideshow/130059851.cms
-
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
@@ -148,19 +148,19 @@
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
-  India Today reports that the Chief Secretary of Malda has apologised to the CJI
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+- CEC impeachment motion rejected: What can opposition do next? - The Times of India
+  CEC impeachment motion rejected: What can opposition do
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkF4NjdtelpHUElkS2FLdGJxMGZnWHgwdnFPdk9fdi1uYW1NR1FDbTZNYXY5dG1xWkYtQjYtSGxyc05lcmVOWTlEZWJPeFhvc3B4QVh1ZEpTVEVjRERqSlNOZV9KeUZNNzZLRzJaaV9TTXVPRVpTemxILWZaT2t3MU8tX0k4YTdRcGtpZHVNY1FKdlZ4QmszZ01kUFV2OFZGclBKX0dweWJBeVBKdFZEb1N4aTMxclR2NmtzS3UzMlBTdnNMMnfSAcsBQVVfeXFMTUs0dVRVTDhoYnhPMF9ScDFhYzVNT1FPMmFVTWlRZW5qRklKT2hPQWNZLTg2VXZ4NXczZi1DR3hYVTdRZkFEWHVlYWF2anE4eFFIRXhaOFd5Y1hpazVxWERJa29kU08zMTM0bzFwMHNLbENVQ2hoSUYxZGc1dkxaaDZLUkhBSlVrWUxYbVU3UFkyYXBiVG5NZHI0cDUyMHJkQ3lidy1XTHBpZUpJVHhxaE03Y3ZnRGF3dENic1RHRU5RSDJ2Y2tUUk95Nk0?oc=5
 
-- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
-  Tea Tribe Factor Intensifies Battle In Upper
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+- ‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir - thehindu.com
+  ‘New’ Bangladesh-India ties will avoid �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0xKTFVDcEszTVk2VHU1TWpqZFo3ZjdXekN2cnRNMEtVYVBIeG9QVjNYVXN1YkM2UjJQTnRrU1RwUklqZTdGYmp5S1ltMTdpYWJxOG5GQnFHcUhsT2xFMkdCWldtM1FHcFdfekIxdmwtdDFQMjJINDBjbTlMY0ZSTkhEdHJXWlZySU9vVVZDaFh6aDBleExzVDVnU3VOSW0xMnd2QmE3TDZCQU9VQU1QdFoxZ0s1a1cwWVhGMDYtczRONmRrNkp1WXI4czA3ZDB3WEZKVUU3SDNfanFwVGJfX3JEUGhRaHZRNkHSAfABQVVfeXFMTjVROWR5a3BCN3BSVU02LUZMRmpPMEVwNzc2NXFzVkRpaE1Sd2xBeWk1d2tzN0I4Q1Q4U3NYM0x4ZElhV1NXZmhFcDQ0NXNXcFJsVm5LYjdJMF8yY1g2SGFHNGZROElVZlRZR0VUTkNBQWNlV0VJdndRMXNRR3JvcHZVQy16T19BcWlrZU9jdVBSYzlaOVRMM2RpSXN2QWxOSGVSbmpRVGNrU0Nuc3V3WEJsR0NWZ1IzX2J3MU1nX3ozb0tBRkFBbHRRN21WMHdjeHU2WDNZd1VKNjhZRVhmb0U2QmxuamduSWZ6bnA4Y3U2?oc=5
 
-- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
-  Congress Flags 'Offshore Assets'
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+- Right To Religion Not Absolute: Kerala Switches Side On Sabarimala Review - ndtv.com
+  Right To Religion Not Absolute: Kerala Switches
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQR29yd2VfSjFhb1RaMkgzQ3Zybk5aT0g5OC1keWc5NVhjZDFrVkFTUnd1TjA0M3RsNFN2WFNjRmpYMlpfTVVzaklRV0NNWXVwNUd0RjBGQUo1OG5oS0cxU0ltbHN5OWhFMkYxUlBQVlp4eGlYNGxrbDhtRHA4OTc2RnpiMm1EZW5rdlI1UTBNaU5EYUYyN1BSZzNXVDNDbExVUTJGVWM0NE15TkNmVmVybFdJONIBuwFBVV95cUxPNFdnLTJUWTVyZmtJdE1KRk45MFFBRVBKd2V5eHJlSGc0STMtbl9xM3RISEdGcV9jZFNaZDY2a1p4QWJ1QU1FYzQ1bkRtSThCdjh0S3J6NmhUVGZpcTJsM1dZWXFEVVQ1T2NsLUlLMzZ4bHljN3ZWYnNBaFYwWVFOYk5yXzFtS09wWjdCUVVpQUNpRHBfQXpsRTdlSlMteWwzbkFrdUFNaWdJc3NVVDNKTGNObnlnWVZnMFRj?oc=5
 
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
@@ -168,19 +168,19 @@
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
-  India Today reports that the Chief Secretary of Malda has apologised to the CJI
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+- CEC impeachment motion rejected: What can opposition do next? - The Times of India
+  CEC impeachment motion rejected: What can opposition do
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkF4NjdtelpHUElkS2FLdGJxMGZnWHgwdnFPdk9fdi1uYW1NR1FDbTZNYXY5dG1xWkYtQjYtSGxyc05lcmVOWTlEZWJPeFhvc3B4QVh1ZEpTVEVjRERqSlNOZV9KeUZNNzZLRzJaaV9TTXVPRVpTemxILWZaT2t3MU8tX0k4YTdRcGtpZHVNY1FKdlZ4QmszZ01kUFV2OFZGclBKX0dweWJBeVBKdFZEb1N4aTMxclR2NmtzS3UzMlBTdnNMMnfSAcsBQVVfeXFMTUs0dVRVTDhoYnhPMF9ScDFhYzVNT1FPMmFVTWlRZW5qRklKT2hPQWNZLTg2VXZ4NXczZi1DR3hYVTdRZkFEWHVlYWF2anE4eFFIRXhaOFd5Y1hpazVxWERJa29kU08zMTM0bzFwMHNLbENVQ2hoSUYxZGc1dkxaaDZLUkhBSlVrWUxYbVU3UFkyYXBiVG5NZHI0cDUyMHJkQ3lidy1XTHBpZUpJVHhxaE03Y3ZnRGF3dENic1RHRU5RSDJ2Y2tUUk95Nk0?oc=5
 
-- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
-  Tea Tribe Factor Intensifies Battle In Upper
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+- ‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir - thehindu.com
+  ‘New’ Bangladesh-India ties will avoid �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0xKTFVDcEszTVk2VHU1TWpqZFo3ZjdXekN2cnRNMEtVYVBIeG9QVjNYVXN1YkM2UjJQTnRrU1RwUklqZTdGYmp5S1ltMTdpYWJxOG5GQnFHcUhsT2xFMkdCWldtM1FHcFdfekIxdmwtdDFQMjJINDBjbTlMY0ZSTkhEdHJXWlZySU9vVVZDaFh6aDBleExzVDVnU3VOSW0xMnd2QmE3TDZCQU9VQU1QdFoxZ0s1a1cwWVhGMDYtczRONmRrNkp1WXI4czA3ZDB3WEZKVUU3SDNfanFwVGJfX3JEUGhRaHZRNkHSAfABQVVfeXFMTjVROWR5a3BCN3BSVU02LUZMRmpPMEVwNzc2NXFzVkRpaE1Sd2xBeWk1d2tzN0I4Q1Q4U3NYM0x4ZElhV1NXZmhFcDQ0NXNXcFJsVm5LYjdJMF8yY1g2SGFHNGZROElVZlRZR0VUTkNBQWNlV0VJdndRMXNRR3JvcHZVQy16T19BcWlrZU9jdVBSYzlaOVRMM2RpSXN2QWxOSGVSbmpRVGNrU0Nuc3V3WEJsR0NWZ1IzX2J3MU1nX3ozb0tBRkFBbHRRN21WMHdjeHU2WDNZd1VKNjhZRVhmb0U2QmxuamduSWZ6bnA4Y3U2?oc=5
 
-- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
-  Congress Flags 'Offshore Assets'
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+- Right To Religion Not Absolute: Kerala Switches Side On Sabarimala Review - ndtv.com
+  Right To Religion Not Absolute: Kerala Switches
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQR29yd2VfSjFhb1RaMkgzQ3Zybk5aT0g5OC1keWc5NVhjZDFrVkFTUnd1TjA0M3RsNFN2WFNjRmpYMlpfTVVzaklRV0NNWXVwNUd0RjBGQUo1OG5oS0cxU0ltbHN5OWhFMkYxUlBQVlp4eGlYNGxrbDhtRHA4OTc2RnpiMm1EZW5rdlI1UTBNaU5EYUYyN1BSZzNXVDNDbExVUTJGVWM0NE15TkNmVmVybFdJONIBuwFBVV95cUxPNFdnLTJUWTVyZmtJdE1KRk45MFFBRVBKd2V5eHJlSGc0STMtbl9xM3RISEdGcV9jZFNaZDY2a1p4QWJ1QU1FYzQ1bkRtSThCdjh0S3J6NmhUVGZpcTJsM1dZWXFEVVQ1T2NsLUlLMzZ4bHljN3ZWYnNBaFYwWVFOYk5yXzFtS09wWjdCUVVpQUNpRHBfQXpsRTdlSlMteWwzbkFrdUFNaWdJc3NVVDNKTGNObnlnWVZnMFRj?oc=5
 
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
@@ -188,19 +188,19 @@
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
-  India Today reports that the Chief Secretary of Malda has apologised to the CJI
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+- CEC impeachment motion rejected: What can opposition do next? - The Times of India
+  CEC impeachment motion rejected: What can opposition do
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkF4NjdtelpHUElkS2FLdGJxMGZnWHgwdnFPdk9fdi1uYW1NR1FDbTZNYXY5dG1xWkYtQjYtSGxyc05lcmVOWTlEZWJPeFhvc3B4QVh1ZEpTVEVjRERqSlNOZV9KeUZNNzZLRzJaaV9TTXVPRVpTemxILWZaT2t3MU8tX0k4YTdRcGtpZHVNY1FKdlZ4QmszZ01kUFV2OFZGclBKX0dweWJBeVBKdFZEb1N4aTMxclR2NmtzS3UzMlBTdnNMMnfSAcsBQVVfeXFMTUs0dVRVTDhoYnhPMF9ScDFhYzVNT1FPMmFVTWlRZW5qRklKT2hPQWNZLTg2VXZ4NXczZi1DR3hYVTdRZkFEWHVlYWF2anE4eFFIRXhaOFd5Y1hpazVxWERJa29kU08zMTM0bzFwMHNLbENVQ2hoSUYxZGc1dkxaaDZLUkhBSlVrWUxYbVU3UFkyYXBiVG5NZHI0cDUyMHJkQ3lidy1XTHBpZUpJVHhxaE03Y3ZnRGF3dENic1RHRU5RSDJ2Y2tUUk95Nk0?oc=5
 
-- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
-  Tea Tribe Factor Intensifies Battle In Upper
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+- ‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir - thehindu.com
+  ‘New’ Bangladesh-India ties will avoid �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0xKTFVDcEszTVk2VHU1TWpqZFo3ZjdXekN2cnRNMEtVYVBIeG9QVjNYVXN1YkM2UjJQTnRrU1RwUklqZTdGYmp5S1ltMTdpYWJxOG5GQnFHcUhsT2xFMkdCWldtM1FHcFdfekIxdmwtdDFQMjJINDBjbTlMY0ZSTkhEdHJXWlZySU9vVVZDaFh6aDBleExzVDVnU3VOSW0xMnd2QmE3TDZCQU9VQU1QdFoxZ0s1a1cwWVhGMDYtczRONmRrNkp1WXI4czA3ZDB3WEZKVUU3SDNfanFwVGJfX3JEUGhRaHZRNkHSAfABQVVfeXFMTjVROWR5a3BCN3BSVU02LUZMRmpPMEVwNzc2NXFzVkRpaE1Sd2xBeWk1d2tzN0I4Q1Q4U3NYM0x4ZElhV1NXZmhFcDQ0NXNXcFJsVm5LYjdJMF8yY1g2SGFHNGZROElVZlRZR0VUTkNBQWNlV0VJdndRMXNRR3JvcHZVQy16T19BcWlrZU9jdVBSYzlaOVRMM2RpSXN2QWxOSGVSbmpRVGNrU0Nuc3V3WEJsR0NWZ1IzX2J3MU1nX3ozb0tBRkFBbHRRN21WMHdjeHU2WDNZd1VKNjhZRVhmb0U2QmxuamduSWZ6bnA4Y3U2?oc=5
 
-- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
-  Congress Flags 'Offshore Assets'
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+- Right To Religion Not Absolute: Kerala Switches Side On Sabarimala Review - ndtv.com
+  Right To Religion Not Absolute: Kerala Switches
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQR29yd2VfSjFhb1RaMkgzQ3Zybk5aT0g5OC1keWc5NVhjZDFrVkFTUnd1TjA0M3RsNFN2WFNjRmpYMlpfTVVzaklRV0NNWXVwNUd0RjBGQUo1OG5oS0cxU0ltbHN5OWhFMkYxUlBQVlp4eGlYNGxrbDhtRHA4OTc2RnpiMm1EZW5rdlI1UTBNaU5EYUYyN1BSZzNXVDNDbExVUTJGVWM0NE15TkNmVmVybFdJONIBuwFBVV95cUxPNFdnLTJUWTVyZmtJdE1KRk45MFFBRVBKd2V5eHJlSGc0STMtbl9xM3RISEdGcV9jZFNaZDY2a1p4QWJ1QU1FYzQ1bkRtSThCdjh0S3J6NmhUVGZpcTJsM1dZWXFEVVQ1T2NsLUlLMzZ4bHljN3ZWYnNBaFYwWVFOYk5yXzFtS09wWjdCUVVpQUNpRHBfQXpsRTdlSlMteWwzbkFrdUFNaWdJc3NVVDNKTGNObnlnWVZnMFRj?oc=5
 
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
@@ -208,37 +208,45 @@
   India's neighbours are dealing with global energy crisis triggered by US-Iran war.
   🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
 
-- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
-  India Today reports that the Chief Secretary of Malda has apologised to the CJI
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+- CEC impeachment motion rejected: What can opposition do next? - The Times of India
+  CEC impeachment motion rejected: What can opposition do
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkF4NjdtelpHUElkS2FLdGJxMGZnWHgwdnFPdk9fdi1uYW1NR1FDbTZNYXY5dG1xWkYtQjYtSGxyc05lcmVOWTlEZWJPeFhvc3B4QVh1ZEpTVEVjRERqSlNOZV9KeUZNNzZLRzJaaV9TTXVPRVpTemxILWZaT2t3MU8tX0k4YTdRcGtpZHVNY1FKdlZ4QmszZ01kUFV2OFZGclBKX0dweWJBeVBKdFZEb1N4aTMxclR2NmtzS3UzMlBTdnNMMnfSAcsBQVVfeXFMTUs0dVRVTDhoYnhPMF9ScDFhYzVNT1FPMmFVTWlRZW5qRklKT2hPQWNZLTg2VXZ4NXczZi1DR3hYVTdRZkFEWHVlYWF2anE4eFFIRXhaOFd5Y1hpazVxWERJa29kU08zMTM0bzFwMHNLbENVQ2hoSUYxZGc1dkxaaDZLUkhBSlVrWUxYbVU3UFkyYXBiVG5NZHI0cDUyMHJkQ3lidy1XTHBpZUpJVHhxaE03Y3ZnRGF3dENic1RHRU5RSDJ2Y2tUUk95Nk0?oc=5
 
-- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
-  Tea Tribe Factor Intensifies Battle In Upper
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+- ‘New’ Bangladesh-India ties will avoid ‘mistakes of the past’: Foreign Affairs Adviser Humayun Kobir - thehindu.com
+  ‘New’ Bangladesh-India ties will avoid �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0xKTFVDcEszTVk2VHU1TWpqZFo3ZjdXekN2cnRNMEtVYVBIeG9QVjNYVXN1YkM2UjJQTnRrU1RwUklqZTdGYmp5S1ltMTdpYWJxOG5GQnFHcUhsT2xFMkdCWldtM1FHcFdfekIxdmwtdDFQMjJINDBjbTlMY0ZSTkhEdHJXWlZySU9vVVZDaFh6aDBleExzVDVnU3VOSW0xMnd2QmE3TDZCQU9VQU1QdFoxZ0s1a1cwWVhGMDYtczRONmRrNkp1WXI4czA3ZDB3WEZKVUU3SDNfanFwVGJfX3JEUGhRaHZRNkHSAfABQVVfeXFMTjVROWR5a3BCN3BSVU02LUZMRmpPMEVwNzc2NXFzVkRpaE1Sd2xBeWk1d2tzN0I4Q1Q4U3NYM0x4ZElhV1NXZmhFcDQ0NXNXcFJsVm5LYjdJMF8yY1g2SGFHNGZROElVZlRZR0VUTkNBQWNlV0VJdndRMXNRR3JvcHZVQy16T19BcWlrZU9jdVBSYzlaOVRMM2RpSXN2QWxOSGVSbmpRVGNrU0Nuc3V3WEJsR0NWZ1IzX2J3MU1nX3ozb0tBRkFBbHRRN21WMHdjeHU2WDNZd1VKNjhZRVhmb0U2QmxuamduSWZ6bnA4Y3U2?oc=5
 
-- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
-  Congress Flags 'Offshore Assets'
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+- Right To Religion Not Absolute: Kerala Switches Side On Sabarimala Review - ndtv.com
+  Right To Religion Not Absolute: Kerala Switches
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQR29yd2VfSjFhb1RaMkgzQ3Zybk5aT0g5OC1keWc5NVhjZDFrVkFTUnd1TjA0M3RsNFN2WFNjRmpYMlpfTVVzaklRV0NNWXVwNUd0RjBGQUo1OG5oS0cxU0ltbHN5OWhFMkYxUlBQVlp4eGlYNGxrbDhtRHA4OTc2RnpiMm1EZW5rdlI1UTBNaU5EYUYyN1BSZzNXVDNDbExVUTJGVWM0NE15TkNmVmVybFdJONIBuwFBVV95cUxPNFdnLTJUWTVyZmtJdE1KRk45MFFBRVBKd2V5eHJlSGc0STMtbl9xM3RISEdGcV9jZFNaZDY2a1p4QWJ1QU1FYzQ1bkRtSThCdjh0S3J6NmhUVGZpcTJsM1dZWXFEVVQ1T2NsLUlLMzZ4bHljN3ZWYnNBaFYwWVFOYk5yXzFtS09wWjdCUVVpQUNpRHBfQXpsRTdlSlMteWwzbkFrdUFNaWdJc3NVVDNKTGNObnlnWVZnMFRj?oc=5
 
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
-  'Khawateen' Group
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Fuel cuts, WFH and more: How India's neighbours are dealing with global energy crisis triggered by US-Iran war | World News - Hindustan Times
-  India's neighbours are dealing with global energy crisis triggered by US-Iran war.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmhycTdyZUx1SXU0Q3NKUE5mNlpMeVB2S3BrZkJ6Z3ZpbGFlckM5U0hJOEgzVDI5ODVKeExTbDQyRDY5dFpoU2lMaDFIYTFjR0UyTjJjYnBvTHpQeFhoRFZmVTFtRU8wQ2llSlNYdWN5aktZSklBemU3OEpqUDIxajN1U2FhbXFwSDBMVHBvRlZrRkh1WXJIbngtRDNiT1NGMU15UkhIdEI3V3EzMHNndWhOa1R3LWZIaVhmYWZ4enV0MHR5VGowamFadFlnajVTd3FNLVotcUthQmp2QkZKVDVncnZzQXJQcVlyMm40LVBWS0NJcVpaWnR0bndjQUHSAYQCQVVfeXFMT3FYUDF1cDRTX1VreWY0OTkwd18xNjZkZE1vUDdSd2VpSjRhY0xWZVNXcG5peE9qanNSTTQ1U0pTWGJRQ1Naam13VFZZOHdIRHc3X0pYZUZNR2NrS1BMQ0xxUUJlaEU0SERIanpJVThzcWllQWtQcVEwU2xOeFc0WFNtNEVybmVySFBnWk1rSXZvTUQyNU5jS3NzX3dHWmRfd3Q4dHV1eF9ZSWZZSEo1X2Rfc2t1b01NRUU1VG51c1VyclpZd2ZyRjY2MnFqY2VYREp2a0hOQkNPWlJIeUFTMExON09vNGctRU9KMkZuVTRiRno3YklGMnJqODdlR1pMMjVsX3o?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Can't place self so high, must apologise to CJI: SC tears into Bengal Chief Secretary over Malda response - India Today
-  India Today reports that the Chief Secretary of Malda has apologised to the CJI
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQODhkTlJBQXdSRG9XWVZyVHNJX2xRc0oxZk1zT0FRR0VNVWNvREhzbDd6S1d2R3dBX0NwNGc1QmJtUWdkbEl2Mjh3VVpyT1RIYW9Dci1QUV9SVFhJQkpPRXAwaDNpeENPN1BMOFM5bERPN0pXRmd3THg4NExoa2ZqUlVDSjlEbElZQVF5SVcxMGRIWGZYRWdmMF9MUUFMZy1xUGtUc1hTWEh6ejFFZjMxVHVZQ004UkQ0S3pPcHlROUFKSEhCRERHSW9TaGprRkFkYVdrLWEtSjFjSmhNQ0hsLW5TWFl0MlJvcW5UZzNDVzNEYzhPZWVfM0xBNmPSAYICQVVfeXFMT2JGSHdka3dtYUhfU2dVcktBSkZ3UUFCNmx2ZVdZVjZMTFdiekpPR0txWDVRNjlPR0JKUWI3cU5ubGdtMGllS0lpNExjamhVZXhBVTJWa2ZpTVBVeE5zZUlrekFEZTh0Z0dCd2hUMDUxbzJEUmJFam52ZlpEYjBYQnU5eERPRUU5RlF6TWlycTA4aG5acjdYRjVSQU1jOU12NUpQVGZMVTZ1U2xxdng2aXByWmRxZ3I4eFhLSkp3NUplaE0wNV9HM3Z3a2JielVkaC1sWmxYeTM3SWRSR1ZkUThSVmdfSDkzdUZuVmRMd2d3NzRvWnBSWjZPLTJISU5BLXRB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Tea Tribe Factor Intensifies Battle In Upper Assam Ahead Of Polls - NDTV
-  Tea Tribe Factor Intensifies Battle In Upper
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa05IcE11NTdpYUdDOFdLOC03MS1pdl9QQkZCRXVYZXVRT01kM1JHdEJJQ2dhSms2aHc5UWVIZ3ViekNpWFZPWlJWMm8zUEktX2dzVFhkMmdiREgxTmhzZGFOMWo5UXBQc3NZYkdBaEdUVFZLSUpueVlrMEt6RG96bFMxRV91ekpCSFJ5dlNGM0VweWtOUmJydEZxLXRSRjV5ZjNyX0RlVERKZ9IBsgFBVV95cUxORVJ5TWd4S2l2WVotaVZLTUl2ZXVwVmVUcU03a0hORndwcE9SOUoxaFNwR0ZYTFQxVkdUcE1aMC1uVF96UkExRmVqYmlueXY0Qi1xLU9udDA3em8xUWhEc1J3TjNRZHVjakUtcVpVNmhMWUFFZVlpaFU5QzlJSDdUYlQ3Mkl3N0RoSE11aXJDSDVYMDNqb1hDTEsyUktCWGxFTjBOR1h5d2JtMldtdXhCSkdB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Congress Flags 'Offshore Assets' in Himanta Sarma's Poll Affidavit - NDTV
-  Congress Flags 'Offshore Assets'
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmhmQ1ZqMkw3dS15WDJQTlY0YXN2NjZCYVowSl9rSmhyUGx3dHlHdlRqMHJGQ0hpOXV5VjU1a0NpSWpNNjJCUlNBTmJ4Z3ZST01vR0E5V2lUb0RrSVhpN1g5Mmg2TnpXRjNuRXpwY2JfSF82S2JwQXl1MTdSazkxcjVjMVM5MkNnMURMOVlRU2JrUW9PSDJBR0w0N3FVRnNoRkttV0dNNNIBrwFBVV95cUxNTW5DLUxfNldhaGpLSDFiMk12LUxoaEMya1BKRm52OGQ0VTkwcEsyRUdkWHJ5Zk9SOVh4bzhka0g2UERVaHFfSmlVejFMNlpaTWNqUXhRUk90MEhUQ0dyNzk1TVc3LVpXWGUwMGFiOG5tVGYwdWF1Vnpua2lWcUJQeE1Gd3lfclFNcXV2ODN2cDIyWVR0amxSZVR0ekMtOWZsSFpIbVE4dC01TlRYWkY4?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-06 13:03:17 UTC_
+_Last updated: 2026-04-06 18:55:33 UTC_
