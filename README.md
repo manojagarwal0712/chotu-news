@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 2,800 Indians get visas for Baisakhi pilgrimage in Pakistan this week
+- Pakistan issues 2,800 visas to Indians for Baisakhi pilgrimage
   
-  🔗 https://indianexpress.com/article/india/2800-indians-get-visa-for-baisakhi-pilgrimage-in-pakistan-10623753/
+  🔗 https://indianexpress.com/article/india/pakistan-issues-2800-visas-to-indians-for-baisakhi-pilgrimage-10624412/
 
-- Manipur on edge: 2 protesters dead in CRPF firing, hours after killing of 2 children
+- Vijayan-Revanth verbal duel marks end of campaigning for Kerala polls
   
-  🔗 https://indianexpress.com/article/india/manipur-protesters-dead-crpf-firingkilling-children-10623745/
+  🔗 https://indianexpress.com/article/india/vijayan-revanth-verbal-duel-campaigning-kerala-polls-10624322/
 
-- Lashkar man’s arrest from Punjab busts open module that helped Pakistani terrorists enter J&K
+- Stay indoors for next 48 hours, avoid military sites: Indian embassy to its nationals in Iran
   
-  🔗 https://indianexpress.com/article/india/jk-police-bust-interstate-let-module-abu-huraira-arrested-punjab-10623703/
+  🔗 https://indianexpress.com/article/india/indian-embassy-advisory-asking-everyone-to-stay-indoors-for-the-next-48-hours-10624163/
 
-- ‘Not the time for reckless statements’: Congress’s Manickam Tagore slams Mamata’s ‘secret understanding’ remark
+- Resolution to move all raw meat shop out of Haridwar city limits passed by civic body
   
-  🔗 https://indianexpress.com/article/india/india-bloc-row-mamata-banerjee-congress-eci-claim-10623572/
+  🔗 https://indianexpress.com/article/india/resolution-move-all-raw-meat-shop-out-haridwar-passed-10624127/
 
-- 40 police personnel among 60 injured as protests break out over bauxite mining project in Odisha
+- ‘When will this government wake up?’: Rahul Gandhi targets Centre after 2 children are killed in Manipur
   
-  🔗 https://indianexpress.com/article/india/odisha-rayagada-violence-sijimali-bauxite-mine-protest-police-injured-kashipur-10623458/
+  🔗 https://indianexpress.com/article/india/manipur-violence-two-children-killed-rahul-gandhi-reacts-10624084/
 
 - iPhone Fold: Everything we know about Apple’s first foldable phone
   
@@ -40,165 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/oura-ring-review-price-india-health-tracking-sleep-apnea-subscription-10622934/
 
-- Bill Ackman's Pershing Square proposes $64 billion merger with Universal Music Group, could value shares at 78% premium
-  Bill Ackman's Pershing Square proposed merging Universal Music Group with its investment fund. The deal aims to boost UMG's value through a U.S. listing, despite previous
-  🔗 https://www.livemint.com/companies/news/bill-ackman-pershing-square-propose-64-billion-merger-music-label-universal-music-group-could-value-shares-78-pc-premium-11775562202559.html
+- Meta salaries disclosed: How much engineers, AI experts and product leaders earn — roles paying up to $650,000
+  A new analysis of Meta’s visa filings shows base salaries reaching as high as $650,000 for AI leadership roles
+  🔗 https://www.livemint.com/companies/news/meta-salaries-disclosed-how-much-engineers-ai-experts-and-product-leaders-earn-roles-paying-up-to-650000-11775580994371.html
 
-- DoT extends reassessment timeline for Vodafone Idea's AGR dues till June — Here's all we know
-  The frozen dues, totaling  ₹87,695 crore, are under review by a committee formed by the telecom department. Vodafone Idea's AGR
-  🔗 https://www.livemint.com/companies/news/dot-extends-reassessment-timeline-vodafone-idea-agr-dues-till-june-telecom-dept-govt-frozen-revenue-supreme-court-order-11775551699569.html
+- What is Terafab? Intel joins Elon Musk's mission to build chips for space and robots
+  Intel is partnering with SpaceX and Tesla on the Terafab project. The aim is to produce 1 TW/year of compute for AI and robotics
+  🔗 https://www.livemint.com/companies/news/what-is-terafab-intel-joins-elon-musks-mission-to-build-chips-for-space-and-robots-11775577266154.html
 
-- Savills India picks majority stake in Hotelivate to expand hospitality advisory services across Asia-Pacific
-  Savills and Hotelivate have struck a deal. Savills will pursue the hospitality asset class in a far more focused
-  🔗 https://www.livemint.com/companies/news/savills-acquires-hotelivate-india-hospitality-expansion-global-strategy-11775548634542.html
+- Deere & Co agrees to pay $99 million to settle right to repair lawsuit
+  Deere &amp; Co agrees to pay
+  🔗 https://www.livemint.com/companies/deere-co-agrees-to-pay-99-million-to-settle-right-to-repair-lawsuit-11775577969768.html
 
-- Aman Gupta's OffBeat Studios raises  ₹100 crore in seed funding led by Bessemer Venture Partners
-   boAt co-founder Aman Gupta has raised  ₹100 crore in seed funding for his new venture OffBeat Studios
-  🔗 https://www.livemint.com/companies/news/aman-guptas-offbeat-studios-raises-rs-100-crore-in-seed-funding-led-by-bessemer-venture-partners-11775549387282.html
+- Why was Sam Altman fired by OpenAI in 2023? New report points to ‘sociopathic’ pattern of deception
+  Sam Altman was fired by OpenAI in 2023 over internal allegations of deception. He was rehired within five days due to employee pressure.
+  🔗 https://www.livemint.com/technology/tech-news/why-was-sam-altman-fired-by-openai-in-2023-new-report-points-to-sociopathic-pattern-of-deception-11775564192075.html
 
-- Air India CEO Campbell Wilson to stay on until successor is announced — What we know about the airline's future plans
-  Air India CEO Campbell Wilson has resigned. The search for his successor is underway, with both internal and external candidates being considered.
-  🔗 https://www.livemint.com/companies/news/air-india-ceo-campbell-wilson-to-serve-six-months-notice-what-we-know-about-the-airlines-succession-plans-11775544319711.html
+- Uday Kotak warns world ‘at cusp of return to global colonialism’ amid West Asia war, Trump's comments on Iran
+  Financial industry veteran Uday Kotak has warned that the West Asia war and US President Donald Trump's speech on the conflict signal a likely return to global colonialism
+  🔗 https://www.livemint.com/companies/people/uday-kotak-warns-world-at-cusp-return-to-global-colonialism-west-asia-war-donald-trump-speech-iran-civilization-will-die-11775566261679.html
 
-- US stock market today: Dow Jones, S&amp;P 500 futures fall over 0.5% as war fears escalate
-  US stock futures drop as tensions rise over Iran's refusal to agree to a ceasefire. Trump's ultimatum looms, threatening military action if Iran does not reopen the Strait of Hormuz by Tuesday.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-s-p-500-futures-tumble-over-0-5-as-war-fears-escalate-11775563780796.html
+- Rupee could fall to 100/dollar if oil stays above $110/barrel: Neelkanth Mishra
+   Axis Bank chief economist's comments come at a time when the local unit has fallen by 4.5% against the dollar since the war in West Asia began on 28 February.
+  🔗 https://www.livemint.com/market/rupee-could-fall-to-100-dollar-if-oil-stays-above-110-barrel-neelkanth-mishra-11775578436561.html
 
-- Eternal to Titan: These four Nifty companies are likely to post over 50% YoY growth in Q4 profit. Do you own any?
-  19 of Nifty 50 stocks are likely to post a profit growth of 10% or more on a YoY basis. Four names, Eternal, Titan, JSW Steel and Tata Steel
-  🔗 https://www.livemint.com/market/stock-market-news/eternal-to-titan-these-four-nifty-50-companies-are-likely-to-post-over-50-yoy-growth-in-q4-profit-do-you-own-any-11775562561712.html
+- Muthoot Finance board to meet on this date to consider the interim dividend for FY26
+  Muthoot Finance's board will meet on April 10 to consider an interim dividend for FY2025-26. The company reported a 95%
+  🔗 https://www.livemint.com/market/stock-market-news/muthoot-finance-board-to-meet-on-this-date-to-consider-the-interim-dividend-for-fy26-11775579915619.html
 
-- Stocks to buy for short term: Himadri Speciality, Sagility among 5 contra bets Ambareesh Baliga recommends buying now
-  SEBI-registered market expert Ambareesh Baliga unveils five stock recommendations. The stock picks are part of his
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-shakti-pumps-sagility-among-5-contra-bets-ambareesh-baliga-recommends-buying-now-11775563687543.html
+- Broadcom shares pop 5% to 3-week high on long-term Google, Anthropic chip deals
+  Broadcom shares rose 5% to $336.12 after announcing a long-term agreement with Google
+  🔗 https://www.livemint.com/market/stock-market-news/broadcom-shares-pop-5-to-3-week-high-on-long-term-google-anthropic-chip-deals-11775577132125.html
 
-- US-Iran war: How to rebalance your portfolio beyond the traditional 60/40? Goldman Sachs answers
-  Despite the Iran war impacting markets, diversified portfolios have shown limited damage, with a modest 5% decline. Goldman Sachs suggests rethinking portfolio strategies to balance growth, inflation
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-how-to-rebalance-your-portfolio-beyond-the-traditional-60-40-goldman-sachs-answers-11775557749854.html
+- Gold, silver rates today: Comex gold drops $53/oz; silver falls $3/oz as Trump’s Iran deadline looms
+  Gold and silver prices saw mild losses, as uncertainties surrounding the US-Iran conflict prompted investors to refrain from new investments. Trump's threats against Iran and the rejection of a ceasefire proposal contributed to a decrease
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-53-oz-silver-falls-3-oz-as-trump-s-iran-deadline-looms-11775572254057.html
 
-- Top Gainers &amp; Losers on April 07: Wipro, NMDC Steel, Vedanta, Zen Tech, Jindal Steel, HCL Tech among top gainers
-  Nifty IT led sector gains at 2.5%, while PSU banks fell by 0.72%. Investors await the RBI policy decision.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-07-wipro-nmdc-steel-vedanta-zen-tech-jindal-steel-hcl-tech-among-top-gainers-11775556380744.html
+- Bitcoin slips below $68,000 as West Asia war weighs on cryptocurrency market
+  Cryptocurrencies swept up in broader market volatility after series of attacks on Iran’s infrastructure.
+  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-price-today-slips-below-68000-west-asia-war-donald-trump-iran-strait-hormuz-cryptocurrency-markets-7-april-ether-11775570579642.html
+
+- Don't believe the iPhone Fold delay rumors: Apple's first foldable likely to arrive with iPhone 18 Pro Max, says report
+  Bloomberg report indicates Apple's foldable iPhone is set for a September launch. The report comes amid rumours of delay in iPhone Fold due to engineering
+  🔗 https://www.livemint.com/technology/gadgets/dont-believe-the-iphone-fold-delay-rumors-apples-first-foldable-may-arrive-alongside-iphone-18-pro-lineup-says-repor-11775582310904.html
+
+- Gemini update: Google rolls out measures for mental health safety - ‘Help available',how it works - All you need to know
+  Google said it is sharing an update on its mental health work. Google said some new changes to better connect people with the right information and resources.
+  🔗 https://www.livemint.com/technology/tech-news/gemini-update-google-rolls-out-measures-for-mental-health-safety-help-available-how-it-works-all-you-need-to-know-11775573965907.html
+
+- Meity meets platforms, advocacy groups on draft IT rules tweaks; Krishnan says open to suggestions
+  Meity meets platforms, advocacy groups on draft IT
+  🔗 https://www.livemint.com/technology/meity-meets-platforms-advocacy-groups-on-draft-it-rules-tweaks-krishnan-says-open-to-suggestions-11775576849714.html
+
+- OnePlus Nord 6 with 165HZ AMOLED display and 9,000mAh battery launched in India, price starts at  ₹38,999
+  The OnePlus Nord 6 has debuted in India with 9,000mAh battery, 166
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-with-165hz-amoled-display-and-9-000mah-battery-launched-in-india-price-starts-at-rs-38999-11775569955547.html
 
 - Centre moves to tighten IT rules, seeks Industry feedback on online content regulation
   The Ministry of Electronics and Information Technology (MEITY) has released draft amendments to the Information Technology Rules 2021. The amendments propose notable changes to
   🔗 https://www.livemint.com/technology/centre-moves-to-tighten-it-rules-seeks-industry-feedback-on-online-content-regulation-11775567272800.html
 
-- Waiting for the iPhone Fold? Apple's first foldable reportedly hits a major engineering roadblock
-  The iPhone Fold has faced engineering setbacks that may delay its launch. The issues are said to be more complex than anticipated, and could potentially push the schedule back by months.
-  🔗 https://www.livemint.com/technology/gadgets/waiting-for-the-iphone-fold-apples-first-foldable-reportedly-hits-a-major-engineering-roadblock-11775562018505.html
+- Health insurers rise after US lifts 2027 Medicare Advantage payment rates
+  Government announced higher-than-expected Medicare Advantage payment rates for 2027. Move eased concerns after weak earlier proposals, with analysts expecting improved margins.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates/articleshow/130093943.cms
 
-- OnePlus Nord 6 launch live: OnePlus Nord 6 launch minutes away - Check expected price, battery, camera and processor
-  The Nord 6 has a 1.5K AMOLED display with 165Hz refresh rate. The phone will debut at 7PM with a Snapdragon 8s Gen 4 processor.
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-launch-live-updates-india-price-specifications-9000mah-battery-7-april-2026-11775557792027.html
+- Soleno withdraws EU rare disease drug application ahead of Neurocrine takeover
+  Soleno Therapeutics withdraws its European drug application. This decision stems from its acquirer, Neurocrine Biosciences, prioritizing the United States market. The drug, Vykat XR, treats a
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/soleno-withdraws-eu-rare-disease-drug-application-ahead-of-neurocrine-takeover/articleshow/130093436.cms
 
-- Xiaomi Fan Festival sale announced in India: Check offers across Xiaomi 17 Ultra, Pad 8, smart TV and tablets
-  Xiaomi's Fan Festival sale has been announced in India offering discounts across smartphones, smart TVs, and tablets until April 15. The comapny is also offering
-  🔗 https://www.livemint.com/technology/gadgets/xiaomi-fan-festival-sale-announced-in-india-check-offers-across-xiaomi-17-ultra-pad-8-smart-tv-and-tablets-11775551851570.html
+- Goldman Sachs fund sells Cello World shares worth Rs 55 crore via bulk deals
+  Goldman Sachs sold over 13.82 lakh shares of Cello World via a Rs 55 crore bulk deal at Rs 401 apiece. The stock remained steady despite the transaction but has underperformed over the past year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-fund-sells-cello-world-shares-worth-rs-55-crore-via-bulk-deals/articleshow/130091926.cms
 
-- iPhone Fold launching soon: Expected price, display, camera, colours and other specifications
-  The iPhone Fold is expected to launch in September alongside the iPhone 18 Pro. It features a foldable design, A20 Pro chipset, and quad camera setup, while lacking FaceID
-  🔗 https://www.livemint.com/technology/gadgets/iphone-fold-launching-soon-expected-price-display-camera-colours-and-other-specifications-11775462400047.html
+- Sebi grants relief in minimum public shareholding compliance norms, waives penalties amid  Middle East conflict
+  Sebi has granted a temporary relaxation for listed companies struggling to meet Minimum Public Shareholding norms. Companies with deadlines between April and September 2026 are exempt from penalties.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-grants-relief-in-minimum-public-shareholding-compliance-norms-waives-penalties-amid-middle-east-conflict/articleshow/130091327.cms
 
-- Worst time to be in stocks? History suggests 90% crude surge drags S&amp;P 500 into losses over 6 quarters
-  Strong oil rallies often precede negative S&amp;P 500 returns. Rising costs, inflation, and yields pressure earnings, valuations, and broader economic growth.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/worst-time-to-be-in-stocks-history-suggests-90-crude-surge-drags-sp-500-into-losses-over-6-quarters/articleshow/130087340.cms
-
-- Sebi grants one-time extension for IPO observation validity amid geopolitical volatility
-  SEBI granted a extension for observation letters validity until September 30, 2026. This will help companies facing fundraising challenges due to Middle East geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-grants-one-time-extension-for-ipo-observation-validity-amid-geopolitical-volatility/articleshow/130087240.cms
-
-- Quote of the day by Ray Dalio: "He who lives by the crystal ball will eat shattered glass."
-  The famous adage, often linked to Ray Dalio, warns that relying on predictions can leave investors exposed. Successful investors focus on preparation and diversification.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ray-dalio-he-who-lives-by-the-crystal-ball-will-eat-shattered-glass-/articleshow/130076753.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live Updates: US futures slip as Iran tensions escalate ahead of Hormuz deadline
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/130086582.cms
-
-- Gainers &amp; Losers: CreditAccess and Jubilant Foodworks among 7 big movers on Tuesday
-  Gains and losses driven by earnings, disbursements, and corporate developments. CreditAccess, Jubilant Foodworks, W
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-creditaccess-and-jubilant-foodworks-among-7-big-movers-on-tuesday/slideshow/130086478.cms
+- Moody's cuts outlook on US BDCs to 'negative' on redemption pressure, rising leverage
+  Moody's revises outlook on U.S. business development companies (BDCs) to negative from stable
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/moodys-cuts-outlook-on-us-bdcs-to-negative-on-redemption-pressure-rising-leverage/articleshow/130091224.cms
 
 - 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
   'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
   🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
 
-- 'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid war with Iran | India News - Hindustan Times
-  'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHVqbTdycGs4Y0RPYmVkWjRrY1YxZS1oaUc2WlNWU05SM2RGMXduLUs5Q2NYeDVKRElOUHR1NERleFpJMnhwV1phb3UtYUhsM051Mk1BcE9RaS1vMDU3eldBbjdJeGxpZFN0a09aS01zVmZkVThlRzZ6RlNJdWIwbkhoU3NKbFZjSG5WMUFtWDF6Z3h0TloyZV9FNzJUd0ZfN1JQbG1zNjlCcFpUcVBac2hDeTdaRERkbGxtVEExbE9tbWtkQ1JvQmdGTkFqSWZZZ1pLSW5xWWY5NFhuTEpiUVQzcUhrMTBzSlZR0gHwAUFVX3lxTE03eHU2MHNTN1lTTDlsQ3FTQTlsNm8zLVVyYmdrNVhJNlM3TzdPSU01NWtTZTNJMHMxWHNXOTZobzN3blkxNzZUdEt3WTdmVVdvNWJKS0haS1JINDBmeU5YQVNDSG1zQW9KRzNSU0JlLWs1OFk2ejBGTkltOWhyZklOUm1lczdZN0JhM0NOczV3cURzNnY5eThhblFmeXppZUl2N1NCTVBRRXk0MmtwUDUzZ3M0dU5BWV9NTkg2T3hjamEwWUtqOUhCeVBwUmpTRnhLdVQ1a28tTzYxWktBS21CcHI4UndZRlF6b3c5cWZGMg?oc=5
-
-- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
-  "Divided Into Two Parts 55 years ago": Raj
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
-
-- Gurgaon India's most polluted city during March 2026: Report - The Hindu
-  Gurgaon India's most polluted city
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
-
-- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
-  Thirty Indian fishermen released from Sri Lankan prisons return to
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
-
-- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
-  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
-
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- Gurgaon India's most polluted city during March 2026: Report - The Hindu
-  Gurgaon India's most polluted city
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
+- India, Bangladesh share ‘warm and historic ties’: MEA - The Hindu
+  India, Bangladesh share ‘warm
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGRwVVMtbVo3MkFhend3LTdobWUtaUpFZG5lNW1TNk5Za3FtcEhNaHZ5cDZKaXVoVm1mcFJGTk1RaU1NdzlIeU5fX3BhSXUyYlloR0NTQ0t5VEFXTHFVbjlmNXNjbGVJWHg3b3RpQ1o1dDRhUE56RTRtZVJvUk9pUkR6WERJeU90a2RzaXZYQ0k1VkNhM1ZDSEozY1JESi05c1lFNGZTZnZTMmNn0gGzAUFVX3lxTE9aT0ZLbjNwXzdYUmIwdkduakVCQ2dXSTNnTHNmd0ZhT29sQkdGd1dzQ2xiMzRTdXMxSFVRc2tpbkh1U1Z2YWdUYUN2b3hiWW9ZOERnNE1ROEJaeFdJUXpMdmJFbDl6QW9qSXp4SmVtdEFIODJycWlWek5tNlJqWjg4WWs3dzJ1OU9acnJLNzQ4UlB3dlhJSU5SZ2RhTVZUY25DeUlta1huT054NEROZGYwbUo4?oc=5
 
-- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
-  Thirty Indian fishermen released from Sri Lankan prisons return to
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
+- Pakistan issues 2,800 visas to Indians for Baisakhi pilgrimage - The Indian Express
+  Pakistan issues 2,800 visas to Indians for
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnBSMEh5UVJOWGJPVk8tbG5YTU13bkFoWlE4VDVrUEZ1bW91VXpfREdCZDI2Tklsem1OUXFUVGR0RnVCSWQzMXE0ZDB1WDdEUUUtM1ctWmVEU2g4S0hyWWFhZFBzb1BhVTFlYXJjcUNPcE1BXzl3WXVKWkhadHFSdGVqTmtqS0NIcGMtdEpVTE1RWGljaWc4aGxSc2dDNE5vM28zSUFYUWh4U1NDMEQyOdIBtwFBVV95cUxOdU1hcmJUNnl0ZWdFWVRPcTgyVlYwd3dqQzhVR0tVQ0FBZnQ3elZhM3gtaThOeTNvXzYyRlVXdGJNZWZaazFPcDFGdUE2U0xmZFZISlItaExKMmF0YXRsNGFvTkgwMk1wUlpYV0Q3VER2LXBZa0xRbnR1N3d1c0VWeGpyODZhZ2RvZE13Zmt3RVhaSWpXTzJJY1FMbEJ0RkFuWWFVWVlJZDZycmpXd1hrY3hXWng1Zzg?oc=5
 
-- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
-  "Divided Into Two Parts 55 years ago": Raj
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
-
-- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
-  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
-
-- 'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid war with Iran | India News - Hindustan Times
-  'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHVqbTdycGs4Y0RPYmVkWjRrY1YxZS1oaUc2WlNWU05SM2RGMXduLUs5Q2NYeDVKRElOUHR1NERleFpJMnhwV1phb3UtYUhsM051Mk1BcE9RaS1vMDU3eldBbjdJeGxpZFN0a09aS01zVmZkVThlRzZ6RlNJdWIwbkhoU3NKbFZjSG5WMUFtWDF6Z3h0TloyZV9FNzJUd0ZfN1JQbG1zNjlCcFpUcVBac2hDeTdaRERkbGxtVEExbE9tbWtkQ1JvQmdGTkFqSWZZZ1pLSW5xWWY5NFhuTEpiUVQzcUhrMTBzSlZR0gHwAUFVX3lxTE03eHU2MHNTN1lTTDlsQ3FTQTlsNm8zLVVyYmdrNVhJNlM3TzdPSU01NWtTZTNJMHMxWHNXOTZobzN3blkxNzZUdEt3WTdmVVdvNWJKS0haS1JINDBmeU5YQVNDSG1zQW9KRzNSU0JlLWs1OFk2ejBGTkltOWhyZklOUm1lczdZN0JhM0NOczV3cURzNnY5eThhblFmeXppZUl2N1NCTVBRRXk0MmtwUDUzZ3M0dU5BWV9NTkg2T3hjamEwWUtqOUhCeVBwUmpTRnhLdVQ1a28tTzYxWktBS21CcHI4UndZRlF6b3c5cWZGMg?oc=5
-
-- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
-  "Divided Into Two Parts 55 years ago": Raj
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
-
-- Gurgaon India's most polluted city during March 2026: Report - The Hindu
-  Gurgaon India's most polluted city
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
-
-- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
-  Thirty Indian fishermen released from Sri Lankan prisons return to
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
+- ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump's ‘civilization will die’ threat to Iran - Hindustan Times
+  ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3NxMHUzaHdqVTUxZlZiUktHQmRDckdiVVFYWkktOWpCMm5Hemlub3BISzd5ejZDOXB2dUNlMHl2STdOWHFpR0JtQUMxVEZheldhYkFOWWpQQ09SY2E2QlBlVHJYVXNXU3pmeV9JTG9EaE1oLWpTbG05SGI3RDVGSG05WkxWSmMtbEdQVmlVWHpNVmlkSGl2QzdNMHFIOWhMSW9DeWI0ZTB0bFNWQ3pLT0FqZjhUbWowbnhuNUZiOFhXT0dRUGRmSUdrMnNGb2tHdmRMb190Ui1HczVUWWJHVDdJRl9JeFpPbERkU2xyX0FzMko5UFM3TVBjZVQ?oc=5
 
 - 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
   'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
   🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
 
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- Gurgaon India's most polluted city during March 2026: Report - The Hindu
-  Gurgaon India's most polluted city
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
+- India, Bangladesh share ‘warm and historic ties’: MEA - The Hindu
+  India, Bangladesh share ‘warm
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGRwVVMtbVo3MkFhend3LTdobWUtaUpFZG5lNW1TNk5Za3FtcEhNaHZ5cDZKaXVoVm1mcFJGTk1RaU1NdzlIeU5fX3BhSXUyYlloR0NTQ0t5VEFXTHFVbjlmNXNjbGVJWHg3b3RpQ1o1dDRhUE56RTRtZVJvUk9pUkR6WERJeU90a2RzaXZYQ0k1VkNhM1ZDSEozY1JESi05c1lFNGZTZnZTMmNn0gGzAUFVX3lxTE9aT0ZLbjNwXzdYUmIwdkduakVCQ2dXSTNnTHNmd0ZhT29sQkdGd1dzQ2xiMzRTdXMxSFVRc2tpbkh1U1Z2YWdUYUN2b3hiWW9ZOERnNE1ROEJaeFdJUXpMdmJFbDl6QW9qSXp4SmVtdEFIODJycWlWek5tNlJqWjg4WWs3dzJ1OU9acnJLNzQ4UlB3dlhJSU5SZ2RhTVZUY25DeUlta1huT054NEROZGYwbUo4?oc=5
 
-- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
-  Thirty Indian fishermen released from Sri Lankan prisons return to
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
+- Pakistan issues 2,800 visas to Indians for Baisakhi pilgrimage - The Indian Express
+  Pakistan issues 2,800 visas to Indians for
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnBSMEh5UVJOWGJPVk8tbG5YTU13bkFoWlE4VDVrUEZ1bW91VXpfREdCZDI2Tklsem1OUXFUVGR0RnVCSWQzMXE0ZDB1WDdEUUUtM1ctWmVEU2g4S0hyWWFhZFBzb1BhVTFlYXJjcUNPcE1BXzl3WXVKWkhadHFSdGVqTmtqS0NIcGMtdEpVTE1RWGljaWc4aGxSc2dDNE5vM28zSUFYUWh4U1NDMEQyOdIBtwFBVV95cUxOdU1hcmJUNnl0ZWdFWVRPcTgyVlYwd3dqQzhVR0tVQ0FBZnQ3elZhM3gtaThOeTNvXzYyRlVXdGJNZWZaazFPcDFGdUE2U0xmZFZISlItaExKMmF0YXRsNGFvTkgwMk1wUlpYV0Q3VER2LXBZa0xRbnR1N3d1c0VWeGpyODZhZ2RvZE13Zmt3RVhaSWpXTzJJY1FMbEJ0RkFuWWFVWVlJZDZycmpXd1hrY3hXWng1Zzg?oc=5
 
-- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
-  "Divided Into Two Parts 55 years ago": Raj
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
+- ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump's ‘civilization will die’ threat to Iran - Hindustan Times
+  ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3NxMHUzaHdqVTUxZlZiUktHQmRDckdiVVFYWkktOWpCMm5Hemlub3BISzd5ejZDOXB2dUNlMHl2STdOWHFpR0JtQUMxVEZheldhYkFOWWpQQ09SY2E2QlBlVHJYVXNXU3pmeV9JTG9EaE1oLWpTbG05SGI3RDVGSG05WkxWSmMtbEdQVmlVWHpNVmlkSGl2QzdNMHFIOWhMSW9DeWI0ZTB0bFNWQ3pLT0FqZjhUbWowbnhuNUZiOFhXT0dRUGRmSUdrMnNGb2tHdmRMb190Ui1HczVUWWJHVDdJRl9JeFpPbERkU2xyX0FzMko5UFM3TVBjZVQ?oc=5
+
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- India, Bangladesh share ‘warm and historic ties’: MEA - The Hindu
+  India, Bangladesh share ‘warm
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGRwVVMtbVo3MkFhend3LTdobWUtaUpFZG5lNW1TNk5Za3FtcEhNaHZ5cDZKaXVoVm1mcFJGTk1RaU1NdzlIeU5fX3BhSXUyYlloR0NTQ0t5VEFXTHFVbjlmNXNjbGVJWHg3b3RpQ1o1dDRhUE56RTRtZVJvUk9pUkR6WERJeU90a2RzaXZYQ0k1VkNhM1ZDSEozY1JESi05c1lFNGZTZnZTMmNn0gGzAUFVX3lxTE9aT0ZLbjNwXzdYUmIwdkduakVCQ2dXSTNnTHNmd0ZhT29sQkdGd1dzQ2xiMzRTdXMxSFVRc2tpbkh1U1Z2YWdUYUN2b3hiWW9ZOERnNE1ROEJaeFdJUXpMdmJFbDl6QW9qSXp4SmVtdEFIODJycWlWek5tNlJqWjg4WWs3dzJ1OU9acnJLNzQ4UlB3dlhJSU5SZ2RhTVZUY25DeUlta1huT054NEROZGYwbUo4?oc=5
+
+- Pakistan issues 2,800 visas to Indians for Baisakhi pilgrimage - The Indian Express
+  Pakistan issues 2,800 visas to Indians for
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnBSMEh5UVJOWGJPVk8tbG5YTU13bkFoWlE4VDVrUEZ1bW91VXpfREdCZDI2Tklsem1OUXFUVGR0RnVCSWQzMXE0ZDB1WDdEUUUtM1ctWmVEU2g4S0hyWWFhZFBzb1BhVTFlYXJjcUNPcE1BXzl3WXVKWkhadHFSdGVqTmtqS0NIcGMtdEpVTE1RWGljaWc4aGxSc2dDNE5vM28zSUFYUWh4U1NDMEQyOdIBtwFBVV95cUxOdU1hcmJUNnl0ZWdFWVRPcTgyVlYwd3dqQzhVR0tVQ0FBZnQ3elZhM3gtaThOeTNvXzYyRlVXdGJNZWZaazFPcDFGdUE2U0xmZFZISlItaExKMmF0YXRsNGFvTkgwMk1wUlpYV0Q3VER2LXBZa0xRbnR1N3d1c0VWeGpyODZhZ2RvZE13Zmt3RVhaSWpXTzJJY1FMbEJ0RkFuWWFVWVlJZDZycmpXd1hrY3hXWng1Zzg?oc=5
+
+- ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump's ‘civilization will die’ threat to Iran - Hindustan Times
+  ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3NxMHUzaHdqVTUxZlZiUktHQmRDckdiVVFYWkktOWpCMm5Hemlub3BISzd5ejZDOXB2dUNlMHl2STdOWHFpR0JtQUMxVEZheldhYkFOWWpQQ09SY2E2QlBlVHJYVXNXU3pmeV9JTG9EaE1oLWpTbG05SGI3RDVGSG05WkxWSmMtbEdQVmlVWHpNVmlkSGl2QzdNMHFIOWhMSW9DeWI0ZTB0bFNWQ3pLT0FqZjhUbWowbnhuNUZiOFhXT0dRUGRmSUdrMnNGb2tHdmRMb190Ui1HczVUWWJHVDdJRl9JeFpPbERkU2xyX0FzMko5UFM3TVBjZVQ?oc=5
+
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - ndtv.com
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- India, Bangladesh share ‘warm and historic ties’: MEA - The Hindu
+  India, Bangladesh share ‘warm
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGRwVVMtbVo3MkFhend3LTdobWUtaUpFZG5lNW1TNk5Za3FtcEhNaHZ5cDZKaXVoVm1mcFJGTk1RaU1NdzlIeU5fX3BhSXUyYlloR0NTQ0t5VEFXTHFVbjlmNXNjbGVJWHg3b3RpQ1o1dDRhUE56RTRtZVJvUk9pUkR6WERJeU90a2RzaXZYQ0k1VkNhM1ZDSEozY1JESi05c1lFNGZTZnZTMmNn0gGzAUFVX3lxTE9aT0ZLbjNwXzdYUmIwdkduakVCQ2dXSTNnTHNmd0ZhT29sQkdGd1dzQ2xiMzRTdXMxSFVRc2tpbkh1U1Z2YWdUYUN2b3hiWW9ZOERnNE1ROEJaeFdJUXpMdmJFbDl6QW9qSXp4SmVtdEFIODJycWlWek5tNlJqWjg4WWs3dzJ1OU9acnJLNzQ4UlB3dlhJSU5SZ2RhTVZUY25DeUlta1huT054NEROZGYwbUo4?oc=5
+
+- Pakistan issues 2,800 visas to Indians for Baisakhi pilgrimage - The Indian Express
+  Pakistan issues 2,800 visas to Indians for
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnBSMEh5UVJOWGJPVk8tbG5YTU13bkFoWlE4VDVrUEZ1bW91VXpfREdCZDI2Tklsem1OUXFUVGR0RnVCSWQzMXE0ZDB1WDdEUUUtM1ctWmVEU2g4S0hyWWFhZFBzb1BhVTFlYXJjcUNPcE1BXzl3WXVKWkhadHFSdGVqTmtqS0NIcGMtdEpVTE1RWGljaWc4aGxSc2dDNE5vM28zSUFYUWh4U1NDMEQyOdIBtwFBVV95cUxOdU1hcmJUNnl0ZWdFWVRPcTgyVlYwd3dqQzhVR0tVQ0FBZnQ3elZhM3gtaThOeTNvXzYyRlVXdGJNZWZaazFPcDFGdUE2U0xmZFZISlItaExKMmF0YXRsNGFvTkgwMk1wUlpYV0Q3VER2LXBZa0xRbnR1N3d1c0VWeGpyODZhZ2RvZE13Zmt3RVhaSWpXTzJJY1FMbEJ0RkFuWWFVWVlJZDZycmpXd1hrY3hXWng1Zzg?oc=5
+
+- ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump's ‘civilization will die’ threat to Iran - Hindustan Times
+  ‘Use of nuclear weapons can never be justified’: Rahul Gandhi on Trump
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3NxMHUzaHdqVTUxZlZiUktHQmRDckdiVVFYWkktOWpCMm5Hemlub3BISzd5ejZDOXB2dUNlMHl2STdOWHFpR0JtQUMxVEZheldhYkFOWWpQQ09SY2E2QlBlVHJYVXNXU3pmeV9JTG9EaE1oLWpTbG05SGI3RDVGSG05WkxWSmMtbEdQVmlVWHpNVmlkSGl2QzdNMHFIOWhMSW9DeWI0ZTB0bFNWQ3pLT0FqZjhUbWowbnhuNUZiOFhXT0dRUGRmSUdrMnNGb2tHdmRMb190Ui1HczVUWWJHVDdJRl9JeFpPbERkU2xyX0FzMko5UFM3TVBjZVQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-07 13:12:25 UTC_
+_Last updated: 2026-04-07 19:01:25 UTC_
