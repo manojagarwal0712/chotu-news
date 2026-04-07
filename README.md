@@ -1,26 +1,38 @@
 # 📰 Daily News Summaries
 
-- Affordable housing at heart of DDA’s new TOD policy notified by Centre
+- 2,800 Indians get visas for Baisakhi pilgrimage in Pakistan this week
   
-  🔗 https://indianexpress.com/article/india/affordable-housing-at-heart-of-ddas-new-tod-policy-notified-by-centre-10623281/
+  🔗 https://indianexpress.com/article/india/2800-indians-get-visa-for-baisakhi-pilgrimage-in-pakistan-10623753/
 
-- Assam Police reaches Pawan Khera’s Delhi home after complaint over passport of CM Himanta’s wife
+- Manipur on edge: 2 protesters dead in CRPF firing, hours after killing of 2 children
   
-  🔗 https://indianexpress.com/article/india/pawan-khera-assam-cm-himanta-wife-riniki-passport-10623223/
+  🔗 https://indianexpress.com/article/india/manipur-protesters-dead-crpf-firingkilling-children-10623745/
 
-- Gold Rate Today, April 7: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Lashkar man’s arrest from Punjab busts open module that helped Pakistani terrorists enter J&K
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-april-7-check-18-22-and-24-carat-gold-prices-in-chennai-bangalore-mumbai-delhi-kolkata-hyderabad-and-other-cities-10623057/
+  🔗 https://indianexpress.com/article/india/jk-police-bust-interstate-let-module-abu-huraira-arrested-punjab-10623703/
 
-- Manipur bomb attack: 2 children dead as violence flares up again in Bishnupur
+- ‘Not the time for reckless statements’: Congress’s Manickam Tagore slams Mamata’s ‘secret understanding’ remark
   
-  🔗 https://indianexpress.com/article/india/manipur-bishnupur-bomb-attack-two-children-killed-moirang-protests-10623031/
+  🔗 https://indianexpress.com/article/india/india-bloc-row-mamata-banerjee-congress-eci-claim-10623572/
 
-- Amaravati notified as Andhra Pradesh capital 12 years after bifurcation
+- 40 police personnel among 60 injured as protests break out over bauxite mining project in Odisha
   
-  🔗 https://indianexpress.com/article/india/amaravati-notified-as-andhra-pradesh-capital-chandrababu-naidu-10622989/
+  🔗 https://indianexpress.com/article/india/odisha-rayagada-violence-sijimali-bauxite-mine-protest-police-injured-kashipur-10623458/
 
-- The Big Bang: AI Has Created a Code Overload
+- iPhone Fold: Everything we know about Apple’s first foldable phone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-fold-everything-we-know-about-apples-first-foldable-phone-10623786/
+
+- Netflix rolls out Playground app with games, boosts kids and preschool shows
+  
+  🔗 https://indianexpress.com/article/technology/netflix-rolls-out-playground-app-with-games-boosts-kids-and-preschool-shows-10623553/
+
+- ‘You’ve made history,’ Donald Trump tells Artemis II crew after epic lunar flyby
+  
+  🔗 https://indianexpress.com/article/technology/science/youve-made-history-donald-trump-tells-artemis-ii-crew-after-epic-lunar-flyby-10623291/
+
+- The big bang: AI has created a code overload
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/the-big-bang-ai-has-created-a-code-overload-10622955/
 
@@ -28,177 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/oura-ring-review-price-india-health-tracking-sleep-apnea-subscription-10622934/
 
-- Artemis II blackout: What happens when the moon blocks Earth?
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-artemis-2-crew-breaks-apollo-13-distance-record-communication-blackout-10622867/
+- Bill Ackman's Pershing Square proposes $64 billion merger with Universal Music Group, could value shares at 78% premium
+  Bill Ackman's Pershing Square proposed merging Universal Music Group with its investment fund. The deal aims to boost UMG's value through a U.S. listing, despite previous
+  🔗 https://www.livemint.com/companies/news/bill-ackman-pershing-square-propose-64-billion-merger-music-label-universal-music-group-could-value-shares-78-pc-premium-11775562202559.html
 
-- NASA’s Artemis II breaks Apollo 13’s distance record as humans travel farther from Earth than ever before
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-artemis-ii-breaks-apollo-13s-distance-record-as-humans-travel-farther-from-earth-than-ever-before-10622554/
+- DoT extends reassessment timeline for Vodafone Idea's AGR dues till June — Here's all we know
+  The frozen dues, totaling  ₹87,695 crore, are under review by a committee formed by the telecom department. Vodafone Idea's AGR
+  🔗 https://www.livemint.com/companies/news/dot-extends-reassessment-timeline-vodafone-idea-agr-dues-till-june-telecom-dept-govt-frozen-revenue-supreme-court-order-11775551699569.html
 
-- Study of 1,700 languages uncovers hidden rules shaping how we speak
-  
-  🔗 https://indianexpress.com/article/technology/science/study-of-1700-languages-uncovers-hidden-rules-shaping-how-we-speak-10622414/
+- Savills India picks majority stake in Hotelivate to expand hospitality advisory services across Asia-Pacific
+  Savills and Hotelivate have struck a deal. Savills will pursue the hospitality asset class in a far more focused
+  🔗 https://www.livemint.com/companies/news/savills-acquires-hotelivate-india-hospitality-expansion-global-strategy-11775548634542.html
 
-- Bill Ackman's Pershing Square offers to buy Universal Music for nearly $65 billion: Report
-   Pershing Square said its offer estimates Universal Music
-  🔗 https://www.livemint.com/companies/news/bill-ackmans-pershing-square-offers-to-buy-universal-music-for-nearly-65-billion-report-11775544865876.html
+- Aman Gupta's OffBeat Studios raises  ₹100 crore in seed funding led by Bessemer Venture Partners
+   boAt co-founder Aman Gupta has raised  ₹100 crore in seed funding for his new venture OffBeat Studios
+  🔗 https://www.livemint.com/companies/news/aman-guptas-offbeat-studios-raises-rs-100-crore-in-seed-funding-led-by-bessemer-venture-partners-11775549387282.html
 
-- SpiceJet moves review plea in Delhi HC over  ₹144.5 cr deposit in Maran dispute
-  SpiceJet is facing a severe liquidity crunch due to flight disruptions linked to the West Asia
-  🔗 https://www.livemint.com/companies/news/spicejet-delhi-hc-ajay-singh-kalanithi-maran-dispute-kal-airways-11775541660785.html
+- Air India CEO Campbell Wilson to stay on until successor is announced — What we know about the airline's future plans
+  Air India CEO Campbell Wilson has resigned. The search for his successor is underway, with both internal and external candidates being considered.
+  🔗 https://www.livemint.com/companies/news/air-india-ceo-campbell-wilson-to-serve-six-months-notice-what-we-know-about-the-airlines-succession-plans-11775544319711.html
 
-- JPMorgan CEO Jamie Dimon warns of AI and geopolitics risks facing his bank: ‘The list is long…’
-  JPMorgan CEO Jamie Dimon has flagged geopolitical tensions and economic uncertainty in his annual letter. He highlighted the wars in
-  🔗 https://www.livemint.com/companies/news/jpmorgan-ceo-jamie-dimon-warns-of-ai-and-geopolitics-risks-facing-his-bank-the-list-is-long-11775528160183.html
+- US stock market today: Dow Jones, S&amp;P 500 futures fall over 0.5% as war fears escalate
+  US stock futures drop as tensions rise over Iran's refusal to agree to a ceasefire. Trump's ultimatum looms, threatening military action if Iran does not reopen the Strait of Hormuz by Tuesday.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-s-p-500-futures-tumble-over-0-5-as-war-fears-escalate-11775563780796.html
 
-- SpaceX lays out IPO details, targets early June roadshow: Report
-   SpaceX lays out IPO details, allocating a large portion of shares for retail investors. The company aims to raise $
-  🔗 https://www.livemint.com/companies/news/spacex-lays-out-ipo-details-targets-early-june-roadshow-report-11775537068886.html
+- Eternal to Titan: These four Nifty companies are likely to post over 50% YoY growth in Q4 profit. Do you own any?
+  19 of Nifty 50 stocks are likely to post a profit growth of 10% or more on a YoY basis. Four names, Eternal, Titan, JSW Steel and Tata Steel
+  🔗 https://www.livemint.com/market/stock-market-news/eternal-to-titan-these-four-nifty-50-companies-are-likely-to-post-over-50-yoy-growth-in-q4-profit-do-you-own-any-11775562561712.html
 
-- Anthropic inks deal with Google, Broadcom to secure AI chips; tops $30 billion run-rate
-  Anthropic has signed a deal with Google and Broadcom for gigawatts of TPU capacity by 2027. The company reported revenue exceeding
-  🔗 https://www.livemint.com/companies/news/anthropic-inks-deal-with-google-broadcom-to-secure-ai-chips-tops-30-billion-runrate-11775531848751.html
+- Stocks to buy for short term: Himadri Speciality, Sagility among 5 contra bets Ambareesh Baliga recommends buying now
+  SEBI-registered market expert Ambareesh Baliga unveils five stock recommendations. The stock picks are part of his
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-shakti-pumps-sagility-among-5-contra-bets-ambareesh-baliga-recommends-buying-now-11775563687543.html
 
-- Sell-on-rise or value buying: Which strategy to deploy as Nifty 50 nears 23,000?
-  Sensex and Nifty 50 fell sharply on April 7 due to rising crude oil prices and geopolitical tensions. FIIs have intensified selling, although analysts believe valuations are now attractive for
-  🔗 https://www.livemint.com/market/stock-market-news/sellonrise-or-value-buying-which-strategy-to-deploy-as-nifty-50-nears-23000-11775540796292.html
+- US-Iran war: How to rebalance your portfolio beyond the traditional 60/40? Goldman Sachs answers
+  Despite the Iran war impacting markets, diversified portfolios have shown limited damage, with a modest 5% decline. Goldman Sachs suggests rethinking portfolio strategies to balance growth, inflation
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-how-to-rebalance-your-portfolio-beyond-the-traditional-60-40-goldman-sachs-answers-11775557749854.html
 
-- Vivid Electromech shares list at 2% premium on NSE SME, extend rise to hit 5% upper price band
-  Vivid Electromech IPO shares listed at 2% premium on NSE SME today. The SME IPO, worth  ₹130.54
-  🔗 https://www.livemint.com/market/ipo/vivid-electromech-shares-list-at-2-premium-on-nse-sme-extend-rise-to-hit-5-upper-price-band-11775544484838.html
+- Top Gainers &amp; Losers on April 07: Wipro, NMDC Steel, Vedanta, Zen Tech, Jindal Steel, HCL Tech among top gainers
+  Nifty IT led sector gains at 2.5%, while PSU banks fell by 0.72%. Investors await the RBI policy decision.
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-07-wipro-nmdc-steel-vedanta-zen-tech-jindal-steel-hcl-tech-among-top-gainers-11775556380744.html
 
-- 1770% return in one year! Multibagger defence stock jumps after this order update
-  Swan Defence and Heavy Industries jumped over 5% to  ₹1,791.40 apiece on Tuesday. The stock is
-  🔗 https://www.livemint.com/market/stock-market-news/1770-return-in-one-year-multibagger-defence-stock-swan-defence-and-heavy-industries-jumps-after-this-order-update-11775540982014.html
+- Centre moves to tighten IT rules, seeks Industry feedback on online content regulation
+  The Ministry of Electronics and Information Technology (MEITY) has released draft amendments to the Information Technology Rules 2021. The amendments propose notable changes to
+  🔗 https://www.livemint.com/technology/centre-moves-to-tighten-it-rules-seeks-industry-feedback-on-online-content-regulation-11775567272800.html
 
-- Can tolerate oil at $300, Sensex at 30k, INR at 130, but not Islamabad Accord: Shankar Sharma says amid ceasefire talks
-  Shankar Sharma has voiced strong opposition to the Pakistan-led peace initiative. He links it to
-  🔗 https://www.livemint.com/market/stock-market-news/can-tolerate-oil-at-300-sensex-at-30k-inr-at-130-but-not-islamabad-accord-shankar-sharma-says-amid-ceasefire-talks-11775541020353.html
+- Waiting for the iPhone Fold? Apple's first foldable reportedly hits a major engineering roadblock
+  The iPhone Fold has faced engineering setbacks that may delay its launch. The issues are said to be more complex than anticipated, and could potentially push the schedule back by months.
+  🔗 https://www.livemint.com/technology/gadgets/waiting-for-the-iphone-fold-apples-first-foldable-reportedly-hits-a-major-engineering-roadblock-11775562018505.html
 
-- AWL Agri shares down 36% since Adani's exit. Q4 update suggests worst is over
-  AWL’s valuations are appealing, with the stock trading at about 19 times FY27 estimated earnings. Investors must closely track the
-  🔗 https://www.livemint.com/market/mark-to-market/awl-agri-share-price-march-quarter-update-adani-group-wilmar-11775540068393.html
+- OnePlus Nord 6 launch live: OnePlus Nord 6 launch minutes away - Check expected price, battery, camera and processor
+  The Nord 6 has a 1.5K AMOLED display with 165Hz refresh rate. The phone will debut at 7PM with a Snapdragon 8s Gen 4 processor.
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-launch-live-updates-india-price-specifications-9000mah-battery-7-april-2026-11775557792027.html
+
+- Xiaomi Fan Festival sale announced in India: Check offers across Xiaomi 17 Ultra, Pad 8, smart TV and tablets
+  Xiaomi's Fan Festival sale has been announced in India offering discounts across smartphones, smart TVs, and tablets until April 15. The comapny is also offering
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-fan-festival-sale-announced-in-india-check-offers-across-xiaomi-17-ultra-pad-8-smart-tv-and-tablets-11775551851570.html
 
 - iPhone Fold launching soon: Expected price, display, camera, colours and other specifications
   The iPhone Fold is expected to launch in September alongside the iPhone 18 Pro. It features a foldable design, A20 Pro chipset, and quad camera setup, while lacking FaceID
   🔗 https://www.livemint.com/technology/gadgets/iphone-fold-launching-soon-expected-price-display-camera-colours-and-other-specifications-11775462400047.html
 
-- OnePlus Nord 6 India launch today: Expected price, specifications and live-stream details
-  The OnePlus Nord 6 will be debuting in India at 7PM today. Ahead of the launch, take a look at
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-india-launch-tomorrow-expected-price-specifications-and-live-stream-details-11775459621397.html
+- Worst time to be in stocks? History suggests 90% crude surge drags S&amp;P 500 into losses over 6 quarters
+  Strong oil rallies often precede negative S&amp;P 500 returns. Rising costs, inflation, and yields pressure earnings, valuations, and broader economic growth.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/worst-time-to-be-in-stocks-history-suggests-90-crude-surge-drags-sp-500-into-losses-over-6-quarters/articleshow/130087340.cms
 
-- ‘Argue with Dario’: Anthropic's head of growth says Claude maker encourages employees to call out its CEO publicly
-  Anthropic's Head of Growth Amol Avasarala has revealed that the AI startup encourages employees to openly disagree with leadership. He noted that this culture of transparency through Slack channels
-  🔗 https://www.livemint.com/technology/tech-news/argue-with-dario-anthropics-head-of-growth-says-claude-maker-lets-employees-call-out-its-ceo-publicly-11775451579833.html
+- Sebi grants one-time extension for IPO observation validity amid geopolitical volatility
+  SEBI granted a extension for observation letters validity until September 30, 2026. This will help companies facing fundraising challenges due to Middle East geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-grants-one-time-extension-for-ipo-observation-validity-amid-geopolitical-volatility/articleshow/130087240.cms
 
-- iPhone 17 now available for less than  ₹50,000 during latest Croma sale: How to get the deal?
-  Croma is offering significant discounts on the iPhone 17, bringing its effective price to  ₹44,768. The device come with a 6.3-
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-now-available-for-less-than-rs-50-000-during-latest-croma-sale-how-to-get-the-deal-11775445339672.html
+- Quote of the day by Ray Dalio: "He who lives by the crystal ball will eat shattered glass."
+  The famous adage, often linked to Ray Dalio, warns that relying on predictions can leave investors exposed. Successful investors focus on preparation and diversification.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-ray-dalio-he-who-lives-by-the-crystal-ball-will-eat-shattered-glass-/articleshow/130076753.cms
 
-- Infinix Note 60 Pro with ‘Active Matrix Display’ confirmed to launch in India: Pre-book benefits, specs and features
-  Infinix Note 60 Pro will be launched in India on April 13. The company is offering pre-booking offers include up to  ₹
-  🔗 https://www.livemint.com/technology/gadgets/infinix-note-60-pro-with-active-matrix-display-confirmed-to-launch-in-india-pre-book-benefits-specs-and-features-11775442516086.html
+- US Stock Market Today | Dow Jones | Nasdaq Live Updates: US futures slip as Iran tensions escalate ahead of Hormuz deadline
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/130086582.cms
 
-- Oil Up, S&P 500 Futures Drop Before Iran Deadline: Markets Wrap - Bloomberg.com
-  Oil Up, S&amp;P 500
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTJNOEsydHBOVXc0dlFob0E1WktDcURMdDVhcGIzMG8zSU9ET0oyckdHS2c1cGhzdFNMM0R6Q3llczM1aHdFVGpzRFkya1pNa2tKWWswTWNqcE5tOGw2aVF4MEdubVVCQWNDZWxwQ2F4eVljeXZUV2lmck1xdkc3WWRHS21ENnV0cVVnOVhXRV9qY2pW?oc=5
+- Gainers &amp; Losers: CreditAccess and Jubilant Foodworks among 7 big movers on Tuesday
+  Gains and losses driven by earnings, disbursements, and corporate developments. CreditAccess, Jubilant Foodworks, W
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-creditaccess-and-jubilant-foodworks-among-7-big-movers-on-tuesday/slideshow/130086478.cms
 
-- Asia markets trade mixed as investors assess Trump's Iran war comments, extended deadline - CNBC
-  Asia markets trade mixed as investors assess Trump's Iran war
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFhzY2N3TEhLd0tIT01VZXhVTUhFQmctQTVtbEJNRXQ4U2N0Q1ppNG9Fa0hIaWl4R1l0YUs1WnNuWkdzY01sRklfek9TWkh3bFBEcFA4c1JCSF9Fb283R3dNLWR4RVhmOWY5WXBaZnh3SlBWVldhUDlGQ05oWF9uWEVEeEhmai02TUdSZDRwMm42Z9IBlwFBVV95cUxNNnhSeUxjdmQ4YjU2MVppSjVrakh3RHRvdUtkUUdZeFI1Rzh5dGttSjY1WFdjbHhIWDFYZmFzbkJrT2s3TmxMTE5tUGhXZ0J3NXVPSVZDcmwzUzlEOFVWQ01PRW43V3JxZ2tDM2hfX0lKUXJnR1lqSWE4UHMxTEo3aHdhcHRMeVA1c2c5b2hncXhUcXpnQVpJ?oc=5
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
 
-- Ghosts Of 1971 Crisis: Why France Moving Gold From US Is Spooking Markets - NDTV
-  France is moving gold from the U.S. to
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXRVVFVZVjNIaVB1NV9DMExJSDZibG12SUU3bnU5Q2N0eXVZdWo5a3FFa3lPcm5GUTEydklJcXF2b1FNUzlvQmZIeERzMHJkZEV4RUx3OU13ZkFGWkhMQURJLS1xWTI4dHRsV2FzRVM1T2NLZFQySDI5WWZRZDlWSFdGRkFoNEVadG4yOTh3R1F0c2FWNGpuSkYyY0tjWXNnLV9EM1dKaXgxVGk3Y19WUFBjSWNid9IBvgFBVV95cUxOSUJmLURYQ2pySW1jM25mNlhaUXBUZWphQ3NKSU56bDNkZE44TlVrOFJvQll2YzdXMDl0eS11Ym8tRk9aSjUwQzlDRVlaUTdqa0h5WVY5TFk4aUY2bXZ3aEthd1pwQW1yQlF6YVFKaWRfcDJLZzBTc2ZKRDZUcmRMMGhycjV3LU8tcV80UXl2SEZPRWREM1dDa1FRWnZTbXhaNzI5S2FpODIzeFhoZlZWUTN2NEpZYVVRcGgtYmRn?oc=5
+- 'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid war with Iran | India News - Hindustan Times
+  'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHVqbTdycGs4Y0RPYmVkWjRrY1YxZS1oaUc2WlNWU05SM2RGMXduLUs5Q2NYeDVKRElOUHR1NERleFpJMnhwV1phb3UtYUhsM051Mk1BcE9RaS1vMDU3eldBbjdJeGxpZFN0a09aS01zVmZkVThlRzZ6RlNJdWIwbkhoU3NKbFZjSG5WMUFtWDF6Z3h0TloyZV9FNzJUd0ZfN1JQbG1zNjlCcFpUcVBac2hDeTdaRERkbGxtVEExbE9tbWtkQ1JvQmdGTkFqSWZZZ1pLSW5xWWY5NFhuTEpiUVQzcUhrMTBzSlZR0gHwAUFVX3lxTE03eHU2MHNTN1lTTDlsQ3FTQTlsNm8zLVVyYmdrNVhJNlM3TzdPSU01NWtTZTNJMHMxWHNXOTZobzN3blkxNzZUdEt3WTdmVVdvNWJKS0haS1JINDBmeU5YQVNDSG1zQW9KRzNSU0JlLWs1OFk2ejBGTkltOWhyZklOUm1lczdZN0JhM0NOczV3cURzNnY5eThhblFmeXppZUl2N1NCTVBRRXk0MmtwUDUzZ3M0dU5BWV9NTkg2T3hjamEwWUtqOUhCeVBwUmpTRnhLdVQ1a28tTzYxWktBS21CcHI4UndZRlF6b3c5cWZGMg?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Off Day's Low, Markets Remain Volatile - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMllqOWxodDY5NVcwVjFTM1VmTm02LW5kaUJSNzhaVE9sMUxHeG9DOENpTFN5dk1iZlgxTXpaU3QwMDhYb0pnRUhKaTcyZ0M1Z0pYdmxzYWxwWWZ5LVEtaUNDWk50eURrMV
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMllqOWxodDY5NVcwVjFTM1VmTm02LW5kaUJSNzhaVE9sMUxHeG9DOENpTFN5dk1iZlgxTXpaU3QwMDhYb0pnRUhKaTcyZ0M1Z0pYdmxzYWxwWWZ5LVEtaUNDWk50eURrMV9JSkNqNENjTndZY2xRVkpRdVdQOUlEdEdpWFNTc2d1NFZ3dmNTZHZkVzFtQTl3T2tHOTFVaEU5djJOMXpEN2lzSk0zcWlITkZRaWkteFBhYUlRT3hVNFpMLTFzc3NjdDdfd3QyeEVPTE42T09EUjM2Sll4SGc2N1B6TjFrbC1p0gHwAUFVX3lxTE1VWC1WZmJkRTZVcEJBc3VtZ1ZMa0ctLVVuR2JpVW42N1I4anM4anJNdW1Cb241akR0MEs5UWVDeHUwbnlLb1FyWllTTUdQZWdZakxMTm5LNzZrUjNxSS03eEE1OS1BdHRoWVFJc2cxSjBpRjNyXzVhVzAyZlE1SXNhejZHM21kUTlvN19na2Z5ZEQ1OFNRbXQ2ck1QSDdIRDQ1b3hwTVpfaFpOcWRkRTg2ZWNVZTBHS094cEhpdFJvYTZIdXBpczMxYnhVNW0tZ2pkUHNhblduZXYxYXN6Rl9QZzBSWjRqbHVVU0x1NjJENA?oc=5
+- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
+  "Divided Into Two Parts 55 years ago": Raj
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
 
-- Trade setup for April 7: Will NIFTY50 reclaim 23,000 on Tuesday? Check details - Upstox
-  Trade setup for April 7: Will NIFTY50
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWJwRjFTNlVXZlpETGtqY05UX1M0cDJkS05LME4zcXF4OXlwMFJud2t5QldBZE1qbUtmVmY2RWhlWGpOT2ZORkNpRnBFRmgtU1JCTldGWFlMVllkbGtSNU5EVWJVMklQUnNVTlBUb3AyNkZNMzVnR1RfRE5BMjYtN1lreF9JRG8xTEFFUmF5ZkhBZ1JPclJYTkxaVkRySEsySl9wdGhtcmFlZ0FhcUdWajVBM2d4QUYxSlBZYzVmVDVNNllFTVFCWlp3NHBHbzdCd0ZN?oc=5
+- Gurgaon India's most polluted city during March 2026: Report - The Hindu
+  Gurgaon India's most polluted city
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
 
-- 'Ramayana' impact: Ranbir Kapoor-backed smallcap stock rallies 320% in one year, should you buy?
-  Prime Focus shares have surged over 320% in a year, fueled by excitement for Ranbir Kapoor's upcoming 'Ramayana' film. The production house, known for its visual effects, is anticipating a massive
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ramayana-impact-ranbir-kapoor-backed-smallcap-stock-rallies-320-in-one-year-should-you-buy/articleshow/130078825.cms
+- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
+  Thirty Indian fishermen released from Sri Lankan prisons return to
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
 
-- Oil shock and supply disruptions could delay market recovery: Sameer Dalal
-  Market expert Sameer Dalal warns that prolonged geopolitical tensions are overshadowing India's growth and earnings outlook. He anticipates further market downside and subdued Q1 earnings due to rising input costs, supply
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/oil-shock-and-supply-disruptions-could-delay-market-recovery-sameer-dalal/articleshow/130078275.cms
-
-- Titagarh Rail shares rally 16% in two days. Here's why Jefferies is bullish on this railway stock
-  Titagarh Rail Systems shares surged following Jefferies' 'Buy' rating. The brokerage forecasts significant revenue and EPS growth. Jupiter Wagon received an 'Underperform' rating due to its higher valuation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-shares-rally-16-in-two-days-heres-why-jefferies-is-bullish-on-this-railway-stock/articleshow/130078050.cms
-
-- Should investors buy TCS, Infosys ahead of Q4 results or AI risk too big to ignore?
-  Indian IT stocks face pressure ahead of Q4 results, with Nifty IT down nearly 20% this year. Brokerages remain cautious, expecting subdued growth and mixed margins.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/should-investors-buy-tcs-infosys-ahead-of-q4-results-or-ai-risk-too-big-to-ignore/articleshow/130077616.cms
-
-- Bitcoin pulls back to $69,000 as $255M positions liquidated; 73% shorts wiped out
-  Bitcoin saw a slight decline on Tuesday after touching $69,500. This movement followed de-escalation signals, leading to liquidations. Analysts suggest Bitcoin faces resistance near $70,000-$72,000.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-pulls-back-to-69000-as-255m-positions-liquidated-73-shorts-wiped-out/articleshow/130077545.cms
-
-- Is China Plotting A Coup In Hormuz? Top Indian Fund Star Sounds Alarm - NDTV
-  Is China Plotting A Coup In Hormuz?
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0FIZXFxUlNRdjk2M3UzNmUzWld2VkYxSVY4Y1Y5ekgxWVpOSG1nWHM1OFpObUE5ajNPVlM0a3FzLXdWTC1kX1Q5SW91NUU2QnJZbHY5d2JncEItWHAyVV81OGF3N2g4OXEwek9XbFZIdFlSR3pHRFRqRFNyQUlyUGIxdThGQTZ1Y2c1YmZRalZHSGxzcW43bG4zcUUtRFljZGlha2piUWduQVZEajBWakIwZVJLQ2Vrb2kweDltMU3SAcgBQVVfeXFMTUZOaWR4aG9TZTVfZ29zQzBmSm9RaDN3cWdhb01DRk5vUzV4RHNkM0ZCUThFN3JxNG01MnZhVDV0ZFktYU1WRGFzem9hR2pOOU54cFlMdnBJYkFpbENhVHMzQmZlTWpwVVF3bmxMeEJhcFRrdVlxcGYzbTdhc3lPX2tsb3dBemxrYnluWXNYS3NjeS1JZVZjQzR2UTRFaEd5dDE3ejgtcnB3VVRWWXplNGFPZlREdEJqLTVMa3M4X2xJTGI3dXY5VTM?oc=5
-
-- Iran war: India's high-growth economy gets a Middle East oil shock - BBC
-  Iran war: India's high-growth economy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZqaHg2Rm5OTXlLZVRmR1NhcWEtMWtlSHFZWnZhX2ROTWx1QnJEMUNjVTdDMHhDZGpsRTFBZHRXVVZxQ1dhOV9paDh2NktOalBVWmQ5VFc3Zw?oc=5
-
-- US-Israel-Iran War News Live Updates: Israel asks Iranians to avoid trains, railway lines amid strikes, says 'endangers your life' - The Times of India
-  The Times of India reports that Iran's government is planning to close the country's railway lines.
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
 
 - 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- Fake paneer, real scandal? Food regulator FSSAI in eye of an FIR storm - India Today
-  Food regulator FSSAI in eye of an FIR storm.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3duZTRLaVU1Rm9UUEVCYXhTZmsySzJQcnpWNTg1QnFMV1BFODY0UkZJeUk5V045UWpVd2l5TWFEbjFyWDk2dkxvemVndENZaHdKOXFvZzJuVkswV2x1cnltSTl5T29rQ3hXVDFCb2RNZ29vWU5OZTBlNGhHUUNVSEZQc19wUjdFMk5TYkZHZUlPOFU4QU56WklfRi1jRVpjdzZHS1ZSUHBra0txZGF2TWpFc2hldG5xbzlJSTdZNDVmU1g3eHow0gHMAUFVX3lxTE9oenZrNGpIOFRyMzJSZXZFWWdCb2cwcTAxYWdRbGRwUVM0S3JvaS1ndnJXU3BDbmVkb2Z0SEkzTUtBWkw4NDF3X0NPSmNtMm1INlRIRWRJY0g1c3VWRWFQVzVMMl9FcnBzOC1haG43ZGZfc3BLd3pWRWxQMWhfTm40bE5NaXdIMmlCUU5QLWQ3SHFfTzFlM3hsbEVET3NESGM3RGVvQUkwR2VPcGRXXy1tZ0ZPWWpqNEVVS2EzLWVtMVlqZFNyUHdmWE9KeQ?oc=5
+- Gurgaon India's most polluted city during March 2026: Report - The Hindu
+  Gurgaon India's most polluted city
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
 
-- Is China Plotting A Coup In Hormuz? Top Indian Fund Star Sounds Alarm - NDTV
-  Is China Plotting A Coup In Hormuz?
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0FIZXFxUlNRdjk2M3UzNmUzWld2VkYxSVY4Y1Y5ekgxWVpOSG1nWHM1OFpObUE5ajNPVlM0a3FzLXdWTC1kX1Q5SW91NUU2QnJZbHY5d2JncEItWHAyVV81OGF3N2g4OXEwek9XbFZIdFlSR3pHRFRqRFNyQUlyUGIxdThGQTZ1Y2c1YmZRalZHSGxzcW43bG4zcUUtRFljZGlha2piUWduQVZEajBWakIwZVJLQ2Vrb2kweDltMU3SAcgBQVVfeXFMTUZOaWR4aG9TZTVfZ29zQzBmSm9RaDN3cWdhb01DRk5vUzV4RHNkM0ZCUThFN3JxNG01MnZhVDV0ZFktYU1WRGFzem9hR2pOOU54cFlMdnBJYkFpbENhVHMzQmZlTWpwVVF3bmxMeEJhcFRrdVlxcGYzbTdhc3lPX2tsb3dBemxrYnluWXNYS3NjeS1JZVZjQzR2UTRFaEd5dDE3ejgtcnB3VVRWWXplNGFPZlREdEJqLTVMa3M4X2xJTGI3dXY5VTM?oc=5
+- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
+  Thirty Indian fishermen released from Sri Lankan prisons return to
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
 
-- Iran war: India's high-growth economy gets a Middle East oil shock - BBC
-  Iran war: India's high-growth economy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZqaHg2Rm5OTXlLZVRmR1NhcWEtMWtlSHFZWnZhX2ROTWx1QnJEMUNjVTdDMHhDZGpsRTFBZHRXVVZxQ1dhOV9paDh2NktOalBVWmQ5VFc3Zw?oc=5
+- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
+  "Divided Into Two Parts 55 years ago": Raj
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
 
-- US-Israel-Iran War News Live Updates: Israel asks Iranians to avoid trains, railway lines amid strikes, says 'endangers your life' - The Times of India
-  The Times of India reports that Iran's government is planning to close the country's railway lines.
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
+
+- 'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid war with Iran | India News - Hindustan Times
+  'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHVqbTdycGs4Y0RPYmVkWjRrY1YxZS1oaUc2WlNWU05SM2RGMXduLUs5Q2NYeDVKRElOUHR1NERleFpJMnhwV1phb3UtYUhsM051Mk1BcE9RaS1vMDU3eldBbjdJeGxpZFN0a09aS01zVmZkVThlRzZ6RlNJdWIwbkhoU3NKbFZjSG5WMUFtWDF6Z3h0TloyZV9FNzJUd0ZfN1JQbG1zNjlCcFpUcVBac2hDeTdaRERkbGxtVEExbE9tbWtkQ1JvQmdGTkFqSWZZZ1pLSW5xWWY5NFhuTEpiUVQzcUhrMTBzSlZR0gHwAUFVX3lxTE03eHU2MHNTN1lTTDlsQ3FTQTlsNm8zLVVyYmdrNVhJNlM3TzdPSU01NWtTZTNJMHMxWHNXOTZobzN3blkxNzZUdEt3WTdmVVdvNWJKS0haS1JINDBmeU5YQVNDSG1zQW9KRzNSU0JlLWs1OFk2ejBGTkltOWhyZklOUm1lczdZN0JhM0NOczV3cURzNnY5eThhblFmeXppZUl2N1NCTVBRRXk0MmtwUDUzZ3M0dU5BWV9NTkg2T3hjamEwWUtqOUhCeVBwUmpTRnhLdVQ1a28tTzYxWktBS21CcHI4UndZRlF6b3c5cWZGMg?oc=5
+
+- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
+  "Divided Into Two Parts 55 years ago": Raj
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
+
+- Gurgaon India's most polluted city during March 2026: Report - The Hindu
+  Gurgaon India's most polluted city
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
+
+- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
+  Thirty Indian fishermen released from Sri Lankan prisons return to
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
+
+- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
+  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
 
 - 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
   'Khawateen' Group
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
 
-- Fake paneer, real scandal? Food regulator FSSAI in eye of an FIR storm - India Today
-  Food regulator FSSAI in eye of an FIR storm.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3duZTRLaVU1Rm9UUEVCYXhTZmsySzJQcnpWNTg1QnFMV1BFODY0UkZJeUk5V045UWpVd2l5TWFEbjFyWDk2dkxvemVndENZaHdKOXFvZzJuVkswV2x1cnltSTl5T29rQ3hXVDFCb2RNZ29vWU5OZTBlNGhHUUNVSEZQc19wUjdFMk5TYkZHZUlPOFU4QU56WklfRi1jRVpjdzZHS1ZSUHBra0txZGF2TWpFc2hldG5xbzlJSTdZNDVmU1g3eHow0gHMAUFVX3lxTE9oenZrNGpIOFRyMzJSZXZFWWdCb2cwcTAxYWdRbGRwUVM0S3JvaS1ndnJXU3BDbmVkb2Z0SEkzTUtBWkw4NDF3X0NPSmNtMm1INlRIRWRJY0g1c3VWRWFQVzVMMl9FcnBzOC1haG43ZGZfc3BLd3pWRWxQMWhfTm40bE5NaXdIMmlCUU5QLWQ3SHFfTzFlM3hsbEVET3NESGM3RGVvQUkwR2VPcGRXXy1tZ0ZPWWpqNEVVS2EzLWVtMVlqZFNyUHdmWE9KeQ?oc=5
+- Gurgaon India's most polluted city during March 2026: Report - The Hindu
+  Gurgaon India's most polluted city
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUNJTVFzNjhEU3ExRmFfRzBrUVFJbGxIdTRDRmNoZ1A4eWRsMEVfbXdOejRZay1RUy11OUxkNzVVOXFESmZYcHNaLU1IZ1ZMNzQycGNMM3p2SFdncVZJN3oyMER0eGdzeWdIdEhpaThfSDBKb0NuaEs3Zmc3Rk1NYlZGbExlN2xHMlo1OW0tUk9YOUpvQzJnU2pXdF9JcWxRb0oyTmRSRUZESkJ4YVd5eHNORlFSbXV60gG_AUFVX3lxTE5UZlhWWjZoME82Tk5Lei1rMFk4bnI0Rm90N0tOYVBPcGRTNjh6QUo1SjdLWHE0T0wtZEZDOUREZUd0eE5McHlsQWRaTUtGRFlZSmtwd081bkFhTFA3bXVpUzlfbHNhSFVFcVM4RFpoMXVGUGNnV3BKNklCNTBLc2JSaHZZbFdKazlaMGFLWjZpaWsyR1M5YkZmamo1Q1lqdXN3azkycE56a2hCbUZuN2hueUdSVlluQk54djZPSmtB?oc=5
 
-- Is China Plotting A Coup In Hormuz? Top Indian Fund Star Sounds Alarm - NDTV
-  Is China Plotting A Coup In Hormuz?
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0FIZXFxUlNRdjk2M3UzNmUzWld2VkYxSVY4Y1Y5ekgxWVpOSG1nWHM1OFpObUE5ajNPVlM0a3FzLXdWTC1kX1Q5SW91NUU2QnJZbHY5d2JncEItWHAyVV81OGF3N2g4OXEwek9XbFZIdFlSR3pHRFRqRFNyQUlyUGIxdThGQTZ1Y2c1YmZRalZHSGxzcW43bG4zcUUtRFljZGlha2piUWduQVZEajBWakIwZVJLQ2Vrb2kweDltMU3SAcgBQVVfeXFMTUZOaWR4aG9TZTVfZ29zQzBmSm9RaDN3cWdhb01DRk5vUzV4RHNkM0ZCUThFN3JxNG01MnZhVDV0ZFktYU1WRGFzem9hR2pOOU54cFlMdnBJYkFpbENhVHMzQmZlTWpwVVF3bmxMeEJhcFRrdVlxcGYzbTdhc3lPX2tsb3dBemxrYnluWXNYS3NjeS1JZVZjQzR2UTRFaEd5dDE3ejgtcnB3VVRWWXplNGFPZlREdEJqLTVMa3M4X2xJTGI3dXY5VTM?oc=5
+- Thirty Indian fishermen released from Sri Lankan prisons return to Chennai - News On AIR
+  Thirty Indian fishermen released from Sri Lankan prisons return to
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxON1ZwU25LcEl0bThtNktTOFVtdl9NUEtPRzNJZDdPTTVXeE9LeGFYYU1tbWw2X1NVa3dNZjIxdVlRVUJUa3VnM3hwR1BNWWc5NnNGbHJ2YmU0NG1BVllUc3ZScm04YXBIY2J6UlkxbDVPbXlpa2lMUFJJeDhxNUpYYWtLbmhSR1F2MjdPUWh3SzdUV3E3MGNEazZBWUYtZS1vdTI2NnBIQQ?oc=5
 
-- Iran war: India's high-growth economy gets a Middle East oil shock - BBC
-  Iran war: India's high-growth economy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZqaHg2Rm5OTXlLZVRmR1NhcWEtMWtlSHFZWnZhX2ROTWx1QnJEMUNjVTdDMHhDZGpsRTFBZHRXVVZxQ1dhOV9paDh2NktOalBVWmQ5VFc3Zw?oc=5
-
-- US-Israel-Iran War News Live Updates: Israel asks Iranians to avoid trains, railway lines amid strikes, says 'endangers your life' - The Times of India
-  The Times of India reports that Iran's government is planning to close the country's railway lines.
-  🔗 https://news.google.com/rss/articles/CBMi8gJBVV95cUxNazd4TjdMTm5JSWg2a3lnTFNPNXBkMVBxcXYzYTJiOXJFV21tMzcwR21yblBxOTMxVWpXOUd3SXA2TWRpYV9HS1kwaEpMdlpMaUJ4eFZfcjluS1owbDBJT1dvdVQxcWlvSDQwclZEZEI2aC0xVmtKRzRvRmphTmhRYzBwdzdVUzVSdGxVelYyS2g1SnltcFo0YXMtMDAyNDRNMmpreTVDcGRXTGIySHM4Z0U1WXBkWEdLUzVSam5sRXE1a201Qy01U240a3VyUmhvWmh4aDkySTlvTURIU0RBSmFRdDQ2X0tNc3Q5WUVZaGVpU3hlSmRXa1N4Y1B0Z1Z0bXRWRTctU2F5dTljOVVjVWVrVnVGMVFlbjZKQWNQVFdQODNRLVhNaTNqYmJwb21zcHpxY3RkMzQ1aUd3YkpTMTRFbnFJVGRyMnNWTWphdTRURUg0ck0zZER3eUlTUUZLczdEeHRMc2lSNy1kLU1pZW1B0gH3AkFVX3lxTE5VcFhOVkdyMXBzTElmRUlKVF94TGowSnJncGt2X0RGdGs5d2I0MGtVOFBWZkVETE5xNmFOSWNYdFNKdnNiM0k1bUxsSGlscnNnaERSTDY2NGNFQV84d2ViWUpRbVBiX3JhWHhtemNVRHVUVEctaTBkbEpzWVJYX2F5cHhGQkUxLS04dVprWW9HXzF1QVlyWURPOWVONG15ZS1QQkxDcUNfSEU5VEV5dFYzR2dDTEVXTy1Pdy1XdkFGcmRVeEhxRlMyWklVaEZTbWN1MXNua050VGlhbndGamZwRGpYdFFyVDZqQVlQRlN1RTAxN2toRlhyMmhKSHJDdHJ0RTU3YWdMUnJLN3V1Nl95aHFmWVM2VDgtdUFYRG9idFJhazBoclJmRzRhbjltT0lPckJ1endGX3dKekNKTVZESThWMjY5VzNidFF0M3RWc3JxVGJnRDltU3g4c0hJcXU1TnFFTnpUUDVTRUotdVhwZmJkTkc2UQ?oc=5
-
-- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
-  'Khawateen' Group
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
-
-- Fake paneer, real scandal? Food regulator FSSAI in eye of an FIR storm - India Today
-  Food regulator FSSAI in eye of an FIR storm.
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3duZTRLaVU1Rm9UUEVCYXhTZmsySzJQcnpWNTg1QnFMV1BFODY0UkZJeUk5V045UWpVd2l5TWFEbjFyWDk2dkxvemVndENZaHdKOXFvZzJuVkswV2x1cnltSTl5T29rQ3hXVDFCb2RNZ29vWU5OZTBlNGhHUUNVSEZQc19wUjdFMk5TYkZHZUlPOFU4QU56WklfRi1jRVpjdzZHS1ZSUHBra0txZGF2TWpFc2hldG5xbzlJSTdZNDVmU1g3eHow0gHMAUFVX3lxTE9oenZrNGpIOFRyMzJSZXZFWWdCb2cwcTAxYWdRbGRwUVM0S3JvaS1ndnJXU3BDbmVkb2Z0SEkzTUtBWkw4NDF3X0NPSmNtMm1INlRIRWRJY0g1c3VWRWFQVzVMMl9FcnBzOC1haG43ZGZfc3BLd3pWRWxQMWhfTm40bE5NaXdIMmlCUU5QLWQ3SHFfTzFlM3hsbEVET3NESGM3RGVvQUkwR2VPcGRXXy1tZ0ZPWWpqNEVVS2EzLWVtMVlqZFNyUHdmWE9KeQ?oc=5
+- "Divided Into Two Parts 55 Years Ago": Rajnath Singh's Big Warning To Pak - NDTV
+  "Divided Into Two Parts 55 years ago": Raj
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG9zOWJPdGlVWnpBWlNPaDhZWDVKcC12NjZVYTRDQzg0YlpLcnRBQnB2RjBubVhFejA0cFN6dUVlejEtTzJPODlkQnBOM2F0ZjBJNTBVWk85ZVZmVzBkWm9rLThaLUdkeXVvc0M1MEF1VVZXakg5UFluV1hxbWVic01LdVVRS0NHNENETGF1M3VjZ2JfNmNJZ0JqbU5aS3VtaF9TZ29kN1VIS21qRTg0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,5 +220,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-04-07 07:13:13 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-04-07 13:12:25 UTC_
