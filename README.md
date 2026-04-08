@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Rs 13,038-crore Jaipur Metro Phase 2 project: Here’s the route map and station list
+- Oppositon questions rejection of notice seeking removal of Chief Election Commissioner
   
-  🔗 https://indianexpress.com/article/india/rs-13038-crore-jaipur-metro-phase-2-project-heres-the-route-map-and-station-list-10625936/
+  🔗 https://indianexpress.com/article/india/opposition-press-conference-cec-gyanesh-kumar-impeachment-notice-rejection-abhishek-singhvi-10626407/
 
-- ‘Day to rejoice’: In Kashmir, some cheer for Iran’s ‘win’
+- ‘Vande Mataram’ row in Indore civic body: Congress councillor refuses to sing, suspended after uproar
   
-  🔗 https://indianexpress.com/article/india/day-to-rejoice-in-kashmir-some-cheer-for-irans-win-10626015/
+  🔗 https://indianexpress.com/article/india/indore-congress-councillor-expelled-vande-mataram-row-10626392/
 
-- On Chennai’s walls, a fading art: As digital campaigns rise, muralists see work dry up ahead of polls
+- Ahead of polls, EC probes cash-for-votes charge against BJP’s Sobha Surendran in Palakkad
   
-  🔗 https://indianexpress.com/article/india/chennai-walls-fading-art-digital-campaigns-muralists-polls-10625880/
+  🔗 https://indianexpress.com/article/india/bjp-sobha-surendran-palakkad-kerala-polls-ec-cash-for-votes-charge-10626365/
 
-- Union Cabinet approves Rs 13,038-crore Jaipur Metro Phase 2 project – check route
+- ‘West Asia conflict effect kept in mind’: Cabinet clears 12% hike in P&K fertiliser subsidy
   
-  🔗 https://indianexpress.com/article/india/union-cabinet-approves-rs-13038-crore-jaipur-metro-phase-2-project-check-route-10625712/
+  🔗 https://indianexpress.com/article/india/cabinet-approve-kharif-2026-fertilizer-subsidy-west-asia-war-impact-10626350/
 
-- Beating ‘invisible’ killer: UN-backed South Asia Heat Hub launched in Delhi to transform heat science into life-saving action
+- Cabinet clears amendments to women reservation Bill
   
-  🔗 https://indianexpress.com/article/india/beating-invisible-killer-un-backed-south-asia-heat-hub-launched-in-delhi-to-transform-heat-science-into-life-saving-action-10625732/
+  🔗 https://indianexpress.com/article/india/women-reservation-bill-cabinet-clears-amendments-10626314/
+
+- Adobe’s Student Spaces AI tool in Acrobat lets you create guides, mind maps and summaries
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobes-student-spaces-ai-tool-in-acrobat-lets-you-create-guides-mind-maps-and-summaries-10626230/
 
 - Samsung phases out Messages app, pushes users toward Google Messages
   
@@ -28,7 +32,7 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/greece-to-ban-social-media-for-under-15s-from-2027-pm-says-10625789/
 
-- Still divided about the MacBook Neo? This upcoming change could change your mind
+- Still divided about the MacBook Neo? Next year’s upgrade might change that
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/still-divided-about-the-macbook-neo-this-upcoming-change-could-change-your-mind-10625725/
 
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/science/artemis-ii-captures-historic-earthset-as-earth-slips-behind-moon-10625396/
 
-- ‘Ice Age casino’: New study identifies 12,900-year-old Native American dice
-  
-  🔗 https://indianexpress.com/article/technology/science/ice-age-casino-new-study-identifies-12900-year-old-native-american-dice-10625092/
+- Amazon denies reports of 14,000 layoffs planned for May: ‘…not based in fact’
+  Amazon has denied reports that it is planning for another round of mass layoffs in May 2026. The company, rejecting such claims
+  🔗 https://www.livemint.com/companies/news/amazon-denies-reports-of-14-000-layoffs-planned-for-may-not-based-in-fact-11775664019857.html
 
 - TikTok plans second billion-dollar data centre in Finland in move to store European user data locally
   The move follows parent company ByteDance successfully averting a US ban in January. European regulators simultaneously intensify scrutiny on social media platforms.
@@ -56,29 +60,29 @@
   The exchange met all 20 bankers to begin drafting offer papers as it prepares retail outreach and final
   🔗 https://www.livemint.com/companies/news/nse-ipo-preparations-begin-drhp-filing-timeline-11775633796038.html
 
-- SILA raises $100 million from PE firm Permira to fund expansion plans
-  The investment signals rising global PE appetite for India’s tech-enabled business services. SILA scales operations
-  🔗 https://www.livemint.com/companies/sila-raises-100-million-permira-tech-enabled-services-india-11775629544630.html
+- April’s First US Treasury Auctions See Improved Demand
+  The first Treasury auctions of the month attracted improved investor demand. Concern that foreigners were avoiding US debt amid the
+  🔗 https://www.livemint.com/market/aprils-first-us-treasury-auctions-see-improved-demand-11775674099826.html
 
-- TCS Q4 results preview: Currency tailwinds may boost revenue; commentary on demand, AI momentum to be in focus
-  Analysts are keenly focused on how currency depreciation and AI initiatives will impact revenue and profitability. Insights into key verticals and deal wins will be crucial for investor sentiment.
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-q4-results-preview-currency-tailwinds-may-boost-revenue-commentary-on-demand-ai-momentum-to-be-in-focus-11775646438867.html
+- Lupin shares to be in focus on Thursday as USFDA approves Dapagliflozin and Metformin tablets
+  Lupin's shares expected to attract investor attention as the company received U.S
+  🔗 https://www.livemint.com/market/stock-market-news/lupin-shares-to-be-in-focus-on-thursday-as-usfda-approves-dapagliflozin-and-metformin-tablets-11775669174996.html
 
-- US stock market: Dow Jones, S&amp;P 500 futures rise up to 3% on ease in US-Iran war. Can these gains last?
-  US stock futures were higher by up to 3%, signalling a gap-up start for Wall Street. US-Iran ceasefire has brought relief to investors after weeks of conflicting signals.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-dow-jones-s-p-500-futures-rise-up-to-3-on-ease-in-us-iran-war-will-the-trend-continue-when-trade-11775646286545.html
+- Delta Air Lines shares climb over 11% even as carrier forecasts higher fuel costs in second quarter
+  Delta Air Lines anticipates more than $2 billion in additional fuel expenditures through June due to the ongoing Iran conflict. Management to adopt a cautious stance and
+  🔗 https://www.livemint.com/market/stock-market-news/delta-air-lines-shares-climb-over-11-even-as-carrier-forecasts-higher-fuel-costs-in-second-quarter-11775663970315.html
 
-- Top Gainers &amp; losers on April 08: Ashok Leyland, Pine Labs, Tata Motors, Angel One, Groww, Paytm among top gainers
-  Indian equities rebounded significantly on April 8, with the Nifty 50 and Sensex gaining 3.75% and 3.95% respectively.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-08-ashok-leyland-pine-labs-tata-motors-angel-one-groww-paytm-among-top-gainers-11775642872946.html
+- Intel shares jump 9.5% to near 5-year high after company joins Elon Musk’s Terafab project
+  Intel shares surged 9.5% on 8 April, reaching $57.92. The rise is fuelled by the company's partnership with Elon Musk's Ter
+  🔗 https://www.livemint.com/market/stock-market-news/intel-shares-jump-9-5-to-near-5-year-high-after-company-joins-elon-musk-s-terafab-project-11775664788300.html
 
-- Safety Controls &amp; Devices IPO Day 3: Issue sails through on QIB, NII demand; check GMP and other details
-  Safety Controls &amp;amp; Devices IPO sailed through on the final day of the bidding today. The listing for the shares is slated to take place next week on BSE SME.
-  🔗 https://www.livemint.com/market/ipo/safety-controls-devices-ipo-day-3-gmp-subscription-details-price-band-and-other-details-about-sme-ipo-11775642787672.html
+- Gold, silver rates today: Comex gold jumps $204/oz; silver gains $5.8 on safe-haven demand after US-Iran ceasefire
+  A temporary ceasefire in the Middle East has led to increased buying of gold and silver. The US dollar's fall also supported these gains, despite both metals still trading significantly lower than earlier this year.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-204-oz-silver-gains-5-8-on-safe-haven-demand-after-us-iran-ceasefire-11775659725288.html
 
-- SBI Mutual Fund books partial profit in engineering stock that has surged 110% in one year
-  SBI Mutual Fund has sold 21,421 shares of Sansera Engineering, reducing its stake to 4.2152%. The fund has been trimming its ownership since October 2024, when
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-books-partial-profit-in-engineering-stock-that-has-surged-110-in-one-year-11775640348175.html
+- Meta unveils Muse Spark AI to rival Google, OpenAI; stock rallies 7%
+   Meta also released Contemplating mode, which runs multiple AI agents in parallel to boost reasoning power. Muse Spark can take on the extended thinking modes of
+  🔗 https://www.livemint.com/technology/meta-unveils-first-ai-model-from-costly-superintelligence-team-11775665071090.html
 
 - How to use Google Gemini's new AI shopping features in India: Check step-by-step guide
   Google has introduced new AI shopping features in India across the Gemini app, AI Mode in Search, and Circle to Search. Users can shop more efficiently with seamless transitions,
@@ -96,49 +100,85 @@
   What does it mean for India's $55-billion pharmaceutical industry? Mint
   🔗 https://www.livemint.com/technology/india-pharma-ai-anthropic-coefficient-bio-drug-discovery-sun-pharma-biocon-glenmark-11775418665231.html
 
-- Vivo T5 Pro 5G India launch date confirmed: Expected price, specifications and features
-  Vivo T5 Pro 5G will be launching in India on 15th April at 12noon. The phone will be powered by Snapdragon 7s Gen 4 processor
-  🔗 https://www.livemint.com/technology/gadgets/vivo-t5-pro-5g-india-launch-date-confirmed-expected-price-specifications-and-features-11775632542323.html
+- India welcomes Iran-US ceasefire, stresses dialogue and diplomacy - The Hindu
+  India welcomes Iran-US ceasefire,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3ZhS3ROd3Qta3ZGdkQ0R2NKMFVKdlc3X3VsLTZGMkNEMjlRbEE2WmFheGIzdmwyNXlxRWdGalFZWFJ3ZVM4YzIxalM4T0RkeTBqak5xX1c4LV93Sm4tcnF0T0lJMVV5VTdUMTNjbURLOWd0azlQaXZLQlN3S01INXh6a1pMY1pBWnF6MGtvYm1aakxocUtuaVNYZ2FtTzg5bS1uZGs3WFpPMVg4RU90YlNPSVp5QdIBvAFBVV95cUxOZm9CZ1ZsXzlEMDctODlPLTRncTVwMjk4TDFWejZibHVxc084ZVlZempqX21sYlhMS2ZPWDRpdzl5ckJtQUxkYWtRbTlxQlZxMkN5UEFpMF8tV2hDRm5uT2Q0Z3RNdlhldE4zTmVXc3p0b3dvU293UmFHTUl3akJOSGpKdEtvWTh4dWdGdTdjbUcxWjg2TXNLOVhjSmNFVDZCa2ZQVkZlSlMtcDI1WGNHV2xfVmNEM3Q4UFpZaQ?oc=5
 
-- Gainers &amp; Losers: Adani Green and HDFC Bank among 9 big movers on Wednesday
-   Markets rallied after Donald Trump announced a two week pause, boosting sentiment across sectors. Nifty and Sensex surged led by banks, autos and energy.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-adani-green-and-hdfc-bank-among-9-big-movers-on-wednesday/slideshow/130114061.cms
+- "Expect Unimpeded Flow Of Commerce Through Hormuz": India On Iran Ceasefire - NDTV
+  "Expect Unimpeded Flow Of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVMyOWF3eXhJSmZ2czFXYUc2WTkzYTNRc2ZIYW80N29DUGtwcDY1WmEzM0RSbG5HUHVfTEhLZXpraFNtRU90NFoxc0tNbnpKM0V5cHA2U2lOLTN0SzdvZ2R4eHBPVjUxM2ZjS19mV25VQnFvVXlwbXRfTE43VXB2LVFfdDJJWG11VnB5V1VNUjJCeTI0NU5nYm5oWjdzYlZnNjFYNFQtdTNyUVRVeS1sblJEbUhmdkZ2aEl4TUY2SVdiOXgyZmZKMHhoUzBJMXJiNXM5d9IB3AFBVV95cUxOV3NJOGtZc1VYS1lEYUVqNDdVYlFGODVCSmM1Z3l6a1d1TllZSFJzVl81c2VZeFlXWm14a2VINmIwNWZVZVJKTEVpbWZmckgyRTQ2c1VIMTZWSWhGYUJqck1BQTlVRkNKbXRwT1ZYNThOTGdSM1p2SE4taUFDT3hPd3BzY25odktEbnJQeDg1Q0Y4V00xUnh5ZTBnVEhBaWNNcFhuTDRIWXhTYjY4S1pYVV9kaHN2bG9kbEdIclVjbk05X0xJMVFfZWVJd183ejBIWVJ6ZEU0ZHlSWlBF?oc=5
 
-- Quote of the day by John Paulson: "You don't get rewarded for taking risks, you get rewarded for buying cheap assets."
-  Investing success stems not from taking risks, but from buying undervalued assets. Seasoned investors understand that true rewards come from disciplined valuation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-paulson-you-dont-get-rewarded-for-taking-risks-you-get-rewarded-for-buying-cheap-assets-/articleshow/130102659.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures surge as Iran ceasefire drives oil prices lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-ceasefire-peace-talks-brent-crude-oil-stock-price-news/liveblog/130113532.cms
-
-- India's 10-year bond yield slumps most in four years on Iran truce, RBI policy
-  Indian bonds rallied on Wednesday, with the benchmark yield posting its biggest fall in four years. Oil prices slumped following a two-week truce between the U.S.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-slumps-most-in-four-years-on-iran-truce-rbi-policy/articleshow/130113290.cms
-
-- Adani Energy Solutions, Titan Company among 10 stocks that hit 52-week high; rally up to 15% in a month
-  Ten BSE 500 stocks, including Adani Energy Solutions and Titan Company, hit fresh 52-week highs as the broader
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solutions-titan-company-among-10-stocks-that-hit-52-week-high-rally-up-to-15-in-a-month/slideshow/130113261.cms
-
-- "Expeditiously Exit Iran": Centre Issues Fresh Advisory For Indian Citizens - NDTV
-  "Expeditiously Exit Iran":
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3VCdVRrVlBnNTkyQlNmTlNKWm93MzhSSlRZb2tnb2s2TU84T2kzMzQwa1RMaGI2VUxYblNoa1UzekVxT3cxaThwem94Sy02TWJ4RDlQbjhteWN2NGd2amVxeFVFVkZsRENjdVBSdG1JRE5uTE82RDJLaHVHVklZbWh4a3QtQTIzOGpwRVVVS1dtSWVrekozS3R1b0tXU3VVSThuTzA5c2NEaHEzN0VRZDdab9IBuwFBVV95cUxOenFCNkhPZExyQmxhU2x3aGhGWXdoX2RHSEpmNHU1TTE3Q0FoOHVLMDJ1Q3pEOTZhdHFXRmJnQ181bzlLbXE1QUJMajdYUU5vdUlsZ05sWEx1M0kzVko2OFN1N0lycWNRUm5QZ0QzTTFQaWRRam5GVW9MRG9qSndzVzlpRnhZN2owUEk1YnVfaHdkZzFMekxFYTBJVENzbEZkV1h5ZmVWZjFaWk5MM0FILUd5LU9GaG1nNW5R?oc=5
+- US-Israel-Iran War Ceasefire News Live Updates: Israeli strikes on Lebanon claim over 250 lives; Iran closes Hormuz strait as truce falters - The Times of India
+  US-Israel-Iran War Ceasefire Live Updates: over 250 lives; Iran closes Hormuz stra
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
 
 - Quiet quitting hits Indian workplaces, and managers aren’t able to stem it | India News - Hindustan Times
   Quiet quitting hits Indian workplaces, and managers aren’t able
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXlhektNM1g1Nk5SZ2c4R1A0aVljYWo1NDlYVS1rZGZ0S3VxSENNN0NPNkowRERZeGM3TmFTWElKZTFvbXk2VHU2QmsxVHBBVFNRWHc4S2czNEpEOWl6ZXNuSEdfYzNPWWc1RXFsMDlhVW5BaW90NjhmeVNRZ1hTMG5Fdi1JX0hseGVZM21GRG1pRG1vM3VSTU9zN2EyWlhCLW1RRllQUmJSaEZkbDFSbE1zU3BpR0tvbmx0UjdEYWozQUYyWk8ya0NremQ4cVdiN3fSAdcBQVVfeXFMUExVeXJ0MTBLUXVhbXNtbHNtV25UZE15aEw0QmJjZlRqNlp1WVFoYW9oTmYxckgxTVAyU1o3eXpTZEdobFVTdEs2XzBwRFVEVzVyUmFpMDZ5VUp3bmloUXo4TWxMdk1XOGM4cGpKWGxpeDY1eDVwOWxQbWw1NllzTVJsYWxkQWl2YUlIZkVBVWhYbkNvdWZlZGFHOUlrUTV2bi1JY1lrQ0ZQWVo0T2ZLUUpoRF9FVFFfZkY4cDVmamxIRVh0TWl5WE8wZ1pXY0lvaTVVUGhmd0E?oc=5
 
-- Karnataka High Court upholds ‘leave India notice’ issued to U.S. national who engaged in business activists while on tourist visa - The Hindu
-  Karnataka High Court upholds ‘leave India notice’ issued to U.S
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxOOG9VWUVyUDd5NzFlWElrbHFzYUF0X09xZThteTFpM1dLRk43MGcxaXhEQnZuanltMm1VcnA4eFEzZGMxSHBtLVVKZ1gzZE9rLVlZMjNhcVFCejlCMkdsaUpyZlVaUnNyTV8wR3VJVDFFWjJMcWh6b3BIWXdmSEdZU1B5cmZaUXlWcWlVcE9YdGIzRHVBZ3hLLUQ0emFUMC1XSXFZaVdSRnFuZkluRVdtVmVxSTctUW1SMDhkZjJuSDdsdFhiMXRKWTFNZTBiMjhvRW9jdVVWR2RjanQ0dng4YTJPUEc1SDRzREhlQ2tfa0NSaUJMUzR5cXlvZC11eEJvRFVBbkMycG9GTUVHTjl0bFIycGRzV1lZZHBFUWNoMNIBpgJBVV95cUxQRmNaMTAwXzNfNEY1MTAyV0hIdDJFX0NrZzdqZnA1S0VFNG1TV3FQUVVsU05MZk1PV3laa3dUR1pXZm9JRmlYdnFVUG00YWtZRk1PNGJ5WklXVzhFeWJWX1drdklFU1A1Rm5CTHhWZGU0bTVXS1hVZUIwTDRidC03LWlweFhSSzE4LUNGeHBYQVBONVhWalZQaEw4TkxzeDJJZDlvTllLcHBIY0ZieEdaTElzdk1mVzRDZG1McDZrWlpSY016bTR1NU43VEx1ZXU1VFA4b25EeHFqajhrZnI5RUd2Zjdwd0NZWU9OcGpyWmszaVlxVWIweFdIeERxeU0zVkphcUliaDdWSUVnOUhUWEowWlV6T3hibnJEdkdQR2NaUHhlMmc?oc=5
+- India ranked third globally in RE capacity - The Times of India
+  India ranked third globally in RE capacity.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1I5dDdLTEZnUGtaYzU3ek1pdTVRTEhUYzJUaWlld1dEU3FqbFJWcVZrdXRCYnRTdktmbDdpZmVvYnZ2TjZLcnVHMTFnQzlFc28tWldOdFItMWNiQW5Ub0dkMUpfZmxKU3FaVTJydE44dFdYa2U2UXdza1d3REhUM2EtektyY2RSTkM0RnRTVnJwTXA3SEhiYUVlV3RUTW16WkJEWk1yRGtWaWNzTG5J0gG0AUFVX3lxTE0zT3FySXp4TndMY1JOdTAtOGItSndqbWJieW5XWGJZa2hqYVVDQTRadkN3aEZsR2hmVExLeXp4ZC1DMnJyeXlNRjJGRnFHUFllWC1zTTJQT1ZuenlfWUh3R3BwV1B6em1pV0h0bVNIYTRERGtxRkhGUUxieERmU0N2S3VoTDROczhaTFF0RGVzZVdzOWF2bnVOZ2h1azJvNWdWVm9SZnFrMVBwb0xwYi05bGFJSA?oc=5
 
-- Kerala elections 2026: 5 factors that could decide the verdict - The Times of India
-  Kerala elections 2026: 5 factors that could decide
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2U4SzFoLTlPNkdhaUtNMHJ4QllITXNwZC0tLWtFT2RQeDNvU2ROc0tpYS0tcXZndU1taFhQS3Y0Z3dqRFpJNE4zNUg5NTdIZ3dLWHFaOVhiSWpvTlVmZ09odU4zdkhsNFowXzdYWFFZZ3lkdkU0NzBCTUZTMGxMNXI4UkVpdWx0NGNLYUtUUmsyT01PT2MyNDNuaEg2eUNrVkpDdjQyaV9mcGNoZjhOMkxaUjVhb1NJQjlyNURUSThCUTRiUG9DcdIBzgFBVV95cUxPcS1wc1J5eS1LOHZUOXQtX1JJTjBleVB2cnhpeFU1d3lLaWtTTHQ2RGN4MjFCRGpoQ0s0TWlpWUFIcXJBM2JiQzFWRjdXSW9BRFZaRjZBWFplRThRSUljT2JQZkxWTFNraXd1NnlkeEoteU1yM0F0VXdQYmo1TnlBbW13ZnlYQ04zYzF4ZWhXUHFBR253T0JyMkFBbmFQSzRma3VZYWcyQWdSQm5ZMWQwUGg4VHd5LUpUWjNVa3JsQlhYa3Q3Z1l3VjgtZ1JQUQ?oc=5
+- India welcomes Iran-US ceasefire, stresses dialogue and diplomacy - The Hindu
+  India welcomes Iran-US ceasefire,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3ZhS3ROd3Qta3ZGdkQ0R2NKMFVKdlc3X3VsLTZGMkNEMjlRbEE2WmFheGIzdmwyNXlxRWdGalFZWFJ3ZVM4YzIxalM4T0RkeTBqak5xX1c4LV93Sm4tcnF0T0lJMVV5VTdUMTNjbURLOWd0azlQaXZLQlN3S01INXh6a1pMY1pBWnF6MGtvYm1aakxocUtuaVNYZ2FtTzg5bS1uZGs3WFpPMVg4RU90YlNPSVp5QdIBvAFBVV95cUxOZm9CZ1ZsXzlEMDctODlPLTRncTVwMjk4TDFWejZibHVxc084ZVlZempqX21sYlhMS2ZPWDRpdzl5ckJtQUxkYWtRbTlxQlZxMkN5UEFpMF8tV2hDRm5uT2Q0Z3RNdlhldE4zTmVXc3p0b3dvU293UmFHTUl3akJOSGpKdEtvWTh4dWdGdTdjbUcxWjg2TXNLOVhjSmNFVDZCa2ZQVkZlSlMtcDI1WGNHV2xfVmNEM3Q4UFpZaQ?oc=5
 
-- India Not In Favour Of Tolls For Passage Through Hormuz: Sources - NDTV
-  India Not In Favour Of Tolls For
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTA1dWRpOWwtYlNrdy1FUUdUT0MtbzE1TTlqdTBVanNzRnJiUVJMZEhXYUZaaXA3ODYwdUptczFGblRiWHV1U0UwSDIxeXRNX3BoX3M5b3dpeEdjZ25IX0pDVnBNZmFpZEx0b2Y2bVQ4WUg4YlhsXzhoRnRLazlTb1c5NjdzOHZ6NnEzRjN4cnRfZEcwa0V3QzFYMTVmaEJObjdwTWlkemo0SURPTUhBLWxSV0LSAbwBQVVfeXFMTzFla1dLa241TjAwNktVc1VVdXNTVXMyN0lqbHE1eER4anpocENWZ2U0UVZRbll1QUZObDNvbFJLOEl2OFJLVVByS0swS3RJeHZMMkg1dmRSRmh0bE95OGhxTFV4bnlGa0ZVRExoUHZEemUyU1VNQlBBanFBTzVwNWZnY2dwcjBiMy1Jd0VsT1EwYk1nODFXczlaZURoWFhocjFZaFpWNi1mNGRGUFNULXVZbWVQUHFydmZ3MWo?oc=5
+- "Expect Unimpeded Flow Of Commerce Through Hormuz": India On Iran Ceasefire - NDTV
+  "Expect Unimpeded Flow Of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVMyOWF3eXhJSmZ2czFXYUc2WTkzYTNRc2ZIYW80N29DUGtwcDY1WmEzM0RSbG5HUHVfTEhLZXpraFNtRU90NFoxc0tNbnpKM0V5cHA2U2lOLTN0SzdvZ2R4eHBPVjUxM2ZjS19mV25VQnFvVXlwbXRfTE43VXB2LVFfdDJJWG11VnB5V1VNUjJCeTI0NU5nYm5oWjdzYlZnNjFYNFQtdTNyUVRVeS1sblJEbUhmdkZ2aEl4TUY2SVdiOXgyZmZKMHhoUzBJMXJiNXM5d9IB3AFBVV95cUxOV3NJOGtZc1VYS1lEYUVqNDdVYlFGODVCSmM1Z3l6a1d1TllZSFJzVl81c2VZeFlXWm14a2VINmIwNWZVZVJKTEVpbWZmckgyRTQ2c1VIMTZWSWhGYUJqck1BQTlVRkNKbXRwT1ZYNThOTGdSM1p2SE4taUFDT3hPd3BzY25odktEbnJQeDg1Q0Y4V00xUnh5ZTBnVEhBaWNNcFhuTDRIWXhTYjY4S1pYVV9kaHN2bG9kbEdIclVjbk05X0xJMVFfZWVJd183ejBIWVJ6ZEU0ZHlSWlBF?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: Israeli strikes on Lebanon claim over 250 lives; Iran closes Hormuz strait as truce falters - The Times of India
+  US-Israel-Iran War Ceasefire Live Updates: over 250 lives; Iran closes Hormuz stra
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- Quiet quitting hits Indian workplaces, and managers aren’t able to stem it | India News - Hindustan Times
+  Quiet quitting hits Indian workplaces, and managers aren’t able
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXlhektNM1g1Nk5SZ2c4R1A0aVljYWo1NDlYVS1rZGZ0S3VxSENNN0NPNkowRERZeGM3TmFTWElKZTFvbXk2VHU2QmsxVHBBVFNRWHc4S2czNEpEOWl6ZXNuSEdfYzNPWWc1RXFsMDlhVW5BaW90NjhmeVNRZ1hTMG5Fdi1JX0hseGVZM21GRG1pRG1vM3VSTU9zN2EyWlhCLW1RRllQUmJSaEZkbDFSbE1zU3BpR0tvbmx0UjdEYWozQUYyWk8ya0NremQ4cVdiN3fSAdcBQVVfeXFMUExVeXJ0MTBLUXVhbXNtbHNtV25UZE15aEw0QmJjZlRqNlp1WVFoYW9oTmYxckgxTVAyU1o3eXpTZEdobFVTdEs2XzBwRFVEVzVyUmFpMDZ5VUp3bmloUXo4TWxMdk1XOGM4cGpKWGxpeDY1eDVwOWxQbWw1NllzTVJsYWxkQWl2YUlIZkVBVWhYbkNvdWZlZGFHOUlrUTV2bi1JY1lrQ0ZQWVo0T2ZLUUpoRF9FVFFfZkY4cDVmamxIRVh0TWl5WE8wZ1pXY0lvaTVVUGhmd0E?oc=5
+
+- India ranked third globally in RE capacity - The Times of India
+  India ranked third globally in RE capacity.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1I5dDdLTEZnUGtaYzU3ek1pdTVRTEhUYzJUaWlld1dEU3FqbFJWcVZrdXRCYnRTdktmbDdpZmVvYnZ2TjZLcnVHMTFnQzlFc28tWldOdFItMWNiQW5Ub0dkMUpfZmxKU3FaVTJydE44dFdYa2U2UXdza1d3REhUM2EtektyY2RSTkM0RnRTVnJwTXA3SEhiYUVlV3RUTW16WkJEWk1yRGtWaWNzTG5J0gG0AUFVX3lxTE0zT3FySXp4TndMY1JOdTAtOGItSndqbWJieW5XWGJZa2hqYVVDQTRadkN3aEZsR2hmVExLeXp4ZC1DMnJyeXlNRjJGRnFHUFllWC1zTTJQT1ZuenlfWUh3R3BwV1B6em1pV0h0bVNIYTRERGtxRkhGUUxieERmU0N2S3VoTDROczhaTFF0RGVzZVdzOWF2bnVOZ2h1azJvNWdWVm9SZnFrMVBwb0xwYi05bGFJSA?oc=5
+
+- India welcomes Iran-US ceasefire, stresses dialogue and diplomacy - The Hindu
+  India welcomes Iran-US ceasefire,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3ZhS3ROd3Qta3ZGdkQ0R2NKMFVKdlc3X3VsLTZGMkNEMjlRbEE2WmFheGIzdmwyNXlxRWdGalFZWFJ3ZVM4YzIxalM4T0RkeTBqak5xX1c4LV93Sm4tcnF0T0lJMVV5VTdUMTNjbURLOWd0azlQaXZLQlN3S01INXh6a1pMY1pBWnF6MGtvYm1aakxocUtuaVNYZ2FtTzg5bS1uZGs3WFpPMVg4RU90YlNPSVp5QdIBvAFBVV95cUxOZm9CZ1ZsXzlEMDctODlPLTRncTVwMjk4TDFWejZibHVxc084ZVlZempqX21sYlhMS2ZPWDRpdzl5ckJtQUxkYWtRbTlxQlZxMkN5UEFpMF8tV2hDRm5uT2Q0Z3RNdlhldE4zTmVXc3p0b3dvU293UmFHTUl3akJOSGpKdEtvWTh4dWdGdTdjbUcxWjg2TXNLOVhjSmNFVDZCa2ZQVkZlSlMtcDI1WGNHV2xfVmNEM3Q4UFpZaQ?oc=5
+
+- "Expect Unimpeded Flow Of Commerce Through Hormuz": India On Iran Ceasefire - NDTV
+  "Expect Unimpeded Flow Of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVMyOWF3eXhJSmZ2czFXYUc2WTkzYTNRc2ZIYW80N29DUGtwcDY1WmEzM0RSbG5HUHVfTEhLZXpraFNtRU90NFoxc0tNbnpKM0V5cHA2U2lOLTN0SzdvZ2R4eHBPVjUxM2ZjS19mV25VQnFvVXlwbXRfTE43VXB2LVFfdDJJWG11VnB5V1VNUjJCeTI0NU5nYm5oWjdzYlZnNjFYNFQtdTNyUVRVeS1sblJEbUhmdkZ2aEl4TUY2SVdiOXgyZmZKMHhoUzBJMXJiNXM5d9IB3AFBVV95cUxOV3NJOGtZc1VYS1lEYUVqNDdVYlFGODVCSmM1Z3l6a1d1TllZSFJzVl81c2VZeFlXWm14a2VINmIwNWZVZVJKTEVpbWZmckgyRTQ2c1VIMTZWSWhGYUJqck1BQTlVRkNKbXRwT1ZYNThOTGdSM1p2SE4taUFDT3hPd3BzY25odktEbnJQeDg1Q0Y4V00xUnh5ZTBnVEhBaWNNcFhuTDRIWXhTYjY4S1pYVV9kaHN2bG9kbEdIclVjbk05X0xJMVFfZWVJd183ejBIWVJ6ZEU0ZHlSWlBF?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: Israeli strikes on Lebanon claim over 250 lives; Iran closes Hormuz strait as truce falters - The Times of India
+  US-Israel-Iran War Ceasefire Live Updates: over 250 lives; Iran closes Hormuz stra
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- Quiet quitting hits Indian workplaces, and managers aren’t able to stem it | India News - Hindustan Times
+  Quiet quitting hits Indian workplaces, and managers aren’t able
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXlhektNM1g1Nk5SZ2c4R1A0aVljYWo1NDlYVS1rZGZ0S3VxSENNN0NPNkowRERZeGM3TmFTWElKZTFvbXk2VHU2QmsxVHBBVFNRWHc4S2czNEpEOWl6ZXNuSEdfYzNPWWc1RXFsMDlhVW5BaW90NjhmeVNRZ1hTMG5Fdi1JX0hseGVZM21GRG1pRG1vM3VSTU9zN2EyWlhCLW1RRllQUmJSaEZkbDFSbE1zU3BpR0tvbmx0UjdEYWozQUYyWk8ya0NremQ4cVdiN3fSAdcBQVVfeXFMUExVeXJ0MTBLUXVhbXNtbHNtV25UZE15aEw0QmJjZlRqNlp1WVFoYW9oTmYxckgxTVAyU1o3eXpTZEdobFVTdEs2XzBwRFVEVzVyUmFpMDZ5VUp3bmloUXo4TWxMdk1XOGM4cGpKWGxpeDY1eDVwOWxQbWw1NllzTVJsYWxkQWl2YUlIZkVBVWhYbkNvdWZlZGFHOUlrUTV2bi1JY1lrQ0ZQWVo0T2ZLUUpoRF9FVFFfZkY4cDVmamxIRVh0TWl5WE8wZ1pXY0lvaTVVUGhmd0E?oc=5
+
+- India ranked third globally in RE capacity - The Times of India
+  India ranked third globally in RE capacity.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1I5dDdLTEZnUGtaYzU3ek1pdTVRTEhUYzJUaWlld1dEU3FqbFJWcVZrdXRCYnRTdktmbDdpZmVvYnZ2TjZLcnVHMTFnQzlFc28tWldOdFItMWNiQW5Ub0dkMUpfZmxKU3FaVTJydE44dFdYa2U2UXdza1d3REhUM2EtektyY2RSTkM0RnRTVnJwTXA3SEhiYUVlV3RUTW16WkJEWk1yRGtWaWNzTG5J0gG0AUFVX3lxTE0zT3FySXp4TndMY1JOdTAtOGItSndqbWJieW5XWGJZa2hqYVVDQTRadkN3aEZsR2hmVExLeXp4ZC1DMnJyeXlNRjJGRnFHUFllWC1zTTJQT1ZuenlfWUh3R3BwV1B6em1pV0h0bVNIYTRERGtxRkhGUUxieERmU0N2S3VoTDROczhaTFF0RGVzZVdzOWF2bnVOZ2h1azJvNWdWVm9SZnFrMVBwb0xwYi05bGFJSA?oc=5
+
+- India welcomes Iran-US ceasefire, stresses dialogue and diplomacy - The Hindu
+  India welcomes Iran-US ceasefire,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3ZhS3ROd3Qta3ZGdkQ0R2NKMFVKdlc3X3VsLTZGMkNEMjlRbEE2WmFheGIzdmwyNXlxRWdGalFZWFJ3ZVM4YzIxalM4T0RkeTBqak5xX1c4LV93Sm4tcnF0T0lJMVV5VTdUMTNjbURLOWd0azlQaXZLQlN3S01INXh6a1pMY1pBWnF6MGtvYm1aakxocUtuaVNYZ2FtTzg5bS1uZGs3WFpPMVg4RU90YlNPSVp5QdIBvAFBVV95cUxOZm9CZ1ZsXzlEMDctODlPLTRncTVwMjk4TDFWejZibHVxc084ZVlZempqX21sYlhMS2ZPWDRpdzl5ckJtQUxkYWtRbTlxQlZxMkN5UEFpMF8tV2hDRm5uT2Q0Z3RNdlhldE4zTmVXc3p0b3dvU293UmFHTUl3akJOSGpKdEtvWTh4dWdGdTdjbUcxWjg2TXNLOVhjSmNFVDZCa2ZQVkZlSlMtcDI1WGNHV2xfVmNEM3Q4UFpZaQ?oc=5
+
+- "Expect Unimpeded Flow Of Commerce Through Hormuz": India On Iran Ceasefire - NDTV
+  "Expect Unimpeded Flow Of
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVMyOWF3eXhJSmZ2czFXYUc2WTkzYTNRc2ZIYW80N29DUGtwcDY1WmEzM0RSbG5HUHVfTEhLZXpraFNtRU90NFoxc0tNbnpKM0V5cHA2U2lOLTN0SzdvZ2R4eHBPVjUxM2ZjS19mV25VQnFvVXlwbXRfTE43VXB2LVFfdDJJWG11VnB5V1VNUjJCeTI0NU5nYm5oWjdzYlZnNjFYNFQtdTNyUVRVeS1sblJEbUhmdkZ2aEl4TUY2SVdiOXgyZmZKMHhoUzBJMXJiNXM5d9IB3AFBVV95cUxOV3NJOGtZc1VYS1lEYUVqNDdVYlFGODVCSmM1Z3l6a1d1TllZSFJzVl81c2VZeFlXWm14a2VINmIwNWZVZVJKTEVpbWZmckgyRTQ2c1VIMTZWSWhGYUJqck1BQTlVRkNKbXRwT1ZYNThOTGdSM1p2SE4taUFDT3hPd3BzY25odktEbnJQeDg1Q0Y4V00xUnh5ZTBnVEhBaWNNcFhuTDRIWXhTYjY4S1pYVV9kaHN2bG9kbEdIclVjbk05X0xJMVFfZWVJd183ejBIWVJ6ZEU0ZHlSWlBF?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: Israeli strikes on Lebanon claim over 250 lives; Iran closes Hormuz strait as truce falters - The Times of India
+  US-Israel-Iran War Ceasefire Live Updates: over 250 lives; Iran closes Hormuz stra
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- Quiet quitting hits Indian workplaces, and managers aren’t able to stem it | India News - Hindustan Times
+  Quiet quitting hits Indian workplaces, and managers aren’t able
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXlhektNM1g1Nk5SZ2c4R1A0aVljYWo1NDlYVS1rZGZ0S3VxSENNN0NPNkowRERZeGM3TmFTWElKZTFvbXk2VHU2QmsxVHBBVFNRWHc4S2czNEpEOWl6ZXNuSEdfYzNPWWc1RXFsMDlhVW5BaW90NjhmeVNRZ1hTMG5Fdi1JX0hseGVZM21GRG1pRG1vM3VSTU9zN2EyWlhCLW1RRllQUmJSaEZkbDFSbE1zU3BpR0tvbmx0UjdEYWozQUYyWk8ya0NremQ4cVdiN3fSAdcBQVVfeXFMUExVeXJ0MTBLUXVhbXNtbHNtV25UZE15aEw0QmJjZlRqNlp1WVFoYW9oTmYxckgxTVAyU1o3eXpTZEdobFVTdEs2XzBwRFVEVzVyUmFpMDZ5VUp3bmloUXo4TWxMdk1XOGM4cGpKWGxpeDY1eDVwOWxQbWw1NllzTVJsYWxkQWl2YUlIZkVBVWhYbkNvdWZlZGFHOUlrUTV2bi1JY1lrQ0ZQWVo0T2ZLUUpoRF9FVFFfZkY4cDVmamxIRVh0TWl5WE8wZ1pXY0lvaTVVUGhmd0E?oc=5
+
+- India ranked third globally in RE capacity - The Times of India
+  India ranked third globally in RE capacity.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1I5dDdLTEZnUGtaYzU3ek1pdTVRTEhUYzJUaWlld1dEU3FqbFJWcVZrdXRCYnRTdktmbDdpZmVvYnZ2TjZLcnVHMTFnQzlFc28tWldOdFItMWNiQW5Ub0dkMUpfZmxKU3FaVTJydE44dFdYa2U2UXdza1d3REhUM2EtektyY2RSTkM0RnRTVnJwTXA3SEhiYUVlV3RUTW16WkJEWk1yRGtWaWNzTG5J0gG0AUFVX3lxTE0zT3FySXp4TndMY1JOdTAtOGItSndqbWJieW5XWGJZa2hqYVVDQTRadkN3aEZsR2hmVExLeXp4ZC1DMnJyeXlNRjJGRnFHUFllWC1zTTJQT1ZuenlfWUh3R3BwV1B6em1pV0h0bVNIYTRERGtxRkhGUUxieERmU0N2S3VoTDROczhaTFF0RGVzZVdzOWF2bnVOZ2h1azJvNWdWVm9SZnFrMVBwb0xwYi05bGFJSA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-04-08 13:13:55 UTC_
+_Last updated: 2026-04-08 19:12:56 UTC_
