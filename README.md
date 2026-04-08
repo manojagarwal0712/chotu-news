@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- ‘Outstanding’ appraisal, vacating govt quarters no longer a must as Odisha relaxes norms to rehire retired govt employees
+- ‘Get Lost’: Derek O’Brien says CEC Gyanesh Kumar insulted TMC delegation; ECI claps back
   
-  🔗 https://indianexpress.com/article/india/outstanding-appraisal-vacating-govt-quarters-no-longer-a-must-as-odisha-relaxes-norms-to-rehire-retired-govt-employees-10624462/
+  🔗 https://indianexpress.com/article/india/tmc-alleges-cec-confrontation-west-bengal-elections-10625215/
 
-- ‘Major relief’: Ladakh L-G approves renewal of expired land deeds
+- Express Exclusive: Assam, Meghalaya flag high tariff, refuse extra power from Subansiri
   
-  🔗 https://indianexpress.com/article/india/major-relief-ladakh-l-g-approves-renewal-of-expired-land-deeds-10624458/
+  🔗 https://indianexpress.com/article/india/assam-meghalaya-flag-high-tariff-refuse-extra-power-from-subansiri-10625170/
 
-- ‘Diminishing Parliament shows diminishing democracy’: Menaka Guruswamy defines role as MP
+- Assembly Elections 2026 Live Updates: Congress backs Pawan Khera in Himanta controversy, questions Assam CM’s claim against Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/diminishing-parliament-shows-diminishing-democracy-menaka-guruswamy-defines-role-as-mp-10624599/
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-assam-keralam-voting-tomorrow-10625016/
 
-- Kharge’s ‘venomous snake’ remark about BJP-RSS, Sarma’s jibe cap off final day of Assam campaign
+- Goa nightclub fire: Luthra brothers get bail in forgery case, set for release after earlier relief
   
-  🔗 https://indianexpress.com/article/india/kharges-venomous-snake-remark-about-bjp-rss-sarmas-jibe-cap-off-final-day-of-assam-campaign-10624579/
+  🔗 https://indianexpress.com/article/india/goa-nightclub-fire-luthra-brothers-bail-forgery-cheating-10625054/
 
-- In Assam Police FIR against Pawan Khera, charges of defamation, forgery, criminal conspiracy
+- Home Ministry’s 90-day ultimatum: States told to clear forensic backlogs as India shifts to tech-driven ‘Naveen Sanhitas’
   
-  🔗 https://indianexpress.com/article/india/in-assam-police-fir-against-pawan-khera-charges-of-defamation-forgery-criminal-conspiracy-10624454/
+  🔗 https://indianexpress.com/article/india/home-ministrys-90-day-ultimatum-states-told-to-clear-forensic-backlogs-as-india-shifts-to-tech-driven-naveen-sanhitas-10625036/
+
+- ‘Ice Age casino’: New study identifies 12,900-year-old Native American dice
+  
+  🔗 https://indianexpress.com/article/technology/science/ice-age-casino-new-study-identifies-12900-year-old-native-american-dice-10625092/
+
+- Anthropic launches Project Glasswing to test advanced AI for cybersecurity
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-project-glasswing-to-test-advanced-ai-for-cybersecurity-10625076/
+
+- How accurate are Google’s AI overviews?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-accurate-are-googles-ai-overviews-10624863/
 
 - iPhone Fold: Everything we know about Apple’s first foldable phone
   
@@ -28,17 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/netflix-rolls-out-playground-app-with-games-boosts-kids-and-preschool-shows-10623553/
 
-- ‘You’ve made history,’ Donald Trump tells Artemis II crew after epic lunar flyby
-  
-  🔗 https://indianexpress.com/article/technology/science/youve-made-history-donald-trump-tells-artemis-ii-crew-after-epic-lunar-flyby-10623291/
+- ‘Inactionable puffery’, personal jurisdiction, SEC remit: Why Adani lawyers want US bribery case dismissed
+  Gautam Adani and Sagar Adani have sought to dismiss a SEC fraud case. The case alleges they bribed officials for contracts. The Adani duo have denied any wrongdoing.
+  🔗 https://www.livemint.com/companies/adani-us-bribery-case-sec-india-motion-to-dismiss-11775623044106.html
 
-- The big bang: AI has created a code overload
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-big-bang-ai-has-created-a-code-overload-10622955/
+- Elon Musk wants to get Sam Altman removed as CEO, OpenAI calls it ‘harassment campaign’
+  Musk also said that any potential winnings he gets from the lawsuit should be sent to the OpenAI's charitable arm.
+  🔗 https://www.livemint.com/companies/people/elon-musk-wants-to-get-sam-altman-removed-as-ceo-openai-calls-it-harassment-campaign-11775622046867.html
 
-- From stress peaks to sleep efficiency: How a fortnight of biometric data revealed my real fitness baseline
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oura-ring-review-price-india-health-tracking-sleep-apnea-subscription-10622934/
+- Prestige Estates crosses  ₹30,000 crore pre-sales milestone in FY26
+  Bengaluru-based developer clocked pre-sales of  �
+  🔗 https://www.livemint.com/companies/news/prestige-estates-record-presales-fy26-bengaluru-real-estate-demand-11775617827356.html
 
 - Travel shifts could favour India amid global turmoil, says Minor Hotels founder Heinecke
   Minor Hotels is expanding in India, adapting to the growing domestic travel market. Minor Hotels aims to balance city
@@ -48,37 +60,33 @@
   KreditBee has raised $280 million in Series E funding, valued at $1.5 billion. The majority of the funds will be used to grow its lending portfolio
   🔗 https://www.livemint.com/companies/kreditbee-raises-280-million-unicorn-club-11775572959080.html
 
-- As India's hospitality market hots up, hotel chains race to flag new hotels
-  Data from hotel chains and consultancies shows at least three companies have signed over a dozen hotels this year.
-  🔗 https://www.livemint.com/companies/news/india-and-global-hospitality-hotel-management-chains-add-550-new-hotels-across-india-2025-11775549085054.html
+- Small-cap stock under  ₹50 RDB Infrastructure hits upper circuit after this order update
+  RDB Infrastructure share price surged 5% following its announcement of a solar cell manufacturing project in partnership with Samvik Power. The allocation includes 36.46 acres on a 90-year
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-rdb-infrastructure-hits-upper-circuit-after-this-order-update-11775629603621.html
 
-- Tata Trusts CEO defends action after Srinivasan, Singh accuse him of bias
-  Siddharth Sharma says he and Noel Tata felt a legal opinion was not equal to a judicial pronoucement. They decided to ask
-  🔗 https://www.livemint.com/companies/people/tata-trusts-ceo-siddharth-sharma-defends-action-after-venu-srinivasan-vijay-singh-accuse-him-of-bias-11775571241524.html
+- Vodafone Idea, Ola Electric, GTL Infrastructure— These are among the most traded stocks on NSE today, April 8, 2026
+  Vodafone Idea, Ola Electric Mobility, PC Jeweller, GTL Infrastructure, Tata Silver Exchange Traded Fund, and YES Bank were among the
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-ola-electric-gtl-infrastructure-these-are-among-the-most-traded-stocks-on-nse-today-april-8-2026-11775629329404.html
 
-- Tata's Agratas taps banks for $730 mn loans to power giga plans
-  Agratas is the latest Tata firm to close in on $1 billion funding for its project. The group’s three other new ventures Air India, Tata Digital
-  🔗 https://www.livemint.com/companies/tata-group-agratas-lithium-ion-cell-battery-bank-loan-funding-air-india-tata-electronics-11775557673142.html
+- RBI says its foreign exchange policy remains unchanged, interventions meant to curb volatility
+  RBI Governor Sanjay Malhotra said intervention in the foreign exchange
+  🔗 https://www.livemint.com/market/rbi-forex-policy-unchanged-rupee-volatility-west-asia-war-11775624853694.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 April amid US-Iran ceasefire
-  Gift Nifty was trading around 23,840 level, a premium of nearly 689 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-8-april-amid-us-iran-ceasefire-11775580489395.html
+- Adani group stocks surge up to 13% after this US court order in bribery case against Gautam Adani, nephew
+  Adani group stocks surged up to 12% today after the US District Court for the Eastern District of New York accepted a plea for pre-motion conference to
+  🔗 https://www.livemint.com/market/stock-market-news/adani-group-stocks-surge-up-to-12-after-this-us-court-order-in-bribery-case-against-gautam-adani-nephew-11775628454114.html
 
-- US-Iran war: Can crude oil price crash enable Nifty 50 to climb 25,000?
-  Market analysts predict a potential surge in Nifty 50. Will the stability in oil prices lead to a bullish market?
-  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-price-crashes-amid-us-iran-truce-hopes-can-nifty-50-hit-25-000-indian-stock-market-to-see-a-sustained-rally-11775610396913.html
+- Rate-sensitive stocks surge post RBI policy; Nifty Bank, Nifty Auto, Nifty Realty rally 5-7% each
+  Indian stock markets surged over 3.5% following a US-Iran ceasefire and falling crude prices. The RBI maintained the repo rate at 5.25%, boosting interest rate-sensitive
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-policy-rate-sensitive-stocks-surge-nifty-bank-nifty-auto-nifty-realty-rally-over-5-each-11775625705242.html
 
-- From Gift Nifty, US-Iran ceasefire to crude oil prices: 7 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,830 level, a premium of nearly 679 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-ceasefire-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11775580769169.html
+- X quietly launches Grok powered in-app photo editor that lets you edit images using only your words
+  Elon Musk's X platform has introduced an AI-powered photo editing feature using Grok AI. The feature is currently only
+  🔗 https://www.livemint.com/technology/tech-news/x-quietly-launches-grok-powered-in-app-photo-editor-that-lets-you-edit-images-using-only-your-words-11775626390810.html
 
-- RBI MPC meeting: Date, time, where &amp; how to watch Governor Sanjay Malhotra's policy address
-  RBI Governor Sanjay Malhotra is set to announce the outcome of the three-day meeting today. Check the date,
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-date-time-where-how-to-watch-governor-sanjay-malhotras-policy-address-11775610799707.html
-
-- Gold, silver rates today: Gold prices climb to $4,800, silver prices surge 7% to $76 after de-escalation in US-Iran war
-  Gold prices have dropped around 10%, and silver prices have declined over 17%. Here's the near-term outlook for both precious metals.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-prices-climb-to-4-800-silver-prices-surge-7-to-76-after-de-escalation-in-us-iran-war-11775608644366.html
+- Anthropic blocks the release of its most powerful AI model yet, launches new initative to tackle cyber threats
+  Anthropic's AI model Claude Mythos release has been put on hold by the company. The AI model is capable of discovering software vulnerabilities
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-blocks-the-release-of-its-most-powerful-ai-model-yet-launches-new-initative-to-tackle-cyber-threats-11775616657796.html
 
 - Turkey’s parliament debates a bill to restrict access to social media for children under 15
   Turkey’s parliament debates a bill to restrict
@@ -92,53 +100,125 @@
   Google said it is sharing an update on its mental health work. Google said some new changes to better connect people with the right information and resources.
   🔗 https://www.livemint.com/technology/tech-news/gemini-update-google-rolls-out-measures-for-mental-health-safety-help-available-how-it-works-all-you-need-to-know-11775573965907.html
 
-- Meity meets platforms, advocacy groups on draft IT rules tweaks; Krishnan says open to suggestions
-  Meity meets platforms, advocacy groups on draft IT
-  🔗 https://www.livemint.com/technology/meity-meets-platforms-advocacy-groups-on-draft-it-rules-tweaks-krishnan-says-open-to-suggestions-11775576849714.html
+- Oil Plunges, Stocks Jump as Iran Ceasefire Agreed: Markets Wrap - bloomberg.com
+  Oil Plunges, Stocks Jump
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnh0RWFhb0tzVXRuZGdyeHZHLXZDNlFIdXpId1hoYjNXeHpFdGlNNHBHenVQeW1VdF9QNXZ4eENkNEFscUltbDhITXhpaFhXX2tjV3dsd3FFNnZ3VWNtSHJ4RVlUbVBaenUwXzktaVNyYmpXRWFvME1yVm9GR0o0OWxzbjNWUmk5NXlSZXEwZDQyR2Ra?oc=5
 
-- OnePlus Nord 6 with 165HZ AMOLED display and 9,000mAh battery launched in India, price starts at  ₹38,999
-  The OnePlus Nord 6 has debuted in India with 9,000mAh battery, 166
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-6-with-165hz-amoled-display-and-9-000mah-battery-launched-in-india-price-starts-at-rs-38999-11775569955547.html
+- One of the Stock Market’s Last Havens Is Now at Risk - WSJ
+  One of the Stock Market’s Last
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjh1RWlBMHBQd3NJMERBaUZVRlNQTlU4MWhWMnRNSEw0cS1nOTNSckJNcXZXZGlfRjZWOWpxeFZiY25ZM2JnZ3U5WmRRTzd5VFJXaDVBamdzZ0gzanhvaVRBUG9FWjNkMm85aVpITG1jeHRBRnctSVk3Y1lSYzI0emFGSXBUdHZMaXJjRm5rMElmVEpYdm5LME50MA?oc=5
 
-- Pre-market action: Here's the trade setup for today's session
-  Stocks expected to react to the RBI monetary policy and geopolitical developments. India VIX fell 3.3% to 24.70 levels.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130099741.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex zooms over 2,800 pts, Nifty above 23,950; RBI... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihwJBVV95cUxOcUVuWkgxdk5JOXZraEM5eW83Wi1hVmw2UlJ5YS0zUG1ZWXNDc0pUcGZoVENPcHZXRmtLbG5hWjM2cVJ3T3hUQTFSejhYeFpydW8tVlNTekVQZHJOVXpJOGRqQzBQMjVIWD
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOcUVuWkgxdk5JOXZraEM5eW83Wi1hVmw2UlJ5YS0zUG1ZWXNDc0pUcGZoVENPcHZXRmtLbG5hWjM2cVJ3T3hUQTFSejhYeFpydW8tVlNTekVQZHJOVXpJOGRqQzBQMjVIWDJIeUpXWW1LcmJXaGwtdEVqV21Lalo3QkRSTDdFNnZRbWV3M3NQTGRFOTFvWXBfZi04RGZxVGpCZlVnUmp0YkFha2dEUWZnWFFFOEZUZGJ2VzRWMWVuNWl4OXp0MHNVNy05Rnlrd09Ya3dYa254QmF3LVQwdFN2TE5jZ2lVeExHemlpR0NzdWpZSlJlYk9nWm14QXpLSWJEZ1FvTXpHRdIBjAJBVV95cUxOdzRieGN4bXhtdXB4bThYamN4eDlSTDdJTEFaZk1jZ3N2Rmt4V19IV2luaEtnSk1TZUphSlpkcUN3aWgtS3A1Nko1WUdVQVlHcTA5WEx0cnFMWjBaTUxBSDBfMmxoQU5nV3N2cE1ub0tZb0hKWVJQZU1nSmRPejczVGF3M3NMV2d2dmgwSF91b0NzUFpaY2pLeWRia0FyQXBONTQ1ZEtJeUhmLUpfSHgzTE1sQWVtZjNZWm1GRDAxdUZndHA2T21CNmphYWFTY2ZKMGdGcGFBYlgxSjZvaEM2UlIwVHVnak9Dbkw1ZWtWVVFnbnh4dmZVb2NXcDNOUGxJdTJwczdKdU1LYlkz?oc=5
 
-- Stocks in news: Torrent Power, GAIL, J&amp;K Bank, Ola Electric, Vedanta, Infosys
-   Markets ended higher for the third consecutive session amidst volatility. Today's trade will focus on ceasefire developments and the MPC meeting's commentary. Key stocks in focus include Torrent Power, GAIL, J
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-torrent-power-gail-jk-bank-ola-electric-vedanta-infosys/articleshow/130099706.cms
+- South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal - CNBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUM2RTFjZk45YjA5OElmU1ZlcXkzRVRraXZERkdJTENVWGxBWXdDajVrb05sU1BWeVZNMGZTYy1COVNaVXdnVy04OEhyUVlsWjhZdGNXQnpndGx2VWp6dzk5NXBTc21INV
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUM2RTFjZk45YjA5OElmU1ZlcXkzRVRraXZERkdJTENVWGxBWXdDajVrb05sU1BWeVZNMGZTYy1COVNaVXdnVy04OEhyUVlsWjhZdGNXQnpndGx2VWp6dzk5NXBTc21INVIzc2lfZGs2bno5MTlPODU5dm8xdkFJODRBVm54TjU4OC1FcEFvU0p6T1lWUlF0YVpZaU5iem1yYzM1amJGX3M0ZTjSAbABQVVfeXFMTzBTUG9fb1NNam9RVVl2R01nNDJ6cXI2WWJfcXdLeEk3aldnVnljYktMdUc2WkRELWhrWFJNYkY4R3hub0dvb0RiUlpJaDVLMFV3WUp5c181c1lQMjJkUHRhaDVwVWJuWXY2ZW5UREJIZFJ0MElsNjRNS3U4azQyOVRWZHNDUDJ4SHhDMVpkSmVFZ1ZoSkhfbUNYelNLV3IwdXd2TnhwSmRzUy1MRTFFVEs?oc=5
 
-- Global Market Today | Oil dives, Asian stocks surge as Trump agrees to two-week ceasefire
-  U.S. President Trump announced an agreement to suspend attacks on Iran, easing fears of a prolonged conflict. Markets reacted positively to the potential for renewed energy transit and a long-term peace deal.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-dives-asian-stocks-surge-as-trump-agrees-to-two-week-ceasefire/articleshow/130099640.cms
+- AI boosts D2C delivery rates by 11% in Tier-2 markets - ET CIO
+  AI boosts D2C delivery rates by 11
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXZPLXZNS3RtYUFrOHhaeGFxdFJfQVpKb2c4ZUNLa1M0OUltLTEtNUtreE9sM1ZMZF92OG52WUFWOExEblpvRUZOTmFrZ3A0bjV2YldkQmFQbzZ3RHF0bkRpX2NrU1UyMGwxODVSbjFsUFI4T2V0ck90VldhZmdLdUJtQkNWakxiOWVjV095dUl5cXkyd0NjOE5td2dHYVhWblc1dzNocHEwdWYtVHBCUzktQy1xNEZDcnFacFVZSW5VTXRfR3BxdDlOTELSAdIBQVVfeXFMT3dDb2RNVVJfNXZaeXNOYUMwQWU5X3FSQ2I2ZlNXSmNvSktQWkdGRUZCUHN3Z0ZpX3QycmdWWkZGODBZM0Rvdm9OVUthWERaN2g0SExSck5EX1VXaEFaQlpZVEY3bVZ6dUxsaXh0S0tqcmN6OC1MWWJLTzl6VlFHdVJHNTJGbnBlZUNpWndJYmhTTnZGdUJacFkzUVBnOTV0TTEtT1h0RFI3U002WTV2WHdYOVpxd1VXYWtpZUJIUW41X1hjYmJCUGk5alplLURCWDZ3?oc=5
 
-- Market bets on Aurobindo as Europe, US sales show uptick
-  Aurobindo Pharma stock is performing well. Sales in Europe are improving. New products are launching in the US. The company is also developing weight loss drugs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-bets-on-aurobindo-as-europe-us-sales-show-uptick/articleshow/130099598.cms
+- Global Markets | Australian shares end at five-week peak on US-Iran ceasefire
+  The S&amp;P/ASX 200 index saw its biggest one-day gain in a year. Resources and financials led the rally.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-end-at-five-week-peak-on-us-iran-ceasefire/articleshow/130105621.cms
 
-- Visa's India, South Asia head Sandeep Ghosh to quit
-  Sandeep Ghosh, Visa's India and South Asia head, is stepping down after more than four years to pursue an external opportunity. His departure occurs as the payments company intensifies its focus on digital payments and regional partnerships.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/visas-india-south-asia-head-sandeep-ghosh-to-quit/articleshow/130099577.cms
+- Adani Green, Adani Enterprises, Adani Ports shares rally up to 13%. Here are 3 reasons behind Rs 1 lakh crore surge
+  Adani Group stocks surged significantly on Wednesday. This rally followed Gautam Adani's move to dismiss a US Securities and Exchange Commission civil fraud case. Adani Green Energy shares saw a substantial jump, boosted by a target price upgrade
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-green-adani-enterprises-adani-ports-shares-rally-up-to-13-here-are-3-reasons-behind-rs-1-lakh-crore-surge/articleshow/130104718.cms
 
-- 'Friendly ties with them do not land you up as part of Akhand Bharat': Pak Senator questions India-UAE ti - The Times of India
-  'Friendly ties with them do not land you up as part of Akhand Bharat': Pak
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQbFAwRHY3ZVBfcDZjTXIxWUlTTERpSkdpZWlpc0ZxMWg5WVA5LWpoU3pnY0VrTnYtRV9wYkE5bE42RVd1b0pPTm5aa19ZaFBYdmhTOWkteWxfWXBlSGNSR1FfZ1BqaXlrUHFnWjFzWl8ycURlMjhCcjhFdHNXRWwzRmVTM2RtQWd0SDVjZlRJQW5vSjJodjZ2VUJGWmQtRk92SjNYS3Nfb1dUQTQ1VEhDcXRXMEpWZDh4NXJnN0VuSHRqOTdPREcweHU2ZHRlRzZnVDMtenRSSjVPNTBobEpUWHpPb0R3YlY0QnBzOFAxS0xRMUFIdE5YbkJrSmlJZVBsc09YSjQxdkd6M1JsaGfSAZMCQVVfeXFMTTl1N1FBeHpIYnNGR2Z1VUNxdGNGN21peG5JZERKeVZ0eTFSUVRhWFRRQ05kdDNGTVRPTnZwSXpkSkV5VlkyX2l5d21veWM4NTdkNHhFVUcyQzF5VFVmOEUzMFNNRWlBS0E5VjdMZFN5M1l6c0llNG9BZXRvekFyYjZ1UjhCcVBCNE9rOHQ2V2dmYndSNWZoa0ViSThLWjh3VjFXY0tvQkZCWC04U3NyMzBXZTdnTTVNYVAzZjkwd3JnX1hha3JGMUp5WWVFakJ3QXhGQWZNaUVXaDFHdW1JSGJPa0RHZ1AxZWNqRUYxMmI1QWRZb3FyNEpyZWhkQWRYQUxobmMxOTVWd0VxZllJSnI5czg?oc=5
+- Crude may soften, but global supply challenges remain: Peter McGuire
+  Global financial markets rebounded sharply on hopes of Middle East de-escalation. While a temporary ceasefire has injected optimism, market participants remain cautious about the sustainability of this "risk-on" sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/crude-may-soften-but-global-supply-challenges-remain-peter-mcguire/articleshow/130104705.cms
 
-- 'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim amid war with Iran | India News - hindustantimes.com
-  'Saved 30 to 50 million lives': Trump repeats India-Pakistan ceasefire claim
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSHVqbTdycGs4Y0RPYmVkWjRrY1YxZS1oaUc2WlNWU05SM2RGMXduLUs5Q2NYeDVKRElOUHR1NERleFpJMnhwV1phb3UtYUhsM051Mk1BcE9RaS1vMDU3eldBbjdJeGxpZFN0a09aS01zVmZkVThlRzZ6RlNJdWIwbkhoU3NKbFZjSG5WMUFtWDF6Z3h0TloyZV9FNzJUd0ZfN1JQbG1zNjlCcFpUcVBac2hDeTdaRERkbGxtVEExbE9tbWtkQ1JvQmdGTkFqSWZZZ1pLSW5xWWY5NFhuTEpiUVQzcUhrMTBzSlZR0gHwAUFVX3lxTE03eHU2MHNTN1lTTDlsQ3FTQTlsNm8zLVVyYmdrNVhJNlM3TzdPSU01NWtTZTNJMHMxWHNXOTZobzN3blkxNzZUdEt3WTdmVVdvNWJKS0haS1JINDBmeU5YQVNDSG1zQW9KRzNSU0JlLWs1OFk2ejBGTkltOWhyZklOUm1lczdZN0JhM0NOczV3cURzNnY5eThhblFmeXppZUl2N1NCTVBRRXk0MmtwUDUzZ3M0dU5BWV9NTkg2T3hjamEwWUtqOUhCeVBwUmpTRnhLdVQ1a28tTzYxWktBS21CcHI4UndZRlF6b3c5cWZGMg?oc=5
+- Crude may soften, but global supply challenges remain: Peter McGuire
+  Global financial markets rebounded sharply on hopes of Middle East de-escalation. While a temporary ceasefire has injected optimism, market participants remain cautious about the sustainability of this "risk-on" sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/crude-may-soften-but-global-supply-challenges-remain-peter-mcguire/articleshow/130104678.cms
 
-- US Envoy Sergio Gor And Top Trump Aide Discuss US-India Commercial Roadmap - NDTV
-  US Envoy Sergio Gor And Top Trump Aide
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNuQnpDd1pOSUZqSERPbjVkZGNfVFZhVHlJVVNNRS1IQV9NMzVta0plMnNnY0pOM1dYYm11QktaS1FsTFBRMjFhMW50cDI4eG85QXpJOWliT0o4MEhwR0dpQUJsMlNzVG5KN1lsVkVlNFVwMGRkYjBOOWVfeVJkekZVbm4ycjB5YWY0S090TXJkOF9TYmFka1ZCeC1UNWxLR25pZEZEMHZ5YXI5bnhNbVFRYy01X3pSOWtCel9aVEjSAcgBQVVfeXFMTXJRN0ZMbHBZWThVM0RTQy1HUHlkR2R3b0J6OGo2UmJ3Z0IxeXRmUVFiTzIxb25UVTU4R3pMZmlZVGZEd19xSHBsaGNoRi1rWEdueWYwaUI5R2J6RDlyTl9fNUF2OXRQcmh0cjFMQWNia0h0aWdpT2M3QUNrR0FNQjJ4UGxvOVFrTGhkcTlTTkp5SzUzSXBOSWRZQm9QNHJMeTlWRTFxN0hhS1dyUkxxN2UybHVXbXZ2WFhzblUtamVqd0lNSHN5TGQ?oc=5
+- LIC share price jumps 8%. Will PSU issue bonus shares next week?
+  Shares of Life Insurance Corporation of India surged over 8% after the PSU giant said its board will meet on April 13 to consider its first-ever bonus issue. The rally comes amid broader market optimism, with the Sensex
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-share-price-jump-8-after-board-meeting-announcement-will-the-psu-insurer-issue-bonus-shares-next-week/articleshow/130104413.cms
 
-- ITBP to host 25th All India Water Sports Cluster in Uttarakhand today - News On AIR
-  ITBP to host 25th All India Water Sports Cluster in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGJfYk1uN2xBU2VrVG1EWUFaTGpDV1YwN19lVTc4ZzVYZlNGNzNlVFJYUEVkM29kbUJSczBLdm1KUWw1bVJ4LUFfQmVPdDVBOWxRUHE2dE9zYWxCeXUyTEotWk1YWWdhZ1VMdjY1YWU5ekdKUXB3SU94alp2d0ZSNnAyeHVVR01ZQUctSVYwbjdhYkM2V1FFRlhJdFZvaHdJ?oc=5
+- India’s First Fast Breeder Nuclear Reactor Reaches Criticality - bloomberg.com
+  India's First Fast Breeder
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlc4d2RmZjJwS1pNQmVsVVR4QncyeEQyVjBmMXFSa1lpNExXYzZ3VDdTREVCY053VjYwV2tuWlVHYjA4NWlqNXpMWnduRXEyZFNSclZwckc3MHJyWVZSbHFQb3BTOXFMaFdueFNZT1VKVWgxcVFOZnlBREJGNmhGYVdZbFByb19IdWh5UERPSHc4c3c0cnBuTnN4SUtDZTU3NWRTUDdCWWtWTUNldGV1VVRvYw?oc=5
 
-- Empty cylinders drive migrants back home - The Times of India
-  Empty cylinders drive migrants back home.
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUVwb0xOOXpCRHlETFI4OUJoVHVfZzBnREZvc05Ha0dCeTVaX2lDZ0RvOUR3VVd6ME40Nk80RjRoYk1RbklPUW02ODh0UVpMdFZTZFZXN255Smp6QnI4N0dPQk1ndm50bXFvWVhXa21sWHNIcWNSS3VrU2FiVTlySjdqaGxBR0JzZW5vcy1idnJERFBFZ1FnSGpRX1dFRFVlX1kwaU92WHBWYWxH0gGyAUFVX3lxTE9mODhiOWItSi04emt2WXdROHlXY3dpNXBSRHMzbXUwZjlmU3lWeDFuZjF2UElaVXBMdmd4Z3VHTnZKNWJScG93TGZOLVRFbnNKeFBaUUQ3cmhWMDVsaEpDLU1wYW1qTjlJeTlCb2VJNzFfRlNodzBJc1hodXNtekZsbll5c0JORV9YZUlnMVNzUWlldUl2eERuY1pZTzlFQUROdGsyMmpHcHlVQ2RDVy1UbkE?oc=5
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- Airport Fee Cut By 25% For 3 Months To Help Airlines Amid Iran War Costs - NDTV
+  Airport Fee Cut By 25% For 3 months To Help Airlines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdaNnMwd3hsWUd1d2JqSmRXaGpOSUt0b1FITGRCQ0k1ZmtmdTVQSkxrWFp2RERsU19UZ1NXazBjTkpkeTRpeV82TTJmYUV0LWM0WGVYenhoam5oRDl5VjdQd3RBN1UzQkk3dVNqV1hpbERsYUMyeDZGdUlQU3VLT3JxVV9uaDl6WmxhdEFwTGhEQ01fWXlGanRndHdYNC04Q0w3c0puMmVNUEZRdVRmRWhR0gG6AUFVX3lxTE1wNTAxRkxBVGN5djYwc1dyaFg5c1owUzcyYWlSQkZEa1FGbHBFMkEzeFhlN2s2V044TW40N0Q0ZTNiRlpnbUJUZTVPN3RqZE4zeHM0X0hFZ0lvbXBsSXBSNC1aVWx3amFHakdqdlFWbGFpM2Yza1ZIUnBudFpqd0VFZGtTRzVtYjM5WVpuQzY2MjNaT1ZKcE1BSGlDWFA5NHF2RVRlSTJUU1RtbHFjc0RRRkdNSXRoRFY3dw?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: India issues fresh advisory to its citizens despite two-week ceasefire - The Times of India
+  The Times of India issues fresh advisory to its citizens despite two-week ceasefire.
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- India’s nuclear leap: Why its fast breeder reactor success matters - Al Jazeera
+  India's fast breeder reactor success matters,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0ZEanNGUlNTcDhZODNGdWU4MFhXejU4RFlLNFFBRE9CMTRodkFsSWtidUJ1NzN6UzJqX0lLMnB2NUUwclpsNVNsaGktVTlnaFN1Y2ZHdldKVHIxY2FweGxZNF93a2pJeHNrTDlHNnh5OVo4T01TOEZ4bDh6S3VEcWRVazhjQmYxRE9HY3lkaHdYb1ZxS1ZMMkpPd0R6QVdnYms4eHJpY9IBrAFBVV95cUxPRmE0dWlGdkgwMTdjbDN2aWRpZW1GUHhOSTF2Qm9sOWM5Ylg1T0drNmszaG9STnA2OWZ2Z01WNEUzN3Bhc1d0ZEUyZElXXzUxdHlyMTJtY1lxdERBbmpsbDJqXzhqN2kyYnk2Z3I4cDJsZXplby1TZlJtTHVMUGhrNng1RS1tOG9KSExSRWVKVnB2NXlFWXF6bEc5VS1ra25nYVpmN0lYVWREc3p0?oc=5
+
+- India’s First Fast Breeder Nuclear Reactor Reaches Criticality - bloomberg.com
+  India's First Fast Breeder
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlc4d2RmZjJwS1pNQmVsVVR4QncyeEQyVjBmMXFSa1lpNExXYzZ3VDdTREVCY053VjYwV2tuWlVHYjA4NWlqNXpMWnduRXEyZFNSclZwckc3MHJyWVZSbHFQb3BTOXFMaFdueFNZT1VKVWgxcVFOZnlBREJGNmhGYVdZbFByb19IdWh5UERPSHc4c3c0cnBuTnN4SUtDZTU3NWRTUDdCWWtWTUNldGV1VVRvYw?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- Airport Fee Cut By 25% For 3 Months To Help Airlines Amid Iran War Costs - NDTV
+  Airport Fee Cut By 25% For 3 months To Help Airlines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdaNnMwd3hsWUd1d2JqSmRXaGpOSUt0b1FITGRCQ0k1ZmtmdTVQSkxrWFp2RERsU19UZ1NXazBjTkpkeTRpeV82TTJmYUV0LWM0WGVYenhoam5oRDl5VjdQd3RBN1UzQkk3dVNqV1hpbERsYUMyeDZGdUlQU3VLT3JxVV9uaDl6WmxhdEFwTGhEQ01fWXlGanRndHdYNC04Q0w3c0puMmVNUEZRdVRmRWhR0gG6AUFVX3lxTE1wNTAxRkxBVGN5djYwc1dyaFg5c1owUzcyYWlSQkZEa1FGbHBFMkEzeFhlN2s2V044TW40N0Q0ZTNiRlpnbUJUZTVPN3RqZE4zeHM0X0hFZ0lvbXBsSXBSNC1aVWx3amFHakdqdlFWbGFpM2Yza1ZIUnBudFpqd0VFZGtTRzVtYjM5WVpuQzY2MjNaT1ZKcE1BSGlDWFA5NHF2RVRlSTJUU1RtbHFjc0RRRkdNSXRoRFY3dw?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: India issues fresh advisory to its citizens despite two-week ceasefire - The Times of India
+  The Times of India issues fresh advisory to its citizens despite two-week ceasefire.
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- India’s nuclear leap: Why its fast breeder reactor success matters - Al Jazeera
+  India's fast breeder reactor success matters,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0ZEanNGUlNTcDhZODNGdWU4MFhXejU4RFlLNFFBRE9CMTRodkFsSWtidUJ1NzN6UzJqX0lLMnB2NUUwclpsNVNsaGktVTlnaFN1Y2ZHdldKVHIxY2FweGxZNF93a2pJeHNrTDlHNnh5OVo4T01TOEZ4bDh6S3VEcWRVazhjQmYxRE9HY3lkaHdYb1ZxS1ZMMkpPd0R6QVdnYms4eHJpY9IBrAFBVV95cUxPRmE0dWlGdkgwMTdjbDN2aWRpZW1GUHhOSTF2Qm9sOWM5Ylg1T0drNmszaG9STnA2OWZ2Z01WNEUzN3Bhc1d0ZEUyZElXXzUxdHlyMTJtY1lxdERBbmpsbDJqXzhqN2kyYnk2Z3I4cDJsZXplby1TZlJtTHVMUGhrNng1RS1tOG9KSExSRWVKVnB2NXlFWXF6bEc5VS1ra25nYVpmN0lYVWREc3p0?oc=5
+
+- India’s First Fast Breeder Nuclear Reactor Reaches Criticality - bloomberg.com
+  India's First Fast Breeder
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlc4d2RmZjJwS1pNQmVsVVR4QncyeEQyVjBmMXFSa1lpNExXYzZ3VDdTREVCY053VjYwV2tuWlVHYjA4NWlqNXpMWnduRXEyZFNSclZwckc3MHJyWVZSbHFQb3BTOXFMaFdueFNZT1VKVWgxcVFOZnlBREJGNmhGYVdZbFByb19IdWh5UERPSHc4c3c0cnBuTnN4SUtDZTU3NWRTUDdCWWtWTUNldGV1VVRvYw?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- Airport Fee Cut By 25% For 3 Months To Help Airlines Amid Iran War Costs - NDTV
+  Airport Fee Cut By 25% For 3 months To Help Airlines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdaNnMwd3hsWUd1d2JqSmRXaGpOSUt0b1FITGRCQ0k1ZmtmdTVQSkxrWFp2RERsU19UZ1NXazBjTkpkeTRpeV82TTJmYUV0LWM0WGVYenhoam5oRDl5VjdQd3RBN1UzQkk3dVNqV1hpbERsYUMyeDZGdUlQU3VLT3JxVV9uaDl6WmxhdEFwTGhEQ01fWXlGanRndHdYNC04Q0w3c0puMmVNUEZRdVRmRWhR0gG6AUFVX3lxTE1wNTAxRkxBVGN5djYwc1dyaFg5c1owUzcyYWlSQkZEa1FGbHBFMkEzeFhlN2s2V044TW40N0Q0ZTNiRlpnbUJUZTVPN3RqZE4zeHM0X0hFZ0lvbXBsSXBSNC1aVWx3amFHakdqdlFWbGFpM2Yza1ZIUnBudFpqd0VFZGtTRzVtYjM5WVpuQzY2MjNaT1ZKcE1BSGlDWFA5NHF2RVRlSTJUU1RtbHFjc0RRRkdNSXRoRFY3dw?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: India issues fresh advisory to its citizens despite two-week ceasefire - The Times of India
+  The Times of India issues fresh advisory to its citizens despite two-week ceasefire.
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- India’s nuclear leap: Why its fast breeder reactor success matters - Al Jazeera
+  India's fast breeder reactor success matters,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0ZEanNGUlNTcDhZODNGdWU4MFhXejU4RFlLNFFBRE9CMTRodkFsSWtidUJ1NzN6UzJqX0lLMnB2NUUwclpsNVNsaGktVTlnaFN1Y2ZHdldKVHIxY2FweGxZNF93a2pJeHNrTDlHNnh5OVo4T01TOEZ4bDh6S3VEcWRVazhjQmYxRE9HY3lkaHdYb1ZxS1ZMMkpPd0R6QVdnYms4eHJpY9IBrAFBVV95cUxPRmE0dWlGdkgwMTdjbDN2aWRpZW1GUHhOSTF2Qm9sOWM5Ylg1T0drNmszaG9STnA2OWZ2Z01WNEUzN3Bhc1d0ZEUyZElXXzUxdHlyMTJtY1lxdERBbmpsbDJqXzhqN2kyYnk2Z3I4cDJsZXplby1TZlJtTHVMUGhrNng1RS1tOG9KSExSRWVKVnB2NXlFWXF6bEc5VS1ra25nYVpmN0lYVWREc3p0?oc=5
+
+- India’s First Fast Breeder Nuclear Reactor Reaches Criticality - bloomberg.com
+  India's First Fast Breeder
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPRlc4d2RmZjJwS1pNQmVsVVR4QncyeEQyVjBmMXFSa1lpNExXYzZ3VDdTREVCY053VjYwV2tuWlVHYjA4NWlqNXpMWnduRXEyZFNSclZwckc3MHJyWVZSbHFQb3BTOXFMaFdueFNZT1VKVWgxcVFOZnlBREJGNmhGYVdZbFByb19IdWh5UERPSHc4c3c0cnBuTnN4SUtDZTU3NWRTUDdCWWtWTUNldGV1VVRvYw?oc=5
+
+- 'Khawateen' Group, Zakir Naik Speeches: Pak-Linked Module's India Ops - NDTV
+  'Khawateen' Group
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0Uxb2FhR21FMEdWMW84VUJOUmNYWGZOaGZxcnRFbGlzWElDUXJYSXRKaWNqRl80SVpxWWI4OHp3SFVfaEVJUWtibWZ4bnNjZGllcWVjNzNXckhnVEs4bmtNYTZjUjRTS3NFYWtNcmFvZWc5dkpCNjV2YjJYTGVWM3cyeVVWNUhoNXV0dXk5ekt6aV9wYXJhclFuRmpoS2NDV3dTUkNpbkfSAbABQVVfeXFMTUZoZjNGT3Y1aUdvWDFJUWxORnJtS3laQXBfVmR5SHFrODFmbHdWLTl3cjIydjhSWHdqMkJScC1OY3RnTDJRd19ueHVCQTE0UjlLTy0wZVdGWHZBUFpzRWlNZkRoWHZjbFlhMnNFUTAzOUppMkp2M1JaSHlFZkdvNG9OT0xsOXdCUGJwVHRUaFJuSTI5RTFaZS1neTc1ZkhRd0VZMm9sd3poSFBCYTZVaXo?oc=5
+
+- Airport Fee Cut By 25% For 3 Months To Help Airlines Amid Iran War Costs - NDTV
+  Airport Fee Cut By 25% For 3 months To Help Airlines
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxObVdaNnMwd3hsWUd1d2JqSmRXaGpOSUt0b1FITGRCQ0k1ZmtmdTVQSkxrWFp2RERsU19UZ1NXazBjTkpkeTRpeV82TTJmYUV0LWM0WGVYenhoam5oRDl5VjdQd3RBN1UzQkk3dVNqV1hpbERsYUMyeDZGdUlQU3VLT3JxVV9uaDl6WmxhdEFwTGhEQ01fWXlGanRndHdYNC04Q0w3c0puMmVNUEZRdVRmRWhR0gG6AUFVX3lxTE1wNTAxRkxBVGN5djYwc1dyaFg5c1owUzcyYWlSQkZEa1FGbHBFMkEzeFhlN2s2V044TW40N0Q0ZTNiRlpnbUJUZTVPN3RqZE4zeHM0X0hFZ0lvbXBsSXBSNC1aVWx3amFHakdqdlFWbGFpM2Yza1ZIUnBudFpqd0VFZGtTRzVtYjM5WVpuQzY2MjNaT1ZKcE1BSGlDWFA5NHF2RVRlSTJUU1RtbHFjc0RRRkdNSXRoRFY3dw?oc=5
+
+- US-Israel-Iran War Ceasefire News Live Updates: India issues fresh advisory to its citizens despite two-week ceasefire - The Times of India
+  The Times of India issues fresh advisory to its citizens despite two-week ceasefire.
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxNbDZVM19SQWNIcldTdExrbDI4ZUZpYnFvdUtIUlJKT29uX01TaVQzRlJJTEVhM3RUWXdLV3hfcWw0US1seVl1d1FfR3dERlRqWmQ4SnV2YnZ4ZHNIVTRhMnNXWExwXy0ySW1heGpnNlBkeG93WVVNRHRUeTNRR05FSXF6SW1BekNvUjJWLXV6V3g1aVRBb1ozRmN3dFdHX2hqQ25EXzBHRzBDXzd6QWdKUkdiRTNndTc0S2dvSS1maVNZcml1Vk5LMFRlTzZTc01iZmo5UlFkcHlzY2prZ3QxRFpkb2tyZ0VqRkRKSDV3YXl1bm1ua0l4aGZxd1YxX2Q0dFZEbnpkTGdjNWFDaE1xZjNTWmNyTi16NEEtR1AtMktycTVjcXdmRzMyS2s0Q1lQb1pYSjhJOFltUVdXeTRuNUxnaDd3SHZKZ2lBMXBTOG9TRUFrT0FJNnRGaUlxNC1tbWsySUVfa0IyZXBHZ0FKd3g4cXRwdEUwY0tEYUdB0gGDA0FVX3lxTE9WSjRIaFdDZG5fVU1xNzR4VFRkR1VxcTlIT1NXUElJTWVVMUM5YlFUeTY4aExvWVRyTVpMdDUxU1FvdUtSblZ0a0tlUHB5dUZvcE84OThPQjVydXVIMmpZa2drLXpqNmZpXzRBRm43M1E5MWppWFM0dHFrUGtRWmRUTE1XV211RUI5dnlHbjRuVnZ0SnVZbk5KYXlWNTRjSzI3d1dGaEY2TEV6RjRoZ2JadnZwcmJMUlhGMmlscXZUUUdZS2FobWI2VW9ZdkdqTmY0MkMteFA4cFZfaFBkQzh1NGl3M00xTlZYTFB2ekxzNEw5UXdDandmeTJRRGZIajlNR0J1eThyWWZqZ2hub3FZQng5eGhsWVdxMi1iZDlkenJ1Zkxqc0dQX2lmZWs0SUtTZHdXR0VqQks2ZmJkMkRNY2JjLVFYRXUzUXJOeVdsRG1aeWZ6VlRXV3NhQmVzdlZzLTB5YVppUTMtYVh3WUo1X0ZrSUJ6akJrWEt0UVUwSWRPMA?oc=5
+
+- India’s nuclear leap: Why its fast breeder reactor success matters - Al Jazeera
+  India's fast breeder reactor success matters,
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0ZEanNGUlNTcDhZODNGdWU4MFhXejU4RFlLNFFBRE9CMTRodkFsSWtidUJ1NzN6UzJqX0lLMnB2NUUwclpsNVNsaGktVTlnaFN1Y2ZHdldKVHIxY2FweGxZNF93a2pJeHNrTDlHNnh5OVo4T01TOEZ4bDh6S3VEcWRVazhjQmYxRE9HY3lkaHdYb1ZxS1ZMMkpPd0R6QVdnYms4eHJpY9IBrAFBVV95cUxPRmE0dWlGdkgwMTdjbDN2aWRpZW1GUHhOSTF2Qm9sOWM5Ylg1T0drNmszaG9STnA2OWZ2Z01WNEUzN3Bhc1d0ZEUyZElXXzUxdHlyMTJtY1lxdERBbmpsbDJqXzhqN2kyYnk2Z3I4cDJsZXplby1TZlJtTHVMUGhrNng1RS1tOG9KSExSRWVKVnB2NXlFWXF6bEc5VS1ra25nYVpmN0lYVWREc3p0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-08 02:00:33 UTC_
+_Last updated: 2026-04-08 07:15:39 UTC_
