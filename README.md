@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
+- How women’s self-help group’s legal battle led to scrapping of Rs 60-lakh tender in Chhattisgarh
+  
+  🔗 https://indianexpress.com/article/india/how-womens-self-help-groups-legal-battle-led-to-scrapping-of-rs-60-lakh-tender-in-chhattisgarh-10628505/
 
-- Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ - Al Jazeera
-  Three life terms for Kashmir’s Aasi
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhqcFR6S0dXdi1yd0l5aTR6VkhEMjhCand2N1pDbEpSWEZ1T3NKeHIwTUFuamR4QW1CQ3hHNHdEbzR6Vk1OUkFUcmhWV1hzUGxHRUFKcEx6SHNVS1RoVWxXbERWVUpzcy11QnUtRDJreU5DZERERmczUk03WHcwUzdWMDNKVVBpeGlpSi1WWVE3ZDdqS0d6UE90V1NvQW9RZ0RvNm5mXy15OFZkSXk0bdIBtgFBVV95cUxOaURSYU5PdlRpa2FRamdWZWxBWFpMM2hZcmtlTk5NWnhraDNtTWM3WXVFLWFjT2hMZHZRNWN3SWNBVG9mbldpdUt5N0dBbHFJcmF3UngzM1ZQc1h1Z1NwamxFaFpUbksyT2lCbVljLWdNZ0hXbkp6MFNUTGo5dklQZlB2eURHbWd6RWRnTW5BVG9OOXV6ZmhBaDBkU1ZMN1o2Wm85VDhiemhiV01zOGxiSExLYW5rZw?oc=5
+- Draft master plan: Tourism, infra push for greenfield city on Great Nicobar Island
+  
+  🔗 https://indianexpress.com/article/india/draft-master-plan-tourism-infra-push-for-greenfield-city-on-great-nicobar-island-10628644/
 
-- Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire - The Hindu
-  Two India-bound ships among a few transiting Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWUwVmJUWldoeml1VlFaWEJ1NDVSNmsybEItcVh6VVppa1o5ZUhHT0RYZzFjLWd5b2NJdTA0bzhVYTRGN3pDYnVrSVY4Z180a3ROX1ZtQU81R21vUUI3aFJZaUxsTjV3RV9GblpGWHJYUEdUUVFPZ2phWDdPcy1GaHdCTXZZQy1MTU1NZ0ROM1FQaUxFanVpVDZsczRHNjFOQXdWdTJNbUpPaTg0ZF95SU4tcUkyMXJ3QklEa0Y3enZtZUN0Yno2Z3Bab3E5cnE3cEw1cFZR0gHcAUFVX3lxTFByaFo5WVNQazNZdXpxcjR0eFBYenhoNHF0ZTZIbjlBWjB0QVJzcHdqQVlOdjlXU2FBajFDMy1UbHNWbkROSzZWd0thMVRFM3FJYjIyTE4tVjJ6Y25VMVpVT1k1Zks5NFVVbXpaU2VCWDZvU3lPM2dwQmxaQVltVVZaT2RucldqbzFKb202dDNZUkkwLTlaMl9qcFdkblpncGNDTnVhbk5PR1czaVhXYzdKTUEtcDFyRUlsNVpNMHV0Y1ZfQXU0MWZ6YmdKU3d6Qk5HZ3FrcV9ZQjZHeGc?oc=5
+- Kashmir scientists crack cultivation of rare Rs 40,000 morel mushrooms
+  
+  🔗 https://indianexpress.com/article/india/kashmir-scientists-crack-cultivation-of-rare-rs-40000-morel-mushrooms-10628552/
 
-- Illegal encroachments cleared along India-Nepal border in Bihar - The Times of India
-  The Times of India reported that illegal encroach
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTR5dkZFa01lamJMQjNseE5Yam95bTg0VktsajV1Qkk1R1FWVHUwaWF3OER1T1VKYjZsSmVrYzFjWnhTY05PblU2bmtGVS1kdXM2Y0pVajhXODk3RTlMVEhPTUZnaDFpaW9pX2c2VWV0cGMzbU1TdVc0OEV2TF9LUGw5bmN1RVI2dXhXN3U1c21vc3NoVUFsQVhZOGdtdGxFX0hQcEQxZTdxeW5WV2F6bmZGbmMzeWtjWDRhOUw2bjFsMmptbjhaNl9BUm5oMGtJSUHSAdcBQVVfeXFMTVhBTHBrLVNlc0U3R1NlTzFJQy11LUtvR0dmQUFuSzQxTGpGTWVVRkVEUEdrTGFYdzRuN09YaHJJTmh0TzJ6cjlnZVd4X2pfTTEzbW53NXp1Wk1DczFaQzFsbTMxWGJCOHpfNVZQMEFUOFBFVng2VllYUjg2Y1BGcEhZV2ZPUVVBcHBqRnFUa0dMaURyVmN2VDUxLXhTRGpfN0N6djlnQWxwVGg5ZmFGVFdfWVNncmE3U1A3TlExSmdQYnA3SkhpZjJWVVRSMmJ1UXFfN25iRTQ?oc=5
+- Record turnout in Assam (85%), Puducherry (90%); Kerala sees 78%, higher than 2021 elections
+  
+  🔗 https://indianexpress.com/article/india/record-turnout-in-assam-85-per-cent-puducherry-90-per-cent-kerala-sees-78-per-cent-higher-than-2021-elections-10628575/
 
-- Uttarakhand CM Dhami reviews Char Dham Yatra 2026 preparations - The Times of India
-  Uttarakhand CM Dhami reviews Char
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlJWTFpTGp5ZWQzN29ydkVHc3d5V0JDcnJ6OE5hX1p1Z1J3aWRhSnJmNDBIWmdBd0tMSUdudUlXc0ZxMTJRZkxmQkpmWk05aDFnQWZGSjVpd3ExcmtDUkVTSS1GTnZZVUFfbWU1MmRXQmZ3cGRSYTBYSDNpT3g3OXFFNU41Y0V1S181RDRhRDl2SnA2RU1lOWpLQjdVeW1CRlhfWk1oaVBCWFV1M29Nal9lNmRYY1FGWS1hRmVWU2EwZWZfSmJCZzBn0gHPAUFVX3lxTE15QlNpbkdRNHNDM3JIdndhQmE3ZVkyWTdBTHp1NkU4VlVNUXZuelhTei1HdUVzT0dHRWlvLWo2eHB0MlpQRkNUTjBfZ2xYNVczMkxtQzVRMFJsWmtSb2E1SmZDLVpmbkNzNWd5R2gtVzF0bkJLNkpqLWxsR0tTTU9CWXI3MHkyemlHQkZaUUJwYUlvbGlWU3kyQUJhZ1ZtOGEwQXNkaXI3elZYZE5lTXpydXpvd1pBQ2JTdE11WVJIZWRyZDlNUS1HdXhJcXBTOA?oc=5
+- Minor missing for 8 months: Delayed FIR, HC orders removal of Bokaro cop
+  
+  🔗 https://indianexpress.com/article/india/minor-missing-for-8-months-delayed-fir-hc-orders-removal-of-bokaro-cop-10628646/
 
-- US cybersecurity software stocks ​tumble after Anthropic announces it is 'scared' of launching new, power - The Times of India
-  The Times of India is an Indian newspaper. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQakM2cWdfc0swY3lqR3U1Rms1RktDQ3JNbnlfUEhPYXUyYm1icGotUmdpLW9LemZ3V1E2M2F5Q2ZUVkRBLWI0eV9zRjJKOEUxV2FqT3Zjem1tX3A2UW00VHpBcjhicjdSa3dLbWpaMHRQVzA1YTYzN2ZBNWxGREpIWjR5bDhreU5JdWZ4MlR1cnBQWmpkV3pFbzhsU1h5clJEcmRwc0ZraW9CbnFHdVAtYmh5VnJQRXpzNm9DeVdmYXpJRVdhQ2p5RTlNZ2tTT2VWTHpqTmJacnpKbWs0YlctX2lJMkJFSm1WdUFTMzg0clo4Ul9FcGlyb1hGOS1fSmNseksxaWEtU2N4ajYwZG5jcGxpbnBYNU9pbVpKMXBURy1pQdIBpwJBVV95cUxPZmtMMkNkdXF3SWl1NF9yNUMxbmo2REVDb2tSMVhfNGlBdGtfLUMydnFaUnRtZnM2bXVJWTNhZElDV2lRM0lLbWlwU1djaWd0MHJmWXUySUdWMDF6U3drdW5XVzR1MXNYLTY5WmwyNG5Ra3BwNkJuRFJ1WGdBNlBSQlhHYTB5VTN5SUpxdm9zX2tMdjdWajBrUmJnaVdwVXpVYWNLVU9EdzBzR1VUektBb1Rjc1VtRkc3ZjBZTmUwYlZrS0tIZmJia2tGa1NTVXB5Q2psWTA5UzRBNXItZmxZOGFUN2dJa2luYUNpdl9MVUVvZUZuRW44d0FreXBSckVpWTg0dENsQmQwY05KTnZ5Y2NYeDNfNVZuaGxtRFhXT2QxQk9jQjhr?oc=5
+- Tech and gadget launches today (April 09, 2026): Vivo V70 FE, Logitech PRO X2 SUPERSTRIKE, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-09-2026-vivo-v70-fe-logitech-pro-x2-superstrike-and-more-10627858/
 
-- Meta debuts new AI model in first test of costly ‘superintelligence’ team - The Guardian
-  Meta debuts new AI model in first test of costly
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWNYVHB4d1BZVTdYTTBYdXZwTGpzYmZQQndqSEs3RU9xeE5MTUNTZ0lOcUFBdFVIWEMzam1vZm51MFZzRFlpWUpUTWJ3RjlIQ1BSRzlFWVpLTFdmZ2tRazhDRkRlY3IyQlcyRmtiaVk5Z3lGVmZfWVZfdmZmcXhfUHhxLVNRVm9MM0E?oc=5
+- Why you can’t see space junk in Artemis II photos?
+  
+  🔗 https://indianexpress.com/article/technology/science/why-you-cant-see-space-junk-in-artemis-ii-photos-10627580/
 
-- Technology clinic workshop for automobile service units opens - The Hindu
-  Technology clinic workshop for automobile service units
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZwZldsNmszVDVVWEtrYlVTb1NkNGJ1T3dFUDVDTi1rMmx3ckwxMFliZHJkNDU4XzI5alFmbk52bmpvcHFyQzI3TnREUTRBNThvQ3hNeEVCTHF3dWtnb0lad2xaeEFIVi1GVEpJUWIycXNMWFZMZ3o3OXdiTHlBQW1ZNFdOeEEzMEJuSUxpTnVOZF9KWUFHVWJraV9iX1ltSmJmbEFxR0thM0UtRURrM2RkdXhOUHQ3Q2F5VDdWLThwOW5Da3Z3ZkpB0gHQAUFVX3lxTE9QMG9tM3huM0I5SkdqWkdTd0QwX1pHQm1EU0dFZmZEeE5QVzVtR2w3dGtGZHhVRDdqRWxQWXFYYW1ZQk5Ya3ZzYlEwSk13eW83XzRsOHdZMFI0b0dHRHZqZllzV3c3UkVaUUtyU2JVMDVkUVBWcmllb3l5Q3E1Wmo0ZHpTeXRZRGJyNkt5ZkhHNmE2ZnRZZ3ZYbHhkQzBPMFU5SlduOEhnTnd1YjQ5eUp5WWhvRGZzMW9GMEtUS3Y0bWxqTHd2TUhjSWNUR0EzblU?oc=5
+- WhatsApp finally rolls out usernames to boost privacy; here is how to check if you have it
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-finally-rolls-out-usernames-to-boost-privacy-here-is-how-to-check-if-you-have-it-10627399/
 
-- SiFive raises $400 million from Atreides, Nvidia for data-center chip technology - Reuters
-  SiFive raises $400 million from Atre
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSllzQnBkRFBnOW1uYzN1ajgyLUlXZ0Jra2lOMUVQbThXTXByNVBRRTdHVmxialZnRVZtdHJKUnV0cnJvOXFUejhlci15RVl4eDBQOWFqWGVMUGYyX25zdWRsRGpITXBubHoyRGQzbVdsbmhtY0lSY0QwSGJBc0VCZHEyRUIwTTJobDRfUHNjUVh2VG51VV9WTTVzNkZjMmZfc29wTUUwVEc4OVplYzZ6MFQyVnI?oc=5
+- Dyson launches HushJet Mini Cool fan, its first handheld cooling device
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/dyson-launches-hushjet-mini-cool-fan-its-first-handheld-cooling-device-10627246/
 
-- India’s State-led Initiatives in Quantum Technology - orfonline.org
-  India’s
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXVqVlI3cC1CdkNqZHFmYXdJZG44cHl0TjZfTXVMS000SExnSFpPQVBSVEh6NHpURmx4c2JNYkIxTnFZYzlYakdrZERzTVF5Wk1wNkdqaHFWMXpZdktTUUZqcW5zLUhpOU53Rjdjd0pRUnUtcEg0WEpIa0NPaEp6NlVKWlNGNGI0WWFmUjhKaVBNa05x?oc=5
+- Meta unveils new AI model as it tries to catch up with Google and OpenAI after spending billions
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-unveils-new-ai-model-as-it-tries-to-catch-up-with-google-and-openai-after-spending-billions-10627005/
+
+- upGrad sees senior exits amid Unacademy integration, IPO plans
+  Ronnie Screwvala-promoted group’s chief financial officer (CFO), Venkatesh Tarakkad, and
+  🔗 https://www.livemint.com/companies/news/upgrad-sees-senior-exits-amid-unacademy-deal-ipo-plans-11775734314891.html
+
+- Live Nation antitrust trial nears end as lawyer for 34 states labels the concerts giant a monopolist
+  Live Nation antitrust trial nears end as lawyer for 34 states
+  🔗 https://www.livemint.com/companies/live-nation-antitrust-trial-nears-end-as-lawyer-for-34-states-labels-the-concerts-giant-a-monopolist-11775766139535.html
+
+- UBS Won’t Release Nazi Accounts Settlement Files Sought by Investigator After Court Setback
+  UBS Group AG says it won’t hand over a stash of privileged documents for a probe into Credit Suisse’s handling of Nazi-linked accounts
+  🔗 https://www.livemint.com/companies/ubs-won-t-release-nazi-accounts-settlement-files-sought-by-investigator-after-court-setback-11775761770261.html
 
 - TCS logs first annual revenue decline since listing despite Q4 recovery
   TCS reported a 0.5% decline in full-year revenue in dollar terms to $30.08 billion. In the fourth quarter, revenue grew 1.5%.
@@ -48,37 +60,29 @@
   Maryland settles with owner and operator of ship that
   🔗 https://www.livemint.com/companies/maryland-settles-with-owner-and-operator-of-ship-that-crashed-into-bridge-causing-deadly-collapse-11775756840808.html
 
-- Lufthansa cabin-crew strike on Friday: Why are they staging walk-out and how will it affect flight operations? Explained
-  Lufthansa faces a cabin crew strike on 10 April. The strike is expected to affect several German airports, including Berlin and Hamburg.
-  🔗 https://www.livemint.com/companies/lufthansa-cabin-crew-strike-on-friday-why-are-they-staging-a-walk-out-how-will-it-affect-flight-operations-explained-11775743153972.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 April
+  Gift Nifty was trading around 23,942 level, a premium of nearly 81 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-10-april-11775785194292.html
 
-- Why India’s hotel demand will outpace supply, but Sarovar won’t rush to sign everything
-  Sarovar Hotels is targeting growth in India's hotel sector. The company is adapting to mixed-use developments while addressing talent shortages.
-  🔗 https://www.livemint.com/companies/news/why-india-s-hotel-demand-will-outpace-supply-but-sarovar-won-t-rush-to-sign-everything-11775721074140.html
+- From Gift Nifty, Iran war, US GDP to Nasdaq, Nikkei rally: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,941 level, a premium of nearly 80 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-us-gdp-to-nasdaq-nikkei-rally-10-key-things-that-changed-for-indian-stock-market-overnight-11775783647380.html
 
-- Food and fuel on the go: BYD and KFC join hands for 'nine-minute' drive-thru EV charging stations in China
-  China's electric vehicle maker BYD is now collaborating with American fast-food giant KFC
-  🔗 https://www.livemint.com/companies/news/food-and-fuel-on-the-go-byd-and-kfc-join-hands-for-nine-minute-drive-thru-ev-charging-stations-in-china-11775741313048.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 10 April 2026
+  The Indian stock market ended Wednesday's session with sharp gains. Sumeet Bagadia
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-april-2026-11775748136727.html
 
-- Wall Street rallies as ongoing Middle East peace negotiations boost sentiment
-  Wall Street rallies as ongoing Middle East peace negotiations boost
-  🔗 https://www.livemint.com/market/wall-street-rallies-as-ongoing-middle-east-peace-negotiations-boost-sentiment-11775760104813.html
+- Stocks to trade: Raja Venkatraman recommends five stocks for 10 April
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-recommends-five-stocks-for-10-april-11775748799692.html
 
-- Can FPIs return to Dalal Street soon? Nithin Kamath outlines the roadblocks
-  Zerodha co-founder Nithin Kamath flagged multiple structural concerns that could be dampening foreign investor interest in India. Kamath, citing feedback from an
-  🔗 https://www.livemint.com/market/stock-market-news/can-fpis-return-to-dalal-street-soon-nithin-kamath-outlines-the-roadblocks-11775749959530.html
+- Is this smallcap stock Madhusudan Kela’s next big bet?
+  The veteran investor has bought a stake in Simplex Infrastructures
+  🔗 https://www.livemint.com/market/stock-market-news/is-this-smallcap-stock-madhusudan-kela-s-next-big-bet-11775739881913.html
 
-- Gold, silver rates today: Comex gold jumps $25/oz; silver near $75.4 amid US-Iran ceasefire uncertainty
-  Gold futures rose slightly, while silver prices held steady. Market reactions reflect uncertainty over a recent ceasefire, with investors awaiting crucial economic data.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-25-oz-silver-near-75-4-amid-us-iran-ceasefire-uncertainty-11775745445523.html
-
-- TCS records first-ever drop in dollar revenue growth in FY26: Report
-  TCS's dollar revenue declined for the first time, attributed to reduced client spending and a challenging market environment. It reported rupee revenue growth of 5.
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-records-first-ever-drop-in-dollar-revenue-growth-in-fy26-report-11775743462571.html
-
-- Wall Street edges higher on optimism over Middle East truce’s stability after Israel agrees for talks with Lebanon
-  The S&amp;amp;P 500 rose 0.6%, the Dow Jones Industrial Average was up
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-stock-indices-muted-on-concerns-over-fragile-middle-east-ceasefire-11775741244414.html
+- Elon Musk says WhatsApp's end to end encryption can't be trusted, Mark Zuckerberg's company calls it ‘absurd’
+  Elon Musk criticized WhatsApp, stating that the can't be trusted amid a class action lawsuit. The billionaire also encouraged users to switch to X Chat for an encrypted chat
+  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapps-end-to-end-encryption-cant-be-trusted-mark-zuckerbergs-company-calls-it-absurd-11775782805747.html
 
 - Indias 5G consumers will reach over a billion by 2030: Jyotiraditya M Scindia
   The Minister highlighted that India became the second-largest mobile phone producer globally. India will have more than a billion users of 5G by the year 2030.
@@ -96,149 +100,153 @@
    Meta also released Contemplating mode, which runs multiple AI agents in parallel to boost reasoning power. Muse Spark can take on the extended thinking modes of
   🔗 https://www.livemint.com/technology/meta-unveils-first-ai-model-from-costly-superintelligence-team-11775665071090.html
 
-- How to use Google Gemini's new AI shopping features in India: Check step-by-step guide
-  Google has introduced new AI shopping features in India across the Gemini app, AI Mode in Search, and Circle to Search. Users can shop more efficiently with seamless transitions,
-  🔗 https://www.livemint.com/technology/tech-news/how-to-use-google-geminis-new-ai-shopping-features-in-india-check-step-by-step-guide-11775576244400.html
-
-- Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates - CNBC
-  Stocks gain for a second day on hope Iran ceasefire can be
+- Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026 - CNBC
+  CNBC: Stocks extend relief rally on hopes that U.S
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE45WmdlR0FzS1JSRUNoVkFrRjFYRlU1RFVJMUR0Q2dBbE9CeHd1b0JjQkt3bkxpWldnMkRJZ0VkRUZtUFhVd2doUk5LeVk4cWdMRkxZVFdxNXR1NEtRSlUzdkVFSWhsdjR5SFJUMnRQSHQza3ZfUjZn0gF8QVVfeXFMT05BeThfRHFSVWpDOTFMWTdINkplZ1F4NUpsbkN6Z0ZvREhNcnl4aGszSzJVbWg2enZHdllDaE5CVGtkRExqTm1lU01OQUVMeDFFTExoNXM2S090NjlMSVFqOS1QREhpTDRyalUwSktSX1hMeXU0RldTYkZkRQ?oc=5
 
-- Stocks Fall as US-Iran Doubts Push Up Oil Prices: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVJHUFZWMU9xUGhyNVlHWnd3eTB1OVJWTFFPUDJIOVdOTXN4QWRfc3IyZFV6T0lKQTFJNkVkVFlwQ3pISGlrY3N1MGNWajdsbWNtSEVSdjBLVGw0MlhVV0xoT1h0R05neTdLekNYb1pMY2xLSVBBM1FncnNvUzAzdno2OVFuT3ZQQVV1SFNSQ1lKZ0dk?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Highlights: US stocks end higher as Middle East peace talks li... - The Economic Times
+  US stocks end higher as Middle East peace talks li...
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxQSUg1bTJRdkVpcWV2UUhSQ0JXLUxkdVhnOGNicHhZM3Q0bkRpUUhSNnhYVGxLMzhXT0N2MXE4UmhuLWh0NHNDVUhlRmxDVkdiOHBIM0pJc09NWWt5T05wVG9qakVRSGZEVTlmNnl3UlM0QWplSl9TeUJScXkydnNhcTRyVm1ORkVhYzhoTlJuSUxMbVFwSDM3a3d3b24zb3ZHMHNFbHphQ0lFSGZhOC1FbVU5eGJwMElBdGJlekx0MTl0aXVJeDZuajIzOXVNMnNwNWhUTjFrRjE5dFBmcTZWODNhRkJwSTJoS21QRHVJaFFQSUVVMHJUYm5WWUhKaFFETWRUT0ZZTlZOUnlLYldIbVp1a3NuQWNVR21HdTVhbC1DOGprc0ZvWi1FcVQ0LVnSAbQCQVVfeXFMTXFMenhfSGlpeDdsaTI5X3ktVVQwaEczYUhjTmxLWTJPdGJ5cjA5bzUxOUtxTE1aVFRVQ2l5dnhMRGJYZHZlQ3NtYlVQbXZ6ZFNIQmQyMzVoNVV4dGFPN0NfSkszQ0JJTnFnOHMzQTJzU3NPT1c2R0k0VndOVGplbGxqSnN1dWMyY2ZKX01kTHFNVlBDUE13WjJNWWotakxTczM0MzdzaU1VUnVoSE5uQVRtSW1LOXdHWkVtcWZLSzZaWHhGa3hjbWR4NjUtUURZaW5WTUJvall5Z1NhLWh0VU1TbUc2ZVJfUDlSTjQzQUlfMDBOOTRpZExrOHRRS2RieGdoRlYyUEJXbjdzZHBpbnFTNVBXaUg5VE0yOUJVdjhhNHllTElQTldoMkR4TXZCR3pBZ2E?oc=5
 
-- Stock Market Today: Major Indexes Advance, Oil Pares Gains as Netanyahu Says Israel Will Begin Direct Negotiations With Lebanon - Investopedia
-  Netanyahu Says Israel Will Begin Direct Negotiations With Lebanon.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEZPck80UVdFNzJYU1h1NmtwT0trNDNvbmJabXhDcVRSWG1pd2VUVG5SOHV2VTBoYVB3aGEteDVVZVI5a2pwSmEzclJFdGdUenF3YkotdW9zMVBQekVQa0FEdXN1RkVvLUhoQncyTWgxME56NlFaajBSYWRZWFV1ajR0UzJNQWNlZnIta1V6M2g?oc=5
+- Gold, Silver Rate Today Live Updates: Gold prices rise in international markets; where are the headed in near-term? - The Times of India
+  Gold, Silver Rate Today Live Updates: Gold prices rise in international markets; where are the headed
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObzNtZTRGemt5bnIyT2xqWFRUU2FESzZGbEU2ZFV5WU5ZTHE5cE1WN3Y5ajFXZ094VXhrYWQzTmFxZGZ4MVlsc3E1QkpHZjFHa0w2WDU4MUVmWGFMSXhUZklkZXNLUnhyanlkbWpOcVFXTzl4Z2VWWENsWklrbk51c2s4dFAya0l5OWJpUFVpbUVxeU9SaW8yRzlmS19KRWVzM2d5S3J1RnNHWnFoUlJEUEtYaFNrREhCTm92My1udWdPZjByWU5NM2hKUGtfLWt2US1JM01Dc1c4eHZMQ3UxOVlXLWk2eUN2YXVOOGJrXzVoTjAwcUdvR24zWnR3bUFRbU9RdmdSdl9nLUNOWFAyNHduOTJEb1d4MVhxVWFBaGhkWkU0VXRqU29SYjU5eTJsQjdVZzVIN0hVTEhEZmFVTlptcUJtb3dXcVNVLUZjMnFKUEZZb1lzYnYyQlZLcVZ1ZTFFRENn0gHrAkFVX3lxTE9JVnpRcm5OLUpzMmNLNk13NGJmVEZQWlBFQUk4QjZWeFA1UWlXeVBPbjNQalBTQVVRMGhNckxIQzlQSUZuMkJ6cnZORDMxako2V1lsMDI5d1RDWE5xSnFBRnV4cHJ6dFdaSXpQREZmUTRRa0RWOTFGV3pUTk9ZNlhVd21nejhRM1l2cUVCWVhVb25QeTZyajN5TktnR002N0J0Tl9wd1d2Rm85WWlkd01QUGtEUkk5SWJFLWczWGRuRnVEWl9NVmltS3pXU3Rsd2padDQzWjZnMGZxVHJ6ZHAwQl91ZHk3VlVkblNJSVRjeFpmc3JJNk1PZmdTYkM2bkdNcnQ0NkZkY1BldVFIci1hcmt3Z19NUXdGcEtyMEstZHh4N0t5STU3cnlPWGI1MjExWmN0cHExSWQweDU1ZjY5Qld3dVdISVR0SGk3b2xpa3VFTUtNUEViZG8ycllZQ00xcnhleUdiU2VNMA?oc=5
 
-- Stock Market, Sensex Today: Sensex Drops 931 Points, Nifty Down 222 As Oil Prices Surge - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzFmMnJQT2JDaXpVRFF5SzRST29UcFB3ZGdZbl9mc1pybk80MFlSVnVMMHFNb05QUnBjZzVWeGdiQVlEZ29YT3FReVpST0pkSkZ1OXo2d1cycjEyNnBObVA5RldIa0JBaD
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzFmMnJQT2JDaXpVRFF5SzRST29UcFB3ZGdZbl9mc1pybk80MFlSVnVMMHFNb05QUnBjZzVWeGdiQVlEZ29YT3FReVpST0pkSkZ1OXo2d1cycjEyNnBObVA5RldIa0JBaDVZcXpwVmJ6S1ZhNjQzOGJHT2ZHTzR1RU44MlN2eFZIRjNsUnZqbHMzNGFodUhzeV9YaFdITW1WVXJRcWFYTlRmSlBVWXJjYWVHSlhMOVNMejN0bWdlM2hHRHBfV1NnS2dPV3puYlhOcTIzZEdDZ9IB3wFBVV95cUxQZTNIZkduTGJiTmx0Z2k4TFhCeW1Yd0JPWUtBUDhFXzJMaldCcW9FcWNpTFh2WHY0TmtyQlR3T0NBZHNNQ05IYlpDcHk2dC1QSXQzV1FVdkNYV0xJSnl1bm1aWVJveEcyalVlRUN5cnNOVl9NcEx6NFpPVFN0Vk1oalV0QXA0X25YdEJ0Z1d1a0czYmp2emw3SlJFRVgyNnloNVVxZm1kWGo3a1pubkt6SS0wTjdleDU0d1VhYUE5ZF9rX1VMUGp5TWJGTE5VdW00WjY4QmdZdENZTU5YQW0w?oc=5
+- China’s Money Market Signals Cash Glut, Weak Loan Demand - Bloomberg.com
+  China’s Money Market Sign
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTVuTmJqclR0RlRjcU9KX1psMjRLS1Y1QllVbHVyMXp6eV8yLTlHWG5PV1FxSGkxSE8tN21BZGN0ODh6ZFdFdzV1M1N5R0NNai1BcjVfWkREVXlFSW5lUkd6dFlvZ2lVRU9hM1gxV0l2cnlzaEZPcW1IYTVUTkgxeXczTHhBU1ZNUnlMV2xiaVozTk4xYXdXODdhcXQ1bTJMWGlMbkVkTWFRUQ?oc=5
 
-- Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise - The Guardian
-  Strait of Hormuz not open, Abu Dhabi’
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb3Nqb2dnNDNvTk1RUzNpanZobDNpZTdZdThhOXRGcGxUZlhXb19mUDM3YjM1M0hVMmdvUkg5WTJuWlhDajM4Zm51Yy1TZm94Q1N4VEZsbkVEcFBKZmZfY1l1amZRRFFSZWgteU14OFU2bFVEVHQwT0ROUnlrUDVtV3I4emlMN2dDck02d2VORG9LOEhkNkN1OUd2eUd0OThEc3hObllQdU9XUEZQVWlzYmp2blZCVUIyeDJZN0VPNzdWS0U?oc=5
+- West Asia conflict: Energy market turmoil could linger for months - The Indian Express
+  The Indian Express reports on the West Asia conflict.
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWVyYnJKOUdDMjhwN1lfM2VCbHNkUkxIRHUxU3d6cExnR214c3o2LW9JeWh0c0ZjQXJfUEhJQlMyTEpWZ0Jfb2VRZkRZR0dSa2VlTHhRcHRPcVI0bjNLM0NudU0wdTVCdlBlR1gzS2VucG5xVHpKSjJyR2NmRFd1SHFEOTVpVWxYZ3Bjd0NCV3JfanFWanlNM3NpOHRFYzl2dGtLdVRVQlVGelluMl9vb1pGRFhtQUJoWEHSAcABQVVfeXFMTUlIYTZqVGdIQ3RIdFZEak5MX2g1NXZ2UXZxM1lTR2hCUWhuVlBndmd0WGxqbkFFNExtby1DRzNrTVhDVkFlTERJNU1rWjQtdDZwazJRQ2JpMEIzemhTM0xaVGRObm0wNDd3OVpyVXFBLU1sWHlpZVhHcFdJZXFJZDVoZWJLZllUWHVpZk44UTR6S0Zva1UwajFqU3dtdDZwNW5DeWN5SEUzVDBWWnkzcWYtSVc0TmJjU25sZFR0YkNZ?oc=5
 
-- Paramount seals debt commitments backing Warner Bros deal
-  Paramount Skydance has secured financing for its acquisition of Warner Bros Discovery, aligning with a consortium of banks for permanent funding. This development paves the way for a major step towards finalizing the agreement
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/paramount-seals-debt-commitments-backing-warner-bros-deal/articleshow/130150929.cms
+- Oil prices rise after strikes on Saudi oil facilities
+  Oil prices climbed Friday following attacks on Saudi energy infrastructure and concerns over the Strait of Hormuz closure. Attacks have significantly impacted Saudi output and refining capacity, creating a measurable supply shock.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-after-strikes-on-saudi-oil-facilities/articleshow/130156602.cms
 
-- Amazon CEO reveals AI revenue, dismisses spending doubts in annual letter
-  Amazon's cloud division has reached a remarkable milestone, raking in more than $15 billion each year from its AI offerings. The company's custom chip sector is thriving, boasting annual revenues exceeding $20 billion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-ceo-reveals-ai-revenue-dismisses-spending-doubts-in-annual-letter/articleshow/130150782.cms
+- Global Market Today: Asian stocks edge higher amid fragile Middle East ceasefire
+  Asian stocks saw a modest gain as investors remained cautious amid a shaky Middle East ceasefire ahead of US-Iran talks. Market sentiment hinges on the ceasefire's durability and smooth oil flows.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-higher-amid-fragile-middle-east-ceasefire/articleshow/130156477.cms
 
-- American Airlines set to resume US flights to Venezuela as soon as April 30
-  American Airlines plans to resume daily flights between Miami and Caracas from April 30, 2026. The service will be operated by its regional unit Envoy using Embraer 175 aircraft. This marks the first U.S. commercial airline
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/american-airlines-set-to-resume-us-flights-to-venezuela-as-soon-as-april-30/articleshow/130150576.cms
+- TCS Q4 net profit jumps 12% to Rs 13,718 crore on strong deal wins, weak rupee
+  TCS reported a 12% net profit rise to ₹13,718 crore in Q4. The company saw strong AI revenue growth, crossing $2.3 billion, and secured significant deal wins.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q4-net-profit-jumps-12-to-rs-13718-crore-on-strong-deal-wins-weak-rupee/articleshow/130156439.cms
 
-- Oil price surges back above $100 mark as supply concerns outweigh Iran ceasefire
-  Oil prices surged back above $100 a barrel as market sentiment shifted from de-escalation optimism to caution. Despite a US-Iran ceasefire, shipping through the Strait of Hormuz remains
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-surges-back-above-100-mark-as-supply-concerns-outweigh-iran-ceasefire/articleshow/130148978.cms
+- XED withdrawal a jolt to listing hub hopes of GIFT City
+  XED Executive Development withdrew its IPO after failing to attract enough bids. Experts suggest changes to boost IPO success in Gandhinagar's international finance centre.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/xed-withdrawal-a-jolt-to-listing-hub-hopes-of-gift-city/articleshow/130156395.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Nifty 50 and BSE Sensex ended lower, dragged by financial, auto, and FMCG stocks. Analysts see near-term consolidation,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/130148328.cms
-
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
-
-- Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ - Al Jazeera
-  Three life terms for Kashmir’s Aasi
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhqcFR6S0dXdi1yd0l5aTR6VkhEMjhCand2N1pDbEpSWEZ1T3NKeHIwTUFuamR4QW1CQ3hHNHdEbzR6Vk1OUkFUcmhWV1hzUGxHRUFKcEx6SHNVS1RoVWxXbERWVUpzcy11QnUtRDJreU5DZERERmczUk03WHcwUzdWMDNKVVBpeGlpSi1WWVE3ZDdqS0d6UE90V1NvQW9RZ0RvNm5mXy15OFZkSXk0bdIBtgFBVV95cUxOaURSYU5PdlRpa2FRamdWZWxBWFpMM2hZcmtlTk5NWnhraDNtTWM3WXVFLWFjT2hMZHZRNWN3SWNBVG9mbldpdUt5N0dBbHFJcmF3UngzM1ZQc1h1Z1NwamxFaFpUbksyT2lCbVljLWdNZ0hXbkp6MFNUTGo5dklQZlB2eURHbWd6RWRnTW5BVG9OOXV6ZmhBaDBkU1ZMN1o2Wm85VDhiemhiV01zOGxiSExLYW5rZw?oc=5
-
-- Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire - The Hindu
-  Two India-bound ships among a few transiting Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWUwVmJUWldoeml1VlFaWEJ1NDVSNmsybEItcVh6VVppa1o5ZUhHT0RYZzFjLWd5b2NJdTA0bzhVYTRGN3pDYnVrSVY4Z180a3ROX1ZtQU81R21vUUI3aFJZaUxsTjV3RV9GblpGWHJYUEdUUVFPZ2phWDdPcy1GaHdCTXZZQy1MTU1NZ0ROM1FQaUxFanVpVDZsczRHNjFOQXdWdTJNbUpPaTg0ZF95SU4tcUkyMXJ3QklEa0Y3enZtZUN0Yno2Z3Bab3E5cnE3cEw1cFZR0gHcAUFVX3lxTFByaFo5WVNQazNZdXpxcjR0eFBYenhoNHF0ZTZIbjlBWjB0QVJzcHdqQVlOdjlXU2FBajFDMy1UbHNWbkROSzZWd0thMVRFM3FJYjIyTE4tVjJ6Y25VMVpVT1k1Zks5NFVVbXpaU2VCWDZvU3lPM2dwQmxaQVltVVZaT2RucldqbzFKb202dDNZUkkwLTlaMl9qcFdkblpncGNDTnVhbk5PR1czaVhXYzdKTUEtcDFyRUlsNVpNMHV0Y1ZfQXU0MWZ6YmdKU3d6Qk5HZ3FrcV9ZQjZHeGc?oc=5
-
-- Illegal encroachments cleared along India-Nepal border in Bihar - The Times of India
-  The Times of India reported that illegal encroach
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTR5dkZFa01lamJMQjNseE5Yam95bTg0VktsajV1Qkk1R1FWVHUwaWF3OER1T1VKYjZsSmVrYzFjWnhTY05PblU2bmtGVS1kdXM2Y0pVajhXODk3RTlMVEhPTUZnaDFpaW9pX2c2VWV0cGMzbU1TdVc0OEV2TF9LUGw5bmN1RVI2dXhXN3U1c21vc3NoVUFsQVhZOGdtdGxFX0hQcEQxZTdxeW5WV2F6bmZGbmMzeWtjWDRhOUw2bjFsMmptbjhaNl9BUm5oMGtJSUHSAdcBQVVfeXFMTVhBTHBrLVNlc0U3R1NlTzFJQy11LUtvR0dmQUFuSzQxTGpGTWVVRkVEUEdrTGFYdzRuN09YaHJJTmh0TzJ6cjlnZVd4X2pfTTEzbW53NXp1Wk1DczFaQzFsbTMxWGJCOHpfNVZQMEFUOFBFVng2VllYUjg2Y1BGcEhZV2ZPUVVBcHBqRnFUa0dMaURyVmN2VDUxLXhTRGpfN0N6djlnQWxwVGg5ZmFGVFdfWVNncmE3U1A3TlExSmdQYnA3SkhpZjJWVVRSMmJ1UXFfN25iRTQ?oc=5
-
-- Uttarakhand CM Dhami reviews Char Dham Yatra 2026 preparations - The Times of India
-  Uttarakhand CM Dhami reviews Char
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlJWTFpTGp5ZWQzN29ydkVHc3d5V0JDcnJ6OE5hX1p1Z1J3aWRhSnJmNDBIWmdBd0tMSUdudUlXc0ZxMTJRZkxmQkpmWk05aDFnQWZGSjVpd3ExcmtDUkVTSS1GTnZZVUFfbWU1MmRXQmZ3cGRSYTBYSDNpT3g3OXFFNU41Y0V1S181RDRhRDl2SnA2RU1lOWpLQjdVeW1CRlhfWk1oaVBCWFV1M29Nal9lNmRYY1FGWS1hRmVWU2EwZWZfSmJCZzBn0gHPAUFVX3lxTE15QlNpbkdRNHNDM3JIdndhQmE3ZVkyWTdBTHp1NkU4VlVNUXZuelhTei1HdUVzT0dHRWlvLWo2eHB0MlpQRkNUTjBfZ2xYNVczMkxtQzVRMFJsWmtSb2E1SmZDLVpmbkNzNWd5R2gtVzF0bkJLNkpqLWxsR0tTTU9CWXI3MHkyemlHQkZaUUJwYUlvbGlWU3kyQUJhZ1ZtOGEwQXNkaXI3elZYZE5lTXpydXpvd1pBQ2JTdE11WVJIZWRyZDlNUS1HdXhJcXBTOA?oc=5
+- GIFT Nifty up 70 points; here's the trading setup for today's session
+  Near-term support might come from easing tensions and stable oil prices. However, a sustained recovery depends on the US-Iran situation, energy prices, and liquidity.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130149114.cms
 
 - India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
   India Looks on Warily as Pakistan Hailed
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
 
-- Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ - Al Jazeera
-  Three life terms for Kashmir’s Aasi
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhqcFR6S0dXdi1yd0l5aTR6VkhEMjhCand2N1pDbEpSWEZ1T3NKeHIwTUFuamR4QW1CQ3hHNHdEbzR6Vk1OUkFUcmhWV1hzUGxHRUFKcEx6SHNVS1RoVWxXbERWVUpzcy11QnUtRDJreU5DZERERmczUk03WHcwUzdWMDNKVVBpeGlpSi1WWVE3ZDdqS0d6UE90V1NvQW9RZ0RvNm5mXy15OFZkSXk0bdIBtgFBVV95cUxOaURSYU5PdlRpa2FRamdWZWxBWFpMM2hZcmtlTk5NWnhraDNtTWM3WXVFLWFjT2hMZHZRNWN3SWNBVG9mbldpdUt5N0dBbHFJcmF3UngzM1ZQc1h1Z1NwamxFaFpUbksyT2lCbVljLWdNZ0hXbkp6MFNUTGo5dklQZlB2eURHbWd6RWRnTW5BVG9OOXV6ZmhBaDBkU1ZMN1o2Wm85VDhiemhiV01zOGxiSExLYW5rZw?oc=5
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire - The Hindu
-  Two India-bound ships among a few transiting Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWUwVmJUWldoeml1VlFaWEJ1NDVSNmsybEItcVh6VVppa1o5ZUhHT0RYZzFjLWd5b2NJdTA0bzhVYTRGN3pDYnVrSVY4Z180a3ROX1ZtQU81R21vUUI3aFJZaUxsTjV3RV9GblpGWHJYUEdUUVFPZ2phWDdPcy1GaHdCTXZZQy1MTU1NZ0ROM1FQaUxFanVpVDZsczRHNjFOQXdWdTJNbUpPaTg0ZF95SU4tcUkyMXJ3QklEa0Y3enZtZUN0Yno2Z3Bab3E5cnE3cEw1cFZR0gHcAUFVX3lxTFByaFo5WVNQazNZdXpxcjR0eFBYenhoNHF0ZTZIbjlBWjB0QVJzcHdqQVlOdjlXU2FBajFDMy1UbHNWbkROSzZWd0thMVRFM3FJYjIyTE4tVjJ6Y25VMVpVT1k1Zks5NFVVbXpaU2VCWDZvU3lPM2dwQmxaQVltVVZaT2RucldqbzFKb202dDNZUkkwLTlaMl9qcFdkblpncGNDTnVhbk5PR1czaVhXYzdKTUEtcDFyRUlsNVpNMHV0Y1ZfQXU0MWZ6YmdKU3d6Qk5HZ3FrcV9ZQjZHeGc?oc=5
+- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
+  Foreign Secretary Meets Marco Rubio; US Diplomat
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
 
-- Illegal encroachments cleared along India-Nepal border in Bihar - The Times of India
-  The Times of India reported that illegal encroach
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTR5dkZFa01lamJMQjNseE5Yam95bTg0VktsajV1Qkk1R1FWVHUwaWF3OER1T1VKYjZsSmVrYzFjWnhTY05PblU2bmtGVS1kdXM2Y0pVajhXODk3RTlMVEhPTUZnaDFpaW9pX2c2VWV0cGMzbU1TdVc0OEV2TF9LUGw5bmN1RVI2dXhXN3U1c21vc3NoVUFsQVhZOGdtdGxFX0hQcEQxZTdxeW5WV2F6bmZGbmMzeWtjWDRhOUw2bjFsMmptbjhaNl9BUm5oMGtJSUHSAdcBQVVfeXFMTVhBTHBrLVNlc0U3R1NlTzFJQy11LUtvR0dmQUFuSzQxTGpGTWVVRkVEUEdrTGFYdzRuN09YaHJJTmh0TzJ6cjlnZVd4X2pfTTEzbW53NXp1Wk1DczFaQzFsbTMxWGJCOHpfNVZQMEFUOFBFVng2VllYUjg2Y1BGcEhZV2ZPUVVBcHBqRnFUa0dMaURyVmN2VDUxLXhTRGpfN0N6djlnQWxwVGg5ZmFGVFdfWVNncmE3U1A3TlExSmdQYnA3SkhpZjJWVVRSMmJ1UXFfN25iRTQ?oc=5
+- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
+  Election 2026: Assam, Kerala
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
 
-- Uttarakhand CM Dhami reviews Char Dham Yatra 2026 preparations - The Times of India
-  Uttarakhand CM Dhami reviews Char
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlJWTFpTGp5ZWQzN29ydkVHc3d5V0JDcnJ6OE5hX1p1Z1J3aWRhSnJmNDBIWmdBd0tMSUdudUlXc0ZxMTJRZkxmQkpmWk05aDFnQWZGSjVpd3ExcmtDUkVTSS1GTnZZVUFfbWU1MmRXQmZ3cGRSYTBYSDNpT3g3OXFFNU41Y0V1S181RDRhRDl2SnA2RU1lOWpLQjdVeW1CRlhfWk1oaVBCWFV1M29Nal9lNmRYY1FGWS1hRmVWU2EwZWZfSmJCZzBn0gHPAUFVX3lxTE15QlNpbkdRNHNDM3JIdndhQmE3ZVkyWTdBTHp1NkU4VlVNUXZuelhTei1HdUVzT0dHRWlvLWo2eHB0MlpQRkNUTjBfZ2xYNVczMkxtQzVRMFJsWmtSb2E1SmZDLVpmbkNzNWd5R2gtVzF0bkJLNkpqLWxsR0tTTU9CWXI3MHkyemlHQkZaUUJwYUlvbGlWU3kyQUJhZ1ZtOGEwQXNkaXI3elZYZE5lTXpydXpvd1pBQ2JTdE11WVJIZWRyZDlNUS1HdXhJcXBTOA?oc=5
-
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
-
-- Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ - Al Jazeera
-  Three life terms for Kashmir’s Aasi
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhqcFR6S0dXdi1yd0l5aTR6VkhEMjhCand2N1pDbEpSWEZ1T3NKeHIwTUFuamR4QW1CQ3hHNHdEbzR6Vk1OUkFUcmhWV1hzUGxHRUFKcEx6SHNVS1RoVWxXbERWVUpzcy11QnUtRDJreU5DZERERmczUk03WHcwUzdWMDNKVVBpeGlpSi1WWVE3ZDdqS0d6UE90V1NvQW9RZ0RvNm5mXy15OFZkSXk0bdIBtgFBVV95cUxOaURSYU5PdlRpa2FRamdWZWxBWFpMM2hZcmtlTk5NWnhraDNtTWM3WXVFLWFjT2hMZHZRNWN3SWNBVG9mbldpdUt5N0dBbHFJcmF3UngzM1ZQc1h1Z1NwamxFaFpUbksyT2lCbVljLWdNZ0hXbkp6MFNUTGo5dklQZlB2eURHbWd6RWRnTW5BVG9OOXV6ZmhBaDBkU1ZMN1o2Wm85VDhiemhiV01zOGxiSExLYW5rZw?oc=5
-
-- Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire - The Hindu
-  Two India-bound ships among a few transiting Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWUwVmJUWldoeml1VlFaWEJ1NDVSNmsybEItcVh6VVppa1o5ZUhHT0RYZzFjLWd5b2NJdTA0bzhVYTRGN3pDYnVrSVY4Z180a3ROX1ZtQU81R21vUUI3aFJZaUxsTjV3RV9GblpGWHJYUEdUUVFPZ2phWDdPcy1GaHdCTXZZQy1MTU1NZ0ROM1FQaUxFanVpVDZsczRHNjFOQXdWdTJNbUpPaTg0ZF95SU4tcUkyMXJ3QklEa0Y3enZtZUN0Yno2Z3Bab3E5cnE3cEw1cFZR0gHcAUFVX3lxTFByaFo5WVNQazNZdXpxcjR0eFBYenhoNHF0ZTZIbjlBWjB0QVJzcHdqQVlOdjlXU2FBajFDMy1UbHNWbkROSzZWd0thMVRFM3FJYjIyTE4tVjJ6Y25VMVpVT1k1Zks5NFVVbXpaU2VCWDZvU3lPM2dwQmxaQVltVVZaT2RucldqbzFKb202dDNZUkkwLTlaMl9qcFdkblpncGNDTnVhbk5PR1czaVhXYzdKTUEtcDFyRUlsNVpNMHV0Y1ZfQXU0MWZ6YmdKU3d6Qk5HZ3FrcV9ZQjZHeGc?oc=5
-
-- Illegal encroachments cleared along India-Nepal border in Bihar - The Times of India
-  The Times of India reported that illegal encroach
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTR5dkZFa01lamJMQjNseE5Yam95bTg0VktsajV1Qkk1R1FWVHUwaWF3OER1T1VKYjZsSmVrYzFjWnhTY05PblU2bmtGVS1kdXM2Y0pVajhXODk3RTlMVEhPTUZnaDFpaW9pX2c2VWV0cGMzbU1TdVc0OEV2TF9LUGw5bmN1RVI2dXhXN3U1c21vc3NoVUFsQVhZOGdtdGxFX0hQcEQxZTdxeW5WV2F6bmZGbmMzeWtjWDRhOUw2bjFsMmptbjhaNl9BUm5oMGtJSUHSAdcBQVVfeXFMTVhBTHBrLVNlc0U3R1NlTzFJQy11LUtvR0dmQUFuSzQxTGpGTWVVRkVEUEdrTGFYdzRuN09YaHJJTmh0TzJ6cjlnZVd4X2pfTTEzbW53NXp1Wk1DczFaQzFsbTMxWGJCOHpfNVZQMEFUOFBFVng2VllYUjg2Y1BGcEhZV2ZPUVVBcHBqRnFUa0dMaURyVmN2VDUxLXhTRGpfN0N6djlnQWxwVGg5ZmFGVFdfWVNncmE3U1A3TlExSmdQYnA3SkhpZjJWVVRSMmJ1UXFfN25iRTQ?oc=5
-
-- Uttarakhand CM Dhami reviews Char Dham Yatra 2026 preparations - The Times of India
-  Uttarakhand CM Dhami reviews Char
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlJWTFpTGp5ZWQzN29ydkVHc3d5V0JDcnJ6OE5hX1p1Z1J3aWRhSnJmNDBIWmdBd0tMSUdudUlXc0ZxMTJRZkxmQkpmWk05aDFnQWZGSjVpd3ExcmtDUkVTSS1GTnZZVUFfbWU1MmRXQmZ3cGRSYTBYSDNpT3g3OXFFNU41Y0V1S181RDRhRDl2SnA2RU1lOWpLQjdVeW1CRlhfWk1oaVBCWFV1M29Nal9lNmRYY1FGWS1hRmVWU2EwZWZfSmJCZzBn0gHPAUFVX3lxTE15QlNpbkdRNHNDM3JIdndhQmE3ZVkyWTdBTHp1NkU4VlVNUXZuelhTei1HdUVzT0dHRWlvLWo2eHB0MlpQRkNUTjBfZ2xYNVczMkxtQzVRMFJsWmtSb2E1SmZDLVpmbkNzNWd5R2gtVzF0bkJLNkpqLWxsR0tTTU9CWXI3MHkyemlHQkZaUUJwYUlvbGlWU3kyQUJhZ1ZtOGEwQXNkaXI3elZYZE5lTXpydXpvd1pBQ2JTdE11WVJIZWRyZDlNUS1HdXhJcXBTOA?oc=5
+- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
+  India’s Assam and Kerala
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
 
 - India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
   India Looks on Warily as Pakistan Hailed
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
 
-- Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’ - Al Jazeera
-  Three life terms for Kashmir’s Aasi
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPUHhqcFR6S0dXdi1yd0l5aTR6VkhEMjhCand2N1pDbEpSWEZ1T3NKeHIwTUFuamR4QW1CQ3hHNHdEbzR6Vk1OUkFUcmhWV1hzUGxHRUFKcEx6SHNVS1RoVWxXbERWVUpzcy11QnUtRDJreU5DZERERmczUk03WHcwUzdWMDNKVVBpeGlpSi1WWVE3ZDdqS0d6UE90V1NvQW9RZ0RvNm5mXy15OFZkSXk0bdIBtgFBVV95cUxOaURSYU5PdlRpa2FRamdWZWxBWFpMM2hZcmtlTk5NWnhraDNtTWM3WXVFLWFjT2hMZHZRNWN3SWNBVG9mbldpdUt5N0dBbHFJcmF3UngzM1ZQc1h1Z1NwamxFaFpUbksyT2lCbVljLWdNZ0hXbkp6MFNUTGo5dklQZlB2eURHbWd6RWRnTW5BVG9OOXV6ZmhBaDBkU1ZMN1o2Wm85VDhiemhiV01zOGxiSExLYW5rZw?oc=5
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire - The Hindu
-  Two India-bound ships among a few transiting Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWUwVmJUWldoeml1VlFaWEJ1NDVSNmsybEItcVh6VVppa1o5ZUhHT0RYZzFjLWd5b2NJdTA0bzhVYTRGN3pDYnVrSVY4Z180a3ROX1ZtQU81R21vUUI3aFJZaUxsTjV3RV9GblpGWHJYUEdUUVFPZ2phWDdPcy1GaHdCTXZZQy1MTU1NZ0ROM1FQaUxFanVpVDZsczRHNjFOQXdWdTJNbUpPaTg0ZF95SU4tcUkyMXJ3QklEa0Y3enZtZUN0Yno2Z3Bab3E5cnE3cEw1cFZR0gHcAUFVX3lxTFByaFo5WVNQazNZdXpxcjR0eFBYenhoNHF0ZTZIbjlBWjB0QVJzcHdqQVlOdjlXU2FBajFDMy1UbHNWbkROSzZWd0thMVRFM3FJYjIyTE4tVjJ6Y25VMVpVT1k1Zks5NFVVbXpaU2VCWDZvU3lPM2dwQmxaQVltVVZaT2RucldqbzFKb202dDNZUkkwLTlaMl9qcFdkblpncGNDTnVhbk5PR1czaVhXYzdKTUEtcDFyRUlsNVpNMHV0Y1ZfQXU0MWZ6YmdKU3d6Qk5HZ3FrcV9ZQjZHeGc?oc=5
+- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
+  Foreign Secretary Meets Marco Rubio; US Diplomat
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
 
-- Illegal encroachments cleared along India-Nepal border in Bihar - The Times of India
-  The Times of India reported that illegal encroach
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNTR5dkZFa01lamJMQjNseE5Yam95bTg0VktsajV1Qkk1R1FWVHUwaWF3OER1T1VKYjZsSmVrYzFjWnhTY05PblU2bmtGVS1kdXM2Y0pVajhXODk3RTlMVEhPTUZnaDFpaW9pX2c2VWV0cGMzbU1TdVc0OEV2TF9LUGw5bmN1RVI2dXhXN3U1c21vc3NoVUFsQVhZOGdtdGxFX0hQcEQxZTdxeW5WV2F6bmZGbmMzeWtjWDRhOUw2bjFsMmptbjhaNl9BUm5oMGtJSUHSAdcBQVVfeXFMTVhBTHBrLVNlc0U3R1NlTzFJQy11LUtvR0dmQUFuSzQxTGpGTWVVRkVEUEdrTGFYdzRuN09YaHJJTmh0TzJ6cjlnZVd4X2pfTTEzbW53NXp1Wk1DczFaQzFsbTMxWGJCOHpfNVZQMEFUOFBFVng2VllYUjg2Y1BGcEhZV2ZPUVVBcHBqRnFUa0dMaURyVmN2VDUxLXhTRGpfN0N6djlnQWxwVGg5ZmFGVFdfWVNncmE3U1A3TlExSmdQYnA3SkhpZjJWVVRSMmJ1UXFfN25iRTQ?oc=5
+- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
+  Election 2026: Assam, Kerala
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
 
-- Uttarakhand CM Dhami reviews Char Dham Yatra 2026 preparations - The Times of India
-  Uttarakhand CM Dhami reviews Char
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmlJWTFpTGp5ZWQzN29ydkVHc3d5V0JDcnJ6OE5hX1p1Z1J3aWRhSnJmNDBIWmdBd0tMSUdudUlXc0ZxMTJRZkxmQkpmWk05aDFnQWZGSjVpd3ExcmtDUkVTSS1GTnZZVUFfbWU1MmRXQmZ3cGRSYTBYSDNpT3g3OXFFNU41Y0V1S181RDRhRDl2SnA2RU1lOWpLQjdVeW1CRlhfWk1oaVBCWFV1M29Nal9lNmRYY1FGWS1hRmVWU2EwZWZfSmJCZzBn0gHPAUFVX3lxTE15QlNpbkdRNHNDM3JIdndhQmE3ZVkyWTdBTHp1NkU4VlVNUXZuelhTei1HdUVzT0dHRWlvLWo2eHB0MlpQRkNUTjBfZ2xYNVczMkxtQzVRMFJsWmtSb2E1SmZDLVpmbkNzNWd5R2gtVzF0bkJLNkpqLWxsR0tTTU9CWXI3MHkyemlHQkZaUUJwYUlvbGlWU3kyQUJhZ1ZtOGEwQXNkaXI3elZYZE5lTXpydXpvd1pBQ2JTdE11WVJIZWRyZDlNUS1HdXhJcXBTOA?oc=5
+- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
+  India’s Assam and Kerala
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
 
-- US cybersecurity software stocks ​tumble after Anthropic announces it is 'scared' of launching new, power - The Times of India
-  The Times of India is an Indian newspaper. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQakM2cWdfc0swY3lqR3U1Rms1RktDQ3JNbnlfUEhPYXUyYm1icGotUmdpLW9LemZ3V1E2M2F5Q2ZUVkRBLWI0eV9zRjJKOEUxV2FqT3Zjem1tX3A2UW00VHpBcjhicjdSa3dLbWpaMHRQVzA1YTYzN2ZBNWxGREpIWjR5bDhreU5JdWZ4MlR1cnBQWmpkV3pFbzhsU1h5clJEcmRwc0ZraW9CbnFHdVAtYmh5VnJQRXpzNm9DeVdmYXpJRVdhQ2p5RTlNZ2tTT2VWTHpqTmJacnpKbWs0YlctX2lJMkJFSm1WdUFTMzg0clo4Ul9FcGlyb1hGOS1fSmNseksxaWEtU2N4ajYwZG5jcGxpbnBYNU9pbVpKMXBURy1pQdIBpwJBVV95cUxPZmtMMkNkdXF3SWl1NF9yNUMxbmo2REVDb2tSMVhfNGlBdGtfLUMydnFaUnRtZnM2bXVJWTNhZElDV2lRM0lLbWlwU1djaWd0MHJmWXUySUdWMDF6U3drdW5XVzR1MXNYLTY5WmwyNG5Ra3BwNkJuRFJ1WGdBNlBSQlhHYTB5VTN5SUpxdm9zX2tMdjdWajBrUmJnaVdwVXpVYWNLVU9EdzBzR1VUektBb1Rjc1VtRkc3ZjBZTmUwYlZrS0tIZmJia2tGa1NTVXB5Q2psWTA5UzRBNXItZmxZOGFUN2dJa2luYUNpdl9MVUVvZUZuRW44d0FreXBSckVpWTg0dENsQmQwY05KTnZ5Y2NYeDNfNVZuaGxtRFhXT2QxQk9jQjhr?oc=5
+- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
+  India Looks on Warily as Pakistan Hailed
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
 
-- Meta debuts new AI model in first test of costly ‘superintelligence’ team - The Guardian
-  Meta debuts new AI model in first test of costly
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWNYVHB4d1BZVTdYTTBYdXZwTGpzYmZQQndqSEs3RU9xeE5MTUNTZ0lOcUFBdFVIWEMzam1vZm51MFZzRFlpWUpUTWJ3RjlIQ1BSRzlFWVpLTFdmZ2tRazhDRkRlY3IyQlcyRmtiaVk5Z3lGVmZfWVZfdmZmcXhfUHhxLVNRVm9MM0E?oc=5
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Technology clinic workshop for automobile service units opens - The Hindu
-  Technology clinic workshop for automobile service units
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZwZldsNmszVDVVWEtrYlVTb1NkNGJ1T3dFUDVDTi1rMmx3ckwxMFliZHJkNDU4XzI5alFmbk52bmpvcHFyQzI3TnREUTRBNThvQ3hNeEVCTHF3dWtnb0lad2xaeEFIVi1GVEpJUWIycXNMWFZMZ3o3OXdiTHlBQW1ZNFdOeEEzMEJuSUxpTnVOZF9KWUFHVWJraV9iX1ltSmJmbEFxR0thM0UtRURrM2RkdXhOUHQ3Q2F5VDdWLThwOW5Da3Z3ZkpB0gHQAUFVX3lxTE9QMG9tM3huM0I5SkdqWkdTd0QwX1pHQm1EU0dFZmZEeE5QVzVtR2w3dGtGZHhVRDdqRWxQWXFYYW1ZQk5Ya3ZzYlEwSk13eW83XzRsOHdZMFI0b0dHRHZqZllzV3c3UkVaUUtyU2JVMDVkUVBWcmllb3l5Q3E1Wmo0ZHpTeXRZRGJyNkt5ZkhHNmE2ZnRZZ3ZYbHhkQzBPMFU5SlduOEhnTnd1YjQ5eUp5WWhvRGZzMW9GMEtUS3Y0bWxqTHd2TUhjSWNUR0EzblU?oc=5
+- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
+  Foreign Secretary Meets Marco Rubio; US Diplomat
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
 
-- SiFive raises $400 million from Atreides, Nvidia for data-center chip technology - Reuters
-  SiFive raises $400 million from Atre
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSllzQnBkRFBnOW1uYzN1ajgyLUlXZ0Jra2lOMUVQbThXTXByNVBRRTdHVmxialZnRVZtdHJKUnV0cnJvOXFUejhlci15RVl4eDBQOWFqWGVMUGYyX25zdWRsRGpITXBubHoyRGQzbVdsbmhtY0lSY0QwSGJBc0VCZHEyRUIwTTJobDRfUHNjUVh2VG51VV9WTTVzNkZjMmZfc29wTUUwVEc4OVplYzZ6MFQyVnI?oc=5
+- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
+  Election 2026: Assam, Kerala
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
 
-- India’s State-led Initiatives in Quantum Technology - orfonline.org
-  India’s
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXVqVlI3cC1CdkNqZHFmYXdJZG44cHl0TjZfTXVMS000SExnSFpPQVBSVEh6NHpURmx4c2JNYkIxTnFZYzlYakdrZERzTVF5Wk1wNkdqaHFWMXpZdktTUUZqcW5zLUhpOU53Rjdjd0pRUnUtcEg0WEpIa0NPaEp6NlVKWlNGNGI0WWFmUjhKaVBNa05x?oc=5
+- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
+  India’s Assam and Kerala
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+
+- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
+  India Looks on Warily as Pakistan Hailed
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
+
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+
+- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
+  Foreign Secretary Meets Marco Rubio; US Diplomat
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
+
+- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
+  Election 2026: Assam, Kerala
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
+
+- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
+  India’s Assam and Kerala
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-09 19:01:48 UTC_
+_Last updated: 2026-04-10 02:05:48 UTC_
