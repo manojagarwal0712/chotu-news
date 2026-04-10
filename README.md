@@ -1,28 +1,36 @@
 # 📰 Daily News Summaries
 
-- How women’s self-help group’s legal battle led to scrapping of Rs 60-lakh tender in Chhattisgarh
+- Cash-at-home case: Justice Yashwant Varma resigns from Allahabad High Court
   
-  🔗 https://indianexpress.com/article/india/how-womens-self-help-groups-legal-battle-led-to-scrapping-of-rs-60-lakh-tender-in-chhattisgarh-10628505/
+  🔗 https://indianexpress.com/article/india/cash-at-home-case-justice-yashwant-varma-resigns-allahabad-high-court-10629158/
 
-- Draft master plan: Tourism, infra push for greenfield city on Great Nicobar Island
+- Passport row: Pawan Khera gets 1-week relief in case filed by Assam CM Himanta Sarma’s wife
   
-  🔗 https://indianexpress.com/article/india/draft-master-plan-tourism-infra-push-for-greenfield-city-on-great-nicobar-island-10628644/
+  🔗 https://indianexpress.com/article/india/passport-row-pawan-khera-gets-1-week-relief-in-case-by-assam-cm-himanta-sarmas-wife-10629088/
 
-- Kashmir scientists crack cultivation of rare Rs 40,000 morel mushrooms
+- Assembly Elections 2026 Live Updates: Record turnout in Assam polls lifts stakes; focus shifts to Tamil Nadu, Bengal campaigns
   
-  🔗 https://indianexpress.com/article/india/kashmir-scientists-crack-cultivation-of-rare-rs-40000-morel-mushrooms-10628552/
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-record-turnout-in-assam-polls-lifts-stakes-focus-shifts-to-tamil-nadu-bengal-campaigns-10628860/
 
-- Record turnout in Assam (85%), Puducherry (90%); Kerala sees 78%, higher than 2021 elections
+- President nominates veteran JD(U) leader Harivansh for third term in Rajya Sabha
   
-  🔗 https://indianexpress.com/article/india/record-turnout-in-assam-85-per-cent-puducherry-90-per-cent-kerala-sees-78-per-cent-higher-than-2021-elections-10628575/
+  🔗 https://indianexpress.com/article/india/president-nominates-veteran-jdu-leader-harivansh-for-third-term-in-rajya-sabha-10629048/
 
-- Minor missing for 8 months: Delayed FIR, HC orders removal of Bokaro cop
+- CWC meeting today: Party to finalise strategy on women’s reservation and delimitation Bills
   
-  🔗 https://indianexpress.com/article/india/minor-missing-for-8-months-delayed-fir-hc-orders-removal-of-bokaro-cop-10628646/
+  🔗 https://indianexpress.com/article/india/congress-cwc-meeting-women-reservation-delimitation-strategy-10628978/
 
-- Tech and gadget launches today (April 09, 2026): Vivo V70 FE, Logitech PRO X2 SUPERSTRIKE, and more
+- Meta transfers top engineers into new AI tooling team
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-09-2026-vivo-v70-fe-logitech-pro-x2-superstrike-and-more-10627858/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-transfers-top-engineers-into-new-ai-tooling-team-10628895/
+
+- Anthropic weighs building its own AI chips: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-weighs-building-its-own-ai-chips-report-10628894/
+
+- Tech and gadget launches today (April 09, 2026): Vivo V70 FE, Logitech G PRO X2 SUPERSTRIKE, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-09-2026-vivo-v70-fe-logitech-g-pro-x2-superstrike-and-more-10627858/
 
 - Why you can’t see space junk in Artemis II photos?
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-finally-rolls-out-usernames-to-boost-privacy-here-is-how-to-check-if-you-have-it-10627399/
 
-- Dyson launches HushJet Mini Cool fan, its first handheld cooling device
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/dyson-launches-hushjet-mini-cool-fan-its-first-handheld-cooling-device-10627246/
+- Oracle layoffs begin in California, 700 workers to be let go by June — What we know
+  Oracle said it will lay off 491 employees working remotely in Washington state and at its Seattle offices effective June 1.
+  🔗 https://www.livemint.com/companies/people/oracle-layoffs-begin-in-california-700-workers-to-be-let-go-by-june-what-we-know-11775801195966.html
 
-- Meta unveils new AI model as it tries to catch up with Google and OpenAI after spending billions
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-unveils-new-ai-model-as-it-tries-to-catch-up-with-google-and-openai-after-spending-billions-10627005/
+- Mint Explainer | IBC's clean slate: How new law gives firms a true fresh start, voids old debt claims
+  The amended Insolvency and Bankruptcy Code ensures new investors are not liable for past dues from any creditor, including government agencies
+  🔗 https://www.livemint.com/companies/ibc-clean-slate-amended-ibc-old-debt-claims-nclt-creditors-resolution-plans-11775797193802.html
 
 - upGrad sees senior exits amid Unacademy integration, IPO plans
   Ronnie Screwvala-promoted group’s chief financial officer (CFO), Venkatesh Tarakkad, and
@@ -52,36 +60,36 @@
   UBS Group AG says it won’t hand over a stash of privileged documents for a probe into Credit Suisse’s handling of Nazi-linked accounts
   🔗 https://www.livemint.com/companies/ubs-won-t-release-nazi-accounts-settlement-files-sought-by-investigator-after-court-setback-11775761770261.html
 
-- TCS logs first annual revenue decline since listing despite Q4 recovery
-  TCS reported a 0.5% decline in full-year revenue in dollar terms to $30.08 billion. In the fourth quarter, revenue grew 1.5%.
-  🔗 https://www.livemint.com/companies/company-results/tcs-logs-first-annual-revenue-decline-since-listing-despite-q4-recovery-net-profit-11775746150474.html
+- Pakistan stock market a profitable tactical play, says Jefferies’ Chris Wood; here’s the rationale
+  Chris Wood highlighted the investment potential in Pakistan's stock market amid IMF cycles. He views India favour
+  🔗 https://www.livemint.com/market/stock-market-news/pakistan-stock-market-a-profitable-trade-says-jefferies-chris-wood-here-s-the-rationale-11775805286036.html
 
-- Maryland settles with owner and operator of ship that crashed into bridge, causing deadly collapse
-  Maryland settles with owner and operator of ship that
-  🔗 https://www.livemint.com/companies/maryland-settles-with-owner-and-operator-of-ship-that-crashed-into-bridge-causing-deadly-collapse-11775756840808.html
+- Bank Nifty nears key 56,000, led by ICICI, HDFC Bank, SBI shares; Breakout or profit-booking zone? Here’s how to trade
+  The Bank Nifty index opened strong at 55,182.25, buoyed by gains in major banks. Analysts suggest monitoring profit-taking as it approaches 56
+  🔗 https://www.livemint.com/market/stock-market-news/bank-nifty-nears-key-56-000-led-by-icici-hdfc-bank-sbi-shares-breakout-or-profit-booking-zone-here-s-how-to-trade-11775801554741.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 April
-  Gift Nifty was trading around 23,942 level, a premium of nearly 81 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-10-april-11775785194292.html
+- TCS Q4 steadies, but AI fears and macro risks keep investors wary
+   Sequential growth and record deal wins offer comfort, but AI disruption fears, BFSI weakness and
+  🔗 https://www.livemint.com/market/mark-to-market/tcs-india-tata-consultancy-services-q4-results-ai-revenue-it-sector-bfsi-slowdown-deal-wins-ebitda-margins-west-asia-war-11775799627199.html
 
-- From Gift Nifty, Iran war, US GDP to Nasdaq, Nikkei rally: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,941 level, a premium of nearly 80 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-us-gdp-to-nasdaq-nikkei-rally-10-key-things-that-changed-for-indian-stock-market-overnight-11775783647380.html
+- Ola Electric, Vodafone Idea, Filatex Fashions, JP Power— These are among most traded stocks on NSE today, April 10, 2026
+  Ola Electric Mobility, Vodafone Idea, Filatex Fashions, Jaiprakash Power Ventures (JP Power), and Auri Grow
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-vodafone-idea-filatex-fashions-jp-power-these-are-among-most-traded-stocks-on-nse-today-april-10-2026-11775800068627.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 10 April 2026
-  The Indian stock market ended Wednesday's session with sharp gains. Sumeet Bagadia
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-april-2026-11775748136727.html
+- Capri Global Capital share price gains 2% on announcing  ₹500 crore NCD issue; check details
+  Capri Global Capital's shares rose 2% following the announcement of a  ₹500 crore NCD issue. The issue opens on April 15 and closes on
+  🔗 https://www.livemint.com/market/stock-market-news/capri-global-capital-share-price-gains-2-on-announcing-rs-500-crore-ncd-issue-check-details-11775801116024.html
 
-- Stocks to trade: Raja Venkatraman recommends five stocks for 10 April
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-recommends-five-stocks-for-10-april-11775748799692.html
+- 'The biggest consumer fraud': Telegram CEO claims WhatsApp is secretly reading your private messages
+   Telegram's CEO Pavel Durov has criticized WhatsApp's encryption claims, labeling them as ‘biggest consumer fraud in history’ D
+  🔗 https://www.livemint.com/technology/tech-news/the-biggest-consumer-fraud-telegram-ceo-claims-whatsapp-is-secretly-reading-your-private-messages-11775795110768.html
 
-- Is this smallcap stock Madhusudan Kela’s next big bet?
-  The veteran investor has bought a stake in Simplex Infrastructures
-  🔗 https://www.livemint.com/market/stock-market-news/is-this-smallcap-stock-madhusudan-kela-s-next-big-bet-11775739881913.html
+- OpenAI takes on Anthropic, overhauls ChatGPT Pro subscription with new AI plan: here's what you need to know
+  OpenAI has launched a $100/month ChatGPT subscription. The new Pro tier provides access to exclusive features. The company is also offering a temporary promotion for
+  🔗 https://www.livemint.com/technology/tech-news/openai-takes-on-anthropic-overhauls-chatgpt-pro-subscription-with-new-ai-plan-heres-what-you-need-to-know-11775785708245.html
 
-- Elon Musk says WhatsApp's end to end encryption can't be trusted, Mark Zuckerberg's company calls it ‘absurd’
-  Elon Musk criticized WhatsApp, stating that the can't be trusted amid a class action lawsuit. The billionaire also encouraged users to switch to X Chat for an encrypted chat
+- Elon Musk says WhatsApp's end-to-end encryption can't be trusted, Mark Zuckerberg's company calls it ‘absurd’
+  Elon Musk criticized WhatsApp, saying 'can't trust' it. He encouraged users to switch to X Chat, which he promotes as an encrypted chat experience.
   🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapps-end-to-end-encryption-cant-be-trusted-mark-zuckerbergs-company-calls-it-absurd-11775782805747.html
 
 - Indias 5G consumers will reach over a billion by 2030: Jyotiraditya M Scindia
@@ -92,133 +100,125 @@
   Anthropic’s Project Glasswing aims to use advanced AI to detect hard-to-find software vulnerabilities. Backed by Big Tech,
   🔗 https://www.livemint.com/technology/tech-news/anthropic-project-glasswing-ai-cybersecurity-claude-mythos-11775710292475.html
 
-- Appeals court rebuffs Anthropic in latest round of its AI battle with the Trump administration
-  Anthropic has been battling the Trump administration over
-  🔗 https://www.livemint.com/technology/appeals-court-rebuffs-anthropic-in-latest-round-of-its-ai-battle-with-the-trump-administration-11775694715987.html
-
-- Meta unveils Muse Spark AI to rival Google, OpenAI; stock rallies 7%
-   Meta also released Contemplating mode, which runs multiple AI agents in parallel to boost reasoning power. Muse Spark can take on the extended thinking modes of
-  🔗 https://www.livemint.com/technology/meta-unveils-first-ai-model-from-costly-superintelligence-team-11775665071090.html
+- Markets News, April 9, 2026: U.S. Indexes End Higher, Oil Pares Gains on Iran Ceasefire Optimism; Dow Turns Positive for Year - Investopedia
+  Markets News, April 9, 2026: U.S. Indexes End Higher,
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNNEZPck80UVdFNzJYU1h1NmtwT0trNDNvbmJabXhDcVRSWG1pd2VUVG5SOHV2VTBoYVB3aGEteDVVZVI5a2pwSmEzclJFdGdUenF3YkotdW9zMVBQekVQa0FEdXN1RkVvLUhoQncyTWgxME56NlFaajBSYWRZWFV1ajR0UzJNQWNlZnIta1V6M2g?oc=5
 
 - Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026 - CNBC
   CNBC: Stocks extend relief rally on hopes that U.S
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE45WmdlR0FzS1JSRUNoVkFrRjFYRlU1RFVJMUR0Q2dBbE9CeHd1b0JjQkt3bkxpWldnMkRJZ0VkRUZtUFhVd2doUk5LeVk4cWdMRkxZVFdxNXR1NEtRSlUzdkVFSWhsdjR5SFJUMnRQSHQza3ZfUjZn0gF8QVVfeXFMT05BeThfRHFSVWpDOTFMWTdINkplZ1F4NUpsbkN6Z0ZvREhNcnl4aGszSzJVbWg2enZHdllDaE5CVGtkRExqTm1lU01OQUVMeDFFTExoNXM2S090NjlMSVFqOS1QREhpTDRyalUwSktSX1hMeXU0RldTYkZkRQ?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Highlights: US stocks end higher as Middle East peace talks li... - The Economic Times
-  US stocks end higher as Middle East peace talks li...
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxQSUg1bTJRdkVpcWV2UUhSQ0JXLUxkdVhnOGNicHhZM3Q0bkRpUUhSNnhYVGxLMzhXT0N2MXE4UmhuLWh0NHNDVUhlRmxDVkdiOHBIM0pJc09NWWt5T05wVG9qakVRSGZEVTlmNnl3UlM0QWplSl9TeUJScXkydnNhcTRyVm1ORkVhYzhoTlJuSUxMbVFwSDM3a3d3b24zb3ZHMHNFbHphQ0lFSGZhOC1FbVU5eGJwMElBdGJlekx0MTl0aXVJeDZuajIzOXVNMnNwNWhUTjFrRjE5dFBmcTZWODNhRkJwSTJoS21QRHVJaFFQSUVVMHJUYm5WWUhKaFFETWRUT0ZZTlZOUnlLYldIbVp1a3NuQWNVR21HdTVhbC1DOGprc0ZvWi1FcVQ0LVnSAbQCQVVfeXFMTXFMenhfSGlpeDdsaTI5X3ktVVQwaEczYUhjTmxLWTJPdGJ5cjA5bzUxOUtxTE1aVFRVQ2l5dnhMRGJYZHZlQ3NtYlVQbXZ6ZFNIQmQyMzVoNVV4dGFPN0NfSkszQ0JJTnFnOHMzQTJzU3NPT1c2R0k0VndOVGplbGxqSnN1dWMyY2ZKX01kTHFNVlBDUE13WjJNWWotakxTczM0MzdzaU1VUnVoSE5uQVRtSW1LOXdHWkVtcWZLSzZaWHhGa3hjbWR4NjUtUURZaW5WTUJvall5Z1NhLWh0VU1TbUc2ZVJfUDlSTjQzQUlfMDBOOTRpZExrOHRRS2RieGdoRlYyUEJXbjdzZHBpbnFTNVBXaUg5VE0yOUJVdjhhNHllTElQTldoMkR4TXZCR3pBZ2E?oc=5
+- S&P 500 Notches Longest Winning Run Since October: Markets Wrap - Bloomberg
+  P 500 Notches Longest Winning Run
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVJHUFZWMU9xUGhyNVlHWnd3eTB1OVJWTFFPUDJIOVdOTXN4QWRfc3IyZFV6T0lKQTFJNkVkVFlwQ3pISGlrY3N1MGNWajdsbWNtSEVSdjBLVGw0MlhVV0xoT1h0R05neTdLekNYb1pMY2xLSVBBM1FncnNvUzAzdno2OVFuT3ZQQVV1SFNSQ1lKZ0dk?oc=5
 
-- Gold, Silver Rate Today Live Updates: Gold prices rise in international markets; where are the headed in near-term? - The Times of India
-  Gold, Silver Rate Today Live Updates: Gold prices rise in international markets; where are the headed
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObzNtZTRGemt5bnIyT2xqWFRUU2FESzZGbEU2ZFV5WU5ZTHE5cE1WN3Y5ajFXZ094VXhrYWQzTmFxZGZ4MVlsc3E1QkpHZjFHa0w2WDU4MUVmWGFMSXhUZklkZXNLUnhyanlkbWpOcVFXTzl4Z2VWWENsWklrbk51c2s4dFAya0l5OWJpUFVpbUVxeU9SaW8yRzlmS19KRWVzM2d5S3J1RnNHWnFoUlJEUEtYaFNrREhCTm92My1udWdPZjByWU5NM2hKUGtfLWt2US1JM01Dc1c4eHZMQ3UxOVlXLWk2eUN2YXVOOGJrXzVoTjAwcUdvR24zWnR3bUFRbU9RdmdSdl9nLUNOWFAyNHduOTJEb1d4MVhxVWFBaGhkWkU0VXRqU29SYjU5eTJsQjdVZzVIN0hVTEhEZmFVTlptcUJtb3dXcVNVLUZjMnFKUEZZb1lzYnYyQlZLcVZ1ZTFFRENn0gHrAkFVX3lxTE9JVnpRcm5OLUpzMmNLNk13NGJmVEZQWlBFQUk4QjZWeFA1UWlXeVBPbjNQalBTQVVRMGhNckxIQzlQSUZuMkJ6cnZORDMxako2V1lsMDI5d1RDWE5xSnFBRnV4cHJ6dFdaSXpQREZmUTRRa0RWOTFGV3pUTk9ZNlhVd21nejhRM1l2cUVCWVhVb25QeTZyajN5TktnR002N0J0Tl9wd1d2Rm85WWlkd01QUGtEUkk5SWJFLWczWGRuRnVEWl9NVmltS3pXU3Rsd2padDQzWjZnMGZxVHJ6ZHAwQl91ZHk3VlVkblNJSVRjeFpmc3JJNk1PZmdTYkM2bkdNcnQ0NkZkY1BldVFIci1hcmt3Z19NUXdGcEtyMEstZHh4N0t5STU3cnlPWGI1MjExWmN0cHExSWQweDU1ZjY5Qld3dVdISVR0SGk3b2xpa3VFTUtNUEViZG8ycllZQ00xcnhleUdiU2VNMA?oc=5
+- Asia-Pacific markets decline as investors assess fragile Iran-U.S. ceasefire deal - CNBC
+  Asia-Pacific markets decline as investors assess
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjJnczZTcWkyU0UzdEQzU0w5emtKZ29mS0l5bjk2dDFLR0N3cnd5aU42dDhFblFxemlpdjJDZnZPdmNSeDR1SGZwYmNZR21fVEpzNTIteWQ2VnN6R2FlTERoLTFnbHZzUFlGWjdxR3JtTVhOWHBHSzJrUXJwTEdnWGUtQXQxUdIBiwFBVV95cUxQcUxOTWpuMGtULVVHbnRtd0FtLXNKZ0lHMVN1a3Azd2pkUmJTenRSZkZRRUFvWWtra2M2eWg2VXZsUEFPOXdmM0JrQ25OR25UeFJaWTlMWFFOSUZCRUV2dk05cDd3SGc1Y2NNZlU4bnVrODRvZ3dqLUctUnBLNmY1YzgtbDRHR0ViUjMw?oc=5
 
-- China’s Money Market Signals Cash Glut, Weak Loan Demand - Bloomberg.com
-  China’s Money Market Sign
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTVuTmJqclR0RlRjcU9KX1psMjRLS1Y1QllVbHVyMXp6eV8yLTlHWG5PV1FxSGkxSE8tN21BZGN0ODh6ZFdFdzV1M1N5R0NNai1BcjVfWkREVXlFSW5lUkd6dFlvZ2lVRU9hM1gxV0l2cnlzaEZPcW1IYTVUTkgxeXczTHhBU1ZNUnlMV2xiaVozTk4xYXdXODdhcXQ1bTJMWGlMbkVkTWFRUQ?oc=5
+- Asia-Pacific markets rise amid worries over Strait of Hormuz staying largely closed - CNBC
+  Asia-Pacific markets rise amid worries over Strait of
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkM4WG81N1BGVVJmcm1sUnhONjltdVlneE02Z1paaFZSbW5WYXEtUXRFVG5HSkVVSS1NMzdrV1VtZHVNWWxaVDhvSVl6YnV5WGRfS3d3NVZMdmt3NzBNVWFPLXlXeVQwZU5acGNWRGtzdFFmMkEtNExiVEx5b0tRcXl6LUlsZ2Y2VFJzUXczd1pGNjk1dXfSAZsBQVVfeXFMT2N3U1hWemlBZ1JCWGdLMExRTWZqc0dKN2RCQjF0V1dNMW9aRWM3aUFRZUl0bmJNLXVLeVRFMWVaWEZsRWMxYzVrbEUxYmN3emNTY0JmY1lURV9GLWY5T2phZTk4Qnk4X3ZNUnRrT2lSdldxYWtxNlJwQTJfYzcyZVRCYnMtWTRiakJPNUI0N1BxcHcyVE5uRjMxaGc?oc=5
 
-- West Asia conflict: Energy market turmoil could linger for months - The Indian Express
-  The Indian Express reports on the West Asia conflict.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWVyYnJKOUdDMjhwN1lfM2VCbHNkUkxIRHUxU3d6cExnR214c3o2LW9JeWh0c0ZjQXJfUEhJQlMyTEpWZ0Jfb2VRZkRZR0dSa2VlTHhRcHRPcVI0bjNLM0NudU0wdTVCdlBlR1gzS2VucG5xVHpKSjJyR2NmRFd1SHFEOTVpVWxYZ3Bjd0NCV3JfanFWanlNM3NpOHRFYzl2dGtLdVRVQlVGelluMl9vb1pGRFhtQUJoWEHSAcABQVVfeXFMTUlIYTZqVGdIQ3RIdFZEak5MX2g1NXZ2UXZxM1lTR2hCUWhuVlBndmd0WGxqbkFFNExtby1DRzNrTVhDVkFlTERJNU1rWjQtdDZwazJRQ2JpMEIzemhTM0xaVGRObm0wNDd3OVpyVXFBLU1sWHlpZVhHcFdJZXFJZDVoZWJLZllUWHVpZk44UTR6S0Zva1UwajFqU3dtdDZwNW5DeWN5SEUzVDBWWnkzcWYtSVc0TmJjU25sZFR0YkNZ?oc=5
+- Bitcoin retreats to $71K after $73K rejection as macro risks, $250M ETF outflows weigh on sentiment
+  Market sentiment has improved to neutral, suggesting a continued upswing. Retail interest remains strong, with significant accumulation observed. Recent ETF outflows have also impacted buying pressure.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-retreats-to-71k-after-73k-rejection-as-macro-risks-250m-etf-outflows-weigh-on-sentiment/articleshow/130161516.cms
 
-- Oil prices rise after strikes on Saudi oil facilities
-  Oil prices climbed Friday following attacks on Saudi energy infrastructure and concerns over the Strait of Hormuz closure. Attacks have significantly impacted Saudi output and refining capacity, creating a measurable supply shock.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-after-strikes-on-saudi-oil-facilities/articleshow/130156602.cms
+- Sun Pharma shares tumble 4% as firm closes in on $12-billion Organon acquisition. What’s spooking investors?
+  Shares of Sun Pharmaceutical Industries fell sharply after ET reported the company had submitted a $12-billion binding offer for Organon &amp; Co.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-shares-tumble-4-as-firm-closes-in-on-12-billion-organon-acquisition-whats-spooking-investors/articleshow/130160781.cms
 
-- Global Market Today: Asian stocks edge higher amid fragile Middle East ceasefire
-  Asian stocks saw a modest gain as investors remained cautious amid a shaky Middle East ceasefire ahead of US-Iran talks. Market sentiment hinges on the ceasefire's durability and smooth oil flows.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-higher-amid-fragile-middle-east-ceasefire/articleshow/130156477.cms
+- Tata Sons IPO: After Venu Srinivasan, Tata Trusts Vice Chairman Vijay Singh backs listing of Tata Sons, says report
+  A Tata Trusts trustee has backed listing Tata Sons via an IPO. This aligns with growing support despite the group’s
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report/articleshow/130160730.cms
 
-- TCS Q4 net profit jumps 12% to Rs 13,718 crore on strong deal wins, weak rupee
-  TCS reported a 12% net profit rise to ₹13,718 crore in Q4. The company saw strong AI revenue growth, crossing $2.3 billion, and secured significant deal wins.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tcs-q4-net-profit-jumps-12-to-rs-13718-crore-on-strong-deal-wins-weak-rupee/articleshow/130156439.cms
+- RailTel Corporation shares jump 4% after securing Rs 23.18 crore order
+  RailTel Corporation of India's shares surged after securing a Rs 23.18 crore work order from the Goa Building and Other Construction Workers Welfare Board for an online portal. This follows a significant Rs 455 crore infrastructure contract awarded in February.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-jump-4-after-securing-rs-23-18-crore-order/articleshow/130160619.cms
 
-- XED withdrawal a jolt to listing hub hopes of GIFT City
-  XED Executive Development withdrew its IPO after failing to attract enough bids. Experts suggest changes to boost IPO success in Gandhinagar's international finance centre.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/xed-withdrawal-a-jolt-to-listing-hub-hopes-of-gift-city/articleshow/130156395.cms
+- TCS deal wins signal stability despite AI concerns: Sandip Agarwal
+  IT firms' system integrator role remains a strong moat, though AI may alter cost-sharing dynamics. TCS's robust $12 billion Total Contract Value signals stability amidst AI disruption fears, indicating intact
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/tcs-deal-wins-signal-stability-despite-ai-concerns-sandip-agarwal/articleshow/130160448.cms
 
-- GIFT Nifty up 70 points; here's the trading setup for today's session
-  Near-term support might come from easing tensions and stable oil prices. However, a sustained recovery depends on the US-Iran situation, energy prices, and liquidity.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130149114.cms
-
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
-
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
-  Foreign Secretary Meets Marco Rubio; US Diplomat
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
+- "Tum Kaale Ho, Don't Deserve Me": Madhya Pradesh Woman Plots Murder Of Husband With Lover - NDTV
+  "Tum Kaale Ho, Don't Deserve Me"
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcFdRRnhoSFMza3ZlU3Z2b0pxZnpIZlhIZHFLZVIwUnRwNzhBR2RCR3NySEZTRUgtbDhKX0JQSTdUYWFWV21Ub3oxaHc4a2lIRzhRTlBkTTVadHlfYWo5RjNGQmp5clNrMGtwWV9rcVJpMGFXdjBMalRoWWRDamh2SWZoZGp4UTRxRmZvLTlkdkVDc3ljV1E4U1pYN0JYdTd5WmVrRUVnd0JLMFE5QUg1Y3hlb1N5XzJ6cl9uMnhYNFhjVWpJalY4UWJfX24yc0ZqNFpzdUVIYm5DbVgya245MlhJMkxaamZITk9NQ1VlOUlfV3EzSTNzZGdR0gGCAkFVX3lxTE8zVEtvcVdxNnlielpjWVJPajdaeG1nU0NWMXZBYnF2NTFBdHY4MHpQZWUzSTM3cXBxbF84WWFBdjNwcldoUUxSZWJoSEZHWmhUYTlWUEpUN29KSHpnampXVm5UMWRfQlkxc1hpMFBkZWZ4VmtwcmpIclpGMENuVFVmZjdyc1RnV3MtMUdKR1gyMzJPRktHeW40dllBcDRtUm9HeEpOZGJyODdPN1ZHVlBNSk1fWGM3Z09XdTROUjZ5MV9oaTFSdkdfRkwyYVZHS1puVURqNjM5cTNQeVIwUHBDbUw2RHdQVjdmbUlUVTZsa2xzcTZyWDd2clJSRHoyYno5dw?oc=5
 
-- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
-  Election 2026: Assam, Kerala
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
+- ‘Deep anguish...’: Inside justice Yashwant Varma's resignation letter to President | India News - Hindustan Times
+  ‘Deep anguish...’: Inside justice Yash
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWHZYeDhZTGpUY1lJMHhqVVZvZ05HcV9NdHBXOV9ITFZVVkRfaGpBclFrdFhsbUJrVDJ6VTBDbEcxMzJZb2tubTByNkEwdGVvbW9NQ1hxbERGMDc0dFVQSnZzSTlVQ2VNdWNyeXVMeURERGxObG01MnJRcXZfbjNzbkUxUVRkcDBxbjVGYnNzZ3dFRWI0b01Vckk0QzVxb1ZCZENmWWV1dy00cjFCM201amcyUlkwRzF3dC01VW82Sloya3FxVEhVZ0pTaDVka3U1dFU0TU1iQVg3cU1VMWx0bWxWU0k5R0RZNFlB0gHwAUFVX3lxTE11VkgwVW84Zi0zZUc3Szh5NnlPbDk1bUdZYkJYX0NpVGtkQ2VtT2ZNSVIydVJWemliWHZoVEhqaEh0SXBlTWRycU5Yb1RSdDlHZkdwajhYZGpGQmhCUHl1THkwVkVrWWk4LUZrUWNVNF9Ya1JZTk5LZUxtWnlRQWpWZVp5WmhCWXg0WTBuNVJnZ2RkQ1l1eHNLT0d3N2Q2QjhGUzBUMmJMdFNucGRFVFh2T3NvMnJpbWVfdU5CSmVFREI2b1M1cnBzVHhTeTFtSGx2SDdsNVlLUTVXOHJ5NW00T3FBR3Q2SWYyOWl6dGh1Tg?oc=5
 
-- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
-  India’s Assam and Kerala
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+- Biggest Currency Clampdown in Decade Risks Backfiring for India - Bloomberg
+  Biggest Currency Clampdown in
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQX29NUWhfXzc2T0c1TFJYbHJZYXNMX2lPMGUtQk5FNWp1aG5qcFpUa0VhNDFRSlhUc1AyUVEzMmFuSG5IOFVnYkNBM0tyM2tEeEx2UGlQZXplNXNndWp2dHZnRUY4YnQyRnVTdGp1djN2RUFOSS1tcmtPNDFCcmZBeVA0TzM2VFFJTDRhejg1NWp6aWZ1T0xsQ3pVQTBwUUw2ZF9sWFlyVU1DVk45dE51NFJrM095R2N3ZzQ4bGU5MU1rTnVk?oc=5
 
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
+- Fragile truce in place, India reaches out to Gulf nations - The Times of India
+  The Times of India is published by Penguin Random House.
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTBHUVlSUmNiQlc4TEF2WFFodTBfNHZyRWhmSGNwbk5ZY21FcW1ES25QMXkxN1RVV3RnLWU1NEVkeUN6aXJsOWY3Nkt1ZnlHY2dWUDkzZE5DRUsyLWZ6N01GTHlLMmV0dzNqRzhidVhNQnBIbEJtVkluSjJIX3g0Tlc5ZHNuMkZZTHM0eEFPYjNlczhYUk4weEQwSTlSVTBmcHZQYUFyMlc3THBuNldoM2JoaWRMMGxMRFZFUlMyYUJpQdIBxwFBVV95cUxOWTl0Unp3MnRyWHFJVjhGNnlCaHk3dXExLVp0OG45ZDVRZW5PN1NrejQ1cmg2NWsxWk9TNFlJNkZDUEMwc1JSbV9OSjd3aVJOSzF3Rk12cGtvWFlDSHlVM05XRnJkV3QtSEFmVDZiMXFjOU5rWTNhN3VfV1FjMlVYdFV2X2RUR2VoX0NFZUgzZlhITGUxTzVid0p3ODd0RmxNaDBBQXhoUnNDTTdkZXRTUml6bXdaTzY4Nnl3cVlnZUhLU2F0cldV?oc=5
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
-  Foreign Secretary Meets Marco Rubio; US Diplomat
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
+- "Tum Kaale Ho, Don't Deserve Me": Madhya Pradesh Woman Plots Murder Of Husband With Lover - NDTV
+  "Tum Kaale Ho, Don't Deserve Me"
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcFdRRnhoSFMza3ZlU3Z2b0pxZnpIZlhIZHFLZVIwUnRwNzhBR2RCR3NySEZTRUgtbDhKX0JQSTdUYWFWV21Ub3oxaHc4a2lIRzhRTlBkTTVadHlfYWo5RjNGQmp5clNrMGtwWV9rcVJpMGFXdjBMalRoWWRDamh2SWZoZGp4UTRxRmZvLTlkdkVDc3ljV1E4U1pYN0JYdTd5WmVrRUVnd0JLMFE5QUg1Y3hlb1N5XzJ6cl9uMnhYNFhjVWpJalY4UWJfX24yc0ZqNFpzdUVIYm5DbVgya245MlhJMkxaamZITk9NQ1VlOUlfV3EzSTNzZGdR0gGCAkFVX3lxTE8zVEtvcVdxNnlielpjWVJPajdaeG1nU0NWMXZBYnF2NTFBdHY4MHpQZWUzSTM3cXBxbF84WWFBdjNwcldoUUxSZWJoSEZHWmhUYTlWUEpUN29KSHpnampXVm5UMWRfQlkxc1hpMFBkZWZ4VmtwcmpIclpGMENuVFVmZjdyc1RnV3MtMUdKR1gyMzJPRktHeW40dllBcDRtUm9HeEpOZGJyODdPN1ZHVlBNSk1fWGM3Z09XdTROUjZ5MV9oaTFSdkdfRkwyYVZHS1puVURqNjM5cTNQeVIwUHBDbUw2RHdQVjdmbUlUVTZsa2xzcTZyWDd2clJSRHoyYno5dw?oc=5
 
-- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
-  Election 2026: Assam, Kerala
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
+- ‘Deep anguish...’: Inside justice Yashwant Varma's resignation letter to President | India News - Hindustan Times
+  ‘Deep anguish...’: Inside justice Yash
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWHZYeDhZTGpUY1lJMHhqVVZvZ05HcV9NdHBXOV9ITFZVVkRfaGpBclFrdFhsbUJrVDJ6VTBDbEcxMzJZb2tubTByNkEwdGVvbW9NQ1hxbERGMDc0dFVQSnZzSTlVQ2VNdWNyeXVMeURERGxObG01MnJRcXZfbjNzbkUxUVRkcDBxbjVGYnNzZ3dFRWI0b01Vckk0QzVxb1ZCZENmWWV1dy00cjFCM201amcyUlkwRzF3dC01VW82Sloya3FxVEhVZ0pTaDVka3U1dFU0TU1iQVg3cU1VMWx0bWxWU0k5R0RZNFlB0gHwAUFVX3lxTE11VkgwVW84Zi0zZUc3Szh5NnlPbDk1bUdZYkJYX0NpVGtkQ2VtT2ZNSVIydVJWemliWHZoVEhqaEh0SXBlTWRycU5Yb1RSdDlHZkdwajhYZGpGQmhCUHl1THkwVkVrWWk4LUZrUWNVNF9Ya1JZTk5LZUxtWnlRQWpWZVp5WmhCWXg0WTBuNVJnZ2RkQ1l1eHNLT0d3N2Q2QjhGUzBUMmJMdFNucGRFVFh2T3NvMnJpbWVfdU5CSmVFREI2b1M1cnBzVHhTeTFtSGx2SDdsNVlLUTVXOHJ5NW00T3FBR3Q2SWYyOWl6dGh1Tg?oc=5
 
-- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
-  India’s Assam and Kerala
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+- Biggest Currency Clampdown in Decade Risks Backfiring for India - Bloomberg
+  Biggest Currency Clampdown in
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQX29NUWhfXzc2T0c1TFJYbHJZYXNMX2lPMGUtQk5FNWp1aG5qcFpUa0VhNDFRSlhUc1AyUVEzMmFuSG5IOFVnYkNBM0tyM2tEeEx2UGlQZXplNXNndWp2dHZnRUY4YnQyRnVTdGp1djN2RUFOSS1tcmtPNDFCcmZBeVA0TzM2VFFJTDRhejg1NWp6aWZ1T0xsQ3pVQTBwUUw2ZF9sWFlyVU1DVk45dE51NFJrM095R2N3ZzQ4bGU5MU1rTnVk?oc=5
 
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
+- Fragile truce in place, India reaches out to Gulf nations - The Times of India
+  The Times of India is published by Penguin Random House.
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTBHUVlSUmNiQlc4TEF2WFFodTBfNHZyRWhmSGNwbk5ZY21FcW1ES25QMXkxN1RVV3RnLWU1NEVkeUN6aXJsOWY3Nkt1ZnlHY2dWUDkzZE5DRUsyLWZ6N01GTHlLMmV0dzNqRzhidVhNQnBIbEJtVkluSjJIX3g0Tlc5ZHNuMkZZTHM0eEFPYjNlczhYUk4weEQwSTlSVTBmcHZQYUFyMlc3THBuNldoM2JoaWRMMGxMRFZFUlMyYUJpQdIBxwFBVV95cUxOWTl0Unp3MnRyWHFJVjhGNnlCaHk3dXExLVp0OG45ZDVRZW5PN1NrejQ1cmg2NWsxWk9TNFlJNkZDUEMwc1JSbV9OSjd3aVJOSzF3Rk12cGtvWFlDSHlVM05XRnJkV3QtSEFmVDZiMXFjOU5rWTNhN3VfV1FjMlVYdFV2X2RUR2VoX0NFZUgzZlhITGUxTzVid0p3ODd0RmxNaDBBQXhoUnNDTTdkZXRTUml6bXdaTzY4Nnl3cVlnZUhLU2F0cldV?oc=5
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
-  Foreign Secretary Meets Marco Rubio; US Diplomat
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
+- "Tum Kaale Ho, Don't Deserve Me": Madhya Pradesh Woman Plots Murder Of Husband With Lover - NDTV
+  "Tum Kaale Ho, Don't Deserve Me"
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcFdRRnhoSFMza3ZlU3Z2b0pxZnpIZlhIZHFLZVIwUnRwNzhBR2RCR3NySEZTRUgtbDhKX0JQSTdUYWFWV21Ub3oxaHc4a2lIRzhRTlBkTTVadHlfYWo5RjNGQmp5clNrMGtwWV9rcVJpMGFXdjBMalRoWWRDamh2SWZoZGp4UTRxRmZvLTlkdkVDc3ljV1E4U1pYN0JYdTd5WmVrRUVnd0JLMFE5QUg1Y3hlb1N5XzJ6cl9uMnhYNFhjVWpJalY4UWJfX24yc0ZqNFpzdUVIYm5DbVgya245MlhJMkxaamZITk9NQ1VlOUlfV3EzSTNzZGdR0gGCAkFVX3lxTE8zVEtvcVdxNnlielpjWVJPajdaeG1nU0NWMXZBYnF2NTFBdHY4MHpQZWUzSTM3cXBxbF84WWFBdjNwcldoUUxSZWJoSEZHWmhUYTlWUEpUN29KSHpnampXVm5UMWRfQlkxc1hpMFBkZWZ4VmtwcmpIclpGMENuVFVmZjdyc1RnV3MtMUdKR1gyMzJPRktHeW40dllBcDRtUm9HeEpOZGJyODdPN1ZHVlBNSk1fWGM3Z09XdTROUjZ5MV9oaTFSdkdfRkwyYVZHS1puVURqNjM5cTNQeVIwUHBDbUw2RHdQVjdmbUlUVTZsa2xzcTZyWDd2clJSRHoyYno5dw?oc=5
 
-- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
-  Election 2026: Assam, Kerala
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
+- ‘Deep anguish...’: Inside justice Yashwant Varma's resignation letter to President | India News - Hindustan Times
+  ‘Deep anguish...’: Inside justice Yash
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWHZYeDhZTGpUY1lJMHhqVVZvZ05HcV9NdHBXOV9ITFZVVkRfaGpBclFrdFhsbUJrVDJ6VTBDbEcxMzJZb2tubTByNkEwdGVvbW9NQ1hxbERGMDc0dFVQSnZzSTlVQ2VNdWNyeXVMeURERGxObG01MnJRcXZfbjNzbkUxUVRkcDBxbjVGYnNzZ3dFRWI0b01Vckk0QzVxb1ZCZENmWWV1dy00cjFCM201amcyUlkwRzF3dC01VW82Sloya3FxVEhVZ0pTaDVka3U1dFU0TU1iQVg3cU1VMWx0bWxWU0k5R0RZNFlB0gHwAUFVX3lxTE11VkgwVW84Zi0zZUc3Szh5NnlPbDk1bUdZYkJYX0NpVGtkQ2VtT2ZNSVIydVJWemliWHZoVEhqaEh0SXBlTWRycU5Yb1RSdDlHZkdwajhYZGpGQmhCUHl1THkwVkVrWWk4LUZrUWNVNF9Ya1JZTk5LZUxtWnlRQWpWZVp5WmhCWXg0WTBuNVJnZ2RkQ1l1eHNLT0d3N2Q2QjhGUzBUMmJMdFNucGRFVFh2T3NvMnJpbWVfdU5CSmVFREI2b1M1cnBzVHhTeTFtSGx2SDdsNVlLUTVXOHJ5NW00T3FBR3Q2SWYyOWl6dGh1Tg?oc=5
 
-- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
-  India’s Assam and Kerala
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+- Biggest Currency Clampdown in Decade Risks Backfiring for India - Bloomberg
+  Biggest Currency Clampdown in
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQX29NUWhfXzc2T0c1TFJYbHJZYXNMX2lPMGUtQk5FNWp1aG5qcFpUa0VhNDFRSlhUc1AyUVEzMmFuSG5IOFVnYkNBM0tyM2tEeEx2UGlQZXplNXNndWp2dHZnRUY4YnQyRnVTdGp1djN2RUFOSS1tcmtPNDFCcmZBeVA0TzM2VFFJTDRhejg1NWp6aWZ1T0xsQ3pVQTBwUUw2ZF9sWFlyVU1DVk45dE51NFJrM095R2N3ZzQ4bGU5MU1rTnVk?oc=5
 
-- India Looks on Warily as Pakistan Hailed by World as Peacemaker - Bloomberg.com
-  India Looks on Warily as Pakistan Hailed
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2pGcFNZLVVjaXdXbVJ0aHZCbVRPd3ZpZ2ZDSFR5aWh0SW91OHlKU1o3N0VPak1DUThQUmRoajFEaXV1ZTNqdW1nSElzN2pTZkd3R0ZoekRXS21BZkJQZEVxNEItMW1QNllwNHpIR0llaVRudlFOcWdKR2Y3WHdlSnRsdXZENkl3cjIxU185b19ic3F0MWxDREFaSlpydjI0emg2cUEyUEl1NDBzVk1ZN0EwNTQ?oc=5
+- Fragile truce in place, India reaches out to Gulf nations - The Times of India
+  The Times of India is published by Penguin Random House.
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTBHUVlSUmNiQlc4TEF2WFFodTBfNHZyRWhmSGNwbk5ZY21FcW1ES25QMXkxN1RVV3RnLWU1NEVkeUN6aXJsOWY3Nkt1ZnlHY2dWUDkzZE5DRUsyLWZ6N01GTHlLMmV0dzNqRzhidVhNQnBIbEJtVkluSjJIX3g0Tlc5ZHNuMkZZTHM0eEFPYjNlczhYUk4weEQwSTlSVTBmcHZQYUFyMlc3THBuNldoM2JoaWRMMGxMRFZFUlMyYUJpQdIBxwFBVV95cUxOWTl0Unp3MnRyWHFJVjhGNnlCaHk3dXExLVp0OG45ZDVRZW5PN1NrejQ1cmg2NWsxWk9TNFlJNkZDUEMwc1JSbV9OSjd3aVJOSzF3Rk12cGtvWFlDSHlVM05XRnJkV3QtSEFmVDZiMXFjOU5rWTNhN3VfV1FjMlVYdFV2X2RUR2VoX0NFZUgzZlhITGUxTzVid0p3ODd0RmxNaDBBQXhoUnNDTTdkZXRTUml6bXdaTzY4Nnl3cVlnZUhLU2F0cldV?oc=5
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month - NDTV
-  Foreign Secretary Meets Marco Rubio; US Diplomat
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkdzc3QxQndMYmJfX0EyQ19tU2FLY1hQYjM4dENkNmI1YjNoeUZVUGtZQ1pUMGpMSnBtaVZMOElBNmtmWktMOFg3SnVlVHc2U1d6RmJWcWNjSXUwckFMQ3VhbUtkTmtadlZBaXNibnpIUVRmVURkYm15VmRWTlRZTHpPVEFlaFpHU0JYSjJVQ1IzM3BmNGI4ZklEV0F6clJLYWctTml2b21fSjBuRUFjYi1zUUFoSUdJeEdTcnFOZ3h4eG1sanfSAc4BQVVfeXFMTTdDaWY1ZzFlYzV3NUNVdlNoVWR1UkJQanhxaE9sT3N1aUhETzd5Z0psM1hLZGtEZHlqWmwzcmxFd0c0anEyMHQ2TDZsaF9UTG5iT29OU2c2MXpKcGpsRjY0cUg4d2JoUzZRMnJLZmliVTFzVXI0b09qa0wxTTBUMVU1a2d1RExfeE5mN0JwOUFCR1ZrNUxTVmJpTWdZNTd4Y25Lb08ySE5hekNhUnBnT3BWdENBMWZaZUNNQ1RqRjd4bE9mVVJlUHVaU0JjbUE?oc=5
+- "Tum Kaale Ho, Don't Deserve Me": Madhya Pradesh Woman Plots Murder Of Husband With Lover - NDTV
+  "Tum Kaale Ho, Don't Deserve Me"
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcFdRRnhoSFMza3ZlU3Z2b0pxZnpIZlhIZHFLZVIwUnRwNzhBR2RCR3NySEZTRUgtbDhKX0JQSTdUYWFWV21Ub3oxaHc4a2lIRzhRTlBkTTVadHlfYWo5RjNGQmp5clNrMGtwWV9rcVJpMGFXdjBMalRoWWRDamh2SWZoZGp4UTRxRmZvLTlkdkVDc3ljV1E4U1pYN0JYdTd5WmVrRUVnd0JLMFE5QUg1Y3hlb1N5XzJ6cl9uMnhYNFhjVWpJalY4UWJfX24yc0ZqNFpzdUVIYm5DbVgya245MlhJMkxaamZITk9NQ1VlOUlfV3EzSTNzZGdR0gGCAkFVX3lxTE8zVEtvcVdxNnlielpjWVJPajdaeG1nU0NWMXZBYnF2NTFBdHY4MHpQZWUzSTM3cXBxbF84WWFBdjNwcldoUUxSZWJoSEZHWmhUYTlWUEpUN29KSHpnampXVm5UMWRfQlkxc1hpMFBkZWZ4VmtwcmpIclpGMENuVFVmZjdyc1RnV3MtMUdKR1gyMzJPRktHeW40dllBcDRtUm9HeEpOZGJyODdPN1ZHVlBNSk1fWGM3Z09XdTROUjZ5MV9oaTFSdkdfRkwyYVZHS1puVURqNjM5cTNQeVIwUHBDbUw2RHdQVjdmbUlUVTZsa2xzcTZyWDd2clJSRHoyYno5dw?oc=5
 
-- Election 2026: Assam, Kerala, Puducherry vote in test for Modi's BJP - BBC
-  Election 2026: Assam, Kerala
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFOGpaMmJFRmdOY3pQNV9JT2lUaC0xamxhV01RaVBKTDN5NnpsQzlNeUtxaWh4WXJIb0ZscTk3VG5zZER4R2lORzBQajl5LVZ0bkZLME10QWRnQQ?oc=5
+- ‘Deep anguish...’: Inside justice Yashwant Varma's resignation letter to President | India News - Hindustan Times
+  ‘Deep anguish...’: Inside justice Yash
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWHZYeDhZTGpUY1lJMHhqVVZvZ05HcV9NdHBXOV9ITFZVVkRfaGpBclFrdFhsbUJrVDJ6VTBDbEcxMzJZb2tubTByNkEwdGVvbW9NQ1hxbERGMDc0dFVQSnZzSTlVQ2VNdWNyeXVMeURERGxObG01MnJRcXZfbjNzbkUxUVRkcDBxbjVGYnNzZ3dFRWI0b01Vckk0QzVxb1ZCZENmWWV1dy00cjFCM201amcyUlkwRzF3dC01VW82Sloya3FxVEhVZ0pTaDVka3U1dFU0TU1iQVg3cU1VMWx0bWxWU0k5R0RZNFlB0gHwAUFVX3lxTE11VkgwVW84Zi0zZUc3Szh5NnlPbDk1bUdZYkJYX0NpVGtkQ2VtT2ZNSVIydVJWemliWHZoVEhqaEh0SXBlTWRycU5Yb1RSdDlHZkdwajhYZGpGQmhCUHl1THkwVkVrWWk4LUZrUWNVNF9Ya1JZTk5LZUxtWnlRQWpWZVp5WmhCWXg0WTBuNVJnZ2RkQ1l1eHNLT0d3N2Q2QjhGUzBUMmJMdFNucGRFVFh2T3NvMnJpbWVfdU5CSmVFREI2b1M1cnBzVHhTeTFtSGx2SDdsNVlLUTVXOHJ5NW00T3FBR3Q2SWYyOWl6dGh1Tg?oc=5
 
-- India’s Assam and Kerala states hold legislative assembly elections - Al Jazeera
-  India’s Assam and Kerala
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTlpcWRFd05VeHZUcHNQclBfbGVfeDR6VWNpVThHTXZMVzhiaGF5bWVsVl9mVUt2dHBieVdVMTEzc1Q3N2tZWHowUXU3X05DNk4wNWY1dDNaZzZGclJ6SElROEROQ1ZOeGh0TmZzaW9GeE9HbVNTOUFsd2tZdC1XN2xfamNkb2VZNVhFTHlIVFRVeWtrRzYyRlRSNDB0X3pxR1cwNzJwMHQwQdIBrwFBVV95cUxOQ1BaVElheHRUUE5JNHRSaHBzZ2ZHOWF3VmE4dWhNdWxRdVhwM1JyM2VnR1ZtSXNPbmxsSHZFZncxY25yWEF2WHgxaUNRVFBBcUZxUlZVWmlCN3pNRTZHNjlxa0psNDdMdWYyZ1RMSTVHU0FQTDdBT19QZjcxOEc2SGJJVDNKTXB3ZzFVZ1Fodi1DMTVTVjA5YUdkbjR0UVZkRlpicGN3LUJ3LTVsbk9n?oc=5
+- Biggest Currency Clampdown in Decade Risks Backfiring for India - Bloomberg
+  Biggest Currency Clampdown in
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQX29NUWhfXzc2T0c1TFJYbHJZYXNMX2lPMGUtQk5FNWp1aG5qcFpUa0VhNDFRSlhUc1AyUVEzMmFuSG5IOFVnYkNBM0tyM2tEeEx2UGlQZXplNXNndWp2dHZnRUY4YnQyRnVTdGp1djN2RUFOSS1tcmtPNDFCcmZBeVA0TzM2VFFJTDRhejg1NWp6aWZ1T0xsQ3pVQTBwUUw2ZF9sWFlyVU1DVk45dE51NFJrM095R2N3ZzQ4bGU5MU1rTnVk?oc=5
+
+- Fragile truce in place, India reaches out to Gulf nations - The Times of India
+  The Times of India is published by Penguin Random House.
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTBHUVlSUmNiQlc4TEF2WFFodTBfNHZyRWhmSGNwbk5ZY21FcW1ES25QMXkxN1RVV3RnLWU1NEVkeUN6aXJsOWY3Nkt1ZnlHY2dWUDkzZE5DRUsyLWZ6N01GTHlLMmV0dzNqRzhidVhNQnBIbEJtVkluSjJIX3g0Tlc5ZHNuMkZZTHM0eEFPYjNlczhYUk4weEQwSTlSVTBmcHZQYUFyMlc3THBuNldoM2JoaWRMMGxMRFZFUlMyYUJpQdIBxwFBVV95cUxOWTl0Unp3MnRyWHFJVjhGNnlCaHk3dXExLVp0OG45ZDVRZW5PN1NrejQ1cmg2NWsxWk9TNFlJNkZDUEMwc1JSbV9OSjd3aVJOSzF3Rk12cGtvWFlDSHlVM05XRnJkV3QtSEFmVDZiMXFjOU5rWTNhN3VfV1FjMlVYdFV2X2RUR2VoX0NFZUgzZlhITGUxTzVid0p3ODd0RmxNaDBBQXhoUnNDTTdkZXRTUml6bXdaTzY4Nnl3cVlnZUhLU2F0cldV?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-10 02:05:48 UTC_
+_Last updated: 2026-04-10 07:24:36 UTC_
