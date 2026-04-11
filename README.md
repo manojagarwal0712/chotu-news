@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Namastes and a rare moment: PM Modi speaks to Rahul Gandhi while paying tribute to Jyotiba Phule
+- Railways announces two ‘summer special’ trains on Mumbai-Howrah route: Check stoppages, timings
   
-  🔗 https://indianexpress.com/article/india/pm-modi-rahul-gandhi-meeting-jyotiba-phule-anniversary-tribute-10630751/
+  🔗 https://indianexpress.com/article/india/railways-announces-two-summer-special-trains-on-mumbai-howrah-route-check-stoppages-timings-10631309/
 
-- Bengaluru-Mumbai Vande Bharat sleeper train gets Railway Minister Ashwini Vaishnaw’s nod
+- CAA push in Bengal: Will fast-track citizenship for refugee communities if BJP wins, says Modi
   
-  🔗 https://indianexpress.com/article/india/bengaluru-mumbai-vande-bharat-sleeper-train-gets-railway-minister-ashwini-vaishnaws-nod-10630692/
+  🔗 https://indianexpress.com/article/india/bengal-elections-2026-caa-citizenship-modi-infiltrators-warning-10631042/
 
-- Gold Rate Today, April 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Hyderabad Metro Rail Phase 2 Project: Telangana govt submits 162-km expansion proposal to Centre – Check latest update
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-april-11-check-18-22-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-cities-10630627/
+  🔗 https://indianexpress.com/article/india/hyderabad-metro-rail-phase-2-project-telangana-govt-submits-162-km-expansion-proposal-to-centre-10630825/
 
-- ‘Shocked’ to see officials he suspended still working at Mining Directorate, J-K Deputy CM demands probe
+- Delhi Police arrest Bhubaneswar youth over ‘radical group’ links, taken on transit remand
   
-  🔗 https://indianexpress.com/article/india/shocked-to-see-officials-he-suspended-still-working-at-mining-directorate-j-k-deputy-cm-demands-probe-10630339/
+  🔗 https://indianexpress.com/article/india/delhi-police-arrest-bhubaneswar-youth-group-linksremand-10631013/
 
-- ‘Opinions differ, but everyone is heard’: Speaker Om Birla on why discussions go ‘late into night’ in Parliament
+- Bhubaneswar Metro scrapped or just on hold? Why BJP’s U-turn is sparking political fury in Odisha
   
-  🔗 https://indianexpress.com/article/india/opinions-differ-everyone-heard-speaker-om-birla-discussions-night-parliament-10630361/
+  🔗 https://indianexpress.com/article/india/bhubaneswar-metro-why-bjps-u-turn-is-sparking-political-fury-in-odisha-10630995/
 
 - Artemis II astronauts complete milestone voyage around the moon
   
@@ -60,6 +60,18 @@
   Powell
   🔗 https://www.livemint.com/companies/bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-11775855556546.html
 
+- Stock market holiday: NSE, BSE to remain closed on this date next week; here's why
+  Trading activity on the NSE and the BSE will remain suspended
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-bse-to-remain-closed-on-this-date-next-week-heres-why-11775902145011.html
+
+- Silver rate today, 11 April: Why you should buy the dip in white metal? Explained
+  MCX silver price shot up from  ₹2,32,600 per kg
+  🔗 https://www.livemint.com/market/commodities/silver-rate-today-11-april-why-you-should-buy-the-dip-explained-with-crude-oil-us-iran-war-us-fed-rate-cut-11775897222671.html
+
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 13 April 2026
+  Sumeet Bagadia recommends three stocks to buy on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-april-2026-11775891637752.html
+
 - Why will climbing 25K not be easy for the Nifty 50 index? Explained with 5 reasons
   Nifty 50 index rose sharply and decisively broke above the 200-DEMA placed at
   🔗 https://www.livemint.com/market/stock-market-news/why-will-climbing-25k-not-be-easy-for-the-nifty-50-explained-with-5-reasons-11775888003734.html
@@ -68,17 +80,13 @@
   Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai
   🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-11-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775882437063.html
 
-- War? Inflation? The market is moving on.
-  The cease-fire announced on Tuesday led to the best day for the stock market in almost exactly a year. But
-  🔗 https://www.livemint.com/market/war-inflation-the-market-is-moving-on-11775882374951.html
+- Anthropic brings Claude AI to Microsoft Word so you can chat with your documents
+  Anthropic has launched Claude for Word in beta. The new tool is currently only available for for Team and Enterprise subscribers.
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-brings-claude-ai-to-microsoft-word-so-you-can-chat-with-your-documents-11775892419940.html
 
-- Stocks to buy under  ₹100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-   Mehul Kothari recommends three shares to buy or sell — Network18, Motherson
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11775878511904.html
-
-- Global Funds Flee Indian Stocks at Record Pace on Growth Fears
-  Global funds are dumping Indian equities at a record clip. An energy shock from the US-Iran war threatens to derail
-  🔗 https://www.livemint.com/market/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears-11775878617032.html
+- Anthropic blocks OpenClaw's founder from accessing Claude AI, reverses decision in hours
+  Peter Steinberger faced a temporary ban from &amp;nbsp;Cla
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-blocks-openclaws-founder-from-accessing-claude-ai-reverses-decision-in-hours-11775888501493.html
 
 - Elon Musk's X is finally cracking down on engagement farming with big overhaul to its monetization program
   Elon Musk's X is making changes to its revenue sharing program. X's Product Head, Nikita Bier, confirmed the changes in a
@@ -92,53 +100,45 @@
   OpenAI reported a security issue related to third-party library Axios. The company said it
   🔗 https://www.livemint.com/technology/tech-news/openai-says-it-faced-a-security-issue-forces-mandatory-update-for-all-mac-users-to-block-fake-chatgpt-apps-11775873495758.html
 
-- Vijay Sales Apple Days: Check out top offers on iPhone 17 Pro Max, iPhone 17, iPhone 16 and more
-  Vijay Sales has launched its Apple Days sale from April 11 to 16. The e-commerce
-  🔗 https://www.livemint.com/technology/tech-news/vijay-sales-apple-days-check-out-top-offers-on-iphone-17-pro-max-iphone-17-iphone-16-and-more-11775868830097.html
+- S&P 500 Notches Longest Winning Run Since October: Markets Wrap - Bloomberg.com
+  P 500 Notches Longest Winning Run
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVJHUFZWMU9xUGhyNVlHWnd3eTB1OVJWTFFPUDJIOVdOTXN4QWRfc3IyZFV6T0lKQTFJNkVkVFlwQ3pISGlrY3N1MGNWajdsbWNtSEVSdjBLVGw0MlhVV0xoT1h0R05neTdLekNYb1pMY2xLSVBBM1FncnNvUzAzdno2OVFuT3ZQQVV1SFNSQ1lKZ0dk?oc=5
 
-- China’s state media turns to social media and AI to tell its story — and often mock the US
-  China’s state media turns to social media and AI to tell
-  🔗 https://www.livemint.com/technology/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us-11775869369048.html
+- What is US stock market prediction for Monday, and will Dow Jones, S&P 500 and Nasdaq stay in red or turn - The Economic Times
+  What is US Monday, and will the 500 and Nasdaq stay in red or turn in turn?
+  🔗 https://news.google.com/rss/articles/CBMipwNBVV95cUxOdHFYNDVKNkwtYUV3S25nWl9KR205VGNTam9TX05ETnFuSWpid1RRYUdzOG13UlZjOEVmOEZvLTF2VU52LU4zTjg0cVhKWFdJVjZCenlKa3BiUnhDeVZLd0FiNTNKWVpqc0R5T25nNTl3REtlbENKWXdPelAxSHZEQUZLOTNUQmFBRkhaWTNOVEJCRzk4NU9reHNvMWhsUXNMeWVaOEw2VEVHaEh1RTkwREtENjBUMnctTTBCMUptdDRyMU1oZjEyLWlhdHg1RXR3eFNTVklRbHpwcjgzYmhRYmp6UndQRGVYMU43TzVneEdzV1FLbktpTVc0anY3aG9Yc0Q3REFGcFlrVzgtSk9wT0NfQVJGMUctYS1FZlllR1A3M0tFUmtjanZLREwzQW1hTTgwaWRGT2ZBZ2hFajdyMG1RRW1iTElKczBnY2dkNHdBTUdLQUR1RGdIMG5VajRSNUNTT0hmUm5KQjZNN0xzWVd0MFpTZXhZWU1BeDhPYUswR2NSaXcyZm5KZlpJUkllZV9wdF92SlFPSnVuMHhyV1hqZEhrbjjSAawDQVVfeXFMTi1XczlkWWQ3LUpqMzZjR1EyNS1XTWE0YjhDUWk1ZTBQcF83ejFjUllRVTJJYk1sd2U1bGtibVRycE8xSGhHcDczd0dKTHdGbGw1RnFWQUp1Ui00cUJLbTNZTTRGV3lvT2tWQTZZQTM2ajIxREprNkM2T2pkTGNpNHN6TlRIQk83eHZPQmluWEJKWWhuLUtXUjB2SXZZczUtYW9EcVJ6TXl4UWRTOFFXRzZNYjIwcTNweVdyVDhTSU9XWUNaVXJUNVI0amRYZ295UE5qU3JBWTlPQzl4Y29vcE45WHdQWlpNLXpUem5UUmV0b2tjbVhvWWlSeFRJYWFHY1EtdEVjVHhzTUpyS3JVVHJaNlNoUkxRZmZsbHNiYWMxRTNrNHZNSVRZX1IwbWxMelRnVlhydnpGSy02cnZObFdia1lFQlpmNGliMkJzMHluQl9ETFlyRTVWdmljV1N4bnFYcEViVDg2Y3RhU2tMR0dwUnZwTGV1WnZQeURsYlcydzJaTXBJblZ5SVF5Tk5VWnpfdEN5Zi1PZ0xaQ2p5VXlVLU14VHNhemVwdkQ?oc=5
 
-- From complexity to clarity: How AI is transforming insurance for customers
-  Artificial Intelligence is revolutionizing insurance in India. Customers now start their search online, with AI simplifying complex policies into easy conversations. This shift is crucial for increasing insurance penetration across the nation.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-complexity-to-clarity-how-ai-is-transforming-insurance-for-customers/articleshow/130185935.cms
+- Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week; March Inflation Soars; Consumer Sentiment Hits All-Time Low - Investopedia
+  Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week. March In
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1JFS3Nac0xjNmQ3c3k1Yk9pcWEzbnBuTmFENGtpaWV0QTdDdlFsbkRDMlN5QURQRmZVMWpnVGtObk5GM3U3MUtWUnNVRTYzZDRNdzh6c1dMZ2xfUDhJazZjUmV6MGVuWlBsOXYxWjlIS2hoTHdTRHl3OEx5cl9YLW9xQi1SaHRLMHdyR1N2RmQ?oc=5
 
-- From Panic to Patience: 7 investing lessons from James O’Shaughnessy for today’s turbulent markets
-  Veteran investor James O’Shaughnessy’s timeless principles offer a crucial guide. His framework stresses a long-term perspective, a robust process over chasing quick gains. Mastering behavior, not predicting the future,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-panic-to-patience-7-investing-lessons-from-james-oshaughnessy-for-todays-turbulent-markets/articleshow/130185713.cms
+- Stock market correction: Have domestic inflows changed the rules for Indian equities? - Mint
+  The Indian stock market has been in a correction since
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVc0eHNzMmJMLXliR2djQUVub0FLcWxoWEhvR2xhUXZVVkxoYVNNczNpanl4VUowd2VTRTB3SXZGMURXYUx3YmduOVphMkVnZTA0Qkt1bHQwT3VhNlhYWUNxWWh2OHR1Zjh4SDUwbEw4U1BVX2QzNV9uMXo1dWxGT0U5cXl2dkFKOUJJT0loWExFMVd0NzFXYWJPdHFDWGJiOFN0Nl9VbndvNFpUU1U1VW5oM0t6a1Z0U1ppaG5kVGhaSEdVVHFITy1UWWNhYjl2X1RKTmFEeFhtSlMzWmY0ZTRTeEpfZ9IB6wFBVV95cUxQdURaYmVoOTZ5TnpfQUJmdVN3bHFqLXczMHlXWElvcEdCNEV4dHF6MzkySXlULXJSZURER2I0Zk9mQU9RcTNwcTRhcUlLWWpLVlg0V3JMNjZ3UE9nQzdkR0RvMmFOVVB1aEpUYnA2b3JaX0NZckxuMEFtRW1SMnV2ejlfTTVLTnVUMFBQcHpabHVWRnU3cUQ5Y0pvcUhNNnpMX3lfbnZNaHU0dUlKcV8wNVhpNXVNV3lHOXkwVF9lZjNRdi1kODZNZm5qZVhmZmN2VGFvakFGRkpmTjFiOEVnZU9nRGtuaTluOW1N?oc=5
 
-- IOI Properties plans Malaysia REIT with assets worth $1.9 billion
-  IOI Properties Group is set to launch a Malaysian real estate investment trust valued at approximately $1.9 billion. This REIT will encompass a diverse portfolio of retail, office, and hotel assets.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ioi-properties-plans-malaysia-reit-with-assets-worth-1-9-billion/articleshow/130185295.cms
+- Madhusudan Kela picks beaten-down smallcap bets; buys Indiabulls, Simplex Infra in Q4 - The Economic Times
+  Madhusudan Kela picks beaten-down smallcap
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenM3Y2xCbDZsMEc4SlFickRZZTZPLXA2MEJITWJYd3JWSGdQckdNRUJOMzRzTHlQR1hJUkliblkydHBWczBWQ2M0Zno0ZENUVUV0bF9HXzdLbDJJYzNqZG9fOVE5WklKVEhpbzdNN1FOOGF2c0dwa1htNGVIN2J4X19LeHRKRnRjbDVxc096OVRzTURIWTNfQ1drZDhrR2phMEN1MHZFX0pVbkZsalhOa3FDMGNIaHVUR0UxUWFIaXVPUjFoWWJOcHlETGlPTkUzY1Z6MEt0Y2NzWlpRa3VfOEN5OFFQSXhmWFd6aE5B0gHzAUFVX3lxTE9fOWNkTDZwVXBYNmFtRENZV0Q1TnBzOHVqcU1YTGtPZXI1VVE2NlhvbDQzZVZYNzJ3ZzNsQ0w2SElaRlBQSG1HRW1DVlBnVG9hQTRrYzJ4X25feHl3TlBBUTNEU3NQcjZHMlFwZ2dHY0NTNlBFS1hwVGp3NURnajdkYlNsRVhvZjBUNnF3cnVKR1h2U05DWHFuQ3RhWG5hNnQ5REN2Z1FyaUZvZ0ZGTjBDQXFBTjgzS1dfcGpZb0stdlpQVzQ5WHNOd3puaDZMekhUN19TLURtWFBsQXlneExmUm1peUhiU0IweDRtbHduS2pONA?oc=5
 
-- Concurrent Gainers: 11 stocks that gained for five straight days, rallying 15–30%
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-11-stocks-that-gained-for-five-straight-days-rallying-1530/slideshow/130185263.cms
+- Madhusudan Kela picks beaten-down smallcap bets; buys Indiabulls, Simplex Infra in Q4
+  Madhusudan Kela has bought stakes in Indiabulls Limited and Simplex Infrastructures Limited. These companies have seen recent underperformance. Kela's move signals a contrarian investment
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-picks-beaten-down-smallcap-bets-buys-indiabulls-simplex-infra-in-q4/articleshow/130190449.cms
 
-- FIIs sell Indian equities worth Rs 48,213 crore in April, so far; FY26 sell-off balloons to Rs 1.79 lakh crore
-  Foreign investors continued their significant sell-off in Indian equities, offloading Rs 48,213 crore in April alone. Despite this trend, domestic markets ended Friday with strong gains, buoyed by buying from local institutional investors
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-48213-crore-in-april-so-far-fy26-sell-off-balloons-to-rs-1-79-lakh-crore/articleshow/130184582.cms
+- D-Street Week Ahead: Nifty extends rebound; Godfrey Phillips signals breakout after base formation
+   Markets rebounded strongly, with the Nifty closing up 1.16%. GODFREYPHLP shows a significant base formation and potential trend reversal. The stock is
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-nifty-extends-rebound-godfrey-phillips-signals-breakout-after-base-formation/articleshow/130190393.cms
 
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+- Bitcoin climbs to $73K after rangebound move, softer CPI data supports upside
+  Bitcoin surges past $73,000, buoyed by encouraging inflation data that eased liquidity concerns. Despite some large holder sell-offs, strong institutional buying and short liquidations helped maintain Bitcoin's healthy trading range.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-73k-after-rangebound-move-softer-cpi-data-supports-upside/articleshow/130189039.cms
 
-- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
-  India Successfully Demonstrates 1,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+- F&amp;O Talk: Nifty's 6% gains are strongest since February 2021. Is it pullback or trend-reversal?
+  Indian markets concluded the week on a strong note, continuing their upward trend. Buying interest in banking, auto, and consumer stocks fueled the gains.
+  🔗 https://economictimes.indiatimes.com/markets/options/fo-talk-niftys-6-gains-are-strongest-since-february-2021-is-it-pullback-or-trend-reversal/articleshow/130188466.cms
 
-- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
-  India-UAE comprehensive strategic partnership: Jaish
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
-
-- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
-  Bangladesh Foreign Minister Rahman repeats demand for Has
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
-
-- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
-  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
+- Aurobindo Pharma share buyback, Muthoot Fin dividend, 2 other corporate actions next week
+  Aurobindo Pharma’s share buyback and Muthoot Finance’
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-share-buyback-muthoot-fin-dividend-2-other-corporate-actions-next-week/slideshow/130188906.cms
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -148,17 +148,17 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
-  India-UAE comprehensive strategic partnership: Jaish
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
+- 4-lane Barabanki-Bahraich highway to help boost trade ties between India and Nepal - DD News
+  4-lane Barabanki-Bahraich
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pMXzctZG9lNk55SE9FTkp5ZWtzQlB0eDY5ZjBCY1ZDTW55VEh1SWF1UXNCNnpURW1aa0JOckZ1ZGFyZ3hkQWRISlFUS3NJTWVfLTBhaE9PS3I2TFZRN21TUGVxMVd0ZW9EbnZ4MUEyY3RaQ1FKOFdyWmg5dHpZclZlMEgyWFFSZll6c2cxVzBfamNYeFA5b2NvcjAtc2ROZ182R2RMZXJNWmRv?oc=5
+
+- 'Mahatma Gandhi mein aag lag rahi hai bhai' - The Times of India
+  'Mahatma Gandhi mein aag
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmd5NUlKQ1JvVWRMVktZdHE5UE01WW5CcUtsZzNZYzVUTDRNcG1CSGR4ZkVKMm44aUZyc09jUWFoLVJVeDBvOGRFZVNyNi14TjVobGR2dWd6RUYzTTdlTmRueXE5VHF6eVpwUGlyeXlkT252YVpXc3cybWdfQXlxaHo1Z1ZoZ2ZTdXVRS3lLOGxSYVVfbjgzR0NiekwzaG1PTTJOaWpiTVV6Qnc5b3fSAbMBQVVfeXFMTnMzT2Y2Z085bjJHc3BVLTAwZTVqU2tPUWh6SnF3VHRBWEEwN0FJZ1JfMUdXX1VvUzB2ZDgwY1REX2FBTGtydHF6TEVKUTVZRFg4eHJnSWM5REpTSUZpNDlsUzFUSXdOSnIxSXBia3JaQ2dfbHpQc1lRVXk1MDU1cVh4SGZYNUFYZkJnSG1NNDdYY2lrNzhrODgzY3dJMTRHQlZGTkxQMDc5Q3lCSzFkenE3VlU?oc=5
 
 - Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
   Bangladesh Foreign Minister Rahman repeats demand for Has
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
-
-- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
-  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -168,17 +168,17 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
-  India-UAE comprehensive strategic partnership: Jaish
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
+- 4-lane Barabanki-Bahraich highway to help boost trade ties between India and Nepal - DD News
+  4-lane Barabanki-Bahraich
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pMXzctZG9lNk55SE9FTkp5ZWtzQlB0eDY5ZjBCY1ZDTW55VEh1SWF1UXNCNnpURW1aa0JOckZ1ZGFyZ3hkQWRISlFUS3NJTWVfLTBhaE9PS3I2TFZRN21TUGVxMVd0ZW9EbnZ4MUEyY3RaQ1FKOFdyWmg5dHpZclZlMEgyWFFSZll6c2cxVzBfamNYeFA5b2NvcjAtc2ROZ182R2RMZXJNWmRv?oc=5
+
+- 'Mahatma Gandhi mein aag lag rahi hai bhai' - The Times of India
+  'Mahatma Gandhi mein aag
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmd5NUlKQ1JvVWRMVktZdHE5UE01WW5CcUtsZzNZYzVUTDRNcG1CSGR4ZkVKMm44aUZyc09jUWFoLVJVeDBvOGRFZVNyNi14TjVobGR2dWd6RUYzTTdlTmRueXE5VHF6eVpwUGlyeXlkT252YVpXc3cybWdfQXlxaHo1Z1ZoZ2ZTdXVRS3lLOGxSYVVfbjgzR0NiekwzaG1PTTJOaWpiTVV6Qnc5b3fSAbMBQVVfeXFMTnMzT2Y2Z085bjJHc3BVLTAwZTVqU2tPUWh6SnF3VHRBWEEwN0FJZ1JfMUdXX1VvUzB2ZDgwY1REX2FBTGtydHF6TEVKUTVZRFg4eHJnSWM5REpTSUZpNDlsUzFUSXdOSnIxSXBia3JaQ2dfbHpQc1lRVXk1MDU1cVh4SGZYNUFYZkJnSG1NNDdYY2lrNzhrODgzY3dJMTRHQlZGTkxQMDc5Q3lCSzFkenE3VlU?oc=5
 
 - Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
   Bangladesh Foreign Minister Rahman repeats demand for Has
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
-
-- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
-  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -188,45 +188,57 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
-  India-UAE comprehensive strategic partnership: Jaish
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
+- 4-lane Barabanki-Bahraich highway to help boost trade ties between India and Nepal - DD News
+  4-lane Barabanki-Bahraich
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pMXzctZG9lNk55SE9FTkp5ZWtzQlB0eDY5ZjBCY1ZDTW55VEh1SWF1UXNCNnpURW1aa0JOckZ1ZGFyZ3hkQWRISlFUS3NJTWVfLTBhaE9PS3I2TFZRN21TUGVxMVd0ZW9EbnZ4MUEyY3RaQ1FKOFdyWmg5dHpZclZlMEgyWFFSZll6c2cxVzBfamNYeFA5b2NvcjAtc2ROZ182R2RMZXJNWmRv?oc=5
+
+- 'Mahatma Gandhi mein aag lag rahi hai bhai' - The Times of India
+  'Mahatma Gandhi mein aag
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmd5NUlKQ1JvVWRMVktZdHE5UE01WW5CcUtsZzNZYzVUTDRNcG1CSGR4ZkVKMm44aUZyc09jUWFoLVJVeDBvOGRFZVNyNi14TjVobGR2dWd6RUYzTTdlTmRueXE5VHF6eVpwUGlyeXlkT252YVpXc3cybWdfQXlxaHo1Z1ZoZ2ZTdXVRS3lLOGxSYVVfbjgzR0NiekwzaG1PTTJOaWpiTVV6Qnc5b3fSAbMBQVVfeXFMTnMzT2Y2Z085bjJHc3BVLTAwZTVqU2tPUWh6SnF3VHRBWEEwN0FJZ1JfMUdXX1VvUzB2ZDgwY1REX2FBTGtydHF6TEVKUTVZRFg4eHJnSWM5REpTSUZpNDlsUzFUSXdOSnIxSXBia3JaQ2dfbHpQc1lRVXk1MDU1cVh4SGZYNUFYZkJnSG1NNDdYY2lrNzhrODgzY3dJMTRHQlZGTkxQMDc5Q3lCSzFkenE3VlU?oc=5
 
 - Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
   Bangladesh Foreign Minister Rahman repeats demand for Has
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
 
-- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
-  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 4-lane Barabanki-Bahraich highway to help boost trade ties between India and Nepal - DD News
+  4-lane Barabanki-Bahraich
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2pMXzctZG9lNk55SE9FTkp5ZWtzQlB0eDY5ZjBCY1ZDTW55VEh1SWF1UXNCNnpURW1aa0JOckZ1ZGFyZ3hkQWRISlFUS3NJTWVfLTBhaE9PS3I2TFZRN21TUGVxMVd0ZW9EbnZ4MUEyY3RaQ1FKOFdyWmg5dHpZclZlMEgyWFFSZll6c2cxVzBfamNYeFA5b2NvcjAtc2ROZ182R2RMZXJNWmRv?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- 'Mahatma Gandhi mein aag lag rahi hai bhai' - The Times of India
+  'Mahatma Gandhi mein aag
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmd5NUlKQ1JvVWRMVktZdHE5UE01WW5CcUtsZzNZYzVUTDRNcG1CSGR4ZkVKMm44aUZyc09jUWFoLVJVeDBvOGRFZVNyNi14TjVobGR2dWd6RUYzTTdlTmRueXE5VHF6eVpwUGlyeXlkT252YVpXc3cybWdfQXlxaHo1Z1ZoZ2ZTdXVRS3lLOGxSYVVfbjgzR0NiekwzaG1PTTJOaWpiTVV6Qnc5b3fSAbMBQVVfeXFMTnMzT2Y2Z085bjJHc3BVLTAwZTVqU2tPUWh6SnF3VHRBWEEwN0FJZ1JfMUdXX1VvUzB2ZDgwY1REX2FBTGtydHF6TEVKUTVZRFg4eHJnSWM5REpTSUZpNDlsUzFUSXdOSnIxSXBia3JaQ2dfbHpQc1lRVXk1MDU1cVh4SGZYNUFYZkJnSG1NNDdYY2lrNzhrODgzY3dJMTRHQlZGTkxQMDc5Q3lCSzFkenE3VlU?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
+  Bangladesh Foreign Minister Rahman repeats demand for Has
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain - The Guardian
+  ‘There’s no shortage of terrifying technology’
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjBHWVRacm92LWdwMk0xVVc3cHI0cDhVbTIwQVdqa3duWktKR2d0cHRRRkN4MVp2Wk41MDA3dlpLMkE0aml0eXJaYnU5N0NGTmk0a29lLXF6MnViQzhMYXE2R0NRcnROcURmMkUyVjhDUF8tcnpLejgwQjlmVEVySGYyM2ZLZ056a2tNS2puTDNFcTl4c1RPT0dn?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- 'Everything begins with intelligence': Three wars rewriting the rules of modern warfare - The Jerusalem Post
+  'Everything begins with intelligence': Three wars rewriting the rules of
+  🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LUTFaNm42ZmU2cDlPSFZob1cxZWNNZlBzX3dZNExxUzhEUTQ3SmowZ1h5LURlS1Y3Zkd1ZExIQktrLVZJcFJpTXg0ZUx3cnVMMHJPZWxwWmlScm0tSlR0ZWhYTQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Banks Are Warned About Anthropic’s New, Powerful A.I. Technology - The New York Times
+  Banks are Warned About Anthropic’
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEx6TjVMMVBxejNzblo2UjBtU1RueFJORXNmQTJPTkpsTGNHQWxzbTBabzNNZ2xWMldRNDMzZUVWNlJ3dTREMlJNdVlQeGpPUVEyN0dudXFUWFRtSlZic1NRQTZ3MVdZRzlZekRXVEFiNU9XamdLYV9kUjEyV1RyNWJtcFoyTWMycVJlNENTQQ?oc=5
+
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+
+- 'Technology A Constitutional Instrument' : CJI Surya Kant Launches e-Courts Phase III Project With₹7,200... - Live Law
+  'Technology A Constitutional Instrument' : CJI Surya Kant
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHN3OXVGci1RcjIyUjM3cHctX3N1VnNUempsbWQ4ZnNBY0wteHZ5c3lJdkU0aE5VMS1TdXphNE5TdTRkWnAtY09yd2tLek9fTmNrazh4elJEVnVyaVpGdXlaNnJpVWtPV3hYeFFoQk5ueDhGUFA1Rm1HajFCUW9iS2lfbDZnTk52WDdhTjdZMkxaV2dBRkZYek5EcktjNWs2QnExbWxaSVBSV1piZTdiMVNLRzdqT0d0b0RTLWM4TFFBT25hTHRLcm5uQTlvdlF6Z096RTZ4U2JSeDdwNTRKVVUwZ2NaZVlV0gHuAUFVX3lxTE9MSHpMUkg3SzFWekhGcElpTFNRMmlxR29jbVVDUmhScVg5YnB5RXo0dThiemRZNDNZV3QweHdJYi02VklSUDZnS0ktWXF2QkZaRm04UUZJWmRxSVdEZFpJd2xkelg4RUV3eElOQ01QY0FoRENMMmREeDV1TXNaRk5wcHVBSld1TDVwTTN4UFYyLWllQVJyam9hS0FZVm16ZllYZUZOTzFBSkxja2h2cW54ZjJVdWhLTG1KdGpnOXhZX1VSMDFjMUxqdy1mUllDWjZaNGlCWkdtWGV5SU45WGI0eEVXVmNWSGRqV0dNaEE?oc=5
 
 
-_Last updated: 2026-04-11 06:59:25 UTC_
+_Last updated: 2026-04-11 12:48:01 UTC_
