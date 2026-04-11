@@ -1,32 +1,36 @@
 # 📰 Daily News Summaries
 
-- A guiding light for generations: PM Modi pays tribute to Phule on birth anniversary
+- Namastes and a rare moment: PM Modi speaks to Rahul Gandhi while paying tribute to Jyotiba Phule
   
-  🔗 https://indianexpress.com/article/india/a-guiding-light-for-generations-pm-modi-pays-tribute-to-phule-on-birth-anniversary-10630407/
+  🔗 https://indianexpress.com/article/india/pm-modi-rahul-gandhi-meeting-jyotiba-phule-anniversary-tribute-10630751/
 
-- Women’s reservation law amendment: Congress may call Opp meet on April 15
+- Bengaluru-Mumbai Vande Bharat sleeper train gets Railway Minister Ashwini Vaishnaw’s nod
   
-  🔗 https://indianexpress.com/article/india/womens-reservation-law-amendment-congress-may-call-opp-meet-on-april-15-10630377/
+  🔗 https://indianexpress.com/article/india/bengaluru-mumbai-vande-bharat-sleeper-train-gets-railway-minister-ashwini-vaishnaws-nod-10630692/
 
-- SIR in 10 states, three Union Territories so far: Electoral rolls trimmed by 5.58 crore, most in Gujarat, UP
+- Gold Rate Today, April 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/sir-in-10-states-three-union-territories-so-far-electoral-rolls-trimmed-by-5-58-crore-most-in-gujarat-up-10630380/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-april-11-check-18-22-24-carat-gold-prices-chennai-mumbai-delhi-kolkata-cities-10630627/
 
-- Ceramic City kilns go cold over fuel crisis: ‘Hippo’ cylinders run out, workers leave
+- ‘Shocked’ to see officials he suspended still working at Mining Directorate, J-K Deputy CM demands probe
   
-  🔗 https://indianexpress.com/article/india/ceramic-city-kilns-go-cold-over-fuel-crisis-hippo-cylinders-run-out-workers-leave-10630363/
+  🔗 https://indianexpress.com/article/india/shocked-to-see-officials-he-suspended-still-working-at-mining-directorate-j-k-deputy-cm-demands-probe-10630339/
 
-- Vande Bharat Sleeper occupancy: How trains are performing
+- ‘Opinions differ, but everyone is heard’: Speaker Om Birla on why discussions go ‘late into night’ in Parliament
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-occupancy-how-trains-are-performing-10630094/
+  🔗 https://indianexpress.com/article/india/opinions-differ-everyone-heard-speaker-om-birla-discussions-night-parliament-10630361/
+
+- Artemis II astronauts complete milestone voyage around the moon
+  
+  🔗 https://indianexpress.com/article/technology/science/artemis-ii-astronauts-complete-milestone-voyage-around-the-moon-10630808/
+
+- OpenAI identifies security issue involving third-party tool, says user data was not accessed
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-not-accessed-10630689/
 
 - Building low-cost medical devices that scale is a challenge: HSD Srinivas, Tata Trusts
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/hsd-srinivas-tata-trusts-interview-public-health-medtech-innovations-india-10630076/
-
-- Artemis II splashdown: Orion comes back, begins a new era in human space travel
-  
-  🔗 https://indianexpress.com/article/technology/science/orion-ii-splashdown-artemis-ii-comes-back-begins-a-new-era-in-human-space-travel-10630417/
 
 - Vijay Sales Apple Days 2026: iPhone 17, MacBooks get bank discounts, exchange offers
   
@@ -36,9 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/science/isro-gaganyaan-crew-module-air-drop-test-chinook-helicopter-10629914/
 
-- NASA Artemis 2 Splashdown LIVE Updates: Back after Moon flyby, Orion lands in the Pacific
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-artemis-2-splashdown-live-updates-astronaut-prep-for-homecoming-after-10-day-mission-10629540/
+- IBM to pay $17 million as settlement linked to anti-DEI probe — What was the tech major accused of?
+  The settlement comes as the first resolution from the US Justice Department's unit formed last year called “Civil Rights Fraud Initiative”
+  🔗 https://www.livemint.com/companies/news/ibm-to-pay-17-million-as-settlement-linked-to-anti-dei-probe-what-was-the-tech-major-accused-of-11775878822522.html
+
+- Kalshi wins reprieve from Arizona criminal case at CFTC’s urging
+  Kalshi Inc. won a temporary reprieve from criminal prosecution in Arizona. A judge suspended
+  🔗 https://www.livemint.com/companies/news/kalshi-wins-reprieve-from-arizona-criminal-case-at-cftc-s-urging-11775878025828.html
+
+- Sam Altman's home hit by Molotov cocktail, OpenAI CEO shares rare family photo in first reaction — ‘We try to be…’
+  San Francisco police arrested a 20-year-old man for allegedly throwing a Molotov cocktail at Sam Altman's home in the city.
+  🔗 https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html
 
 - RBI proposals for large NBFCs leaves Tata Sons as only unlisted one
   The status of Tata Sons, which faces internal disagreements among its shareholders on a listing, remains unclear. The RBI has proposed changes to regulations for non-banking financial companies.
@@ -48,97 +60,65 @@
   Powell
   🔗 https://www.livemint.com/companies/bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-11775855556546.html
 
-- Boaz Weinstein Scores Win After UK Trust Backs SpaceX Proposal
-  A Baillie Gifford &amp; Co. trust that placed an early bet on SpaceX recommended a proposal
-  🔗 https://www.livemint.com/companies/boaz-weinstein-scores-win-after-uk-trust-backs-spacex-proposal-11775846429149.html
+- Why will climbing 25K not be easy for the Nifty 50 index? Explained with 5 reasons
+  Nifty 50 index rose sharply and decisively broke above the 200-DEMA placed at
+  🔗 https://www.livemint.com/market/stock-market-news/why-will-climbing-25k-not-be-easy-for-the-nifty-50-explained-with-5-reasons-11775888003734.html
 
-- Chandrasekaran urges Air India to stay the course amid turbulence
-  Chandrasekaran reportedly told employees in a townhall at Air India’s headquarters in Gurugram on Friday. “Our future is bright and we have laid a strong foundation for our ambitions,
-  🔗 https://www.livemint.com/companies/news/chandrasekaran-tata-sons-air-india-ceo-resignation-turbulence-campbell-wilson-11775823812869.html
+- Gold, silver rate today, 11 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver
+  Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rate-today-11-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775882437063.html
 
-- Swiggy co-founder Nandan Reddy steps down; Phani Kishan and Rahul Bothra join board in leadership rejig
-  Lakshmi Nandan Reddy, co-founder of Swig
-  🔗 https://www.livemint.com/companies/swiggy-co-founder-nandan-reddy-to-step-down-company-announces-major-board-reshuffle-11775824549227.html
+- War? Inflation? The market is moving on.
+  The cease-fire announced on Tuesday led to the best day for the stock market in almost exactly a year. But
+  🔗 https://www.livemint.com/market/war-inflation-the-market-is-moving-on-11775882374951.html
 
-- Small-cap stocks bought by FIIs in the March quarter
-  Despite all the selling by FIIs in the quarter gone by, these select small
-  🔗 https://www.livemint.com/market/stock-market-news/fii-buying-smallcap-stocks-march-quarter-foreign-investors-contrarian-bets-nifty-sensex-11775821929292.html
+- Stocks to buy under  ₹100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+   Mehul Kothari recommends three shares to buy or sell — Network18, Motherson
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11775878511904.html
 
-- Oil Posts Biggest Weekly Loss Since 2020 Ahead of Iran-US Talks
-  Oil edged lower in relatively light trading before highly-anticipated talks between Iran and US.
-  🔗 https://www.livemint.com/market/oil-posts-biggest-weekly-loss-since-2020-ahead-of-iran-us-talks-11775853334070.html
+- Global Funds Flee Indian Stocks at Record Pace on Growth Fears
+  Global funds are dumping Indian equities at a record clip. An energy shock from the US-Iran war threatens to derail
+  🔗 https://www.livemint.com/market/global-funds-flee-indian-stocks-at-record-pace-on-growth-fears-11775878617032.html
 
-- Gold Wavers as Traders Weigh Truce Path Ahead of US-Iran Talks
-  Gold swings between gains and losses as traders weigh path of fragile ceasefire. US and Iran start talks
-  🔗 https://www.livemint.com/market/gold-wavers-as-traders-weigh-truce-path-ahead-of-us-iran-talks-11775851918977.html
+- Elon Musk's X is finally cracking down on engagement farming with big overhaul to its monetization program
+  Elon Musk's X is making changes to its revenue sharing program. X's Product Head, Nikita Bier, confirmed the changes in a
+  🔗 https://www.livemint.com/technology/tech-news/elon-musks-x-is-finally-cracking-down-on-engagement-farming-with-big-overhaul-to-its-monetization-program-11775876168952.html
 
-- Ceasefire sends dollar toward weekly drop with US-Iran talks in focus
-  Ceasefire sends dollar
-  🔗 https://www.livemint.com/market/ceasefire-sends-dollar-toward-weekly-drop-with-us-iran-talks-in-focus-11775849393307.html
+- Pixel users report phones freezing on startup screen after latest Google update, company responds
+  After the March 2026 Pixel update, many users report their devices are stuck in bootloop, making them unusable. Google has also responded to the issue saying that it is actively
+  🔗 https://www.livemint.com/technology/tech-news/pixel-users-report-phones-freezing-on-startup-screen-after-latest-google-update-company-responds-11775875036837.html
 
-- Wall St mixed, set for weekly gains as investors watch Middle East negotiations
-  Wall St mixed, set for weekly gains as investors watch Middle
-  🔗 https://www.livemint.com/market/wall-st-mixed-set-for-weekly-gains-as-investors-watch-middle-east-negotiations-11775846305370.html
+- Mac users, update your ChatGPT app immediately: OpenAI issues urgent security warning
+  OpenAI reported a security issue related to third-party library Axios. The company said it
+  🔗 https://www.livemint.com/technology/tech-news/openai-says-it-faced-a-security-issue-forces-mandatory-update-for-all-mac-users-to-block-fake-chatgpt-apps-11775873495758.html
+
+- Vijay Sales Apple Days: Check out top offers on iPhone 17 Pro Max, iPhone 17, iPhone 16 and more
+  Vijay Sales has launched its Apple Days sale from April 11 to 16. The e-commerce
+  🔗 https://www.livemint.com/technology/tech-news/vijay-sales-apple-days-check-out-top-offers-on-iphone-17-pro-max-iphone-17-iphone-16-and-more-11775868830097.html
 
 - China’s state media turns to social media and AI to tell its story — and often mock the US
   China’s state media turns to social media and AI to tell
   🔗 https://www.livemint.com/technology/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us-11775869369048.html
 
-- How to edit your comments on Instagram? Check step-by-step guide
-   Instagram now allow users to edit comments within 15 minutes of posting. Users can make unlimited edits during this time, but only the text portion can be changed.
-  🔗 https://www.livemint.com/technology/tech-news/how-to-edit-your-comments-on-instagram-check-step-by-step-guide-11775807668485.html
+- From complexity to clarity: How AI is transforming insurance for customers
+  Artificial Intelligence is revolutionizing insurance in India. Customers now start their search online, with AI simplifying complex policies into easy conversations. This shift is crucial for increasing insurance penetration across the nation.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-complexity-to-clarity-how-ai-is-transforming-insurance-for-customers/articleshow/130185935.cms
 
-- Why was Claude Mythos really delayed? OpenAI points to Anthropic's massive compute constraints, says report
-  OpenAI has claimed that it has a significant advantage over Anthropic due to its early expansion of computing resources. The company also said in a leaked memo that
-  🔗 https://www.livemint.com/technology/tech-news/openai-vs-anthropic-chatgpt-maker-tells-investors-it-has-a-compute-advantage-predicts-reason-behind-claude-mythos-dela-11775799056604.html
+- From Panic to Patience: 7 investing lessons from James O’Shaughnessy for today’s turbulent markets
+  Veteran investor James O’Shaughnessy’s timeless principles offer a crucial guide. His framework stresses a long-term perspective, a robust process over chasing quick gains. Mastering behavior, not predicting the future,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-panic-to-patience-7-investing-lessons-from-james-oshaughnessy-for-todays-turbulent-markets/articleshow/130185713.cms
 
-- 'The biggest consumer fraud': Telegram CEO claims WhatsApp is secretly reading your private messages
-   Telegram's CEO Pavel Durov has criticized WhatsApp's encryption claims, labeling them as ‘biggest consumer fraud in history’ D
-  🔗 https://www.livemint.com/technology/tech-news/the-biggest-consumer-fraud-telegram-ceo-claims-whatsapp-is-secretly-reading-your-private-messages-11775795110768.html
+- IOI Properties plans Malaysia REIT with assets worth $1.9 billion
+  IOI Properties Group is set to launch a Malaysian real estate investment trust valued at approximately $1.9 billion. This REIT will encompass a diverse portfolio of retail, office, and hotel assets.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ioi-properties-plans-malaysia-reit-with-assets-worth-1-9-billion/articleshow/130185295.cms
 
-- OpenAI takes on Anthropic, overhauls ChatGPT Pro subscription with new AI plan: here's what you need to know
-  OpenAI has launched a $100/month ChatGPT subscription. The new Pro tier provides access to exclusive features. The company is also offering a temporary promotion for
-  🔗 https://www.livemint.com/technology/tech-news/openai-takes-on-anthropic-overhauls-chatgpt-pro-subscription-with-new-ai-plan-heres-what-you-need-to-know-11775785708245.html
+- Concurrent Gainers: 11 stocks that gained for five straight days, rallying 15–30%
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-11-stocks-that-gained-for-five-straight-days-rallying-1530/slideshow/130185263.cms
 
-- Oil Opens Higher With Focus on US-Iran Ceasefire: Markets Wrap - Bloomberg.com
-  Oil Opens Higher With Focus on US
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUU1JckIzN2V4NFdnOTFSQ1R2SXlhV2t2cEQ4MzRoSHluOE5mcnU2eG1IbWVPSmFPb3I1UDc5OGhqa0ktM2RrYVJlM29hQWd5OHd5aGtqZGFtN2gtVGZ6MDd3VnVQa1lxdTVxOFE1bDBmN3hoc0k5dFZ4ZjdSc1g1akVKMmhDMGdXU3BWLXdoc0stRTRp?oc=5
-
-- Stock Market News, April 10, 2026: Dow Falls After Highest Inflation Reading Since 2024 - WSJ
-  Stock Market News, April 10, 2026: Dow Falls
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzc3UWNKYjNXWkVRU21jOXMtcElGczhiM3NlSC1Ba01yZHRNWDJfdURHeU44WHdGMUhFWlJsSTg3VTlFY0lJMG0tU29CdVpiY0FwaGg2cElXZlYwWE55bFRjNFYzaTFMQnVMV1d5R09SRFoxTWV1VkcwemRaQmcwcA?oc=5
-
-- Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week; March Inflation Soars; Consumer Sentiment Hits All-Time Low - Investopedia
-  Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week. March In
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1JFS3Nac0xjNmQ3c3k1Yk9pcWEzbnBuTmFENGtpaWV0QTdDdlFsbkRDMlN5QURQRmZVMWpnVGtObk5GM3U3MUtWUnNVRTYzZDRNdzh6c1dMZ2xfUDhJazZjUmV6MGVuWlBsOXYxWjlIS2hoTHdTRHl3OEx5cl9YLW9xQi1SaHRLMHdyR1N2RmQ?oc=5
-
-- TCS, Infosys, Coforge slide up to 4% despite market rally: Here’s why IT stocks are falling today - Upstox
-  TCS, Infosys, Coforge slide up to 4% despite
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxONzNyVkx3VGloX1hlN2R1RS16TlNpUVJvS3ZOQzlua0dCUGY4VkpiSUlZQWhkWTlwMlNfZjdERmprdVgwbG5Xdjk1MElES2ZMdkRrLUUxcWxVaFhfR0prVDBSdzJHc216V0RKYkVjYzljS2Z6UHp2d0pFNXhkaU8yYmN5MkVQc2p2UEZ4Q3VrS1ZyREIxbkw4dkg5bnRCN1d6ampKbURUaE9NRVBNd1VmM2hlOXpiREdjWFFOTXJOMlpIRFlmQmRHNmprRzV5dU9XYXpBaFk2LVJvQlFnRGhvNUJBUDZhSkU?oc=5
-
-- Ashishkumar Chauhan: The man who transformed the markets - Forbes India
-  Ashishkumar Chauhan is
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmZNdldQV3BlcEswOFA4aWxYeklIQU5FYk0wTzhZd3VlSV96V2htUkV4eTNJTTF2WWE4S0hmTGhZQXAxb2tON1RWZVFuVExBNmwwcm1mMUt3V1FxVGxEcXhZR3NvX0psX2xzNV9vTm95NnU2N1F3cG9pZzZPeHlfS0VpUEM3ekExMTZRcUZKOGZsQ283eVlPMi1MZVVuMFNsTHNoeVNNZUFoT3QwSmNYSi1n0gG3AUFVX3lxTFAxcmpnVk90ZFJOVHpYVldBQ3p2b1FJRXpzaDQwbzA4NzZoV2JDU3VmNHp5dmJRTGxSUHd6WmN4VlE4bGxVTFZxOTRLWUpTbnJGbTBpd0ZYOXg4QU05Wnh2bE5HVGI3NFpwRGZqVDJ1bEJkbzNtamFKbzFPclAyeVBBbDZ2UmpwaVZveXFaR0s0Tm9XY0pmM2lrQTBGOEM0d3pqV0VGZTQwNFhZZlFWNjdFUUk0d1NSTQ?oc=5
-
-- US stocks today: US stocks end mixed, notches weekly gains as investors parse Middle East negotiations
-  All major indexes posted weekly gains as traders stayed cautious ahead of major earnings and macro risks. Inflation rose due to energy shocks, while Dow and S&amp;P slipped but Nasdaq gained on tech strength.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-mixed-notches-weekly-gains-as-investors-parse-middle-east-negotiations/articleshow/130179665.cms
-
-- Fed will need to explain why current inflation jump differs from 2022 surge
-  US inflation pressures are rising again as CPI shows the fastest monthly increase in nearly four years. The Federal Reserve is expected to hold rates steady, balancing oil-driven volatility and growth risks.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge/articleshow/130177869.cms
-
-- Ackman's $64 billion Universal bet hinges on power broker Bollore
-  Bill Ackman, the prominent hedge fund manager, has set his sights on Universal Music Group. Essential to this venture is the support from Vincent Bollore, the influential French billionaire who possesses nearly one-third of the music
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ackmans-64-billion-universal-bet-hinges-on-power-broker-bollore/articleshow/130176950.cms
-
-- US consumer sentiment dives to a record low in April amid Iran war
-  U.S. consumer sentiment plunged to a record low in early April. Consumers anticipated a surge in inflation in the
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-sentiment-dives-to-a-record-low-in-april-amid-iran-war/articleshow/130174179.cms
-
-- Ceasefire sends dollar toward weekly drop with US-Iran talks in focus
-  Investors are shifting their focus as the dollar declines, buoyed by the resumption of oil shipping after a ceasefire in the Gulf. This shift has sparked a sell-off in safe-
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/ceasefire-sends-dollar-toward-weekly-drop-with-us-iran-talks-in-focus/articleshow/130173818.cms
+- FIIs sell Indian equities worth Rs 48,213 crore in April, so far; FY26 sell-off balloons to Rs 1.79 lakh crore
+  Foreign investors continued their significant sell-off in Indian equities, offloading Rs 48,213 crore in April alone. Despite this trend, domestic markets ended Friday with strong gains, buoyed by buying from local institutional investors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-48213-crore-in-april-so-far-fy26-sell-off-balloons-to-rs-1-79-lakh-crore/articleshow/130184582.cms
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -148,37 +128,17 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Yashwant Varma's resignation may open graft-probe window - The Times of India
-  Yashwant Varma's resignation may
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
+- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
+  India-UAE comprehensive strategic partnership: Jaish
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
 
-- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
-  Highest-ever women voter turnout in Kerala,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
+- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
+  Bangladesh Foreign Minister Rahman repeats demand for Has
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
 
-- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
-  India wins 16 medals at 2026 Asian Boxing
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
-
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
-
-- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
-  India Successfully Demonstrates 1,
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
-
-- Yashwant Varma's resignation may open graft-probe window - The Times of India
-  Yashwant Varma's resignation may
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
-
-- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
-  Highest-ever women voter turnout in Kerala,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
-
-- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
-  India wins 16 medals at 2026 Asian Boxing
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
+- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
+  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -188,17 +148,17 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Yashwant Varma's resignation may open graft-probe window - The Times of India
-  Yashwant Varma's resignation may
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
+- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
+  India-UAE comprehensive strategic partnership: Jaish
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
 
-- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
-  Highest-ever women voter turnout in Kerala,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
+- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
+  Bangladesh Foreign Minister Rahman repeats demand for Has
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
 
-- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
-  India wins 16 medals at 2026 Asian Boxing
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
+- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
+  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
@@ -208,17 +168,37 @@
   India Successfully Demonstrates 1,
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Yashwant Varma's resignation may open graft-probe window - The Times of India
-  Yashwant Varma's resignation may
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
+- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
+  India-UAE comprehensive strategic partnership: Jaish
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
 
-- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
-  Highest-ever women voter turnout in Kerala,
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
+- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
+  Bangladesh Foreign Minister Rahman repeats demand for Has
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
 
-- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
-  India wins 16 medals at 2026 Asian Boxing
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
+- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
+  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
+
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+
+- India-UAE comprehensive strategic partnership: Jaishankar arrives in Abu Dhabi - The Times of India
+  India-UAE comprehensive strategic partnership: Jaish
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVklGUmlNYzZKa1FOSjdPSG45VDF5U1VvYVFXekJtZHBkWTUxLWtIRkdMNU5vdXZ5RkdyZnNIRGJZcU1XQlBMWGIzQkJobnZWZ21nczFfOW43TEJDb3UzR3ZrdUR5Y0ZzRDJtR0RSNnUxakEyWEUwSjNyRzJPeEtqVEFveTdRVjJDejlvME5ORkNFWUpfWEQ2NnotVnUxb3lDd09wS1JLUHhZY0c3eURIOE9pVHVoUHZPanFicTRNd3FCY1FVOF9EVGRoYThQREwxTkxCUldDeG8wVXF4cGfSAeMBQVVfeXFMUEFtcjA0YlgwS01MOGlQdE0wUlpmSGJlSzk2TXNGWUNDWlhiLVdOVFczUUdYcmdWYnlXbkJ4QnFnOGJIMWxGMUtZcDItNUtLSm0ybG1zMUhyVXI0MGRZQkNyaXEweW5NbVNVSXhlYU5OUm53d0R6cGMyNTM3UHhhaEQ5VDE2U3FsLVdlSnNESDZMcjFqV01OMDd5cG51czc3UW9fVzFKWFhIdVB6c1VJekUzRWVLVzZESjNsTDRGYVNOeFg2dmZpUWxmY3lLTi1tdjNjakc4WUhMeXZMYnNWSTgta2c?oc=5
+
+- Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman - The Hindu
+  Bangladesh Foreign Minister Rahman repeats demand for Has
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmxtb3lFR3FjemF2Rm95eVJxa2tnbEVFSGNnc2xqRjIyUkViZWU1T3FwS004ZVUxZnRVUUlGOVJKeEg4bTJaR1VCallYYzNmYkZlVHhrTkRWb3BmaHdqam1QN1FKQkpzU1Z4a1hicXNXMFZEVkNsZ3FjLS1MX3FhdGlfNDVIQUJTanc2a2ZhMk56Sm9BRDRlc2pQYm5SbjAwMzlmZkhVb2dxLWtUR2NiOXJFdFVsYV9uV1NadnYtb0dEODFZQ01WR2JQT1lXUmZ0bGRBVGRCbkN1c0JhV0E0ak5CdTnSAesBQVVfeXFMUGVPUEpORUxHejZlMzhBUy1LRFlKOWJIWGYtcGpyanJYR3dUeDE0OVlZeUE2eXBIUzktT2phTjU5OHFlakNSUGxyUlB3QzhIMUwtRDJmS19ZdVRkVXZ6VjZYUktDcUEtQmFFUXVDS0NIWXk1NUtnZjVfNVQ3aC1FSEJ4V2hRNjZTc1o4X0tQNTQ0LXlKR0FDeFA1OXpCNkRVU3RmRVZRTW5ZMGZzRjRjTUVfQlFXUFNHWUpTQUpmTkkxY3RPYllkd0tKSXJSU3YyNzVIVzhtZ194a2hYRXV1ZHNGMjZOQ2xzVTFqQQ?oc=5
+
+- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
+  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-11 01:55:02 UTC_
+_Last updated: 2026-04-11 06:59:25 UTC_
