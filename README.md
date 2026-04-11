@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
+- A guiding light for generations: PM Modi pays tribute to Phule on birth anniversary
+  
+  🔗 https://indianexpress.com/article/india/a-guiding-light-for-generations-pm-modi-pays-tribute-to-phule-on-birth-anniversary-10630407/
+
+- Women’s reservation law amendment: Congress may call Opp meet on April 15
+  
+  🔗 https://indianexpress.com/article/india/womens-reservation-law-amendment-congress-may-call-opp-meet-on-april-15-10630377/
+
+- SIR in 10 states, three Union Territories so far: Electoral rolls trimmed by 5.58 crore, most in Gujarat, UP
+  
+  🔗 https://indianexpress.com/article/india/sir-in-10-states-three-union-territories-so-far-electoral-rolls-trimmed-by-5-58-crore-most-in-gujarat-up-10630380/
+
+- Ceramic City kilns go cold over fuel crisis: ‘Hippo’ cylinders run out, workers leave
+  
+  🔗 https://indianexpress.com/article/india/ceramic-city-kilns-go-cold-over-fuel-crisis-hippo-cylinders-run-out-workers-leave-10630363/
+
 - Vande Bharat Sleeper occupancy: How trains are performing
   
   🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-occupancy-how-trains-are-performing-10630094/
 
-- Three students drown in Andhra Pradesh waterfall as selfie bid goes wrong
+- Building low-cost medical devices that scale is a challenge: HSD Srinivas, Tata Trusts
   
-  🔗 https://indianexpress.com/article/india/three-minor-girls-drown-selfie-waterfall-andhra-10630124/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/hsd-srinivas-tata-trusts-interview-public-health-medtech-innovations-india-10630076/
 
-- Vande Bharat Express train occupancy sees 34% YoY growth in FY26; how it performed since launch
+- Artemis II splashdown: Orion comes back, begins a new era in human space travel
   
-  🔗 https://indianexpress.com/article/india/vande-bharat-express-train-occupancy-sees-34-yoy-growth-in-fy26-how-it-performed-since-launch-10630131/
-
-- ‘He was an honest man, PDP worker’: Iltija Mufti appeals for body of man killed in Ganderbal encounter to be returned to family
-  
-  🔗 https://indianexpress.com/article/india/iltija-mufti-ganderbal-encounter-man-killed-body-returned-to-family-10630136/
-
-- ‘Tum kaale ho, you don’t deserve me’: Wife held for ‘plotting MP man’s murder’
-  
-  🔗 https://indianexpress.com/article/india/dhar-madhya-pradesh-priyanka-purohit-husband-murder-plotting-10630003/
+  🔗 https://indianexpress.com/article/technology/science/orion-ii-splashdown-artemis-ii-comes-back-begins-a-new-era-in-human-space-travel-10630417/
 
 - Vijay Sales Apple Days 2026: iPhone 17, MacBooks get bank discounts, exchange offers
   
@@ -28,17 +36,17 @@
   
   🔗 https://indianexpress.com/article/technology/science/isro-gaganyaan-crew-module-air-drop-test-chinook-helicopter-10629914/
 
-- NASA Artemis 2 Splashdown LIVE Updates: Astronaut prep for homecoming after 10-day mission
+- NASA Artemis 2 Splashdown LIVE Updates: Back after Moon flyby, Orion lands in the Pacific
   
   🔗 https://indianexpress.com/article/technology/science/nasa-artemis-2-splashdown-live-updates-astronaut-prep-for-homecoming-after-10-day-mission-10629540/
 
-- With the Pixel 10a, Google may have made the perfect smartphone for seniors
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/google-pixel-10a-review-10629607/
+- RBI proposals for large NBFCs leaves Tata Sons as only unlisted one
+  The status of Tata Sons, which faces internal disagreements among its shareholders on a listing, remains unclear. The RBI has proposed changes to regulations for non-banking financial companies.
+  🔗 https://www.livemint.com/companies/rbi-proposes-changes-to-nbfc-norms-upper-layer-list-not-revealed-yet-11775816636625.html
 
-- 8 free AI courses from Anthropic’s Claude platform with certificates
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/free-ai-courses-from-anthropic-to-boost-your-skills-right-now-10629593/
+- Bessent, Powell warned bank CEOs about Anthropic model risks, sources say
+  Powell
+  🔗 https://www.livemint.com/companies/bessent-powell-warned-bank-ceos-about-anthropic-model-risks-sources-say-11775855556546.html
 
 - Boaz Weinstein Scores Win After UK Trust Backs SpaceX Proposal
   A Baillie Gifford &amp; Co. trust that placed an early bet on SpaceX recommended a proposal
@@ -52,33 +60,29 @@
   Lakshmi Nandan Reddy, co-founder of Swig
   🔗 https://www.livemint.com/companies/swiggy-co-founder-nandan-reddy-to-step-down-company-announces-major-board-reshuffle-11775824549227.html
 
-- Shapoor Mistry pushes for Tata Sons listing as Tata Trusts' unanimity breaks
-  Mistry’s comments come after Venu Srinivasan and Vijay Singh, both vice chair
-  🔗 https://www.livemint.com/companies/news/tata-sons-listing-shapoorji-pallonji-group-11775820438915.html
+- Small-cap stocks bought by FIIs in the March quarter
+  Despite all the selling by FIIs in the quarter gone by, these select small
+  🔗 https://www.livemint.com/market/stock-market-news/fii-buying-smallcap-stocks-march-quarter-foreign-investors-contrarian-bets-nifty-sensex-11775821929292.html
 
-- Vedanta alleges Jaiprakash bid process was 'tailor-made' for Adani despite its higher offer
-  Anil Agarwal's firm tells NCLAT that lenders ignored its superior bid. Ag
-  🔗 https://www.livemint.com/companies/news/vedanta-nclat-jaiprakash-associates-bid-process-tailor-made-adani-net-present-value-committee-of-creditors-11775816740516.html
+- Oil Posts Biggest Weekly Loss Since 2020 Ahead of Iran-US Talks
+  Oil edged lower in relatively light trading before highly-anticipated talks between Iran and US.
+  🔗 https://www.livemint.com/market/oil-posts-biggest-weekly-loss-since-2020-ahead-of-iran-us-talks-11775853334070.html
+
+- Gold Wavers as Traders Weigh Truce Path Ahead of US-Iran Talks
+  Gold swings between gains and losses as traders weigh path of fragile ceasefire. US and Iran start talks
+  🔗 https://www.livemint.com/market/gold-wavers-as-traders-weigh-truce-path-ahead-of-us-iran-talks-11775851918977.html
+
+- Ceasefire sends dollar toward weekly drop with US-Iran talks in focus
+  Ceasefire sends dollar
+  🔗 https://www.livemint.com/market/ceasefire-sends-dollar-toward-weekly-drop-with-us-iran-talks-in-focus-11775849393307.html
 
 - Wall St mixed, set for weekly gains as investors watch Middle East negotiations
   Wall St mixed, set for weekly gains as investors watch Middle
   🔗 https://www.livemint.com/market/wall-st-mixed-set-for-weekly-gains-as-investors-watch-middle-east-negotiations-11775846305370.html
 
-- Soybeans hit two-week high as soymeal jumps; corn, wheat sag
-  GRAINS-Soybeans
-  🔗 https://www.livemint.com/market/soybeans-hit-two-week-high-as-soymeal-jumps-corn-wheat-sag-11775846179887.html
-
-- Treasuries Fall as Inflation Data Erode Fed Rate-Cut Wager
-  Treasuries fell as quickening inflation stemming from the US war on Iran — and the prospect of escalation — eroded wagers that the
-  🔗 https://www.livemint.com/market/treasuries-fall-as-inflation-data-erode-fed-rate-cut-wager-11775845811039.html
-
-- Pulse of the Street: Markets log best weekly gain in 5 years on global relief
-  The Sensex recorded its sharpest weekly gain since the week ended 7 February 2021. On Friday, the Nifty 50 rose 1.16% to close at 24,050.60, while the Sensex gained
-  🔗 https://www.livemint.com/market/pulse-of-the-street-markets-log-best-weekly-gain-in-5-years-on-global-relief-11775825697244.html
-
-- Wall Street: Nasdaq rises, S&amp;P 500 and Dow Jones dip after consumer inflation data; Nvidia gains 2.4%, Broadcom jumps 5%
-  The S&amp;amp;P 500 fell 0.1%, the Dow Jones Industrial
-  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-mostly-rise-after-consumer-inflation-data-11775828377604.html
+- China’s state media turns to social media and AI to tell its story — and often mock the US
+  China’s state media turns to social media and AI to tell
+  🔗 https://www.livemint.com/technology/chinas-state-media-turns-to-social-media-and-ai-to-tell-its-story-and-often-mock-the-us-11775869369048.html
 
 - How to edit your comments on Instagram? Check step-by-step guide
    Instagram now allow users to edit comments within 15 minutes of posting. Users can make unlimited edits during this time, but only the text portion can be changed.
@@ -96,29 +100,29 @@
   OpenAI has launched a $100/month ChatGPT subscription. The new Pro tier provides access to exclusive features. The company is also offering a temporary promotion for
   🔗 https://www.livemint.com/technology/tech-news/openai-takes-on-anthropic-overhauls-chatgpt-pro-subscription-with-new-ai-plan-heres-what-you-need-to-know-11775785708245.html
 
-- Elon Musk says WhatsApp's end-to-end encryption can't be trusted, Mark Zuckerberg's company calls it ‘absurd’
-  Elon Musk criticized WhatsApp, saying 'can't trust' it. He encouraged users to switch to X Chat, which he promotes as an encrypted chat experience.
-  🔗 https://www.livemint.com/technology/tech-news/elon-musk-says-whatsapps-end-to-end-encryption-cant-be-trusted-mark-zuckerbergs-company-calls-it-absurd-11775782805747.html
-
-- S&P 500 ticks lower Friday, but benchmark still on pace for big weekly gain after fragile Iran ceasefire: Live updates - CNBC
-  S&amp;P 500 ticks lower Friday, but benchmark still on pace for big weekly
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1NS1pmWU1UMG9sb3J4ME8tWmZJdVF5YzI5M0RyS2ZESklwNmJuQXR5T2YwWTdUMmFwUDhCejVXZUczbHB4aFhCaUVEVl9Uczh6MmlEVjRIYVhrYlRnQ1hVUnRCbkE5eDVUeUwzcGFFOUdSMk5JUWpR?oc=5
-
-- Oil Opens Higher With Focus on US-Iran Ceasefire: Markets Wrap - Bloomberg
+- Oil Opens Higher With Focus on US-Iran Ceasefire: Markets Wrap - Bloomberg.com
   Oil Opens Higher With Focus on US
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUU1JckIzN2V4NFdnOTFSQ1R2SXlhV2t2cEQ4MzRoSHluOE5mcnU2eG1IbWVPSmFPb3I1UDc5OGhqa0ktM2RrYVJlM29hQWd5OHd5aGtqZGFtN2gtVGZ6MDd3VnVQa1lxdTVxOFE1bDBmN3hoc0k5dFZ4ZjdSc1g1akVKMmhDMGdXU3BWLXdoc0stRTRp?oc=5
 
-- Stock Market Today: Dow Slips After CPI Report Showed Rising Inflation — Live Updates - WSJ
-  Stock Market Today: Dow Slips After CPI Report Showed
+- Stock Market News, April 10, 2026: Dow Falls After Highest Inflation Reading Since 2024 - WSJ
+  Stock Market News, April 10, 2026: Dow Falls
   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzc3UWNKYjNXWkVRU21jOXMtcElGczhiM3NlSC1Ba01yZHRNWDJfdURHeU44WHdGMUhFWlJsSTg3VTlFY0lJMG0tU29CdVpiY0FwaGg2cElXZlYwWE55bFRjNFYzaTFMQnVMV1d5R09SRFoxTWV1VkcwemRaQmcwcA?oc=5
 
-- Goldman Traders See Record Fast-Money Heading Into US Stocks - Bloomberg
-  Goldman Traders See Record Fast
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXdIbHowRXk0bFdZWVQ2TDNGQUhxNFFSb25JTm52T2szWUcyYjZJSVFta2lmZjNJVnJBaVZIR3hfZjhNUkluR0pnX3lOTzAxd0R0a2hwcFFIck9pQWx2cUtXcTB5dTBEaWU3UWZWN25MdGRqZDI1UWNUajdQWFNlNnJpTWZtaGpfeTRLMWl1SXJFdndYU3M5WXFKWDFNMl9hTy1uUGZCMDY1U2stTFhNUQ?oc=5
+- Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week; March Inflation Soars; Consumer Sentiment Hits All-Time Low - Investopedia
+  Stock Market Today: Major Indexes End Mostly Lower to Conclude Strong Week. March In
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1JFS3Nac0xjNmQ3c3k1Yk9pcWEzbnBuTmFENGtpaWV0QTdDdlFsbkRDMlN5QURQRmZVMWpnVGtObk5GM3U3MUtWUnNVRTYzZDRNdzh6c1dMZ2xfUDhJazZjUmV6MGVuWlBsOXYxWjlIS2hoTHdTRHl3OEx5cl9YLW9xQi1SaHRLMHdyR1N2RmQ?oc=5
 
-- Closing Bell: Markets rebound sharply; Nifty above 24,000, Sensex surges 919 pts - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNM1pFbkdncG52NDJOT2xCa2lyVDh6UWpBMVppaVVCLUZQUlRLXzRnN0dSQUlXNjV6cFF4YllCb1I2UVlIaEh5SFMxcFJIaHlZQzFmcFU2QWNzTGN0dHQ5MmJ4R01fV0NQXz
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNM1pFbkdncG52NDJOT2xCa2lyVDh6UWpBMVppaVVCLUZQUlRLXzRnN0dSQUlXNjV6cFF4YllCb1I2UVlIaEh5SFMxcFJIaHlZQzFmcFU2QWNzTGN0dHQ5MmJ4R01fV0NQXzRJSEw1NkVtWm9VV0tBeGU1UGoxMklwUE1BUlR6LUU1T2hxbjhIMTBiVmVSWFpWbGZ2elEzU0Y0TGlOd2J1cFN0bE1Hb2tVdjBRaHFoOEtuc0VKNU1zODkxNU00cWx2R1VQVzRPMDlhQlVCbUJLZXNZUTdiMWN3ZVMtdncwWHJBWXp5ODJsMFdwdTNMQndHb1JERFNaZm9nUWhjOGV2S1QwNjZjU3YzV3BuNNIBmAJBVV95cUxNVmYybFNJUnJHdnczeEVZVFg5aGs2Qm5hd2FYUkE4b2hyTXNqTHF3WjRGLWhucjhDTjM2T3lmbUJtOEJBVGhfZk5rY3ljZHJwQy0tNTR3RWMtdTd3UXFEczQyQXNXeE50c1BaUFRuT0d4SVRFQlk5bjh3WXJMRFNZRGY5Vm14ZEJ1Nkwwa19mV1RNM21UZjFlLTFoaDIyMDRrU0J4cWFnR2lIVWxjTUpuSnNydklFQ0dLakdFYS1UNDQ1TXhrSVFfTUxBaGhzdzgxUHB1WE90QmVhRExSZTRDZTdDUlNIX1VVM1g1bWtKaWYxZkdsMkFHbnc1TEEzd0RsSW16Q21jNGVXYWFLejRrMFZvdEFCcDZo?oc=5
+- TCS, Infosys, Coforge slide up to 4% despite market rally: Here’s why IT stocks are falling today - Upstox
+  TCS, Infosys, Coforge slide up to 4% despite
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxONzNyVkx3VGloX1hlN2R1RS16TlNpUVJvS3ZOQzlua0dCUGY4VkpiSUlZQWhkWTlwMlNfZjdERmprdVgwbG5Xdjk1MElES2ZMdkRrLUUxcWxVaFhfR0prVDBSdzJHc216V0RKYkVjYzljS2Z6UHp2d0pFNXhkaU8yYmN5MkVQc2p2UEZ4Q3VrS1ZyREIxbkw4dkg5bnRCN1d6ampKbURUaE9NRVBNd1VmM2hlOXpiREdjWFFOTXJOMlpIRFlmQmRHNmprRzV5dU9XYXpBaFk2LVJvQlFnRGhvNUJBUDZhSkU?oc=5
+
+- Ashishkumar Chauhan: The man who transformed the markets - Forbes India
+  Ashishkumar Chauhan is
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmZNdldQV3BlcEswOFA4aWxYeklIQU5FYk0wTzhZd3VlSV96V2htUkV4eTNJTTF2WWE4S0hmTGhZQXAxb2tON1RWZVFuVExBNmwwcm1mMUt3V1FxVGxEcXhZR3NvX0psX2xzNV9vTm95NnU2N1F3cG9pZzZPeHlfS0VpUEM3ekExMTZRcUZKOGZsQ283eVlPMi1MZVVuMFNsTHNoeVNNZUFoT3QwSmNYSi1n0gG3AUFVX3lxTFAxcmpnVk90ZFJOVHpYVldBQ3p2b1FJRXpzaDQwbzA4NzZoV2JDU3VmNHp5dmJRTGxSUHd6WmN4VlE4bGxVTFZxOTRLWUpTbnJGbTBpd0ZYOXg4QU05Wnh2bE5HVGI3NFpwRGZqVDJ1bEJkbzNtamFKbzFPclAyeVBBbDZ2UmpwaVZveXFaR0s0Tm9XY0pmM2lrQTBGOEM0d3pqV0VGZTQwNFhZZlFWNjdFUUk0d1NSTQ?oc=5
+
+- US stocks today: US stocks end mixed, notches weekly gains as investors parse Middle East negotiations
+  All major indexes posted weekly gains as traders stayed cautious ahead of major earnings and macro risks. Inflation rose due to energy shocks, while Dow and S&amp;P slipped but Nasdaq gained on tech strength.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-mixed-notches-weekly-gains-as-investors-parse-middle-east-negotiations/articleshow/130179665.cms
 
 - Fed will need to explain why current inflation jump differs from 2022 surge
   US inflation pressures are rising again as CPI shows the fastest monthly increase in nearly four years. The Federal Reserve is expected to hold rates steady, balancing oil-driven volatility and growth risks.
@@ -136,89 +140,85 @@
   Investors are shifting their focus as the dollar declines, buoyed by the resumption of oil shipping after a ceasefire in the Gulf. This shift has sparked a sell-off in safe-
   🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/ceasefire-sends-dollar-toward-weekly-drop-with-us-iran-talks-in-focus/articleshow/130173818.cms
 
-- Copper claws higher to three-week peak as investors balance Iran with Chinese demand
-  Copper prices climbed to their highest point in three weeks. Positive indicators from China’s demand landscape clashed with worries regarding the fragile peace in Iran.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/copper-claws-higher-to-three-week-peak-as-investors-balance-iran-with-chinese-demand/articleshow/130173459.cms
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+
+- Yashwant Varma's resignation may open graft-probe window - The Times of India
+  Yashwant Varma's resignation may
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
+
+- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
+  Highest-ever women voter turnout in Kerala,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
+
+- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
+  India wins 16 medals at 2026 Asian Boxing
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- India news: Marco Rubio to visit India for trade talks - DW.com
-  Marco Rubio to visit India for trade talks
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Poll Body Transfers Chennai Police Commissioner - NDTV
-  Chennai Police
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDVtNXdPczVXd0FJWkQ3cmRiekRCYmlJa0E0bjVvOXUwZllJSUtmLTFmM0JtNjg4Ymp1el9rU0xheWNobzRNSmJaTjNKazNSWWdWUUg3UVJld0tjYXZXOFhvVHdIUHJsVXR2bnZzWjFieTZ1R3FzZ0FaWTdmdGpKMlRBWG5HRS1jVkZoRmVMMlJOUdIBmgFBVV95cUxOSzZKQkl0Q2IzVERwa3VHZndTTzhveUttV0o3MmhpUmRUTUtmME9sTlFraTZUWmI5YnZsR09SSW9TNFhyQVVuaFAybHpIT0FXLVFGVllpeC1vVGNIY0xPUi12N3VBeG55TXVhMl9aX2VFRExYU1lBeEVzM3c0Q3JKWnF6c2c5WXlUZy1OZnBkdEpJZ3p4Vm5iVVJn?oc=5
+- Yashwant Varma's resignation may open graft-probe window - The Times of India
+  Yashwant Varma's resignation may
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
 
-- PETA India moves HC over illegal buffalo fights during Bihu - The Times of India
-  PETA India moves HC over illegal buffalo fights during B
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGFMM3JocVNLZmhVZVYxVHJiOFRoVFQwN21hbmZoS2Zlc05UbER2ZC1WUkhHUHlPZ095YktTZnhFR2kzbUxMVnd0bGthY2NyRzFtZ0d4MElpbGZwXzhyYUVIbkVTQzkyd050cWVfTzdvak1oNDFYVnVTblJKMDFLZkdaYjc2aHJHb0RMamtxTmtvX3BrRmxWMWs3c1R0VjZTZDN3d18xWWM2ZkZCbXhON09CREZRTTFEVmNhU1ltNXBDT2MzbVAxRXRzMTlzdnpW0gHWAUFVX3lxTFBLMEhtc3haalRxZGxzSVBEWXVoWjV3ZlJyUHRZdHFQMkkxbUE5YWR3SEU3X25tVThnZTJPRnlNckN5aVgxakVBMWdGTGcwTnB0SFRmRk9ZSjFuaUV5VjBlRDFHclNabFljUjFqODNjVXljd2hwanNTVjdKQm9mX0hDOWVlUXllUk9pdnFaWVFwS1BvS09CbmU4ellZd3A0bnl2ZE5sd0lnNjRadHUxcFFQQnF2dFVKd2VObkMxR1Z2dW1ma3o3TkJVcjBJYUFrbEoya2hLV1E?oc=5
+- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
+  Highest-ever women voter turnout in Kerala,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
 
-- 7.36 Crore Deletions, 5 Crore Hearing Notices: Phase 2 Of SIR Concludes - NDTV
-  7.36 Crore Deletions, 5
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUdESkhPbWxSQnhSN21QdEFmb0dQUEt5SnBoVWgyVk94WjJtdkt0b3psT2FSaVc0YS1ydUhveV9tX1c3Ukg1QzNsWmFzVTUzbm1BdmhVdkFGcjd6eUpQUU1oTGp6bGs2UGVZX0xKYVVlOF94VEExNVdpMGJuLUV3blVWNTVSeUVXcTNmM2Qwa3ZldDF4VlZWcHBkNGl3cjhhUDk0SEZaWjU1dUMtTklN0gG3AUFVX3lxTE0yQnI5dFhONnFjam9SWi1CTU51ZmxWLUIwR094M0J3WTVEOEZvYzdhYkd5Qk1xRjZ4YXFlM0FOU3BCcFk0dzl1ZllVM0s5OVlXbHdMdXdlUlpuT2g3dzJCejE4NmtyNGg5NWZYUFF6WFEwblppLXJ5d3MtT1JZVi1ic1FpdWw2TEJWekh2Mm5PQkxadDJhaExodlNSdlpVYU1mR2R4OW9FRHdDQ01RWTFSR3laYXU5TQ?oc=5
-
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
-
-- India news: Marco Rubio to visit India for trade talks - DW.com
-  Marco Rubio to visit India for trade talks
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
-
-- Poll Body Transfers Chennai Police Commissioner - NDTV
-  Chennai Police
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDVtNXdPczVXd0FJWkQ3cmRiekRCYmlJa0E0bjVvOXUwZllJSUtmLTFmM0JtNjg4Ymp1el9rU0xheWNobzRNSmJaTjNKazNSWWdWUUg3UVJld0tjYXZXOFhvVHdIUHJsVXR2bnZzWjFieTZ1R3FzZ0FaWTdmdGpKMlRBWG5HRS1jVkZoRmVMMlJOUdIBmgFBVV95cUxOSzZKQkl0Q2IzVERwa3VHZndTTzhveUttV0o3MmhpUmRUTUtmME9sTlFraTZUWmI5YnZsR09SSW9TNFhyQVVuaFAybHpIT0FXLVFGVllpeC1vVGNIY0xPUi12N3VBeG55TXVhMl9aX2VFRExYU1lBeEVzM3c0Q3JKWnF6c2c5WXlUZy1OZnBkdEpJZ3p4Vm5iVVJn?oc=5
-
-- PETA India moves HC over illegal buffalo fights during Bihu - The Times of India
-  PETA India moves HC over illegal buffalo fights during B
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGFMM3JocVNLZmhVZVYxVHJiOFRoVFQwN21hbmZoS2Zlc05UbER2ZC1WUkhHUHlPZ095YktTZnhFR2kzbUxMVnd0bGthY2NyRzFtZ0d4MElpbGZwXzhyYUVIbkVTQzkyd050cWVfTzdvak1oNDFYVnVTblJKMDFLZkdaYjc2aHJHb0RMamtxTmtvX3BrRmxWMWs3c1R0VjZTZDN3d18xWWM2ZkZCbXhON09CREZRTTFEVmNhU1ltNXBDT2MzbVAxRXRzMTlzdnpW0gHWAUFVX3lxTFBLMEhtc3haalRxZGxzSVBEWXVoWjV3ZlJyUHRZdHFQMkkxbUE5YWR3SEU3X25tVThnZTJPRnlNckN5aVgxakVBMWdGTGcwTnB0SFRmRk9ZSjFuaUV5VjBlRDFHclNabFljUjFqODNjVXljd2hwanNTVjdKQm9mX0hDOWVlUXllUk9pdnFaWVFwS1BvS09CbmU4ellZd3A0bnl2ZE5sd0lnNjRadHUxcFFQQnF2dFVKd2VObkMxR1Z2dW1ma3o3TkJVcjBJYUFrbEoya2hLV1E?oc=5
-
-- 7.36 Crore Deletions, 5 Crore Hearing Notices: Phase 2 Of SIR Concludes - NDTV
-  7.36 Crore Deletions, 5
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUdESkhPbWxSQnhSN21QdEFmb0dQUEt5SnBoVWgyVk94WjJtdkt0b3psT2FSaVc0YS1ydUhveV9tX1c3Ukg1QzNsWmFzVTUzbm1BdmhVdkFGcjd6eUpQUU1oTGp6bGs2UGVZX0xKYVVlOF94VEExNVdpMGJuLUV3blVWNTVSeUVXcTNmM2Qwa3ZldDF4VlZWcHBkNGl3cjhhUDk0SEZaWjU1dUMtTklN0gG3AUFVX3lxTE0yQnI5dFhONnFjam9SWi1CTU51ZmxWLUIwR094M0J3WTVEOEZvYzdhYkd5Qk1xRjZ4YXFlM0FOU3BCcFk0dzl1ZllVM0s5OVlXbHdMdXdlUlpuT2g3dzJCejE4NmtyNGg5NWZYUFF6WFEwblppLXJ5d3MtT1JZVi1ic1FpdWw2TEJWekh2Mm5PQkxadDJhaExodlNSdlpVYU1mR2R4OW9FRHdDQ01RWTFSR3laYXU5TQ?oc=5
+- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
+  India wins 16 medals at 2026 Asian Boxing
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- India news: Marco Rubio to visit India for trade talks - DW.com
-  Marco Rubio to visit India for trade talks
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Poll Body Transfers Chennai Police Commissioner - NDTV
-  Chennai Police
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDVtNXdPczVXd0FJWkQ3cmRiekRCYmlJa0E0bjVvOXUwZllJSUtmLTFmM0JtNjg4Ymp1el9rU0xheWNobzRNSmJaTjNKazNSWWdWUUg3UVJld0tjYXZXOFhvVHdIUHJsVXR2bnZzWjFieTZ1R3FzZ0FaWTdmdGpKMlRBWG5HRS1jVkZoRmVMMlJOUdIBmgFBVV95cUxOSzZKQkl0Q2IzVERwa3VHZndTTzhveUttV0o3MmhpUmRUTUtmME9sTlFraTZUWmI5YnZsR09SSW9TNFhyQVVuaFAybHpIT0FXLVFGVllpeC1vVGNIY0xPUi12N3VBeG55TXVhMl9aX2VFRExYU1lBeEVzM3c0Q3JKWnF6c2c5WXlUZy1OZnBkdEpJZ3p4Vm5iVVJn?oc=5
+- Yashwant Varma's resignation may open graft-probe window - The Times of India
+  Yashwant Varma's resignation may
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
 
-- PETA India moves HC over illegal buffalo fights during Bihu - The Times of India
-  PETA India moves HC over illegal buffalo fights during B
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGFMM3JocVNLZmhVZVYxVHJiOFRoVFQwN21hbmZoS2Zlc05UbER2ZC1WUkhHUHlPZ095YktTZnhFR2kzbUxMVnd0bGthY2NyRzFtZ0d4MElpbGZwXzhyYUVIbkVTQzkyd050cWVfTzdvak1oNDFYVnVTblJKMDFLZkdaYjc2aHJHb0RMamtxTmtvX3BrRmxWMWs3c1R0VjZTZDN3d18xWWM2ZkZCbXhON09CREZRTTFEVmNhU1ltNXBDT2MzbVAxRXRzMTlzdnpW0gHWAUFVX3lxTFBLMEhtc3haalRxZGxzSVBEWXVoWjV3ZlJyUHRZdHFQMkkxbUE5YWR3SEU3X25tVThnZTJPRnlNckN5aVgxakVBMWdGTGcwTnB0SFRmRk9ZSjFuaUV5VjBlRDFHclNabFljUjFqODNjVXljd2hwanNTVjdKQm9mX0hDOWVlUXllUk9pdnFaWVFwS1BvS09CbmU4ellZd3A0bnl2ZE5sd0lnNjRadHUxcFFQQnF2dFVKd2VObkMxR1Z2dW1ma3o3TkJVcjBJYUFrbEoya2hLV1E?oc=5
+- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
+  Highest-ever women voter turnout in Kerala,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
 
-- 7.36 Crore Deletions, 5 Crore Hearing Notices: Phase 2 Of SIR Concludes - NDTV
-  7.36 Crore Deletions, 5
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUdESkhPbWxSQnhSN21QdEFmb0dQUEt5SnBoVWgyVk94WjJtdkt0b3psT2FSaVc0YS1ydUhveV9tX1c3Ukg1QzNsWmFzVTUzbm1BdmhVdkFGcjd6eUpQUU1oTGp6bGs2UGVZX0xKYVVlOF94VEExNVdpMGJuLUV3blVWNTVSeUVXcTNmM2Qwa3ZldDF4VlZWcHBkNGl3cjhhUDk0SEZaWjU1dUMtTklN0gG3AUFVX3lxTE0yQnI5dFhONnFjam9SWi1CTU51ZmxWLUIwR094M0J3WTVEOEZvYzdhYkd5Qk1xRjZ4YXFlM0FOU3BCcFk0dzl1ZllVM0s5OVlXbHdMdXdlUlpuT2g3dzJCejE4NmtyNGg5NWZYUFF6WFEwblppLXJ5d3MtT1JZVi1ic1FpdWw2TEJWekh2Mm5PQkxadDJhaExodlNSdlpVYU1mR2R4OW9FRHdDQ01RWTFSR3laYXU5TQ?oc=5
+- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
+  India wins 16 medals at 2026 Asian Boxing
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
 
 - India proposes new rules to regulate news and political posts on social media - BBC
   India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- India news: Marco Rubio to visit India for trade talks - DW.com
-  Marco Rubio to visit India for trade talks
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Poll Body Transfers Chennai Police Commissioner - NDTV
-  Chennai Police
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDVtNXdPczVXd0FJWkQ3cmRiekRCYmlJa0E0bjVvOXUwZllJSUtmLTFmM0JtNjg4Ymp1el9rU0xheWNobzRNSmJaTjNKazNSWWdWUUg3UVJld0tjYXZXOFhvVHdIUHJsVXR2bnZzWjFieTZ1R3FzZ0FaWTdmdGpKMlRBWG5HRS1jVkZoRmVMMlJOUdIBmgFBVV95cUxOSzZKQkl0Q2IzVERwa3VHZndTTzhveUttV0o3MmhpUmRUTUtmME9sTlFraTZUWmI5YnZsR09SSW9TNFhyQVVuaFAybHpIT0FXLVFGVllpeC1vVGNIY0xPUi12N3VBeG55TXVhMl9aX2VFRExYU1lBeEVzM3c0Q3JKWnF6c2c5WXlUZy1OZnBkdEpJZ3p4Vm5iVVJn?oc=5
+- Yashwant Varma's resignation may open graft-probe window - The Times of India
+  Yashwant Varma's resignation may
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQk9mNmNINkFod21uVDR2eFdkU2JvUVZtN1lzOWV2eW5oWnhvZDhaY2FlY0s1TXloQUNHWElOTzJtYlNITE1vT2Nndmh4bE1JOHdrcTBLZF9mM3NyQmpmUllrbklpVEM0RURGVHVBc3ZCS0N1TlNpUHZUeGdKZmhVd3FCeVpDU0ZtNVpGTEZHcGhDeFhQZUM5c1ZZX2NEMERJTURJV0FxZU5vVGtxQnVBYjZqQkdBQ09fdmktM0c2SnDSAcYBQVVfeXFMUDFiUE81Zk5JTnVCbURlSVRXa3VfNXhHbUNGbFVZaFMwQ0VoRzlMaTJydmo5LWR1QktsZDBMdzJpUDNQYnJVbmlzd20wRHFwS0V1UlVFMnBsWXV1R3NMV2gyTGtwMHVqaHBPTnpQazNJVU1mbmljc0VFOUliaWM0eUlBaFFQUE1id2xVSy1vVkhXUldHVF9RdDhfNEpoZnh6RmNRYmUzeTdReWZXUkpoU2dVSElvUklMWVVxRTFzRUVUalNQdjZn?oc=5
 
-- PETA India moves HC over illegal buffalo fights during Bihu - The Times of India
-  PETA India moves HC over illegal buffalo fights during B
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRGFMM3JocVNLZmhVZVYxVHJiOFRoVFQwN21hbmZoS2Zlc05UbER2ZC1WUkhHUHlPZ095YktTZnhFR2kzbUxMVnd0bGthY2NyRzFtZ0d4MElpbGZwXzhyYUVIbkVTQzkyd050cWVfTzdvak1oNDFYVnVTblJKMDFLZkdaYjc2aHJHb0RMamtxTmtvX3BrRmxWMWs3c1R0VjZTZDN3d18xWWM2ZkZCbXhON09CREZRTTFEVmNhU1ltNXBDT2MzbVAxRXRzMTlzdnpW0gHWAUFVX3lxTFBLMEhtc3haalRxZGxzSVBEWXVoWjV3ZlJyUHRZdHFQMkkxbUE5YWR3SEU3X25tVThnZTJPRnlNckN5aVgxakVBMWdGTGcwTnB0SFRmRk9ZSjFuaUV5VjBlRDFHclNabFljUjFqODNjVXljd2hwanNTVjdKQm9mX0hDOWVlUXllUk9pdnFaWVFwS1BvS09CbmU4ellZd3A0bnl2ZE5sd0lnNjRadHUxcFFQQnF2dFVKd2VObkMxR1Z2dW1ma3o3TkJVcjBJYUFrbEoya2hLV1E?oc=5
+- Highest-ever women voter turnout in Kerala, Assam and Puducherry - The Times of India
+  Highest-ever women voter turnout in Kerala,
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFB1S0UwWWhBMW1LQ2Z3Tm56OWwwNlVRbWxuMG1FWGFpYUlyV1VIUU5nUGhidFQxellrMjhBQVQ4cFIyc21oOUxyTFVNMTZneUhZbndyNEYyRjBmdmEwQnFfQjVpQjMydDdYV0NldkRyMTkwRklIazRDd3puby1CSzl5WDF4M2pydHhLdlZteG1MeHpTRzZvWnJKSDlGeUVSODI1bHRrVzdlX1Z4dDdmdEp6amNCR0pYVjVtbTBFTGgtQ1BJYXdoOXhCb9IB0AFBVV95cUxPY2FXUWo2bU9sY3JTWUlRWWlEUHdmSjlmcEZIZ3R3RnYycnRlclhfWjdvWnRZQUxnY1dBdmZvZGxMUE00eXJpdGstTmhMZnlsUFF4X05ZaDNLeWt4dWtDZkg4ZXJJZHNrbkhoVkU4QU9yWk5OS1htVDlweGktN0RjeFJHTy1lZ0FnYWtpLTJCRHpGSzBLLU9hYVVLX2RZTnNEbXcwRm8xT1JsX0xxWGU3UERweWZzLU4wY09iMHRETmJtLXRSSEJ6Y3FjbHlxR3Y0?oc=5
 
-- 7.36 Crore Deletions, 5 Crore Hearing Notices: Phase 2 Of SIR Concludes - NDTV
-  7.36 Crore Deletions, 5
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUdESkhPbWxSQnhSN21QdEFmb0dQUEt5SnBoVWgyVk94WjJtdkt0b3psT2FSaVc0YS1ydUhveV9tX1c3Ukg1QzNsWmFzVTUzbm1BdmhVdkFGcjd6eUpQUU1oTGp6bGs2UGVZX0xKYVVlOF94VEExNVdpMGJuLUV3blVWNTVSeUVXcTNmM2Qwa3ZldDF4VlZWcHBkNGl3cjhhUDk0SEZaWjU1dUMtTklN0gG3AUFVX3lxTE0yQnI5dFhONnFjam9SWi1CTU51ZmxWLUIwR094M0J3WTVEOEZvYzdhYkd5Qk1xRjZ4YXFlM0FOU3BCcFk0dzl1ZllVM0s5OVlXbHdMdXdlUlpuT2g3dzJCejE4NmtyNGg5NWZYUFF6WFEwblppLXJ5d3MtT1JZVi1ic1FpdWw2TEJWekh2Mm5PQkxadDJhaExodlNSdlpVYU1mR2R4OW9FRHdDQ01RWTFSR3laYXU5TQ?oc=5
+- India wins 16 medals at 2026 Asian Boxing Championships - News On AIR
+  India wins 16 medals at 2026 Asian Boxing
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9ZRF9pOHBTUS1hbldSdEo0cEZNTDEyU1hrbmlNUXVSVU5WV0J1TXpOMG5BanpTbW14OExnTXJibW5YeHRKNUtyY3drNEw0ZXE0SlRLMGVSSURHY3N0SHhJTmpNeDdXeFQ0ZHJsWTF3bzgwVU5fbjQ4cFdNc2VKVG81ZHo3ZU9XMnRKcXNn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-10 18:47:45 UTC_
+_Last updated: 2026-04-11 01:55:02 UTC_
