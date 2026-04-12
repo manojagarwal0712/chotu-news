@@ -1,5 +1,9 @@
 # 📰 Daily News Summaries
 
+- Assembly Elections 2026 Live Updates: TMC vs BJP poll battle intensifies as PM Modi, Mamata set to address rallies in Bengal today
+  
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-tmc-bjp-west-bengal-tamil-nadu-assam-kerala-10632022-10632041/
+
 - ‘Faith healing’ congregation in MP village lands two pastors in jail; police probe wider ‘conversion network’
   
   🔗 https://indianexpress.com/article/india/faith-healing-under-scanner-madhya-pradesh-police-book-2-pastors-over-conversion-racket-in-guna-10631786/
@@ -16,9 +20,13 @@
   
   🔗 https://indianexpress.com/article/india/exclusive-before-bengals-sir-row-maharashtra-ceo-red-flagged-to-eci-need-more-time-10631829/
 
-- Modi-Rahul interaction draws attention at Mahatma Phule event
+- Samsung to unveil new ‘Wide’ foldable alongside Galaxy Z Fold 8, S Pen: Report
   
-  🔗 https://indianexpress.com/article/india/modi-rahul-interaction-draws-attention-at-mahatma-phule-event-10631821/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-new-wide-foldable-galaxy-unpacked-report-10632115/
+
+- How AI helped 1 man (and his brother) build a $1.8 billion company
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-ai-helped-1-man-and-his-brother-build-a-1-8-billion-company-10632067/
 
 - Artemis II astronauts complete milestone voyage around the moon
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/hsd-srinivas-tata-trusts-interview-public-health-medtech-innovations-india-10630076/
 
-- Vijay Sales Apple Days 2026: iPhone 17, MacBooks get bank discounts, exchange offers
-  
-  🔗 https://indianexpress.com/article/technology/vijay-sales-apple-days-2026-iphone-17-macbooks-get-bank-discounts-exchange-offers-10630017/
+- TCS payouts to Tata Sons fall as acquisitions, AI push weigh on cash flows
+  The company's latest payout of  ₹28,292.1 crore in the financial year ended March 2026 was lower than the previous year’s. It marked the third decline in total
+  🔗 https://www.livemint.com/companies/tata-sons-atm-dispensing-less-cash-acquisitions-tcs-payouts-11775817660337.html
 
-- Gaganyaan-1 crew module successfully splashes down in air drop test
-  
-  🔗 https://indianexpress.com/article/technology/science/isro-gaganyaan-crew-module-air-drop-test-chinook-helicopter-10629914/
+- Lufthansa Crew Strike Set to Cancel More Than 500 Flights
+  Air travelers in Germany face significant disruptions on Friday from a walkout at Deutsche Lufthansa AG. Hundreds of flight cancellations at major hubs
+  🔗 https://www.livemint.com/companies/lufthansa-crew-strike-set-to-cancel-more-than-500-flights-11775970692843.html
 
 - How Oracle’s huge AI build-out is causing a cash crunch and layoffs
   Once a cash-generating software stalwart, Oracle has
@@ -52,33 +60,25 @@
   The settlement comes as the first resolution from the US Justice Department's unit formed last year called “Civil Rights Fraud Initiative”
   🔗 https://www.livemint.com/companies/news/ibm-to-pay-17-million-as-settlement-linked-to-anti-dei-probe-what-was-the-tech-major-accused-of-11775878822522.html
 
-- Kalshi wins reprieve from Arizona criminal case at CFTC’s urging
-  Kalshi Inc. won a temporary reprieve from criminal prosecution in Arizona. A judge suspended
-  🔗 https://www.livemint.com/companies/news/kalshi-wins-reprieve-from-arizona-criminal-case-at-cftc-s-urging-11775878025828.html
+- Q4 results 2026: Wipro, HDFC Bank, ICICI Bank among 50 companies to declare earnings next week; check full list here
+  Around 50 companies will be releasing their March quarter results in the coming week.
+  🔗 https://www.livemint.com/market/stock-market-news/q4-results-2026-wipro-hdfc-bank-icici-bank-among-50-companies-to-declare-earnings-next-week-check-full-list-here-11775972931542.html
 
-- Sam Altman's home hit by Molotov cocktail, OpenAI CEO shares rare family photo in first reaction — ‘We try to be…’
-  San Francisco police arrested a 20-year-old man for allegedly throwing a Molotov cocktail at Sam Altman's home in the city.
-  🔗 https://www.livemint.com/companies/people/sam-altmans-home-hit-by-molotov-cocktail-openai-ceo-shares-rare-family-photo-in-first-reaction-we-try-to-be-11775872359338.html
+- Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver in Mumbai, Delhi, other cities on 12 April
+  Gold and silver prices in India remained stable on April 12. Check the retail prices of
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-in-mumbai-delhi-other-cities-on-12-april-11775966921172.html
 
-- The ‘real’ oil price is a lot higher than it looks
-  Spot crude prices measured in the North Sea are
-  🔗 https://www.livemint.com/market/commodities/the-real-oil-price-is-a-lot-higher-than-it-looks-11775958035658.html
+- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war talks?
+  Both Indian indices - Sensex and Nifty 50 - rebounded on Friday. Checkout how's the Indian market is likely to perform this week
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-talks-11775969098289.html
 
-- Stock market holiday: NSE, BSE to remain closed on this date next week; here's why
-  Trading activity on the NSE and the BSE will remain suspended
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-bse-to-remain-closed-on-this-date-next-week-heres-why-11775902145011.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 13 April 2026
+  The Indian stock rebounded after six weeks of decline amid ongoing geopolitical tensions. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-april-2026-11775964628990.html
 
-- Silver rate today, 11 April: Why you should buy the dip in white metal? Explained
-  MCX silver price shot up from  ₹2,32,600 per kg
-  🔗 https://www.livemint.com/market/commodities/silver-rate-today-11-april-why-you-should-buy-the-dip-explained-with-crude-oil-us-iran-war-us-fed-rate-cut-11775897222671.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 13 April 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday.
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-april-2026-11775891637752.html
-
-- Why will climbing 25K not be easy for the Nifty 50 index? Explained with 5 reasons
-  Nifty 50 index rose sharply and decisively broke above the 200-DEMA placed at
-  🔗 https://www.livemint.com/market/stock-market-news/why-will-climbing-25k-not-be-easy-for-the-nifty-50-explained-with-5-reasons-11775888003734.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday amid US-Iran war talks
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-amid-us-iran-war-talks-11775963193275.html
 
 - Anthropic brings Claude AI to Microsoft Word so you can chat with your documents
   Anthropic has launched Claude for Word in beta. The new tool is currently only available for for Team and Enterprise subscribers.
@@ -100,85 +100,105 @@
   OpenAI reported a security issue related to third-party library Axios. The company said it
   🔗 https://www.livemint.com/technology/tech-news/openai-says-it-faced-a-security-issue-forces-mandatory-update-for-all-mac-users-to-block-fake-chatgpt-apps-11775873495758.html
 
-- Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026 - CNBC
-  CNBC: Stocks extend relief rally on hopes that U.S
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE45WmdlR0FzS1JSRUNoVkFrRjFYRlU1RFVJMUR0Q2dBbE9CeHd1b0JjQkt3bkxpWldnMkRJZ0VkRUZtUFhVd2doUk5LeVk4cWdMRkxZVFdxNXR1NEtRSlUzdkVFSWhsdjR5SFJUMnRQSHQza3ZfUjZn0gF8QVVfeXFMT05BeThfRHFSVWpDOTFMWTdINkplZ1F4NUpsbkN6Z0ZvREhNcnl4aGszSzJVbWg2enZHdllDaE5CVGtkRExqTm1lU01OQUVMeDFFTExoNXM2S090NjlMSVFqOS1QREhpTDRyalUwSktSX1hMeXU0RldTYkZkRQ?oc=5
+- 7 Nifty 500 stocks with up to 60% upside potential. Do you own any?
+  Nifty500 stocks with 50% to 60% upside potential over the next year. Sapphire Foods, Inox Wind, and Swiggy emerge as high-conviction breakout candidates
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-nifty-500-stocks-with-up-to-60-upside-potential-do-you-own-any/slideshow/130203843.cms
 
-- Stock market correction: Have domestic inflows changed the rules for Indian equities? - Mint
-  The Indian stock market has been in a correction since
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVc0eHNzMmJMLXliR2djQUVub0FLcWxoWEhvR2xhUXZVVkxoYVNNczNpanl4VUowd2VTRTB3SXZGMURXYUx3YmduOVphMkVnZTA0Qkt1bHQwT3VhNlhYWUNxWWh2OHR1Zjh4SDUwbEw4U1BVX2QzNV9uMXo1dWxGT0U5cXl2dkFKOUJJT0loWExFMVd0NzFXYWJPdHFDWGJiOFN0Nl9VbndvNFpUU1U1VW5oM0t6a1Z0U1ppaG5kVGhaSEdVVHFITy1UWWNhYjl2X1RKTmFEeFhtSlMzWmY0ZTRTeEpfZ9IB6wFBVV95cUxQdURaYmVoOTZ5TnpfQUJmdVN3bHFqLXczMHlXWElvcEdCNEV4dHF6MzkySXlULXJSZURER2I0Zk9mQU9RcTNwcTRhcUlLWWpLVlg0V3JMNjZ3UE9nQzdkR0RvMmFOVVB1aEpUYnA2b3JaX0NZckxuMEFtRW1SMnV2ejlfTTVLTnVUMFBQcHpabHVWRnU3cUQ5Y0pvcUhNNnpMX3lfbnZNaHU0dUlKcV8wNVhpNXVNV3lHOXkwVF9lZjNRdi1kODZNZm5qZVhmZmN2VGFvakFGRkpmTjFiOEVnZU9nRGtuaTluOW1N?oc=5
+- Value in Volatility: Why smart money hunts ‘gaps’ in uncertain markets
+   volatility driven by geopolitics, inflation, and rates is reviving value investing principles. Veteran investor Arnold Van Den Berg highlights that uncertainty often creates mispriced assets.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/value-in-volatility-why-smart-money-hunts-gaps-in-uncertain-markets/articleshow/130203467.cms
 
-- What market volatility actually tests - Finshots
-  What market volatility
-  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE85R1hZRnZvZUZYQnBEMzQ1YnNXZERPUHNxZU1zdWVpYk9td3RuMkZqeDlvTndZeVNOenpQaVBtU0hQZTdreUZ1UXhxREtFazFJVTVsb250Yk82MS1jTy1qZkcySWFIdnRMV05uR2Z4YWUzdlVH?oc=5
+- FPIs extend sell-off in April; pull out Rs 48,213 crore from Indian stocks in 10 days
+  Foreign investors maintained their aggressive sell-off in Indian equities, withdrawing Rs 48,213 crore (USD 5.14 billion) in the first
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-extend-sell-off-in-april-pull-out-rs-48213-crore-from-indian-stocks-in-10-days/articleshow/130203138.cms
 
-- A Panicked Race for Barrels Is Gripping the Global Oil Market - Bloomberg.com
-  A Panicked Race for Barrels Is Gri
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJnYXF3QVdPQkhwbk90ZVdZRm5zNjQ2OHdWTTU3T1VNdnVsYm9lQjJxYVlwZlFRaW5STVVEOV9kckx5MHhvUXRkRHpaLUhCaDI4bU13M3VpWklNZHlDdi1fQ1JZa3FZYXBtektiWTRITF9XNV8tbnJOaWt6VzZQV3dNSGEtblBvdHFCelVHWnY4Vkk3YmJXYWtpczI1LVpmUG5yRGxGVmtzXzBEaVdtcw?oc=5
+- LIC likely to announce its first-ever bonus issue tomorrow: Check key things to know
+  The move may enhance liquidity and investor participation. Life Insurance Corporation of India is expected to announce its first-ever bonus share issue after its April 13 board meeting.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-likely-to-announce-its-first-ever-bonus-issue-tomorrow-check-key-things-to-know/articleshow/130202913.cms
 
-- Seafood exports grow to Rs 68,000 crore as India explores new markets amid US tariffs - The Times of India
-  Seafood exports grow to Rs 68,000 crore as India explores new markets
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUkNocVYySXdvQUR2eDlueDNzbkhSbkJGM2tQT21QMEw1eDViOHBjRk95ZGxsRVppNGJiTVRMa1d4UFRuN3RpLXVXYWxIU1JncWFmN0pQOFlYUW9ZWHlvN2xPdjBFUDVkQzk3aUhlQkF5d2xVNkZWWE1JSWp6bHVVUkU1MENtQWVyUnMyckhGLXhJWlVaU2hlUTZLLUFIVVo4cXkybXMtMWx0c2xjNzBYTzZ4YkRCWU8wSl9XMGtJWXRlcFBLU0lqZW9hcHFWSDRBdnNsMGFLMlBwcVlPaU50RF9yOElObGZPdVZUandPMNIB9AFBVV95cUxOWUNoWkwtTW9zSlpVQndHUUNCbnlGTmVOdHFXT2JvVS1aWmo3ck5NUXRFdnNiXzllWUFYVDRqakowYWdFUWFiNEo4c0NpNl8zMTJISFYtS29vN0xHZUtqWk1yWXQ2MTlJWGV3LXYtX3U1bGpWNzlFdWxzTUIxa2M5WnkzSFVhd0FZVGxMX1BqN3lQNzVBb09fUlA5ZVliVFV3dzRzVVRYWkQ5RnRIa295NkpaUjNrNmxoNXUwZVNrQ0VPSFB6RkhiY0FrcUtYclNNTHJnaFkzcDctS29sa04xMGFGV2stOVVvU0FsWkRqSTZxMHdB?oc=5
+- PMS Tracker: March meltdown ensured 97% of strategies sank up to 22%; Money Grow, ASK Investment bled the most
+  Small and midcap strategies were hardest hit, mirroring Nifty’s sharp decline. Only a few debt-oriented and select equity strategies managed marginal gains.
+  🔗 https://economictimes.indiatimes.com/markets/aif-pms/pms-tracker-march-meltdown-ensured-97-of-strategies-sank-up-to-22-money-grow-ask-investment-bled-the-most/articleshow/130202744.cms
 
-- Madhusudan Kela picks beaten-down smallcap bets; buys Indiabulls, Simplex Infra in Q4
-  Madhusudan Kela has bought stakes in Indiabulls Limited and Simplex Infrastructures Limited. These companies have seen recent underperformance. Kela's move signals a contrarian investment
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-picks-beaten-down-smallcap-bets-buys-indiabulls-simplex-infra-in-q4/articleshow/130190449.cms
-
-- D-Street Week Ahead: Nifty extends rebound; Godfrey Phillips signals breakout after base formation
-   Markets rebounded strongly, with the Nifty closing up 1.16%. GODFREYPHLP shows a significant base formation and potential trend reversal. The stock is
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-week-ahead-nifty-extends-rebound-godfrey-phillips-signals-breakout-after-base-formation/articleshow/130190393.cms
-
-- Bitcoin climbs to $73K after rangebound move, softer CPI data supports upside
-  Bitcoin surges past $73,000, buoyed by encouraging inflation data that eased liquidity concerns. Despite some large holder sell-offs, strong institutional buying and short liquidations helped maintain Bitcoin's healthy trading range.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-73k-after-rangebound-move-softer-cpi-data-supports-upside/articleshow/130189039.cms
-
-- F&amp;O Talk: Nifty's 6% gains are strongest since February 2021. Is it pullback or trend-reversal?
-  Indian markets concluded the week on a strong note, continuing their upward trend. Buying interest in banking, auto, and consumer stocks fueled the gains.
-  🔗 https://economictimes.indiatimes.com/markets/options/fo-talk-niftys-6-gains-are-strongest-since-february-2021-is-it-pullback-or-trend-reversal/articleshow/130188466.cms
-
-- Aurobindo Pharma share buyback, Muthoot Fin dividend, 2 other corporate actions next week
-  Aurobindo Pharma’s share buyback and Muthoot Finance’
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-share-buyback-muthoot-fin-dividend-2-other-corporate-actions-next-week/slideshow/130188906.cms
-
-- India, U.S. to deepen nuclear ties, explore LPG exports - The Hindu
-  India, U.S. to deepen
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTjRYeWtkLVdwd2ZmNDJaYUp6SHNZUU9WU2MxTWVLVkFMWXRleDQxZmNINWp5cFY1aFhnSFdjWnFEX25qNk1uRVUwY2tZX0ZmYWVmV3E2cGg1bGZLR3dvZmpEUjNQU01lYllwckVrRXZRUmVNZWl2YkNkdUR1TDlkVEZkVlFiMkNLX0RCZEw3cmlvV3BpdHNmeWNYLVB0OU0xX2RwM2laamJVejE3UHd4VlBJSlNOcHBISWR3UHNPRlItZmxXMXQ3a3hReDFBdmUwWkFQbjg1VFJ6b0JRYk9tbjlUci1QeFM3a3fSAfABQVVfeXFMUHV4eFFQV0FQMm9mX1d6cjBob1JiQ2NkTzJ0cXJOZ09QQWlSUHltOXRVdlBiU1ZpYXl1d29zSXF0RjhSbGhlRnhHYXlHVTBuVGc5Q0Y2RUliTTJ0cHZsSXNUdnZRVGsxbHliZkJ3c0lTTGFRcFBhdmJabXFCOVZwaWI0dHRFMGNmMWxOTlNHaWUtdFNJb0N3d2dnWDAzZ28zd2VxRURwclNrWXNCT1lESGxqdlVXS3l5SkkxNF8zLVlXWGljOVhiUjRUYmJKbHFmQ2M1azFsNVh3dm10RHRMMldOa3ljOEp4M2FKSERBVFc3?oc=5
-
-- ‘Safer & stronger’: After India's Shanti Bill, Sergio Gor says US ready to cooperate on civil nuclear, LP - The Times of India
-  The Times of India reports that India and the U.S. are working on a civil nuclear
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxPVGFZTUFhcFNRNmVzUjkxNktBQ3I4QlNJMjFhYTJYazhKekVKbnQwUXRpdTN2dWlxUndDMkZUb1ZjMWtvNnhlcDZYUHRCdDN5NGYzamFxLWVqRG5OZ040YjV2MUZTWS1lYmZSTUJ1dXJSRm00TjAyYlFMNXBPXzU2MlVQYnQxSVNrNUk2em5fazhrZXhqRE5MekRlU1FrTDFESUc2SkFXamEzcjJDQmthdjl4UnlWb0F3Q05JLXduMnNkSG8zNjA2c185YmFXanppSUpYMFRWdm16S0RzWjBHdTN5M2hGX2lTb3lFT0FiOWM1a1JGaHY3V1FJdl9DMEhPZFJEbNIBigJBVV95cUxOeDRNemFIZGNRTWV3Q0ZqZ0RlTUV4b2R4TndnSGpQXzhhVHQxZnI3Y0hDeloxVE1CSERQN2FUVkhMSTVmR1AtY2RtWTRteFVZWlp5aTNIejdScW9adEZWVEFHYm9BcXRSVFBaRnFrdkJTc2F1NzFHSTZrNVpTSEg0MUtLSTJQT1BaNHpPckpiZ1RQaUd1Zzhrd2sxUkQ2eVpnUW92cERrbi1HMkMyeTdoWnVXbkpyNkc5TW9QSmwtenpVTWlvWFUtcV9HVkt0T3RUNzBCNTRtN2VOX2F1YXY4OUplVFFVeUNFMDRzd0xaTDNqUFMwc0FtX3MtRzBkUUh0dmZZYS1VM0tfUQ?oc=5
-
-- US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India’s energy policy - News On AIR
-  US Ambassador to India Sergio Gor terms SHANTI Bill significant milestone in India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTRkeTZNNFgyRWZQRlluZ09sNUxGVjRPYVF1dlFzd0lCRGdrRlBwVm1oVTktaW5lcUM0V0FqMGRMMUo3LWpvV0s1RWFjTVJma2xJRDRVU1pWYjJYekF5MFFjSTViZHFLNzFudFhiUDl1eTY5bHQtMXV5YVJDZTI4NEY4T0xTZFU0TkdMTmpvRTVoYVFUaWdkRjFQVkczd3lyWkxiQkg3cnhvWEFVWU1iSjdLcDNGRjkxeVN3T3BHQWJaZ29USHc?oc=5
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
 - India news: Marco Rubio to visit India for trade talks - DW.com
   Marco Rubio to visit India for trade talks
   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
 
-- Indians hunger for untested Chinese weight-loss peptides - The Times of India
-  Indians hunger for untested Chinese weight
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXVzS2Q3UlFHOUZiLVJ4T2lxSHZYQWg4TngtZ1RLWTExc1AwS3dlaGE3a05oc0VoRWRLa3J1LUVrNFVVSlRqY0pzTlZOOEtMdFQ5UG55UnFIODRSZGhxRFN0RFNlNVdqQTl1bWpFcFJjMkZMVFVCMVoxeFRxc0NVallOUVRhQjVYaWVBd056TmJ5VHlFeUx2aWZYZi04MFNMdlpnMWtPaDd3cTdSdTRPYmJtYl9RYUZiVlpYR2k0bFE3d9IBxwFBVV95cUxQREktSjZCS1JXWG1SVWRQVlNUaGpJMjV3WGhSNTdWUzE2S1o2TGNiU2dYaFE3M1U0NlRXb3hESnFZYnZ2c0VyZU1mLTZ2Ull1MWVLN01menhYeDV0T2lDRktQOWE1Z3pZTm5IUDhPeFFreVY4SC02NTFRMHIxNTNNTFlsYzhvb3dtaGc4WkZ3dC1RVmhRbklDNWNqakNsSFFrNlpzbThWcjRaVnRTNWVkRGFHRzdDSnFDOHY4Q1FpNmZMVkZWaTRB?oc=5
+- After 28 Years As BJP Peon, Ramesh Bhil Gets Ticket For Civic Election - NDTV
+  After 28 Years As BJP Peon, Ramesh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONDl4R2Q0emFlMnRSRDhEaVFNZlBNNEdIc2tVNkhHbWJOenAyMklnMVl0a2ZXbEdTV2NHY1o2cEJjTUdCOGhmanY0MGVSX3ViUmJ5cGduamhxbnkyTkx5eF85dDN5ZUVNMjFpci1LV1JJUDFBbFNfZzV6aUg3Z09sM1l0YTd2ek9mMkFIOEhDTjg2QWJRMUNXbEowSEc0d2ZPNDYzTGQtamJPZlphV19j0gG3AUFVX3lxTE5JYk1mYnlJWm5JU0Z4QlhkZG85QTY1Q180VE5xRW1ZYUJJbWY0YmVuMnc0TTk4UkhjVjg4azFMSGVaVTJoYTFPbGJIcXloWHRJMWZVWmpmSTdpOFhlRnYzb0tybURGU2d3aHEtZDM3TERQTmNrMTVCaHdaaGg3NXNHSVBEOTZ2YTFLcUlEUlZjR1F1ZUhscnVoMnFLak9MZnR6c3NqRDBHMWhZLTNDaGhNZm5OTGVwYw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Tamil Nadu assembly polls: Udhayanidhi Stalin launches campaign in Mannargudi - The Times of India
+  Tamil Nadu assembly polls: Udhayanidhi
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3dLc1V6dVBmemh4eUU2S0hrMTNUVEExczh6a3huMEZicTdsNWVWRzNkNEItRXZpLVV4VWNhS3IzRFluRGlqRzlUWkRsWVYxUkwwbGw4UFJTUUthdjY2RElud2c1VHNDWVlUblhZMGJmMjhkYXRxQXYtRVF1TkNaWVltRlowUnVkYktCMEZpdXFYT3N2UTFtNmdDZjZ4dmU2SmMxcWRQVDZXaTdrdDAyMWhicXg2eDdQMWhoc2xMbWI1SXJsQTE3T2Fyc3l0ckluWk1CcXc5TklkNXlR0gHiAUFVX3lxTFBrTTdrTXVIU2hwRU9jbk1qajByM09yXzNXQlVCTGpFaG8xei1BZ0dDRnFkLVFtUV9NVkJoRGFuMU9JZk40UmowOHdZamc4dGgtUEl5b3Q2ZnhmbnJwdWJRcERvUy1lbVFxUWp6QTJFY2xxb2o5WmdKWTJZdDF4TzVhZzhfeU1PSzN0OUtxOXlMc1FpUDBmenNISDhUenlxTjlaQ29GVFY3RlZsaGVqTFJlN2dnZzBaQWNpcE1HNzZsbmdKSXFIaHF6cGFONHpFaGtnRTd3eC1XTHlubGR2OGxaRUE?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Exclusive | Before Bengal’s SIR row, Maharashtra CEO red-flagged to ECI: Need more time - The Indian Express
+  The Indian Express reports that Maharashtra CEO red-flagged to EC
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjMxNFpUeWJqd2YzVzJVQUxVclU1SWRMUTlwUDhOUlh6MXZYdXNFOHQ4TXBCM2MySGNCREdac1hBa19WUUphbkxvX2VEM2NsaFE5Z1Uzc3QxWmJSQURRT1F1SmhRY04wbmhKai1vSnI3dkowbjR4bnoydXVLdVBxck1Rb202S05UWmlfUkNSVHJBTU40R3ZuYlFWbkdubFFjSExUQk4tWUkzb1JidHMyOHBvdzF2UVhJVmxfUHNiU3VoYTFxSWZwamRFWkfSAdMBQVVfeXFMTXlhX2c4RGlwWHUxcTZqODZFMTk4TkRISjhSZEtPOWZpenU4dHl1UENxOUhxVHdaSy1OQ3JMcW53U3RZd1ZENmctdmJFd01HY19QdVIwcll5N3Z6cFByb3pHbGx3SldSczF0WVA5U3I3SEc2T1BFQmlOQ0V6MXRHWWNEREU4Wmk5d3BqX3NCVGxrUENOMWNQWFlsdGFkQjBncDc0R1lxU3liazg5Y3B2Ny1fWnJWVlItU2ExX2lXbFd4ZThpX2ROYnRQVVR3QU42OEQ1dw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India news: Marco Rubio to visit India for trade talks - DW.com
+  Marco Rubio to visit India for trade talks
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- After 28 Years As BJP Peon, Ramesh Bhil Gets Ticket For Civic Election - NDTV
+  After 28 Years As BJP Peon, Ramesh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONDl4R2Q0emFlMnRSRDhEaVFNZlBNNEdIc2tVNkhHbWJOenAyMklnMVl0a2ZXbEdTV2NHY1o2cEJjTUdCOGhmanY0MGVSX3ViUmJ5cGduamhxbnkyTkx5eF85dDN5ZUVNMjFpci1LV1JJUDFBbFNfZzV6aUg3Z09sM1l0YTd2ek9mMkFIOEhDTjg2QWJRMUNXbEowSEc0d2ZPNDYzTGQtamJPZlphV19j0gG3AUFVX3lxTE5JYk1mYnlJWm5JU0Z4QlhkZG85QTY1Q180VE5xRW1ZYUJJbWY0YmVuMnc0TTk4UkhjVjg4azFMSGVaVTJoYTFPbGJIcXloWHRJMWZVWmpmSTdpOFhlRnYzb0tybURGU2d3aHEtZDM3TERQTmNrMTVCaHdaaGg3NXNHSVBEOTZ2YTFLcUlEUlZjR1F1ZUhscnVoMnFLak9MZnR6c3NqRDBHMWhZLTNDaGhNZm5OTGVwYw?oc=5
+
+- Tamil Nadu assembly polls: Udhayanidhi Stalin launches campaign in Mannargudi - The Times of India
+  Tamil Nadu assembly polls: Udhayanidhi
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3dLc1V6dVBmemh4eUU2S0hrMTNUVEExczh6a3huMEZicTdsNWVWRzNkNEItRXZpLVV4VWNhS3IzRFluRGlqRzlUWkRsWVYxUkwwbGw4UFJTUUthdjY2RElud2c1VHNDWVlUblhZMGJmMjhkYXRxQXYtRVF1TkNaWVltRlowUnVkYktCMEZpdXFYT3N2UTFtNmdDZjZ4dmU2SmMxcWRQVDZXaTdrdDAyMWhicXg2eDdQMWhoc2xMbWI1SXJsQTE3T2Fyc3l0ckluWk1CcXc5TklkNXlR0gHiAUFVX3lxTFBrTTdrTXVIU2hwRU9jbk1qajByM09yXzNXQlVCTGpFaG8xei1BZ0dDRnFkLVFtUV9NVkJoRGFuMU9JZk40UmowOHdZamc4dGgtUEl5b3Q2ZnhmbnJwdWJRcERvUy1lbVFxUWp6QTJFY2xxb2o5WmdKWTJZdDF4TzVhZzhfeU1PSzN0OUtxOXlMc1FpUDBmenNISDhUenlxTjlaQ29GVFY3RlZsaGVqTFJlN2dnZzBaQWNpcE1HNzZsbmdKSXFIaHF6cGFONHpFaGtnRTd3eC1XTHlubGR2OGxaRUE?oc=5
+
+- Exclusive | Before Bengal’s SIR row, Maharashtra CEO red-flagged to ECI: Need more time - The Indian Express
+  The Indian Express reports that Maharashtra CEO red-flagged to EC
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjMxNFpUeWJqd2YzVzJVQUxVclU1SWRMUTlwUDhOUlh6MXZYdXNFOHQ4TXBCM2MySGNCREdac1hBa19WUUphbkxvX2VEM2NsaFE5Z1Uzc3QxWmJSQURRT1F1SmhRY04wbmhKai1vSnI3dkowbjR4bnoydXVLdVBxck1Rb202S05UWmlfUkNSVHJBTU40R3ZuYlFWbkdubFFjSExUQk4tWUkzb1JidHMyOHBvdzF2UVhJVmxfUHNiU3VoYTFxSWZwamRFWkfSAdMBQVVfeXFMTXlhX2c4RGlwWHUxcTZqODZFMTk4TkRISjhSZEtPOWZpenU4dHl1UENxOUhxVHdaSy1OQ3JMcW53U3RZd1ZENmctdmJFd01HY19QdVIwcll5N3Z6cFByb3pHbGx3SldSczF0WVA5U3I3SEc2T1BFQmlOQ0V6MXRHWWNEREU4Wmk5d3BqX3NCVGxrUENOMWNQWFlsdGFkQjBncDc0R1lxU3liazg5Y3B2Ny1fWnJWVlItU2ExX2lXbFd4ZThpX2ROYnRQVVR3QU42OEQ1dw?oc=5
+
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+
+- India news: Marco Rubio to visit India for trade talks - DW.com
+  Marco Rubio to visit India for trade talks
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzZ0OVA1SXpYU0lYNGxpRmJITkFqU3Z5YzB3SXByRDM3cjRFRWh3QmI5Ni1hWEVrRFdKdEh1UUJvM1IwZkRkZnZHWE15UnhNVlFESEZFRXJEc2N1VmFPZTVWa0Z3NmlkS19HUUNYMzZBSHEzeFVSY0E3YlZFdFVNdDlCY3pKaWh3X1I0cGtFd01iQQ?oc=5
+
+- After 28 Years As BJP Peon, Ramesh Bhil Gets Ticket For Civic Election - NDTV
+  After 28 Years As BJP Peon, Ramesh
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONDl4R2Q0emFlMnRSRDhEaVFNZlBNNEdIc2tVNkhHbWJOenAyMklnMVl0a2ZXbEdTV2NHY1o2cEJjTUdCOGhmanY0MGVSX3ViUmJ5cGduamhxbnkyTkx5eF85dDN5ZUVNMjFpci1LV1JJUDFBbFNfZzV6aUg3Z09sM1l0YTd2ek9mMkFIOEhDTjg2QWJRMUNXbEowSEc0d2ZPNDYzTGQtamJPZlphV19j0gG3AUFVX3lxTE5JYk1mYnlJWm5JU0Z4QlhkZG85QTY1Q180VE5xRW1ZYUJJbWY0YmVuMnc0TTk4UkhjVjg4azFMSGVaVTJoYTFPbGJIcXloWHRJMWZVWmpmSTdpOFhlRnYzb0tybURGU2d3aHEtZDM3TERQTmNrMTVCaHdaaGg3NXNHSVBEOTZ2YTFLcUlEUlZjR1F1ZUhscnVoMnFLak9MZnR6c3NqRDBHMWhZLTNDaGhNZm5OTGVwYw?oc=5
+
+- Tamil Nadu assembly polls: Udhayanidhi Stalin launches campaign in Mannargudi - The Times of India
+  Tamil Nadu assembly polls: Udhayanidhi
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3dLc1V6dVBmemh4eUU2S0hrMTNUVEExczh6a3huMEZicTdsNWVWRzNkNEItRXZpLVV4VWNhS3IzRFluRGlqRzlUWkRsWVYxUkwwbGw4UFJTUUthdjY2RElud2c1VHNDWVlUblhZMGJmMjhkYXRxQXYtRVF1TkNaWVltRlowUnVkYktCMEZpdXFYT3N2UTFtNmdDZjZ4dmU2SmMxcWRQVDZXaTdrdDAyMWhicXg2eDdQMWhoc2xMbWI1SXJsQTE3T2Fyc3l0ckluWk1CcXc5TklkNXlR0gHiAUFVX3lxTFBrTTdrTXVIU2hwRU9jbk1qajByM09yXzNXQlVCTGpFaG8xei1BZ0dDRnFkLVFtUV9NVkJoRGFuMU9JZk40UmowOHdZamc4dGgtUEl5b3Q2ZnhmbnJwdWJRcERvUy1lbVFxUWp6QTJFY2xxb2o5WmdKWTJZdDF4TzVhZzhfeU1PSzN0OUtxOXlMc1FpUDBmenNISDhUenlxTjlaQ29GVFY3RlZsaGVqTFJlN2dnZzBaQWNpcE1HNzZsbmdKSXFIaHF6cGFONHpFaGtnRTd3eC1XTHlubGR2OGxaRUE?oc=5
+
+- Exclusive | Before Bengal’s SIR row, Maharashtra CEO red-flagged to ECI: Need more time - The Indian Express
+  The Indian Express reports that Maharashtra CEO red-flagged to EC
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjMxNFpUeWJqd2YzVzJVQUxVclU1SWRMUTlwUDhOUlh6MXZYdXNFOHQ4TXBCM2MySGNCREdac1hBa19WUUphbkxvX2VEM2NsaFE5Z1Uzc3QxWmJSQURRT1F1SmhRY04wbmhKai1vSnI3dkowbjR4bnoydXVLdVBxck1Rb202S05UWmlfUkNSVHJBTU40R3ZuYlFWbkdubFFjSExUQk4tWUkzb1JidHMyOHBvdzF2UVhJVmxfUHNiU3VoYTFxSWZwamRFWkfSAdMBQVVfeXFMTXlhX2c4RGlwWHUxcTZqODZFMTk4TkRISjhSZEtPOWZpenU4dHl1UENxOUhxVHdaSy1OQ3JMcW53U3RZd1ZENmctdmJFd01HY19QdVIwcll5N3Z6cFByb3pHbGx3SldSczF0WVA5U3I3SEc2T1BFQmlOQ0V6MXRHWWNEREU4Wmk5d3BqX3NCVGxrUENOMWNQWFlsdGFkQjBncDc0R1lxU3liazg5Y3B2Ny1fWnJWVlItU2ExX2lXbFd4ZThpX2ROYnRQVVR3QU42OEQ1dw?oc=5
+
+- 'Technology A Constitutional Instrument' : CJI Surya Kant Launches e-Courts Phase III Project With₹7,200... - Live Law
+  'Technology A Constitutional Instrument' : CJI Surya Kant
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHN3OXVGci1RcjIyUjM3cHctX3N1VnNUempsbWQ4ZnNBY0wteHZ5c3lJdkU0aE5VMS1TdXphNE5TdTRkWnAtY09yd2tLek9fTmNrazh4elJEVnVyaVpGdXlaNnJpVWtPV3hYeFFoQk5ueDhGUFA1Rm1HajFCUW9iS2lfbDZnTk52WDdhTjdZMkxaV2dBRkZYek5EcktjNWs2QnExbWxaSVBSV1piZTdiMVNLRzdqT0d0b0RTLWM4TFFBT25hTHRLcm5uQTlvdlF6Z096RTZ4U2JSeDdwNTRKVVUwZ2NaZVlV0gHuAUFVX3lxTE9MSHpMUkg3SzFWekhGcElpTFNRMmlxR29jbVVDUmhScVg5YnB5RXo0dThiemRZNDNZV3QweHdJYi02VklSUDZnS0ktWXF2QkZaRm04UUZJWmRxSVdEZFpJd2xkelg4RUV3eElOQ01QY0FoRENMMmREeDV1TXNaRk5wcHVBSld1TDVwTTN4UFYyLWllQVJyam9hS0FZVm16ZllYZUZOTzFBSkxja2h2cW54ZjJVdWhLTG1KdGpnOXhZX1VSMDFjMUxqdy1mUllDWjZaNGlCWkdtWGV5SU45WGI0eEVXVmNWSGRqV0dNaEE?oc=5
+
+- Polavaram hydro project gathers pace with advanced turbine technology - The Hindu
+  Polavaram hydro project gathers pace with
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHlIX3E2UWR0azgyNFVWcnpucUhHQnJTejdZNFZ1NEZKTUhMUUUxakhNNHFSY09tWGo0RnY2Wl9ac1lrdUl0TmxoczBBald2ZmVXc0xUanEtSFhVd3h6WXFkTnJ0MTRaaTFMcW5Va1RMenlFQXl3MS1PY0plTGNqSXNzc1VvY0xYc1JOa2pGRW5ZbkQ5c2JudHdkVWhxNjYwT3prZm9MbklJRzRkQjlpV2lWWWV1RWQ1VUpaME5Kb0U5b1pRTHhybG9lQ0VnX1FRQWdpWWtNNHpXZG_SAeIBQVVfeXFMTVhZdDJLUG9fckNZMUlqM1BLODAxZFdfYkxXb0p3NklzLVFKS2J0ZmlLWnc0WDg1bVZOajJpUDFEdUFhdkxhbURUVlVHVjlRZVRHUkRobnJ0RURkeDJJQ1BSZTdpN2l0UXI5TDJEU2FRQXpET0ZPT0l1TUFsNDdyWG41TldSRmYtNElxcWswZzQ3Q3dEOElEdUQ1aFRGOTlKYWFQeHR3U09ZQ2Ezd0ZveENyQ2dqelZ0by1jTGt6Y1NtcHo4c3lGVy1QS2FxdmI0aUdJNC1NM2lLQlV5azd5MXhvZw?oc=5
+
+- Banks Are Warned About Anthropic’s New, Powerful A.I. Technology - The New York Times
+  Banks are Warned About Anthropic’
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEx6TjVMMVBxejNzblo2UjBtU1RueFJORXNmQTJPTkpsTGNHQWxzbTBabzNNZ2xWMldRNDMzZUVWNlJ3dTREMlJNdVlQeGpPUVEyN0dudXFUWFRtSlZic1NRQTZ3MVdZRzlZekRXVEFiNU9XamdLYV9kUjEyV1RyNWJtcFoyTWMycVJlNENTQQ?oc=5
+
+- India Successfully Demonstrates 1,000-Kilometre Quantum Communication Network Using Homegrown Technology - NDTV
+  India Successfully Demonstrates 1,
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0xmdDJUYVBFYnVvS2N6cGFhUTItNUt2VnAwVWNSWWJSQXdINWgwdGFWbUVFOGlwSnhaU0k3bGFPbXZJVjhYTUJaZ01FMHRPd1hmNHVkTWVGNXIxWEUtTFRZbzcxT3p5NTRTQjM0YmhRMnd1dlJpQW9sMUhnQU5VcEQ5YW9oa3FaZWNtd0l6UFQ0MkxZOElaUXk5LV93SEhETWU3N0Y2cFBOSVFmR2tHUWRFNHEtRHRKQjZoS2xfYVAwcEJnQnhiZ25HY1JKNWt4c1pseGJ1ejJDSllMRnfSAeYBQVVfeXFMT2FEX1otazhWNHlIb25SNzZHTGN5TW9NM1pHSUdRRlZWUzVPTUN0S0hYYTlGZVVFZmgyN1ZFN1NLVy1SUTZlSTd4QjEyeWUyMG1sQ29LTDVldXM5NUFWWlRjaFcyMWFvQWkzSTJueWxnVWVERU82SU5Fd3NoX2tDV2hjRkFBVGQtOFhnX013YjZGWlRldG4tbVJha25jeHB3Q2xnc3huRTloSUF2WW9OalZmdXc4cnp5LU5iUkdraGtwTm9rQWdSYThweHJaODlycWw0RC1QVUw5SE0tNUdFQnNrbFNpc1E?oc=5
+
+- ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain - The Guardian
+  ‘There’s no shortage of terrifying technology’
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjBHWVRacm92LWdwMk0xVVc3cHI0cDhVbTIwQVdqa3duWktKR2d0cHRRRkN4MVp2Wk41MDA3dlpLMkE0aml0eXJaYnU5N0NGTmk0a29lLXF6MnViQzhMYXE2R0NRcnROcURmMkUyVjhDUF8tcnpLejgwQjlmVEVySGYyM2ZLZ056a2tNS2puTDNFcTl4c1RPT0dn?oc=5
 
 
-_Last updated: 2026-04-12 02:06:22 UTC_
+_Last updated: 2026-04-12 07:11:34 UTC_
