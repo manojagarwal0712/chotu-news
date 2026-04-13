@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- ‘Parliament creating new history’: Modi says women reservation act ‘most significant move of 21st century’
+  
+  🔗 https://indianexpress.com/article/india/parliament-modi-women-reservation-act-most-significant-21st-century-10633650/
+
+- MoS External Affairs Margherita, Naqvi, Khurship attend commemoration ceremony in memory of Khamenei
+  
+  🔗 https://indianexpress.com/article/india/mosmargherita-naqvi-khurship-in-memory-of-khamenei-10633593/
+
+- Bank Holiday Today: Banks to remain shut up to 4 days next week; Ambedkar Jayanti, regional New Year festivals to impact services
+  
+  🔗 https://indianexpress.com/article/india/bank-holiday-today-banks-remain-shut-4-days-ambedkar-jayanti-regional-new-year-festivals-10633602/
+
 - ‘15-20 men came on bikes, intercepted us 60 metres from police station’: BCCL officials ‘assaulted’ in Dhanbad
   
   🔗 https://indianexpress.com/article/india/15-20-men-came-on-bikes-intercepted-us-60-metres-from-police-station-bccl-officials-assaulted-in-dhanbad-10633118/
@@ -8,37 +20,33 @@
   
   🔗 https://indianexpress.com/article/india/3-kashmir-universities-cancel-mou-with-us-based-ngo-10633121/
 
-- Women’s quota: PM Modi seeks support, Opp says no details on delimitation
+- Anthropic introduces Claude AI integration for Microsoft Word users
   
-  🔗 https://indianexpress.com/article/india/womens-quota-pm-modi-seeks-support-opp-says-no-details-on-delimitation-10633168/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-integration-microsoft-word-10633786/
 
-- ‘What were you thinking?’: Mehbooba Mufti targets Omar govt in J-K amid campaign to reclaim lost ground
+- As AI use increases at work, many employees still choose not to use it: Gallup poll
   
-  🔗 https://indianexpress.com/article/india/mehbooba-mufti-pdp-grassroots-campaign-pulwama-omar-abdullah-waqf-bill-10632901/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll-10633705/
 
-- Massive search underway in Samba after suspicious movement reported at village near border
+- Apple testing multiple frame designs, new camera setup for AI smart glasses: Report
   
-  🔗 https://indianexpress.com/article/india/massive-search-samba-suspicious-movement-village-border-10632896/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-multiple-frame-designs-ai-smart-glasses-report-10633530/
 
-- A handy guide to accessibility settings on modern devices. Your ageing parents will thank you
+- UK regulators rush to assess risks of latest Anthropic AI model: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/handy-guide-accessibility-settings-ageing-parents-10632548/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-report-10633422/
 
-- How France’s shift from Windows to Linux reflects broader push for digital sovereignty
+- Mutually automated destruction: The escalating global AI arms race
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/france-shift-windows-linux-reflects-digital-sovereignty-push-10632508/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/mutually-automated-destruction-the-escalating-global-ai-arms-race-10633407/
 
-- Samsung to unveil new ‘Wide’ foldable alongside Galaxy Z Fold 8, S Pen: Report
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-new-wide-foldable-galaxy-unpacked-report-10632115/
+- Q4 preview: earnings remain fragile as margins crack under cost pressures
+  India Inc is entering a more demanding phase where revenue growth alone is not enough. As input costs rise and demand turns uneven, the focus is no longer on how fast companies can grow
+  🔗 https://www.livemint.com/companies/india-inc-q4-preview-earnings-remain-fragile-margins-crack-under-cost-pressures-11776058789063.html
 
-- How AI helped 1 man (and his brother) build a $1.8 billion company
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-ai-helped-1-man-and-his-brother-build-a-1-8-billion-company-10632067/
-
-- Artemis II astronauts complete milestone voyage around the moon
-  
-  🔗 https://indianexpress.com/article/technology/science/artemis-ii-astronauts-complete-milestone-voyage-around-the-moon-10630808/
+- TSMC likely to book fourth straight quarter of record profit on insatiable AI demand
+  TSMC likely to book fourth straight quarter of record profit
+  🔗 https://www.livemint.com/companies/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand-11776049677208.html
 
 - Track two: Indian IPO-bound firms explore private sales alongside listing plans
   More than 10 active IPO mandates have transitioned to this dual-track model, especially for deals in the range of  ₹500-2,000
@@ -52,153 +60,165 @@
   Employees will have the right to buy shares later, once they have been granted stock options. Eligible employees include pilots, engineers and senior management.
   🔗 https://www.livemint.com/companies/news/air-india-to-offer-stock-options-to-employees-amid-turnaround-efforts-11775989661139.html
 
-- Tata Sons' exit door from upper layer NBFC list narrows
-  New norms, currently a draft circular, take away a part of RBI’s discretion to decid who gets to be on the list. The defining criteria for a non-bank to enter the club is if it has assets of
-  🔗 https://www.livemint.com/companies/tata-sons-rbi-1-trillion-rule-upper-layer-nbfc-list-11775976457484.html
+- Gold-Silver Ratio rises to 63.7: Which precious metal should you pick amid rising US-Iran war tensions?
+  The gold-silver ratio has risen, reflecting gold's outperformance. Both metals face challenges from geopolitical tensions, rising
+  🔗 https://www.livemint.com/market/commodities/goldsilver-ratio-rises-to-63-7-which-precious-metal-gold-or-silver-should-you-pick-amid-rising-us-iran-war-tensions-11776063951370.html
 
-- Has the Death of the Department Store Reached Japan?
-  Has the demise of the department store finally arrived in Japan, which has held
-  🔗 https://www.livemint.com/companies/has-the-death-of-the-department-store-reached-japan-11776027636318.html
+- Indian 10-year bond yields rise after failed US-Iran talks pump up crude oil prices; CPI inflation data in focus
+  Government bond yields have been rising globally as elevated crude oil prices amid expectations of prolonged US-Iran war raised inflation risks.
+  🔗 https://www.livemint.com/market/bonds/indian-10-year-bond-yields-rise-after-failed-us-iran-talks-pump-up-crude-oil-prices-cpi-inflation-data-in-focus-11776064342883.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 13 April
-  Sensex and Nifty 50 surged over 1% on April 10, bolstered by banking stocks and global trends. Despite rising optimism regarding US-Iran discussions, today's market may start weak
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-13-april-11776044026270.html
+- Vodafone Idea, Ola Electric, Suzlon Energy— These are among most traded stocks on NSE today, April 13, 2026
+  Vodafone Idea, Ola Electric Mobility, Filatex Fashions, Jaiprakash Power Ventures, and Suzlon Energy were among
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-ola-electric-suzlon-energy-these-are-among-most-traded-stocks-on-nse-today-april-13-2026-11776062823702.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 13 April as US-Iran talks fail
-  Gift Nifty was trading around 23,771 level, a discount of nearly 330 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-13-april-as-us-iran-talks-fail-11776015042590.html
+- Cigarette sales take a hit after tax hike: Time to hit 'sell' button on ITC, Godfrey Phillips stocks?
+  Since the tax hike announcement made at the beginning of the year, cigarette stocks have declined between 10-17%. Industry leader ITC has emerged as the top loser as the N
+  🔗 https://www.livemint.com/market/stock-market-news/cigarette-sales-take-a-hit-after-tax-hike-time-to-hit-sell-button-on-itc-godfrey-phillips-stock-11776064176741.html
 
-- From Gift Nifty, US-Iran talks to crude oil price rally: 10 key things that changed for Indian stock market over weekend
-  Gift Nifty was trading around 23,768 level, a discount of nearly 333 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-talks-to-crude-oil-price-rally-10-key-things-that-changed-for-indian-stock-market-over-weekend-11776015309739.html
+- FPIs outflows hit  ₹1.8 lakh crore YTD. Where are foreign investors headed as they dump Indian stocks?
+  FPIs have pulled out  ₹1.8 lakh crore from Indian equities in 2026. Investments are now focusing on markets like Taiwan and Japan.
+  🔗 https://www.livemint.com/market/stock-market-news/fpis-outflows-hit-rs-1-8-lakh-crore-ytd-where-are-foreign-investors-headed-as-they-dump-indian-stocks-11776061406783.html
 
-- Australian shares fall as US-Iran peace talks collapse
-  Australian shares fall as
-  🔗 https://www.livemint.com/market/australian-shares-fall-as-us-iran-peace-talks-collapse-11776044201627.html
+- Redmi A7 Pro 5G with 120Hz display and 6300 mAh battery launched in India, price starts at  ₹12,499
+  Xiaomi launched the REDMI A7 Pro 5G in India, priced from  ₹12,499. The smartphone features a 6.9
+  🔗 https://www.livemint.com/technology/gadgets/redmi-a7-pro-5g-with-120hz-display-and-6300-mah-battery-launched-in-india-price-starts-at-rs-12499-11776063558374.html
 
-- Stocks to watch: M&amp;M, L&amp;T, Adani Green Energy among 10 shares in focus today
-  Indian benchmark indices, Sensex and Nifty 50, are expected to start Monday’s session on a negative note. Here's a list of ten stocks that will remain
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-m-m-l-t-adani-green-energy-among-10-shares-in-focus-today-11776039488142.html
+- Infinix Note 60 Pro with Active Matrix Display and 6,500mAh battery launched in India, price starts at  ₹31,999
+  The Note 60 Pro has a 6.78-inch AMOLED display, dual cameras, and fast charging support. The phone starts at a price of  ₹31,
+  🔗 https://www.livemint.com/technology/gadgets/infinix-note-60-pro-with-active-matrix-display-and-6-500mah-battery-launched-in-india-price-starts-at-rs-31999-11776055906880.html
 
-- What is Project Houdini? How Amazon plans to build data centres faster by cutting thousands of labour hours
-  Project Houdini is said to shift much of the process off-site, reducing construction time from 15 weeks to as little as 2-3 weeks. It is also said to cut labor hours significantly.
-  🔗 https://www.livemint.com/technology/tech-news/what-is-project-houdini-how-amazon-plans-to-build-data-centres-faster-by-cutting-thousands-of-labour-hours-11776041385072.html
+- Apple tests four distinct designs for Siri-powered AI smart glasses to take on Meta's Ray-Bans: Report
+  Apple is developing display-free smart glasses, with at least four frame styles planned. The company could unveil the glasses by the end of this
+  🔗 https://www.livemint.com/technology/tech-news/apple-tests-four-distinct-designs-for-siri-powered-ai-smart-glasses-to-take-on-metas-ray-bans-report-11776051607934.html
 
-- UK regulators rush to assess risks of latest Anthropic AI model, FT reports
-  UK regulators rush to assess risks of latest
-  🔗 https://www.livemint.com/technology/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-ft-reports-11776019892627.html
+- As AI use increases at work, many employees still choose not to use it: Gallup poll
+  As AI use increases at work, many employees still choose
+  🔗 https://www.livemint.com/technology/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll-11776053428463.html
 
-- Anthropic brings Claude AI to Microsoft Word so you can chat with your documents
-  Anthropic has launched Claude for Word in beta. The new tool is currently only available for for Team and Enterprise subscribers.
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-brings-claude-ai-to-microsoft-word-so-you-can-chat-with-your-documents-11775892419940.html
+- Hackers breach GTA 6 developer Rockstar Games, demand ransom payment by tomorrow
+  Rockstar Games confirmed a data breach linked to a third-party provider. Ransomware group ShinyHunter has demanded a ransom
+  🔗 https://www.livemint.com/technology/tech-news/hackers-breach-gta-6-developer-rockstar-games-demand-ransom-payment-by-tomorrow-11776046194736.html
 
-- Anthropic blocks OpenClaw's founder from accessing Claude AI, reverses decision in hours
-  Peter Steinberger faced a temporary ban from &amp;nbsp;Cla
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-blocks-openclaws-founder-from-accessing-claude-ai-reverses-decision-in-hours-11775888501493.html
+- Dow futures pare losses after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC
+  Dow futures pare losses after Trump announces Strait of Hormuz
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5
 
-- Elon Musk's X is finally cracking down on engagement farming with big overhaul to its monetization program
-  Elon Musk's X is making changes to its revenue sharing program. X's Product Head, Nikita Bier, confirmed the changes in a
-  🔗 https://www.livemint.com/technology/tech-news/elon-musks-x-is-finally-cracking-down-on-engagement-farming-with-big-overhaul-to-its-monetization-program-11775876168952.html
+- Stock markets plunge as failure of U.S.–Iran negotiations fuels concerns of prolonged conflict - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY25VeWd0d2RGSkd4ZDNmclBidjROLUlPNXhmN0N1OEdHeVFPMHJ5OFNEaFEyNDM3QXJqaUFGaTFlYTUtakVYT2xhQmo3ZThndE1UcjdZWWtSRmhKRFBPUU93N3VXQWZDZj
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY25VeWd0d2RGSkd4ZDNmclBidjROLUlPNXhmN0N1OEdHeVFPMHJ5OFNEaFEyNDM3QXJqaUFGaTFlYTUtakVYT2xhQmo3ZThndE1UcjdZWWtSRmhKRFBPUU93N3VXQWZDZjctakVVRWRPR2Q1T1RqMTRWTko5YkJMTTZnOTl4d09NYjdtNnI0eDh4N09wSHhqYWZNc0drSnNBQndjSWR6elBsZDBqYldsZVJMLUdhdHhveW1oakNLalVKVkpqZlFOZXR4S0psVXl6UFNNM3RvQWp4ZjZjR3VPMW5kZHdwMTlw0gHvAUFVX3lxTFBDWTNyMDlQc3lGUkxrQnA0SjBXZWY1a1B0ZllsMlQ5MTM4QVpnaHZVN0JvNERyWF9ESU81WVpnT1EzTUI4ZXZQamYyTGJiWE16ckpqVXZaQ2IyaXBwd2FJRWhQcjVNVTd0UTI1TlRBOWJvRlVqME1aV1Bac3pna2liaDRDVHR4M2J0SEE0M0ZmejY0b3FjUzBWZl9jMWVOcElaT0ZBOXdheVJkX0lVMzBOTmhDVEl3dzRqX1l4U3BNNnFQYWpGaWE1dXlCZUJHMUpWbDcyMUg3VUx1ckQ2Q2dMeHNoTi00cGtXVDdsU0sw?oc=5
 
-- Gold falls on strong dollar, dimming Fed rate cut hopes
-  Gold prices dropped to a near one-week low as a stronger dollar and surging energy prices fueled inflation worries. Surge in oil prices, driven by escalating tensions in the Strait of Hormuz, has
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-on-strong-dollar-dimming-fed-rate-cut-hopes/articleshow/130222875.cms
+- FTSE drops 0.42% as European markets open in red after Iran talks fail - TradingView — Track All Markets
+  FTSE drops 0.42% as European markets open in red after
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNSk1NTFJjcGFjSWY1MFRfN0RjcWducGlKTHBUME42RzZsZkVlX3lYcHNjYi1mcG9SNGk1bEQ1VkpXOUdpN0dWWTVuempyX2t3ZHZOVlo3OUdsSzhCN054b2VRTWVzRUZDS243UmVxdm5mQmpqX2JSbFVISWFDSFNDaUdOTV9FLTV1UUJDUkdGSTBycFVqNmtnVEJvWDNLYnV4ZHFrUEVhc21mZzB2am5abnN1SjFYbHN2VkpObzA5SFh6LWg3?oc=5
 
-- Stocks in news: LIC, Maruti Suzuki, Sun Pharma, TCS, HUL
-  Indian markets extended their gains on Friday, with analysts predicting a steady recovery towards the 24,300-24,700 zone. Several prominent companies like LIC, Maruti Suzuki, Sun Pharma, TCS,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lic-maruti-suzuki-sun-pharma-tcs-hul/articleshow/130222779.cms
+- What to Watch in Markets This Week: Big Banks Report; Earnings Season Ramps Up - Investopedia
+  What to Watch in Markets This Week: Big Banks Report;
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxORXpIZXBZMzdZdEhyelZqRGVYOEFJcnl0ZzEtNm5GN2xGU1dGNkNDQkVfbEdYUk1URzVuUHZnQzBicnhMM0NZMVYzZU5rellxeC0xQ00tdXBPN3E4Y3lBeUNiLXNjTFgwRXBfcnZOX1FMYXYxMDdvYnFrTlNzblVTRTFZS2h6X2lUY3d0bXY1cVFJaFdGN1BZaDBwbWdZNXRucHNzNDRDZEt1VUVrY2RyWjRtRG84UGxmcEFOTmNyY19Ua1dLb1AxTQ?oc=5
 
-- FIIs cover short bets as markets rebound, but stay wary
-  Overseas investors reduced bearish derivative bets on India to their lowest since the West Asia conflict. The long-short ratio for Nifty futures rose to 22%, indicating a cautious optimism.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-cover-short-bets-as-markets-rebound-but-stay-wary/articleshow/130222725.cms
+- Trends in India’s Female Credit Market, Report Key Highlights - Vajiram & Ravi
+  Vajiram & Ravi report on
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1N1X0RkRVVpUU5MUEs5RldrWERRVFBuOEhMQ2pBWG9oN2FLeGJET1JuSnJwOHdkVVItYmFSd2NBNkdnZmZvTWJiRDQ4OVVVY1IzcnotVXZ3YWJYdXhPWkRNWm1BVHdKcnZQZTJvY0dfRDdzX01lelVlYlBsR1Y5N1FEOVZsbnZxU25CSkdZYzdCUQ?oc=5
 
-- Global banks play hedge card after RBI blow on rupee bets
-  Foreign banks are reportedly reclassifying arbitrage deals, impacted by RBI's rupee speculation clampdown, as hedges for capital from overseas parents. This move aims to circumvent the $100 million net open position
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-banks-play-hedge-card-after-rbi-blow-on-rupee-bets/articleshow/130222697.cms
+- Anthropic's new Claude Mythos model: A new threat in the waiting for Indian IT stocks?
+  Indian IT stocks may face fresh turbulence as Anthropic’s preview model, Mythos, raises disruption risks. Analysts warn its sharp gains in software engineering tasks mark a “step-jump,” not incremental progress.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/anthropics-new-claude-mythos-model-a-new-threat-in-the-waiting-for-indian-it-stocks/articleshow/130229888.cms
 
-- Tech View: Nifty upside seen at 24,500–24,600; support at 23,700
-  Analysts suggest buying Nifty futures around 24,106 with upside targets at 24,500-24,600. Top stock picks include Jamna Auto Industries, Dhampur Sugar Mills and Birlasoft.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tech-view-nifty-upside-seen-at-2450024600-support-at-23700/articleshow/130222673.cms
+- Ather Energy shares rally 8% while Eicher Motors, Hero MotoCorp shares drop up to 4%. Here's why
+  Delhi's draft EV Policy 2026-2030 aims to boost electric two-wheeler registrations from FY29. This move is expected to accelerate EV adoption and curb pollution. The policy's incentives are already impacting
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-8-while-eicher-motors-hero-motocorp-shares-drop-up-to-4-heres-why/articleshow/130229784.cms
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+- Global Markets | Australian shares slide as US-Iran talks fail, risk appetite sours
+  The S&amp;P/ASX 200 index saw its steepest fall since April 2. Gold stocks led the losses. Energy stocks rose on higher crude prices. Telix Pharmaceuticals surged on a new collaboration.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-slide-as-us-iran-talks-fail-risk-appetite-sours/articleshow/130229319.cms
 
-- Rubio to visit in May, India may host Quad meet - The Times of India
-  Rubio to visit in May, India may host Quad
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
+- Cathie Wood vs Michael Burry: The $11 million Palantir bet that’s splitting Wall Street
+  Cathie Wood bought $11 million worth of Palantir Technologies shares, boosting ARK ETFs’ holdings to over ₹283 crore. Michael
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cathie-wood-vs-michael-burry-the-11-million-palantir-bet-thats-splitting-wall-street/articleshow/130229035.cms
 
-- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
-  The Times of India reported that six people were killed in the accident.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
+- The $150 crude oil warning: US-Iran conflict sends shockwaves through global energy markets
+  Brent crude surges past $100 as US announces naval blockade on Iranian ports. Analysts warn prices could jump to $150 if the blockade persists. Up to 12 million barrels a day at risk and global inflation pressures intensifying.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/the-150-crude-oil-warning-us-iran-conflict-sends-shockwaves-through-global-energy-markets/articleshow/130227231.cms
 
-- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
+- India rejects China’s ‘mischievous attempts’ to assign ‘fictitious’ names to places in Arunachal Pradesh - The Hindu
+  India rejects China’s ‘mischievous attempts�
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2diaVJuUDFpQVloYzdITzdBaTFkLXREbHd2N2ItT0VaY25ZNTNoNDNQal9EZzBNOTNQWnRhRFBjTmtnc1VTbHo1ajVZRkVnc25PMy15bHlrUTQ3dUdIOXRXUjdvUjlYV25WZ3dCU2xwZHBFajlpOXhVOW1XS0hLTFo1a1lGd0JhRUpRYlY4UzZGNExMQmdrSm9yVUphdVdCYjRzTXJuWHQ2ZlkwYzdlZFJsN2t5aHVXR05HdGdwMmotQzl0ZHBaY1ZTc1JWZUNyM3ZDOG9jdXYzZmh0NllRVU9SWGFYQVnSAe4BQVVfeXFMT1hLQ3luMjl3VjBhRll5SXQ3T3QxWlNuZDl3YnFVVVVSdmtiYUxjMnU3TnBIWC1UUXg2WXNCb21mV0JqQU9CLWx4WXdiUWg4UTFnc3RxY2dUOGRHSG91azFNaFRUeFRHU18zMUp3d2JLS1BTbFVqU1pyUk1PTmZYMWtIUnVJd0VLemFIUDdkUUlqWUEwdmFVdTNYR3VpN3o3NHEzN3ZtZmUta2Uzc3NIRU5TRXNKcHBFRzhwbVdOVkpqcmY5SFNkSVUxNmswSVI1SlE1UThjWnNSR0FlbWZSUlRTWG5MN185TjljTTdUUQ?oc=5
 
-- China's 'fictitious names' mischievous, says India - The Times of India
-  China's 'fictitious names
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
-
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
-
-- Rubio to visit in May, India may host Quad meet - The Times of India
-  Rubio to visit in May, India may host Quad
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
-
-- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
-  The Times of India reported that six people were killed in the accident.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
-
-- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
+- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
+  "Can't Alter Undeniable Reality": India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
 
 - China's 'fictitious names' mischievous, says India - The Times of India
   China's 'fictitious names
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Rubio to visit in May, India may host Quad meet - The Times of India
-  Rubio to visit in May, India may host Quad
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
+- Trinamool Appeasing "Tukde Tukde Gang": In Bengal, PM Invokes National Security - NDTV
+  Trinamool Appeasing "T
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3QwZTgyenhLMG5nNElKdnNueTlXOEM2YVNHRDAwZVV0X08xcVozVmt3cHA3eERaSUkxRGtpMTBpUGxQQzhsVGVYd3pidXVZVGEwVTY5SVQyaG5TYzUtNjlVM05nWThNVTZzYVlvNzFwZ0FBZUdZN1M1UHZYRjdlM05sQnRWcmgyVU1zekcwWTRpMWVvTjlwZHpkZUVwc3FOVzJSa3RKam5UYTRoWUdWUktsbTRRT03SAb8BQVVfeXFMUE1ULVdIRVYwYVhDUE5DVXdHSlF3SXhZa2tQc1Z3bmRyUWRsYnFTTVNlVnFScElBRmdPYjlISTlBQUlxc0E5MzNtTHRadHRzVzdQQjNhU2NxOXI3bnExc3lZYU5XWmNxR05HU0lNbF85VFRNX09PUTFJRGlVcXl2RGh5QnhaMGhYUDdjQTFtTWU0dldWYmttZnZrWFZ3Z2VzNnN3NXVRWnFWdERUMVZoWk1qQzFpSHFQZlBiOUNKZVU?oc=5
 
-- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
-  The Times of India reported that six people were killed in the accident.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
+- India rejects China’s ‘mischievous attempts’ to assign ‘fictitious’ names to places in Arunachal Pradesh - The Hindu
+  India rejects China’s ‘mischievous attempts�
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2diaVJuUDFpQVloYzdITzdBaTFkLXREbHd2N2ItT0VaY25ZNTNoNDNQal9EZzBNOTNQWnRhRFBjTmtnc1VTbHo1ajVZRkVnc25PMy15bHlrUTQ3dUdIOXRXUjdvUjlYV25WZ3dCU2xwZHBFajlpOXhVOW1XS0hLTFo1a1lGd0JhRUpRYlY4UzZGNExMQmdrSm9yVUphdVdCYjRzTXJuWHQ2ZlkwYzdlZFJsN2t5aHVXR05HdGdwMmotQzl0ZHBaY1ZTc1JWZUNyM3ZDOG9jdXYzZmh0NllRVU9SWGFYQVnSAe4BQVVfeXFMT1hLQ3luMjl3VjBhRll5SXQ3T3QxWlNuZDl3YnFVVVVSdmtiYUxjMnU3TnBIWC1UUXg2WXNCb21mV0JqQU9CLWx4WXdiUWg4UTFnc3RxY2dUOGRHSG91azFNaFRUeFRHU18zMUp3d2JLS1BTbFVqU1pyUk1PTmZYMWtIUnVJd0VLemFIUDdkUUlqWUEwdmFVdTNYR3VpN3o3NHEzN3ZtZmUta2Uzc3NIRU5TRXNKcHBFRzhwbVdOVkpqcmY5SFNkSVUxNmswSVI1SlE1UThjWnNSR0FlbWZSUlRTWG5MN185TjljTTdUUQ?oc=5
 
-- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
+- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
+  "Can't Alter Undeniable Reality": India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
 
 - China's 'fictitious names' mischievous, says India - The Times of India
   China's 'fictitious names
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
-- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
-  India proposes new digital rules to regulate news and political posts on social media
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
-- Rubio to visit in May, India may host Quad meet - The Times of India
-  Rubio to visit in May, India may host Quad
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
+- Trinamool Appeasing "Tukde Tukde Gang": In Bengal, PM Invokes National Security - NDTV
+  Trinamool Appeasing "T
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3QwZTgyenhLMG5nNElKdnNueTlXOEM2YVNHRDAwZVV0X08xcVozVmt3cHA3eERaSUkxRGtpMTBpUGxQQzhsVGVYd3pidXVZVGEwVTY5SVQyaG5TYzUtNjlVM05nWThNVTZzYVlvNzFwZ0FBZUdZN1M1UHZYRjdlM05sQnRWcmgyVU1zekcwWTRpMWVvTjlwZHpkZUVwc3FOVzJSa3RKam5UYTRoWUdWUktsbTRRT03SAb8BQVVfeXFMUE1ULVdIRVYwYVhDUE5DVXdHSlF3SXhZa2tQc1Z3bmRyUWRsYnFTTVNlVnFScElBRmdPYjlISTlBQUlxc0E5MzNtTHRadHRzVzdQQjNhU2NxOXI3bnExc3lZYU5XWmNxR05HU0lNbF85VFRNX09PUTFJRGlVcXl2RGh5QnhaMGhYUDdjQTFtTWU0dldWYmttZnZrWFZ3Z2VzNnN3NXVRWnFWdERUMVZoWk1qQzFpSHFQZlBiOUNKZVU?oc=5
 
-- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
-  The Times of India reported that six people were killed in the accident.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
+- India rejects China’s ‘mischievous attempts’ to assign ‘fictitious’ names to places in Arunachal Pradesh - The Hindu
+  India rejects China’s ‘mischievous attempts�
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2diaVJuUDFpQVloYzdITzdBaTFkLXREbHd2N2ItT0VaY25ZNTNoNDNQal9EZzBNOTNQWnRhRFBjTmtnc1VTbHo1ajVZRkVnc25PMy15bHlrUTQ3dUdIOXRXUjdvUjlYV25WZ3dCU2xwZHBFajlpOXhVOW1XS0hLTFo1a1lGd0JhRUpRYlY4UzZGNExMQmdrSm9yVUphdVdCYjRzTXJuWHQ2ZlkwYzdlZFJsN2t5aHVXR05HdGdwMmotQzl0ZHBaY1ZTc1JWZUNyM3ZDOG9jdXYzZmh0NllRVU9SWGFYQVnSAe4BQVVfeXFMT1hLQ3luMjl3VjBhRll5SXQ3T3QxWlNuZDl3YnFVVVVSdmtiYUxjMnU3TnBIWC1UUXg2WXNCb21mV0JqQU9CLWx4WXdiUWg4UTFnc3RxY2dUOGRHSG91azFNaFRUeFRHU18zMUp3d2JLS1BTbFVqU1pyUk1PTmZYMWtIUnVJd0VLemFIUDdkUUlqWUEwdmFVdTNYR3VpN3o3NHEzN3ZtZmUta2Uzc3NIRU5TRXNKcHBFRzhwbVdOVkpqcmY5SFNkSVUxNmswSVI1SlE1UThjWnNSR0FlbWZSUlRTWG5MN185TjljTTdUUQ?oc=5
 
-- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
-  The Times of India is a
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
+- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
+  "Can't Alter Undeniable Reality": India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
 
 - China's 'fictitious names' mischievous, says India - The Times of India
   China's 'fictitious names
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
+
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+
+- Trinamool Appeasing "Tukde Tukde Gang": In Bengal, PM Invokes National Security - NDTV
+  Trinamool Appeasing "T
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3QwZTgyenhLMG5nNElKdnNueTlXOEM2YVNHRDAwZVV0X08xcVozVmt3cHA3eERaSUkxRGtpMTBpUGxQQzhsVGVYd3pidXVZVGEwVTY5SVQyaG5TYzUtNjlVM05nWThNVTZzYVlvNzFwZ0FBZUdZN1M1UHZYRjdlM05sQnRWcmgyVU1zekcwWTRpMWVvTjlwZHpkZUVwc3FOVzJSa3RKam5UYTRoWUdWUktsbTRRT03SAb8BQVVfeXFMUE1ULVdIRVYwYVhDUE5DVXdHSlF3SXhZa2tQc1Z3bmRyUWRsYnFTTVNlVnFScElBRmdPYjlISTlBQUlxc0E5MzNtTHRadHRzVzdQQjNhU2NxOXI3bnExc3lZYU5XWmNxR05HU0lNbF85VFRNX09PUTFJRGlVcXl2RGh5QnhaMGhYUDdjQTFtTWU0dldWYmttZnZrWFZ3Z2VzNnN3NXVRWnFWdERUMVZoWk1qQzFpSHFQZlBiOUNKZVU?oc=5
+
+- India rejects China’s ‘mischievous attempts’ to assign ‘fictitious’ names to places in Arunachal Pradesh - The Hindu
+  India rejects China’s ‘mischievous attempts�
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2diaVJuUDFpQVloYzdITzdBaTFkLXREbHd2N2ItT0VaY25ZNTNoNDNQal9EZzBNOTNQWnRhRFBjTmtnc1VTbHo1ajVZRkVnc25PMy15bHlrUTQ3dUdIOXRXUjdvUjlYV25WZ3dCU2xwZHBFajlpOXhVOW1XS0hLTFo1a1lGd0JhRUpRYlY4UzZGNExMQmdrSm9yVUphdVdCYjRzTXJuWHQ2ZlkwYzdlZFJsN2t5aHVXR05HdGdwMmotQzl0ZHBaY1ZTc1JWZUNyM3ZDOG9jdXYzZmh0NllRVU9SWGFYQVnSAe4BQVVfeXFMT1hLQ3luMjl3VjBhRll5SXQ3T3QxWlNuZDl3YnFVVVVSdmtiYUxjMnU3TnBIWC1UUXg2WXNCb21mV0JqQU9CLWx4WXdiUWg4UTFnc3RxY2dUOGRHSG91azFNaFRUeFRHU18zMUp3d2JLS1BTbFVqU1pyUk1PTmZYMWtIUnVJd0VLemFIUDdkUUlqWUEwdmFVdTNYR3VpN3o3NHEzN3ZtZmUta2Uzc3NIRU5TRXNKcHBFRzhwbVdOVkpqcmY5SFNkSVUxNmswSVI1SlE1UThjWnNSR0FlbWZSUlRTWG5MN185TjljTTdUUQ?oc=5
+
+- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
+  "Can't Alter Undeniable Reality": India
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+
+- China's 'fictitious names' mischievous, says India - The Times of India
+  China's 'fictitious names
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
+
+- India proposes new rules to regulate news and political posts on social media - BBC
+  India proposes new rules to regulate news and political posts on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
+
+- Trinamool Appeasing "Tukde Tukde Gang": In Bengal, PM Invokes National Security - NDTV
+  Trinamool Appeasing "T
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3QwZTgyenhLMG5nNElKdnNueTlXOEM2YVNHRDAwZVV0X08xcVozVmt3cHA3eERaSUkxRGtpMTBpUGxQQzhsVGVYd3pidXVZVGEwVTY5SVQyaG5TYzUtNjlVM05nWThNVTZzYVlvNzFwZ0FBZUdZN1M1UHZYRjdlM05sQnRWcmgyVU1zekcwWTRpMWVvTjlwZHpkZUVwc3FOVzJSa3RKam5UYTRoWUdWUktsbTRRT03SAb8BQVVfeXFMUE1ULVdIRVYwYVhDUE5DVXdHSlF3SXhZa2tQc1Z3bmRyUWRsYnFTTVNlVnFScElBRmdPYjlISTlBQUlxc0E5MzNtTHRadHRzVzdQQjNhU2NxOXI3bnExc3lZYU5XWmNxR05HU0lNbF85VFRNX09PUTFJRGlVcXl2RGh5QnhaMGhYUDdjQTFtTWU0dldWYmttZnZrWFZ3Z2VzNnN3NXVRWnFWdERUMVZoWk1qQzFpSHFQZlBiOUNKZVU?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-13 02:11:59 UTC_
+_Last updated: 2026-04-13 07:58:40 UTC_
