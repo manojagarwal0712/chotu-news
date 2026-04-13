@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- ‘15-20 men came on bikes, intercepted us 60 metres from police station’: BCCL officials ‘assaulted’ in Dhanbad
+  
+  🔗 https://indianexpress.com/article/india/15-20-men-came-on-bikes-intercepted-us-60-metres-from-police-station-bccl-officials-assaulted-in-dhanbad-10633118/
+
+- 3 Kashmir universities cancel MoU with US-based NGO
+  
+  🔗 https://indianexpress.com/article/india/3-kashmir-universities-cancel-mou-with-us-based-ngo-10633121/
+
+- Women’s quota: PM Modi seeks support, Opp says no details on delimitation
+  
+  🔗 https://indianexpress.com/article/india/womens-quota-pm-modi-seeks-support-opp-says-no-details-on-delimitation-10633168/
+
 - ‘What were you thinking?’: Mehbooba Mufti targets Omar govt in J-K amid campaign to reclaim lost ground
   
   🔗 https://indianexpress.com/article/india/mehbooba-mufti-pdp-grassroots-campaign-pulwama-omar-abdullah-waqf-bill-10632901/
@@ -7,18 +19,6 @@
 - Massive search underway in Samba after suspicious movement reported at village near border
   
   🔗 https://indianexpress.com/article/india/massive-search-samba-suspicious-movement-village-border-10632896/
-
-- Dalit medical student’s death rocks Kerala, family claims college faculty humiliated him over caste, complexion
-  
-  🔗 https://indianexpress.com/article/india/kannur-dental-college-dalit-student-nithin-raj-death-caste-discrimination-allegations-10632862/
-
-- RBI proposes ‘Kill Switch’ to secure digital payments: What it means
-  
-  🔗 https://indianexpress.com/article/india/rbi-proposes-kill-switch-to-secure-digital-payments-what-it-means-10632812/
-
-- PM Awas houses on forest land: Centre tells SC about safeguards, duties under FRA
-  
-  🔗 https://indianexpress.com/article/india/pm-awas-houses-forest-land-centre-sc-about-safeguards-duties-10632820/
 
 - A handy guide to accessibility settings on modern devices. Your ageing parents will thank you
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/science/artemis-ii-astronauts-complete-milestone-voyage-around-the-moon-10630808/
 
-- An exclusive 23-story Miami hotel vanishes in a 15-second implosion
-  An exclusive 23-story
-  🔗 https://www.livemint.com/companies/an-exclusive-23-story-miami-hotel-vanishes-in-a-15-second-implosion-11776002928885.html
+- Track two: Indian IPO-bound firms explore private sales alongside listing plans
+  More than 10 active IPO mandates have transitioned to this dual-track model, especially for deals in the range of  ₹500-2,000
+  🔗 https://www.livemint.com/companies/news/ipo-mandates-shift-to-dual-tracking-as-primary-market-slow-11775978033825.html
 
-- 8 out of 10 most India's valuable companies add  ₹4.13 lakh crore mcap amid US-Iran ceasefire; HDFC, ICICI Bank top list
-  HDFC Bank, Bharti Airtel, State Bank of India, ICICI Bank, Tata Consultancy Services (TCS), Bajaj Finance,
-  🔗 https://www.livemint.com/companies/news/8-out-of-10-most-indias-valuable-companies-add-4-13-lakh-crore-mcap-amid-us-iran-ceasefire-hdfc-icici-bank-top-list-11775981327633.html
+- Nuvama’s PE arm raises focus on manufacturing, invests  ₹200 cr in Chennai-based Val-Met Engineering
+  Nuvama Private Equity has acquired a minority stake in Val-Met Engineering. The investment aims to scale the specialized material supplier into a global player.
+  🔗 https://www.livemint.com/companies/nuvamas-pe-arm-raises-focus-on-manufacturing-invests-200-cr-in-chennai-based-val-met-engineering-11775982249236.html
 
-- TCS makes 25,000 fresher offers in FY27, says more hiring hinges on demand: Report
-  TCS has made 25,000 fresher offers in FY27, down from 44,000 last year. CEO K Krithivasan says
-  🔗 https://www.livemint.com/companies/news/tcs-makes-25-000-fresher-offers-in-fy27-says-more-hiring-hinges-on-demand-report-11775977193435.html
+- Air India to offer stock options tied to performance
+  Employees will have the right to buy shares later, once they have been granted stock options. Eligible employees include pilots, engineers and senior management.
+  🔗 https://www.livemint.com/companies/news/air-india-to-offer-stock-options-to-employees-amid-turnaround-efforts-11775989661139.html
 
-- TCS payouts to Tata Sons fall as acquisitions, AI push weigh on cash flows
-  The company's latest payout of  ₹28,292.1 crore in the financial year ended March 2026 was lower than the previous year’s. It marked the third decline in total
-  🔗 https://www.livemint.com/companies/tata-sons-atm-dispensing-less-cash-acquisitions-tcs-payouts-11775817660337.html
+- Tata Sons' exit door from upper layer NBFC list narrows
+  New norms, currently a draft circular, take away a part of RBI’s discretion to decid who gets to be on the list. The defining criteria for a non-bank to enter the club is if it has assets of
+  🔗 https://www.livemint.com/companies/tata-sons-rbi-1-trillion-rule-upper-layer-nbfc-list-11775976457484.html
 
-- Lufthansa Crew Strike Set to Cancel More Than 500 Flights
-  Air travelers in Germany face significant disruptions on Friday from a walkout at Deutsche Lufthansa AG. Hundreds of flight cancellations at major hubs
-  🔗 https://www.livemint.com/companies/lufthansa-crew-strike-set-to-cancel-more-than-500-flights-11775970692843.html
+- Has the Death of the Department Store Reached Japan?
+  Has the demise of the department store finally arrived in Japan, which has held
+  🔗 https://www.livemint.com/companies/has-the-death-of-the-department-store-reached-japan-11776027636318.html
 
-- Wall Street faces volatile week as US-Iran talks fail; energy market, big bank earnings and PPI inflation in focus
-  The corporate earnings schedule is packed. Goldman Sachs, JPMorgan Chase, Wells Fargo, Citigroup
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-faces-volatile-week-as-us-iran-talks-fail-energy-market-big-bank-earnings-and-ppi-inflation-in-focus-11776003475827.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 13 April
+  Sensex and Nifty 50 surged over 1% on April 10, bolstered by banking stocks and global trends. Despite rising optimism regarding US-Iran discussions, today's market may start weak
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-13-april-11776044026270.html
 
-- Muted Q4FY26 earnings are unlikely to impact the broader market in FY27, here's why
-  Domestic fundamentals, sector-specific demand drivers,
-  🔗 https://www.livemint.com/market/stock-market-news/muted-q4fy26-earnings-are-unlikely-to-impact-the-broader-market-in-fy27-heres-why-11775986689003.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 13 April as US-Iran talks fail
+  Gift Nifty was trading around 23,771 level, a discount of nearly 330 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-13-april-as-us-iran-talks-fail-11776015042590.html
 
-- US-Iran war: Ceasefire negotiation fails; what does it mean for gold, oil, silver and Indian stock market?
-  The US-Iran war ceasefire negotiations failure is likely to weigh on crude oil prices, gold and silver prices and the Indian stock market
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-ceasefire-negotiation-fails-what-does-it-mean-for-gold-oil-silver-and-indian-stock-market-11775987161746.html
+- From Gift Nifty, US-Iran talks to crude oil price rally: 10 key things that changed for Indian stock market over weekend
+  Gift Nifty was trading around 23,768 level, a discount of nearly 333 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-talks-to-crude-oil-price-rally-10-key-things-that-changed-for-indian-stock-market-over-weekend-11776015309739.html
 
-- Failure of US-Iran Talks Set to Weigh on Risk Assets Monday
-  The US and Iran’s failure to strike a peace deal over the weekend is set to weigh on market sentiment and lift demand for
-  🔗 https://www.livemint.com/market/failure-of-us-iran-talks-set-to-weigh-on-risk-assets-monday-11775987050787.html
+- Australian shares fall as US-Iran peace talks collapse
+  Australian shares fall as
+  🔗 https://www.livemint.com/market/australian-shares-fall-as-us-iran-peace-talks-collapse-11776044201627.html
 
-- Gold rate today: Yellow metal falls 9% since onset of US-Iran war. Experts see more dip as ceasefire negotiation fails
-  Safe-haven yellow metal has witnessed a significant fall over 9% since the beginning of US-Iran war on February 28.
-  🔗 https://www.livemint.com/market/commodities/gold-rate-today-yellow-metal-falls-9-since-onset-of-us-iran-war-experts-see-more-dip-as-ceasefire-negotiation-fails-11775980204041.html
+- Stocks to watch: M&amp;M, L&amp;T, Adani Green Energy among 10 shares in focus today
+  Indian benchmark indices, Sensex and Nifty 50, are expected to start Monday’s session on a negative note. Here's a list of ten stocks that will remain
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-m-m-l-t-adani-green-energy-among-10-shares-in-focus-today-11776039488142.html
+
+- What is Project Houdini? How Amazon plans to build data centres faster by cutting thousands of labour hours
+  Project Houdini is said to shift much of the process off-site, reducing construction time from 15 weeks to as little as 2-3 weeks. It is also said to cut labor hours significantly.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-project-houdini-how-amazon-plans-to-build-data-centres-faster-by-cutting-thousands-of-labour-hours-11776041385072.html
+
+- UK regulators rush to assess risks of latest Anthropic AI model, FT reports
+  UK regulators rush to assess risks of latest
+  🔗 https://www.livemint.com/technology/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-ft-reports-11776019892627.html
 
 - Anthropic brings Claude AI to Microsoft Word so you can chat with your documents
   Anthropic has launched Claude for Word in beta. The new tool is currently only available for for Team and Enterprise subscribers.
@@ -92,133 +100,105 @@
   Elon Musk's X is making changes to its revenue sharing program. X's Product Head, Nikita Bier, confirmed the changes in a
   🔗 https://www.livemint.com/technology/tech-news/elon-musks-x-is-finally-cracking-down-on-engagement-farming-with-big-overhaul-to-its-monetization-program-11775876168952.html
 
-- Pixel users report phones freezing on startup screen after latest Google update, company responds
-  After the March 2026 Pixel update, many users report their devices are stuck in bootloop, making them unusable. Google has also responded to the issue saying that it is actively
-  🔗 https://www.livemint.com/technology/tech-news/pixel-users-report-phones-freezing-on-startup-screen-after-latest-google-update-company-responds-11775875036837.html
+- Gold falls on strong dollar, dimming Fed rate cut hopes
+  Gold prices dropped to a near one-week low as a stronger dollar and surging energy prices fueled inflation worries. Surge in oil prices, driven by escalating tensions in the Strait of Hormuz, has
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-on-strong-dollar-dimming-fed-rate-cut-hopes/articleshow/130222875.cms
 
-- Mac users, update your ChatGPT app immediately: OpenAI issues urgent security warning
-  OpenAI reported a security issue related to third-party library Axios. The company said it
-  🔗 https://www.livemint.com/technology/tech-news/openai-says-it-faced-a-security-issue-forces-mandatory-update-for-all-mac-users-to-block-fake-chatgpt-apps-11775873495758.html
+- Stocks in news: LIC, Maruti Suzuki, Sun Pharma, TCS, HUL
+  Indian markets extended their gains on Friday, with analysts predicting a steady recovery towards the 24,300-24,700 zone. Several prominent companies like LIC, Maruti Suzuki, Sun Pharma, TCS,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lic-maruti-suzuki-sun-pharma-tcs-hul/articleshow/130222779.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcDNWeWlhVDRXbEJMVGNKRmlyOXBCMmxoSGJQX1JJdDg3dWN1Mlk1ZENpZWY0dThDSkxZQ241QVBiX3ZEM1UxZVJ6cEhna2hoRkxSVHdoVll0R1IxZ1FLMVlKZXRBLTIydkUySzhJdmE0ZkJqTUpNRDJQSFplemZPYlZfejJGYjJqcjk0T2ZHeV9pdzdFZEZqcFF5RjZVZFc4TVNaWkcwWE1NUDZPTFdkcGZZcE90ajhuemllbUZUUzB3RXBlWTNrNXNpNEhaall6TG9SLURkMldHbzhhM1BB0gHkAUFVX3lxTE1uVHdnUTNmbHpRYVl4dWFpZUVuaDNjdEdUNmJYT3ZYdnhoeGhUbFBRS1BobktpN3U4aGstQndrT1h2ZGxobnhub1gwdmZsVlBvZU9LcTY3ZGZCNVBObTY2U3E0cHJ1R3pBdVFXWFdZa3JnX3I2d3RHUmVfcTQyYUJRcXFrTFVTbWNYM2N5c2NfeDNIa01OZ2pia1ZvZExLUUxSWVpSREJLaUdjWGxFVzc0UkxrZWFhUzFYbm5LdHI3VTVaQVdCQVZsRGtQak5YVEpWQmJJcVNIOHYwZ0E4NDBwOFRSNg?oc=5
+- FIIs cover short bets as markets rebound, but stay wary
+  Overseas investors reduced bearish derivative bets on India to their lowest since the West Asia conflict. The long-short ratio for Nifty futures rose to 22%, indicating a cautious optimism.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-cover-short-bets-as-markets-rebound-but-stay-wary/articleshow/130222725.cms
 
-- Markets brace for volatile Monday as US-Iran talks fail, FIIs cautious - Moneycontrol.com
-  The Guardian: Markets brace for volatile Monday as US-Iran talks fail, FIIs cautious. The New York Times: Fears of prolonged energy shock from prolonged talks.
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxObjNxNnVjdU5JeFZIaUxPbjNPNTloeVNBWmE5ZTA4a255SmVhSFBVTFM4eWloWnlCLUZTckJPbHQwd0EtbTZ5NVp2T1ZaWDVuUmhfMm5SbWlOMS12b0lqYWFhWTljWmcwZDd1aHkxM1V5blJuYlBIYzU4TTNXRmNMUWxSSnVLTkZ3TGJjSy1mV1AxazVtbVQyUVpuVmwxaW1jS29zMTBGZDMyZTV1enRGVVdyT0x5RHY2bVM3X3pNaFBrVnFTWHY2OHloTXBNMmvSAdQBQVVfeXFMTzhnQTNrUktpbVFKVXRrbjNhSWkxUDM5OHkyY0xSaTNCbkdwUDZaZTBqdW0tVEFVMjVCd0xEeHpZd2duNDVSVVZ4Uy14Yi1ZTU5iYndhMFlvLW5fYVZ6V1ZhdlQ3TU9ZZkFuY09oR0lmR0dxQjluU2MxREQ4RUVyRlRmcUhmWDBjdlloWXdiaXkwLTRsa2llMVI3bGFNNXJHYzJ1bldfTlo1TjhRT2FiTXJ1VXRncFh6Zzd4c1ZmYUJpX2RiaWZsOWxrdmxsWVMzcVNDSXA?oc=5
+- Global banks play hedge card after RBI blow on rupee bets
+  Foreign banks are reportedly reclassifying arbitrage deals, impacted by RBI's rupee speculation clampdown, as hedges for capital from overseas parents. This move aims to circumvent the $100 million net open position
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/global-banks-play-hedge-card-after-rbi-blow-on-rupee-bets/articleshow/130222697.cms
 
-- How Iran's Dark Fleet Is Quietly Keeping Oil Markets Afloat - Crude Oil Prices Today | OilPrice.com
-  How Iran's Dark Fleet Is Quietly Keeping Oil Markets Aflo
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjQzcjlISEVTWUFnY1JJZ0d3Nm1wYmNna0pGbFluOFg3VlRDX3hrS19QOUZvNGFmb2dKNHhTNjA0UzlCZllXVzJJRXpoZXVyR2dtdlk0VVJNeG0xWWFXYzh0aWlpRElfQktyU0ZERDFJWHNOd3NHWUE5NnA1cVFWdmtTbXdkdnJNcVo0LUxwTzFaSTgyNjFvYVFucWZkV1NLckhN0gGoAUFVX3lxTE0wV25RUnp4NmFnTUZWUmlQMXhBNV81VWQ4b3QxVzcxT3NZZXFZbzdaY3ZVZUFmdkJpQ3cwVWREbjVpaWxraVgwQkNjWUdrNDVwMW5henhEd0dHaFN1RTc2aHM1Ukw5LTUteFVHOFpHUWQ2dUM0bmZOUFg3NVNnZmdSOUZuN1NHZmd1VnZIVUMtUWw1RTVxVWVkOHE4eTVULXY5Q254ZGtreg?oc=5
+- Tech View: Nifty upside seen at 24,500–24,600; support at 23,700
+  Analysts suggest buying Nifty futures around 24,106 with upside targets at 24,500-24,600. Top stock picks include Jamna Auto Industries, Dhampur Sugar Mills and Birlasoft.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tech-view-nifty-upside-seen-at-2450024600-support-at-23700/articleshow/130222673.cms
 
-- Dow Jones Futures Loom; Trump To Blockade Strait Of Hormuz After U.S.-Iran Talks End Without Deal - Investor's Business Daily
-  Dow Jones Futures Loom; Trump To Blockade Strait Of Horm
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkZsZ0FfNWFlREZ5Z2VZa1U1OTJ3NmdhVFA3TndtSTUwWkNhMkxDN19WT0hLWXVNU3gycFJCZ0tfXzh0THRZN0FWLXhFblRTV3p0RHdiTWlvbGduZlItU1hEbnBlWVJVNkxubUx2ajJtbXRvam9TTHpyOVVhTkFRNEtQU0VYRjlDM3VsOTVRME5NNmJqVlZlYjFmOUJQNjg5Sldnc2VheXl6RXUtelVZNE5COHZ1MGVmRGdsSmhB?oc=5
-
-- What market volatility actually tests - Finshots
-  What market volatility
-  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE85R1hZRnZvZUZYQnBEMzQ1YnNXZERPUHNxZU1zdWVpYk9td3RuMkZqeDlvTndZeVNOenpQaVBtU0hQZTdreUZ1UXhxREtFazFJVTVsb250Yk82MS1jTy1qZkcySWFIdnRMV05uR2Z4YWUzdlVH?oc=5
-
-- Michael Burry is still betting against Palantir even after Trump's 'warfighting' praise. AI bubble ready to pop?
-  Experts warn uncertainty over profitability and infrastructure spending could challenge long-term returns. Veteran investor Michael Burry remains bearish on Palantir Technologies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/michael-burry-is-still-betting-against-palantir-even-after-trumps-warfighting-praise-ai-bubble-ready-to-pop/articleshow/130206118.cms
-
-- 7 best performing PMS that delivered up to 43% returns in FY26
-  Despite sharp market volatility in FY26, select PMS portfolios delivered strong returns up to 43%. Strategies across small-cap, multi-cap and multi-asset
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-best-performing-pms-that-delivered-up-to-43-returns-in-fy26/slideshow/130206240.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Domestic markets extended gains with Nifty closing above 24,000, led by banking, auto, and consumer stocks. Easing volatility and bullish technical indicators signal strength,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/130205041.cms
-
-- Market Trading Guide: Buy SBI and Bajaj Consumer on Monday for gains up to 6%
-  Nifty extended gains, maintaining bullish momentum above key moving averages. Support lies near 23,800 and resistance around 24,300–24,350. Analysts highlight SBI and Baj
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-sbi-and-bajaj-consumer-on-monday-for-gains-up-to-6/articleshow/130204493.cms
-
-- A panicked race for barrels grips global oil market, price up as much as $140
-  Global oil markets are witnessing a severe physical crude shortage. Middle East disruptions trigger frantic buying and record premiums for immediate supplies.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/a-panicked-race-for-barrels-grips-global-oil-market-price-up-as-much-as-140/articleshow/130204411.cms
-
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
 - Rubio to visit in May, India may host Quad meet - The Times of India
   Rubio to visit in May, India may host Quad
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
 
-- Legendary Indian Bollywood singer Asha Bhosle dies aged 92 - Al Jazeera
-  Legendary Indian Bollywood singer Asha Bh
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVR4akg3Rkkta0dsbW0wYjNMdEVxd3hXRXU0VGtDYUpZdUtaR3AzTkNwbGNjQksxOGJ6MGtCUlAtZ2lDMkZYVU8wdWY0VzBJdmxYUlNmaEM1eTFfR2FCMEIzX2p1UXE2WmlldDRkdXVYbFk1VUpxTElSd2RBV1ZZVU16Vzh0Yk5qTGJ6QXpPTjNrdzVGU1F30gGcAUFVX3lxTFB0QUlZNEgxQ2FCaVhDNFdTemRfdW9tMkhjYmRyVGhqVjBweF9ra05HUjBqRUJDLXZ4V2IzVUxOMm8tdDFwQnFFallVSEVZYnZGb1QtQmpHSVU3ZEp1dEQ2SURZV29vSkJGYkNfX3JBNDBfQ1pHOVZnMDdER2dicFEwNWRLZFRGOUlBVFhwU3ZVWFNob2JpV3N5ZHVlSQ?oc=5
+- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
+  The Times of India reported that six people were killed in the accident.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
+  The Times of India is a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
 
-- India news: Jaishankar discusses Middle East conflict in UAE - DW.com
-  India news: Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQU3k5LWUxeHk2SEkyekdmV1k3MzVKSy1ha2dxYk5Yc0JHMDNCYk9FMU9uTG5nX2xjRERTTURuNTFQaUVjbzBNcGxicE5WMEJ1MmkyeHUxaGFCUUlNZjlKazg5am5aZlNTV1MyZVNqNWtVUzJQNkRTdGpsck9wTTAtODVIdGNSTnc0M3M2WHM4cDdkRnhCWVFnbXRlalpZQQ?oc=5
+- China's 'fictitious names' mischievous, says India - The Times of India
+  China's 'fictitious names
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
 - Rubio to visit in May, India may host Quad meet - The Times of India
   Rubio to visit in May, India may host Quad
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
 
-- Legendary Indian Bollywood singer Asha Bhosle dies aged 92 - Al Jazeera
-  Legendary Indian Bollywood singer Asha Bh
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVR4akg3Rkkta0dsbW0wYjNMdEVxd3hXRXU0VGtDYUpZdUtaR3AzTkNwbGNjQksxOGJ6MGtCUlAtZ2lDMkZYVU8wdWY0VzBJdmxYUlNmaEM1eTFfR2FCMEIzX2p1UXE2WmlldDRkdXVYbFk1VUpxTElSd2RBV1ZZVU16Vzh0Yk5qTGJ6QXpPTjNrdzVGU1F30gGcAUFVX3lxTFB0QUlZNEgxQ2FCaVhDNFdTemRfdW9tMkhjYmRyVGhqVjBweF9ra05HUjBqRUJDLXZ4V2IzVUxOMm8tdDFwQnFFallVSEVZYnZGb1QtQmpHSVU3ZEp1dEQ2SURZV29vSkJGYkNfX3JBNDBfQ1pHOVZnMDdER2dicFEwNWRLZFRGOUlBVFhwU3ZVWFNob2JpV3N5ZHVlSQ?oc=5
+- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
+  The Times of India reported that six people were killed in the accident.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
+  The Times of India is a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
 
-- India news: Jaishankar discusses Middle East conflict in UAE - DW.com
-  India news: Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQU3k5LWUxeHk2SEkyekdmV1k3MzVKSy1ha2dxYk5Yc0JHMDNCYk9FMU9uTG5nX2xjRERTTURuNTFQaUVjbzBNcGxicE5WMEJ1MmkyeHUxaGFCUUlNZjlKazg5am5aZlNTV1MyZVNqNWtVUzJQNkRTdGpsck9wTTAtODVIdGNSTnc0M3M2WHM4cDdkRnhCWVFnbXRlalpZQQ?oc=5
+- China's 'fictitious names' mischievous, says India - The Times of India
+  China's 'fictitious names
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
 - Rubio to visit in May, India may host Quad meet - The Times of India
   Rubio to visit in May, India may host Quad
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
 
-- Legendary Indian Bollywood singer Asha Bhosle dies aged 92 - Al Jazeera
-  Legendary Indian Bollywood singer Asha Bh
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVR4akg3Rkkta0dsbW0wYjNMdEVxd3hXRXU0VGtDYUpZdUtaR3AzTkNwbGNjQksxOGJ6MGtCUlAtZ2lDMkZYVU8wdWY0VzBJdmxYUlNmaEM1eTFfR2FCMEIzX2p1UXE2WmlldDRkdXVYbFk1VUpxTElSd2RBV1ZZVU16Vzh0Yk5qTGJ6QXpPTjNrdzVGU1F30gGcAUFVX3lxTFB0QUlZNEgxQ2FCaVhDNFdTemRfdW9tMkhjYmRyVGhqVjBweF9ra05HUjBqRUJDLXZ4V2IzVUxOMm8tdDFwQnFFallVSEVZYnZGb1QtQmpHSVU3ZEp1dEQ2SURZV29vSkJGYkNfX3JBNDBfQ1pHOVZnMDdER2dicFEwNWRLZFRGOUlBVFhwU3ZVWFNob2JpV3N5ZHVlSQ?oc=5
+- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
+  The Times of India reported that six people were killed in the accident.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
+  The Times of India is a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
 
-- India news: Jaishankar discusses Middle East conflict in UAE - DW.com
-  India news: Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQU3k5LWUxeHk2SEkyekdmV1k3MzVKSy1ha2dxYk5Yc0JHMDNCYk9FMU9uTG5nX2xjRERTTURuNTFQaUVjbzBNcGxicE5WMEJ1MmkyeHUxaGFCUUlNZjlKazg5am5aZlNTV1MyZVNqNWtVUzJQNkRTdGpsck9wTTAtODVIdGNSTnc0M3M2WHM4cDdkRnhCWVFnbXRlalpZQQ?oc=5
+- China's 'fictitious names' mischievous, says India - The Times of India
+  China's 'fictitious names
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
-- India proposes new rules to regulate news and political posts on social media - BBC
-  India proposes new rules to regulate news and political posts on
+- IT rules: India proposes new digital rules to regulate news and political posts on social media - BBC
+  India proposes new digital rules to regulate news and political posts on social media
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE51RGtNb0xCUXNueGdvTnQweHBRZi1RdXBRZF9SV3V3REVWU0xic0Q0S3RwVUhXcGtxWWtZUEZTZ1ZvaG5WWkYyNE5HcWFxLWxyOXNBN0pzeEtfUQ?oc=5
 
 - Rubio to visit in May, India may host Quad meet - The Times of India
   Rubio to visit in May, India may host Quad
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk5jd1ZlRFZNcDZIM2FWWlNqYnIyQTlLRVRweWoyQ0VfQkxvd2Y5N0ZkQlZCRkRncWF4YXpsR204X3laUnlOa1MtQlBPTmZGSll5dnQzWFZRNjZhQjNrYXNBNVhMU1AteWRJSXoydWJLSG5zNDg3eElRQ0ozOUJrUnNUQm05ZmRJMmpJN2ZLeEM5SGRPU2hNbVVZRFlMNGU1eVUzR0IxYkJ5STNSUmt1WXIxQlfSAboBQVVfeXFMTnVhSmJ5RkYyMVpNX3JyeGN3d1hKOVVzNlZ2RHhQTGVzRmZqaVAxZUd0S0UtV3VzQ2RadGxNdFpVY3NmZjJoTWVwdm1LcTZtQ001Vi00SUQ5bU5LcDFqYlI2bFNpMkNFNEFWaTVqSFY1QmoyZ1VRS28xWkcwYW1rWU85d0VZUktkTUF1cHJFblc1V21UNmVmLW9vcnpPb210a3FwSDdUZGdZNDFibnV3emRPV2hTb2lld1ZR?oc=5
 
-- Legendary Indian Bollywood singer Asha Bhosle dies aged 92 - Al Jazeera
-  Legendary Indian Bollywood singer Asha Bh
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVR4akg3Rkkta0dsbW0wYjNMdEVxd3hXRXU0VGtDYUpZdUtaR3AzTkNwbGNjQksxOGJ6MGtCUlAtZ2lDMkZYVU8wdWY0VzBJdmxYUlNmaEM1eTFfR2FCMEIzX2p1UXE2WmlldDRkdXVYbFk1VUpxTElSd2RBV1ZZVU16Vzh0Yk5qTGJ6QXpPTjNrdzVGU1F30gGcAUFVX3lxTFB0QUlZNEgxQ2FCaVhDNFdTemRfdW9tMkhjYmRyVGhqVjBweF9ra05HUjBqRUJDLXZ4V2IzVUxOMm8tdDFwQnFFallVSEVZYnZGb1QtQmpHSVU3ZEp1dEQ2SURZV29vSkJGYkNfX3JBNDBfQ1pHOVZnMDdER2dicFEwNWRLZFRGOUlBVFhwU3ZVWFNob2JpV3N5ZHVlSQ?oc=5
+- Breaking News Live Updates: 6 dead, several injured in bus-truck collision in Hapur - The Times of India
+  The Times of India reported that six people were killed in the accident.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k3RHBxUkJneUtlYnR4amM5SV9uejF6U1NpRHRrMGR6bEZwY0c3WEpOcEZfWnhqMl9kTC1HY3p6d2ZheWtnRzNmVUdWbDdUUno0Z3k5eEU4TnppLXV3XzdaREZsU1AwUll1NVJTLTQ0T0s2ZXlZaUVzWkt4MVRrbXRxSG5JSnR4eWRzbnBlMndETGtMRFR1UlNRVFJseEJFS1RYcGlYaExEeUc4STg0TDlzNkJUWjJXZTJnTjFnUnVkSDE0dFVXUjVB0gHPAUFVX3lxTFBzc0lIVFQ5YmtlRmZVX0EwY0ozMWRYcG5mOHM3dFdwVXpEcUQzbFhsNUNSdERsaWI1Y3lJdTA4MUllWDJOQUpwSDJCdW1waEIxWXU0LVE1SjlDUGVUanpLTDNxclFaWWpfRmNNMGpTMkNvOTlDTTJ5UXJjOUd5VFBSRDVZMHMzaFdnaUtHR0RSYUU0ZkI0OEVLNzMwcXVwcFBTRDBmbElaWUxGclQwX0JiNVFQSEpzQkZ3WElxNk9tMmtLSTFESFVGSXUzSVB5UQ?oc=5
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- CHARUSAT researcher selected for Indian Arctic Expedition - The Times of India
+  The Times of India is a
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPWk5YX01hSlZDZkF4Sy1DMnJpRXoyM1VIZmpBWUV3cUQ2a0o4R1ZQV01BQTFhenZsdVlFYWtzS00wNmV2MFA3QkdxcGxON2tRUEoyU1NKLWI4ZW16LWJtQjRmSXZJWHZudWFvM3M5LXE2dUtjLTNKOTk1VTZGZ1FHakE3cGdOMk1FOW0wTEJGTElIVlVhS0djR3JPaGhsVmd0RTAwd2hhZXphQUE1clJ6RWdqTkpRemdfWHJvZ3NxZjlONjVTVmFBY0xscjZKZ9IB0wFBVV95cUxNSllVb1BuNndJcm1rVUdaSUxPWDdWQUJSOTZsRzZSU1gwcWl1TXYwQUFQMTFwUGhKNGNLb0tyWEd0TG9wckZEUjZwX2NSak1FdDJTdWVGMlNsR0ZwaTZFZXZvM002cDN0bzFQMDJOaVlmWTBtdk9qeFpPRzhRYm5nMVBQSjZqYmNVZmV4MWVOTFMtLUxfal9vVEtBdFJDWExra3MzRng1NGdSckFDT3Y2WDFQSE5YZURtX2xEMkV5MDJpbGRaQVotQ2lPbFdrbEtWVmdz?oc=5
 
-- India news: Jaishankar discusses Middle East conflict in UAE - DW.com
-  India news: Jaishankar
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQU3k5LWUxeHk2SEkyekdmV1k3MzVKSy1ha2dxYk5Yc0JHMDNCYk9FMU9uTG5nX2xjRERTTURuNTFQaUVjbzBNcGxicE5WMEJ1MmkyeHUxaGFCUUlNZjlKazg5am5aZlNTV1MyZVNqNWtVUzJQNkRTdGpsck9wTTAtODVIdGNSTnc0M3M2WHM4cDdkRnhCWVFnbXRlalpZQQ?oc=5
+- China's 'fictitious names' mischievous, says India - The Times of India
+  China's 'fictitious names
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUJQVzUxZTAxOEhjTjZacDA0d3M0MHBDbnJ0TmpTZThvcldvMkMyc0JRdnhGUmwyWmRONnc3M3lnNFFsb3haMFhpYlRIZFRjVV9BQXZkMzltUTVNVlpEWnlTX1diX1BQRXVWRUZuTXQ5cVBxaTNIWU9qbS1kS2JIOXpPa1FIMWhEeXl2Z053VUVTcU1TZExSSUZUYWxWMnBxd051WnM2eDRET2VITE1YVEtBdVXSAboBQVVfeXFMTmxGZGFYOFRmMUw0c3VDbm1MVVgxZ0ZoMmFFTGhJelNSZVltclFnd0trUXlvaTExY1FYd1NFNnJGTlE0YzhjSjQ3UEVTT1o0RFc5REdRNzA2U2lLXy1LQ0JTM2EzaFluVnc2RW5VcGRhQkNobTQxZ1JxWFc5ODg5WWU2dGF2MmhrcjNTVC1ScXQzcTZFb3RTT3NYaE5IcW42MXN0Z05faEE0dWowYWZmdnJuLUdwSlh2bHF3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-12 18:43:12 UTC_
+_Last updated: 2026-04-13 02:11:59 UTC_
