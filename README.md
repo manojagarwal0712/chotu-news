@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Hear her roar: Anita Chaudhary, 30, a guardian of the forest
+- Mumbai-Ahmedabad High-Speed Rail project: Anand bullet train station to be developed as multi-modal hub
   
-  🔗 https://indianexpress.com/article/india/anita-chaudhary-forest-guardian-shergarh-sanctuary-10634313/
+  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-high-speed-rail-project-anand-bullet-train-station-to-be-developed-as-multi-modal-hub-10634191/
 
-- Love triangle, hired gun, shared location: Wife arrested for ‘helping plot Odisha man’s murder’
+- Tripura election panel countermands ADC poll in one centre over EVM tempering
   
-  🔗 https://indianexpress.com/article/india/wife-arrested-plot-odisha-man-murder-gun-love-triange-location-10634278/
+  🔗 https://indianexpress.com/article/india/tripura-election-panel-adc-poll-centre-over-evm-tempering-10634466/
 
-- After Nitish Kumar’s resignation, Bihar govt will be ‘run from Gujarat’: Tejashwi Yadav
+- ‘Serial killer’ targeting women living alone arrested in Tirupati; linked to 21 cases across 3 states
   
-  🔗 https://indianexpress.com/article/india/nitish-kumar-resignation-bihar-govt-run-from-gujarat-tejashwi-yadav-10634232/
+  🔗 https://indianexpress.com/article/india/tirupati-serial-killer-vishwanath-arrested-andhra-kerala-karnataka-10634413/
 
-- From Maoist stronghold to tap water: Remote Abujhmad village gets first home supply
+- ‘Hanging between trust and mistrust’: Sonam Wangchuk urges Centre to resume talks with Ladakh groups
   
-  🔗 https://indianexpress.com/article/india/maoist-stronghold-tap-water-abujhmad-village-home-supply-10634040/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-centre-resume-talks-ladakh-groups-10634420/
 
-- Below-normal rains expected in India this Monsoon season
+- Man missing after jumping in nullah to escape cow vigilantes, angry locals block J-K highway
   
-  🔗 https://indianexpress.com/article/india/imd-says-rainfall-in-india-likely-to-be-92-of-long-period-average-10634041/
+  🔗 https://indianexpress.com/article/india/jammu-srinagar-highway-protest-missing-man-cow-vigilante-10634389/
 
 - Roblox launches new age-checked accounts for kids and teen users: Here’s what to know
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll-10633705/
 
-- SpiceJet warns of ‘collapse’ in Delhi high court, seeks relief from  ₹144.5 cr deposit in Maran dispute
-  SpiceJet said its operations and cash flows have been severely impacted. Restrict
-  🔗 https://www.livemint.com/companies/news/spicejet-collapse-warning-delhi-high-court-relief-from-deposit-maran-dispute-payment-deadline-11776065514032.html
+- Sundheim’s D1 Tumbled 6% in March as Biggest Stock Bets Soured
+  D1 Capital Partners’ equities book tumbled 6% in March, according to people familiar with the
+  🔗 https://www.livemint.com/companies/sundheims-d1-tumbled-6-in-march-as-biggest-stock-bets-soured-11776106139037.html
 
-- Humyn Labs expands data collection for physical AI with $20 mn push
-  The firm focuses on recording first-person human activity, visuals, and movements. This data collection occurs within commercial, agricultural, and residential environments.
-  🔗 https://www.livemint.com/companies/ai-training-data-firm-humyn-commits-20-mn-to-expand-operations-eyes-100-mn-arr-by-2026end-11776063431258.html
+- Air India receives first upgraded Boeing 787-8 in Delhi from California as $400 million refurbishment plan progresses
+  The aircraft, registered as VT-ANT, completed a non-stop ferry flight from San Bernardino in the United States. Air India has welcomed
+  🔗 https://www.livemint.com/companies/air-india-receives-first-upgraded-boeing-787-8-in-delhi-from-california-as-400-million-refurbishment-plan-progresses-11776097728560.html
 
-- Mint Explainer | How the West Asia conflict and tariff hike delays could affect telecom operators
-  The combined impact of rising fuel costs due to the West Asia conflict and the delayed ability to raise tariffs creates a significant financial squeeze.
-  🔗 https://www.livemint.com/companies/west-asia-conflict-tariff-hike-delays-indian-telecom-operators-higher-fuel-costs-diesel-prices-telecom-towers-earnings-11776061392503.html
+- Tata Trusts to take up crucial issues at meeting in May
+   Meeting may discuss keeping Tata Sons private, and an extension for its chairman N. Chandrasekaran. It may also include a performance review of
+  🔗 https://www.livemint.com/companies/tata-trusts-meeting-chandrasekaran-third-term-tata-sons-private-11776090189029.html
 
-- Q4 preview: earnings remain fragile as margins crack under cost pressures
-  India Inc is entering a more demanding phase where revenue growth alone is not enough. As input costs rise and demand turns uneven, the focus is no longer on how fast companies can grow
-  🔗 https://www.livemint.com/companies/india-inc-q4-preview-earnings-remain-fragile-margins-crack-under-cost-pressures-11776058789063.html
+- Pirojsha Godrej to take over as chair of Godrej Industries on 14 August
+  Pirojsha will become the chairperson of Godrej Industries Group on 14 August. This leadership transition marks a milestone in the group's succession planning after its 2024 split.
+  🔗 https://www.livemint.com/companies/burjis-godrej-to-join-godrej-industries-board-pirojsha-to-take-over-as-chair-on-14-august-11776089712149.html
 
-- TSMC likely to book fourth straight quarter of record profit on insatiable AI demand
-  TSMC likely to book fourth straight quarter of record profit
-  🔗 https://www.livemint.com/companies/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand-11776049677208.html
+- Dolce &amp; Gabbana taps former Gucci boss Stefano Cantino as co-CEO: All you need to know about the fashion veteran
+  Stefano Cantino appointed co-CEO of Dolce &amp;amp; Gabbana. Cantino
+  🔗 https://www.livemint.com/companies/news/dolce-gabbana-taps-ex-gucci-boss-stefano-cantino-as-co-ceo-all-you-need-to-know-about-the-fashion-veteran-11776086773565.html
 
-- US stock market: Dow Jones futures drop 1% in after Trump’s Strait of Hormuz blockade warning
-  US stock futures indicate a gap-down start as oil prices rise following military preparations to blockade Iranian ports. Key indices are down 0.5%-1%. Tensions escalate after failed
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-dow-jones-dips-1-in-pre-open-session-after-trumps-blockade-of-the-strait-of-hormuz-11776079817946.html
+- LIC board approves issuance of bonus equity shares in 1:1 ratio. Check details
+  The board of LIC approved a 1:1 bonus share issuance, subject to shareholder approval. The move, aimed at rewarding its 20.90 lakh
+  🔗 https://www.livemint.com/market/stock-market-news/lic-board-approves-issuance-of-bonus-equity-shares-in-1-1-ratio-11776100157553.html
 
-- GIFT wrapped: The unexpected second purpose of Gujarat's financial hub
-  A gleaming but barely-noticed financial district in Gujarat is quietly becoming the most convenient gateway for ordinary Indians. But can it deliver
-  🔗 https://www.livemint.com/market/gift-city-international-investments-lrs-nifty-11776076566568.html
+- US airline stocks fall up to 3% as crude surges on renewed West Asia conflict; Delta, United, American trade in red
+  Delta Air Lines shares dropped 3.2%, highlighting the aviation industry's vulnerability to rising fuel costs.
+  🔗 https://www.livemint.com/market/stock-market-news/us-airline-stocks-fall-up-to-3-as-crude-surges-on-renewed-west-asia-tensions-11776093582468.html
 
-- Patanjali Foods board to meet on this date to consider 2nd interim dividend for FY26. Check details
-  Patanjali's board is slated to meet later this month on April 21 to consider and approve the second interim dividend. Check record date and dividend history on this Baba Ramdev
-  🔗 https://www.livemint.com/market/stock-market-news/patanjali-board-to-meet-on-this-date-to-consider-q4fy26-results-interim-dividend-check-details-11776078511861.html
+- Goldman sets tone for Q1 earnings season. How markets react is key.
+  The next few weeks will reveal a lot as to where markets are headed
+  🔗 https://www.livemint.com/market/stock-market-news/goldman-sets-tone-for-q1-earnings-season-how-markets-react-is-key-11776092679128.html
 
-- Embassy Developments shares hit lower circuit after finding no sellers for the six straight sessions
-  Despite a recent 30% stock increase, it faces surveillance measures. The limited exposure of  ₹370 crore pertains to a contingent obligation, not financial debt.
-  🔗 https://www.livemint.com/market/stock-market-news/embassy-developments-shares-hit-lower-circuit-after-finding-no-sellers-for-the-six-straight-sessions-11776076761671.html
+- Gold, silver rates today: Comex gold slips $161/oz; silver down $4/oz on renewed US-Iran tensions
+  Gold futures fell sharply, while silver also declined. Precious metals experienced significant losses on 13 April due to renewed Middle East
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-161-oz-silver-down-4-oz-on-renewed-us-iran-tensions-11776087805917.html
 
-- HPCL vs BPCL vs IOC: How will US-Iran war impact OMCs' profit &amp; which stock to buy ahead of Q4 results?
-  The earnings of OMCs in Q4 FY26 could be weaker on the back of higher retail fuel losses and a sharp rise in LPG
-  🔗 https://www.livemint.com/market/stock-market-news/hpcl-vs-bpcl-vs-ioc-how-will-us-iran-war-impact-oil-psu-stocks-earnings-which-psu-oil-stock-to-buy-ahead-of-q4-11776076720775.html
+- Om Power Transmission IPO: Issue subscribed 3.3x on Day 03; NII portion sees strong demand, GMP signals flat listing
+  Om Power Transmission's IPO saw strong investor interest, with a subscription rate of 3.3 times. The company plans to use proceeds for capital expenditure and debt repayment.
+  🔗 https://www.livemint.com/market/ipo/om-power-transmission-ipo-issue-subscribed-3-3x-on-day-03-nii-portion-sees-strong-demand-gmp-signals-flat-listing-11776084872485.html
 
 - Humanoid robots show off their language and boxing skills in Hong Kong
   Humanoid robots show off their language
@@ -100,93 +100,165 @@
   The Note 60 Pro has a 6.78-inch AMOLED display, dual cameras, and fast charging support. The phone starts at a price of  ₹31,
   🔗 https://www.livemint.com/technology/gadgets/infinix-note-60-pro-with-active-matrix-display-and-6-500mah-battery-launched-in-india-price-starts-at-rs-31999-11776055906880.html
 
-- MCX India among 4 midcap stocks that hit 52-week high; rally up to 17% in a month
-  Four BSE 150 Midcap Index stocks, including MCX India, hit 52-week highs even as the broader market fell.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcx-india-among-4-midcap-stocks-that-hit-52-week-high-rally-up-to-17-in-a-month/slideshow/130237291.cms
+- S&P 500 jumps, making up earlier losses, as investors bet Trump will get an Iran peace deal: Live updates - CNBC
+  P 500 jumps, making up earlier losses, as investors bet Trump will get an Iran
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5
 
-- India bonds trim losses as soft CPI spurs value buying
-  Indian government bonds trimmed most of their losses on Monday. softer-than-expected inflation data drew in late-session buyers.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-trim-losses-as-soft-cpi-spurs-value-buying/articleshow/130237111.cms
+- Stock Market Today: Major Indexes Advance on Hopes of Eventual Iran Peace Deal; US Begins Blockade of Strait of Hormuz - Investopedia
+  Stock Market Today: Major Indexes Advance on Hopes of Eventual Iran Peace Deal;
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpUc3NXU1A5NDJULU9tLXV4MkVVaUpjUUxOazVVV3RLeEtsN1dzWUM1NHZQOVk3bm5yVXBDVjkzelR2eU1XTFpfTV9RUDZ2bU5qMXpmdGFlc2RDeC1yRDg4Qy1hV2F1Y1ZkRGpVVjRPY3FTbThBZG9laWozS2JsSzJpU1RobXNWM2NqczJhVzU?oc=5
 
-- Quote of the day by Carl Icahn: "In takeovers, the metaphor is war. The secret is reserves. You must have reserves stretched way out ahead."
-  Carl Icahn's "war chest" analogy highlights that sustained success in investing, particularly in takeovers, hinges on having ample "reserves" This principle extends to broader market investing, where liquidity and psychological resilience are
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-carl-icahn-in-takeovers-the-metaphor-is-war-the-secret-is-reserves-you-must-have-reserves-stretched-way-out-ahead-/articleshow/130236625.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks rise further as Trump says Iran wants a deal; ... - The Economic Times
+  US stocks rise further as Trump says Iran wants a deal. Dow Jones, Nasdaq Live: US stocks rise
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPTDJldXBLaS1TX2huQVNFeThNS25lMFo0OFNrV1NlRnc4cm1IV0laV1p5ZW5TRjZNc3J2WHltdmQwN0c2bTlvVUxPUVM1WTh3cHpZTVM3a0ZzRS1FQUFvYTJLdkl6MUxZSmFQNzNidEdPX0piUHpFbkhQZy1rMFFSdEUwRUxfOWlSVmRxcnl2U0VjOEJqMzFyMXZvN0Q4LUREbUwtNERVOUc1MTI0QVltR0ZpazRZSjN4RzQ2TGtfU1NRSTNqanZCUm52VjBOM0xXXzFPWXFxY3FuMTlIOHBscExLOFlibWFhTmZrUjB2NDdUX0MyNndqTW5KTzNTNTFYWVl4eE95SjNBNEpPb0FSdXFaWkFzbGtYUjlmWDJ1aDlrMEctdHdoNlFVWGlzQUtGOGtpd9IBugJBVV95cUxOUlZPa3V0RDJmd3J1YkZRTlpoelpnSkxyUVFsN3FUYXVtQ1ZlT19SUVFpTUFGXzh0VlVMak9JLWNIbVdkMWxnR281VldSN1gxTUdxSlFPYl9VeHJNZG9JWDE2UV9mMnplRGJuV0dvVzRSYmp3X3pIRHI4ZC1XMkFkUmZhcnFuYi10RzRtNjVPYk8tM0tjVE8wWGRlX3g2VndBTjRBNV9teTRMcjJRVld6akw0QUpwd1o3cXdmR2ItaWpNRlRzY1BGM25fYzkzOFdmcjRrUnBFYzFJcGk0RjhodW1zQWFXNXA3NzJab040bmx3ajJuRnRRLTJNS0ltS1hrUTR4YWJEMVhwcmN2ajZLRVMwbUZaVjZBcV9Vc0t0YmZ5TWY3bTVfZlBVNW5jdjNjZ190QThUMlFpQQ?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures fall as Iran talks stall, oil surges
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-ceasefire-talks-fail-ports-barricade-brent-crude-oil-stock-price-news/liveblog/130236460.cms
+- Sensex Today | Nifty 50 | Stock Market LIVE Updates: Sensex tumbles 703 pts, Nifty drops below 23,850; Ei... - The Economic Times
+  The Sensex tumbles 703 pts, Nifty drops below 23,850; Ei
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUHhYendHajRyZUZjd1QwbVJSNmloUTNYMzNXRzctaXY0VFpReWR2ejhPYUM2eVUzb2hUMTZOU05VVGFzQUx2cG1IOGZQcUtUczFFWVplbmxKQUtiS0dHZVp1UDJDdjlHTGZseWtFM1BJUkZPR1R1LTJRc1dCZXZwcEp0UlhHTjZWc0lzcVBUaTJnbElYOXIwNTNlU3RRYVlhOUg3MTh6VnVwQWQyZU1vRzNVOFUxTEFmcUd6TG0ybVJocEV4eUxNb1RwOXdVem9heUQ5TXFzWFVUOHkxZkZUU2IzSzBYdVJ5am9uU0xWNVlyQkMwTXBHV1dUYUJzX21KZ1cwVVZsMUrSAY4CQVVfeXFMTk1tdUZQMmVKWU52MmY1T2VJMzBsQzIyY1dsaUNDbm1fMXpSUFZYcjg0dW9odjBFc3VMQUdpdWxwRGVuQXpDRnRXTll6LVFmRk42Ml8zNEthUkQ3OWVqb1pmeVhtRnRta05uNzJESEt6eWRmSWhYUnR6U3NYeVVnNzFibnBvYjNBQWQwZEV2MVRRWTBSbnF5T0RFcndpNHlBLVRoYktoSlpUdU5teWdmeGhmUTRsOU9RMnFabHhyNWI0d2tpNkxfc3NXbEJWVGdGWGItZnVKVlBtM1MtdmhFVDF2a0d2cmNrUW1JOTltNWxLOFlLcl91bjF6a3pjNnA2NVI4Uk1LTW9INHRVb2hR?oc=5
 
-- Sumitomo Corp JV firm Krisumi to invest Rs 4,500 cr on housing project in Gurugram
-  Krisumi Corporation Ltd, a joint venture between Japan's Sumitomo Corporation and Krishna Group, will further invest around Rs 4,500 crore over the next
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sumitomo-corp-jv-firm-krisumi-to-invest-rs-4500-cr-on-housing-project-in-gurugram/articleshow/130236383.cms
+- Stock markets tumble as failure of U.S.–Iran negotiations fuels concerns - The Hindu
+  Stock markets tumble as failure of U.S
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY25VeWd0d2RGSkd4ZDNmclBidjROLUlPNXhmN0N1OEdHeVFPMHJ5OFNEaFEyNDM3QXJqaUFGaTFlYTUtakVYT2xhQmo3ZThndE1UcjdZWWtSRmhKRFBPUU93N3VXQWZDZjctakVVRWRPR2Q1T1RqMTRWTko5YkJMTTZnOTl4d09NYjdtNnI0eDh4N09wSHhqYWZNc0drSnNBQndjSWR6elBsZDBqYldsZVJMLUdhdHhveW1oakNLalVKVkpqZlFOZXR4S0psVXl6UFNNM3RvQWp4ZjZjR3VPMW5kZHdwMTlw0gHvAUFVX3lxTFBDWTNyMDlQc3lGUkxrQnA0SjBXZWY1a1B0ZllsMlQ5MTM4QVpnaHZVN0JvNERyWF9ESU81WVpnT1EzTUI4ZXZQamYyTGJiWE16ckpqVXZaQ2IyaXBwd2FJRWhQcjVNVTd0UTI1TlRBOWJvRlVqME1aV1Bac3pna2liaDRDVHR4M2J0SEE0M0ZmejY0b3FjUzBWZl9jMWVOcElaT0ZBOXdheVJkX0lVMzBOTmhDVEl3dzRqX1l4U3BNNnFQYWpGaWE1dXlCZUJHMUpWbDcyMUg3VUx1ckQ2Q2dMeHNoTi00cGtXVDdsU0sw?oc=5
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- Chevron, Shell to sign agreements for oil, gas areas in Venezuela, sources say
+  The deals reflect Venezuela’s push to attract foreign energy investment. Chevron is set to sign agreements to return a gas field in Venezuela. Shell prepares to operate the Loran gas field.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-shell-to-sign-agreements-for-oil-gas-areas-in-venezuela-sources-say/articleshow/130242652.cms
 
-- India pulls back offer to host COP 2028. Why is it a wise choice | India News - Hindustan Times
-  India pulls back offer to host COP 2028. Why is it a wise choice
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGFNamdpeVdTMFd6UXVSYXFsX2J4RHhhSDZyeE9xVS10bXB4R3kySTJHZGFsOURMUDVfdzNFSkhIc01hTWVqNUtaTXVGd3NRT3J4YnRvMGIyMjRlZzJYNUlNNUV6R1BJTHZpTVBrMUluRlNDQnpxWWdIREE2YVo0R3phTWIydUd2WFRvZlpZbHBmNXBpYS1pLVVzYUdBQ0R5bXVwYVdRR1pPdUQzUzNVb0duaGJtYmZkVHJ3Zng3dF_SAcYBQVVfeXFMTlpPdFZrb01RemROVHVKSkJRYTF0ZExiUHMySWlRaXEybTNSNUlxRVl1VkhmQ05RaEYzTUpxOHZsaXVxVmJLMHY2dWNNdzJGN2ZZeDBTNDRra09ia3czUHRMV1VVWDVIa1hfVExNRXRpYmFhNUdmV1REYVNncDdaclVVQkw5SjVqTmszbFZ4eXpSNTdYZlpqQzhQd0MwUVVoMW5BOTJ1MC1tbktrZ2dnSlVjb2J0Z1Z3XzNBcndydmJiaHlFa0xB?oc=5
+- US IPO hopefuls forge ahead with listing plans amid market swings
+  2026 is still seen as a strong year for IPOs despite recent market disruptions. Companies across sectors have resumed IPO roadshows despite Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-ipo-hopefuls-forge-ahead-with-listing-plans-amid-market-swings/articleshow/130241853.cms
 
-- EAC-PM Working Paper suggests SVAMITVA-like scheme for urban India - The Economic Times
-  EAC-PM Working Paper suggests SVAM
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxQcVBZQmlYeXVrY2taOTd3UHJZMVdPRDF2cDBrOGJNTHZLczV0d090VzBhVFUxS0NHTE5PU3U4c3JJZFNHWmdVNFZNMUpYbzF3WEpuOTNwMDdiaTMxRDdfSGU4cnFicW1iUldsYnNTdkxCUExXUHBMZm9KRU4xektiQ1FoOTFwckpiTXFvR1JSMm5IT211NG51ckxGWlY0QW1oVnJTXzBuZTFaWmNyNi16ZFJxbGZ4Wml6YWJfSE1ZaXNpWjRmanljNkxEWGdCc2phUDZheE1uUnM3R2Z5UDNVdkw4T29vMVRvd0M1eHNuTXFZVE5Yd3B5eE9BSVRhN3otOG00ejZFX2FMbUo5TG04MzFfZEpTUEdtcER3VUhQSi1ZWWIzQldWQmtHRE5QUVJNNzJqNNIB0AFBVV95cUxQM2F4NTU3dWxSVFRiZ01NczlfeGVCcUllSGtac0Q1cTllZmlCU1NaS2o0d3YzSFV6aURDQjVjSWhoQmZraGs5RTlUcmpTQ3BPb3VXRDJueFFSQzM3Z1hsdzZsZUl1ZkZjUENzRVEwTUpJTjgzd1c5RkxBSG15WW9Cb1gyS2cyUUdhXzFSdE8xWGMzZURoU3VvMFVFYVlIcndKV3I5WWdkWjlGWnBSem1uWjdETHFFQlNZUkZ1YWF3LTdCbW1vMnQ5TGdkQU5PWnRk?oc=5
+- CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally
+  CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models. The agreement boosts its position in AI infrastructure
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms
 
-- SIR in West Bengal: How exclusion of nine million voters could shape state politics - BBC
-  SIR in West Bengal: How exclusion of nine million voters
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5
+- J.P.Morgan, Morgan Stanley urge buying the dip as US earnings stay resilient
+  Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity. Despite Middle East tensions, the S&amp;P 500 has rebounded from March lows.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/j-p-morgan-morgan-stanley-urge-buying-the-dip-as-us-earnings-stay-resilient/articleshow/130241179.cms
 
-- Supreme Court denies interim voting rights to lakhs deleted from Bengal rolls - India Today
-  Supreme Court denies interim voting rights to lakhs deleted
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQem5ac0ZMWXlVYVU2YllHUkVGRkphU0xhVEh6M1haR0pjUkZzc2hYVUJEcmtpTW92cFBWSm55THl2M1lpSk5FSXNrc0JVVWowWVRyakFmWEdpczZENHFPVDBzTUd3a3d3SkdDNVZlNVVEcXZWdENkUExXVVpyblJHUXFhT0JHZzN3Nks5QTZzV1VTX0FaWElhWU9XZVdBbTE4aEpiUWJlMkFiYUJBSnY2UmI5d2Fld1p0NTlLbHd6Zzg1UkczcWZYLVlCeWVGZGhxem02OW1mcnRyQmREcm9UTzBkNmlFZE9tZVlsN2lFaWxlb0U3eEEtV0s1U2dTam55TUhIT9IBigJBVV95cUxPaU9WNG9ENU0wMkhrZ1FwN2tYUEx1S3piZ3Y4REEtZGpmbDR2NWFPQVVsOTNlNlJ0YUV0QXBwY0MxVVhPa01hcDRka0RDcmswUVQyU2FKXzRjYkI4T25JdEdac2VvY0U3Y3dTRmx4alB5VGJIc3gzdE11VG42N0NjcVVvTVNvVzNXN1dvVUl6UkhyZl80U3BRMHB5a3RncXRoeDN2aFkzMW4tT05Bd1NDRzBYNHlZbDJ4VlJnTVgtMnMtWXhWNnpWcl94M0M1blBNZ2dKR2RTR2w2RGV6aHgxLTJDWmtWdmpWNXJRWU9WOWY5UlZianhsWVI2MDZKWWRJcTA1SFdxeXpVUQ?oc=5
+- LIC announces 1:1 bonus issue, first since listing. Check details
+  State-owned insurer LIC's board has approved a 1:1 bonus share issue. The move will be funded by capitalizing Rs 6,325 crore from reserves by December 2025.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms
 
-- "Can't Alter Undeniable Reality": India On China Giving Fake Names To Areas - NDTV
-  "Can't Alter Undeniable Reality": India
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0prVjZWc1JzMllMbmgtZUloYVBuLW9RQmJHX0h1N2ZqRjJwM2V0UnNGN2RDaHQ2LVE0M2Z6UFZMOERUTGtISGNuLU10SjJRMHNNVG9sbTFkYzhmcjFYaTd5S0JiVlB3UWYxOHJFeUczWmE2LS1MOUQ3eEg4WjJJcHFZTXFLbVNqX2ZyNFRRZjRiUlJSTGdQN0ItejZNb3ZCZk1pTHhvMHBrZU41MzlBdE9R0gG6AUFVX3lxTE16dkdaclMxb0U4OU5lVGJ4U0ZMMldhR0tOcnRXdEpuR1JJNXJKTDB5YzU3bWUzcGRwOUZ2TXhnUFVEWGdpYVhTSXFzOC1CTWFqLXQ2ZkxLZXRjcVVodnc5b2xqRnYwbGU0MER2ajdmSzZQa0NlQ0dRT0pPeHIwdmE5RXJtQk9WNmRmcF80dVhLbS00THN4cEpnOXJrQzhZNnlhRXJSWU4yMzl5UnlZMlBLTnF2bnowQnNNdw?oc=5
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
 
-- India pulls back offer to host COP 2028. Why is it a wise choice | India News - Hindustan Times
-  India pulls back offer to host COP 2028. Why is it a wise choice
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGFNamdpeVdTMFd6UXVSYXFsX2J4RHhhSDZyeE9xVS10bXB4R3kySTJHZGFsOURMUDVfdzNFSkhIc01hTWVqNUtaTXVGd3NRT3J4YnRvMGIyMjRlZzJYNUlNNUV6R1BJTHZpTVBrMUluRlNDQnpxWWdIREE2YVo0R3phTWIydUd2WFRvZlpZbHBmNXBpYS1pLVVzYUdBQ0R5bXVwYVdRR1pPdUQzUzNVb0duaGJtYmZkVHJ3Zng3dF_SAcYBQVVfeXFMTlpPdFZrb01RemROVHVKSkJRYTF0ZExiUHMySWlRaXEybTNSNUlxRVl1VkhmQ05RaEYzTUpxOHZsaXVxVmJLMHY2dWNNdzJGN2ZZeDBTNDRra09ia3czUHRMV1VVWDVIa1hfVExNRXRpYmFhNUdmV1REYVNncDdaclVVQkw5SjVqTmszbFZ4eXpSNTdYZlpqQzhQd0MwUVVoMW5BOTJ1MC1tbktrZ2dnSlVjb2J0Z1Z3XzNBcndydmJiaHlFa0xB?oc=5
+- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
+  The Times of India reports that the US is planning to blockade
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
 
-- EAC-PM Working Paper suggests SVAMITVA-like scheme for urban India - The Economic Times
-  EAC-PM Working Paper suggests SVAM
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxQcVBZQmlYeXVrY2taOTd3UHJZMVdPRDF2cDBrOGJNTHZLczV0d090VzBhVFUxS0NHTE5PU3U4c3JJZFNHWmdVNFZNMUpYbzF3WEpuOTNwMDdiaTMxRDdfSGU4cnFicW1iUldsYnNTdkxCUExXUHBMZm9KRU4xektiQ1FoOTFwckpiTXFvR1JSMm5IT211NG51ckxGWlY0QW1oVnJTXzBuZTFaWmNyNi16ZFJxbGZ4Wml6YWJfSE1ZaXNpWjRmanljNkxEWGdCc2phUDZheE1uUnM3R2Z5UDNVdkw4T29vMVRvd0M1eHNuTXFZVE5Yd3B5eE9BSVRhN3otOG00ejZFX2FMbUo5TG04MzFfZEpTUEdtcER3VUhQSi1ZWWIzQldWQmtHRE5QUVJNNzJqNNIB0AFBVV95cUxQM2F4NTU3dWxSVFRiZ01NczlfeGVCcUllSGtac0Q1cTllZmlCU1NaS2o0d3YzSFV6aURDQjVjSWhoQmZraGs5RTlUcmpTQ3BPb3VXRDJueFFSQzM3Z1hsdzZsZUl1ZkZjUENzRVEwTUpJTjgzd1c5RkxBSG15WW9Cb1gyS2cyUUdhXzFSdE8xWGMzZURoU3VvMFVFYVlIcndKV3I5WWdkWjlGWnBSem1uWjdETHFFQlNZUkZ1YWF3LTdCbW1vMnQ5TGdkQU5PWnRk?oc=5
+- Iran denies charging toll for Indian tankers transiting Hormuz strait - Reuters
+  Iran denies charging toll for Indian tankers
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUstUGtfd0NjSUxuY3l0dm12aHRacG1IM2g3d0Q3VmNkWlFRbWhnM3VIODBQUDBCcThwQnRjY0xWVy0zejNYOEpCbEN4WTN0RDJnUWFGaTJGNnZkeVBaTGg5YmpqWENDekNxWmVNOXZ3cmNGTW5LOWp0VTEtMUVJcXhSWk9vWGxCZUEwWXZJbmwwZnRyM2lqY0liVWJsd1RncnFjbHplUEwyVW5QZGsxRzI5T0FDRFBWMm93UnBadXBVUQ?oc=5
 
-- SIR in West Bengal: How exclusion of nine million voters could shape state politics - BBC
-  SIR in West Bengal: How exclusion of nine million voters
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTUR0bVVPX0U1ajR2Wm9GaDdzYVF0Vk8wZXd1UXh5bXhVSHR6UGhRWlkxZjJsVS1iUnJUSm5zM3NHc0V6ZlRCU0xtNVFWbVlBV1VYZFNGUV9IUQ?oc=5
+- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
 
-- Supreme Court denies interim voting rights to lakhs deleted from Bengal rolls - India Today
-  Supreme Court denies interim voting rights to lakhs deleted
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxQem5ac0ZMWXlVYVU2YllHUkVGRkphU0xhVEh6M1haR0pjUkZzc2hYVUJEcmtpTW92cFBWSm55THl2M1lpSk5FSXNrc0JVVWowWVRyakFmWEdpczZENHFPVDBzTUd3a3d3SkdDNVZlNVVEcXZWdENkUExXVVpyblJHUXFhT0JHZzN3Nks5QTZzV1VTX0FaWElhWU9XZVdBbTE4aEpiUWJlMkFiYUJBSnY2UmI5d2Fld1p0NTlLbHd6Zzg1UkczcWZYLVlCeWVGZGhxem02OW1mcnRyQmREcm9UTzBkNmlFZE9tZVlsN2lFaWxlb0U3eEEtV0s1U2dTam55TUhIT9IBigJBVV95cUxPaU9WNG9ENU0wMkhrZ1FwN2tYUEx1S3piZ3Y4REEtZGpmbDR2NWFPQVVsOTNlNlJ0YUV0QXBwY0MxVVhPa01hcDRka0RDcmswUVQyU2FKXzRjYkI4T25JdEdac2VvY0U3Y3dTRmx4alB5VGJIc3gzdE11VG42N0NjcVVvTVNvVzNXN1dvVUl6UkhyZl80U3BRMHB5a3RncXRoeDN2aFkzMW4tT05Bd1NDRzBYNHlZbDJ4VlJnTVgtMnMtWXhWNnpWcl94M0M1blBNZ2dKR2RTR2w2RGV6aHgxLTJDWmtWdmpWNXJRWU9WOWY5UlZianhsWVI2MDZKWWRJcTA1SFdxeXpVUQ?oc=5
+- Vikram's 'hop' unravels surficial 'layers' near lunar south pole region - The Times of India
+  Vikram's 'hop' unravels surficial
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmhWRHBfU0lTRktoQkR5blk4ck9LdHRVVi11UXpqVk42empPWXF5bTV0M01Hb0ZRM0JWRXkyQVVSUDd0RW1FbEFqSFNJa05PUzMwV3c5V0pCeXRKenR4aHNIZXBhUHl2cmV3TkRxN1BlYzdMTWludXBLdFFKY2otdDNHZWhtOGRhM0o3X3JNNzdNQVpGZFBOLXpEQkd4cjlnbk1OVF84Q3RXalM4X2N3UTR2VmpEUkxZWGU0TW56aEFSdUVhLXdxMjRxWlRoX2PSAdQBQVVfeXFMT0dvOUNKWlEySDd4a090R29Ub0ZGWjlEMHNkeEx2U0s0UzZfZG45Q1I2V3lqNUFoVUtKQnBkMVB5R29Pdno1RURoTHQyNGowelZ1OVZTSzA1ak5ESDNkWHhXSU1PajdTMWdna25fbWVVVm9KNmc2LUhIZ3ZMb2lvNVUwZnpubjlZRWdDZ3JJa3FKb2xWSzB5RnNMZGNZYXQ4bER3WGVpaXRZWUlHd285ZENwdGJvT0g2Z0JNdlU1Q2diaVV0d2pjY3d6dXdQazJJMkpLRGQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
+  The Times of India reports that the US is planning to blockade
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Iran denies charging toll for Indian tankers transiting Hormuz strait - Reuters
+  Iran denies charging toll for Indian tankers
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUstUGtfd0NjSUxuY3l0dm12aHRacG1IM2g3d0Q3VmNkWlFRbWhnM3VIODBQUDBCcThwQnRjY0xWVy0zejNYOEpCbEN4WTN0RDJnUWFGaTJGNnZkeVBaTGg5YmpqWENDekNxWmVNOXZ3cmNGTW5LOWp0VTEtMUVJcXhSWk9vWGxCZUEwWXZJbmwwZnRyM2lqY0liVWJsd1RncnFjbHplUEwyVW5QZGsxRzI5T0FDRFBWMm93UnBadXBVUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Vikram's 'hop' unravels surficial 'layers' near lunar south pole region - The Times of India
+  Vikram's 'hop' unravels surficial
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmhWRHBfU0lTRktoQkR5blk4ck9LdHRVVi11UXpqVk42empPWXF5bTV0M01Hb0ZRM0JWRXkyQVVSUDd0RW1FbEFqSFNJa05PUzMwV3c5V0pCeXRKenR4aHNIZXBhUHl2cmV3TkRxN1BlYzdMTWludXBLdFFKY2otdDNHZWhtOGRhM0o3X3JNNzdNQVpGZFBOLXpEQkd4cjlnbk1OVF84Q3RXalM4X2N3UTR2VmpEUkxZWGU0TW56aEFSdUVhLXdxMjRxWlRoX2PSAdQBQVVfeXFMT0dvOUNKWlEySDd4a090R29Ub0ZGWjlEMHNkeEx2U0s0UzZfZG45Q1I2V3lqNUFoVUtKQnBkMVB5R29Pdno1RURoTHQyNGowelZ1OVZTSzA1ak5ESDNkWHhXSU1PajdTMWdna25fbWVVVm9KNmc2LUhIZ3ZMb2lvNVUwZnpubjlZRWdDZ3JJa3FKb2xWSzB5RnNMZGNZYXQ4bER3WGVpaXRZWUlHd285ZENwdGJvT0g2Z0JNdlU1Q2diaVV0d2pjY3d6dXdQazJJMkpLRGQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
+  The Times of India reports that the US is planning to blockade
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
+
+- Iran denies charging toll for Indian tankers transiting Hormuz strait - Reuters
+  Iran denies charging toll for Indian tankers
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUstUGtfd0NjSUxuY3l0dm12aHRacG1IM2g3d0Q3VmNkWlFRbWhnM3VIODBQUDBCcThwQnRjY0xWVy0zejNYOEpCbEN4WTN0RDJnUWFGaTJGNnZkeVBaTGg5YmpqWENDekNxWmVNOXZ3cmNGTW5LOWp0VTEtMUVJcXhSWk9vWGxCZUEwWXZJbmwwZnRyM2lqY0liVWJsd1RncnFjbHplUEwyVW5QZGsxRzI5T0FDRFBWMm93UnBadXBVUQ?oc=5
+
+- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+
+- Vikram's 'hop' unravels surficial 'layers' near lunar south pole region - The Times of India
+  Vikram's 'hop' unravels surficial
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmhWRHBfU0lTRktoQkR5blk4ck9LdHRVVi11UXpqVk42empPWXF5bTV0M01Hb0ZRM0JWRXkyQVVSUDd0RW1FbEFqSFNJa05PUzMwV3c5V0pCeXRKenR4aHNIZXBhUHl2cmV3TkRxN1BlYzdMTWludXBLdFFKY2otdDNHZWhtOGRhM0o3X3JNNzdNQVpGZFBOLXpEQkd4cjlnbk1OVF84Q3RXalM4X2N3UTR2VmpEUkxZWGU0TW56aEFSdUVhLXdxMjRxWlRoX2PSAdQBQVVfeXFMT0dvOUNKWlEySDd4a090R29Ub0ZGWjlEMHNkeEx2U0s0UzZfZG45Q1I2V3lqNUFoVUtKQnBkMVB5R29Pdno1RURoTHQyNGowelZ1OVZTSzA1ak5ESDNkWHhXSU1PajdTMWdna25fbWVVVm9KNmc2LUhIZ3ZMb2lvNVUwZnpubjlZRWdDZ3JJa3FKb2xWSzB5RnNMZGNZYXQ4bER3WGVpaXRZWUlHd285ZENwdGJvT0g2Z0JNdlU1Q2diaVV0d2pjY3d6dXdQazJJMkpLRGQ?oc=5
+
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+
+- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
+  The Times of India reports that the US is planning to blockade
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
+
+- Iran denies charging toll for Indian tankers transiting Hormuz strait - Reuters
+  Iran denies charging toll for Indian tankers
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUstUGtfd0NjSUxuY3l0dm12aHRacG1IM2g3d0Q3VmNkWlFRbWhnM3VIODBQUDBCcThwQnRjY0xWVy0zejNYOEpCbEN4WTN0RDJnUWFGaTJGNnZkeVBaTGg5YmpqWENDekNxWmVNOXZ3cmNGTW5LOWp0VTEtMUVJcXhSWk9vWGxCZUEwWXZJbmwwZnRyM2lqY0liVWJsd1RncnFjbHplUEwyVW5QZGsxRzI5T0FDRFBWMm93UnBadXBVUQ?oc=5
+
+- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+
+- Vikram's 'hop' unravels surficial 'layers' near lunar south pole region - The Times of India
+  Vikram's 'hop' unravels surficial
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmhWRHBfU0lTRktoQkR5blk4ck9LdHRVVi11UXpqVk42empPWXF5bTV0M01Hb0ZRM0JWRXkyQVVSUDd0RW1FbEFqSFNJa05PUzMwV3c5V0pCeXRKenR4aHNIZXBhUHl2cmV3TkRxN1BlYzdMTWludXBLdFFKY2otdDNHZWhtOGRhM0o3X3JNNzdNQVpGZFBOLXpEQkd4cjlnbk1OVF84Q3RXalM4X2N3UTR2VmpEUkxZWGU0TW56aEFSdUVhLXdxMjRxWlRoX2PSAdQBQVVfeXFMT0dvOUNKWlEySDd4a090R29Ub0ZGWjlEMHNkeEx2U0s0UzZfZG45Q1I2V3lqNUFoVUtKQnBkMVB5R29Pdno1RURoTHQyNGowelZ1OVZTSzA1ak5ESDNkWHhXSU1PajdTMWdna25fbWVVVm9KNmc2LUhIZ3ZMb2lvNVUwZnpubjlZRWdDZ3JJa3FKb2xWSzB5RnNMZGNZYXQ4bER3WGVpaXRZWUlHd285ZENwdGJvT0g2Z0JNdlU1Q2diaVV0d2pjY3d6dXdQazJJMkpLRGQ?oc=5
+
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+
+- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
+  The Times of India reports that the US is planning to blockade
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
+
+- Iran denies charging toll for Indian tankers transiting Hormuz strait - Reuters
+  Iran denies charging toll for Indian tankers
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUstUGtfd0NjSUxuY3l0dm12aHRacG1IM2g3d0Q3VmNkWlFRbWhnM3VIODBQUDBCcThwQnRjY0xWVy0zejNYOEpCbEN4WTN0RDJnUWFGaTJGNnZkeVBaTGg5YmpqWENDekNxWmVNOXZ3cmNGTW5LOWp0VTEtMUVJcXhSWk9vWGxCZUEwWXZJbmwwZnRyM2lqY0liVWJsd1RncnFjbHplUEwyVW5QZGsxRzI5T0FDRFBWMm93UnBadXBVUQ?oc=5
+
+- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+
+- Vikram's 'hop' unravels surficial 'layers' near lunar south pole region - The Times of India
+  Vikram's 'hop' unravels surficial
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmhWRHBfU0lTRktoQkR5blk4ck9LdHRVVi11UXpqVk42empPWXF5bTV0M01Hb0ZRM0JWRXkyQVVSUDd0RW1FbEFqSFNJa05PUzMwV3c5V0pCeXRKenR4aHNIZXBhUHl2cmV3TkRxN1BlYzdMTWludXBLdFFKY2otdDNHZWhtOGRhM0o3X3JNNzdNQVpGZFBOLXpEQkd4cjlnbk1OVF84Q3RXalM4X2N3UTR2VmpEUkxZWGU0TW56aEFSdUVhLXdxMjRxWlRoX2PSAdQBQVVfeXFMT0dvOUNKWlEySDd4a090R29Ub0ZGWjlEMHNkeEx2U0s0UzZfZG45Q1I2V3lqNUFoVUtKQnBkMVB5R29Pdno1RURoTHQyNGowelZ1OVZTSzA1ak5ESDNkWHhXSU1PajdTMWdna25fbWVVVm9KNmc2LUhIZ3ZMb2lvNVUwZnpubjlZRWdDZ3JJa3FKb2xWSzB5RnNMZGNZYXQ4bER3WGVpaXRZWUlHd285ZENwdGJvT0g2Z0JNdlU1Q2diaVV0d2pjY3d6dXdQazJJMkpLRGQ?oc=5
+
+- Consultation on mental health and technology - The Hindu
+  The Hindu is a leading
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUlkVFgxeVlDdktZMHBWZ2p0V0hsZ3RVQ1h6WjVieDhiTkFCejkwRlpHa3QzNEUwb1dqU3l1dXN1UkMwTzRGNUhIZU05dzlOOEE0empoOVFMUFhuLTJaSV9wU2xYamdXa0hQckQyQWt3ZnJGZDktMVNlclRsWGRLbVhKZWp4OTZ1QmZBaFdmT0xKajJoN21CT0NKMEw3UTRFYmVBRWYwTkI0T0FnVnFla3kyY9IBugFBVV95cUxNSlJNQ2pEOUQ4NGcweVFQU0VWQ2h4dkt6X0RIRDBKR3lhckRrbExCMk9EcFhzd1RNMGdXczN2RFVWN3ExTC1OMmxNbEEwd0o3dFlaTDBYUHBhdjdLTW9FWFlmQnp2azFySmg1RU1fUFRILVl4WkhqYkxrZ1RVNlN1V3pYaVRKUWVTaVY5M05hRVpBeDdPV0E0ZlRvY0RBTXhCbFRab05Tb2VFM2F3bEk4SU9XRkU5NkFnT3c?oc=5
+
+- Delhi adopts new precast technology to upgrade drainage network - The Times of India
+  Delhi adopts new precast technology to upgrade
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUpEZU42aWIweHc1UE00bkJJMFFYb05KOWJtT0EtVFFCRHgtejROMkU0Q1M0MGZNVGJ5b3JIbGI1eG52UzBNX183Rkx5a2llZmYzYXk1TzdaV1ZFNWlCaXAwUlV0aEJZY0xfX3lFelpOQWQ0bFAyYUNMUU45b25rR1FhT3l2em5JMFM0bjU3MDB1cm55Y296NF80cmJZRWxKemEzZGN0MTQ3Zml0YmxZYkpHcEc3b18yTGU1eGJySE1CVFJQZUMzUW5ONVZHdk1KamfSAdcBQVVfeXFMUDItbnJJQlN4RHRnNEduUVQ5UjJLdHFZcXM3TzIzNS1sd3RrUlE0dk1kNnlIV1c4T0YyZzk5Ynk2a3FTamM3V2FONDFNcjlCMk4zMWo0MW81SkkwRU5SY1lLODFsVVZXSG5EVTF4LWZwa2pPM0dlWWcwWW9zYkJjcndid1owNXp6UjluWnl0a1NEaEt6ZXJlNHhBTEdkVTJEMVFONkd0NExQV2ItMExaMVJQaXREQ3V6aXQyQ3d1czRYWXVzSHp5YmZiSXpOOHE2V04zdDZSZTg?oc=5
+
+- NU VC attends national conference on technology for tribal development - The Times of India
+  NU VC attends national conference on technology for tribal development
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb0ZXZVRiVHhGYjAwMXJWZnpzWHZ2dEFDc3lOWkV6QWVnN19iSGYxWFB1VTJVSC1SeGd0cjBQVXVBZG9uOXN6bW5uNUhqbnNZX0pTdGxEZkZHLUxKb0VKOWl6eDktVmpzUVJtTFFteFlhNGwtMHNON3UyNlNIclQ2d0cxNm1XT1JfN3R0OWRkYzhFM25adzgyZzR1VXN3M3BINVVkOTAwTll3RUVLT3JLWS15OWFmSzUtdWVidHBKOWVUU3pocldUX2RXUFRvNm11LTdXeWNFaXRaS1HSAeABQVVfeXFMTXhDbDRvckt0RnBwTExPRkZJNk9PN1UyM1pMb3ZlbWJtenJJbjMzMjFZM0dZY0JqcHVzaXNWZ3VxY3B6Wm1lYm5hMm92SzA0akE2Wmd6TlJOaThLS0FIVzZ5OXhBN0tCMkFzMDV5eVVlTms5c2k2WEtXY2FGTmpzd3ZaeFVvSHNYMnEtYUJtLUlXZThJamtyc0VBZDVfNC0wdHFSX0FXSHBEZTBiQXpFY3NCY0puTmVJaVkxZ2xHVG1FdmJTeE56cGFLOUp2WW5mWThPeklzRjlMS2FLckZTRWY?oc=5
+
+- Electrode technology achieves 86% efficiency for converting CO₂ into plastic precursors - Phys.org
+  Electrode technology achieves 86% efficiency for
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU1Fa0UwM0U1TXJJdlFwVHM1Z0xQZnR1djRoeW5ZRWd2NVVOQXNzQjlidzd1ZDJxRU9Sc3RTLXVPMjVuM2JUcEtyTWdlRzFlbnF1bWg2RVhBQkdCSmtRekZIX05BTUcwdnhHejdMSEVfVGFiTVN4eDJMaTQtcThyZDFQc0J3ZTNRSml0U1B3?oc=5
+
+- Why Technology Is No Substitute For Soldiers In Indias Defence Strategy - TheWire.in
+  The Wire.in has published an article
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGxWRXhmRnJoVzB4UmJEcUVNMW1WR1hjeTMwLVZHMFphUWJqcEJLdTFaZDQ2al9SNDA4NXFibHVDVzY2aEJmckVxY1JhX1NlMXJFVzVDZGJfZElPaDFUbW5ERWVnanpQN0tlU1N2bWZ6aDR0NlR2cDlCZ2hQWTRpNnhzaGtSQndiNUtwQi13M2E2NDFhR0lEZHdEQ2RaWVFFelM4T1M2QUZaYTFBRkHSAbYBQVVfeXFMTkN0SmFlTG1RSjJpWmh4OTRjTWozUHZxR05ISTMxUV9yOW1zRFYtd3VfV3Nzb2hnU2E1TWZnaHFJZUtmeTB2WVRmanExZHJ0MUgzZl8zTFJ6R1g4cFN5X2pQOWF0RlZLR3UzQmdxa2JpWlZDajFVRVFKcWxsNmd3U1prMjFMcE5NbUkxeUtwTW5nR0VWZ2xvTE1MV2FrN2RGRkoyVzlQaXhjWGZmLUlIMzNrakFhLXc?oc=5
 
 
-_Last updated: 2026-04-13 13:17:55 UTC_
+_Last updated: 2026-04-13 19:12:35 UTC_
