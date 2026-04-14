@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- ‘From courtroom to community’: Jharkhand’s Simdega museum blends tribal memory with colonial history
+- 13 killed as ‘600-degree steam’ engulfs men having lunch at Vedanta’s Chhattisgarh unit
   
-  🔗 https://indianexpress.com/article/india/simdega-heritage-centre-museum-jharkhand-history-10636349/
+  🔗 https://indianexpress.com/article/india/vedanta-power-plant-chhattisgarh-600-degree-steam-men-lunch-dead-10636801/
 
-- Class 5 student dies days after 150 children who ate ‘stale food’ at Odisha residential school fall ill
+- Days after 28 cops suspended over death of missing girl, Jharkhand Police Association demands action against SP
   
-  🔗 https://indianexpress.com/article/india/odisha-school-food-poisoning-student-dies-10636325/
+  🔗 https://indianexpress.com/article/india/days-after-28-cops-suspended-over-death-of-missing-girl-jharkhand-police-association-demands-action-against-sp-10636666/
 
-- Nine feared dead in blast at Vedanta’s Chhattisgarh unit
+- ‘Bristled with contradictions’: Oppn slams proposed Bills on delimitation, women’s quota
   
-  🔗 https://indianexpress.com/article/india/vedanta-chhattisgarh-unit-blast-dead-10636311/
+  🔗 https://indianexpress.com/article/india/delimitation-women-reservation-bill-stalin-revanth-reddy-10636677/
 
-- ‘Bhagyarekha of progress’: Modi launches Delhi-Dehradun highway
+- Jaishankar discusses Iran, Hormuz, Lebanon with Israel’s Sa’ar
   
-  🔗 https://indianexpress.com/article/india/delhi-dehradun-expressway-inauguration-travel-time-benefits-10636270/
+  🔗 https://indianexpress.com/article/india/s-jaishankar-gideon-saar-israel-iran-strait-of-hormuz-islamabad-talks-10636624/
 
-- Amid delimination debate, Telangana CM Revanth Reddy proposes hybrid model
+- No wage hike for MG-NREGS workers for now as Centre looks to roll out VB-G RAM G
   
-  🔗 https://indianexpress.com/article/india/revanth-reddy-hybrid-model-delimitation-south-india-seats-gsdp-10636018/
+  🔗 https://indianexpress.com/article/india/nregs-wage-hike-delay-vb-g-ramg-scheme-2026-10636608/
+
+- Are we talking less? Study reveals sharp drop in use of words
+  
+  🔗 https://indianexpress.com/article/technology/science/are-we-talking-less-study-reveals-sharp-drop-in-use-of-words-10636421/
+
+- Poco X8 Pro Max review : A mid-ranger with battery life that could outlive your weekend
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/poco-x8-pro-max-review-10636310/
 
 - Vivo X300 Ultra, Vivo X300 FE: Expected specs, camera, launch timeline, and more
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-hiring-humans-startup-tests-real-time-retail-agent-in-san-francisco-10636158/
 
-- Intex launches 65-inch and 75-inch QLED 4K smart TVs, price starts at Rs 97K
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/intex-launches-65-inch-and-75-inch-qled-4k-smart-tvs-price-starts-at-rs-97k-10636139/
+- Fintech SumUp Lines Up Banks for Possible London IPO
+  SumUp Payments Ltd. is lining up investment banks to arrange a potential initial public offering in London, people familiar with the matter say.
+  🔗 https://www.livemint.com/companies/fintech-sumup-lines-up-banks-for-possible-london-ipo-11776192685813.html
 
-- ASUS announces Zenbook S14, DUO, and A series with next-gen AI performance
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-announces-zenbook-s14-duo-and-a-series-with-next-gen-ai-performance-10636057/
+- BoEs Bailey sees major cybersecurity risks in new Anthropic model
+  BoE sees major cybersecurity
+  🔗 https://www.livemint.com/companies/boes-bailey-sees-major-cybersecurity-risks-in-new-anthropic-model-11776191576137.html
+
+- ‘300 employees laid off without notice’: Zoho responds to viral post alleging mass layoffs
+  Zoho clarified that the post confused its internship programme with full-time employment. According
+  🔗 https://www.livemint.com/companies/300-employees-laid-off-without-notice-zoho-responds-to-viral-post-alleging-mass-layoffs-11776185299554.html
+
+- Race for AI-developed drugs heats up: Wegovy-maker Novo Nordisk ties up with OpenAI after rival Eli Lilly seals deal
+  Danish drugmaker Novo Nordisk is partnering with ChatGPT's parent company, OpenAI. The development comes as pharma companies are
+  🔗 https://www.livemint.com/companies/news/race-for-ai-developed-drugs-heats-up-wegovy-maker-novo-nordisk-ties-up-with-openai-after-rival-eli-lilly-seals-deal-11776169265644.html
 
 - Everstone invests $270 million in Apothecon Group for a significant stake
   Everstone said it will focus on accelerating the company’s product pipeline, expanding
   🔗 https://www.livemint.com/companies/news/everstone-capital-investment-apothecon-group-speciality-pharma-india-us-11776161043339.html
 
-- AvenuesAI begins work on on-premise small language models amid growing data privacy demands
-  AvenuesAI is delivering a fully customised, centralised platform that spans the entire lifecycle of a Small Language
-  🔗 https://www.livemint.com/companies/news/avenuesai-begins-work-on-on-premise-small-language-models-amid-growing-data-privacy-demands-11776159418885.html
+- Indian stock market: Gift Nifty rebounds 350 points as crude oil prices ease on Iran peace talk hopes
+  GIFT Nifty is up 350 points, signaling potential market recovery after Monday's losses. renewed hope for US-Iran peace talks. Crude prices retreated sharply
+  🔗 https://www.livemint.com/market/indian-stock-market-gift-nifty-rebounds-350-points-as-crude-oil-prices-ease-on-iran-peace-talk-hopes-11776186462646.html
 
-- Innomotics to deepen India play post acquisition of Siemens' motor biz
-  The acquisition is part of Innomotics' long-term plan to bring its core business lines
-  🔗 https://www.livemint.com/companies/news/innomotics-siemens-motor-business-india-manufacturing-sector-11776082361381.html
+- Bloom Energy shares surge over 20% to record high after securing major Oracle data centre power deal
+  Bloom Energy's shares rose 24% to a record $218.68 after signing a deal to supply 2.8 gigawatts of fuel cell energy systems for Oracle's
+  🔗 https://www.livemint.com/market/stock-market-news/bloom-energy-shares-surge-over-20-to-record-high-after-securing-major-oracle-data-centre-power-deal-11776181610984.html
 
-- Mint Interview | Ignore the noise, focus on consumers, says Zydus Wellness CEO amidst stock rally
-  CEO Tarun Arora talks of his outlook for the company and new businesses. Shares of the company have jumped 25% in the last month.
-  🔗 https://www.livemint.com/companies/india-zydus-wellness-ceo-tarun-arora-interview-stock-rally-product-launch-innovation-11776134279361.html
+- Axis MF sees opportunity in gilt funds, backs corporate bonds for stability amid market volatility
+   Axis Mutual Fund's report highlights the impact of the West Asia war on global bond yields and energy sectors.
+  🔗 https://www.livemint.com/market/bonds/axis-mf-sees-opportunity-in-gilt-funds-backs-corporate-bonds-for-stability-amid-market-volatility-investors-11776173795689.html
 
-- Lululemon under probe by Texas Attorney General over 'forever chemicals' in activewear
-  Texas Attorney General Ken Paxton has launched a formal investigation into Lululemon. The company says it stopped using the forever chemicals in early
-  🔗 https://www.livemint.com/companies/news/lululemon-under-probe-by-texas-attorney-general-over-forever-chemicals-in-activewear-11776151964923.html
+- Gold, silver rates today: Comex gold jumps $64/oz; silver rises $3.4/oz on hopes of fresh US-Iran peace talks
+  Precious metals saw increased buying on 14 April amid optimism for US-Iran peace talks. Gold futures surged by $64, while silver gained $3.45.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-64-oz-silver-rises-3-4-oz-on-hopes-of-fresh-us-iran-peace-talks-11776175687097.html
 
-- PSU Banks vs Private Banks: What should investors pick this earnings season
-  Nomura warns that higher leverage poses risks for PSU banks. PSU banks operate with 12-17 times leverage compared to 6-9 times for private banks.
-  🔗 https://www.livemint.com/market/stock-market-news/q4-results-2026-psu-banks-vs-private-banks-what-should-investors-pick-this-earnings-season-11775814531806.html
-
-- US stock market today: Dow, S&amp;P 500 futures surge 0.4% as crude slips on hopes of renewed US-Iran talks
-  US stock futures rose slightly amid hopes for a US-Iran deal. Major indices gained, with the S&amp;amp;P 500 reaching pre-war
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-surge-0-4-as-crude-slips-on-hopes-of-renewed-us-iran-talks-11776163972463.html
-
-- Crude oil prices retreat on hopes of renewed US-Iran talks; Brent slips to $96.5/bbl
-  US crude declined to $95 a barrel, and Brent crude dropped to $96.59. Analysts expect prices to stabilise depending on the conflict's evolution and upcoming negotiations.
-  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-prices-retreat-on-hopes-of-renewed-us-iran-talks-brent-slips-to-965bbl-11776158986545.html
-
-- Buy the dips now; IT our big contra bet, positive on large private banks: Daulat Wealth's founder and CEO
-  Small and midcaps at 32 times median PE are still 59% above their long-term average. Varun Fatehpuria of Daulat Wealth says this is the
-  🔗 https://www.livemint.com/market/stock-market-news/buy-the-dips-now-it-our-big-contra-bet-positive-on-large-private-banks-daulat-wealths-founder-and-ceo-11776161989138.html
-
-- Pakistan stock market rally: KSE 100 jumps nearly 5,000 points on US-Iran peace talk buzz
-  The KSE 100 index surged by 3%, recovering from previous losses. The broader Asian markets also ended higher.
-  🔗 https://www.livemint.com/market/stock-market-news/pakistan-stock-market-rally-kse-100-jumps-nearly-5-000-points-on-us-iran-peace-talk-buzz-11776161437965.html
+- Wall Street edges higher on fresh efforts to ease Middle East conflict; Amazon jumps 3.3%, BlackRock gains 4.5%
+  The S&amp;amp;P 500 rose 1%, the Dow Jones Industrial Average was up 0
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-on-fresh-efforts-to-ease-the-middle-east-conflict-11776174536466.html
 
 - Meta’s Muse Spark: Mark Zuckerberg's AI reset raises uncomfortable questions about jobs, data and its future
   What looks like a product upgrade is really a deeper structural shift. It could redefine jobs,
@@ -100,65 +100,125 @@
   Booking.com confirms a data breach where hackers accessed customers' personal information.
   🔗 https://www.livemint.com/technology/tech-news/hackers-breach-booking-com-as-dutch-travel-giant-warns-users-over-stolen-data-11776138951940.html
 
-- Indus Towers: Jefferies cuts rating to underperform, gives reasons for bear outlook
-  Jefferies downgrades Indus Towers to underperform, cutting its target amid contract renewal risks, rising capex, and competitive pressures. Potential tenant discounts, lower renewals
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indus-towers-jefferies-cuts-rating-to-underperform-gives-reasons-for-bear-outlook/articleshow/130260062.cms
+- S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates - CNBC
+  Oil prices continue to fall on hopes of new US-Iran peace talks.
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZGpnREIteEV0Y0FlZlpGMTYwQU5kYlIxWWhDRzR4NjJQUGtyRXA0dmlGbXB5emxEaWp0QnJaWENPYTBydzlrTkFhTmdVTjFJLUZzM0h4NDYybVhHZmZsQjhuSHBablhHOVlaNmR3QTJLalQwVjFqedIBfkFVX3lxTE95VWVOM1JNTEV0SzB6a3daZlBfbDJZNUZZWmVfZlNMNm1qdlltSzVFVnAyRjJKVGoxMUxRVnh5TFRja0gxa2x2Q0lXRE1zRTRfX2w0WTg5Tk5XOFVWOE82WldORXh4NFp5MTVwVFhncnlGX01OajNiSEtOZXVMQQ?oc=5
 
-- BlackRock quarterly profit rises on active ETFs, performance fees
-  BlackRock reported a rise in first-quarter profit. The asset manager saw strong inflows into its exchange traded funds and earned more from performance fees.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackrock-quarterly-profit-rises-on-active-etfs-performance-fees/articleshow/130259884.cms
+- Stocks Rise, Oil Prices Slide on Peace Push Hopes: Markets Wrap - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjhHRWVTbW1IM0dxTHFEd0h1bmJjeWdFV0IzdHA0d29lbXM4U0RwRGNLQ2lNNlpxUEVHWUIwZDhoZUhJTjNjN2tXM3N2em1JeVdKelNGeTdCcVJ4aGR1NXdaUnlzdVh2ZFpTUjg0c2JRLWxCdG84ODNYbDBDUWtiY3F5MzJqT0k5NjlVNDJ0Wm9kSEN5?oc=5
 
-- Wells Fargo interest income misses estimates, shares fall
-  Wells Fargo's interest income fell short of Wall Street expectations in the first quarter. Rate cuts from the U.S. Federal
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/update-4-wells-fargo-interest-income-misses-estimates-shares-fall/articleshow/130259849.cms
+- Stock Market Today: Major Indexes Jump, Led by Tech Stocks; Oil Pulls Back on Iran Peace Progress Signs; Wholesale Inflation Rises Less Than Expected - Investopedia
+  Stock Market Today: Major Indexes Jump, Led by Tech Stocks. Oil Pulls Back on Iran Peace
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjhhV2JEc0I3bV80VWxqX0p6R0hUZmxiaFZSX1VnOVZjR1NjVFlSd1BwcDRaS2IxX0Q4al8wTmhVTk1lNGN3Skg5b1dqcnBsTGp6U3hOVHcxYkcyYU1mX1dZYlBHMHhYR2hYNFdPOUQyOWpTdHFRSmRIMFdLaXZSU01mbE15b2NHZ1l1OFNlVkc?oc=5
 
-- Citi profit jumps 42% as market volatility lifts trading revenue
-  Citigroup's first-quarter profit rose 42% as geopolitical tensions fueled market
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/citi-profit-jumps-42-as-market-volatility-lifts-trading-revenue/articleshow/130259771.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: S&P, Nasdaq surge 1% as Trump announces second round of ... - The Economic Times
+  The Economic Times reports that the White House is considering a second round of tax cuts for the wealthy.
+  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxOZEFXLXBNUWNEb0Y3MS1wTV81Tm9qaXdWM1Q5WVJWTjNTak42dzl3amFyTXN4TzlyZWJoWE5kQ0R0cnduZmpEMzNYVkltNUh5QXZFT1BkV3lFRmF4RXU3Qk44a0NERHRvbTdXa0xrRzlvSW1UREdONThXNE9HQlR3V2djZEZWN1F0Q3VnTHlPR21BcXVCTTV1a0VqNnZEa3FZZXdVWTVCdHprSThwRWdabDg0b3VNVU54ZGdXZHd3R295Ri12bTNwY0FDN3dEamV3dFp3WGZ0U0dhMGl1Q2o5LVlBMzlNNFpEZFlLMDduSC1qRGZDWmsyc0kzbW5tdExiSWV5N3hfaFE1NkRsYU9xai14d1hqQ3FSN2hNa2NlRmtYUloweklRRERTWXHSAbICQVVfeXFMUEdEb21vYm9BSVhQMzBwS1RlVG91VGRwVF9hNlQ2cGpsbXg1VDFpWXFjc0JsZHh5SGx0SWEyVXZaNGwtNWhWaEp1ZFFVLURoenJNbFNfcEhfQ1Z1Rk9tdXkwM1FwTzNfdkhoWjZfNGh3SnRZMkpkb1h5NDQtV20xYm5pdTZZSjV3Y2xlRnBUcEQwVmFFWXM5Tlo5cmx0VlJOa0U0YVBsYmVnc2pIMTNyemE2by1VUG1FOWtveEdFMGctaGd2amgwMWkyT3RqTkluZV9DV1lGdUtMTVc4QkwyY08taVpWR2hXVkZzSGs2VXh6ekpGelpUSGZpd0owZGgzRWMyLTl1RFlmQWxPY3VRbm1wanR2aTZVNWk4OW9iQzlzSDM0TVEzdDZYcTM5Um1Mb21B?oc=5
 
-- Quote of the day by Rudy Havenstein: "Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars, when you had hair."
-  Inflation steadily reduces the value of money. What you can buy today costs more tomorrow. This impacts investments by eating into returns. Investors must focus on real gains, not just nominal ones.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-rudy-havenstein-inflation-is-when-you-pay-fifteen-dollars-for-the-ten-dollar-haircut-you-used-to-get-for-five-dollars-when-you-had-hair-/articleshow/130251491.cms
+- Markets still concerned with credit event despite strong bank earnings: G Squared's Victoria Greene - CNBC
+  Markets still concerned with credit event despite strong bank earnings,
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDhkZGxQVEdKOUZ2S0lMR3AzV0VCcEtrY1pQWXNzeUgxbXRJZ2RZN2dyVEcxSUpOTGFLWl9Pcy0zRFA5aEI0MjJnWWZjV1g3bTRGa1d3TmRFN1hYcVNVdXA0ZnlHQXByY1pSRF9wRzJMX1hqZlZPSFZtbEZ6aWdLOHJtQVJZNHhiZGM5dWRYT0pEQUxNSDI5ck5pMFZEQjZWbU80bEdfaGdkOTAzaVEydHNQbzBJVUJpcXBkYVFHeVRWeF85bjlQVHlabm9iS2tmTWJNWU5YWQ?oc=5
+
+- Oracle shares gain 4%, extend rally after AI-driven power deal with Bloom Energy
+  Oracle shares extended gains after a major energy deal with Bloom Energy to secure 2.8 GW of fuel cell capacity for AI-driven data centres.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-gain-4-extend-rally-after-ai-driven-power-deal-with-bloom-energy/articleshow/130263577.cms
+
+- US Stocks: BlackRock shares jump 4% after reporting strong first quarter profit
+  BlackRock reported $130 billion in net inflows and rising profitability despite weak broader market conditions and private market volatility concerns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-blackrock-shares-jump-4-after-reporting-strong-first-quarter-profit/articleshow/130263331.cms
+
+- US Stocks: Globalstar shares surge 10% as Amazon strikes $11.6 billion deal, rivaling Elon Musk's Starlink
+  Globalstar shares surged after Amazon announced a $11.57 billion acquisition to expand its satellite internet ambitions. The deal boosts Project Kuiper, accelerates L
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-globalstar-shares-surge-10-as-amazon-strikes-11-6-billion-deal-rivaling-elon-musks-starlink/articleshow/130263192.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Indian markets ended lower as stalled US-Iran talks triggered broad selling across sectors. Nifty and Sensex declined sharply, though technical indicators suggest near-term uptrend remains
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/130262851.cms
+
+- Bessent says confident that core inflation is going down, Fed will need to cut rates
+  U.S. Treasury Secretary Scott Bessent says core inflation will continue to go down. He repeated his call for the Federal Reserve to cut its interest rates.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-says-confident-that-core-inflation-is-going-down-fed-will-need-to-cut-rates/articleshow/130262719.cms
+
+- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
+  "It's For India To Decide": US Envoy
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
 
 - In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
   In 1st major outreach, Balen accepts PM Modi's invite
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
 
-- PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
-  PM Narendra Modi calls for support on India’s defining reform of 21st
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
+- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
+  Delhi Lt Governor Appreciates Police
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
 
-- Delhi-Dehradun Expressway: Property Prices To Rise 15-25%, These Towns Benefit The Most - NDTV
-  Delhi-Dehradun Expressway:
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0NBVHUxcktjazU1dlBwYzU4QVFRalF0NDg0aWhPTnI4MXpQMjdUd1I1eEEySlB4SVoyTjZ0bEtySmFtTHA2cC1HN0pHU1pPSmNHMWkwZVV6LUFWcGJiVEUzT2xINWJYWE9JTExKTUZyUTBXYzFlT1Z4S0lMYThqVUg1V25pVmJoYzlzZExxbWYzS3d3VUN5LWR4cXJYcmFvcjRYWWwzOTV1bHM5RFM0aTN6bXd2aENOTjB2dkttaVlvYmhwZHRlYVRBNHY0QTl1VFlCd1FxaWtVNXpLSDRvVVlRbHhET2hHTVl0ZkNKMNIB9wFBVV95cUxQZDk2MlRVdncxRGRHVEJyM1MxYWJHbEhuOWM0Tlo0SjBkOEwxb05lS3UtaXpvLXJmbnB2dVlQcjlHa2x2eHZHLVc3SDVsbXl6Q0l3X1FIUDgyTHE2U2FlRVdSVk9DdkFLUk5vOEE2TEhwMDg0MURRVXFtajRZbnBvdnduaXE1ajdWbDRJVlNZQmp5cUxXcXdCQ0hKemh0TndsR2xaRTd0aWRzWDdoNDRvOHFTTXRXT2F5a3lKbDJNVWdubmVScGlOczQ3R3ZJbVFyLTYwRDhYbUM0bUdsOVRqZGtLVkwtSlJCQy1meDF3aW5kVUVOOUkw?oc=5
+- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
+  Ambedkar’s thoughts still relevant to
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
 
-- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
-  The Strait of Hormuz is a
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
+  Southern States To Benefit Despite Smaller Population:
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
 
-- Iranian Ambassador thanks India for support in difficult times - News On AIR
-  Iranian Ambassador thanks India for support in difficult
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
+- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
+  "It's For India To Decide": US Envoy
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
 
 - In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
   In 1st major outreach, Balen accepts PM Modi's invite
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
 
-- PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
-  PM Narendra Modi calls for support on India’s defining reform of 21st
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
+- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
+  Delhi Lt Governor Appreciates Police
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
 
-- Delhi-Dehradun Expressway: Property Prices To Rise 15-25%, These Towns Benefit The Most - NDTV
-  Delhi-Dehradun Expressway:
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPX0NBVHUxcktjazU1dlBwYzU4QVFRalF0NDg0aWhPTnI4MXpQMjdUd1I1eEEySlB4SVoyTjZ0bEtySmFtTHA2cC1HN0pHU1pPSmNHMWkwZVV6LUFWcGJiVEUzT2xINWJYWE9JTExKTUZyUTBXYzFlT1Z4S0lMYThqVUg1V25pVmJoYzlzZExxbWYzS3d3VUN5LWR4cXJYcmFvcjRYWWwzOTV1bHM5RFM0aTN6bXd2aENOTjB2dkttaVlvYmhwZHRlYVRBNHY0QTl1VFlCd1FxaWtVNXpLSDRvVVlRbHhET2hHTVl0ZkNKMNIB9wFBVV95cUxQZDk2MlRVdncxRGRHVEJyM1MxYWJHbEhuOWM0Tlo0SjBkOEwxb05lS3UtaXpvLXJmbnB2dVlQcjlHa2x2eHZHLVc3SDVsbXl6Q0l3X1FIUDgyTHE2U2FlRVdSVk9DdkFLUk5vOEE2TEhwMDg0MURRVXFtajRZbnBvdnduaXE1ajdWbDRJVlNZQmp5cUxXcXdCQ0hKemh0TndsR2xaRTd0aWRzWDdoNDRvOHFTTXRXT2F5a3lKbDJNVWdubmVScGlOczQ3R3ZJbVFyLTYwRDhYbUM0bUdsOVRqZGtLVkwtSlJCQy1meDF3aW5kVUVOOUkw?oc=5
+- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
+  Ambedkar’s thoughts still relevant to
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
 
-- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
-  The Strait of Hormuz is a
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
+  Southern States To Benefit Despite Smaller Population:
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
 
-- Iranian Ambassador thanks India for support in difficult times - News On AIR
-  Iranian Ambassador thanks India for support in difficult
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
+- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
+  "It's For India To Decide": US Envoy
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
+
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+
+- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
+  Delhi Lt Governor Appreciates Police
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
+
+- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
+  Ambedkar’s thoughts still relevant to
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
+
+- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
+  Southern States To Benefit Despite Smaller Population:
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
+
+- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
+  "It's For India To Decide": US Envoy
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
+
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+
+- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
+  Delhi Lt Governor Appreciates Police
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
+
+- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
+  Ambedkar’s thoughts still relevant to
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
+
+- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
+  Southern States To Benefit Despite Smaller Population:
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-14 13:18:46 UTC_
+_Last updated: 2026-04-14 19:08:44 UTC_
