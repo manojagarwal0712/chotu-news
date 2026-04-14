@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
+- Assembly Elections 2026 Live Updates: PM Modi backs women’s quota in 2029 polls, says ‘democracy will become stronger and more vibrant’
+  
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-tmc-bjp-west-bengal-tamil-nadu-assam-kerala-pm-modi-rahul-gandhi-10635261/
+
+- In a Jharkhand village, a 12-year-old’s death during Ram Navami sent the rumour mill into overdrive — until the truth emerged
+  
+  🔗 https://indianexpress.com/article/india/jharkhand-village-12-year-old-death-ram-navami-rumour-mill-10635263/
+
+- ‘Daughters can’t wait endlessly’: PM Modi issues open letter urging immediate passage of women’s quota
+  
+  🔗 https://indianexpress.com/article/india/narendra-modi-women-reservation-act-letter-democracy-10635175/
+
+- I-PAC laundered Rs 50 crore, director Vinesh Chandel sent to 10-day custody: ED
+  
+  🔗 https://indianexpress.com/article/india/vinesh-chandel-ed-arrest-ipac-money-laundering-case-10635123/
+
 - Misri discusses freedom of navigation with French Foreign minister; Jaishankar dials Kuwait, Singapore counterparts
   
   🔗 https://indianexpress.com/article/india/misri-discusses-freedom-of-navigation-with-french-foreign-minister-jaishankar-dials-kuwait-singapore-counterparts-10634891/
 
-- Ostracised, extorted, humiliated: Inside cases that led Rajasthan HC to act on khaps
+- Microsoft eyes OpenClaw-style agentic AI features within Copilot: Report
   
-  🔗 https://indianexpress.com/article/india/ostracised-extorted-humiliated-inside-cases-that-led-rajasthan-hc-to-act-on-khaps-10634814/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-openclaw-style-ai-features-copilot-report-10635524/
 
-- Dalit student’s death puts spotlight on caste, colour bias in Kannur college
+- Meta poised to surpass Google in digital ad revenue for first time: Reports
   
-  🔗 https://indianexpress.com/article/india/dalit-students-death-puts-spotlight-on-caste-colour-bias-in-kannur-college-10634835/
-
-- Case of the disappearing water bodies: Survey reveals 8,940 missing in Bihar
-  
-  🔗 https://indianexpress.com/article/india/case-of-the-disappearing-water-bodies-survey-reveals-8940-missing-in-bihar-10634832/
-
-- Iran, India in touch on passage of ships through Strait of Hormuz: Envoy Mohammad Fathali
-  
-  🔗 https://indianexpress.com/article/india/iran-india-in-touch-on-passage-of-ships-through-strait-of-hormuz-envoy-mohammad-fathali-10634895/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-poised-to-surpass-google-in-digital-ad-revenue-for-first-time-reports-10635171/
 
 - Roblox launches new age-checked accounts for kids and teen users: Here’s what to know
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/mobile-tabs/huawei-beats-apple-and-samsung-to-launch-the-worlds-first-horizontally-wide-foldable-phone-1063403-10634031/
 
-- Anthropic introduces Claude AI integration for Microsoft Word users
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-integration-microsoft-word-10633786/
+- AI and West Asia war hit campus hiring: Firms rescind offers, delay student onboarding
+   Campus hiring in India is showing early strain as AI boosts productivity and the West Asia conflict dampens demand. Firms like BrowserStack have rescinded some offers, while IIT and II
+  🔗 https://www.livemint.com/companies/news/campus-hiring-hit-ai-west-asia-war-rescinded-offers-delayed-onboarding-b-schools-engineering-colleges-11776143686358.html
 
-- As AI use increases at work, many employees still choose not to use it: Gallup poll
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll-10633705/
+- BharatPe co-founder, Shashvat Nakrani steps back to build something new
+  At 19 he built BharatPe from a college dorm. Now Shashvat Nakrani is stepping away
+  🔗 https://www.livemint.com/companies/news/bharatpe-co-founder-shashvat-nakrani-steps-away-from-day-to-day-operations-to-explore-new-ideas-and-ventures-11776139659547.html
+
+- Amazon worker dies on warehouse floor; colleagues continue working around his body – ‘Let’s get back to work’
+  An Amazon employee at the Troutdale warehouse died while working, reportedly unnoticed for over an hour. The cause of death remains unknown.
+  🔗 https://www.livemint.com/companies/amazon-worker-died-on-warehouse-floor-as-his-colleagues-kept-working-for-over-an-hour-11776137787662.html
 
 - GRB bets beyond ghee as value-added dairy heats up competition
    GRB, founded in 1984 and synonymous with ghee, is launching new categories. The shift underscores a broader challenge for legacy food brands.
@@ -48,157 +60,165 @@
   The easing of investment curbs and resumption of direct flights have streamlined technology transfers and supply chains for the conglomerate’s upcoming car launch
   🔗 https://www.livemint.com/companies/jsw-mg-motor-india-china-ties-press-note-3-auto-venture-11776071225893.html
 
-- Nodwin Gaming eyes IPO momentum, inducts Manish Agarwal to board
-  Nodwin is working on a pre-IPO fundraise, where it aims to secure capital from new and existing investors. Agarwal had steered Nazara through its 2021 listing.
-  🔗 https://www.livemint.com/companies/nodwin-gaming-eyes-ipo-momentum-inducts-manish-agarwal-board-11776066788697.html
+- FPI shift: Out of IT, into infra in FY26—what’s in store for FY27?
+  Record outflows in FY26 mask a sharp rotation, with investors exiting IT and defensives. Investors
+  🔗 https://www.livemint.com/market/stock-market-news/fpi-shift-it-infra-fy26-record-outflows-indian-equities-capital-goods-metals-telecom-11776137218546.html
 
-- World Liberty investor Justin Sun claims Trump crypto venture secretly installed tool to freeze user holdings
-  World Liberty investor Justin Sun claims Trump crypto venture 'secretly' installed
-  🔗 https://www.livemint.com/companies/world-liberty-investor-justin-sun-claims-trump-crypto-venture-secretly-installed-tool-to-freeze-user-holdings-11776108040066.html
+- Stock Market Crash: Is it the right time for long-term investors to get greedy?
+  Current market conditions indicate that long-term investors should focus on discipline rather than aggression. Despite heightened volatility and geopolitical tensions, analysts advise cautious investment in
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-is-it-the-right-time-for-long-term-investors-to-get-greedy-11776075247457.html
 
-- Sundheim’s D1 Tumbled 6% in March as Biggest Stock Bets Soured
-  D1 Capital Partners’ equities book tumbled 6% in March, according to people familiar with the
-  🔗 https://www.livemint.com/companies/sundheims-d1-tumbled-6-in-march-as-biggest-stock-bets-soured-11776106139037.html
+- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy tomorrow - 15 April 2026
+  Indian stock market ended 1% lower on Monday. Chandan Taparia of Motilal Oswal
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-tomorrow-15-april-2026-11776142855110.html
 
-- Taiwanese Stocks Refresh Record High as AI Trade Stages Comeback
-  Taiwanese stocks rose to a new record as investors returned to the pre-Iran war trading theme of chasing AI shares
-  🔗 https://www.livemint.com/market/taiwanese-stocks-refresh-record-high-as-ai-trade-stages-comeback-11776130977211.html
+- From National Aluminium, Hind Copper to MCX: 7 Nifty 500 stocks surge over 150% in 1 year despite market volatility
+  The Nifty 50 has gained just 4% over the last year, while the broader index, Nifty 500, has risen 7%. Some 14 stocks in the Nifty500 index have surged more than 100
+  🔗 https://www.livemint.com/market/stock-market-news/from-national-aluminium-hindustan-copper-to-mcx-7-nifty-500-stocks-surge-150-in-1-year-despite-market-volatility-11776138755081.html
 
-- Gold, silver rates today: Precious metals rise on renewed optimism on US-Iran war ceasefire talks. Should you buy?
-  Gold and silver rates today snapped two-day losing streak to gain up to 1% on Tuesday. Here's the gold and
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-precious-metals-rise-on-renewed-optimism-on-us-iran-war-ceasefire-talks-should-you-buy-11776128605530.html
+- Silver price crash alert! White metal cracks  ₹2 lakh from peak: How should investors approach this dip?
+  The demand for silver remains influenced by industrial recovery and macroeconomic conditions. Tata Mutual Fund advises a cautious, staggered investment approach due to potential ongoing fluctuations.
+  🔗 https://www.livemint.com/market/commodities/silver-price-crash-alert-white-metal-cracks-rs-2-lakh-from-peak-how-should-investors-approach-this-dip-buy-or-sell-11776138347286.html
 
-- The bond market is ‘moving on’ from the Iran war
-  One indicator shows markets are ‘moving on’ from the
-  🔗 https://www.livemint.com/market/the-bond-market-is-moving-on-from-the-iran-war-11776129189037.html
+- Realme Narzo 100 Lite 5G with 6.8-inch 144Hz display and 7,000mAh battery launched, price starts at  ₹13,999
+  Realme has introduced the Narzo 100 Lite 5G in India. It features a 6.8-inch HD+
+  🔗 https://www.livemint.com/technology/gadgets/realme-narzo-100-lite-5g-with-6-8-inch-144hz-display-and-7-000mah-battery-launched-price-starts-at-rs-13999-11776149673156.html
 
-- Stock market holiday: BSE, NSE to remain closed today for Ambedkar Jayanti 2026
-  Sensex and Nifty 50 fell over 2% on Monday. Here's the full schedule of
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-and-nse-to-remain-closed-today-for-ambedkar-jayanti-2026-11776127253124.html
+- Hackers breach Booking.com as Dutch travel giant warns users over stolen data
+  Booking.com confirms a data breach where hackers accessed customers' personal information.
+  🔗 https://www.livemint.com/technology/tech-news/hackers-breach-booking-com-as-dutch-travel-giant-warns-users-over-stolen-data-11776138951940.html
 
-- Gold prices surge ~60% since last Akshaya Tritiya: Should you buy the yellow metal for another year of strong gains?
-  The yellow metal has surged 60% since the last Akshaya Tritiya in April 2025. It is the ninth consecutive year that gold has provided investors with solid returns.
-  🔗 https://www.livemint.com/market/commodities/gold-prices-surge-60-since-last-akshaya-tritiya-should-you-buy-the-yellow-metal-for-another-year-of-strong-gains-11776084319495.html
+- OpenAI leaked memo slams Anthropic: ChatGPT maker accuses rival of ‘fear-based’ AI approach, reveals report
+  OpenAI's Chief Revenue Officer, Denise Dresser, criticized rival Anthropic in
+  🔗 https://www.livemint.com/technology/tech-news/openai-leaked-memo-slams-anthropic-chatgpt-maker-accuses-rival-of-fear-based-ai-approach-reveals-report-11776136226214.html
+
+- Motorola teases Edge 70 Pro India launch teased: Expected specs, price, and release timeline
+  The Edge 70 Pro will be available in three color options in India: Blue, Green, and White.
+  🔗 https://www.livemint.com/technology/gadgets/motorola-teases-edge-70-pro-india-launch-teased-expected-specs-price-and-release-timeline-11776129951039.html
 
 - Anthropic talking to the Trump administration about its next AI model, co-founder says
   Anthropic talking to the Trump administration about
   🔗 https://www.livemint.com/technology/anthropic-talking-to-the-trump-administration-about-its-next-ai-model-co-founder-says-11776107367663.html
 
-- Humanoid robots show off their language and boxing skills in Hong Kong
-  Humanoid robots show off their language
-  🔗 https://www.livemint.com/technology/humanoid-robots-show-off-their-language-and-boxing-skills-in-hong-kong-11776084135171.html
-
-- How to use ChatGPT, Gemini and Claude as your personal finance assistant? Check exact AI prompts
-   AI tools like ChatGPT, Gemini and Claude can help act your second brain to
-  🔗 https://www.livemint.com/technology/tech-news/how-to-use-chatgpt-gemini-and-claude-as-your-personal-finance-assistant-cexact-ai-prompts-you-need-to-slash-your-month-11776071992347.html
-
-- Meta is building a 3D AI clone of Mark Zuckerberg so employees feel more connected to the CEO: Report
-   Meta is creating a photorealistic AI version of CEO Mark Zuckerberg to chat with employees. Zuckerberg is said to be personally involved in the AI
-  🔗 https://www.livemint.com/technology/tech-news/meta-is-building-a-3d-ai-clone-of-mark-zuckerberg-so-employees-feel-more-connected-to-the-ceo-report-11776066622528.html
-
-- Redmi A7 Pro 5G with 120Hz display and 6300 mAh battery launched in India, price starts at  ₹12,499
-  Xiaomi launched the REDMI A7 Pro 5G in India, priced from  ₹12,499. The smartphone features a 6.9
-  🔗 https://www.livemint.com/technology/gadgets/redmi-a7-pro-5g-with-120hz-display-and-6300-mah-battery-launched-in-india-price-starts-at-rs-12499-11776063558374.html
-
 - Stocks stage a big comeback Monday with the S&P 500 wiping out Iran war losses: Live updates - CNBC
   Stocks stage a big comeback Monday with the S&amp;P 500
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE15aXRHdmlfQXNxSmZVLWVpMkxMd2FEN1ZUUGR1Tzg2bHFBX084dzM2NGItZUx0cUFIUFFfQ0YzdmZ0VHFUc0c3dlFGNUNDaExGQXh3UnF4Ty1rVEVhYjZUSnZQMzJEaUZmUmQ2am9oeFRBM3RoNUsw0gF8QVVfeXFMTkxTcnBzUEVvYXJkU1hITWthanpSSlBwbmhWZHlvUDRDaUZrZU1Gb1JScktEQnA3Zmw0UEwxejZWMjE1cVpTeU1nUnZ1NG9qVTZhUkYyUEdIbzB3a1NtaFBTMEZjVjhzMURDUUk2MmRrMEYxOHNla1NHaWRfMw?oc=5
 
-- Stock Market Today: Oil Jumps Back Above $100, Dow Slips on Hormuz Blockade — Live Updates - WSJ
-  Stock Market Today: Oil Jumps Back Above $100, Dow Sl
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNeS1vaW9MN2dqLTR0bDZud0ZJMDlKaXFPVXBkRXh6LWRCSmtUS0xjOW8wbE5DSDZBcjA1VFJiT2xnQTJsY08xTzRyM2Ezblg1c0I2Y3l1WWVXQnlzVW5LbVNLVXlhNVBCU1E0TVU3OE9BcldzT28yNVBFeUE1X2hRY3dOUkdGVGc?oc=5
+- S&P 500 futures are little changed after index erases Iran war losses: Live updates - CNBC
+  S&amp;P 500 futures are little changed after index
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZGpnREIteEV0Y0FlZlpGMTYwQU5kYlIxWWhDRzR4NjJQUGtyRXA0dmlGbXB5emxEaWp0QnJaWENPYTBydzlrTkFhTmdVTjFJLUZzM0h4NDYybVhHZmZsQjhuSHBablhHOVlaNmR3QTJLalQwVjFqedIBfkFVX3lxTE95VWVOM1JNTEV0SzB6a3daZlBfbDJZNUZZWmVfZlNMNm1qdlltSzVFVnAyRjJKVGoxMUxRVnh5TFRja0gxa2x2Q0lXRE1zRTRfX2w0WTg5Tk5XOFVWOE82WldORXh4NFp5MTVwVFhncnlGX01OajNiSEtOZXVMQQ?oc=5
 
-- Are Stock Markets, Commodity Markets, Banks Closed Today For Ambedkar Jayanti? - NDTV
-  Are Stock Markets, Commodity Markets,
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGY5U3hyNE10LWdBMkR1TFRnVFQyMGwwVklNdnBVRnNWcWFuM3NrQkp3WEJOV2ZPMjEyZHZuMEFaV0ZBQWpPcTdWUG1aWC1EY21GbjNHaE1YZXRTWWpWWTdSQWY4cFJzdnBfX2pxUFNjUl9lcHE5dFBuTTE5LW4tdjB2ajVjUk9kczZpejQ4TlpwV1UtWGVEbkpBVGNQZUNSUkJIckZRWTQ4UTNsekNiVmtzY1ZKMUxxaW9KeTVNRTBJZ9IBygFBVV95cUxOQ3NZek0wdkpCMnZxMTREWUlVb1NPTkF1RE0zSGZnMUpsZy01MjFDMWtrcjFBNVFkZDZ6a2RMMjZHamxXVjdIM3pUY0steFhkVHRDZ0dqOWt2OTNZWDF1NVZoMXJ1amh5WjVjbUt2NVVGR3BESjNHNER0X185d3FoWncySVEwazFxSnRZNWlBS2t5WUNDeXpndkNRRWNZbW0wY0ZRRDZPYURKYlBoWmZuZk1xZmJCNWRHeFRuZ0NxdDh5aWI5aXdnYWln?oc=5
+- Markets News, April 13, 2026: U.S. Indexes End Sharply Higher on Hopes of Iran Peace Deal; Nasdaq Ends in Green for 9th Straight Session - Investopedia
+  Nasdaq Ends in Green for 9th Straight Session. U.S. Indexes End Sharply Higher
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpUc3NXU1A5NDJULU9tLXV4MkVVaUpjUUxOazVVV3RLeEtsN1dzWUM1NHZQOVk3bm5yVXBDVjkzelR2eU1XTFpfTV9RUDZ2bU5qMXpmdGFlc2RDeC1yRDg4Qy1hV2F1Y1ZkRGpVVjRPY3FTbThBZG9laWozS2JsSzJpU1RobXNWM2NqczJhVzU?oc=5
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks close higher as tech leads gains, oil eases be... - The Economic Times
-  The Economic Times reports that the U.S. stock market closed higher on Tuesday.
-  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxPTDJldXBLaS1TX2huQVNFeThNS25lMFo0OFNrV1NlRnc4cm1IV0laV1p5ZW5TRjZNc3J2WHltdmQwN0c2bTlvVUxPUVM1WTh3cHpZTVM3a0ZzRS1FQUFvYTJLdkl6MUxZSmFQNzNidEdPX0piUHpFbkhQZy1rMFFSdEUwRUxfOWlSVmRxcnl2U0VjOEJqMzFyMXZvN0Q4LUREbUwtNERVOUc1MTI0QVltR0ZpazRZSjN4RzQ2TGtfU1NRSTNqanZCUm52VjBOM0xXXzFPWXFxY3FuMTlIOHBscExLOFlibWFhTmZrUjB2NDdUX0MyNndqTW5KTzNTNTFYWVl4eE95SjNBNEpPb0FSdXFaWkFzbGtYUjlmWDJ1aDlrMEctdHdoNlFVWGlzQUtGOGtpd9IBugJBVV95cUxOUlZPa3V0RDJmd3J1YkZRTlpoelpnSkxyUVFsN3FUYXVtQ1ZlT19SUVFpTUFGXzh0VlVMak9JLWNIbVdkMWxnR281VldSN1gxTUdxSlFPYl9VeHJNZG9JWDE2UV9mMnplRGJuV0dvVzRSYmp3X3pIRHI4ZC1XMkFkUmZhcnFuYi10RzRtNjVPYk8tM0tjVE8wWGRlX3g2VndBTjRBNV9teTRMcjJRVld6akw0QUpwd1o3cXdmR2ItaWpNRlRzY1BGM25fYzkzOFdmcjRrUnBFYzFJcGk0RjhodW1zQWFXNXA3NzJab040bmx3ajJuRnRRLTJNS0ltS1hrUTR4YWJEMVhwcmN2ajZLRVMwbUZaVjZBcV9Vc0t0YmZ5TWY3bTVfZlBVNW5jdjNjZ190QThUMlFpQQ?oc=5
+- Asia’s stock markets surge, oil falls on hopes for US-Iran talks - Al Jazeera
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzk5U0F3REV0T2lQcll4bEw3NDdIejNhWHlNUWJjSXZkTUttV0Q1UVZlMmt4dUtoZ19Nb3I1SXpuS1FkVXhqSEp0elVadEEzaHczX2Z5aUdiMXpoYkFNUE9Ka3BuckpRSUNTZGtBMU5pbGdrMVZmSVJnT3dHSXBQdkxzVmxqMkhwcXVxbkJIMjVQUmsxdy1sQmNyQ1J6dDNfaFJRbm9fME9LQdIBrwFBVV95cUxOQWsyMl9JMlIzbkRyRDVKTkJKQmhjTHBoY3JNRkZISEpudkVna0dpajQ5cHhYd1FVS1prZThVZ1dYUmhzZ3VUa1Q3MDdPcUI3R3d2bXYzcXoteUk5WC1lN3M3d0VuOHM2Ul9Za2NkSmVubi1ScHhzWWVWRG9SN0FjejNPdWV3T0VmS3dDdjJmWi1hWHVaRGZObFg5MENSeTVRTnEzWnRYM0YxWlBSeTh3?oc=5
 
-- What is RBI's fight with forex markets all about? - The Times of India
-  The Times of India asks what is RBI's fight
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOemtPQ05lYkVPZG5iWDZ5UzU4TkFYU2VQdEppMkVNTmdjbno2NG04SXI4bms0emQ0QmVQV3JIU3BUaHFqYUcxb3dpenhHOHdpbkxoUjA4T3MwajdwNlhzUF9qY3k0aWQyTjNhQjlKMnlRWE5MdGVlTDlnbHozZFdfV3UzbHF0WVBQUXBBQ2xEeENFdG5pUnQyMXN3QjNqMHJFakJlTExYbGdGVGJoZDk1NGJRMkp5UzJsZjFCWmVLT3R3RFNwbGNuVEJQTjJ3QdIB0wFBVV95cUxNOGtIRE9qWVM5cnBubnBqdlRXUjdCckpxRERETkNhMlg5RzJHN2ZGYWQ3RnVCS1lMZ3dNbmxQOXl3VXdjR2ZiWUFoekYxalUyY2NDS2dyOU1zSmxIU1pxNmtUbXNvM2F2QTdaWHhXa09MR1hnYzN6bzdWTUh6amxteGFpVWtGTmlPRkFQdFVyZDJzWGhWTGdPeTRaelBHZTNOR0RkOWVpd2xPZDlxWUl3U0hSZFA4b1RDME00UmQteV9OTDVJTUh0MUJSc3d0c3FLbTF3?oc=5
+- European markets set to rise on hopes that Iran peace talks can resume - CNBC
+  European markets set to rise on hopes that Iran peace talks
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUUtV1pMbEVXZDJEbncyQkk0dkVWdm9yQVdKY050bHM0cGREODhkMUdwa1V4VEZhWHJsZmNJcjMxNWQ4UUhySUdHal9VSEg3NTYzR0VQblBGVnFia1h1NjMweTJKOW5BSFAwYW13T2plWjVCVVpRaExoT3g0ZXV3ZmNOeV9sMFBXQ21sNjRlZHZONVlQcnpJcDM0UdIBoAFBVV95cUxNQzdCSTlYaXlHNnNEdU9fMTIxV2EzdjRjUC1peWpqTUFKLVdBOURMT1Z0ZXlsNWFUSXpET3QwSlJvSC1sOUVSakZYNFJOT3hIdnFtQjBza1ZuV1FfdkZxR2c5Q2Zfa1NEdWdrU2d0U1lOTnVsaTFtNkdROHFHcWlhcHBxNFNLMUhUcVVDdERpRVF4bnpsbXpXaFl3eGZXSjlt?oc=5
 
-- Stock market holiday for Ambedkar Jayanti 2026: Are NSE, BSE and MCX open or closed on April 14? Check now
-  NSE and BSE will be shut for trading on Tuesday due to Dr. Ambedkar Jayanti holiday. There will be no trading on NCDEX,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-for-ambedkar-jayanti-2026-are-nse-bse-and-mcx-open-or-closed-on-april-14-check-now/articleshow/130249261.cms
+- Volume Shocker: MFs added 1 crore+ shares to 5 stocks in March '26; rally up to 30%
+  Heavy buying in HDFC Bank and Yes Bank amid price weakness suggests possible bottom fishing by institutional investors. Five stocks delivered over 15% gains, while several laggards declined despite accumulation.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-5-stocks-in-march-26-rally-up-to-30/slideshow/130253412.cms
 
-- Storm Rising! Safe transit for D-Street ends fast, short covering limits losses
-  Both Nifty and Sensex had declined as much as 2% during the day. Traders covered some of their bearish bets ahead of the financial markets holiday on Tuesday. Nifty fell 207 points or 0.9
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/storm-rising-safe-transit-for-d-street-ends-fast-short-covering-limits-losses/articleshow/130249216.cms
+- ETMarkets Smart Talk| Financials, consumer discretionary, metals to drive FY27 growth: Rahul Bhuskute
+  Despite a volatile start to FY27, the outlook for Indian equities remains positive. Bharti AXA Life Insurance sees sector-led opportunities in financials, consumer discretionary, and metals.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-financials-consumer-discretionary-metals-to-drive-fy27-growth-rahul-bhuskute/articleshow/130253051.cms
 
-- US stocks today: S&amp;P, Nasdaq rise 1% as investors hold out hope for US-Iran resolution
-  Gains in tech stocks lifted the S&amp;P 500 and Nasdaq. Easing oil prices below $100 supported sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-hold-out-hope-for-us-iran-resolution/articleshow/130245398.cms
+- Time to buy? Sunny Agrawal finds best picks across banking, pharma, capital markets &amp; infrastructure
+  Experts highlight companies with strong earnings visibility. Key sectors like banking, asset management, auto ancillaries, pharmaceuticals, electronics manufacturing, metals, and infrastructure offer potential. Quality stocks bought now are expected to deliver solid returns by FY27
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/time-to-buy-sunny-agrawal-finds-best-picks-across-banking-pharma-capital-markets-infrastructure/articleshow/130252852.cms
 
-- Chevron, Shell to sign agreements for oil, gas areas in Venezuela, sources say
-  The deals reflect Venezuela’s push to attract foreign energy investment. Chevron is set to sign agreements to return a gas field in Venezuela. Shell prepares to operate the Loran gas field.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/chevron-shell-to-sign-agreements-for-oil-gas-areas-in-venezuela-sources-say/articleshow/130242652.cms
+- Poonawalla Fincorp raises Rs 2,500 cr via QIP to fuel growth, lending expansion
+  Poonawalla Fincorp successfully raised Rs 2,500 crore via a Qualified Institutions Placement. This capital infusion will fuel business expansion, bolster lending operations and diversify its asset base.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/poonawalla-fincorp-raises-rs-2500-cr-via-qip-to-fuel-growth-lending-expansion/articleshow/130252783.cms
 
-- US IPO hopefuls forge ahead with listing plans amid market swings
-  2026 is still seen as a strong year for IPOs despite recent market disruptions. Companies across sectors have resumed IPO roadshows despite Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-ipo-hopefuls-forge-ahead-with-listing-plans-amid-market-swings/articleshow/130241853.cms
+- Pakistan's stock markets rally: KSE-100 jumps 4,000 points on hopes for new US-Iran peace talks. What lies ahead?
+  KSE-100 jumps nearly 4,000 points amid renewed optimism over possible fresh US-Iran peace talks. The rally comes after intense volatility, including a 6,000-point crash on Monday. Easing crude
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pakistans-stock-markets-rally-kse-100-jumps-4000-points-on-hopes-for-new-us-iran-peace-talks-what-lies-ahead/articleshow/130252638.cms
 
-- Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's envoy answers | India News - Hindustan Times
-  Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlNnLTgxbV9JM0VSVXJMVjcxY3hrQ09GVVZxYWJQWnRRUVJyV0hoZF9NZTJ1S2xSWFhGM0pCWUx4RWJJZFhJS0c0OUk3S1ZaTmNmLVhuZ1RfdkNIdzIxYXZwTzA0cUxJUl9sNlZYcEtxOTdZQmtHTkJ2RG56X2o0OTk2dGZNdGNteEVYQW81T2JFOFlXT29SYnNEUm12a25lTDU5U3lGMWNqV3RWQ1oxaHFKcGpDbngxZnZmMy12d2lhZlAzU1lTZU1DVjA5aXluclBuajdGSzdjVUhaMXpNSdIB5gFBVV95cUxQamJFaFpZWnh0OERyMzZ6aEhYcUo1SDJCc3RRM0gzeU9YbFdXUWFqNzFhVW5HcVEwVllZY1JiVzBBbEpiV3pNZlFjTmRRVnY1ZzFnSWVJOVNTMlhFTmR4TkxiQTR3QkNEUnR2b2RvbDhjTzd0OEdVdHl3TzZnZXZqZnBoMGhYcnprTk9tc09tU2cteVRZTUZCQk5lTnR1Z3JjMUQ0MWhPTHpkdk5tT2pGRWg0eVRqOXRtcUJTYUlxeG01eVZURnZvbXNnejc1V2MtQjhDNmJvakxIaXpzZ3oyaDlzNUhyQQ?oc=5
-
-- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
-  The Strait of Hormuz is a
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
-
-- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
-  The Times of India reports that the US is planning to blockade
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
-
-- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
 
 - PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
   PM Narendra Modi calls for support on India’s defining reform of 21st
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
 
-- Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's envoy answers | India News - Hindustan Times
-  Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlNnLTgxbV9JM0VSVXJMVjcxY3hrQ09GVVZxYWJQWnRRUVJyV0hoZF9NZTJ1S2xSWFhGM0pCWUx4RWJJZFhJS0c0OUk3S1ZaTmNmLVhuZ1RfdkNIdzIxYXZwTzA0cUxJUl9sNlZYcEtxOTdZQmtHTkJ2RG56X2o0OTk2dGZNdGNteEVYQW81T2JFOFlXT29SYnNEUm12a25lTDU5U3lGMWNqV3RWQ1oxaHFKcGpDbngxZnZmMy12d2lhZlAzU1lTZU1DVjA5aXluclBuajdGSzdjVUhaMXpNSdIB5gFBVV95cUxQamJFaFpZWnh0OERyMzZ6aEhYcUo1SDJCc3RRM0gzeU9YbFdXUWFqNzFhVW5HcVEwVllZY1JiVzBBbEpiV3pNZlFjTmRRVnY1ZzFnSWVJOVNTMlhFTmR4TkxiQTR3QkNEUnR2b2RvbDhjTzd0OEdVdHl3TzZnZXZqZnBoMGhYcnprTk9tc09tU2cteVRZTUZCQk5lTnR1Z3JjMUQ0MWhPTHpkdk5tT2pGRWg0eVRqOXRtcUJTYUlxeG01eVZURnZvbXNnejc1V2MtQjhDNmJvakxIaXpzZ3oyaDlzNUhyQQ?oc=5
+- PM Modi writes to India’s Nari Shakti: ‘Women appreciate reservation push’ - Moneycontrol.com
+  PM Modi writes to India’s N
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzAzbmdjYzBYdXVjaEdNOVFudGNkV0VwcVhSNkp3cUFfWUd2NHo0ODZ0WjU1eUxGaldYTEVMcm5SUUdZR1hNTHM0QldacWx5U3FZcUtZcHdocXNpQnRUZXcxZWx6RjBCdlgwdWdxQkZmemFPLWlVdG5uNWZBY2JQcHBJSjBNQV96UW1mYWppQklqd212Mk5TdkZSRHBuVHk2eHdhMU5yZnZIQjMzdmtzWkxidGVlY1RHYlRmcXliZThVTW_SAcgBQVVfeXFMTzdvaDh0NGo1TDIxb2tMZzNNNTdHcy0wN25aVGdMbVZySDFOc3VMMndiTEtoN3lSdko1M3k4X3o5QXRWVEdpbVBQdVo3WVZWOW15VWdKSlJzT29kekc2bnJqb1N0U3FJNW91OW1DQlRzcEQwVUhsYVRIUE9CVExqODItcXBjNDhhUnl4UzlnNWZ4eUVsbS1SVUxrN1Q4U1BxbzV6RlZzaHBnMUF6cWxVZTExSTZZNGhyREVBc25XaHdtU2RrWS1Senc?oc=5
 
 - Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
   The Strait of Hormuz is a
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
 
-- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
-  The Times of India reports that the US is planning to blockade
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
+- Iranian Ambassador thanks India for support in difficult times - News On AIR
+  Iranian Ambassador thanks India for support in difficult
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
 
-- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
 
 - PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
   PM Narendra Modi calls for support on India’s defining reform of 21st
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
 
-- Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's envoy answers | India News - Hindustan Times
-  Does Iran charge India a toll for the Strait of Hormuz passage? Tehran's
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlNnLTgxbV9JM0VSVXJMVjcxY3hrQ09GVVZxYWJQWnRRUVJyV0hoZF9NZTJ1S2xSWFhGM0pCWUx4RWJJZFhJS0c0OUk3S1ZaTmNmLVhuZ1RfdkNIdzIxYXZwTzA0cUxJUl9sNlZYcEtxOTdZQmtHTkJ2RG56X2o0OTk2dGZNdGNteEVYQW81T2JFOFlXT29SYnNEUm12a25lTDU5U3lGMWNqV3RWQ1oxaHFKcGpDbngxZnZmMy12d2lhZlAzU1lTZU1DVjA5aXluclBuajdGSzdjVUhaMXpNSdIB5gFBVV95cUxQamJFaFpZWnh0OERyMzZ6aEhYcUo1SDJCc3RRM0gzeU9YbFdXUWFqNzFhVW5HcVEwVllZY1JiVzBBbEpiV3pNZlFjTmRRVnY1ZzFnSWVJOVNTMlhFTmR4TkxiQTR3QkNEUnR2b2RvbDhjTzd0OEdVdHl3TzZnZXZqZnBoMGhYcnprTk9tc09tU2cteVRZTUZCQk5lTnR1Z3JjMUQ0MWhPTHpkdk5tT2pGRWg0eVRqOXRtcUJTYUlxeG01eVZURnZvbXNnejc1V2MtQjhDNmJvakxIaXpzZ3oyaDlzNUhyQQ?oc=5
+- PM Modi writes to India’s Nari Shakti: ‘Women appreciate reservation push’ - Moneycontrol.com
+  PM Modi writes to India’s N
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzAzbmdjYzBYdXVjaEdNOVFudGNkV0VwcVhSNkp3cUFfWUd2NHo0ODZ0WjU1eUxGaldYTEVMcm5SUUdZR1hNTHM0QldacWx5U3FZcUtZcHdocXNpQnRUZXcxZWx6RjBCdlgwdWdxQkZmemFPLWlVdG5uNWZBY2JQcHBJSjBNQV96UW1mYWppQklqd212Mk5TdkZSRHBuVHk2eHdhMU5yZnZIQjMzdmtzWkxidGVlY1RHYlRmcXliZThVTW_SAcgBQVVfeXFMTzdvaDh0NGo1TDIxb2tMZzNNNTdHcy0wN25aVGdMbVZySDFOc3VMMndiTEtoN3lSdko1M3k4X3o5QXRWVEdpbVBQdVo3WVZWOW15VWdKSlJzT29kekc2bnJqb1N0U3FJNW91OW1DQlRzcEQwVUhsYVRIUE9CVExqODItcXBjNDhhUnl4UzlnNWZ4eUVsbS1SVUxrN1Q4U1BxbzV6RlZzaHBnMUF6cWxVZTExSTZZNGhyREVBc25XaHdtU2RrWS1Senc?oc=5
 
 - Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
   The Strait of Hormuz is a
   🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
 
-- Trump’s blockade of Strait of Hormuz begins: How will India be impacted? - The Times of India
-  The Times of India reports that the US is planning to blockade
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUhJTkpCa2xPTFI5M2s4aDdnYW1QMGFVSVo1SXQxUlBpUzhhSHY5ZndRTXZKcC1FZWI1d2Nvc2NBWEo0Ull2YXlPZzZpc3hOSW1RZmRBbFpIQmVOT2xzX3k4ZG5CelJuUkxmdkt1RWVNcFdJczBSNkRDQmNfblM3YXRQbnhqbS1IMWpmaTZZRHY5UDFNUDd6TlluenE2OU5OX0Y1NlNGQTFfUkJFQ1JJRkhkRlJoOUJvQk1rcG1DYks2R3poYXlfNUhaN0xLSE8zMmV1Mk1nQkpmWFdIOGRJUlo2TkdxWHdzYzg00gHwAUFVX3lxTE5ma3pzdTVINFRMb2N0bWxoVVNfTnlVS0ZJYWdFNmdkR0hWWmdEZEl5elRTRzB5VWNDVEdsTkltVEpkT2RQLVdzUHY0V0h2RG5OeHV1SUZfYlNiaHBhak9VcXZkbXF5Vm5sZ2xESHVJeG1nNFVieEZJaDNLNkpCbTZQWGNQQW5uTEpjTlJMVGtaWUhUSml3cUctbkZ0alV1TW00WS1tU254NGFCc1NzQm5VeWpMeFUzTnE0MURXOVJsRTctNnIzYVdaNXZxM3RoWXNQelRoVkZoOWhEM3NSU3BWbVZheWFja3hjQWVsSURiQw?oc=5
+- Iranian Ambassador thanks India for support in difficult times - News On AIR
+  Iranian Ambassador thanks India for support in difficult
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
 
-- Tear gas fired at India workers demanding higher wages as living costs rise - Al Jazeera
-  &nbsp;&ngt;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlRRVU5uRTc0Y1RKdW1YWmVacF9sWWI5dFktM2QzZmRleUtiM3lobzFuN0ZvS2k4LUFxNHJYeExDa3I4ZkRRR1dJZktBUW5Uck12WlFnMDRXM2RKWllBMGFYQ0VENkR6RjZpYkRTTU81RF85RDUxZUhVNGs5RHlKLXhMR19Jamd3VDVBSV9mNTROMEFxM1ZXVDlLZ1JReTVfOVJlZExzTFBfa2lNQmRPTW1obmZxTmvSAbwBQVVfeXFMUFBJckJwN1FNWDYtdW03OVVVSnNwRXZXQjdvSHE3RTVpaGFrRHI2Um9ncnI2WlY2d3JWQjFqdHhVc2lIUGFJMlZKMjFRYjcwamVMUFM4QTNlT21lNGhEaG9EM2xiM2JSSFhXMXBmaDRxMUZlQWVnV0QxWWFrWkFRcFItcVN1YUY0dGZpdy1Ob0VtYk4ybkxjQmJXNmJsTHhIWnl3MW5QNW1ua3lBNzI4aGhfWVB5NW10TlRVeTg?oc=5
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
 
 - PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
   PM Narendra Modi calls for support on India’s defining reform of 21st
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
+
+- PM Modi writes to India’s Nari Shakti: ‘Women appreciate reservation push’ - Moneycontrol.com
+  PM Modi writes to India’s N
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzAzbmdjYzBYdXVjaEdNOVFudGNkV0VwcVhSNkp3cUFfWUd2NHo0ODZ0WjU1eUxGaldYTEVMcm5SUUdZR1hNTHM0QldacWx5U3FZcUtZcHdocXNpQnRUZXcxZWx6RjBCdlgwdWdxQkZmemFPLWlVdG5uNWZBY2JQcHBJSjBNQV96UW1mYWppQklqd212Mk5TdkZSRHBuVHk2eHdhMU5yZnZIQjMzdmtzWkxidGVlY1RHYlRmcXliZThVTW_SAcgBQVVfeXFMTzdvaDh0NGo1TDIxb2tMZzNNNTdHcy0wN25aVGdMbVZySDFOc3VMMndiTEtoN3lSdko1M3k4X3o5QXRWVEdpbVBQdVo3WVZWOW15VWdKSlJzT29kekc2bnJqb1N0U3FJNW91OW1DQlRzcEQwVUhsYVRIUE9CVExqODItcXBjNDhhUnl4UzlnNWZ4eUVsbS1SVUxrN1Q4U1BxbzV6RlZzaHBnMUF6cWxVZTExSTZZNGhyREVBc25XaHdtU2RrWS1Senc?oc=5
+
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+
+- Iranian Ambassador thanks India for support in difficult times - News On AIR
+  Iranian Ambassador thanks India for support in difficult
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
+
+- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
+  In 1st major outreach, Balen accepts PM Modi's invite
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+
+- PM Narendra Modi calls for support on India’s defining reform of 21st century to empower women - News On AIR
+  PM Narendra Modi calls for support on India’s defining reform of 21st
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlR6eW5sT0dkNEV1RGJjVlNjMThzYmxsb1R2bmYwNzNHQUotdmx0WUZTTnl5WHRXTXVBV3RfLXFERmV0eXZpNzdERmY1RzRhUy01THBhMDJRbllUek1HM245RFBsbTd2cHNHUHhZX3JvOHQ1OEdkeHh6VlB1WUdOaDRlTnFOY2hXenhhbEtNQlBpQWxtdm5wbWRsallRSjRNNGlhSExlcFB2N3FoNENQM0pJSVJicktzMHpWNjFpRHo?oc=5
+
+- PM Modi writes to India’s Nari Shakti: ‘Women appreciate reservation push’ - Moneycontrol.com
+  PM Modi writes to India’s N
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzAzbmdjYzBYdXVjaEdNOVFudGNkV0VwcVhSNkp3cUFfWUd2NHo0ODZ0WjU1eUxGaldYTEVMcm5SUUdZR1hNTHM0QldacWx5U3FZcUtZcHdocXNpQnRUZXcxZWx6RjBCdlgwdWdxQkZmemFPLWlVdG5uNWZBY2JQcHBJSjBNQV96UW1mYWppQklqd212Mk5TdkZSRHBuVHk2eHdhMU5yZnZIQjMzdmtzWkxidGVlY1RHYlRmcXliZThVTW_SAcgBQVVfeXFMTzdvaDh0NGo1TDIxb2tMZzNNNTdHcy0wN25aVGdMbVZySDFOc3VMMndiTEtoN3lSdko1M3k4X3o5QXRWVEdpbVBQdVo3WVZWOW15VWdKSlJzT29kekc2bnJqb1N0U3FJNW91OW1DQlRzcEQwVUhsYVRIUE9CVExqODItcXBjNDhhUnl4UzlnNWZ4eUVsbS1SVUxrN1Q4U1BxbzV6RlZzaHBnMUF6cWxVZTExSTZZNGhyREVBc25XaHdtU2RrWS1Senc?oc=5
+
+- Exclusive: Strait Open For India, US "Miscalculated", Iran's Envoy Tells NDTV - NDTV
+  The Strait of Hormuz is a
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFR4YjRoenBBcFNvRjY2cGJNNE1oRkZSWVVIYjBCbVowemgyTU16dHFIX0xnUUNfbEh0Tk5XdjVDXzhUVUx6aEY3QUJLMEJ6NmJOY2xBZ2ZzUUUzZFQ1UlVpNlFiNnZEWHpWRXdhNlpRUHJxMWN2dnY0WUxtNElNeUxjZUl3YWNrSnlnZWNUbkZ0aHBEMWR5dElDRmpmNzBZU1R3eF9YdFVUZEp2eFg2T0N0OW5WUDR5QUwweFdpcjdLY2lxMmgwN9IB0AFBVV95cUxOWE5JWktkbzllb1NKeml6aWxGSzdiXzVKdmZFb1pCdTlwV00xQ2NsbzFaTzBIaWdIZzNEZXFucUszQ2x1bEtIUUV3UmlhV1lMZUxiMTFYNUlOb1BSdFhGTlJmZEt0NWxINXFwc0FHY1E2OTRMa3FGYkZoTjVHaWFSRTZhU1NnVXFoVE9wcmRaMGpTQlM0Ry1iSDhiQXdsem1zb0FVVUdXODhTclVxZi1IZENXdjl6amI5aEFDT3R5QmVidXJiQzlxWHgxWGkzaGRT?oc=5
+
+- Iranian Ambassador thanks India for support in difficult times - News On AIR
+  Iranian Ambassador thanks India for support in difficult
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmRMenBLYk1zMG0zVFdmNmFZUzl6NXJjMmFQWnRXY2Rpc3c5VUZQWDBqTFgxdjlEY0pWLXJOYzdkZVcya1N6NnpLR2cxcmdDZmFxLXZ0cXMxY0lGYTZCWnIzc0JOSHQ5b3k2bEFEa1ZELWlSNk1DYWJQUnk1ckVhWVhYeVNsNXpTYUtyVDJ2UENvRlZEZUxv?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-14 02:06:48 UTC_
+_Last updated: 2026-04-14 07:27:55 UTC_
