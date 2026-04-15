@@ -1,44 +1,36 @@
 # 📰 Daily News Summaries
 
-- 13 killed as ‘600-degree steam’ engulfs men having lunch at Vedanta’s Chhattisgarh unit
-  
-  🔗 https://indianexpress.com/article/india/vedanta-power-plant-chhattisgarh-600-degree-steam-men-lunch-dead-10636801/
+- "Indian Memes Are GOAT": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video - NDTV
+  "Indian Memes Are GOAT": Iran M
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUc1N0x1aU9YdG1oa0JaNWw1bU5hNkxxLUJHRGlYRDBDYnJzRHczUkhmcmU0NHNFWEU4eFJNNlFVQ2hnQmZsX0xraWxodVlLWjc5OHZVcUc0VTV1bXNaSmFmS3pkb28tUXZpVmFKMjZMMVJkZFdEMGo2YzBmajZwdlVHY19aYWN5czRWanFqLWJOZWtZdnp3c21WcUI4WWtIb2gwU1lQNGotWW1Dbkp2SVN2ZmxDalVxLVFRMDNVdW1jcWN6QUE00gHPAUFVX3lxTE9vMkRZOTFDeU92bE14RC1QenhwaUJZM2E1cTBwRFR4dmQzNGZWMGFKYUpFbjB4RmlTQ0ZVaTNZVHN2aldQeU4zRExDbDN6VmR0ZlNWaklUNTVBWXlXVXMxLXQ4dGQ1cERHeDNwV3cyY0JQSnZEd1lpRTQzRE5xekVNWlF5ZnpXbklyREliNGJHcEpxajFpZGZIQlNueTRxUXRuV0huWU0tS19saGJQMUJGVDVpeTBaeWR2NVZ6c0hXZzRfRE9rTkZYZ2w5YkQxVQ?oc=5
 
-- Days after 28 cops suspended over death of missing girl, Jharkhand Police Association demands action against SP
-  
-  🔗 https://indianexpress.com/article/india/days-after-28-cops-suspended-over-death-of-missing-girl-jharkhand-police-association-demands-action-against-sp-10636666/
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- ‘Bristled with contradictions’: Oppn slams proposed Bills on delimitation, women’s quota
-  
-  🔗 https://indianexpress.com/article/india/delimitation-women-reservation-bill-stalin-revanth-reddy-10636677/
+- 'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz - The Times of India
+  'We all love you', Trump tells PM Modi during 40-min call on
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRi1QSGVHWVFaZEUxUkRVMzF2MmM4bDZTWkp4aUc0dTE3MmlZRk45VnMtMXNCb1NTOENMTXJybTNJNk5RREk0ZGtmYUdCZnJqTndGWmNRVGFpdDBBVUVKMFd5b0s1MFdhZXowandQZ0pwS3YyZklFalFSOUJHSzJjRkxETDgxZkxjX1Z5cFdBX1lYc2ZBa2pMNjg2blEzLVk1Zko5cVlEQmxPcm9peUFDaVRMQ1Q2NXdKRTZnVFRlTld2YndhRlQyLVhuRmNiWmRWQUN3V0ZZTHHSAd4BQVVfeXFMUEMtWEtINDVFMjUtZXJLZkZ1cUF1Y2FrejZjVm9CanUtQ1ZWOHpUMUdPTEkxTEpOMXI3N1pISjJXOF9OUTMzUkpIWWxyMXV4SnBEWnNxZzRPenN5LXphNWtmT0NQMUNUM29pTDZFcFBLUU55SE5MR3RXbHJGVkRxV2RjcE9xOXpHOEdjaksxMldTeDA4SnMyR0QweVJUUjZ3dWFaazFVTTRpWU92RkYxcy16WkVkZElIMXFDTU5rdTZ1YTl0UHYyb2lfSGpEdkxxOUZqWk81SWhwVDh0X2t3?oc=5
 
-- Jaishankar discusses Iran, Hormuz, Lebanon with Israel’s Sa’ar
-  
-  🔗 https://indianexpress.com/article/india/s-jaishankar-gideon-saar-israel-iran-strait-of-hormuz-islamabad-talks-10636624/
+- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
+  PCB chief Mohsin Naqvi trolled for 'long queues at
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
 
-- No wage hike for MG-NREGS workers for now as Centre looks to roll out VB-G RAM G
-  
-  🔗 https://indianexpress.com/article/india/nregs-wage-hike-delay-vb-g-ramg-scheme-2026-10636608/
+- India regains steel net exporter status - The Times of India
+  India regains steel net exporter
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpUNXRiZWxoTTFON1EwZmZvN3VvR0hjb3RKVjBMb2VwUG43TGQzYzFWS1M1cjNHNUZqeHNfYXI0NHhKelpnel93ekpDa01qelY0TUd1dVlaWG5EdHVkb21hZUxzNGVYTWZCOTh4Y2hRMUZPcUV4SVRndzgzT1JaU2dXTDFJVTlIcUF1WE4yeDdMYk1NMDF6VDhHbjdVZjFMNkhxVm9rVzZCd1NFMWpnOXVmRXLSAboBQVVfeXFMTklQUkdLeldLRlNwSnFVdmh4aE9hMXBqbm1DQzQ3d3pKWXM4V05LNzBtSjVHVV84bGg4Tkl1TmRyR2dDdmV1amZ4NWU2ODZfcE5tU0wyN0p6QzVTQXpxM2EzVlNyMUdRQ2w4QnIyczRON2g2V2hTQVRhWFR5UlBqbktEdkdadEhKcXJfLXpuOVhxUFpWMmJ1bTZ5WXBmT2ZlNXFrbmV2TUJBY0NOV2NrZEZYT2k0R1dPaTVn?oc=5
 
-- Are we talking less? Study reveals sharp drop in use of words
-  
-  🔗 https://indianexpress.com/article/technology/science/are-we-talking-less-study-reveals-sharp-drop-in-use-of-words-10636421/
+- Racing driver Jehan Daruvala changes lanes, joins Sterling and Wilson Group to redefine his 'fast track' career
+  The fourth-generation scion, 27, has swapped race suits for a corporate role. He is embracing a new kind of 'fast track' by
+  🔗 https://www.livemint.com/companies/news/racing-driver-jehan-daruvala-sterling-and-wilson-group-fourth-generation-scion-solar-plants-data-centres-11776164617271.html
 
-- Poco X8 Pro Max review : A mid-ranger with battery life that could outlive your weekend
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/poco-x8-pro-max-review-10636310/
+- Rising digital ad costs push brands to rethink e-commerce growth strategy
+  Brands are moving beyond marketplace-led growth, focusing on retention and efficiency. declining ad returns and rising
+  🔗 https://www.livemint.com/companies/rising-digital-ad-costs-push-brands-to-rethink-e-commerce-growth-strategy-11776158925396.html
 
-- Vivo X300 Ultra, Vivo X300 FE: Expected specs, camera, launch timeline, and more
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/vivo-x300-ultra-vivo-x300-fe-expected-specs-camera-launch-timeline-and-more-10636199/
-
-- India has 50K-strong AI talent pool but leads world in net outflows: Stanford University report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-talent-adoption-stanford-ai-index-2026-key-findings-10636268/
-
-- AI hiring humans? Startup tests real-time retail agent in San Francisco
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-hiring-humans-startup-tests-real-time-retail-agent-in-san-francisco-10636158/
+- Pittsburgh Post-Gazette announces it has found a buyer to keep the newspaper open
+  Pittsburgh Post-Gazette announces
+  🔗 https://www.livemint.com/companies/pittsburgh-post-gazette-announces-it-has-found-a-buyer-to-keep-the-newspaper-open-11776194648971.html
 
 - Fintech SumUp Lines Up Banks for Possible London IPO
   SumUp Payments Ltd. is lining up investment banks to arrange a potential initial public offering in London, people familiar with the matter say.
@@ -48,37 +40,29 @@
   BoE sees major cybersecurity
   🔗 https://www.livemint.com/companies/boes-bailey-sees-major-cybersecurity-risks-in-new-anthropic-model-11776191576137.html
 
-- ‘300 employees laid off without notice’: Zoho responds to viral post alleging mass layoffs
-  Zoho clarified that the post confused its internship programme with full-time employment. According
-  🔗 https://www.livemint.com/companies/300-employees-laid-off-without-notice-zoho-responds-to-viral-post-alleging-mass-layoffs-11776185299554.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 15 April 2026
+  The Indian stock market ended Monday's session with sharp losses. Sumeet Bagadia
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-15-april-2026-11776216228542.html
 
-- Race for AI-developed drugs heats up: Wegovy-maker Novo Nordisk ties up with OpenAI after rival Eli Lilly seals deal
-  Danish drugmaker Novo Nordisk is partnering with ChatGPT's parent company, OpenAI. The development comes as pharma companies are
-  🔗 https://www.livemint.com/companies/news/race-for-ai-developed-drugs-heats-up-wegovy-maker-novo-nordisk-ties-up-with-openai-after-rival-eli-lilly-seals-deal-11776169265644.html
+- From Gift Nifty, US-Iran talks, Wall Street rally to oil prices: 8 things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,228 level, a premium of nearly 370 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-talks-wall-street-rally-to-oil-prices-8-things-that-changed-for-indian-stock-market-overnight-11776216789716.html
 
-- Everstone invests $270 million in Apothecon Group for a significant stake
-  Everstone said it will focus on accelerating the company’s product pipeline, expanding
-  🔗 https://www.livemint.com/companies/news/everstone-capital-investment-apothecon-group-speciality-pharma-india-us-11776161043339.html
+- Dollar and VIX Are Back in Tandem as Iran War Usurps Tariff Bets
+  The dollar’s traditional relationship with equity market volatility has been revived by the war in Iran.
+  🔗 https://www.livemint.com/market/dollar-and-vix-are-back-in-tandem-as-iran-war-usurps-tariff-bets-11776216485374.html
 
-- Indian stock market: Gift Nifty rebounds 350 points as crude oil prices ease on Iran peace talk hopes
-  GIFT Nifty is up 350 points, signaling potential market recovery after Monday's losses. renewed hope for US-Iran peace talks. Crude prices retreated sharply
-  🔗 https://www.livemint.com/market/indian-stock-market-gift-nifty-rebounds-350-points-as-crude-oil-prices-ease-on-iran-peace-talk-hopes-11776186462646.html
+- Dollar and VIX Back in Tandem as Iran War Usurps Tariff Bets
+  The dollar’s traditional relationship with equity market volatility has been revived by the war in Iran.
+  🔗 https://www.livemint.com/market/dollar-and-vix-back-in-tandem-as-iran-war-usurps-tariff-bets-11776216485928.html
 
-- Bloom Energy shares surge over 20% to record high after securing major Oracle data centre power deal
-  Bloom Energy's shares rose 24% to a record $218.68 after signing a deal to supply 2.8 gigawatts of fuel cell energy systems for Oracle's
-  🔗 https://www.livemint.com/market/stock-market-news/bloom-energy-shares-surge-over-20-to-record-high-after-securing-major-oracle-data-centre-power-deal-11776181610984.html
+- Gold, silver rates today: Precious metals hold gains on renewed hopes for US-Iran talks. Where are prices headed?
+  Gold, silver rates today held gains on Wednesday, April 15, on renewed optimism for US-Iran war ceasefire talks.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-precious-metals-hold-gains-on-renewed-hopes-for-us-iran-talks-where-are-prices-headed-11776213854002.html
 
-- Axis MF sees opportunity in gilt funds, backs corporate bonds for stability amid market volatility
-   Axis Mutual Fund's report highlights the impact of the West Asia war on global bond yields and energy sectors.
-  🔗 https://www.livemint.com/market/bonds/axis-mf-sees-opportunity-in-gilt-funds-backs-corporate-bonds-for-stability-amid-market-volatility-investors-11776173795689.html
-
-- Gold, silver rates today: Comex gold jumps $64/oz; silver rises $3.4/oz on hopes of fresh US-Iran peace talks
-  Precious metals saw increased buying on 14 April amid optimism for US-Iran peace talks. Gold futures surged by $64, while silver gained $3.45.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-64-oz-silver-rises-3-4-oz-on-hopes-of-fresh-us-iran-peace-talks-11776175687097.html
-
-- Wall Street edges higher on fresh efforts to ease Middle East conflict; Amazon jumps 3.3%, BlackRock gains 4.5%
-  The S&amp;amp;P 500 rose 1%, the Dow Jones Industrial Average was up 0
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-on-fresh-efforts-to-ease-the-middle-east-conflict-11776174536466.html
+- OpenAI launches a less restricted GPT-5.4 Cyber model, but you won't find it on ChatGPT
+  OpenAI has introduced the GPT-5.4 Cyber model its new model tailored for defensive cybersecurity tasks. The model is designed to assist
+  🔗 https://www.livemint.com/technology/tech-news/openai-launches-a-less-restricted-gpt-5-4-cyber-model-but-you-wont-find-it-on-chatgpt-11776214141205.html
 
 - Meta’s Muse Spark: Mark Zuckerberg's AI reset raises uncomfortable questions about jobs, data and its future
   What looks like a product upgrade is really a deeper structural shift. It could redefine jobs,
@@ -96,129 +80,105 @@
   Realme has introduced the Narzo 100 Lite 5G in India. It features a 6.8-inch HD+
   🔗 https://www.livemint.com/technology/gadgets/realme-narzo-100-lite-5g-with-6-8-inch-144hz-display-and-7-000mah-battery-launched-price-starts-at-rs-13999-11776149673156.html
 
-- Hackers breach Booking.com as Dutch travel giant warns users over stolen data
-  Booking.com confirms a data breach where hackers accessed customers' personal information.
-  🔗 https://www.livemint.com/technology/tech-news/hackers-breach-booking-com-as-dutch-travel-giant-warns-users-over-stolen-data-11776138951940.html
+- Bitcoin climbs to 4-week high of $74,945
+  Since its crash from an all-time high of $126,000 in October, Bitcoin has
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-4-week-high-of-74945/articleshow/130270945.cms
 
-- S&P 500 marches higher one day after benchmark wipes out Iran war losses: Live updates - CNBC
-  Oil prices continue to fall on hopes of new US-Iran peace talks.
-  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE03ZGpnREIteEV0Y0FlZlpGMTYwQU5kYlIxWWhDRzR4NjJQUGtyRXA0dmlGbXB5emxEaWp0QnJaWENPYTBydzlrTkFhTmdVTjFJLUZzM0h4NDYybVhHZmZsQjhuSHBablhHOVlaNmR3QTJLalQwVjFqedIBfkFVX3lxTE95VWVOM1JNTEV0SzB6a3daZlBfbDJZNUZZWmVfZlNMNm1qdlltSzVFVnAyRjJKVGoxMUxRVnh5TFRja0gxa2x2Q0lXRE1zRTRfX2w0WTg5Tk5XOFVWOE82WldORXh4NFp5MTVwVFhncnlGX01OajNiSEtOZXVMQQ?oc=5
+- RBI rejects banks’ request to spread out Q4 treasury losses
+  The RBI has declined banks’ request to stagger provisions for likely MTM losses in the March quarter. Banks had sought relief to cushion the impact of rising bond yields and a late-imposed $100
+  🔗 https://economictimes.indiatimes.com/markets/bonds/rbi-rejects-banks-request-to-spread-out-q4-treasury-losses/articleshow/130270856.cms
 
-- Stocks Rise, Oil Prices Slide on Peace Push Hopes: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjhHRWVTbW1IM0dxTHFEd0h1bmJjeWdFV0IzdHA0d29lbXM4U0RwRGNLQ2lNNlpxUEVHWUIwZDhoZUhJTjNjN2tXM3N2em1JeVdKelNGeTdCcVJ4aGR1NXdaUnlzdVh2ZFpTUjg0c2JRLWxCdG84ODNYbDBDUWtiY3F5MzJqT0k5NjlVNDJ0Wm9kSEN5?oc=5
+- D-Street gets a bit of momentum, don’t take it for long bounce
+  The share of NSE’s top 500 stocks trading above their 50-day moving average rose to 49% from 18% during the peak of the West Asia conflict.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/d-street-gets-a-bit-of-momentum-dont-take-it-for-long-bounce/articleshow/130270810.cms
 
-- Stock Market Today: Major Indexes Jump, Led by Tech Stocks; Oil Pulls Back on Iran Peace Progress Signs; Wholesale Inflation Rises Less Than Expected - Investopedia
-  Stock Market Today: Major Indexes Jump, Led by Tech Stocks. Oil Pulls Back on Iran Peace
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjhhV2JEc0I3bV80VWxqX0p6R0hUZmxiaFZSX1VnOVZjR1NjVFlSd1BwcDRaS2IxX0Q4al8wTmhVTk1lNGN3Skg5b1dqcnBsTGp6U3hOVHcxYkcyYU1mX1dZYlBHMHhYR2hYNFdPOUQyOWpTdHFRSmRIMFdLaXZSU01mbE15b2NHZ1l1OFNlVkc?oc=5
+- Global Markets | Asian stocks track US rally on Iran peace push
+  Asian markets opened higher, mirroring Wall Street's positive trend. Hopes for further United States-Iran talks have boosted investor confidence. This optimism is also contributing to a decrease in oil prices.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gloabl-markets-asian-stocks-track-us-rally-on-iran-peace-push/articleshow/130270782.cms
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: S&P, Nasdaq surge 1% as Trump announces second round of ... - The Economic Times
-  The Economic Times reports that the White House is considering a second round of tax cuts for the wealthy.
-  🔗 https://news.google.com/rss/articles/CBMirAJBVV95cUxOZEFXLXBNUWNEb0Y3MS1wTV81Tm9qaXdWM1Q5WVJWTjNTak42dzl3amFyTXN4TzlyZWJoWE5kQ0R0cnduZmpEMzNYVkltNUh5QXZFT1BkV3lFRmF4RXU3Qk44a0NERHRvbTdXa0xrRzlvSW1UREdONThXNE9HQlR3V2djZEZWN1F0Q3VnTHlPR21BcXVCTTV1a0VqNnZEa3FZZXdVWTVCdHprSThwRWdabDg0b3VNVU54ZGdXZHd3R295Ri12bTNwY0FDN3dEamV3dFp3WGZ0U0dhMGl1Q2o5LVlBMzlNNFpEZFlLMDduSC1qRGZDWmsyc0kzbW5tdExiSWV5N3hfaFE1NkRsYU9xai14d1hqQ3FSN2hNa2NlRmtYUloweklRRERTWXHSAbICQVVfeXFMUEdEb21vYm9BSVhQMzBwS1RlVG91VGRwVF9hNlQ2cGpsbXg1VDFpWXFjc0JsZHh5SGx0SWEyVXZaNGwtNWhWaEp1ZFFVLURoenJNbFNfcEhfQ1Z1Rk9tdXkwM1FwTzNfdkhoWjZfNGh3SnRZMkpkb1h5NDQtV20xYm5pdTZZSjV3Y2xlRnBUcEQwVmFFWXM5Tlo5cmx0VlJOa0U0YVBsYmVnc2pIMTNyemE2by1VUG1FOWtveEdFMGctaGd2amgwMWkyT3RqTkluZV9DV1lGdUtMTVc4QkwyY08taVpWR2hXVkZzSGs2VXh6ekpGelpUSGZpd0owZGgzRWMyLTl1RFlmQWxPY3VRbm1wanR2aTZVNWk4OW9iQzlzSDM0TVEzdDZYcTM5Um1Mb21B?oc=5
+- GIFT Nifty jumps over 300 pts, signals positive start; here's the trading setup
+  Indian markets saw a strong rebound after six weeks of decline. Hopes for a US-Iran ceasefire initially supported the rally. However, the collapse of peace talks and rising tensions led to market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-over-300-pts-signals-positive-start-heres-the-trading-setup/articleshow/130270742.cms
 
-- Markets still concerned with credit event despite strong bank earnings: G Squared's Victoria Greene - CNBC
-  Markets still concerned with credit event despite strong bank earnings,
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTDhkZGxQVEdKOUZ2S0lMR3AzV0VCcEtrY1pQWXNzeUgxbXRJZ2RZN2dyVEcxSUpOTGFLWl9Pcy0zRFA5aEI0MjJnWWZjV1g3bTRGa1d3TmRFN1hYcVNVdXA0ZnlHQXByY1pSRF9wRzJMX1hqZlZPSFZtbEZ6aWdLOHJtQVJZNHhiZGM5dWRYT0pEQUxNSDI5ck5pMFZEQjZWbU80bEdfaGdkOTAzaVEydHNQbzBJVUJpcXBkYVFHeVRWeF85bjlQVHlabm9iS2tmTWJNWU5YWQ?oc=5
+- "Indian Memes Are GOAT": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video - NDTV
+  "Indian Memes Are GOAT": Iran M
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUc1N0x1aU9YdG1oa0JaNWw1bU5hNkxxLUJHRGlYRDBDYnJzRHczUkhmcmU0NHNFWEU4eFJNNlFVQ2hnQmZsX0xraWxodVlLWjc5OHZVcUc0VTV1bXNaSmFmS3pkb28tUXZpVmFKMjZMMVJkZFdEMGo2YzBmajZwdlVHY19aYWN5czRWanFqLWJOZWtZdnp3c21WcUI4WWtIb2gwU1lQNGotWW1Dbkp2SVN2ZmxDalVxLVFRMDNVdW1jcWN6QUE00gHPAUFVX3lxTE9vMkRZOTFDeU92bE14RC1QenhwaUJZM2E1cTBwRFR4dmQzNGZWMGFKYUpFbjB4RmlTQ0ZVaTNZVHN2aldQeU4zRExDbDN6VmR0ZlNWaklUNTVBWXlXVXMxLXQ4dGQ1cERHeDNwV3cyY0JQSnZEd1lpRTQzRE5xekVNWlF5ZnpXbklyREliNGJHcEpxajFpZGZIQlNueTRxUXRuV0huWU0tS19saGJQMUJGVDVpeTBaeWR2NVZ6c0hXZzRfRE9rTkZYZ2w5YkQxVQ?oc=5
 
-- Oracle shares gain 4%, extend rally after AI-driven power deal with Bloom Energy
-  Oracle shares extended gains after a major energy deal with Bloom Energy to secure 2.8 GW of fuel cell capacity for AI-driven data centres.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-gain-4-extend-rally-after-ai-driven-power-deal-with-bloom-energy/articleshow/130263577.cms
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- US Stocks: BlackRock shares jump 4% after reporting strong first quarter profit
-  BlackRock reported $130 billion in net inflows and rising profitability despite weak broader market conditions and private market volatility concerns.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-blackrock-shares-jump-4-after-reporting-strong-first-quarter-profit/articleshow/130263331.cms
+- 'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz - The Times of India
+  'We all love you', Trump tells PM Modi during 40-min call on
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRi1QSGVHWVFaZEUxUkRVMzF2MmM4bDZTWkp4aUc0dTE3MmlZRk45VnMtMXNCb1NTOENMTXJybTNJNk5RREk0ZGtmYUdCZnJqTndGWmNRVGFpdDBBVUVKMFd5b0s1MFdhZXowandQZ0pwS3YyZklFalFSOUJHSzJjRkxETDgxZkxjX1Z5cFdBX1lYc2ZBa2pMNjg2blEzLVk1Zko5cVlEQmxPcm9peUFDaVRMQ1Q2NXdKRTZnVFRlTld2YndhRlQyLVhuRmNiWmRWQUN3V0ZZTHHSAd4BQVVfeXFMUEMtWEtINDVFMjUtZXJLZkZ1cUF1Y2FrejZjVm9CanUtQ1ZWOHpUMUdPTEkxTEpOMXI3N1pISjJXOF9OUTMzUkpIWWxyMXV4SnBEWnNxZzRPenN5LXphNWtmT0NQMUNUM29pTDZFcFBLUU55SE5MR3RXbHJGVkRxV2RjcE9xOXpHOEdjaksxMldTeDA4SnMyR0QweVJUUjZ3dWFaazFVTTRpWU92RkYxcy16WkVkZElIMXFDTU5rdTZ1YTl0UHYyb2lfSGpEdkxxOUZqWk81SWhwVDh0X2t3?oc=5
 
-- US Stocks: Globalstar shares surge 10% as Amazon strikes $11.6 billion deal, rivaling Elon Musk's Starlink
-  Globalstar shares surged after Amazon announced a $11.57 billion acquisition to expand its satellite internet ambitions. The deal boosts Project Kuiper, accelerates L
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-globalstar-shares-surge-10-as-amazon-strikes-11-6-billion-deal-rivaling-elon-musks-starlink/articleshow/130263192.cms
+- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
+  PCB chief Mohsin Naqvi trolled for 'long queues at
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets ended lower as stalled US-Iran talks triggered broad selling across sectors. Nifty and Sensex declined sharply, though technical indicators suggest near-term uptrend remains
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/130262851.cms
+- India regains steel net exporter status - The Times of India
+  India regains steel net exporter
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpUNXRiZWxoTTFON1EwZmZvN3VvR0hjb3RKVjBMb2VwUG43TGQzYzFWS1M1cjNHNUZqeHNfYXI0NHhKelpnel93ekpDa01qelY0TUd1dVlaWG5EdHVkb21hZUxzNGVYTWZCOTh4Y2hRMUZPcUV4SVRndzgzT1JaU2dXTDFJVTlIcUF1WE4yeDdMYk1NMDF6VDhHbjdVZjFMNkhxVm9rVzZCd1NFMWpnOXVmRXLSAboBQVVfeXFMTklQUkdLeldLRlNwSnFVdmh4aE9hMXBqbm1DQzQ3d3pKWXM4V05LNzBtSjVHVV84bGg4Tkl1TmRyR2dDdmV1amZ4NWU2ODZfcE5tU0wyN0p6QzVTQXpxM2EzVlNyMUdRQ2w4QnIyczRON2g2V2hTQVRhWFR5UlBqbktEdkdadEhKcXJfLXpuOVhxUFpWMmJ1bTZ5WXBmT2ZlNXFrbmV2TUJBY0NOV2NrZEZYT2k0R1dPaTVn?oc=5
 
-- Bessent says confident that core inflation is going down, Fed will need to cut rates
-  U.S. Treasury Secretary Scott Bessent says core inflation will continue to go down. He repeated his call for the Federal Reserve to cut its interest rates.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-says-confident-that-core-inflation-is-going-down-fed-will-need-to-cut-rates/articleshow/130262719.cms
+- "Indian Memes Are GOAT": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video - NDTV
+  "Indian Memes Are GOAT": Iran M
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUc1N0x1aU9YdG1oa0JaNWw1bU5hNkxxLUJHRGlYRDBDYnJzRHczUkhmcmU0NHNFWEU4eFJNNlFVQ2hnQmZsX0xraWxodVlLWjc5OHZVcUc0VTV1bXNaSmFmS3pkb28tUXZpVmFKMjZMMVJkZFdEMGo2YzBmajZwdlVHY19aYWN5czRWanFqLWJOZWtZdnp3c21WcUI4WWtIb2gwU1lQNGotWW1Dbkp2SVN2ZmxDalVxLVFRMDNVdW1jcWN6QUE00gHPAUFVX3lxTE9vMkRZOTFDeU92bE14RC1QenhwaUJZM2E1cTBwRFR4dmQzNGZWMGFKYUpFbjB4RmlTQ0ZVaTNZVHN2aldQeU4zRExDbDN6VmR0ZlNWaklUNTVBWXlXVXMxLXQ4dGQ1cERHeDNwV3cyY0JQSnZEd1lpRTQzRE5xekVNWlF5ZnpXbklyREliNGJHcEpxajFpZGZIQlNueTRxUXRuV0huWU0tS19saGJQMUJGVDVpeTBaeWR2NVZ6c0hXZzRfRE9rTkZYZ2w5YkQxVQ?oc=5
 
-- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
-  "It's For India To Decide": US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
-  In 1st major outreach, Balen accepts PM Modi's invite
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+- 'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz - The Times of India
+  'We all love you', Trump tells PM Modi during 40-min call on
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRi1QSGVHWVFaZEUxUkRVMzF2MmM4bDZTWkp4aUc0dTE3MmlZRk45VnMtMXNCb1NTOENMTXJybTNJNk5RREk0ZGtmYUdCZnJqTndGWmNRVGFpdDBBVUVKMFd5b0s1MFdhZXowandQZ0pwS3YyZklFalFSOUJHSzJjRkxETDgxZkxjX1Z5cFdBX1lYc2ZBa2pMNjg2blEzLVk1Zko5cVlEQmxPcm9peUFDaVRMQ1Q2NXdKRTZnVFRlTld2YndhRlQyLVhuRmNiWmRWQUN3V0ZZTHHSAd4BQVVfeXFMUEMtWEtINDVFMjUtZXJLZkZ1cUF1Y2FrejZjVm9CanUtQ1ZWOHpUMUdPTEkxTEpOMXI3N1pISjJXOF9OUTMzUkpIWWxyMXV4SnBEWnNxZzRPenN5LXphNWtmT0NQMUNUM29pTDZFcFBLUU55SE5MR3RXbHJGVkRxV2RjcE9xOXpHOEdjaksxMldTeDA4SnMyR0QweVJUUjZ3dWFaazFVTTRpWU92RkYxcy16WkVkZElIMXFDTU5rdTZ1YTl0UHYyb2lfSGpEdkxxOUZqWk81SWhwVDh0X2t3?oc=5
 
-- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
-  Delhi Lt Governor Appreciates Police
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
+- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
+  PCB chief Mohsin Naqvi trolled for 'long queues at
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
 
-- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
-  Ambedkar’s thoughts still relevant to
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
+- India regains steel net exporter status - The Times of India
+  India regains steel net exporter
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpUNXRiZWxoTTFON1EwZmZvN3VvR0hjb3RKVjBMb2VwUG43TGQzYzFWS1M1cjNHNUZqeHNfYXI0NHhKelpnel93ekpDa01qelY0TUd1dVlaWG5EdHVkb21hZUxzNGVYTWZCOTh4Y2hRMUZPcUV4SVRndzgzT1JaU2dXTDFJVTlIcUF1WE4yeDdMYk1NMDF6VDhHbjdVZjFMNkhxVm9rVzZCd1NFMWpnOXVmRXLSAboBQVVfeXFMTklQUkdLeldLRlNwSnFVdmh4aE9hMXBqbm1DQzQ3d3pKWXM4V05LNzBtSjVHVV84bGg4Tkl1TmRyR2dDdmV1amZ4NWU2ODZfcE5tU0wyN0p6QzVTQXpxM2EzVlNyMUdRQ2w4QnIyczRON2g2V2hTQVRhWFR5UlBqbktEdkdadEhKcXJfLXpuOVhxUFpWMmJ1bTZ5WXBmT2ZlNXFrbmV2TUJBY0NOV2NrZEZYT2k0R1dPaTVn?oc=5
 
-- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
-  Southern States To Benefit Despite Smaller Population:
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
+- "Indian Memes Are GOAT": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video - NDTV
+  "Indian Memes Are GOAT": Iran M
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUc1N0x1aU9YdG1oa0JaNWw1bU5hNkxxLUJHRGlYRDBDYnJzRHczUkhmcmU0NHNFWEU4eFJNNlFVQ2hnQmZsX0xraWxodVlLWjc5OHZVcUc0VTV1bXNaSmFmS3pkb28tUXZpVmFKMjZMMVJkZFdEMGo2YzBmajZwdlVHY19aYWN5czRWanFqLWJOZWtZdnp3c21WcUI4WWtIb2gwU1lQNGotWW1Dbkp2SVN2ZmxDalVxLVFRMDNVdW1jcWN6QUE00gHPAUFVX3lxTE9vMkRZOTFDeU92bE14RC1QenhwaUJZM2E1cTBwRFR4dmQzNGZWMGFKYUpFbjB4RmlTQ0ZVaTNZVHN2aldQeU4zRExDbDN6VmR0ZlNWaklUNTVBWXlXVXMxLXQ4dGQ1cERHeDNwV3cyY0JQSnZEd1lpRTQzRE5xekVNWlF5ZnpXbklyREliNGJHcEpxajFpZGZIQlNueTRxUXRuV0huWU0tS19saGJQMUJGVDVpeTBaeWR2NVZ6c0hXZzRfRE9rTkZYZ2w5YkQxVQ?oc=5
 
-- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
-  "It's For India To Decide": US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
-  In 1st major outreach, Balen accepts PM Modi's invite
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+- 'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz - The Times of India
+  'We all love you', Trump tells PM Modi during 40-min call on
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRi1QSGVHWVFaZEUxUkRVMzF2MmM4bDZTWkp4aUc0dTE3MmlZRk45VnMtMXNCb1NTOENMTXJybTNJNk5RREk0ZGtmYUdCZnJqTndGWmNRVGFpdDBBVUVKMFd5b0s1MFdhZXowandQZ0pwS3YyZklFalFSOUJHSzJjRkxETDgxZkxjX1Z5cFdBX1lYc2ZBa2pMNjg2blEzLVk1Zko5cVlEQmxPcm9peUFDaVRMQ1Q2NXdKRTZnVFRlTld2YndhRlQyLVhuRmNiWmRWQUN3V0ZZTHHSAd4BQVVfeXFMUEMtWEtINDVFMjUtZXJLZkZ1cUF1Y2FrejZjVm9CanUtQ1ZWOHpUMUdPTEkxTEpOMXI3N1pISjJXOF9OUTMzUkpIWWxyMXV4SnBEWnNxZzRPenN5LXphNWtmT0NQMUNUM29pTDZFcFBLUU55SE5MR3RXbHJGVkRxV2RjcE9xOXpHOEdjaksxMldTeDA4SnMyR0QweVJUUjZ3dWFaazFVTTRpWU92RkYxcy16WkVkZElIMXFDTU5rdTZ1YTl0UHYyb2lfSGpEdkxxOUZqWk81SWhwVDh0X2t3?oc=5
 
-- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
-  Delhi Lt Governor Appreciates Police
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
+- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
+  PCB chief Mohsin Naqvi trolled for 'long queues at
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
 
-- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
-  Ambedkar’s thoughts still relevant to
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
+- India regains steel net exporter status - The Times of India
+  India regains steel net exporter
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpUNXRiZWxoTTFON1EwZmZvN3VvR0hjb3RKVjBMb2VwUG43TGQzYzFWS1M1cjNHNUZqeHNfYXI0NHhKelpnel93ekpDa01qelY0TUd1dVlaWG5EdHVkb21hZUxzNGVYTWZCOTh4Y2hRMUZPcUV4SVRndzgzT1JaU2dXTDFJVTlIcUF1WE4yeDdMYk1NMDF6VDhHbjdVZjFMNkhxVm9rVzZCd1NFMWpnOXVmRXLSAboBQVVfeXFMTklQUkdLeldLRlNwSnFVdmh4aE9hMXBqbm1DQzQ3d3pKWXM4V05LNzBtSjVHVV84bGg4Tkl1TmRyR2dDdmV1amZ4NWU2ODZfcE5tU0wyN0p6QzVTQXpxM2EzVlNyMUdRQ2w4QnIyczRON2g2V2hTQVRhWFR5UlBqbktEdkdadEhKcXJfLXpuOVhxUFpWMmJ1bTZ5WXBmT2ZlNXFrbmV2TUJBY0NOV2NrZEZYT2k0R1dPaTVn?oc=5
 
-- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
-  Southern States To Benefit Despite Smaller Population:
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
+- "Indian Memes Are GOAT": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video - NDTV
+  "Indian Memes Are GOAT": Iran M
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUc1N0x1aU9YdG1oa0JaNWw1bU5hNkxxLUJHRGlYRDBDYnJzRHczUkhmcmU0NHNFWEU4eFJNNlFVQ2hnQmZsX0xraWxodVlLWjc5OHZVcUc0VTV1bXNaSmFmS3pkb28tUXZpVmFKMjZMMVJkZFdEMGo2YzBmajZwdlVHY19aYWN5czRWanFqLWJOZWtZdnp3c21WcUI4WWtIb2gwU1lQNGotWW1Dbkp2SVN2ZmxDalVxLVFRMDNVdW1jcWN6QUE00gHPAUFVX3lxTE9vMkRZOTFDeU92bE14RC1QenhwaUJZM2E1cTBwRFR4dmQzNGZWMGFKYUpFbjB4RmlTQ0ZVaTNZVHN2aldQeU4zRExDbDN6VmR0ZlNWaklUNTVBWXlXVXMxLXQ4dGQ1cERHeDNwV3cyY0JQSnZEd1lpRTQzRE5xekVNWlF5ZnpXbklyREliNGJHcEpxajFpZGZIQlNueTRxUXRuV0huWU0tS19saGJQMUJGVDVpeTBaeWR2NVZ6c0hXZzRfRE9rTkZYZ2w5YkQxVQ?oc=5
 
-- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
-  "It's For India To Decide": US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
-  In 1st major outreach, Balen accepts PM Modi's invite
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
+- 'We all love you', Trump tells PM Modi during 40-min call on Iran war, Hormuz - The Times of India
+  'We all love you', Trump tells PM Modi during 40-min call on
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRi1QSGVHWVFaZEUxUkRVMzF2MmM4bDZTWkp4aUc0dTE3MmlZRk45VnMtMXNCb1NTOENMTXJybTNJNk5RREk0ZGtmYUdCZnJqTndGWmNRVGFpdDBBVUVKMFd5b0s1MFdhZXowandQZ0pwS3YyZklFalFSOUJHSzJjRkxETDgxZkxjX1Z5cFdBX1lYc2ZBa2pMNjg2blEzLVk1Zko5cVlEQmxPcm9peUFDaVRMQ1Q2NXdKRTZnVFRlTld2YndhRlQyLVhuRmNiWmRWQUN3V0ZZTHHSAd4BQVVfeXFMUEMtWEtINDVFMjUtZXJLZkZ1cUF1Y2FrejZjVm9CanUtQ1ZWOHpUMUdPTEkxTEpOMXI3N1pISjJXOF9OUTMzUkpIWWxyMXV4SnBEWnNxZzRPenN5LXphNWtmT0NQMUNUM29pTDZFcFBLUU55SE5MR3RXbHJGVkRxV2RjcE9xOXpHOEdjaksxMldTeDA4SnMyR0QweVJUUjZ3dWFaazFVTTRpWU92RkYxcy16WkVkZElIMXFDTU5rdTZ1YTl0UHYyb2lfSGpEdkxxOUZqWk81SWhwVDh0X2t3?oc=5
 
-- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
-  Delhi Lt Governor Appreciates Police
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
+- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
+  PCB chief Mohsin Naqvi trolled for 'long queues at
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
 
-- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
-  Ambedkar’s thoughts still relevant to
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
-
-- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
-  Southern States To Benefit Despite Smaller Population:
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
-
-- "It's For India To Decide": US Envoy On Role In Middle East Peace Process - NDTV
-  "It's For India To Decide": US Envoy
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXFSbXc1aVUzNWNCVGtNZC0xSDNqekpMeXNSeVAxTzlEZi1QenB4RnRZX1JmMkszWnNYOUMtT2c3NUNkVGlrVVM5bmFWT2gzWmxVX1ZTTEVnMWZHQmRMRGpFclhMTHBlcXBpMlNFS2V6OFZPSGZYVkdKdnpfYk1WZzlSeDJ4SUM2VE1KUkdzblQySjVEN0QxYkVROGNSQ1NKQ1RYU3VIYS13Uk1mbU1YS0xMWFNlTTh2YWxhLVV6UlHSAcgBQVVfeXFMUFAyLTdma3VSUm9mT0pPcUl3NjRMcnlaYzFjUXV3NEhqbWpibjJUeWU3dG1lQlR3bnN1VEFXR0lYTkdiRTl2a2FCZHBiNHBYZm5rQ2x2VEI0cngxOUdwbThvZWdKeUxfR1ZZVVhacEp6S2xkMlk2N1ppaVEwUlhsRVVQcktpR3haTTM0YmROVk9kaS0wbUN4dVQ0eE5reHk4ZWpBcjFOMGowOTNXWnNhOFpNNXBKUGdzNnAxb1AtWThEcXAxWV9HZTM?oc=5
-
-- In 1st major outreach, Balen accepts PM Modi's invite to visit India - The Times of India
-  In 1st major outreach, Balen accepts PM Modi's invite
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwR01BbGRkSXI3SVIxLWE3ZGxPR20zVU5SckRRSk9MaEtrMlc0S0ZOcHNEcTR6akFPZmI2cldNLVc0Y0lYQUVaU29fLW1hZHVnOXVGZzRMZ1c0SGdZc3FTOUFvZUVrOURrenFzWmw2YVZnRkNvMHRHYURRSkNiV3QyaXFvS2c2QU0tRWlORnd5eFVNMVNqdGk0Vkdfdkt3N1ZtMkNnT19IMFhpNUd6UkJlYUVtVUdUSzEyci05NHE1N1RWaFNVanRwUWhDVVXSAdQBQVVfeXFMUGdjZnU0bFZPaWp6VkRQT3dydUJKWEJYNVQ2ZlpLRGY0Z3ZXaG1uQzBGaDRKYXlZbDcyU1VWRFJFTGN4ZUxGbEhPUDBpcnJiSWotZTRVV3B4VUVKOUdBNDA5M2VqM0lya3Y3YWJGTm4ydWtncVktNHlXYml0Z2JyUDVGT0xKZnV2Tkh2TFVhZmJZam1xMVBOYjZvT0ZQTmd2WXZJZ2ttMnMzOGMybGtPMHpoSFo4bENvNEtIVUdPTGdTN1NfeTBYN2VSaEdRdmZIUUoyekk?oc=5
-
-- Delhi Lt Governor Appreciates Police Action In Brigadier Assault Case - NDTV
-  Delhi Lt Governor Appreciates Police
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPekw1bGJZa0h3YVQ4WndRbWZXUTZSQmlYaDRwcTF3WEJGUnZYZnNqcTNBUlBDcGh3Zjd5TzA4YWhOZlFtUlVIaEZVX0x1X1owRTVVQUo4NmJUVEwycUhtRjBFMEgzTEF0ZGY4UllBbXgxOFFadDBSRzlJbjdraDlqS3BhSFlWRzU3U2N4WWwwSzhlOUYxUlUycEJkdU1xMmRYTGl1cjh0aFRhVVRDWWlMc29NWndWZm5KYThfb2d0ZWdUbUJTeXlhV1VuSGXSAdQBQVVfeXFMTllweWUxN0wxSVZvQUdLQnRsclpwSkF6Q1hJcGtDdDVtUW5Fd2FrVVpubWVTaE1FVlF2VDhYYmVLRTM2VjgxVzRnX3VTTGRFbV9pZ0NZb2VKaFB4bjVmNEFqYlZ4dkpJNF80OThGOVZxZ2VfdVNQbTU4OENfa1JWd1RkVXRjZ1ZOenZmOEI5SmRoOUNLWW5UZTZzeHhtT3hGdjZwa3BvZFlQN1Mzdi1CckFsNUlsUDhubjhfUGtJX0VSRk81ZFVHUUpuamdzVVJ6YjZ4M04?oc=5
-
-- Ambedkar’s thoughts still relevant to India’s development: PU vice-chancellor - The Times of India
-  Ambedkar’s thoughts still relevant to
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM2RXdHpkb3FYOGdxZ0h3ZXBBVU1EcHk1ZV9STlBvWEN0ekdOYzZlQ0xVVURvdzVLTGpIWDk5RjdacXZqRUh4RHBjenVNeEE5LU15dkVoSXF2Wnlnek83RjY3REJ6czNLWGllLXE1NDlLZ3V2cldZNjBrdGx2STNVb0FyS0FJV01EaHdjWmxzQnBQOXIzakthUHdOc0hQeFNmTFQtZWFkTTcxSnQ2SEg0TnNobWVQUTcycm9rUl93OTU1ck9GbkpiUnhRQllyci05MEtRSjZaU3loQdIB3wFBVV95cUxQeWhVUVFpSDQxZXlZNHF6d0JwTzhYRUtmVGhpUVduZUt6NDctLXJESmNKalRXRVVsekJ2UGRrMERqMXVLRVZOOG5kUXlaODRsdGpob05iR2wwRFRfOWhtRS1oWm1jdnVrenVtd1F6cnNwNWkyLXRsTzhULTkyTFc0ZTBqUXBldHRNYVZXZ2ZudFB4VU5rWGR6SzJTc1BmZ2Z5TmNsSmY4akpFalk3bXRoN0R5Q2hPckRsUW1tZ1N1Nkw5WlU0VFB3WU9abU01UnZlaEpQU29SMHNVNFVqbUVv?oc=5
-
-- Southern States To Benefit Despite Smaller Population: Sources On Quota Bill - NDTV
-  Southern States To Benefit Despite Smaller Population:
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9kY20zRWdKU2w1a1Z2eTEyY0ttLTlhZTAwUHBIVkNDU1ViZHo2V19rX1g0aXcxaU01UDVyQlM3LWY1LTJGQk9DcUdGbmw1R0lRVU4yNFRtaWRHenh2c2twXzhzRkloaWZfU2hRbWZ1ckNVSGRwVmk3aS1sZ1VwS2FmY3dLTnV4NTdOUU5iSTUzYmhwX3ZQVEZyc2pXdWRObUViZFFNOGc0RFg3TW5QTUVZMjZBZW_SAb8BQVVfeXFMTXkyUUNDSmRBWFZDbndMNHlCcS0tWUR2RzFiZ3lUQWtLVGZHWjh0QnZ0UEdwcG80S1FEN1p1eFpuT3RxbWlfWWJVTERVX3A4am9kUUowWmhzYTZIbElNdnJlWVB6cmd1ek1DbXVoc2dhb3YwekVNUEJ0SVdMMXd3T05zeWxOcWpubmR1MVVkRGowTFFwWnRnVll2STdCdzlieDRpQ1BGWE9Idzh0eWtsRzMxdmhqTldWelFUc2lwaEE?oc=5
+- India regains steel net exporter status - The Times of India
+  India regains steel net exporter
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEpUNXRiZWxoTTFON1EwZmZvN3VvR0hjb3RKVjBMb2VwUG43TGQzYzFWS1M1cjNHNUZqeHNfYXI0NHhKelpnel93ekpDa01qelY0TUd1dVlaWG5EdHVkb21hZUxzNGVYTWZCOTh4Y2hRMUZPcUV4SVRndzgzT1JaU2dXTDFJVTlIcUF1WE4yeDdMYk1NMDF6VDhHbjdVZjFMNkhxVm9rVzZCd1NFMWpnOXVmRXLSAboBQVVfeXFMTklQUkdLeldLRlNwSnFVdmh4aE9hMXBqbm1DQzQ3d3pKWXM4V05LNzBtSjVHVV84bGg4Tkl1TmRyR2dDdmV1amZ4NWU2ODZfcE5tU0wyN0p6QzVTQXpxM2EzVlNyMUdRQ2w4QnIyczRON2g2V2hTQVRhWFR5UlBqbktEdkdadEhKcXJfLXpuOVhxUFpWMmJ1bTZ5WXBmT2ZlNXFrbmV2TUJBY0NOV2NrZEZYT2k0R1dPaTVn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-04-14 19:08:44 UTC_
+_Last updated: 2026-04-15 02:03:49 UTC_
