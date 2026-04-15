@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Opposition favours women’s quota but will oppose delimitation Bill: Congress
+- Women’s quota pretext to push through delimitation that could disproportionately favour certain states: Rajya Sabha MP
   
-  🔗 https://indianexpress.com/article/india/opposition-backs-womens-quota-will-oppose-delimitation-bill-says-kharge-10638207/
+  🔗 https://indianexpress.com/article/india/womens-quota-delimitation-rs-mp-kerala-congress-10638755/
 
-- ED attaches Rs 159 cr assets in West Bengal illegal coal mining case; hawala network also unearthed
+- Focus on ‘development roadmap’ as Mizoram signs agreement with ‘only remaining underground group’
   
-  🔗 https://indianexpress.com/article/india/ed-rs-159-cr-assets-west-bengal-illegal-coal-mining-case-total-rs-482-cr-10638120/
+  🔗 https://indianexpress.com/article/india/mizoram-peace-agreement-hpc-d-lf-insurgency-ends-sinlung-hills-10638756/
 
-- Davanagere bypoll fallout: Karnataka Congress suspends MLC Abdul Jabbar from party membership
+- Expelled Congress leader Mohammed Moquim launches new party in Odisha
   
-  🔗 https://indianexpress.com/article/india/abdul-jabbar-suspension-karnataka-congress-davanagere-bypoll-10638065/
+  🔗 https://indianexpress.com/article/india/expelled-congress-leader-mohammed-moquim-launches-new-party-in-odisha-10638748/
 
-- India, US to hold trade talks in Washington from April 20
+- Vedanta plant blast toll at 20. Among victims: Man saving to build home, widower earning for kids
   
-  🔗 https://indianexpress.com/article/india/india-us-trade-talks-washington-april-20-10638011/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-boiler-tube-blast-death-man-family-widower-kids-10638657/
 
-- ‘Age tokens’ via DigiLocker to regulate kids’ social media use in Andhra Pradesh
+- Odisha’s Naveen Patnaik opposes delimitation bill, says it ‘hits spirit of cooperative federalism’
   
-  🔗 https://indianexpress.com/article/india/age-tokens-digilocker-to-regulate-kids-social-media-use-andhra-pradesh-10637535/
+  🔗 https://indianexpress.com/article/india/naveen-patnaik-odisha-delimitation-bill-bjd-10638601/
+
+- Snap to lay off 1,000 employees, cites AI and cost pressures behind job cuts
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/snap-lay-off-1000-employees-ai-job-cuts-10638596/
+
+- Vijay Sales Apple Days extended till April 19: Apple Watch Series 11, SE, Ultra 3 see price cuts
+  
+  🔗 https://indianexpress.com/article/technology/vijay-sales-apple-days-sale-extended-till-april-19-10638557/
 
 - Top laptops under Rs 50,000: Performance, battery, and value picks
   
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/delhi-ncr-leads-chatgpt-adoption-india-openai-findings-10638277/
 
-- Moon’s oldest craters hiding 3-billion-year-old secret that could fuel future expeditions
-  
-  🔗 https://indianexpress.com/article/technology/science/moons-oldest-craters-hiding-3-billion-year-old-secret-that-could-fuel-future-expeditions-10638205/
+- Saudi Wealth Fund Sets New Strategy to Build Global Champions
+  Sovereign wealth fund will step up efforts to boost returns and build portfolio companies into global champions.
+  🔗 https://www.livemint.com/companies/saudi-wealth-fund-sets-new-strategy-to-build-global-champions-11776278263661.html
 
-- Tech and Gadget Launches Today (April 15, 2026): REDMI A7 Pro 5G, Luminex smart projector, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-15-2026-redmi-a7-pro-5g-luminex-projector-10638129/
+- Shoemaker Allbirds stock jumps nearly 400% after rebranding to AI company
+  Allbirds shares soared close to 400% after announcing a shift to AI compute infrastructure. The company plans to rebrand as ‘NewBird AI
+  🔗 https://www.livemint.com/companies/news/shoemaker-allbirds-stock-jumps-nearly-400-after-rebranding-to-ai-company-11776264612010.html
+
+- LIC must bridge tech gap with private peers, says DFS secretary Nagaraju
+  LIC was among the first companies in India to adopt mainframe systems. ‘We must reflect on why we have fallen behind in recent years in technology adoption
+  🔗 https://www.livemint.com/companies/news/lic-digital-transformation-mylic-mobile-app-11776262880764.html
+
+- Tata Motors bets on flexible powertrain production lines even as EV bus momentum grows
+  Tata Motors is avoiding dedicated EV bus production lines. It is opting for flexible manufacturing to respond to shifting demand.
+  🔗 https://www.livemint.com/companies/news/tata-motors-flexible-powertrain-production-lines-ev-bus-11776255452172.html
 
 - Snap to axe 1,000 staff: Snapchat parent faces pressure from activist investor, shares climb over 5% in premarket
    Snapchat parent company will also eliminate over 300 vacant positions. The company is aiming to slash annualized expenses by more than
   🔗 https://www.livemint.com/companies/news/snap-to-axe-1-000-staff-snapchat-parent-faces-pressure-from-activist-investor-shares-climb-over-5-in-premarket-11776251708473.html
 
-- Wipro to buy select contracts from California IT firm Alpha Net for $71 million to enhance AI, consulting services
-  The deals aim to enhance Wipro's AI-driven services. They are
-  🔗 https://www.livemint.com/companies/wipro-select-contracts-alpha-net-71-million-ai-consulting-services-mindsprint-11776237548909.html
+- Copper Prices Slip as Traders Eye Talks to End Iran Conflict
+  Copper edges lower as traders eyed the prospect of peace
+  🔗 https://www.livemint.com/market/copper-prices-slip-as-traders-eye-talks-to-end-iran-conflict-11776278508445.html
 
-- Air India asks Tata, Singapore Air for funds after $2.4 billion loss
-  Air India racked up a wider-than-expected annual loss of more than  ₹220 billion rupees ($2.4 billion)
-  🔗 https://www.livemint.com/companies/news/air-india-asks-tata-singapore-air-for-funds-after-2-4-billion-loss-11776237834047.html
+- Nvidia shares extend winning run to 11th session; top $200 for first time in five months, near record high
+  Nvidia shares climbed to $200.40, continuing an 11-day rally, fuelled by robust AI hardware demand. The stock is now 5.5%
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-shares-extend-winning-run-to-11th-session-top-200-for-first-time-in-five-months-near-record-high-11776272927905.html
 
-- Racing driver Jehan Daruvala changes lanes, joins Sterling and Wilson Group to redefine his 'fast track' career
-  The fourth-generation scion, 27, has swapped race suits for a corporate role. He is embracing a new kind of 'fast track' by
-  🔗 https://www.livemint.com/companies/news/racing-driver-jehan-daruvala-sterling-and-wilson-group-fourth-generation-scion-solar-plants-data-centres-11776164617271.html
+- Morgan Stanley shares climb 5% after Q1 profit beats estimates on strong dealmaking &amp; record trading revenue
+  Morgan Stanley capitalized on a favorable regulatory shift and heightened market volatility. The software sector selloff
+  🔗 https://www.livemint.com/market/stock-market-news/morgan-stanley-shares-climb-5-after-q1-profit-beats-estimates-on-strong-dealmaking-record-trading-revenue-11776270251093.html
 
-- Rising digital ad costs push brands to rethink e-commerce growth strategy
-  Brands are moving beyond marketplace-led growth, focusing on retention and efficiency. declining ad returns and rising
-  🔗 https://www.livemint.com/companies/rising-digital-ad-costs-push-brands-to-rethink-e-commerce-growth-strategy-11776158925396.html
+- ICICI Lombard General Insurance announces  ₹7 final dividend along with Q4 results
+  ICICI Lombard reported a 7.3% YoY rise in Q4 FY2026 net profit to  ₹547 crore. FY26 profit after tax grew by
+  🔗 https://www.livemint.com/market/stock-market-news/icici-lombard-general-insurance-announces-rs-7-final-dividend-along-with-q4-results-11776268671255.html
 
-- US stock market today: Dow, S&amp;P 500 futures steady after strong gains, hover near record highs
-  US stock futures show little change after key indices gained over 1%. Optimism grows as US-Iran talks resume amidst Middle East tensions.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-steady-after-strong-gains-hover-near-record-highs-11776254781152.html
+- Up over 650% in 5 years! Multibagger metal stock to be in focus on Thursday. Here’s why
+  Godawari Power and Ispat Limited is set to attract investor interest as it increases its investment in Godawari New Energy Private Limited. The company's shares have surged 27.5% from March lows
+  🔗 https://www.livemint.com/market/stock-market-news/up-over-650-in-5-years-multibagger-metal-stock-to-be-in-focus-on-thursday-here-s-why-11776265978517.html
 
-- Can oil prices above $90-100 over next few months pull Nifty 50 to 20,000 levels? What experts say
-  Analysts expect higher-for-longer prices to drive another 8-10% correction in Sensex and Nifty 50
-  🔗 https://www.livemint.com/market/stock-market-news/can-oil-prices-above-90-100-over-next-few-months-pull-nifty-50-to-20-000-levels-what-experts-say-11776251700379.html
-
-- Top Gainers &amp; Losers on April 15: RailTel Corp, Coforge, Anant Raj, Suzlon Energy, Hindustan Zinc among top gainers
-  On April 13, Indian markets surged as investors reacted positively to potential US-Iran negotiations. The Nifty and BSE Sensex gained 1.63% and 1.64
-  🔗 https://www.livemint.com/market/top-gainers-losers-on-april-15-railtel-corp-coforge-anant-raj-suzlon-energy-hindustan-copper-among-top-gainer-11776250838761.html
-
-- Risk-reward has improved; Indian economy structurally more resilient: Rishabh Nahar of Qode Advisors
-  Rishabh Nahar of Qode Advisors discusses the current market structure. With a unique 'all-weather' investment philosophy
-  🔗 https://www.livemint.com/market/stock-market-news/riskreward-has-improved-indian-economy-structurally-more-resilient-rishabh-nahar-of-qode-advisors-11776249881573.html
-
-- Semiconductor, railway infra stock jumps following Dalal Street rally
-  MIC Electronics shares rose 6% to  ₹40.71. Despite a 48% decline over six months, the stock has surged 4,740% in
-  🔗 https://www.livemint.com/market/stock-market-news/semiconductor-railway-infra-stock-jumps-following-dalal-street-rally-11776247582805.html
+- EU threatens to force Meta to restore WhatsApp full access for rival AI chatbots
+  EU threatens to force Meta to restore WhatsApp full
+  🔗 https://www.livemint.com/technology/eu-threatens-to-force-meta-to-restore-whatsapp-full-access-for-rival-ai-chatbots-11776270064861.html
 
 - ChatGPT, Gemini and Grok confidently generate dangerous medical advice half the time, study finds
   Around 50% of medical advice from popular AI chatbots is inaccurate. The research tested five platforms.
@@ -96,89 +100,105 @@
   Vivo T5 Pro 5G has a 9020mAh battery, Snapdragon 7s Gen 4 processor, and
   🔗 https://www.livemint.com/technology/tech-news/vivo-t5-pro-5g-with-snapdragon-7s-gen-4-soc-and-9-020mah-battery-launched-in-india-price-starts-at-11776235340529.html
 
-- Over 100 Chrome extensions caught stealing Google and Telegram data: How to stay safe?
-  Cybersecurity experts have reported a coordinated attack involving 108 Google Chrome extensions. Researchers say these extensions have been installed approximately 20,
-  🔗 https://www.livemint.com/technology/tech-news/over-100-chrome-extensions-caught-stealing-google-and-telegram-data-how-to-stay-safe-11776233272916.html
+- Mark Mobius, pioneer of emerging markets investing, dies at 89
+  Mark Mobius, a pioneer of emerging markets investing, has died at 89. He championed opportunities across developing economies, delivering strong returns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/mark-mobius-pioneer-of-emerging-markets-investing-dies-at-89/articleshow/130290715.cms
 
-- US Stocks Hold Near All-Time High on Peace Hopes: Markets Wrap - Bloomberg.com
-  Stocks stage a big comeback Monday with the S&amp;P 500 wiping out Iran war losses. Oil prices Tick Higher as Investors Assess Iran Developments.
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGJ2SWprb0xid2pKa1NZYlhWVzFnU2NQMzNBTVkzV0lPVlJzZWJ1UG4xRnM4Uk9EMmQ3bFJBallXbDZIVHpOOEJ3U0t1QWJpVnNDSHJmaEQ4QXVXZjJhamNmR1E5TXpMb3N6Vy1EYm5JbzZaMWhWd2xxMDNTTDVIV0NVLTM2aHZGdXU1WjV2RVBGWk5V?oc=5
+- Delhivery block deals worth Rs 186 crore see Goldman Sachs, Morgan Stanley, MFs step in; Nexus sells stake
+  Goldman Sachs, Morgan Stanley, and domestic mutual funds were among the prominent buyers, acquiring significant stakes. Despite a slight dip in share price, Delhivery has shown strong year-on-year growth
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/delhivery-block-deals-worth-rs-186-crore-see-goldman-sachs-morgan-stanley-mfs-step-in-nexus-sells-stake/articleshow/130288901.cms
 
-- Middle East geopolitical earthquake and its aftershocks on global energy markets - news.cgtn.com
-  The Middle East geopolitical earthquake and its aftersh
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmRCN3R6X29YZU8wVGpTOFllSktrUklzWVpYdFNlVEI5VUtmZmlsMDZraDUxNmM0NXlwbEhJUmtnQTNrTWNzeG4tTlRIRm1UR0xVSW1TX0ZMdmlxY3pYbEdVNTBTVVc3aVBzQ2pOVGh1a09YZG15Vk5BYjZNMFo1cWVfUHFVMTdEdWhHR21JOTdPMDJCMmpHMFJnekN2ZjJFRE5JRGtoOG9DbUVnVTJtaQ?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Nifty 50 and BSE Sensex surged over 1.6% after US–Iran talks optimism boosted sentiment. Falling volatility, strong technical signals
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130288159.cms
 
-- HDB Financial Q4 Results: Profit jumps 41% YoY to Rs 751 crore; co declares Rs 2 per share dividend - The Economic Times
-  HDB Financial Q4 Results: Profit jumps 41% YoY to Rs 751 crore.
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNS1OdlV2ZjlnR3plOEdOZFRRbVVSSnlETzBiR2NNN0pndHNsRENoU1lFbGtDYUQ0QkRYMkdydmI1aXRmREs2M0RoeWJNRjBDaDVYdkhVdVN1UVZPcmdQN0M3Qk5STkI0bnVhZDJaUkJnZ2RkWDA4ZnUtSF9tQVExVHRDZG5HWEI1QXZRY05ya1RtM0RiU0lFODRQWEhPeHZudjlGdEVCWWZZTG5EZEhKSVN3c3RkODNiOGlFdktCN2ZXb002WFRBeVV0clNuWTdMbFZodjJfaUN4VTdDMksyeGlZejM1SHpfSkcyWmI0aTFEbGY2Z0lSSWYyMXVGOWdicXpUN9IBigJBVV95cUxORDdEU3doRk5GRUpHaGJ4NHN0YXFzbFY0NFdGcWVpM0UtRzMzNWV0emhsZkIwamp2SUhvU1FzTWZZX2E0OTUyS2dJS25sNVdrX05mRGczOVl5b3NaWEJsd3JYc0xPSm1wVHpNMFhWdkdkN3Z2Si1URmxiSWc1LUJPb0hnVDcxMjR1RU5yb1VQUTlEcFNGTFNqbDE3Vk9feURHaE9VSzBuZk9ESV9iOGg3LWxBQk9rTXQ5RS13ZFF6T3c5aHF6S0dwSFFfVlBDTG1ROGxfRTFzVjk4VzdNQkFURGVxRkRDSVgyd2tFV1g0N3oxdkNKVlh3WVZub3pNOEJxb0tPd19rMjIyQQ?oc=5
+- Market Trading Guide: Buy Power Grid and Kirloskar Oil Engines on Thursday for gains up to 7%
+  The Nifty 50 ended higher as US–Iran talks optimism lifted sentiment. IT, auto, banks and FMCG driving gains. Technical strength above key EMAs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-power-grid-and-kirloskar-oil-engines-on-thursday-for-gains-up-to-7/articleshow/130287898.cms
 
-- Quote on Closing Market Summary from Sachin Gupta , at Choice Equity Broking Private Limited - Investment Guru India
-  Investment Guru India is a leading investment firm based in India. The firm
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZy1KSDNrT0taOC1QdDBIal9uUTFlQ3dCbVIwckpmb2F0RXE4amJrUXU0YzVsbm9HZ3pVNFI2UmpOTlNrM1ZsZnQwWnl6eUhzNFVMMEdzWVI1X2Z0VXhtMkRrR3A1bHFPQi1Bck5TQ1hVTFFBTTRNdkFTZ2JHY2JUMTlSRXhDR013a2FZbzJNa0ZZc1hQOHF0UEx3cWM1c2RITTVGZVJLUkZlMHdQQlNzcUNTWXE0VUNucGlTTldRaUJhdUF0X043aFVjQWJZUlJXM2xtU2V3?oc=5
-
-- Closing Bell: Nifty crosses 24,200, Sensex surges 1,264 pts on renewed hopes of US-Iran peace talks - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNYl94TEZRUXhIbHJZeWJONDAxbndMNzVoYVItQlVsaHdkVGhSMG9OMG1HNEc0aV9kTmRFY1dsZ2VvZU5NS19RVG1XdGQ3ZVRWWm56Q0xlWDZyYWpCZDJCSzdOMWp4cC1RZD
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNYl94TEZRUXhIbHJZeWJONDAxbndMNzVoYVItQlVsaHdkVGhSMG9OMG1HNEc0aV9kTmRFY1dsZ2VvZU5NS19RVG1XdGQ3ZVRWWm56Q0xlWDZyYWpCZDJCSzdOMWp4cC1RZDdxa1lGWHh3TUxyZlk2eXp1dFJtUjFrekotaWs2dDJ5d3d4bXF5SExmbEhRdUN5UVlEazVaMV8yeDc3cXFldWlpY0p4eDR0TUpVZlp0ZUhEb3UzMEJZaHZvTldvaTVMQm9fRVZ2R0NndXprb0wxZUtSUXkycmk4WGZJejVoS0x4RWw1bjYzMlJ4WEpnbjRBMGpYenpvNWl5WEdDOThDdUZfMWpIaWJuZHRma9IBmAJBVV95cUxNcjVWeW1lcHhYUmNXU3ZwZDRSR1RhRUl3c0RtRmJKRkFZQVE0ZWN1VDB3MmM5ZnVmdU1EdDkxLTVYdTZDRDlQUU1qS1BDcHFIVjNCRF9qR3dSMmJkTTdtMlo1dFZ3SDhwbko1NmN1Nnd3eUxjbW9XZVVUWWM3VUJnNkFaR096SEdyd2doOEFoVTV6NnZrdnI3T2gtclJVbHN6M2VKNks0LUE2eGpRWVpfRXlaT3RMQ2tONW9OOWstY1BROTE3M05QbWt6SEhYMnZpS3lSQmV5QnFhekx0Q1dEWVlROVlSVU4wQ09xN0xwaDBLakJULVMxMEFrSGJLOW1XZjBsamd6RkxfNHNlcjBXaWg2LWRXVjVG?oc=5
-
-- Board should consider Tata Sons listing amid RBI, SP Group IPO push: Shriram Subramanian
-  Listing calls for Tata Sons intensify as Reserve Bank of India and Shapoorji Pallonji Group push for IPO. Tata Trusts resists transparency
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/board-should-consider-tata-sons-listing-amid-rbi-sp-group-ipo-push-shriram-subramanian/articleshow/130284991.cms
-
-- Sebi appoints corporate law veteran KVR Murty as its whole-time member
-  KVR Murty brings over 30 years experience in public finance, defence accounts, and corporate regulation. He will strengthen leadership amid expanding markets and increasing regulatory complexity.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-appoints-corporate-law-veteran-kvr-murty-as-its-whole-time-member/articleshow/130284071.cms
-
-- Quote of the day by David Tepper: "I am the animal at the head of the pack. I either get eaten, or I get the good grass."
-  David Tepper's 'animal at the head of the pack' philosophy highlights the survival-driven mindset needed in finance. It emphasises bold, opportunistic bets during market stress, focusing
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-tepper-i-am-the-animal-at-the-head-of-the-pack-i-either-get-eaten-or-i-get-the-good-grass-/articleshow/130283717.cms
-
-- Gainers &amp; Losers: RailTel and Indus Towers among 7 big movers on Wednesday
-  RailTel, MTAR, MCX, LIC, IT stocks, ICICI Pru Life
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-railtel-and-indus-towers-among-7-big-movers-on-wednesday/slideshow/130283845.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures hold steady with earnings in focus
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-blockade-talks-brent-crude-oil-bank-corporate-earnings-stock-price-news/liveblog/130283559.cms
+- US Stocks: Pizza chains Papa John's and Pizza Hut edge closer to finding new owners, sources say
+  Two of America's most popular national pizza chains are edging closer to selling to new owners. Competition, rising commodity costs and waning consumer demand are undercutting performance
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pizza-chains-papa-johns-and-pizza-hut-edge-closer-to-finding-new-owners-sources-say/articleshow/130287198.cms
 
 - US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
   US May Be Eyeing Strait Of Malacca After Horm
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
-  PCB chief Mohsin Naqvi trolled for 'long queues at
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
+- ‘Up to India to decide but…’: What US envoy said on Delhi's role in efforts to end Iran war | India News - Hindustan Times
+  ‘Up to India to decide but…’: What US envoy said on Delhi's role in
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPYkkwc28tTHJpZzljajRJX0xzaVRGTEZYVEpIZ3NtT0FqZmpIeVlEWThNb3c3anN3b19yTHgwVVFSSzdnTUF5MVM0MzJfeHJIZWYzVzFwNk1LNUJ0SkxvR29wQ3ZsamVYVE1rSnhGU053T0J1RGZhRkFxcld4MnZUakZQbDF1T3lSV29JNlY5WlhocnNndVoxZDNYQlJDOEx1bzNRNW80c2lwVnhHTV9VQ0RHX2psQzJJdHBiMkcwS3pOSk5QOXBKN3hpQ3lpTUdTaXRyejNNMzAzQm1ZbFh5SmtUUXg4VDJxNVdNODlrZjZGejVVbEl6eUxjNFF5a0lR0gGGAkFVX3lxTE5yakhrZE1oUzEzTVJ4MHd4UFNYOUNkSW1TampNUjZ5c1Rva1l5eEJTYlZhMUt0SnpUdE1zR3RuNXZjSDU3cWpJV1NzU2tFWGlXQWhHLWFqUGxUeTNyU3NuLW1MdjJaSnZJLU9iaUhvcDFSWnVnZDVMTmV6ZnJMeDJzcWE3dlRuS05uU3Q0eDVUVTM1a1MxNTRUanFCV1h0MVBxLTJtRzlXbFg5d3RqZUEya2otTGhkd1g3WjhRbV9QRmFWWUw3Ynl3Y3J3RFpfOTNPaWFzNUtxMTVtaTAwbHQ2SlRHSXo3dkRCUS1seW5fYURPODZyeGVjRVFpMGhrSkNwdXZuRVE?oc=5
 
-- What is delimitation exercise, concerns over North vs South and why is Oppn against it | Explained | India News - Hindustan Times
-  The Indian government is planning to create a buffer zone between North and South India. The
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQemxqSGJ5UmVnWXprMEI4MllfWTBkTTVoS1FnMEJZcDBER2MyWnN3LUtYbml3NjEwREwzZ3g0THdyUTB0ZUxJZnN2eVZaclVLU0lfclFVS190ckZFVFNsbURyVjNWWTJncnhrU0RlQUtsRFpBNlRvVnpEcVhlWmp5eWgwcU8ybEhuS2U1aGxfUEZxSFA2OFk3NmFmZjc3TlZjWXE1RDl0Tm8xMGl2Rms0Y1EzWDRNcGNCc0JxQzZmWUFlVTJzTW0wUzJhZXJ6SUVIRi16QVdya0RsQVJvcEEzUUxiX3MyZ1dweW9pbkNCbEQwaGlxbXlob9IB_gFBVV95cUxPUkU4d0h5Tk9vSzBycERmbkNhLVhEMTN5VW9ZTlYtYW1NWWM3VE9JU0hZVmZZb0F4ZlhvM2tBWFYzYnB2MmlhRUxHM2h0R3RGa3ZtMktTOHlqS2tGTzJxMGdfSDJGX09CT3FpbjNHS0VqYWhHZGdxMTEtdlI5LTdjQU1DSjMtUkRPdC1nS3Z4QXZxZ0NacldtdG44LXpDbXo3M203ejBLY0FsR0lETTZfY0xSWl9YREg3Tlpwczg4THA3QXk4S0R3UDBUczNZdy0zV3lGNVpQOFlIbVNVNGx1Qk83REdpLUVkc1dSWkVaaWR3aUhNNmFfX1lJYzFPQQ?oc=5
+- India, US Renew Trade Deal Push, Delegation To Visit Washington This Month - NDTV
+  India, US Renew Trade Deal Push, Deleg
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ25EdWNoZXlqWTFRaEVlVW5pSDNlSEFpc0FFS1d6MERldW4xUmNHb2l3Z3RaMWZISEZyWmNvUEE0ejRjS2lJV0dGa2V5WWxjSzdscWVrbmMyQW45ZmozWTFhMnBTYWYzam9aSEVqZFUyelRXRXo4TC1xWEJWeTBFUlc0c1BXSnptOXlyNE1LUU1uekxDX0xYd192b3BLaWhrZVRsQ2txXzVDSWJmVWxJVDE5WdIBuwFBVV95cUxQaHRabmJNaklLemdnb2s4SW9LbTV3QVRrVWVlak9EVmFfdVFmYk90b19uU091ZGhxY1MzSnVvcGNqUzRFSzJhcjVfVzN6SnFBcHlfY0dVellSZGF4YkNoZHE1UG5IclBESjVEUmNFa2pzLUpDenBkZlEyak1iS3hteWM3SXZrajJ2bG9Kb1hsV3pfY3NPQVpYdkx3aWI0YXZGaHpIb2pnN1QtRHZabjc2NlkwX2VEdFMxZ2NF?oc=5
 
-- Global Tensions Ease, But India’s Domestic ressures inger - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXBoRkRDR3ZMOVhYR1FKNWRSdXZISjdrcVY3bGJLUEw0VnJxbWk5NWJIVi1Xalk2WldNMjlZODhEU09ySkVWNXlRR2Y4Y3VpZ0I1NW5ETFJRTWNrLW0xTDhZNnpGeF80a0JvZUxrMVMzYVlFWl9UdzZaeTJ4WmRTWmx4dmd6blJmdGJuZmdoaXlfZjNvRloxQ2FOOG81Q1BMYTNCWThoMTk1V3Q0cFViYVlrRklwZXJOYnVj?oc=5
+- India trade delegation to visit US for BTA talks, first in-person meeting since October - The Economic Times
+  India trade delegation to visit US for BTA talks, first in-
+  🔗 https://news.google.com/rss/articles/CBMigANBVV95cUxPRGtvYUtaMTBBa2tNdjR2WllyUmdkdjhMdXFNaHFVdHBwdmdzQ1NmZGY3T1F4U0NPQ3lTR2RjbE5zMkg1SnUtQll5bm1hajN5c2t4ZnFBVnBfdEFjZ3psWm5YcGt5N2dmZHVQT2lWN2FXTHo3RWVKZFJPT2I1VHRGUzdsOGRBbUZYQVF3OERaejlHQ2FwOEkxd0x6Y0RHU2J4RWMzbUtzcnBJS282WHVDNFczRDZtWFYtOXpnNi1kUWw5WUZxVlotZnF5ek1GN28tc3Q1ZkJQQy16TG1hcUt0NUpsZXJ6NGVSb0NSSWJFSzM3V1pSa3ZlZWZnVVp1M1I5ZXdUckVlNnBkNGJuQm1ZZTRZYmZqYlQ2MnNHdlEyR21JMVVDMEg0TjVKRE5iTFEwZVI5V0xCRnlfR0Rod3A5QmhkaHpMM3J3WGNOWWM3dkNsX29SaEFTejNiQ3JmcG5HR0JlT0RkVXE4SldKVEhwVmJEZFFLeDBRbm1tYmZjY3DSAZwCQVVfeXFMT2pDQXg5VlZDNktrMkNuOVVMdkR4QUZXeWFUVUNSTXhEREUxYS1yMndvamNUWjlhOU1lMTJzSjRlTV9lNDJHa0NUWmUwUFZMakIyQnpOcDI1TVdEb3dnc1NOSndVTXAzcVVhcnpONmJ6ajhnOGhUYmg3XzNqVlh6TFZEQ05hWFBfdlh0T1p1bVFhUFpqNTFCeHZySXpJNG51bm9iRXE4T1RjZ0RsbnNNU3BCSi1EamQ2dTA2SWpGZC1HbDVTZjM1Tl84VmN5S3FibmwyQ1BzejNDV1pibEpseS12Rkd5ZDloQXEycWdjSHo3VU5PSmYzM3d3Yko3ajAzU3pwUWZpR3FtaEhMRTd0RklTQ1VsSXozRGVTWFE?oc=5
 
-- 'Only after hitting 6s against India ...': Pakistan's Sahibzada Farhan makes big revelation - The Times of India
-  'Only after hitting 6s against India ...': Pakistan's Sahib
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLThVV1hjcTc1YXVDVGY1eWVQeXV6S0pSS216NE00T2piSUhPby1JWkpMZmtBUVh4NkpOWldjNzl5cFVqQjBXcWVYRUtpaTBiTTdMalRLaEJtUWs3Ukh0VGhOb00yVUVEbjgzRHlnelRDT3F3Z3FWQ1JUTmszQldYRlJkMEpmUTVPOTlfQi13MTcwaTRweTd5Ynl6MXZRaENVZkk5Z1JBeWxlVHBBWXR0bmdPR1ZURC1MdGJ3a1Z1bDlweHg4ckZwZEdxTGhnc2p2OElYWmpsQlZlRi10c0dqQUMxOTZMeVV1RzE0LTZZWTRrQjRLNmt1S9IB_gFBVV95cUxPdXdFNDVZdmxBLVowLU9CdVEyOEI3UVhLNC1ubWpnQVpyT2F3SV9MSjhhQ3BDdE1ZZXBaNWhxUnhTbHhadkppZ3BvS2JLSEJSRFRCcS1faVlPSWFxNXBkXzAzVHlCT1BaNTZMT1FFMnUxMC12c053NnYxY1dmWmFheldCWlV1eWVOTnhCU2RZRE8wTUtUX0lDbUhGbHNnYncwLVNlZzJtT21iZy1LU0J0eVdhSlNzODdFZklHTlBBXzQ4Y19VR2tCeGUwb1g4WWRoV09jWi1Xb0tpdlZBOE9EeV9kOGtfUEc2SndVbmxOUVYtXzRTNnJwZUJFUFdrUQ?oc=5
+- India-US to resume talks on bilateral trade agreement this month — What we know - Mint
+  India-US to resume talks on bilateral trade agreement this month
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeHB2TmhfU1E5aHZUeWU1Um9mQU4xb2NyUlVLNlRZODFOWTZ3VHZyQUpuanVwUklXX3hJYmV4MEtNS0Z1NDlfNE9fN3ljS0FScy1LZ2JHblNWWkFSN0NfWWFDdlRNYW1nTzAtN1AzRWRZM18wbDd4MnIwcmxsRV82ZGhKUEhRX21DeHBCQTBpUDByOXFESlFBdnBTZ1M1Y0xxM2ROd2RMUS11eGg5XzVhNTg2Si1LMEpuY1llRzN1Z2hDR1pUT1VqdTRNNElfN0w2WGlVRjhVamlrQWRfWVZSVWFCSHVDTnd4YTNVSG9XbWh5Vng2RjBmZGEycGU4TXBvbmhUONIBigJBVV95cUxPMmdQd3JNV0VaenJyX2tTZlpEMDNFZFlRYVRkM3JoZlhoYjhJTkNBRkRfUWJLVkVIVnlHcVVxWndPVzFJM2twcVdvT3lMa0FBc2pNYkYtbnFOVkRNZjU0c0F1WFJrdTAza1dXSkh4MFRKd0MxOWhqMm5VSmNJRl9oSXYtYXEtR29oemt1aTkxTE1oWlRYbW83eGIwOGp1RVZIdTU0REFYZU81NHZSemdIeWo2M09rTkFxYmRIVHhqR3BQS294ODZUci02dUxIdXVsSWgwNE5aR2VGSHVNZ1pNRlhQOGZfUHRaZlI2elFLOEZ4SEVhUmZsMkxGZklDV2toOEMySGdkbWdLZw?oc=5
 
 - US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
   US May Be Eyeing Strait Of Malacca After Horm
   🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
 
-- PCB chief Mohsin Naqvi trolled for 'long queues at petrol pumps in India' remark - The Times of India
-  PCB chief Mohsin Naqvi trolled for 'long queues at
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMWJzOU5XT25iZHA1SWlXTVl3SlFPVEdVMlZ1T0tXZk8zR2hZWlJ1b0FPQnBJSEc0bndWMWJBME1vSmlUMEJLd3R2TUZQU2tJa1JocTdCbTFMMWhUcXdXS3pJYVdoSnN2eHhwS0F6eFNGY0pKbjVSMnRGem4zMV9ZWWpXd0xvTXF1eS1WTS1tWDhCd2FsRDlmbmhTd25uTVVwVXZBZk9ZZDl2UDVIMjhCN2V5eWxsZURFN1lnUnNwUHRZQXpzWFJmdU1OV2lNR2NqQ1YyR1Q0Sk9GclRzUzdkby02NjVzTHRjblRiU0hiU2J3Y1RLSWlPYy1JU07SAYICQVVfeXFMT0lRZ3ZsUUJoU2d3U1ZldmlqVXR3dVFoMkpaQXg0YzZYdnpnMVQ1WW5jUWtxcm1HVjNpQ29JUm9seXRpeGVfaFBLaUdFcGNWZGJnRDdUa1k2RDljUVhVOHlZRmJuWHllTHRRQVl4YlpqTWZ4d2w5eW5wTnNKd1ZNaHZNWVFTa3hPLUZOQUJiWFFCMDU3TE5yQlRPWVJvUV90dnl6M2ctMnF5YmRKQktCd0h6azBKb1R2bFZKWF9KUkU2aVV0b2h1T3FBT0M5T3FZYmpSMDg3VnVsdE4taERlX2Z5WXJkckFMakx3RGl5YURZVGRjdVJFZHdGai1raEgtMGVB?oc=5
+- ‘Up to India to decide but…’: What US envoy said on Delhi's role in efforts to end Iran war | India News - Hindustan Times
+  ‘Up to India to decide but…’: What US envoy said on Delhi's role in
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPYkkwc28tTHJpZzljajRJX0xzaVRGTEZYVEpIZ3NtT0FqZmpIeVlEWThNb3c3anN3b19yTHgwVVFSSzdnTUF5MVM0MzJfeHJIZWYzVzFwNk1LNUJ0SkxvR29wQ3ZsamVYVE1rSnhGU053T0J1RGZhRkFxcld4MnZUakZQbDF1T3lSV29JNlY5WlhocnNndVoxZDNYQlJDOEx1bzNRNW80c2lwVnhHTV9VQ0RHX2psQzJJdHBiMkcwS3pOSk5QOXBKN3hpQ3lpTUdTaXRyejNNMzAzQm1ZbFh5SmtUUXg4VDJxNVdNODlrZjZGejVVbEl6eUxjNFF5a0lR0gGGAkFVX3lxTE5yakhrZE1oUzEzTVJ4MHd4UFNYOUNkSW1TampNUjZ5c1Rva1l5eEJTYlZhMUt0SnpUdE1zR3RuNXZjSDU3cWpJV1NzU2tFWGlXQWhHLWFqUGxUeTNyU3NuLW1MdjJaSnZJLU9iaUhvcDFSWnVnZDVMTmV6ZnJMeDJzcWE3dlRuS05uU3Q0eDVUVTM1a1MxNTRUanFCV1h0MVBxLTJtRzlXbFg5d3RqZUEya2otTGhkd1g3WjhRbV9QRmFWWUw3Ynl3Y3J3RFpfOTNPaWFzNUtxMTVtaTAwbHQ2SlRHSXo3dkRCUS1seW5fYURPODZyeGVjRVFpMGhrSkNwdXZuRVE?oc=5
 
-- What is delimitation exercise, concerns over North vs South and why is Oppn against it | Explained | India News - Hindustan Times
-  The Indian government is planning to create a buffer zone between North and South India. The
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQemxqSGJ5UmVnWXprMEI4MllfWTBkTTVoS1FnMEJZcDBER2MyWnN3LUtYbml3NjEwREwzZ3g0THdyUTB0ZUxJZnN2eVZaclVLU0lfclFVS190ckZFVFNsbURyVjNWWTJncnhrU0RlQUtsRFpBNlRvVnpEcVhlWmp5eWgwcU8ybEhuS2U1aGxfUEZxSFA2OFk3NmFmZjc3TlZjWXE1RDl0Tm8xMGl2Rms0Y1EzWDRNcGNCc0JxQzZmWUFlVTJzTW0wUzJhZXJ6SUVIRi16QVdya0RsQVJvcEEzUUxiX3MyZ1dweW9pbkNCbEQwaGlxbXlob9IB_gFBVV95cUxPUkU4d0h5Tk9vSzBycERmbkNhLVhEMTN5VW9ZTlYtYW1NWWM3VE9JU0hZVmZZb0F4ZlhvM2tBWFYzYnB2MmlhRUxHM2h0R3RGa3ZtMktTOHlqS2tGTzJxMGdfSDJGX09CT3FpbjNHS0VqYWhHZGdxMTEtdlI5LTdjQU1DSjMtUkRPdC1nS3Z4QXZxZ0NacldtdG44LXpDbXo3M203ejBLY0FsR0lETTZfY0xSWl9YREg3Tlpwczg4THA3QXk4S0R3UDBUczNZdy0zV3lGNVpQOFlIbVNVNGx1Qk83REdpLUVkc1dSWkVaaWR3aUhNNmFfX1lJYzFPQQ?oc=5
+- India, US Renew Trade Deal Push, Delegation To Visit Washington This Month - NDTV
+  India, US Renew Trade Deal Push, Deleg
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ25EdWNoZXlqWTFRaEVlVW5pSDNlSEFpc0FFS1d6MERldW4xUmNHb2l3Z3RaMWZISEZyWmNvUEE0ejRjS2lJV0dGa2V5WWxjSzdscWVrbmMyQW45ZmozWTFhMnBTYWYzam9aSEVqZFUyelRXRXo4TC1xWEJWeTBFUlc0c1BXSnptOXlyNE1LUU1uekxDX0xYd192b3BLaWhrZVRsQ2txXzVDSWJmVWxJVDE5WdIBuwFBVV95cUxQaHRabmJNaklLemdnb2s4SW9LbTV3QVRrVWVlak9EVmFfdVFmYk90b19uU091ZGhxY1MzSnVvcGNqUzRFSzJhcjVfVzN6SnFBcHlfY0dVellSZGF4YkNoZHE1UG5IclBESjVEUmNFa2pzLUpDenBkZlEyak1iS3hteWM3SXZrajJ2bG9Kb1hsV3pfY3NPQVpYdkx3aWI0YXZGaHpIb2pnN1QtRHZabjc2NlkwX2VEdFMxZ2NF?oc=5
 
-- Global Tensions Ease, But India’s Domestic ressures inger - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXBoRkRDR3ZMOVhYR1FKNWRSdXZISjdrcVY3bGJLUEw0VnJxbWk5NWJIVi1Xalk2WldNMjlZODhEU09ySkVWNXlRR2Y4Y3VpZ0I1NW5ETFJRTWNrLW0xTDhZNnpGeF80a0JvZUxrMVMzYVlFWl9UdzZaeTJ4WmRTWmx4dmd6blJmdGJuZmdoaXlfZjNvRloxQ2FOOG81Q1BMYTNCWThoMTk1V3Q0cFViYVlrRklwZXJOYnVj?oc=5
+- India trade delegation to visit US for BTA talks, first in-person meeting since October - The Economic Times
+  India trade delegation to visit US for BTA talks, first in-
+  🔗 https://news.google.com/rss/articles/CBMigANBVV95cUxPRGtvYUtaMTBBa2tNdjR2WllyUmdkdjhMdXFNaHFVdHBwdmdzQ1NmZGY3T1F4U0NPQ3lTR2RjbE5zMkg1SnUtQll5bm1hajN5c2t4ZnFBVnBfdEFjZ3psWm5YcGt5N2dmZHVQT2lWN2FXTHo3RWVKZFJPT2I1VHRGUzdsOGRBbUZYQVF3OERaejlHQ2FwOEkxd0x6Y0RHU2J4RWMzbUtzcnBJS282WHVDNFczRDZtWFYtOXpnNi1kUWw5WUZxVlotZnF5ek1GN28tc3Q1ZkJQQy16TG1hcUt0NUpsZXJ6NGVSb0NSSWJFSzM3V1pSa3ZlZWZnVVp1M1I5ZXdUckVlNnBkNGJuQm1ZZTRZYmZqYlQ2MnNHdlEyR21JMVVDMEg0TjVKRE5iTFEwZVI5V0xCRnlfR0Rod3A5QmhkaHpMM3J3WGNOWWM3dkNsX29SaEFTejNiQ3JmcG5HR0JlT0RkVXE4SldKVEhwVmJEZFFLeDBRbm1tYmZjY3DSAZwCQVVfeXFMT2pDQXg5VlZDNktrMkNuOVVMdkR4QUZXeWFUVUNSTXhEREUxYS1yMndvamNUWjlhOU1lMTJzSjRlTV9lNDJHa0NUWmUwUFZMakIyQnpOcDI1TVdEb3dnc1NOSndVTXAzcVVhcnpONmJ6ajhnOGhUYmg3XzNqVlh6TFZEQ05hWFBfdlh0T1p1bVFhUFpqNTFCeHZySXpJNG51bm9iRXE4T1RjZ0RsbnNNU3BCSi1EamQ2dTA2SWpGZC1HbDVTZjM1Tl84VmN5S3FibmwyQ1BzejNDV1pibEpseS12Rkd5ZDloQXEycWdjSHo3VU5PSmYzM3d3Yko3ajAzU3pwUWZpR3FtaEhMRTd0RklTQ1VsSXozRGVTWFE?oc=5
 
-- 'Only after hitting 6s against India ...': Pakistan's Sahibzada Farhan makes big revelation - The Times of India
-  'Only after hitting 6s against India ...': Pakistan's Sahib
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLThVV1hjcTc1YXVDVGY1eWVQeXV6S0pSS216NE00T2piSUhPby1JWkpMZmtBUVh4NkpOWldjNzl5cFVqQjBXcWVYRUtpaTBiTTdMalRLaEJtUWs3Ukh0VGhOb00yVUVEbjgzRHlnelRDT3F3Z3FWQ1JUTmszQldYRlJkMEpmUTVPOTlfQi13MTcwaTRweTd5Ynl6MXZRaENVZkk5Z1JBeWxlVHBBWXR0bmdPR1ZURC1MdGJ3a1Z1bDlweHg4ckZwZEdxTGhnc2p2OElYWmpsQlZlRi10c0dqQUMxOTZMeVV1RzE0LTZZWTRrQjRLNmt1S9IB_gFBVV95cUxPdXdFNDVZdmxBLVowLU9CdVEyOEI3UVhLNC1ubWpnQVpyT2F3SV9MSjhhQ3BDdE1ZZXBaNWhxUnhTbHhadkppZ3BvS2JLSEJSRFRCcS1faVlPSWFxNXBkXzAzVHlCT1BaNTZMT1FFMnUxMC12c053NnYxY1dmWmFheldCWlV1eWVOTnhCU2RZRE8wTUtUX0lDbUhGbHNnYncwLVNlZzJtT21iZy1LU0J0eVdhSlNzODdFZklHTlBBXzQ4Y19VR2tCeGUwb1g4WWRoV09jWi1Xb0tpdlZBOE9EeV9kOGtfUEc2SndVbmxOUVYtXzRTNnJwZUJFUFdrUQ?oc=5
+- India-US to resume talks on bilateral trade agreement this month — What we know - Mint
+  India-US to resume talks on bilateral trade agreement this month
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeHB2TmhfU1E5aHZUeWU1Um9mQU4xb2NyUlVLNlRZODFOWTZ3VHZyQUpuanVwUklXX3hJYmV4MEtNS0Z1NDlfNE9fN3ljS0FScy1LZ2JHblNWWkFSN0NfWWFDdlRNYW1nTzAtN1AzRWRZM18wbDd4MnIwcmxsRV82ZGhKUEhRX21DeHBCQTBpUDByOXFESlFBdnBTZ1M1Y0xxM2ROd2RMUS11eGg5XzVhNTg2Si1LMEpuY1llRzN1Z2hDR1pUT1VqdTRNNElfN0w2WGlVRjhVamlrQWRfWVZSVWFCSHVDTnd4YTNVSG9XbWh5Vng2RjBmZGEycGU4TXBvbmhUONIBigJBVV95cUxPMmdQd3JNV0VaenJyX2tTZlpEMDNFZFlRYVRkM3JoZlhoYjhJTkNBRkRfUWJLVkVIVnlHcVVxWndPVzFJM2twcVdvT3lMa0FBc2pNYkYtbnFOVkRNZjU0c0F1WFJrdTAza1dXSkh4MFRKd0MxOWhqMm5VSmNJRl9oSXYtYXEtR29oemt1aTkxTE1oWlRYbW83eGIwOGp1RVZIdTU0REFYZU81NHZSemdIeWo2M09rTkFxYmRIVHhqR3BQS294ODZUci02dUxIdXVsSWgwNE5aR2VGSHVNZ1pNRlhQOGZfUHRaZlI2elFLOEZ4SEVhUmZsMkxGZklDV2toOEMySGdkbWdLZw?oc=5
+
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
+
+- ‘Up to India to decide but…’: What US envoy said on Delhi's role in efforts to end Iran war | India News - Hindustan Times
+  ‘Up to India to decide but…’: What US envoy said on Delhi's role in
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPYkkwc28tTHJpZzljajRJX0xzaVRGTEZYVEpIZ3NtT0FqZmpIeVlEWThNb3c3anN3b19yTHgwVVFSSzdnTUF5MVM0MzJfeHJIZWYzVzFwNk1LNUJ0SkxvR29wQ3ZsamVYVE1rSnhGU053T0J1RGZhRkFxcld4MnZUakZQbDF1T3lSV29JNlY5WlhocnNndVoxZDNYQlJDOEx1bzNRNW80c2lwVnhHTV9VQ0RHX2psQzJJdHBiMkcwS3pOSk5QOXBKN3hpQ3lpTUdTaXRyejNNMzAzQm1ZbFh5SmtUUXg4VDJxNVdNODlrZjZGejVVbEl6eUxjNFF5a0lR0gGGAkFVX3lxTE5yakhrZE1oUzEzTVJ4MHd4UFNYOUNkSW1TampNUjZ5c1Rva1l5eEJTYlZhMUt0SnpUdE1zR3RuNXZjSDU3cWpJV1NzU2tFWGlXQWhHLWFqUGxUeTNyU3NuLW1MdjJaSnZJLU9iaUhvcDFSWnVnZDVMTmV6ZnJMeDJzcWE3dlRuS05uU3Q0eDVUVTM1a1MxNTRUanFCV1h0MVBxLTJtRzlXbFg5d3RqZUEya2otTGhkd1g3WjhRbV9QRmFWWUw3Ynl3Y3J3RFpfOTNPaWFzNUtxMTVtaTAwbHQ2SlRHSXo3dkRCUS1seW5fYURPODZyeGVjRVFpMGhrSkNwdXZuRVE?oc=5
+
+- India, US Renew Trade Deal Push, Delegation To Visit Washington This Month - NDTV
+  India, US Renew Trade Deal Push, Deleg
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ25EdWNoZXlqWTFRaEVlVW5pSDNlSEFpc0FFS1d6MERldW4xUmNHb2l3Z3RaMWZISEZyWmNvUEE0ejRjS2lJV0dGa2V5WWxjSzdscWVrbmMyQW45ZmozWTFhMnBTYWYzam9aSEVqZFUyelRXRXo4TC1xWEJWeTBFUlc0c1BXSnptOXlyNE1LUU1uekxDX0xYd192b3BLaWhrZVRsQ2txXzVDSWJmVWxJVDE5WdIBuwFBVV95cUxQaHRabmJNaklLemdnb2s4SW9LbTV3QVRrVWVlak9EVmFfdVFmYk90b19uU091ZGhxY1MzSnVvcGNqUzRFSzJhcjVfVzN6SnFBcHlfY0dVellSZGF4YkNoZHE1UG5IclBESjVEUmNFa2pzLUpDenBkZlEyak1iS3hteWM3SXZrajJ2bG9Kb1hsV3pfY3NPQVpYdkx3aWI0YXZGaHpIb2pnN1QtRHZabjc2NlkwX2VEdFMxZ2NF?oc=5
+
+- India trade delegation to visit US for BTA talks, first in-person meeting since October - The Economic Times
+  India trade delegation to visit US for BTA talks, first in-
+  🔗 https://news.google.com/rss/articles/CBMigANBVV95cUxPRGtvYUtaMTBBa2tNdjR2WllyUmdkdjhMdXFNaHFVdHBwdmdzQ1NmZGY3T1F4U0NPQ3lTR2RjbE5zMkg1SnUtQll5bm1hajN5c2t4ZnFBVnBfdEFjZ3psWm5YcGt5N2dmZHVQT2lWN2FXTHo3RWVKZFJPT2I1VHRGUzdsOGRBbUZYQVF3OERaejlHQ2FwOEkxd0x6Y0RHU2J4RWMzbUtzcnBJS282WHVDNFczRDZtWFYtOXpnNi1kUWw5WUZxVlotZnF5ek1GN28tc3Q1ZkJQQy16TG1hcUt0NUpsZXJ6NGVSb0NSSWJFSzM3V1pSa3ZlZWZnVVp1M1I5ZXdUckVlNnBkNGJuQm1ZZTRZYmZqYlQ2MnNHdlEyR21JMVVDMEg0TjVKRE5iTFEwZVI5V0xCRnlfR0Rod3A5QmhkaHpMM3J3WGNOWWM3dkNsX29SaEFTejNiQ3JmcG5HR0JlT0RkVXE4SldKVEhwVmJEZFFLeDBRbm1tYmZjY3DSAZwCQVVfeXFMT2pDQXg5VlZDNktrMkNuOVVMdkR4QUZXeWFUVUNSTXhEREUxYS1yMndvamNUWjlhOU1lMTJzSjRlTV9lNDJHa0NUWmUwUFZMakIyQnpOcDI1TVdEb3dnc1NOSndVTXAzcVVhcnpONmJ6ajhnOGhUYmg3XzNqVlh6TFZEQ05hWFBfdlh0T1p1bVFhUFpqNTFCeHZySXpJNG51bm9iRXE4T1RjZ0RsbnNNU3BCSi1EamQ2dTA2SWpGZC1HbDVTZjM1Tl84VmN5S3FibmwyQ1BzejNDV1pibEpseS12Rkd5ZDloQXEycWdjSHo3VU5PSmYzM3d3Yko3ajAzU3pwUWZpR3FtaEhMRTd0RklTQ1VsSXozRGVTWFE?oc=5
+
+- India-US to resume talks on bilateral trade agreement this month — What we know - Mint
+  India-US to resume talks on bilateral trade agreement this month
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeHB2TmhfU1E5aHZUeWU1Um9mQU4xb2NyUlVLNlRZODFOWTZ3VHZyQUpuanVwUklXX3hJYmV4MEtNS0Z1NDlfNE9fN3ljS0FScy1LZ2JHblNWWkFSN0NfWWFDdlRNYW1nTzAtN1AzRWRZM18wbDd4MnIwcmxsRV82ZGhKUEhRX21DeHBCQTBpUDByOXFESlFBdnBTZ1M1Y0xxM2ROd2RMUS11eGg5XzVhNTg2Si1LMEpuY1llRzN1Z2hDR1pUT1VqdTRNNElfN0w2WGlVRjhVamlrQWRfWVZSVWFCSHVDTnd4YTNVSG9XbWh5Vng2RjBmZGEycGU4TXBvbmhUONIBigJBVV95cUxPMmdQd3JNV0VaenJyX2tTZlpEMDNFZFlRYVRkM3JoZlhoYjhJTkNBRkRfUWJLVkVIVnlHcVVxWndPVzFJM2twcVdvT3lMa0FBc2pNYkYtbnFOVkRNZjU0c0F1WFJrdTAza1dXSkh4MFRKd0MxOWhqMm5VSmNJRl9oSXYtYXEtR29oemt1aTkxTE1oWlRYbW83eGIwOGp1RVZIdTU0REFYZU81NHZSemdIeWo2M09rTkFxYmRIVHhqR3BQS294ODZUci02dUxIdXVsSWgwNE5aR2VGSHVNZ1pNRlhQOGZfUHRaZlI2elFLOEZ4SEVhUmZsMkxGZklDV2toOEMySGdkbWdLZw?oc=5
+
+- US May Be Eyeing Strait Of Malacca After Hormuz. Why It Matters To India - NDTV
+  US May Be Eyeing Strait Of Malacca After Horm
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdURyanJ1RVpSX2Y3T2tPRWJhb0Y1RzFZekFWYTNkcUpGNkVrX1VfNi1TOW1kOEZnWGxvSFNtT0d0YTRHX0RyZlZzTmxWWDZUS1M3eGxHSHN0NGo1bHJfcmNWYUxTVmlZdzNXaWdXbkdkZTBMU0Y4dUlDcVRGeWxyNVNoMmtRd3JzNFNod1MzUmRib200SUlRY0xoU3hlR1ZmZmJHR1RBZUlhUzI4SjVOVXBn0gG6AUFVX3lxTE1oamRuQzFINEQyUEo5NmtMR29wNjdFUnZzY3p3VjJWUFlsY0NPQUxkMnlzX0tTWFhvcmZLa1Qxa0VZUk05aDRIRTNkWkJRUUlaQjhSWmo2QzFnZnlEbTAzQkViajE1aUhnZUhUd3dLcy1vSndlWWF3d1ZvNVdMUGRTZjVnNW9fTVQ0ZXNGWjBsSC1zUXFmNGhPd05UQkN5eThENFNkdmhKRGlidy1xaWFoME9YOXJUT3JIZw?oc=5
+
+- ‘Up to India to decide but…’: What US envoy said on Delhi's role in efforts to end Iran war | India News - Hindustan Times
+  ‘Up to India to decide but…’: What US envoy said on Delhi's role in
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPYkkwc28tTHJpZzljajRJX0xzaVRGTEZYVEpIZ3NtT0FqZmpIeVlEWThNb3c3anN3b19yTHgwVVFSSzdnTUF5MVM0MzJfeHJIZWYzVzFwNk1LNUJ0SkxvR29wQ3ZsamVYVE1rSnhGU053T0J1RGZhRkFxcld4MnZUakZQbDF1T3lSV29JNlY5WlhocnNndVoxZDNYQlJDOEx1bzNRNW80c2lwVnhHTV9VQ0RHX2psQzJJdHBiMkcwS3pOSk5QOXBKN3hpQ3lpTUdTaXRyejNNMzAzQm1ZbFh5SmtUUXg4VDJxNVdNODlrZjZGejVVbEl6eUxjNFF5a0lR0gGGAkFVX3lxTE5yakhrZE1oUzEzTVJ4MHd4UFNYOUNkSW1TampNUjZ5c1Rva1l5eEJTYlZhMUt0SnpUdE1zR3RuNXZjSDU3cWpJV1NzU2tFWGlXQWhHLWFqUGxUeTNyU3NuLW1MdjJaSnZJLU9iaUhvcDFSWnVnZDVMTmV6ZnJMeDJzcWE3dlRuS05uU3Q0eDVUVTM1a1MxNTRUanFCV1h0MVBxLTJtRzlXbFg5d3RqZUEya2otTGhkd1g3WjhRbV9QRmFWWUw3Ynl3Y3J3RFpfOTNPaWFzNUtxMTVtaTAwbHQ2SlRHSXo3dkRCUS1seW5fYURPODZyeGVjRVFpMGhrSkNwdXZuRVE?oc=5
+
+- India, US Renew Trade Deal Push, Delegation To Visit Washington This Month - NDTV
+  India, US Renew Trade Deal Push, Deleg
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ25EdWNoZXlqWTFRaEVlVW5pSDNlSEFpc0FFS1d6MERldW4xUmNHb2l3Z3RaMWZISEZyWmNvUEE0ejRjS2lJV0dGa2V5WWxjSzdscWVrbmMyQW45ZmozWTFhMnBTYWYzam9aSEVqZFUyelRXRXo4TC1xWEJWeTBFUlc0c1BXSnptOXlyNE1LUU1uekxDX0xYd192b3BLaWhrZVRsQ2txXzVDSWJmVWxJVDE5WdIBuwFBVV95cUxQaHRabmJNaklLemdnb2s4SW9LbTV3QVRrVWVlak9EVmFfdVFmYk90b19uU091ZGhxY1MzSnVvcGNqUzRFSzJhcjVfVzN6SnFBcHlfY0dVellSZGF4YkNoZHE1UG5IclBESjVEUmNFa2pzLUpDenBkZlEyak1iS3hteWM3SXZrajJ2bG9Kb1hsV3pfY3NPQVpYdkx3aWI0YXZGaHpIb2pnN1QtRHZabjc2NlkwX2VEdFMxZ2NF?oc=5
+
+- India trade delegation to visit US for BTA talks, first in-person meeting since October - The Economic Times
+  India trade delegation to visit US for BTA talks, first in-
+  🔗 https://news.google.com/rss/articles/CBMigANBVV95cUxPRGtvYUtaMTBBa2tNdjR2WllyUmdkdjhMdXFNaHFVdHBwdmdzQ1NmZGY3T1F4U0NPQ3lTR2RjbE5zMkg1SnUtQll5bm1hajN5c2t4ZnFBVnBfdEFjZ3psWm5YcGt5N2dmZHVQT2lWN2FXTHo3RWVKZFJPT2I1VHRGUzdsOGRBbUZYQVF3OERaejlHQ2FwOEkxd0x6Y0RHU2J4RWMzbUtzcnBJS282WHVDNFczRDZtWFYtOXpnNi1kUWw5WUZxVlotZnF5ek1GN28tc3Q1ZkJQQy16TG1hcUt0NUpsZXJ6NGVSb0NSSWJFSzM3V1pSa3ZlZWZnVVp1M1I5ZXdUckVlNnBkNGJuQm1ZZTRZYmZqYlQ2MnNHdlEyR21JMVVDMEg0TjVKRE5iTFEwZVI5V0xCRnlfR0Rod3A5QmhkaHpMM3J3WGNOWWM3dkNsX29SaEFTejNiQ3JmcG5HR0JlT0RkVXE4SldKVEhwVmJEZFFLeDBRbm1tYmZjY3DSAZwCQVVfeXFMT2pDQXg5VlZDNktrMkNuOVVMdkR4QUZXeWFUVUNSTXhEREUxYS1yMndvamNUWjlhOU1lMTJzSjRlTV9lNDJHa0NUWmUwUFZMakIyQnpOcDI1TVdEb3dnc1NOSndVTXAzcVVhcnpONmJ6ajhnOGhUYmg3XzNqVlh6TFZEQ05hWFBfdlh0T1p1bVFhUFpqNTFCeHZySXpJNG51bm9iRXE4T1RjZ0RsbnNNU3BCSi1EamQ2dTA2SWpGZC1HbDVTZjM1Tl84VmN5S3FibmwyQ1BzejNDV1pibEpseS12Rkd5ZDloQXEycWdjSHo3VU5PSmYzM3d3Yko3ajAzU3pwUWZpR3FtaEhMRTd0RklTQ1VsSXozRGVTWFE?oc=5
+
+- India-US to resume talks on bilateral trade agreement this month — What we know - Mint
+  India-US to resume talks on bilateral trade agreement this month
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNeHB2TmhfU1E5aHZUeWU1Um9mQU4xb2NyUlVLNlRZODFOWTZ3VHZyQUpuanVwUklXX3hJYmV4MEtNS0Z1NDlfNE9fN3ljS0FScy1LZ2JHblNWWkFSN0NfWWFDdlRNYW1nTzAtN1AzRWRZM18wbDd4MnIwcmxsRV82ZGhKUEhRX21DeHBCQTBpUDByOXFESlFBdnBTZ1M1Y0xxM2ROd2RMUS11eGg5XzVhNTg2Si1LMEpuY1llRzN1Z2hDR1pUT1VqdTRNNElfN0w2WGlVRjhVamlrQWRfWVZSVWFCSHVDTnd4YTNVSG9XbWh5Vng2RjBmZGEycGU4TXBvbmhUONIBigJBVV95cUxPMmdQd3JNV0VaenJyX2tTZlpEMDNFZFlRYVRkM3JoZlhoYjhJTkNBRkRfUWJLVkVIVnlHcVVxWndPVzFJM2twcVdvT3lMa0FBc2pNYkYtbnFOVkRNZjU0c0F1WFJrdTAza1dXSkh4MFRKd0MxOWhqMm5VSmNJRl9oSXYtYXEtR29oemt1aTkxTE1oWlRYbW83eGIwOGp1RVZIdTU0REFYZU81NHZSemdIeWo2M09rTkFxYmRIVHhqR3BQS294ODZUci02dUxIdXVsSWgwNE5aR2VGSHVNZ1pNRlhQOGZfUHRaZlI2elFLOEZ4SEVhUmZsMkxGZklDV2toOEMySGdkbWdLZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-15 13:17:14 UTC_
+_Last updated: 2026-04-15 19:11:48 UTC_
