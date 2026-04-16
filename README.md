@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Telangana caste survey findings: SCs, STs three times more backward than general categories
+- 173 years of Indian Railways: All you need to know about India’s first train journey
   
-  🔗 https://indianexpress.com/article/india/telangana-caste-survey-findings-sc-st-backward-general-categories-10639484/
+  🔗 https://indianexpress.com/article/india/173-years-of-indian-railways-all-you-need-to-know-about-indias-first-train-journey-10639705/
 
-- ‘Bid to take away protections offered by Indira Gandhi, Vajpayee’: Congress on Delimitation Bill
+- As Lok Sabha discusses women’s quota, two Rajya Sabha women MPs weigh in: ‘There is a hidden intent’, ‘No question of seats being reduced’
   
-  🔗 https://indianexpress.com/article/india/delimitation-bill-venugopal-congress-10639387/
+  🔗 https://indianexpress.com/article/india/parliament-women-reservation-delimitation-bill-ranjeet-ranjan-10639956/
 
-- Delimitation Bill violates federalism, denies states with low population fair share: Owaisi
+- BJP trying to change ‘nari’ into a ‘nara’: Akhilesh slams BJP over women’s quota Bill
   
-  🔗 https://indianexpress.com/article/india/delimitation-bill-violates-federalism-owaisi-10639400/
+  🔗 https://indianexpress.com/article/india/akhilesh-yadav-obc-muslim-women-quota-reservation-bill-10639788/
 
-- Centre allows Shikhar Dhawan, Baba Bageshwar foundations to receive foreign funding
+- From first to final reservation chart: How Indian Railways confirms train tickets
   
-  🔗 https://indianexpress.com/article/india/centre-allows-shikhar-dhawan-baba-bageshwar-foundations-to-receive-foreign-funding-10639158/
+  🔗 https://indianexpress.com/article/india/from-first-to-final-reservation-chart-how-indian-railways-confirms-train-tickets-10639586/
 
-- Parliament special sitting LIVE updates: Voting on delimitation, women’s quota bills in Lok Sabha at 4 PM tomorrow
+- ‘In favour of a rules-based world order’: Austrian Chancellor Christian Stocker backs PM Modi’s call for ‘lasting peace’
   
-  🔗 https://indianexpress.com/article/india/parliament-special-sitting-live-updates-women-reservation-bill-proposed-delimitation-bill-10639098/
+  🔗 https://indianexpress.com/article/india/pm-modi-austrian-chancellor-christian-stocker-iran-war-peace-10639649/
 
-- How to disable YouTube Shorts and stop endless scrolling
+- How older adults are using virtual reality to counter social isolation
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-to-disable-youtube-shorts-and-stop-endless-scrolling-10639374/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-older-adults-are-using-virtual-reality-to-counter-social-isolation-10640179/
 
-- Four-planet parade: How and when to watch the rare alignment in India
+- Google should allow third-party search engines access to data, EU says
   
-  🔗 https://indianexpress.com/article/technology/science/four-planet-parade-how-and-when-to-watch-the-rare-alignment-in-india-10639201/
+  🔗 https://indianexpress.com/article/technology/technology-others/google-should-allow-third-party-search-engines-access-to-data-eu-says-10640128/
 
-- Cadence, Nvidia working together on developing AI for robotics
+- Lenovo, OnePlus, and Redmi: Best tablet devices under Rs 25,000 in 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/cadence-nvidia-working-together-on-developing-ai-for-robotics-10639193/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/lenovo-oneplus-and-redmi-best-tablet-devices-under-rs-25000-in-2026-10640002/
 
-- Snap to lay off 1,000 employees, cites AI and cost pressures behind job cuts
+- 73 landings to a permanent home: Nasa unveils ‘Moon Base User’s Guide’
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/snap-lay-off-1000-employees-ai-job-cuts-10638596/
+  🔗 https://indianexpress.com/article/technology/science/73-landings-to-a-permanent-home-nasa-unveils-moon-base-users-guide-10640088/
 
-- Vijay Sales Apple Days extended till April 19: Apple Watch Series 11, SE, Ultra 3 see price cuts
+- Tech Launches Today (April 16, 2026): GoPro Mission 1 series, Adobe Firefly AI Assistant, Lumio Vision 9, more
   
-  🔗 https://indianexpress.com/article/technology/vijay-sales-apple-days-sale-extended-till-april-19-10638557/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-today-april-16-2026-10640042/
 
-- Lenskart’s viral style guide row: Bindi, tilak banned but hijab allowed? Peyush Bansal responds
-  Peyush Bansal has dismissed allegations that Lenkart allows employees to wear a hijab and turban. Bans
-  🔗 https://www.livemint.com/companies/news/lenskarts-viral-style-guide-row-bindi-tilak-banned-but-hijab-allowed-peyush-bansal-responds-11776319876088.html
+- EU proposes that Google allow third-party search engines access to data — What we know
+  The European Commission proposed measures for Google to comply with the Digital Markets Act. A final decision is expected in July this year.
+  🔗 https://www.livemint.com/companies/news/eu-proposes-that-google-allow-third-party-search-engines-access-to-data-ai-chatbot-optimise-services-what-we-know-11776334792348.html
 
-- Tejas Networks flags ‘disappointing’ FY26 as BSNL slowdown, order delays hit revenue
-  Completion of the 4G rollout and delayed orders pushed the Tata-backed firm into losses in FY26.
-  🔗 https://www.livemint.com/companies/company-results/tejas-networks-flags-disappointing-fy26-bsnl-slowdown-order-delays-hit-revenue-11776316895411.html
+- Signature Global ties up with Tonino Lamborghini to develop  ₹2,900 crore luxury housing project in Gurugram
+  The branded residential venture, named ‘Tonino Lamborghini Residences Gur
+  🔗 https://www.livemint.com/companies/news/signature-global-ties-up-with-tonino-lamborghini-to-develop-rs-2-900-crore-luxury-housing-project-in-gurugram-11776331926318.html
 
-- CtrlS Datacenters weighs $300 million India IPO amid digital infrastructure boom
-  The Hyderabad-based firm has begun talks with bankers, targeting a listing by the end of this fiscal year.
-  🔗 https://www.livemint.com/companies/news/ctrls-datacenters-weighs-300-million-india-ipo-amid-digital-infrastructure-boom-11776310276201.html
+- Vedanta accuses JAL creditors of preaching ‘process’ while ignoring it themselves
+  The company is contesting the selection of Adani Group's lower-value bid in the NCL
+  🔗 https://www.livemint.com/companies/news/vedanta-accuses-jal-creditors-preaching-process-ignoring-themselves-11776327394358.html
 
-- Former Tata Trustee Mehli Mistry wants an administrator to run Tata Trusts
-  Mistry challenged the votes cast by Venu Srinivasan and Vijay Singh that led to his ouster in October. He questioned Tata Trusts chair Noel Tata's objection to reappointing N. Chand
-  🔗 https://www.livemint.com/companies/former-tata-trustee-mehli-mistry-wants-an-administrator-to-run-tata-trusts-noel-chandrasekaran-11776259306739.html
+- Lamborghini heir checks into India’s branded homes market with  ₹4,000 crore Gurugram project
+  Tonino Lamborghini has partnered Signature Global for a 812-unit
+  🔗 https://www.livemint.com/companies/news/lamborghini-heir-checks-into-india-s-branded-homes-market-with-4-000-crore-gurugram-project-11776326197451.html
 
-- More than rooms: India’s hotels load up on restaurants, banquets and spas
-  As long as demand continues to favour these full-service formats, and hotels continue to build around them, room rates are unlikely to ease.
-  🔗 https://www.livemint.com/companies/news/india-hotels-overbuilt-amenities-weddings-demand-report-11776240209652.html
+- Intel gets interim relief as NCLAT stays  ₹27.38 crore CCI penalty
+  The tribunal has asked the chipmaker to disclose withdrawal of India-specific warranty
+  🔗 https://www.livemint.com/companies/news/intel-gets-interim-relief-as-nclat-stays-27-38-crore-cci-penalty-11776322962472.html
 
-- New focus to be on attracting domestic capital, says IVCA chair Srini Srinivasan
-  New IVCA chair Srini Srinivasan outlines plans to channel pension and insurance money into AIF
-  🔗 https://www.livemint.com/market/new-focus-to-be-on-attracting-domestic-capital-says-ivca-chair-srini-srinivasan-11776316913414.html
+- US stock market today: S&amp;P 500, Nasdaq futures steady after record-setting rally; Allbirds down 30%
+  The S&amp;amp;P 500 reached 7,002.28 points. Small-cap stocks also gained traction, reflecting improved investor sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-steady-after-record-setting-rally-allbirds-down-30-11776335996931.html
 
-- Small-cap stock under  ₹50 extends rally for second straight session, rises 30% this month; do you own?
-  Over the past one week, the stock has gained 7.28%, while in the last 2 weeks it has surged 25.22%. The upward momentum has remained intact over a one-month period as
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-extends-rally-for-second-straight-session-rises-30-this-month-do-you-own-11776321362425.html
+- ₹25,620 crore foregone! Nithin Kamath shares why Zerodha stuck to the hard path of zero brokerage
+  Zerodha founder Nithin Kamath emphasized the firm's commitment to customer trust by avoiding fees and revenue extraction tactics. This philosophy has resulted in significant
+  🔗 https://www.livemint.com/market/stock-market-news/25620-crore-foregone-nithin-kamath-shares-why-zerodha-stuck-to-the-hard-path-of-zero-brokerage-11776341933172.html
 
-- Vedanta shares hit an all-time high, rising eleven days in a row; brokerages predict strong Q4 results
-  Vedanta share price today touched an all-time high of  �
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-today-vedanta-share-hit-an-all-time-high-rising-eleven-days-in-a-row-brokerages-predict-strong-q4-results-11776318770473.html
+- Wipro announces share buyback worth  ₹15,000 crore. Check price, record date and other details
+  Wipro's board at its meeting today approved the proposal to buyback up to 60,000,00,000 fully paid-up equity shares or 5
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-buyback-wipro-announces-share-buyback-worth-rs-15-000-crore-check-price-record-date-and-other-details-11776337746028.html
 
-- Vodafone Idea, JP Power, Ola Electric, Reliance Power among most traded stocks on NSE today, 16 April 2026
-  Vodafone Idea, Jaiprakash Power Ventures (JP Power), Ola Electric Mobility, Reliance Power, YES Bank, and
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-jp-power-ola-electric-reliance-power-among-most-traded-stocks-on-nse-today-16-april-2026-11776320085037.html
+- HDFC Life Q4 results: Profit rises 4% YoY; declares final dividend of  ₹2.10 for FY26
+  HDFC Life reported a 4% year-on-year (YoY) rise in its standalone net profit after tax to 
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-life-q4-results-profit-rises-4-yoy-declares-final-dividend-of-2-10-for-fy26-11776337290501.html
 
-- TSMC Q1 Results: World's largest contract chipmaker posts 58% YoY rise in profit to record $18.2 billion
-  Taiwan Semiconductor Manufacturing Co saw January-March net profit rise to T
-  🔗 https://www.livemint.com/market/stock-market-news/tsmc-q1-results-worlds-largest-contract-chipmaker-posts-58-yoy-rise-in-profit-to-record-18-2-billion-11776321974174.html
+- Wipro Q4 Results: Net profit falls 2% YoY to  ₹3,502 crore; Board approves  ₹15,000 crore share buyback
+  Wipro reported Q4FY26 net profit of  ₹3,502 crore, down 1.85% YoY, but up 12.27% sequentially
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-q4-results-net-profit-falls-2-yoy-to-rs-3-521-crore-board-approves-rs-15-000-crore-share-buyback-11776334697603.html
+
+- Bluesky down in US and UK? Thousands of users report outages - Check current status
+  Bluesky down in US and UK? Thousands of users report outages. Read to find
+  🔗 https://www.livemint.com/technology/tech-news/bluesky-down-is-us-and-uk-thousands-of-users-report-outages-check-current-status-11776336194944.html
+
+- OnePlus Pad 4 India launch confirmed: Check display, processor, battery, launch date and features
+  The OnePlus Pad 4 is set to launch in India on April 30, 2026. It features a 13.2-inch 3.4K display, Snapdragon 8 Elite
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-pad-4-india-launch-confirmed-check-display-processor-battery-launch-date-and-features-11776331369043.html
+
+- Inditex data breach: Zara owner Inditex reports major data breach exposing customer transaction records
+  Zara owner Inditex reported a data breach involving a third party. Latest breach exposed
+  🔗 https://www.livemint.com/technology/tech-news/inditex-data-breach-zara-owner-inditex-reports-major-data-breach-exposing-customer-transaction-records-11776324988084.html
+
+- Meet Happy Oyster: Alibaba launches new AI video model that turns text prompts into playable 3D worlds
+  Alibabahas launched the Happy Oyster AI model. The new model is capable of generating interactive 3D environments and videos in real
+  🔗 https://www.livemint.com/technology/tech-news/meet-happy-oyster-alibaba-launches-new-ai-video-model-that-turns-text-prompts-into-playable-3d-worlds-11776321902774.html
 
 - ‘Your job is changing on you’: LinkedIn says AI isn't killing hiring, but will rewrite your skillset by 2030
-  LinkedIn executive has revealed that AI isn't behind the hiring slowdown and instead
+  LinkedIn executive says AI isn't behind the hiring slowdown and instead blames it on
   🔗 https://www.livemint.com/technology/tech-news/your-job-s-changing-on-you-linkedin-data-reveals-ai-isnt-stealing-jobs-yet-but-it-will-rewrite-your-skillset-by-203-11776316655729.html
 
-- Nothing launches the ultimate Android-to-Mac transfer app, quietly takes it down hours later
-  The Warp app was removed from Android and Chrome soon after its launch. The company is yet to share a reason for the
-  🔗 https://www.livemint.com/technology/tech-news/nothing-launched-warp-app-for-android-to-mac-file-sharing-takes-it-down-hours-later-11776309387350.html
+- Stock Market Today: Stock Futures Tick Higher as Optimism Continues - WSJ
+  Stock futures inch higher following a record-setting day for S&amp;P 500 and Nasdaq.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkwxV21saG4xTTRqU0JRXzh2VTBpX2dfXzFzWHRTdFJEWW5sT2pndjk1Y2FzbFJiV3FZY1l2dms2Y01sUWdHQm1nS2V4U0NJLXEtQ0RfNjlJNnlEcHFlTDFkM0ZVS09TQ01qb2p3X0ZfM1BnbzItd0h4VkZQdFZ6MHhYSUV6VVU?oc=5
 
-- YouTube finally lets you turn off Shorts: Check out exact settings to clean up your feed
-  YouTube now allows users to completely remove Shorts videos from the app. This option is part of the Shorts Feed Limit feature which was first
-  🔗 https://www.livemint.com/technology/tech-news/youtube-finally-lets-you-turn-off-shorts-chec-out-exact-settings-to-clean-up-your-feed-11776301374994.html
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex settles 123 pts lower after choppy session, Nif... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxNR3Z1WURfRG9tWGNqdXZFN2lhMm9ZX3NUMHc2a05WVlRkWjkyOVZyakh4NGNYSHdMUGhoR09rLXRQSUF5aEdsTlFFVmFmaWc3eFlaQi1kMlJzWkxkWklyWUV2Mnk0c1NwQn
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNR3Z1WURfRG9tWGNqdXZFN2lhMm9ZX3NUMHc2a05WVlRkWjkyOVZyakh4NGNYSHdMUGhoR09rLXRQSUF5aEdsTlFFVmFmaWc3eFlaQi1kMlJzWkxkWklyWUV2Mnk0c1NwQnpNdzNrdXBOT2RKMXpoNF9RTGc3ajVudTBqR214X1A3NXR0QnVxM2Z4eXhva01LMzI5NGViYjBrUW50TG9lTWhrOUFOXzBXdi1MMklTS0FJY1NSYk9BS2pOdlZZa0QzbXgzYU5OTmlpWGlJWXpHbS1QTU1mSWdXWUdEVVRmeTRJTndMZkg4OWwwRUl3NzB2S09sZTlUaXRt0gGGAkFVX3lxTFBMclVkLVhFUVpKanIxNml2dUt2bkV2SWRMWU1ZUC1BOE04Y1hkNHQtSzB4dl9pZDUxX19LQVhiRGFNR3UxMEg4bVVJc0NRQURVQkh5MHNYeFRfcFloX3lDcHNxMlJXdlJ6UURwN0FqcnE1U01waDhVbG9SUGZrUDhpSW1YWnNtYWx0N3V0Z09HQ0JPaGRZVmxLWGloQ3NhREppQVR2R0RQTmdRejNWQWVYRktpcTVRRGtJVzRHSThUZktyZ0VyN05WcHUxc3RORHEwQ1I2T2JsTEY3cERHUEctMmg1R3N2TTNnQlYyRWV3Qk1aVU1QcXROdVBka3RBcXotaTFFYUE?oc=5
 
-- Google brings the Gemini app to Mac, Sundar Pichai says it was built by AI
-  Gemini app was built by Google's own AI coding tool Antigravity. Users can access its AI assistant via a keyboard shortcut.
-  🔗 https://www.livemint.com/technology/tech-news/google-brings-the-gemini-app-to-mac-sundar-pichai-says-it-was-built-by-ai-11776303113440.html
+- Solar Module Mounting Structure Market Leaders in 2025 - Mercomindia.com
+  Solar Module Mounting Structure Market
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWFfa2g4Z2NudkxBTEtFN3lqOW9uQTRObVZiMFlLTGF5X3FXWWp6bS1wLThEbGlzUk9fMXp5RExNWjE4WTFRUnV6Y3N5bHpoMURabXg2NHByMlhkb3R2emNQZ1lxM1JCM3hCdGN0UTJfb0VfV3hHWjFGTzFJVm5LOTR0dEZmOXhyLWc?oc=5
 
-- EU threatens to force Meta to restore WhatsApp full access for rival AI chatbots
-  EU threatens to force Meta to restore WhatsApp full
-  🔗 https://www.livemint.com/technology/eu-threatens-to-force-meta-to-restore-whatsapp-full-access-for-rival-ai-chatbots-11776270064861.html
+- Aluminium in crisis: war, tariffs and a market running on empty - Reuters
+  Aluminium in crisis: war, tariffs and
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWJSZnNWN1lyMWJyS1ZROUhaTWsyUHM5U3FjQkprdi0ybWkyeXhhUm5GWmlBajZMOElHQlE3cF9UTDBBczJRZzJJNS1ZZjF2TGVJLUtnVW5SelRsRUQ2c294WHY3MURhS1BuY3gyemJHb09GNFR3Y2M0NG9Jd3lFdEp6N00zc2dIeDNjY09JNXJhX3k4clo2QUpLU2s4V1RUSTkxYWJQVGE?oc=5
 
-- Sensex falls 800 pts from day's high, Nifty below 24,200: Three key reasons behind markets turning red - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNndJeFJOQTJZZ19MVkVIX1ZPS0xMSjFTTmxEVHZBTGhCc1I1ZWJhZzJFa3g5NThzSENXNVhFWklTdUpOMUdQZ1NfT1dmdlRlOFFUVUFYajFDTDZYWVJ4ckJqcTJtTzkxMF
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNndJeFJOQTJZZ19MVkVIX1ZPS0xMSjFTTmxEVHZBTGhCc1I1ZWJhZzJFa3g5NThzSENXNVhFWklTdUpOMUdQZ1NfT1dmdlRlOFFUVUFYajFDTDZYWVJ4ckJqcTJtTzkxMFBNU1B1Si1na2tJM3B2dkdpcm1XZHFaSVFkSTBRQ0xuOVpQSEMxV1NKQ0dsVnM4RW84emlKOExBRG13aS10d2JnVnZvdmZBNHdYVS0xN2l4aXZ6NXZvX0ZIeTNyamxqMEhBQTNNbFFCb05hSHIzeXI1VHctRWUwdzdkb01URFVScGpJSVpVOEXSAfYBQVVfeXFMTXVZZXFtUkFfS2diSktJTDVzTUR1bDdoRjFSMHBUNldmMHIweHRvT2k1ZmtQQ1phUjBCLWNVcnR1T1U4YlZmWi1zVFdnRVdOTTJycnB4TThlMDB1bzVGZElwanZPcmRNWC1DbGZuM2duano2TVpMSmN2YU1zUFAyRUczSFplYV9xOHBHcXA0YTJ3UEFzQUEzdDJXV1dleDFDMXYwN29KU19sejVNbVZmSlB1Z2pLTVUzcVRxZUtxVmNQdDE4NUlIbTZhOEJBby11LWlqYVZ5bndDa0hoQXdHNlhrT2w4ZlRfeGhMVnNjNllBOEdMRktB?oc=5
+- Big US banks rake in near $50bn profit as Iran war shakes markets - The Guardian
+  Big US banks rake in near $50bn profit as Iran
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1B2QXRVbDhrZ19kYy1YM2ZJdjJoVVpNRnZpbmFGb2t0RUZYYXlhMXBHajRkSU56VEhBZF82YVNZeUg4RkUtUmh6MVhiaUpXcVdIQWxFeU5qVnlQSS1qalk0eVdrUGhWRUFVMmNkdmxSclpiRjEySFN2MmxWT2ZxdWZzMjZndGs5YXY3S01aY1F5QVVtd2V1V0x0enhjckE5cUVlbWJjRUxkbDJKa0dj?oc=5
 
-- US Stocks Hold Near All-Time High on Peace Hopes: Markets Wrap - Bloomberg.com
-  US Stocks Hold Near All-Time High
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGJ2SWprb0xid2pKa1NZYlhWVzFnU2NQMzNBTVkzV0lPVlJzZWJ1UG4xRnM4Uk9EMmQ3bFJBallXbDZIVHpOOEJ3U0t1QWJpVnNDSHJmaEQ4QXVXZjJhamNmR1E5TXpMb3N6Vy1EYm5JbzZaMWhWd2xxMDNTTDVIV0NVLTM2aHZGdXU1WjV2RVBGWk5V?oc=5
+- Quote of the day by Paul Tudor Jones: "The most important rule of trading is to play great defence, not great offence."
+  Seasoned traders prioritize survival and consistency over aggressive bets. Avoiding strikeouts, not hitting home runs, is the key to long-term success in volatile markets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-paul-tudor-jones-the-most-important-rule-of-trading-is-to-play-great-defence-not-great-offence-/articleshow/130306990.cms
 
-- Markets News, April 15, 2026: S&P 500, Nasdaq Close at Records as Investors Downplay Iran War; Dow Slips - Investopedia
-  Investopedia: S&amp;P 500, Nasdaq Close at Records
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnlVSF9lOFo5UmZVdmxMRnZwWDQxWk9LNTRxQndGZ1VVNTNoY08yYWRUcG53cTJld3I0SDNGczlJLVhIY3FBN09LRWZpNHhmNk1adTd1SEF5LS16MnFLdHRHWGZrbFBMV2N0NmFQSldXY1RyOXNJOEJ0bmV4N1UwTk5KNmRSRWx0YlN6ZUNYYWI?oc=5
+- GMDC, Gujarat Alkalies among 8 commodities stocks that hit 52-week high; rally up to 65% in a month
+  Eight names from the BSE commodities index hit fresh 52-week highs. Gujarat Alkalies, GMDC, and Indian Metals led the rally.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gmdc-gujarat-alkalies-among-8-commodities-stocks-that-hit-52-week-high-rally-up-to-65-in-a-month/slideshow/130307508.cms
 
-- Stock futures are little changed following a record-setting day for S&P 500 and Nasdaq: Live updates - CNBC
-  Stock futures are little changed following a record-setting day for S&
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBZZG9TTldPdWc5NEM4SjJuQW1xN2R3RHNlbFJTWHN4SWVOeEVLQ1NoUUNTME84TWVhQmdiOUNiTXRQWUpIa1NjQWpTUEpwRXliVExDTTVDNUYyUE05RnJHQ0l1RHctQU1QZGc5dFdhSjN1LXJlZks40gF8QVVfeXFMTkliTndPcUdrbjdGSHpYUy1lT1VSYWtTQi1VSGZDSFlYTjFNeldBNnNLakJWNUhmaHVQbzF0bC1QUXFqSFR1N0tJNVg3Y210V21QMEcxR3lUcnRzTzJEM1ZuRWgxV0IyQXB2NncxWmdYbEVmckxZWHRVVy16UA?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures edge higher on Mideast diplomacy hopes, strong earnings
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-ceasefire-talks-brent-crude-oil-inflation-earnings-tech-stock-price-news/liveblog/130306797.cms
 
-- Japan's Nikkei 225 hits record high as hopes for U.S.-Iran deal fuel broader rally in Asia stocks - CNBC
-  Japan's Nikkei 225 hits record high as hopes for U.S
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUU0YzZkVTBlbndqTEdoaTdJVjd4ZmF2QU1sRG0xSkstZ3R5cFM3TnJneFZ0a2FfUEVuRXN3SElBWGZnc0pna0J3UjJnZlc2RksxdEpRTWVRdy1tZEJIeE81ZWlNa3BQanJtZERwcXRmSHhjSy0wRWVHdjl0VXlZdVI3RUFZWEhYV1hSTi1CWjd6NEhBMUxyZkVmZEJNcEVBTTlVYWsyX29lVkHSAbABQVVfeXFMTTdoRWxtVlczWTZGeTlVV0dIMUp6R0h5bTU1V1ZKR3pHLUZGbGFJVEhJVzNHSFQzVzRjazNDQklXWExUMlA1R0lERktyVElJRTFESl9xTVIwRTZ2ei1GM1BlWW1QTGVBQ1JTWFNPb0pJZWhBbnlHdEozajNYS09IOG55UXloRGs3NlItUjkxMHlrbkI3WWRQTFZPSzNMdU54c3pveHFURURZeGxPYXFNN04?oc=5
+- LIVE | Wipro Q4 results: Profit drops 1.89% on yearly basis | Earnings under pressure
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/live-wipro-q4-results-profit-drops-1-89-on-yearly-basis-earnings-under-pressure/videoshow/130306527.cms
 
-- LIC’s bonus dhamaka sparks 7% rally in two days. What lies ahead?
-  LIC shares surged 7% in two sessions after announcing its first-ever 1:1 bonus issue. The move, involving capitalisation of Rs 6,325 crore reserves, signals strong financial health.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lics-bonus-dhamaka-sparks-7-rally-in-two-days-what-lies-ahead/articleshow/130300292.cms
+- HDFC Life Q4 Results: HDFC Bank to increase stake in the company as profit rises 4% YoY
+  HDFC Life Insurance will issue shares worth one thousand crore rupees to promoter HDFC Bank. This move aims to strengthen the insurer's solvency and support future growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-life-q4-results-profit-climbs-4-yoy-hdfc-bank-to-hike-stake-buy-shares-worth-rs-1000-crore/articleshow/130305866.cms
 
-- GMDC shares rocket 18% to new 52-week high. What’s triggering the sharp surge?
-  Gujarat Mineral Development Corporation (GMDC) shares surged 18% to a new 52-week high of Rs 736. The company, a major lignite producer, also announced a collaboration with NMDC to explore Rare Earth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gmdc-shares-rocket-18-to-new-52-week-high-whats-triggering-the-sharp-surge/articleshow/130300056.cms
-
-- Coal India, NMDC emerge as must-watch mining plays as spot prices surge, says Motilal Oswal's Siddhartha Khemka
-  India's mining and metals sectors show strong opportunity with surging coal and iron ore prices. Private banks are outperforming PSUs due to NIM recovery, with SBI and ICICI Bank as top picks. The auto sector saw robust
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/coal-india-nmdc-emerge-as-must-watch-mining-plays-as-spot-prices-surge-says-motilal-oswals-siddhartha-khemka/articleshow/130299888.cms
-
-- Groww share price dips over 2% after massive 26% gain in 5 sessions. Right time to buy?
-  Shares of Billionbrains Garage Ventures fell 2%, snapping a five-day rally. Brokerages initiated coverage with bullish views.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/groww-share-price-dips-over-2-after-massive-26-gain-in-5-sessions-right-time-to-buy/articleshow/130299624.cms
-
-- Suzlon Energy shares rally 20% in one month: Here's why it is an 'unintended beneficiary' of Iran-US war
-  Suzlon Energy shares have surged 20% in a month as rising power demand and reduced gas and hydro output amid the Iran-US conflict boost wind energy’s relevance. JM Financial sees the company as an
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-rally-20-in-one-month-heres-why-it-is-an-unintended-beneficiary-of-iran-us-war/articleshow/130299464.cms
-
-- Parliament Budget Session: Delimitation, Women's Quota Bills To Be Tabled Today: How Numbers Stack Up - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZF
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZFpnUkh1UzhoSW1BSkkxdW5xV0ZQOWRiQjFNX3dWanJwa2NBcEhCeVJWbThiUzdZUFZYMlJtbWZsY05aYURQekVTUE9Id01uYjNn?oc=5
-
-- US won’t renew sanctions waiver on Russian, Iranian oil: What it means for India - The Times of India
-  The Times of India reported that India will not renew sanctions waiver on Russian
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaUg3Z0FHNkhQd1RkX1dVQXhoYWV6cThESDBXSVM3THlUOGMzNWdJcmFPNFh2WnlyUi1ERnp2YXlrOU1NSlctMERQdm9kckxKUHNQVzNUSFRhQTB1UmpwRnZTX2RVUGswd0NiV0gtREpyMUs3Q1dWVTJrTFZOOUs2YnpQZFYtSmdhdXVUeWJtZ3VieEZkZFBYZ0FJSUtDVF9BOHZCNFh1aXQ3aEtPdGNrbTNoSDFDbWpjX1IyeXoydDdOOEZvMWR3YV8yQk51OTZfTjZSTDZ0UHh2VU1MdjBKanBiY0YxNlhkQTdnY2pVd2QweVJqbXfSAfsBQVVfeXFMUFgwSlNUdjJwbmJzNFhRTXp3YXJuczhIQUdBRFljcnYxNy1BVXBrcGduR3o4V1ZBTzJRUmlrcDNZdGRXWGprb2dLT0p0T2NrZlozNzN6MlVsVnNfdUJZWHpfdG1VS1ZGSTZsZ2RYVWg5LTB0elIzeUEtTzQ5YkxRSUdpMjY2UFJnZDg0emtxbjc4V2tmeHJiX0djc1dDcGg5VERLV2lHOUlJRHp1SVNSckFEbDkyM1J3TmM2Y0hJMHZkcU83alByYW03WlZZQ0YwenlhYUIwQ0VDWGRiTmQtNk04MHFkd1NvTHdvOElQTFBqTkg1Q1k3a1dZU2M?oc=5
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  BBC asks: Will north India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
 
 - US Says It Will Not Renew Sanctions Waiver Allowing India To Buy Russian Oil - NDTV
   US Says It Will Not Renew Sanctions Waiver Allowing
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQeE9yN0N5dC0zNE5VWng5TXRoaTA4Q2djci01MlFKdHBFbVFwRlp2RHM5bnFGRDl0c3FLQl9XTmFFM3BUMmVOa01JR2VhNlQ1VmZ3VDlNYzNVSXlUMFcxT2VxXzBOZnFRSEhoZ2V6WExzMHRILW9oTTJidTlZN1o4WkFwT3hfMmdycHduQXhaNWUxZmhNV3o5V3hXSDNlb3htcG1LUzBBQ0VWLS13YklHNDE2Z1Noc3p0aHJ1WkI4VjdnQlNhNXNsN1FHc9IB0wFBVV95cUxOYm5Pc0J1R1lyU1oxYjN4VmdhY3FRcUdFZURMOTNKTmFIdEN4NXBRTURhX1pWS3VjeHh1WlRMSXBWYmlVRlkzVTNoNUNucy1sRTNqdkxLblRvNnNPR1RtYU9VejZYdE1KVE5PcXZfOXFtTUprUTRybXNZemJpRGU2NzJKbDMzMWpuRjNxWVlNUHBBcldlRmx0cjNUMFZfa2VYQUdmRWlKcE1tTWkzUnBuekZWVktvMVdueXplREU5UW5jdWZ3cTh2LUNpY3diNmdjU2FR?oc=5
 
-- US says waiver that allowed India to buy Russian oil won't be renewed | India News - Hindustan Times
-  US says waiver that allowed India to buy Russian oil won't be renewed.
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelpVSG9RSXNVSEJqU2hwZFlmckV4bFkweDRoNEpKc2pVazZRc1hha21CMkhMWmVqanprOTJFSGc0dVlOZXpZUEF1bFlnNmNNZUhqdmlMVUUxVzRFNWo4b1d3c2Jrc0tKTnFfeDBsb1lNcF9YUDctUDdRU2p4QS1PZXRFbXNVd1p5X09DR0ZjblNCdHUzaTZiXzIwcXRpRWktTlNzUjM5c1JKdjBMeHEwc29sLWlPUnNrRzVtb2U1dGpjblZxUWNrTNIBzgFBVV95cUxQQTdlWTdzNUQtYTdRcnBOVFJNWU1INHNWWFdPdGxTYXYwNGJqVFpuRG8weV9aQnpsd2dKWU9oaHJsY2VfYVNRSHhicXoyV3VrXzlUVXBWOUp3N2F1eWJTb3JLd2ZmQmU3Sm9tQWlNTUhuU2lRNVJfR21nbnZPMUJPV3RaWWFSUGZUYnM5akdCdVhSX3g2dDJDTXcwdnFkcGhRcENxM2o3YjZzc2NNRmtISkg0dGNzN2pMMjZfWjdod0pmNk5VUVdBZUg0TjA2dw?oc=5
+- Breaking News Live Updates: Debris found in search for missing helicopter in Indonesia - The Times of India
+  Debris found in search for missing helicopter in Indonesia.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmVJQ2kyVTRYb0hRMThaXzBaSVpHNHNzelVLcGwtOGQ2Xzh3R21CcTJ0Ynh5a3h5bDFXV0ViTGYxdlJfdDlTdi1zUFNHbGJ1QTlsQzdILWFWTTJjVGJoLWZXYzJjZG1OR2Z3ZG5jTTRhT3JqbVRuRGNkQ0dGRzY2M1QzTGtaTUlyY1dheEJwV0RjMDBtWlU1TERua0VMSGZsRHFoN0RZUl9rbGozWWpvemEwcVVpVUJOQ1kweFZmWVMzV3QtTUNEOVhR0gHPAUFVX3lxTE1PM3UzN1F1UmtfZGl6Qi1WM3pKblg5SVQ4YmM0M3NOMWJJYkQ1SmhZb08tM28wYkdUdUtqS2d4R08xSW9Oall6SVNWck9XSnoyZzF2X3FEY0hQU2J5ZXEybERfUW9kN0dBV29hYThDY0dUYTlDal94MXJlblh6N0Vhc1ExTzdLWmxDbmZmWW5YXzdUSm5veEMxdjRUaU9kdVQxNFpvNUlPVS1HeGtJaUxTVEFqb01jeGY5M2VybkQ4NVk3Vlp3LW0wa2JSeUVaUQ?oc=5
 
-- Terrorist Amir Hamza, LeT co-founder, shot outside news channel office in Lahore - India Today
-  Terrorist Amir Hamza, LeT co-founder
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDJWeG5FMExkMXJ5N0VscTU1WnNSLWhxdTFlSFVLbUc5WGZ2VWRVUzE3TERRaE56WWpEN0x1bWFMbWFIdEk5cHRiWXpsTGlRcnRzb21TM256NExHOTdqRzNIRzRtaDJKV0U0ckZEdVlpNGV6VU1mY1NTbncwaGhac2l2Sm43M1ViRzV6UUhmb0Q1cDVvS3JwMW9BcHZTUW02cjFadmk3VWtiWE1Ud0FQbVJkWlYtWWF4Z0dMN0VsU2phd2lwMkZoXzQ2cl9ZQTVxM0ItYXo2SjY1UDAxUWJz0gHkAUFVX3lxTFBFTXFOa1hia3dZZk9pbFVPNkNTVVZqNzdKTVlaRDhaZ2duVXVHYjUtR0xwazZpaWN4aVJpREZyam8ySEZfYUVuZjlYOTB6RXNfQzlvd3JwNFhRUFIxV0ZSNmZqMEJEdjVJSDB6eWh0ME0ybWRxbHB0TEFfcndrV21YTW5KRDI0QlF5WUg0a2lIeVNrWWpiWFlOb3k3MTNaeHBWTGNRcmZFUnFYS0c4TjJaTG4xb3h1TmRsSnhhdDNVcVFDY3YyOWRjMVlNdWNybmtQVV9vN2JmTEU3WFhUSjBJVVF1LQ?oc=5
+- Modi’s Rush to Remake India’s Electoral Map - Bloomberg.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZX
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZXhiSDZiaWRRSmZJeV9FRjAxUWZIclNWUG9wUnB3YmFqTy1ZTkRGNGVFNlpOTDJwWWZfR09NWDRpenBRZDFpOFZyY0FGTlVEYi0zYW5WZ0Y3Sk9pOTVGZ05VQ1pFRjFLRQ?oc=5
 
-- Parliament Budget Session: Delimitation, Women's Quota Bills To Be Tabled Today: How Numbers Stack Up - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZF
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZFpnUkh1UzhoSW1BSkkxdW5xV0ZQOWRiQjFNX3dWanJwa2NBcEhCeVJWbThiUzdZUFZYMlJtbWZsY05aYURQekVTUE9Id01uYjNn?oc=5
+- Railway Minister Ashwini Vaishnaw commemorates 173rd anniversary of India’s first passenger train - News On AIR
+  Railway Minister Ashwini Vaishnaw commemorates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNckRTU0dIdHpHQVRySzdDelhHak01OWlfT0oteVBBZHBBYVlocnJJR3hGQlZGNVpjUlh1Q2hlUmZMb01zQVBvS3p5aWxCRC1iLVdWQnRQa1dVRURYc1UxZEdOUnpyRGJSeGFlUVpCLWp2ZG5DWkFaN1BhOFdNT1FCMDJDLUlOZmdLd24tNi1BSlItUExDRlpfbFNPYTRZRW9LcmJ0Q0VfVWp6WmFpZ0xBVlJ5OWNvV1hqOWpmQzYwcHNlVEwt?oc=5
 
-- US won’t renew sanctions waiver on Russian, Iranian oil: What it means for India - The Times of India
-  The Times of India reported that India will not renew sanctions waiver on Russian
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaUg3Z0FHNkhQd1RkX1dVQXhoYWV6cThESDBXSVM3THlUOGMzNWdJcmFPNFh2WnlyUi1ERnp2YXlrOU1NSlctMERQdm9kckxKUHNQVzNUSFRhQTB1UmpwRnZTX2RVUGswd0NiV0gtREpyMUs3Q1dWVTJrTFZOOUs2YnpQZFYtSmdhdXVUeWJtZ3VieEZkZFBYZ0FJSUtDVF9BOHZCNFh1aXQ3aEtPdGNrbTNoSDFDbWpjX1IyeXoydDdOOEZvMWR3YV8yQk51OTZfTjZSTDZ0UHh2VU1MdjBKanBiY0YxNlhkQTdnY2pVd2QweVJqbXfSAfsBQVVfeXFMUFgwSlNUdjJwbmJzNFhRTXp3YXJuczhIQUdBRFljcnYxNy1BVXBrcGduR3o4V1ZBTzJRUmlrcDNZdGRXWGprb2dLT0p0T2NrZlozNzN6MlVsVnNfdUJZWHpfdG1VS1ZGSTZsZ2RYVWg5LTB0elIzeUEtTzQ5YkxRSUdpMjY2UFJnZDg0emtxbjc4V2tmeHJiX0djc1dDcGg5VERLV2lHOUlJRHp1SVNSckFEbDkyM1J3TmM2Y0hJMHZkcU83alByYW03WlZZQ0YwenlhYUIwQ0VDWGRiTmQtNk04MHFkd1NvTHdvOElQTFBqTkg1Q1k3a1dZU2M?oc=5
-
-- US Says It Will Not Renew Sanctions Waiver Allowing India To Buy Russian Oil - NDTV
-  US Says It Will Not Renew Sanctions Waiver Allowing
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQeE9yN0N5dC0zNE5VWng5TXRoaTA4Q2djci01MlFKdHBFbVFwRlp2RHM5bnFGRDl0c3FLQl9XTmFFM3BUMmVOa01JR2VhNlQ1VmZ3VDlNYzNVSXlUMFcxT2VxXzBOZnFRSEhoZ2V6WExzMHRILW9oTTJidTlZN1o4WkFwT3hfMmdycHduQXhaNWUxZmhNV3o5V3hXSDNlb3htcG1LUzBBQ0VWLS13YklHNDE2Z1Noc3p0aHJ1WkI4VjdnQlNhNXNsN1FHc9IB0wFBVV95cUxOYm5Pc0J1R1lyU1oxYjN4VmdhY3FRcUdFZURMOTNKTmFIdEN4NXBRTURhX1pWS3VjeHh1WlRMSXBWYmlVRlkzVTNoNUNucy1sRTNqdkxLblRvNnNPR1RtYU9VejZYdE1KVE5PcXZfOXFtTUprUTRybXNZemJpRGU2NzJKbDMzMWpuRjNxWVlNUHBBcldlRmx0cjNUMFZfa2VYQUdmRWlKcE1tTWkzUnBuekZWVktvMVdueXplREU5UW5jdWZ3cTh2LUNpY3diNmdjU2FR?oc=5
-
-- US says waiver that allowed India to buy Russian oil won't be renewed | India News - Hindustan Times
-  US says waiver that allowed India to buy Russian oil won't be renewed.
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelpVSG9RSXNVSEJqU2hwZFlmckV4bFkweDRoNEpKc2pVazZRc1hha21CMkhMWmVqanprOTJFSGc0dVlOZXpZUEF1bFlnNmNNZUhqdmlMVUUxVzRFNWo4b1d3c2Jrc0tKTnFfeDBsb1lNcF9YUDctUDdRU2p4QS1PZXRFbXNVd1p5X09DR0ZjblNCdHUzaTZiXzIwcXRpRWktTlNzUjM5c1JKdjBMeHEwc29sLWlPUnNrRzVtb2U1dGpjblZxUWNrTNIBzgFBVV95cUxQQTdlWTdzNUQtYTdRcnBOVFJNWU1INHNWWFdPdGxTYXYwNGJqVFpuRG8weV9aQnpsd2dKWU9oaHJsY2VfYVNRSHhicXoyV3VrXzlUVXBWOUp3N2F1eWJTb3JLd2ZmQmU3Sm9tQWlNTUhuU2lRNVJfR21nbnZPMUJPV3RaWWFSUGZUYnM5akdCdVhSX3g2dDJDTXcwdnFkcGhRcENxM2o3YjZzc2NNRmtISkg0dGNzN2pMMjZfWjdod0pmNk5VUVdBZUg0TjA2dw?oc=5
-
-- Terrorist Amir Hamza, LeT co-founder, shot outside news channel office in Lahore - India Today
-  Terrorist Amir Hamza, LeT co-founder
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDJWeG5FMExkMXJ5N0VscTU1WnNSLWhxdTFlSFVLbUc5WGZ2VWRVUzE3TERRaE56WWpEN0x1bWFMbWFIdEk5cHRiWXpsTGlRcnRzb21TM256NExHOTdqRzNIRzRtaDJKV0U0ckZEdVlpNGV6VU1mY1NTbncwaGhac2l2Sm43M1ViRzV6UUhmb0Q1cDVvS3JwMW9BcHZTUW02cjFadmk3VWtiWE1Ud0FQbVJkWlYtWWF4Z0dMN0VsU2phd2lwMkZoXzQ2cl9ZQTVxM0ItYXo2SjY1UDAxUWJz0gHkAUFVX3lxTFBFTXFOa1hia3dZZk9pbFVPNkNTVVZqNzdKTVlaRDhaZ2duVXVHYjUtR0xwazZpaWN4aVJpREZyam8ySEZfYUVuZjlYOTB6RXNfQzlvd3JwNFhRUFIxV0ZSNmZqMEJEdjVJSDB6eWh0ME0ybWRxbHB0TEFfcndrV21YTW5KRDI0QlF5WUg0a2lIeVNrWWpiWFlOb3k3MTNaeHBWTGNRcmZFUnFYS0c4TjJaTG4xb3h1TmRsSnhhdDNVcVFDY3YyOWRjMVlNdWNybmtQVV9vN2JmTEU3WFhUSjBJVVF1LQ?oc=5
-
-- Parliament Budget Session: Delimitation, Women's Quota Bills To Be Tabled Today: How Numbers Stack Up - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZF
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZFpnUkh1UzhoSW1BSkkxdW5xV0ZQOWRiQjFNX3dWanJwa2NBcEhCeVJWbThiUzdZUFZYMlJtbWZsY05aYURQekVTUE9Id01uYjNn?oc=5
-
-- US won’t renew sanctions waiver on Russian, Iranian oil: What it means for India - The Times of India
-  The Times of India reported that India will not renew sanctions waiver on Russian
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaUg3Z0FHNkhQd1RkX1dVQXhoYWV6cThESDBXSVM3THlUOGMzNWdJcmFPNFh2WnlyUi1ERnp2YXlrOU1NSlctMERQdm9kckxKUHNQVzNUSFRhQTB1UmpwRnZTX2RVUGswd0NiV0gtREpyMUs3Q1dWVTJrTFZOOUs2YnpQZFYtSmdhdXVUeWJtZ3VieEZkZFBYZ0FJSUtDVF9BOHZCNFh1aXQ3aEtPdGNrbTNoSDFDbWpjX1IyeXoydDdOOEZvMWR3YV8yQk51OTZfTjZSTDZ0UHh2VU1MdjBKanBiY0YxNlhkQTdnY2pVd2QweVJqbXfSAfsBQVVfeXFMUFgwSlNUdjJwbmJzNFhRTXp3YXJuczhIQUdBRFljcnYxNy1BVXBrcGduR3o4V1ZBTzJRUmlrcDNZdGRXWGprb2dLT0p0T2NrZlozNzN6MlVsVnNfdUJZWHpfdG1VS1ZGSTZsZ2RYVWg5LTB0elIzeUEtTzQ5YkxRSUdpMjY2UFJnZDg0emtxbjc4V2tmeHJiX0djc1dDcGg5VERLV2lHOUlJRHp1SVNSckFEbDkyM1J3TmM2Y0hJMHZkcU83alByYW03WlZZQ0YwenlhYUIwQ0VDWGRiTmQtNk04MHFkd1NvTHdvOElQTFBqTkg1Q1k3a1dZU2M?oc=5
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  BBC asks: Will north India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
 
 - US Says It Will Not Renew Sanctions Waiver Allowing India To Buy Russian Oil - NDTV
   US Says It Will Not Renew Sanctions Waiver Allowing
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQeE9yN0N5dC0zNE5VWng5TXRoaTA4Q2djci01MlFKdHBFbVFwRlp2RHM5bnFGRDl0c3FLQl9XTmFFM3BUMmVOa01JR2VhNlQ1VmZ3VDlNYzNVSXlUMFcxT2VxXzBOZnFRSEhoZ2V6WExzMHRILW9oTTJidTlZN1o4WkFwT3hfMmdycHduQXhaNWUxZmhNV3o5V3hXSDNlb3htcG1LUzBBQ0VWLS13YklHNDE2Z1Noc3p0aHJ1WkI4VjdnQlNhNXNsN1FHc9IB0wFBVV95cUxOYm5Pc0J1R1lyU1oxYjN4VmdhY3FRcUdFZURMOTNKTmFIdEN4NXBRTURhX1pWS3VjeHh1WlRMSXBWYmlVRlkzVTNoNUNucy1sRTNqdkxLblRvNnNPR1RtYU9VejZYdE1KVE5PcXZfOXFtTUprUTRybXNZemJpRGU2NzJKbDMzMWpuRjNxWVlNUHBBcldlRmx0cjNUMFZfa2VYQUdmRWlKcE1tTWkzUnBuekZWVktvMVdueXplREU5UW5jdWZ3cTh2LUNpY3diNmdjU2FR?oc=5
 
-- US says waiver that allowed India to buy Russian oil won't be renewed | India News - Hindustan Times
-  US says waiver that allowed India to buy Russian oil won't be renewed.
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelpVSG9RSXNVSEJqU2hwZFlmckV4bFkweDRoNEpKc2pVazZRc1hha21CMkhMWmVqanprOTJFSGc0dVlOZXpZUEF1bFlnNmNNZUhqdmlMVUUxVzRFNWo4b1d3c2Jrc0tKTnFfeDBsb1lNcF9YUDctUDdRU2p4QS1PZXRFbXNVd1p5X09DR0ZjblNCdHUzaTZiXzIwcXRpRWktTlNzUjM5c1JKdjBMeHEwc29sLWlPUnNrRzVtb2U1dGpjblZxUWNrTNIBzgFBVV95cUxQQTdlWTdzNUQtYTdRcnBOVFJNWU1INHNWWFdPdGxTYXYwNGJqVFpuRG8weV9aQnpsd2dKWU9oaHJsY2VfYVNRSHhicXoyV3VrXzlUVXBWOUp3N2F1eWJTb3JLd2ZmQmU3Sm9tQWlNTUhuU2lRNVJfR21nbnZPMUJPV3RaWWFSUGZUYnM5akdCdVhSX3g2dDJDTXcwdnFkcGhRcENxM2o3YjZzc2NNRmtISkg0dGNzN2pMMjZfWjdod0pmNk5VUVdBZUg0TjA2dw?oc=5
+- Breaking News Live Updates: Debris found in search for missing helicopter in Indonesia - The Times of India
+  Debris found in search for missing helicopter in Indonesia.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmVJQ2kyVTRYb0hRMThaXzBaSVpHNHNzelVLcGwtOGQ2Xzh3R21CcTJ0Ynh5a3h5bDFXV0ViTGYxdlJfdDlTdi1zUFNHbGJ1QTlsQzdILWFWTTJjVGJoLWZXYzJjZG1OR2Z3ZG5jTTRhT3JqbVRuRGNkQ0dGRzY2M1QzTGtaTUlyY1dheEJwV0RjMDBtWlU1TERua0VMSGZsRHFoN0RZUl9rbGozWWpvemEwcVVpVUJOQ1kweFZmWVMzV3QtTUNEOVhR0gHPAUFVX3lxTE1PM3UzN1F1UmtfZGl6Qi1WM3pKblg5SVQ4YmM0M3NOMWJJYkQ1SmhZb08tM28wYkdUdUtqS2d4R08xSW9Oall6SVNWck9XSnoyZzF2X3FEY0hQU2J5ZXEybERfUW9kN0dBV29hYThDY0dUYTlDal94MXJlblh6N0Vhc1ExTzdLWmxDbmZmWW5YXzdUSm5veEMxdjRUaU9kdVQxNFpvNUlPVS1HeGtJaUxTVEFqb01jeGY5M2VybkQ4NVk3Vlp3LW0wa2JSeUVaUQ?oc=5
 
-- Terrorist Amir Hamza, LeT co-founder, shot outside news channel office in Lahore - India Today
-  Terrorist Amir Hamza, LeT co-founder
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDJWeG5FMExkMXJ5N0VscTU1WnNSLWhxdTFlSFVLbUc5WGZ2VWRVUzE3TERRaE56WWpEN0x1bWFMbWFIdEk5cHRiWXpsTGlRcnRzb21TM256NExHOTdqRzNIRzRtaDJKV0U0ckZEdVlpNGV6VU1mY1NTbncwaGhac2l2Sm43M1ViRzV6UUhmb0Q1cDVvS3JwMW9BcHZTUW02cjFadmk3VWtiWE1Ud0FQbVJkWlYtWWF4Z0dMN0VsU2phd2lwMkZoXzQ2cl9ZQTVxM0ItYXo2SjY1UDAxUWJz0gHkAUFVX3lxTFBFTXFOa1hia3dZZk9pbFVPNkNTVVZqNzdKTVlaRDhaZ2duVXVHYjUtR0xwazZpaWN4aVJpREZyam8ySEZfYUVuZjlYOTB6RXNfQzlvd3JwNFhRUFIxV0ZSNmZqMEJEdjVJSDB6eWh0ME0ybWRxbHB0TEFfcndrV21YTW5KRDI0QlF5WUg0a2lIeVNrWWpiWFlOb3k3MTNaeHBWTGNRcmZFUnFYS0c4TjJaTG4xb3h1TmRsSnhhdDNVcVFDY3YyOWRjMVlNdWNybmtQVV9vN2JmTEU3WFhUSjBJVVF1LQ?oc=5
+- Modi’s Rush to Remake India’s Electoral Map - Bloomberg.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZX
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZXhiSDZiaWRRSmZJeV9FRjAxUWZIclNWUG9wUnB3YmFqTy1ZTkRGNGVFNlpOTDJwWWZfR09NWDRpenBRZDFpOFZyY0FGTlVEYi0zYW5WZ0Y3Sk9pOTVGZ05VQ1pFRjFLRQ?oc=5
 
-- Parliament Budget Session: Delimitation, Women's Quota Bills To Be Tabled Today: How Numbers Stack Up - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZF
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVBmUXlwLTRXRnNhRUFRand2MTI2N3Jnck95V1JCWDhHZjBUUTRuU2pDQ2xqMzJYZjZCQ1FmZ1NlVXVmZURMWHpxblhWZkZpbDBpaFpncVo3LVpRYjk0aHR0TEtIdTF0ZFpnUkh1UzhoSW1BSkkxdW5xV0ZQOWRiQjFNX3dWanJwa2NBcEhCeVJWbThiUzdZUFZYMlJtbWZsY05aYURQekVTUE9Id01uYjNn?oc=5
+- Railway Minister Ashwini Vaishnaw commemorates 173rd anniversary of India’s first passenger train - News On AIR
+  Railway Minister Ashwini Vaishnaw commemorates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNckRTU0dIdHpHQVRySzdDelhHak01OWlfT0oteVBBZHBBYVlocnJJR3hGQlZGNVpjUlh1Q2hlUmZMb01zQVBvS3p5aWxCRC1iLVdWQnRQa1dVRURYc1UxZEdOUnpyRGJSeGFlUVpCLWp2ZG5DWkFaN1BhOFdNT1FCMDJDLUlOZmdLd24tNi1BSlItUExDRlpfbFNPYTRZRW9LcmJ0Q0VfVWp6WmFpZ0xBVlJ5OWNvV1hqOWpmQzYwcHNlVEwt?oc=5
 
-- US won’t renew sanctions waiver on Russian, Iranian oil: What it means for India - The Times of India
-  The Times of India reported that India will not renew sanctions waiver on Russian
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaUg3Z0FHNkhQd1RkX1dVQXhoYWV6cThESDBXSVM3THlUOGMzNWdJcmFPNFh2WnlyUi1ERnp2YXlrOU1NSlctMERQdm9kckxKUHNQVzNUSFRhQTB1UmpwRnZTX2RVUGswd0NiV0gtREpyMUs3Q1dWVTJrTFZOOUs2YnpQZFYtSmdhdXVUeWJtZ3VieEZkZFBYZ0FJSUtDVF9BOHZCNFh1aXQ3aEtPdGNrbTNoSDFDbWpjX1IyeXoydDdOOEZvMWR3YV8yQk51OTZfTjZSTDZ0UHh2VU1MdjBKanBiY0YxNlhkQTdnY2pVd2QweVJqbXfSAfsBQVVfeXFMUFgwSlNUdjJwbmJzNFhRTXp3YXJuczhIQUdBRFljcnYxNy1BVXBrcGduR3o4V1ZBTzJRUmlrcDNZdGRXWGprb2dLT0p0T2NrZlozNzN6MlVsVnNfdUJZWHpfdG1VS1ZGSTZsZ2RYVWg5LTB0elIzeUEtTzQ5YkxRSUdpMjY2UFJnZDg0emtxbjc4V2tmeHJiX0djc1dDcGg5VERLV2lHOUlJRHp1SVNSckFEbDkyM1J3TmM2Y0hJMHZkcU83alByYW03WlZZQ0YwenlhYUIwQ0VDWGRiTmQtNk04MHFkd1NvTHdvOElQTFBqTkg1Q1k3a1dZU2M?oc=5
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  BBC asks: Will north India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
 
 - US Says It Will Not Renew Sanctions Waiver Allowing India To Buy Russian Oil - NDTV
   US Says It Will Not Renew Sanctions Waiver Allowing
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQeE9yN0N5dC0zNE5VWng5TXRoaTA4Q2djci01MlFKdHBFbVFwRlp2RHM5bnFGRDl0c3FLQl9XTmFFM3BUMmVOa01JR2VhNlQ1VmZ3VDlNYzNVSXlUMFcxT2VxXzBOZnFRSEhoZ2V6WExzMHRILW9oTTJidTlZN1o4WkFwT3hfMmdycHduQXhaNWUxZmhNV3o5V3hXSDNlb3htcG1LUzBBQ0VWLS13YklHNDE2Z1Noc3p0aHJ1WkI4VjdnQlNhNXNsN1FHc9IB0wFBVV95cUxOYm5Pc0J1R1lyU1oxYjN4VmdhY3FRcUdFZURMOTNKTmFIdEN4NXBRTURhX1pWS3VjeHh1WlRMSXBWYmlVRlkzVTNoNUNucy1sRTNqdkxLblRvNnNPR1RtYU9VejZYdE1KVE5PcXZfOXFtTUprUTRybXNZemJpRGU2NzJKbDMzMWpuRjNxWVlNUHBBcldlRmx0cjNUMFZfa2VYQUdmRWlKcE1tTWkzUnBuekZWVktvMVdueXplREU5UW5jdWZ3cTh2LUNpY3diNmdjU2FR?oc=5
 
-- US says waiver that allowed India to buy Russian oil won't be renewed | India News - Hindustan Times
-  US says waiver that allowed India to buy Russian oil won't be renewed.
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQelpVSG9RSXNVSEJqU2hwZFlmckV4bFkweDRoNEpKc2pVazZRc1hha21CMkhMWmVqanprOTJFSGc0dVlOZXpZUEF1bFlnNmNNZUhqdmlMVUUxVzRFNWo4b1d3c2Jrc0tKTnFfeDBsb1lNcF9YUDctUDdRU2p4QS1PZXRFbXNVd1p5X09DR0ZjblNCdHUzaTZiXzIwcXRpRWktTlNzUjM5c1JKdjBMeHEwc29sLWlPUnNrRzVtb2U1dGpjblZxUWNrTNIBzgFBVV95cUxQQTdlWTdzNUQtYTdRcnBOVFJNWU1INHNWWFdPdGxTYXYwNGJqVFpuRG8weV9aQnpsd2dKWU9oaHJsY2VfYVNRSHhicXoyV3VrXzlUVXBWOUp3N2F1eWJTb3JLd2ZmQmU3Sm9tQWlNTUhuU2lRNVJfR21nbnZPMUJPV3RaWWFSUGZUYnM5akdCdVhSX3g2dDJDTXcwdnFkcGhRcENxM2o3YjZzc2NNRmtISkg0dGNzN2pMMjZfWjdod0pmNk5VUVdBZUg0TjA2dw?oc=5
+- Breaking News Live Updates: Debris found in search for missing helicopter in Indonesia - The Times of India
+  Debris found in search for missing helicopter in Indonesia.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmVJQ2kyVTRYb0hRMThaXzBaSVpHNHNzelVLcGwtOGQ2Xzh3R21CcTJ0Ynh5a3h5bDFXV0ViTGYxdlJfdDlTdi1zUFNHbGJ1QTlsQzdILWFWTTJjVGJoLWZXYzJjZG1OR2Z3ZG5jTTRhT3JqbVRuRGNkQ0dGRzY2M1QzTGtaTUlyY1dheEJwV0RjMDBtWlU1TERua0VMSGZsRHFoN0RZUl9rbGozWWpvemEwcVVpVUJOQ1kweFZmWVMzV3QtTUNEOVhR0gHPAUFVX3lxTE1PM3UzN1F1UmtfZGl6Qi1WM3pKblg5SVQ4YmM0M3NOMWJJYkQ1SmhZb08tM28wYkdUdUtqS2d4R08xSW9Oall6SVNWck9XSnoyZzF2X3FEY0hQU2J5ZXEybERfUW9kN0dBV29hYThDY0dUYTlDal94MXJlblh6N0Vhc1ExTzdLWmxDbmZmWW5YXzdUSm5veEMxdjRUaU9kdVQxNFpvNUlPVS1HeGtJaUxTVEFqb01jeGY5M2VybkQ4NVk3Vlp3LW0wa2JSeUVaUQ?oc=5
 
-- Terrorist Amir Hamza, LeT co-founder, shot outside news channel office in Lahore - India Today
-  Terrorist Amir Hamza, LeT co-founder
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDJWeG5FMExkMXJ5N0VscTU1WnNSLWhxdTFlSFVLbUc5WGZ2VWRVUzE3TERRaE56WWpEN0x1bWFMbWFIdEk5cHRiWXpsTGlRcnRzb21TM256NExHOTdqRzNIRzRtaDJKV0U0ckZEdVlpNGV6VU1mY1NTbncwaGhac2l2Sm43M1ViRzV6UUhmb0Q1cDVvS3JwMW9BcHZTUW02cjFadmk3VWtiWE1Ud0FQbVJkWlYtWWF4Z0dMN0VsU2phd2lwMkZoXzQ2cl9ZQTVxM0ItYXo2SjY1UDAxUWJz0gHkAUFVX3lxTFBFTXFOa1hia3dZZk9pbFVPNkNTVVZqNzdKTVlaRDhaZ2duVXVHYjUtR0xwazZpaWN4aVJpREZyam8ySEZfYUVuZjlYOTB6RXNfQzlvd3JwNFhRUFIxV0ZSNmZqMEJEdjVJSDB6eWh0ME0ybWRxbHB0TEFfcndrV21YTW5KRDI0QlF5WUg0a2lIeVNrWWpiWFlOb3k3MTNaeHBWTGNRcmZFUnFYS0c4TjJaTG4xb3h1TmRsSnhhdDNVcVFDY3YyOWRjMVlNdWNybmtQVV9vN2JmTEU3WFhUSjBJVVF1LQ?oc=5
+- Modi’s Rush to Remake India’s Electoral Map - Bloomberg.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZX
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZXhiSDZiaWRRSmZJeV9FRjAxUWZIclNWUG9wUnB3YmFqTy1ZTkRGNGVFNlpOTDJwWWZfR09NWDRpenBRZDFpOFZyY0FGTlVEYi0zYW5WZ0Y3Sk9pOTVGZ05VQ1pFRjFLRQ?oc=5
+
+- Railway Minister Ashwini Vaishnaw commemorates 173rd anniversary of India’s first passenger train - News On AIR
+  Railway Minister Ashwini Vaishnaw commemorates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNckRTU0dIdHpHQVRySzdDelhHak01OWlfT0oteVBBZHBBYVlocnJJR3hGQlZGNVpjUlh1Q2hlUmZMb01zQVBvS3p5aWxCRC1iLVdWQnRQa1dVRURYc1UxZEdOUnpyRGJSeGFlUVpCLWp2ZG5DWkFaN1BhOFdNT1FCMDJDLUlOZmdLd24tNi1BSlItUExDRlpfbFNPYTRZRW9LcmJ0Q0VfVWp6WmFpZ0xBVlJ5OWNvV1hqOWpmQzYwcHNlVEwt?oc=5
+
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  BBC asks: Will north India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
+
+- US Says It Will Not Renew Sanctions Waiver Allowing India To Buy Russian Oil - NDTV
+  US Says It Will Not Renew Sanctions Waiver Allowing
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQeE9yN0N5dC0zNE5VWng5TXRoaTA4Q2djci01MlFKdHBFbVFwRlp2RHM5bnFGRDl0c3FLQl9XTmFFM3BUMmVOa01JR2VhNlQ1VmZ3VDlNYzNVSXlUMFcxT2VxXzBOZnFRSEhoZ2V6WExzMHRILW9oTTJidTlZN1o4WkFwT3hfMmdycHduQXhaNWUxZmhNV3o5V3hXSDNlb3htcG1LUzBBQ0VWLS13YklHNDE2Z1Noc3p0aHJ1WkI4VjdnQlNhNXNsN1FHc9IB0wFBVV95cUxOYm5Pc0J1R1lyU1oxYjN4VmdhY3FRcUdFZURMOTNKTmFIdEN4NXBRTURhX1pWS3VjeHh1WlRMSXBWYmlVRlkzVTNoNUNucy1sRTNqdkxLblRvNnNPR1RtYU9VejZYdE1KVE5PcXZfOXFtTUprUTRybXNZemJpRGU2NzJKbDMzMWpuRjNxWVlNUHBBcldlRmx0cjNUMFZfa2VYQUdmRWlKcE1tTWkzUnBuekZWVktvMVdueXplREU5UW5jdWZ3cTh2LUNpY3diNmdjU2FR?oc=5
+
+- Breaking News Live Updates: Debris found in search for missing helicopter in Indonesia - The Times of India
+  Debris found in search for missing helicopter in Indonesia.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmVJQ2kyVTRYb0hRMThaXzBaSVpHNHNzelVLcGwtOGQ2Xzh3R21CcTJ0Ynh5a3h5bDFXV0ViTGYxdlJfdDlTdi1zUFNHbGJ1QTlsQzdILWFWTTJjVGJoLWZXYzJjZG1OR2Z3ZG5jTTRhT3JqbVRuRGNkQ0dGRzY2M1QzTGtaTUlyY1dheEJwV0RjMDBtWlU1TERua0VMSGZsRHFoN0RZUl9rbGozWWpvemEwcVVpVUJOQ1kweFZmWVMzV3QtTUNEOVhR0gHPAUFVX3lxTE1PM3UzN1F1UmtfZGl6Qi1WM3pKblg5SVQ4YmM0M3NOMWJJYkQ1SmhZb08tM28wYkdUdUtqS2d4R08xSW9Oall6SVNWck9XSnoyZzF2X3FEY0hQU2J5ZXEybERfUW9kN0dBV29hYThDY0dUYTlDal94MXJlblh6N0Vhc1ExTzdLWmxDbmZmWW5YXzdUSm5veEMxdjRUaU9kdVQxNFpvNUlPVS1HeGtJaUxTVEFqb01jeGY5M2VybkQ4NVk3Vlp3LW0wa2JSeUVaUQ?oc=5
+
+- Modi’s Rush to Remake India’s Electoral Map - Bloomberg.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZX
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1yWFh1alRZT0k0RHpqY0lWUk41R0I0UUMtV3pTbjVoQl9LMm9ZSW4yQjVMdjhLMy13eW9GSjZRRHpMdF91dXhYS1g1NHNBblNzRlQ5aFRHY21DVTdySGg0blVtTjFGZXhiSDZiaWRRSmZJeV9FRjAxUWZIclNWUG9wUnB3YmFqTy1ZTkRGNGVFNlpOTDJwWWZfR09NWDRpenBRZDFpOFZyY0FGTlVEYi0zYW5WZ0Y3Sk9pOTVGZ05VQ1pFRjFLRQ?oc=5
+
+- Railway Minister Ashwini Vaishnaw commemorates 173rd anniversary of India’s first passenger train - News On AIR
+  Railway Minister Ashwini Vaishnaw commemorates
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNckRTU0dIdHpHQVRySzdDelhHak01OWlfT0oteVBBZHBBYVlocnJJR3hGQlZGNVpjUlh1Q2hlUmZMb01zQVBvS3p5aWxCRC1iLVdWQnRQa1dVRURYc1UxZEdOUnpyRGJSeGFlUVpCLWp2ZG5DWkFaN1BhOFdNT1FCMDJDLUlOZmdLd24tNi1BSlItUExDRlpfbFNPYTRZRW9LcmJ0Q0VfVWp6WmFpZ0xBVlJ5OWNvV1hqOWpmQzYwcHNlVEwt?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-16 07:28:46 UTC_
+_Last updated: 2026-04-16 13:23:29 UTC_
