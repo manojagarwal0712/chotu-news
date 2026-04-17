@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Not just English, Khasi and Garo languages will be ‘official’ too in Meghalaya
+- ‘Delimitation will turn out to be political demonetisation’: Shashi Tharoor in Lok Sabha
   
-  🔗 https://indianexpress.com/article/india/not-just-english-khasi-and-garo-languages-will-be-official-too-in-meghalaya-10640585/
+  🔗 https://indianexpress.com/article/india/shashi-tharoor-delimitation-speech-lok-sabha-disunited-india-10641221/
 
-- A legacy battle erupts: Rival events on Biju Patnaik’s death anniversary set up political face-off
+- Tying women’s reservation to delimitation is a trap, says Kanimozhi as DMK members turn out in black
   
-  🔗 https://indianexpress.com/article/india/a-legacy-battle-erupts-rival-events-on-biju-patnaiks-death-anniversary-set-up-political-face-off-10640583/
+  🔗 https://indianexpress.com/article/india/dmk-mp-wear-black-protest-in-parliament-womens-quota-10641105/
 
-- 2 IRS officers stopped by Raj Bhavan security in Odisha, taken to police station
+- Opposition fumes as Centre notifies 2023 Women’s Reservation Act mid-debate
   
-  🔗 https://indianexpress.com/article/india/2-irs-officers-stopped-by-raj-bhavan-security-in-odisha-taken-to-police-station-10640596/
+  🔗 https://indianexpress.com/article/india/women-reservation-act-notification-lok-sabha-row-opposition-protest-10641121/
 
-- US President Trump greets TS Sandhu on appointment as Delhi Lt Governor
+- Fiasco at Raj Bhavan as IRS officers are taken to Odisha police station: ‘We offered to take breath analyser test’
   
-  🔗 https://indianexpress.com/article/india/donald-trump-congratulates-taranjit-singh-sandhu-delhi-lg-appointment-10640713/
+  🔗 https://indianexpress.com/article/india/fiasco-raj-bhavan-irs-officers-odisha-police-station-breath-analyser-test-10641041/
 
-- Time stands still next to a stream in spate, as an SPO waits for his son in Jammu
+- Night blaze engulfs 6 cottages at Goa beach resort near Ashvem, tourists escape unharmed
   
-  🔗 https://indianexpress.com/article/india/time-stands-still-stream-spate-spo-waits-son-jammu-10640597/
+  🔗 https://indianexpress.com/article/india/fire-destroys-6-cottages-at-ashvem-beach-resort-in-goa-10640845/
 
-- Why Amazon is buying Globalstar, and what it means for D2D satellite services
+- New nasal spray shows promise fighting memory loss and brain inflammation
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-globalstar-deal-satellite-to-phone-connectivity-explained-10640319/
+  🔗 https://indianexpress.com/article/technology/science/new-nasal-spray-shows-promise-fighting-memory-loss-and-brain-inflammation-10641045/
 
-- How older adults are using virtual reality to counter social isolation
+- Gucci-owner Kering aims to launch luxury Google glasses next year, CEO says
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-older-adults-are-using-virtual-reality-to-counter-social-isolation-10640179/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/gucci-owner-kering-aims-to-launch-luxury-google-glasses-next-year-ceo-says-10641065/
 
-- Google should allow third-party search engines access to data, EU says
+- OpenAI launches AI model GPT-Rosalind for life sciences research
   
-  🔗 https://indianexpress.com/article/technology/technology-others/google-should-allow-third-party-search-engines-access-to-data-eu-says-10640128/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-launches-ai-model-gpt-rosalind-for-life-sciences-research-10640863/
 
-- Lenovo, OnePlus, and Redmi: Best tablet devices under Rs 25,000 in 2026
+- Meta to raise Quest VR headset prices in US on rising component costs
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/lenovo-oneplus-and-redmi-best-tablet-devices-under-rs-25000-in-2026-10640002/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-to-raise-quest-vr-headset-prices-in-us-on-rising-component-costs-10640851/
 
-- 73 landings to a permanent home: Nasa unveils ‘Moon Base User’s Guide’
+- White House to give US agencies Anthropic Mythos access: Reports
   
-  🔗 https://indianexpress.com/article/technology/science/73-landings-to-a-permanent-home-nasa-unveils-moon-base-users-guide-10640088/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/white-house-to-give-us-agencies-anthropic-mythos-access-reports-10640848/
+
+- Flipkart loses ‘MarQ’ trademark case in Delhi high court
+  The high court has dismissed the appeal against Marc Enterprises, and allowed Flipkart
+  🔗 https://www.livemint.com/companies/news/flipkart-loses-marq-trademark-case-in-delhi-high-court-11776404073123.html
+
+- Orkla India eyes acquisitions, bets on convenience foods to drive growth
+  The MTR and Eastern spices maker is looking to return to double-digit growth after listing. It is backed
+  🔗 https://www.livemint.com/companies/news/orkla-india-eyes-acquisitions-bets-on-convenience-foods-to-drive-growth-11776400656637.html
 
 - LIV CEO claims business as usual amid reports of demise
   
@@ -52,33 +60,25 @@
   Investors will closely monitor commentary on the second
   🔗 https://www.livemint.com/companies/company-results/hdfc-bank-icici-bank-q4-earnings-commentary-margins-growth-outlook-11776329114906.html
 
-- New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers
-  New York loses nearly $74 million for not rev
-  🔗 https://www.livemint.com/companies/new-york-loses-nearly-74-million-for-not-revoking-33-000-illegal-licenses-for-immigrant-truckers-11776373346222.html
+- Up 3150% in five years! Multibagger circuit-to-circuit stock hits upper circuit for third day in a row
+  Elitecon International share price has fallen by over 18% in one month, and has declined 57% on a year-to-date (YTD) basis.
+  🔗 https://www.livemint.com/market/stock-market-news/up-3150-in-five-years-multibagger-circuit-to-circuit-stock-hits-upper-circuit-for-third-day-in-a-row-11776409799812.html
 
-- Trump Weighs Appointing Michael Murray to Lead Antitrust at DOJ
-  The White House is considering nominating attorney Michael Murray to lead antitrust enforcement. Murray worked in the previous Trump administration.
-  🔗 https://www.livemint.com/companies/trump-weighs-appointing-michael-murray-to-lead-antitrust-at-doj-11776364574067.html
+- Kalyan Jewellers sets board meeting date to announce Q4 results 2026, final dividend for FY26
+  Kalyan Jewellers sets board meeting date
+  🔗 https://www.livemint.com/market/stock-market-news/kalyan-jewellers-sets-board-meeting-date-to-announce-q4-results-2026-final-dividend-for-fy26-11776409659458.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 17 April
-  Gift Nifty was trading around 24,170 level, a discount of nearly 25 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-17-april-11776390303690.html
+- Wipro’s massive buyback fails to mask challenges caused by persistent growth problem
+  Wipro's Q4 performance fell short due to macro headwinds and client issues. Its Q1FY27 outlook is negative, suggesting continued challenges.
+  🔗 https://www.livemint.com/market/mark-to-market/wipro-massive-buyback-growth-problems-macro-uncertainties-client-specific-execution-delays-uneven-growth-contract-values-11776405397427.html
 
-- From Gift Nifty, Iran war to Wipro Q4 results: 7 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,140 level, a discount of nearly 56 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-to-wipro-q4-results-7-key-things-that-changed-for-indian-stock-market-overnight-11776388849029.html
+- Ola Electric, Suzlon, JP Power among most traded stocks on NSE today, 17 April 2026
+  Ola Electric Mobility, Vodafone Idea, Suzlon Energy, JP Power, GTL Infrastructure,
+  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-suzlon-jp-power-among-most-traded-stocks-on-nse-today-17-april-2026-11776407749750.html
 
-- Buy or sell: Gift Nifty signals muted opening; Vaishali Parekh recommends three stocks to buy today — 17 April 2026
-   Vaishali Parekh recommends three stocks to buy today — MGL
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-17-april-2026-11776387605423.html
-
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 17 April 2026
-  The Indian stock market ended April 16 with minor losses; the Nifty 50 fell 0.14%. Sumeet Bagadia highlight the importance of resistance levels and suggest caution.
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-17-april-2026-11776355605006.html
-
-- Om Power Transmission IPO listing date today. GMP, experts signal muted debut of shares in Indian stock market
-  Om Power Transmission IPO GMP today and analysts signal a muted listing of shares. IPO listing date is today, 17 April
-  🔗 https://www.livemint.com/market/ipo/om-power-transmission-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-indian-stock-market-11776362075803.html
+- Mehul Telecom IPO Day 1: Issue booked 65% so far; NIIs steal the show. Check GMP, issue details, key dates
+  Mehul Telecom IPO runs from April 17 to April 21, with a pricing band of  ₹96-98 per share. The company, focused on mobile devices, reported
+  🔗 https://www.livemint.com/market/ipo/mehul-telecom-ipo-day-1-issue-booked-65-so-far-niis-steal-the-show-check-gmp-issue-details-key-dates-11776406166288.html
 
 - Former Meta contractor Sama to lay off more than 1,000 workers in Kenya
   Former Meta contractor Sama to lay off
@@ -100,65 +100,125 @@
   Zara owner Inditex reported a data breach involving a third party. Latest breach exposed
   🔗 https://www.livemint.com/technology/tech-news/inditex-data-breach-zara-owner-inditex-reports-major-data-breach-exposing-customer-transaction-records-11776324988084.html
 
-- Stock Market News, April 16, 2026: Netflix Tumbles After Hours - WSJ
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkwxV21saG4xTTRqU0JRXzh2VTBpX2dfXzFzWHRTdFJEWW5sT2pndjk1Y2FzbFJiV3FZY1l2dms2Y01sUWdHQm1nS2V4U0NJLXEtQ0RfNjlJNnlEcHFlTDFkM0ZVS09TQ0
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkwxV21saG4xTTRqU0JRXzh2VTBpX2dfXzFzWHRTdFJEWW5sT2pndjk1Y2FzbFJiV3FZY1l2dms2Y01sUWdHQm1nS2V4U0NJLXEtQ0RfNjlJNnlEcHFlTDFkM0ZVS09TQ01qb2p3X0ZfM1BnbzItd0h4VkZQdFZ6MHhYSUV6VVU?oc=5
+- Asian Stocks May Fall on Concern War Will Drag On: Markets Wrap - Bloomberg.com
+  Asian Stocks May Fall on Concern War Will Drag
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXV5a3c5VFdsZi1MdTVZSG5fZXNUeEJjaUtOQV83MGNzQXlFcjdpMk5NOC14bEY2SkRPU1YxdXFyVjNpZTA1Y0lmWWRWOEhqTmY2VmhUVmtSbGpsWjNfdURMSkxwd3J2VXFQYlhjTnp4Vm5sVWtObkQ1ZVFTeDktVXQ1bGlUbENTNm1Na3JSV2hlZUZC?oc=5
 
-- Wall Street bank earnings in five charts as volatile markets take center stage - Reuters
-  Wall Street bank earnings in five charts as volatile markets take
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGZCR3lsdmdKYTVIZjFXOWh2YkxuM3dleXdFR1puMXppb3o2cFRkRS1VNG1KWFZJbjdOYkxOLV9VTk5udWY5VFZZbDdxd3IzTEdlMWlWY2ZEOVdmcTNlNmlVM3JpNmNxQ2d2RUJzd0dQRWJRcy0yZzdscjIzZVpxQ0ZyOGdvemNXR2RMMUFHUzNTSHJTWE9ENk45ekhBVTQ3NkRKakVZc3hTMFJEMWgtSW5rSjF1bG14Y3liOEYyYmktWnc?oc=5
+- Sensex settles 750 pts lower from day's high, Nifty ends below 24,200: Five key reasons behind markets... - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNndJeFJOQTJZZ19MVkVIX1ZPS0xMSjFTTmxEVHZBTGhCc1I1ZWJhZzJFa3g5NThzSENXNVhFWklTdUpOMUdQZ1NfT1dmdlRlOFFUVUFYajFDTDZYWVJ4ckJqcTJtTzkxMF
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNndJeFJOQTJZZ19MVkVIX1ZPS0xMSjFTTmxEVHZBTGhCc1I1ZWJhZzJFa3g5NThzSENXNVhFWklTdUpOMUdQZ1NfT1dmdlRlOFFUVUFYajFDTDZYWVJ4ckJqcTJtTzkxMFBNU1B1Si1na2tJM3B2dkdpcm1XZHFaSVFkSTBRQ0xuOVpQSEMxV1NKQ0dsVnM4RW84emlKOExBRG13aS10d2JnVnZvdmZBNHdYVS0xN2l4aXZ6NXZvX0ZIeTNyamxqMEhBQTNNbFFCb05hSHIzeXI1VHctRWUwdzdkb01URFVScGpJSVpVOEXSAfYBQVVfeXFMTXVZZXFtUkFfS2diSktJTDVzTUR1bDdoRjFSMHBUNldmMHIweHRvT2k1ZmtQQ1phUjBCLWNVcnR1T1U4YlZmWi1zVFdnRVdOTTJycnB4TThlMDB1bzVGZElwanZPcmRNWC1DbGZuM2duano2TVpMSmN2YU1zUFAyRUczSFplYV9xOHBHcXA0YTJ3UEFzQUEzdDJXV1dleDFDMXYwN29KU19sejVNbVZmSlB1Z2pLTVUzcVRxZUtxVmNQdDE4NUlIbTZhOEJBby11LWlqYVZ5bndDa0hoQXdHNlhrT2w4ZlRfeGhMVnNjNllBOEdMRktB?oc=5
 
-- Trade Setup for April 17: Top 15 things to know before the opening bell; markets await US–Iran peace... - Moneycontrol.com
-  The markets await US–Iran peace.
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxPelk0V2ZlXzBVa3k5QUdURmtlZldIZ2RlTVdfUVJRY0RSVkxoNFNCUGdPSGpfR01nYUp0UWkxc1kwdHVSRFBaNHdpcGFtVl9nYnZEb3JzNjkzMUFqbFBKWjVHeDduSHhpalpRaTBtSnJ1ek02TlBtc2hPSHJQQ1BRcE5WOVhUWXlGdEp2eGZLZG0yS3RrenJUcERFRUtaNUdpdENTVUJ3LXZlV081RkZsdW81TEFXS0JUQTRmUzY5Tk9LUl9YdWJIaXg4TmZvMHlGYy0xUUl6NndvdWozREhmUzR5bjlnSUtjc2Zibk40VDEwMEpKTXN4c1FCNzYxX2pDczBDdGNVSdIBjAJBVV95cUxQU2M3ZzNKaDQtQW1PT29yNmsyVkxsSlVNVHlNLUdTUl9ScGRDTUV4eEg4Qnd0LXdyX2tpM3YxNUJWa0F1cC1Fa3pFXzVEbm1YQzVNbGlzajJ1SFBCMFBKTHVKSXBRZ09GanBrTUlXWWFGWWVBU3lQNDBnU0JyQmlmaEZwTk9kSzcwVmV0TUE5ZUNNUlh0TjlGT25HcE92M0Ntc1RIdkRWMUtBWmRNc3RKMFhmdUtkYnJqaWZUYzJPUUJFOHBYUFlDM1AwdWU3WlRZaTF0aDZyYy1nVDhQWkFOa2l2VTdTX1BFaGJtMlFHU2RzNzdGRTUwVU4tV3VRS2h6VjY4My1mTGd5cktx?oc=5
+- Stock Market LIVE Updates, Sensex Today: Sensex Jumps 250 Points Amid Uncertainty Around US-Iran Talks - NDTV
+  Sensex Today: Sensex Jumps 250 Points Amid Uncertain
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb25uUUotVmRoa2pSLVdGSlg0aHRUNGVCZGMxdWNWakxDOXJ6WS1vTmMyRXFxNkw0UkVuWlZqZkxHY1QxTC13MVVvaDVyd0ZYTFhIblcwd0I1SEVoWGxybzhiNjdzR2VTMFhXTjNRZjQydF9TUVcwYUVlUmNabV9TeVV5SW5Zd1RTb3ZtRWlRNDcxU2pfZ2RBdEE4cVdoOXFyc3dDaXVsX1Z3YlJJRGxWVWVMNTZhUGY4Q2doMFA1dzBzLUduU0ZtOTJpU2hmanlCQUVlay1LRFJULUtpbGgwT2JqWlEyWEp6dkHSAfIBQVVfeXFMUGhUNUw3NFRQOWYtTnBNTF9XeDJLMFVEOXQ1Vl9kTWtSUzRPS2RPbHdtSWRmTWxlbHlpT1VvUmM0OGdPOVA3QWFkMUw4a3ExNDlYOHBpamNDWk9uZFpxQklNRnYxR05ZaVFWWjRQY0tCR0NiMV9BeDFRcm9fdEZEeTF3eEREV0pJR2tWeDVFcm55cEdReENJam9Gell6MG52Z2Z3b2RhUmNseDRXTmFqekxDNVB6bk5rZW0weW53VnE3Q3ZZV1N4QmdfZTlpbVp4eXRCLTNJck1oMmRmY19QeVZrU3dUVF85UFIzcVhnazA5Rnc?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWk9fczJQdUYzTWtyNlZXU1d5YmgzblVPbko4QXMxU2VVbzRhdVdCZTFQeExuU3R5R3ZFVG5CQkI1d1VLOEVldnFaQVQ2SldVc1ltQkR5WWRsbFpsQ2Y4M0ZPblJjcnVXTmREZVc5WXJGWU1HNUk1clkzZUY2VjlrWDhXd1ltT05RR3JDWVNPVDBPNF9EWmx0VUJjUEJFdEQ4NktpNk1VRHgybjNzbVRmTFRmMEg4NXNJYXctSS1IbktfcldDTmlObXE4RnY2VDNxTE1DbzY2TXd5OWpLRFV30gHkAUFVX3lxTE9tcG9MSGIyd1pwVWVxdjJuVFppVXlSU3JWVU96NVprNXhhMTY4eDgzdVJBZExrWThGdi10UWZiZ1RNQ1lfajhzZGppclI1SWx2aXVmdjVhMXk0X3pwLVk3UWVXd1F2ODdIa2tHNk1vTjE1Ni1fTEVfeEV5cVV2ZjBxZVZ6M29IYzlVXzhXWjJ0NmlFU3VidHVuUXljdmQtN2FZdG4tQmV2enRCalFUbThIVG1IOUF0XzF1LWptUDN4Nmg0MnRlempoUDY0bUpwUE9rUmh5aUpuS1F1dFpOcFJnOERmZQ?oc=5
+- India`s smartphone market dips in Q1 amid rising supply-side cost pressures - Investment Guru India
+  India’s smartphone market dips in Q1 amid
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1VuYlpnZ2MwV1pkeVZNa0JoTWdZcFQ4dUVQdWItVkxNa1MyZnVNOG1ETWRyZk1iX1djQ1Z1NjBneVgwVm1UQllUZW54WGdfbnJadDVXaXU3Y0hLbWdFVVRMb0Z4cW5IVDVRTXBLMDM2UVBrc1BWUktWdVJhdFpCeXpMUlp6S0NsNjZaYWZpcFNfb01XbnIwWVFGSmZaNU1vLVA3MERVS08tVWlxcTZGYlpnandmRnVaZW9ubXA5T1Zwdw?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty indicates a muted start; US markets gain, Asia falls - Moneycontrol.com
-  "Sensex Today | Stock Market Live: GIFT Nifty indicates a
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ25rSllJYmhIUzVmeEFBZlF4cG9SSTZFdkJWZlJheFZrVjdDOXNiLVlnUUMxVV8wMC10U1NCQVhITkxUajFqaWp4MGRQbFBLS0JRUWpHZDJGOHNlVldwS2lBTGNqWW5GSDNZdEFIOEluWnhqNThyTU5CbHNUMGtoY3k5YzI4b2VyYlUtbE4tZ2VBd2pDRXNGTi14LTlrR1lEZlNwV0hrWTBDSXNHdWZmUHlyQlFsbEdHX3VMN05TUkNacXg0T2Z0ZEJSTS11LWxZTzExWGdyYjI5aHhwZ3llaTNkcTNVRnFXWUc2QXdYM2g3M180Z09fSC1fOEp1VDBLeHgyMlpDRXVTZlk0c0pHdlNNRdIBmAJBVV95cUxQSERObDhVaVplQWkzckE3U2dRWXpLTmVncGs2bnJBaVVEdl91TWhHNWNtbnlIWGtKVmhaMXRHaXpvQUNMeVl1aFd1b1VQb2dJazZROFRpdnlnc0VxU3VzaHRRX3d4SlFtd2lNbmFFR3dvMkI1S1lBQTlHb05NbHFObzN5MklyQVRZRFMxWTBETnJoUjNVQ0ZjN2VyZWNOOVdYU3pvUF9vRV82MzgxWk9rZ2lFcFVfTGhrSHYxSGp6NVRnNF9EVlFfdU84TmlqQ2I0QTJidWFtQnhqeTFSbnptd09HOFhCS3JGcDNVdy04cHg5dVE5dmtxZ3dsOEdUZXNndDZQakpZcHZFUXctZFZqOUI1WjlqRU1m?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rises over 250 pts, Nifty above 24,250; ITC g... - The Economic Times
+  The Economic Times reports that Sensex rises over 250 pts, Nifty above 24,250.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQVkI5d25XVHFfNWNjeTU1elhYQWgzUTlNVFQ2YzVZNGRNNFFfYU42MkxzX21nNWtZM3Z2cVB5aU1tXy15VUx0dnY5aHpyWFRIZ3BaeEJoRlJoa1hSM0FfVktTbEk0TWpEVWtGcDhYLVpxa09DQk1NLXVhZm9VT2FzanlqTkJvdUo4OExfMkJNQWRxX0FkQV9jMTBQOHlGTmhTc3ZzbVZSZWR2TndFNU5GSllQanp4MHRXUl9JaGN6MnRVcHo4Um1mQ3Nkcm9NSzJjMGt1bWdjbUpXZ05aMEtWQVBva0IzWm1BWGFwQlNqUy01d0ZCR1ZuMzFHSXdLQXRs0gGGAkFVX3lxTE5sRHFFOTZuaG01ZUdOdXlaVm1wS3NXdUdyd3JuQzhmZ1FmRGpmNzhrY1l1QWljMGlMRVRGak9CMlQ4MHNHcTFLUEg3MHdpS3N6VWxXal9hdnNpNkJTQVZ4OFJaa0ZQVU83dVlpRGRJWmpYbWZ5dHA0R2hvcUVKS2ZNYmZiVFNGMlVuakFjNnlab094aV85dFpzbjByZTFJZEhGRTFTUk1FSHlGc0FsRWZ0eDk3UEk5bV9oT0pWS1h1VmlqbGVLTllMY3BQSjJublhGRGFSNkhvbTNXWmtSTTdJaVU5aGpKQVVMS19mZHVaZ0tNT2J1V3RVdFo1M1NNNll2eUxrTHc?oc=5
 
-- Oil falls on prospects for talks to end Iran war and revive supply
-  Oil prices dipped as a 10-day ceasefire between Lebanon and Israel took effect. President Trump indicated potential talks with Iran over the weekend. Analysts estimate significant oil supply disruptions due to the Strait of Hormuz closure.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-prospects-for-talks-to-end-iran-war-and-revive-supply/articleshow/130320713.cms
+- Kolte-Patil Developers shares soar 15% on strong Q4 business update. Here’s everything you need to know
+  Kolte-Patil Developers' stock price jumped significantly following a robust operational performance in the fourth quarter of fiscal year 2026. The company reported strong sales figures, driven by new project launches and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kolte-patil-developers-shares-soar-15-on-strong-q4-business-update-heres-everything-you-need-to-know/articleshow/130325702.cms
 
-- Global Markets: Asian stocks dip as traders await ceasefire news
-  Asian stocks declined as investors reduced holdings ahead of the weekend. Follows a global equity rally driven by expectations of prolonged peace. Crude oil prices slipped as President Trump expressed optimism about a permanent truce.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gloabl-markets-asian-stocks-dip-as-traders-await-ceasefire-news/articleshow/130320628.cms
+- ETMarkets PMS Talk| No emotional bias, quant model drove 20% FY26 performance: Rohan Mehta
+  The Growth Mantra PMS Fund delivered strong returns of around 20% in FY26. Its success stems from a disciplined, data-driven investment strategy.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-no-emotional-bias-quant-model-drove-20-fy26-performance-rohan-mehta/articleshow/130325279.cms
 
-- Logistics firms enter last mile for IPO delivery, rev up for Rs 9,000 crore issues
-  India's logistics sector is poised for a significant IPO cycle. Several companies are preparing to raise an estimated ₹8,000-9,000 crore.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/logistics-firms-enter-last-mile-for-ipo-delivery-rev-up-for-rs-9000-crore-issues/articleshow/130320560.cms
+- Planning investments for a specially-abled child? Focus on structure, not just returns: Harshvardhan Roongta
+  Planning finances for a child with special needs requires more than just building a corpus. Experts emphasize the critical need for legal structures like trusts or wills to ensure guardianship and financial management.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/planning-investments-for-a-specially-abled-child-focus-on-structure-not-just-returns-harshvardhan-roongta/articleshow/130325215.cms
 
-- Arohan Financial plans to file for IPO within a month
-  Microfinance firm Arohan Financial Services is preparing to file for a ₹1,400-crore IPO within a month. The move follows a recovery in the microfinance sector after significant asset
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/arohan-financial-plans-to-file-for-ipo-within-a-month/articleshow/130320511.cms
+- ICICI Bank Q4 preview: PAT to grow up to 6% YoY, NII seen rising up to 8%. 8 things to watch
+  ICICI Bank is expected to post a steady Q4FY26 performance. While loan growth and asset quality remain healthy, margins may face mild pressure. Key monitorables include NIM trajectory, deposit trends,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q4-preview-pat-to-grow-up-to-6-yoy-nii-seen-rising-up-to-8-8-things-to-watch/articleshow/130324820.cms
 
-- Small &amp; micro-caps charge to the front, bluechips need a FPI reload
-  Indian small and micro-cap stocks are bouncing back strongly after the West Asia conflict. Mid-cap shares are also nearing their pre-war highs. This recovery is powered by local investors returning to these beaten-down stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/small-micro-caps-charge-to-the-front-bluechips-need-a-fpi-reload/articleshow/130320454.cms
+- RVNL shares jump 6% on railway order worth Rs 967 crore. Check details
+  Rail Vikas Nigam Limited shares climbed more than six percent on Friday. The company emerged as the lowest bidder for a significant domestic railway order valued at nearly Rs 968 crore. This EPC order from East Coast Railway involves constructing key
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rvnl-shares-jump-6-on-railway-order-worth-rs-967-crore-check-details/articleshow/130324589.cms
 
 - Delimitation: Will north India's gain be south India's loss? - BBC
-  BBC asks: Will north India's
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5" target="_blan
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
 
-- The South after delimitation: What the maths shows from Tamil Nadu to Andhra - The Times of India
-  The South after delimitation: What the maths shows from Tamil Nadu to
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUlRsQnBPYzdKSWd1M1VIMVY0RkloYmlpT0gzQXJjYWVCZ0NHcWJkUEtSd2FKUUJsblYxNVdIRUNfdkhPdDMtejk3SThYZHIxRnJGU0RUelFiOWcyOWdsOEpqRENLNVBOcm5peXFmQVloQUhkbmRSWV9jMEFkMXE0cGVnTUpubnh3akNsN2NKdlpPY3pYMXVoUWl3OHJIRmdVcXNJT0F0cThYbm9hcFVzekFwclZMcm5IdFZkTTZiM2pMemNEWWhXRENJSFVqTkYyM18wUVZ2VVpqYmPSAeABQVVfeXFMUG8xOFd6QXE3RW9ZdUgtODk4TkE1aDJ6Q19VLWpJVEE0Y1BNeERBdHZHc1ZfRThtNEdlRGNXNWVpbE9XcXRXaFphMVdNeHF0ZTAxRUMtSmd4RjhfUVB3c25jdzQzdnNhYlFvazBQb0hUU3ZBRTRVZERpSHlHRV9fVmJnYjlWMk9MS1VicXpBdllFQU44eEMzZ3U5SHpCR0FCVmtMRDJrUXRFQUt6RGZyeVV5T3lGMXJhUXhtUWZkLUozelVZVTBQWGNuNW5aYzBQclAwUVZ2SzdtLWpBQmxtWXg?oc=5
+- India, Pakistan held Track 1.5, 2 meetings after Op Sindoor | India News - Hindustan Times
+  India, Pakistan held Track 1.5, 2 meetings after
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWJUaVhvSFo3U1NMRFA5T0l6WUxmWFZjTHQwUHZDa1poSWF0SjJlM1N4R3BwcnMyTXlXdGdlWEJNbnUyMVlfbEk0M0ZnYUd0LVU2enJSaGJ0VmtSM18xdHFzNGxxUzE3ekVrNFpsbkliaDBjcjBNNzRhQ3Vob21NRzlkM3Azai1iUzhOb3hMQVZDeGo1V1NaZ1J5NFd4S3Q4SkZKRlBSeVl5Q1paZVB1Mk9DSFY5d1Fjd2VNctIBwgFBVV95cUxQZlZmRThTTWEwU2sxOEtHejNhR3hxMzBLVTJHYzRFUFpCS3ZxOUlvOTBtbTlTT0lpZnhrUDJSek9GbnVSQnVUYThtVGtDcldXUzJkU3FETzNrN2lmakM3SGtjejZzRGFWR0xBRG92cDJNbmxPaDF6Zk1YTDc5SXNRNXlIWWVwQndFU200dURlSkVyb0VNVDhHQ0s4bnF6SFhsenNhOTFvbUtOd1VxY1J6bWduOUxHbGxHbEd0aWVlVmdrUQ?oc=5
 
-- PM Modi's "No Discrimination Guarantee" To South States On Delimitation - NDTV
-  PM Modi's "No Discrimination Guarantee
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPc21JV3gtcUF0SnZWdTdkMHdIM1NncWFnR0lITWY3eUZidHZRaWJzQVRtMzNsVHd0YnItaG9NSDRKbEVaS0J0eTRzbVp2XzlNbU5acVFxejFLWUVUS1BvWm5KSGdzX2VaQzhYVjBYS3htejJXT1ZNdVNfNVMwTWwtbUR2TGl0a2J6TXpud2NCZFlrQkFmSDFDWTh4NXFQTmpETE10YVREYlZ5XzZsdG1F0gG3AUFVX3lxTE5ibjMxQnhEX1c3LXBBMHRwNVRlZXJ2bHltZEZsTzhXZ0g4ZGNoQXhfX1I2X2F6YWplLUdsV3hHSFAyT3VzYktkOHpsUUdJRzFWSEM4UnF3al9DZlRyUklLSHJxWFZFWDZ5QkJSR2YxX1JNMzY5ZzY1SmNJeV96YVBaZG5GcmZ5bURUMXhrY1VRN1g0bEd3bVBIcEc0d0plLW5LR182SWh3dUpZVVBISDJNcEZhVW5Vbw?oc=5
+- Union Minister Chirag Paswan stresses industry-government collaboration to boost spice sector - News On AIR
+  Union Minister Chirag Paswan stresses industry-government
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONm9sYVFmQ2JhTG4waEUxeU9zeWd5bGdsbFpRWWhvVXdaV0FfMnVTTEp0YXpHdXpTMG1vQTRsYnZxbmVFMExuTHJXeVJMRlI2VTFQVG5scE5NdzBHTWdmOU8xMVRJbzRwcldpX2h6bnZ0SUsyZ2tmUlNsZ1hHQUM3Vk5FZndleUFuWEpfbHJVcXE5VU52eWtyaUZFSDZId1lXTE95VGRMZkp4NVZ2Y3VfUWtCWnl3X0VsSjd4NzFTOUY?oc=5
 
-- Establishing a vaccine injury compensation mechanism for India - The Hindu
-  Establishing a vaccine injury compensation
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdXh5UE1qZ1NDeDNpOTNPZ1RlaHpvcEdvaUJ5aExuaWlPUFJaZUdoX01OOE9XeU43dDR0am5fTUY0Y2pubUE4aHhoY2Jka1Jyc0ZSMHRsTko3TS04Z3FCWFd6SHdBSGpsUk0tRm96bmQ0bU5nUm5UUUlMakhveFdfalFiSk1EekpiUzN6SWQyZExRcTlObzQ3X2hwa1VCNDFqVFVGUERjUGk4RTMzTFY0cnZuVV82SkVQZl9OejhHbHLSAccBQVVfeXFMUFhVbmdBT3lsYkV0UzlGd1dVNVpVTXFmSnU0UkREUUdOZ2VVZFZhNmF3M083SV91M2tSMWtPOEhhX2VVNTZZWm9qZGpYWElDVldqWnA0NkQzaXB4ZjVqc1llOW5NdUNvRE1lX3hkdThsdlFqeFJuRFBRZl82U2hNbzlDZWFROW1MRUVPZlE2MXpYQk8tR2h2Z1hjRmhXX0FUWmdsVC1yVU55MnlHODhGa1QyaTJsTGtmckkyM2Jfb041Q3d1a1ZKWQ?oc=5
+- Nashik TCS 'Conversion' Accused Nida Khan Claims She's Pregnant, Wants Court Relief - NDTV
+  Nida Khan claims she's Pregnant,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG12eHhHbkRkNkhVYjlUTkdtbmFtWU1oOFRYRTdfXzJJZV9CQjlZemNHT2NNNU4xcGhidGNBdEtkNDdiLURsUVJVNHNiREgyRmM5OXRUS1BXTjlpVG5ldVdWSFZvaVBZT1JlS1k4cm5ybjhPX2JIR3VVZmVFdGNtTWFNX1dva2lTWW0tdmFkZDRLc2hLQ3hueEM4ekdjc042d2dxNjZVSUkyV2JDZ1BycGM4ak5SMHNZbWZjedIBxAFBVV95cUxPZG9kY3hwU3YwRXBzQ1pTLU40QUhCNFlnUExfWGoxX1ZPajVmYlF0dzFya3VVM3pDWUV2S0RkZkY3M0trYThHU01BQUFWal9kY2VLR3pRSU1oM1RmNUdpRzhWcURlc0JXWnBxSUlOMWY2Z1F5VWRhaDFybW9GVnJ4LXJKRE1JTWt6d1pYbnZWNlBZMjdnWUJoNEo3ZGRSWTJlTWZEd0phMThiX1RDQV9JRzFrSW13SXF6Q25wWXRwVUQzNHBE?oc=5
 
-- Government refutes viral video claiming civil war-like situation in India; PIB calls it fake - News On AIR
-  Government refutes viral video claiming civil war-like situation in India.
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQYVhrdXVPMVYtN3BTQ1YyNEJNSmNWNndsdGhOSGJfWmN1U2ZqOUZhQlQyMFZWTUFGd3ZVdnExakRkTFgzYTRRWF9WbExrRC11RGdXYl80Ym9WdGhFdVlHckcyOUdoN2NZdUNPVGlZTkJMR3JaOUZDbW5sbjFkcHZiY0pDTHdjdy1vTG0tR0szQ2cxYTNRODFMajNCT1ZtM1RwazhrXzR1Vm1jLVI4eWk0Y09GNkU2TUlwS2xJNm5B?oc=5
+- Muslims the target? Fury as millions lose voting rights in India’s Bengal - Al Jazeera
+  Muslims the target? Fury as millions lose voting rights in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVp6ZGF4UmRSamlmbEQ2dlFnTkRnN1NoWjZMV3lwVFlZZFREV0k5UU55elZjanY5clY1SUVFSkM5bl9IZVdpeW9Hem5uTXVPbmJYSnZoUjd3NldtS2FrSXMyRnZuSGhEQXlTdWRHN2tEaUxuX0lZU1pUc1dnUHJtRzdBTHZkM2NTRUlZS1VTRHk1dzhFVy10N2ItYjl5d2RCbnE2V2xNMk5CZ3JhV09YcmJR0gG3AUFVX3lxTE5TY1pRMHlZd0Nac2VEU19veWFrdDNMZHRibHJ1THhoNEtYd3dwWXlNcFRLUmVOaDg1RWtaTTh1d2lsNjl4RFRRR0toUjcya3VjUE5QLTdvRFN1aTRMblhOaURZTm5BckRrQWVJZ2dqTTl3RmwtVUNueW1BMzlUbE8zYm80ZVZVd2trMGhXdkVWN0p6WUdjbjBOMFRSaUt3dXd3Q3NRMWFNVVhlbkc0OEIwQUFsVmRDVQ?oc=5
+
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
+
+- India, Pakistan held Track 1.5, 2 meetings after Op Sindoor | India News - Hindustan Times
+  India, Pakistan held Track 1.5, 2 meetings after
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWJUaVhvSFo3U1NMRFA5T0l6WUxmWFZjTHQwUHZDa1poSWF0SjJlM1N4R3BwcnMyTXlXdGdlWEJNbnUyMVlfbEk0M0ZnYUd0LVU2enJSaGJ0VmtSM18xdHFzNGxxUzE3ekVrNFpsbkliaDBjcjBNNzRhQ3Vob21NRzlkM3Azai1iUzhOb3hMQVZDeGo1V1NaZ1J5NFd4S3Q4SkZKRlBSeVl5Q1paZVB1Mk9DSFY5d1Fjd2VNctIBwgFBVV95cUxQZlZmRThTTWEwU2sxOEtHejNhR3hxMzBLVTJHYzRFUFpCS3ZxOUlvOTBtbTlTT0lpZnhrUDJSek9GbnVSQnVUYThtVGtDcldXUzJkU3FETzNrN2lmakM3SGtjejZzRGFWR0xBRG92cDJNbmxPaDF6Zk1YTDc5SXNRNXlIWWVwQndFU200dURlSkVyb0VNVDhHQ0s4bnF6SFhsenNhOTFvbUtOd1VxY1J6bWduOUxHbGxHbEd0aWVlVmdrUQ?oc=5
+
+- Union Minister Chirag Paswan stresses industry-government collaboration to boost spice sector - News On AIR
+  Union Minister Chirag Paswan stresses industry-government
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONm9sYVFmQ2JhTG4waEUxeU9zeWd5bGdsbFpRWWhvVXdaV0FfMnVTTEp0YXpHdXpTMG1vQTRsYnZxbmVFMExuTHJXeVJMRlI2VTFQVG5scE5NdzBHTWdmOU8xMVRJbzRwcldpX2h6bnZ0SUsyZ2tmUlNsZ1hHQUM3Vk5FZndleUFuWEpfbHJVcXE5VU52eWtyaUZFSDZId1lXTE95VGRMZkp4NVZ2Y3VfUWtCWnl3X0VsSjd4NzFTOUY?oc=5
+
+- Nashik TCS 'Conversion' Accused Nida Khan Claims She's Pregnant, Wants Court Relief - NDTV
+  Nida Khan claims she's Pregnant,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG12eHhHbkRkNkhVYjlUTkdtbmFtWU1oOFRYRTdfXzJJZV9CQjlZemNHT2NNNU4xcGhidGNBdEtkNDdiLURsUVJVNHNiREgyRmM5OXRUS1BXTjlpVG5ldVdWSFZvaVBZT1JlS1k4cm5ybjhPX2JIR3VVZmVFdGNtTWFNX1dva2lTWW0tdmFkZDRLc2hLQ3hueEM4ekdjc042d2dxNjZVSUkyV2JDZ1BycGM4ak5SMHNZbWZjedIBxAFBVV95cUxPZG9kY3hwU3YwRXBzQ1pTLU40QUhCNFlnUExfWGoxX1ZPajVmYlF0dzFya3VVM3pDWUV2S0RkZkY3M0trYThHU01BQUFWal9kY2VLR3pRSU1oM1RmNUdpRzhWcURlc0JXWnBxSUlOMWY2Z1F5VWRhaDFybW9GVnJ4LXJKRE1JTWt6d1pYbnZWNlBZMjdnWUJoNEo3ZGRSWTJlTWZEd0phMThiX1RDQV9JRzFrSW13SXF6Q25wWXRwVUQzNHBE?oc=5
+
+- Muslims the target? Fury as millions lose voting rights in India’s Bengal - Al Jazeera
+  Muslims the target? Fury as millions lose voting rights in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVp6ZGF4UmRSamlmbEQ2dlFnTkRnN1NoWjZMV3lwVFlZZFREV0k5UU55elZjanY5clY1SUVFSkM5bl9IZVdpeW9Hem5uTXVPbmJYSnZoUjd3NldtS2FrSXMyRnZuSGhEQXlTdWRHN2tEaUxuX0lZU1pUc1dnUHJtRzdBTHZkM2NTRUlZS1VTRHk1dzhFVy10N2ItYjl5d2RCbnE2V2xNMk5CZ3JhV09YcmJR0gG3AUFVX3lxTE5TY1pRMHlZd0Nac2VEU19veWFrdDNMZHRibHJ1THhoNEtYd3dwWXlNcFRLUmVOaDg1RWtaTTh1d2lsNjl4RFRRR0toUjcya3VjUE5QLTdvRFN1aTRMblhOaURZTm5BckRrQWVJZ2dqTTl3RmwtVUNueW1BMzlUbE8zYm80ZVZVd2trMGhXdkVWN0p6WUdjbjBOMFRSaUt3dXd3Q3NRMWFNVVhlbkc0OEIwQUFsVmRDVQ?oc=5
+
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
+
+- India, Pakistan held Track 1.5, 2 meetings after Op Sindoor | India News - Hindustan Times
+  India, Pakistan held Track 1.5, 2 meetings after
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWJUaVhvSFo3U1NMRFA5T0l6WUxmWFZjTHQwUHZDa1poSWF0SjJlM1N4R3BwcnMyTXlXdGdlWEJNbnUyMVlfbEk0M0ZnYUd0LVU2enJSaGJ0VmtSM18xdHFzNGxxUzE3ekVrNFpsbkliaDBjcjBNNzRhQ3Vob21NRzlkM3Azai1iUzhOb3hMQVZDeGo1V1NaZ1J5NFd4S3Q4SkZKRlBSeVl5Q1paZVB1Mk9DSFY5d1Fjd2VNctIBwgFBVV95cUxQZlZmRThTTWEwU2sxOEtHejNhR3hxMzBLVTJHYzRFUFpCS3ZxOUlvOTBtbTlTT0lpZnhrUDJSek9GbnVSQnVUYThtVGtDcldXUzJkU3FETzNrN2lmakM3SGtjejZzRGFWR0xBRG92cDJNbmxPaDF6Zk1YTDc5SXNRNXlIWWVwQndFU200dURlSkVyb0VNVDhHQ0s4bnF6SFhsenNhOTFvbUtOd1VxY1J6bWduOUxHbGxHbEd0aWVlVmdrUQ?oc=5
+
+- Union Minister Chirag Paswan stresses industry-government collaboration to boost spice sector - News On AIR
+  Union Minister Chirag Paswan stresses industry-government
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONm9sYVFmQ2JhTG4waEUxeU9zeWd5bGdsbFpRWWhvVXdaV0FfMnVTTEp0YXpHdXpTMG1vQTRsYnZxbmVFMExuTHJXeVJMRlI2VTFQVG5scE5NdzBHTWdmOU8xMVRJbzRwcldpX2h6bnZ0SUsyZ2tmUlNsZ1hHQUM3Vk5FZndleUFuWEpfbHJVcXE5VU52eWtyaUZFSDZId1lXTE95VGRMZkp4NVZ2Y3VfUWtCWnl3X0VsSjd4NzFTOUY?oc=5
+
+- Nashik TCS 'Conversion' Accused Nida Khan Claims She's Pregnant, Wants Court Relief - NDTV
+  Nida Khan claims she's Pregnant,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG12eHhHbkRkNkhVYjlUTkdtbmFtWU1oOFRYRTdfXzJJZV9CQjlZemNHT2NNNU4xcGhidGNBdEtkNDdiLURsUVJVNHNiREgyRmM5OXRUS1BXTjlpVG5ldVdWSFZvaVBZT1JlS1k4cm5ybjhPX2JIR3VVZmVFdGNtTWFNX1dva2lTWW0tdmFkZDRLc2hLQ3hueEM4ekdjc042d2dxNjZVSUkyV2JDZ1BycGM4ak5SMHNZbWZjedIBxAFBVV95cUxPZG9kY3hwU3YwRXBzQ1pTLU40QUhCNFlnUExfWGoxX1ZPajVmYlF0dzFya3VVM3pDWUV2S0RkZkY3M0trYThHU01BQUFWal9kY2VLR3pRSU1oM1RmNUdpRzhWcURlc0JXWnBxSUlOMWY2Z1F5VWRhaDFybW9GVnJ4LXJKRE1JTWt6d1pYbnZWNlBZMjdnWUJoNEo3ZGRSWTJlTWZEd0phMThiX1RDQV9JRzFrSW13SXF6Q25wWXRwVUQzNHBE?oc=5
+
+- Muslims the target? Fury as millions lose voting rights in India’s Bengal - Al Jazeera
+  Muslims the target? Fury as millions lose voting rights in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVp6ZGF4UmRSamlmbEQ2dlFnTkRnN1NoWjZMV3lwVFlZZFREV0k5UU55elZjanY5clY1SUVFSkM5bl9IZVdpeW9Hem5uTXVPbmJYSnZoUjd3NldtS2FrSXMyRnZuSGhEQXlTdWRHN2tEaUxuX0lZU1pUc1dnUHJtRzdBTHZkM2NTRUlZS1VTRHk1dzhFVy10N2ItYjl5d2RCbnE2V2xNMk5CZ3JhV09YcmJR0gG3AUFVX3lxTE5TY1pRMHlZd0Nac2VEU19veWFrdDNMZHRibHJ1THhoNEtYd3dwWXlNcFRLUmVOaDg1RWtaTTh1d2lsNjl4RFRRR0toUjcya3VjUE5QLTdvRFN1aTRMblhOaURZTm5BckRrQWVJZ2dqTTl3RmwtVUNueW1BMzlUbE8zYm80ZVZVd2trMGhXdkVWN0p6WUdjbjBOMFRSaUt3dXd3Q3NRMWFNVVhlbkc0OEIwQUFsVmRDVQ?oc=5
+
+- Delimitation: Will north India's gain be south India's loss? - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
+
+- India, Pakistan held Track 1.5, 2 meetings after Op Sindoor | India News - Hindustan Times
+  India, Pakistan held Track 1.5, 2 meetings after
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWJUaVhvSFo3U1NMRFA5T0l6WUxmWFZjTHQwUHZDa1poSWF0SjJlM1N4R3BwcnMyTXlXdGdlWEJNbnUyMVlfbEk0M0ZnYUd0LVU2enJSaGJ0VmtSM18xdHFzNGxxUzE3ekVrNFpsbkliaDBjcjBNNzRhQ3Vob21NRzlkM3Azai1iUzhOb3hMQVZDeGo1V1NaZ1J5NFd4S3Q4SkZKRlBSeVl5Q1paZVB1Mk9DSFY5d1Fjd2VNctIBwgFBVV95cUxQZlZmRThTTWEwU2sxOEtHejNhR3hxMzBLVTJHYzRFUFpCS3ZxOUlvOTBtbTlTT0lpZnhrUDJSek9GbnVSQnVUYThtVGtDcldXUzJkU3FETzNrN2lmakM3SGtjejZzRGFWR0xBRG92cDJNbmxPaDF6Zk1YTDc5SXNRNXlIWWVwQndFU200dURlSkVyb0VNVDhHQ0s4bnF6SFhsenNhOTFvbUtOd1VxY1J6bWduOUxHbGxHbEd0aWVlVmdrUQ?oc=5
+
+- Union Minister Chirag Paswan stresses industry-government collaboration to boost spice sector - News On AIR
+  Union Minister Chirag Paswan stresses industry-government
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONm9sYVFmQ2JhTG4waEUxeU9zeWd5bGdsbFpRWWhvVXdaV0FfMnVTTEp0YXpHdXpTMG1vQTRsYnZxbmVFMExuTHJXeVJMRlI2VTFQVG5scE5NdzBHTWdmOU8xMVRJbzRwcldpX2h6bnZ0SUsyZ2tmUlNsZ1hHQUM3Vk5FZndleUFuWEpfbHJVcXE5VU52eWtyaUZFSDZId1lXTE95VGRMZkp4NVZ2Y3VfUWtCWnl3X0VsSjd4NzFTOUY?oc=5
+
+- Nashik TCS 'Conversion' Accused Nida Khan Claims She's Pregnant, Wants Court Relief - NDTV
+  Nida Khan claims she's Pregnant,
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG12eHhHbkRkNkhVYjlUTkdtbmFtWU1oOFRYRTdfXzJJZV9CQjlZemNHT2NNNU4xcGhidGNBdEtkNDdiLURsUVJVNHNiREgyRmM5OXRUS1BXTjlpVG5ldVdWSFZvaVBZT1JlS1k4cm5ybjhPX2JIR3VVZmVFdGNtTWFNX1dva2lTWW0tdmFkZDRLc2hLQ3hueEM4ekdjc042d2dxNjZVSUkyV2JDZ1BycGM4ak5SMHNZbWZjedIBxAFBVV95cUxPZG9kY3hwU3YwRXBzQ1pTLU40QUhCNFlnUExfWGoxX1ZPajVmYlF0dzFya3VVM3pDWUV2S0RkZkY3M0trYThHU01BQUFWal9kY2VLR3pRSU1oM1RmNUdpRzhWcURlc0JXWnBxSUlOMWY2Z1F5VWRhaDFybW9GVnJ4LXJKRE1JTWt6d1pYbnZWNlBZMjdnWUJoNEo3ZGRSWTJlTWZEd0phMThiX1RDQV9JRzFrSW13SXF6Q25wWXRwVUQzNHBE?oc=5
+
+- Muslims the target? Fury as millions lose voting rights in India’s Bengal - Al Jazeera
+  Muslims the target? Fury as millions lose voting rights in
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVp6ZGF4UmRSamlmbEQ2dlFnTkRnN1NoWjZMV3lwVFlZZFREV0k5UU55elZjanY5clY1SUVFSkM5bl9IZVdpeW9Hem5uTXVPbmJYSnZoUjd3NldtS2FrSXMyRnZuSGhEQXlTdWRHN2tEaUxuX0lZU1pUc1dnUHJtRzdBTHZkM2NTRUlZS1VTRHk1dzhFVy10N2ItYjl5d2RCbnE2V2xNMk5CZ3JhV09YcmJR0gG3AUFVX3lxTE5TY1pRMHlZd0Nac2VEU19veWFrdDNMZHRibHJ1THhoNEtYd3dwWXlNcFRLUmVOaDg1RWtaTTh1d2lsNjl4RFRRR0toUjcya3VjUE5QLTdvRFN1aTRMblhOaURZTm5BckRrQWVJZ2dqTTl3RmwtVUNueW1BMzlUbE8zYm80ZVZVd2trMGhXdkVWN0p6WUdjbjBOMFRSaUt3dXd3Q3NRMWFNVVhlbkc0OEIwQUFsVmRDVQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-17 02:07:04 UTC_
+_Last updated: 2026-04-17 07:29:35 UTC_
