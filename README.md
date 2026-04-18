@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today
+- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points
   
-  🔗 https://indianexpress.com/article/india/pm-modi-speech-address-to-nation-today-live-updates-latest-news-10643620/
+  🔗 https://indianexpress.com/article/india/m-modis-pointed-attack-on-opposition-after-womens-bill-defeat-6-points-10644061/
 
-- Cabinet extends rural roads scheme, increases outlay by Rs 3,727 crore
+- ‘Investigate first’: Naveen Jindal defends Anil Agarwal as Vedanta blast toll hits 23
   
-  🔗 https://indianexpress.com/article/india/pmgsy-iii-extension-timeline-budget-details-10643688/
+  🔗 https://indianexpress.com/article/india/naveen-jindal-anil-agarwal-vedanta-blast-toll-increases-10644039/
 
-- Khata transfer for cash?: Panchayat officer, YouTuber held in Nelamangala in Rs 1.2 lakh bribery case
+- Govt nod for Rs 12,980-crore maritime insurance pool amid global shipping upheaval
   
-  🔗 https://indianexpress.com/article/india/bengaluru-pdo-youtuber-arrested-lokayukta-bribery-khata-transfer-10643604/
+  🔗 https://indianexpress.com/article/india/bharat-maritime-insurance-pool-bmi-sovereign-guarantee-west-asia-conflict-10644018/
 
-- ‘Beacon of hope’ for Kashmiri students, a fund ‘stonewalled’, leaving questions
+- Day after Manipur CM’s visit, ex armyman among 2 killed in Ukhrul attack
   
-  🔗 https://indianexpress.com/article/india/kashmir-care-foundation-kcf-altaf-lal-universities-terminate-mou-intelligence-report-10643542/
+  🔗 https://indianexpress.com/article/india/manipur-ukhrul-attack-militants-ambush-civilians-cm-khemchand-visit-violence-10643989/
 
-- CBI arrests former bank manager, 2 others in Rs 1.6 crore digital arrest scam
+- PM Modi apologises for women’s quota bill defeat, accuses Opposition of ‘female foeticide’
   
-  🔗 https://indianexpress.com/article/india/cbi-arrest-bank-manager-telangana-andhra-digital-arrest-fraud-10643426/
+  🔗 https://indianexpress.com/article/india/pm-modi-speech-womens-quota-bill-delimitation-highlights-full-text-10643903/
+
+- Can the Giant Magellan Telescope spot habitable worlds? Funding holds the key
+  
+  🔗 https://indianexpress.com/article/technology/science/can-giant-magellan-telescope-spot-habitable-worlds-funding-holds-the-key-10643882/
+
+- iPhone 18 Pro: What we know so far about Apple’s next flagship
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-18-pro-what-we-know-so-far-about-apples-next-flagship-10643842/
 
 - Google makes Gemini’s notebooks feature free for all
   
@@ -32,33 +40,25 @@
   
   🔗 https://indianexpress.com/article/technology/science/why-you-feel-unstoppable-one-day-and-stuck-the-next-10643150/
 
-- From bark to byte: How startups are reimagining pet parenting
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/from-bark-to-byte-how-startups-are-reimagining-pet-parenting-10643127/
+- After bindi, tilak row, Lenskart releases dress code allowing religious symbols: 'Part of who we are'
+  Lenskart has released a revised in-store style guide affirming that religious and cultural symbols are permitted. Earlier guidelines led to penalties during audits
+  🔗 https://www.livemint.com/companies/news/after-bindi-tilak-row-lenskart-releases-dress-code-allowing-religious-symbols-part-of-who-we-are-11776526015991.html
 
-- China humanoid robot half-marathon to showcase technical leaps
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-humanoid-robot-half-marathon-to-showcase-technical-leaps-10642826/
+- HDFC Bank senior management backs Keki Mistry to continue as chairman
+  HDFC bank’s loan growth rose 12% on year to  ₹3.17 trillion. Deposits continued to outpace credit at  �
+  🔗 https://www.livemint.com/companies/company-results/hdfc-bank-q4-results-senior-management-keki-mistry-chairman-atanu-chakraborty-banking-india-11776524116559.html
+
+- SMBC-backed Yes Bank poised for balance sheet expansion: MD Tonse
+  Yes Bank posted a net profit of  ₹1
+  🔗 https://www.livemint.com/companies/company-results/yes-bank-q4-results-smbc-md-tonse-banking-industry-india-11776520973789.html
+
+- No impact of West Asia war on portfolio, says ICICI Bank's Batra
+  ICICI Bank reported a net profit of  ₹13,702 crore for the three months
+  🔗 https://www.livemint.com/companies/company-results/icici-bank-q4-results-west-asia-war-corporate-borrowers-banking-industry-india-11776516112739.html
 
 - Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20
   Facebook and Instagram owner will lay off about 10 per cent of its global workforce. Further layoffs are expected in later half of the year.
   🔗 https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html
-
-- JSW Steel, Posco to set up 6 mtpa greenfield plant in Odisha
-  JSW Steel and South Korea’s Posco Group will form 50:50
-  🔗 https://www.livemint.com/companies/news/jsw-steel-posco-greenfield-steel-plant-odisha-steel-industry-india-11776500189703.html
-
-- Reed Hastings scripted his Netflix exit. Founder departures aren’t alway this smooth.
-  Reed Hastings founded Netflix in 1997 with Marc Randolph. Now he is departing,
-  🔗 https://www.livemint.com/companies/reed-hastings-scripted-his-netflix-exit-founder-departures-aren-t-alway-this-smooth-11776499431200.html
-
-- Bajaj Consumer doubles down on growth brands with  ₹500 crore target
-  Bajaj Consumer Care is betting on a new growth engine beyond its core hair
-  🔗 https://www.livemint.com/companies/company-results/bajaj-consumer-q4-results-almond-drops-hair-oil-inflation-india-bajaj-consumer-share-price-11776481395721.html
-
-- Trump labels Reed Hastings a 'SLEAZEBAG', questions why Netflix co-founder stepped down: ‘What was his crime?’
-  Donald Trump called Netflix co-founder Reed Hastings a ‘SLEAZEBAG’ on Truth Social after his board exit. Netflix shares fell 9 per
-  🔗 https://www.livemint.com/companies/news/trump-labels-reed-hastings-a-sleazebag-questions-why-netflix-co-founder-stepped-down-what-was-his-crime-11776483410102.html
 
 - Gold ETFs deliver up to 60% returns since last Akshaya Tritiya. Should investors hold or book profits?
   Since last Akshaya Tritiya, MCX gold prices have rallied approximately 63%. On average, gold ETFs have generated returns in the range of 59–60% during the same
@@ -120,113 +120,85 @@
   Indian markets showed resilience, recovering from early dips to end the week higher. Despite a rebound, a strong resistance zone looms, suggesting the current uptrend might be a pullback within a broader consolidation. Investors are advised to adopt
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-sector-rotation-signals-a-need-for-disciplined-approach/articleshow/130351039.cms
 
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
-
-- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
-  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
-
-- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
-  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
-
-- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
-  PM Modi Speech Today Live Updates: Modi to address nation at 8.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
-
-- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
-  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
+- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
+  'Resume process of facilitating India-bound ships at earliest': MEA to
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
 
 - US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
   US U-Turn On Russian Oil Waivers Amid Iran War
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
-  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
+- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
+  PM Modi’s pointed attack on Opposition after Women�
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
 
-- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
-  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
+- LG traffic - The Times of India
+  The Times of
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
 
-- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
-  PM Modi Speech Today Live Updates: Modi to address nation at 8.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
+- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
+  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
 
-- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
-  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
-
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
-
-- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
-  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
-
-- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
-  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
-
-- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
-  PM Modi Speech Today Live Updates: Modi to address nation at 8.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
-
-- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
-  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
+- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
+  'Resume process of facilitating India-bound ships at earliest': MEA to
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
 
 - US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
   US U-Turn On Russian Oil Waivers Amid Iran War
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
-  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
+- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
+  PM Modi’s pointed attack on Opposition after Women�
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
 
-- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
-  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
+- LG traffic - The Times of India
+  The Times of
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
 
-- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
-  PM Modi Speech Today Live Updates: Modi to address nation at 8.
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
+- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
+  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
 
-- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
-  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
+- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
+  'Resume process of facilitating India-bound ships at earliest': MEA to
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
+  PM Modi’s pointed attack on Opposition after Women�
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- LG traffic - The Times of India
+  The Times of
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
+  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
+  'Resume process of facilitating India-bound ships at earliest': MEA to
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
+  PM Modi’s pointed attack on Opposition after Women�
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
+
+- LG traffic - The Times of India
+  The Times of
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
+
+- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
+  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
 
 
-_Last updated: 2026-04-18 12:56:21 UTC_
+_Last updated: 2026-04-18 18:43:34 UTC_
