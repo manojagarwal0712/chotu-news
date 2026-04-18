@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- ‘Betrayal of Nari Shakti’: BJP to hit streets today for massive nationwide protests as INDIA bloc ‘stalls’ Women’s Reservation Bill
+- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today
   
-  🔗 https://indianexpress.com/article/india/betrayal-of-nari-shakti-bjp-to-hit-streets-today-for-massive-nationwide-protests-as-india-bloc-stalls-womens-reservation-bill-10642982/
+  🔗 https://indianexpress.com/article/india/pm-modi-speech-address-to-nation-today-live-updates-latest-news-10643620/
 
-- A mother in need of treatment, a loan app, and a Kerala student’s death: Behind 3 arrests from Noida
+- Cabinet extends rural roads scheme, increases outlay by Rs 3,727 crore
   
-  🔗 https://indianexpress.com/article/india/mother-treatment-loan-app-kerala-students-death-arrests-noida-10642964/
+  🔗 https://indianexpress.com/article/india/pmgsy-iii-extension-timeline-budget-details-10643688/
 
-- Parliament special session ends; PM Modi-led security panel meeting today amid West Asia war
+- Khata transfer for cash?: Panchayat officer, YouTuber held in Nelamangala in Rs 1.2 lakh bribery case
   
-  🔗 https://indianexpress.com/article/india/parliament-special-session-ends-pm-modimeeting-west-asia-war-10642837/
+  🔗 https://indianexpress.com/article/india/bengaluru-pdo-youtuber-arrested-lokayukta-bribery-khata-transfer-10643604/
 
-- Parliament special session ends; PM Modi-led security panel meeting today amid West Asia war
+- ‘Beacon of hope’ for Kashmiri students, a fund ‘stonewalled’, leaving questions
   
-  🔗 https://indianexpress.com/article/india/parliament-special-session-ends-women-quota-bill-bjp-opposition-10642714/
+  🔗 https://indianexpress.com/article/india/kashmir-care-foundation-kcf-altaf-lal-universities-terminate-mou-intelligence-report-10643542/
 
-- Delhi weather: No heatwave yet, but temperature likely to touch 42°C, says IMD
+- CBI arrests former bank manager, 2 others in Rs 1.6 crore digital arrest scam
   
-  🔗 https://indianexpress.com/article/india/delhi-weather-forecast-imd-heatwave-north-india-temperature-rise-10642688/
+  🔗 https://indianexpress.com/article/india/cbi-arrest-bank-manager-telangana-andhra-digital-arrest-fraud-10643426/
+
+- Google makes Gemini’s notebooks feature free for all
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-makes-geminis-notebooks-feature-free-for-all-10643580/
+
+- I switched from iPhone 16 Pro to iPhone 17e: Why this is the iPhone most people actually need
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/iphone-17e-review-10643437/
+
+- Why you feel unstoppable one day and stuck the next
+  
+  🔗 https://indianexpress.com/article/technology/science/why-you-feel-unstoppable-one-day-and-stuck-the-next-10643150/
+
+- From bark to byte: How startups are reimagining pet parenting
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/from-bark-to-byte-how-startups-are-reimagining-pet-parenting-10643127/
 
 - China humanoid robot half-marathon to showcase technical leaps
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/china-humanoid-robot-half-marathon-to-showcase-technical-leaps-10642826/
 
-- Mythos a serious threat but more will follow, Barclays CEO says
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mythos-a-serious-threat-but-more-will-follow-barclays-ceo-says-10642812/
+- Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20
+  Facebook and Instagram owner will lay off about 10 per cent of its global workforce. Further layoffs are expected in later half of the year.
+  🔗 https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html
 
-- Meta may slash 8,000 jobs on May 20 as AI reshapes workforce: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-may-slash-8000-jobs-on-may-20-as-ai-reshapes-workforce-report-10642662/
+- JSW Steel, Posco to set up 6 mtpa greenfield plant in Odisha
+  JSW Steel and South Korea’s Posco Group will form 50:50
+  🔗 https://www.livemint.com/companies/news/jsw-steel-posco-greenfield-steel-plant-odisha-steel-industry-india-11776500189703.html
 
-- Tech interventions in mental health are effective, but caution is key: Dr Thara, co-founder, SCARF
-  
-  🔗 https://indianexpress.com/article/technology/ai-mental-health-care-india-dr-thara-scarf-interview-10641997/
-
-- Claude Design debut marks Anthropic’s expansion into visual creation
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/claude-design-debut-marks-anthropics-expansion-into-visual-creation-10642605/
+- Reed Hastings scripted his Netflix exit. Founder departures aren’t alway this smooth.
+  Reed Hastings founded Netflix in 1997 with Marc Randolph. Now he is departing,
+  🔗 https://www.livemint.com/companies/reed-hastings-scripted-his-netflix-exit-founder-departures-aren-t-alway-this-smooth-11776499431200.html
 
 - Bajaj Consumer doubles down on growth brands with  ₹500 crore target
   Bajaj Consumer Care is betting on a new growth engine beyond its core hair
@@ -48,37 +60,25 @@
   Donald Trump called Netflix co-founder Reed Hastings a ‘SLEAZEBAG’ on Truth Social after his board exit. Netflix shares fell 9 per
   🔗 https://www.livemint.com/companies/news/trump-labels-reed-hastings-a-sleazebag-questions-why-netflix-co-founder-stepped-down-what-was-his-crime-11776483410102.html
 
-- Who is Srinivas Narayanan? US techie quits OpenAI, plans to return to India to spend time with ‘ageing parents’
-  Srinivas Narayanan, former CTO of B2B Applications at OpenAI, is leaving the company after three years. He plans
-  🔗 https://www.livemint.com/companies/people/who-is-srinivas-narayanan-us-techie-quits-openai-plans-to-return-to-india-to-spend-time-with-ageing-parents-11776481567716.html
+- Gold ETFs deliver up to 60% returns since last Akshaya Tritiya. Should investors hold or book profits?
+  Since last Akshaya Tritiya, MCX gold prices have rallied approximately 63%. On average, gold ETFs have generated returns in the range of 59–60% during the same
+  🔗 https://www.livemint.com/market/stock-market-news/gold-etfs-deliver-up-to-60-returns-since-last-akshaya-tritiya-should-investors-hold-or-book-profits-11776512844382.html
 
-- Federal judge blocks Nexstar-Tegna TV station merger until antitrust lawsuit is settled
-  Federal judge blocks Nexstar-T
-  🔗 https://www.livemint.com/companies/federal-judge-blocks-nexstar-tegna-tv-station-merger-until-antitrust-lawsuit-is-settled-11776480945906.html
+- Penny stock PC Jeweller to be in focus on Monday; here's why
+  PC Jeweller Ltd. has reduced its outstanding bank debt by approximately 10% as part of its ongoing debt reduction plan.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-pc-jeweller-to-be-in-focus-on-monday-heres-why-11776509398627.html
 
-- TCS shares update on Nashik office case: Says Nida Khan 'not an HR', forms oversight panel, calls in Deloitte
-  TCS has clarified that Nida Khan is not an HR manager. TCS has constituted a Keki Mistry-led oversight panel and engaged Deloitte and Trilegal for
-  🔗 https://www.livemint.com/companies/news/tcs-shares-update-on-nashik-office-case-says-nida-khan-not-an-hr-forms-oversight-panel-calls-in-deloitte-11776475637562.html
+- Jio Financial Services Q4 results 2026 out. Will Reliance group stocks rally on Monday? Explained
+  Jio Financial Services (JFSL) reporting a consolidated net profit of  ₹272
+  🔗 https://www.livemint.com/market/stock-market-news/jio-financial-services-q4-results-2026-out-will-reliance-group-stocks-rally-on-monday-explained-11776507125551.html
 
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari of Anand Rathi recommends three shares to buy or sell.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11776491921971.html
+- ICICI Bank Q4 results: Profit rises 8.5% YoY; NII up 8.4% YoY to  ₹22,979 crore
+  ICICI Bank's standalone profit for Q4FY26 rose by 8.5% year-on-year (YoY) to
+  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-q4-results-2026-profit-rises-8-5-yoy-nii-nim-provision-loan-growth-dividend-key-takeaways-11776494482515.html
 
-- Yes Bank Q4 Results 2026 LIVE: Street expects steady net profit, NII growth; asset quality may improve
-  Analysts expect Yes Bank to report steady NII growth of around 9–12% YoY, supported by modest loan growth and stable margins. Net profit is seen rising 4–44% Yoy, though
-  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-q4-results-2026-live-yes-bank-q4-earnings-yes-bank-share-price-yes-bank-profit-npa-18-april-2026-11776493736366.html
-
-- HDFC Bank Q4 Results 2026 LIVE: Net profit may rise 9%, NII growth seen at 6% YoY with stable margins; dividend eyed
-  HDFC Bank is expected to report a steady performance in the March quarter, with a decent growth on net profit and Net Interest Income. Sequentially, the performance is likely to remain largely flat.
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-q4-results-2026-live-hdfc-bank-q4-earnings-hdfc-bank-share-price-profit-npa-hdfc-bank-dividend-18-april-2026-11776491375916.html
-
-- Three power transmission companies with strong project pipelines
-  With power transmission in buzz, here are companies
-  🔗 https://www.livemint.com/market/stock-market-news/power-transmission-stocks-power-transmission-stocks-india-power-grid-tata-power-11776480502791.html
-
-- ICICI Bank Q4 Results 2026 LIVE: Strong net profit, NII growth likely, margin seen flat; fundraising in focus
-  Analysts expect ICICI Bank Q4 results to be stable, with no new surprises on provisions. Profit may see healthy double-digit growth on a year-on-year (Yo
-  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-q4-results-2026-live-icici-bank-q4-earnings-icici-bank-share-price-profit-npa-fundraising-18-april-2026-11776490220655.html
+- Anil Ambani-owned Reliance Power share price jumps 40% this month. Do you own?
+  Anil Ambani-owned Reliance Power shares have risen from
+  🔗 https://www.livemint.com/market/stock-market-news/anil-ambani-owned-reliance-power-share-price-jumps-40-this-month-do-you-own-11776501552440.html
 
 - In the AI propaganda war, Iran is winning
   A joyless theocracy
@@ -100,165 +100,133 @@
   Microsoft's Azure strategy focuses on flexible models and long-term client partnerships. That's the
   🔗 https://www.livemint.com/technology/tech-news/microsoft-azure-strategy-flexibility-clients-ai-deals-cloud-business-11776412280955.html
 
-- Wall Street Extends April Surge on Peace Prospects: Markets Wrap - Bloomberg.com
-  Wall Street Extends April Surge on Peace
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXV5a3c5VFdsZi1MdTVZSG5fZXNUeEJjaUtOQV83MGNzQXlFcjdpMk5NOC14bEY2SkRPU1YxdXFyVjNpZTA1Y0lmWWRWOEhqTmY2VmhUVmtSbGpsWjNfdURMSkxwd3J2VXFQYlhjTnp4Vm5sVWtObkQ1ZVFTeDktVXQ1bGlUbENTNm1Na3JSV2hlZUZC?oc=5
+- Fall in provisions help ICICI Bank's net profit in Q4 FY26
+  ICICI Bank's net profit rose 9% to Rs 13,702 crore in March 2026. Total advances increased 16%, with strong contributions from business banking and rural portfolios.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/fall-in-provisions-help-icici-banks-net-profit-in-q4-fy26/articleshow/130353695.cms
 
-- Can LT Foods become a global FMCG company? - Finshots
-  Can LT Foods become a global
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTFByZnVrbkVXVVV3dXhsbl9yempfQzNZTDQ5aGQ5d1ZhQnk0aUJGRk1JbTg2bVFMTUV0VFlYX041RlN4YnVtTm11NGlHeXpHa01VR1NGODFNOTdiNENuLXBuSmVua3BLLWZZNTFSRnd0X2NfWVhhRGxjUUNQMHo?oc=5
+- Network18 Q4 loss at Rs 29.61 crore, revenue up 9.7% to Rs 615.78 cr
+  Network18 Media &amp; Investments reported a consolidated net loss of Rs 29.61 crore for the March quarter. The company highlighted strong performance in its TV news inventory and digital platforms. Chairman Adil Zainulbhai expressed satisfaction
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/network18-q4-loss-at-rs-29-61cr-revenue-up-9-7pc-to-rs-615-78cr/articleshow/130353380.cms
 
-- Could Indian equity markets turn a corner from here? - Upstox
-  Could Indian equity markets turn a corner
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1pYNmdOQklzZGFyMUM3NXNTWTA3QU1qU292T2JzdUdrOW9oMm9DWUFOYzVNVzJabGdRUEI3bEZmVGlwdzUwN0xBS0xxeWFoUzd1VEYxVHczUlpKOVJEVW12YmJ4Mzh5d3R0TFJ2YWpCSzh6VFM3WEY1dXJQRkpuU21xQUxPNXFGTC1CV1ljNjlCU01aYWhjb2xsT0Y0c1ltbHNFTjVFelRyTUJlZUVWVF9rNTFZMllXN2c?oc=5
+- Akshaya Tritiya 19th April 2026: What the scriptures actually say
+  Akshaya Tritiya is a significant date in the Vedic tradition. It signifies actions and intentions that compound over time. The day emphasizes giving and righteous conduct.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/akshaya-tritiya-19th-april-2026-what-the-scriptures-actually-say/articleshow/130351441.cms
 
-- Akshaya Tritiya: Tapan Patel on why you shouldn't let the recent dip in gold scare you - The Economic Times
-  Akshaya Tritiya: Tapan Patel on why you shouldn't let
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVzRKS1pGTkp0RUM2d242TndrTkUtZVQ0ZUp5S2F2VkdlVGhfRW5xcjdjWWtmLTRnejNTQTRjQXcybkRXUHpRdjJEclphVE1EUlctYTNjRlN1TXEzRWhlSHRKdVBkcXJUay05SThwT3EyNldfeWdyOW94YTNocDA4WlllR2NndVZsQjZWYjNDNVNfOG5WOU41NzdfT1JWR3E2UlNqMjk4cG1Ga3IzdVRKRlhoT3lxWldwMU5Mdk1PajUzd0dUVHpWZS1SdHVyN1FhaGc0bDJ2c3RyUjVOaHdCTDJLYm1qa1pZMXZmLWZxWdIB9AFBVV95cUxQU0tiWE1odE1jTG1PTzBjanFWUHJqbzdrRF9LS1JGNXFyYjhsRmY2TGh3SFRFZDdwZjRyaWJKU0tVSlhXdkxJQUtNVDBYcEFSejhfdG9ZSTdIeVdfeHJsZlc2VE5WUVI4RUEzYkMxNkxoS0JkMVJtQ0MyZDl6MFl0am9iZTBXSFVZVTByclNfVTkzNTdwRzZ1VWNYeEtacmtrUDFmSTVIMlJOSzlMU0hWWTdfY0FIYktPNnNNUkJPTk84c2hsUVlpTU9weEZGMzdEZXA2RG05RElPd2J6TDVBSGpEWVFXV1NkVTZHc2k0alQtaDZy?oc=5
+- ICICI Bank Q4 Results: Net profit up 8.5% to Rs 13,702 crore, announces Rs 12 dividend
+  ICICI Bank announced a net profit of Rs 13,702 crore for the fourth quarter of FY26. The bank's net interest income also rose by 8.4% to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q4-results-net-profit-up-8-5-to-rs-13702-crore-announces-rs-12-dividend/articleshow/130351056.cms
 
-- Global markets rally as Iran opens shipping channel - The Times of India
-  Global markets rally as Iran opens shipping channel.
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYXUzc0h0R0dpZ2h1akE1WlRlb1Z1WllQS3RtRDA4aTFxVV96blQ1WHhiaWRHZFdpUnlwVUQ3V3hQbWZJU2xRQkZUYTFsellJMlZRZmtpUFJsTW9qV21mRXBiVUIzMGF3clpKcUVtTVJxWTljOTRKd0lWOVkxOU11ZmZ2VWxrOGMyeFNVRGl0aGpCOVFTeU5kVWM0Y2dRNE9CaENkR0wtb3VKaFBiSHNoNGVONXozeEt6SXV5ZXBERTNFYm1tZVAta05qekJUYXhwQm4wam1JYUNRc2NObXfSAeMBQVVfeXFMTlkyRDNjZjR5c1RJMVdZNmJDYWVSX1F1VFZoQnlBMUNQV2pvaEVQS0Q3WktKZTgzX1dCeUtKTDZkeFJ6VXUwRWF6TUNieDZlaEhhZmpDVU5SblFLTWhEb290MmVhZGc0ek9vREE3TWFEZHNha3Q0NWNFajdHVXBlYV9aU0tSSEV0VWtDcW91Ul9yYzNsVmltTkduNHFBNVFSaVdrWUpjaUNNbVA5a3NSTEtkM2pYbW5ueEduNm5wWUZsdGpHU20tZGRkYWVuOUU4RXVMbmkyVFZ1MTU0ZVIyV3lSY2M?oc=5
+- Dalal Street Week Ahead: Sector rotation signals a need for disciplined approach
+  Indian markets showed resilience, recovering from early dips to end the week higher. Despite a rebound, a strong resistance zone looms, suggesting the current uptrend might be a pullback within a broader consolidation. Investors are advised to adopt
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-sector-rotation-signals-a-need-for-disciplined-approach/articleshow/130351039.cms
 
-- This Akshaya Tritiya, your gold does not have to sit in a locker to work for you
-  Gold's traditional significance meets a striking financial reality. While cultural relevance encourages buying, the article urges a rethink of how gold is held. Modern, accessible forms like ETFs and digital gold offer efficiency and liquidity.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/this-akshaya-tritiya-your-gold-does-not-have-to-sit-in-a-locker-to-work-for-you/articleshow/130348543.cms
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- Crude oil, copper, gold: The 3 commodities every beginner should track (and why they move!)
-  Crude oil reflects energy trends, copper signals economic growth, and gold acts as a safe haven during uncertainty. Understanding these commodities provides a strategic advantage for informed trading decisions.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-copper-gold-the-3-commodities-every-beginner-should-track-and-why-they-move/articleshow/130348505.cms
+- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
+  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
 
-- MFs’ Favourites: 11 microcap stocks surge 100–250% in just 1 year
-  Around 15 micro-cap names turned multibag
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mfs-favourites-11-microcap-stocks-surge-100250-in-just-1-year/slideshow/130348423.cms
+- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
+  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
 
-- Concurrent Gainers: 15 small-cap stocks that gained for five straight days, rallying up to 40%
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-small-cap-stocks-that-gained-for-five-straight-days-rallying-up-to-40/slideshow/130348276.cms
+- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
+  PM Modi Speech Today Live Updates: Modi to address nation at 8.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
 
-- IPO activity remains muted next week with just one issue opening; three listings lined up
-  The primary market anticipates a quiet week with only one new IPO opening for subscription. Investor sentiment appears cautious, reflected in zero grey market premiums for all upcoming listings.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-activity-remains-muted-next-week-with-just-one-issue-opening-three-listings-lined-up/articleshow/130347804.cms
+- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
+  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
 
-- Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeU
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeUo3VTQ4dWY2cWRmS0FjNUhBSWlwUFhsWXc5MUhoeUFfZVlES2JoQzRQZEc1Qm1OeHVaLTB4MEVOSXRwQVl0TnFyU3gteGfSAbYBQVVfeXFMTW90RWdFT19pQ1dwUVlhdUdHTE1LaGt5bDJDdS1sa211NzBJLWtzT3czaUc5NVJVRF85Njd1MlV2N05rbndicC01UlNSc1VTT280NmN6NnpTZC1tS2x2dE91bkRhTjF5RE9PbGlqalBiUzRSZ19ud0dpQXJEVEhaYV9vQ1ExbG5HX2ptdjBWblBZaUZsbnNiTUc5VUxnaTFfclExOFdQQldrMEtycGpaSWp6RnV1aUE?oc=5
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- Pics: Indian Air Force Chief Flies F-15 Fighter Jet During US Visit - NDTV
-  Indian Air Force Chief Flies F-15 Fighter
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeFJDU1ZxLXMwc3d4ZlpiRWh1OE52ZmZuQkNsWjRNeURZdVZVWEg0cFNUbFRCOFJiUUo5ZVdTOXdvejhiRlVnMzNCeFdFZDI4TDBRVnI3V0RIZlVUbmtzTTJ5ZnhFY2ZELXdNb2ZOTVJvWTdwT05BcXk2Yk94Y1lMUTdub240UDh3VjlYWUYxeDFIb3VkLWI4dGVhOTdkZFpDMm5XMzZnd0xRQ25qNVdMSDNlamJjYi04Y3d1eC1TaHIydkdBbWfSAc4BQVVfeXFMTVktbUdTX192N0tWM1FCRWswbFkxVndVZl8tbnRDTjI1RzBpNHZRTWg0SmxVTE1WUmpxMmZoVm94YktUdGRGZDF6R3oydzFUbVNlRElENFBSeENHYmtjZ0stQnZWTzQ4YlFpTzlJd2RON0FfdTBGOVhlTkdIYmNPRHpuMVZaTHV4cUpHbTRKdmU1UXdzZTJBa0cwdGN4NFpyVnJyaVpzemtDUHY1TmdNMzJzTmRBczhpLXlBX1dQNjQxZ3lvaHdDeGMzYkE5dnc?oc=5
+- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
+  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
 
-- World Heritage Day: Underrated intangible heritage of India - The Indian Express
-  World Heritage Day: Underrated intangible heritage
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1QTm00WVdOQTJVTHFxaGpaT0IzaUljY2xWS3hJZUVtSUZuajhlN25xbEdPdUROR0dXT18xZDBSMVEydU1pcjh1MG1zcTFRdkxNRUM0ZXc3a1FCY3pablFlOUk4UmZzLWsxOVVPR3EzOWZZOFM1ZVdYQnhTNmNIR0txVDQ3NXZYMjBWa2FWVXloY0NCY1N5cnh3NnlabkY5WlBOOWI2dWJ3QXJ6a1p1MVp5cXNzQ3gxelZV0gHCAUFVX3lxTE4xel9oWW1hVjlNd08zS0hrcEVYbWNmYVZTWURIRVA2cFcyYkthZ1F0N3Jsd0ZPSnllaVNUWXFLeXg1WEY3NUJGdzNHUWdqOFdobnE1MVdQODF1Tno3TWdES2stSUxWclI2eVNfVlNoVENkM2tnUVl1SzBaVnBTZUZEblFLR3NSQ2JxbWt6Yk84MV9fdXZUS3J2YVp1RDFUXzNyOHR6Tl9HRWpBeEItUzRqb3BqNEs2c0x4UkNDSUdqS1F3?oc=5
+- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
+  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
 
-- Hajj 2026 begins for India as first group of pilgrims leaves for Saudi Arabia - News On AIR
-  Hajj 2026 begins for India as first group of pilgrims leaves
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNENZVHZFMmhyWDBTeGFJRWZvaFpwSlc5N2lMdm5XT1ZOWVhJQjZoN3JJSVJVb2tOTTRWZTEtZUxZbkV0RDNZbC15LVdRYVBWMDFlaXBjaHdXNlZNTllxZUFHX2k4WkptQVVSQ2JGSFNHdU5EYzBVSmVUbmFzLW5yWU95RllNLXdTbUpWWWFSMGlITVlOVGVYWTBTUVNjR0ZSanBWWXVTQUFzOTQ?oc=5
+- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
+  PM Modi Speech Today Live Updates: Modi to address nation at 8.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
 
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
+  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
 
-- Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeU
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeUo3VTQ4dWY2cWRmS0FjNUhBSWlwUFhsWXc5MUhoeUFfZVlES2JoQzRQZEc1Qm1OeHVaLTB4MEVOSXRwQVl0TnFyU3gteGfSAbYBQVVfeXFMTW90RWdFT19pQ1dwUVlhdUdHTE1LaGt5bDJDdS1sa211NzBJLWtzT3czaUc5NVJVRF85Njd1MlV2N05rbndicC01UlNSc1VTT280NmN6NnpTZC1tS2x2dE91bkRhTjF5RE9PbGlqalBiUzRSZ19ud0dpQXJEVEhaYV9vQ1ExbG5HX2ptdjBWblBZaUZsbnNiTUc5VUxnaTFfclExOFdQQldrMEtycGpaSWp6RnV1aUE?oc=5
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- Pics: Indian Air Force Chief Flies F-15 Fighter Jet During US Visit - NDTV
-  Indian Air Force Chief Flies F-15 Fighter
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeFJDU1ZxLXMwc3d4ZlpiRWh1OE52ZmZuQkNsWjRNeURZdVZVWEg0cFNUbFRCOFJiUUo5ZVdTOXdvejhiRlVnMzNCeFdFZDI4TDBRVnI3V0RIZlVUbmtzTTJ5ZnhFY2ZELXdNb2ZOTVJvWTdwT05BcXk2Yk94Y1lMUTdub240UDh3VjlYWUYxeDFIb3VkLWI4dGVhOTdkZFpDMm5XMzZnd0xRQ25qNVdMSDNlamJjYi04Y3d1eC1TaHIydkdBbWfSAc4BQVVfeXFMTVktbUdTX192N0tWM1FCRWswbFkxVndVZl8tbnRDTjI1RzBpNHZRTWg0SmxVTE1WUmpxMmZoVm94YktUdGRGZDF6R3oydzFUbVNlRElENFBSeENHYmtjZ0stQnZWTzQ4YlFpTzlJd2RON0FfdTBGOVhlTkdIYmNPRHpuMVZaTHV4cUpHbTRKdmU1UXdzZTJBa0cwdGN4NFpyVnJyaVpzemtDUHY1TmdNMzJzTmRBczhpLXlBX1dQNjQxZ3lvaHdDeGMzYkE5dnc?oc=5
+- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
+  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
 
-- World Heritage Day: Underrated intangible heritage of India - The Indian Express
-  World Heritage Day: Underrated intangible heritage
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1QTm00WVdOQTJVTHFxaGpaT0IzaUljY2xWS3hJZUVtSUZuajhlN25xbEdPdUROR0dXT18xZDBSMVEydU1pcjh1MG1zcTFRdkxNRUM0ZXc3a1FCY3pablFlOUk4UmZzLWsxOVVPR3EzOWZZOFM1ZVdYQnhTNmNIR0txVDQ3NXZYMjBWa2FWVXloY0NCY1N5cnh3NnlabkY5WlBOOWI2dWJ3QXJ6a1p1MVp5cXNzQ3gxelZV0gHCAUFVX3lxTE4xel9oWW1hVjlNd08zS0hrcEVYbWNmYVZTWURIRVA2cFcyYkthZ1F0N3Jsd0ZPSnllaVNUWXFLeXg1WEY3NUJGdzNHUWdqOFdobnE1MVdQODF1Tno3TWdES2stSUxWclI2eVNfVlNoVENkM2tnUVl1SzBaVnBTZUZEblFLR3NSQ2JxbWt6Yk84MV9fdXZUS3J2YVp1RDFUXzNyOHR6Tl9HRWpBeEItUzRqb3BqNEs2c0x4UkNDSUdqS1F3?oc=5
+- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
+  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
 
-- Hajj 2026 begins for India as first group of pilgrims leaves for Saudi Arabia - News On AIR
-  Hajj 2026 begins for India as first group of pilgrims leaves
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNENZVHZFMmhyWDBTeGFJRWZvaFpwSlc5N2lMdm5XT1ZOWVhJQjZoN3JJSVJVb2tOTTRWZTEtZUxZbkV0RDNZbC15LVdRYVBWMDFlaXBjaHdXNlZNTllxZUFHX2k4WkptQVVSQ2JGSFNHdU5EYzBVSmVUbmFzLW5yWU95RllNLXdTbUpWWWFSMGlITVlOVGVYWTBTUVNjR0ZSanBWWXVTQUFzOTQ?oc=5
+- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
+  PM Modi Speech Today Live Updates: Modi to address nation at 8.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
 
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
+  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
 
-- Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeU
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeUo3VTQ4dWY2cWRmS0FjNUhBSWlwUFhsWXc5MUhoeUFfZVlES2JoQzRQZEc1Qm1OeHVaLTB4MEVOSXRwQVl0TnFyU3gteGfSAbYBQVVfeXFMTW90RWdFT19pQ1dwUVlhdUdHTE1LaGt5bDJDdS1sa211NzBJLWtzT3czaUc5NVJVRF85Njd1MlV2N05rbndicC01UlNSc1VTT280NmN6NnpTZC1tS2x2dE91bkRhTjF5RE9PbGlqalBiUzRSZ19ud0dpQXJEVEhaYV9vQ1ExbG5HX2ptdjBWblBZaUZsbnNiTUc5VUxnaTFfclExOFdQQldrMEtycGpaSWp6RnV1aUE?oc=5
+- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
+  US U-Turn On Russian Oil Waivers Amid Iran War
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
 
-- Pics: Indian Air Force Chief Flies F-15 Fighter Jet During US Visit - NDTV
-  Indian Air Force Chief Flies F-15 Fighter
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeFJDU1ZxLXMwc3d4ZlpiRWh1OE52ZmZuQkNsWjRNeURZdVZVWEg0cFNUbFRCOFJiUUo5ZVdTOXdvejhiRlVnMzNCeFdFZDI4TDBRVnI3V0RIZlVUbmtzTTJ5ZnhFY2ZELXdNb2ZOTVJvWTdwT05BcXk2Yk94Y1lMUTdub240UDh3VjlYWUYxeDFIb3VkLWI4dGVhOTdkZFpDMm5XMzZnd0xRQ25qNVdMSDNlamJjYi04Y3d1eC1TaHIydkdBbWfSAc4BQVVfeXFMTVktbUdTX192N0tWM1FCRWswbFkxVndVZl8tbnRDTjI1RzBpNHZRTWg0SmxVTE1WUmpxMmZoVm94YktUdGRGZDF6R3oydzFUbVNlRElENFBSeENHYmtjZ0stQnZWTzQ4YlFpTzlJd2RON0FfdTBGOVhlTkdIYmNPRHpuMVZaTHV4cUpHbTRKdmU1UXdzZTJBa0cwdGN4NFpyVnJyaVpzemtDUHY1TmdNMzJzTmRBczhpLXlBX1dQNjQxZ3lvaHdDeGMzYkE5dnc?oc=5
+- 'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails in Lok Sabha - The Times of India
+  'India has seen it, INDIA has stopped it': Rahul Gandhi after women quota bill fails
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNXdWUlVfbGVrWTNUdDJucEJnMlV6Rm5qVldVQjRpazgyZVBNaVFUNDVHck84eDU4SDR3UjZVcTA3UEJaQ3Jxc0xQZGtDTjJvVXI0RXpFVWMweXRkUTM4OHl6UkhmTTU0M0ZTTERmLTFrUVdleThHR0ZrYzI4Mnl4cGY0ZUFHRzVwdzJDQXdQODJxZk41bUVmRVY1OVJKZG80SnhQV3RuTGY2aDhPV1hfV1pYekhNZ1RtWHlVUDdPcFd3cTlHc0tEblVSclFJb0Z0Y1JlRFRGZVRGcGdySi1SV3Y4S0ZLY0VQdE9nZ2hmcXpOVnPSAfgBQVVfeXFMTzV0WWVvU1ZxZTV5Z29GNTFJRC1DYXNqZ2p5bDkxNG1JQ2ROejdPZUY0eUFjNWV6NDBmQTZuLWE0RUdISWlzNWRkYXhBYmo1MkdJY2hkQ01UMHpZVFpMSHRGV0dKUWNYcm9kZmVacFktNTYwd29SRVA0cUltUEZaV2FxbUlpd3RPOXVHRHdnMjhwUGVTclUtUEdISFAtVzNDaW9jWHUwaGFGaTA1Z0hnUFdpTVl3RzBOb3pYVkNNcTd4VG02b090cE1xbm5oTEt6emFOZE5VU2tIQ0VoMFhEQXdiNFN2NlFXeExjLTV1SjI4anFUb1lvSGE?oc=5
 
-- World Heritage Day: Underrated intangible heritage of India - The Indian Express
-  World Heritage Day: Underrated intangible heritage
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1QTm00WVdOQTJVTHFxaGpaT0IzaUljY2xWS3hJZUVtSUZuajhlN25xbEdPdUROR0dXT18xZDBSMVEydU1pcjh1MG1zcTFRdkxNRUM0ZXc3a1FCY3pablFlOUk4UmZzLWsxOVVPR3EzOWZZOFM1ZVdYQnhTNmNIR0txVDQ3NXZYMjBWa2FWVXloY0NCY1N5cnh3NnlabkY5WlBOOWI2dWJ3QXJ6a1p1MVp5cXNzQ3gxelZV0gHCAUFVX3lxTE4xel9oWW1hVjlNd08zS0hrcEVYbWNmYVZTWURIRVA2cFcyYkthZ1F0N3Jsd0ZPSnllaVNUWXFLeXg1WEY3NUJGdzNHUWdqOFdobnE1MVdQODF1Tno3TWdES2stSUxWclI2eVNfVlNoVENkM2tnUVl1SzBaVnBTZUZEblFLR3NSQ2JxbWt6Yk84MV9fdXZUS3J2YVp1RDFUXzNyOHR6Tl9HRWpBeEItUzRqb3BqNEs2c0x4UkNDSUdqS1F3?oc=5
+- Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy | India News - Hindustan Times
+  Indian tanker, carrying 2 million barrels of oil, shot at by Iran Navy
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdkYTczMG42MFVxREZ1U3laYUJWREhTUDRuTHJLeFpoRzJYN0Fnd0VvRjNOWkZGVjh0RHhwMnFNbkk4STRtMzRfZlFxRlVYQU9KQk1mSEtOSW9ibi1EbVFPYUVwNVlkTld0dmFBblNuVXlRY1NjNVJ1QlVGY0FNNDNsOEg0STJFVEVJd2NmOTdYeEYxWHozWEMtMEROelRaTEVBcGdXaVJlYmVDT05LSkh1RHY2ZExPU052ZnhXOTVFN2MyczdWY3haY9IB0AFBVV95cUxNQy1KcWhyNC04WHJiQ1o3clozeG4zanFXOVZGbVhEWWNGZ1NFenM4NXNYTkVsSWZOaW9sLTB1aGcyZWZzTC1wVDcwLTFHNVNHRk1tRU1lLTVQY2Ewd2lvYktjeDVydlduNjJRVGRCcDhPRFlQaXZlUUp0WFk4RkN2WE8tX3ZUNzg4LW93eE1qRVlmclNBS25MSzZEdzQ5VXR5WXpYWkFlTXo0RUwzWlRGNW1aRjRjQk1QX0JnNlJ6bDRnbTVfWU5ObkFYWldERk5z?oc=5
 
-- Hajj 2026 begins for India as first group of pilgrims leaves for Saudi Arabia - News On AIR
-  Hajj 2026 begins for India as first group of pilgrims leaves
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNENZVHZFMmhyWDBTeGFJRWZvaFpwSlc5N2lMdm5XT1ZOWVhJQjZoN3JJSVJVb2tOTTRWZTEtZUxZbkV0RDNZbC15LVdRYVBWMDFlaXBjaHdXNlZNTllxZUFHX2k4WkptQVVSQ2JGSFNHdU5EYzBVSmVUbmFzLW5yWU95RllNLXdTbUpWWWFSMGlITVlOVGVYWTBTUVNjR0ZSanBWWXVTQUFzOTQ?oc=5
+- PM Modi Speech Today Live Updates: Modi to address nation at 8.30 PM today - The Indian Express
+  PM Modi Speech Today Live Updates: Modi to address nation at 8.
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTIwZDR5S21hSTFUTmJ1a3NQdVpMN0VJY2NFenA5UXV4RGx3RDdPekZ3S0pYdkpOeEJRR0I4emRhWUhvclprV3FLVXJkdF91WTF5SnM3ZDlLaWpaZFA5WjFjN1NUbXJKTnR1b0lKRkN3MmdKZWt4SnBuakpyNHMyYnYzY2JwQklSbGI1b2dYcVIzZFZkaGZLRGRNX2FEY0dFdjQtWnJ5QXl2cmx0ZW1PdFpTWdIBugFBVV95cUxOLWowLWoyMG9wOGtWUjZfMlhfY0NUckQyeGlQb2tHU0x0cjAzWWRsWkxSR0lHZDlwZ1JhMDlUcFdIN3hReUdHREdfWmx6UXVicDI3VjI5c0xLTFc2Z0g5VE9rTmx1LWVwWEg4T09DVWotby1XU3R4VmZJa3Q1WjdnV0ZMTVU5aHU4RzBUc2o2ZE1ZY0FnVU9kUWhsSy1fR0IwckFFcUtqRXcta19JMjhwTDU3cUhjalFYTmc?oc=5
 
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+- Breaking News Live Updates: One killed and at least 26 injured in Russian strikes across Ukraine, officials say - The Times of India
+  The Times of India reports that one person has been killed and 26 injured in Russian strikes.
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQaW9tX0VUbTgtSlVwSDlYVHhyRk5HbE1nckFraVlpY1NDTlRUVjFYV2RhZE5xU3RYcTFseDVjOUNkRGcyRlFnZzBxbE1KbE44VmdGbXhKTXZSZUJsT2NGZU9uTkd0ZHB2WGE5QlFoWDExdVdYOFVJQ2Zva1poRjF2RUpYeThiYVRrWEdPZGdZZUI1TjE0QU9kSTh4dVBZVzZNS3NCTlU1Y3JiMk9pbmZTTmZpQXBmaVh4TjdBeTk3RWFaT3BwbC1IdDR30gHPAUFVX3lxTFBBeEdVNERVSjdJcFVGeXotTGFYN1NFOVJjVUNsTFhiSDAwS01SbXVoUjBsOVFVb3VJRlg2ZTFMVzdnOGMtalVJSWE4Z1ZhdzVhZ0FHQjNNWGt6Z1dzQWdqd0xDazljc211SjlYc1l6b2pFZmtHSHlJR1hqYTQtRDdxQm5WbkktXzdOZlFKQWJ2QVd6cXlxX0VMMk93VUhOV2xrYld5V1N6b2xfRXF1bVZqUk1IdUJpRHM3M01GWVZJeVFpYVRqTEhCYkpwZ0dYVQ?oc=5
 
-- Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeU
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeUo3VTQ4dWY2cWRmS0FjNUhBSWlwUFhsWXc5MUhoeUFfZVlES2JoQzRQZEc1Qm1OeHVaLTB4MEVOSXRwQVl0TnFyU3gteGfSAbYBQVVfeXFMTW90RWdFT19pQ1dwUVlhdUdHTE1LaGt5bDJDdS1sa211NzBJLWtzT3czaUc5NVJVRF85Njd1MlV2N05rbndicC01UlNSc1VTT280NmN6NnpTZC1tS2x2dE91bkRhTjF5RE9PbGlqalBiUzRSZ19ud0dpQXJEVEhaYV9vQ1ExbG5HX2ptdjBWblBZaUZsbnNiTUc5VUxnaTFfclExOFdQQldrMEtycGpaSWp6RnV1aUE?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Pics: Indian Air Force Chief Flies F-15 Fighter Jet During US Visit - NDTV
-  Indian Air Force Chief Flies F-15 Fighter
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeFJDU1ZxLXMwc3d4ZlpiRWh1OE52ZmZuQkNsWjRNeURZdVZVWEg0cFNUbFRCOFJiUUo5ZVdTOXdvejhiRlVnMzNCeFdFZDI4TDBRVnI3V0RIZlVUbmtzTTJ5ZnhFY2ZELXdNb2ZOTVJvWTdwT05BcXk2Yk94Y1lMUTdub240UDh3VjlYWUYxeDFIb3VkLWI4dGVhOTdkZFpDMm5XMzZnd0xRQ25qNVdMSDNlamJjYi04Y3d1eC1TaHIydkdBbWfSAc4BQVVfeXFMTVktbUdTX192N0tWM1FCRWswbFkxVndVZl8tbnRDTjI1RzBpNHZRTWg0SmxVTE1WUmpxMmZoVm94YktUdGRGZDF6R3oydzFUbVNlRElENFBSeENHYmtjZ0stQnZWTzQ4YlFpTzlJd2RON0FfdTBGOVhlTkdIYmNPRHpuMVZaTHV4cUpHbTRKdmU1UXdzZTJBa0cwdGN4NFpyVnJyaVpzemtDUHY1TmdNMzJzTmRBczhpLXlBX1dQNjQxZ3lvaHdDeGMzYkE5dnc?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- World Heritage Day: Underrated intangible heritage of India - The Indian Express
-  World Heritage Day: Underrated intangible heritage
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1QTm00WVdOQTJVTHFxaGpaT0IzaUljY2xWS3hJZUVtSUZuajhlN25xbEdPdUROR0dXT18xZDBSMVEydU1pcjh1MG1zcTFRdkxNRUM0ZXc3a1FCY3pablFlOUk4UmZzLWsxOVVPR3EzOWZZOFM1ZVdYQnhTNmNIR0txVDQ3NXZYMjBWa2FWVXloY0NCY1N5cnh3NnlabkY5WlBOOWI2dWJ3QXJ6a1p1MVp5cXNzQ3gxelZV0gHCAUFVX3lxTE4xel9oWW1hVjlNd08zS0hrcEVYbWNmYVZTWURIRVA2cFcyYkthZ1F0N3Jsd0ZPSnllaVNUWXFLeXg1WEY3NUJGdzNHUWdqOFdobnE1MVdQODF1Tno3TWdES2stSUxWclI2eVNfVlNoVENkM2tnUVl1SzBaVnBTZUZEblFLR3NSQ2JxbWt6Yk84MV9fdXZUS3J2YVp1RDFUXzNyOHR6Tl9HRWpBeEItUzRqb3BqNEs2c0x4UkNDSUdqS1F3?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Hajj 2026 begins for India as first group of pilgrims leaves for Saudi Arabia - News On AIR
-  Hajj 2026 begins for India as first group of pilgrims leaves
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNENZVHZFMmhyWDBTeGFJRWZvaFpwSlc5N2lMdm5XT1ZOWVhJQjZoN3JJSVJVb2tOTTRWZTEtZUxZbkV0RDNZbC15LVdRYVBWMDFlaXBjaHdXNlZNTllxZUFHX2k4WkptQVVSQ2JGSFNHdU5EYzBVSmVUbmFzLW5yWU95RllNLXdTbUpWWWFSMGlITVlOVGVYWTBTUVNjR0ZSanBWWXVTQUFzOTQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Women's Quota Bill Fails Lok Sabha Test, Doesn't Get Two-Thirds Majority - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeU
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1gtY1J0Q1Qyb1dyWDRzWTRWUVZzck1tbVh5S0NoNWZtek9DTWxhVXhPSzJyZ0cxSTJTTkJkM1I0UEdhWkRUeDNjMXNTUFQyZTR0R1BLdjVLYWc2bXVKM2VwN3dsUFFkeUo3VTQ4dWY2cWRmS0FjNUhBSWlwUFhsWXc5MUhoeUFfZVlES2JoQzRQZEc1Qm1OeHVaLTB4MEVOSXRwQVl0TnFyU3gteGfSAbYBQVVfeXFMTW90RWdFT19pQ1dwUVlhdUdHTE1LaGt5bDJDdS1sa211NzBJLWtzT3czaUc5NVJVRF85Njd1MlV2N05rbndicC01UlNSc1VTT280NmN6NnpTZC1tS2x2dE91bkRhTjF5RE9PbGlqalBiUzRSZ19ud0dpQXJEVEhaYV9vQ1ExbG5HX2ptdjBWblBZaUZsbnNiTUc5VUxnaTFfclExOFdQQldrMEtycGpaSWp6RnV1aUE?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Pics: Indian Air Force Chief Flies F-15 Fighter Jet During US Visit - NDTV
-  Indian Air Force Chief Flies F-15 Fighter
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPeFJDU1ZxLXMwc3d4ZlpiRWh1OE52ZmZuQkNsWjRNeURZdVZVWEg0cFNUbFRCOFJiUUo5ZVdTOXdvejhiRlVnMzNCeFdFZDI4TDBRVnI3V0RIZlVUbmtzTTJ5ZnhFY2ZELXdNb2ZOTVJvWTdwT05BcXk2Yk94Y1lMUTdub240UDh3VjlYWUYxeDFIb3VkLWI4dGVhOTdkZFpDMm5XMzZnd0xRQ25qNVdMSDNlamJjYi04Y3d1eC1TaHIydkdBbWfSAc4BQVVfeXFMTVktbUdTX192N0tWM1FCRWswbFkxVndVZl8tbnRDTjI1RzBpNHZRTWg0SmxVTE1WUmpxMmZoVm94YktUdGRGZDF6R3oydzFUbVNlRElENFBSeENHYmtjZ0stQnZWTzQ4YlFpTzlJd2RON0FfdTBGOVhlTkdIYmNPRHpuMVZaTHV4cUpHbTRKdmU1UXdzZTJBa0cwdGN4NFpyVnJyaVpzemtDUHY1TmdNMzJzTmRBczhpLXlBX1dQNjQxZ3lvaHdDeGMzYkE5dnc?oc=5
-
-- World Heritage Day: Underrated intangible heritage of India - The Indian Express
-  World Heritage Day: Underrated intangible heritage
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1QTm00WVdOQTJVTHFxaGpaT0IzaUljY2xWS3hJZUVtSUZuajhlN25xbEdPdUROR0dXT18xZDBSMVEydU1pcjh1MG1zcTFRdkxNRUM0ZXc3a1FCY3pablFlOUk4UmZzLWsxOVVPR3EzOWZZOFM1ZVdYQnhTNmNIR0txVDQ3NXZYMjBWa2FWVXloY0NCY1N5cnh3NnlabkY5WlBOOWI2dWJ3QXJ6a1p1MVp5cXNzQ3gxelZV0gHCAUFVX3lxTE4xel9oWW1hVjlNd08zS0hrcEVYbWNmYVZTWURIRVA2cFcyYkthZ1F0N3Jsd0ZPSnllaVNUWXFLeXg1WEY3NUJGdzNHUWdqOFdobnE1MVdQODF1Tno3TWdES2stSUxWclI2eVNfVlNoVENkM2tnUVl1SzBaVnBTZUZEblFLR3NSQ2JxbWt6Yk84MV9fdXZUS3J2YVp1RDFUXzNyOHR6Tl9HRWpBeEItUzRqb3BqNEs2c0x4UkNDSUdqS1F3?oc=5
-
-- Hajj 2026 begins for India as first group of pilgrims leaves for Saudi Arabia - News On AIR
-  Hajj 2026 begins for India as first group of pilgrims leaves
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNENZVHZFMmhyWDBTeGFJRWZvaFpwSlc5N2lMdm5XT1ZOWVhJQjZoN3JJSVJVb2tOTTRWZTEtZUxZbkV0RDNZbC15LVdRYVBWMDFlaXBjaHdXNlZNTllxZUFHX2k4WkptQVVSQ2JGSFNHdU5EYzBVSmVUbmFzLW5yWU95RllNLXdTbUpWWWFSMGlITVlOVGVYWTBTUVNjR0ZSanBWWXVTQUFzOTQ?oc=5
-
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
-
-- AI is a gold mine for spammers and scammers, but Google is using it as a tool to fight back - The Hindu
-  AI is a gold mine for spammers and scammers, but Google is using it as a
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVnlWc3U4NWF0Q1lMTUJZTWM3SnZ1NThQaUxTWEllN2RFZHdEYmtaOURMekJPYVRuNTBzYXQ1UjFQWFRPUVpieHJ4ZC1kRGx3SkF3ekk1Snh1bTQzQUhsNS1BcnE3RlZWVndLenRnb01kVUxFYnd6eEh2OGIzSUpRemE5QzJ1cy1Qbjl3X2NSMkpxRGo2bGZ1eHBMVVV1c0V1bmFQWDVyYjdsZzRwWFZEMWZkekx1R2lqS1A1cE8yekpSYUI0RUo4X0ptZk5QNEhWNlo5eW1JcGNOMEVoMzlwaThTbTZGNmxMYVhV0gHyAUFVX3lxTE1BYTBGV0RhblRZSDNLM2FRRVUwMjUwbDFQeHQ2eEhTeWJiWGl3MldmSUZDLWZ3UzJJMGxYSm0tRWJQZGt3QjR2MXVsSjBGSWo3bzlDendXMElUMUNXZVl2cWhfOTdfYVNBbjh2MndMWEJVQUI5Nlo3aGp2ZGVqQl91aTdvZkJ3dEQ2Rlo3cXRPV1NUSUVvUE1MbU0wWUNCa1g4akJGYUFsM1hJc3hHRXA4eGNjNGJ5TGNxSlY3UUFwSWdVMjFSOTQxRXdndjlMY0tqNk5LOGlSenA0T2c3bVVYZ19MNTZXcDhIRVNmYWZPMjhn?oc=5
-
-- Fortifying the enterprise: 10 actions to take now for AI-ready cyber resilience - JPMorganChase
-  JPMorgan Chase is one of the world's
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXZRVXpyOE54Z2hsTkxGVF8waHZpSUgzVDl1U0QxbHhFN1JHajd1SktEOW4xOWRZeXNFVllVOXNnaVZ0azdzeVp4WVc3YTVnYzhwSXUxc3JmdXQwQUNETWlwZm1wUmxNOTlfRldVYXZ4OE1fXzQzTjQxdm9XUk9ON2Fibmp3VlQwUVhpVkFOTjFENlNDTDRORGFCdHJFTFlJY2dWX1JBWGN1Mlk3Q05WXy1tVEdMY19QWjJ4R1dCak90RGk0aFBObU93?oc=5
-
-- Deputy head of IMF joins business leaders in warning banks against AI models, says: Evolution of digital - The Times of India
-  The Times of India is a leading newspaper in India. It is based in Mumbai.
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNXzVRUHlRbHFfUEdnT1RwR1FmWTdrZEZTRS1JZ1lPTFJjRjBYMkpXM3czZGdRcnVUejBTN0ZWZUUyMWNWdjA2OURSc0JqY0g3TTRuenZmWFZSNld1V3lIcy03MC1KWWRSYkZuYVRZWENFaGFiR1Fuck9MWExIVjNGUUowOGZ0Z05leTB1Ul9TQmxjRUZfQjBMRVlEQnlPODByUHlMX0ZzdE92cXJCTDAyMmsyYU5OeG56MUw3R3BJQ1QxQzZYNHRTWjYwbzFNcjlmTDVVcVlFSF9Qb0dPWEt3dmJVUmRLdTYwSHpCZkRUMGpJMGZmU1NqT2pYUEdlTkFFbjNXdTZqX2tNeHd6VWpnc1dpUGlOS3AwSWlweGUzVlkzVXItUE1QV0VCSVBTMG1D0gG2AkFVX3lxTFBQQUFvbmNGcktBdUhVVG1aWnlFa0pFTHNIV3ZsRkx2V29KalFTXzBHd0RnbGhGR2lNUWN3emlmei1hZndfWm1obEpsLU9OdVczTi1FbVBHa3A0b05xWTBYQTViaXJISklBWWlFOHFGSnpTMDBrTDVDQVVNREZBcVhyQ1NfUHJvYUdyOHItYTdfZ2h0UU11UlFnU0ZLMkxTTkNFUkFXN0N5cjQ4TGdyWWVjMnVOdVhmdm05MXFwaWxsQ3NIdkQ1YlhCSWlpTzVWRHZvRkFnNS1SZU5zNW5yay1PTVljN0dGd0dIVEVvdDFHSkJjTmhYbnJHVGczdHU3TkJhS1NaN1gtSHU5ZGowWjJaUXRRUEFEemZHWXdJb0Yyb25LV3pJZFB4WlRneDNPdzExVm1Xemc?oc=5
-
-- In Étaples, Valeo combines long-standing expertise with new technologies to shape the future of high-voltage electrification ‘Made in France’ - Valeo
-  In Étaples, Valeo combines long-standing expertise with new technologies to shape
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFZTUVp4UUIwdnhxeWVla1pKdU5zZ0RrbkJEeHBqd0ZqbHNqUEt5T08xV1hVa3N4dHNCVnBCdzJiZUVBclN3NVkxX0tfYkliTkE1Z2w4NkV5N21EekFGRElUYjdqdEtRUU9tWENRYUxsek0tWWk3d0hjSUJQdlZpQlRHaDRYejRIQU8tYVdIV0U5aUhnS0VSRV9FeWlMejhIM0oyUUtCdGZpdW1rRDJxamZwWV9VZldreWdUSmc1VE9idU1aMzFzSjJrZS1FNXQ1UGU3SEJYcnpvN2FEOElJV29JT2hZOHJyVmZoSmZnVktNNlFNTDU4?oc=5
-
-- How do we build resilient organizations in a time when technology is evolving extremely rapidly? - KPMG
-  How do we build resilient organizations in a time when technology is evolving
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3ZmaS1jNl9aSU9oUUFHRlRBSHJVN3BsUGNlMVBORDJVdURsSTRDV2ZxRVhDMXVWdjdYVU9UN25WTm1WcllQOUZPa3BsT2V0VUZKazNRalpCclhYaFJvY3FhR1hpZjlDVG94NWVCZHM1YWQ2T2EwVi1ZZ3ZHRkFVRGtvRGpYVDYyQXFraWN6N0FEYzhvVlVBVGxXWHRaVXNWalFqXzg5V0NvakF5WWFFVzlfUWMyZk10b2V4UENYNkdvN25XaWQtNFNlSUhrOHpaUVJyd1Rhcw?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-18 07:05:01 UTC_
+_Last updated: 2026-04-18 12:56:21 UTC_
