@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Chhattisgarh boiler blast toll hits 21 as Opposition seeks culpable homicide charges against Vedanta officials
+- Gone in 20 minutes: Five gunmen, hostages, and a bank heist in Madhya Pradesh
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-boiler-blast-toll-oppn-homicide-charges-vedanta-10642278/
+  🔗 https://indianexpress.com/article/india/gone-in-20-minutes-five-gunmen-hostages-bank-heist-madhya-pradesh-10642462/
 
-- Wherever you go for votes, you will have to face the ire of women, Amit Shah warns Opposition
+- IRS officers taken to police station from Odisha Raj Bhavan: Panel set up to probe what transpired
   
-  🔗 https://indianexpress.com/article/india/amit-shah-lok-sabha-speech-131st-amendment-bill-women-reservation-south-india-seats-delimitation-10642254/
+  🔗 https://indianexpress.com/article/india/irs-officers-police-station-odisha-raj-bhavan-panel-probe-10642464/
 
-- Kerala teachers among 9 killed as van plunges into gorge at Valparai ghat in Tamil Nadu
+- Rajnath leads BJP chorus: Opposition stands exposed, put own interest above that of nation
   
-  🔗 https://indianexpress.com/article/india/malappuram-teachers-killed-valparai-hairpin-van-accident-10642216/
+  🔗 https://indianexpress.com/article/india/rajnath-leads-bjp-chorus-opposition-stands-exposed-put-own-interest-above-that-of-nation-10642509/
 
-- ‘Hail the Constitution’: Opposition rejoices as Bill to tweak women’s quota law is defeated in LS
+- Vedanta plant blast: Key ‘fan problem’, maintenance lapses under probe
   
-  🔗 https://indianexpress.com/article/india/131st-amendment-bill-failed-lok-sabha-rahul-gandhi-opposition-reaction-delimitation-clash-10642205/
+  🔗 https://indianexpress.com/article/india/vedanta-plant-blast-key-fan-problem-maintenance-lapses-under-probe-10642507/
 
-- Tripura ADC elections: High hopes for tribal solidarity in Northeast as Tipra Motha sweeps 24 of 28 seats
+- Welcome ceasefire between Israel and Lebanon: India
   
-  🔗 https://indianexpress.com/article/india/tripura-adc-election-results-tipra-motha-bjp-loss-10642130/
+  🔗 https://indianexpress.com/article/india/welcome-ceasefire-between-israel-and-lebanon-india-10642506/
+
+- Claude Design debut marks Anthropic’s expansion into visual creation
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/claude-design-debut-marks-anthropics-expansion-into-visual-creation-10642605/
 
 - India smartphone shipments fall to 6-year low in Q1 amid price hikes: Counterpoint
   
@@ -36,49 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-expands-codex-beyond-coding-with-new-ai-capabilities-10641645/
 
-- From dream home to digital trap: How to stay safe from fake online property listings
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/from-dream-home-to-digital-trap-how-to-stay-safe-from-fake-online-property-listings-10641559/
+- TCS shares update on Nashik office case: Says Nida Khan 'not an HR', forms oversight panel, calls in Deloitte
+  TCS has clarified that Nida Khan is not an HR manager. TCS has constituted a Keki Mistry-led oversight panel and engaged Deloitte and Trilegal for
+  🔗 https://www.livemint.com/companies/news/tcs-shares-update-on-nashik-office-case-says-nida-khan-not-an-hr-forms-oversight-panel-calls-in-deloitte-11776475637562.html
+
+- DeepSeek in talks to raise $300 million at $10 billion valuation, Report says
+  DeepSeek is in talks to raise at least $300 million at a $10 billion valuation. The Chinese AI startup that shook global markets faces mounting capital
+  🔗 https://www.livemint.com/companies/news/deepseek-in-talks-to-raise-300-million-at-10-billion-valuation-report-says-11776471894854.html
+
+- Ex-CEO, ex-CFO of bankrupt AI company charged with fraud
+  Ex-CEO,
+  🔗 https://www.livemint.com/companies/exceo-ex-cfo-of-bankrupt-ai-company-charged-with-fraud-11776454084326.html
+
+- Ethiopia Bondholders Start Process to Sue Government Over Defaulted Debt
+  A group of Ethiopia’s bondholders formally began a process to sue the government over a defaulted
+  🔗 https://www.livemint.com/companies/ethiopia-bondholders-start-process-to-sue-government-over-defaulteddebt-11776452284735.html
 
 - UltraTech Cement capacity tops 200 mtpa, now the largest outside China
   About 90 mt capacity came via acquisitions, starting with L&amp;amp;
   🔗 https://www.livemint.com/companies/news/ultratech-cement-capacity-200-mtpa-kumar-mangalam-birla-adani-ambuja-11776435870347.html
 
-- TCS brings back regular salary hikes amid workforce dip, ‘double-digit’ raise for top performers
-  TCS said that in FY26, it hired over
-  🔗 https://www.livemint.com/companies/news/tcs-brings-back-regular-salary-hikes-amid-workforce-dip-double-digit-raise-for-top-performers-11776430788763.html
+- HDFC Bank Q4 results preview: Net profit may rise 9%, NII seen up 6% YoY with stable margins; dividend in focus
+  Analysts expect HDFC Bank to report net profit growth in the range of 5-10% YoY. NII to grow
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-q4-results-preview-net-profit-may-rise-9-nii-seen-up-6-yoy-with-stable-margins-dividend-in-focus-11776447481339.html
 
-- Flipkart plans to enter live events, ticketing market in India, to compete with BookMyShow, Zomato's District: Report
-  Flipkart plans to enter India's live events and ticketing market. The company is also preparing to pilot food delivery services.
-  🔗 https://www.livemint.com/companies/flipkart-plans-to-enter-live-events-ticketing-market-in-india-to-compete-with-bookmyshow-zomatos-district-report-11776433178994.html
+- US Treasuries Rally as Falling Oil Boosts Interest Rate-Cut Bets
+  Treasuries gained to wrap up a choppy week of war-driven swings. easing tensions in the Middle East drove oil lower and prompted traders to boost w
+  🔗 https://www.livemint.com/market/us-treasuries-rally-as-falling-oil-boosts-interest-rate-cut-bets-11776457711729.html
 
-- Buybacks vs business: Wipro’s  ₹15,000 cr payout leaves investors cold as revenue declines for third straight year
-  Wipro's buyback plan failed to boost investor confidence as shares dropped 2.78%. The company's revenue has declined for three consecutive years, raising concerns about
-  🔗 https://www.livemint.com/companies/wipro-buyback-revenue-decline-tech-spending-acquisitions-deal-pipeline-large-contracts-11776421808607.html
+- Canadian dollar hits one-month high as Iran says key waterway open
+  Canadian dollar hits one-month high as
+  🔗 https://www.livemint.com/market/canadian-dollar-hits-one-month-high-as-iran-says-key-waterway-open-11776456409425.html
 
-- NDR InvIT acquires warehousing assets in Kochi, Coimbatore for  ₹260 crore
-  Infrastructure investment trusts have emerged as a transformative instrument in India’s infrastructure financing landscape. They bridge the gap between
-  🔗 https://www.livemint.com/companies/news/ndr-invit-warehousing-assets-kochi-coimbatore-infra-invit-india-11776423730828.html
+- Wall Street indexes rally after Iran says Strait of Hormuz completely open
+  Wall Street indexes rally after Iran says Strait of Horm
+  🔗 https://www.livemint.com/market/wall-street-indexes-rally-after-iran-says-strait-of-hormuz-completely-open-11776453896250.html
 
-- Gold, silver rates today: Comex gold jumps $109/oz, silver surges $4.5/oz as Strait of Hormuz reopens
-  Gold rose $109 to $4,917 and silver surged $4.53 to $83.24. Iran reopened the Strait
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-comex-gold-jumps-109-oz-silver-surges-4-5-oz-as-strait-of-hormuz-reopens-11776441960955.html
-
-- Banks' NPAs hold steady despite war shake-up, shows Crisil stress test
-  The US-Iran war, which started on 28 February 2026, has hit global supply chains, especially in energy. This has led to
-  🔗 https://www.livemint.com/market/bank-npa-stress-test-war-crisil-us-iran-war-global-supply-chains-msme-inflation-economy-energy-11776426031808.html
-
-- Trent to consider bonus, dividend along with Q4 results on this date. Check details
-  On April 22, 2026, Trent's board will review Q4 FY26 financials, potential interim dividends, and the introduction of bonus shares and an ESOP. After remaining under pressure for a prolonged period
-  🔗 https://www.livemint.com/market/stock-market-news/trent-to-consider-bonus-dividend-along-with-q4-results-on-this-date-check-details-11776436681189.html
-
-- Pulse of the Street: Indian stocks cool after surge as global markets race ahead
-  The Nifty 50 and Sensex rose over 1% this week, extending gains after last week’s near 6% surge. On Friday, both indices closed about 0.65% higher, with the Nifty at
-  🔗 https://www.livemint.com/market/pulse-of-the-street-indian-stocks-cool-after-surge-as-global-markets-race-ahead-11776430893991.html
-
-- Wall Street hits fresh record highs after Iran reopens Strait of Hormuz; Brent slips below $90
-  Two indices hit record highs after Iran announced that the Strait of Hormuz is fully open, allowing oil tankers to operate. The S&amp;amp;P 500 rose 1.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-hits-fresh-record-highs-after-iran-reopens-strait-of-hormuz-brent-slips-below-90-11776433137040.html
+- Yields fall as hopes of end to Iran war ease inflation fears
+  TREASURIES-Yields
+  🔗 https://www.livemint.com/market/yields-fall-as-hopes-of-end-to-iran-war-ease-inflation-fears-11776453342062.html
 
 - White House chief of staff to meet with Anthropic CEO over its new AI technology
   White House chief of staff to meet with Anthropic
@@ -104,121 +104,41 @@
   World leaders have a message for the markets and its not a pleasant
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1ZRVXZfQlpyUVhlY3FKMGZET0kwc3NFVVR2ZktxLTFyb3hBMlZyb3JEcDVhSVIxbTZXMHU3R0FTend4aVFCcVlMb3pSWXZfcHRKSTMwMDViWHJvSGx2b05kbk5jeEtoSk1DRlBGZ0FjZWdwVVhRNUVzZzFHdnFJMXJYdWxhVTZsaU02bkt4eEswcmJSVDdmYXZVTEJBQ0VYeXdRVG1SNFpPTmx2eXVNbkx1TzlKd0pyVnczUXc1dHQ3alRlZ2xTRFlsMmhGMGtfQUZEQ2R2dHBBT2hGb3FuY0t1eGdPOWQyTG40V0hiUHfSAfYBQVVfeXFMTTF3LXd3MXR5NFRrRTA0MDdFQ0o1aFJQdGoxbDZPUkQ2WWpqVGdlRVZEUFBWVnpzMTVrS2Fndk8wUDJhcUZMaEIxT0VTMjU2OGFudmtpVVdIYkViR1ZMblpXenZiOUJaR3JMOWRzY0dYYWc2REk4NXdBdXNVNVJldlp2T3ZwRzFSbzNiVDhOSFdWZnhqdFFRUF9ycWUxZjYweGhWUHUyTTVJT0wyck4wN2FXeUxLMGdySGFLMW5DdGRKQklzR1p1cHBGQXpDNkk3dFd2TXV4UThTNXVpVGM1NWlYakEybGt2aDRJUFI2YkpKTUVXcEd3?oc=5
 
-- Wall Street bank earnings in five charts as volatile markets take center stage - Reuters
-  Wall Street bank earnings in five charts as volatile markets take
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGZCR3lsdmdKYTVIZjFXOWh2YkxuM3dleXdFR1puMXppb3o2cFRkRS1VNG1KWFZJbjdOYkxOLV9VTk5udWY5VFZZbDdxd3IzTEdlMWlWY2ZEOVdmcTNlNmlVM3JpNmNxQ2d2RUJzd0dQRWJRcy0yZzdscjIzZVpxQ0ZyOGdvemNXR2RMMUFHUzNTSHJTWE9ENk45ekhBVTQ3NkRKakVZc3hTMFJEMWgtSW5rSjF1bG14Y3liOEYyYmktWnc?oc=5
+- Global markets rally as Iran opens shipping channel - The Times of India
+  Global markets rally as Iran opens shipping channel.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYXUzc0h0R0dpZ2h1akE1WlRlb1Z1WllQS3RtRDA4aTFxVV96blQ1WHhiaWRHZFdpUnlwVUQ3V3hQbWZJU2xRQkZUYTFsellJMlZRZmtpUFJsTW9qV21mRXBiVUIzMGF3clpKcUVtTVJxWTljOTRKd0lWOVkxOU11ZmZ2VWxrOGMyeFNVRGl0aGpCOVFTeU5kVWM0Y2dRNE9CaENkR0wtb3VKaFBiSHNoNGVONXozeEt6SXV5ZXBERTNFYm1tZVAta05qekJUYXhwQm4wam1JYUNRc2NObXfSAeMBQVVfeXFMTlkyRDNjZjR5c1RJMVdZNmJDYWVSX1F1VFZoQnlBMUNQV2pvaEVQS0Q3WktKZTgzX1dCeUtKTDZkeFJ6VXUwRWF6TUNieDZlaEhhZmpDVU5SblFLTWhEb290MmVhZGc0ek9vREE3TWFEZHNha3Q0NWNFajdHVXBlYV9aU0tSSEV0VWtDcW91Ul9yYzNsVmltTkduNHFBNVFSaVdrWUpjaUNNbVA5a3NSTEtkM2pYbW5ueEduNm5wWUZsdGpHU20tZGRkYWVuOUU4RXVMbmkyVFZ1MTU0ZVIyV3lSY2M?oc=5
 
-- Stock market today: S&P 500, Nasdaq, Dow futures climb as US-Iran tensions ease, earnings season underway - Yahoo Finance Singapore
-  Stock market today: S&amp;P 500, Nasdaq, Dow futures
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGRkTHhFUEdRQ3RnWkliSkl3UDZVRllnZ2hhclVIaHVkdmlOalBpS014c0o5RXVCd3JPa3RSWnVrMkZLU3g5OERXOHhiTGVZNWw5TkFzTTRNOFpHREMzdV9wWm1TMEYyUHg0WmZsb2gzZUdCNElCMDAyX0xDcjRCZ01KejU0WEpyQjFEUHhhVlR0dVllNVFUelI0RU5SNTZuUDBMLUdHNk11Uzh2NDhjbWQ5b1V2UVRCVmZPXzJQWlFBbUFNUHdKZkRTdnVTdGd6R256bWJfaC0zOWM?oc=5
+- Asia markets mostly fall as fragile Middle East ceasefire tempers sentiment - CNBC
+  Asia markets mostly fall as fragile Middle East ceasefire
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5HMU1Qd2pZM0s4S1U5VUZWNENKSHFEWEw5Z0ZhVFJYWFpEbThLQWxwRHdlRHVLa1pWTGRNdjN1bFh4RG9OUDJGenNyR3VnOHBEeTJLWk9XRmRKWUoxT2JyMm1oM2FZLW1iME0yM0h0eWotMjQ1M0NZSEdEaFlNWmRPc1lkcjNqNlBBa3pFTzY4ZEI4d2ZkcVV5dHVwMHFXSUHSAacBQVVfeXFMT0RSejhrc0xNR0I1N29Ta245QV9MZGMtZkJ6bkMwblg1Z2tRNGlKcHVUbHlUM191QmNISEhLTGlvLWplWmVtbldYTmJkUzhDalo2MkREQk1haDluSzc3UlRFWVU4cUlJa1liclJqeW9oQzBjS0s2b3A0cW1zb0oxMTZnb0ZDVlM5dXA4aVVHUXJaQmw2S2N5M2VLakdlQlJ1QUpfMzhxM3M?oc=5
 
-- Stock Market Today: Indexes Surge, Oil Dives After Iran's Foreign Minister Says Strait of Hormuz 'Completely Open' During Ceasefire; Dow Up 900 Points - Investopedia
-  Iran's Foreign Minister says Strait of Hormuz 'Completely Open' During Ceasefire. Dow
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFlfSGE3M2dXQXp3V0xiSVQxSEJScFRyWXJXYnVPcW95eXctVWNtVC04UEVQbk9EUVdQdGowalVaU2h6dFQ3YzJISDBfejlCbm42WGxBSl9BZjBSYzFzUGJkeWVOZzl3NWNxY2hKcVJqYlJKSV85MllnZEVQNXFGalk5RFNOeVhWcHBrRk1RWDI?oc=5
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: Traders bet $760 million on oil decline ahead of Hormuz ... - The Economic Times
-  Traders bet $760 million on oil decline ahead of Hormuz. U.S. stock market
+- US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end at fresh records as oil prices... - The Economic Times
+  The Dow Jones and Nasdaq ended at fresh records as oil prices rose.
   🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxPZ3ZpbmZJcEtnb3pnY0gxRy1KSzRzQ1FyLXVTNUppMjFFTHBZTlNONU1pWjBKQVRWU0NRSjBBeXdOYXJYMG1GOWdiby0tRzNYQlNLSG5YR1RmVW9TX2hlbDR6N01LXzM1TC1lU0lRM2Y0SG5wY0E0Ml93eHBXRlpaWEwyTFAzdEhTUjZNcFdBaDZQYngxaktTZERaS183bGRqNDZQOEhZYk9yVm4yQkdBQUlhUUd5WlhRUDNZSjNKb1Q3NnhiOGdlZGRoa3hMeGpCRDdZQkZkSFlGMllrcnJpNVhnRkxfblAyTldPYXNmSHdyd2k4bkFaeDFhekpMd0RCTjFGZnE2ZWhCaU9May1QUlNCZ2NWbFBQNzBfVG85c1Y5UFhhSVVMVjJQM0RfUTViNDlmN0d5ckxVTDhxZTEwUnpUVFrSAcoCQVVfeXFMTk53eklYdm5CODF6N0VUSUQ5cTQ3X2N6cFBYOTM3OV9GZUl1ckM0dFg3ZGNieEVRT0VFZzZBbHFEcl9xcGxZZHRxTVhEOVFBQmRaRjRzYlI3ODFRQ1lpMlpNZkthemlQNXJFRDVfT1gwWndTa2s2WG9hWFhKd1ZqYkE5MGdRTHQ1UFhmMHRNMEZlbkYzT3JnYVFBYVhGMllBZ3BnTzdXLVpqSkpFcEk2bDNqazU2ZndyUHBIU1pfS01JaFFJbFd5SlVKa0FDZmRXVW5HUlFnSUdOMFRIZGYzR21RWW01MXpuZXd2eFg2VDZKaVpTOFFVaXBQZ29hbWh1WVNXaWx1cDVxMmdyUWNCSVBXTzFXSTVyTEFuclQxQ3piXzNrTVpWNWprcXA2amxjM2pkUTYwTFpsYWFwaFZKNnJPeU82NXpBeHN3?oc=5
 
-- US Stocks | Kailera soars over 60% in Nasdaq debut as weight-loss drug race heats up
-  Kailera Therapeutics shares surged 62.5% in their Nasdaq debut after raising $625 million. Strong investor demand reflects growing excitement around weight-loss and GLP-1 drugs.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-kailera-soars-over-60-in-nasdaq-debut-as-weight-loss-drug-race-heats-up/articleshow/130341159.cms
+- ANMI seeks faster roll-out of co-location in commodity markets, tighter action on dormant demat accounts - The Hindu
+  The Hindu is a news website. It is published by The Hindu
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGdIblJudVBVSW5LN3RiU3FsT2xNN0hHVlVIdzBfdmgzQUtJYk1UaGo0b0tQWFp0TXJoZkhUbkl2eHBqcHk0WkFRa3RVd0F0RjBmeTgxbFFiUVdiV2dmdDNkRWVhYzhTOFFCblRlNDAwZnZOS3B6Ti1VclhSaGc1d3B0ZWN5bTF5TkI3TWRjOU9ra2Qyc0JUV2xZQTVKa1J0Vlc1dnNoeGZ2YjRlY1BMSUV0Z25oem55YVQ2M1JyQTkzN2tlbl9VT2lNR2Q3N2JNT2dMcWtmVm5mS1VMMW9DUk9zWktZS3hlQWg5M2l30gH0AUFVX3lxTE9SZjVmdEliS0VwM1JJSlFmOEZjd3FwM1Y3U0pMSmhpdHlYd1pKQzlrNER2OU42dzRVaEVpSzBYNUdRN2FpV2RKX0NKeE5NZGN2R25rYXdVZFROMVpxTl90MjA4d1FIdVoxdm5LSTNyQnZCeHpNblRDQkVGS1hLeGo2b1htbTgzeXRKYjB2QzBOam5DZ3UwRGpHR1RTMU9Rck45THdNNmRJd1FmaUdTMk5MYkNscE1fRHZqU0pqeWpQbkk4QTBBWXlPU3pxTDlvMEtkUl9kVEp0LTNYOFB2MkZla0ktcldna2xMZjhhSjI2SnJKdTg?oc=5
 
-- US Stocks|Drone maker AEVEX valued at $2.6 billion as shares rise in NYSE debut
-  AEVEX made a striking entrance on the New York Stock Exchange, with its shares jumping 15% on debut. This significant increase points to a heightened investor enthusiasm for companies
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocksdrone-maker-aevex-valued-at-2-6-billion-as-shares-rise-in-nyse-debut/articleshow/130340770.cms
+- ICICI Direct view Nifty 'maturity' sets stage for a bull market
+  The Nifty has reached a significant point of maturity. This suggests a strong bottom is in place. Analysts believe this sets the stage for the next phase of a bull market.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/icici-direct-view-nifty-maturity-sets-stage-for-a-bull-market/articleshow/130345752.cms
 
-- Traders place $760 million bet on falling oil ahead of Hormuz announcement
-  The U.S. Commodity Futures Trading Commission is now scrutinizing the details of these deals. Such timely trades have prompted a thorough investigation into several oil futures transactions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-760-million-bet-on-falling-oil-ahead-of-hormuz-announcement/articleshow/130338898.cms
+- Irdai keeps FY27 cession rate at 4%, backs GIC Re role
+  Irdai has maintained the mandatory 4% cession rate for FY27. This decision aims to solidify GIC Re's position in India's reinsurance market. New domestic players like Jio-Allianz Re and Value
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/irdai-keeps-fy27-cession-rate-at-4-backs-gic-re-role/articleshow/130345647.cms
 
-- How 50 days of the Iran war led to the loss of $50 billion worth of oil
-  Global oil markets have lost over 500 million barrels since the Iran conflict began. Supply disruptions across the Gulf have tightened inventories and hit exports sharply. Despite partial ceasefire signals and Strait of Hormuz reopening, analysts expect recovery
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil/articleshow/130338646.cms
+- Sebi clears IPOs of Avaada, Grand Housing &amp; 2 others
+  Avaada Electro, Brookfield-backed Avaada Group's solar PV manufacturing arm, will launch IPO. Chennai-based Grand Housing will launch an entirely offer-for-sale IPO by its promoter.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-clears-ipos-of-avaada-grand-housing-2-others/articleshow/130345630.cms
 
-- Kadimi Group expands global footprint
-  Kadimi Tool Manufacturing Co. recently made its first global acquisition with the US-based Rol-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kadimi-group-expands-global-footprint/articleshow/130337431.cms
+- Adani bags top spot in richest Asians’ club
+  Gautam Adani has officially claimed the title of Asia's wealthiest individual, overtaking Mukesh Ambani with a net worth of $92.6 billion. Adani now proudly ranks 19th on the prestigious Bloomberg Billionaire Index
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-bags-top-spot-in-richest-asians-club/articleshow/130345547.cms
 
-- India Slips To Sixth Spot In World Economy: What Led To Drop In Rankings - NDTV
-  India Slips To Sixth Spot In World Economy: What Led
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGhxWXEwNXRtdlp3eFFrRG44cU0xUS1wenQ4ckdzWUQ5VTlHc3NiakYwX0tCXy1Ccklad0pnM05Kek9zbG9pTEdic0ZvMWJhZHk4bkhZRWkwZTRnbmowT2tlRlZOVjBBNG5RTUtuNm1zTG5oQk5TcXl1ZWRaTUgwdHN5aW5sOTdMMG5kbGNSX1gycFZGeEI1ZkQycDJGY2doY19Ra3phbEFVQmlLSHo4b0RrLW5BdjRodkR0ckQtcmFMc0JVeHA4WFJjRlPSAdQBQVVfeXFMUHF1TlJHQ0l1LU00NkY5MGhKbC1LX0NNTERScjBEYlNSV05wSmFXcWZiZEdVdVhOY003WEFEbDVWdEs3Wk9SOGtnRC1CNTNGcXpweTRzbUh3Ykdzd2Q4V196Q1A5YVFGTy1PdkRUWVVZc3ZQd3p2OU1KeEZpOU9weVluYk9xVFRaOHBNUmplOTZPSlZOOW9fVEt2bUNBU2xiNk43NDBmRkszZjgyX3V6NU12RlRSNmxkWjJLU1VYT1JrLUV0eDV4RVlkVG0wME4yWTZWdHg?oc=5
-
-- Delimitation: Will north India's gain be south India's loss? - BBC
-  BBC asks: Will north India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
-
-- Built on sacrifice, a house for Pahalgam’s lionhearted pony-wallah - The Times of India
-  The Times of India is a newspaper based in Delhi
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnBHX3VCakR2a0pDMzdxVGViZkx4NC1rclVyV1NjWk1FZnFDaW9PVmlkcEFTYWg0dDR6dkdJQlhYaVVENloxS1ZKcnE3RkxkR2Nob1duS1F5YXllRkVGNHYyUUJaU3NEMXdmVUpoY196eV9TbWdsblAweXdmZEZ5RllQSDMwZHEwZThRNUFrZG9VV19GbEdaVm1wdGNYM3YtTUNERFRsdmRQbkVYWUJzYnF2cjhTUU9BUC1sS0NFR0VFMmhSRjFVU3Z5VjXSAdIBQVVfeXFMTkMzLWExVGZrZ050RHlmaWp4V1d3dkNRanBWMnpzSEJqUU5sZzdsWHE5bWh1cnhQMEQway05T3FUZWlHOXBWTGdmRGNwZ0FpWnF1MjNvZEozMFpBb1h1Z2Y5UGxGeHBRbWdrYm1Nb05IUGNBZFNPT0FzckdNTEhiSzBTMHdaRllyOXpzdUJwTGF1SEh3UXRFYU04eDRIdHk3MWdEWnp3QlJJN1A4clFTOElMQ2RUOWZYaFJNM2FmN3ByN2J6cDFnck1IZVFKeVlyZDhB?oc=5
-
-- Trump congratulates Sandhu on becoming LG - The Times of India
-  Trump congratulates Sandhu on becoming
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjhkX1duNVJjSVZJYmJfRmowWUVHelhLRGxlelVJTnNtSVVsblpyN05UOFh5dTdLTHU3MTFRbDNVT2ZVWlE3OWlwbmFjNzhRb2dLM1RxZkhJUzMxbXVpbkN1T0ZpcFhQY251MHZyVGRYYUVVTnRKUE5DQ0pkMEVINFhwRlBKbU5VaGZZVEgwcDhHeHpZWnFLMk9NVS1BbjYtSi0wSFh0VW5TbGgwNlRfbWhSYULSAboBQVVfeXFMTmhJemxQMEg4ZjBCVVZITTlqSTRHZG5Vd0FRXzl6UERGRXc3RlBCOHRLVlJaMVBRbmsxZGdURkotY3NRcDNHSlFXc1JCSnNQTUdlb2s5ZnJGZ1loNldSZ0xJWUJ1QjZ3LU42alZRNUdjU3Q1Y1hyRm5ORVRZd2pNMzBRWXo2Tk4xT05UXzA5SEQyNVVyUGFNMjBvNjh4Z1VuUk1MOTg0aXlnQjJfOEEzVXVhWTd4Q0tILVdn?oc=5
-
-- Women's Representation In Legislatures: What The Numbers Reveal - NDTV
-  Women's Representation In Legisl
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1JFNUtQc196bjV6UHBPcEp4LTRES0pmX0JnQ09LSzdabFY0VUZleUFZOGR3SlhYRm9KY29sRnpUaGlUeTVOa1FmbUVrc0VBcS1XWU83SmI4UEpSMEc2dnZTSzBuTGVCVUdrQlhSZ1hoNnFla1Z5UjM0Sl9FWktRVThfTmlMVlg3YXhzUHY3Z1JES01kUVpjbGh3ci0tU3FBVTdXOHNzMUpBR0F4WG95QVUxWVhPVjFubGk1MGRJVEZqaktYVGtkbEdYYW9XLWMwOFZTalROeWpPczFj0gHkAUFVX3lxTE1MLU9wbWkzSFlYN2RVZU1xa3ZwbldmdnBkODlFRlVrSzI5eFZDM2lKSHhrNHZVSGxzT01vRnE1VzhZWGh4V2s0VHdqSzBSNld2QjJsaUxQN0F5VTVmRUEtTWcyNWZxejB4YVNWZjdLUk02eHZHZU9rZVF4VzhjZ0Q5TkQyUkdKSmdLbFUyN25kZFBBMXQ4LVhiZl83eXh5aHFqOEg2dks2ZF9SYlFTNXFvNmdGN19QNVNGN0lhcTRvSVdFbXFzV1pETzg0Rk9MaUNyeVBMSzBoUWZQd2I4aXh2Qm8tUQ?oc=5
-
-- India Slips To Sixth Spot In World Economy: What Led To Drop In Rankings - NDTV
-  India Slips To Sixth Spot In World Economy: What Led
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGhxWXEwNXRtdlp3eFFrRG44cU0xUS1wenQ4ckdzWUQ5VTlHc3NiakYwX0tCXy1Ccklad0pnM05Kek9zbG9pTEdic0ZvMWJhZHk4bkhZRWkwZTRnbmowT2tlRlZOVjBBNG5RTUtuNm1zTG5oQk5TcXl1ZWRaTUgwdHN5aW5sOTdMMG5kbGNSX1gycFZGeEI1ZkQycDJGY2doY19Ra3phbEFVQmlLSHo4b0RrLW5BdjRodkR0ckQtcmFMc0JVeHA4WFJjRlPSAdQBQVVfeXFMUHF1TlJHQ0l1LU00NkY5MGhKbC1LX0NNTERScjBEYlNSV05wSmFXcWZiZEdVdVhOY003WEFEbDVWdEs3Wk9SOGtnRC1CNTNGcXpweTRzbUh3Ykdzd2Q4V196Q1A5YVFGTy1PdkRUWVVZc3ZQd3p2OU1KeEZpOU9weVluYk9xVFRaOHBNUmplOTZPSlZOOW9fVEt2bUNBU2xiNk43NDBmRkszZjgyX3V6NU12RlRSNmxkWjJLU1VYT1JrLUV0eDV4RVlkVG0wME4yWTZWdHg?oc=5
-
-- Delimitation: Will north India's gain be south India's loss? - BBC
-  BBC asks: Will north India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
-
-- Built on sacrifice, a house for Pahalgam’s lionhearted pony-wallah - The Times of India
-  The Times of India is a newspaper based in Delhi
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnBHX3VCakR2a0pDMzdxVGViZkx4NC1rclVyV1NjWk1FZnFDaW9PVmlkcEFTYWg0dDR6dkdJQlhYaVVENloxS1ZKcnE3RkxkR2Nob1duS1F5YXllRkVGNHYyUUJaU3NEMXdmVUpoY196eV9TbWdsblAweXdmZEZ5RllQSDMwZHEwZThRNUFrZG9VV19GbEdaVm1wdGNYM3YtTUNERFRsdmRQbkVYWUJzYnF2cjhTUU9BUC1sS0NFR0VFMmhSRjFVU3Z5VjXSAdIBQVVfeXFMTkMzLWExVGZrZ050RHlmaWp4V1d3dkNRanBWMnpzSEJqUU5sZzdsWHE5bWh1cnhQMEQway05T3FUZWlHOXBWTGdmRGNwZ0FpWnF1MjNvZEozMFpBb1h1Z2Y5UGxGeHBRbWdrYm1Nb05IUGNBZFNPT0FzckdNTEhiSzBTMHdaRllyOXpzdUJwTGF1SEh3UXRFYU04eDRIdHk3MWdEWnp3QlJJN1A4clFTOElMQ2RUOWZYaFJNM2FmN3ByN2J6cDFnck1IZVFKeVlyZDhB?oc=5
-
-- Trump congratulates Sandhu on becoming LG - The Times of India
-  Trump congratulates Sandhu on becoming
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjhkX1duNVJjSVZJYmJfRmowWUVHelhLRGxlelVJTnNtSVVsblpyN05UOFh5dTdLTHU3MTFRbDNVT2ZVWlE3OWlwbmFjNzhRb2dLM1RxZkhJUzMxbXVpbkN1T0ZpcFhQY251MHZyVGRYYUVVTnRKUE5DQ0pkMEVINFhwRlBKbU5VaGZZVEgwcDhHeHpZWnFLMk9NVS1BbjYtSi0wSFh0VW5TbGgwNlRfbWhSYULSAboBQVVfeXFMTmhJemxQMEg4ZjBCVVZITTlqSTRHZG5Vd0FRXzl6UERGRXc3RlBCOHRLVlJaMVBRbmsxZGdURkotY3NRcDNHSlFXc1JCSnNQTUdlb2s5ZnJGZ1loNldSZ0xJWUJ1QjZ3LU42alZRNUdjU3Q1Y1hyRm5ORVRZd2pNMzBRWXo2Tk4xT05UXzA5SEQyNVVyUGFNMjBvNjh4Z1VuUk1MOTg0aXlnQjJfOEEzVXVhWTd4Q0tILVdn?oc=5
-
-- Women's Representation In Legislatures: What The Numbers Reveal - NDTV
-  Women's Representation In Legisl
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1JFNUtQc196bjV6UHBPcEp4LTRES0pmX0JnQ09LSzdabFY0VUZleUFZOGR3SlhYRm9KY29sRnpUaGlUeTVOa1FmbUVrc0VBcS1XWU83SmI4UEpSMEc2dnZTSzBuTGVCVUdrQlhSZ1hoNnFla1Z5UjM0Sl9FWktRVThfTmlMVlg3YXhzUHY3Z1JES01kUVpjbGh3ci0tU3FBVTdXOHNzMUpBR0F4WG95QVUxWVhPVjFubGk1MGRJVEZqaktYVGtkbEdYYW9XLWMwOFZTalROeWpPczFj0gHkAUFVX3lxTE1MLU9wbWkzSFlYN2RVZU1xa3ZwbldmdnBkODlFRlVrSzI5eFZDM2lKSHhrNHZVSGxzT01vRnE1VzhZWGh4V2s0VHdqSzBSNld2QjJsaUxQN0F5VTVmRUEtTWcyNWZxejB4YVNWZjdLUk02eHZHZU9rZVF4VzhjZ0Q5TkQyUkdKSmdLbFUyN25kZFBBMXQ4LVhiZl83eXh5aHFqOEg2dks2ZF9SYlFTNXFvNmdGN19QNVNGN0lhcTRvSVdFbXFzV1pETzg0Rk9MaUNyeVBMSzBoUWZQd2I4aXh2Qm8tUQ?oc=5
-
-- India Slips To Sixth Spot In World Economy: What Led To Drop In Rankings - NDTV
-  India Slips To Sixth Spot In World Economy: What Led
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGhxWXEwNXRtdlp3eFFrRG44cU0xUS1wenQ4ckdzWUQ5VTlHc3NiakYwX0tCXy1Ccklad0pnM05Kek9zbG9pTEdic0ZvMWJhZHk4bkhZRWkwZTRnbmowT2tlRlZOVjBBNG5RTUtuNm1zTG5oQk5TcXl1ZWRaTUgwdHN5aW5sOTdMMG5kbGNSX1gycFZGeEI1ZkQycDJGY2doY19Ra3phbEFVQmlLSHo4b0RrLW5BdjRodkR0ckQtcmFMc0JVeHA4WFJjRlPSAdQBQVVfeXFMUHF1TlJHQ0l1LU00NkY5MGhKbC1LX0NNTERScjBEYlNSV05wSmFXcWZiZEdVdVhOY003WEFEbDVWdEs3Wk9SOGtnRC1CNTNGcXpweTRzbUh3Ykdzd2Q4V196Q1A5YVFGTy1PdkRUWVVZc3ZQd3p2OU1KeEZpOU9weVluYk9xVFRaOHBNUmplOTZPSlZOOW9fVEt2bUNBU2xiNk43NDBmRkszZjgyX3V6NU12RlRSNmxkWjJLU1VYT1JrLUV0eDV4RVlkVG0wME4yWTZWdHg?oc=5
-
-- Delimitation: Will north India's gain be south India's loss? - BBC
-  BBC asks: Will north India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
-
-- Built on sacrifice, a house for Pahalgam’s lionhearted pony-wallah - The Times of India
-  The Times of India is a newspaper based in Delhi
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnBHX3VCakR2a0pDMzdxVGViZkx4NC1rclVyV1NjWk1FZnFDaW9PVmlkcEFTYWg0dDR6dkdJQlhYaVVENloxS1ZKcnE3RkxkR2Nob1duS1F5YXllRkVGNHYyUUJaU3NEMXdmVUpoY196eV9TbWdsblAweXdmZEZ5RllQSDMwZHEwZThRNUFrZG9VV19GbEdaVm1wdGNYM3YtTUNERFRsdmRQbkVYWUJzYnF2cjhTUU9BUC1sS0NFR0VFMmhSRjFVU3Z5VjXSAdIBQVVfeXFMTkMzLWExVGZrZ050RHlmaWp4V1d3dkNRanBWMnpzSEJqUU5sZzdsWHE5bWh1cnhQMEQway05T3FUZWlHOXBWTGdmRGNwZ0FpWnF1MjNvZEozMFpBb1h1Z2Y5UGxGeHBRbWdrYm1Nb05IUGNBZFNPT0FzckdNTEhiSzBTMHdaRllyOXpzdUJwTGF1SEh3UXRFYU04eDRIdHk3MWdEWnp3QlJJN1A4clFTOElMQ2RUOWZYaFJNM2FmN3ByN2J6cDFnck1IZVFKeVlyZDhB?oc=5
-
-- Trump congratulates Sandhu on becoming LG - The Times of India
-  Trump congratulates Sandhu on becoming
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjhkX1duNVJjSVZJYmJfRmowWUVHelhLRGxlelVJTnNtSVVsblpyN05UOFh5dTdLTHU3MTFRbDNVT2ZVWlE3OWlwbmFjNzhRb2dLM1RxZkhJUzMxbXVpbkN1T0ZpcFhQY251MHZyVGRYYUVVTnRKUE5DQ0pkMEVINFhwRlBKbU5VaGZZVEgwcDhHeHpZWnFLMk9NVS1BbjYtSi0wSFh0VW5TbGgwNlRfbWhSYULSAboBQVVfeXFMTmhJemxQMEg4ZjBCVVZITTlqSTRHZG5Vd0FRXzl6UERGRXc3RlBCOHRLVlJaMVBRbmsxZGdURkotY3NRcDNHSlFXc1JCSnNQTUdlb2s5ZnJGZ1loNldSZ0xJWUJ1QjZ3LU42alZRNUdjU3Q1Y1hyRm5ORVRZd2pNMzBRWXo2Tk4xT05UXzA5SEQyNVVyUGFNMjBvNjh4Z1VuUk1MOTg0aXlnQjJfOEEzVXVhWTd4Q0tILVdn?oc=5
-
-- Women's Representation In Legislatures: What The Numbers Reveal - NDTV
-  Women's Representation In Legisl
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1JFNUtQc196bjV6UHBPcEp4LTRES0pmX0JnQ09LSzdabFY0VUZleUFZOGR3SlhYRm9KY29sRnpUaGlUeTVOa1FmbUVrc0VBcS1XWU83SmI4UEpSMEc2dnZTSzBuTGVCVUdrQlhSZ1hoNnFla1Z5UjM0Sl9FWktRVThfTmlMVlg3YXhzUHY3Z1JES01kUVpjbGh3ci0tU3FBVTdXOHNzMUpBR0F4WG95QVUxWVhPVjFubGk1MGRJVEZqaktYVGtkbEdYYW9XLWMwOFZTalROeWpPczFj0gHkAUFVX3lxTE1MLU9wbWkzSFlYN2RVZU1xa3ZwbldmdnBkODlFRlVrSzI5eFZDM2lKSHhrNHZVSGxzT01vRnE1VzhZWGh4V2s0VHdqSzBSNld2QjJsaUxQN0F5VTVmRUEtTWcyNWZxejB4YVNWZjdLUk02eHZHZU9rZVF4VzhjZ0Q5TkQyUkdKSmdLbFUyN25kZFBBMXQ4LVhiZl83eXh5aHFqOEg2dks2ZF9SYlFTNXFvNmdGN19QNVNGN0lhcTRvSVdFbXFzV1pETzg0Rk9MaUNyeVBMSzBoUWZQd2I4aXh2Qm8tUQ?oc=5
-
-- India Slips To Sixth Spot In World Economy: What Led To Drop In Rankings - NDTV
-  India Slips To Sixth Spot In World Economy: What Led
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGhxWXEwNXRtdlp3eFFrRG44cU0xUS1wenQ4ckdzWUQ5VTlHc3NiakYwX0tCXy1Ccklad0pnM05Kek9zbG9pTEdic0ZvMWJhZHk4bkhZRWkwZTRnbmowT2tlRlZOVjBBNG5RTUtuNm1zTG5oQk5TcXl1ZWRaTUgwdHN5aW5sOTdMMG5kbGNSX1gycFZGeEI1ZkQycDJGY2doY19Ra3phbEFVQmlLSHo4b0RrLW5BdjRodkR0ckQtcmFMc0JVeHA4WFJjRlPSAdQBQVVfeXFMUHF1TlJHQ0l1LU00NkY5MGhKbC1LX0NNTERScjBEYlNSV05wSmFXcWZiZEdVdVhOY003WEFEbDVWdEs3Wk9SOGtnRC1CNTNGcXpweTRzbUh3Ykdzd2Q4V196Q1A5YVFGTy1PdkRUWVVZc3ZQd3p2OU1KeEZpOU9weVluYk9xVFRaOHBNUmplOTZPSlZOOW9fVEt2bUNBU2xiNk43NDBmRkszZjgyX3V6NU12RlRSNmxkWjJLU1VYT1JrLUV0eDV4RVlkVG0wME4yWTZWdHg?oc=5
-
-- Delimitation: Will north India's gain be south India's loss? - BBC
-  BBC asks: Will north India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZDlFRDJzNVZvaWFFS2dKR2FoaThYT0w3SlNrcjA3NXN4M2U1YTRJTTNnTXhUZ0JCN1otYjlBemcyb2pVYlV2YnNfcURROThPMGRTRzkycEcxdw?oc=5
-
-- Built on sacrifice, a house for Pahalgam’s lionhearted pony-wallah - The Times of India
-  The Times of India is a newspaper based in Delhi
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnBHX3VCakR2a0pDMzdxVGViZkx4NC1rclVyV1NjWk1FZnFDaW9PVmlkcEFTYWg0dDR6dkdJQlhYaVVENloxS1ZKcnE3RkxkR2Nob1duS1F5YXllRkVGNHYyUUJaU3NEMXdmVUpoY196eV9TbWdsblAweXdmZEZ5RllQSDMwZHEwZThRNUFrZG9VV19GbEdaVm1wdGNYM3YtTUNERFRsdmRQbkVYWUJzYnF2cjhTUU9BUC1sS0NFR0VFMmhSRjFVU3Z5VjXSAdIBQVVfeXFMTkMzLWExVGZrZ050RHlmaWp4V1d3dkNRanBWMnpzSEJqUU5sZzdsWHE5bWh1cnhQMEQway05T3FUZWlHOXBWTGdmRGNwZ0FpWnF1MjNvZEozMFpBb1h1Z2Y5UGxGeHBRbWdrYm1Nb05IUGNBZFNPT0FzckdNTEhiSzBTMHdaRllyOXpzdUJwTGF1SEh3UXRFYU04eDRIdHk3MWdEWnp3QlJJN1A4clFTOElMQ2RUOWZYaFJNM2FmN3ByN2J6cDFnck1IZVFKeVlyZDhB?oc=5
-
-- Trump congratulates Sandhu on becoming LG - The Times of India
-  Trump congratulates Sandhu on becoming
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjhkX1duNVJjSVZJYmJfRmowWUVHelhLRGxlelVJTnNtSVVsblpyN05UOFh5dTdLTHU3MTFRbDNVT2ZVWlE3OWlwbmFjNzhRb2dLM1RxZkhJUzMxbXVpbkN1T0ZpcFhQY251MHZyVGRYYUVVTnRKUE5DQ0pkMEVINFhwRlBKbU5VaGZZVEgwcDhHeHpZWnFLMk9NVS1BbjYtSi0wSFh0VW5TbGgwNlRfbWhSYULSAboBQVVfeXFMTmhJemxQMEg4ZjBCVVZITTlqSTRHZG5Vd0FRXzl6UERGRXc3RlBCOHRLVlJaMVBRbmsxZGdURkotY3NRcDNHSlFXc1JCSnNQTUdlb2s5ZnJGZ1loNldSZ0xJWUJ1QjZ3LU42alZRNUdjU3Q1Y1hyRm5ORVRZd2pNMzBRWXo2Tk4xT05UXzA5SEQyNVVyUGFNMjBvNjh4Z1VuUk1MOTg0aXlnQjJfOEEzVXVhWTd4Q0tILVdn?oc=5
-
-- Women's Representation In Legislatures: What The Numbers Reveal - NDTV
-  Women's Representation In Legisl
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1JFNUtQc196bjV6UHBPcEp4LTRES0pmX0JnQ09LSzdabFY0VUZleUFZOGR3SlhYRm9KY29sRnpUaGlUeTVOa1FmbUVrc0VBcS1XWU83SmI4UEpSMEc2dnZTSzBuTGVCVUdrQlhSZ1hoNnFla1Z5UjM0Sl9FWktRVThfTmlMVlg3YXhzUHY3Z1JES01kUVpjbGh3ci0tU3FBVTdXOHNzMUpBR0F4WG95QVUxWVhPVjFubGk1MGRJVEZqaktYVGtkbEdYYW9XLWMwOFZTalROeWpPczFj0gHkAUFVX3lxTE1MLU9wbWkzSFlYN2RVZU1xa3ZwbldmdnBkODlFRlVrSzI5eFZDM2lKSHhrNHZVSGxzT01vRnE1VzhZWGh4V2s0VHdqSzBSNld2QjJsaUxQN0F5VTVmRUEtTWcyNWZxejB4YVNWZjdLUk02eHZHZU9rZVF4VzhjZ0Q5TkQyUkdKSmdLbFUyN25kZFBBMXQ4LVhiZl83eXh5aHFqOEg2dks2ZF9SYlFTNXFvNmdGN19QNVNGN0lhcTRvSVdFbXFzV1pETzg0Rk9MaUNyeVBMSzBoUWZQd2I4aXh2Qm8tUQ?oc=5
+- RBI’s oil forex window set to fuel rupee recovery
+  The Reserve Bank of India has opened a special foreign exchange window to supply dollars to state-run refiners, easing pressure on the rupee. Analysts expect this intervention to lead to rupee appreciation.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-oil-fx-window-set-to-fuel-rupee-recovery-state-refiners-crude/articleshow/130345574.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-17 18:57:41 UTC_
+_Last updated: 2026-04-18 01:57:40 UTC_
