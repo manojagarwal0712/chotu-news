@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points
+- To ‘weed out non-believers’, Gangotri temple will make panchgavya consumption a must
   
-  🔗 https://indianexpress.com/article/india/m-modis-pointed-attack-on-opposition-after-womens-bill-defeat-6-points-10644061/
+  🔗 https://indianexpress.com/article/india/to-weed-out-non-believers-gangotri-temple-will-make-panchgavya-consumption-a-must-10644139/
 
-- ‘Investigate first’: Naveen Jindal defends Anil Agarwal as Vedanta blast toll hits 23
+- Budget Session: Lok Sabha clocks 93% productivity, Rajya Sabha 110%
   
-  🔗 https://indianexpress.com/article/india/naveen-jindal-anil-agarwal-vedanta-blast-toll-increases-10644039/
+  🔗 https://indianexpress.com/article/india/budget-session-lok-sabha-clocks-93-productivity-rajya-sabha-110-10644168/
 
-- Govt nod for Rs 12,980-crore maritime insurance pool amid global shipping upheaval
+- Ex-journalist, BJP veteran Balbir Punj  dies at 76
   
-  🔗 https://indianexpress.com/article/india/bharat-maritime-insurance-pool-bmi-sovereign-guarantee-west-asia-conflict-10644018/
+  🔗 https://indianexpress.com/article/india/ex-journalist-bjp-veteran-balbir-punj-dies-at-76-10644152/
 
-- Day after Manipur CM’s visit, ex armyman among 2 killed in Ukhrul attack
+- Strait of Hormuz closure economic terrorism… is impacting India too: UAE minister
   
-  🔗 https://indianexpress.com/article/india/manipur-ukhrul-attack-militants-ambush-civilians-cm-khemchand-visit-violence-10643989/
+  🔗 https://indianexpress.com/article/india/strait-of-hormuz-closure-economic-terrorism-is-impacting-india-too-uae-minister-10644142/
 
-- PM Modi apologises for women’s quota bill defeat, accuses Opposition of ‘female foeticide’
+- After defeat, PM Modi cites ‘foeticide’; Opposition says ‘pathetic, partisan’
   
-  🔗 https://indianexpress.com/article/india/pm-modi-speech-womens-quota-bill-delimitation-highlights-full-text-10643903/
+  🔗 https://indianexpress.com/article/india/after-defeat-pm-modi-cites-foeticide-opposition-says-pathetic-partisan-10644140/
 
 - Can the Giant Magellan Telescope spot habitable worlds? Funding holds the key
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/science/why-you-feel-unstoppable-one-day-and-stuck-the-next-10643150/
 
+- Srinivas Narayanan, Kevin Weil, Bill Peebles: OpenAI lost 3 executives in one day as science division shuts down
+  OpenAI lost Kevin Weil, Srinivas Narayanan and Bill Peebles in a single day
+  🔗 https://www.livemint.com/companies/news/srinivas-narayanan-kevin-weil-bill-peebles-openai-lost-3-executives-in-one-day-as-science-division-shuts-down-11776557240056.html
+
 - After bindi, tilak row, Lenskart releases dress code allowing religious symbols: 'Part of who we are'
   Lenskart has released a revised in-store style guide affirming that religious and cultural symbols are permitted. Earlier guidelines led to penalties during audits
   🔗 https://www.livemint.com/companies/news/after-bindi-tilak-row-lenskart-releases-dress-code-allowing-religious-symbols-part-of-who-we-are-11776526015991.html
@@ -56,9 +60,17 @@
   ICICI Bank reported a net profit of  ₹13,702 crore for the three months
   🔗 https://www.livemint.com/companies/company-results/icici-bank-q4-results-west-asia-war-corporate-borrowers-banking-industry-india-11776516112739.html
 
-- Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20
-  Facebook and Instagram owner will lay off about 10 per cent of its global workforce. Further layoffs are expected in later half of the year.
-  🔗 https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html
+- Gold, silver prices today, April 19: Check 24K, 22K gold, 999 silver rate on Akshay Tritiya in Delhi, Mumbai, Bengaluru
+  Akshaya Tritiya is considered auspicious for gold purchases. Gold prices in India remained stable
+  🔗 https://www.livemint.com/market/gold-silver-prices-today-april-19-check-24k-22k-gold-999-silver-rate-on-akshay-tritiya-in-delhi-mumbai-bengaluru-11776558186620.html
+
+- Akshaya Tritiya 2026: After 63% rally, can gold prices reach  ₹2,00,000 next year
+  As Akshaya Tritiya approaches on April 19, 2026, investors are focusing on gold for wealth creation. Gold prices has gained over 60% in the past year
+  🔗 https://www.livemint.com/market/commodities/akshaya-tritiya-2026-after-63-rally-can-gold-prices-reach-rs-2-00-000-next-year-11776533467772.html
+
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Reliance, Power Grid Corp shares on April 20
+  Nifty 50 increased by 0.65% to 24,353.55, while Sensex reached 78,493.54. Investor wealth grew by  ₹4.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-reliance-power-grid-corp-shares-on-april-20-11776531122420.html
 
 - Gold ETFs deliver up to 60% returns since last Akshaya Tritiya. Should investors hold or book profits?
   Since last Akshaya Tritiya, MCX gold prices have rallied approximately 63%. On average, gold ETFs have generated returns in the range of 59–60% during the same
@@ -68,17 +80,9 @@
   PC Jeweller Ltd. has reduced its outstanding bank debt by approximately 10% as part of its ongoing debt reduction plan.
   🔗 https://www.livemint.com/market/stock-market-news/penny-stock-pc-jeweller-to-be-in-focus-on-monday-heres-why-11776509398627.html
 
-- Jio Financial Services Q4 results 2026 out. Will Reliance group stocks rally on Monday? Explained
-  Jio Financial Services (JFSL) reporting a consolidated net profit of  ₹272
-  🔗 https://www.livemint.com/market/stock-market-news/jio-financial-services-q4-results-2026-out-will-reliance-group-stocks-rally-on-monday-explained-11776507125551.html
-
-- ICICI Bank Q4 results: Profit rises 8.5% YoY; NII up 8.4% YoY to  ₹22,979 crore
-  ICICI Bank's standalone profit for Q4FY26 rose by 8.5% year-on-year (YoY) to
-  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-q4-results-2026-profit-rises-8-5-yoy-nii-nim-provision-loan-growth-dividend-key-takeaways-11776494482515.html
-
-- Anil Ambani-owned Reliance Power share price jumps 40% this month. Do you own?
-  Anil Ambani-owned Reliance Power shares have risen from
-  🔗 https://www.livemint.com/market/stock-market-news/anil-ambani-owned-reliance-power-share-price-jumps-40-this-month-do-you-own-11776501552440.html
+- US man, 36, dies by suicide after AI chat suggested ‘joining’ it in digital world: ‘I am scared to die'
+  A Florida man’s death by suicide has triggered global debate on the psychological risks posed by increasingly human-like AI chatbots. Chat records cited in a lawsuit suggest the bot may have reinforced
+  🔗 https://www.livemint.com/technology/tech-news/us-man-36-dies-by-suicide-after-ai-chat-suggested-joining-it-in-digital-world-i-am-scared-to-die-11776539461260.html
 
 - In the AI propaganda war, Iran is winning
   A joyless theocracy
@@ -96,9 +100,25 @@
   Tesla is preparing to introduce a new, larger version of its global best-selling electric SUV in India as early as next week
   🔗 https://www.livemint.com/technology/tesla-is-preparing-to-launch-six-seater-model-y-variant-in-india-11776427906214.html
 
-- Microsoft to replicate Azure's cloud business strategy of flexibility to win long-term AI deals with clients
-  Microsoft's Azure strategy focuses on flexible models and long-term client partnerships. That's the
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-azure-strategy-flexibility-clients-ai-deals-cloud-business-11776412280955.html
+- Hormuz tensions keep commodity markets on edge; all eyes on Fed’s Kevin Warsh testimony - Moneycontrol.com
+  Hormuz tensions keep commodity markets on edge. All eyes
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGdXVjF2VU84UmpUMTdCa3FnTThFQjI4VVhVNXRBNnUtbG8tRXR2UWhod3pSUm5lNm9OcTFnUk5KVTA0ZzdSMUJjZTZ3YUVwVzBCQ1lfNGt4MExxNTRTaU51WXp4OHdVU01JUzl2X0lNNWV0Sk91UGI2RTFoSTJVWFU4b3NiVE5VR3d3SzR6ODRudERqc3N1ejdrT0hVMlljdUVFWXlZVVBwTXNlOW0xZi11Q0V0eUVPb2xqT2NINmh3VjgzUjJNVnB2OWdFMVNFVUxlaGkyMFdmUdIB3wFBVV95cUxQSHdPRnNQWkZlYVFxX0JzZl9NS2h1UXFKWnM4X0xtMncxUEM1XzFBWUZMd0Z6UElMZ0lSc053MTVscHoxVldRMFJodHZjNmVRdDZpdjdFOGJXQl9LU3ZXU2FtenFoM01mckJDYmhHeVNjM19QaWNRNzlPa0syMVZQRmZmdktla1IwQ2JsemZTUXI2ZGRNbnRZM2x3dUhUbGVHc1JsYWVXQjVmaVdUY1REX1BhcFNkNi1TZmdUZFN0bDZCWlhxNFVVWnRvVHNNa0lOVW5UUjZGSkp2WnYxN0Jn?oc=5
+
+- Daily Voice: Markets eye record highs as US-Iran tensions cool; this fund manager flags top FY27 bets - Moneycontrol.com
+  The markets are on a high as tensions between the U.S. and
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWM2YzRDLWJLaHVrazdmZ0pwSzdQX3ZWWXd3c3QteVpGUVJKam9PZV9jN0lZWWdYZFpaMXZXTHBZS0RsNXpfRy1MZDZrMUVKazJQVjJyYUpxWk5leEgwZ1JFcEhnQTVXU2oyYWhoaURFbi1UQW0yOVJGSHlSa2E0a3U5MVlvd2RaUkthdkxZYm5ZaF9hU0s2T3FOWHZMMTFCOFNLYVE1MjREcVh2NDFRQU9xWk00N0Y2N0hvVFNiNzFueUV0aHEtdWVjZ2YwRWN3aDBlWDRacmVibS02UWFoNTdURDR1NHdjMHFKM05ZUXNRRWVaWmZv0gH8AUFVX3lxTE5RQVhKUXhmQVptZlo1ZTVVZmVHRk9BRmN3cEY0dzF5QngwVThXdGJDNU4wM2htM1N2aWNzQ0pmeEdTZDBPTjNjZDU4cjR5dTA2U2l6LTVhdl94bmRvbHc5RUhHMFhQbl80Y05lbEVBWUpTQzFyUHBLQ19EejRfOXV1bk9faXBvRmNETWtDSWd6eE40YktkWlA1MEkwdV9qUG5XWVNjMjd5a3RXLS1PODFrMl9rbFl1VFRFaWphM0xlOEJjdm1xRk0wS1h6ck9tTUVxdWJJcUo4WlZTR0NTZG5LVHZGMmtmWTJMYUVtSW9RMXlLVlV5bWRXNEpjdw?oc=5
+
+- Dalal Street Week Ahead: Sector rotation signals a need for disciplined approach - The Economic Times
+  Dalal Street Week Ahead: Sector rotation signals a need
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanZKR1Z5UnlYRkY2S3B0czUxV0dVbG5qOTRqYU13ek5jVzF5NHVBTUdlS1MzN0FlTFFIY25NVXpXb081bFFPd1lrcl90cFE4ZXI1YjQ4VmxNdFpPTHpZNmFuZFY2aHUxUjluRkk0TnBTdVJuODd5WlItNXRQalM2Y3ZSUHA2bHUwU0R1WFJpSVpIeGlOcnRmaW9kVzdYT0pMMlBGQkNsZi13cWZyLXBvT1p4NEMzaExlN093VDVoUW8tV29Vbkd4LXJlX3VwMVhUYS1fN1QxTFRoYmtPckpPN3h1Qmp1YkFX0gHuAUFVX3lxTFAtdV9DZkZzTzlUTEVHY3dyVlpZcHl5c0xDMVFfeUFrRVBwU29rcWdvYW5ka2Y2RDg2WU80RlhvX0dPRnhSRHVha01Jb0RnWkVBWVZha3ExSVBhWG5fbUNmeXlQZkVoel9ndHBGSkp5M2VwSUxoNmd3NTBTOVJoUHg5dzBjTFNIM3hwV1l6VXVVbmVER1duaEJRdjY3SjdBc1NGTlRheVY4dzV0dHVDbTlzcWpPVVp4TU9DWWYtejh3YzM4eDZuMWFHaFZCcmRSd2JZb0w3MTY2ZkhWWjdtMXg1eEVHSExGZHotZTBkcmc?oc=5
+
+- How will AI matter for labor markets? By Investing.com - Investing.com India
+  How will AI matter for labor markets?
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPSy1vNGJPNUtRNDZIelpfelE4OTdWdktWeDdwemMwODN4TjVFRTlBbXd4cG1neXR5ZFFWN1JzU1N3ZjJua3N0X21EVUo0Z2ZyRmd1YUx2X1BtckN4SEJ0VnhLeFhLRzJfU20zXzB1Z1BBdmw4WnE4X3V6UnBtVkF3ZzM4Z2I0SXVJaVJqTTUyMHg?oc=5
+
+- Asia markets mostly fall as fragile Middle East ceasefire tempers sentiment - CNBC
+  Asia markets mostly fall as fragile Middle East ceasefire
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5HMU1Qd2pZM0s4S1U5VUZWNENKSHFEWEw5Z0ZhVFJYWFpEbThLQWxwRHdlRHVLa1pWTGRNdjN1bFh4RG9OUDJGenNyR3VnOHBEeTJLWk9XRmRKWUoxT2JyMm1oM2FZLW1iME0yM0h0eWotMjQ1M0NZSEdEaFlNWmRPc1lkcjNqNlBBa3pFTzY4ZEI4d2ZkcVV5dHVwMHFXSUHSAacBQVVfeXFMT0RSejhrc0xNR0I1N29Ta245QV9MZGMtZkJ6bkMwblg1Z2tRNGlKcHVUbHlUM191QmNISEhLTGlvLWplWmVtbldYTmJkUzhDalo2MkREQk1haDluSzc3UlRFWVU4cUlJa1liclJqeW9oQzBjS0s2b3A0cW1zb0oxMTZnb0ZDVlM5dXA4aVVHUXJaQmw2S2N5M2VLakdlQlJ1QUpfMzhxM3M?oc=5
 
 - Fall in provisions help ICICI Bank's net profit in Q4 FY26
   ICICI Bank's net profit rose 9% to Rs 13,702 crore in March 2026. Total advances increased 16%, with strong contributions from business banking and rural portfolios.
@@ -120,85 +140,113 @@
   Indian markets showed resilience, recovering from early dips to end the week higher. Despite a rebound, a strong resistance zone looms, suggesting the current uptrend might be a pullback within a broader consolidation. Investors are advised to adopt
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-sector-rotation-signals-a-need-for-disciplined-approach/articleshow/130351039.cms
 
-- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
-  'Resume process of facilitating India-bound ships at earliest': MEA to
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
+- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
 
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
+- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
+  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
 
-- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
-  PM Modi’s pointed attack on Opposition after Women�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
+- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
+  PM Modi slams opposition, apologises to women for bill
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
 
-- LG traffic - The Times of India
-  The Times of
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
+- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
+  'Might Not Have 66% Votes, But We Have
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
 
-- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
-  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
+- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
+  'How does one survive?': Factory protests expose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
 
-- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
-  'Resume process of facilitating India-bound ships at earliest': MEA to
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
+- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
 
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
+- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
+  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
 
-- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
-  PM Modi’s pointed attack on Opposition after Women�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
+- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
+  PM Modi slams opposition, apologises to women for bill
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
 
-- LG traffic - The Times of India
-  The Times of
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
+- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
+  'Might Not Have 66% Votes, But We Have
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
 
-- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
-  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
+- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
+  'How does one survive?': Factory protests expose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
 
-- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
-  'Resume process of facilitating India-bound ships at earliest': MEA to
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
+- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
 
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
+- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
+  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
 
-- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
-  PM Modi’s pointed attack on Opposition after Women�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
+- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
+  PM Modi slams opposition, apologises to women for bill
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
 
-- LG traffic - The Times of India
-  The Times of
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
+- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
+  'Might Not Have 66% Votes, But We Have
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
 
-- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
-  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
+- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
+  'How does one survive?': Factory protests expose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
 
-- 'Resume process of facilitating India-bound ships at earliest': MEA to Iran envoy after Hormuz firing - The Times of India
-  'Resume process of facilitating India-bound ships at earliest': MEA to
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdIU1BteEJ6R3dCdGRjYjVGZThwT3FCNzZJMzZWcHFfWFBkdGgtMlZMdW5VT1VIZXNIbGYzb3o4SnRILXM4T012VW1oMzJ4b0l1endVY3Brck82RTd2QzVpYW4zc0FkOExQcEdPQV9uZFZkREo0Y3BJSFZQSlY3MHpvek5CYjQ2YVFYYzV4SUt6MHYyQUgxTjhTNlhWWGpZU0M0SjF2ZjJadzBVci1ONXpiY0JYSGVHeVhBd0YtN1dtNEVOcmQxUXRPX3dZdlhG0gHWAUFVX3lxTE5qdXhBMEZkYXFidHVYWVZ0UWlvaHN3TXpwcjJJLWFhSWIwRVdZeWQtQzF4ckFMSXFpejVGM1NRNlJIU0JYV1JmYjZPVVhTZ01FM1NhUC03Tng4Z3lKb3dhVWNRbzRxbW5xZ1RQLWpVRlhlRG1oSGtDY2hBV0FKUllrRGdqRHhMdmZyb0FRNThWNVVrMW9zQWFOaE94NG9uYzE1ajBkYktOMmhDWjhIbG16WGk2b000cmNlNm12bUlDUTZidm5VckhrbWstUFBhWGxlLTg5OVE?oc=5
+- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
 
-- US U-Turn On Russian Oil Waivers Amid Iran War And How It Helps India - NDTV
-  US U-Turn On Russian Oil Waivers Amid Iran War
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3JKZHA0ZTY4WDR6T1k0c2lWNF9UZXh0b3JaRzhaQXhjaDJfYW93b0REMW9OdVZZSDFJVUlGd0dZZTRWclhRUm5mLVZTWUoxajVhNGV3M0owbC1aU3ZIYU4tMThIczVDc0k3QzF4ejViRU5SQk5QMGhqQV9INzlGSGVDZjR4SWcwWV9RT1RDVkx2eFZSVjlhUHBZdmQ3ZE1Sallwc0h5VUtULWlkdlRYU3VfOTRBaUJkanNtc0tmZTFhb3Ffd0M5MzczNNIB0wFBVV95cUxQaW1vN0ZoT1RvWm1RMzk2SHlmYkF6cS1yQ3p6TEFjVldKQ21uYVBMZ09kcGJ6cmJHbFYxR1pDMzVXMkg4NDhYMVBtUVdreV93M2hpTlNqcFVETlE4eVFNbnBKNVczVXg2dGpUWUg3aGlFSWgzME1pekJheld2ZU9MODMxWG5xRnlBZlhrMlRJd0tWVjlEbE5lc2tSMGlONXpRYWdGbHpjZWRwUWVnVmNteTNnOTFKaWZPN2ktTXd5S0R0VGIxM3oySlB0MnV2YXAtMVNR?oc=5
+- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
+  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
 
-- PM Modi’s pointed attack on Opposition after Women’s Bill defeat: 6 points - The Indian Express
-  PM Modi’s pointed attack on Opposition after Women�
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0cyOFE2ci1zRENGdjJRNWlLa3h4M0xtWnAyamNybFlpQWFjVXYyVXNGcG5wck5FcXhHbXNFT096NWZLVV9aMlBTOWNNQUdhclNrWGYzQkVhcERGd2hrbzBhTy1SdHNzLXFKcUVweDl2YzhrQkFTNWN6bWhPS3ozejMtNEhpMDIyMWYyOF83M1lYOU1NcUkxeVM1dkhONzNPQmRDeGRJU2dYZXAzZzdya3dqT2xiMk5VSWFVaNIBwwFBVV95cUxOZHpGbW5Bdy1fUkpzU01zdUhnWGtTUGlRakhlTzBRMzRfSlQ3TGRRTEhiZThJQmpMRXhQdzEzOGZEOS0wTDBWRE05QmtWX3NCQlVob21JYnd6U0p6NmxkMnpZNURyQUxjb3doM0FfT1VGVmxNbjJwZzJkdFZHWlJLSzFsQTlSV3BIQnN6a3poLTh2VEo0emFBdnlWOWFYXzkwamVaYklpNUI2dWJ1Z2VvUXZVdmFvbzBpLXJoeTljc0RJZHM?oc=5
+- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
+  PM Modi slams opposition, apologises to women for bill
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
 
-- LG traffic - The Times of India
-  The Times of
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0hGZ0RmMHY4eXFhUlJhOXNjMmRkbTlleXBGZlRLaFFTMDIxR0lTQ0tpa1UzX2FMQ0NxVlhsZWxzd0ZQUUt0cjV6QjJ3Yy1oX2pIMk94cDhPcWx3QzUzVElEOWJGVlFHUDBubUhZd3NxT3VGam9TTFZpbnhtbmFNNWQxQVotQ1YxaGV30gGQAUFVX3lxTFAtbEs1SlNFdXR5REdMSGo4ME94dGRueHNSQWtMWFVIM253YzhOdllDR3NhMXdZWW1uR3pkaDhxeGFkdXZaNm9LeHY0REZvU25hSWhqRDlhUTl4RUNaVDBTODVwT3JSMVA1R1hMbDVoVUpYSnc3US1SWGZJYm9pdkpQTWVJc2kxbUVlOVNFZUVZMA?oc=5
+- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
+  'Might Not Have 66% Votes, But We Have
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
 
-- Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four others turn back as IRGC opens fire - The Hindu
-  Iran-Israel war LIVE: One Indian vessel crosses Hormuz, four
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJiTXlMT2JNUmtWSEgxMy1JWXZNSUFtZmFOeFhGR3pkQlBVOWNYbVdyeTB6Nl9maGwybnUtMEppSHl4X0YyejVzcEhWQnlkaFVrUkI4cG4zZWhHSDdXSlIzWnhOdEZwazBoMV9QdUMyMERyOTZocXNRdk1sOFJ3LVpGMUtWZVFLYzJ0SXREeTB5bGdfMzVSTnNXSll1ZjQyYmZEUlhkTGpCV2tvU2JfT2Q4TFducmZhOEg1SHo4RmU5NmJLemdzeHVGX0bSAdMBQVVfeXFMT21RWjMyaWRmTkQyOFNCMXlTQ0ptTlZCSWIzeElmcU1wMXBMdFRHWnZEbWI1YXBJdTBFSW5QS1JGYnF4UHdTb2w4ekFGNlh5eU04V2NPV0FieU1CNHR5dGg4clY0NGtkTnFpdmwtVVMtaVhNdkJTbmFVM3VWMGY0S1dLc3JaNW54cHNiSE5McHRUcmNDMDFUWDFFWW1kNHRHeVVxRm5aVkYzaXhOUWNkSGQyQlFSa2FFNGZoLWhSOTg2M1BEZkMwTzhxTmJkQk1mMGs3Zw?oc=5
+- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
+  'How does one survive?': Factory protests expose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-18 18:43:34 UTC_
+_Last updated: 2026-04-19 02:10:53 UTC_
