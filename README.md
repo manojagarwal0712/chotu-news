@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- To ‘weed out non-believers’, Gangotri temple will make panchgavya consumption a must
+- Assembly Elections 2026 Live Updates: CPI MP P Sandosh Kumar writes to CEC alleging MCC violation by PM in his address
   
-  🔗 https://indianexpress.com/article/india/to-weed-out-non-believers-gangotri-temple-will-make-panchgavya-consumption-a-must-10644139/
+  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-narendra-modi-mcc-10644564/
 
-- Budget Session: Lok Sabha clocks 93% productivity, Rajya Sabha 110%
+- 3 days before election, Chandrababu Naidu set for whirlwind campaign across Tamil Nadu
   
-  🔗 https://indianexpress.com/article/india/budget-session-lok-sabha-clocks-93-productivity-rajya-sabha-110-10644168/
+  🔗 https://indianexpress.com/article/india/days-election-chandrababu-naidu-whirlwind-campaign-tamil-nadu-10644654/
 
-- Ex-journalist, BJP veteran Balbir Punj  dies at 76
+- ‘Modiji mentioned Congress 59 times’: Kharge calls PM ‘desperate’ after women quota Bill fails in Lok Sabha
   
-  🔗 https://indianexpress.com/article/india/ex-journalist-bjp-veteran-balbir-punj-dies-at-76-10644152/
+  🔗 https://indianexpress.com/article/india/congress-mallikarjun-kharge-reaction-pm-modi-address-womens-reservation-bill-fail-lok-sabha-10644514/
 
-- Strait of Hormuz closure economic terrorism… is impacting India too: UAE minister
+- ‘Remarkably courageous’: PM Modi speaks to Pawan Kalyan after Andhra deputy CM undergoes surgery
   
-  🔗 https://indianexpress.com/article/india/strait-of-hormuz-closure-economic-terrorism-is-impacting-india-too-uae-minister-10644142/
+  🔗 https://indianexpress.com/article/india/pm-modi-pawan-kalyan-surgery-recovery-andhra-pradesh-deputy-cm-health-update-10644451/
 
-- After defeat, PM Modi cites ‘foeticide’; Opposition says ‘pathetic, partisan’
+- 58 Jamaat-e-Islami-linked private schools taken over by J&K govt
   
-  🔗 https://indianexpress.com/article/india/after-defeat-pm-modi-cites-foeticide-opposition-says-pathetic-partisan-10644140/
+  🔗 https://indianexpress.com/article/india/jk-govt-takes-over-58-jamaat-e-islami-linked-private-schools-most-in-north-kashmir-10644099/
+
+- OpenAI sees executive departures amid enterprise pivot, pullback from ‘side quests’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-exits-enterprise-pivot-sora-10644520/
+
+- 9 Google Chrome extensions to boost your productivity
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chrome-extensions-to-boost-your-productivity-10641817/
+
+- Humanoid robots race past humans in Beijing half-marathon, showing rapid advances
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances-10644398/
+
+- How do you measure an AI boom?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-do-you-measure-an-ai-boom-10644349/
 
 - Can the Giant Magellan Telescope spot habitable worlds? Funding holds the key
   
   🔗 https://indianexpress.com/article/technology/science/can-giant-magellan-telescope-spot-habitable-worlds-funding-holds-the-key-10643882/
 
-- iPhone 18 Pro: What we know so far about Apple’s next flagship
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iphone-18-pro-what-we-know-so-far-about-apples-next-flagship-10643842/
-
-- Google makes Gemini’s notebooks feature free for all
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-makes-geminis-notebooks-feature-free-for-all-10643580/
-
-- I switched from iPhone 16 Pro to iPhone 17e: Why this is the iPhone most people actually need
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/iphone-17e-review-10643437/
-
-- Why you feel unstoppable one day and stuck the next
-  
-  🔗 https://indianexpress.com/article/technology/science/why-you-feel-unstoppable-one-day-and-stuck-the-next-10643150/
+- IPO-bound Acko cuts 5% workforce as AI shift reshapes roles
+  Acko has cut around 60 jobs amid an AI-led shift
+  🔗 https://www.livemint.com/companies/news/acko-insurance-layoff-cmo-quits-ipo-11776174502564.html
 
 - Srinivas Narayanan, Kevin Weil, Bill Peebles: OpenAI lost 3 executives in one day as science division shuts down
   OpenAI lost Kevin Weil, Srinivas Narayanan and Bill Peebles in a single day
@@ -56,169 +60,85 @@
   Yes Bank posted a net profit of  ₹1
   🔗 https://www.livemint.com/companies/company-results/yes-bank-q4-results-smbc-md-tonse-banking-industry-india-11776520973789.html
 
-- No impact of West Asia war on portfolio, says ICICI Bank's Batra
-  ICICI Bank reported a net profit of  ₹13,702 crore for the three months
-  🔗 https://www.livemint.com/companies/company-results/icici-bank-q4-results-west-asia-war-corporate-borrowers-banking-industry-india-11776516112739.html
+- Penny stock under  ₹5 to be in focus on Monday; here's why
+  Penny stock Nandan Denim share price is all set to remain in focus on Monday.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-5-nandan-denim-to-be-in-focus-on-monday-heres-why-11776577698191.html
 
-- Gold, silver prices today, April 19: Check 24K, 22K gold, 999 silver rate on Akshay Tritiya in Delhi, Mumbai, Bengaluru
-  Akshaya Tritiya is considered auspicious for gold purchases. Gold prices in India remained stable
-  🔗 https://www.livemint.com/market/gold-silver-prices-today-april-19-check-24k-22k-gold-999-silver-rate-on-akshay-tritiya-in-delhi-mumbai-bengaluru-11776558186620.html
+- Should you look beyond gold and add silver to your portfolio on Akshaya Tritiya 2026? Explained
+   geopolitical uncertainty and stagflation risks support a positive medium-term outlook for gold. Investors are encouraged to consider silver as an additional investment for better returns, despite its volatility.
+  🔗 https://www.livemint.com/market/commodities/should-you-look-beyond-gold-and-add-silver-to-your-portfolio-on-akshaya-tritiya-2026-explained-11776428595094.html
 
-- Akshaya Tritiya 2026: After 63% rally, can gold prices reach  ₹2,00,000 next year
-  As Akshaya Tritiya approaches on April 19, 2026, investors are focusing on gold for wealth creation. Gold prices has gained over 60% in the past year
-  🔗 https://www.livemint.com/market/commodities/akshaya-tritiya-2026-after-63-rally-can-gold-prices-reach-rs-2-00-000-next-year-11776533467772.html
+- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war?
+  Both Indian indices - Sensex and Nifty 50 - posted strong gains on Friday. Checkout how's the Indian market is likely to perform this week,
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11776573272549.html
 
-- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Reliance, Power Grid Corp shares on April 20
-  Nifty 50 increased by 0.65% to 24,353.55, while Sensex reached 78,493.54. Investor wealth grew by  ₹4.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-reliance-power-grid-corp-shares-on-april-20-11776531122420.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 20 April 2026
+  The Indian stock ended the week on a strong note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-20-april-2026-11776569395179.html
 
-- Gold ETFs deliver up to 60% returns since last Akshaya Tritiya. Should investors hold or book profits?
-  Since last Akshaya Tritiya, MCX gold prices have rallied approximately 63%. On average, gold ETFs have generated returns in the range of 59–60% during the same
-  🔗 https://www.livemint.com/market/stock-market-news/gold-etfs-deliver-up-to-60-returns-since-last-akshaya-tritiya-should-investors-hold-or-book-profits-11776512844382.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 20 April 2026
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-20-april-2026-11776567675997.html
 
-- Penny stock PC Jeweller to be in focus on Monday; here's why
-  PC Jeweller Ltd. has reduced its outstanding bank debt by approximately 10% as part of its ongoing debt reduction plan.
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-pc-jeweller-to-be-in-focus-on-monday-heres-why-11776509398627.html
+- Buying a laptop under  ₹70000 in 2026 makes the decision easier, thanks to Apple
+  Laptops under  ₹70000 now offer strong performance, sleek designs and reliable
+  🔗 https://www.livemint.com/technology/gadgets/buying-a-laptop-under-rs-70000-in-2026-makes-the-decision-easier-thanks-to-apple-11776425529693.html
+
+- AI pioneer Yann LeCun rejects Anthropic’s 50 percent job loss prediction: 'Destructive and dangerous'
+  Anthropic CEO Dario Amodei predicts AI could eliminate 50% of tech jobs. Yann Lecun says
+  🔗 https://www.livemint.com/technology/tech-news/ai-pioneer-yann-lecun-rejects-anthropic-s-50-percent-job-loss-prediction-destructive-and-dangerous-11776568603059.html
+
+- What is Claude  Design? Anthropic's new AI tool that tanked Adobe and Figma stocks
+  Anthropic's new AI tool Claude Design led to selloff in shares of software companies like Adobe and Figma.
+  🔗 https://www.livemint.com/technology/tech-news/what-is-claude-design-anthropics-new-ai-tool-that-tanked-adobe-and-figma-stocks-11776566584083.html
+
+- Zoom and Tinder are using Sam Altman's World system to verify your are human
+  Zoom has partnered with World to verify meeting participants' identities using World ID Deep
+  🔗 https://www.livemint.com/technology/tech-news/zoom-and-tinder-are-using-sam-altmans-world-system-to-verify-your-are-human-11776559605358.html
 
 - US man, 36, dies by suicide after AI chat suggested ‘joining’ it in digital world: ‘I am scared to die'
   A Florida man’s death by suicide has triggered global debate on the psychological risks posed by increasingly human-like AI chatbots. Chat records cited in a lawsuit suggest the bot may have reinforced
   🔗 https://www.livemint.com/technology/tech-news/us-man-36-dies-by-suicide-after-ai-chat-suggested-joining-it-in-digital-world-i-am-scared-to-die-11776539461260.html
 
-- In the AI propaganda war, Iran is winning
-  A joyless theocracy
-  🔗 https://www.livemint.com/technology/in-the-ai-propaganda-war-iran-is-winning-11776481031340.html
+- Oil tumbles 10% and stock markets rally as Iran declares strait of Hormuz ‘completely open’ – as it happened - The Guardian
+  The Guardian reports that Iran has declared the strait of Hormuz ‘completely open
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlRfUVF5amJycFFCbldhSnpyWHB6NDROZ2R1TnNaTE5pN0htYjVKNlk3Y2hjN2E5M1dOYXZzZ0VwY2V5bW04ZTdXdFUzcGlSVlZGZUM5M3FFNnZrVnE0cWtmZ2RETWJYQ2YweGU1UUlxdnctUDdhRXFRLWQxM3NHVk5XVXFWbU9LeFVCOFNoaHotMlZNVFF2dUxNTEFUX2x3MHJPZGtIZXBrejg5WmdpVkVZbE1GeV95bzNsdmhTNDBDNFllcUpWRHl6Z2hwVENCNUM2bElB?oc=5
 
-- White House chief of staff to meet with Anthropic CEO over its new AI technology
-  White House chief of staff to meet with Anthropic
-  🔗 https://www.livemint.com/technology/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology-11776451301214.html
+- Will real estate prices in Gurugram continue to soar? The role of micro-markets, and here’s what experts - The Times of India
+  Will real estate prices in Gurugram continue to soar? The role of micro-markets
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdVNmbjBlbDVjWGRvcTljTkN1aDVqQy04YWRSR0tlZXJfazZvdGptbnRRSjZTSHNZX05RVjVKV0N2bXpwYXpnNktZOUpkOXlOR3Q1Qzc1bUJVSUFLRGZlMmNidmVSS1hIcTNmWDRlY0wxajkzcktxZFpWc2ZDbVJ4bS0xOHhNaV8tcVA1MlVjQWZCS3RpaUt6Y3VKRUUyV2dIMV85ME9rclhzQTcxRDVxYUlzcUtDdXhWbVRPdl8tcVFRM1liTWtOOU83NEUwSlhrcndNSksta2xadWVDZmVudzVsTFJyZnhfTTlqOWoycThvUExjbVNBSmg2NkRYbWZvWmtqTUJHTXdNczViQTBOc2JYWTN6N0d5alhR0gGgAkFVX3lxTE95bXhjTW54aVlUY1UzMVJpclFDQTY3czZVajd6R3ZCX0hrMjVlV2NJdTIzSmpuY0VUQWhQT2pEMDNxaEtIWUdhb0lmTjlIa2thdzJEaFQ4eUhhZGN2ckh4TDMyNFNfUVVNTnp6cDFWeVFhTWJPemVLcnpjb1ZoVHp0RkxvMFpwMnhiRG1ZZ3FiakFjVVllSi1WWEhsWHhyRXpSczZlQmkzN2VjZ2xRMFFtenA2ODNuTUtaSy1xcjZSazQtUFA2N3RrUEtMMUVnUmd4UDRqZjRGS2FGRjk3SkE4VHQxOW5EZTBUNF9uYVpYZm5jTzJydUpNOENmRUtwVHpndkY1eFJzSm1zR1BfQVBpUVI5RnU0UktZQnhGU3NQeA?oc=5
 
-- Backup calling, direct voicemail features in smartphones originated in India: Samsung official
-  Samsung's new phone features originated in
-  🔗 https://www.livemint.com/technology/backup-calling-direct-voicemail-features-in-smartphones-originated-in-india-samsung-official-11776433528319.html
-
-- Tesla is preparing to launch six-seater model Y variant in India
-  Tesla is preparing to introduce a new, larger version of its global best-selling electric SUV in India as early as next week
-  🔗 https://www.livemint.com/technology/tesla-is-preparing-to-launch-six-seater-model-y-variant-in-india-11776427906214.html
-
-- Hormuz tensions keep commodity markets on edge; all eyes on Fed’s Kevin Warsh testimony - Moneycontrol.com
-  Hormuz tensions keep commodity markets on edge. All eyes
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGdXVjF2VU84UmpUMTdCa3FnTThFQjI4VVhVNXRBNnUtbG8tRXR2UWhod3pSUm5lNm9OcTFnUk5KVTA0ZzdSMUJjZTZ3YUVwVzBCQ1lfNGt4MExxNTRTaU51WXp4OHdVU01JUzl2X0lNNWV0Sk91UGI2RTFoSTJVWFU4b3NiVE5VR3d3SzR6ODRudERqc3N1ejdrT0hVMlljdUVFWXlZVVBwTXNlOW0xZi11Q0V0eUVPb2xqT2NINmh3VjgzUjJNVnB2OWdFMVNFVUxlaGkyMFdmUdIB3wFBVV95cUxQSHdPRnNQWkZlYVFxX0JzZl9NS2h1UXFKWnM4X0xtMncxUEM1XzFBWUZMd0Z6UElMZ0lSc053MTVscHoxVldRMFJodHZjNmVRdDZpdjdFOGJXQl9LU3ZXU2FtenFoM01mckJDYmhHeVNjM19QaWNRNzlPa0syMVZQRmZmdktla1IwQ2JsemZTUXI2ZGRNbnRZM2x3dUhUbGVHc1JsYWVXQjVmaVdUY1REX1BhcFNkNi1TZmdUZFN0bDZCWlhxNFVVWnRvVHNNa0lOVW5UUjZGSkp2WnYxN0Jn?oc=5
+- Indian weight-loss market becomes ‘bloodbath’ as drugmakers pile in - Financial Times
+  Indian weight-loss market becomes ‘
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTQwOWFfU05HbUVQUEc0aEc2VDgtN0NIYVVaTFppX1pFZFh3RkZzQUhBdG9lU01wQWRYSFlxRzNIY2xtMGxJaThRYkNOc2FHaVg3dWhVbEFGQWIxeTN0M1R3cS1TWTZxZXBQVDVtaUhLT3EtQ2pOUlg5NmI1UWh4NFdpWjU?oc=5
 
 - Daily Voice: Markets eye record highs as US-Iran tensions cool; this fund manager flags top FY27 bets - Moneycontrol.com
   The markets are on a high as tensions between the U.S. and
   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWM2YzRDLWJLaHVrazdmZ0pwSzdQX3ZWWXd3c3QteVpGUVJKam9PZV9jN0lZWWdYZFpaMXZXTHBZS0RsNXpfRy1MZDZrMUVKazJQVjJyYUpxWk5leEgwZ1JFcEhnQTVXU2oyYWhoaURFbi1UQW0yOVJGSHlSa2E0a3U5MVlvd2RaUkthdkxZYm5ZaF9hU0s2T3FOWHZMMTFCOFNLYVE1MjREcVh2NDFRQU9xWk00N0Y2N0hvVFNiNzFueUV0aHEtdWVjZ2YwRWN3aDBlWDRacmVibS02UWFoNTdURDR1NHdjMHFKM05ZUXNRRWVaWmZv0gH8AUFVX3lxTE5RQVhKUXhmQVptZlo1ZTVVZmVHRk9BRmN3cEY0dzF5QngwVThXdGJDNU4wM2htM1N2aWNzQ0pmeEdTZDBPTjNjZDU4cjR5dTA2U2l6LTVhdl94bmRvbHc5RUhHMFhQbl80Y05lbEVBWUpTQzFyUHBLQ19EejRfOXV1bk9faXBvRmNETWtDSWd6eE40YktkWlA1MEkwdV9qUG5XWVNjMjd5a3RXLS1PODFrMl9rbFl1VFRFaWphM0xlOEJjdm1xRk0wS1h6ck9tTUVxdWJJcUo4WlZTR0NTZG5LVHZGMmtmWTJMYUVtSW9RMXlLVlV5bWRXNEpjdw?oc=5
 
-- Dalal Street Week Ahead: Sector rotation signals a need for disciplined approach - The Economic Times
-  Dalal Street Week Ahead: Sector rotation signals a need
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanZKR1Z5UnlYRkY2S3B0czUxV0dVbG5qOTRqYU13ek5jVzF5NHVBTUdlS1MzN0FlTFFIY25NVXpXb081bFFPd1lrcl90cFE4ZXI1YjQ4VmxNdFpPTHpZNmFuZFY2aHUxUjluRkk0TnBTdVJuODd5WlItNXRQalM2Y3ZSUHA2bHUwU0R1WFJpSVpIeGlOcnRmaW9kVzdYT0pMMlBGQkNsZi13cWZyLXBvT1p4NEMzaExlN093VDVoUW8tV29Vbkd4LXJlX3VwMVhUYS1fN1QxTFRoYmtPckpPN3h1Qmp1YkFX0gHuAUFVX3lxTFAtdV9DZkZzTzlUTEVHY3dyVlpZcHl5c0xDMVFfeUFrRVBwU29rcWdvYW5ka2Y2RDg2WU80RlhvX0dPRnhSRHVha01Jb0RnWkVBWVZha3ExSVBhWG5fbUNmeXlQZkVoel9ndHBGSkp5M2VwSUxoNmd3NTBTOVJoUHg5dzBjTFNIM3hwV1l6VXVVbmVER1duaEJRdjY3SjdBc1NGTlRheVY4dzV0dHVDbTlzcWpPVVp4TU9DWWYtejh3YzM4eDZuMWFHaFZCcmRSd2JZb0w3MTY2ZkhWWjdtMXg1eEVHSExGZHotZTBkcmc?oc=5
+- Can Sensex, Nifty extend gains on Monday? Oil prices, 5 factors to guide Dalal Street this week - The Economic Times
+  The Sensex, Nifty extend gains on Monday. Oil prices, 5 factors to
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOVRyaDFYbkhxMEozOXlWZl9JMFgzQnpTLW5ZeEEwYTVOQnVsYzFvQzF3ZDlZMmhiVUc1d1NtZF9wUFZNRGQ1TnJRUEtUN25GaTVGQlN4OXlOYnZCV25sbUg5Y2I5ZVZFZDg3dDFENWNQT0w0YnJEdG9CT0FITjloNnpiVTRjdmFaVFBTMmY5Qk9aUWNrQzF5WkZnOHFvVU0yZ3JFaHVQRkctYlRYZnE5UkJLV3VaNjNEZmVoNklSaWdQZXJwT0RPX2ZlOVA4UDV3NGFnYXdOS0p1RGxfYUFyUmowbWhMeEZJN1pFN3MxbkZaLVU2b0U4RVhR0gH_AUFVX3lxTE5Ob2RaZEYteVk2MnZMZ2lQcGxTVGJDUHBWX0pwOS1oSGc2MzNtU29BR0NrOVhiMmZpUExxX0dkell0V0YtNUJLQlJBc29rcjFKYWl4OWtYTHV3ZmJaY2FfYUduVmVKRkJBOWY4TkQtaVVHRkhYNk5xREJWLVhNRWZWYmhHNUJYblpxZDgyb2JqcUVrb3RWNG1hNHFwTTlXYkxMTkdEODhQUXhfY1JCMzk3cmlzdk1fZEIzbkF2ckJiWVVNX21YaDY5SWtqSjM5aUw5TEZ6WVBHMFBWMmNZN25RVlhXbVV4d0E4X2UtT0Y0TEFpejFzZXhZekUzNURhRQ?oc=5
 
-- How will AI matter for labor markets? By Investing.com - Investing.com India
-  How will AI matter for labor markets?
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPSy1vNGJPNUtRNDZIelpfelE4OTdWdktWeDdwemMwODN4TjVFRTlBbXd4cG1neXR5ZFFWN1JzU1N3ZjJua3N0X21EVUo0Z2ZyRmd1YUx2X1BtckN4SEJ0VnhLeFhLRzJfU20zXzB1Z1BBdmw4WnE4X3V6UnBtVkF3ZzM4Z2I0SXVJaVJqTTUyMHg?oc=5
+- 10 Sensex stocks with up to 45% upside potential. Are these in your portfolio?
+  HDFC Bank, Reliance Industries and Infosys feature in the list. Analyst consensus data from Trendlyne highlights 10 Sensex stocks with projected upside potential of up to 43% over the next 12
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-sensex-stocks-with-up-to-45-upside-potential-are-these-in-your-portfolio/slideshow/130365935.cms
 
-- Asia markets mostly fall as fragile Middle East ceasefire tempers sentiment - CNBC
-  Asia markets mostly fall as fragile Middle East ceasefire
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5HMU1Qd2pZM0s4S1U5VUZWNENKSHFEWEw5Z0ZhVFJYWFpEbThLQWxwRHdlRHVLa1pWTGRNdjN1bFh4RG9OUDJGenNyR3VnOHBEeTJLWk9XRmRKWUoxT2JyMm1oM2FZLW1iME0yM0h0eWotMjQ1M0NZSEdEaFlNWmRPc1lkcjNqNlBBa3pFTzY4ZEI4d2ZkcVV5dHVwMHFXSUHSAacBQVVfeXFMT0RSejhrc0xNR0I1N29Ta245QV9MZGMtZkJ6bkMwblg1Z2tRNGlKcHVUbHlUM191QmNISEhLTGlvLWplWmVtbldYTmJkUzhDalo2MkREQk1haDluSzc3UlRFWVU4cUlJa1liclJqeW9oQzBjS0s2b3A0cW1zb0oxMTZnb0ZDVlM5dXA4aVVHUXJaQmw2S2N5M2VLakdlQlJ1QUpfMzhxM3M?oc=5
+- Aluminium prices at record highs: What’s driving the rally and what’s next?
+  Aluminium prices have surged to multi-year highs, driven by strong demand, supply constraints, and rising energy costs. Geopolitical tensions and declining inventories have added volatility and a risk premium. With China�
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aluminium-prices-at-record-highs-whats-driving-the-rally-and-whats-next/articleshow/130365487.cms
 
-- Fall in provisions help ICICI Bank's net profit in Q4 FY26
-  ICICI Bank's net profit rose 9% to Rs 13,702 crore in March 2026. Total advances increased 16%, with strong contributions from business banking and rural portfolios.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/fall-in-provisions-help-icici-banks-net-profit-in-q4-fy26/articleshow/130353695.cms
+- Market Trading Guide: Buy Shipping Corporation and Power Grid on Monday for short-term gains of up to 29%
+  Nifty extended gains for a second week, supported by buying in consumer and metal stocks. Experts recommend a buy-on-dips strategy, highlighting select opportunities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-shipping-corporation-and-power-grid-on-monday-for-short-term-gains-of-up-to-29/articleshow/130365451.cms
 
-- Network18 Q4 loss at Rs 29.61 crore, revenue up 9.7% to Rs 615.78 cr
-  Network18 Media &amp; Investments reported a consolidated net loss of Rs 29.61 crore for the March quarter. The company highlighted strong performance in its TV news inventory and digital platforms. Chairman Adil Zainulbhai expressed satisfaction
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/network18-q4-loss-at-rs-29-61cr-revenue-up-9-7pc-to-rs-615-78cr/articleshow/130353380.cms
+- Defence stocks breakout: Should you book profits or buy the dip? Anand James answers
+  Defence stocks are rallying sharply with strong technical breakouts. Analysts advise avoiding chasing the surge and instead adopting a buy-on-dips strategy.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/defence-stocks-breakout-should-you-book-profits-or-buy-the-dip-anand-james-answers/articleshow/130365423.cms
 
-- Akshaya Tritiya 19th April 2026: What the scriptures actually say
-  Akshaya Tritiya is a significant date in the Vedic tradition. It signifies actions and intentions that compound over time. The day emphasizes giving and righteous conduct.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/akshaya-tritiya-19th-april-2026-what-the-scriptures-actually-say/articleshow/130351441.cms
-
-- ICICI Bank Q4 Results: Net profit up 8.5% to Rs 13,702 crore, announces Rs 12 dividend
-  ICICI Bank announced a net profit of Rs 13,702 crore for the fourth quarter of FY26. The bank's net interest income also rose by 8.4% to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q4-results-net-profit-up-8-5-to-rs-13702-crore-announces-rs-12-dividend/articleshow/130351056.cms
-
-- Dalal Street Week Ahead: Sector rotation signals a need for disciplined approach
-  Indian markets showed resilience, recovering from early dips to end the week higher. Despite a rebound, a strong resistance zone looms, suggesting the current uptrend might be a pullback within a broader consolidation. Investors are advised to adopt
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-sector-rotation-signals-a-need-for-disciplined-approach/articleshow/130351039.cms
-
-- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
-
-- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
-  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
-
-- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
-  PM Modi slams opposition, apologises to women for bill
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
-
-- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
-  'Might Not Have 66% Votes, But We Have
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
-
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
-
-- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
-
-- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
-  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
-
-- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
-  PM Modi slams opposition, apologises to women for bill
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
-
-- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
-  'Might Not Have 66% Votes, But We Have
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
-
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
-
-- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
-
-- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
-  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
-
-- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
-  PM Modi slams opposition, apologises to women for bill
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
-
-- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
-  'Might Not Have 66% Votes, But We Have
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
-
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
-
-- Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QU
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzR6UUdFZ045dEpJN2VFb0ZRSkx3M0hLRE1NcTZndjR0TTllYWwtbXFjeGt5VHlqMlFDeVFDSDFsbHc4TGsxZVRFUV8yR0RHeklJSmFnUEpxWFlJdWlaQmZNNFF1Mzh2QUNFMkpoZjBod1FvU1VyOXhSbkxKWjRnZWlMeV9IaU9jNkw2WkYtUWRVekctT0hxOE9mTkRUYm5YSWdSZGlYYUxHeC1nRE5rZkdsZWpuOW9JbVVad2dMRF9mSEdoWEd5X0pRYkRNT0FKcTJ6SUFXb1h0ZmtCX2lUWHppVdIB6AFBVV95cUxNeU1WV3dIWjVZSTNTSGJRRmQ3LWR1Ulg1QUNmdHBCTFVuWjhlQ1d1UGJlRzFXMWxWQ00xTE5tMGtlM01IdFZGVFh4djVMVjdZakp5ZVZsZEM2aHRYTkxXNExFbmZyR3dZelJsRktzUlQ1MG9rNkdmTFgtMEpkMDZmRktXRjBUbmJhZE5JOGtwdnhscmk4OTM2ejJEaFRKVWlpSXVUbGtoOTJhSWZpQjkwazhIdldPSHRGVnZmU2N1MFNERnloajN5VEc5ckQ2aEQxN3RFRlVENWgtajItX0EtdkFhaUg4dTNo?oc=5
-
-- PM Modi address highlights: Prime Minister Modi calls Congress an 'anti-reform party' after women's quota setback | India News - Hindustan Times
-  PM Modi calls Congress an 'anti-reform party' after women's quota setback.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxPN0QwZXZ4bEprb20tT01aamxPRUxQMEFmbldLWE5fTFRxSE5UNy1najBHSGJITzg5c194MGNwYWJUUzhDS25rZ1M0YUg1Q1ZsYV9jS1A3YlRjNWU4U3BoQkdHbVh4Z09rZy1GeXRodkNTU2NZaUlCak5TRjdEbVBXREVGMzFHSWdRTE00a29wVXUxaFZIOTI4emptVnF0UFRkWXVPZzdnVXlYcUsxTDhpVUN5QUotaDVsRlRlZWFoVVlWZ1BlOVMxWk9Ib0tJZEFCcjFYZUQyOUR1Z2pQWHNwdE92eG5QeTRIeEdLVktIRFBpel9CUkdaVTNRMGNnUHd0bXgwRDd3N3I4b1Yy0gGSAkFVX3lxTE9MQmt3LTRsSzVWMExHM1NfcWtWUmhTcDBlUklKWmtLeVRSYXdKNkZoZkhxWElqWXdRMkZNYXp2b3BOVG1pQ0szNzhUNG1JcjhJQWEtTW92WFBRZTByT3hEUFEybGhjNFp5QzdGa2s1UlAzb0RuY1lPbHlaNGFkZUVqdmM4T3JZM2ZILTgycTk5M25FYXRIY18zNkN4eV8zTzA4TkNKWG1oNHVhOWJrTGVsX1hNRXRLenhEVjgySG5FQUJ2Qm02RkFwNVJUaGxQaXJRck9nX2NVampsX3N6UE80TF9TNTg3THlmeUNtX29jbVo4X2JXOHRoQjBVLXdNQWFHdjRNQ1dMbHpPcXkzZkplNUE?oc=5
-
-- PM Modi slams opposition, apologises to women for bill’s defeat - The Times of India
-  PM Modi slams opposition, apologises to women for bill
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzRRWXBYdmJIalV2NEVxTHRCTjExMjZqZGRoc1ZnZ1RkdG0tZm5Kd1BkNDctZE41dTU2a3MwdmNyR0VhQmJ0VlplMUFPMTFleVFzOUtuSDVMVzlYRDBmTHFlNFlGdjkyaVJjdmtZc1d4bURCME1idmM4dXBNaVFTeDNmeThoc2hIemF3bXQzcXhERGRLVHJ0WEhoWW9OWW1tX2owUGpBLWxUSnVzVWpyamFCV3VTMl84UFdkbXdvTkcxQWsycWp1Z9IBzgFBVV95cUxPeGFmTjV4OFItUXhiVDhNZ01iN2haNGprc2tmSXZvWmJqZEMxeVhLM3ZGNnRjRXFzc1hia2RBQWcxeXpLVmRpaGs0ODZ3WWJkT0pRMXdaOHIzRXNHR2l5RXVSU1JpX2RwUUlHaVUyR3dlaGJ3N3ZnZ25WcGFfQS1wM080ekNLT25qX29JbjFlcXFYMDJ1Yk8yWGtYczRLVmFZNk9hb2h1SmdsOXloVGJrOWxJLWMzWmR3eTNMbkxJMzhkbFdmR19DV3FvSFhSUQ?oc=5
-
-- 'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi - NDTV
-  'Might Not Have 66% Votes, But We Have
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXFENzNfaGNVMDUxbmNWVVFibTBEM1BYRUZLNV9XY3BHWl9HVE5DMzlDZzhtSEYwRllOalJLeTNmLVFPNEpQMFBZS3dlcGR6cUlScWFQWHp6d0xUYmFuT2ZYOWJqSmdvS0xvN2RuWFdGbkJNR3dIZDY4cEhscTFKbjZsMWZqamVyWnIxSG03bkY3clRZazRWbE5Lb2lVRFpfN0lLQlRIXzAyQjZvTU51OUlMMNIBuwFBVV95cUxOVm5jQjljN3RURmZPSzBqWWZKd0YxR3dkWC1JOUp1YkZiU1lhNVB1eG4wNUQzX0JISkl6VkdwNjNrdnRldS1manRMNXBXR1J4YXB0b0NyWXhsSEVYTExDT0lIZWxXWVR6MmlEbUpQY1BEWlNUQzVwZWpodFFnWkZMVDV1ekVIQm9OUjN4Yjc3U2VIRGVuVDd1YVJuZURTVXoySWV1STZKbkE1dlZaby1CVi1OQmhPVzJEQnRn?oc=5
-
-- 'How does one survive?': Factory protests expose strain in India's industrial system - BBC
-  'How does one survive?': Factory protests expose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVkdYZVJVZ3kzVjU3Vk1HUjBEWGFBQm82NlpNNVRfc0NUZkpBSV9pUE5UU3dXTC1aUWNXRktkdTRBRlFoX3hDemFXMjVRQVY4aWh6SE5ORjlFdw?oc=5
+- Don’t trust the hype: Why earnings quality matters more than broker calls in today’s volatile market
+  In volatile markets driven by liquidity, geopolitics and AI disruption, earnings quality is becoming more critical than brokerage recommendations. The article highlights structural biases in analyst calls and outlines key red flags investors should track.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dont-trust-the-hype-why-earnings-quality-matters-more-than-broker-calls-in-todays-volatile-market/articleshow/130365280.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-19 02:10:53 UTC_
+_Last updated: 2026-04-19 07:15:39 UTC_
