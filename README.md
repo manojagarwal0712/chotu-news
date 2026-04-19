@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Assembly Elections 2026 Live Updates: CPI MP P Sandosh Kumar writes to CEC alleging MCC violation by PM in his address
+- 17 killed in blast at Tamil Nadu fireworks factory
   
-  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-west-bengal-tamil-nadu-narendra-modi-mcc-10644564/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-fireworks-factory-blast-death-toll-10645176/
 
-- 3 days before election, Chandrababu Naidu set for whirlwind campaign across Tamil Nadu
+- Assembly polls: Election Commission takes action on 11,000 social media posts
   
-  🔗 https://indianexpress.com/article/india/days-election-chandrababu-naidu-whirlwind-campaign-tamil-nadu-10644654/
+  🔗 https://indianexpress.com/article/india/election-commission-social-media-posts-removal-ai-guidelines-west-bengal-tamil-nadu-elections-10645131/
 
-- ‘Modiji mentioned Congress 59 times’: Kharge calls PM ‘desperate’ after women quota Bill fails in Lok Sabha
+- Before labour protests rocked UP and Haryana, spark came from a village in Bihar
   
-  🔗 https://indianexpress.com/article/india/congress-mallikarjun-kharge-reaction-pm-modi-address-womens-reservation-bill-fail-lok-sabha-10644514/
+  🔗 https://indianexpress.com/article/india/labour-protests-up-haryana-bihar-village-10645006/
 
-- ‘Remarkably courageous’: PM Modi speaks to Pawan Kalyan after Andhra deputy CM undergoes surgery
+- Blood bank ex-staffer arrested 6 months after children get HIV ‘following blood transfusion’
   
-  🔗 https://indianexpress.com/article/india/pm-modi-pawan-kalyan-surgery-recovery-andhra-pradesh-deputy-cm-health-update-10644451/
+  🔗 https://indianexpress.com/article/india/chaibasa-sadar-hospital-hiv-infected-blood-transfusion-arrest-thalassemia-minors-10644986/
 
-- 58 Jamaat-e-Islami-linked private schools taken over by J&K govt
+- Rajasthan’s Bhagat Ki Kothi to get India’s first Vande Bharat Sleeper train maintenance depot
   
-  🔗 https://indianexpress.com/article/india/jk-govt-takes-over-58-jamaat-e-islami-linked-private-schools-most-in-north-kashmir-10644099/
+  🔗 https://indianexpress.com/article/india/rajasthan-likely-to-get-indias-first-vande-bharat-sleeper-train-maintenance-depot-by-june-2026-10644806/
+
+- Apple’s passport-sized foldable could set a new design standard; here’s why
+  
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-foldable-could-set-design-standard-heres-why-10644913/
+
+- What is Headless 360, Salesforce’s new suite of tools for third-party AI agents?
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-headless-360-salesforce-third-party-ai-agents-10644848/
 
 - OpenAI sees executive departures amid enterprise pivot, pullback from ‘side quests’
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances-10644398/
 
-- How do you measure an AI boom?
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-do-you-measure-an-ai-boom-10644349/
+- China’s Orient Securities Deal to Create $86 Billion Brokerage
+  Two Shanghai government‑backed brokerages plan to merge in a deal that will create a firm with around $86 billion in assets. China’s push to
+  🔗 https://www.livemint.com/companies/chinas-orient-securities-deal-to-create-86-billion-brokerage-11776596260930.html
 
-- Can the Giant Magellan Telescope spot habitable worlds? Funding holds the key
-  
-  🔗 https://indianexpress.com/article/technology/science/can-giant-magellan-telescope-spot-habitable-worlds-funding-holds-the-key-10643882/
+- AI-proof your future with these 3 skills — Father of AGI says ‘human jobs will become obsolete’
+  A few roles, like educators and teachers, will remain intact – unaffected by the AGI.
+  🔗 https://www.livemint.com/companies/people/ai-proof-your-future-with-these-3-skills-father-of-ai-artificial-general-intelligence-human-jobs-will-become-obsolete-11776581490091.html
+
+- Tata Steel prepares for blue-collar job transitions as iron ore lease expiry nears
+  With key iron ore blocks set for auction in 2030, the company is slowing hiring
+  🔗 https://www.livemint.com/companies/news/tata-steel-blue-collar-workforce-mining-leases-near-expiry-11776572545782.html
 
 - IPO-bound Acko cuts 5% workforce as AI shift reshapes roles
   Acko has cut around 60 jobs amid an AI-led shift
@@ -48,37 +60,37 @@
   OpenAI lost Kevin Weil, Srinivas Narayanan and Bill Peebles in a single day
   🔗 https://www.livemint.com/companies/news/srinivas-narayanan-kevin-weil-bill-peebles-openai-lost-3-executives-in-one-day-as-science-division-shuts-down-11776557240056.html
 
-- After bindi, tilak row, Lenskart releases dress code allowing religious symbols: 'Part of who we are'
-  Lenskart has released a revised in-store style guide affirming that religious and cultural symbols are permitted. Earlier guidelines led to penalties during audits
-  🔗 https://www.livemint.com/companies/news/after-bindi-tilak-row-lenskart-releases-dress-code-allowing-religious-symbols-part-of-who-we-are-11776526015991.html
+- FMCG sector likely to deliver a healthy performance in Q4FY26. Here's why
+  The FMCG sector is also expected to deliver a healthy performance in Q4FY26, supported
+  🔗 https://www.livemint.com/market/stock-market-news/fmcg-sector-likely-to-deliver-a-healthy-performance-in-q4fy26-heres-why-11776592942091.html
 
-- HDFC Bank senior management backs Keki Mistry to continue as chairman
-  HDFC bank’s loan growth rose 12% on year to  ₹3.17 trillion. Deposits continued to outpace credit at  �
-  🔗 https://www.livemint.com/companies/company-results/hdfc-bank-q4-results-senior-management-keki-mistry-chairman-atanu-chakraborty-banking-india-11776524116559.html
+- HDFC Bank vs ICICI Bank vs Yes Bank - Which banking stock to buy after Q4 results 2026?
+  HDFC Bank, ICICI Bank and Yes Bank will remain in focus on Monday after reporting Q4 results 2026.
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-vs-icici-bank-vs-yes-bank-which-banking-stock-to-buy-after-q4-results-2026-11776591788097.html
 
-- SMBC-backed Yes Bank poised for balance sheet expansion: MD Tonse
-  Yes Bank posted a net profit of  ₹1
-  🔗 https://www.livemint.com/companies/company-results/yes-bank-q4-results-smbc-md-tonse-banking-industry-india-11776520973789.html
+- Masters of the game: Goldman Sachs’ traders may have a lesson or two to learn from JPMorgan’s
+  JPMorgan appears to have beaten the fancied Goldman Sachs in the bond market. Perhaps risk-happy Goldman should recognize that a knockout quarter doesn't need huge sums of capital.
+  🔗 https://www.livemint.com/market/bonds/jpmorgan-goldman-sachs-traders-bond-market-stocks-equity-trading-federal-reserve-banking-11776569959478.html
 
-- Penny stock under  ₹5 to be in focus on Monday; here's why
-  Penny stock Nandan Denim share price is all set to remain in focus on Monday.
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-5-nandan-denim-to-be-in-focus-on-monday-heres-why-11776577698191.html
+- GIFT City funds ask government to undo RBI’s foreign asset reporting mandate
+  Alternative Investment funds warn that the RBI’s rule that deems them resident Indians when reporting foreign assets creates a regulatory overlap that threatens their offshore status.
+  🔗 https://www.livemint.com/market/gift-city-funds-ask-government-to-undo-rbi-s-foreign-asset-reporting-mandate-11776578212554.html
 
-- Should you look beyond gold and add silver to your portfolio on Akshaya Tritiya 2026? Explained
-   geopolitical uncertainty and stagflation risks support a positive medium-term outlook for gold. Investors are encouraged to consider silver as an additional investment for better returns, despite its volatility.
-  🔗 https://www.livemint.com/market/commodities/should-you-look-beyond-gold-and-add-silver-to-your-portfolio-on-akshaya-tritiya-2026-explained-11776428595094.html
+- Mint Explainer | Why oil prices remain on the boil despite a ceasefire
+  Despite a ceasefire in West Asia, supply risks, fragile shipping routes and unresolved US-Iran tensions
+  🔗 https://www.livemint.com/market/commodities/mint-explainer-why-oil-prices-remain-on-the-boil-despite-a-ceasefire-west-asia-war-11776587661285.html
 
-- Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war?
-  Both Indian indices - Sensex and Nifty 50 - posted strong gains on Friday. Checkout how's the Indian market is likely to perform this week,
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11776573272549.html
+- iPhone 18 Pro Max launching soon: New Cherry colour variant, price, processor and expected upgrades
+  The iPhone 18 Pro Max is expected to have a 6.9-inch display, A20 chip, and a 5,200 mAh battery. Leaks reveal potential color options
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launcing-soon-new-cherry-colour-variant-price-processor-and-expected-upgrades-11776564976589.html
 
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 20 April 2026
-  The Indian stock ended the week on a strong note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-20-april-2026-11776569395179.html
+- Nvidia's Jensen Huang warns DeepSeek running on Huawei chips is a 'horrible outcome' for US
+  Nvidia CEO Jensen Huang cautions that Chinese AI models like DeepSeek could harm US technology standards. He also emphasizes the need for the US to maintain
+  🔗 https://www.livemint.com/technology/tech-news/nvidias-jensen-huang-warns-deepseek-running-on-huawei-chips-is-a-horrible-outcome-for-us-11776588926051.html
 
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 20 April 2026
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-20-april-2026-11776567675997.html
+- 'Be very good domain experts': What Sridhar Vembu told Zoho engineers on surviving the AI era
+  Former Zoho CEO Sridhar Vembu has told his engineers to focus on acquiring deep domain expertise to survive in the AI era. He has also advised them to focus
+  🔗 https://www.livemint.com/technology/tech-news/be-very-good-domain-experts-what-sridhar-vembu-told-zoho-engineers-on-surviving-the-ai-era-11776583292632.html
 
 - Buying a laptop under  ₹70000 in 2026 makes the decision easier, thanks to Apple
   Laptops under  ₹70000 now offer strong performance, sleek designs and reliable
@@ -88,85 +100,145 @@
   Anthropic CEO Dario Amodei predicts AI could eliminate 50% of tech jobs. Yann Lecun says
   🔗 https://www.livemint.com/technology/tech-news/ai-pioneer-yann-lecun-rejects-anthropic-s-50-percent-job-loss-prediction-destructive-and-dangerous-11776568603059.html
 
-- What is Claude  Design? Anthropic's new AI tool that tanked Adobe and Figma stocks
-  Anthropic's new AI tool Claude Design led to selloff in shares of software companies like Adobe and Figma.
-  🔗 https://www.livemint.com/technology/tech-news/what-is-claude-design-anthropics-new-ai-tool-that-tanked-adobe-and-figma-stocks-11776566584083.html
+- Daily Voice: Markets eye record highs as US-Iran tensions cool; this fund manager flags top FY27 bets - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWM2YzRDLWJLaHVrazdmZ0pwSzdQX3ZWWXd3c3QteVpGUVJKam9PZV9jN0lZWWdYZFpaMXZXTHBZS0RsNXpfRy1MZDZrMUVKazJQVjJyYUpxWk5leEgwZ1JFcEhnQTVXU2
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWM2YzRDLWJLaHVrazdmZ0pwSzdQX3ZWWXd3c3QteVpGUVJKam9PZV9jN0lZWWdYZFpaMXZXTHBZS0RsNXpfRy1MZDZrMUVKazJQVjJyYUpxWk5leEgwZ1JFcEhnQTVXU2oyYWhoaURFbi1UQW0yOVJGSHlSa2E0a3U5MVlvd2RaUkthdkxZYm5ZaF9hU0s2T3FOWHZMMTFCOFNLYVE1MjREcVh2NDFRQU9xWk00N0Y2N0hvVFNiNzFueUV0aHEtdWVjZ2YwRWN3aDBlWDRacmVibS02UWFoNTdURDR1NHdjMHFKM05ZUXNRRWVaWmZv0gH8AUFVX3lxTE5RQVhKUXhmQVptZlo1ZTVVZmVHRk9BRmN3cEY0dzF5QngwVThXdGJDNU4wM2htM1N2aWNzQ0pmeEdTZDBPTjNjZDU4cjR5dTA2U2l6LTVhdl94bmRvbHc5RUhHMFhQbl80Y05lbEVBWUpTQzFyUHBLQ19EejRfOXV1bk9faXBvRmNETWtDSWd6eE40YktkWlA1MEkwdV9qUG5XWVNjMjd5a3RXLS1PODFrMl9rbFl1VFRFaWphM0xlOEJjdm1xRk0wS1h6ck9tTUVxdWJJcUo4WlZTR0NTZG5LVHZGMmtmWTJMYUVtSW9RMXlLVlV5bWRXNEpjdw?oc=5
 
-- Zoom and Tinder are using Sam Altman's World system to verify your are human
-  Zoom has partnered with World to verify meeting participants' identities using World ID Deep
-  🔗 https://www.livemint.com/technology/tech-news/zoom-and-tinder-are-using-sam-altmans-world-system-to-verify-your-are-human-11776559605358.html
+- Could Indian equity markets turn a corner from here? - Upstox
+  Could Indian equity markets turn a corner
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1pYNmdOQklzZGFyMUM3NXNTWTA3QU1qU292T2JzdUdrOW9oMm9DWUFOYzVNVzJabGdRUEI3bEZmVGlwdzUwN0xBS0xxeWFoUzd1VEYxVHczUlpKOVJEVW12YmJ4Mzh5d3R0TFJ2YWpCSzh6VFM3WEY1dXJQRkpuU21xQUxPNXFGTC1CV1ljNjlCU01aYWhjb2xsT0Y0c1ltbHNFTjVFelRyTUJlZUVWVF9rNTFZMllXN2c?oc=5
 
-- US man, 36, dies by suicide after AI chat suggested ‘joining’ it in digital world: ‘I am scared to die'
-  A Florida man’s death by suicide has triggered global debate on the psychological risks posed by increasingly human-like AI chatbots. Chat records cited in a lawsuit suggest the bot may have reinforced
-  🔗 https://www.livemint.com/technology/tech-news/us-man-36-dies-by-suicide-after-ai-chat-suggested-joining-it-in-digital-world-i-am-scared-to-die-11776539461260.html
-
-- Oil tumbles 10% and stock markets rally as Iran declares strait of Hormuz ‘completely open’ – as it happened - The Guardian
-  The Guardian reports that Iran has declared the strait of Hormuz ‘completely open
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlRfUVF5amJycFFCbldhSnpyWHB6NDROZ2R1TnNaTE5pN0htYjVKNlk3Y2hjN2E5M1dOYXZzZ0VwY2V5bW04ZTdXdFUzcGlSVlZGZUM5M3FFNnZrVnE0cWtmZ2RETWJYQ2YweGU1UUlxdnctUDdhRXFRLWQxM3NHVk5XVXFWbU9LeFVCOFNoaHotMlZNVFF2dUxNTEFUX2x3MHJPZGtIZXBrejg5WmdpVkVZbE1GeV95bzNsdmhTNDBDNFllcUpWRHl6Z2hwVENCNUM2bElB?oc=5
-
-- Will real estate prices in Gurugram continue to soar? The role of micro-markets, and here’s what experts - The Times of India
-  Will real estate prices in Gurugram continue to soar? The role of micro-markets
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdVNmbjBlbDVjWGRvcTljTkN1aDVqQy04YWRSR0tlZXJfazZvdGptbnRRSjZTSHNZX05RVjVKV0N2bXpwYXpnNktZOUpkOXlOR3Q1Qzc1bUJVSUFLRGZlMmNidmVSS1hIcTNmWDRlY0wxajkzcktxZFpWc2ZDbVJ4bS0xOHhNaV8tcVA1MlVjQWZCS3RpaUt6Y3VKRUUyV2dIMV85ME9rclhzQTcxRDVxYUlzcUtDdXhWbVRPdl8tcVFRM1liTWtOOU83NEUwSlhrcndNSksta2xadWVDZmVudzVsTFJyZnhfTTlqOWoycThvUExjbVNBSmg2NkRYbWZvWmtqTUJHTXdNczViQTBOc2JYWTN6N0d5alhR0gGgAkFVX3lxTE95bXhjTW54aVlUY1UzMVJpclFDQTY3czZVajd6R3ZCX0hrMjVlV2NJdTIzSmpuY0VUQWhQT2pEMDNxaEtIWUdhb0lmTjlIa2thdzJEaFQ4eUhhZGN2ckh4TDMyNFNfUVVNTnp6cDFWeVFhTWJPemVLcnpjb1ZoVHp0RkxvMFpwMnhiRG1ZZ3FiakFjVVllSi1WWEhsWHhyRXpSczZlQmkzN2VjZ2xRMFFtenA2ODNuTUtaSy1xcjZSazQtUFA2N3RrUEtMMUVnUmd4UDRqZjRGS2FGRjk3SkE4VHQxOW5EZTBUNF9uYVpYZm5jTzJydUpNOENmRUtwVHpndkY1eFJzSm1zR1BfQVBpUVI5RnU0UktZQnhGU3NQeA?oc=5
+- NSE IPO: Unlisted shares crash despite offer buzz. Are late buyers locked out of OFS route? - The Economic Times
+  NSE IPO: Unlisted shares crash despite offer buzz. Are late buyers locked
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTHA1elA4RHlqZUJXQy1oUmU1UWJMTGlqTUNiVjZrelZxVTVRYTVHbzJpSnlsNGVYSk82cmlPM09HdlNlM244T3dycXpVYXVwUV9sVV9rSkEyUWNNQ1Utbi1qcVhPSUFnYjQ2dFpGSTViRm5WZE1tdjRsTG96NGtLN3NpXzBDNm80WmFocEdNM2VTZVNoaWdwNGdCTzBROWNGSDg1YmI0bXBpUlRRaURuNWYzVFR2YlBEV3djeTJsRUZpVVgzWWNYb0VRUmVMQm43TVBMUXdoS3g4ZThtaEhMV2lxZHBhQXVpWVZsaktVa3RfQdIB9wFBVV95cUxONkVJUTlUQ2hfY1Fqd2pBYnYyWGxoX0VtT3FZRVkxcWFsekI0akUtalZRWThBM1NoYkw2ZXFPLUNfV0hOMjNveG1ocHJkV0w2YlJaTDB6RW5rcXlDVTladW9SRGhmaEw4WTdJbnptb2NhYjV4YlRwNzhzTThENE4xb3ZzYWR2UjRiTEtMTUNMaldOQWFyV2lDV2tQQUl1LU5ral81SVFuYUk0a0NUbnZkNkpfOWRLTmdPcXg2WDE4Z3VIcEVnTWJIT3JDUXpCYVZZblFQOHVJZUFqdzFXT3ppdkR0bnBjeGs4X1Jyd2F2Vng4VWY5R1Nz?oc=5
 
 - Indian weight-loss market becomes ‘bloodbath’ as drugmakers pile in - Financial Times
   Indian weight-loss market becomes ‘
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTQwOWFfU05HbUVQUEc0aEc2VDgtN0NIYVVaTFppX1pFZFh3RkZzQUhBdG9lU01wQWRYSFlxRzNIY2xtMGxJaThRYkNOc2FHaVg3dWhVbEFGQWIxeTN0M1R3cS1TWTZxZXBQVDVtaUhLT3EtQ2pOUlg5NmI1UWh4NFdpWjU?oc=5
 
-- Daily Voice: Markets eye record highs as US-Iran tensions cool; this fund manager flags top FY27 bets - Moneycontrol.com
-  The markets are on a high as tensions between the U.S. and
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWM2YzRDLWJLaHVrazdmZ0pwSzdQX3ZWWXd3c3QteVpGUVJKam9PZV9jN0lZWWdYZFpaMXZXTHBZS0RsNXpfRy1MZDZrMUVKazJQVjJyYUpxWk5leEgwZ1JFcEhnQTVXU2oyYWhoaURFbi1UQW0yOVJGSHlSa2E0a3U5MVlvd2RaUkthdkxZYm5ZaF9hU0s2T3FOWHZMMTFCOFNLYVE1MjREcVh2NDFRQU9xWk00N0Y2N0hvVFNiNzFueUV0aHEtdWVjZ2YwRWN3aDBlWDRacmVibS02UWFoNTdURDR1NHdjMHFKM05ZUXNRRWVaWmZv0gH8AUFVX3lxTE5RQVhKUXhmQVptZlo1ZTVVZmVHRk9BRmN3cEY0dzF5QngwVThXdGJDNU4wM2htM1N2aWNzQ0pmeEdTZDBPTjNjZDU4cjR5dTA2U2l6LTVhdl94bmRvbHc5RUhHMFhQbl80Y05lbEVBWUpTQzFyUHBLQ19EejRfOXV1bk9faXBvRmNETWtDSWd6eE40YktkWlA1MEkwdV9qUG5XWVNjMjd5a3RXLS1PODFrMl9rbFl1VFRFaWphM0xlOEJjdm1xRk0wS1h6ck9tTUVxdWJJcUo4WlZTR0NTZG5LVHZGMmtmWTJMYUVtSW9RMXlLVlV5bWRXNEpjdw?oc=5
+- Prediction Markets are a $1 trillion market by 2030, Bernstein says - Investing.com India
+  Prediction Markets are a $1 trillion market by
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXBYNmdPS1RjVHlxMWdrcFd1YmF2ZGlxVjZlYTBPZmdBMHNOYXpTaGlDNjZRZ2xFSEozYWdNcC1mY3cwWU9rS0VDZ3d5NkM5dDZVNjQyYWJ4RHVmOGhieFZOeEJKM3E1Nlg0UURTeUVOXzBsODg5bVlweVFtRGRzZFl4SVgwR2JXZF9EdFQ1dk42U2g2SDFaeEJFRHVZNmVfUW5yRmFVUXlZZmVuQjlENWQxVE9aVUk?oc=5
 
-- Can Sensex, Nifty extend gains on Monday? Oil prices, 5 factors to guide Dalal Street this week - The Economic Times
-  The Sensex, Nifty extend gains on Monday. Oil prices, 5 factors to
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOVRyaDFYbkhxMEozOXlWZl9JMFgzQnpTLW5ZeEEwYTVOQnVsYzFvQzF3ZDlZMmhiVUc1d1NtZF9wUFZNRGQ1TnJRUEtUN25GaTVGQlN4OXlOYnZCV25sbUg5Y2I5ZVZFZDg3dDFENWNQT0w0YnJEdG9CT0FITjloNnpiVTRjdmFaVFBTMmY5Qk9aUWNrQzF5WkZnOHFvVU0yZ3JFaHVQRkctYlRYZnE5UkJLV3VaNjNEZmVoNklSaWdQZXJwT0RPX2ZlOVA4UDV3NGFnYXdOS0p1RGxfYUFyUmowbWhMeEZJN1pFN3MxbkZaLVU2b0U4RVhR0gH_AUFVX3lxTE5Ob2RaZEYteVk2MnZMZ2lQcGxTVGJDUHBWX0pwOS1oSGc2MzNtU29BR0NrOVhiMmZpUExxX0dkell0V0YtNUJLQlJBc29rcjFKYWl4OWtYTHV3ZmJaY2FfYUduVmVKRkJBOWY4TkQtaVVHRkhYNk5xREJWLVhNRWZWYmhHNUJYblpxZDgyb2JqcUVrb3RWNG1hNHFwTTlXYkxMTkdEODhQUXhfY1JCMzk3cmlzdk1fZEIzbkF2ckJiWVVNX21YaDY5SWtqSjM5aUw5TEZ6WVBHMFBWMmNZN25RVlhXbVV4d0E4X2UtT0Y0TEFpejFzZXhZekUzNURhRQ?oc=5
+- Where’s the Indian mutual fund sector going ahead? 6 big trends to watch out for
+  Mutual fund trends highlight a structural shift in investor preference towards mid and small caps. SIP inflows hit record highs, reinforcing steady participation. Despite regulatory hurdles, overseas funds recover.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/wheres-the-indian-mutual-fund-sector-going-ahead-6-big-trends-to-watch-out-for/articleshow/130366880.cms
+
+- Mcap of 8 of top-10 most valued firms surges by Rs 1.87 lakh cr; Airtel biggest winner
+  The combined market valuation of eight of the top-10 most valued firms surged by Rs 1,87,497.45 crore in a holiday-shortened last week
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-most-valued-firms-surges-by-rs-1-87-lakh-cr-airtel-biggest-winner/articleshow/130366798.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Nifty and Sensex posted gains with positive market breadth. Analysts remain constructive, recommending a buy-on-dips approach.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/130366454.cms
+
+- NSE IPO: Unlisted shares crash despite offer buzz. Are late buyers locked out of OFS route?
+  NSE’s unlisted shares have declined despite IPO buzz as eligibility rules restrict last-minute participation in the offer-for-sale. With a one-year holding requirement in place, new investors
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-unlisted-shares-crash-despite-offer-buzz-are-late-buyers-locked-out-of-ofs-route/articleshow/130366283.cms
 
 - 10 Sensex stocks with up to 45% upside potential. Are these in your portfolio?
   HDFC Bank, Reliance Industries and Infosys feature in the list. Analyst consensus data from Trendlyne highlights 10 Sensex stocks with projected upside potential of up to 43% over the next 12
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-sensex-stocks-with-up-to-45-upside-potential-are-these-in-your-portfolio/slideshow/130365935.cms
 
-- Aluminium prices at record highs: What’s driving the rally and what’s next?
-  Aluminium prices have surged to multi-year highs, driven by strong demand, supply constraints, and rising energy costs. Geopolitical tensions and declining inventories have added volatility and a risk premium. With China�
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aluminium-prices-at-record-highs-whats-driving-the-rally-and-whats-next/articleshow/130365487.cms
+- 2 Indian-Flagged Vessels Attacked By Iran Gunboats In Hormuz, Crew Safe - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3Yz
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3YzUwbkh2ZWxMcGRSSWVTcjBsSmNLekVMYm5CbGR0OS1XdXg5VVlwdnljN1hQVHZqWXlyMzh4N0NFVUhYYlN3d21ZSHY0MnhkaUhzZ1c5Vjd3N2NZ0gHDAUFVX3lxTE5KdWVLazUzUS1BNENSNXJaelprbTJZckpjdmNNRXpjQzI0UHJqSWNFcHh2RFhSX0l0R05ibHF4d0RoejRkX2I0NE1Oc0JJRktNZi03TTFiSE51eER4T0NGcEpIRlVHRWpTSEs0amtuSlMydlRpYTc0QlZtY2J4b04xU1dlTUxEQWhBbkF4aksycDV4T2tLUTd0SXpuanlBSDY4UEJoMTBRVlUtaGE1ZzFuVnFwbFNNaEFpdERqZ2gxbHdGMA?oc=5
 
-- Market Trading Guide: Buy Shipping Corporation and Power Grid on Monday for short-term gains of up to 29%
-  Nifty extended gains for a second week, supported by buying in consumer and metal stocks. Experts recommend a buy-on-dips strategy, highlighting select opportunities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-shipping-corporation-and-power-grid-on-monday-for-short-term-gains-of-up-to-29/articleshow/130365451.cms
+- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
+  Ex-union minister Dinesh Trivedi to be India's next ambassador to
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Defence stocks breakout: Should you book profits or buy the dip? Anand James answers
-  Defence stocks are rallying sharply with strong technical breakouts. Analysts advise avoiding chasing the surge and instead adopting a buy-on-dips strategy.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/defence-stocks-breakout-should-you-book-profits-or-buy-the-dip-anand-james-answers/articleshow/130365423.cms
+- Ex Union Minister Dinesh Trivedi Appointed Bangladesh High Commissioner - NDTV
+  Ex Union Minister Dinesh Tri
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtT19GQVRDb3Rvd2UtTnpPNk1hLU05dm1UMkNfb2ZlNG1qNk9PSnlIdzd2VEZDOEpMSmRxLUg5cW9fN0dBS0xoZm9VRE9KVzZfZGh4QnJmX1oxUGFjbmJvVFRTYVBKQjc2aGd6RHF5M0pMaE5pZTM1ME56ZWdJZkVBendkVXZXWmExbzloRDBBWmJJUEJBZU9iNzA3ckdOM1YtMzBpRXl2djFDdE9UWlh30gG6AUFVX3lxTE40ZjE2TXBudUtlWTNSdUJOYzBTTDBGSkV6aDlaWm82VVhhN2VBcEI4TDF6QXNaSHAzOEF3VkpIRWxndUNiUnlXZlgwWkdlakc4b0tiN3UtcXl4YjYzeEtxVEtuYm85SXQwZGNPdkVyblpIcXl5Q19PS1JRa1c2RC1nc0xYeTNvWVZvWEpqaWk4VGFfM2FpZjVTWW9zaGJYX2JoSVBfbjZOWS1KNF9Da2VHcnpIblVFMEtQdw?oc=5
 
-- Don’t trust the hype: Why earnings quality matters more than broker calls in today’s volatile market
-  In volatile markets driven by liquidity, geopolitics and AI disruption, earnings quality is becoming more critical than brokerage recommendations. The article highlights structural biases in analyst calls and outlines key red flags investors should track.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dont-trust-the-hype-why-earnings-quality-matters-more-than-broker-calls-in-todays-volatile-market/articleshow/130365280.cms
+- BJP MP Dinesh Trivedi to become India’s next High Commissioner to Bangladesh – Who is he? - Mint
+  BJP MP Dinesh Trivedi to become India’
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmgtMzRIN01zTlZHaEpnck9FVGV6T1I3Wjk0UWdJUDlDc2NOZEoxdjZXVUdiWExFT0pjZUFpdXRWM3Q3WTRnY1N2cnFNTGZXSEQ3ZEV6MUVsd2J2V29tYTFYV05GSjRMU0tuVVlMbEQtOEV3STJRdVZJUUJlOHJWYWo2V1V0djNyVXQwTjIxRy00bk9MWkxucjZhTzAtTVFkc1d0S05WZ2tSTnpvclJVV1VZTXZvUEpwejY1c2dlNkRkWmtLTHBydEh6Sm9IeEZIaUFXNU5oMmpPZ9IB3wFBVV95cUxNNmtxZlFPbTlyYjlSc1dBYnFWQUZoZXFGN19OMFNZZFZYWFdqSmFtOWVtdXljcVowUjJidUdhQ2c0UFRoV3Z6M29Ta2lnQmpDdk1nZW5WSThRbzhVb0JqQVhyc05rVEFFUlNOckxhZUVIdS01YXVJS3dwZ2VueklMLWl5bDJmN3VGSEJwenRkZEhSZTdTWjlSWm9yOHBSZ3VUZGdoTWpJa0RxTGl1MHNDMWRMcjFvNzNFTEhNTUtxY1B1MnlFTjVrbmpvZHF3ZEpXbFJWQmhKRGNJbWZlanVR?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Textiles Ministry launches ‘Vishwa Sutra’ to promote Indian handlooms globally - News On AIR
+  Textiles Ministry launches ‘Vishwa S
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dvcjM2cklzLUxXdDV5QnBXMHdhN1VfZVNocjZieE5fSG9iSzlRdW52ejBtaFVDNHc2YUdjVDFYd05HQVpTVDROMGZ5VlVwbUpmVXhzY3l2SXBibmRZMVJmcGFCZFBzQTY3OEtTN0F2S2pvQUpaYXFzTE56Rnp1RUZlOUgyX2NVYnl3NEg0ckcxU3FEdEIwNmQ0QjBVVmJFX0I2TC1uSGJydw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 2 Indian-Flagged Vessels Attacked By Iran Gunboats In Hormuz, Crew Safe - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3Yz
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3YzUwbkh2ZWxMcGRSSWVTcjBsSmNLekVMYm5CbGR0OS1XdXg5VVlwdnljN1hQVHZqWXlyMzh4N0NFVUhYYlN3d21ZSHY0MnhkaUhzZ1c5Vjd3N2NZ0gHDAUFVX3lxTE5KdWVLazUzUS1BNENSNXJaelprbTJZckpjdmNNRXpjQzI0UHJqSWNFcHh2RFhSX0l0R05ibHF4d0RoejRkX2I0NE1Oc0JJRktNZi03TTFiSE51eER4T0NGcEpIRlVHRWpTSEs0amtuSlMydlRpYTc0QlZtY2J4b04xU1dlTUxEQWhBbkF4aksycDV4T2tLUTd0SXpuanlBSDY4UEJoMTBRVlUtaGE1ZzFuVnFwbFNNaEFpdERqZ2gxbHdGMA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
+  Ex-union minister Dinesh Trivedi to be India's next ambassador to
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Ex Union Minister Dinesh Trivedi Appointed Bangladesh High Commissioner - NDTV
+  Ex Union Minister Dinesh Tri
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtT19GQVRDb3Rvd2UtTnpPNk1hLU05dm1UMkNfb2ZlNG1qNk9PSnlIdzd2VEZDOEpMSmRxLUg5cW9fN0dBS0xoZm9VRE9KVzZfZGh4QnJmX1oxUGFjbmJvVFRTYVBKQjc2aGd6RHF5M0pMaE5pZTM1ME56ZWdJZkVBendkVXZXWmExbzloRDBBWmJJUEJBZU9iNzA3ckdOM1YtMzBpRXl2djFDdE9UWlh30gG6AUFVX3lxTE40ZjE2TXBudUtlWTNSdUJOYzBTTDBGSkV6aDlaWm82VVhhN2VBcEI4TDF6QXNaSHAzOEF3VkpIRWxndUNiUnlXZlgwWkdlakc4b0tiN3UtcXl4YjYzeEtxVEtuYm85SXQwZGNPdkVyblpIcXl5Q19PS1JRa1c2RC1nc0xYeTNvWVZvWEpqaWk4VGFfM2FpZjVTWW9zaGJYX2JoSVBfbjZOWS1KNF9Da2VHcnpIblVFMEtQdw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- BJP MP Dinesh Trivedi to become India’s next High Commissioner to Bangladesh – Who is he? - Mint
+  BJP MP Dinesh Trivedi to become India’
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmgtMzRIN01zTlZHaEpnck9FVGV6T1I3Wjk0UWdJUDlDc2NOZEoxdjZXVUdiWExFT0pjZUFpdXRWM3Q3WTRnY1N2cnFNTGZXSEQ3ZEV6MUVsd2J2V29tYTFYV05GSjRMU0tuVVlMbEQtOEV3STJRdVZJUUJlOHJWYWo2V1V0djNyVXQwTjIxRy00bk9MWkxucjZhTzAtTVFkc1d0S05WZ2tSTnpvclJVV1VZTXZvUEpwejY1c2dlNkRkWmtLTHBydEh6Sm9IeEZIaUFXNU5oMmpPZ9IB3wFBVV95cUxNNmtxZlFPbTlyYjlSc1dBYnFWQUZoZXFGN19OMFNZZFZYWFdqSmFtOWVtdXljcVowUjJidUdhQ2c0UFRoV3Z6M29Ta2lnQmpDdk1nZW5WSThRbzhVb0JqQVhyc05rVEFFUlNOckxhZUVIdS01YXVJS3dwZ2VueklMLWl5bDJmN3VGSEJwenRkZEhSZTdTWjlSWm9yOHBSZ3VUZGdoTWpJa0RxTGl1MHNDMWRMcjFvNzNFTEhNTUtxY1B1MnlFTjVrbmpvZHF3ZEpXbFJWQmhKRGNJbWZlanVR?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Textiles Ministry launches ‘Vishwa Sutra’ to promote Indian handlooms globally - News On AIR
+  Textiles Ministry launches ‘Vishwa S
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dvcjM2cklzLUxXdDV5QnBXMHdhN1VfZVNocjZieE5fSG9iSzlRdW52ejBtaFVDNHc2YUdjVDFYd05HQVpTVDROMGZ5VlVwbUpmVXhzY3l2SXBibmRZMVJmcGFCZFBzQTY3OEtTN0F2S2pvQUpaYXFzTE56Rnp1RUZlOUgyX2NVYnl3NEg0ckcxU3FEdEIwNmQ0QjBVVmJFX0I2TC1uSGJydw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 2 Indian-Flagged Vessels Attacked By Iran Gunboats In Hormuz, Crew Safe - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3Yz
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3YzUwbkh2ZWxMcGRSSWVTcjBsSmNLekVMYm5CbGR0OS1XdXg5VVlwdnljN1hQVHZqWXlyMzh4N0NFVUhYYlN3d21ZSHY0MnhkaUhzZ1c5Vjd3N2NZ0gHDAUFVX3lxTE5KdWVLazUzUS1BNENSNXJaelprbTJZckpjdmNNRXpjQzI0UHJqSWNFcHh2RFhSX0l0R05ibHF4d0RoejRkX2I0NE1Oc0JJRktNZi03TTFiSE51eER4T0NGcEpIRlVHRWpTSEs0amtuSlMydlRpYTc0QlZtY2J4b04xU1dlTUxEQWhBbkF4aksycDV4T2tLUTd0SXpuanlBSDY4UEJoMTBRVlUtaGE1ZzFuVnFwbFNNaEFpdERqZ2gxbHdGMA?oc=5
+
+- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
+  Ex-union minister Dinesh Trivedi to be India's next ambassador to
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
+
+- Ex Union Minister Dinesh Trivedi Appointed Bangladesh High Commissioner - NDTV
+  Ex Union Minister Dinesh Tri
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtT19GQVRDb3Rvd2UtTnpPNk1hLU05dm1UMkNfb2ZlNG1qNk9PSnlIdzd2VEZDOEpMSmRxLUg5cW9fN0dBS0xoZm9VRE9KVzZfZGh4QnJmX1oxUGFjbmJvVFRTYVBKQjc2aGd6RHF5M0pMaE5pZTM1ME56ZWdJZkVBendkVXZXWmExbzloRDBBWmJJUEJBZU9iNzA3ckdOM1YtMzBpRXl2djFDdE9UWlh30gG6AUFVX3lxTE40ZjE2TXBudUtlWTNSdUJOYzBTTDBGSkV6aDlaWm82VVhhN2VBcEI4TDF6QXNaSHAzOEF3VkpIRWxndUNiUnlXZlgwWkdlakc4b0tiN3UtcXl4YjYzeEtxVEtuYm85SXQwZGNPdkVyblpIcXl5Q19PS1JRa1c2RC1nc0xYeTNvWVZvWEpqaWk4VGFfM2FpZjVTWW9zaGJYX2JoSVBfbjZOWS1KNF9Da2VHcnpIblVFMEtQdw?oc=5
+
+- BJP MP Dinesh Trivedi to become India’s next High Commissioner to Bangladesh – Who is he? - Mint
+  BJP MP Dinesh Trivedi to become India’
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmgtMzRIN01zTlZHaEpnck9FVGV6T1I3Wjk0UWdJUDlDc2NOZEoxdjZXVUdiWExFT0pjZUFpdXRWM3Q3WTRnY1N2cnFNTGZXSEQ3ZEV6MUVsd2J2V29tYTFYV05GSjRMU0tuVVlMbEQtOEV3STJRdVZJUUJlOHJWYWo2V1V0djNyVXQwTjIxRy00bk9MWkxucjZhTzAtTVFkc1d0S05WZ2tSTnpvclJVV1VZTXZvUEpwejY1c2dlNkRkWmtLTHBydEh6Sm9IeEZIaUFXNU5oMmpPZ9IB3wFBVV95cUxNNmtxZlFPbTlyYjlSc1dBYnFWQUZoZXFGN19OMFNZZFZYWFdqSmFtOWVtdXljcVowUjJidUdhQ2c0UFRoV3Z6M29Ta2lnQmpDdk1nZW5WSThRbzhVb0JqQVhyc05rVEFFUlNOckxhZUVIdS01YXVJS3dwZ2VueklMLWl5bDJmN3VGSEJwenRkZEhSZTdTWjlSWm9yOHBSZ3VUZGdoTWpJa0RxTGl1MHNDMWRMcjFvNzNFTEhNTUtxY1B1MnlFTjVrbmpvZHF3ZEpXbFJWQmhKRGNJbWZlanVR?oc=5
+
+- Textiles Ministry launches ‘Vishwa Sutra’ to promote Indian handlooms globally - News On AIR
+  Textiles Ministry launches ‘Vishwa S
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dvcjM2cklzLUxXdDV5QnBXMHdhN1VfZVNocjZieE5fSG9iSzlRdW52ejBtaFVDNHc2YUdjVDFYd05HQVpTVDROMGZ5VlVwbUpmVXhzY3l2SXBibmRZMVJmcGFCZFBzQTY3OEtTN0F2S2pvQUpaYXFzTE56Rnp1RUZlOUgyX2NVYnl3NEg0ckcxU3FEdEIwNmQ0QjBVVmJFX0I2TC1uSGJydw?oc=5
+
+- 2 Indian-Flagged Vessels Attacked By Iran Gunboats In Hormuz, Crew Safe - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3Yz
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNRMWxOdnZ4eFIxcWdQeW81TlRMMkVINFRudjN6bUtvRHU5LWluQV8wdFUweDNKdFo0T1NZZnVGN1poeGppMUNYMUQtYWxTZjRXWU5NeUlrY2Zpd2FIMFNBV0gzOHJ3YzUwbkh2ZWxMcGRSSWVTcjBsSmNLekVMYm5CbGR0OS1XdXg5VVlwdnljN1hQVHZqWXlyMzh4N0NFVUhYYlN3d21ZSHY0MnhkaUhzZ1c5Vjd3N2NZ0gHDAUFVX3lxTE5KdWVLazUzUS1BNENSNXJaelprbTJZckpjdmNNRXpjQzI0UHJqSWNFcHh2RFhSX0l0R05ibHF4d0RoejRkX2I0NE1Oc0JJRktNZi03TTFiSE51eER4T0NGcEpIRlVHRWpTSEs0amtuSlMydlRpYTc0QlZtY2J4b04xU1dlTUxEQWhBbkF4aksycDV4T2tLUTd0SXpuanlBSDY4UEJoMTBRVlUtaGE1ZzFuVnFwbFNNaEFpdERqZ2gxbHdGMA?oc=5
+
+- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
+  Ex-union minister Dinesh Trivedi to be India's next ambassador to
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
+
+- Ex Union Minister Dinesh Trivedi Appointed Bangladesh High Commissioner - NDTV
+  Ex Union Minister Dinesh Tri
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNcENtT19GQVRDb3Rvd2UtTnpPNk1hLU05dm1UMkNfb2ZlNG1qNk9PSnlIdzd2VEZDOEpMSmRxLUg5cW9fN0dBS0xoZm9VRE9KVzZfZGh4QnJmX1oxUGFjbmJvVFRTYVBKQjc2aGd6RHF5M0pMaE5pZTM1ME56ZWdJZkVBendkVXZXWmExbzloRDBBWmJJUEJBZU9iNzA3ckdOM1YtMzBpRXl2djFDdE9UWlh30gG6AUFVX3lxTE40ZjE2TXBudUtlWTNSdUJOYzBTTDBGSkV6aDlaWm82VVhhN2VBcEI4TDF6QXNaSHAzOEF3VkpIRWxndUNiUnlXZlgwWkdlakc4b0tiN3UtcXl4YjYzeEtxVEtuYm85SXQwZGNPdkVyblpIcXl5Q19PS1JRa1c2RC1nc0xYeTNvWVZvWEpqaWk4VGFfM2FpZjVTWW9zaGJYX2JoSVBfbjZOWS1KNF9Da2VHcnpIblVFMEtQdw?oc=5
+
+- BJP MP Dinesh Trivedi to become India’s next High Commissioner to Bangladesh – Who is he? - Mint
+  BJP MP Dinesh Trivedi to become India’
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmgtMzRIN01zTlZHaEpnck9FVGV6T1I3Wjk0UWdJUDlDc2NOZEoxdjZXVUdiWExFT0pjZUFpdXRWM3Q3WTRnY1N2cnFNTGZXSEQ3ZEV6MUVsd2J2V29tYTFYV05GSjRMU0tuVVlMbEQtOEV3STJRdVZJUUJlOHJWYWo2V1V0djNyVXQwTjIxRy00bk9MWkxucjZhTzAtTVFkc1d0S05WZ2tSTnpvclJVV1VZTXZvUEpwejY1c2dlNkRkWmtLTHBydEh6Sm9IeEZIaUFXNU5oMmpPZ9IB3wFBVV95cUxNNmtxZlFPbTlyYjlSc1dBYnFWQUZoZXFGN19OMFNZZFZYWFdqSmFtOWVtdXljcVowUjJidUdhQ2c0UFRoV3Z6M29Ta2lnQmpDdk1nZW5WSThRbzhVb0JqQVhyc05rVEFFUlNOckxhZUVIdS01YXVJS3dwZ2VueklMLWl5bDJmN3VGSEJwenRkZEhSZTdTWjlSWm9yOHBSZ3VUZGdoTWpJa0RxTGl1MHNDMWRMcjFvNzNFTEhNTUtxY1B1MnlFTjVrbmpvZHF3ZEpXbFJWQmhKRGNJbWZlanVR?oc=5
+
+- Textiles Ministry launches ‘Vishwa Sutra’ to promote Indian handlooms globally - News On AIR
+  Textiles Ministry launches ‘Vishwa S
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dvcjM2cklzLUxXdDV5QnBXMHdhN1VfZVNocjZieE5fSG9iSzlRdW52ejBtaFVDNHc2YUdjVDFYd05HQVpTVDROMGZ5VlVwbUpmVXhzY3l2SXBibmRZMVJmcGFCZFBzQTY3OEtTN0F2S2pvQUpaYXFzTE56Rnp1RUZlOUgyX2NVYnl3NEg0ckcxU3FEdEIwNmQ0QjBVVmJFX0I2TC1uSGJydw?oc=5
+
+- Zoho founder Sridhar Vembu to engineers on how to survive in AI era: Programming skills are the foundatio - The Times of India
+  Zoho founder Sridhar Vembu to engineers on how to survive in AI era:
+  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxPYXJQUTVOcjNjU051VVQ5SjZ5dkNpazE1MnR3WTJfVVpsaWFWQko1dnhGczVGeHNHS3VubWRPZGtTa0VYakgwMkNNRkxvbDZhN3dEYVZSaFVscTQ5Y2VfV0VHVm5PSFYwdGp3U1JHUnFZMFU2eHQycU9yU2p1NHppNllDSjZjcjYxRFYwLUJHZW5CX05sVW5DdzU2a0FhaWpKY0FWa0xJcDdfaGhVdlNYQUZva1k3SlNnbFo0WVVTX01kZTRKdWVVTS12bEp1WkxRckQ4YkNLRjk5c2szaUo1U1VaeWlvSFAxdl9Sb09haHp6TmRfQWJiZEFkaENGUWJqVk1PNW9wMmVRREJXSTBoa0FOdHhjVXpOT0ZwdTd30gGjAkFVX3lxTFBYZDctMlZnZ2dRQmhmcWpUakVmVENSdW9FTG9aRTYzdWFkMG5sZFhkQmVQMFVhcURmYnp2VUNTVUlHN2EtdFZ2QkVXTWpmWm1IOHB4eWx0RzdHZmJ2MTJqcHhFWXJkUHktazBDd0QwX0ZITFJ0a21qT19iZkdRWVZybk50dkVrOVJxNlc5WDRVNmc3elZQZktEQkJrazFVZEE2MThUTmVEUVhMcF9PcVNXOEJFdFlwODJLanR6eE9uQ2d5MXdTN1luLVJuQjZfeTVCTW9CRl9DZ3Zwa0RiZHJoSHpWT2FYMUtjWXEwRXpZNEN6a3l1X2J3U1JkZ00zMFBuTlJQNE1fR3NLMk44Z0QwT2V3dGVzcE5SeHFuMzNQSzk0QQ?oc=5
+
+- Registrations Open For Digital India Internship By Ministry Of Electronics And Information Technology - The420.in
+  Registrations Open For Digital India Internship By Ministry
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0haVDlXZkdja3dXZ1VqMlNmMklnX0dTRXR5Y2Q4d0gyRXJkbjVXUlJiMnYyN1NzcEl2cVNfZUlCaHA1aVRvWDFjNUduSmFwUHdvSU9EWWRrRUJ0dXZaVHN5Sm5UV3VhelRYdkxFVlZUaXpoUTVZQXNiWl93bmVmNVhsMHYyUGpZZWc?oc=5
+
+- Materials technology breakthroughs bring new hope for cancer treatment - news.cgtn.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxONW1JRjBxWHJqbGtGT19TeXhiRkx1aTY0bkY3V2pHWVBqYVFGT3o1NXVQUFlfLTZ5MDUtQm8zd09yTWh3TnBhNXMwVU8wMV9vNi1NaFVCUXJtN0hQRVkzeTdvOS1CQlFNRklyX1o5N2ZCVllXS3ZOX2g1bVdNd2pfTkJkR3pCOHBWNC0tb05jNjFrenFvdmRDLW1PN3RicllaOXNNOHBjQ3AwcFpkRFlBaUw5YTVpalR0UE90MmVoR2R1RHN6Q1E?oc=5
+
+- Empathy, ethics over technology: NMC Chairman to graduating doctors - Medical Dialogues
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUZjWnlXMU84by0yRjloSmhLMW5UVlZPMjVQOU1wSG1kU1pxY2ZJR1ZiYlpVd0VoMkxaejZyOW5GUmQ1cGE0a19lVnprT0xEZU1jUGpyUTJUT0ZRc0MtQTB1bUE0bnFHUXBpR0hTQm9NQlhRU1JYQzA4UnAxaTZMWGh0MDM1dF9CWElTQ2h5d2tkN2swM3RGdGdGc0JWQlFqd0REZnEwZlpuV09QRk1FS1h4eklXT2w4MWhVS9IBwgFBVV95cUxOVEpGZWh3UUx4Zjd4VHZjWnFHbUppc2dqVDJJdDliOXJNb3J1QUpQNWtxSnBhdXdfLWJOU3VSN1NkSW02RHZFOElRbUE0LUEyV192cDFjRC1sRW50RVd1UXFCZ29uc2tVZVVaUkVjNHdnUU55TExGZGUtUlpnUjNzSVdyUFdsMjBoa2QwZTFVRE9JSzJ0WjBlQnp0THRuLTNXMmgyd1ZlalNQejloT2pacmVwbHFSZWN4by1nM0twTlVwZw?oc=5
+
+- Books | Why Cybersecurity About Culture As Well As Technology - Deccan Chronicle
+  .com/news/2013/
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNN185RV9kVHhfRzFaMk02bFhhTjdvXzNON3ZBT0gwOVF3SWhhWlFublJCTGVhdURJcDNkU2loalB5TVIySUthSDhmNmpZZlR5a2dlVXZlOUZGTTlfMGZaQjFrRVRRY2xZQTllVXRRMExnYTNQeXJpa1psNmxxZklrakFLbS0ybUpSMGlPTkExQlZMTGNPa201ZFFiN0prb1BHVWNoZ0J5b2dTaWZ4bGN6TE1mTVRmVTd4UEHSAb8BQVVfeXFMT0pxaTVQMTJGX20yb0NVTEtpVHh6TnJNQzVEX0hzOW5Yb0xqUHd5QmVzaFNrclhiMEJmT0RoSzFMVEFUd01YR01LYlFtYUVJbHpFeU5nQmNpdzFyS3VtOXJaalc1WnE3MHdscjNmZDVzTXhzbDRjM3VVVk9MbkRVTW9ZeVVnVFlCenlPUms3ZWR2SVd4ZXBwOTBXTWJRcTdYc2ZPZGJuRkU1dkx4Z0xsNC1qbHZwLUd6cGFpS0lsa28?oc=5
 
 
-_Last updated: 2026-04-19 07:15:39 UTC_
+_Last updated: 2026-04-19 12:55:30 UTC_
