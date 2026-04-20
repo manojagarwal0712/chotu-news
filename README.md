@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Space traffic rises: Isro performed record 140 collision-avoidance manoeuvres in 2025
+- Summer Special Trains 2026: Indian Railways to run over 18,200 trips – check zone-wise data
   
-  🔗 https://indianexpress.com/article/india/isro-collision-avoidance-manoeuvres-2025-report-space-debris-nisar-10646171/
+  🔗 https://indianexpress.com/article/india/summer-special-trains-2026-indian-railways-to-run-over-18200-trips-check-zone-wise-data-10646525/
 
-- Udhampur bus accident: 15 killed, 20 others injured as bus rolls down hill in J&K’s Udhampur
+- Chips to ships: PM Modi and President Lee Unveil vision to double trade, launch ‘digital bridge’ between India and South Korea
   
-  🔗 https://indianexpress.com/article/india/bus-rolls-down-hill-in-jks-udhampur-many-killed-leaders-express-grief-10646146/
+  🔗 https://indianexpress.com/article/india/pm-modi-south-korea-president-lee-jae-myung-meeting-trade-digital-bridge-10646606/
 
-- India and Ukraine finalising enhanced security cooperation: Zelenskyy
+- CBI arrests DGCA official and Reliance executive in bribery case
   
-  🔗 https://indianexpress.com/article/india/zelenskyy-india-security-cooperation-rustem-umerov-ajit-doval-meeting-10645926/
+  🔗 https://indianexpress.com/article/india/cbi-arrests-dgca-official-and-reliance-executive-in-bribery-case-10646518/
 
-- YouTuber’s remarks on Goa’s patron saint: FIR filed, Sanatan Dharm Raksha Samiti apologises
+- ‘Wrongful deletion’ of 9.8 lakh names during pre-SIR exercise in Odisha, CEO orders strict verification
   
-  🔗 https://indianexpress.com/article/india/youtubers-goa-saint-fir-filed-sanatan-dharm-raksha-samiti-apologises-10645887/
+  🔗 https://indianexpress.com/article/india/odisha-ceo-orders-verification-wrongful-voter-list-deletion-98-lakh-names-10646446/
 
-- News Today Live Updates, 20 April | UP man arrested for offering namaz in middle of road, ‘disrupting traffic’
+- Fire at Rajasthan’s Pachpadra refinery day before PM Modi inauguration
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-04-20-2026-news-headlines-10645696/
+  🔗 https://indianexpress.com/article/india/fire-at-rajasthans-pachpadra-refinery-day-before-pm-modi-inauguration-10646498/
+
+- iPod, Under Armour shoes, and the joy of running
+  
+  🔗 https://indianexpress.com/article/technology/opinion-technology/ipod-under-armour-shoes-joy-of-running-10646393/
+
+- Vercel confirms data breach linked to third-party AI tool: All you need to know
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vercel-confirms-data-breach-ai-tool-all-you-need-to-know-10646331/
 
 - Blue Origin achieves first landing of reused New Glenn rocket booster but satellite misses orbit
   
@@ -32,56 +40,56 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-security-agency-is-using-anthropics-mythos-despite-blacklist-report-10645793/
 
-- How ‘jagged intelligence’ can reframe the AI debate
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/how-jagged-intelligence-can-reframe-the-ai-debate-10645772/
+- Certus Capital to invest  ₹2000 cr in housing, mixed-use projects in FY27
+  Investments in Indian real estate to hit $14.3 billion in 2025, up 25% year
+  🔗 https://www.livemint.com/companies/news/certus-capital-to-invest-rs-2000-cr-in-housing-office-mixed-use-projects-in-fy27-11776674094112.html
 
-- Google in talks with Marvell to build new AI chips: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-in-talks-with-marvell-to-build-new-ai-chips-report-10645770/
+- Women take the lead in whiskey as more female drinkers and distillers change the industry
+  Women take the lead in whiskey as more female drinkers
+  🔗 https://www.livemint.com/companies/women-take-the-lead-in-whiskey-as-more-female-drinkers-and-distillers-change-the-industry-11776683601197.html
 
-- UniCredit CEO says restructuring at Commerzbank inevitable without change of course
-  UniCredit CEO says restructuring at Commerzbank '
-  🔗 https://www.livemint.com/companies/unicredit-ceo-says-restructuring-at-commerzbank-inevitable-without-change-of-course-11776670965307.html
+- JAL insolvency case: Lenders flag ‘leak’ that may have aided Vedanta bid
+  Vedanta submitted a revised bid with improved net present value and equity infusion, which was rejected
+  🔗 https://www.livemint.com/companies/news/jaiprakash-associates-insolvency-case-vedanta-vs-adani-nclat-11776658682519.html
 
-- Tata Trusts move to allow non-Zoroastrians won’t validate current trustees: Mehli Mistry
-  Mistry also said allowing non-Zoro
-  🔗 https://www.livemint.com/companies/news/tata-trusts-move-to-allow-non-zoroastrians-won-t-validate-current-trustees-mehli-mistry-11776660685648.html
+- Vedanta vs Adani: Jaiprakash case may test limits of ‘commercial wisdom’
+  Lawyers say the Anil Agarwal-led Vedanta's challenge is serious and, if successful, could force lenders to better explain their decisions
+  🔗 https://www.livemint.com/companies/vedanta-vs-adani-jaiprakash-case-may-test-limits-commercial-wisdom-jal-insolvency-11776672242787.html
 
-- Ads on tap: Why Jaquar still values old-school marketing in the age of AI
-  The bath fittings and lighting giant is leveraging AI for insights and footfall. It remains wary of ‘plastic’ generative visuals
-  🔗 https://www.livemint.com/companies/ads-on-tap-why-jaquar-still-values-old-school-marketing-in-the-age-of-ai-lighting-bath-fittings-11775063377993.html
+- Alivaa Hotels bets on unbranded market for growth to 80 properties by FY27; seeks to raise $4 million
+  Alivaa Hotels is capitalizing on India's unbranded hotel market by franchising small properties. The company aims for 80 operational hotels
+  🔗 https://www.livemint.com/companies/news/alivaa-hotels-unbranded-hotels-80-properties-fundraising-plan-ananta-capital-hotel-room-inventory-romesh-koul-11776662395873.html
 
-- Tata Trusts affirms its faith in the CEO; it will review restrictive clauses that limit eligibility in the smaller trust
-  Tata Trusts said its ethos is inclusive, secular, all-encompassing, and focused on philanthropy and national
-  🔗 https://www.livemint.com/companies/tata-trusts-affirms-its-faith-in-ceo-siddharth-sharma-review-restrictive-clauses-limit-eligibility-in-smaller-trust-11776586031844.html
+- Vedanta demerger: Anil Agarwal-led mining major fixes May 1 as record date, announces share allotment details
+  Anil Agarwal-led mining major, Vedanta Limited, announced that its board has decided to make
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-anil-agarwal-led-mining-major-fixes-may-1-as-record-date-announces-share-allotment-details-11776686099701.html
 
-- Cognizant's board will oversee its AI usage
-  Cognizant's board of directors will monitor the use of
-  🔗 https://www.livemint.com/companies/news/cognizant-board-full-ai-oversight-it-services-company-india-11776588866546.html
+- US stock market today: S&amp;P 500, Nasdaq futures slide as US-Iran tensions flare; Brent jumps 8%
+  US stock futures are down 0.4% to 0.5% as tensions in the Middle East escalate. The US Navy's seizure of an Iranian vessel has renewed fears over
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-slide-as-us-iran-tensions-flare-brent-jumps-8-11776682738853.html
 
-- Stock market today: Nifty 50 breaks above 24,400 resistance; next stop 25,000?
-  Nifty 50 index hovers above the crucial resistance zone of 24,300 – 24,400. Analysts believe a sustained breakout above this range will be essential to strengthen bullish momentum.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-nifty-50-breaks-above-24-400-resistance-next-stop-25000-11776668944432.html
+- Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism
+  Bitcoin rose to the highest level since early February. Comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward
+  🔗 https://www.livemint.com/market/bitcoin-climbs-to-two-month-high-amid-middle-east-deal-optimism-11776684538965.html
 
-- IEX share price crashes 7.5% after this latest move by CERC. How to approach the stock now?
-  IEX share price slumped to the day's low of  ₹125.35 apiece in intraday deals. CERC
-  🔗 https://www.livemint.com/market/stock-market-news/iex-share-price-crashes-7-5-after-this-latest-move-by-cerc-how-to-approach-the-stock-now-11776668984087.html
+- Got extra cash to invest: Should you put it in an NFO? Check pros, cons and right approach to choose
+  An NFO is the first-time launch of a mutual fund scheme by an asset management company. It is the period during which investors can subscribe to the
+  🔗 https://www.livemint.com/market/stock-market-news/got-extra-cash-to-invest-should-you-put-it-in-an-nfo-check-pros-cons-and-right-approach-to-choose-11776683586599.html
 
-- India’s next midcap movers? 5 stocks flying below the radar
-  As India’s economy accelerates, these five midcap companies are scaling quietly
-  🔗 https://www.livemint.com/market/stock-market-news/dalmia-bharat-uno-minda-authum-investment-endurance-technologies-global-health-midcap-stocks-india-growth-11776662439197.html
+- Will rising costs stall Bajaj Consumer’s strong recovery?
+  The personal care major made an impressive comeback in FY26. Global headwind
+  🔗 https://www.livemint.com/market/mark-to-market/rising-costs-stall-bajaj-consumer-s-strong-recovery-global-headwinds-global-headwinds-11776676845182.html
 
-- Vinay Rajani of HDFC Sec suggests Action Construction Equipment, Moil shares to buy
-  By noon, Sensex rose 314.84 pts while Nifty 50 up by 98.85 points. Stock market opened slightly negative amid US-Iran negotiation uncertainties.
-  🔗 https://www.livemint.com/market/stock-market-news/vinay-rajani-of-hdfc-sec-suggests-action-construction-equipment-moil-shares-to-buy-11776666357935.html
+- I integrated Google Gemini into my daily workflow and saw real productivity gains
+  I integrated Google Gemini into my daily workflow to test if it actually saves time. Here’s what worked, what didn’t, and whether
+  🔗 https://www.livemint.com/technology/howusinggoogle-geminidailyimprovedmyproductivity-11776662972570.html
 
-- Multibagger stock Suzlon Energy share price declines after a 5-day rally: Should you buy now?
-  Suzlon Energy shares fell 2% on April 20 after a 20% surge in five sessions. The stock hit a low of  ₹51.85 despite a significant rise
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-suzlon-energy-share-price-declines-after-a-5-day-rally-should-you-buy-now-11776664255291.html
+- OnePlus Nord CE 6, Nord CE 6 Lite India launch date confirmed, battery, chipset and display details revealed
+  Oppo Nord CE 6 and Nord CE6 Lite will debut in India on 7 May at 12noon. The Oppo sub-brand has also confirmed
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce-6-nord-ce-6-lite-india-launch-date-confirmed-battery-chipset-and-display-details-revealed-11776672068463.html
 
 - How to reverse-engineer the perfect ChatGPT prompt, according to an MIT professor
-  Andrew Lo, director of MIT’s Laboratory for Financial Engineering recently revealed some key tips to get the best results out
+  Andrew Lo, director of MIT’s Laboratory for Financial Engineering, recently revealed some key tips to get the best results
   🔗 https://www.livemint.com/technology/tech-news/how-to-reverse-engineer-the-perfect-chatgpt-prompt-according-to-an-mit-professor-gemini-claude-ai-11776662638146.html
 
 - Has Apple already begun marketing Siri's big overhaul? Check hidden AI clues in WWDC 2026 poster
@@ -92,53 +100,45 @@
   Vercel has confirmed a data breach affecting its internal systems and attributed it to employee's Google
   🔗 https://www.livemint.com/technology/tech-news/vercel-data-leak-ceo-confirms-internal-breach-linked-to-ai-tool-as-hackers-claim-to-sell-stolen-data-for-2-million-11776650683210.html
 
-- Fintech CTO slams Anthropic over mass Claude suspensions, warns developers ‘never put all your eggs in one basket’
-  Anthropic suspended over 60 Claude AI accounts for Belo, a fintech startup. After over 15 hours, Anthropic restored access, citing a false positive.
-  🔗 https://www.livemint.com/technology/tech-news/fintech-cto-lashes-out-at-anthropic-over-mass-claude-suspensions-warns-developers-never-put-all-your-eggs-in-one-baske-11776645648438.html
+- Stock futures fall on renewed U.S.-Iran worries, but losses kept in check: Live updates - CNBC
+  Stock futures fall on renewed U.S.-Iran worries.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBESHRIalZfN1VtLUliX01CeXNnTWxkT2FIejZZLUdwSldmTU5RVWZEblI3NF9pRThDYWU0NmVySFBvMnFUaGVyZUlsZmpYLVl0QU9sZ1FFZmM2b0p2dFRhZnRpbVFYdmhzT3hMRFNpY2psR0ViMEpn0gF8QVVfeXFMT01MVnNaWkVWdElYUWlVcm42Rjc1ZmVzdU05bUFPRkZvbWo1RlJzTXU5U3NlMjI2R25GazlMdU1mUkRlNlBPNVRwZDBPS21hbEdzMHY0UUdnbVBsVERpaG8xb21hNzZ1SjVQMEJUcXFGeVh5R0MxQzh2Vy1NdA?oc=5
 
-- iPhone 18 Pro Max launching soon: New Cherry colour variant, price, processor and expected upgrades
-  The iPhone 18 Pro Max is expected to have a 6.9-inch display, A20 chip, and a 5,200 mAh battery. Leaks reveal potential color options
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launcing-soon-new-cherry-colour-variant-price-processor-and-expected-upgrades-11776564976589.html
+- Oil jumps, stocks pull back as Mideast ceasefire hangs in the balance - Reuters
+  Oil jumps, stocks pull back as Mideast
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDVhUHN1MnI4Rk5ZWTVfcXNRRkhYXzQ2ZlRRajF5eTdoTXBaMXQxVmkyVzBrakttangtMHlLSDNXRmlYc0w0ekxLTFJoYzBqeHBXRmVyVG5KLUcxaEdBM3V5R01jOVJUbkxjdVU2eGdjRkZvRkx1Z2FmcmNtYVZFeE9LeUNLQQ?oc=5
 
-- Groww Q4 Results: Net profit soars 122% YoY to Rs 686 crore; revenue jumps 87%
-  Groww Q4 Results: Revenue from
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q4-results-net-profit-soars-122-yoy-to-rs-686-crore-revenue-jumps-87/articleshow/130386122.cms
+- Stock Market Today: Futures Fall, Oil Surges as Middle East Tensions Rise; Trump Says US Will Attack Iran Infrastructure If It Doesn't Make Peace Deal - Investopedia
+  Stock Market Today: Futures Fall, Oil Surges as Middle East Tensions Rise. Trump Says US Will Attack
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWpjQ3FPNWZCazROeUpxbVZNU3hBTm1rZ2QxTklGMUNNYzJZSnVwWG5GMzY2ZmJKY2ZGR1I2a2FWT0otbGRIR1lKNC1sdnk1UUprMHpCdzhUVkJYc1dVUEpiUmlVYnhpMDcwUVNJNEZ1Qk5KWHp0SXZtTDZDMXAzS2Z3UUpGMmlvMmlCWlE0RXQ?oc=5
 
-- Markets near bottom, but volatility not over; buy in staggered manner: Sunil Subramaniam
-  Investors should focus on corporate guidance and sector-specific trends for future investment decisions. Markets are experiencing volatility due to global events. Experts advise investors to buy in small, staggered amounts.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-near-bottom-but-volatility-not-over-buy-in-staggered-manner-sunil-subramaniam/articleshow/130386133.cms
+- No IDs, no questions: acid flows freely in Delhi's neighbourhood markets - The Hindu
+  No IDs, no questions: acid flows freely in
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQS194VGoxZVV3QnNZNjJLVjlDQWZCM3ZGNGhjY3FzQ2VRRDFXTzNsN2hKTGlnTzh1Qk9fcnR0VldPV2doV3FMQ1NrNUM1a3ZtVUpRNTJvTXlvR2RGalY4T0tleHBSdlRLRDV1RTN6VDBzWkhoZW1BR0hZbjhBN2p0Z0phRmdUa2dpZUtrWUI1Vm44eC1sRThoQTVBdTBvZlZzbFpnSlpTcU9Hc2JKNmh6ckZBb01WOTVWQkE2SkRSak50UDczcV9aRUxB0gHQAUFVX3lxTE10VldUMGxwcG9WLWx5ZFVvcTl2MW1QZXhjc0xINGk0ZUU3bnFROFBrTEU3NUZwRW9FbXp6eENDb0VjU1hlX3VZUk0yMndzUTZaRVU5LXNaZ242LVhvRC1HaVNkWk9yQ0o5dGpFRjY3b29QRE4yVmNLQWw2OFVjRXlUNTVNd2VoblJUelJFb1BpbkE0R0J0WWJ5aG5KYVRROGFIWWl1R2xKRjQzbmdsRjFKUXpzcWpnN1dFc0hvMXF1dTY1Yll4eDliOWwxYk52OXM?oc=5
 
-- Lenskart shares tumble 5% amid online backlash over dress code row
-  Lenskart shares fell amid social media backlash over an alleged dress code restricting religious symbols. The controversy persisted despite clarification from CEO Pey
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-tumble-5-amid-boycott-calls-online-backlash-over-religious-dress-code-controversy/articleshow/130385860.cms
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends marginally higher, Nifty above 24,350; JSW... - The Economic Times
+  The Sensex ends marginally higher, Nifty above 24,350; JSW...
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNUTJsd0hIdGxWS0NLYzdCM0hOMEFnM2ZoNEo3Uzg5VHcwS21Kd3NxWTBDNTgyc3BaQzBXSEVvM3BEZW1RM2RsaHBWUUxZRG9vb0NZQmVBbk5fTHd5aGpyVzJ5OGZzY1ItNTBzRExqbkxpX1pUdl9YMGZBU2J3SkF3Z1RVTHNtZEdBNHAzZjlGakg0ZE41RFdCUW1kUFhxeFdlbU80dnNyX01HN2d0U1Btb2tZX2VQVXJYSU0wU2pKc19GajRwejN5S3dfcHhPb2p2dUY3XzRXREswSlpjUTlZTk00RklsTHlnWmEtNkNsa2lJOW1VVzhUdUxoQ2d3WWVadExCMFpSYkdUVVRydUpUajlB0gGXAkFVX3lxTE91THZZM2pIMEFRQ05XMmVTNldldWVhR2VkWDJoX0lMdE5NUTB3WEw0NDZ1Ql9tMHZ6a2ZZaWpRWGdUYWRTM0lOb0JXWGlFSzItMUdrNi1hMHQyVk9raUw3NHExTUtvNFFwNE1KaXNHQjdfSnd6aDNGLVI2eVJEZTc0ZERkY3lBdTBDV1ljUXFySUQ3RzRTdmpyWXQ4cXpsejVqSW5WaV82d1l4R3hVbXk3R0VGVDFLRUlYMlBFX24zMGhHY2F6R3NBbEp6TlB0ZTUzelY0YVBXMHZhVXlVTlNNLU1ITnpwdTZNdGx4T3pzeFgtU0tLR3lrRENuQ1lMeVo1NGVucnNuMkVvUUJrQWg4RnF4Y0Z3Yw?oc=5
 
-- Why is stock market rising today? Sensex jumps 400 points, Nifty above 24,450. 5 key factors explained
-  Sensex and Nifty gained around 0.5%, while broader markets also moved into positive territory led by PSU banks and midcap stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-rising-today-sensex-jumps-400-points-nifty-above-24450-5-key-factors-explained/articleshow/130385841.cms
+- Vedanta announces demerger record date, shareholders to get 1:1 shares in new entities
+  Vedanta's board has approved May 1, 2026, as the effective and record date for its demerger. Shareholders will receive shares in newly carved-out businesses, including aluminium, power,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-record-date-shareholders-to-get-11-shares-in-new-entities/articleshow/130392744.cms
 
-- JPMorgan finds Reliance Industries share valuation comfortable but flags O2C as uncertain spot
-  JPMorgan maintains an Overweight rating on Reliance Industries. Near-term outlook for oil-to-chemicals business remains uncertain. Retail valuation upside also offers potential gains.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-finds-reliance-industries-share-valuation-comfortable-but-flags-o2c-as-uncertain-spot/articleshow/130382645.cms
+- Quote of the day by Warren Buffett: “You should never test the depth of the water with both feet.”
+  Warren Buffett's advice to "never test the depth of the water with both feet" emphasizes cautious, gradual investment. This strategy involves phased entries, diversification, and thorough analysis.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-you-should-never-test-the-depth-of-the-water-with-both-feet-/articleshow/130392308.cms
 
-- 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
-  The two countries have signed a pact to share military bases
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTFzV1h0Q3dZc1pBWDV2dzJrRVBDSzd6SlZGbXZ2aVFTQ2U2RGVxQ202RGF3Q3kwQ0tJSHQ2NW45eXFlRm9lVEd5OEdnRVo2dDJfRmh5aU5fbjZ2ZVlvZU9pSlZaT1F0US1UNS1LNE03R0NaLTU1X29PR0VSY3ZHLUNMSUMxNF96amo2Vkl4VHhxZW5FME1LTl91RmlLSC0wTVN1Tk9LSTl1M0ZPSXVidUZJNm3SAbwBQVVfeXFMTnhzYUp6NE1BZG1ORjhFSS1tOEFheDY0TFdQQ09oR0xRN0EzOUM3QVc3dk9lZjdrOG9tWGQ5M29ZRzlkWHJvaEVaZ1hyNS1wZlluaXBoSjl4ZDFJLTRlOWFjaXZYZUMtZ1RfVndubjQtTTVCb1poRlF5b3JHY2hhaTlfQkdJOXkxbzFaZnVsTEdGcjBDVjVvLUtyV2FnbUhoaWVPcEpsS2FUSFh5UnUyaXBmLWhPdHQzRDcyaDg?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures fall after rally as Mideast tensions flare
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-federal-reserve-ai-tech-stock-price-news/liveblog/130392480.cms
 
-- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
-  Ex-union minister Dinesh Trivedi to be India's next ambassador to
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
+- Insurance firms boost stakes in 10 mid-cap stocks in Q4FY26
+  Insurance companies increased their stakes in 10 mid-cap stocks in Q4FY26
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/insurance-firms-boost-stakes-in-10-mid-cap-stocks-in-q4fy26/slideshow/130392463.cms
 
-- Breaking news live updates: France summons Elon Musk over X probe - The Times of India
-  The Times of India is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0N2aDE5MC1uMk5jQTVzSDltZkdSbnJ5YjEyNUhWUGhmZVJXTkFQWUthdjZPTk1WUlRoNVd3dl8xRFlyR1Bjb1Y1ckt4LUEwekcwcnl4TUl2UDRfUmtPYmJmdzZGUUhvRFRyTzBNdHZFTV82ekNOLWJJeHFabzJwYWE4Y0R0NlE2RTRrUkVnNDJqX1g3MHZiMlVNMkNGRkVvd1RtdnF5c09Ka1ctZFVWb0l6ZG1xd3NGUm9ySUtqMjNNWmNyeXo5SkZn0gHPAUFVX3lxTE9NZlhyNVZjNGNFN0pHcVJvMURLOFVvb08tV09BTmNHNEJxaTZKT0hTOTZKNUg4SUZ3bVBNbkR6LUhCczRzUGRtMERpTGRwQ0JLMVZwdF9sVlVfWkUxQUtBMDVfcHlMWEY5anNSYk1pRGhqaVRFZDZld1FzYm41UU1sOEFCUzNETnVXVUVoY2FyV3RHNDN1TEZvTS1NeE9YRzBhSHBRbEh2d0dUMTgxM2ZNWHhTSE5TZUUzT2RtVjk3WGwzWHRqdTdDMHVXOVZPRQ?oc=5
-
-- India gets first advanced 3D chip packaging plant, Intel helping it set up in Odisha - India Today
-  India gets first advanced 3D chip packaging plant. Intel helping it set
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcVAwMXBLcDZaTVNFSGJYb2NMbHZZdDFXM0NTeFdUYTgyOGxLLVhLRmxDeVhaRkdjeFo4RnV1OFA5MHk2enFVNnF3WHNWT28wZFRKcTR0SXMwR0Fya1p3MWdFMTVOMHgwV1BhdlhtVGk5ZjNBZ0h5VldKOHlleERKcnhBNVNSczBDNjh1SENXX3RqWFFLSUx0NjVRSU0zbXQwdkRsdm52Q3hzbFJlS2JZZUpLMEpaWGZwYUlEb3UtaVFvUlI2VUt4THN4eHkteEtzWVptQmNKRmJTWEJtMUNWLXVBV3jSAeoBQVVfeXFMUFRGd2N5YzVIMC1PLWVNdEkxZWpnVU4xeHpTNEhxUUdDZHlpZ1F1RkRvZ1dlYlp6S3BiZHlIalI1Z3RORWxtYVZKMEt2MFJVVHVmaGtBLWJ6eGJ1c2dBR0RaY2xkdmw3Tjd5dWpBSGl3cC0xYzZTVE5weGJrUnZoS09Zbm1PLUtnYUdfSGRPN3dla0ZUakJoT0JxTTNjS0lFTW5zbmhVNkM2UkZFVWVOeXA3di1wczZxQUNmY0h1M1VPTFJTeXhCdzZkMlpWaDQtUFJQVmt0U1E2NGl4eTE0ODROWXZ4dUxhTFdR?oc=5
-
-- News On AIR | April 20, 2026 12:47 PM - News On AIR
-  News On AIR is produced and presented by CNN
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMGM5TmN1UjJ0WmloNGlldWE0NGlhdUN4aFpLTzBPeDFYbENLOUVWNS1sRFBwaU9RVkxqWWhFUWVDbml1SWxVNU96dVp4M2FDV2E3Z1Y0TXp3bzRIQ0VOWEVfUHlyOUhlaXpjVFBMb0hZc0FZQXY4VGJMNkozWlM2ZzVkLXQza3I4OTNYUmM5WlhuMUZrWXhFNGU1dG84aVdWUG5LeUdWbERpTkdkajZLd25OeHpkUmV4NGxtSlRzb0Qwa3pqU3VQemtrY3RXcGtCVElqZGdQWG9wWXJzMXZuTjV3?oc=5
+- Gainers &amp; Losers: Trent and Yes Bank among 7 big movers on Monday
+  Trent, Adani Power, Deccan Gold Mines and IEX among the top movers. Lenskart and Yes
+  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-trent-and-yes-bank-among-7-big-movers-on-monday/slideshow/130391968.cms
 
 - 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
   The two countries have signed a pact to share military bases
@@ -148,17 +148,17 @@
   Ex-union minister Dinesh Trivedi to be India's next ambassador to
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Breaking news live updates: France summons Elon Musk over X probe - The Times of India
-  The Times of India is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0N2aDE5MC1uMk5jQTVzSDltZkdSbnJ5YjEyNUhWUGhmZVJXTkFQWUthdjZPTk1WUlRoNVd3dl8xRFlyR1Bjb1Y1ckt4LUEwekcwcnl4TUl2UDRfUmtPYmJmdzZGUUhvRFRyTzBNdHZFTV82ekNOLWJJeHFabzJwYWE4Y0R0NlE2RTRrUkVnNDJqX1g3MHZiMlVNMkNGRkVvd1RtdnF5c09Ka1ctZFVWb0l6ZG1xd3NGUm9ySUtqMjNNWmNyeXo5SkZn0gHPAUFVX3lxTE9NZlhyNVZjNGNFN0pHcVJvMURLOFVvb08tV09BTmNHNEJxaTZKT0hTOTZKNUg4SUZ3bVBNbkR6LUhCczRzUGRtMERpTGRwQ0JLMVZwdF9sVlVfWkUxQUtBMDVfcHlMWEY5anNSYk1pRGhqaVRFZDZld1FzYm41UU1sOEFCUzNETnVXVUVoY2FyV3RHNDN1TEZvTS1NeE9YRzBhSHBRbEh2d0dUMTgxM2ZNWHhTSE5TZUUzT2RtVjk3WGwzWHRqdTdDMHVXOVZPRQ?oc=5
+- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
+  Northwest, central, adjoining east India to witness heatwave conditions
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
 
-- India gets first advanced 3D chip packaging plant, Intel helping it set up in Odisha - India Today
-  India gets first advanced 3D chip packaging plant. Intel helping it set
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcVAwMXBLcDZaTVNFSGJYb2NMbHZZdDFXM0NTeFdUYTgyOGxLLVhLRmxDeVhaRkdjeFo4RnV1OFA5MHk2enFVNnF3WHNWT28wZFRKcTR0SXMwR0Fya1p3MWdFMTVOMHgwV1BhdlhtVGk5ZjNBZ0h5VldKOHlleERKcnhBNVNSczBDNjh1SENXX3RqWFFLSUx0NjVRSU0zbXQwdkRsdm52Q3hzbFJlS2JZZUpLMEpaWGZwYUlEb3UtaVFvUlI2VUt4THN4eHkteEtzWVptQmNKRmJTWEJtMUNWLXVBV3jSAeoBQVVfeXFMUFRGd2N5YzVIMC1PLWVNdEkxZWpnVU4xeHpTNEhxUUdDZHlpZ1F1RkRvZ1dlYlp6S3BiZHlIalI1Z3RORWxtYVZKMEt2MFJVVHVmaGtBLWJ6eGJ1c2dBR0RaY2xkdmw3Tjd5dWpBSGl3cC0xYzZTVE5weGJrUnZoS09Zbm1PLUtnYUdfSGRPN3dla0ZUakJoT0JxTTNjS0lFTW5zbmhVNkM2UkZFVWVOeXA3di1wczZxQUNmY0h1M1VPTFJTeXhCdzZkMlpWaDQtUFJQVmt0U1E2NGl4eTE0ODROWXZ4dUxhTFdR?oc=5
+- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
+  India in ‘extremely high’ doping
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
 
-- News On AIR | April 20, 2026 12:47 PM - News On AIR
-  News On AIR is produced and presented by CNN
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMGM5TmN1UjJ0WmloNGlldWE0NGlhdUN4aFpLTzBPeDFYbENLOUVWNS1sRFBwaU9RVkxqWWhFUWVDbml1SWxVNU96dVp4M2FDV2E3Z1Y0TXp3bzRIQ0VOWEVfUHlyOUhlaXpjVFBMb0hZc0FZQXY4VGJMNkozWlM2ZzVkLXQza3I4OTNYUmM5WlhuMUZrWXhFNGU1dG84aVdWUG5LeUdWbERpTkdkajZLd25OeHpkUmV4NGxtSlRzb0Qwa3pqU3VQemtrY3RXcGtCVElqZGdQWG9wWXJzMXZuTjV3?oc=5
+- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
+  The Indian Express reported that a minor victim’s statement was recorded in Am
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
 
 - 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
   The two countries have signed a pact to share military bases
@@ -168,17 +168,37 @@
   Ex-union minister Dinesh Trivedi to be India's next ambassador to
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Breaking news live updates: France summons Elon Musk over X probe - The Times of India
-  The Times of India is a leading newspaper in India.
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0N2aDE5MC1uMk5jQTVzSDltZkdSbnJ5YjEyNUhWUGhmZVJXTkFQWUthdjZPTk1WUlRoNVd3dl8xRFlyR1Bjb1Y1ckt4LUEwekcwcnl4TUl2UDRfUmtPYmJmdzZGUUhvRFRyTzBNdHZFTV82ekNOLWJJeHFabzJwYWE4Y0R0NlE2RTRrUkVnNDJqX1g3MHZiMlVNMkNGRkVvd1RtdnF5c09Ka1ctZFVWb0l6ZG1xd3NGUm9ySUtqMjNNWmNyeXo5SkZn0gHPAUFVX3lxTE9NZlhyNVZjNGNFN0pHcVJvMURLOFVvb08tV09BTmNHNEJxaTZKT0hTOTZKNUg4SUZ3bVBNbkR6LUhCczRzUGRtMERpTGRwQ0JLMVZwdF9sVlVfWkUxQUtBMDVfcHlMWEY5anNSYk1pRGhqaVRFZDZld1FzYm41UU1sOEFCUzNETnVXVUVoY2FyV3RHNDN1TEZvTS1NeE9YRzBhSHBRbEh2d0dUMTgxM2ZNWHhTSE5TZUUzT2RtVjk3WGwzWHRqdTdDMHVXOVZPRQ?oc=5
+- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
+  Northwest, central, adjoining east India to witness heatwave conditions
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
 
-- India gets first advanced 3D chip packaging plant, Intel helping it set up in Odisha - India Today
-  India gets first advanced 3D chip packaging plant. Intel helping it set
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcVAwMXBLcDZaTVNFSGJYb2NMbHZZdDFXM0NTeFdUYTgyOGxLLVhLRmxDeVhaRkdjeFo4RnV1OFA5MHk2enFVNnF3WHNWT28wZFRKcTR0SXMwR0Fya1p3MWdFMTVOMHgwV1BhdlhtVGk5ZjNBZ0h5VldKOHlleERKcnhBNVNSczBDNjh1SENXX3RqWFFLSUx0NjVRSU0zbXQwdkRsdm52Q3hzbFJlS2JZZUpLMEpaWGZwYUlEb3UtaVFvUlI2VUt4THN4eHkteEtzWVptQmNKRmJTWEJtMUNWLXVBV3jSAeoBQVVfeXFMUFRGd2N5YzVIMC1PLWVNdEkxZWpnVU4xeHpTNEhxUUdDZHlpZ1F1RkRvZ1dlYlp6S3BiZHlIalI1Z3RORWxtYVZKMEt2MFJVVHVmaGtBLWJ6eGJ1c2dBR0RaY2xkdmw3Tjd5dWpBSGl3cC0xYzZTVE5weGJrUnZoS09Zbm1PLUtnYUdfSGRPN3dla0ZUakJoT0JxTTNjS0lFTW5zbmhVNkM2UkZFVWVOeXA3di1wczZxQUNmY0h1M1VPTFJTeXhCdzZkMlpWaDQtUFJQVmt0U1E2NGl4eTE0ODROWXZ4dUxhTFdR?oc=5
+- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
+  India in ‘extremely high’ doping
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
 
-- News On AIR | April 20, 2026 12:47 PM - News On AIR
-  News On AIR is produced and presented by CNN
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMGM5TmN1UjJ0WmloNGlldWE0NGlhdUN4aFpLTzBPeDFYbENLOUVWNS1sRFBwaU9RVkxqWWhFUWVDbml1SWxVNU96dVp4M2FDV2E3Z1Y0TXp3bzRIQ0VOWEVfUHlyOUhlaXpjVFBMb0hZc0FZQXY4VGJMNkozWlM2ZzVkLXQza3I4OTNYUmM5WlhuMUZrWXhFNGU1dG84aVdWUG5LeUdWbERpTkdkajZLd25OeHpkUmV4NGxtSlRzb0Qwa3pqU3VQemtrY3RXcGtCVElqZGdQWG9wWXJzMXZuTjV3?oc=5
+- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
+  The Indian Express reported that a minor victim’s statement was recorded in Am
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
+
+- 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
+  The two countries have signed a pact to share military bases
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTFzV1h0Q3dZc1pBWDV2dzJrRVBDSzd6SlZGbXZ2aVFTQ2U2RGVxQ202RGF3Q3kwQ0tJSHQ2NW45eXFlRm9lVEd5OEdnRVo2dDJfRmh5aU5fbjZ2ZVlvZU9pSlZaT1F0US1UNS1LNE03R0NaLTU1X29PR0VSY3ZHLUNMSUMxNF96amo2Vkl4VHhxZW5FME1LTl91RmlLSC0wTVN1Tk9LSTl1M0ZPSXVidUZJNm3SAbwBQVVfeXFMTnhzYUp6NE1BZG1ORjhFSS1tOEFheDY0TFdQQ09oR0xRN0EzOUM3QVc3dk9lZjdrOG9tWGQ5M29ZRzlkWHJvaEVaZ1hyNS1wZlluaXBoSjl4ZDFJLTRlOWFjaXZYZUMtZ1RfVndubjQtTTVCb1poRlF5b3JHY2hhaTlfQkdJOXkxbzFaZnVsTEdGcjBDVjVvLUtyV2FnbUhoaWVPcEpsS2FUSFh5UnUyaXBmLWhPdHQzRDcyaDg?oc=5
+
+- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
+  Ex-union minister Dinesh Trivedi to be India's next ambassador to
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
+
+- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
+  Northwest, central, adjoining east India to witness heatwave conditions
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
+
+- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
+  India in ‘extremely high’ doping
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
+
+- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
+  The Indian Express reported that a minor victim’s statement was recorded in Am
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-20 08:01:59 UTC_
+_Last updated: 2026-04-20 13:23:22 UTC_
