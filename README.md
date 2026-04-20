@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Summer Special Trains 2026: Indian Railways to run over 18,200 trips – check zone-wise data
+- Omar questions Centre’s ‘right time’ for J&K statehood, flags delay after 3-step promise
   
-  🔗 https://indianexpress.com/article/india/summer-special-trains-2026-indian-railways-to-run-over-18200-trips-check-zone-wise-data-10646525/
+  🔗 https://indianexpress.com/article/india/omar-abdullah-nowshera-rally-jammu-kashmir-statehood-bjp-promises-10646967/
 
-- Chips to ships: PM Modi and President Lee Unveil vision to double trade, launch ‘digital bridge’ between India and South Korea
+- CBI arrests two RCOM senior executives in bank fraud case
   
-  🔗 https://indianexpress.com/article/india/pm-modi-south-korea-president-lee-jae-myung-meeting-trade-digital-bridge-10646606/
+  🔗 https://indianexpress.com/article/india/cbi-arrests-two-rcom-senior-executives-in-bank-fraud-case-10646986/
 
-- CBI arrests DGCA official and Reliance executive in bribery case
+- Nitish Kumar signals continued control as JD(U) recalibrates after power shift to BJP
   
-  🔗 https://indianexpress.com/article/india/cbi-arrests-dgca-official-and-reliance-executive-in-bribery-case-10646518/
+  🔗 https://indianexpress.com/article/india/nitish-kumar-jdu-meeting-nishant-kumar-consensus-leader-bihar-bjp-10646933/
 
-- ‘Wrongful deletion’ of 9.8 lakh names during pre-SIR exercise in Odisha, CEO orders strict verification
+- 2020 Delhi riots: SC dismisses Umar Khalid’s plea seeking review of order denying him bail
   
-  🔗 https://indianexpress.com/article/india/odisha-ceo-orders-verification-wrongful-voter-list-deletion-98-lakh-names-10646446/
+  🔗 https://indianexpress.com/article/india/2020-delhi-riots-sc-dismisses-umar-khalid-plea-bail-10646880/
 
-- Fire at Rajasthan’s Pachpadra refinery day before PM Modi inauguration
+- Railways revises timings of Mumbai-Hazur Sahib Nanded Vande Bharat train: Check new schedule
   
-  🔗 https://indianexpress.com/article/india/fire-at-rajasthans-pachpadra-refinery-day-before-pm-modi-inauguration-10646498/
+  🔗 https://indianexpress.com/article/india/railways-revises-timings-of-mumbai-hazur-sahib-nanded-vande-bharat-train-check-new-schedule-10646659/
 
 - iPod, Under Armour shoes, and the joy of running
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-security-agency-is-using-anthropics-mythos-despite-blacklist-report-10645793/
 
-- Certus Capital to invest  ₹2000 cr in housing, mixed-use projects in FY27
-  Investments in Indian real estate to hit $14.3 billion in 2025, up 25% year
-  🔗 https://www.livemint.com/companies/news/certus-capital-to-invest-rs-2000-cr-in-housing-office-mixed-use-projects-in-fy27-11776674094112.html
+- Rick Perry’s Fermi Is Undermining the AI Energy Thesis
+  The Fermi Paradox asks why, given the vastness of the universe, there is no hard evidence of aliens. The paradox asks why Rick Perry’s AI-energy firm hasn’t obtained a
+  🔗 https://www.livemint.com/companies/rick-perry-s-fermi-is-undermining-the-ai-energy-thesis-11776709863556.html
 
-- Women take the lead in whiskey as more female drinkers and distillers change the industry
-  Women take the lead in whiskey as more female drinkers
-  🔗 https://www.livemint.com/companies/women-take-the-lead-in-whiskey-as-more-female-drinkers-and-distillers-change-the-industry-11776683601197.html
+- CBI arrests two RCOM senior officials in bank 'fraud' case
+  The two executives were important functionaries of the Reliance Communications group. They
+  🔗 https://www.livemint.com/companies/news/cbi-arrests-two-rcom-senior-officials-in-bank-fraud-case-11776704490644.html
 
-- JAL insolvency case: Lenders flag ‘leak’ that may have aided Vedanta bid
-  Vedanta submitted a revised bid with improved net present value and equity infusion, which was rejected
-  🔗 https://www.livemint.com/companies/news/jaiprakash-associates-insolvency-case-vedanta-vs-adani-nclat-11776658682519.html
+- Jack Daniel's owner eyeing shake-up? Decades-old distiller favours Pernod amid struggling US spirits market - Report
+  Brown-Forman could reportedly have a better route to market Jack Daniel’s in China and India. Pernod's
+  🔗 https://www.livemint.com/companies/news/jack-daniels-owner-eyeing-shake-up-decades-old-distiller-favours-pernod-amid-struggling-us-spirits-market-report-11776697837312.html
 
-- Vedanta vs Adani: Jaiprakash case may test limits of ‘commercial wisdom’
-  Lawyers say the Anil Agarwal-led Vedanta's challenge is serious and, if successful, could force lenders to better explain their decisions
-  🔗 https://www.livemint.com/companies/vedanta-vs-adani-jaiprakash-case-may-test-limits-commercial-wisdom-jal-insolvency-11776672242787.html
+- Postal Department revenue jumps 16% YoY to  ₹15,296 crore, says Union Minister Jyotiraditya Scindia — Check details
+  The Department of Post has registered an annual revenue of  ₹15,296 crore for FY26, up 16% YoY
+  🔗 https://www.livemint.com/companies/news/postal-department-revenue-jumps-16-yoy-to-rs-15-296-crore-says-union-minister-jyotiraditya-scindia-check-details-11776691560894.html
 
-- Alivaa Hotels bets on unbranded market for growth to 80 properties by FY27; seeks to raise $4 million
-  Alivaa Hotels is capitalizing on India's unbranded hotel market by franchising small properties. The company aims for 80 operational hotels
-  🔗 https://www.livemint.com/companies/news/alivaa-hotels-unbranded-hotels-80-properties-fundraising-plan-ananta-capital-hotel-room-inventory-romesh-koul-11776662395873.html
+- Testing the waters? Why Airtel is raising the tariff of a high-value prepaid plan
+  The telecom major’s latest price tweak may be a calculated gamble to gauge subscriber
+  🔗 https://www.livemint.com/companies/news/airtel-is-raising-tariff-of-a-high-value-859-prepaid-plan-valid-for-84-days-with-1-5-gb-of-data-per-day-11776688922902.html
 
-- Vedanta demerger: Anil Agarwal-led mining major fixes May 1 as record date, announces share allotment details
-  Anil Agarwal-led mining major, Vedanta Limited, announced that its board has decided to make
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-anil-agarwal-led-mining-major-fixes-may-1-as-record-date-announces-share-allotment-details-11776686099701.html
+- Wall St dips after rally as US-Iran tensions gauged
+  Wall St dips after rally as US
+  🔗 https://www.livemint.com/market/wall-st-dips-after-rally-as-us-iran-tensions-gauged-11776710602160.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures slide as US-Iran tensions flare; Brent jumps 8%
-  US stock futures are down 0.4% to 0.5% as tensions in the Middle East escalate. The US Navy's seizure of an Iranian vessel has renewed fears over
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-slide-as-us-iran-tensions-flare-brent-jumps-8-11776682738853.html
+- Nasdaq set to snap 13-day winning streak as oil rebounds, US-Iran tensions resurface
+  US tech stocks declined on 20 April amid renewed tensions between the US and Iran. Nasdaq 100 faced a potential end to its 13-day winning streak, while other indices also saw losses.
+  🔗 https://www.livemint.com/market/stock-market-news/nasdaq-set-to-snap-13-day-winning-streak-as-oil-rebounds-us-iran-tensions-resurface-11776705265184.html
 
-- Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism
-  Bitcoin rose to the highest level since early February. Comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward
-  🔗 https://www.livemint.com/market/bitcoin-climbs-to-two-month-high-amid-middle-east-deal-optimism-11776684538965.html
+- 680% rally in five years! Multibagger stock to be in focus on Tuesday; here's why
+  Godawari Power and Ispat Limited allotted 13.61 lakh equity shares.
+  🔗 https://www.livemint.com/market/stock-market-news/680-rally-in-five-years-multibagger-stock-to-be-in-focus-on-tuesday-heres-why-11776701671910.html
 
-- Got extra cash to invest: Should you put it in an NFO? Check pros, cons and right approach to choose
-  An NFO is the first-time launch of a mutual fund scheme by an asset management company. It is the period during which investors can subscribe to the
-  🔗 https://www.livemint.com/market/stock-market-news/got-extra-cash-to-invest-should-you-put-it-in-an-nfo-check-pros-cons-and-right-approach-to-choose-11776683586599.html
+- US airline stocks fall up to 6%; Delta, American, United take hit as oil prices rebound on renewed Middle East tensions
+  US airline stocks fell as crude oil prices rose due to escalating US-Iran tensions. Delta, American, United, and Southwest Airlines saw declines.
+  🔗 https://www.livemint.com/market/stock-market-news/us-airline-stocks-fall-up-to-6-as-crude-oil-prices-rebound-amid-renewed-tensions-in-middle-east-11776700326656.html
 
-- Will rising costs stall Bajaj Consumer’s strong recovery?
-  The personal care major made an impressive comeback in FY26. Global headwind
-  🔗 https://www.livemint.com/market/mark-to-market/rising-costs-stall-bajaj-consumer-s-strong-recovery-global-headwinds-global-headwinds-11776676845182.html
+- Gold, silver rates today: Comex gold slips $127/oz; silver falls $3/oz as US-Iran tensions revive inflation fears
+  COMEX gold dropped to $4,808 and silver to $78.71, reversing previous gains. US has escalated its military actions, raising inflation concerns and impacting precious metal investments.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-127-oz-silver-falls-3-oz-as-us-iran-tensions-revive-inflation-fears-11776691798791.html
+
+- AI transforming journalism; women journos can turn tech shift into opportunities: Brijesh Singh
+  Brijesh Singh is a journalist
+  🔗 https://www.livemint.com/technology/ai-transforming-journalism-women-journos-can-turn-tech-shift-into-opportunities-brijesh-singh-11776697861420.html
 
 - I integrated Google Gemini into my daily workflow and saw real productivity gains
   I integrated Google Gemini into my daily workflow to test if it actually saves time. Here’s what worked, what didn’t, and whether
@@ -96,109 +100,65 @@
   Apple will unveil iOS 27 at WWDC 2026 in June. A new report suggests that the company's WWDC teaser hints at the major
   🔗 https://www.livemint.com/technology/tech-news/has-apple-already-begun-marketing-siris-big-overhaul-check-hidden-ai-clues-in-wwdc-2026-poster-11776657964065.html
 
-- Vercel data leak: CEO confirms internal breach linked to AI tool as hackers claim to sell stolen data for $2 million
-  Vercel has confirmed a data breach affecting its internal systems and attributed it to employee's Google
-  🔗 https://www.livemint.com/technology/tech-news/vercel-data-leak-ceo-confirms-internal-breach-linked-to-ai-tool-as-hackers-claim-to-sell-stolen-data-for-2-million-11776650683210.html
+- Fermi stock drops sharply after CEO and CFO departures
+  U.S. power startup Fermi's shares plummeted 23% after CEO Toby Neugebauer and CFO Miles Everson abruptly departed. Short seller Fuzzy Panda Research alleged fraudulent transfers by Ne
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fermi-stock-drops-sharply-after-ceo-and-cfo-departures/articleshow/130400111.cms
 
-- Stock futures fall on renewed U.S.-Iran worries, but losses kept in check: Live updates - CNBC
-  Stock futures fall on renewed U.S.-Iran worries.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBESHRIalZfN1VtLUliX01CeXNnTWxkT2FIejZZLUdwSldmTU5RVWZEblI3NF9pRThDYWU0NmVySFBvMnFUaGVyZUlsZmpYLVl0QU9sZ1FFZmM2b0p2dFRhZnRpbVFYdmhzT3hMRFNpY2psR0ViMEpn0gF8QVVfeXFMT01MVnNaWkVWdElYUWlVcm42Rjc1ZmVzdU05bUFPRkZvbWo1RlJzTXU5U3NlMjI2R25GazlMdU1mUkRlNlBPNVRwZDBPS21hbEdzMHY0UUdnbVBsVERpaG8xb21hNzZ1SjVQMEJUcXFGeVh5R0MxQzh2Vy1NdA?oc=5
+- US Fed nominee Warsh commits to central bank's independence, with limits
+  Kevin Warsh, Donald Trump's nominee for Federal Reserve Chair, will assure lawmakers of his commitment to monetary policy independence. He also plans to address non-monetary Fed functions and push for reforms. Warsh
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-nominee-warsh-commits-to-central-banks-independence-with-limits/articleshow/130399521.cms
 
-- Oil jumps, stocks pull back as Mideast ceasefire hangs in the balance - Reuters
-  Oil jumps, stocks pull back as Mideast
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDVhUHN1MnI4Rk5ZWTVfcXNRRkhYXzQ2ZlRRajF5eTdoTXBaMXQxVmkyVzBrakttangtMHlLSDNXRmlYc0w0ekxLTFJoYzBqeHBXRmVyVG5KLUcxaEdBM3V5R01jOVJUbkxjdVU2eGdjRkZvRkx1Z2FmcmNtYVZFeE9LeUNLQQ?oc=5
+- Honeywell to sell productivity solutions unit to Brady for $1.4 billion
+  Honeywell is selling its productivity solutions and services unit to Brady for $1.4 billion. The move aims to streamline Honeywell's business footprint as it prepares to split into separate aerospace, automation, and advanced materials units.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/honeywell-to-sell-productivity-solutions-unit-to-brady-for-1-4-billion/articleshow/130398243.cms
 
-- Stock Market Today: Futures Fall, Oil Surges as Middle East Tensions Rise; Trump Says US Will Attack Iran Infrastructure If It Doesn't Make Peace Deal - Investopedia
-  Stock Market Today: Futures Fall, Oil Surges as Middle East Tensions Rise. Trump Says US Will Attack
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWpjQ3FPNWZCazROeUpxbVZNU3hBTm1rZ2QxTklGMUNNYzJZSnVwWG5GMzY2ZmJKY2ZGR1I2a2FWT0otbGRIR1lKNC1sdnk1UUprMHpCdzhUVkJYc1dVUEpiUmlVYnhpMDcwUVNJNEZ1Qk5KWHp0SXZtTDZDMXAzS2Z3UUpGMmlvMmlCWlE0RXQ?oc=5
+- BSE launches Housing Finance Index to track sectoral opportunities, enable passive investing
+  BSE Index Services introduced the Housing Finance Index to measure housing finance companies’ performance. Drawn from BSE 1000, it supports ETFs, mutual funds, PMS strategies, and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-housing-finance-index-to-track-sectoral-opportunities-enable-passive-investing/articleshow/130397312.cms
 
-- No IDs, no questions: acid flows freely in Delhi's neighbourhood markets - The Hindu
-  No IDs, no questions: acid flows freely in
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQS194VGoxZVV3QnNZNjJLVjlDQWZCM3ZGNGhjY3FzQ2VRRDFXTzNsN2hKTGlnTzh1Qk9fcnR0VldPV2doV3FMQ1NrNUM1a3ZtVUpRNTJvTXlvR2RGalY4T0tleHBSdlRLRDV1RTN6VDBzWkhoZW1BR0hZbjhBN2p0Z0phRmdUa2dpZUtrWUI1Vm44eC1sRThoQTVBdTBvZlZzbFpnSlpTcU9Hc2JKNmh6ckZBb01WOTVWQkE2SkRSak50UDczcV9aRUxB0gHQAUFVX3lxTE10VldUMGxwcG9WLWx5ZFVvcTl2MW1QZXhjc0xINGk0ZUU3bnFROFBrTEU3NUZwRW9FbXp6eENDb0VjU1hlX3VZUk0yMndzUTZaRVU5LXNaZ242LVhvRC1HaVNkWk9yQ0o5dGpFRjY3b29QRE4yVmNLQWw2OFVjRXlUNTVNd2VoblJUelJFb1BpbkE0R0J0WWJ5aG5KYVRROGFIWWl1R2xKRjQzbmdsRjFKUXpzcWpnN1dFc0hvMXF1dTY1Yll4eDliOWwxYk52OXM?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends marginally higher, Nifty above 24,350; JSW... - The Economic Times
-  The Sensex ends marginally higher, Nifty above 24,350; JSW...
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxNUTJsd0hIdGxWS0NLYzdCM0hOMEFnM2ZoNEo3Uzg5VHcwS21Kd3NxWTBDNTgyc3BaQzBXSEVvM3BEZW1RM2RsaHBWUUxZRG9vb0NZQmVBbk5fTHd5aGpyVzJ5OGZzY1ItNTBzRExqbkxpX1pUdl9YMGZBU2J3SkF3Z1RVTHNtZEdBNHAzZjlGakg0ZE41RFdCUW1kUFhxeFdlbU80dnNyX01HN2d0U1Btb2tZX2VQVXJYSU0wU2pKc19GajRwejN5S3dfcHhPb2p2dUY3XzRXREswSlpjUTlZTk00RklsTHlnWmEtNkNsa2lJOW1VVzhUdUxoQ2d3WWVadExCMFpSYkdUVVRydUpUajlB0gGXAkFVX3lxTE91THZZM2pIMEFRQ05XMmVTNldldWVhR2VkWDJoX0lMdE5NUTB3WEw0NDZ1Ql9tMHZ6a2ZZaWpRWGdUYWRTM0lOb0JXWGlFSzItMUdrNi1hMHQyVk9raUw3NHExTUtvNFFwNE1KaXNHQjdfSnd6aDNGLVI2eVJEZTc0ZERkY3lBdTBDV1ljUXFySUQ3RzRTdmpyWXQ4cXpsejVqSW5WaV82d1l4R3hVbXk3R0VGVDFLRUlYMlBFX24zMGhHY2F6R3NBbEp6TlB0ZTUzelY0YVBXMHZhVXlVTlNNLU1ITnpwdTZNdGx4T3pzeFgtU0tLR3lrRENuQ1lMeVo1NGVucnNuMkVvUUJrQWg4RnF4Y0Z3Yw?oc=5
-
-- Vedanta announces demerger record date, shareholders to get 1:1 shares in new entities
-  Vedanta's board has approved May 1, 2026, as the effective and record date for its demerger. Shareholders will receive shares in newly carved-out businesses, including aluminium, power,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-announces-demerger-record-date-shareholders-to-get-11-shares-in-new-entities/articleshow/130392744.cms
-
-- Quote of the day by Warren Buffett: “You should never test the depth of the water with both feet.”
-  Warren Buffett's advice to "never test the depth of the water with both feet" emphasizes cautious, gradual investment. This strategy involves phased entries, diversification, and thorough analysis.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-warren-buffett-you-should-never-test-the-depth-of-the-water-with-both-feet-/articleshow/130392308.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures fall after rally as Mideast tensions flare
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-federal-reserve-ai-tech-stock-price-news/liveblog/130392480.cms
-
-- Insurance firms boost stakes in 10 mid-cap stocks in Q4FY26
-  Insurance companies increased their stakes in 10 mid-cap stocks in Q4FY26
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/insurance-firms-boost-stakes-in-10-mid-cap-stocks-in-q4fy26/slideshow/130392463.cms
-
-- Gainers &amp; Losers: Trent and Yes Bank among 7 big movers on Monday
-  Trent, Adani Power, Deccan Gold Mines and IEX among the top movers. Lenskart and Yes
-  🔗 https://economictimes.indiatimes.com/markets/web-stories/gainers-amp-losers-trent-and-yes-bank-among-7-big-movers-on-monday/slideshow/130391968.cms
-
-- 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
-  The two countries have signed a pact to share military bases
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTFzV1h0Q3dZc1pBWDV2dzJrRVBDSzd6SlZGbXZ2aVFTQ2U2RGVxQ202RGF3Q3kwQ0tJSHQ2NW45eXFlRm9lVEd5OEdnRVo2dDJfRmh5aU5fbjZ2ZVlvZU9pSlZaT1F0US1UNS1LNE03R0NaLTU1X29PR0VSY3ZHLUNMSUMxNF96amo2Vkl4VHhxZW5FME1LTl91RmlLSC0wTVN1Tk9LSTl1M0ZPSXVidUZJNm3SAbwBQVVfeXFMTnhzYUp6NE1BZG1ORjhFSS1tOEFheDY0TFdQQ09oR0xRN0EzOUM3QVc3dk9lZjdrOG9tWGQ5M29ZRzlkWHJvaEVaZ1hyNS1wZlluaXBoSjl4ZDFJLTRlOWFjaXZYZUMtZ1RfVndubjQtTTVCb1poRlF5b3JHY2hhaTlfQkdJOXkxbzFaZnVsTEdGcjBDVjVvLUtyV2FnbUhoaWVPcEpsS2FUSFh5UnUyaXBmLWhPdHQzRDcyaDg?oc=5
+- PNB Housing Finance Q4 profit surges 19% to Rs 656 crore with strong retail growth
+  PNB Housing Finance reported a 19% rise in Q4 net profit to Rs 656 crore. FY26 profit grew 18% to Rs 2,291 crore. The company proposed Rs 8 per share dividend.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-finance-q4-profit-surges-19-to-rs-656-crore-with-strong-retail-growth/articleshow/130397271.cms
 
 - Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
   Ex-union minister Dinesh Trivedi to be India's next ambassador to
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
-  Northwest, central, adjoining east India to witness heatwave conditions
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
+- Op Mahadev: A Relentless Manhunt That Got Pahalgam Victims Justice - NDTV
+  Op Mahadev: A Relent
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUJzTjVZTHdvNmpDZjJVcU9mWWR4OEgtejlxdkpyZWFpVUx2d2ZNR3NUcUljRUN1Z0JFaFFrcWlaVzdvTFJLaU9XUmpiVUVpUzIxUlk3eWJWeFdZNnZUU3NBemFqSU1Bdm5SMnAxek9rR01Tc1NnUEVtQlFfQmdraXZvQW5jT0RRWHh0Ti1DUk51R0RncHJtOHNXNmcyNWpWdzJkTm1uaHI5Z9IBsgFBVV95cUxPQmZ5TE5aOHNiZkZqUU1JaWJhUWVYQkp5NVI1WlViTFk0ZGNZenNxQkk0MVhodzJPUUR2RXRROXpzZFc4NnRNenNsUWFNSkkwUVZzRmpzTkxoSy1hNFYtc1piRV8yTXplQm9FOUtzNWNHYXhiRGJ5RkQ1MG9seDdCUG13d2ZCRWM3ak4xb0M2Y2JrYUdDeU1FelItQlJqVk5wUmJ1SmZ2TEpId2Y3QTdfU21B?oc=5
 
-- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
-  India in ‘extremely high’ doping
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
+- Ahead of Pahalgam anniversary, security tightened in Kashmir Valley - The Times of India
+  Ahead of Pahalgam anniversary, security
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEZFcXQ0MDIwb0tIamRqS1ZuenFFRUZTOElMNi10SHdqTXFCTGlnM1Uza2hyUno0WS1yS28xRC1lTEo0ZElKUVZIbHJUZEEyU21YZjBUUlg2Y1dKdmtYVGdrRHBnQTh3QUJKNy1MSzRRdkVwZjhMZHZ5SEZTWkwzZEM1Y3p1ZnNHZTJ0clRCSDBxbC1JWTFnemZiMUI3LU03XzYzYUloWUVKM0pjRTJNQkE3TnI5RG5NQjNZUU0tQlYzcldnLWktR21ob0JTY0XSAdQBQVVfeXFMTk5NanFPN1RJczVWU1RaT0FURjEtbE9oNVlWMWc3N1RYRGdIbG9uMllYQ1owaVlESXYtMnhDNVktcjVsRHVYTFljckhQQ0FKNjhJUnhLTWVEOWVFTjdqSEtQNEI4VE95dmw2NENrLUhkTldOeGhkdlE3eEl0QTB6WTRocnBDOUpMeEt5WVNRa3prOXdQdllCOTlzM19mVEZHN3hWQ3JsNWxXM3JuTVJ2NmRBS2w3cUxLUkJadXVfay1hbGMwcnpxU29HUXhBdWJ3blN5TDk?oc=5
 
-- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
-  The Indian Express reported that a minor victim’s statement was recorded in Am
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
+- India is violating its obligations under international law: Francesca Albanese - The Hindu
+  India is violating its obligations under international law,
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
 
-- 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
-  The two countries have signed a pact to share military bases
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTFzV1h0Q3dZc1pBWDV2dzJrRVBDSzd6SlZGbXZ2aVFTQ2U2RGVxQ202RGF3Q3kwQ0tJSHQ2NW45eXFlRm9lVEd5OEdnRVo2dDJfRmh5aU5fbjZ2ZVlvZU9pSlZaT1F0US1UNS1LNE03R0NaLTU1X29PR0VSY3ZHLUNMSUMxNF96amo2Vkl4VHhxZW5FME1LTl91RmlLSC0wTVN1Tk9LSTl1M0ZPSXVidUZJNm3SAbwBQVVfeXFMTnhzYUp6NE1BZG1ORjhFSS1tOEFheDY0TFdQQ09oR0xRN0EzOUM3QVc3dk9lZjdrOG9tWGQ5M29ZRzlkWHJvaEVaZ1hyNS1wZlluaXBoSjl4ZDFJLTRlOWFjaXZYZUMtZ1RfVndubjQtTTVCb1poRlF5b3JHY2hhaTlfQkdJOXkxbzFaZnVsTEdGcjBDVjVvLUtyV2FnbUhoaWVPcEpsS2FUSFh5UnUyaXBmLWhPdHQzRDcyaDg?oc=5
-
-- Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
-  Ex-union minister Dinesh Trivedi to be India's next ambassador to
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
-
-- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
-  Northwest, central, adjoining east India to witness heatwave conditions
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
-
-- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
-  India in ‘extremely high’ doping
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
-
-- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
-  The Indian Express reported that a minor victim’s statement was recorded in Am
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
-
-- 3,000 Troops, 5 Ships: Key Pact Allows India, Russia To Share Military Bases - NDTV
-  The two countries have signed a pact to share military bases
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTFzV1h0Q3dZc1pBWDV2dzJrRVBDSzd6SlZGbXZ2aVFTQ2U2RGVxQ202RGF3Q3kwQ0tJSHQ2NW45eXFlRm9lVEd5OEdnRVo2dDJfRmh5aU5fbjZ2ZVlvZU9pSlZaT1F0US1UNS1LNE03R0NaLTU1X29PR0VSY3ZHLUNMSUMxNF96amo2Vkl4VHhxZW5FME1LTl91RmlLSC0wTVN1Tk9LSTl1M0ZPSXVidUZJNm3SAbwBQVVfeXFMTnhzYUp6NE1BZG1ORjhFSS1tOEFheDY0TFdQQ09oR0xRN0EzOUM3QVc3dk9lZjdrOG9tWGQ5M29ZRzlkWHJvaEVaZ1hyNS1wZlluaXBoSjl4ZDFJLTRlOWFjaXZYZUMtZ1RfVndubjQtTTVCb1poRlF5b3JHY2hhaTlfQkdJOXkxbzFaZnVsTEdGcjBDVjVvLUtyV2FnbUhoaWVPcEpsS2FUSFh5UnUyaXBmLWhPdHQzRDcyaDg?oc=5
+- India has splurged billions on metro trains. But where are the commuters? - BBC
+  India has splurged billions on metro trains.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZEVwWUNacTQzc21JcVFfT0E3X09jckRBS2Zadk01TnFvV1dBQk9pT3Vka1F3UHRKYk1WbjlZNmY3ZUdFa3BZd2dBWG1kZWJMSUNvT0ZtcF9FZw?oc=5
 
 - Ex-union minister Dinesh Trivedi to be India's next ambassador to Bangladesh as nations reset ties | India News - Hindustan Times
   Ex-union minister Dinesh Trivedi to be India's next ambassador to
   🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUFFkVzNqVnRGUnk2MUdNMnpSa3Z5MFRteVltV3FnbnFORUhmU2V4OG1lcllZZkZBRnJlU09NTU5sT1FDeXVuQ0c1TXBicndBVjMxamFuZ2xZT29Ec0hNNzhwak5zMkF3V0p3OHR1bUhfYVlZUzNFcFNoUWhZRUxWTjkySGttM1hBdDFUa3BqbHFaM2VyaWN5NjNvdmVvOUhLa0VSdmNjWlQ4UmFWaGdodDhxdi1uMHNZaklPYXBKWGxMenJwSW0ySWtyT2NHcklmVjd0SlM2YnhpcUM5bGYwektYNW5tQldHSUJ1elNhVWnSAfYBQVVfeXFMUHRBN2Z6dXJJOEpyZFFVYzZ3aDFpcXc4S1J3S0d1TEUySnM4NHp3VnpIZWkxRE1QaVk2NXE5VGhmTUpVMlg1bFhRSWF1STAyM0VkeE1TTmlMcHFUaUl5MlNac2QtMXFlTjdKQkpfSHVENVEwT3dmdklUblhJTVVPVHRfV3BKZjU2UERJUU56ZTFWM3N5Zk5KVTViY0lJTEtDOUVWT3B1d2RfcWx1T0NzZDlxMHVGMlFQQkRtY0RwNUJ4c2RGcE5CaWJiN2NSZE5oMzBkUHA5dHZ3YlJrOTV3Tk5XY0lsM0p4YWxfZGw5bnlwYVVwa19R?oc=5
 
-- Northwest, central, adjoining east India to witness heatwave conditions for next 4-5 days: IMD - The Hindu
-  Northwest, central, adjoining east India to witness heatwave conditions
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxObldqVk1Ud0piMDFHOWd4U042eFRpV2V6N3VCcGxMQVJ2RExXSE4yeDdEVVhMa1M4SS11SkQzUGxhVnY0aE9fZ2lDcXFHbGJlb1c3VU44a0kxSFIxNE5CWUcyakxYenF6d0YtUGF1NlE1T01sZUNCVWlDbEhtdW1MSTMta3NxTG1lSExGa1p0ZTFDenBIVjZXVWJFcWhSU3lPM0RQZ0toMmNOZDVwZjNCbGtGYVU1ZWZuVkJnTTNWT2VGNmJXY25kQm16dDRTNlUxYW10M3ZUYkVwazNpMlNnSGRwSjjSAesBQVVfeXFMTjRmNGVvRmlkQTRVZ09HWjB0czlhUWd3aTNacmFJLXZudlRtTHNuRUlvYUI5cEFPNHliZ2ItcHhZQVc4M3AtLUM4elREVjU0WFF6ZjNqMTFsdHVPam5DdXQyalA1dkQyaWJvRUszMlV3NTB1cUJFd190T1JNRTgwU2VlZ3BrVFdqRVJqb190dll1SWNGbGNXa2wzZWRILWZQbXJ3OXRoMXhuZllFUlFmd0pHYWgzYkliUnkxR21FUjE0NVE2UGZ5S1ZzYkNOTDlBYXB4cjluVEpkUkpuMlNCUkZPU3BSWkhHNWdDQQ?oc=5
+- Op Mahadev: A Relentless Manhunt That Got Pahalgam Victims Justice - NDTV
+  Op Mahadev: A Relent
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUJzTjVZTHdvNmpDZjJVcU9mWWR4OEgtejlxdkpyZWFpVUx2d2ZNR3NUcUljRUN1Z0JFaFFrcWlaVzdvTFJLaU9XUmpiVUVpUzIxUlk3eWJWeFdZNnZUU3NBemFqSU1Bdm5SMnAxek9rR01Tc1NnUEVtQlFfQmdraXZvQW5jT0RRWHh0Ti1DUk51R0RncHJtOHNXNmcyNWpWdzJkTm1uaHI5Z9IBsgFBVV95cUxPQmZ5TE5aOHNiZkZqUU1JaWJhUWVYQkp5NVI1WlViTFk0ZGNZenNxQkk0MVhodzJPUUR2RXRROXpzZFc4NnRNenNsUWFNSkkwUVZzRmpzTkxoSy1hNFYtc1piRV8yTXplQm9FOUtzNWNHYXhiRGJ5RkQ1MG9seDdCUG13d2ZCRWM3ak4xb0M2Y2JrYUdDeU1FelItQlJqVk5wUmJ1SmZ2TEpId2Y3QTdfU21B?oc=5
 
-- India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit - Al Jazeera
-  India in ‘extremely high’ doping
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHpYTGx0bEY1b2VSeTFlTXBLVmNRVFg0azE0YjdWMm1UOWZZNjFvdklnVDRxbWE0b3BUM0NDSUN2SmJTektzVVk4bnY1UWtYVEdDa21ZZnBqc2M1bFJqNFJZWVhHeV9jLW9sMHBGUGdqY1BBVVhXT2JQZS1EM1NaQTcwMnMzcnVWZkRXakVtUTJTenEtQ1Z0N01BY183c0oya2o4ZldacmpEdGlIZWtrTNIBtgFBVV95cUxNUVlEYnVGM1p3YnYycUNydVRLYmp3cU0xUklIUktDbTRJVWlpT2hvRUtBaG5PTTJBQU9scHRrN2IwV19XVnZ1LTlidENqTzNwcTV4d1ItUER5Q0VJRnRhSndOOFJ1dldKT2F3R25NY0pVd3lkVGlBblJGY1F2YkllUmxaTVQ4UUVZYlUxNm56cE9TbUdRWW5veVJBRk9sQmJPUDRCQTQtRkRIeTdvWF9vTTJMcENEdw?oc=5
+- Ahead of Pahalgam anniversary, security tightened in Kashmir Valley - The Times of India
+  Ahead of Pahalgam anniversary, security
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQaEZFcXQ0MDIwb0tIamRqS1ZuenFFRUZTOElMNi10SHdqTXFCTGlnM1Uza2hyUno0WS1yS28xRC1lTEo0ZElKUVZIbHJUZEEyU21YZjBUUlg2Y1dKdmtYVGdrRHBnQTh3QUJKNy1MSzRRdkVwZjhMZHZ5SEZTWkwzZEM1Y3p1ZnNHZTJ0clRCSDBxbC1JWTFnemZiMUI3LU03XzYzYUloWUVKM0pjRTJNQkE3TnI5RG5NQjNZUU0tQlYzcldnLWktR21ob0JTY0XSAdQBQVVfeXFMTk5NanFPN1RJczVWU1RaT0FURjEtbE9oNVlWMWc3N1RYRGdIbG9uMllYQ1owaVlESXYtMnhDNVktcjVsRHVYTFljckhQQ0FKNjhJUnhLTWVEOWVFTjdqSEtQNEI4VE95dmw2NENrLUhkTldOeGhkdlE3eEl0QTB6WTRocnBDOUpMeEt5WVNRa3prOXdQdllCOTlzM19mVEZHN3hWQ3JsNWxXM3JuTVJ2NmRBS2w3cUxLUkJadXVfay1hbGMwcnpxU29HUXhBdWJ3blN5TDk?oc=5
 
-- News Today Live Updates, 20 April | Minor victim’s statement recorded in Amravati explicit video case - The Indian Express
-  The Indian Express reported that a minor victim’s statement was recorded in Am
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMExOVWNKNlVNV2xONXh6T1JxOXFDdlpzSWRPZW1yalJWcm1oTG1vYVlQdWxkcXp2V2RMZkxpVWRDb1llYTJiR21Ed2lSTTY4OGNWYXdlT2w0TzgxYUMyVjlaUVgtUFJoX0FLcUdqNE0yVkdudTVtOVEzRUs2bS1SSVdqejVKQmV5TVRURG9JZlUtcEFmbjBBbzVzcmhUQlZjbnFmMGNZTTVSc29iN3pkZFlCM1RrUnM1ME1CWnhhUkFIM2dWRFZwVjFiSS12cmNwWl9CSDdvWDg4ZXQ0T3VUNDVvZEdsMHA40gHvAUFVX3lxTE5USi1CSnBremJDaFFZMUc3WUY5ZVBZM0U1ZjljU3liSVFnZk1JaEc4YVg5VWNUcGJEems4S2d3MUpjZ0RiNEhxMXZvX3dUcWRNOWNGTWpfX2NWWHNQTi1nUmNpZUVyX1dnX3lKQTdIc0R2N1FvdEdaemZkME5YWTk3Y3dnVmJacGZUTkRhdDVYeXpoN2FiVWN0TFZTSEsyUEVfbFl3c0lORmt6NjF1Y1QtM3RkZnVleWh2cnFTNzhwMXdsLWVCWnRnLVQyMFBQU1dnVUUydllPTVdSQnRXbTg2VHR2NUVVcXZleElkQkZz?oc=5
+- India is violating its obligations under international law: Francesca Albanese - The Hindu
+  India is violating its obligations under international law,
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
+
+- India has splurged billions on metro trains. But where are the commuters? - BBC
+  India has splurged billions on metro trains.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWZEVwWUNacTQzc21JcVFfT0E3X09jckRBS2Zadk01TnFvV1dBQk9pT3Vka1F3UHRKYk1WbjlZNmY3ZUdFa3BZd2dBWG1kZWJMSUNvT0ZtcF9FZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-20 13:23:22 UTC_
+_Last updated: 2026-04-20 19:01:23 UTC_
