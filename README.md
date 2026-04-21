@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Over 400 fall sick at wedding due to suspected food poisoning in Gujarat’s Dahod
+- Did a ‘missing’ 18-yr-old lay undiscovered for 10 months,10 km from home? Jharkhand family wants answers
   
-  🔗 https://indianexpress.com/article/india/gujarat-food-poisoing-wedding-dahod-kejriwal-demands-probe-10647716/
+  🔗 https://indianexpress.com/article/india/jharkhand-bokaro-missing-teenager-high-court-police-suspension-10648586/
 
-- Year after Pahalgam, a daughter remembers her ‘braveheart’ father, his lesson on staying calm
+- Wildlife board panel orders study on pastoralists’ dependence on forests inside national parks and sanctuaries
   
-  🔗 https://indianexpress.com/article/india/year-after-pahalgam-a-daughter-remembers-her-braveheart-father-his-lesson-on-staying-calm-10647658/
+  🔗 https://indianexpress.com/article/india/ational-board-wildlife-pastoralist-grazing-rights-study-wii-10648404/
 
-- We are not Vishwa Guru today: Murli Manohar Joshi
+- ‘Blatant abuse of power’: Congress moves privilege notice against PM Modi over address to nation
   
-  🔗 https://indianexpress.com/article/india/murli-manohar-joshi-india-not-vishwa-guru-remark-10647547/
+  🔗 https://indianexpress.com/article/india/privilege-notice-pm-modi-congress-speech-row-10648283/
 
-- Assembly Election 2026 Live Updates: ‘Once BJP forms govt, all cases against Gorkhas will be withdrawn before 31 July,’ says Amit Shah
+- On last day of Tamil Nadu polls campaign, Kejriwal slams BJP, says state rejects divisive politics
   
-  🔗 https://indianexpress.com/article/india/assembly-election-2026-live-updates-tamil-nadu-west-bengal-phase-1-election-date-tmc-bjp-congress-dmk-aiadmk-10647424/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-elections-2026-kejriwal-bjp-divisive-politics-10647898/
 
-- Heatwave in Delhi: Hydrate, cover up if stepping out in the day; IMD warns of mercury hitting 42°C today
+- Behind month of labour shortage in Kerala: Elections in Bengal and Assam, SIR ‘fears’
   
-  🔗 https://indianexpress.com/article/india/delhi-heatwave-summers-imd-warning-10647445/
+  🔗 https://indianexpress.com/article/india/behind-month-of-labour-shortage-in-kerala-elections-in-bengal-and-assam-sir-fears-10647926/
 
-- Google brings Gemini-powered Chrome experience to 7 more countries
+- Archaeologists discover 2,200-year-old circular temple in Pelusium
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-powered-chrome-experience-to-7-more-countries-10647804/
+  🔗 https://indianexpress.com/article/technology/science/archaeologists-discover-2200-year-old-circular-temple-in-pelusium-10648522/
 
-- Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal
+- Apple’s ‘hardware guy’, college swimming champ: 5 interesting facts about John Ternus
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-to-invest-up-to-25-billion-in-anthropic-as-part-of-100-billion-cloud-deal-10647585/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-hardware-guy-swimming-champ-5-facts-john-ternus-10648503/
 
-- Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age
+- German central bank chief calls for wide access to Anthropic’s Mythos
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-turns-to-hardware-veteran-ternus-as-ceo-to-succeed-cook-in-ai-age-10647431/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/german-central-bank-chief-calls-for-wide-access-to-anthropics-mythos-10648489/
 
-- iPod, Under Armour shoes, and the joy of running
+- Tech Launches Today (April 21, 2026): Dyson Supersonic Hair Dryer, Huawei Pura X Max, more
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/ipod-under-armour-shoes-joy-of-running-10646393/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-april-21-2026-dyson-supersonic-hair-dryer-huawei-pura-x-max-more-10648444/
 
-- Vercel confirms data breach linked to third-party AI tool: All you need to know
+- Work stress or late-night overthinking? 10 AI-powered apps to boost mental health
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vercel-confirms-data-breach-ai-tool-all-you-need-to-know-10646331/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-powered-apps-to-boost-mental-health-10648366/
 
-- Suzlon eyes Europe comeback with next-gen wind turbines
-  The Pune-based company on Tuesday launched two new turbine designs for the European market with capacities of 5 MW and 6.3 MW. These add to its portfolio of 2.1
-  🔗 https://www.livemint.com/companies/suzlon-eyes-europe-comeback-next-gen-wind-turbines-blue-sky-product-platform-11776752822916.html
+- Amazon coerced Levi's, Hanes, big brands to inflate product prices on rival retail websites: Antitrust lawsuit filing
+  The filing is part of the 2022 antitrust lawsuit, which alleged that Amazon artificially inflated the cost of
+  🔗 https://www.livemint.com/companies/news/amazon-coerced-levis-hanes-big-brands-to-inflate-product-prices-on-rival-retail-websites-antitrust-lawsuit-filing-11776772458436.html
 
-- Beyond zero: Soft drink makers double down on 'functional' fizz, zero calories and local flavours
-  As zero-sugar becomes a market baseline, brands turn to probiotics
-  🔗 https://www.livemint.com/companies/news/zero-sugar-low-calories-functional-drinks-prebiotic-fibre-soft-drinks-industry-gut-health-local-flavours-11776745702530.html
+- Nestlé India Q4: Volume boost drives best sales growth in a decade; profit jumps 26%
+  Nestlé India reported a net profit of  ₹1,114 crore. Revenue climbed 22.
+  🔗 https://www.livemint.com/companies/news/nestl-india-q4-volume-boost-best-sales-growth-in-decade-profit-jumps-26-maggi-noodles-kitkat-rural-markets-coffee-11776766502004.html
 
-- PE firm EQT closes $15.6 billion Asia fund, largest in region amid fundraising slump
-  Oversubscribed BPEA IX becomes Asia-Pacific’s largest PE
-  🔗 https://www.livemint.com/companies/eqt-bpea-ix-private-equity-asia-asia-pacific-fund-fundraising-slump-sovereign-wealth-funds-pension-funds-11776738056829.html
+- FedEx conducts India's first intra-city drone delivery trials in Bengaluru
+   FedEx successfully completed India's first intra-city drone delivery trials in Bengaluru. FedEx reduced a typical 53-km ground trip
+  🔗 https://www.livemint.com/companies/news/fedex-conducts-indias-first-intra-city-drone-delivery-trials-in-bengaluru-11776768645123.html
 
-- Amazon to invest up to $25 billion in Anthropic; AI firm commits to spend $100 billion on AWS in return
-  Amazon will invest up to $25 billion in Anthropic, which plans to spend over
-  🔗 https://www.livemint.com/companies/news/amazon-to-invest-up-to-25-billion-in-anthropic-ai-firm-commits-to-spend-100-billion-on-aws-in-return-11776734805025.html
+- Denim, not discounts: Why Ace Turtle is moving up the value chain
+  Ace Turtle is shifting away from the value denim segment to focus on premium brands. It expects 25% revenue growth this fiscal, driven by expansion in tier-II and -III cities.
+  🔗 https://www.livemint.com/companies/news/denim-discounts-ace-turtle-moving-up-value-chain-lee-and-g-star-raw-ai-11776753916123.html
 
-- Mint Explainer | Tata turmoil: A snapshot of simmering tensions at the group
-  Internal rifts, legal challenges, and a debate over going public have sparked a power struggle within
-  🔗 https://www.livemint.com/companies/news/mint-explainer-tata-turmoil-a-snapshot-of-simmering-tensions-at-the-group-11776673760234.html
+- Zoho built a global SaaS business from Tamil Nadu, can startups move beyond metro hubs?
+  Zoho has built a global SaaS business from Tamil Nadu without venture funding or metro hubs. As startup funding tightens, its model focused on internal talent development
+  🔗 https://www.livemint.com/companies/news/zohotamilnadumodelchallengesindiastartuphubshiringfunding-11776754609751.html
 
-- Small-cap FMCG stock inches close to 52-week high. Do you own?
-  GRM Overseas shares rose over 2% after announcing its launch of 10X Basmati Rice Suitable for Diabetics. The product aims to meet rising demand for healthier food options
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-inches-close-to-52-week-high-do-you-own-11776754286787.html
+- HCL Tech Q4 Results: Board declares interim dividend of  ₹24 per share. Details here
+  HCL Technologies announced an interim dividend of  ₹24 per share for FY26. The record date is April 25, with payments on May 05. The company reported Q4 FY26 revenue of 
+  🔗 https://www.livemint.com/market/stock-market-news/hcl-q4-results-board-declares-interim-dividend-of-rs-24-per-share-details-here-11776769202196.html
 
-- HCL Tech Q4 Results LIVE: IT stock jumps 1.5% ahead of results, dividend — What to expect from earnings show?
-  Brokerages expect double-digit profit and revenue growth for the IT major on a YoY basis. Shares of HCL Tech traded marginally
-  🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q4-results-2026-live-hcl-tech-share-price-hcl-technologies-q4-dividend-earnings-profit-21-april-2026-11776754333284.html
+- HCL Tech Q4 results: Profit rises 4% YoY to  ₹4,488 crore; revenue up 2.4% YoY in CC
+  HCL Tech Q4 results: Consolidated profit rose by 4% YoY to  ₹4,488
+  🔗 https://www.livemint.com/market/stock-market-news/hcl-tech-q4-results-2026-profit-rises-10-yoy-to-4-488-crore-dividend-guidance-key-takeaways-11776763652640.html
 
-- 'No theme runs forever': Devina Mehra busts the ‘buy and forget’ investing myth
-  Devina Mehra warns investors against the behavioral trap of assuming past market leaders will continue to dominate. She highlights the importance of adapting to market changes
-  🔗 https://www.livemint.com/market/stock-market-news/no-theme-runs-forever-devina-mehra-busts-the-buy-and-forget-investing-myth-11776754146340.html
+- US stock market today: Dow, S&amp;P 500 futures rise up to 0.6% as AI optimism offsets geopolitical uncertainty
+  US stock futures indicate a positive start as optimism rises for US-Iran peace talks. Key indices are trading higher by 0.3%–0.6%. Investors focus on
+  🔗 https://www.livemint.com/market/us-stock-market-today-dow-s-p-500-futures-rise-up-to-0-6-as-ai-optimism-offsets-geopolitical-uncertainty-11776768780084.html
 
-- Nifty 50 Trading Strategy: Analysts recommend Bull Call Spread options strategy for 28 April expiry
-   Axis Securities has recommended a Bull Call Spread strategy for Nifty options contracts expiring on 28 April 2026.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-trading-strategy-analysts-recommend-bull-call-spread-options-strategy-for-28-april-expiry-11776753528039.html
+- Stock Market Strategy: Is it time to raise exposure in equities? What should investors do?
+  Indian equity markets fell over 11% in March due to the US-Iran conflict and rising oil prices. DSP's report suggests this correction offers a chance for investors to increase
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-strategy-is-it-time-to-raise-exposure-in-equities-what-should-investors-do-11776769447795.html
 
-- Ola Electric shares surge 70% in April on sales revival. Are they a better bet than rival Ather?
-  Ola Electric's stock price has surged 70% in April so far, boosted by an increase in vehicle registrations. Meanwhile, rival Ather Energy shares have inched higher by
-  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-70-in-april-on-sales-revival-can-they-outperform-rival-ather-going-ahead-11776752654663.html
+- Vedanta subsidiary Hindustan Zinc announces board meet date to consider Q4 results, interim dividend. Check details
+  Hindustan Zinc, a Vedanta group company, has announced its fourth quarter earnings meeting on April 24, 2026. Analysts expect
+  🔗 https://www.livemint.com/market/vedanta-subsidiary-hindustan-zinc-announces-board-meet-date-to-consider-q4-results-interim-dividend-check-details-11776771464609.html
+
+- Redmi A7 and Redmi A7 Pro launched in India, price starts at  ₹10,499
+  Xiaomi launched the Redmi A7 and A7 Pro in India. The A7 is priced at Rs. 10,999 while the
+  🔗 https://www.livemint.com/technology/gadgets/redmi-a7-and-redmi-a7-pro-launched-in-india-price-starts-at-rs-10999-11776756346861.html
 
 - South Korea's Krafton, Naver partner Mirae for  ₹6,000 crore India fund to back growth-stage tech startups
   The Unicorn Growth Fund has been launched to support Indian tech startups. It emphasizes sectors like digital marketplaces
@@ -96,109 +100,65 @@
   Apple plans to add support car key features for Tata EV vehicles. The feature allows users to unlock and start their cars via iPhone or Apple
   🔗 https://www.livemint.com/technology/tech-news/apple-to-soon-let-you-unlock-and-start-tata-car-directly-from-your-iphone-or-apple-watch-report-11776736342956.html
 
-- WhatsApp Plus is coming: Meta confirms new subscription, price leaked in new report
-   Meta is testing WhatsApp Plus subscription. The new premium tier will allow users to set custom app icons, ringtones, and expand chat features.
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-plus-is-coming-meta-confirms-new-subscription-price-leaked-in-new-in-report-11776732710047.html
+- HCL Tech Q4 Results: Cons PAT up 4% YoY at Rs 4,488 crore, revenue rises 12%; Rs 24 per share dividend declared
+  HCL Technologies reported a 4.2% growth in its consolidated net profit for the March-ended quarter. The profit after tax (PAT) is attributable to the owners of the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q4-results-cons-pat-up-4-yoy-at-rs-4488-crore-revenue-rises-12-rs-24-per-share-dividend-declared/articleshow/130418205.cms
 
-- Global Markets | Japan's Nikkei ends higher as tech gains on Middle East deal optimism
-  Japan's Nikkei index saw gains on Tuesday. Rise was driven by hopes of peace talks between Tehran and Washington. Investors bought major technology companies.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-ends-higher-as-tech-gains-on-middle-east-deal-optimism/articleshow/130410802.cms
+- Quotes of the day by Bill Miller: “All of the great investing periods begin when things are terrible and end when they are wonderful.”
+  Prime investment opportunities emerge during market downturns, not when things appear rosy. Periods of fear often present undervalued assets. Successful long-term investing hinges on emotional discipline.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quotes-of-the-day-by-bill-miller-all-of-the-great-investing-periods-begin-when-things-are-terrible-and-end-when-they-are-wonderful-/articleshow/130417338.cms
 
-- Betting on large banks, cautious on housing finance and microfinance;  watch guidance in FMCG:  Sandip Sabharwal
-  Sandip Sabharwal sees banks as a strong sector. He prefers large private banks due to asset quality. Housing finance and microfinance are areas to avoid for now.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/betting-on-large-banks-cautious-on-housing-finance-and-microfinance-watch-guidance-in-fmcg-sandip-sabharwal/articleshow/130410435.cms
+- Gainers &amp; Losers: Nestle, Groww and Ola among 7 big movers on Tuesday
+   markets rallied for a third straight session, driven by strong earnings, sectoral buying and stock-specific triggers. Seven major stocks,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-nestle-groww-and-ola-among-7-big-movers-on-tuesday/slideshow/130417607.cms
 
-- Tata Steel shares jump 12% so far in April. Here’s why Nomura stays bullish on India’s steel sector
-  Nomura maintains a bullish outlook on India's resilient steel sector. The brokerage believes global headwinds, including Chinese competition and Middle East conflict impacts, will have limited effect on major players'
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-jump-12-so-far-in-april-heres-why-nomura-stays-bullish-on-indias-steel-sector/articleshow/130410437.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures rise as AI optimism, earnings offset Mideast concerns
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-ceasefire-talks-crude-brent-oil-ai-stock-price-fed-news/liveblog/130417477.cms
 
-- Patanjali Foods declares Rs 1.75/share interim dividend, sets April 25 as record date
-  Patanjali Foods has announced a second interim dividend of Rs 1.75 per share for FY26, amounting to 87.5% of its face value. Shareholders on record as of April 25, 2026, will
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-declares-rs-1-75-interim-dividend-sets-april-25-as-record-date/articleshow/130410261.cms
-
-- Inox Clean is said to revive plan for up to $1 billion India IPO
-  Inox Clean Energy is preparing to file draft papers for an IPO. The move comes amid volatile equity markets, though renewable energy stocks remain strong.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-is-said-to-revive-plan-for-up-to-1-billion-india-ipo/articleshow/130410187.cms
+- Persistent Systems Q4 Results:  Profit jumps 34% YoY to Rs 529 crore, revenue up 25%
+  Mid-tier IT services company Persistent Systems reported a 33.73 per cent growth in consolidated net profit to Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/persistent-systems-q4-results-profit-jumps-34-yoy-to-rs-529-crore-revenue-up-25/articleshow/130416444.cms
 
 - India is violating its obligations under international law: Francesca Albanese - The Hindu
   India is violating its obligations under international law,
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
 
-- 'Will Ban Your Entry': Top Court's Warning Over Repeated 'Netaji' Pleas - NDTV
-  'Will Ban Your Entry': Top Court's
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzNtd0E0dWo5QWRsbE82NWhFbTdOb09ZWnFBR2lWUVloN3I0Y2tWOGVJUzBOTUo4SFFPWFBGYUZmMkFuNU41Y1F5T3dMX2J5UGN5Y1hzMGMwVGV3TG9MbjdLbjZNRFY5MFRuel9kejlwREc0NmxaUFFBVzhlTFgtMWNZeGtyYURKbE1ZNlhmQjI2dm9GeDMtY0NUQUM5Q2xrWlFHMnhacklibDhNMzdJ0gG3AUFVX3lxTE1mbHpIbWdLZl9OTXlwWTZGNDNZc19vX0dDRnhyUWJiVXpMQnJmNFFFWE1CVXQ5Mkw1VDVvTzJ5eS0yRzhYeXJPLXdYQ0d2enRYSzhvUkllUXZZcHpuNm8yVS1BVHRvTldUbl9YLUFBNmtCclIyQ2hyZ05yaE15S09lQ295eTVlaHZaNnBRTGUzQWFIY3pBM2FtSDNpckFFamFqbWJ4Rlg3ZUFDQjM2b3FSN0xGcnpoaw?oc=5
-
 - Iran war forces job losses, reverse migration in India’s ceramic hub - Al Jazeera
   Iran war forces job losses, reverse migration in India
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWdYNXJMa21ub2xqRzJpY055NXZiNXVlMUhBbGZybThiWUFDQzRIazhmNjZsOG9vOEdaY2VPYmRnRU91eGVTcmxNQ0hLZXIxQnJjZy1EMGFmNmV1T1p0RWVsYm4xWEZ2V2VSV0ZJTHVCYXdwQzZqUkxIZC0tZXB4bjM3ZHVHelhwejdJLVZpOTZ0MS1MODdWRzA4bHJsSWdqWFNuRHpvOURBamvSAbABQVVfeXFMTXlWMlRrdzg0ZTRXbWlsTjNZMXNPSHpkWlA2SURiSXJlY3BPSWk0bXZfN0laQzhaNjNUR3J5NlFJcGZJNnFtR0ItVEpEaTJvckxBTzVkd0daSHJVZXRWOEt4ak16U095ZXZ6V2JlLUFGSk9zNjd5a3g3ckdtS0w3Z2pmdzA0Z1RxdWN5dVoxNXJOQzZaVlRsT0lka05fSDNwQzVYSzE4X1dkVXhJTU9JMlY?oc=5
 
-- India Post GDS 3rd merit list 2026 expected to be released soon at indiapostgdsonline.gov.in: Check detai - The Times of India
-  India Post GDS 3rd merit list 2026 expected to be released soon at ind
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNVnJCUGwxYlV0ekNkU1Rhb0dtMWU1ejIwRXdKOU54OXZERGlUYnhGeGNhWGZiQnlGcno1d3EwSms5Uk5HRVNkRWx5UTY5LXYyRWdqZDF3QmMtVGdaSkVQWEVQdkU2Rnh4eWhkcnYwVG91SGU2dUR4Nm5oc3dFRmd5Ujk1b3VwOTFXZXFQMkNGSHh4NUg0ZVhOMV95YWZaZFVic0lTOTV4ZEJ2a1hMOExYampOSmU1NFRVMm53VEExMHhWWTBwcjR5cjhXX05COGlVN3Jkbmxva0tQUVZKQ2gwYTVzTXhjQ3RSS1U5T3FwYXBJTktzZ0Z5RkN5MFFqVmJlcVR6YmRBakc1OG85S0NVZ2V6N19RN3YySkRiZk5OZjZsZ1lV0gGqAkFVX3lxTFBhdnFBUFBGUU5ubG4zN3Y4cFFVMEZaazlpYnRXbVZKbWtvMzZOaDB2VW9hWmtvb29NQnpjdXl2RzYyTWtSOHN6cGVud1JEVmFBVUQ4OWtuSVcyM0tFQW5ldVZtVldkS0xBZS0tV25mMFN3aWdCQklCZWdYTjExbFRyN3ZUck5kZXdEUnNlNzk2VFRZMWpXM0JmQlJmaTVyRHVYblJpeDNtREFHdWtfUDl0MlNIcXkxa2JEOEZXUTU5VFViZ01oeVN5Zk9qUURpLTJ4YUc3VmJrX0UwbXZTeUJ5UHNKN0dLclEyNGM2Nmo5TTNQM3BpQmVZT3gyRXRHTEo1UlpMcmxodXk1blhGTVE5enplTnZDUmVmYldYRzVQd1k5MF9KanBVMWc?oc=5
+- Beijing-Delhi flights resume as China, India expand air links amid warming ties - The Times of India
+  Beijing-Delhi flights resume as China, India expand air
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1lLMGR6Y3BXeExwQlVITmpzV0ZHQnpsN3hucGVGM3FCWnNmNjBLemNNTnQwNnl5U2daRnh4NEEwZ3ZWbEhGa3lFYzVvaldLdDZNenZXOXpIQTJqVnl4LWxTTWRKRkVXcFk3clF2cERRQ0JacmJ4OEJhcVU0cFQ2YW85bXJidnlJOF9QcFpheDlGMFhQUnFJOFlvQmRKUGN0TC1RZ0MzTGJuUEVma3pRMW5DZEY2WGNreS03VXJhS2Y0SDlYbmV2Slo3WXl0MVdRbllRUW1fQmtXUjhMc0pF0gHkAUFVX3lxTFBVVlkxcjk0eHY1Rml1ME9Salk5N3UxakF2d19rR2dIdFpTdGNwOXFsM1o3bnExU0tpYVBzSzVxdkpxSHlBWFhocFZmXzlqcTJZZ2ZOU3BEbkhJb1Q1SVd0a016dzFmbXpyaXJIeWFaRzdKdWF1LUlmZjN6a0pLekRxRkc2akNLQ01qQzNnUGRCT2ktaUhlN3FQcEFZQmtJSHFhTy16SUIzRV81LUNycWFac21xa1UxaDA1RFVaUi1NdkREVGJKalNaVkt4SlY1a1Q1TmE3cGUtOV9ibHRhVE9UN1Q1Mg?oc=5
 
-- 4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda: Centre to Delhi High Court - Bar and Bench
-  4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTdVZ0pZb1NBb2FuMjNSZm1iWE9ZOTFOWG9lRHRVQ1JJNzRHOUl1QXQ0Z2kzM0hZZnJyb3Aya1l4SklhTnlMc0hab3J5ckNmTnFwOGRsbFZ5WXBMNEZMVm9RTkFhR1p0RWJKV2hzMkF4ZF82RFZ4R3NITms0aGFzVGx0OVhhT3NvVkstejJNbDJ6WUdNZXhXX1ppSlRCR3NVTGpEUW9mZy1zaXJ6VWlGZUw0REc1bnBfZjFNXy1LcldpNlZ2WU5sUWN1RlbSAdoBQVVfeXFMT2xBeVM5YTB1eDBCVk03elRtQlA0RTcyWWZkUzIza2JFaXAzbUJCYy16a3FhQ0IwbHNKZWdoYmhpWWxwWXltcDVNdmlZOV9manVtR3ZNeGh1cUE0OFliYnUySFpLSDFPcGdrTlF2cE5CeHhUU2FjTlF2cEtxQkdaUFNQaHdtMlRqT0dSX3IweXhOOHdkc2pYMDZrd0hNbnB1blhMcEVIcVFhSzdWMEk4c1NweFpiMHFUaVZLVUI2ZFBZckRxLTBLY3pYYmEyQTNRM3VWdFZLai11UHc?oc=5
+- Indian Navy to host Naval Civilian Function on Thursday - News On AIR
+  Indian Navy to host Naval Civilian Function on
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmZwNWF0bzZrOEJmSmE0ck0yQ1RlQkg0UERuWEo4WnZ0c19hRUZMUEc1ZHRNTjUxSWJvQ2NqTTJaS0tvak1oX1ZHdndCdUFKVGpxLVBmZUEya3pmSWJQVWk1X1M2cG8wWEttNEVseWR1VmNlM0NHb05Wd2E3cVVaUmhZNGtLbFpRTTRPb3ln?oc=5
+
+- ‘What's the value of the India cap then?’: Ashwin rejects two-team theory with brutal take - The Times of India
+  The Times of India reported that the Indian government is considering a cap on the number
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUW1VX3l5Znk2dmg1UmVPeHdYaUUyT1pidnpwSFZPNEpUeThtWUZJbmFiYWd4cjZxbGFyRkt4dlU2cHlQdk1RTHN4OFY3akxZc0lMUy1INnRYS2xpc0Z6ZnY2YVpPc1lwcUN1WDNfVk1sUUkxdjdENnA4ZVdlMlhoTTBaRnVYMkY2aEp0ZGJtSHdjSzdrVHcyUTkzdDhBaWxTTC1nT09sS1dQWkFhSnRwZHU2SW5PalA1am9ubzN5eVRMMElZanNxekZBa3BkRWkxdmtsanc5dXEwVks3Z1VSU0FQUG5pZnBybWZtTTEyNHkteEFpOHNEdW0ta9IBgAJBVV95cUxOTzMxS2dNaUVMMW1BRlJpdGhrdExkOFlLcFFFMGJBMk5nOEQ1Yy0ySW1USk93RHFSWW9XS0tYMFJ3M3YtZzgwUmQzaDNCSTlkb2xtb19UQXplX3Q1Nk9DR0tNb3N2LURDcFNPcjBxUEEySkdJZjBReGN1SGZpY1pTcmdxWmZNU2RURk1XY2lrNzRQWE5Zakl6ZDdMN3ROR0dQbm1UMTlLb0RvRUJDaGNGelJPNHlZS1JiM2xWLUlQcWc2UUNFQ2V4MENyQmtHVThxTDZzNk83X250alR5UVZjWlROXzF3YnI1blQzWmNGYnIxQVd0X25mRmFnZExjTGZh?oc=5
 
 - India is violating its obligations under international law: Francesca Albanese - The Hindu
   India is violating its obligations under international law,
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
 
-- 'Will Ban Your Entry': Top Court's Warning Over Repeated 'Netaji' Pleas - NDTV
-  'Will Ban Your Entry': Top Court's
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzNtd0E0dWo5QWRsbE82NWhFbTdOb09ZWnFBR2lWUVloN3I0Y2tWOGVJUzBOTUo4SFFPWFBGYUZmMkFuNU41Y1F5T3dMX2J5UGN5Y1hzMGMwVGV3TG9MbjdLbjZNRFY5MFRuel9kejlwREc0NmxaUFFBVzhlTFgtMWNZeGtyYURKbE1ZNlhmQjI2dm9GeDMtY0NUQUM5Q2xrWlFHMnhacklibDhNMzdJ0gG3AUFVX3lxTE1mbHpIbWdLZl9OTXlwWTZGNDNZc19vX0dDRnhyUWJiVXpMQnJmNFFFWE1CVXQ5Mkw1VDVvTzJ5eS0yRzhYeXJPLXdYQ0d2enRYSzhvUkllUXZZcHpuNm8yVS1BVHRvTldUbl9YLUFBNmtCclIyQ2hyZ05yaE15S09lQ295eTVlaHZaNnBRTGUzQWFIY3pBM2FtSDNpckFFamFqbWJ4Rlg3ZUFDQjM2b3FSN0xGcnpoaw?oc=5
-
 - Iran war forces job losses, reverse migration in India’s ceramic hub - Al Jazeera
   Iran war forces job losses, reverse migration in India
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWdYNXJMa21ub2xqRzJpY055NXZiNXVlMUhBbGZybThiWUFDQzRIazhmNjZsOG9vOEdaY2VPYmRnRU91eGVTcmxNQ0hLZXIxQnJjZy1EMGFmNmV1T1p0RWVsYm4xWEZ2V2VSV0ZJTHVCYXdwQzZqUkxIZC0tZXB4bjM3ZHVHelhwejdJLVZpOTZ0MS1MODdWRzA4bHJsSWdqWFNuRHpvOURBamvSAbABQVVfeXFMTXlWMlRrdzg0ZTRXbWlsTjNZMXNPSHpkWlA2SURiSXJlY3BPSWk0bXZfN0laQzhaNjNUR3J5NlFJcGZJNnFtR0ItVEpEaTJvckxBTzVkd0daSHJVZXRWOEt4ak16U095ZXZ6V2JlLUFGSk9zNjd5a3g3ckdtS0w3Z2pmdzA0Z1RxdWN5dVoxNXJOQzZaVlRsT0lka05fSDNwQzVYSzE4X1dkVXhJTU9JMlY?oc=5
 
-- India Post GDS 3rd merit list 2026 expected to be released soon at indiapostgdsonline.gov.in: Check detai - The Times of India
-  India Post GDS 3rd merit list 2026 expected to be released soon at ind
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNVnJCUGwxYlV0ekNkU1Rhb0dtMWU1ejIwRXdKOU54OXZERGlUYnhGeGNhWGZiQnlGcno1d3EwSms5Uk5HRVNkRWx5UTY5LXYyRWdqZDF3QmMtVGdaSkVQWEVQdkU2Rnh4eWhkcnYwVG91SGU2dUR4Nm5oc3dFRmd5Ujk1b3VwOTFXZXFQMkNGSHh4NUg0ZVhOMV95YWZaZFVic0lTOTV4ZEJ2a1hMOExYampOSmU1NFRVMm53VEExMHhWWTBwcjR5cjhXX05COGlVN3Jkbmxva0tQUVZKQ2gwYTVzTXhjQ3RSS1U5T3FwYXBJTktzZ0Z5RkN5MFFqVmJlcVR6YmRBakc1OG85S0NVZ2V6N19RN3YySkRiZk5OZjZsZ1lV0gGqAkFVX3lxTFBhdnFBUFBGUU5ubG4zN3Y4cFFVMEZaazlpYnRXbVZKbWtvMzZOaDB2VW9hWmtvb29NQnpjdXl2RzYyTWtSOHN6cGVud1JEVmFBVUQ4OWtuSVcyM0tFQW5ldVZtVldkS0xBZS0tV25mMFN3aWdCQklCZWdYTjExbFRyN3ZUck5kZXdEUnNlNzk2VFRZMWpXM0JmQlJmaTVyRHVYblJpeDNtREFHdWtfUDl0MlNIcXkxa2JEOEZXUTU5VFViZ01oeVN5Zk9qUURpLTJ4YUc3VmJrX0UwbXZTeUJ5UHNKN0dLclEyNGM2Nmo5TTNQM3BpQmVZT3gyRXRHTEo1UlpMcmxodXk1blhGTVE5enplTnZDUmVmYldYRzVQd1k5MF9KanBVMWc?oc=5
+- Beijing-Delhi flights resume as China, India expand air links amid warming ties - The Times of India
+  Beijing-Delhi flights resume as China, India expand air
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1lLMGR6Y3BXeExwQlVITmpzV0ZHQnpsN3hucGVGM3FCWnNmNjBLemNNTnQwNnl5U2daRnh4NEEwZ3ZWbEhGa3lFYzVvaldLdDZNenZXOXpIQTJqVnl4LWxTTWRKRkVXcFk3clF2cERRQ0JacmJ4OEJhcVU0cFQ2YW85bXJidnlJOF9QcFpheDlGMFhQUnFJOFlvQmRKUGN0TC1RZ0MzTGJuUEVma3pRMW5DZEY2WGNreS03VXJhS2Y0SDlYbmV2Slo3WXl0MVdRbllRUW1fQmtXUjhMc0pF0gHkAUFVX3lxTFBVVlkxcjk0eHY1Rml1ME9Salk5N3UxakF2d19rR2dIdFpTdGNwOXFsM1o3bnExU0tpYVBzSzVxdkpxSHlBWFhocFZmXzlqcTJZZ2ZOU3BEbkhJb1Q1SVd0a016dzFmbXpyaXJIeWFaRzdKdWF1LUlmZjN6a0pLekRxRkc2akNLQ01qQzNnUGRCT2ktaUhlN3FQcEFZQmtJSHFhTy16SUIzRV81LUNycWFac21xa1UxaDA1RFVaUi1NdkREVGJKalNaVkt4SlY1a1Q1TmE3cGUtOV9ibHRhVE9UN1Q1Mg?oc=5
 
-- 4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda: Centre to Delhi High Court - Bar and Bench
-  4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTdVZ0pZb1NBb2FuMjNSZm1iWE9ZOTFOWG9lRHRVQ1JJNzRHOUl1QXQ0Z2kzM0hZZnJyb3Aya1l4SklhTnlMc0hab3J5ckNmTnFwOGRsbFZ5WXBMNEZMVm9RTkFhR1p0RWJKV2hzMkF4ZF82RFZ4R3NITms0aGFzVGx0OVhhT3NvVkstejJNbDJ6WUdNZXhXX1ppSlRCR3NVTGpEUW9mZy1zaXJ6VWlGZUw0REc1bnBfZjFNXy1LcldpNlZ2WU5sUWN1RlbSAdoBQVVfeXFMT2xBeVM5YTB1eDBCVk03elRtQlA0RTcyWWZkUzIza2JFaXAzbUJCYy16a3FhQ0IwbHNKZWdoYmhpWWxwWXltcDVNdmlZOV9manVtR3ZNeGh1cUE0OFliYnUySFpLSDFPcGdrTlF2cE5CeHhUU2FjTlF2cEtxQkdaUFNQaHdtMlRqT0dSX3IweXhOOHdkc2pYMDZrd0hNbnB1blhMcEVIcVFhSzdWMEk4c1NweFpiMHFUaVZLVUI2ZFBZckRxLTBLY3pYYmEyQTNRM3VWdFZLai11UHc?oc=5
+- Indian Navy to host Naval Civilian Function on Thursday - News On AIR
+  Indian Navy to host Naval Civilian Function on
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmZwNWF0bzZrOEJmSmE0ck0yQ1RlQkg0UERuWEo4WnZ0c19hRUZMUEc1ZHRNTjUxSWJvQ2NqTTJaS0tvak1oX1ZHdndCdUFKVGpxLVBmZUEya3pmSWJQVWk1X1M2cG8wWEttNEVseWR1VmNlM0NHb05Wd2E3cVVaUmhZNGtLbFpRTTRPb3ln?oc=5
 
-- India is violating its obligations under international law: Francesca Albanese - The Hindu
-  India is violating its obligations under international law,
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
-
-- 'Will Ban Your Entry': Top Court's Warning Over Repeated 'Netaji' Pleas - NDTV
-  'Will Ban Your Entry': Top Court's
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzNtd0E0dWo5QWRsbE82NWhFbTdOb09ZWnFBR2lWUVloN3I0Y2tWOGVJUzBOTUo4SFFPWFBGYUZmMkFuNU41Y1F5T3dMX2J5UGN5Y1hzMGMwVGV3TG9MbjdLbjZNRFY5MFRuel9kejlwREc0NmxaUFFBVzhlTFgtMWNZeGtyYURKbE1ZNlhmQjI2dm9GeDMtY0NUQUM5Q2xrWlFHMnhacklibDhNMzdJ0gG3AUFVX3lxTE1mbHpIbWdLZl9OTXlwWTZGNDNZc19vX0dDRnhyUWJiVXpMQnJmNFFFWE1CVXQ5Mkw1VDVvTzJ5eS0yRzhYeXJPLXdYQ0d2enRYSzhvUkllUXZZcHpuNm8yVS1BVHRvTldUbl9YLUFBNmtCclIyQ2hyZ05yaE15S09lQ295eTVlaHZaNnBRTGUzQWFIY3pBM2FtSDNpckFFamFqbWJ4Rlg3ZUFDQjM2b3FSN0xGcnpoaw?oc=5
-
-- Iran war forces job losses, reverse migration in India’s ceramic hub - Al Jazeera
-  Iran war forces job losses, reverse migration in India
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWdYNXJMa21ub2xqRzJpY055NXZiNXVlMUhBbGZybThiWUFDQzRIazhmNjZsOG9vOEdaY2VPYmRnRU91eGVTcmxNQ0hLZXIxQnJjZy1EMGFmNmV1T1p0RWVsYm4xWEZ2V2VSV0ZJTHVCYXdwQzZqUkxIZC0tZXB4bjM3ZHVHelhwejdJLVZpOTZ0MS1MODdWRzA4bHJsSWdqWFNuRHpvOURBamvSAbABQVVfeXFMTXlWMlRrdzg0ZTRXbWlsTjNZMXNPSHpkWlA2SURiSXJlY3BPSWk0bXZfN0laQzhaNjNUR3J5NlFJcGZJNnFtR0ItVEpEaTJvckxBTzVkd0daSHJVZXRWOEt4ak16U095ZXZ6V2JlLUFGSk9zNjd5a3g3ckdtS0w3Z2pmdzA0Z1RxdWN5dVoxNXJOQzZaVlRsT0lka05fSDNwQzVYSzE4X1dkVXhJTU9JMlY?oc=5
-
-- India Post GDS 3rd merit list 2026 expected to be released soon at indiapostgdsonline.gov.in: Check detai - The Times of India
-  India Post GDS 3rd merit list 2026 expected to be released soon at ind
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNVnJCUGwxYlV0ekNkU1Rhb0dtMWU1ejIwRXdKOU54OXZERGlUYnhGeGNhWGZiQnlGcno1d3EwSms5Uk5HRVNkRWx5UTY5LXYyRWdqZDF3QmMtVGdaSkVQWEVQdkU2Rnh4eWhkcnYwVG91SGU2dUR4Nm5oc3dFRmd5Ujk1b3VwOTFXZXFQMkNGSHh4NUg0ZVhOMV95YWZaZFVic0lTOTV4ZEJ2a1hMOExYampOSmU1NFRVMm53VEExMHhWWTBwcjR5cjhXX05COGlVN3Jkbmxva0tQUVZKQ2gwYTVzTXhjQ3RSS1U5T3FwYXBJTktzZ0Z5RkN5MFFqVmJlcVR6YmRBakc1OG85S0NVZ2V6N19RN3YySkRiZk5OZjZsZ1lV0gGqAkFVX3lxTFBhdnFBUFBGUU5ubG4zN3Y4cFFVMEZaazlpYnRXbVZKbWtvMzZOaDB2VW9hWmtvb29NQnpjdXl2RzYyTWtSOHN6cGVud1JEVmFBVUQ4OWtuSVcyM0tFQW5ldVZtVldkS0xBZS0tV25mMFN3aWdCQklCZWdYTjExbFRyN3ZUck5kZXdEUnNlNzk2VFRZMWpXM0JmQlJmaTVyRHVYblJpeDNtREFHdWtfUDl0MlNIcXkxa2JEOEZXUTU5VFViZ01oeVN5Zk9qUURpLTJ4YUc3VmJrX0UwbXZTeUJ5UHNKN0dLclEyNGM2Nmo5TTNQM3BpQmVZT3gyRXRHTEo1UlpMcmxodXk1blhGTVE5enplTnZDUmVmYldYRzVQd1k5MF9KanBVMWc?oc=5
-
-- 4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda: Centre to Delhi High Court - Bar and Bench
-  4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTdVZ0pZb1NBb2FuMjNSZm1iWE9ZOTFOWG9lRHRVQ1JJNzRHOUl1QXQ0Z2kzM0hZZnJyb3Aya1l4SklhTnlMc0hab3J5ckNmTnFwOGRsbFZ5WXBMNEZMVm9RTkFhR1p0RWJKV2hzMkF4ZF82RFZ4R3NITms0aGFzVGx0OVhhT3NvVkstejJNbDJ6WUdNZXhXX1ppSlRCR3NVTGpEUW9mZy1zaXJ6VWlGZUw0REc1bnBfZjFNXy1LcldpNlZ2WU5sUWN1RlbSAdoBQVVfeXFMT2xBeVM5YTB1eDBCVk03elRtQlA0RTcyWWZkUzIza2JFaXAzbUJCYy16a3FhQ0IwbHNKZWdoYmhpWWxwWXltcDVNdmlZOV9manVtR3ZNeGh1cUE0OFliYnUySFpLSDFPcGdrTlF2cE5CeHhUU2FjTlF2cEtxQkdaUFNQaHdtMlRqT0dSX3IweXhOOHdkc2pYMDZrd0hNbnB1blhMcEVIcVFhSzdWMEk4c1NweFpiMHFUaVZLVUI2ZFBZckRxLTBLY3pYYmEyQTNRM3VWdFZLai11UHc?oc=5
-
-- India is violating its obligations under international law: Francesca Albanese - The Hindu
-  India is violating its obligations under international law,
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2pZMUIxM3NKZUM3VzFVM2xQM0NZM3VxbXdRMXVGTkpxcWNTMEVNZ3NGTU1za0F3T1E0OFBOVmN6eGVsSWU3TWdGcVZUNkZHdzNSc2xfWGxTTFh4YUFmVzVTWDgtVVRiQVFqQVAyM3pYVzRRbVB6OG1sYTJOS2xKcWxUeHNjUXVsb1FrRnFrZVJNcTlFS2hCNkEzdFFjbjgzVnp2SnN4bFhBYTlKTnJtY19uUkVnU3F4N083eGt4WXZkSUduT01uWm9KVVdMSm9fem5WMVR30gHcAUFVX3lxTE1za2s1S2xvbkJ4Y1Y4ZnBDVnFQSWJZNkpaVVprcTk5dTh1d0hnbFY4aHA3MmpfbU9HWTZYWUFNSUs5QzJHYTBqQTFMZVhWSmtDbHRZVEw0SGQ4MjZPZjdIcF9nVEYtS0VhZlhZTU1vejlLZnczN0VoNXFfVlItWlV6RWxpbDUzUDFUcDNtNTdOMFJjYmRyZ09qX1huZWVRUElFMW95SW5RYUc1dmVxVkw5UHRYQ3RIS21vN1NZMVQxa2ZOalNKZHRncXVneG1QdnBONERCdFdlM3lwVlE?oc=5
-
-- 'Will Ban Your Entry': Top Court's Warning Over Repeated 'Netaji' Pleas - NDTV
-  'Will Ban Your Entry': Top Court's
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzNtd0E0dWo5QWRsbE82NWhFbTdOb09ZWnFBR2lWUVloN3I0Y2tWOGVJUzBOTUo4SFFPWFBGYUZmMkFuNU41Y1F5T3dMX2J5UGN5Y1hzMGMwVGV3TG9MbjdLbjZNRFY5MFRuel9kejlwREc0NmxaUFFBVzhlTFgtMWNZeGtyYURKbE1ZNlhmQjI2dm9GeDMtY0NUQUM5Q2xrWlFHMnhacklibDhNMzdJ0gG3AUFVX3lxTE1mbHpIbWdLZl9OTXlwWTZGNDNZc19vX0dDRnhyUWJiVXpMQnJmNFFFWE1CVXQ5Mkw1VDVvTzJ5eS0yRzhYeXJPLXdYQ0d2enRYSzhvUkllUXZZcHpuNm8yVS1BVHRvTldUbl9YLUFBNmtCclIyQ2hyZ05yaE15S09lQ295eTVlaHZaNnBRTGUzQWFIY3pBM2FtSDNpckFFamFqbWJ4Rlg3ZUFDQjM2b3FSN0xGcnpoaw?oc=5
-
-- Iran war forces job losses, reverse migration in India’s ceramic hub - Al Jazeera
-  Iran war forces job losses, reverse migration in India
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWdYNXJMa21ub2xqRzJpY055NXZiNXVlMUhBbGZybThiWUFDQzRIazhmNjZsOG9vOEdaY2VPYmRnRU91eGVTcmxNQ0hLZXIxQnJjZy1EMGFmNmV1T1p0RWVsYm4xWEZ2V2VSV0ZJTHVCYXdwQzZqUkxIZC0tZXB4bjM3ZHVHelhwejdJLVZpOTZ0MS1MODdWRzA4bHJsSWdqWFNuRHpvOURBamvSAbABQVVfeXFMTXlWMlRrdzg0ZTRXbWlsTjNZMXNPSHpkWlA2SURiSXJlY3BPSWk0bXZfN0laQzhaNjNUR3J5NlFJcGZJNnFtR0ItVEpEaTJvckxBTzVkd0daSHJVZXRWOEt4ak16U095ZXZ6V2JlLUFGSk9zNjd5a3g3ckdtS0w3Z2pmdzA0Z1RxdWN5dVoxNXJOQzZaVlRsT0lka05fSDNwQzVYSzE4X1dkVXhJTU9JMlY?oc=5
-
-- India Post GDS 3rd merit list 2026 expected to be released soon at indiapostgdsonline.gov.in: Check detai - The Times of India
-  India Post GDS 3rd merit list 2026 expected to be released soon at ind
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxNVnJCUGwxYlV0ekNkU1Rhb0dtMWU1ejIwRXdKOU54OXZERGlUYnhGeGNhWGZiQnlGcno1d3EwSms5Uk5HRVNkRWx5UTY5LXYyRWdqZDF3QmMtVGdaSkVQWEVQdkU2Rnh4eWhkcnYwVG91SGU2dUR4Nm5oc3dFRmd5Ujk1b3VwOTFXZXFQMkNGSHh4NUg0ZVhOMV95YWZaZFVic0lTOTV4ZEJ2a1hMOExYampOSmU1NFRVMm53VEExMHhWWTBwcjR5cjhXX05COGlVN3Jkbmxva0tQUVZKQ2gwYTVzTXhjQ3RSS1U5T3FwYXBJTktzZ0Z5RkN5MFFqVmJlcVR6YmRBakc1OG85S0NVZ2V6N19RN3YySkRiZk5OZjZsZ1lV0gGqAkFVX3lxTFBhdnFBUFBGUU5ubG4zN3Y4cFFVMEZaazlpYnRXbVZKbWtvMzZOaDB2VW9hWmtvb29NQnpjdXl2RzYyTWtSOHN6cGVud1JEVmFBVUQ4OWtuSVcyM0tFQW5ldVZtVldkS0xBZS0tV25mMFN3aWdCQklCZWdYTjExbFRyN3ZUck5kZXdEUnNlNzk2VFRZMWpXM0JmQlJmaTVyRHVYblJpeDNtREFHdWtfUDl0MlNIcXkxa2JEOEZXUTU5VFViZ01oeVN5Zk9qUURpLTJ4YUc3VmJrX0UwbXZTeUJ5UHNKN0dLclEyNGM2Nmo5TTNQM3BpQmVZT3gyRXRHTEo1UlpMcmxodXk1blhGTVE5enplTnZDUmVmYldYRzVQd1k5MF9KanBVMWc?oc=5
-
-- 4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda: Centre to Delhi High Court - Bar and Bench
-  4PM YouTube channel blocked for anti-India sentiment, lobbying, propaganda
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTdVZ0pZb1NBb2FuMjNSZm1iWE9ZOTFOWG9lRHRVQ1JJNzRHOUl1QXQ0Z2kzM0hZZnJyb3Aya1l4SklhTnlMc0hab3J5ckNmTnFwOGRsbFZ5WXBMNEZMVm9RTkFhR1p0RWJKV2hzMkF4ZF82RFZ4R3NITms0aGFzVGx0OVhhT3NvVkstejJNbDJ6WUdNZXhXX1ppSlRCR3NVTGpEUW9mZy1zaXJ6VWlGZUw0REc1bnBfZjFNXy1LcldpNlZ2WU5sUWN1RlbSAdoBQVVfeXFMT2xBeVM5YTB1eDBCVk03elRtQlA0RTcyWWZkUzIza2JFaXAzbUJCYy16a3FhQ0IwbHNKZWdoYmhpWWxwWXltcDVNdmlZOV9manVtR3ZNeGh1cUE0OFliYnUySFpLSDFPcGdrTlF2cE5CeHhUU2FjTlF2cEtxQkdaUFNQaHdtMlRqT0dSX3IweXhOOHdkc2pYMDZrd0hNbnB1blhMcEVIcVFhSzdWMEk4c1NweFpiMHFUaVZLVUI2ZFBZckRxLTBLY3pYYmEyQTNRM3VWdFZLai11UHc?oc=5
+- ‘What's the value of the India cap then?’: Ashwin rejects two-team theory with brutal take - The Times of India
+  The Times of India reported that the Indian government is considering a cap on the number
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUW1VX3l5Znk2dmg1UmVPeHdYaUUyT1pidnpwSFZPNEpUeThtWUZJbmFiYWd4cjZxbGFyRkt4dlU2cHlQdk1RTHN4OFY3akxZc0lMUy1INnRYS2xpc0Z6ZnY2YVpPc1lwcUN1WDNfVk1sUUkxdjdENnA4ZVdlMlhoTTBaRnVYMkY2aEp0ZGJtSHdjSzdrVHcyUTkzdDhBaWxTTC1nT09sS1dQWkFhSnRwZHU2SW5PalA1am9ubzN5eVRMMElZanNxekZBa3BkRWkxdmtsanc5dXEwVks3Z1VSU0FQUG5pZnBybWZtTTEyNHkteEFpOHNEdW0ta9IBgAJBVV95cUxOTzMxS2dNaUVMMW1BRlJpdGhrdExkOFlLcFFFMGJBMk5nOEQ1Yy0ySW1USk93RHFSWW9XS0tYMFJ3M3YtZzgwUmQzaDNCSTlkb2xtb19UQXplX3Q1Nk9DR0tNb3N2LURDcFNPcjBxUEEySkdJZjBReGN1SGZpY1pTcmdxWmZNU2RURk1XY2lrNzRQWE5Zakl6ZDdMN3ROR0dQbm1UMTlLb0RvRUJDaGNGelJPNHlZS1JiM2xWLUlQcWc2UUNFQ2V4MENyQmtHVThxTDZzNk83X250alR5UVZjWlROXzF3YnI1blQzWmNGYnIxQVd0X25mRmFnZExjTGZh?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-21 07:32:17 UTC_
+_Last updated: 2026-04-21 13:16:45 UTC_
