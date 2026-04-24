@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Indians no longer need transit visas for layover flights via France
+- Nitish’s heir apparent puts himself ‘under probation’: Why Nishant is in no rush for a title
   
-  🔗 https://indianexpress.com/article/india/indians-no-longer-need-transit-visas-for-layover-flights-via-france-10652598/
+  🔗 https://indianexpress.com/article/india/nitishs-heir-apparent-puts-himself-under-probation-why-nishant-is-in-no-rush-for-a-title-10652755/
 
-- ‘Party gave me lesson’: BJP MLA apologises for remarks against cop after son ‘rammed Thar into 5 people’
+- Manipur again on the boil around them, bodies of two children wait for ‘justice’
   
-  🔗 https://indianexpress.com/article/india/bjp-mla-pritam-singh-lodhi-apology-cop-threat-son-thar-accident-10652613/
+  🔗 https://indianexpress.com/article/india/manipur-again-on-the-boil-around-them-bodies-of-two-children-wait-for-justice-10652754/
 
-- Tragedy after funeral in Uttarakhand: Vehicle falls 300 metres as driver loses control at curve, 8 killed
+- China in mind, India and Japan move to deepen defence ties
   
-  🔗 https://indianexpress.com/article/india/tragedy-funeral-uttarakhand-vehicle-fall-300-metres-driver-loses-control-curve-death-toll-10652590/
+  🔗 https://indianexpress.com/article/india/china-in-mind-india-and-japan-move-to-deepen-defence-ties-10652840/
 
-- ‘It will be a message of stability in a turbulent world’: New Delhi to host fourth India-Africa Forum Summit next month
+- India, UK vow cooperation amid ‘turbulent geopolitical environment’
   
-  🔗 https://indianexpress.com/article/india/india-africa-forum-summit-2026-new-delhi-details-10652547/
+  🔗 https://indianexpress.com/article/india/india-uk-vow-cooperation-amid-turbulent-geopolitical-environment-10652777/
 
-- 2 rapes and a murder in span of hours, Alwar village left with more questions than answers
+- Kharge’s remarks on Modi: Congress alleges EC issuing ‘casual’ notices, seeks time to reply
   
-  🔗 https://indianexpress.com/article/india/alwar-rahul-meena-irs-officer-daughter-murder-rape-gambling-debt-10652521/
+  🔗 https://indianexpress.com/article/india/kharges-remarks-on-modi-congress-alleges-ec-issuing-casual-notices-seeks-time-to-reply-10652748/
 
 - China picks 2 Pakistani candidates for Tiangong space programme
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/uranuss-rings-may-hide-unseen-moons-a-new-study-suggests-10652018/
 
+- Mahindra-backed Classic Legends revs up premium bike push with new launches
+   Classic Legends was founded in 2018 by the Mahindra Group along with Thareja and Boman Irani of Rustomjee Group to reintroduce iconic motorcycles, including Jawa, and Yezdi.
+  🔗 https://www.livemint.com/companies/news/turnaround-hint-mahindra-premium-bike-brand-doubles-down-product-offensive-growth-classic-legends-11776947660569.html
+
+- Musk sounds cautious tone on robotaxis amid slower-than-expected rollout
+  Musk sounds cautious tone
+  🔗 https://www.livemint.com/companies/musk-sounds-cautious-tone-on-robotaxis-amid-slower-than-expected-rollout-11776975062776.html
+
 - Meta, Microsoft Look to Trim Workforces Amid Heavy AI Spending
    Meta Platforms Inc. and Microsoft Corp. have both taken drastic actions to trim their workforces in an effort to stream
   🔗 https://www.livemint.com/companies/meta-microsoft-look-to-trim-workforces-amid-heavy-ai-spending-11776970430508.html
@@ -52,33 +60,33 @@
   Reliance Enterprise Intelligence Ltd has appointed Parminder Singh as CEO. Singh aims to leverage Meta's AI and Reliance's infrastructure to create a leading AI partner for Indian businesses.
   🔗 https://www.livemint.com/companies/news/reliance-enterprise-intelligence-appoints-parminder-singh-as-chief-executive-officer-11776960884194.html
 
-- IKS Health acquires TruBridge Inc for upto $565 million
-  The deal, through IKS Health’s US subsidiary, will be funded by a loan of up to $670 million
-  🔗 https://www.livemint.com/companies/news/iks-health-trubridge-acquisition-us-healthcare-technology-expansion-saas-ehr-11776957378386.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 April
+  Gift Nifty was trading around 24,233 level, a premium of nearly 70 points from the Nifty futures’ previous close. Nifty 50, Sensex
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-april-11776995045227.html
 
-- Warner Bros. Discovery shareholders approve $110 billion sale to Paramount Skydance
-  Preliminary vote counts show a strong majority of Warner Bros. Discovery shareholders supported the sale of the company.
-  🔗 https://www.livemint.com/companies/news/warner-bros-discovery-shareholders-approve-110-billion-sale-to-paramount-skydance-11776957761890.html
+- Buy or sell: Vaishali Parekh recommends three stocks to buy today — 24 April 2026
+   Vaishali Parekh recommends three stocks to buy today.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-24-april-2026-11776992468173.html
 
-- Stocks weaken on dimming hopes for Iran deal, mixed quarterly earnings
-  Stocks weaken on dimming hopes for Iran
-  🔗 https://www.livemint.com/market/stocks-weaken-on-dimming-hopes-for-iran-deal-mixed-quarterly-earnings-11776970308494.html
+- From Gift Nifty, Iran war, oil price to Infosys Q4 results: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,230 level, a premium of nearly 67 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-oil-price-to-infosys-q4-results-10-key-things-that-changed-for-indian-stock-market-overnight-11776993950018.html
 
-- ServiceNow shares crash 18% after Q1 results, weak outlook; down over 45% in 2026
-  ServiceNow shares dropped 18.10% following Q1 results that narrowly beat expectations but included a margin cut. Concerns about AI disruption and delayed deals heightened investor scept
-  🔗 https://www.livemint.com/market/stock-market-news/servicenow-shares-crash-18-after-q1-results-weak-outlook-down-over-45-in-2026-11776959845108.html
+- Dollar moves are being driven by geopolitics, not data. What comes next.
+  The U.S. dollar has been trading more on geopolitical tensions than
+  🔗 https://www.livemint.com/market/dollar-moves-are-being-driven-by-geopolitics-not-data-what-comes-next-11776992814521.html
 
-- Intel Stock climbs over 4% ahead of Q1 earnings report, analysts predict fall in revenue
-  Wall Street anticipates adjusted earnings of 1 cent per share, a 92%
-  🔗 https://www.livemint.com/market/intel-stock-climbs-over-4-ahead-of-q1-earnings-report-analysts-predict-fall-in-revenue-11776962839029.html
+- Stocks to trade: Raja Venkatraman recommends 3 stocks for 24 April
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-nifty-sensex-praj-industries-mankind-pharma-cams-11776991767132.html
 
-- Gold, silver rates today: Comex gold drops $53/oz, silver down $3.7/oz as oil rebound fuels inflation fears
-  Gold and silver prices declined on 23 April, with gold futures at $4,700 and silver at $74.23. Renewed geopolitical tensions in the Middle East heightened inflation fears
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-53-oz-silver-down-3-7-oz-as-oil-rebound-fuels-inflation-fears-11776955716502.html
+- GPT-5.5 launched: OpenAI says ChatGPT can now debug code and operate software
+  OpenAI has launched its GPT-5.5 model, claiming it is its most intuitive AI yet. The AI mdoel
+  🔗 https://www.livemint.com/technology/tech-news/gpt55-launched-openai-says-chatgpt-can-now-debug-code-and-operate-software-11776991669505.html
 
-- Tips Music shares rise 8% to eight-month high after Q4 results; gain 31% in April
-  On April 23, Tips Music's stock climbed 8.02% to  ₹660 after a strong Q4FY
-  🔗 https://www.livemint.com/market/stock-market-news/tips-music-shares-rise-8-to-eight-month-high-after-q4-results-gain-31-in-april-11776951283104.html
+- Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry
+  Singapore emerging as neutral ground as AI
+  🔗 https://www.livemint.com/technology/singapore-emerging-as-neutral-ground-as-ai-firms-navigate-sino-us-rivalry-11776990691733.html
 
 - India needs digital identity for every device and stronger AI-led cyber defence to curb threats: Experts
   Experts have called for creating a digital identity for every device and strengthening artificial intelligence (AI)-led cybersecurity systems.
@@ -92,113 +100,125 @@
   One Tech Tip: Logging on at a cafe
   🔗 https://www.livemint.com/technology/one-tech-tip-logging-on-at-a-cafe-privacy-and-security-guidelines-for-remote-workers-11776917150057.html
 
-- A robot is beating human pros at table tennis. Its maker calls it a milestone for machines
-  A robot is beating human pros at table tennis. Its maker
-  🔗 https://www.livemint.com/technology/a-robot-is-beating-human-pros-at-table-tennis-its-maker-calls-it-a-milestone-for-machines-11776870155462.html
+- Stocks close lower, retreating from records as software shares slump, oil jumps - CNBC
+  Stock futures are little changed after Trump announces extension to Israel-Lebanon ceasefire.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSjdYQXIyVkEzWXFnbnNjQUstVE5UNG1fYll5SFVPUTRLenY1VTh3UEcxZDA2UTBNcy1RSDBDQm1uaVZId0Y4ZUo2VU9fX0sxZW01YjQ4VnhrQzhWNk15b0RHMTNUbVlGdjZySzlfUWFya3V2TTRn0gF8QVVfeXFMTklmblpwRkV2eldjUndRNVQ5QkhULXktYjBLYjlBZlJFLVcwNkkyaDBhRTU3YTNxWUE4ZXlUcURnTXlvUFAtUFRDaE1uRUlNQk5odU96R29VVnM5VERvNTF3el9vbzdTUHdRTTIweG83dU1DVm14dkxucHJlcQ?oc=5
 
-- Trapped in an elevator? AI system at Namo Bharat stations can raise alarm in 60 seconds
-   AI system at Namo Bharat stations can raise alarm
-  🔗 https://www.livemint.com/technology/trapped-in-an-elevator-ai-system-at-namo-bharat-stations-can-raise-alarm-in-60-seconds-11776857570583.html
+- Global stock markets are too high and set to fall, says Bank of England deputy - BBC
+  Global stock markets are too high and set to fall, says Bank
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTG5vbkV3dG9RUjJwM1VXTlFOQ0p6VFRPakpnWVR4WjdiY2M0OVUwSjV0aTdOZWJJWHh2bkdoN19CLUd4a2dBRjZXZG01MlBqSkwxMmRVODlVZw?oc=5
 
-- US stocks: Dow Jones plummets over 500 points after Trump orders US Navy to kill any boat laying mines in Strait of Hormuz
-  US President Donald Trump issued a directive for the Navy to engage any boats laying mines in the Strait of Hormuz. This action heightened existing tensions in the region. Investors are closely watching for resolution to these conflicts.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-jones-plummets-over-500-points-after-trump-orders-us-navy-to-kill-any-boat-laying-mines-in-hormuz/articleshow/130476499.cms
+- Sensex Today | Stock Market Live: GIFT Nifty hints a positive start; US markets fall, Asia mixed - Moneycontrol.com
+  " target="_blank">Sensex Today | Stock Market Live:
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQX2d6cm5vZXVEdTdQYzFkQ1V6Qk5jcEI5YWZrdnR2MGZMZDlzeHl3Uklfa2JwWEFQY3BpMDFSd09uYWtPcTBpcWJHVG4zc3EtNDBHTk5zaHVQeXVKYUlHa1hPdlcxZkxqUmRaQUVtb18wVXhxQUhPeEJXYUlMMUtVWW5uLVpyQ3ZYb2dUbXM1RzBiRGhPa19heWZxNFljZklkTmUxaTB1ckhNRURac2lweXNoSVRua3pjWmNCZUZQX1hDSUVWYjVCekY1OUVYLUtZWFE0SlJCUDlsWUlsa0pZX3gxZGtiak5KQ3R0ZFlaRUktdTlFNVE2QUluWTkteUlJSmhNQlVjTkgyUTRtcF81SVJGUdIBmAJBVV95cUxNNEtWYV8xRTdFaEVzYlJvSE9ZWGs2Z0RiUVRJYmpqaTFnZ29NOEJXZE9FQmJLTUM3OWRQZTNNalpVeXBrdnZiWlJVOVdaX3JCbnJSY1I2aEYzaTVtS0dOZzZGb0RJSkd3cXJOamsxUFh0X0tmN21pWW9TVVlsQXZoZkRRQnl4WFBxZ3gzUTJJeG5NdVU3SUVvdFZySndSME9NQlNER2NrS3p6UDIwbXpVWnZDVDFGcjFia3JRR3U0amRCdk1QLXl6VVFGdUNoSDROYjBKZFlOYjhUZXFLS3ljaS1ZSUFuUFFOYm85VTJzeGc2d3pFVGR5VUpURTBFN2dIcE1UREtOYXhuV29XNjNHY2Z1Q0xNV2hL?oc=5
 
-- Nasdaq to launch new products ahead of extended trading hours plan
-  Nasdaq is launching new products for extended U.S. stock trading. This move will allow trading for 23 hours a day, five days a week. This change is expected to begin on December 6, pending regulatory approval.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-to-launch-new-products-ahead-of-extended-trading-hours-plan/articleshow/130476381.cms
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex plummets 852 pts, Nifty ends below 24,200; Tech... - The Economic Times
+  The Sensex plummets 852 pts, Nifty ends below 24,200.
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY3I1TldxV2w3d1JZSGFfSzJlVGxkb0U5cjJNdnZXZlJ1MXFOZlcyYjdTSXYyUE55Qll3YUphdnhZX3B4SnZRQU04X2J6WVJoZldUdWtuQXEyRVJsXzB3TEN0SnVPQzdjd1RwdmZkNmoxTTEyTDRRS01RcHJPV2hWNUhyS1F1X3dCTFhaeXNOcUtPUUJ2VENxYmJQRWZOM3B3M3FBLXktWjVXRU1paXBSejU4MkY5ekNzdVdfZ09OUGhkY09PQzhqV2syRENHWkpCX1h4VzZkTnhCYVpVZDVvNm1XVjk0VWtQSDBHdWN6MW1vaWZ6b21KX1dHRzcwbWdRNEUzTjZDUzTSAY4CQVVfeXFMT1h0ZlZ2c3g1U2pXS0dQblNTdnpxWVJEcE9ac3pLVGFGenBEQ3ZyMEJZMjZYN3RwRFd6eURlLXdEZTRZSmU3SW1IalRneVk4a0J1Y1JIbURHcGIxVHV4RXJ6aVVvREE4TVRoa1F2b0hDRkZaVllqYjZzUXhVRWQ1Y1l3cjBjVHo3X0lfZFdraHF0M1AzSnA1ejdUYnFxbmJUQWU2LWlvQk9INndKMDk2X3pmU2ZnLXdtSXYyeEFxbWgya2dfaEFLMzZXaTF6dWt1NUtqYnJNV19LZkd3UHN2WDFlM3FZeUdlWDY3Nkc4N2JnSUFvLWJrVC1Sa0dTNHVHcjlsbThZMkNtdS0xckNn?oc=5
 
-- Freeport delays Grasberg recovery due to wetter ore; shares fall
-  Freeport-McMoRan announced a slower-than-expected recovery at its Grasberg mine in Indonesia following a fatal flood. The company now anticipates only 65% production restoration by the second half of the year, down
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/freeport-delays-grasberg-recovery-due-to-wetter-ore-shares-fall/articleshow/130474610.cms
+- First Tick: Top global cues to watch in today’s trade - Moneycontrol.com
+  Moneycontrol.com offers a look at
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGtVUTBOeWVQTWg4V0kxNExnRXFtYVVuR3VjdE1scHYwem8wbTd2RXBtVGxkN3NCR2lvWFJtcXZMR0tuYVVjeUgzWHJDRGpETDVKaTRHZm00aUNhSlNNcGVlTVR6M1U3VmlBaC1mWVBPaGZsVWlwdlRhQ2gwNmxBLVJVYkxUdGNqQzhlZHRlSVBJSzA0Y0drWWhVb3EzRmRmUjRiZ1k4bzFHOWNkeVNBYzFjZkgyNTN6dm5PVnNn0gHDAUFVX3lxTE5xd01UMnRMYmRvdUZHVmU0cUhOYmdWTWdRRDBYQWNIQWE4NHNnZWxtcGFqWFZSdFFmcjlzR3lINHlNUTViMzNpRVZXb2pDd1hVa2cyd3NxVDlrQkxMSEdBNkYxMmR6VnNoc2lKOEtvOHZKRkNldGhxcUhOam9nX2FfYVhfR2F2RG1YYTZxVmh6LXBqZHFWeGk5SThzN21nbU1ZZS0tRUxNaUlIQlg5bzhMQ1Qzb1ZFaG1yaXpzVVpqLWZSTQ?oc=5
 
-- US stocks: American Airlines dims 2026 forecast as high fuel costs hurt margins
-  American Airlines cut its 2026 profit forecast on Thursday. Jet fuel costs driven by the Iran war hurt profit margins.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-american-airlines-dims-2026-forecast-as-high-fuel-costs-hurt-margins/articleshow/130473350.cms
+- Gold set for weekly drop as higher oil prices stoke inflation fears
+  Gold prices held firm Friday, yet are poised for a weekly decline. Soaring oil prices, fueled by stalled U.S.-Iran peace talks, are sparking inflation worries. This energy shock is straining the global
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-weekly-drop-as-higher-oil-prices-stoke-inflation-fears/articleshow/130481608.cms
 
-- Aurum PropTech crosses Rs 500 crore annualised recurring revenue
-  Aurum PropTech reported strong revenue growth and crossed a major ARR milestone. The company also posted consecutive profitable quarters.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/aurum-proptech-crosses-rs-500-crore-annualised-recurring-revenue/articleshow/130473342.cms
+- Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty
+  The dollar is set for its first weekly rise in three weeks. Stalled peace talks between the U.S. and Iran are impacting Middle East tensions. Crude oil prices remain firm, supporting a stronger dollar.
+  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-set-for-weekly-gain-on-stalled-us-iran-talks-and-middle-east-uncertainty/articleshow/130481600.cms
 
-- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
-  'Uninformed, inappropriate': India slams Donald Trump over
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
+- Oil rises on concerns over escalating military tensions in the Middle East
+  Oil prices surged Friday amid escalating Middle East tensions. Iran's release of footage showing commandos boarding a cargo ship in the Strait of Hormuz has fueled fears of renewed conflict. Analysts warn that a breakdown in U.S.-
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-concerns-over-escalating-military-tensions-in-the-middle-east/articleshow/130481577.cms
 
-- Fast Boats, Masks, Rifles: How Iran Guards Seized India-Bound Ship In Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4zUnB3NXhjU2ZtcnYwZ2Ffa09rTHhmeFgwUWlJQ1dLaWdSdmNqOFp5VDV6WTlYREtDOFRGOHlkR0VoY3JRdDZMYjBEbHhyTkZmRDQzZDdCV0dsZ2szcURQdktKMm1VUm8wNzRsTG9SUUZlNWlLZFNlTHl5VHg0a0RsUmJOcDFXc2Y2Y0dsZ0ItRmNrOG5qWGFuZ3ItRnRZQ05BVDJiMko3VWlmZF9lWVAxVWtSQXE3eHBKbTR3MllFakV4d0lhSGxRd3NFT0wzUnhDWE1SZXdMWW_SAeMBQVVfeXFMTld5NUVWZ0I3ZmE0ZWZaVmM4U1J5dEZGSWNzQ3YzbWh4NjlHcUlEaEpMTDlJUi1waWRDaW5tUUdvaDByOGtDLTlRR2ZUdm9zWWoyTFlOZTdNMnN4c2pCZGx5VHBBM1gweVh1VFVFcmdrZHFmQ1FEa0VXdjZqdjhsRkhsMFFCdFdZZmFOODRKcEV6WHBoMTdMUU9ZZDZ1ZVFnSUVaRlE1d01fdmVQUzg1dEV0cGpfbXk2YnhXMkMybnZTM25NM29uU19rS285RkRpdWg3eXVHclJhRHVpTjJJb1RocVE?oc=5
+- Global Market Today: Asian stocks drop as Iran talks stall, oil gains
+  Brent crude climbs to $106.20 a barrel. Asian equities opened lower as US-Iran talks showed little progress in de-escalating the conflict.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-iran-talks-stall-oil-gains/articleshow/130481212.cms
 
-- Ladakh LG announces tourism reforms for ‘ease of doing business’ - The Times of India
-  Ladakh LG announces tourism reforms for ‘e
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGdzZjBUS3RMdC1Fa0hCSkktcUJvakQxU0JSOXVDTmVPTHF5eDBfdGpCM1gwVUxRRElVYmFyRmlZbHZBQU9HYXZVcmxNZ2g2OWtuTEYxWkIySjN3dmlrYjAxUFRfTTVPdktPdmp6bDhhN0tsZkZtVHZXNmNtSHdlNnYtQ3BCZTlNdzFxVG5GNDRPLVdLS3B6alVFdUR0NVUxajllZDRMY08zajZDeWdmbEFRUzNueDBFSTF4ZHlDNUxrWFZxREg4aUl30gHPAUFVX3lxTE9HekM3clNCaVRLMVZfcnRzcWVLc1NCVHhuTEptRk1ETWRLTENBWllDdWZ0RGJnRl9QcTZvd2NsZVBHMDVNbDJseW16Q0NiLTl2YkpUdjNwbkk0MXRFay1sVnQ5ZTdrMGQyTDdmdHF3Z1c1emV3bG9JYk9uZVRTRW0yc295bklKT1FOY2RuS1BHRWFCRE9WbC1ydlJ0VjVzYzNmQTFhQmtlMVhsdWxqRGdQSXB3Wm9wQU9meFI5bTNKdFNtZ1ZDbUNxSk1qU3Btdw?oc=5
+- RBI a net buyer of US dollars in February
+  The Reserve Bank of India became a net buyer of $7.4 billion in February. This likely benefited from a stronger rupee after the India-US trade deal announcement. The real effective exchange rate (REER) for the
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-a-net-buyer-of-us-dollars-in-february/articleshow/130481155.cms
 
-- FM Sitharaman, IT minister Vaishnaw meet bankers over looming Claude Mythos; push for faster intel sharing - The Economic Times
-  The Economic Times reports that the government is trying to push for faster intel sharing.
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPei00U3k1MkR4LXB5U3dKQVRlenRGT096blRBSUppY1BMaDFBbFdzbDBoMEl3ZlNyTFRPVnpUcWltd3ZtLTVlYm4yRGpkcGVIczhvWU4yNC0wN2xxbTZ1ZTZhdUEydDd6Vm5WY0RJZTZkZjBPTGVjRzZxNFpCN0txOGhOWGdpck1ZMFdGY2VlNW9RVkVobFFBLURBWDhIODAwSUJKZWNkcTFkc21FQmxHd0otWkVRNWVIb25IX0R5MjVEUkpjV0xmTllkWFBGNUJPUG94ZkRPSWd3SE1GVHRkOWpZd2V3M0NyNk9QcmhMcEhBU21UNXNEalFvdGtDVkJBNTFCYXoxazNUd9IBgwJBVV95cUxPclpUeE9rczZGT0RKb25jRXQ3dTZWc1hKVGNwaFBfY0w1RDZfQnVVblIyaU1UTGpET3VueTdNT2w0NzBQZTYyaHF5REdZTG1ISkpLNElUSzU1MWJvU2pJRTZzMmNKSmVXd1RzUGh6WFBiN0h6Z3pIaVBJMEVHd1d2U0NmUEt2RXo0YktzRzdqNzYxTUZ4TVVRQS1ZZnFRVVlDbnFzRlAweFA2ODBQb2Y5bzQ0SDQ0dVVpUzhsN2RLVUR5bGVIaUJSRjRJU3psUUs5Mk8tV0Y2R3dPWlFYUGVEdm9WSTU3ZWdmVjFLb3BvRXREcXBINzcwUGFsaVdhSUlGQ0tz?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Odisha tops rooftop solar scheme in India - The Times of India
-  Odisha tops rooftop solar scheme in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDBuSU5IaGNDdHFvWjF6ZnFJdkxNekNKTmFIMTdtVlQ3MFBiLXZGTDdwLTR0YVZNcllrd1Nsc2hONmhZaTZYSUF4ai11Z1VUYTdLUUlmSGFQQ3RFZWVBUkwyQmpfVzAwX3hZcDJjUUNqZDNzbzZySGtQbFhpSVZBOW9UYXVjZnpocm1BMGM2UjVfUDJGTmJaN0pxaExfZFlJcU9zR3R3OXBrZ1lTU1VCNm44X2Y3LU5YMGRNNtIBwgFBVV95cUxPOGF6d09IdVRKR1h2eWh3cG5TVTFfa09LUnBuSTJHNFRpTUFVTVZibWNTMC1KdGFzbEZ2WlZidUFBbmZXZFJObURLV2VFdmk0QVZCSWN4WGZROUl5TmlrRlA2LXVrN3FJOFZwcXRhdU12X0NvQkpZVU5kUWNNVm5YUlJVb212MWVrSmxQamJMdG1HSnJJTWRrTncwNUdyQjd6VGJJdmZBQWJncnN5SlRwSlpNVjdvaF9sMlNxbjlzZjNidw?oc=5
+- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
+  'Trump has said India a great country': US in firefight mode after president
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
 
-- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
-  'Uninformed, inappropriate': India slams Donald Trump over
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
+- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+  India voices anger after Trump shares comments calling it a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
 
-- Fast Boats, Masks, Rifles: How Iran Guards Seized India-Bound Ship In Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4zUnB3NXhjU2ZtcnYwZ2Ffa09rTHhmeFgwUWlJQ1dLaWdSdmNqOFp5VDV6WTlYREtDOFRGOHlkR0VoY3JRdDZMYjBEbHhyTkZmRDQzZDdCV0dsZ2szcURQdktKMm1VUm8wNzRsTG9SUUZlNWlLZFNlTHl5VHg0a0RsUmJOcDFXc2Y2Y0dsZ0ItRmNrOG5qWGFuZ3ItRnRZQ05BVDJiMko3VWlmZF9lWVAxVWtSQXE3eHBKbTR3MllFakV4d0lhSGxRd3NFT0wzUnhDWE1SZXdMWW_SAeMBQVVfeXFMTld5NUVWZ0I3ZmE0ZWZaVmM4U1J5dEZGSWNzQ3YzbWh4NjlHcUlEaEpMTDlJUi1waWRDaW5tUUdvaDByOGtDLTlRR2ZUdm9zWWoyTFlOZTdNMnN4c2pCZGx5VHBBM1gweVh1VFVFcmdrZHFmQ1FEa0VXdjZqdjhsRkhsMFFCdFdZZmFOODRKcEV6WHBoMTdMUU9ZZDZ1ZVFnSUVaRlE1d01fdmVQUzg1dEV0cGpfbXk2YnhXMkMybnZTM25NM29uU19rS285RkRpdWg3eXVHclJhRHVpTjJJb1RocVE?oc=5
+- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
+  The Hindu reports on India's plastic crisis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
 
-- Ladakh LG announces tourism reforms for ‘ease of doing business’ - The Times of India
-  Ladakh LG announces tourism reforms for ‘e
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGdzZjBUS3RMdC1Fa0hCSkktcUJvakQxU0JSOXVDTmVPTHF5eDBfdGpCM1gwVUxRRElVYmFyRmlZbHZBQU9HYXZVcmxNZ2g2OWtuTEYxWkIySjN3dmlrYjAxUFRfTTVPdktPdmp6bDhhN0tsZkZtVHZXNmNtSHdlNnYtQ3BCZTlNdzFxVG5GNDRPLVdLS3B6alVFdUR0NVUxajllZDRMY08zajZDeWdmbEFRUzNueDBFSTF4ZHlDNUxrWFZxREg4aUl30gHPAUFVX3lxTE9HekM3clNCaVRLMVZfcnRzcWVLc1NCVHhuTEptRk1ETWRLTENBWllDdWZ0RGJnRl9QcTZvd2NsZVBHMDVNbDJseW16Q0NiLTl2YkpUdjNwbkk0MXRFay1sVnQ5ZTdrMGQyTDdmdHF3Z1c1emV3bG9JYk9uZVRTRW0yc295bklKT1FOY2RuS1BHRWFCRE9WbC1ydlJ0VjVzYzNmQTFhQmtlMVhsdWxqRGdQSXB3Wm9wQU9meFI5bTNKdFNtZ1ZDbUNxSk1qU3Btdw?oc=5
+- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
+  Indian Embassy in Tehran issues ‘do not travel�
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
 
-- FM Sitharaman, IT minister Vaishnaw meet bankers over looming Claude Mythos; push for faster intel sharing - The Economic Times
-  The Economic Times reports that the government is trying to push for faster intel sharing.
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPei00U3k1MkR4LXB5U3dKQVRlenRGT096blRBSUppY1BMaDFBbFdzbDBoMEl3ZlNyTFRPVnpUcWltd3ZtLTVlYm4yRGpkcGVIczhvWU4yNC0wN2xxbTZ1ZTZhdUEydDd6Vm5WY0RJZTZkZjBPTGVjRzZxNFpCN0txOGhOWGdpck1ZMFdGY2VlNW9RVkVobFFBLURBWDhIODAwSUJKZWNkcTFkc21FQmxHd0otWkVRNWVIb25IX0R5MjVEUkpjV0xmTllkWFBGNUJPUG94ZkRPSWd3SE1GVHRkOWpZd2V3M0NyNk9QcmhMcEhBU21UNXNEalFvdGtDVkJBNTFCYXoxazNUd9IBgwJBVV95cUxPclpUeE9rczZGT0RKb25jRXQ3dTZWc1hKVGNwaFBfY0w1RDZfQnVVblIyaU1UTGpET3VueTdNT2w0NzBQZTYyaHF5REdZTG1ISkpLNElUSzU1MWJvU2pJRTZzMmNKSmVXd1RzUGh6WFBiN0h6Z3pIaVBJMEVHd1d2U0NmUEt2RXo0YktzRzdqNzYxTUZ4TVVRQS1ZZnFRVVlDbnFzRlAweFA2ODBQb2Y5bzQ0SDQ0dVVpUzhsN2RLVUR5bGVIaUJSRjRJU3psUUs5Mk8tV0Y2R3dPWlFYUGVEdm9WSTU3ZWdmVjFLb3BvRXREcXBINzcwUGFsaVdhSUlGQ0tz?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Odisha tops rooftop solar scheme in India - The Times of India
-  Odisha tops rooftop solar scheme in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDBuSU5IaGNDdHFvWjF6ZnFJdkxNekNKTmFIMTdtVlQ3MFBiLXZGTDdwLTR0YVZNcllrd1Nsc2hONmhZaTZYSUF4ai11Z1VUYTdLUUlmSGFQQ3RFZWVBUkwyQmpfVzAwX3hZcDJjUUNqZDNzbzZySGtQbFhpSVZBOW9UYXVjZnpocm1BMGM2UjVfUDJGTmJaN0pxaExfZFlJcU9zR3R3OXBrZ1lTU1VCNm44X2Y3LU5YMGRNNtIBwgFBVV95cUxPOGF6d09IdVRKR1h2eWh3cG5TVTFfa09LUnBuSTJHNFRpTUFVTVZibWNTMC1KdGFzbEZ2WlZidUFBbmZXZFJObURLV2VFdmk0QVZCSWN4WGZROUl5TmlrRlA2LXVrN3FJOFZwcXRhdU12X0NvQkpZVU5kUWNNVm5YUlJVb212MWVrSmxQamJMdG1HSnJJTWRrTncwNUdyQjd6VGJJdmZBQWJncnN5SlRwSlpNVjdvaF9sMlNxbjlzZjNidw?oc=5
+- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
+  'Trump has said India a great country': US in firefight mode after president
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
 
-- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
-  'Uninformed, inappropriate': India slams Donald Trump over
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
+- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+  India voices anger after Trump shares comments calling it a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
 
-- Fast Boats, Masks, Rifles: How Iran Guards Seized India-Bound Ship In Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4zUnB3NXhjU2ZtcnYwZ2Ffa09rTHhmeFgwUWlJQ1dLaWdSdmNqOFp5VDV6WTlYREtDOFRGOHlkR0VoY3JRdDZMYjBEbHhyTkZmRDQzZDdCV0dsZ2szcURQdktKMm1VUm8wNzRsTG9SUUZlNWlLZFNlTHl5VHg0a0RsUmJOcDFXc2Y2Y0dsZ0ItRmNrOG5qWGFuZ3ItRnRZQ05BVDJiMko3VWlmZF9lWVAxVWtSQXE3eHBKbTR3MllFakV4d0lhSGxRd3NFT0wzUnhDWE1SZXdMWW_SAeMBQVVfeXFMTld5NUVWZ0I3ZmE0ZWZaVmM4U1J5dEZGSWNzQ3YzbWh4NjlHcUlEaEpMTDlJUi1waWRDaW5tUUdvaDByOGtDLTlRR2ZUdm9zWWoyTFlOZTdNMnN4c2pCZGx5VHBBM1gweVh1VFVFcmdrZHFmQ1FEa0VXdjZqdjhsRkhsMFFCdFdZZmFOODRKcEV6WHBoMTdMUU9ZZDZ1ZVFnSUVaRlE1d01fdmVQUzg1dEV0cGpfbXk2YnhXMkMybnZTM25NM29uU19rS285RkRpdWg3eXVHclJhRHVpTjJJb1RocVE?oc=5
+- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
+  The Hindu reports on India's plastic crisis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
 
-- Ladakh LG announces tourism reforms for ‘ease of doing business’ - The Times of India
-  Ladakh LG announces tourism reforms for ‘e
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGdzZjBUS3RMdC1Fa0hCSkktcUJvakQxU0JSOXVDTmVPTHF5eDBfdGpCM1gwVUxRRElVYmFyRmlZbHZBQU9HYXZVcmxNZ2g2OWtuTEYxWkIySjN3dmlrYjAxUFRfTTVPdktPdmp6bDhhN0tsZkZtVHZXNmNtSHdlNnYtQ3BCZTlNdzFxVG5GNDRPLVdLS3B6alVFdUR0NVUxajllZDRMY08zajZDeWdmbEFRUzNueDBFSTF4ZHlDNUxrWFZxREg4aUl30gHPAUFVX3lxTE9HekM3clNCaVRLMVZfcnRzcWVLc1NCVHhuTEptRk1ETWRLTENBWllDdWZ0RGJnRl9QcTZvd2NsZVBHMDVNbDJseW16Q0NiLTl2YkpUdjNwbkk0MXRFay1sVnQ5ZTdrMGQyTDdmdHF3Z1c1emV3bG9JYk9uZVRTRW0yc295bklKT1FOY2RuS1BHRWFCRE9WbC1ydlJ0VjVzYzNmQTFhQmtlMVhsdWxqRGdQSXB3Wm9wQU9meFI5bTNKdFNtZ1ZDbUNxSk1qU3Btdw?oc=5
+- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
+  Indian Embassy in Tehran issues ‘do not travel�
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
 
-- FM Sitharaman, IT minister Vaishnaw meet bankers over looming Claude Mythos; push for faster intel sharing - The Economic Times
-  The Economic Times reports that the government is trying to push for faster intel sharing.
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPei00U3k1MkR4LXB5U3dKQVRlenRGT096blRBSUppY1BMaDFBbFdzbDBoMEl3ZlNyTFRPVnpUcWltd3ZtLTVlYm4yRGpkcGVIczhvWU4yNC0wN2xxbTZ1ZTZhdUEydDd6Vm5WY0RJZTZkZjBPTGVjRzZxNFpCN0txOGhOWGdpck1ZMFdGY2VlNW9RVkVobFFBLURBWDhIODAwSUJKZWNkcTFkc21FQmxHd0otWkVRNWVIb25IX0R5MjVEUkpjV0xmTllkWFBGNUJPUG94ZkRPSWd3SE1GVHRkOWpZd2V3M0NyNk9QcmhMcEhBU21UNXNEalFvdGtDVkJBNTFCYXoxazNUd9IBgwJBVV95cUxPclpUeE9rczZGT0RKb25jRXQ3dTZWc1hKVGNwaFBfY0w1RDZfQnVVblIyaU1UTGpET3VueTdNT2w0NzBQZTYyaHF5REdZTG1ISkpLNElUSzU1MWJvU2pJRTZzMmNKSmVXd1RzUGh6WFBiN0h6Z3pIaVBJMEVHd1d2U0NmUEt2RXo0YktzRzdqNzYxTUZ4TVVRQS1ZZnFRVVlDbnFzRlAweFA2ODBQb2Y5bzQ0SDQ0dVVpUzhsN2RLVUR5bGVIaUJSRjRJU3psUUs5Mk8tV0Y2R3dPWlFYUGVEdm9WSTU3ZWdmVjFLb3BvRXREcXBINzcwUGFsaVdhSUlGQ0tz?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Odisha tops rooftop solar scheme in India - The Times of India
-  Odisha tops rooftop solar scheme in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDBuSU5IaGNDdHFvWjF6ZnFJdkxNekNKTmFIMTdtVlQ3MFBiLXZGTDdwLTR0YVZNcllrd1Nsc2hONmhZaTZYSUF4ai11Z1VUYTdLUUlmSGFQQ3RFZWVBUkwyQmpfVzAwX3hZcDJjUUNqZDNzbzZySGtQbFhpSVZBOW9UYXVjZnpocm1BMGM2UjVfUDJGTmJaN0pxaExfZFlJcU9zR3R3OXBrZ1lTU1VCNm44X2Y3LU5YMGRNNtIBwgFBVV95cUxPOGF6d09IdVRKR1h2eWh3cG5TVTFfa09LUnBuSTJHNFRpTUFVTVZibWNTMC1KdGFzbEZ2WlZidUFBbmZXZFJObURLV2VFdmk0QVZCSWN4WGZROUl5TmlrRlA2LXVrN3FJOFZwcXRhdU12X0NvQkpZVU5kUWNNVm5YUlJVb212MWVrSmxQamJMdG1HSnJJTWRrTncwNUdyQjd6VGJJdmZBQWJncnN5SlRwSlpNVjdvaF9sMlNxbjlzZjNidw?oc=5
+- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
+  'Trump has said India a great country': US in firefight mode after president
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
 
-- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
-  'Uninformed, inappropriate': India slams Donald Trump over
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
+- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+  India voices anger after Trump shares comments calling it a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
 
-- Fast Boats, Masks, Rifles: How Iran Guards Seized India-Bound Ship In Hormuz - NDTV
-  The ship was bound for India from the port of
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4zUnB3NXhjU2ZtcnYwZ2Ffa09rTHhmeFgwUWlJQ1dLaWdSdmNqOFp5VDV6WTlYREtDOFRGOHlkR0VoY3JRdDZMYjBEbHhyTkZmRDQzZDdCV0dsZ2szcURQdktKMm1VUm8wNzRsTG9SUUZlNWlLZFNlTHl5VHg0a0RsUmJOcDFXc2Y2Y0dsZ0ItRmNrOG5qWGFuZ3ItRnRZQ05BVDJiMko3VWlmZF9lWVAxVWtSQXE3eHBKbTR3MllFakV4d0lhSGxRd3NFT0wzUnhDWE1SZXdMWW_SAeMBQVVfeXFMTld5NUVWZ0I3ZmE0ZWZaVmM4U1J5dEZGSWNzQ3YzbWh4NjlHcUlEaEpMTDlJUi1waWRDaW5tUUdvaDByOGtDLTlRR2ZUdm9zWWoyTFlOZTdNMnN4c2pCZGx5VHBBM1gweVh1VFVFcmdrZHFmQ1FEa0VXdjZqdjhsRkhsMFFCdFdZZmFOODRKcEV6WHBoMTdMUU9ZZDZ1ZVFnSUVaRlE1d01fdmVQUzg1dEV0cGpfbXk2YnhXMkMybnZTM25NM29uU19rS285RkRpdWg3eXVHclJhRHVpTjJJb1RocVE?oc=5
+- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
+  The Hindu reports on India's plastic crisis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
 
-- Ladakh LG announces tourism reforms for ‘ease of doing business’ - The Times of India
-  Ladakh LG announces tourism reforms for ‘e
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGdzZjBUS3RMdC1Fa0hCSkktcUJvakQxU0JSOXVDTmVPTHF5eDBfdGpCM1gwVUxRRElVYmFyRmlZbHZBQU9HYXZVcmxNZ2g2OWtuTEYxWkIySjN3dmlrYjAxUFRfTTVPdktPdmp6bDhhN0tsZkZtVHZXNmNtSHdlNnYtQ3BCZTlNdzFxVG5GNDRPLVdLS3B6alVFdUR0NVUxajllZDRMY08zajZDeWdmbEFRUzNueDBFSTF4ZHlDNUxrWFZxREg4aUl30gHPAUFVX3lxTE9HekM3clNCaVRLMVZfcnRzcWVLc1NCVHhuTEptRk1ETWRLTENBWllDdWZ0RGJnRl9QcTZvd2NsZVBHMDVNbDJseW16Q0NiLTl2YkpUdjNwbkk0MXRFay1sVnQ5ZTdrMGQyTDdmdHF3Z1c1emV3bG9JYk9uZVRTRW0yc295bklKT1FOY2RuS1BHRWFCRE9WbC1ydlJ0VjVzYzNmQTFhQmtlMVhsdWxqRGdQSXB3Wm9wQU9meFI5bTNKdFNtZ1ZDbUNxSk1qU3Btdw?oc=5
+- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
+  Indian Embassy in Tehran issues ‘do not travel�
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
 
-- FM Sitharaman, IT minister Vaishnaw meet bankers over looming Claude Mythos; push for faster intel sharing - The Economic Times
-  The Economic Times reports that the government is trying to push for faster intel sharing.
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPei00U3k1MkR4LXB5U3dKQVRlenRGT096blRBSUppY1BMaDFBbFdzbDBoMEl3ZlNyTFRPVnpUcWltd3ZtLTVlYm4yRGpkcGVIczhvWU4yNC0wN2xxbTZ1ZTZhdUEydDd6Vm5WY0RJZTZkZjBPTGVjRzZxNFpCN0txOGhOWGdpck1ZMFdGY2VlNW9RVkVobFFBLURBWDhIODAwSUJKZWNkcTFkc21FQmxHd0otWkVRNWVIb25IX0R5MjVEUkpjV0xmTllkWFBGNUJPUG94ZkRPSWd3SE1GVHRkOWpZd2V3M0NyNk9QcmhMcEhBU21UNXNEalFvdGtDVkJBNTFCYXoxazNUd9IBgwJBVV95cUxPclpUeE9rczZGT0RKb25jRXQ3dTZWc1hKVGNwaFBfY0w1RDZfQnVVblIyaU1UTGpET3VueTdNT2w0NzBQZTYyaHF5REdZTG1ISkpLNElUSzU1MWJvU2pJRTZzMmNKSmVXd1RzUGh6WFBiN0h6Z3pIaVBJMEVHd1d2U0NmUEt2RXo0YktzRzdqNzYxTUZ4TVVRQS1ZZnFRVVlDbnFzRlAweFA2ODBQb2Y5bzQ0SDQ0dVVpUzhsN2RLVUR5bGVIaUJSRjRJU3psUUs5Mk8tV0Y2R3dPWlFYUGVEdm9WSTU3ZWdmVjFLb3BvRXREcXBINzcwUGFsaVdhSUlGQ0tz?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Odisha tops rooftop solar scheme in India - The Times of India
-  Odisha tops rooftop solar scheme in
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDBuSU5IaGNDdHFvWjF6ZnFJdkxNekNKTmFIMTdtVlQ3MFBiLXZGTDdwLTR0YVZNcllrd1Nsc2hONmhZaTZYSUF4ai11Z1VUYTdLUUlmSGFQQ3RFZWVBUkwyQmpfVzAwX3hZcDJjUUNqZDNzbzZySGtQbFhpSVZBOW9UYXVjZnpocm1BMGM2UjVfUDJGTmJaN0pxaExfZFlJcU9zR3R3OXBrZ1lTU1VCNm44X2Y3LU5YMGRNNtIBwgFBVV95cUxPOGF6d09IdVRKR1h2eWh3cG5TVTFfa09LUnBuSTJHNFRpTUFVTVZibWNTMC1KdGFzbEZ2WlZidUFBbmZXZFJObURLV2VFdmk0QVZCSWN4WGZROUl5TmlrRlA2LXVrN3FJOFZwcXRhdU12X0NvQkpZVU5kUWNNVm5YUlJVb212MWVrSmxQamJMdG1HSnJJTWRrTncwNUdyQjd6VGJJdmZBQWJncnN5SlRwSlpNVjdvaF9sMlNxbjlzZjNidw?oc=5
+- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
+  'Trump has said India a great country': US in firefight mode after president
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
+
+- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+  India voices anger after Trump shares comments calling it a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+
+- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
+  The Hindu reports on India's plastic crisis
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
+
+- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
+  Indian Embassy in Tehran issues ‘do not travel�
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-23 19:05:38 UTC_
+_Last updated: 2026-04-24 02:11:05 UTC_
