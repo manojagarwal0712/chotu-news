@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- ‘Bengal first, Delhi next’: Mamata’s warning to BJP ahead of phase 2 of elections
+  
+  🔗 https://indianexpress.com/article/india/mamata-banerjee-bengal-election-delhi-takeover-bjp-warning-10653455/
+
+- ‘What is PM scared of’: Opposition slams Modi’s silence over Trump’s ‘hellhole’ remark
+  
+  🔗 https://indianexpress.com/article/india/onald-trump-hellhole-india-comment-opposition-modi-kharge-reaction-10653126/
+
+- Pawan Khera denied anticipatory bail by Gauhati HC in case filed by Assam CM Himanta’s wife
+  
+  🔗 https://indianexpress.com/article/india/pawan-khera-bail-assam-cm-himanta-wife-riniki-defamation-case-rejected-10653195/
+
 - Nitish’s heir apparent puts himself ‘under probation’: Why Nishant is in no rush for a title
   
   🔗 https://indianexpress.com/article/india/nitishs-heir-apparent-puts-himself-under-probation-why-nishant-is-in-no-rush-for-a-title-10652755/
@@ -8,37 +20,25 @@
   
   🔗 https://indianexpress.com/article/india/manipur-again-on-the-boil-around-them-bodies-of-two-children-wait-for-justice-10652754/
 
-- China in mind, India and Japan move to deepen defence ties
+- Meta announces massive ‘unified account’ overhaul to simplify Facebook, Instagram, WhatsApp Security
   
-  🔗 https://indianexpress.com/article/india/china-in-mind-india-and-japan-move-to-deepen-defence-ties-10652840/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-announces-massive-unified-account-overhaul-to-simplify-facebook-instagram-whatsapp-security-10653449/
 
-- India, UK vow cooperation amid ‘turbulent geopolitical environment’
+- Cooking at home linked to lower dementia risk in older adults, study finds
   
-  🔗 https://indianexpress.com/article/india/india-uk-vow-cooperation-amid-turbulent-geopolitical-environment-10652777/
+  🔗 https://indianexpress.com/article/technology/science/cooking-at-home-linked-to-lower-dementia-risk-in-older-adults-study-finds-10652515/
 
-- Kharge’s remarks on Modi: Congress alleges EC issuing ‘casual’ notices, seeks time to reply
+- Apple fixes iPhone bug that let FBI access deleted Signal messages
   
-  🔗 https://indianexpress.com/article/india/kharges-remarks-on-modi-congress-alleges-ec-issuing-casual-notices-seeks-time-to-reply-10652748/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-bug-fbi-deleted-signal-messages-10653312/
 
-- China picks 2 Pakistani candidates for Tiangong space programme
+- Just 10 minutes of play can deepen your bond with your dog: Study
   
-  🔗 https://indianexpress.com/article/technology/science/china-picks-2-pakistani-candidates-for-tiangong-space-programme-10652429/
+  🔗 https://indianexpress.com/article/technology/science/just-10-minutes-of-play-can-deepen-your-bond-with-your-dog-study-10653223/
 
-- OnePlus teases Nord CE 6 with high-refresh display and big battery
+- Cisco shows switch that can connect quantum computers of different kinds
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-teases-nord-ce-6-with-high-refresh-display-and-big-battery-10652428/
-
-- Software engineers more nervous over AI-driven job loss than teachers: Anthropic study
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/software-engineers-ai-job-loss-teachers-anthropic-study-10652272/
-
-- OpenAI bets on agentic AI with new workspace agents in ChatGPT
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-bets-on-agentic-ai-with-new-workspace-agents-in-chatgpt-10652256/
-
-- Uranus’s rings may hide unseen moons, a new study suggests
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/uranuss-rings-may-hide-unseen-moons-a-new-study-suggests-10652018/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/cisco-shows-switch-that-can-connect-quantum-computers-of-different-kinds-10653058/
 
 - Mahindra-backed Classic Legends revs up premium bike push with new launches
    Classic Legends was founded in 2018 by the Mahindra Group along with Thareja and Boman Irani of Rustomjee Group to reintroduce iconic motorcycles, including Jawa, and Yezdi.
@@ -60,165 +60,145 @@
   Reliance Enterprise Intelligence Ltd has appointed Parminder Singh as CEO. Singh aims to leverage Meta's AI and Reliance's infrastructure to create a leading AI partner for Indian businesses.
   🔗 https://www.livemint.com/companies/news/reliance-enterprise-intelligence-appoints-parminder-singh-as-chief-executive-officer-11776960884194.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 April
-  Gift Nifty was trading around 24,233 level, a premium of nearly 70 points from the Nifty futures’ previous close. Nifty 50, Sensex
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-april-11776995045227.html
+- Vedanta Demerger: What ITC Hotels, Tata Motors, Jio Financial signal on listing timeline for Vedanta demerged entities
+  The share prices of the demerged entities will be derived from the difference between Vedanta Ltd’s closing price on April 29 and its
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-what-itc-hotels-tata-motors-jio-financial-signal-on-listing-timeline-for-vedanta-demerged-entities-11777014799236.html
 
-- Buy or sell: Vaishali Parekh recommends three stocks to buy today — 24 April 2026
-   Vaishali Parekh recommends three stocks to buy today.
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-24-april-2026-11776992468173.html
+- Trent’s Q4 shines on growth, margin; demand and cost headwinds in cart now
+  Trent's store-led growth and margin gains in Q4 offered an earnings lift. Softening demand, rising input
+  🔗 https://www.livemint.com/market/mark-to-market/trent-q4fy26-rebound-margins-input-costs-valuation-outlook-11777011290522.html
 
-- From Gift Nifty, Iran war, oil price to Infosys Q4 results: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,230 level, a premium of nearly 67 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-iran-war-oil-price-to-infosys-q4-results-10-key-things-that-changed-for-indian-stock-market-overnight-11776993950018.html
+- Gujarat-based pharma stock jumps over 15% despite stock market crash; here's why
+  Gujarat Themis Biosyn shares surged over 15% as the company announced plans to acquire 13 anti-TB and anti-infective brands from Sanofi for Euro 158 million.
+  🔗 https://www.livemint.com/market/stock-market-news/gujaratbased-pharma-stock-jumps-over-15-despite-stock-market-crash-heres-why-11777014055217.html
 
-- Dollar moves are being driven by geopolitics, not data. What comes next.
-  The U.S. dollar has been trading more on geopolitical tensions than
-  🔗 https://www.livemint.com/market/dollar-moves-are-being-driven-by-geopolitics-not-data-what-comes-next-11776992814521.html
+- Infosys vs TCS vs HCL Tech: Which large-cap IT stock should you buy after Q4 results 2026?
+  The IT sector's Q4 results reveal mixed performances. HCL Technologies favoured for its long-term potential. TCS shows resilience, while Infosys struggles
+  🔗 https://www.livemint.com/market/stock-market-news/infosys-share-vs-tcs-share-vs-hcl-tech-share-which-it-major-should-you-buy-after-q4-results-2026-11777013845708.html
 
-- Stocks to trade: Raja Venkatraman recommends 3 stocks for 24 April
-  Market expert Raja Venkatraman shares his top stock picks for
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-nifty-sensex-praj-industries-mankind-pharma-cams-11776991767132.html
+- Vodafone Idea, JP Power, Himadri Speciality, Reliance Power among the most traded stocks today, 24 April 2026
+  Vodafone Idea, Jaiprakash Power Ventures (JP Power), Himadri Speciality Chemical, Rel
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-jp-power-himadri-speciality-reliance-power-among-the-most-traded-stocks-today-24-april-2026-11777012880518.html
+
+- Did Anthropic ‘dumb down’ Claude Code? Post-mortem reveals the three bugs that crippled performance
+  Anthropic has acknowledged complaints regarding Claude Code's performance.
+  🔗 https://www.livemint.com/technology/tech-news/did-anthropic-dumb-down-claude-code-post-mortem-reveals-the-three-bugs-that-crippled-performance-11777013226388.html
+
+- iPhone 18 Pro, iPhone 18 Pro Max and iPhone Ultra complete design changes revealed in new leak
+  A new leak has revealed the designs of the iPhone 18 pro, iPhone 18 Pro Max and iPhone
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-and-iphone-ultra-complete-design-changes-revealed-in-new-leak-11777006746771.html
+
+- DeepSeek is back: China's AI claims to surpass ChatGPT and Gemini in key benchmarks
+  DeepSeek has introduced its new DeepSeek-V4 AI models, comprising Pro and Flash versions.
+  🔗 https://www.livemint.com/technology/tech-news/deepseek-is-back-chinas-ai-claims-to-surpass-chatgpt-and-gemini-in-key-benchmarks-11777004433233.html
+
+- OnePlus Nord CE 6 full specs revealed ahead of May 7 launch: 8000mAh battery, 144Hz AMOLED display, and AI features
+  The OnePlus Nord CE 6 will launch in India on May 7 with a 6.78-inch AMOLED display. It will also feature a 50MP rear camera
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce-6-full-specs-revealed-ahead-of-may-7-launch-8000mah-battery-144hz-amoled-display-and-ai-features-11776996344639.html
 
 - GPT-5.5 launched: OpenAI says ChatGPT can now debug code and operate software
   OpenAI has launched its GPT-5.5 model, claiming it is its most intuitive AI yet. The AI mdoel
   🔗 https://www.livemint.com/technology/tech-news/gpt55-launched-openai-says-chatgpt-can-now-debug-code-and-operate-software-11776991669505.html
 
-- Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry
-  Singapore emerging as neutral ground as AI
-  🔗 https://www.livemint.com/technology/singapore-emerging-as-neutral-ground-as-ai-firms-navigate-sino-us-rivalry-11776990691733.html
-
-- India needs digital identity for every device and stronger AI-led cyber defence to curb threats: Experts
-  Experts have called for creating a digital identity for every device and strengthening artificial intelligence (AI)-led cybersecurity systems.
-  🔗 https://www.livemint.com/technology/india-needs-digital-identity-for-every-device-and-stronger-ai-led-cyber-defence-to-curb-threats-experts-11776951208130.html
-
-- Turkish parliament passes bill to restrict social media access for under-15s
-  Turkish parliament passes bill to restrict
-  🔗 https://www.livemint.com/technology/turkish-parliament-passes-bill-to-restrict-social-media-access-for-under15s-11776931951392.html
-
-- One Tech Tip: Logging on at a cafe? Privacy and security guidelines for remote workers
-  One Tech Tip: Logging on at a cafe
-  🔗 https://www.livemint.com/technology/one-tech-tip-logging-on-at-a-cafe-privacy-and-security-guidelines-for-remote-workers-11776917150057.html
-
-- Stocks close lower, retreating from records as software shares slump, oil jumps - CNBC
-  Stock futures are little changed after Trump announces extension to Israel-Lebanon ceasefire.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSjdYQXIyVkEzWXFnbnNjQUstVE5UNG1fYll5SFVPUTRLenY1VTh3UEcxZDA2UTBNcy1RSDBDQm1uaVZId0Y4ZUo2VU9fX0sxZW01YjQ4VnhrQzhWNk15b0RHMTNUbVlGdjZySzlfUWFya3V2TTRn0gF8QVVfeXFMTklmblpwRkV2eldjUndRNVQ5QkhULXktYjBLYjlBZlJFLVcwNkkyaDBhRTU3YTNxWUE4ZXlUcURnTXlvUFAtUFRDaE1uRUlNQk5odU96R29VVnM5VERvNTF3el9vbzdTUHdRTTIweG83dU1DVm14dkxucHJlcQ?oc=5
-
 - Global stock markets are too high and set to fall, says Bank of England deputy - BBC
   Global stock markets are too high and set to fall, says Bank
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTG5vbkV3dG9RUjJwM1VXTlFOQ0p6VFRPakpnWVR4WjdiY2M0OVUwSjV0aTdOZWJJWHh2bkdoN19CLUd4a2dBRjZXZG01MlBqSkwxMmRVODlVZw?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty hints a positive start; US markets fall, Asia mixed - Moneycontrol.com
-  " target="_blank">Sensex Today | Stock Market Live:
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQX2d6cm5vZXVEdTdQYzFkQ1V6Qk5jcEI5YWZrdnR2MGZMZDlzeHl3Uklfa2JwWEFQY3BpMDFSd09uYWtPcTBpcWJHVG4zc3EtNDBHTk5zaHVQeXVKYUlHa1hPdlcxZkxqUmRaQUVtb18wVXhxQUhPeEJXYUlMMUtVWW5uLVpyQ3ZYb2dUbXM1RzBiRGhPa19heWZxNFljZklkTmUxaTB1ckhNRURac2lweXNoSVRua3pjWmNCZUZQX1hDSUVWYjVCekY1OUVYLUtZWFE0SlJCUDlsWUlsa0pZX3gxZGtiak5KQ3R0ZFlaRUktdTlFNVE2QUluWTkteUlJSmhNQlVjTkgyUTRtcF81SVJGUdIBmAJBVV95cUxNNEtWYV8xRTdFaEVzYlJvSE9ZWGs2Z0RiUVRJYmpqaTFnZ29NOEJXZE9FQmJLTUM3OWRQZTNNalpVeXBrdnZiWlJVOVdaX3JCbnJSY1I2aEYzaTVtS0dOZzZGb0RJSkd3cXJOamsxUFh0X0tmN21pWW9TVVlsQXZoZkRRQnl4WFBxZ3gzUTJJeG5NdVU3SUVvdFZySndSME9NQlNER2NrS3p6UDIwbXpVWnZDVDFGcjFia3JRR3U0amRCdk1QLXl6VVFGdUNoSDROYjBKZFlOYjhUZXFLS3ljaS1ZSUFuUFFOYm85VTJzeGc2d3pFVGR5VUpURTBFN2dIcE1UREtOYXhuV29XNjNHY2Z1Q0xNV2hL?oc=5
+- Markets News, April 23, 2026: U.S. Indexes End Lower as Software Stocks Sink, Oil Surges; S&P 500, Nasdaq Set Record Highs Before Reversing - Investopedia
+  The S&amp;P 500, Nasdaq Set Record Highs Before Reversing.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFdGNDNMbFpLRldVUExkTjVlZWdJcEJIODhqRF9KQXBseHpHbFgwMC1oLWdxajlPOGNOb1NoX0ZPSnZkek9nd3RMMW0waEFBRzBIQ1U5NHlZS1ZmWVNNQl9aNmpZSU1PZ3JqU0x0TG9WX3lRV19qVGU3ZllNdVZleFhfaUFIQjJuMml0SEpxU1A?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex plummets 852 pts, Nifty ends below 24,200; Tech... - The Economic Times
-  The Sensex plummets 852 pts, Nifty ends below 24,200.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY3I1TldxV2w3d1JZSGFfSzJlVGxkb0U5cjJNdnZXZlJ1MXFOZlcyYjdTSXYyUE55Qll3YUphdnhZX3B4SnZRQU04X2J6WVJoZldUdWtuQXEyRVJsXzB3TEN0SnVPQzdjd1RwdmZkNmoxTTEyTDRRS01RcHJPV2hWNUhyS1F1X3dCTFhaeXNOcUtPUUJ2VENxYmJQRWZOM3B3M3FBLXktWjVXRU1paXBSejU4MkY5ekNzdVdfZ09OUGhkY09PQzhqV2syRENHWkpCX1h4VzZkTnhCYVpVZDVvNm1XVjk0VWtQSDBHdWN6MW1vaWZ6b21KX1dHRzcwbWdRNEUzTjZDUzTSAY4CQVVfeXFMT1h0ZlZ2c3g1U2pXS0dQblNTdnpxWVJEcE9ac3pLVGFGenBEQ3ZyMEJZMjZYN3RwRFd6eURlLXdEZTRZSmU3SW1IalRneVk4a0J1Y1JIbURHcGIxVHV4RXJ6aVVvREE4TVRoa1F2b0hDRkZaVllqYjZzUXhVRWQ1Y1l3cjBjVHo3X0lfZFdraHF0M1AzSnA1ejdUYnFxbmJUQWU2LWlvQk9INndKMDk2X3pmU2ZnLXdtSXYyeEFxbWgya2dfaEFLMzZXaTF6dWt1NUtqYnJNV19LZkd3UHN2WDFlM3FZeUdlWDY3Nkc4N2JnSUFvLWJrVC1Sa0dTNHVHcjlsbThZMkNtdS0xckNn?oc=5
+- Stock futures trade mixed after Trump announces 3-week extension to Israel-Lebanon ceasefire: Live updates - CNBC
+  Stock futures trade mixed after Trump announces 3-week extension to
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZVNnLVlGMEZYUF9USWZF0gF8QVVfeXFMTTZzbzljVFVBZXA1Tl9VUmpBRHhqNnktcThqeE1yZVdxMWVNU2c4ZXd2d0dBcGYzdC1IOXd5TG9nSEp3c2VmdUJVSERMTnJENlBLd2ZGTENCRTc5dFo0MTFFVlRnb29RS2F4YkNQd3VhZk52SFlEQkJYRzNQNg?oc=5
 
-- First Tick: Top global cues to watch in today’s trade - Moneycontrol.com
-  Moneycontrol.com offers a look at
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGtVUTBOeWVQTWg4V0kxNExnRXFtYVVuR3VjdE1scHYwem8wbTd2RXBtVGxkN3NCR2lvWFJtcXZMR0tuYVVjeUgzWHJDRGpETDVKaTRHZm00aUNhSlNNcGVlTVR6M1U3VmlBaC1mWVBPaGZsVWlwdlRhQ2gwNmxBLVJVYkxUdGNqQzhlZHRlSVBJSzA0Y0drWWhVb3EzRmRmUjRiZ1k4bzFHOWNkeVNBYzFjZkgyNTN6dm5PVnNn0gHDAUFVX3lxTE5xd01UMnRMYmRvdUZHVmU0cUhOYmdWTWdRRDBYQWNIQWE4NHNnZWxtcGFqWFZSdFFmcjlzR3lINHlNUTViMzNpRVZXb2pDd1hVa2cyd3NxVDlrQkxMSEdBNkYxMmR6VnNoc2lKOEtvOHZKRkNldGhxcUhOam9nX2FfYVhfR2F2RG1YYTZxVmh6LXBqZHFWeGk5SThzN21nbU1ZZS0tRUxNaUlIQlg5bzhMQ1Qzb1ZFaG1yaXpzVVpqLWZSTQ?oc=5
+- Stocks Fall as Oil Climbs With Iran Talks in Limbo: Markets Wrap - Bloomberg.com
+  Stocks Fall as Oil Climbs With Iran Talks
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2NHY0xrR0JNTDNUVTdlck1adnExOEdDVzlfSWFJNTROTVlsZ0ZMa3l4SFRTU3BwemE2ZjVUNC1RdXA3Ym40dHg3SldxTHhyUVhqdkk0RmN6aGFHaUhLdFdVZFYwUDVxZ2g0VWdDNVRGODIwZWVXU25UQmppOGNkX2hBb0dfOXl3S0VwMW5kSENMQjNw?oc=5
 
-- Gold set for weekly drop as higher oil prices stoke inflation fears
-  Gold prices held firm Friday, yet are poised for a weekly decline. Soaring oil prices, fueled by stalled U.S.-Iran peace talks, are sparking inflation worries. This energy shock is straining the global
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-weekly-drop-as-higher-oil-prices-stoke-inflation-fears/articleshow/130481608.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex tumbles over 1,100 pts, Nifty below 23,900; I... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGYzODZhRXV4Qmp1SDdxcFFqUEdfV3hwWTFYRFNiT1ZlNm9rU05CeXVKam0tWE4xWGZZcERkZW5OSFlrcjgyRTEyaWdHcUZMbFFyLVduWXhhVzBEdWJfa1ZLTnA0QWpvRE
+  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGYzODZhRXV4Qmp1SDdxcFFqUEdfV3hwWTFYRFNiT1ZlNm9rU05CeXVKam0tWE4xWGZZcERkZW5OSFlrcjgyRTEyaWdHcUZMbFFyLVduWXhhVzBEdWJfa1ZLTnA0QWpvREVXOHJJdFBsX2J1dXdXaFd6VExId01YcTk1dy10eGgtYXRIcXZXRkhpcHVlNlo3VmRGaEl0RTRlaEZJNHFtMVhkQ1o3VVpsR2xwRi1fb1g2MHZkSS1BZ2ZtbF9wR0E4NGc1Z1NGRlB1eTVVTFA1UFl4VU5JVHV0VlVMd0pDall6TGJvWk0zMG91aTJ1LUZ4Q3BQbzRyaGc0UFFHSUt30gGLAkFVX3lxTE9nWjRIZ2h1TTNqd3FBcUl6RVFIWVVQR0toNm80a25hRy1xYmktSE1PbXFmcTNDYWxwVHkyRnRjWmhldzAyd2dwYTI2Q1UxbHZ0NXlNZGVpS1dURnNfcy04MkRqQ25Bb043bmtRM3JpZFNmd2pfaU9pSVNPeWlhWXJuQXh2MDhCMWd0MlcwU3Nqd1R1YkhnYl9ZaHJOaTlnZnBDV3RyanhuTlh5R28ybGcxQ0RBckZpTnNHYlphLWgxM0hUZ0xibU5DcW5oZy1SbWlHUzBzaTJPbGJCd1kxZ1RlVXVIc3VyR2Uwc1VPbldiVzFHc3B1QVZtTFctb0trQzN0VDh3a2E1ZzR6Yw?oc=5
 
-- Dollar set for weekly gain on stalled US-Iran talks and Middle East uncertainty
-  The dollar is set for its first weekly rise in three weeks. Stalled peace talks between the U.S. and Iran are impacting Middle East tensions. Crude oil prices remain firm, supporting a stronger dollar.
-  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-set-for-weekly-gain-on-stalled-us-iran-talks-and-middle-east-uncertainty/articleshow/130481600.cms
+- Sandip Sabharwal sees strength in financials, warns of IT sector headwinds
+  India's top IT firms reported mixed earnings, grappling with near-term pressures and AI-driven structural shifts. While IT valuations have become more reasonable, market expert Sandip Sabharwal advises caution due to
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/sandip-sabharwal-sees-strength-in-financials-warns-of-it-sector-headwinds/articleshow/130487283.cms
 
-- Oil rises on concerns over escalating military tensions in the Middle East
-  Oil prices surged Friday amid escalating Middle East tensions. Iran's release of footage showing commandos boarding a cargo ship in the Strait of Hormuz has fueled fears of renewed conflict. Analysts warn that a breakdown in U.S.-
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-concerns-over-escalating-military-tensions-in-the-middle-east/articleshow/130481577.cms
+- Global Markets | Japan's Nikkei closes at record high as tech earnings overshadow Mideast concerns
+  Japan's Nikkei index achieved a record closing high, marking its third consecutive weekly ascent. Strong technology sector earnings, particularly from AI-related firms like Ibiden, fueled the rally.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/global-markets-japans-nikkei-closes-at-record-high-as-tech-earnings-overshadow-mideast-concerns/articleshow/130487131.cms
 
-- Global Market Today: Asian stocks drop as Iran talks stall, oil gains
-  Brent crude climbs to $106.20 a barrel. Asian equities opened lower as US-Iran talks showed little progress in de-escalating the conflict.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-iran-talks-stall-oil-gains/articleshow/130481212.cms
+- Lux Industries demerger: Mukul Agrawal-owned smallcap company announces three-way split
+  Lux Industries' shares dropped over 7% following board approval for a business demerger. The move, stemming from a family settlement agreement among promoters, will split the company into three verticals.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lux-industries-demerger-mukul-agrawal-owned-smallcap-company-announces-three-way-split/articleshow/130486996.cms
 
-- RBI a net buyer of US dollars in February
-  The Reserve Bank of India became a net buyer of $7.4 billion in February. This likely benefited from a stronger rupee after the India-US trade deal announcement. The real effective exchange rate (REER) for the
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-a-net-buyer-of-us-dollars-in-february/articleshow/130481155.cms
+- Rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows
+  The Indian rupee has reached its lowest valuation in over a decade against major currencies. This decline is driven by rising crude oil prices and significant foreign investment outflows. Analysts suggest the rupee is undervalued, presenting an attractive entry
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupees-valuation-sinks-to-over-a-decade-low-bruised-by-iran-war-portfolio-outflows/articleshow/130486809.cms
 
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- Aswath Damodaran says Musk's SpaceX will frustrate investors after most valuable IPO in history, here's why
+  Valuation expert Aswath Damodaran believes SpaceX could achieve the most valuable IPO ever, potentially reaching trillion-dollar status. He highlights the company's real futuristic offerings, Elon Musk's compelling narrative-spinning abilities, and its
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/aswath-damodaran-says-musks-spacex-will-frustrate-investors-after-most-valuable-ipo-in-history-heres-why/articleshow/130486764.cms
 
-- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
-  'Trump has said India a great country': US in firefight mode after president
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  India condemns remarks shared by Trump calling it
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
-- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
-  The Hindu reports on India's plastic crisis
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
+- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
+  Millions in India stripped of vote before critical state election, as government seeks to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
 
-- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
-  Indian Embassy in Tehran issues ‘do not travel�
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
+- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
+  'Kabhi India Aake Dekho': Iran Mocks Donald
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
 
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
+  Can fish hook voters in India’
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
 
-- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
-  'Trump has said India a great country': US in firefight mode after president
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  India condemns remarks shared by Trump calling it
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
-- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
-  The Hindu reports on India's plastic crisis
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
+- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
+  Millions in India stripped of vote before critical state election, as government seeks to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
 
-- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
-  Indian Embassy in Tehran issues ‘do not travel�
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
+- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
+  'Kabhi India Aake Dekho': Iran Mocks Donald
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
 
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
+  Can fish hook voters in India’
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
 
-- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
-  'Trump has said India a great country': US in firefight mode after president
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  India condemns remarks shared by Trump calling it
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
-- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
-  The Hindu reports on India's plastic crisis
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
+- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
+  Millions in India stripped of vote before critical state election, as government seeks to
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
 
-- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
-  Indian Embassy in Tehran issues ‘do not travel�
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
+- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
+  'Kabhi India Aake Dekho': Iran Mocks Donald
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
 
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
-
-- 'Trump has said India a great country': US in firefight mode after president's 'hellhole' remark - The Times of India
-  'Trump has said India a great country': US in firefight mode after president
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzk0ekpsOGdGeHVreEs0SjhSazhQNmplYkpCODgtczBELXJaWkE3bVdTWm1nQmp6ZlBOSjMycVppU25Id1d5blg4UkhpN05rOTh4Z29aNFJjYTZtVjFWRmcwQlZvZ1duUk9ZNi0yNVc4TnAwdkEzdHZKb29rU1RZMDhKU1RNRzJwMGNSNW5BRlpqb2wyZjhiZGwxYy1VaUdwbVhEczl2VVJIbWJ2QldTc2hzeEF3Uk5mdVZJZEhzMVdsWlprejlheDl6YVltRGZXX3ZzelNNSlFXVHZLaENaOGJUNVN2NWxXeUxTeW9Ya9IB9AFBVV95cUxOVmw5WUhLaWU5c0VGWVp6YjVhV2prdnNTUDZlSURvQjdKajdNVExpeUxCX0lSek9Gckpfb2lQTVlXdFdFVnBSYkJwSkZ5N3VEWHFQX0N5T0J6bGoyemZuX1g5dUdaQmZDM2wxMEphNkVqejh6UjIwUDBDLTVJN0xFR0REbk5yWXdtcXFaaDJxNjFzbWczM2h3ckZHLW8wVHFRX1BROFRfRVJtWDRNZTlhLXF0aEJVbTJoMEF0Sm1Zc3o3V0xkaUYxTmdTZFFiUWxrZ3pRSlV4UTMyQV9vU2ZKYl92UG9RY0xyeXppaW1IbzR4VXVR?oc=5
-
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
-
-- Earth Day 2026: India’s plastic crisis and blame game - The Hindu
-  The Hindu reports on India's plastic crisis
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEdEQklxeFVXb3VHa2pNTHV2ZEZ2aVVyVnBNNGQ2VFF1QzVEWjJkRDNaUWJDcDdnZ0FSVjhQRmZMTG5OZHRsZ1lyWlJROHJyY2FQOWxQUm1nMnR6QVkzMVRrd2hUUVBCY0EzdGFsZFBhSF9CRTlDNXVKLWtjZDAxVzc1cjdzdHp6VnVoVW1iZllVV3ZEaW1CLUFMaHZ6NFEwLVNIOWlzeDFUSkN3QUHSAbQBQVVfeXFMUHgzRFdqLUUwcXZ4ZFdRRWQ0NzFJc0RpeVVGd3dlcGdZSzhZV2FBLVhRWlRGc0w0eXFGVW9jb2tHTkZoWm5UVklXWHkzNi0xdDA1NXhpZmx4TzFHM1pNOTBXX2RHOVVTT1lWUzJZdDE2MTQ1a1dPSnlmZEE5dzBkZFV2b1hxN1hlNDl1b3dOTUh1NkFpc3dOeU91Y3o2YnNKcUppamE1NEthVmNMZHpJdVp3dzhj?oc=5
-
-- Indian Embassy in Tehran issues ‘do not travel’ advisory for Iran - News On AIR
-  Indian Embassy in Tehran issues ‘do not travel�
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxORHpENzdUUWNqQVdCTnNzS3o5ZEhLZXE5MVlpZF85UlZ6WWxHRUQ3Y2hnM2pXbTA1aG5KbDlVRUtuWWZoZlB0UTRqaHhaOG85U01XQk9YYU9qRHZCTHUweE9kOW1qaXh0bTRHRmMta1gzOWhGOUhUMko2TVRsSHBFQjVBXy1NcmdCbmJxVXZGaldqOXhsMDVLdg?oc=5
+- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
+  Can fish hook voters in India’
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-24 02:11:05 UTC_
+_Last updated: 2026-04-24 07:58:24 UTC_
