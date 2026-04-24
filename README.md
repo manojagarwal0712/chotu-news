@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- ‘Bengal first, Delhi next’: Mamata’s warning to BJP ahead of phase 2 of elections
+- ‘The BJP has given Punjabis a shove’: Arvind Kejriwal, Bhagwant Mann react as Raghav Chadha leads major AAP split to join BJP
   
-  🔗 https://indianexpress.com/article/india/mamata-banerjee-bengal-election-delhi-takeover-bjp-warning-10653455/
+  🔗 https://indianexpress.com/article/india/arvind-kejriwal-bhagwant-mann-react-raghav-chadha-aap-mps-merge-bjp-10653962/
 
-- ‘What is PM scared of’: Opposition slams Modi’s silence over Trump’s ‘hellhole’ remark
+- Raghav Chadha leads big mutiny. What this means for AAP
   
-  🔗 https://indianexpress.com/article/india/onald-trump-hellhole-india-comment-opposition-modi-kharge-reaction-10653126/
+  🔗 https://indianexpress.com/article/india/raghav-chadha-sandeep-pathak-7-aap-mps-join-bjp-rajya-sabha-merger-split-10654137/
 
-- Pawan Khera denied anticipatory bail by Gauhati HC in case filed by Assam CM Himanta’s wife
+- ED raids expose foreign debit card network linked to unregistered group
   
-  🔗 https://indianexpress.com/article/india/pawan-khera-bail-assam-cm-himanta-wife-riniki-defamation-case-rejected-10653195/
+  🔗 https://indianexpress.com/article/india/ed-raids-expose-foreign-debit-card-network-linked-to-unregistered-group-10654098/
 
-- Nitish’s heir apparent puts himself ‘under probation’: Why Nishant is in no rush for a title
+- Bihar CM Samrat Choudhary wins trust vote, Tejashwi says BJP ‘finished Nitish ji’
   
-  🔗 https://indianexpress.com/article/india/nitishs-heir-apparent-puts-himself-under-probation-why-nishant-is-in-no-rush-for-a-title-10652755/
+  🔗 https://indianexpress.com/article/india/samrat-choudhary-bihar-trust-vote-assembly-debate-10654024/
 
-- Manipur again on the boil around them, bodies of two children wait for ‘justice’
+- ‘Punjab will not forget these 7 traitors’: AAP after Raghav Chadha, 6 others quit party
   
-  🔗 https://indianexpress.com/article/india/manipur-again-on-the-boil-around-them-bodies-of-two-children-wait-for-justice-10652754/
+  🔗 https://indianexpress.com/article/india/punjab-mps-7-traitors-aap-reaction-raghav-chadha-6-others-quit-party-sanjay-singh-10653864/
 
-- Meta announces massive ‘unified account’ overhaul to simplify Facebook, Instagram, WhatsApp Security
+- China to curb US investment in tech companies: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-announces-massive-unified-account-overhaul-to-simplify-facebook-instagram-whatsapp-security-10653449/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-to-curb-us-investment-in-tech-companies-report-10654044/
 
-- Cooking at home linked to lower dementia risk in older adults, study finds
+- This AI tool combats doomscrolling, promises curated updates
   
-  🔗 https://indianexpress.com/article/technology/science/cooking-at-home-linked-to-lower-dementia-risk-in-older-adults-study-finds-10652515/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/this-ai-tool-combats-doomscrolling-promises-curated-updates-10653952/
 
-- Apple fixes iPhone bug that let FBI access deleted Signal messages
+- Norway plans to ban social media use by children under 16
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-iphone-bug-fbi-deleted-signal-messages-10653312/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/norway-plans-to-ban-social-media-use-by-children-under-16-10654026/
 
-- Just 10 minutes of play can deepen your bond with your dog: Study
+- ID@Xbox Showcase unveils diverse lineup of indie games for Game Pass
   
-  🔗 https://indianexpress.com/article/technology/science/just-10-minutes-of-play-can-deepen-your-bond-with-your-dog-study-10653223/
+  🔗 https://indianexpress.com/article/technology/gaming/idxbox-showcase-unveils-diverse-lineup-of-indie-games-for-game-pass-10653914/
 
-- Cisco shows switch that can connect quantum computers of different kinds
+- Microsoft rolls out buyouts for 7% of US employees as AI investments grow
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/cisco-shows-switch-that-can-connect-quantum-computers-of-different-kinds-10653058/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-rolls-out-buyouts-for-7-of-us-employees-as-ai-investments-grow-10653562/
 
-- Mahindra-backed Classic Legends revs up premium bike push with new launches
-   Classic Legends was founded in 2018 by the Mahindra Group along with Thareja and Boman Irani of Rustomjee Group to reintroduce iconic motorcycles, including Jawa, and Yezdi.
-  🔗 https://www.livemint.com/companies/news/turnaround-hint-mahindra-premium-bike-brand-doubles-down-product-offensive-growth-classic-legends-11776947660569.html
+- Volatile gold slows Bluestone’s FY27 store expansion pace
+   Bluestone Jewellery and Lifestyle now expects a more measured pace of expansion of about 20
+  🔗 https://www.livemint.com/companies/company-results/bluestone-jewellery-growth-strategy-gold-price-impact-store-expansion-11777028652162.html
 
-- Musk sounds cautious tone on robotaxis amid slower-than-expected rollout
-  Musk sounds cautious tone
-  🔗 https://www.livemint.com/companies/musk-sounds-cautious-tone-on-robotaxis-amid-slower-than-expected-rollout-11776975062776.html
+- Warner Bros - Paramount $110 billion deal: What it means for Hollywood, US news and media
+  CNN has consistently attracted President Donald Trump's ire. If the Warner takeover goes through, CNN is expected to
+  🔗 https://www.livemint.com/companies/news/warner-bros-paramount-110-billion-deal-what-it-could-mean-for-hollywood-us-news-and-media-11777033757503.html
 
-- Meta, Microsoft Look to Trim Workforces Amid Heavy AI Spending
-   Meta Platforms Inc. and Microsoft Corp. have both taken drastic actions to trim their workforces in an effort to stream
-  🔗 https://www.livemint.com/companies/meta-microsoft-look-to-trim-workforces-amid-heavy-ai-spending-11776970430508.html
+- Did Kriti Sanon quit as CCO of her beauty brand? Hyphen's social media post sparks buzz
+  Kriti Sanon had announced the launch of the brand on her 33rd birthday in 20
+  🔗 https://www.livemint.com/companies/people/did-kriti-sanon-quit-as-cco-of-her-beauty-brand-nearly-3-years-after-launch-hyphens-social-media-post-sparks-buzz-11777028317195.html
 
-- Ryan Roslansky steps down as LinkedIn CEO, signals next phase under Satya Nadella’s AI push
-  Dan Shapero will take charge as CEO of LinkedIn. Ryan Roslansky has confirmed that Dan
-  🔗 https://www.livemint.com/companies/people/ryan-roslansky-steps-down-as-linkedin-ceo-signals-next-phase-under-satya-nadella-s-ai-push-11776962227046.html
+- KPMG to cut 10% of its audit partners in US to streamline operations as voluntary retirement plan fails
+   Meta, Microsoft and Nike have led to cutting down of over 24,000 jobs.
+  🔗 https://www.livemint.com/companies/news/kpmg-to-cut-10-of-its-audit-partners-in-us-to-streamline-operations-as-voluntary-retirement-plan-fails-11777027028968.html
 
-- Reliance Enterprise Intelligence appoints Parminder Singh as Chief Executive Officer
-  Reliance Enterprise Intelligence Ltd has appointed Parminder Singh as CEO. Singh aims to leverage Meta's AI and Reliance's infrastructure to create a leading AI partner for Indian businesses.
-  🔗 https://www.livemint.com/companies/news/reliance-enterprise-intelligence-appoints-parminder-singh-as-chief-executive-officer-11776960884194.html
+- ReNew to invest  ₹4,200 crore in 6.5GW solar ingot-wafer unit in Andhra Pradesh
+  The plant is likely to be commissioned within 24 months and create over
+  🔗 https://www.livemint.com/companies/renew-solar-ingot-wafer-manufacturing-anakapalli-andhra-pradesh-investment-jobs-11776955755799.html
 
-- Vedanta Demerger: What ITC Hotels, Tata Motors, Jio Financial signal on listing timeline for Vedanta demerged entities
-  The share prices of the demerged entities will be derived from the difference between Vedanta Ltd’s closing price on April 29 and its
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-what-itc-hotels-tata-motors-jio-financial-signal-on-listing-timeline-for-vedanta-demerged-entities-11777014799236.html
+- Small-cap stock under  ₹50 Aayush Wellness jumps 9% despite bloodbath on Dalal Street
+  Aayush Wellness shares rose 9% to  ₹39, hitting a three-month high, with a cumulative gain of 21% over two days. The company launched Liver
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-aayush-wellness-jumps-9-despite-bloodbath-on-dalal-street-11777028658888.html
 
-- Trent’s Q4 shines on growth, margin; demand and cost headwinds in cart now
-  Trent's store-led growth and margin gains in Q4 offered an earnings lift. Softening demand, rising input
-  🔗 https://www.livemint.com/market/mark-to-market/trent-q4fy26-rebound-margins-input-costs-valuation-outlook-11777011290522.html
+- US stock market today: S&amp;P 500, Nasdaq futures surge up to 1.5% amid fresh hopes of US-Iran peace talks; crude falls
+  Futures for all three indices — S&amp;amp;P 500, Dow Jones and Nasdaq 100 — were trading higher by 0
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-surge-up-to-1-5-amid-fresh-hopes-of-us-iran-peace-talks-oil-price-f-11777033251873.html
 
-- Gujarat-based pharma stock jumps over 15% despite stock market crash; here's why
-  Gujarat Themis Biosyn shares surged over 15% as the company announced plans to acquire 13 anti-TB and anti-infective brands from Sanofi for Euro 158 million.
-  🔗 https://www.livemint.com/market/stock-market-news/gujaratbased-pharma-stock-jumps-over-15-despite-stock-market-crash-heres-why-11777014055217.html
+- IndusInd Bank Q4 Results: Profit at  ₹594 crore vs loss YoY; NII jumps 43%, asset quality improves
+  IndusInd Bank reported a net profit of  ₹594.2 crore for Q4 FY26. The improvement was driven by lower provisions and better asset
+  🔗 https://www.livemint.com/market/indusind-bank-q4-results-profit-at-rs-594-crore-vs-loss-yoy-nii-jumps-43-asset-quality-improves-11777029446425.html
 
-- Infosys vs TCS vs HCL Tech: Which large-cap IT stock should you buy after Q4 results 2026?
-  The IT sector's Q4 results reveal mixed performances. HCL Technologies favoured for its long-term potential. TCS shows resilience, while Infosys struggles
-  🔗 https://www.livemint.com/market/stock-market-news/infosys-share-vs-tcs-share-vs-hcl-tech-share-which-it-major-should-you-buy-after-q4-results-2026-11777013845708.html
+- Small-cap stock Krystal Integrated Services jumps 2.5% despite stock market sell-off
+  Krystal Integrated Services Limited's share price rose 2.5% on April 24 after winning a  ₹138 crore solar contract from Maharashtra. The stock peaked at  �
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-share-price-jumps-2-5-despite-stock-market-selloff-11777027643784.html
 
-- Vodafone Idea, JP Power, Himadri Speciality, Reliance Power among the most traded stocks today, 24 April 2026
-  Vodafone Idea, Jaiprakash Power Ventures (JP Power), Himadri Speciality Chemical, Rel
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-jp-power-himadri-speciality-reliance-power-among-the-most-traded-stocks-today-24-april-2026-11777012880518.html
+- ‘Would love to own it, but…’: Aswath Damodaran flags $1.75 trillion valuation for SpaceX ahead of IPO
+  Aswath Damodaran calls SpaceX an engineering marvel with strong competitive advantages. She is wary of
+  🔗 https://www.livemint.com/market/ipo/would-love-to-own-it-but-aswath-damodaran-flags-1-75-trillion-valuation-for-spacex-ahead-of-ipo-11777026498444.html
+
+- You can now ask ChatGPT to find cheap flights with the new Skyscanner integration: step-by-step guide
+  Skyscanner has launched its app within ChatGPT allowing users in India and globally
+  🔗 https://www.livemint.com/technology/tech-news/you-can-now-ask-chatgpt-to-find-cheap-flights-using-the-new-skyscanner-integration-check-step-by-step-guide-11777018517092.html
 
 - Did Anthropic ‘dumb down’ Claude Code? Post-mortem reveals the three bugs that crippled performance
   Anthropic has acknowledged complaints regarding Claude Code's performance.
@@ -96,109 +100,45 @@
   The OnePlus Nord CE 6 will launch in India on May 7 with a 6.78-inch AMOLED display. It will also feature a 50MP rear camera
   🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce-6-full-specs-revealed-ahead-of-may-7-launch-8000mah-battery-144hz-amoled-display-and-ai-features-11776996344639.html
 
-- GPT-5.5 launched: OpenAI says ChatGPT can now debug code and operate software
-  OpenAI has launched its GPT-5.5 model, claiming it is its most intuitive AI yet. The AI mdoel
-  🔗 https://www.livemint.com/technology/tech-news/gpt55-launched-openai-says-chatgpt-can-now-debug-code-and-operate-software-11776991669505.html
+- Sebi clears 4 IPOs including Yatayat Corporation and EAAA India Alternatives
+  Sebi has approved IPOs for four firms spanning logistics, alternatives, real estate and manufacturing. Companies aim to tap rising demand across sectors, though competitive pressures
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-4-ipos-including-yatayat-corporation-and-eaaa-india-alternatives/articleshow/130494931.cms
 
-- Global stock markets are too high and set to fall, says Bank of England deputy - BBC
-  Global stock markets are too high and set to fall, says Bank
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyTG5vbkV3dG9RUjJwM1VXTlFOQ0p6VFRPakpnWVR4WjdiY2M0OVUwSjV0aTdOZWJJWHh2bkdoN19CLUd4a2dBRjZXZG01MlBqSkwxMmRVODlVZw?oc=5
+- Buy the dip, but avoid IT, back pharma &amp; power, says Rudramurthy BV
+  Indian markets are experiencing a healthy correction, says Vachana Investments' MD, CA Rudramurthy BV. He advises waiting for specific levels around Nifty 23,700-23,800 and Bank Nifty 55,000
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/buy-the-dip-but-avoid-it-back-pharma-power-says-rudramurthy-bv/articleshow/130494372.cms
 
-- Markets News, April 23, 2026: U.S. Indexes End Lower as Software Stocks Sink, Oil Surges; S&P 500, Nasdaq Set Record Highs Before Reversing - Investopedia
-  The S&amp;P 500, Nasdaq Set Record Highs Before Reversing.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFdGNDNMbFpLRldVUExkTjVlZWdJcEJIODhqRF9KQXBseHpHbFgwMC1oLWdxajlPOGNOb1NoX0ZPSnZkek9nd3RMMW0waEFBRzBIQ1U5NHlZS1ZmWVNNQl9aNmpZSU1PZ3JqU0x0TG9WX3lRV19qVGU3ZllNdVZleFhfaUFIQjJuMml0SEpxU1A?oc=5
+- Quote of the day by John Maynard Keynes: "The actual results of an investment over a long term of years very seldom agree with the initial expectation."
+  John Maynard Keynes' insight that investment results rarely match initial expectations underscores the inherent uncertainty in financial markets. adaptability and flexibility are crucial for successful investing and navigating life's unforeseen turns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-maynard-keynes-the-actual-results-of-an-investment-over-a-long-term-of-years-very-seldom-agree-with-the-initial-expectation-/articleshow/130485325.cms
 
-- Stock futures trade mixed after Trump announces 3-week extension to Israel-Lebanon ceasefire: Live updates - CNBC
-  Stock futures trade mixed after Trump announces 3-week extension to
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZVNnLVlGMEZYUF9USWZF0gF8QVVfeXFMTTZzbzljVFVBZXA1Tl9VUmpBRHhqNnktcThqeE1yZVdxMWVNU2c4ZXd2d0dBcGYzdC1IOXd5TG9nSEp3c2VmdUJVSERMTnJENlBLd2ZGTENCRTc5dFo0MTFFVlRnb29RS2F4YkNQd3VhZk52SFlEQkJYRzNQNg?oc=5
+- When billionaire Nithin Kamath wanted to earn just Rs 5 crore and retire in Goa
+  Nithin Kamath warns wealth inequality, driven by asset inflation and concentrated ownership, risks social strain. He urges rethinking wealth’s purpose, noting idle financial gains
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/when-billionaire-nithin-kamath-wanted-to-earn-just-rs-5-crore-and-retire-in-goa/articleshow/130494007.cms
 
-- Stocks Fall as Oil Climbs With Iran Talks in Limbo: Markets Wrap - Bloomberg.com
-  Stocks Fall as Oil Climbs With Iran Talks
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2NHY0xrR0JNTDNUVTdlck1adnExOEdDVzlfSWFJNTROTVlsZ0ZMa3l4SFRTU3BwemE2ZjVUNC1RdXA3Ym40dHg3SldxTHhyUVhqdkk0RmN6aGFHaUhLdFdVZFYwUDVxZ2g0VWdDNVRGODIwZWVXU25UQmppOGNkX2hBb0dfOXl3S0VwMW5kSENMQjNw?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Live: US futures mixed as Iran war deadlock keeps investors edgy
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-hormuz-brent-crude-oil-price-earnings-deepseek-meta-intel-amd-stock-price-news/liveblog/130493691.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex tumbles over 1,100 pts, Nifty below 23,900; I... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGYzODZhRXV4Qmp1SDdxcFFqUEdfV3hwWTFYRFNiT1ZlNm9rU05CeXVKam0tWE4xWGZZcERkZW5OSFlrcjgyRTEyaWdHcUZMbFFyLVduWXhhVzBEdWJfa1ZLTnA0QWpvRE
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGYzODZhRXV4Qmp1SDdxcFFqUEdfV3hwWTFYRFNiT1ZlNm9rU05CeXVKam0tWE4xWGZZcERkZW5OSFlrcjgyRTEyaWdHcUZMbFFyLVduWXhhVzBEdWJfa1ZLTnA0QWpvREVXOHJJdFBsX2J1dXdXaFd6VExId01YcTk1dy10eGgtYXRIcXZXRkhpcHVlNlo3VmRGaEl0RTRlaEZJNHFtMVhkQ1o3VVpsR2xwRi1fb1g2MHZkSS1BZ2ZtbF9wR0E4NGc1Z1NGRlB1eTVVTFA1UFl4VU5JVHV0VlVMd0pDall6TGJvWk0zMG91aTJ1LUZ4Q3BQbzRyaGc0UFFHSUt30gGLAkFVX3lxTE9nWjRIZ2h1TTNqd3FBcUl6RVFIWVVQR0toNm80a25hRy1xYmktSE1PbXFmcTNDYWxwVHkyRnRjWmhldzAyd2dwYTI2Q1UxbHZ0NXlNZGVpS1dURnNfcy04MkRqQ25Bb043bmtRM3JpZFNmd2pfaU9pSVNPeWlhWXJuQXh2MDhCMWd0MlcwU3Nqd1R1YkhnYl9ZaHJOaTlnZnBDV3RyanhuTlh5R28ybGcxQ0RBckZpTnNHYlphLWgxM0hUZ0xibU5DcW5oZy1SbWlHUzBzaTJPbGJCd1kxZ1RlVXVIc3VyR2Uwc1VPbldiVzFHc3B1QVZtTFctb0trQzN0VDh3a2E1ZzR6Yw?oc=5
-
-- Sandip Sabharwal sees strength in financials, warns of IT sector headwinds
-  India's top IT firms reported mixed earnings, grappling with near-term pressures and AI-driven structural shifts. While IT valuations have become more reasonable, market expert Sandip Sabharwal advises caution due to
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/sandip-sabharwal-sees-strength-in-financials-warns-of-it-sector-headwinds/articleshow/130487283.cms
-
-- Global Markets | Japan's Nikkei closes at record high as tech earnings overshadow Mideast concerns
-  Japan's Nikkei index achieved a record closing high, marking its third consecutive weekly ascent. Strong technology sector earnings, particularly from AI-related firms like Ibiden, fueled the rally.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/global-markets-japans-nikkei-closes-at-record-high-as-tech-earnings-overshadow-mideast-concerns/articleshow/130487131.cms
-
-- Lux Industries demerger: Mukul Agrawal-owned smallcap company announces three-way split
-  Lux Industries' shares dropped over 7% following board approval for a business demerger. The move, stemming from a family settlement agreement among promoters, will split the company into three verticals.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lux-industries-demerger-mukul-agrawal-owned-smallcap-company-announces-three-way-split/articleshow/130486996.cms
-
-- Rupee's valuation sinks to over-a-decade low, bruised by Iran war, portfolio outflows
-  The Indian rupee has reached its lowest valuation in over a decade against major currencies. This decline is driven by rising crude oil prices and significant foreign investment outflows. Analysts suggest the rupee is undervalued, presenting an attractive entry
-  🔗 https://economictimes.indiatimes.com/markets/forex/rupees-valuation-sinks-to-over-a-decade-low-bruised-by-iran-war-portfolio-outflows/articleshow/130486809.cms
-
-- Aswath Damodaran says Musk's SpaceX will frustrate investors after most valuable IPO in history, here's why
-  Valuation expert Aswath Damodaran believes SpaceX could achieve the most valuable IPO ever, potentially reaching trillion-dollar status. He highlights the company's real futuristic offerings, Elon Musk's compelling narrative-spinning abilities, and its
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/aswath-damodaran-says-musks-spacex-will-frustrate-investors-after-most-valuable-ipo-in-history-heres-why/articleshow/130486764.cms
-
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  India condemns remarks shared by Trump calling it
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
+- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
+  India voices anger after Trump shares comments calling it a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
 
 - "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
   "Kabhi India Aa Ke Dekho": Iran
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
-- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
-  Millions in India stripped of vote before critical state election, as government seeks to
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
+- News Today Live Updates, 24 April | 2,500-year-old burial site with bizarre ‘upside-down’ pots discovered in Maharashtra’s Bhandara - The Indian Express
+  2,500-year-old burial site with bizarre ‘upside-down�
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOam9XSzFBMWFhM0pBaktGTjhqZlRiSzdZck1qNVRha01GT20yVWluSktZSlUwWmo3SkNHTURiTjZ0dXVDQV9RejJOLXhqYTJGYTNmTFBmejhmRExGa3pFYmd4Q3Vhb2hfeUNmbFV5SXI4Z29pVkZQOWRaZV9KbkJMWG1KTVgwQ2x1R05zcHNIUVh0SzFfMm1TRVNBYV84eUVpeW9hZjN2VWhLSU9tRk90eWtiOGVtMU5CSmNocU51T21YMk4zb0N0TlVyZkoya0ZuemlzVmd3bDBtSFNqLURNZGJzclcxbF9t0gHvAUFVX3lxTE95Q09iTkxXWS1haFRsZnNHWUpOQVM3MzlveU1HMkRFV05mSUttOUczSUJ1OHd2a2ZGQmJJcFBZdFNKYTg5YjdNR2ZqNzJEVHNqdU5NT0d3S01QLVk1UGt6amtrNUJKQ1Jjc09zajJtclZpdUVZcXdBVTlWY211eFNVdHFRY0FIa3NqbFo2WWcxUUc5VmJsSjlRYy1HN1NWYzBQcFpreUQyWHJidDBiWDkwR1o4eVhBUzRfY25hRnhaMnZPMTlMUEM4RWZXVm5pTXI0UUQzVWJjZVYxb2YzZnhxYUJfbTFXSEFmREF0cmpz?oc=5
 
-- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
-  'Kabhi India Aake Dekho': Iran Mocks Donald
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
+- India's Forex Reserves Jump By Over $2 Billion To 703.3 Billion Amid Iran War - NDTV
+  India's Forex Reserves Jump By Over $2 Billion
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkpwbEtaalRPN093bVloNDV1V0l6S2pIaGVGYVFNUk1lUEhUX2pGVlBZQkhJaDViT2JMaFRtdzNieTgyRjJ3ZEdKcU5kNU0xTE5BOVAwTE5OQTdwMk1JYUx2NUdpTzlSN05wYVNZc3c2TVhsQks3RTd2RmJabWc0bHF1a3hDU09CNmdqd2ctaXFCVm85TzRRektrdHZCYVZTUTRndlp0MEI3WUwyaHE2LWdvM0MyLVJEdF9GeTFpelVJQ3I5MlowYl8xMXZPVDBk0gHYAUFVX3lxTE5Wa0RlM0JqX3B3TXlDeGxRaUtCd0hIY05zT1BFNlA3NDlSQlZPRjNaS3RUd2RuY3FqRTNaRDJrb0prN1V4eHFMTUpqYnpPVkJtbTYyVGNmZ2psVWhwaTkzQ0tLMXNKSnJvcnV3WWUyWWNlTHB6MUxmMEx1QlNKb3VETHlkMDBRNWdwVlZ4Wmx5cHAzbjh6RVdOY3BfbF9RbFByeW50WkhTWnNrYUFxd2NGS0RISHY4UENtejdwZ3Njd3htOGdwZ2lBNlAtNy1nTGFJWTlrbFhQWA?oc=5
 
-- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
-  Can fish hook voters in India’
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
-
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  India condemns remarks shared by Trump calling it
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
-
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
-
-- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
-  Millions in India stripped of vote before critical state election, as government seeks to
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
-
-- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
-  'Kabhi India Aake Dekho': Iran Mocks Donald
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
-
-- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
-  Can fish hook voters in India’
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
-
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  India condemns remarks shared by Trump calling it
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
-
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
-
-- Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll - The Guardian
-  Millions in India stripped of vote before critical state election, as government seeks to
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUxQek9NX1VDSWo1LWhSQzdrYnNheG1iWmdkYllhVVdaU0xIbWE0VGNCM3BhN0x1YVNjemlHN1l2cUhKLWhGOVRNYWxMZEdtemJ1MWIzcnluZHRrVVNnTXZhdE5OOWtDcnIwLTN4Yy1PSmxpQkpORHptVTQ1Q2FpakVDeHNNUi1OaHNYVlRNSnlRWURBUzlmYl94ejZIbjdBaWtmNERfbHk?oc=5
-
-- ‘Kabhi India Aake Dekho’: Iran Mocks Donald Trump With Maharashtra Video After ‘Hellhole’ Row - The Times of India
-  'Kabhi India Aake Dekho': Iran Mocks Donald
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREYtTFJlY1VoNm9EME9yWVE0NWxPVFVyUmszXzVUcDgxMHNNbGpsdmpRNjlDcnVRWFk1MFVsYW1DY1U0UVMyNFZSWWhvdzJxajB0VXU4TW85M1l3dXlIQ1FZaVJGZXduT0Y4b19ISWxSY1RvNWVfVTJRX1AwVkJ2c2xlUGRPUjFXUnRZX3J6MnpPeHZOTVpldHlNeTUybXI2OEhFRExmMlhMOV9oZTN5XzBCSGFtV3I3UEVtNHBiNHlZMVM0MTJoQWxvOVBMRjVjZVp0eDZDSWQ1cW4yWFQzN283em1Yb2dCbl9CQXVqcXR6Z9IB9wFBVV95cUxQR1RtdHBvWVg0R3c1Qno0YXZxV2RkV0dqa0hIVUpHN2FCZXpzMml4NXZ4VVZTcUJSUi1WQ2s4Y3M0VFlxcy04TmU4VEJrRE00djRZeWdXVC1QVmVkNEx4MWNLQmFWNWJUcE1WaWRoS1lsREREWnZVYVJDaTBoUGRRMUxtd0JXMHRwcTVYa0wtMTVwTFRxWTZXNk1rM0IxSTBxbkdHMHNDMlF2dElPSEp0aUJzcEV3SzhTcWpoOTd5Zzc5RGVWNkJ1RnFIREkyWUpfOTl4VnVuYks5Q085cWtOUElvNVBtUTNmbXM2U21UVzBtZjhyX09n?oc=5
-
-- Can fish hook voters in India’s West Bengal elections? - Al Jazeera
-  Can fish hook voters in India’
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm52WUVjOWFTa0hoY2tCdXFmeVJiQ21maXozTGFvRlJZWGlvVUtsQ1ZscE5vWEc1bVlZcjZrRGR0SFdCVWJmMTNURGV3SkNCUDN2a3FlRlBmLXhPSWdrN3hIdXJONWt3OVBrTnZrdlVRRGhDYUVpZ2pUblRYV1B4dTJmeWNLRHZXeVkxdEZxOFhXZ9IBlwFBVV95cUxOTVNwSjRhVFUySWhhVGpCUG4zWXBNdUUwOHFyMFpxaDdRdzNtVnZWLXp2b1RjdHI2X0pDNmNsMlFiVzJVV2k1a1ZpOU5LU0ZTWnU0TmRiWm90NV9JWlJYWmtEbzJrUzhUa3NsbDVnYjEtVzFITTRQYlh3Q19ibEJ4TlBNMzNUajd3SHZxaGFvTlNBZEktb0Yw?oc=5
+- Raghav Chadha, 6 other Rajya Sabha MPs resign from Aam Aadmi Party, join BJP - The Times of India
+  Raghav Chadha, 6 other Rajya Sabha MPs resign from A
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnQydEJpQWVDNWtoOU1SenZ4WGRySDUxZW5ISU8yX2FObG5majRUVW13SVRVbGhuQ0pJeVF5RWlEUjc2TjFlc283MFJYajVqdURhRWQ0WEMybkRXVW5iVHRMblAwem1HY044cHdaTmNMMUMxYUVYYU5Bcm9WaVVZdzhFbkJrd040Q1FXQ1lNVzZmcnJfNGdjcVNiWGtxSnZiWWxSMEhCZEFzOVQtUnZZ0gG0AUFVX3lxTE9OQ3paN3EteFFkSmhzQldZQlFqcDlmVWFsdi1udEVRVnhMUmpFdEZUc2VXZFFyVzhWYURjOVNOSm9jMy13U2F6dDVycEhLdDdzSG1CSGZ5d1Q4UVNBVmlkMFFrUzZ6RG85Mm1mdExlN0dPajRoamtmbVpFd2sxLUJnMUJVeEJ1NjNUV3p0V3NZN1hWUzVKdk5abUxrbkhQdWttc3ZudnlXVnZIUzgxWHIyUkl4ZA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-24 07:58:24 UTC_
+_Last updated: 2026-04-24 13:14:23 UTC_
