@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- PSA slapped on 6 men after protests in Kashmir’s Sopore over student’s harassment in govt school
+- Clashes across Manipur’s valley as protests against killing of 2 Meitei children spiral
   
-  🔗 https://indianexpress.com/article/india/sopore-protest-psa-six-booked-jk-police-10655686/
+  🔗 https://indianexpress.com/article/india/manipur-imphal-clashes-cocomi-rally-protests-10655973/
 
-- Bengaluru’s BEML Aditya plant to manufacture India’s first bullet train ‘B28’
+- Skyroot flags-off Vikram-1, India’s first private orbital launch soon
   
-  🔗 https://indianexpress.com/article/india/bengalurus-beml-aditya-plant-to-manufacture-indias-first-bullet-train-b28-10655666/
+  🔗 https://indianexpress.com/article/india/skyroot-aerospace-vikram-1-orbital-rocket-launch-sriharikota-revanth-reddy-10655921/
 
-- Mangaluru-Bengaluru Vande Bharat train to launch soon: Ashwini Vaishnaw
+- Bihar schoolteacher murdered and dumped on highway, husband who ‘remarried days later’ arrested
   
-  🔗 https://indianexpress.com/article/india/mangaluru-bengaluru-vande-bharat-train-to-launch-soon-ashwini-vaishnaw-10654996/
+  🔗 https://indianexpress.com/article/india/bihar-chapra-teacher-murder-husband-arrest-remarriage-10655871/
 
-- AIIMS Delhi director, DST Secretary appointed members of NITI Aayog
+- ‘I will break your teeth and bury you alive’: Madhya Pradesh minister’s brother booked after threatening woman Janpad CEO
   
-  🔗 https://indianexpress.com/article/india/niti-aayog-new-members-aiims-dst-ashok-lahiri-vice-chairperson-10655579/
+  🔗 https://indianexpress.com/article/india/mp-minister-brother-fir-alirajpur-ceo-threat-case-10655794/
 
-- ‘She came the night before too’: Cop’s partner kills his wife and son, daughter critical
+- Vande Bharat Sleeper among 2 new trains planned for Mumbai-Bengaluru route: Railway Minister
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-durg-stf-constable-wife-son-murder-accused-arrested-10655577/
+  🔗 https://indianexpress.com/article/india/vande-bharat-sleeper-among-2-new-trains-planned-for-mumbai-bengaluru-route-railway-minister-10655703/
+
+- Running out of storage? 5 quick ways to free up space on your phone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/quick-ways-to-free-up-space-on-your-phone-10653597/
 
 - 7 free photo editing apps that turn everyday photos into pro-level shots
   
@@ -36,9 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/air-pollution-india-explained-pm25-solutions-tech-interview-10654248/
 
-- Google parent Alphabet to invest up to $40 billion in Anthropic amid AI race
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-parent-alphabet-to-invest-up-to-40-billion-in-anthropic-amid-ai-race-10654736/
+- IDFC First Bank says  ₹590 crore fraud impact behind it, sees strong FY27 growth
+  The lender said new business remained unaffected during the March quarter. Profit fell sequentially after it fully expensed
+  🔗 https://www.livemint.com/companies/company-results/idfc-first-bank-says-590-crore-fraud-impact-behind-it-sees-strong-fy27-growth-11777130022552.html
+
+- Transition at Sonata: Rajsekhar Datta Roy is new CEO as Samir Dhar steps down
+  Sonata haild Roy for being instrumental in guiding the company's AI-first evolution. He has
+  🔗 https://www.livemint.com/companies/news/sonata-software-ceo-samir-dhir-steps-down-11777131172133.html
+
+- Axis Bank frontloads FY27 provisions amid West Asia war uncertainty
+  The private-sector lender set aside a one-time  ₹2,001 crore buffer in Q4.
+  🔗 https://www.livemint.com/companies/company-results/axis-bank-frontloads-fy27-provisions-amid-west-asia-war-uncertainty-11777128136699.html
 
 - Indigo denies claims of banning sindoor, tilak; cautions against sharing ‘fabricated’ documents online
   IndiGo's grooming policy has sparked controversy over alleged bans on religious symbols like sindoor and mang
@@ -48,17 +60,9 @@
   Ficci has urged the government to drop a proposed three-year ban. It said the move would raise costs and limit expertise for large companies.
   🔗 https://www.livemint.com/companies/news/audit-firms-non-audit-services-ban-ficci-companies-act-11776942000591.html
 
-- $40 Billion from Google. $25 Billion from Amazon. Anthropic is now the most fought-over AI company on Earth
-  Google has committed up to $40 billion to Anthropic. Amazon pledged $25 billion, confirming the AI
-  🔗 https://www.livemint.com/companies/news/40-billion-from-google-25-billion-from-amazon-anthropic-is-now-the-most-fought-over-ai-company-on-earth-11777076260150.html
-
-- Elon Musk vs Sam Altman: US Court drops fraud allegations against OpenAI, but biggest AI trial of the decade is still on
-  Elon Musk's $134 billion lawsuit over breach of charitable trust heads to trial Monday.
-  🔗 https://www.livemint.com/companies/news/elon-musk-vs-sam-altman-us-judge-dismisses-fraud-claims-against-openai-trial-to-proceed-on-breach-of-trust-claim-11777074120973.html
-
-- APCO in talks to sell Z-Morh tunnel in J&amp;K to Alpha Alternatives for $267 mn
-  The 6.5-km- tunnel ensures uninterrupted military logistics and year-round civilian access to Ladakh. The
-  🔗 https://www.livemint.com/companies/news/apco-infratech-in-talks-with-alpha-alternatives-to-sell-strategic-z-morh-tunnel-for-267-million-11777028220379.html
+- Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000
+  Bitcoin is approaching $80,000 for the first time since January. The recovery is built not on euphoria but on short covering
+  🔗 https://www.livemint.com/market/bitcoins-stealth-rally-has-traders-setting-sights-on-80000-11777121864759.html
 
 - Gold rate today, 25 April: Gold prices remain volatile amid a tug of war between the US Fed rate cut and inflation risk
   Gold prices in India fell to  ₹1,52,799 per
@@ -75,10 +79,6 @@
 - Sebi bets on capacity building, tech to strengthen market regulation
   Market regulator tightens conflict-of-interest norms for top officials.
   🔗 https://www.livemint.com/market/india-sebi-capacity-building-technology-market-regulation-tuhin-kanta-pandey-disclosure-norms-11777099332081.html
-
-- Adani Power vs NTPC vs Tata Power: Which power stock to buy ahead of Q4 results 2026?
-  Market analysts predict strong Q4FY26 results for Indian
-  🔗 https://www.livemint.com/market/stock-market-news/adani-power-vs-ntpc-vs-tata-power-which-power-stock-to-buy-ahead-of-q4-results-2026-11777098444182.html
 
 - ASUS launches ExpertBook Ultra, P5, and P3 laptops in India with Intel Core Ultra processors
   ASUS has launched its new ExpertBook Ultra, P5, and P3 laptops in India. The ExpertBookUltra starts at  �
@@ -104,21 +104,25 @@
   The Dow Jones and S&amp;P 500 hit records as Intel Soars. Oil Falls on
   🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSDJBR2Nva2p6a05sUFc1TzBic3d1RjJzT0ZMcUlqdlhfanROWFVuYlZlOG5FS3AxbVJ2cUdZWUtsek5wWGpSSmxDMVlRSURiWS1QNVRXdXk1SmVIcUxVTFZsbnRoM1BfdVNWbHhERU1GN1BmMEJnM1pwS1NEVmxRb004RWJMZUhwQjZtU29Ia0xOT0IyaGppczljc09xaWNFaXo0eGZGSnRaRlhBRkg3Szdsd3ZCT2NURTNCZmhaZlhwMmdNZms1M1FRRDUyQkh3X1A0NXJVVVg1SVdzcF9aWloxLUJVb3lndVVVaGtqN21rUQ?oc=5
 
-- S&P 500, Nasdaq close at records, boosted by Intel, as investors hope for a restart to U.S.-Iran talks - CNBC
-  The Nasdaq closed at a record high on Tuesday. The S&amp;
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZVNnLVlGMEZYUF9USWZF0gF8QVVfeXFMTTZzbzljVFVBZXA1Tl9VUmpBRHhqNnktcThqeE1yZVdxMWVNU2c4ZXd2d0dBcGYzdC1IOXd5TG9nSEp3c2VmdUJVSERMTnJENlBLd2ZGTENCRTc5dFo0MTFFVlRnb29RS2F4YkNQd3VhZk52SFlEQkJYRzNQNg?oc=5
+- Stock market today: S&P 500, Nasdaq close at record highs as Nvidia retakes $5 trillion mark, Intel finally tops 2000 peak - Yahoo Finance
+  The Nasdaq and S&amp;P 500 close at record highs. Nvidia retakes $
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmtYbS1qMHBHUFhLUjV4WGpmSmszOHpIdWZwTEo4cmpUU2xpRzBiRGlZUHVfTVJJZ3ZuR1J2VzExYzJWQUpvVkNMT25kUWhxNEIxNjUzeVlCU1NTYmRXN0txQ2xNUVVCXzNjTGVNSFJpWU56TmtjMWJKU1l3MlpWSk1VU3l1RnE5a3RuRExFeUpRNzBJelpNc1UxRQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq retreat as software stocks plunge, oil surges on Iran war concerns - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq retreat as software stocks plunge
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1Q0MDBTTDI5VG5rX3M3SVF3Q1hSSHdFandEeHc5Skd4V1lQbW9ZckctaU5PVGREaEZmejZnOVFBTjF2Nnk3aWgtYVVoQ0NqeUZ4UXZjM1N4ZWFfWXVCVG4tY0IzNFg1WWRhN1ZUaWxXT1U4WGhxVDEybWU0aEFEOVVKcTZacW1yQjVoSGhmUGFSY0FYWVAwaW9Gb053MTB0QjhybVVCU0hfNjVIclkyTUtGOEpTOWY3OEhHa2tCVGJaUklJT0dDaWZINDVLTkU?oc=5
+- Iran Talks Shelved As Huge Earnings Loom. How Will Markets React? - Investor's Business Daily
+  Iran Talks Shelved As Huge Earnings Loom.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSE1jRE4zdDFRTzhFdTBYMXBNWjdXLTN4RjRXOWJRZjBYN3MySUZCQ2Nxc3VjVGZYdlJIY3NtNnh0emJQZEU0eU9vcmUtdk1xb1NWQUtrZW9aMU0wcG9LTWlpYTFCdWZNWVZVb3ZOWXY3QnBrQXpSSFhTN0xVUVVMVW5Lakh6bXRXZlNvck83Si1rcjFkdVJVVlI5SmtNTENYTkI0ZlFIUzduQXg5Y2R5QVVKUnk4Yy00a3Jn?oc=5
 
-- Single successful cyberattack could disrupt markets at national scale, shake public confidence: FM - The Hindu
-  Single successful cyberattack could disrupt markets at national scale, shake
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQ0cxTTBjMHBnaENMWndYeFJQSlhYRGd3QUJ0OXJKMHNLWUpwdzVOVmRBc0VsLWF5SzBvTVdQcUxjRWV1cERDOHZ4S01UUjdneG1ZR2JFTkxiN3RaY19CQXNWU045UGVBUFVmSHlYU25kcnpsRmt1aE9SOTRUSTRIcGhYa2FXRnZwYi1DcUpkempNc0VYb2xkOVM5bHd2RnNaMTBaNVhrSWRSOGhoY2dyMldxdV9sV3lwQ3VLU2hiWVE2Vm9fZ2JaQW1aN3JPaHZSYXRNeGdDTUhQLVhhbzZPSy1YU3dLZVJkUXFSNHR0cUpoQV9KRGVhc9IB_wFBVV95cUxOUW83bTJ0Ni1uYVZJMTZFVzd3VU5RazZTMnVTdGRvSXBOSXZYZjNOUmU5cUdla1p0UmhjUTNNbDIyZmlUNTYxd2FHNUdsdmNiZ2JKcmFtekFCNm94NUZlQlJ1cmZmS09DUElGWFMwNXFra2p1YWZUaXJPVUx6SmltZkdoOHRrUGJxQ25SYllJSVFuSldHcG5KcjBDRnVTdkZNV1UtbkVhcUhKUVpINm1YMFNwbVZCUWpSbWNQY2o4OVlqWVpuZnhYeWJNTS1PN2dUQ3VFZWhid3oyVHJKdnpmMXpSOTRCWnBmZkdaTjdoMFp6blJUd21UMTV5VWV1dlU?oc=5
+- ‘Shot across the bow’: How Washington plans to take on prediction markets - Politico
+  ‘Shot across the bow’: How
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWlZNUhxNXN4RXVnZG1DTWNaMm0wVE5yZF9LSVZ1MDBDdUdxSUg0YlZDWWRRdllBY0EzZFJieUEzNU9BU3ZQa3FEUVpDa09sbVdOaUlUVUk0NGRHWDV4cFFZZVZRZUlaUnN5akJwbTBkNHpDcVhDb1NqQllSVWtNRlkyVWJrOU0xSXVlR3ZR?oc=5
 
-- Finance Minister advocates ‘anticipatory’ regulation in capital markets - BusinessLine
-  Finance Minister advocates ‘
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUpfOG1FZ1hfLWJJZk5XSV9BM251RVQxb3N1RnVCUDZhU0hJeUdDNW53cjhwM1JVRnFjNmtUVHY5X05mcmQ1MjJXQVpXUi1ReWVndmJCSkpVRU5RT2pwallkVmNqNE1qaXY0RW0zN1g1VnNhZnpxdG9mUDY3ZGYyZ1JFelpRQVMyZV9CZ0czWDRfbEcxekw1cHRIQ2lxSF9xRjJaWFNRVWFkcDJrQ3BqMEhlTkRWVlhnczg5Z3FYMHU5TGg2SFFaN2ZWYTI0N03SAdYBQVVfeXFMUE1FbHRDb2pVaS1BT3VWTUc2QkxHZ0hTRUlJbDlrYmlxWVJadXdGc3hDa1hRVE9iWHpXTF9XWDdveFBoRF9JclE2c0VZbWZqSE1Fc3JxYklYUlpsZjVCaE9LOS1aYVkwN0g2YkVvekZ3LTdqZFkwT1YwaEd4ZDBvY2hQazd1bzFwT2JPM0NRa2YyRGVTcTNPcDJvQnpQdmx0cDF6Q1o4ZjY2cW1qWmF3RFpfczBPakhjcEZDNzB1eVFhMjVvSzJaQVB1NkFUazFLaTU3OTV2dw?oc=5
+- Soldier’s arrest comes after pattern of suspicious trades on prediction markets - CNN
+  Soldier’s arrest comes after pattern
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnY3ZFVObVozRERaUHhpdVZMNkJJSENHSFUtRlJDLXNNSGx3VTVnSXdjQUtfc0l2enBvemo1SmltNEpQcHN3ZEVsa2NBZllxTDROYjR0RVhaZFA5UG9qbTYyOHIxRFdxXzM0SnVBS2xRY2pEdzc0MzZFa0pLY0RTbXg5TTZpVnMxczFjOWFOLTFuajEwaDE0UA?oc=5
+
+- Elon Musk's case against ChatGPT maker OpenAI, Sam Altman set to go for trial; fraud claims withdrawn
+  Musk seeks $150 billion in damages for OpenAI's charitable arm. Jury selection begins Monday, with opening arguments Tuesday.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musks-case-against-chatgpt-maker-openai-sam-altman-set-to-go-for-trial-fraud-claims-withdrawn/articleshow/130518414.cms
 
 - IDFC First Bank Q4 Results: PAT grows 5% YoY to Rs 319 crore; NII up 16%
   IDFC First Bank announced its financial results for the March quarter of FY26. The bank's standalone net profit saw a 5% increase compared to the previous year.
@@ -136,89 +140,85 @@
   Reliance Industries achieved a record net profit of Rs 95,610 crore in FY26. Despite a quarterly dip due to the oil-to-chemicals segment, RIL's consumer businesses showed robust growth.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-becomes-first-indian-firm-to-cross-10-billion-annual-profit/articleshow/130512249.cms
 
-- Stay cautious, focus on selective buying, says Nischal Maheshwari amid market volatility
-  Market veteran Nischal Maheshwari urges investors to stay on the sidelines. He advises against aggressive positions due to current market volatility. Reliance Industries at current levels is a buy.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/stay-cautious-focus-on-selective-buying-says-nischal-maheshwari-amid-market-volatility/articleshow/130512017.cms
-
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
 - 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
   'Uninformed, inappropriate': India slams Donald Trump over
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
-  Meet Nitu Samra, Interim CEO
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
+- Raghav Chadha Loses 1.1 Million Instagram Followers After AAP Rebellion - NDTV
+  Raghav Chadha loses 1.
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONThpZHZTaHp3bEVhcW1BMktUWG5YeTFrZHpGdTFKQ1BPa1REaHY5Mmx6UFZzd2MxSktsMk5tU1hRM0NyRjRqblBWU1BaNHAxZUwwT0VtSHZMcjJCMjJxX2ZCbHJDZG5qS29PUkhDRUM2RHRBRHJSbEsweFBaZzc4RDFHcXQ4anJ3Z19vbllqV3VucDhBVXZ6ZmFMQ25yTHN0b0wyelNBZ3k1dEJ5UGxzRklR0gG6AUFVX3lxTE1Pbk5IZGxoUzVlV2JOcXlySXFhcHFuZVhxUWRhTnNWTkNWYlcyblhpTEVuTk1HOGJZUGs4cFFGQ3BCTjFNQ2lNWjFEYVhFb2VBM1U0YnFDem1ERHVEaGxZOXRPVlZwZVdMQldDT2JkUzNaSVptbHktME9kaXBxVkNtZ1V6NDUtVDNiN2Z4dUJfTWFnYTQ1RHdsS0pjXzFnZmRtR0VtcWNUVEJnNjFQd25hUV9hRmZKdUZNdw?oc=5
+
+- Delhi Records Hottest Day Of Year At 42.8 Degrees, Yellow Alert Issued - NDTV
+  Delhi Records Hottest Day Of Year At 42
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUgtUlpxR09uVnZuQXRfNnl1YlBCVUNDclYtZE5UcDZadzJJUVZIN19LdVVuYUF3dGtibnhRTFBmaUl1TFAxR183ZDNMRWNCOVN3YWVjWkVfOE5jWUpCczdNZGd1OXh4QnUzTXI3RWFDX21BeEQzOHpOZnVuMkdnbXBnNjYxTm1RTkZFT2hmam1tVmJyY090MjRzaFN6dzZKcW5DOUJKMzBBMUtfaFR30gG3AUFVX3lxTFA4cXJ0SlZ2SjhBUXFqOFBrU0ZOM0FDNXlvbkItSkt5NHBxUTlsSUlETzdmUThCbnZyQkZrd1FnYlh2aENGT0ZibDZZX21LMFAyUHZ4bmFJd3VOcWk5VTJSWUwwSjJoa3djYUM2dFBhZDhaUkM0b29oSHdMd0tic0FQYnpTWjJaMEE4M3BkTVRoRVNmbG9MczJwNjE4Q29fQzZGZ3JSeWJrYWprQ1RiaTBFZEkzd3U2cw?oc=5
 
 - Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
   A year on, Kashmir's tourism industry struggles under weight
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
-  India news: Raghav Chadha
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
-
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
 - 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
   'Uninformed, inappropriate': India slams Donald Trump over
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
-  Meet Nitu Samra, Interim CEO
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
+- Raghav Chadha Loses 1.1 Million Instagram Followers After AAP Rebellion - NDTV
+  Raghav Chadha loses 1.
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONThpZHZTaHp3bEVhcW1BMktUWG5YeTFrZHpGdTFKQ1BPa1REaHY5Mmx6UFZzd2MxSktsMk5tU1hRM0NyRjRqblBWU1BaNHAxZUwwT0VtSHZMcjJCMjJxX2ZCbHJDZG5qS29PUkhDRUM2RHRBRHJSbEsweFBaZzc4RDFHcXQ4anJ3Z19vbllqV3VucDhBVXZ6ZmFMQ25yTHN0b0wyelNBZ3k1dEJ5UGxzRklR0gG6AUFVX3lxTE1Pbk5IZGxoUzVlV2JOcXlySXFhcHFuZVhxUWRhTnNWTkNWYlcyblhpTEVuTk1HOGJZUGs4cFFGQ3BCTjFNQ2lNWjFEYVhFb2VBM1U0YnFDem1ERHVEaGxZOXRPVlZwZVdMQldDT2JkUzNaSVptbHktME9kaXBxVkNtZ1V6NDUtVDNiN2Z4dUJfTWFnYTQ1RHdsS0pjXzFnZmRtR0VtcWNUVEJnNjFQd25hUV9hRmZKdUZNdw?oc=5
+
+- Delhi Records Hottest Day Of Year At 42.8 Degrees, Yellow Alert Issued - NDTV
+  Delhi Records Hottest Day Of Year At 42
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUgtUlpxR09uVnZuQXRfNnl1YlBCVUNDclYtZE5UcDZadzJJUVZIN19LdVVuYUF3dGtibnhRTFBmaUl1TFAxR183ZDNMRWNCOVN3YWVjWkVfOE5jWUpCczdNZGd1OXh4QnUzTXI3RWFDX21BeEQzOHpOZnVuMkdnbXBnNjYxTm1RTkZFT2hmam1tVmJyY090MjRzaFN6dzZKcW5DOUJKMzBBMUtfaFR30gG3AUFVX3lxTFA4cXJ0SlZ2SjhBUXFqOFBrU0ZOM0FDNXlvbkItSkt5NHBxUTlsSUlETzdmUThCbnZyQkZrd1FnYlh2aENGT0ZibDZZX21LMFAyUHZ4bmFJd3VOcWk5VTJSWUwwSjJoa3djYUM2dFBhZDhaUkM0b29oSHdMd0tic0FQYnpTWjJaMEE4M3BkTVRoRVNmbG9MczJwNjE4Q29fQzZGZ3JSeWJrYWprQ1RiaTBFZEkzd3U2cw?oc=5
 
 - Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
   A year on, Kashmir's tourism industry struggles under weight
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
-  India news: Raghav Chadha
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
-
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
 - 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
   'Uninformed, inappropriate': India slams Donald Trump over
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
-  Meet Nitu Samra, Interim CEO
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
+- Raghav Chadha Loses 1.1 Million Instagram Followers After AAP Rebellion - NDTV
+  Raghav Chadha loses 1.
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONThpZHZTaHp3bEVhcW1BMktUWG5YeTFrZHpGdTFKQ1BPa1REaHY5Mmx6UFZzd2MxSktsMk5tU1hRM0NyRjRqblBWU1BaNHAxZUwwT0VtSHZMcjJCMjJxX2ZCbHJDZG5qS29PUkhDRUM2RHRBRHJSbEsweFBaZzc4RDFHcXQ4anJ3Z19vbllqV3VucDhBVXZ6ZmFMQ25yTHN0b0wyelNBZ3k1dEJ5UGxzRklR0gG6AUFVX3lxTE1Pbk5IZGxoUzVlV2JOcXlySXFhcHFuZVhxUWRhTnNWTkNWYlcyblhpTEVuTk1HOGJZUGs4cFFGQ3BCTjFNQ2lNWjFEYVhFb2VBM1U0YnFDem1ERHVEaGxZOXRPVlZwZVdMQldDT2JkUzNaSVptbHktME9kaXBxVkNtZ1V6NDUtVDNiN2Z4dUJfTWFnYTQ1RHdsS0pjXzFnZmRtR0VtcWNUVEJnNjFQd25hUV9hRmZKdUZNdw?oc=5
+
+- Delhi Records Hottest Day Of Year At 42.8 Degrees, Yellow Alert Issued - NDTV
+  Delhi Records Hottest Day Of Year At 42
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUgtUlpxR09uVnZuQXRfNnl1YlBCVUNDclYtZE5UcDZadzJJUVZIN19LdVVuYUF3dGtibnhRTFBmaUl1TFAxR183ZDNMRWNCOVN3YWVjWkVfOE5jWUpCczdNZGd1OXh4QnUzTXI3RWFDX21BeEQzOHpOZnVuMkdnbXBnNjYxTm1RTkZFT2hmam1tVmJyY090MjRzaFN6dzZKcW5DOUJKMzBBMUtfaFR30gG3AUFVX3lxTFA4cXJ0SlZ2SjhBUXFqOFBrU0ZOM0FDNXlvbkItSkt5NHBxUTlsSUlETzdmUThCbnZyQkZrd1FnYlh2aENGT0ZibDZZX21LMFAyUHZ4bmFJd3VOcWk5VTJSWUwwSjJoa3djYUM2dFBhZDhaUkM0b29oSHdMd0tic0FQYnpTWjJaMEE4M3BkTVRoRVNmbG9MczJwNjE4Q29fQzZGZ3JSeWJrYWprQ1RiaTBFZEkzd3U2cw?oc=5
 
 - Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
   A year on, Kashmir's tourism industry struggles under weight
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
-  India news: Raghav Chadha
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
-
-- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
-  "Uninformed, Inappropriate, In
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
+- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
+  "Kabhi India Aa Ke Dekho": Iran
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
 
 - 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
   'Uninformed, inappropriate': India slams Donald Trump over
   🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
-  Meet Nitu Samra, Interim CEO
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
+- Raghav Chadha Loses 1.1 Million Instagram Followers After AAP Rebellion - NDTV
+  Raghav Chadha loses 1.
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxONThpZHZTaHp3bEVhcW1BMktUWG5YeTFrZHpGdTFKQ1BPa1REaHY5Mmx6UFZzd2MxSktsMk5tU1hRM0NyRjRqblBWU1BaNHAxZUwwT0VtSHZMcjJCMjJxX2ZCbHJDZG5qS29PUkhDRUM2RHRBRHJSbEsweFBaZzc4RDFHcXQ4anJ3Z19vbllqV3VucDhBVXZ6ZmFMQ25yTHN0b0wyelNBZ3k1dEJ5UGxzRklR0gG6AUFVX3lxTE1Pbk5IZGxoUzVlV2JOcXlySXFhcHFuZVhxUWRhTnNWTkNWYlcyblhpTEVuTk1HOGJZUGs4cFFGQ3BCTjFNQ2lNWjFEYVhFb2VBM1U0YnFDem1ERHVEaGxZOXRPVlZwZVdMQldDT2JkUzNaSVptbHktME9kaXBxVkNtZ1V6NDUtVDNiN2Z4dUJfTWFnYTQ1RHdsS0pjXzFnZmRtR0VtcWNUVEJnNjFQd25hUV9hRmZKdUZNdw?oc=5
+
+- Delhi Records Hottest Day Of Year At 42.8 Degrees, Yellow Alert Issued - NDTV
+  Delhi Records Hottest Day Of Year At 42
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUgtUlpxR09uVnZuQXRfNnl1YlBCVUNDclYtZE5UcDZadzJJUVZIN19LdVVuYUF3dGtibnhRTFBmaUl1TFAxR183ZDNMRWNCOVN3YWVjWkVfOE5jWUpCczdNZGd1OXh4QnUzTXI3RWFDX21BeEQzOHpOZnVuMkdnbXBnNjYxTm1RTkZFT2hmam1tVmJyY090MjRzaFN6dzZKcW5DOUJKMzBBMUtfaFR30gG3AUFVX3lxTFA4cXJ0SlZ2SjhBUXFqOFBrU0ZOM0FDNXlvbkItSkt5NHBxUTlsSUlETzdmUThCbnZyQkZrd1FnYlh2aENGT0ZibDZZX21LMFAyUHZ4bmFJd3VOcWk5VTJSWUwwSjJoa3djYUM2dFBhZDhaUkM0b29oSHdMd0tic0FQYnpTWjJaMEE4M3BkTVRoRVNmbG9MczJwNjE4Q29fQzZGZ3JSeWJrYWprQ1RiaTBFZEkzd3U2cw?oc=5
 
 - Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
   A year on, Kashmir's tourism industry struggles under weight
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
-
-- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
-  India news: Raghav Chadha
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-25 12:57:36 UTC_
+_Last updated: 2026-04-25 18:47:48 UTC_
