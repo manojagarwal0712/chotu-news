@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘We agreed to stop buying oil from Iran, Russia…’: RSS’s Madhav expresses surprise at strain in India-US ties
+- Centre allows American India Foundation to receive foreign funding
   
-  🔗 https://indianexpress.com/article/india/we-agreed-to-stop-buying-oil-from-iran-russia-rsss-madhav-expresses-surprise-at-strain-in-india-us-ties-10654627/
+  🔗 https://indianexpress.com/article/india/centre-allows-american-india-foundation-to-receive-foreign-funding-10655088/
 
-- Rahul Gandhi opposed Raj Kumar Goel’s name, gave three alternatives for CIC post: DoPT documents
+- Drug crackdown in Kashmir: 20 hotspots raided in Anantnag, properties of ‘kingpins’ under scanner
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-opposed-raj-kumar-goels-name-gave-three-alternatives-for-cic-post-dopt-documents-10654657/
+  🔗 https://indianexpress.com/article/india/drug-crackdown-in-kashmir-anantnag-properties-of-kingpins-under-scanner-10655084/
 
-- Former CEA Ashok Lahiri to be Niti Aayog vice-chairman
+- Exclusive: Decomposed samples, broken custody chain, and evidence that wasn’t – Bhopal ‘cow slaughter’ case unravels
   
-  🔗 https://indianexpress.com/article/india/former-cea-ashok-lahiri-to-be-niti-aayog-vice-chairman-10654677/
+  🔗 https://indianexpress.com/article/india/bhopal-cow-slaughter-decomposed-samples-broken-custody-chain-evidence-10655027/
 
-- Rahul Gandhi to begin 3-day visit to Andaman & Nicobar today
+- Kavitha reclaims ‘TRS’ name, launches Telangana Rashtra Sena in bold political move
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-to-begin-3-day-visit-to-andaman-nicobar-today-10654629/
+  🔗 https://indianexpress.com/article/india/k-kavitha-launches-her-new-party-telangana-rashtra-sena-10654960/
 
-- Jal Shakti Ministry PSUs refer corruption cases against their officials to CBI
+- ‘Significant morale booster for BJP in Punjab’
   
-  🔗 https://indianexpress.com/article/india/jal-shakti-ministry-psus-refer-corruption-cases-against-their-officials-to-cbi-10654641/
+  🔗 https://indianexpress.com/article/india/significant-morale-booster-for-bjp-in-punjab-10654828/
 
 - US orders global warning over alleged AI theft by DeepSeek and Chinese firms
   
@@ -60,165 +60,165 @@
   OpenAI failed to alert police before
   🔗 https://www.livemint.com/companies/altman-apologizes-after-openai-failed-to-alert-police-before-tumbler-ridge-killings-11777066695905.html
 
-- Vedanta Demerger: How to trade the Anil Agarwal-led stock ahead of record date?
-  Long-term investors may accumulate shares if valuations are appealing. Short-term traders should focus on the pre-record date rallyand ensure tight stop losses.
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-how-to-trade-the-anil-agarwal-led-stock-ahead-of-record-date-11777015805994.html
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Mehul Kothari recommends three shares to buy or sell — AB
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11777094975570.html
 
-- AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings
-  Taiwan and South Korea muscling past European nations one by one.
-  🔗 https://www.livemint.com/market/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings-11777076636370.html
+- Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 25 April in Delhi, Mumbai, Pune, others
+  Gold and silver prices remained stable in India's retail market on Saturday, April 25. Check retail rates of 24K, 22
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-25-april-in-delhi-mumbai-pune-others-11777094626387.html
 
-- Oil Declines on Renewed Optimism for US-Iran Negotiations
-  Oil prices fell on fresh hopes that elusive peace talks between the US and Iran may materialize after all and pave the way for the resumption of energy
-  🔗 https://www.livemint.com/market/oil-declines-on-renewed-optimism-for-us-iran-negotiations-11777063428637.html
+- Graticule’s Levinson ‘Open’ to Iran Resolution Ahead of Rally
+  Investor Adam Levinson said he remains bullish despite recent market volatility. He is buying the dip ahead of an expected
+  🔗 https://www.livemint.com/market/graticules-levinson-open-to-iran-resolution-ahead-of-rally-11777095421323.html
 
-- Gold Gains on Iran Talks Optimism With Fed Outlook in Focus
-  Gold advanced on optimism that the US and Iran are moving toward talks after days of deadlock. Traders also asessing the Federal Reserve’s interest rate path
-  🔗 https://www.livemint.com/market/gold-gains-on-iran-talks-optimism-with-fed-outlook-in-focus-11777058030308.html
+- Stock market crash: Nifty 50 to Sensex — has Dalal Street discounted the US-Iran war?
+  Nifty 50 index has struggled to sustain above 24,000, amid concerns that rising oil prices are impacting the
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-to-sensex-has-dalal-street-discounted-the-us-iran-war-news-11777090244184.html
 
-- Nasdaq jumps on tech strength, oil dips amid signs of Middle East peace progress
-  Nasdaq jumps on tech strength, oil dips amid signs of Middle
-  🔗 https://www.livemint.com/market/nasdaq-jumps-on-tech-strength-oil-dips-amid-signs-of-middle-east-peace-progress-11777057847634.html
+- US-Iran war to fuel petrol, diesel prices. How can stock market investors make money from it?
+  When oil prices go up, upstream oil producers like ONGC and Oil India usually
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-news-to-fuel-petrol-diesel-prices-how-can-market-investors-make-money-from-it-11777084466718.html
+
+- After DeepSeek V4 launch, US accuses Chinese AI labs of using 'unauthorized distillation' to clone Western tech
+  US has accused Chinese AI firms, particularly DeepSeek, of intellectual property theft. Document warns of risks from distilled AI models that mimic U.
+  🔗 https://www.livemint.com/technology/tech-news/us-warns-chinas-ai-is-cloning-western-tech-via-unauthorized-distillation-flags-massive-data-theft-risks-after-deepse-11777092594629.html
+
+- I gave OpenAI’s new ChatGPT Images 2.0 ten impossible prompts to test its limits, and the results are stunning
+  The ChatGPT Images 2.0 model was tested with 10 real-world
+  🔗 https://www.livemint.com/technology/tech-news/i-gave-openai-s-new-chatgpt-images-2-0-ten-impossible-prompts-to-test-its-limits-and-the-results-are-stunning-11777082916053.html
+
+- Big screen and long battery matter for streaming on the go, these 5 tablets get both right
+  Tablets designed for streaming offer larger displays, better speakers and longer battery life. Tablets
+  🔗 https://www.livemint.com/technology/gadgets/big-screen-and-long-battery-matter-for-streaming-on-the-go-these-5-tablets-get-both-right-11777029346151.html
+
+- Apple to supercharge delayed iPhone 18 with massive RAM upgrade and next-gen 2nm processor: Report
+  Apple may not release the iPhone 18 this year but when the phone eventually arrives it could feature 12GB of
+  🔗 https://www.livemint.com/technology/tech-news/apple-to-supercharge-delayed-iphone-18-with-massive-ram-upgrade-and-next-gen-2nm-processor-report-11777078821852.html
 
 - AI smart glasses will help visually impaired runners take on the London Marathon
    AI smart glasses will help visually impaired runners
   🔗 https://www.livemint.com/technology/ai-smart-glasses-will-help-visually-impaired-runners-take-on-the-london-marathon-11777047671274.html
 
-- You can now ask ChatGPT to find cheap flights with the new Skyscanner integration: step-by-step guide
-  Skyscanner has launched its app within ChatGPT allowing users in India and globally
-  🔗 https://www.livemint.com/technology/tech-news/you-can-now-ask-chatgpt-to-find-cheap-flights-using-the-new-skyscanner-integration-check-step-by-step-guide-11777018517092.html
-
-- Did Anthropic ‘dumb down’ Claude Code? Post-mortem reveals the three bugs that crippled performance
-  Anthropic has acknowledged complaints regarding Claude Code's performance.
-  🔗 https://www.livemint.com/technology/tech-news/did-anthropic-dumb-down-claude-code-post-mortem-reveals-the-three-bugs-that-crippled-performance-11777013226388.html
-
-- iPhone 18 Pro, iPhone 18 Pro Max and iPhone Ultra complete design changes revealed in new leak
-  A new leak has revealed the designs of the iPhone 18 pro, iPhone 18 Pro Max and iPhone
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-iphone-18-pro-max-and-iphone-ultra-complete-design-changes-revealed-in-new-leak-11777006746771.html
-
-- DeepSeek is back: China's AI claims to surpass ChatGPT and Gemini in key benchmarks
-  DeepSeek has introduced its new DeepSeek-V4 AI models, comprising Pro and Flash versions.
-  🔗 https://www.livemint.com/technology/tech-news/deepseek-is-back-chinas-ai-claims-to-surpass-chatgpt-and-gemini-in-key-benchmarks-11777004433233.html
+- Stock Market News, April 24, 2026: Nasdaq, S&P 500 Hit Records, Fueled by Intel Rally - WSJ
+  The Nasdaq, S&amp;P 500 Hit Records,
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0pOQ0pEQTRYQmdGdVR6QW1FcnNhQkJxc1JoVFYxMVhxVjhHR3R2Y2RDNGxmSGNEQmJLUDBMd3NNNEp3WmNfaU8xa1V4WmE0TWpGcks0QlJnY1N6QUNrM3RHb3ZMYk85UWNvVTVSSTYxRmdjemJBbUdPYThXWXZadGNSLUEweWs?oc=5
 
 - S&P 500, Nasdaq close at records, boosted by Intel, as investors hope for a restart to U.S.-Iran talks - CNBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZV
+  The Nasdaq closed at a record high on Tuesday. The S&amp;
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZVNnLVlGMEZYUF9USWZF0gF8QVVfeXFMTTZzbzljVFVBZXA1Tl9VUmpBRHhqNnktcThqeE1yZVdxMWVNU2c4ZXd2d0dBcGYzdC1IOXd5TG9nSEp3c2VmdUJVSERMTnJENlBLd2ZGTENCRTc5dFo0MTFFVlRnb29RS2F4YkNQd3VhZk52SFlEQkJYRzNQNg?oc=5
 
-- Trump Says He Dislikes Prediction Markets. His Family Invests in Them. - The New York Times
-  The New York Times reports that Trump's family has invested in
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxOa25xZTI4WXNrMFk4SDNyNGJXZUU2NkpiRDc3WElPbmVhQVBMOUV1dFZYMF9YbXBCcVFwY21pOGxaODRKV1hkZFNBZkxrX0lXQ3dNaFZTLTczaW5rekJIbjdQU0tXZ1RQOTVNcHBWM1BvY3JGSWV4N2dFc0FiRU44WUhR?oc=5
-
-- Soldier’s arrest comes after pattern of suspicious trades on prediction markets - CNN
-  Soldier’s arrest comes after pattern
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnY3ZFVObVozRERaUHhpdVZMNkJJSENHSFUtRlJDLXNNSGx3VTVnSXdjQUtfc0l2enBvemo1SmltNEpQcHN3ZEVsa2NBZllxTDROYjR0RVhaZFA5UG9qbTYyOHIxRFdxXzM0SnVBS2xRY2pEdzc0MzZFa0pLY0RTbXg5TTZpVnMxczFjOWFOLTFuajEwaDE0UA?oc=5
-
-- Brazil blocks prediction markets without regulatory control By Investing.com - Investing.com India
-  Brazil blocks prediction markets without regulatory control.
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOMW9hQTZxdUdEQlZrNEFKV3RicEI3cmVMMUl6ZWJXUlRkYzVNLTZhakhGMjBWaHFaQWlmQWVTNjBDX2xXTUdkRHdTalpmeG5fdmE0NTh4eXhMU0xHSndFbXhFMmdxVzFxMHViaHhnSVp0Z2N5bTNldzR1b3YyUW5NeTR4N3l0SGx4aTFEWHRSZ3lKVGMxMlV3NkpuYVp5VVBISFI3eTN1ZjJuYXBFTjdWaFEwd1cxdw?oc=5
+- Markets News, April 24, 2026: Nasdaq, S&P 500 Hit Records as Intel Soars; Oil Falls on US-Iran Talks; DOJ Drops Powell Probe - Investopedia
+  The Dow Jones and S&amp;P 500 hit records as Intel Soars. Oil Falls on
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSDJBR2Nva2p6a05sUFc1TzBic3d1RjJzT0ZMcUlqdlhfanROWFVuYlZlOG5FS3AxbVJ2cUdZWUtsek5wWGpSSmxDMVlRSURiWS1QNVRXdXk1SmVIcUxVTFZsbnRoM1BfdVNWbHhERU1GN1BmMEJnM1pwS1NEVmxRb004RWJMZUhwQjZtU29Ia0xOT0IyaGppczljc09xaWNFaXo0eGZGSnRaRlhBRkg3Szdsd3ZCT2NURTNCZmhaZlhwMmdNZms1M1FRRDUyQkh3X1A0NXJVVVg1SVdzcF9aWloxLUJVb3lndVVVaGtqN21rUQ?oc=5
 
 - Stock market crash: Why have Sensex, Nifty dropped over 1% in trade today? Top reasons - The Times of India
-  The Sensex and Nifty dropped over 1% in trade today.
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQldQMmRQVjJScVBHS1NtWmhFNkVQMDNyU1hyRTdmT05nLWJqcnIwS01xdVhkYzl1UUlUWm5lNVlrUHRCZ0t5YjlrNzJGZEZBVk80WUVXRUF5NW5pTlFHN3FzWDRjRllLR0
   🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQldQMmRQVjJScVBHS1NtWmhFNkVQMDNyU1hyRTdmT05nLWJqcnIwS01xdVhkYzl1UUlUWm5lNVlrUHRCZ0t5YjlrNzJGZEZBVk80WUVXRUF5NW5pTlFHN3FzWDRjRllLR0Ffc2ZOSHNxMERSRFNCRTNDcEwxVHNNQ09EbjBsT3BUMEVkdHNzRFphM2dYeFQzZ2QtWGdudG1Cb0x3dWYxRDFqcmhvXzBlRHU2RjZ6dkZBaXl3a2UtdlQzMjNKZUl4bmhVbTBaZ3VMRXhYNzd4eVktcWRWSU15aWMyckZLM2lULVhZTDNWUEVyeU01V2dXYjMzcjRLdGpMTkN2OTlGWnpvSHV3WDRZX0VUbDRJakI1RFQ0WENyOExTUmwtaVJMS2V6eEdRZlBzajAzTktGT1PSAb4CQVVfeXFMUF9vT21CdHNFU3J5anJqZk9hRmFwaTkwQkpncmk2QjZuNEJsWks2RVlVak1vQ3lTbDFFYm5PYVBMQ2w5dGNFOTlyczJjNTNCdTFxSi1BTFVkTXhlQ0k1QlQ2MEZOMGwwYVpib204a3o0T25TM3lBa202Ykl5aWQxOXFJbmIyeVlGVEM4dHZUMjJQdFJQb090a2dXc3lKWlVuS0xHYmFLN3JPdmswTkprZXRWNkpPaU9nR3llck8zb0VaZFMwVHV4YkEtZFZIc1o1MW5sYmIzUENFTDVRYUM4UC1tQzJteWk3S3NJTXdBT2tHc3RYbUVRWEJGMV90Nk9UM25oZWZPUmRHREFsWjU0WUpsY2Rya2VZSC1PQWpIcjN3WWNFZ1c2dE1XWk4wd2hTQ2t1OXhVN1NfVnlpQnlB?oc=5
 
-- US stocks today: S&amp;P 500, Nasdaq close at records on tech lift, Iran peace talk hopes
-  The S&amp;P 500 and Nasdaq reached record highs Friday. Semiconductor stocks continued their rally, with Intel hitting a record. Attention now shifts to the upcoming Federal Reserve meeting for clues on interest
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-at-records-on-tech-lift-iran-peace-talk-hopes/articleshow/130503837.cms
+- Nvidia stock closes at record, pushing market cap past $5 trillion - CNBC
+  Nvidia stock closes at record, pushing market
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1NGaUFwbzRoN1dUVTBWYzBPX25kbVVDRW1JY3dPaXByazRvNGVYX2lodkFRdjUwcUhCSkp3S3g5X2hrQ3FYa21QNWNWa3Z2eFdGRk1uTXVJSXZEZ2xQdkFMVlRRUTJFOFJrZUZ4Q1I5bVYxWFdjajdMR3dpMXdhQ2U2NFRRVE12bXAzQkV5SXBZRmlfMnZndG5wRnRBdVpUbkRN0gGoAUFVX3lxTE1kS1Y2dlVHU1B5UFQ5NGhnQW91RXk1b3lYdW9QNUZtWVRiM29wVXJDM1NaS00xTFZXUm5wcUtYazlkVnp0ME9Hd1JIRVNoVTdkSGxKNEViS2tDOS00NEZYTk05N0JkZktGMFBzaHNrMkJnOWpkTDlYWjlrWnJYZEJHcHAtUl96TWFmdU5CbnNBUUVqUF9zcmdDRDZrSEZ1RVZrMU1yNkhadQ?oc=5
 
-- Promoters Buying: 9 Nifty 500 stocks that saw stake hikes in March quarter
-  Promoters are showing increased confidence in several Nifty 500 companies. This trend suggests optimism about future company performance. Godrej Properties and Adani Energy Solutions are among those with increased promoter stakes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/promoters-buying-9-nifty-500-stocks-that-saw-stake-hikes-in-march-quarter/articleshow/130500766.cms
+- Bitcoin near $78K, Ethereum steady near $2,300; rally cools after strong rebound
+  Global crypto market capitalization slightly decreased. Geopolitical tensions and monetary policy uncertainty are influencing markets. Capital remains concentrated in major cryptocurrencies.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-near-78k-ethereum-steady-near-2300-rally-cools-after-strong-rebound/articleshow/130509908.cms
 
-- US stocks: Nuclear reactor maker X-Energy valued at $11.9 billion in stellar Nasdaq debut
-  X-Energy's Nasdaq debut saw shares surge 30.9%, valuing the nuclear reactor developer at $11.9 billion. The company raised over $1 billion in its IPO, aiming to deploy its small modular reactors to
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nuclear-reactor-maker-x-energy-valued-at-11-9-billion-in-stellar-nasdaq-debut/articleshow/130500806.cms
+- FII exodus deepens in 2026 at Rs 1.75 lakh crore as April outflows swell to Rs 43,967 crore; FOMC next trigger
+  Foreign institutional investors offloaded Indian equities worth Rs 17,140 crore last week. This massive selling, driven by geopolitical concerns and a lack of clear sectoral leadership, led to sharp cuts in domestic indices. Global news flows, including
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-exodus-deepens-in-2026-at-rs-1-75-lakh-crore-as-april-outflows-swell-to-rs-43967-crore-fomc-next-trigger/articleshow/130509855.cms
 
-- Avis stock's roller coaster drags US' big index Dow Jones Transportation Average along for the ride
-  Avis Budget shares experienced a dramatic 70% plunge, following a massive surge. This volatility significantly impacted the Dow Jones Transportation Average, a long-standing economic barometer.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/avis-stock-roller-coaster-drags-us-big-index-dow-jones-transportation-average-along-for-the-ride/articleshow/130500606.cms
+- Why are copper prices near high and will the momentum continue?
+  Copper prices remain near record levels, supported by AI-driven data centre demand, global electrification, tight mine supply and geopolitical disruptions. Structural demand from EVs, renewables and infrastructure continues to keep the long-
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/why-are-copper-prices-near-high-and-will-the-momentum-continue/articleshow/130509809.cms
 
-- JioStar logs Rs 3,210 crore profit in FY26 aided by growth in digital, sports
-  JioStar reported a significant net profit of Rs 3,210 crore for FY26, with operating revenue reaching Rs 31,048 crore. The entertainment arm also saw strong performance in the March 2026 quarter,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jiostar-logs-rs-3210-crore-profit-in-fy26-aided-by-growth-in-digital-sports/articleshow/130499682.cms
+- RBI action on Paytm Payments Bank incrementally negative for One 97, says Bernstein; retains ‘Outperform’, sees 30% upside
+  The RBI has cancelled Paytm Payments Bank's license due to regulatory non-compliance. Bernstein views this as incrementally negative for parent One 97 Communications.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-action-on-paytm-payments-bank-incrementally-negative-for-one-97-says-bernstein-retains-outperform-sees-30-upside/articleshow/130509621.cms
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- Markets have begun to climb the wall of worry
+   Markets often climb despite worries. In 2020, markets rose before economic recovery. Now, in 2026, markets are recovering amid geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-have-begun-to-climb-the-wall-of-worry/articleshow/130508993.cms
 
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- Why is India still struggling to end malaria? - The Times of India
-  Why is India still struggling to end malaria?
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU1uNGt5b25OYmhZMkFzUExRWE1QdFVrdmJTSmtlTmh4cDliZkJ3M2VsNmMyOGQwR1RRYndRZU1ydEZHbXVRcDNzWkdQektoSVgteVhoMVN6MFBDTjR6RWJHQTlXeDJlY05iUWtoa295ZkRvWnlyLWRraTZEMEJxUXhLc2llLXBla3ZCREhQRGc5SFVwczZ3aE5kdGp1bC1uaU1lcTM4T1A2S2RNUW1udFdHMFBTMVHSAbwBQVVfeXFMUHNUT3lHSnhOVlpFXy1qTlYwQVJHTU45UHVPVW9oeTBfQlFselMzV2tJMFp0Tkg3R2QxN0RxUWJDTHdRaXZWczZGWjZHc290RGEtV2xLbUN4dTlsNW1IUHVPOWFpTU1rRlk4U0QyOFNsU2paQldYeVRpLWhlMnlVVjY3c29IZ0FhUDlRNE05OXZlUGt2cFlfQ3hfQkgwbWRTY3BsZWFPamc1NjVKSURXUG1Pa1F0LTlpX21iREs?oc=5
+- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
+  Reserve Bank of India Cancels Banking Licence of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
 
-- India to take on South Africa in 4th T20I today in Johannesburg - News On AIR
-  India to take on South Africa in 4th T20I
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzRDcXJ0QXFsRDk1VHYtdnFZMEpoRHZCRkRmRkU5N0ZfSFRjV3BIQ0UzeUI1bDZMOUhET0VGRkpsTTUxc3Z4Tk9DamkxSVNzOW5oRXprVm5DVVE1OFNVWEpnRWc5WldPcFVtTENLOHhGMzlxTnBJMmxicXU5YU82OW14UnpWTThlTHpBTnkwQzFZTzdJU3VReg?oc=5
+- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
+  Russian troops, warships in India soon? Why their new
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
 
-- Rajnath visits German submarine yard as P-75I deal is expected soon - The Times of India
-  Rajnath Singh visits German submarine yard as P-
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRC1EcE9GeXdFTmRxdkpRVGZmUWN5RmtRYWFjSEJmMUI5eHRsS2dzOWlWcmxxb0NCOTVmdXhULXNoTGdoYkdaUC1CRlNKVGt5N0hHVlFicm5DdUVReXJJX19JaExoSWFLa081OWsxRFBkbXNRY2cyQVZOWHdJX3JZQUswd0QtdU1FaTRoRFNQaGl4UVRRV2dwTHJMWGF2TWFkTkZKSlhueFNsdmNjYjZDYzNhdWJoMHR6RXhxSFhsRnFWZjVBY3BPZUtRWXJzVnNv0gHWAUFVX3lxTE9NdmNiWnV2V0pkYzlOTFA1cm4ycEpjbDBBWmJFcG9ZblBYVkIydkxNSnZIam1PbThzWUUtVlo0b2VRYUdXZjQ5TkpSTW5vNUowOGFDRUpzT0MyT05CMFd4UHdNMnNCVW1rRnJTRkMtUks5UEJ1eVZEcndpN0FNbm9ESVdsVDJIdkViZm1ZeG0yZnBiLUJqalRfNTR4Z3NLeDhSR1BsX005d0xTSFZvQWowcjJqLWVZUjNHOFJjNGpOcXRjZG5IRnlvaWpSYlhqVjZjNnAtQXc?oc=5
+- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
+  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
+  PM Modi to interact with CMs; review preparedness, plans on West
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
 
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- Why is India still struggling to end malaria? - The Times of India
-  Why is India still struggling to end malaria?
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU1uNGt5b25OYmhZMkFzUExRWE1QdFVrdmJTSmtlTmh4cDliZkJ3M2VsNmMyOGQwR1RRYndRZU1ydEZHbXVRcDNzWkdQektoSVgteVhoMVN6MFBDTjR6RWJHQTlXeDJlY05iUWtoa295ZkRvWnlyLWRraTZEMEJxUXhLc2llLXBla3ZCREhQRGc5SFVwczZ3aE5kdGp1bC1uaU1lcTM4T1A2S2RNUW1udFdHMFBTMVHSAbwBQVVfeXFMUHNUT3lHSnhOVlpFXy1qTlYwQVJHTU45UHVPVW9oeTBfQlFselMzV2tJMFp0Tkg3R2QxN0RxUWJDTHdRaXZWczZGWjZHc290RGEtV2xLbUN4dTlsNW1IUHVPOWFpTU1rRlk4U0QyOFNsU2paQldYeVRpLWhlMnlVVjY3c29IZ0FhUDlRNE05OXZlUGt2cFlfQ3hfQkgwbWRTY3BsZWFPamc1NjVKSURXUG1Pa1F0LTlpX21iREs?oc=5
+- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
+  Reserve Bank of India Cancels Banking Licence of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
 
-- India to take on South Africa in 4th T20I today in Johannesburg - News On AIR
-  India to take on South Africa in 4th T20I
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzRDcXJ0QXFsRDk1VHYtdnFZMEpoRHZCRkRmRkU5N0ZfSFRjV3BIQ0UzeUI1bDZMOUhET0VGRkpsTTUxc3Z4Tk9DamkxSVNzOW5oRXprVm5DVVE1OFNVWEpnRWc5WldPcFVtTENLOHhGMzlxTnBJMmxicXU5YU82OW14UnpWTThlTHpBTnkwQzFZTzdJU3VReg?oc=5
+- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
+  Russian troops, warships in India soon? Why their new
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
 
-- Rajnath visits German submarine yard as P-75I deal is expected soon - The Times of India
-  Rajnath Singh visits German submarine yard as P-
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRC1EcE9GeXdFTmRxdkpRVGZmUWN5RmtRYWFjSEJmMUI5eHRsS2dzOWlWcmxxb0NCOTVmdXhULXNoTGdoYkdaUC1CRlNKVGt5N0hHVlFicm5DdUVReXJJX19JaExoSWFLa081OWsxRFBkbXNRY2cyQVZOWHdJX3JZQUswd0QtdU1FaTRoRFNQaGl4UVRRV2dwTHJMWGF2TWFkTkZKSlhueFNsdmNjYjZDYzNhdWJoMHR6RXhxSFhsRnFWZjVBY3BPZUtRWXJzVnNv0gHWAUFVX3lxTE9NdmNiWnV2V0pkYzlOTFA1cm4ycEpjbDBBWmJFcG9ZblBYVkIydkxNSnZIam1PbThzWUUtVlo0b2VRYUdXZjQ5TkpSTW5vNUowOGFDRUpzT0MyT05CMFd4UHdNMnNCVW1rRnJTRkMtUks5UEJ1eVZEcndpN0FNbm9ESVdsVDJIdkViZm1ZeG0yZnBiLUJqalRfNTR4Z3NLeDhSR1BsX005d0xTSFZvQWowcjJqLWVZUjNHOFJjNGpOcXRjZG5IRnlvaWpSYlhqVjZjNnAtQXc?oc=5
+- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
+  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
+  PM Modi to interact with CMs; review preparedness, plans on West
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
 
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- Why is India still struggling to end malaria? - The Times of India
-  Why is India still struggling to end malaria?
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU1uNGt5b25OYmhZMkFzUExRWE1QdFVrdmJTSmtlTmh4cDliZkJ3M2VsNmMyOGQwR1RRYndRZU1ydEZHbXVRcDNzWkdQektoSVgteVhoMVN6MFBDTjR6RWJHQTlXeDJlY05iUWtoa295ZkRvWnlyLWRraTZEMEJxUXhLc2llLXBla3ZCREhQRGc5SFVwczZ3aE5kdGp1bC1uaU1lcTM4T1A2S2RNUW1udFdHMFBTMVHSAbwBQVVfeXFMUHNUT3lHSnhOVlpFXy1qTlYwQVJHTU45UHVPVW9oeTBfQlFselMzV2tJMFp0Tkg3R2QxN0RxUWJDTHdRaXZWczZGWjZHc290RGEtV2xLbUN4dTlsNW1IUHVPOWFpTU1rRlk4U0QyOFNsU2paQldYeVRpLWhlMnlVVjY3c29IZ0FhUDlRNE05OXZlUGt2cFlfQ3hfQkgwbWRTY3BsZWFPamc1NjVKSURXUG1Pa1F0LTlpX21iREs?oc=5
+- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
+  Reserve Bank of India Cancels Banking Licence of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
 
-- India to take on South Africa in 4th T20I today in Johannesburg - News On AIR
-  India to take on South Africa in 4th T20I
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzRDcXJ0QXFsRDk1VHYtdnFZMEpoRHZCRkRmRkU5N0ZfSFRjV3BIQ0UzeUI1bDZMOUhET0VGRkpsTTUxc3Z4Tk9DamkxSVNzOW5oRXprVm5DVVE1OFNVWEpnRWc5WldPcFVtTENLOHhGMzlxTnBJMmxicXU5YU82OW14UnpWTThlTHpBTnkwQzFZTzdJU3VReg?oc=5
+- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
+  Russian troops, warships in India soon? Why their new
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
 
-- Rajnath visits German submarine yard as P-75I deal is expected soon - The Times of India
-  Rajnath Singh visits German submarine yard as P-
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRC1EcE9GeXdFTmRxdkpRVGZmUWN5RmtRYWFjSEJmMUI5eHRsS2dzOWlWcmxxb0NCOTVmdXhULXNoTGdoYkdaUC1CRlNKVGt5N0hHVlFicm5DdUVReXJJX19JaExoSWFLa081OWsxRFBkbXNRY2cyQVZOWHdJX3JZQUswd0QtdU1FaTRoRFNQaGl4UVRRV2dwTHJMWGF2TWFkTkZKSlhueFNsdmNjYjZDYzNhdWJoMHR6RXhxSFhsRnFWZjVBY3BPZUtRWXJzVnNv0gHWAUFVX3lxTE9NdmNiWnV2V0pkYzlOTFA1cm4ycEpjbDBBWmJFcG9ZblBYVkIydkxNSnZIam1PbThzWUUtVlo0b2VRYUdXZjQ5TkpSTW5vNUowOGFDRUpzT0MyT05CMFd4UHdNMnNCVW1rRnJTRkMtUks5UEJ1eVZEcndpN0FNbm9ESVdsVDJIdkViZm1ZeG0yZnBiLUJqalRfNTR4Z3NLeDhSR1BsX005d0xTSFZvQWowcjJqLWVZUjNHOFJjNGpOcXRjZG5IRnlvaWpSYlhqVjZjNnAtQXc?oc=5
+- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
+  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
 
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-  India voices anger after Trump shares comments calling it a
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbzc1bkVPaUdoYkRKdkxEb3ZZekhhZzEzN0czMXlFdE0tblBZY0QzaHExdnd0SVdGX0dNVWpHNUxhWWNhMTV1T1NHU3lhSVRKTVk0Qlc3bGRTdVVQdEFTUjhsX3VyYVUyeU9LMXhoN3VfdHlocU04bTFqcw?oc=5
+- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
+  PM Modi to interact with CMs; review preparedness, plans on West
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
 
-- "Kabhi India Aa Ke Dekho": Iran's "Cultural Detox" Jibe At Trump Over "Hell-Hole" Remark - NDTV
-  "Kabhi India Aa Ke Dekho": Iran
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUVXLVlyaEV6UkdscUwtbS10Nk1wVTVNNmhVbXZaT1RJamhjUmN4R3JqRHNJLVV6eUcxZTM0TlQ4R3NtUV9iMXZwZXhNZUVVR2NONHZmMDFaYWxGZ2xoODI5Q291b3pfWmpOQzR3UndHSEVSUzJQNHBzUDZBSmtKSGtCNXUyVUFld2FqNVkwdzR5MzBoVW1JLUtoUDIyM3NBYUhxVjFLeWQ5WHdFVlg4ZnBsOWppakVBcndEYnZzVjhuN05MaS1HeWRXaHphZHFxQzRNRlFR0gHeAUFVX3lxTFA4SGF0RndyaWxMT2dyU19sc2NrOS11MUVKSS14Z3hyRkx0N3RaR3ZSMGZ4eWNJU1h6TnBjaWRFSHc3TEhqUVBOYUYyOWRsazF2MGticmsyQW5YTklNWlRRWTJVMVFfOHpJMDVHeF9JYzk5dW1CS3BFUTZpSDhsT1ZFRXN6X2N0eW11NUJ0S3gzMkJRZGl5RHowLXIwUG5Oa054d25FdkwyVmxUU1lXZU5sQlRTQUV5dnJKYzVuckhZeTVPT2R4VVJYXy00NUpNb1U5OXZSQUo2RlVpTnZwdw?oc=5
+- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
 
-- Why is India still struggling to end malaria? - The Times of India
-  Why is India still struggling to end malaria?
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU1uNGt5b25OYmhZMkFzUExRWE1QdFVrdmJTSmtlTmh4cDliZkJ3M2VsNmMyOGQwR1RRYndRZU1ydEZHbXVRcDNzWkdQektoSVgteVhoMVN6MFBDTjR6RWJHQTlXeDJlY05iUWtoa295ZkRvWnlyLWRraTZEMEJxUXhLc2llLXBla3ZCREhQRGc5SFVwczZ3aE5kdGp1bC1uaU1lcTM4T1A2S2RNUW1udFdHMFBTMVHSAbwBQVVfeXFMUHNUT3lHSnhOVlpFXy1qTlYwQVJHTU45UHVPVW9oeTBfQlFselMzV2tJMFp0Tkg3R2QxN0RxUWJDTHdRaXZWczZGWjZHc290RGEtV2xLbUN4dTlsNW1IUHVPOWFpTU1rRlk4U0QyOFNsU2paQldYeVRpLWhlMnlVVjY3c29IZ0FhUDlRNE05OXZlUGt2cFlfQ3hfQkgwbWRTY3BsZWFPamc1NjVKSURXUG1Pa1F0LTlpX21iREs?oc=5
+- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
+  Reserve Bank of India Cancels Banking Licence of
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
 
-- India to take on South Africa in 4th T20I today in Johannesburg - News On AIR
-  India to take on South Africa in 4th T20I
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzRDcXJ0QXFsRDk1VHYtdnFZMEpoRHZCRkRmRkU5N0ZfSFRjV3BIQ0UzeUI1bDZMOUhET0VGRkpsTTUxc3Z4Tk9DamkxSVNzOW5oRXprVm5DVVE1OFNVWEpnRWc5WldPcFVtTENLOHhGMzlxTnBJMmxicXU5YU82OW14UnpWTThlTHpBTnkwQzFZTzdJU3VReg?oc=5
+- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
+  Russian troops, warships in India soon? Why their new
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
 
-- Rajnath visits German submarine yard as P-75I deal is expected soon - The Times of India
-  Rajnath Singh visits German submarine yard as P-
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRC1EcE9GeXdFTmRxdkpRVGZmUWN5RmtRYWFjSEJmMUI5eHRsS2dzOWlWcmxxb0NCOTVmdXhULXNoTGdoYkdaUC1CRlNKVGt5N0hHVlFicm5DdUVReXJJX19JaExoSWFLa081OWsxRFBkbXNRY2cyQVZOWHdJX3JZQUswd0QtdU1FaTRoRFNQaGl4UVRRV2dwTHJMWGF2TWFkTkZKSlhueFNsdmNjYjZDYzNhdWJoMHR6RXhxSFhsRnFWZjVBY3BPZUtRWXJzVnNv0gHWAUFVX3lxTE9NdmNiWnV2V0pkYzlOTFA1cm4ycEpjbDBBWmJFcG9ZblBYVkIydkxNSnZIam1PbThzWUUtVlo0b2VRYUdXZjQ5TkpSTW5vNUowOGFDRUpzT0MyT05CMFd4UHdNMnNCVW1rRnJTRkMtUks5UEJ1eVZEcndpN0FNbm9ESVdsVDJIdkViZm1ZeG0yZnBiLUJqalRfNTR4Z3NLeDhSR1BsX005d0xTSFZvQWowcjJqLWVZUjNHOFJjNGpOcXRjZG5IRnlvaWpSYlhqVjZjNnAtQXc?oc=5
+- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
+  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
+
+- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
+  PM Modi to interact with CMs; review preparedness, plans on West
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-25 02:00:48 UTC_
+_Last updated: 2026-04-25 07:11:00 UTC_
