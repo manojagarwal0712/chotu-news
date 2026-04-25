@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Centre allows American India Foundation to receive foreign funding
+- PSA slapped on 6 men after protests in Kashmir’s Sopore over student’s harassment in govt school
   
-  🔗 https://indianexpress.com/article/india/centre-allows-american-india-foundation-to-receive-foreign-funding-10655088/
+  🔗 https://indianexpress.com/article/india/sopore-protest-psa-six-booked-jk-police-10655686/
 
-- Drug crackdown in Kashmir: 20 hotspots raided in Anantnag, properties of ‘kingpins’ under scanner
+- Bengaluru’s BEML Aditya plant to manufacture India’s first bullet train ‘B28’
   
-  🔗 https://indianexpress.com/article/india/drug-crackdown-in-kashmir-anantnag-properties-of-kingpins-under-scanner-10655084/
+  🔗 https://indianexpress.com/article/india/bengalurus-beml-aditya-plant-to-manufacture-indias-first-bullet-train-b28-10655666/
 
-- Exclusive: Decomposed samples, broken custody chain, and evidence that wasn’t – Bhopal ‘cow slaughter’ case unravels
+- Mangaluru-Bengaluru Vande Bharat train to launch soon: Ashwini Vaishnaw
   
-  🔗 https://indianexpress.com/article/india/bhopal-cow-slaughter-decomposed-samples-broken-custody-chain-evidence-10655027/
+  🔗 https://indianexpress.com/article/india/mangaluru-bengaluru-vande-bharat-train-to-launch-soon-ashwini-vaishnaw-10654996/
 
-- Kavitha reclaims ‘TRS’ name, launches Telangana Rashtra Sena in bold political move
+- AIIMS Delhi director, DST Secretary appointed members of NITI Aayog
   
-  🔗 https://indianexpress.com/article/india/k-kavitha-launches-her-new-party-telangana-rashtra-sena-10654960/
+  🔗 https://indianexpress.com/article/india/niti-aayog-new-members-aiims-dst-ashok-lahiri-vice-chairperson-10655579/
 
-- ‘Significant morale booster for BJP in Punjab’
+- ‘She came the night before too’: Cop’s partner kills his wife and son, daughter critical
   
-  🔗 https://indianexpress.com/article/india/significant-morale-booster-for-bjp-in-punjab-10654828/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-durg-stf-constable-wife-son-murder-accused-arrested-10655577/
+
+- 7 free photo editing apps that turn everyday photos into pro-level shots
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/free-photo-editing-apps-to-transform-your-regular-photos-10652055/
+
+- India sees fastest global growth in AI hiring at 59.5%: LinkedIn report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-sees-fastest-global-growth-in-ai-hiring-at-59-5-linkedin-report-10655284/
 
 - US orders global warning over alleged AI theft by DeepSeek and Chinese firms
   
@@ -32,13 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-parent-alphabet-to-invest-up-to-40-billion-in-anthropic-amid-ai-race-10654736/
 
-- New lunar mineral found: What China’s discovery means for research
-  
-  🔗 https://indianexpress.com/article/technology/science/new-lunar-mineral-found-what-chinas-discovery-means-for-research-10654344/
-
-- China to curb US investment in tech companies: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/china-to-curb-us-investment-in-tech-companies-report-10654044/
+- Indigo denies claims of banning sindoor, tilak; cautions against sharing ‘fabricated’ documents online
+  IndiGo's grooming policy has sparked controversy over alleged bans on religious symbols like sindoor and mang
+  🔗 https://www.livemint.com/companies/news/-fabricated-documents-indigo-on-social-media-uproar-over-airlines-grooming-policy-11777109656994.html
 
 - Ficci flags audit rule change proposal in Companies Act, warns of higher costs, reduced expertise
   Ficci has urged the government to drop a proposed three-year ban. It said the move would raise costs and limit expertise for large companies.
@@ -56,29 +60,37 @@
   The 6.5-km- tunnel ensures uninterrupted military logistics and year-round civilian access to Ladakh. The
   🔗 https://www.livemint.com/companies/news/apco-infratech-in-talks-with-alpha-alternatives-to-sell-strategic-z-morh-tunnel-for-267-million-11777028220379.html
 
-- Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings
-  OpenAI failed to alert police before
-  🔗 https://www.livemint.com/companies/altman-apologizes-after-openai-failed-to-alert-police-before-tumbler-ridge-killings-11777066695905.html
+- Gold rate today, 25 April: Gold prices remain volatile amid a tug of war between the US Fed rate cut and inflation risk
+  Gold prices in India fell to  ₹1,52,799 per
+  🔗 https://www.livemint.com/market/commodities/gold-rate-today-25-april-gold-prices-remain-volatile-us-fed-rate-cut-us-iran-news-inflation-risk-in-focus-11777106239233.html
 
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  Mehul Kothari recommends three shares to buy or sell — AB
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11777094975570.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 27 April 2026
+  Sumeet Bagadia recommends three stocks to buy on Monday. S
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-27-april-2026-11777103759259.html
 
-- Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 25 April in Delhi, Mumbai, Pune, others
-  Gold and silver prices remained stable in India's retail market on Saturday, April 25. Check retail rates of 24K, 22
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-25-april-in-delhi-mumbai-pune-others-11777094626387.html
+- FM nudges Sebi to drive common KYC norms, ease investor onboarding
+  Finance minister Nirmala Sitharaman urges Sebi to anchor a unified KYC regime, strengthen enforcement
+  🔗 https://www.livemint.com/market/sebi-nirmala-sitharaman-kyc-reforms-unified-kyc-retail-investors-financial-regulation-market-surveillance-11777100856985.html
 
-- Graticule’s Levinson ‘Open’ to Iran Resolution Ahead of Rally
-  Investor Adam Levinson said he remains bullish despite recent market volatility. He is buying the dip ahead of an expected
-  🔗 https://www.livemint.com/market/graticules-levinson-open-to-iran-resolution-ahead-of-rally-11777095421323.html
+- Sebi bets on capacity building, tech to strengthen market regulation
+  Market regulator tightens conflict-of-interest norms for top officials.
+  🔗 https://www.livemint.com/market/india-sebi-capacity-building-technology-market-regulation-tuhin-kanta-pandey-disclosure-norms-11777099332081.html
 
-- Stock market crash: Nifty 50 to Sensex — has Dalal Street discounted the US-Iran war?
-  Nifty 50 index has struggled to sustain above 24,000, amid concerns that rising oil prices are impacting the
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-to-sensex-has-dalal-street-discounted-the-us-iran-war-news-11777090244184.html
+- Adani Power vs NTPC vs Tata Power: Which power stock to buy ahead of Q4 results 2026?
+  Market analysts predict strong Q4FY26 results for Indian
+  🔗 https://www.livemint.com/market/stock-market-news/adani-power-vs-ntpc-vs-tata-power-which-power-stock-to-buy-ahead-of-q4-results-2026-11777098444182.html
 
-- US-Iran war to fuel petrol, diesel prices. How can stock market investors make money from it?
-  When oil prices go up, upstream oil producers like ONGC and Oil India usually
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-news-to-fuel-petrol-diesel-prices-how-can-market-investors-make-money-from-it-11777084466718.html
+- ASUS launches ExpertBook Ultra, P5, and P3 laptops in India with Intel Core Ultra processors
+  ASUS has launched its new ExpertBook Ultra, P5, and P3 laptops in India. The ExpertBookUltra starts at  �
+  🔗 https://www.livemint.com/technology/gadgets/asus-launches-expertbook-ultra-p5-and-p3-laptops-in-india-with-intel-core-ultra-processors-11777109999331.html
+
+- Apple's 20th Edition iPhone: Micro-curved display, new battery tech, A21 chip and expected upgrades
+  Apple could be working on a quad-curved display for its 20th Edition iPhone. The phone could run on A21 Pro processor while
+  🔗 https://www.livemint.com/technology/gadgets/apples-20th-edition-iphone-all-glass-display-micro-curved-panel-new-battery-technology-and-a21-processor-11777103470381.html
+
+- Meet Sinceerly: Harvard student uses Claude to build ‘anti-Grammarly’ tool to add typos to your AI emails
+  Harvard student Ben Horwitz created Sinceerly, a Chrome extension that inject
+  🔗 https://www.livemint.com/technology/tech-news/meet-sinceerly-harvard-student-uses-claude-to-build-anti-grammarly-tool-to-add-typos-to-your-ai-emails-11777099428793.html
 
 - After DeepSeek V4 launch, US accuses Chinese AI labs of using 'unauthorized distillation' to clone Western tech
   US has accused Chinese AI firms, particularly DeepSeek, of intellectual property theft. Document warns of risks from distilled AI models that mimic U.
@@ -88,137 +100,125 @@
   The ChatGPT Images 2.0 model was tested with 10 real-world
   🔗 https://www.livemint.com/technology/tech-news/i-gave-openai-s-new-chatgpt-images-2-0-ten-impossible-prompts-to-test-its-limits-and-the-results-are-stunning-11777082916053.html
 
-- Big screen and long battery matter for streaming on the go, these 5 tablets get both right
-  Tablets designed for streaming offer larger displays, better speakers and longer battery life. Tablets
-  🔗 https://www.livemint.com/technology/gadgets/big-screen-and-long-battery-matter-for-streaming-on-the-go-these-5-tablets-get-both-right-11777029346151.html
-
-- Apple to supercharge delayed iPhone 18 with massive RAM upgrade and next-gen 2nm processor: Report
-  Apple may not release the iPhone 18 this year but when the phone eventually arrives it could feature 12GB of
-  🔗 https://www.livemint.com/technology/tech-news/apple-to-supercharge-delayed-iphone-18-with-massive-ram-upgrade-and-next-gen-2nm-processor-report-11777078821852.html
-
-- AI smart glasses will help visually impaired runners take on the London Marathon
-   AI smart glasses will help visually impaired runners
-  🔗 https://www.livemint.com/technology/ai-smart-glasses-will-help-visually-impaired-runners-take-on-the-london-marathon-11777047671274.html
-
-- Stock Market News, April 24, 2026: Nasdaq, S&P 500 Hit Records, Fueled by Intel Rally - WSJ
-  The Nasdaq, S&amp;P 500 Hit Records,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0pOQ0pEQTRYQmdGdVR6QW1FcnNhQkJxc1JoVFYxMVhxVjhHR3R2Y2RDNGxmSGNEQmJLUDBMd3NNNEp3WmNfaU8xa1V4WmE0TWpGcks0QlJnY1N6QUNrM3RHb3ZMYk85UWNvVTVSSTYxRmdjemJBbUdPYThXWXZadGNSLUEweWs?oc=5
+- Markets News, April 24, 2026: Nasdaq, S&P 500 Hit Records as Intel Soars; Oil Falls on US-Iran Talks; DOJ Drops Powell Probe - Investopedia
+  The Dow Jones and S&amp;P 500 hit records as Intel Soars. Oil Falls on
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSDJBR2Nva2p6a05sUFc1TzBic3d1RjJzT0ZMcUlqdlhfanROWFVuYlZlOG5FS3AxbVJ2cUdZWUtsek5wWGpSSmxDMVlRSURiWS1QNVRXdXk1SmVIcUxVTFZsbnRoM1BfdVNWbHhERU1GN1BmMEJnM1pwS1NEVmxRb004RWJMZUhwQjZtU29Ia0xOT0IyaGppczljc09xaWNFaXo0eGZGSnRaRlhBRkg3Szdsd3ZCT2NURTNCZmhaZlhwMmdNZms1M1FRRDUyQkh3X1A0NXJVVVg1SVdzcF9aWloxLUJVb3lndVVVaGtqN21rUQ?oc=5
 
 - S&P 500, Nasdaq close at records, boosted by Intel, as investors hope for a restart to U.S.-Iran talks - CNBC
   The Nasdaq closed at a record high on Tuesday. The S&amp;
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaUJDUHYxZk1kcGdvZHlsNVl2U083MVg3MVNaanotS0J5blZfRmV6YkVTUnV2VnRQYWswZU41VVEzMkpHMGNyYm5ka2JZbzNtLU42NEpwekRjdGhnTVdEUkJ6NW9vMGoxZVNnLVlGMEZYUF9USWZF0gF8QVVfeXFMTTZzbzljVFVBZXA1Tl9VUmpBRHhqNnktcThqeE1yZVdxMWVNU2c4ZXd2d0dBcGYzdC1IOXd5TG9nSEp3c2VmdUJVSERMTnJENlBLd2ZGTENCRTc5dFo0MTFFVlRnb29RS2F4YkNQd3VhZk52SFlEQkJYRzNQNg?oc=5
 
-- Markets News, April 24, 2026: Nasdaq, S&P 500 Hit Records as Intel Soars; Oil Falls on US-Iran Talks; DOJ Drops Powell Probe - Investopedia
-  The Dow Jones and S&amp;P 500 hit records as Intel Soars. Oil Falls on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSDJBR2Nva2p6a05sUFc1TzBic3d1RjJzT0ZMcUlqdlhfanROWFVuYlZlOG5FS3AxbVJ2cUdZWUtsek5wWGpSSmxDMVlRSURiWS1QNVRXdXk1SmVIcUxVTFZsbnRoM1BfdVNWbHhERU1GN1BmMEJnM1pwS1NEVmxRb004RWJMZUhwQjZtU29Ia0xOT0IyaGppczljc09xaWNFaXo0eGZGSnRaRlhBRkg3Szdsd3ZCT2NURTNCZmhaZlhwMmdNZms1M1FRRDUyQkh3X1A0NXJVVVg1SVdzcF9aWloxLUJVb3lndVVVaGtqN21rUQ?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq retreat as software stocks plunge, oil surges on Iran war concerns - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq retreat as software stocks plunge
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1Q0MDBTTDI5VG5rX3M3SVF3Q1hSSHdFandEeHc5Skd4V1lQbW9ZckctaU5PVGREaEZmejZnOVFBTjF2Nnk3aWgtYVVoQ0NqeUZ4UXZjM1N4ZWFfWXVCVG4tY0IzNFg1WWRhN1ZUaWxXT1U4WGhxVDEybWU0aEFEOVVKcTZacW1yQjVoSGhmUGFSY0FYWVAwaW9Gb053MTB0QjhybVVCU0hfNjVIclkyTUtGOEpTOWY3OEhHa2tCVGJaUklJT0dDaWZINDVLTkU?oc=5
 
-- Stock market crash: Why have Sensex, Nifty dropped over 1% in trade today? Top reasons - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQldQMmRQVjJScVBHS1NtWmhFNkVQMDNyU1hyRTdmT05nLWJqcnIwS01xdVhkYzl1UUlUWm5lNVlrUHRCZ0t5YjlrNzJGZEZBVk80WUVXRUF5NW5pTlFHN3FzWDRjRllLR0
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQldQMmRQVjJScVBHS1NtWmhFNkVQMDNyU1hyRTdmT05nLWJqcnIwS01xdVhkYzl1UUlUWm5lNVlrUHRCZ0t5YjlrNzJGZEZBVk80WUVXRUF5NW5pTlFHN3FzWDRjRllLR0Ffc2ZOSHNxMERSRFNCRTNDcEwxVHNNQ09EbjBsT3BUMEVkdHNzRFphM2dYeFQzZ2QtWGdudG1Cb0x3dWYxRDFqcmhvXzBlRHU2RjZ6dkZBaXl3a2UtdlQzMjNKZUl4bmhVbTBaZ3VMRXhYNzd4eVktcWRWSU15aWMyckZLM2lULVhZTDNWUEVyeU01V2dXYjMzcjRLdGpMTkN2OTlGWnpvSHV3WDRZX0VUbDRJakI1RFQ0WENyOExTUmwtaVJMS2V6eEdRZlBzajAzTktGT1PSAb4CQVVfeXFMUF9vT21CdHNFU3J5anJqZk9hRmFwaTkwQkpncmk2QjZuNEJsWks2RVlVak1vQ3lTbDFFYm5PYVBMQ2w5dGNFOTlyczJjNTNCdTFxSi1BTFVkTXhlQ0k1QlQ2MEZOMGwwYVpib204a3o0T25TM3lBa202Ykl5aWQxOXFJbmIyeVlGVEM4dHZUMjJQdFJQb090a2dXc3lKWlVuS0xHYmFLN3JPdmswTkprZXRWNkpPaU9nR3llck8zb0VaZFMwVHV4YkEtZFZIc1o1MW5sYmIzUENFTDVRYUM4UC1tQzJteWk3S3NJTXdBT2tHc3RYbUVRWEJGMV90Nk9UM25oZWZPUmRHREFsWjU0WUpsY2Rya2VZSC1PQWpIcjN3WWNFZ1c2dE1XWk4wd2hTQ2t1OXhVN1NfVnlpQnlB?oc=5
+- Single successful cyberattack could disrupt markets at national scale, shake public confidence: FM - The Hindu
+  Single successful cyberattack could disrupt markets at national scale, shake
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQ0cxTTBjMHBnaENMWndYeFJQSlhYRGd3QUJ0OXJKMHNLWUpwdzVOVmRBc0VsLWF5SzBvTVdQcUxjRWV1cERDOHZ4S01UUjdneG1ZR2JFTkxiN3RaY19CQXNWU045UGVBUFVmSHlYU25kcnpsRmt1aE9SOTRUSTRIcGhYa2FXRnZwYi1DcUpkempNc0VYb2xkOVM5bHd2RnNaMTBaNVhrSWRSOGhoY2dyMldxdV9sV3lwQ3VLU2hiWVE2Vm9fZ2JaQW1aN3JPaHZSYXRNeGdDTUhQLVhhbzZPSy1YU3dLZVJkUXFSNHR0cUpoQV9KRGVhc9IB_wFBVV95cUxOUW83bTJ0Ni1uYVZJMTZFVzd3VU5RazZTMnVTdGRvSXBOSXZYZjNOUmU5cUdla1p0UmhjUTNNbDIyZmlUNTYxd2FHNUdsdmNiZ2JKcmFtekFCNm94NUZlQlJ1cmZmS09DUElGWFMwNXFra2p1YWZUaXJPVUx6SmltZkdoOHRrUGJxQ25SYllJSVFuSldHcG5KcjBDRnVTdkZNV1UtbkVhcUhKUVpINm1YMFNwbVZCUWpSbWNQY2o4OVlqWVpuZnhYeWJNTS1PN2dUQ3VFZWhid3oyVHJKdnpmMXpSOTRCWnBmZkdaTjdoMFp6blJUd21UMTV5VWV1dlU?oc=5
 
-- Nvidia stock closes at record, pushing market cap past $5 trillion - CNBC
-  Nvidia stock closes at record, pushing market
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1NGaUFwbzRoN1dUVTBWYzBPX25kbVVDRW1JY3dPaXByazRvNGVYX2lodkFRdjUwcUhCSkp3S3g5X2hrQ3FYa21QNWNWa3Z2eFdGRk1uTXVJSXZEZ2xQdkFMVlRRUTJFOFJrZUZ4Q1I5bVYxWFdjajdMR3dpMXdhQ2U2NFRRVE12bXAzQkV5SXBZRmlfMnZndG5wRnRBdVpUbkRN0gGoAUFVX3lxTE1kS1Y2dlVHU1B5UFQ5NGhnQW91RXk1b3lYdW9QNUZtWVRiM29wVXJDM1NaS00xTFZXUm5wcUtYazlkVnp0ME9Hd1JIRVNoVTdkSGxKNEViS2tDOS00NEZYTk05N0JkZktGMFBzaHNrMkJnOWpkTDlYWjlrWnJYZEJHcHAtUl96TWFmdU5CbnNBUUVqUF9zcmdDRDZrSEZ1RVZrMU1yNkhadQ?oc=5
+- Finance Minister advocates ‘anticipatory’ regulation in capital markets - BusinessLine
+  Finance Minister advocates ‘
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUpfOG1FZ1hfLWJJZk5XSV9BM251RVQxb3N1RnVCUDZhU0hJeUdDNW53cjhwM1JVRnFjNmtUVHY5X05mcmQ1MjJXQVpXUi1ReWVndmJCSkpVRU5RT2pwallkVmNqNE1qaXY0RW0zN1g1VnNhZnpxdG9mUDY3ZGYyZ1JFelpRQVMyZV9CZ0czWDRfbEcxekw1cHRIQ2lxSF9xRjJaWFNRVWFkcDJrQ3BqMEhlTkRWVlhnczg5Z3FYMHU5TGg2SFFaN2ZWYTI0N03SAdYBQVVfeXFMUE1FbHRDb2pVaS1BT3VWTUc2QkxHZ0hTRUlJbDlrYmlxWVJadXdGc3hDa1hRVE9iWHpXTF9XWDdveFBoRF9JclE2c0VZbWZqSE1Fc3JxYklYUlpsZjVCaE9LOS1aYVkwN0g2YkVvekZ3LTdqZFkwT1YwaEd4ZDBvY2hQazd1bzFwT2JPM0NRa2YyRGVTcTNPcDJvQnpQdmx0cDF6Q1o4ZjY2cW1qWmF3RFpfczBPakhjcEZDNzB1eVFhMjVvSzJaQVB1NkFUazFLaTU3OTV2dw?oc=5
 
-- Bitcoin near $78K, Ethereum steady near $2,300; rally cools after strong rebound
-  Global crypto market capitalization slightly decreased. Geopolitical tensions and monetary policy uncertainty are influencing markets. Capital remains concentrated in major cryptocurrencies.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-near-78k-ethereum-steady-near-2300-rally-cools-after-strong-rebound/articleshow/130509908.cms
+- IDFC First Bank Q4 Results: PAT grows 5% YoY to Rs 319 crore; NII up 16%
+  IDFC First Bank announced its financial results for the March quarter of FY26. The bank's standalone net profit saw a 5% increase compared to the previous year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q4-results-pat-grows-5-yoy-to-rs-319-crore-nims-drop-2-bps-to-5-93/articleshow/130512932.cms
 
-- FII exodus deepens in 2026 at Rs 1.75 lakh crore as April outflows swell to Rs 43,967 crore; FOMC next trigger
-  Foreign institutional investors offloaded Indian equities worth Rs 17,140 crore last week. This massive selling, driven by geopolitical concerns and a lack of clear sectoral leadership, led to sharp cuts in domestic indices. Global news flows, including
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-exodus-deepens-in-2026-at-rs-1-75-lakh-crore-as-april-outflows-swell-to-rs-43967-crore-fomc-next-trigger/articleshow/130509855.cms
+- Dalal Street Week Ahead: Nifty’s next big move hinges on support test; volatility set to stay high
+  The Nifty ended the week under pressure, slipping into a corrective phase. With the index hovering near crucial support at 23,800, any breach could trigger deeper weakness. Traders should remain cautious, focus on capital protection
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-niftys-next-big-move-hinges-on-support-test-volatility-set-to-stay-high/articleshow/130513043.cms
 
-- Why are copper prices near high and will the momentum continue?
-  Copper prices remain near record levels, supported by AI-driven data centre demand, global electrification, tight mine supply and geopolitical disruptions. Structural demand from EVs, renewables and infrastructure continues to keep the long-
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/why-are-copper-prices-near-high-and-will-the-momentum-continue/articleshow/130509809.cms
+- RBL Bank Q4 Results: Profit soars 233% YoY to Rs 230 crore
+  The bank's net advances grew 23% year-on-year, with retail segment contributing substantially. Despite a dip in net interest margin, the bank's overall financial performance showed strong growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rbl-bank-q4-results-profit-soars-3x-yoy-to-rs-230-crore/articleshow/130512310.cms
 
-- RBI action on Paytm Payments Bank incrementally negative for One 97, says Bernstein; retains ‘Outperform’, sees 30% upside
-  The RBI has cancelled Paytm Payments Bank's license due to regulatory non-compliance. Bernstein views this as incrementally negative for parent One 97 Communications.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-action-on-paytm-payments-bank-incrementally-negative-for-one-97-says-bernstein-retains-outperform-sees-30-upside/articleshow/130509621.cms
+- Reliance Industries becomes first Indian firm to cross $10 billion annual profit
+  Reliance Industries achieved a record net profit of Rs 95,610 crore in FY26. Despite a quarterly dip due to the oil-to-chemicals segment, RIL's consumer businesses showed robust growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-becomes-first-indian-firm-to-cross-10-billion-annual-profit/articleshow/130512249.cms
 
-- Markets have begun to climb the wall of worry
-   Markets often climb despite worries. In 2020, markets rose before economic recovery. Now, in 2026, markets are recovering amid geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/markets-have-begun-to-climb-the-wall-of-worry/articleshow/130508993.cms
+- Stay cautious, focus on selective buying, says Nischal Maheshwari amid market volatility
+  Market veteran Nischal Maheshwari urges investors to stay on the sidelines. He advises against aggressive positions due to current market volatility. Reliance Industries at current levels is a buy.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/stay-cautious-focus-on-selective-buying-says-nischal-maheshwari-amid-market-volatility/articleshow/130512017.cms
 
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
-  Reserve Bank of India Cancels Banking Licence of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
+- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
+  'Uninformed, inappropriate': India slams Donald Trump over
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
-  Russian troops, warships in India soon? Why their new
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
+- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
+  Meet Nitu Samra, Interim CEO
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
 
-- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
-  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
+- Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
+  A year on, Kashmir's tourism industry struggles under weight
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
-  PM Modi to interact with CMs; review preparedness, plans on West
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
+- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
+  India news: Raghav Chadha
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
 
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
-  Reserve Bank of India Cancels Banking Licence of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
+- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
+  'Uninformed, inappropriate': India slams Donald Trump over
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
-  Russian troops, warships in India soon? Why their new
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
+- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
+  Meet Nitu Samra, Interim CEO
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
 
-- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
-  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
+- Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
+  A year on, Kashmir's tourism industry struggles under weight
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
-  PM Modi to interact with CMs; review preparedness, plans on West
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
+- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
+  India news: Raghav Chadha
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
 
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
-  Reserve Bank of India Cancels Banking Licence of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
+- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
+  'Uninformed, inappropriate': India slams Donald Trump over
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
-  Russian troops, warships in India soon? Why their new
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
+- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
+  Meet Nitu Samra, Interim CEO
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
 
-- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
-  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
+- Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
+  A year on, Kashmir's tourism industry struggles under weight
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
-  PM Modi to interact with CMs; review preparedness, plans on West
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
+- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
+  India news: Raghav Chadha
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
 
-- India condemns remarks shared by Trump calling it a 'hellhole' - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWm9LeE1HRWNrcG9IYUlieEQ4cDl2aU5rZ1M5ZjI4OWZ4X19JRXA3dGRhNlZIdmE1NEV3TkFNRmwxZXBjLUNJZ2tiN3k3eG12dGwtWVdGZzMyQQ?oc=5
+- "Uninformed, Inappropriate, In Poor Taste": India After Trump 'Hell-Hole' Row - NDTV
+  "Uninformed, Inappropriate, In
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhDNHN5RTlLdHlOQkNvMnlDdGszLWpwbzNpcnZKWGtYQ182cjgwcERqeG5LRk9KdGxvb2tWZlQyMXBMTUdsYXhaZDJWUGtsbTdDRTdldnlUSnB3aTRtQ2RNcDhwTEJlWWkzbml2Y2RkeUQ3QUFaZlJ5c3V4dUZzX29QRVVLY3JSQkxGQURVZGMza0Npc0N0MHpBbEdhdHFkVTN0WVA4b0FnUlYydTlfNtIBuAFBVV95cUxNelQwZUJwaU5Md1k5U3RmQWJoZkF1TzZuQVRlU1pONGVibmR5bTJFSm92YTFMVmRCd3l3aXBaNGZyZnZDRkdMUjN3Q2h2NGdnUGVuUUQ5djFjcWpnUW9GN1hFVGpuYzcxN0ozWnFfMXZGU0FZcE5wY2NVZHoxMnp4bmk5VTYwNFZtdjlJSTNFNXYtTWl2aUVCSl9ZZExCdkhYaWJXRTZUdTZ2VlhPTTlXQkZpRk81bERx?oc=5
 
-- Reserve Bank of India Cancels Banking Licence of Paytm Payments Bank - News On AIR
-  Reserve Bank of India Cancels Banking Licence of
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPclQ2dE1fR1VtNk9KRzc2T0RHWDdnY19wVVdzTHctSWN1M3RCQ0VFNFU4cERoNFpDaGtqNnNRQTZFanhuM3ctZHRzUGIxblV3TEZsMGtnUFB5Rmw3eXRGazBLNUxKS1NDOVBsNVVmb29LdVZYUVFVMG0wMkRKNzJ2aWJLeGJ2UUNsa1d1bTBzeTlWYVQ5NWlkVDNuT3l4aG8?oc=5
+- 'Uninformed, inappropriate': India slams Donald Trump over 'hell hole' remark - The Times of India
+  'Uninformed, inappropriate': India slams Donald Trump over
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1EtRWo3NHlGb1NhQUJvLTYxcnlMN0lpcThvNkhnUUZ6ZzA1ZlBxYlBqc1h0Z3RPTXZCcUZRQ0J0SDcwcG9ic3RxcHpPX2w5UjJwMzBlZXN1VUFfWUl2b0ppTUJ1ejAtMW1TX1czc2h0U3ZjcVhxSlptNWEtZzRlekdWN1Vyc3J1WWJJdXN0ZENZSHYxU1hzN2wzQ2hTTEppSWxLRFRwU0lINHdnYWdjMXdFZlczY1UwajA1RUNLOWNON211N29CTTFHS3dDS0lFTzdGV3B30gHbAUFVX3lxTFB4QnBqMWVxaUpCS3pOR1RMWUVWWkZjWkltQUYza004ZmpDc0ZpYW1YZHRxZ0V4THdmTDRtOG1HWUhudzFtUjlJLU1TTlFud3IzcmFoOEgtb2QzR0J4UDI5UU4zbE1Td0JjZnMyRjlQRzlXeHQwclVNUzNJeUFudTVQbF9SVG5uaHlhQ1dwZi1VSGZ5RU1TbTlWR3ZPVG9qR0piNENmY0p0ZG94WWFnUEdaV3ZKYUt4X21qb0dfOTJNZU9uUXlPSzVTVVEydG04Wjk3OGVwR2FrTmh5WQ?oc=5
 
-- Russian troops, warships in India soon? Why their new military pact matters - Al Jazeera
-  Russian troops, warships in India soon? Why their new
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTJaNU5CR2RZOVNUb29YaUZZSGdKV0JIWWpxYkdGUEVBYi00d1V5dWtlcXM1QzBnM3pHcVJJNW05aEJPQnBaWWc4WHBCSWxldUdBcUpvdkl1S0NiVnZUaEpNS19jSjFNSUs0OE9vbFViN2h2UUN3RmR3NUo2RVhGWmZVdGR5a3Fvblp3MDY1eTdKZ1Y1aVh1dGRTSHp1RE8wR0ZpN3RZOG5ZLVdzanJFVWc5S2FNSXlyUGfSAb8BQVVfeXFMTjVYdEp1MlNfdm50T1c1Y2JjWDZ6WEdLRnJhUTBsOC1mU2g5aVI3M2tVazRtLTl1Yy1CV0hzVm9ERTh6MHRmV244dzZsUDE0THA1VzFXeTczUWc1SUk4aDNlcFNBaFlsbklvdkFjZHF0OGxVb3hXNFY3X0xkVHFqVHlqZ2FUQTU1ZGs0eGh4LWwtVmNDaVlYclIyTEV2Z2w0WnZicTRObnotTEJ0dlFETm5Dal9WZjE1RW9BcmRCQUU?oc=5
+- Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle - NDTV
+  Meet Nitu Samra, Interim CEO
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNRktJZk5PYkRlcnNhVXp0Z0ROb2lhVV9DSURRbWIxeE5iVEdsbUVsRlFNNmdPaVFqU2ZjYXY4TGdiYzVVMHg4Mi1Jek40ZkNOMWV6SG5wcUl6MGFSSXNGMklaTGhtS3Z0RUZfMnFkV3kzLUxBekxpZldKaThUU0Z2N2pnX21JZ2pablBKSU9Qbl9yS21vSzlOVzVpM185WEwxQmE1NTZIRS02elNFSXF5V3c2d2poVUXSAb8BQVVfeXFMT05kQ0JMc3BkZl9aTlZiTURWTTZJazByVXI3QjFWSHlLY1VYd1daUkZNYk1nRG9jb2JlVmxKb1dBTGRPcU5UZjNPMFlwY2phZFJfX3JnMWV0b3diMlplY18tY3BLaURwczZnUE1kMjhfb2pRN053akpPUjZnelZOU0tVN2hCZkJMRmVFdGlCUXllanBGNWY3ZmQyeG8yTkJyeWFEWnlLY1piTTdOX1NGM0s2bWlncnFmWUtadFhxLXM?oc=5
 
-- Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal, Sisodia huddle over next move | India News - Hindustan Times
-  Raghav Chadha news LIVE updates: Anna Hazare fires salvo at AAP as Kejriwal,
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQalE2Z0pHOEJ0WXdhMWJoRlBvUklqWDIyZFR4cHpxeDE3U2FXaWhOUEp1bnl1Rk9QSjlOekU3RC1oNTY1YTJydUlCaG1pcFJXankzOGgyVzJhbHZ5dWlZc3FfZllFY2RnMGxFREVJcVA1MGU1NFZUNG9sMWg4X3QycW01ck9LbzRfUjhPVEdMXzM0Wl9MWW9pd2U1ZVZ2a2oxeXVjLUlKWWp6Mlk3aDA0ejRLTmJlWjdOZElJY3dHeWV0d29aVWNvUkJYbmJSMHk3R1Y1dUplWDBaQnlTZ2UxS1RPRTFsbGthZVhuS2QwTkxieVRiaXhVa2FrY0k2MHJLeHUzUEloQnA4UE3SAZACQVVfeXFMTjhkRXFRel9jUUhkZEQ1b0l3ajhfUmFiTGV1WTBfV2pONUQ0MS1kcjdZS01aX2x3dGJIUFYxSDJjeXNkZzRQV3NtR1pESjNYSUd1TDFxa25nWkNQYVlEWkRZRzFxT1ZRYVpVNDd0aVZPai1vV01SbndtUEpReHR0bk1WRVM0c3V2WEt1NWQ3eEgxRmEwY2xlZndZdzluRkJacTBlMnoxX19VaWJsYWhoSW9QRVpVYm94VFJLU0Z2YTNFdzZVeWdUZXZEbGpwUjhrUHB1RG9xMUZ0ZHVVU1lOemF4akFjSXJUamZuZFhTaUFqdUV1dl9tRWxKN3k1dFFJMVRBeXpsX3k4MVdCU1Y2WGw?oc=5
+- Pahalgam attack: A year on, Kashmir's tourism industry struggles under weight of trauma - BBC
+  A year on, Kashmir's tourism industry struggles under weight
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlpSNEpLdjVRalhFdlVycXZuUHJJdlV6MFhYd01aOUF2Ul9wSU5rV2Z0SmVvdDY5S2dZWV9NVG9xcnRVbnBPM09odmJ1X3k2RHBiYmZORFJ6dw?oc=5
 
-- Fuel crisis updates: PM Modi to interact with CMs; review preparedness, plans on West Asia conflict - The Hindu
-  PM Modi to interact with CMs; review preparedness, plans on West
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGRoZUFqR0NuMXpFZjYtb0lPSnA0QnVSWTJpYnlNX3p0dXQzNGpOclFMVXZwdkdjYVE1OC1XZDFfSzJqYUlfWTVNVHRWRzVLeEFOVm9teHgzaTFFcGhxSWNKWkdOdE9kelJmLTk0SVIybjBXdXVwUnhKdXVSZGgzckdiX0JvR1lsdXJvUkVxWUtod3hULVd1dWFROHFFUGJjUTlyTGFvRFYzR210ZHpxcThHYi1ZeG9YWDh0VXZqTm1OZDMxSDZRLVNZUWFrV244dEHSAdgBQVVfeXFMT3M1RjlVdXNKQkJsTjRqOHdoVmpoNjNMd1g2elJCUDktN1VGUi03R3JHZEVXYlNEblFLZkx1OVRkeVpQaDJjUjhKT0hReGp0R3l6NVJTN0treExwVDJ1WDBpVVJQblB5cHA4b0RnM3VXNENVUHI4Y0dfM2RVSUdIVE1ySU5pMDZ1bzRhZ09zcTNsbWN3Y09RMk95cHFmWmtseWJMMzlhQUxPQ28yT3FGT01jTDBVU1F2V0dNRlp6MEFkYTdqaVk5QTU5UmRDQnE2SVp5aEhWYWdH?oc=5
+- India news: Raghav Chadha, 6 other AAP MPs join BJP - DW.com
+  India news: Raghav Chadha
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXowR1lQUlR0NEhoMFkxSTBaUy1XTEtFX0kyeGFNTmphOVJxUmdVc0pCbE9OY19XWXpBeEx5N1JETm9rZk9tWVBRdFNLZ0wxaGpEcHpFQ3VEaWM3dzZOYnVldERodkxtMENmRTdaWnQxd2JJVXJpbGM0VkVKWko3dXRkZUdjaEpPYlMtODNR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-25 07:11:00 UTC_
+_Last updated: 2026-04-25 12:57:36 UTC_
