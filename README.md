@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Siraj-ul-Aloom, one of Kashmir’s largest seminaries, declared ‘unlawful entity’
+- Days after Raghav Chadha’s crossover, Ashok Gehlot says Sachin Pilot ‘realised mistake, both his legs in Congress’
   
-  🔗 https://indianexpress.com/article/india/siraj-ul-aloom-one-of-kashmirs-largest-seminaries-declared-unlawful-entity-10657975/
+  🔗 https://indianexpress.com/article/india/ashok-gehlot-sachin-pilot-congress-bjp-radha-mohan-das-agrawal-tonk-10658590/
 
-- Assembly Elections 2026 Live Updates: ‘My destiny, responsibility are to serve, secure and save Bengal,’ says PM Modi in Bengal
+- MBA student raped by shopkeeper who entered her room to deliver groceries: Police
   
-  🔗 https://indianexpress.com/article/india/assembly-elections-2026-live-updates-mamata-modi-westbengal-tamilnadu-10657875/
+  🔗 https://indianexpress.com/article/india/odisha-khordha-grocery-shop-owner-arrested-mba-student-rape-10658544/
 
-- Heatwave tightens grip over Delhi, Maharashtra, Uttar Pradesh and Rajasthan
+- Permission missing, Uttarakhand minister’s son weds inside Rajaji Tiger Reserve
   
-  🔗 https://indianexpress.com/article/india/heatwave-alert-delhi-maharashtra-up-rajasthan-punjab-10657723/
+  🔗 https://indianexpress.com/article/india/uttarakhand-minister-son-wedding-rajaji-tiger-reserve-row-10658497/
 
-- Rajya Sabha tally: BJP’s numbers rise to 113 as 7 AAP members merge
+- Ayodhya-Mumbai (LTT) Amrit Bharat train to commence inaugural run on April 28: check stoppages, timings
   
-  🔗 https://indianexpress.com/article/india/rajya-sabha-tally-bjp-113-aap-mps-merge-10657868/
+  🔗 https://indianexpress.com/article/india/ayodhya-mumbai-ltt-amrit-bharat-train-to-commence-inaugural-run-on-april-28-check-stoppages-timings-10658330/
 
-- Aizawl Municipal Corporation election results 2026: Counting of vites underway, ZPM leads in 5 wards
+- What good will a police complaint do: Comic after TDP men disrupted Bengaluru show
   
-  🔗 https://indianexpress.com/article/india/aizawl-municipal-corporation-polls-zpm-mnf-10657836/
+  🔗 https://indianexpress.com/article/india/comic-tdp-men-disrupted-bengaluru-show-10658333/
 
-- CERT-In outlines safeguards for Indian orgs, MSMEs amid Mythos AI cybersecurity risk concerns
+- Project Hail Mary: The science is a stretch, but the story carries the film
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/cert-in-safeguards-msmes-mythos-ai-cybersecurity-risk-10657982/
+  🔗 https://indianexpress.com/article/technology/science/project-hail-mary-physics-and-biology-explained-10658627/
 
-- Elon Musk launches XChat amid WhatsApp privacy row: How to download and use it on iPhone, iPad
+- Tech and Gadget Launches Today (April 27, 2026): Dell XPS laptops, Vivo Y600 Pro, MediaTek Dimensity 7450 chipset, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-launches-xchat-whatsapp-privacy-row-how-to-download-iphone-ipad-10657771/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-april-27-2026-10658489/
 
-- How Elon Musk used SpaceX to benefit himself and his businesses
+- Dell XPS 16 (2026) review: ‘Beautiful’ inside and out
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-elon-musk-used-spacex-to-benefit-himself-and-his-businesses-10657549/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/dell-xps-16-2026-review-10658251/
 
-- 75% Google code now AI-generated, says Sundar Pichai: How company is putting AI to work
+- Iran war disrupts the circuit board supply chain, raises costs for tech firms
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-75-percent-ai-generated-code-sundar-pichai-10656702/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-for-tech-firms-10658300/
 
-- The Tim Cook era: How Apple became a $4 trillion empire through several hits and a few misses
+- 5 free online puzzle games that will keep you occupied for hours
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/tim-cook-era-apple-empire-hits-and-misses-10656569/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/5-free-online-puzzle-games-keep-you-occupied-10658196/
 
-- Elon Musk vs Sam Altman trial begins today: What's at stake, key allegations, and all you need to know
-  Elon Musk's trial against OpenAI begins today in Oakland, California. Musk accuses OpenAI of abandoning its founding
-  🔗 https://www.livemint.com/companies/news/elon-musk-vs-sam-altman-trial-begins-today-whats-at-stake-key-allegations-and-all-you-need-to-know-11777268742715.html
+- JSW MG Motor sees early gains from luxury play, rivals take note
+  Sales at JSW’s luxury EV chain, MG Select, picked up to about 2,029 cars. Sales
+  🔗 https://www.livemint.com/companies/jsw-mg-motor-india-luxury-electric-vehicle-sales-strategy-rivals-tata-hyundai-11777287609705.html
 
-- Acko lines up ICICI Sec, Kotak, Morgan Stanley for $2 billion IPO
-  Bengaluru-based insurtech Acko has appointed ICICI Securities, Kotak Mah
-  🔗 https://www.livemint.com/companies/start-ups/acko-ipo-insurance-insurtech-india-confidential-filing-icici-securities-kotak-mahindra-capital-morgan-stanley-11777269238755.html
+- Varun Beverages says six-month inventory to cushion cost spike
+  Varun Beverages expects some effect, but says it will try to cover
+  🔗 https://www.livemint.com/companies/company-results/varun-beverages-march-quarter-earnings-raw-materials-iran-war-11777288098874.html
 
-- Sun-Organon buyout shows Indian Pharma's big hunger for overseas M&amp;As — Here's a list of other major deals
-  Indian drug companies are seeking overseas growth through acquisitions. Here are some other big pharma deals over the past few months
-  🔗 https://www.livemint.com/companies/news/sunorganon-buyout-shows-indian-pharmas-big-hunger-for-overseas-m-as-heres-a-list-of-other-major-deals-11777261821271.html
+- Eyeing global heft, Indian cos open their purse strings for buyouts
+  Indian companies are stepping up global dealmaking, using large acquisitions to secure technology, scale and new markets. Recent overseas deals by Sun Pharma, Coforge, Tata Motors and Baj
+  🔗 https://www.livemint.com/companies/indian-firms-global-acquisitions-sun-pharma-m-a-tata-motors-iveco-ktm-bajaj-coforge-deals-11777279595473.html
 
-- Trump hosts crypto contest winners at Mar-a-Lago as his coin languishes
-  Trump hosts crypto contest winners at
-  🔗 https://www.livemint.com/companies/trump-hosts-crypto-contest-winners-at-mar-a-lago-as-his-coin-languishes-11777251559829.html
+- Aye Finance Q4 profit jumps over 2-fold to  ₹86 crore
+  The lender had earned net profit of  �
+  🔗 https://www.livemint.com/companies/company-results/aye-finance-q4-profit-jumps-over-2-fold-to-rs-86-crore-11777284581508.html
 
-- JioMart turns Reliance's physical stores into ammo against Blinkit, Zepto
-  JioMart’s wider assortment, two-hour delivery playbook could force rivals to rethink
-  🔗 https://www.livemint.com/companies/jiomart-reliance-retail-quick-commerce-strategy-store-network-challenge-rivals-blinkit-zepto-swiggy-instamart-11777187593481.html
+- ₹1,200 crore deal: Nvidia leases massive Bengaluru office space amid AI boom
+  N Nvidia Graphics occupies around 3.75 lakh sq ft at Mindspace Business Parks REIT’s Commerzone property.
+  🔗 https://www.livemint.com/companies/1200-crore-deal-nvidia-leases-massive-bengaluru-office-space-amid-ai-boom-11777269570095.html
 
-- Adisoft Technologies IPO Day 3: Issue subscribed 28.69x so far. Check GMP, issue details, more
-  Adisoft Technologies IPO started on April 23 and ends on April 27. The company offers digital automation solutions and aims to raise capital for expansion.
-  🔗 https://www.livemint.com/market/ipo/adisoft-technologies-ipo-gmp-day-3-issue-subscribed-28-69x-so-far-check-gmp-issue-details-more-11777275765003.html
+- Adani Total Gas Q4 Results: Profit grows 9% YoY to  ₹168 crore, revenue up 16.6%; margins contract
+  Adani Total Gas reported a Q4 net profit of  ₹168.34 crore, up 9% year-on-year. Revenue rose
+  🔗 https://www.livemint.com/market/stock-market-news/adani-total-gas-q4-results-profit-grows-9-yoy-to-rs-168-crore-revenue-up-16-6-margins-contract-11777294298496.html
 
-- Lighter metal, heavier wallets: has the aluminium rally hit its melting point?
-  Investors in aluminium stocks have seen significant gains. National Aluminium Co and Hindalco nearing all-time highs. A supply crunch amid geopolitical tensions has driven prices up.
-  🔗 https://www.livemint.com/market/stock-market-news/lighter-metal-heavier-wallets-aluminium-rally-melting-point-metal-rally-hindalco-nalco-vedanta-aluminium-stocks-11777263938309.html
+- US stock market today: Dow, S&amp;P 500 futures flat as US-Iran peace talks stall; Brent climbs above $108
+  US stock futures dipped as ceasefire negotiations with Iran faltered. Despite record highs for the S&amp;amp;P 500 and Nasdaq, rising oil prices and geopolitical tensions
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-steady-on-stalled-us-iran-peace-talks-11777288422618.html
 
-- Penny stock continues hitting upper circuit after 1:10 stock split, OFS, bonus issue announcement
-  String Metaverse last week announced the successful completion of its offer for sale (OFS) of equity shares. The company also executed a stock split during the same period.
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-string-metaverse-share-continues-hitting-upper-circuit-after-1-10-stock-split-ofs-bonus-issue-announcement-11777275222867.html
+- Amba Auto Sales &amp; Services IPO Day 1: Issue booked 11% so far; check GMP, price band &amp; other details
+  The price band for Amba Auto Sales &amp;amp; Services IPO has been set at  ⁹130 to  ₹135 per share. Retail investors need to apply for at least two lots of 1,000
+  🔗 https://www.livemint.com/market/ipo/amba-auto-sales-services-ipo-day-1-issue-booked-11-so-far-check-gmp-price-band-other-details-11777288788045.html
 
-- Sun Pharma acquires Organon: growth engine or debt trap?
-  For Sun Pharma, Organon acquisition strengthens its pivot toward global branded and specialty therapies.
-  🔗 https://www.livemint.com/market/mark-to-market/sun-pharma-acquires-organon-sun-pharma-share-price-health-market-biosimilars-platform-pharma-ma-11777272539117.html
+- Axis Bank vs IndusInd vs IDFC First: Which bank stock should investors pick post Q4 results 2026?
+   Axis Bank emerges as the top pick for conservative investors. IndusInd Bank is seen as a high-risk turnaround option. IDFC First Bank shows stable metrics but faces earnings visibility
+  🔗 https://www.livemint.com/market/stock-market-news/axis-bank-vs-indusind-vs-idfc-first-which-bank-stock-should-investors-pick-post-q4-results-2026-11777278756836.html
 
-- IT stocks wipe off  ₹767,000 crore m-cap YTD: Should you be greedy or fearful amid the ongoing selloff?
-  The IT sector has been hurt by weak demand, tariff impact and H1-B visa fee hike in 2025. The growing shift to artificial intelligence (AI) emerging as a key risk, along with
-  🔗 https://www.livemint.com/market/stock-market-news/it-stocks-wipe-off-rs-767-000-crore-m-cap-ytd-should-you-be-greedy-or-fearful-amid-the-ongoing-selloff-11777272216594.html
+- Top Gainers &amp; Losers on April 27: Sun Pharma, Varun Beverages, Suzlon Energy, Anant Raj among top gainers
+  On April 27, domestic equities rose nearly 1%, ending a three-day losing streak. The Nifty 50 and Sensex advanced 0.80%, with
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-27-sun-pharma-varun-beverages-suzlon-energy-anant-raj-among-top-gainers-11777286101967.html
+
+- Is Outlook down right now? Users unable to sign in, witnessing too many ‘errors’
+  The company said users were being signed out of their accounts and witnessing too many 'errors'
+  🔗 https://www.livemint.com/technology/is-microsofts-outlook-down-users-unable-to-sign-witnessing-too-many-errors-11777295047615.html
+
+- Germany suspects Russia is behind Signal phishing that targeted top officials
+  Germany suspects Russia is behind Signal
+  🔗 https://www.livemint.com/technology/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials-11777293167237.html
+
+- Forget iPhone 18 Pro Max! OpenAI is making a ChatGPT powered phone to take on Apple and Samsung, says report
+  OpenAI plans to enter the smartphone market and has set a target of 2028 for mass production. The company is said to be
+  🔗 https://www.livemint.com/technology/gadgets/forget-iphone-18-pro-max-openai-is-making-a-chatgpt-powered-phone-to-take-on-apple-and-samsung-says-report-11777278641462.html
 
 - OnePlus Nord CE 6 Lite full specs revealed ahead of launch: 144Hz display, 7,000mAh battery and 50MP camera confirmed
   The Nord CE 6 Lite will be launched in India on May 7. It will feature a 144Hz display, 7000mAh battery, and OxygenOS 16.
@@ -88,117 +100,125 @@
   Iran war disrupts the circuit board
   🔗 https://www.livemint.com/technology/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-for-tech-firms-11777264342572.html
 
-- Former Meta executive warns ‘nothing would ever be the same’, builds AI tools to help Gen Z find work
-  Former Meta Business AI Head Clara Shih said we are currently in the worst entry-level job market in 37 years. She has created the New Work Foundation to help offer tools which help
-  🔗 https://www.livemint.com/technology/tech-news/former-meta-executive-warns-nothing-would-ever-be-the-same-builds-ai-tools-to-help-gen-z-find-work-11777256317659.html
+- Stock Market Today: Oil Climbs, Dow Futures Slip — Live Updates - WSJ
+  Stock Market Today: Oil Climbs, Dow
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONVlSVFppcW1MRE1FUElKeEhmZXNySkRGUjZVMnU4N0pmbGZBd1NTcWdxR3JQVDNjNHZuTGVIb1F3aUVjNVNHV0ktOGFTQldCUEw0VHlLaXc2NWVlZEtBNElSOTZHMUJyWmNrRzlrTXhraFBGN1pqTlAwaTVfLUtBUTlhX2FCTWs?oc=5
 
-- From foldable iPhone to AI glasses, Apple's new CEO is preparing an aggressive 10-product launch cycle: Report
-  John Ternus will become Apple's CEO on September 1. He inherits a robust hardware pipeline and is expected to launch around 10 new product categories.
-  🔗 https://www.livemint.com/technology/tech-news/from-foldable-iphone-to-ai-glasses-apples-new-ceo-is-preparing-an-aggressive-10-product-launch-cycle-report-11777251310674.html
+- Stock market today: S&P 500, Nasdaq, Dow futures mixed to start pivotal week as markets weigh Iran peace odds - Yahoo Finance
+  Stock market today: S&amp;P 500, Nasdaq, Dow futures mixed to
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOUVZjaFNlVWFPRTlhbEZEZlVqd2p1QXJMTk5NWmxLTTFJdWtsVlFlVjVPTkUyMXJ2MlJHRmMtQlNNWFpITkdPVW5paDV2amVaVzdOeVRZRGhCMGlwU25XcUlyUGRhcWJNNGFuZ1lFT0plTDg0c19QcGE0MlhSWnNfQlEwZi1GTzYyclc4V3Q0Yy1tcy1HekdubExGRQ?oc=5
 
-- Xiaomi Pad 8 Review: Should you spend  ₹33,999 on this tablet?
-  Xiaomi Pad 8 gets the fundamentals of Android tablet right with a smooth display, reliable performance, and
-  🔗 https://www.livemint.com/technology/tech-reviews/xiaomi-pad-8-review-should-you-spend-rs-33-999-on-this-tablet-11777222475942.html
+- S&P 500 futures edge lower as Iran peace talks stall, oil rises: Live updates - CNBC
+  S&amp;P 500 futures edge lower as Iran peace
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBsdm1JUnpodXFfU3VMTnpGQU1raUhaRlVkLXNFLW9pcElsUnl3dkNFaUYxRXVNRF9nbjUtZFNiQm5ocXFjRU9tWExHY2RLSi1INkhYTEU0OExJMU9QTGtIWG9PZlJMb3FpcFNlOTBIV2swNWJheHVr0gF8QVVfeXFMTjF1U2lCMTBoV0x6cTU3YURUUi1iTDJXTzVmT0ZJR2lwdS03eEpYdnFNUHhyUVY2MzZNTWFDa1lzVHRBQjd4VDJadVZCcF9xeUNWZmRYUmx6bnM5b1hZaGZ3TmRzVXZtMVZJR0hBSVRIUnhiczVYRTQ1Y0JHQg?oc=5
 
-- Rising input costs continue to pressure Reliance’s O2C business: Yogesh Patil
-  Refining margins face volatility due to rising costs. Global crack spreads show improvement, but structural issues persist. Retail revenue grows healthily, but margins are impacted by online segment expansion.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/rising-input-costs-continue-to-pressure-reliances-o2c-business-yogesh-patil/articleshow/130547806.cms
+- Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets - CNBC
+  Iran reportedly proposes Hormuz Strait deal to U.S. Here’
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxONGh0SjhhUUsxRGNVaUVyUEltbUhNcnJtTTUwV3RReUxWUG52UkdCTTVod0VSdUx6TTE4NS1ac0hqT1pxUmFiSnpFQTFhWllxZUxhdUUyQWJtYXYxNHFyRVJrNHJLYzJJVkZBMlF0blZvamZSTzNwOFNzVlJLTUd4U094eHplTkdEV2JfbDZGelFYd09IMTJhbko1a3VoeTTSAaQBQVVfeXFMTzhoNGQyZjFSVlFwN2NyemZHQ0NqWmVyUFpPR0FyM2lSZmk3ZW9kUm1aVXlkbG9EcEtSbThMMlhvY1pzejk3aEtPd0JXSVlkeVRUb2pXdnBSblIweDNhd0RnX0s1LTBJVWk3Q3JHek9SUGRETkw5MlQ0aDdYSFZSTnJjdlpfUGJkUzdSOURJam9CcUpkZkFvZG1WenBOQU9MZHZTS04?oc=5
 
-- Global Markets | Japan's Nikkei closes above 60,000 for first time on earnings optimism
-  Japan's Nikkei index soared past the 60,000 mark for the first time. Keyence and Fanuc led the charge with significant gains.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-closes-above-60000-for-first-time-on-earnings-optimism/articleshow/130547642.cms
+- European markets edge higher as Iran reportedly makes peace proposal - CNBC
+  European markets edge higher as Iran reportedly makes
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0dFWHIxYVViYXI1dEphLUZHZnMxNVJadWdqbUZrdFFJTVBhQ2tBMFVFOUxmN3dwSEVRdFd4WFF3NGhEd3NEcmstUjFGSGF6dUItRmpKdENINWQ4dzNiXzhiTjVGX0hsYlpPYmtqeVkxck9PYzRlRDJsRldReUR3Q0E1ck1EUTVLaU9sUXluQVFXSWtacE9z0gGcAUFVX3lxTE1acDFqZzFsR0x1Wk1vYjZnTG9LN05DSXNSaWRrRHItdDJWWV9SX2JSM19SR0RobXliaFIzdnlXTW01TFVyVTc3SWtGOUN6ZEhaY3pld0szTDBUR3RWSFZqcFRFS3dDZFRfVEsyeHNjRUhCWWtBQks3RHRPRjIxNnM4SzFKUlNzWWt4Qm9aZklTOTMtdks4bkRHOGh6Zg?oc=5
 
-- Global Markets | Australian shares fall for fifth straight session as stalled US-Iran talks cap risk appetite
-  Australian shares close modestly lower as stalled U.S.-Iran peace talks weigh on risk appetite. Financials led the losses, with investors anticipating softer earnings due to higher rates and cost pressures. Miners were the only sector to advance
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-for-fifth-straight-session-as-stalled-us-iran-talks-cap-risk-appetite/articleshow/130547607.cms
+- AU Small Finance Bank Q4 profit jumps 65% on lower provisions
+  AU Small Finance Bank reported a 65% rise in Q4 net profit driven by sharply lower provisions. Loan and deposit growth remained strong, asset quality improved, and margins expanded.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q4-profit-jumps-65-on-lower-provisions/articleshow/130555305.cms
 
-- FIIs, retail investors raise stakes in 10 smallcaps; stocks rally up to 105% in CY26
-  Despite broad declines, ten outperformed, delivering strong gains up to 105 percent in CY26. Analysis of B
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-smallcaps-stocks-rally-up-to-105-in-cy26/slideshow/130547575.cms
+- Gold investment demand surges as jewellery share declines
+  India’s gold investment share rose sharply in CY25, driven by ETFs and bullion demand amid uncertainty. Global demand hit record highs, while jewellery consumption
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-investment-demand-surges-as-jewellery-share-declines/articleshow/130555218.cms
 
-- Paytm Payments Bank is finished. Ashvin Parekh on what it means for your money &amp; your Paytm app
-  RBI has cancelled Paytm Payments Bank's license. The winding-down process is now underway. Depositors and wallet users will be repaid.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/paytm-payments-bank-is-finished-ashvin-parekh-on-what-it-means-for-your-money-your-paytm-app/articleshow/130546833.cms
+- Adani Power among 9 stocks that hit 52-week highs &amp; rallied up to 42% in a month
+  The BSE Sensex surged 639 points as nine BSE 100 stocks, including Adani Power and Hindalco Industries, hit 52-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-power-among-9-stocks-that-hit-52-week-highs-amp-rallied-up-to-42-in-a-month/slideshow/130555375.cms
 
-- India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
-  India denounces ‘hell
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
+- Bajaj Housing Finance Q4 results: Profit rises 14% to Rs 669 crore; NII up 15%
+  Strong loan expansion drove AUM up 23%, while asset quality stayed robust with GNPA at 0.27%. Operating efficiency improved even as provisions increased.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q4-results-profit-rises-14-to-rs-669-crore-nii-up-15/articleshow/130554994.cms
 
-- 'Mood In India Similar': Congress MLA's Shocker On Trump Event Shooting - NDTV
-  'Mood In India Similar': Congress MLA
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTY1ZXN5R25zb0dUUTRZWElUWllsczhJT0p6ZUJVMGlNZ2tQV0tfa0FqQnZvandUZlNhdjhJSzNFcE9uRi1yVTBZcXEyYkFoa3lGR2dyekpaV2VlODRNZUcxM3NMNFZVRkZGcVZiMXZiNUJsQjBEdG9ZWXZXNlhXN25sVWhZYS1GZndNZEdRcHdOMnpxS0Y0aEY5a05yUjBjcWctRExTakVHeksxZV9PNjdpYkpHTGpJMS1welBVYXNILXp2RldfSXdCODFuZUt0cTYwNkxmcDZyWmE5aGU3aXdfeHdjUm54ck9LXzd5eGszZDRnVXFIRzE2eXdEQdIBhgJBVV95cUxQTzBWUWhUd0Y5czRtMnozRGk1a2FHRnNjN2RTMHlxcktOV2wxMVZ5WnVBZDBoRTd4WDVpbWxTMTNTVE9QUWl6WFlxV1FMbnN5eVp1X3FTMU5lXzdlSzZkOWlkUFF2NmRwbDBkQnpwT1pqN3VLeW1HY05QcUd2dnpHYV9GQkdoTTBEblpVU1k1R1NPdUo5MXUtTElXajAwUlhBSWZBRUdLY1pIcE1DYzJnZk1xTkhvM1Z6NDBrVElxd3Rydlg1QmJUN1NYUElMQzBTc0o3bDlRTlpjeml6ZzBmTEtpQUU4eUR6VExDbTR3S0dzUWdMMUFjNWhBWlBqZ1U4aHNwOGJ3?oc=5
+- NSE sells 1% stake in Indian Gas Exchange to comply with regulatory norm
+  The National Stock Exchange (NSE) has offloaded around 1 per cent stake in Indian Gas Exchange (IGX)IGX is the country's first
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-sells-1-stake-in-indian-gas-exchange-to-comply-with-regulatory-norm/articleshow/130554906.cms
 
-- India news: Modi wishes Trump safety after shooting incident - DW.com
-  India news: Modi wishes Trump safety
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0NQenpMU1dtVUtlaG5ZZnRhbjQ3c2FXZFUza09pbW96Q0VGdzBWeVhkWTRoS3JrSmxCcTNYYTJSYjVCdjRfLUs3LWhtR3l2YW1mSmpSSVBrRWdYTVZhUDk4S2ZXUG9kN0t6Rk1ITVhHejR6M0NLQ3hINGhxMHMzR01sRll5UDE3dEFCWUFnS29RamxYalFpQTJCOA?oc=5
-
-- IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India: Know when will this heatwav - The Times of India
-  IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOSG5rVGQzZmlGbWl3MDUxeFI0d0U1U1FFbXpFVlczdTN5SkUzak1yZzVtTkVISXlmbWpUc0VRZGJnLTBoMm5xTldCM01XYlkyS1Y0RkhlOTMwRHJSbWNnNDQtRXZZa3dhVi1mRktNT0hTaWVMaWpqOTBoWVpyVmt5UWxuRUduZGJJMlQ4WGVlbVNIRjRSQmxSUVFUQVFCUlF6c2RHaUxyMjRQcm9BczJLTkJPdkt2eDJUanhwc1V1Vl9neXh2cnEzSHNxWDN3WFFxMjdtMkRISDJpYmJpYm9DSzNJQVFNdUg4MEVmYnlSOHduTl94bE1nX3o4amJlTURYUUV2SVRBVzhnUDlNQWxWQ196REJQMnpFUnF1UldR0gGjAkFVX3lxTE5VaTcwYkVfNVYyWE9BZEhJazhrb05nNXJvZ2piZEh6MFB4ekwxNnBTTV9zVjR1S010Z0ItaWpmZVZXdW0wZklIWnVHUHV6d0ltbXlmdGhmSnhZdDd6VGZGbDdfczdYUGNod1I2UXZjbTJxSDNwbDRfaDFFVjlKbGZOcV9IdkVaY2lKQmJaNDhTY25HSUpOdzZtclQxaVZ2Q09nRDhJWnRvUWdPUkx4RjdLUEw0bllGaGdMck5ac09vS2VCeFd2V2hDRUpSTWpLdmZDaF92eGpPWDdPd1RGSVFtT2RzT0ljMVo1Nk9ZeFhpRXU1c1gyelh2RHF0SkZYN0tuUEpwNEJjbGw0WENTNXlva2x5elpGSFFMdWhSY0d3aG9SNA?oc=5
-
-- Rain, storms to bring Delhi respite from heatwave soon. Here's what IMD said | India News - Hindustan Times
-  Rain, storms to bring Delhi respite from heatwave soon.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDZHWC1JYVBvZzdIc1pCbWwyZnFjZU5lVzh2OUxEaG1HaVFJTTVPNTBsVTZzY0pXcVRjb1loZDVfTEFYTHZPYklvMElkNHY4R2tqZlVVZkpKaXJDSWhjbjFVdk54Y1VJSUZPblhIWWhSNndvWGN0Z1dqeEVqTWdLdGxvRmxqSkVjVjUtY0NIaUktdGZYbVNkNldMTEE4WFNGXzRGNUNrQ1h4TXZHX3p0bGxZWUN3R1ZGZVc3OHJlYlZ6aDhuVGVrcnd1T2t6aTY1UjFnTXJDcC1ZQVBxYnp4Z2ZVLVc1ZHVqLWgxMFBwNEpqUzjSAfgBQVVfeXFMTWgwcldObmx5dUJyTUpRYi1fSlc3SjZfNXlTdXIyRS1EdlM4cnk5YnJ5WlNpa1g4emZ5VGxkTXhZUk1fcWg5SWN4bGphclNoMkhfeUEwWW1RRGhJUDJ0OTRCR3dZTXZETTd1YkFBZWxzOWpNZGR1LTZ3UTAtM1Q5VzBTeU5WT1dpc2cta1VldzEyWEd3X3AtLXo3SmRsaTdPNWJWNDR0dW1tNFJJM3ZWV2gtdEZwdU9sNTNqLTJBVTQtcFlJcnVpZWprUUpjX2NpREg0a3RYcHVLcmJSaXFsUmRhekpqMERkLWI4WHQ3LXRaUXl3OE0zRFY?oc=5
+- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UV
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
 
 - India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
   India denounces ‘hell
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
 
-- 'Mood In India Similar': Congress MLA's Shocker On Trump Event Shooting - NDTV
-  'Mood In India Similar': Congress MLA
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTY1ZXN5R25zb0dUUTRZWElUWllsczhJT0p6ZUJVMGlNZ2tQV0tfa0FqQnZvandUZlNhdjhJSzNFcE9uRi1yVTBZcXEyYkFoa3lGR2dyekpaV2VlODRNZUcxM3NMNFZVRkZGcVZiMXZiNUJsQjBEdG9ZWXZXNlhXN25sVWhZYS1GZndNZEdRcHdOMnpxS0Y0aEY5a05yUjBjcWctRExTakVHeksxZV9PNjdpYkpHTGpJMS1welBVYXNILXp2RldfSXdCODFuZUt0cTYwNkxmcDZyWmE5aGU3aXdfeHdjUm54ck9LXzd5eGszZDRnVXFIRzE2eXdEQdIBhgJBVV95cUxQTzBWUWhUd0Y5czRtMnozRGk1a2FHRnNjN2RTMHlxcktOV2wxMVZ5WnVBZDBoRTd4WDVpbWxTMTNTVE9QUWl6WFlxV1FMbnN5eVp1X3FTMU5lXzdlSzZkOWlkUFF2NmRwbDBkQnpwT1pqN3VLeW1HY05QcUd2dnpHYV9GQkdoTTBEblpVU1k1R1NPdUo5MXUtTElXajAwUlhBSWZBRUdLY1pIcE1DYzJnZk1xTkhvM1Z6NDBrVElxd3Rydlg1QmJUN1NYUElMQzBTc0o3bDlRTlpjeml6ZzBmTEtpQUU4eUR6VExDbTR3S0dzUWdMMUFjNWhBWlBqZ1U4aHNwOGJ3?oc=5
+- Into Deras of History - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXFMc1Fodld1TzN6d2U4bjZDbHBYYmVfQ3I0UUxlQ0FScFExYmwzeGxjR2hUTzNGRGtxdGxjaFJpbkg3YVdjSHRDR0FUUGFGYTNIZFRrcVQ5NVBPdVlxelFSZXJrNjBud3d6d1JlbjYzZGJwUFNEbEl6VXhoSVUzUmRKMm9BUklHUWhKa0JXVDNUbWRURnRYcEpWQdIBoAFBVV95cUxQTnhNdEJPcDZva29hODJzYnlGN0NRVUFyTTFBZ2QzSTF5dHJmX0tBQUdOVFpSazBiSVlqZmlobEJOUDllWVAybGdIcDBKdFFrc1FmTE9ybXRMbDY3dUVrNDdkbkdwN1BSbncyZ3hoWTNCd2c4dHF1RTJqV2p1c2xXN2lseUpIWHFHTDJ5NU11bGhKQVFRQWx5RXI2N2p6UTk4?oc=5
 
-- India news: Modi wishes Trump safety after shooting incident - DW.com
-  India news: Modi wishes Trump safety
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0NQenpMU1dtVUtlaG5ZZnRhbjQ3c2FXZFUza09pbW96Q0VGdzBWeVhkWTRoS3JrSmxCcTNYYTJSYjVCdjRfLUs3LWhtR3l2YW1mSmpSSVBrRWdYTVZhUDk4S2ZXUG9kN0t6Rk1ITVhHejR6M0NLQ3hINGhxMHMzR01sRll5UDE3dEFCWUFnS29RamxYalFpQTJCOA?oc=5
+- India's Best Colleges 2025 - India Today
+  India's Best
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHJKakxzdGEwZE5RdDBoTkR0MTZUOFk5XzluM0Z2LVlpZGk5S1R0bXhaYjRfbXpOYWdjT1hWOVFCWHlnNktleXo2TnFXUW9pMzBKa2RvLWZ1RlVUa21NX1drby1xc2syU1g4UkNHOVFibWRMODBFWVljcmFXMW9WZkFuRVF6MzZpdkdvbE0zYjlfcmpUYlZWTURaNC1yS01SbWJnY1ExUFlBSlpWbFlFb2lKeTBZVkpLa2VjVlg0Q0VxWTFLOExzR1VreWhDTzE1RFFyVE1Gc00tUl9sMkplWjd3?oc=5
 
-- IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India: Know when will this heatwav - The Times of India
-  IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOSG5rVGQzZmlGbWl3MDUxeFI0d0U1U1FFbXpFVlczdTN5SkUzak1yZzVtTkVISXlmbWpUc0VRZGJnLTBoMm5xTldCM01XYlkyS1Y0RkhlOTMwRHJSbWNnNDQtRXZZa3dhVi1mRktNT0hTaWVMaWpqOTBoWVpyVmt5UWxuRUduZGJJMlQ4WGVlbVNIRjRSQmxSUVFUQVFCUlF6c2RHaUxyMjRQcm9BczJLTkJPdkt2eDJUanhwc1V1Vl9neXh2cnEzSHNxWDN3WFFxMjdtMkRISDJpYmJpYm9DSzNJQVFNdUg4MEVmYnlSOHduTl94bE1nX3o4amJlTURYUUV2SVRBVzhnUDlNQWxWQ196REJQMnpFUnF1UldR0gGjAkFVX3lxTE5VaTcwYkVfNVYyWE9BZEhJazhrb05nNXJvZ2piZEh6MFB4ekwxNnBTTV9zVjR1S010Z0ItaWpmZVZXdW0wZklIWnVHUHV6d0ltbXlmdGhmSnhZdDd6VGZGbDdfczdYUGNod1I2UXZjbTJxSDNwbDRfaDFFVjlKbGZOcV9IdkVaY2lKQmJaNDhTY25HSUpOdzZtclQxaVZ2Q09nRDhJWnRvUWdPUkx4RjdLUEw0bllGaGdMck5ac09vS2VCeFd2V2hDRUpSTWpLdmZDaF92eGpPWDdPd1RGSVFtT2RzT0ljMVo1Nk9ZeFhpRXU1c1gyelh2RHF0SkZYN0tuUEpwNEJjbGw0WENTNXlva2x5elpGSFFMdWhSY0d3aG9SNA?oc=5
+- Dinesh Trivedi appointed as India’s next High Commissioner to Bangladesh - News On AIR
+  Dinesh Trivedi appointed as India�
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnQ0dG5vMkZ5MDBDUUNOWGRpelNKRFZwWUdQMEJ1MEpCZW5NdW05bTdVVkFrNjkwNzdXWjJpU1pBcWhteGlmakFqZVJzd254SHB4VWNlNmJGZ0xaNTlEbk5PXzlLSjRjaVdBQ1VITHc1UW9jaG5rbkpNUExYMDBKdW42b0ZIRDBwVDM5bmVKamNQMVpqNFZnMDZ2cmhNeThUWjZV?oc=5
 
-- Rain, storms to bring Delhi respite from heatwave soon. Here's what IMD said | India News - Hindustan Times
-  Rain, storms to bring Delhi respite from heatwave soon.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDZHWC1JYVBvZzdIc1pCbWwyZnFjZU5lVzh2OUxEaG1HaVFJTTVPNTBsVTZzY0pXcVRjb1loZDVfTEFYTHZPYklvMElkNHY4R2tqZlVVZkpKaXJDSWhjbjFVdk54Y1VJSUZPblhIWWhSNndvWGN0Z1dqeEVqTWdLdGxvRmxqSkVjVjUtY0NIaUktdGZYbVNkNldMTEE4WFNGXzRGNUNrQ1h4TXZHX3p0bGxZWUN3R1ZGZVc3OHJlYlZ6aDhuVGVrcnd1T2t6aTY1UjFnTXJDcC1ZQVBxYnp4Z2ZVLVc1ZHVqLWgxMFBwNEpqUzjSAfgBQVVfeXFMTWgwcldObmx5dUJyTUpRYi1fSlc3SjZfNXlTdXIyRS1EdlM4cnk5YnJ5WlNpa1g4emZ5VGxkTXhZUk1fcWg5SWN4bGphclNoMkhfeUEwWW1RRGhJUDJ0OTRCR3dZTXZETTd1YkFBZWxzOWpNZGR1LTZ3UTAtM1Q5VzBTeU5WT1dpc2cta1VldzEyWEd3X3AtLXo3SmRsaTdPNWJWNDR0dW1tNFJJM3ZWV2gtdEZwdU9sNTNqLTJBVTQtcFlJcnVpZWprUUpjX2NpREg0a3RYcHVLcmJSaXFsUmRhekpqMERkLWI4WHQ3LXRaUXl3OE0zRFY?oc=5
-
-- India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
-  India denounces ‘hell
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
-
-- 'Mood In India Similar': Congress MLA's Shocker On Trump Event Shooting - NDTV
-  'Mood In India Similar': Congress MLA
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTY1ZXN5R25zb0dUUTRZWElUWllsczhJT0p6ZUJVMGlNZ2tQV0tfa0FqQnZvandUZlNhdjhJSzNFcE9uRi1yVTBZcXEyYkFoa3lGR2dyekpaV2VlODRNZUcxM3NMNFZVRkZGcVZiMXZiNUJsQjBEdG9ZWXZXNlhXN25sVWhZYS1GZndNZEdRcHdOMnpxS0Y0aEY5a05yUjBjcWctRExTakVHeksxZV9PNjdpYkpHTGpJMS1welBVYXNILXp2RldfSXdCODFuZUt0cTYwNkxmcDZyWmE5aGU3aXdfeHdjUm54ck9LXzd5eGszZDRnVXFIRzE2eXdEQdIBhgJBVV95cUxQTzBWUWhUd0Y5czRtMnozRGk1a2FHRnNjN2RTMHlxcktOV2wxMVZ5WnVBZDBoRTd4WDVpbWxTMTNTVE9QUWl6WFlxV1FMbnN5eVp1X3FTMU5lXzdlSzZkOWlkUFF2NmRwbDBkQnpwT1pqN3VLeW1HY05QcUd2dnpHYV9GQkdoTTBEblpVU1k1R1NPdUo5MXUtTElXajAwUlhBSWZBRUdLY1pIcE1DYzJnZk1xTkhvM1Z6NDBrVElxd3Rydlg1QmJUN1NYUElMQzBTc0o3bDlRTlpjeml6ZzBmTEtpQUU4eUR6VExDbTR3S0dzUWdMMUFjNWhBWlBqZ1U4aHNwOGJ3?oc=5
-
-- India news: Modi wishes Trump safety after shooting incident - DW.com
-  India news: Modi wishes Trump safety
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0NQenpMU1dtVUtlaG5ZZnRhbjQ3c2FXZFUza09pbW96Q0VGdzBWeVhkWTRoS3JrSmxCcTNYYTJSYjVCdjRfLUs3LWhtR3l2YW1mSmpSSVBrRWdYTVZhUDk4S2ZXUG9kN0t6Rk1ITVhHejR6M0NLQ3hINGhxMHMzR01sRll5UDE3dEFCWUFnS29RamxYalFpQTJCOA?oc=5
-
-- IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India: Know when will this heatwav - The Times of India
-  IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOSG5rVGQzZmlGbWl3MDUxeFI0d0U1U1FFbXpFVlczdTN5SkUzak1yZzVtTkVISXlmbWpUc0VRZGJnLTBoMm5xTldCM01XYlkyS1Y0RkhlOTMwRHJSbWNnNDQtRXZZa3dhVi1mRktNT0hTaWVMaWpqOTBoWVpyVmt5UWxuRUduZGJJMlQ4WGVlbVNIRjRSQmxSUVFUQVFCUlF6c2RHaUxyMjRQcm9BczJLTkJPdkt2eDJUanhwc1V1Vl9neXh2cnEzSHNxWDN3WFFxMjdtMkRISDJpYmJpYm9DSzNJQVFNdUg4MEVmYnlSOHduTl94bE1nX3o4amJlTURYUUV2SVRBVzhnUDlNQWxWQ196REJQMnpFUnF1UldR0gGjAkFVX3lxTE5VaTcwYkVfNVYyWE9BZEhJazhrb05nNXJvZ2piZEh6MFB4ekwxNnBTTV9zVjR1S010Z0ItaWpmZVZXdW0wZklIWnVHUHV6d0ltbXlmdGhmSnhZdDd6VGZGbDdfczdYUGNod1I2UXZjbTJxSDNwbDRfaDFFVjlKbGZOcV9IdkVaY2lKQmJaNDhTY25HSUpOdzZtclQxaVZ2Q09nRDhJWnRvUWdPUkx4RjdLUEw0bllGaGdMck5ac09vS2VCeFd2V2hDRUpSTWpLdmZDaF92eGpPWDdPd1RGSVFtT2RzT0ljMVo1Nk9ZeFhpRXU1c1gyelh2RHF0SkZYN0tuUEpwNEJjbGw0WENTNXlva2x5elpGSFFMdWhSY0d3aG9SNA?oc=5
-
-- Rain, storms to bring Delhi respite from heatwave soon. Here's what IMD said | India News - Hindustan Times
-  Rain, storms to bring Delhi respite from heatwave soon.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDZHWC1JYVBvZzdIc1pCbWwyZnFjZU5lVzh2OUxEaG1HaVFJTTVPNTBsVTZzY0pXcVRjb1loZDVfTEFYTHZPYklvMElkNHY4R2tqZlVVZkpKaXJDSWhjbjFVdk54Y1VJSUZPblhIWWhSNndvWGN0Z1dqeEVqTWdLdGxvRmxqSkVjVjUtY0NIaUktdGZYbVNkNldMTEE4WFNGXzRGNUNrQ1h4TXZHX3p0bGxZWUN3R1ZGZVc3OHJlYlZ6aDhuVGVrcnd1T2t6aTY1UjFnTXJDcC1ZQVBxYnp4Z2ZVLVc1ZHVqLWgxMFBwNEpqUzjSAfgBQVVfeXFMTWgwcldObmx5dUJyTUpRYi1fSlc3SjZfNXlTdXIyRS1EdlM4cnk5YnJ5WlNpa1g4emZ5VGxkTXhZUk1fcWg5SWN4bGphclNoMkhfeUEwWW1RRGhJUDJ0OTRCR3dZTXZETTd1YkFBZWxzOWpNZGR1LTZ3UTAtM1Q5VzBTeU5WT1dpc2cta1VldzEyWEd3X3AtLXo3SmRsaTdPNWJWNDR0dW1tNFJJM3ZWV2gtdEZwdU9sNTNqLTJBVTQtcFlJcnVpZWprUUpjX2NpREg0a3RYcHVLcmJSaXFsUmRhekpqMERkLWI4WHQ3LXRaUXl3OE0zRFY?oc=5
+- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UV
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
 
 - India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
   India denounces ‘hell
   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
 
-- 'Mood In India Similar': Congress MLA's Shocker On Trump Event Shooting - NDTV
-  'Mood In India Similar': Congress MLA
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTY1ZXN5R25zb0dUUTRZWElUWllsczhJT0p6ZUJVMGlNZ2tQV0tfa0FqQnZvandUZlNhdjhJSzNFcE9uRi1yVTBZcXEyYkFoa3lGR2dyekpaV2VlODRNZUcxM3NMNFZVRkZGcVZiMXZiNUJsQjBEdG9ZWXZXNlhXN25sVWhZYS1GZndNZEdRcHdOMnpxS0Y0aEY5a05yUjBjcWctRExTakVHeksxZV9PNjdpYkpHTGpJMS1welBVYXNILXp2RldfSXdCODFuZUt0cTYwNkxmcDZyWmE5aGU3aXdfeHdjUm54ck9LXzd5eGszZDRnVXFIRzE2eXdEQdIBhgJBVV95cUxQTzBWUWhUd0Y5czRtMnozRGk1a2FHRnNjN2RTMHlxcktOV2wxMVZ5WnVBZDBoRTd4WDVpbWxTMTNTVE9QUWl6WFlxV1FMbnN5eVp1X3FTMU5lXzdlSzZkOWlkUFF2NmRwbDBkQnpwT1pqN3VLeW1HY05QcUd2dnpHYV9GQkdoTTBEblpVU1k1R1NPdUo5MXUtTElXajAwUlhBSWZBRUdLY1pIcE1DYzJnZk1xTkhvM1Z6NDBrVElxd3Rydlg1QmJUN1NYUElMQzBTc0o3bDlRTlpjeml6ZzBmTEtpQUU4eUR6VExDbTR3S0dzUWdMMUFjNWhBWlBqZ1U4aHNwOGJ3?oc=5
+- Into Deras of History - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXFMc1Fodld1TzN6d2U4bjZDbHBYYmVfQ3I0UUxlQ0FScFExYmwzeGxjR2hUTzNGRGtxdGxjaFJpbkg3YVdjSHRDR0FUUGFGYTNIZFRrcVQ5NVBPdVlxelFSZXJrNjBud3d6d1JlbjYzZGJwUFNEbEl6VXhoSVUzUmRKMm9BUklHUWhKa0JXVDNUbWRURnRYcEpWQdIBoAFBVV95cUxQTnhNdEJPcDZva29hODJzYnlGN0NRVUFyTTFBZ2QzSTF5dHJmX0tBQUdOVFpSazBiSVlqZmlobEJOUDllWVAybGdIcDBKdFFrc1FmTE9ybXRMbDY3dUVrNDdkbkdwN1BSbncyZ3hoWTNCd2c4dHF1RTJqV2p1c2xXN2lseUpIWHFHTDJ5NU11bGhKQVFRQWx5RXI2N2p6UTk4?oc=5
 
-- India news: Modi wishes Trump safety after shooting incident - DW.com
-  India news: Modi wishes Trump safety
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0NQenpMU1dtVUtlaG5ZZnRhbjQ3c2FXZFUza09pbW96Q0VGdzBWeVhkWTRoS3JrSmxCcTNYYTJSYjVCdjRfLUs3LWhtR3l2YW1mSmpSSVBrRWdYTVZhUDk4S2ZXUG9kN0t6Rk1ITVhHejR6M0NLQ3hINGhxMHMzR01sRll5UDE3dEFCWUFnS29RamxYalFpQTJCOA?oc=5
+- India's Best Colleges 2025 - India Today
+  India's Best
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHJKakxzdGEwZE5RdDBoTkR0MTZUOFk5XzluM0Z2LVlpZGk5S1R0bXhaYjRfbXpOYWdjT1hWOVFCWHlnNktleXo2TnFXUW9pMzBKa2RvLWZ1RlVUa21NX1drby1xc2syU1g4UkNHOVFibWRMODBFWVljcmFXMW9WZkFuRVF6MzZpdkdvbE0zYjlfcmpUYlZWTURaNC1yS01SbWJnY1ExUFlBSlpWbFlFb2lKeTBZVkpLa2VjVlg0Q0VxWTFLOExzR1VreWhDTzE1RFFyVE1Gc00tUl9sMkplWjd3?oc=5
 
-- IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India: Know when will this heatwav - The Times of India
-  IMD forecasts severe heatwave, thunderstorms and heavy rainfall across India.
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxOSG5rVGQzZmlGbWl3MDUxeFI0d0U1U1FFbXpFVlczdTN5SkUzak1yZzVtTkVISXlmbWpUc0VRZGJnLTBoMm5xTldCM01XYlkyS1Y0RkhlOTMwRHJSbWNnNDQtRXZZa3dhVi1mRktNT0hTaWVMaWpqOTBoWVpyVmt5UWxuRUduZGJJMlQ4WGVlbVNIRjRSQmxSUVFUQVFCUlF6c2RHaUxyMjRQcm9BczJLTkJPdkt2eDJUanhwc1V1Vl9neXh2cnEzSHNxWDN3WFFxMjdtMkRISDJpYmJpYm9DSzNJQVFNdUg4MEVmYnlSOHduTl94bE1nX3o4amJlTURYUUV2SVRBVzhnUDlNQWxWQ196REJQMnpFUnF1UldR0gGjAkFVX3lxTE5VaTcwYkVfNVYyWE9BZEhJazhrb05nNXJvZ2piZEh6MFB4ekwxNnBTTV9zVjR1S010Z0ItaWpmZVZXdW0wZklIWnVHUHV6d0ltbXlmdGhmSnhZdDd6VGZGbDdfczdYUGNod1I2UXZjbTJxSDNwbDRfaDFFVjlKbGZOcV9IdkVaY2lKQmJaNDhTY25HSUpOdzZtclQxaVZ2Q09nRDhJWnRvUWdPUkx4RjdLUEw0bllGaGdMck5ac09vS2VCeFd2V2hDRUpSTWpLdmZDaF92eGpPWDdPd1RGSVFtT2RzT0ljMVo1Nk9ZeFhpRXU1c1gyelh2RHF0SkZYN0tuUEpwNEJjbGw0WENTNXlva2x5elpGSFFMdWhSY0d3aG9SNA?oc=5
+- Dinesh Trivedi appointed as India’s next High Commissioner to Bangladesh - News On AIR
+  Dinesh Trivedi appointed as India�
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnQ0dG5vMkZ5MDBDUUNOWGRpelNKRFZwWUdQMEJ1MEpCZW5NdW05bTdVVkFrNjkwNzdXWjJpU1pBcWhteGlmakFqZVJzd254SHB4VWNlNmJGZ0xaNTlEbk5PXzlLSjRjaVdBQ1VITHc1UW9jaG5rbkpNUExYMDBKdW42b0ZIRDBwVDM5bmVKamNQMVpqNFZnMDZ2cmhNeThUWjZV?oc=5
 
-- Rain, storms to bring Delhi respite from heatwave soon. Here's what IMD said | India News - Hindustan Times
-  Rain, storms to bring Delhi respite from heatwave soon.
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDZHWC1JYVBvZzdIc1pCbWwyZnFjZU5lVzh2OUxEaG1HaVFJTTVPNTBsVTZzY0pXcVRjb1loZDVfTEFYTHZPYklvMElkNHY4R2tqZlVVZkpKaXJDSWhjbjFVdk54Y1VJSUZPblhIWWhSNndvWGN0Z1dqeEVqTWdLdGxvRmxqSkVjVjUtY0NIaUktdGZYbVNkNldMTEE4WFNGXzRGNUNrQ1h4TXZHX3p0bGxZWUN3R1ZGZVc3OHJlYlZ6aDhuVGVrcnd1T2t6aTY1UjFnTXJDcC1ZQVBxYnp4Z2ZVLVc1ZHVqLWgxMFBwNEpqUzjSAfgBQVVfeXFMTWgwcldObmx5dUJyTUpRYi1fSlc3SjZfNXlTdXIyRS1EdlM4cnk5YnJ5WlNpa1g4emZ5VGxkTXhZUk1fcWg5SWN4bGphclNoMkhfeUEwWW1RRGhJUDJ0OTRCR3dZTXZETTd1YkFBZWxzOWpNZGR1LTZ3UTAtM1Q5VzBTeU5WT1dpc2cta1VldzEyWEd3X3AtLXo3SmRsaTdPNWJWNDR0dW1tNFJJM3ZWV2gtdEZwdU9sNTNqLTJBVTQtcFlJcnVpZWprUUpjX2NpREg0a3RYcHVLcmJSaXFsUmRhekpqMERkLWI4WHQ3LXRaUXl3OE0zRFY?oc=5
+- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UV
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
+
+- India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
+  India denounces ‘hell
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
+
+- Into Deras of History - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXFMc1Fodld1TzN6d2U4bjZDbHBYYmVfQ3I0UUxlQ0FScFExYmwzeGxjR2hUTzNGRGtxdGxjaFJpbkg3YVdjSHRDR0FUUGFGYTNIZFRrcVQ5NVBPdVlxelFSZXJrNjBud3d6d1JlbjYzZGJwUFNEbEl6VXhoSVUzUmRKMm9BUklHUWhKa0JXVDNUbWRURnRYcEpWQdIBoAFBVV95cUxQTnhNdEJPcDZva29hODJzYnlGN0NRVUFyTTFBZ2QzSTF5dHJmX0tBQUdOVFpSazBiSVlqZmlobEJOUDllWVAybGdIcDBKdFFrc1FmTE9ybXRMbDY3dUVrNDdkbkdwN1BSbncyZ3hoWTNCd2c4dHF1RTJqV2p1c2xXN2lseUpIWHFHTDJ5NU11bGhKQVFRQWx5RXI2N2p6UTk4?oc=5
+
+- India's Best Colleges 2025 - India Today
+  India's Best
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHJKakxzdGEwZE5RdDBoTkR0MTZUOFk5XzluM0Z2LVlpZGk5S1R0bXhaYjRfbXpOYWdjT1hWOVFCWHlnNktleXo2TnFXUW9pMzBKa2RvLWZ1RlVUa21NX1drby1xc2syU1g4UkNHOVFibWRMODBFWVljcmFXMW9WZkFuRVF6MzZpdkdvbE0zYjlfcmpUYlZWTURaNC1yS01SbWJnY1ExUFlBSlpWbFlFb2lKeTBZVkpLa2VjVlg0Q0VxWTFLOExzR1VreWhDTzE1RFFyVE1Gc00tUl9sMkplWjd3?oc=5
+
+- Dinesh Trivedi appointed as India’s next High Commissioner to Bangladesh - News On AIR
+  Dinesh Trivedi appointed as India�
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnQ0dG5vMkZ5MDBDUUNOWGRpelNKRFZwWUdQMEJ1MEpCZW5NdW05bTdVVkFrNjkwNzdXWjJpU1pBcWhteGlmakFqZVJzd254SHB4VWNlNmJGZ0xaNTlEbk5PXzlLSjRjaVdBQ1VITHc1UW9jaG5rbkpNUExYMDBKdW42b0ZIRDBwVDM5bmVKamNQMVpqNFZnMDZ2cmhNeThUWjZV?oc=5
+
+- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UV
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
+
+- India denounces ‘hellhole’ remark shared by Trump - Al Jazeera
+  India denounces ‘hell
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkVNck5UVjB0aWNKREJlRWpjc3RYVTNSZUdGMWNZMFRsQlJJM1RQQV9yeXM5ZmhneGc5S010Mkx4VmR0NTd2cHRVeEJYT2Y2eHh5aUplRFM4bENIVUNXWG9NYTFwRXN1ckphX1A5d1d2WXRMVGJLWGcxdzVhaV90cEdNWkpyRlQ4dHfSAY8BQVVfeXFMTVY3STdwRWxfUUQtOVFmNjhXRHEzT2Z4X09MNldrejNMSGZQeE5KV3BqbUlwT3dDcGtFS1c4OVJGcmJxTm1uVXpySExSSi01alJCaEJpcDZEY1k3WDBCRzVvVFhsNjlmbm1TYWR6Ti1UclFRR2RLN183RmVWb0N0ckNYem03VjRfNFlOOG8yTWc?oc=5
+
+- Into Deras of History - The Times of India
+  The Times of India
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXFMc1Fodld1TzN6d2U4bjZDbHBYYmVfQ3I0UUxlQ0FScFExYmwzeGxjR2hUTzNGRGtxdGxjaFJpbkg3YVdjSHRDR0FUUGFGYTNIZFRrcVQ5NVBPdVlxelFSZXJrNjBud3d6d1JlbjYzZGJwUFNEbEl6VXhoSVUzUmRKMm9BUklHUWhKa0JXVDNUbWRURnRYcEpWQdIBoAFBVV95cUxQTnhNdEJPcDZva29hODJzYnlGN0NRVUFyTTFBZ2QzSTF5dHJmX0tBQUdOVFpSazBiSVlqZmlobEJOUDllWVAybGdIcDBKdFFrc1FmTE9ybXRMbDY3dUVrNDdkbkdwN1BSbncyZ3hoWTNCd2c4dHF1RTJqV2p1c2xXN2lseUpIWHFHTDJ5NU11bGhKQVFRQWx5RXI2N2p6UTk4?oc=5
+
+- India's Best Colleges 2025 - India Today
+  India's Best
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHJKakxzdGEwZE5RdDBoTkR0MTZUOFk5XzluM0Z2LVlpZGk5S1R0bXhaYjRfbXpOYWdjT1hWOVFCWHlnNktleXo2TnFXUW9pMzBKa2RvLWZ1RlVUa21NX1drby1xc2syU1g4UkNHOVFibWRMODBFWVljcmFXMW9WZkFuRVF6MzZpdkdvbE0zYjlfcmpUYlZWTURaNC1yS01SbWJnY1ExUFlBSlpWbFlFb2lKeTBZVkpLa2VjVlg0Q0VxWTFLOExzR1VreWhDTzE1RFFyVE1Gc00tUl9sMkplWjd3?oc=5
+
+- Dinesh Trivedi appointed as India’s next High Commissioner to Bangladesh - News On AIR
+  Dinesh Trivedi appointed as India�
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNbnQ0dG5vMkZ5MDBDUUNOWGRpelNKRFZwWUdQMEJ1MEpCZW5NdW05bTdVVkFrNjkwNzdXWjJpU1pBcWhteGlmakFqZVJzd254SHB4VWNlNmJGZ0xaNTlEbk5PXzlLSjRjaVdBQ1VITHc1UW9jaG5rbkpNUExYMDBKdW42b0ZIRDBwVDM5bmVKamNQMVpqNFZnMDZ2cmhNeThUWjZV?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-27 08:16:51 UTC_
+_Last updated: 2026-04-27 13:32:35 UTC_
