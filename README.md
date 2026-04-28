@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Italian Defence Minister Guido Crosetto: ‘Hormuz chokepoint, can’t use it as instrument of pressure’
+- ‘It irks some when common man enters politics…’: Mehraj Malik, first J-K MLA to be detained under PSA, walks out of jail
   
-  🔗 https://indianexpress.com/article/india/italian-defence-minister-guido-crosetto-hormuz-chokepoint-cant-use-it-as-instrument-of-pressure-10659129/
+  🔗 https://indianexpress.com/article/india/mehraj-malik-j-k-mla-detained-under-psa-jail-10659860/
 
-- From death row to the Bar: Freed in Rajiv Gandhi assassination case, Perarivalan enrols as lawyer in Chennai
+- Bank denies him dead sister’s savings, Odisha man lands up at branch with her skeletal remains
   
-  🔗 https://indianexpress.com/article/india/from-death-row-to-the-bar-freed-in-rajiv-gandhi-assassination-case-perarivalan-enrols-as-lawyer-in-chennai-10659061/
+  🔗 https://indianexpress.com/article/india/odisha-man-bank-sister-savings-skeletal-remains-10659737/
 
-- 155 Bihar children travelling to study stopped by railway police and sent to shelter homes, parents allege communal profiling
+- Now Madhya Pradesh wants to bring in UCC, sets up panel to prepare draft bill in 6 months
   
-  🔗 https://indianexpress.com/article/india/155-bihar-children-travelling-to-study-stopped-by-railway-police-and-sent-to-shelter-homes-parents-allege-communal-profiling-10659065/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-ucc-panel-prepare-draft-bill-10659596/
 
-- ‘Real Kerala story’: With puja and festivities, Indian Union Muslim League hands over new houses to 51 Wayanad families
+- After Dawood Ibrahim-linked Salim Dola brought back to India, Amit Shah says ‘no place is safe for drug kingpins’
   
-  🔗 https://indianexpress.com/article/india/real-kerala-story-with-puja-and-festivities-indian-union-muslim-league-hands-over-new-houses-to-51-wayanad-families-10659063/
+  🔗 https://indianexpress.com/article/india/salim-dola-deported-turkey-delhi-10659410/
 
-- ‘He didn’t want to take up census duty’: Death of 2 teachers puts spotlight on process amid heatwave in Odisha
+- IMD Heatwave Alert: No respite from heat, Delhi-NCR bakes; IMD issues warning as temperature threatens to stay above 40°C
   
-  🔗 https://indianexpress.com/article/india/he-didnt-want-to-take-up-census-duty-death-of-2-teachers-puts-spotlight-on-process-amid-heatwave-in-odisha-10659051/
+  🔗 https://indianexpress.com/article/india/north-india-heatwave-warning-thunderstorms-delhi-haryana-rajasthan-up-10659289/
 
-- Elon Musk vs OpenAI trial begins today: Who is suing whom, key allegations, and what to expect
+- Can recycled plastic improve roads? Hawaii study weighs benefits and risks
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-trial-begins-key-allegations-what-to-expect-10658771/
+  🔗 https://indianexpress.com/article/technology/science/can-recycled-plastic-improve-roads-hawaii-study-10659468/
 
-- Project Hail Mary: The science is a stretch, but the story carries the film
+- Why Meta is betting on space-based solar energy projects to power its AI future
   
-  🔗 https://indianexpress.com/article/technology/science/project-hail-mary-physics-and-biology-explained-10658627/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-meta-betting-on-space-solar-projects-ai-data-centres-10659918/
 
-- Tech and Gadget Launches Today (April 27, 2026): Dell XPS laptops, Vivo Y600 Pro, MediaTek Dimensity 7450 chipset, and more
+- WhatsApp to drop support for older Android phones by September 2026: Is your device on the list?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-april-27-2026-10658489/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-to-drop-support-for-older-android-phones-by-september-2026-10659741/
 
-- Dell XPS 16 (2026) review: ‘Beautiful’ inside and out
+- Samsung Galaxy Glasses leak hints at AI-first smart eyewear, possible 2026 debut
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/dell-xps-16-2026-review-10658251/
+  🔗 https://indianexpress.com/article/technology/gadgets/samsung-galaxy-glasses-leak-hints-at-ai-first-smart-eyewear-possible-2026-debut-10659590/
 
-- Iran war disrupts the circuit board supply chain, raises costs for tech firms
+- OpenAI’s next bet: Smartphones with AI agents that replace apps and challenge the iPhone
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-for-tech-firms-10658300/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/openais-next-bet-smartphones-with-ai-agents-that-replace-apps-and-challenge-the-apple-iphone-1065954-10659543/
 
-- Disney CEO faces first Trump test as President and Melania demand ABC fire Jimmy Kimmel over 'expectant widow' joke
-  New Disney CEO Josh D'Amaro faces his first major Trump crisis as the president and Melania publicly demand that ABC fire Jimmy Kimmel over his 'ex
-  🔗 https://www.livemint.com/companies/people/disney-ceo-faces-first-trump-test-as-president-and-melania-demand-abc-fire-jimmy-kimmel-over-expectant-widow-joke-11777335230190.html
+- Native logic: Urban Company bets on Diwali launch of AC-purifier hybrid to scale consumer durables business
+  This strategic move marks Urban Company's expansion beyond beauty services.
+  🔗 https://www.livemint.com/companies/news/urban-company-native-air-purifier-ac-diwali-launch-appliances-consumer-durables-voltas-blue-star-daikin-11777352309709.html
 
-- Indian IT increases vigil on deal conversations even as AI eats revenue
-  The top IT firms are increasingly walking away from high-value contracts that fail to meet margin thresholds. This shift prioritizes profitability over market share amid an uncertain global spending
-  🔗 https://www.livemint.com/companies/news/indian-it-increases-vigil-on-deal-conversations-even-as-ai-eats-revenue-11777286630362.html
+- Peak XV fully exits MobiKwik in  ₹130-crore block deal after RBI nod for NBFC licence
+  Florintree, Viridian Asset Management
+  🔗 https://www.livemint.com/companies/peak-xv-mobikwik-exit-rbi-nbfc-license-fintech-shares-rally-11777358133223.html
 
-- Diet Coke shortage gives zero-sugar D2C beverages a summer opportunity
-  A supply chain bottleneck in aluminum cans has triggered a nationwide Diet Coke shortage. Indian D2C startups are leveraging the disruption to drive consumer trials of zero-sugar alternatives
-  🔗 https://www.livemint.com/companies/diet-coke-shortage-zero-sugar-d2c-beverages-summer-opportunity-soda-energy-drinks-paper-boat-11777279631022.html
+- Bain Capital-backed Dhoot Transmission acquires Multilink to boost electronics manufacturing
+  The development comes more than a year after the global private equity firm Bain acquired a significant minority stake for
+  🔗 https://www.livemint.com/companies/news/bain-capital-dhoot-transmission-acquires-multilink-to-strengthen-electronic-manufacturing-play-11777357560024.html
 
-- Alvarez &amp; Marsal looks to deepen India presence over the next year
-   consulting firm is betting on rising M&amp;amp;A activity and capital inflows
-  🔗 https://www.livemint.com/companies/news/alvarez-marsal-looks-to-deepen-india-presence-over-the-next-year-global-investors-deals-expansion-11777280778754.html
+- Meta preparing to unwind $2.5 billion Manus acquisition, let co-founders go after China ban: Report
+   Meta plans to reverse its $2.5 billion acquisition of AI startup Manus
+  🔗 https://www.livemint.com/companies/news/meta-preparing-to-unwind-2-5-billion-manus-acquisition-let-co-founders-go-after-china-ban-report-11777349184011.html
 
-- Dilip Shanghvi-led Sun Pharma's most expensive M&amp;A deal signals fading allure of US generics business
-  Sun Pharma's $11.75 billion buyout of Organon signifies a strategic shift from focusing on the US generics market to seeking geographic diversification as an antidote to tariff volatility and pricing pressures there.
-  🔗 https://www.livemint.com/companies/news/india-sun-pharma-m-a-deal-organon-lesson-us-generics-less-attractive-11777294563374.html
+- Salesforce hiring: CEO Marc Benioff says he will hire 1,000 graduates as AI-led layoffs hit Big Tech
+  Salesforce CEO Marc Benioff has announced plans to hire 1,000 graduates. The move comes amid sweeping layoffs by Big Tech in the
+  🔗 https://www.livemint.com/companies/news/salesforce-hiring-ceo-marc-benioff-says-will-hire-1-000-graduates-as-ai-led-layoffs-hit-big-tech-11777350149771.html
 
-- Buy or sell: Gift Nifty down, Vaishali Parekh picks three stocks to buy ahead of Bank of Japan interest rate decision
-   Vaishali Parekh recommends three stocks to buy today — Vedanta
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-28-april-2026-bank-of-japan-interest-rate-gift-nifty-live-vaishali-parekh-stock-recommendations-for-today-11777338988820.html
+- Nifty 50 loses valuation cushion after recent rally; fuel price risk may trigger short-term correction: Emkay Global
+  Divergence between domestic institutional investors (DIIs) and foreign portfolio investors (FPIs) has widened. Gap in BSE 500 holdings increasing by 90 basis points to 154 basis points
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-loses-valuation-cushion-after-recent-rally-fuel-price-risk-may-trigger-short-term-correction-emkay-11777362849903.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 28 April
-  Gift Nifty was trading around 24,046 level, a discount of nearly 74 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-28-april-11777340396374.html
+- Metals rally masks growth hurdles at Hindustan Zinc
+  High silver and zinc prices drove record earnings for the March quarter. But the miner faces a years-long production
+  🔗 https://www.livemint.com/market/mark-to-market/metals-rally-masks-growth-hurdles-hindustan-zinc-production-plateau-geopolitical-tensions-silver-11777358566705.html
 
-- Stocks to watch: Maruti Suzuki, Trent, Eternal, RailTel among 10 shares in focus today
-  The Indian stock market is likely to snap its gaining streak on Tuesday. Amid this backdrop, these stocks will remain in focus on Tuesday, 28 April.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-maruti-suzuki-trent-eternal-railtel-among-10-shares-in-focus-today-11777338627425.html
+- Tata Steel, JSW Steel, and more: Why are steel stocks at record highs today?
+  Steel company shares hit new highs as brokerage optimism increased due to improving global dynamics. Jefferies and Goldman Sachs project growth for
+  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-share-price-jsw-steel-share-price-and-more-why-are-steel-stocks-at-record-highs-today-11777360269372.html
 
-- From Gift Nifty, crude oil prices, gold rates to dollar: 8 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,051 level, a discount of nearly 69 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-crude-oil-prices-gold-rates-to-dollar-8-key-things-that-changed-for-indian-stock-market-overnight-11777339738146.html
+- Vedanta shares down 5% since demerger record date announcement — Tactical reset or value-buying opportunity?
+  Vedanta stock has seen a sharp surge in its stock price of almost 80% in a year in expectation of the demerger. Ved
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-vedanta-shares-down-5-after-demerger-record-date-announcement-whats-behind-the-fall-11777359055064.html
 
-- Korea Passes UK to Become World’s Eighth-Largest Stock Market
-  South Korea has leapfrogged the UK to become the world’s eighth-big
-  🔗 https://www.livemint.com/market/korea-passes-uk-to-become-world-s-eighth-largest-stock-market-11777339085991.html
+- ₹1.25 to  ₹122.20: Multibagger penny stock turns  ₹1 lakh into  ₹98 lakh in six years
+  The share price of Websol Energy System, which was once priced at  ₹1.25 in April 2020, is now trading at  
+  🔗 https://www.livemint.com/market/stock-market-news/125-to-122-20-multibagger-penny-stock-websol-energy-system-turns-1-lakh-into-98-lakh-in-six-years-11777355225216.html
+
+- Lenovo Idea Tab Pro Gen 2 launched in India with Snapdragon 8s Gen 4, 144Hz display: Check price and specs
+  Lenovo has launched the Idea Tab Pro Gen 2 in India, with a 13-inch 3.
+  🔗 https://www.livemint.com/technology/gadgets/lenovo-idea-tab-pro-gen-2-launched-in-india-with-snapdragon-8s-gen-4-144hz-display-check-price-and-specs-11777359498573.html
+
+- You can now save your Aadhaar card directly on Google Wallet: Check step-by-step guide
+  Google has partnered with UIDAI to enable users in India to store Aadhaar details securely in Google Wallet. Google has also partnered with a few
+  🔗 https://www.livemint.com/technology/tech-news/you-can-now-save-your-aadhaar-card-directly-on-google-wallet-check-step-by-step-guide-11777355281861.html
+
+- Top 5 thin and light laptops under 1.5kg in India: From Apple MacBook Air M5 to Lenovo Yoga Slim 7
+  Here are the top five thin and light laptops under 1.5kg. They combine sleek design, powerful processors and long battery life.
+  🔗 https://www.livemint.com/technology/gadgets/bestthinlightlaptopsunder15kgindia-11777337267681.html
+
+- AI is everywhere in 2026 and these 8 AI tablets are quietly getting smarter every day
+   AI tablets from brands like Samsung, Apple and Lenovo now offer smarter multitasking.
+  🔗 https://www.livemint.com/technology/gadgets/ai-is-everywhere-in-2026-and-these-8-ai-tablets-are-quietly-getting-smarter-every-day-11777287220814.html
 
 - Anthropic is offering up to $400,000 for a new role that requires ‘significant travel’ and zero coding
   Anthropic is hiring for a high-paying role in San Francisco or New York. The position involves significant travel and public engagements.
   🔗 https://www.livemint.com/technology/tech-news/anthropic-is-offering-up-to-400-000-for-a-new-role-that-requires-significant-travel-and-zero-coding-11777337236180.html
 
-- Archaeologists at Pompeii use artificial intelligence to reveal the face of one of the victims
-  Archaeologists at Pompeii use artificial intelligence to
-  🔗 https://www.livemint.com/technology/archaeologists-at-pompeii-use-artificial-intelligence-to-reveal-the-face-of-one-of-the-victims-11777305942972.html
-
-- Nearly half of governments to deploy AI at scale, but face execution hurdles: KPMG report
-  48 per cent of government organisations plan to deploy AI use cases into production at scale within the next 12 months. 43 per cent admitted they are facing roadblocks in scaling their initiatives.
-  🔗 https://www.livemint.com/technology/nearly-half-of-governments-to-deploy-ai-at-scale-but-face-execution-hurdles-kpmg-report-11777296917029.html
-
-- Is Outlook down right now? Users unable to sign in, witnessing too many ‘errors’
-  The company said users were being signed out of their accounts and witnessing too many 'errors'
-  🔗 https://www.livemint.com/technology/is-microsofts-outlook-down-users-unable-to-sign-witnessing-too-many-errors-11777295047615.html
-
-- Germany suspects Russia is behind Signal phishing that targeted top officials
-  Germany suspects Russia is behind Signal
-  🔗 https://www.livemint.com/technology/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials-11777293167237.html
+- Asian Stocks Look Subdued Ahead of Tech Earnings: Markets Wrap - Bloomberg
+  Asian Stocks Look Subdued Ahead
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDU5UUJPREdNaVAwaTFMajdrWnFveHZsMkhuaHlfdE5UNlVQUkhGOUxZZzFUWVVPel9NOTZJTFJBTWZmUW1CTU9QYnNXdkNubVVfUGpEOVRUdGdOVTdTbXN1SVJSdXM1TFgzU1paZ2h6WlBhb0Y5SndQSXd6cWdCaGxZdTZjQ04tblpEYjlsQjBuTURm?oc=5
 
 - Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets - CNBC
   Iran reportedly proposes Hormuz Strait deal to U.S. Here’
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxONGh0SjhhUUsxRGNVaUVyUEltbUhNcnJtTTUwV3RReUxWUG52UkdCTTVod0VSdUx6TTE4NS1ac0hqT1pxUmFiSnpFQTFhWllxZUxhdUUyQWJtYXYxNHFyRVJrNHJLYzJJVkZBMlF0blZvamZSTzNwOFNzVlJLTUd4U094eHplTkdEV2JfbDZGelFYd09IMTJhbko1a3VoeTTSAaQBQVVfeXFMTzhoNGQyZjFSVlFwN2NyemZHQ0NqWmVyUFpPR0FyM2lSZmk3ZW9kUm1aVXlkbG9EcEtSbThMMlhvY1pzejk3aEtPd0JXSVlkeVRUb2pXdnBSblIweDNhd0RnX0s1LTBJVWk3Q3JHek9SUGRETkw5MlQ0aDdYSFZSTnJjdlpfUGJkUzdSOURJam9CcUpkZkFvZG1WenBOQU9MZHZTS04?oc=5
 
-- Stock Market News, April 27, 2026: Nasdaq and S&P Advance to Records; Oil Up After Peace Talks Stall - WSJ
-  The WSJ looks at the future of the stock market in 2026. The
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxONVlSVFppcW1MRE1FUElKeEhmZXNySkRGUjZVMnU4N0pmbGZBd1NTcWdxR3JQVDNjNHZuTGVIb1F3aUVjNVNHV0ktOGFTQldCUEw0VHlLaXc2NWVlZEtBNElSOTZHMUJyWmNrRzlrTXhraFBGN1pqTlAwaTVfLUtBUTlhX2FCTWs?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 24,050; PSU b... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQWEpoLXBrMkNwLWE2UjY3VVRaVkM5c2lvTFdfOVdPVF9LYVhMS1JvbURpY1RCb1NxOHJCNTlRdnhNUWloVWxhOFA4RFdUVWRrMHlxdW9LZUliZ1hXY1Aza0dqaUdJTVI1TE
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQWEpoLXBrMkNwLWE2UjY3VVRaVkM5c2lvTFdfOVdPVF9LYVhMS1JvbURpY1RCb1NxOHJCNTlRdnhNUWloVWxhOFA4RFdUVWRrMHlxdW9LZUliZ1hXY1Aza0dqaUdJTVI1TEJLNFBFV1NzTTByZ1BQclNpV3NETWdZMnQwaXRLNDA1WVBzS0JXUk1oSTRPU1ZPSXViV19UeDRCUlVzcWxoZDdzU2drUjNQRGZrRVpXckhHdU5TekREYzBtc2NIT1JlRy1GbURLS1FneVdMY1hKNUo2VmNldTRuMjhNMHFIa3MwSVZndzNLZWVSNGU4S0ZjUElkRnNxeGZHUzBRU0hqMGEydkVUSkZSVFJPUdIBmAJBVV95cUxOWXl0eFNtempXRVV5WEZlckxMY2ItT284b2t0NDlrSlM1LU1RRnFQTUZyTENyOWhmUTRjS0YyU3ZiR0lja3lPZW0ySWxtSFhPd2JBVVZyUGVLbHp0eEFhWlVOeUJuWVBVMEFJcno5UzBHcTF2aGNZcS0yTE8xZzdONmhUb0lKWUptWk5TZFhHZFJpQXkzTWFKeW1ZSG1zeGEtdThXTFFpMnVyNVh2UjZ1aEJQTVE2aFBlc3hMaTloUWJCdTRBVUc3dG5uNVIzOUJXX2VjQXJqM1JqSW5iamktbWl1SUJGRXVHTndqbUJDbEhlT2k0MmVuOWstUGZhaDV1cm0xRmlIckZPWlZ2Z1ZUdlZYbzVLQUxU?oc=5
 
-- Stock market today: S&P 500, Nasdaq notch fresh records, oil edges higher as markets weigh Iran peace odds - Yahoo Finance
-  Stock market today: S&amp;P 500, Nasdaq notch fresh records.
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOUVZjaFNlVWFPRTlhbEZEZlVqd2p1QXJMTk5NWmxLTTFJdWtsVlFlVjVPTkUyMXJ2MlJHRmMtQlNNWFpITkdPVW5paDV2amVaVzdOeVRZRGhCMGlwU25XcUlyUGRhcWJNNGFuZ1lFT0plTDg0c19QcGE0MlhSWnNfQlEwZi1GTzYyclc4V3Q0Yy1tcy1HekdubExGRQ?oc=5
+- NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on April 28 - Upstox
+  NIFTY50, SENSEX today: Wall Street cues, FII
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb3dDdHFWbUlLa2xNdW83TlNOeTU0SjVGRnBzSFM1cHVTWVZmVEI1dVhucE5oSmxMSmtDVFM3VEw5RUMyRXBxbHVoQ1lXaVVNYkYzUllZc1RkazRfZFNjTERTUVA3TXFBYjJRR012MjRoY21uMTFzZG5fRUtkMTVsSVdUNnJjQXQyOWpKV3hBcWdGNkozdnNhMjlPWVBCanBZNGdqZ190SlNsaUdMbTV5eW5OQlJtVFlKRXFpX0pUVXZXN3ZkYWFyWk42clhxU2EwUHppRVluZDB1NHBKOTlpMGREdjZMOEhWRnRNZi1SNHZXZlk?oc=5
 
-- Stock futures inch higher after the S&P 500 posts another record, Wall Street awaits earnings: Live updates - CNBC
-  Stock futures inch higher after the S&amp;P 500 posts another record
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZ3E1SWl5dVIwcV9xRGlHdkplNTVWX2s4SFBZVEJ3R01LeTF2aEhCVHJYc3J2NnByODNjNTlFRURYWWxvZnZUMlk1bVFwR1QyZUxGbXZNQl9uMktVMkRaSGtfMEJScEJ2SHBVNVE5My1ibnYzSVFj0gF8QVVfeXFMTjJtSDFuZnJmNUhJRE4wSDFfVG1IVFR3WEE5cGpQZW1SclpVQW10bmlaQnFsemQ5RXBKWDVKcG1FelV3ellfaVpIUHV3OFNjMTlwOGpVbWJQX09YOU1kQUlXcGZ0QVNRTk5GejQzbzZmLWZjM3gxTURUNkQ4Vg?oc=5
+- Markets News, April 27, 2026: S&P 500, Nasdaq Set Intraday, Closing Records as Big Earnings Week Starts; Nvidia Hits All-Time High - Investopedia
+  Nvidia hits an all-time high as the tech giant prepares to report earnings.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXFJaU9EWE82U3RpaWNMR3k2UHNYM3lPQ0hhRUtKVk40S3llUFI3RUlLZDlOdVFrRTNSZjlxbUtYcEJSdUJjRnFFWUY1N1VDSXNFdndxdmc5Ulk2M1YyamdiVDdTaXo2NUdQTWZ1VWVxLWl3VlFiOTlkWVZ6WU1RY1hqWWlubHRtQlZZUFBBa24?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty indicates a muted start; US, Asian markets mixed - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1dmTmpXSFZGb19QZ29Tc2xCYk5BeENVTnUtN0xEckFLYk1aSDQ4SnktLVdvTk1mT2dJc1I4RF9pTmpMWHdGNEtJWkhoMl92OXZJTFVlSDNFME9OU3U5aHFxOVY4QjExZ1
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1dmTmpXSFZGb19QZ29Tc2xCYk5BeENVTnUtN0xEckFLYk1aSDQ4SnktLVdvTk1mT2dJc1I4RF9pTmpMWHdGNEtJWkhoMl92OXZJTFVlSDNFME9OU3U5aHFxOVY4QjExZ1lvQ3dxWk45OTRLMWNXSEVYZHhDZW9PZ1Vqd2pFWXRnVHZDVDdUSUlCam05SGFoYlZFSzRIN3pIWHg1UHlGUXNJV0Z4M1FJNTlrc1AzcnQ0VzVhVXlIY0I1aE5Oc2xhVnc1V1p4QVdMczJzd1R6UUZEbXA0QlIxTDFPcHc3SWw1Z1NjczJ0NDdmR0hNeDM5LU5CZGhQSk5FVE1POVpSWHJDZnN4OHVWVUhxMNIBmAJBVV95cUxPamk1SEdLRFBuSHROd3RyTDZjM0U0QURkTldTZnEwd3FNYjdxQ0l3YUVJTmRpbkYyMnNUTkgtSjMwYUFkZ3RmdXJkWElhZ1drV19LUFlKZE5KVmlwZ2xxUFdyWXBEUWxZRC1pTkVqUVZTb0xGMi12ZlBZZUlFRURnd3FnVGt3Y0JUbHZZS1ZoUGNaYk9pc3JPcFhNbXgxQjl3WXZvcmpmeVVfYWdEU3NGVGRiSVA3amhkbmN3bDRMcTJILTNjaUxob2JSU3hPLW5vSjBuakZ3elQtdkFmZjZ5MVJENWF2YXFKWWh2MC0tQlZBbFFvRzhuUmxMWVhEYkQ5LUo0MF8waEswSUF6UjBwd25kbFNaaHR1?oc=5
+- HSBC cuts India exposure, bets on Korea;  but says India's best days are still ahead
+  HSBC trims India equity exposure to boost South Korea, citing Korea's explosive earnings growth. While India's earnings recovery is real but gradual, the bank maintains long-term conviction.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/hsbc-cuts-india-exposure-bets-on-korea-but-says-indias-best-days-are-still-ahead/articleshow/130573258.cms
 
-- Oil Price Today (April 28): Crude oil approaches $110 amid little signs of Iran war peace talks. Will prices touch $150?
-  Oil prices surged Tuesday as hopes for a U.S.-Iran war resolution dimmed. Analysts predict continued price hikes, with some forecasting Brent crude could reach $150 per barrel if disruptions persist.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-april-28-crude-oil-approaches-110-amid-little-signs-of-iran-war-peace-talks-will-prices-touch-150/articleshow/130567396.cms
+- Blackstone-backed Bagmane Prime Office REIT to launch Rs 3,405-cr IPO on May 5
+  Blackstone-backed Bagmane Prime Office REIT is poised to hit the capital markets with its Rs 3
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstone-backed-bagmane-prime-office-reit-to-launch-rs-3405-cr-ipo-on-may-5/articleshow/130573159.cms
 
-- Stocks to buy in 2026 for long term: RIL, Axis Bank among 5 stocks that could give 10-30% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-ril-axis-bank-among-5-stocks-that-could-give-10-30-return/slideshow/130567378.cms
+- Embassy REIT to raise Rs 9,000 cr debt, FY26 distribution to unitholders up 10 pc to Rs 2,394 cr
+  Realty firm Embassy Office Parks REIT announced distribution of Rs 616 crore to unitholders for the March quarter. The total figures
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-to-raise-rs-9000-cr-debt-fy26-distribution-to-unitholders-up-10-pc-to-rs-2394-cr/articleshow/130573136.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-suzuki-eternal-share-price-28-april-2026/liveblog/130567329.cms
+- Peak XV exits One MobiKwik Systems in Rs 130 crore block deal: Report
+  Venture capital firm Peak XV Partners has exited Indian fintech One MobiKwik Systems. The firm sold its stake for over Rs 130 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/peak-xv-exits-one-mobikwik-systems-in-rs-130-crore-block-deal-report/articleshow/130572905.cms
 
-- Positive Breakout: These 8 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/130567343.cms
+- Mutual Funds bet big on 11 smallcap stocks held over 4 quarters; 2 turned multibaggers
+  Mutual funds increased holdings in 102 BSE smallcap stocks over four quarters. Many delivered strong gains, including multiple mult
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mutual-funds-bet-big-on-11-smallcap-stocks-held-over-4-quarters-2-turned-multibaggers/slideshow/130572691.cms
 
-- Yen steady as BOJ kicks off big week for central banks
-  The Japanese yen held steady as markets awaited the Bank of Japan's policy decision. Other major central banks, including the US Federal Reserve, also have key meetings this week. Policymakers are cautious due to uncertainty surrounding the Iran war's impact
-  🔗 https://economictimes.indiatimes.com/markets/forex/yen-steady-as-boj-kicks-off-big-week-for-central-banks/articleshow/130567277.cms
-
-- India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
-  India, New Zealand Ink 'Once-In
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
-
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
-
-- FTA signing with New Zealand marks historic milestone in country’s journey towards global engagement: PM Modi - News On AIR
-  FTA signing with New Zealand marks historic milestone in country's journey towards global engagement
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkdWSHBfMVF1bEFObWUzTmpOYmFWTjZ5U2lCZ2xPQjhFc21FX25JSUZlUk00VjdpcE9BVkx6ZzR3V3VaeFlDWVNpYl82V3VUM0s4clhveDFZay1iZnplQ2UxcllvaWlWcU15ZnhyNk1JSXZpdS1kVUxDOUtLM0Yzb1dtU0ZjcVMxN1pROEpETjhtcWU4SnRqVy12WGVxRjJXWFBsQlpoQVZ5d3JJQnNIdHVFbHROcGIybmtURm43TGw4aS1jcWFsTGVfenl4QmNWalZj?oc=5
-
-- Key suspect in Bengal's Bhangar blast case held by NIA - The Times of India
-  Key suspect in Bengal's Bhangar blast case held
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG93REdfOXN4U1RvMTJjb3BhRk03YlZqRC1oZlJYLXBEYXJJUW1JRWxteXJWdFlrNnZXb3dueU1FTkY1T2p1WDVuR3VhVXpFYUlnNnVLek9MdVU0ODQ5Vk8zQW9PLU8zcWtSNENrN25oNl94NTJ0QW9xZC1HU3NyNUVyMjQ0eXBjMXJWbmI1Y3BnaFB1Slh6OFlPYWxIUzQzRktyZjExbG50NkVabG1ZSXdVeUFWTnI0bWNfS0pn0gHDAUFVX3lxTE94NjFkS21WUnF3R2doUmtubjBXQnhERE1LTVZTOWtmUzVYZUcydmszX1luT3FMOUZOa1VtZjBrN3h3UE8xMFk3S2ozdHVwSmtkSmhHLURtYy1ITXNzYmkyZV9KN1ZBcEMzUWUwOGpLWkd0ZkhacEE5QTVLMDFrdmlvWUNNTFRTVkhzM0lVUEsyTUktVmpOQWQ3WXV3TFFEOHAwS2NUVURFN2t1cE1CRjBfRFBRamVteVhIdDNZUWxLYU5aQQ?oc=5
-
-- India fifth-largest military spender in 2025 at $92.1 bn; Pakistan 31st with $11.9 bn: Sipri data | India News - Hindustan Times
-  India fifth-largest military spender in 2025 at $92.1 bn; Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEV4dGF3eEJfRG4xUkRhSXJLNzA2Q2pXYW0yZ3Y1Y0ZwZEFudkNEeVMtRDNEeHNjUFJNQ3NyUC1mR1pSTklSNDF2OThoaDBOZnp2YkNwczdRcGpkVWZWaXYtcFh6bWdUeTB4YUtSMXY4QUxkVFg3bjFEZ1Z1SjBOSzRqUWRRSHFldDR4T3VIRWV6RGhwa2pUSlJGMnZyaS13cEQweFJtLWtvUExqdmRSaDRZWDU5Y25UZEtoSlVVN2lpRC0wU092Qm9oNjNIQUN1TDA1RFZZN1NvRTB2R0NWbkxpeFNKWDAyd2wySNIB8gFBVV95cUxOU2d3bTFVNXFsMUd1T2tZekhBZ2dheEdMajMydHg4dUIwN3p2NVdlbjdKQjVFMktfbnRTV2stbFBPMWdqT3FaUXZNTV8tZnU3YU4waWVVQ3ZCVDF6YW1KSFZjRmF5U3pfNWdOMzZVdXp3UjdCWmg1Q3F5V1FFendCZUlHWk9aWUJNNHhMblYxMUlmTDl2bFdtV0o0WS0xLWRfQkxmdWh3MGZPZFd5aHdxRUt1Mnd0aWs2NDJVQ0RxeGxLbFJZblFtNENtUFVvN1FRZkZkc3h0OEJwbjBiQm5Lbk1EUGVySnZFbWxBY2tVcV9zdw?oc=5
+- India-New Zealand FTA; Deal facilitates 100% duty - News On AIR
+  India-New Zealand FTA; Deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
 
 - India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
   India, New Zealand Ink 'Once-In
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
 
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
+- India’s trade deal roadmap walks into a world that’s threatened by missiles & bombs - The Economic Times
+  India’s trade deal roadmap walks into a world that’
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWt3WWdBeGJyZlJ5bFpfN3pjaUlPOGY1ZVhCSjliSnVxRWc2aHBXSGo3WmZVOWpUR2VUYUxJWHlNZ0V3TzFEd2g2cXZad1dlc1EyYTM3RHhCOGJpN3d6dURacE5fdHRqVVVEU2p4N2JObG9JOS1tcmZrY2p6bF9FdXhsenpJejdvOHFZWTI2SFQtcW0xM2xUY3E1Q0VjUzdmcDI1cFdYZjlxenNrSTBITENYQXVVTVRYbUMxWFZqZXdwODh1LXdIQVdLQ3FZLUJOVHZ2cjJ0bnhCVUN4UThvUjBHTXBJNEVzRWw2clFpb0s0UdIB9wFBVV95cUxNN3VnR2tKUWtzTXJuUTIxb0NEbU9POFF3azByZUhpY3cyWFhvSURRREVnVDRoX0RPZ1U4QVZmVHNHdG1TbXdYdC1fUkJUcjdjMG1JdXJuSTFSZDRpd25pYTBWSGlILUVtX1B5bWhTdG5kcmROemExdHdYcy10WU9rZTJGeFJYUFkwVFprTUZnUGVQT1ozTHZkQUw3QThncFdQVkRYamJ2RXZVVDZKMHI0NXBCRE94b25IRDhGeWQ4NTZGX0dtV2JPYk1WUDExR01aS0laMm5FQllPcjg2bUYtMmRFYjd5YUNEQzBvT3VaX2x0TEx0czZn?oc=5
 
-- FTA signing with New Zealand marks historic milestone in country’s journey towards global engagement: PM Modi - News On AIR
-  FTA signing with New Zealand marks historic milestone in country's journey towards global engagement
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkdWSHBfMVF1bEFObWUzTmpOYmFWTjZ5U2lCZ2xPQjhFc21FX25JSUZlUk00VjdpcE9BVkx6ZzR3V3VaeFlDWVNpYl82V3VUM0s4clhveDFZay1iZnplQ2UxcllvaWlWcU15ZnhyNk1JSXZpdS1kVUxDOUtLM0Yzb1dtU0ZjcVMxN1pROEpETjhtcWU4SnRqVy12WGVxRjJXWFBsQlpoQVZ5d3JJQnNIdHVFbHROcGIybmtURm43TGw4aS1jcWFsTGVfenl4QmNWalZj?oc=5
+- Union Minister Ashwini Vaishnaw, CM Chandrababu Naidu lay foundation for Google Cloud AI Hub in Visakhapatnam - News On AIR
+  The project is being led by Union Minister Ashwini Vaishnaw.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGlLQUJ2LUdEaGVYbGRraTBSMG1kV1gzdFRZMVkzREJhRkRncXVMREpPOUxoM1hJUWJUbXExUGVVRlFFekZtbUpsUGNwSzlQTEdUYnpqc1ViNnBuR3cyUXVONVBmYlo2ZHdjU0ZwQUp6azNTT3lxdW00NGVEUFNpekw5WnpDOWI4U0llTWJDMVItenlfS2UwRlNjNDdzbGFtclFYSWZHOEYzUDRxRXVLSXVBV2tBampPYkR6WDZJaWRwVTYxT0JqdTVaRWNnUkIzU29zRjlFR2pYQlVBLVlhZnZtWXk3dm9aQko0QmV6ZzZmNjZlcXZHMW9uaEhaOWpVZ0E?oc=5
 
-- Key suspect in Bengal's Bhangar blast case held by NIA - The Times of India
-  Key suspect in Bengal's Bhangar blast case held
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG93REdfOXN4U1RvMTJjb3BhRk03YlZqRC1oZlJYLXBEYXJJUW1JRWxteXJWdFlrNnZXb3dueU1FTkY1T2p1WDVuR3VhVXpFYUlnNnVLek9MdVU0ODQ5Vk8zQW9PLU8zcWtSNENrN25oNl94NTJ0QW9xZC1HU3NyNUVyMjQ0eXBjMXJWbmI1Y3BnaFB1Slh6OFlPYWxIUzQzRktyZjExbG50NkVabG1ZSXdVeUFWTnI0bWNfS0pn0gHDAUFVX3lxTE94NjFkS21WUnF3R2doUmtubjBXQnhERE1LTVZTOWtmUzVYZUcydmszX1luT3FMOUZOa1VtZjBrN3h3UE8xMFk3S2ozdHVwSmtkSmhHLURtYy1ITXNzYmkyZV9KN1ZBcEMzUWUwOGpLWkd0ZkhacEE5QTVLMDFrdmlvWUNNTFRTVkhzM0lVUEsyTUktVmpOQWQ3WXV3TFFEOHAwS2NUVURFN2t1cE1CRjBfRFBRamVteVhIdDNZUWxLYU5aQQ?oc=5
+- Prada launches Indian-made sandals after cultural appropriation backlash - BBC
+  Prada launches Indian-made
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LNnJfX2xaY3l2SUx2RlluLVVjdFFHNU5SaFdFbm52LUMtdWdLOHU4WG9pa1JzVDc3LUpKRm02bnduMjgzelJxZFVxZDdBa1JNaVBiN3Q3S2dEZw?oc=5
 
-- India fifth-largest military spender in 2025 at $92.1 bn; Pakistan 31st with $11.9 bn: Sipri data | India News - Hindustan Times
-  India fifth-largest military spender in 2025 at $92.1 bn; Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEV4dGF3eEJfRG4xUkRhSXJLNzA2Q2pXYW0yZ3Y1Y0ZwZEFudkNEeVMtRDNEeHNjUFJNQ3NyUC1mR1pSTklSNDF2OThoaDBOZnp2YkNwczdRcGpkVWZWaXYtcFh6bWdUeTB4YUtSMXY4QUxkVFg3bjFEZ1Z1SjBOSzRqUWRRSHFldDR4T3VIRWV6RGhwa2pUSlJGMnZyaS13cEQweFJtLWtvUExqdmRSaDRZWDU5Y25UZEtoSlVVN2lpRC0wU092Qm9oNjNIQUN1TDA1RFZZN1NvRTB2R0NWbkxpeFNKWDAyd2wySNIB8gFBVV95cUxOU2d3bTFVNXFsMUd1T2tZekhBZ2dheEdMajMydHg4dUIwN3p2NVdlbjdKQjVFMktfbnRTV2stbFBPMWdqT3FaUXZNTV8tZnU3YU4waWVVQ3ZCVDF6YW1KSFZjRmF5U3pfNWdOMzZVdXp3UjdCWmg1Q3F5V1FFendCZUlHWk9aWUJNNHhMblYxMUlmTDl2bFdtV0o0WS0xLWRfQkxmdWh3MGZPZFd5aHdxRUt1Mnd0aWs2NDJVQ0RxeGxLbFJZblFtNENtUFVvN1FRZkZkc3h0OEJwbjBiQm5Lbk1EUGVySnZFbWxBY2tVcV9zdw?oc=5
-
-- India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
-  India, New Zealand Ink 'Once-In
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
-
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
-
-- FTA signing with New Zealand marks historic milestone in country’s journey towards global engagement: PM Modi - News On AIR
-  FTA signing with New Zealand marks historic milestone in country's journey towards global engagement
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkdWSHBfMVF1bEFObWUzTmpOYmFWTjZ5U2lCZ2xPQjhFc21FX25JSUZlUk00VjdpcE9BVkx6ZzR3V3VaeFlDWVNpYl82V3VUM0s4clhveDFZay1iZnplQ2UxcllvaWlWcU15ZnhyNk1JSXZpdS1kVUxDOUtLM0Yzb1dtU0ZjcVMxN1pROEpETjhtcWU4SnRqVy12WGVxRjJXWFBsQlpoQVZ5d3JJQnNIdHVFbHROcGIybmtURm43TGw4aS1jcWFsTGVfenl4QmNWalZj?oc=5
-
-- Key suspect in Bengal's Bhangar blast case held by NIA - The Times of India
-  Key suspect in Bengal's Bhangar blast case held
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG93REdfOXN4U1RvMTJjb3BhRk03YlZqRC1oZlJYLXBEYXJJUW1JRWxteXJWdFlrNnZXb3dueU1FTkY1T2p1WDVuR3VhVXpFYUlnNnVLek9MdVU0ODQ5Vk8zQW9PLU8zcWtSNENrN25oNl94NTJ0QW9xZC1HU3NyNUVyMjQ0eXBjMXJWbmI1Y3BnaFB1Slh6OFlPYWxIUzQzRktyZjExbG50NkVabG1ZSXdVeUFWTnI0bWNfS0pn0gHDAUFVX3lxTE94NjFkS21WUnF3R2doUmtubjBXQnhERE1LTVZTOWtmUzVYZUcydmszX1luT3FMOUZOa1VtZjBrN3h3UE8xMFk3S2ozdHVwSmtkSmhHLURtYy1ITXNzYmkyZV9KN1ZBcEMzUWUwOGpLWkd0ZkhacEE5QTVLMDFrdmlvWUNNTFRTVkhzM0lVUEsyTUktVmpOQWQ3WXV3TFFEOHAwS2NUVURFN2t1cE1CRjBfRFBRamVteVhIdDNZUWxLYU5aQQ?oc=5
-
-- India fifth-largest military spender in 2025 at $92.1 bn; Pakistan 31st with $11.9 bn: Sipri data | India News - Hindustan Times
-  India fifth-largest military spender in 2025 at $92.1 bn; Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEV4dGF3eEJfRG4xUkRhSXJLNzA2Q2pXYW0yZ3Y1Y0ZwZEFudkNEeVMtRDNEeHNjUFJNQ3NyUC1mR1pSTklSNDF2OThoaDBOZnp2YkNwczdRcGpkVWZWaXYtcFh6bWdUeTB4YUtSMXY4QUxkVFg3bjFEZ1Z1SjBOSzRqUWRRSHFldDR4T3VIRWV6RGhwa2pUSlJGMnZyaS13cEQweFJtLWtvUExqdmRSaDRZWDU5Y25UZEtoSlVVN2lpRC0wU092Qm9oNjNIQUN1TDA1RFZZN1NvRTB2R0NWbkxpeFNKWDAyd2wySNIB8gFBVV95cUxOU2d3bTFVNXFsMUd1T2tZekhBZ2dheEdMajMydHg4dUIwN3p2NVdlbjdKQjVFMktfbnRTV2stbFBPMWdqT3FaUXZNTV8tZnU3YU4waWVVQ3ZCVDF6YW1KSFZjRmF5U3pfNWdOMzZVdXp3UjdCWmg1Q3F5V1FFendCZUlHWk9aWUJNNHhMblYxMUlmTDl2bFdtV0o0WS0xLWRfQkxmdWh3MGZPZFd5aHdxRUt1Mnd0aWs2NDJVQ0RxeGxLbFJZblFtNENtUFVvN1FRZkZkc3h0OEJwbjBiQm5Lbk1EUGVySnZFbWxBY2tVcV9zdw?oc=5
+- India-New Zealand FTA; Deal facilitates 100% duty - News On AIR
+  India-New Zealand FTA; Deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
 
 - India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
   India, New Zealand Ink 'Once-In
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
 
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
+- India’s trade deal roadmap walks into a world that’s threatened by missiles & bombs - The Economic Times
+  India’s trade deal roadmap walks into a world that’
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWt3WWdBeGJyZlJ5bFpfN3pjaUlPOGY1ZVhCSjliSnVxRWc2aHBXSGo3WmZVOWpUR2VUYUxJWHlNZ0V3TzFEd2g2cXZad1dlc1EyYTM3RHhCOGJpN3d6dURacE5fdHRqVVVEU2p4N2JObG9JOS1tcmZrY2p6bF9FdXhsenpJejdvOHFZWTI2SFQtcW0xM2xUY3E1Q0VjUzdmcDI1cFdYZjlxenNrSTBITENYQXVVTVRYbUMxWFZqZXdwODh1LXdIQVdLQ3FZLUJOVHZ2cjJ0bnhCVUN4UThvUjBHTXBJNEVzRWw2clFpb0s0UdIB9wFBVV95cUxNN3VnR2tKUWtzTXJuUTIxb0NEbU9POFF3azByZUhpY3cyWFhvSURRREVnVDRoX0RPZ1U4QVZmVHNHdG1TbXdYdC1fUkJUcjdjMG1JdXJuSTFSZDRpd25pYTBWSGlILUVtX1B5bWhTdG5kcmROemExdHdYcy10WU9rZTJGeFJYUFkwVFprTUZnUGVQT1ozTHZkQUw3QThncFdQVkRYamJ2RXZVVDZKMHI0NXBCRE94b25IRDhGeWQ4NTZGX0dtV2JPYk1WUDExR01aS0laMm5FQllPcjg2bUYtMmRFYjd5YUNEQzBvT3VaX2x0TEx0czZn?oc=5
 
-- FTA signing with New Zealand marks historic milestone in country’s journey towards global engagement: PM Modi - News On AIR
-  FTA signing with New Zealand marks historic milestone in country's journey towards global engagement
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkdWSHBfMVF1bEFObWUzTmpOYmFWTjZ5U2lCZ2xPQjhFc21FX25JSUZlUk00VjdpcE9BVkx6ZzR3V3VaeFlDWVNpYl82V3VUM0s4clhveDFZay1iZnplQ2UxcllvaWlWcU15ZnhyNk1JSXZpdS1kVUxDOUtLM0Yzb1dtU0ZjcVMxN1pROEpETjhtcWU4SnRqVy12WGVxRjJXWFBsQlpoQVZ5d3JJQnNIdHVFbHROcGIybmtURm43TGw4aS1jcWFsTGVfenl4QmNWalZj?oc=5
+- Union Minister Ashwini Vaishnaw, CM Chandrababu Naidu lay foundation for Google Cloud AI Hub in Visakhapatnam - News On AIR
+  The project is being led by Union Minister Ashwini Vaishnaw.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGlLQUJ2LUdEaGVYbGRraTBSMG1kV1gzdFRZMVkzREJhRkRncXVMREpPOUxoM1hJUWJUbXExUGVVRlFFekZtbUpsUGNwSzlQTEdUYnpqc1ViNnBuR3cyUXVONVBmYlo2ZHdjU0ZwQUp6azNTT3lxdW00NGVEUFNpekw5WnpDOWI4U0llTWJDMVItenlfS2UwRlNjNDdzbGFtclFYSWZHOEYzUDRxRXVLSXVBV2tBampPYkR6WDZJaWRwVTYxT0JqdTVaRWNnUkIzU29zRjlFR2pYQlVBLVlhZnZtWXk3dm9aQko0QmV6ZzZmNjZlcXZHMW9uaEhaOWpVZ0E?oc=5
 
-- Key suspect in Bengal's Bhangar blast case held by NIA - The Times of India
-  Key suspect in Bengal's Bhangar blast case held
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNdG93REdfOXN4U1RvMTJjb3BhRk03YlZqRC1oZlJYLXBEYXJJUW1JRWxteXJWdFlrNnZXb3dueU1FTkY1T2p1WDVuR3VhVXpFYUlnNnVLek9MdVU0ODQ5Vk8zQW9PLU8zcWtSNENrN25oNl94NTJ0QW9xZC1HU3NyNUVyMjQ0eXBjMXJWbmI1Y3BnaFB1Slh6OFlPYWxIUzQzRktyZjExbG50NkVabG1ZSXdVeUFWTnI0bWNfS0pn0gHDAUFVX3lxTE94NjFkS21WUnF3R2doUmtubjBXQnhERE1LTVZTOWtmUzVYZUcydmszX1luT3FMOUZOa1VtZjBrN3h3UE8xMFk3S2ozdHVwSmtkSmhHLURtYy1ITXNzYmkyZV9KN1ZBcEMzUWUwOGpLWkd0ZkhacEE5QTVLMDFrdmlvWUNNTFRTVkhzM0lVUEsyTUktVmpOQWQ3WXV3TFFEOHAwS2NUVURFN2t1cE1CRjBfRFBRamVteVhIdDNZUWxLYU5aQQ?oc=5
+- Prada launches Indian-made sandals after cultural appropriation backlash - BBC
+  Prada launches Indian-made
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LNnJfX2xaY3l2SUx2RlluLVVjdFFHNU5SaFdFbm52LUMtdWdLOHU4WG9pa1JzVDc3LUpKRm02bnduMjgzelJxZFVxZDdBa1JNaVBiN3Q3S2dEZw?oc=5
 
-- India fifth-largest military spender in 2025 at $92.1 bn; Pakistan 31st with $11.9 bn: Sipri data | India News - Hindustan Times
-  India fifth-largest military spender in 2025 at $92.1 bn; Pakistan
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEV4dGF3eEJfRG4xUkRhSXJLNzA2Q2pXYW0yZ3Y1Y0ZwZEFudkNEeVMtRDNEeHNjUFJNQ3NyUC1mR1pSTklSNDF2OThoaDBOZnp2YkNwczdRcGpkVWZWaXYtcFh6bWdUeTB4YUtSMXY4QUxkVFg3bjFEZ1Z1SjBOSzRqUWRRSHFldDR4T3VIRWV6RGhwa2pUSlJGMnZyaS13cEQweFJtLWtvUExqdmRSaDRZWDU5Y25UZEtoSlVVN2lpRC0wU092Qm9oNjNIQUN1TDA1RFZZN1NvRTB2R0NWbkxpeFNKWDAyd2wySNIB8gFBVV95cUxOU2d3bTFVNXFsMUd1T2tZekhBZ2dheEdMajMydHg4dUIwN3p2NVdlbjdKQjVFMktfbnRTV2stbFBPMWdqT3FaUXZNTV8tZnU3YU4waWVVQ3ZCVDF6YW1KSFZjRmF5U3pfNWdOMzZVdXp3UjdCWmg1Q3F5V1FFendCZUlHWk9aWUJNNHhMblYxMUlmTDl2bFdtV0o0WS0xLWRfQkxmdWh3MGZPZFd5aHdxRUt1Mnd0aWs2NDJVQ0RxeGxLbFJZblFtNENtUFVvN1FRZkZkc3h0OEJwbjBiQm5Lbk1EUGVySnZFbWxBY2tVcV9zdw?oc=5
+- India-New Zealand FTA; Deal facilitates 100% duty - News On AIR
+  India-New Zealand FTA; Deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
+
+- India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
+  India, New Zealand Ink 'Once-In
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
+
+- India’s trade deal roadmap walks into a world that’s threatened by missiles & bombs - The Economic Times
+  India’s trade deal roadmap walks into a world that’
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWt3WWdBeGJyZlJ5bFpfN3pjaUlPOGY1ZVhCSjliSnVxRWc2aHBXSGo3WmZVOWpUR2VUYUxJWHlNZ0V3TzFEd2g2cXZad1dlc1EyYTM3RHhCOGJpN3d6dURacE5fdHRqVVVEU2p4N2JObG9JOS1tcmZrY2p6bF9FdXhsenpJejdvOHFZWTI2SFQtcW0xM2xUY3E1Q0VjUzdmcDI1cFdYZjlxenNrSTBITENYQXVVTVRYbUMxWFZqZXdwODh1LXdIQVdLQ3FZLUJOVHZ2cjJ0bnhCVUN4UThvUjBHTXBJNEVzRWw2clFpb0s0UdIB9wFBVV95cUxNN3VnR2tKUWtzTXJuUTIxb0NEbU9POFF3azByZUhpY3cyWFhvSURRREVnVDRoX0RPZ1U4QVZmVHNHdG1TbXdYdC1fUkJUcjdjMG1JdXJuSTFSZDRpd25pYTBWSGlILUVtX1B5bWhTdG5kcmROemExdHdYcy10WU9rZTJGeFJYUFkwVFprTUZnUGVQT1ozTHZkQUw3QThncFdQVkRYamJ2RXZVVDZKMHI0NXBCRE94b25IRDhGeWQ4NTZGX0dtV2JPYk1WUDExR01aS0laMm5FQllPcjg2bUYtMmRFYjd5YUNEQzBvT3VaX2x0TEx0czZn?oc=5
+
+- Union Minister Ashwini Vaishnaw, CM Chandrababu Naidu lay foundation for Google Cloud AI Hub in Visakhapatnam - News On AIR
+  The project is being led by Union Minister Ashwini Vaishnaw.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGlLQUJ2LUdEaGVYbGRraTBSMG1kV1gzdFRZMVkzREJhRkRncXVMREpPOUxoM1hJUWJUbXExUGVVRlFFekZtbUpsUGNwSzlQTEdUYnpqc1ViNnBuR3cyUXVONVBmYlo2ZHdjU0ZwQUp6azNTT3lxdW00NGVEUFNpekw5WnpDOWI4U0llTWJDMVItenlfS2UwRlNjNDdzbGFtclFYSWZHOEYzUDRxRXVLSXVBV2tBampPYkR6WDZJaWRwVTYxT0JqdTVaRWNnUkIzU29zRjlFR2pYQlVBLVlhZnZtWXk3dm9aQko0QmV6ZzZmNjZlcXZHMW9uaEhaOWpVZ0E?oc=5
+
+- Prada launches Indian-made sandals after cultural appropriation backlash - BBC
+  Prada launches Indian-made
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LNnJfX2xaY3l2SUx2RlluLVVjdFFHNU5SaFdFbm52LUMtdWdLOHU4WG9pa1JzVDc3LUpKRm02bnduMjgzelJxZFVxZDdBa1JNaVBiN3Q3S2dEZw?oc=5
+
+- India-New Zealand FTA; Deal facilitates 100% duty - News On AIR
+  India-New Zealand FTA; Deal
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
+
+- India, New Zealand Ink 'Once-In-A-Generation' Pact: All You Need To Know - NDTV
+  India, New Zealand Ink 'Once-In
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWF9HdVgzN2pCVi1SUk8wOTlkbUhsT2l2THNWLTZTTG5KSDhHX3FKS2pRTGROUDhhVm1wTmFXcWZEMWw5VnZFZFdFczZrcXdXc2NVRnBFdHROWUM0RlJwbU53ZEhrRVFUcGhtN0FyZ2gxOWpUZUxLZUh2TVNmdS1pOXNFRm1PVWd6cWZCd21CSmlJSWkzNFZMNHJVelZrRmVWRmFwTkVRR1hrMVFKeGhTdFFFZXJqc0pSeUc3ZzJLYjNKMllvZmpwZUZkVEY2U1pXN2p1Tk9EN2t2M2pPTmfSAeYBQVVfeXFMTW1SSllKM3BiX2pmc3gwcmJSd1FpNUpuRnBESXZYZG43QVp3d1loYS1EdE9CeHlvT2lTWm9GYWZzQ0lxcVVXSXE5VjBGeUpMYXJwR0EyY1VRQXA1WENjZl8yNklya25yYzN0NW1oMVA3aXNKVGZEdV9KNUFxR1laOVNTZXdtT20yaGpfWXFPVG1ER3BuQVlOM1Etb1NwcUZrWGUwcXNJelZNRTJTZk5EbjJHV2xZRWlnY1c0ZmdwZDBEWkpibE85UGlwY2p3bkk1MHpwQ3JuUTdGN3E3RUFhZi14VnloWkE?oc=5
+
+- India’s trade deal roadmap walks into a world that’s threatened by missiles & bombs - The Economic Times
+  India’s trade deal roadmap walks into a world that’
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWWt3WWdBeGJyZlJ5bFpfN3pjaUlPOGY1ZVhCSjliSnVxRWc2aHBXSGo3WmZVOWpUR2VUYUxJWHlNZ0V3TzFEd2g2cXZad1dlc1EyYTM3RHhCOGJpN3d6dURacE5fdHRqVVVEU2p4N2JObG9JOS1tcmZrY2p6bF9FdXhsenpJejdvOHFZWTI2SFQtcW0xM2xUY3E1Q0VjUzdmcDI1cFdYZjlxenNrSTBITENYQXVVTVRYbUMxWFZqZXdwODh1LXdIQVdLQ3FZLUJOVHZ2cjJ0bnhCVUN4UThvUjBHTXBJNEVzRWw2clFpb0s0UdIB9wFBVV95cUxNN3VnR2tKUWtzTXJuUTIxb0NEbU9POFF3azByZUhpY3cyWFhvSURRREVnVDRoX0RPZ1U4QVZmVHNHdG1TbXdYdC1fUkJUcjdjMG1JdXJuSTFSZDRpd25pYTBWSGlILUVtX1B5bWhTdG5kcmROemExdHdYcy10WU9rZTJGeFJYUFkwVFprTUZnUGVQT1ozTHZkQUw3QThncFdQVkRYamJ2RXZVVDZKMHI0NXBCRE94b25IRDhGeWQ4NTZGX0dtV2JPYk1WUDExR01aS0laMm5FQllPcjg2bUYtMmRFYjd5YUNEQzBvT3VaX2x0TEx0czZn?oc=5
+
+- Union Minister Ashwini Vaishnaw, CM Chandrababu Naidu lay foundation for Google Cloud AI Hub in Visakhapatnam - News On AIR
+  The project is being led by Union Minister Ashwini Vaishnaw.
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGlLQUJ2LUdEaGVYbGRraTBSMG1kV1gzdFRZMVkzREJhRkRncXVMREpPOUxoM1hJUWJUbXExUGVVRlFFekZtbUpsUGNwSzlQTEdUYnpqc1ViNnBuR3cyUXVONVBmYlo2ZHdjU0ZwQUp6azNTT3lxdW00NGVEUFNpekw5WnpDOWI4U0llTWJDMVItenlfS2UwRlNjNDdzbGFtclFYSWZHOEYzUDRxRXVLSXVBV2tBampPYkR6WDZJaWRwVTYxT0JqdTVaRWNnUkIzU29zRjlFR2pYQlVBLVlhZnZtWXk3dm9aQko0QmV6ZzZmNjZlcXZHMW9uaEhaOWpVZ0E?oc=5
+
+- Prada launches Indian-made sandals after cultural appropriation backlash - BBC
+  Prada launches Indian-made
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LNnJfX2xaY3l2SUx2RlluLVVjdFFHNU5SaFdFbm52LUMtdWdLOHU4WG9pa1JzVDc3LUpKRm02bnduMjgzelJxZFVxZDdBa1JNaVBiN3Q3S2dEZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-28 02:31:27 UTC_
+_Last updated: 2026-04-28 08:18:32 UTC_
