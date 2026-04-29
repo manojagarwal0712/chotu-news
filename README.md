@@ -1,164 +1,224 @@
 # 📰 Daily News Summaries
 
-- 70,000 students, 1,000 schools, results in seconds: Jodhpur begins using AI for assessment
+- Kerala Election Exit Polls 2026 LIVE Updates: Congress may clinch power but LDF close, show surveys
   
-  🔗 https://indianexpress.com/article/india/jodhpur-ai-pilot-transforming-assessments-schools-students-10661713/
+  🔗 https://indianexpress.com/article/india/kerala-election-exit-poll-result-2026-live-updates-10660748/
 
-- Ganga Expressway: PM Modi inaugurates 594 km Meerut-Prayagraj industrial corridor
+- Tamil Nadu Election Exit Poll Results 2026 LIVE Updates: DMK likely to win Tamil Nadu polls, say surveys
   
-  🔗 https://indianexpress.com/article/india/pm-modi-inaugurates-594-km-meerut-prayagraj-ganga-expressway-10661717/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-election-exit-poll-result-2026-dmk-tvk-aiadmk-ntk-10660871/
 
-- Tripura leads, big states lag: Here’s how 2.5 lakh Gram Panchayats ranked in PAI 2.0 report
+- Why IIM Bangalore slipped 14 places in QS Executive MBA Rankings 2026
   
-  🔗 https://indianexpress.com/article/india/tripura-leads-big-states-lag-heres-how-2-5-lakh-gram-panchayats-ranked-in-pai-2-0-report-10661591/
+  🔗 https://indianexpress.com/article/india/iim-bangalore-qs-executive-mba-rankings-2026-global-rank-slip-10662120/
 
-- Manipur Deputy CM interview: ‘People fed up with violence… shutdowns and unrest won’t give us positive outcome’
+- Bihar municipal office attack: Hours after shooting left officer dead, main accused killed in police encounter
   
-  🔗 https://indianexpress.com/article/india/manipur-deputy-cm-interview-people-fed-up-with-violence-shutdowns-and-unrest-wont-give-us-positive-outcome-10661134/
+  🔗 https://indianexpress.com/article/india/bihar-municipal-office-attack-hours-after-shooting-left-officer-dead-main-accused-killed-in-police-encounter-10662144/
 
-- Meghalaya honeymoon murder: Sonam Raghuvanshi gets bail, court says grounds for arrest ‘not effectively communicated’
+- Mamata Banerjee, Suvendu Adhikari at same spot during Bengal voting: ‘Why is she roaming here?’
   
-  🔗 https://indianexpress.com/article/india/meghalaya-honeymoon-murder-sonam-raghuvanshi-gets-bail-court-says-grounds-for-arrest-not-effectively-communicated-10661135/
+  🔗 https://indianexpress.com/article/india/mamata-banerjee-suvendu-adhikari-same-polling-booth-bengal-phase-2-10662085/
 
-- Google Maps: 10 lesser-known features that make navigation easier
+- YouTube tests AI-powered search with guided answers and video results
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-maps-lesser-known-features-10661726/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-tests-ai-powered-search-with-guided-answers-and-video-results-10662363/
 
-- Apple rolls out discounted subscription option for App Store developers
+- Facebook and Instagram must do more to block under-13s, EU warns in Meta charges
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-rolls-out-discounted-subscription-option-for-app-store-developers-10661623/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/facebook-and-instagram-must-do-more-to-block-under-13s-eu-warns-in-meta-charges-10662590/
 
-- Could Pluto be a planet again? Nasa chief sparks fresh debate
+- 180-million-year-old fossil of dolphin-like predator sheds new light on Jurassic marine life
   
-  🔗 https://indianexpress.com/article/technology/science/could-pluto-be-a-planet-again-nasa-chief-sparks-fresh-debate-10661576/
+  🔗 https://indianexpress.com/article/technology/science/180-million-year-old-fossil-of-dolphin-like-predator-sheds-new-light-on-jurassic-marine-life-10662568/
 
-- EU countries, lawmakers fail to reach deal on watered-down AI rules
+- Anthropic lets users plug Claude directly into Adobe, Autodesk creative suite
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules-10661467/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-brings-claude-into-creative-workflows-with-new-ai-connectors-10662410/
 
-- Elon Musk says OpenAI was his idea, before executives looted it
+- Early riser vs night owl: Why your body clock isn’t a choice
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-says-openai-was-his-idea-before-executives-looted-it-10661440/
+  🔗 https://indianexpress.com/article/technology/science/early-riser-vs-night-owl-why-your-body-clock-isnt-a-choice-10660593/
 
-- HUL Q4 Preview: Margins in focus amid rising raw material costs
-  Markets will keenly watch the volume growth of competitors
-  🔗 https://www.livemint.com/companies/company-results/hul-q4-results-margins-raw-material-costs-inflation-impact-india-consumption-11777438796287.html
+- Mythos: AI’s watershed moment or a security nightmare?
+  Claude Mythos or Mythos is US-based Anthropic's advanced AI model designed to handle complex
+  🔗 https://www.livemint.com/companies/mythos-ai-watershed-security-nightmare-cybersecurity-automation-anthropic-11777449435215.html
 
-- PE firm Siguler Guff invests $40 million in Chili's India franchise Trimex Foods
-  The development comes at a time when India’s restaurant and QSR chains are seeing renewed investor activity.
-  🔗 https://www.livemint.com/companies/start-ups/pe-firm-siguler-guff-trimex-foods-qsr-chains-india-11777440697787.html
+- Prestige Group bets on rental-led senior living, eyes premium play in Bengaluru
+  Prestige Group is planning a hospitality-style model instead of apartment
+  🔗 https://www.livemint.com/companies/news/prestige-group-bets-on-rental-led-senior-living-eyes-premium-play-in-bengaluru-infra-homes-dlf-brigade-gopalan-11777355215994.html
 
-- Mythos effect: Trump administration seeks to end Pentagon's AI standoff, reinstate Anthropic's Claude, says report
-  The Trump administration is reconsidering its stance on Anthropic's AI tools
-  🔗 https://www.livemint.com/companies/news/mythos-effect-trumps-administration-seeks-to-end-the-pentagons-ai-standoff-and-reinstate-anthropics-claude-says-rep-11777440438088.html
+- Vedanta beats street on strong commodity prices, volumes
+  Vedanta's FY26 revenue jumps 15
+  🔗 https://www.livemint.com/companies/company-results/vedanta-revenue-beat-commodity-prices-volumes-record-profit-ebitda-growth-demerger-11777456614007.html
 
-- Promoters of switch maker Norisys weighs stake sale, engages banker
-  India’s electrical equipment market projected to cross $95 billion by 2029. Norisys is exploring
-  🔗 https://www.livemint.com/companies/start-ups/norisys-technology-stake-sale-private-equity-alvarez-marsal-electrical-switches-switchgear-premium-housing-11777430507854.html
+- Servify eyes acquisitions to boost valuation ahead of IPO
+  Servify has taken a step back to wait for markets to stabilize amid the ongoing war in West Asia before filing its
+  🔗 https://www.livemint.com/companies/news/servify-ipo-smartphone-care-warranty-india-luxury-segment-11777391849083.html
 
-- Infosys secures largest GCC deal
-  Infosys set to run a 4,500-employee centre before handing it over after five years
-  🔗 https://www.livemint.com/companies/news/infosys-secures-largest-gcc-deal-11777387530757.html
+- Insurance regulator plans sales clean-up, distribution reforms, chief Ajay Seth says
+  The Insurance Regulatory and Development Authority of India is set to reform the sector amid rising complaints of unfair sales practices. With a focus on transparency and efficiency, these reforms promise to reshape how policies are
+  🔗 https://www.livemint.com/companies/news/insurance-regulator-irdai-sales-clean-up-distribution-reforms-chairman-ajay-seth-bancassurance-misselling-11777443853369.html
 
-- Global bond crisis ahead? JPMorgan CEO Jamie Dimon rings alarm over rising government debt
-  JPMorgan Chase CEO Jamie Dimon warned of an impending global bond crisis. He anticipates a sharp jump in bond yields, potentially drawing investors from equity markets.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/global-bond-crisis-ahead-jpmorgan-ceo-jamie-dimon-rings-alarm-over-rising-government-debt/articleshow/130599944.cms
+- Vedanta Demerger: What could be the demerged price for Vedanta shares on Thursday? Experts weigh in
+  Vedanta will have a price discovery session from 9:15 to 9:45 am tomorrow, 30 April
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-what-could-be-the-demerger-price-for-vedanta-shares-on-thursday-experts-weigh-in-11777467678178.html
 
-- Gold to clinch $8,000 in just 5 years? Germany’s Deutsche Bank makes bold prediction
-  Central banks are increasing their gold holdings, moving away from the US dollar. Emerging markets are leading this shift, diversifying their reserves. Deutsche Bank forecasts gold prices could reach $8,000 per ounce in five years.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-to-clinch-8000-in-just-5-years-germanys-deutsche-bank-makes-bold-prediction/articleshow/130599668.cms
+- US stock market today: Dow, S&amp;P 500 futures flat ahead of Fed decision, megacap earnings
+  US stock futures traded flat as investors awaited the Federal Reserve's policy decision and earnings from major tech companies. Concerns over OpenAI's missed targets and rising crude oil prices influenced market sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-flat-ahead-of-fed-decision-megacap-earnings-11777464317387.html
 
-- Banking, financials remain strong play despite near-term volatility: Sunil Subramaniam
-  Crude oil prices and UAE's role in OPEC+ are influencing Indian markets. Experts suggest oil prices may fall in the medium term, easing concerns for India's economy. The banking and financial sector shows resilience, with rural and auto
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/banking-financials-remain-strong-play-despite-near-term-volatility-sunil-subramaniam/articleshow/130599660.cms
+- US Fed Meeting 2026 LIVE: US central bank may hold rates; Powell likely to deliver last policy address as Fed chief
+  Jerome Powell will announce the central bank's rate decision at 11.30 am IST in what will likely be his last policy as Fed chief.
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-updates-jerome-powell-fomc-policy-decision-today-rate-cut-dow-jones-futures-trump-29-april-2026-11777463055412.html
 
-- Star Health shares rally 13% after Q4 net profit soars to Rs 111 crore, beats estimate
-  Star Health and Allied Insurance Company's shares surged over 13% after reporting a significant jump in Q4 FY26 net profit to Rs 111.34 crore. The insurer also saw a 14% year-on-year growth in net
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/star-health-shares-rally-13-after-q4-net-profit-soars-to-rs-111-crore-beats-estimate/articleshow/130599266.cms
+- Bajaj Finance Q4 Results: Net profit rises 22% YoY to  ₹5,465 crore, NII grows 20%; declares  ₹6 final dividend
+  Bajaj Finance reported a 22% increase in consolidated net profit to  ₹5,465 crore for Q4 FY26. Net interest income increased 20
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-q4-results-net-profit-rises-22-yoy-to-rs-5-465-crore-nii-grows-20-declares-rs-6-final-dividend-11777462122428.html
 
-- CEAT shares rally 12% after Q4 net profit soars 145% to Rs 244 crore. Should you buy?
-  CEAT shares surged over 12% after reporting a remarkable 145% jump in Q4 FY26 net profit to Rs 243.85 crore. Revenue also saw a significant 23% rise. Despite geopolitical headwinds, CEAT achieved robust
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ceat-shares-rally-12-after-q4-net-profit-soars-145-to-rs-244-crore-should-you-buy/articleshow/130597637.cms
+- Realty stock Man Infraconstruction jumps 7% after acquiring South Mumbai projects worth  ₹2,000 crore
+  Realty stock Man Infraconstruction rose as much as 7% on Wednesday, 29 April
+  🔗 https://www.livemint.com/market/stock-market-news/realty-stock-man-infraconstruction-jumps-7-after-acquiring-south-mumbai-projects-worth-2-000-crore-11777455686951.html
 
-- Russia ships India’s fourth S-400 system, to be deployed by May end | Exclusive | India News - Hindustan Times
-  Russia ships India’s fourth S-400 system, to be deployed by
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3RiYW9kWjRLUlRQeFdGSUxKaVFpdXZDNElCQlBNdnI2VE9zcEs0bTg2dWQ4YXFvS2ZBeXNGM2xYSDh6ZXJXSDFsSUQ4ZUdTU05GMG5xeXpUNUlxbWplNXZyMjNkdHVyTl9zOW9pX0h5aWxrOTNrZXhvaTkyUGh3eDdiaFNUcG1pbGFrUE9NbTlIbHdyM0hlV0xYY1MyX1Jtcmx1cVBIUDB5SWhHZUMyell1MkthY2VzR0s2T0tiNTNJckZFVjNVd2s0WV9aWmx2Zi1nbTVB0gHbAUFVX3lxTE4wdWZMMHR0NXltY3Z1Mkp1MWkzRUx4QnlRQlFpbml1MUFvVnA1VVJuM3RfUlpYNW5CNi1QU2k4OFpZR2QybFhRY2syazlKTkw4Y3gyOEdRdE1IWXRsekxLTHo1YXRDbkhvU0dPVnFVb0Z3RjEzUUtfOFE2XzB3Qkkza251V2t6UW14Ul9mNjYyWkpsb044OW1meEdWUllId3YyNzVGbGh0WDU4RzduRVpRdTRqTlFNaDFvcFVaTUU1eTh5T0hadGN0VTIyZDd1RzZTOFBjLUVtNE9JNA?oc=5
+- Goa govt unveils draft AI policy with aim to position state as global hub for high-tech innovation
+  Goa govt unveils draft AI policy with aim to
+  🔗 https://www.livemint.com/technology/goa-govt-unveils-draft-ai-policy-with-aim-to-position-state-as-global-hub-for-high-tech-innovation-11777468156601.html
 
-- PETA India, Police Stop Planned Animal Sacrifice At Telangana Temple - NDTV
-  PETA India, Police Stop Planned Animal
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUhDWDNyOXYyV1QxRjJPckVhZ0FqRkN0cC1YZXJGWlZNcmtYLVhSbTI0YWU5WDhoTmlCRmJvZU5mVVAzSU9OQm1WY040QTVLMURiYW5lR0EyN1picTNGZkVPbVRTc1N5ei1fRHVsTmtKc1dRR2tWbjlrVl9aa05xWTh3V0M2Ymh5aWUyaF8tWWZiaVBneEhSOU9GSzg0azVvLTlKNzRQOWZlUUpr0gG0AUFVX3lxTE5OZ0UwOExDNmJ5WTN2YWpBUzR5Y1BsNUluaEY2NzlLbkdQbEdMM0VlZGZETDBtdGEwd2x1LWdrRk9obzJ2T1liZGZTTzlKVml4cWc4YjVYSGdMbWt3bk9rV05aejJLdVFpMUl2VHplTHplTEczTDVsQklGNFZRbTBEa0JhbUlKX2F3bWk0MEx3Vl9BdEZJcWxwdFlMSkVzZ0x3UGpmeGdXVnQ0ZDNkY2tPaW9oSg?oc=5
+- India in talks with US for ‘equitable’ access to Anthropic's Mythos AI model to secure critical infrastructure: Report
+  The Indian government is negotiating with the US for access to Anthropic's
+  🔗 https://www.livemint.com/technology/tech-news/india-in-talks-with-us-for-equitable-access-to-anthropics-mythos-ai-model-to-secure-critical-infrastructure-report-11777452904251.html
 
-- Breaking News Live, April 29: SC says no legislative vacuum on hate speech; existing criminal law adequately deals with offence - The Times of India
-  The Times of India published a front-page story on hate speech in India on April 29. The article
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDV5X1A3dTAtNFp4cXVMMzI5N2ltT0JLdUJxVGwydld0OENuazF1a0tYQjV1RFV4RERfTWdwMG9FaUo4NnR1aFl0bXdWTEJRY2xES05qV0dOWXVRXzExMnl0eGRzMmJRYzBtWE45NW5hQ21XMGlQVnlaQ0xuVFd2Qjdrdi1tUVZiSWJ0OWNzdjJDVzd1XzRLZXRMaVdIMU0wZHphdUJkVDc5dlhkVFNuTFVxbHpzT2RYYUHSAb8BQVVfeXFMTy1aSmwtaHRUR2J4VXU0ejdDQ2c1dHh1aHlDdnBRcldKck9Pd2FlSU1ORTJNNjZ6cU9JSzR1WUdzSkthSnhtUVVJQ1pobFAtWGstOEJpX0d0bDJkcnc1dkpybVduRFpFM0FfenJkRzRNaTByX2dCY05abWRLb3NOem9GZjlDa05GdE1FbjVfTlJPOGtoMWJJRlFhalRkdEVKbEZQN3FGU21KZjhLcUhMQXBWMVFfSHhPcTJHd0V3UEU?oc=5
+- Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works
+  Anthropic has upgraded its Claude AI assistant with new connectors for Adobe Creative Cloud, Blender, and Autodesk among other apps. The
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-brings-photoshop-premiere-pro-blender-and-more-creative-apps-to-claude-heres-how-it-works-11777446026016.html
 
-- India sounds alarm, demands fair access to Anthropic's Mythos AI - India Today
-  India sounds alarm, demands fair access to Anthrop
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY045ZTB4aHpLTk4yUlM4TU9iOGdDRnM5cDg4OXdab0pfd0loeEg2QVFseXlmcHhtY3A0S1o2eWV2YTRLdFcxOTB6Vjh5WXB5MFBpOUhmcmdKU0Jid1o0d3JoMmowMS1Ha0QwNnJIMUNrRDA0b0pPU2ZDdXpUNERMY0V4TWZodHp1S0hlM1NpdHFsMlVzMllXbWFqNHRXMUNvM2ZsOGZ3NXNmT1pjbHpnczZzWjkzNWZINWFKTURVQVY1MXFrVGNXa9IBzgFBVV95cUxQd01ncHVOYnZpWDZ3eVNCWERLYUk4NkhyVVNocURxSm5EYlR3VkdMTjRQX1VxMW4yV3NhSnZwSDdMb09sdTk1WUdEZU1kbU1qcnM5VHFHWXQ2R1pFdlptUTRjZWJQX2NMS25kZWlZTndJWXdfeV9oQTZqakFKSnlSQ2ZWOGs1Z05hYk5OZmJOS0dfNXJHZFFicW5mMWRVVi1wNGNwMnM3cG9BT3lVaDQzT21lMlJ5RnZiRGtBTy1KNHNHYXQxWkIzZmVMdUgtQQ?oc=5
+- Why did OpenAI ban its Codex AI from talking about ‘goblins’ and ‘gremlins’? New guardrails revealed
+  OpenAI has implemented unusual guardrails in its Codex tool to prevent discussions about mythical
+  🔗 https://www.livemint.com/technology/tech-news/why-did-openai-ban-its-codex-ai-from-talking-about-goblins-and-gremlins-new-guardrails-revealed-11777428641794.html
 
-- Uttar Pradesh: In India's 'glass city' Firozabad, the Iran war is threatening jobs - BBC
-  Uttar Pradesh: In India's 'glass city
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zYldHQTA1WmtWOXVjSE9zZXVZQlFLZ2M3dzRiZ2tLR21UVWNEbWpHbHhycXZGMnRHMUNDOHFiR2FGazBsOGhRX01hM3JGTVQ4bTdoUW5rTnM4Zw?oc=5
+- Apple to finally catch up with Samsung and Google, plans to bring 3 new AI editing features to Photos app: Report
+  The new tools could include Extend, Enhance, and Reframe. Apple is set to enhance its photo-editing tools for
+  🔗 https://www.livemint.com/technology/tech-news/apple-to-finally-catch-up-with-samsung-and-google-plans-to-bring-4-new-ai-editing-features-to-photos-app-report-11777431321049.html
 
-- Russia ships India’s fourth S-400 system, to be deployed by May end | Exclusive | India News - Hindustan Times
-  Russia ships India’s fourth S-400 system, to be deployed by
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3RiYW9kWjRLUlRQeFdGSUxKaVFpdXZDNElCQlBNdnI2VE9zcEs0bTg2dWQ4YXFvS2ZBeXNGM2xYSDh6ZXJXSDFsSUQ4ZUdTU05GMG5xeXpUNUlxbWplNXZyMjNkdHVyTl9zOW9pX0h5aWxrOTNrZXhvaTkyUGh3eDdiaFNUcG1pbGFrUE9NbTlIbHdyM0hlV0xYY1MyX1Jtcmx1cVBIUDB5SWhHZUMyell1MkthY2VzR0s2T0tiNTNJckZFVjNVd2s0WV9aWmx2Zi1nbTVB0gHbAUFVX3lxTE4wdWZMMHR0NXltY3Z1Mkp1MWkzRUx4QnlRQlFpbml1MUFvVnA1VVJuM3RfUlpYNW5CNi1QU2k4OFpZR2QybFhRY2syazlKTkw4Y3gyOEdRdE1IWXRsekxLTHo1YXRDbkhvU0dPVnFVb0Z3RjEzUUtfOFE2XzB3Qkkza251V2t6UW14Ul9mNjYyWkpsb044OW1meEdWUllId3YyNzVGbGh0WDU4RzduRVpRdTRqTlFNaDFvcFVaTUU1eTh5T0hadGN0VTIyZDd1RzZTOFBjLUVtNE9JNA?oc=5
+- S&P 500 futures are flat as oil rises, traders brace for Fed decision and Big Tech earnings: Live updates - CNBC
+  S&amp;P 500 futures are flat as oil rises, traders brace for Fed decision. Big Tech earnings: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5
 
-- PETA India, Police Stop Planned Animal Sacrifice At Telangana Temple - NDTV
-  PETA India, Police Stop Planned Animal
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUhDWDNyOXYyV1QxRjJPckVhZ0FqRkN0cC1YZXJGWlZNcmtYLVhSbTI0YWU5WDhoTmlCRmJvZU5mVVAzSU9OQm1WY040QTVLMURiYW5lR0EyN1picTNGZkVPbVRTc1N5ei1fRHVsTmtKc1dRR2tWbjlrVl9aa05xWTh3V0M2Ymh5aWUyaF8tWWZiaVBneEhSOU9GSzg0azVvLTlKNzRQOWZlUUpr0gG0AUFVX3lxTE5OZ0UwOExDNmJ5WTN2YWpBUzR5Y1BsNUluaEY2NzlLbkdQbEdMM0VlZGZETDBtdGEwd2x1LWdrRk9obzJ2T1liZGZTTzlKVml4cWc4YjVYSGdMbWt3bk9rV05aejJLdVFpMUl2VHplTHplTEczTDVsQklGNFZRbTBEa0JhbUlKX2F3bWk0MEx3Vl9BdEZJcWxwdFlMSkVzZ0x3UGpmeGdXVnQ0ZDNkY2tPaW9oSg?oc=5
+- Stock Market Highlights: Sensex Closes 600 Points Higher Despite Rise In Oil Prices - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblhCTmNYNTc1cnlUUi1xckpZcWNpa04wMXE2UlJ1YVkxNDNmNjZ4V25MNm93QVd1LTZQTjd1aGRoWVoyd3VKVG1XVU1CYUNqbXhBMmRVUTVDeEtrME90TktJSFJyelkzeF
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblhCTmNYNTc1cnlUUi1xckpZcWNpa04wMXE2UlJ1YVkxNDNmNjZ4V25MNm93QVd1LTZQTjd1aGRoWVoyd3VKVG1XVU1CYUNqbXhBMmRVUTVDeEtrME90TktJSFJyelkzeFpKM1JDTk9kR2luX1lGMmxLZkk5YkI0OUZvVE1yV2xFU2piYUhyS2tmRkNiLUVkbmRUWjBDWGVOeWR0dXZVa2tGczdIOWdfempPOTdoWWxQS19PdVV0a1M1cDdxRDhKSmUxVWcyYUc0aU83TkF3V2tiMm9QNGJmT1VR0gHqAUFVX3lxTE9kUVNPZUhIS2xWS0EwN0Q1N1VHV1NMalZiT3RuT1hCcnVSWkRseTlfVHhleVZSRi14OHVGaC11ZGVsSGVkN0R4SXNyNG0wcC1HSzVoNEtVb1ZMbjY2aEJMbDMwZVZRTVQySi1ZNGZHaWN6ZXZCS1AyczBPb3VpejB6U0VjckNSUVRmM3hCUUtnVGQ0aTVoaEpsNlRWc1IweHI3SzhoQ25FOFN6dk9jSjRDN2JJOHA0QzN3YnFoMExJV3pLYlVETDVTdjltNGNtTzhsbHNJU2hxOXpCcmxnOFlxcFNOZ01qd004dw?oc=5
 
-- Breaking News Live, April 29: SC says no legislative vacuum on hate speech; existing criminal law adequately deals with offence - The Times of India
-  The Times of India published a front-page story on hate speech in India on April 29. The article
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDV5X1A3dTAtNFp4cXVMMzI5N2ltT0JLdUJxVGwydld0OENuazF1a0tYQjV1RFV4RERfTWdwMG9FaUo4NnR1aFl0bXdWTEJRY2xES05qV0dOWXVRXzExMnl0eGRzMmJRYzBtWE45NW5hQ21XMGlQVnlaQ0xuVFd2Qjdrdi1tUVZiSWJ0OWNzdjJDVzd1XzRLZXRMaVdIMU0wZHphdUJkVDc5dlhkVFNuTFVxbHpzT2RYYUHSAb8BQVVfeXFMTy1aSmwtaHRUR2J4VXU0ejdDQ2c1dHh1aHlDdnBRcldKck9Pd2FlSU1ORTJNNjZ6cU9JSzR1WUdzSkthSnhtUVVJQ1pobFAtWGstOEJpX0d0bDJkcnc1dkpybVduRFpFM0FfenJkRzRNaTByX2dCY05abWRLb3NOem9GZjlDa05GdE1FbjVfTlJPOGtoMWJJRlFhalRkdEVKbEZQN3FGU21KZjhLcUhMQXBWMVFfSHhPcTJHd0V3UEU?oc=5
+- The growing impact of political risk on financial markets - Bruegel
+  The growing impact of political risk on
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWhhX1JQY0NrRlJBWmlBQ0t1Yi02bzg0QTNIdUFzY1ZHZXNUUXl3bjRWTkEwSHdTUFBJSDBhTnZlVzk1a2VhVTEyaXpLUnU1b2RqQmF2dVMwU3hxNHJaWmN0OHFrZ21GWGtKVTF6MzB2amp0XzBNUTE3SkhnZWRPT1VJUFVETjg?oc=5
 
-- India sounds alarm, demands fair access to Anthropic's Mythos AI - India Today
-  India sounds alarm, demands fair access to Anthrop
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY045ZTB4aHpLTk4yUlM4TU9iOGdDRnM5cDg4OXdab0pfd0loeEg2QVFseXlmcHhtY3A0S1o2eWV2YTRLdFcxOTB6Vjh5WXB5MFBpOUhmcmdKU0Jid1o0d3JoMmowMS1Ha0QwNnJIMUNrRDA0b0pPU2ZDdXpUNERMY0V4TWZodHp1S0hlM1NpdHFsMlVzMllXbWFqNHRXMUNvM2ZsOGZ3NXNmT1pjbHpnczZzWjkzNWZINWFKTURVQVY1MXFrVGNXa9IBzgFBVV95cUxQd01ncHVOYnZpWDZ3eVNCWERLYUk4NkhyVVNocURxSm5EYlR3VkdMTjRQX1VxMW4yV3NhSnZwSDdMb09sdTk1WUdEZU1kbU1qcnM5VHFHWXQ2R1pFdlptUTRjZWJQX2NMS25kZWlZTndJWXdfeV9oQTZqakFKSnlSQ2ZWOGs1Z05hYk5OZmJOS0dfNXJHZFFicW5mMWRVVi1wNGNwMnM3cG9BT3lVaDQzT21lMlJ5RnZiRGtBTy1KNHNHYXQxWkIzZmVMdUgtQQ?oc=5
+- UAE's OPEC exit may not hit oil markets, say executives - The Economic Times
+  UAE's OPEC exit may not hit oil markets
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNOGdDbkdsZHlYYnBaV2hINU1zUE5ET2RmNFppaUhicVZJRnVJZEJsbUc1bHpsdTFFdjI2WGJXc0kzMUV6V29EWXZrVzJYaUxLYzc2eHhISi10RjNOMExVYnhJbFlQTDF0TGU1cThCcnM2a0hkc0ZMRWZyYXhhZkYtMF8wdWJRSEpkYmRwQTA2M2FVc1RiU2VOOHV4OXc1SFdCNlp3bVVXTFo0eThPRDNtN0dWdFNnVXU3czlGMHc1d19RdFRoY1k3MFQ2d9IB0AFBVV95cUxOLWFWRUlzb0FQZFhXVU53UXNRTXlfaTRkbTlqdDZ5RmZPMmJlNFVlZl9SbVV3SnVZbjBkdzlsR21fUFVrRjk2U1lHUVhUYXdJSmFLN0NwdlY3cjhrX1FfZEE5V2duNVFuSThNOEgxa1h5cmVpc19BVEhIR2ktSUNwTExjeHRiVGNyNk5FZmJqcFR1a2FvTmVUUHQydVAzQ0N6OW5Cb3FfSlpVblJLWml0VEFodlBkRlM0ekN6N2tBeFZFYS1ZSnM4SWpqMDdDUW0w?oc=5
 
-- Uttar Pradesh: In India's 'glass city' Firozabad, the Iran war is threatening jobs - BBC
-  Uttar Pradesh: In India's 'glass city
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zYldHQTA1WmtWOXVjSE9zZXVZQlFLZ2M3dzRiZ2tLR21UVWNEbWpHbHhycXZGMnRHMUNDOHFiR2FGazBsOGhRX01hM3JGTVQ4bTdoUW5rTnM4Zw?oc=5
+- UAE's departure from the OPEC oil cartel is not without precedence. Who could be next? - CNBC
+  UAE's departure from the OPEC oil cartel is not without precedence
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE51Y0JZaHBRNDhBXzU2ZEhfMUI1eXgwZ1Ata0l6WlBhZ2NVbVhVTWViY2IybUNOemhVdllPdE5La2ltZ25VNmc5TW9CTFZxbVM5WlA1d0tMVW4wN0swTHl0bGNOMF9rMHNiN3FEN3pMamnSAXZBVV95cUxNcGluYnlGR29TWFJydk1SRXFqYVV1U0p5R1M0SHR0SFVLMGFJSnlITHpiZGtrY3U1X01NVkdLWVJOQ2o2RjF6RGVmbERiNjN2OGF0SGpPeThnaEZ1XzB2cS1uZEpJdVVwSl9WblR5T2k1d00zT1BR?oc=5
 
-- Russia ships India’s fourth S-400 system, to be deployed by May end | Exclusive | India News - Hindustan Times
-  Russia ships India’s fourth S-400 system, to be deployed by
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3RiYW9kWjRLUlRQeFdGSUxKaVFpdXZDNElCQlBNdnI2VE9zcEs0bTg2dWQ4YXFvS2ZBeXNGM2xYSDh6ZXJXSDFsSUQ4ZUdTU05GMG5xeXpUNUlxbWplNXZyMjNkdHVyTl9zOW9pX0h5aWxrOTNrZXhvaTkyUGh3eDdiaFNUcG1pbGFrUE9NbTlIbHdyM0hlV0xYY1MyX1Jtcmx1cVBIUDB5SWhHZUMyell1MkthY2VzR0s2T0tiNTNJckZFVjNVd2s0WV9aWmx2Zi1nbTVB0gHbAUFVX3lxTE4wdWZMMHR0NXltY3Z1Mkp1MWkzRUx4QnlRQlFpbml1MUFvVnA1VVJuM3RfUlpYNW5CNi1QU2k4OFpZR2QybFhRY2syazlKTkw4Y3gyOEdRdE1IWXRsekxLTHo1YXRDbkhvU0dPVnFVb0Z3RjEzUUtfOFE2XzB3Qkkza251V2t6UW14Ul9mNjYyWkpsb044OW1meEdWUllId3YyNzVGbGh0WDU4RzduRVpRdTRqTlFNaDFvcFVaTUU1eTh5T0hadGN0VTIyZDd1RzZTOFBjLUVtNE9JNA?oc=5
+- Insurance firms cut stakes in 10 large-cap stocks in Q4 FY26
+  Insurance companies reduced their stakes in top NSE large-cap stocks from December 2025 to March 2026. This decline, observed in companies like ICICI Bank and State
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/insurance-firms-cut-stakes-in-10-large-cap-stocks-in-q4-fy26/articleshow/130608219.cms
 
-- PETA India, Police Stop Planned Animal Sacrifice At Telangana Temple - NDTV
-  PETA India, Police Stop Planned Animal
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUhDWDNyOXYyV1QxRjJPckVhZ0FqRkN0cC1YZXJGWlZNcmtYLVhSbTI0YWU5WDhoTmlCRmJvZU5mVVAzSU9OQm1WY040QTVLMURiYW5lR0EyN1picTNGZkVPbVRTc1N5ei1fRHVsTmtKc1dRR2tWbjlrVl9aa05xWTh3V0M2Ymh5aWUyaF8tWWZiaVBneEhSOU9GSzg0azVvLTlKNzRQOWZlUUpr0gG0AUFVX3lxTE5OZ0UwOExDNmJ5WTN2YWpBUzR5Y1BsNUluaEY2NzlLbkdQbEdMM0VlZGZETDBtdGEwd2x1LWdrRk9obzJ2T1liZGZTTzlKVml4cWc4YjVYSGdMbWt3bk9rV05aejJLdVFpMUl2VHplTHplTEczTDVsQklGNFZRbTBEa0JhbUlKX2F3bWk0MEx3Vl9BdEZJcWxwdFlMSkVzZ0x3UGpmeGdXVnQ0ZDNkY2tPaW9oSg?oc=5
+- Quote of the day by Peter Cundill: "The mantra is patience, patience and more patience. Think long-term and remember that the big rewards accrue with compound annual rates of return."
+  Successful investing hinges on patience and long-term thinking, not quick gains. By remaining disciplined through market volatility, investors can achieve greater financial success and build resilience.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-peter-cundill-the-mantra-is-patience-patience-and-more-patience-think-long-term-and-remember-that-the-big-rewards-accrue-with-compound-annual-rates-of-return-/articleshow/130596295.cms
 
-- Breaking News Live, April 29: SC says no legislative vacuum on hate speech; existing criminal law adequately deals with offence - The Times of India
-  The Times of India published a front-page story on hate speech in India on April 29. The article
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDV5X1A3dTAtNFp4cXVMMzI5N2ltT0JLdUJxVGwydld0OENuazF1a0tYQjV1RFV4RERfTWdwMG9FaUo4NnR1aFl0bXdWTEJRY2xES05qV0dOWXVRXzExMnl0eGRzMmJRYzBtWE45NW5hQ21XMGlQVnlaQ0xuVFd2Qjdrdi1tUVZiSWJ0OWNzdjJDVzd1XzRLZXRMaVdIMU0wZHphdUJkVDc5dlhkVFNuTFVxbHpzT2RYYUHSAb8BQVVfeXFMTy1aSmwtaHRUR2J4VXU0ejdDQ2c1dHh1aHlDdnBRcldKck9Pd2FlSU1ORTJNNjZ6cU9JSzR1WUdzSkthSnhtUVVJQ1pobFAtWGstOEJpX0d0bDJkcnc1dkpybVduRFpFM0FfenJkRzRNaTByX2dCY05abWRLb3NOem9GZjlDa05GdE1FbjVfTlJPOGtoMWJJRlFhalRkdEVKbEZQN3FGU21KZjhLcUhMQXBWMVFfSHhPcTJHd0V3UEU?oc=5
+- FED Meeting Live | Dow Jones | US Stock Market Live: US futures mixed ahead of Big Tech earnings, Fed meet
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-us-stock-market-today-dow-jones-nasdaq-sp-500-jerome-powell-fomc-meet-rate-cut-outlook-iran-israel-war-earnings-stock-news/liveblog/130607038.cms
 
-- India sounds alarm, demands fair access to Anthropic's Mythos AI - India Today
-  India sounds alarm, demands fair access to Anthrop
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY045ZTB4aHpLTk4yUlM4TU9iOGdDRnM5cDg4OXdab0pfd0loeEg2QVFseXlmcHhtY3A0S1o2eWV2YTRLdFcxOTB6Vjh5WXB5MFBpOUhmcmdKU0Jid1o0d3JoMmowMS1Ha0QwNnJIMUNrRDA0b0pPU2ZDdXpUNERMY0V4TWZodHp1S0hlM1NpdHFsMlVzMllXbWFqNHRXMUNvM2ZsOGZ3NXNmT1pjbHpnczZzWjkzNWZINWFKTURVQVY1MXFrVGNXa9IBzgFBVV95cUxQd01ncHVOYnZpWDZ3eVNCWERLYUk4NkhyVVNocURxSm5EYlR3VkdMTjRQX1VxMW4yV3NhSnZwSDdMb09sdTk1WUdEZU1kbU1qcnM5VHFHWXQ2R1pFdlptUTRjZWJQX2NMS25kZWlZTndJWXdfeV9oQTZqakFKSnlSQ2ZWOGs1Z05hYk5OZmJOS0dfNXJHZFFicW5mMWRVVi1wNGNwMnM3cG9BT3lVaDQzT21lMlJ5RnZiRGtBTy1KNHNHYXQxWkIzZmVMdUgtQQ?oc=5
+- Indian bonds slip as oil surges, Fed outcome looms
+  Indian government bonds fell on Wednesday as oil prices stoked inflation and supply concerns ahead of the Federal Reserve's policy
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-oil-surges-fed-outcome-looms/articleshow/130606758.cms
 
-- Uttar Pradesh: In India's 'glass city' Firozabad, the Iran war is threatening jobs - BBC
-  Uttar Pradesh: In India's 'glass city
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zYldHQTA1WmtWOXVjSE9zZXVZQlFLZ2M3dzRiZ2tLR21UVWNEbWpHbHhycXZGMnRHMUNDOHFiR2FGazBsOGhRX01hM3JGTVQ4bTdoUW5rTnM4Zw?oc=5
+- Nifty headed higher, broader market stays strong: Vinay Rajani picks Oil India &amp; Reliance
+  Vinay Rajani of HDFC Securities highlights Nifty's resilience, noting a healthy correction followed by a resumption of its upward trend. He observes exceptional broader market participation, with micro and small-cap indices showing significant gains.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-headed-higher-broader-market-stays-strong-vinay-rajani-picks-oil-india-reliance/articleshow/130606543.cms
 
-- Russia ships India’s fourth S-400 system, to be deployed by May end | Exclusive | India News - Hindustan Times
-  Russia ships India’s fourth S-400 system, to be deployed by
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3RiYW9kWjRLUlRQeFdGSUxKaVFpdXZDNElCQlBNdnI2VE9zcEs0bTg2dWQ4YXFvS2ZBeXNGM2xYSDh6ZXJXSDFsSUQ4ZUdTU05GMG5xeXpUNUlxbWplNXZyMjNkdHVyTl9zOW9pX0h5aWxrOTNrZXhvaTkyUGh3eDdiaFNUcG1pbGFrUE9NbTlIbHdyM0hlV0xYY1MyX1Jtcmx1cVBIUDB5SWhHZUMyell1MkthY2VzR0s2T0tiNTNJckZFVjNVd2s0WV9aWmx2Zi1nbTVB0gHbAUFVX3lxTE4wdWZMMHR0NXltY3Z1Mkp1MWkzRUx4QnlRQlFpbml1MUFvVnA1VVJuM3RfUlpYNW5CNi1QU2k4OFpZR2QybFhRY2syazlKTkw4Y3gyOEdRdE1IWXRsekxLTHo1YXRDbkhvU0dPVnFVb0Z3RjEzUUtfOFE2XzB3Qkkza251V2t6UW14Ul9mNjYyWkpsb044OW1meEdWUllId3YyNzVGbGh0WDU4RzduRVpRdTRqTlFNaDFvcFVaTUU1eTh5T0hadGN0VTIyZDd1RzZTOFBjLUVtNE9JNA?oc=5
+- US restitutes 657 stolen antiquities to India - The Times of India
+  US restitutes 657 stolen antiquities
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFqYmY0bzI0STNXMU9vcnQxMUlzRDM2Zm0wenk5VkFxRFZEQ1RBNzFxQVNNelFOUGhacXJiMTF0VWQyYzczdGdCTVFuenFlYVY2SUpTZWVmM1hvUkRKdV9XR3VjQVNKd0JFY0gxbXF5UWlGeFZtNEJ5RzVkWHg2UTBNVTJKeGxMc2tYWmtid1VIWlBFOXd1cjJtcXE1dGlUVURRUlpWLURmbkxGdDBHUDNLSnJ4cHFTX3VxONIBwgFBVV95cUxNUlJZb1p1VzJOcHBxaklXTXpyNW5zLW9WWHR0bEsyb2VlTHAxMUtucEJlRzVhdGw2NTh5WEtFYU1PemRWU3YtSC1SLTNMN01fYTFrRHFZR3I0Rm1PNENadEV0V3hEQ05ybG1XR2NtVlE0THNJZFZ0NVJ5dDJMQWZyRmdXWTFrNlNzX21QYzJfckxVOEh6ZVB0NmFvd3RyemliZG5hTE9STmJyWG9aR2pPTVlua0dGVTVJc0hqTXdBUlhHZw?oc=5
 
-- PETA India, Police Stop Planned Animal Sacrifice At Telangana Temple - NDTV
-  PETA India, Police Stop Planned Animal
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUhDWDNyOXYyV1QxRjJPckVhZ0FqRkN0cC1YZXJGWlZNcmtYLVhSbTI0YWU5WDhoTmlCRmJvZU5mVVAzSU9OQm1WY040QTVLMURiYW5lR0EyN1picTNGZkVPbVRTc1N5ei1fRHVsTmtKc1dRR2tWbjlrVl9aa05xWTh3V0M2Ymh5aWUyaF8tWWZiaVBneEhSOU9GSzg0azVvLTlKNzRQOWZlUUpr0gG0AUFVX3lxTE5OZ0UwOExDNmJ5WTN2YWpBUzR5Y1BsNUluaEY2NzlLbkdQbEdMM0VlZGZETDBtdGEwd2x1LWdrRk9obzJ2T1liZGZTTzlKVml4cWc4YjVYSGdMbWt3bk9rV05aejJLdVFpMUl2VHplTHplTEczTDVsQklGNFZRbTBEa0JhbUlKX2F3bWk0MEx3Vl9BdEZJcWxwdFlMSkVzZ0x3UGpmeGdXVnQ0ZDNkY2tPaW9oSg?oc=5
+- India news: High voter turnout in West Bengal elections - DW.com
+  India news: High voter turnout in
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
 
-- Breaking News Live, April 29: SC says no legislative vacuum on hate speech; existing criminal law adequately deals with offence - The Times of India
-  The Times of India published a front-page story on hate speech in India on April 29. The article
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDV5X1A3dTAtNFp4cXVMMzI5N2ltT0JLdUJxVGwydld0OENuazF1a0tYQjV1RFV4RERfTWdwMG9FaUo4NnR1aFl0bXdWTEJRY2xES05qV0dOWXVRXzExMnl0eGRzMmJRYzBtWE45NW5hQ21XMGlQVnlaQ0xuVFd2Qjdrdi1tUVZiSWJ0OWNzdjJDVzd1XzRLZXRMaVdIMU0wZHphdUJkVDc5dlhkVFNuTFVxbHpzT2RYYUHSAb8BQVVfeXFMTy1aSmwtaHRUR2J4VXU0ejdDQ2c1dHh1aHlDdnBRcldKck9Pd2FlSU1ORTJNNjZ6cU9JSzR1WUdzSkthSnhtUVVJQ1pobFAtWGstOEJpX0d0bDJkcnc1dkpybVduRFpFM0FfenJkRzRNaTByX2dCY05abWRLb3NOem9GZjlDa05GdE1FbjVfTlJPOGtoMWJJRlFhalRkdEVKbEZQN3FGU21KZjhLcUhMQXBWMVFfSHhPcTJHd0V3UEU?oc=5
+- New Zealand PM Christopher Luxon Calls India-New Zealand FTA a Once-in-a-Generation Opportunity - News On AIR
+  New Zealand PM Christopher Luxon calls India-New Zealand FTA
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXpZUFZLMWNrcXVSaXRrT05FdExQTks2SkpoNmpJVk9LRlNSa1hmbTEySEVBY3VValFEbWhVdk9uWDduMzZ1Yy1kOVFZekdPRzJIY0JkQXNWTVlhUWgtRzJJaWl4S0U4dngyMktnWVBBNXFteS1YdkJBa0t5WEUtQUtVeGdFRUtjOUxqQndoUlVlUlB5ZE11YUVzTnI5VllaT2stSHZUN3plM3hfOTFFb2oybEh0TFVmcVU1WWpBd3Rpemc?oc=5
 
-- India sounds alarm, demands fair access to Anthropic's Mythos AI - India Today
-  India sounds alarm, demands fair access to Anthrop
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY045ZTB4aHpLTk4yUlM4TU9iOGdDRnM5cDg4OXdab0pfd0loeEg2QVFseXlmcHhtY3A0S1o2eWV2YTRLdFcxOTB6Vjh5WXB5MFBpOUhmcmdKU0Jid1o0d3JoMmowMS1Ha0QwNnJIMUNrRDA0b0pPU2ZDdXpUNERMY0V4TWZodHp1S0hlM1NpdHFsMlVzMllXbWFqNHRXMUNvM2ZsOGZ3NXNmT1pjbHpnczZzWjkzNWZINWFKTURVQVY1MXFrVGNXa9IBzgFBVV95cUxQd01ncHVOYnZpWDZ3eVNCWERLYUk4NkhyVVNocURxSm5EYlR3VkdMTjRQX1VxMW4yV3NhSnZwSDdMb09sdTk1WUdEZU1kbU1qcnM5VHFHWXQ2R1pFdlptUTRjZWJQX2NMS25kZWlZTndJWXdfeV9oQTZqakFKSnlSQ2ZWOGs1Z05hYk5OZmJOS0dfNXJHZFFicW5mMWRVVi1wNGNwMnM3cG9BT3lVaDQzT21lMlJ5RnZiRGtBTy1KNHNHYXQxWkIzZmVMdUgtQQ?oc=5
+- 2026 Poll Of Exit Polls: All Eyes On Bengal, Tamil Nadu, Kerala, Assam And Puducherry - NDTV
+  2026 Poll Of Exit Polls: All Eyes On Bengal,
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTS1pRm9SNnVLU2lSdHJneklpcUpFS1U3M3lmYzVMWGJuR0ROaXVFTEc4Wk1MYjBfMmlPSVc4U1RJRWhMQUJrVHVKcVVmZ3FGSlI1Qy1PMlhBTmNkVW05eEJFT0tlQy1nTVdNbVYyUVpvQVdpUnJTRFNXX1NUeGdlaERscHBfTkhETmw4ZUNrT2tYYzdrNFVqallpcHQxWlpfX0lLOW13bTBLbm81d211akNXemdWbGMzYVppcjItMU1VNFdCNHIxZl9UdmF1eW1oWllxQTN6S2dxYVpiMFFBbURiUWxfNlhVZXlaUw?oc=5
 
-- Uttar Pradesh: In India's 'glass city' Firozabad, the Iran war is threatening jobs - BBC
-  Uttar Pradesh: In India's 'glass city
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zYldHQTA1WmtWOXVjSE9zZXVZQlFLZ2M3dzRiZ2tLR21UVWNEbWpHbHhycXZGMnRHMUNDOHFiR2FGazBsOGhRX01hM3JGTVQ4bTdoUW5rTnM4Zw?oc=5
+- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
+  Indian man carries his sister's skeleton to a bank to prove her
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
+
+- US restitutes 657 stolen antiquities to India - The Times of India
+  US restitutes 657 stolen antiquities
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFqYmY0bzI0STNXMU9vcnQxMUlzRDM2Zm0wenk5VkFxRFZEQ1RBNzFxQVNNelFOUGhacXJiMTF0VWQyYzczdGdCTVFuenFlYVY2SUpTZWVmM1hvUkRKdV9XR3VjQVNKd0JFY0gxbXF5UWlGeFZtNEJ5RzVkWHg2UTBNVTJKeGxMc2tYWmtid1VIWlBFOXd1cjJtcXE1dGlUVURRUlpWLURmbkxGdDBHUDNLSnJ4cHFTX3VxONIBwgFBVV95cUxNUlJZb1p1VzJOcHBxaklXTXpyNW5zLW9WWHR0bEsyb2VlTHAxMUtucEJlRzVhdGw2NTh5WEtFYU1PemRWU3YtSC1SLTNMN01fYTFrRHFZR3I0Rm1PNENadEV0V3hEQ05ybG1XR2NtVlE0THNJZFZ0NVJ5dDJMQWZyRmdXWTFrNlNzX21QYzJfckxVOEh6ZVB0NmFvd3RyemliZG5hTE9STmJyWG9aR2pPTVlua0dGVTVJc0hqTXdBUlhHZw?oc=5
+
+- India news: High voter turnout in West Bengal elections - DW.com
+  India news: High voter turnout in
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
+
+- New Zealand PM Christopher Luxon Calls India-New Zealand FTA a Once-in-a-Generation Opportunity - News On AIR
+  New Zealand PM Christopher Luxon calls India-New Zealand FTA
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXpZUFZLMWNrcXVSaXRrT05FdExQTks2SkpoNmpJVk9LRlNSa1hmbTEySEVBY3VValFEbWhVdk9uWDduMzZ1Yy1kOVFZekdPRzJIY0JkQXNWTVlhUWgtRzJJaWl4S0U4dngyMktnWVBBNXFteS1YdkJBa0t5WEUtQUtVeGdFRUtjOUxqQndoUlVlUlB5ZE11YUVzTnI5VllaT2stSHZUN3plM3hfOTFFb2oybEh0TFVmcVU1WWpBd3Rpemc?oc=5
+
+- 2026 Poll Of Exit Polls: All Eyes On Bengal, Tamil Nadu, Kerala, Assam And Puducherry - NDTV
+  2026 Poll Of Exit Polls: All Eyes On Bengal,
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTS1pRm9SNnVLU2lSdHJneklpcUpFS1U3M3lmYzVMWGJuR0ROaXVFTEc4Wk1MYjBfMmlPSVc4U1RJRWhMQUJrVHVKcVVmZ3FGSlI1Qy1PMlhBTmNkVW05eEJFT0tlQy1nTVdNbVYyUVpvQVdpUnJTRFNXX1NUeGdlaERscHBfTkhETmw4ZUNrT2tYYzdrNFVqallpcHQxWlpfX0lLOW13bTBLbm81d211akNXemdWbGMzYVppcjItMU1VNFdCNHIxZl9UdmF1eW1oWllxQTN6S2dxYVpiMFFBbURiUWxfNlhVZXlaUw?oc=5
+
+- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
+  Indian man carries his sister's skeleton to a bank to prove her
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
+
+- US restitutes 657 stolen antiquities to India - The Times of India
+  US restitutes 657 stolen antiquities
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFqYmY0bzI0STNXMU9vcnQxMUlzRDM2Zm0wenk5VkFxRFZEQ1RBNzFxQVNNelFOUGhacXJiMTF0VWQyYzczdGdCTVFuenFlYVY2SUpTZWVmM1hvUkRKdV9XR3VjQVNKd0JFY0gxbXF5UWlGeFZtNEJ5RzVkWHg2UTBNVTJKeGxMc2tYWmtid1VIWlBFOXd1cjJtcXE1dGlUVURRUlpWLURmbkxGdDBHUDNLSnJ4cHFTX3VxONIBwgFBVV95cUxNUlJZb1p1VzJOcHBxaklXTXpyNW5zLW9WWHR0bEsyb2VlTHAxMUtucEJlRzVhdGw2NTh5WEtFYU1PemRWU3YtSC1SLTNMN01fYTFrRHFZR3I0Rm1PNENadEV0V3hEQ05ybG1XR2NtVlE0THNJZFZ0NVJ5dDJMQWZyRmdXWTFrNlNzX21QYzJfckxVOEh6ZVB0NmFvd3RyemliZG5hTE9STmJyWG9aR2pPTVlua0dGVTVJc0hqTXdBUlhHZw?oc=5
+
+- India news: High voter turnout in West Bengal elections - DW.com
+  India news: High voter turnout in
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
+
+- New Zealand PM Christopher Luxon Calls India-New Zealand FTA a Once-in-a-Generation Opportunity - News On AIR
+  New Zealand PM Christopher Luxon calls India-New Zealand FTA
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXpZUFZLMWNrcXVSaXRrT05FdExQTks2SkpoNmpJVk9LRlNSa1hmbTEySEVBY3VValFEbWhVdk9uWDduMzZ1Yy1kOVFZekdPRzJIY0JkQXNWTVlhUWgtRzJJaWl4S0U4dngyMktnWVBBNXFteS1YdkJBa0t5WEUtQUtVeGdFRUtjOUxqQndoUlVlUlB5ZE11YUVzTnI5VllaT2stSHZUN3plM3hfOTFFb2oybEh0TFVmcVU1WWpBd3Rpemc?oc=5
+
+- 2026 Poll Of Exit Polls: All Eyes On Bengal, Tamil Nadu, Kerala, Assam And Puducherry - NDTV
+  2026 Poll Of Exit Polls: All Eyes On Bengal,
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTS1pRm9SNnVLU2lSdHJneklpcUpFS1U3M3lmYzVMWGJuR0ROaXVFTEc4Wk1MYjBfMmlPSVc4U1RJRWhMQUJrVHVKcVVmZ3FGSlI1Qy1PMlhBTmNkVW05eEJFT0tlQy1nTVdNbVYyUVpvQVdpUnJTRFNXX1NUeGdlaERscHBfTkhETmw4ZUNrT2tYYzdrNFVqallpcHQxWlpfX0lLOW13bTBLbm81d211akNXemdWbGMzYVppcjItMU1VNFdCNHIxZl9UdmF1eW1oWllxQTN6S2dxYVpiMFFBbURiUWxfNlhVZXlaUw?oc=5
+
+- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
+  Indian man carries his sister's skeleton to a bank to prove her
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
+
+- US restitutes 657 stolen antiquities to India - The Times of India
+  US restitutes 657 stolen antiquities
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFqYmY0bzI0STNXMU9vcnQxMUlzRDM2Zm0wenk5VkFxRFZEQ1RBNzFxQVNNelFOUGhacXJiMTF0VWQyYzczdGdCTVFuenFlYVY2SUpTZWVmM1hvUkRKdV9XR3VjQVNKd0JFY0gxbXF5UWlGeFZtNEJ5RzVkWHg2UTBNVTJKeGxMc2tYWmtid1VIWlBFOXd1cjJtcXE1dGlUVURRUlpWLURmbkxGdDBHUDNLSnJ4cHFTX3VxONIBwgFBVV95cUxNUlJZb1p1VzJOcHBxaklXTXpyNW5zLW9WWHR0bEsyb2VlTHAxMUtucEJlRzVhdGw2NTh5WEtFYU1PemRWU3YtSC1SLTNMN01fYTFrRHFZR3I0Rm1PNENadEV0V3hEQ05ybG1XR2NtVlE0THNJZFZ0NVJ5dDJMQWZyRmdXWTFrNlNzX21QYzJfckxVOEh6ZVB0NmFvd3RyemliZG5hTE9STmJyWG9aR2pPTVlua0dGVTVJc0hqTXdBUlhHZw?oc=5
+
+- India news: High voter turnout in West Bengal elections - DW.com
+  India news: High voter turnout in
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
+
+- New Zealand PM Christopher Luxon Calls India-New Zealand FTA a Once-in-a-Generation Opportunity - News On AIR
+  New Zealand PM Christopher Luxon calls India-New Zealand FTA
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXpZUFZLMWNrcXVSaXRrT05FdExQTks2SkpoNmpJVk9LRlNSa1hmbTEySEVBY3VValFEbWhVdk9uWDduMzZ1Yy1kOVFZekdPRzJIY0JkQXNWTVlhUWgtRzJJaWl4S0U4dngyMktnWVBBNXFteS1YdkJBa0t5WEUtQUtVeGdFRUtjOUxqQndoUlVlUlB5ZE11YUVzTnI5VllaT2stSHZUN3plM3hfOTFFb2oybEh0TFVmcVU1WWpBd3Rpemc?oc=5
+
+- 2026 Poll Of Exit Polls: All Eyes On Bengal, Tamil Nadu, Kerala, Assam And Puducherry - NDTV
+  2026 Poll Of Exit Polls: All Eyes On Bengal,
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTS1pRm9SNnVLU2lSdHJneklpcUpFS1U3M3lmYzVMWGJuR0ROaXVFTEc4Wk1MYjBfMmlPSVc4U1RJRWhMQUJrVHVKcVVmZ3FGSlI1Qy1PMlhBTmNkVW05eEJFT0tlQy1nTVdNbVYyUVpvQVdpUnJTRFNXX1NUeGdlaERscHBfTkhETmw4ZUNrT2tYYzdrNFVqallpcHQxWlpfX0lLOW13bTBLbm81d211akNXemdWbGMzYVppcjItMU1VNFdCNHIxZl9UdmF1eW1oWllxQTN6S2dxYVpiMFFBbURiUWxfNlhVZXlaUw?oc=5
+
+- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
+  Indian man carries his sister's skeleton to a bank to prove her
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-29 08:10:59 UTC_
+_Last updated: 2026-04-29 13:48:37 UTC_
