@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Food regulator proposes no plastic or metallised layers in pan masala packaging
+- Manipur Deputy CM interview: ‘People fed up with violence… shutdowns and unrest won’t give us positive outcome’
   
-  🔗 https://indianexpress.com/article/india/fssai-draft-notification-pan-masala-tobacco-plastic-free-packaging-rules-10660987/
+  🔗 https://indianexpress.com/article/india/manipur-deputy-cm-interview-people-fed-up-with-violence-shutdowns-and-unrest-wont-give-us-positive-outcome-10661134/
 
-- Assembly Elections Exit Poll 2026 Date and Time: How to check details for Bengal, Tamil Nadu, Assam and Kerala?
+- Meghalaya honeymoon murder: Sonam Raghuvanshi gets bail, court says grounds for arrest ‘not effectively communicated’
   
-  🔗 https://indianexpress.com/article/india/assembly-elections-exit-poll-2026-date-and-time-how-to-check-details-for-bengal-tamil-nadu-assam-kerala-10660648/
+  🔗 https://indianexpress.com/article/india/meghalaya-honeymoon-murder-sonam-raghuvanshi-gets-bail-court-says-grounds-for-arrest-not-effectively-communicated-10661135/
 
-- Video shows critical patient’s relative washing ambulance, inquiry underway
+- Anonymous mail and some red flags: Why top Bihar medical college just cancelled MBBS exam
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-katni-district-hospital-ambulance-cleaning-video-inquiry-10660942/
+  🔗 https://indianexpress.com/article/india/anonymous-mail-and-some-red-flags-why-top-bihar-medical-college-just-cancelled-mbbs-exam-10661095/
 
-- With less than 10% of Bihar colleges possessing NAAC ranking, state govt pushes for change
+- ‘Not free from risk’: Court rejects Yasin Malik’s plea for prior intimation about witnesses
   
-  🔗 https://indianexpress.com/article/india/less-than-10-bihar-colleges-naac-ranking-state-govt-pushes-for-change-10660846/
+  🔗 https://indianexpress.com/article/india/not-free-from-risk-court-rejects-yasin-maliks-plea-for-prior-intimation-about-witnesses-10661113/
 
-- Submit compliance details, not ‘undertakings’ in penalty compensatory afforestation cases: Centre
+- UNGA president meets Jaishankar, makes a dig at Trump Board of Peace
   
-  🔗 https://indianexpress.com/article/india/submit-compliance-details-not-undertakings-in-penalty-compensatory-afforestation-cases-centre-10660517/
+  🔗 https://indianexpress.com/article/india/unga-president-meets-jaishankar-makes-a-dig-at-trump-board-of-peace-10661201/
 
 - What caused early supermassive black holes? Study points to dark matter decay
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/from-webtoon-to-marvel-unlimited-5-ways-to-read-comics-online-for-free-10660456/
 
-- Oaktree Capital Accuses BJ’s of Reneging on Tariff Refund Trade
-  Oaktree Capital Management LP sued BJ’s Wholesale Club Inc. for allegedly backing out of a deal to sell its rights to
-  🔗 https://www.livemint.com/companies/oaktree-capital-accuses-bj-s-of-reneging-on-tariff-refund-trade-11777402142635.html
+- Infosys secures largest GCC deal
+  Infosys set to run a 4,500-employee centre before handing it over after five years
+  🔗 https://www.livemint.com/companies/news/infosys-secures-largest-gcc-deal-11777387530757.html
 
-- OxyContin maker Purdue Pharmas criminal sentence could be the last step before company dissolves
-  OxyContin maker Purdue Pharma's criminal sentence
-  🔗 https://www.livemint.com/companies/oxycontin-maker-purdue-pharmas-criminal-sentence-could-be-the-last-step-before-company-dissolves-11777401940026.html
+- Neo Alternative announces first close of  ₹5,000 crore second infra income fund, targets  ₹1 trillion platform
+  Neo Alternative Asset Managers is targeting a  ₹5,000 crore corpus for the fund to back
+  🔗 https://www.livemint.com/companies/news/neo-announces-first-close-of-new-rs-5-000-crore-infra-fund-eyes-rs-1-trillion-practice-in-5-7-years-11777367352223.html
 
-- Elon Musk wanted keys to kingdom, OpenAI lawyer says at trial
-  Elon Musk wanted 'keys
-  🔗 https://www.livemint.com/companies/elon-musk-wanted-keys-to-kingdom-openai-lawyer-says-at-trial-11777401570995.html
+- AI on the shopfloor: India Inc's next frontier in the upskilling playbook
+  Unlike white-collar roles facing layoffs, shopfloor jobs are being augmented. Indian companies are training blue-collar workers in AI, Python and error-proofing tools.
+  🔗 https://www.livemint.com/companies/news/ai-shopfloor-india-inc-next-frontier-upskilling-playbook-blue-collar-workers-python-genai-pokayoke-11777357636325.html
 
-- Bandhan Bank pegs  ₹1,250 crore provisioning hit from credit loss framework shift
-  The transition to the expected credit loss system will be staggered over
-  🔗 https://www.livemint.com/companies/company-results/bandhan-bank-q4-results-1-250-crore-provisioning-hit-from-credit-loss-framework-shift-rbi-11777388059141.html
+- Sahi raises $33 million at over 3x valuation
+  Sahi plans to invest the funds to scale its user
+  🔗 https://www.livemint.com/companies/broking-firm-sahi-s-valuation-jumps-over-3x-in-new-funding-from-accel-global-11777375673714.html
 
-- Sapphire Foods bets on KFC value meals to drive traffic amid weak demand
-  Sapphire Foods is pivoting to a permanent value-pricing model for KFC. The strategy precedes a merger with Devyani International, aimed at
-  🔗 https://www.livemint.com/companies/sapphire-foods-bets-on-kfc-value-meals-to-drive-traffic-amid-weak-demand-11777383569898.html
+- Elon Musk vs Sam Altman Day 2: Tesla boss testifies he founded OpenAI as nonprofit to counter Google
+  Elon Musk took the stand on the second day of his landmark lawsuit against OpenAI. Musk testified that he founded the AI company as a nonprofit to benefit all of humanity
+  🔗 https://www.livemint.com/companies/news/elon-musk-vs-sam-altman-day-2-tesla-boss-testifies-he-founded-openai-as-nonprofit-to-counter-google-11777420358620.html
 
-- Spotify shares plunge 15% after forecasting second-quarter profit below estimates
-  Spotify stock fell 15% after the company forecasted lower second-quarter earnings and premium subscribers. It sees revenue of €4.8 billion and continued growth in
-  🔗 https://www.livemint.com/market/stock-market-news/spotify-shares-plunge-15-after-forecasting-second-quarter-profit-below-estimates-11777392725449.html
+- Buy or sell: Gift Nifty signals flat opening, Vaishali Parekh recommends three stocks to buy today — 29 April 2026
+   Vaishali Parekh recommends three stocks to buy today. Bharti Airt
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-29-april-2026-gift-nifty-signals-flat-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-11777426955089.html
 
-- Visa shares rise ahead of quarterly results, investors’ focus on cross-border transaction volumes, value-added services
-  The Visa stock has faced difficulties this year, dropping
-  🔗 https://www.livemint.com/market/stock-market-news/visa-shares-rise-ahead-of-quarterly-results-investors-focus-on-cross-border-transaction-volumes-value-added-services-11777394753129.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 29 April
+  Gift Nifty was trading around 24,106 level, a premium of nearly 37 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-29-april-11777427579280.html
 
-- Gold, silver rates today: Comex gold drops $125/oz, silver falls $3/oz as crude rally fuels inflation fears
-  On 28 April, gold and silver prices sharply declined amid rising inflation worries from escalating crude oil prices and stalled US-Iran negotiations. Gold futures hit a month-
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-125-oz-silver-falls-3-oz-as-crude-rally-fuels-inflation-fears-11777386729715.html
+- Stocks to watch: Bajaj Finance, Eternal, BHEL among 10 shares in focus today
+  The Indian stock market is likely to continue its losing streak as trends in the Gift Nifty index signalled a negative opening on Wednesday. Amid this backdrop, these stocks will remain
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bajaj-finance-eternal-bhel-among-10-shares-in-focus-today-11777425155169.html
 
-- Nvidia shares rebound over 24% in April, hit record highs on AI optimism ahead of earnings
-  N Nvidia's stock has bounced back 24% in April, driven by optimism in AI following positive earnings from tech leaders. Major investments in AI infrastructure by big tech firms are expected to further boost demand for
-  🔗 https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-24-in-april-hit-record-highs-on-ai-optimism-ahead-of-earnings-11777384476964.html
+- From Gift Nifty, US tech stocks to crude oil prices: 8 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,089 level, a premium of nearly 20 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-tech-stocks-to-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11777426077504.html
 
-- Wall Street: S&amp;P 500, Nasdaq drop on concerns over artificial intelligence boom
-  The Dow Jones Industrial Average rose 0.12%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-drop-on-concerns-over-artificial-intelligence-boom-11777383950019.html
+- Crude oil price near three-week high as UAE leaves OPEC; Strait of Hormuz disruption, US-Iran tension persist
+  UAE said on Tuesday that it will leave OPEC effective from 1st May 2026, stripping the oil cartel of its third-largest producer
+  🔗 https://www.livemint.com/market/commodities/crude-oil-price-retraces-from-a-three-week-high-as-uae-leaves-opec-strait-of-hormuz-disruption-us-iran-tension-persist-11777424429510.html
+
+- iPhone Fold's first comparison video releases even before launch, reveals exact dimensions and an ultra-thin chassis
+  Apple's iPhone Fold/ iPhone Ultra got its first hands on comparison even before its planned September debut. The phone's dummy unit was compared in
+  🔗 https://www.livemint.com/technology/gadgets/iphone-folds-first-comparison-video-releases-even-before-launch-reveals-exact-dimensions-and-an-ultra-thin-chassis-11777424564959.html
+
+- Apple confirms iOS Weather App outage: Is it working now? What we know
+  Apple's Weather app went down for iPhone users across the US on Tuesday. The disruption lasted nearly
+  🔗 https://www.livemint.com/technology/apple-confirms-ios-weather-app-down-is-it-working-now-what-we-know-11777418402011.html
 
 - The Supreme Court seems likely to shut down a lawsuit by Falun Gong over Ciscos aid to China
   The Supreme Court seems likely to shut down a lawsuit by Falun
@@ -92,93 +100,65 @@
    Flipkart's summer sale starts on May 9, 2026, with early access for Plus and Black members on May 8. The e-commerce platform has also announced offers for the
   🔗 https://www.livemint.com/technology/tech-news/flipkart-sasa-lele-sale-dates-announced-iphone-17-galaxy-s25-deals-and-bank-offers-revealed-11777370362870.html
 
-- MacBook prices slashed: These premium Apple laptops are affordable now
-  Recent price cuts on MacBook models make premium Apple laptops more accessible. Air and Pro variants
-  🔗 https://www.livemint.com/technology/gadgets/macbook-prices-slashed-these-premium-apple-laptops-are-affordable-now-11777369531013.html
+- Tech Drags Stocks Lower as Brent Tops $110 Again: Markets Wrap - Bloomberg.com
+  Tech Drags Stocks Lower as Brent T
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDU5UUJPREdNaVAwaTFMajdrWnFveHZsMkhuaHlfdE5UNlVQUkhGOUxZZzFUWVVPel9NOTZJTFJBTWZmUW1CTU9QYnNXdkNubVVfUGpEOVRUdGdOVTdTbXN1SVJSdXM1TFgzU1paZ2h6WlBhb0Y5SndQSXd6cWdCaGxZdTZjQ04tblpEYjlsQjBuTURm?oc=5
 
-- Big Tech investors to gauge payoff as AI spending set to hit $600 billion
-  Big Tech investors to gauge payoff as AI spending set to
-  🔗 https://www.livemint.com/technology/big-tech-investors-to-gauge-payoff-as-ai-spending-set-to-hit-600-billion-11777370112575.html
-
-- S&P 500 slips from record, Nasdaq falls as OpenAI report knocks chip stocks: Live updates - CNBC
-  The Nasdaq falls as OpenAI report knocks chip stocks: Live
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZ3E1SWl5dVIwcV9xRGlHdkplNTVWX2s4SFBZVEJ3R01LeTF2aEhCVHJYc3J2NnByODNjNTlFRURYWWxvZnZUMlk1bVFwR1QyZUxGbXZNQl9uMktVMkRaSGtfMEJScEJ2SHBVNVE5My1ibnYzSVFj0gF8QVVfeXFMTjJtSDFuZnJmNUhJRE4wSDFfVG1IVFR3WEE5cGpQZW1SclpVQW10bmlaQnFsemQ5RXBKWDVKcG1FelV3ellfaVpIUHV3OFNjMTlwOGpVbWJQX09YOU1kQUlXcGZ0QVNRTk5GejQzbzZmLWZjM3gxTURUNkQ4Vg?oc=5
-
-- Stock Market Today: Nasdaq Falls More Than 1% on AI Jitters — Live Updates - WSJ
-  The Nasdaq fell more than 1% on AI fears.
+- Stock Market News, April 28, 2026: Nasdaq Falls on AI Jitters - WSJ
+  The Wall Street Journal reports that the Nasdaq
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFVKVkFtdVRZeENHWVhteXRIVVFSVmd6d29TOExsWXJ6U0xFaTNsMUlqNFY3QjctYXBva3h1aUhycmdMNmhkZ3N1QzdrUWo1Mzg3bU5tc2tqaklET1Q2ekg2bU9GNjd4ejhYNmhodG44Mm43WV9XZ3E4MV81XzVZMzVtMjFuZWs?oc=5
 
-- Stock market today: Dow, S&P 500 and Nasdaq slip as OpenAI-linked stocks falter - Yahoo Finance
-  OpenAI-linked stocks falter. Dow, S&
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0NaM0g0QzE3NThPdkhjNDkyOXlMbm1DMXlYWk1BTGVsNXhmMmpna081YzlkYXBsdWdzUXczeHdLSVZnV05jY09MVUpVcU5yRlpJcUg2dm85R25NU1J4c1ZGR1lvM3BqOTZ1XzRvbTJSOEROV3ZEX0FqWnlfX3h5OVRDdkpsLWFuNElOclBVemhzRUVLYmJHcnZPekhuTXBISFpNcTFSb2hLZVQxQmFTWmN1RXVENDN5ajVpUTJfamphZVF2cDNFb1VkdDB5cWluZjV0eA?oc=5
+- S&P 500 futures are flat as Wall Street looks ahead to ‘Mag 7’ earnings and Fed decision: Live updates - CNBC
+  S&amp;P 500 futures are flat as Wall Street looks ahead to ‘
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5
 
-- United Arab Emirates Says It Will Leave OPEC in Blow to Oil Cartel - The New York Times
-  United Arab Emirates says it will leave OPEC in blow to Oil Cartel.
-  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE4yQzVCOGlNUFlhVWJRVUVkeEprQ1p6ZmtENnI0SnBPMTFOVnFYT2RJTy1LSkNYYjVVb1RwZWJfOXZGT1ltdHNWQ0plSDFfeGwzUVZhczRiLXJ0RE9YWDFjRDlQT1locnZLcHM5ZTlIYWpFWUk?oc=5
+- European stocks close lower as Trump considers Iran peace proposal, UAE leaves OPEC - CNBC
+  European stocks close lower as Trump considers Iran peace proposal.
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkFVVUFDTnJqNGZnckdvRUxENndnTEw4d2hVNEtGd1VwVE85N3NtdnVIQURWcnk3TVh0M2F2Wi1jMzZ5bU9RSnhHWWF3UVB2N3JSWjBuMVYxakVOaEh4TzNBb3dkT3lVRDlZaU9TcXlUMnBPa3lYa2kyeFBOcXg4aFQwa2RoczVsaE03SlFVbDkzaUNjcnk5Q9IBngFBVV95cUxNa0NwZlJMUzVXMlFiNkowTmRXMXdFVF96aHdQeExqd3N2M2FERE5WaktTRWtRdEVOUldkUXQ0SUlxSmlEaThqYVV4cTFPTnN4NGRrbVlBWXRDbEtvZ1Q1bHZ3ZWpFbW1xaGNCT0FDREtOM2tUeFEyVFdDSWIwY2NCb0RCNGJoTTRRaWg0WHB6YTdLLUFNQm9udWpyV1JJdw?oc=5
 
-- Stock markets open lower amid surging oil prices, foreign fund outflows - The Hindu
-  Stock markets open lower amid surging oil prices, foreign
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3RqNVJTVE5PSWFrdk5YQjYtQlRkcEh6Rndza3M2VTgyc1QyekxpN09qYXhWX3FDTjkzT3Y3ZXNWMUpfMzNNTVNhdDY5d3E2VWJIc1hoNW5GU3dpUGlndi1pTHNvTmhoWlJOS3R2YXFRSmVyNVVSdUhfMkJEUnZxTHoxd1FBaWhjQlhPOGc0QUdxczNadzFsUG5OYzRQTGs0elh2MF95ZGhUYjZk0gGzAUFVX3lxTFB3OHpVbmNlajROb3VybnBtR3VjejdFeVBmT25ULXp4cWhWSlBLZGZkRlhydW16N0hzY29QUTBUMzV4czU3UnFYaDBweW5MRHoxZ2tuYTItT2l3dDdNWGJmMDhVTW9Pd0ZhU1g3VGNIaHBEdFdiVTRPUmhGYlduY3dMZjE5RThPSDdXWGg2RTVJMGwyMXVuRE1uZGVRTTJuYTBWMk9LMy1JVXh3QU1DNjVfOXdz?oc=5
+- Stock Market Highlights, Sensex Today: Sensex Sheds 416 Points As Trump 'Unhappy' With Iran's Truce Proposal - NDTV
+  Stock Market Highlights: Sensex Sheds 416 Points As Trump 'Un
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1hDc25JX2tuOVJyamRSeWtsaXpFUXhKUklIVERaSnVtd3d2OVJMUUlGUVpLYm9ONlJ4dVZrVEtpMnljcU9LalBKc3pTLURJVDRpYU5IdkV2Wkx5dVhDOFlIdEdSWHJXUHB5WE1lcFozRlJfbnlEVmNCM000eXB2MEprQ0g0ZVQ0ZG0wa3hPTUc3aVZfbU5PSm1VbE1yTUZ6Rkk5NlZQQTZDVnpROU1ta18tN003bmlMNHk5Snh5dC13N3VzeV9aV2tfdXJnUGZFWVRGZW5ZSFZSVllQWXFiR0RR0gHqAUFVX3lxTE8xd2RVcmNTOUJkWG1LV3NlNXRFN1d3Rnp4c1dQTFlYMkozMDd1UWtJMWtpdlhxSFdwRUdscUh5bVNpcWdtVW5TRVB1LWZOX3RwTEk3aWg4X3VaU09XSFFJM0lzdV9yWVRtcWRqbzlCT2h0TlNIQXN5dmFVVEMzY3dmVkU5ZURBdm1rN1c0a3MtY1NMTDRiWVJhaE1DWEJCbEdqMGxyd3B6a09WLUpmeVVSOHJPSjk0MVc0M2FqVEU0VWQ4Q3N4MThnUVNpQlRFaGNoR19WYkNGSlBOYkUxMjhpS3F2cjBFMHlVdw?oc=5
 
-- US stocks today: US orders multiple chip equipment companies to halt some shipments to China's No. 2 chipmaker Hua Hong
-  The U.S. Department of Commerce has ordered chip equipment firms to halt tool shipments to China's Hua Hong. This action targets facilities believed to be producing sophisticated chips, including those for AI.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-orders-multiple-chip-equipment-companies-to-halt-some-shipments-to-chinas-no-2-chipmaker-hua-hong/articleshow/130587859.cms
+- Oil Price Today (April 29): Crude oil crosses $110, extends gain for 8th straight session. Here’s why
+  U.S. blockade of Iranian ports could prolong supply disruptions from the Middle East. Strait of Hormuz's reduced accessibility has already significantly impacted energy supplies, leading to fears of a fresh inflation crisis.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-april-29-crude-oil-crosses-110-extends-gain-for-8th-straight-session-heres-why/articleshow/130593942.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Nifty 50 and BSE Sensex declined amid selling in banking, auto and IT stocks. Markets remain range-bound, awaiting triggers.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/130584992.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-eternal-airtel-share-price-29-april-2026/liveblog/130593656.cms
 
-- US stocks today: JPMorgan CEO says not worried about inflation, risks remain of higher prices
-  JPMorgan Chase CEO Jamie Dimon says he is not worried about inflation. Dimon added among the worst-
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-today-jpmorgan-ceo-says-not-worried-about-inflation-risks-remain-of-higher-prices/articleshow/130584905.cms
+- Gold steady as markets await Powell's comments on Iran war impact
+  Gold prices remained largely steady as investors awaited U.S. Federal Reserve Chair Jerome Powell's comments. Market participants are also anticipating central bank decisions from the ECB, BoE, and BoC this week
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-await-powells-comments-on-iran-war-impact/articleshow/130593430.cms
 
-- US stocks today: HSBC turns bullish on US equities citing earnings momentum
-  HSBC upgraded U.S. equities to "overweight" from "neutral," citing strong earnings momentum and easing geopolitical risks. The brokerage also downgraded Europe ex-UK to "neutral" due
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-hsbc-turns-bullish-on-us-equities-citing-earnings-momentum/articleshow/130584898.cms
+- Dollar steady as investors brace for Fed decision in face of war
+  The dollar firmed as investors awaited the Federal Reserve's rate decision. The yen remained near 160 against the dollar, with traders watching for potential intervention.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steady-as-investors-brace-for-fed-decision-in-face-of-war/articleshow/130593411.cms
 
-- Airtel eyes $2 billion London IPO of mobile money unit
-  Airtel Money, Airtel Africa's mobile money arm, is planning a significant initial public offering. London is emerging as the preferred location for this major financial event.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/airtel-eyes-2-billion-london-ipo-of-mobile-money-unit/articleshow/130584234.cms
+- Muted start likely for Dalal Street as GIFT Nifty trades in red. Key levels and triggers to track
+  Indian markets saw a dip on Tuesday, with the Nifty closing below 24,000. Analysts point to the West Asia conflict, rising crude oil prices, and a weakening rupee as key factors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130593293.cms
 
-- India-New Zealand FTA; Deal facilitates 100% duty - DD News On Air
-  India-New Zealand FTA; Deal facilitates
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
+- Russia ships India’s fourth S-400 system, to be deployed by May end | Exclusive | India News - Hindustan Times
+  Russia ships India’s fourth S-400 system, to be deployed by
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3RiYW9kWjRLUlRQeFdGSUxKaVFpdXZDNElCQlBNdnI2VE9zcEs0bTg2dWQ4YXFvS2ZBeXNGM2xYSDh6ZXJXSDFsSUQ4ZUdTU05GMG5xeXpUNUlxbWplNXZyMjNkdHVyTl9zOW9pX0h5aWxrOTNrZXhvaTkyUGh3eDdiaFNUcG1pbGFrUE9NbTlIbHdyM0hlV0xYY1MyX1Jtcmx1cVBIUDB5SWhHZUMyell1MkthY2VzR0s2T0tiNTNJckZFVjNVd2s0WV9aWmx2Zi1nbTVB0gHbAUFVX3lxTE4wdWZMMHR0NXltY3Z1Mkp1MWkzRUx4QnlRQlFpbml1MUFvVnA1VVJuM3RfUlpYNW5CNi1QU2k4OFpZR2QybFhRY2syazlKTkw4Y3gyOEdRdE1IWXRsekxLTHo1YXRDbkhvU0dPVnFVb0Z3RjEzUUtfOFE2XzB3Qkkza251V2t6UW14Ul9mNjYyWkpsb044OW1meEdWUllId3YyNzVGbGh0WDU4RzduRVpRdTRqTlFNaDFvcFVaTUU1eTh5T0hadGN0VTIyZDd1RzZTOFBjLUVtNE9JNA?oc=5
 
-- FTA Is A Landmark Moment In India-New Zealand Partnership: PM Modi - NDTV
-  The FTA is a Landmark Moment In India
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2VaeEp6c0ZlVkhSUzFKRkRXcXIxdTNqS21taWxkNTBocU5MNG9KTUJCQkdNNWY3MGNCR2RfaS1sNWlYRUpiWklTcFU0RnJGWFptdjAwWHJtNmJWbkU4Q2FjN0EtZ0tXS053OGg0SkpoLWVkMHJOSUh0UDFEUzh3TWFuR002Ylh6VTU3NkpBLXM3LUNfMGhLSlRmdkZZMTE2bTBINTZndGlkUdIBsgFBVV95cUxPV0ZfWS1BbGQ4aHJVUFBKSnBWNTA0OFlrb2NCTUhLRkhaaDlxbUs0YW9HRXR0YmJjX0dOSFgxVTVWZHVicEZ6TFV0dkUyYUpjZVpHVGV0WENLaTB2aVo2WVpldzZSakN0THY3RVktUmlpRXY0dURYRzJ5ZUxJR2RZeHN1SENkbDlUVEY4QTRjZVNDOFJmNmZSX3k0YzZ5M2gzaTBLdUZZajhRbEp3NVVwMUxR?oc=5
+- ‘Inept probe’: SC acquits 12 lifers in 2008 murder case - The Times of India
+  ‘Inept probe’: SC acqu
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPejVKSlFFckt1TjVkbk5FVHNMUWR3OVQ2a1JpX1RoRm5sdGFhOV9WNE5sdWlXaEdvU0FOLWsxS1VTMEtuVVpMSWpjcDNzOThWdFRybHY2SDJLSThub0hGUVMxMG9EcFByYnZyVDNndmd3Vk8xQ1g0cXJ4LW5Kb2dvRzBtbUVIT0xtNkh1cVdfcy1WTDJtcWdHOUx6Qnd1WENjOVhlQ1c4U0lJRDlCN3hNQ01iU3VvcWtuX0hZT9IBwgFBVV95cUxQNXNxTXhIWDJnVFpJeFY2Q2dNV1JFX0owMlNuaWxMd19BRmhRN3p5LV8weUJUZ2lmYjdpbWZRWlIxV0tyZlVmT3V4R2NXWWx5SW9vM01fVGItaE9rUWZqblFwLURERG05eHdxM3JZdERldzZDQUlLZ2tiUnRadFZDOThqaFlZTXpoN0Y5eTUyVmVhZ1hYN2V1aC1sTE1heVl2RUp0Q1NrejNyS0RFWlllNndDbGxjX3o5VHhBV3RPdHlzZw?oc=5
 
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
+- WhatsApp to block misuse of logos to curb ‘digital arrest’ - The Times of India
+  WhatsApp to block misuse of logos to curb �
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1RIOTJ5UlMyWjZwYXcxYzkzNUdJSEplQnZTaTNST0pKc1JPeXNZaHNIa2VqQ3JrcVUxalZ2bzhsOGNERWxoRXJJVnJrR2czcnUtQ0FFV0p0MDVnSVNGeTdpRXVuX3MzY25sNzNqTklIMl9OdEZLTnlGeG03RExJdW5RU2VqTlNjbExzWW1jR2RudjBOVnVXMm5paWtqM0Z4U1ZENVNiTExfN1kza1FPc2JaX01MMWc0YmMyZFlqMWZ6d9IBxwFBVV95cUxOUDBTeUI0YzZWdFYwbnJxbjl2bXdKeGdKMmlzQlJYVjBBNTZUdTJESTFab1RFZUFEUk1wU2ttaWYwWktTX3NicUZNUVNBSVdKbFRvakx1d0VmY0k3RENfWktjakpNaU5DZmlaWnBMLUZfRFdJN1FjOFgzeHBhV0Y0aFBWUkhTMmlNblpqbkhRVnBmU25SS0dHLXhYQzRYTDI3MTBaNHJ6b2QwZUFsb0tTeTJ4VEY2Q1kyYmNIUlN2QWQ5MVhBcmNz?oc=5
 
-- India To Receive Fourth Unit Of S-400 Missile Systems From Russia, To Be Deployed In Rajasthan - The Times of India
-  India To Receive Fourth Unit Of S-400 Missile Systems From Russia. To Be
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWxielFvd09tX0FPeHBubERQWlVCc0Y1V1drUnkyZk1aOHVhVm82eDlPY2FEbmxkUzc5QUhpTU9EVGUyOVQ5a1Q5VDRxbTVaZ2NMYW4xV3hvc1Fsdi1vMEJwcUxUcEozX2dFRzBxLXdHQjItTnZUa3Z5MjJhNVcxb0p0ZEp4aVZ0b25BalVXbVo2d1JDTHZvZ2FSSmtnT0dfZFkwY0ZmZnZhQnRRXzFQc1NOV2xfNnp1d3pzR0RZVF8zUllaYlFKMFIxbjdDdVVnUjVGQi1wOW1DX1RpX0pCMkNHUFpyUmFFQllvSnNZelM3c1dMWlNwNNIB_gFBVV95cUxON3Q4RXhwZ3I5am5XcTVmcURjS1FUc1Q1aGxISzNMazZXQ084YVFaa2ZwWTl0TDZRWDhpNDlOTWlwNVdoRjJJUjRWb2JLT01PbVZ0RTFxU3E5MXhQWUQ5dVR6ZHlXemdwZ3liQWF4VHNEenM2UmVDWURLdnZuNG1vOS0ycTQ0bGNlSnZxRFl1dVJOUmU1WV9RM1MwT0JMZEVtbVp4TW9tYkwyTmQ2VUE3SFdSWG9ELXRnTUpYX1Z6eVVmNVpZaHpxd3JXYzFZajAxTGcyOVgteFgwV0puUzVQZE5nNFRVS1FxQXk4TGxwRXp3VXB2X29hVWZQa0h5UQ?oc=5
+- Poll Body Transfers Bengal Election Official After 'Singham' Officer Row - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHNHZGNLNUtwbW42UUIxY19Uc1ZWcnF5dHVQcVAtNWpoeVNBajlLRjh5TW83UlRDSVl4cnhPMy13QlE2RUdONWhPSDJsNmJzSFhFa1JNOWl5eWtWSUc5aFMwQlN2Sko3OWFnVzFsNmpkX2NwYUVJQmUwa1M1RUNvR3UxbVU5QUhkenotM0VvNDhRR090NUE5U2VTZjUyY2lFTE5OQ3BNWlctd1ZUcVBXZ2hMUlc2ak3SAb8BQVVfeXFMTzc2TXJEcUh1UnRHMjZ0bHRNTExCWHdvRDNkWG1SZjl1NlVJSEc0NjJ4NWNTcVJ2Sk5EMk80aURnb2NnTHVvQzlBTUQ2dDR0ZlVIOTVUV3k3d1NBZmdMUUtNMUFXSXhEZEkybk5uZTFLWEdHWFREWUw1SUlaV2hyd3FCMmdDZTdXTXFQd0tZT1NHeEFra2F0ZjU3eEdJUlFxMlVfeFNjYnhmcHItNng0TGFrZ2pST2tzZERKMUxrX2M?oc=5
 
-- This Air Defence System Was Op Sindoor Star. Now Another Is On Its Way - NDTV
-  " target="_blank">This Air Defence System Was
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWNPOFg1RU9fdThBdEVFc00wRG5OaEJYaVVmMjlPSlY3UHZRaGViYlBuMDVQb2lDaklVRHctYlJzenN6RC0yV0hIN19WOHpYWVVkcmdLY1VpczBxQUVBd3pDbTZyd1ZPbVZzaWgzczFCTzNuQVBlcVcwUVlxamVXWjhmd1FCWmRIQUNhRnRURGdMU0xkbmZ4bDV2ODZEQ0lDcVVnZkVtRzFKYWpSOGZCLVc5MWlCRTTSAb8BQVVfeXFMUFVmbko1OWx1eWJGUG4yc1ZodVgwSTJVdDhSdW91VjBVd0cxNXNGRUp1aFlpa29RZUJYcUtHZEduQ0szYUJqOEZ0TC1jNGR2S3dHM0JzRENkZHg3YmtmLWlTYkVrNFVkVVYyM0dUZ2sxLS0zWU1rUmxXS2lrM1h5NnBVMnE1TUVMR056Rjh1TXlzbHZEaXV3VVA2cnR6Zno5TGdEellNc3hMOTdaZTQ3cXYyLUZycTBLUVlnNzIwN1k?oc=5
-
-- India-New Zealand FTA; Deal facilitates 100% duty - DD News On Air
-  India-New Zealand FTA; Deal facilitates
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnpIb3MyWWxBYVNNMzhzZkl6R0Q3alVvRWo4MFoxdDRvazVDSTE4YU1ISHNOektPVGYwUUtjYWxPbEJRaG9idnJQbTY5UU0zUkJKamJEa2NINDRvbjFnYjFjT0p4Q19EblFZSlFSWk1Da2JrNHNqMWtvbHNtNWdja1A1TmttbEdPNTF2THVmNUZZbzc1b0kxV0docXNEVUxQbE5fb0pLRThfdWgyZ0xnZl92M1g0OGZodHpkZTZtX0lWdGR4elJpeC03UjJGTklscUk2U2xBaDZTdm1MU2V2a0hVZktKb3FfVlZGZWtyWWlMZw?oc=5
-
-- FTA Is A Landmark Moment In India-New Zealand Partnership: PM Modi - NDTV
-  The FTA is a Landmark Moment In India
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2VaeEp6c0ZlVkhSUzFKRkRXcXIxdTNqS21taWxkNTBocU5MNG9KTUJCQkdNNWY3MGNCR2RfaS1sNWlYRUpiWklTcFU0RnJGWFptdjAwWHJtNmJWbkU4Q2FjN0EtZ0tXS053OGg0SkpoLWVkMHJOSUh0UDFEUzh3TWFuR002Ylh6VTU3NkpBLXM3LUNfMGhLSlRmdkZZMTE2bTBINTZndGlkUdIBsgFBVV95cUxPV0ZfWS1BbGQ4aHJVUFBKSnBWNTA0OFlrb2NCTUhLRkhaaDlxbUs0YW9HRXR0YmJjX0dOSFgxVTVWZHVicEZ6TFV0dkUyYUpjZVpHVGV0WENLaTB2aVo2WVpldzZSakN0THY3RVktUmlpRXY0dURYRzJ5ZUxJR2RZeHN1SENkbDlUVEY4QTRjZVNDOFJmNmZSX3k0YzZ5M2gzaTBLdUZZajhRbEp3NVVwMUxR?oc=5
-
-- India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-free access | Inside the historic deal | India News - Hindustan Times
-  India-New Zealand FTA signed: $20 billion investment, 5,000 visas and duty-
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa25OazUxQW53TFVxZ3A3emJyeW1WRVA4Zzl2RkhXVlBmT2R0ZEQ3WThpSWNBOVJzSS02WWdWVjNJSWdDaEQ3YllKbFZPMHc3VGtMQ3B4aUE5ek1rMUY5YUt5UW16ZEl1UVJobkVNZ3R5S2NnajkxaE4ta2FBMUxtSG8wMWd4V3VpMXhBd2d3d0YyVHJWWTMtWGVpWHM3STlidHdldDJ2UUZpaW5XZ1RLZjlqZUxxdS1zQUo4R2FLajA1c3JLNDBOZHV1cUVGRTF5SzV0MlMtSUhFUWM4aldPTXlEV2lzRkNvcVN4aG9DN3VCNGFKY1dQNC1GeVhzTS1JYnZuR1ZicTDSAY4CQVVfeXFMUFFlUjdZZXQ4bGtQcUxkUmNMYnhKUGxYNEs4bWdJMUdWRXlUMFFFWDZrcXRhb3NINGhmbXpfTzF2dmNNNWlOdzJLY1RtU0NPMkNtY2RmbmJqNU9SbWtWaHJkWW00TWVRb3ZidEhuMUk1RTBuWnBaX0xJYU5pUGRGX21fRDJyazRQZ0F2YW5JaTJvMlBKbTJZeGphNEZMeFhaQ3VPUmJkWDdCR0F2M1U4OGE1UndVOHJBUmp6aEhKTGZUVjA3SzFWdWV4bjVWV0taQmNEVkU0MVVqNTdvRVNaUTR5RU02SWF4X1U2OXpwTTctbW9UbG5zeXl2Ykd3ZzgxMkNjckY2SjZEQy13TGNn?oc=5
-
-- India To Receive Fourth Unit Of S-400 Missile Systems From Russia, To Be Deployed In Rajasthan - The Times of India
-  India To Receive Fourth Unit Of S-400 Missile Systems From Russia. To Be
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWxielFvd09tX0FPeHBubERQWlVCc0Y1V1drUnkyZk1aOHVhVm82eDlPY2FEbmxkUzc5QUhpTU9EVGUyOVQ5a1Q5VDRxbTVaZ2NMYW4xV3hvc1Fsdi1vMEJwcUxUcEozX2dFRzBxLXdHQjItTnZUa3Z5MjJhNVcxb0p0ZEp4aVZ0b25BalVXbVo2d1JDTHZvZ2FSSmtnT0dfZFkwY0ZmZnZhQnRRXzFQc1NOV2xfNnp1d3pzR0RZVF8zUllaYlFKMFIxbjdDdVVnUjVGQi1wOW1DX1RpX0pCMkNHUFpyUmFFQllvSnNZelM3c1dMWlNwNNIB_gFBVV95cUxON3Q4RXhwZ3I5am5XcTVmcURjS1FUc1Q1aGxISzNMazZXQ084YVFaa2ZwWTl0TDZRWDhpNDlOTWlwNVdoRjJJUjRWb2JLT01PbVZ0RTFxU3E5MXhQWUQ5dVR6ZHlXemdwZ3liQWF4VHNEenM2UmVDWURLdnZuNG1vOS0ycTQ0bGNlSnZxRFl1dVJOUmU1WV9RM1MwT0JMZEVtbVp4TW9tYkwyTmQ2VUE3SFdSWG9ELXRnTUpYX1Z6eVVmNVpZaHpxd3JXYzFZajAxTGcyOVgteFgwV0puUzVQZE5nNFRVS1FxQXk4TGxwRXp3VXB2X29hVWZQa0h5UQ?oc=5
-
-- This Air Defence System Was Op Sindoor Star. Now Another Is On Its Way - NDTV
-  " target="_blank">This Air Defence System Was
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWNPOFg1RU9fdThBdEVFc00wRG5OaEJYaVVmMjlPSlY3UHZRaGViYlBuMDVQb2lDaklVRHctYlJzenN6RC0yV0hIN19WOHpYWVVkcmdLY1VpczBxQUVBd3pDbTZyd1ZPbVZzaWgzczFCTzNuQVBlcVcwUVlxamVXWjhmd1FCWmRIQUNhRnRURGdMU0xkbmZ4bDV2ODZEQ0lDcVVnZkVtRzFKYWpSOGZCLVc5MWlCRTTSAb8BQVVfeXFMUFVmbko1OWx1eWJGUG4yc1ZodVgwSTJVdDhSdW91VjBVd0cxNXNGRUp1aFlpa29RZUJYcUtHZEduQ0szYUJqOEZ0TC1jNGR2S3dHM0JzRENkZHg3YmtmLWlTYkVrNFVkVVYyM0dUZ2sxLS0zWU1rUmxXS2lrM1h5NnBVMnE1TUVMR056Rjh1TXlzbHZEaXV3VVA2cnR6Zno5TGdEellNc3hMOTdaZTQ3cXYyLUZycTBLUVlnNzIwN1k?oc=5
+- Indian billionaire's son offers to save Escobar's hippos - BBC
+  Indian billionaire's son offers to
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hUnJDLXRWTTRCbjhhNXRxNGRRcUNiQlpWdDhfaTc1ODNBV3RaWl9BeE9mcjFYdldkdFNrUW9WY3pPRVBGZEg3ODRSM01fcGRjdlJGR09tVlY0dw?oc=5
 
 
-_Last updated: 2026-04-28 19:29:59 UTC_
+_Last updated: 2026-04-29 02:31:55 UTC_
