@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Twist in case of Odisha man who carried sister’s skeletal remains: Bank called it his first visit, CCTV proves otherwise
+- On Operation Sindoor, Rajnath Singh says India was fully prepared to sustain prolonged conflict
   
-  🔗 https://indianexpress.com/article/india/odisha-man-carried-sisters-skeletal-remains-bank-cctv-10664335/
+  🔗 https://indianexpress.com/article/india/operation-sindoor-rajnath-singh-india-terms-10664681/
 
-- Jammu Tawi-Srinagar Vande Bharat Express: Train number, travel time, stoppages, timings
+- Goa school tragedy: 14-year-old dies after hockey ball hits head during practice
   
-  🔗 https://indianexpress.com/article/india/jammu-tawi-srinagar-vande-bharat-train-number-travel-time-stops-timings-10663910/
+  🔗 https://indianexpress.com/article/india/goa-school-girl-dies-hockey-practice-injury-10664645/
 
-- 5 maize farmers lost their crop. They are now blaming high-tension wires
+- BJP MLA claims assault at public hearing; govt engineer, 2 L&T staff arrested
   
-  🔗 https://indianexpress.com/article/india/telangana-farmers-maize-crop-fire-arson-investigation-10664092/
+  🔗 https://indianexpress.com/article/india/bjp-mla-assault-public-hearing-govt-engineer-staff-arrested-10664590/
 
-- BJP leader’s nephew shot dead in Bihar road rage after minor collision
+- Jailed MP Engineer Rashid breaks down while meeting ailing father after interim bail
   
-  🔗 https://indianexpress.com/article/india/bihar-road-rage-shooting-siwan-man-killed-10664073/
+  🔗 https://indianexpress.com/article/india/engineer-rashid-interim-bail-delhi-hc-father-visit-10664547/
 
-- Exclusive: IFFCO fertiliser samples found ‘non-standard’ in Agriculture Minister Shivraj Singh Chouhan’s constituency
+- Kavitha’s new party is TRS after all: The new name is…
   
-  🔗 https://indianexpress.com/article/india/iffco-fertiliser-non-standard-shivraj-singh-chouhan-vidisha-constituency-10664007/
+  🔗 https://indianexpress.com/article/india/kavitha-trs-telangana-rakshana-sena-10664423/
+
+- Earth’s crust is breaking up under Cascadia, study finds
+  
+  🔗 https://indianexpress.com/article/technology/science/earths-crust-is-breaking-up-under-cascadia-study-finds-10664512/
+
+- Groceries from Earth: How nearly 3 tonnes of supplies just reached International Space Station
+  
+  🔗 https://indianexpress.com/article/technology/science/groceries-from-earth-how-nearly-3-tonnes-of-supplies-just-reached-international-space-station-10664514/
 
 - Foldable iPhone and OLED MacBook may debut under Apple’s Ultra branding
   
@@ -32,53 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/science/blood-test-predicts-alzheimers-10663659/
 
-- OnePlus and Realme might align teams as smartphone market pressure grows
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-and-realme-might-align-teams-as-smartphone-market-pressure-grows-10664029/
+- Exonerees struggle to rebuild their lives and gain lasting employment, even if elected to office
+  Exonerees struggle to rebuild their lives and gain
+  🔗 https://www.livemint.com/companies/exonerees-struggle-to-rebuild-their-lives-and-gain-lasting-employment-even-if-elected-to-office-11777576071644.html
 
-- OpenAI’s ‘goblin’ problem: How a training bug made GPT-5.5 fixate on fantasy creatures
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/gpt-5-5-goblin-problem-openai-training-bug-explained-10664093/
+- US Critical Mineral Inventory Plan Includes Buying China Metals
+  US Export-Import Bank’s proposed stockpiling initiative would initially source critical minerals from anywhere in the world
+  🔗 https://www.livemint.com/companies/us-critical-mineral-inventory-plan-includes-buying-china-metals-11777574072036.html
 
-- Indian Bank expects margins to moderate in FY27 on elevated deposit costs
-  The state-owned lender sees steady FY27 growth but
-  🔗 https://www.livemint.com/companies/news/indian-bank-expects-margins-to-moderate-in-fy27-on-elevated-deposit-costs-rbi-11777548574724.html
+- HFCL posts profit of over  ₹184 crore in Q4 FY26
+  HFCL said improvement in financial performance was driven by a favourable shift in revenue mix towards products.
+  🔗 https://www.livemint.com/companies/company-results/hfcl-posts-profit-of-over-rs-184-crore-in-q4-fy26-11777564477245.html
 
-- Cholamandalam Investment and Finance Q4 profit jumps 31% to  ₹1,645 crore
-  Cholamandalam Investment’s total income during the latest March quarter increased to 8
-  🔗 https://www.livemint.com/companies/company-results/cholamandalam-investment-and-finance-q4-profit-jumps-31-to-rs-1-645-crore-11777552030976.html
+- IPO-bound JSW One acquires Pidilite-backed BuildNext for up to  ₹100 crore
+  The transaction between JSW and Pidilite is expected to close by 10 August. Though details of the deal such as share-swap ratio were not disclosed, the person cited earlier said that
+  🔗 https://www.livemint.com/companies/news/ipobound-jsw-one-acquires-pidilite-backed-buildnext-for-up-to-100-crore-11777555879934.html
 
-- Air India Express resumes Qatar, Bahrain flights; boosts Gulf services amid fragile ceasefire in West Asia
-  Other Indian airlines plan to resume operations at Doha’s Hamad International Airport on May 1, 2026. Air India Express will resume flights to Qatar and Bahrain and increase services to the
-  🔗 https://www.livemint.com/companies/news/air-india-express-resumes-qatar-bahrain-flights-boosts-gulf-services-amid-fragile-ceasefire-in-west-asia-11777549195148.html
+- Warner Bros. Discovery CEO David Zaslav’s pay package tripled to $165 million in 2025
+  David Zaslav's compensation soared to $165 million in 2025, driven by $110 million in stock options linked to a proposed WBD split. However, the split
+  🔗 https://www.livemint.com/companies/news/warner-bros-discovery-ceo-david-zaslav-s-pay-package-tripled-to-165-million-in-2025-11777559760988.html
 
-- BSNL sets ambitious Arpu target of  ₹150 in FY27 amid concerns over growth metrics
-  Bharat Sanchar Nigam Ltd aims to capitalize on network modernization and 4G expansion to increase average revenue per
-  🔗 https://www.livemint.com/companies/news/bsnl-arpu-4g-rollout-upselling-stagnating-growth-telcos-network-modernization-active-subscribers-higher-value-plans-11777538309571.html
+- Yields ease as oil retreats from four-year high
+   as oil retreats
+  🔗 https://www.livemint.com/market/yields-ease-as-oil-retreats-from-four-year-high-11777576198123.html
 
-- Cars24 co-founder Mehul Agrawal steps back amid senior-level exits
-  Cars24 co-founder Gajendra Jangid has also stepped down from his executive role. He had served as Cars24's
-  🔗 https://www.livemint.com/companies/cars24-co-counder-mehul-agrawal-steps-back-amid-slew-of-executive-exits-cartrade-cardekho-used-cars-11777543080531.html
+- AI Debt Investors Show Signs of Fatigue After $300 Billion Binge
+  After a $300 billion AI debt binge, investors are starting to show some signs of fatigue.
+  🔗 https://www.livemint.com/market/ai-debt-investors-show-signs-of-fatigue-after-300-billion-binge-11777573828570.html
 
-- Alphabet jumps, Meta tumbles: US Big Tech stocks trade mixed in premarket after earnings, AI spending bets
-  Alphabet rose 7%, Amazon gained, while Microsoft dipped and Meta fell 8% amid spending concerns and a decline in user activity.
-  🔗 https://www.livemint.com/market/stock-market-news/alphabet-jumps-meta-tumbles-us-big-tech-stocks-mixed-in-premarket-after-earnings-ai-spending-bets-11777553633484.html
+- Hindustan Laboratories receives SEBI observations for its proposed IPO
+  The funds will support working capital and corporate needs. The company primarily manufactures generic medicines for government institutions.
+  🔗 https://www.livemint.com/market/stock-market-news/hindustan-laboratories-receives-sebi-observations-for-its-proposed-ipo-11777568471903.html
 
-- US stock market today: Dow, Nasdaq futures rise up to 0.7% as tech earnings offset oil worries
-  US stock futures indicate a positive opening as investors assess mixed tech earnings and rising oil prices. While Wall Street is set for significant monthly gains, geopolitical tensions
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-nasdaq-futures-rise-up-to-0-7-as-big-tech-earnings-counter-oil-worries-11777548337487.html
+- Apple shares gain as investors await second quarter earnings
+  Wall Street analysts anticipate earnings per share of $1.95 on revenue of $109.7 billion. This would represent a 15%
+  🔗 https://www.livemint.com/market/stock-market-news/apple-shares-gain-as-investors-await-second-quarter-earnings-11777565803163.html
 
-- Stock market holiday: NSE, BSE to remain closed tomorrow; here's why
-  Indian stock exchanges, including NSE and BSE, will be closed on May 1 for Maharashtra Day. MCX will operate in the evening,
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-bse-to-remain-closed-tomorrow-1-may-2026-for-maharashtra-d-heres-why-11777544981344.html
+- Meta shares slump 10%, hit two-week low as AI spending concerns overshadow Q1 beat
+   Meta shares dropped 10.3% to $600, its largest decline in six months. The company reported Q1 sales of $56.3 billion but faced concerns about rising
+  🔗 https://www.livemint.com/market/stock-market-news/meta-shares-slump-10-hit-two-week-low-as-ai-spending-concerns-overshadow-q1-beat-11777565807041.html
 
-- Adani Enterprises Q4 results: Reports  ₹221 crore net loss amid higher costs; revenue climbs 20%
-  Adani Enterprises reported a consolidated net loss of  ₹221 crore for the March quarter. This was down from a net profit of   �
-  🔗 https://www.livemint.com/market/stock-market-news/adani-enterprises-q4-results-reports-rs-221-crore-net-loss-amid-higher-costs-revenue-climbs-20-11777543743364.html
+- Elon Musk spars with OpenAI attorney in trial over companys evolution from a nonprofit
+  Elon Musk and OpenAI attorney spar over
+  🔗 https://www.livemint.com/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit-11777575324037.html
 
-- Powergrid to raise  ₹4,000 crore from SBI; board approves fundraise — key details here
-  The company plans to raise  ₹4,000 crore from SBI and has made recent board changes. Its stock has shown resilience despite market fluctuations.
-  🔗 https://www.livemint.com/market/stock-market-news/powergrid-to-raise-4-000-crore-from-sbi-board-approves-fundraise-key-details-here-11777537394324.html
+- Delhi govt plans to partner with tech companies, start-ups for AI tools in various fields
+  Delhi govt plans to partner with tech companies
+  🔗 https://www.livemint.com/technology/delhi-govt-plans-to-partner-with-tech-companies-start-ups-for-ai-tools-in-various-fields-11777561509597.html
 
 - AI-led discovery of long-standing banking vulnerabilities a wake-up call world: NIELIT Director
    AI-led discovery of long-standing vulnerabilities in banking systems is a "wake-up call" not only for US banks, but also India and rest of the world.
@@ -92,113 +100,65 @@
   ChatGPT referenced Goblins, gremlins and other mythical creatures. The company explained that the issue stemmed from
   🔗 https://www.livemint.com/technology/tech-news/explained-what-went-wrong-with-chatgpt-how-did-goblins-enter-openai-s-chatbot-11777528871790.html
 
-- OpenAI says India is the biggest market for ChatGPT Images 2.0 model: Here are the top trends
-  India has emerged as the largest market for ChatGPT's Images 2.0 model. It is popular
-  🔗 https://www.livemint.com/technology/tech-news/openai-says-india-is-the-biggest-market-for-chatgpt-images-2-0-model-here-are-the-top-trends-11777533306936.html
+- Mazagon Dock Q4 Results: Profit jumps 42% to Rs 464 crore; co declares Rs 4.62 dividend
+  Net profit surged by nearly 42 percent year-on-year. Revenue from operations also saw a healthy 16 percent rise. Board recommended a final dividend of Rs 4.62 per share for the financial year ended March 2026.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mazagon-dock-q4-results-profit-jumps-42-to-rs-464-crore-co-declares-rs-4-62-dividend/articleshow/130643023.cms
 
-- OnePlus Pad 4 with 13.2-inch display, 13,380mAh battery launched in India: Price, specs and features
-  OnePlus Pad 4 has 13.2-inch 3.4K display
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-pad-4-with-13-2-inch-display-13-380mah-battery-launched-in-india-price-specs-and-features-11777530401700.html
+- Laurus Labs Q4 Results: Cons PAT increased 19% to Rs 279 crore, revenue rises 5%
+  Laurus Labs reported a 19% year-on-year jump in net profit to Rs 279 crore for the March quarter. Full-year net profit surged 148% to Rs 889 crore, driven by strong growth in its CDMO
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/laurus-labs-q4-results-cons-pat-increased-19-to-rs-279-crore-revenue-rises-5/articleshow/130641549.cms
 
-- Sebi introduces fast-track route for AIF launches to boost capital deployment
-  Sebi has introduced a fast-track mechanism for Alternative Investment Funds. Non-LVF schemes can launch in just 30 days after application. This streamlines fund launches and accelerates capital deployment.
-  🔗 https://economictimes.indiatimes.com/markets/aif-pms/sebi-introduces-fast-track-route-for-aif-launches-to-boost-capital-deployment/articleshow/130634785.cms
+- Kevin Warsh wanted a family fight at the Fed. Oil has provided the spark
+  Kevin Warsh inherits a divided Federal Reserve. Four voters dissented on the latest policy, the largest split since 1992. Warsh aims for more open debate at the Fed.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/kevin-warsh-wanted-a-family-fight-at-the-fed-oil-has-provided-the-spark-/articleshow/130637374.cms
 
-- Quote of the day by Michael Price: "The goal is to make good returns with less risk. Risk is not the same as volatility. It’s very hard to measure risk."
-  True risk involves the permanent loss of capital, often hidden beneath surface-level price fluctuations. Successful investing prioritizes good returns with minimized risk.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-michael-price-the-goal-is-to-make-good-returns-with-less-risk-risk-is-not-the-same-as-volatility-its-very-hard-to-measure-risk-/articleshow/130624143.cms
+- Adani Ports among 4 stocks that hit 52-week highs &amp; rallied up to 40% in a month
+  The Indian stock market saw a dip on Thursday with the Sensex falling. However, this did not stop four stocks from the BSE 200 index from reaching their highest levels in a year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-among-4-stocks-that-hit-52-week-highs-rallied-up-to-40-in-a-month/articleshow/130636366.cms
 
-- US Stock Market Today | Dow Jones | Nasdaq Live:  US futures rise as earnings optimism offsets oil concerns
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-brent-crude-oil-fed-powell-google-amazon-meta-microsoft-eli-lilly-stock-price-news/liveblog/130633583.cms
-
-- India bonds return near March-end lows after volatile month; oil, treasuries add to downside risks
-  Indian government bonds ended April close to levels seen at the end of the month. Crude oil prices and Treasury yields surged, though dovish central bank policy
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-bonds-return-near-march-end-lows-after-volatile-month-oil-treasuries-add-to-downside-risks/articleshow/130633177.cms
-
-- US Stocks: Eli Lilly raises annual forecasts as GLP-1 drugs fuel growth
-  Eli Lilly posts better-than-expected first quarter on steady demand for Zepbound and Mounjaro. First results since launching oral GLP-1
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-eli-lilly-raises-annual-forecasts-as-glp-1-drugs-fuel-growth/articleshow/130632588.cms
+- Hindustan Labs, RK Steel get Sebi nod to launch IPOs
+  Hindustan Laboratories has received Sebi's observations, a crucial step towards its IPO. The company plans to use the proceeds for working capital and general corporate needs.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/hindustan-labs-rk-steel-get-sebi-nod-to-launch-ipos/articleshow/130636165.cms
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- Inside India newsletter: AI is exposing cracks in India’s growth story as it hits high-paying IT jobs - CNBC
-  &nbsp; Inside India newsletter: AI is exposing cracks in India
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5manZRUExDaC1LQ2RZMWRSU1F1SldjN2VscEk3UTRNM2JKOVVCVThwYTB6S0NxdjJRVDNGT3JxV1VzZVF4VnlnaW1KY2JrdUJPbkxhTVZXN1NrODNQeUdablcyN1lJQjFNS0lmM1FvTnNST3oxdzMyT0QyZ9IBgAFBVV95cUxOU254NzlhRkRYLXBFOTJHbFVYNmRVNkpDM3BPQzc3bDdmZkZBNHdRcFZFWWQzanRwR3U5UmJyZnNfMjNWY3RyT2ZFS1BLbW5BRDhRRnNDNVBxcFJMSDdoTm16SDlYdlpOMFo2NHp0US1EN1JZS3N1NXR6b3hZbjZsMg?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
 
-- India Post GDS 3rd merit list expected to be released soon: Check steps to download here - The Times of India
-  India Post GDS 3rd merit list expected to be released soon. Check steps to
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWEE4OHVpakd1b0VBZFhnQ2RrZ2NGeU9VUElkQzBrMWFBbnNmSVZYVmF5WTE0YmxZdkpCNUpaTExDSENEZno1UnJGV2FLc0Nqb3ZRSTdMaEdZeDlXUGdUdjk1TzEyTkdkekhTZzZGX0VOZ2gwd0lwSGJlbzVNdnRmU3pmd0l2b1hkd1pjNkpSaWJvWS02bUcwU1pOZDdnejRsd05qYWJfUVVTbGlMNWZQU2hoWTd1Q1B1dkItejJaZ1ZUUkdsazB0dGEwaTJZSVJTNm00aVpCSWl2UDZuU0tLYzRTSEE2WGh6RVh4eEt5YkE2bjBVaWgw0gH8AUFVX3lxTE1VVUlSdmQ5Mm9mZDNBUHR6SmppZDBRTVV5QndBaUt5NXVhT3JjY05TbW8wclBOYnRQUjZDQ1U0WnBYYWFpX2hnR0NjMVJVcVI3TFpfdnl1YWhFSHJWX2hPMEZNb2NoU2FQSWpUeWdEbXlnQklCVVppWW9WY2poUlgzbWlFd2FkdDFwN1p6MUJOXzhhcGtEY1hLakRpQnNHVEl3SUxPbFJKWWUwSTVfd2JzMzJydk5kRENaTkdlOWNBaXVHZGlvam9WcEpib2c1bWYyeXotOEprbW0ydXRlMlgzT05ob1FxeEFqZGxEamVZV1VXeVc2Y3cyTnRVeQ?oc=5
+- India U-17 very close to World Cup qualification: Bibiano - The Times of India
+  India U-17 very close to World Cup qualification
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk12aTZ0eE1iamd5M3pPZk5MdzE4QWUtSmEyLTZaMUc3VzRNSWlGQ25YOVA2UTVic1MzR1VaN1hVLXhrWHdXeTczaDNzMW5JU3Q0YllsTWVDSEVzeDUyb3pWQl83QkdrSEh2UVZHZksxOW9WeWtGUEFQaUtfcTVaMmd2T2IyLWtuczdtejZRMnZEUlM0endIOUs4Vld3MmZ5MkRfcWQ0d0ZFYXpHaWxhWmVlSjZMR25oZm45WW0tV1VINkxBWFHSAcsBQVVfeXFMTTY0ZUY4QkpWcy1xUTAwUTQzUTJEU0diNDU3MzdNUk9pWGZfLVJsZHZxWFY3Y2M4VzNiY216OTV5eTc1UERsZmhCZEJPRTVmNU9IdEdDUDNJYktJZjhvdVRqeHFlZzhlTFdDSXduWTFsZ01Xa0dYczliWGxMdVNmYkhUQXJVMWU3ZnNsZUtPdzJvQ2w2US1oUEpvLWx6dkp6YWd3cjZWVGlxRUtUbVZXbXRJeWVUX3dxb2ZzalVIVU5oUHRmZUdab2VUX1E?oc=5
 
-- 2nd Term For DMK In Tamil Nadu, TVK To Do Better Than AIADMK: Today's Chanakya Exit Poll - NDTV
-  2nd Term For DMK In Tamil Nadu. TVK To Do Better
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPLUJjRXk3TUNNdXVXSGtZT2RvWE5rcmFiTWR3cEZnUkVMczdfZW1ULXZzTy00UTlMWTJubllKaml0ZTJCTUFLQmdXYndaTHluY0ZiOUx4dlhXU0hXN3JicVJ2NlphdWE5My1xM0h6cUNtenMxVUpjUTdRRHdEQ0dwa1JoTnFMMUM2VTBhMlZpbVBSX1BSX003ZnZ2Uk5TMTdWUXV1bUFkS3I2cjAtb2UxRVprWHk5Tml3VUZ3M29MaUp3bGkySzR5c09tb2dVNjJQMjNrMWxsa2dFTUFndzlQak52UTRYRl9tdS0xRnRoRmdtcWRyWTMxYzFURDVvWEhXdFVPMDBIWUFTajcwMUMwaEd3UDdBbWVTWGxR0gGjAkFVX3lxTE96WnRtVUV5SVIyd2VCSjgtR0s1SWlWNGx5QXF0aERLVEZZY1RTQy1IRGlDSW9LZ2lYX1RLR1Jub2hlTF9NaUotaDBBR2FtR0JIZGF3dmtIeldhem5qckdJemh6cmxkS19EcFJfWVM0MjdNOHN4WUpTODN1VlZCZGVtdW9iM0wzRTBHSEtnS3dMNXFsNUQ4dnBTSFhjZUhqQmFWazdoNnBLRmwxa08yUFdWQ0FVY3VjUGQzMlh0MTcxWVp1ZlgxVURWWFBrSHhUQmhuQTM3NmtfVnVIbkdmVTBkLWY2TDRjYjZpRTZDaEl3T3NwOHF1UlRXZVdFR2FGWXVzeFRLSk9GTkhsaXhZaVAyVXBjY3FJdXM4ZHdRQmRsTDEzcw?oc=5
+- JPMorgan Executive Lorna Hajdini Sexually Abused 'Brown Boy Indian', Threatened His Career: Report - NDTV
+  JPMorgan Executive Lorna Hajdini Sex
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxON1NuaUNTSXRoWWVfOEZacU10Wml3d3BnZ1c4M2N0UE5SWU8wbExuaEtUam12cENKSkNQMW5McTF0bFFwSjR5aURqUmJUNFZKVXEyS2lFMUJ5ZnFNR1RkUUdweUIxeWRXU1dpal9wUW9Zbm9Na3NSM09IV2tjX0JOaEEtdUxXNHNrOUFoNkl1Y1BlMDZObC1Cck0tRmU0bm5xQUVQTlNzSlhGeEhBYkVjT1pjRXIyRGpZbndCb2JVNG9mRy1Qa2Vz0gHPAUFVX3lxTFBrcHI2cl8zZnRSUnp1eUNkY1FtSnlIVmhGNFlkUnhadjJPdlp4R25QTTBNenh2SWpFcGFHWGxuOVB0cExoczlZWE9Kbm9QLVlBdTU5SkV1Ny1nYkF2TmpCakNRaVJWYldYZ2dhaFo0TU5UbDVkQTBkT3NNQ3pXT29yRVZBdUIwQXVLRXRqUjl1Z3h0UXFqblMwR20xZU9ocG5IVS0tVmp1c3dueHpzMk1KYjRvbVRaeGhxaDNKVHJDbDZiTFZKN0loTjJwcjdUNA?oc=5
 
-- Shock in India after man takes remains of his sister to bank to prove her death - The Guardian
-  Man in India takes remains of his sister to bank to prove her death.
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0lTVHU0ZGI0SENkN0IyQ05jaW9vQ1hjQnE1azI5UGJYLTM1T1FUQ1hVcnhtM1haTFpOdU5qSDlWcGpsWEtacFdFTGd5cUNTbUowRjlkQXdfSVFWUC1vbmNWZW1MTFlEREU5Q0YzTW5jUWlacUp0Mmpkenp6dHROZnRpdm01Q0lMQmwzMg?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- Inside India newsletter: AI is exposing cracks in India’s growth story as it hits high-paying IT jobs - CNBC
-  &nbsp; Inside India newsletter: AI is exposing cracks in India
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5manZRUExDaC1LQ2RZMWRSU1F1SldjN2VscEk3UTRNM2JKOVVCVThwYTB6S0NxdjJRVDNGT3JxV1VzZVF4VnlnaW1KY2JrdUJPbkxhTVZXN1NrODNQeUdablcyN1lJQjFNS0lmM1FvTnNST3oxdzMyT0QyZ9IBgAFBVV95cUxOU254NzlhRkRYLXBFOTJHbFVYNmRVNkpDM3BPQzc3bDdmZkZBNHdRcFZFWWQzanRwR3U5UmJyZnNfMjNWY3RyT2ZFS1BLbW5BRDhRRnNDNVBxcFJMSDdoTm16SDlYdlpOMFo2NHp0US1EN1JZS3N1NXR6b3hZbjZsMg?oc=5
-
-- India Post GDS 3rd merit list expected to be released soon: Check steps to download here - The Times of India
-  India Post GDS 3rd merit list expected to be released soon. Check steps to
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWEE4OHVpakd1b0VBZFhnQ2RrZ2NGeU9VUElkQzBrMWFBbnNmSVZYVmF5WTE0YmxZdkpCNUpaTExDSENEZno1UnJGV2FLc0Nqb3ZRSTdMaEdZeDlXUGdUdjk1TzEyTkdkekhTZzZGX0VOZ2gwd0lwSGJlbzVNdnRmU3pmd0l2b1hkd1pjNkpSaWJvWS02bUcwU1pOZDdnejRsd05qYWJfUVVTbGlMNWZQU2hoWTd1Q1B1dkItejJaZ1ZUUkdsazB0dGEwaTJZSVJTNm00aVpCSWl2UDZuU0tLYzRTSEE2WGh6RVh4eEt5YkE2bjBVaWgw0gH8AUFVX3lxTE1VVUlSdmQ5Mm9mZDNBUHR6SmppZDBRTVV5QndBaUt5NXVhT3JjY05TbW8wclBOYnRQUjZDQ1U0WnBYYWFpX2hnR0NjMVJVcVI3TFpfdnl1YWhFSHJWX2hPMEZNb2NoU2FQSWpUeWdEbXlnQklCVVppWW9WY2poUlgzbWlFd2FkdDFwN1p6MUJOXzhhcGtEY1hLakRpQnNHVEl3SUxPbFJKWWUwSTVfd2JzMzJydk5kRENaTkdlOWNBaXVHZGlvam9WcEpib2c1bWYyeXotOEprbW0ydXRlMlgzT05ob1FxeEFqZGxEamVZV1VXeVc2Y3cyTnRVeQ?oc=5
-
-- 2nd Term For DMK In Tamil Nadu, TVK To Do Better Than AIADMK: Today's Chanakya Exit Poll - NDTV
-  2nd Term For DMK In Tamil Nadu. TVK To Do Better
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPLUJjRXk3TUNNdXVXSGtZT2RvWE5rcmFiTWR3cEZnUkVMczdfZW1ULXZzTy00UTlMWTJubllKaml0ZTJCTUFLQmdXYndaTHluY0ZiOUx4dlhXU0hXN3JicVJ2NlphdWE5My1xM0h6cUNtenMxVUpjUTdRRHdEQ0dwa1JoTnFMMUM2VTBhMlZpbVBSX1BSX003ZnZ2Uk5TMTdWUXV1bUFkS3I2cjAtb2UxRVprWHk5Tml3VUZ3M29MaUp3bGkySzR5c09tb2dVNjJQMjNrMWxsa2dFTUFndzlQak52UTRYRl9tdS0xRnRoRmdtcWRyWTMxYzFURDVvWEhXdFVPMDBIWUFTajcwMUMwaEd3UDdBbWVTWGxR0gGjAkFVX3lxTE96WnRtVUV5SVIyd2VCSjgtR0s1SWlWNGx5QXF0aERLVEZZY1RTQy1IRGlDSW9LZ2lYX1RLR1Jub2hlTF9NaUotaDBBR2FtR0JIZGF3dmtIeldhem5qckdJemh6cmxkS19EcFJfWVM0MjdNOHN4WUpTODN1VlZCZGVtdW9iM0wzRTBHSEtnS3dMNXFsNUQ4dnBTSFhjZUhqQmFWazdoNnBLRmwxa08yUFdWQ0FVY3VjUGQzMlh0MTcxWVp1ZlgxVURWWFBrSHhUQmhuQTM3NmtfVnVIbkdmVTBkLWY2TDRjYjZpRTZDaEl3T3NwOHF1UlRXZVdFR2FGWXVzeFRLSk9GTkhsaXhZaVAyVXBjY3FJdXM4ZHdRQmRsTDEzcw?oc=5
-
-- Shock in India after man takes remains of his sister to bank to prove her death - The Guardian
-  Man in India takes remains of his sister to bank to prove her death.
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0lTVHU0ZGI0SENkN0IyQ05jaW9vQ1hjQnE1azI5UGJYLTM1T1FUQ1hVcnhtM1haTFpOdU5qSDlWcGpsWEtacFdFTGd5cUNTbUowRjlkQXdfSVFWUC1vbmNWZW1MTFlEREU5Q0YzTW5jUWlacUp0Mmpkenp6dHROZnRpdm01Q0lMQmwzMg?oc=5
+- India news: Exit polls out in key state elections - dw.com
+  India news: Exit polls out in
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUh1Y1VuM2tWUlpvLUIyZXFBRy1iTWJyOWZnU0xFeDBMbFJzTkhnbTJYXzBRWUIxRlE3S0Q5ZVBGdlp4dnMtVEY1TGNZSmw4Vm9tRGkya2RnUThScHZVbmwyTnltdmw0MmpGanktQlFHLXBIR2pZLWpUcXplWk1KR01WQTVJU2pTNGswZw?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- Inside India newsletter: AI is exposing cracks in India’s growth story as it hits high-paying IT jobs - CNBC
-  &nbsp; Inside India newsletter: AI is exposing cracks in India
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5manZRUExDaC1LQ2RZMWRSU1F1SldjN2VscEk3UTRNM2JKOVVCVThwYTB6S0NxdjJRVDNGT3JxV1VzZVF4VnlnaW1KY2JrdUJPbkxhTVZXN1NrODNQeUdablcyN1lJQjFNS0lmM1FvTnNST3oxdzMyT0QyZ9IBgAFBVV95cUxOU254NzlhRkRYLXBFOTJHbFVYNmRVNkpDM3BPQzc3bDdmZkZBNHdRcFZFWWQzanRwR3U5UmJyZnNfMjNWY3RyT2ZFS1BLbW5BRDhRRnNDNVBxcFJMSDdoTm16SDlYdlpOMFo2NHp0US1EN1JZS3N1NXR6b3hZbjZsMg?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
 
-- India Post GDS 3rd merit list expected to be released soon: Check steps to download here - The Times of India
-  India Post GDS 3rd merit list expected to be released soon. Check steps to
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWEE4OHVpakd1b0VBZFhnQ2RrZ2NGeU9VUElkQzBrMWFBbnNmSVZYVmF5WTE0YmxZdkpCNUpaTExDSENEZno1UnJGV2FLc0Nqb3ZRSTdMaEdZeDlXUGdUdjk1TzEyTkdkekhTZzZGX0VOZ2gwd0lwSGJlbzVNdnRmU3pmd0l2b1hkd1pjNkpSaWJvWS02bUcwU1pOZDdnejRsd05qYWJfUVVTbGlMNWZQU2hoWTd1Q1B1dkItejJaZ1ZUUkdsazB0dGEwaTJZSVJTNm00aVpCSWl2UDZuU0tLYzRTSEE2WGh6RVh4eEt5YkE2bjBVaWgw0gH8AUFVX3lxTE1VVUlSdmQ5Mm9mZDNBUHR6SmppZDBRTVV5QndBaUt5NXVhT3JjY05TbW8wclBOYnRQUjZDQ1U0WnBYYWFpX2hnR0NjMVJVcVI3TFpfdnl1YWhFSHJWX2hPMEZNb2NoU2FQSWpUeWdEbXlnQklCVVppWW9WY2poUlgzbWlFd2FkdDFwN1p6MUJOXzhhcGtEY1hLakRpQnNHVEl3SUxPbFJKWWUwSTVfd2JzMzJydk5kRENaTkdlOWNBaXVHZGlvam9WcEpib2c1bWYyeXotOEprbW0ydXRlMlgzT05ob1FxeEFqZGxEamVZV1VXeVc2Y3cyTnRVeQ?oc=5
+- India U-17 very close to World Cup qualification: Bibiano - The Times of India
+  India U-17 very close to World Cup qualification
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk12aTZ0eE1iamd5M3pPZk5MdzE4QWUtSmEyLTZaMUc3VzRNSWlGQ25YOVA2UTVic1MzR1VaN1hVLXhrWHdXeTczaDNzMW5JU3Q0YllsTWVDSEVzeDUyb3pWQl83QkdrSEh2UVZHZksxOW9WeWtGUEFQaUtfcTVaMmd2T2IyLWtuczdtejZRMnZEUlM0endIOUs4Vld3MmZ5MkRfcWQ0d0ZFYXpHaWxhWmVlSjZMR25oZm45WW0tV1VINkxBWFHSAcsBQVVfeXFMTTY0ZUY4QkpWcy1xUTAwUTQzUTJEU0diNDU3MzdNUk9pWGZfLVJsZHZxWFY3Y2M4VzNiY216OTV5eTc1UERsZmhCZEJPRTVmNU9IdEdDUDNJYktJZjhvdVRqeHFlZzhlTFdDSXduWTFsZ01Xa0dYczliWGxMdVNmYkhUQXJVMWU3ZnNsZUtPdzJvQ2w2US1oUEpvLWx6dkp6YWd3cjZWVGlxRUtUbVZXbXRJeWVUX3dxb2ZzalVIVU5oUHRmZUdab2VUX1E?oc=5
 
-- 2nd Term For DMK In Tamil Nadu, TVK To Do Better Than AIADMK: Today's Chanakya Exit Poll - NDTV
-  2nd Term For DMK In Tamil Nadu. TVK To Do Better
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPLUJjRXk3TUNNdXVXSGtZT2RvWE5rcmFiTWR3cEZnUkVMczdfZW1ULXZzTy00UTlMWTJubllKaml0ZTJCTUFLQmdXYndaTHluY0ZiOUx4dlhXU0hXN3JicVJ2NlphdWE5My1xM0h6cUNtenMxVUpjUTdRRHdEQ0dwa1JoTnFMMUM2VTBhMlZpbVBSX1BSX003ZnZ2Uk5TMTdWUXV1bUFkS3I2cjAtb2UxRVprWHk5Tml3VUZ3M29MaUp3bGkySzR5c09tb2dVNjJQMjNrMWxsa2dFTUFndzlQak52UTRYRl9tdS0xRnRoRmdtcWRyWTMxYzFURDVvWEhXdFVPMDBIWUFTajcwMUMwaEd3UDdBbWVTWGxR0gGjAkFVX3lxTE96WnRtVUV5SVIyd2VCSjgtR0s1SWlWNGx5QXF0aERLVEZZY1RTQy1IRGlDSW9LZ2lYX1RLR1Jub2hlTF9NaUotaDBBR2FtR0JIZGF3dmtIeldhem5qckdJemh6cmxkS19EcFJfWVM0MjdNOHN4WUpTODN1VlZCZGVtdW9iM0wzRTBHSEtnS3dMNXFsNUQ4dnBTSFhjZUhqQmFWazdoNnBLRmwxa08yUFdWQ0FVY3VjUGQzMlh0MTcxWVp1ZlgxVURWWFBrSHhUQmhuQTM3NmtfVnVIbkdmVTBkLWY2TDRjYjZpRTZDaEl3T3NwOHF1UlRXZVdFR2FGWXVzeFRLSk9GTkhsaXhZaVAyVXBjY3FJdXM4ZHdRQmRsTDEzcw?oc=5
+- JPMorgan Executive Lorna Hajdini Sexually Abused 'Brown Boy Indian', Threatened His Career: Report - NDTV
+  JPMorgan Executive Lorna Hajdini Sex
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxON1NuaUNTSXRoWWVfOEZacU10Wml3d3BnZ1c4M2N0UE5SWU8wbExuaEtUam12cENKSkNQMW5McTF0bFFwSjR5aURqUmJUNFZKVXEyS2lFMUJ5ZnFNR1RkUUdweUIxeWRXU1dpal9wUW9Zbm9Na3NSM09IV2tjX0JOaEEtdUxXNHNrOUFoNkl1Y1BlMDZObC1Cck0tRmU0bm5xQUVQTlNzSlhGeEhBYkVjT1pjRXIyRGpZbndCb2JVNG9mRy1Qa2Vz0gHPAUFVX3lxTFBrcHI2cl8zZnRSUnp1eUNkY1FtSnlIVmhGNFlkUnhadjJPdlp4R25QTTBNenh2SWpFcGFHWGxuOVB0cExoczlZWE9Kbm9QLVlBdTU5SkV1Ny1nYkF2TmpCakNRaVJWYldYZ2dhaFo0TU5UbDVkQTBkT3NNQ3pXT29yRVZBdUIwQXVLRXRqUjl1Z3h0UXFqblMwR20xZU9ocG5IVS0tVmp1c3dueHpzMk1KYjRvbVRaeGhxaDNKVHJDbDZiTFZKN0loTjJwcjdUNA?oc=5
 
-- Shock in India after man takes remains of his sister to bank to prove her death - The Guardian
-  Man in India takes remains of his sister to bank to prove her death.
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0lTVHU0ZGI0SENkN0IyQ05jaW9vQ1hjQnE1azI5UGJYLTM1T1FUQ1hVcnhtM1haTFpOdU5qSDlWcGpsWEtacFdFTGd5cUNTbUowRjlkQXdfSVFWUC1vbmNWZW1MTFlEREU5Q0YzTW5jUWlacUp0Mmpkenp6dHROZnRpdm01Q0lMQmwzMg?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- Inside India newsletter: AI is exposing cracks in India’s growth story as it hits high-paying IT jobs - CNBC
-  &nbsp; Inside India newsletter: AI is exposing cracks in India
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5manZRUExDaC1LQ2RZMWRSU1F1SldjN2VscEk3UTRNM2JKOVVCVThwYTB6S0NxdjJRVDNGT3JxV1VzZVF4VnlnaW1KY2JrdUJPbkxhTVZXN1NrODNQeUdablcyN1lJQjFNS0lmM1FvTnNST3oxdzMyT0QyZ9IBgAFBVV95cUxOU254NzlhRkRYLXBFOTJHbFVYNmRVNkpDM3BPQzc3bDdmZkZBNHdRcFZFWWQzanRwR3U5UmJyZnNfMjNWY3RyT2ZFS1BLbW5BRDhRRnNDNVBxcFJMSDdoTm16SDlYdlpOMFo2NHp0US1EN1JZS3N1NXR6b3hZbjZsMg?oc=5
-
-- India Post GDS 3rd merit list expected to be released soon: Check steps to download here - The Times of India
-  India Post GDS 3rd merit list expected to be released soon. Check steps to
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWEE4OHVpakd1b0VBZFhnQ2RrZ2NGeU9VUElkQzBrMWFBbnNmSVZYVmF5WTE0YmxZdkpCNUpaTExDSENEZno1UnJGV2FLc0Nqb3ZRSTdMaEdZeDlXUGdUdjk1TzEyTkdkekhTZzZGX0VOZ2gwd0lwSGJlbzVNdnRmU3pmd0l2b1hkd1pjNkpSaWJvWS02bUcwU1pOZDdnejRsd05qYWJfUVVTbGlMNWZQU2hoWTd1Q1B1dkItejJaZ1ZUUkdsazB0dGEwaTJZSVJTNm00aVpCSWl2UDZuU0tLYzRTSEE2WGh6RVh4eEt5YkE2bjBVaWgw0gH8AUFVX3lxTE1VVUlSdmQ5Mm9mZDNBUHR6SmppZDBRTVV5QndBaUt5NXVhT3JjY05TbW8wclBOYnRQUjZDQ1U0WnBYYWFpX2hnR0NjMVJVcVI3TFpfdnl1YWhFSHJWX2hPMEZNb2NoU2FQSWpUeWdEbXlnQklCVVppWW9WY2poUlgzbWlFd2FkdDFwN1p6MUJOXzhhcGtEY1hLakRpQnNHVEl3SUxPbFJKWWUwSTVfd2JzMzJydk5kRENaTkdlOWNBaXVHZGlvam9WcEpib2c1bWYyeXotOEprbW0ydXRlMlgzT05ob1FxeEFqZGxEamVZV1VXeVc2Y3cyTnRVeQ?oc=5
-
-- 2nd Term For DMK In Tamil Nadu, TVK To Do Better Than AIADMK: Today's Chanakya Exit Poll - NDTV
-  2nd Term For DMK In Tamil Nadu. TVK To Do Better
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxPLUJjRXk3TUNNdXVXSGtZT2RvWE5rcmFiTWR3cEZnUkVMczdfZW1ULXZzTy00UTlMWTJubllKaml0ZTJCTUFLQmdXYndaTHluY0ZiOUx4dlhXU0hXN3JicVJ2NlphdWE5My1xM0h6cUNtenMxVUpjUTdRRHdEQ0dwa1JoTnFMMUM2VTBhMlZpbVBSX1BSX003ZnZ2Uk5TMTdWUXV1bUFkS3I2cjAtb2UxRVprWHk5Tml3VUZ3M29MaUp3bGkySzR5c09tb2dVNjJQMjNrMWxsa2dFTUFndzlQak52UTRYRl9tdS0xRnRoRmdtcWRyWTMxYzFURDVvWEhXdFVPMDBIWUFTajcwMUMwaEd3UDdBbWVTWGxR0gGjAkFVX3lxTE96WnRtVUV5SVIyd2VCSjgtR0s1SWlWNGx5QXF0aERLVEZZY1RTQy1IRGlDSW9LZ2lYX1RLR1Jub2hlTF9NaUotaDBBR2FtR0JIZGF3dmtIeldhem5qckdJemh6cmxkS19EcFJfWVM0MjdNOHN4WUpTODN1VlZCZGVtdW9iM0wzRTBHSEtnS3dMNXFsNUQ4dnBTSFhjZUhqQmFWazdoNnBLRmwxa08yUFdWQ0FVY3VjUGQzMlh0MTcxWVp1ZlgxVURWWFBrSHhUQmhuQTM3NmtfVnVIbkdmVTBkLWY2TDRjYjZpRTZDaEl3T3NwOHF1UlRXZVdFR2FGWXVzeFRLSk9GTkhsaXhZaVAyVXBjY3FJdXM4ZHdRQmRsTDEzcw?oc=5
-
-- Shock in India after man takes remains of his sister to bank to prove her death - The Guardian
-  Man in India takes remains of his sister to bank to prove her death.
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0lTVHU0ZGI0SENkN0IyQ05jaW9vQ1hjQnE1azI5UGJYLTM1T1FUQ1hVcnhtM1haTFpOdU5qSDlWcGpsWEtacFdFTGd5cUNTbUowRjlkQXdfSVFWUC1vbmNWZW1MTFlEREU5Q0YzTW5jUWlacUp0Mmpkenp6dHROZnRpdm01Q0lMQmwzMg?oc=5
+- India news: Exit polls out in key state elections - dw.com
+  India news: Exit polls out in
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUh1Y1VuM2tWUlpvLUIyZXFBRy1iTWJyOWZnU0xFeDBMbFJzTkhnbTJYXzBRWUIxRlE3S0Q5ZVBGdlp4dnMtVEY1TGNZSmw4Vm9tRGkya2RnUThScHZVbmwyTnltdmw0MmpGanktQlFHLXBIR2pZLWpUcXplWk1KR01WQTVJU2pTNGswZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-30 13:33:46 UTC_
+_Last updated: 2026-04-30 19:15:17 UTC_
