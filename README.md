@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Most exit polls give edge to BJP in Bengal, UDF in Kerala, project return of Himanta, Stalin governments
+- Big cat family lost: Tigress and 4 cubs die within days at Kanha Tiger Reserve
   
-  🔗 https://indianexpress.com/article/india/exit-polls-2026-bengal-assam-kerala-tamil-nadu-results-10662907/
+  🔗 https://indianexpress.com/article/india/big-cat-family-lost-tigress-and-4-cubs-die-within-days-at-kanha-tiger-reserve-10663054/
 
-- From design to operation: What makes Jammu Tawi-Srinagar Vande Bharat train different from others
+- Two water bottles, ORS packets and a cap: How a Census enumerator is racing the sun in Odisha
   
-  🔗 https://indianexpress.com/article/india/from-design-to-operation-what-makes-jammu-tawi-srinagar-vande-bharat-train-different-from-others-10662815/
+  🔗 https://indianexpress.com/article/india/two-water-bottles-ors-packets-and-a-cap-how-a-census-enumerator-is-racing-the-sun-in-odisha-10663043/
 
-- Kerala Election Exit Poll Results 2026 LIVE Updates: Kerala projections predict UDF comeback, narrow lead over LDF
+- Murder masked as bathroom fall: Ranchi teen accused of killing mother with boyfriend’s help
   
-  🔗 https://indianexpress.com/article/india/kerala-election-exit-poll-result-2026-live-updates-10660748/
+  🔗 https://indianexpress.com/article/india/murder-masked-as-bathroom-fall-ranchi-teen-accused-of-killing-mother-with-boyfriends-help-10663053/
 
-- Tamil Nadu Election Exit Poll Results 2026 LIVE Updates: ‘TVK drawing votes at the expense of AIADMK,’ says DMK
+- ‘Facebook and Instagram… of no use if you are under 16’: What Goa’s social media curbs could look like
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-election-exit-poll-result-2026-dmk-tvk-aiadmk-ntk-10660871/
+  🔗 https://indianexpress.com/article/india/facebook-and-instagram-of-no-use-if-you-are-under-16-what-goas-social-media-curbs-could-look-like-10663027/
 
-- Why IIM Bangalore slipped 14 places in QS Executive MBA Rankings 2026
+- Seyed Abbas Araghchi dials Jaishankar; Iran ceasefire discussed
   
-  🔗 https://indianexpress.com/article/india/iim-bangalore-qs-executive-mba-rankings-2026-global-rank-slip-10662120/
+  🔗 https://indianexpress.com/article/india/seyed-abbas-araghchi-dials-jaishankar-iran-ceasefire-discussed-10663136/
+
+- Uber enters hotel business, adds AI voice booking in push to become a ‘super app’
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uber-enters-hotel-business-adds-ai-voice-booking-in-push-to-become-a-super-app-10663288/
 
 - YouTube tests AI-powered search with guided answers and video results
   
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-brings-claude-into-creative-workflows-with-new-ai-connectors-10662410/
 
-- Early riser vs night owl: Why your body clock isn’t a choice
-  
-  🔗 https://indianexpress.com/article/technology/science/early-riser-vs-night-owl-why-your-body-clock-isnt-a-choice-10660593/
+- Bet early and exit often: How IIMA Ventures creates a healthy investment cycle
+  IIMA Ventures exited Pune-based Unbox Robotics earlier this year. The warehouse automation startup raised $28 million in its Series B round led by ICICI Venture.
+  🔗 https://www.livemint.com/companies/bet-early-and-exit-often-how-iima-ventures-creates-a-healthy-investment-cycle-deeptech-startups-funding-11777455951415.html
+
+- Alphabets first-quarter profit soars as Googles big AI bets help push stock to new highs
+  Alphabet's first-quarter profit soars as
+  🔗 https://www.livemint.com/companies/alphabets-first-quarter-profit-soars-as-googles-big-ai-bets-help-push-stock-to-new-highs-11777495926425.html
 
 - Brazil Probe Ties JBS, Cargill to Vendors Linked to Slave Labor
   JBS NV and Cargill Agrícola SA are defendants in a public civil action brought by Brazil prosecutors. Authorities determined the
@@ -52,101 +60,77 @@
   Cognizant’s Project Leap restructuring targets $300 million in savings and margin expansion
   🔗 https://www.livemint.com/companies/news/cognizant-to-cut-4-000-jobs-as-ai-push-weak-demand-weigh-on-outlook-oracle-tcs-11777472134802.html
 
-- Bajaj Finance sees AI-led gains for customers, staff in FY27
-  Bajaj Finance posted a 22% jump in Q4 profit to  ₹5,553 crore and crossed  ⁹5
-  🔗 https://www.livemint.com/companies/bajaj-finance-ai-investment-benefits-fy27-rajeev-jain-11777472236233.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 30 April
+  Nifty 50 and Sensex saw gains on April 29, boosted by stock-specific advancements. Analysts suggest buying Vedanta, IndusInd Bank, Tata Consumer, Siemens Energy
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-30-april-11777513009735.html
 
-- Mythos: AI’s watershed moment or a security nightmare?
-  Claude Mythos or Mythos is US-based Anthropic's advanced AI model designed to handle complex
-  🔗 https://www.livemint.com/companies/mythos-ai-watershed-security-nightmare-cybersecurity-automation-anthropic-11777449435215.html
+- Vedanta Demerger LIVE Updates: Vedanta shares to trade ex-demerger today. Special price discovery session shortly
+  Vedanta Demerger LIVE updates as investors track May 1 record date, and April 30 share price discovery session. Vedanta demerger share entitlement ratio is 1:1
+  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-live-updates-vedanta-demerger-record-date-last-date-share-entitlement-price-discovery-listing-timeline-11777486702829.html
 
-- Gold extends fall after US Fed keeps rate unchanged
-  Gold extends fall after US Fed
-  🔗 https://www.livemint.com/market/gold-extends-fall-after-us-fed-keeps-rate-unchanged-11777488442244.html
+- Buy or sell: Gift Nifty down after escalation in US-Iran war, Vaishali Parekh recommends three stocks to buy today
+  Gift Nifty down, Vaishali Parekh recommends three stocks to
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-live-us-iran-war-us-fed-rate-vaishali-parekh-recommends-three-stocks-to-buy-today-11777512178503.html
 
-- Wall Street extends losses after Fed decision, big tech earnings on tap
-  Wall Street extends losses after Fed decision, big tech
-  🔗 https://www.livemint.com/market/wall-street-extends-losses-after-fed-decision-big-tech-earnings-on-tap-11777488255370.html
+- Stocks to watch: Hindustan Unilever, Bajaj Finance, L&amp;T among 10 shares in focus today
+  The Indian stock market is likely to snap its gaining streak as trends in the Gift Nifty index signalled a negative opening on Thursday. Amid this backdrop, these stocks will remain
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-hindustan-unilever-bajaj-finance-l-t-among-10-shares-in-focus-today-11777511633939.html
 
-- US Federal Reserve keeps rates unchanged for third straight meeting: 5 key takeaways from April policy
-  The US Federal Reserve on 29 April kept the federal funds rate unchanged for the third consecutive meeting at 3.5%–3.75
-  🔗 https://www.livemint.com/market/stock-market-news/us-federal-reserve-keeps-rates-unchanged-for-third-straight-meeting-5-key-takeaways-from-april-policy-11777485690294.html
+- Crude nears $120 as Trump signals Hormuz blockade to continue
+  Brent crude traded close to $120 a barrel. US President Donald Trump said Washington would not end naval blockade of the Strait of Hormuz until a nuclear
+  🔗 https://www.livemint.com/market/commodities/brent-crude-price-oil-prices-india-today-strait-of-hormuz-blockade-us-iran-war-11777511597576.html
 
-- Vedanta demerger: When will four spun-off entities of the mining major trade on Dalal Street? CEO answers
-  Vedanta Resources CEO Deshnee Naidoo said that its India arm will file with stock exchanges next week for
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-when-will-four-spun-off-entities-of-the-mining-major-trade-on-dalal-street-ceo-answers-11777484311804.html
+- Stock Market News, April 29, 2026: Powell to Stay on Fed Board, Central Bank Holds Rates Steady - WSJ
+  Stock Market News, April 29, 2026: Powell to Stay on Fed
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNMml0VkItS2daLU1UNERiRWpGWmdvRndVN3hLMHNPYzVOVzJyM2thd3N2REZ6bWFkVTBPNzE2SDlEUFZWUXgyRW9acVZUdVdmSmdSeXJjZ05TWmxSRWxOQU52bUM1MWpmUm1nX1pCam5xN016Y1dQOU9qR1ZfLXVrdmxyWDdmZw?oc=5
 
-- Kotak Mahindra Bank Q4 earnings preview: Brokerages see steady NII growth, muted profit expansion
-  Kotak Mahindra Bank will announce its Q4FY26 results on 2 May. Brokerages expect steady growth in net interest income and operating profitability.
-  🔗 https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q4-earnings-preview-brokerages-see-steady-nii-growth-muted-profit-expansion-11777480586804.html
+- Markets News, April 29, 2026: Stocks End Mostly Lower After Fed Holds Interest Rates Steady; Oil Jumps; Big Tech Earnings Arrive - Investopedia
+  Markets News, April 29, 2026: Stocks End Mostly Lower After Fed Holds
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPNzBDN2hMM2xONlBxRWppTEJINHF6UUM5OHNpWDU1YVZDMExxNVBUQld2bHBBRUY1c0lwX3VUd0JySno2d1J3VDBHYzdYbi1DYnhuR0NaMzRhYWFvcFBNNDFQcHJybUVVbGJLVEZSU3ZmLU91UHlFTE0wWjhKek0xZklsYzRNMGhFOU9VdHNYSko?oc=5
 
-- Goa govt unveils draft AI policy with aim to position state as global hub for high-tech innovation
-  Goa govt unveils draft AI policy with aim to
-  🔗 https://www.livemint.com/technology/goa-govt-unveils-draft-ai-policy-with-aim-to-position-state-as-global-hub-for-high-tech-innovation-11777468156601.html
+- Tech Stocks Rise in Run-Up to Megacap Earnings: Markets Wrap - Bloomberg.com
+  Tech Stocks Rise in Run-Up
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHZocW91eVJWVV9hMTFXWGg5VFJaQjI4cXBjWEg0eDNnc2pxSWJWN19oSkxxT2F0cG4yLU5WbUc4U2R0WHZRaWkzWk1ucXM4b2lhQ05hYzdKajZEZHJTMEt5YVplYkYwYXY4SktLaUE2dkNGYlRjQWNDd25KeDhaUTlnV081UENETE5SZ3NJVnhyYWYwUGxOR212MmdfaWhUWFdNYjVDVlZEUFpkNFJNTW5n?oc=5
 
-- India in talks with US for ‘equitable’ access to Anthropic's Mythos AI model to secure critical infrastructure: Report
-  The Indian government is negotiating with the US for access to Anthropic's
-  🔗 https://www.livemint.com/technology/tech-news/india-in-talks-with-us-for-equitable-access-to-anthropics-mythos-ai-model-to-secure-critical-infrastructure-report-11777452904251.html
+- Mapping the Market: How resilient is the stock rally? Dow Theory might have an answer - Reuters
+  Mapping the Market: How resilient is the stock rally? Dow
+  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTNGanRWaWpaWnpRZlliSEFxZ3EtbDYzQjdQVlhWbklhVEtyYm5oQzN2VWFveXczblZleXk0SjhKZF9rV3JfRG1BV1phaW9qcjFwTGU3YlhOTFpyX0lEU0NqUjQyNHRlN1BjR3FfWlRYb3hGLThzallBYVBCaFctaU9yMThNbkI1dmVwRw?oc=5
 
-- Anthropic brings Photoshop, Premiere Pro, Blender and more creative apps to Claude: here's how it works
-  Anthropic has upgraded its Claude AI assistant with new connectors for Adobe Creative Cloud, Blender, and Autodesk among other apps. The
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-brings-photoshop-premiere-pro-blender-and-more-creative-apps-to-claude-heres-how-it-works-11777446026016.html
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Deep Red As Brent Crude Surges To $120 - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0VaMFRRME82eGQ3M3VQNHZmX3pwbjV6dWNORUVEek9VYWlXdlYwTkZ3Qk9rS2V3NkFvOFZkaU1LZEtVaWFjQUZaWmxaZXltMThrOVJxekdBQWdZSmctaGlLNDBjVTVsT1
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0VaMFRRME82eGQ3M3VQNHZmX3pwbjV6dWNORUVEek9VYWlXdlYwTkZ3Qk9rS2V3NkFvOFZkaU1LZEtVaWFjQUZaWmxaZXltMThrOVJxekdBQWdZSmctaGlLNDBjVTVsT1pNQWpTU3dQYWk3MHczYWFZcW03Q05aTmdHV1lFdGdFQm1nOGtEbzJ0TlNIeEtVOEVRaV9XV25CRmZlSUdwTGkwRXAyUkNQWVhNMkpoZWhCRFZFSE92TjlGNnZpTURULXNjRkNkcWFNNl96cUdBNWNfei15MFAxT0JHZHA1M05qZmIxSNIB9AFBVV95cUxQNlBlOEl0bWJrd1haR2k4eGtRTzQ1QUVuNUd0QUhDT1FMR0tQVU5LaDcwVDFPN084NGs2OEhQSEJjQjkyRVJMUXI2Zlo4a2w0bzlqS2hRNE12bld4U0RaZGc0cWhtWUd1bHBCWG94cjA2MlA1d2hRMTlDTGlCLTdxQXY2OHppYnFrNjE3WExoMm5UU2lmV3JTMVoydk5WSm9sMDYwdzNGRHZxdi1ZcGJtVUJTbEg5bUM5eHAxODNDa3NjTTFseW9kd291R3lGX1lDVmwzQlQyb1ItenpLNU5WZXo0bURhR1BCVFJIbEppVDdiMEgx?oc=5
 
-- Why did OpenAI ban its Codex AI from talking about ‘goblins’ and ‘gremlins’? New guardrails revealed
-  OpenAI has implemented unusual guardrails in its Codex tool to prevent discussions about mythical
-  🔗 https://www.livemint.com/technology/tech-news/why-did-openai-ban-its-codex-ai-from-talking-about-goblins-and-gremlins-new-guardrails-revealed-11777428641794.html
+- Oil Price Today (April 30): Crude oil soars to $120, hits highest level since 2022. What are experts saying?
+  Oil prices surged to their highest levels since mid-2022 amid growing concerns over a prolonged U.S. blockade on Iranian exports. This disruption, potentially extending until a broader deal is reached, is
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-april-30-crude-oil-soars-to-120-hit-highest-level-since-2022-what-are-experts-saying/articleshow/130621152.cms
 
-- Apple to finally catch up with Samsung and Google, plans to bring 3 new AI editing features to Photos app: Report
-  The new tools could include Extend, Enhance, and Reframe. Apple is set to enhance its photo-editing tools for
-  🔗 https://www.livemint.com/technology/tech-news/apple-to-finally-catch-up-with-samsung-and-google-plans-to-bring-4-new-ai-editing-features-to-photos-app-report-11777431321049.html
+- Dollar holds firm after Fed raises inflation alarm, yen slips past 160
+  The dollar strengthened as hawkish remarks from Federal Reserve policymakers pushed yields higher. Meanwhile, the Japanese yen's sharp decline against the dollar intensified focus on potential intervention risks.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160/articleshow/130621040.cms
 
-- Stocks are little changed as oil jumps and traders brace for Big Tech earnings: Live updates - CNBC
-  Stocks little changed as oil jumps and traders brace for Big Tech earnings: Live updates.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBucVdPQ2ViM2ZERDB6NWprRkNCeFEzN2ZZazRPMTNjT1JoM3NmQlo3QWpYYzdkYXlxU0NVNTBUSFc2bXRkYURIT3BHX296QzZDWUJCZ3ZEdjFuNmpKNS1TYVk3aUtaNFliRS1XVmZnci14Z3RtaV9v0gF8QVVfeXFMT3V3bjJfNVllbTlGbWZMcURDNG5CMzlESGZQbmE3MHA3a1kwVXZET2diVlY0Tkp5RTl2VDVwQWU1Q1ZXNkgtc2ItTjE5RGlkRkNEUm9IYXpTQTdjcDlab09vQkhrQVdwOVNPcV9GUGg4RzlRZ3pXRUEtMFdhQQ?oc=5
+- Gold rebounds from one-month low on softer dollar
+  Gold prices rebounded on Thursday, buoyed by a weaker U.S. dollar. However, elevated oil prices continue to fuel inflation concerns. Global gold demand saw a 2% year-on-year increase in
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-from-one-month-low-on-softer-dollar/articleshow/130620882.cms
 
-- UAE quits OPEC: What that means for the Gulf, energy markets and beyond - Al Jazeera
-  Al Jazeera reports that the United Arab Emirates has quit OPEC.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkFFaG43VHRFX3ZESTc5VFlrcXhvNTZXc3JYcUhXOUFkQTI4Qk1JZHlBdDNteGtJWFNCMFJYdGtiYlVoMEpfeENsMWFpZUNsdHJTTWF6Y0FxOWRua2g1Z2kxTnhkTWp5bWVjSlZ3MndCVWpnN2R4bFJINUM2bldKa0ZkRVNrdTRCdHprY3NNWjVmWHVhZ2dUeHBKeHUweHA0UUlhSWU4RlBDMHg4bjFJ0gG0AUFVX3lxTFB2TzluR1lCQVBKV2pVYjdGUU5WVVNzRUxoMDFXOWhIQXR5cjE1dEUydW1td1VERkxsS3JybVFFSENUR0U3OVhuU2hOb0hXT0I5MzZpNkRKT0JvT2l3UnFid0Y3akszaGpjTHhBTE10a3RVaFVZdmVoLUc4TGpTMHNublJrdGNHWHJVbFVVZi1GQXJhNTd3U2JpMlFoWndEaHhqWm03T1ZEWHZ1NTg3RXo3OXpmVQ?oc=5
+- Oil prices extend gains as US-Iran war deadlock keeps supply off market
+  Oil prices extended gains as concerns mount over prolonged supply disruptions from the Middle East. Talks to end the war have deadlocked, with the Strait of Hormuz remaining largely blocked. The UAE's withdrawal from OPEC is also expected
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-extend-gains-as-us-iran-war-deadlock-keeps-supply-off-market/articleshow/130620730.cms
 
-- Closing Bell: Nifty above 24,150, Sensex jumps 609 pts; Auto, FMCG lead gains - Moneycontrol.com
-  Moneycontrol.com: Nifty above 24,150
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNLWcwOEMyQ3E0ajhGM2ItQV9CZHc3YWtiYnZoS3pzUGNfdGRydnhrd0M4anNNN2ZuYVpGNlRNcG1DeS1JaDF5TTE1NXZmbUNqV1hCSnB4el9LdGNtZExCTndEZEpkVUIzaFRKNWEwT3RqajltaHZCZ2Zaa05nOVJxYmpnWkNWVGNqbHV5THEyOXlXTDhWMDBHc2tOSTdwTEh1S193MHZlMW9CUHYtaWFoQmZkZktnMmtVUXowOS1aLXBGcjRJRWUwNFFFalBvSDg4bk9WbVE5MlgyVFI0cnFGandLZ3hWcE9RMHlhVGpwUlFpb2pzRUhzdDRlNUpBZG1jVXpGNi05azhxa0tCYjFVc2RlVdIBmAJBVV95cUxONTlnTGNVZDRwaUtWYkJ4alZZclduT2dndlNIYTZTQTBVZS1JZEVJOFA4M1ZwalRXVmZWZXUtOGxuQ0JmRTZCUUtNcV9qUkVndzZjcG4yNnVhYi0yTlVONHJSUHdneWxnNTFkU2Fqa3hySUg4OVZhTUlDdUJyOUpJZ0o1Q0FxNXBmUi1qVW1kVmNEYlJZY1RDT3FobzV1WjdEajdDTVpSZktDTE1OMDlNanZXMG0tQ0ZheE9iR25qNFpUNHNlQV9ZMGJNaXVjLU1QNUVKWjRqTE1jV3dOVlFnbVlCSHk1UEZYSXNxcG14ZTVQVFRSVHYzUkNrbEx4MWJMQU5MWnU1ZnUzQVpSd0gzVHl0QXZBclV0?oc=5
+- GIFT Nifty trades lower, hints at a weak start for Dalal Street
+  Gains capped by surging crude oil prices and a weak rupee. Investor sentiment remains cautious ahead of state election exit poll results. Final outcomes expected to add to market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130620724.cms
 
-- Stock Market Highlights: Benchmark indices close in green; Sensex soars over 600 points, Nifty50 beyond 24,170 despite rising crude prices - The Times of India
-  The Sensex soars over 600 points, Nifty50 beyond 24,170 despite rising crude prices.
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOZkphWUFoNVlpUC1JMjU1dDBsSzVseWdQcWg4NVlfWHFpcG93a3ZEZTRSNU1fR0hYRmhvZzZqdm9zbkxoc2xSOERnMjd1ZlhsTlpiV3JhUndvYjhGZVlKSDByR1Z6X3RlMjI5eTdfbkhZVzlnbURycEdYaDY3RGVSdFpQODl0RDdwSkpMbkxSUUwzQjk3bUc0Y0VPSm1WaXB6YzAzaDBtaUdRaGVlM1YzS0VzRFdZbmJZaFVtMlZzNWVieDREa1ZxT0dmQXpTV2ROR2N0bkxfWHE2QmM3b201ZDVXRmd2ZFVmdFBybTQtSEYtRHJPX2oxX1lIcUh5SU9zUjh4UlQtelQtS01BbzdkOER4UkFnQ291ay1LMWVFMnBnWFZKaTVCZ0N5WVdvMmJ6T3fSAbcCQVVfeXFMTWZFRi1JUjREU2pHRDVCV0dFd2ZnN3dHWk9VcXdhVk5WaFIxYmNXQWFLMlR4ZnVDYXJjSl94SkRKZks2UkVLTkxJWnJlTGJqYXVkc1NYZW1jUGlOS3BLbmxMT2hGRjExSklaVVlxRWRycGg4b0lFMVFkRjMxZzlfWTFMRjFsUjloNS1xenNnZkdEQTBDTktYN1laSGNKMVczS0ZzRExqVXBFek15b0VTeWpDMTVmSGJBZ0llMHFaR1Azd2ZDYnJTb1l6MUFUTkR2NldYZ3lNdzB4eGJ6VkJTRjVvcWVaM09RcGZPd1kxa1NRTTR2UGlBYTBiTUs0czdZZG4wVlNQQWxCcTl4Y2N6QWRGNnktaUozT3JxYkN5N2V2ZThXM2x2SndIZFEzOWxiQzlYMDJtRUE?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times
-  Ahead of Market: 10 things that will decide stock market action
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHl4YldJZXNlaVUyb2x4LWVyWXJrOEFZWU54UXlDc2k5cFVzdFRzQXFaS1ltVEI2em8wamZlNFZlcnF5SEl3UDZFaXpQZjNYQ25vM0liaFF0R1hIZUtZUlBaUUEyYjljX2pSaVlMUmJfeUFnUTNQdlh2Slk5Ni1DY0hieHZULTdTRjhNb1hIVlUxY1A1UWZMY1A5TllqeHhDcUpTZUYzOGxzNUJoY0FwUzh6WTMtem12VFdsZ0k5RFJfSU1pUEI4WU1KWU5mUWV3UmJteEkxZDNzX1hRbnY2b1d30gHnAUFVX3lxTE9KMnlnUEZ5UU9pcHRnS1Z5cVJZV3VLS0k3cTVjMlM0OTg0bDhCT2RIalZVV014Wm9janpNV3BvVzJUWUVCY2RmZUthR3ZBVHRTcUFyNnVRNWFBRGtscS03XzhTT0ViMTN5MTV6LVh3c0d0RW9EaC0wWENNR3FHZ2tPTHZnOGExTUVHSF9NY2VyRDlJUGh0bk9wX1hPdDVkMi1pR3JWOXdkYkFsWDQ1UFFpeGNheTVBYmk4dGwyZEprQkdhZlR0OFMwYjVJV1NnaXI0bEZOVldpdkdpX1BHdUJTMkJoTlRlRQ?oc=5
+- Air India To Start Hub-And-Spoke International Trials From Varanasi In June - NDTV
+  Air India To Start Hub-And-Sp
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0ZIVlN0UFVLTm05YWxfdlJzdWVVNUE3ZVY2REFzR0kwR013cEhLOUJfbmcwOUM1RXdIQXliUjh0MnpxbzM1NzhiNkRLSzFyNkFHSWlaOWN5OFNUcnhZN0VhNGlJalVaYjlOZjY2SnluYTNGZXdCVWdqbkRGY2o1ZmVja0p5WFl2dTFPZlY5RV9LeW0wbi1oRldyc1d2eGxhbnZmZ2pmZUFuX1FMVDFvM2N3S2pLVEnSAb8BQVVfeXFMT1dTem9PX3puQ3pwYVVSOHNQMC1RSUE5MGdVa1U1WHZOUE1UbXlReE5Ya0QycjhMTWdxcVZJeVctZGU2a09NZW9UbERTenkzRExtNW9iZ3hMU2ZNbFVUVzlBdUQzSW1BYWZqdzBPVE1BOXpvV3F1ekQ2U0x3ck1mMnQzc211cE9OUmVudWZ1dzFSS1dYaHFoSHpQd1RmYmZzWmJHbFJEWWYyZXZacmEzdzFCU0lSd1RqZXJZdkNzcmc?oc=5
 
-- US Federal Reserve holds interest rates steady, signaling caution as chair Jerome Powell nears exit
-  The Federal Reserve held interest rates steady for the third time. Policymakers are balancing inflation concerns with the potential impact of aggressive hikes on economic growth.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-interest-rates-steady-signaling-caution-as-chair-jerome-powell-nears-exit/articleshow/130614619.cms
-
-- Mauritius-based entity sells Rs 289 crore worth shares in Emcure Pharmaceuticals via block deal; Norges Bank acquirer
-  Emmure Pharmaceuticals saw a significant block deal where BC Investments IV Limited sold 18 lakh shares for Rs 289 crore to Norges Bank. The pharma company, which manufactures APIs and formulations, has shown strong performance with a 67
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mauritius-based-entity-sells-rs-289-crore-worth-shares-in-emcure-pharmaceuticals-via-block-deal-norges-bank-acquirer/articleshow/130612659.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty 50 and Sensex both closed higher, driven by gains in auto, FMCG, and IT sectors. Analysts observed mixed signals with key support and resistance levels identified. US and European markets traded with mixed results ahead of
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130611836.cms
-
-- Vedanta's demerged entities to trade by mid-June after split, says CEO
-  Vedanta is set to file for listing approval of its demerged companies next week. Shares of these new entities are anticipated to begin trading by mid-June. This strategic move will create five independent, sector
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedantas-demerged-entities-to-trade-by-mid-june-after-split-says-ceo/articleshow/130611879.cms
-
-- Market Trading Guide: Buy RIL and Coal India on Thursday for near term gains up to 8%
-  Reliance Industries shows strong bullish momentum with potential upside to Rs 1,500-1,520. Coal India broke resistance and is poised for gains towards Rs 510-520.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ril-and-coal-india-on-thursday-for-near-term-gains-up-to-8/articleshow/130611569.cms
-
-- 12 Dead, 20 Injured As Van Crashes Into SUV In Madhya Pradesh - NDTV
-  12 dead, 20 Injured As Van Crashes
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUZuenpvWjZxTUt0M3UwX3VCOEVZX0pmZ1lTSk1TZ2c4UTE4aTh1U3JONElVQTRkNkZLQXE2WHc0SW9mNDdCZjYyeDFGYzlyTjFBU2Q3M1F3WU85ZkdzVXQ0R0xwdDdlUDV5OTZBc1hnYzZFcWVObFYtRzhWM2drZS1xNHlDTmlXRFRHVTdaaGpFMUNpVHR1UkdLb3J5STNiLV9r0gGrAUFVX3lxTE51b0lQSkpvdHc2VDhmcnVIdnF4Ui0wLUJxUFFybnlkbnlHczNUTUNfUjdvaUY4X1V1aGNNbHE0MmFOSy15aHU3cmlWT2hIR0tTbGxaa0psZzRMRXFCeWhqS1l0MHkxektUMFpuWTZvZTJMUVJjQkJGQnB2M05obzlBWFFvN2pXVVF2Ujhoc0ZnV0MtOWdPaUl0U19OTDAxd3ZDNUJJZlNqTUdzNA?oc=5
-
-- Check Point Software Technologies’ SecureAcademy program is now available in eight more leading universit - The Times of India
-  Check Point Software Technologies’ SecureAcademy program is now available in
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxQOHNDaUhhU2h5NWF2Y1RwdzVQU19xNVR4ekRpTWlxbnZXOXNPX29pTm1PLXNzVEQ1Sy16WHVRSEVxLThBVjhMb1ZjR1BrMVNYOWNHRWl4MEw5ZWJMeGpyN0VrcUhSQmdPOXN2U3BRSWx1MmtGMnNSVk5acW9RdnBoRG80T1h0eWs2RHMwOG1ER3VWbWE3SjAyTVVBWi1WUWViUG9nWTh5U1o2ckktT0VfamlqeUtSaGl0X1Z1R3dkLW0wTXhLb3dvajhWQ2pETGtQckFyLUctMDRTOGVwN0tNOTdPU1JFaVVBYkd6cDhrVHFhMTJNLS1SR0ZBeTQzRnUxOE5QZlp3T1VCTTBEVjd4M19OUUUxTHFabW14NzhaQ19KTWZEV2fSAasCQVVfeXFMUG0tSkF2QU0zSkN4N2tUYXpZNGszVXI1blppZzNGUUlGUWkwTlQ4WHFWS3JndS1IOVNfa3hIeGUybzNpUFYzeDhEaXdudEg4UVRPNlRJRzg3WDhybWt5aEg0TzVNZDlLUG0xLXZyQzZDQ3NRWlN0VzVQT2loTWNBM3NoMEpUM3ZfTG54QkI1VkhMYjYtbFdFVjdHdWtGVnFyZk54TkgwcHQxM2NpV1BEYnVGazBlTkJQa1B2UTZYb1FjNEJBYmREbHlZQWV3TzJYSTE4T0I4d042bmZPcUhPMjRxUkVBRS1FaVJTcWZJTnNUVV9UTVZ5UEdFc0VtRTVpNFZicFFWRW5KNTFONlpFUzViS1A3eG9OV0JvTWFGMTdUMGJiMmxINUNiRWs?oc=5
+- NMC nod to cardiology diploma after years of wait - The Times of India
+  NMC nod to cardiology diploma after years of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEY3dlVjNWhoV0Q0R3UyTG5zVFVlM1puYzFQWXJ4c1Q4LS1EdzFuS21oT3FJRWdwcTlDcFVoQUpxbEZWLUFtNlVnRGhqajRNZ21maURsWVBQNUlwTXI1RVBuNnNXbDdmVkdxUW52UUYxc3pYSUY1TWNpRTVQVFJyWG1NZ3NreXFjbzM4VC1KSWQ2YkNEYXRqMnhSd2syOFYwZEprTTFVbFFZMTRMM3RCdEZRUktuRExC0gG-AUFVX3lxTE1UOEpBLUxaX1U4VUh4b1U2SHpiaWVidEV1UkswcEtXVjlCbVNDVC1GLW01Yloza1FvTnIwUm1CcFM3em90aWJRTk16Z3c2NlJUZnNvOUpfZmlFMTM5OEtXNGhiYTdkZTg4Znc2clRXMGxxSkpwOUJfNXJ4UDZXU2Y2SXEwUTcxcDBxQUVFWlc3VXFYOE1tbjB2SWJOUDBKbHI3ZjVCUXMyNU10X21mVXNhamlSdFpVS29Hc2VYMVE?oc=5
 
 - Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
   Indian man carries his sister's skeleton to a bank to prove her
@@ -156,37 +140,17 @@
   India news: High voter turnout in
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
 
-- Is India’s Chabahar dream in Iran dead? - Al Jazeera
-  Is India’s Ch
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUFMSzhfVVlzN252NzR1aFVWWnR1TWlOYzRyZllqUmYwUGp2WDBXYWd2ZVNnZTEyQUNlVTQ2NFdER2ZISkotRENZcFROWTliTTNYYmpjcHN6YzVTWHVlUFBHRVZXdEtHeWJ3WWFENmw3anV4MGI0a05xS1F5WndiMEpmaUUtdnJCUEHSAY8BQVVfeXFMT3YtVmVfa3ZIc3hJNFNFcUNLdUFuc2ZNLUxnb3hadW51SmNVU2wxNUR0NE1sVjBKZFU0b1ZwbGM5TXNXZnc1bEgxQWs3ZEhUcXhvR2JKTWtoQ1VQc1Rwb3QxVmQ2U3F0MlYxenFYRmtDNVRJeUo1X1Y4MWRQMmNENkE1SkN0LVFpRlpKaEhRa1U?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
 
-- 12 Dead, 20 Injured As Van Crashes Into SUV In Madhya Pradesh - NDTV
-  12 dead, 20 Injured As Van Crashes
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUZuenpvWjZxTUt0M3UwX3VCOEVZX0pmZ1lTSk1TZ2c4UTE4aTh1U3JONElVQTRkNkZLQXE2WHc0SW9mNDdCZjYyeDFGYzlyTjFBU2Q3M1F3WU85ZkdzVXQ0R0xwdDdlUDV5OTZBc1hnYzZFcWVObFYtRzhWM2drZS1xNHlDTmlXRFRHVTdaaGpFMUNpVHR1UkdLb3J5STNiLV9r0gGrAUFVX3lxTE51b0lQSkpvdHc2VDhmcnVIdnF4Ui0wLUJxUFFybnlkbnlHczNUTUNfUjdvaUY4X1V1aGNNbHE0MmFOSy15aHU3cmlWT2hIR0tTbGxaa0psZzRMRXFCeWhqS1l0MHkxektUMFpuWTZvZTJMUVJjQkJGQnB2M05obzlBWFFvN2pXVVF2Ujhoc0ZnV0MtOWdPaUl0U19OTDAxd3ZDNUJJZlNqTUdzNA?oc=5
+- Air India To Start Hub-And-Spoke International Trials From Varanasi In June - NDTV
+  Air India To Start Hub-And-Sp
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0ZIVlN0UFVLTm05YWxfdlJzdWVVNUE3ZVY2REFzR0kwR013cEhLOUJfbmcwOUM1RXdIQXliUjh0MnpxbzM1NzhiNkRLSzFyNkFHSWlaOWN5OFNUcnhZN0VhNGlJalVaYjlOZjY2SnluYTNGZXdCVWdqbkRGY2o1ZmVja0p5WFl2dTFPZlY5RV9LeW0wbi1oRldyc1d2eGxhbnZmZ2pmZUFuX1FMVDFvM2N3S2pLVEnSAb8BQVVfeXFMT1dTem9PX3puQ3pwYVVSOHNQMC1RSUE5MGdVa1U1WHZOUE1UbXlReE5Ya0QycjhMTWdxcVZJeVctZGU2a09NZW9UbERTenkzRExtNW9iZ3hMU2ZNbFVUVzlBdUQzSW1BYWZqdzBPVE1BOXpvV3F1ekQ2U0x3ck1mMnQzc211cE9OUmVudWZ1dzFSS1dYaHFoSHpQd1RmYmZzWmJHbFJEWWYyZXZacmEzdzFCU0lSd1RqZXJZdkNzcmc?oc=5
 
-- Check Point Software Technologies’ SecureAcademy program is now available in eight more leading universit - The Times of India
-  Check Point Software Technologies’ SecureAcademy program is now available in
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxQOHNDaUhhU2h5NWF2Y1RwdzVQU19xNVR4ekRpTWlxbnZXOXNPX29pTm1PLXNzVEQ1Sy16WHVRSEVxLThBVjhMb1ZjR1BrMVNYOWNHRWl4MEw5ZWJMeGpyN0VrcUhSQmdPOXN2U3BRSWx1MmtGMnNSVk5acW9RdnBoRG80T1h0eWs2RHMwOG1ER3VWbWE3SjAyTVVBWi1WUWViUG9nWTh5U1o2ckktT0VfamlqeUtSaGl0X1Z1R3dkLW0wTXhLb3dvajhWQ2pETGtQckFyLUctMDRTOGVwN0tNOTdPU1JFaVVBYkd6cDhrVHFhMTJNLS1SR0ZBeTQzRnUxOE5QZlp3T1VCTTBEVjd4M19OUUUxTHFabW14NzhaQ19KTWZEV2fSAasCQVVfeXFMUG0tSkF2QU0zSkN4N2tUYXpZNGszVXI1blppZzNGUUlGUWkwTlQ4WHFWS3JndS1IOVNfa3hIeGUybzNpUFYzeDhEaXdudEg4UVRPNlRJRzg3WDhybWt5aEg0TzVNZDlLUG0xLXZyQzZDQ3NRWlN0VzVQT2loTWNBM3NoMEpUM3ZfTG54QkI1VkhMYjYtbFdFVjdHdWtGVnFyZk54TkgwcHQxM2NpV1BEYnVGazBlTkJQa1B2UTZYb1FjNEJBYmREbHlZQWV3TzJYSTE4T0I4d042bmZPcUhPMjRxUkVBRS1FaVJTcWZJTnNUVV9UTVZ5UEdFc0VtRTVpNFZicFFWRW5KNTFONlpFUzViS1A3eG9OV0JvTWFGMTdUMGJiMmxINUNiRWs?oc=5
-
-- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
-  Indian man carries his sister's skeleton to a bank to prove her
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
-
-- India news: High voter turnout in West Bengal elections - DW.com
-  India news: High voter turnout in
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
-
-- Is India’s Chabahar dream in Iran dead? - Al Jazeera
-  Is India’s Ch
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUFMSzhfVVlzN252NzR1aFVWWnR1TWlOYzRyZllqUmYwUGp2WDBXYWd2ZVNnZTEyQUNlVTQ2NFdER2ZISkotRENZcFROWTliTTNYYmpjcHN6YzVTWHVlUFBHRVZXdEtHeWJ3WWFENmw3anV4MGI0a05xS1F5WndiMEpmaUUtdnJCUEHSAY8BQVVfeXFMT3YtVmVfa3ZIc3hJNFNFcUNLdUFuc2ZNLUxnb3hadW51SmNVU2wxNUR0NE1sVjBKZFU0b1ZwbGM5TXNXZnc1bEgxQWs3ZEhUcXhvR2JKTWtoQ1VQc1Rwb3QxVmQ2U3F0MlYxenFYRmtDNVRJeUo1X1Y4MWRQMmNENkE1SkN0LVFpRlpKaEhRa1U?oc=5
-
-- 12 Dead, 20 Injured As Van Crashes Into SUV In Madhya Pradesh - NDTV
-  12 dead, 20 Injured As Van Crashes
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUZuenpvWjZxTUt0M3UwX3VCOEVZX0pmZ1lTSk1TZ2c4UTE4aTh1U3JONElVQTRkNkZLQXE2WHc0SW9mNDdCZjYyeDFGYzlyTjFBU2Q3M1F3WU85ZkdzVXQ0R0xwdDdlUDV5OTZBc1hnYzZFcWVObFYtRzhWM2drZS1xNHlDTmlXRFRHVTdaaGpFMUNpVHR1UkdLb3J5STNiLV9r0gGrAUFVX3lxTE51b0lQSkpvdHc2VDhmcnVIdnF4Ui0wLUJxUFFybnlkbnlHczNUTUNfUjdvaUY4X1V1aGNNbHE0MmFOSy15aHU3cmlWT2hIR0tTbGxaa0psZzRMRXFCeWhqS1l0MHkxektUMFpuWTZvZTJMUVJjQkJGQnB2M05obzlBWFFvN2pXVVF2Ujhoc0ZnV0MtOWdPaUl0U19OTDAxd3ZDNUJJZlNqTUdzNA?oc=5
-
-- Check Point Software Technologies’ SecureAcademy program is now available in eight more leading universit - The Times of India
-  Check Point Software Technologies’ SecureAcademy program is now available in
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxQOHNDaUhhU2h5NWF2Y1RwdzVQU19xNVR4ekRpTWlxbnZXOXNPX29pTm1PLXNzVEQ1Sy16WHVRSEVxLThBVjhMb1ZjR1BrMVNYOWNHRWl4MEw5ZWJMeGpyN0VrcUhSQmdPOXN2U3BRSWx1MmtGMnNSVk5acW9RdnBoRG80T1h0eWs2RHMwOG1ER3VWbWE3SjAyTVVBWi1WUWViUG9nWTh5U1o2ckktT0VfamlqeUtSaGl0X1Z1R3dkLW0wTXhLb3dvajhWQ2pETGtQckFyLUctMDRTOGVwN0tNOTdPU1JFaVVBYkd6cDhrVHFhMTJNLS1SR0ZBeTQzRnUxOE5QZlp3T1VCTTBEVjd4M19OUUUxTHFabW14NzhaQ19KTWZEV2fSAasCQVVfeXFMUG0tSkF2QU0zSkN4N2tUYXpZNGszVXI1blppZzNGUUlGUWkwTlQ4WHFWS3JndS1IOVNfa3hIeGUybzNpUFYzeDhEaXdudEg4UVRPNlRJRzg3WDhybWt5aEg0TzVNZDlLUG0xLXZyQzZDQ3NRWlN0VzVQT2loTWNBM3NoMEpUM3ZfTG54QkI1VkhMYjYtbFdFVjdHdWtGVnFyZk54TkgwcHQxM2NpV1BEYnVGazBlTkJQa1B2UTZYb1FjNEJBYmREbHlZQWV3TzJYSTE4T0I4d042bmZPcUhPMjRxUkVBRS1FaVJTcWZJTnNUVV9UTVZ5UEdFc0VtRTVpNFZicFFWRW5KNTFONlpFUzViS1A3eG9OV0JvTWFGMTdUMGJiMmxINUNiRWs?oc=5
+- NMC nod to cardiology diploma after years of wait - The Times of India
+  NMC nod to cardiology diploma after years of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEY3dlVjNWhoV0Q0R3UyTG5zVFVlM1puYzFQWXJ4c1Q4LS1EdzFuS21oT3FJRWdwcTlDcFVoQUpxbEZWLUFtNlVnRGhqajRNZ21maURsWVBQNUlwTXI1RVBuNnNXbDdmVkdxUW52UUYxc3pYSUY1TWNpRTVQVFJyWG1NZ3NreXFjbzM4VC1KSWQ2YkNEYXRqMnhSd2syOFYwZEprTTFVbFFZMTRMM3RCdEZRUktuRExC0gG-AUFVX3lxTE1UOEpBLUxaX1U4VUh4b1U2SHpiaWVidEV1UkswcEtXVjlCbVNDVC1GLW01Yloza1FvTnIwUm1CcFM3em90aWJRTk16Z3c2NlJUZnNvOUpfZmlFMTM5OEtXNGhiYTdkZTg4Znc2clRXMGxxSkpwOUJfNXJ4UDZXU2Y2SXEwUTcxcDBxQUVFWlc3VXFYOE1tbjB2SWJOUDBKbHI3ZjVCUXMyNU10X21mVXNhamlSdFpVS29Hc2VYMVE?oc=5
 
 - Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
   Indian man carries his sister's skeleton to a bank to prove her
@@ -196,17 +160,17 @@
   India news: High voter turnout in
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
 
-- Is India’s Chabahar dream in Iran dead? - Al Jazeera
-  Is India’s Ch
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUFMSzhfVVlzN252NzR1aFVWWnR1TWlOYzRyZllqUmYwUGp2WDBXYWd2ZVNnZTEyQUNlVTQ2NFdER2ZISkotRENZcFROWTliTTNYYmpjcHN6YzVTWHVlUFBHRVZXdEtHeWJ3WWFENmw3anV4MGI0a05xS1F5WndiMEpmaUUtdnJCUEHSAY8BQVVfeXFMT3YtVmVfa3ZIc3hJNFNFcUNLdUFuc2ZNLUxnb3hadW51SmNVU2wxNUR0NE1sVjBKZFU0b1ZwbGM5TXNXZnc1bEgxQWs3ZEhUcXhvR2JKTWtoQ1VQc1Rwb3QxVmQ2U3F0MlYxenFYRmtDNVRJeUo1X1Y4MWRQMmNENkE1SkN0LVFpRlpKaEhRa1U?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
 
-- 12 Dead, 20 Injured As Van Crashes Into SUV In Madhya Pradesh - NDTV
-  12 dead, 20 Injured As Van Crashes
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUZuenpvWjZxTUt0M3UwX3VCOEVZX0pmZ1lTSk1TZ2c4UTE4aTh1U3JONElVQTRkNkZLQXE2WHc0SW9mNDdCZjYyeDFGYzlyTjFBU2Q3M1F3WU85ZkdzVXQ0R0xwdDdlUDV5OTZBc1hnYzZFcWVObFYtRzhWM2drZS1xNHlDTmlXRFRHVTdaaGpFMUNpVHR1UkdLb3J5STNiLV9r0gGrAUFVX3lxTE51b0lQSkpvdHc2VDhmcnVIdnF4Ui0wLUJxUFFybnlkbnlHczNUTUNfUjdvaUY4X1V1aGNNbHE0MmFOSy15aHU3cmlWT2hIR0tTbGxaa0psZzRMRXFCeWhqS1l0MHkxektUMFpuWTZvZTJMUVJjQkJGQnB2M05obzlBWFFvN2pXVVF2Ujhoc0ZnV0MtOWdPaUl0U19OTDAxd3ZDNUJJZlNqTUdzNA?oc=5
+- Air India To Start Hub-And-Spoke International Trials From Varanasi In June - NDTV
+  Air India To Start Hub-And-Sp
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0ZIVlN0UFVLTm05YWxfdlJzdWVVNUE3ZVY2REFzR0kwR013cEhLOUJfbmcwOUM1RXdIQXliUjh0MnpxbzM1NzhiNkRLSzFyNkFHSWlaOWN5OFNUcnhZN0VhNGlJalVaYjlOZjY2SnluYTNGZXdCVWdqbkRGY2o1ZmVja0p5WFl2dTFPZlY5RV9LeW0wbi1oRldyc1d2eGxhbnZmZ2pmZUFuX1FMVDFvM2N3S2pLVEnSAb8BQVVfeXFMT1dTem9PX3puQ3pwYVVSOHNQMC1RSUE5MGdVa1U1WHZOUE1UbXlReE5Ya0QycjhMTWdxcVZJeVctZGU2a09NZW9UbERTenkzRExtNW9iZ3hMU2ZNbFVUVzlBdUQzSW1BYWZqdzBPVE1BOXpvV3F1ekQ2U0x3ck1mMnQzc211cE9OUmVudWZ1dzFSS1dYaHFoSHpQd1RmYmZzWmJHbFJEWWYyZXZacmEzdzFCU0lSd1RqZXJZdkNzcmc?oc=5
 
-- Check Point Software Technologies’ SecureAcademy program is now available in eight more leading universit - The Times of India
-  Check Point Software Technologies’ SecureAcademy program is now available in
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxQOHNDaUhhU2h5NWF2Y1RwdzVQU19xNVR4ekRpTWlxbnZXOXNPX29pTm1PLXNzVEQ1Sy16WHVRSEVxLThBVjhMb1ZjR1BrMVNYOWNHRWl4MEw5ZWJMeGpyN0VrcUhSQmdPOXN2U3BRSWx1MmtGMnNSVk5acW9RdnBoRG80T1h0eWs2RHMwOG1ER3VWbWE3SjAyTVVBWi1WUWViUG9nWTh5U1o2ckktT0VfamlqeUtSaGl0X1Z1R3dkLW0wTXhLb3dvajhWQ2pETGtQckFyLUctMDRTOGVwN0tNOTdPU1JFaVVBYkd6cDhrVHFhMTJNLS1SR0ZBeTQzRnUxOE5QZlp3T1VCTTBEVjd4M19OUUUxTHFabW14NzhaQ19KTWZEV2fSAasCQVVfeXFMUG0tSkF2QU0zSkN4N2tUYXpZNGszVXI1blppZzNGUUlGUWkwTlQ4WHFWS3JndS1IOVNfa3hIeGUybzNpUFYzeDhEaXdudEg4UVRPNlRJRzg3WDhybWt5aEg0TzVNZDlLUG0xLXZyQzZDQ3NRWlN0VzVQT2loTWNBM3NoMEpUM3ZfTG54QkI1VkhMYjYtbFdFVjdHdWtGVnFyZk54TkgwcHQxM2NpV1BEYnVGazBlTkJQa1B2UTZYb1FjNEJBYmREbHlZQWV3TzJYSTE4T0I4d042bmZPcUhPMjRxUkVBRS1FaVJTcWZJTnNUVV9UTVZ5UEdFc0VtRTVpNFZicFFWRW5KNTFONlpFUzViS1A3eG9OV0JvTWFGMTdUMGJiMmxINUNiRWs?oc=5
+- NMC nod to cardiology diploma after years of wait - The Times of India
+  NMC nod to cardiology diploma after years of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEY3dlVjNWhoV0Q0R3UyTG5zVFVlM1puYzFQWXJ4c1Q4LS1EdzFuS21oT3FJRWdwcTlDcFVoQUpxbEZWLUFtNlVnRGhqajRNZ21maURsWVBQNUlwTXI1RVBuNnNXbDdmVkdxUW52UUYxc3pYSUY1TWNpRTVQVFJyWG1NZ3NreXFjbzM4VC1KSWQ2YkNEYXRqMnhSd2syOFYwZEprTTFVbFFZMTRMM3RCdEZRUktuRExC0gG-AUFVX3lxTE1UOEpBLUxaX1U4VUh4b1U2SHpiaWVidEV1UkswcEtXVjlCbVNDVC1GLW01Yloza1FvTnIwUm1CcFM3em90aWJRTk16Z3c2NlJUZnNvOUpfZmlFMTM5OEtXNGhiYTdkZTg4Znc2clRXMGxxSkpwOUJfNXJ4UDZXU2Y2SXEwUTcxcDBxQUVFWlc3VXFYOE1tbjB2SWJOUDBKbHI3ZjVCUXMyNU10X21mVXNhamlSdFpVS29Hc2VYMVE?oc=5
 
 - Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
   Indian man carries his sister's skeleton to a bank to prove her
@@ -216,9 +180,25 @@
   India news: High voter turnout in
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
 
-- Is India’s Chabahar dream in Iran dead? - Al Jazeera
-  Is India’s Ch
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUFMSzhfVVlzN252NzR1aFVWWnR1TWlOYzRyZllqUmYwUGp2WDBXYWd2ZVNnZTEyQUNlVTQ2NFdER2ZISkotRENZcFROWTliTTNYYmpjcHN6YzVTWHVlUFBHRVZXdEtHeWJ3WWFENmw3anV4MGI0a05xS1F5WndiMEpmaUUtdnJCUEHSAY8BQVVfeXFMT3YtVmVfa3ZIc3hJNFNFcUNLdUFuc2ZNLUxnb3hadW51SmNVU2wxNUR0NE1sVjBKZFU0b1ZwbGM5TXNXZnc1bEgxQWs3ZEhUcXhvR2JKTWtoQ1VQc1Rwb3QxVmQ2U3F0MlYxenFYRmtDNVRJeUo1X1Y4MWRQMmNENkE1SkN0LVFpRlpKaEhRa1U?oc=5
+- India pulls off a power miracle. A big thanks to the Sun - India Today
+  India pulls off a power miracle. A big thanks to
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUx2N3NiOXBuMWNhNUpLVFdxbmoydmp1QkllRW04cWJRb05wYUFCYllrSHZUZWxpS1ptWk5KbzIxQnFEa1c3MmdtNTdMSGVjd01idzFGRnJLTklkbUpIVzFFaWVLSFRXYkZjVDZ0MzE0SVpLYmNob3NTM1dqYzMzUWZYY0hSUF9KWXhFaUdGWUpUcTUyb0wxdlVBOVhacHl2bWkxOWZ3dVV2THJ4MHEzbEhXaEpvbXhpdHdveV9nTXhveElOc1c0THJjZW5YNEZycmdPM1NyY9IB3AFBVV95cUxORllLd0VxblVRUlB0RUZLbXI3T3A3d3pYM3pLQ0dWNkk0QWdleEsyeENZaDRQdTI5MkVlemJQSTlhVjNsMHpPdHFMdkgyNHZ4MWxuUHFWYkp5a2JZbTNJZTZfbkxXRGNiakFwY29EaUUzbTRkdHN2VVpTT2t4bmFKOG5lYURpM0FGYzg1MGdSMGp3bUxxZlBtSE10elV4QWRnRHhxOW5YaEhhX1hUX1lkMkxxeUFxa2N5T2c3UFJjbU9MVVM2OFVpWmJBcUo5VGdJZ1Zxelc5MWxRSjNu?oc=5
+
+- Air India To Start Hub-And-Spoke International Trials From Varanasi In June - NDTV
+  Air India To Start Hub-And-Sp
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0ZIVlN0UFVLTm05YWxfdlJzdWVVNUE3ZVY2REFzR0kwR013cEhLOUJfbmcwOUM1RXdIQXliUjh0MnpxbzM1NzhiNkRLSzFyNkFHSWlaOWN5OFNUcnhZN0VhNGlJalVaYjlOZjY2SnluYTNGZXdCVWdqbkRGY2o1ZmVja0p5WFl2dTFPZlY5RV9LeW0wbi1oRldyc1d2eGxhbnZmZ2pmZUFuX1FMVDFvM2N3S2pLVEnSAb8BQVVfeXFMT1dTem9PX3puQ3pwYVVSOHNQMC1RSUE5MGdVa1U1WHZOUE1UbXlReE5Ya0QycjhMTWdxcVZJeVctZGU2a09NZW9UbERTenkzRExtNW9iZ3hMU2ZNbFVUVzlBdUQzSW1BYWZqdzBPVE1BOXpvV3F1ekQ2U0x3ck1mMnQzc211cE9OUmVudWZ1dzFSS1dYaHFoSHpQd1RmYmZzWmJHbFJEWWYyZXZacmEzdzFCU0lSd1RqZXJZdkNzcmc?oc=5
+
+- NMC nod to cardiology diploma after years of wait - The Times of India
+  NMC nod to cardiology diploma after years of
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEY3dlVjNWhoV0Q0R3UyTG5zVFVlM1puYzFQWXJ4c1Q4LS1EdzFuS21oT3FJRWdwcTlDcFVoQUpxbEZWLUFtNlVnRGhqajRNZ21maURsWVBQNUlwTXI1RVBuNnNXbDdmVkdxUW52UUYxc3pYSUY1TWNpRTVQVFJyWG1NZ3NreXFjbzM4VC1KSWQ2YkNEYXRqMnhSd2syOFYwZEprTTFVbFFZMTRMM3RCdEZRUktuRExC0gG-AUFVX3lxTE1UOEpBLUxaX1U4VUh4b1U2SHpiaWVidEV1UkswcEtXVjlCbVNDVC1GLW01Yloza1FvTnIwUm1CcFM3em90aWJRTk16Z3c2NlJUZnNvOUpfZmlFMTM5OEtXNGhiYTdkZTg4Znc2clRXMGxxSkpwOUJfNXJ4UDZXU2Y2SXEwUTcxcDBxQUVFWlc3VXFYOE1tbjB2SWJOUDBKbHI3ZjVCUXMyNU10X21mVXNhamlSdFpVS29Hc2VYMVE?oc=5
+
+- Outrage after Indian man carries his sister's skeleton to a bank to prove her death - BBC
+  Indian man carries his sister's skeleton to a bank to prove her
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxTmhNa293czEyWVdfOGRSMWNnUlJjMWlNYUdMay1lWXNMN0gzZ3d2NUJFZWRYanhuQ3hBaWphX0FMQ05yMEFVWjhEdDhORG56Q2stQXdzWUwtQQ?oc=5
+
+- India news: High voter turnout in West Bengal elections - DW.com
+  India news: High voter turnout in
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXJOQkwzMnNWZ19jd3R4aE96MENudGVRUm9lU01nVFpaTFhzYXVvZ0hOYUtmZl9iM1IzbVhuQmN5X0RfbzZBV3pOSmg1dlU5VWRiR0hYeEx2V0p2TFNoTzQ5NU8wSHNMZ1F2NFRhRHB5ZXh4ZlZfQ1RYWHg4dlFKeUlTS0tRQkktSjcwaUs1dXI2aVNwVXAzeEw4a0I5NGJmMjlzaWl1VDNiaU0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-04-29 19:22:25 UTC_
+_Last updated: 2026-04-30 02:33:36 UTC_
