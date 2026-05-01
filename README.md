@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Commercial LPG rates hiked by Rs 993; domestic fuel, ATF prices remain unchanged
+- When main charges fail, ED should not stop investigating, says top government lawyer
   
-  🔗 https://indianexpress.com/article/india/commercial-lpg-rates-hiked-rs-993-domestic-fuel-atf-prices-remain-unchanged-10665026/
+  🔗 https://indianexpress.com/article/india/pmla-cases-acquittal-predicate-offence-ed-strategy-10665520/
 
-- Video claimed to show Dalit student cleaning school toilet. Probe reveals a different reality
+- Tamil Nadu Election Results 2026: Date, time, when and where to check TN Assembly results
   
-  🔗 https://indianexpress.com/article/india/video-claimed-to-show-dalit-student-cleaning-school-toilet-probe-reveals-a-different-reality-10664811/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-election-results-2026-date-time-10665519/
 
-- In Madhya Pradesh, a KBC-winning tehsildar, a flood relief ‘scam’, and hundreds of farmers in limbo
+- In last moments, mother held son in tight embrace: Tragic sight awaited Madhya Pradesh boat accident rescuers
   
-  🔗 https://indianexpress.com/article/india/in-madhya-pradesh-a-kbc-winning-tehsildar-a-flood-relief-scam-and-hundreds-of-farmers-in-limbo-10664818/
+  🔗 https://indianexpress.com/article/india/narmada-boat-accident-toll-rises-to-9-10665492/
 
-- MHA updates citizenship rules, tightens norms on dual passports for minors
+- Pawan Khera gets anticipatory bail from Supreme Court in Riniki Bhuyan defamation case
   
-  🔗 https://indianexpress.com/article/india/mha-updates-citizenship-rules-tightens-norms-on-dual-passports-for-minors-10664888/
+  🔗 https://indianexpress.com/article/india/pawan-khera-anticipatory-bail-supreme-court-riniki-bhuyan-assam-defamation-case-10665453/
 
-- Rajnath meets Italian counterpart Crosetto, Bilateral Military Cooperation Plan for 2026-27 exchanged
+- Dropped out of school at 15, skipped college: How this young woman went from Saharanpur to Silicon Valley
   
-  🔗 https://indianexpress.com/article/india/rajnath-meets-italian-counterpart-crosetto-bilateral-military-cooperation-plan-for-2026-27-exchanged-10664914/
+  🔗 https://indianexpress.com/article/india/15-skipped-college-went-saharanpur-silicon-valley-10665279/
+
+- Google Gemini adds file generation feature for documents and spreadsheets
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-gemini-adds-file-generation-feature-for-documents-and-spreadsheets-10665606/
+
+- Mark Zuckerberg on Meta layoffs: ‘If we invest more in one area, we have less capital for others’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/mark-zuckerberg-on-meta-layoff-ai-spending-10665195/
 
 - Apple bets on iPhone 17, MacBook Neo to power growth amid chip shortages
   
@@ -32,53 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/science/groceries-from-earth-how-nearly-3-tonnes-of-supplies-just-reached-international-space-station-10664514/
 
-- Foldable iPhone and OLED MacBook may debut under Apple’s Ultra branding
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/foldable-iphone-and-oled-macbook-may-debut-under-apples-ultra-branding-10664386/
+- Inside Burgundy Brand Collective’s bet on India’s rising luxury appetite
+  Burgundy Brand's expansion comes as India’s luxury consumption story broadens to newer cities. affluent consumers
+  🔗 https://www.livemint.com/companies/news/burgundy-brand-collective-india-luxury-market-fashion-brands-india-11777610022774.html
 
-- OpenAI lawsuit trial updates: Testy exchanges mark day 2 of Elon Musk on witness stand
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-trial-updates-day-2-elon-musk-testimony-10664362/
+- JPMorgan Executive Lorna Hajdini's old remark in spotlight amid allegations of sexual assault: ‘You are a force….’
+  A former JPMorgan employee has filed a lawsuit against Executive Lorna Hajdini. The claims include coercion into sexual acts
+  🔗 https://www.livemint.com/companies/people/jpmorgan-executive-lorna-hajdinis-old-remark-in-spotlight-amid-allegations-of-sexual-assault-you-are-a-force-to-be-11777599645319.html
 
-- Who is Chirayu Rana? Man behind sexual abuse allegations against JPMorgan’s Lorna Hajdini—what new reports reveal
-  Chirayu Rana, a former JPMorgan employee, has been identified as the plaintiff in a lawsuit against Lorna Hajd
-  🔗 https://www.livemint.com/companies/people/who-is-chirayu-rana-man-behind-sexual-abuse-allegations-against-jpmorgan-s-lorna-hajdini-what-new-reports-reveal-11777594879320.html
+- Apple bucks India’s smartphone slump with double-digit growth in March quarter; Cook ‘over the moon’
+  Outgoing CEO Tim Cook reports an 18th straight record quarter. Apple captures a 25% value share
+  🔗 https://www.livemint.com/companies/company-results/apple-india-revenue-tim-cook-india-11777613417226.html
 
-- Reliance sells unit to former associate company, in test of Sebi's related party transaction rules
-  The sale of a profitable project and property management Reliance subsidiary to a company with minimal revenue raises questions whether the deal violates the spirit of Sebi's
-  🔗 https://www.livemint.com/companies/news/india-reliance-ril-subsidiary-reliance-projects-sale-jaipur-enclave-sebi-related-party-transactions-11777427156565.html
+- Lorna Hajdini sexual abuse case: JP Morgan colleagues call Chirayu Rana ‘socially awkward’, question claims
+  Chirayu Rana, a former JP Morgan employee, filed a sexual abuse case against Lorna Hajdini. Internal investigations found no evidence supporting his claims. R
+  🔗 https://www.livemint.com/companies/news/lorna-hajdini-sexual-abuse-case-jp-morgan-colleagues-call-chirayu-rana-socially-awkward-question-claims-11777611985745.html
 
-- Tata Sons can’t escape RBI’s public funds net
-  The move complicates matters for the holding company of the Tata group, which has been trying to stay private.
-  🔗 https://www.livemint.com/companies/tata-sons-listing-upper-layer-nbfc-rbi-public-funds-net-11777555578163.html
+- JPMorgan breaks silence on the Lorna Hajdini sexual abuse case: ‘extensive internal probe reveals…’
+  JPMorgan denied allegations in the Lorna Hajdini sexual abuse case. Former
+  🔗 https://www.livemint.com/companies/people/jpmorgan-breaks-silence-on-the-lorna-hajdini-sexual-abuse-case-extensive-internal-probe-reveals-11777609045732.html
 
-- Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says
-  Blue Owl sold about half its SpaceX holding at
-  🔗 https://www.livemint.com/companies/blue-owl-sold-about-half-its-spacex-holding-at-1-25-trillion-valuation-co-ceo-says-11777578300751.html
+- Dr Lal Path Labs needs volume growth to clear its FY27 tests
+  Risks remain around pricing pressure in a competitive diagnostics market, continued cost
+  🔗 https://www.livemint.com/market/mark-to-market/dr-lal-path-labs-q4-earnings-diagnostics-market-india-dr-lal-path-labs-share-price-11777616903305.html
 
-- Exonerees struggle to rebuild their lives and gain lasting employment, even if elected to office
-  Exonerees struggle to rebuild their lives and gain
-  🔗 https://www.livemint.com/companies/exonerees-struggle-to-rebuild-their-lives-and-gain-lasting-employment-even-if-elected-to-office-11777576071644.html
+- Stock market holiday: NSE and BSE to remain shut for 12 days in May 2026; check full list
+  The Indian stock market will be closed on Maharashtra Day and Bakri Id in May 2026. Key holidays like Diwali and Christmas will also see market closures. Sensex and Nifty 50 fell amid rising oil
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-and-bse-to-remain-shut-for-12-days-in-may-2026-check-full-list-11777617378981.html
 
-- Vodafone Idea share price to be in focus after  ₹23,649-crore AGR relief
-  Vodafone Idea share price has gained 20% in one month, but the stock has fallen 8.5% in three months. The telecom stock
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-to-be-in-focus-after-rs-23-649-crore-agr-relief-11777601492353.html
+- Penny stock under  ₹5 to be in focus on Monday; here’s why
+  Empower India share price has rallied 12% in one week. The penny stock has gained 50% in three months but has risen just 2% in six months.
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-empower-india-share-price-to-be-in-focus-on-monday-here-s-why-11777619404606.html
 
-- Stocks to buy or sell for short term: Religare Broking's Ajit Mishra suggests strategies for 3 shares
-  A decisive move below 23,800 in Nifty could trigger further downside towards 23,500 or lower. Ajit Mishra, SVP of Research at Religare Broking, suggests trading strategies
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-for-short-term-religare-brokings-ajit-mishra-suggests-strategies-for-3-shares-11777597506549.html
+- Indian bond yields end April near 7% as crude oil prices surge. What should investors do?
+  The 10-year US Treasury yield rose to a five-week high. This followed the US Federal Reserve’s most divided rate decision since 1992.
+  🔗 https://www.livemint.com/market/bonds/indian-bond-yields-end-april-near-7-as-crude-oil-prices-surge-what-should-investors-do-11777616351456.html
 
-- Rupee slide deepens in 2026: Will it hit 100 against the dollar?
-  Dollar strength, foreign outflows and rising oil prices have kept the Indian rupee under
-  🔗 https://www.livemint.com/market/rupee-slide-deepens-in-2026-will-it-hit-100-against-the-dollar-11777566213933.html
+- Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers
+  When valuations were stretched, we slowed entry, says Rahul Roy Chowdhury, CEO - Private Wealth Services, Geojit Financial Services. Now
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-whats-the-biggest-risk-for-hni-investors-portfolio-today-rahul-roy-chowdhury-of-geojit-financial-answers-11777615108225.html
 
-- Stock market holiday: BSE, NSE closed today for Maharashtra Day; Commodity trading on MCX to begin at 5 PM
-  Most major stock markets across Asia are also closed today, May 1, on account of Labour Day. Markets in China, Hong Kong, Indonesia, Singapore, Thailand,
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-closed-today-for-maharashtra-day-commodity-trading-on-mcx-to-begin-at-5-pm-11777597555760.html
-
-- Gold Rebounds as Speculation of Yen Intervention Weakens Dollar
-  Gold bounced back from a three-day decline, as the dollar sank and traders weighed the prospect
-  🔗 https://www.livemint.com/market/gold-rebounds-as-speculation-of-yen-intervention-weakens-dollar-11777581543889.html
+- AI is changing cyber offense and defense, says US Council of Advisers on Science & Technology member, David Sacks
+  Former White House Crypto and AI Czar David Sacks has weighed in on the growing role of artificial intelligence in cybersecurity. Sacks argues that AI models are not a "doomsday device" but tools that will reshape both
+  🔗 https://www.livemint.com/technology/ai-is-changing-cyber-offense-and-defense-says-us-council-of-advisers-on-science-technology-member-david-sacks-11777609713135.html
 
 - From Intel to Nvidia, tech CEOs are embracing quantum. Why it matters.
   Intel CEO Lip-Bu Tan joins the board of
@@ -96,137 +100,85 @@
    AI-led discovery of long-standing vulnerabilities in banking systems is a "wake-up call" not only for US banks, but also India and rest of the world.
   🔗 https://www.livemint.com/technology/ailed-discovery-of-long-standing-banking-vulnerabilities-a-wake-up-call-world-nielit-director-11777554062320.html
 
-- Roblox to require facial scans for children under 16 in Indonesia due to new social media rules
-  Roblox to require facial scans for children under 16 in
-  🔗 https://www.livemint.com/technology/roblox-to-require-facial-scans-for-children-under-16-in-indonesia-due-to-new-social-media-rules-11777552927844.html
+- Markets News, April 30, 2026: S&P 500, Nasdaq Hit New Highs, Post Biggest Monthly Gains Since 2020; Dow Jumps 800 Points - Investopedia
+  Markets News, April 30, 2026: S&amp;P 500, Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1pUWkRhdGhReWZzRDRCT1p1VjRKUTBtZml5LVV5MFU3Ullfb3p4ak0yaVhid0xYbGQ2ZmhpbHhOYm1PWkgxNnZ0eUEyX2F4ZTE2TS1oVmJrRGZEUk9iNjZVSzZXbTZkR3NXejFwODdNcnh5cmxmcjI5MWg3SGtUQ2hUODFLV3Z6QnBIZjV4LXc?oc=5
 
-- Oil rises over $1 with no sign of Iran conflict ending
-  Brent crude futures rose to $111.59 a barrel, and WTI futures reached $105.46. Tensions escalated with threats of "long and painful strikes" on U.S. positions if attacks resume.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-over-1-with-no-sign-of-iran-conflict-ending/articleshow/130664341.cms
+- S&P 500 and Nasdaq Futures Rise, Yen Pares Gain: Markets Wrap - Bloomberg
+  S&amp;P 500 and Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5
 
-- Gold heads for weekly loss amid oil-driven inflation concerns
-  Gold prices held steady Friday, but a weekly dip was likely as soaring oil prices fueled inflation concerns. geopolitical tensions in the Strait of Hormuz and a significant drop in India's gold imports due to tax issues also played a
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-loss-amid-oil-driven-inflation-concerns/articleshow/130663776.cms
+- Stock futures edge higher after the S&P 500 hits a record to wrap April's trading: Live updates - CNBC
+  Stock futures edge higher after the S&amp;P 500 hits a record
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBqQ0o4a2lDQm81Z2VobHZwU29wY2pDRUg3bGRHbzl5NUJxcUNFcWNkaTY3eWZlZTJjNGR2T0loLVBHazh4UTA1UjlOLXFjT0pKd2VEQ19aay03czYzVnJpRzMyQk15a3V0dWxIeE90WldubjJOLW1R0gF8QVVfeXFMT1V6RUdyT3NhTlNVVDdGZ1o0YnVnVmNrMWptczRHVFZhSHlKSkc2WUlUNktZbGxHbVMyT0hYVWZXM21kRzdmaUdLRGI2Qi0yQ3lHTmlOU21Sb1kyeHNNb0pyQ0xRRDh0dHJtNDRvVEJ1YUx4OWlVQ2lweWwwWg?oc=5
 
-- Yen trims gains against dollar after Japan's intervention in markets
-  The yen is set for its strongest weekly rise in over two months. This comes after Japanese officials stepped in to support the yen. Investors are watching closely for more action.
-  🔗 https://economictimes.indiatimes.com/markets/forex/yen-trims-gains-against-dollar-after-japans-intervention-in-markets/articleshow/130663707.cms
+- Oil markets are still in La La land - The Economist
+  Oil markets are still in La La
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTlZaEFKQXl6ZWlmRVpjTUZoQVE2cGgxckhZWTdQTjEweDk4T3JoUHotOTNQN0g2azdwV3NsZzR3cE96d0ZWLWtCWnRfbEZvWm5HWGRhNUtxWmllekdyZWVCUEpDc3N3NVljNUJ0OGZCUnVCaVlXQ3d4dW00bzB0S1NYQ20yaEU?oc=5
 
-- Global Market: Asia shares find relief in tech resilience, oil off peak
-  Asian markets rebounded as tech stocks rallied on strong earnings. Japan intervened to support the yen after its slide. Oil prices eased from four-year peaks amid geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asia-shares-find-relief-in-tech-resilience-oil-off-peak/articleshow/130663620.cms
+- Mumbai family deaths: Why watermelon demand has suddenly crashed in markets - The Times of India
+  Mumbai family deaths: Why watermelon demand has suddenly crashed
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVWxhT2tkQjRpYWhmNU5IZ0hQWVdLQTNpMzhRTkNTMkRnRTRuUjhaZTRCaE5wT094NUlQRHExTDhyS3RKUzdrN3dnN185bkV1dk1yUDdiVVAtd3RiSW94NmJHOVNEaGlPekN2bmkwQkFQNWU0WHFNZzZFUVBEeUpvMmV1WUJHdDJDSVRWak1jb2lxakRkTzRfcmEyLXpIYmlBRTUyTE5yQmpoNTZicWhTTmVqeU01ZzdyVUtnbkNtVWpzM2k3VTBlVENzNENmaDlnOXdQV0ZMZ1JQYlkyZnZfQtIB6AFBVV95cUxOeTdJZXprS24wc0ltT2RvZG40cnpUNU5qVmdjVm80ci1pVHhtV2ZYZndXMGlMRkpKdnI0eUo3YkxsNGtHYUYzWVZweTAxSGRvVlVJaDFlenlSbkRTbTZNYkJOUW8ycFBsWjJTZm1WazBuRFhUM2oyXzZjcmxyR0Z1dUJnSjB1QWp1OXhyNkVDdUNtQmY4WDYzdHJ0SHpuOXJFSXMzc0U4NHRnMnJhMzY0cnVSVHk5Sm5pZ2llXzkzeElTTHAydUhIMTl0aGliR2tqUUxQSm1hV0MxSjE1bkcxX0RFR2FJT2VB?oc=5
 
-- Stock market holiday today: Are NSE, BSE and MCX open or closed on May 1 for Maharashtra Day and Labour Day? Check now
-  NSE and BSE will be shut for trading on Friday due to Maharashtra Day holiday. There will be no trading on NCDEX, while MCX will
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-maharashtra-day-2026-are-nse-bse-and-mcx-open-or-closed-on-may-1-check-now/articleshow/130627770.cms
+- Global Markets | Australian shares snap eight-session losing streak; miners lead broad gains
+  Australian shares rose for the first time this week on Friday, with miners leading a broad-based rebound. An overnight pullback
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-snap-eight-session-losing-streak-miners-lead-broad-gains/articleshow/130672936.cms
 
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+- Square Yards reports Rs 2,086 crore revenue in FY26, growth of 48% year-over-year
+  Real estate firm Square Yards announced impressive financial results for FY26. Revenue soared to Rs 2,086 crore, marking a 48% year-over-year increase. India continues to be the dominant market, contributing 88% of the
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/square-yards-reports-rs-2086-crore-revenue-in-fy26-growth-of-48-year-over-year/articleshow/130671971.cms
 
-- India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation - NDTV
-  India-Turkey Cement Security Ties
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3UtbHBvcXYzajBfWGpndVVUakdWV0F1NVdERW5aNlVuNlNtRVRRdlVHWHRqQ1cwSlFQbWdDTjZheHU3Tk5mNFJMcnc2YjZNQWtnVG95WEtoZnZBOVhMeUpyV2ZZZ0dYcC1lcHVLMlpWMDh5Zmtfc2JVbmE4amotSzZrQXh6MWMzcTV5UUFiUnM5X2tkMDY0RkZkd3VBdXBCbUJqcnFaUmlhTzMzX0Y2R0JJOXVBUdIBvgFBVV95cUxQQ0pINldjYVJoUWlaWlE0YzEtekJoaDlsQWNRRnNReTFYUmgyVTkxemUwT3NzTFdRaUxaVHplMW02LTNoUWcwU0R1dWtiU2RHcGtwR0JRRks2cTkwc3czNEJnbndNaVYtb19zaFRQZmRuNkszMnRKWVJHRmRia1JORGc5akd5aGNrOVAxZ3B1ZFVJbHFWVVFUdFhucGVOaWh1Y3Zma0ZzeU9sNFBuNVZSaHI1QTdYd0RKWlRNaW9R?oc=5
+- ​9 high-growth smallcap stocks surged up to 170%; 4 became multibaggers
+  BSE small-cap earnings showed strong momentum, with select companies delivering over 50% profit growth and sharp stock gains. A few
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-high-growth-small-cap-stocks-surged-up-to-170-4-became-multibaggers/slideshow/130671853.cms
 
-- Election Commision mandates QR verification at counting halls - The Times of India
-  Election Commision mandates QR verification at counting
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFuNUducTBnOE9SMFFHcGdCd1lDeGNLQW04WngyYTZPQ1o2N250TXVDbkRRTllvTF9OOHB5RjNvcXFsWDhOYmhtOEJyNEU4UEkyNFp3ZmtXczM2Y2JnQ3VzTEFtdi14Tk1PaDdPWFZzd1NNNXFNY0d6SUFvSHN1bEVsRDI1YTM2c2QwZW13VHZ0UmZHbTZ1RHB5SFJ2aWpZbzhBOHFmQXVIMUUwM1hCYXg4OFBYNEk0RXlVZk00TU5jUk13dlp0WNIBzgFBVV95cUxOVjEwdm1CQ2FEU2c2MnVzRjlaM3NrZkdYTGNNX1p3S2FDbVVuMkxzMWJFb1laS3Rid2xWaV9HQ2ZvLWNZdkZaVzZob3VuSHJxeVhTOGFlQVJ2aWllSVl6Qk83MnhzV3MyYVJuRk1JX0NwaXY5ejhIWi1zaGZPZ2VpU0FVMlBKZmR5dmw5cHEyRk9zODFFT2dMZ1pZRE4zM3owcG9yalVfWENCRkRBVW5WQTVuRFhNTEExcEtQNkxCZWtTTnJwcW9FdkZCeGVHdw?oc=5
+- Bitcoin signals mild bullish trend near $77,000; Ethereum around $2,300 with neutral momentum
+  Crypto markets posted modest gains over 24 hours, though weekly trends remained mixed. Analysts flagged resistance near $80,000, ETF outflows, and macro pressures as key factors.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-signals-mild-bullish-trend-near-77000-ethereum-around-2300-with-neutral-momentum/articleshow/130671379.cms
 
-- PM Modi calls for strengthening India’s global engagement at 11th Heads of Missions Conference - News On AIR
-  PM Modi calls for strengthening India’s global engagement at 11th
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVduall4TEhrNk9jeVZYN3EyanRoZ2pCcGwyQTdpVjktVEdvdFFyZHZTNmNXLV9HU25nZThXRTY3Ty1vcFJ3djlCNTNMSmZwZ19taTRCU2hTX3ZPT21XVDlJSTFtNmM2Y1NDMDAyVEJaLUxwQ1VaUzdsTGtHM0hDcUpTTzBuYzF4eXZ6WDdzZWFvd1JYcG8tUG9weGxiM0s0bGRIZkJTdnlVSWIzdW5SN0t0aVBnd3VOZFlrYWRTcEY?oc=5
-
-- Commercial LPG Prices Hiked By Rs 993 Amid War, Petrol, Diesel Rates Steady - NDTV
-  Commercial LPG Prices Hiked By Rs 993 Amid
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXVLSnUtcjlNek9kNzhrMjd0RVdKX3ZUTlRKTW85eW91UFUyaWJ5X0NOeUN1ZnV4RnhtXzFwaGxlaWd1LWQzejBJMkpQWVc0WTVTandBVzNhY1U3TnN4MUJHTWR1VUlqdVZvNUR5ZmR4QnFGQzFKd0dsNi1Gc3ZaSGRmdGJZWmdhOUhyX0hyWjVXYVJVR0l5d3VoOWJXRUljN2hLOGZRRW5KUGhFNHlVaXMteEVSeDRubW9uWHg4VmYyTXZ4c0h1d00tY1h2OFFwTFJfazY3eGJqdGhZc2fSAeYBQVVfeXFMUG1PZEpXdFJ2UU1nN2xxcmdGRDVPYzduUGNaQ1VEajA0a1QzQzg3NFk0QTN4TkMtWk82Uzc4Ymh1dXJBZ29FM2NWTEZqcmp2QWdFWVZKaFZZZnFaTE5fVTQyY0FIVHVaYkd1ZDFvUU83MjBUYUk4RkpVTm9rdnZLd0hJQUpjQmo4OTJUd2JzZ0VsbXBjT1d2Zy05a1l2UWpEeUxONXFNQTNlZEU1T1JPMnNxVzFuYlJ0Yml6OWRCRmpBY3dMdm9mMGpTNmh4bkFWRU8zcFFLNS1zUU5zUnZReGhvX1JJVlE?oc=5
+- Gold falls around 2% in one week as skyrocketing oil prices fuel inflation worries. What lies ahead?
+  Gold prices are nearly flat, but poised for a weekly loss as soaring oil prices fuel inflation fears and expectations of prolonged higher interest rates. However, long-term forecasts suggest significant gold price appreciation.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-around-2-in-one-week-as-skyrocketing-oil-prices-fuel-inflation-worries-what-lies-ahead/articleshow/130671067.cms
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation - NDTV
-  India-Turkey Cement Security Ties
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3UtbHBvcXYzajBfWGpndVVUakdWV0F1NVdERW5aNlVuNlNtRVRRdlVHWHRqQ1cwSlFQbWdDTjZheHU3Tk5mNFJMcnc2YjZNQWtnVG95WEtoZnZBOVhMeUpyV2ZZZ0dYcC1lcHVLMlpWMDh5Zmtfc2JVbmE4amotSzZrQXh6MWMzcTV5UUFiUnM5X2tkMDY0RkZkd3VBdXBCbUJqcnFaUmlhTzMzX0Y2R0JJOXVBUdIBvgFBVV95cUxQQ0pINldjYVJoUWlaWlE0YzEtekJoaDlsQWNRRnNReTFYUmgyVTkxemUwT3NzTFdRaUxaVHplMW02LTNoUWcwU0R1dWtiU2RHcGtwR0JRRks2cTkwc3czNEJnbndNaVYtb19zaFRQZmRuNkszMnRKWVJHRmRia1JORGc5akd5aGNrOVAxZ3B1ZFVJbHFWVVFUdFhucGVOaWh1Y3Zma0ZzeU9sNFBuNVZSaHI1QTdYd0RKWlRNaW9R?oc=5
+- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
+  ‘Will not call it war’: Trump says about Iran; claims settling India
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
 
-- Election Commision mandates QR verification at counting halls - The Times of India
-  Election Commision mandates QR verification at counting
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFuNUducTBnOE9SMFFHcGdCd1lDeGNLQW04WngyYTZPQ1o2N250TXVDbkRRTllvTF9OOHB5RjNvcXFsWDhOYmhtOEJyNEU4UEkyNFp3ZmtXczM2Y2JnQ3VzTEFtdi14Tk1PaDdPWFZzd1NNNXFNY0d6SUFvSHN1bEVsRDI1YTM2c2QwZW13VHZ0UmZHbTZ1RHB5SFJ2aWpZbzhBOHFmQXVIMUUwM1hCYXg4OFBYNEk0RXlVZk00TU5jUk13dlp0WNIBzgFBVV95cUxOVjEwdm1CQ2FEU2c2MnVzRjlaM3NrZkdYTGNNX1p3S2FDbVVuMkxzMWJFb1laS3Rid2xWaV9HQ2ZvLWNZdkZaVzZob3VuSHJxeVhTOGFlQVJ2aWllSVl6Qk83MnhzV3MyYVJuRk1JX0NwaXY5ejhIWi1zaGZPZ2VpU0FVMlBKZmR5dmw5cHEyRk9zODFFT2dMZ1pZRE4zM3owcG9yalVfWENCRkRBVW5WQTVuRFhNTEExcEtQNkxCZWtTTnJwcW9FdkZCeGVHdw?oc=5
+- India news: Commercial LPG prices go up again - dw.com
+  India news: Commercial LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEQtUzcyaElSUlNpWmZYSkI3UXNkaU9kdzhpa1FrdW9UV1k3MUNNTDk0anZYRGpXMGF2SFFlSGgzOEFKdTdlVzBsNjZCTzlOdlQtcTJLTG9YZVRteTZ6aWpZbkc1MlJBeDF5ZTNBRkNQZS1tTFQzX1VWSGh1V0lUWXlxTndjd0dGOFY2LW1BNE1Na3pWOWQwR3VPNS1WTEpNTktOMTdVZ2o?oc=5
 
-- PM Modi calls for strengthening India’s global engagement at 11th Heads of Missions Conference - News On AIR
-  PM Modi calls for strengthening India’s global engagement at 11th
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVduall4TEhrNk9jeVZYN3EyanRoZ2pCcGwyQTdpVjktVEdvdFFyZHZTNmNXLV9HU25nZThXRTY3Ty1vcFJ3djlCNTNMSmZwZ19taTRCU2hTX3ZPT21XVDlJSTFtNmM2Y1NDMDAyVEJaLUxwQ1VaUzdsTGtHM0hDcUpTTzBuYzF4eXZ6WDdzZWFvd1JYcG8tUG9weGxiM0s0bGRIZkJTdnlVSWIzdW5SN0t0aVBnd3VOZFlrYWRTcEY?oc=5
+- "Reserves": Pak Minister Contrasts Country's Oil Shock With India's Stability - NDTV
+  "Reserves": Pak Minister Contrasts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPamRtX2F4MDc2YjNuczZTaFVPa0tkNUJyc1dscmhQTGNrdVY0TDdEZHlVeWpsdDgzVTVjRjBMZVR2MUhVVjB3TE9GenVHbW9faW1zQ2xhVjFaTkM0N1Q5b0VzM2lycGJXWUlULUJOczNYM3JyVXRoZlpBZlplX3QyYzNBSU9obkxUczdtWjdzYmJ3TW1wZmExSDhPWFVQai1kUHRzZ3dsbTU1akxwazM2eFByLXZnTGNoOXZRT3BYMDNUV19FU2p2cnc5b9IB0wFBVV95cUxOazI1cHRndDJxWHg1SFhHV3F4NjNwTkRLN085VmRqNTlIYUNDUzBRMTg3NWpJai1laUphbUZZTlNjS3dkR2ZOc1B2NTdTNkRaTVlQLWlrYXY2TFJmMVc3TVg4dkNzR1doeVd5UU9TRGNhdnloTnp1U2xKTTNOaktRT25GRzR2TmxKYUxVaGIwaUFjX3pUMVNZcEZfaHk4aWpSSUVhbEt2R2w1ZnNRcXAyVzFrUWczRU5tR3haenJFM3V3M3dzLUZFc2ZGMXF4cjNvMVpV?oc=5
 
-- Commercial LPG Prices Hiked By Rs 993 Amid War, Petrol, Diesel Rates Steady - NDTV
-  Commercial LPG Prices Hiked By Rs 993 Amid
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXVLSnUtcjlNek9kNzhrMjd0RVdKX3ZUTlRKTW85eW91UFUyaWJ5X0NOeUN1ZnV4RnhtXzFwaGxlaWd1LWQzejBJMkpQWVc0WTVTandBVzNhY1U3TnN4MUJHTWR1VUlqdVZvNUR5ZmR4QnFGQzFKd0dsNi1Gc3ZaSGRmdGJZWmdhOUhyX0hyWjVXYVJVR0l5d3VoOWJXRUljN2hLOGZRRW5KUGhFNHlVaXMteEVSeDRubW9uWHg4VmYyTXZ4c0h1d00tY1h2OFFwTFJfazY3eGJqdGhZc2fSAeYBQVVfeXFMUG1PZEpXdFJ2UU1nN2xxcmdGRDVPYzduUGNaQ1VEajA0a1QzQzg3NFk0QTN4TkMtWk82Uzc4Ymh1dXJBZ29FM2NWTEZqcmp2QWdFWVZKaFZZZnFaTE5fVTQyY0FIVHVaYkd1ZDFvUU83MjBUYUk4RkpVTm9rdnZLd0hJQUpjQmo4OTJUd2JzZ0VsbXBjT1d2Zy05a1l2UWpEeUxONXFNQTNlZEU1T1JPMnNxVzFuYlJ0Yml6OWRCRmpBY3dMdm9mMGpTNmh4bkFWRU8zcFFLNS1zUU5zUnZReGhvX1JJVlE?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation - NDTV
-  India-Turkey Cement Security Ties
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3UtbHBvcXYzajBfWGpndVVUakdWV0F1NVdERW5aNlVuNlNtRVRRdlVHWHRqQ1cwSlFQbWdDTjZheHU3Tk5mNFJMcnc2YjZNQWtnVG95WEtoZnZBOVhMeUpyV2ZZZ0dYcC1lcHVLMlpWMDh5Zmtfc2JVbmE4amotSzZrQXh6MWMzcTV5UUFiUnM5X2tkMDY0RkZkd3VBdXBCbUJqcnFaUmlhTzMzX0Y2R0JJOXVBUdIBvgFBVV95cUxQQ0pINldjYVJoUWlaWlE0YzEtekJoaDlsQWNRRnNReTFYUmgyVTkxemUwT3NzTFdRaUxaVHplMW02LTNoUWcwU0R1dWtiU2RHcGtwR0JRRks2cTkwc3czNEJnbndNaVYtb19zaFRQZmRuNkszMnRKWVJHRmRia1JORGc5akd5aGNrOVAxZ3B1ZFVJbHFWVVFUdFhucGVOaWh1Y3Zma0ZzeU9sNFBuNVZSaHI1QTdYd0RKWlRNaW9R?oc=5
-
-- Election Commision mandates QR verification at counting halls - The Times of India
-  Election Commision mandates QR verification at counting
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFuNUducTBnOE9SMFFHcGdCd1lDeGNLQW04WngyYTZPQ1o2N250TXVDbkRRTllvTF9OOHB5RjNvcXFsWDhOYmhtOEJyNEU4UEkyNFp3ZmtXczM2Y2JnQ3VzTEFtdi14Tk1PaDdPWFZzd1NNNXFNY0d6SUFvSHN1bEVsRDI1YTM2c2QwZW13VHZ0UmZHbTZ1RHB5SFJ2aWpZbzhBOHFmQXVIMUUwM1hCYXg4OFBYNEk0RXlVZk00TU5jUk13dlp0WNIBzgFBVV95cUxOVjEwdm1CQ2FEU2c2MnVzRjlaM3NrZkdYTGNNX1p3S2FDbVVuMkxzMWJFb1laS3Rid2xWaV9HQ2ZvLWNZdkZaVzZob3VuSHJxeVhTOGFlQVJ2aWllSVl6Qk83MnhzV3MyYVJuRk1JX0NwaXY5ejhIWi1zaGZPZ2VpU0FVMlBKZmR5dmw5cHEyRk9zODFFT2dMZ1pZRE4zM3owcG9yalVfWENCRkRBVW5WQTVuRFhNTEExcEtQNkxCZWtTTnJwcW9FdkZCeGVHdw?oc=5
-
-- PM Modi calls for strengthening India’s global engagement at 11th Heads of Missions Conference - News On AIR
-  PM Modi calls for strengthening India’s global engagement at 11th
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVduall4TEhrNk9jeVZYN3EyanRoZ2pCcGwyQTdpVjktVEdvdFFyZHZTNmNXLV9HU25nZThXRTY3Ty1vcFJ3djlCNTNMSmZwZ19taTRCU2hTX3ZPT21XVDlJSTFtNmM2Y1NDMDAyVEJaLUxwQ1VaUzdsTGtHM0hDcUpTTzBuYzF4eXZ6WDdzZWFvd1JYcG8tUG9weGxiM0s0bGRIZkJTdnlVSWIzdW5SN0t0aVBnd3VOZFlrYWRTcEY?oc=5
-
-- Commercial LPG Prices Hiked By Rs 993 Amid War, Petrol, Diesel Rates Steady - NDTV
-  Commercial LPG Prices Hiked By Rs 993 Amid
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXVLSnUtcjlNek9kNzhrMjd0RVdKX3ZUTlRKTW85eW91UFUyaWJ5X0NOeUN1ZnV4RnhtXzFwaGxlaWd1LWQzejBJMkpQWVc0WTVTandBVzNhY1U3TnN4MUJHTWR1VUlqdVZvNUR5ZmR4QnFGQzFKd0dsNi1Gc3ZaSGRmdGJZWmdhOUhyX0hyWjVXYVJVR0l5d3VoOWJXRUljN2hLOGZRRW5KUGhFNHlVaXMteEVSeDRubW9uWHg4VmYyTXZ4c0h1d00tY1h2OFFwTFJfazY3eGJqdGhZc2fSAeYBQVVfeXFMUG1PZEpXdFJ2UU1nN2xxcmdGRDVPYzduUGNaQ1VEajA0a1QzQzg3NFk0QTN4TkMtWk82Uzc4Ymh1dXJBZ29FM2NWTEZqcmp2QWdFWVZKaFZZZnFaTE5fVTQyY0FIVHVaYkd1ZDFvUU83MjBUYUk4RkpVTm9rdnZLd0hJQUpjQmo4OTJUd2JzZ0VsbXBjT1d2Zy05a1l2UWpEeUxONXFNQTNlZEU1T1JPMnNxVzFuYlJ0Yml6OWRCRmpBY3dMdm9mMGpTNmh4bkFWRU8zcFFLNS1zUU5zUnZReGhvX1JJVlE?oc=5
+- India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel - The Hindu
+  India’s first green methanol plant to turn K
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUJPdVhhb1NiOS1xSFM1akNxbGVJNkFMZUJaVEt1LU5tbkJqOF92S19yY1BnSXh3N3RvZEVZV2Ryc1JQV3kwRE1oOXhobmR0YnktR2RDUGladnBKNVRDQ2w5MEpFbmhYTENIcVVMRDdGU1RmRC1kZXZXenpKSm1PZ1FjaU5IOE1UWEJsVU9Nb3h6UVl2TmF5ZWx5ajFZbmNPazBjeGk0SHdwal9IOTBUV1k5WVRsa2Q1elBZNzVkU2s0RE5iT2pz0gHOAUFVX3lxTFBKLXV5SDJFN1dKc0Rxc3lUUXhhRUpNX2R3SGdXSEs3b3N5c0NuWXQxQjB0NkdCdDdwel9LTV9oUFc3QnUyeEY3dFpHQ3BmMml3cnYwa2hYMTZKYS1MTWlvcmFrMzFzakZzZE9ydWNEekVHS0RLWmdSS1ppcDVOdF9nMEJESkl1VW8tV3RqVEhSZ1BtTXdEZnJfRElSZTBLTldyVkdYdmdKRTcwbnd1NUpaMEFEdjdqcUxBUzBoTU5QdlhKdENEWGlXNjhtNTVn?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- India-Turkey Cement Security Ties With Dawood Aide Salim Dola's Deportation - NDTV
-  India-Turkey Cement Security Ties
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3UtbHBvcXYzajBfWGpndVVUakdWV0F1NVdERW5aNlVuNlNtRVRRdlVHWHRqQ1cwSlFQbWdDTjZheHU3Tk5mNFJMcnc2YjZNQWtnVG95WEtoZnZBOVhMeUpyV2ZZZ0dYcC1lcHVLMlpWMDh5Zmtfc2JVbmE4amotSzZrQXh6MWMzcTV5UUFiUnM5X2tkMDY0RkZkd3VBdXBCbUJqcnFaUmlhTzMzX0Y2R0JJOXVBUdIBvgFBVV95cUxQQ0pINldjYVJoUWlaWlE0YzEtekJoaDlsQWNRRnNReTFYUmgyVTkxemUwT3NzTFdRaUxaVHplMW02LTNoUWcwU0R1dWtiU2RHcGtwR0JRRks2cTkwc3czNEJnbndNaVYtb19zaFRQZmRuNkszMnRKWVJHRmRia1JORGc5akd5aGNrOVAxZ3B1ZFVJbHFWVVFUdFhucGVOaWh1Y3Zma0ZzeU9sNFBuNVZSaHI1QTdYd0RKWlRNaW9R?oc=5
+- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
+  ‘Will not call it war’: Trump says about Iran; claims settling India
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
 
-- Election Commision mandates QR verification at counting halls - The Times of India
-  Election Commision mandates QR verification at counting
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUFuNUducTBnOE9SMFFHcGdCd1lDeGNLQW04WngyYTZPQ1o2N250TXVDbkRRTllvTF9OOHB5RjNvcXFsWDhOYmhtOEJyNEU4UEkyNFp3ZmtXczM2Y2JnQ3VzTEFtdi14Tk1PaDdPWFZzd1NNNXFNY0d6SUFvSHN1bEVsRDI1YTM2c2QwZW13VHZ0UmZHbTZ1RHB5SFJ2aWpZbzhBOHFmQXVIMUUwM1hCYXg4OFBYNEk0RXlVZk00TU5jUk13dlp0WNIBzgFBVV95cUxOVjEwdm1CQ2FEU2c2MnVzRjlaM3NrZkdYTGNNX1p3S2FDbVVuMkxzMWJFb1laS3Rid2xWaV9HQ2ZvLWNZdkZaVzZob3VuSHJxeVhTOGFlQVJ2aWllSVl6Qk83MnhzV3MyYVJuRk1JX0NwaXY5ejhIWi1zaGZPZ2VpU0FVMlBKZmR5dmw5cHEyRk9zODFFT2dMZ1pZRE4zM3owcG9yalVfWENCRkRBVW5WQTVuRFhNTEExcEtQNkxCZWtTTnJwcW9FdkZCeGVHdw?oc=5
+- India news: Commercial LPG prices go up again - dw.com
+  India news: Commercial LPG
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEQtUzcyaElSUlNpWmZYSkI3UXNkaU9kdzhpa1FrdW9UV1k3MUNNTDk0anZYRGpXMGF2SFFlSGgzOEFKdTdlVzBsNjZCTzlOdlQtcTJLTG9YZVRteTZ6aWpZbkc1MlJBeDF5ZTNBRkNQZS1tTFQzX1VWSGh1V0lUWXlxTndjd0dGOFY2LW1BNE1Na3pWOWQwR3VPNS1WTEpNTktOMTdVZ2o?oc=5
 
-- PM Modi calls for strengthening India’s global engagement at 11th Heads of Missions Conference - News On AIR
-  PM Modi calls for strengthening India’s global engagement at 11th
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVduall4TEhrNk9jeVZYN3EyanRoZ2pCcGwyQTdpVjktVEdvdFFyZHZTNmNXLV9HU25nZThXRTY3Ty1vcFJ3djlCNTNMSmZwZ19taTRCU2hTX3ZPT21XVDlJSTFtNmM2Y1NDMDAyVEJaLUxwQ1VaUzdsTGtHM0hDcUpTTzBuYzF4eXZ6WDdzZWFvd1JYcG8tUG9weGxiM0s0bGRIZkJTdnlVSWIzdW5SN0t0aVBnd3VOZFlrYWRTcEY?oc=5
+- "Reserves": Pak Minister Contrasts Country's Oil Shock With India's Stability - NDTV
+  "Reserves": Pak Minister Contrasts
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPamRtX2F4MDc2YjNuczZTaFVPa0tkNUJyc1dscmhQTGNrdVY0TDdEZHlVeWpsdDgzVTVjRjBMZVR2MUhVVjB3TE9GenVHbW9faW1zQ2xhVjFaTkM0N1Q5b0VzM2lycGJXWUlULUJOczNYM3JyVXRoZlpBZlplX3QyYzNBSU9obkxUczdtWjdzYmJ3TW1wZmExSDhPWFVQai1kUHRzZ3dsbTU1akxwazM2eFByLXZnTGNoOXZRT3BYMDNUV19FU2p2cnc5b9IB0wFBVV95cUxOazI1cHRndDJxWHg1SFhHV3F4NjNwTkRLN085VmRqNTlIYUNDUzBRMTg3NWpJai1laUphbUZZTlNjS3dkR2ZOc1B2NTdTNkRaTVlQLWlrYXY2TFJmMVc3TVg4dkNzR1doeVd5UU9TRGNhdnloTnp1U2xKTTNOaktRT25GRzR2TmxKYUxVaGIwaUFjX3pUMVNZcEZfaHk4aWpSSUVhbEt2R2w1ZnNRcXAyVzFrUWczRU5tR3haenJFM3V3M3dzLUZFc2ZGMXF4cjNvMVpV?oc=5
 
-- Commercial LPG Prices Hiked By Rs 993 Amid War, Petrol, Diesel Rates Steady - NDTV
-  Commercial LPG Prices Hiked By Rs 993 Amid
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXVLSnUtcjlNek9kNzhrMjd0RVdKX3ZUTlRKTW85eW91UFUyaWJ5X0NOeUN1ZnV4RnhtXzFwaGxlaWd1LWQzejBJMkpQWVc0WTVTandBVzNhY1U3TnN4MUJHTWR1VUlqdVZvNUR5ZmR4QnFGQzFKd0dsNi1Gc3ZaSGRmdGJZWmdhOUhyX0hyWjVXYVJVR0l5d3VoOWJXRUljN2hLOGZRRW5KUGhFNHlVaXMteEVSeDRubW9uWHg4VmYyTXZ4c0h1d00tY1h2OFFwTFJfazY3eGJqdGhZc2fSAeYBQVVfeXFMUG1PZEpXdFJ2UU1nN2xxcmdGRDVPYzduUGNaQ1VEajA0a1QzQzg3NFk0QTN4TkMtWk82Uzc4Ymh1dXJBZ29FM2NWTEZqcmp2QWdFWVZKaFZZZnFaTE5fVTQyY0FIVHVaYkd1ZDFvUU83MjBUYUk4RkpVTm9rdnZLd0hJQUpjQmo4OTJUd2JzZ0VsbXBjT1d2Zy05a1l2UWpEeUxONXFNQTNlZEU1T1JPMnNxVzFuYlJ0Yml6OWRCRmpBY3dMdm9mMGpTNmh4bkFWRU8zcFFLNS1zUU5zUnZReGhvX1JJVlE?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India’s first green methanol plant to turn Kutch’s most invasive weed into marine fuel - The Hindu
+  India’s first green methanol plant to turn K
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUJPdVhhb1NiOS1xSFM1akNxbGVJNkFMZUJaVEt1LU5tbkJqOF92S19yY1BnSXh3N3RvZEVZV2Ryc1JQV3kwRE1oOXhobmR0YnktR2RDUGladnBKNVRDQ2w5MEpFbmhYTENIcVVMRDdGU1RmRC1kZXZXenpKSm1PZ1FjaU5IOE1UWEJsVU9Nb3h6UVl2TmF5ZWx5ajFZbmNPazBjeGk0SHdwal9IOTBUV1k5WVRsa2Q1elBZNzVkU2s0RE5iT2pz0gHOAUFVX3lxTFBKLXV5SDJFN1dKc0Rxc3lUUXhhRUpNX2R3SGdXSEs3b3N5c0NuWXQxQjB0NkdCdDdwel9LTV9oUFc3QnUyeEY3dFpHQ3BmMml3cnYwa2hYMTZKYS1MTWlvcmFrMzFzakZzZE9ydWNEekVHS0RLWmdSS1ppcDVOdF9nMEJESkl1VW8tV3RqVEhSZ1BtTXdEZnJfRElSZTBLTldyVkdYdmdKRTcwbnd1NUpaMEFEdjdqcUxBUzBoTU5QdlhKdENEWGlXNjhtNTVn?oc=5
 
 
-_Last updated: 2026-05-01 02:38:57 UTC_
+_Last updated: 2026-05-01 08:10:04 UTC_
