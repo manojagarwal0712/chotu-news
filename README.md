@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- Assembly Elections 2026 Live Updates: Re-polling underway in West Bengal’s 15 polling booths across two Assembly constituencies
+- 4 security personnel killed while trying to defuse IED in Chhattisgarh, 1st such incident since March 31 deadline
   
-  🔗 https://indianexpress.com/article/india/assembly-election-2026-live-updates-wb-repoll-exit-poll-result-date-assam-tamil-nadu-kerala-west-bengal-10667165/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-kanker-ied-blast-drg-personnel-killed-10667770/
 
-- ‘This is a test message’: India launches new emergency messaging system for citizens
+- Lyricist Prasoon Joshi appointed chairman of Prasar Bharati
   
-  🔗 https://indianexpress.com/article/india/india-indigenous-cell-broadcast-system-test-alert-to-all-citizens-10667210/
+  🔗 https://indianexpress.com/article/india/prasoon-joshi-appointed-chairman-prasar-bharati-10667730/
 
-- Nirav Modi, Vijay Mallya among 21 declared fugitive economic offenders as ED seizes Rs 2,178 crore assets
+- Tamil Nadu Election Result 2026 Date, Time: When Will TN Assembly elections vote counting begin?
   
-  🔗 https://indianexpress.com/article/india/nirav-modi-vijay-mallya-among-21-declared-fugitive-economic-offenders-as-ed-seizes-rs-2178-crore-assets-10667031/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-election-result-2026-date-time-10665357/
 
-- From Ranchi school where Dhoni studied, 7-year-old swimming prodigy makes history
+- Assam Election Result 2026: Date, Time, Where to Check Assam Assembly Election Vote Counting Results Online
   
-  🔗 https://indianexpress.com/article/india/from-ranchi-school-where-dhoni-studied-7-year-old-swimming-prodigy-makes-history-10666678/
+  🔗 https://indianexpress.com/article/india/assam-election-result-2026-date-time-eci-result-link-how-to-check-10665327/
 
-- How Narmada cruise went from leisure outing to tragedy
+- Railways approves Rs 895 crore projects to improve freight routes, line capacity in West Bengal
   
-  🔗 https://indianexpress.com/article/india/sudden-storm-shifting-centre-of-gravity-how-leisure-cruise-quickly-turned-tragic-in-jabalpur-10666737/
+  🔗 https://indianexpress.com/article/india/railways-approves-rs-895-crore-projects-to-improve-freight-routes-line-capacity-in-west-bengal-10667513/
 
-- Apple raises Mac mini price as chip and memory shortages persist
+- Tech Launches: Netflix’s new ‘clips’, JUST CORSECA wall art wireless speakers, Apple iNvent pre-booking offers, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-raises-mac-mini-price-as-chip-and-memory-shortages-persist-10667055/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-netflixs-new-clips-just-corseca-wall-art-wireless-speakers-apple-invent-pre-booking-offers-and-more-10667762/
 
-- Elon Musk says OpenAI abandoned ‘charity’ mission: Key takeaways from testimony
+- OnePlus and Nothing phones get costlier amid memory shortage
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-openai-trial-key-takeaways-from-testimony-10666967/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/oneplus-and-nothing-phones-get-costlier-amid-memory-shortage-10667689/
 
-- The tech we build for democracy needs to be strategic: Matt Stempeck, Civic Tech researcher
+- ‘Data governance is equal to trust’: Qlik’s Varun Babbar on AI’s shift from experimentation to scale
   
-  🔗 https://indianexpress.com/article/technology/what-is-civic-tech-matt-stempeck-ai-democracy-interview-10666417/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/data-governance-trust-qlik-ai-shift-varun-babbar-10667572/
 
-- Science explains why aerobic exercise works best for knee osteoarthritis relief
+- Samsung confirms Galaxy AI glasses, hints at new earbuds design
   
-  🔗 https://indianexpress.com/article/technology/science/knee-osteoarthritis-relief-why-aerobic-exercise-works-best-study-shows-10666492/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-confirms-galaxy-ai-glasses-hints-at-new-earbuds-design-10667545/
 
-- Artemis timeline shifts: Can NASA still land astronauts on the Moon in 2028?
+- The Safe Side: How ads on your social media feed might be scams
   
-  🔗 https://indianexpress.com/article/technology/science/artemis-timeline-shifts-can-nasa-still-land-astronauts-on-the-moon-in-2028-10666254/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-safe-side-how-ads-on-your-social-media-feed-might-be-scams-10667496/
+
+- Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say
+  The choice of a new CEO comes at a crucial time for Air India. Air India is grappling with heavy losses, heightened regulatory scrutiny after a deadly crash last year.
+  🔗 https://www.livemint.com/companies/news/air-india-ceo-search-narrows-to-singapore-air-exec-kannan-and-insider-aggarwal-sources-say-11777721485231.html
 
 - US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz
   US warns shipping firms they could face sanctions over paying Iranian toll
@@ -56,9 +60,13 @@
    Meta Platforms has acquired Assured Robot Intelligence, a humanoid robot AI startup. CEO Mark Zuckerberg raises capital spending to $145 billion and prepares to lay off
   🔗 https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html
 
-- GameStop prepares eBay takeover offer in Ryan Cohen's boldest move yet; Stocks jump 15%
-  eBay shares surged 15% after-hours on the news. CEO Ryan Cohen builds a stake in the e-commerce giant ahead of
-  🔗 https://www.livemint.com/companies/news/gamestop-prepares-ebay-takeover-offer-in-ryan-cohens-boldest-move-yet-stocks-jump-15-per-cent-11777681014875.html
+- IFSCA in talks with RBI over foreign asset reporting rule for GIFT City funds
+  The move follows an RBI FAQ that set out mandatory FLA filing requirements. It raised questions over the regulatory classification of entities in the GIFT
+  🔗 https://www.livemint.com/market/ifsca-in-talks-with-rbi-over-foreign-asset-reporting-rule-for-gift-city-funds-11777713016211.html
+
+- Bajaj Finance vs Jio Financial Services: Which stock to buy after Q4 results 2026?
+  Bajaj Finance vs Jio Financial Services: Investors are torn between B
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-finance-vs-jio-financial-services-which-stock-to-buy-after-q4-results-2026-11777704821428.html
 
 - ₹12.50 to  ₹1630: Multibagger penny stock turns  ₹1 lakh into  ₹1.30 crore in nine  years
   The share would have turned one's  ₹
@@ -71,14 +79,6 @@
 - Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 4 May 2026
   Sumeet Bagadia recommends three stocks to buy on Monday — Reliance
   🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-4-may-2026-11777689508861.html
-
-- UAE exits OPEC: What forced the West Asian nation to junk the oil cartel amid the US-Iran war? Explained
-  UAE’s decision to leave OPEC is not a sudden move but a well planned strategic shift driven by economic and
-  🔗 https://www.livemint.com/market/stock-market-news/uae-exits-opec-what-forced-the-west-asian-nation-to-junk-the-oil-cartel-amid-the-us-iran-war-explained-11777684127139.html
-
-- Dollar set for sharp weekly loss versus yen after Japan steps in
-  Dollar set for sharp weekly loss versus yen after
-  🔗 https://www.livemint.com/market/dollar-set-for-sharp-weekly-loss-versus-yen-after-japan-steps-in-11777666267056.html
 
 - US military reaches deals with 7 tech companies to use their AI on classified systems
   US military reaches deals with 7 tech companies to use
@@ -100,125 +100,105 @@
   Elon Musk and OpenAI attorney spar over
   🔗 https://www.livemint.com/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit-11777575324037.html
 
-- S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC
-  S&amp;P 500 closes at a new record to usher in May as oil prices
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBqQ0o4a2lDQm81Z2VobHZwU29wY2pDRUg3bGRHbzl5NUJxcUNFcWNkaTY3eWZlZTJjNGR2T0loLVBHazh4UTA1UjlOLXFjT0pKd2VEQ19aay03czYzVnJpRzMyQk15a3V0dWxIeE90WldubjJOLW1R0gF8QVVfeXFMT1V6RUdyT3NhTlNVVDdGZ1o0YnVnVmNrMWptczRHVFZhSHlKSkc2WUlUNktZbGxHbVMyT0hYVWZXM21kRzdmaUdLRGI2Qi0yQ3lHTmlOU21Sb1kyeHNNb0pyQ0xRRDh0dHJtNDRvVEJ1YUx4OWlVQ2lweWwwWg?oc=5
+- DMart Q4 Results: Avenue Supermarts cons PAT jumps 19% to Rs 656 crore, revenue too rises 19%
+  Avenue Supermarts, the operator of DMart, reported a net profit of Rs 656.6 crore for the March quarter of FY26. The net profit is attributable to the equity holders of the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q4-results-avenue-supermarts-cons-pat-jumps-19-to-rs-656-crore-revenue-too-rises-19/articleshow/130715883.cms
 
-- US stock market today hits new records as Nasdaq crossed 25,000 for the very first time: Dow Jones, S&P 50 - The Economic Times
-  US stock market hits new records as Nasdaq crossed 25,000 for the very first time. Dow
-  🔗 https://news.google.com/rss/articles/CBMi9gJBVV95cUxPc1JlMkQwZnE3VmZ2cU1zYW9DMU9BUmNzQ0dIYUFiaHZHV1FVbzZ0S1ZjRjBYZzRBOFZmd1pyRUpod0o3dl9UNHZtTTlMRkxuNVQ1a3FtTFJpSmowdWM4bXZHTlY3b21fN050clRBVTBVbXVlM0ZzWGhVUUg2SzVNWUd0b1JtTy1HdEwyam9uNGRPSDhFSkpEaE52TXY5M0dzZl83aDFEQWNUdGZPRU5Lek93NHJTaGVHU0ZITVltZ3NqVmdNSG40bDhsYnZIMmwwWGdwQmNsdlpTYmJELVdBVXJzZmlMaDB4NHZhQTlFbUIwN3B0UkZhMVMxSEZoTHppNnRVSVZ3d1l6WDFHNEJkYlZEQXdkRDhkTmhTZzUza2F0QXZOSU1sRXNtNTFnczNNUFF2RnptUkZpWHpIVDM1dzBhWlk4MWdRUEdFSU4yTE4wU3g1VUpIVHVkQmFSTVhhdTJDaDdTVkc5c1NnSE95X19XNU5PUdIB-wJBVV95cUxNRUQ3Vno1Z3R1dXBzT3ZHY3dJQmFCYWk0Sjg3bDhHN2RtYlF4ZXA1MjB6Z3pxV2dKQklBOVc4cTJzY251MHBnMzlfNTdGVHNiZTFhTFF4VF90OUNVSjQ0ZDI5a0djNF8xV0ZTNjc3SVB6ZjQ4bXFtVlVTYWlOVzFpU3pLZU1YTzlDUWtlZXdXdXU5bm9wOTNtdlpMa29HejE3TXh6Y0Y4dmEzSGpJRU1yRTNyMmNQR19WYi1NMEJWSGRvVGpIclJVVWpKcXVvTExQdVN3ZjZFSUxmUDNVMzl5cTVGb2xzM0huZ3ExNkF2Wm9zejVFLVNONXhkT3JtYXR6NzhxckdIQkxDQlZIN3dhSmdIa0pwQVZacjh2elV3S3R1M0lDVGg4M3NFYU9JOWpubmJhTVRxTDNFWGdPSC0wNmp0UmFkYTVub1dqUWN1YzJfWDBPSU1rSTFVa09WNXZTUElPRTl6MWllOFZYS2VFdVFlOEpOUDllRU1N?oc=5
+- CDSL Q4 Results: Cons PAT declines 20% to Rs 80 crore, Rs 12.75/share dividend declared
+  CDSL reported a mixed Q4 FY26 performance, with revenue growing 17.1% to Rs 262.85 crore. Full-year net profit for FY26 also saw a 14% decrease. The company surpassed 18 crore dem
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q4-results-cons-pat-declines-20-to-rs-80-crore-rs-12-75/share-dividend-declared/articleshow/130714239.cms
 
-- Investors Ride Google, Caterpillar to Market’s Best Month Since 2020 - WSJ
-  Investors Ride Google, Caterpillar to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONlVmdU56OWN1Wm9lUWI4MWlnYzhFODcxdWlwRU1XWWQzbTBla0hrNmFVQnkwcjJ3S0NadXl2Y3dRWUl5T3pXMTU3VVhKYXpNNUNhUi1abmc1RXZFSWZpdG9NT1FwQnBVQ1ZBOGJMenZDOHNFN2xNaDN3ckVJUkUwR082YUpuMUU4dDlMUGwzY1dOS1dRVFBsWWowcnVhdjBqQkdJTDA0Umk4YkJqTUww?oc=5
+- FII outflows not driven by lack of AI and high taxes, says Shankar Sharma. Here’s why
+  Foreign investors are not avoiding India due to AI exposure or tax issues. Data shows markets with little AI have outperformed. India's own past performance contradicts the AI dependency narrative.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-outflows-not-driven-by-lack-of-ai-and-high-taxes-says-shankar-sharma-heres-why/articleshow/130714054.cms
 
-- Stock Bulls Power Longest Weekly Rally Since 2024: Markets Wrap - Bloomberg.com
-  Stock Bulls Power Longest Weekly Rally Since
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5
+- Kotak Mahindra Bank Q4 Results: PAT jumps 13% to Rs 4,026.55 crore, NII rises 8%
+  Kotak Mahindra Bank reported a net profit of Rs 4,026.55 crore for the March quarter of FY26. This is a jump of 13.3% from Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q4-results-pat-jumps-13-to-rs-4065-crore-nii-rises-8/articleshow/130713880.cms
 
-- The crisis in oil markets will get bigger before it goes away - The Economist
-  The crisis in oil markets will get bigger before it goes
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUF3Ujk3R0ZOUGljNnVjN3BfcDF0c0hJcERNS05INXk2WUdTekJ6QTJuWUxES1JqTk53QldLSmFzXy1lUjZEV1JCMGxWVlpWTmxhbm1vT05Wa3pQYy1KQVF2SmZPeGFBMEZEMW5tZTR0eUktclBVNUoxLTZ1dXl2Y3NYVThfekwwRE5hU2VwQWt1NVh2OTh3SDRqRngxMUdOTlB1aUFKT2ljU0k?oc=5
+- Nifty stays range bound as volatility rises; breakout awaited
+  Nifty 50 traded within a narrow range, closing slightly higher amid rising volatility and weak momentum indicators. Markets remain in consolidation, with key resistance and support levels intact.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-volatility-rises-breakout-awaited/articleshow/130713529.cms
 
-- Gold consolidates in $4,600-$4,800 range for almost 2 months. A big rally brewing in May?
-  Gold prices remain range-bound despite geopolitical tensions. Analysts suggest patience, with no clear trend yet. A decisive move will depend on central bank policy.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-consolidates-in-4600-4800-range-for-almost-2-months-a-big-rally-brewing-in-may/articleshow/130711353.cms
+- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
+  Air India cuts international flights in May-July: What's behind the move and which routes
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
 
-- F&amp;O Talk: Nifty charts suggest further consolidation; Sudeep Shah's strategy on Cohance, HEG and 4 more stocks
-  Nifty entering a consolidation phase after a sharp April rally. Technical indicators suggest a range-bound trend. Weakness in banking stocks persists, while smallcaps continue to outperform.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-charts-suggest-further-consolidation-sudeep-shahs-strategy-on-cohance-heg-and-4-more-stocks/articleshow/130711223.cms
+- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
+  Air India to cut nearly 100 domestic and international flights till July.
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
 
-- Ego vs. Edge: What today’s investors can learn from Tom Gayner’s four-point framework
-  Tom Gayner highlights how ego undermines investment success in volatile, AI-driven markets. His four-point framework helps investors avoid overconfidence, focus
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ego-vs-edge-what-todays-investors-can-learn-from-tom-gayners-four-point-framework/articleshow/130711135.cms
+- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
+  Air India To Cut International Flights Till July Amid Jet
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
 
-- Jane Street employees set to get  $2.68 million payout after record revenue haul
-  Jane Street Group surged to the top of Wall Street with record trading revenue and $9.38 billion in compensation. Its unconventional structure, AI investments, and capital strength
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-employees-set-to-get-2-68-million-payout-after-record-revenue-haul/articleshow/130711040.cms
+- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
+  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
 
-- EM is back, India is next: Why the 2025 underperformance is the perfect setup for a 2026 comeback
-   Emerging Markets led global returns in 2025, but India lagged due to outflows and weaker earnings. Structural drivers suggest the underperformance could set the stage for stronger market performance in 2026.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/em-is-back-india-is-next-why-the-2025-underperformance-is-the-perfect-setup-for-a-2026-comeback/articleshow/130710971.cms
+- A mirror held up to the modern professional - The Times of India
+  A mirror held up to the modern professional.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
 
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
+  Air India cuts international flights in May-July: What's behind the move and which routes
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
 
-- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
+  Air India to cut nearly 100 domestic and international flights till July.
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
 
-- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
-  'No further orders necessary': Special SC bench rejects TMC's plea
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
+- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
+  Air India To Cut International Flights Till July Amid Jet
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
 
-- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
-  Repolling At 15 Booths In
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
+- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
+  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
 
-- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
-  The Times of India is a leading newspaper in Tamil
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
+- A mirror held up to the modern professional - The Times of India
+  A mirror held up to the modern professional.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
 
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
+  Air India cuts international flights in May-July: What's behind the move and which routes
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
 
-- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
+  Air India to cut nearly 100 domestic and international flights till July.
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
 
-- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
-  'No further orders necessary': Special SC bench rejects TMC's plea
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
+- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
+  Air India To Cut International Flights Till July Amid Jet
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
 
-- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
-  Repolling At 15 Booths In
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
+- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
+  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
 
-- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
-  The Times of India is a leading newspaper in Tamil
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
+- A mirror held up to the modern professional - The Times of India
+  A mirror held up to the modern professional.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
 
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
+  Air India cuts international flights in May-July: What's behind the move and which routes
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
 
-- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
+  Air India to cut nearly 100 domestic and international flights till July.
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
 
-- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
-  'No further orders necessary': Special SC bench rejects TMC's plea
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
+- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
+  Air India To Cut International Flights Till July Amid Jet
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
 
-- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
-  Repolling At 15 Booths In
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
+- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
+  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
 
-- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
-  The Times of India is a leading newspaper in Tamil
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
-
-- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
-  'No further orders necessary': Special SC bench rejects TMC's plea
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
-
-- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
-  Repolling At 15 Booths In
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
-
-- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
-  The Times of India is a leading newspaper in Tamil
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
+- A mirror held up to the modern professional - The Times of India
+  A mirror held up to the modern professional.
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-02 07:29:12 UTC_
+_Last updated: 2026-05-02 13:02:27 UTC_
