@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Assembly Elections 2026 Live Updates: Re-polling underway in West Bengal’s 15 polling booths across two Assembly constituencies
+  
+  🔗 https://indianexpress.com/article/india/assembly-election-2026-live-updates-wb-repoll-exit-poll-result-date-assam-tamil-nadu-kerala-west-bengal-10667165/
+
+- ‘This is a test message’: India launches new emergency messaging system for citizens
+  
+  🔗 https://indianexpress.com/article/india/india-indigenous-cell-broadcast-system-test-alert-to-all-citizens-10667210/
+
+- Nirav Modi, Vijay Mallya among 21 declared fugitive economic offenders as ED seizes Rs 2,178 crore assets
+  
+  🔗 https://indianexpress.com/article/india/nirav-modi-vijay-mallya-among-21-declared-fugitive-economic-offenders-as-ed-seizes-rs-2178-crore-assets-10667031/
+
 - From Ranchi school where Dhoni studied, 7-year-old swimming prodigy makes history
   
   🔗 https://indianexpress.com/article/india/from-ranchi-school-where-dhoni-studied-7-year-old-swimming-prodigy-makes-history-10666678/
@@ -8,17 +20,13 @@
   
   🔗 https://indianexpress.com/article/india/sudden-storm-shifting-centre-of-gravity-how-leisure-cruise-quickly-turned-tragic-in-jabalpur-10666737/
 
-- ED: Assets attached in money laundering cases rose 23-fold between 2005-14 and 2014-24
+- Apple raises Mac mini price as chip and memory shortages persist
   
-  🔗 https://indianexpress.com/article/india/ed-assets-attached-in-money-laundering-cases-rose-23-fold-between-2005-14-and-2014-24-10666782/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-raises-mac-mini-price-as-chip-and-memory-shortages-persist-10667055/
 
-- Ladakh living land of dharma: Amit Shah on Buddha relics return to UT after 75 years
+- Elon Musk says OpenAI abandoned ‘charity’ mission: Key takeaways from testimony
   
-  🔗 https://indianexpress.com/article/india/ladakh-living-land-of-dharma-amit-shah-on-buddha-relics-return-to-ut-after-75-years-10666781/
-
-- CJI declares Sikkim to be first paperless state judiciary in country
-  
-  🔗 https://indianexpress.com/article/india/cji-declares-sikkim-to-be-first-paperless-state-judiciary-in-country-10666787/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-openai-trial-key-takeaways-from-testimony-10666967/
 
 - The tech we build for democracy needs to be strategic: Matt Stempeck, Civic Tech researcher
   
@@ -32,33 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/science/artemis-timeline-shifts-can-nasa-still-land-astronauts-on-the-moon-in-2028-10666254/
 
-- Big Tech Q1 2026 earnings: Key takeaways on AI spending, cloud growth, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/big-tech-q1-fy2026-earnings-ai-cloud-growth-capex-roundup-10666191/
+- US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz
+  US warns shipping firms they could face sanctions over paying Iranian toll
+  🔗 https://www.livemint.com/companies/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-the-strait-of-hormuz-11777705811731.html
 
-- Airport of the future? Tokyo tests humanoid robots for ground operations
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/airport-of-the-future-tokyo-tests-humanoid-robots-for-ground-operations-10666133/
+- Air India cuts international flights until July 2026 as fuel costs and airspace closures bite
+  Air India will reduce international flights through July as soaring jet fuel prices and West Asia airspace closures make many routes unprofitable. The airline group recorded losses exceeding 
+  🔗 https://www.livemint.com/companies/news/air-india-to-cut-international-flights-until-july-2026-as-fuel-costs-and-airspace-closures-make-routes-unprofitable-11777702684492.html
+
+- Cognizant to lay off employees as AI drives ‘real and accelerating’ change
+  An internal memo cited “real and accelerating’ industry shift as Cognizant tr
+  🔗 https://www.livemint.com/companies/news/cognizant-to-lay-off-employees-as-ai-drives-real-and-accelerated-change-11777700436203.html
+
+- Meta buys humanoid robot startup Assured Robot Intelligence as 8,000 job cuts loom
+   Meta Platforms has acquired Assured Robot Intelligence, a humanoid robot AI startup. CEO Mark Zuckerberg raises capital spending to $145 billion and prepares to lay off
+  🔗 https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html
 
 - GameStop prepares eBay takeover offer in Ryan Cohen's boldest move yet; Stocks jump 15%
   eBay shares surged 15% after-hours on the news. CEO Ryan Cohen builds a stake in the e-commerce giant ahead of
   🔗 https://www.livemint.com/companies/news/gamestop-prepares-ebay-takeover-offer-in-ryan-cohens-boldest-move-yet-stocks-jump-15-per-cent-11777681014875.html
 
-- Brown University cuts stake in Blue Owl private credit fund by over 50%
-  Brown University cuts stake in Blue Owl private credit fund
-  🔗 https://www.livemint.com/companies/brown-university-cuts-stake-in-blue-owl-private-credit-fund-by-over-50-11777670444288.html
+- ₹12.50 to  ₹1630: Multibagger penny stock turns  ₹1 lakh into  ₹1.30 crore in nine  years
+  The share would have turned one's  ₹
+  🔗 https://www.livemint.com/market/stock-market-news/rs-12-50-to-rs-1630-multibagger-penny-stock-turns-rs-1-lakh-into-rs-1-30-crore-in-nine-years-11777700759422.html
 
-- US Sanctions Iranian Exchanges, China Terminal on Oil Purchases
-  The Trump administration sanctioned three Iranian currency exchanges and a Chinese oil terminal on Friday. The US adds to pressure on Tehran to end the war and
-  🔗 https://www.livemint.com/companies/us-sanctions-iranian-exchanges-china-terminal-on-oil-purchases-11777661768532.html
+- Your initial savings of  ₹20 per day can help in getting a  ₹6 lakh monthly pension. Here's how
+  A 30-year-old investor can accumulate  ₹9 crore via a disciplined SIP, potentially providing a monthly pension of 
+  🔗 https://www.livemint.com/market/mutual-fund-sip-calculator-your-initial-savings-of-rs-20-per-day-can-help-in-getting-a-rs-6-lakh-monthly-pension-11777693765312.html
 
-- Jindal Steel FY26 profit up 20%, but costs weigh on margins
-  Jindal Steel reported record production in FY26, with net profit rising 20% and revenue
-  🔗 https://www.livemint.com/companies/news/jindal-steel-fy26-profit-earning-margins-11777648890744.html
-
-- Spirit Airlines preparing for total shutdown after bailout talks fail, stock crashes 74%
-  Last month, US President Donald Trump indicated his administration's interest in acquiring
-  🔗 https://www.livemint.com/companies/news/spirit-airlines-preparing-for-total-shutdown-after-bailout-talks-fail-stock-crashes-74-11777650839485.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 4 May 2026
+  Sumeet Bagadia recommends three stocks to buy on Monday — Reliance
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-4-may-2026-11777689508861.html
 
 - UAE exits OPEC: What forced the West Asian nation to junk the oil cartel amid the US-Iran war? Explained
   UAE’s decision to leave OPEC is not a sudden move but a well planned strategic shift driven by economic and
@@ -67,18 +79,6 @@
 - Dollar set for sharp weekly loss versus yen after Japan steps in
   Dollar set for sharp weekly loss versus yen after
   🔗 https://www.livemint.com/market/dollar-set-for-sharp-weekly-loss-versus-yen-after-japan-steps-in-11777666267056.html
-
-- Crude futures fall on new Iran proposal for peace talks
-  Crude futures fall on
-  🔗 https://www.livemint.com/market/crude-futures-fall-on-new-iran-proposal-for-peace-talks-11777665707975.html
-
-- Oil Falls on Hopes for US-Iran Negotiations, Hormuz Progress
-  Oil edges lower in thin trading with US-Iran peace negotiatons on the ropes. Some traders to peel back
-  🔗 https://www.livemint.com/market/oil-falls-on-hopes-for-us-iran-negotiations-hormuz-progress-11777664232420.html
-
-- Exxon Mobil shares fall despite first quarter earnings beat expectations, CEO warns oil prices may continue to rise
-  Exxon Mobil’s adjusted earnings for the first quarter reached
-  🔗 https://www.livemint.com/market/stock-market-news/exxon-mobil-shares-fall-despite-first-quarter-earnings-beat-expectations-ceo-warns-oil-prices-may-continue-to-rise-11777655014891.html
 
 - US military reaches deals with 7 tech companies to use their AI on classified systems
   US military reaches deals with 7 tech companies to use
@@ -104,121 +104,121 @@
   S&amp;P 500 closes at a new record to usher in May as oil prices
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBqQ0o4a2lDQm81Z2VobHZwU29wY2pDRUg3bGRHbzl5NUJxcUNFcWNkaTY3eWZlZTJjNGR2T0loLVBHazh4UTA1UjlOLXFjT0pKd2VEQ19aay03czYzVnJpRzMyQk15a3V0dWxIeE90WldubjJOLW1R0gF8QVVfeXFMT1V6RUdyT3NhTlNVVDdGZ1o0YnVnVmNrMWptczRHVFZhSHlKSkc2WUlUNktZbGxHbVMyT0hYVWZXM21kRzdmaUdLRGI2Qi0yQ3lHTmlOU21Sb1kyeHNNb0pyQ0xRRDh0dHJtNDRvVEJ1YUx4OWlVQ2lweWwwWg?oc=5
 
-- Stock Market News, May 1, 2026: S&P 500, Nasdaq Rise to New Highs - WSJ
-  The WSJ looks at the future of the stock market
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0xqWnhTU1VjTV9IbnJhZS1xZDNqNHN6SjZNMXVuWGZlSlFwRWRPN2JZdVd4azZsZmEwXzVIejlUa1JtdWN0d2d1UlFIUW5JanlCNlFIWS1hQ3BHcnZEV3pPWTlaUkZIR2hwN3hWX0hTSTZzZzJtZWZudkwwNk9IQVpyQV9ReXM?oc=5
+- US stock market today hits new records as Nasdaq crossed 25,000 for the very first time: Dow Jones, S&P 50 - The Economic Times
+  US stock market hits new records as Nasdaq crossed 25,000 for the very first time. Dow
+  🔗 https://news.google.com/rss/articles/CBMi9gJBVV95cUxPc1JlMkQwZnE3VmZ2cU1zYW9DMU9BUmNzQ0dIYUFiaHZHV1FVbzZ0S1ZjRjBYZzRBOFZmd1pyRUpod0o3dl9UNHZtTTlMRkxuNVQ1a3FtTFJpSmowdWM4bXZHTlY3b21fN050clRBVTBVbXVlM0ZzWGhVUUg2SzVNWUd0b1JtTy1HdEwyam9uNGRPSDhFSkpEaE52TXY5M0dzZl83aDFEQWNUdGZPRU5Lek93NHJTaGVHU0ZITVltZ3NqVmdNSG40bDhsYnZIMmwwWGdwQmNsdlpTYmJELVdBVXJzZmlMaDB4NHZhQTlFbUIwN3B0UkZhMVMxSEZoTHppNnRVSVZ3d1l6WDFHNEJkYlZEQXdkRDhkTmhTZzUza2F0QXZOSU1sRXNtNTFnczNNUFF2RnptUkZpWHpIVDM1dzBhWlk4MWdRUEdFSU4yTE4wU3g1VUpIVHVkQmFSTVhhdTJDaDdTVkc5c1NnSE95X19XNU5PUdIB-wJBVV95cUxNRUQ3Vno1Z3R1dXBzT3ZHY3dJQmFCYWk0Sjg3bDhHN2RtYlF4ZXA1MjB6Z3pxV2dKQklBOVc4cTJzY251MHBnMzlfNTdGVHNiZTFhTFF4VF90OUNVSjQ0ZDI5a0djNF8xV0ZTNjc3SVB6ZjQ4bXFtVlVTYWlOVzFpU3pLZU1YTzlDUWtlZXdXdXU5bm9wOTNtdlpMa29HejE3TXh6Y0Y4dmEzSGpJRU1yRTNyMmNQR19WYi1NMEJWSGRvVGpIclJVVWpKcXVvTExQdVN3ZjZFSUxmUDNVMzl5cTVGb2xzM0huZ3ExNkF2Wm9zejVFLVNONXhkT3JtYXR6NzhxckdIQkxDQlZIN3dhSmdIa0pwQVZacjh2elV3S3R1M0lDVGg4M3NFYU9JOWpubmJhTVRxTDNFWGdPSC0wNmp0UmFkYTVub1dqUWN1YzJfWDBPSU1rSTFVa09WNXZTUElPRTl6MWllOFZYS2VFdVFlOEpOUDllRU1N?oc=5
 
-- US stock markets today (May 1, 2026): Wall Street heads for fresh records; Apple rallies as oil prices co - The Times of India
-  The Times of India has published an article on the US stock markets today (May 1, 2026
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxOWnVOSnhVRGF4cmtXdlJUMlRQc0FnaGtXdFJHT1VYQkNVMlJzOEJUSzVvTW01a2gyMmFDY25IVWxnZUI3VFl0U0k2YUtjOTFfVktZb3N0Ujg5bWprUDdUZVdreWJXUE5USm8zeWFYY0Q1WVYyTjBxUUtyR3c3WDhqODhPTUNNMS1oZTF4RnNNNVVoZlpWdUZCTU5wZE5YV0k4eW96Uk1fejVEdk10Zl9ZWWVPMUNUWlZyTDhGZlpmdnFQY1dzWG9Bek5BVUVlSzFrajk4NnAwRzlBZ1hURkVLVVk0YWt3UTBxVVUybHpndTdEeERjYkoyVXZfUG5FWWNFZ0h3YnJNWDZBU2t0WUJXTDA1QXhfSi1BSFhuTUlCQ1gtQdIBpwJBVV95cUxQLXlWM1F3akpQbjl1VTl6Vmg4cGZ1M0VtNnVEOWVtZ3BORWFFS1JuZU8yQVpzdWpGWnd0YU4wMW8wRFZSV2txODNIRmROMTJ3cURqQXAxUmo1RTJIQzgtSDYwbTRncGRZTGNmQURhUWx3LTBpVkdqWWtwV1ZPRGxmdnk1S2swVG8yU1JxRVNMRDFlU1lUQ3IwM2RTTzdmc3JqanZlVEx4cmh4ajE4Y0pEOXdLNktzU3d0WVExUDFNeWFUTk0wcDVWSm03RFhXTXA4UURnd2E4WTdQeXVQYVozR3lZQWc2T2lMNjdqQndWZDhVVDFZaHpDLWNGLTRNSF8zVXgtUVFGUkxjd1k5SWhHNmNKNko0VlctMzNqSUhmVDdvLUtXa1g0?oc=5
+- Investors Ride Google, Caterpillar to Market’s Best Month Since 2020 - WSJ
+  Investors Ride Google, Caterpillar to
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONlVmdU56OWN1Wm9lUWI4MWlnYzhFODcxdWlwRU1XWWQzbTBla0hrNmFVQnkwcjJ3S0NadXl2Y3dRWUl5T3pXMTU3VVhKYXpNNUNhUi1abmc1RXZFSWZpdG9NT1FwQnBVQ1ZBOGJMenZDOHNFN2xNaDN3ckVJUkUwR082YUpuMUU4dDlMUGwzY1dOS1dRVFBsWWowcnVhdjBqQkdJTDA0Umk4YkJqTUww?oc=5
 
-- At $4.9 trillion, Nvidia beats listed Indian companies’ market-cap - The Times of India
-  At $4.9 trillion, Nvidia beats listed
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNHhod084RXpPZ1d0RVpiOG41ZVhmQi1zcUtTaE0tQXNIdFowUFhxX2xLVGF5T0ZnZFVhd01VLTF0NlJZdFkyT0V1SjNob25LR04xQWtBZTFzb3ltQnVTaXIzQVhPajFRTVJpUDN4TVc4eTMycmpqUzlIQkdtYjRpUjdCbjQycG1PNWp6YkU3MXU2b3QwVk1mMTdqUDJ3TFZCSDZtbGk2V01nZzJmOTlQSm1IU2NzLTVJSGN0VnRBbmY5aWdZREs3TVFxQ2UzTHVqWjYyQW9zY2RpUElQMm50b2syd9IB6AFBVV95cUxNWklxVmpwbXlPcUtPX3RGbVIwY0F3NXkzQUVlOEVVMEFSS3BCN0lRZXNkdlljcU93WFhMdm15Z0xNN0VwRk9fUS10VHR3c1V4Y2lNdG8wSjFPbHkxNGE5R0JvVDNfaHZEbE9RN3VqVmR3dVZRajJOMzFZNGhNdTlubEgzM05VRkVNWHRROERTR0hyYlVfSHl3b0IyVnhFOTdlUTlvOGE2QklNRjgzZS1mZ2NTMnVxUVg0Y2pUS0txNmRhN04zdGtkSVFQSDVVeVBFeFk3UXEtQzF0Y2JveFgtMmM1SXVuSVgy?oc=5
+- Stock Bulls Power Longest Weekly Rally Since 2024: Markets Wrap - Bloomberg.com
+  Stock Bulls Power Longest Weekly Rally Since
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5
 
 - The crisis in oil markets will get bigger before it goes away - The Economist
   The crisis in oil markets will get bigger before it goes
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUF3Ujk3R0ZOUGljNnVjN3BfcDF0c0hJcERNS05INXk2WUdTekJ6QTJuWUxES1JqTk53QldLSmFzXy1lUjZEV1JCMGxWVlpWTmxhbm1vT05Wa3pQYy1KQVF2SmZPeGFBMEZEMW5tZTR0eUktclBVNUoxLTZ1dXl2Y3NYVThfekwwRE5hU2VwQWt1NVh2OTh3SDRqRngxMUdOTlB1aUFKT2ljU0k?oc=5
 
-- US stocks today: S&amp;P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week
-  The S&amp;P 500 and Nasdaq reached record highs, fueled by strong earnings and falling crude prices, marking their longest weekly gain streak since October 2024. Despite historical May weakness, analysts are optimistic about continued
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week/articleshow/130695675.cms
+- Gold consolidates in $4,600-$4,800 range for almost 2 months. A big rally brewing in May?
+  Gold prices remain range-bound despite geopolitical tensions. Analysts suggest patience, with no clear trend yet. A decisive move will depend on central bank policy.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-consolidates-in-4600-4800-range-for-almost-2-months-a-big-rally-brewing-in-may/articleshow/130711353.cms
 
-- Zen Technologies Q4 results: Cons PAT falls 69% YoY to Rs 32 crore; revenue down 45%
-  Zen Technologies saw a significant drop in its March quarter performance. Net profit declined by 69% year-on-year, while revenue from operations fell by 45%. The company's profit after tax is attributable to its shareholders
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-q4-results-cons-pat-falls-69-yoy-to-rs-32-crore-revenue-down-45/articleshow/130684278.cms
+- F&amp;O Talk: Nifty charts suggest further consolidation; Sudeep Shah's strategy on Cohance, HEG and 4 more stocks
+  Nifty entering a consolidation phase after a sharp April rally. Technical indicators suggest a range-bound trend. Weakness in banking stocks persists, while smallcaps continue to outperform.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-charts-suggest-further-consolidation-sudeep-shahs-strategy-on-cohance-heg-and-4-more-stocks/articleshow/130711223.cms
 
-- Musk’s $158 billion payday is a lot like Tesla stock: full of hot air
-  Elon Musk's massive $158 billion compensation package from Tesla highlights stark economic disparities. While workers face stagnant wages and job insecurity due to AI, Musk's pay dwarfs company
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/musks-payday-is-a-lot-like-tesla-stock-full-of-hot-air-mark-gongloff/articleshow/130683654.cms
+- Ego vs. Edge: What today’s investors can learn from Tom Gayner’s four-point framework
+  Tom Gayner highlights how ego undermines investment success in volatile, AI-driven markets. His four-point framework helps investors avoid overconfidence, focus
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ego-vs-edge-what-todays-investors-can-learn-from-tom-gayners-four-point-framework/articleshow/130711135.cms
 
-- US stock today | Spirit Airlines prepares to cease operations after bailout plan falls apart: Report
-  Spirit Airlines is reportedly nearing operational shutdown after failing to secure a bailout plan involving bondholders and the U.S. government. Disagreements over financing terms and a sharp increase in jet fuel prices due
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-today-spirit-airlines-prepares-to-cease-operations-after-bailout-plan-falls-apart-report/articleshow/130682489.cms
+- Jane Street employees set to get  $2.68 million payout after record revenue haul
+  Jane Street Group surged to the top of Wall Street with record trading revenue and $9.38 billion in compensation. Its unconventional structure, AI investments, and capital strength
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-employees-set-to-get-2-68-million-payout-after-record-revenue-haul/articleshow/130711040.cms
 
-- RBI should reject Tata Sons application to deregister as a CIC: InGovern Research
-  InGovern Research Services urged the RBI to reject Tata Sons' application to deregister as a Systemically Important CIC. The firm argues that regulatory changes and Tata Sons's structural linkage to public funds via listed group entities make its
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-should-reject-tata-sons-application-to-deregister-as-a-cic-ingovern-research/articleshow/130682149.cms
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
-  ‘Will not call it war’: Trump says about Iran; claims settling India
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
-
-- ED flags legal hurdles in money laundering probe - The Times of India
-  The Times of India is a leading newspaper in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
-
-- The Hindu Morning Digest: May 2, 2026 - The Hindu
-  The Hindu Morning Digest: May
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
-
-- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
-  Union Minister Piyush Goyal says India-UAE CEPA
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
+- EM is back, India is next: Why the 2025 underperformance is the perfect setup for a 2026 comeback
+   Emerging Markets led global returns in 2025, but India lagged due to outflows and weaker earnings. Structural drivers suggest the underperformance could set the stage for stronger market performance in 2026.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/em-is-back-india-is-next-why-the-2025-underperformance-is-the-perfect-setup-for-a-2026-comeback/articleshow/130710971.cms
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
-  ‘Will not call it war’: Trump says about Iran; claims settling India
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
+- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
 
-- ED flags legal hurdles in money laundering probe - The Times of India
-  The Times of India is a leading newspaper in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
+- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
+  'No further orders necessary': Special SC bench rejects TMC's plea
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
 
-- The Hindu Morning Digest: May 2, 2026 - The Hindu
-  The Hindu Morning Digest: May
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
+- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
+  Repolling At 15 Booths In
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
 
-- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
-  Union Minister Piyush Goyal says India-UAE CEPA
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
-  ‘Will not call it war’: Trump says about Iran; claims settling India
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
-
-- ED flags legal hurdles in money laundering probe - The Times of India
-  The Times of India is a leading newspaper in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
-
-- The Hindu Morning Digest: May 2, 2026 - The Hindu
-  The Hindu Morning Digest: May
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
-
-- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
-  Union Minister Piyush Goyal says India-UAE CEPA
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
+- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
+  The Times of India is a leading newspaper in Tamil
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
-  ‘Will not call it war’: Trump says about Iran; claims settling India
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
+- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
 
-- ED flags legal hurdles in money laundering probe - The Times of India
-  The Times of India is a leading newspaper in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
+- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
+  'No further orders necessary': Special SC bench rejects TMC's plea
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
 
-- The Hindu Morning Digest: May 2, 2026 - The Hindu
-  The Hindu Morning Digest: May
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
+- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
+  Repolling At 15 Booths In
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
 
-- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
-  Union Minister Piyush Goyal says India-UAE CEPA
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
+- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
+  The Times of India is a leading newspaper in Tamil
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
+
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+
+- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+
+- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
+  'No further orders necessary': Special SC bench rejects TMC's plea
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
+
+- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
+  Repolling At 15 Booths In
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
+
+- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
+  The Times of India is a leading newspaper in Tamil
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
+
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+
+- India Launches Disaster Information System, Citizens Get Test Alert On Phones - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRF
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+
+- 'No further orders necessary': Special SC bench rejects TMC's plea on counting staff - The Times of India
+  'No further orders necessary': Special SC bench rejects TMC's plea
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOWFqcGhVSTZiMk5qWTJ1OVJ4TmpGZl9QcUZhOHgwUzBzVk5fTTNsRFNCMHBLdTdEemhhRTc3NGZoQUFBVUV2V0VaQ2Z1cDZsUFpUUUVHZFJtR0ZzaGpTdk4wNW1jMmc5Q3BvVzhsMHBNY0xJeEd1ekxrQnU3dDkxV1NBM20taTI5YXhJbkVCSjJmS3ZUTVkwWUx6LUFrSWNDT2VEblgxOUZBSzhGRFZJOFFUMWROU05TaDRTMFUwdHY1VEhXV1RvUExpNG9DQ0IxVmNCenpoUTl1STlMc0xzb2Nn0gHnAUFVX3lxTE90STZ5N3B2cWgycmc4R1pUb3YtN1Y1ZVBzQll3clR0UzFkWVplbjd6MVFLSWlRVXcyQ3NNR1VKaEh3Z19pOTdRSmo1QzhrcVhsS3pIV1hjcVV6U3BuOVJwZjhtSEtnc2RpQXg3VWpKUUZEbzFKOUJDb241akxfVVltbU4wZWJTbVRITllxenhlVTVRZ1Q5dmhsbUhQYW5fQVY4dGZVTVNOUmlFU1pXX1VHZW1LeVZJS191YnRhSjhmU0drNWJncW9QcFNCdXFYWmlEeUhwWmxsV1Y2cmxuMzJxUEt5WWREcw?oc=5
+
+- Repolling At 15 Booths In 2 West Bengal Constituencies Today - NDTV
+  Repolling At 15 Booths In
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUxJc3F5ajY1bExTc2lVLU5yRkhXMWtwVC1CY1BkTENHaEhQdk5qc2tvY0p5M1hDakhSY0F3amVuZEtRUmhVRjBJZTlDUjVHSEdnUVM3dV9yYVJPek5kMWxiaFBPM250ZmZ4T19icVVVOGhzWnBuTUw0N05CY1pqYW1DTlNZZmxQV3YxLW1uVWlpSHVyOTRYaTVLXzlDMUtfbDFvSEg2TVNlUTFHa1d2bzloUnkyVVpkR2ZfR1Z6dllOa3RG0gHMAUFVX3lxTE0tcklPemFNVDZzaTJiaUw3dTBYLV95RzRQWm5XWERNckVWeVhmYWpMbk44czZtc0FPU3R3NE90a0dySzlRWVFNSmZETTFwTmtKLUtVUVo1RUxYb3VwZWl3SHJyRnJzUnVwTVltQjh5YUhkTGk3d0FtdGdrYTl5bF9IbHFqODdfS1lCNnJuSklaRllzeXludG9iWG5NM1JRUzNCMWdOcThjTlV4ejBhbk5Gbm8wUmtrbnVjdW9hNF9iMEFNZWNFcHU4QkdNeg?oc=5
+
+- Youth impact: Will first-time voters reshape Tamil Nadu politics? - The Times of India
+  The Times of India is a leading newspaper in Tamil
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVDekQxQUh5bHFoaUNrQnZZclAyT1VJREFuWEJjTHR2d0xJVWtOZmZ0al95ejVEOVUxa3FxaFBtejBkSGlSUzBULWVSbHdDT29teGVVNDliWTRWc05VUjQ2MHVCUkw2Rml3YXk1aFJwN214TWpiRDN3ZWRsWHEtU1ZHbjJYYTJvT0o4bEppRHd6YTdVWk1ZUzZHSWxvdWM2dk5IbVluMzMwZFM3Tm1PNERmNVZjTkt1ZlgyNGR1b29hR250a0VfcHBKVdIB0AFBVV95cUxPbHBQLVAycWhqSTlhOTRkdE9UdnEtemo0VHRQNEYtZldKZlBVaHdqallXS1lYU2g4d01oTTVwellPOWdfY2U0b1dnZTFoWEFFRnFiejZYV1JwcVhrZmhrclZUSDgzOU42WTFHdW5uRWpWZE1leXhTM1ExNGdscTdoRUhQa1hPYXZmN0I1ei1DbUUwTGltRXU2VFlpR0RhM05Kd1locG03SGEwT1V1ZDZnNnJiWWFuLTV1SkRRV3RnbEpRWEhXRlhza3A1RTJkb1Jf?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-02 02:14:47 UTC_
+_Last updated: 2026-05-02 07:29:12 UTC_
