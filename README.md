@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- 4 security personnel killed while trying to defuse IED in Chhattisgarh, 1st such incident since March 31 deadline
+- Days after rejig, NITI Aayog gets two new full-time members
+  
+  🔗 https://indianexpress.com/article/india/niti-aayog-revamp-pm-modi-appoints-joram-aniya-balasubramaniam-members-10668016/
+
+- Discovery of tiger carcass in Goa forest puts spotlight on tussle over demand for big cat reserve in state
+  
+  🔗 https://indianexpress.com/article/india/tiger-carcass-goa-forest-spotlight-tussle-demand-big-cat-reserve-10668009/
+
+- Minister of State Kirti Vardhan Singh to attend migration forum at UN
+  
+  🔗 https://indianexpress.com/article/india/minister-of-state-kirti-vardhan-singh-to-attend-migration-forum-at-un-10667970/
+
+- Chased by cow vigilantes, youth drowned in J&K nullah. His body is found 20 days later
+  
+  🔗 https://indianexpress.com/article/india/jammu-ramban-missing-youth-tanveer-salam-body-recovered-cow-vigilantism-sit-arrests-10667940/
+
+- 4 Chhattisgarh security personnel killed in blast while trying to defuse explosives dumped by Maoists
   
   🔗 https://indianexpress.com/article/india/chhattisgarh-kanker-ied-blast-drg-personnel-killed-10667770/
 
-- Lyricist Prasoon Joshi appointed chairman of Prasar Bharati
+- Infinix Note 60 Pro Review: A design you’ve seen before, performance you’ll notice
   
-  🔗 https://indianexpress.com/article/india/prasoon-joshi-appointed-chairman-prasar-bharati-10667730/
-
-- Tamil Nadu Election Result 2026 Date, Time: When Will TN Assembly elections vote counting begin?
-  
-  🔗 https://indianexpress.com/article/india/tamil-nadu-election-result-2026-date-time-10665357/
-
-- Assam Election Result 2026: Date, Time, Where to Check Assam Assembly Election Vote Counting Results Online
-  
-  🔗 https://indianexpress.com/article/india/assam-election-result-2026-date-time-eci-result-link-how-to-check-10665327/
-
-- Railways approves Rs 895 crore projects to improve freight routes, line capacity in West Bengal
-  
-  🔗 https://indianexpress.com/article/india/railways-approves-rs-895-crore-projects-to-improve-freight-routes-line-capacity-in-west-bengal-10667513/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/infinix-note-60-pro-review-10667598/
 
 - Tech Launches: Netflix’s new ‘clips’, JUST CORSECA wall art wireless speakers, Apple iNvent pre-booking offers, and more
   
@@ -36,29 +40,25 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-confirms-galaxy-ai-glasses-hints-at-new-earbuds-design-10667545/
 
-- The Safe Side: How ads on your social media feed might be scams
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-safe-side-how-ads-on-your-social-media-feed-might-be-scams-10667496/
+- Berkshire Meeting Highlights Tough Balancing Act for Greg Abel
+  Greg Abel didn't take
+  🔗 https://www.livemint.com/companies/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel-11777747133797.html
+
+- Netweb Technologies Q4 results: Revenue leaps 90%, profit after tax jumps to  ₹706 million, up 66% YoY — Key highlights
+  Netweb Technologies, provider for AMD, Intel, Nvidia and Samsung, called FY26 a ‘landmark’ year. Full-year revenue
+  🔗 https://www.livemint.com/companies/company-results/netweb-technologies-q4-fy26-results-revenue-leaps-90-pc-profit-after-tax-pat-rs-706-million-up-66-pc-yoy-key-highlights-11777733388842.html
+
+- AI risks keep me up at night, says Kotak Bank CEO
+  Kotak Mahindra Bank Q4
+  🔗 https://www.livemint.com/companies/company-results/ai-risks-keep-me-up-at-night-says-kotak-bank-ceo-11777729166475.html
+
+- DMart FY26 growth steady, e-commerce weighs on margins
+  Store expansion and steady sales growth were offset by rising
+  🔗 https://www.livemint.com/companies/company-results/dmart-fy26-growth-steady-e-commerce-weighs-on-margins-11777725246127.html
 
 - Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say
   The choice of a new CEO comes at a crucial time for Air India. Air India is grappling with heavy losses, heightened regulatory scrutiny after a deadly crash last year.
   🔗 https://www.livemint.com/companies/news/air-india-ceo-search-narrows-to-singapore-air-exec-kannan-and-insider-aggarwal-sources-say-11777721485231.html
-
-- US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz
-  US warns shipping firms they could face sanctions over paying Iranian toll
-  🔗 https://www.livemint.com/companies/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-the-strait-of-hormuz-11777705811731.html
-
-- Air India cuts international flights until July 2026 as fuel costs and airspace closures bite
-  Air India will reduce international flights through July as soaring jet fuel prices and West Asia airspace closures make many routes unprofitable. The airline group recorded losses exceeding 
-  🔗 https://www.livemint.com/companies/news/air-india-to-cut-international-flights-until-july-2026-as-fuel-costs-and-airspace-closures-make-routes-unprofitable-11777702684492.html
-
-- Cognizant to lay off employees as AI drives ‘real and accelerating’ change
-  An internal memo cited “real and accelerating’ industry shift as Cognizant tr
-  🔗 https://www.livemint.com/companies/news/cognizant-to-lay-off-employees-as-ai-drives-real-and-accelerated-change-11777700436203.html
-
-- Meta buys humanoid robot startup Assured Robot Intelligence as 8,000 job cuts loom
-   Meta Platforms has acquired Assured Robot Intelligence, a humanoid robot AI startup. CEO Mark Zuckerberg raises capital spending to $145 billion and prepares to lay off
-  🔗 https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html
 
 - IFSCA in talks with RBI over foreign asset reporting rule for GIFT City funds
   The move follows an RBI FAQ that set out mandatory FLA filing requirements. It raised questions over the regulatory classification of entities in the GIFT
@@ -100,6 +100,38 @@
   Elon Musk and OpenAI attorney spar over
   🔗 https://www.livemint.com/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit-11777575324037.html
 
+- Top economist Gary Shilling says a recession and a deep stock-market plunge are likely by year-end - Business Insider
+  Top economist Gary Shilling says a recession and a deep stock-market plunge
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1NnMkFMa2VpMmVyV2JvU19Gdzd0SzZMWU9HNG8yM0JaTEJKQWtYYlE0cllfMTVaRUtxSDZ1Mlp3dTlhYm1pZjNHX2FJYmJjWDEzbXNTUHJVTmlWRTlERE1oekwyYmhTdjNZYmpodmo3NDhBajBLSjBiN1NVR3JpR2lpUmRfSUJMMGdUOXdkMTI5TmhnRGQ0YW9UTlZBUGlhaVRaY0hZZGZyWE5MUDdoTEM4VVBIVVRn?oc=5
+
+- Stock Bulls Power Longest Weekly Rally Since 2024: Markets Wrap - Bloomberg.com
+  Stock Bulls Power Longest Weekly Rally Since
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5
+
+- US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end higher, post weekly gains afte... - The Economic Times
+  The Economic Times reports on the latest in the U.S. stock market.
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPTlZfMmhqV3pLX1hSQ2JCN2YzMG50WEhrclUwRjZmMW5vVGYzdGhSbDBGVTRWaFVlM1gtX3kwQVlTMkQ5eFphaDN1NXlwamRnMlltOGNub09DbjJKMGp1VWdGTUNSTC14RnNIN3o4M1c5bTZrUjdYdWU4allqMzl5ZVE1dFNaQVRKMkl5RU1hMXVwTEdkQVRUd1ZqaG4tMHhRcmpnLVUxTDdWc1lEUmQ3UnRGUWc5UEFuM2dEQmtUTzBGZ0E2Z181ME5uQzFfc2sxdEhkVUJQRTJlc3NsM3dwa0NxeC15Qnhfd1NoaDZCSmoyRUlPeDkyLUs0X2RaLTctTXV1Q0hScnhJbjVvVjI4OGRaUnE5cWJxck9senBNaXVFVzVGdmg5VXM0OHVjdkV6TUZfTzV4Rkd1MjUwcUNoWjhB0gHHAkFVX3lxTE10Z0t4SGZoNWpITk1wTkFwcVY4eGkxV2p3ek1iZ1l5MDI4WjlLaFpwekN0Q3JPZ1dtamM4WVRyZjFkcDdWYlcxME1ha1FwejdDaHhrSjF6ZnVtYVJGVnI5eGI1T2hDRWhHLWkta2lsU2RNMVBweVJEWE01SG9KTnAtMG1pRnRyQ2oxdFRHVHVRWlg4OHIzaUhmSzZVUEdveUJYUUNJQzV3VGg2RDhaODltWEUxb3YtZjV6eE9maFp2a1htbWlfRmVGZFdqVUtDYWt6a3FkODEzVFNoaFFIeS13MUR4SnVuWGtWeXpYZlFPWHNobC1tTFE5bW15SXR2SFpYTnpVUDcwU3YwS09DLUpkZEY1SjdqQkQ3ZzFpb2N1dWo0UVlvUFZWR2JXQWtpRWw5Vm92V3VjVWc0SElVb29ETENITWN1UQ?oc=5
+
+- Markets News, May 1, 2026: S&P 500, Nasdaq Close at Record Highs as Indexes Post Weekly Gains; Apple, Tech Shares Rise; Oil Slips - Investopedia
+  Markets News, May 1, 2026: S&amp;P 500, Nasdaq Close at
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3A4QTZjWHVjREE5UDRtTTVIclo3YngyX3IwN2s0ZHZXMnhTX0pjdXg1MFRrSVEyVjU3aXprbnRxZGt5ZkE3R2tDNllFN2pQdmx5N0xucWtOdUZmWTJtZS1uZE40VmhCeUVLcDRXWHB4MHdkQWR2WWhnd2ZPWGs2OXhBSkJQd3NtZEZfb1FjU3g?oc=5
+
+- Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets - CNBC
+   Buffett says investing environment not ideal, sees 'gambling'
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHRmQW4zeXpPR0xtNHBTLWc0Ulh2Xy0xYjNhOXU1OU5wcVYyTko1SG4xX1NzN2R3Z1ZCLXU1LTBTZ0pmaVNFX194eEZJVzNycWVobl9GY1NqUWM3WU10NWdXUk9kU19FWm0xOFpnTGhBbVl2UUZWdU96Sk9yTlcwM0YwMTBoS09VYWw3ZzVJc0tVZUN2NVdpTUk2cEdpQVV0Y2RLSEJB0gGrAUFVX3lxTE9BMXVHakwzUkNoWllvek9HTlNNYTcyOWhOQUhrMjgwaDZOSnRJeWx5bFYtWjJmdkNHWWoxR3FtWDRGY1lWUlRBSXJUdDk3YXpWUXBib1J0RkZKZERqMDVCWnBhaGVXQy15OGNKQ19GX3FiSGlKWFVnNjd3RGJ2SkVTNjRPZGhxNGpZOU83VmxCT0E2dHdQQkNCVlB3MFdfMVVPYUUzdFpPcUpxOA?oc=5
+
+- What will Berkshire do with $380 billion? Greg Abel speaks after taking over Warren Buffett's biggest cash puzzle
+  Berkshire Hathaway holds a huge Rs 31.8 lakh crore in cash. Abel stated Berkshire's operating philosophy will not change. Investors watch for Abel's capital allocation decisions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/what-will-berkshire-do-with-380-billion-greg-abel-speaks-after-taking-over-warren-buffetts-biggest-cash-puzzle/articleshow/130720280.cms
+
+- What Warren Buffett said at Berkshire Hathaway's first annual meeting after stepping aside
+  The meeting followed strong first-quarter earnings and a significant increase in Berkshire's Apple investment value. Buffett expressed confidence in Abel, stating he's "doing everything I did and then some"
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/what-warren-buffett-said-at-berkshire-hathaways-first-annual-meeting-after-stepping-aside/articleshow/130719955.cms
+
+- Berkshire Hathaway profit rises despite consumer stress, cash sets record
+  Berkshire Hathaway reported stronger Q1 operating profit despite economic headwinds. Firm amassed nearly $400 billion in cash, struggled to find large deals.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-profit-rises-despite-consumer-stress-cash-sets-record/articleshow/130718623.cms
+
 - DMart Q4 Results: Avenue Supermarts cons PAT jumps 19% to Rs 656 crore, revenue too rises 19%
   Avenue Supermarts, the operator of DMart, reported a net profit of Rs 656.6 crore for the March quarter of FY26. The net profit is attributable to the equity holders of the company.
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q4-results-avenue-supermarts-cons-pat-jumps-19-to-rs-656-crore-revenue-too-rises-19/articleshow/130715883.cms
@@ -108,125 +140,65 @@
   CDSL reported a mixed Q4 FY26 performance, with revenue growing 17.1% to Rs 262.85 crore. Full-year net profit for FY26 also saw a 14% decrease. The company surpassed 18 crore dem
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q4-results-cons-pat-declines-20-to-rs-80-crore-rs-12-75/share-dividend-declared/articleshow/130714239.cms
 
-- FII outflows not driven by lack of AI and high taxes, says Shankar Sharma. Here’s why
-  Foreign investors are not avoiding India due to AI exposure or tax issues. Data shows markets with little AI have outperformed. India's own past performance contradicts the AI dependency narrative.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fii-outflows-not-driven-by-lack-of-ai-and-high-taxes-says-shankar-sharma-heres-why/articleshow/130714054.cms
+- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
+  Operation Global Hunt: An India-Inter
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
 
-- Kotak Mahindra Bank Q4 Results: PAT jumps 13% to Rs 4,026.55 crore, NII rises 8%
-  Kotak Mahindra Bank reported a net profit of Rs 4,026.55 crore for the March quarter of FY26. This is a jump of 13.3% from Rs
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q4-results-pat-jumps-13-to-rs-4065-crore-nii-rises-8/articleshow/130713880.cms
+- Bengaluru's Silk Board Junction Creates History, Becomes South India's First... - News18
+  Bengaluru's Silk Board Junction
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTVXckZINzJGZ3c2d2djZ1RxbC03RHYyS0FNbEtvTmhTUnpSVnBQbmt5VXZYek5vWE43WjljY081Yk5ucS1paDgxZ0VJeTJaOWJ0bEdoTGM5YkN0Skd0cm9kMlh4cUVSb192X1R6NUh3SEhoWEpyVGRoOTlUVHpVdWwwX0sxWTkzRmdfOFhOOTR6RDNQWmRZZFVrMDluaU5xb3pRbGEydm1uMmx5bFgxR2puUlJHTmliWDFLZmpNWEwyaUxoQXRYXzN2YlBGVU5hY2NEOVFZdl9sVXFyX2lrd29B0gHnAUFVX3lxTFBMTzZpdTBGTEIycS1ydzQ3QTFmblYyNFE1b19lWkphMmhnYjV5aXZkcjZnWV9vVWY2R1ZLNFhrbk1aVnhtcUY0cVFKSnptdlprSW1ReGdnZFpkSHNtSWxyVVhIREctMzNmb0NUcEthME96a2hxclhRVWZOSkE3VEFjUy00d091LVdOa29fZ3pyS1htNWo0S2thWlpDX3ZsVExmZHJfck0wNXRJRjBPeVNnRkN3SE1tZUhNSW5zRTRSU3VXUVdfTUZIblZPaW1ITXd6aFc2bnJUdjBCNXJkMzNWZGhJNVprTQ?oc=5
 
-- Nifty stays range bound as volatility rises; breakout awaited
-  Nifty 50 traded within a narrow range, closing slightly higher amid rising volatility and weak momentum indicators. Markets remain in consolidation, with key resistance and support levels intact.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-volatility-rises-breakout-awaited/articleshow/130713529.cms
+- US Retains India on Special 301 Priority Watch List, Flags Patent Regime, Enforcement Gaps - The Times of India
+  The Times of India reported that India has been placed on the U.S
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUktQZ2htYzE3OEFZbkp4YmhiUWFCdWJXWE5oSzdFLVphd2Vvc3pka1JHS3d4aHNxcG5rc1RTdlZUS1J4eXN5SF9CeWhkV3Uyek10QnhKLTlLMzlvSldiN1F0TS1qcFRibVJRYlBRcE1PTjlHNzRrLTdHR3ZPNDdLb2JZTERzak4tbm1LTUZGRzY4dmFUV0lNZmQwLVJkM2V0anBXRURwTGF6djZYYV9FckNIdkNGV2xnUkoxcVBHR3hPc3UzcHZBU3BicEdzUGVZNkhZQVM0Ykt3eVVOTWZSQ1F4Mk1GS2hZMDlkVEFKam1GQdIB9wFBVV95cUxPcFlRaUt6ODZHbUp3ZEx6MTlVOVdOVUw1SmgtLTliNkloZUp3YmJiMUhlRVNHZDd1V25OUVVDd1NialllekdFZzNHc3BTQnZPY1FLVExKV1lkZm1FVUxEb1IyRWJwenlCM0JzQW5wejVpQXNsQnctTGNPUlV3Q09YZUk1SDZXa2FhOC0zaFlJeW5RelpGeDJQdzZxa0dqeDRMWVNQdk0tRVVKWjlWVU5XeXBlTzJtMFdlazBaX1R5bGlOT3lpd0E4X1E5VkJUcEdoN3lVNGNfMl9FY0V4cGF5Q3JxUmVJU28yUEEwM1VEY3BPaUMxMktN?oc=5
 
-- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
-  Air India cuts international flights in May-July: What's behind the move and which routes
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
+- 3 Of Family Killed As Speeding Tractor Rams Motorcycle In Muzaffarnagar - NDTV
+  3 Of Family Killed As Speeding Tractor
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWpaYy1ZcURvNG9YSXdYV2FYTkNQdEVnbjFBWUt3OEFXSVhDWEpJeVdlR0R4a1lsQTRxZ0tNQ2RRWVVFSU9VbFFGOS1VcEJfZXRqYktYalRhNEN1MmFvT0p2UjRsMnZSZ09mQkZ4TG5KTkJEWEgzLWU4c3lWV2dHU21yUVdPaEVQQkVFRUh3dWlreklzQVFEdklBQXJYV0F6b2ZhT25KZ3piRmlRSzJnMkVR?oc=5
 
-- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
-  Air India to cut nearly 100 domestic and international flights till July.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
+- Operation Sindoor Reflected India's Resolve To Eliminate Terrorism: Rajnath Singh - NDTV
+  Operation Sindoor Reflected India's Res
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlVjV3lOMHE1WXVQdmlzcU1aQTdVZGhyX281eVpHOFh3X3J0cXZxR2lzOVp3ejJxNDUzNW10Z0l5bmpGVkZHU3JPd0VRVjZqenlpd29ZbW5YQXBtd0RIeFQ5cmN5Z3lDc0hYenV1T2lIaUNSRmpwZlRWTGJxaVBfS2VvOFZLSWhLVVJoYjNOd3FmSjhKajFmdHg2MFhueGZIZGpqdnZoYVVRekFKb19WU2RtQ1NubjNzMnBUNw?oc=5
 
-- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
-  Air India To Cut International Flights Till July Amid Jet
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
+- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
+  Operation Global Hunt: An India-Inter
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
 
-- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
-  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
+- Bengaluru's Silk Board Junction Creates History, Becomes South India's First... - News18
+  Bengaluru's Silk Board Junction
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTVXckZINzJGZ3c2d2djZ1RxbC03RHYyS0FNbEtvTmhTUnpSVnBQbmt5VXZYek5vWE43WjljY081Yk5ucS1paDgxZ0VJeTJaOWJ0bEdoTGM5YkN0Skd0cm9kMlh4cUVSb192X1R6NUh3SEhoWEpyVGRoOTlUVHpVdWwwX0sxWTkzRmdfOFhOOTR6RDNQWmRZZFVrMDluaU5xb3pRbGEydm1uMmx5bFgxR2puUlJHTmliWDFLZmpNWEwyaUxoQXRYXzN2YlBGVU5hY2NEOVFZdl9sVXFyX2lrd29B0gHnAUFVX3lxTFBMTzZpdTBGTEIycS1ydzQ3QTFmblYyNFE1b19lWkphMmhnYjV5aXZkcjZnWV9vVWY2R1ZLNFhrbk1aVnhtcUY0cVFKSnptdlprSW1ReGdnZFpkSHNtSWxyVVhIREctMzNmb0NUcEthME96a2hxclhRVWZOSkE3VEFjUy00d091LVdOa29fZ3pyS1htNWo0S2thWlpDX3ZsVExmZHJfck0wNXRJRjBPeVNnRkN3SE1tZUhNSW5zRTRSU3VXUVdfTUZIblZPaW1ITXd6aFc2bnJUdjBCNXJkMzNWZGhJNVprTQ?oc=5
 
-- A mirror held up to the modern professional - The Times of India
-  A mirror held up to the modern professional.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
+- US Retains India on Special 301 Priority Watch List, Flags Patent Regime, Enforcement Gaps - The Times of India
+  The Times of India reported that India has been placed on the U.S
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUktQZ2htYzE3OEFZbkp4YmhiUWFCdWJXWE5oSzdFLVphd2Vvc3pka1JHS3d4aHNxcG5rc1RTdlZUS1J4eXN5SF9CeWhkV3Uyek10QnhKLTlLMzlvSldiN1F0TS1qcFRibVJRYlBRcE1PTjlHNzRrLTdHR3ZPNDdLb2JZTERzak4tbm1LTUZGRzY4dmFUV0lNZmQwLVJkM2V0anBXRURwTGF6djZYYV9FckNIdkNGV2xnUkoxcVBHR3hPc3UzcHZBU3BicEdzUGVZNkhZQVM0Ykt3eVVOTWZSQ1F4Mk1GS2hZMDlkVEFKam1GQdIB9wFBVV95cUxPcFlRaUt6ODZHbUp3ZEx6MTlVOVdOVUw1SmgtLTliNkloZUp3YmJiMUhlRVNHZDd1V25OUVVDd1NialllekdFZzNHc3BTQnZPY1FLVExKV1lkZm1FVUxEb1IyRWJwenlCM0JzQW5wejVpQXNsQnctTGNPUlV3Q09YZUk1SDZXa2FhOC0zaFlJeW5RelpGeDJQdzZxa0dqeDRMWVNQdk0tRVVKWjlWVU5XeXBlTzJtMFdlazBaX1R5bGlOT3lpd0E4X1E5VkJUcEdoN3lVNGNfMl9FY0V4cGF5Q3JxUmVJU28yUEEwM1VEY3BPaUMxMktN?oc=5
 
-- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
-  Air India cuts international flights in May-July: What's behind the move and which routes
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
+- 3 Of Family Killed As Speeding Tractor Rams Motorcycle In Muzaffarnagar - NDTV
+  3 Of Family Killed As Speeding Tractor
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWpaYy1ZcURvNG9YSXdYV2FYTkNQdEVnbjFBWUt3OEFXSVhDWEpJeVdlR0R4a1lsQTRxZ0tNQ2RRWVVFSU9VbFFGOS1VcEJfZXRqYktYalRhNEN1MmFvT0p2UjRsMnZSZ09mQkZ4TG5KTkJEWEgzLWU4c3lWV2dHU21yUVdPaEVQQkVFRUh3dWlreklzQVFEdklBQXJYV0F6b2ZhT25KZ3piRmlRSzJnMkVR?oc=5
 
-- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
-  Air India to cut nearly 100 domestic and international flights till July.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
+- Operation Sindoor Reflected India's Resolve To Eliminate Terrorism: Rajnath Singh - NDTV
+  Operation Sindoor Reflected India's Res
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlVjV3lOMHE1WXVQdmlzcU1aQTdVZGhyX281eVpHOFh3X3J0cXZxR2lzOVp3ejJxNDUzNW10Z0l5bmpGVkZHU3JPd0VRVjZqenlpd29ZbW5YQXBtd0RIeFQ5cmN5Z3lDc0hYenV1T2lIaUNSRmpwZlRWTGJxaVBfS2VvOFZLSWhLVVJoYjNOd3FmSjhKajFmdHg2MFhueGZIZGpqdnZoYVVRekFKb19WU2RtQ1NubjNzMnBUNw?oc=5
 
-- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
-  Air India To Cut International Flights Till July Amid Jet
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
+- A Scientist Says Humans Will Stop Aging by 2029, Here's the Technology That Could Make It Real - Indian Defence Review
+  Indian Defence Review is published by the Indian Defence Review. It is an online magazine
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUp4RWR6NlJJUmRJanhUMm5ETXRTNE1PSmg2eXhGQkljQW1nUXhUOTY5S1dxSXloRkJPUzNpbGxqQ3dRd21YMXFoZTI1dEp0S3M0Rm13UGRpR01iMkRLcUlhak9KcXRfQS1sVDdOZDQwb2RXd2F3aXpQRXMtMGpvMFJ3TUtpU3pCSGp6b3FR?oc=5
 
-- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
-  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
+- Xi Jinping: Advancing China's strength in science and technology - news.cgtn.com
+  Xi Jinping: Advancing China's
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkJtbjJ0LVdMdkI3RExXb0w5MmZUOG9QVmlPZnJVU3I2d2ZUOHUwdFY3MkFoTUhqcjNUZEpqVTRJQkRYV2NVeC1TZ21GbFBELTN3QjZSQjRuUml1NU8zUTkyX3BENWFhMThRZXBWY3YzVTlMZFpkdzd0SjlPdkFSSUxfUGpwLVQyTS1xQkRkS01YZ0VleV8wb3lkTG03YWlxZlRUYmhwR0VJanNhR2NvVzRQci1IckZ4S05kVA?oc=5
 
-- A mirror held up to the modern professional - The Times of India
-  A mirror held up to the modern professional.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
+- Bihar govt removes Sanjay Gandhi's name from Patna zoo, dairy technology institute - The Hindu
+  Bihar govt removes Sanjay Gandhi's name from
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTi03QzZISy1QLTg1OFFMUEN5cjV1Mjlwb2ZNRUF4UVUzbEFfbVdRUi05Q29oTG1waG5hSlRaZzd4ZkplYzYtMFhlb09uNWh1bmtaTnBnMUdrSVBzbm4yVHAySkRLQXpCYmJCRHl4aEt3Tm9NOERpdGNkZlM1RTFSZDd4T25ySThJNk90b2w5LWNTeS1VWjE3WjdoTGExUHI0cWVyNXpzVE1meVlrQWNqTFlyNzhfU2xkQWhrOExPRi05UVR3bEVQUno5NnFkUWJhV2k3NG5jeDVCdm1DanfSAeQBQVVfeXFMUEZYVVFMT3pBTjR0ZHJCdUZQbnRRakZCMjBBSzVCNWZ2ZXVVcG52TWFRbjZJU0FsUkwwbk1RQ2xLRktvSk1ZN0NGWEtnRUhuNnpWa3gwNnJMQllYUlVndXRERWpsOVBEOVNXTVlxVXAwUXJ4eVlTN1RKX0plMWVCazVFUW4xRy02cFJjZE5aOWdFbTJoTy11Uk5SeDlGVmxWeGpKZGstOGZGcnRjckNQWUF4Sm5pWmF3QVVoQm55RXVmQ1g2aE5reE54M3A3c1M4VmNHa2lHcFZlNzhxc1ZNZHJoLVE4?oc=5
 
-- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
-  Air India cuts international flights in May-July: What's behind the move and which routes
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
+- Karnataka Launches Space Tech Centre of Excellence - GK Today
+  Karnataka Launches Space
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZVJjd21CWnViaDVGcUtjSm4wMHRsdXFnV29PaXR4TjhWRWJiaUtKTXQ2NmRBamRaRDAwMFRTTUN3S3NaTnhWdnRkVlhpbXBJX0pQWGNBWV9MdTRGM0xadHljZEpQVkNocnY0ektaMUhMRVVvX3pzaGpCcFhERVk?oc=5
 
-- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
-  Air India to cut nearly 100 domestic and international flights till July.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
-
-- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
-  Air India To Cut International Flights Till July Amid Jet
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
-
-- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
-  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
-
-- A mirror held up to the modern professional - The Times of India
-  A mirror held up to the modern professional.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
-
-- Air India cuts international flights in May-July: What’s behind the move and which routes are hit | India News - Hindustan Times
-  Air India cuts international flights in May-July: What's behind the move and which routes
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcl9BUjU5TTdPM1ZzekFLZWF3T2RBVndyd1lscUY1ckJSSEVWamNpcVp6Q0tvWE50SzhTYnNCZVZNV1NEcTRiVmMzTTA1MFp5TVhLVWZ4dkZldGxjRFRHa1NQb2NfTjNFXzlNa2w1ODRaYVJuN0ZHUFJRajZzRG4wemlJT1FNX1hJeEVSMTlWZkNYWDRhbFJKUUFicl90UWRqN2JWd1NLdWVIeUZDcUJpU1lmSjB5a29ZeGRPRk4wMTJUck9uMXN1Wm8xZ3Vja1paSWxYT3hhVW9uYkd5QTJKYnFyd1lRZE9FWUJ1QjVPaEPSAfYBQVVfeXFMUF9uRHpHSkd2Wmh5Y2VLTXllT1hxYWh2QTl1UDNXaXdDaXAyRzAwTnUzWEZZSXpMUTRRWGVRRFcwSEc2RmtVbmhlcWRGd29XM3pkUFVRSlBBYkY0VV9KeGxHS0RITFZqaGl0cnNmNFhuZjVhZ1hOb3lxb2xXRXFKR1NwYm1lVzJvQzgtSkZpb3BBNHg3VXFQRVpQcGxyNlZxbFlvSHV2cWhrd0hyOU5CT09TdzFzTlhabnE5OUw3WUpzLUdHVTNSVkFQWGxrd2ZjdW9yZ0UwN1RjMWxKMnJfT25JRkYtdFpvc3JOUVd2MGNobVVHWDdR?oc=5
-
-- Air India to cut nearly 100 domestic and international flights till July: CEO Campbell Wilson - The Times of India
-  Air India to cut nearly 100 domestic and international flights till July.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxNQXRZNlBJZHFEZmZuOXNwZVhoNFRzQ0Q5ZEZZTmJDV3poMTFyanQ3cEx6ZF9fOWdDcHZSN2RNbURmOUJaRWtBa2xMQ2hMNE85bzU2YnhLSjN0QUtUM21hNlMzWkUwbTdxSEpGUHljWlJ2NFc1UzRjM05NWEZPUG90a3VpWndPREtDS1lrUGFuTXFHY3VjNnkxRFp0Tkp5Zjljd2hQMlYtNVc3aDlscFdJSlA4RHY1VzlJR0dxNXNwV0xGSnRUeTlodnpFZkdiSlpCWWRkdGJRNXJNQVVITFVpdmprRk1DdjVpX3d6c19Rbk9FMmVoVElDamQyNEFUTkd1Sjlma1d3V0lTTDBfSGdSMVQ4SVk4dVJJdExWSmdhZkgwd9IBpwJBVV95cUxQZ2VYWjBFR3V3RE5Da3pIdmdfeDF3dkFocW1xWHRKMmVjNGFfcDVwS2s1ZENrbGJtWmtSRkZ1S0c2T1pTX3hhXzJ6bHBQbEVXdWhIN1lBMm9HUUtJM1RJSUVxOGpRMTFQaDlNUms5RXpXRTRrZlRIM1ZzM0xTY0YzQ0Zhc19yU2tLNUptMFNUVUlJWEs3c0tlanp5cEJ0T1ZEQzdfZC1Ea0MzbXZqaVBsSkhsZlB3VFRkc3ZTZC1LUWZqSFNTdm1NREMzNGVSU3U3aEpya3lPYWJtMUNTYWt1Q0Z0azFEOFMzcE9WUU56cjhxYUllbEQ3dWdHalZkRW5VclREUG1rZnV1NGI4eEpvZmlKVzZuOUdoODh6Z1FUNnAyTWd5Y2dZ?oc=5
-
-- Air India To Cut International Flights Till July Amid Jet Fuel Price Surge - NDTV
-  Air India To Cut International Flights Till July Amid Jet
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPVnA3MVlYV2ZnS01DRGZ4VlZ4dkdBTEJzTFBJQlJNaGl3OElqY19TbEtiQnNudlBaWE9vOFM1V2RLbTV6VG9hWmU0NW90VkYtOFd4eHFTNjdiUkVpNjYzbjRYVVVibHpxVFpjWngzMzFxdnhFRXFPV2hMYmtSWWpCMmRMY1ZmS2hXNngxMlVkWE5uLXc0SXdrOUYtNFRLQ3NBWjFQeGhVZ3k4alo1WEZwanVMdTFtRFU4VC1DalVLcDZnTDNVTlFkajNxcXI0UVHSAdcBQVVfeXFMUGM3a0pqRHNraEtTS0h4RHNFbWxhTXRiMUc2YWlSVU5QLWUwYlJxcTYtZEFxcU1EVWJDOHVrWXJ2M3d5WjBMSzJIMm1BR1JiajdMU3FxU3ZFWVlqRlpTUzNKdE54ZkcxV2xERWJ1VVQ3eGp6SEpZejFUNzI5Z0pTcm5TOFkxN2dSYVBnMTlpUEpTRzZWZ2xFcTNSS2ZqRUJWeVF4N05yR3Q3bHZZY0NFWDlwZWNEWlZ1WUNXX0IxZ2xheDhTU09WRG9nd0Q5NHgwVzVTbHlqTzg?oc=5
-
-- "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy Markets": Sagar Adani On Gulf Shifts - NDTV
-  "Time Will Tell Whether This Will Disrupt Or Stabilise World Energy
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMTFJWk5LRU40TlpkREdMd0hKTEIxLWRWZDBZQnlQQnlLY1hWay1SblloM1pGTWFwYTRZRXlUeVFpR1JQY2JwTm9nR1RLSWw5LU1aVERzRnlTRGd4OFZtRktiNlVkd25vanhRWTBDNllrWTQwN0dER1R1RkVNVWRPYmI4R2FNelJzc3NCdl9zZU04di13OVp1TDZXTjFjM1hDenVQWC1FM05oM2NuTFVwdVlmVTk0eDZGdHBTcGFVRlJCQWl0STg0cFJIVVBta0pDVHRkcmxzWXN5d9IB4gFBVV95cUxNYVdTMWNYRm0xeE16MjVuTEQ3MURPeXBiYWM0UktqSkRncl93bGJpRGVEcm9rX3MxbEt6NU85anYwWkNENloxR1VPam9rUnNsT3BLS2EwcC1PV0Jac0Y0dVFrNmZVb2g3Ql84ME9icVN3bkhOaWJlQVVfTmRYS2xoX2txWndyeW56NkRPdG5xWlV2ME1oUmgwUHA4aUg5cHBPRzlPVVhsckxqdGFRNjV4STVDa0lWcUM3dTJfMGV2UjVuSmhMQV9jZjhfY0VsU2haUFhXQ2E1aG44akZzMUhlOEpB?oc=5
-
-- A mirror held up to the modern professional - The Times of India
-  A mirror held up to the modern professional.
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3hSVnFYbGRHX3VRcUFzNUNpLXl4TmJZY0gtWGRKRXRaYlR1V3U0ZEllZ2s0eW5nM2RDZDVnR1d2QkRxMWZZUG5zMlpQUzlaWGJJWjVTS0c4VEllRXJDLUQ3YzY5OUROeEVnQTdieTVEcEdEWGFGeXF2TGVpMzVhYnV1QzB5ZU5ibHdmcm1LaVNMRTFCTmh4WUZqS2xWaUVOMTBheWxLYnpvQ2NvQlNZV9IBtgFBVV95cUxNUlAxVHFfWHk5S0xpaS1XR01MLXhnNkNhSUd2OHdZVEVRTFlrTnYya1BIX2VRbmJSMmgwcHJ2V2c5OHQxemZwYlB4dHJfRnRVZGF5aFRXc0ZLYl9lYzBNOFB3VmlWNjhIRmt2U0toRG0tMlVBNW81WlVTeWdJR0p1S1Z5c0lpUFBwMHloZkZSclBabGlmaFZkd2ZsZkFMVncxakxqaVhUT2laUWRUQ0J4bGVVQm1KUQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Karnataka launches Centre of Excellence for Space Technology in Bengaluru - Deccan Herald
+  Karnataka launches Centre of Excellence for Space
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTRMRnNfQnRsR1otVy1adzJtaUtoY00yOWhna0xIOTVhX244RFMtLXZwRTlyQjJidmJOejl2MHpMTEZ3RmgtQ3A0cEl6eXcyZWYtN1hkcUtVM3FwM1l2dnU1OGlZUzVTRDM0UFZCbll6U1pUZ3h6cU55ejNLMV84UV9TTWQteloyQjBmSktGQmVtbVYybXl0bndRckV6c1JwTWh0ZFk0X3V1Yk1iOXVSc1hmSG5fTTh5MWQ5dTNYcW9LVS15SmJmenpNRVcwVlFFbWc?oc=5
 
 
-_Last updated: 2026-05-02 13:02:27 UTC_
+_Last updated: 2026-05-02 18:56:21 UTC_
