@@ -1,26 +1,30 @@
 # 📰 Daily News Summaries
 
-- Defamation case: Congress welcomes pre-arrest bail to Khera; Singhvi exchanges barbs with Himanta
+- From Ranchi school where Dhoni studied, 7-year-old swimming prodigy makes history
   
-  🔗 https://indianexpress.com/article/india/khera-anticipatory-bail-supreme-court-himanta-sarma-defamation-10666454/
+  🔗 https://indianexpress.com/article/india/from-ranchi-school-where-dhoni-studied-7-year-old-swimming-prodigy-makes-history-10666678/
 
-- 349 kg cocaine worth Rs 1,745 crore hidden in gloves and pads: Big Mumbai drug bust
+- How Narmada cruise went from leisure outing to tragedy
   
-  🔗 https://indianexpress.com/article/india/operation-white-strike-ncb-busts-cocaine-syndicate-involving-mumbai-logistics-corridor-drug-concealed-under-cricket-gear-seized-10666386/
+  🔗 https://indianexpress.com/article/india/sudden-storm-shifting-centre-of-gravity-how-leisure-cruise-quickly-turned-tragic-in-jabalpur-10666737/
 
-- 50-year-old dies after J-K bridge collapse leaves workers trapped under debris
+- ED: Assets attached in money laundering cases rose 23-fold between 2005-14 and 2014-24
   
-  🔗 https://indianexpress.com/article/india/jammu-bantalab-bridge-collapse-rescue-operation-labourers-trapped-debris-10666400/
+  🔗 https://indianexpress.com/article/india/ed-assets-attached-in-money-laundering-cases-rose-23-fold-between-2005-14-and-2014-24-10666782/
 
-- Rob and retreat: The Bangladeshi gang behind Goa’s high-profile home invasion cases
+- Ladakh living land of dharma: Amit Shah on Buddha relics return to UT after 75 years
   
-  🔗 https://indianexpress.com/article/india/bangladesh-gang-goa-dacoity-arrest-delhi-police-strike-and-vanish-playbook-10666321/
+  🔗 https://indianexpress.com/article/india/ladakh-living-land-of-dharma-amit-shah-on-buddha-relics-return-to-ut-after-75-years-10666781/
 
-- Ahead of West Bengal assembly poll results, caution from Omar Abdullah: ‘Votes stolen through EC and SIR… bid to rig polls’
+- CJI declares Sikkim to be first paperless state judiciary in country
   
-  🔗 https://indianexpress.com/article/india/omar-abdullah-voter-list-ec-sir-unemployment-urdu-row-10666275/
+  🔗 https://indianexpress.com/article/india/cji-declares-sikkim-to-be-first-paperless-state-judiciary-in-country-10666787/
 
-- Knee osteoarthritis relief: Why aerobic exercise works best, study shows
+- The tech we build for democracy needs to be strategic: Matt Stempeck, Civic Tech researcher
+  
+  🔗 https://indianexpress.com/article/technology/what-is-civic-tech-matt-stempeck-ai-democracy-interview-10666417/
+
+- Science explains why aerobic exercise works best for knee osteoarthritis relief
   
   🔗 https://indianexpress.com/article/technology/science/knee-osteoarthritis-relief-why-aerobic-exercise-works-best-study-shows-10666492/
 
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/airport-of-the-future-tokyo-tests-humanoid-robots-for-ground-operations-10666133/
 
-- India faces cybersecurity talent crunch as AI, cloud drive demand: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-cybersecurity-skills-gap-ai-demand-report-10665764/
+- GameStop prepares eBay takeover offer in Ryan Cohen's boldest move yet; Stocks jump 15%
+  eBay shares surged 15% after-hours on the news. CEO Ryan Cohen builds a stake in the e-commerce giant ahead of
+  🔗 https://www.livemint.com/companies/news/gamestop-prepares-ebay-takeover-offer-in-ryan-cohens-boldest-move-yet-stocks-jump-15-per-cent-11777681014875.html
+
+- Brown University cuts stake in Blue Owl private credit fund by over 50%
+  Brown University cuts stake in Blue Owl private credit fund
+  🔗 https://www.livemint.com/companies/brown-university-cuts-stake-in-blue-owl-private-credit-fund-by-over-50-11777670444288.html
 
 - US Sanctions Iranian Exchanges, China Terminal on Oil Purchases
   The Trump administration sanctioned three Iranian currency exchanges and a Chinese oil terminal on Friday. The US adds to pressure on Tehran to end the war and
@@ -52,33 +60,25 @@
   Last month, US President Donald Trump indicated his administration's interest in acquiring
   🔗 https://www.livemint.com/companies/news/spirit-airlines-preparing-for-total-shutdown-after-bailout-talks-fail-stock-crashes-74-11777650839485.html
 
-- Aster DM targets 15,000 beds by FY30 post merger with Quality Care
-  The company seeks to raise its margins from 21% currently to 200-300
-  🔗 https://www.livemint.com/companies/news/aster-dm-15-000-beds-by-fy30-quality-care-merger-blackstone-11777639071840.html
+- UAE exits OPEC: What forced the West Asian nation to junk the oil cartel amid the US-Iran war? Explained
+  UAE’s decision to leave OPEC is not a sudden move but a well planned strategic shift driven by economic and
+  🔗 https://www.livemint.com/market/stock-market-news/uae-exits-opec-what-forced-the-west-asian-nation-to-junk-the-oil-cartel-amid-the-us-iran-war-explained-11777684127139.html
 
-- Indus Towers flags delays, cost pressures as LPG supply tightens amid West Asia conflict
-  LPG shortages, critical for steel galvanisation, could slow production and push
-  🔗 https://www.livemint.com/companies/news/indus-towers-flags-delays-cost-pressures-as-lpg-supply-tightens-amid-west-asia-conflict-11777639743810.html
+- Dollar set for sharp weekly loss versus yen after Japan steps in
+  Dollar set for sharp weekly loss versus yen after
+  🔗 https://www.livemint.com/market/dollar-set-for-sharp-weekly-loss-versus-yen-after-japan-steps-in-11777666267056.html
+
+- Crude futures fall on new Iran proposal for peace talks
+  Crude futures fall on
+  🔗 https://www.livemint.com/market/crude-futures-fall-on-new-iran-proposal-for-peace-talks-11777665707975.html
+
+- Oil Falls on Hopes for US-Iran Negotiations, Hormuz Progress
+  Oil edges lower in thin trading with US-Iran peace negotiatons on the ropes. Some traders to peel back
+  🔗 https://www.livemint.com/market/oil-falls-on-hopes-for-us-iran-negotiations-hormuz-progress-11777664232420.html
 
 - Exxon Mobil shares fall despite first quarter earnings beat expectations, CEO warns oil prices may continue to rise
   Exxon Mobil’s adjusted earnings for the first quarter reached
   🔗 https://www.livemint.com/market/stock-market-news/exxon-mobil-shares-fall-despite-first-quarter-earnings-beat-expectations-ceo-warns-oil-prices-may-continue-to-rise-11777655014891.html
-
-- Intel shares gain over 5%, extend record April rally as AI-driven demand fuels momentum
-  Intel shares soared 5.45% to $100.45, marking a 114% surge in April. The rally reflects a resurgence in AI demand, pushing Intel's market value above $490
-  🔗 https://www.livemint.com/market/stock-market-news/intel-shares-gain-over-5-extend-record-april-rally-as-ai-driven-demand-fuels-momentum-11777652705969.html
-
-- Gold, silver rates today: Comex gold gains $44/oz; silver up $3.5/oz on fresh Iran peace hopes
-  On 1 May, gold and silver prices improved as optimism grew for an Iran deal. Gold reached $4,673, and silver hit $77.52, recovering some losses
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-44-oz-silver-up-3-5-oz-on-fresh-iran-peace-hopes-11777646032975.html
-
-- Emerging Assets Extend Gains as Iran Delivers New Proposal to US
-  Emerging-market benchmarks for stocks and currencies extended climb in holiday-thinned trade. Iran delivered a new proposal to
-  🔗 https://www.livemint.com/market/emerging-assets-extend-gains-as-iran-delivers-new-proposal-to-us-11777648824640.html
-
-- Global brokerages downgrade Indian stocks: Should retail investors look to raise foreign exposure?
-  The need is to eliminate home country bias and opt for global diversification. For retail investors, who have remained bullish on the India story,
-  🔗 https://www.livemint.com/market/stock-market-news/global-brokerages-downgrade-indian-stocks-should-retail-investors-look-to-raise-exposure-to-global-stocks-11777643666912.html
 
 - US military reaches deals with 7 tech companies to use their AI on classified systems
   US military reaches deals with 7 tech companies to use
@@ -100,25 +100,29 @@
   Elon Musk and OpenAI attorney spar over
   🔗 https://www.livemint.com/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit-11777575324037.html
 
-- S&P 500 rises to record to kick off May trading as oil falls, Apple shares jump: Live updates - CNBC
-  S&amp;P 500 rises to record to kick off May trading as oil falls, Apple shares jump. Dow slips, S&amp.;P 500 and Nasdaq rise after record highs as earnings roll in.
+- S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC
+  S&amp;P 500 closes at a new record to usher in May as oil prices
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBqQ0o4a2lDQm81Z2VobHZwU29wY2pDRUg3bGRHbzl5NUJxcUNFcWNkaTY3eWZlZTJjNGR2T0loLVBHazh4UTA1UjlOLXFjT0pKd2VEQ19aay03czYzVnJpRzMyQk15a3V0dWxIeE90WldubjJOLW1R0gF8QVVfeXFMT1V6RUdyT3NhTlNVVDdGZ1o0YnVnVmNrMWptczRHVFZhSHlKSkc2WUlUNktZbGxHbVMyT0hYVWZXM21kRzdmaUdLRGI2Qi0yQ3lHTmlOU21Sb1kyeHNNb0pyQ0xRRDh0dHJtNDRvVEJ1YUx4OWlVQ2lweWwwWg?oc=5
+
+- Stock Market News, May 1, 2026: S&P 500, Nasdaq Rise to New Highs - WSJ
+  The WSJ looks at the future of the stock market
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0xqWnhTU1VjTV9IbnJhZS1xZDNqNHN6SjZNMXVuWGZlSlFwRWRPN2JZdVd4azZsZmEwXzVIejlUa1JtdWN0d2d1UlFIUW5JanlCNlFIWS1hQ3BHcnZEV3pPWTlaUkZIR2hwN3hWX0hTSTZzZzJtZWZudkwwNk9IQVpyQV9ReXM?oc=5
+
+- US stock markets today (May 1, 2026): Wall Street heads for fresh records; Apple rallies as oil prices co - The Times of India
+  The Times of India has published an article on the US stock markets today (May 1, 2026
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxOWnVOSnhVRGF4cmtXdlJUMlRQc0FnaGtXdFJHT1VYQkNVMlJzOEJUSzVvTW01a2gyMmFDY25IVWxnZUI3VFl0U0k2YUtjOTFfVktZb3N0Ujg5bWprUDdUZVdreWJXUE5USm8zeWFYY0Q1WVYyTjBxUUtyR3c3WDhqODhPTUNNMS1oZTF4RnNNNVVoZlpWdUZCTU5wZE5YV0k4eW96Uk1fejVEdk10Zl9ZWWVPMUNUWlZyTDhGZlpmdnFQY1dzWG9Bek5BVUVlSzFrajk4NnAwRzlBZ1hURkVLVVk0YWt3UTBxVVUybHpndTdEeERjYkoyVXZfUG5FWWNFZ0h3YnJNWDZBU2t0WUJXTDA1QXhfSi1BSFhuTUlCQ1gtQdIBpwJBVV95cUxQLXlWM1F3akpQbjl1VTl6Vmg4cGZ1M0VtNnVEOWVtZ3BORWFFS1JuZU8yQVpzdWpGWnd0YU4wMW8wRFZSV2txODNIRmROMTJ3cURqQXAxUmo1RTJIQzgtSDYwbTRncGRZTGNmQURhUWx3LTBpVkdqWWtwV1ZPRGxmdnk1S2swVG8yU1JxRVNMRDFlU1lUQ3IwM2RTTzdmc3JqanZlVEx4cmh4ajE4Y0pEOXdLNktzU3d0WVExUDFNeWFUTk0wcDVWSm03RFhXTXA4UURnd2E4WTdQeXVQYVozR3lZQWc2T2lMNjdqQndWZDhVVDFZaHpDLWNGLTRNSF8zVXgtUVFGUkxjd1k5SWhHNmNKNko0VlctMzNqSUhmVDdvLUtXa1g0?oc=5
+
+- At $4.9 trillion, Nvidia beats listed Indian companies’ market-cap - The Times of India
+  At $4.9 trillion, Nvidia beats listed
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNHhod084RXpPZ1d0RVpiOG41ZVhmQi1zcUtTaE0tQXNIdFowUFhxX2xLVGF5T0ZnZFVhd01VLTF0NlJZdFkyT0V1SjNob25LR04xQWtBZTFzb3ltQnVTaXIzQVhPajFRTVJpUDN4TVc4eTMycmpqUzlIQkdtYjRpUjdCbjQycG1PNWp6YkU3MXU2b3QwVk1mMTdqUDJ3TFZCSDZtbGk2V01nZzJmOTlQSm1IU2NzLTVJSGN0VnRBbmY5aWdZREs3TVFxQ2UzTHVqWjYyQW9zY2RpUElQMm50b2syd9IB6AFBVV95cUxNWklxVmpwbXlPcUtPX3RGbVIwY0F3NXkzQUVlOEVVMEFSS3BCN0lRZXNkdlljcU93WFhMdm15Z0xNN0VwRk9fUS10VHR3c1V4Y2lNdG8wSjFPbHkxNGE5R0JvVDNfaHZEbE9RN3VqVmR3dVZRajJOMzFZNGhNdTlubEgzM05VRkVNWHRROERTR0hyYlVfSHl3b0IyVnhFOTdlUTlvOGE2QklNRjgzZS1mZ2NTMnVxUVg0Y2pUS0txNmRhN04zdGtkSVFQSDVVeVBFeFk3UXEtQzF0Y2JveFgtMmM1SXVuSVgy?oc=5
 
 - The crisis in oil markets will get bigger before it goes away - The Economist
   The crisis in oil markets will get bigger before it goes
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUF3Ujk3R0ZOUGljNnVjN3BfcDF0c0hJcERNS05INXk2WUdTekJ6QTJuWUxES1JqTk53QldLSmFzXy1lUjZEV1JCMGxWVlpWTmxhbm1vT05Wa3pQYy1KQVF2SmZPeGFBMEZEMW5tZTR0eUktclBVNUoxLTZ1dXl2Y3NYVThfekwwRE5hU2VwQWt1NVh2OTh3SDRqRngxMUdOTlB1aUFKT2ljU0k?oc=5
 
-- Flow Control Group to Receive Investment from Neuberger Private Markets - Business Wire
-  Flow Control Group to Receive Investment from Ne
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0dJYkRvU3J0UzEzYzluMXhocDFwSVhlTVBwZVNzZVZWcHhVZ2cxUnNiX1RNNFVkTlFCWG9jd2JSYmJPQVlEWkJFR1NfZjhpY1BYemhmR1lMZUtKZ21fNjhmcldhRkltUkRzY1FxTzhDUmNzTzFyZ3M2WTFkeDF1QUltRnE4LVF1eXJyOTltOG1LTnFZT0U5d3Vnb3A2VGk5U3BvOEJIVnhfcExwOXM0NmJ0LTEwd3U5SUFtZGliUGhyNmkxcXhj?oc=5
-
-- NBA asks regulator to tighten restrictions on prediction markets - ESPN India
-  NBA asks regulator to tighten restrictions on prediction
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObEFDU1pORE5nUG55aS1aNFVodVVRUTE4RjdlT2gyaHJiMXBkWEpsS19iWXFNWmQ3bWhqREdnUENJbXRzTUJBNzBJU1NQeVllc1NTWTR6TmVsS1pPSnRRSXlORGwzbTFrQnEtYlRFNWxLLXdKaTBvMzhTTGZPamxweHJUd0xnT29VejdGV2VMNjY4cllrTEFXcUVvdFp6TTlOWVpVSQ?oc=5
-
-- US stock markets today (May 1, 2026): Wall Street heads for fresh records; Apple rallies as oil prices co - The Times of India
-  The Times of India has published an article on the US stock markets today (May 1, 2026
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxOWnVOSnhVRGF4cmtXdlJUMlRQc0FnaGtXdFJHT1VYQkNVMlJzOEJUSzVvTW01a2gyMmFDY25IVWxnZUI3VFl0U0k2YUtjOTFfVktZb3N0Ujg5bWprUDdUZVdreWJXUE5USm8zeWFYY0Q1WVYyTjBxUUtyR3c3WDhqODhPTUNNMS1oZTF4RnNNNVVoZlpWdUZCTU5wZE5YV0k4eW96Uk1fejVEdk10Zl9ZWWVPMUNUWlZyTDhGZlpmdnFQY1dzWG9Bek5BVUVlSzFrajk4NnAwRzlBZ1hURkVLVVk0YWt3UTBxVVUybHpndTdEeERjYkoyVXZfUG5FWWNFZ0h3YnJNWDZBU2t0WUJXTDA1QXhfSi1BSFhuTUlCQ1gtQdIBpwJBVV95cUxQLXlWM1F3akpQbjl1VTl6Vmg4cGZ1M0VtNnVEOWVtZ3BORWFFS1JuZU8yQVpzdWpGWnd0YU4wMW8wRFZSV2txODNIRmROMTJ3cURqQXAxUmo1RTJIQzgtSDYwbTRncGRZTGNmQURhUWx3LTBpVkdqWWtwV1ZPRGxmdnk1S2swVG8yU1JxRVNMRDFlU1lUQ3IwM2RTTzdmc3JqanZlVEx4cmh4ajE4Y0pEOXdLNktzU3d0WVExUDFNeWFUTk0wcDVWSm03RFhXTXA4UURnd2E4WTdQeXVQYVozR3lZQWc2T2lMNjdqQndWZDhVVDFZaHpDLWNGLTRNSF8zVXgtUVFGUkxjd1k5SWhHNmNKNko0VlctMzNqSUhmVDdvLUtXa1g0?oc=5
+- US stocks today: S&amp;P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week
+  The S&amp;P 500 and Nasdaq reached record highs, fueled by strong earnings and falling crude prices, marking their longest weekly gain streak since October 2024. Despite historical May weakness, analysts are optimistic about continued
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week/articleshow/130695675.cms
 
 - Zen Technologies Q4 results: Cons PAT falls 69% YoY to Rs 32 crore; revenue down 45%
   Zen Technologies saw a significant drop in its March quarter performance. Net profit declined by 69% year-on-year, while revenue from operations fell by 45%. The company's profit after tax is attributable to its shareholders
@@ -136,9 +140,25 @@
   InGovern Research Services urged the RBI to reject Tata Sons' application to deregister as a Systemically Important CIC. The firm argues that regulatory changes and Tata Sons's structural linkage to public funds via listed group entities make its
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-should-reject-tata-sons-application-to-deregister-as-a-cic-ingovern-research/articleshow/130682149.cms
 
-- Sell in May and go away? Not so fast, as earnings, geopolitics may offset seasonal concerns
-  Investors weigh whether to call time on a powerful market recovery. Wall Street adage "sell in ​May and go away" may prove costly.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sell-in-may-and-go-away-not-so-fast-as-earnings-geopolitics-may-offset-seasonal-concerns/articleshow/130681996.cms
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+
+- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
+  ‘Will not call it war’: Trump says about Iran; claims settling India
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
+
+- ED flags legal hurdles in money laundering probe - The Times of India
+  The Times of India is a leading newspaper in
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
+
+- The Hindu Morning Digest: May 2, 2026 - The Hindu
+  The Hindu Morning Digest: May
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
+
+- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
+  Union Minister Piyush Goyal says India-UAE CEPA
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
@@ -148,37 +168,17 @@
   ‘Will not call it war’: Trump says about Iran; claims settling India
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
 
-- Enforcement Directorate Awards 2 Officers Who Were Part Of I-PAC Raids - NDTV
-  Enforcement Directorate Awards 2 Officers Who Were Part
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdCRkhzYnQ2LW5NSllOZ0JzcU9wRnR6UVFyUnR2WEg5QUhpQlF4cElCRzBNV1lSVlpLOGpzejYwN0dBcHpiZEFfdFpZcmRWTGNDMk44QmxkRU95OXpFWjE5RGZSd3lIcmZDQk5FT3BhVm41WEpQTUZvN3k2dG0xVHB2VGRYVUsyOW9MSmpCcnJtT3ZtRGxxcTkxTGg2WlBXU09NWV9Gb2NQZ2RDY1J1StIBuAFBVV95cUxNc3A1RS0zeE55SzVTcnZUTTJmZXM0bkd3R2RWZ0d5bVBTZFluVXBNdzdBSkVQdUhIMXFzUExfSjdMN1ByNHhXaU5iYndtRjczVHRqLUxCQ2dfZmVVMmtjLXNNaVNaTlhHNzZ0clRUVWg3eUg0VTVJc3BaX3UxS0pOcjJFVjJQNmhJTVhsbWhRYl9wNWVXd0hJYnByRHVRN3EzVEpIVUNGeHpCVjF5MHB3VUlVWUxLYTFh?oc=5
+- ED flags legal hurdles in money laundering probe - The Times of India
+  The Times of India is a leading newspaper in
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
 
-- Bangladeshi ‘dacoits’ entered India from Meghalaya: Police - The Times of India
-  Bangladeshi ‘daco
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPTThub05pZHdaTzFQZ0g3Zm90dEFETVNORE9Ha2xMcFJ4ZW9mMXNIZmUwNE4yQ2RhcnVwalpIQ1hIcTFVN1hxMkhuR1o4VzRuTlliYnFIMFJQNVo5ci1CdHJjZGx4TWJMZFdrVHlGSUc5dkFMX01CZk1uUko1S0pUTFdLdU5Za3F2Y2JWaWFiRjYwWlY1MUYyMmdXVmgxZ2c0OUpwNGRYS3EzQ1pOWDJvVmVkYlN1NHpOOGRBVlpGellZczNI0gHKAUFVX3lxTE1GazVEQkFKX1dsUXo3XzlXUHpIMUpRb1NYZURqd3ItaGFFaWpUdm9Jb1B2T0xDTjg1ODROMDUwbUZub2x1dnZOeHNKd0lNMUNpaW8tTWI5MkNTc1J5ejhXQy1tQjRtdGtaVzlYNV9FWDZpUkllSy1kUW14YmJVeVlJUWJNeklGNzhVNWF1QjRJQlZLTnJtYnBBanl0YUlaU1VCMlVpM2JTeFVTMmNCT1JOMm95Wm1SNkZOcU5iam9MVFF5YkU5TWhSOUE?oc=5
+- The Hindu Morning Digest: May 2, 2026 - The Hindu
+  The Hindu Morning Digest: May
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
 
-- Deepfake Video Of Rajnath Singh Used To Promise Returns Of Rs 15 Lakh A Month - NDTV
-  Deepfake Video Of Rajnath Singh Used To Promise Returns Of
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0pMZmhNNUxtR2JsZjZHc1B0N0pNRDI1UkJmR2Z1dXEwbjlST25JNWwxVUQ0VXFWT2NaZVhrcGwyZmZhbUpESG1FMS1FZkp6Z3dRSXFWWlA0NG40cFBNY2tMY0tKYlgxajEwdzdvQS1JdjFnZ25hbHBGT1JkOFgtZU13MkZxNnZ6dHpyN1llRDUxbHlFNEVacm5qMDJMNnF5YW1kTWxIS1FaSHNadFRLQWxwWXRIcEtrSnfSAcIBQVVfeXFMTUhESzdLalh1eEU0OGdsTWlZSmxocVZlX3lqR2s0WUwtNHBTS0NLY0VSNnB3VEVKeEsycjlHb0ZOTkRZRkxyNzhkOGkwU19FUnRQazRBeEwzSXdpZXRkem5LajJURnEzZkljSEJzQW50U3UwYUllbk10Q05PYVRoM3Q5OGQta2lLVk5ZaFc1aUVDTW1STXE4WTBkYnNkQjFTTldyX3lNVFVmX0tIVHA4bE01TmZhVUFvc01IN3NKSXYyQmc?oc=5
-
-- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
-  Why is India turning to crocodiles and snakes to �
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
-
-- ‘Will not call it war’: Trump says about Iran; claims settling India-Pak war through tariff again | World News - Hindustan Times
-  ‘Will not call it war’: Trump says about Iran; claims settling India
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
-
-- Enforcement Directorate Awards 2 Officers Who Were Part Of I-PAC Raids - NDTV
-  Enforcement Directorate Awards 2 Officers Who Were Part
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdCRkhzYnQ2LW5NSllOZ0JzcU9wRnR6UVFyUnR2WEg5QUhpQlF4cElCRzBNV1lSVlpLOGpzejYwN0dBcHpiZEFfdFpZcmRWTGNDMk44QmxkRU95OXpFWjE5RGZSd3lIcmZDQk5FT3BhVm41WEpQTUZvN3k2dG0xVHB2VGRYVUsyOW9MSmpCcnJtT3ZtRGxxcTkxTGg2WlBXU09NWV9Gb2NQZ2RDY1J1StIBuAFBVV95cUxNc3A1RS0zeE55SzVTcnZUTTJmZXM0bkd3R2RWZ0d5bVBTZFluVXBNdzdBSkVQdUhIMXFzUExfSjdMN1ByNHhXaU5iYndtRjczVHRqLUxCQ2dfZmVVMmtjLXNNaVNaTlhHNzZ0clRUVWg3eUg0VTVJc3BaX3UxS0pOcjJFVjJQNmhJTVhsbWhRYl9wNWVXd0hJYnByRHVRN3EzVEpIVUNGeHpCVjF5MHB3VUlVWUxLYTFh?oc=5
-
-- Bangladeshi ‘dacoits’ entered India from Meghalaya: Police - The Times of India
-  Bangladeshi ‘daco
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPTThub05pZHdaTzFQZ0g3Zm90dEFETVNORE9Ha2xMcFJ4ZW9mMXNIZmUwNE4yQ2RhcnVwalpIQ1hIcTFVN1hxMkhuR1o4VzRuTlliYnFIMFJQNVo5ci1CdHJjZGx4TWJMZFdrVHlGSUc5dkFMX01CZk1uUko1S0pUTFdLdU5Za3F2Y2JWaWFiRjYwWlY1MUYyMmdXVmgxZ2c0OUpwNGRYS3EzQ1pOWDJvVmVkYlN1NHpOOGRBVlpGellZczNI0gHKAUFVX3lxTE1GazVEQkFKX1dsUXo3XzlXUHpIMUpRb1NYZURqd3ItaGFFaWpUdm9Jb1B2T0xDTjg1ODROMDUwbUZub2x1dnZOeHNKd0lNMUNpaW8tTWI5MkNTc1J5ejhXQy1tQjRtdGtaVzlYNV9FWDZpUkllSy1kUW14YmJVeVlJUWJNeklGNzhVNWF1QjRJQlZLTnJtYnBBanl0YUlaU1VCMlVpM2JTeFVTMmNCT1JOMm95Wm1SNkZOcU5iam9MVFF5YkU5TWhSOUE?oc=5
-
-- Deepfake Video Of Rajnath Singh Used To Promise Returns Of Rs 15 Lakh A Month - NDTV
-  Deepfake Video Of Rajnath Singh Used To Promise Returns Of
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0pMZmhNNUxtR2JsZjZHc1B0N0pNRDI1UkJmR2Z1dXEwbjlST25JNWwxVUQ0VXFWT2NaZVhrcGwyZmZhbUpESG1FMS1FZkp6Z3dRSXFWWlA0NG40cFBNY2tMY0tKYlgxajEwdzdvQS1JdjFnZ25hbHBGT1JkOFgtZU13MkZxNnZ6dHpyN1llRDUxbHlFNEVacm5qMDJMNnF5YW1kTWxIS1FaSHNadFRLQWxwWXRIcEtrSnfSAcIBQVVfeXFMTUhESzdLalh1eEU0OGdsTWlZSmxocVZlX3lqR2s0WUwtNHBTS0NLY0VSNnB3VEVKeEsycjlHb0ZOTkRZRkxyNzhkOGkwU19FUnRQazRBeEwzSXdpZXRkem5LajJURnEzZkljSEJzQW50U3UwYUllbk10Q05PYVRoM3Q5OGQta2lLVk5ZaFc1aUVDTW1STXE4WTBkYnNkQjFTTldyX3lNVFVmX0tIVHA4bE01TmZhVUFvc01IN3NKSXYyQmc?oc=5
+- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
+  Union Minister Piyush Goyal says India-UAE CEPA
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
@@ -188,17 +188,17 @@
   ‘Will not call it war’: Trump says about Iran; claims settling India
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
 
-- Enforcement Directorate Awards 2 Officers Who Were Part Of I-PAC Raids - NDTV
-  Enforcement Directorate Awards 2 Officers Who Were Part
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdCRkhzYnQ2LW5NSllOZ0JzcU9wRnR6UVFyUnR2WEg5QUhpQlF4cElCRzBNV1lSVlpLOGpzejYwN0dBcHpiZEFfdFpZcmRWTGNDMk44QmxkRU95OXpFWjE5RGZSd3lIcmZDQk5FT3BhVm41WEpQTUZvN3k2dG0xVHB2VGRYVUsyOW9MSmpCcnJtT3ZtRGxxcTkxTGg2WlBXU09NWV9Gb2NQZ2RDY1J1StIBuAFBVV95cUxNc3A1RS0zeE55SzVTcnZUTTJmZXM0bkd3R2RWZ0d5bVBTZFluVXBNdzdBSkVQdUhIMXFzUExfSjdMN1ByNHhXaU5iYndtRjczVHRqLUxCQ2dfZmVVMmtjLXNNaVNaTlhHNzZ0clRUVWg3eUg0VTVJc3BaX3UxS0pOcjJFVjJQNmhJTVhsbWhRYl9wNWVXd0hJYnByRHVRN3EzVEpIVUNGeHpCVjF5MHB3VUlVWUxLYTFh?oc=5
+- ED flags legal hurdles in money laundering probe - The Times of India
+  The Times of India is a leading newspaper in
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
 
-- Bangladeshi ‘dacoits’ entered India from Meghalaya: Police - The Times of India
-  Bangladeshi ‘daco
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPTThub05pZHdaTzFQZ0g3Zm90dEFETVNORE9Ha2xMcFJ4ZW9mMXNIZmUwNE4yQ2RhcnVwalpIQ1hIcTFVN1hxMkhuR1o4VzRuTlliYnFIMFJQNVo5ci1CdHJjZGx4TWJMZFdrVHlGSUc5dkFMX01CZk1uUko1S0pUTFdLdU5Za3F2Y2JWaWFiRjYwWlY1MUYyMmdXVmgxZ2c0OUpwNGRYS3EzQ1pOWDJvVmVkYlN1NHpOOGRBVlpGellZczNI0gHKAUFVX3lxTE1GazVEQkFKX1dsUXo3XzlXUHpIMUpRb1NYZURqd3ItaGFFaWpUdm9Jb1B2T0xDTjg1ODROMDUwbUZub2x1dnZOeHNKd0lNMUNpaW8tTWI5MkNTc1J5ejhXQy1tQjRtdGtaVzlYNV9FWDZpUkllSy1kUW14YmJVeVlJUWJNeklGNzhVNWF1QjRJQlZLTnJtYnBBanl0YUlaU1VCMlVpM2JTeFVTMmNCT1JOMm95Wm1SNkZOcU5iam9MVFF5YkU5TWhSOUE?oc=5
+- The Hindu Morning Digest: May 2, 2026 - The Hindu
+  The Hindu Morning Digest: May
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
 
-- Deepfake Video Of Rajnath Singh Used To Promise Returns Of Rs 15 Lakh A Month - NDTV
-  Deepfake Video Of Rajnath Singh Used To Promise Returns Of
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0pMZmhNNUxtR2JsZjZHc1B0N0pNRDI1UkJmR2Z1dXEwbjlST25JNWwxVUQ0VXFWT2NaZVhrcGwyZmZhbUpESG1FMS1FZkp6Z3dRSXFWWlA0NG40cFBNY2tMY0tKYlgxajEwdzdvQS1JdjFnZ25hbHBGT1JkOFgtZU13MkZxNnZ6dHpyN1llRDUxbHlFNEVacm5qMDJMNnF5YW1kTWxIS1FaSHNadFRLQWxwWXRIcEtrSnfSAcIBQVVfeXFMTUhESzdLalh1eEU0OGdsTWlZSmxocVZlX3lqR2s0WUwtNHBTS0NLY0VSNnB3VEVKeEsycjlHb0ZOTkRZRkxyNzhkOGkwU19FUnRQazRBeEwzSXdpZXRkem5LajJURnEzZkljSEJzQW50U3UwYUllbk10Q05PYVRoM3Q5OGQta2lLVk5ZaFc1aUVDTW1STXE4WTBkYnNkQjFTTldyX3lNVFVmX0tIVHA4bE01TmZhVUFvc01IN3NKSXYyQmc?oc=5
+- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
+  Union Minister Piyush Goyal says India-UAE CEPA
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
 
 - Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
   Why is India turning to crocodiles and snakes to �
@@ -208,17 +208,17 @@
   ‘Will not call it war’: Trump says about Iran; claims settling India
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFZ5RWFydjlVTVE0SnpHZlp2UTVpSFdHaGFnM0VZQjlzU2ZyVnNIU0VpUFhWcERDYzhtVlBkdHd1RTFUSnVyZEpYdUFESVpNdXl3VTVTVXFVb3Z2VmFIdDBTM3lxUDBnZ1NQVk5sNEIxWTYwWmNoS2ZNZ21EbUlZamZRVEFhUURuVkNsLUstZlluXzF3T2JVOUd6bkt6V2NwblVyS3V0bFd6Mnc3bGk3R1hsY0pXSWVNSEZ2YUtTa2ViY0cyU2d5YWowLXYyeTVxUGVUNlR2aWFFd05MeHQ3NWNjakpPNHdj0gHuAUFVX3lxTFB6dG93UXBrSnFjRGJscUdRWEFNTWZMaHFweTA0YXBpdWdYX0haY1Y0OFZ3VEV0aF81WUlsMEJMMnkwRGxwZGllZDE3UG5jS2Z1WVRPaHNPb0FfZXlmWUpwamlENk1VeUpwUHJaa1kydkJmZlQ0M0RWSDFHVTQ0YXU3LWZGMy03Qm44V2FlZndBRkZyMEpDc2p2ckNCdkpweVg0MDVQeVdFZHhHRGtIeFVydFpzRmM3UHFYRHlOM21RYmYyUG5oUHdPaDNoeGd0dGZvSl9UYnplLXpId09ZUGhmQ2dOdDM4YzRmZExfa1E?oc=5
 
-- Enforcement Directorate Awards 2 Officers Who Were Part Of I-PAC Raids - NDTV
-  Enforcement Directorate Awards 2 Officers Who Were Part
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdCRkhzYnQ2LW5NSllOZ0JzcU9wRnR6UVFyUnR2WEg5QUhpQlF4cElCRzBNV1lSVlpLOGpzejYwN0dBcHpiZEFfdFpZcmRWTGNDMk44QmxkRU95OXpFWjE5RGZSd3lIcmZDQk5FT3BhVm41WEpQTUZvN3k2dG0xVHB2VGRYVUsyOW9MSmpCcnJtT3ZtRGxxcTkxTGg2WlBXU09NWV9Gb2NQZ2RDY1J1StIBuAFBVV95cUxNc3A1RS0zeE55SzVTcnZUTTJmZXM0bkd3R2RWZ0d5bVBTZFluVXBNdzdBSkVQdUhIMXFzUExfSjdMN1ByNHhXaU5iYndtRjczVHRqLUxCQ2dfZmVVMmtjLXNNaVNaTlhHNzZ0clRUVWg3eUg0VTVJc3BaX3UxS0pOcjJFVjJQNmhJTVhsbWhRYl9wNWVXd0hJYnByRHVRN3EzVEpIVUNGeHpCVjF5MHB3VUlVWUxLYTFh?oc=5
+- ED flags legal hurdles in money laundering probe - The Times of India
+  The Times of India is a leading newspaper in
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxObmw5RHNRZmtCZnI2UTVUMzRDVXdhdExyWnpJWlBLSEx3V3QzY3FJUllfdk5UeE90cWpZckFTWi1PcmRCYmRlTXYxUDdNclFmUkFZYlhpNG9OZFVfWDJrNkU5LU5XSmVRcEpMeGd3VzlJeDVwRm80SUYzUE9zMTRBSlVZdE1zZjcycnloaS1pWWJEQnR0X1VQWU02dFRtV2J4Q3NRVUNka1NERFRjUE9Yc01UYTF3REXSAbwBQVVfeXFMT21tc2g3SFZLUGo2UkZ1em5Ja25DNXBfcmVmcTNTU09xTlZaWXhMbGhoWjcwbndjLXN1MlAyYmpJcGw0Z256RzdyWi1kSU51XzdOREpPLW9YYzQ3MEpPVVBxckRkTk0tQzRkbU5fS3dEbzJrVVZZMk9QbGttQ2lTUWVHWFpwTC1uNmdsRlVzZFlHdHBtZE10dHZ3M3BjdGZwMUtiN3AtSHdNMGZTR0J3dzJuR0xYYUJKQXJTZzk?oc=5
 
-- Bangladeshi ‘dacoits’ entered India from Meghalaya: Police - The Times of India
-  Bangladeshi ‘daco
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPTThub05pZHdaTzFQZ0g3Zm90dEFETVNORE9Ha2xMcFJ4ZW9mMXNIZmUwNE4yQ2RhcnVwalpIQ1hIcTFVN1hxMkhuR1o4VzRuTlliYnFIMFJQNVo5ci1CdHJjZGx4TWJMZFdrVHlGSUc5dkFMX01CZk1uUko1S0pUTFdLdU5Za3F2Y2JWaWFiRjYwWlY1MUYyMmdXVmgxZ2c0OUpwNGRYS3EzQ1pOWDJvVmVkYlN1NHpOOGRBVlpGellZczNI0gHKAUFVX3lxTE1GazVEQkFKX1dsUXo3XzlXUHpIMUpRb1NYZURqd3ItaGFFaWpUdm9Jb1B2T0xDTjg1ODROMDUwbUZub2x1dnZOeHNKd0lNMUNpaW8tTWI5MkNTc1J5ejhXQy1tQjRtdGtaVzlYNV9FWDZpUkllSy1kUW14YmJVeVlJUWJNeklGNzhVNWF1QjRJQlZLTnJtYnBBanl0YUlaU1VCMlVpM2JTeFVTMmNCT1JOMm95Wm1SNkZOcU5iam9MVFF5YkU5TWhSOUE?oc=5
+- The Hindu Morning Digest: May 2, 2026 - The Hindu
+  The Hindu Morning Digest: May
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlR0YndwTHJ6QU0zSWc5R1M2a29XaXF3QVpwQzZkTzZQbmUwOUpBOHFKSUZaaXNVTWR4WnBXQVpnckpWZm0xTFJaODFyU0pYYlFqSERyMk9MVklJMThoWGdONHNPRVpOTXlNYTRXS1dCWWdXeERjOVhCQVVfVG5lS9IBhwFBVV95cUxQZHp0QTVUSDJmVEhxMklhcmNYaXdkNVlLckNHWkw4eTFJVVlRQkxPYktaMnVCOEdoZ2lkRVpZaVVldFhaMG9UbXV0VWhwUkhDYWdJUEtwZ2M2N2NyX1RuY3ZtNlYtM0FyRWZvT0p2R0w3ancxb256bUZEaUZyM1FaRy02ZDNFMUU?oc=5
 
-- Deepfake Video Of Rajnath Singh Used To Promise Returns Of Rs 15 Lakh A Month - NDTV
-  Deepfake Video Of Rajnath Singh Used To Promise Returns Of
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0pMZmhNNUxtR2JsZjZHc1B0N0pNRDI1UkJmR2Z1dXEwbjlST25JNWwxVUQ0VXFWT2NaZVhrcGwyZmZhbUpESG1FMS1FZkp6Z3dRSXFWWlA0NG40cFBNY2tMY0tKYlgxajEwdzdvQS1JdjFnZ25hbHBGT1JkOFgtZU13MkZxNnZ6dHpyN1llRDUxbHlFNEVacm5qMDJMNnF5YW1kTWxIS1FaSHNadFRLQWxwWXRIcEtrSnfSAcIBQVVfeXFMTUhESzdLalh1eEU0OGdsTWlZSmxocVZlX3lqR2s0WUwtNHBTS0NLY0VSNnB3VEVKeEsycjlHb0ZOTkRZRkxyNzhkOGkwU19FUnRQazRBeEwzSXdpZXRkem5LajJURnEzZkljSEJzQW50U3UwYUllbk10Q05PYVRoM3Q5OGQta2lLVk5ZaFc1aUVDTW1STXE4WTBkYnNkQjFTTldyX3lNVFVmX0tIVHA4bE01TmZhVUFvc01IN3NKSXYyQmc?oc=5
+- Union Minister Piyush Goyal says India-UAE CEPA creates transformational opportunities for farmers and MSMEs - News On AIR
+  Union Minister Piyush Goyal says India-UAE CEPA
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXpINWJ4S2Y5cE50UW9EZS1zMnA1Z2FPYmNIeDZtamRiOHpRSVRMOU9zbXpldTk2UXNTQkxmZ2Z4a1dXcGh1RDROeW16UWhaYVlxdjd5eERxMGI1YnBpMWsyUndGOUI3UW1iMUg5TEtpODA1UmREck04OFF4T3A5MFE3Vk5OejVXTGZlWlc3MVB3WDdVVmZ0RkFFbXJYMzEtMmtLUWJQdnREOU5XWlNFM2gyWDdYNkF0ZFBmNW1pbGcwR2MxR3ViMjhWTXAycnVzV0N3NA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-01 19:08:32 UTC_
+_Last updated: 2026-05-02 02:14:47 UTC_
