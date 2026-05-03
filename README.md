@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Days after rejig, NITI Aayog gets two new full-time members
+- When Kargil’s dead end up in Pakistan: Families demand exchange point as rivers sweep bodies across LoC
   
-  🔗 https://indianexpress.com/article/india/niti-aayog-revamp-pm-modi-appoints-joram-aniya-balasubramaniam-members-10668016/
+  🔗 https://indianexpress.com/article/india/when-kargils-dead-end-up-in-pakistan-families-demand-exchange-point-as-rivers-sweep-bodies-across-loc-10668132/
 
-- Discovery of tiger carcass in Goa forest puts spotlight on tussle over demand for big cat reserve in state
+- ‘Haven’t slept or eaten in three days; I only see those children’: Captain of ill-fated Narmada cruise
   
-  🔗 https://indianexpress.com/article/india/tiger-carcass-goa-forest-spotlight-tussle-demand-big-cat-reserve-10668009/
+  🔗 https://indianexpress.com/article/india/jabalpur-cruise-boat-tragedy-bodies-of-2-more-children-found-captain-claims-he-didnt-abandon-vessel-10668125/
 
-- Minister of State Kirti Vardhan Singh to attend migration forum at UN
+- Rare sight: Hurriyat’s Mirwaiz shares stage with mainstream politicians in Kashmir
   
-  🔗 https://indianexpress.com/article/india/minister-of-state-kirti-vardhan-singh-to-attend-migration-forum-at-un-10667970/
+  🔗 https://indianexpress.com/article/india/purely-social-event-hurriyats-mirwaiz-shares-stage-with-mainstream-politicians-a-first-in-kashmir-10668124/
 
-- Chased by cow vigilantes, youth drowned in J&K nullah. His body is found 20 days later
+- Bishnupur violence: 25 days after attack, family claims bodies of 2 minors killed in blast
   
-  🔗 https://indianexpress.com/article/india/jammu-ramban-missing-youth-tanveer-salam-body-recovered-cow-vigilantism-sit-arrests-10667940/
+  🔗 https://indianexpress.com/article/india/bishnupur-violence-25-days-after-attack-family-claims-bodies-of-2-minors-killed-in-blast-10668194/
 
-- 4 Chhattisgarh security personnel killed in blast while trying to defuse explosives dumped by Maoists
+- Aboard first Srinagar-Jammu train: Soldier expecting child, family that skipped the road
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-kanker-ied-blast-drg-personnel-killed-10667770/
+  🔗 https://indianexpress.com/article/india/aboard-first-srinagar-jammu-train-soldier-expecting-child-family-that-skipped-the-road-10668170/
 
 - Infinix Note 60 Pro Review: A design you’ve seen before, performance you’ll notice
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-confirms-galaxy-ai-glasses-hints-at-new-earbuds-design-10667545/
 
+- Nvidia is losing ground as world's most valuable company, says report. Who can be the first to hit $6 trillion?
+  Google parent Alphabet is closing in fast on the world's most valuable company. Here is why the crown could change hands within weeks.
+  🔗 https://www.livemint.com/companies/news/google-vs-nvidia-google-has-added-900-billion-in-value-this-year-nvidia-should-be-worried-for-the-race-to-6-trillion-11777768034468.html
+
+- CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett world, with record cash
+  CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett
+  🔗 https://www.livemint.com/companies/ceo-greg-abel-moves-to-assure-berkshire-shareholders-in-a-post-buffett-world-with-record-cash-11777750013447.html
+
 - Berkshire Meeting Highlights Tough Balancing Act for Greg Abel
   Greg Abel didn't take
   🔗 https://www.livemint.com/companies/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel-11777747133797.html
@@ -52,13 +60,9 @@
   Kotak Mahindra Bank Q4
   🔗 https://www.livemint.com/companies/company-results/ai-risks-keep-me-up-at-night-says-kotak-bank-ceo-11777729166475.html
 
-- DMart FY26 growth steady, e-commerce weighs on margins
-  Store expansion and steady sales growth were offset by rising
-  🔗 https://www.livemint.com/companies/company-results/dmart-fy26-growth-steady-e-commerce-weighs-on-margins-11777725246127.html
-
-- Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say
-  The choice of a new CEO comes at a crucial time for Air India. Air India is grappling with heavy losses, heightened regulatory scrutiny after a deadly crash last year.
-  🔗 https://www.livemint.com/companies/news/air-india-ceo-search-narrows-to-singapore-air-exec-kannan-and-insider-aggarwal-sources-say-11777721485231.html
+- Crypto is now mainstream. Investors of all ages are diving in.
+  Charles Schwab will allow investors to trade crypto directly on its platform.
+  🔗 https://www.livemint.com/market/cryptocurrency/crypto-is-now-mainstream-investors-of-all-ages-are-diving-in-11777773178853.html
 
 - IFSCA in talks with RBI over foreign asset reporting rule for GIFT City funds
   The move follows an RBI FAQ that set out mandatory FLA filing requirements. It raised questions over the regulatory classification of entities in the GIFT
@@ -76,9 +80,9 @@
   A 30-year-old investor can accumulate  ₹9 crore via a disciplined SIP, potentially providing a monthly pension of 
   🔗 https://www.livemint.com/market/mutual-fund-sip-calculator-your-initial-savings-of-rs-20-per-day-can-help-in-getting-a-rs-6-lakh-monthly-pension-11777693765312.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 4 May 2026
-  Sumeet Bagadia recommends three stocks to buy on Monday — Reliance
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-4-may-2026-11777689508861.html
+- Sam Altman invites Elon Musk to GPT-5.5 party amid $134 billion legal battle because ‘world needs more love’
+  OpenAI CEO Sam Altman has invited Elon Musk to the GPT-5.5 launch party. Altman while handing out the invite on
+  🔗 https://www.livemint.com/technology/tech-news/sam-altman-invites-elon-musk-to-gpt-5-5-party-amid-134-billion-legal-battle-because-world-needs-more-love-11777770132691.html
 
 - US military reaches deals with 7 tech companies to use their AI on classified systems
   US military reaches deals with 7 tech companies to use
@@ -95,30 +99,6 @@
 - From Intel to Nvidia, tech CEOs are embracing quantum. Why it matters.
   Intel CEO Lip-Bu Tan joins the board of
   🔗 https://www.livemint.com/technology/from-intel-to-nvidia-tech-ceos-are-embracing-quantum-why-it-matters-11777598644581.html
-
-- Elon Musk spars with OpenAI attorney in trial over companys evolution from a nonprofit
-  Elon Musk and OpenAI attorney spar over
-  🔗 https://www.livemint.com/technology/elon-musk-spars-with-openai-attorney-in-trial-over-companys-evolution-from-a-nonprofit-11777575324037.html
-
-- Top economist Gary Shilling says a recession and a deep stock-market plunge are likely by year-end - Business Insider
-  Top economist Gary Shilling says a recession and a deep stock-market plunge
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1NnMkFMa2VpMmVyV2JvU19Gdzd0SzZMWU9HNG8yM0JaTEJKQWtYYlE0cllfMTVaRUtxSDZ1Mlp3dTlhYm1pZjNHX2FJYmJjWDEzbXNTUHJVTmlWRTlERE1oekwyYmhTdjNZYmpodmo3NDhBajBLSjBiN1NVR3JpR2lpUmRfSUJMMGdUOXdkMTI5TmhnRGQ0YW9UTlZBUGlhaVRaY0hZZGZyWE5MUDdoTEM4VVBIVVRn?oc=5
-
-- Stock Bulls Power Longest Weekly Rally Since 2024: Markets Wrap - Bloomberg.com
-  Stock Bulls Power Longest Weekly Rally Since
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEROTExzUDFUYTVEZndhcGUwQlZwQ3hXazNwUkRDWklBWEhiRldlckFzOXVkdXhwWEk3NnlKakh4Z0hUTk4zcEgxMTVYSFhYLU0xalJkRmNNUF95dERVMDhRNDlueWJLczV5eFNLajlWZ0Zjd2h4bVRhZUtyZXl4OWtLaVBmQ01xZWpoYVcyblF3X1hn?oc=5
-
-- US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end higher, post weekly gains afte... - The Economic Times
-  The Economic Times reports on the latest in the U.S. stock market.
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxPTlZfMmhqV3pLX1hSQ2JCN2YzMG50WEhrclUwRjZmMW5vVGYzdGhSbDBGVTRWaFVlM1gtX3kwQVlTMkQ5eFphaDN1NXlwamRnMlltOGNub09DbjJKMGp1VWdGTUNSTC14RnNIN3o4M1c5bTZrUjdYdWU4allqMzl5ZVE1dFNaQVRKMkl5RU1hMXVwTEdkQVRUd1ZqaG4tMHhRcmpnLVUxTDdWc1lEUmQ3UnRGUWc5UEFuM2dEQmtUTzBGZ0E2Z181ME5uQzFfc2sxdEhkVUJQRTJlc3NsM3dwa0NxeC15Qnhfd1NoaDZCSmoyRUlPeDkyLUs0X2RaLTctTXV1Q0hScnhJbjVvVjI4OGRaUnE5cWJxck9senBNaXVFVzVGdmg5VXM0OHVjdkV6TUZfTzV4Rkd1MjUwcUNoWjhB0gHHAkFVX3lxTE10Z0t4SGZoNWpITk1wTkFwcVY4eGkxV2p3ek1iZ1l5MDI4WjlLaFpwekN0Q3JPZ1dtamM4WVRyZjFkcDdWYlcxME1ha1FwejdDaHhrSjF6ZnVtYVJGVnI5eGI1T2hDRWhHLWkta2lsU2RNMVBweVJEWE01SG9KTnAtMG1pRnRyQ2oxdFRHVHVRWlg4OHIzaUhmSzZVUEdveUJYUUNJQzV3VGg2RDhaODltWEUxb3YtZjV6eE9maFp2a1htbWlfRmVGZFdqVUtDYWt6a3FkODEzVFNoaFFIeS13MUR4SnVuWGtWeXpYZlFPWHNobC1tTFE5bW15SXR2SFpYTnpVUDcwU3YwS09DLUpkZEY1SjdqQkQ3ZzFpb2N1dWo0UVlvUFZWR2JXQWtpRWw5Vm92V3VjVWc0SElVb29ETENITWN1UQ?oc=5
-
-- Markets News, May 1, 2026: S&P 500, Nasdaq Close at Record Highs as Indexes Post Weekly Gains; Apple, Tech Shares Rise; Oil Slips - Investopedia
-  Markets News, May 1, 2026: S&amp;P 500, Nasdaq Close at
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3A4QTZjWHVjREE5UDRtTTVIclo3YngyX3IwN2s0ZHZXMnhTX0pjdXg1MFRrSVEyVjU3aXprbnRxZGt5ZkE3R2tDNllFN2pQdmx5N0xucWtOdUZmWTJtZS1uZE40VmhCeUVLcDRXWHB4MHdkQWR2WWhnd2ZPWGs2OXhBSkJQd3NtZEZfb1FjU3g?oc=5
-
-- Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets - CNBC
-   Buffett says investing environment not ideal, sees 'gambling'
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHRmQW4zeXpPR0xtNHBTLWc0Ulh2Xy0xYjNhOXU1OU5wcVYyTko1SG4xX1NzN2R3Z1ZCLXU1LTBTZ0pmaVNFX194eEZJVzNycWVobl9GY1NqUWM3WU10NWdXUk9kU19FWm0xOFpnTGhBbVl2UUZWdU96Sk9yTlcwM0YwMTBoS09VYWw3ZzVJc0tVZUN2NVdpTUk2cEdpQVV0Y2RLSEJB0gGrAUFVX3lxTE9BMXVHakwzUkNoWllvek9HTlNNYTcyOWhOQUhrMjgwaDZOSnRJeWx5bFYtWjJmdkNHWWoxR3FtWDRGY1lWUlRBSXJUdDk3YXpWUXBib1J0RkZKZERqMDVCWnBhaGVXQy15OGNKQ19GX3FiSGlKWFVnNjd3RGJ2SkVTNjRPZGhxNGpZOU83VmxCT0E2dHdQQkNCVlB3MFdfMVVPYUUzdFpPcUpxOA?oc=5
 
 - What will Berkshire do with $380 billion? Greg Abel speaks after taking over Warren Buffett's biggest cash puzzle
   Berkshire Hathaway holds a huge Rs 31.8 lakh crore in cash. Abel stated Berkshire's operating philosophy will not change. Investors watch for Abel's capital allocation decisions.
@@ -140,65 +120,113 @@
   CDSL reported a mixed Q4 FY26 performance, with revenue growing 17.1% to Rs 262.85 crore. Full-year net profit for FY26 also saw a 14% decrease. The company surpassed 18 crore dem
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q4-results-cons-pat-declines-20-to-rs-80-crore-rs-12-75/share-dividend-declared/articleshow/130714239.cms
 
-- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
-  Operation Global Hunt: An India-Inter
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
-
-- Bengaluru's Silk Board Junction Creates History, Becomes South India's First... - News18
-  Bengaluru's Silk Board Junction
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTVXckZINzJGZ3c2d2djZ1RxbC03RHYyS0FNbEtvTmhTUnpSVnBQbmt5VXZYek5vWE43WjljY081Yk5ucS1paDgxZ0VJeTJaOWJ0bEdoTGM5YkN0Skd0cm9kMlh4cUVSb192X1R6NUh3SEhoWEpyVGRoOTlUVHpVdWwwX0sxWTkzRmdfOFhOOTR6RDNQWmRZZFVrMDluaU5xb3pRbGEydm1uMmx5bFgxR2puUlJHTmliWDFLZmpNWEwyaUxoQXRYXzN2YlBGVU5hY2NEOVFZdl9sVXFyX2lrd29B0gHnAUFVX3lxTFBMTzZpdTBGTEIycS1ydzQ3QTFmblYyNFE1b19lWkphMmhnYjV5aXZkcjZnWV9vVWY2R1ZLNFhrbk1aVnhtcUY0cVFKSnptdlprSW1ReGdnZFpkSHNtSWxyVVhIREctMzNmb0NUcEthME96a2hxclhRVWZOSkE3VEFjUy00d091LVdOa29fZ3pyS1htNWo0S2thWlpDX3ZsVExmZHJfck0wNXRJRjBPeVNnRkN3SE1tZUhNSW5zRTRSU3VXUVdfTUZIblZPaW1ITXd6aFc2bnJUdjBCNXJkMzNWZGhJNVprTQ?oc=5
-
-- US Retains India on Special 301 Priority Watch List, Flags Patent Regime, Enforcement Gaps - The Times of India
-  The Times of India reported that India has been placed on the U.S
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUktQZ2htYzE3OEFZbkp4YmhiUWFCdWJXWE5oSzdFLVphd2Vvc3pka1JHS3d4aHNxcG5rc1RTdlZUS1J4eXN5SF9CeWhkV3Uyek10QnhKLTlLMzlvSldiN1F0TS1qcFRibVJRYlBRcE1PTjlHNzRrLTdHR3ZPNDdLb2JZTERzak4tbm1LTUZGRzY4dmFUV0lNZmQwLVJkM2V0anBXRURwTGF6djZYYV9FckNIdkNGV2xnUkoxcVBHR3hPc3UzcHZBU3BicEdzUGVZNkhZQVM0Ykt3eVVOTWZSQ1F4Mk1GS2hZMDlkVEFKam1GQdIB9wFBVV95cUxPcFlRaUt6ODZHbUp3ZEx6MTlVOVdOVUw1SmgtLTliNkloZUp3YmJiMUhlRVNHZDd1V25OUVVDd1NialllekdFZzNHc3BTQnZPY1FLVExKV1lkZm1FVUxEb1IyRWJwenlCM0JzQW5wejVpQXNsQnctTGNPUlV3Q09YZUk1SDZXa2FhOC0zaFlJeW5RelpGeDJQdzZxa0dqeDRMWVNQdk0tRVVKWjlWVU5XeXBlTzJtMFdlazBaX1R5bGlOT3lpd0E4X1E5VkJUcEdoN3lVNGNfMl9FY0V4cGF5Q3JxUmVJU28yUEEwM1VEY3BPaUMxMktN?oc=5
-
-- 3 Of Family Killed As Speeding Tractor Rams Motorcycle In Muzaffarnagar - NDTV
-  3 Of Family Killed As Speeding Tractor
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWpaYy1ZcURvNG9YSXdYV2FYTkNQdEVnbjFBWUt3OEFXSVhDWEpJeVdlR0R4a1lsQTRxZ0tNQ2RRWVVFSU9VbFFGOS1VcEJfZXRqYktYalRhNEN1MmFvT0p2UjRsMnZSZ09mQkZ4TG5KTkJEWEgzLWU4c3lWV2dHU21yUVdPaEVQQkVFRUh3dWlreklzQVFEdklBQXJYV0F6b2ZhT25KZ3piRmlRSzJnMkVR?oc=5
-
-- Operation Sindoor Reflected India's Resolve To Eliminate Terrorism: Rajnath Singh - NDTV
-  Operation Sindoor Reflected India's Res
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlVjV3lOMHE1WXVQdmlzcU1aQTdVZGhyX281eVpHOFh3X3J0cXZxR2lzOVp3ejJxNDUzNW10Z0l5bmpGVkZHU3JPd0VRVjZqenlpd29ZbW5YQXBtd0RIeFQ5cmN5Z3lDc0hYenV1T2lIaUNSRmpwZlRWTGJxaVBfS2VvOFZLSWhLVVJoYjNOd3FmSjhKajFmdHg2MFhueGZIZGpqdnZoYVVRekFKb19WU2RtQ1NubjNzMnBUNw?oc=5
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
 - Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
   Operation Global Hunt: An India-Inter
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
 
-- Bengaluru's Silk Board Junction Creates History, Becomes South India's First... - News18
-  Bengaluru's Silk Board Junction
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTVXckZINzJGZ3c2d2djZ1RxbC03RHYyS0FNbEtvTmhTUnpSVnBQbmt5VXZYek5vWE43WjljY081Yk5ucS1paDgxZ0VJeTJaOWJ0bEdoTGM5YkN0Skd0cm9kMlh4cUVSb192X1R6NUh3SEhoWEpyVGRoOTlUVHpVdWwwX0sxWTkzRmdfOFhOOTR6RDNQWmRZZFVrMDluaU5xb3pRbGEydm1uMmx5bFgxR2puUlJHTmliWDFLZmpNWEwyaUxoQXRYXzN2YlBGVU5hY2NEOVFZdl9sVXFyX2lrd29B0gHnAUFVX3lxTFBMTzZpdTBGTEIycS1ydzQ3QTFmblYyNFE1b19lWkphMmhnYjV5aXZkcjZnWV9vVWY2R1ZLNFhrbk1aVnhtcUY0cVFKSnptdlprSW1ReGdnZFpkSHNtSWxyVVhIREctMzNmb0NUcEthME96a2hxclhRVWZOSkE3VEFjUy00d091LVdOa29fZ3pyS1htNWo0S2thWlpDX3ZsVExmZHJfck0wNXRJRjBPeVNnRkN3SE1tZUhNSW5zRTRSU3VXUVdfTUZIblZPaW1ITXd6aFc2bnJUdjBCNXJkMzNWZGhJNVprTQ?oc=5
+- Dragonflies in distress: Scientists sound alarm in India's ecological hotspot - BBC
+  Dragonflies in distress: Scientists sound alarm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XWUJBc3JQbUNIa3VuVEM4NEtCMmhoQ3NHUWh4dEVFOWk2Zzc3UnlzdWlZdE1KODA3eEpsMHBZRkNhZDljSUN3bHo4alh5RHZjVXVmaVVTT2ZtUQ?oc=5
 
-- US Retains India on Special 301 Priority Watch List, Flags Patent Regime, Enforcement Gaps - The Times of India
-  The Times of India reported that India has been placed on the U.S
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUktQZ2htYzE3OEFZbkp4YmhiUWFCdWJXWE5oSzdFLVphd2Vvc3pka1JHS3d4aHNxcG5rc1RTdlZUS1J4eXN5SF9CeWhkV3Uyek10QnhKLTlLMzlvSldiN1F0TS1qcFRibVJRYlBRcE1PTjlHNzRrLTdHR3ZPNDdLb2JZTERzak4tbm1LTUZGRzY4dmFUV0lNZmQwLVJkM2V0anBXRURwTGF6djZYYV9FckNIdkNGV2xnUkoxcVBHR3hPc3UzcHZBU3BicEdzUGVZNkhZQVM0Ykt3eVVOTWZSQ1F4Mk1GS2hZMDlkVEFKam1GQdIB9wFBVV95cUxPcFlRaUt6ODZHbUp3ZEx6MTlVOVdOVUw1SmgtLTliNkloZUp3YmJiMUhlRVNHZDd1V25OUVVDd1NialllekdFZzNHc3BTQnZPY1FLVExKV1lkZm1FVUxEb1IyRWJwenlCM0JzQW5wejVpQXNsQnctTGNPUlV3Q09YZUk1SDZXa2FhOC0zaFlJeW5RelpGeDJQdzZxa0dqeDRMWVNQdk0tRVVKWjlWVU5XeXBlTzJtMFdlazBaX1R5bGlOT3lpd0E4X1E5VkJUcEdoN3lVNGNfMl9FY0V4cGF5Q3JxUmVJU28yUEEwM1VEY3BPaUMxMktN?oc=5
+- 'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21 - The Times of India
+  'Subversion of democratic process': EC orders fresh polling in West Bengal's Falt
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUk1oNW1KUVdXZkxMZG9xelltWGhLbmVzVlNKNFpZblVMNEcyZ1NuRWQxSTFoYXRjRG9LWFhmNkg0czJZQkl1bU0zTXAwSXBXSUNyUnRQNW8xSzlGaUFlXzBKc1dxT21YWkJkWXpuN1ZsYjFQdmY5eGdwYWlMWjFqWGRfSFVTdUszT0lpQUEzbl9RSDhmNXVwWXJMMTV1QUZVaHI5QlNjaHgtMmVQS1Z0MUd2ZWNfaF94RWxxUENNejFtVmlCZXRvMF94QVYtOUNjQi1MZmFUMS1GcEZGcm9xNGVIOGhBclo5Qm5oTmFDcDVpc1I0THBHUnZIOW9NUdIBgwJBVV95cUxOUWFZWkFubkVwNWZlYngwZlFHLWt5cm1ucnFLdkoteTA4N1NSTFF5TmZXUzhSSDB3WVgwY25na1NzbHBHSW1vQXhIZk5PWHNUV3RMZzJtOUNGcGVyNjVxa2ZhbnhERWlzLXlJbklGbHJlV2tKX1dIbk5PUGRIblozUWFwcnoxZE1EZ0ttd25NUGZKa3A5YmR2cTE2UkNibk04NDMzWFM3dWNtbWM2ZmF5akJIUGc0YkhzS1Y5QXY4OTF5RExmX3k3TURpcmZxOHhZY19TOC0xOVJYZENMR0lLa3V1Mkg0UUcwaDVFbVpPcXV0TVA3Ukxlbmp6MEEyaWxka01j?oc=5
 
-- 3 Of Family Killed As Speeding Tractor Rams Motorcycle In Muzaffarnagar - NDTV
-  3 Of Family Killed As Speeding Tractor
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWpaYy1ZcURvNG9YSXdYV2FYTkNQdEVnbjFBWUt3OEFXSVhDWEpJeVdlR0R4a1lsQTRxZ0tNQ2RRWVVFSU9VbFFGOS1VcEJfZXRqYktYalRhNEN1MmFvT0p2UjRsMnZSZ09mQkZ4TG5KTkJEWEgzLWU4c3lWV2dHU21yUVdPaEVQQkVFRUh3dWlreklzQVFEdklBQXJYV0F6b2ZhT25KZ3piRmlRSzJnMkVR?oc=5
+- Phones Beep Across India As Centre Tests Disaster Information Alert System - NDTV
+  Phones Beep Across India As Centre Tests Disaster
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
 
-- Operation Sindoor Reflected India's Resolve To Eliminate Terrorism: Rajnath Singh - NDTV
-  Operation Sindoor Reflected India's Res
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlVjV3lOMHE1WXVQdmlzcU1aQTdVZGhyX281eVpHOFh3X3J0cXZxR2lzOVp3ejJxNDUzNW10Z0l5bmpGVkZHU3JPd0VRVjZqenlpd29ZbW5YQXBtd0RIeFQ5cmN5Z3lDc0hYenV1T2lIaUNSRmpwZlRWTGJxaVBfS2VvOFZLSWhLVVJoYjNOd3FmSjhKajFmdHg2MFhueGZIZGpqdnZoYVVRekFKb19WU2RtQ1NubjNzMnBUNw?oc=5
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
 
-- A Scientist Says Humans Will Stop Aging by 2029, Here's the Technology That Could Make It Real - Indian Defence Review
-  Indian Defence Review is published by the Indian Defence Review. It is an online magazine
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUp4RWR6NlJJUmRJanhUMm5ETXRTNE1PSmg2eXhGQkljQW1nUXhUOTY5S1dxSXloRkJPUzNpbGxqQ3dRd21YMXFoZTI1dEp0S3M0Rm13UGRpR01iMkRLcUlhak9KcXRfQS1sVDdOZDQwb2RXd2F3aXpQRXMtMGpvMFJ3TUtpU3pCSGp6b3FR?oc=5
+- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
+  Operation Global Hunt: An India-Inter
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
 
-- Xi Jinping: Advancing China's strength in science and technology - news.cgtn.com
-  Xi Jinping: Advancing China's
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkJtbjJ0LVdMdkI3RExXb0w5MmZUOG9QVmlPZnJVU3I2d2ZUOHUwdFY3MkFoTUhqcjNUZEpqVTRJQkRYV2NVeC1TZ21GbFBELTN3QjZSQjRuUml1NU8zUTkyX3BENWFhMThRZXBWY3YzVTlMZFpkdzd0SjlPdkFSSUxfUGpwLVQyTS1xQkRkS01YZ0VleV8wb3lkTG03YWlxZlRUYmhwR0VJanNhR2NvVzRQci1IckZ4S05kVA?oc=5
+- Dragonflies in distress: Scientists sound alarm in India's ecological hotspot - BBC
+  Dragonflies in distress: Scientists sound alarm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XWUJBc3JQbUNIa3VuVEM4NEtCMmhoQ3NHUWh4dEVFOWk2Zzc3UnlzdWlZdE1KODA3eEpsMHBZRkNhZDljSUN3bHo4alh5RHZjVXVmaVVTT2ZtUQ?oc=5
 
-- Bihar govt removes Sanjay Gandhi's name from Patna zoo, dairy technology institute - The Hindu
-  Bihar govt removes Sanjay Gandhi's name from
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTi03QzZISy1QLTg1OFFMUEN5cjV1Mjlwb2ZNRUF4UVUzbEFfbVdRUi05Q29oTG1waG5hSlRaZzd4ZkplYzYtMFhlb09uNWh1bmtaTnBnMUdrSVBzbm4yVHAySkRLQXpCYmJCRHl4aEt3Tm9NOERpdGNkZlM1RTFSZDd4T25ySThJNk90b2w5LWNTeS1VWjE3WjdoTGExUHI0cWVyNXpzVE1meVlrQWNqTFlyNzhfU2xkQWhrOExPRi05UVR3bEVQUno5NnFkUWJhV2k3NG5jeDVCdm1DanfSAeQBQVVfeXFMUEZYVVFMT3pBTjR0ZHJCdUZQbnRRakZCMjBBSzVCNWZ2ZXVVcG52TWFRbjZJU0FsUkwwbk1RQ2xLRktvSk1ZN0NGWEtnRUhuNnpWa3gwNnJMQllYUlVndXRERWpsOVBEOVNXTVlxVXAwUXJ4eVlTN1RKX0plMWVCazVFUW4xRy02cFJjZE5aOWdFbTJoTy11Uk5SeDlGVmxWeGpKZGstOGZGcnRjckNQWUF4Sm5pWmF3QVVoQm55RXVmQ1g2aE5reE54M3A3c1M4VmNHa2lHcFZlNzhxc1ZNZHJoLVE4?oc=5
+- 'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21 - The Times of India
+  'Subversion of democratic process': EC orders fresh polling in West Bengal's Falt
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUk1oNW1KUVdXZkxMZG9xelltWGhLbmVzVlNKNFpZblVMNEcyZ1NuRWQxSTFoYXRjRG9LWFhmNkg0czJZQkl1bU0zTXAwSXBXSUNyUnRQNW8xSzlGaUFlXzBKc1dxT21YWkJkWXpuN1ZsYjFQdmY5eGdwYWlMWjFqWGRfSFVTdUszT0lpQUEzbl9RSDhmNXVwWXJMMTV1QUZVaHI5QlNjaHgtMmVQS1Z0MUd2ZWNfaF94RWxxUENNejFtVmlCZXRvMF94QVYtOUNjQi1MZmFUMS1GcEZGcm9xNGVIOGhBclo5Qm5oTmFDcDVpc1I0THBHUnZIOW9NUdIBgwJBVV95cUxOUWFZWkFubkVwNWZlYngwZlFHLWt5cm1ucnFLdkoteTA4N1NSTFF5TmZXUzhSSDB3WVgwY25na1NzbHBHSW1vQXhIZk5PWHNUV3RMZzJtOUNGcGVyNjVxa2ZhbnhERWlzLXlJbklGbHJlV2tKX1dIbk5PUGRIblozUWFwcnoxZE1EZ0ttd25NUGZKa3A5YmR2cTE2UkNibk04NDMzWFM3dWNtbWM2ZmF5akJIUGc0YkhzS1Y5QXY4OTF5RExmX3k3TURpcmZxOHhZY19TOC0xOVJYZENMR0lLa3V1Mkg0UUcwaDVFbVpPcXV0TVA3Ukxlbmp6MEEyaWxka01j?oc=5
 
-- Karnataka Launches Space Tech Centre of Excellence - GK Today
-  Karnataka Launches Space
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZVJjd21CWnViaDVGcUtjSm4wMHRsdXFnV29PaXR4TjhWRWJiaUtKTXQ2NmRBamRaRDAwMFRTTUN3S3NaTnhWdnRkVlhpbXBJX0pQWGNBWV9MdTRGM0xadHljZEpQVkNocnY0ektaMUhMRVVvX3pzaGpCcFhERVk?oc=5
+- Phones Beep Across India As Centre Tests Disaster Information Alert System - NDTV
+  Phones Beep Across India As Centre Tests Disaster
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
 
-- Karnataka launches Centre of Excellence for Space Technology in Bengaluru - Deccan Herald
-  Karnataka launches Centre of Excellence for Space
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTRMRnNfQnRsR1otVy1adzJtaUtoY00yOWhna0xIOTVhX244RFMtLXZwRTlyQjJidmJOejl2MHpMTEZ3RmgtQ3A0cEl6eXcyZWYtN1hkcUtVM3FwM1l2dnU1OGlZUzVTRDM0UFZCbll6U1pUZ3h6cU55ejNLMV84UV9TTWQteloyQjBmSktGQmVtbVYybXl0bndRckV6c1JwTWh0ZFk0X3V1Yk1iOXVSc1hmSG5fTTh5MWQ5dTNYcW9LVS15SmJmenpNRVcwVlFFbWc?oc=5
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+
+- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
+  Operation Global Hunt: An India-Inter
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
+
+- Dragonflies in distress: Scientists sound alarm in India's ecological hotspot - BBC
+  Dragonflies in distress: Scientists sound alarm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XWUJBc3JQbUNIa3VuVEM4NEtCMmhoQ3NHUWh4dEVFOWk2Zzc3UnlzdWlZdE1KODA3eEpsMHBZRkNhZDljSUN3bHo4alh5RHZjVXVmaVVTT2ZtUQ?oc=5
+
+- 'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21 - The Times of India
+  'Subversion of democratic process': EC orders fresh polling in West Bengal's Falt
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUk1oNW1KUVdXZkxMZG9xelltWGhLbmVzVlNKNFpZblVMNEcyZ1NuRWQxSTFoYXRjRG9LWFhmNkg0czJZQkl1bU0zTXAwSXBXSUNyUnRQNW8xSzlGaUFlXzBKc1dxT21YWkJkWXpuN1ZsYjFQdmY5eGdwYWlMWjFqWGRfSFVTdUszT0lpQUEzbl9RSDhmNXVwWXJMMTV1QUZVaHI5QlNjaHgtMmVQS1Z0MUd2ZWNfaF94RWxxUENNejFtVmlCZXRvMF94QVYtOUNjQi1MZmFUMS1GcEZGcm9xNGVIOGhBclo5Qm5oTmFDcDVpc1I0THBHUnZIOW9NUdIBgwJBVV95cUxOUWFZWkFubkVwNWZlYngwZlFHLWt5cm1ucnFLdkoteTA4N1NSTFF5TmZXUzhSSDB3WVgwY25na1NzbHBHSW1vQXhIZk5PWHNUV3RMZzJtOUNGcGVyNjVxa2ZhbnhERWlzLXlJbklGbHJlV2tKX1dIbk5PUGRIblozUWFwcnoxZE1EZ0ttd25NUGZKa3A5YmR2cTE2UkNibk04NDMzWFM3dWNtbWM2ZmF5akJIUGc0YkhzS1Y5QXY4OTF5RExmX3k3TURpcmZxOHhZY19TOC0xOVJYZENMR0lLa3V1Mkg0UUcwaDVFbVpPcXV0TVA3Ukxlbmp6MEEyaWxka01j?oc=5
+
+- Phones Beep Across India As Centre Tests Disaster Information Alert System - NDTV
+  Phones Beep Across India As Centre Tests Disaster
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+
+- Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border? - Al Jazeera
+  Why is India turning to crocodiles and snakes to �
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnRvN1cwZmFoN01XcXpHZ2lDaTNWQU80MHNKNlBMVlFpMnh2S0RyNWtRTTBrU1JLbnpnYmNDcV9JbklGY0JvUHdJSXJGN3hjMGRxT2g3LXNqd2dTSG42NFZUS3JHMkVCZlpVUzlmb1JSQVZHeThpNGRpbFFpUXdWck5ZT0xFQ0F2elhTcHdqeGZSb2dkbWxjclNGTFBXbnlhM3JoTTBud3FnUUZqU3ZNSk5VM3AwVUhn0gG-AUFVX3lxTE5XY1o3ck0ycmlwLVBYdFhrWGlWZ2k0eF9DWG9BS3JXQ1A5UnR5NmQ2aFp4YTlER3RGaGdEVmhyZS1kZGo4alVtQkNEUjFoQ0dGbWZWX2hSNEdhVWVkaHo1Vno1eXhmTDVjUkhNVy04NllfazN4Q1paUDZxbF83TzZpdWlXQXJBeDVad0RzenNDcmljUExUdHZhejNXMXJCeVplNjRsbDNpUW1xSTFmZXdnMUdjRDBqRkowR0tkZWc?oc=5
+
+- Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives - NDTV
+  Operation Global Hunt: An India-Inter
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRYVURlZ1RpYWJIUmxWYmdXRXlQd1dxZnpNN2pYdEVOZlFQeGtDekRGdDZEYTVyNmhNUEpXQi1ncDRKY3Vwclp5UGt3WnNTMnRwbGYxczZWSzZ0Z3NtQjlnci1uckRLWVAxWkJiSWdUTHhqd0R4TFpaamhoOEZFWTVTRC1lNjNGX3FpRlFyUnU4dXhaNFNta0FwMThtdGU5aGwtb0Jpcnd2a2xXNGfSAbYBQVVfeXFMTlQtTXVDYWpwVWZTTnNDM0g0ckpWUk00dXFjUElTWW9hTWpfbV9WSUF2MGM3YUZvYlpnS0tXSVgwY0hoaXNrOTdfQTZvU2d1ZWlEblR2cFJBSlJkTGt0TGRzN0hicExMTlhiaEZiX0JYMG1fSEN0ZjRpM3lsaF9zUnpLLXdtZEhnNUpLYVB6N24tMGlrOENXcW1IUFZ3YkZtLXpYeFpuUksxWXNGaXVmQUFkdUczdFE?oc=5
+
+- Dragonflies in distress: Scientists sound alarm in India's ecological hotspot - BBC
+  Dragonflies in distress: Scientists sound alarm
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XWUJBc3JQbUNIa3VuVEM4NEtCMmhoQ3NHUWh4dEVFOWk2Zzc3UnlzdWlZdE1KODA3eEpsMHBZRkNhZDljSUN3bHo4alh5RHZjVXVmaVVTT2ZtUQ?oc=5
+
+- 'Subversion of democratic process': EC orders fresh polling in West Bengal's Falta constituency on May 21 - The Times of India
+  'Subversion of democratic process': EC orders fresh polling in West Bengal's Falt
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUk1oNW1KUVdXZkxMZG9xelltWGhLbmVzVlNKNFpZblVMNEcyZ1NuRWQxSTFoYXRjRG9LWFhmNkg0czJZQkl1bU0zTXAwSXBXSUNyUnRQNW8xSzlGaUFlXzBKc1dxT21YWkJkWXpuN1ZsYjFQdmY5eGdwYWlMWjFqWGRfSFVTdUszT0lpQUEzbl9RSDhmNXVwWXJMMTV1QUZVaHI5QlNjaHgtMmVQS1Z0MUd2ZWNfaF94RWxxUENNejFtVmlCZXRvMF94QVYtOUNjQi1MZmFUMS1GcEZGcm9xNGVIOGhBclo5Qm5oTmFDcDVpc1I0THBHUnZIOW9NUdIBgwJBVV95cUxOUWFZWkFubkVwNWZlYngwZlFHLWt5cm1ucnFLdkoteTA4N1NSTFF5TmZXUzhSSDB3WVgwY25na1NzbHBHSW1vQXhIZk5PWHNUV3RMZzJtOUNGcGVyNjVxa2ZhbnhERWlzLXlJbklGbHJlV2tKX1dIbk5PUGRIblozUWFwcnoxZE1EZ0ttd25NUGZKa3A5YmR2cTE2UkNibk04NDMzWFM3dWNtbWM2ZmF5akJIUGc0YkhzS1Y5QXY4OTF5RExmX3k3TURpcmZxOHhZY19TOC0xOVJYZENMR0lLa3V1Mkg0UUcwaDVFbVpPcXV0TVA3Ukxlbmp6MEEyaWxka01j?oc=5
+
+- Phones Beep Across India As Centre Tests Disaster Information Alert System - NDTV
+  Phones Beep Across India As Centre Tests Disaster
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNckJsM081YkJEd1NlWnhZNTRnZmYtaHF5blVxRkhWQUlDcjlhenpVUGw4dTZBTlA0YWtseERzbDZOTUYtYmRQU0F1MWQ1aFVvSV96Tk5JT1hEVFZVWHI5ZHpGY0JpUDJlRFJIRjZ4RXFNREJsdnU0ME5lVC1GdVh1VVlxdUFkenBPblQwci1tRHdFOEMtWHRGcHFhZVp5cVFkSk14SzJWVnNQemhqR2JDUjg0V0d6YUXSAb8BQVVfeXFMTk9vZ29waDlJY0k4VVRQVFhLUmFRX3NRMzQ3cW41ZVVoaHBXNmJTTl9yc3JVeWpGVGhhb3RpVFBjVnJCZzhrMlFpYzdEVFExdmlWaXRMUzNvRnBxZVpqQmtvQjYxdkpuUEVadnlRYVR5QzEzVHd5V3ZVdGo2SlZVcTlOWnIyNVVpNWVfR1JIMkFUZkZzRW5sSjU2RU1hb1EtQ2JIMXNYQmRxNUd3XzdrN29ncmNUTFdXa2xYczVaZk0?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-02 18:56:21 UTC_
+_Last updated: 2026-05-03 02:30:20 UTC_
