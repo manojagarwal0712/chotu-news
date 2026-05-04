@@ -1,164 +1,192 @@
 # 📰 Daily News Summaries
 
-- Kerala Election Results 2026 Winners: Congress leads with 60 seats, CPI(M) at 29 – check constituencies-wise data
+- Kerala polls: Fathima Thahiliya fought for gender parity in IUML. Now, she is its 1st woman MLA after breaching CPM bastion
   
-  🔗 https://indianexpress.com/article/india/kerala-election-results-2026-winners-constituency-wise-full-list-party-wise-seat-tally-10665881/
+  🔗 https://indianexpress.com/article/india/fathima-thahiliya-iuml-first-woman-mla-kerala-10672415/
 
-- Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in
+- For the first time, BJP wins more than 1 seat in Kerala; Congress returns to power after a decade
   
-  🔗 https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/
+  🔗 https://indianexpress.com/article/india/for-the-first-time-bjp-wins-more-than-1-seat-in-kerala-congress-returns-to-power-after-a-decade-10672206/
 
-- West Bengal Assembly Election Results 2026 Winners: BJP leads with 194 seats, TMC at 92 – check constituencies-wise data
+- ‘Take it in writing’: Prashant Kishor’s Vijay victory prediction from a year ago comes true
   
-  🔗 https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/
+  🔗 https://indianexpress.com/article/india/prashant-kishor-prediction-actor-vijay-tvk-tamil-nadu-election-results-2026-10671959/
 
-- Puducherry Election Results 2026: CM Rangasamy secures victory from Thattanchavady; here’s the full list of constituency-wise winners
+- Operation Sindoor prime example of technological warfare and nation’s readiness: Defence Minister Rajnath Singh
   
-  🔗 https://indianexpress.com/article/india/puducherry-election-results-2026-winners-list-constituency-wise-seats-list-10664163/
+  🔗 https://indianexpress.com/article/india/operation-sindoor-prime-example-of-technological-warfare-and-nations-readiness-defence-minister-rajnath-singh-10672108/
 
-- Assam Assembly Election Results 2026 Winners: Constituency-Wise, Seat-Wise Full List
+- In Falta repoll order, a two-decade old precedent in Bihar’s Chakai
   
-  🔗 https://indianexpress.com/article/india/assam-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10663920/
+  🔗 https://indianexpress.com/article/india/falta-repoll-explained-chakai-bihar-2005-eci-precedent-10672097/
 
-- New Jio 4G Feature Phone Recharge Plans 2026: Check benefits, validity for Rs 123, Rs 234, and Rs 369 packs
+- Pixxel, Sarvam to launch India’s first orbital data centre satellite for AI training
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/jio-4g-feature-phone-plans-2026-check-benefits-validity-10671751/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pixxel-sarvam-india-first-orbital-data-centre-ai-training-10672464/
 
-- So long Jeeves and Ask.com, relics of yesterday’s internet
+- Want to stop doomscrolling? These 5 tech gadgets could help
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/so-long-jeeves-and-ask-com-relics-of-yesterdays-internet-10671597/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/5-tech-gadgets-to-stop-doomscrolling-10672279/
 
-- Samsung Electronics appoints new TV chief amid mounting competition
+- Asus ZenBook Duo (2026) review: This Rs 3 lakh dual-screen laptop finally moves beyond the ‘experimental’ phase
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-electronics-appoints-new-tv-chief-amid-mounting-competition-10671579/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-zenbook-duo-2026-review-10672239/
 
-- OnePlus Pad 4 review:  A ‘casual computer’, not a PC
+- Best mobile data recharge plans under Rs 100 from Jio, Airtel, Vi, and BSNL
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-pad-4-review-10670543/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-data-recharge-plans-under-100-jio-airtel-vi-bsnl-2026-10672088/
 
-- ‘Warmer’ AI models are 60% more likely to generate errors, new Oxford study finds
+- In emergency room trials, Harvard study finds AI outperformed doctors with 67% accuracy
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/warmer-ai-models-error-rates-oxford-study-10670264/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/harvard-study-ai-doctors-emergency-room-trial-findings-10671938/
 
-- How Navi is sharpening its IPO pitch ahead of a fresh FY27 filing
-  Navi Ltd plans to file for an IPO in FY27, focusing on profitability and a diversified business model. The fintech aims
-  🔗 https://www.livemint.com/companies/news/navi-ipo-pitch-fresh-fy27-filing-fintech-companies-rajiv-naresh-payments-lending-insurance-investments-debt-market-11777874818425.html
+- Carlyle buys majority stake in Knack, EqualizeRCM to build AI-led healthcare billing platform
+  Private equity firm bets on consolidation in fragmented US billing services market. Plans to scale via acquisitions and
+  🔗 https://www.livemint.com/companies/carlyle-buys-majority-stake-in-knack-equalizercm-ai-healthcare-rcm-us-11777894127555.html
 
-- NCLAT rejects Vedanta's challenge to approval of Adani's resolution plan for Jaiprakash Associates
-  Vedanta's challenge to Adani Enterprises' resolution plan dismissed by the National Company Law Appellate Tribunal. Tribunal found no legal flaws in the creditors' choice.
-  🔗 https://www.livemint.com/companies/nclat-vedanta-challenge-rejected-adanis-resolution-plan-jaiprakash-associates-no-illegality-committee-of-creditors-11777867951910.html
+- Citi appoints Raj Rathi as head of mergers &amp; acquisitions in India
+  Rathi joins Citi from Dream Sports, where
+  🔗 https://www.livemint.com/companies/news/citi-india-raj-rathi-citi-investment-banking-11777895145900.html
 
-- New Mexico seeks child safety restrictions on Meta apps and algorithms in trials 2nd phase
-  New Mexico seeks child safety restrictions on Meta apps and
-  🔗 https://www.livemint.com/companies/new-mexico-seeks-child-safety-restrictions-on-meta-apps-and-algorithms-in-trials-2nd-phase-11777867626101.html
+- Central Bank of India expects limited impact from new provisioning rules
+  Central Bank of India managing director and CEO Kalyan Kumar says it is well buffered against the RBI’s shift to stricter, forward-looking
+  🔗 https://www.livemint.com/companies/news/central-bank-of-india-q4fy26-central-bank-share-price-rbi-ecl-norms-11777872437055.html
 
-- GameStop makes staggering $55.5 billion play to acquire online auction giant eBay
-  GameStop has proposed a $55.5 billion acquisition of eBay, valuing it at $125.00
-  🔗 https://www.livemint.com/companies/news/gamestop-makes-staggering-55-5-billion-play-to-acquire-online-auction-giant-ebay-11777862951684.html
+- Milky Mist raises  ₹482 crore in pre-IPO round led by Temasek arm
+  The entire primary investment was led by Jongsong Investments. promoters Sathishkumar T. and Anitha S. sold 89,43
+  🔗 https://www.livemint.com/companies/milky-mist-pre-ipo-funding-temasek-ipo-india-dairy-11777885672471.html
 
-- Indian equities deserve higher FII allocation, but valuations stretched
-  India merits a higher allocation given its structural strengths. But India’s premium to emerging markets has come down.
-  🔗 https://www.livemint.com/companies/indian-equities-deserve-higher-fii-allocation-but-valuations-stretched-11777786796784.html
+- Repertoire drinking spurs new spirit launches
+  Nearly a dozen products are either already in market or being introduced through early 2026-27
+  🔗 https://www.livemint.com/companies/news/indian-alcohol-companies-new-spirits-repertoire-drinking-consumer-trends-11777782997585.html
 
-- Aluminium up, cement down: geopolitics drives sector rotation
-  Analysts flag a potential reversal if tensions ease. Energy costs and supply shocks drive a divergence
-  🔗 https://www.livemint.com/market/stock-market-news/aluminium-up-cement-down-geopolitics-drives-sector-rotation-energy-costs-global-metals-11777871909720.html
+- US stock market today: Dow, S&amp;P 500 futures slip as renewed Middle East tensions lift oil prices
+  US stock futures fluctuated amid reports of a US warship incident near the Strait of Hormuz. April's robust corporate earnings helped maintain market momentum despite geopolitical risks
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-slip-as-renewed-middle-east-tensions-lift-oil-prices-11777895709011.html
 
-- Vodafone Idea, HFCL, Meesho, JP Power, BHEL among the most traded stocks today, 4 May 2026
-  Vodafone Idea, HFCL, Meesho, Jaiprakash Power Ventures (JP Power), Bharat Heavy Electricals (B
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-hfcl-meesho-jp-power-bhel-among-the-most-traded-stocks-today-4-may-2026-11777878609589.html
+- TVK poised for Tamil Nadu win: What Thalapathy Vijay’s victory could mean for companies operating in the state
+  Most exit polls had projected that the DMK-led alliance under Chief Minister M K Stalin would retain power. Vijay's Tamilaga V
+  🔗 https://www.livemint.com/market/stock-market-news/tvk-poised-for-tamil-nadu-win-what-thalapathy-vijay-s-victory-could-mean-for-companies-operating-in-the-state-11777890484610.html
 
-- Sebi urges GST Council to fix tax issues in commodity derivatives
-  The regulator has also proposed an integrated GST mechanism
-  🔗 https://www.livemint.com/market/commodities/sebi-urges-gst-council-to-fix-tax-issues-in-commodity-derivatives-11777878826569.html
+- Manappuram Finance Q4 Results: Firm swings to black with  ₹405 crore profit, announces  ₹0.50 dividend
+  Manappuram Finance's Q4 consolidated profit came in at  ₹404.79 crore. On a quarter-on-quarter (QoQ) basis,
+  🔗 https://www.livemint.com/market/stock-market-news/manappuram-finance-q4-results-firm-swings-to-black-with-rs-405-crore-profit-announces-rs-0-50-dividend-11777893199463.html
 
-- Why Avenue Supermarts may find it challenging to maintain margin
-  Avenue Supermarts stock is still up around 15% so far in 2026. The stock will take cues from
-  🔗 https://www.livemint.com/market/mark-to-market/avenue-supermarts-share-price-avenue-supermarts-q4fy26-dmart-stores-quick-commerce-india-11777877735254.html
+- Gold, silver rates today nosedive up to 5% as crude oil price soars after escalation in the US-Iran war
+  Iran hit two missiles at a US warship on Monday, when it was sailing near Jask island
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-4-may-2026-nosedive-up-to-5-as-crude-oil-price-soars-us-iran-news-strait-of-hormuz-in-focus-11777890370782.html
 
-- ₹2.75 to  ₹151.50: Multibagger penny stock turns  ₹1 lakh into  ₹55 lakh in four years
-  Magnus Steel and Infra share price was once priced at  ₹2.77 apiece in May 2022. The penny stock is now trading at 
-  🔗 https://www.livemint.com/market/stock-market-news/275-to-151-50-multibagger-penny-stock-magnus-steel-and-infra-turns-1-lakh-into-55-lakh-in-four-years-11777872511082.html
+- Crude oil jumps over 5% as US-Iran tensions flare again; Brent crude climbs past $114
+  Crude oil prices rose after a tanker was reportedly hit in the Strait of Hormuz. Tensions escalated between the U.S. and Iran, with Trump promising to guide ships through the strait.
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-jumps-over-5-as-us-iran-tensions-flare-again-brent-crude-climbs-past-114-11777891892017.html
+
+- States across the wildfire-prone Western US are using AI for early detection
+  States across the wildfire-prone Western
+  🔗 https://www.livemint.com/technology/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-11777900048972.html
+
+- Flipkart and Amazon sale: Top smartphone deals including iPhone 17, Pixel 10 and OnePlus Nord 6
+  The sales start on May 5 for Amazon and May 8 for Flipkart, highlighting deals on premium models like the Galaxy S25 Ultra and iPhone 16.
+  🔗 https://www.livemint.com/technology/tech-news/flipkart-and-amazon-sale-top-smartphone-deals-including-iphone-17-pixel-10-and-oneplus-nord-6-11777880150384.html
+
+- Vivo X300 Ultra, X300 FE launching in India soon: Expected price, specifications and features
+  The X300 Ultra boasts a 200MP primary camera, while the X300 FE has a 50MP
+  🔗 https://www.livemint.com/technology/gadgets/vivo-x300-ultra-x300-fe-launching-in-india-soon-expected-price-specifications-and-features-11777881967962.html
+
+- OnePlus Summer sale announced: Top discounts on OnePlus 15, OnePlus 13, Nord series, tablets and TWS
+  OnePlus announces a Summer Sale starting May 8.
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-summer-sale-announced-top-discounts-on-oneplus-15-oneplus-13-nord-series-tablets-and-tws-11777882870763.html
 
 - iPhone 18 Pro launching soon: Expected price, colours, display and big camera upgrades
   The devices could feature four color variants, a larger battery, and the latest A20 Pro chipset.
   🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-launching-soon-expected-price-colours-display-and-big-camera-upgrades-11777869436561.html
 
-- Check out every major smarphone launch in May including Vivo X300 Ultra, Oppo X9 Ultra, and OnePlus Nord CE 6
-  India will see many powerful smartphone launches in May from Vivo, OnePlus, and Oppo. Among the top launches this month will include the V
-  🔗 https://www.livemint.com/technology/gadgets/check-out-every-major-smarphone-launch-in-may-including-vivo-x300-ultra-oppo-x9-ultra-and-oneplus-nord-ce-6-11777797627239.html
+- CSB Bank Q4 profit rises 6% on lower provisions growth steady
+  CSB Bank reported 6% Q4 profit growth aided by lower provisions. Margins improved, while advances and deposits showed strong growth. Asset quality improved sequentially
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q4-profit-rises-6-on-lower-provisions-growth-steady/articleshow/130801882.cms
 
-- AI is now outperforming human doctors in the emergency room diagnoses, new Harvard study reveals
-  A Harvard study reveals advanced AI models, like OpenAI's o1, can outperform doctors
-  🔗 https://www.livemint.com/technology/tech-news/ai-is-now-outperforming-human-doctors-in-the-emergency-room-diagnoses-new-harvard-study-reveals-11777857236711.html
+- Tata Technologies Q4 Results: Cons PAT rises 8% YoY to Rs 204 crore, revenue rises 22%
+  Tata Technologies reported 8% year-on-year profit growth in Q4FY26 with strong 22% revenue rise. Improved margins,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q4-results-cons-pat-rises-8-yoy-to-rs-204-crore-revenue-rises-22/articleshow/130801353.cms
 
-- Amazon Great Indian Summer Sale announced: bank offers, dates and top discounts
-  Amazon has confirmed its Great Indian Summer sale starting May 8. The company has also confirmed discounts on
-  🔗 https://www.livemint.com/technology/tech-news/amazon-great-indian-summer-sale-announced-bank-offers-dates-and-top-discounts-11777800239146.html
+- Sanjay H Parekh bets big on Reliance, private banks, and domestic plays amid global uncertainty
+  Sohum Asset Managers is shifting its focus to largecap stocks. Reliance Industries is a key bet, with significant upside expected. Private sector banks also form a large part of the portfolio.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/sanjay-h-parekh-bets-big-on-reliance-private-banks-and-domestic-plays-amid-global-uncertainty/articleshow/130798887.cms
 
-- iOS 27 releasing soon: Compatible iPhones, massive Siri overhaul, and deep AI camera integration
-  Apple will unveil iOS 27 at the WWDC keynote in September. The update is expected to focus on performance improvements, a Siri upgrade, and new features.
-  🔗 https://www.livemint.com/technology/tech-news/ios-27-releasing-soon-compatible-iphones-massive-siri-overhaul-and-deep-ai-camera-integration-11777789513909.html
+- Thalapathy government? Why Vijay's historic rise in India's industrial powerhouse state matters for stock market
+  Tamil Nadu is a key auto, electronics and export hub. Policy clarity on incentives, welfare spending and governance will drive sentiment for TN-linked companies.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/thalapathy-government-why-vijays-historic-rise-in-indias-industrial-powerhouse-state-matters-for-stock-market/articleshow/130798865.cms
 
-- Godrej Properties posts quarterly profit rise on housing demand
-  Indian real estate developer Godrej Properties reported 70% rise in fourth-quarter profit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/godrej-properties-posts-quarterly-profit-rise-on-housing-demand/articleshow/130771331.cms
-
-- Maruti Suzuki, Bajaj Auto, other auto stocks jump up to 5% after strong April sales
-  Shares of automakers like Maruti Suzuki and Bajaj Auto rose after strong April sales data lifted sentiment. The gains pushed the Nifty Auto index
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-bajaj-auto-other-auto-stocks-jump-up-to-5-after-strong-april-sales/articleshow/130770166.cms
-
-- Markets likely near bottom range; stay invested: Devina Mehra
-  Devina Mehra of First Global believes Indian equity markets are in a bottoming zone. She anticipates 2026 will be a better year than 2025, with sector rotation continuing. While acknowledging earnings disruptions, she remains constructive.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-likely-near-bottom-range-stay-invested-devina-mehra/articleshow/130767034.cms
-
-- Bitcoin nears $80K on $630 million ETF inflows; surges 12% in April, strongest monthly gain in a year
-  Bitcoin surged past $79,900, fueled by strong ETF inflows and marking its best monthly gain in a year. Analysts anticipate continued momentum towards the mid-$80,000s, with the Federal Reserve's leadership transition
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-nears-80k-on-630-million-etf-inflows-surges-12-in-april-strongest-monthly-gain-in-a-year/articleshow/130767045.cms
-
-- West Bengal election results puts these 43 stocks under spotlight. Will BJP's win be a trigger?
-  Early West Bengal election trends putting BJP ahead of TMC have pushed stocks like Bandhan Bank, CESC, and Berger Paints into focus. Investors are watching potential policy shifts, though analysts say the impact will be short-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-election-results-outs-these-43-stocks-under-spotlight-will-bjps-win-be-a-trigger/articleshow/130766868.cms
+- Quote of the day by Walter Schloss: "One of the things you learn in this business is humility because you see your mistakes the next day."
+  Walter Schloss: Successful investors learn from errors. He says markets quickly expose mistakes through immediate feedback.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-walter-schloss-one-of-the-things-you-learn-in-this-business-is-humility-because-you-see-your-mistakes-the-next-day-/articleshow/130757125.cms
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Election Commission of India Results 2026 Live, eci.gov.in: History Is Made! BJP Takes Bengal, Film Star Vijay Takes TN; Congress Takes Kerala - Times Now
-  "Election Commission of India Results 2026 Live, eci.gov.in: History Is Made
+- Election Commission of India Results 2026 Live, eci.gov.in: Lotus Blooms in Bengal, Says PM Modi After BJP's Historic Win - Times Now
+  " target="_blank">Election Commission of India Results 2026 Live, e
   🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxONHhKYnRzLXZENENsdHh3b0VZaHNrdjJrenJSM0hKMnZHSFJBU1dWYkxzdkhWaTRPZmxKNVl6OGVQX0YzeXJ3SDliT1MyTjlEQWxCMGxYVUsyLTlEdi0zcTZsQXV1OU8zTjNwT1JHU1RUbjlSMGF1LXdSOVFGeG9RTGhQd0V1Wm9RbU1tSVhjdzhuaUE4YzF4Yl9TYUV1bmFET1VSTklfRENyRFlReE5sRjcxSXlwVWM1TU4zMHBQTE1DeW5PLXdsYUFZbENwUHVNR3FvVnBJUXpBbm9wREwwVzNaM1FUV0wzYl9HdWxHczg5dy1BVERZQm11dkwtYnhtdlZzU3JoUkdoMk1wdUJCdzlGb2ZLTFlBNFBOTUJuWncxdkozeWtoVDNXYjQ5djdMLVQzTVJIN2LSAb4CQVVfeXFMUFUtN0pKNEpCbDZranFEc28teU4tNGhHMmpnS0RDcmRObjhtNVpIRGhGVmhHZnRKMzJTU0I3WkZBdnZfb1VvS1BsV19OeExVR2lkUFZmNEdENVNDS2hhX25RejhYSHp0b09ZczQwWHdUa0xqdlZLVndlMTRwMXBlMWNOLU90Q0swNHRONEo0ZWNGdk4yWTFBZGo0MlEwMzg2WmttaHh6V1hNbFgwemtOa0o2N1VOZld1dEstUENhVFJKdEw2TEJza3NZNmJXdnU2REZsNHpBdE95b3J2eUhxZkJBWFQ5R0ZTb09ubFg3Z2NBZ3h4eGt6Q2dmOEp2YU00ZVdGYUxSVlk2d2xGckhZd3VvWFhfZjRMM1g0bExJUnRObEpyTm5xc2pIS28teXVmTmJEVXY2TXhaVm9OM0V3?oc=5
 
-- "They'll First Show Their Results": Mamata Banerjee Alleges BJP Has A Plan - NDTV
-  "They'll First Show Their Results": Mamata
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUlFmYlJhcnJVcS05Y21kaUpXN0pubDA5V21aSVdYTVZ6TWJESmJVR1pnQlQwUGlpUVNhOWh5Wm5kbmZIcHN2RElzUXFQTG9KMlNCcmpOZEpyeGVmTlJ4N3Y4WjEtbVg0cE5DdVRpZlVWTFJWRjhIeXhmazhVRExSMzF2ZzNyRDE3MEVmQk5Kal81b3ROZUJuQWd1WXB4M203YjctUGFwX3Q2QzZKWVRFZWw2S09JWUZnSTJLdXJzc3J0d2g0MTRWU0w2Sy1zbnQ0RGlITTlPSjRkejEtalhsYdIB6AFBVV95cUxNOWRNbzNHUWxodTJVV09NZm9RVG00WndVQUVzcXBJX2RCMFBFVFpNQlV5UnhNcjYxU0ZUbmpNWmszY0MtTElyX0doR2Rqa2k1aVcxSnVBbjY0RS13OXBFYUI0amdpTG9rakRhTkxYNjcxSXBsM2ZkUENjVHgxczBkRHVNSE5fUDBwR2RtcTRJVTYtOHljRkxZOVdBSVU2WkxHUmJWcXlibm5ybUhWbU9vcUFER1VJS1BkZ1NqbFgyMXVnUnRLanRCSi1sSnJhVHhsTUlYWWRXVHV6YnY1ckxYcjUzc3Z3dWxJ?oc=5
+- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
+  West Bengal: Modi's BJP conquers one
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Why BJP Fought So Hard For Bengal: A Clue In Kolkata's Arterial Road - NDTV
-  The BJP's Kolkata-Beng
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1d1UkMzbWV6b3dndmxNWkxVTjJ5enhJamFwazVFVlVJUHNTalVVdVB0aUhDQ1NUSC1UU0p6NmV4Z0JIeXRFY2FfOXVWTXFCRTV4allZZFRYSjd0WkdpZ1J1X3YxU2ZldjVTX0pKcy1fR0JuTTRLRlNIbW1HNnBSV2RGTWtPZXlxNVVMeklOM1VWcHdnRlg5UXhkc3BvZl9vNEM0R25tc01HbFR5aDBKMkRjcVl5ZlA4THhpTk5DemRmUlk3NHJKc19zRdIB0wFBVV95cUxQd0NNekc4a3pCdDJTZWpuSUZPR1JHa2FzRzEyZGIzZVpsQXpoNnNuR0hXUXZLb0JXWDBJYWk2a1ZUaW83UjZVUm1hRHdoSUYyQlJxeGNVaTJDY0R6S2RoWmVldTh1eHR2REEzdXlZclMzVVlOZm9HTjdVZnBKeHNMOG5kUTJ0RVk1ZGZnN3haOTY5LXJ6Rldwa2tyWHFNbGZHa3pYam5mSFJEbGZFMkRHeW4xSlVJRmJVZVN5MGtwY3VOQlUzbGR5eUJYZnV3M3AxZ1Zn?oc=5
+- Nagaon–Batadraba assembly election results 2026: BJP's Rupak Sarmah wins - The Times of India
+  Nagaon–Batadraba assembly election results
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWpLd1A1bGlkdnBMdjZRREItUHJheGdlY1dBbEFidVZRejJVRUxRRWpfdkhuLTRHdUFWNm1rVDB6SjVUYXBJbjJzLWVaamlTQWI5SFBCNmxnYll3c1FmQXNSQnJUZ1h5dkhrVzE4T0haYkt5dEo4MW1Jd2xjQ0F3azY1LWlHQ2xnNm9Hc25JbTNxdlFzV3VLaGQtNXVjbTZXT2xqWF9kcFExQVRXcWhvWUZWcFjSAboBQVVfeXFMTk1KOG52U25EdklGSHB5RWxjSmxKdER6LTZGREFuMUF1UDNYcXFBZERkSUtiUkV6NC00Si10RU1XdnVLM3F3LWIwR3VTamp0Vl9FVmJPSlVIeWxvQUVFRDBnYm1Mc1dTRS1IcWZ1b1VCMUhLQkRuRHY2NzFwU0R4Tm44S3JQVExpVE5IRGpRWEk1UmRoUU9IZFdPRXMzUmV1ZldhVTNoek1yTDFYU0FJck81ai0xYkp4b2RB?oc=5
 
-- West Bengal election 2026: RG Kar victim’s mother, BJP candidate Ratna Debnath leads from Panihati - The Times of India
-  The Times of India reported that the victim's mother, Ratna Debnath
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdUFqdWIxNTJEZTVTU0VDdUlZUkhvQ0Z1Q093MXVqdzRubl96Y1N0RGRaUTMwcXJTcmFQalVpaTBhZ0xoR3pwUVhUTjBKMlFEczFueGJMa051N29nZWN2aWFkWXFodGxiZXVlSnQwbVZtandYOEpjVXVkZy1YUk5qNHlpQXVVc1RGc3Nfc0x3TGRVTUNiWGVQd25DWWROZmlxazk1ckxrQXJVZmlDZ3VlM1U1NjNwU3RlUXRKZ2VQcTFZRlBHd1Q0WXZ0N1U5blljWmNQQmhJUkpoRXNscFFyeEpZejFMN19YTHdrcGNCZlFiN0FiUFHSAfsBQVVfeXFMTlp3TVFjWXFFUkVVYnowN09rMzJHUXREXzZnQ2Y5X25GS3hSZGowODRKWVE1cjI1X05CUkJGNDZFQ1QwT1F1eVdVdU5abjVJZFZXT2gzaW5hclFuR3ZrZjBOcENaX01kNklJc000amdBZjhEUUdRbVR6MFEycmpuY3kxNnBiRkdROVU0dE9UQThEQkxPQktwN3pobEZ3M2txd1kxUWdmLXptZG9OY0lhMWNUMDZwdFozY01vaFlTRC1IaWt1dmRZcnM4Rno4X0VCNHptcTk4eGNCc295NXQxMENuU2lEVFZveDh5elFwR1h6QjJ3d09ZX2Nmclk?oc=5
+- Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties - The Hindu
+  Outgoing Indian envoy meets Bangladesh FM,
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml5M0hjWTNIdkV3NE04a1A0Z1dKQklxTFExTU1jTDUwYlJOa3hZNWRxZXpmdG9nTWhnVjJad29yNXdGcFVXTzQ1YzBLVkJMaElwNFdFX21hYWZtbWRHaWhtSjdpZS1mVGFmU3JqbDN2U2VaQVpncGdmWEsycXZoYnZqaVQzcmJOMng0RVE3X240MVFvWnl5TV9pcnZOU1NZcXUtODc4YnN0SVg5eGl2ODdIdG1pdnNJdlFmemFLTzV3SUHSAcoBQVVfeXFMTUNPY2pVY1NMWlE1ZjZ1ejlEYm5LS3YwdFYxVVVvM1VEMFU2eHBnb3FqcVZEeF9ONFBSOThSaDRXaHhfT1RDZlo3eW1qc3FEVGFoU1JCLVdXWDlxV2RERjZDZzNIaFVobDBzdEx3WllEYWpaeE9XX1gtWGJyZzFoTEhydzAyWEg1WllxRWRRM3NwOUE0RHB5T0VmeHNJVmtWTWNWYkNOUFVsRFBvQnh1MjVDREhodjBOTV9yNlhkTTRvX0xZM0FPbTBudw?oc=5
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL?oc=5
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Election Commission of India Results 2026 Live, eci.gov.in: History Is Made! BJP Takes Bengal, Film Star Vijay Takes TN; Congress Takes Kerala - Times Now
-  "Election Commission of India Results 2026 Live, eci.gov.in: History Is Made
+- Election Commission of India Results 2026 Live, eci.gov.in: Lotus Blooms in Bengal, Says PM Modi After BJP's Historic Win - Times Now
+  " target="_blank">Election Commission of India Results 2026 Live, e
   🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxONHhKYnRzLXZENENsdHh3b0VZaHNrdjJrenJSM0hKMnZHSFJBU1dWYkxzdkhWaTRPZmxKNVl6OGVQX0YzeXJ3SDliT1MyTjlEQWxCMGxYVUsyLTlEdi0zcTZsQXV1OU8zTjNwT1JHU1RUbjlSMGF1LXdSOVFGeG9RTGhQd0V1Wm9RbU1tSVhjdzhuaUE4YzF4Yl9TYUV1bmFET1VSTklfRENyRFlReE5sRjcxSXlwVWM1TU4zMHBQTE1DeW5PLXdsYUFZbENwUHVNR3FvVnBJUXpBbm9wREwwVzNaM1FUV0wzYl9HdWxHczg5dy1BVERZQm11dkwtYnhtdlZzU3JoUkdoMk1wdUJCdzlGb2ZLTFlBNFBOTUJuWncxdkozeWtoVDNXYjQ5djdMLVQzTVJIN2LSAb4CQVVfeXFMUFUtN0pKNEpCbDZranFEc28teU4tNGhHMmpnS0RDcmRObjhtNVpIRGhGVmhHZnRKMzJTU0I3WkZBdnZfb1VvS1BsV19OeExVR2lkUFZmNEdENVNDS2hhX25RejhYSHp0b09ZczQwWHdUa0xqdlZLVndlMTRwMXBlMWNOLU90Q0swNHRONEo0ZWNGdk4yWTFBZGo0MlEwMzg2WmttaHh6V1hNbFgwemtOa0o2N1VOZld1dEstUENhVFJKdEw2TEJza3NZNmJXdnU2REZsNHpBdE95b3J2eUhxZkJBWFQ5R0ZTb09ubFg3Z2NBZ3h4eGt6Q2dmOEp2YU00ZVdGYUxSVlk2d2xGckhZd3VvWFhfZjRMM1g0bExJUnRObEpyTm5xc2pIS28teXVmTmJEVXY2TXhaVm9OM0V3?oc=5
 
-- "They'll First Show Their Results": Mamata Banerjee Alleges BJP Has A Plan - NDTV
-  "They'll First Show Their Results": Mamata
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUlFmYlJhcnJVcS05Y21kaUpXN0pubDA5V21aSVdYTVZ6TWJESmJVR1pnQlQwUGlpUVNhOWh5Wm5kbmZIcHN2RElzUXFQTG9KMlNCcmpOZEpyeGVmTlJ4N3Y4WjEtbVg0cE5DdVRpZlVWTFJWRjhIeXhmazhVRExSMzF2ZzNyRDE3MEVmQk5Kal81b3ROZUJuQWd1WXB4M203YjctUGFwX3Q2QzZKWVRFZWw2S09JWUZnSTJLdXJzc3J0d2g0MTRWU0w2Sy1zbnQ0RGlITTlPSjRkejEtalhsYdIB6AFBVV95cUxNOWRNbzNHUWxodTJVV09NZm9RVG00WndVQUVzcXBJX2RCMFBFVFpNQlV5UnhNcjYxU0ZUbmpNWmszY0MtTElyX0doR2Rqa2k1aVcxSnVBbjY0RS13OXBFYUI0amdpTG9rakRhTkxYNjcxSXBsM2ZkUENjVHgxczBkRHVNSE5fUDBwR2RtcTRJVTYtOHljRkxZOVdBSVU2WkxHUmJWcXlibm5ybUhWbU9vcUFER1VJS1BkZ1NqbFgyMXVnUnRLanRCSi1sSnJhVHhsTUlYWWRXVHV6YnY1ckxYcjUzc3Z3dWxJ?oc=5
+- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
+  West Bengal: Modi's BJP conquers one
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Why BJP Fought So Hard For Bengal: A Clue In Kolkata's Arterial Road - NDTV
-  The BJP's Kolkata-Beng
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1d1UkMzbWV6b3dndmxNWkxVTjJ5enhJamFwazVFVlVJUHNTalVVdVB0aUhDQ1NUSC1UU0p6NmV4Z0JIeXRFY2FfOXVWTXFCRTV4allZZFRYSjd0WkdpZ1J1X3YxU2ZldjVTX0pKcy1fR0JuTTRLRlNIbW1HNnBSV2RGTWtPZXlxNVVMeklOM1VWcHdnRlg5UXhkc3BvZl9vNEM0R25tc01HbFR5aDBKMkRjcVl5ZlA4THhpTk5DemRmUlk3NHJKc19zRdIB0wFBVV95cUxQd0NNekc4a3pCdDJTZWpuSUZPR1JHa2FzRzEyZGIzZVpsQXpoNnNuR0hXUXZLb0JXWDBJYWk2a1ZUaW83UjZVUm1hRHdoSUYyQlJxeGNVaTJDY0R6S2RoWmVldTh1eHR2REEzdXlZclMzVVlOZm9HTjdVZnBKeHNMOG5kUTJ0RVk1ZGZnN3haOTY5LXJ6Rldwa2tyWHFNbGZHa3pYam5mSFJEbGZFMkRHeW4xSlVJRmJVZVN5MGtwY3VOQlUzbGR5eUJYZnV3M3AxZ1Zn?oc=5
+- Nagaon–Batadraba assembly election results 2026: BJP's Rupak Sarmah wins - The Times of India
+  Nagaon–Batadraba assembly election results
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWpLd1A1bGlkdnBMdjZRREItUHJheGdlY1dBbEFidVZRejJVRUxRRWpfdkhuLTRHdUFWNm1rVDB6SjVUYXBJbjJzLWVaamlTQWI5SFBCNmxnYll3c1FmQXNSQnJUZ1h5dkhrVzE4T0haYkt5dEo4MW1Jd2xjQ0F3azY1LWlHQ2xnNm9Hc25JbTNxdlFzV3VLaGQtNXVjbTZXT2xqWF9kcFExQVRXcWhvWUZWcFjSAboBQVVfeXFMTk1KOG52U25EdklGSHB5RWxjSmxKdER6LTZGREFuMUF1UDNYcXFBZERkSUtiUkV6NC00Si10RU1XdnVLM3F3LWIwR3VTamp0Vl9FVmJPSlVIeWxvQUVFRDBnYm1Mc1dTRS1IcWZ1b1VCMUhLQkRuRHY2NzFwU0R4Tm44S3JQVExpVE5IRGpRWEk1UmRoUU9IZFdPRXMzUmV1ZldhVTNoek1yTDFYU0FJck81ai0xYkp4b2RB?oc=5
 
-- West Bengal election 2026: RG Kar victim’s mother, BJP candidate Ratna Debnath leads from Panihati - The Times of India
-  The Times of India reported that the victim's mother, Ratna Debnath
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdUFqdWIxNTJEZTVTU0VDdUlZUkhvQ0Z1Q093MXVqdzRubl96Y1N0RGRaUTMwcXJTcmFQalVpaTBhZ0xoR3pwUVhUTjBKMlFEczFueGJMa051N29nZWN2aWFkWXFodGxiZXVlSnQwbVZtandYOEpjVXVkZy1YUk5qNHlpQXVVc1RGc3Nfc0x3TGRVTUNiWGVQd25DWWROZmlxazk1ckxrQXJVZmlDZ3VlM1U1NjNwU3RlUXRKZ2VQcTFZRlBHd1Q0WXZ0N1U5blljWmNQQmhJUkpoRXNscFFyeEpZejFMN19YTHdrcGNCZlFiN0FiUFHSAfsBQVVfeXFMTlp3TVFjWXFFUkVVYnowN09rMzJHUXREXzZnQ2Y5X25GS3hSZGowODRKWVE1cjI1X05CUkJGNDZFQ1QwT1F1eVdVdU5abjVJZFZXT2gzaW5hclFuR3ZrZjBOcENaX01kNklJc000amdBZjhEUUdRbVR6MFEycmpuY3kxNnBiRkdROVU0dE9UQThEQkxPQktwN3pobEZ3M2txd1kxUWdmLXptZG9OY0lhMWNUMDZwdFozY01vaFlTRC1IaWt1dmRZcnM4Rno4X0VCNHptcTk4eGNCc295NXQxMENuU2lEVFZveDh5elFwR1h6QjJ3d09ZX2Nmclk?oc=5
+- Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties - The Hindu
+  Outgoing Indian envoy meets Bangladesh FM,
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml5M0hjWTNIdkV3NE04a1A0Z1dKQklxTFExTU1jTDUwYlJOa3hZNWRxZXpmdG9nTWhnVjJad29yNXdGcFVXTzQ1YzBLVkJMaElwNFdFX21hYWZtbWRHaWhtSjdpZS1mVGFmU3JqbDN2U2VaQVpncGdmWEsycXZoYnZqaVQzcmJOMng0RVE3X240MVFvWnl5TV9pcnZOU1NZcXUtODc4YnN0SVg5eGl2ODdIdG1pdnNJdlFmemFLTzV3SUHSAcoBQVVfeXFMTUNPY2pVY1NMWlE1ZjZ1ejlEYm5LS3YwdFYxVVVvM1VEMFU2eHBnb3FqcVZEeF9ONFBSOThSaDRXaHhfT1RDZlo3eW1qc3FEVGFoU1JCLVdXWDlxV2RERjZDZzNIaFVobDBzdEx3WllEYWpaeE9XX1gtWGJyZzFoTEhydzAyWEg1WllxRWRRM3NwOUE0RHB5T0VmeHNJVmtWTWNWYkNOUFVsRFBvQnh1MjVDREhodjBOTV9yNlhkTTRvX0xZM0FPbTBudw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-04 08:26:41 UTC_
+_Last updated: 2026-05-04 13:49:58 UTC_
