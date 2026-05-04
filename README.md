@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Kerala polls: Fathima Thahiliya fought for gender parity in IUML. Now, she is its 1st woman MLA after breaching CPM bastion
+- ‘Take full responsibility for my role’: Jitendra Singh resigns as Congress’s Assam in-charge after poll debacle
+  
+  🔗 https://indianexpress.com/article/india/jitendra-singh-resigns-congress-assam-in-charge-2026-poll-debacle-10672734/
+
+- NDA retains Puducherry, but lottery kingpin’s son, Vijay’s TVK spring surprises
+  
+  🔗 https://indianexpress.com/article/india/nda-retains-puducherry-but-lottery-kingpins-son-vijays-tvk-spring-surprises-10672706/
+
+- ‘Lotus blooming from Gangotri to Gangasagar’: PM Modi hails blockbuster Bengal victory
+  
+  🔗 https://indianexpress.com/article/india/bjp-west-bengal-assembly-election-results-2026-pm-modi-first-address-tmc-10672450/
+
+- Fathima Thahiliya fought for gender parity in IUML. Now, she is party’s first woman MLA in Kerala
   
   🔗 https://indianexpress.com/article/india/fathima-thahiliya-iuml-first-woman-mla-kerala-10672415/
 
 - For the first time, BJP wins more than 1 seat in Kerala; Congress returns to power after a decade
   
   🔗 https://indianexpress.com/article/india/for-the-first-time-bjp-wins-more-than-1-seat-in-kerala-congress-returns-to-power-after-a-decade-10672206/
-
-- ‘Take it in writing’: Prashant Kishor’s Vijay victory prediction from a year ago comes true
-  
-  🔗 https://indianexpress.com/article/india/prashant-kishor-prediction-actor-vijay-tvk-tamil-nadu-election-results-2026-10671959/
-
-- Operation Sindoor prime example of technological warfare and nation’s readiness: Defence Minister Rajnath Singh
-  
-  🔗 https://indianexpress.com/article/india/operation-sindoor-prime-example-of-technological-warfare-and-nations-readiness-defence-minister-rajnath-singh-10672108/
-
-- In Falta repoll order, a two-decade old precedent in Bihar’s Chakai
-  
-  🔗 https://indianexpress.com/article/india/falta-repoll-explained-chakai-bihar-2005-eci-precedent-10672097/
 
 - Pixxel, Sarvam to launch India’s first orbital data centre satellite for AI training
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/harvard-study-ai-doctors-emergency-room-trial-findings-10671938/
 
+- Blackstone’s Jon Gray Sees AI Creating ‘Huge Boom’ in Blue Collar Jobs
+  Blackstone Inc. President Jon Gray said the boom in artificial intelligence will lead to a surge in blue-collar employment.
+  🔗 https://www.livemint.com/companies/blackstones-jon-gray-sees-ai-creating-huge-boom-in-blue-collar-jobs-11777919488058.html
+
+- Ambuja Cements resets expansion strategy as Karan Adani flags cost pressures and execution gaps
+  Ambuja Cements said it would defer parts of growth plan, while prioritizing cost discipline
+  🔗 https://www.livemint.com/companies/company-results/ambuja-cements-strategy-reset-cost-cut-karan-adani-11777902648797.html
+
+- Ather Energy cuts losses, moves closer to breakeven as FY26 revenue jumps on scale-up
+  The electric two-wheeler maker cut its net loss to  ₹517 crore and pushed up revenue 66% in FY26.
+  🔗 https://www.livemint.com/companies/company-results/ather-moves-closer-to-breakeven-as-new-stores-boost-sales-across-india-11777901992158.html
+
+- Godrej Properties targets  ₹39,000 crore in sales for FY27 after record-breaking year
+  GPL's sales bookings rose 16% year-on-year to  ₹34,171 crore. That was achieved through the
+  🔗 https://www.livemint.com/companies/news/godrej-properties-targets-39-000-crore-in-sales-for-fy27-after-record-breaking-year-11777865433248.html
+
 - Carlyle buys majority stake in Knack, EqualizeRCM to build AI-led healthcare billing platform
   Private equity firm bets on consolidation in fragmented US billing services market. Plans to scale via acquisitions and
   🔗 https://www.livemint.com/companies/carlyle-buys-majority-stake-in-knack-equalizercm-ai-healthcare-rcm-us-11777894127555.html
 
-- Citi appoints Raj Rathi as head of mergers &amp; acquisitions in India
-  Rathi joins Citi from Dream Sports, where
-  🔗 https://www.livemint.com/companies/news/citi-india-raj-rathi-citi-investment-banking-11777895145900.html
+- Dynacons Systems shares to be in focus on Tuesday as company bags  ₹751 crore private cloud order from RBI
+  Dynacons has won a major  ₹751 crore contract from the Reserve Bank of India for private cloud infrastructure at its new Odisha facility. The shares staged a strong comeback in
+  🔗 https://www.livemint.com/market/stock-market-news/dynacons-systems-shares-to-be-in-focus-on-tuesday-as-company-bags-rs-751-crore-private-cloud-order-from-rbi-11777914978351.html
 
-- Central Bank of India expects limited impact from new provisioning rules
-  Central Bank of India managing director and CEO Kalyan Kumar says it is well buffered against the RBI’s shift to stricter, forward-looking
-  🔗 https://www.livemint.com/companies/news/central-bank-of-india-q4fy26-central-bank-share-price-rbi-ecl-norms-11777872437055.html
+- Gold, silver rates today: Comex gold drops $134/oz; silver tumbles $4/oz on oil-led inflation fears, firm US dollar
+  Gold and silver prices fell sharply on 4 May. Gold dropped to $4,681 and silver to $72 due to rising crude oil prices and a stronger US dollar. Tensions in the Middle
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-134-oz-silver-tumbles-4-oz-on-oil-led-inflation-fears-firm-us-dollar-11777909638791.html
 
-- Milky Mist raises  ₹482 crore in pre-IPO round led by Temasek arm
-  The entire primary investment was led by Jongsong Investments. promoters Sathishkumar T. and Anitha S. sold 89,43
-  🔗 https://www.livemint.com/companies/milky-mist-pre-ipo-funding-temasek-ipo-india-dairy-11777885672471.html
+- GameStop shares drop 6.5% after ambitious $55.5 billion bid for eBay
+  Investors are sceptical of the half-cash, half-stock deal, despite eBay's shares rising 6%. GameStop plans cost reductions to enhance eBay's earnings. CEO Ryan Cohen may pursue a proxy
+  🔗 https://www.livemint.com/market/stock-market-news/gamestop-shares-drop-6-5-after-ambitious-55-5-billion-bid-for-ebay-11777905572087.html
 
-- Repertoire drinking spurs new spirit launches
-  Nearly a dozen products are either already in market or being introduced through early 2026-27
-  🔗 https://www.livemint.com/companies/news/indian-alcohol-companies-new-spirits-repertoire-drinking-consumer-trends-11777782997585.html
+- Wall Street drops as Middle East tensions escalate, Tyson Foods dips 2.2%, eBay jumps 5.6%
+  The S&amp;amp;P 500 fell 0.3%, the Dow Jones Industrial Average was down
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-falls-on-heightened-anxieties-over-middle-east-conflict-11777902033717.html
 
-- US stock market today: Dow, S&amp;P 500 futures slip as renewed Middle East tensions lift oil prices
-  US stock futures fluctuated amid reports of a US warship incident near the Strait of Hormuz. April's robust corporate earnings helped maintain market momentum despite geopolitical risks
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-slip-as-renewed-middle-east-tensions-lift-oil-prices-11777895709011.html
+- Small-cap stock under  ₹50 hits upper circuit for 13th straight session, declares  ₹500 crore fundraise move
+  AVI Polymers shares surged to  ₹20.95, driven by a consistent upward trend. Financial results reveal strong growth, with a net worth increase to 
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-upper-circuit-for-13th-straight-session-declares-rs-500-crore-fundraise-move-11777901327006.html
 
-- TVK poised for Tamil Nadu win: What Thalapathy Vijay’s victory could mean for companies operating in the state
-  Most exit polls had projected that the DMK-led alliance under Chief Minister M K Stalin would retain power. Vijay's Tamilaga V
-  🔗 https://www.livemint.com/market/stock-market-news/tvk-poised-for-tamil-nadu-win-what-thalapathy-vijay-s-victory-could-mean-for-companies-operating-in-the-state-11777890484610.html
-
-- Manappuram Finance Q4 Results: Firm swings to black with  ₹405 crore profit, announces  ₹0.50 dividend
-  Manappuram Finance's Q4 consolidated profit came in at  ₹404.79 crore. On a quarter-on-quarter (QoQ) basis,
-  🔗 https://www.livemint.com/market/stock-market-news/manappuram-finance-q4-results-firm-swings-to-black-with-rs-405-crore-profit-announces-rs-0-50-dividend-11777893199463.html
-
-- Gold, silver rates today nosedive up to 5% as crude oil price soars after escalation in the US-Iran war
-  Iran hit two missiles at a US warship on Monday, when it was sailing near Jask island
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-4-may-2026-nosedive-up-to-5-as-crude-oil-price-soars-us-iran-news-strait-of-hormuz-in-focus-11777890370782.html
-
-- Crude oil jumps over 5% as US-Iran tensions flare again; Brent crude climbs past $114
-  Crude oil prices rose after a tanker was reportedly hit in the Strait of Hormuz. Tensions escalated between the U.S. and Iran, with Trump promising to guide ships through the strait.
-  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-jumps-over-5-as-us-iran-tensions-flare-again-brent-crude-climbs-past-114-11777891892017.html
+- Roomba pioneer aims to crack the household market again with an AI-powered pet robot
+  Roomba pioneer aims to crack the household
+  🔗 https://www.livemint.com/technology/roomba-pioneer-aims-to-crack-the-household-market-again-with-an-ai-powered-pet-robot-11777916664062.html
 
 - States across the wildfire-prone Western US are using AI for early detection
   States across the wildfire-prone Western
@@ -96,69 +100,125 @@
   OnePlus announces a Summer Sale starting May 8.
   🔗 https://www.livemint.com/technology/gadgets/oneplus-summer-sale-announced-top-discounts-on-oneplus-15-oneplus-13-nord-series-tablets-and-tws-11777882870763.html
 
-- iPhone 18 Pro launching soon: Expected price, colours, display and big camera upgrades
-  The devices could feature four color variants, a larger battery, and the latest A20 Pro chipset.
-  🔗 https://www.livemint.com/technology/tech-news/iphone-18-pro-launching-soon-expected-price-colours-display-and-big-camera-upgrades-11777869436561.html
+- Dow falls 500 points as oil jumps on fear Iran conflict set to flare up again: Live updates - CNBC
+  The Dow fell 500 points as oil jumps on fear Iran conflict set to flare up
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1NbHRSUnVDU3l2UlFUbHNoLVVZeHFLLXRZREF4TzRYMXhlejRXTlBrTlA4VXpOak1ZMEQzbWpZeEhXdXJ2N0M3U1N0cWtLN3VfNDZWRldYemhwZWdsZWNaODJqRlFzQWhoTmxRY3hvRF9Gdm5qX01V0gF8QVVfeXFMT05hblJPRWQtc0hQb3VpY1lFRTRVZWJuS181UE9LNThMTFc5M1FIMWwwZmJXTkFNeDQzZG11NzJodkwydWtHczRtb09UYWxzbWV0Wl91MVhuRXV1THJrcjBmYlozTU9hc2hhUEtkMGx6NWhpSmtjOWtxLS0wVg?oc=5
 
-- CSB Bank Q4 profit rises 6% on lower provisions growth steady
-  CSB Bank reported 6% Q4 profit growth aided by lower provisions. Margins improved, while advances and deposits showed strong growth. Asset quality improved sequentially
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q4-profit-rises-6-on-lower-provisions-growth-steady/articleshow/130801882.cms
+- Stock Market Today: Dow Slips, Oil Rises on Fears of Hormuz Escalation — Live Updates - WSJ
+  The WSJ reports that the U.S. military is
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmlHZzRDQnVNaU96aHlkZHF5YXp3ZThRUUVQWFVlRVZ6aE0yY1B4SE9JRjkwRjNEaHJTc2g4MWtCWnk5WlBJMVdaclg5WjFlcWxMNWJuajJIMjNaV3Z6UDk5N3FnMm9xYjd1VURoWUdsdDN2UHZMNEdCUWdQMk5vczRLWWhNbW8?oc=5
 
-- Tata Technologies Q4 Results: Cons PAT rises 8% YoY to Rs 204 crore, revenue rises 22%
-  Tata Technologies reported 8% year-on-year profit growth in Q4FY26 with strong 22% revenue rise. Improved margins,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q4-results-cons-pat-rises-8-yoy-to-rs-204-crore-revenue-rises-22/articleshow/130801353.cms
+- Stock market today: Dow, S&P 500, Nasdaq drop as Hormuz tensions increase - Yahoo Finance
+  The Dow, S&amp;P 500, Nas
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2c0RTVlcS1FOG5adTZUckpJTWxiYnFyWGtNeW51ZHhOMWllVmFSdkt5SDBaUDE5c3FuWFRpUUh2ZzNDdTdETHZQWnNKUW1LNmtKTnJlTmtNZXVQTk5Ld0lHNnBnSEI1NHhOX0NhTnZncmVhSTc2U05ZMjA2ZnRHTGx2eEdOMDN5Ry1La21LOGhlRGZHSGg0?oc=5
 
-- Sanjay H Parekh bets big on Reliance, private banks, and domestic plays amid global uncertainty
-  Sohum Asset Managers is shifting its focus to largecap stocks. Reliance Industries is a key bet, with significant upside expected. Private sector banks also form a large part of the portfolio.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/sanjay-h-parekh-bets-big-on-reliance-private-banks-and-domestic-plays-amid-global-uncertainty/articleshow/130798887.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: S&P 500, Nasdaq, Dow fall as Iran war tensions dent sent... - The Economic Times
+  The Economic Times reports on the latest developments in the U.S. stock market.
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxQcDZxbVRsMEY1bFRyR1JCUXYwYlJQXy1qY2hhMndzMW9TQ1k2dmF5Q2psV2o2THNTV1RfV0ZvWkJwX19HNGJlWDVPRG0tdEw2S19fUkRJWVpfWFRzOU13S2ZWQkw0cExweGZiTEdwS1hhak9pWEhfNjhwdVZ4V3daa2Z5Z0lWMWF0UV9URXJPS0hBRFpISktXSjVxNjl4MEdBMkM0MkVCaDNBcllxWHBhVG9xbkpmZU5FT0tvWU81V2trWjRNWm40bGVycVR5NGFVQTlJUEk5X3hMcVRzYTFhZnY4WmdrTDVBTjFneG5qQWN4ZWJra1g2cHotZ3BLaDJFVDJocW5oN29mYnM0bTJRdVI4dG1jejF6Vld2bXlpUDN1SFRGN1JMSzN3SFB6S2wxLVdEVWVweGk3RHhGQXfSAcMCQVVfeXFMTjNwcEhTVGI5UFpMeFhCNzZBc1dVNGgyb2piU3RuamxLTHEyVW1rbjFzNXVfb0hTblZHem1CNmdjdkE0a0JNTFdLRGZjbGNKby0yWTdGMTBlTjJzZGNzdkZMQWp2RGNRam0yOXZvMVhVS3h5NXdnaFE5cVgtUF92WnZCM09yaks0SWpRTV9JTjV4UkhoSDJEMFB6WGpyMVZTbF9HNmliRWx6RGZ6bTc0cGVuRkp0YnBuRnlkRWJOa1Y1RDY2czlKRUZVV0xhaUh1bmhpVmVtb1NILXpPRUFNY3NPT2lzMDVuRkxpbzRDVm1CbVZoS1FpcjdpYUlibVc5ZkFQay1EekJST3pIOE1MZndQWXRXTUxpcEYwbjlwb2hwS2dTcUYzM24zSHgzRGlCQThYRWZWbGxZa2JCeXd2aG11V2c?oc=5
 
-- Thalapathy government? Why Vijay's historic rise in India's industrial powerhouse state matters for stock market
-  Tamil Nadu is a key auto, electronics and export hub. Policy clarity on incentives, welfare spending and governance will drive sentiment for TN-linked companies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/thalapathy-government-why-vijays-historic-rise-in-indias-industrial-powerhouse-state-matters-for-stock-market/articleshow/130798865.cms
+- Why the UAE’s OPEC exit matters for oil markets - CNN
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1xTUxMY0t2aVFrN3dDX1NPd3ZKeVY2Wkt6dlowT3JEQkZidXhFV0ZYQlBJWWl3aWM2eTVWNVROUG5xZ0FJc051SktUNG04Q1ZaeXZDcFRheHY1aWZtOU1aQk5mWjNmNkhIMnZ2MjhCRkVrSFU?oc=5
 
-- Quote of the day by Walter Schloss: "One of the things you learn in this business is humility because you see your mistakes the next day."
-  Walter Schloss: Successful investors learn from errors. He says markets quickly expose mistakes through immediate feedback.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-walter-schloss-one-of-the-things-you-learn-in-this-business-is-humility-because-you-see-your-mistakes-the-next-day-/articleshow/130757125.cms
+- US stocks today: Amazon opens up logistics network to other businesses in challenge to UPS, FedEx
+  Amazon will now offer its vast network for businesses to store and ship goods. This move directly challenges established players like UPS and FedEx.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-amazon-opens-up-logistics-network-to-other-businesses-in-challenge-to-ups-fedex/articleshow/130809262.cms
+
+- Adani Ports, Tata Motors and Siemens Energy witness block deal action on Monday
+  Capital Group entities were major buyers, acquiring stakes from Worldwide Emerging Market Holding Limited. Smaller block deals also occurred in Tata Motors and Siemens Energy India.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-tata-motors-and-siemens-energy-witness-block-deal-action-on-monday/articleshow/130806797.cms
+
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian markets ended higher driven by positive election trends. Nifty held above key support levels despite range-bound movement. Analysts see bullish momentum intact, though global cues remain weak
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/130805242.cms
+
+- Market Trading Guide: 5 stock ideas for gains up to 11% on Tuesday
+  Nifty ended higher amid positive election sentiment but faced resistance near 24,200. Analysts see support at 24,000, maintaining a bullish bias above key levels. Experts recommend selective trades
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-5-stock-ideas-for-gains-up-to-11-on-tuesday/slideshow/130805083.cms
+
+- Aditya Birla Capital Q4 Results: Net profit rises 31% at Rs 1,129 crore
+  Aditya Birla Capital reported a 31 per cent growth in consolidated profit at Rs 1,129 crore for the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q4-results-net-profit-rises-31-at-rs-1129-crore/articleshow/130803290.cms
+
+- Modi’s party poised for big wins in Indian state elections - Al Jazeera
+  Modi’s party poised for big
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Election Commission of India Results 2026 Live, eci.gov.in: Lotus Blooms in Bengal, Says PM Modi After BJP's Historic Win - Times Now
-  " target="_blank">Election Commission of India Results 2026 Live, e
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxONHhKYnRzLXZENENsdHh3b0VZaHNrdjJrenJSM0hKMnZHSFJBU1dWYkxzdkhWaTRPZmxKNVl6OGVQX0YzeXJ3SDliT1MyTjlEQWxCMGxYVUsyLTlEdi0zcTZsQXV1OU8zTjNwT1JHU1RUbjlSMGF1LXdSOVFGeG9RTGhQd0V1Wm9RbU1tSVhjdzhuaUE4YzF4Yl9TYUV1bmFET1VSTklfRENyRFlReE5sRjcxSXlwVWM1TU4zMHBQTE1DeW5PLXdsYUFZbENwUHVNR3FvVnBJUXpBbm9wREwwVzNaM1FUV0wzYl9HdWxHczg5dy1BVERZQm11dkwtYnhtdlZzU3JoUkdoMk1wdUJCdzlGb2ZLTFlBNFBOTUJuWncxdkozeWtoVDNXYjQ5djdMLVQzTVJIN2LSAb4CQVVfeXFMUFUtN0pKNEpCbDZranFEc28teU4tNGhHMmpnS0RDcmRObjhtNVpIRGhGVmhHZnRKMzJTU0I3WkZBdnZfb1VvS1BsV19OeExVR2lkUFZmNEdENVNDS2hhX25RejhYSHp0b09ZczQwWHdUa0xqdlZLVndlMTRwMXBlMWNOLU90Q0swNHRONEo0ZWNGdk4yWTFBZGo0MlEwMzg2WmttaHh6V1hNbFgwemtOa0o2N1VOZld1dEstUENhVFJKdEw2TEJza3NZNmJXdnU2REZsNHpBdE95b3J2eUhxZkJBWFQ5R0ZTb09ubFg3Z2NBZ3h4eGt6Q2dmOEp2YU00ZVdGYUxSVlk2d2xGckhZd3VvWFhfZjRMM1g0bExJUnRObEpyTm5xc2pIS28teXVmTmJEVXY2TXhaVm9OM0V3?oc=5
+- Mercury plunges as snow, rains hit Kashmir, Himachal & Uttarakhand - The Times of India
+  Snow, rains hit Kashmir, Himachal & Utt
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOalRYUXhiOVpKV0hKU1FhdFlUd3ZxODY2dU1pbzNWTFRUWHpSSUdOR21LbHowY0c4THlZRGs2Rmxud2gyVjhIM0lwS25MTDBqUlREdFBFb1piaWU3a2JKVGZBWGotNldHUHZlWk5nV2l4aTFETjRNaERVMHdrTWhTek00X2h6Mlc3UEN4R25VQmJ6VnJQYlF3YkdLZTZXcmhXV0N5Wjl2dHlEX2xZNExBaWxNTHo0SExQWXRjWUdwYlBvamxNRy1BV19n?oc=5
 
-- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
-  West Bengal: Modi's BJP conquers one
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+- 'Governance Failure So Colossal Trinamool Couldn't Hide It': Amit Malviya To NDTV - NDTV
+  'Governance Failure So Colossal Trinamool
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnBOODRLTmdEMkNjdm5xX3otQWtDTmV3UEpOUjFfUWVOMUQyU0hUSFNPU0E3ci1WaU1VeEctb1N1a2VfVnJ4YmNhSWdMTWc4UTd2ekV0N2UyU0FUSGxNcDNCTVR4YmlHWGVKZ056bEJqOVBWdDdXNkhHUTkwUGhNRk45d0pINjFIYmxyYkZHU1RjOGZQX08wd1JCaTA5NXFsbkVTaHRVVTlwWm5nS05pUXdEaVJuZnlRTHRFZmpOTkpDVFFWVnNEMTQ3OGlyTFV4bUdMMmZJVmI0REJCelFQY0pWUUc1bXpCTUJB0gHzAUFVX3lxTE9uLThsSW9nVG1wVEJxV1lhcGpHVlozSENPQ3IwRnJJSWV5X0ZXRWFtaVpIX1JhQXdOeENfQU1YN2p5MDNpZzJXYjNCY1o3bkR1V29JaXk4cXRWdG1hNVNsajhFbVp1WXk0MDhFVFpvcjNPSjhfWDd6R20yTFJ2aDg3Z09Fb0ZtWmRXUmx4Y0Y4blRoZEItNHRXWDI0cmlCb3JLVkk3Y1RUODdTLVVZNlRyTjZMT3B0VGJaUlMyaFBGRXZPMlg1VzFYY3lfTHVlYmJHRnJjZktwOERjY0RIU0E5RnRnSGR3UXdTX0FtRld5VGswVQ?oc=5
 
-- Nagaon–Batadraba assembly election results 2026: BJP's Rupak Sarmah wins - The Times of India
-  Nagaon–Batadraba assembly election results
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWpLd1A1bGlkdnBMdjZRREItUHJheGdlY1dBbEFidVZRejJVRUxRRWpfdkhuLTRHdUFWNm1rVDB6SjVUYXBJbjJzLWVaamlTQWI5SFBCNmxnYll3c1FmQXNSQnJUZ1h5dkhrVzE4T0haYkt5dEo4MW1Jd2xjQ0F3azY1LWlHQ2xnNm9Hc25JbTNxdlFzV3VLaGQtNXVjbTZXT2xqWF9kcFExQVRXcWhvWUZWcFjSAboBQVVfeXFMTk1KOG52U25EdklGSHB5RWxjSmxKdER6LTZGREFuMUF1UDNYcXFBZERkSUtiUkV6NC00Si10RU1XdnVLM3F3LWIwR3VTamp0Vl9FVmJPSlVIeWxvQUVFRDBnYm1Mc1dTRS1IcWZ1b1VCMUhLQkRuRHY2NzFwU0R4Tm44S3JQVExpVE5IRGpRWEk1UmRoUU9IZFdPRXMzUmV1ZldhVTNoek1yTDFYU0FJck81ai0xYkp4b2RB?oc=5
+- Sonam Wangchuk, LAB oppose power JV in Ladakh - The Times of India
+  Sonam Wangchuk, LAB oppose power
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkZ4LVJGRzRwRkcwcHBldEtqNVpHNENCQjEtR2J3VkQzVDNob0JOcklCdV80MzgxRl9NMzVtRE9iczVHeDdJS1hSNVNMTkpwQkJzZ2stU1YxajVzZE1TWi1NVU1zdFFDZlpkUVpFNC1pS0JkeG1hano2STY1b0k3VTF1T2tDSlJkQVJFNWsyM3JrVGRXcnFMSjJ5OVJFa2ZHQ0tIcGJwNUw0ekxsR01VNzFn0gG3AUFVX3lxTE1RemZ2UUltMlB5OGZzaWhIUDdlZjZIemxJQllITmtPY0pfTHhuZmtSNmNkMTJMd2hCLXk5bWpqQWR2T1NXYmJWeFFzUU9VcW9XSnVkeW5ybTg2VHZ5WFpOTmpxbnVjV3dfbEdlNzdZY1QyYmtLUkItV0NFaTBXcGpxSlpuTWw4YlB4Vmg3X3hscTVrUk9NTUpqbVdkdXZ5ZlZoNGpDTjVSRUE4QUV3SXBTTXE0ZmFuUQ?oc=5
 
-- Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties - The Hindu
-  Outgoing Indian envoy meets Bangladesh FM,
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml5M0hjWTNIdkV3NE04a1A0Z1dKQklxTFExTU1jTDUwYlJOa3hZNWRxZXpmdG9nTWhnVjJad29yNXdGcFVXTzQ1YzBLVkJMaElwNFdFX21hYWZtbWRHaWhtSjdpZS1mVGFmU3JqbDN2U2VaQVpncGdmWEsycXZoYnZqaVQzcmJOMng0RVE3X240MVFvWnl5TV9pcnZOU1NZcXUtODc4YnN0SVg5eGl2ODdIdG1pdnNJdlFmemFLTzV3SUHSAcoBQVVfeXFMTUNPY2pVY1NMWlE1ZjZ1ejlEYm5LS3YwdFYxVVVvM1VEMFU2eHBnb3FqcVZEeF9ONFBSOThSaDRXaHhfT1RDZlo3eW1qc3FEVGFoU1JCLVdXWDlxV2RERjZDZzNIaFVobDBzdEx3WllEYWpaeE9XX1gtWGJyZzFoTEhydzAyWEg1WllxRWRRM3NwOUE0RHB5T0VmeHNJVmtWTWNWYkNOUFVsRFBvQnh1MjVDREhodjBOTV9yNlhkTTRvX0xZM0FPbTBudw?oc=5
+- Modi’s party poised for big wins in Indian state elections - Al Jazeera
+  Modi’s party poised for big
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Election Commission of India Results 2026 Live, eci.gov.in: Lotus Blooms in Bengal, Says PM Modi After BJP's Historic Win - Times Now
-  " target="_blank">Election Commission of India Results 2026 Live, e
-  🔗 https://news.google.com/rss/articles/CBMiuAJBVV95cUxONHhKYnRzLXZENENsdHh3b0VZaHNrdjJrenJSM0hKMnZHSFJBU1dWYkxzdkhWaTRPZmxKNVl6OGVQX0YzeXJ3SDliT1MyTjlEQWxCMGxYVUsyLTlEdi0zcTZsQXV1OU8zTjNwT1JHU1RUbjlSMGF1LXdSOVFGeG9RTGhQd0V1Wm9RbU1tSVhjdzhuaUE4YzF4Yl9TYUV1bmFET1VSTklfRENyRFlReE5sRjcxSXlwVWM1TU4zMHBQTE1DeW5PLXdsYUFZbENwUHVNR3FvVnBJUXpBbm9wREwwVzNaM1FUV0wzYl9HdWxHczg5dy1BVERZQm11dkwtYnhtdlZzU3JoUkdoMk1wdUJCdzlGb2ZLTFlBNFBOTUJuWncxdkozeWtoVDNXYjQ5djdMLVQzTVJIN2LSAb4CQVVfeXFMUFUtN0pKNEpCbDZranFEc28teU4tNGhHMmpnS0RDcmRObjhtNVpIRGhGVmhHZnRKMzJTU0I3WkZBdnZfb1VvS1BsV19OeExVR2lkUFZmNEdENVNDS2hhX25RejhYSHp0b09ZczQwWHdUa0xqdlZLVndlMTRwMXBlMWNOLU90Q0swNHRONEo0ZWNGdk4yWTFBZGo0MlEwMzg2WmttaHh6V1hNbFgwemtOa0o2N1VOZld1dEstUENhVFJKdEw2TEJza3NZNmJXdnU2REZsNHpBdE95b3J2eUhxZkJBWFQ5R0ZTb09ubFg3Z2NBZ3h4eGt6Q2dmOEp2YU00ZVdGYUxSVlk2d2xGckhZd3VvWFhfZjRMM1g0bExJUnRObEpyTm5xc2pIS28teXVmTmJEVXY2TXhaVm9OM0V3?oc=5
+- Mercury plunges as snow, rains hit Kashmir, Himachal & Uttarakhand - The Times of India
+  Snow, rains hit Kashmir, Himachal & Utt
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOalRYUXhiOVpKV0hKU1FhdFlUd3ZxODY2dU1pbzNWTFRUWHpSSUdOR21LbHowY0c4THlZRGs2Rmxud2gyVjhIM0lwS25MTDBqUlREdFBFb1piaWU3a2JKVGZBWGotNldHUHZlWk5nV2l4aTFETjRNaERVMHdrTWhTek00X2h6Mlc3UEN4R25VQmJ6VnJQYlF3YkdLZTZXcmhXV0N5Wjl2dHlEX2xZNExBaWxNTHo0SExQWXRjWUdwYlBvamxNRy1BV19n?oc=5
 
-- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
-  West Bengal: Modi's BJP conquers one
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+- 'Governance Failure So Colossal Trinamool Couldn't Hide It': Amit Malviya To NDTV - NDTV
+  'Governance Failure So Colossal Trinamool
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnBOODRLTmdEMkNjdm5xX3otQWtDTmV3UEpOUjFfUWVOMUQyU0hUSFNPU0E3ci1WaU1VeEctb1N1a2VfVnJ4YmNhSWdMTWc4UTd2ekV0N2UyU0FUSGxNcDNCTVR4YmlHWGVKZ056bEJqOVBWdDdXNkhHUTkwUGhNRk45d0pINjFIYmxyYkZHU1RjOGZQX08wd1JCaTA5NXFsbkVTaHRVVTlwWm5nS05pUXdEaVJuZnlRTHRFZmpOTkpDVFFWVnNEMTQ3OGlyTFV4bUdMMmZJVmI0REJCelFQY0pWUUc1bXpCTUJB0gHzAUFVX3lxTE9uLThsSW9nVG1wVEJxV1lhcGpHVlozSENPQ3IwRnJJSWV5X0ZXRWFtaVpIX1JhQXdOeENfQU1YN2p5MDNpZzJXYjNCY1o3bkR1V29JaXk4cXRWdG1hNVNsajhFbVp1WXk0MDhFVFpvcjNPSjhfWDd6R20yTFJ2aDg3Z09Fb0ZtWmRXUmx4Y0Y4blRoZEItNHRXWDI0cmlCb3JLVkk3Y1RUODdTLVVZNlRyTjZMT3B0VGJaUlMyaFBGRXZPMlg1VzFYY3lfTHVlYmJHRnJjZktwOERjY0RIU0E5RnRnSGR3UXdTX0FtRld5VGswVQ?oc=5
 
-- Nagaon–Batadraba assembly election results 2026: BJP's Rupak Sarmah wins - The Times of India
-  Nagaon–Batadraba assembly election results
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWpLd1A1bGlkdnBMdjZRREItUHJheGdlY1dBbEFidVZRejJVRUxRRWpfdkhuLTRHdUFWNm1rVDB6SjVUYXBJbjJzLWVaamlTQWI5SFBCNmxnYll3c1FmQXNSQnJUZ1h5dkhrVzE4T0haYkt5dEo4MW1Jd2xjQ0F3azY1LWlHQ2xnNm9Hc25JbTNxdlFzV3VLaGQtNXVjbTZXT2xqWF9kcFExQVRXcWhvWUZWcFjSAboBQVVfeXFMTk1KOG52U25EdklGSHB5RWxjSmxKdER6LTZGREFuMUF1UDNYcXFBZERkSUtiUkV6NC00Si10RU1XdnVLM3F3LWIwR3VTamp0Vl9FVmJPSlVIeWxvQUVFRDBnYm1Mc1dTRS1IcWZ1b1VCMUhLQkRuRHY2NzFwU0R4Tm44S3JQVExpVE5IRGpRWEk1UmRoUU9IZFdPRXMzUmV1ZldhVTNoek1yTDFYU0FJck81ai0xYkp4b2RB?oc=5
+- Sonam Wangchuk, LAB oppose power JV in Ladakh - The Times of India
+  Sonam Wangchuk, LAB oppose power
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkZ4LVJGRzRwRkcwcHBldEtqNVpHNENCQjEtR2J3VkQzVDNob0JOcklCdV80MzgxRl9NMzVtRE9iczVHeDdJS1hSNVNMTkpwQkJzZ2stU1YxajVzZE1TWi1NVU1zdFFDZlpkUVpFNC1pS0JkeG1hano2STY1b0k3VTF1T2tDSlJkQVJFNWsyM3JrVGRXcnFMSjJ5OVJFa2ZHQ0tIcGJwNUw0ekxsR01VNzFn0gG3AUFVX3lxTE1RemZ2UUltMlB5OGZzaWhIUDdlZjZIemxJQllITmtPY0pfTHhuZmtSNmNkMTJMd2hCLXk5bWpqQWR2T1NXYmJWeFFzUU9VcW9XSnVkeW5ybTg2VHZ5WFpOTmpxbnVjV3dfbEdlNzdZY1QyYmtLUkItV0NFaTBXcGpxSlpuTWw4YlB4Vmg3X3hscTVrUk9NTUpqbVdkdXZ5ZlZoNGpDTjVSRUE4QUV3SXBTTXE0ZmFuUQ?oc=5
 
-- Outgoing Indian envoy meets Bangladesh FM, discusses bilateral ties - The Hindu
-  Outgoing Indian envoy meets Bangladesh FM,
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxObml5M0hjWTNIdkV3NE04a1A0Z1dKQklxTFExTU1jTDUwYlJOa3hZNWRxZXpmdG9nTWhnVjJad29yNXdGcFVXTzQ1YzBLVkJMaElwNFdFX21hYWZtbWRHaWhtSjdpZS1mVGFmU3JqbDN2U2VaQVpncGdmWEsycXZoYnZqaVQzcmJOMng0RVE3X240MVFvWnl5TV9pcnZOU1NZcXUtODc4YnN0SVg5eGl2ODdIdG1pdnNJdlFmemFLTzV3SUHSAcoBQVVfeXFMTUNPY2pVY1NMWlE1ZjZ1ejlEYm5LS3YwdFYxVVVvM1VEMFU2eHBnb3FqcVZEeF9ONFBSOThSaDRXaHhfT1RDZlo3eW1qc3FEVGFoU1JCLVdXWDlxV2RERjZDZzNIaFVobDBzdEx3WllEYWpaeE9XX1gtWGJyZzFoTEhydzAyWEg1WllxRWRRM3NwOUE0RHB5T0VmeHNJVmtWTWNWYkNOUFVsRFBvQnh1MjVDREhodjBOTV9yNlhkTTRvX0xZM0FPbTBudw?oc=5
+- Modi’s party poised for big wins in Indian state elections - Al Jazeera
+  Modi’s party poised for big
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
+
+- "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
+  "Bloody Hell": Omar Abdullah's Post As
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
+
+- Mercury plunges as snow, rains hit Kashmir, Himachal & Uttarakhand - The Times of India
+  Snow, rains hit Kashmir, Himachal & Utt
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOalRYUXhiOVpKV0hKU1FhdFlUd3ZxODY2dU1pbzNWTFRUWHpSSUdOR21LbHowY0c4THlZRGs2Rmxud2gyVjhIM0lwS25MTDBqUlREdFBFb1piaWU3a2JKVGZBWGotNldHUHZlWk5nV2l4aTFETjRNaERVMHdrTWhTek00X2h6Mlc3UEN4R25VQmJ6VnJQYlF3YkdLZTZXcmhXV0N5Wjl2dHlEX2xZNExBaWxNTHo0SExQWXRjWUdwYlBvamxNRy1BV19n?oc=5
+
+- 'Governance Failure So Colossal Trinamool Couldn't Hide It': Amit Malviya To NDTV - NDTV
+  'Governance Failure So Colossal Trinamool
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnBOODRLTmdEMkNjdm5xX3otQWtDTmV3UEpOUjFfUWVOMUQyU0hUSFNPU0E3ci1WaU1VeEctb1N1a2VfVnJ4YmNhSWdMTWc4UTd2ekV0N2UyU0FUSGxNcDNCTVR4YmlHWGVKZ056bEJqOVBWdDdXNkhHUTkwUGhNRk45d0pINjFIYmxyYkZHU1RjOGZQX08wd1JCaTA5NXFsbkVTaHRVVTlwWm5nS05pUXdEaVJuZnlRTHRFZmpOTkpDVFFWVnNEMTQ3OGlyTFV4bUdMMmZJVmI0REJCelFQY0pWUUc1bXpCTUJB0gHzAUFVX3lxTE9uLThsSW9nVG1wVEJxV1lhcGpHVlozSENPQ3IwRnJJSWV5X0ZXRWFtaVpIX1JhQXdOeENfQU1YN2p5MDNpZzJXYjNCY1o3bkR1V29JaXk4cXRWdG1hNVNsajhFbVp1WXk0MDhFVFpvcjNPSjhfWDd6R20yTFJ2aDg3Z09Fb0ZtWmRXUmx4Y0Y4blRoZEItNHRXWDI0cmlCb3JLVkk3Y1RUODdTLVVZNlRyTjZMT3B0VGJaUlMyaFBGRXZPMlg1VzFYY3lfTHVlYmJHRnJjZktwOERjY0RIU0E5RnRnSGR3UXdTX0FtRld5VGswVQ?oc=5
+
+- Sonam Wangchuk, LAB oppose power JV in Ladakh - The Times of India
+  Sonam Wangchuk, LAB oppose power
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkZ4LVJGRzRwRkcwcHBldEtqNVpHNENCQjEtR2J3VkQzVDNob0JOcklCdV80MzgxRl9NMzVtRE9iczVHeDdJS1hSNVNMTkpwQkJzZ2stU1YxajVzZE1TWi1NVU1zdFFDZlpkUVpFNC1pS0JkeG1hano2STY1b0k3VTF1T2tDSlJkQVJFNWsyM3JrVGRXcnFMSjJ5OVJFa2ZHQ0tIcGJwNUw0ekxsR01VNzFn0gG3AUFVX3lxTE1RemZ2UUltMlB5OGZzaWhIUDdlZjZIemxJQllITmtPY0pfTHhuZmtSNmNkMTJMd2hCLXk5bWpqQWR2T1NXYmJWeFFzUU9VcW9XSnVkeW5ybTg2VHZ5WFpOTmpxbnVjV3dfbEdlNzdZY1QyYmtLUkItV0NFaTBXcGpxSlpuTWw4YlB4Vmg3X3hscTVrUk9NTUpqbVdkdXZ5ZlZoNGpDTjVSRUE4QUV3SXBTTXE0ZmFuUQ?oc=5
+
+- Modi’s party poised for big wins in Indian state elections - Al Jazeera
+  Modi’s party poised for big
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
+
+- "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
+  "Bloody Hell": Omar Abdullah's Post As
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
+
+- Mercury plunges as snow, rains hit Kashmir, Himachal & Uttarakhand - The Times of India
+  Snow, rains hit Kashmir, Himachal & Utt
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOalRYUXhiOVpKV0hKU1FhdFlUd3ZxODY2dU1pbzNWTFRUWHpSSUdOR21LbHowY0c4THlZRGs2Rmxud2gyVjhIM0lwS25MTDBqUlREdFBFb1piaWU3a2JKVGZBWGotNldHUHZlWk5nV2l4aTFETjRNaERVMHdrTWhTek00X2h6Mlc3UEN4R25VQmJ6VnJQYlF3YkdLZTZXcmhXV0N5Wjl2dHlEX2xZNExBaWxNTHo0SExQWXRjWUdwYlBvamxNRy1BV19n?oc=5
+
+- 'Governance Failure So Colossal Trinamool Couldn't Hide It': Amit Malviya To NDTV - NDTV
+  'Governance Failure So Colossal Trinamool
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnBOODRLTmdEMkNjdm5xX3otQWtDTmV3UEpOUjFfUWVOMUQyU0hUSFNPU0E3ci1WaU1VeEctb1N1a2VfVnJ4YmNhSWdMTWc4UTd2ekV0N2UyU0FUSGxNcDNCTVR4YmlHWGVKZ056bEJqOVBWdDdXNkhHUTkwUGhNRk45d0pINjFIYmxyYkZHU1RjOGZQX08wd1JCaTA5NXFsbkVTaHRVVTlwWm5nS05pUXdEaVJuZnlRTHRFZmpOTkpDVFFWVnNEMTQ3OGlyTFV4bUdMMmZJVmI0REJCelFQY0pWUUc1bXpCTUJB0gHzAUFVX3lxTE9uLThsSW9nVG1wVEJxV1lhcGpHVlozSENPQ3IwRnJJSWV5X0ZXRWFtaVpIX1JhQXdOeENfQU1YN2p5MDNpZzJXYjNCY1o3bkR1V29JaXk4cXRWdG1hNVNsajhFbVp1WXk0MDhFVFpvcjNPSjhfWDd6R20yTFJ2aDg3Z09Fb0ZtWmRXUmx4Y0Y4blRoZEItNHRXWDI0cmlCb3JLVkk3Y1RUODdTLVVZNlRyTjZMT3B0VGJaUlMyaFBGRXZPMlg1VzFYY3lfTHVlYmJHRnJjZktwOERjY0RIU0E5RnRnSGR3UXdTX0FtRld5VGswVQ?oc=5
+
+- Sonam Wangchuk, LAB oppose power JV in Ladakh - The Times of India
+  Sonam Wangchuk, LAB oppose power
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkZ4LVJGRzRwRkcwcHBldEtqNVpHNENCQjEtR2J3VkQzVDNob0JOcklCdV80MzgxRl9NMzVtRE9iczVHeDdJS1hSNVNMTkpwQkJzZ2stU1YxajVzZE1TWi1NVU1zdFFDZlpkUVpFNC1pS0JkeG1hano2STY1b0k3VTF1T2tDSlJkQVJFNWsyM3JrVGRXcnFMSjJ5OVJFa2ZHQ0tIcGJwNUw0ekxsR01VNzFn0gG3AUFVX3lxTE1RemZ2UUltMlB5OGZzaWhIUDdlZjZIemxJQllITmtPY0pfTHhuZmtSNmNkMTJMd2hCLXk5bWpqQWR2T1NXYmJWeFFzUU9VcW9XSnVkeW5ybTg2VHZ5WFpOTmpxbnVjV3dfbEdlNzdZY1QyYmtLUkItV0NFaTBXcGpxSlpuTWw4YlB4Vmg3X3hscTVrUk9NTUpqbVdkdXZ5ZlZoNGpDTjVSRUE4QUV3SXBTTXE0ZmFuUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-04 13:49:58 UTC_
+_Last updated: 2026-05-04 19:24:44 UTC_
