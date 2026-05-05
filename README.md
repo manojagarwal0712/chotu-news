@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
+- India News, 5th May 2026 LIVE Updates: Bengal Political Reactions, Tamil Nadu Aftermath, Delhi, Lucknow, World News
+  
+  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-05-05-2026-news-headlines-10673159/
+
+- Rahul Gandhi slams Congress leaders for ‘gloating’ over TMC loss: ‘Put petty politics aside’
+  
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-slams-congress-leaders-for-gloating-over-tmc-loss-big-step-for-bjp-10673615/
+
+- After Tamil Nadu poll results, MK Stalin’s ‘trust undefeated’ message to DMK workers: ‘We will win again’
+  
+  🔗 https://indianexpress.com/article/india/after-tamil-nadu-poll-results-mk-stalins-trust-undefeated-message-to-dmk-workers-we-will-win-again-10673507/
+
+- Pakistan Navy assists Indian vessel stranded in Arabian Sea, provides emergency supplies
+  
+  🔗 https://indianexpress.com/article/india/pakistan-navy-assists-indian-vessel-stranded-in-arabian-sea-provides-emergency-supplies-10673411/
+
 - In Bengal defeat, Opposition has lost much at the ‘trinamool’ level
   
   🔗 https://indianexpress.com/article/india/in-bengal-defeat-opposition-has-lost-much-at-the-trinamool-level-10673027/
 
-- New dawn: PM Modi calls for ‘badlav’, not ‘badla’
+- $30B stake, Sam Altman ties: Greg Brockman’s testimony highlights in Elon Musk-OpenAI trial
   
-  🔗 https://indianexpress.com/article/india/new-dawn-pm-modi-calls-for-badlav-not-badla-10673009/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/greg-brockman-testimony-highlights-elon-musk-openai-trial-10673691/
 
-- Security forces to stay back amid post-poll violence fears in Bengal
+- OpenAI unveils new ChatGPT iOS app for workplaces and classrooms
   
-  🔗 https://indianexpress.com/article/india/security-forces-to-stay-back-amid-post-poll-violence-fears-in-bengal-10673062/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-unveils-new-chatgpt-ios-app-for-workplaces-and-classrooms-10673654/
 
-- Bihar bridge collapse: Govt seeks Army & BRO help, orders probe
+- Apple’s iPhone 18 Pro leaks reveal 6 major upgrades coming this year
   
-  🔗 https://indianexpress.com/article/india/bihar-bridge-collapse-govt-seeks-army-bro-help-orders-probe-10673031/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-iphone-18-pro-leaks-reveal-6-major-upgrades-coming-this-year-10673599/
 
-- Himanta factor to Gogoi’s loss: Five  key takeaways from Assam elections
+- White House considers vetting AI models before they are released
   
-  🔗 https://indianexpress.com/article/india/himanta-factor-to-gogois-loss-five-key-takeaways-from-assam-elections-10672985/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/white-house-considers-vetting-ai-models-before-they-are-released-10673526/
 
-- Pixxel, Sarvam to launch India’s first orbital data centre satellite for AI training
+- Elon Musk settles SEC lawsuit over Twitter disclosures, $1.5 million fine imposed
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pixxel-sarvam-india-first-orbital-data-centre-ai-training-10672464/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-settles-sec-lawsuit-over-twitter-disclosures-1-5-million-fine-imposed-10673498/
 
-- Want to stop doomscrolling? These 5 tech gadgets could help
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/5-tech-gadgets-to-stop-doomscrolling-10672279/
+- US PE firm Recognize, armed with $1.7 billion fund, scouts for niche IT service companies in India
+  Small IT firms will adapt to AI advancements more quickly than larger competitors. Recognize, a private equity firm founded by
+  🔗 https://www.livemint.com/companies/news/pe-firm-recognize-niche-it-service-companies-india-1-7-billion-fund-francisco-dsouza-muthu-kumaran-ai-11777828085561.html
 
-- Asus ZenBook Duo (2026) review: This Rs 3 lakh dual-screen laptop finally moves beyond the ‘experimental’ phase
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-zenbook-duo-2026-review-10672239/
+- Anthropic partners with Blackstone, Goldman Sachs in $1.5 billion push to bring Claude AI to enterprises
+  Anthropic has launched a new AI services company in collaboration with
+  🔗 https://www.livemint.com/companies/news/anthropic-partners-with-blackstone-goldman-sachs-in-1-5-billion-push-to-bring-claude-ai-to-enterprises-11777960934369.html
 
-- Best mobile data recharge plans under Rs 100 from Jio, Airtel, Vi, and BSNL
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-data-recharge-plans-under-100-jio-airtel-vi-bsnl-2026-10672088/
+- Kiran Mazumdar-Shaw names niece as successor, but she is ‘not hanging up boots yet’; who is Claire Mazumdar?
+  Kiran Mazumdar of Biocon names her niece as her successor. She remains focused on advancing biotechnology and AI.
+  🔗 https://www.livemint.com/companies/news/kiran-mazumdar-shaw-names-niece-as-successor-but-she-is-not-hanging-up-boots-yet-who-is-claire-mazumdar-11777962499836.html
 
-- In emergency room trials, Harvard study finds AI outperformed doctors with 67% accuracy
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/harvard-study-ai-doctors-emergency-room-trial-findings-10671938/
+- Instant help services face scalability test amid worker shortages in peak summer period
+  Seasonal migration and slow workforce formalisation are straining on-demand maid services.
+  🔗 https://www.livemint.com/companies/news/instant-help-services-scalability-test-worker-shortages-peak-period-seasonal-migration-harvest-season-state-elections-11777952947010.html
 
-- SpiceJet’s shrinking fleet puts international operations under scrutiny
-  SpiceJet risks falling below the regulatory threshold for international operations. The threshold is 20 aircraft or 20% of capacity on domestic routes.
-  🔗 https://www.livemint.com/companies/news/spicejet-fleet-international-operations-spicejet-financial-crisis-akasa-air-indigo-air-india-11777896157041.html
+- Zoho's Vembu flaunts his vibrant electric auto in viral post; shares heartwarming encounter with man behind its battery
+  Social media users were surprised to discover that Sridhar Vembu rides an auto for his daily commute.
+  🔗 https://www.livemint.com/companies/people/zohos-vembu-flaunts-his-vibrant-electric-auto-in-viral-post-shares-heartwarming-encounter-with-man-behind-its-battery-11777957289900.html
 
-- Premji-backed Shubham Housing Finance begins talks for  ₹2,000-crore IPO
-  Shubham will join a growing list of specialised housing finance firms looking to tap the public markets.
-  🔗 https://www.livemint.com/companies/shubham-housing-finance-ipo-premji-invest-valuations-creador-11777886928648.html
+- BHEL stock in the spotlight after an electrifying Q4 show
+  BHEL’s shares trade at about 43 times its estimated FY27 earnings per share. All eyes will now be on
+  🔗 https://www.livemint.com/market/mark-to-market/bhel-share-price-bhel-q4-earnings-bhel-drdo-order-manufacturing-industry-india-11777963820418.html
 
-- AP, Reuters, Minnesota Star Tribune among Pulitzer winners for 2025 work
-  AP, Reuters, Minnesota Star
-  🔗 https://www.livemint.com/companies/ap-reuters-minnesota-star-tribune-among-pulitzer-winners-for-2025-work-11777922519215.html
+- SIP mania remains strong despite poor show from Nifty bulls: What could impact investor confidence going ahead?
+  Nifty 50 has risen even less than 2% in the last 24 months. Asian peers and US markets are trading at or close to record high levels.
+  🔗 https://www.livemint.com/market/stock-market-news/sip-mania-remains-strong-despite-poor-show-from-nifty-bulls-what-could-impact-investor-confidence-going-ahead-11777965486337.html
 
-- Blackstone’s Jon Gray Sees AI Creating ‘Huge Boom’ in Blue Collar Jobs
-  Blackstone Inc. President Jon Gray said the boom in artificial intelligence will lead to a surge in blue-collar employment.
-  🔗 https://www.livemint.com/companies/blackstones-jon-gray-sees-ai-creating-huge-boom-in-blue-collar-jobs-11777919488058.html
+- Hero MotoCorp Q4 Results 2026 LIVE: Auto major trades flat ahead of earnings, dividend — What to expect?
+  Brokerages expect Hero MotoCorp to post a strong set of numbers, driven by high volumes, a rise in average selling prices and export market expansion. According to their estimates, both revenue and profit could jump
+  🔗 https://www.livemint.com/market/stock-market-news/hero-motocorp-q4-results-2026-live-hero-motocorp-share-price-hero-motocorp-q4-dividend-earnings-profit-5-may-2026-11777964008423.html
 
-- Ambuja Cements resets expansion strategy as Karan Adani flags cost pressures and execution gaps
-  Ambuja Cements said it would defer parts of growth plan, while prioritizing cost discipline
-  🔗 https://www.livemint.com/companies/company-results/ambuja-cements-strategy-reset-cost-cut-karan-adani-11777902648797.html
+- M&amp;M Q4 results 2026: Profit jumps 42% YoY to  ₹4,667.57 crore; declares a final dividend of  ₹33
+  M&amp;amp;M Q4 results 2026: Profit jumped nearly 42% YoY to  ₹4,667.57 crore. Revenue from operations increased by
+  🔗 https://www.livemint.com/market/stock-market-news/mm-q4-results-2026-profit-jumps-42-yoy-to-4-667-57-crore-declares-a-final-dividend-of-33-11777964170440.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 5 May
-  Gift Nifty was trading around 24,047 level, a discount of nearly 159 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-5-may-11777945260668.html
+- Oil Edges Lower Following Spike With Hormuz Stalemate in Focus
+  Oil edges lower, paring Monday’s gain, as traders track tensions in
+  🔗 https://www.livemint.com/market/oil-edges-lower-following-spike-with-hormuz-stalemate-in-focus-11777964056509.html
 
-- Stocks to watch: L&amp;T, M&amp;M, Tata Tech, Delhivery among 10 shares in focus today
-  The Indian stock market is likely to gaining its losing streak as trends in the Gift Nifty index signalled a negative opening on Tuesday. Amid this backdrop, these stocks will remain
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-l-t-m-m-tata-tech-delhivery-among-10-shares-in-focus-today-11777943858935.html
+- OnePlus Pad 4 vs Xiaomi Pad 8: Which flagship Android tablet should you actually buy?
+  The OnePlus Pad 4 features a powerful Snapdragon 8 Elite Gen 5 processor and larger battery, making it ideal for heavy multitasking. In contrast, the Xiaomi Pad 8 is lighter and more budget
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-pad-4-vs-xiaomi-pad-8-which-flagship-android-tablet-should-you-actually-buy-11777956398658.html
 
-- Buy or sell: Gift Nifty signals gap-down start, Vaishali Parekh recommends three stocks to buy today — 5 May 2026
-  Vaishali Parekh recommends three stocks to buy today. Vishal Mega Mart, Jio
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-5-may-2026-11777943525161.html
-
-- From Gift Nifty, assembly election results to oil prices: 8 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,038 level, a discount of nearly 168 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-assembly-election-results-to-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11777943934959.html
-
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 5 May 2026
-  The Indian stock market ended Monday's session on a positive note. Sumeet Bagadia
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-5-may-2026-11777942022003.html
+- New iPhone 18 Pro Max prototype leak gives a first look at Apple's new, smaller Dynamic Island
+  A tipster on X has shared teh the CAD renders of the iPhone 18 Pro Max which show the new
+  🔗 https://www.livemint.com/technology/gadgets/new-iphone-18-pro-max-prototype-leak-gives-a-first-look-at-apples-new-smaller-dynamic-island-11777944551646.html
 
 - iPhone 17 just overthrew iPhone 17 Pro Max, claims the title of world's best-selling phone in Q1 2026
   The iPhone 17 has become the world's best-selling smartphone in Q1 2026. It captured 6% of global sales
@@ -92,113 +100,105 @@
   States across the wildfire-prone Western
   🔗 https://www.livemint.com/technology/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-11777900048972.html
 
-- Flipkart and Amazon sale: Top smartphone deals including iPhone 17, Pixel 10 and OnePlus Nord 6
-  The sales start on May 5 for Amazon and May 8 for Flipkart, highlighting deals on premium models like the Galaxy S25 Ultra and iPhone 16.
-  🔗 https://www.livemint.com/technology/tech-news/flipkart-and-amazon-sale-top-smartphone-deals-including-iphone-17-pixel-10-and-oneplus-nord-6-11777880150384.html
+- Stock Market News, May 4, 2026: Oil Rises, Dow Falls on Fears of Escalation in Hormuz - WSJ
+  The WSJ published a story on May 4, 2026, about
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmlHZzRDQnVNaU96aHlkZHF5YXp3ZThRUUVQWFVlRVZ6aE0yY1B4SE9JRjkwRjNEaHJTc2g4MWtCWnk5WlBJMVdaclg5WjFlcWxMNWJuajJIMjNaV3Z6UDk5N3FnMm9xYjd1VURoWUdsdDN2UHZMNEdCUWdQMk5vczRLWWhNbW8?oc=5
 
-- Vivo X300 Ultra, X300 FE launching in India soon: Expected price, specifications and features
-  The X300 Ultra boasts a 200MP primary camera, while the X300 FE has a 50MP
-  🔗 https://www.livemint.com/technology/gadgets/vivo-x300-ultra-x300-fe-launching-in-india-soon-expected-price-specifications-and-features-11777881967962.html
+- Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices: Live updates - CNBC
+  Stock futures are higher as Wall Street eyes latest developments in Middle East and oil prices
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5uU0UtNFRUY1h0ekRTUjB2YXZhVnRMemxBS25paWJpVWdkc2RTUDc2OEI4cjVqU01IaTFDUHQzQXRrcFBtLUt4VEF4NDNOWHhBd2NwY05OMmdJSVFNV3hhbkdrcFpNcWZ6b2pVOFZBZllvM3BXNEFZ?oc=5
 
-- Stocks to buy in 2026 for long term: Sona BLW, Atul among top 5 stocks that could give 10-20% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-sona-blw-atul-among-top-5-stocks-that-could-give-10-20-return/slideshow/130814120.cms
+- Asian Stocks Set to Fall as Gulf Tensions Lift Oil: Markets Wrap - Bloomberg.com
+  Asian Stocks Set to Fall as Gulf Tensions
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDkyRWpPWkdLTnFYVldMSU0yTExCOWpWNlB6TGlwZ1NoNlEzd2g1YWVteElncUpoTzJPTldVLXRxajNHZmNsWmozYXZOVVNSbGtDNUN1WXM3OERJdFJBb2VqUXpuZXlwMHRXWGZ0SlRfTWhZaUFhMnZYS29OdWpWZXV6c1Y0akpYRGVzS3J6Y3VNR2UyWExBR3Jubjdyejl3TnNDeHMxM0xOTkZQRUo1aHRVWGM?oc=5
 
-- Gold steady as investors weigh Middle East risks, stalled US–Iran peace talks
-  Spot gold saw a slight uptick, while U.S. futures also edged higher. The ongoing conflict in the Gulf, including naval engagements and maritime blockades, continues to influence market sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-investors-weigh-middle-east-risks-stalled-usiran-peace-talks/articleshow/130814021.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 200 pts, Nifty below 24,050; bank,... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxNa0ZEY05qWFB2SHNIQm1RYzJtbnJtUTdvTXNXR19qS0ctSDdXREFDQWNfSFZGazhaRW1MNE5oOVViaU1PRWRrTXR3dFg4Y190TnNBRUlGVUJXMEpHNU9wYXhhcFNQQUFzTX
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNa0ZEY05qWFB2SHNIQm1RYzJtbnJtUTdvTXNXR19qS0ctSDdXREFDQWNfSFZGazhaRW1MNE5oOVViaU1PRWRrTXR3dFg4Y190TnNBRUlGVUJXMEpHNU9wYXhhcFNQQUFzTXR2TW5GUm5JUFpxc2lDZGMybjl6Ylp2aW96M1BLQWRwOVJ6TXlEQUNyeXViWWhwV0htcVR5YkRiOG0xRjR4SE50NTNmWm1vLW04MDFheHR6a1VtVjVieHFZalZ3bXJYblhxSHY2cVloMGJ4SHNlMmt6blFZaEVoMWtCeS01bGNxOXZXMGkxQnV3QjVZSXJOdjFLSjg2MVNRdlIyMdIBigJBVV95cUxQY2tSUjVKcFoybW4yaW1zZVpLTVdRMTlUZnJqRHJyTk5JU09YRFJXLVA3U0pYSEhJNzFReFdxQUFHZE9DNnc0cmE2dFRMRks5OTNxOHBGTDBsTHJobHZaRVIyaWFXLXJvU3c4aVVRUGZnLTF5R0pDbXc5WUZQT0NPOGhQQjNIdEpFNFJ0S0F1RERvT3ZZZjRnSFJZTS1IeG5Ba1IxMWs0N2N1UHlaNHBzMmI3Y3ZwVjBzQmlVWmplM0pISkhqbjQ3d2MwanVyWUlpRERtY3RVYzhwaW40ZWFRUnNuZ1BaQVVNeU0xT093MTJmeFdsaHlUS2ZfNTRMQVZ4Y2pZbjdoaldLQQ?oc=5
 
-- Yen steady, dollar firms on Middle East war fears
-  The yen steadied after suspected intervention, while the dollar strengthened on safe-haven demand. Investors await the Reserve Bank of Australia's policy decision, with a rate hike widely anticipated to combat inflation. The yen's future hinges on oil prices
-  🔗 https://economictimes.indiatimes.com/markets/forex/yen-steady-dollar-firms-on-middle-east-war-fears/articleshow/130814003.cms
+- Election results 2026: What West Bengal, Assam outcomes mean for stock markets; experts weigh in - Upstox
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd0o4MGhWYmNqVlpSTktqbGtHcnBXeHN2OWpucFJ2OXNSSl9EVkNsaHVCQjlHSnk0dWZfXzFuY1VnMVV4NG01RUFRV2pYS3BTT0FZT2RrT1QwNUN3VjFndlhYV2hGcEZTdlJLUmRkX1FvanlVVG5LNDBJOWEyZjVBLTBQei0yQ3BMdGNiTUlTUU1fLWlzRWZpZmlKdlJwRE5ReTV5R1pzdWxoT1ZCMUx0SFpzYjJfeGpFcHJfMndzczBfMzFwZTdpLWRIUmdjLWE0QTZ3RlVWb1R6cExwWngybWs1U3NmQlU?oc=5
 
-- GIFT Nifty trades slightly lower, signals cautious opening for D-Street
-  Nifty rebounded to 24,119 on Monday, driven by easing crude prices and improved risk sentiment. Analysts anticipate a sustained upward trend, contingent on softer oil prices, strong domestic data, and political clarity
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130813798.cms
+- Energy, banks, EMS stand out as key bets in volatile market: Manish Sonthalia
+  Global crude oil prices and geopolitical uncertainty in West Asia are the primary drivers of market direction, overshadowing domestic factors. CIO Manish Sonthalia warns that sustained supply disruptions could significantly impact FY27 earnings estimates and
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/energy-banks-ems-stand-out-as-key-bets-in-volatile-market-manish-sonthalia/articleshow/130819988.cms
 
-- Oil eases on signs US is loosening Iranian closure of Strait of Hormuz
-  U.S. Navy began operations to reopen Strait of Hormuz. This eased immediate supply disruption fears. Iran launched attacks in the Gulf. Several commercial vessels were struck.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-on-signs-us-is-loosening-iranian-closure-of-strait-of-hormuz/articleshow/130813763.cms
+- Global Markets | Australian shares fall as RBA rate hike hits financials, miners
+  The Reserve Bank of Australia increased its cash rate by 25 basis points. Inflation remains a concern due to rising oil prices. The central bank also lowered its economic growth forecast.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-as-rba-rate-hike-hits-financials-miners/articleshow/130820185.cms
 
-- "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
-  "Bloody Hell": Omar Abdullah's Post As
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
+- How US’ dumb money became most influential force on Wall Street, explains Ruchir Sharma
+  Retail investors in the US have shifted from being seen as ‘dumb money’ to a powerful market force. Their resilience has been strong enough to influence professional investors.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/how-us-dumb-money-became-most-influential-force-on-wall-street-explains-ruchir-sharma/articleshow/130819491.cms
 
-- Modi’s party poised for big wins in Indian state elections - Al Jazeera
-  Modi’s party poised for big
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
+- M&amp;M Q4 Results: Standalone PAT jumps 53% YoY to Rs 3,737 crore; Rs 33/share dividend declared
+  M&amp;M board also recommended a final dividend of Rs 33 per ordinary equity share of face value Rs 5 each, for FY26. The record date for
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mm-q4-results-standalone-pat-jumps-53-yoy-to-rs-3737-crore-rs-33/share-dividend-declared/articleshow/130819247.cms
 
-- West Bengal outcome may realign New Delhi-Kolkata-Dhaka ties - The Times of India
-  West Bengal outcome may realign New Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0h3dTV2VVY0YVZmSVplYnIyeFNrTEcxZHA1Zi1lcl9xWDBmRUM5UUtuMy1mLVplbFc2UkZVQldwWHFVOUZDbXQxS1R6cy11U18xMlhiZm85Nzd2ZHdTc3BSVEF4cDJtYjkwblRJSzlrS0xfWFlPYzhOLXdPWTNNa3VGMFRUM0MyRmNxTVEtVWxrMENFdjl5anlzS0lndDhFcVJZWTh4R01wcG4yTXlTZ09aTTQ4dzhRSXpkSHdQZTN1NUxTOHFr0gHMAUFVX3lxTE15Q0lidnVyQVFFbDA1enRNZjd6dU9jTVI3MmRyS0FfM2xnOWhPdkhnRFZaaDM4akR2a0pWRDNtN3NWdGJHbTdDaWRXWTBkOUpoQk5FRDRyaF9NMmFsVUZIYWlUXzZmUjA2SXh4UnROaHhxbzJKMkYwRDgycDYyeFhlQVlCRnhGRXhXaUZYcnpxZ05Dbll3YXhfeHRFRDhKLWNqZWR4aTg2UGxzMWRQUHgwUWF5ajBqYUwydFRKRzl0VWV1YzJXd2N0b24tRQ?oc=5
+- GameStop shares tank 10% as CEO skips fundraising question on $55 billion eBay deal
+  GameStop CEO Ryan Cohen sidestepped questions on funding its $55.5 billion bid for eBay. The proposed half-cash, half-stock deal faces a funding gap despite planned debt and cash use.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gamestop-shares-tank-10-as-ceo-skips-fundraising-question-on-55-billion-ebay-deal/articleshow/130818953.cms
 
-- How election results in states will change Rajya Sabha math | India News - Hindustan Times
-  How election results in states will change Rajya Sabha math.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaG84Nl9OWlRnZkY0SEVaSEtuX0kyV1ZFQ21CM1AwVWQ0UjBCUS0tU2ItajJrSnFFT21aM1pRdzlySWJPNjVab3J0R3E2WDhWVlByUEhVS0cwYWtyTm1pcW1EcGJDME9mSk1iN0RfR1MwQ3c4T3lYSlFnRm5fUU9OVVhOV0Znb1B1NGItS2xWN2RoZUtsRnF6d2d0RzNVSzE2Ni1WYmZ0cGZxdjYzVFRjTU5JNkFDWWRQaEU0Xzk0TjJlQmVwb3FrTi1kSFg4bzVkRktWWHkwaEhIdEUxMlJHalVoN1dFa09FRDdNTktn0gHzAUFVX3lxTFB1QmZHa21sY0huSE5tRk4zQ3BBUWxreV9IYllVZTRmanQxSEotcVF5MDBCdTNiYmdFWTJZMDFaVVJXREhvclhFcmV4T2k2RGtIekgzaE1UeFk2dUF6cjJXUU1Ud2dFQU9rMkxTX2NEUGRJU1VVOWJGSnJuVTRtdjRqYXY5bm1KQmtWWGlMeHZnSTN6OUJLbldYakx1Q0xUcWJGbEgxRHNxRm5KdWR1N1dNV1pCVFA4M3lFcTI3U0hibFJuVG9ad0J1RUF2aHlQMUdqQlgtNE95OWR2d3hkcnI2d0hEZ3N6amQ0S0s5UEVBLS1Nbw?oc=5
-
-- Wanted Criminal Successfully Extradited From UAE: CBI - NDTV
-  The wanted criminal has been
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPejFNT1BEWUl2T1M5cTg5ZnNTazVTc0IyQ0ZSWnlzUkhHQVFfdjUyQmFFbnpMQ29hY1BCOFBEMzVGeXNBYXRTeGQyb0pwbDNGblVEM1BEaFdwQXlQTl9BLTVTNjRmTlhDZlNmWTBLYWZCU2hTV1FDWmdPYWJ4VGw0QlJqSkg0QmY4VEFtUjFpNUI3NzBjamcxU1EyMWtSay16QVdHOXBrcWJDVFI5M0MzdGY4aGRjZzFSTm1JZW42ONIBxwFBVV95cUxPNWV3LWNZNjNsdHhzVGM4ai1JblU2c3Q1dXJZY0U2dWJSOUNvcURTYXVEU3F3THdVU1k5b0p4dEFLck96anF3S05vN2tOSEtCX0tfek1HcU5GLVdHaFpYMm9TTmRsbXgyZXBueFc3cHFBa0c3dG9kZUxBWUY5LXRvSS1tMGYzWVl5dUxSN1c3X3VxdkQ1bWQtQjRWR3l3dy1FZFdMQ1k4OGEzci1TM1B4SXJyTktiQVZXenNka0UyTmtfdGJrTG9n?oc=5
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Modi’s party poised for big wins in Indian state elections - Al Jazeera
-  Modi’s party poised for big
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
+- Vietnam President To Lam arrives Gaya on 3-day Visit to India - News On AIR
+  Vietnam President To Lam arrives Gaya on 3
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDU0TU5HRDdqaEdyTnNYTU5vVTY3ak1TLUd0eHBwWk1wUG5yWGF4WFR6R3hRRkJGRHN6MXp4a0V2a2pqZ1FuUDZFcEJPRVJTOFZhRktiRGxwTE90QXhJbkdSZF9kZG40OVE4c1JDSVRrNVhGRlVOMWFJRHI1TTVHQUNjSGNzSWE5NlladWZ0T0V0MHhlR0E?oc=5
 
-- West Bengal outcome may realign New Delhi-Kolkata-Dhaka ties - The Times of India
-  West Bengal outcome may realign New Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0h3dTV2VVY0YVZmSVplYnIyeFNrTEcxZHA1Zi1lcl9xWDBmRUM5UUtuMy1mLVplbFc2UkZVQldwWHFVOUZDbXQxS1R6cy11U18xMlhiZm85Nzd2ZHdTc3BSVEF4cDJtYjkwblRJSzlrS0xfWFlPYzhOLXdPWTNNa3VGMFRUM0MyRmNxTVEtVWxrMENFdjl5anlzS0lndDhFcVJZWTh4R01wcG4yTXlTZ09aTTQ4dzhRSXpkSHdQZTN1NUxTOHFr0gHMAUFVX3lxTE15Q0lidnVyQVFFbDA1enRNZjd6dU9jTVI3MmRyS0FfM2xnOWhPdkhnRFZaaDM4akR2a0pWRDNtN3NWdGJHbTdDaWRXWTBkOUpoQk5FRDRyaF9NMmFsVUZIYWlUXzZmUjA2SXh4UnROaHhxbzJKMkYwRDgycDYyeFhlQVlCRnhGRXhXaUZYcnpxZ05Dbll3YXhfeHRFRDhKLWNqZWR4aTg2UGxzMWRQUHgwUWF5ajBqYUwydFRKRzl0VWV1YzJXd2N0b24tRQ?oc=5
+- Indigenous defence capabilities power India’s military strength: Sanjay Seth - DD News
+  Indigenous defence capabilities power India’
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQTndodjRacFFhYVc0NHhRal8wTi0ydnQ0TVRMWjJOS2h0cEl3S1p5R21Da09rTG1EeWc3b01iVFluM0xTUWN4Rm9IR2xzVExLdEhNWVJLdXI4OTluNnVKRksweTdwSWVKM2UwSDROUlBaY05JR1VyRFVwUG1NMGRMWVByQUNOMXRrTm8xV1lsN29qZ0hNWE1yQlNnUGNISmp0VEE?oc=5
 
-- How election results in states will change Rajya Sabha math | India News - Hindustan Times
-  How election results in states will change Rajya Sabha math.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaG84Nl9OWlRnZkY0SEVaSEtuX0kyV1ZFQ21CM1AwVWQ0UjBCUS0tU2ItajJrSnFFT21aM1pRdzlySWJPNjVab3J0R3E2WDhWVlByUEhVS0cwYWtyTm1pcW1EcGJDME9mSk1iN0RfR1MwQ3c4T3lYSlFnRm5fUU9OVVhOV0Znb1B1NGItS2xWN2RoZUtsRnF6d2d0RzNVSzE2Ni1WYmZ0cGZxdjYzVFRjTU5JNkFDWWRQaEU0Xzk0TjJlQmVwb3FrTi1kSFg4bzVkRktWWHkwaEhIdEUxMlJHalVoN1dFa09FRDdNTktn0gHzAUFVX3lxTFB1QmZHa21sY0huSE5tRk4zQ3BBUWxreV9IYllVZTRmanQxSEotcVF5MDBCdTNiYmdFWTJZMDFaVVJXREhvclhFcmV4T2k2RGtIekgzaE1UeFk2dUF6cjJXUU1Ud2dFQU9rMkxTX2NEUGRJU1VVOWJGSnJuVTRtdjRqYXY5bm1KQmtWWGlMeHZnSTN6OUJLbldYakx1Q0xUcWJGbEgxRHNxRm5KdWR1N1dNV1pCVFA4M3lFcTI3U0hibFJuVG9ad0J1RUF2aHlQMUdqQlgtNE95OWR2d3hkcnI2d0hEZ3N6amQ0S0s5UEVBLS1Nbw?oc=5
+- India’s state election results are out. Is cash inflow next? Here’s a warning - The Economic Times
+  India’s state election results are out. Is cash inf
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQWnhVanJUSXByMTFjR2hMcllmRm45d25CQTdaNTNVazZPVXdxQXV6S0Z0S08xbll0WVpwUHFXTW50VVRhSEVaS2lYMGhjYXRoNE5mOFgybnlsLXh0aFZKUHoteVlPWWNGZjdvY3RkQ0tNV21kekRlYXNsNXZtRE5qcUlSaDhUTXJTMUFrRVZ3SzNnRHZlSW4zWG9UaHBRR3hRVDlKUDdwak9ONk5WWjFKdF90RmwwcWVFRjdDUERFUG81V3kxMjEyRzFrbUxsMHQ1eC0zRWdBRW5NeHpFQzdPbkd5YmxuVjc2WXh4YThfSlVvaEdRaVpod1JOVFFOVXd6OGwycVN0b3NOZWpWcFJzQXZZbmNhaHZ00gGSAkFVX3lxTE9lVURxRVdWZUpDM1A5ekdWWXB0U1cwN1FxNGlocGNtUDk3YnA1RnVZRmFHeFdnYW1DSTJkVWFnOFFVTGxNVTl0cHdBUVg3aTQzWDNDZFB4R1JkSDExVFZYUDZlM0lvMnFTazdfRlg0SFhWZUR1TW9STEJNRUd6dFZ2ckZ4Y2JZa0xkUnpJUWRmcTJDTHdySmlMRE4yd3lHaDhsQlNhNXItWVhFbWREMkYxdGUweDNqTWY1WGZZb3ltVmgtQjlZeTZaU19Ydmw0SUwzTldueEZZX1BQbFFZcWxVVHB3ZmNfWWVXVWZfMVBiZjYyT0lLVVZrVm5yTzRBdXB1dXVXYkt5Uld1cjNjSU5xNEE?oc=5
 
-- Wanted Criminal Successfully Extradited From UAE: CBI - NDTV
-  The wanted criminal has been
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPejFNT1BEWUl2T1M5cTg5ZnNTazVTc0IyQ0ZSWnlzUkhHQVFfdjUyQmFFbnpMQ29hY1BCOFBEMzVGeXNBYXRTeGQyb0pwbDNGblVEM1BEaFdwQXlQTl9BLTVTNjRmTlhDZlNmWTBLYWZCU2hTV1FDWmdPYWJ4VGw0QlJqSkg0QmY4VEFtUjFpNUI3NzBjamcxU1EyMWtSay16QVdHOXBrcWJDVFI5M0MzdGY4aGRjZzFSTm1JZW42ONIBxwFBVV95cUxPNWV3LWNZNjNsdHhzVGM4ai1JblU2c3Q1dXJZY0U2dWJSOUNvcURTYXVEU3F3THdVU1k5b0p4dEFLck96anF3S05vN2tOSEtCX0tfek1HcU5GLVdHaFpYMm9TTmRsbXgyZXBueFc3cHFBa0c3dG9kZUxBWUY5LXRvSS1tMGYzWVl5dUxSN1c3X3VxdkQ1bWQtQjRWR3l3dy1FZFdMQ1k4OGEzci1TM1B4SXJyTktiQVZXenNka0UyTmtfdGJrTG9n?oc=5
-
-- "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
-  "Bloody Hell": Omar Abdullah's Post As
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
-
-- Modi’s party poised for big wins in Indian state elections - Al Jazeera
-  Modi’s party poised for big
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
-
-- West Bengal outcome may realign New Delhi-Kolkata-Dhaka ties - The Times of India
-  West Bengal outcome may realign New Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0h3dTV2VVY0YVZmSVplYnIyeFNrTEcxZHA1Zi1lcl9xWDBmRUM5UUtuMy1mLVplbFc2UkZVQldwWHFVOUZDbXQxS1R6cy11U18xMlhiZm85Nzd2ZHdTc3BSVEF4cDJtYjkwblRJSzlrS0xfWFlPYzhOLXdPWTNNa3VGMFRUM0MyRmNxTVEtVWxrMENFdjl5anlzS0lndDhFcVJZWTh4R01wcG4yTXlTZ09aTTQ4dzhRSXpkSHdQZTN1NUxTOHFr0gHMAUFVX3lxTE15Q0lidnVyQVFFbDA1enRNZjd6dU9jTVI3MmRyS0FfM2xnOWhPdkhnRFZaaDM4akR2a0pWRDNtN3NWdGJHbTdDaWRXWTBkOUpoQk5FRDRyaF9NMmFsVUZIYWlUXzZmUjA2SXh4UnROaHhxbzJKMkYwRDgycDYyeFhlQVlCRnhGRXhXaUZYcnpxZ05Dbll3YXhfeHRFRDhKLWNqZWR4aTg2UGxzMWRQUHgwUWF5ajBqYUwydFRKRzl0VWV1YzJXd2N0b24tRQ?oc=5
-
-- How election results in states will change Rajya Sabha math | India News - Hindustan Times
-  How election results in states will change Rajya Sabha math.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaG84Nl9OWlRnZkY0SEVaSEtuX0kyV1ZFQ21CM1AwVWQ0UjBCUS0tU2ItajJrSnFFT21aM1pRdzlySWJPNjVab3J0R3E2WDhWVlByUEhVS0cwYWtyTm1pcW1EcGJDME9mSk1iN0RfR1MwQ3c4T3lYSlFnRm5fUU9OVVhOV0Znb1B1NGItS2xWN2RoZUtsRnF6d2d0RzNVSzE2Ni1WYmZ0cGZxdjYzVFRjTU5JNkFDWWRQaEU0Xzk0TjJlQmVwb3FrTi1kSFg4bzVkRktWWHkwaEhIdEUxMlJHalVoN1dFa09FRDdNTktn0gHzAUFVX3lxTFB1QmZHa21sY0huSE5tRk4zQ3BBUWxreV9IYllVZTRmanQxSEotcVF5MDBCdTNiYmdFWTJZMDFaVVJXREhvclhFcmV4T2k2RGtIekgzaE1UeFk2dUF6cjJXUU1Ud2dFQU9rMkxTX2NEUGRJU1VVOWJGSnJuVTRtdjRqYXY5bm1KQmtWWGlMeHZnSTN6OUJLbldYakx1Q0xUcWJGbEgxRHNxRm5KdWR1N1dNV1pCVFA4M3lFcTI3U0hibFJuVG9ad0J1RUF2aHlQMUdqQlgtNE95OWR2d3hkcnI2d0hEZ3N6amQ0S0s5UEVBLS1Nbw?oc=5
-
-- Wanted Criminal Successfully Extradited From UAE: CBI - NDTV
-  The wanted criminal has been
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPejFNT1BEWUl2T1M5cTg5ZnNTazVTc0IyQ0ZSWnlzUkhHQVFfdjUyQmFFbnpMQ29hY1BCOFBEMzVGeXNBYXRTeGQyb0pwbDNGblVEM1BEaFdwQXlQTl9BLTVTNjRmTlhDZlNmWTBLYWZCU2hTV1FDWmdPYWJ4VGw0QlJqSkg0QmY4VEFtUjFpNUI3NzBjamcxU1EyMWtSay16QVdHOXBrcWJDVFI5M0MzdGY4aGRjZzFSTm1JZW42ONIBxwFBVV95cUxPNWV3LWNZNjNsdHhzVGM4ai1JblU2c3Q1dXJZY0U2dWJSOUNvcURTYXVEU3F3THdVU1k5b0p4dEFLck96anF3S05vN2tOSEtCX0tfek1HcU5GLVdHaFpYMm9TTmRsbXgyZXBueFc3cHFBa0c3dG9kZUxBWUY5LXRvSS1tMGYzWVl5dUxSN1c3X3VxdkQ1bWQtQjRWR3l3dy1FZFdMQ1k4OGEzci1TM1B4SXJyTktiQVZXenNka0UyTmtfdGJrTG9n?oc=5
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
 - "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
   "Bloody Hell": Omar Abdullah's Post As
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
 
-- Modi’s party poised for big wins in Indian state elections - Al Jazeera
-  Modi’s party poised for big
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNUVVvcEEyV3NkbnlLUU55UGhHaWlIR3U5NWZwV1I2X2NpQk0zZnpyWGRza1hBY3BuVWZJdnB4RjNTRkdTQmFTWUlzeklnRG9NRXQxcFFBSGFLVVg1TzlqdmVITVZNWVJ0TXdHSXI4R0xXTkZ1U0ZyREdOdmE4T3l0eTJvTmFyZ0hXdmlHeFA4Um0zLThwa3k0dDFINmJJUdIBowFBVV95cUxON1NNNmcxSUpWQzRleUktX3JZdDJJLW1QVF9ub3pTZXVWbHFWYmt4ZzN0MHVZbHZrT3c0UDk5ekhaT19jUnlxdDlKNGFwNm1mQzlJMTBqb1hacEUtMk40Vm50RzZUdGM5bUFUWWdMTW5hSkdVMUVLUWJDZ29kRFVfVkI0VE9yd2tnSUtPdFVUSmdESU1NZFJCaExzZDNRYlVwX1E4?oc=5
+- Vietnam President To Lam arrives Gaya on 3-day Visit to India - News On AIR
+  Vietnam President To Lam arrives Gaya on 3
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDU0TU5HRDdqaEdyTnNYTU5vVTY3ak1TLUd0eHBwWk1wUG5yWGF4WFR6R3hRRkJGRHN6MXp4a0V2a2pqZ1FuUDZFcEJPRVJTOFZhRktiRGxwTE90QXhJbkdSZF9kZG40OVE4c1JDSVRrNVhGRlVOMWFJRHI1TTVHQUNjSGNzSWE5NlladWZ0T0V0MHhlR0E?oc=5
 
-- West Bengal outcome may realign New Delhi-Kolkata-Dhaka ties - The Times of India
-  West Bengal outcome may realign New Delhi-
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0h3dTV2VVY0YVZmSVplYnIyeFNrTEcxZHA1Zi1lcl9xWDBmRUM5UUtuMy1mLVplbFc2UkZVQldwWHFVOUZDbXQxS1R6cy11U18xMlhiZm85Nzd2ZHdTc3BSVEF4cDJtYjkwblRJSzlrS0xfWFlPYzhOLXdPWTNNa3VGMFRUM0MyRmNxTVEtVWxrMENFdjl5anlzS0lndDhFcVJZWTh4R01wcG4yTXlTZ09aTTQ4dzhRSXpkSHdQZTN1NUxTOHFr0gHMAUFVX3lxTE15Q0lidnVyQVFFbDA1enRNZjd6dU9jTVI3MmRyS0FfM2xnOWhPdkhnRFZaaDM4akR2a0pWRDNtN3NWdGJHbTdDaWRXWTBkOUpoQk5FRDRyaF9NMmFsVUZIYWlUXzZmUjA2SXh4UnROaHhxbzJKMkYwRDgycDYyeFhlQVlCRnhGRXhXaUZYcnpxZ05Dbll3YXhfeHRFRDhKLWNqZWR4aTg2UGxzMWRQUHgwUWF5ajBqYUwydFRKRzl0VWV1YzJXd2N0b24tRQ?oc=5
+- Indigenous defence capabilities power India’s military strength: Sanjay Seth - DD News
+  Indigenous defence capabilities power India’
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQTndodjRacFFhYVc0NHhRal8wTi0ydnQ0TVRMWjJOS2h0cEl3S1p5R21Da09rTG1EeWc3b01iVFluM0xTUWN4Rm9IR2xzVExLdEhNWVJLdXI4OTluNnVKRksweTdwSWVKM2UwSDROUlBaY05JR1VyRFVwUG1NMGRMWVByQUNOMXRrTm8xV1lsN29qZ0hNWE1yQlNnUGNISmp0VEE?oc=5
 
-- How election results in states will change Rajya Sabha math | India News - Hindustan Times
-  How election results in states will change Rajya Sabha math.
-  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaG84Nl9OWlRnZkY0SEVaSEtuX0kyV1ZFQ21CM1AwVWQ0UjBCUS0tU2ItajJrSnFFT21aM1pRdzlySWJPNjVab3J0R3E2WDhWVlByUEhVS0cwYWtyTm1pcW1EcGJDME9mSk1iN0RfR1MwQ3c4T3lYSlFnRm5fUU9OVVhOV0Znb1B1NGItS2xWN2RoZUtsRnF6d2d0RzNVSzE2Ni1WYmZ0cGZxdjYzVFRjTU5JNkFDWWRQaEU0Xzk0TjJlQmVwb3FrTi1kSFg4bzVkRktWWHkwaEhIdEUxMlJHalVoN1dFa09FRDdNTktn0gHzAUFVX3lxTFB1QmZHa21sY0huSE5tRk4zQ3BBUWxreV9IYllVZTRmanQxSEotcVF5MDBCdTNiYmdFWTJZMDFaVVJXREhvclhFcmV4T2k2RGtIekgzaE1UeFk2dUF6cjJXUU1Ud2dFQU9rMkxTX2NEUGRJU1VVOWJGSnJuVTRtdjRqYXY5bm1KQmtWWGlMeHZnSTN6OUJLbldYakx1Q0xUcWJGbEgxRHNxRm5KdWR1N1dNV1pCVFA4M3lFcTI3U0hibFJuVG9ad0J1RUF2aHlQMUdqQlgtNE95OWR2d3hkcnI2d0hEZ3N6amQ0S0s5UEVBLS1Nbw?oc=5
+- India’s state election results are out. Is cash inflow next? Here’s a warning - The Economic Times
+  India’s state election results are out. Is cash inf
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQWnhVanJUSXByMTFjR2hMcllmRm45d25CQTdaNTNVazZPVXdxQXV6S0Z0S08xbll0WVpwUHFXTW50VVRhSEVaS2lYMGhjYXRoNE5mOFgybnlsLXh0aFZKUHoteVlPWWNGZjdvY3RkQ0tNV21kekRlYXNsNXZtRE5qcUlSaDhUTXJTMUFrRVZ3SzNnRHZlSW4zWG9UaHBRR3hRVDlKUDdwak9ONk5WWjFKdF90RmwwcWVFRjdDUERFUG81V3kxMjEyRzFrbUxsMHQ1eC0zRWdBRW5NeHpFQzdPbkd5YmxuVjc2WXh4YThfSlVvaEdRaVpod1JOVFFOVXd6OGwycVN0b3NOZWpWcFJzQXZZbmNhaHZ00gGSAkFVX3lxTE9lVURxRVdWZUpDM1A5ekdWWXB0U1cwN1FxNGlocGNtUDk3YnA1RnVZRmFHeFdnYW1DSTJkVWFnOFFVTGxNVTl0cHdBUVg3aTQzWDNDZFB4R1JkSDExVFZYUDZlM0lvMnFTazdfRlg0SFhWZUR1TW9STEJNRUd6dFZ2ckZ4Y2JZa0xkUnpJUWRmcTJDTHdySmlMRE4yd3lHaDhsQlNhNXItWVhFbWREMkYxdGUweDNqTWY1WGZZb3ltVmgtQjlZeTZaU19Ydmw0SUwzTldueEZZX1BQbFFZcWxVVHB3ZmNfWWVXVWZfMVBiZjYyT0lLVVZrVm5yTzRBdXB1dXVXYkt5Uld1cjNjSU5xNEE?oc=5
 
-- Wanted Criminal Successfully Extradited From UAE: CBI - NDTV
-  The wanted criminal has been
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPejFNT1BEWUl2T1M5cTg5ZnNTazVTc0IyQ0ZSWnlzUkhHQVFfdjUyQmFFbnpMQ29hY1BCOFBEMzVGeXNBYXRTeGQyb0pwbDNGblVEM1BEaFdwQXlQTl9BLTVTNjRmTlhDZlNmWTBLYWZCU2hTV1FDWmdPYWJ4VGw0QlJqSkg0QmY4VEFtUjFpNUI3NzBjamcxU1EyMWtSay16QVdHOXBrcWJDVFI5M0MzdGY4aGRjZzFSTm1JZW42ONIBxwFBVV95cUxPNWV3LWNZNjNsdHhzVGM4ai1JblU2c3Q1dXJZY0U2dWJSOUNvcURTYXVEU3F3THdVU1k5b0p4dEFLck96anF3S05vN2tOSEtCX0tfek1HcU5GLVdHaFpYMm9TTmRsbXgyZXBueFc3cHFBa0c3dG9kZUxBWUY5LXRvSS1tMGYzWVl5dUxSN1c3X3VxdkQ1bWQtQjRWR3l3dy1FZFdMQ1k4OGEzci1TM1B4SXJyTktiQVZXenNka0UyTmtfdGJrTG9n?oc=5
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
+
+- "Bloody Hell": Omar Abdullah's Post As Votes Are Counted In 4 States - NDTV
+  "Bloody Hell": Omar Abdullah's Post As
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2QzZ1J3Z3B0T2FUaFV0cGtuc0xKZk1KOE9YNXRYMFBJZ2ZaMmxsYkxRTFlwaHZKVnFVTlI3WEtuWmdBS0RKSGcxVGxWWGVMR3ZJSkdRM0FTTFFoT3dRandhWG1GemlKQ1VCZlFjc1B3RTUzWlJVeDBrbTRvRUtmcURpbzdTZkRFbkRTWDZIQWhFRE5CdGM4dFdSNTNTRTMtQUJwWlFqWEExNDh2VlYydWRDU3ZGeUJWbll5QkhFdU0wX0Jxc0RBNnBENUJVV2VL0gHYAUFVX3lxTE9OVnVoSXhmYjhnRTlfOExzdG54c0trcWt3WGtBZkpXSDJHeXByX2xpOWdkVU5fSDFiZzJ4eklRalp2X2p1aVlFa2o5OWRlT2pvV2kzWm8xMDVlRTBIVUVFUzBDUUN4ZTU5Wm5KYUNOcHdIME1qN0ZCS1JKRm83Q2ZZVGVKd1VoVFdHbk1uSXZmbXA5bjJNLUlXd0pYcTU4eDktcF9YOTJacExhYW9lQUNGblljTGoxazdHdlFZOTI4WFV2VDZWdm9HdlZTN3UyU1ppN3BKYmlmcA?oc=5
+
+- Vietnam President To Lam arrives Gaya on 3-day Visit to India - News On AIR
+  Vietnam President To Lam arrives Gaya on 3
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDU0TU5HRDdqaEdyTnNYTU5vVTY3ak1TLUd0eHBwWk1wUG5yWGF4WFR6R3hRRkJGRHN6MXp4a0V2a2pqZ1FuUDZFcEJPRVJTOFZhRktiRGxwTE90QXhJbkdSZF9kZG40OVE4c1JDSVRrNVhGRlVOMWFJRHI1TTVHQUNjSGNzSWE5NlladWZ0T0V0MHhlR0E?oc=5
+
+- Indigenous defence capabilities power India’s military strength: Sanjay Seth - DD News
+  Indigenous defence capabilities power India’
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQTndodjRacFFhYVc0NHhRal8wTi0ydnQ0TVRMWjJOS2h0cEl3S1p5R21Da09rTG1EeWc3b01iVFluM0xTUWN4Rm9IR2xzVExLdEhNWVJLdXI4OTluNnVKRksweTdwSWVKM2UwSDROUlBaY05JR1VyRFVwUG1NMGRMWVByQUNOMXRrTm8xV1lsN29qZ0hNWE1yQlNnUGNISmp0VEE?oc=5
+
+- India’s state election results are out. Is cash inflow next? Here’s a warning - The Economic Times
+  India’s state election results are out. Is cash inf
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQWnhVanJUSXByMTFjR2hMcllmRm45d25CQTdaNTNVazZPVXdxQXV6S0Z0S08xbll0WVpwUHFXTW50VVRhSEVaS2lYMGhjYXRoNE5mOFgybnlsLXh0aFZKUHoteVlPWWNGZjdvY3RkQ0tNV21kekRlYXNsNXZtRE5qcUlSaDhUTXJTMUFrRVZ3SzNnRHZlSW4zWG9UaHBRR3hRVDlKUDdwak9ONk5WWjFKdF90RmwwcWVFRjdDUERFUG81V3kxMjEyRzFrbUxsMHQ1eC0zRWdBRW5NeHpFQzdPbkd5YmxuVjc2WXh4YThfSlVvaEdRaVpod1JOVFFOVXd6OGwycVN0b3NOZWpWcFJzQXZZbmNhaHZ00gGSAkFVX3lxTE9lVURxRVdWZUpDM1A5ekdWWXB0U1cwN1FxNGlocGNtUDk3YnA1RnVZRmFHeFdnYW1DSTJkVWFnOFFVTGxNVTl0cHdBUVg3aTQzWDNDZFB4R1JkSDExVFZYUDZlM0lvMnFTazdfRlg0SFhWZUR1TW9STEJNRUd6dFZ2ckZ4Y2JZa0xkUnpJUWRmcTJDTHdySmlMRE4yd3lHaDhsQlNhNXItWVhFbWREMkYxdGUweDNqTWY1WGZZb3ltVmgtQjlZeTZaU19Ydmw0SUwzTldueEZZX1BQbFFZcWxVVHB3ZmNfWWVXVWZfMVBiZjYyT0lLVVZrVm5yTzRBdXB1dXVXYkt5Uld1cjNjSU5xNEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-05 02:17:55 UTC_
+_Last updated: 2026-05-05 08:05:04 UTC_
