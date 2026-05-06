@@ -1,184 +1,204 @@
 # 📰 Daily News Summaries
 
-- Stunned by scale of Assam drubbing, Congress cries foul over margins
-  
-  🔗 https://indianexpress.com/article/india/stunned-by-scale-of-assam-drubbing-congress-cries-foul-over-margins-10674910/
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Fisherman, student leader, and now MLA: Meet Congress’s 30-year-old legislator from Kerala’s Alappuzha
-  
-  🔗 https://indianexpress.com/article/india/fisherman-student-leader-and-now-mla-meet-congresss-30-year-old-legislator-from-keralas-alappuzha-10674802/
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
-- Man poses as Rahul Gandhi’s aide to swindle Congress leaders across country over several years: Police
-  
-  🔗 https://indianexpress.com/article/india/man-poses-as-rahul-gandhis-aide-to-swindle-congress-leaders-across-country-over-several-years-police-10674845/
+- Fact Check: Govt debunks digitally altered video claiming Pakistan jammed India’s systems last year - News On AIR
+  The Indian government claims Pakistan jammed India’s systems last year.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDAta1JpNWIzbFlXeDBEX3F2QnF3T19uN2hrWTdUMm5zUVJva1phLTl2dnZob0x1a0gzeTlFRUx2Y2RLYm5mSE1lSHJGNEpfdUNrTTdUU0hzaXB1M1V3RlpFeFBYeGtLb3VsU2liNk1nZWFsZXlWNFZVQjhrVC1GUTRsVXZiVkppcXNIRzZVYjQ4OW9PSXZfTmZvVmROWU9fUnFRV2ZnejhwcWtKVmpvbU1iVDllQzJ4Vl84bC1hZm5XVm5rVkE?oc=5
 
-- Centre okays Gujarat shipyard, 3 rail projects to ease up congestion
-  
-  🔗 https://indianexpress.com/article/india/centre-okays-gujarat-shipyard-3-rail-projects-to-ease-up-congestion-10674930/
+- 5 Home Fire Safety Tips Everyone Should Know In India - NDTV
+  5 Home Fire Safety Tips Everyone Should Know
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1lCZDhUeHYxSV9hTXpqM2NTd2t2XzQ4YTJvdnFYVDB6TVFXOEt1TFUyMXo2WERNLWppVFZsMGFoR05xMzE2TVk1V3RXQmhTaFRkS2pqWExoR0ZXd2RJN19ob05qT1lCdlVzQXFNTmcxcUZaRnpBVjVoUnVPelI1WXZac192YnRmQjBRQlBRejN1dkw0MnlMNWxR0gGiAUFVX3lxTE1aYWhNYXlFZkptV1ZUdDl3RHEtSUFIVHBfNFhzb0ZkOWx1bURFbDF6empDMzZTQkZ2ZUp2ZWF4cXFkRUxsVF95c19mSXFsXzR0M2FQQnVPVjZJMFpkZGdPYWhKVEkyZ2VpT2VSOElLeXIxYUUwSnRVRnlMNFE4WlYwaThJNFY2eTd5XzQxVS1NMnFLT3BUMm82OHRsRnZTY2tOdw?oc=5
 
-- Govt nod to Rs 5,659 cr for five-year mission to increase cotton yield
-  
-  🔗 https://indianexpress.com/article/india/govt-nod-to-rs-5659-cr-for-five-year-mission-to-increase-cotton-yield-10674931/
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
-- What OpenAI, Anthropic’s new enterprise AI services ventures mean for Indian IT firms
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-enterprise-ai-services-ventures-it-sector-10674418/
+- Mphasis sues Coforge in US court over employee hiring, client exposure claims
+  Blackstone-owned Mphasis has alleged that rival Coforge recruited its employees in breach of contractual restrictions.
+  🔗 https://www.livemint.com/companies/news/mphasis-files-a-complaint-against-coforge-for-poaching-employees-11778040735729.html
 
-- Amazon Summer Sale 2026: Galaxy S25 Ultra and iPhone 16 among top deals across segments
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-summer-sale-2026-galaxy-s25-ultra-and-iphone-16-among-top-deals-across-segments-10674392/
+- Aadhar Housing targets 20% growth in FY27, eyes  ₹50,000 crore AUM in three years
+  The Blackstone-backed lender said West Asia tensions have no material impact on loan book. It sees
+  🔗 https://www.livemint.com/companies/news/aadhar-housing-targets-20-growth-in-fy27-eyes-50-000-crore-aum-in-three-years-blackstone-11778037971131.html
 
-- Strange anti-matter ‘atom’ makes waves in new study
-  
-  🔗 https://indianexpress.com/article/technology/science/strange-anti-matter-atom-makes-waves-in-new-study-10663990/
+- Facebook founder's venture firm to step up investments in India's deeptech, AI and robotics sectors
+  B Capital, led by Eduardo Saverin, plans to invest $50-$100 million annually. The firm, which manages over
+  🔗 https://www.livemint.com/companies/news/facebook-founder-venture-firm-b-capital-step-up-investments-in-india-deeptech-ai-energy-transition-robotics-karan-mohla-11777992238611.html
 
-- Eta Aquarid Meteor Shower 2026: When and how to watch in India
-  
-  🔗 https://indianexpress.com/article/technology/science/eta-aquarid-meteor-shower-2026-tomorrow-when-and-how-to-watch-in-india-10674389/
+- Veritas Finance explores  ₹1,000 crore secondary deal as IPO plans delay
+  Chennai-based NBFC considers  ₹800–1,
+  🔗 https://www.livemint.com/companies/start-ups/veritas-finance-private-transaction-secondary-sale-ipo-delay-nbfc-msme-lending-investor-exits-lok-capital-bii-11778036271239.html
 
-- Flipkart SASA LELE Sale 2026: Top 5 smartphones under Rs 25,000
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/flipkart-sasa-lele-sale-2026-top-5-smartphones-under-rs-25000-10674318/
+- Samsung hits $1 trillion valuation driven by booming demand for AI chips, joins TSMC in elite club
+  World's largest memory maker's stock more than quadruple over the past year. booming demand for chips used in artificial intelligence saw the world's
+  🔗 https://www.livemint.com/news/samsung-hits-1-trillion-valuation-driven-by-booming-demand-for-ai-chips-joins-tsmc-in-elite-club-11778036706574.html
 
-- Man charged in US with stealing $450 million from Mexican billionaire in loan scheme
-  Man charged in US with stealing $450 million
-  🔗 https://www.livemint.com/companies/man-charged-in-us-with-stealing-450-million-from-mexican-billionaire-in-loan-scheme-11778029772029.html
+- L&amp;T's wings clipped by geopolitical tensions, recovery likely in H2 of FY27
+  Larsen &amp;amp; Toubro faces challenges from geopolitical tensions, impacting its revenue and operating margins. Despite a record order book of 
+  🔗 https://www.livemint.com/market/lt-geopolitical-tensions-recovery-h2-of-fy27-strong-order-inflows-infrastructure-energy-eps-estimates-trimmed-11778051275947.html
 
-- A  ₹15,000-crore wipeout: how Xiaomi lost India’s smartphone race to Vivo, Samsung and Apple
-  Xiaomi has slipped out of the top five as rivals dominate a market reshaped by premiumization,
-  🔗 https://www.livemint.com/companies/a-15-000-crore-wipeout-how-xiaomi-lost-india-s-smartphone-race-to-vivo-samsung-and-apple-11777909819584.html
+- Middle East war threatens to derail Indian economic growth: Should stock market investors be worried?
+  Experts warn that rising crude oil prices and geopolitical tensions could lead to modest stock market returns and increased volatility.
+  🔗 https://www.livemint.com/market/stock-market-news/middle-east-war-threatens-to-derail-indian-economic-growth-should-stock-market-investors-be-worried-11778050802183.html
 
-- Why Google DeepMind workers in  UK are trying to unionise over company's Pentagon AI deals
-  Google DeepMind employees in the UK have voted to unionise. They want an end to Google's Pentagon AI deal and military contracts.
-  🔗 https://www.livemint.com/companies/news/google-deepminds-uk-workers-vote-to-unionise-over-pentagon-ai-deal-a-first-for-frontier-ai-labs-11778025670418.html
+- FIIs sell Indian stocks worth  ₹1.98 lakh crore in just four months. Can this trend reverse in May?
+  So far in May, FIIs have extended their selling streak, offloading shares worth  ₹5,052 crore. India’s relative under
+  🔗 https://www.livemint.com/market/stock-market-news/fiis-sell-indian-stocks-worth-rs-1-98-lakh-crore-in-just-four-months-can-this-trend-reverse-in-may-11777963398053.html
 
-- Freshworks to cut 11% jobs as AI reshapes software sector
-  Freshworks to cut 11
-  🔗 https://www.livemint.com/companies/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-11778012621424.html
+- Mahindra's next challenge: maintaining its growth lead
+  Mahindra's capacity expansion plans, a deep SUV pipeline, and improving EV economics continue to support management’s confidence in delivering
+  🔗 https://www.livemint.com/market/mark-to-market/mm-q4-earnings-m-m-share-price-ev-passenger-vehicle-auto-industry-india-mahindra-mahindra-11778050139637.html
 
-- Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results
-  Thomson Reuters Corp. shares fell despite positive first-quarter results. Anthropic PBC unveiled new artificial intelligence
-  🔗 https://www.livemint.com/companies/fresh-ai-disruption-selloff-hits-thomson-reuters-despite-strong-results-11778006588057.html
+- Value 360 Communications IPO Day 3: Issue booked 77% so far. Check GMP, issue details, more
+  Value 360 Communications IPO runs from May 4-6, priced at  ₹95-98 per share. Shares allocation is on May 7, with listing on May 11.
+  🔗 https://www.livemint.com/market/ipo/value-360-communications-ipo-gmp-value-360-communications-ipo-subscription-status-value-360-communications-ipo-review-11778049243528.html
 
-- Funding curbs on prop traders: Brokers forum to meet RBI today
-  The Association of NSE Members of India is seeking relaxation of an imminent bar on bank funding to proprietary firms for trading
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-capital-market-norms-prop-trading-funding-bank-guarantees-india-anmi-rbi-meeting-proprietary-traders-nse-derivatives-11777994086937.html
+- Apple agrees to pay $250 million to iPhone 15 and 16 users to settle lawsuit over missing Siri AI features
+  The settlement, pending approval, will compensate iPhone 15 and 16 buyers. Apple faces criticism for delays in its promised Siri update and AI capabilities.
+  🔗 https://www.livemint.com/technology/tech-news/apple-agrees-to-pay-250-million-to-iphone-15-and-16-users-to-settle-lawsuit-over-missing-siri-ai-features-11778048710953.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 6 May
-  The key indices, Sensex and Nifty 50, ended lower on 5 May, driven by profit-taking. Mid- and small-cap stocks showed gains. Analysts suggest five stocks
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-6-may-11778031381221.html
+- Pixxel, Sarvam to build India’s first orbital data centre satellite amid space computing push
+  India is taking early steps toward space-based computing. Pixxel and Sarvam partner to build an orbital data centre satellite. Move comes amid rising global interest and energy constraints.
+  🔗 https://www.livemint.com/technology/pixxel-sarvam-to-build-india-s-first-orbital-data-centre-satellite-amid-space-computing-push-11778046621428.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 6 May
-  Gift Nifty was trading around 24,322 level, a premium of nearly 216 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-6-may-11778031595702.html
+- Samsung Galaxy smartwatches bring premium features at better prices now
+  Samsung Galaxy smartwatches are now available at attractive prices. It's easier to upgrade to premium features like health tracking, AM
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-smartwatches-bring-premium-features-at-better-prices-now-11778044090366.html
 
-- Asian markets today: South Korea's Kospi hits record high amid US-Iran peace talks hopes
-  South Korea’s Kospi index scaled a new record high, surpassing the 7,000 mark. It climbed 381
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-hits-record-high-amid-us-iran-peace-talks-hopes-11778030164276.html
+- OpenAI quietly gave US government early access to its powerful GPT-5.5 model for ‘national security testing’
+  OpenAI provided early access to its GPT-5.5 AI model for national security testing to the US government. The company is also collaborating
+  🔗 https://www.livemint.com/technology/tech-news/openai-quietly-gave-us-government-early-access-to-its-powerful-gpt-5-5-model-for-national-security-testing-11778044250327.html
 
-- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 6 May 2026
-   Vaishali Parekh recommends three stocks to buy today
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-6-may-2026-11778029929946.html
+- Vivo X300 Ultra Launch LIVE Updates: Vivo X300 Ultra launch minutes away - How to watch live-stream?
+  Vivo X300 Ultra will be launched at a launch event in Delhi today. Vivo is all set to launch
+  🔗 https://www.livemint.com/technology/gadgets/vivo-x300-ultra-vivo-x300-fe-launch-live-updates-expected-price-in-india-specifications-display-camera-snapdragon-11778041331163.html
 
-- ChatGPT becomes smarter, less verbose and better at remembering you with new GPT-5.5 Instant update
-  GPT-5.5 Instant reduces hallucinations by 52.5% and enhances performance in everyday tasks. It also offers better memory capabilities and personalization options for users
-  🔗 https://www.livemint.com/technology/tech-news/chatgpt-becomes-smarter-less-verbose-and-better-at-remembering-you-with-new-gpt-5-5-instant-update-11778027475461.html
-
-- Factbox-What we know about US stress tests of Google, xAI and Microsoft AI models
-  US stress tests of Google, xAI and
-  🔗 https://www.livemint.com/technology/factboxwhat-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models-11778018927864.html
-
-- Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors
-  Pennsylvania sues AI company, saying its
-  🔗 https://www.livemint.com/technology/pennsylvania-sues-ai-company-saying-its-chatbots-illegally-hold-themselves-out-as-licensed-doctors-11777994458278.html
-
-- India smartphone supplies to decline 10-12 pc in 2026, Vivo tops Q1 chart, says CMR
-  India smartphone supplies to decline 10-12 pc in
-  🔗 https://www.livemint.com/technology/india-smartphone-supplies-to-decline-10-12-pc-in-2026-vivo-tops-q1-chart-says-cmr-11777981709296.html
-
-- OpenAI's ChatGPT phone fast-tracked, launch timeline and key specs leaked in new report
-  OpenAI is accelerating the production of its first AI agent smartphone, with mass production
-  🔗 https://www.livemint.com/technology/tech-news/openais-first-smartphone-launch-fast-tracked-launch-timeline-and-key-specs-leaked-in-new-report-11777972280842.html
-
-- Sensex Today | Stock Market Live: GIFT Nifty signals a strong opening; US, Asian markets gain - Moneycontrol.com
-  "Sensex Today: GIFT Nifty signals a strong opening"
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxONEFVc3JoUHBmX0Yzd0t6LVRhaUp4NUZFU3g3VkwyVko4aHdSWU1aWTN5TloyNFdFamg3M1pYbmNNR0pvbDliSXg5SjlQREJGVEpYMzBPWktuSWxjc3Z6c25VSWJxWnhLNGJ4Mm1qMzdzaklCTkExbENDeE85LXFDQm5GMk5hY1djRjY2UzVVVzNySzFFUWItSy1FTHU2TGlRQVQtWjFZODJvTTZxcFh4bjRNclhRdFNzTVA0R2FvZS15N2pvSFBPRkNFNlhsb1hROTBfM2ZlZHNKQUxoQjZnRlk1bEJSZFpUWDlfRUptdXdpbk13VUxJUmVtdGtNLTEzUVpoZDF0S1Q4TnlYRVFLZmh1SdIBmAJBVV95cUxPeUdrN0gxX2VzTTZZUWstbURyOEgzVnNBWUc5SlgzdEdqdTNkRzk2cklmT1R4SDNpbERwelpPNHhVVUNrdXNaNS02RUVVRWNzVzg5MEN4T0hzR2pIcml5M3lhOXdpalBuMzhwVjd1TVFmenNtbWZBV0NxOTZmeElwTnRfNVRiZUdCODZnUTZBWTkyWnZQQks5eGtqRlMyQkREMzdjbUNOWE80a1lYVTFTNVBkcFYzUm45TDZTZXIwYjJJTWQ3RXVJTTNDVExkdVhFU0IxRk5VSjNkYmFDUFhCQURJVDJ0QThacEFUMjdQcXdDZ3ZBXzhWZ1FLa0t6Ujc5X3NNMHZjaTloZUtySHZIUEVYYV9hQmtn?oc=5
-
-- From Gift Nifty, US-Iran peace talks to Nasdaq, Kospi rally: 10 things that changed for Indian stock market overnight - MSN
-  &nbsp;&ngt;<font color="#6f6f
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQWjhlRmNEbl9pQWxDajl0UVVrSkVrSERCclJwR21rYk9VVV94MGV1UHpmQlNlcUxWd3B1aU5SOXIzRUREcDZaNWdPN0hsNmk1U3M4Z2hQQmVObjVWVlYwNEdLdUlucVMtRHpVcFh5dU1zcUNXMzVwWGM0NWgwOHd1Y25sbDhSN3p3NmJySnJMQjZ5RkxORFJpQld2V2J2STJQMEpIRjRGMUEzWFpiWlhkcW9FbjZRb3VubU5YZ3JnTjR1ckZCM1pBZjNvZGFUQ3pyR05tZWN0eTJmQzF4MDJDakdfWVpabUhmbG4waUtmUGNIeWxtRE94YlN4Ykg3RzRobnR4RmZYN21NNXVGM0ZGOGNDYjFWaVF2ck03UA?oc=5
-
-- First Tick: Top global cues to watch in today’s trade - Moneycontrol.com
-  Moneycontrol.com has compiled a list
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUlxeHhYd1JoZEo4RjNWNnp0SjFjMFI0eC1Pd180b1Y4STVTaHgtb1JsZTNpdjJNUDQwTm5FX3lkaEY1NDBtR1ZhZE5TRHNVZVRidk5pVUR6SWFIbUFiM0s4Z2FKbUQ1SUk5eFVwWXRfd05GMGtCVThiSUxNSm9Oc0hVNmFKbWlSSUJIOHNPOWVpWThIdmF6S1lSNEkxRFBSaW9lampSVDhxdDE3c3Z5YkpLbTJySXJoaE1ZMWhB0gHDAUFVX3lxTE9FZWFXRnQ2VlN6b081LWlld1dHV2R2d2J0V1kxeENUUks5SjdaWlpKcTg1OFM5SXBYNzlRU3dkUUtSZW5MZmJSMW44b2JiNlhkLXhwbEY2b0FRVmF2NDJFNGtSaTNlOXFyX1FUVWJwSUNRalpsSHk5OXVpWjJUXzVMQWd2aFhfRXkwVHh1NUdVTDZ0eHZyMmpCQkxXRURaM21zNTN4bmpJY0lQZ18zYWIxbWJ5dGlpQ1l0ZzJTVng0ZEhJaw?oc=5
-
-- Asia-Pacific markets set to track Wall Street gains as Trump signals de-escalation in Iran conflict - CNBC
-  Asia-Pacific markets set to track Wall Street gains as Trump signals
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGVUMk9ybU53T2wxUmxhWXlzX0J6NlQyeno5b1Y0cnBJcTRfWEFROUFEeVFXUFJOcllfWGxmM2Z0UllWaDBuOG9fUVZ4S3EwVHlQaElyeTV0ZzJpS1JkSGljSHVzOU1YTkx1WkQ4YlhEa1prYk5Ob2VCZFRObHo5M1NlUm1ITVp6alQ1a1U1eWxpZ0lTODRF0gGcAUFVX3lxTE9fMFZ0cE5QaHU4X1ZLVm04eDBBTDFDODF2czFBOVZmbWFDSGR3MVJwZ3dvaXpCVVJxQ3V6TGJhNExDbTZYSjZ5el9EcXREZE9lbVJ0bnVud2FpX2plMlFPTkNYUjYtMFFUTW80bnJaYjRuU0w0VFo5dTdPNDhhT0tlcWh5RDBjQ0ZHMzFSVnNud240WWZOYmVGWHphbg?oc=5
+- Stock Market News, May 5, 2026: Nasdaq, S&P Rise to Fresh Records, Led by Intel - WSJ
+  The WSJ looks at the future of the stock market. The
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2ZDbHNNTlE2amZHU2wwQmpBWGw1Qi1OZ0V5RmdnWHM1ZS1ZTjdWcW5Nb3NURTVkTVRXYWlLaWxJV250cE95RUEtc1ZKU0dKMjZaS1A5bmNqdHNrUVhUS2VkTjYwQ0NoQnVPbEQ1b2YtSi14eVY1c0J6TVdLQjVIenRoSl9SSnM?oc=5
 
 - Markets News, May 5, 2026: Nasdaq, S&P 500 Hit New All-Time Highs as Tech Shares Rally; Oil Prices Retreat After Surging on Middle East Tensions - Investopedia
   Markets News, May 5, 2026: Nasdaq, S&amp;P 500 Hit New All-
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHNkdllsSU80d2RTdEVSRnZoN25OWUJsRk9YNkRDUy0xeTBzc01qTklSNWlhMkExNEVxUjZQNG85WFN6Y1FNOHpCTVVaTDZSbF81SDBJRGZiVDlYb01xVGRkUGZmaVlmSnBiSDhBYW5vQTl6QS1lR29lQlZtWTlxQnhlUlVNLWpoTFdkVkxIR0w?oc=5
 
-- Gold jumps on weaker dollar, Middle East peace hopes
-  Gold prices surged over 1% as a weaker dollar and easing oil prices reduced inflation concerns. President Trump's decision to pause a Strait of Hormuz operation contributed to the dollar's decline and eased geopolitical tensions.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-on-weaker-dollar-middle-east-peace-hopes/articleshow/130842162.cms
+- South Korea's Kospi tops 7,000 to hit a new high as heavyweight Samsung surges 15% - CNBC
+  South Korea's Kospi tops 7,000 to hit a
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGVUMk9ybU53T2wxUmxhWXlzX0J6NlQyeno5b1Y0cnBJcTRfWEFROUFEeVFXUFJOcllfWGxmM2Z0UllWaDBuOG9fUVZ4S3EwVHlQaElyeTV0ZzJpS1JkSGljSHVzOU1YTkx1WkQ4YlhEa1prYk5Ob2VCZFRObHo5M1NlUm1ITVp6alQ1a1U1eWxpZ0lTODRF0gGcAUFVX3lxTE9fMFZ0cE5QaHU4X1ZLVm04eDBBTDFDODF2czFBOVZmbWFDSGR3MVJwZ3dvaXpCVVJxQ3V6TGJhNExDbTZYSjZ5el9EcXREZE9lbVJ0bnVud2FpX2plMlFPTkNYUjYtMFFUTW80bnJaYjRuU0w0VFo5dTdPNDhhT0tlcWh5RDBjQ0ZHMzFSVnNud240WWZOYmVGWHphbg?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-up start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-bajaj-auto-share-price-06-may-2026/liveblog/130842103.cms
+- Stock Market LIVE Updates, Sensex Today: Sensex Jumps 100 Points, Nifty Up 55 As Oil Prices Retreat - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjNHRFdKcEI5N2Z3WTNwU3JXY012RXE2OHpaYmx3cTEzN3BJcFY3LVJtVGhsSVVuUU9wckozVEpKZFNnNFNXYUd0Q1Y5azI4M01LVmFpbnN2OXJBSlBUN3BvOGs0WnJUdm
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjNHRFdKcEI5N2Z3WTNwU3JXY012RXE2OHpaYmx3cTEzN3BJcFY3LVJtVGhsSVVuUU9wckozVEpKZFNnNFNXYUd0Q1Y5azI4M01LVmFpbnN2OXJBSlBUN3BvOGs0WnJUdm5ZM1hNamV2OTdYeG1wSHhDRl9icDZyb1pOQ0ZNZDM0NDYzcklBQXphTzZhbEVaalVpcWJudGtZNkN6TVFEU0NPcVoxcXY1WFJiZC1EWHdSSUI3aEJqVDRKbnBqTWUtdWdRSUhtWHh1UVpJREJEQWQ5WHdXOExV0gHnAUFVX3lxTFA3V29uWXUxb0JxMXBWVThOX09qcU9BbFBuRm1XWVc5aUZzT1c0bWZFS19sTEYyXzJsTGE2TmJLU3pSTnh4VnAweV9CQlZVdG1Ia25GQld0UGRlcDh5b3Z1TmJJaUdTeF8zQVl6eWRRbjJtc00yRjFYZ0toaGlmelBoVkVzdW9uY1RYOFZFeUZHUlNqTURvZ2REamdfN3lsQ3o2RXczb3JKTUNZUXFSSVVmejhrODFvZkI4YkVpcVg5NlV6X0R4aHVoMVhCLUpDazVraDFvVXFMcENUdUNEaDdIeHpmM1ROTQ?oc=5
 
-- Oil prices fall a second day as Trump indicates possible Iran peace deal
-  Brent crude futures for July fell $1.52, or 1.38%, to $108.35 per barrel as of 0103 GMT. U.S. benchmark West Texas futures for June
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-a-second-day-as-trump-indicates-possible-iran-peace-deal/articleshow/130841907.cms
+- Markets are volatile, yields are elevated; Here's why Income Plus Arbitrage funds make sense - Moneycontrol.com
+  The Income Plus Arbitrage funds make sense, according to
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaHFGaVJ4dFNhRzZjeHVLSVBZT3VNZ053MmViODQ5RVlLUFFxbHFQc0ZzSzdpODVYVUhqZkVRVHlPYUEyWmZ4cU85eWx2b0JkSDFxRlZFZWZ3UExuWnM2bkhVNk5vcWlMaEZZM3hFN1lwU0RqNW0ySFhPTGRPSU5kaUpQZlBhOFB3MzZVRVFPdDdMNTh3S0hKaUFUZ1hfTEpiWFRGT1NEY09BV1FFb0pkTTYxSEZjNnl3MlVSWXFiTWxKOFVjVzJzd2N3Ql9uTjhndlRIby1pRWJncGpCcVh4RGdNWUlxTlhfS0tXLU1BZ3JHX29RR2hB?oc=5
 
-- Dalal Street poised for strong start as GIFT Nifty hints at robust gap-up opening
-  The Nifty index remained below a key technical level for eight days. Foreign investors were net buyers, while the Indian Rupee touched a record low.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130841855.cms
+- Buyback alert! Garware Technical Fibres set to announce buyback on May 8. What to expect?
+  Garware Technical Fibres is set to consider a share buyback proposal at its May 8 board meeting. The move comes alongside its Q4 results review, with the trading window already closed since
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/buyback-alert-garware-technical-fibres-set-to-announce-buyback-on-may-8-what-to-expect/articleshow/130847876.cms
 
-- Stocks in news: Paytm, Bajaj Auto, L&amp;T, Bharti Airtel, Hero MotoCorp
-   markets closed lower amid global headwinds and geopolitical worries. Several companies like Paytm, Bajaj Auto, and L&amp;T are in focus due to Q4 results and news developments. Hero MotoCorp reported strong Q
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-paytm-bajaj-auto-lt-bharti-airtel-hero-motocorp/articleshow/130841827.cms
+- Global Markets | Australian stocks recover as banks, miners advance on improved risk sentiment
+  The benchmark index saw a significant rise, its highest close in months. Financial stocks surged following the Reserve Bank of Australia's recent rate hike, while miners benefited from firm metal prices.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-stocks-recover-as-banks-miners-advance-on-improved-risk-sentiment/articleshow/130847871.cms
 
-- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
-  West Bengal: Modi's BJP conquers one
+- $1 trillion club gets newest member in Samsung! Check list of 13 most valuable companies
+  Global trillion-dollar companies highlight tech dominance, AI-driven growth, and investor confidence. Samsung joins an elite group led
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/1-trillion-club-gets-newest-member-in-samsung-check-list-of-13-most-valuable-companies/slideshow/130847855.cms
+
+- Vedanta shares rally 9% in four days after demerger. Should you buy?
+  Vedanta shares rose after adjusting for its demerger. The stock turned ex-demerger from April 30 (record date May 1)
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-rally-9-in-four-days-after-demerger-should-you-buy/articleshow/130847017.cms
+
+- Bajaj Auto set to announce share buyback today. What to expect?
+  Bajaj Auto is set to announce a share buyback alongside its Q4 FY26 results. The move follows previous buybacks at strong premiums.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-set-to-announce-share-buyback-today-what-to-expect/articleshow/130846857.cms
+
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
 - "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
   "Unacceptable": PM Modi After Iran's Attack
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
-- India’s energy security amid conflicts - The Hindu
-  India’s
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0FjVTVuS2xSWUJhRzljTHdqUDNjUXR1NW8tQW5FREhRVE5fSnRWUUJPQ24yc3VmY2dRdnBfTFowMUI4VE41eU9EUFdQekZHYjNVWFd6d21sTUFJS2Y3djhKLU9ydWFYc2dOdWEycFJYZE1FalFxZjZrLW5SYTMzZU9sS1NTT0pMWk1xRUppckjSAZcBQVVfeXFMUG45X0t6VmM1U3ZKZU13el9nRVJfYUlpdVVSOGduSDlxRm15aU1oRGNNOEw4Y3pCTHh2RUVYVzBhR2pmNEVPc0QzN0k1UEI1SGN4U2FNTXZqaGF3Zm5hOFhTV0tBU2l2eG5WdUlWeFlvdXd3S3c1NVlmRUFqSmducS13UTh6cHNvYzE0TDN3Wjc1SDhua0MyVQ?oc=5
+- Fact Check: Govt debunks digitally altered video claiming Pakistan jammed India’s systems last year - News On AIR
+  The Indian government claims Pakistan jammed India’s systems last year.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDAta1JpNWIzbFlXeDBEX3F2QnF3T19uN2hrWTdUMm5zUVJva1phLTl2dnZob0x1a0gzeTlFRUx2Y2RLYm5mSE1lSHJGNEpfdUNrTTdUU0hzaXB1M1V3RlpFeFBYeGtLb3VsU2liNk1nZWFsZXlWNFZVQjhrVC1GUTRsVXZiVkppcXNIRzZVYjQ4OW9PSXZfTmZvVmROWU9fUnFRV2ZnejhwcWtKVmpvbU1iVDllQzJ4Vl84bC1hZm5XVm5rVkE?oc=5
 
-- Breaking News Live Updates: 2 killed, 3 injured in back-to-back shootings near Dallas; suspect held over business dispute - The Times of India
-  The Times of India reports that the suspect was involved in a business dispute. The suspect was arrested
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXhEQldteWlFVllDOTJCS0gxNVRoazFOdXdIMkhqbHZVS0dKdVRDUWo5VWpoODZyd05JclVlcE5ISjZRSGVVX1p4VmhCdWxlNEdXRjEzd2FhMG1hVXZoRkEzWWcydEhWbWlzWFVIbTM4X2s0T1hQY2h2R0tnbWliZW1xNWo2aUZmWXVsMTZaTFVIME9PNlFiYkxjcHYyd3FGc1RLTHhzWVpXQi1GTmJrXy1ZbG0zRzJYdlRaMFkybGZySE5kRFHSAcsBQVVfeXFMT201bVdULXdWQnlNRnhZRTJES3htSE5Gcl9ydmFWa0VJQ2tQUDh3MmxPOUdrcGozSC1iMEx3ZHU1RWhubGZMOHZXU3ZuYm11LWltMG03MGEyZThCbVZQREdadGtJamxNaVR0Rkk0eXpWWDJaOUtzWTRpQ1owN0RzcVNPMUxKRWw5cWVNX1MzX09ocFQzdVlMREhFSERENExjdVdJU2ZsR0Y1VTBZYjNVQXdGdE80MXNLV1NmOFlFQ1dpQWpOa0xtQ2p0MXM?oc=5
+- 5 Home Fire Safety Tips Everyone Should Know In India - NDTV
+  5 Home Fire Safety Tips Everyone Should Know
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1lCZDhUeHYxSV9hTXpqM2NTd2t2XzQ4YTJvdnFYVDB6TVFXOEt1TFUyMXo2WERNLWppVFZsMGFoR05xMzE2TVk1V3RXQmhTaFRkS2pqWExoR0ZXd2RJN19ob05qT1lCdlVzQXFNTmcxcUZaRnpBVjVoUnVPelI1WXZac192YnRmQjBRQlBRejN1dkw0MnlMNWxR0gGiAUFVX3lxTE1aYWhNYXlFZkptV1ZUdDl3RHEtSUFIVHBfNFhzb0ZkOWx1bURFbDF6empDMzZTQkZ2ZUp2ZWF4cXFkRUxsVF95c19mSXFsXzR0M2FQQnVPVjZJMFpkZGdPYWhKVEkyZ2VpT2VSOElLeXIxYUUwSnRVRnlMNFE4WlYwaThJNFY2eTd5XzQxVS1NMnFLT3BUMm82OHRsRnZTY2tOdw?oc=5
 
-- ‘Hindus only’ banner appears at Bengal temple - The Times of India
-  ‘Hindus only’
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFoRU9pc0VVbGczcjZpWHp1WjQ5bXBic0dqb2tCem85WkpoVDBIRFNZS1ZQZE9HOGlLUEVja18tWjdmZjNkREEwdEk1cEs1WlY2aXpYMkZQNWpNYjZXZkttWVd4UlFjWnQ0NC0zNmN6VlNUdzE4dWFwcnJ0REtBaEpRTE4yMklVT09PTy1CclBHa1d4dUFZcHFoT3lLbDNoT0hRVVdJc0xoelpqU1h4b9IBtgFBVV95cUxQbnZSRlAtNElIYTEyQTdCaFFJUmVoMDI1ZGhkbHJOeVJGQVcxUlVyMVUtWXFfOFR4aFJOMHZGX243el9iRlZQdU9lWU10Q2F0ejlFdlpWdF9hd1d3VWxHbjZibmRsZ1ZYUUpUck9TMXNyQkp3UHB0SWplZEdJMG5yZ2MxTm1rV1BYdjU2M2loellfSWVPY0dTdnJsa082WFNTdnMwNVV4bW4wTU9MSG5xd3d4OTRodw?oc=5
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
-- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
-  West Bengal: Modi's BJP conquers one
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
 - "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
   "Unacceptable": PM Modi After Iran's Attack
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
-- India’s energy security amid conflicts - The Hindu
-  India’s
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0FjVTVuS2xSWUJhRzljTHdqUDNjUXR1NW8tQW5FREhRVE5fSnRWUUJPQ24yc3VmY2dRdnBfTFowMUI4VE41eU9EUFdQekZHYjNVWFd6d21sTUFJS2Y3djhKLU9ydWFYc2dOdWEycFJYZE1FalFxZjZrLW5SYTMzZU9sS1NTT0pMWk1xRUppckjSAZcBQVVfeXFMUG45X0t6VmM1U3ZKZU13el9nRVJfYUlpdVVSOGduSDlxRm15aU1oRGNNOEw4Y3pCTHh2RUVYVzBhR2pmNEVPc0QzN0k1UEI1SGN4U2FNTXZqaGF3Zm5hOFhTV0tBU2l2eG5WdUlWeFlvdXd3S3c1NVlmRUFqSmducS13UTh6cHNvYzE0TDN3Wjc1SDhua0MyVQ?oc=5
+- Fact Check: Govt debunks digitally altered video claiming Pakistan jammed India’s systems last year - News On AIR
+  The Indian government claims Pakistan jammed India’s systems last year.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDAta1JpNWIzbFlXeDBEX3F2QnF3T19uN2hrWTdUMm5zUVJva1phLTl2dnZob0x1a0gzeTlFRUx2Y2RLYm5mSE1lSHJGNEpfdUNrTTdUU0hzaXB1M1V3RlpFeFBYeGtLb3VsU2liNk1nZWFsZXlWNFZVQjhrVC1GUTRsVXZiVkppcXNIRzZVYjQ4OW9PSXZfTmZvVmROWU9fUnFRV2ZnejhwcWtKVmpvbU1iVDllQzJ4Vl84bC1hZm5XVm5rVkE?oc=5
 
-- Breaking News Live Updates: 2 killed, 3 injured in back-to-back shootings near Dallas; suspect held over business dispute - The Times of India
-  The Times of India reports that the suspect was involved in a business dispute. The suspect was arrested
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXhEQldteWlFVllDOTJCS0gxNVRoazFOdXdIMkhqbHZVS0dKdVRDUWo5VWpoODZyd05JclVlcE5ISjZRSGVVX1p4VmhCdWxlNEdXRjEzd2FhMG1hVXZoRkEzWWcydEhWbWlzWFVIbTM4X2s0T1hQY2h2R0tnbWliZW1xNWo2aUZmWXVsMTZaTFVIME9PNlFiYkxjcHYyd3FGc1RLTHhzWVpXQi1GTmJrXy1ZbG0zRzJYdlRaMFkybGZySE5kRFHSAcsBQVVfeXFMT201bVdULXdWQnlNRnhZRTJES3htSE5Gcl9ydmFWa0VJQ2tQUDh3MmxPOUdrcGozSC1iMEx3ZHU1RWhubGZMOHZXU3ZuYm11LWltMG03MGEyZThCbVZQREdadGtJamxNaVR0Rkk0eXpWWDJaOUtzWTRpQ1owN0RzcVNPMUxKRWw5cWVNX1MzX09ocFQzdVlMREhFSERENExjdVdJU2ZsR0Y1VTBZYjNVQXdGdE80MXNLV1NmOFlFQ1dpQWpOa0xtQ2p0MXM?oc=5
+- 5 Home Fire Safety Tips Everyone Should Know In India - NDTV
+  5 Home Fire Safety Tips Everyone Should Know
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1lCZDhUeHYxSV9hTXpqM2NTd2t2XzQ4YTJvdnFYVDB6TVFXOEt1TFUyMXo2WERNLWppVFZsMGFoR05xMzE2TVk1V3RXQmhTaFRkS2pqWExoR0ZXd2RJN19ob05qT1lCdlVzQXFNTmcxcUZaRnpBVjVoUnVPelI1WXZac192YnRmQjBRQlBRejN1dkw0MnlMNWxR0gGiAUFVX3lxTE1aYWhNYXlFZkptV1ZUdDl3RHEtSUFIVHBfNFhzb0ZkOWx1bURFbDF6empDMzZTQkZ2ZUp2ZWF4cXFkRUxsVF95c19mSXFsXzR0M2FQQnVPVjZJMFpkZGdPYWhKVEkyZ2VpT2VSOElLeXIxYUUwSnRVRnlMNFE4WlYwaThJNFY2eTd5XzQxVS1NMnFLT3BUMm82OHRsRnZTY2tOdw?oc=5
 
-- ‘Hindus only’ banner appears at Bengal temple - The Times of India
-  ‘Hindus only’
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFoRU9pc0VVbGczcjZpWHp1WjQ5bXBic0dqb2tCem85WkpoVDBIRFNZS1ZQZE9HOGlLUEVja18tWjdmZjNkREEwdEk1cEs1WlY2aXpYMkZQNWpNYjZXZkttWVd4UlFjWnQ0NC0zNmN6VlNUdzE4dWFwcnJ0REtBaEpRTE4yMklVT09PTy1CclBHa1d4dUFZcHFoT3lLbDNoT0hRVVdJc0xoelpqU1h4b9IBtgFBVV95cUxQbnZSRlAtNElIYTEyQTdCaFFJUmVoMDI1ZGhkbHJOeVJGQVcxUlVyMVUtWXFfOFR4aFJOMHZGX243el9iRlZQdU9lWU10Q2F0ejlFdlpWdF9hd1d3VWxHbjZibmRsZ1ZYUUpUck9TMXNyQkp3UHB0SWplZEdJMG5yZ2MxTm1rV1BYdjU2M2loellfSWVPY0dTdnJsa082WFNTdnMwNVV4bW4wTU9MSG5xd3d4OTRodw?oc=5
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
+
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
+
+- Fact Check: Govt debunks digitally altered video claiming Pakistan jammed India’s systems last year - News On AIR
+  The Indian government claims Pakistan jammed India’s systems last year.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDAta1JpNWIzbFlXeDBEX3F2QnF3T19uN2hrWTdUMm5zUVJva1phLTl2dnZob0x1a0gzeTlFRUx2Y2RLYm5mSE1lSHJGNEpfdUNrTTdUU0hzaXB1M1V3RlpFeFBYeGtLb3VsU2liNk1nZWFsZXlWNFZVQjhrVC1GUTRsVXZiVkppcXNIRzZVYjQ4OW9PSXZfTmZvVmROWU9fUnFRV2ZnejhwcWtKVmpvbU1iVDllQzJ4Vl84bC1hZm5XVm5rVkE?oc=5
+
+- 5 Home Fire Safety Tips Everyone Should Know In India - NDTV
+  5 Home Fire Safety Tips Everyone Should Know
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1lCZDhUeHYxSV9hTXpqM2NTd2t2XzQ4YTJvdnFYVDB6TVFXOEt1TFUyMXo2WERNLWppVFZsMGFoR05xMzE2TVk1V3RXQmhTaFRkS2pqWExoR0ZXd2RJN19ob05qT1lCdlVzQXFNTmcxcUZaRnpBVjVoUnVPelI1WXZac192YnRmQjBRQlBRejN1dkw0MnlMNWxR0gGiAUFVX3lxTE1aYWhNYXlFZkptV1ZUdDl3RHEtSUFIVHBfNFhzb0ZkOWx1bURFbDF6empDMzZTQkZ2ZUp2ZWF4cXFkRUxsVF95c19mSXFsXzR0M2FQQnVPVjZJMFpkZGdPYWhKVEkyZ2VpT2VSOElLeXIxYUUwSnRVRnlMNFE4WlYwaThJNFY2eTd5XzQxVS1NMnFLT3BUMm82OHRsRnZTY2tOdw?oc=5
+
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
+
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
+
+- Fact Check: Govt debunks digitally altered video claiming Pakistan jammed India’s systems last year - News On AIR
+  The Indian government claims Pakistan jammed India’s systems last year.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDAta1JpNWIzbFlXeDBEX3F2QnF3T19uN2hrWTdUMm5zUVJva1phLTl2dnZob0x1a0gzeTlFRUx2Y2RLYm5mSE1lSHJGNEpfdUNrTTdUU0hzaXB1M1V3RlpFeFBYeGtLb3VsU2liNk1nZWFsZXlWNFZVQjhrVC1GUTRsVXZiVkppcXNIRzZVYjQ4OW9PSXZfTmZvVmROWU9fUnFRV2ZnejhwcWtKVmpvbU1iVDllQzJ4Vl84bC1hZm5XVm5rVkE?oc=5
+
+- 5 Home Fire Safety Tips Everyone Should Know In India - NDTV
+  5 Home Fire Safety Tips Everyone Should Know
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1lCZDhUeHYxSV9hTXpqM2NTd2t2XzQ4YTJvdnFYVDB6TVFXOEt1TFUyMXo2WERNLWppVFZsMGFoR05xMzE2TVk1V3RXQmhTaFRkS2pqWExoR0ZXd2RJN19ob05qT1lCdlVzQXFNTmcxcUZaRnpBVjVoUnVPelI1WXZac192YnRmQjBRQlBRejN1dkw0MnlMNWxR0gGiAUFVX3lxTE1aYWhNYXlFZkptV1ZUdDl3RHEtSUFIVHBfNFhzb0ZkOWx1bURFbDF6empDMzZTQkZ2ZUp2ZWF4cXFkRUxsVF95c19mSXFsXzR0M2FQQnVPVjZJMFpkZGdPYWhKVEkyZ2VpT2VSOElLeXIxYUUwSnRVRnlMNFE4WlYwaThJNFY2eTd5XzQxVS1NMnFLT3BUMm82OHRsRnZTY2tOdw?oc=5
+
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,25 +220,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- PayPal says it’s ‘becoming a technology company again’ — that means AI - TechCrunch
-  PayPal says it’s ‘bec
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVV5WjNfSEZJby0zUUtyYkZXeGR5aFplNEF1Q0pDVWhCdWhXNDNjTFlwUlN6OWVfc3lZZGlpaFVNQlNtLXZvSTByTU9WTklGS0hxMUhXdW9nTmJVQ2FvMG83cnJvV1F3UmxVU0tWWC14RkpjVGFrT2pvSFBaOVdkVkJXS1lkdjlla0JEZmVlUnVBd3FUVW1Ca3UtR3VEemY0TGc?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- After a 40-year wait, technology finally enables three-sided zipper design - Tech Xplore
-  After a 40-year wait, technology finally
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3l3NEZOOTdxUW10eG9JZ2xSN3pLcFNqcDhXQXJHWUFVenBsWk5hemUxQ1dQbmd5Q0d4VGdNMW5ISWY0X1BRRVBia1ZiUXVtUXI2S0NXRklDTHd1bVl4UDdFdWFXTXRwTFBDTjdJWFVGaFFlTXhkXzlEVlExOU5oRnBQRQ?oc=5
-
-- The new GEL−KAYANO™ 33 shoe introduces FLUIDSUPPORT™ technology for a new era of plush stability and comfort - TheNewsMarket
-  The new GEL−KAYANO™ 33 shoe introduces FLU
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNdUFlcVVXUFhSRFVpZFNHdGxiZy0zNl9jYldMand3ekhlWjVhUExwZHRtZ2dPVFNIYkE3dXRfTFgwSGVIZjBQN3FZUkZqTHNkWTVHR3pWMVJvOXo5dTBSaXBlRTJXVFZYZE1FdTJwcDM2aFVUY2E3SzRIcl9LYXRja3NIZk5OSk9HLTVCcEF3VXg0b0x3Q1lQN09sOXp6NTNDd2F0M2Z4X1hjM09udWpQcXpXYUFDV0lMLXR0aUo5NS1pd1YySGRwMDk2bHAzZDVxWjFWVUc1Tm1xdjB6V0VENUJIVmVGTFFBVEZHdzNWY3h0d29ueHVhdGMzcnJkZVZlNk56UA?oc=5
-
-- The tech revolution that wasn’t - MIT News
-  The tech revolution that
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPalBTUklEVldWZkViOWhDNUdBWWRZRC1ZeDM0enQ1ZmdWc0NEX3Z6cVNkRGk1TlU3X2ctYlBjSW0zcTlDRUVqcDNoalF4UFpNM21qWVVMM3FjMjJlRjE4OFRtMm5sRnZSZG11ejRROVhRSDdRMjQxa3BlSUc4SE5LRzR3?oc=5
-
-- Lunar Resource-Seeking Technologies - NASA (.gov)
-  Lun
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUFzbkN1S2VfYWJFWWg4bWF1QkIzMEwtQUFLaDFWcmNFMV9Xd2hmYUE1cHVZQlVwT2x5dWhLZU8yRDBtMXQwanJlS1NrMHU2NHQ1OHJzN2hnQ2kwUXlqM3F4RVZSVERmV051XzBZNHdLTS0tZkV6elNpNy1FU0RLZzg1NjhCUm8tZWRjUmlUeTRiUG9qSFd2dUVUTVY?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-06 02:27:22 UTC_
+_Last updated: 2026-05-06 08:19:11 UTC_
