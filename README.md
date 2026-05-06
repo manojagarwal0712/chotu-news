@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- As Vijay makes blockbuster debut, what TVK promised: Gold for brides, Rs 4,000 per month to youth
+- Stunned by scale of Assam drubbing, Congress cries foul over margins
   
-  🔗 https://indianexpress.com/article/india/vijay-tvk-tamil-nadu-election-win-poll-promises-gold-youth-10674676/
+  🔗 https://indianexpress.com/article/india/stunned-by-scale-of-assam-drubbing-congress-cries-foul-over-margins-10674910/
 
-- Congress claims Vijay asked for support to form government in Tamil Nadu, state leaders to decide
+- Fisherman, student leader, and now MLA: Meet Congress’s 30-year-old legislator from Kerala’s Alappuzha
   
-  🔗 https://indianexpress.com/article/india/vijay-tvk-congress-support-tamil-nadu-decision-10674601/
+  🔗 https://indianexpress.com/article/india/fisherman-student-leader-and-now-mla-meet-congresss-30-year-old-legislator-from-keralas-alappuzha-10674802/
 
-- ‘Hawala operator’ tied to jailed conman Sukesh Chandrasekhar held after deportation from Dubai
+- Man poses as Rahul Gandhi’s aide to swindle Congress leaders across country over several years: Police
   
-  🔗 https://indianexpress.com/article/india/sukesh-chandrasekhar-associate-navas-ki-arrested-dubai-deportation-10674602/
+  🔗 https://indianexpress.com/article/india/man-poses-as-rahul-gandhis-aide-to-swindle-congress-leaders-across-country-over-several-years-police-10674845/
 
-- Tiger rescued and declared fit a week ago found dead, toll in Madhya Pradesh rises to 28 this year
+- Centre okays Gujarat shipyard, 3 rail projects to ease up congestion
   
-  🔗 https://indianexpress.com/article/india/tiger-rescued-declared-fit-found-dead-toll-madhya-pradesh-21-10674587/
+  🔗 https://indianexpress.com/article/india/centre-okays-gujarat-shipyard-3-rail-projects-to-ease-up-congestion-10674930/
 
-- ‘So-called secular parties can’t stop BJP’: Owaisi calls on Muslims to create own political leadership
+- Govt nod to Rs 5,659 cr for five-year mission to increase cotton yield
   
-  🔗 https://indianexpress.com/article/india/secular-parties-cant-stop-bjp-owaisi-muslims-create-political-leadership-10674553/
+  🔗 https://indianexpress.com/article/india/govt-nod-to-rs-5659-cr-for-five-year-mission-to-increase-cotton-yield-10674931/
 
 - What OpenAI, Anthropic’s new enterprise AI services ventures mean for Indian IT firms
   
@@ -32,7 +32,7 @@
   
   🔗 https://indianexpress.com/article/technology/science/strange-anti-matter-atom-makes-waves-in-new-study-10663990/
 
-- Eta Aquarid Meteor Shower 2026 tomorrow: When and how to watch in India
+- Eta Aquarid Meteor Shower 2026: When and how to watch in India
   
   🔗 https://indianexpress.com/article/technology/science/eta-aquarid-meteor-shower-2026-tomorrow-when-and-how-to-watch-in-india-10674389/
 
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/mobile-tabs/flipkart-sasa-lele-sale-2026-top-5-smartphones-under-rs-25000-10674318/
 
+- Man charged in US with stealing $450 million from Mexican billionaire in loan scheme
+  Man charged in US with stealing $450 million
+  🔗 https://www.livemint.com/companies/man-charged-in-us-with-stealing-450-million-from-mexican-billionaire-in-loan-scheme-11778029772029.html
+
+- A  ₹15,000-crore wipeout: how Xiaomi lost India’s smartphone race to Vivo, Samsung and Apple
+  Xiaomi has slipped out of the top five as rivals dominate a market reshaped by premiumization,
+  🔗 https://www.livemint.com/companies/a-15-000-crore-wipeout-how-xiaomi-lost-india-s-smartphone-race-to-vivo-samsung-and-apple-11777909819584.html
+
+- Why Google DeepMind workers in  UK are trying to unionise over company's Pentagon AI deals
+  Google DeepMind employees in the UK have voted to unionise. They want an end to Google's Pentagon AI deal and military contracts.
+  🔗 https://www.livemint.com/companies/news/google-deepminds-uk-workers-vote-to-unionise-over-pentagon-ai-deal-a-first-for-frontier-ai-labs-11778025670418.html
+
+- Freshworks to cut 11% jobs as AI reshapes software sector
+  Freshworks to cut 11
+  🔗 https://www.livemint.com/companies/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-11778012621424.html
+
 - Fresh AI Disruption Selloff Hits Thomson Reuters Despite Strong Results
   Thomson Reuters Corp. shares fell despite positive first-quarter results. Anthropic PBC unveiled new artificial intelligence
   🔗 https://www.livemint.com/companies/fresh-ai-disruption-selloff-hits-thomson-reuters-despite-strong-results-11778006588057.html
 
-- Tata Power’s Bhutan hydro project gets $515 mn World Bank nod
-  The project in eastern Bhutan is set to generate 4,500GWh of clean electricity every year. 80% of it is
-  🔗 https://www.livemint.com/companies/tata-power-bhutan-hydro-project-world-bank-nod-11777996343772.html
+- Funding curbs on prop traders: Brokers forum to meet RBI today
+  The Association of NSE Members of India is seeking relaxation of an imminent bar on bank funding to proprietary firms for trading
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-capital-market-norms-prop-trading-funding-bank-guarantees-india-anmi-rbi-meeting-proprietary-traders-nse-derivatives-11777994086937.html
 
-- NSE's profit falls 15% in FY26 as market activity moderates
-  A cooling derivatives market and a massive  ₹1,391-crore provision for Sebi settlements weighed on annual earnings
-  🔗 https://www.livemint.com/companies/company-results/nses-profit-falls-15-in-fy26-as-market-activity-moderates-sebi-11777993539997.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 6 May
+  The key indices, Sensex and Nifty 50, ended lower on 5 May, driven by profit-taking. Mid- and small-cap stocks showed gains. Analysts suggest five stocks
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-6-may-11778031381221.html
 
-- War-driven inflation dents L&amp;T's margin, company warns the effects may persist in FY27
-  As part of its new five-year plan, dubbed Lakshya 31, the company is aiming for 12-15% compounded annual growth in its revenues between FY26 and FY31. That translates
-  🔗 https://www.livemint.com/companies/company-results/wardriven-inflation-dents-l-t-q4-ebitda-margin-company-warns-the-effects-may-persist-in-fy27-11777991559268.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 6 May
+  Gift Nifty was trading around 24,322 level, a premium of nearly 216 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-6-may-11778031595702.html
 
-- Kumar Mangalam Birla returns as Vodafone Idea non-executive chairman as AGR dues ease
-  The AGR clarity, along with the reappointment of Birla as its chairman, could provide a measure
-  🔗 https://www.livemint.com/companies/news/kumar-mangalam-birla-vodafone-idea-non-executive-chairman-agr-dues-telecom-industry-india-11777995223087.html
+- Asian markets today: South Korea's Kospi hits record high amid US-Iran peace talks hopes
+  South Korea’s Kospi index scaled a new record high, surpassing the 7,000 mark. It climbed 381
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-hits-record-high-amid-us-iran-peace-talks-hopes-11778030164276.html
 
-- Aluminum Jumps the Most in Three Weeks as US-Iran Truce Holds
-  Aluminum jumped the most in three weeks along with other industrial metals as signs that a US-Iran ceasefire still holds reduced fears of a
-  🔗 https://www.livemint.com/market/aluminum-jumps-the-most-in-three-weeks-as-us-iran-truce-holds-11778006530035.html
+- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 6 May 2026
+   Vaishali Parekh recommends three stocks to buy today
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-6-may-2026-11778029929946.html
 
-- Dollar softens as Middle East ceasefire holds
-  Dollar softens
-  🔗 https://www.livemint.com/market/dollar-softens-as-middle-east-ceasefire-holds-11778006528972.html
+- ChatGPT becomes smarter, less verbose and better at remembering you with new GPT-5.5 Instant update
+  GPT-5.5 Instant reduces hallucinations by 52.5% and enhances performance in everyday tasks. It also offers better memory capabilities and personalization options for users
+  🔗 https://www.livemint.com/technology/tech-news/chatgpt-becomes-smarter-less-verbose-and-better-at-remembering-you-with-new-gpt-5-5-instant-update-11778027475461.html
 
-- Nasdaq hits record as AI chip stocks surge
-  Nasdaq hits record as
-  🔗 https://www.livemint.com/market/nasdaq-hits-record-as-ai-chip-stocks-surge-11778006040990.html
-
-- Sebi flags AI-led cyber risks, calls for coordinated market defence
-  Sebi cautioned regulated entities about the rising risks from emerging technologies. AI
-  🔗 https://www.livemint.com/market/sebi-warns-ai-cyber-risks-india-financial-market-security-claude-mythos-tech-11778000294511.html
-
-- Intel stock soars 15.4% to fresh all-time high on report of Apple chip partnership talks
-  Intel shares surged 15.4% to a record high of $120 after reports of Apple considering a partnership for chip manufacturing with Intel and Samsung. The collaboration, still in early discussions,
-  🔗 https://www.livemint.com/market/intel-stock-soars-15-4-to-fresh-all-time-high-on-report-of-apple-chip-partnership-talks-11778000572236.html
+- Factbox-What we know about US stress tests of Google, xAI and Microsoft AI models
+  US stress tests of Google, xAI and
+  🔗 https://www.livemint.com/technology/factboxwhat-we-know-about-us-stress-tests-of-google-xai-and-microsoft-ai-models-11778018927864.html
 
 - Pennsylvania sues AI company, saying its chatbots illegally hold themselves out as licensed doctors
   Pennsylvania sues AI company, saying its
@@ -92,53 +100,85 @@
   OpenAI is accelerating the production of its first AI agent smartphone, with mass production
   🔗 https://www.livemint.com/technology/tech-news/openais-first-smartphone-launch-fast-tracked-launch-timeline-and-key-specs-leaked-in-new-report-11777972280842.html
 
-- Rockstar Games boss reveals why GTA VI won't arrive on PC in November: ‘Serving the core’
-  Grand Theft Auto VI will be released on November 19 for PlayStation 5 and Xbox Series X/S. PC gamers will have to wait until next year.
-  🔗 https://www.livemint.com/technology/tech-news/rockstar-games-boss-reveals-why-gta-vi-wont-arrive-on-pc-in-november-serving-the-core-11777966466688.html
+- Sensex Today | Stock Market Live: GIFT Nifty signals a strong opening; US, Asian markets gain - Moneycontrol.com
+  "Sensex Today: GIFT Nifty signals a strong opening"
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxONEFVc3JoUHBmX0Yzd0t6LVRhaUp4NUZFU3g3VkwyVko4aHdSWU1aWTN5TloyNFdFamg3M1pYbmNNR0pvbDliSXg5SjlQREJGVEpYMzBPWktuSWxjc3Z6c25VSWJxWnhLNGJ4Mm1qMzdzaklCTkExbENDeE85LXFDQm5GMk5hY1djRjY2UzVVVzNySzFFUWItSy1FTHU2TGlRQVQtWjFZODJvTTZxcFh4bjRNclhRdFNzTVA0R2FvZS15N2pvSFBPRkNFNlhsb1hROTBfM2ZlZHNKQUxoQjZnRlk1bEJSZFpUWDlfRUptdXdpbk13VUxJUmVtdGtNLTEzUVpoZDF0S1Q4TnlYRVFLZmh1SdIBmAJBVV95cUxPeUdrN0gxX2VzTTZZUWstbURyOEgzVnNBWUc5SlgzdEdqdTNkRzk2cklmT1R4SDNpbERwelpPNHhVVUNrdXNaNS02RUVVRWNzVzg5MEN4T0hzR2pIcml5M3lhOXdpalBuMzhwVjd1TVFmenNtbWZBV0NxOTZmeElwTnRfNVRiZUdCODZnUTZBWTkyWnZQQks5eGtqRlMyQkREMzdjbUNOWE80a1lYVTFTNVBkcFYzUm45TDZTZXIwYjJJTWQ3RXVJTTNDVExkdVhFU0IxRk5VSjNkYmFDUFhCQURJVDJ0QThacEFUMjdQcXdDZ3ZBXzhWZ1FLa0t6Ujc5X3NNMHZjaTloZUtySHZIUEVYYV9hQmtn?oc=5
 
-- OnePlus Pad 4 vs Xiaomi Pad 8: Which flagship Android tablet should you actually buy?
-  The OnePlus Pad 4 features a powerful Snapdragon 8 Elite Gen 5 processor and larger battery, making it ideal for heavy multitasking. In contrast, the Xiaomi Pad 8 is lighter and more budget
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-pad-4-vs-xiaomi-pad-8-which-flagship-android-tablet-should-you-actually-buy-11777956398658.html
+- From Gift Nifty, US-Iran peace talks to Nasdaq, Kospi rally: 10 things that changed for Indian stock market overnight - MSN
+  &nbsp;&ngt;<font color="#6f6f
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxQWjhlRmNEbl9pQWxDajl0UVVrSkVrSERCclJwR21rYk9VVV94MGV1UHpmQlNlcUxWd3B1aU5SOXIzRUREcDZaNWdPN0hsNmk1U3M4Z2hQQmVObjVWVlYwNEdLdUlucVMtRHpVcFh5dU1zcUNXMzVwWGM0NWgwOHd1Y25sbDhSN3p3NmJySnJMQjZ5RkxORFJpQld2V2J2STJQMEpIRjRGMUEzWFpiWlhkcW9FbjZRb3VubU5YZ3JnTjR1ckZCM1pBZjNvZGFUQ3pyR05tZWN0eTJmQzF4MDJDakdfWVpabUhmbG4waUtmUGNIeWxtRE94YlN4Ykg3RzRobnR4RmZYN21NNXVGM0ZGOGNDYjFWaVF2ck03UA?oc=5
 
-- US SEC proposes allowing public companies to opt out of quarterly earnings reports
-  The SEC proposed ending mandatory quarterly earnings reports for U.S. companies. The move, supported by some corporations and investment banks, aims to reduce burdens and foster long-term planning.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-proposes-allowing-public-companies-to-opt-out-of-quarterly-earnings-reports/articleshow/130834872.cms
+- First Tick: Top global cues to watch in today’s trade - Moneycontrol.com
+  Moneycontrol.com has compiled a list
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUlxeHhYd1JoZEo4RjNWNnp0SjFjMFI0eC1Pd180b1Y4STVTaHgtb1JsZTNpdjJNUDQwTm5FX3lkaEY1NDBtR1ZhZE5TRHNVZVRidk5pVUR6SWFIbUFiM0s4Z2FKbUQ1SUk5eFVwWXRfd05GMGtCVThiSUxNSm9Oc0hVNmFKbWlSSUJIOHNPOWVpWThIdmF6S1lSNEkxRFBSaW9lampSVDhxdDE3c3Z5YkpLbTJySXJoaE1ZMWhB0gHDAUFVX3lxTE9FZWFXRnQ2VlN6b081LWlld1dHV2R2d2J0V1kxeENUUks5SjdaWlpKcTg1OFM5SXBYNzlRU3dkUUtSZW5MZmJSMW44b2JiNlhkLXhwbEY2b0FRVmF2NDJFNGtSaTNlOXFyX1FUVWJwSUNRalpsSHk5OXVpWjJUXzVMQWd2aFhfRXkwVHh1NUdVTDZ0eHZyMmpCQkxXRURaM21zNTN4bmpJY0lQZ18zYWIxbWJ5dGlpQ1l0ZzJTVng0ZEhJaw?oc=5
 
-- ideaForge Technology bulk deal: BNP Paribas buys Rs 39 crore worth shares in this multibagger
-  Institutional investors, including BNP Paribas, actively acquired stakes in ideaForge Technology through significant bulk deals on Tuesday. Multiple entities purchased substantial share quantities within a narrow price band, signaling strong demand. This buying spree coincided with a
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-bulk-deal-bnp-paribas-buys-rs-39-crore-worth-shares-in-this-multibagger/articleshow/130834855.cms
+- Asia-Pacific markets set to track Wall Street gains as Trump signals de-escalation in Iran conflict - CNBC
+  Asia-Pacific markets set to track Wall Street gains as Trump signals
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGVUMk9ybU53T2wxUmxhWXlzX0J6NlQyeno5b1Y0cnBJcTRfWEFROUFEeVFXUFJOcllfWGxmM2Z0UllWaDBuOG9fUVZ4S3EwVHlQaElyeTV0ZzJpS1JkSGljSHVzOU1YTkx1WkQ4YlhEa1prYk5Ob2VCZFRObHo5M1NlUm1ITVp6alQ1a1U1eWxpZ0lTODRF0gGcAUFVX3lxTE9fMFZ0cE5QaHU4X1ZLVm04eDBBTDFDODF2czFBOVZmbWFDSGR3MVJwZ3dvaXpCVVJxQ3V6TGJhNExDbTZYSjZ5el9EcXREZE9lbVJ0bnVud2FpX2plMlFPTkNYUjYtMFFUTW80bnJaYjRuU0w0VFo5dTdPNDhhT0tlcWh5RDBjQ0ZHMzFSVnNud240WWZOYmVGWHphbg?oc=5
 
-- Sebi cautions market players on risks from AI tools like Mythos; sets up task force
-  Sebi has formed a task force called cyber-suraksha.ai to address these concerns. The group will examine AI risks and develop strategies. Market participants are urged to strengthen their cybersecurity measures.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cautions-market-players-on-risks-from-ai-tools-like-mythos-sets-up-task-force/articleshow/130834453.cms
+- Markets News, May 5, 2026: Nasdaq, S&P 500 Hit New All-Time Highs as Tech Shares Rally; Oil Prices Retreat After Surging on Middle East Tensions - Investopedia
+  Markets News, May 5, 2026: Nasdaq, S&amp;P 500 Hit New All-
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHNkdllsSU80d2RTdEVSRnZoN25OWUJsRk9YNkRDUy0xeTBzc01qTklSNWlhMkExNEVxUjZQNG85WFN6Y1FNOHpCTVVaTDZSbF81SDBJRGZiVDlYb01xVGRkUGZmaVlmSnBiSDhBYW5vQTl6QS1lR29lQlZtWTlxQnhlUlVNLWpoTFdkVkxIR0w?oc=5
 
-- Bull market or trading illusion? Nithin Kamath says India's stock market data is sending mixed signals
-  Nithin Kamath: India’s market rally may not reflect a broad bull run. weak cash turnover and negative equity inflows. Growth is driven by S
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bull-market-or-trading-illusion-nithin-kamath-says-indias-stock-market-data-is-sending-mixed-signals/articleshow/130833732.cms
+- Gold jumps on weaker dollar, Middle East peace hopes
+  Gold prices surged over 1% as a weaker dollar and easing oil prices reduced inflation concerns. President Trump's decision to pause a Strait of Hormuz operation contributed to the dollar's decline and eased geopolitical tensions.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-on-weaker-dollar-middle-east-peace-hopes/articleshow/130842162.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian markets closed lower amid selling in financial, consumer and realty stocks. Nifty and Sensex declining. Technical indicators signal weak momentum but hint at possible recovery.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/130833593.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a gap-up start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-bajaj-auto-share-price-06-may-2026/liveblog/130842103.cms
 
-- What Modi’s big win in Indian state elections could mean for its democracy - Al Jazeera
-  What Modi’s big win in Indian state elections could
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkxSODNlblVYU0cwUjVJS2Q2RzA2TXhnRlBEd0R5RVpBazNFSU40U0szbEhxTjFGT1ZLZjg2dVp3SEUtR1FMM3djZ3lqeVJpMnVqUnRWQW1TNTVpWVhfbEU3T0k1bHRjRkhrczE0eWRqTTF3RUdwSmJ3QnYzcnpzY0s2ZENJZkJJRnRtN21vMV9PR3VyWFpMSFNXWnhLR1dzWFdIeE12SGFjd0EzdmJoYmNtUdIBuAFBVV95cUxOM0tjYWh4bTNDSEpuM3dVU3BNNWNTek9yLS14eGJNVVV4aE5wTUU0V25Ta0U0RjdveU5ubHR2aVBadHZqTThON1VsWFU4YjljUGJPVnV2QWpBQWtveFAteUozSUdZYllwRWtsamg4S1Z1RjJCTERYdWN5YWhCaUh4Vmx5UGE4TGxsZjBsaWFaS2FTQVZxcFYwdzhpWDU3aHBVbkl0MDNsbEZtZF9uZVR0b0drSjBUYk0t?oc=5
+- Oil prices fall a second day as Trump indicates possible Iran peace deal
+  Brent crude futures for July fell $1.52, or 1.38%, to $108.35 per barrel as of 0103 GMT. U.S. benchmark West Texas futures for June
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-a-second-day-as-trump-indicates-possible-iran-peace-deal/articleshow/130841907.cms
+
+- Dalal Street poised for strong start as GIFT Nifty hints at robust gap-up opening
+  The Nifty index remained below a key technical level for eight days. Foreign investors were net buyers, while the Indian Rupee touched a record low.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/130841855.cms
+
+- Stocks in news: Paytm, Bajaj Auto, L&amp;T, Bharti Airtel, Hero MotoCorp
+   markets closed lower amid global headwinds and geopolitical worries. Several companies like Paytm, Bajaj Auto, and L&amp;T are in focus due to Q4 results and news developments. Hero MotoCorp reported strong Q
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-paytm-bajaj-auto-lt-bharti-airtel-hero-motocorp/articleshow/130841827.cms
+
+- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
+  West Bengal: Modi's BJP conquers one
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
 - "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
   "Unacceptable": PM Modi After Iran's Attack
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
 
-- Enviromental organisation launches online air quality dashboard for India - The Times of India
-  Enviromental organisation launches online air quality dashboard
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVnhCQWVFUldIZ3JlUjhmVktvdmZ0QjVQZFU4T0JoQXBvZWFqSXpDUWdtMEs0TU81TVJ0NTJpOWt6QnJ5MnZMVTg0bWp3OFVpYkh3ck0yZ1FINGRLSGVDcHQtRHpqY2N6aTJDSzA2SUo5cXVPOUlDVXpQRm1va1FXYTRTU2t5bWMtaDRZZDN4N0ljeEVfQ1h1dDlTWXBVM2cyTEd5ODI4Z2dmMndBRmhBeDFuY1ZHRTJrMXB4bktHTTI5M2N4Q1FVYjJLdVJpd3BGdHpoRmIwY1lGVjVuNHFj0gHkAUFVX3lxTE5sMVBOVXJNeUVObGlIYWFXS0lFU2MtWDJxQ1hUb3E4ZWFwYXNvamhPN3hibmdCenZlaDdnUGVkcFBoT3Y2UnFHS0hjRktMMXM1R0ZGRmlFWnNVZ2xpdHNTb0x5YkhwQmVueDRoUm9kOFFGWWRWdHdRNS1pbVh6bTNRckhqa2RDRUFmaEdEdWhCS2hNdW1EbHJKY2JFcmVUM2YxZzRMZk5rVTZmSVJuc1NvelJKZVZYc1F5M0lxZ1RXNEpIb1FZMU9DdUdZV1hpOVh1WTJnR2lFOXhiU2FENW5MS2d0aw?oc=5
+- India’s energy security amid conflicts - The Hindu
+  India’s
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0FjVTVuS2xSWUJhRzljTHdqUDNjUXR1NW8tQW5FREhRVE5fSnRWUUJPQ24yc3VmY2dRdnBfTFowMUI4VE41eU9EUFdQekZHYjNVWFd6d21sTUFJS2Y3djhKLU9ydWFYc2dOdWEycFJYZE1FalFxZjZrLW5SYTMzZU9sS1NTT0pMWk1xRUppckjSAZcBQVVfeXFMUG45X0t6VmM1U3ZKZU13el9nRVJfYUlpdVVSOGduSDlxRm15aU1oRGNNOEw4Y3pCTHh2RUVYVzBhR2pmNEVPc0QzN0k1UEI1SGN4U2FNTXZqaGF3Zm5hOFhTV0tBU2l2eG5WdUlWeFlvdXd3S3c1NVlmRUFqSmducS13UTh6cHNvYzE0TDN3Wjc1SDhua0MyVQ?oc=5
 
-- Delhi Child Dies After Falling Into Open Drain, Junior Engineer Sacked - NDTV
-  Delhi child dies after falling into open drain
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGRpOWlLLXlmX1FiNTNOMm5URXBQa19ZZHRfdGJUbUpzMVhqbTJOVXdnQVVBMnNVUWF3ejgwUkhrYkN3b09MVE5OTEJCUU0xV0ZqM19WMk5PeHZwTTNyRmpHY3k0SmxMT0RURlg4RWFpa2EzT2VoS3ZoQU5XSHhteDFNVUx1SzMzQ1lfVFVMNzJmdVFEZl9ZUHFnNi1XcHYxNkRhX2VSSXFHYUhTYUxv0gG3AUFVX3lxTE5vWUpaQ1MwbFJVdE0yOGp0ZWNBY3pZYXVYS2ZCdUlGNUtLMmVOTkZUS1FHX0VuZHZjM2dHQklqMDlEa3IxdnFxUEg1WERfM04xZkhhRVNCQTktRUNUbG9WdExCeHZSOVpEVUVoNWlINnMxQ09pdllZUFZOYmxvenJQZmo3bDlBbExtYUMwNmo4bkJiSE45d2FsQ01keEkyOTcyTzlSU0tHdUp3b3JCek90M2lhRUhzcw?oc=5
+- Breaking News Live Updates: 2 killed, 3 injured in back-to-back shootings near Dallas; suspect held over business dispute - The Times of India
+  The Times of India reports that the suspect was involved in a business dispute. The suspect was arrested
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXhEQldteWlFVllDOTJCS0gxNVRoazFOdXdIMkhqbHZVS0dKdVRDUWo5VWpoODZyd05JclVlcE5ISjZRSGVVX1p4VmhCdWxlNEdXRjEzd2FhMG1hVXZoRkEzWWcydEhWbWlzWFVIbTM4X2s0T1hQY2h2R0tnbWliZW1xNWo2aUZmWXVsMTZaTFVIME9PNlFiYkxjcHYyd3FGc1RLTHhzWVpXQi1GTmJrXy1ZbG0zRzJYdlRaMFkybGZySE5kRFHSAcsBQVVfeXFMT201bVdULXdWQnlNRnhZRTJES3htSE5Gcl9ydmFWa0VJQ2tQUDh3MmxPOUdrcGozSC1iMEx3ZHU1RWhubGZMOHZXU3ZuYm11LWltMG03MGEyZThCbVZQREdadGtJamxNaVR0Rkk0eXpWWDJaOUtzWTRpQ1owN0RzcVNPMUxKRWw5cWVNX1MzX09ocFQzdVlMREhFSERENExjdVdJU2ZsR0Y1VTBZYjNVQXdGdE80MXNLV1NmOFlFQ1dpQWpOa0xtQ2p0MXM?oc=5
 
-- Put petty politics aside; it's not about one party, but India: Rahul on TMC's loss in polls - The Hindu
-  "Put petty politics aside; it's not about one party, but India:
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQlhoanZHUEtiSXBHNGlyNjF2a0hjaVF6NzhqQ2RwZzQxenl2Y0dTN2VwdjhzQmx4aE9pdWJGT3ZHXzFmdVFMdXM4RkhqX0VKWnl2bXppN3FjUktjQVVMeDVKNHhJVjlGUFBuUjZyLTNocndrV3FsdThFU0JCM3pWVHBTX1B3VWNYR3plYmFpbnIzMHc0SDFsZTg3N2gyejcxUkJCdHFaZUlwX0hLcWU0NUF5czBIczFtVmc4eVlJaVJOcmdmNWZzdjJSLTNrZzIwMXI1VFkzTDlnUmtKVnfSAeQBQVVfeXFMTS04NEdFVjlxTlF1dTZzaUJkSUJROEdVelNtNGIzWjI5OFlOb2YwZjNfQ2RUN1R6cVNWc3NlNzZlQ1FJZDJPNVVsbWtYaDFwTUZ5Z0xrdmFHeVBpdGVKZjVyd3RMMGU5YllBMXlxWUZnU2V4Mi1yak83WTB0RnJuTEJWOWVHeFEtYURrc0dqMFBEQ3BYNmRZQkdacEYwQkZqaFRTRWpSMzNsenBUZF9tckllQlo1M3NmU0xBV2puZmhlcWx4cC13VGRHUjdpX2dEWXBwc18tX1BWTmNxRHJnVzBWTml6?oc=5
+- ‘Hindus only’ banner appears at Bengal temple - The Times of India
+  ‘Hindus only’
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFoRU9pc0VVbGczcjZpWHp1WjQ5bXBic0dqb2tCem85WkpoVDBIRFNZS1ZQZE9HOGlLUEVja18tWjdmZjNkREEwdEk1cEs1WlY2aXpYMkZQNWpNYjZXZkttWVd4UlFjWnQ0NC0zNmN6VlNUdzE4dWFwcnJ0REtBaEpRTE4yMklVT09PTy1CclBHa1d4dUFZcHFoT3lLbDNoT0hRVVdJc0xoelpqU1h4b9IBtgFBVV95cUxQbnZSRlAtNElIYTEyQTdCaFFJUmVoMDI1ZGhkbHJOeVJGQVcxUlVyMVUtWXFfOFR4aFJOMHZGX243el9iRlZQdU9lWU10Q2F0ejlFdlpWdF9hd1d3VWxHbjZibmRsZ1ZYUUpUck9TMXNyQkp3UHB0SWplZEdJMG5yZ2MxTm1rV1BYdjU2M2loellfSWVPY0dTdnJsa082WFNTdnMwNVV4bW4wTU9MSG5xd3d4OTRodw?oc=5
+
+- West Bengal: Modi's BJP conquers one of India's toughest political frontiers - BBC
+  West Bengal: Modi's BJP conquers one
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+
+- "Unacceptable": PM Modi After Iran's Attack On UAE Port Injures 3 Indians - NDTV
+  "Unacceptable": PM Modi After Iran's Attack
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObF9iaUUyZDl5bEFNNHdsS2FYV3c1S2tjTndzbi02Yld0bzJ1OHlLODZudGE2b3pxR2lSUWZzbXVROHo1WUtHWDZSNFhLek1ETmMwMm1Rek9xSEU4R3RKQmdkRnJFYUZiZVJESUFIazhNMEQtc01WWk1nT0RlMXRJdVBWVms2cUdIRnBzbjZfVTBaMEM3Q3VoY2puQ3dDcXcxdnFNZTIxdDMzQUxKUzRWUE92Rk1qUTRwellKM0FHMVdkQdIBygFBVV95cUxQR1J0ckRyVGNJaVphXzZ2amFsSkhTMDZmbmxPa0U2OWdNcXhYLXh1ZmlJekNrREloSHFyNEwxMHcybURNVnVHNUZSN2w1VlJ3ZjBYRllDRHhweDYwbzZDZk14cUxGZmx5bTV2NU5yMDNib1dmeU13Zjd3UXVlMVkzYUJoWHVMeW5uXzRRSVpXblBKU1dPZjI1UjVXWVh2ZEFTams4ak1RSkRNLVlLT29xZEVSVG5aVGVHeFpRRlNrVUhGeDBscFlCSGRB?oc=5
+
+- India’s energy security amid conflicts - The Hindu
+  India’s
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0FjVTVuS2xSWUJhRzljTHdqUDNjUXR1NW8tQW5FREhRVE5fSnRWUUJPQ24yc3VmY2dRdnBfTFowMUI4VE41eU9EUFdQekZHYjNVWFd6d21sTUFJS2Y3djhKLU9ydWFYc2dOdWEycFJYZE1FalFxZjZrLW5SYTMzZU9sS1NTT0pMWk1xRUppckjSAZcBQVVfeXFMUG45X0t6VmM1U3ZKZU13el9nRVJfYUlpdVVSOGduSDlxRm15aU1oRGNNOEw4Y3pCTHh2RUVYVzBhR2pmNEVPc0QzN0k1UEI1SGN4U2FNTXZqaGF3Zm5hOFhTV0tBU2l2eG5WdUlWeFlvdXd3S3c1NVlmRUFqSmducS13UTh6cHNvYzE0TDN3Wjc1SDhua0MyVQ?oc=5
+
+- Breaking News Live Updates: 2 killed, 3 injured in back-to-back shootings near Dallas; suspect held over business dispute - The Times of India
+  The Times of India reports that the suspect was involved in a business dispute. The suspect was arrested
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXhEQldteWlFVllDOTJCS0gxNVRoazFOdXdIMkhqbHZVS0dKdVRDUWo5VWpoODZyd05JclVlcE5ISjZRSGVVX1p4VmhCdWxlNEdXRjEzd2FhMG1hVXZoRkEzWWcydEhWbWlzWFVIbTM4X2s0T1hQY2h2R0tnbWliZW1xNWo2aUZmWXVsMTZaTFVIME9PNlFiYkxjcHYyd3FGc1RLTHhzWVpXQi1GTmJrXy1ZbG0zRzJYdlRaMFkybGZySE5kRFHSAcsBQVVfeXFMT201bVdULXdWQnlNRnhZRTJES3htSE5Gcl9ydmFWa0VJQ2tQUDh3MmxPOUdrcGozSC1iMEx3ZHU1RWhubGZMOHZXU3ZuYm11LWltMG03MGEyZThCbVZQREdadGtJamxNaVR0Rkk0eXpWWDJaOUtzWTRpQ1owN0RzcVNPMUxKRWw5cWVNX1MzX09ocFQzdVlMREhFSERENExjdVdJU2ZsR0Y1VTBZYjNVQXdGdE80MXNLV1NmOFlFQ1dpQWpOa0xtQ2p0MXM?oc=5
+
+- ‘Hindus only’ banner appears at Bengal temple - The Times of India
+  ‘Hindus only’
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFoRU9pc0VVbGczcjZpWHp1WjQ5bXBic0dqb2tCem85WkpoVDBIRFNZS1ZQZE9HOGlLUEVja18tWjdmZjNkREEwdEk1cEs1WlY2aXpYMkZQNWpNYjZXZkttWVd4UlFjWnQ0NC0zNmN6VlNUdzE4dWFwcnJ0REtBaEpRTE4yMklVT09PTy1CclBHa1d4dUFZcHFoT3lLbDNoT0hRVVdJc0xoelpqU1h4b9IBtgFBVV95cUxQbnZSRlAtNElIYTEyQTdCaFFJUmVoMDI1ZGhkbHJOeVJGQVcxUlVyMVUtWXFfOFR4aFJOMHZGX243el9iRlZQdU9lWU10Q2F0ejlFdlpWdF9hd1d3VWxHbjZibmRsZ1ZYUUpUck9TMXNyQkp3UHB0SWplZEdJMG5yZ2MxTm1rV1BYdjU2M2loellfSWVPY0dTdnJsa082WFNTdnMwNVV4bW4wTU9MSG5xd3d4OTRodw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,13 +200,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- PayPal says it’s ‘becoming a technology company again’ — that means AI - TechCrunch
+  PayPal says it’s ‘bec
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVV5WjNfSEZJby0zUUtyYkZXeGR5aFplNEF1Q0pDVWhCdWhXNDNjTFlwUlN6OWVfc3lZZGlpaFVNQlNtLXZvSTByTU9WTklGS0hxMUhXdW9nTmJVQ2FvMG83cnJvV1F3UmxVU0tWWC14RkpjVGFrT2pvSFBaOVdkVkJXS1lkdjlla0JEZmVlUnVBd3FUVW1Ca3UtR3VEemY0TGc?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- After a 40-year wait, technology finally enables three-sided zipper design - Tech Xplore
+  After a 40-year wait, technology finally
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3l3NEZOOTdxUW10eG9JZ2xSN3pLcFNqcDhXQXJHWUFVenBsWk5hemUxQ1dQbmd5Q0d4VGdNMW5ISWY0X1BRRVBia1ZiUXVtUXI2S0NXRklDTHd1bVl4UDdFdWFXTXRwTFBDTjdJWFVGaFFlTXhkXzlEVlExOU5oRnBQRQ?oc=5
+
+- The new GEL−KAYANO™ 33 shoe introduces FLUIDSUPPORT™ technology for a new era of plush stability and comfort - TheNewsMarket
+  The new GEL−KAYANO™ 33 shoe introduces FLU
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNdUFlcVVXUFhSRFVpZFNHdGxiZy0zNl9jYldMand3ekhlWjVhUExwZHRtZ2dPVFNIYkE3dXRfTFgwSGVIZjBQN3FZUkZqTHNkWTVHR3pWMVJvOXo5dTBSaXBlRTJXVFZYZE1FdTJwcDM2aFVUY2E3SzRIcl9LYXRja3NIZk5OSk9HLTVCcEF3VXg0b0x3Q1lQN09sOXp6NTNDd2F0M2Z4X1hjM09udWpQcXpXYUFDV0lMLXR0aUo5NS1pd1YySGRwMDk2bHAzZDVxWjFWVUc1Tm1xdjB6V0VENUJIVmVGTFFBVEZHdzNWY3h0d29ueHVhdGMzcnJkZVZlNk56UA?oc=5
+
+- The tech revolution that wasn’t - MIT News
+  The tech revolution that
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxPalBTUklEVldWZkViOWhDNUdBWWRZRC1ZeDM0enQ1ZmdWc0NEX3Z6cVNkRGk1TlU3X2ctYlBjSW0zcTlDRUVqcDNoalF4UFpNM21qWVVMM3FjMjJlRjE4OFRtMm5sRnZSZG11ejRROVhRSDdRMjQxa3BlSUc4SE5LRzR3?oc=5
+
+- Lunar Resource-Seeking Technologies - NASA (.gov)
+  Lun
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUFzbkN1S2VfYWJFWWg4bWF1QkIzMEwtQUFLaDFWcmNFMV9Xd2hmYUE1cHVZQlVwT2x5dWhLZU8yRDBtMXQwanJlS1NrMHU2NHQ1OHJzN2hnQ2kwUXlqM3F4RVZSVERmV051XzBZNHdLTS0tZkV6elNpNy1FU0RLZzg1NjhCUm8tZWRjUmlUeTRiUG9qSFd2dUVUTVY?oc=5
 
 
-_Last updated: 2026-05-05 19:14:47 UTC_
+_Last updated: 2026-05-06 02:27:22 UTC_
