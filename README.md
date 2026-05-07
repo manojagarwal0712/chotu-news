@@ -1,204 +1,184 @@
 # 📰 Daily News Summaries
 
+- Bihar Cabinet expansion: Nitish Kumar’s son, VK Sinha, 30 others take oath as ministers in Samrat Choudhary government
+  
+  🔗 https://indianexpress.com/article/india/bihar-cabinet-expansion-full-list-of-ministers-in-samrat-choudhary-10677265/
+
+- 2 new mothers dead as C-section complications lead to crisis in Kota medical college
+  
+  🔗 https://indianexpress.com/article/india/new-mother-dies-c-section-complications-kota-medical-college-10677255/
+
+- Early morning action: Rajasthan ACB arrests former Congress minister Mahesh Joshi in Jal Jeevan Mission ‘scam’
+  
+  🔗 https://indianexpress.com/article/india/rajasthan-acb-arrests-former-congress-minister-mahesh-joshi-jal-jeevan-10677050/
+
+- ‘Unparalleled courage, precision of armed forces’: PM Modi on 1 year of Operation Sindoor
+  
+  🔗 https://indianexpress.com/article/india/narendra-modi-operation-sindoor-armed-forces-10676985/
+
 - 2,000-passenger casino vessel can’t sail into Goa’s Mandovi river just yet, Bombay HC says
   
   🔗 https://indianexpress.com/article/india/2000-passenger-casino-vessel-cant-sail-into-goas-mandovi-river-just-yet-bombay-hc-says-10676730/
 
-- 2 years, 52 posts, no appointments: BJP workers grow restless in Rajasthan
+- Just 10 minutes of AI use can hurt your thinking skills, study finds
   
-  🔗 https://indianexpress.com/article/india/2-years-52-posts-no-appointments-bjp-workers-grow-restless-in-rajasthan-10676727/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/just-10-minutes-of-ai-use-can-hurt-your-thinking-skills-study-finds-10677336/
 
-- Loans, votes and AI: Bihar Cabinet goes big as Tejashwi Yadavflags debt crisis
+- OnePlus Nord 6 review: Raw performance, bigger battery make it a complete package
   
-  🔗 https://indianexpress.com/article/india/loans-votes-and-ai-bihar-cabinet-goes-big-as-tejashwi-yadavflags-debt-crisis-10676720/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-6-review-specs-battery-performance-10677343/
 
-- Minor girl ‘kidnapped and gangraped’ in Uttarakhand; Congress seeks to corner BJP over ‘protecting criminals’
+- Best smartwatches for women in 2026: Top 6 picks for fitness, health and style
   
-  🔗 https://indianexpress.com/article/india/minor-girl-kidnapped-and-gangraped-in-uttarakhand-congress-seeks-to-corner-bjp-over-protecting-criminals-10676735/
+  🔗 https://indianexpress.com/article/technology/gadgets/best-smartwatches-for-women-in-2026-top-6-picks-for-fitness-health-and-style-10677052/
 
-- India, Vietnam elevate ties to enhanced comprehensive strategic partnership
+- Google adds Reddit and community discussions to AI-powered search results
   
-  🔗 https://indianexpress.com/article/india/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-10676775/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-adds-reddit-and-community-discussions-to-ai-powered-search-results-10677073/
 
-- Blue Origin’s cargo Moon lander moves closer to launch after Nasa testing
+- Anthropic turns to Elon Musk-owned SpaceX for AI compute as Claude demand surges
   
-  🔗 https://indianexpress.com/article/technology/science/blue-origins-cargo-moon-lander-moves-closer-to-launch-after-nasa-testing-10675952/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-elon-musk-spacex-ai-compute-claude-demand-10676916/
 
-- Tech Launches Today (May 6, 2026): CMF Watch 3 Pro, Dreame summer sale, Cashify Select, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-6-2026-cmf-watch-3-pro-dreame-summer-sale-cashify-select-and-more-10676283/
+- Fairfax to inject  ₹2,000 crore into Nirmal Jain's IIFL Capital for a majority stake
+  Canadian investor’s stake could raise Canadian
+  🔗 https://www.livemint.com/companies/news/fairfax-inject-rs-2-000-crore-into-nirmal-jains-iifl-capital-majority-stake-11778137001798.html
 
-- Adobe and OpenAI integrate ChatGPT ads into GenStudio for Performance Marketing
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/adobe-and-openai-integrate-chatgpt-ads-into-genstudio-for-performance-marketing-10676252/
+- Aditya Birla Sun Life AMC joins Category III AIF rush with  ₹2,000 crore fund
+   Category III AIFs are increasingly being used by asset managers and wealth firms. They offer hedge fund-like public market products to high-net-
+  🔗 https://www.livemint.com/companies/news/aditya-birla-sun-life-amc-joins-category-iii-aif-rush-2-000-crore-fund-hni-11778121078707.html
 
-- Google sunsets Project Mariner as AI agent race shifts to OpenClaw-style tools: Report
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-sunsets-project-mariner-ai-agent-race-report-10676237/
-
-- vivo X300 Ultra and X300 FE launched in India with ZEISS cameras, flagship performance
-  
-  🔗 https://indianexpress.com/article/technology/vivo-x300-ultra-and-x300-fe-launched-in-india-with-zeiss-cameras-flagship-performance-10676024/
+- ‘QA is always the first hit’: Freshworks’ 500 layoffs fuel fears of AI replacing testers
+  Freshworks is laying off 500 employees globally as it restructures around AI. Workers told LiveMint AI-led testing workflows are reshaping careers. Some say
+  🔗 https://www.livemint.com/companies/qa-is-always-the-first-hit-freshworks-500-layoffs-fuel-fears-of-ai-replacing-testers-11778125877765.html
 
 - How AI bots hired over 260 candidates at Piramal Finance
   Piramal Finance, a non-bank financier
   🔗 https://www.livemint.com/companies/ai-hiring-piramal-finance-jobs-ajay-piramal-artificial-intelligence-nbfc-india-11778060548042.html
 
-- Six months after deadline, Ola files financials flagging steep losses
-  Ola Consumer’s consolidated revenue from operations fell 41% to  ₹1,171 crore in FY25.
-  🔗 https://www.livemint.com/companies/news/ola-consumer-cabs-financial-loss-ride-hailing-firm-uber-rapido-11778065884631.html
-
 - Pronto closes $45 million Series B at $200 million valuation
   The fundraising announcement comes barely a week after its closest rival, Snabbit, raised $56 million in a
   🔗 https://www.livemint.com/companies/start-ups/pronto-series-b-funding-45-million-home-services-india-11778034029964.html
 
-- Meesho to sharpen AI focus as voice search, recommendation tool lift user base
-  The Bengaluru-based company’s fourth-quarter loss narrowed 88% to  ₹
-  🔗 https://www.livemint.com/companies/news/meesho-to-sharpen-ai-focus-after-q4-loss-narrows-over-88-yoy-to-rs-166-cr-11778078343224.html
+- Recode Studios IPO GMP signals 27% listing pop — Issue booked 104x so far on Day 3. Check key details
+  Recode Studios IPO GMP was  ₹43 per share. At the prevailing GMP, Recode Studios shares could list at a premium of 27.22% as
+  🔗 https://www.livemint.com/market/ipo/recode-studios-ipo-gmp-signals-27-listing-pop-issue-booked-104x-so-far-on-day-3-check-key-details-11778140893272.html
 
-- Ola Consumer plans IPO for funds as cash options run out
-  An Ola Consumer IPO is one of the few options available to founder Bhavish Aggarwal to fund
-  🔗 https://www.livemint.com/companies/news/ola-ipo-preparations-cash-crisis-uber-rapido-bhavish-aggarwal-11778070931254.html
+- Polycab’s outlook brightens after FY26 market share gains
+  Polycab’s shares have gained 34% from their early April lows.
+  🔗 https://www.livemint.com/market/mark-to-market/polycab-india-q4-earnings-polycab-share-price-cables-and-wires-industry-india-11778137691439.html
 
-- Stocks to watch: BSE, Bharat Forge, Bajaj Auto, Paytm among 10 shares in focus today
-  The Indian stock market is likely to snap its gaining streak as trends in the Gift Nifty index signalled a negative opening on Thursday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bse-bharat-forge-bajaj-auto-paytm-among-10-shares-in-focus-today-11778118833605.html
+- Bharat Forge Q4 results 2026: Profit falls 17.5% YoY to  ₹232.57 crore; recommends final dividend of  ₹6.50 for FY26
+  For the full year FY26, the company's profit rose by 14.72% to  ₹1,079.66 crore
+  🔗 https://www.livemint.com/market/stock-market-news/bharat-forge-q4-results-2026-profit-falls-17-5-yoy-to-2-325-65-million-recommends-final-dividend-of-6-50-for-fy26-11778139556748.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 7 May
-  Indian stock markets surged on May 6, with Sensex up 941 points and Nifty 50 gaining 298 points. The rally was broad-based, boosted by reports of easing US-Iran tensions.
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-7-may-11778117828767.html
+- Promoter Shareholding: Godrej Properties, Adani Energy see stake hike; BHEL, Vishal Mega Mart, Biocon face cuts
+  Godrej Properties saw promoter holding rise from 47.2% to 51.7%. Adani Energy Solutions witnessed an increase from 71.2%, to 72.7
+  🔗 https://www.livemint.com/market/stock-market-news/promoter-shareholding-godrej-properties-adani-energy-see-stake-hike-bhel-vishal-mega-mart-biocon-face-cuts-11778138175906.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 May
-  Gift Nifty was trading around 24,460 level, a premium of nearly 13 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-may-11778118146155.html
+- Upcoming IPO: InCred Holdings files updated draft papers with SEBI for IPO
+  InCred Holdings Ltd has filed its Updated Draft Red Herring Prospectus-I with SEBI. The offering includes  ₹1,250 crores in new equity shares and an offer
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-incred-holdings-files-updated-draft-papers-with-sebi-for-ipo-11778137048126.html
 
-- Buy or sell: Gift Nifty signals muted start, Vaishali Parekh recommends three stocks to buy today — 7 May 2026
-  Vaishali Parekh recommends three stocks to buy today. Jun
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-three-stocks-to-buy-today-7-may-2026-11778116731882.html
+- OnePlus Nord CE6 launched in India with 8,000mAh battery, price starts at  ₹29,999
+  The Nord CE 6 features a Snapdragon processor, 8,000
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce6-launched-in-india-with-8-000mah-battery-price-starts-at-rs-29999-11778133854051.html
 
-- Asian markets today: Japan's Nikkei surges over 4% to hit 62,000 for first time on US-Iran peace deal hopes
-  Japanese stocks surged more than 4% on Thursday, with the benchmark Nikkei 225 crossing the
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-japans-nikkei-surges-over-4-to-hit-62-000-for-first-time-on-us-iran-peace-deal-hopes-11778116694289.html
+- OnePlus Nord CE6 Lite 5G launched in India with 7,000mAh battery, Dimensity 7400 Apex SoC: Check price and specs
+  The Nord CE 6 Lite has a starting price of  ₹20,999. The phone will be available to buy via from
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce6-lite-5g-launched-in-india-with-7-000mah-battery-dimensity-7400-apex-soc-check-price-and-specs-11778135703521.html
 
-- Google Chrome secretly installed a 4GB Gemini AI model on your computer: here's what we know
-  Google Chrome downloads 4GB AI model called Gemini Nano. Users can disable the model through Chrome settings, but it reinstalls if certain AI features are enabled.
-  🔗 https://www.livemint.com/technology/tech-news/google-chrome-secretly-installed-a-4gb-gemini-ai-model-on-your-computer-heres-what-we-know-11778115625396.html
+- OnePlus Nord CE 6 Launch LIVE Updates: OnePlus Nord CE 6 & CE 6 Lite launched in India - Check price and specs
+  OnePlus Nord CE 6 and CE 6 Lite have debuted in India with 50MP camera and over 7,
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce-6-lite-launch-live-updates-price-in-india-specifications-battery-snapdragon-7s-gen-4-11778128774382.html
 
-- Study says AI has yet to transform cybercrime
-  Study says AI
-  🔗 https://www.livemint.com/technology/study-says-ai-has-yet-to-transform-cybercrime-11778069972836.html
+- Worries about AIs risks to humanity loom over the trial pitting Musk against OpenAIs leaders
+  Musk to face off against OpenAI's leaders
+  🔗 https://www.livemint.com/technology/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders-11778126520864.html
 
-- Vivo X300 FE with Snapdragon 8 Gen 5 processor, 6,500mAh battery launched in India: Price, specs and features
-  Vivo X300 Fan Edition features ZEISS optics, Snapdragon 8 Gen 5, and a 6.31-inch AMOLED
-  🔗 https://www.livemint.com/technology/gadgets/vivo-x300-fe-with-snapdragon-8-gen-5-processor-6-500mah-battery-launched-in-india-price-specs-and-features-11778057174962.html
+- Claude can now 'dream' as Anthropic races to build ‘self improving’ AI agents
+  Anthropic has launched a new Dreams feature that enables the AI chatbot to review past
+  🔗 https://www.livemint.com/technology/tech-news/claude-can-now-dream-as-anthropic-races-to-build-self-improving-ai-agents-11778119736191.html
 
-- Vivo X300 Ultra launched in India with dual 200MP ZEISS cameras, 6,600mAh battery: Price, specs and features
-  Vivo X300 Ultra has a dual 200MP camera, Qualcomm Snapdragon 8 processor
-  🔗 https://www.livemint.com/technology/gadgets/vivo-x300-ultra-launched-in-india-with-dual-200mp-zeiss-cameras-6-600mah-battery-price-specs-and-features-11778059237828.html
+- BlackRock to invest in Shapoorji Pallonji's unit: Report
+  BlackRock is set to invest in a dollar bond to be issued by a unit of India's Shapoorji Pallonji Group.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/blackrock-to-invest-in-indias-shapoorji-pallonji-unit-dollar-debt-sources-say/articleshow/130885354.cms
 
-- Apple agrees to pay $250 million to iPhone 15 and 16 users to settle lawsuit over missing Siri AI features
-  The settlement, pending approval, will compensate iPhone 15 and 16 buyers. Apple faces criticism for delays in its promised Siri update and AI capabilities.
-  🔗 https://www.livemint.com/technology/tech-news/apple-agrees-to-pay-250-million-to-iphone-15-and-16-users-to-settle-lawsuit-over-missing-siri-ai-features-11778048710953.html
+- ET Alpha Wealth Summit: How AI, volatility and global trends will shape D-Street’s next move
+  The ET Alpha Wealth Summit on June 4 in Mumbai will gather experts to decode the market's next phase. It will explore AI's influence on jobs and the economy, and discuss global vs. local investment strategies.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-how-ai-volatility-and-global-trends-will-shape-d-streets-next-move/articleshow/130884968.cms
 
-- Positive Breakout: These 10 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/130875967.cms
+- MRF Q4 Results: Profit rises 37% YoY to Rs 680 crore; co declares Rs 229 per share dividend
+  Tyre maker MRF announced strong financial results. Net profit surged 37% year-on-year to Rs 680 crore in the fourth quarter. Revenue from operations also saw a 14% increase.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mrf-q4-results-profit-rises-37-yoy-to-rs-680-crore-co-declares-rs-229-per-share-dividend/articleshow/130884406.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bse-britannia-share-price-07-may-2026/liveblog/130875866.cms
+- Noel Tata’s IPO pushback said to trigger internal differences at Tata Group
+  Noel Tata opposes listing the parent firm, Tata Sons, despite upcoming Reserve Bank of India regulations. Two trustees will propose a public listing at an upcoming board meeting.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/noel-tatas-ipo-pushback-said-to-trigger-internal-differences-at-tata-group/articleshow/130884437.cms
 
-- Stocks to buy in 2026 for long term: M&amp;M, Marico among 5 stocks that could give 10-20% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-mm-marico-among-5-stocks-that-could-give-10-20-return/slideshow/130875877.cms
-
-- Did you get OnEMI Technology IPO allotment? The GMP ahead of listing is the best in last few months
-  OnEMI Technology IPO allotment status is available via KFin Technologies or exchange websites. Successful applicants will see shares credited on May 7.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/did-you-get-onemi-technology-ipo-allotment-the-gmp-ahead-of-listing-is-the-best-in-last-few-months/articleshow/130875816.cms
-
-- Gold steady as markets focus on potential US-Iran peace deal
-  Gold prices held steady near a one-week high as investors awaited clarity on a potential U.S.-Iran peace deal. While stocks and oil dipped on hopes of an agreement, market participants are now focused on the upcoming U.s
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-focus-on-potential-us-iran-peace-deal/articleshow/130875763.cms
+- AI boom keeping markets elevated despite geopolitical noise: Mark Matthews
+  Mark Matthews highlights extraordinary earnings, particularly in tech, fueling market highs. Matthews also sees India as attractive due to improving valuations and continued FII buying.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-keeping-markets-elevated-despite-geopolitical-noise-mark-matthews/articleshow/130884241.cms
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
-  Pakistan Navy Helps Stranded Indian Ship In Arabian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
-  34,878 cases registered against juveniles, 11
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
+- Australian grant helps seven Indian athletes unlock their potential - The Times of India
+  Australian grant helps seven Indian athletes unlock their potential.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
 
-- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
-  A Year After Operation Sindoor: How India's
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
+- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
+  Devil Wears Prada 2 was submitted for an A certification
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
 
-- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
-  Cybercrime cases up 18%, fraud emerges
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
-  Pakistan Navy Helps Stranded Indian Ship In Arabian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
-
-- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
-  34,878 cases registered against juveniles, 11
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
-
-- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
-  A Year After Operation Sindoor: How India's
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
-
-- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
-  Cybercrime cases up 18%, fraud emerges
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
+- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
+  Vijay Meets Governor Again, Ready To
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
-  Pakistan Navy Helps Stranded Indian Ship In Arabian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
-  34,878 cases registered against juveniles, 11
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
+- Australian grant helps seven Indian athletes unlock their potential - The Times of India
+  Australian grant helps seven Indian athletes unlock their potential.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
 
-- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
-  A Year After Operation Sindoor: How India's
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
+- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
+  Devil Wears Prada 2 was submitted for an A certification
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
 
-- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
-  Cybercrime cases up 18%, fraud emerges
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
+- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
+  Vijay Meets Governor Again, Ready To
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
-  Pakistan Navy Helps Stranded Indian Ship In Arabian
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
-  34,878 cases registered against juveniles, 11
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
+- Australian grant helps seven Indian athletes unlock their potential - The Times of India
+  Australian grant helps seven Indian athletes unlock their potential.
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
 
-- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
-  A Year After Operation Sindoor: How India's
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
+- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
+  Devil Wears Prada 2 was submitted for an A certification
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
 
-- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
-  Cybercrime cases up 18%, fraud emerges
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
+- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
+  Vijay Meets Governor Again, Ready To
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-07 02:29:53 UTC_
+_Last updated: 2026-05-07 08:29:28 UTC_
