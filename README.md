@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Nine-year-old swept across LoC returns home, revives calls for humanitarian corridor
+- 2,000-passenger casino vessel can’t sail into Goa’s Mandovi river just yet, Bombay HC says
   
-  🔗 https://indianexpress.com/article/india/kargil-child-body-return-pakistan-hunderman-sajjad-kargili-humanitarian-coordination-point-10676460/
+  🔗 https://indianexpress.com/article/india/2000-passenger-casino-vessel-cant-sail-into-goas-mandovi-river-just-yet-bombay-hc-says-10676730/
 
-- Narmada cruise boat crew fled without rescuing passengers, says court
+- 2 years, 52 posts, no appointments: BJP workers grow restless in Rajasthan
   
-  🔗 https://indianexpress.com/article/india/narmada-cruise-boat-crew-fled-without-rescuing-passengers-court-jabalpur-mp-10676453/
+  🔗 https://indianexpress.com/article/india/2-years-52-posts-no-appointments-bjp-workers-grow-restless-in-rajasthan-10676727/
 
-- Rajasthan BJP chief apologises after MLA Balaknath’s ‘casteist’ remarks spark backlash
+- Loans, votes and AI: Bihar Cabinet goes big as Tejashwi Yadavflags debt crisis
   
-  🔗 https://indianexpress.com/article/india/rajasthan-bjp-chief-rathore-apology-mahant-balaknath-casteist-remarks-saini-10676404/
+  🔗 https://indianexpress.com/article/india/loans-votes-and-ai-bihar-cabinet-goes-big-as-tejashwi-yadavflags-debt-crisis-10676720/
 
-- Thwarted 68 lakh cyber attacks on ECINET portal on counting day: Election Commission
+- Minor girl ‘kidnapped and gangraped’ in Uttarakhand; Congress seeks to corner BJP over ‘protecting criminals’
   
-  🔗 https://indianexpress.com/article/india/ecinet-portal-cyberattack-election-commission-68-lakh-malicious-hits-2026-results-10676447/
+  🔗 https://indianexpress.com/article/india/minor-girl-kidnapped-and-gangraped-in-uttarakhand-congress-seeks-to-corner-bjp-over-protecting-criminals-10676735/
 
-- Vijay stakes claim in Tamil Nadu, Governor says show me the numbers
+- India, Vietnam elevate ties to enhanced comprehensive strategic partnership
   
-  🔗 https://indianexpress.com/article/india/vijay-stakes-claim-tamil-nadu-governor-proof-majority-10676403/
+  🔗 https://indianexpress.com/article/india/india-vietnam-elevate-ties-to-enhanced-comprehensive-strategic-partnership-10676775/
 
 - Blue Origin’s cargo Moon lander moves closer to launch after Nasa testing
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/vivo-x300-ultra-and-x300-fe-launched-in-india-with-zeiss-cameras-flagship-performance-10676024/
 
-- Bajaj Auto posts strong FY26, warns of demand slowdown ahead
-  Bajaj Auto’s executive director Rakesh Sharma said on Wednesday in a post-earnings media conference that more than a
-  🔗 https://www.livemint.com/companies/company-results/bajaj-auto-posts-strong-fy26-warns-of-demand-slowdown-ahead-11778080919067.html
+- How AI bots hired over 260 candidates at Piramal Finance
+  Piramal Finance, a non-bank financier
+  🔗 https://www.livemint.com/companies/ai-hiring-piramal-finance-jobs-ajay-piramal-artificial-intelligence-nbfc-india-11778060548042.html
 
-- Who is Manoj Kohli, former Bharti Airtel executive onboarded to fintech Alt DRX’s Advisory Board?
-  Former Bharti Airtel MD and CEO Manoj Kohli has joined Alt DRX’s Advisory Board as a non-director advisor. This comes as the
-  🔗 https://www.livemint.com/companies/people/who-manoj-kohli-former-bharti-airtel-executive-join-fintech-digital-token-non-director-advisor-alt-drx-board-self-govern-11778085561541.html
+- Six months after deadline, Ola files financials flagging steep losses
+  Ola Consumer’s consolidated revenue from operations fell 41% to  ₹1,171 crore in FY25.
+  🔗 https://www.livemint.com/companies/news/ola-consumer-cabs-financial-loss-ride-hailing-firm-uber-rapido-11778065884631.html
 
-- Shree Cement dials back on expansion following Adani's move
-  Shree Cement's shift signals a potential cooling of the aggressive capacity-addition cycle among India
-  🔗 https://www.livemint.com/companies/company-results/shree-cement-q4-adani-cement-capacity-cement-industry-india-ambuja-cements-11778077282908.html
+- Pronto closes $45 million Series B at $200 million valuation
+  The fundraising announcement comes barely a week after its closest rival, Snabbit, raised $56 million in a
+  🔗 https://www.livemint.com/companies/start-ups/pronto-series-b-funding-45-million-home-services-india-11778034029964.html
 
-- 8th central pay commission: Who is IIM Bangalore professor, EAC member and the panel's part-time member Pulak Ghosh?
-  8th CPC's part-time member Pulak Ghosh is a tenured Professor of Finance, Decision Sciences and Public Policy at II
-  🔗 https://www.livemint.com/companies/people/8th-central-pay-commission-who-is-iim-bangalore-professor-eac-member-and-the-panels-part-time-member-pulak-ghosh-11778077156346.html
+- Meesho to sharpen AI focus as voice search, recommendation tool lift user base
+  The Bengaluru-based company’s fourth-quarter loss narrowed 88% to  ₹
+  🔗 https://www.livemint.com/companies/news/meesho-to-sharpen-ai-focus-after-q4-loss-narrows-over-88-yoy-to-rs-166-cr-11778078343224.html
 
-- Godrej Properties to expand premium real estate footprint
-  The real estate developer has lined up high-value projects across Gurug
-  🔗 https://www.livemint.com/companies/news/godrej-properties-expand-premium-real-estate-footprint-real-estate-developer-luxury-projects-11778038095851.html
+- Ola Consumer plans IPO for funds as cash options run out
+  An Ola Consumer IPO is one of the few options available to founder Bhavish Aggarwal to fund
+  🔗 https://www.livemint.com/companies/news/ola-ipo-preparations-cash-crisis-uber-rapido-bhavish-aggarwal-11778070931254.html
 
-- Canadian dollar dips as oil price drop crimps rate cut bets
-  Canadian dollar dips as oil price drop crim
-  🔗 https://www.livemint.com/market/canadian-dollar-dips-as-oil-price-drop-crimps-rate-cut-bets-11778092601768.html
+- Stocks to watch: BSE, Bharat Forge, Bajaj Auto, Paytm among 10 shares in focus today
+  The Indian stock market is likely to snap its gaining streak as trends in the Gift Nifty index signalled a negative opening on Thursday. Amid this backdrop, these stocks will
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bse-bharat-forge-bajaj-auto-paytm-among-10-shares-in-focus-today-11778118833605.html
 
-- Brokers' forum seeks RBI relaxation on proprietary trade funding curbs
-   brokers clarified to the RBI that proprietary traders don't speculate, but impart liquidity to the markets by offering two-way quotes.
-  🔗 https://www.livemint.com/market/rbi-new-proprietary-trading-rules-market-liquidity-impact-brokers-meeting-11778081120061.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 7 May
+  Indian stock markets surged on May 6, with Sensex up 941 points and Nifty 50 gaining 298 points. The rally was broad-based, boosted by reports of easing US-Iran tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-7-may-11778117828767.html
 
-- AMD shares jump over 21% to record high after strong Q1 earnings, upbeat outlook
-  Advanced Micro Devices shares rose 22% to $430 after reporting strong Q1 earnings of $10.3 billion. The company expects Q2 revenue of $11.2 billion, boosted by
-  🔗 https://www.livemint.com/market/stock-market-news/amd-shares-jump-over-21-to-record-high-after-strong-q1-earnings-upbeat-outlook-11778084709665.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 May
+  Gift Nifty was trading around 24,460 level, a premium of nearly 13 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-may-11778118146155.html
 
-- Walt Disney stock rallies nearly 8% after first quarter earnings surpass Wall Street expectations
-  Walt Disney reported its adjusted earnings-per-share at $
-  🔗 https://www.livemint.com/market/stock-market-news/walt-disney-stock-rallies-nearly-8-after-first-quarter-earnings-surpass-wall-street-expectations-11778083608784.html
+- Buy or sell: Gift Nifty signals muted start, Vaishali Parekh recommends three stocks to buy today — 7 May 2026
+  Vaishali Parekh recommends three stocks to buy today. Jun
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-three-stocks-to-buy-today-7-may-2026-11778116731882.html
 
-- Nifty, Sensex climb 1% on US-Iran deal hopes, but investors stay cautious
-  Global equity markets surged on reports of a possible US-Iran agreement to end West Asia conflict. Indian indices
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-sensex-climb-1-on-us-iran-deal-hopes-but-investors-stay-cautious-11778075596474.html
+- Asian markets today: Japan's Nikkei surges over 4% to hit 62,000 for first time on US-Iran peace deal hopes
+  Japanese stocks surged more than 4% on Thursday, with the benchmark Nikkei 225 crossing the
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-japans-nikkei-surges-over-4-to-hit-62-000-for-first-time-on-us-iran-peace-deal-hopes-11778116694289.html
+
+- Google Chrome secretly installed a 4GB Gemini AI model on your computer: here's what we know
+  Google Chrome downloads 4GB AI model called Gemini Nano. Users can disable the model through Chrome settings, but it reinstalls if certain AI features are enabled.
+  🔗 https://www.livemint.com/technology/tech-news/google-chrome-secretly-installed-a-4gb-gemini-ai-model-on-your-computer-heres-what-we-know-11778115625396.html
 
 - Study says AI has yet to transform cybercrime
   Study says AI
@@ -96,129 +100,105 @@
   The settlement, pending approval, will compensate iPhone 15 and 16 buyers. Apple faces criticism for delays in its promised Siri update and AI capabilities.
   🔗 https://www.livemint.com/technology/tech-news/apple-agrees-to-pay-250-million-to-iphone-15-and-16-users-to-settle-lawsuit-over-missing-siri-ai-features-11778048710953.html
 
-- Pixxel, Sarvam to build India’s first orbital data centre satellite amid space computing push
-  India is taking early steps toward space-based computing. Pixxel and Sarvam partner to build an orbital data centre satellite. Move comes amid rising global interest and energy constraints.
-  🔗 https://www.livemint.com/technology/pixxel-sarvam-to-build-india-s-first-orbital-data-centre-satellite-amid-space-computing-push-11778046621428.html
+- Positive Breakout: These 10 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/130875967.cms
 
-- Dow rises 600 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates - CNBC
-  Dow rises 600 points as oil retreats on Iran deal progress. AMD jumps after earnings: Live updates. Oil Plummets on Optimism US-Iran War May End Soon.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE13TVNiX0lZVlVyUW5FS09pX2J1LXhHZWxTaGh3SjY5aVdTVVZKb2RiSnZENktnQ2N4VFRkQWpjNlY1aGJ4bGlaR3FXVUJuOGZlTWQ4X1FiZHFlM3BoX2hVQnVUVjc1ekdvcjdsV0NmeTExNjl2UU1r0gF8QVVfeXFMTV9ZWWJDX2JjbjNZd3V2VjZucFRLQzdiNlpNNmN1X1REUGRleDQ5U29GZU1fLTk0dUYwSkVLdjJzTDNJbFo3UDlfUWlnWjh0aFphUHotNHRwbW5nSkl0bFo5dnlMLXdtSi0yeEc2aXpPczFpZjE5Nnplb3haUA?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bse-britannia-share-price-07-may-2026/liveblog/130875866.cms
 
-- Can’t let weekly markets turn into ‘security nightmare’: HC - The Times of India
-  ‘Can’t let weekly markets turn
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTlQWXZHWjRoUU1jS3FydHFTeEd1blhQNlktMDM0ZUgxN1A5QkpzdzVOOU1uaS1GSWpoZnZNcTljNzFxVlNIbURuOFNyNElHaUdSWDRwTmgtaWkwUlY5c1hMWGFYc3hPX3hDQVpLV3hyN1NlV3RDeFNLNnU1LWdvdGhBR3IzeWtVdHlOUXhROWlnWjEtVjVaZmtOREZONUlxNkJrWW1ERm5fdm5OLV9fQ2ZYU3FWWlZmVjZYcVdLdTVlNFVBQ2dj0gHMAUFVX3lxTFBBdXJpb2VuelU2b1llRmp4eGdabE5iZllpdFpMWnYzNTJQNmp0OXkwVklUeDlmTzRSRHBjdVVKRzdtdXUzeDlKN3J3b0JGdWZXMVI2anRKbGpzRG9yanF2YWgybjBCYXdwR0VzY2RLdG00SVNsZ3Brb2VfSDZ1Z3QzUTBSbVlmRTU1dWYxaUxmeVVKdHJzVC1zbG9TR2hhODZLVTVQQ1pNNFdFa2VkOTc0b3ZWVDdtOTZqWWp5cmhhVUNUY0VrNUxweFdSQQ?oc=5
+- Stocks to buy in 2026 for long term: M&amp;M, Marico among 5 stocks that could give 10-20% return
+  We have collated a list of recommendations from top brokerage
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-mm-marico-among-5-stocks-that-could-give-10-20-return/slideshow/130875877.cms
 
-- Searchlight Capital’s Zinterhofer Sees Bifurcated M&A Market - Bloomberg.com
-  Searchlight Capital’
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlRkZ0xIQzJWbFZWV0dHdVc1eWc0anVvajh2SkhPRDliQUVhVk9pYVA1UXNRcWQyWEI5N3JFRTd1bF9FRUR0c05SY2VVTTdEcHpTNUZnUVU3alJmazZiTzZGd0dCTmpnUF9xZnhOMDQ1SFRRX1BtUlhnZXVOaGVhdzRrWS1pYVA5WF9ZSW8xX0tKd2pLQmFFYkhTVVFlTTkzZk0yNU4xcFA0aXA2aHFVRA?oc=5
+- Did you get OnEMI Technology IPO allotment? The GMP ahead of listing is the best in last few months
+  OnEMI Technology IPO allotment status is available via KFin Technologies or exchange websites. Successful applicants will see shares credited on May 7.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/did-you-get-onemi-technology-ipo-allotment-the-gmp-ahead-of-listing-is-the-best-in-last-few-months/articleshow/130875816.cms
 
-- Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC
-  Oil prices drop and stock markets rise after reports of deal to end
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNFBjN1p4T0psWXNqc0pBajZfVmNMUGlJTE5UeUZRdVVsVjBkT2Uzc1Q1aEZKakhWQ214YlRucEhZcjFTOG5VcWpzVE5BQ3dSMkZ5b3ZFVG9FQQ?oc=5
-
-- US stock markets today (May 6, 2026): Wall Street rallies to record highs, crude oil tumbles on Strait of - The Times of India
-  US stock markets today (May 6, 2026): Wall Street rallies to record highs, crude oil
-  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxORUFmeTV2eXFyWEFPTld4bGduU1BONjhnNW1oYnh6cURXOGVQYUlvMmNFWVEydWoySUUtblFSeGFvYmcyR3YzWDA3R05KTjcwQVZrcjRkajFSTHZQVTRjd3FtRmdLbDJ5UDQ5ZTd4UnNnY09uVnpOakxQZFBXemFjWGZXQThZNjkyRi1WMFhOQU5wc2dzMi1XX3lSalhLVnFXbVFOQWo4VkRDM3dOdlJMaVUwUV96RU4xejJ6aFNuVk1DblF1dEpWRVByTUdFbDN3c1JuTGtYMVVmSHhSSDdVSnpQYTFHaGZFRUVyb1hseW9wU0hoeWNBTkc5VXMtYTlybkFzdjVpWkp2WFF1OW9PeGxwNEc3bE5SbDNWSWFaY2FzZnVrdkIySnVUdUl0RUZzTW9PNUxKWlVZMDRUNkHSAcMCQVVfeXFMTjVPNDZ2aDJPSU5TdVJ2R2JDTVV6VHZnOWIwcXZYbEZLRzd1YTRkNVk2WEtyWjAza1lwVUplQURRdTVReUxoWDFuSFVGN3F3SzJyNjZyN2VKVE05RFhNbjJJdHV2UmpRbEhaVm9xdm5xVExxYU43anVzQUtKMmF0ZXpwelc0cElVNEwzcEdkVldmXzRLRGttalBSZU84VlpxMVdvUU1GQzF3OS13SDlpZnZoMW9uUVpqaXI5XzAzQS1JTllDcFhZU2k1bHBDRDl6RFBXWlJreGNMbFE0UXhOVnR5cm1ZU2dVLU14MHRTWGxaajRfSjE0Mjl4aUpaMWFiTjgtb0xGSS1JYk1vZEZENXBObXR3LUJxVkVNSjJ5NnBueHFYSGMtenZRM291b3lOUEpUQnh0OHBtTlhFUGJzNGJHM0U?oc=5
-
-- SpaceX IPO gives Elon Musk sweeping power, curbs shareholder rights
-  SpaceX's IPO will grant Elon Musk unprecedented executive authority through supervoting shares, mandatory arbitration, and stricter shareholder proposal rules. Despite these restrictions, many investors are expected to participate due to Musk's track record and the potential for high returns
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-gives-musk-sweeping-power-and-curbs-shareholder-rights/articleshow/130863818.cms
-
-- RBI issues revised norms for entities dealing in forex
-  The Reserve Bank of India has introduced revised norms for foreign exchange dealings. The new regulations aim to streamline the authorization process for authorized persons.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-issues-revised-norms-for-entities-dealing-in-forex/articleshow/130863407.cms
-
-- US market today: Apollo surpasses $1 trillion in AUM, beats profit estimates
-  Apollo Global Management crossed $1 trillion in assets under management and beat Wall Street ​expectations for
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-market-today-apollo-surpasses-1-trillion-in-aum-beats-profit-estimates/articleshow/130862261.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Nifty and Sensex gained over 1%, led by banking, auto and pharma stocks. Domestic equities surged as crude oil slipped below $100 and US-India trade optimism
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130862200.cms
-
-- Market Trading Guide: Buy Hindustan Zinc and Vedanta on Thursday for gains up to 9%
-  Domestic stock markets ended with strong gains on Wednesday as oil prices slipped below the $100 a barrel mark. News of a likely trade deal
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hindustan-zinc-and-vedanta-on-thursday-for-gains-up-to-9/articleshow/130861940.cms
+- Gold steady as markets focus on potential US-Iran peace deal
+  Gold prices held steady near a one-week high as investors awaited clarity on a potential U.S.-Iran peace deal. While stocks and oil dipped on hopes of an agreement, market participants are now focused on the upcoming U.s
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-focus-on-potential-us-iran-peace-deal/articleshow/130875763.cms
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
-  Modi's BJP conquers Bengal,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
+  Pakistan Navy Helps Stranded Indian Ship In Arabian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
 
-- Suvendu Adhikari's Personal Assistant Shot Dead Near Kolkata - NDTV
-  Suvendu Adh
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNTdGFSbjhWa2FlbG5zaG4wOTNlTTllRE84U2VrSERxQ0xiSV9pTHRUSEhtUWgxd29IQ2ZUUWx5LXJNMkJmcmtwSEw5SzZ3cGM5d21aSHJYVXM1cHVzMVZnYm9DejljRlk2UEF6cGZEN0lLcGsycEhVcTRCUkNNY0pGdzBJa2xkZjNVUnhDOWlRbUJObmRoNk90U1RNWW9LOVoxU0hsNVRuTkp1bmRiNV9MMXB5WWhYNzJMcF9pODRKdjlG0gHMAUFVX3lxTE1yQmZ4OWRoRzlMNVFiclNVbFJuVDVncUR0MHc1V1ROZ3N0eldjUmVncUh3QzhLS0NJTm9SaEI2R051UW5Pam52UWxFUzVxc3VHb1NPeUMza290ZGUxT1ZBcEQtSUI4STFQRUREWmxVeDBidVpmaWxUZVM5U0ZubktFaTFoNzNybE5jOElaUXg4S0gzMGJyUm5oZE5DbmZ0b1dpLWplTHh4cEVXWkE4TER6bDJOU3RRem1PTEc4akF0Z1BDWmtqb0R5S182Tw?oc=5
+- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
+  34,878 cases registered against juveniles, 11
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
 
-- Middle East conflict: Three opportunities for India to secure supply chains in energy, fertilizers & defence - explained - The Times of India
-  The Times of India reports on the Middle East conflict. The conflict has created opportunities for India to
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNck1PYmlheVNaUXlFS2NONThaMFJXRFVxSmhvSmJzdVVIdW1yS0cxMlhWdlVZTkJIQVVwd0dtdnVQbXhfQ2tFYWVvUVBsRXhjZ3dlSzVOd3JaUUJVNWJybWstQ084SFphNGFjV25XbzNrVnRLU0FvTTg2Y1hUcTJQemRrRE1VNnRqQUJTUkpmeHo5bnZLMXB2OTBPLUd0MU52ZG1zTC1qeUlqdnhncDFDbXhzOFJrSGV3T0dwVWd0UDFjc0JpTzRLTXFmMHZYV0l5dkhWOVR5OS1WVzdPVi1wamRPcEo2Tlo3aUU4WlFCYnB1UTRaRl8zbHItZzRVVXBsRUkzSHN6cVhFS3F6ZHZMSU52eUVtYjFvcTBVajUwSXV6YlJuLUxz?oc=5
+- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
+  A Year After Operation Sindoor: How India's
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
 
-- Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry spokesperson Esmail Baqaei - The Hindu
-  Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhFb08xUjJoSFNJckVvRzh5MEktMW1KdC02Q0RqYTBxSmg0Vl9vcWI4Z3pmOU52d0Q5SFhDdWZsQm54M0Z5WG5kZFdYM3EtZ082RVZPTm5aaXNUNTZ2dlgtYlhHaFNRWlNycjRZa1VPSUExWkdENzBFNzh3bnM2ejJ1NTc1aXNZMmliaThiLVRCblBTSDkwdkpNZHp2bnEtS2Y5eEJXUzVDNW9aZC1hcHlTOHRIbHNWYUZSVG5CYmtEV2J1X1BpclR5c2HSAdMBQVVfeXFMUDhzTjhVcFRheG93VDJQVm1IXzFLUkYyejFpWnM3cm13MzRWLUxfaTZOLWdza0lNSDJXWkJwY25KLXVQY2tIRXNiUU9HV3YwNHNYWkdLRV9QRWYwRVhGNHllbXNMV0dQSk1EMGhqc0FaU2VwRFVsakNBRnJ4WGRsdFR0anJORkstam9VVm10NkVETHRpa1hiMy1jeDNwd1NnbkZCZDRJbmFFY2hoVnAwZUNHUElOOFpESk95MXBUakFlZGlwV2Jqdi1pSlRCU1RTeWsySQ?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
-  Modi's BJP conquers Bengal,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
-
-- Suvendu Adhikari's Personal Assistant Shot Dead Near Kolkata - NDTV
-  Suvendu Adh
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNTdGFSbjhWa2FlbG5zaG4wOTNlTTllRE84U2VrSERxQ0xiSV9pTHRUSEhtUWgxd29IQ2ZUUWx5LXJNMkJmcmtwSEw5SzZ3cGM5d21aSHJYVXM1cHVzMVZnYm9DejljRlk2UEF6cGZEN0lLcGsycEhVcTRCUkNNY0pGdzBJa2xkZjNVUnhDOWlRbUJObmRoNk90U1RNWW9LOVoxU0hsNVRuTkp1bmRiNV9MMXB5WWhYNzJMcF9pODRKdjlG0gHMAUFVX3lxTE1yQmZ4OWRoRzlMNVFiclNVbFJuVDVncUR0MHc1V1ROZ3N0eldjUmVncUh3QzhLS0NJTm9SaEI2R051UW5Pam52UWxFUzVxc3VHb1NPeUMza290ZGUxT1ZBcEQtSUI4STFQRUREWmxVeDBidVpmaWxUZVM5U0ZubktFaTFoNzNybE5jOElaUXg4S0gzMGJyUm5oZE5DbmZ0b1dpLWplTHh4cEVXWkE4TER6bDJOU3RRem1PTEc4akF0Z1BDWmtqb0R5S182Tw?oc=5
-
-- Middle East conflict: Three opportunities for India to secure supply chains in energy, fertilizers & defence - explained - The Times of India
-  The Times of India reports on the Middle East conflict. The conflict has created opportunities for India to
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNck1PYmlheVNaUXlFS2NONThaMFJXRFVxSmhvSmJzdVVIdW1yS0cxMlhWdlVZTkJIQVVwd0dtdnVQbXhfQ2tFYWVvUVBsRXhjZ3dlSzVOd3JaUUJVNWJybWstQ084SFphNGFjV25XbzNrVnRLU0FvTTg2Y1hUcTJQemRrRE1VNnRqQUJTUkpmeHo5bnZLMXB2OTBPLUd0MU52ZG1zTC1qeUlqdnhncDFDbXhzOFJrSGV3T0dwVWd0UDFjc0JpTzRLTXFmMHZYV0l5dkhWOVR5OS1WVzdPVi1wamRPcEo2Tlo3aUU4WlFCYnB1UTRaRl8zbHItZzRVVXBsRUkzSHN6cVhFS3F6ZHZMSU52eUVtYjFvcTBVajUwSXV6YlJuLUxz?oc=5
-
-- Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry spokesperson Esmail Baqaei - The Hindu
-  Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhFb08xUjJoSFNJckVvRzh5MEktMW1KdC02Q0RqYTBxSmg0Vl9vcWI4Z3pmOU52d0Q5SFhDdWZsQm54M0Z5WG5kZFdYM3EtZ082RVZPTm5aaXNUNTZ2dlgtYlhHaFNRWlNycjRZa1VPSUExWkdENzBFNzh3bnM2ejJ1NTc1aXNZMmliaThiLVRCblBTSDkwdkpNZHp2bnEtS2Y5eEJXUzVDNW9aZC1hcHlTOHRIbHNWYUZSVG5CYmtEV2J1X1BpclR5c2HSAdMBQVVfeXFMUDhzTjhVcFRheG93VDJQVm1IXzFLUkYyejFpWnM3cm13MzRWLUxfaTZOLWdza0lNSDJXWkJwY25KLXVQY2tIRXNiUU9HV3YwNHNYWkdLRV9QRWYwRVhGNHllbXNMV0dQSk1EMGhqc0FaU2VwRFVsakNBRnJ4WGRsdFR0anJORkstam9VVm10NkVETHRpa1hiMy1jeDNwd1NnbkZCZDRJbmFFY2hoVnAwZUNHUElOOFpESk95MXBUakFlZGlwV2Jqdi1pSlRCU1RTeWsySQ?oc=5
+- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
+  Cybercrime cases up 18%, fraud emerges
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
-  Modi's BJP conquers Bengal,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
+  Pakistan Navy Helps Stranded Indian Ship In Arabian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
 
-- Suvendu Adhikari's Personal Assistant Shot Dead Near Kolkata - NDTV
-  Suvendu Adh
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNTdGFSbjhWa2FlbG5zaG4wOTNlTTllRE84U2VrSERxQ0xiSV9pTHRUSEhtUWgxd29IQ2ZUUWx5LXJNMkJmcmtwSEw5SzZ3cGM5d21aSHJYVXM1cHVzMVZnYm9DejljRlk2UEF6cGZEN0lLcGsycEhVcTRCUkNNY0pGdzBJa2xkZjNVUnhDOWlRbUJObmRoNk90U1RNWW9LOVoxU0hsNVRuTkp1bmRiNV9MMXB5WWhYNzJMcF9pODRKdjlG0gHMAUFVX3lxTE1yQmZ4OWRoRzlMNVFiclNVbFJuVDVncUR0MHc1V1ROZ3N0eldjUmVncUh3QzhLS0NJTm9SaEI2R051UW5Pam52UWxFUzVxc3VHb1NPeUMza290ZGUxT1ZBcEQtSUI4STFQRUREWmxVeDBidVpmaWxUZVM5U0ZubktFaTFoNzNybE5jOElaUXg4S0gzMGJyUm5oZE5DbmZ0b1dpLWplTHh4cEVXWkE4TER6bDJOU3RRem1PTEc4akF0Z1BDWmtqb0R5S182Tw?oc=5
+- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
+  34,878 cases registered against juveniles, 11
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
 
-- Middle East conflict: Three opportunities for India to secure supply chains in energy, fertilizers & defence - explained - The Times of India
-  The Times of India reports on the Middle East conflict. The conflict has created opportunities for India to
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNck1PYmlheVNaUXlFS2NONThaMFJXRFVxSmhvSmJzdVVIdW1yS0cxMlhWdlVZTkJIQVVwd0dtdnVQbXhfQ2tFYWVvUVBsRXhjZ3dlSzVOd3JaUUJVNWJybWstQ084SFphNGFjV25XbzNrVnRLU0FvTTg2Y1hUcTJQemRrRE1VNnRqQUJTUkpmeHo5bnZLMXB2OTBPLUd0MU52ZG1zTC1qeUlqdnhncDFDbXhzOFJrSGV3T0dwVWd0UDFjc0JpTzRLTXFmMHZYV0l5dkhWOVR5OS1WVzdPVi1wamRPcEo2Tlo3aUU4WlFCYnB1UTRaRl8zbHItZzRVVXBsRUkzSHN6cVhFS3F6ZHZMSU52eUVtYjFvcTBVajUwSXV6YlJuLUxz?oc=5
+- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
+  A Year After Operation Sindoor: How India's
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
 
-- Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry spokesperson Esmail Baqaei - The Hindu
-  Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhFb08xUjJoSFNJckVvRzh5MEktMW1KdC02Q0RqYTBxSmg0Vl9vcWI4Z3pmOU52d0Q5SFhDdWZsQm54M0Z5WG5kZFdYM3EtZ082RVZPTm5aaXNUNTZ2dlgtYlhHaFNRWlNycjRZa1VPSUExWkdENzBFNzh3bnM2ejJ1NTc1aXNZMmliaThiLVRCblBTSDkwdkpNZHp2bnEtS2Y5eEJXUzVDNW9aZC1hcHlTOHRIbHNWYUZSVG5CYmtEV2J1X1BpclR5c2HSAdMBQVVfeXFMUDhzTjhVcFRheG93VDJQVm1IXzFLUkYyejFpWnM3cm13MzRWLUxfaTZOLWdza0lNSDJXWkJwY25KLXVQY2tIRXNiUU9HV3YwNHNYWkdLRV9QRWYwRVhGNHllbXNMV0dQSk1EMGhqc0FaU2VwRFVsakNBRnJ4WGRsdFR0anJORkstam9VVm10NkVETHRpa1hiMy1jeDNwd1NnbkZCZDRJbmFFY2hoVnAwZUNHUElOOFpESk95MXBUakFlZGlwV2Jqdi1pSlRCU1RTeWsySQ?oc=5
+- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
+  Cybercrime cases up 18%, fraud emerges
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
-  Modi's BJP conquers Bengal,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
+  Pakistan Navy Helps Stranded Indian Ship In Arabian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
 
-- Suvendu Adhikari's Personal Assistant Shot Dead Near Kolkata - NDTV
-  Suvendu Adh
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNTdGFSbjhWa2FlbG5zaG4wOTNlTTllRE84U2VrSERxQ0xiSV9pTHRUSEhtUWgxd29IQ2ZUUWx5LXJNMkJmcmtwSEw5SzZ3cGM5d21aSHJYVXM1cHVzMVZnYm9DejljRlk2UEF6cGZEN0lLcGsycEhVcTRCUkNNY0pGdzBJa2xkZjNVUnhDOWlRbUJObmRoNk90U1RNWW9LOVoxU0hsNVRuTkp1bmRiNV9MMXB5WWhYNzJMcF9pODRKdjlG0gHMAUFVX3lxTE1yQmZ4OWRoRzlMNVFiclNVbFJuVDVncUR0MHc1V1ROZ3N0eldjUmVncUh3QzhLS0NJTm9SaEI2R051UW5Pam52UWxFUzVxc3VHb1NPeUMza290ZGUxT1ZBcEQtSUI4STFQRUREWmxVeDBidVpmaWxUZVM5U0ZubktFaTFoNzNybE5jOElaUXg4S0gzMGJyUm5oZE5DbmZ0b1dpLWplTHh4cEVXWkE4TER6bDJOU3RRem1PTEc4akF0Z1BDWmtqb0R5S182Tw?oc=5
+- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
+  34,878 cases registered against juveniles, 11
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
 
-- Middle East conflict: Three opportunities for India to secure supply chains in energy, fertilizers & defence - explained - The Times of India
-  The Times of India reports on the Middle East conflict. The conflict has created opportunities for India to
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNck1PYmlheVNaUXlFS2NONThaMFJXRFVxSmhvSmJzdVVIdW1yS0cxMlhWdlVZTkJIQVVwd0dtdnVQbXhfQ2tFYWVvUVBsRXhjZ3dlSzVOd3JaUUJVNWJybWstQ084SFphNGFjV25XbzNrVnRLU0FvTTg2Y1hUcTJQemRrRE1VNnRqQUJTUkpmeHo5bnZLMXB2OTBPLUd0MU52ZG1zTC1qeUlqdnhncDFDbXhzOFJrSGV3T0dwVWd0UDFjc0JpTzRLTXFmMHZYV0l5dkhWOVR5OS1WVzdPVi1wamRPcEo2Tlo3aUU4WlFCYnB1UTRaRl8zbHItZzRVVXBsRUkzSHN6cVhFS3F6ZHZMSU52eUVtYjFvcTBVajUwSXV6YlJuLUxz?oc=5
+- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
+  A Year After Operation Sindoor: How India's
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
 
-- Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry spokesperson Esmail Baqaei - The Hindu
-  Iran is now a superpower; ties with India are flourishing: Iran Foreign Ministry
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYVhFb08xUjJoSFNJckVvRzh5MEktMW1KdC02Q0RqYTBxSmg0Vl9vcWI4Z3pmOU52d0Q5SFhDdWZsQm54M0Z5WG5kZFdYM3EtZ082RVZPTm5aaXNUNTZ2dlgtYlhHaFNRWlNycjRZa1VPSUExWkdENzBFNzh3bnM2ejJ1NTc1aXNZMmliaThiLVRCblBTSDkwdkpNZHp2bnEtS2Y5eEJXUzVDNW9aZC1hcHlTOHRIbHNWYUZSVG5CYmtEV2J1X1BpclR5c2HSAdMBQVVfeXFMUDhzTjhVcFRheG93VDJQVm1IXzFLUkYyejFpWnM3cm13MzRWLUxfaTZOLWdza0lNSDJXWkJwY25KLXVQY2tIRXNiUU9HV3YwNHNYWkdLRV9QRWYwRVhGNHllbXNMV0dQSk1EMGhqc0FaU2VwRFVsakNBRnJ4WGRsdFR0anJORkstam9VVm10NkVETHRpa1hiMy1jeDNwd1NnbkZCZDRJbmFFY2hoVnAwZUNHUElOOFpESk95MXBUakFlZGlwV2Jqdi1pSlRCU1RTeWsySQ?oc=5
+- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
+  Cybercrime cases up 18%, fraud emerges
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
+
+- Four killed in post-election violence in India’s West Bengal - Al Jazeera
+  Four killed in post-election violence in
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+
+- Pakistan Navy Helps Stranded Indian Ship In Arabian Sea After SOS Message - NDTV
+  Pakistan Navy Helps Stranded Indian Ship In Arabian
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW0tamhqQ2E2ZXM5UGs4YnN3OUZsNDkwYjVGOGx6Rk1tVEZ3S0xJallwVnpWeUd4WldWcUFsQWxZN1hZRWZ6LXh2bUY3T3lxd3VVNjBqazRzY2NFQUVPdFlqZ001ZE1zazVHSG45eHI4aDBWRGxkN0dOZ1lWRWZ1MjR1OHNXUWdEaEdQcG56SGhyV1U4QlZIX1ZaVmpuc0Q1QVl6cXJkbWczOW5NOFVVc21EaXbSAbwBQVVfeXFMT0FCTDBQczdiZzZrRHEzMURDNENKeElfa2lIM25YYXVVTDM1eFlSWWw3MGhEQnhYbDZvLWtReEk2c1d2UHVVTnlZT1pWNGRIU3IzelAtUERBV3BZYzdWRW1EVGowNjJFdkVCRWFxcUk4WlBuM083WGYzZU9sOExsRWJmZnFwOTBSWHVXa2YzRkY3anpqVkFkU3pCTXQ3UG9wZ0xRU0JYR3NERjlzSWl0bUhVaTY5NGF0cHROQXY?oc=5
+
+- 34,878 cases registered against juveniles, 11.2% rise over 2023 - The Times of India
+  34,878 cases registered against juveniles, 11
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVTVHhxaVpSMHU4amgtZnNObXVoRHo4bHd0Z25aam9XQzNTcXRTUDgwZGJDelpENkx1bkFhVXVyTnhLUjRtbVE4Z0l3MnJvMDVtM3cyOWlZbUtTd3pWaE10VHhPaW5IejlQd2lmZldJVWd2azZYVGczdUtncTg3NEtpOHEtZHQ1RUVTbDZWQWpXUEQta3ZfX1A4YnZOT1Zzc1NPRW1lc0lNTjlqUUhNMDRsbk1nZFJyd2MyX2xxNkdfVDdNVGNZ0gHMAUFVX3lxTFBlTWFLNEZsczZNU0pHcC1EdEVsVnlFdVUwODB5STRvXzd0OF9KTlVWSUN4MHlodGRaZE15cjNDcU9IODRMT1BjRm9ZOXU4TWNKQTlpYzVNNXQ4Y2tUcmI4dUdGYjh5TW43XzNLXzVuUy1Ic05XZ3B5MXpsUnc2VlpGS0VaaGhhTmJsdFg4S21RZjhMM1I5YjJlSmhsSUIwOG8xeERacFpMeFNyZlBsOXkxVE42TGROQnZheUsyMG1OQVNYQm9RSkU2OFBsUQ?oc=5
+
+- A Year After Operation Sindoor: How India's Defence Tech Is Rewriting War - NDTV
+  A Year After Operation Sindoor: How India's
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNUGxxRUdKTWNSTlhYdXdGcmctT2w1cTJGbUMxdi15c2JCSUZNTXFLREFFcm95SnhOdWkzZ2QxV3gtYVVETDBSVk5iRmtLaGJOczB0a2FxTzdrS1Vtb3hNQUd3dlV0d2c4Z3pyQTVaeFllN2N4QU1wN2U5MC1ENHA5aVM3T0VfNXhDeEpfbFA0bmR4Y19pUW03OGhxNnFFTzRTUG12b0xoVGR1ZGtqZ0tKVzZHZndNRFRGTzJlQk1JVERUcDVPRXJPUmlRQ1RoR0nSAdcBQVVfeXFMUHN3MEk5blFlb01wcmhyNDFVaUMxZzFMTV9fQmhvVWtUbDhVVU5lWHBVNUNUU3lTNXRsaC0xRjI5NDBuUVBGX0F1UHVUaFBDZGtjVTVUSHM1bklZY2ptNklRcHVLaV9VbnRZNjlfSHZVaVVfOEJVU3NrZkFVNEJkQlpRMXlEZ1ZJcXdpUDFPaEpjSzRycG1tRkNXR3ozYVpnS3JxNVRkRmlmbUJUOFRPWlV6Vk5BdjlvNTRLUnJrVXhOTk1NY19mYlBNd1c0cmVxZ1dKMnlUMzQ?oc=5
+
+- Cybercrime cases up 18%, fraud emerges biggest motive - The Times of India
+  Cybercrime cases up 18%, fraud emerges
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR041WmlGQVpybUVIUk8xNFRYVjJvZ0hDTHdNbW9PaHhGaV9sTXNadjZvaF9QTmpFb1dIZGs2c0xJNzNSbXVab19zSWM5cTNhcE5yZHVZWE13MVRiRThJRXNUc2xqN1hXSmNTNUxqMTVuZUVZUW0zU1hHeVpoNVFyNlhScWYtS3JrS09xZVNlN1JGZjlCV1FnTjNFNURIandadkhjV0pPVlUwZk9rSmZnUC1xcGVSRHNCRm9F0gHAAUFVX3lxTE4zTzhDVl94NEpKX19OQmp0T3pXU1VsenhHSnZxX3c4WnFuLS1mb2FsMjYzbGdjcWFjcVZlNzlpMjVuZEw5VXc0NEpiZDhhQzJjVGlZaDhfaW5FMllnb1NZbC1CRzFuMU5tNWZUZmhidzhHVjJEa0RFRmIxWHZiWGcybDlIaDRKb1dMS3doQ3ZSWDQ2dmtLYXpkSG9MR3NEWnd4TDlLQUtkZXNjajNtcjdaTFdTLU5raGF2ZnpoMHBVNw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-06 19:33:01 UTC_
+_Last updated: 2026-05-07 02:29:53 UTC_
