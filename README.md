@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Bihar Cabinet expansion: Nitish Kumar’s son, VK Sinha, 30 others take oath as ministers in Samrat Choudhary government
+- Railways to move from 40-year-old reservation system to upgraded platform in August
   
-  🔗 https://indianexpress.com/article/india/bihar-cabinet-expansion-full-list-of-ministers-in-samrat-choudhary-10677265/
+  🔗 https://indianexpress.com/article/india/railways-to-move-from-40-year-old-reservation-system-to-upgraded-platform-in-august-10677757/
 
-- 2 new mothers dead as C-section complications lead to crisis in Kota medical college
+- ‘Save our future’: Students, parents protest in Shopian against closure of Siraj-ul-Uloom school declared ‘unlawful entity’
   
-  🔗 https://indianexpress.com/article/india/new-mother-dies-c-section-complications-kota-medical-college-10677255/
+  🔗 https://indianexpress.com/article/india/siraj-ul-uloom-closure-shopian-protest-uapa-order-10677991/
 
-- Early morning action: Rajasthan ACB arrests former Congress minister Mahesh Joshi in Jal Jeevan Mission ‘scam’
+- Why some CUET-UG candidates are facing exam centre hurdles this year
   
-  🔗 https://indianexpress.com/article/india/rajasthan-acb-arrests-former-congress-minister-mahesh-joshi-jal-jeevan-10677050/
+  🔗 https://indianexpress.com/article/india/cuet-ug-2026-registration-surge-nta-exam-center-change-window-reopened-10677746/
 
-- ‘Unparalleled courage, precision of armed forces’: PM Modi on 1 year of Operation Sindoor
+- 546 die every day in traffic accidents; speeding remains biggest killer: NCRB data
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-operation-sindoor-armed-forces-10676985/
+  🔗 https://indianexpress.com/article/india/546-die-every-day-in-traffic-accidents-speeding-remains-biggest-killer-ncrb-10677689/
 
-- 2,000-passenger casino vessel can’t sail into Goa’s Mandovi river just yet, Bombay HC says
+- Indian Railways’ new Vande Bharat train hits 180 kmph speed in trial run – check route
   
-  🔗 https://indianexpress.com/article/india/2000-passenger-casino-vessel-cant-sail-into-goas-mandovi-river-just-yet-bombay-hc-says-10676730/
+  🔗 https://indianexpress.com/article/india/indian-railways-new-vande-bharat-train-hits-180-kmph-speed-in-trial-run-check-route-10677466/
 
-- Just 10 minutes of AI use can hurt your thinking skills, study finds
+- Google Chrome downloads 4GB Gemini AI model onto your devices without permission: Report
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/just-10-minutes-of-ai-use-can-hurt-your-thinking-skills-study-finds-10677336/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-chrome-downloads-4gb-gemini-ai-model-onto-your-devices-without-permission-report-10677956/
 
-- OnePlus Nord 6 review: Raw performance, bigger battery make it a complete package
+- Google Chrome feeling cluttered? 10 simple tricks to make everyday browsing easier
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-6-review-specs-battery-performance-10677343/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-chrome-feeling-cluttered-10-simple-tricks-to-make-everyday-browsing-easier-10677589/
 
-- Best smartwatches for women in 2026: Top 6 picks for fitness, health and style
+- Swedish study shows lab-grown insulin cells can stabilise diabetes in mice
   
-  🔗 https://indianexpress.com/article/technology/gadgets/best-smartwatches-for-women-in-2026-top-6-picks-for-fitness-health-and-style-10677052/
+  🔗 https://indianexpress.com/article/technology/science/karolinska-institutet-type-1-diabetes-stem-cell-insulin-breakthrough-10677578/
 
-- Google adds Reddit and community discussions to AI-powered search results
+- Samsung says Galaxy Watch can predict fainting up to five minutes in advance
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-adds-reddit-and-community-discussions-to-ai-powered-search-results-10677073/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-says-galaxy-watch-can-predict-fainting-up-to-five-minutes-in-advance-10677516/
 
-- Anthropic turns to Elon Musk-owned SpaceX for AI compute as Claude demand surges
+- Qualcomm launches Snapdragon 6 Gen 5 and Snapdragon 4 Gen 5 with faster gaming, AI features
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-elon-musk-spacex-ai-compute-claude-demand-10676916/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-launches-snapdragon-6-gen-5-and-snapdragon-4-gen-5-with-faster-gaming-ai-features-10677486/
 
-- Fairfax to inject  ₹2,000 crore into Nirmal Jain's IIFL Capital for a majority stake
-  Canadian investor’s stake could raise Canadian
-  🔗 https://www.livemint.com/companies/news/fairfax-inject-rs-2-000-crore-into-nirmal-jains-iifl-capital-majority-stake-11778137001798.html
+- FDAs new playbook: Lots of media announcements but not much rulemaking
+  FDA's new playbook:
+  🔗 https://www.livemint.com/companies/fdas-new-playbook-lots-of-media-announcements-but-not-much-rulemaking-11778159278126.html
 
-- Aditya Birla Sun Life AMC joins Category III AIF rush with  ₹2,000 crore fund
-   Category III AIFs are increasingly being used by asset managers and wealth firms. They offer hedge fund-like public market products to high-net-
-  🔗 https://www.livemint.com/companies/news/aditya-birla-sun-life-amc-joins-category-iii-aif-rush-2-000-crore-fund-hni-11778121078707.html
+- PNB earmarks  ₹3,400 crore for IT, AI push amid rising cyber frauds
+  Punjab National Bank also plans to appoint a consultant for its AI initiatives. The bank will develop a dedicated strategy to tackle emerging cyber-fraud
+  🔗 https://www.livemint.com/companies/pnb-invests-crore-artificial-intelligence-combat-cyber-fraud-digital-innovation-11778153417076.html
 
-- ‘QA is always the first hit’: Freshworks’ 500 layoffs fuel fears of AI replacing testers
-  Freshworks is laying off 500 employees globally as it restructures around AI. Workers told LiveMint AI-led testing workflows are reshaping careers. Some say
-  🔗 https://www.livemint.com/companies/qa-is-always-the-first-hit-freshworks-500-layoffs-fuel-fears-of-ai-replacing-testers-11778125877765.html
+- Everstone Capital acquires Germany’s Qlar Group in $150-200 million deal
+  The acquisition underscores Singapore-based Everstone’s push to back global
+  🔗 https://www.livemint.com/companies/news/everstone-capital-acquires-qlar-group-from-blackstone-11778153013582.html
 
-- How AI bots hired over 260 candidates at Piramal Finance
-  Piramal Finance, a non-bank financier
-  🔗 https://www.livemint.com/companies/ai-hiring-piramal-finance-jobs-ajay-piramal-artificial-intelligence-nbfc-india-11778060548042.html
+- Tata Motors’ $4.4 billion Iveco acquisition delayed
+  Iveco now expects the
+  🔗 https://www.livemint.com/companies/news/tata-motors-iveco-acquisition-delay-regulatory-approvals-european-hurdles-11778141566914.html
 
-- Pronto closes $45 million Series B at $200 million valuation
-  The fundraising announcement comes barely a week after its closest rival, Snabbit, raised $56 million in a
-  🔗 https://www.livemint.com/companies/start-ups/pronto-series-b-funding-45-million-home-services-india-11778034029964.html
+- India’s rich fuel boom in bespoke decor, luxury furniture
+  Rising home ownership, renovations and design-led upgrades are
+  🔗 https://www.livemint.com/companies/news/luxury-furniture-india-luxury-homes-decor-india-retail-industry-home-decor-market-11778127629535.html
 
-- Recode Studios IPO GMP signals 27% listing pop — Issue booked 104x so far on Day 3. Check key details
-  Recode Studios IPO GMP was  ₹43 per share. At the prevailing GMP, Recode Studios shares could list at a premium of 27.22% as
-  🔗 https://www.livemint.com/market/ipo/recode-studios-ipo-gmp-signals-27-listing-pop-issue-booked-104x-so-far-on-day-3-check-key-details-11778140893272.html
+- Small-cap stock under  ₹50 hits 5% upper circuit after this  ₹500 crore acquisition update
+  AVI Polymers' stock surged to  ₹24.25 after announcing a 90% stake acquisition in JVTR Consultants. The acquisition aims to
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-5-upper-circuit-after-this-rs-500-crore-acquisition-update-11778159011753.html
 
-- Polycab’s outlook brightens after FY26 market share gains
-  Polycab’s shares have gained 34% from their early April lows.
-  🔗 https://www.livemint.com/market/mark-to-market/polycab-india-q4-earnings-polycab-share-price-cables-and-wires-industry-india-11778137691439.html
+- US stock market today: S&amp;P 500, Nasdaq futures edge higher after record highs; Brent below $98
+  US stock futures showed modest gains on 7 May, following record highs amid hopes of a US-Iran peace deal.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-after-record-highs-brent-below-98-11778156030386.html
 
-- Bharat Forge Q4 results 2026: Profit falls 17.5% YoY to  ₹232.57 crore; recommends final dividend of  ₹6.50 for FY26
-  For the full year FY26, the company's profit rose by 14.72% to  ₹1,079.66 crore
-  🔗 https://www.livemint.com/market/stock-market-news/bharat-forge-q4-results-2026-profit-falls-17-5-yoy-to-2-325-65-million-recommends-final-dividend-of-6-50-for-fy26-11778139556748.html
+- BSE Q4 Results: Profit surges 61% YoY to  ₹797 crore;  ₹10 dividend announced
+  BSE posted a 61% year-on-year increase in its consolidated net profit to  �
+  🔗 https://www.livemint.com/market/stock-market-news/bse-q4-results-profit-surges-61-yoy-to-rs-797-crore-rs-10-dividend-announced-11778157246064.html
 
-- Promoter Shareholding: Godrej Properties, Adani Energy see stake hike; BHEL, Vishal Mega Mart, Biocon face cuts
-  Godrej Properties saw promoter holding rise from 47.2% to 51.7%. Adani Energy Solutions witnessed an increase from 71.2%, to 72.7
-  🔗 https://www.livemint.com/market/stock-market-news/promoter-shareholding-godrej-properties-adani-energy-see-stake-hike-bhel-vishal-mega-mart-biocon-face-cuts-11778138175906.html
+- Iran Talks, Fed Rates, Jobs Data, Inflation. This Market Rally Faces Big Tests Soon.
+  Apple stock hits a record, gasoline prices could weigh on consumer spending. Arm beats expectations
+  🔗 https://www.livemint.com/market/iran-talks-fed-rates-jobs-data-inflation-this-market-rally-faces-big-tests-soon-11778156779368.html
 
-- Upcoming IPO: InCred Holdings files updated draft papers with SEBI for IPO
-  InCred Holdings Ltd has filed its Updated Draft Red Herring Prospectus-I with SEBI. The offering includes  ₹1,250 crores in new equity shares and an offer
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-incred-holdings-files-updated-draft-papers-with-sebi-for-ipo-11778137048126.html
+- Dabur India Q4 Results: Profit beats estimates, rises 16% YoY to  ₹362 crore, declares final dividend of  ₹5.5
+  Dabur India reported a 16% growth in Q4 net profit at  ₹362 crore, driven by strong domestic demand. Revenue rose 7.3% to 
+  🔗 https://www.livemint.com/market/stock-market-news/dabur-india-q4-results-profit-beats-estimates-rises-16-yoy-to-rs-362-crore-declares-final-dividend-of-rs-55-11778153219551.html
+
+- One Tech Tip: Why digital devices and online accounts need spring cleaning
+  One Tech Tip: Why digital devices
+  🔗 https://www.livemint.com/technology/one-tech-tip-why-digital-devices-and-online-accounts-need-spring-cleaning-11778160644019.html
+
+- Samsung targets Indian enterprises with new AI-powered Business Experience Studios
+  Samsung has launched two new Business Experience Studios in Gurugram and Mumbai. The
+  🔗 https://www.livemint.com/technology/tech-news/samsung-targets-indian-enterprises-with-new-ai-powered-business-experience-studios-11778156352349.html
+
+- Qualcomm launches Snapdragon 6 Gen 5 and 4 Gen 5 processors with massive GPU upgrades
+   Qualcomm has launched the Snapdragon 6 Gen 5 and Snapdragon 4 Gen 5 processors. The processors
+  🔗 https://www.livemint.com/technology/tech-news/qualcomm-launches-snapdragon-6-gen-5-and-4-gen-5-processors-with-massive-gpu-upgrades-11778154278066.html
 
 - OnePlus Nord CE6 launched in India with 8,000mAh battery, price starts at  ₹29,999
   The Nord CE 6 features a Snapdragon processor, 8,000
@@ -88,96 +100,124 @@
   The Nord CE 6 Lite has a starting price of  ₹20,999. The phone will be available to buy via from
   🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce6-lite-5g-launched-in-india-with-7-000mah-battery-dimensity-7400-apex-soc-check-price-and-specs-11778135703521.html
 
-- OnePlus Nord CE 6 Launch LIVE Updates: OnePlus Nord CE 6 & CE 6 Lite launched in India - Check price and specs
-  OnePlus Nord CE 6 and CE 6 Lite have debuted in India with 50MP camera and over 7,
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-ce-6-lite-launch-live-updates-price-in-india-specifications-battery-snapdragon-7s-gen-4-11778128774382.html
+- Stock Market Today: Dow, S&P 500 Futures Rise After Two-Day AI Rally, Oil Slips — Live Updates - WSJ
+  Stock Market Today: Dow, S&amp;P 500 Futures Rise
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHdaUDRwS1B6bWpjZTYzZnpoQ2E3cFJabnRZZVlkZEROTkV2UTFNaElLVWF0SGg0dThiTjd1ZGlIRmQzQlV3NmwtSnhVcktDckszT19TVFFMUWRONE0zaGNMNVFXS25YSHlxZF9mS2JGLUFxNlI0bHdGZnc4blFmUWV0SVlybGM?oc=5
 
-- Worries about AIs risks to humanity loom over the trial pitting Musk against OpenAIs leaders
-  Musk to face off against OpenAI's leaders
-  🔗 https://www.livemint.com/technology/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders-11778126520864.html
+- Stock Market Today: Futures Tick Higher After S&P 500, Nasdaq Set New Records; Oil Retreats Further - Investopedia
+  Stock Market Today: Futures Tick Higher After S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzI4TDBrTHVoand4YzRSQkJDSWExbW44X3BMbzJjZ1oySHFjMm9GRHIwUWxyaDZUSklDcjViQkxfdnBKblQ3eXQtbUFBOVlsem1jXzhPR1FEc0ZsaU5IUjQ4ZEs2RzNXckl3Z0txYmdnWmZtRktSVXdfUUxGUmk2UHN3N2RxeV80c0t6S3lMeHg?oc=5
 
-- Claude can now 'dream' as Anthropic races to build ‘self improving’ AI agents
-  Anthropic has launched a new Dreams feature that enables the AI chatbot to review past
-  🔗 https://www.livemint.com/technology/tech-news/claude-can-now-dream-as-anthropic-races-to-build-self-improving-ai-agents-11778119736191.html
+- S&P 500 futures edge higher after index posts another record; traders eye developments in Iran: Live updates - CNBC
+  S&amp;P 500 futures edge higher after index posts another record.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaHgtMWs1aERlakNrX19EYUlqOVc4YzAtN2VZMWNIaTVoWkRsc2FlV3I2WVk0bkV6aXU1OXhKaFlsZlgtSFM3Zm9ES3NfUzFaNXNVYUlKT0tQZlR2ODVHOXZwUnhfTm1Ga1lKNi1ZMkkyaDl5ZEN30gF8QVVfeXFMUEpWWllrM0JFZDUwQzFwZUFkUnE5bExwWU9lVlBGMlhLQzE3U3JwMHpBM25SV2pMdW1Rd3EzR3R3aS1KLUZaSDFlT2tXVElvWE1aNmNYbzJxb2pPWDdPZUFxRDluU3p5UW9ldkhqT3dRZ25MSDIzOGVxR0VlQQ?oc=5
 
-- BlackRock to invest in Shapoorji Pallonji's unit: Report
-  BlackRock is set to invest in a dollar bond to be issued by a unit of India's Shapoorji Pallonji Group.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/blackrock-to-invest-in-indias-shapoorji-pallonji-unit-dollar-debt-sources-say/articleshow/130885354.cms
+- Bolivia Is Tapping Global Bond Markets for First Time Since 2022 - Bloomberg.com
+  Bolivia Is Tapping Global Bond Markets
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVJyanh0R0lZRTZfTEpSSExpaWM4UmNIT1VkaExTQi1QTkFSeWpzdmRXakxubk5WZlBtMFRsZ1FXd0poSFYwR1pJVkVhaldpX1lGMVNwZkdiQlI4aEJRcmxvSW9NV1hjQUtFb1Etcmo5OTZhOC1LY2V1dV81TS00R0RvS3NyZWtFaTV4NUlPcTlpLWx4TmdBQkEySUJJSm56TkdFSkEtMmNyNjFpNDVUaGlTVlR4QQ?oc=5
 
-- ET Alpha Wealth Summit: How AI, volatility and global trends will shape D-Street’s next move
-  The ET Alpha Wealth Summit on June 4 in Mumbai will gather experts to decode the market's next phase. It will explore AI's influence on jobs and the economy, and discuss global vs. local investment strategies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-how-ai-volatility-and-global-trends-will-shape-d-streets-next-move/articleshow/130884968.cms
+- SENSEX falls 114 points, NIFTY50 ends on a flat note; Hindustan Unilever, TCS among top losers - Upstox
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHlJVUhMNDdLNGxrbDdJOTVSWE9CdGpQSGlRZjdod2pQdENhM1ZXZkVTR1ZUamFTblcxN3BpZDFCa3dmNnE5bi1LaXB6UF8xRlRhNWN0M0lEa1pUTk9BSTJZMWNZaDR3SH
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUHlJVUhMNDdLNGxrbDdJOTVSWE9CdGpQSGlRZjdod2pQdENhM1ZXZkVTR1ZUamFTblcxN3BpZDFCa3dmNnE5bi1LaXB6UF8xRlRhNWN0M0lEa1pUTk9BSTJZMWNZaDR3SHdkVUNja2s3SkVQdEdHd1IxVldNTDZVQjA4MHdBdHhhdFlTeWhMdGxveDdOOGFsUWpNeEhRYVVoRExHejk1bnVfUmYwLUNnM2ZLZkltOE9TVGZMeVhMYU1sbFM0VEI2d0dTWnM2WUU2d0hNVmhzeEI4SnlPRHFCSDRxOE9zQQ?oc=5
 
-- MRF Q4 Results: Profit rises 37% YoY to Rs 680 crore; co declares Rs 229 per share dividend
-  Tyre maker MRF announced strong financial results. Net profit surged 37% year-on-year to Rs 680 crore in the fourth quarter. Revenue from operations also saw a 14% increase.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mrf-q4-results-profit-rises-37-yoy-to-rs-680-crore-co-declares-rs-229-per-share-dividend/articleshow/130884406.cms
+- US stocks today: S&amp;P 500, Nasdaq touch fresh peaks as oil retreats further
+  The S&amp;P 500 and Nasdaq reached record highs on Thursday. Hopes for a U.S.-Iran peace agreement could normalize crude supplies through the Strait of Hormuz
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-touch-fresh-peaks-as-oil-retreats-further/articleshow/130899865.cms
 
-- Noel Tata’s IPO pushback said to trigger internal differences at Tata Group
-  Noel Tata opposes listing the parent firm, Tata Sons, despite upcoming Reserve Bank of India regulations. Two trustees will propose a public listing at an upcoming board meeting.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/noel-tatas-ipo-pushback-said-to-trigger-internal-differences-at-tata-group/articleshow/130884437.cms
+- Blackstone and Jhunjhunwala-backed Bagmane draws 2 lakh applications, highest for all REIT IPOs
+  Bagmane Prime Office REIT received record investor participation and strong oversubscription in its Rs 3,405 crore IPO. Backed by Blackstone and Bagmane Group, the trust
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/blackstone-and-jhunjhunwala-backed-bagmane-draws-2-lakh-applications-highest-for-all-reit-ipos/articleshow/130899046.cms
 
-- AI boom keeping markets elevated despite geopolitical noise: Mark Matthews
-  Mark Matthews highlights extraordinary earnings, particularly in tech, fueling market highs. Matthews also sees India as attractive due to improving valuations and continued FII buying.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-keeping-markets-elevated-despite-geopolitical-noise-mark-matthews/articleshow/130884241.cms
+- Sebi discontinues investor risk reduction access platform for stock brokers
+  Market regulator Sebi discontinued the Investor Risk Reduction Access (IRRA) platform for stock brokers with immediate effect. Sebi cited its redundancy amid stronger
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-discontinues-investor-risk-reduction-access-platform-for-stock-brokers/articleshow/130896994.cms
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Indiabulls Real Estate case: Four entities pay Rs 10.5 cr to Sebi as settlement
+  Sebi settles case related to alleged diversion of funds involving erstwhile Indiabulls Real Estate Ltd. Four entities paid a total settlement of
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indiabulls-real-estate-case-four-entities-pay-rs-10-5-cr-to-sebi-as-settlement/articleshow/130896887.cms
+
+- Quote of the day Philip Fisher: "I think a weakness of many people’s approach to investment is that they try to be jacks of all trades and masters of none."
+  Philip Fisher warns against investors spreading themselves too thin. He advocates for deep expertise over superficial diversification. Chasing trends without understanding leads to reactive decisions.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-philip-fisher-i-think-a-weakness-of-many-peoples-approach-to-investment-is-that-they-try-to-be-jacks-of-all-trades-and-masters-of-none-/articleshow/130888149.cms
+
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
 - Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
   Modi's BJP conquers Bengal,
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Australian grant helps seven Indian athletes unlock their potential - The Times of India
-  Australian grant helps seven Indian athletes unlock their potential.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
+- India AI and ICMR sign MoU to accelerate responsible AI Adoption in healthcare - News On AIR
+  India AI and ICMR sign MoU to accelerate responsible AI Ad
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2JNY29Xd25CdlEwUi1RdE9ZdWYxdU9zem1YLVF0ejJHSW1zclJwT0pmRlJMRjRMTlJla0ZJbG9reHl4OGRjaXd5RmlXMWlUX0Ytcm5YaERPMmZIMTBNQkh4bndhM0VQNmZiYUgteGtDbDctYi1RVGRTYTYwaHRNblZSQlA0X2EzVEdkOGlZbUJkdDZXenFRQlJBMTVxSWhLOWVWUXpfZ0djSTJ2?oc=5
 
-- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
-  Devil Wears Prada 2 was submitted for an A certification
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
+- India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh Mandaviya | DD News On Air - News On AIR
+  India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUx3VWJTUHhOTG12d0J3Vl9yemFxYU1MU1M2cDM5Ukp0d0VQdGZObW8tMWhxMlc5SDhKQmV5dnR1SGJtMGRBdVNIWThKaDhteFNsQjVYcEdDc0JkQjljbHZVSWxKVVFvLTE0UzVNbUgwUmNRUDh1bUdnQWxPZEpoS1dwOWQ1cTF1MEEzQ2trcGZRcHljclNTYjBzejZfYkxSRDVJTlo4Z3haeTV1cXYzdVJVRVZBeHR4TTgxSnhac05Wd21zNUpXTzgwSkItZ2RSQ2NrSUpVQmhCaWZYcnNfcDFKREtaQQ?oc=5
 
-- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
-  Vijay Meets Governor Again, Ready To
+- Governor Asks Vijay To Prove Majority For Oath, TVK May Move Court: Sources - NDTV
+  Governor Asks Vijay To Prove Majority For
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
 - Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
   Modi's BJP conquers Bengal,
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Australian grant helps seven Indian athletes unlock their potential - The Times of India
-  Australian grant helps seven Indian athletes unlock their potential.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
+- India AI and ICMR sign MoU to accelerate responsible AI Adoption in healthcare - News On AIR
+  India AI and ICMR sign MoU to accelerate responsible AI Ad
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2JNY29Xd25CdlEwUi1RdE9ZdWYxdU9zem1YLVF0ejJHSW1zclJwT0pmRlJMRjRMTlJla0ZJbG9reHl4OGRjaXd5RmlXMWlUX0Ytcm5YaERPMmZIMTBNQkh4bndhM0VQNmZiYUgteGtDbDctYi1RVGRTYTYwaHRNblZSQlA0X2EzVEdkOGlZbUJkdDZXenFRQlJBMTVxSWhLOWVWUXpfZ0djSTJ2?oc=5
 
-- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
-  Devil Wears Prada 2 was submitted for an A certification
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
+- India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh Mandaviya | DD News On Air - News On AIR
+  India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUx3VWJTUHhOTG12d0J3Vl9yemFxYU1MU1M2cDM5Ukp0d0VQdGZObW8tMWhxMlc5SDhKQmV5dnR1SGJtMGRBdVNIWThKaDhteFNsQjVYcEdDc0JkQjljbHZVSWxKVVFvLTE0UzVNbUgwUmNRUDh1bUdnQWxPZEpoS1dwOWQ1cTF1MEEzQ2trcGZRcHljclNTYjBzejZfYkxSRDVJTlo4Z3haeTV1cXYzdVJVRVZBeHR4TTgxSnhac05Wd21zNUpXTzgwSkItZ2RSQ2NrSUpVQmhCaWZYcnNfcDFKREtaQQ?oc=5
 
-- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
-  Vijay Meets Governor Again, Ready To
+- Governor Asks Vijay To Prove Majority For Oath, TVK May Move Court: Sources - NDTV
+  Governor Asks Vijay To Prove Majority For
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
 
 - Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
   Modi's BJP conquers Bengal,
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
 
-- Australian grant helps seven Indian athletes unlock their potential - The Times of India
-  Australian grant helps seven Indian athletes unlock their potential.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV0p5c1p0QWlUaFZXcURXVUY5MzE0SXR0Y0V2TGxWOTVtdkhkWWRCQmNiVmlvNzg3eGsxbEFhQUZkdlJxM3ZmRGphZV9RYjEyMHNqUWRKdG1tNnM2dmhWLUlZYnFLakFUcEhPZ24wc2xycmJkQU5nZFRMTzE4QlRaN3hIdDdJQ2hWcDliLVl0ZmF0VWdxTmlPbVlqZkJud1VRbi0zZlRnTk1LTENGM3U1dnF5MjB3NnRkaFQ5X2Z0Q0Z6RkEtUk9CT0RpLUxkbmxNeC10S1RvdWHSAd4BQVVfeXFMUDVKQVA1blU2ZUxkOHh6Q2NVdVo5aDlrdTlwWWZoRzRuRDlUbUhwTEN3U0V1dC1SX0lEeGxDaVpqY0UtUWtaOVNmbDg4cjFzZmN5UXNyTDludlM4NVNfUlZ4bGFYdEdYZUNacVNQVFNyd01xYTAtOTN4VFJtWjdkcDZhdDQtZzBjenZjQ0pBR1J0bktmaWdRZEktdUhXQmlvblI0MlI3MkZMZG9RNU9oblM3cERpaENBNENXRDQ0Xzc2cHpSNVdzUUlVdV9qUzhmWEF5Y084NkRjMTVVaUhR?oc=5
+- India AI and ICMR sign MoU to accelerate responsible AI Adoption in healthcare - News On AIR
+  India AI and ICMR sign MoU to accelerate responsible AI Ad
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2JNY29Xd25CdlEwUi1RdE9ZdWYxdU9zem1YLVF0ejJHSW1zclJwT0pmRlJMRjRMTlJla0ZJbG9reHl4OGRjaXd5RmlXMWlUX0Ytcm5YaERPMmZIMTBNQkh4bndhM0VQNmZiYUgteGtDbDctYi1RVGRTYTYwaHRNblZSQlA0X2EzVEdkOGlZbUJkdDZXenFRQlJBMTVxSWhLOWVWUXpfZ0djSTJ2?oc=5
 
-- Devil Wears Prada 2 was submitted for an A certification in India - The Times of India
-  Devil Wears Prada 2 was submitted for an A certification
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2dsYUV6NkM5VUdEZE1lRUhEXzYyQklYNlpWZ0lWcnlxTm9SSkM5czVnMTByMmlWX1RrcnlEdTBHeVFzX0tEV0taaThxSTZtR0l0Nzk4NkNwM3FULU10S0xUXzNOZkt1OTg3OURTU1AyeE55UnFaODU3eGNpMWh1aHNvcEhiZUxmVHFVVFlhRkdtVk9sZzJlSmxBaW4xNXVJSTN4VXNJR210UUM1NmxuOUlZMUw3UGhKTVNycVZvX0hyT1BtQU1lRU5vbkdwWkNMNGxGTG5EX1R1Vk83N2M0eXBuVUk3WTFXSkJ1Y25vLUNTZVI4bjYw0gH8AUFVX3lxTFBxa1pyWW9kWXBwbFVGNUFtN3FyV1QtZmhpTXBaRlh0ZkRLM0kwb1NfM2VDcmxNa0JqMkJwcGRLVC1hVDByZlRVbzIzakM2VWRoZ0piZ182VkZMMkM4WkxncUcwVDY0WkVCeEcweU9iUkV0T3ZpdjYwSENoMUdKajYtcXNjT2YzRzM3ZlBJaDlNdkh6Zkd4UU1weXVaSHE3UEJsMnFIc1EzWFJxNV83RXNZNnVnUEJYdzFFcWZrb2xRX3pNU1FWZEswZVhUWTZPWFpnVEc3Y01Wa2IyRmQwVVV4NjBPU3d6c2lNSmkza1VvT0plU0hMSlpFekp0SA?oc=5
+- India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh Mandaviya | DD News On Air - News On AIR
+  India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUx3VWJTUHhOTG12d0J3Vl9yemFxYU1MU1M2cDM5Ukp0d0VQdGZObW8tMWhxMlc5SDhKQmV5dnR1SGJtMGRBdVNIWThKaDhteFNsQjVYcEdDc0JkQjljbHZVSWxKVVFvLTE0UzVNbUgwUmNRUDh1bUdnQWxPZEpoS1dwOWQ1cTF1MEEzQ2trcGZRcHljclNTYjBzejZfYkxSRDVJTlo4Z3haeTV1cXYzdVJVRVZBeHR4TTgxSnhac05Wd21zNUpXTzgwSkItZ2RSQ2NrSUpVQmhCaWZYcnNfcDFKREtaQQ?oc=5
 
-- Vijay Meets Governor Again, Ready To Prove Majority On Floor Of House - NDTV
-  Vijay Meets Governor Again, Ready To
+- Governor Asks Vijay To Prove Majority For Oath, TVK May Move Court: Sources - NDTV
+  Governor Asks Vijay To Prove Majority For
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
+
+- Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict - Al Jazeera
+  Manipur’s ‘unknown
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNbl8zOUgzeHFHdXlxYjlLVXI3aHB2bnROa1RncHlkUU1taF9UM0tTc0lMY2FONndFLWh3dEMyZXlLREQyUk44TUxXVVYyQzdKa3lKUVd6aUN2N1VoQkRJNTBwV2NMaWsyWEt0WTRiWVB3WVlxWTlRQllvbk9JWGNCa3UzRHBUdkdfanJfYlcyVzh3QzlQbmRJajZLd1ZGTFR2OVhVZmtGR2R4MEtPbGfSAbMBQVVfeXFMTkZRMVFkWWJEVEV2QnU3YkdPZUFVTXZ0dXBQdDBZWExhX3QtcHFaVVBqUnNTRWVBNGFKN1dKVWYxVjhPRkRuYnQ0SkFuYTZXVllZN09qdUVfU1V4cUtPY01haGFKbUF5NVU0LTJCZDdiWVRtTDJESkRmQjZacmduVjZnNzhxMGVrbjRrTUdvWXIwaHdybFplUXM3ZVRqajBpRDcwUzc0a0lwa3JwVWp5b0NIc00?oc=5
+
+- Modi's BJP conquers Bengal, one of India's toughest political frontiers - BBC
+  Modi's BJP conquers Bengal,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFM1hCRUpNeFJYcUxkeTAzaDBiM09SRGhxMWN1cWxKUkgtSDM2V1pFRXBFOGcwVW5ISlVqUldTY3M5cjZnUXdvY09zWjlxNGlvektOTEdwWWJyZw?oc=5
+
+- India AI and ICMR sign MoU to accelerate responsible AI Adoption in healthcare - News On AIR
+  India AI and ICMR sign MoU to accelerate responsible AI Ad
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2JNY29Xd25CdlEwUi1RdE9ZdWYxdU9zem1YLVF0ejJHSW1zclJwT0pmRlJMRjRMTlJla0ZJbG9reHl4OGRjaXd5RmlXMWlUX0Ytcm5YaERPMmZIMTBNQkh4bndhM0VQNmZiYUgteGtDbDctYi1RVGRTYTYwaHRNblZSQlA0X2EzVEdkOGlZbUJkdDZXenFRQlJBMTVxSWhLOWVWUXpfZ0djSTJ2?oc=5
+
+- India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh Mandaviya | DD News On Air - News On AIR
+  India’s sporting future depends on stronger coordination between athletes and governments: Union Minister Mansukh
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUx3VWJTUHhOTG12d0J3Vl9yemFxYU1MU1M2cDM5Ukp0d0VQdGZObW8tMWhxMlc5SDhKQmV5dnR1SGJtMGRBdVNIWThKaDhteFNsQjVYcEdDc0JkQjljbHZVSWxKVVFvLTE0UzVNbUgwUmNRUDh1bUdnQWxPZEpoS1dwOWQ1cTF1MEEzQ2trcGZRcHljclNTYjBzejZfYkxSRDVJTlo4Z3haeTV1cXYzdVJVRVZBeHR4TTgxSnhac05Wd21zNUpXTzgwSkItZ2RSQ2NrSUpVQmhCaWZYcnNfcDFKREtaQQ?oc=5
+
+- Governor Asks Vijay To Prove Majority For Oath, TVK May Move Court: Sources - NDTV
+  Governor Asks Vijay To Prove Majority For
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXZQNkpfTzZJQV8ydmdzQjRvWmZqWGFoRkF2aXdwaXE1c1kzcFotMnNkejF6clRmTTFqd1Fzb01fWldiT2d5eWpUR0FySnBobEpaa1p6b0x1Y2pnU2hPVTJoUnhlYUFmZzdTZms1QXBMZEs4WXMwS2NrdW82Q3BjMzhvWFVENklIZFc5eE9kRU5UY3FPbjFpV3ZNX0ZNb0tDMnN1VGdmQ2xMNkJjMnlpOExFWVF5c0gzV2I2WUVNTUxFeGN6cjg5RFZ2QlpVMkVlaFdlN0dMMlB1NzFSeG5xelEzcnHSAewBQVVfeXFMT0pCbTRmVXMxaDRTQ3RIU3Yzekc2LUpLcXl2V0pSSVQtSEJHQWpUenNtUFJsUXRHZkZCTDQ3TjFPTmdraDRFWHVVWjB1V2Roam00dW9Ya1RKNlFHbVI3V1VyaWdmaW5PbnFVU3N1RlVzUFR2cThQTU1SNjR2X01GNEZubmg2eV9fdGx4TldPSUNZZnIzZVNsdFJPS1JnV0xTbmVjZlRPSDUtT0hZZFFKWVFVOUJCSko5ZWVqb3dTbmNDNnVTX05hTWlaSDB2OWZ5Mm0zZ3RVb2k3UVZvcDVMY3EwcVNDZmtlaUhRYkM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-07 08:29:28 UTC_
+_Last updated: 2026-05-07 13:57:00 UTC_
