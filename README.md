@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Fugitive gangster makes ‘extortion’ allegations against Jharkhand IPS officer, BJP seeks probe
+- From narrow win in 2023 to shock loss 3 yrs later: How Congress lost Sringeri
   
-  🔗 https://indianexpress.com/article/india/prince-khan-video-row-jharkhand-ips-officer-bjp-jmm-10679542/
+  🔗 https://indianexpress.com/article/india/karnataka-sringeri-election-recount-bjp-congress-tampering-10680095/
 
-- ‘Changed circumstances’: DMK wants House seating tweak after split with Congress
+- Armed Forces set strategic goals for 2047, drawing insights from Op Sindoor, global conflicts
   
-  🔗 https://indianexpress.com/article/india/changed-circumstances-dmk-wants-house-seating-tweak-after-split-congress-10679443/
+  🔗 https://indianexpress.com/article/india/indian-armed-forces-2047-goals-operation-sindoor-defence-strategy-10680059/
 
-- Ex-Prasar Bharati CEO Shashi Shekhar Vempati to be the new CBFC chairperson
+- Vijay inches closer to majority mark but is there a twist left?
   
-  🔗 https://indianexpress.com/article/india/shashi-vempati-appointed-cbfc-chairperson-prasar-bharati-10679417/
+  🔗 https://indianexpress.com/article/india/vijay-tvk-forms-government-tamil-nadu-dmk-allies-10680040/
 
-- Railways sanctions Kavach expansion across key routes in Punjab, Jammu and Kashmir
+- Meet Kochi Muziris Biennale’s first foreign curator: Kader Attia
   
-  🔗 https://indianexpress.com/article/india/railways-sanctions-kavach-expansion-across-key-routes-in-punjab-jammu-and-kashmir-10679226/
+  🔗 https://indianexpress.com/article/india/kochi-muziris-biennale-first-foreign-curator-kader-attia-10679999/
 
-- Bengaluru-Mumbai Superfast train set for June launch, Vande Bharat Sleeper next: Prahlad Joshi
+- Two Indian crew members aboard cruise ship at centre of hantavirus outbreak; both asymptomatic for now
   
-  🔗 https://indianexpress.com/article/india/bengaluru-mumbai-superfast-train-set-for-june-launch-vande-bharat-sleeper-next-prahlad-joshi-10679150/
+  🔗 https://indianexpress.com/article/india/mv-hondius-hantavirus-outbreak-indian-crew-members-observation-10679989/
 
 - Tech launches today (May 8, 2026): OnePlus Nord CE6 goes on sale, Samsung launches Mini LED TVs, and more
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/science/bamboo-shoots-show-early-promise-as-superfood-for-gut-health-metabolism-study-10679421/
 
-- Titan clocks strong FY26 on wedding demand, rising gold prices
-  The jewellery business drives growth as consumers
-  🔗 https://www.livemint.com/companies/company-results/titan-company-fy26-revenue-net-profit-jewellery-growth-shares-high-11778240381032.html
+- Former Wachtell lawyer in insider trading case later worked at investment bank, sources say
+  Former Wachtell lawyer in insider trading case later worked
+  🔗 https://www.livemint.com/companies/former-wachtell-lawyer-in-insider-trading-case-later-worked-at-investment-bank-sources-say-11778266180280.html
 
-- Amazon India to scale up rest facilities for delivery associates to 250 in Delhi, Bengaluru, Mumbai and other cities
-  Ashray is Amazon’s network of dedicated rest centres for
-  🔗 https://www.livemint.com/companies/news/amazon-india-to-scale-up-rest-facilities-for-delivery-associates-to-250-in-delhi-bengaluru-mumbai-and-other-cities-11778235798121.html
+- Musk, Altman Management Styles Come Under Fire at OpenAI Trial
+  Elon Musk and Sam Altman both took a beating over their leadership styles in court testimony this week.
+  🔗 https://www.livemint.com/companies/musk-altman-management-styles-come-under-fire-at-openai-trial-11778265932168.html
 
-- SBI posts 5.6% growth in net profit in Q4
-  The outlook on India’s economic growth and banks’ credit growth is clouded due to
-  🔗 https://www.livemint.com/companies/company-results/sbi-q4-fy26-results-sbi-npa-psu-banks-india-west-asia-war-11778168971153.html
+- Biosimilar ramp-up to drive growth for Biocon in FY27
+  Biosimilars across markets have begun scaling up and will gather momentum through the year, particularly in the second half
+  🔗 https://www.livemint.com/companies/biocon-growth-strategy-biosimilars-launches-profitability-margins-fy27-outlook-11778247774835.html
 
-- Ravi Pandit of KPIT Technologies passes away in Pune — Who was he?
-  Ravi Pandit was a key figure in shaping India�
-  🔗 https://www.livemint.com/companies/people/ravi-pandit-of-kpit-technologies-passes-away-in-pune-who-was-he-11778216498392.html
+- Urban Company’s InstaHelp push drags FY26 into loss
+  Quick household-help vertical emerges as key
+  🔗 https://www.livemint.com/companies/company-results/urban-company-instahelp-investment-losses-financial-year-results-11778251878076.html
 
-- SBI Q4 preview: Strong loan growth, stable margins may cushion margins
-  Analysts expect India’s largest lender to continue outperforming peers on loan growth and net interest margin (NIM) stability
-  🔗 https://www.livemint.com/companies/news/sbi-q4-earnings-preview-sbi-loan-growth-psu-banks-india-11778215685321.html
+- NTPC, IndianOil, Coal India plan  ₹6k-crore IPO for Hindustan Urvarak &amp; Rasayan
+  NTPC, IndianOil and Coal India each hold a 29.67% stake in Hindustan Urvarak &amp;amp; Rasayan
+  🔗 https://www.livemint.com/companies/ntpc-indianoil-coal-india-plan-rs-6-000-crore-ipo-of-hindustan-urvarak-rasayan-ltd-11778248507326.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures advance up to 0.7% despite Middle East tensions; crude rebounds
-  US stock futures show a positive outlook on May 8. S&amp;amp;P 500 up 0.5% and Nasdaq 0.7%. Tensions in West Asia persist after clashes
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-advance-up-to-0-7-despite-middle-east-tensions-crude-rebounds-11778240718810.html
+- Nvidia stock hits fresh record high as rally extends to third day, on track for biggest weekly gain in 6 months
+  Nvidia's shares rose 3% to a record high of $217.80, marking its largest weekly gain since October. The surge follows a partnership with IREN to enhance AI infrastructure
+  🔗 https://www.livemint.com/market/stock-market-news/nvidia-stock-hits-fresh-record-high-as-rally-extends-to-third-day-on-track-for-biggest-weekly-gain-in-6-months-11778261237036.html
 
-- Zepto's confidential IPO papers get Sebi approval, updated filing likely in 2 months
-  If Zepto's IPO goes through, it will mark one of the shortest journeys
-  🔗 https://www.livemint.com/market/ipo/zepto-ipo-sebi-approval-updated-drhp-quick-commerce-india-stock-market-listing-11778242498449.html
+- Gold, silver rates today: Comex gold jumps $50/oz, silver rallies $2 as traders track US-Iran talks
+  Gold rose $50 to $4,760, while silver surged to $82.16. A strong US jobs report indicated economic resilience, although concerns over inflation persist.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-50-oz-silver-rallies-2-as-traders-track-us-iran-talks-11778249407190.html
 
-- Simca Advertising IPO GMP jumps on Day 1; check subscription status, price band and other key details
-  Simca Advertising IPO is entirely a fresh issue of 0.32 crore shares worth  ₹58 crore. This means that all
-  🔗 https://www.livemint.com/market/ipo/simca-advertising-ipo-gmp-jumps-on-day-1-check-subscription-status-price-band-and-other-key-details-11778240745917.html
+- Fino Payments Bank April update: Deposits cross  ₹2,800 crore, loan referral business triples
+  Fino Payments Bank reported steady growth in April 2026. Total deposits increased 13% YoY to  ₹2,801 crore and loan referrals tripling. However, profit after
+  🔗 https://www.livemint.com/market/stock-market-news/fino-payments-bank-april-update-deposits-cross-rs-2-800-crore-loan-referral-business-triples-11778249698483.html
 
-- SBI share price tanks 7% after Q4 results today. Opportunity to buy or wait for more dip?
-  State Bank of India's shares fell 6.66% to  ₹1,019 after disappointing Q4 FY26 results. Despite strong credit growth and improved asset
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-share-price-tanks-7-after-q4-results-today-opportunity-to-buy-or-wait-for-more-dip-11778238175766.html
+- Pulse of the Street: markets log modest weekly gains, but Iran tensions keep sentiment fragile
+  Equities ended marginally higher, but geopolitical tensions and crude volatility weighed on underlying sentiment this week. With global capital chasing AI-led
+  🔗 https://www.livemint.com/market/indian-market-outlook-geopolitics-fpi-outflows-crude-oil-investors-11778248529997.html
 
-- BoB Q4 results 2026: Profit jumps 11% YoY to  ₹5,616 crore; recommends dividend of  ₹8.50 for FY26
-  BoB Q4 results 2026: Profit rose by 11.25% YoY to  ₹5,615.68 crore for
-  🔗 https://www.livemint.com/market/stock-market-news/bob-q4-results-2026-profit-nii-nim-dividend-advances-key-takeaways-of-march-quarter-earnings-11778222953242.html
+- Park Medi World stock surges 70% in 2026; analysts see rally sustaining on strong healthcare growth
+  Park Medi shares have surged 70% in 2026 so far, outperforming the market. Analysts expect continued momentum due to the scalable
+  🔗 https://www.livemint.com/market/stock-market-news/park-medi-world-stock-surges-70-in-2026-analysts-see-rally-sustaining-on-strong-healthcare-growth-11778245913212.html
+
+- Forget LCD and score a nice AMOLED smartwatch at discount during Amazon Sale 2026
+  Save up to 80% plus 10% HDFC bank discounts during Amazon’s Great Summer Sale 2026.
+  🔗 https://www.livemint.com/technology/gadgets/forget-lcd-and-score-a-nice-amoled-smartwatch-at-discount-during-amazon-sale-2026-11778227575640.html
 
 - Nintendo sets Switch 2 price at $499.99, forecasts 16.5 million sales as outlook weakens for new console cycle
   Nintendo has set Switch 2 US price at $499.99, up $50. Company expects to sell 16.5 million units by FY2027, down from 19.86 million previously.
@@ -96,157 +100,85 @@
   AWS said its issue stemmed from increased
   🔗 https://www.livemint.com/technology/amazon-reports-cloud-outage-at-north-virginia-data-centre-cme-coinbase-face-trading-issues-11778220552164.html
 
-- ChatGPT vs NotebookLM vs Claude: Which AI tool is best for creating PowerPoint presentations in 2026?
-  A head-to-head comparison of ChatGPT, NotebookLM, and Claude. Find out which AI tool creates the best PPTs.
-  🔗 https://www.livemint.com/technology/chatgpt-vs-notebooklm-vs-claude-which-ai-tool-is-best-for-creating-powerpoint-presentations-in-2026-11778215793632.html
+- US market today: Biotech firm Odyssey hits nearly $900 million valuation as shares rise in Nasdaq debut
+  Odyssey Therapeutics debuted on Nasdaq with an 11.1% surge. The autoimmune disease specialist successfully raised $279 million in its IPO, exceeding its target.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-biotech-firm-odyssey-hits-nearly-900-million-valuation-as-shares-rise-in-nasdaq-debut/articleshow/130965946.cms
 
-- US Stocks Rise as Tech Outlook Offsets War Worries: Markets Wrap - Bloomberg.com
-  US Stocks Rise as Tech Outlook Offsets
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQQm1jbm5YUTdweUFjLXVGRHlKOGtYMXAtTDJDejd2VXBZUXQ4TjhmbTVxMFo3Sm0xanhGMWdVMGNkVzBvVjFQUm1ZMU5RMWlvQjlENUViVTcySGtIM2NKVk84VUc0bkRWTDFPdWVVWWY2NGJUV0JoMmliZFZBRWp2b05ZMTZhTUlsQXVyRU1FbmplakQydUhuOGg4UFNXOUxnd0dBOTNqZDNmak92MWxram1naw?oc=5
+- US market today: Strong US jobs data complicates any Kevin Warsh push for lower rates
+  Strong U.S. hiring data has diminished the likelihood of Federal Reserve interest rate cuts this year. The robust job market, coupled with surging energy prices, suggests the Fed may need to maintain current rates for an extended period.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-strong-us-jobs-data-complicates-any-kevin-warsh-push-for-lower-rates/articleshow/130965901.cms
 
-- S&P 500 pulls back from record as investors eye oil prices and Iran deal developments: Live updates - CNBC
-  P 500 pulls back from record as investors eye oil prices and Iran deal developments
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaHgtMWs1aERlakNrX19EYUlqOVc4YzAtN2VZMWNIaTVoWkRsc2FlV3I2WVk0bkV6aXU1OXhKaFlsZlgtSFM3Zm9ES3NfUzFaNXNVYUlKT0tQZlR2ODVHOXZwUnhfTm1Ga1lKNi1ZMkkyaDl5ZEN30gF8QVVfeXFMUEpWWllrM0JFZDUwQzFwZUFkUnE5bExwWU9lVlBGMlhLQzE3U3JwMHpBM25SV2pMdW1Rd3EzR3R3aS1KLUZaSDFlT2tXVElvWE1aNmNYbzJxb2pPWDdPZUFxRDluU3p5UW9ldkhqT3dRZ25MSDIzOGVxR0VlQQ?oc=5
+- Jane Street rakes in record first-quarter trading haul of $16.1 billion, sources say
+  Jane Street achieved a record $16.1 billion in trading revenue for the first quarter. Firm more than doubled profits to $10.3 billion, solidifying its lead in high-frequency trading. Medium-frequency strategies and investments in
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-rakes-in-record-first-quarter-trading-haul-of-16-1-billion-sources-say/articleshow/130965863.cms
 
-- Stock Market Today: Futures Add to Gains After Better-Than-Expected April Jobs Report; S&P 500, Nasdaq on Pace to End Higher for 6th Straight Week - Investopedia
-  Stock Market Today: Futures Add to Gains After Better-Than-Expected April Jobs Report.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOSG1YT0RHY2NYeXZZbzk4dnlHZWdiVm02OXFxSk1nZnE5amtQQUxQZmt6OXJsXy13X3JOcFhkVllOcE56cm0tazNMMFVlTERLQlA0VngtYUxqcUl4dzVIRTBpb3M2am1LZUIwcnQ4SVppTGxmMFZPMFdzVW5VNVIwb1NwZjY0WWhuUWo1bjBCZWc?oc=5
+- Vodafone weighs stake transfer to boost India unit capital: Report
+  The move aims to bolster Vodafone Idea's capital, support debt raising efforts, and generate funds for government dues and growth initiatives.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-weighs-stake-transfer-to-boost-india-unit-capital-report/articleshow/130964672.cms
 
-- How The Market’s Inflation Fears are Running Ahead of Reality - J.P. Morgan
-  J.P. Morgan: Inflation fears
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejdXZl9oWFYxQkJUMllBQnpUT3NmSnd2RzBPTEk4QkR6Nzlkb09LVGdfTF9yMjlncTlxaElrN1U1d1FTcXIxQ0pLSUd5TDBzRnpUUWRWeTIzSFY3bDFFNkxiZ3ZiOFF6WURQbUZCMGd6QThrcURDUmRWOGIwcXYyZk9NZEswb2tvSmU5dFBuSkxRY2VmS0RJTkh4R3dxQWZLWHptVVJ4UlZnaEpaaXRqcl8wbTUxSVc4dG5QRDJ5N1d2NlZwWFBHSW5Fb2ljVHlx?oc=5
+- MCX Q4 Results: Cons PAT soars 291% YoY to Rs 530 crore, revenue triples; Rs 8 per share dividend announced
+  MCX reported a consolidated net profit at Rs 530 crore for the March-ended quarter. The profit after tax (PAT) is attributable to the owners of the company.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q4-results-cons-pat-soars-291-yoy-to-rs-530-crore-revenue-triples-rs-8-per-share-dividend-announced/articleshow/130963666.cms
 
-- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 516 pts lower, Nifty below 24,200; HDFC Ba... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPMndybmdzdGtVZW5MU3dSX0JEcjFGTE9IYXlNbnIzRWxzTFZqemVVXzZQMEhkdGhmNFF0Y1hRMmlvVU4ta3hOeWNEampQMlB3S1BPTzdCeGVhZVVMTDR3VkkybXFzX3JzaU
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMndybmdzdGtVZW5MU3dSX0JEcjFGTE9IYXlNbnIzRWxzTFZqemVVXzZQMEhkdGhmNFF0Y1hRMmlvVU4ta3hOeWNEampQMlB3S1BPTzdCeGVhZVVMTDR3VkkybXFzX3JzaUpxdVZYTDlfU3VyMEk3ZDA5cy1QVUhIX2xFTVNpb09zcjdhUzBMWjVPLU02aHZNejVzb0dFR0wyZk1MTmFscjNMcEhFNDFPQkt6WC02cTJRbktnV1pyV1NuazhEUGlhTDJPQ0NKdlBjZTdwYW1reHVzeFRHZkZIMnJrc3JKX09rNjJIVDJDTTBFT18xa3o5Y1BtUk9mOXR00gGGAkFVX3lxTE9ZUVM0WnQ3b2owbzNkeFFKckN3WUQwWHFHejJNYVNJRzlUZ3VYZjJuVkJ3VjcwMmJWbldTcTczTUxQM0lhOWNZakdoM1dzSzZhcFVFcG91NC1MV281NDVMaXJfMmFUZE04OWlSQ1VRamRIeVFPdE1kSFN4TFVpa0c3OF82ZEItZUY5bk9sTlBXY0NjTFhzUElYOG5tV0luTG9pYktTNWhKWlRwbGppZW5WYTJTSzc1eFN6VFVKZ2hUSnJ0T3RCWTBoT0t1Y0dmV2FmVm5nM01MWi1zNV8zV2dkSlhCUjhDVDJVTzFfZ1NfbkNWc2dxOGloblQ0d21oNUZsMVhtQUE?oc=5
-
-- US employers defy economic shock from Iran war and add a surprisingly strong 115,000 jobs in April
-  Average hourly earnings rose 0.2% from March and 3.6%
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-employers-defy-economic-shock-from-iran-war-and-add-a-surprisingly-strong-115000-jobs-in-april/articleshow/130961011.cms
-
-- India 10-year bond logs month's worst drop on auction rout, war jitters
-  U.S. and Iranian forces continued fighting in the Gulf. President Donald Trump said
-  🔗 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-logs-months-worst-drop-on-auction-rout-war-jitters/articleshow/130960508.cms
-
-- Sebi approves over $1 billion Zepto IPO; 5 other companies also get nod
-  Sebi has approved Zepto’s IPO, paving the way for a potential Rs 12,000 crore listing in 2026. The quick commerce startup aims to
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-over-1-billion-zepto-ipo-5-other-companies-also-get-nod/articleshow/130960399.cms
-
-- Bajaj Auto and 5 other stocks hit a 52-week high, rally up to 22% in a month
-  Six BSE 100 stocks hit their 52-week highs despite broader market weakness. Nestlé India, Adani Ports and Special Economic Zone, Bajaj Auto, Cummins
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-and-5-other-stocks-hit-a-52-week-high-rally-up-to-22-in-a-month/slideshow/130960272.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks future climb on chip rebound ahead of key payrolls data
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-peace-talks-crude-brent-oil-cloudflare-trade-desk-coreweave-expedia-stock-price-news/liveblog/130959823.cms
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
   One year after India-Pakistan conflict, ceasefire holds
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Google explores India investments in AI infra, server and drone manufacturing - The Times of India
+  Google explores India investments in AI infra, server and drone
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT3hwb2JuRzRzTUFmSnNCVUtvYzU3U21mZHh0clByZHp4Z1c0aVR0cjh3U0pfUGE3OXJYZ195bzhxYjhlaG10M2lZNEd0SFU2b2M0Q0djcUJ0RjZfeVI0eXVIX1M5djBhOXM1WDloNjd2M2NBN3pCc0ZMRW1UaElNY0xIc1lkMHZpQ3dnTHFXTXIzQmdnbG10YlhlQ1B0REVYbTJqcklnOEdrUFh3dDVUeTdNdTdVaUtQNEFQQWNGMERpOVowUnZ0akg3dTU0RHB4ekY1TndBVlctbXdkQkJHUGhQTF9MaG5LUlNEa0h1MUPSAfYBQVVfeXFMTm1jdlQ3aHd2WlpJVkdfeWFHVjcxQV9Oc0t0NmN1eWRGc1VSbVVSeGRmMDhvV28yWWxJTkhTSU5RX3pZZW01VS1FR2NDOXcydVptaXFDUnNlUld3RmlJb2NzcmJHX0lXdWxmZ3M0MkxvekY4WU00cExFbUwxRlRhaUh1aWRtZ3FzamVwQTd1bHhnUW9TaER3WENhd2xtdnptQk1UVWNCZEV6b2d2SzI2Z1dWY2F4d3FtSVh6dkNfNERvYXk0ZlU3ZUpfeDJIbkVQVGYzNVRZeDhPWlczcTUzb0lTdlEyQjZEMUdfclppQkVwc3VSSWJB?oc=5
 
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- "Centre's Intervention May Be Needed": Top Court On Drugs Menace In Punjab - NDTV
+  "Centre's Intervention May be Needed":
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNmV2RKRm9mbkxHWElCMEdyek1sbGkwYUkxOFhhQmNSdlpfV0VEYmpGcDQ3OHAzVGZjOU9TdllYNEhxbXlHNFdzcEdUa0NnbmRlclp5R1M3SklJY1RCMVNjbFdSdnlwQWZsdnFXTko0TFczbU9QcDZhd3pWMDdIMXphMWc3ZC1UajVOb3FMSGN1MXBBM2tZSG03cWNqUFJVRXBOSHJrZ3NqNzE1c0JvdNIBuAFBVV95cUxNUC1acnZjRXNFQllUYk1fWW5wbWphLVpuZ2Q1R3lncGNmMWtPVlpTZ1JyNjVNR0tPUnJBWFhGb1c3VXVzUzQ5OExfVHNRbldycVp1UUVBM0RoUjY0emwzZWJQa1lfd3NQbWwtbmsxX19lTDlKZkE0bmwtM2lvWS1YWGpaNFplRk4xcGFqWGxCQVhXdjM0UVlqeGFTRDJUdHA0SVlKZEdoZXpJN2lWUkxwV21CY0d4N3dh?oc=5
 
-- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
-  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
+- India U-17 edge past Lebanon for knockout spot - The Times of India
+  India U-17 edge past Lebanon for knockout
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclFKWlViYko2TTc3b2JrdmFGNEFmX2hhOW8za1N6R1N1NGJJbEJxZ2ZRVXFhc2ZzNW5iTGxjWjlHOEFlZDlkRjd3NWxiandQemN2RHZXdDNTTUszdDhHZEc4V1RPZk5uVWxSSkxnV25hX1lnOHF6OXFhQ0EyczdOWFplTkIzZ0JwWDEyTWw4UVJON0JZX1piU09zRktiS2ZiN3VhclRHUlMzbTRCWVV1c0NNMWUtYkc10gG-AUFVX3lxTE9EdVhURkdZYW05NkxCNVcyekgyMjN1aENPaVJqZXVZN0FsRml4Z1B1cjk4YzhnX2tGM003T1lnQ0F4MC1HTHdhaGFuMW9YSGpzMUNwRjNRMW15TGVSZ2E2dFNjbmcteGU1TWs2aHNLNHU1NzYxSEZ3bGw2UDBYemhkYVhEX3VVc0RQSERqY0tmU1RYM0JGeTBSLUI1XzZSZV9wbkNYN2xRX0dMVVNfZ2VnWE9GTkdKOXNETi1icHc?oc=5
 
-- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
-  India's Odisha signs $
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
-
-- One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
-  One year after India-Pakistan conflict, ceasefire holds
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
-
-- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
-  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
-
-- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
-  India's Odisha signs $
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
   One year after India-Pakistan conflict, ceasefire holds
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Google explores India investments in AI infra, server and drone manufacturing - The Times of India
+  Google explores India investments in AI infra, server and drone
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT3hwb2JuRzRzTUFmSnNCVUtvYzU3U21mZHh0clByZHp4Z1c0aVR0cjh3U0pfUGE3OXJYZ195bzhxYjhlaG10M2lZNEd0SFU2b2M0Q0djcUJ0RjZfeVI0eXVIX1M5djBhOXM1WDloNjd2M2NBN3pCc0ZMRW1UaElNY0xIc1lkMHZpQ3dnTHFXTXIzQmdnbG10YlhlQ1B0REVYbTJqcklnOEdrUFh3dDVUeTdNdTdVaUtQNEFQQWNGMERpOVowUnZ0akg3dTU0RHB4ekY1TndBVlctbXdkQkJHUGhQTF9MaG5LUlNEa0h1MUPSAfYBQVVfeXFMTm1jdlQ3aHd2WlpJVkdfeWFHVjcxQV9Oc0t0NmN1eWRGc1VSbVVSeGRmMDhvV28yWWxJTkhTSU5RX3pZZW01VS1FR2NDOXcydVptaXFDUnNlUld3RmlJb2NzcmJHX0lXdWxmZ3M0MkxvekY4WU00cExFbUwxRlRhaUh1aWRtZ3FzamVwQTd1bHhnUW9TaER3WENhd2xtdnptQk1UVWNCZEV6b2d2SzI2Z1dWY2F4d3FtSVh6dkNfNERvYXk0ZlU3ZUpfeDJIbkVQVGYzNVRZeDhPWlczcTUzb0lTdlEyQjZEMUdfclppQkVwc3VSSWJB?oc=5
 
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- "Centre's Intervention May Be Needed": Top Court On Drugs Menace In Punjab - NDTV
+  "Centre's Intervention May be Needed":
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNmV2RKRm9mbkxHWElCMEdyek1sbGkwYUkxOFhhQmNSdlpfV0VEYmpGcDQ3OHAzVGZjOU9TdllYNEhxbXlHNFdzcEdUa0NnbmRlclp5R1M3SklJY1RCMVNjbFdSdnlwQWZsdnFXTko0TFczbU9QcDZhd3pWMDdIMXphMWc3ZC1UajVOb3FMSGN1MXBBM2tZSG03cWNqUFJVRXBOSHJrZ3NqNzE1c0JvdNIBuAFBVV95cUxNUC1acnZjRXNFQllUYk1fWW5wbWphLVpuZ2Q1R3lncGNmMWtPVlpTZ1JyNjVNR0tPUnJBWFhGb1c3VXVzUzQ5OExfVHNRbldycVp1UUVBM0RoUjY0emwzZWJQa1lfd3NQbWwtbmsxX19lTDlKZkE0bmwtM2lvWS1YWGpaNFplRk4xcGFqWGxCQVhXdjM0UVlqeGFTRDJUdHA0SVlKZEdoZXpJN2lWUkxwV21CY0d4N3dh?oc=5
 
-- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
-  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
+- India U-17 edge past Lebanon for knockout spot - The Times of India
+  India U-17 edge past Lebanon for knockout
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclFKWlViYko2TTc3b2JrdmFGNEFmX2hhOW8za1N6R1N1NGJJbEJxZ2ZRVXFhc2ZzNW5iTGxjWjlHOEFlZDlkRjd3NWxiandQemN2RHZXdDNTTUszdDhHZEc4V1RPZk5uVWxSSkxnV25hX1lnOHF6OXFhQ0EyczdOWFplTkIzZ0JwWDEyTWw4UVJON0JZX1piU09zRktiS2ZiN3VhclRHUlMzbTRCWVV1c0NNMWUtYkc10gG-AUFVX3lxTE9EdVhURkdZYW05NkxCNVcyekgyMjN1aENPaVJqZXVZN0FsRml4Z1B1cjk4YzhnX2tGM003T1lnQ0F4MC1HTHdhaGFuMW9YSGpzMUNwRjNRMW15TGVSZ2E2dFNjbmcteGU1TWs2aHNLNHU1NzYxSEZ3bGw2UDBYemhkYVhEX3VVc0RQSERqY0tmU1RYM0JGeTBSLUI1XzZSZV9wbkNYN2xRX0dMVVNfZ2VnWE9GTkdKOXNETi1icHc?oc=5
 
-- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
-  India's Odisha signs $
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
   One year after India-Pakistan conflict, ceasefire holds
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Google explores India investments in AI infra, server and drone manufacturing - The Times of India
+  Google explores India investments in AI infra, server and drone
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT3hwb2JuRzRzTUFmSnNCVUtvYzU3U21mZHh0clByZHp4Z1c0aVR0cjh3U0pfUGE3OXJYZ195bzhxYjhlaG10M2lZNEd0SFU2b2M0Q0djcUJ0RjZfeVI0eXVIX1M5djBhOXM1WDloNjd2M2NBN3pCc0ZMRW1UaElNY0xIc1lkMHZpQ3dnTHFXTXIzQmdnbG10YlhlQ1B0REVYbTJqcklnOEdrUFh3dDVUeTdNdTdVaUtQNEFQQWNGMERpOVowUnZ0akg3dTU0RHB4ekY1TndBVlctbXdkQkJHUGhQTF9MaG5LUlNEa0h1MUPSAfYBQVVfeXFMTm1jdlQ3aHd2WlpJVkdfeWFHVjcxQV9Oc0t0NmN1eWRGc1VSbVVSeGRmMDhvV28yWWxJTkhTSU5RX3pZZW01VS1FR2NDOXcydVptaXFDUnNlUld3RmlJb2NzcmJHX0lXdWxmZ3M0MkxvekY4WU00cExFbUwxRlRhaUh1aWRtZ3FzamVwQTd1bHhnUW9TaER3WENhd2xtdnptQk1UVWNCZEV6b2d2SzI2Z1dWY2F4d3FtSVh6dkNfNERvYXk0ZlU3ZUpfeDJIbkVQVGYzNVRZeDhPWlczcTUzb0lTdlEyQjZEMUdfclppQkVwc3VSSWJB?oc=5
 
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- "Centre's Intervention May Be Needed": Top Court On Drugs Menace In Punjab - NDTV
+  "Centre's Intervention May be Needed":
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNmV2RKRm9mbkxHWElCMEdyek1sbGkwYUkxOFhhQmNSdlpfV0VEYmpGcDQ3OHAzVGZjOU9TdllYNEhxbXlHNFdzcEdUa0NnbmRlclp5R1M3SklJY1RCMVNjbFdSdnlwQWZsdnFXTko0TFczbU9QcDZhd3pWMDdIMXphMWc3ZC1UajVOb3FMSGN1MXBBM2tZSG03cWNqUFJVRXBOSHJrZ3NqNzE1c0JvdNIBuAFBVV95cUxNUC1acnZjRXNFQllUYk1fWW5wbWphLVpuZ2Q1R3lncGNmMWtPVlpTZ1JyNjVNR0tPUnJBWFhGb1c3VXVzUzQ5OExfVHNRbldycVp1UUVBM0RoUjY0emwzZWJQa1lfd3NQbWwtbmsxX19lTDlKZkE0bmwtM2lvWS1YWGpaNFplRk4xcGFqWGxCQVhXdjM0UVlqeGFTRDJUdHA0SVlKZEdoZXpJN2lWUkxwV21CY0d4N3dh?oc=5
 
-- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
-  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
-
-- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
-  India's Odisha signs $
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India U-17 edge past Lebanon for knockout spot - The Times of India
+  India U-17 edge past Lebanon for knockout
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclFKWlViYko2TTc3b2JrdmFGNEFmX2hhOW8za1N6R1N1NGJJbEJxZ2ZRVXFhc2ZzNW5iTGxjWjlHOEFlZDlkRjd3NWxiandQemN2RHZXdDNTTUszdDhHZEc4V1RPZk5uVWxSSkxnV25hX1lnOHF6OXFhQ0EyczdOWFplTkIzZ0JwWDEyTWw4UVJON0JZX1piU09zRktiS2ZiN3VhclRHUlMzbTRCWVV1c0NNMWUtYkc10gG-AUFVX3lxTE9EdVhURkdZYW05NkxCNVcyekgyMjN1aENPaVJqZXVZN0FsRml4Z1B1cjk4YzhnX2tGM003T1lnQ0F4MC1HTHdhaGFuMW9YSGpzMUNwRjNRMW15TGVSZ2E2dFNjbmcteGU1TWs2aHNLNHU1NzYxSEZ3bGw2UDBYemhkYVhEX3VVc0RQSERqY0tmU1RYM0JGeTBSLUI1XzZSZV9wbkNYN2xRX0dMVVNfZ2VnWE9GTkdKOXNETi1icHc?oc=5
 
 
-_Last updated: 2026-05-08 13:23:54 UTC_
+_Last updated: 2026-05-08 19:13:56 UTC_
