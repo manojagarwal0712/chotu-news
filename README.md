@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Monsoon 2026 update: IMD predicts ‘timely’ May 20 arrival in Andaman Sea
+- Fugitive gangster makes ‘extortion’ allegations against Jharkhand IPS officer, BJP seeks probe
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-onset-andaman-sea-imd-forecast-10678938/
+  🔗 https://indianexpress.com/article/india/prince-khan-video-row-jharkhand-ips-officer-bjp-jmm-10679542/
 
-- Tamil Nadu Government Formation LIVE Updates: More DMK allies weigh joining Vijay’s TVK
+- ‘Changed circumstances’: DMK wants House seating tweak after split with Congress
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-government-formation-live-updates-tvk-vijay-party-alliance-stalin-dmk-aiadmk-10678643/
+  🔗 https://indianexpress.com/article/india/changed-circumstances-dmk-wants-house-seating-tweak-after-split-congress-10679443/
 
-- Air India weighs furloughs, bonus delays amid mounting losses: Report
+- Ex-Prasar Bharati CEO Shashi Shekhar Vempati to be the new CBFC chairperson
   
-  🔗 https://indianexpress.com/article/india/air-india-furloughs-cost-cutting-west-asia-conflict-losses-campbell-wilson-10678670/
+  🔗 https://indianexpress.com/article/india/shashi-vempati-appointed-cbfc-chairperson-prasar-bharati-10679417/
 
-- PM Modi: Somnath’s glory and the sacred idea of Bharat: In a world marked by divisions, the spirit of unity is more relevant than ever
+- Railways sanctions Kavach expansion across key routes in Punjab, Jammu and Kashmir
   
-  🔗 https://indianexpress.com/article/india/pm-modi-somnaths-glory-and-the-sacred-idea-of-bharat-in-a-world-marked-by-divisions-the-spirit-of-unity-is-more-relevant-than-ever-10678514/
+  🔗 https://indianexpress.com/article/india/railways-sanctions-kavach-expansion-across-key-routes-in-punjab-jammu-and-kashmir-10679226/
 
-- ‘Body swollen, eyes yellow’: In Kota, a race against time to find out what left 2 new mothers dead, 4 in ICU
+- Bengaluru-Mumbai Superfast train set for June launch, Vande Bharat Sleeper next: Prahlad Joshi
   
-  🔗 https://indianexpress.com/article/india/body-swollen-eyes-yellow-in-kota-a-race-against-time-to-find-out-what-left-2-new-mothers-dead-4-in-icu-10678416/
+  🔗 https://indianexpress.com/article/india/bengaluru-mumbai-superfast-train-set-for-june-launch-vande-bharat-sleeper-next-prahlad-joshi-10679150/
 
-- Google unveils Whoop killer: Fitbit Air aims at sleep, recovery, and continuous tracking
+- Tech launches today (May 8, 2026): OnePlus Nord CE6 goes on sale, Samsung launches Mini LED TVs, and more
   
-  🔗 https://indianexpress.com/article/technology/gadgets/google-unveils-whoop-killer-fitbit-air-aims-at-sleep-recovery-and-continuous-tracking-10679015/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-8-2026-oneplus-nord-ce6-goes-on-sale-samsung-launches-mini-led-tvs-and-more-10679790/
 
-- Tiny Qualcomm ‘audio’ chip inside boAt Nirvana Eutopia 2 Pro could reset India’s headphones market
+- Sony, Nintendo grapple with memory price surge as AI boom constrains supply
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-boat-nirvana-eutopia-2-pro-india-audio-market-10678814/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-10679696/
 
-- Education tool Canvas hacked: Reports
+- Mother’s Day 2026 gift guide: 11 gadgets for the moms who do it all
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/education-tool-canvas-hacked-reports-10678760/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/mothers-day-2026-gift-guide-11-gadgets-for-the-moms-who-do-it-all-10679567/
 
-- Apple, Meta warn Canadian bill could force them to weaken encryption
+- Your morning coffee does more than wake you up, may rewire your cells: Study
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-meta-warn-canadian-bill-could-force-them-to-weaken-encryption-10678761/
+  🔗 https://indianexpress.com/article/technology/science/your-morning-coffee-does-more-10679495/
 
-- OpenAI’s latest API models bring live translation and transcription to voice apps
+- Bamboo shoots show early promise as ‘superfood’ for gut health, metabolism: study
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openais-latest-api-models-bring-live-translation-and-transcription-to-voice-apps-10678754/
+  🔗 https://indianexpress.com/article/technology/science/bamboo-shoots-show-early-promise-as-superfood-for-gut-health-metabolism-study-10679421/
+
+- Titan clocks strong FY26 on wedding demand, rising gold prices
+  The jewellery business drives growth as consumers
+  🔗 https://www.livemint.com/companies/company-results/titan-company-fy26-revenue-net-profit-jewellery-growth-shares-high-11778240381032.html
+
+- Amazon India to scale up rest facilities for delivery associates to 250 in Delhi, Bengaluru, Mumbai and other cities
+  Ashray is Amazon’s network of dedicated rest centres for
+  🔗 https://www.livemint.com/companies/news/amazon-india-to-scale-up-rest-facilities-for-delivery-associates-to-250-in-delhi-bengaluru-mumbai-and-other-cities-11778235798121.html
+
+- SBI posts 5.6% growth in net profit in Q4
+  The outlook on India’s economic growth and banks’ credit growth is clouded due to
+  🔗 https://www.livemint.com/companies/company-results/sbi-q4-fy26-results-sbi-npa-psu-banks-india-west-asia-war-11778168971153.html
 
 - Ravi Pandit of KPIT Technologies passes away in Pune — Who was he?
   Ravi Pandit was a key figure in shaping India�
@@ -48,37 +60,37 @@
   Analysts expect India’s largest lender to continue outperforming peers on loan growth and net interest margin (NIM) stability
   🔗 https://www.livemint.com/companies/news/sbi-q4-earnings-preview-sbi-loan-growth-psu-banks-india-11778215685321.html
 
-- Japans Sony reports declining profit but expects a record for this year
-  Sony reports declining profit but expects a
-  🔗 https://www.livemint.com/companies/japans-sony-reports-declining-profit-but-expects-a-record-for-this-year-11778218316666.html
+- US stock market today: S&amp;P 500, Nasdaq futures advance up to 0.7% despite Middle East tensions; crude rebounds
+  US stock futures show a positive outlook on May 8. S&amp;amp;P 500 up 0.5% and Nasdaq 0.7%. Tensions in West Asia persist after clashes
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-advance-up-to-0-7-despite-middle-east-tensions-crude-rebounds-11778240718810.html
 
-- Bikaji promoter Deepak Agarwal’s family office invests in Bengaluru-based The Filter Coffee
-  Bikaji Foods promoter Deepak Agarwal’s family office acquires 35% in The Filter Coffee
-  🔗 https://www.livemint.com/companies/start-ups/bikaji-foods-deepak-agarwal-wishvish-foods-the-filter-coffee-qsr-india-restaurant-funding-bengaluru-restaurants-11778210934828.html
+- Zepto's confidential IPO papers get Sebi approval, updated filing likely in 2 months
+  If Zepto's IPO goes through, it will mark one of the shortest journeys
+  🔗 https://www.livemint.com/market/ipo/zepto-ipo-sebi-approval-updated-drhp-quick-commerce-india-stock-market-listing-11778242498449.html
 
-- India's mid-tier IT firms narrow new business gap with the larger rivals
-  Coforge, Mphasis and five similar companies saw growth moderate, but their decline in new business in FY26 was slower than that of the country’s six largest
-  🔗 https://www.livemint.com/companies/mid-tier-it-firms-narrow-new-business-gap-with-larger-rivals-tcs-infosys-11778162404877.html
+- Simca Advertising IPO GMP jumps on Day 1; check subscription status, price band and other key details
+  Simca Advertising IPO is entirely a fresh issue of 0.32 crore shares worth  ₹58 crore. This means that all
+  🔗 https://www.livemint.com/market/ipo/simca-advertising-ipo-gmp-jumps-on-day-1-check-subscription-status-price-band-and-other-key-details-11778240745917.html
 
-- Recode Studios IPO allotment to be finalised today. Latest GMP, step-by-step guide to check status
-  Recode Studios IPO allotment date is today, 8 May. Investors can check their allotment status on Mudra RTA. The IPO subscription was 234.64 times.
-  🔗 https://www.livemint.com/market/ipo/recode-studios-ipo-gmp-recode-studios-ipo-subscription-status-recode-studios-ipo-allotment-status-recode-studios-ipo-11778221561447.html
+- SBI share price tanks 7% after Q4 results today. Opportunity to buy or wait for more dip?
+  State Bank of India's shares fell 6.66% to  ₹1,019 after disappointing Q4 FY26 results. Despite strong credit growth and improved asset
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-share-price-tanks-7-after-q4-results-today-opportunity-to-buy-or-wait-for-more-dip-11778238175766.html
 
-- 1800% returns in five years! Multibagger stock shows resilience against stock market sell-off
-  Aayush Wellness share price has fallen 43% on a year-to-date (YTD) basis, while it has declined 63% in one year. The small
-  🔗 https://www.livemint.com/market/stock-market-news/1800-returns-in-five-years-multibagger-stock-aayush-wellness-shares-show-resilience-against-stock-market-selloff-11778222270981.html
+- BoB Q4 results 2026: Profit jumps 11% YoY to  ₹5,616 crore; recommends dividend of  ₹8.50 for FY26
+  BoB Q4 results 2026: Profit rose by 11.25% YoY to  ₹5,615.68 crore for
+  🔗 https://www.livemint.com/market/stock-market-news/bob-q4-results-2026-profit-nii-nim-dividend-advances-key-takeaways-of-march-quarter-earnings-11778222953242.html
 
-- Vodafone Idea, GTL Infra, YES Bank, OnEMI Tech, Lenskart, MRPL among the most traded stocks today, 8 May 2026, on NSE
-  Vodafone Idea, GTL Infrastructure, YES Bank, OnEMI Technology Solutions (Kissht), MRPL, Lensk
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-gtl-infra-yes-bank-onemi-tech-lenskart-mrpl-among-the-most-traded-stocks-today-8-may-2026-on-nse-11778219278785.html
+- Nintendo sets Switch 2 price at $499.99, forecasts 16.5 million sales as outlook weakens for new console cycle
+  Nintendo has set Switch 2 US price at $499.99, up $50. Company expects to sell 16.5 million units by FY2027, down from 19.86 million previously.
+  🔗 https://www.livemint.com/technology/nintendo-sets-switch-2-price-at-499-99-forecasts-16-5-million-sales-as-outlook-weakens-for-new-console-cycle-11778228971072.html
 
-- Can Shree Cement, Ambuja's capex breather allay sector’s overcapacity concerns?
-  Pan-India average cement prices improved by  ₹10-13 per bag month-on-month in May.
-  🔗 https://www.livemint.com/market/mark-to-market/shree-cement-q4-results-ambuja-cement-q4-earnings-capex-cement-sector-india-11778216716212.html
+- From Apple Watch to Fitbit Air: Top smartwatches and fitness bands of 2026
+  The top wearable devices of 2026 feature health tracking, AI-backed wellness features, AMOLED displays and long battery life across price segments. From Apple and Samsung smartwatches
+  🔗 https://www.livemint.com/technology/gadgets/from-apple-watch-to-fitbit-air-top-smartwatches-and-fitness-bands-of-2026-11778221871838.html
 
-- Small-cap stock under  ₹100 MIC Electronics zooms 9% despite weak trends on Dalal Street
-  MIC Electronics share price has fallen 20% this year so far. The smallcap stock has dropped 33% in one year, and has plunged 22% in two years. MIC Electronics shares have delivered multibagger
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-mic-electronics-zooms-9-despite-weak-trends-on-dalal-street-11778219817537.html
+- Digital access, cyber security challenges in DPI ecosystem: Nageswaran
+  . DPI
+  🔗 https://www.livemint.com/technology/digital-access-cyber-security-challenges-in-dpi-ecosystem-nageswaran-11778226736781.html
 
 - Amazon reports cloud outage at North Virginia data centre; CME, Coinbase face trading issues
   AWS said its issue stemmed from increased
@@ -88,37 +100,45 @@
   A head-to-head comparison of ChatGPT, NotebookLM, and Claude. Find out which AI tool creates the best PPTs.
   🔗 https://www.livemint.com/technology/chatgpt-vs-notebooklm-vs-claude-which-ai-tool-is-best-for-creating-powerpoint-presentations-in-2026-11778215793632.html
 
-- MacBook deals start at  ₹65,900: Top Apple laptops worth checking out right now
-  Amazon Great Summer Sale 2026 includes MacBook deals. MacBook deals start at  ₹65,900.
-  🔗 https://www.livemint.com/technology/gadgets/macbook-deals-start-at-rs-65-900-top-apple-laptops-worth-checking-out-right-now-11778146251884.html
+- US Stocks Rise as Tech Outlook Offsets War Worries: Markets Wrap - Bloomberg.com
+  US Stocks Rise as Tech Outlook Offsets
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQQm1jbm5YUTdweUFjLXVGRHlKOGtYMXAtTDJDejd2VXBZUXQ4TjhmbTVxMFo3Sm0xanhGMWdVMGNkVzBvVjFQUm1ZMU5RMWlvQjlENUViVTcySGtIM2NKVk84VUc0bkRWTDFPdWVVWWY2NGJUV0JoMmliZFZBRWp2b05ZMTZhTUlsQXVyRU1FbmplakQydUhuOGg4UFNXOUxnd0dBOTNqZDNmak92MWxram1naw?oc=5
 
-- Mint Explainer: Why India’s space data centre dreams could be far-fetched
-  The idea to build space data centre may have some theoretical concepts in place. But the reality of executing such technology is incredibly complex, capital-intensive, and
-  🔗 https://www.livemint.com/technology/why-india-s-space-data-centre-claims-could-be-too-absurd-11778155284965.html
+- S&P 500 pulls back from record as investors eye oil prices and Iran deal developments: Live updates - CNBC
+  P 500 pulls back from record as investors eye oil prices and Iran deal developments
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaHgtMWs1aERlakNrX19EYUlqOVc4YzAtN2VZMWNIaTVoWkRsc2FlV3I2WVk0bkV6aXU1OXhKaFlsZlgtSFM3Zm9ES3NfUzFaNXNVYUlKT0tQZlR2ODVHOXZwUnhfTm1Ga1lKNi1ZMkkyaDl5ZEN30gF8QVVfeXFMUEpWWllrM0JFZDUwQzFwZUFkUnE5bExwWU9lVlBGMlhLQzE3U3JwMHpBM25SV2pMdW1Rd3EzR3R3aS1KLUZaSDFlT2tXVElvWE1aNmNYbzJxb2pPWDdPZUFxRDluU3p5UW9ldkhqT3dRZ25MSDIzOGVxR0VlQQ?oc=5
 
-- One Tech Tip: Why digital devices and online accounts need spring cleaning
-  One Tech Tip: Why digital devices
-  🔗 https://www.livemint.com/technology/one-tech-tip-why-digital-devices-and-online-accounts-need-spring-cleaning-11778160644019.html
+- Stock Market Today: Futures Add to Gains After Better-Than-Expected April Jobs Report; S&P 500, Nasdaq on Pace to End Higher for 6th Straight Week - Investopedia
+  Stock Market Today: Futures Add to Gains After Better-Than-Expected April Jobs Report.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOSG1YT0RHY2NYeXZZbzk4dnlHZWdiVm02OXFxSk1nZnE5amtQQUxQZmt6OXJsXy13X3JOcFhkVllOcE56cm0tazNMMFVlTERLQlA0VngtYUxqcUl4dzVIRTBpb3M2am1LZUIwcnQ4SVppTGxmMFZPMFdzVW5VNVIwb1NwZjY0WWhuUWo1bjBCZWc?oc=5
 
-- Coforge shares surge 6%, rally 16% in three days post Q4 results. What's ahead for investors?
-  Coforge shares saw a significant jump following robust Q4 financial results. The company reported a substantial surge in net profit and revenue. Analysts are optimistic, with several brokerages issuing 'Buy' recommendations.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-surge-6-rally-16-in-three-days-post-q4-results-whats-ahead-for-investors/articleshow/130952721.cms
+- How The Market’s Inflation Fears are Running Ahead of Reality - J.P. Morgan
+  J.P. Morgan: Inflation fears
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejdXZl9oWFYxQkJUMllBQnpUT3NmSnd2RzBPTEk4QkR6Nzlkb09LVGdfTF9yMjlncTlxaElrN1U1d1FTcXIxQ0pLSUd5TDBzRnpUUWRWeTIzSFY3bDFFNkxiZ3ZiOFF6WURQbUZCMGd6QThrcURDUmRWOGIwcXYyZk9NZEswb2tvSmU5dFBuSkxRY2VmS0RJTkh4R3dxQWZLWHptVVJ4UlZnaEpaaXRqcl8wbTUxSVc4dG5QRDJ5N1d2NlZwWFBHSW5Fb2ljVHlx?oc=5
 
-- Markets look past conflict, but oil and inflation risks remain: Peter Cardillo
-  Global equities signal confidence in easing geopolitical tensions. Investors largely pricing in the worst of recent volatility. Persistent elevated oil prices remain a significant threat.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/markets-look-past-conflict-but-oil-and-inflation-risks-remain-peter-cardillo/articleshow/130952540.cms
+- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 516 pts lower, Nifty below 24,200; HDFC Ba... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPMndybmdzdGtVZW5MU3dSX0JEcjFGTE9IYXlNbnIzRWxzTFZqemVVXzZQMEhkdGhmNFF0Y1hRMmlvVU4ta3hOeWNEampQMlB3S1BPTzdCeGVhZVVMTDR3VkkybXFzX3JzaU
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxPMndybmdzdGtVZW5MU3dSX0JEcjFGTE9IYXlNbnIzRWxzTFZqemVVXzZQMEhkdGhmNFF0Y1hRMmlvVU4ta3hOeWNEampQMlB3S1BPTzdCeGVhZVVMTDR3VkkybXFzX3JzaUpxdVZYTDlfU3VyMEk3ZDA5cy1QVUhIX2xFTVNpb09zcjdhUzBMWjVPLU02aHZNejVzb0dFR0wyZk1MTmFscjNMcEhFNDFPQkt6WC02cTJRbktnV1pyV1NuazhEUGlhTDJPQ0NKdlBjZTdwYW1reHVzeFRHZkZIMnJrc3JKX09rNjJIVDJDTTBFT18xa3o5Y1BtUk9mOXR00gGGAkFVX3lxTE9ZUVM0WnQ3b2owbzNkeFFKckN3WUQwWHFHejJNYVNJRzlUZ3VYZjJuVkJ3VjcwMmJWbldTcTczTUxQM0lhOWNZakdoM1dzSzZhcFVFcG91NC1MV281NDVMaXJfMmFUZE04OWlSQ1VRamRIeVFPdE1kSFN4TFVpa0c3OF82ZEItZUY5bk9sTlBXY0NjTFhzUElYOG5tV0luTG9pYktTNWhKWlRwbGppZW5WYTJTSzc1eFN6VFVKZ2hUSnJ0T3RCWTBoT0t1Y0dmV2FmVm5nM01MWi1zNV8zV2dkSlhCUjhDVDJVTzFfZ1NfbkNWc2dxOGloblQ0d21oNUZsMVhtQUE?oc=5
 
-- Sony forecasts 11% rise in annual profit but lower sale
-  Sony anticipates a sales dip in its gaming division. This is due to fewer PlayStation 5 hardware sales as the console ages and increased memory chip costs. However, the company projects a profit increase driven by strong first-party game releases.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sony-forecasts-11-rise-in-annual-profit-but-lower-sale/articleshow/130952146.cms
+- US employers defy economic shock from Iran war and add a surprisingly strong 115,000 jobs in April
+  Average hourly earnings rose 0.2% from March and 3.6%
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/us-employers-defy-economic-shock-from-iran-war-and-add-a-surprisingly-strong-115000-jobs-in-april/articleshow/130961011.cms
 
-- Kissht parent OnEMI Tech shares soar 11% after strong D-Street debut. Should you buy, sell, or hold?
-  OnEMI Technology Solutions shares saw a strong debut, jumping 11% on their listing day. Analysts suggest caution due to potential volatility but highlight the company's customer base and technology.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kissht-parent-onemi-technology-solutions-share-price-soars-22-on-stock-market-debut-should-you-buy-sell-or-hold/articleshow/130950441.cms
+- India 10-year bond logs month's worst drop on auction rout, war jitters
+  U.S. and Iranian forces continued fighting in the Gulf. President Donald Trump said
+  🔗 https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-logs-months-worst-drop-on-auction-rout-war-jitters/articleshow/130960508.cms
 
-- ​Coinbase Q1 2026: Crypto slowdown weighs on earnings
+- Sebi approves over $1 billion Zepto IPO; 5 other companies also get nod
+  Sebi has approved Zepto’s IPO, paving the way for a potential Rs 12,000 crore listing in 2026. The quick commerce startup aims to
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-over-1-billion-zepto-ipo-5-other-companies-also-get-nod/articleshow/130960399.cms
+
+- Bajaj Auto and 5 other stocks hit a 52-week high, rally up to 22% in a month
+  Six BSE 100 stocks hit their 52-week highs despite broader market weakness. Nestlé India, Adani Ports and Special Economic Zone, Bajaj Auto, Cummins
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-and-5-other-stocks-hit-a-52-week-high-rally-up-to-22-in-a-month/slideshow/130960272.cms
+
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks future climb on chip rebound ahead of key payrolls data
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/coinbase-q1-2026-crypto-slowdown-weighs-on-earnings/slideshow/130951413.cms
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-peace-talks-crude-brent-oil-cloudflare-trade-desk-coreweave-expedia-stock-price-news/liveblog/130959823.cms
 
 - One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
   One year after India-Pakistan conflict, ceasefire holds
@@ -128,17 +148,17 @@
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Tamil Nadu Government Formation LIVE: Cannot Tie-Up With Any “Communal Party": DMK Asks AIADMK To Dump BJP - NDTV
-  Tamil Nadu Government Formation LIVE: Cannot Tie-Up With Any “
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdEh1OTg0djlMbFlDU1hsRHIxV3c5cVZ6aUNkT0R1WnUtYjd3MlJ3OUNyV0dtdS1SSUlMMi0xWXNwTHBNYVRZNkRjcFpOWmdKMnJodHpudlBqcHdZU1pwbXJrWXZfcms1eS1DaWpBNXVhNVJJeTc0TTlGZlpVUWZWcFQ2Qm1CNUVZU0ZUOEdXajk5dHkxOXQxQm8wVTBCbnB3ZXd3WlZQbDZQcFdlRGkwNEFKYk1MbmtzTDhVLUpaVVZiVDZlV252M0VpaUpKTHBRMWhDY1BHU18wcnY2MmtXSVJ6V193aUFIbl9PT0M1TWppaERaYnpFa3BDYVlnWFp1UEZiMkR1S2JWV0VnZUR1SlBicG9JNmQteUlZ0gGjAkFVX3lxTE96NWI2Z1YxTC1aWFZPQXBiN05aNnlXeG9QU1RocEp2M1l0clRELU1VTWhocnF3WDc3akZYeVc5c3E3eHNieFlLUEdQSWNrU3F1SUFHVTdCeU5fcWdVc1hvTExJVzZ4SHhtSDI0S0c0aGROLS1wNDJnTEFEZVhYWTdWcGJZUEhxT2kyVHVRMllGakZsTk96SmVteVFEQTBsVmdwOWtSWGF6aU5oZ3o4cmhoM3p6NDNZSG5tZTVOS1RmeDlVdEc3UGJ5RnBZajVKS2RmeW5LWGNHWTA5TnlpdFJVNml3bGJsQVhrZ1QxV0ZYTHFnSnVfUEF6YTVfX0tyZlh1UFlLSlU3TG55ejM2bVo5T0psZXozUDBuRGxOYUxSUXhUQQ?oc=5
+- China confirms its support to Pakistan during last year’s war with India - The Hindu
+  China confirms its support to Pakistan during last year's war
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
 
-- All eyes on Amit Shah as West Bengal waits for new CM and cabinet - The Times of India
-  The Times of India reports that Amit Shah is set to become West Bengal's
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzZmMXNUS0ZqelFnV3AzZVNDaWNqOGxMWHU4ZmJaOFA0R3d1YUxRNDFjWEszc295TDBGSEdmLUQtYm5RTFE3ZW1XRUI0MHdXZks4OXJ3YmU1N01PYWpFeHgzNTliLWhmbHhZVGN5NnNiVzk5R2V3RU1NaGVsQTF2NDJmdm1JdFAzSUVpU2FjYUNJNXRJenRrTnR4dGExajVGQVFsTU9ISjY5YWx6SkZkMkdzNWVFQV82dmxzb3dMQXRVTnZUS3h5ZW5oem5YZ9IB0wFBVV95cUxOUXBaT0VBdlFIdWZOOGxpOUJjTVh5cnprVGJlcHFPNFRsMXFaR3l0NFh1ZjUwU0pDajFBUlVLVENxcUI4Y2I3VHNaOENrNW1aYjdBSEo3WHE3VjBBZ0FUbG1EelVnb1hmWTVla2t4UDNHQi1UV0VUUEVlMVVrRTMxcHdlRkF3OElzSlpHU21ZaXZVTkhWRzRnUnVZQnNGcVFwUDVoSnU0dUlvN0tiYmc3Y0FJT0J0emVQcXNrbXJYVGRJTGpaUGtDVlZYNmc0b3V0czdF?oc=5
+- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
+  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
 
-- 'Who asked you to speak in English?': Pak's bizarre counter of Indian military's Operation Sindoor anniversary presser | India News - Hindustan Times
-  'Who asked you to speak in English?': Pak's bizarre counter of Indian military's Operation
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNZnNpOVBQSGdJVnBjOE9zLWlWeFloYkhKcGlpV1MyVzQ2akoxbHhlTUMtaGNYa1VmckJ4bnlTbkFrTFE0UFNVMW84LWpoVjU5RHRrbWpFYXY3WThybDJtT2JZd21vX0RUSmNlV3NPQlpfMFNyb01uQlFoVGN3NFdUTFFTNEIzd3JkRjgwREZQTnBncmI5YWZFc3I5cy1nRlBrTHBwc0FSS1hBb1MyLXZXNEhjRHJNcTFPTUI1ZGNKcmxVdF9aR1RDMmtyejNoNzVpZmlpS2U3ZHJxM0lycVYxc1ZoVVB6ZXVJUmNDYjVTNDR0ZHd0WUtBRzVCZEJURy1zanNaRVZ30gGLAkFVX3lxTE16T1NJb0ZmaUFYdDljc2N3VldiX1dEVlgySGFxYzMxemtKS0pwTklBLWhhbjBvOFZBbU9JTXRpYl80UmNsbXFFRUdDYks1NS1QN2RibzMxNmlRMkh4U1Vpa0F6UXNqeTNxSlVuRmpsMjM2dDd4VXZKRHA3Q1ZFS1g4LU9xQjk1MjBLYmI0c21xTk5RNUNxZWJ6VGN2bFJfRnF1emtPTnV5NU03VjJZRGVmVXBoMHVlS1VkWnJSdVIwX1lBa1h6OXgzR0xaNmdmMDRpV2dTOExqTnBwb3I4VTVqSGlBWXBocUJaSWRZZVl4eGlnRVRUWDVwTnhIdXBZS0x0akFwaDN0aDVGWQ?oc=5
+- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
+  India's Odisha signs $
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
 
 - One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
   One year after India-Pakistan conflict, ceasefire holds
@@ -148,17 +168,57 @@
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- Tamil Nadu Government Formation LIVE: Cannot Tie-Up With Any “Communal Party": DMK Asks AIADMK To Dump BJP - NDTV
-  Tamil Nadu Government Formation LIVE: Cannot Tie-Up With Any “
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQdEh1OTg0djlMbFlDU1hsRHIxV3c5cVZ6aUNkT0R1WnUtYjd3MlJ3OUNyV0dtdS1SSUlMMi0xWXNwTHBNYVRZNkRjcFpOWmdKMnJodHpudlBqcHdZU1pwbXJrWXZfcms1eS1DaWpBNXVhNVJJeTc0TTlGZlpVUWZWcFQ2Qm1CNUVZU0ZUOEdXajk5dHkxOXQxQm8wVTBCbnB3ZXd3WlZQbDZQcFdlRGkwNEFKYk1MbmtzTDhVLUpaVVZiVDZlV252M0VpaUpKTHBRMWhDY1BHU18wcnY2MmtXSVJ6V193aUFIbl9PT0M1TWppaERaYnpFa3BDYVlnWFp1UEZiMkR1S2JWV0VnZUR1SlBicG9JNmQteUlZ0gGjAkFVX3lxTE96NWI2Z1YxTC1aWFZPQXBiN05aNnlXeG9QU1RocEp2M1l0clRELU1VTWhocnF3WDc3akZYeVc5c3E3eHNieFlLUEdQSWNrU3F1SUFHVTdCeU5fcWdVc1hvTExJVzZ4SHhtSDI0S0c0aGROLS1wNDJnTEFEZVhYWTdWcGJZUEhxT2kyVHVRMllGakZsTk96SmVteVFEQTBsVmdwOWtSWGF6aU5oZ3o4cmhoM3p6NDNZSG5tZTVOS1RmeDlVdEc3UGJ5RnBZajVKS2RmeW5LWGNHWTA5TnlpdFJVNml3bGJsQVhrZ1QxV0ZYTHFnSnVfUEF6YTVfX0tyZlh1UFlLSlU3TG55ejM2bVo5T0psZXozUDBuRGxOYUxSUXhUQQ?oc=5
+- China confirms its support to Pakistan during last year’s war with India - The Hindu
+  China confirms its support to Pakistan during last year's war
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
 
-- All eyes on Amit Shah as West Bengal waits for new CM and cabinet - The Times of India
-  The Times of India reports that Amit Shah is set to become West Bengal's
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzZmMXNUS0ZqelFnV3AzZVNDaWNqOGxMWHU4ZmJaOFA0R3d1YUxRNDFjWEszc295TDBGSEdmLUQtYm5RTFE3ZW1XRUI0MHdXZks4OXJ3YmU1N01PYWpFeHgzNTliLWhmbHhZVGN5NnNiVzk5R2V3RU1NaGVsQTF2NDJmdm1JdFAzSUVpU2FjYUNJNXRJenRrTnR4dGExajVGQVFsTU9ISjY5YWx6SkZkMkdzNWVFQV82dmxzb3dMQXRVTnZUS3h5ZW5oem5YZ9IB0wFBVV95cUxOUXBaT0VBdlFIdWZOOGxpOUJjTVh5cnprVGJlcHFPNFRsMXFaR3l0NFh1ZjUwU0pDajFBUlVLVENxcUI4Y2I3VHNaOENrNW1aYjdBSEo3WHE3VjBBZ0FUbG1EelVnb1hmWTVla2t4UDNHQi1UV0VUUEVlMVVrRTMxcHdlRkF3OElzSlpHU21ZaXZVTkhWRzRnUnVZQnNGcVFwUDVoSnU0dUlvN0tiYmc3Y0FJT0J0emVQcXNrbXJYVGRJTGpaUGtDVlZYNmc0b3V0czdF?oc=5
+- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
+  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
 
-- 'Who asked you to speak in English?': Pak's bizarre counter of Indian military's Operation Sindoor anniversary presser | India News - Hindustan Times
-  'Who asked you to speak in English?': Pak's bizarre counter of Indian military's Operation
-  🔗 https://news.google.com/rss/articles/CBMihgJBVV95cUxNZnNpOVBQSGdJVnBjOE9zLWlWeFloYkhKcGlpV1MyVzQ2akoxbHhlTUMtaGNYa1VmckJ4bnlTbkFrTFE0UFNVMW84LWpoVjU5RHRrbWpFYXY3WThybDJtT2JZd21vX0RUSmNlV3NPQlpfMFNyb01uQlFoVGN3NFdUTFFTNEIzd3JkRjgwREZQTnBncmI5YWZFc3I5cy1nRlBrTHBwc0FSS1hBb1MyLXZXNEhjRHJNcTFPTUI1ZGNKcmxVdF9aR1RDMmtyejNoNzVpZmlpS2U3ZHJxM0lycVYxc1ZoVVB6ZXVJUmNDYjVTNDR0ZHd0WUtBRzVCZEJURy1zanNaRVZ30gGLAkFVX3lxTE16T1NJb0ZmaUFYdDljc2N3VldiX1dEVlgySGFxYzMxemtKS0pwTklBLWhhbjBvOFZBbU9JTXRpYl80UmNsbXFFRUdDYks1NS1QN2RibzMxNmlRMkh4U1Vpa0F6UXNqeTNxSlVuRmpsMjM2dDd4VXZKRHA3Q1ZFS1g4LU9xQjk1MjBLYmI0c21xTk5RNUNxZWJ6VGN2bFJfRnF1emtPTnV5NU03VjJZRGVmVXBoMHVlS1VkWnJSdVIwX1lBa1h6OXgzR0xaNmdmMDRpV2dTOExqTnBwb3I4VTVqSGlBWXBocUJaSWRZZVl4eGlnRVRUWDVwTnhIdXBZS0x0akFwaDN0aDVGWQ?oc=5
+- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
+  India's Odisha signs $
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
+
+- One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
+  One year after India-Pakistan conflict, ceasefire holds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
+
+- Four killed in post-election violence in India’s West Bengal - Al Jazeera
+  Four killed in post-election violence in
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+
+- China confirms its support to Pakistan during last year’s war with India - The Hindu
+  China confirms its support to Pakistan during last year's war
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+
+- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
+  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
+
+- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
+  India's Odisha signs $
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
+
+- One year after India-Pakistan conflict, ceasefire holds - but little else does - BBC
+  One year after India-Pakistan conflict, ceasefire holds
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVEE4dXJieEN6T3BaeFR1TnN1N0xYSUFhZ0Y1ZE1Cd25iUmgwZVd1QWVpYS1QeFJ4eXdxMzB2ZEhFeklET1ZBTzQ4Q2M1M0tNclh1djlQWkJaQQ?oc=5
+
+- Four killed in post-election violence in India’s West Bengal - Al Jazeera
+  Four killed in post-election violence in
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+
+- China confirms its support to Pakistan during last year’s war with India - The Hindu
+  China confirms its support to Pakistan during last year's war
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+
+- Evening news wrap: Suvendu Adhikari to become West Bengal CM; TVK's Vijay gets majority in Tamil Nadu & m - The Times of India
+  Evening news wrap: Suvendu Adhikari to become West Bengal CM; TV
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNWm9EOEt6ZV9lNXdmTXRxallwOEVESFVyTU1rRl9UaWxlbWE2Tmc1WkpzSm90QkxCSlVpeUVFRmRpSndlT0k5akdUM2gyNzY4WWx1bTl5YWVwb3VmRDhYbWExOUFNZ0k4dXozcy1BNFZpbnhUMmtfaTlQeUlFUmRjWEk5dFBVdW1LWEJuSGU1SVU0ODFtUjdqdzJJb1pHYmV4Q2RDWjF5cTB6U2IyMFh1RGdCTXBqMWhVODhhejZzdmktVC1DaC1NMXg4V2wwY1FRdnZTY3BJVUxNeVpPYXhCeHhOLUtQSmRIOG9EM182OXR0M1pLU3BBX0VLR3BXUDlS0gGGAkFVX3lxTE9sQUtYM09Dd25DanB3R3BsWG1reDJodENPUGJIY2xOby14UXVjMjlCems1UkpQeVFsOTNXZlJnZkJoZ3dtbTRGS3VZS1lIdnVxc0szSFFqU1A1V1UySG41OS1SMkc1UU5qbmN6NThxUGtfY3RNUzZyM2xkaXZFbFdqLU42Z01LeU9OcDdVMkhIZnZGcW1WXzR0WE9jX3RxRXY3OWdQalRBNXNFZzdJT3pURTdKLVpESUNYLXlqZi1sZzV3VG5nVXk5OW96SEJ2RzdiOVkwTFVlcy1aX1o0S1ZYcERFUkllbWdLV3h5NnF4TnVTM3RRVXhFeEdjNmVick1uTXFPTnc?oc=5
+
+- India's Odisha signs $5.115-bn worth of investment proposals - Fibre2Fashion
+  India's Odisha signs $
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU1ONVItU1hpbUlkdTdzWUNYajd3NTY1WWstbkxqaVF4UkdNbUtteHV2NjZ6enV1R2R0NmJKcE1FWExXX1h6R1NzeTdrRnptLVVhQ1RHYmVZelVJOTZueFJCTEtkYTF2Sk1YSHp0SkZJR2lXSzdGNGpuZWkwbXlTS1JKaFNyazZ0SEg2Zm9ObkY3Zmk3ZVZNb2FIcVZReEtPZWYyS2RGVlVaU2Mwc1ZoMUJDYlR3MUJFX3hHX0p6N2c1eHZSMGxObjhB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-08 07:27:02 UTC_
+_Last updated: 2026-05-08 13:23:54 UTC_
