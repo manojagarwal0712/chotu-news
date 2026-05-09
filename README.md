@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- His office was bugged. A Collector’s solo operation revealed who did it
+- ‘Abducted’ amid attack on village near Myanmar border, Manipur woman freed 2 days later
   
-  🔗 https://indianexpress.com/article/india/damoh-collector-pratap-narayan-yadav-office-bugging-phone-trap-surveillance-breach-10680816/
+  🔗 https://indianexpress.com/article/india/manipur-border-violence-abducted-woman-released-10681308/
 
-- Who took oath with Suvendu Adhikari as Bengal ministers? Check full list
+- Maternal care crisis at Kota medical college: 2 more women develop kidney issues, moved to private hospital
   
-  🔗 https://indianexpress.com/article/india/suvendu-adhikari-cabinet-ministers-bengal-full-list-dilip-ghosh-agnimitra-10680582/
+  🔗 https://indianexpress.com/article/india/kota-hospital-kidney-complications-women-ventilator-support-10681145/
 
-- Action after death of 2 new mothers in Kota hospital: Doctor, 2 nurses suspended, HoD served showcause notice
+- Railway Board approves new stop for Howrah-Patna Vande Bharat train – Check details
   
-  🔗 https://indianexpress.com/article/india/kota-medical-college-hospital-maternal-deaths-c-section-complications-doctor-suspended-10680738/
+  🔗 https://indianexpress.com/article/india/railway-board-approves-new-stop-for-howrah-patna-vande-bharat-train-check-details-10680926/
 
-- Where personal lives spill onto the stage: Inside Superqueens, India’s first drag musical
+- Sharp visionary leader known for quick decision-making: Who is Lt Gen N S Raja Subramani, India’s next chief of defence staff
   
-  🔗 https://indianexpress.com/article/india/inside-superqueens-indias-first-drag-musical-10680674/
+  🔗 https://indianexpress.com/article/india/lt-gen-n-s-raja-subramani-next-chief-of-defence-staff-10681068/
 
-- West Bengal CM Suvendu Adhikari oath ceremony LIVE updates: Bengal’s first BJP government gets its Chief Minister and his council of 5 ministers
+- First time in 45 years: Rajasthan’s luxury train ‘Palace on Wheels’ to run in May
   
-  🔗 https://indianexpress.com/article/india/west-bengal-cm-oath-ceremony-live-updates-suvendu-adhikari-bjp-mamata-banerjee-10680480/
+  🔗 https://indianexpress.com/article/india/this-may-rajasthans-luxury-train-palace-on-wheels-will-run-for-first-time-in-45-years-10680619/
+
+- How 4 Indian directors used iPhone 17 Pro Max to create this year’s most talked-about shorts at MAMI
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-4-indian-directors-used-iphone-17-pro-max-to-create-this-years-most-talked-about-shorts-at-mami-10681389/
+
+- Cloudflare cuts 1,100 jobs despite record revenue, says AI made roles obsolete
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/cloudflare-cuts-1100-jobs-despite-record-revenue-says-ai-made-roles-obsolete-10681297/
+
+- These 10 human skills could survive the AI job takeover
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/these-human-skills-could-survive-the-ai-job-takeover-10681015/
 
 - Amazon Prime Video gets a vertical short-video feed inspired by TikTok and Netflix
   
@@ -27,18 +39,6 @@
 - Apple, Intel reach preliminary chip-making deal: Reports
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-intel-reach-preliminary-chip-making-deal-reports-10680556/
-
-- Can SpaceX and Blue Origin get their moon landers ready for Nasa’s 2028 Artemis mission?
-  
-  🔗 https://indianexpress.com/article/technology/science/can-spacex-and-blue-origin-get-their-moon-landers-ready-for-nasas-2028-artemis-mission-10680528/
-
-- AI for children should not bypass human validation: Vineet Nayar, Founder, Sampark Foundation
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/
-
-- Tech launches today (May 8, 2026): OnePlus Nord CE6 goes on sale, Samsung launches Mini LED TVs, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-8-2026-oneplus-nord-ce6-goes-on-sale-samsung-launches-mini-led-tvs-and-more-10679790/
 
 - Jupiter Wagons eyes global expansion with BESS, wagon exports
   Jupiter Wagons aims to double revenues by 2028-
@@ -60,6 +60,14 @@
   Biosimilars across markets have begun scaling up and will gather momentum through the year, particularly in the second half
   🔗 https://www.livemint.com/companies/biocon-growth-strategy-biosimilars-launches-profitability-margins-fy27-outlook-11778247774835.html
 
+- Dividend bonanza on Dalal Street! From MRF to SBI, these large-cap companies announce hefty payouts for FY26
+  Strong earnings and cash flows have led Indian companies to announce significant dividends for FY26. Notable payers include MRF Limited, Britannia, and SBI
+  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonanza-on-dalal-street-from-mrf-britannia-to-sbi-these-large-cap-companies-announce-hefty-payouts-for-fy26-11778319977620.html
+
+- Zerodha's Nithin Kamath warns investors against ULIPs, endowment traps; says people keep making the same money mistakes
+  Nithin Kamath critiques the continued popularity of ULIPs and endowment plans among Indian investors. He stresses the importance of financial literacy and ca
+  🔗 https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-warns-investors-against-ulips-endowment-traps-says-people-keep-making-the-same-money-mistakes-11778315036511.html
+
 - SBI vs PNB vs BoB: Which PSU bank stock to buy after Q4 results 2026?
    PSU banking stocks gained attention post Q4 FY26 earnings. Investors are now prioritizing asset quality and margin trends over earnings figures.
   🔗 https://www.livemint.com/market/stock-market-news/sbi-vs-pnb-vs-bob-which-psu-bank-stock-to-buy-after-q4-results-2026-11778311718110.html
@@ -72,181 +80,125 @@
   BSE Sensex and NSE Nifty ended lower on May 8 but closed the week with gains. The Nifty rose 1%, while broader markets outperformed, with Mid
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11778299181250.html
 
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 11 May 2026
-  Sumeet Bagadia from Choice Broking predicts bearish trends for Nifty and Bank Nifty. He recommends stocks Adani Ports,
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-11-may-2026-11778295765647.html
+- Birla Corporation Q4 results: Cons PAT jumps 14% despite marginal revenue uptick; Rs 12.50/share dividend announced
+  Birla Corporation witnessed a robust financial performance, with its March-ended quarter net profit soaring 15% year-on-year to Rs 295 crore. Revenue saw a modest 0.8% increase to Rs 2,836 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/birla-corporation-q4-results-cons-pat-jumps-14-despite-marginal-revenue-uptick-rs-12-50/share-dividend-announced/articleshow/130977031.cms
 
-- Three pharma stocks where FIIs raised stake in the March quarter
-   Pharma stocks have been attracting FIIs. Here are three stocks where FIIs
-  🔗 https://www.livemint.com/market/stock-market-news/indian-pharma-stocks-foreign-institutional-investors-increase-stake-11778238925708.html
+- Ignore market noise, India’s long-term story intact, say D-Street bulls Ramesh Damani and Sunil Singhania
+  Top investors Ramesh Damani and Sunil Singhania emphasize that India's fundamental growth drivers are strong. Sectors like defence, infrastructure, and energy offer opportunities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ignore-market-noise-indias-long-term-story-intact-say-d-street-bulls-ramesh-damani-and-sunil-singhania/articleshow/130976742.cms
 
-- Forget LCD and score a nice AMOLED smartwatch at discount during Amazon Sale 2026
-  Save up to 80% plus 10% HDFC bank discounts during Amazon’s Great Summer Sale 2026.
-  🔗 https://www.livemint.com/technology/gadgets/forget-lcd-and-score-a-nice-amoled-smartwatch-at-discount-during-amazon-sale-2026-11778227575640.html
+- Global gold ETF demand rebounds USD 6.6 billion in April; India extends inflow streak to 11 months: World Gold Council
+  India recorded positive flows of USD 297 million, marking its 11th consecutive month of inflows. Following notable outflows in March, global physically backed gold ETFs recorded inflows of USD 6.6 billion in April.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/global-gold-etf-demand-rebounds-usd-6-6-billion-in-april-india-extends-inflow-streak-to-11-months-world-gold-council/articleshow/130974858.cms
 
-- Nintendo sets Switch 2 price at $499.99, forecasts 16.5 million sales as outlook weakens for new console cycle
-  Nintendo has set Switch 2 US price at $499.99, up $50. Company expects to sell 16.5 million units by FY2027, down from 19.86 million previously.
-  🔗 https://www.livemint.com/technology/nintendo-sets-switch-2-price-at-499-99-forecasts-16-5-million-sales-as-outlook-weakens-for-new-console-cycle-11778228971072.html
+- F&amp;O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, Tejas and 4 more stocks
+  Indian stock markets experienced a significant downturn on Friday. Geopolitical tensions between the US and Iran, a weakening rupee, and widespread selling in financial stocks contributed
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-bulls-indecisive-but-opportunities-in-broader-markets-sudeep-shahs-strategy-on-voltas-tejas-and-4-more-stocks/articleshow/130974841.cms
 
-- From Apple Watch to Fitbit Air: Top smartwatches and fitness bands of 2026
-  The top wearable devices of 2026 feature health tracking, AI-backed wellness features, AMOLED displays and long battery life across price segments. From Apple and Samsung smartwatches
-  🔗 https://www.livemint.com/technology/gadgets/from-apple-watch-to-fitbit-air-top-smartwatches-and-fitness-bands-of-2026-11778221871838.html
+- FIIs sell over Rs 2 lakh crore worth of Indian equities in 2026. What lies ahead?
+  Foreign investors continue to sell Indian shares in 2026. They have offloaded equities worth over Rs 2 lakh crore this year. Domestic investors are buying, but markets are falling.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-2-lakh-crore-worth-of-indian-equities-in-2026-what-lies-ahead/articleshow/130974794.cms
 
-- Digital access, cyber security challenges in DPI ecosystem: Nageswaran
-  . DPI
-  🔗 https://www.livemint.com/technology/digital-access-cyber-security-challenges-in-dpi-ecosystem-nageswaran-11778226736781.html
-
-- Amazon reports cloud outage at North Virginia data centre; CME, Coinbase face trading issues
-  AWS said its issue stemmed from increased
-  🔗 https://www.livemint.com/technology/amazon-reports-cloud-outage-at-north-virginia-data-centre-cme-coinbase-face-trading-issues-11778220552164.html
-
-- Markets are banking on the ‘Bliss trade’ - Financial Times
-  Markets are banking on the
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUkwejh5anliM3pPNE1hZzFzM3ZNTkxBZGdweDdwcmtNdE1ab2lma296UG5OSENmdTN4c1FsMGVVN1VzcHFDSVFqcnFneEdvcnA5V3FaUlRBSFNtSnpxQ1JoR2FoV3lLd1hwZVQ2MDk?oc=5
-
-- Seven markets to track if peace breaks out in the Middle East - Reuters
-  Seven markets to track if peace breaks out in the
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQejhMNzlOZXh6MFZiS0ZSSk1QbXVFTTNrQUpJaWNHRnNkZlhBNlNTMzgzSHlRckVVd2JlSENESGRUbjJmbFd1RkQ5b2pBVC1yTERrdWVxQkZvYXlKWmZRMUxTd3JtdGFuMnpuVGZDdjNKRHpFTHE0Qlg2dU16V050WHJPWFg1Q3M2Y3JSUlB3RU9uY3FicllpME1XRQ?oc=5
-
-- Vijay Kedia Portfolio Check: 10 stocks surge up to 44% — plus 5 fresh picks - The Economic Times
-  Vijay Kedia Portfolio Check: 10 stocks surge up to 44
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVXhPQ3BFc1JMUUhYYzFMdEJsNFdWZE0taW02YUFIUFd1TVNkMTNwc3FJVDg2NThmM3NrVV81aUJFNkUwUExoQVJ4WXRTcVZCMi03ZDFJUFFlaE51NThlUGJPcS1mVDBMaktzcXFpY21WLWNIRDFLZ3NGSm5aTkFWYTJfdGRncEZyQW5CbURfb1VDSmwzZU9fbFRldXdmSDhqczFRTXNXOFFlaFB1ODN0MUpISFpyWldWSGI1dnVvQlc0enZNZk1YZ2tQS1c1Y0VNQjlfbFJxSzBfX2QtSzc0TTBDWGdKQ2FfZDEtRFNMQjg?oc=5
-
-- Electronic Gold Receipts explained - Finshots
-  
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQnJQdlpGMEJGUHhLWGZ0aUZacTNZRk9vb2RVN3lsd1JQTjNpX29lQmk4Mkt4UHo1MGJzSmRqUkZRSGhkLWU1dnhhT3B1d1VTd0M3Q25Ydlh4MDVXOVRtUVJ5QThOa1d2U0Nxbjcwb0c?oc=5
-
-- Markets News, May 7, 2026: Stocks End Lower, Oil Prices Rise; S&P 500, Nasdaq Retreat From Records - Investopedia
-  Markets News, May 7, 2026: Stocks End Lower,
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzI4TDBrTHVoand4YzRSQkJDSWExbW44X3BMbzJjZ1oySHFjMm9GRHIwUWxyaDZUSklDcjViQkxfdnBKblQ3eXQtbUFBOVlsem1jXzhPR1FEc0ZsaU5IUjQ4ZEs2RzNXckl3Z0txYmdnWmZtRktSVXdfUUxGUmk2UHN3N2RxeV80c0t6S3lMeHg?oc=5
-
-- Zerodha’s Nithin Kamath flags ULIP, endowment traps; says health policies remain complex
-  Nithin Kamath highlights persistent personal finance blunders by Indians. He notes a lack of innovation in these financial missteps. Kamath argues these bundled products are easier to scrutinize.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nithin-kamath-flags-ulip-endowment-traps-says-health-policies-remain-complex/articleshow/130972937.cms
-
-- Bitcoin holds near $80,000 after rejection at $82,500; ETF outflows trigger cautious sentiment
-  Bitcoin hovers near the $80,000 mark. Experts note cautious sentiment following outflows from US-listed spot Bitcoin ETFs. Major altcoins like XRP, BNB, and Solana saw
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-80000-after-rejection-at-82500-etf-outflows-trigger-cautious-sentiment/articleshow/130972440.cms
-
-- 2,00,000% rally! 10 penny stocks that graduated into mid and smallcaps multibaggers
-  Penny stocks are often seen as the riskiest corner of the market. Penny
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/200000-rally-10-penny-stocks-that-graduated-into-mid-and-smallcaps-multibaggers/slideshow/130972119.cms
-
-- $100 crude &amp; 95 rupee: Why Arvind Kothari is still buying these 5 emerging themes despite the war
-  Despite economic headwinds, Niveshaay's Arvind Kothari sees opportunity in market dips. He believes these sectors possess "war-proof" structural moats. Investors should brace for second-
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/100-crude-95-rupee-why-arvind-kothari-is-still-buying-these-5-emerging-themes-despite-the-war/articleshow/130971715.cms
-
-- Explained! Sebi proposes sweeping changes to buyback framework. 7 things to know
-  India's securities regulator, SEBI, is proposing major shifts in company share buybacks. Open market buybacks are set to return, and the mandatory involvement of merchant bankers may be reduced. Safeguards for promoter shareholding and minimum
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-sebi-proposes-sweeping-changes-to-buyback-framework-7-things-to-know/articleshow/130971660.cms
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
   OpenAI, Anthropic are starting service companies, it is good
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Breaking news live updates, May 9: Indian-American man faces denaturalization proceedings in US - The Times of India
+  Indian-American man faces denaturalization proceedings in U.S.
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPZFpMUWpHbEphSzN4WlE4WHVjU0tDb1lOTWhHWExwaC1jNHpSeHpHLWo3M1Rvc0ZrcWpuUFBhTEpHZlJWSFExNGlqOEZZdEVUbDBnblE5QkkzVmFfU1NIRjlQV3NfNDRBa2k5azZZZUFNa1NZb0NUQ1R2UzQyNkdwWXdxcmw2WVlXbTlDQ3JpZV9FSlBEdUxwRHY1NWUzd9IBowFBVV95cUxQWjRVYV83V1VTTGtscVVPa2wyMGRKbXE1ZzVacFlZcWxRcjNNcDJEMVdTUDhIQmFNclJFTUd4X2t0MW5RcHNWaTNZcHJhOW15MWFCclhGS2V4Q0NYSHRaWE5iU2ZBaUpMQ1Q1VEMwQTVwWjRGX0RHMVJFU1ptRnoyT2cyV0VEY2FzOFRabVpnUUJQN0VwMFNhS1dsZ19RdDFjVlpR?oc=5
 
-- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
-  Mamata Banerjee has finally conceded to
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
+- Evening news wrap: VCK, IUML back Vijay’s TVK government formation; India successfully tests Advanced Agn - The Times of India
+  The Times of India reports that India successfully tests Advanced Agn.
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1ZCZmZPMEs1bDVrWHRwMUJGMkxhMW95YjUzeTNpYTNfY2huajlWZ2MwSmFvQ1N1YkRjRUhTaE53aUlHNXh5cHFDcXRmejFORng4SFpiem10aDRwMkNacDdjMjU2U0lMV1RRZ1I5TXNwTUxETmxCZWJJZHdYSXNUdlFqOW54RkprellCYWdudUNBQTJBeHFWcWdqMldvOUlHcUJYMnduRWVOQWZzaG15VVRCa2QtSUZpTmpjNmZoUk9hSVBTZXVvNEIxNk1jSGk5QlZnNzRobTl6THFXTi1VYnpoUzYwbmVpZmZCQU5HQkdVcGQ3bXdCRGpsa1ZEZ1BZY21xSVV3TlhtaXdJTTZaMERfMVVHN09EVTNNazBaSHpoVnhTMFRPOUxjMk1ZWWpEUFHSAbcCQVVfeXFMTk9NbzVoVUFXN2dlRkhlUGR5Vnp4TTc4OEw0YU94eVZiMUxiOVdXb1RCNUlVMlJpSkJzNk15QVJwRmpzMXVXZHJEV05PVEI3Y1V4NUZrZFhvcExoX0dJVHZPVUQ4WTRCdGNHdVVOTFRyelJYYTBERlAzYmViR0lOTDJncERZMEhPVm1IQ2dBQjlna3FjU05wcmlxcGYtdTdUdkV5VW1RQ0lDd3N4bDFhd1V1WUM0VFZzYlNaeS1hRmNfdHE2NnRpT2tlWjN4aFNjWEZrcVZZdDBOb2VnS21Zam11czdEOU4zV3VSM1BQM1NHMW1nLWloQ1dQendoeVRWNDRwOUtHelFCMlRiSzdKY1FURG1HTm9LODc4cXQ2dVoyNloxRG44Z2RUNDZpTWxjMzdCM2c4T1U?oc=5
 
-- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
-  Agnimitra Paul will be West Bengal's first female chief minister
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
+- How ADAS sensors and automotive electronics are changing Indian mobility - The Times of India
+  How ADAS sensors and automotive electronics are changing Indian mobility
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhiVlEzZTNINFZnTVFhQXp1UDAzSUJPSjZBcU4ya3pMOVpIejVxMnkxUXh4bUtXNnh0RXJtZWw1N3NiX2hNdkRFalNqNExtWXBURXVjektPdDcwTXhvTFBTR0NjX2pSMVltRUJmeHZCZTFqMzZsUnFmTllZa01MODA5WjVFUFFxTHhoaHdmSmQ4eFFNNTJnMzRsMUR1eGp4YzlVVmlGbTNaTVJaRjFOWHpzUGxRcW10VGI1enNvV3lWamY5VWZhYW44bHJfXzRWM29CWlFmU19zcWdq0gHiAUFVX3lxTE54NDJCMWV1bmo1azhHb3dvYlVLb0tMdVNCRHR3anNQSFQxbWtiN2xybVNDODdrSVNDQ3ZYeERIWm56TlBsckdaQldOZmRkb01NdTBzSFQ1YzFyTm03VGZ5SDBwMjVNYzNmaWE5NGFKYnNjZ2NaTUhQd2d3V3FPN2lQU2cwR3haQ1ViZWtNSVJmYU9BSE5qRkJoTG1vcGdVRThNb1BFMXRQeHNGX21OeGJXbXRZVklHU2Z5d0tOQmdzWExnay1HR3BRRHliUXVfSHE0dURlY2xMR2VtTmlwaTltVWc?oc=5
 
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
-
-- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
-  OpenAI, Anthropic are starting service companies, it is good
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
-  Mamata Banerjee has finally conceded to
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
-
-- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
-  Agnimitra Paul will be West Bengal's first female chief minister
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
-
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
   OpenAI, Anthropic are starting service companies, it is good
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Breaking news live updates, May 9: Indian-American man faces denaturalization proceedings in US - The Times of India
+  Indian-American man faces denaturalization proceedings in U.S.
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPZFpMUWpHbEphSzN4WlE4WHVjU0tDb1lOTWhHWExwaC1jNHpSeHpHLWo3M1Rvc0ZrcWpuUFBhTEpHZlJWSFExNGlqOEZZdEVUbDBnblE5QkkzVmFfU1NIRjlQV3NfNDRBa2k5azZZZUFNa1NZb0NUQ1R2UzQyNkdwWXdxcmw2WVlXbTlDQ3JpZV9FSlBEdUxwRHY1NWUzd9IBowFBVV95cUxQWjRVYV83V1VTTGtscVVPa2wyMGRKbXE1ZzVacFlZcWxRcjNNcDJEMVdTUDhIQmFNclJFTUd4X2t0MW5RcHNWaTNZcHJhOW15MWFCclhGS2V4Q0NYSHRaWE5iU2ZBaUpMQ1Q1VEMwQTVwWjRGX0RHMVJFU1ptRnoyT2cyV0VEY2FzOFRabVpnUUJQN0VwMFNhS1dsZ19RdDFjVlpR?oc=5
 
-- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
-  Mamata Banerjee has finally conceded to
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
+- Evening news wrap: VCK, IUML back Vijay’s TVK government formation; India successfully tests Advanced Agn - The Times of India
+  The Times of India reports that India successfully tests Advanced Agn.
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1ZCZmZPMEs1bDVrWHRwMUJGMkxhMW95YjUzeTNpYTNfY2huajlWZ2MwSmFvQ1N1YkRjRUhTaE53aUlHNXh5cHFDcXRmejFORng4SFpiem10aDRwMkNacDdjMjU2U0lMV1RRZ1I5TXNwTUxETmxCZWJJZHdYSXNUdlFqOW54RkprellCYWdudUNBQTJBeHFWcWdqMldvOUlHcUJYMnduRWVOQWZzaG15VVRCa2QtSUZpTmpjNmZoUk9hSVBTZXVvNEIxNk1jSGk5QlZnNzRobTl6THFXTi1VYnpoUzYwbmVpZmZCQU5HQkdVcGQ3bXdCRGpsa1ZEZ1BZY21xSVV3TlhtaXdJTTZaMERfMVVHN09EVTNNazBaSHpoVnhTMFRPOUxjMk1ZWWpEUFHSAbcCQVVfeXFMTk9NbzVoVUFXN2dlRkhlUGR5Vnp4TTc4OEw0YU94eVZiMUxiOVdXb1RCNUlVMlJpSkJzNk15QVJwRmpzMXVXZHJEV05PVEI3Y1V4NUZrZFhvcExoX0dJVHZPVUQ4WTRCdGNHdVVOTFRyelJYYTBERlAzYmViR0lOTDJncERZMEhPVm1IQ2dBQjlna3FjU05wcmlxcGYtdTdUdkV5VW1RQ0lDd3N4bDFhd1V1WUM0VFZzYlNaeS1hRmNfdHE2NnRpT2tlWjN4aFNjWEZrcVZZdDBOb2VnS21Zam11czdEOU4zV3VSM1BQM1NHMW1nLWloQ1dQendoeVRWNDRwOUtHelFCMlRiSzdKY1FURG1HTm9LODc4cXQ2dVoyNloxRG44Z2RUNDZpTWxjMzdCM2c4T1U?oc=5
 
-- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
-  Agnimitra Paul will be West Bengal's first female chief minister
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
+- How ADAS sensors and automotive electronics are changing Indian mobility - The Times of India
+  How ADAS sensors and automotive electronics are changing Indian mobility
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhiVlEzZTNINFZnTVFhQXp1UDAzSUJPSjZBcU4ya3pMOVpIejVxMnkxUXh4bUtXNnh0RXJtZWw1N3NiX2hNdkRFalNqNExtWXBURXVjektPdDcwTXhvTFBTR0NjX2pSMVltRUJmeHZCZTFqMzZsUnFmTllZa01MODA5WjVFUFFxTHhoaHdmSmQ4eFFNNTJnMzRsMUR1eGp4YzlVVmlGbTNaTVJaRjFOWHpzUGxRcW10VGI1enNvV3lWamY5VWZhYW44bHJfXzRWM29CWlFmU19zcWdq0gHiAUFVX3lxTE54NDJCMWV1bmo1azhHb3dvYlVLb0tMdVNCRHR3anNQSFQxbWtiN2xybVNDODdrSVNDQ3ZYeERIWm56TlBsckdaQldOZmRkb01NdTBzSFQ1YzFyTm03VGZ5SDBwMjVNYzNmaWE5NGFKYnNjZ2NaTUhQd2d3V3FPN2lQU2cwR3haQ1ViZWtNSVJmYU9BSE5qRkJoTG1vcGdVRThNb1BFMXRQeHNGX21OeGJXbXRZVklHU2Z5d0tOQmdzWExnay1HR3BRRHliUXVfSHE0dURlY2xMR2VtTmlwaTltVWc?oc=5
 
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
 - OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
   OpenAI, Anthropic are starting service companies, it is good
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
+- Breaking news live updates, May 9: Indian-American man faces denaturalization proceedings in US - The Times of India
+  Indian-American man faces denaturalization proceedings in U.S.
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPZFpMUWpHbEphSzN4WlE4WHVjU0tDb1lOTWhHWExwaC1jNHpSeHpHLWo3M1Rvc0ZrcWpuUFBhTEpHZlJWSFExNGlqOEZZdEVUbDBnblE5QkkzVmFfU1NIRjlQV3NfNDRBa2k5azZZZUFNa1NZb0NUQ1R2UzQyNkdwWXdxcmw2WVlXbTlDQ3JpZV9FSlBEdUxwRHY1NWUzd9IBowFBVV95cUxQWjRVYV83V1VTTGtscVVPa2wyMGRKbXE1ZzVacFlZcWxRcjNNcDJEMVdTUDhIQmFNclJFTUd4X2t0MW5RcHNWaTNZcHJhOW15MWFCclhGS2V4Q0NYSHRaWE5iU2ZBaUpMQ1Q1VEMwQTVwWjRGX0RHMVJFU1ptRnoyT2cyV0VEY2FzOFRabVpnUUJQN0VwMFNhS1dsZ19RdDFjVlpR?oc=5
 
-- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
-  Mamata Banerjee has finally conceded to
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
+- Evening news wrap: VCK, IUML back Vijay’s TVK government formation; India successfully tests Advanced Agn - The Times of India
+  The Times of India reports that India successfully tests Advanced Agn.
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1ZCZmZPMEs1bDVrWHRwMUJGMkxhMW95YjUzeTNpYTNfY2huajlWZ2MwSmFvQ1N1YkRjRUhTaE53aUlHNXh5cHFDcXRmejFORng4SFpiem10aDRwMkNacDdjMjU2U0lMV1RRZ1I5TXNwTUxETmxCZWJJZHdYSXNUdlFqOW54RkprellCYWdudUNBQTJBeHFWcWdqMldvOUlHcUJYMnduRWVOQWZzaG15VVRCa2QtSUZpTmpjNmZoUk9hSVBTZXVvNEIxNk1jSGk5QlZnNzRobTl6THFXTi1VYnpoUzYwbmVpZmZCQU5HQkdVcGQ3bXdCRGpsa1ZEZ1BZY21xSVV3TlhtaXdJTTZaMERfMVVHN09EVTNNazBaSHpoVnhTMFRPOUxjMk1ZWWpEUFHSAbcCQVVfeXFMTk9NbzVoVUFXN2dlRkhlUGR5Vnp4TTc4OEw0YU94eVZiMUxiOVdXb1RCNUlVMlJpSkJzNk15QVJwRmpzMXVXZHJEV05PVEI3Y1V4NUZrZFhvcExoX0dJVHZPVUQ4WTRCdGNHdVVOTFRyelJYYTBERlAzYmViR0lOTDJncERZMEhPVm1IQ2dBQjlna3FjU05wcmlxcGYtdTdUdkV5VW1RQ0lDd3N4bDFhd1V1WUM0VFZzYlNaeS1hRmNfdHE2NnRpT2tlWjN4aFNjWEZrcVZZdDBOb2VnS21Zam11czdEOU4zV3VSM1BQM1NHMW1nLWloQ1dQendoeVRWNDRwOUtHelFCMlRiSzdKY1FURG1HTm9LODc4cXQ2dVoyNloxRG44Z2RUNDZpTWxjMzdCM2c4T1U?oc=5
 
-- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
-  Agnimitra Paul will be West Bengal's first female chief minister
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
+- How ADAS sensors and automotive electronics are changing Indian mobility - The Times of India
+  How ADAS sensors and automotive electronics are changing Indian mobility
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhiVlEzZTNINFZnTVFhQXp1UDAzSUJPSjZBcU4ya3pMOVpIejVxMnkxUXh4bUtXNnh0RXJtZWw1N3NiX2hNdkRFalNqNExtWXBURXVjektPdDcwTXhvTFBTR0NjX2pSMVltRUJmeHZCZTFqMzZsUnFmTllZa01MODA5WjVFUFFxTHhoaHdmSmQ4eFFNNTJnMzRsMUR1eGp4YzlVVmlGbTNaTVJaRjFOWHpzUGxRcW10VGI1enNvV3lWamY5VWZhYW44bHJfXzRWM29CWlFmU19zcWdq0gHiAUFVX3lxTE54NDJCMWV1bmo1azhHb3dvYlVLb0tMdVNCRHR3anNQSFQxbWtiN2xybVNDODdrSVNDQ3ZYeERIWm56TlBsckdaQldOZmRkb01NdTBzSFQ1YzFyTm03VGZ5SDBwMjVNYzNmaWE5NGFKYnNjZ2NaTUhQd2d3V3FPN2lQU2cwR3haQ1ViZWtNSVJmYU9BSE5qRkJoTG1vcGdVRThNb1BFMXRQeHNGX21OeGJXbXRZVklHU2Z5d0tOQmdzWExnay1HR3BRRHliUXVfSHE0dURlY2xMR2VtTmlwaTltVWc?oc=5
 
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Breaking news live updates, May 9: Indian-American man faces denaturalization proceedings in US - The Times of India
+  Indian-American man faces denaturalization proceedings in U.S.
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPZFpMUWpHbEphSzN4WlE4WHVjU0tDb1lOTWhHWExwaC1jNHpSeHpHLWo3M1Rvc0ZrcWpuUFBhTEpHZlJWSFExNGlqOEZZdEVUbDBnblE5QkkzVmFfU1NIRjlQV3NfNDRBa2k5azZZZUFNa1NZb0NUQ1R2UzQyNkdwWXdxcmw2WVlXbTlDQ3JpZV9FSlBEdUxwRHY1NWUzd9IBowFBVV95cUxQWjRVYV83V1VTTGtscVVPa2wyMGRKbXE1ZzVacFlZcWxRcjNNcDJEMVdTUDhIQmFNclJFTUd4X2t0MW5RcHNWaTNZcHJhOW15MWFCclhGS2V4Q0NYSHRaWE5iU2ZBaUpMQ1Q1VEMwQTVwWjRGX0RHMVJFU1ptRnoyT2cyV0VEY2FzOFRabVpnUUJQN0VwMFNhS1dsZ19RdDFjVlpR?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Evening news wrap: VCK, IUML back Vijay’s TVK government formation; India successfully tests Advanced Agn - The Times of India
+  The Times of India reports that India successfully tests Advanced Agn.
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1ZCZmZPMEs1bDVrWHRwMUJGMkxhMW95YjUzeTNpYTNfY2huajlWZ2MwSmFvQ1N1YkRjRUhTaE53aUlHNXh5cHFDcXRmejFORng4SFpiem10aDRwMkNacDdjMjU2U0lMV1RRZ1I5TXNwTUxETmxCZWJJZHdYSXNUdlFqOW54RkprellCYWdudUNBQTJBeHFWcWdqMldvOUlHcUJYMnduRWVOQWZzaG15VVRCa2QtSUZpTmpjNmZoUk9hSVBTZXVvNEIxNk1jSGk5QlZnNzRobTl6THFXTi1VYnpoUzYwbmVpZmZCQU5HQkdVcGQ3bXdCRGpsa1ZEZ1BZY21xSVV3TlhtaXdJTTZaMERfMVVHN09EVTNNazBaSHpoVnhTMFRPOUxjMk1ZWWpEUFHSAbcCQVVfeXFMTk9NbzVoVUFXN2dlRkhlUGR5Vnp4TTc4OEw0YU94eVZiMUxiOVdXb1RCNUlVMlJpSkJzNk15QVJwRmpzMXVXZHJEV05PVEI3Y1V4NUZrZFhvcExoX0dJVHZPVUQ4WTRCdGNHdVVOTFRyelJYYTBERlAzYmViR0lOTDJncERZMEhPVm1IQ2dBQjlna3FjU05wcmlxcGYtdTdUdkV5VW1RQ0lDd3N4bDFhd1V1WUM0VFZzYlNaeS1hRmNfdHE2NnRpT2tlWjN4aFNjWEZrcVZZdDBOb2VnS21Zam11czdEOU4zV3VSM1BQM1NHMW1nLWloQ1dQendoeVRWNDRwOUtHelFCMlRiSzdKY1FURG1HTm9LODc4cXQ2dVoyNloxRG44Z2RUNDZpTWxjMzdCM2c4T1U?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- How ADAS sensors and automotive electronics are changing Indian mobility - The Times of India
+  How ADAS sensors and automotive electronics are changing Indian mobility
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhiVlEzZTNINFZnTVFhQXp1UDAzSUJPSjZBcU4ya3pMOVpIejVxMnkxUXh4bUtXNnh0RXJtZWw1N3NiX2hNdkRFalNqNExtWXBURXVjektPdDcwTXhvTFBTR0NjX2pSMVltRUJmeHZCZTFqMzZsUnFmTllZa01MODA5WjVFUFFxTHhoaHdmSmQ4eFFNNTJnMzRsMUR1eGp4YzlVVmlGbTNaTVJaRjFOWHpzUGxRcW10VGI1enNvV3lWamY5VWZhYW44bHJfXzRWM29CWlFmU19zcWdq0gHiAUFVX3lxTE54NDJCMWV1bmo1azhHb3dvYlVLb0tMdVNCRHR3anNQSFQxbWtiN2xybVNDODdrSVNDQ3ZYeERIWm56TlBsckdaQldOZmRkb01NdTBzSFQ1YzFyTm03VGZ5SDBwMjVNYzNmaWE5NGFKYnNjZ2NaTUhQd2d3V3FPN2lQU2cwR3haQ1ViZWtNSVJmYU9BSE5qRkJoTG1vcGdVRThNb1BFMXRQeHNGX21OeGJXbXRZVklHU2Z5d0tOQmdzWExnay1HR3BRRHliUXVfSHE0dURlY2xMR2VtTmlwaTltVWc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
+  China Admits It Sent Experts To Pakistani Air B
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Breaking news live updates, May 9: Indian-American man faces denaturalization proceedings in US - The Times of India
+  Indian-American man faces denaturalization proceedings in U.S.
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPZFpMUWpHbEphSzN4WlE4WHVjU0tDb1lOTWhHWExwaC1jNHpSeHpHLWo3M1Rvc0ZrcWpuUFBhTEpHZlJWSFExNGlqOEZZdEVUbDBnblE5QkkzVmFfU1NIRjlQV3NfNDRBa2k5azZZZUFNa1NZb0NUQ1R2UzQyNkdwWXdxcmw2WVlXbTlDQ3JpZV9FSlBEdUxwRHY1NWUzd9IBowFBVV95cUxQWjRVYV83V1VTTGtscVVPa2wyMGRKbXE1ZzVacFlZcWxRcjNNcDJEMVdTUDhIQmFNclJFTUd4X2t0MW5RcHNWaTNZcHJhOW15MWFCclhGS2V4Q0NYSHRaWE5iU2ZBaUpMQ1Q1VEMwQTVwWjRGX0RHMVJFU1ptRnoyT2cyV0VEY2FzOFRabVpnUUJQN0VwMFNhS1dsZ19RdDFjVlpR?oc=5
+
+- Evening news wrap: VCK, IUML back Vijay’s TVK government formation; India successfully tests Advanced Agn - The Times of India
+  The Times of India reports that India successfully tests Advanced Agn.
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1ZCZmZPMEs1bDVrWHRwMUJGMkxhMW95YjUzeTNpYTNfY2huajlWZ2MwSmFvQ1N1YkRjRUhTaE53aUlHNXh5cHFDcXRmejFORng4SFpiem10aDRwMkNacDdjMjU2U0lMV1RRZ1I5TXNwTUxETmxCZWJJZHdYSXNUdlFqOW54RkprellCYWdudUNBQTJBeHFWcWdqMldvOUlHcUJYMnduRWVOQWZzaG15VVRCa2QtSUZpTmpjNmZoUk9hSVBTZXVvNEIxNk1jSGk5QlZnNzRobTl6THFXTi1VYnpoUzYwbmVpZmZCQU5HQkdVcGQ3bXdCRGpsa1ZEZ1BZY21xSVV3TlhtaXdJTTZaMERfMVVHN09EVTNNazBaSHpoVnhTMFRPOUxjMk1ZWWpEUFHSAbcCQVVfeXFMTk9NbzVoVUFXN2dlRkhlUGR5Vnp4TTc4OEw0YU94eVZiMUxiOVdXb1RCNUlVMlJpSkJzNk15QVJwRmpzMXVXZHJEV05PVEI3Y1V4NUZrZFhvcExoX0dJVHZPVUQ4WTRCdGNHdVVOTFRyelJYYTBERlAzYmViR0lOTDJncERZMEhPVm1IQ2dBQjlna3FjU05wcmlxcGYtdTdUdkV5VW1RQ0lDd3N4bDFhd1V1WUM0VFZzYlNaeS1hRmNfdHE2NnRpT2tlWjN4aFNjWEZrcVZZdDBOb2VnS21Zam11czdEOU4zV3VSM1BQM1NHMW1nLWloQ1dQendoeVRWNDRwOUtHelFCMlRiSzdKY1FURG1HTm9LODc4cXQ2dVoyNloxRG44Z2RUNDZpTWxjMzdCM2c4T1U?oc=5
+
+- How ADAS sensors and automotive electronics are changing Indian mobility - The Times of India
+  How ADAS sensors and automotive electronics are changing Indian mobility
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTkhiVlEzZTNINFZnTVFhQXp1UDAzSUJPSjZBcU4ya3pMOVpIejVxMnkxUXh4bUtXNnh0RXJtZWw1N3NiX2hNdkRFalNqNExtWXBURXVjektPdDcwTXhvTFBTR0NjX2pSMVltRUJmeHZCZTFqMzZsUnFmTllZa01MODA5WjVFUFFxTHhoaHdmSmQ4eFFNNTJnMzRsMUR1eGp4YzlVVmlGbTNaTVJaRjFOWHpzUGxRcW10VGI1enNvV3lWamY5VWZhYW44bHJfXzRWM29CWlFmU19zcWdq0gHiAUFVX3lxTE54NDJCMWV1bmo1azhHb3dvYlVLb0tMdVNCRHR3anNQSFQxbWtiN2xybVNDODdrSVNDQ3ZYeERIWm56TlBsckdaQldOZmRkb01NdTBzSFQ1YzFyTm03VGZ5SDBwMjVNYzNmaWE5NGFKYnNjZ2NaTUhQd2d3V3FPN2lQU2cwR3haQ1ViZWtNSVJmYU9BSE5qRkJoTG1vcGdVRThNb1BFMXRQeHNGX21OeGJXbXRZVklHU2Z5d0tOQmdzWExnay1HR3BRRHliUXVfSHE0dURlY2xMR2VtTmlwaTltVWc?oc=5
 
 
-_Last updated: 2026-05-09 07:52:17 UTC_
+_Last updated: 2026-05-09 13:08:38 UTC_
