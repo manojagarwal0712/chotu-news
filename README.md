@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- India’s new Chief of Defence Staff appointed: Lt Gen N S Raja Subramani to take over from Gen Anil Chauhan
+- His office was bugged. A Collector’s solo operation revealed who did it
   
-  🔗 https://indianexpress.com/article/india/india-new-chief-of-defence-staff-raja-subramani-anil-chauhan-10680405/
+  🔗 https://indianexpress.com/article/india/damoh-collector-pratap-narayan-yadav-office-bugging-phone-trap-surveillance-breach-10680816/
 
-- Split imminent in National Conference? Omar hits out over J&K Deputy CM’s remarks
+- Who took oath with Suvendu Adhikari as Bengal ministers? Check full list
   
-  🔗 https://indianexpress.com/article/india/split-imminent-in-national-conference-omar-hits-out-over-jk-deputy-cms-remarks-10680264/
+  🔗 https://indianexpress.com/article/india/suvendu-adhikari-cabinet-ministers-bengal-full-list-dilip-ghosh-agnimitra-10680582/
 
-- ‘Floral’ tribute to TP Singh: Hybrid rose ‘Tribhuvan’ named after first plan panel secretary
+- Action after death of 2 new mothers in Kota hospital: Doctor, 2 nurses suspended, HoD served showcause notice
   
-  🔗 https://indianexpress.com/article/india/floral-tribute-to-tp-singh-hybrid-rose-tribhuvan-named-after-first-plan-panel-secretary-10680335/
+  🔗 https://indianexpress.com/article/india/kota-medical-college-hospital-maternal-deaths-c-section-complications-doctor-suspended-10680738/
 
-- China confirms on-site support to Pakistan during Operation Sindoor: Reports
+- Where personal lives spill onto the stage: Inside Superqueens, India’s first drag musical
   
-  🔗 https://indianexpress.com/article/india/china-confirms-on-site-support-to-pakistan-during-operation-sindoor-reports-10680334/
+  🔗 https://indianexpress.com/article/india/inside-superqueens-indias-first-drag-musical-10680674/
 
-- Himachal board recalls book after faulty translation of districts’ names
+- West Bengal CM Suvendu Adhikari oath ceremony LIVE updates: Bengal’s first BJP government gets its Chief Minister and his council of 5 ministers
   
-  🔗 https://indianexpress.com/article/india/himachal-board-recalls-book-after-faulty-translation-of-districts-names-10680360/
+  🔗 https://indianexpress.com/article/india/west-bengal-cm-oath-ceremony-live-updates-suvendu-adhikari-bjp-mamata-banerjee-10680480/
+
+- Amazon Prime Video gets a vertical short-video feed inspired by TikTok and Netflix
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-prime-video-gets-a-vertical-short-video-feed-inspired-by-tiktok-and-netflix-10680787/
+
+- Apple, Intel reach preliminary chip-making deal: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-intel-reach-preliminary-chip-making-deal-reports-10680556/
+
+- Can SpaceX and Blue Origin get their moon landers ready for Nasa’s 2028 Artemis mission?
+  
+  🔗 https://indianexpress.com/article/technology/science/can-spacex-and-blue-origin-get-their-moon-landers-ready-for-nasas-2028-artemis-mission-10680528/
+
+- AI for children should not bypass human validation: Vineet Nayar, Founder, Sampark Foundation
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/
 
 - Tech launches today (May 8, 2026): OnePlus Nord CE6 goes on sale, Samsung launches Mini LED TVs, and more
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-8-2026-oneplus-nord-ce6-goes-on-sale-samsung-launches-mini-led-tvs-and-more-10679790/
 
-- Sony, Nintendo grapple with memory price surge as AI boom constrains supply
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-10679696/
-
-- Mother’s Day 2026 gift guide: 11 gadgets for the moms who do it all
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/mothers-day-2026-gift-guide-11-gadgets-for-the-moms-who-do-it-all-10679567/
-
-- Your morning coffee does more than wake you up, may rewire your cells: Study
-  
-  🔗 https://indianexpress.com/article/technology/science/your-morning-coffee-does-more-10679495/
-
-- Bamboo shoots show early promise as ‘superfood’ for gut health, metabolism: study
-  
-  🔗 https://indianexpress.com/article/technology/science/bamboo-shoots-show-early-promise-as-superfood-for-gut-health-metabolism-study-10679421/
+- Jupiter Wagons eyes global expansion with BESS, wagon exports
+  Jupiter Wagons aims to double revenues by 2028-
+  🔗 https://www.livemint.com/companies/jupiter-wagons-global-expansion-bess-wheelsets-freight-wagons-passenger-coaches-metro-trains-11778232465384.html
 
 - Accor raises its India play as domestic luxury demand reshapes hotels
   Accor India's chairman Gaurav Bhushan said that the luxury hotel sector has significant growth potential. With a focus on domestic travellers, Accor plans to expand its portfolio
@@ -56,29 +60,25 @@
   Biosimilars across markets have begun scaling up and will gather momentum through the year, particularly in the second half
   🔗 https://www.livemint.com/companies/biocon-growth-strategy-biosimilars-launches-profitability-margins-fy27-outlook-11778247774835.html
 
-- Urban Company’s InstaHelp push drags FY26 into loss
-  Quick household-help vertical emerges as key
-  🔗 https://www.livemint.com/companies/company-results/urban-company-instahelp-investment-losses-financial-year-results-11778251878076.html
+- SBI vs PNB vs BoB: Which PSU bank stock to buy after Q4 results 2026?
+   PSU banking stocks gained attention post Q4 FY26 earnings. Investors are now prioritizing asset quality and margin trends over earnings figures.
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-vs-pnb-vs-bob-which-psu-bank-stock-to-buy-after-q4-results-2026-11778311718110.html
+
+- RBI's ECL framework: HDFC Bank to Axis Bank — experts bet high on these five banking stocks
+  The RBI's Expected Credit Loss framework, effective April 2027, mandates earlier recognition of loan losses. While it may pressure PSU banks initially, it aims to enhance transparency and investor
+  🔗 https://www.livemint.com/market/stock-market-news/rbis-ecl-framework-hdfc-bank-to-axis-bank-experts-bet-high-on-these-five-banking-stocks-11778302501440.html
+
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  BSE Sensex and NSE Nifty ended lower on May 8 but closed the week with gains. The Nifty rose 1%, while broader markets outperformed, with Mid
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11778299181250.html
+
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 11 May 2026
+  Sumeet Bagadia from Choice Broking predicts bearish trends for Nifty and Bank Nifty. He recommends stocks Adani Ports,
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-11-may-2026-11778295765647.html
 
 - Three pharma stocks where FIIs raised stake in the March quarter
    Pharma stocks have been attracting FIIs. Here are three stocks where FIIs
   🔗 https://www.livemint.com/market/stock-market-news/indian-pharma-stocks-foreign-institutional-investors-increase-stake-11778238925708.html
-
-- TSX notches weekly gain as corporate profits impress investors
-  TSX notches weekly gain as
-  🔗 https://www.livemint.com/market/tsx-notches-weekly-gain-as-corporate-profits-impress-investors-11778272019855.html
-
-- Treasuries Gain to End Choppy Week as Focus Shifts to Inflation
-  Treasuries advanced at the close of the week as mixed economic data reinforced expectations the Federal Reserve will stay on hold
-  🔗 https://www.livemint.com/market/treasuries-gain-to-end-choppy-week-as-focus-shifts-to-inflation-11778271463563.html
-
-- GRAINS-Soy turns higher on hopes of Chinese purchases; grains choppy
-  Soy turns higher on hopes of
-  🔗 https://www.livemint.com/market/grainssoy-turns-higher-on-hopes-of-chinese-purchases-grains-choppy-11778271339447.html
-
-- US yields fall after jobs report tops expectations; Iran ceasefire eyed
-  TREASURIES-US yields fall
-  🔗 https://www.livemint.com/market/us-yields-fall-after-jobs-report-tops-expectations-iran-ceasefire-eyed-11778267721742.html
 
 - Forget LCD and score a nice AMOLED smartwatch at discount during Amazon Sale 2026
   Save up to 80% plus 10% HDFC bank discounts during Amazon’s Great Summer Sale 2026.
@@ -100,165 +100,153 @@
   AWS said its issue stemmed from increased
   🔗 https://www.livemint.com/technology/amazon-reports-cloud-outage-at-north-virginia-data-centre-cme-coinbase-face-trading-issues-11778220552164.html
 
-- S&P 500 pulls back from record as investors eye oil prices and Iran deal developments: Live updates - CNBC
-  P 500 pulls back from record as investors eye oil prices and Iran deal developments
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KaHgtMWs1aERlakNrX19EYUlqOVc4YzAtN2VZMWNIaTVoWkRsc2FlV3I2WVk0bkV6aXU1OXhKaFlsZlgtSFM3Zm9ES3NfUzFaNXNVYUlKT0tQZlR2ODVHOXZwUnhfTm1Ga1lKNi1ZMkkyaDl5ZEN30gF8QVVfeXFMUEpWWllrM0JFZDUwQzFwZUFkUnE5bExwWU9lVlBGMlhLQzE3U3JwMHpBM25SV2pMdW1Rd3EzR3R3aS1KLUZaSDFlT2tXVElvWE1aNmNYbzJxb2pPWDdPZUFxRDluU3p5UW9ldkhqT3dRZ25MSDIzOGVxR0VlQQ?oc=5
-
 - Markets are banking on the ‘Bliss trade’ - Financial Times
   Markets are banking on the
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUkwejh5anliM3pPNE1hZzFzM3ZNTkxBZGdweDdwcmtNdE1ab2lma296UG5OSENmdTN4c1FsMGVVN1VzcHFDSVFqcnFneEdvcnA5V3FaUlRBSFNtSnpxQ1JoR2FoV3lLd1hwZVQ2MDk?oc=5
 
-- Stock markets slump amid fresh tensions in West Asia - The Hindu
-  Stock markets slump amid fresh tensions in West
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUxPZFdOcXBra3JSVkdQbXV6WWJ0U1UtdzhyZk5LWER6bzBFc1RNVTI3ZjBoaEQ3ZVdFcnlGb0E0cGxHM3U4dnExU29TcExWWmE4MWlfSHNUOTBwQnE4b3YwdmRIdzVrb1lQN0k3bUpad2xhRG1FWWF1bnNiZXVXV2c1SWQ5TXhrMEdFMHBKcUpwTUhJQ3Z2MEJvWnRmLWVZZTdpak5aLUpoVDV4cjZsQnlPckfSAbsBQVVfeXFMTkhzTzFTOUtnQkpyWkRaalBIVFZNR1V4T1NjRzJSaE1HWDhDZmZSN0dtUlptekFPM1lyemZRMFhXYk50SV9yUzYyeURSejNEZk9nU1pudWtzT3dqQ3I4VVM0ZjVpd2VVQ19DU004dWJHMGcyWUs5U0QwY1lnZ3NDOHdOcXhRbGoza1RjbjZXQlVIT3FZUWpXb2Jua1Z1Z05tTjA2T3ZxcDl1N0x1bVoxMGxMSXpGMGxjUV9iVQ?oc=5
+- Seven markets to track if peace breaks out in the Middle East - Reuters
+  Seven markets to track if peace breaks out in the
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQejhMNzlOZXh6MFZiS0ZSSk1QbXVFTTNrQUpJaWNHRnNkZlhBNlNTMzgzSHlRckVVd2JlSENESGRUbjJmbFd1RkQ5b2pBVC1yTERrdWVxQkZvYXlKWmZRMUxTd3JtdGFuMnpuVGZDdjNKRHpFTHE0Qlg2dU16V050WHJPWFg1Q3M2Y3JSUlB3RU9uY3FicllpME1XRQ?oc=5
 
-- Stock Market Highlights, Sensex Today: Sensex Falls 516 Points, Nifty Down 146 On Renewed US-Iran Tension - NDTV
-  Sensex Falls 516 Points, Nifty Down 146 On Renewed
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSjhfdG9Say1vV3hPcGdWdGFLMlR1SFZwaHJ3U2VUamo0VDZHYXg0d2t5c1pNZDJBU1hnX2RZaGVyQlRyUWtaSC1oNDBCUDk0ZGd1czdGcTBlSVNpZHoxZzQxUzJfamVnMUJXSTNRZzN0N3RqY3JsT3ZfVzFFb1ZXbEdIQzZoUEdEWERVX2g0NnJUbC01QmJyMlNSNWRZV2ljdGZEZ1U4WUhLLTRkRkktbHBVdTE5N2dLSWNuX0lCZ1RMZXpxMWhGSFpVXzdhUHpSanU5SlJB?oc=5
+- Vijay Kedia Portfolio Check: 10 stocks surge up to 44% — plus 5 fresh picks - The Economic Times
+  Vijay Kedia Portfolio Check: 10 stocks surge up to 44
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVXhPQ3BFc1JMUUhYYzFMdEJsNFdWZE0taW02YUFIUFd1TVNkMTNwc3FJVDg2NThmM3NrVV81aUJFNkUwUExoQVJ4WXRTcVZCMi03ZDFJUFFlaE51NThlUGJPcS1mVDBMaktzcXFpY21WLWNIRDFLZ3NGSm5aTkFWYTJfdGRncEZyQW5CbURfb1VDSmwzZU9fbFRldXdmSDhqczFRTXNXOFFlaFB1ODN0MUpISFpyWldWSGI1dnVvQlc0enZNZk1YZ2tQS1c1Y0VNQjlfbFJxSzBfX2QtSzc0TTBDWGdKQ2FfZDEtRFNMQjg?oc=5
 
-- Stock market today: Which are top 10 gainers and losers on NSE & BSE on May 8? Check list - The Times of India
-  Stock market today: Which are top 10 gainers and losers on NSE & BSE on May
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxNOXpVUlljU3RUQ3JsWlE3UGNyX3piR3FLR0FQaUJrRjk3S0ZDY0hiOG5LQURFcHh1Wlo0MFltQkRyY1Q3RHVCM1N0TWV2N1c3Z2NfWXJsaXB1YUwzYm9oOC1QYUpaN0pad29lbHhrcmNiSV94NkMtejNLSG9kSVEweDlodVlHc3h3YTNUb0lBZ2MtZ0lLMnM2MEhVT29KYUZZU2EzNzlWbUk1QllMbUJvcTR0Q3VzZk5tQUEyU2trU3FnQ1l3bXdWbXc5YXVLTFRjajdGZHBzZFRVM3hzWTBSMGxYT3JMU0J6VTJjWWNLaVpZSzlKakxua3lZUlJxdXlYQXVackotNNIBjAJBVV95cUxPZ19UT0NXb0FXTXdYZmhKRTNqU21TcmVacXV3MTg3UkxjOXVTR3V4VzNoRXcwd0tseVpublJ3dENLWHd4MV9KQTYycUJpN2RRNzVVNUFtT1hINTA4a0s4N2NrcjdMSlRkcWxpVG9aMEJaMnhuZ3hOWnRBVlpEYVlTTGVuUGRZN1ZhU0dpbW5iek9uNkdQYnl2WmZCcG91WVNETndnVnhpaUE2RkhvMnFyalU2RGhpNEgzYU5NN1BMR01XbE1LMWFSVEdVTG5qXzhKNVctRE5xMm9KZDA2dTZKWkRWYm9vb2NCU1hFMGtEMlZEMjNMR1g1SS10UE5qeGp1MUtkSnRuN0hUWEF1?oc=5
+- Electronic Gold Receipts explained - Finshots
+  
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQnJQdlpGMEJGUHhLWGZ0aUZacTNZRk9vb2RVN3lsd1JQTjNpX29lQmk4Mkt4UHo1MGJzSmRqUkZRSGhkLWU1dnhhT3B1d1VTd0M3Q25Ydlh4MDVXOVRtUVJ5QThOa1d2U0Nxbjcwb0c?oc=5
 
-- SBI Q4 profit rises 6%, investors cautious over bond yield impact
-  The bank's net profit rose 6% in the fourth quarter. Chairman CS Setty expressed confidence in continued credit growth for the current fiscal year.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q4-profit-rises-6-investors-cautious-over-bond-yield-impact/articleshow/130969434.cms
+- Markets News, May 7, 2026: Stocks End Lower, Oil Prices Rise; S&P 500, Nasdaq Retreat From Records - Investopedia
+  Markets News, May 7, 2026: Stocks End Lower,
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzI4TDBrTHVoand4YzRSQkJDSWExbW44X3BMbzJjZ1oySHFjMm9GRHIwUWxyaDZUSklDcjViQkxfdnBKblQ3eXQtbUFBOVlsem1jXzhPR1FEc0ZsaU5IUjQ4ZEs2RzNXckl3Z0txYmdnWmZtRktSVXdfUUxGUmk2UHN3N2RxeV80c0t6S3lMeHg?oc=5
 
-- US stocks today: S&amp;P 500 and Nasdaq notch records, boosted by AI and earnings optimism
-  The S&amp;P 500 and Nasdaq reached record highs. Strong first-quarter earnings, particularly from tech giants, fueled investor optimism. This surge occurred despite rising oil prices and Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-notch-records-boosted-by-ai-and-earnings-optimism/articleshow/130966593.cms
+- Zerodha’s Nithin Kamath flags ULIP, endowment traps; says health policies remain complex
+  Nithin Kamath highlights persistent personal finance blunders by Indians. He notes a lack of innovation in these financial missteps. Kamath argues these bundled products are easier to scrutinize.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nithin-kamath-flags-ulip-endowment-traps-says-health-policies-remain-complex/articleshow/130972937.cms
 
-- US stocks today: Applied Aerospace &amp; Defense reveals 25% revenue jump in US IPO filing
-  Applied Aerospace &amp; Defense has filed for a U.S. IPO. Despite a net loss of $17 million, the company's strong growth and its role in supplying critical defense hardware are drawing attention.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-applied-aerospace-defense-reveals-25-revenue-jump-in-us-ipo-filing/articleshow/130966485.cms
+- Bitcoin holds near $80,000 after rejection at $82,500; ETF outflows trigger cautious sentiment
+  Bitcoin hovers near the $80,000 mark. Experts note cautious sentiment following outflows from US-listed spot Bitcoin ETFs. Major altcoins like XRP, BNB, and Solana saw
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-80000-after-rejection-at-82500-etf-outflows-trigger-cautious-sentiment/articleshow/130972440.cms
 
-- US stocks today: Anthropic signs $1.8 billion AI cloud deal with Akamai
-  Akamai's stock saw a substantial rise following the announcement of a long-term cloud deal with a major AI partner. The company is well-positioned to access necessary components for AI development.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-anthropic-signs-1-8-billion-ai-cloud-deal-with-akamai/articleshow/130966200.cms
+- 2,00,000% rally! 10 penny stocks that graduated into mid and smallcaps multibaggers
+  Penny stocks are often seen as the riskiest corner of the market. Penny
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/200000-rally-10-penny-stocks-that-graduated-into-mid-and-smallcaps-multibaggers/slideshow/130972119.cms
 
-- US market today: Biotech firm Odyssey hits nearly $900 million valuation as shares rise in Nasdaq debut
-  Odyssey Therapeutics debuted on Nasdaq with an 11.1% surge. The autoimmune disease specialist successfully raised $279 million in its IPO, exceeding its target.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-biotech-firm-odyssey-hits-nearly-900-million-valuation-as-shares-rise-in-nasdaq-debut/articleshow/130965946.cms
+- $100 crude &amp; 95 rupee: Why Arvind Kothari is still buying these 5 emerging themes despite the war
+  Despite economic headwinds, Niveshaay's Arvind Kothari sees opportunity in market dips. He believes these sectors possess "war-proof" structural moats. Investors should brace for second-
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/100-crude-95-rupee-why-arvind-kothari-is-still-buying-these-5-emerging-themes-despite-the-war/articleshow/130971715.cms
 
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
+- Explained! Sebi proposes sweeping changes to buyback framework. 7 things to know
+  India's securities regulator, SEBI, is proposing major shifts in company share buybacks. Open market buybacks are set to return, and the mandatory involvement of merchant bankers may be reduced. Safeguards for promoter shareholding and minimum
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-sebi-proposes-sweeping-changes-to-buyback-framework-7-things-to-know/articleshow/130971660.cms
 
-- 'Why in English?' Pakistan's bizarre reaction to Indian presser on Op Sindoor goes viral - The Times of India
-  'Why in English?' Pakistan's bizarre reaction to Indian presser on Op
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkwtekRnU0QteW9aalphbXhrR2pVSmpza2F6YVJ0ZFBjajE5aTRuc3RKeC16bmo5T0M2bmJrSE5tUjNXa01zTDlHbFVjSXloWUdRa3EwazUxelBibHljM2FWaHdlRGZDVXd2aTd4cVFtQ1pUNzBiTWhZYW5Jc1htbWF4Ylo3eXlxRl9DVmgtSXM1MURpQ3Y4VEpfQl9RZHhaRWJBN2x6Q2JQQlJ4a0Nwc3BjQTNmQ2g2NUZ3RmdvTGdfdjlyNXpnTzBHTmpDSEVTbmIzU1dOUjNHYTRMQnp5RDRIWXVzVFXSAewBQVVfeXFMT1lIbnJ0QllIVzNXLWJwYVRwUXplbE9BSDRCWm51WW5wd2g3dmxmUFNSamZtWDhGampNdFVCWWZpVjBkT0hPVmlRa2hoYXdERTE3ZzVRdVdTOGlGQ3hjaEFoWEdYT3hOYWY2SkR1b0M2cU1SdFdDZ1BTZkxPVnh0dXlsQmdCa2NtaWxjR2tFaG1acHFwU0dURlFlbUtvWmxCcWhQSjBQUnEzOEZJOGdseDhIY3hYYW5Kay1VX2dvbDZIU2cxUW1tSVRkYmhZRnRiZ2V5TFVOY0RIMjZwZGFlYnplOFNOaTVwRzFiV04?oc=5
-
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- India scripts history by qualifying for AFC U-17 Women’s Asian Cup quarterfinals for the first time - News On AIR
-  India script history by qualifying for AFC U-17 Women's Asian Cup quarterfinals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1pRDlab0xVdXd3X2ViR0w2UmQxWk1pUnA0SWk2STN6bDB5N1Q1X1dkUDVCaWp5ZF9wR3NBalpzMVlhX1hiSDNvNVdZWU1VUmIzcE1oMGhBeU45T2xsSjlENHA4ZVVZaTJpUmIyMnJRLVlJdGs0SDAwWjFpUG1mUy1pSHlydmZ3OWlCbDVRNU1KNWNZR1dqYUFNVkxLZllBVzk2UkxHQl8xMnFsRE12enl6dWpmbm5SaEt3dzFxMEc4azM0N21F?oc=5
+- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
+  Mamata Banerjee has finally conceded to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
 
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
+- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
+  Agnimitra Paul will be West Bengal's first female chief minister
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
 
-- 'Why in English?' Pakistan's bizarre reaction to Indian presser on Op Sindoor goes viral - The Times of India
-  'Why in English?' Pakistan's bizarre reaction to Indian presser on Op
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkwtekRnU0QteW9aalphbXhrR2pVSmpza2F6YVJ0ZFBjajE5aTRuc3RKeC16bmo5T0M2bmJrSE5tUjNXa01zTDlHbFVjSXloWUdRa3EwazUxelBibHljM2FWaHdlRGZDVXd2aTd4cVFtQ1pUNzBiTWhZYW5Jc1htbWF4Ylo3eXlxRl9DVmgtSXM1MURpQ3Y4VEpfQl9RZHhaRWJBN2x6Q2JQQlJ4a0Nwc3BjQTNmQ2g2NUZ3RmdvTGdfdjlyNXpnTzBHTmpDSEVTbmIzU1dOUjNHYTRMQnp5RDRIWXVzVFXSAewBQVVfeXFMT1lIbnJ0QllIVzNXLWJwYVRwUXplbE9BSDRCWm51WW5wd2g3dmxmUFNSamZtWDhGampNdFVCWWZpVjBkT0hPVmlRa2hoYXdERTE3ZzVRdVdTOGlGQ3hjaEFoWEdYT3hOYWY2SkR1b0M2cU1SdFdDZ1BTZkxPVnh0dXlsQmdCa2NtaWxjR2tFaG1acHFwU0dURlFlbUtvWmxCcWhQSjBQUnEzOEZJOGdseDhIY3hYYW5Kay1VX2dvbDZIU2cxUW1tSVRkYmhZRnRiZ2V5TFVOY0RIMjZwZGFlYnplOFNOaTVwRzFiV04?oc=5
+- Here's what it's like to ride India's sleek new sleeper train - BBC
+  The train will be the first of its
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
 
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- India scripts history by qualifying for AFC U-17 Women’s Asian Cup quarterfinals for the first time - News On AIR
-  India script history by qualifying for AFC U-17 Women's Asian Cup quarterfinals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1pRDlab0xVdXd3X2ViR0w2UmQxWk1pUnA0SWk2STN6bDB5N1Q1X1dkUDVCaWp5ZF9wR3NBalpzMVlhX1hiSDNvNVdZWU1VUmIzcE1oMGhBeU45T2xsSjlENHA4ZVVZaTJpUmIyMnJRLVlJdGs0SDAwWjFpUG1mUy1pSHlydmZ3OWlCbDVRNU1KNWNZR1dqYUFNVkxLZllBVzk2UkxHQl8xMnFsRE12enl6dWpmbm5SaEt3dzFxMEc4azM0N21F?oc=5
-
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
-
-- 'Why in English?' Pakistan's bizarre reaction to Indian presser on Op Sindoor goes viral - The Times of India
-  'Why in English?' Pakistan's bizarre reaction to Indian presser on Op
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkwtekRnU0QteW9aalphbXhrR2pVSmpza2F6YVJ0ZFBjajE5aTRuc3RKeC16bmo5T0M2bmJrSE5tUjNXa01zTDlHbFVjSXloWUdRa3EwazUxelBibHljM2FWaHdlRGZDVXd2aTd4cVFtQ1pUNzBiTWhZYW5Jc1htbWF4Ylo3eXlxRl9DVmgtSXM1MURpQ3Y4VEpfQl9RZHhaRWJBN2x6Q2JQQlJ4a0Nwc3BjQTNmQ2g2NUZ3RmdvTGdfdjlyNXpnTzBHTmpDSEVTbmIzU1dOUjNHYTRMQnp5RDRIWXVzVFXSAewBQVVfeXFMT1lIbnJ0QllIVzNXLWJwYVRwUXplbE9BSDRCWm51WW5wd2g3dmxmUFNSamZtWDhGampNdFVCWWZpVjBkT0hPVmlRa2hoYXdERTE3ZzVRdVdTOGlGQ3hjaEFoWEdYT3hOYWY2SkR1b0M2cU1SdFdDZ1BTZkxPVnh0dXlsQmdCa2NtaWxjR2tFaG1acHFwU0dURlFlbUtvWmxCcWhQSjBQUnEzOEZJOGdseDhIY3hYYW5Kay1VX2dvbDZIU2cxUW1tSVRkYmhZRnRiZ2V5TFVOY0RIMjZwZGFlYnplOFNOaTVwRzFiV04?oc=5
-
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- India scripts history by qualifying for AFC U-17 Women’s Asian Cup quarterfinals for the first time - News On AIR
-  India script history by qualifying for AFC U-17 Women's Asian Cup quarterfinals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1pRDlab0xVdXd3X2ViR0w2UmQxWk1pUnA0SWk2STN6bDB5N1Q1X1dkUDVCaWp5ZF9wR3NBalpzMVlhX1hiSDNvNVdZWU1VUmIzcE1oMGhBeU45T2xsSjlENHA4ZVVZaTJpUmIyMnJRLVlJdGs0SDAwWjFpUG1mUy1pSHlydmZ3OWlCbDVRNU1KNWNZR1dqYUFNVkxLZllBVzk2UkxHQl8xMnFsRE12enl6dWpmbm5SaEt3dzFxMEc4azM0N21F?oc=5
+- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
+  Mamata Banerjee has finally conceded to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
 
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
+- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
+  Agnimitra Paul will be West Bengal's first female chief minister
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
 
-- 'Why in English?' Pakistan's bizarre reaction to Indian presser on Op Sindoor goes viral - The Times of India
-  'Why in English?' Pakistan's bizarre reaction to Indian presser on Op
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkwtekRnU0QteW9aalphbXhrR2pVSmpza2F6YVJ0ZFBjajE5aTRuc3RKeC16bmo5T0M2bmJrSE5tUjNXa01zTDlHbFVjSXloWUdRa3EwazUxelBibHljM2FWaHdlRGZDVXd2aTd4cVFtQ1pUNzBiTWhZYW5Jc1htbWF4Ylo3eXlxRl9DVmgtSXM1MURpQ3Y4VEpfQl9RZHhaRWJBN2x6Q2JQQlJ4a0Nwc3BjQTNmQ2g2NUZ3RmdvTGdfdjlyNXpnTzBHTmpDSEVTbmIzU1dOUjNHYTRMQnp5RDRIWXVzVFXSAewBQVVfeXFMT1lIbnJ0QllIVzNXLWJwYVRwUXplbE9BSDRCWm51WW5wd2g3dmxmUFNSamZtWDhGampNdFVCWWZpVjBkT0hPVmlRa2hoYXdERTE3ZzVRdVdTOGlGQ3hjaEFoWEdYT3hOYWY2SkR1b0M2cU1SdFdDZ1BTZkxPVnh0dXlsQmdCa2NtaWxjR2tFaG1acHFwU0dURlFlbUtvWmxCcWhQSjBQUnEzOEZJOGdseDhIY3hYYW5Kay1VX2dvbDZIU2cxUW1tSVRkYmhZRnRiZ2V5TFVOY0RIMjZwZGFlYnplOFNOaTVwRzFiV04?oc=5
+- Here's what it's like to ride India's sleek new sleeper train - BBC
+  The train will be the first of its
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
 
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
-
-- Four killed in post-election violence in India’s West Bengal - Al Jazeera
-  Four killed in post-election violence in
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
-
-- India scripts history by qualifying for AFC U-17 Women’s Asian Cup quarterfinals for the first time - News On AIR
-  India script history by qualifying for AFC U-17 Women's Asian Cup quarterfinals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1pRDlab0xVdXd3X2ViR0w2UmQxWk1pUnA0SWk2STN6bDB5N1Q1X1dkUDVCaWp5ZF9wR3NBalpzMVlhX1hiSDNvNVdZWU1VUmIzcE1oMGhBeU45T2xsSjlENHA4ZVVZaTJpUmIyMnJRLVlJdGs0SDAwWjFpUG1mUy1pSHlydmZ3OWlCbDVRNU1KNWNZR1dqYUFNVkxLZllBVzk2UkxHQl8xMnFsRE12enl6dWpmbm5SaEt3dzFxMEc4azM0N21F?oc=5
-
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
-
-- 'Why in English?' Pakistan's bizarre reaction to Indian presser on Op Sindoor goes viral - The Times of India
-  'Why in English?' Pakistan's bizarre reaction to Indian presser on Op
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZkwtekRnU0QteW9aalphbXhrR2pVSmpza2F6YVJ0ZFBjajE5aTRuc3RKeC16bmo5T0M2bmJrSE5tUjNXa01zTDlHbFVjSXloWUdRa3EwazUxelBibHljM2FWaHdlRGZDVXd2aTd4cVFtQ1pUNzBiTWhZYW5Jc1htbWF4Ylo3eXlxRl9DVmgtSXM1MURpQ3Y4VEpfQl9RZHhaRWJBN2x6Q2JQQlJ4a0Nwc3BjQTNmQ2g2NUZ3RmdvTGdfdjlyNXpnTzBHTmpDSEVTbmIzU1dOUjNHYTRMQnp5RDRIWXVzVFXSAewBQVVfeXFMT1lIbnJ0QllIVzNXLWJwYVRwUXplbE9BSDRCWm51WW5wd2g3dmxmUFNSamZtWDhGampNdFVCWWZpVjBkT0hPVmlRa2hoYXdERTE3ZzVRdVdTOGlGQ3hjaEFoWEdYT3hOYWY2SkR1b0M2cU1SdFdDZ1BTZkxPVnh0dXlsQmdCa2NtaWxjR2tFaG1acHFwU0dURlFlbUtvWmxCcWhQSjBQUnEzOEZJOGdseDhIY3hYYW5Kay1VX2dvbDZIU2cxUW1tSVRkYmhZRnRiZ2V5TFVOY0RIMjZwZGFlYnplOFNOaTVwRzFiV04?oc=5
-
-- China confirms its support to Pakistan during last year’s war with India - The Hindu
-  China confirms its support to Pakistan during last year's war
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkplemdWTm9IN2pDLXRWX2JvQ0JpVEFYZVZOSXlNbGlxeTI3WDBWOTh6Y24yeHY2aFpYRTcwclJsRmdyUFhMNUdaN3Z3VzNxQ2VEaWdDQ3dHXzdLVXJUZDQzUVpGZDVoYmZnM01kUzV1Ql9DQkVsWXlkSG56Zzk3anUzZXYyX0ZuYVdzOGhCUjA0RGlMN1ZpQ09NZXJNQVZadVNIajFfamtubDlaOGFfaEZVVXh5eEtDN2tPVmkzT1phMjU1R19UemUwUk1aVzNL0gHXAUFVX3lxTE5VNXJHektIREJYcVBIdGlFZGdwV3ZxTUhMV29MZGhRTU9ib1hDd1RObUV6czJ0MHo3eWhud1Q0b0Z0WjRYSTdRbnM3eFd2OHFaWTR6dkZYSlA3UlhoeGVGMUVSTWJ4SmljWkVKblVWbFVmRFlEWXY5TjYtX2ptSDhTTmVBWnEwemFETkpJekFpUWFvakxKQ2x0ZEVZaEp5THhBS0pSeGc1aENZdHhwcEV3N3Z1dHJQOE1FUW9Xd0IzcFloRGFXdzMtNS1tUG8tVGlvQ0lBSFhj?oc=5
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
 - Four killed in post-election violence in India’s West Bengal - Al Jazeera
   Four killed in post-election violence in
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- India scripts history by qualifying for AFC U-17 Women’s Asian Cup quarterfinals for the first time - News On AIR
-  India script history by qualifying for AFC U-17 Women's Asian Cup quarterfinals
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU1pRDlab0xVdXd3X2ViR0w2UmQxWk1pUnA0SWk2STN6bDB5N1Q1X1dkUDVCaWp5ZF9wR3NBalpzMVlhX1hiSDNvNVdZWU1VUmIzcE1oMGhBeU45T2xsSjlENHA4ZVVZaTJpUmIyMnJRLVlJdGs0SDAwWjFpUG1mUy1pSHlydmZ3OWlCbDVRNU1KNWNZR1dqYUFNVkxLZllBVzk2UkxHQl8xMnFsRE12enl6dWpmbm5SaEt3dzFxMEc4azM0N21F?oc=5
+- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
+  Mamata Banerjee has finally conceded to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
 
-- Things have jobs and digital devices are made to track you - Aeon
-  Aeon is a company that specializes in
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjlUR2NnSTZiR2ZRQ2ZuWkJvRVRrS1lnYTVSSE8tQldkS0I4VHdsd1dPcG9nVWtPa0lGWmZXa2ZxSG9VdUtDcE1SdVlqR2VnN0dyYkVMWWRtVk5GUGtTR09HZVdOMmtXLVVEUzNpMHpyRVRvS19feFdKMkNPU2Z3ekJldGNfbk9a?oc=5
+- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
+  Agnimitra Paul will be West Bengal's first female chief minister
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
 
-- Fidelity Investments to cut around 1,000 jobs as it revamps technology operating model - People Matters - HR News
-  Fidelity Investments to cut around 1,000 jobs as it revamps technology
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjBITGdZQXhiM0tGSVJtalJJbXIzN29ENmdKMjFVcTJrUVR6WV8xQ2hqTEpKX2ZnYUZxRzB5bHo5T3dWYXpwRjR6Z1lNMXVNYVh0bUVMU0dxQlA2ZEhlMDdmN3ZYdWRuellwY2VndnVIRV8zME9hQ1kyNTJROVcxek9RU0xWQ25Fcnc1WHJEVkRUT21VcTdwWTJaZkxKMGhVZkdUYU4ySjJRQW9YQWZ5WlN6MTk5ZUhFcmVKTVFpdFRncVh0?oc=5
+- Here's what it's like to ride India's sleek new sleeper train - BBC
+  The train will be the first of its
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
 
-- AI + X is not enough; India needs its technology universities to solve for X + AI - The Hindu
-  The Hindu: India needs its technology universities to solve for X + AI.
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWpaQ2xCRDZhVml5U0t0MDRGQk8yaUphSmhyZ0wxdS1rSTJxVjltOVU5SU5EQ2V1aGdfaDlFSl92c3ViMldDMnlKb29XejIxZHhSUlc2VjdxUHk4M0h5TGtaajhKUmhsSDNDcVhxMk02UGRlNWxZU254R3FjeDJjQVZ5dzBmQ0hxVjNQVDU5M0xKOHhfb3JvNTZWaWZYdUhVcV9BOU5mcGQ2MEVNeDVIZmlfMThCdzcxUXBDSGpxWlJqQllXc2lGcHBwSdIB0gFBVV95cUxPaTRoSWxTQU5CUl9kQ25ENGlIMWJJR1ZFelZodURFLXZwODhQYUdSd05sZXhuT0hWeUdXM01OS2d4eTZmT2t1X3lGWXVKdnViaV93R2dIU0FzOV9uWUxOUU1ZdEs5Nkk1dFFPaThHLWxqLURWVlVraVAySHo4eVZodml3ZWk3YWg5LWgxYlByS1Y5cXZ2aEkwSjA2M0R4Z2VobTlNVEh1VHpWYVpWT2xQNWdKTVBBdkdHRWNuTVVwMVVVWVJBTUVfVGtBX29nTmprZVE?oc=5
+- OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today
+  OpenAI, Anthropic are starting service companies, it is good
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5
 
-- Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times
-  The New York Times reports that the company's
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxONnNrMkM2andrc2R0ZVdveDcxRkNmcWJyRlZ6RjNVd29NVzBCakVHUlFBN1FPOGVBNEJqWlg0TzRDN3pzZDNZUGo3dzZoR3c5VHZLUnRiQzBMR3BIWkNURmdYUFNHMEpXeEtTUko5bVJkQko5OHIwVjR1bjhET05RRHJqcmg?oc=5
+- Four killed in post-election violence in India’s West Bengal - Al Jazeera
+  Four killed in post-election violence in
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxQTC1GX3pWRUF5bnJETkFyS2lBX3MzcVdCLUk5aHRURkN6OVdfdEdQZE4zaGYxT0tKTzRNbUJURFhCTWpFWmk1UmQxX2ZGMk1TU2FHNS02VGp6UUtPVWl3WllFaldpMFlEWUFDNUJPM200WEMzV2ZxVy1wWGJoVndIRjNmOEN5UlFGbms4OEhWZzdpdmpvMjRucERnSmZ3LW5n0gGmAUFVX3lxTE91MUdhQWk0VUZua3pUZjBadW5wTlNfNjUwWllrSVlON2FlR1RlRkdraDJyOWpNclcySzFrdjR0ajNQOVpuX2JiMDZqZ1k3aTdNczZodi1meEVmZ0dGaEdOd1I5eE12ekR2c0o3cDBwSEhQX2dKWjUzaDl1X29iRFI3ZHFMM0FoQ1VPRE1tZmt1X2NRWEItdmtxOFo4MUVrOWRtWllBR2c?oc=5
 
-- How sunburn inspired a new way to store energy - BBC
-  How sunburn inspired a new way
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWFRscG1CZFNYdkdpVWcxVmNkUTNlQ0ZrbWNkQ1BFNS1WLXN1TUpDTklKc3FvZ2hxd283X2VVcm9NX05VRFRxUmlsQVdpc3cyY1dSVnh6N3ZXUQ?oc=5
+- Has Mamata Banerjee Finally Conceded? Updated X Bio Drops A Big Hint - NDTV
+  Mamata Banerjee has finally conceded to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdTFhcVJtczNJTGpObnZYWG9WVjRyR2pObFR5LWo5THZyT0pfRzVuSy04bERlRHZYemRTYVpfV3o5N2Y2Mkt3TGhCbmtLQlBqck9oWTVWb01JdlVjTnphcWJrQ1pNa29pT3l5cTVHbTRqWVJLa0YyNzBuRkctczkxVTFoQm1vYi1BeF9tNjNxVFF4TjRRbHd4MzhfVUNuY0pfWnpRVktMLXZlSFdCSGsweVBfblo2TE9KY0IwMW15cWxRb3JOZGZuNnpESUhwZkdiQ0ZlUkdqZWlCeFFQNE1Dc1IzdXBoRnJvVl9fUFdvdUdBZ9IB-gFBVV95cUxPVk9OdnZlVWtxNXgxcGdsSFJ6RXBEdzJ3U2JsaVN2VW4xM0tSNWJ0RXZwUEkxODlyczJyeG9QeDRfTzBkYVktdEFKa3ZTekdNczhKWFppSTNfY3hGNWwxX01ObXVCelFpMERuVkFNYnh5UWM1RU01TWVvWEg2eW9JSXJuLWJjN0gxQnNDZFluWWpEdV9WdU9ON1k5T3lTTlQyQ3V0WTNCazBRY0YyanNPMXp1NFZKbTVjZEQtdDU4XzZDa1lsT1djR0NmSW96aERERURMNG9fWVMtVFhtRkRFclpyYTQwTnZFajlMUE5mQnBlODF5NVpNTnFB?oc=5
+
+- From Dilip Ghosh to Agnimitra Paul: What BJP’s first West Bengal cabinet looks like - The Times of India
+  Agnimitra Paul will be West Bengal's first female chief minister
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2lfU0FpQV82b1BSN2xFcU5qWDdpZ0p1MkRwRTYwelA4LUFGU09CV2RGTHV3OHZJVmI0QVVhVjU3bDRSbkNnYk1XVXJ6UjAxU0FlQWhVRnFJWlI1TkdGOHZ2S3Zkc1JLZlF4dmpZVGh1RFpoelZ2WVpMNG1lVlVFSDhUTzFMOGJ0eWd2V1pkd0o5UndpVVFRUlp2NEplNDV2c2ZDNkZMbnFZWkk4MjgzMGRYTWVjODgwNDRmcGM3VXhjNl9fN2daUWVoX0p5WGJ6ckFidVNYQno2aktEeUhQTkxCQdIB6AFBVV95cUxNOE5welVzUUZfbkZfSXNxdDZMZWVmUGtfOUJqVEhoa2VmRzJ1N091YUNBbUFBZlFFcmsyY3ZPYUFJVS1EMEhWX0p0MkhuZmlBdUFlMGRrajFFYjZrWUY0V2hQaVNCdzI4Z1g1NzlTcGxMYUtvcnVLUEtzX2RHMW4yZXQ1blZ6SUM1bWxPQ0Y0bjRlaXk0N0xFM2tEV2F0V3ZCWVN3SUhwZHpTMzEwQ3RfZ0R1Y3ZmVFV4RGk2ZWFaN0c3TEZPNm9DUmp0M0JlSHBocHgtY3M1WWtKUTd5aFAxWlZOaVNLMWtZ?oc=5
+
+- Here's what it's like to ride India's sleek new sleeper train - BBC
+  The train will be the first of its
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-09 02:32:08 UTC_
+_Last updated: 2026-05-09 07:52:17 UTC_
