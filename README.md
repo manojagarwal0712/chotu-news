@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Goan chef aboard cruise ship linked to hantavirus outbreak says no one is symptomatic
+- Himanta Biswa Sarma elected BJP legislature party leader in Assam, set to return as CM
   
-  🔗 https://indianexpress.com/article/india/goan-chef-aboard-cruise-ship-linked-to-hantavirus-outbreak-says-no-one-is-symptomatic-10681628/
+  🔗 https://indianexpress.com/article/india/himanta-biswa-sarma-bjp-legislature-party-assam-10682077/
 
-- Teacher who shared Urdu poem as WhatsApp status booked. Madhya Pradesh HC comes to his rescue
+- ED alleges Punjab minister Sanjeev Arora used bogus invoices for GST refunds
   
-  🔗 https://indianexpress.com/article/india/teacher-who-shared-urdu-poem-as-whatsapp-status-booked-madhya-pradesh-hc-comes-to-his-rescue-10681626/
+  🔗 https://indianexpress.com/article/india/ed-alleges-punjab-minister-sanjeev-arora-used-bogus-invoices-for-gst-refunds-10682003/
 
-- Misri’s proposed Kathmandu visit deferred for now; India invites Nepal for big cat summit
+- ‘No foreign aggression in Kamjong attack’: Manipur Home Minister G Konthoujam
   
-  🔗 https://indianexpress.com/article/india/misris-proposed-kathmandu-visit-deferred-for-now-india-invites-nepal-for-big-cat-summit-10681731/
+  🔗 https://indianexpress.com/article/india/no-foreign-aggression-in-kamjong-attack-manipur-home-minister-g-konthoujam-10681920/
 
-- From ground to the skies: How drones are reshaping operations along borders
+- Bihar Governor’s ‘5-hour teaching’ rule sparks faculty revolt, DU teachers back protest
   
-  🔗 https://indianexpress.com/article/india/from-ground-to-the-skies-how-drones-are-reshaping-operations-along-borders-10681619/
+  🔗 https://indianexpress.com/article/india/bihar-university-teachers-protest-five-hour-teaching-order-ugc-norms-10681916/
 
-- Modi to visit 4 Europe nations: Energy security a key priority, UAE stopover added to his itinerary
+- Vijay takes oath as Tamil Nadu CM: Full list of 9 ministers in his 1st cabinet
   
-  🔗 https://indianexpress.com/article/india/energy-security-a-key-priority-uae-stopover-added-to-pm-modis-itinerary-10681629/
+  🔗 https://indianexpress.com/article/india/vijay-cabinet-full-list-tamil-nadu-tvk-ministers-oath-taking-10681860/
+
+- Anthropic says internet posts about ‘Evil AI’ behind Claude’s blackmail threats
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-internet-posts-evil-ai-behind-claude-blackmail-10682214/
+
+- Logitech bets on AI, gaming and business users as it raises spending, CEO says
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says-10681943/
+
+- Meta’s embrace of AI is making its employees miserable
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/metas-embrace-of-ai-is-making-its-employees-miserable-10681907/
+
+- Alibaba to integrate Qwen AI with Taobao, launch agentic shopping
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-10681900/
 
 - How 4 Indian directors used iPhone 17 Pro Max to create this year’s most talked-about shorts at MAMI
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/how-4-indian-directors-used-iphone-17-pro-max-to-create-this-years-most-talked-about-shorts-at-mami-10681389/
 
-- Cloudflare cuts 1,100 jobs despite record revenue, says AI made roles obsolete
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/cloudflare-cuts-1100-jobs-despite-record-revenue-says-ai-made-roles-obsolete-10681297/
+- No 5-star rating for Uber CEO — Dara Khosrowshahi reveals his less-than-perfect score; shares tips to improve it
+  Dara Khosrowshahi's rider rating on the Uber app is a
+  🔗 https://www.livemint.com/companies/people/no-5-star-rating-for-uber-ceo-dara-khosrowshahi-reveals-his-less-than-perfect-score-shares-tips-to-improve-it-11778396869624.html
 
-- These 10 human skills could survive the AI job takeover
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/these-human-skills-could-survive-the-ai-job-takeover-10681015/
-
-- Amazon Prime Video gets a vertical short-video feed inspired by TikTok and Netflix
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-prime-video-gets-a-vertical-short-video-feed-inspired-by-tiktok-and-netflix-10680787/
-
-- Apple, Intel reach preliminary chip-making deal: Reports
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-intel-reach-preliminary-chip-making-deal-reports-10680556/
+- Resonance eyes growth revival in offline coaching after debt clean-up
+  KKR-backed Resonance says over 90% of its ARC-led debt resolution is complete.
+  🔗 https://www.livemint.com/companies/start-ups/resonance-eduventures-kota-coaching-debt-resolution-arc-restructuring-acre-kkr-iit-jee-coaching-offline-education-11778382920088.html
 
 - Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill
   Banking groups are floating last-minute changes to a compromise on stablecoin yield. Senate panel
@@ -52,33 +60,37 @@
   Accor India's chairman Gaurav Bhushan said that the luxury hotel sector has significant growth potential. With a focus on domestic travellers, Accor plans to expand its portfolio
   🔗 https://www.livemint.com/companies/news/accor-raises-its-india-play-as-domestic-luxury-demand-reshapes-hotels-11778233558105.html
 
-- Former Wachtell lawyer in insider trading case later worked at investment bank, sources say
-  Former Wachtell lawyer in insider trading case later worked
-  🔗 https://www.livemint.com/companies/former-wachtell-lawyer-in-insider-trading-case-later-worked-at-investment-bank-sources-say-11778266180280.html
+- Mcap of four of top-10 most valued firms erodes by  ₹1 lakh crore
+  Mcap of four of top-10 most valued firms er
+  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-four-of-top-10-most-valued-firms-erodes-by-1-lakh-crore-11778399542236.html
 
-- Musk, Altman Management Styles Come Under Fire at OpenAI Trial
-  Elon Musk and Sam Altman both took a beating over their leadership styles in court testimony this week.
-  🔗 https://www.livemint.com/companies/musk-altman-management-styles-come-under-fire-at-openai-trial-11778265932168.html
+- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war uncertainty?
+  Indian stock market ended the week on Friday. Here's what experts said on how the stock market is likely to perform in the
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-uncertainty-11778392365087.html
 
-- Stock Trader’s Guide to Navigating High Stakes Trump-Xi Talks
-  Investors looking for signs of easing tensions between President Donald Trump and his counterpart Xi Jinping. geopolitical and trade issues in focus.
-  🔗 https://www.livemint.com/market/stock-trader-s-guide-to-navigating-high-stakes-trump-xi-talks-11778374991828.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 11 May 2026
+  The Indian stock ended the week on a weak note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-11-may-2026-11778386797866.html
 
-- Dividend bonanza on Dalal Street! From MRF to SBI, these large-cap companies announce hefty payouts for FY26
-  Strong earnings and cash flows have led Indian companies to announce significant dividends for FY26. Notable payers include MRF Limited, Britannia, and SBI
-  🔗 https://www.livemint.com/market/stock-market-news/dividend-bonanza-on-dalal-street-from-mrf-britannia-to-sbi-these-large-cap-companies-announce-hefty-payouts-for-fy26-11778319977620.html
+- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 11 May 2026
+  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-11-may-2026-11778385426730.html
 
-- Zerodha's Nithin Kamath warns investors against ULIPs, endowment traps; says people keep making the same money mistakes
-  Nithin Kamath critiques the continued popularity of ULIPs and endowment plans among Indian investors. He stresses the importance of financial literacy and ca
-  🔗 https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-warns-investors-against-ulips-endowment-traps-says-people-keep-making-the-same-money-mistakes-11778315036511.html
+- US-Iran war, crude oil prices to Q4 results FY26: Top five triggers that may dictate the Indian stock market this week
+  The Indian stock market closed on a weaker note on Friday. While some of the global triggers continue this week, read on to know what are the fresh
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-war-crude-oil-prices-to-q4-results-fy26-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11778378983202.html
 
-- SBI vs PNB vs BoB: Which PSU bank stock to buy after Q4 results 2026?
-   PSU banking stocks gained attention post Q4 FY26 earnings. Investors are now prioritizing asset quality and margin trends over earnings figures.
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-vs-pnb-vs-bob-which-psu-bank-stock-to-buy-after-q4-results-2026-11778311718110.html
+- How much will iPhone 18 Pro Max cost? Latest leaks hint at Apple’s ‘aggressive’ pricing plans
+  Apple's iPhone 18 Pro lineup is expected to debut at the company's September launch event. Ahead of the event, leaks
+  🔗 https://www.livemint.com/technology/gadgets/how-much-will-iphone-18-pro-cost-latest-leaks-hint-at-apple-s-aggressive-pricing-plans-11778389376848.html
 
-- RBI's ECL framework: HDFC Bank to Axis Bank — experts bet high on these five banking stocks
-  The RBI's Expected Credit Loss framework, effective April 2027, mandates earlier recognition of loan losses. While it may pressure PSU banks initially, it aims to enhance transparency and investor
-  🔗 https://www.livemint.com/market/stock-market-news/rbis-ecl-framework-hdfc-bank-to-axis-bank-experts-bet-high-on-these-five-banking-stocks-11778302501440.html
+- You can now control Google Chrome with OpenAI's Codex: Here's how to set it up
+  OpenAI has launched a new Codex extension for Chrome. It allows users to control the browser via the AI assistant. Codex can be
+  🔗 https://www.livemint.com/technology/tech-news/how-to-control-google-chrome-with-openais-codex-check-step-by-step-guide-11778385114513.html
+
+- Meta quietly removes end-to-end encryption from Instagram: What does it mean for your private DMs?
+  Instagram has discontinued end-to-end encryption on the platform
+  🔗 https://www.livemint.com/technology/tech-news/meta-quietly-removes-end-to-end-encryption-from-instagram-what-does-it-mean-for-your-private-dms-11778379795263.html
 
 - Anthropic fixes its 'evil' AI problem, explains why Claude resorted to blackmail
   Anthropic has revealed why its Claude 4 model resorted to blackmail.
@@ -88,77 +100,105 @@
   Save up to 80% plus 10% HDFC bank discounts during Amazon’s Great Summer Sale 2026.
   🔗 https://www.livemint.com/technology/gadgets/forget-lcd-and-score-a-nice-amoled-smartwatch-at-discount-during-amazon-sale-2026-11778227575640.html
 
-- Nintendo sets Switch 2 price at $499.99, forecasts 16.5 million sales as outlook weakens for new console cycle
-  Nintendo has set Switch 2 US price at $499.99, up $50. Company expects to sell 16.5 million units by FY2027, down from 19.86 million previously.
-  🔗 https://www.livemint.com/technology/nintendo-sets-switch-2-price-at-499-99-forecasts-16-5-million-sales-as-outlook-weakens-for-new-console-cycle-11778228971072.html
+- Sensex to hit 3 lakh by 2036? Raamdeo Agrawal says India is the 'Ferrari' among markets, here's why
+  Motilal Oswal Financial Services Chairman Raamdeo Agrawal said India remains one of the world’s best markets for long-term wealth creation. Speaking at the Groww India Investor Festival 20
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sensex-to-hit-3-lakh-by-2036-raamdeo-agrawal-says-india-is-the-ferrari-among-markets-heres-why/articleshow/130988602.cms
 
-- From Apple Watch to Fitbit Air: Top smartwatches and fitness bands of 2026
-  The top wearable devices of 2026 feature health tracking, AI-backed wellness features, AMOLED displays and long battery life across price segments. From Apple and Samsung smartwatches
-  🔗 https://www.livemint.com/technology/gadgets/from-apple-watch-to-fitbit-air-top-smartwatches-and-fitness-bands-of-2026-11778221871838.html
+- Buying a commercial rental property for income vs investing in REITs
+  Investing in Indian commercial real estate is changing. Direct property ownership requires significant capital and offers limited liquidity. Real Estate Investment Trusts, or REITs, provide an alternative.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/buying-a-commercial-rental-property-for-income-vs-investing-in-reits/articleshow/130988508.cms
 
-- Digital access, cyber security challenges in DPI ecosystem: Nageswaran
-  . DPI
-  🔗 https://www.livemint.com/technology/digital-access-cyber-security-challenges-in-dpi-ecosystem-nageswaran-11778226736781.html
+- Mcap of 4 of top 10 most valued firms erodes by Rs 1 lakh cr; SBI biggest laggard
+  The combined market valuation of four of the top-10 most valued firms eroded by Rs 1 lakh crore last week. State Bank of India took the biggest
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-4-of-top-10-most-valued-firms-erodes-by-rs-1-lakh-cr-sbi-biggest-laggard/articleshow/130988410.cms
 
-- Markets are banking on the ‘Bliss trade’ - Financial Times
-  Markets are banking on the
-  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUkwejh5anliM3pPNE1hZzFzM3ZNTkxBZGdweDdwcmtNdE1ab2lma296UG5OSENmdTN4c1FsMGVVN1VzcHFDSVFqcnFneEdvcnA5V3FaUlRBSFNtSnpxQ1JoR2FoV3lLd1hwZVQ2MDk?oc=5
+- 10 smallcap stocks soaring up to 116% in FY27. Do you own them?
+   Markets have shown recovery since April, with small-cap stocks significantly outperforming benchmarks. Several smallcap gainers have recorded substantial rallies
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/10-smallcap-stocks-soaring-up-to-116-in-fy27-do-you-own-them/slideshow/130988390.cms
 
-- Traders looking for next leg in global stocks rally bet on Asia - Moneycontrol.com
-  " target="_blank">Traders looking
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPa1ZZQWQ2M1BxZjFObFVSeWdLdFBYWVlHUHRWNU5iY1ZldE1SQWdxOFdNWDYwS1NIV003dDY5Z2pWQXVvcHRRTFpSWGYtQ3VJeWQ1b040dlZiVndwbV9zWEkzRk9FSUVISVhMeGs0bWRTanJmbENfU0pZRXd6RzhuX2sxTkFYLVNUbldwaFVZTHM3N0FQWTY4aW1XeS1FWjVQR3Zyb2o3MWtVcWhDWFhIQ21YYkxKb0FGLU5STmx4WTY3LU1F0gHMAUFVX3lxTE43N3Y3a0ROdXdnYU9vRC1ZSnk3N3Nqcy1naGk0MjVSZXpQS0JDUUZ1V0dZODloNXNScnZ3ZnA0T0MxdEVuUWhlbTRZQ2hQMDNBOElzMEk3bjVuMjNEdVMxRUFKQXkyWHh4d0VybEg5RkZwTndMSEt6M3hhWEpFRzVwdVFieGpiZ0pNQ2hXUjM1TnkzRnF6bUJwcHUxUEgxcjlNWF9PZzAwM25xdDdkNFdKZGJCclVVdEk0SVlib212S214bF9hUnRNeDNSSA?oc=5
+- 7 risk management lessons stock market traders can learn from their mothers
+  The article draws parallels between timeless lessons taught by mothers and key principles of successful investing. From diversification and discipline to risk management and learning from mistakes, it highlights how simple habits and emotional control can help
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-risk-management-lessons-stock-market-traders-can-learn-from-their-mothers/articleshow/130987645.cms
 
-- Foreign investor share falls to 14-year low; DII ownership rises sharply to steady markets: Report - The Times of India
-  Foreign investor share falls to 14-year low; DII ownership rises sharply.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQcnhzM2RCV0dvZU1iQlhQXzBwcUJJemdnR1I1U1ZWRFh6Z0E4c19hdkNkcGliMURaLVlDaWZwSXA1OGFVQ2pNRDZ3N0J2LWExZV9BT0NwVXFwSmNUd01GaVI3Umd0YTBGWElHczRVUERyem5CdEF0TlhTb3dvdWtIclNmNmU1bS0za0dyNzlRRVpib050cmI4c0tXRER4Z1dmTy1GUnduVGZVQkhtbUpSNk5YT3BWekp4MVdpXzRISDVfNkZGVkFmYkZjMnVVdkRTUUxNT3lNaGM2OVB1M1RZT25CcW5XcWZSMWZnZ2V4UHdhSWVRekFRcGczWWxPT25kbTVKeVFxbThWUklsRWZv0gGUAkFVX3lxTE9GOXdUYTlFRUc3bWNpdU9wZ0hqcDBHRUQwM2VlUEVKYlBLOUtDWkhVQWFiQjN0TjI5M3lWdXRURS1aa0QwaWFzT200THIzbFI2UHhJUG9RZV81dXJETDk5WVZNZDI1RXBpLWp5blctdzg3bkV6NEVRSEt2M0hNN2wzbUhKRGFDeDF3dWtBVkNOY2UxT3l5ZFhrd2stc0RoZXJFNXdwY3JGeEhxM3lDSV9XWjFqcllpaVNoU0ZVaEwwam43RVIwcU0yNG9QbUFLREx4bjNJdGFGdkk1R2FIZktpU1BxcmhoODdSOXN3Wll4ZWZUVXMydUNxWk54U2JlVEY3UVU2SE94TEMyMUxzYXFrelZyNQ?oc=5
-
-- Markets extend gains amid Middle East tension; Rupee recovers from fresh low - Moneycontrol.com
-  The rupee recovered from a fresh low against the
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS21iYlAwamdvU3BrVWxVQVRLeGwzdkc1eXRFb0tFRVBlNkZPYkhCd0tPd2JxckZnSTgtN3JvUXB2MDZ4VWVWZnNpMzl6ODNuUU05ekg0Zlp2UVVLOS1UcDVNQy1NQnJWRFItUkJqYVhEeFZ4cGZxWURMMWZpZ2k1R3NOaTh5OHFnUkFULTFGZU5BMVBfX2F6MV9DN3BHSFRFRlJYSmRfQ0JIelhtSExFeGFLVVAya0dic0pmcXZZNmVIWlAwUWRHaXg0QTV0Smo0djZlRnJKTdIB3AFBVV95cUxQQ2M5d2JzZnpURWJ1cTRWajBjQVgtVnJ0ZkhEWnhzMmRKamtFejdOcWdXekV1U0t1X2RCWERCOGhJZDI0R25NMWZKRWpjU3FTd3owdDltS0RzQWxVaW9rcDlxSnJBOTdSZVdxQW5aNzVrYmQ5bmFFMEFNU2pOcDMta3pNYng0bENCZnZmak5sZG5TQ1VJc2JLcUhlR25aZFlNc1IydkxuQXJwTXBqOEkyYVdzbFdtUTUwNjY2YS11Nmc2RmxuQUw2ZFR2YzhqTTV0azlXUjVkN0EwNF9f?oc=5
-
-- F&O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, T - The Economic Times
-  The Economic Times: Nifty bulls indecisive but opportunities in broader markets.
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPcVRJaGxwV1dQakktQmtPZjRVamN5Wk9SWEtoR1k3VmE0YmMtZWpYcm1hOFVzZDF5SmRlODJGNGZmcTY4RjRNSzhzNUZNQlh1VGZva3FNUm9nZVk1WHpMNDJHRVdURGhyZVB3cExXNHNLa0lPUnR5SGFuemVCTjBUSGZlUGtPQXB3eHBRdmF5UnVfbmVmemdnUVUtNW9QWjZVOUFpSkJwdUNpWjhKcFk1ZlJqYmNySzFGODdRMHVjNmZBWEpfMy1qTVhaUnNSZ0F1T2VteFBSUHNMV3ZEVnZ2RGZHNFRZeWl4c3JDRzRVekM1aEU0M0lOajJ3b2wzem1ZdjJzeFVyeWNwYzhtTV9RVUtUSEFTNGJuX2xZdk9uUGdnQjTSAagCQVVfeXFMT3VYdV9Ealcya2ZhNUxoNmQ3RWJadm9aQ05VaG1tSnMwSG1fd0xBOHpQd3F1d1Noa0dyaEZDMi1ERU9saWM2U3Y5cE0yQ3hDWUpNdkRQYjdhZlBBQWx6YXVlYlVFRE5aQzhqNVRnTlJpZ0YtNVV5d1VxQVRBQTVUMXMwcFVVWkYtMXBOTEtoMERWelNIMXRQaXNaVXlzR0EwZndlQWVoMzJySVFtVnhnRnJ2VEtaQzM1UU1GaTVEdlpTMEV0ZWVoenRYY2cxOFc5OVhpcTVkcEJoeG9VR0JQZFI2SmtCOE5BcncyTUJuaUZMNDlZTFZWSVN2bkpDT0VLdWduT1RockkxdUZPbGtrTDBsVFdkbkF1U0xTUUdqLWxDZFk0eGFST1Y?oc=5
-
-- Birla Corporation Q4 results: Cons PAT jumps 14% despite marginal revenue uptick; Rs 12.50/share dividend announced
-  Birla Corporation witnessed a robust financial performance, with its March-ended quarter net profit soaring 15% year-on-year to Rs 295 crore. Revenue saw a modest 0.8% increase to Rs 2,836 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/birla-corporation-q4-results-cons-pat-jumps-14-despite-marginal-revenue-uptick-rs-12-50/share-dividend-announced/articleshow/130977031.cms
-
-- Ignore market noise, India’s long-term story intact, say D-Street bulls Ramesh Damani and Sunil Singhania
-  Top investors Ramesh Damani and Sunil Singhania emphasize that India's fundamental growth drivers are strong. Sectors like defence, infrastructure, and energy offer opportunities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ignore-market-noise-indias-long-term-story-intact-say-d-street-bulls-ramesh-damani-and-sunil-singhania/articleshow/130976742.cms
-
-- Global gold ETF demand rebounds USD 6.6 billion in April; India extends inflow streak to 11 months: World Gold Council
-  India recorded positive flows of USD 297 million, marking its 11th consecutive month of inflows. Following notable outflows in March, global physically backed gold ETFs recorded inflows of USD 6.6 billion in April.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/global-gold-etf-demand-rebounds-usd-6-6-billion-in-april-india-extends-inflow-streak-to-11-months-world-gold-council/articleshow/130974858.cms
-
-- F&amp;O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, Tejas and 4 more stocks
-  Indian stock markets experienced a significant downturn on Friday. Geopolitical tensions between the US and Iran, a weakening rupee, and widespread selling in financial stocks contributed
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-bulls-indecisive-but-opportunities-in-broader-markets-sudeep-shahs-strategy-on-voltas-tejas-and-4-more-stocks/articleshow/130974841.cms
-
-- FIIs sell over Rs 2 lakh crore worth of Indian equities in 2026. What lies ahead?
-  Foreign investors continue to sell Indian shares in 2026. They have offloaded equities worth over Rs 2 lakh crore this year. Domestic investors are buying, but markets are falling.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-2-lakh-crore-worth-of-indian-equities-in-2026-what-lies-ahead/articleshow/130974794.cms
+- Two wins, two losses: What India, Pakistan have learned a year after war - Al Jazeera
+  A year after war, India and Pakistan are still at odds
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGUyb0pWZTloNkJGbk41WkgxTjFsN2pRM3FjS3FlNGhFeTh3TVY4U2Y5d1MwZDdwT3lSZUlkNi1wY3U4S0hpSXlCeklnMzc0X2tyZ0hZVEpPYnY1T0VXSmNUaVNYekpZRnlMN24tb1NhTFdldnlrckV1aUVQWXJ5bFhrQ0pqTV9KRkg5d1J0MVctYnNiR0I5NkQ2d3JBNW9tWWxNQjhDUVpOTENXRFh30gG0AUFVX3lxTE9fdHRTeWNub2tMbTdHOWQ4ejNvb0tfd0lpeVkweUlhXzhjQ2RFRWZiSWZvb2JyYUhta0lxZ0NlRDdCejBxMDhOTjhfSlA4VUdpWVpGLVVpOTk2V0N5eV9kemROWXVZT2dWRXp0czZFYmlWYXJzZkdDYkpEN2d4WkRtVzRFVkdLWWRJMV9fRFpjclB2WkdjNEx3dWJDRnlwZ01FdFR1djVQYXp6ZFpDNzAyaDB2Sg?oc=5
 
 - Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
   Vietnam Slated to Order Brah
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
 
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
+- Vijay Makes 'Only 1 Power' Pitch In Tamil Nadu, Thanks DMK Allies For Support - NDTV
+  Vijay makes 'Only 1 Power' Pitch In Tamil
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSHpRc3ZvMmtCS1hpUVFHenlIUS1wTHV2akdoaTdNMTl1WnNITzhVWXlHcXpaVklVN2JkWWJVZ01Cb0pmUm5CeDhoOEdQQ09pVVBMU0l1dFhLeXZuenZPSUdCX2twb3B0eFVEY0VjNG5oQWp0QjgyREhjRHVSYTJIOGhzMEtVZzBVZTJySGgyRTdtTC13RFkzeEZrUUpFQ1ZmWW01bjY4bmpJSmF0NmQ3MmpmSzZpRFYtV0xid0hZNldYUE5LZjhlUDF5NGlkd0p1S1loUVY0T19HNGFxSTNCVzdsYno2SzYwNGtNbmJmRTlMdnQ0cDRYR2VVZ9IBgwJBVV95cUxNcG5HMFlHTkg1bjdCS3IwSmZGT0dOWEFTNTR2T0hCbnJtaHJna202cHh2NHRCV0U5NkVxcHJpMExRbVpIbVpKaVlxM1dDWFQ4RWxSRFNIbHJJUmRMb0dMdDhpZ3VVVnZtU1ZCbDltYWR2RlJ4YTcxZTFIYXAzSWZWUjBzQ1BoRDRjVndlcHpIUW9wZHUyOGZRcVFoUHU1c1UxT1pSRkJuTDk1dXpLYUg3TVJuaVFDbWpKQi1CTnNUWkM5czVoSVl6YnJIRzh5QmhPQ1FTZk5oT1ZydXJXYm5sWU1LUEF2SmZzLU1CQ051VDJDQTlaeEJkQWpZTi1jclRLcmpz?oc=5
 
-- Another lost trekking season in Kashmir - The Times of India
-  Another lost trekking season in Kashmir
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmE3Ynp2NmNDR1JaOTBVMmJyOEV3WmFKeVFiRHpFd3hwcm9zQkFGeEw5Z2hTQU83eVFyVHZ4WEY1UUZFMTJIQTZ5Njl4TmFZeEhOLTJpeXQ0bl9XZFZWcmJCdkdXM3FPWTM3X2lBSWdDb2dXTFFWUjN6TzExcHEwX21PaXFiNV9kN3U0NGF1OXZhNVBzVkZ1YV9NNmgtSEJuNzItbzBlMzBFOTDSAbABQVVfeXFMTXIwU0ZuR1hqUUNCSDMtV3gzbGdyZy0wR0JLODBFZHZEeS11bm94MDFYVUZiNkU3ZHdsa1hmWkJRWUs5SVU2Y3hHRzh2clYzamd3U09BcVl6MUJFQThGWUtVdEhMdDZRTHVTMjF5djVSb2dPcmNlVVB1emRxZmlCUVRNMEpaR1BER0lMTFdaS09ENTRoRXRYS1ctNlNTaFduSFhWMG5LZF9oV08xMURQLVE?oc=5
+- Mother's Day 2026: 5 Cars With Highest Child Safety Rating (BNCAP) Under Rs 20 Lakh In India - NDTV
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3Q1X1hWc0FtZzZfR1hCcTg3cFYzR3hEaVk4N0plQUExYU9Rdm1iaDJJeUFfcEExdXlDRjZQY1c2UjVkR0ZPUjhfdUtscHV0VFJ0cFUyX0RUWFlvbTVIS2tBLVFaeEVTUHJNY0RhLWU5NEJ2M0N4YU8xQkE2aWRreFVHX1VaZG1aNEwydVM4Q0JobUpIRTAxdElCZ1FKdlQwTWE0dU41amlTNTRaNWkzeHNzVExhNlpuc0w1aF9LRU_SAcgBQVVfeXFMTVJwVTlac1l5OWxPQ1l0Wlg4Y01xTUc0b3BiYVNISGlVODgyRDYyOXJTUXJoOFE1aHNLdVU5WnhESXQwRzVwRzVMT1BxVlhsUUpOSnlDX19EMEhlYXh3enBTc1BxMWpybW5KQ0NCb2dFMWpiRmhnMm96czFodDk0THlHRE14bW54d3RCX0xMOW43cVBHMVVFNlFsdDF3V1MtRFY5NmFWRDVWc0tTXzl0TzQ3anc0Z2NQSkE2Zl9TVGREN193ZnNSR0k?oc=5
 
-- Vijay Oath Ceremony LIVE Updates: Vijay To Be Sworn In Today, Rahul Gandhi To Be Present - NDTV
-  Vijay Oath Ceremony LIVE Updates: Vijay To Be Sw
-  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxPZGptYUcxMWRSdExYb0dNeGpaaDdIOS1BV0dUalE0VTc5U01hOXYzYTBZVV9RaHVBSnRtUVdfR2h3RjN0VmstVUp2NkctSE1Ua1loaWFvd3NXRHlmd0ExMnhFUC1Cc0FGRUFqWUp3dVNBa3hsMGdQUF9DVzE1NXBTOFMxOFZCRFFXSkpyZkhIaVhPMUE5dzVna3hndTFaeE43N3ZxV04xUmJaRkw0dzlRNXRSc1AwckVxUXVQb18tVDZUcnZGSGlLZ2t2QUJmTTRzWHA2VlJnR01nRGkzWURselkxeDhSN1gxRDVNRFpvWnEyQm5KdWdlZl9SUHRUYnhHcXVRN1lNZmM2RDhSUWRvU2hQc0o0d9IBngJBVV95cUxOVkJkUnBhRGJQSUpqV1d0TTlYX0ptUGh3SFEza2kybU5JQlR2dHRnREdXNFhWZ0M5cUZMSmJaYXlWaTJnTHhRT1d6R3lPbUl0a3dwMmpBYUhJSFFfZTA1UEN1b0hUOUNId2FjbWhYQ0NlUE9SZl9yMDl3dERWZlhPSkNVbUhFdWlfSDFjWmhwbjVVbFQwZXdiSW9nLWxieklUVVR3N1FtMWdtejNiTVlBSThWZS11UXZJa1pvZXh3c09BSnU3Yk5ZbGV0NEF4UUY1Uk13alFzNGRlWDd6MTVZR2hQazBuWVpkTWh3LWRlR0U3REZsMnd1d3pyd0xrRk1YVHAwOGNYQnkyYklvcmFFMFJFS0EtQ2V3VldSVmVR?oc=5
+- News On AIR | May 10, 2026 8:47 AM - News On AIR
+  News On AIR is a weekly news program on
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR3lZS1NkZVVGYVFqT01yb0VYOTlBb1pkd2lKcFcwRmt3cGM4bWxKTzBobFdjQnZ4cXdpZGxHNjFkWkxXZGZFNmJsTjY2RHRrWEpUTlB3azFGVzNnTmt0WlJvLUg4NGFYM29CSm9nYUNoMzIwSF9rQUZUVFl0VDFoWGVnb0FldmNUSzdtaHNoSWM5VHVJVGJNSk5CUDEwd2Jlem5Gdk11bzk1M0JNSDB2XzZDTFo3aFIxaF9vLWJpUXBpNEFTdFU0aC1STHEtdk01dmtYS1pR?oc=5
 
-- "MK Stalin Persuaded Allies": DMK On How Vijay Got A Majority - NDTV
-  "MK Stalin Persuaded Allies": DM
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFBkWWFqYXFhUUJhSUp3aEdGM2NxRXZ6Mzd0eEVNb251Vnc5d2Zpb190ejlITE1lVzdIWVFKR2hTLUJ3VnNPeE1hdDh0elBMTnRNYWt0WWxuRVpacjdJODdZQ0hmNjI1TEpkVHZ4YWw1bVpzY0M5V01GSVdWbU5fNUpZTXREVEIwbmNhd2E3bV94clRSQ19PdkR0dzE3WjNna2ZkbUozdzRqOXA1aFRPNjlCM0xCejdxRnBoNnJrQWtlY1BYMm1iU0E4a01mTVZLRkHSAdoBQVVfeXFMUHNPZVJNei1zZDJGanktb2huZXJhWGFDNkdsNm83N2lKMFZPLW03bWtZZEJxMWlYcjI0NmQyR0l5a2Q1N0VVZ2FWVTJyQlc4MUJySkRXQnJIWWduRXpNdWd6cnZ4Q2t4dkJ5UWZ2RFcyd1MxVk1VY204a1l1eUUyZURIMEZ3Mll2cEZBRVNkNWFua3ZiT0JxUF8tQ09ET2MzYmdNQTJ0VVZHazFTNFBlWnpiNEduVUdUcXJ2aVhKTG96T2VxX0xhSHBYbl8wVFFOMVcwRmczblZhNXc?oc=5
+- Two wins, two losses: What India, Pakistan have learned a year after war - Al Jazeera
+  A year after war, India and Pakistan are still at odds
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGUyb0pWZTloNkJGbk41WkgxTjFsN2pRM3FjS3FlNGhFeTh3TVY4U2Y5d1MwZDdwT3lSZUlkNi1wY3U4S0hpSXlCeklnMzc0X2tyZ0hZVEpPYnY1T0VXSmNUaVNYekpZRnlMN24tb1NhTFdldnlrckV1aUVQWXJ5bFhrQ0pqTV9KRkg5d1J0MVctYnNiR0I5NkQ2d3JBNW9tWWxNQjhDUVpOTENXRFh30gG0AUFVX3lxTE9fdHRTeWNub2tMbTdHOWQ4ejNvb0tfd0lpeVkweUlhXzhjQ2RFRWZiSWZvb2JyYUhta0lxZ0NlRDdCejBxMDhOTjhfSlA4VUdpWVpGLVVpOTk2V0N5eV9kemROWXVZT2dWRXp0czZFYmlWYXJzZkdDYkpEN2d4WkRtVzRFVkdLWWRJMV9fRFpjclB2WkdjNEx3dWJDRnlwZ01FdFR1djVQYXp6ZFpDNzAyaDB2Sg?oc=5
+
+- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
+  Vietnam Slated to Order Brah
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
+
+- Vijay Makes 'Only 1 Power' Pitch In Tamil Nadu, Thanks DMK Allies For Support - NDTV
+  Vijay makes 'Only 1 Power' Pitch In Tamil
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSHpRc3ZvMmtCS1hpUVFHenlIUS1wTHV2akdoaTdNMTl1WnNITzhVWXlHcXpaVklVN2JkWWJVZ01Cb0pmUm5CeDhoOEdQQ09pVVBMU0l1dFhLeXZuenZPSUdCX2twb3B0eFVEY0VjNG5oQWp0QjgyREhjRHVSYTJIOGhzMEtVZzBVZTJySGgyRTdtTC13RFkzeEZrUUpFQ1ZmWW01bjY4bmpJSmF0NmQ3MmpmSzZpRFYtV0xid0hZNldYUE5LZjhlUDF5NGlkd0p1S1loUVY0T19HNGFxSTNCVzdsYno2SzYwNGtNbmJmRTlMdnQ0cDRYR2VVZ9IBgwJBVV95cUxNcG5HMFlHTkg1bjdCS3IwSmZGT0dOWEFTNTR2T0hCbnJtaHJna202cHh2NHRCV0U5NkVxcHJpMExRbVpIbVpKaVlxM1dDWFQ4RWxSRFNIbHJJUmRMb0dMdDhpZ3VVVnZtU1ZCbDltYWR2RlJ4YTcxZTFIYXAzSWZWUjBzQ1BoRDRjVndlcHpIUW9wZHUyOGZRcVFoUHU1c1UxT1pSRkJuTDk1dXpLYUg3TVJuaVFDbWpKQi1CTnNUWkM5czVoSVl6YnJIRzh5QmhPQ1FTZk5oT1ZydXJXYm5sWU1LUEF2SmZzLU1CQ051VDJDQTlaeEJkQWpZTi1jclRLcmpz?oc=5
+
+- Mother's Day 2026: 5 Cars With Highest Child Safety Rating (BNCAP) Under Rs 20 Lakh In India - NDTV
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3Q1X1hWc0FtZzZfR1hCcTg3cFYzR3hEaVk4N0plQUExYU9Rdm1iaDJJeUFfcEExdXlDRjZQY1c2UjVkR0ZPUjhfdUtscHV0VFJ0cFUyX0RUWFlvbTVIS2tBLVFaeEVTUHJNY0RhLWU5NEJ2M0N4YU8xQkE2aWRreFVHX1VaZG1aNEwydVM4Q0JobUpIRTAxdElCZ1FKdlQwTWE0dU41amlTNTRaNWkzeHNzVExhNlpuc0w1aF9LRU_SAcgBQVVfeXFMTVJwVTlac1l5OWxPQ1l0Wlg4Y01xTUc0b3BiYVNISGlVODgyRDYyOXJTUXJoOFE1aHNLdVU5WnhESXQwRzVwRzVMT1BxVlhsUUpOSnlDX19EMEhlYXh3enBTc1BxMWpybW5KQ0NCb2dFMWpiRmhnMm96czFodDk0THlHRE14bW54d3RCX0xMOW43cVBHMVVFNlFsdDF3V1MtRFY5NmFWRDVWc0tTXzl0TzQ3anc0Z2NQSkE2Zl9TVGREN193ZnNSR0k?oc=5
+
+- News On AIR | May 10, 2026 8:47 AM - News On AIR
+  News On AIR is a weekly news program on
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR3lZS1NkZVVGYVFqT01yb0VYOTlBb1pkd2lKcFcwRmt3cGM4bWxKTzBobFdjQnZ4cXdpZGxHNjFkWkxXZGZFNmJsTjY2RHRrWEpUTlB3azFGVzNnTmt0WlJvLUg4NGFYM29CSm9nYUNoMzIwSF9rQUZUVFl0VDFoWGVnb0FldmNUSzdtaHNoSWM5VHVJVGJNSk5CUDEwd2Jlem5Gdk11bzk1M0JNSDB2XzZDTFo3aFIxaF9vLWJpUXBpNEFTdFU0aC1STHEtdk01dmtYS1pR?oc=5
+
+- Two wins, two losses: What India, Pakistan have learned a year after war - Al Jazeera
+  A year after war, India and Pakistan are still at odds
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGUyb0pWZTloNkJGbk41WkgxTjFsN2pRM3FjS3FlNGhFeTh3TVY4U2Y5d1MwZDdwT3lSZUlkNi1wY3U4S0hpSXlCeklnMzc0X2tyZ0hZVEpPYnY1T0VXSmNUaVNYekpZRnlMN24tb1NhTFdldnlrckV1aUVQWXJ5bFhrQ0pqTV9KRkg5d1J0MVctYnNiR0I5NkQ2d3JBNW9tWWxNQjhDUVpOTENXRFh30gG0AUFVX3lxTE9fdHRTeWNub2tMbTdHOWQ4ejNvb0tfd0lpeVkweUlhXzhjQ2RFRWZiSWZvb2JyYUhta0lxZ0NlRDdCejBxMDhOTjhfSlA4VUdpWVpGLVVpOTk2V0N5eV9kemROWXVZT2dWRXp0czZFYmlWYXJzZkdDYkpEN2d4WkRtVzRFVkdLWWRJMV9fRFpjclB2WkdjNEx3dWJDRnlwZ01FdFR1djVQYXp6ZFpDNzAyaDB2Sg?oc=5
+
+- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
+  Vietnam Slated to Order Brah
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
+
+- Vijay Makes 'Only 1 Power' Pitch In Tamil Nadu, Thanks DMK Allies For Support - NDTV
+  Vijay makes 'Only 1 Power' Pitch In Tamil
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSHpRc3ZvMmtCS1hpUVFHenlIUS1wTHV2akdoaTdNMTl1WnNITzhVWXlHcXpaVklVN2JkWWJVZ01Cb0pmUm5CeDhoOEdQQ09pVVBMU0l1dFhLeXZuenZPSUdCX2twb3B0eFVEY0VjNG5oQWp0QjgyREhjRHVSYTJIOGhzMEtVZzBVZTJySGgyRTdtTC13RFkzeEZrUUpFQ1ZmWW01bjY4bmpJSmF0NmQ3MmpmSzZpRFYtV0xid0hZNldYUE5LZjhlUDF5NGlkd0p1S1loUVY0T19HNGFxSTNCVzdsYno2SzYwNGtNbmJmRTlMdnQ0cDRYR2VVZ9IBgwJBVV95cUxNcG5HMFlHTkg1bjdCS3IwSmZGT0dOWEFTNTR2T0hCbnJtaHJna202cHh2NHRCV0U5NkVxcHJpMExRbVpIbVpKaVlxM1dDWFQ4RWxSRFNIbHJJUmRMb0dMdDhpZ3VVVnZtU1ZCbDltYWR2RlJ4YTcxZTFIYXAzSWZWUjBzQ1BoRDRjVndlcHpIUW9wZHUyOGZRcVFoUHU1c1UxT1pSRkJuTDk1dXpLYUg3TVJuaVFDbWpKQi1CTnNUWkM5czVoSVl6YnJIRzh5QmhPQ1FTZk5oT1ZydXJXYm5sWU1LUEF2SmZzLU1CQ051VDJDQTlaeEJkQWpZTi1jclRLcmpz?oc=5
+
+- Mother's Day 2026: 5 Cars With Highest Child Safety Rating (BNCAP) Under Rs 20 Lakh In India - NDTV
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3Q1X1hWc0FtZzZfR1hCcTg3cFYzR3hEaVk4N0plQUExYU9Rdm1iaDJJeUFfcEExdXlDRjZQY1c2UjVkR0ZPUjhfdUtscHV0VFJ0cFUyX0RUWFlvbTVIS2tBLVFaeEVTUHJNY0RhLWU5NEJ2M0N4YU8xQkE2aWRreFVHX1VaZG1aNEwydVM4Q0JobUpIRTAxdElCZ1FKdlQwTWE0dU41amlTNTRaNWkzeHNzVExhNlpuc0w1aF9LRU_SAcgBQVVfeXFMTVJwVTlac1l5OWxPQ1l0Wlg4Y01xTUc0b3BiYVNISGlVODgyRDYyOXJTUXJoOFE1aHNLdVU5WnhESXQwRzVwRzVMT1BxVlhsUUpOSnlDX19EMEhlYXh3enBTc1BxMWpybW5KQ0NCb2dFMWpiRmhnMm96czFodDk0THlHRE14bW54d3RCX0xMOW43cVBHMVVFNlFsdDF3V1MtRFY5NmFWRDVWc0tTXzl0TzQ3anc0Z2NQSkE2Zl9TVGREN193ZnNSR0k?oc=5
+
+- News On AIR | May 10, 2026 8:47 AM - News On AIR
+  News On AIR is a weekly news program on
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR3lZS1NkZVVGYVFqT01yb0VYOTlBb1pkd2lKcFcwRmt3cGM4bWxKTzBobFdjQnZ4cXdpZGxHNjFkWkxXZGZFNmJsTjY2RHRrWEpUTlB3azFGVzNnTmt0WlJvLUg4NGFYM29CSm9nYUNoMzIwSF9rQUZUVFl0VDFoWGVnb0FldmNUSzdtaHNoSWM5VHVJVGJNSk5CUDEwd2Jlem5Gdk11bzk1M0JNSDB2XzZDTFo3aFIxaF9vLWJpUXBpNEFTdFU0aC1STHEtdk01dmtYS1pR?oc=5
+
+- Two wins, two losses: What India, Pakistan have learned a year after war - Al Jazeera
+  A year after war, India and Pakistan are still at odds
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGUyb0pWZTloNkJGbk41WkgxTjFsN2pRM3FjS3FlNGhFeTh3TVY4U2Y5d1MwZDdwT3lSZUlkNi1wY3U4S0hpSXlCeklnMzc0X2tyZ0hZVEpPYnY1T0VXSmNUaVNYekpZRnlMN24tb1NhTFdldnlrckV1aUVQWXJ5bFhrQ0pqTV9KRkg5d1J0MVctYnNiR0I5NkQ2d3JBNW9tWWxNQjhDUVpOTENXRFh30gG0AUFVX3lxTE9fdHRTeWNub2tMbTdHOWQ4ejNvb0tfd0lpeVkweUlhXzhjQ2RFRWZiSWZvb2JyYUhta0lxZ0NlRDdCejBxMDhOTjhfSlA4VUdpWVpGLVVpOTk2V0N5eV9kemROWXVZT2dWRXp0czZFYmlWYXJzZkdDYkpEN2d4WkRtVzRFVkdLWWRJMV9fRFpjclB2WkdjNEx3dWJDRnlwZ01FdFR1djVQYXp6ZFpDNzAyaDB2Sg?oc=5
+
+- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
+  Vietnam Slated to Order Brah
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
+
+- Vijay Makes 'Only 1 Power' Pitch In Tamil Nadu, Thanks DMK Allies For Support - NDTV
+  Vijay makes 'Only 1 Power' Pitch In Tamil
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSHpRc3ZvMmtCS1hpUVFHenlIUS1wTHV2akdoaTdNMTl1WnNITzhVWXlHcXpaVklVN2JkWWJVZ01Cb0pmUm5CeDhoOEdQQ09pVVBMU0l1dFhLeXZuenZPSUdCX2twb3B0eFVEY0VjNG5oQWp0QjgyREhjRHVSYTJIOGhzMEtVZzBVZTJySGgyRTdtTC13RFkzeEZrUUpFQ1ZmWW01bjY4bmpJSmF0NmQ3MmpmSzZpRFYtV0xid0hZNldYUE5LZjhlUDF5NGlkd0p1S1loUVY0T19HNGFxSTNCVzdsYno2SzYwNGtNbmJmRTlMdnQ0cDRYR2VVZ9IBgwJBVV95cUxNcG5HMFlHTkg1bjdCS3IwSmZGT0dOWEFTNTR2T0hCbnJtaHJna202cHh2NHRCV0U5NkVxcHJpMExRbVpIbVpKaVlxM1dDWFQ4RWxSRFNIbHJJUmRMb0dMdDhpZ3VVVnZtU1ZCbDltYWR2RlJ4YTcxZTFIYXAzSWZWUjBzQ1BoRDRjVndlcHpIUW9wZHUyOGZRcVFoUHU1c1UxT1pSRkJuTDk1dXpLYUg3TVJuaVFDbWpKQi1CTnNUWkM5czVoSVl6YnJIRzh5QmhPQ1FTZk5oT1ZydXJXYm5sWU1LUEF2SmZzLU1CQ051VDJDQTlaeEJkQWpZTi1jclRLcmpz?oc=5
+
+- Mother's Day 2026: 5 Cars With Highest Child Safety Rating (BNCAP) Under Rs 20 Lakh In India - NDTV
+  &nbsp;&ngt;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3Q1X1hWc0FtZzZfR1hCcTg3cFYzR3hEaVk4N0plQUExYU9Rdm1iaDJJeUFfcEExdXlDRjZQY1c2UjVkR0ZPUjhfdUtscHV0VFJ0cFUyX0RUWFlvbTVIS2tBLVFaeEVTUHJNY0RhLWU5NEJ2M0N4YU8xQkE2aWRreFVHX1VaZG1aNEwydVM4Q0JobUpIRTAxdElCZ1FKdlQwTWE0dU41amlTNTRaNWkzeHNzVExhNlpuc0w1aF9LRU_SAcgBQVVfeXFMTVJwVTlac1l5OWxPQ1l0Wlg4Y01xTUc0b3BiYVNISGlVODgyRDYyOXJTUXJoOFE1aHNLdVU5WnhESXQwRzVwRzVMT1BxVlhsUUpOSnlDX19EMEhlYXh3enBTc1BxMWpybW5KQ0NCb2dFMWpiRmhnMm96czFodDk0THlHRE14bW54d3RCX0xMOW43cVBHMVVFNlFsdDF3V1MtRFY5NmFWRDVWc0tTXzl0TzQ3anc0Z2NQSkE2Zl9TVGREN193ZnNSR0k?oc=5
+
+- News On AIR | May 10, 2026 8:47 AM - News On AIR
+  News On AIR is a weekly news program on
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR3lZS1NkZVVGYVFqT01yb0VYOTlBb1pkd2lKcFcwRmt3cGM4bWxKTzBobFdjQnZ4cXdpZGxHNjFkWkxXZGZFNmJsTjY2RHRrWEpUTlB3azFGVzNnTmt0WlJvLUg4NGFYM29CSm9nYUNoMzIwSF9rQUZUVFl0VDFoWGVnb0FldmNUSzdtaHNoSWM5VHVJVGJNSk5CUDEwd2Jlem5Gdk11bzk1M0JNSDB2XzZDTFo3aFIxaF9vLWJpUXBpNEFTdFU0aC1STHEtdk01dmtYS1pR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-10 02:33:39 UTC_
+_Last updated: 2026-05-10 08:06:11 UTC_
