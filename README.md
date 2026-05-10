@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Vijay to take oath as Tamil Nadu Chief Minister, eight-member cabinet likely to join him
+- Goan chef aboard cruise ship linked to hantavirus outbreak says no one is symptomatic
   
-  🔗 https://indianexpress.com/article/india/vijay-oath-tamil-nadu-chief-minister-eight-member-cabinet-10681572/
+  🔗 https://indianexpress.com/article/india/goan-chef-aboard-cruise-ship-linked-to-hantavirus-outbreak-says-no-one-is-symptomatic-10681628/
 
-- ‘Perfectionist with keen eye for detail’: Meet Vice Admiral Swaminathan who is set to be the next Navy Chief
+- Teacher who shared Urdu poem as WhatsApp status booked. Madhya Pradesh HC comes to his rescue
   
-  🔗 https://indianexpress.com/article/india/vice-admiral-krishna-swaminathan-next-indian-navy-chief-profile-10681494/
+  🔗 https://indianexpress.com/article/india/teacher-who-shared-urdu-poem-as-whatsapp-status-booked-madhya-pradesh-hc-comes-to-his-rescue-10681626/
 
-- 10 demolitions in 10 days: J-K minister slams police for ‘bulldozing’ houses over ‘drug peddling’ charges
+- Misri’s proposed Kathmandu visit deferred for now; India invites Nepal for big cat summit
   
-  🔗 https://indianexpress.com/article/india/10-demolitions-in-10-days-j-k-minister-slams-police-for-bulldozing-houses-over-drug-peddling-charges-10681457/
+  🔗 https://indianexpress.com/article/india/misris-proposed-kathmandu-visit-deferred-for-now-india-invites-nepal-for-big-cat-summit-10681731/
 
-- Back to Raj Bhavan for Vijay, this time with 120 MLAs
+- From ground to the skies: How drones are reshaping operations along borders
   
-  🔗 https://indianexpress.com/article/india/back-to-raj-bhavan-for-vijay-this-time-with-120-mlas-10681470/
+  🔗 https://indianexpress.com/article/india/from-ground-to-the-skies-how-drones-are-reshaping-operations-along-borders-10681619/
 
-- ‘Abducted’ amid attack on village near Myanmar border, Manipur woman freed 2 days later
+- Modi to visit 4 Europe nations: Energy security a key priority, UAE stopover added to his itinerary
   
-  🔗 https://indianexpress.com/article/india/manipur-border-violence-abducted-woman-released-10681308/
+  🔗 https://indianexpress.com/article/india/energy-security-a-key-priority-uae-stopover-added-to-pm-modis-itinerary-10681629/
 
 - How 4 Indian directors used iPhone 17 Pro Max to create this year’s most talked-about shorts at MAMI
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-intel-reach-preliminary-chip-making-deal-reports-10680556/
 
+- Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill
+  Banking groups are floating last-minute changes to a compromise on stablecoin yield. Senate panel
+  🔗 https://www.livemint.com/companies/banks-and-crypto-backers-tussle-as-senators-eye-landmark-digital-asset-bill-11778371965397.html
+
 - Jupiter Wagons eyes global expansion with BESS, wagon exports
   Jupiter Wagons aims to double revenues by 2028-
   🔗 https://www.livemint.com/companies/jupiter-wagons-global-expansion-bess-wheelsets-freight-wagons-passenger-coaches-metro-trains-11778232465384.html
@@ -56,9 +60,9 @@
   Elon Musk and Sam Altman both took a beating over their leadership styles in court testimony this week.
   🔗 https://www.livemint.com/companies/musk-altman-management-styles-come-under-fire-at-openai-trial-11778265932168.html
 
-- Biosimilar ramp-up to drive growth for Biocon in FY27
-  Biosimilars across markets have begun scaling up and will gather momentum through the year, particularly in the second half
-  🔗 https://www.livemint.com/companies/biocon-growth-strategy-biosimilars-launches-profitability-margins-fy27-outlook-11778247774835.html
+- Stock Trader’s Guide to Navigating High Stakes Trump-Xi Talks
+  Investors looking for signs of easing tensions between President Donald Trump and his counterpart Xi Jinping. geopolitical and trade issues in focus.
+  🔗 https://www.livemint.com/market/stock-trader-s-guide-to-navigating-high-stakes-trump-xi-talks-11778374991828.html
 
 - Dividend bonanza on Dalal Street! From MRF to SBI, these large-cap companies announce hefty payouts for FY26
   Strong earnings and cash flows have led Indian companies to announce significant dividends for FY26. Notable payers include MRF Limited, Britannia, and SBI
@@ -76,9 +80,9 @@
   The RBI's Expected Credit Loss framework, effective April 2027, mandates earlier recognition of loan losses. While it may pressure PSU banks initially, it aims to enhance transparency and investor
   🔗 https://www.livemint.com/market/stock-market-news/rbis-ecl-framework-hdfc-bank-to-axis-bank-experts-bet-high-on-these-five-banking-stocks-11778302501440.html
 
-- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
-  BSE Sensex and NSE Nifty ended lower on May 8 but closed the week with gains. The Nifty rose 1%, while broader markets outperformed, with Mid
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11778299181250.html
+- Anthropic fixes its 'evil' AI problem, explains why Claude resorted to blackmail
+  Anthropic has revealed why its Claude 4 model resorted to blackmail.
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-fixes-its-evil-ai-problem-explains-why-claude-resorted-to-blackmail-11778374151053.html
 
 - Forget LCD and score a nice AMOLED smartwatch at discount during Amazon Sale 2026
   Save up to 80% plus 10% HDFC bank discounts during Amazon’s Great Summer Sale 2026.
@@ -96,29 +100,25 @@
   . DPI
   🔗 https://www.livemint.com/technology/digital-access-cyber-security-challenges-in-dpi-ecosystem-nageswaran-11778226736781.html
 
-- Amazon reports cloud outage at North Virginia data centre; CME, Coinbase face trading issues
-  AWS said its issue stemmed from increased
-  🔗 https://www.livemint.com/technology/amazon-reports-cloud-outage-at-north-virginia-data-centre-cme-coinbase-face-trading-issues-11778220552164.html
-
 - Markets are banking on the ‘Bliss trade’ - Financial Times
   Markets are banking on the
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUkwejh5anliM3pPNE1hZzFzM3ZNTkxBZGdweDdwcmtNdE1ab2lma296UG5OSENmdTN4c1FsMGVVN1VzcHFDSVFqcnFneEdvcnA5V3FaUlRBSFNtSnpxQ1JoR2FoV3lLd1hwZVQ2MDk?oc=5
 
-- Seven markets to track if peace breaks out in the Middle East - Reuters
-  Seven markets to track if peace breaks out in the
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQejhMNzlOZXh6MFZiS0ZSSk1QbXVFTTNrQUpJaWNHRnNkZlhBNlNTMzgzSHlRckVVd2JlSENESGRUbjJmbFd1RkQ5b2pBVC1yTERrdWVxQkZvYXlKWmZRMUxTd3JtdGFuMnpuVGZDdjNKRHpFTHE0Qlg2dU16V050WHJPWFg1Q3M2Y3JSUlB3RU9uY3FicllpME1XRQ?oc=5
-
-- FIIs may be selling, Indian markets aren’t 'broken': Ramesh Damani on India's long-term opportunity - Moneycontrol.com
-  &nbsp; “Moneycontrol.com�
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQandkOHdIbG9CTVNYdklJOVVnZUJIZG5SQ21IbnVJNXdjakxNWWw2bEFVTGp1TzJncHQ4QndfS0hiSGJnR3VJYUk1ZmpWdVl6SXpWQWx1T2ZaM3N5Q1hOUnhUYUhNaEV2NWFLVUVIUkYyQjBLbUVORE9JVEVnQ2F0aklNLXNsblIyeF8weDRtcW92aUFiaVctdFFlRUpCSTdXU29VZ0RLYng0NVAwc0lyZ3RnNnFKMDdfX3h4N2IwUjBiUXF0MXJRNHdibUhPRnZwYUMwalRlUjZNWHluTkhjbFdlU0FycU8xeDJhcGQ3N0NIUdIB9wFBVV95cUxPeE5JNUpuOFZkX29nczZTXzUtM1YxRGt4NDd3QUlHN3lrWUJkMHdLdml1VW56bFdlVVI3NjlzRS1TTUJSRFRWb1pxWHV5ME14RENWRnRkTGFOeVVrX2ltN1VBVVpHUjZMZWFzZ1V6MHkyMzh6ek9ucTJuSTd3UkZaVTIwUDA1ZjFFc0l3RWl1TW1zR1VnUkNWQXdEVklnY3dSQUF2dzRtRnVRY2Nncm1ZS0hxdlJ6ZHF2M04tZzUteUR4QWFLN3BqekFORWY5ZmZxS0RuRWNteEZyQ0hRZkVFZ1NISGh0SlVSZk00dkpoOVA1VkROUmkw?oc=5
-
-- F&O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, T - The Economic Times
-  The Economic Times: Nifty bulls indecisive but opportunities in broader markets.
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPcVRJaGxwV1dQakktQmtPZjRVamN5Wk9SWEtoR1k3VmE0YmMtZWpYcm1hOFVzZDF5SmRlODJGNGZmcTY4RjRNSzhzNUZNQlh1VGZva3FNUm9nZVk1WHpMNDJHRVdURGhyZVB3cExXNHNLa0lPUnR5SGFuemVCTjBUSGZlUGtPQXB3eHBRdmF5UnVfbmVmemdnUVUtNW9QWjZVOUFpSkJwdUNpWjhKcFk1ZlJqYmNySzFGODdRMHVjNmZBWEpfMy1qTVhaUnNSZ0F1T2VteFBSUHNMV3ZEVnZ2RGZHNFRZeWl4c3JDRzRVekM1aEU0M0lOajJ3b2wzem1ZdjJzeFVyeWNwYzhtTV9RVUtUSEFTNGJuX2xZdk9uUGdnQjTSAagCQVVfeXFMT3VYdV9Ealcya2ZhNUxoNmQ3RWJadm9aQ05VaG1tSnMwSG1fd0xBOHpQd3F1d1Noa0dyaEZDMi1ERU9saWM2U3Y5cE0yQ3hDWUpNdkRQYjdhZlBBQWx6YXVlYlVFRE5aQzhqNVRnTlJpZ0YtNVV5d1VxQVRBQTVUMXMwcFVVWkYtMXBOTEtoMERWelNIMXRQaXNaVXlzR0EwZndlQWVoMzJySVFtVnhnRnJ2VEtaQzM1UU1GaTVEdlpTMEV0ZWVoenRYY2cxOFc5OVhpcTVkcEJoeG9VR0JQZFI2SmtCOE5BcncyTUJuaUZMNDlZTFZWSVN2bkpDT0VLdWduT1RockkxdUZPbGtrTDBsVFdkbkF1U0xTUUdqLWxDZFk0eGFST1Y?oc=5
+- Traders looking for next leg in global stocks rally bet on Asia - Moneycontrol.com
+  " target="_blank">Traders looking
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRPa1ZZQWQ2M1BxZjFObFVSeWdLdFBYWVlHUHRWNU5iY1ZldE1SQWdxOFdNWDYwS1NIV003dDY5Z2pWQXVvcHRRTFpSWGYtQ3VJeWQ1b040dlZiVndwbV9zWEkzRk9FSUVISVhMeGs0bWRTanJmbENfU0pZRXd6RzhuX2sxTkFYLVNUbldwaFVZTHM3N0FQWTY4aW1XeS1FWjVQR3Zyb2o3MWtVcWhDWFhIQ21YYkxKb0FGLU5STmx4WTY3LU1F0gHMAUFVX3lxTE43N3Y3a0ROdXdnYU9vRC1ZSnk3N3Nqcy1naGk0MjVSZXpQS0JDUUZ1V0dZODloNXNScnZ3ZnA0T0MxdEVuUWhlbTRZQ2hQMDNBOElzMEk3bjVuMjNEdVMxRUFKQXkyWHh4d0VybEg5RkZwTndMSEt6M3hhWEpFRzVwdVFieGpiZ0pNQ2hXUjM1TnkzRnF6bUJwcHUxUEgxcjlNWF9PZzAwM25xdDdkNFdKZGJCclVVdEk0SVlib212S214bF9hUnRNeDNSSA?oc=5
 
 - Foreign investor share falls to 14-year low; DII ownership rises sharply to steady markets: Report - The Times of India
   Foreign investor share falls to 14-year low; DII ownership rises sharply.
   🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQcnhzM2RCV0dvZU1iQlhQXzBwcUJJemdnR1I1U1ZWRFh6Z0E4c19hdkNkcGliMURaLVlDaWZwSXA1OGFVQ2pNRDZ3N0J2LWExZV9BT0NwVXFwSmNUd01GaVI3Umd0YTBGWElHczRVUERyem5CdEF0TlhTb3dvdWtIclNmNmU1bS0za0dyNzlRRVpib050cmI4c0tXRER4Z1dmTy1GUnduVGZVQkhtbUpSNk5YT3BWekp4MVdpXzRISDVfNkZGVkFmYkZjMnVVdkRTUUxNT3lNaGM2OVB1M1RZT25CcW5XcWZSMWZnZ2V4UHdhSWVRekFRcGczWWxPT25kbTVKeVFxbThWUklsRWZv0gGUAkFVX3lxTE9GOXdUYTlFRUc3bWNpdU9wZ0hqcDBHRUQwM2VlUEVKYlBLOUtDWkhVQWFiQjN0TjI5M3lWdXRURS1aa0QwaWFzT200THIzbFI2UHhJUG9RZV81dXJETDk5WVZNZDI1RXBpLWp5blctdzg3bkV6NEVRSEt2M0hNN2wzbUhKRGFDeDF3dWtBVkNOY2UxT3l5ZFhrd2stc0RoZXJFNXdwY3JGeEhxM3lDSV9XWjFqcllpaVNoU0ZVaEwwam43RVIwcU0yNG9QbUFLREx4bjNJdGFGdkk1R2FIZktpU1BxcmhoODdSOXN3Wll4ZWZUVXMydUNxWk54U2JlVEY3UVU2SE94TEMyMUxzYXFrelZyNQ?oc=5
+
+- Markets extend gains amid Middle East tension; Rupee recovers from fresh low - Moneycontrol.com
+  The rupee recovered from a fresh low against the
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS21iYlAwamdvU3BrVWxVQVRLeGwzdkc1eXRFb0tFRVBlNkZPYkhCd0tPd2JxckZnSTgtN3JvUXB2MDZ4VWVWZnNpMzl6ODNuUU05ekg0Zlp2UVVLOS1UcDVNQy1NQnJWRFItUkJqYVhEeFZ4cGZxWURMMWZpZ2k1R3NOaTh5OHFnUkFULTFGZU5BMVBfX2F6MV9DN3BHSFRFRlJYSmRfQ0JIelhtSExFeGFLVVAya0dic0pmcXZZNmVIWlAwUWRHaXg0QTV0Smo0djZlRnJKTdIB3AFBVV95cUxQQ2M5d2JzZnpURWJ1cTRWajBjQVgtVnJ0ZkhEWnhzMmRKamtFejdOcWdXekV1U0t1X2RCWERCOGhJZDI0R25NMWZKRWpjU3FTd3owdDltS0RzQWxVaW9rcDlxSnJBOTdSZVdxQW5aNzVrYmQ5bmFFMEFNU2pOcDMta3pNYng0bENCZnZmak5sZG5TQ1VJc2JLcUhlR25aZFlNc1IydkxuQXJwTXBqOEkyYVdzbFdtUTUwNjY2YS11Nmc2RmxuQUw2ZFR2YzhqTTV0azlXUjVkN0EwNF9f?oc=5
+
+- F&O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, T - The Economic Times
+  The Economic Times: Nifty bulls indecisive but opportunities in broader markets.
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPcVRJaGxwV1dQakktQmtPZjRVamN5Wk9SWEtoR1k3VmE0YmMtZWpYcm1hOFVzZDF5SmRlODJGNGZmcTY4RjRNSzhzNUZNQlh1VGZva3FNUm9nZVk1WHpMNDJHRVdURGhyZVB3cExXNHNLa0lPUnR5SGFuemVCTjBUSGZlUGtPQXB3eHBRdmF5UnVfbmVmemdnUVUtNW9QWjZVOUFpSkJwdUNpWjhKcFk1ZlJqYmNySzFGODdRMHVjNmZBWEpfMy1qTVhaUnNSZ0F1T2VteFBSUHNMV3ZEVnZ2RGZHNFRZeWl4c3JDRzRVekM1aEU0M0lOajJ3b2wzem1ZdjJzeFVyeWNwYzhtTV9RVUtUSEFTNGJuX2xZdk9uUGdnQjTSAagCQVVfeXFMT3VYdV9Ealcya2ZhNUxoNmQ3RWJadm9aQ05VaG1tSnMwSG1fd0xBOHpQd3F1d1Noa0dyaEZDMi1ERU9saWM2U3Y5cE0yQ3hDWUpNdkRQYjdhZlBBQWx6YXVlYlVFRE5aQzhqNVRnTlJpZ0YtNVV5d1VxQVRBQTVUMXMwcFVVWkYtMXBOTEtoMERWelNIMXRQaXNaVXlzR0EwZndlQWVoMzJySVFtVnhnRnJ2VEtaQzM1UU1GaTVEdlpTMEV0ZWVoenRYY2cxOFc5OVhpcTVkcEJoeG9VR0JQZFI2SmtCOE5BcncyTUJuaUZMNDlZTFZWSVN2bkpDT0VLdWduT1RockkxdUZPbGtrTDBsVFdkbkF1U0xTUUdqLWxDZFk0eGFST1Y?oc=5
 
 - Birla Corporation Q4 results: Cons PAT jumps 14% despite marginal revenue uptick; Rs 12.50/share dividend announced
   Birla Corporation witnessed a robust financial performance, with its March-ended quarter net profit soaring 15% year-on-year to Rs 295 crore. Revenue saw a modest 0.8% increase to Rs 2,836 crore
@@ -140,85 +140,25 @@
   Foreign investors continue to sell Indian shares in 2026. They have offloaded equities worth over Rs 2 lakh crore this year. Domestic investors are buying, but markets are falling.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-2-lakh-crore-worth-of-indian-equities-in-2026-what-lies-ahead/articleshow/130974794.cms
 
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
-
 - Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
   Vietnam Slated to Order Brah
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
-
-- Delhi on high alert: Intel agencies warn of terror attacks; security beefed up at BJP HQ - The Times of India
-  Delhi on high alert: Intel agencies warn of terror attacks; security beefed up
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQclZ2Ri1rY0g5WkZka0xqTWVlcFZNeUVldlhiOWIydlhSdjB1QzViN2JwcG1WMm9mSUMxY3hqbHJiWEFPME9PY255WnY5Q3dtNnIyS0R3YzlzeXdHa25tWFZ2VUl4MElpNVZMRTd0OWt5Z0Y4Nl9KNVlxZmdHTDBhN1RlUkx1dmF1UXJIb19aRzczQ3VicVhtYXpaa21jc09ERUFuLU5mY3JsWUFWVmJjbmh0c1RPLWVnaVowd2RWNGlnemNSOUVMVDFiVExwWlNEMmVQZUdPbjYzV3BiYmFuZk92aUpJZzhEMUHSAe8BQVVfeXFMTVVKaE5rbWRJQ3NpbVl0QzZ3WHo3U09uWnNLUkFfdWoweVVfcnJvRmQ5ZFpQdXJRazFhc0lpSDZfZkdiWUNyaUhNRkt6Y3JNRGRxMHJNTDRIeGtCSkN1d0p6Vk5abDF2QVpMaGZnWTFndW53Q3RLWEItd0Vjb0FULTBGUF9FWUFCSzRqTmFHMDVpZXJFQVpFY2cxNEZHTmZ6eTBXeGhiel92Si02T092b2RIMUNiOFRlWmtUcHRGazFfWmRZMlJFYzFzQVI2TG9pWEc2SUNLWW1DWHd0UXd2VFNaYjdmRTJ4cU8zZU0ybkE?oc=5
-
-- India news: Suvendu Adhikari takes oath as West Bengal CM - DW.com
-  Suvendu Adhikari
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlxTE1PMW0xTnUwYnpMYXYyV1ZvT2M4UU5MdWN3NExNM2ZyNnVscTJZZGFDSU5lSDljTVpyaER3QUhONVp4cXA0ajhDZTNPMFVhUUNYbHlWMkpaaWdDNm4zTWhKc1hPRUpxU05jdVFadERNcVE0Z1VvMThVMkF2Y1B4ZHdjUEMwdFhTckVJUmdpaG8tN0JVZWY2ckYyaVJXaWtualJ0TDlMZFZsLW1Wb21CY0RZQQ?oc=5
-
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
 
 - China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
   China Admits It Sent Experts To Pakistani Air B
   🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
 
-- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
-  Vietnam Slated to Order Brah
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
+- Another lost trekking season in Kashmir - The Times of India
+  Another lost trekking season in Kashmir
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmE3Ynp2NmNDR1JaOTBVMmJyOEV3WmFKeVFiRHpFd3hwcm9zQkFGeEw5Z2hTQU83eVFyVHZ4WEY1UUZFMTJIQTZ5Njl4TmFZeEhOLTJpeXQ0bl9XZFZWcmJCdkdXM3FPWTM3X2lBSWdDb2dXTFFWUjN6TzExcHEwX21PaXFiNV9kN3U0NGF1OXZhNVBzVkZ1YV9NNmgtSEJuNzItbzBlMzBFOTDSAbABQVVfeXFMTXIwU0ZuR1hqUUNCSDMtV3gzbGdyZy0wR0JLODBFZHZEeS11bm94MDFYVUZiNkU3ZHdsa1hmWkJRWUs5SVU2Y3hHRzh2clYzamd3U09BcVl6MUJFQThGWUtVdEhMdDZRTHVTMjF5djVSb2dPcmNlVVB1emRxZmlCUVRNMEpaR1BER0lMTFdaS09ENTRoRXRYS1ctNlNTaFduSFhWMG5LZF9oV08xMURQLVE?oc=5
 
-- Delhi on high alert: Intel agencies warn of terror attacks; security beefed up at BJP HQ - The Times of India
-  Delhi on high alert: Intel agencies warn of terror attacks; security beefed up
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQclZ2Ri1rY0g5WkZka0xqTWVlcFZNeUVldlhiOWIydlhSdjB1QzViN2JwcG1WMm9mSUMxY3hqbHJiWEFPME9PY255WnY5Q3dtNnIyS0R3YzlzeXdHa25tWFZ2VUl4MElpNVZMRTd0OWt5Z0Y4Nl9KNVlxZmdHTDBhN1RlUkx1dmF1UXJIb19aRzczQ3VicVhtYXpaa21jc09ERUFuLU5mY3JsWUFWVmJjbmh0c1RPLWVnaVowd2RWNGlnemNSOUVMVDFiVExwWlNEMmVQZUdPbjYzV3BiYmFuZk92aUpJZzhEMUHSAe8BQVVfeXFMTVVKaE5rbWRJQ3NpbVl0QzZ3WHo3U09uWnNLUkFfdWoweVVfcnJvRmQ5ZFpQdXJRazFhc0lpSDZfZkdiWUNyaUhNRkt6Y3JNRGRxMHJNTDRIeGtCSkN1d0p6Vk5abDF2QVpMaGZnWTFndW53Q3RLWEItd0Vjb0FULTBGUF9FWUFCSzRqTmFHMDVpZXJFQVpFY2cxNEZHTmZ6eTBXeGhiel92Si02T092b2RIMUNiOFRlWmtUcHRGazFfWmRZMlJFYzFzQVI2TG9pWEc2SUNLWW1DWHd0UXd2VFNaYjdmRTJ4cU8zZU0ybkE?oc=5
+- Vijay Oath Ceremony LIVE Updates: Vijay To Be Sworn In Today, Rahul Gandhi To Be Present - NDTV
+  Vijay Oath Ceremony LIVE Updates: Vijay To Be Sw
+  🔗 https://news.google.com/rss/articles/CBMilgJBVV95cUxPZGptYUcxMWRSdExYb0dNeGpaaDdIOS1BV0dUalE0VTc5U01hOXYzYTBZVV9RaHVBSnRtUVdfR2h3RjN0VmstVUp2NkctSE1Ua1loaWFvd3NXRHlmd0ExMnhFUC1Cc0FGRUFqWUp3dVNBa3hsMGdQUF9DVzE1NXBTOFMxOFZCRFFXSkpyZkhIaVhPMUE5dzVna3hndTFaeE43N3ZxV04xUmJaRkw0dzlRNXRSc1AwckVxUXVQb18tVDZUcnZGSGlLZ2t2QUJmTTRzWHA2VlJnR01nRGkzWURselkxeDhSN1gxRDVNRFpvWnEyQm5KdWdlZl9SUHRUYnhHcXVRN1lNZmM2RDhSUWRvU2hQc0o0d9IBngJBVV95cUxOVkJkUnBhRGJQSUpqV1d0TTlYX0ptUGh3SFEza2kybU5JQlR2dHRnREdXNFhWZ0M5cUZMSmJaYXlWaTJnTHhRT1d6R3lPbUl0a3dwMmpBYUhJSFFfZTA1UEN1b0hUOUNId2FjbWhYQ0NlUE9SZl9yMDl3dERWZlhPSkNVbUhFdWlfSDFjWmhwbjVVbFQwZXdiSW9nLWxieklUVVR3N1FtMWdtejNiTVlBSThWZS11UXZJa1pvZXh3c09BSnU3Yk5ZbGV0NEF4UUY1Uk13alFzNGRlWDd6MTVZR2hQazBuWVpkTWh3LWRlR0U3REZsMnd1d3pyd0xrRk1YVHAwOGNYQnkyYklvcmFFMFJFS0EtQ2V3VldSVmVR?oc=5
 
-- India news: Suvendu Adhikari takes oath as West Bengal CM - DW.com
-  Suvendu Adhikari
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlxTE1PMW0xTnUwYnpMYXYyV1ZvT2M4UU5MdWN3NExNM2ZyNnVscTJZZGFDSU5lSDljTVpyaER3QUhONVp4cXA0ajhDZTNPMFVhUUNYbHlWMkpaaWdDNm4zTWhKc1hPRUpxU05jdVFadERNcVE0Z1VvMThVMkF2Y1B4ZHdjUEMwdFhTckVJUmdpaG8tN0JVZWY2ckYyaVJXaWtualJ0TDlMZFZsLW1Wb21CY0RZQQ?oc=5
-
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
-
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
-
-- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
-  Vietnam Slated to Order Brah
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
-
-- Delhi on high alert: Intel agencies warn of terror attacks; security beefed up at BJP HQ - The Times of India
-  Delhi on high alert: Intel agencies warn of terror attacks; security beefed up
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQclZ2Ri1rY0g5WkZka0xqTWVlcFZNeUVldlhiOWIydlhSdjB1QzViN2JwcG1WMm9mSUMxY3hqbHJiWEFPME9PY255WnY5Q3dtNnIyS0R3YzlzeXdHa25tWFZ2VUl4MElpNVZMRTd0OWt5Z0Y4Nl9KNVlxZmdHTDBhN1RlUkx1dmF1UXJIb19aRzczQ3VicVhtYXpaa21jc09ERUFuLU5mY3JsWUFWVmJjbmh0c1RPLWVnaVowd2RWNGlnemNSOUVMVDFiVExwWlNEMmVQZUdPbjYzV3BiYmFuZk92aUpJZzhEMUHSAe8BQVVfeXFMTVVKaE5rbWRJQ3NpbVl0QzZ3WHo3U09uWnNLUkFfdWoweVVfcnJvRmQ5ZFpQdXJRazFhc0lpSDZfZkdiWUNyaUhNRkt6Y3JNRGRxMHJNTDRIeGtCSkN1d0p6Vk5abDF2QVpMaGZnWTFndW53Q3RLWEItd0Vjb0FULTBGUF9FWUFCSzRqTmFHMDVpZXJFQVpFY2cxNEZHTmZ6eTBXeGhiel92Si02T092b2RIMUNiOFRlWmtUcHRGazFfWmRZMlJFYzFzQVI2TG9pWEc2SUNLWW1DWHd0UXd2VFNaYjdmRTJ4cU8zZU0ybkE?oc=5
-
-- India news: Suvendu Adhikari takes oath as West Bengal CM - DW.com
-  Suvendu Adhikari
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlxTE1PMW0xTnUwYnpMYXYyV1ZvT2M4UU5MdWN3NExNM2ZyNnVscTJZZGFDSU5lSDljTVpyaER3QUhONVp4cXA0ajhDZTNPMFVhUUNYbHlWMkpaaWdDNm4zTWhKc1hPRUpxU05jdVFadERNcVE0Z1VvMThVMkF2Y1B4ZHdjUEMwdFhTckVJUmdpaG8tN0JVZWY2ckYyaVJXaWtualJ0TDlMZFZsLW1Wb21CY0RZQQ?oc=5
-
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
-
-- China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor - NDTV
-  China Admits It Sent Experts To Pakistani Air B
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3VjN29pN2xfb2dDRmh1QzJXdHJOV1dTdmF6WW14c3J1QUhJcmRnSm9QckN4UWtVcHIyZXVseU1wbVNINWJyOTlOME9pYnVxYzJDcHFGWnpFQm9paUcwaW54dnU2YVpfN193RWZKUnFxaUdteW5yWG51UmcwWjkyWFphV05xWTlndWoyTlJ0Smd4cUFKcEdCYTRTdXFHd0JCLTdnZkZYTjRsLWpGOHVka3NmVF9GX3ZUU3hKUGZvLS1Kc3ZLUjFOQ1JDNnlyUko1Ujd0WW5seUJqQ05CR2MySFVUQnNaclUybEHSAfIBQVVfeXFMUGFkbkNwR3kwdDlzM0pVY1JtZmZoNC1hRDBpVl9WNTJ0WmtNUTBPTEVzTVVKcVN5cTBCbktGa0J6ODRmcFdFaVFYTlI1blUtd0wwRjBSRVFtel9jLWJzQmtTS1RXR1laV1hwUF9ibGlKZDRoZjMzeWZtRWJOeXFWNU1tRTdTT2t2cmdLak5hMkxRM09LQXRrdW9ud2pNRDhRb2djM0pqcTF0QW1QdjJ3cHFfMDlZclNPNWl5Ni1jdGJhZy14dDU3Q1B3VklORmw2bUdYdU9reUwtbVZ1dW5pX29wcEJJMHU2ZlVvUk5nR1psRXc?oc=5
-
-- Vietnam Slated to Order BrahMos and Naval Vessels from India - navalnews.com
-  Vietnam Slated to Order Brah
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dOa1RzUld2eUhnNWphVnFrSXZqaHZhU1o4dTJtaWE2U1NjUWg5YnYxZmJfU0JMbk9uYm9XR1A0Vno2dGZIX2k2MXFudGZKV2trSHZGTzFJTmd0Vm95M3dkR1p3bGx2UU04Z1pPWVU1QkxzNERuWWs3TkN6UFpNcUFKbUh3eldxWmh3MjV4d0w5UlI0bWRoWkJBZ0tVLWd6alRNa3F6WnR1Zw?oc=5
-
-- Delhi on high alert: Intel agencies warn of terror attacks; security beefed up at BJP HQ - The Times of India
-  Delhi on high alert: Intel agencies warn of terror attacks; security beefed up
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQclZ2Ri1rY0g5WkZka0xqTWVlcFZNeUVldlhiOWIydlhSdjB1QzViN2JwcG1WMm9mSUMxY3hqbHJiWEFPME9PY255WnY5Q3dtNnIyS0R3YzlzeXdHa25tWFZ2VUl4MElpNVZMRTd0OWt5Z0Y4Nl9KNVlxZmdHTDBhN1RlUkx1dmF1UXJIb19aRzczQ3VicVhtYXpaa21jc09ERUFuLU5mY3JsWUFWVmJjbmh0c1RPLWVnaVowd2RWNGlnemNSOUVMVDFiVExwWlNEMmVQZUdPbjYzV3BiYmFuZk92aUpJZzhEMUHSAe8BQVVfeXFMTVVKaE5rbWRJQ3NpbVl0QzZ3WHo3U09uWnNLUkFfdWoweVVfcnJvRmQ5ZFpQdXJRazFhc0lpSDZfZkdiWUNyaUhNRkt6Y3JNRGRxMHJNTDRIeGtCSkN1d0p6Vk5abDF2QVpMaGZnWTFndW53Q3RLWEItd0Vjb0FULTBGUF9FWUFCSzRqTmFHMDVpZXJFQVpFY2cxNEZHTmZ6eTBXeGhiel92Si02T092b2RIMUNiOFRlWmtUcHRGazFfWmRZMlJFYzFzQVI2TG9pWEc2SUNLWW1DWHd0UXd2VFNaYjdmRTJ4cU8zZU0ybkE?oc=5
-
-- India news: Suvendu Adhikari takes oath as West Bengal CM - DW.com
-  Suvendu Adhikari
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlxTE1PMW0xTnUwYnpMYXYyV1ZvT2M4UU5MdWN3NExNM2ZyNnVscTJZZGFDSU5lSDljTVpyaER3QUhONVp4cXA0ajhDZTNPMFVhUUNYbHlWMkpaaWdDNm4zTWhKc1hPRUpxU05jdVFadERNcVE0Z1VvMThVMkF2Y1B4ZHdjUEMwdFhTckVJUmdpaG8tN0JVZWY2ckYyaVJXaWtualJ0TDlMZFZsLW1Wb21CY0RZQQ?oc=5
-
-- Here's what it's like to ride India's sleek new sleeper train - BBC
-  The train will be the first of its
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQTy1YeVRSaDBrdUw4QnVZS0VObkJPWjBrYUNBR05zZ1VFOV9QQVhiSF85aGFORGNlUWU3c0h6UFRHWmE3cjhLVW1IZTdzb20zR0dzSXFvZHlMNERQeS04S3NyOFRqejVxam9PZm4xY3R3OGIweVhGRmR0ZkNvNTRldEx2cHFCSFVVYkdsZDhzYm9HdGIteXdDN09vWkV4eThZbzdKTw?oc=5
+- "MK Stalin Persuaded Allies": DMK On How Vijay Got A Majority - NDTV
+  "MK Stalin Persuaded Allies": DM
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFBkWWFqYXFhUUJhSUp3aEdGM2NxRXZ6Mzd0eEVNb251Vnc5d2Zpb190ejlITE1lVzdIWVFKR2hTLUJ3VnNPeE1hdDh0elBMTnRNYWt0WWxuRVpacjdJODdZQ0hmNjI1TEpkVHZ4YWw1bVpzY0M5V01GSVdWbU5fNUpZTXREVEIwbmNhd2E3bV94clRSQ19PdkR0dzE3WjNna2ZkbUozdzRqOXA1aFRPNjlCM0xCejdxRnBoNnJrQWtlY1BYMm1iU0E4a01mTVZLRkHSAdoBQVVfeXFMUHNPZVJNei1zZDJGanktb2huZXJhWGFDNkdsNm83N2lKMFZPLW03bWtZZEJxMWlYcjI0NmQyR0l5a2Q1N0VVZ2FWVTJyQlc4MUJySkRXQnJIWWduRXpNdWd6cnZ4Q2t4dkJ5UWZ2RFcyd1MxVk1VY204a1l1eUUyZURIMEZ3Mll2cEZBRVNkNWFua3ZiT0JxUF8tQ09ET2MzYmdNQTJ0VVZHazFTNFBlWnpiNEduVUdUcXJ2aVhKTG96T2VxX0xhSHBYbl8wVFFOMVcwRmczblZhNXc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-09 18:57:29 UTC_
+_Last updated: 2026-05-10 02:33:39 UTC_
