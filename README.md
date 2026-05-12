@@ -1,164 +1,144 @@
 # 📰 Daily News Summaries
 
-- Ruchir Sharma at Express Adda: ‘Asia, Europe need coordinated strategy to survive US or will be eaten for lunch’
+- Activist moves Supreme Court green panel over alleged illegal construction in Kaziranga wildlife corridors
   
-  🔗 https://indianexpress.com/article/india/ruchir-sharma-express-adda-asia-europe-coordinated-strategy-survive-us-eaten-lunch-10684404/
+  🔗 https://indianexpress.com/article/india/kaziranga-wildlife-corridor-illegal-construction-complaint-10685281/
 
-- Kota maternal deaths: Crisis widens, probe intensifies
+- Rahul Gandhi’s ‘chor bazar’ jab after appointments of IAS officers in Bengal
   
-  🔗 https://indianexpress.com/article/india/kota-maternal-deaths-crisis-widens-probe-intensifies-10684489/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-chor-bazar-attack-bjp-ec-manoj-agarwal-10685235/
 
-- Before Bihar’s Vikramshila bridge collapsed, a series of red flags – raised and ignored
+- 4 workers fall unconscious after inhaling toxic fumes at Vizag steel plant Visakhapatnam
   
-  🔗 https://indianexpress.com/article/india/before-bihars-vikramshila-bridge-collapsed-a-series-of-red-flags-raised-and-ignored-10684496/
+  🔗 https://indianexpress.com/article/india/four-workers-unconscious-inhaling-toxic-fumes-at-vizag-steel-plant-visakhapatnam-10684923/
 
-- Who are the 4 new Assam ministers to be sworn in with Himanta today?
+- Centre’s old age pension at Rs 200 since 2012 ‘significantly eroded’ due to inflation: Rural Development Ministry study
   
-  🔗 https://indianexpress.com/article/india/who-are-the-4-new-assam-ministers-to-be-sworn-in-with-himanta-today-10684497/
+  🔗 https://indianexpress.com/article/india/nsap-pension-inflation-impact-report-india-10685019/
 
-- Beaten, stripped, smeared with cow dung: Man dragged out of Bhopal hotel, assaulted
+- Tamil Nadu CM Vijay cracks down on TASMAC liquor shops, 717 outlets to shut down
   
-  🔗 https://indianexpress.com/article/india/beaten-stripped-smeared-with-cow-dung-man-dragged-out-of-bhopal-hotel-assaulted-10684494/
+  🔗 https://indianexpress.com/article/india/cm-vijay-tasmac-liquor-shop-closure-717-outlets-temples-schools-10684815/
 
-- Google Android Show 2026 livestream: When, where to watch Google’s big Android event
+- Google Android Show 2026 Live Updates: Google to preview Android 17, Gemini AI upgrades, and more ahead of I/O 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-livestream-time-where-to-watch-10683854/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-live-updates-google-to-preview-android-17-gemini-upgrades-and-more-ahead-of-i-o-2026-10685237/
 
-- HP launches EliteBoard G1a in India, next-gen AI PC built into a keyboard starting at Rs 89,900
+- Apple and Google close the ‘green bubble’ gap with encrypted RCS messaging
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-eliteboard-g1a-ai-pc-keyboard-india-launch-10683720/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-and-google-close-the-green-bubble-gap-with-encrypted-rcs-messaging-10685082/
 
-- HP looks at India for its re-entry into the tablet market with OmniPad 12
+- ‘PC penetration is low in India but we are trying to change that’: HP India MD Ipsita Dasgupta on tablets and making computers accessible
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/hp-omnipad-12-india-re-entry-tablet-market-10683554/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-india-md-ipsita-dasgupta-on-making-computers-accessible-10685039/
 
-- Whoop launches on-demand clinician access, new health AI features amid rising competition
+- OpenAI, Microsoft agree to cap revenue-sharing at $38 billion: Reports
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whoop-on-demand-clinician-access-new-health-ai-features-10683529/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-microsoft-agree-to-cap-revenue-sharing-at-38-billion-reports-10684853/
 
-- Tech is turning increasingly to religion in a quest to create ethical AI
+- Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai-10683352/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ex-openai-exec-sutskever-says-he-spent-a-year-gathering-proof-of-alleged-altman-dishonesty-10684821/
+
+- Bharti Airtel Q4 preview: strong user additions but flat Arpu may temper growth
+  Analysts expect Airtel’s March-quarter revenue to rise on higher data usage, broadband traction and Africa
+  🔗 https://www.livemint.com/companies/news/bharti-airtel-q4fy26-preview-flat-arpu-subscriber-growth-africa-revenue-capex-11778563945173.html
+
+- OpenAI and Microsoft cap revenue-sharing payments at $38 billion ahead of possible IPO: Report
+  OpenAI and Microsoft agree to cap revenue-sharing payments at $38 billion. The agreement opens the door for OpenAI to work with Amazon and Google ahead of a possible IPO.
+  🔗 https://www.livemint.com/companies/news/openai-and-microsoft-cap-revenue-sharing-at-38-billion-as-openai-eyes-ipo-11778568265547.html
+
+- OpenAI's $4 billion response to Anthropic: New unit for aggressive AI push in corporates
+  ChatGPT will embed engineers specializing in frontier AI deployment into organisations. The new
+  🔗 https://www.livemint.com/companies/news/openais-4-billion-response-to-anthropic-new-unit-for-aggressive-ai-push-in-corporates-11778560135983.html
+
+- Bengaluru-based Truffles explores options to raise capital, appoints banker
+  Bengaluru-based Truffles Hospitality has tapped Spark Capital to scout private equity
+  🔗 https://www.livemint.com/companies/truffles-hospitality-spark-capital-private-equity-stake-sale-bengaluru-restaurant-chain-qsr-deals-11778554234052.html
 
 - Slice joins wealth race with AI-powered ‘personal CFO’
   Slice aims to evolve beyond banking, payments and credit into full-stack financial distribution. Wealth-tech remains one of the few fint
   🔗 https://www.livemint.com/companies/slice-wealthtech-fintech-ai-money-companion-mf-industry-phonepe-11778490567757.html
 
-- FSSAI issues notice on date sugar claims to The Whole Truth on rival’s complaint
-  The Whole Truth has come under scrutiny for its 'no added sugar' claims using date sweeteners. This case may set a precedent for how similar health-food claims are interpreted by
-  🔗 https://www.livemint.com/companies/news/india-fssai-the-whole-truth-date-no-sugar-claims-asci-questions-11778395348767.html
+- RFBL Flexi Pack IPO Day 1: Issue subscribed 60% so far; check GMP and other key details
+  The shares of RFBL Flexi Pack IPO are trading at par with the offer price in the grey market. This means no loss or profit for the investors
+  🔗 https://www.livemint.com/market/ipo/rfbl-flexi-pack-ipo-day-1-issue-subscribed-60-so-far-check-gmp-and-other-key-details-11778569665493.html
 
-- The MD-11 cargo planes involved in last falls deadly UPS crash in Louisville return to the air
-  The MD-11 cargo planes involved in last fall's deadly
-  🔗 https://www.livemint.com/companies/the-md-11-cargo-planes-involved-in-last-falls-deadly-ups-crash-in-louisville-return-to-the-air-11778543799821.html
+- ACME Solar shares up over 20% YTD. HSBC, Motilal Oswal see further upside; here's why
+  ACME Solar shares have soared 21% YTD despite market volatility caused by geopolitical tensions and economic shifts. Analysts from HSBC and Motilal Osw
+  🔗 https://www.livemint.com/market/stock-market-news/acme-solar-shares-up-over-20-ytd-hsbc-motilal-oswal-see-further-upside-heres-why-11778571364950.html
 
-- Pimco Scorns Daily Marks on Private Assets That Apollo Heralded
-  More frequently marking assets does little to improve transparency or accuracy in the $1.8 trillion private credit market.
-  🔗 https://www.livemint.com/companies/pimco-scorns-daily-marks-on-private-assets-that-apollo-heralded-11778524441335.html
+- Vodafone Idea, Groww, YES Bank, HFCL among the most traded stocks on NSE today, 12 May 2026
+  Vodafone Idea, Billionbrains Garage Ventures (Groww), Tata Silver Exchange Traded Fund, YES Bank, HFC
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-groww-yes-bank-hfcl-among-the-most-traded-stocks-on-nse-today-12-may-2026-11778568184551.html
 
-- After PM Modi's WFH appeal, Sridhar Vembu says Zoho 'will revisit work from home now’
-  Zoho has offices in Chennai and Tenkasi in Tamil Nadu, as well as
-  🔗 https://www.livemint.com/companies/news/after-pm-modis-wfh-appeal-sridhar-vembu-says-zoho-will-revisit-work-from-home-now-11778519489371.html
+- PVR Inox: Higher ticket prices, food spending drive margin recovery
+  PVR Inox's Q4FY26 results revealed a 26% revenue growth yet shares plummeted over 6%. Strategic pricing
+  🔗 https://www.livemint.com/market/mark-to-market/pvr-inox-higher-ticket-prices-food-spending-margin-recovery-multiplex-chain-footfalls-debt-reduction-expansion-strategy-11778564663164.html
 
-- Buy or sell: Gift Nifty down, Vaishali Parekh recommends three intraday stocks for today — 12 May 2026
-  Vaishali Parekh recommends three intraday stocks for
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-down-vaishali-parekh-recommends-three-intraday-stocks-for-today-12-may-2026-11778549403067.html
+- Stock market crash: Nifty 50 breaks down below 23,800. What are the next key levels to watch?
+  Nifty 50 index is approaching key support levels near 23,400. This coincides with the 50% retracement of the recent rally.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-breaches-23-800-support-what-are-the-next-key-levels-to-watch-out-for-11778568564606.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 12 May
-  Indian markets faced pressure on 11 May, with Nifty 50 and BSE Sensex declining. Analysts suggest a cautious market start on 12 May. Key stocks to buy include JK Lakshmi C
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-12-may-11778550139916.html
+- Meet the homegrown filmmakers creating acclaimed films on iPhones and smartphones
+  Indian filmmakers are increasingly turning to iPhones and smartphones to shoot acclaimed films and shorts. Backed by initiatives like MAMI’s smartphone filmmaking programme.
+  🔗 https://www.livemint.com/technology/meet-the-homegrown-filmmakers-creating-acclaimed-films-on-iphones-and-smartphones-11778564501137.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 12 May
-  Gift Nifty was trading around 23,646 level, a discount of nearly 222 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-12-may-11778550253738.html
+- Why pay full price? These refurbished laptops still handle your studies and assignments smoothly
+  Refurbished laptops from top brands offer strong performance and reliable everyday
+  🔗 https://www.livemint.com/technology/gadgets/why-pay-full-price-these-refurbished-laptops-still-handle-your-studies-and-assignments-smoothly-11778569549420.html
 
-- Stocks to watch: Tata Power, Dixon Tech, Indian Hotels among 10 shares in focus today
-  The Indian stock market is likely to continue its losing streak as trends in the Gift Nifty index signalled a negative opening on Tuesday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-power-dixon-tech-indian-hotels-among-10-shares-in-focus-today-11778548663546.html
+- Samsung brings OneUI 8.5 update to older Galaxy devices globally: Check if your device on the list
+  Samsung's One UI 8.5 introduces stronger anti-theft measures, improved Photo Assist for AI editing, and an upgraded Bix
+  🔗 https://www.livemint.com/technology/tech-news/samsung-brings-oneui-8-5-update-to-older-galaxy-devices-globally-check-if-your-device-on-the-list-11778552345271.html
 
-- From Gift Nifty, US-Iran peace talks to crude oil prices: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,679 level, a discount of nearly 190 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-peace-talks-to-crude-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11778549343606.html
+- Ilya Sutskever makes bombshell revelation on OpenAI-Anthropic merger, claims Sam Altman had ‘pattern of lying’
+  Ilya Sutskever revealed during the OpenAI-Elon
+  🔗 https://www.livemint.com/technology/tech-news/ilya-sutskever-makes-bombshell-revelation-on-openai-anthropic-merger-claims-sam-altman-had-pattern-of-lying-11778560170873.html
 
-- Apple finally secures iPhone-to-Android chats with end-to-end encryption rollout in iOS 26.5: here's what it means
-  Apple and Google have announced end-to-end encryption (E2EE) for Rich Communication Services
-  🔗 https://www.livemint.com/technology/tech-news/apple-finally-secures-iphone-to-android-chats-with-end-to-end-encryption-rollout-in-ios-26-5-heres-what-it-means-11778547432349.html
+- Google Android Show 2026 livestream: When, where to watch and what to expect
+  Google Android Show 2026 will stream on 12 May ahead of I/O 2026. Check the livestream time
+  🔗 https://www.livemint.com/technology/google-android-show-2026-livestream-when-where-to-watch-and-what-to-expect-11778556843190.html
 
-- A South Korean startup captures workers techniques to develop AI brains for robots
-  A South Korean startup captures workers' techniques
-  🔗 https://www.livemint.com/technology/a-south-korean-startup-captures-workers-techniques-to-develop-ai-brains-for-robots-11778545456955.html
-
-- AI jobs growing almost by 15-20 per cent: Vaishnaw
-  AI jobs growing almost
-  🔗 https://www.livemint.com/technology/ai-jobs-growing-almost-by-15-20-per-cent-vaishnaw-11778515714007.html
-
-- Iran war disrupts the circuit board supply chain, raises costs for tech firms
-  Iran war disrupts the circuit
-  🔗 https://www.livemint.com/technology/iran-war-disrupts-the-circuit-board-supply-chain-raises-costs-for-tech-firms-11778510201158.html
-
-- Forza Horizon 6 leaked days ahead of launch, unencrypted 155GB build accidentally hits Steam
-  Forza Horizon 6 is set to launch on May 19, but a leak has allowed pirates to access unencrypted files ahead of time. Players may face risks
-  🔗 https://www.livemint.com/technology/tech-news/forza-horizon-6-leaked-days-ahead-of-launch-unencrypted-155gb-build-accidentally-hits-steam-11778492240132.html
+- Gold ticks up as markets digest US-Iran updates, await inflation data - CNBC
+  Gold ticks up as markets digest US-Iran
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHF1bFN0ZzR2M25CUE5yRDZKOHVkdFVJYzhlazNsVFc0TE5VeGJsckl6amlqODRNdi1fR3U5UVJ6d2M1QVc3d0JLOG9XRFJraTBTaXJJTWJTUnFDRDYwY2gyRzZyZERmYm9LZlY1MXdzMm4ybWE5U29MYk8zZ2E2WkdoS2l6c21nY2w5X2FJTTY5LS1XTmdENnNYdG1fZElKa3JqaHllMjAzS3U10gGyAUFVX3lxTE9WWnNkYndRWEJOR3ZrRHA3Zy1iUlVOTjBJbGpscXdLb05FMGIyTlBvcnBrRWhiQnJaSFFRWVNISzd6MWVsX0MtOTF6NDNoNVBybzNDOFlEdkFwemZ1ZzZ0akNlY3FMeUJYQ0ZzT3NYbFVEUHJFcklmYk9lc0xkWFEyS0Zva1c5QWtEdE1YXzEzNjRrY2JNa0FsaS1DY0dGN3dfSWhiaVpWMEs1T2Rnbi14YUE?oc=5
 
 - Gold ticks up as markets digest US-Iran updates, await inflation data - Reuters
   Gold ticks up as markets digest US-Iran
   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1R4YmxvUWpZMGJaX3FrMXY2aGNsNG1TZ1JFc08weHF0cXRWd0s5a04xV2xEamNKNWFrT1VXWEZnRHIyZlczejVDblEzS1Z6N2NmTG14aVVkcHJQOUtreDd3TTZKUWtkSmp1aXRuckNFaXdJbThub1RPV3E0aDc4OHNPZnYweWt4MWR4UG1nU0NEMXpaU2V4OUhLNE5JdDVJQlZWREFFRUtqV2N4MVlnbDB0cw?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red After Trump's 'Ceasefire On Life Support' Remark - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYS00cEFGWHJxbnE4MDNEeHJwUVluQktqX0RwcFlzNG5JWWRxMXo5Z242endnaHM0REZKREhXd2hpSDM0dVNVbTZPeWNDcDY1RlF6aFVnb3F0WGYxcVd6ZUQ1TG10aHFaMn
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYS00cEFGWHJxbnE4MDNEeHJwUVluQktqX0RwcFlzNG5JWWRxMXo5Z242endnaHM0REZKREhXd2hpSDM0dVNVbTZPeWNDcDY1RlF6aFVnb3F0WGYxcVd6ZUQ1TG10aHFaMnJYeFVfT29VMUNUcUxONzl0ZURxdHdSeG5VMVJWUzRVOEhVUlRHblJTNGY5cWQwRXExQWQ3ZnNOUGMtaDFfU1BmVVJZemhRUXJZU3o0RUhTUkVRcGpwTktBR28xbEU5ZkJHR216eGNTejhSSzJ4TTZvM2dPRnFUazYybDF1eHkzb2pOStIB9AFBVV95cUxORHJaRUVXYnh5YVp6YkRkUnRTQ0VpcktfckR4aTl2WkNXaVZCOEF6eE1sOXVXN0owclBkRVl6aXhJakdfQTJPZWZwRy1sb3lhcEVybzZPWnptdkhMNXhLc1hlYUJLa3UwYUxaVlRxd0tfTDh1Z2UxNU9SMENMa2V2WS1Yb3ExVmI1S0lqYWJEZ0xxMDZEZ0picmw3d3paNHVvd3h4NGJkY3BVWThKZmdxWnQxT0R5NllUbXdSQ2M2YW9pdnI5eVhvODFDbHZVUHM4M0h4V2ZsNlRMcXZxMjdRbDdRU1lFNS1IZndPQkhJVWlvLU1I?oc=5
+- Oil Climbs as US-Iran Deadlock Lifts Bond Yields: Markets Wrap - Bloomberg.com
+  Oil Climbs as US-Iran Dead
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQSERuMkVGTTh0SjRURWZWTVhhSlo5eThmdzdwNEVQSXF5MkNtNDNZaDA2NW5ZY2t3Q2xIcXdMLXN4WGk2Zlo0cnRudVl0Yk41Qnk3UTVuOUU1N0pOaDIxeWhmM1BabGhmZ3lLRnY5M0wxMzBqdGUxY2xyelVnd1FhYUZOMXpMeV85VUlleDVtT1d2Ny1LWm1Ta0xZUWZyQVVKeEN3X1JEbUVQZjNfcmQ2Zmh3?oc=5
 
-- Pre-market action: Here's the trade setup for today's session - economictimes.com
-  Pre-market action: Here's
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxONDY0OWphbTRWamdwX0V3WTlIVUMzWkw2dXJvSjRhR0RtSnYxREVPQ0xQbEdhMEkyYnlkUnRHNERJTXp1bjRDb1ZSOURUcnRWUFUxT1huSVYtSVg1NUo2eHJySWY0UXl0QXhScm9wTmU2UHJSWHdzdmQ2YV8xZEZFVVRUbjAwTjl4a0hwS3ZSVXdJdVBic0VTNEJKaGw0WjFnXzc1dmVWeTZDUzBfQVRkOUw2R2VZY2NKYTRPSXZPRVE1TUJGYVJFRDlIMEzSAdIBQVVfeXFMT2tHNXNmR19hRktTdG9TSWQ3SjNua201NEpMQnFZRzFtS3MtYVdNalBySFBYTm9yWWNobm5seFhDblRLNWduTUdaTXNaTUNHanNLOU45YVFzdG8wSGFVMHRYZ2FSbVhxZ2xRSUQ0WU9DdnM2dWJ1Vi1CcHgzZzM4cngxWHFWVk5oWUxhQnp2ak9zbGNWX3Rra1BDSkNheU9IRUFkZnVpakdCeHZvTWpsa3Z6blBQTFo3dlRSQ2VtV1Q2c0I0SzlxZ0VUd0xIbmFRdmNB?oc=5
-
-- Gold, Silver Rate Today Live Updates: Gold prices fall to $4,684.32 per ounce in international market amid rising geopolitical tensions - The Times of India
-  Gold, Silver Rate Today Live Updates: Gold prices fall to $4,684.32 per ounce in
-  🔗 https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVG5kR3VpYVBBUVl4RlNBNXI3WU9yQkc5QWM1OU1ISHBHWXlLZTUwWTEyZC0xWTFxNWliMmRDaWNVVkIzZFZON29PVmpUdmREQUo4a3pMeVJFM3BKWjlXZzRkd25PTzJKX0JlMUxmZjhGcWFpbUVYSExEQmZmQUZ3UHQzTkRUTjBXVG9fSDJXcWw5VFl1T2RHc2d6bzBIX0l1YmRUcHpPRW1IZWI0ZV9oV0JoTWVNZF92VlEyNW5iczFOdjUtYVc4ekdibmtXVV91anppb3Jfa2p2TFdTTTh2Y05DdjFQTkIzUlJUNDJmTV9uU21zOGZDek1aNG1SZHNUVEJETUs4QTUtOENwZmJWN0dpRVlQUHdmNXZNUFNscjFseVlHdzdtWUpRZHFDR01qZk5MazR5VHdUV2tnZUZ5M19jeVBaVVNYNDRFNm00RnE2WUVwYzYxaTRobGlRUWh2c3V2YVJ4N1RFcGNp0gHyAkFVX3lxTE56dHBHenA1ZV9vZzIxdGZpR3IyM2NUZl9PVlpuVUJxMU9PR2s1OTVRcHUxM3FxNkJHMXFOMVg1eXN0X3R2WUloeFlQYlJTdWtLNnExdldTYTA3aFU5SXJ2Q0s2bllQTTJfOFAwQW9rVlRnTDZVb0I5TWVYX0xtazI4SHBCQXpwcjJFUjFGVWpuMHBIQ0l3ZmQwSHlNN01haTdvV0MzSE1NR2hWQzhFVDdObW5uZFd6cnh5SHYtVVBIYVduZnBzN3ViZndrampFRDc5SGpGRkZFdHN1THNIVWZZSzdsWUNTYWJGNU1aS21NWmMtS05tV0o4YTMwODFyVFVIbnQyWW1sWHFpeDlYQWxkbTRiVkhPSjh1ZjJYNzY2VzJTVlQwQWN2ZE5VdHRHMkcwbmNnWWFudExtZU9SdmZkbndvYS1zSjAtN0FpYlBGSENkRG1Ia0sySlowV0lKaHVyV0xfU2R0d2Y0RWpuUVdUVEE?oc=5
+- Why market is falling today? Sensex falls 1,000 points as rupee weakens to record low amid Mideast woes. 6 - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxPUzVSX095SGs1aEZxWXFhQjl3U2Q1TjhZbFZ4YkxwTXhNalpyN3BoY0d5QmpxUVo2ZnpZRnJZNl9yclkyUnUzX0c1WjJZQXZiUUVVYWloSi12OERWLU4zMVM3UXB1X2l0UU
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPUzVSX095SGs1aEZxWXFhQjl3U2Q1TjhZbFZ4YkxwTXhNalpyN3BoY0d5QmpxUVo2ZnpZRnJZNl9yclkyUnUzX0c1WjJZQXZiUUVVYWloSi12OERWLU4zMVM3UXB1X2l0UUVLXzlWTUgyZmRUSG9aUEl5d1lrZE9ZRThsMl9aYkl1NHJlc3FDblV3Ukp4MFpIa1VBVGtBRTM4S2xqUW5weEZUU3Z5ZHJCWjFsWkxHTGpCbjFBZlFzY2l2cll0d1lyRnNuN1hpcWE3NldlQ2xabnNBaEhfeG0xZTQzZFR3LV95dm1SRmgyN0lteEt5cXRmcGhxNDRlWjF5SUHSAYcCQVVfeXFMTlUxY0VENTdUUXFJNFhkRXZsU1AzcDRkZmZBUUdiaXpPazNUemR0SlVTWVVGel9qNnVSSDRlVWdxUzY2MGZJZEFpLXUydGRoVkZJeVk0eEN0c05LRVpRRno5VTkyNDloTUtGbVdDVmJnRXJCOGlES2FhWXY2R0gxckJkNDR5clJDbUpHOUJaQ3Q3Nzg4dDBHTl8wZVF3V1N5eXZlVUZxSzhmQ01OOU9QWFZCN2IxNmkwQWZsZk80MFpDaTBDYzg5cGhHRzhESTk5clR6OWhReWNWOTFBd1RyUXAxTmwta0JDS0UxOUt6ZjRUN1FUVW1KTkg3LWlhV0FMbUQtcXhWSlk?oc=5
 
 - Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable' - Investopedia
   Markets News, May 11, 2026: Stocks Start Week Higher as S&amp;P 500, Nas
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1U3bjUzME12WVhNT2dwamkxUTR4emJqeFdLbDV3bFZob2tpc0ZhbGdydUtCRVUyRjVQbm0zRmZqdmJWbnhfQW5RYkNGV1F3c1drZWI4UzY0Qi11TXRwVDlwdnItTGpYTWlJdW10bnNmd19oV1NnYnZiZ3JfSlFJSU9tR1VsU0JPVEFpQTBFTEI?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-groww-dr-reddys-share-price-12-may-2026/liveblog/131026575.cms
+- Domestic flows powering Indian markets despite FII exit: Gautam Trivedi
+  Despite foreign investor outflows, domestic investors are bolstering Indian equities. Domestic inflows, driven by retail and institutional investors seeking better returns, are offsetting FII exits.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/domestic-flows-powering-indian-markets-despite-fii-exit-gautam-trivedi/articleshow/131032851.cms
 
-- Stocks to buy in 2026 for long term: SBI, Swiggy among 5 stocks that could give 10-20% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-sbi-swiggy-among-5-stocks-that-could-give-10-20-return/slideshow/131026652.cms
+- Global Markets | Japan's Nikkei ends higher as AI-related shares rise
+  Tokyo Electron gave ​up early ​losses to end 0.14% higher. Advant
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-ends-higher-as-ai-related-shares-rise/articleshow/131032706.cms
 
-- Dollar steady as Middle East peace hopes recede
-  Middle East conflict fears are keeping the U.S. dollar steady. Investors worry about renewed hostilities and their impact on inflation, potentially delaying interest rate cuts.
-  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-steady-as-middle-east-peace-hopes-recede/articleshow/131026517.cms
+- Euro zone bond yields jump as Middle East peace deal hopes fade
+  Euro zone bond yields surged as hopes for a U.S.-Iran peace deal diminished. Rising oil prices and geopolitical uncertainty contributed to a more downbeat market sentiment.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-jump-as-middle-east-peace-deal-hopes-fade/articleshow/131032470.cms
 
-- Gold rises with US–China talks, MidEast conflict in focus
-  Gold prices climbed as investors awaited crucial meetings between U.S. President Trump and Chinese President Xi Jinping. Investors are also monitoring the fragile ceasefire negotiations with Iran. Market participants are also anticipating U
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-with-uschina-talks-mideast-conflict-in-focus/articleshow/131026496.cms
+- Global Markets | Australian shares fall for third day as banks weigh ahead of federal budget
+  Australia's stock market saw a decline for the third consecutive day. Banks led the losses as investors anticipated a federal budget focused on spending cuts and reforms.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-for-third-day-as-banks-weigh-ahead-of-federal-budget/articleshow/131032053.cms
 
-- Bears tighten grip on D-Street as GIFT Nifty points to weak opening
-  Indian equities saw a nearly 1.5% decline on Monday. Analysts anticipate continued caution due to escalating geopolitical tensions. The India VIX surged, indicating increased market nervousness.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/131026245.cms
-
-- Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC
-  Iran war: PM Modi urges Indians to work from home
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dEdSQ3h0d2x3Z3lNc0hwaFVXd3pDNUxtdzdfSmN4VEo4bU1mczZOZV9HdVV2dVJHTGRoNGpxZFJoV0NXVUZxeDZuckM2ckF3bWNTWWcxbHdndw?oc=5
-
-- A Year After Op Sindoor, Pak Army Chief's Unprovoked Threat To India - NDTV
-  A year after Op Sindoor, Pak Army Chief
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGM5ZDJRMlNZcVl3dm83dzZaZ1VvZXlwV2llaUhVVUxhdmd1ZVhlLTktTVdGZjRLMGJCT2lKbFZwdDBNa2JaUmVYR3cyYjRqWXJZcFpqZFpCYkp2S182aWYxcHNMampEZExPRzV0N2M3VkZwM1l2dGhqWmdJY2ZKQmFWZ3hOVDBoZzJleHlWejVEUkVyUGNVMmY4MTZsNDR6dm9kVlFUTUZUWUh5OFpicEJ2LU54X1l5ci1LckZDOEPSAcgBQVVfeXFMUENpUVVTY3JCQTI5aV9NTHdYRDJpZTdsVFprT0dOME9HZGpHVHd0ZXhIa3RFcGNyREs2WWRGaUw5SVpaZ1ZTNUw1S3F1a1RHdV9JbVpMZWFraVpGdllXcjRONVBTQlVUQ20zT09jTWNGLUtkRThnYlQ3TWlnSVFiMlkzOVVKNFZ1dTBGU1ZuRzhjQ3BIRzg2d056aGtVNXA5ZXhqeTNMa09wUm54ekluMkxMbC00MG0wTkowVl8zQWotbGlmNlBzblk?oc=5
-
-- India Post GDS 3rd merit list released at indiapost.gov.in: Direct link to download here - The Times of India
-  India Post GDS 3rd merit list released at indiapost.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQajJvUXpBVVlrRW1GSXZROWNXek1Gb0tCQjdFY25hcUs3OUt2bkRYS09EZUxnbUczWG83T3M1b3JxX1RobHFYVlJlRmoxRzhKOTFUQm9fZk9EbmhETXNwUUxOMFRrZ0J4ckc0ODYxZ3dodDhRSWdNdDMyWWx0MmNxZWc0ZEZRRDl3UlRpcVJoMXpmZzZnNEUzOUdHRXdnZzFuWTA3RW1uSTIycjg2b2FoNU1GWUphNEhEMnVoTldMLWJWTm5TcElvakFoY012ek1YUlpLZ3dFalB5NFpBTGNOTi13RnZmdzZjX1kwSG5DWXhUZFNJZ0o00gH8AUFVX3lxTE93Yk0ybTVHX3owNUR1V3F5eEtEM2lVUHFKUXk1eHlkTklFU1F1dFp4bWlFbVJNdG40OUIzMnFUMlh1UVFoTkxxdUJvT3dnYUthcUtTMGVhWHpSeUJwY3RLZy1uVEsxckNTazQyYjg2MzJHWUhrelhZeDRuYU0zWkUtRi1OcnY2UTl4TTJIZnFNR0FRNl9zSmFCSzFQOUtLUkhPMURqWkExZ2JZVTllNFo4U0MxZXBRbUF1VzFEbk9IeXJkVWtOOFVWREdXNVZuN3RKSFhld3Y0MlNuRk9yb1JBSHl6eUVqcllmUlJoYUs1d1hZRWd0eXZ6M2MwNQ?oc=5
-
-- India ranks 3rd globally in installed renewable energy capacity - News On AIR
-  India ranks 3rd globally in installed renewable energy
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNYZWpRQUo0Z2hSN0pseDh4T2sxM1RxTlZCX1FDRTQ5MEpoTmY3TFNWZm12d0pYdHhEczFfRnNzczhFVGxERVNoWG0yZ3RhbzFtUnFXcG83R2Fiei16dnJMVjcyY1NxQUFoM29yVE8yTWpqcGZIc0RuR2NuTE0yTlJfU0laekE2LVYwRVU5ZUkxRG9rbUlJWA?oc=5
-
-- Why TVK's White Paper could be a red flag for CM Vijay - India Today
-  TVK's White Paper could be a red flag for
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajVBeEFjMGtoYy11NThTbU9oWW5aMlFMVWxQUWFvWTJ3cHk0STZlTERXVmZkbFFGYTVWVWtKamV2eHVjVF9rcEtWVm1sbl9hZkFVZjltT1NGbi16LWRvemZFcDhXc2tRUWMzQkQwaHhFMmZFaWhxblN3dHBfSURzUzNpVXIxQ1AxTVZEbk4tWVFpbVVYMlBMQlhBbGF6NDBrRzFJTVQ3aXFMQ2ZLS1hkMnRpX1F1bzJ2UlRsa1pzSjRkeXVOcDVaSUs3UnkzLXVYeVZWS2pNSnNlZGN3QkUyTzdUMHk1UdIB6wFBVV95cUxOb1loaXlKQjlUeWV2OXZNWFJVT3U1Y1BPYk5SWFFHQmw2b3RPWC1lNG5JdTIzX1NEQ09vWHFTbVJvOHNfU0NhR3BKeFBCNU9pWERyZWVfbXg2ZTh3c2RSWEt4TGJDYlkxeldBaGI0aXlGM3JESC04NG9zZDVCNXZ6VEV4Ymc2ZVRVa3o5aFdiZEV6ZUozSEhhN3MtS2hwVGs3UVkxbl9tdzBiZkVNTVRqWFZLc3JwYU5sN3lpcG83aTktVGRVaUVza2dfeG14YWVVNWJFODZXaGJmaDdOTWhXVWF2RWNTdGFnMWs4?oc=5
+- Bitcoin slips below $81K after Trump rejects Iran peace proposal; institutional investors continue accumulating BTC
+  Bitcoin slipped below $81,000 after briefly crossing $82,000. Despite volatility, BTC held key support, while institutional buying and ETF inflows signalled steady demand. Altcoins were mixed, with select
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-below-81k-after-trump-rejects-iran-peace-proposal-institutional-investors-continue-accumulating-btc/articleshow/131031969.cms
 
 - Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC
   Iran war: PM Modi urges Indians to work from home
@@ -168,17 +148,17 @@
   A year after Op Sindoor, Pak Army Chief
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGM5ZDJRMlNZcVl3dm83dzZaZ1VvZXlwV2llaUhVVUxhdmd1ZVhlLTktTVdGZjRLMGJCT2lKbFZwdDBNa2JaUmVYR3cyYjRqWXJZcFpqZFpCYkp2S182aWYxcHNMampEZExPRzV0N2M3VkZwM1l2dGhqWmdJY2ZKQmFWZ3hOVDBoZzJleHlWejVEUkVyUGNVMmY4MTZsNDR6dm9kVlFUTUZUWUh5OFpicEJ2LU54X1l5ci1LckZDOEPSAcgBQVVfeXFMUENpUVVTY3JCQTI5aV9NTHdYRDJpZTdsVFprT0dOME9HZGpHVHd0ZXhIa3RFcGNyREs2WWRGaUw5SVpaZ1ZTNUw1S3F1a1RHdV9JbVpMZWFraVpGdllXcjRONVBTQlVUQ20zT09jTWNGLUtkRThnYlQ3TWlnSVFiMlkzOVVKNFZ1dTBGU1ZuRzhjQ3BIRzg2d056aGtVNXA5ZXhqeTNMa09wUm54ekluMkxMbC00MG0wTkowVl8zQWotbGlmNlBzblk?oc=5
 
-- India Post GDS 3rd merit list released at indiapost.gov.in: Direct link to download here - The Times of India
-  India Post GDS 3rd merit list released at indiapost.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQajJvUXpBVVlrRW1GSXZROWNXek1Gb0tCQjdFY25hcUs3OUt2bkRYS09EZUxnbUczWG83T3M1b3JxX1RobHFYVlJlRmoxRzhKOTFUQm9fZk9EbmhETXNwUUxOMFRrZ0J4ckc0ODYxZ3dodDhRSWdNdDMyWWx0MmNxZWc0ZEZRRDl3UlRpcVJoMXpmZzZnNEUzOUdHRXdnZzFuWTA3RW1uSTIycjg2b2FoNU1GWUphNEhEMnVoTldMLWJWTm5TcElvakFoY012ek1YUlpLZ3dFalB5NFpBTGNOTi13RnZmdzZjX1kwSG5DWXhUZFNJZ0o00gH8AUFVX3lxTE93Yk0ybTVHX3owNUR1V3F5eEtEM2lVUHFKUXk1eHlkTklFU1F1dFp4bWlFbVJNdG40OUIzMnFUMlh1UVFoTkxxdUJvT3dnYUthcUtTMGVhWHpSeUJwY3RLZy1uVEsxckNTazQyYjg2MzJHWUhrelhZeDRuYU0zWkUtRi1OcnY2UTl4TTJIZnFNR0FRNl9zSmFCSzFQOUtLUkhPMURqWkExZ2JZVTllNFo4U0MxZXBRbUF1VzFEbk9IeXJkVWtOOFVWREdXNVZuN3RKSFhld3Y0MlNuRk9yb1JBSHl6eUVqcllmUlJoYUs1d1hZRWd0eXZ6M2MwNQ?oc=5
+- 10 countries with the most mosquitoes, does India figure in the list? - The Times of India
+  10 countries with the most mosquitoes, does India figure in the list
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWng5QTFIVXVyUENOdlZ1SGx0VHVTaFpkV3VhRjFIN2szYzlJRXYwM09mNVVRU2oycEVKd0dNMGxpbEFRNU81R19nUkNYbV9NWUFuUGVNU0dTeUZaUHpET0kzZmtkOEJNS21uVUJQa3l6dFNkOTUxRnN2T015cGFVcjhMTUVpUlgzUVZ2cklSNXZnWk5EV1Y5VGVRbnRIUEtGWjBIVlFuQjcxMXNLT1B1QTB6TzdlWUJ0WXJOMFBZTkRZaXdNYkpaT2VfOG5DNTdKNWw4Z3c5OFlHZzU2UjUtbTlsTlBRUQ?oc=5
 
-- India ranks 3rd globally in installed renewable energy capacity - News On AIR
-  India ranks 3rd globally in installed renewable energy
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNYZWpRQUo0Z2hSN0pseDh4T2sxM1RxTlZCX1FDRTQ5MEpoTmY3TFNWZm12d0pYdHhEczFfRnNzczhFVGxERVNoWG0yZ3RhbzFtUnFXcG83R2Fiei16dnJMVjcyY1NxQUFoM29yVE8yTWpqcGZIc0RuR2NuTE0yTlJfU0laekE2LVYwRVU5ZUkxRG9rbUlJWA?oc=5
+- Sports Authority of India & MyBharat Launch Nationwide Engagement Initiatives Ahead of Commonwealth Games - News On AIR
+  Sports Authority of India & MyBharat Launch Nationwide Engagement Initi
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhmY2hRcEJlNUVMNXhfUHFVRy1XSmI5VzRaQnhHRWY1Zll4aUd6OUZXdG9ESmZGMTB1Z0p4dGE2aDBFRHoybmJhUXh0RkZhX0JhSGxFdnZxOWFBNlBia0doZ1o2bnBmWGh5QUEtc1c0NGxXTlBtODRMMU9iRFlsWTRHd05fcDI4UG4za1M2VW5qZWpaOTd1NlNWdkFqQ1FwUGpIOVkya3lUQTh2OS1SbUVOOXdfc2tfUXVGbU5saFdSNjBCbjdKVmVTeUdmdw?oc=5
 
-- Why TVK's White Paper could be a red flag for CM Vijay - India Today
-  TVK's White Paper could be a red flag for
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajVBeEFjMGtoYy11NThTbU9oWW5aMlFMVWxQUWFvWTJ3cHk0STZlTERXVmZkbFFGYTVWVWtKamV2eHVjVF9rcEtWVm1sbl9hZkFVZjltT1NGbi16LWRvemZFcDhXc2tRUWMzQkQwaHhFMmZFaWhxblN3dHBfSURzUzNpVXIxQ1AxTVZEbk4tWVFpbVVYMlBMQlhBbGF6NDBrRzFJTVQ3aXFMQ2ZLS1hkMnRpX1F1bzJ2UlRsa1pzSjRkeXVOcDVaSUs3UnkzLXVYeVZWS2pNSnNlZGN3QkUyTzdUMHk1UdIB6wFBVV95cUxOb1loaXlKQjlUeWV2OXZNWFJVT3U1Y1BPYk5SWFFHQmw2b3RPWC1lNG5JdTIzX1NEQ09vWHFTbVJvOHNfU0NhR3BKeFBCNU9pWERyZWVfbXg2ZTh3c2RSWEt4TGJDYlkxeldBaGI0aXlGM3JESC04NG9zZDVCNXZ6VEV4Ymc2ZVRVa3o5aFdiZEV6ZUozSEhhN3MtS2hwVGs3UVkxbl9tdzBiZkVNTVRqWFZLc3JwYU5sN3lpcG83aTktVGRVaUVza2dfeG14YWVVNWJFODZXaGJmaDdOTWhXVWF2RWNTdGFnMWs4?oc=5
+- Higher ethanol blending: India’s next energy leap must begin now - The Times of India
+  The Times of India says India's next energy leap must
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlJDcjZDSU03c3NjN19yN1VFWHRjSnk0ekQ2alBWZWd4Y2Vwb01VQUw1M0daNm9CTGFMWVVIZzZJMW9wZ1c1RFE3UVZmQWFlYVJsU3FxQllMUG94ZGdvdUV6Rlg2bzVOS01fT3FvVmtLREVVZkY0UnZqUHZNQ1UzNnY3bGFMWkNYTGxTVGZzUWpRVnJNa21LdVJVZWNxRVRJSW1Ua1Y4R2lNekZCSC1Qc2NUZHFZSlI3Q0NObjZ1VEROWk5tand3SGRtYnYzMGhLTUo5OU15NVIyMk9PcGfSAeMBQVVfeXFMUFZ0Rl9uTDBmeG54NWhuT1dndUhJY2lIZzIzV00zMEl2VGpBVWV4aVRzaTYyVEN3V1VwbkdBZEZrMDVVYjdaQno0cDFxZGo0b2RzaE5tMzZDNDYta19CUFA5RXZ5dVl5T1dfcXcwQ2NkY2ExdkxETG1DcVJqZTNCSDNnRE80TVhrOGtVcjV1QlhYSXJCTWNLUjNsN1R5Z2p0NjViaEJ3bXBybFI1bi1SMHptc2JTY3MybklyWTY2M3IxWmdneHF4ZWMxRDQ3aHFOY0Y1NGhjZ3RGX0pITF9PYnRrMU0?oc=5
 
 - Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC
   Iran war: PM Modi urges Indians to work from home
@@ -188,17 +168,57 @@
   A year after Op Sindoor, Pak Army Chief
   🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGM5ZDJRMlNZcVl3dm83dzZaZ1VvZXlwV2llaUhVVUxhdmd1ZVhlLTktTVdGZjRLMGJCT2lKbFZwdDBNa2JaUmVYR3cyYjRqWXJZcFpqZFpCYkp2S182aWYxcHNMampEZExPRzV0N2M3VkZwM1l2dGhqWmdJY2ZKQmFWZ3hOVDBoZzJleHlWejVEUkVyUGNVMmY4MTZsNDR6dm9kVlFUTUZUWUh5OFpicEJ2LU54X1l5ci1LckZDOEPSAcgBQVVfeXFMUENpUVVTY3JCQTI5aV9NTHdYRDJpZTdsVFprT0dOME9HZGpHVHd0ZXhIa3RFcGNyREs2WWRGaUw5SVpaZ1ZTNUw1S3F1a1RHdV9JbVpMZWFraVpGdllXcjRONVBTQlVUQ20zT09jTWNGLUtkRThnYlQ3TWlnSVFiMlkzOVVKNFZ1dTBGU1ZuRzhjQ3BIRzg2d056aGtVNXA5ZXhqeTNMa09wUm54ekluMkxMbC00MG0wTkowVl8zQWotbGlmNlBzblk?oc=5
 
-- India Post GDS 3rd merit list released at indiapost.gov.in: Direct link to download here - The Times of India
-  India Post GDS 3rd merit list released at indiapost.
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQajJvUXpBVVlrRW1GSXZROWNXek1Gb0tCQjdFY25hcUs3OUt2bkRYS09EZUxnbUczWG83T3M1b3JxX1RobHFYVlJlRmoxRzhKOTFUQm9fZk9EbmhETXNwUUxOMFRrZ0J4ckc0ODYxZ3dodDhRSWdNdDMyWWx0MmNxZWc0ZEZRRDl3UlRpcVJoMXpmZzZnNEUzOUdHRXdnZzFuWTA3RW1uSTIycjg2b2FoNU1GWUphNEhEMnVoTldMLWJWTm5TcElvakFoY012ek1YUlpLZ3dFalB5NFpBTGNOTi13RnZmdzZjX1kwSG5DWXhUZFNJZ0o00gH8AUFVX3lxTE93Yk0ybTVHX3owNUR1V3F5eEtEM2lVUHFKUXk1eHlkTklFU1F1dFp4bWlFbVJNdG40OUIzMnFUMlh1UVFoTkxxdUJvT3dnYUthcUtTMGVhWHpSeUJwY3RLZy1uVEsxckNTazQyYjg2MzJHWUhrelhZeDRuYU0zWkUtRi1OcnY2UTl4TTJIZnFNR0FRNl9zSmFCSzFQOUtLUkhPMURqWkExZ2JZVTllNFo4U0MxZXBRbUF1VzFEbk9IeXJkVWtOOFVWREdXNVZuN3RKSFhld3Y0MlNuRk9yb1JBSHl6eUVqcllmUlJoYUs1d1hZRWd0eXZ6M2MwNQ?oc=5
+- 10 countries with the most mosquitoes, does India figure in the list? - The Times of India
+  10 countries with the most mosquitoes, does India figure in the list
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWng5QTFIVXVyUENOdlZ1SGx0VHVTaFpkV3VhRjFIN2szYzlJRXYwM09mNVVRU2oycEVKd0dNMGxpbEFRNU81R19nUkNYbV9NWUFuUGVNU0dTeUZaUHpET0kzZmtkOEJNS21uVUJQa3l6dFNkOTUxRnN2T015cGFVcjhMTUVpUlgzUVZ2cklSNXZnWk5EV1Y5VGVRbnRIUEtGWjBIVlFuQjcxMXNLT1B1QTB6TzdlWUJ0WXJOMFBZTkRZaXdNYkpaT2VfOG5DNTdKNWw4Z3c5OFlHZzU2UjUtbTlsTlBRUQ?oc=5
 
-- India ranks 3rd globally in installed renewable energy capacity - News On AIR
-  India ranks 3rd globally in installed renewable energy
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxONnNYZWpRQUo0Z2hSN0pseDh4T2sxM1RxTlZCX1FDRTQ5MEpoTmY3TFNWZm12d0pYdHhEczFfRnNzczhFVGxERVNoWG0yZ3RhbzFtUnFXcG83R2Fiei16dnJMVjcyY1NxQUFoM29yVE8yTWpqcGZIc0RuR2NuTE0yTlJfU0laekE2LVYwRVU5ZUkxRG9rbUlJWA?oc=5
+- Sports Authority of India & MyBharat Launch Nationwide Engagement Initiatives Ahead of Commonwealth Games - News On AIR
+  Sports Authority of India & MyBharat Launch Nationwide Engagement Initi
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhmY2hRcEJlNUVMNXhfUHFVRy1XSmI5VzRaQnhHRWY1Zll4aUd6OUZXdG9ESmZGMTB1Z0p4dGE2aDBFRHoybmJhUXh0RkZhX0JhSGxFdnZxOWFBNlBia0doZ1o2bnBmWGh5QUEtc1c0NGxXTlBtODRMMU9iRFlsWTRHd05fcDI4UG4za1M2VW5qZWpaOTd1NlNWdkFqQ1FwUGpIOVkya3lUQTh2OS1SbUVOOXdfc2tfUXVGbU5saFdSNjBCbjdKVmVTeUdmdw?oc=5
 
-- Why TVK's White Paper could be a red flag for CM Vijay - India Today
-  TVK's White Paper could be a red flag for
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOajVBeEFjMGtoYy11NThTbU9oWW5aMlFMVWxQUWFvWTJ3cHk0STZlTERXVmZkbFFGYTVWVWtKamV2eHVjVF9rcEtWVm1sbl9hZkFVZjltT1NGbi16LWRvemZFcDhXc2tRUWMzQkQwaHhFMmZFaWhxblN3dHBfSURzUzNpVXIxQ1AxTVZEbk4tWVFpbVVYMlBMQlhBbGF6NDBrRzFJTVQ3aXFMQ2ZLS1hkMnRpX1F1bzJ2UlRsa1pzSjRkeXVOcDVaSUs3UnkzLXVYeVZWS2pNSnNlZGN3QkUyTzdUMHk1UdIB6wFBVV95cUxOb1loaXlKQjlUeWV2OXZNWFJVT3U1Y1BPYk5SWFFHQmw2b3RPWC1lNG5JdTIzX1NEQ09vWHFTbVJvOHNfU0NhR3BKeFBCNU9pWERyZWVfbXg2ZTh3c2RSWEt4TGJDYlkxeldBaGI0aXlGM3JESC04NG9zZDVCNXZ6VEV4Ymc2ZVRVa3o5aFdiZEV6ZUozSEhhN3MtS2hwVGs3UVkxbl9tdzBiZkVNTVRqWFZLc3JwYU5sN3lpcG83aTktVGRVaUVza2dfeG14YWVVNWJFODZXaGJmaDdOTWhXVWF2RWNTdGFnMWs4?oc=5
+- Higher ethanol blending: India’s next energy leap must begin now - The Times of India
+  The Times of India says India's next energy leap must
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlJDcjZDSU03c3NjN19yN1VFWHRjSnk0ekQ2alBWZWd4Y2Vwb01VQUw1M0daNm9CTGFMWVVIZzZJMW9wZ1c1RFE3UVZmQWFlYVJsU3FxQllMUG94ZGdvdUV6Rlg2bzVOS01fT3FvVmtLREVVZkY0UnZqUHZNQ1UzNnY3bGFMWkNYTGxTVGZzUWpRVnJNa21LdVJVZWNxRVRJSW1Ua1Y4R2lNekZCSC1Qc2NUZHFZSlI3Q0NObjZ1VEROWk5tand3SGRtYnYzMGhLTUo5OU15NVIyMk9PcGfSAeMBQVVfeXFMUFZ0Rl9uTDBmeG54NWhuT1dndUhJY2lIZzIzV00zMEl2VGpBVWV4aVRzaTYyVEN3V1VwbkdBZEZrMDVVYjdaQno0cDFxZGo0b2RzaE5tMzZDNDYta19CUFA5RXZ5dVl5T1dfcXcwQ2NkY2ExdkxETG1DcVJqZTNCSDNnRE80TVhrOGtVcjV1QlhYSXJCTWNLUjNsN1R5Z2p0NjViaEJ3bXBybFI1bi1SMHptc2JTY3MybklyWTY2M3IxWmdneHF4ZWMxRDQ3aHFOY0Y1NGhjZ3RGX0pITF9PYnRrMU0?oc=5
+
+- Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC
+  Iran war: PM Modi urges Indians to work from home
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dEdSQ3h0d2x3Z3lNc0hwaFVXd3pDNUxtdzdfSmN4VEo4bU1mczZOZV9HdVV2dVJHTGRoNGpxZFJoV0NXVUZxeDZuckM2ckF3bWNTWWcxbHdndw?oc=5
+
+- A Year After Op Sindoor, Pak Army Chief's Unprovoked Threat To India - NDTV
+  A year after Op Sindoor, Pak Army Chief
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGM5ZDJRMlNZcVl3dm83dzZaZ1VvZXlwV2llaUhVVUxhdmd1ZVhlLTktTVdGZjRLMGJCT2lKbFZwdDBNa2JaUmVYR3cyYjRqWXJZcFpqZFpCYkp2S182aWYxcHNMampEZExPRzV0N2M3VkZwM1l2dGhqWmdJY2ZKQmFWZ3hOVDBoZzJleHlWejVEUkVyUGNVMmY4MTZsNDR6dm9kVlFUTUZUWUh5OFpicEJ2LU54X1l5ci1LckZDOEPSAcgBQVVfeXFMUENpUVVTY3JCQTI5aV9NTHdYRDJpZTdsVFprT0dOME9HZGpHVHd0ZXhIa3RFcGNyREs2WWRGaUw5SVpaZ1ZTNUw1S3F1a1RHdV9JbVpMZWFraVpGdllXcjRONVBTQlVUQ20zT09jTWNGLUtkRThnYlQ3TWlnSVFiMlkzOVVKNFZ1dTBGU1ZuRzhjQ3BIRzg2d056aGtVNXA5ZXhqeTNMa09wUm54ekluMkxMbC00MG0wTkowVl8zQWotbGlmNlBzblk?oc=5
+
+- 10 countries with the most mosquitoes, does India figure in the list? - The Times of India
+  10 countries with the most mosquitoes, does India figure in the list
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWng5QTFIVXVyUENOdlZ1SGx0VHVTaFpkV3VhRjFIN2szYzlJRXYwM09mNVVRU2oycEVKd0dNMGxpbEFRNU81R19nUkNYbV9NWUFuUGVNU0dTeUZaUHpET0kzZmtkOEJNS21uVUJQa3l6dFNkOTUxRnN2T015cGFVcjhMTUVpUlgzUVZ2cklSNXZnWk5EV1Y5VGVRbnRIUEtGWjBIVlFuQjcxMXNLT1B1QTB6TzdlWUJ0WXJOMFBZTkRZaXdNYkpaT2VfOG5DNTdKNWw4Z3c5OFlHZzU2UjUtbTlsTlBRUQ?oc=5
+
+- Sports Authority of India & MyBharat Launch Nationwide Engagement Initiatives Ahead of Commonwealth Games - News On AIR
+  Sports Authority of India & MyBharat Launch Nationwide Engagement Initi
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhmY2hRcEJlNUVMNXhfUHFVRy1XSmI5VzRaQnhHRWY1Zll4aUd6OUZXdG9ESmZGMTB1Z0p4dGE2aDBFRHoybmJhUXh0RkZhX0JhSGxFdnZxOWFBNlBia0doZ1o2bnBmWGh5QUEtc1c0NGxXTlBtODRMMU9iRFlsWTRHd05fcDI4UG4za1M2VW5qZWpaOTd1NlNWdkFqQ1FwUGpIOVkya3lUQTh2OS1SbUVOOXdfc2tfUXVGbU5saFdSNjBCbjdKVmVTeUdmdw?oc=5
+
+- Higher ethanol blending: India’s next energy leap must begin now - The Times of India
+  The Times of India says India's next energy leap must
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlJDcjZDSU03c3NjN19yN1VFWHRjSnk0ekQ2alBWZWd4Y2Vwb01VQUw1M0daNm9CTGFMWVVIZzZJMW9wZ1c1RFE3UVZmQWFlYVJsU3FxQllMUG94ZGdvdUV6Rlg2bzVOS01fT3FvVmtLREVVZkY0UnZqUHZNQ1UzNnY3bGFMWkNYTGxTVGZzUWpRVnJNa21LdVJVZWNxRVRJSW1Ua1Y4R2lNekZCSC1Qc2NUZHFZSlI3Q0NObjZ1VEROWk5tand3SGRtYnYzMGhLTUo5OU15NVIyMk9PcGfSAeMBQVVfeXFMUFZ0Rl9uTDBmeG54NWhuT1dndUhJY2lIZzIzV00zMEl2VGpBVWV4aVRzaTYyVEN3V1VwbkdBZEZrMDVVYjdaQno0cDFxZGo0b2RzaE5tMzZDNDYta19CUFA5RXZ5dVl5T1dfcXcwQ2NkY2ExdkxETG1DcVJqZTNCSDNnRE80TVhrOGtVcjV1QlhYSXJCTWNLUjNsN1R5Z2p0NjViaEJ3bXBybFI1bi1SMHptc2JTY3MybklyWTY2M3IxWmdneHF4ZWMxRDQ3aHFOY0Y1NGhjZ3RGX0pITF9PYnRrMU0?oc=5
+
+- Iran war: PM Modi urges Indians to work from home, limit foreign travel - BBC
+  Iran war: PM Modi urges Indians to work from home
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dEdSQ3h0d2x3Z3lNc0hwaFVXd3pDNUxtdzdfSmN4VEo4bU1mczZOZV9HdVV2dVJHTGRoNGpxZFJoV0NXVUZxeDZuckM2ckF3bWNTWWcxbHdndw?oc=5
+
+- A Year After Op Sindoor, Pak Army Chief's Unprovoked Threat To India - NDTV
+  A year after Op Sindoor, Pak Army Chief
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGM5ZDJRMlNZcVl3dm83dzZaZ1VvZXlwV2llaUhVVUxhdmd1ZVhlLTktTVdGZjRLMGJCT2lKbFZwdDBNa2JaUmVYR3cyYjRqWXJZcFpqZFpCYkp2S182aWYxcHNMampEZExPRzV0N2M3VkZwM1l2dGhqWmdJY2ZKQmFWZ3hOVDBoZzJleHlWejVEUkVyUGNVMmY4MTZsNDR6dm9kVlFUTUZUWUh5OFpicEJ2LU54X1l5ci1LckZDOEPSAcgBQVVfeXFMUENpUVVTY3JCQTI5aV9NTHdYRDJpZTdsVFprT0dOME9HZGpHVHd0ZXhIa3RFcGNyREs2WWRGaUw5SVpaZ1ZTNUw1S3F1a1RHdV9JbVpMZWFraVpGdllXcjRONVBTQlVUQ20zT09jTWNGLUtkRThnYlQ3TWlnSVFiMlkzOVVKNFZ1dTBGU1ZuRzhjQ3BIRzg2d056aGtVNXA5ZXhqeTNMa09wUm54ekluMkxMbC00MG0wTkowVl8zQWotbGlmNlBzblk?oc=5
+
+- 10 countries with the most mosquitoes, does India figure in the list? - The Times of India
+  10 countries with the most mosquitoes, does India figure in the list
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWng5QTFIVXVyUENOdlZ1SGx0VHVTaFpkV3VhRjFIN2szYzlJRXYwM09mNVVRU2oycEVKd0dNMGxpbEFRNU81R19nUkNYbV9NWUFuUGVNU0dTeUZaUHpET0kzZmtkOEJNS21uVUJQa3l6dFNkOTUxRnN2T015cGFVcjhMTUVpUlgzUVZ2cklSNXZnWk5EV1Y5VGVRbnRIUEtGWjBIVlFuQjcxMXNLT1B1QTB6TzdlWUJ0WXJOMFBZTkRZaXdNYkpaT2VfOG5DNTdKNWw4Z3c5OFlHZzU2UjUtbTlsTlBRUQ?oc=5
+
+- Sports Authority of India & MyBharat Launch Nationwide Engagement Initiatives Ahead of Commonwealth Games - News On AIR
+  Sports Authority of India & MyBharat Launch Nationwide Engagement Initi
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhmY2hRcEJlNUVMNXhfUHFVRy1XSmI5VzRaQnhHRWY1Zll4aUd6OUZXdG9ESmZGMTB1Z0p4dGE2aDBFRHoybmJhUXh0RkZhX0JhSGxFdnZxOWFBNlBia0doZ1o2bnBmWGh5QUEtc1c0NGxXTlBtODRMMU9iRFlsWTRHd05fcDI4UG4za1M2VW5qZWpaOTd1NlNWdkFqQ1FwUGpIOVkya3lUQTh2OS1SbUVOOXdfc2tfUXVGbU5saFdSNjBCbjdKVmVTeUdmdw?oc=5
+
+- Higher ethanol blending: India’s next energy leap must begin now - The Times of India
+  The Times of India says India's next energy leap must
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlJDcjZDSU03c3NjN19yN1VFWHRjSnk0ekQ2alBWZWd4Y2Vwb01VQUw1M0daNm9CTGFMWVVIZzZJMW9wZ1c1RFE3UVZmQWFlYVJsU3FxQllMUG94ZGdvdUV6Rlg2bzVOS01fT3FvVmtLREVVZkY0UnZqUHZNQ1UzNnY3bGFMWkNYTGxTVGZzUWpRVnJNa21LdVJVZWNxRVRJSW1Ua1Y4R2lNekZCSC1Qc2NUZHFZSlI3Q0NObjZ1VEROWk5tand3SGRtYnYzMGhLTUo5OU15NVIyMk9PcGfSAeMBQVVfeXFMUFZ0Rl9uTDBmeG54NWhuT1dndUhJY2lIZzIzV00zMEl2VGpBVWV4aVRzaTYyVEN3V1VwbkdBZEZrMDVVYjdaQno0cDFxZGo0b2RzaE5tMzZDNDYta19CUFA5RXZ5dVl5T1dfcXcwQ2NkY2ExdkxETG1DcVJqZTNCSDNnRE80TVhrOGtVcjV1QlhYSXJCTWNLUjNsN1R5Z2p0NjViaEJ3bXBybFI1bi1SMHptc2JTY3MybklyWTY2M3IxWmdneHF4ZWMxRDQ3aHFOY0Y1NGhjZ3RGX0pITF9PYnRrMU0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-12 02:35:35 UTC_
+_Last updated: 2026-05-12 08:36:31 UTC_
