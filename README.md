@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Pawan Khera questioned till night by Assam cops for remarks on CM Himanta’s wife
+  
+  🔗 https://indianexpress.com/article/india/pawan-khera-assam-police-questioning-himanta-sarma-wife-fir-10688087/
+
+- CBI Director gets another extension day after Rahul Gandhi records dissent
+  
+  🔗 https://indianexpress.com/article/india/cbi-director-praveen-sood-tenure-extension-rahul-gandhi-dissent-10688041/
+
+- ‘Sack all NTA officials, treat issue like organised crime’: RSS-linked bodies slam NEET paper leak
+  
+  🔗 https://indianexpress.com/article/india/neet-ug-paper-leak-rss-abvp-vidya-bharati-nta-reforms-10687989/
+
 - AIADMK sacks rival faction leaders SP Velumani, C Ve Shanmugam from party posts
   
   🔗 https://indianexpress.com/article/india/aiadmk-split-eps-removes-velumani-shanmugam-rebel-mlas-tvk-trust-vote-10687871/
@@ -8,23 +20,11 @@
   
   🔗 https://indianexpress.com/article/india/neet-paper-leak-case-cbi-arrest-nationwide-raids-jaipur-nashik-10687773/
 
-- IMD warns of severe heatwave across Rajasthan, Delhi and UP until May 19
-  
-  🔗 https://indianexpress.com/article/india/imd-heatwave-alert-rajasthan-delhi-up-temperature-forecast-may-19-10687516/
-
-- NEET-UG leak probe widens, scores picked up across Maharashtra, Rajasthan
-  
-  🔗 https://indianexpress.com/article/india/neet-ug-paper-leak-cbi-detains-three-maharashtra-rajasthan-nta-exam-cancelled-10687385/
-
-- ‘Shot in the arm’: NIA arrests Hizbul terror funding accused Iqbal Singh Shera after Portugal extradition
-  
-  🔗 https://indianexpress.com/article/india/nia-arrests-iqbal-singh-shera-portugal-extradition-hizbul-case-10687319/
-
 - Meta launches Incognito Chat for private user conversations with Meta AI on WhatsApp
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-launches-incognito-chat-ai-chatbot-10687546/
 
-- Vivo X300 FE: A stylish flagship with standout cameras and performance
+- Vivo X300 FE review: A stylish flagship with standout cameras and performance
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/vivo-x300-fe-review-10687472/
 
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/motorola-enters-indias-premium-foldable-market-with-the-new-razr-fold-10687515/
 
-- Bombay High Court allows petitioner to withdraw plea challenging Tata Trusts board composition
-  The court pulled up the petitioner for seeking an urgent stay on a key trust meeting. His formal complaint regarding ‘life
-  🔗 https://www.livemint.com/companies/news/bombay-high-court-tata-trusts-board-meeting-petition-withdrawn-11778672946315.html
+- Silicon Valley Prosecutor Targets Foreign Corporate Spying
+  Silicon Valley’s top federal prosecutor said his top priorities include cases of trade-
+  🔗 https://www.livemint.com/companies/silicon-valley-prosecutor-targets-foreign-corporate-spying-11778700455000.html
 
-- Chinas Alibaba reports 38% jump in AI and cloud revenue as it races to grow
-  China's Alibaba reports 38% jump in AI and
-  🔗 https://www.livemint.com/companies/chinas-alibaba-reports-38-jump-in-ai-and-cloud-revenue-as-it-races-to-grow-11778680825584.html
+- Exxon, Chevron face dissent from proxy firms ahead of annual meetings
+  Exxon, Chevron face dissent from
+  🔗 https://www.livemint.com/companies/exxon-chevron-face-dissent-from-proxy-firms-ahead-of-annual-meetings-11778697787055.html
 
-- Beyond the ‘avocado consumer’: How Aarti Gill built a supplement powerhouse
-  Aarti Gill and Mihir Gadani retrace the rollercoaster journey they endured to get from start to finish. Oziva has gone from struggling to secure a
-  🔗 https://www.livemint.com/companies/oziva-hul-acquisition-aarti-gill-interview-11778663914585.html
+- Zydus to acquire US cancer drug company Assertio for $166.4 million in all-cash deal
+  The deal is the latest in a string of overseas acquisitions by the Ahmedabad drugmaker as it looks to diversify
+  🔗 https://www.livemint.com/companies/news/zydus-lifesciences-news-zydus-assertio-acquisition-11778686942088.html
 
-- Jack Daniel's maker Brown-Forman bets on premium push, wider drinking 'repertoire'
-  Brown-Forman, the maker of Jack Daniel's, is poised for growth in the premium spirits market. The American company plans to bring in more products, driven by changing preferences
-  🔗 https://www.livemint.com/companies/news/jack-daniels-brown-forman-whiskey-fmcg-us-fta-11778648250757.html
+- Bharti Airtel board approves re-appointment of Sunil Bharti Mittal as chairman for 5 years
+  Bharti Airtel's board approved the re-appointment of Sunil Bharti Mittal as Chairman for a term of five years. Nisaba Godre
+  🔗 https://www.livemint.com/companies/news/bharti-airtel-board-approves-re-appointment-of-sunil-bharti-mittal-as-chairman-for-5-years-11778684520077.html
 
-- Trump’s China visit: Why Nvidia's Jensen Huang’s surprise Beijing trip is drawing global attention
-  Nvidia Corp. co-founder Jensen Huang joined US President Donald Trump on his visit to China.
-  🔗 https://www.livemint.com/companies/people/trumps-china-visit-why-nvidias-jensen-huang-s-surprise-beijing-trip-is-drawing-global-attention-11778660142580.html
+- DLF's sales bookings drop in FY26
+  Top developers Godrej Properties, Lodha, Prestige Estates and DLF reported cumulative sales book
+  🔗 https://www.livemint.com/companies/company-results/dlf-sales-bookings-fy26-dlf-earnings-real-estate-india-godrej-properties-lodha-prestige-estates-11778574170218.html
 
-- DLF Q4 Results: Net profit flat at  ₹1,265 crore, revenue falls 42% YoY;  ₹8 dividend announced
-  DLF reported Q4 FY26 revenue of  ₹2,172 crore, an 8% growth sequentially but down 42% YoY. Net profit before JV
-  🔗 https://www.livemint.com/market/stock-market-news/dlf-q4-results-net-profit-flat-at-rs-1-265-crore-revenue-falls-42-yoy-rs-8-dividend-announced-11778680297251.html
+- Oil settles lower on US rate hike fears; investors watch Trump-Xi meeting
+  Oil settles lower on US rate hike
+  🔗 https://www.livemint.com/market/oil-settles-lower-on-us-rate-hike-fears-investors-watch-trump-xi-meeting-11778701267944.html
 
-- Wall Street slips after sharply higher inflation
-  The Dow Jones Industrial Average was down 0.5%. The S&amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-after-sharply-higher-inflation-11778680440685.html
+- Alibaba shares surge nearly 8% as firm expects to exceed $55.96 billion AI spending target
+  Alibaba’s profitability was squeezed by heavy investments in AI infrastructure and
+  🔗 https://www.livemint.com/market/stock-market-news/alibaba-shares-surge-nearly-8-as-firm-expects-to-exceed-55-96-billion-ai-spending-target-11778691780081.html
 
-- Sebi proposes overhaul of municipal bond rules to deepen urban infrastructure financing market
-  Key changes proposed include pooled bond issuances, stricter disclosure norms, and incentives for retail investors.
-  🔗 https://www.livemint.com/market/bonds/sebi-municipal-bond-rules-revamp-india-11778672936995.html
+- Gold, silver rates today: Comex gold jumps $49/oz, silver rallies $4.3/oz to two-month high
+  Higher US inflation raised expectations for a Federal Reserve rate hike. Geopolitical risks and central bank buying supported gold's resilience.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-49-oz-silver-rallies-4-3-oz-to-two-month-high-11778687449135.html
 
-- Clean Max Enviro Energy shares surge 7% after strong Q4 earnings; up 70% in under 2 months
-  Clean Max Enviro Energy Solutions shares rose 7% to  ₹1,309 after strong March quarter results, with 25% revenue growth. Net profit surged 165% to  �
-  🔗 https://www.livemint.com/market/stock-market-news/clean-max-enviro-energy-shares-surge-7-after-strong-q4-earnings-up-70-in-under-2-months-11778669425779.html
+- Small-cap stock Bajel Projects to be in focus on Thursday as company secures multiple EPC orders
+  Bajel Projects secured two new orders from Power Grid Corporation of India. The projects involve a 765kV substation in Pune and a 400kV transmission line.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-bajel-projects-to-be-in-focus-on-thursday-as-company-secures-multiple-epc-orders-11778677978877.html
 
-- Tata Motors posts stellar Q4 results: Should you buy this Tata group stock after earnings?
-  The demerged Tata Motors arm, on 13 May, posted a massive 69.56% year-on-year (YoY) jump in its
-  🔗 https://www.livemint.com/market/stock-market-news/tata-motors-posts-stellar-q4-results-should-you-buy-this-tata-group-stock-after-earnings-11778675677238.html
+- Sebi plans bond distributor model to deepen retail debt market
+  The regulator plans to create a specialised category of bond distributors, mirroring the mutual fund model. Sebi whole time member Amarjeet Singh
+  🔗 https://www.livemint.com/market/bonds/sebi-plans-bond-distributor-model-to-deepen-retail-debt-market-11778677366384.html
 
 - Google confirms which OnePlus, Oppo, Xiaomi and Vivo phones are getting AirDrop support via Quick Share
   Google is expanding Quick Share support for iPhones to more devices, including OnePlus
@@ -100,125 +100,105 @@
   Manufacturers are introducing handheld consoles featuring upgraded displays, improved battery life, enhanced performance and support for modern gaming platforms.
   🔗 https://www.livemint.com/technology/android-pc-6-best-handheld-gaming-devices-2026-retroid-pocket-5-ayaneo-pocket-2-ayn-odin-2-portal-pro-asus-rog-xbox-ally-11778642371424.html
 
-- Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions - CNBC
-  Asia markets mixed as investors watch Trump-Xi
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPN203dGVkOXplZUJDb2tiX1VYVlVodmdRUld6LUhlMWQyWHR3aXhGRzFFUHUwa1N2MEMzTndtc1BGMl9MTGJPRERDWEJERk9JMU9nd010aTVnb2tvbTVSekE5NGNDM2FBVnNZN3JrdTdpOWRjN2J6eFVETGR6WHhRXzR5MW9XRWpUUjNoSEQ4NXpqUndESl9IZ3NCWXkxN3dleXRxWU96ZFd0R2s4eTVv0gG0AUFVX3lxTE1MdElyTHFaQXluRElkR0Fob2FqOUdnYTlwNHRrNlYwMWlXc1Nnd3prczMtcEhwOXlmWTVRd25zcEY4NmNWQ2lYS0tQUnJXcXNEaHdUdEdtbW81UUtjamh2aW5wcEl0N1llZk5JN2dvQUVzRU1kOUhYcEdXNVo1YUZKeEdvV05LY3M2dmJWTEc3Q0J4VGc4aU5oUDZBWlY5QWx4ZUM1bmY5RGZHTUMtMDU4V2RJeQ?oc=5
+- Warsh clinches Senate approval to be Fed's next chair as inflation intensifies
+  Kevin Warsh has been confirmed as the next chair of the Federal Reserve. His leadership will be crucial at the next central bank meeting, where policymakers are wrestling with rising prices.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-clinches-senate-approval-to-be-feds-next-chair-as-inflation-intensifies/articleshow/131076253.cms
 
-- Markets News, May 12, 2026: Tech Shares Lead Declines as S&P 500, Nasdaq End Lower; Oil Prices Rise; Core CPI Comes in Hotter Than Expected - Investopedia
-  Markets News, May 12, 2026: Tech Shares Lead Declines as S&amp;P 500,
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0RPWjlJeUdTYmRCNWVmSk9VSmNTcDBUSEQwbjRLQURoV0k4NTc0ZFU5cFRjQ1l2SVBhUTFETGowRmo1TmVtZnJiZFNYUGhCbndLMjY2a0stdmpESWFlMU9KZTBXSUhYZHRoejA0S0gzQUFYSXVrRC1UUW1LbEJpN2hVTlRIUUo2Ul9yeGc1WnE?oc=5
+- Fed is 'dead serious' about getting inflation down, Kashkari says
+  Neel Kashkari, the Minneapolis Federal Reserve President, shared a cautiously positive outlook on the labor market in the U.S. As such, the possibility of further interest rate increases remains a viable option.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-is-dead-serious-about-getting-inflation-down-kashkari-says/articleshow/131075805.cms
 
-- Dow falls as wholesale prices jump, Nasdaq pushed higher by renewed chip stock rally: Live updates - CNBC
-  Dow falls as wholesale prices jump, Nasdaq pushed higher by renewed
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5PaGlLRzZ5dkZYY3FmUnZPRU1MVmNWZTZkVWg5V3NVekRQRjFHdW40UzFKY1RuRklIWlBEaktwUHdiVTNqTEtXZ3lBVTlLT2hMVktrTUI1MFlxN0g3X2t0cDd0Z2d4Q1cxd3l0dEJMREp5THQ2QU1r0gF8QVVfeXFMTlNGSjFDdGRZdnI2cnZuWC1wenIzNUlNWUVhNFRYMEpoNFBHWWdDcjJlWlFRYzIyNVR3bV9OUjRYNDI5QUV3TTBKV0pzZko5YWhud25jMnllaERfS05xb1NPR2RmT1ZiVXdGMDB6OXgyc2lfUlNvczlvalUtcw?oc=5
+- LIC Housing Finance Q4 profit rises 9% to Rs 1,497 crore
+  LIC Housing Finance reported a 9.4% rise in Q4 net profit to Rs 1,497 crore. The company also recommended a 500% dividend of Rs 10 per share for FY26. Signature Global significantly reduced its net debt
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-housing-finance-q4-profit-rises-9-to-rs-1497-crore/articleshow/131075711.cms
 
-- Sensex Today | Nifty 50 | Stock Market Highlights | Closing Bell: Sensex settles marginally higher, Nifty... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxQMzFqb2huU1VTWmFnZGROSHFQaU0zYkdkZV83Nkk4V1NBYzN3eFp4NG1KaWYycWQyd24ySUVRSzRvRFg3X2hYcE91MGtXaXF1aDVKZV8zbmV6RW13UV9SQllYSzVjc2hJV1
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMzFqb2huU1VTWmFnZGROSHFQaU0zYkdkZV83Nkk4V1NBYzN3eFp4NG1KaWYycWQyd24ySUVRSzRvRFg3X2hYcE91MGtXaXF1aDVKZV8zbmV6RW13UV9SQllYSzVjc2hJV1VLUVZtay1fVXVkdTBCMW9iNDVDT3czSzgxaGJ0QTgxV0Rqam83WENKbVVfUG9GUjROYXRSZmd5UFFiUUpYdnZDd05BcUIzTjUyZUhHaTZoZkljdjhqbUVibFZzUnFhWThYbGViYzV3aVJtTks1NkMzSmdVdVI0bEpmZ0l1SjlxV09UeGFEd1VoLVJCb0xya0dPVFk0MGRmYnJacHl6NnlEamJS0gGSAkFVX3lxTE4yUVZmSTFuVTFSMlE2WGRaQnNXVzlKVTR2Y0hieHh0Q0trMVV0b3VObUVCU0NSVXZ4TkE4blZ4WkZtRFZZZGZEeXdtNDFmYUVEYUNnbnN0MWFoZC12SVdDZVZJNU51XzNieFlWb0RNRVhhUTd1THBjRmIxN0ZBb09Yc3RzdnM4amJWQzJjVXI3ZldfeFdoODZyd3dwd0NieGVvMF85RGQteFRSWExOZTYtMjZIS3BpdTlrN3V5NnRDTVpmSDBPenlKcXpKYzNlZ3RQaU5WdHV1Q0l5ekFESUxaX2U1VV8welcwSXIwRkVORjB5SlhVRHVJdXpFYVU2bm9DdkRCamNFZS12ZmpRRGdfMHc?oc=5
+- KKR-backed ambulance giant GMR valued at $3 billion as shares fall in NYSE debut
+  Global Medical Response (GMR) faced a rocky introduction to the New York Stock Exchange as its shares plummeted by 10%. This decline put its market cap at $3.01 billion, following
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/kkr-backed-ambulance-giant-gmr-valued-at-3-billion-as-shares-fall-in-nyse-debut/articleshow/131075633.cms
 
-- Visakhapatnam MP calls for market modernisation, participates in Bheemili temple festivities - The Hindu
-  The Hindu reports that Visakhapatnam
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMVFGanlaSi03dFg1WGM2QXhmeWUxcVpBODBpbTR2R2llUl9ZZ0RuM0VnU1doVVFzMXlUbm8yRmJGRGs0a2N1WVN4U3JjUm80NTVNUEk2eVg5V21mamN2N3o3N1cwS0NhdDBDcnctQmNoQWpLc3lfVFF2YXIzUWZsZXZsSUpzeGQtdUwwN2dLSjdnSWJSZlMtbllFdVIySU9KdmI5RGQzWEpOWlR2eENXaUM5eEwzYUVhLXdWMVNac0hUaDNoczZzNTdxUlZJX3VaeVlFNFY5bzhYbW1CODRiSG5OZGtTUEhwZVVjY21qbFE0UnBn0gH7AUFVX3lxTE9EQ1M3R2JIZzEzZGVsU050cHhlS05QMjQ1UEJWZnFBaFVUZkxPZHE2ekJFdGRGZ1BjRTdqUzR4X3IwSU9nXzFTTTYzVUQzOEZFNDVxWVZRRFB0QjRDcjRpckVrTGhkVUx6RXkxRFZuTENxZFNGVGp6Y0xwLXQzLS1zZDBoSXUwNDJVMjRwWGpRSHAtam01di0wVWxtT1c0MFRPMTUxY1RwTjR5eDVnMXRHOEZicU9LRng1dTJPYnZPU1dlTGRmNWFJSS1ZaExnU1duenJTdUJYUWpXVlgyNTMtaW5jcFlEVElORjhfNDdXTG1ucmVJTm5SQ2Mw?oc=5
-
-- US stocks today: S&amp;P 500 opens muted as hot inflation data signals rates to stay on hold
-  The S&amp;P ​500 was subdued at the open on Wednesday, as hotter-than-anticipated ‌
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-opens-muted-as-hot-inflation-data-signals-rates-to-stay-on-hold/articleshow/131067780.cms
-
-- Kaynes Technology Q4 Results: Profit falls 22% YoY to Rs 91 crore; revenue jumps 26%
-  Kaynes Technology posted robust quarterly revenue growth driven by strong electronics manufacturing demand and expanding execution across sectors. However, higher material, employee and finance costs weighed on profitability.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/kaynes-technology-q4-results-profit-falls-22-yoy-to-rs-91-crore-revenue-jumps-26/articleshow/131066861.cms
-
-- Vodafone Idea and 4 other midcap stocks hit 52-week highs, rally up to 40% in a month
-   Benchmark indices ended marginally higher as five BSE 150 Midcap stocks touched fresh 52-week highs. Vodafone Idea, SAIL, MCX, Laurus Labs and Ajanta Pharma
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-and-4-other-midcap-stocks-hit-52-week-highs-rally-up-to-40-in-a-month/slideshow/131066736.cms
-
-- Quote of the day by John Templeton: "Diversification is a safety factor that is essential because we should be humble enough to admit we can be wrong"
-  Legendary investor John Templeton stressed diversification as a key safety factor. This approach helps manage risk and reduces losses from unexpected market shifts. Humility and avoiding overconfidence are crucial.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-templeton-diversification-is-a-safety-factor-that-is-essential-because-we-should-be-humble-enough-to-admit-we-can-be-wrong/articleshow/131059779.cms
-
-- US Stock Market Today | Dow Jones | Nasdaq Live: S&amp;P 500 opens muted as hot inflation data signals rates to stay on hold
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-china-visit-us-iran-talks-oil-prices-today-brent-crude-impact-fed-rate-hike-bets-us-inflation-ppi-data-nvidia-china-news-chip-stocks-rally-sp500-target-8000/liveblog/131065553.cms
-
-- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
-  India's "Reputation, Standing"
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
+- Ford shares soar after Morgan Stanley’s bullish call on energy
+  Ford shares jumped as much as 15% after Morgan Stanley highlighted strong potential in its energy storage business. The broker sees possible supply deals with large commercial clients.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ford-shares-soar-after-morgan-stanleys-bullish-call-on-energy/articleshow/131075097.cms
 
 - News On AIR | May 13, 2026 8:32 AM - News On AIR
   News On AIR will be on the air May
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON2pZVFNldi11Mi1fQXhPM0E0a1R3RzBsalFDSTk0d1gzWHY2czZIM3NfaTM1YkxWMXZuUlotTm1iclc5ank2ZG91TWUtZE5WOXNxZ2FjTmR4c1FuYnFzdWcyTm9KRi1lb01xb1NNY2E0WUt6S1JObHppTGIxdGRFOW1BaTVyQTN5VmJGdjBjWXhmTDJob2tnYmEtUHBKZw?oc=5
 
-- Breaking news live updates, May 13: Government approves Rs 2.60 lakh crore for Kharif crops' MSP for 2026–27 season - The Times of India
-  The Times of India reports that the government has approved Rs 2.60 lakh crore for Kharif
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmJPdTRJaFBQbjh5YzFNa0I1WWZ4TUJBdE1Kd2pNakZnX1gzdTRKQjBjVnktR2ctaHJiTHZhNlkxZXFxbk5IOENNNHZWb2xtVGJrc1ZIeHZhYjVyRExkLVhoVHVpcjYxODBVTDF1dnZLeVNGSF92SlJZVWdGZ2E0cHlBQWdlU0NHZzJfaFVINEYzcExvUVAzMnNiTG91NGPSAaQBQVVfeXFMTnlUd2FHNVdGemRaS1pKYjg1X1V0cVBpNzVVcWxPSTVhRktod1o0RG8tWFRJNDEzaHlCX1EwYUFjMVUxal9aTzFTS0pIUFRzeFphWWFaU2tZU3JlZlh6cS1tc21sTENHWGE2LTQ1T2VRelh1M19MZFU2V3VQT1pQOVZJdUhDLUtUcHkxZFduZHFKY2RTcDU2dm5DTVNrR0lycmNNb3U?oc=5
+- Iran welcomes Indian initiative to end war, says Iranian minister | India News - Hindustan Times
+  Iran welcomes Indian initiative to end war, says Iranian minister.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXc4dlJ6TUVFMm1kNHVNRFh5Z3ZDNnFQcldDZllIcFNSbnpweHlUTnk2dmRReTkyX0c5UUdhMDBMdnVxVGxjc3V5REFBSC12Q01NNVVaLXQ3aWdZT3M4dXdFWXhUbFhibjZFdDJvS1k0dUotZmdrNDV4U2Y0bWQyZTRUWkdFZ3Q2VjcySm9ZUDU2Zy1IQ3BLLW1QYkp4WlFxMjdtYjB5cHp4eTN4VnhsczlHT3JlNkZWUXB1U2R2RUNKME51Zm1qa0ZxMHZVQ3A3YWJVNTRaeU1RNHpMRlQ3UXlHeDl5TmtDR1pZ0gHwAUFVX3lxTE1qZTd0b2VwXzVKVjU1U2VwRXZlSGJNblpQMktXN3lDZmFaMkk2Z3JySDJac2c4Uk9VZXdTT3JNYXVuV1lRYVJhYkRvdGJtSjZ1WmtOYzY3QXJ5YzJfdHhNRVNjYWpIRkZiRmVPNDB0djJtZ0ZiQXVJYVFQbHZTeS1Nb1QxYTdxdjlMWnY3NlBqSlNvYmo5SC1pblhrV2MzWExTR2V6OTdzck5QaTdCS3VzNWNtTUthcWVsWlhnbnlseUlUVVBnN1lkUG1lVWpRdm9MckFYQTZKMEw5UVBSSTB4SWlXZkk2dWozd2M2N1B0aQ?oc=5
 
-- Amul Hikes Milk Prices By Rs 2 Per Litre Across Major Variants In India - NDTV
-  Amul Hikes Milk Prices By Rs 2 Per Litre
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1hEYXRLdFRnU1pwQ0lZQ285N0g3aWZSV0xURU05d1Y2T0VobHl3UTNuQTloYTE2LXZsUUZ1Y1BQS1lLUVVJX0taWTlKWTl1d21rNWQwdDJLUTVEcmlOVVl4eVUwZmJHNktqRThuaW1pQVk0VjU5UUhnVS03ZWo0b0c5SGdJTktfM3lyLTlrdkItbXdSLUJ6RkJZR212RXRYclY2YjdRdXpNY0pPbndCazZ30gG6AUFVX3lxTE56N1pCY0g4VDNHbV9ZU0d1bF9kY3B4WS1OTFlvTkJpbnAwVjNnRWw0RnZyWFNMZkdHVDJ6RWZvS1kzbTZBZ29CcDZVS01pNnA4SG8zb3pIRV84eWE5VkV2dDRPN1JIQnh0dFZsU202VTZndkRuOXBPbExqVWdVbGxCUGY4R1c0a20wREk3WmRlN1hKeldsU2loTHVFU2xOd0tEcDdUUWFBcmhaZEtnSHBFQnUxbFNBZkZoZw?oc=5
+- India-Russia discuss energy, trade and global tensions as BRICS ministers gather in Delhi - The Economic Times
+  India-Russia discuss energy, trade and global tensions as BRICS
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXJoaW44cmQwSXp3bTNueE1CVW80bU9aYS00YjhyNzRORm1mY0hSZmNKQ202Y0VUQlhPNFN1OGlTME5kMXMtVVpKN0xIdzJBRG5lMzIxbVYtaHZrSTMwOXZ4WThKZE5hWEEwVHU3YWprR21iSlF1bnhTNWJDVzRqaHh3LS1tOUs2QUNoV3JhWVFqclludUpJWW95dnZmWWlUTDVhSHdteWkyMnpfeXVNdTBIZGkxazJ0ZXM4WU85R1VZODRWcDNQbllKSndlZnQzbWFKZDQwOHJ1ZnhtRDAwUlQzU0VqQzd40gHuAUFVX3lxTFBFMWRpcnhneWFlaWhJZ2JWN3NTeU5OWVEzMFlqWVlnOHpIMGdWSDVwMDI4Z3lFQmxTYzUzV21aZTB0TXBEeWoxV3F5Mm9kVDh4QzNJUW1TejNtdkE2Tkw2blF5bHBqeEhqWDU4aXNwNUItNTE2S0FFZGdHS2N5ajlrVFljdFRpX2ZZOU1UZTdJWmZ1WWtsMmY3WlQ5QTBLc2wxcm1rQ1dLVjBuSXBTQTQxMV9ILUFEYnpLb2dnODBLUm5GcXJmT2VUaGlzakpTQmI0WjY0X0FUQm5NcmpOLTV3WGFzWkg3SDAyQVNrT3c?oc=5
 
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
+- India Loses $18.3 Billion On Edible Oil Imports. Why Don't We Produce It? - NDTV
+  India Loses $18.3 Billion On Edible
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9EQ19IOEdxNVVkRV8xVUUxVnFVR0lyNzgzbFlXdG5tS3VUYWtqZnVJUG84QVNlS1JJT09KX3o5NTdDVE9zYzZjaUpGbEVNMGhOd2JESkdMY0ZaTzg2M1l0c01GdTZ5ZTFld3dIT0ZSZkpWZ3h3LUZFSk9pQ2FyZ3FVUFpGZl9pNS1aaW01amV4bnk1Ulh0QXlpNmpiOXlQTzFNQ3BrWW1QTFpzSnJXSUtibDg2RFdxSGd5ZFM2bkZTbmNiU2fSAc4BQVVfeXFMT1NmRHZlVHk4Z1pqVWRYdGVmMUdDbEY5V2xkWURtM0tpd0F6ODJMZTZUU0ZJUGw4SUFyVVNZb1M3c0tLWW5PTUhNVFBQQkM0a3U3UGhaNWNFUzlGODdXRzg5TS1XZzd1VUJ3SXFsUzBVYWVDV2tYVS05MTdLNlB6eDAyVmQ3MmE4X2tFbEpXZWMzeVE1cFNQemJQZDRQNnd3U3p4MzdWcVpqTVBBVUFmNElfakRvb0lEVzc2TURIZFhndDhkRDFqa1Ezd2tIOWc?oc=5
 
-- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
-  India's "Reputation, Standing"
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
-
-- News On AIR | May 13, 2026 8:32 AM - News On AIR
-  News On AIR will be on the air May
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON2pZVFNldi11Mi1fQXhPM0E0a1R3RzBsalFDSTk0d1gzWHY2czZIM3NfaTM1YkxWMXZuUlotTm1iclc5ank2ZG91TWUtZE5WOXNxZ2FjTmR4c1FuYnFzdWcyTm9KRi1lb01xb1NNY2E0WUt6S1JObHppTGIxdGRFOW1BaTVyQTN5VmJGdjBjWXhmTDJob2tnYmEtUHBKZw?oc=5
-
-- Breaking news live updates, May 13: Government approves Rs 2.60 lakh crore for Kharif crops' MSP for 2026–27 season - The Times of India
-  The Times of India reports that the government has approved Rs 2.60 lakh crore for Kharif
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmJPdTRJaFBQbjh5YzFNa0I1WWZ4TUJBdE1Kd2pNakZnX1gzdTRKQjBjVnktR2ctaHJiTHZhNlkxZXFxbk5IOENNNHZWb2xtVGJrc1ZIeHZhYjVyRExkLVhoVHVpcjYxODBVTDF1dnZLeVNGSF92SlJZVWdGZ2E0cHlBQWdlU0NHZzJfaFVINEYzcExvUVAzMnNiTG91NGPSAaQBQVVfeXFMTnlUd2FHNVdGemRaS1pKYjg1X1V0cVBpNzVVcWxPSTVhRktod1o0RG8tWFRJNDEzaHlCX1EwYUFjMVUxal9aTzFTS0pIUFRzeFphWWFaU2tZU3JlZlh6cS1tc21sTENHWGE2LTQ1T2VRelh1M19MZFU2V3VQT1pQOVZJdUhDLUtUcHkxZFduZHFKY2RTcDU2dm5DTVNrR0lycmNNb3U?oc=5
-
-- Amul Hikes Milk Prices By Rs 2 Per Litre Across Major Variants In India - NDTV
-  Amul Hikes Milk Prices By Rs 2 Per Litre
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1hEYXRLdFRnU1pwQ0lZQ285N0g3aWZSV0xURU05d1Y2T0VobHl3UTNuQTloYTE2LXZsUUZ1Y1BQS1lLUVVJX0taWTlKWTl1d21rNWQwdDJLUTVEcmlOVVl4eVUwZmJHNktqRThuaW1pQVk0VjU5UUhnVS03ZWo0b0c5SGdJTktfM3lyLTlrdkItbXdSLUJ6RkJZR212RXRYclY2YjdRdXpNY0pPbndCazZ30gG6AUFVX3lxTE56N1pCY0g4VDNHbV9ZU0d1bF9kY3B4WS1OTFlvTkJpbnAwVjNnRWw0RnZyWFNMZkdHVDJ6RWZvS1kzbTZBZ29CcDZVS01pNnA4SG8zb3pIRV84eWE5VkV2dDRPN1JIQnh0dFZsU202VTZndkRuOXBPbExqVWdVbGxCUGY4R1c0a20wREk3WmRlN1hKeldsU2loTHVFU2xOd0tEcDdUUWFBcmhaZEtnSHBFQnUxbFNBZkZoZw?oc=5
-
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
-
-- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
-  India's "Reputation, Standing"
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
 
 - News On AIR | May 13, 2026 8:32 AM - News On AIR
   News On AIR will be on the air May
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON2pZVFNldi11Mi1fQXhPM0E0a1R3RzBsalFDSTk0d1gzWHY2czZIM3NfaTM1YkxWMXZuUlotTm1iclc5ank2ZG91TWUtZE5WOXNxZ2FjTmR4c1FuYnFzdWcyTm9KRi1lb01xb1NNY2E0WUt6S1JObHppTGIxdGRFOW1BaTVyQTN5VmJGdjBjWXhmTDJob2tnYmEtUHBKZw?oc=5
 
-- Breaking news live updates, May 13: Government approves Rs 2.60 lakh crore for Kharif crops' MSP for 2026–27 season - The Times of India
-  The Times of India reports that the government has approved Rs 2.60 lakh crore for Kharif
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmJPdTRJaFBQbjh5YzFNa0I1WWZ4TUJBdE1Kd2pNakZnX1gzdTRKQjBjVnktR2ctaHJiTHZhNlkxZXFxbk5IOENNNHZWb2xtVGJrc1ZIeHZhYjVyRExkLVhoVHVpcjYxODBVTDF1dnZLeVNGSF92SlJZVWdGZ2E0cHlBQWdlU0NHZzJfaFVINEYzcExvUVAzMnNiTG91NGPSAaQBQVVfeXFMTnlUd2FHNVdGemRaS1pKYjg1X1V0cVBpNzVVcWxPSTVhRktod1o0RG8tWFRJNDEzaHlCX1EwYUFjMVUxal9aTzFTS0pIUFRzeFphWWFaU2tZU3JlZlh6cS1tc21sTENHWGE2LTQ1T2VRelh1M19MZFU2V3VQT1pQOVZJdUhDLUtUcHkxZFduZHFKY2RTcDU2dm5DTVNrR0lycmNNb3U?oc=5
+- Iran welcomes Indian initiative to end war, says Iranian minister | India News - Hindustan Times
+  Iran welcomes Indian initiative to end war, says Iranian minister.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXc4dlJ6TUVFMm1kNHVNRFh5Z3ZDNnFQcldDZllIcFNSbnpweHlUTnk2dmRReTkyX0c5UUdhMDBMdnVxVGxjc3V5REFBSC12Q01NNVVaLXQ3aWdZT3M4dXdFWXhUbFhibjZFdDJvS1k0dUotZmdrNDV4U2Y0bWQyZTRUWkdFZ3Q2VjcySm9ZUDU2Zy1IQ3BLLW1QYkp4WlFxMjdtYjB5cHp4eTN4VnhsczlHT3JlNkZWUXB1U2R2RUNKME51Zm1qa0ZxMHZVQ3A3YWJVNTRaeU1RNHpMRlQ3UXlHeDl5TmtDR1pZ0gHwAUFVX3lxTE1qZTd0b2VwXzVKVjU1U2VwRXZlSGJNblpQMktXN3lDZmFaMkk2Z3JySDJac2c4Uk9VZXdTT3JNYXVuV1lRYVJhYkRvdGJtSjZ1WmtOYzY3QXJ5YzJfdHhNRVNjYWpIRkZiRmVPNDB0djJtZ0ZiQXVJYVFQbHZTeS1Nb1QxYTdxdjlMWnY3NlBqSlNvYmo5SC1pblhrV2MzWExTR2V6OTdzck5QaTdCS3VzNWNtTUthcWVsWlhnbnlseUlUVVBnN1lkUG1lVWpRdm9MckFYQTZKMEw5UVBSSTB4SWlXZkk2dWozd2M2N1B0aQ?oc=5
 
-- Amul Hikes Milk Prices By Rs 2 Per Litre Across Major Variants In India - NDTV
-  Amul Hikes Milk Prices By Rs 2 Per Litre
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1hEYXRLdFRnU1pwQ0lZQ285N0g3aWZSV0xURU05d1Y2T0VobHl3UTNuQTloYTE2LXZsUUZ1Y1BQS1lLUVVJX0taWTlKWTl1d21rNWQwdDJLUTVEcmlOVVl4eVUwZmJHNktqRThuaW1pQVk0VjU5UUhnVS03ZWo0b0c5SGdJTktfM3lyLTlrdkItbXdSLUJ6RkJZR212RXRYclY2YjdRdXpNY0pPbndCazZ30gG6AUFVX3lxTE56N1pCY0g4VDNHbV9ZU0d1bF9kY3B4WS1OTFlvTkJpbnAwVjNnRWw0RnZyWFNMZkdHVDJ6RWZvS1kzbTZBZ29CcDZVS01pNnA4SG8zb3pIRV84eWE5VkV2dDRPN1JIQnh0dFZsU202VTZndkRuOXBPbExqVWdVbGxCUGY4R1c0a20wREk3WmRlN1hKeldsU2loTHVFU2xOd0tEcDdUUWFBcmhaZEtnSHBFQnUxbFNBZkZoZw?oc=5
+- India-Russia discuss energy, trade and global tensions as BRICS ministers gather in Delhi - The Economic Times
+  India-Russia discuss energy, trade and global tensions as BRICS
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXJoaW44cmQwSXp3bTNueE1CVW80bU9aYS00YjhyNzRORm1mY0hSZmNKQ202Y0VUQlhPNFN1OGlTME5kMXMtVVpKN0xIdzJBRG5lMzIxbVYtaHZrSTMwOXZ4WThKZE5hWEEwVHU3YWprR21iSlF1bnhTNWJDVzRqaHh3LS1tOUs2QUNoV3JhWVFqclludUpJWW95dnZmWWlUTDVhSHdteWkyMnpfeXVNdTBIZGkxazJ0ZXM4WU85R1VZODRWcDNQbllKSndlZnQzbWFKZDQwOHJ1ZnhtRDAwUlQzU0VqQzd40gHuAUFVX3lxTFBFMWRpcnhneWFlaWhJZ2JWN3NTeU5OWVEzMFlqWVlnOHpIMGdWSDVwMDI4Z3lFQmxTYzUzV21aZTB0TXBEeWoxV3F5Mm9kVDh4QzNJUW1TejNtdkE2Tkw2blF5bHBqeEhqWDU4aXNwNUItNTE2S0FFZGdHS2N5ajlrVFljdFRpX2ZZOU1UZTdJWmZ1WWtsMmY3WlQ5QTBLc2wxcm1rQ1dLVjBuSXBTQTQxMV9ILUFEYnpLb2dnODBLUm5GcXJmT2VUaGlzakpTQmI0WjY0X0FUQm5NcmpOLTV3WGFzWkg3SDAyQVNrT3c?oc=5
 
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
+- India Loses $18.3 Billion On Edible Oil Imports. Why Don't We Produce It? - NDTV
+  India Loses $18.3 Billion On Edible
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9EQ19IOEdxNVVkRV8xVUUxVnFVR0lyNzgzbFlXdG5tS3VUYWtqZnVJUG84QVNlS1JJT09KX3o5NTdDVE9zYzZjaUpGbEVNMGhOd2JESkdMY0ZaTzg2M1l0c01GdTZ5ZTFld3dIT0ZSZkpWZ3h3LUZFSk9pQ2FyZ3FVUFpGZl9pNS1aaW01amV4bnk1Ulh0QXlpNmpiOXlQTzFNQ3BrWW1QTFpzSnJXSUtibDg2RFdxSGd5ZFM2bkZTbmNiU2fSAc4BQVVfeXFMT1NmRHZlVHk4Z1pqVWRYdGVmMUdDbEY5V2xkWURtM0tpd0F6ODJMZTZUU0ZJUGw4SUFyVVNZb1M3c0tLWW5PTUhNVFBQQkM0a3U3UGhaNWNFUzlGODdXRzg5TS1XZzd1VUJ3SXFsUzBVYWVDV2tYVS05MTdLNlB6eDAyVmQ3MmE4X2tFbEpXZWMzeVE1cFNQemJQZDRQNnd3U3p4MzdWcVpqTVBBVUFmNElfakRvb0lEVzc2TURIZFhndDhkRDFqa1Ezd2tIOWc?oc=5
 
-- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
-  India's "Reputation, Standing"
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
 
 - News On AIR | May 13, 2026 8:32 AM - News On AIR
   News On AIR will be on the air May
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON2pZVFNldi11Mi1fQXhPM0E0a1R3RzBsalFDSTk0d1gzWHY2czZIM3NfaTM1YkxWMXZuUlotTm1iclc5ank2ZG91TWUtZE5WOXNxZ2FjTmR4c1FuYnFzdWcyTm9KRi1lb01xb1NNY2E0WUt6S1JObHppTGIxdGRFOW1BaTVyQTN5VmJGdjBjWXhmTDJob2tnYmEtUHBKZw?oc=5
 
-- Breaking news live updates, May 13: Government approves Rs 2.60 lakh crore for Kharif crops' MSP for 2026–27 season - The Times of India
-  The Times of India reports that the government has approved Rs 2.60 lakh crore for Kharif
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmJPdTRJaFBQbjh5YzFNa0I1WWZ4TUJBdE1Kd2pNakZnX1gzdTRKQjBjVnktR2ctaHJiTHZhNlkxZXFxbk5IOENNNHZWb2xtVGJrc1ZIeHZhYjVyRExkLVhoVHVpcjYxODBVTDF1dnZLeVNGSF92SlJZVWdGZ2E0cHlBQWdlU0NHZzJfaFVINEYzcExvUVAzMnNiTG91NGPSAaQBQVVfeXFMTnlUd2FHNVdGemRaS1pKYjg1X1V0cVBpNzVVcWxPSTVhRktod1o0RG8tWFRJNDEzaHlCX1EwYUFjMVUxal9aTzFTS0pIUFRzeFphWWFaU2tZU3JlZlh6cS1tc21sTENHWGE2LTQ1T2VRelh1M19MZFU2V3VQT1pQOVZJdUhDLUtUcHkxZFduZHFKY2RTcDU2dm5DTVNrR0lycmNNb3U?oc=5
+- Iran welcomes Indian initiative to end war, says Iranian minister | India News - Hindustan Times
+  Iran welcomes Indian initiative to end war, says Iranian minister.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXc4dlJ6TUVFMm1kNHVNRFh5Z3ZDNnFQcldDZllIcFNSbnpweHlUTnk2dmRReTkyX0c5UUdhMDBMdnVxVGxjc3V5REFBSC12Q01NNVVaLXQ3aWdZT3M4dXdFWXhUbFhibjZFdDJvS1k0dUotZmdrNDV4U2Y0bWQyZTRUWkdFZ3Q2VjcySm9ZUDU2Zy1IQ3BLLW1QYkp4WlFxMjdtYjB5cHp4eTN4VnhsczlHT3JlNkZWUXB1U2R2RUNKME51Zm1qa0ZxMHZVQ3A3YWJVNTRaeU1RNHpMRlQ3UXlHeDl5TmtDR1pZ0gHwAUFVX3lxTE1qZTd0b2VwXzVKVjU1U2VwRXZlSGJNblpQMktXN3lDZmFaMkk2Z3JySDJac2c4Uk9VZXdTT3JNYXVuV1lRYVJhYkRvdGJtSjZ1WmtOYzY3QXJ5YzJfdHhNRVNjYWpIRkZiRmVPNDB0djJtZ0ZiQXVJYVFQbHZTeS1Nb1QxYTdxdjlMWnY3NlBqSlNvYmo5SC1pblhrV2MzWExTR2V6OTdzck5QaTdCS3VzNWNtTUthcWVsWlhnbnlseUlUVVBnN1lkUG1lVWpRdm9MckFYQTZKMEw5UVBSSTB4SWlXZkk2dWozd2M2N1B0aQ?oc=5
 
-- Amul Hikes Milk Prices By Rs 2 Per Litre Across Major Variants In India - NDTV
-  Amul Hikes Milk Prices By Rs 2 Per Litre
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1hEYXRLdFRnU1pwQ0lZQ285N0g3aWZSV0xURU05d1Y2T0VobHl3UTNuQTloYTE2LXZsUUZ1Y1BQS1lLUVVJX0taWTlKWTl1d21rNWQwdDJLUTVEcmlOVVl4eVUwZmJHNktqRThuaW1pQVk0VjU5UUhnVS03ZWo0b0c5SGdJTktfM3lyLTlrdkItbXdSLUJ6RkJZR212RXRYclY2YjdRdXpNY0pPbndCazZ30gG6AUFVX3lxTE56N1pCY0g4VDNHbV9ZU0d1bF9kY3B4WS1OTFlvTkJpbnAwVjNnRWw0RnZyWFNMZkdHVDJ6RWZvS1kzbTZBZ29CcDZVS01pNnA4SG8zb3pIRV84eWE5VkV2dDRPN1JIQnh0dFZsU202VTZndkRuOXBPbExqVWdVbGxCUGY4R1c0a20wREk3WmRlN1hKeldsU2loTHVFU2xOd0tEcDdUUWFBcmhaZEtnSHBFQnUxbFNBZkZoZw?oc=5
+- India-Russia discuss energy, trade and global tensions as BRICS ministers gather in Delhi - The Economic Times
+  India-Russia discuss energy, trade and global tensions as BRICS
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXJoaW44cmQwSXp3bTNueE1CVW80bU9aYS00YjhyNzRORm1mY0hSZmNKQ202Y0VUQlhPNFN1OGlTME5kMXMtVVpKN0xIdzJBRG5lMzIxbVYtaHZrSTMwOXZ4WThKZE5hWEEwVHU3YWprR21iSlF1bnhTNWJDVzRqaHh3LS1tOUs2QUNoV3JhWVFqclludUpJWW95dnZmWWlUTDVhSHdteWkyMnpfeXVNdTBIZGkxazJ0ZXM4WU85R1VZODRWcDNQbllKSndlZnQzbWFKZDQwOHJ1ZnhtRDAwUlQzU0VqQzd40gHuAUFVX3lxTFBFMWRpcnhneWFlaWhJZ2JWN3NTeU5OWVEzMFlqWVlnOHpIMGdWSDVwMDI4Z3lFQmxTYzUzV21aZTB0TXBEeWoxV3F5Mm9kVDh4QzNJUW1TejNtdkE2Tkw2blF5bHBqeEhqWDU4aXNwNUItNTE2S0FFZGdHS2N5ajlrVFljdFRpX2ZZOU1UZTdJWmZ1WWtsMmY3WlQ5QTBLc2wxcm1rQ1dLVjBuSXBTQTQxMV9ILUFEYnpLb2dnODBLUm5GcXJmT2VUaGlzakpTQmI0WjY0X0FUQm5NcmpOLTV3WGFzWkg3SDAyQVNrT3c?oc=5
 
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
+- India Loses $18.3 Billion On Edible Oil Imports. Why Don't We Produce It? - NDTV
+  India Loses $18.3 Billion On Edible
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9EQ19IOEdxNVVkRV8xVUUxVnFVR0lyNzgzbFlXdG5tS3VUYWtqZnVJUG84QVNlS1JJT09KX3o5NTdDVE9zYzZjaUpGbEVNMGhOd2JESkdMY0ZaTzg2M1l0c01GdTZ5ZTFld3dIT0ZSZkpWZ3h3LUZFSk9pQ2FyZ3FVUFpGZl9pNS1aaW01amV4bnk1Ulh0QXlpNmpiOXlQTzFNQ3BrWW1QTFpzSnJXSUtibDg2RFdxSGd5ZFM2bkZTbmNiU2fSAc4BQVVfeXFMT1NmRHZlVHk4Z1pqVWRYdGVmMUdDbEY5V2xkWURtM0tpd0F6ODJMZTZUU0ZJUGw4SUFyVVNZb1M3c0tLWW5PTUhNVFBQQkM0a3U3UGhaNWNFUzlGODdXRzg5TS1XZzd1VUJ3SXFsUzBVYWVDV2tYVS05MTdLNlB6eDAyVmQ3MmE4X2tFbEpXZWMzeVE1cFNQemJQZDRQNnd3U3p4MzdWcVpqTVBBVUFmNElfakRvb0lEVzc2TURIZFhndDhkRDFqa1Ezd2tIOWc?oc=5
+
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
+
+- News On AIR | May 13, 2026 8:32 AM - News On AIR
+  News On AIR will be on the air May
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxON2pZVFNldi11Mi1fQXhPM0E0a1R3RzBsalFDSTk0d1gzWHY2czZIM3NfaTM1YkxWMXZuUlotTm1iclc5ank2ZG91TWUtZE5WOXNxZ2FjTmR4c1FuYnFzdWcyTm9KRi1lb01xb1NNY2E0WUt6S1JObHppTGIxdGRFOW1BaTVyQTN5VmJGdjBjWXhmTDJob2tnYmEtUHBKZw?oc=5
+
+- Iran welcomes Indian initiative to end war, says Iranian minister | India News - Hindustan Times
+  Iran welcomes Indian initiative to end war, says Iranian minister.
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXc4dlJ6TUVFMm1kNHVNRFh5Z3ZDNnFQcldDZllIcFNSbnpweHlUTnk2dmRReTkyX0c5UUdhMDBMdnVxVGxjc3V5REFBSC12Q01NNVVaLXQ3aWdZT3M4dXdFWXhUbFhibjZFdDJvS1k0dUotZmdrNDV4U2Y0bWQyZTRUWkdFZ3Q2VjcySm9ZUDU2Zy1IQ3BLLW1QYkp4WlFxMjdtYjB5cHp4eTN4VnhsczlHT3JlNkZWUXB1U2R2RUNKME51Zm1qa0ZxMHZVQ3A3YWJVNTRaeU1RNHpMRlQ3UXlHeDl5TmtDR1pZ0gHwAUFVX3lxTE1qZTd0b2VwXzVKVjU1U2VwRXZlSGJNblpQMktXN3lDZmFaMkk2Z3JySDJac2c4Uk9VZXdTT3JNYXVuV1lRYVJhYkRvdGJtSjZ1WmtOYzY3QXJ5YzJfdHhNRVNjYWpIRkZiRmVPNDB0djJtZ0ZiQXVJYVFQbHZTeS1Nb1QxYTdxdjlMWnY3NlBqSlNvYmo5SC1pblhrV2MzWExTR2V6OTdzck5QaTdCS3VzNWNtTUthcWVsWlhnbnlseUlUVVBnN1lkUG1lVWpRdm9MckFYQTZKMEw5UVBSSTB4SWlXZkk2dWozd2M2N1B0aQ?oc=5
+
+- India-Russia discuss energy, trade and global tensions as BRICS ministers gather in Delhi - The Economic Times
+  India-Russia discuss energy, trade and global tensions as BRICS
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXJoaW44cmQwSXp3bTNueE1CVW80bU9aYS00YjhyNzRORm1mY0hSZmNKQ202Y0VUQlhPNFN1OGlTME5kMXMtVVpKN0xIdzJBRG5lMzIxbVYtaHZrSTMwOXZ4WThKZE5hWEEwVHU3YWprR21iSlF1bnhTNWJDVzRqaHh3LS1tOUs2QUNoV3JhWVFqclludUpJWW95dnZmWWlUTDVhSHdteWkyMnpfeXVNdTBIZGkxazJ0ZXM4WU85R1VZODRWcDNQbllKSndlZnQzbWFKZDQwOHJ1ZnhtRDAwUlQzU0VqQzd40gHuAUFVX3lxTFBFMWRpcnhneWFlaWhJZ2JWN3NTeU5OWVEzMFlqWVlnOHpIMGdWSDVwMDI4Z3lFQmxTYzUzV21aZTB0TXBEeWoxV3F5Mm9kVDh4QzNJUW1TejNtdkE2Tkw2blF5bHBqeEhqWDU4aXNwNUItNTE2S0FFZGdHS2N5ajlrVFljdFRpX2ZZOU1UZTdJWmZ1WWtsMmY3WlQ5QTBLc2wxcm1rQ1dLVjBuSXBTQTQxMV9ILUFEYnpLb2dnODBLUm5GcXJmT2VUaGlzakpTQmI0WjY0X0FUQm5NcmpOLTV3WGFzWkg3SDAyQVNrT3c?oc=5
+
+- India Loses $18.3 Billion On Edible Oil Imports. Why Don't We Produce It? - NDTV
+  India Loses $18.3 Billion On Edible
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9EQ19IOEdxNVVkRV8xVUUxVnFVR0lyNzgzbFlXdG5tS3VUYWtqZnVJUG84QVNlS1JJT09KX3o5NTdDVE9zYzZjaUpGbEVNMGhOd2JESkdMY0ZaTzg2M1l0c01GdTZ5ZTFld3dIT0ZSZkpWZ3h3LUZFSk9pQ2FyZ3FVUFpGZl9pNS1aaW01amV4bnk1Ulh0QXlpNmpiOXlQTzFNQ3BrWW1QTFpzSnJXSUtibDg2RFdxSGd5ZFM2bkZTbmNiU2fSAc4BQVVfeXFMT1NmRHZlVHk4Z1pqVWRYdGVmMUdDbEY5V2xkWURtM0tpd0F6ODJMZTZUU0ZJUGw4SUFyVVNZb1M3c0tLWW5PTUhNVFBQQkM0a3U3UGhaNWNFUzlGODdXRzg5TS1XZzd1VUJ3SXFsUzBVYWVDV2tYVS05MTdLNlB6eDAyVmQ3MmE4X2tFbEpXZWMzeVE1cFNQemJQZDRQNnd3U3p4MzdWcVpqTVBBVUFmNElfakRvb0lEVzc2TURIZFhndDhkRDFqa1Ezd2tIOWc?oc=5
+
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-13 14:22:08 UTC_
+_Last updated: 2026-05-13 19:52:33 UTC_
