@@ -1,212 +1,204 @@
 # 📰 Daily News Summaries
 
-- Prateek Yadav, Mulayam singh Yadav’s son and Akhilesh Yadav’s stepbrother, dies
+- Vijay removes astrologer as Officer on Special Duty within a day amid backlash
   
-  🔗 https://indianexpress.com/article/india/akhilesh-yadav-brother-prateek-death-passes-away-reason-10686624/
+  🔗 https://indianexpress.com/article/india/vijay-removes-astrologer-radhan-pandit-osd-post-appointment-revoked-10687087/
 
-- ‘Sacrifice expected only from public?’: BJP leader’s massive convoy sparks row after PM’s ‘save fuel’ appeal
+- Senior Congress leader Sonia Gandhi admitted to Gurgaon’s Medanta Hospital
   
-  🔗 https://indianexpress.com/article/india/sacrifice-expected-only-from-public-bjp-leaders-massive-convoy-sparks-row-after-pms-save-fuel-appeal-10686460/
+  🔗 https://indianexpress.com/article/india/congress-leader-sonia-gandhi-admitted-gurgaon-medanta-hospital-10686937/
 
-- Money in account and sister’s grave secure, but Odisha man who carried skeleton remains haunted
+- ‘Ghost employees, fabricated records’: CBI uncovers fraud in Delhi’s night shelters
   
-  🔗 https://indianexpress.com/article/india/money-in-account-and-sisters-grave-secure-but-odisha-man-who-carried-skeleton-remains-haunted-10686448/
+  🔗 https://indianexpress.com/article/india/dusib-shelter-scam-cbi-fir-fake-employees-salary-fraud-10686915/
 
-- BJP-ruled states take austerity measures in support of PM Modi’s call
+- IMD’s new AI weather forecasts will tell farmers when it will rain within a 1-km area
   
-  🔗 https://indianexpress.com/article/india/bjp-ruled-states-respond-with-online-meetings-slimmer-fleets-10686524/
+  🔗 https://indianexpress.com/article/india/imds-new-ai-weather-forecasts-will-tell-farmers-when-it-will-rain-within-a-1-km-area-10686727/
 
-- ‘Must reflect’: India on China’s support to Pakistan in Operation Sindoor
+- Great Nicobar Project: Jairam Ramesh alleges ‘flagrant violation’ of tribal rights, writes to minister Jual Oram
   
-  🔗 https://indianexpress.com/article/india/must-reflect-india-on-chinas-support-to-pakistan-in-operation-sindoor-10686497/
+  🔗 https://indianexpress.com/article/india/great-nicobar-project-tribal-rights-fra-violation-jairam-ramesh-10686707/
 
-- Google Android Show 2026: From Gemini Intelligence to Googlebook, a look at key announcements
+- From smart walking sticks to wellness rings: Best gadgets for senior citizens
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-from-gemini-intelligence-to-googlebook-a-look-at-key-announcements-10686314/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-gadgets-for-senior-citizens-10687128/
 
-- Ahead of 2027 launch, Nasa starts Artemis 3 rocket assembly at Kennedy Space Centre
+- Samsung could unveil Galaxy Glasses at Galaxy Unpacked event in July
   
-  🔗 https://indianexpress.com/article/technology/science/ahead-of-2027-launch-nasa-starts-artemis-3-rocket-assembly-at-kennedy-space-centre-10686187/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-could-unveil-galaxy-glasses-at-galaxy-unpacked-event-in-july-10687154/
 
-- Tech launches today (May 12, 2026): Sony BRAVIA 3II, OPPO filmmaker programme, and more
+- Android 17 arrives with AirDrop-style sharing, AI widgets, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-12-2026-sony-bravia-3ii-oppo-filmmaker-programme-and-more-10685880/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/android-17-arrives-with-airdrop-style-sharing-ai-widgets-and-more-10687077/
 
-- Spotify turns 20, gifts users with a unique experience tracing their listening journeys
+- Memory crisis is the ‘black swan’ moment for the mobile phone industry: Motorola India MD T M Narasimhan
   
-  🔗 https://indianexpress.com/article/technology/spotify-turns-20-gifts-users-with-a-unique-experience-tracing-their-listening-journeys-10685523/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/memory-crisis-motorola-india-md-t-m-narasimhan-10687045/
 
-- India’s IT shares near three‑year low as OpenAI move revives AI fears
+- Meta employees launch protest against mouse-tracking tech at US offices
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/indias-it-shares-near-three%e2%80%91year-low-as-openai-move-revives-ai-fears-10685642/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-employees-launch-protest-against-mouse-tracking-tech-at-us-offices-10686725/
+
+- Trump’s China visit: Why Nvidia's Jensen Huang’s surprise Beijing trip is drawing global attention
+  Nvidia Corp. co-founder Jensen Huang joined US President Donald Trump on his visit to China.
+  🔗 https://www.livemint.com/companies/people/trumps-china-visit-why-nvidias-jensen-huang-s-surprise-beijing-trip-is-drawing-global-attention-11778660142580.html
+
+- SpiceJet moves Supreme Court against  ₹144.5 crore deposit order in Maran dispute
+  The airline has challenged a Delhi High Court directive requiring an immediate deposit in its arbitration battle with Kalanithi Maran and KAL Airways.
+  🔗 https://www.livemint.com/companies/news/spicejet-moves-supreme-court-against-144-5-crore-deposit-order-in-maran-dispute-11778653653822.html
+
+- Sugar Cosmetics seeks  ₹100-150 crore rescue funding at steep valuation cut
+  The beauty brand is seeking fresh funding from family offices, HNIs and existing investors.
+  🔗 https://www.livemint.com/companies/start-ups/sugar-cosmetics-fundraise-rs-100-150-crore-rescue-funding-steep-valuationcut-11778639797092.html
+
+- Jio Platforms appoints Akash Ambani as managing director ahead of IPO
+  Jio Platforms has appointed Akash Ambani as managing director for five years. The move comes as the company moves closer to filing
+  🔗 https://www.livemint.com/companies/jio-platforms-ipo-akash-ambani-reliance-industries-mukesh-ambani-drhp-filing-sebi-approval-11778645228985.html
 
 - Aditya Birla Health bets on wellness incentives to improve claims ratios
   Aditya Birla Health wants to reward healthier customers, nudge those on the edge to be more consistent.
   🔗 https://www.livemint.com/companies/aditya-birla-health-wellness-incentives-claims-ratio-profitability-customer-engagement-11778595636571.html
 
-- A third legal salvo against Tata Trusts ahead of key 16 May meeting
-  A legal notice has been sent to the trustees of Sir Ratan Tata Trust regarding the transfer of shares in Tata Sons. Naval Tata, father of Noel Tata and the
-  🔗 https://www.livemint.com/companies/news/india-tata-trust-legal-notice-tata-sons-shares-transfer-naval-noel-ratan-jimmy-simone-11778593598855.html
+- TVS Motor Q4 results: Net profit rises 19% YoY to  ₹772 crore, revenue up 30%
+  TVS Motor Q4 results: Net profit rises
+  🔗 https://www.livemint.com/market/stock-market-news/tvs-motor-q4-results-net-profit-rises-19-yoy-to-772-crore-revenue-up-30-11778659921753.html
 
-- Blackstone-backed Ventive doubles down on luxury hospitality with  ₹2,000 cr push
-  Ventive Hospitality aims to capitalize on luxury travel demand. The firm operates 13 assets and plans to grow by focusing on large luxury projects.
-  🔗 https://www.livemint.com/companies/news/blackstonebacked-ventive-doubles-down-on-luxury-hospitality-with-2-000-cr-push-11778573843239.html
+- PFC Q4 Results 2026: Cons net profit rises 2.8% to  ₹8,598 crore, revenue down 1%; dividend declared
+  Power Finance Corporation reported a 2.87% increase in consolidated profit for Q4FY26. The company proposed a final dividend of  ₹3.95 per share
+  🔗 https://www.livemint.com/market/stock-market-news/navratna-psu-stock-pfc-q4-results-2026-cons-net-profit-rises-2-8-to-rs-8-598-crore-revenue-down-1-dividend-declared-11778659383376.html
 
-- Auto Inc stares at stress in Bharat as signs of slowdown emerge
-  India's largest tractor makers and a motorcycle company anticipate declining sales due to poor monsoon conditions. Mahindra forecasts 5% growth, while
-  🔗 https://www.livemint.com/companies/news/auto-inc-signs-of-slowdown-tractors-motorcycles-mahindra-and-mahindra-escorts-kubota-bajaj-auto-rural-markets-11778579171574.html
+- Berger Paints investors paint the town red amid turnaround hopes for sector
+  Nuvama expects FY27 to be a turnaround year for Asian Paints and Berger.
+  🔗 https://www.livemint.com/market/mark-to-market/berger-paints-q4-earnings-paints-sector-india-berger-paints-share-price-kansai-nerolac-asian-paints-11778656241621.html
 
-- Actis restarts Nxt-Infra sale process, appoints Ambit
-  Interest in road assets has been buoyant in India lately, driven by the availability of a large number of assets that attract large institutional
-  🔗 https://www.livemint.com/companies/news/actis-nxt-infra-trust-exit-india-road-assets-investment-11778570630065.html
+- Expert view | Gold import duty hike could slow jewellery sales, not investment demand: Anindya Banerjee, Kotak Sec
+  Gold prices have immediately increased because they have to be around import parity. As far as demand is concerned, at least investment demand won't be affected.
+  🔗 https://www.livemint.com/market/commodities/expert-view-gold-import-duty-hike-could-slow-jewellery-sales-not-investment-demand-anindya-banerjee-kotak-sec-11778657331951.html
 
-- A narrow group of stocks posts outsized gains amid market turmoil
-  Mint analysis shows that while 47% of stocks have bled this year
-  🔗 https://www.livemint.com/market/narrow-group-of-stocks-posts-outsized-gains-amid-market-turmoil-11778592391868.html
+- Simca Advertising IPO allotment in focus today; latest GMP, 6 steps to check status
+  Simca Advertising IPO allotment will be finalised on 13 May. Investors can check the status on MUFG Intime India Pvt. Ltd's portal.
+  🔗 https://www.livemint.com/market/ipo/simca-advertising-ipo-allotment-in-focus-today-latest-gmp-6-steps-to-check-status-11778656869307.html
 
-- From tariffs to war: why Indian stocks keep losing momentum
-  Indian markets are trapped in a cycle of shocks and stalled recoveries. From Trump tariffs and West Asia tensions to relentless FII
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-volatility-fii-selling-trump-tariffs-west-asia-war-11778583237908.html
+- Motorola launches Razr Fold in India with dual AMOLED displays, price starts at  ₹1,49,999
+  The Razr Fold has a 6.6-inch AMOLED external display, 8.1
+  🔗 https://www.livemint.com/technology/gadgets/motorola-launches-razr-fold-with-8-1-inch-amoled-display-price-starts-at-rs-149999-11778657580153.html
 
-- GoI raises customs duty on gold and silver. What does it mean for MCX gold, silver rates
-  The Indian government has increased import duties on gold and silver to 15%. This may dampen demand and support the rupee, but experts warn it could also lead to increased smuggling
-  🔗 https://www.livemint.com/market/stock-market-news/goi-raises-customs-duty-on-gold-and-silver-what-does-it-mean-for-mcx-gold-silver-rates-11778636974344.html
+- Samsung reveals India release date for Android 17 powered One UI 9 beta: Check new features and how to install
+  Samsung brings Android 17 and a redesigned Quick Panel to India with the One UI 9
+  🔗 https://www.livemint.com/technology/tech-news/samsung-reveals-india-release-date-for-android-17-powered-one-ui-9-beta-check-new-features-and-how-to-install-11778652013459.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 13 May
-  Gift Nifty was trading around 23,454 level, a premium of nearly 30 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-13-may-11778637345924.html
+- From Android to PC: 6 best handheld gaming devices to buy in 2026
+  Manufacturers are introducing handheld consoles featuring upgraded displays, improved battery life, enhanced performance and support for modern gaming platforms.
+  🔗 https://www.livemint.com/technology/android-pc-6-best-handheld-gaming-devices-2026-retroid-pocket-5-ayaneo-pocket-2-ayn-odin-2-portal-pro-asus-rog-xbox-ally-11778642371424.html
 
-- Stocks to watch: Bharti Airtel, Tata Motors, Vodafone Idea among 10 shares in focus today
-  The Indian stock market is likely to snap its losing streak as trends in the Gift Nifty index signalled a flat opening on Wednesday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bharti-airtel-tata-motors-vodafone-idea-among-10-shares-in-focus-today-11778635103700.html
+- Spain pushes ahead with social media, AI rules despite Big Tech lobbying pressure
+  Spain pushes ahead with social media, AI rules despite
+  🔗 https://www.livemint.com/technology/spain-pushes-ahead-with-social-media-ai-rules-despite-big-tech-lobbying-pressure-11778652120841.html
 
-- Spotify back online after hours-long outage left thousands unable to use streaming app
-  Spotify experienced a significant outage affecting its services for hours.
-  🔗 https://www.livemint.com/technology/tech-news/spotify-back-online-after-hours-long-outage-left-thousands-unable-to-use-streaming-app-11778633914591.html
+- Google is turning Android into agentic AI system with Gemini Intelligence: Check features and release date
+  Google introduces Gemini Intelligence at the Android Show 2026 to introduce AI-driven features to Android. Gemini Intelligence
+  🔗 https://www.livemint.com/technology/tech-news/google-is-turning-android-into-agentic-ai-system-with-gemini-intelligence-check-features-and-release-date-11778645240833.html
 
-- Americans love their iPhones (though sometimes they wish they could live without them)
-  Americans love their iPhones, but sometimes they
-  🔗 https://www.livemint.com/technology/americans-love-their-iphones-though-sometimes-they-wish-they-could-live-without-them-11778612604939.html
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex gains over 300, Nifty above 23,450; metal ind... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxQMzFqb2huU1VTWmFnZGROSHFQaU0zYkdkZV83Nkk4V1NBYzN3eFp4NG1KaWYycWQyd24ySUVRSzRvRFg3X2hYcE91MGtXaXF1aDVKZV8zbmV6RW13UV9SQllYSzVjc2hJV1
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMzFqb2huU1VTWmFnZGROSHFQaU0zYkdkZV83Nkk4V1NBYzN3eFp4NG1KaWYycWQyd24ySUVRSzRvRFg3X2hYcE91MGtXaXF1aDVKZV8zbmV6RW13UV9SQllYSzVjc2hJV1VLUVZtay1fVXVkdTBCMW9iNDVDT3czSzgxaGJ0QTgxV0Rqam83WENKbVVfUG9GUjROYXRSZmd5UFFiUUpYdnZDd05BcUIzTjUyZUhHaTZoZkljdjhqbUVibFZzUnFhWThYbGViYzV3aVJtTks1NkMzSmdVdVI0bEpmZ0l1SjlxV09UeGFEd1VoLVJCb0xya0dPVFk0MGRmYnJacHl6NnlEamJS0gGSAkFVX3lxTE4yUVZmSTFuVTFSMlE2WGRaQnNXVzlKVTR2Y0hieHh0Q0trMVV0b3VObUVCU0NSVXZ4TkE4blZ4WkZtRFZZZGZEeXdtNDFmYUVEYUNnbnN0MWFoZC12SVdDZVZJNU51XzNieFlWb0RNRVhhUTd1THBjRmIxN0ZBb09Yc3RzdnM4amJWQzJjVXI3ZldfeFdoODZyd3dwd0NieGVvMF85RGQteFRSWExOZTYtMjZIS3BpdTlrN3V5NnRDTVpmSDBPenlKcXpKYzNlZ3RQaU5WdHV1Q0l5ekFESUxaX2U1VV8welcwSXIwRkVORjB5SlhVRHVJdXpFYVU2bm9DdkRCamNFZS12ZmpRRGdfMHc?oc=5
 
-- Deal reached with hackers to delete data stolen from the Canvas educational platform
-  Deal reached with hackers to delete data stolen
-  🔗 https://www.livemint.com/technology/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform-11778610918526.html
+- Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions - CNBC
+  Asia markets mixed as investors watch Trump-Xi
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPN203dGVkOXplZUJDb2tiX1VYVlVodmdRUld6LUhlMWQyWHR3aXhGRzFFUHUwa1N2MEMzTndtc1BGMl9MTGJPRERDWEJERk9JMU9nd010aTVnb2tvbTVSekE5NGNDM2FBVnNZN3JrdTdpOWRjN2J6eFVETGR6WHhRXzR5MW9XRWpUUjNoSEQ4NXpqUndESl9IZ3NCWXkxN3dleXRxWU96ZFd0R2s4eTVv0gG0AUFVX3lxTE1MdElyTHFaQXluRElkR0Fob2FqOUdnYTlwNHRrNlYwMWlXc1Nnd3prczMtcEhwOXlmWTVRd25zcEY4NmNWQ2lYS0tQUnJXcXNEaHdUdEdtbW81UUtjamh2aW5wcEl0N1llZk5JN2dvQUVzRU1kOUhYcEdXNVo1YUZKeEdvV05LY3M2dmJWTEc3Q0J4VGc4aU5oUDZBWlY5QWx4ZUM1bmY5RGZHTUMtMDU4V2RJeQ?oc=5
 
-- Forza Horizon 6 leaked: Playground games warns pirates with ‘franchise-wide and hardware bans’
-  Playground Games has confirmed the leaks about Forza Horizon 6. The company says it is enforcing strict action against pirates.
-  🔗 https://www.livemint.com/technology/tech-news/forza-horizon-6-leaked-playground-games-warns-pirates-with-franchise-wide-and-hardware-bans-11778574617929.html
+- Oil Market Report - May 2026 – Analysis - IEA – International Energy Agency
+  Oil Market Report - May 2026 – Analysis.
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CaUJIRHVqd0pKMFNLcVRDc2IwSzZwRFZPU0NlbERzbG8xZ3JLVlpVS2lHS3did25MRDZZMTZkWHMwSjZsSEZ2WURDd3QwQTJQUUtlLVBPcFlHVmxIZHlTMVNyZWk?oc=5
 
-- Meet the homegrown filmmakers creating acclaimed films on iPhones and smartphones
-  Indian filmmakers are increasingly turning to iPhones and smartphones to shoot acclaimed films and shorts. Backed by initiatives like MAMI’s smartphone filmmaking programme.
-  🔗 https://www.livemint.com/technology/meet-the-homegrown-filmmakers-creating-acclaimed-films-on-iphones-and-smartphones-11778564501137.html
+- Motorola significantly improved its market share, says India MD - The Hindu
+  Motorola significantly improved its market share,
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWdiZk5DNnJxMkVUMExCaVEydi1CU2lDQjRETjZLbGxRalEzcjlEc1JQTFRpVFpPQmNyQTNPTkNqeFFxZ09oVTl3ZjZneFNINExTZTZrVkZFMENKbS1JclJ2UTNuRFBXZndGcGtSQ1hsdkoybFdIRTN5SHpEZERZSEJKX2R4VmVvZEtKbkJDWlZHbUtQSXJobmtZbmZXQ0NKaEtpSkM5cVpSZ1VUbDlLRnlwczJSd0laX1JIdVlLVlZMeGd4bGfSAcwBQVVfeXFMTWMtOHNLQ1Bwem9yWEpBS1NNWGlFM2tSTDNYdUhpWFRUczMzLTdnbnlOdFJpcjdYVGxFZUs4ekxGQ1c5cmJBOUVLaUxpR0VOcHI0eWlrQnNFQmx6SDBwcGY0cWszenBQSU1ZWnhLM0xTazFtLVBmcjZHNTRQWjdvVF9GUkdEQ25IWDVmQmZEamZzc3lBOFNGVDRfaHYzNHc1ZVduT2xwVE00NlRaZ01fV3FfRDIwVFpLRjJpOGkyMm1Obmpnb1E5Qm1lX09O?oc=5
 
-- Oil Price Today (May 13): Crude oil snaps 3-day fall ahead of Trump’s China visit. What are experts saying?
-  Oil prices dipped after a three-day climb as investors monitored the fragile Iran ceasefire. The Strait of Hormuz remains effectively shut, impacting global supply and raising inflation concerns.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-13-crude-oil-snaps-3-day-fall-ahead-of-trumps-china-visit-what-are-experts-saying/articleshow/131052835.cms
+- Index rebalancing is now the biggest event in markets - The Economist
+  Index rebalancing is now the biggest
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFpZYUtOZ095M191amswTWF1Z0VKZzRzV0QwQXJDOVF1TmQ2bFFldUhKN1lfMFZFWlhtNk16eWJaZ1Jjc3g4SGVTbmV6NHJSQ3BrT2J2Z0lNRXBzVUJBLWk5Zi1iZG9meFZ3dFMtS21ENzB4SHBjV0luNDAybUp0Q3ZwSDhMc2haRWp3OEtVTHUxbTVJNnpzbm9VSEZDYVJuVEtrSEpIeElRYWlNWlhQWURn?oc=5
 
-- Negative Breakout: These 14 stocks cross below their 200 DMAs
-  The 200 DMA is used as a key indicator by traders for determining the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-14-stocks-cross-below-their-200-dmas/slideshow/131052742.cms
+- TVS Motor Q4 Results: Cons PAT grows 19% YoY to Rs 772 crore as revenue jumps 30%
+  TVS Motor posted a strong Q4FY26 with net profit up 19% to Rs 772 crore. Overall sales grew 28% to 15.6 lakh units, driven by robust motorcycle, scooter and EV
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tvs-motor-q4-results-cons-pat-grows-19-yoy-to-rs-772-crore-as-revenue-jumps-30/articleshow/131059358.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-airtel-tata-motors-share-price-13-may-2026/liveblog/131052695.cms
+- Rupee hits all-time low of 95.74 vs USD as outflows wipe comfort from gold duty hike
+  The Indian rupee hit a new all-time low on Wednesday, falling 0.1% to 95.7450 per dollar. This decline was driven by consistent overseas debt repay
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-past-95-73-per-us-dollar-to-hit-lifetime-low-as-persistent-outflows-wipe-comfort-from-gold-duty-hike/articleshow/131059422.cms
 
-- Silicon Road Ventures, Ajay Mahajan launch Rs 150-crore AI-focused startup fund
-  US venture capital fund Silicon Road Ventures has partnered with former Bank of America India MD Ajay Mahajan to launch a Rs 150-crore alternative investment fund. This fund will invest in early-stage startups developing Agent
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/silicon-road-ventures-ajay-mahajan-launch-rs-150-crore-ai-focused-startup-fund/articleshow/131052657.cms
+- Geopolitical tensions keep markets nervous despite strong earnings: Dipan Mehta
+  India Inc. shows resilience with encouraging results from auto, NBFC, and FMCG sectors. Dipan Mehta advises selectively accumulating quality businesses available at reasonable valuations.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/geopolitical-tensions-keep-markets-nervous-despite-strong-earnings-dipan-mehta/articleshow/131059149.cms
 
-- Stocks to buy in 2026 for long term: Canara Bank, PVR Inox among 5 stocks that could give 10-30% return
-  Brokerages continue to highlight selective opportunities across sectors. A broadly positive stance
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-canara-bank-pvr-inox-among-5-stocks-that-could-give-10-30-return/slideshow/131052682.cms
+- Jewellery stocks take Rs 60,000 crore hit in 3 days on govt's double-blow. Is the worst behind?
+  Jewellery stocks have plunged up to 20% in three sessions, erasing nearly Rs 60,000 crore in investor wealth. PM Narendra Modi urged households to defer gold purchases and the government hiked import duties.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-take-rs-60000-crore-hit-in-3-days-on-govts-double-blow-is-the-worst-behind/articleshow/131058916.cms
 
-- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
-  India's "Reputation, Standing"
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
-
-- India Inc responds to PM Modi’s appeal on WFH work again, cutting non-essential travel and saving Forex; - The Times of India
-  India Inc responds to PM Modi’s appeal on WFH work again, cutting non
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPMGk4elgzRGNydTE3SUpBZjJJQXlZZHdoWEJRN2NtTUZGeGtDWElGbFpGdVRUbG11YnduYXhhTzlNMzUzdmU0RmlIRmZjaVQwQ1RONXlQUnhlX2xDWlpvT1ZpX2RVYWRoWm1vNmNjNkZHZU5VcmptVlBDTzZNRUktZ0VwZE96a0tXdDg0NDdhYjJ6dGh6WVVGak1fUHhWTTBmdzBMbXlEeldqTVlOT2xVUk55aUFhSVZoelNuaDh2YWZENEk3aGlBZGtxcndmWm9DekJPMDBLM25WSjdINzN0eWVGWDBxMDVaV2NzenpucUtXVkQ5U1BQZURTNjJ4NzlUWXhnNlJ2RHllTlUyeVFSR2xlZl9QUVZWWE1uSGxnbTl2bVHSAagCQVVfeXFMUC1yYWJhUVI4N3lDT18tSDZBX1hQNWhIUkRNTmUyeVhHdXRDcDZIYjJhOEQzeW1xMEJHU2VGVzZ2NEd1bktva2pialRrNGVkdWk2cDRXZWM0MVh3ck9NY1Z3Y1ZUMjVCZXdaMVdQOTNYT2k1VHJzWVhCOENvRTVIc1JPdzlhSXR4aWNSZTZLRFVtOENqakZIODFmUzZWUnR1RHhkZmZXdXhBeXBITk1KQi12R1E3anBHMXdyUndWTmh1T21qaGtXb3lUT0JGaWdCUE55aktlX0R3d3pISkVtTVh3djQ4UlREdzZGVnRkS2NGZ2F4ZmpPYWRsSXN1QUhXcjhCNGEyc0xPQjJtWV9ONDBTdGtWdzdTZVk3bUNHRFd6Y0hTQ1JacjM?oc=5
-
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
-
-- Prateek Yadav, Mulayam Singh Yadav's younger son, dies at 38 | India News - Hindustan Times
-  Prateek Yadav, Mulayam Singh Yadav
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOU1uQWdvYTQxbGpLeUI3Tm1lMnc4RnJDSEUtVzVfU2hkVEgzM24zTkdGYThjM0JvMUxmVUxZVnhHQ1RRS0NWenhiOWpxNml0NUlpWi1xTUZMUURVeW9TSFgxaU5hbF9Ub1lSQmY4WHFYQWUzb0E0NExKQVRjbkY2T25LX05RTzQ4ODBQUFpRWFp5UGhqRDNfU3dvUFE5WkFkaUZGUlgwaHZsVXBSb29xZXgxTkNrVkMzRjE2TFpyUFdKWjMxX0hiYzl5ZXdieGhvRzNPcnFPMEdmN0ZxTGszNFlYWEIwZmdhR280aEpjSXUwck5wMXFj0gH8AUFVX3lxTE03bGRIazh6NW5CS1R2RkFLYWk3V2NVeW1HV0lSRTFRbkRHSms0cDN3OEVNWkdhcnlVT1Fuejh6VWJObG5kMzJWVmpNWUt1Z3oxT2pCVUtpTVN2T2w1MzFQTnpMLW9pcy1xd25UeGN3elF0VldyOTF1d3FHWVFIRk5XYXJqSjdtSkE5NnNfZDQzOVgxaVhvYWhDakFRVnpCcXJyRG9aT2lLQ24xaHlhYXVPVElFcHhtdFFHSV9PaF90T05VQzR4dzZlN2dMZ0JJZWpWRzNlVGdFU3h4bHlnWFVINkhSMmFTYVZPRjhkMUdzbWRzTmw1dFlBelR4Ug?oc=5
-
-- India’s inflation in April rises for sixth straight month, but undershoots estimates - CNBC
-  India’s inflation in April rises for sixth
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEVTLXpiSW43ZVYxVHV2eHdZbzdfS29IWlRLazY3amdHTFdCTVRQWnV0dFF6eW9Za3FrQWFMREJBSUdLOFNUWFd0eEpYQzBPSERXaGtBdXM0N1p1NzkyZkpVYWlQal8tVmdJS2NZdEwtTjNJbEk5cnZHVS1NQnNYelRWTFJoZ2diUkxaVG5GUkFjNnNJQ3U4Q3dDNNIBoAFBVV95cUxOcUxrQy1fZTVhSHZ4bFc1WGExOEJPMW5MWl9SS2Q4TXk0bTByQ2NTeFctWDBScVVFOHVkNXZxV3hWUHl5cHZYOFgwdzExYlpFQi1pNUVqbklRSHdiYlJMWC1RdFN6VEwxWmF3cTlmcVFvUThfVjhrVkEwc2N3UWpUajRwR2pscllYRzVSSDluRzJUN0xhV1FZU1JzTkdaenpO?oc=5
+- Cipla Q4 Results: Profit falls 55% YoY to Rs 555 crore; co declares Rs 13/sh dividend
+  Cipla Ltd announced a significant 55% year-on-year drop in its consolidated net profit for the fourth quarter. The company's Board has recommended a final dividend of Rs 13 per share for the fiscal year ending March 2026
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cipla-q4-results-profit-falls-55-yoy-to-rs-555-crore-co-declares-rs-13/sh-dividend/articleshow/131058721.cms
 
 - India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
   India's "Reputation, Standing"
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
 
-- India Inc responds to PM Modi’s appeal on WFH work again, cutting non-essential travel and saving Forex; - The Times of India
-  India Inc responds to PM Modi’s appeal on WFH work again, cutting non
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPMGk4elgzRGNydTE3SUpBZjJJQXlZZHdoWEJRN2NtTUZGeGtDWElGbFpGdVRUbG11YnduYXhhTzlNMzUzdmU0RmlIRmZjaVQwQ1RONXlQUnhlX2xDWlpvT1ZpX2RVYWRoWm1vNmNjNkZHZU5VcmptVlBDTzZNRUktZ0VwZE96a0tXdDg0NDdhYjJ6dGh6WVVGak1fUHhWTTBmdzBMbXlEeldqTVlOT2xVUk55aUFhSVZoelNuaDh2YWZENEk3aGlBZGtxcndmWm9DekJPMDBLM25WSjdINzN0eWVGWDBxMDVaV2NzenpucUtXVkQ5U1BQZURTNjJ4NzlUWXhnNlJ2RHllTlUyeVFSR2xlZl9QUVZWWE1uSGxnbTl2bVHSAagCQVVfeXFMUC1yYWJhUVI4N3lDT18tSDZBX1hQNWhIUkRNTmUyeVhHdXRDcDZIYjJhOEQzeW1xMEJHU2VGVzZ2NEd1bktva2pialRrNGVkdWk2cDRXZWM0MVh3ck9NY1Z3Y1ZUMjVCZXdaMVdQOTNYT2k1VHJzWVhCOENvRTVIc1JPdzlhSXR4aWNSZTZLRFVtOENqakZIODFmUzZWUnR1RHhkZmZXdXhBeXBITk1KQi12R1E3anBHMXdyUndWTmh1T21qaGtXb3lUT0JGaWdCUE55aktlX0R3d3pISkVtTVh3djQ4UlREdzZGVnRkS2NGZ2F4ZmpPYWRsSXN1QUhXcjhCNGEyc0xPQjJtWV9ONDBTdGtWdzdTZVk3bUNHRFd6Y0hTQ1JacjM?oc=5
+- From Indira Gandhi To Modi: Why Indian Govts Ask Citizens To Reduce Gold Consumption During Crises - The Times of India
+  The Times of India has published an article titled 'From Indira Gandhi To Modi:
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQelpLb09LejdpVjNTc1NZb3dKMEFnVDhjU0RwbEN6cVBRVzk1dTEwQVdXSl9kUEtKZ3A2bHREN0FjLUx4SHd6OEthTG9laWNFRlFxSWY0eVlnaWJHX3ZfeXM2OEVZZDVBNHp4b0Vfck56b1VtMThrYTRsMG1oSXh3cGx6R05tOGphbWlqTjdMcTJKZkVha3p4WlZaTUh6S0VQOVV1RzZpUmtybUpYNGY1UkhTSUVYU1cyUUtrMDJvYUY2eF9URzBLbHdMem5ZdTAzYmtxczRnNDdIY1NGbGdVQy1RWG1laUxZRktMQkRxWVhCcm10dkZvNWZzWG95QdIBgwJBVV95cUxNU0JwVWVwY0RXNXRzdVJIanpMM0dXbms2TUVnR0xhTFlDOEMtLUZBSWk3MXF3QjA4LXl3bWZRdzg3RGtJa0t5RFIwY2c2SDFrRkUyN2NtOUR6dEFvcTJyTWdER0IwTDhXOVFCNG9IM3VlV2p4NjdmakFUSndQSS03S3NEaVJFZjkwZ2wyTVBPMklLOVcyUENYT3paMk1YV0hGaGNjbjNjV210eHZ0LUpzalFDNVBPdXRSYWlMc055UTR1ZXBzbnNYN200RHRtUVFmUV91OTNtZ0dhbFNIVGloSERXMUhkcHlOaFlWMTJnaC1WYXNBQ3c2Nms4bS1NdHNUams0?oc=5
 
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
+- Cut Convoy By 50%, Add More EVs: PM Modi's Austerity Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjhHSVAwdG5LcXJJUmpodEJYbkFEM0RpMVhhN0gyeS0tQ0l4MVNoel9UWklKc3A0OFk3bUZ3UUpjQ3hfMnYzb3lyXzhwS05HQVNMeVZSQ2VFZWc1Wm9pRE9YejBCQ3ZTRGlRUjRybmN3aWpBdjB4dzFFLThzY3BYSi16ZHNSa1BTa1Z2V3ZleUZ6aHhDOFFDZ1AtSjdHRHdOTmpidTRvNm8tZmJqdXB5X9IBuAFBVV95cUxQa2JwQmh4RF85WUZGd0wzUU4yYTJ3Ri0wb2dVZno4SWxIWXptNkpoQnRaWkdIeUN3VzEzc0k1a1hYOWpVRjlWenVKVmQ5SnlUR05uN0ppZW5jVE12Wk9YUVItbFRrWEZmT2lJV2M3UEFZUWtjN3B1UkdaX0xqMkdfZzZtUE1YbEFOcUNWTU4yZE9sUnc2bUVUOHNqVWlwdDI4bWJHc2RfbldCV3ZzaUg2aHNwRzdmVjNH?oc=5
 
-- Prateek Yadav, Mulayam Singh Yadav's younger son, dies at 38 | India News - Hindustan Times
-  Prateek Yadav, Mulayam Singh Yadav
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOU1uQWdvYTQxbGpLeUI3Tm1lMnc4RnJDSEUtVzVfU2hkVEgzM24zTkdGYThjM0JvMUxmVUxZVnhHQ1RRS0NWenhiOWpxNml0NUlpWi1xTUZMUURVeW9TSFgxaU5hbF9Ub1lSQmY4WHFYQWUzb0E0NExKQVRjbkY2T25LX05RTzQ4ODBQUFpRWFp5UGhqRDNfU3dvUFE5WkFkaUZGUlgwaHZsVXBSb29xZXgxTkNrVkMzRjE2TFpyUFdKWjMxX0hiYzl5ZXdieGhvRzNPcnFPMEdmN0ZxTGszNFlYWEIwZmdhR280aEpjSXUwck5wMXFj0gH8AUFVX3lxTE03bGRIazh6NW5CS1R2RkFLYWk3V2NVeW1HV0lSRTFRbkRHSms0cDN3OEVNWkdhcnlVT1Fuejh6VWJObG5kMzJWVmpNWUt1Z3oxT2pCVUtpTVN2T2w1MzFQTnpMLW9pcy1xd25UeGN3elF0VldyOTF1d3FHWVFIRk5XYXJqSjdtSkE5NnNfZDQzOVgxaVhvYWhDakFRVnpCcXJyRG9aT2lLQ24xaHlhYXVPVElFcHhtdFFHSV9PaF90T05VQzR4dzZlN2dMZ0JJZWpWRzNlVGdFU3h4bHlnWFVINkhSMmFTYVZPRjhkMUdzbWRzTmw1dFlBelR4Ug?oc=5
+- Big Austerity Measures Coming? Key Cabinet Briefing Today After PM Modi's Back-To-Back Appeals - News18
+  A key Cabinet Briefing today after PM Modi's Back
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMFBQZjFpaXJzb2o2RFk1a2sxZ1B4X3U5MUdxS1lOdFBOR1FOdDVXTFBJX2JzWFF1RWxLa21PeW9oWW1DbHFIX3U0NTNneWRsWEtDNDRfT0ZIbVFuWjFKdzZZRm5lUTBQd1RhcWR3SzJyakYzd2gyNkFnWjYwQXVFMUNKRGZYU245TVlJRDF2dm1OWjlXQnpmYzhmRktRVU1JU0FsQ0kxMzVoeUpVVEZkaG5vb1BLZWtFVzk5bl9zS0pPV3k5Y1BZU0JaZ0RuWm5VTUpGZ3pKT3RIeC1XbF9YQzd1RUZYVmV4bGfSAe8BQVVfeXFMTlRWR0R3YW01NUtVYnJhSE5oRTl5YWJ0enkwd0l2SkJMaWNZVDExTllIcTZvYzJUZG9INk1ic3QybW1acTJRUlhkWEp6bEpfZHpQWXVvbXV5THV1R2dlU2lpdXJYbmZUTmt4bU9MVlVUNzNYV19zdFl5Zmp0dnA1Mm1VLTIwWjhVNXVSTHdjZmpISmdrMS11US1sZGNTbDE2enYxVllCQmZLSHRBLXA2enRvRUoxZFZ6Z0x2SExNaU1nRVJnZE1zaG1lOFc1MC0zR2JuNms1SDJjcHRJV0w3LWYxVEhZQUR0ZFZtVDdVS1k?oc=5
 
-- India’s inflation in April rises for sixth straight month, but undershoots estimates - CNBC
-  India’s inflation in April rises for sixth
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEVTLXpiSW43ZVYxVHV2eHdZbzdfS29IWlRLazY3amdHTFdCTVRQWnV0dFF6eW9Za3FrQWFMREJBSUdLOFNUWFd0eEpYQzBPSERXaGtBdXM0N1p1NzkyZkpVYWlQal8tVmdJS2NZdEwtTjNJbEk5cnZHVS1NQnNYelRWTFJoZ2diUkxaVG5GUkFjNnNJQ3U4Q3dDNNIBoAFBVV95cUxOcUxrQy1fZTVhSHZ4bFc1WGExOEJPMW5MWl9SS2Q4TXk0bTByQ2NTeFctWDBScVVFOHVkNXZxV3hWUHl5cHZYOFgwdzExYlpFQi1pNUVqbklRSHdiYlJMWC1RdFN6VEwxWmF3cTlmcVFvUThfVjhrVkEwc2N3UWpUajRwR2pscllYRzVSSDluRzJUN0xhV1FZU1JzTkdaenpO?oc=5
+- How A Hostel Owner In Rajasthan's Sikar Helped Unravel NEET Paper Leak - NDTV
+  How A Hostel Owner In Rajasthan's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE9RMDBlMmFrN1VtTDlfT1ZhcE5uajNfeEV3RDVtSWN5V00zSGkxel9ZRWVpQWhiTTNraDJ0TzFHb2tESmo5TFd1MHlOY2hQY0JXamxidVNCZnlPZ1pWc2hWcElsQUJoT25qTmZrUUx2U1djUC1OdVYzLTF1VWh3d1Y3c0xGdVpZUlhZNTliNnp3R1ZCRzktYkRBazEwLWxJLVhWNkVjODI4Ui1laGhF?oc=5
 
 - India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
   India's "Reputation, Standing"
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
 
-- India Inc responds to PM Modi’s appeal on WFH work again, cutting non-essential travel and saving Forex; - The Times of India
-  India Inc responds to PM Modi’s appeal on WFH work again, cutting non
-  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxPMGk4elgzRGNydTE3SUpBZjJJQXlZZHdoWEJRN2NtTUZGeGtDWElGbFpGdVRUbG11YnduYXhhTzlNMzUzdmU0RmlIRmZjaVQwQ1RONXlQUnhlX2xDWlpvT1ZpX2RVYWRoWm1vNmNjNkZHZU5VcmptVlBDTzZNRUktZ0VwZE96a0tXdDg0NDdhYjJ6dGh6WVVGak1fUHhWTTBmdzBMbXlEeldqTVlOT2xVUk55aUFhSVZoelNuaDh2YWZENEk3aGlBZGtxcndmWm9DekJPMDBLM25WSjdINzN0eWVGWDBxMDVaV2NzenpucUtXVkQ5U1BQZURTNjJ4NzlUWXhnNlJ2RHllTlUyeVFSR2xlZl9QUVZWWE1uSGxnbTl2bVHSAagCQVVfeXFMUC1yYWJhUVI4N3lDT18tSDZBX1hQNWhIUkRNTmUyeVhHdXRDcDZIYjJhOEQzeW1xMEJHU2VGVzZ2NEd1bktva2pialRrNGVkdWk2cDRXZWM0MVh3ck9NY1Z3Y1ZUMjVCZXdaMVdQOTNYT2k1VHJzWVhCOENvRTVIc1JPdzlhSXR4aWNSZTZLRFVtOENqakZIODFmUzZWUnR1RHhkZmZXdXhBeXBITk1KQi12R1E3anBHMXdyUndWTmh1T21qaGtXb3lUT0JGaWdCUE55aktlX0R3d3pISkVtTVh3djQ4UlREdzZGVnRkS2NGZ2F4ZmpPYWRsSXN1QUhXcjhCNGEyc0xPQjJtWV9ONDBTdGtWdzdTZVk3bUNHRFd6Y0hTQ1JacjM?oc=5
+- From Indira Gandhi To Modi: Why Indian Govts Ask Citizens To Reduce Gold Consumption During Crises - The Times of India
+  The Times of India has published an article titled 'From Indira Gandhi To Modi:
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQelpLb09LejdpVjNTc1NZb3dKMEFnVDhjU0RwbEN6cVBRVzk1dTEwQVdXSl9kUEtKZ3A2bHREN0FjLUx4SHd6OEthTG9laWNFRlFxSWY0eVlnaWJHX3ZfeXM2OEVZZDVBNHp4b0Vfck56b1VtMThrYTRsMG1oSXh3cGx6R05tOGphbWlqTjdMcTJKZkVha3p4WlZaTUh6S0VQOVV1RzZpUmtybUpYNGY1UkhTSUVYU1cyUUtrMDJvYUY2eF9URzBLbHdMem5ZdTAzYmtxczRnNDdIY1NGbGdVQy1RWG1laUxZRktMQkRxWVhCcm10dkZvNWZzWG95QdIBgwJBVV95cUxNU0JwVWVwY0RXNXRzdVJIanpMM0dXbms2TUVnR0xhTFlDOEMtLUZBSWk3MXF3QjA4LXl3bWZRdzg3RGtJa0t5RFIwY2c2SDFrRkUyN2NtOUR6dEFvcTJyTWdER0IwTDhXOVFCNG9IM3VlV2p4NjdmakFUSndQSS03S3NEaVJFZjkwZ2wyTVBPMklLOVcyUENYT3paMk1YV0hGaGNjbjNjV210eHZ0LUpzalFDNVBPdXRSYWlMc055UTR1ZXBzbnNYN200RHRtUVFmUV91OTNtZ0dhbFNIVGloSERXMUhkcHlOaFlWMTJnaC1WYXNBQ3c2Nms4bS1NdHNUams0?oc=5
 
-- Air India: Crisis deepens ahead of final Ahmedabad crash report - BBC
-  Air India: Crisis deepens ahead of
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaktIU1pMNi1Bc0c4RkRpVGdhaUk3UkM1QTBmQ1JaMDd4M21uOVpjN3JocU9QdlBjTTh3M1ZtZFhpMjFBUmZacUlhQXlTUkkyQWY3bjdxdjZYUQ?oc=5
+- Cut Convoy By 50%, Add More EVs: PM Modi's Austerity Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjhHSVAwdG5LcXJJUmpodEJYbkFEM0RpMVhhN0gyeS0tQ0l4MVNoel9UWklKc3A0OFk3bUZ3UUpjQ3hfMnYzb3lyXzhwS05HQVNMeVZSQ2VFZWc1Wm9pRE9YejBCQ3ZTRGlRUjRybmN3aWpBdjB4dzFFLThzY3BYSi16ZHNSa1BTa1Z2V3ZleUZ6aHhDOFFDZ1AtSjdHRHdOTmpidTRvNm8tZmJqdXB5X9IBuAFBVV95cUxQa2JwQmh4RF85WUZGd0wzUU4yYTJ3Ri0wb2dVZno4SWxIWXptNkpoQnRaWkdIeUN3VzEzc0k1a1hYOWpVRjlWenVKVmQ5SnlUR05uN0ppZW5jVE12Wk9YUVItbFRrWEZmT2lJV2M3UEFZUWtjN3B1UkdaX0xqMkdfZzZtUE1YbEFOcUNWTU4yZE9sUnc2bUVUOHNqVWlwdDI4bWJHc2RfbldCV3ZzaUg2aHNwRzdmVjNH?oc=5
 
-- Prateek Yadav, Mulayam Singh Yadav's younger son, dies at 38 | India News - Hindustan Times
-  Prateek Yadav, Mulayam Singh Yadav
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOU1uQWdvYTQxbGpLeUI3Tm1lMnc4RnJDSEUtVzVfU2hkVEgzM24zTkdGYThjM0JvMUxmVUxZVnhHQ1RRS0NWenhiOWpxNml0NUlpWi1xTUZMUURVeW9TSFgxaU5hbF9Ub1lSQmY4WHFYQWUzb0E0NExKQVRjbkY2T25LX05RTzQ4ODBQUFpRWFp5UGhqRDNfU3dvUFE5WkFkaUZGUlgwaHZsVXBSb29xZXgxTkNrVkMzRjE2TFpyUFdKWjMxX0hiYzl5ZXdieGhvRzNPcnFPMEdmN0ZxTGszNFlYWEIwZmdhR280aEpjSXUwck5wMXFj0gH8AUFVX3lxTE03bGRIazh6NW5CS1R2RkFLYWk3V2NVeW1HV0lSRTFRbkRHSms0cDN3OEVNWkdhcnlVT1Fuejh6VWJObG5kMzJWVmpNWUt1Z3oxT2pCVUtpTVN2T2w1MzFQTnpMLW9pcy1xd25UeGN3elF0VldyOTF1d3FHWVFIRk5XYXJqSjdtSkE5NnNfZDQzOVgxaVhvYWhDakFRVnpCcXJyRG9aT2lLQ24xaHlhYXVPVElFcHhtdFFHSV9PaF90T05VQzR4dzZlN2dMZ0JJZWpWRzNlVGdFU3h4bHlnWFVINkhSMmFTYVZPRjhkMUdzbWRzTmw1dFlBelR4Ug?oc=5
+- Big Austerity Measures Coming? Key Cabinet Briefing Today After PM Modi's Back-To-Back Appeals - News18
+  A key Cabinet Briefing today after PM Modi's Back
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMFBQZjFpaXJzb2o2RFk1a2sxZ1B4X3U5MUdxS1lOdFBOR1FOdDVXTFBJX2JzWFF1RWxLa21PeW9oWW1DbHFIX3U0NTNneWRsWEtDNDRfT0ZIbVFuWjFKdzZZRm5lUTBQd1RhcWR3SzJyakYzd2gyNkFnWjYwQXVFMUNKRGZYU245TVlJRDF2dm1OWjlXQnpmYzhmRktRVU1JU0FsQ0kxMzVoeUpVVEZkaG5vb1BLZWtFVzk5bl9zS0pPV3k5Y1BZU0JaZ0RuWm5VTUpGZ3pKT3RIeC1XbF9YQzd1RUZYVmV4bGfSAe8BQVVfeXFMTlRWR0R3YW01NUtVYnJhSE5oRTl5YWJ0enkwd0l2SkJMaWNZVDExTllIcTZvYzJUZG9INk1ic3QybW1acTJRUlhkWEp6bEpfZHpQWXVvbXV5THV1R2dlU2lpdXJYbmZUTmt4bU9MVlVUNzNYV19zdFl5Zmp0dnA1Mm1VLTIwWjhVNXVSTHdjZmpISmdrMS11US1sZGNTbDE2enYxVllCQmZLSHRBLXA2enRvRUoxZFZ6Z0x2SExNaU1nRVJnZE1zaG1lOFc1MC0zR2JuNms1SDJjcHRJV0w3LWYxVEhZQUR0ZFZtVDdVS1k?oc=5
 
-- India’s inflation in April rises for sixth straight month, but undershoots estimates - CNBC
-  India’s inflation in April rises for sixth
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEVTLXpiSW43ZVYxVHV2eHdZbzdfS29IWlRLazY3amdHTFdCTVRQWnV0dFF6eW9Za3FrQWFMREJBSUdLOFNUWFd0eEpYQzBPSERXaGtBdXM0N1p1NzkyZkpVYWlQal8tVmdJS2NZdEwtTjNJbEk5cnZHVS1NQnNYelRWTFJoZ2diUkxaVG5GUkFjNnNJQ3U4Q3dDNNIBoAFBVV95cUxOcUxrQy1fZTVhSHZ4bFc1WGExOEJPMW5MWl9SS2Q4TXk0bTByQ2NTeFctWDBScVVFOHVkNXZxV3hWUHl5cHZYOFgwdzExYlpFQi1pNUVqbklRSHdiYlJMWC1RdFN6VEwxWmF3cTlmcVFvUThfVjhrVkEwc2N3UWpUajRwR2pscllYRzVSSDluRzJUN0xhV1FZU1JzTkdaenpO?oc=5
+- How A Hostel Owner In Rajasthan's Sikar Helped Unravel NEET Paper Leak - NDTV
+  How A Hostel Owner In Rajasthan's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE9RMDBlMmFrN1VtTDlfT1ZhcE5uajNfeEV3RDVtSWN5V00zSGkxel9ZRWVpQWhiTTNraDJ0TzFHb2tESmo5TFd1MHlOY2hQY0JXamxidVNCZnlPZ1pWc2hWcElsQUJoT25qTmZrUUx2U1djUC1OdVYzLTF1VWh3d1Y3c0xGdVpZUlhZNTliNnp3R1ZCRzktYkRBazEwLWxJLVhWNkVjODI4Ui1laGhF?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India's "Reputation, Standing" Reply To China's "On-Site" Support To Pak - NDTV
+  India's "Reputation, Standing"
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnhPVndWOVpPNFRzUVdPRWpvRTdXUDZkZXJmUjVXeHVvYXhYb3Rtd0pnRVRTZzhDY2RxX2R4Yk50eVZyVVFtS2pqa2hSUXNpcndoZ3NrUjNnZ18zc2tGS1V2R05sWG9iLWc0b2xCeDZFOWtFYzExaGdGbU9TZkR6MlZuZHlxMlVoQVhyYTNaX3pwamxpTG85UlROUExjZFdoR2MyTnBaYmFFMnMwb29RaWpzVVRoUjRZYm5IanBjeWhDZ9IBygFBVV95cUxQM3RtRi1GMHJkTEp1dUlsT2tUcVhtTzFLUWxDWGdiM1QwSUtSMUppeXEyRHBDMTJ0MllHWHhmTWZsNElsQkhfMTZvZEptelBfSUFERmpUT09Fa3FwUm8zcXJOdlhCam53WlUtemd5TUVXVzlQZnNNTlR1anRqc0ZPXzUydmdpMVlRRThhOXE5ZXYyQlpoSk5mRDZsd0JyLWVIQ1JwNlZzTmNjMzN6MVBfQXJNMkNHVmtBaHNmZ0w2T2pCREppSE5ucmpn?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- From Indira Gandhi To Modi: Why Indian Govts Ask Citizens To Reduce Gold Consumption During Crises - The Times of India
+  The Times of India has published an article titled 'From Indira Gandhi To Modi:
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQelpLb09LejdpVjNTc1NZb3dKMEFnVDhjU0RwbEN6cVBRVzk1dTEwQVdXSl9kUEtKZ3A2bHREN0FjLUx4SHd6OEthTG9laWNFRlFxSWY0eVlnaWJHX3ZfeXM2OEVZZDVBNHp4b0Vfck56b1VtMThrYTRsMG1oSXh3cGx6R05tOGphbWlqTjdMcTJKZkVha3p4WlZaTUh6S0VQOVV1RzZpUmtybUpYNGY1UkhTSUVYU1cyUUtrMDJvYUY2eF9URzBLbHdMem5ZdTAzYmtxczRnNDdIY1NGbGdVQy1RWG1laUxZRktMQkRxWVhCcm10dkZvNWZzWG95QdIBgwJBVV95cUxNU0JwVWVwY0RXNXRzdVJIanpMM0dXbms2TUVnR0xhTFlDOEMtLUZBSWk3MXF3QjA4LXl3bWZRdzg3RGtJa0t5RFIwY2c2SDFrRkUyN2NtOUR6dEFvcTJyTWdER0IwTDhXOVFCNG9IM3VlV2p4NjdmakFUSndQSS03S3NEaVJFZjkwZ2wyTVBPMklLOVcyUENYT3paMk1YV0hGaGNjbjNjV210eHZ0LUpzalFDNVBPdXRSYWlMc055UTR1ZXBzbnNYN200RHRtUVFmUV91OTNtZ0dhbFNIVGloSERXMUhkcHlOaFlWMTJnaC1WYXNBQ3c2Nms4bS1NdHNUams0?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Cut Convoy By 50%, Add More EVs: PM Modi's Austerity Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjhHSVAwdG5LcXJJUmpodEJYbkFEM0RpMVhhN0gyeS0tQ0l4MVNoel9UWklKc3A0OFk3bUZ3UUpjQ3hfMnYzb3lyXzhwS05HQVNMeVZSQ2VFZWc1Wm9pRE9YejBCQ3ZTRGlRUjRybmN3aWpBdjB4dzFFLThzY3BYSi16ZHNSa1BTa1Z2V3ZleUZ6aHhDOFFDZ1AtSjdHRHdOTmpidTRvNm8tZmJqdXB5X9IBuAFBVV95cUxQa2JwQmh4RF85WUZGd0wzUU4yYTJ3Ri0wb2dVZno4SWxIWXptNkpoQnRaWkdIeUN3VzEzc0k1a1hYOWpVRjlWenVKVmQ5SnlUR05uN0ppZW5jVE12Wk9YUVItbFRrWEZmT2lJV2M3UEFZUWtjN3B1UkdaX0xqMkdfZzZtUE1YbEFOcUNWTU4yZE9sUnc2bUVUOHNqVWlwdDI4bWJHc2RfbldCV3ZzaUg2aHNwRzdmVjNH?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Big Austerity Measures Coming? Key Cabinet Briefing Today After PM Modi's Back-To-Back Appeals - News18
+  A key Cabinet Briefing today after PM Modi's Back
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMFBQZjFpaXJzb2o2RFk1a2sxZ1B4X3U5MUdxS1lOdFBOR1FOdDVXTFBJX2JzWFF1RWxLa21PeW9oWW1DbHFIX3U0NTNneWRsWEtDNDRfT0ZIbVFuWjFKdzZZRm5lUTBQd1RhcWR3SzJyakYzd2gyNkFnWjYwQXVFMUNKRGZYU245TVlJRDF2dm1OWjlXQnpmYzhmRktRVU1JU0FsQ0kxMzVoeUpVVEZkaG5vb1BLZWtFVzk5bl9zS0pPV3k5Y1BZU0JaZ0RuWm5VTUpGZ3pKT3RIeC1XbF9YQzd1RUZYVmV4bGfSAe8BQVVfeXFMTlRWR0R3YW01NUtVYnJhSE5oRTl5YWJ0enkwd0l2SkJMaWNZVDExTllIcTZvYzJUZG9INk1ic3QybW1acTJRUlhkWEp6bEpfZHpQWXVvbXV5THV1R2dlU2lpdXJYbmZUTmt4bU9MVlVUNzNYV19zdFl5Zmp0dnA1Mm1VLTIwWjhVNXVSTHdjZmpISmdrMS11US1sZGNTbDE2enYxVllCQmZLSHRBLXA2enRvRUoxZFZ6Z0x2SExNaU1nRVJnZE1zaG1lOFc1MC0zR2JuNms1SDJjcHRJV0w3LWYxVEhZQUR0ZFZtVDdVS1k?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- How A Hostel Owner In Rajasthan's Sikar Helped Unravel NEET Paper Leak - NDTV
+  How A Hostel Owner In Rajasthan's
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPcE9RMDBlMmFrN1VtTDlfT1ZhcE5uajNfeEV3RDVtSWN5V00zSGkxel9ZRWVpQWhiTTNraDJ0TzFHb2tESmo5TFd1MHlOY2hQY0JXamxidVNCZnlPZ1pWc2hWcElsQUJoT25qTmZrUUx2U1djUC1OdVYzLTF1VWh3d1Y3c0xGdVpZUlhZNTliNnp3R1ZCRzktYkRBazEwLWxJLVhWNkVjODI4Ui1laGhF?oc=5
 
 
-_Last updated: 2026-05-13 02:43:22 UTC_
+_Last updated: 2026-05-13 08:42:14 UTC_
