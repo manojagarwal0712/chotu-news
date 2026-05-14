@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- El Niño development during May-June likely to last till 2026-end
+- NEET-UG paper leak: CBI arrests 2 more, raids 14 locations in 24 hours
   
-  🔗 https://indianexpress.com/article/india/el-nino-development-during-may-june-likely-to-last-till-2026-end-to-affect-average-monsoon-10688970/
+  🔗 https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-arrests-raids-10689761/
 
-- NEET paper leak: It’s ‘not a big deal’, says Rajasthan Education Minister Dilawar
+- Panic buying leads to long queues, rationing at Odisha petrol stations
   
-  🔗 https://indianexpress.com/article/india/neet-paper-leak-madan-dilawar-not-a-big-deal-rajasthan-minister-10688962/
+  🔗 https://indianexpress.com/article/india/panic-buying-leads-to-long-queues-rationing-at-odisha-petrol-stations-10689632/
 
-- Hostage standoff in Manipur as tensions spiral day after church leaders’ killing
+- India’s first semi-high speed rail corridor to cut Ahmedabad-Dholera travel time to 48 minutes
   
-  🔗 https://indianexpress.com/article/india/manipur-hostage-standoff-kuki-naga-church-leaders-killing-10688904/
+  🔗 https://indianexpress.com/article/india/indias-first-semi-high-speed-rail-corridor-to-cut-ahmedabad-dholera-travel-time-to-48-minutes-10689123/
 
-- News Today Live Updates, 14 May | Delhi CBSE Class XII pass rate hits its lowest since 2019: Why the drop may not signal poor performance
+- Rally with ‘hundreds of vehicles’ costs BJP leader his post in Madhya Pradesh
   
-  🔗 https://indianexpress.com/article/india/latest-news-today-live-updates-world-india-cities-news-delhi-mumbai-bengaluru-05-14-2026-news-headlines-10688440/
+  🔗 https://indianexpress.com/article/india/bjp-sacks-bhind-kisan-morcha-chief-sajjan-singh-yadav-fuel-conservation-rally-10689031/
 
-- NIA chargesheets 10 in Red Fort car bomb case; Al-Qaeda link revealed
+- Electoral roll revision: EC announces Phase 3 of SIR in 16 states, 3 UTs starting May 30
   
-  🔗 https://indianexpress.com/article/india/nia-chargesheets-10-in-red-fort-car-bomb-case-al-qaeda-link-revealed-10688802/
+  🔗 https://indianexpress.com/article/india/election-commission-sir-announced-update-16-states-union-territory-10689168/
 
-- Amazon replaces Rufus with a new AI shopping assistant powered by Alexa+
+- Dell unveils 14S, 16S and Alienware 15 laptops with focus on AI, performance and portability
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-replaces-rufus-with-a-new-ai-shopping-assistant-powered-by-alexa-10688825/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/dell-unveils-14s-16s-and-alienware-15-laptops-with-focus-on-ai-performance-and-portability-10689681/
 
-- X rolls out new History tab for likes, bookmarks, videos and articles
+- Sony Sony Xperia 1 VIII: From a redesigned look to flagship specs, here’s what’s new
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/x-rolls-out-new-history-tab-for-likes-bookmarks-videos-and-articles-10688686/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-sony-xperia-1-viii-from-a-redesigned-look-to-flagship-specs-heres-whats-new-10689643/
 
-- Instagram launches Snapchat-like ‘Instants’ feature for disappearing photo sharing
+- Neanderthals may have performed the world’s 1st dental procedure around 60,000 years ago: Study
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-launches-instants-feature-for-disappearing-photo-sharing-10688731/
+  🔗 https://indianexpress.com/article/technology/science/neanderthals-may-have-performed-the-worlds-first-dental-procedure-around-60000-years-ago-10689560/
 
-- Sam Altman held over $2 billion in stakes in OpenAI partner firms, court filings show
+- Anthropic launches new suite of Claude AI automation tools for small businesses
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sam-altman-held-over-2-billion-in-stakes-in-openai-partner-firms-court-filings-show-10688463/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-claude-ai-tools-small-businesses-10689428/
 
-- Meta launches Incognito Chat for private user conversations with Meta AI on WhatsApp
+- Uranus and Neptune may not be true ‘ice giants,’ new research suggests
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-launches-incognito-chat-ai-chatbot-10687546/
+  🔗 https://indianexpress.com/article/technology/science/uranus-neptune-not-ice-giants-rocky-composition-study-10688913/
 
-- Clocking out: IT giants pivot to fixed and outcome-based pricing, driven by growing use of AI tools
-  India's IT giants are moving towards fixed-price and outcome-based contracts. This shift signifies a departure from traditional time-and-
-  🔗 https://www.livemint.com/companies/it-giants-automation-tools-fixed-prices-outcome-based-contracts-infosys-cognizant-time-and-material-billing-ai-11778729641584.html
+- M&amp;M fully exits CIE Automotive, accelerates shift to core investments
+  Mahindra and Mahindra has sold its entire 3.58% stake in CIE Automotive for €126 million. The sale aligns with its
+  🔗 https://www.livemint.com/companies/mahindra-and-mahindra-sells-entire-stake-in-cie-automotive-for-126-million-as-international-exits-continue-11778757688103.html
 
-- NTSB urges airlines to train their pilots to deal with smoke in the cockpit
-  NTSB urges airlines to train their pilots
-  🔗 https://www.livemint.com/companies/ntsb-urges-airlines-to-train-their-pilots-to-deal-with-smoke-in-the-cockpit-11778704880805.html
+- IHG to bring Kimpton to India through Adani Airports partnership with Jaipur hotel
+  IHG Hotels, the company behind InterContinental, Six Senses and Crowne Plaza, has partnered with
+  🔗 https://www.livemint.com/companies/news/ihg-kimpton-india-adani-airports-jaipur-hotel-holiday-inn-holiday-inn-express-11778754357982.html
 
-- Silicon Valley Prosecutor Targets Foreign Corporate Spying
-  Silicon Valley’s top federal prosecutor said his top priorities include cases of trade-
-  🔗 https://www.livemint.com/companies/silicon-valley-prosecutor-targets-foreign-corporate-spying-11778700455000.html
+- Bharti Airtel’s next decade: Mittal outlines tighter control in India, bigger Africa bet
+  Bharti Telecom should regain majority control of Airtel over the next decade. Sunil Bhart
+  🔗 https://www.livemint.com/companies/news/airtel-africa-stake-succession-plan-sunil-bharti-mittal-bharti-telecom-control-11778752745944.html
 
-- Exxon, Chevron face dissent from proxy firms ahead of annual meetings
-  Exxon, Chevron face dissent from
-  🔗 https://www.livemint.com/companies/exxon-chevron-face-dissent-from-proxy-firms-ahead-of-annual-meetings-11778697787055.html
+- ASK Alternates launches  ₹2,500 crore private credit fund
+  The launch comes amid intensifying competition in India’s private credit market. Companies are increasingly turning to alternative lenders for faster and
+  🔗 https://www.livemint.com/companies/news/ask-alternates-private-credit-fund-alternative-lenders-india-blackstone-11778750907973.html
 
-- Zydus to acquire US cancer drug company Assertio for $166.4 million in all-cash deal
-  The deal is the latest in a string of overseas acquisitions by the Ahmedabad drugmaker as it looks to diversify
-  🔗 https://www.livemint.com/companies/news/zydus-lifesciences-news-zydus-assertio-acquisition-11778686942088.html
+- Kaynes Technology misses Street estimates, FY26 guidance
+  Kaynes's management blames two
+  🔗 https://www.livemint.com/companies/company-results/kaynes-technology-shares-plunge-after-missing-revenue-targets-11778749280002.html
 
-- Oil India, ONGC stocks get double bonanza: royalty boost, after higher realization
-  The Centre's strategic decision to incentivize local oil and gas output amid global volatility, combined with robust crude realizations, is set to
-  🔗 https://www.livemint.com/market/mark-to-market/oil-india-ongc-royalty-cuts-domestic-production-boost-investment-11778742911219.html
+- Tech Rally Rolls On as Cisco Highlights AI Fervor: Markets Wrap - Bloomberg.com
+  Tech Rally Rolls On as Cisco Highlights AI F
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2RIMmx4X0JFY2dsYlVpR1BwYWZLZmpQeGZfcHdrSTBEX2pXdmxxcExEUHJfaW9IOGhMeEw1aWxjMThFNVRqcmFHT3h4Sk1hRzBVVVozbk1KaG1fWEE2cmkxRlYyVEN5ZlBHczlVWF9PRjI1dlZvWS10eV9CWW11b0lEc1NSb2w5WjB4OUtRSjMwYVNXZjFRSTRXSjBzOGN5R1BRQnVaWGlnRHJFQnV0Qml1bzY?oc=5
 
-- Sebi proposes scrapping ‘close-to-the-money’ category in commodity options
-  Sebi said close-to-the-money mechanism makes option exercise
-  🔗 https://www.livemint.com/market/commodities/sebi-commodity-options-contracts-india-commodity-derivative-exchanges-clearing-corporations-11778745322582.html
+- Dow surges more than 300 points to retake 50,000 level as Cisco shares jump: Live updates - CNBC
+  Dow surges more than 300 points to retake 50,000 level as
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWXpTOXhVMVBOUC12VUhqTUduSTBPaUs5MExwVWt0ZWgxTHIzbGQ2SDJmOXVFci1qemdfbnJQVFlYX29UcjY1NExiTkJLV09FUnp3emNSdmtVZk1SbGc1RFRBZTFLSXZ2VTJpSWp6ZXF4UHRadTU40gF8QVVfeXFMT0diamtoaHFvSGdVY3ZGSG55SjZyVzAxeVA3RlhUb3JHLUtodnpZaEZ3X0xqMlJfOHk4LU9YUF9yQUVkNXdDUmVmQk1rQjhlN3plT0tGWkJQNzdMRkpwTzJrNkp5aXFCRmF3SkhqSjFHZktqZnljM19aZzB6dw?oc=5
 
-- Vishal Mega Mart Q4 Results 2026: Net profit soars 46% to  ₹167.9 crore, revenue jumps 22%
-  Vishal Mega Mart reported a net profit of  ₹167.9 crore for Q4 2026. Revenue rose over 22% to
-  🔗 https://www.livemint.com/market/stock-market-news/vishal-mega-mart-q4-results-2026-net-profit-soars-46-to-rs-167-9-crore-revenue-jumps-22-11778745268489.html
+- Stock Market Today: S&P 500, Nasdaq Set Fresh Records as Cisco Leads Latest Tech Charge; Oil Slips for 2nd Straight Day - Investopedia
+  Stock Market Today: S&amp;P 500, Nasdaq Set Fresh Records as Cisco Le
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEd2RVZRRXRqa2lsQldMZERQT3ZsTG9ZdWVUSlBTel9EWGpxdmp3S3lTYjZEU2cta3hRVG1BajZCMlV3NlBvVWUyYnlpYzNtU3VULVZUVXVGOVVvc3N2V01ydDZZUEtGTDBzdnpldDg1dlNiMVN0bUV4SFkxN0lVUExHVi1RV3ZGTkZ3clB1THI?oc=5
 
-- Nifty Smallcap 100 on cusp of bull market: Is the rise sustainable amid Middle East war-led risks?
-  Most small-cap stocks corrected by more than 60% to 65% in the 15 to 18 months since 2024. This, according to analysts, has rendered valuations
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-smallcap-100-on-cusp-of-bull-market-is-the-rise-sustainable-amid-middle-east-war-led-risks-11778743034671.html
+- US weekly jobless claims increase moderately, labor market remains stable - Reuters
+  US weekly jobless claims increase moderately,
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJWYTJvTjNoR1pFel9Zazc1ZkdTck55WVFnZXFUa3Z1ZGtUU1ZzOWt2WUl6UUhtNm50ajVNd1MyajFiWS1nZHp4RjIwZmthWE8tSG5WdDdqTjdBOEg0R29Hd0h3ejUtSlZINFNWZ0xocXBjMTNoQWFLWUFUaUoxVnVBRzZMd0FIcnplV0xtUTJTVklZSWlWVVU5NEh1dEtHZUVzOUdTcU5Ka1JWeHVPX2xINWRENTA1?oc=5
 
-- RFBL Flexi Pack IPO Day 3: Issue subscribed 2.05 times so far; check GMP and other key details
-  Shares of RFBL Flexi Pack IPO are currently trading at the issue price in the grey market. The IPO is scheduled to make its market debut next
-  🔗 https://www.livemint.com/market/ipo/rfbl-flexi-pack-ipo-day-3-issue-subscribed-2-05-times-so-far-check-gmp-and-other-key-details-11778740514030.html
+- Jewellery sector in Tiruchi loses lustre in an volatile market hit by West Asia war - The Hindu
+  Jewellery sector in Tiruchi loses lustre in volatile market hit by
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYzRfRmp5TXd6WWlNdXRPaDFQOFhucGV1TWNWd3oyNDVoNENfZFh6eEUtWVN6VU1VYVgzSjdtMHFiWTV6a25VbzFGZGZHdFh4cFM3WTJJMm4wZnhJNjZhNmhvQS1JUmZISnhPR1lxMXpxemp0dmZubXlOcXJVeGN6RnZPMWI4TFE1d2ZDWXVkbFNmWTF6Zi1BN0lhNFljRXl1VVM0cEpNa2NBMWdmMHhBS3hNMU5OcndvaC1Eb3NHOTBlOXBLOFV0UkF2Q3JFMXpvaFYzQzNuR2NPUTVudXdaSnRrX1dVTGlaSzBR0gHyAUFVX3lxTFBxdEpmQTBjU3lxSGpoOTlXQzJzNUFWdzNIRWZJU2UyaGdMRlJVMGZoMnF5NElvTWdZMktMYWs4QzdmeXVtSkxRd0tHWFkxX0F2UkNWYnEwUm5YM3NXam1tRUttcVZBcUY2c2NVa2FuaVFNSWwzSk9BNFBRYVJrZEMzcWZCZHRvWEZKN1Ezd2dDczJkTUFfRFhwU2FCR25ia1ZGbGd5RXZlOExabW9LcF9ETWxjQnloMkk5dkQ3OHhLdGVDVXh5Wngybm9ZUlpNeDJfMkNiSU0yVktvTEx6UG0tLXc4SThHMGRnd2xNQ3RtUmF3?oc=5
+
+- Want a smartwatch for swimming and workouts? Top water resistant options to consider
+  Samsung, Noise and Amazfit smartwatches offer water resistance, fitness tracking,
+  🔗 https://www.livemint.com/technology/gadgets/want-a-smartwatch-for-swimming-and-workouts-top-water-resistant-options-to-consider-11778745211481.html
+
+- Big tech’s fat profits conceal unsettling cashflows
+  Amazon, Meta and Microsoft expected to announce negative cashflows in at least one quarter.
+  🔗 https://www.livemint.com/technology/big-tech-s-fat-profits-conceal-unsettling-cashflows-11778752946211.html
 
 - SOS walking sticks, smart rings and more: Gadgets making life easier for senior citizens
   Smart wearables, connected home devices, and accessibility-focused gadgets are making
@@ -92,53 +100,65 @@
   Skyroot Aerospace founders Pawan Chandana and Naga Bharath Daka can get up to 4% equity if the spacetech startup launches
   🔗 https://www.livemint.com/technology/tech-news/skyroot-aerospace-does-a-spacex-offers-elon-musk-style-esops-to-its-founders-11778646935329.html
 
-- Google confirms which OnePlus, Oppo, Xiaomi and Vivo phones are getting AirDrop support via Quick Share
-  Google is expanding Quick Share support for iPhones to more devices, including OnePlus
-  🔗 https://www.livemint.com/technology/tech-news/google-confirms-which-oneplus-oppo-xiaomi-and-vivo-phones-are-getting-airdrop-support-via-quick-share-11778661743596.html
+- Tech Rally Rolls On as Cisco Highlights AI Fervor: Markets Wrap - Bloomberg.com
+  Tech Rally Rolls On as Cisco Highlights AI F
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2RIMmx4X0JFY2dsYlVpR1BwYWZLZmpQeGZfcHdrSTBEX2pXdmxxcExEUHJfaW9IOGhMeEw1aWxjMThFNVRqcmFHT3h4Sk1hRzBVVVozbk1KaG1fWEE2cmkxRlYyVEN5ZlBHczlVWF9PRjI1dlZvWS10eV9CWW11b0lEc1NSb2w5WjB4OUtRSjMwYVNXZjFRSTRXSjBzOGN5R1BRQnVaWGlnRHJFQnV0Qml1bzY?oc=5
 
-- Bought a premium Android phone? Here are 5 reasons your next upgrade should be a Samsung Galaxy Watch
-  Samsung Galaxy Watches offer smart notifications, advanced health tracking, premium design, and seamless Samsung ecosystem
-  🔗 https://www.livemint.com/technology/gadgets/bought-a-premium-android-phone-here-are-5-reasons-your-next-upgrade-should-be-a-samsung-galaxy-watch-11778655275017.html
+- Dow surges more than 300 points to retake 50,000 level as Cisco shares jump: Live updates - CNBC
+  Dow surges more than 300 points to retake 50,000 level as
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWXpTOXhVMVBOUC12VUhqTUduSTBPaUs5MExwVWt0ZWgxTHIzbGQ2SDJmOXVFci1qemdfbnJQVFlYX29UcjY1NExiTkJLV09FUnp3emNSdmtVZk1SbGc1RFRBZTFLSXZ2VTJpSWp6ZXF4UHRadTU40gF8QVVfeXFMT0diamtoaHFvSGdVY3ZGSG55SjZyVzAxeVA3RlhUb3JHLUtodnpZaEZ3X0xqMlJfOHk4LU9YUF9yQUVkNXdDUmVmQk1rQjhlN3plT0tGWkJQNzdMRkpwTzJrNkp5aXFCRmF3SkhqSjFHZktqZnljM19aZzB6dw?oc=5
 
-- Copper up 9% since Iran war, near January peak. Will AI boom, shortage propel red metal to new highs?
-  Copper prices are surging, driven by a confluence of factors including geopolitical tensions, structural supply shortages, and booming AI-driven demand. The metal is increasingly viewed as a strategic commodity for the AI era.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/copper-up-9-since-iran-war-near-january-peak-will-ai-boom-shortage-propel-red-metal-to-new-highs/articleshow/131087023.cms
+- Stock Market Today: S&P 500, Nasdaq Set Fresh Records as Cisco Leads Latest Tech Charge; Oil Slips for 2nd Straight Day - Investopedia
+  Stock Market Today: S&amp;P 500, Nasdaq Set Fresh Records as Cisco Le
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEd2RVZRRXRqa2lsQldMZERQT3ZsTG9ZdWVUSlBTel9EWGpxdmp3S3lTYjZEU2cta3hRVG1BajZCMlV3NlBvVWUyYnlpYzNtU3VULVZUVXVGOVVvc3N2V01ydDZZUEtGTDBzdnpldDg1dlNiMVN0bUV4SFkxN0lVUExHVi1RV3ZGTkZ3clB1THI?oc=5
 
-- Rohit Singhania bets on financials, telecom and healthcare for alpha generation
-  Geopolitical tensions and rising crude prices are impacting earnings outlook. Higher commodity prices are starting to build pressure. Valuations are not yet attractive for aggressive buying. Largecaps are preferred amid uncertainty.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/rohit-singhania-bets-on-financials-telecom-and-healthcare-for-alpha-generation/articleshow/131086774.cms
+- US weekly jobless claims increase moderately, labor market remains stable - Reuters
+  US weekly jobless claims increase moderately,
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJWYTJvTjNoR1pFel9Zazc1ZkdTck55WVFnZXFUa3Z1ZGtUU1ZzOWt2WUl6UUhtNm50ajVNd1MyajFiWS1nZHp4RjIwZmthWE8tSG5WdDdqTjdBOEg0R29Hd0h3ejUtSlZINFNWZ0xocXBjMTNoQWFLWUFUaUoxVnVBRzZMd0FIcnplV0xtUTJTVklZSWlWVVU5NEh1dEtHZUVzOUdTcU5Ka1JWeHVPX2xINWRENTA1?oc=5
 
-- Earnings are strong, but margin pain is coming; Dharmesh Kant on 3 sectors worth owning now
-  Investors should remain patient and selective. Sectors like defence, affordable housing finance, and healthcare offer relative stability. Real estate faces headwinds, except for the affordable segment.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/earnings-are-strong-but-margin-pain-is-coming-dharmesh-kant-on-3-sectors-worth-owning-now/articleshow/131086641.cms
+- Jewellery sector in Tiruchi loses lustre in an volatile market hit by West Asia war - The Hindu
+  Jewellery sector in Tiruchi loses lustre in volatile market hit by
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYzRfRmp5TXd6WWlNdXRPaDFQOFhucGV1TWNWd3oyNDVoNENfZFh6eEUtWVN6VU1VYVgzSjdtMHFiWTV6a25VbzFGZGZHdFh4cFM3WTJJMm4wZnhJNjZhNmhvQS1JUmZISnhPR1lxMXpxemp0dmZubXlOcXJVeGN6RnZPMWI4TFE1d2ZDWXVkbFNmWTF6Zi1BN0lhNFljRXl1VVM0cEpNa2NBMWdmMHhBS3hNMU5OcndvaC1Eb3NHOTBlOXBLOFV0UkF2Q3JFMXpvaFYzQzNuR2NPUTVudXdaSnRrX1dVTGlaSzBR0gHyAUFVX3lxTFBxdEpmQTBjU3lxSGpoOTlXQzJzNUFWdzNIRWZJU2UyaGdMRlJVMGZoMnF5NElvTWdZMktMYWs4QzdmeXVtSkxRd0tHWFkxX0F2UkNWYnEwUm5YM3NXam1tRUttcVZBcUY2c2NVa2FuaVFNSWwzSk9BNFBRYVJrZEMzcWZCZHRvWEZKN1Ezd2dDczJkTUFfRFhwU2FCR25ia1ZGbGd5RXZlOExabW9LcF9ETWxjQnloMkk5dkQ3OHhLdGVDVXh5Wngybm9ZUlpNeDJfMkNiSU0yVktvTEx6UG0tLXc4SThHMGRnd2xNQ3RtUmF3?oc=5
 
-- Zydus Lifesciences shares jump 6% on buyback buzz; co announces $166 mn Assertio acquisition
-  Zydus Lifesciences shares witnessed a spike on Thursday after the company said its board will meet on May 19 to consider a share buyback. The stock also gained momentum as Zydus announced a $166 million acquisition
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-shares-jump-6-on-buyback-buzz-co-announces-166-mn-assertio-acquisition/articleshow/131085747.cms
+- US stocks today: US stocks open higher as Nvidia gains; US-China talks, data in focus
+  Nvidia's shares ‌jumped, while investors assessed economic data and watched developments around the high
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-higher-as-nvidia-gains-us-china-talks-data-in-focus/articleshow/131095044.cms
 
-- ET Alpha Wealth Summit: Market titans decode AI, wealth creation &amp; India’s next investment cycle
-  The Economic Times' Alpha Wealth Summit in Mumbai will gather experts to discuss future wealth creation. Sessions will cover finding alpha, building a Rs 100 crore portfolio in a lower-return environment, and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-market-titans-decode-ai-wealth-creation-indias-next-investment-cycle/articleshow/131086293.cms
+- Quote of the day by Lou Simpson: "Attempting to guess short-term swings in individual stocks, the stock market or the economy is not likely to produce consistently good results. Short-term developments are too unpredictable."
+  Legendary investor Lou Simpson emphasised that predicting short-term market swings is unlikely to yield consistent results. Successful investing involves managing uncertainty through discipline and a long-term perspective.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-lou-simpson-attempting-to-guess-short-term-swings-in-individual-stocks-the-stock-market-or-the-economy-is-not-likely-to-produce-consistently-good-results-short-term-developments-are-too-unpredictable-/articleshow/131093113.cms
+
+- ​Gainers &amp; Losers: NLC India, MCX and Kaynes Technology among 6 big movers on Thursday ​
+  Domestic equities rallied for a second day on Thursday. Banks, metals and pharma powering gains even as IT lagged.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-nlc-india-mcx-and-kaynes-technology-among-6-big-movers-on-thursday-/slideshow/131093108.cms
+
+- US Stock Market Today | Dow Jones | Nasdaq Live: US stocks open higher as Nvidia gains; US-China talks, data in focus
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-trump-xi-china-iran-war-brent-crude-oil-energy-inflation-fed-rate-nvidia-cisco-chip-stock-price-news/liveblog/131093087.cms
+
+- Could a tax break on bond investments be the move that strengthens the Rupee? Ashvin Parekh answers
+  The move aims to offset currency risk concerns that have deterred foreign investors. The policy's success hinges on the extent of tax relief and investment limits.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/could-a-tax-break-on-bond-investments-be-the-move-that-strengthens-the-rupee-ashvin-parekh-answers/articleshow/131092693.cms
 
 - Iran war: Why the BRICS foreign ministers meeting in India matters - Al Jazeera
   Iranian President Mahmoud Ahmadinejad meets with
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXpJSFVlNXJkVEt0WExoZ2JZRTJGVERoUC1iVG1KWjFNcC1sVzkwQXBQcmtscjBMdW9MMlI2UnlVOWxHd0R1NUpTcUgtQUZ3cmZ1dTJFNUhuX0FTdzZTSnk5SGpMRElUa0ZidGxOT1VsbnNlUDd0QWNmN1VoNU0tbTNnWGpPbnFQcnVPSm5xRTU4dkN0aDJ4NjRqYnhDN1owdTRyYmJJb3J1QdIBrwFBVV95cUxNYWI3UDZCanhOSWdva09tbUJIM1lGZXhIZ0dTOEJWZ0Jkc3hjSHdYWnlvUlFyWC1SNlRJUmc1UV9jdlpLZ2RCeUI0ZXMwWHplQ1BvVUxNR0ZqRzZBWmJ5cVR2Q3BnckZVLVQ3NGp4d08wc2sxMi1XSmJLZDBQTFAyTTZXdkE1WHB3VTNja0htNmcyeWt6dWt0MVB1Nkt3d2REMjBKWnlVQkhZWHF3OWJ3?oc=5
 
-- Iran welcomes Indian initiative to end war, says Iranian minister | India News - Hindustan Times
-  Iran welcomes Indian initiative to end war, says Iranian minister.
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXc4dlJ6TUVFMm1kNHVNRFh5Z3ZDNnFQcldDZllIcFNSbnpweHlUTnk2dmRReTkyX0c5UUdhMDBMdnVxVGxjc3V5REFBSC12Q01NNVVaLXQ3aWdZT3M4dXdFWXhUbFhibjZFdDJvS1k0dUotZmdrNDV4U2Y0bWQyZTRUWkdFZ3Q2VjcySm9ZUDU2Zy1IQ3BLLW1QYkp4WlFxMjdtYjB5cHp4eTN4VnhsczlHT3JlNkZWUXB1U2R2RUNKME51Zm1qa0ZxMHZVQ3A3YWJVNTRaeU1RNHpMRlQ3UXlHeDl5TmtDR1pZ0gHwAUFVX3lxTE1qZTd0b2VwXzVKVjU1U2VwRXZlSGJNblpQMktXN3lDZmFaMkk2Z3JySDJac2c4Uk9VZXdTT3JNYXVuV1lRYVJhYkRvdGJtSjZ1WmtOYzY3QXJ5YzJfdHhNRVNjYWpIRkZiRmVPNDB0djJtZ0ZiQXVJYVFQbHZTeS1Nb1QxYTdxdjlMWnY3NlBqSlNvYmo5SC1pblhrV2MzWExTR2V6OTdzck5QaTdCS3VzNWNtTUthcWVsWlhnbnlseUlUVVBnN1lkUG1lVWpRdm9MckFYQTZKMEw5UVBSSTB4SWlXZkk2dWozd2M2N1B0aQ?oc=5
+- In Araghchi's India Visit, A #Minab168 Reminder For World - NDTV
+  In Araghchi's India Visit
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0dqWU5rWElrelpJbnNwRUdxYWZ5d0E1T3l2VE5FeS02VGhrX1Nza1hPTDlPUmRGaTYzMEZOakFPaEdPVWxpUEVBd3ZQRll0akc0czAxSGlkWk5LNkhDYkdCVmFsRUs1VndOTVg5aVJwZHBWOEp0dlFTM25jYTZlb0pvbi1tQ2pkWFVreWlERmpNMnZFTFZrMldwVk5VM0ZtRHFQTmE0SHphSmg0Ukk40gG3AUFVX3lxTE5JOTlod0VPZDhadzVuSk5GcGZ0VEFOOFllbUxxMkpaYmtWaTJuLTJxOHlORmVuc2NBdEZxb0RMZDV0aVNqRmU1SVdua29RNXhSVWV5SnZ5Q3MxR0xpVWoteVVmMWt6YmdoYlcyM1NzZU50cFdDcDNuVTkwZno2b1JtUU9CSzkwc1pYaGRmSTRoWklYenA1TXVobUpxb0dyVU5FZmlkMUhFZDJJSTc4WS1FRXVWVzluTQ?oc=5
 
-- Explained: What Is Coal Gasification And Can It Cut India's Fuel Imports? - NDTV
-  Coal Gasification can be used to reduce India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNay1wT0VNdVBCSHdkZ3pRR2RZZHdJODZKZ2dLbkNoeHJNclhYYWRlYTVXTlAtOVdJa1gxWEFsc1Exam9venpVNERLSWYydzJOY2dVRVNSa1poM3dqYVN0WTlqb2JMLXpOY0IyX2ZMVjZmenhKeDdQcU15WHhYb25pZl8wclpGMXdCb2JvYnZYLUpEQ3VJOThvUzU1Z2NnSjIyU09rYXRac1Z1Q0x0VmQ2N2FRYUNqQThJTFVzTGtFeVM3SmN5b09MTENJRHpRM3JqcHk0S29VMm9EVVQ2dkHSAeYBQVVfeXFMTWtMRDNPRkxkREZJQ0VzeGJ5c3BEOHlWaFd4UU1HbDE5bURNdFV0aFQtSXBwSzBOMHNyZm9uRXZEQXpOTWpLM0ZGS0JYOEJfa21HVE5uQzUteU93OWhvU3JORkZlMm9VczJ1ZTNFOV9fMUdkNVRRLWxEQ2N2WUZEZWVYYWZNNjZwTW5ldVNtNklILVNKbjFVbFQtMlM0N0FEM0tGZ3RFV0ZmMGFDamMycGhRNk9CbTAzVkJfQWZlcDN2YXVkNDNRNW02SGNhMmwyVXoxQ2kxeDlvVVVrZEJaamNDa3N0SVE?oc=5
+- Dig at US? Jaishankar flags 'unilateral coercive steps, sanctions' at Brics amid Middle East crisis - The Times of India
+  The Times of India reported that Jaishankar's comments were aimed at
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMWZDUDcxemdraHJoV3ZMODVqZWpJSnF5ZlItODFuNWFJeHdvUFdydEo5OUFTQUlVU1Y1TkZZRWdZTDcyUXppMW1mRHdnb0RzeGZzMXBfRTlEVEpyc1c3NVMzMUQ5RVBBaWx5SjZkRGtyRlkxZkhwRmV5c2hJaWFFbjF1b0d4MFRVZEpnQm1MSmFQd083R3Q0YktHWXF1d3FxcEpfMG1jd0pvMjFLRlJHQmtDS01RRVVMSk16UEhZdUM1Y1VyWWJrcWVHUVF3MGd5c3N2OWpvaG9UX1l0d1FZaXpzMmNFd2pXMV9PcThKc2dQdzBpUUHSAfsBQVVfeXFMUGlkZG9YR2VmQ2xGSHhhcVdCQTV3WTZKelpuTWpnYXQ4bU5ON3BJcW9FUEx0ejJVQ0tJcFllVlNtZEtZbzdNY1NidDFUaEo2RklnNWppTm5fZnhiMlZjN2ZJVHBXb2RYbm5ySktCZ3ZnZzhYOWVISFFLbmF2Rk5BazBsUnRXV1lhSlpIbFg1MVZpME5rX0NwRzFzYWg1YWNSdndlRWF3RVFsalRqa1hWWmpsa2hzQlh1M1cyWTl3TWRMLTZmWWNoc05vWUVJTV9YMFdnSVdYVE5jZVVvbWRLS0s0Q1o4RW40NGFNRExveDJyRWlnLWxzXzlxNXM?oc=5
 
-- Rat poison watermelon deaths in Mumbai puzzle Indian investigators - BBC
-  Rat poison watermelon deaths in Mumbai
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YOWlOcmtqdjY0VEgzcy1RUGs4WFFLRUoxYkF6SzJwQmNrNVZTVjZkdjA2b1RPR2htZEphOFlVZmpzX0xKRG5ZRGZack9vc3h0VHZnM3lEbDRldw?oc=5
+- News Today Live Updates, 14 May | DU directs St Stephen’s College to stop appointment of its new principal - The Indian Express
+  DU directs St Stephen’s College to stop appointment of its new principal.
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0dZY21PcEhlRnpUZmpFbGwyLVRzeURDSXZXYkVUMXltZTVxaUw1emhPSURDa2xYM1ROZTNXenNiVzR3RWwtTXk5MzBrY09saDVGREh3QnA1Y0lNZlVIRnBwRURvVXlJZExfcVg4SG9JXzRaZ2VETmRSUDJtUHctakNZTXNSRFVERjlyM2RwanR6NmVIWG8ydXpBZm54QU5VdEZvOHJSalpvSW1pdmJyT1d1RGl1YXVWdkFIT2JBUGU3MkJFRmVXREdxeVNmOXFXWWh0VExQVFU4Q2NQeDFNbWVmREo2Mm1L0gHvAUFVX3lxTFBnRlRZQWNtcGhtRGgxaWd0cXlzb1JER2oyVEhod3lWVzNUdGdBcktZdElLdWZNdGV2dlkwdG5UcFlJQXg5SWJvNVB3RHByVmxsa1FnMmdxS1NMeU43dWFCMm1Ic1B4eWhJRkxDZDhZdnhMR1k5NHNFMzhjNnpkVkFUeHMzVXRFVFBZazB0MkFRbU5idE1tSlJtSWUzVmpibFIwbE1FYzluTFhDbGRMdjZrTTZvQ1BLV05WM2hCSm9XTHRJNWhfZFUtUGRROWZrQnp4SjVCaWRCUGs2Q3pVakVqQ2NCUU5mR0I2ZmRPNVQw?oc=5
 
-- VD Satheesan named next Kerala chief minister as Congress ends suspense - The Times of India
-  V Satheesan named next Kerala chief minister as Congress ends
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM1VfV2ZBTm0wdDVJU0ZwS21wUkhtbFp0X0tFVHhfVGpCS2R6SEdCWUhNUjJSWUt4ZFpfOGtHYjVyTF9fWjhZUEE0LVZEazlST19tOE1ZeWFJclpsRDZDZDAzeUoyd2Y5NFRVUngzMVlBaTROYVB0dy1wdkJsNl9YNTFQQWlMZVU5LXhKREtPZE5hdmozUC1nRW9yU3RTUXhUUEY3bm90RG9rX3BaWU1zbnB3c2xxMFV1dldxX25tV0hHTkRNNDdPbHpLNWN2eXo0RGE0WlJB0gHbAUFVX3lxTE1BUzRhM1FQWEo1cUcyY085aE1iQWJHWnRwNUpwX1lPYjhfS0c1eXZOaDFrblhIbXFLMTRDSW1LX2FUUzhYRXcyRmpfZ2l1ZFItc3FTYmNOVTRNeWJKcTEyVDdWaFZnODVEYkE0U3B5TE1nU1JDWTI2Mlh2R1Z5ZE1aRHNTWnlEMkdsdnNsQWFVLVExOXZrTWtkWk9mb2YzV01NWDJRZjV0NEhaUUxNclRnSURISFMzakFhb19XcUVzbUoybjhPMFFEZTR4MXh1MWhjUThGeTdLRFJGcw?oc=5
+- News On AIR | May 14, 2026 7:00 PM - News On AIR
+  News On AIR will air on May 14,
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkdLS0tJUzBnb3hUOFVEcDlfOTJ4dHY0cUVSSzhBWmtjX1ZxM044NmhySlpYRWxGMGt1TklqbTJkb1BDQTk2cXVaZ3FzcXBCdWhtc2haWFh6bEptS1k2YjhQUWhvbXhiT2ZSQnRsTWpOUG94a1NZaXJoLTFCd08zMW1RSGI5VVBN?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-14 08:35:03 UTC_
+_Last updated: 2026-05-14 13:59:32 UTC_
