@@ -1,44 +1,32 @@
 # 📰 Daily News Summaries
 
-- Centre to begin onion procurement today; 2 lakh tonne target set
-  
-  🔗 https://indianexpress.com/article/india/centre-onion-procurement-buffer-stock-2026-10689940/
+- MEA News: Indian-Flagged Ship Attacked Off Oman Coast - Deccan Herald
+  MEA News: Indian-Fl
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JPRS0xQ2NRdVMyNHpBeV9OaldZSGNsd2dBdFpGb1hNWURreXhmc0VvTWV2ZmZTMWRSQW44aFBTRWVwd1FsS0FwblBLSGtuQ0tGY0tpZXdpaWdiZHYtNW50WkNIVXlGbmpoNmFZNkxYRmNicVNqMGZyVzNjTWxrSVZEc01pVDBHVGVZYUQtQ1VQSllvbGp1cEFmNjRzR0lkM1VDakgzMnZmZHFfMVMxdGJNSVVtZlg2?oc=5
 
-- After 17-year-old boy’s suicide in Rajasthan, family accuses girl of ‘pressuring him to convert’
-  
-  🔗 https://indianexpress.com/article/india/rajasthan-tonk-teenager-suicide-religious-conversion-allegations-bns-section-306-10689870/
+- Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
+  Attack On Indian Ship Shows No Route Is Safe In Hormuz
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
 
-- Odisha’s rail network to support nearly 500 additional trains after major expansion works: Ashwini Vaishnaw
-  
-  🔗 https://indianexpress.com/article/india/odishas-rail-network-to-support-nearly-500-additional-trains-after-major-expansion-works-ashwini-vaishnaw-10689771/
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
 
-- Iran’s Araghchi listening, Jaishankar calls for safe Hormuz transit
-  
-  🔗 https://indianexpress.com/article/india/jaishankar-brics-meeting-new-delhi-iran-uae-strait-of-hormuz-maritime-security-10689859/
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
 
-- Ara–Buxar MLC bypoll: Lal Babu Rai’s son Sonu bags the seat for RJD, defeats JD(U)’s Seth
-  
-  🔗 https://indianexpress.com/article/india/ara-buxar-mlc-bypoll-result-rjd-sonu-rai-wins-10689827/
+- EU includes India in revised draft list for continued export of aquaculture products to EU market - News On AIR
+  EU includes India in revised draft list for continued export of aquaculture products to
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZjMXRXelFVUUtJYWtaMGo0Q2tmakd1Z3g3ZlhHTjhVdHpwSkdjZDFITFZDdWM2UHU1WjhwQjNEdTNLUXVfTlpYWEtUUG5YZ2plVjZqR1J5RlY3dDZNOHBWLVRnUmlGRmZZZnAtT2xRYTlzeU01ZEM1WnJ4WURNWF9Ta2tKRlNoNjU1MlVrWXpHc2dzR2NtU1I5RzB4WkRvalhnLXlHakR3dHdKOWd2eGJBbDA2X1R6VEVSWVl6RG1WdWNmSVE?oc=5
 
-- Will AI kill apps? Here’s what Apple developers said ahead of WWDC 2026
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-apps-what-apple-developers-said-wwdc-2026-10689832/
+- Air India’s FY26 loss could eat into Tata Sons' dividend income from TCS
+  Air India's losses were large enough to significantly erode the dividend income parent Tata Sons earned from its cash cow Tata
+  🔗 https://www.livemint.com/companies/air-india-fy26-loss-tata-sons-tcs-dividend-income-singapore-airlines-11778765961517.html
 
-- Scientists build 3D computing device using living brain cells
-  
-  🔗 https://indianexpress.com/article/technology/science/scientists-build-3d-computing-device-using-living-brain-cells-10689807/
-
-- Dell unveils 14S, 16S and Alienware 15 laptops with focus on AI, performance and portability
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/dell-unveils-14s-16s-and-alienware-15-laptops-with-focus-on-ai-performance-and-portability-10689681/
-
-- Sony Sony Xperia 1 VIII: From a redesigned look to flagship specs, here’s what’s new
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-sony-xperia-1-viii-from-a-redesigned-look-to-flagship-specs-heres-whats-new-10689643/
-
-- Neanderthals may have performed the world’s 1st dental procedure around 60,000 years ago: Study
-  
-  🔗 https://indianexpress.com/article/technology/science/neanderthals-may-have-performed-the-worlds-first-dental-procedure-around-60000-years-ago-10689560/
+- From Cisco to Block, more companies are pointing to AI when unveiling job cuts
+  More companies are pointing to AI when unveiling job
+  🔗 https://www.livemint.com/companies/from-cisco-to-block-more-companies-are-pointing-to-ai-when-unveiling-job-cuts-11778789826400.html
 
 - Milei Approves Incentives For Lithium Mine Expansion With China Ties
   Argentine President Javier Milei’s government approved a series of incentives on Thursday for the expansion of a lithium mine half-owned by a Chinese firm.
@@ -52,33 +40,25 @@
   JSW Steel plans to nearly double its steelmaking capacity to about 80 mtpa by 2031. The expansion roadmap came as the company reported strong results for FY26 and the March quarter.
   🔗 https://www.livemint.com/companies/jsw-steel-investment-roadmap-future-capacity-raw-materials-analyst-outlook-11778768824806.html
 
-- Air India clocks record annual loss of over $2 billion in threat to turnaround plans
-  The disclosure on Air India loss was made in Singapore Airlines' annual report. The management saw indicators of impairment for the Air India
-  🔗 https://www.livemint.com/companies/news/air-india-clocks-record-annual-loss-of-over-2-billion-in-threat-to-turnaround-plans-11778776111991.html
+- Soy, Corn Rise as US Says China to Buy More American Crops
+  Soybean and corn futures gained as US Trade Representative Jamieson Greer said China will make large purchases of American agricultural products. President Donald Trump also emphasized that the nation
+  🔗 https://www.livemint.com/market/soy-corn-rise-as-us-says-china-to-buy-more-american-crops-11778812701474.html
 
-- Smartphone demand dip is driving OneAssist diversification
-  OneAssist is seeing a protection
-  🔗 https://www.livemint.com/companies/start-ups/oneassist-diversification-smartphone-slowdown-used-cars-refurbished-phones-home-appliances-insurance-growth-11778761328832.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 15 May
+  The Indian stock market rebounded on May 14, with the Sensex up 790 points. Analysts recommend buying stocks like Nippon Life India Asset Management and
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-15-may-11778809030351.html
 
-- Oil ends flat as tanker crossings through Strait of Hormuz temper supply fears
-  Oil ends flat as tanker crossings through Strait
-  🔗 https://www.livemint.com/market/oil-ends-flat-as-tanker-crossings-through-strait-of-hormuz-temper-supply-fears-11778787239375.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 15 May
+  Gift Nifty was trading around 23,679 level, a discount of nearly 21 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-15-may-11778809997200.html
 
-- Dollar strengthens after data with Trump-Xi summit under way
-  Dollar strengthens after data with Trump
-  🔗 https://www.livemint.com/market/dollar-strengthens-after-data-with-trump-xi-summit-under-way-11778785375222.html
+- Buy or sell: Vaishali Parekh recommends three stocks to buy today — 15 May 2026
+   Vaishali Parekh recommends three stocks to buy today. Ster
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-stocks-to-buy-today-15-may-2026-11778807743793.html
 
-- Bitcoin Stalls as Crypto Gains Ground in Washington, Wall Street
-   Bitcoin is stalling around $80,000 despite a steady drumbeat of developments.
-  🔗 https://www.livemint.com/market/bitcoin-stalls-as-crypto-gains-ground-in-washington-wall-street-11778783889236.html
-
-- Nvidia hits new peak, market cap crosses $5.6 trillion after report on US nod for H200 chip sales to China
-  The US approved 10 Chinese firms to buy the H200 AI chip. Despite this, sales have not occurred due to Chinese government restrictions and licensing requirements. Nvidia's market cap exceeds $5.6 trillion ahead
-  🔗 https://www.livemint.com/market/stock-market-news/nvidia-hits-new-peak-market-cap-crosses-5-6-trillion-after-report-on-us-nod-for-h200-chip-sales-to-china-11778776143715.html
-
-- Gold, silver rates today: Comex gold drops $35/oz; silver tumbles $5/oz amid stronger dollar, rate fears
-  Gold dropped $35 to $4,671, while silver fell $5 to $84.36. Retail sales rose, indicating consumer resilience despite rising inflation.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-35-oz-silver-tumbles-5-oz-amid-stronger-dollar-rate-fears-11778772509499.html
+- From Gift Nifty, Trump-Xi meet, gold prices to Nasdaq rally: 10 things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,690 level, a discount of nearly 10 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-trump-xi-meet-gold-prices-to-nasdaq-rally-10-things-that-changed-for-indian-stock-market-overnight-11778809367265.html
 
 - Big Tech turns to Sesame Street, Girl Scouts to deflect scrutiny over kids screen time
   CNN.com will feature iReporter photos in
@@ -100,65 +80,85 @@
   Smart wearables, connected home devices, and accessibility-focused gadgets are making
   🔗 https://www.livemint.com/technology/sos-walking-sticks-smart-rings-and-more-gadgets-making-life-easier-for-senior-citizens-11778733115569.html
 
-- Dow surges more than 300 points to retake 50,000 level as Cisco shares jump: Live updates - CNBC
-  Dow surges more than 300 points to retake 50,000 level as
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWXpTOXhVMVBOUC12VUhqTUduSTBPaUs5MExwVWt0ZWgxTHIzbGQ2SDJmOXVFci1qemdfbnJQVFlYX29UcjY1NExiTkJLV09FUnp3emNSdmtVZk1SbGc1RFRBZTFLSXZ2VTJpSWp6ZXF4UHRadTU40gF8QVVfeXFMT0diamtoaHFvSGdVY3ZGSG55SjZyVzAxeVA3RlhUb3JHLUtodnpZaEZ3X0xqMlJfOHk4LU9YUF9yQUVkNXdDUmVmQk1rQjhlN3plT0tGWkJQNzdMRkpwTzJrNkp5aXFCRmF3SkhqSjFHZktqZnljM19aZzB6dw?oc=5
+- Oil Price Today (May 15): Crude oil above $105 as Iran war resolution stagnates. Where is liquid gold headed?
+  Oil prices climbed Friday amid fears of ship attacks and seizures. Traders are also watching US-China trade talks closely. Geopolitical tensions remain high, with disruptions significantly tightening global oil supplies.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-15-crude-oil-above-105-as-iran-war-resolution-stagnates-where-is-liquid-gold-headed/articleshow/131106338.cms
 
-- US Stock Market Today | Dow Jones | Nasdaq Live: Fed’s Miran to step down as governor on Warsh swearing in - The Economic Times
-  The Economic Times reports that Warsh will be sworn in as the next Fed chairman.
-  🔗 https://news.google.com/rss/articles/CBMitwJBVV95cUxOajJtWlZmWTFtakxKTE9uVThiZU5rb25rU3dYTVAyYmhKaGc5UFFTOFZLcUI3c2N6OXk1YjRVdmIwNUEwdXlMcHNGSFZ3Nm5OdF91M2JqRUlmOEVER0U1Y09xQm5PNWRCV3FSNnVqYmpJYVN6SnhPQ1FGTWZrQk12TkxlN1A4bXFrMHBMbjF0TGdLZGVDbGFnZlliNnkwQzZkd0kwdFE4TGVSMHNfTUVpNWpFLTVsLTYxUzlaMXA2c2w5ZE5BcFhnUlRGekZlaHNsMUZYVkFxcklMSDIta2hGUEk0UDZyVTBySHlQRnYwTHJVUnR1am0wQ2ZBNWx2ZkFreHBWU3NUMi1ZdXUybklZQkxOVi1VdTF4WnB5UkVfRndoUUFiNlFGazlEdGV1aUt0aVNQejNGUdIBvAJBVV95cUxPRDE3a00zR3VoRHBpVTdzX1VNbmJmeWlibnlOQTBkZnJwX0RXYlRuYmh3MzF3blFmRW94NFFmYTBmTzlqdlllVFV1YnpsTnZsdmlnbU5pdFZsTFprU3ZDSkJ0X243UHFpRGhnMFdNbl9QTGJHUE9oMGZmbHBRUzJHZGRNWF9FYlZSQ0lYZS1oUnZjMC1vMXdhc0MwTF8yODFqWFNZUS1kNkhBWXF2TU9SdzMzSGlTZmlQbm1iWFJFY20zZW1xRHVqcS0yV29wMktHdXhmWGluTHo4T0syaVVPU0hETzVOdWQyZ0Z0Zmhkb1ByTlJfeW9STXhEUVdPcmExaWxWLW1OU1gxbllCQVdfYzc2YUZBbkJuYUJNZXpFbWI3Mm0tQXhsNDdKZ3NVekpLNk1ReVRGSkF6WEVP?oc=5
+- Stocks to buy in 2026 for long term: Crompton Greaves, Blue Dart among 5 stocks that could give 10-20% return
+  We have collated a list of recommendations from top brokerage
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-crompton-greaves-blue-dart-among-5-stocks-that-could-give-10-20-return/slideshow/131106286.cms
 
-- Stock Market Today: S&P 500, Nasdaq Set Fresh Records as Cisco Leads Latest Tech Charge; Dow Jumps Back Above 50000 - Investopedia
-  The Dow Jones Industrial Average closed above 5,000 for the first time since March 1.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEd2RVZRRXRqa2lsQldMZERQT3ZsTG9ZdWVUSlBTel9EWGpxdmp3S3lTYjZEU2cta3hRVG1BajZCMlV3NlBvVWUyYnlpYzNtU3VULVZUVXVGOVVvc3N2V01ydDZZUEtGTDBzdnpldDg1dlNiMVN0bUV4SFkxN0lVUExHVi1RV3ZGTkZ3clB1THI?oc=5
+- Vedanta, Hindalco, other metal stocks rally up to 11% in one week. Should you buy or wait? Here's what analysts say
+  Shares of Adani Enterprises, Hindalco Industries, and Vedanta have surged. Analysts recommend patience. Investors should buy on dips rather than chase momentum.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-hindalco-other-metal-stocks-rally-up-to-11-in-one-week-should-you-buy-or-wait-heres-what-analysts-say/articleshow/131106222.cms
 
-- AI boom puts SK Hynix on cusp of $1 trillion market value - Reuters
-  AI boom puts SK Hynix on cusp
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5
+- Simca Advertising shares to list today. Check GMP ahead of debut
+  Simca Advertising's IPO saw robust investor demand, subscribed over 80 times. The out-of-home advertising firm, focusing on Mumbai and Maharashtra, plans to use IPO funds for expansion.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/simca-advertising-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131106193.cms
 
-- Oil markets have won a surprise reprieve - The Economist
-  Oil markets have won a surprise
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOSzlDNHd4SFpNS3JhZlc2QW05dXdDOW5UX2Q4VThVTlBwVEVRMTIzWDB4REMxN2YyQjBCZmJ6WnpPSGhvX1gxOUVGWl84VlktRFhuLXhJRTk3QVhWUGdTRGtTNHZsNWpNZXp4ZDBBQjF6UFNxamRVaDhMWnBjZlZIX19WRFVsT2hjY3hxOHl3?oc=5
+- Gold heads for weekly loss on oil-driven inflation fears; markets eye Trump-Xi talks
+  Rising energy costs are sparking inflation worries and the prospect of sustained high interest rates. Investors are also keenly watching the U.S.-China summit. Meanwhile, India is set to limit gold imports.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-loss-on-oil-driven-inflation-fears-markets-eye-trump-xi-talks/articleshow/131106161.cms
 
-- Chip startup Cerebras hits $80 bn in value in strong stock debut
-  Shares of US chip startup Cerebras Systems surged Thursday in its trading debut. The shares more than doubled at one point and hit a market value of $80 billion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/chip-startup-cerebras-hits-80-bn-in-value-in-strong-stock-debut/articleshow/131100350.cms
+- MEA News: Indian-Flagged Ship Attacked Off Oman Coast - Deccan Herald
+  MEA News: Indian-Fl
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JPRS0xQ2NRdVMyNHpBeV9OaldZSGNsd2dBdFpGb1hNWURreXhmc0VvTWV2ZmZTMWRSQW44aFBTRWVwd1FsS0FwblBLSGtuQ0tGY0tpZXdpaWdiZHYtNW50WkNIVXlGbmpoNmFZNkxYRmNicVNqMGZyVzNjTWxrSVZEc01pVDBHVGVZYUQtQ1VQSllvbGp1cEFmNjRzR0lkM1VDakgzMnZmZHFfMVMxdGJNSVVtZlg2?oc=5
 
-- Sebi proposes major overhaul of derivatives rules to simplify compliance for exchanges
-  India's market regulator Sebi is proposing significant changes to derivatives trading rules. Aim is to make compliance easier for stock exchanges and clearing corporations. Several outdated rules will be removed, and operational requirements will be streamlined.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-major-overhaul-of-derivatives-rules-to-simplify-compliance-for-exchanges/articleshow/131098861.cms
+- Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
+  Attack On Indian Ship Shows No Route Is Safe In Hormuz
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  BSE Sensex and Nifty 50 extended gains for a second session, led by banking, metal and pharma stocks. Analysts flagged 23,800 as a key resistance for Nifty
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131098165.cms
-
-- Cisco shares hit record on strong forecast, AI push with job cuts
-  The jump would mark the best day for the stock since a robust earnings ‌reports in May 2002.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-hit-record-on-strong-forecast-ai-push-with-job-cuts/articleshow/131098098.cms
-
-- Blackstone data center vehicle opens flat in New York debut after $1.75 billion IPO
-  Blackstone data center vehicle opens flat in New York debut after $1.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-data-center-vehicle-opens-flat-in-new-york-debut-after-1-75-billion-ipo/articleshow/131098053.cms
-
-- In Araghchi's India Visit, A #Minab168 Reminder For World - NDTV
-  In Araghchi's India Visit
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0dqWU5rWElrelpJbnNwRUdxYWZ5d0E1T3l2VE5FeS02VGhrX1Nza1hPTDlPUmRGaTYzMEZOakFPaEdPVWxpUEVBd3ZQRll0akc0czAxSGlkWk5LNkhDYkdCVmFsRUs1VndOTVg5aVJwZHBWOEp0dlFTM25jYTZlb0pvbi1tQ2pkWFVreWlERmpNMnZFTFZrMldwVk5VM0ZtRHFQTmE0SHphSmg0Ukk40gG3AUFVX3lxTE5JOTlod0VPZDhadzVuSk5GcGZ0VEFOOFllbUxxMkpaYmtWaTJuLTJxOHlORmVuc2NBdEZxb0RMZDV0aVNqRmU1SVdua29RNXhSVWV5SnZ5Q3MxR0xpVWoteVVmMWt6YmdoYlcyM1NzZU50cFdDcDNuVTkwZno2b1JtUU9CSzkwc1pYaGRmSTRoWklYenA1TXVobUpxb0dyVU5FZmlkMUhFZDJJSTc4WS1FRXVWVzluTQ?oc=5
-
-- With India As Chair, BRICS To Work On More Inclusive World Order: PM Modi - NDTV
-  With India As Chair, BRICS To Work On More In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnV2T2Rad3hKTTZ0cENBWXZJczFCSTRSWDZ0T3B2N2Vqem13T00tVWdDRS0yUG5kQVJZdGJDdWJOUTYzU1l2RUQ0Z2pBSmhDVGM3aThGNTBzSnFNTWpyc2YtUmJ5Z1QtT184NzFQcW5PRE00VXR2TFhCcXltYUV4S0N1NDFQOVNqYkhkLVVvU2t5QTZXay1OUUVVVzFZT1kxMlhYNkhmN0drSkRoeXRmSUZ30gG6AUFVX3lxTE9CMlBXWWp1V3Y0VUZyRXNpZW1DbFNaenEta24yTF8wckNHeGw3NUtxTU9mTFlrSWNaOG42d2NIRjljY1VXd2hJdFlISlAxdVk1a1JsTlZpM0l0WUs0TEFMMS1OQWt0aEdTcGExd0ZJV1MwQzAxaGVZT2trZG1KclFrdE15T0VYZ2tIaEloSXNkUHp6U1lQcTlXWFRJYWRBRDlOU212amZJT09ZSlUxT21aX21WNmNvaS1fdw?oc=5
-
-- Dig at US? Jaishankar flags 'unilateral coercive steps, sanctions' at Brics amid Middle East crisis - The Times of India
-  The Times of India reported that Jaishankar's comments were aimed at
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMWZDUDcxemdraHJoV3ZMODVqZWpJSnF5ZlItODFuNWFJeHdvUFdydEo5OUFTQUlVU1Y1TkZZRWdZTDcyUXppMW1mRHdnb0RzeGZzMXBfRTlEVEpyc1c3NVMzMUQ5RVBBaWx5SjZkRGtyRlkxZkhwRmV5c2hJaWFFbjF1b0d4MFRVZEpnQm1MSmFQd083R3Q0YktHWXF1d3FxcEpfMG1jd0pvMjFLRlJHQmtDS01RRVVMSk16UEhZdUM1Y1VyWWJrcWVHUVF3MGd5c3N2OWpvaG9UX1l0d1FZaXpzMmNFd2pXMV9PcThKc2dQdzBpUUHSAfsBQVVfeXFMUGlkZG9YR2VmQ2xGSHhhcVdCQTV3WTZKelpuTWpnYXQ4bU5ON3BJcW9FUEx0ejJVQ0tJcFllVlNtZEtZbzdNY1NidDFUaEo2RklnNWppTm5fZnhiMlZjN2ZJVHBXb2RYbm5ySktCZ3ZnZzhYOWVISFFLbmF2Rk5BazBsUnRXV1lhSlpIbFg1MVZpME5rX0NwRzFzYWg1YWNSdndlRWF3RVFsalRqa1hWWmpsa2hzQlh1M1cyWTl3TWRMLTZmWWNoc05vWUVJTV9YMFdnSVdYVE5jZVVvbWRLS0s0Q1o4RW40NGFNRExveDJyRWlnLWxzXzlxNXM?oc=5
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
 
 - Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
   Why Donald Trump cosying up to Xi may leave India out in cold
   🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
 
-- US reportedly dropped fraud charges against Indian billionaire after he hired Trump’s lawyer - The Guardian
-  US reportedly dropped fraud charges against Indian billionaire after he hired Trump
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGxWLU5rTmpmRGVoeWFJQlpjWXBJdW5DSEFpWk9fVE1GOS1xQmttMVdhWTVSVzBzbFZFWXQ1NHZyZ0NfZDlvOXVYQWs0X3d2SlozOVhWMEZvVktGMjRIcFJiMmhqN1NGTGxSMzE1V3lEa2M1cTctTzF0Uk5GS2ZiTHk1R0s?oc=5
+- EU includes India in revised draft list for continued export of aquaculture products to EU market - News On AIR
+  EU includes India in revised draft list for continued export of aquaculture products to
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZjMXRXelFVUUtJYWtaMGo0Q2tmakd1Z3g3ZlhHTjhVdHpwSkdjZDFITFZDdWM2UHU1WjhwQjNEdTNLUXVfTlpYWEtUUG5YZ2plVjZqR1J5RlY3dDZNOHBWLVRnUmlGRmZZZnAtT2xRYTlzeU01ZEM1WnJ4WURNWF9Ta2tKRlNoNjU1MlVrWXpHc2dzR2NtU1I5RzB4WkRvalhnLXlHakR3dHdKOWd2eGJBbDA2X1R6VEVSWVl6RG1WdWNmSVE?oc=5
+
+- MEA News: Indian-Flagged Ship Attacked Off Oman Coast - Deccan Herald
+  MEA News: Indian-Fl
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JPRS0xQ2NRdVMyNHpBeV9OaldZSGNsd2dBdFpGb1hNWURreXhmc0VvTWV2ZmZTMWRSQW44aFBTRWVwd1FsS0FwblBLSGtuQ0tGY0tpZXdpaWdiZHYtNW50WkNIVXlGbmpoNmFZNkxYRmNicVNqMGZyVzNjTWxrSVZEc01pVDBHVGVZYUQtQ1VQSllvbGp1cEFmNjRzR0lkM1VDakgzMnZmZHFfMVMxdGJNSVVtZlg2?oc=5
+
+- Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
+  Attack On Indian Ship Shows No Route Is Safe In Hormuz
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
+
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
+
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
+
+- EU includes India in revised draft list for continued export of aquaculture products to EU market - News On AIR
+  EU includes India in revised draft list for continued export of aquaculture products to
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZjMXRXelFVUUtJYWtaMGo0Q2tmakd1Z3g3ZlhHTjhVdHpwSkdjZDFITFZDdWM2UHU1WjhwQjNEdTNLUXVfTlpYWEtUUG5YZ2plVjZqR1J5RlY3dDZNOHBWLVRnUmlGRmZZZnAtT2xRYTlzeU01ZEM1WnJ4WURNWF9Ta2tKRlNoNjU1MlVrWXpHc2dzR2NtU1I5RzB4WkRvalhnLXlHakR3dHdKOWd2eGJBbDA2X1R6VEVSWVl6RG1WdWNmSVE?oc=5
+
+- MEA News: Indian-Flagged Ship Attacked Off Oman Coast - Deccan Herald
+  MEA News: Indian-Fl
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JPRS0xQ2NRdVMyNHpBeV9OaldZSGNsd2dBdFpGb1hNWURreXhmc0VvTWV2ZmZTMWRSQW44aFBTRWVwd1FsS0FwblBLSGtuQ0tGY0tpZXdpaWdiZHYtNW50WkNIVXlGbmpoNmFZNkxYRmNicVNqMGZyVzNjTWxrSVZEc01pVDBHVGVZYUQtQ1VQSllvbGp1cEFmNjRzR0lkM1VDakgzMnZmZHFfMVMxdGJNSVVtZlg2?oc=5
+
+- Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
+  Attack On Indian Ship Shows No Route Is Safe In Hormuz
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
+
+- 12th India-bound ship crosses Hormuz, one more on way - The Times of India
+  12th India-bound ship crosses Hormuz
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZndXc0RVSlFJM2F3RGV2emZEUGNNOXNVcjMzZHcyUzBabDRVVXVhQ1hPUm1tVHh1Z3l1dGxHcENTUlRpc2duUXFLM2VwMFN2V0pFQ0R4eFhJUWRDd0daUEVKb2NWRHdIR1d1TktIdjgwaFBBUGlVTjN3YVV5dmdYRXhoOXJmNlhiU3JNVW8xNkRVLXVJZFNjNUVycWQ3SWZvd01NVndYbzhaOEVKc3hiQTEzamR1OXVVdHg3MdIBwgFBVV95cUxPLXdBU19ra3B5NlBFa0FSTExPMUkxM0dlRi0tcnpxcTFpWWFZNWtnVjlHajJHYTJ0alRKTnl1a1pib21BeTQ1bElzZUJjeU9BQl9mQzdwVVlHcDktTFhJYWItMjdXYlBjOHZfMXFGYXJRZU1QaXZSSUxGYmtpaTZKeGI4WHI0X1ZGVzk4aDJQVnRmNUtkZDdQMm95MXlQYWtTbi1lSzBDY1hhb1daNGFXYU41c2VHeDgtT2FtZDlodGt5Zw?oc=5
+
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
+
+- EU includes India in revised draft list for continued export of aquaculture products to EU market - News On AIR
+  EU includes India in revised draft list for continued export of aquaculture products to
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZjMXRXelFVUUtJYWtaMGo0Q2tmakd1Z3g3ZlhHTjhVdHpwSkdjZDFITFZDdWM2UHU1WjhwQjNEdTNLUXVfTlpYWEtUUG5YZ2plVjZqR1J5RlY3dDZNOHBWLVRnUmlGRmZZZnAtT2xRYTlzeU01ZEM1WnJ4WURNWF9Ta2tKRlNoNjU1MlVrWXpHc2dzR2NtU1I5RzB4WkRvalhnLXlHakR3dHdKOWd2eGJBbDA2X1R6VEVSWVl6RG1WdWNmSVE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-14 19:43:54 UTC_
+_Last updated: 2026-05-15 02:43:46 UTC_
