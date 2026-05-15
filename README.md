@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- ‘Not acceptable’: PM Modi denounces attacks on UAE, says ‘all support’ for peace
+- Chorus against booze sale finds another voice in Kashmir — the BJP
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-uae-visit-sign-key-mous-expand-strategic-cooperation-10690820/
+  🔗 https://indianexpress.com/article/india/bjp-protest-srinagar-omar-abdullah-residence-kashmir-liquor-ban-alcohol-10691537/
 
-- After day-long standoff, hostage swap eases tensions in Manipur
+- Discussed increased energy supply with PM Modi, Jaishankar: Sergei Lavrov
   
-  🔗 https://indianexpress.com/article/india/day-long-standoff-hostage-swap-eases-tensions-manipur-10690746/
+  🔗 https://indianexpress.com/article/india/sergei-lavrov-india-visit-russian-oil-imports-us-sanctions-waiver-brics-10691314/
 
-- Petrol-Diesel Price: How much does vehicle fuel cost in your city after the Centre’s hike? Check here
+- Southwest monsoon over Kerala before time this year, likely on May 26: IMD
   
-  🔗 https://indianexpress.com/article/india/petrol-diesel-price-fuel-cost-hike-delhi-kolkata-bengaluru-chennai-10690373/
+  🔗 https://indianexpress.com/article/india/monsoon-kerala-early-onset-may-26-imd-below-average-rainfall-10691161/
 
-- NEET-UG cancelled to protect students’ rights, will not allow malpractices: Dharmendra Pradhan
+- India issues chair statement after BRICS meeting amid ‘differing views’ over West Asia conflict
   
-  🔗 https://indianexpress.com/article/india/neet-ug-cancelled-to-protect-students-rights-will-not-allow-malpractices-dharmendra-pradhan-10690627/
+  🔗 https://indianexpress.com/article/india/india-issues-chair-statement-after-brics-meeting-amid-differing-views-over-west-asia-conflict-10691085/
 
-- ‘We will hunt and hound you’: J-K top cop warns Pakistan-based gangsters against ‘pumping narcotics into India’
+- Railways speeds up Puri-Konark line project to improve connectivity along coastal Odisha
   
-  🔗 https://indianexpress.com/article/india/hunt-hound-jammu-kashmir-top-cop-pakistan-gangsters-narcotics-india-10690625/
+  🔗 https://indianexpress.com/article/india/railways-speeds-up-puri-konark-line-project-to-improve-connectivity-along-coastal-odisha-10690856/
 
-- Spotify to adopt Apple’s HLS streaming for smoother video podcasts
+- Xbox Elite 3 controller leak suggests new features and a removable battery
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotify-to-adopt-apples-hls-streaming-for-smoother-video-podcasts-10690673/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/xbox-elite-3-controller-leak-suggests-new-features-and-a-removable-battery-10691433/
 
-- Elon Musk vs Sam Altman: OpenAI courtroom battle heads toward dramatic finish
+- Not tiny animals, just algae: Study challenges evidence for early animal life on Earth
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-vs-sam-altman-openai-courtroom-battle-heads-toward-dramatic-finish-10690403/
+  🔗 https://indianexpress.com/article/technology/science/brazil-microfossils-debunked-earliest-animals-algae-bacteria-study-10691277/
 
-- OpenAI explores legal options against Apple: Reports
+- Asus ExpertBook Ultra review: Thin, light, and surprisingly powerful
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-explores-legal-options-against-apple-reports-10690402/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-expertbook-ultra-review-10691130/
 
-- Will AI kill apps? Here’s what Apple developers said ahead of WWDC 2026
+- Beware: Are you falling for scams through spam calls?
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-apps-what-apple-developers-said-wwdc-2026-10689832/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/beware-are-you-falling-for-scams-through-spam-calls-10691045/
 
-- Scientists build 3D computing device using living brain cells
+- OpenAI brings coding tool Codex to ChatGPT phone app
   
-  🔗 https://indianexpress.com/article/technology/science/scientists-build-3d-computing-device-using-living-brain-cells-10689807/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-brings-coding-tool-codex-to-chatgpt-phone-app-10691044/
 
-- Singapore Airlines says Pakistan's airspace closure hurt Air India more than foreign airlines
-  Air India's inability to use Pakistani airspace puts it at a disadvantage compared to foreign carriers. The closure has impacted Air India's operational costs and contributed to its mounting losses amidst broader industry challenges
-  🔗 https://www.livemint.com/companies/news/singapore-airlines-air-india-pakistan-airspace-closure-foreign-airlines-goh-choon-phong-supply-chain-delays-west-asia-11778825038757.html
+- JioStar initiates legal measures against Zee entertainment for alleged unauthorised airing of Bollywood films: Report
+  JioStar, backed by Reliance and Disney, has reportedly sued Zee Entertainment, alleging the broadcaster aired Bollywood films without authorisation
+  🔗 https://www.livemint.com/companies/jiostar-initiates-legal-measures-against-zee-entertainment-for-alleged-unauthorised-airing-of-bollywood-films-report-11778847237342.html
 
-- Apple anti-trust probe: Delhi HC asks CCI to hold its order till 15 July, orders firm to cooperate
-  The court refused to grant Apple any further extension for appearing before the CCI and furnishing information sought
-  🔗 https://www.livemint.com/companies/apple-cci-probe-india-app-store-charges-anti-competition-delhi-hc-11778830212572.html
+- Vertex Ventures eyes semiconductors, robotics and batteries in deeptech pivot
+  The firm is shifting its focus toward ‘sovereign technology’ as it nears full
+  🔗 https://www.livemint.com/companies/news/vertex-ventures-india-deeptech-funding-india-11778836120231.html
 
-- Rapido raises $240 million led by Prosus at $3 billion valuation
-  Rapido will use the fresh capital to deepen expansion beyond metros.
-  🔗 https://www.livemint.com/companies/start-ups/rapido-raises-240-million-led-by-prosus-at-3-billion-valuation-11778830315277.html
+- Tata Cliq leans on premium brands to stand out in e-commerce race
+  Tata Cliq has exited some categories like electronics as it sharpens focus on premium brands like Lululemon. Tata Cliq
+  🔗 https://www.livemint.com/companies/news/tata-cliq-lululemon-india-launch-india-ecommerce-market-tata-digital-premium-fashion-india-11778830774143.html
 
-- US SEC’s settlement with Gautam Adani does not end Justice Department’s criminal investigation
-  The Adanis face significant fines while denying allegations of bribery and securities fraud linked to solar-energy contracts. The SEC's civil case settlement against the Adani family
-  🔗 https://www.livemint.com/companies/us-sec-adani-settlement-gautam-adani-justice-department-criminal-investigation-alleged-bribes-sagar-adani-11778822131563.html
+- Supreme Court gives Flipkart eight weeks to clear MarQ inventory in trademark dispute
+  The top court refused to interfere with lower court orders, and held that Flipkart�
+  🔗 https://www.livemint.com/companies/news/flipkart-marq-trademark-dispute-supreme-court-inventory-clearance-order-11778836188283.html
 
-- Billionaire Adani to settle with SEC, nears end of US legal woes
-  Adani and his nephew Sagar agreed to pay a total of $18 million to settle Securities and Exchange Commission allegations.
-  🔗 https://www.livemint.com/companies/gautam-adani-sagar-adani-sec-settlement-us-fraud-charges-adani-green-energy-bribery-allegations-11778816850171.html
+- Chalet Hotels eyes Jaipur, Jodhpur and Hyderabad as future growth clusters
+  Chalet Hotels Limited, backed by K Raheja Corp, is focusing on expanding into leisure markets. The company continues to grow its portfolio and maintain strong revenue growth.
+  🔗 https://www.livemint.com/companies/news/chalet-hotels-shwetank-singh-k-raheja-corp-jaipur-hotels-jodhpur-tourism-pune-hospitality-hyderabad-financial-district-11778824490814.html
 
-- Max Healthcare sets board meeting date to declare Q4 results 2026, final dividend for FY26
-  Max Healthcare Institute's Board of Directors will meet on May 21, 2026, to review financial results. Trading window for securities will remain closed until 48 hours after results are declared.
-  🔗 https://www.livemint.com/market/stock-market-news/max-healthcare-sets-board-meeting-date-to-declare-q4-results-2026-final-dividend-for-fy26-11778832257280.html
+- Tata Steel Q4 Results: Profit zooms 147% YoY to  ₹2,965 crore; dividend of  ₹4 announced
+  The profit after tax (PAT) stood at  ₹2,965 crore
+  🔗 https://www.livemint.com/market/stock-market-news/tata-steel-q4-results-profit-zooms-147-yoy-to-rs-2-965-crore-dividend-of-rs-4-announced-11778848135873.html
 
-- Flipkart IPO likely to be delayed as Walmart-owned online retailer to prioritise profitability, says report
-  Walmart has advised Flipkart to delay its IPO plans and prioritize achieving EBITDA breakeven by FY27. This decision, made during Walmart CEO John Furner's
-  🔗 https://www.livemint.com/market/stock-market-news/flipkart-ipo-likely-to-be-delayed-as-walmart-owned-online-retailer-to-prioritise-profitability-says-report-11778831705316.html
+- Small-cap stock Standard Engineering edges higher despite stock market sell-off
+  On May 15, Standard Engineering Technology stock rose 1.75% to  ₹136.60. Total income surged 34.97% YoY, with notable profit
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-standard-engineering-edges-higher-despite-stock-market-selloff-11778845484207.html
 
-- Rupee falls 7% year-to-date, and it may fall more this year; here's why
-  The Indian rupee has fallen nearly 7% this year due to soaring crude oil prices and foreign capital outflows. Some experts believe the domestic unit may touch the 100 mark if oil prices
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-falls-7-year-to-date-and-it-may-fall-more-this-year-heres-why-11778831460945.html
+- Hindustan Copper Q4 results 2026: Profit jumps 137% YoY to  ₹444 crore; board recommends final dividend of  ₹1.86 for FY26
+  Hindustan Copper Q4 results 2026: Consolidated profit jumped 137% YoY to  �
+  🔗 https://www.livemint.com/market/stock-market-news/hindustan-copper-q4-results-2026-profit-jumps-137-yoy-to-444-crore-board-recommends-final-dividend-of-1-86-for-fy26-11778843008007.html
 
-- Petrol, diesel price hike: Is  ₹3 fuel price increase enough to offset OMCs’ mounting losses?
-  Petrol and diesel price hike offers some relief to OMCs, but analysts believe it is insufficient to fully offset the massive under-recoveries accumulated over the past few years. O MCs are estimated to be
-  🔗 https://www.livemint.com/market/stock-market-news/petrol-diesel-price-hike-is-rs-3-fuel-price-increase-enough-to-offset-omcs-mounting-losses-11778829182913.html
+- ITC Hotels Q4 Results: Cons PAT jumps 23% YoY to  ₹316 crore; Re 1 dividend announced
+  ITC Hotels reported March quarter revenue from operations at  ₹1,253.7 crore, up 18.2% YoY.
+  🔗 https://www.livemint.com/market/stock-market-news/itc-hotels-q4-results-cons-pat-jumps-23-yoy-to-rs-316-crore-re-1-dividend-announced-11778839894625.html
 
-- DLF is not aggressively chasing pre-sales because its goal post is better margins
-  DLF braces for another year of flat pre-sales, prioritizing margins and free cash flow
-  🔗 https://www.livemint.com/market/mark-to-market/dlf-real-estate-pre-sales-bookings-margins-ebitda-miss-gurugram-arbour-dahlias-11778827404143.html
+- Expert View | Markets are unlikely to see a runaway rally in 2026: Inderbir Singh Jolly, CEO, PL Private Wealth
+  "We continue to maintain a balanced and diversified approach across equities, fixed income and strategic alternatives," said Inder
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-markets-are-unlikely-to-see-a-runaway-rally-in-2026-inderbir-singh-jolly-ceo-pl-private-wealth-11778840845930.html
+
+- I will be skipping a gaming laptop for a thin and light laptop in 2026 and you should too
+  This guide helps you choose the right laptop for your daily needs. From gaming laptops to thin
+  🔗 https://www.livemint.com/technology/gadgets/i-will-be-skipping-a-gaming-laptop-for-a-thin-and-light-laptop-in-2026-and-you-should-too-11778840544526.html
 
 - From Essential to Fire Phone: 10 smartphone startups and brands that failed despite massive hype
   The smartphone industry has seen several ambitious startups and tech giants collapse despite huge hype, celebrity founders, and innovative ideas. From Amazon's Fire Phone to Andy Rubin’s Essential and
@@ -96,129 +100,85 @@
   Samsung, Noise and Amazfit smartwatches offer water resistance, fitness tracking,
   🔗 https://www.livemint.com/technology/gadgets/want-a-smartwatch-for-swimming-and-workouts-top-water-resistant-options-to-consider-11778745211481.html
 
-- Big tech’s fat profits conceal unsettling cashflows
-  Amazon, Meta and Microsoft expected to announce negative cashflows in at least one quarter.
-  🔗 https://www.livemint.com/technology/big-tech-s-fat-profits-conceal-unsettling-cashflows-11778752946211.html
+- Sebi expands permitted use of borrowings for highly leveraged InvITs
+  The changes, which have come into force with immediate effect, are aimed at providing greater
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-expands-permitted-use-of-borrowings-for-highly-leveraged-invits/articleshow/131119573.cms
 
-- Markets News, May 14, 2026: Cisco Leads Tech Charge as S&P 500, Nasdaq Close at Record Highs; Dow Ends Above 50000 for 1st Time Since February - Investopedia
-  The Dow ends above 50000 for the first time since February.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEd2RVZRRXRqa2lsQldMZERQT3ZsTG9ZdWVUSlBTel9EWGpxdmp3S3lTYjZEU2cta3hRVG1BajZCMlV3NlBvVWUyYnlpYzNtU3VULVZUVXVGOVVvc3N2V01ydDZZUEtGTDBzdnpldDg1dlNiMVN0bUV4SFkxN0lVUExHVi1RV3ZGTkZ3clB1THI?oc=5
+- US stocks today: S&amp;P, Nasdaq plunge 1% at open as yields jump on inflation worries
+  Wall Street opened sharply lower on Friday. Inflation fears triggered by Middle East conflict drove up Treasury yields.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-drop-at-open-as-yields-jump-on-inflation-worries/articleshow/131119464.cms
 
-- Stocks Hit as Inflation Angst Sends Yields Higher: Markets Wrap - Bloomberg.com
-  Stocks Hit as Inflation Angst
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVlyLXpKUFpXMy13TE1ucUFFS0xHbVhzYkY5dXJfWGl4b1NSc0VmalcybE1OQUROUG5ZTV92bjczRVB6b0NuY3Z6bE5vX19JRHp6VHFlRjlOeHltSFJlN0pPU2wzQjlIbHlvekI4ZXlTNEktaU1RWHBlN2FidURzNS0tSDYtYkZfX2FFM3BUZW1QT0FZODRNOEZYQkltUHUza0hYZkhBZHRPMmZtRHQzMkZnR2M?oc=5
+- ITC Hotels Q4 PAT at Rs 317 crore, chain posts revenue of Rs 1,254 crore
+  ITC Hotels posted strong FY26 growth with higher revenue, profit and record hotel signings. The company acquired a luxury resort in Kumarakom, expanded its managed pipeline,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/itc-hotels-q4-pat-at-rs-317-crore-chain-posts-revenue-of-rs-1254-crore/articleshow/131119494.cms
 
-- Stock futures fall after Dow retakes 50,000: Live updates - CNBC
-  Stock futures fall after Dow retakes
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBCUUdxWm5EQlFidGZtdDMwNWNPclNKWEdWU09LLW56Nml1d1FNalBMdHRCY3NPbk5RTzZWNWJ1NXdMQU82QkpiUkRYQ19sSzAwR0tsNkV0bTVsVzhNbjRWLXZkNWx6ZFJQTG5qWGhlMEVsbG1oRmxr0gF8QVVfeXFMTjNQNVktX3BsbTFxRThNdnVZQVBzYkVMN2hTcjBuV2tRSDBDQTZUQ256Yk1uejdOQUZVWTJjS1JXMndpZWp6OWVyNFI3Y3JKc2lFQWlNNTFkTkVJTGRtbjFFSWt2OUZKUmsxcTJxRUpnRDhjSzFQbkx5U01INw?oc=5
+- Tata Steel Q4 Results: Cons PAT soars 147% YoY to Rs 2,965 crore, revenue jumps 13%
+  Tata Steel reported a consolidated net profit of Rs 2,965 crore in the March-ended quarter versus Rs 1,201 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q4-results-cons-pat-soars-147-yoy-to-rs-2965-crore-revenue-jumps-13/articleshow/131117752.cms
 
-- Stock Market Live Updates: BSE Sensex over 200 points up; Nifty50 goes above 23,750 even as global crude oil prices remain high - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMirwJBVV95cUxPVVY5UFFqcUs2VjFFZDRuWVo4SEUtWWlxX3htLVhlUWkyUFlOZ1JQN3BqY2NaTlZnczNnZHZxaTAtQTgxcm91S0EwcEFNUG9FRjNfdlYxd0hBSDZLR1R4R0FfdEVvR1BNcU
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxPVVY5UFFqcUs2VjFFZDRuWVo4SEUtWWlxX3htLVhlUWkyUFlOZ1JQN3BqY2NaTlZnczNnZHZxaTAtQTgxcm91S0EwcEFNUG9FRjNfdlYxd0hBSDZLR1R4R0FfdEVvR1BNcUtDY1lCSUdFN19jUHRYRTktWnI1cjdid09UdnRZUFh4aEt0NUItV2I1dlY3T01HQmdmd3hTLUZaSXZtQ2Rab0huY2tkdTZBdVQ2VXVUUWl2cGYyYkNRdFJieEFkN09kSkM5RGFtUlVVSEN2VS1OSDBrdWc5d3hsbTBEU2xDUUJmS0RLNG5idXdmTVd5ajBQYzV5ZkkzNVEwTkZQbzlUdGJVMFZUYjJLQlZ2MU01THJLTkZtY2pzNGM2M3JJQzF1OElvSVJ1bVnSAbQCQVVfeXFMTkFaUzA4bnJSOVFuTWVTZkFoRVp0U0lORVBmcVFrWXNaTmF0X194bnp2LXA4NDJyYkdJZGVRRUJhUmJ6SC1XRkNxTkp1bkFHSzV2ak1tdkNhVGZnTmNESWc2TExxeFNSRk9qMGFsOGVTanpBaGRTaFl3ZXlfTTVZUVRrVk44aUF5VjhPQTMzUlFkZHMwa1l4MU1vVWtrbS1ULUJFdjh1VXZtLU1BcWJlOG5MeldlUGoxNWQyWXd5Z2pxQVM5cWNKM1JNRGpUV0FFRXpwaUVLRWZ2NU1oUFk0eUdvekdqV0ROLW5JVk84MWE3R2dRazB2VDREaFJoeC1jcWIzb0FPWVZNNGg3VmRxWkRxYlZyc2ZvUTFjdWZwcnp1c3AxeWJlT3hoZTVjejBOMjE5Q1A?oc=5
-
-- U.S. futures fall, oil rises, Trump departs Beijing - what’s moving markets - Investing.com
-  U.S. futures fall, oil rises,
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlRJTktaNkhxSFh5ZXFKbXU3NmtjMVZ3aGJvRW5ZVnp3NjdpcFMwNjFFTEtQUkFMT2hiNHROQllISWxrcEhHd183dGREWUFjLXRBRmVuUFFVTW5DdTlLQjlkcl95YkVjSk53SEVyZVVEZklVekd6VEJCbW9IZTVhdnNfWkNzLTluR0lESlBDQzdTSTRsN3NTWkFYdlZGbTZSdFFIZldHclZtTkVhd1RKT2owU2taNjBzc3dzSThB?oc=5
-
-- George Alexander Muthoot sees no demand slowdown, expects strong gold loan momentum to continue
-  Muthoot Finance anticipates sustained growth, leveraging its extensive branch network and gold's appeal as collateral. The company observes a decline in smaller loans, with larger ones gaining traction.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/george-alexander-muthoot-sees-no-demand-slowdown-expects-strong-gold-loan-momentum-to-continue/articleshow/131112139.cms
-
-- Muthoot Finance shares crash 8% even after Q4 net profit soars 105% YoY. Here’s what Jefferies, Morgan Stanley say
-  Muthoot Finance's shares plunged over 8% despite reporting a 105% year-on-year surge in net profit to Rs 3,086 crore for Q4 FY26. The company also saw a significant 68.5%
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-crash-8-even-after-q4-net-profit-soars-105-yoy-heres-what-jefferies-morgan-stanley-say/articleshow/131112085.cms
-
-- UK bond yields leap as Burnham sees possible route to power
-  Borrowing costs rise on renewed worries about the inflationary impact of the Iran war
-  🔗 https://economictimes.indiatimes.com/markets/bonds/uk-bond-yields-leap-as-burnham-sees-possible-route-to-power/articleshow/131111871.cms
-
-- Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?
-  The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act. The move brings long-needed regulatory clarity, boosting industry confidence. Democrats raise concerns over safeguards and stablecoin provisions.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms
-
-- Japanese bond yields hit record highs as rate-hike bets firm
-  The benchmark 10-year JGB yield rose as much as 10 basis points (bps) to 2.73%, the highest ‌level since ⁠May 1997. The �
-  🔗 https://economictimes.indiatimes.com/markets/bonds/japanese-bond-yields-hit-record-highs-as-rate-hike-bets-firm/articleshow/131111801.cms
-
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
+- Quote of the day by Marty Whitman: "As a value investor, what you are interested in is whether the company is creating wealth"
+  Value investors look beyond daily price swings to a company's core business. Marty Whitman, a legendary investor, emphasized wealth creation.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-marty-whitman-as-a-value-investor-what-you-are-interested-in-is-whether-the-company-is-creating-wealth/articleshow/131108764.cms
 
 - Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
   Attack On Indian Ship Shows No Route Is Safe In Hormuz
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
 
-- May 15- NEET-UG Exam Rescheduled For June 21; Trump-Xi Conclude Talks In Beijing; Petrol, Diesel Prices Hiked Across India - India Today
-  India Today: Petrol, Diesel Prices Hiked Across India. NEET-UG Exam
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOX3lSNHhWYktJLTZuMjQzUDNKRWdMbHg3TU1YVmd5bGpKeGdXLWhvT2lCNnlKU3lTNUJURFRiVDB0YUxZdmdyMzE2cjE2YmtTZ1hQV0t1OTFxem84SGVaYm5Nb0tfckY2U04zRGdaUlpPYTlTclFCamRGSHlsOEdFUG5oQjg2cVVVeTNEQTU3R1JkV09WYTduVm9YRjJUeVpnbXpnX3BYbU02SnhxVFlscW43c0RYbVh0eVZrRUhTWl84UHV5YU45XzlST01lbGVmUm8zaklOWXJaeWJvaHdjYjBhdXQxWko1REsxeC0xbEVoY0loak1PSFV2XzVSeGxSUkdILUZBVQ?oc=5
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
 
-- Breaking news live updates, May 15: India, United Arab Emirates sign defence, energy and investment deals during PM Modi visit - The Times of India
-  India and United Arab Emirates sign defence, energy and investment deals during PM Modi visit.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
+- CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher Kulkarni who worked with NTA, leaked paper in Pune | India News - Hindustan Times
+  CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher K
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGRhdDBFbndjTFFETm1OcHh4bkRhSXVhdUc4QUNPS0NkN1ZGYjRuM0I2VVJKS3Bjd0lZeVRMbm9wZC1wNDJYZEJjcUdKcGNfcDlwMjFTajcySGJ1XzctMDh1SUhvX25PMlRmVlVhVjRCZmdqQ2FBVXQwTk1KdjZ0aWNGLTRfWjRGdHJLeWpxV04zUTNJSEp0bGJYc3kxQmpPTEdyLWZpbEVGOEJVQjZrc0pyUnFSTGptQzI5MkhzaVhzRXZRZ0ZpenFqZ2szNmlVMXNjVGNMR3BZaGJnWmN6QUx4YXp6bWJwTFVmWVgwV0wwWGZXSkZ5NlFkNNIBgAJBVV95cUxNOXM4aEtmTHN6MkZXbV9mdUdCdGFJejNNeVQtUkd6dXB6LUF4RTlZTm9ZeTk5SjRNLUtldHhZY0tub0F0b2c2SktMM212by03ZEpjZEs5NVUtVHdVelZWVDRCeVpYTFc4ckZIZXZEa3dLQmNRZTRQWXdfQW9yc3dVVTdkV1k0c2ZxY1FDcTVIWGR4RWZnMlpIb3ljZmJPV3pZNWFWU1VFdU9SSk11eUtnXzRoWWwtV2ZTakxjZ1l6cnhTLWl1RUJfcXNrVlZTOTFQQ2IxVzlGdFFzbzBFelFubmNGT0oySFZ6Q0QwRUlFd082aE9IdFVESG9wMWdZeDc5?oc=5
 
-- India, UAE sign pacts on LPG, strategic oil reserves to cushion US-Iran war impact | India News - Hindustan Times
-  India, UAE sign pacts on LPG, strategic oil reserves to cushion US
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXdVcFl6d0NyRzVtQnk3b2RkWDZoenFLZHFwWGNDYWRNQ3RVSUoxbjE2bFE4VDJyTHNLOVJwV3JyU1NhQzJxRXk3ek4zYkZIMXdCdk44UG1lb3JVcHMyOHpVS1NlUi0za2dxSFo1b245ZGhKei1rcU1hbG1pWHN5QkNnMnR1eC1jRml2czZ6aHlkMU83N0ZHMXNRcWdLRWoyOC0tYl9XTF9zbVZEWDNJNUJPZ1dJQUR4dTJEUWNleWdlOFJxdkNtSkRvd0RzX2x4Q21NVkwtekhkcV9MeE4zSi11QXNZN1VUakpHTkJPVG9SUdIB9wFBVV95cUxOS3hqVmNKc0ZKYlMwbHRpLWU3TDV6QWhEeUtKTGdQeXVORzFlX1ZhRENhU01PMC12Y2Z5YW5GSnQzTTY2cXYtUzNyak9KRVlwcldfdjBaN3BHdDIydzFWdk1mUU9JRVlqRzJGUVJsOTJUbWFvSm1NNDdRelpjWEd3WHFsNENmekdoSFJQUWM2eERCcTg4RVNVZDJLQkdyRlJxQTJqUTMyZEtjaHZFWHpOOW5ScTZHNllIa1I2YVJva0xLN0tmZWRnQ180bFJfR2lNVTNndVM3WS1Ray03S25LRnc0SzhZd1FHdTBTN1FBZzlzTlktTG1r?oc=5
+- 'India's only ape' species uses bridge to cross rail tracks in Assam. Watch - India Today
+  'India's only ape' species uses bridge to cross rail
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWNKTUxJbm9PMWluNDNmS0pwT1E1U1NJQzNlZVEycGlEak9RekhCSXZVdDRRSEdQaTRvMXRTY1ppT0htVmVpNEtiM0dzYnlaV1plWkYxYzU5eWFpeDVrVmhoNjVRX1dZMUFjeTFiX1BQUjFmOHh3dm5sck9reDhvR19XU0ZrRWJRSTZvU1duRUNRQzFxNS1DNlFhN2dWTGRuTmR4eEtvdnVkTWIxUURRYk1Pa1c2ZEhiMmFJb21lMTFEVFdGLWxHejVud1o3ZVRmV2fSAdcBQVVfeXFMTVRTaUFjc0hoalJ4X2RnS2dKV1VZOUxJR0Zuc0tRc09aRGtScjJzZTVIYnFkbmh3NThLbGRCZGFDbm5PQWNQdUJzczRTU2x3cHQ3VUJxTU43cjB2eklNOHFuR2diZklZVnJncW9pblFKcndrbHFOVnkzOFE1RlNVRlBrQUFGdVZaM2dFVHlmdThVeUtQODNSRm1aQ3BxZWNXZlhQVGNJS0FfMVJhcTJ4Ukdwd25JZWFFYWNvN1RlZ0NVRGhSdXpGdi1LeDNGcEJsck5sM2FrRXc?oc=5
 
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
-
-- Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
-  Attack On Indian Ship Shows No Route Is Safe In Hormuz
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
-
-- May 15- NEET-UG Exam Rescheduled For June 21; Trump-Xi Conclude Talks In Beijing; Petrol, Diesel Prices Hiked Across India - India Today
-  India Today: Petrol, Diesel Prices Hiked Across India. NEET-UG Exam
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOX3lSNHhWYktJLTZuMjQzUDNKRWdMbHg3TU1YVmd5bGpKeGdXLWhvT2lCNnlKU3lTNUJURFRiVDB0YUxZdmdyMzE2cjE2YmtTZ1hQV0t1OTFxem84SGVaYm5Nb0tfckY2U04zRGdaUlpPYTlTclFCamRGSHlsOEdFUG5oQjg2cVVVeTNEQTU3R1JkV09WYTduVm9YRjJUeVpnbXpnX3BYbU02SnhxVFlscW43c0RYbVh0eVZrRUhTWl84UHV5YU45XzlST01lbGVmUm8zaklOWXJaeWJvaHdjYjBhdXQxWko1REsxeC0xbEVoY0loak1PSFV2XzVSeGxSUkdILUZBVQ?oc=5
-
-- Breaking news live updates, May 15: India, United Arab Emirates sign defence, energy and investment deals during PM Modi visit - The Times of India
-  India and United Arab Emirates sign defence, energy and investment deals during PM Modi visit.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
-
-- India, UAE sign pacts on LPG, strategic oil reserves to cushion US-Iran war impact | India News - Hindustan Times
-  India, UAE sign pacts on LPG, strategic oil reserves to cushion US
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXdVcFl6d0NyRzVtQnk3b2RkWDZoenFLZHFwWGNDYWRNQ3RVSUoxbjE2bFE4VDJyTHNLOVJwV3JyU1NhQzJxRXk3ek4zYkZIMXdCdk44UG1lb3JVcHMyOHpVS1NlUi0za2dxSFo1b245ZGhKei1rcU1hbG1pWHN5QkNnMnR1eC1jRml2czZ6aHlkMU83N0ZHMXNRcWdLRWoyOC0tYl9XTF9zbVZEWDNJNUJPZ1dJQUR4dTJEUWNleWdlOFJxdkNtSkRvd0RzX2x4Q21NVkwtekhkcV9MeE4zSi11QXNZN1VUakpHTkJPVG9SUdIB9wFBVV95cUxOS3hqVmNKc0ZKYlMwbHRpLWU3TDV6QWhEeUtKTGdQeXVORzFlX1ZhRENhU01PMC12Y2Z5YW5GSnQzTTY2cXYtUzNyak9KRVlwcldfdjBaN3BHdDIydzFWdk1mUU9JRVlqRzJGUVJsOTJUbWFvSm1NNDdRelpjWEd3WHFsNENmekdoSFJQUWM2eERCcTg4RVNVZDJLQkdyRlJxQTJqUTMyZEtjaHZFWHpOOW5ScTZHNllIa1I2YVJva0xLN0tmZWRnQ180bFJfR2lNVTNndVM3WS1Ray03S25LRnc0SzhZd1FHdTBTN1FBZzlzTlktTG1r?oc=5
-
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
+- India can play ‘greater role’ for peace in West Asia, says Iranian Foreign Minister Araghchi - The Hindu
+  India can play ‘greater role’ for peace in West
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkdUTXBHWVd3eFNhWm5fMWhqVXZHU2VMb3pHSTN2SXFMdHRWdDZaWTc2U0tDNVg1LTVWWE0yTUxkUU1oRVhEZ2N4ZmJoU2pxOWxMWmhJcW0xeXNBdEtzdklyaGxnR0ZnVWJEb0tzcERWZlB2bjY1Y2U2NEtzV0JnZTFaMUdOVGY2OHhrNU9pVHV4SjZIclFIQ2NDakZpRUg5ZzVQM25fN2wwMFp1S3V6M0xaaUFwQmp0dzRnRDhXT1RwUXowN01wSXJxdmFLTWxkSW1paF9R0gHcAUFVX3lxTE9XZTdhb1BhbzRUSnd4Mk9RbVRwVERuU0Nfb2FVQlZHUXZNMnc0cXprNm5UalkyVmE2aVN6Y2Zab010NjRmZFpkaW14WExkaVF2YTMwUDFUbkRhRUYtTi01eC1xQ1pKVG52ZTNvQ21JZTNLWE1TYkJ6REJkSXA1VjFWbThtc3QtaGdFRVdGRDZkRHVwNUlxcTVQTGdneXNwTXg5ZUxtWEttWm8yYi1sdjZmdkc2dW1WU2NkZTN4WTBvYmVCcWNRcFR5cm00MEtqOFhTUHhnS2JwNW5kZTI?oc=5
 
 - Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
   Attack On Indian Ship Shows No Route Is Safe In Hormuz
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
 
-- May 15- NEET-UG Exam Rescheduled For June 21; Trump-Xi Conclude Talks In Beijing; Petrol, Diesel Prices Hiked Across India - India Today
-  India Today: Petrol, Diesel Prices Hiked Across India. NEET-UG Exam
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOX3lSNHhWYktJLTZuMjQzUDNKRWdMbHg3TU1YVmd5bGpKeGdXLWhvT2lCNnlKU3lTNUJURFRiVDB0YUxZdmdyMzE2cjE2YmtTZ1hQV0t1OTFxem84SGVaYm5Nb0tfckY2U04zRGdaUlpPYTlTclFCamRGSHlsOEdFUG5oQjg2cVVVeTNEQTU3R1JkV09WYTduVm9YRjJUeVpnbXpnX3BYbU02SnhxVFlscW43c0RYbVh0eVZrRUhTWl84UHV5YU45XzlST01lbGVmUm8zaklOWXJaeWJvaHdjYjBhdXQxWko1REsxeC0xbEVoY0loak1PSFV2XzVSeGxSUkdILUZBVQ?oc=5
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
 
-- Breaking news live updates, May 15: India, United Arab Emirates sign defence, energy and investment deals during PM Modi visit - The Times of India
-  India and United Arab Emirates sign defence, energy and investment deals during PM Modi visit.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
+- CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher Kulkarni who worked with NTA, leaked paper in Pune | India News - Hindustan Times
+  CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher K
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGRhdDBFbndjTFFETm1OcHh4bkRhSXVhdUc4QUNPS0NkN1ZGYjRuM0I2VVJKS3Bjd0lZeVRMbm9wZC1wNDJYZEJjcUdKcGNfcDlwMjFTajcySGJ1XzctMDh1SUhvX25PMlRmVlVhVjRCZmdqQ2FBVXQwTk1KdjZ0aWNGLTRfWjRGdHJLeWpxV04zUTNJSEp0bGJYc3kxQmpPTEdyLWZpbEVGOEJVQjZrc0pyUnFSTGptQzI5MkhzaVhzRXZRZ0ZpenFqZ2szNmlVMXNjVGNMR3BZaGJnWmN6QUx4YXp6bWJwTFVmWVgwV0wwWGZXSkZ5NlFkNNIBgAJBVV95cUxNOXM4aEtmTHN6MkZXbV9mdUdCdGFJejNNeVQtUkd6dXB6LUF4RTlZTm9ZeTk5SjRNLUtldHhZY0tub0F0b2c2SktMM212by03ZEpjZEs5NVUtVHdVelZWVDRCeVpYTFc4ckZIZXZEa3dLQmNRZTRQWXdfQW9yc3dVVTdkV1k0c2ZxY1FDcTVIWGR4RWZnMlpIb3ljZmJPV3pZNWFWU1VFdU9SSk11eUtnXzRoWWwtV2ZTakxjZ1l6cnhTLWl1RUJfcXNrVlZTOTFQQ2IxVzlGdFFzbzBFelFubmNGT0oySFZ6Q0QwRUlFd082aE9IdFVESG9wMWdZeDc5?oc=5
 
-- India, UAE sign pacts on LPG, strategic oil reserves to cushion US-Iran war impact | India News - Hindustan Times
-  India, UAE sign pacts on LPG, strategic oil reserves to cushion US
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXdVcFl6d0NyRzVtQnk3b2RkWDZoenFLZHFwWGNDYWRNQ3RVSUoxbjE2bFE4VDJyTHNLOVJwV3JyU1NhQzJxRXk3ek4zYkZIMXdCdk44UG1lb3JVcHMyOHpVS1NlUi0za2dxSFo1b245ZGhKei1rcU1hbG1pWHN5QkNnMnR1eC1jRml2czZ6aHlkMU83N0ZHMXNRcWdLRWoyOC0tYl9XTF9zbVZEWDNJNUJPZ1dJQUR4dTJEUWNleWdlOFJxdkNtSkRvd0RzX2x4Q21NVkwtekhkcV9MeE4zSi11QXNZN1VUakpHTkJPVG9SUdIB9wFBVV95cUxOS3hqVmNKc0ZKYlMwbHRpLWU3TDV6QWhEeUtKTGdQeXVORzFlX1ZhRENhU01PMC12Y2Z5YW5GSnQzTTY2cXYtUzNyak9KRVlwcldfdjBaN3BHdDIydzFWdk1mUU9JRVlqRzJGUVJsOTJUbWFvSm1NNDdRelpjWEd3WHFsNENmekdoSFJQUWM2eERCcTg4RVNVZDJLQkdyRlJxQTJqUTMyZEtjaHZFWHpOOW5ScTZHNllIa1I2YVJva0xLN0tmZWRnQ180bFJfR2lNVTNndVM3WS1Ray03S25LRnc0SzhZd1FHdTBTN1FBZzlzTlktTG1r?oc=5
+- 'India's only ape' species uses bridge to cross rail tracks in Assam. Watch - India Today
+  'India's only ape' species uses bridge to cross rail
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWNKTUxJbm9PMWluNDNmS0pwT1E1U1NJQzNlZVEycGlEak9RekhCSXZVdDRRSEdQaTRvMXRTY1ppT0htVmVpNEtiM0dzYnlaV1plWkYxYzU5eWFpeDVrVmhoNjVRX1dZMUFjeTFiX1BQUjFmOHh3dm5sck9reDhvR19XU0ZrRWJRSTZvU1duRUNRQzFxNS1DNlFhN2dWTGRuTmR4eEtvdnVkTWIxUURRYk1Pa1c2ZEhiMmFJb21lMTFEVFdGLWxHejVud1o3ZVRmV2fSAdcBQVVfeXFMTVRTaUFjc0hoalJ4X2RnS2dKV1VZOUxJR0Zuc0tRc09aRGtScjJzZTVIYnFkbmh3NThLbGRCZGFDbm5PQWNQdUJzczRTU2x3cHQ3VUJxTU43cjB2eklNOHFuR2diZklZVnJncW9pblFKcndrbHFOVnkzOFE1RlNVRlBrQUFGdVZaM2dFVHlmdThVeUtQODNSRm1aQ3BxZWNXZlhQVGNJS0FfMVJhcTJ4Ukdwd25JZWFFYWNvN1RlZ0NVRGhSdXpGdi1LeDNGcEJsck5sM2FrRXc?oc=5
 
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
+- India can play ‘greater role’ for peace in West Asia, says Iranian Foreign Minister Araghchi - The Hindu
+  India can play ‘greater role’ for peace in West
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkdUTXBHWVd3eFNhWm5fMWhqVXZHU2VMb3pHSTN2SXFMdHRWdDZaWTc2U0tDNVg1LTVWWE0yTUxkUU1oRVhEZ2N4ZmJoU2pxOWxMWmhJcW0xeXNBdEtzdklyaGxnR0ZnVWJEb0tzcERWZlB2bjY1Y2U2NEtzV0JnZTFaMUdOVGY2OHhrNU9pVHV4SjZIclFIQ2NDakZpRUg5ZzVQM25fN2wwMFp1S3V6M0xaaUFwQmp0dzRnRDhXT1RwUXowN01wSXJxdmFLTWxkSW1paF9R0gHcAUFVX3lxTE9XZTdhb1BhbzRUSnd4Mk9RbVRwVERuU0Nfb2FVQlZHUXZNMnc0cXprNm5UalkyVmE2aVN6Y2Zab010NjRmZFpkaW14WExkaVF2YTMwUDFUbkRhRUYtTi01eC1xQ1pKVG52ZTNvQ21JZTNLWE1TYkJ6REJkSXA1VjFWbThtc3QtaGdFRVdGRDZkRHVwNUlxcTVQTGdneXNwTXg5ZUxtWEttWm8yYi1sdjZmdkc2dW1WU2NkZTN4WTBvYmVCcWNRcFR5cm00MEtqOFhTUHhnS2JwNW5kZTI?oc=5
 
 - Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip - NDTV
   Attack On Indian Ship Shows No Route Is Safe In Hormuz
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0VZU2ppU3pzX2JrQmQ0SWYtS0pfU1c1ZE4wVnQ2Rl9tV1lWa2dQNHdkZUI5cDlQMDJaUTVlaUw3aThBRVNKckx5akc4MDhrZ2E2N2RZSXZ0S2dDYUw1QkduVjh6eEYyMnFvRGItaTAtaUllUVlCQmRZMkNLOU1aMGdsWjBfcnhSdHBDeG5NZW5pNnRscTkzc2xNbk5QekU2M0poVVR6ZjVMSFM1UFVITWc0SWE2YmY10gHAAUFVX3lxTE10V3Eyd0dXX19wR0FqYTRSelFjRTVKOHFDUlF1UVg2bzRuYTRuZm43REFJeVEyc25QR1kxTGVmSmVTM3ZyUXBYYXZwOXVmRVhFM3dOT29icEdvNFY1RUFHX25WUU9pZHRKMzZaRkppb29ReWRwUGdNck5TS2N2V0xSWHFnU05TVWM3aXdDbUNvdVJ6SXBNNVRnajNITWVnOTMwQ3UzZ28ydTl4Q2lQXzYyRE55RGw4bnFFZXViVXc5SA?oc=5
 
-- May 15- NEET-UG Exam Rescheduled For June 21; Trump-Xi Conclude Talks In Beijing; Petrol, Diesel Prices Hiked Across India - India Today
-  India Today: Petrol, Diesel Prices Hiked Across India. NEET-UG Exam
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOX3lSNHhWYktJLTZuMjQzUDNKRWdMbHg3TU1YVmd5bGpKeGdXLWhvT2lCNnlKU3lTNUJURFRiVDB0YUxZdmdyMzE2cjE2YmtTZ1hQV0t1OTFxem84SGVaYm5Nb0tfckY2U04zRGdaUlpPYTlTclFCamRGSHlsOEdFUG5oQjg2cVVVeTNEQTU3R1JkV09WYTduVm9YRjJUeVpnbXpnX3BYbU02SnhxVFlscW43c0RYbVh0eVZrRUhTWl84UHV5YU45XzlST01lbGVmUm8zaklOWXJaeWJvaHdjYjBhdXQxWko1REsxeC0xbEVoY0loak1PSFV2XzVSeGxSUkdILUZBVQ?oc=5
+- Why Donald Trump cosying up to Xi may leave India out in cold? - The Times of India
+  Why Donald Trump cosying up to Xi may leave India out in cold
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2JBTVd2U3hDVjdaQ0c5cHRkRnp0aVJ2XzdIOTBCX002UjZzYmpMYTRlaGwtRjlBNC04WXoxdWdRZFB2ZFZERk83aXRUWE9uTVVNOUMxSWVQZ2JJcFlIbzV5NkFqSzVNQnFleGxGZ0FpZVZLNU5uNFljVC01aWtaUEE3WnAyVG5YZmVVMVh2MGxqMnBHMjVmLWczSlBMaTJoZng5QjIxSlpUcktsSHZZNURsUG9ONGEwYi1MeVJ2S2FKNk9qNTZZLVhjTHMxRVFadnFrQ1VzUmROdVppZzhJdG5VSdIB6AFBVV95cUxPdzBmenAxcmFBdGd1N2o5cW44d2draXoxX2M2ZW5MVlB3djY0YzNiZ3JIZmh6VmlYMmJrc1NSMUxQTDNaSWZwZWl5MjFXRE95VE03R3dqUGNqbzc3WFpYbVFGQzd1UkJyLS1yaW9ibk1IMGFBSWNrUnFORU85dDhqY1JaSVdfRGxJeTlTblNRc1d1NnI0d1JJcHNhTWF3S25zUU05UEF0dm9lY3poS1hRSkt5SnVOU0Zua2RicFRfeHVPZ3p5UFB3Y21OV2x5cmNsWTFILXRoS1o1OUp3amU2TC1PNk9zX1Y2?oc=5
 
-- Breaking news live updates, May 15: India, United Arab Emirates sign defence, energy and investment deals during PM Modi visit - The Times of India
-  India and United Arab Emirates sign defence, energy and investment deals during PM Modi visit.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
+- CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher Kulkarni who worked with NTA, leaked paper in Pune | India News - Hindustan Times
+  CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher K
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRGRhdDBFbndjTFFETm1OcHh4bkRhSXVhdUc4QUNPS0NkN1ZGYjRuM0I2VVJKS3Bjd0lZeVRMbm9wZC1wNDJYZEJjcUdKcGNfcDlwMjFTajcySGJ1XzctMDh1SUhvX25PMlRmVlVhVjRCZmdqQ2FBVXQwTk1KdjZ0aWNGLTRfWjRGdHJLeWpxV04zUTNJSEp0bGJYc3kxQmpPTEdyLWZpbEVGOEJVQjZrc0pyUnFSTGptQzI5MkhzaVhzRXZRZ0ZpenFqZ2szNmlVMXNjVGNMR3BZaGJnWmN6QUx4YXp6bWJwTFVmWVgwV0wwWGZXSkZ5NlFkNNIBgAJBVV95cUxNOXM4aEtmTHN6MkZXbV9mdUdCdGFJejNNeVQtUkd6dXB6LUF4RTlZTm9ZeTk5SjRNLUtldHhZY0tub0F0b2c2SktMM212by03ZEpjZEs5NVUtVHdVelZWVDRCeVpYTFc4ckZIZXZEa3dLQmNRZTRQWXdfQW9yc3dVVTdkV1k0c2ZxY1FDcTVIWGR4RWZnMlpIb3ljZmJPV3pZNWFWU1VFdU9SSk11eUtnXzRoWWwtV2ZTakxjZ1l6cnhTLWl1RUJfcXNrVlZTOTFQQ2IxVzlGdFFzbzBFelFubmNGT0oySFZ6Q0QwRUlFd082aE9IdFVESG9wMWdZeDc5?oc=5
 
-- India, UAE sign pacts on LPG, strategic oil reserves to cushion US-Iran war impact | India News - Hindustan Times
-  India, UAE sign pacts on LPG, strategic oil reserves to cushion US
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXdVcFl6d0NyRzVtQnk3b2RkWDZoenFLZHFwWGNDYWRNQ3RVSUoxbjE2bFE4VDJyTHNLOVJwV3JyU1NhQzJxRXk3ek4zYkZIMXdCdk44UG1lb3JVcHMyOHpVS1NlUi0za2dxSFo1b245ZGhKei1rcU1hbG1pWHN5QkNnMnR1eC1jRml2czZ6aHlkMU83N0ZHMXNRcWdLRWoyOC0tYl9XTF9zbVZEWDNJNUJPZ1dJQUR4dTJEUWNleWdlOFJxdkNtSkRvd0RzX2x4Q21NVkwtekhkcV9MeE4zSi11QXNZN1VUakpHTkJPVG9SUdIB9wFBVV95cUxOS3hqVmNKc0ZKYlMwbHRpLWU3TDV6QWhEeUtKTGdQeXVORzFlX1ZhRENhU01PMC12Y2Z5YW5GSnQzTTY2cXYtUzNyak9KRVlwcldfdjBaN3BHdDIydzFWdk1mUU9JRVlqRzJGUVJsOTJUbWFvSm1NNDdRelpjWEd3WHFsNENmekdoSFJQUWM2eERCcTg4RVNVZDJLQkdyRlJxQTJqUTMyZEtjaHZFWHpOOW5ScTZHNllIa1I2YVJva0xLN0tmZWRnQ180bFJfR2lNVTNndVM3WS1Ray03S25LRnc0SzhZd1FHdTBTN1FBZzlzTlktTG1r?oc=5
+- 'India's only ape' species uses bridge to cross rail tracks in Assam. Watch - India Today
+  'India's only ape' species uses bridge to cross rail
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWNKTUxJbm9PMWluNDNmS0pwT1E1U1NJQzNlZVEycGlEak9RekhCSXZVdDRRSEdQaTRvMXRTY1ppT0htVmVpNEtiM0dzYnlaV1plWkYxYzU5eWFpeDVrVmhoNjVRX1dZMUFjeTFiX1BQUjFmOHh3dm5sck9reDhvR19XU0ZrRWJRSTZvU1duRUNRQzFxNS1DNlFhN2dWTGRuTmR4eEtvdnVkTWIxUURRYk1Pa1c2ZEhiMmFJb21lMTFEVFdGLWxHejVud1o3ZVRmV2fSAdcBQVVfeXFMTVRTaUFjc0hoalJ4X2RnS2dKV1VZOUxJR0Zuc0tRc09aRGtScjJzZTVIYnFkbmh3NThLbGRCZGFDbm5PQWNQdUJzczRTU2x3cHQ3VUJxTU43cjB2eklNOHFuR2diZklZVnJncW9pblFKcndrbHFOVnkzOFE1RlNVRlBrQUFGdVZaM2dFVHlmdThVeUtQODNSRm1aQ3BxZWNXZlhQVGNJS0FfMVJhcTJ4Ukdwd25JZWFFYWNvN1RlZ0NVRGhSdXpGdi1LeDNGcEJsck5sM2FrRXc?oc=5
+
+- India can play ‘greater role’ for peace in West Asia, says Iranian Foreign Minister Araghchi - The Hindu
+  India can play ‘greater role’ for peace in West
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbkdUTXBHWVd3eFNhWm5fMWhqVXZHU2VMb3pHSTN2SXFMdHRWdDZaWTc2U0tDNVg1LTVWWE0yTUxkUU1oRVhEZ2N4ZmJoU2pxOWxMWmhJcW0xeXNBdEtzdklyaGxnR0ZnVWJEb0tzcERWZlB2bjY1Y2U2NEtzV0JnZTFaMUdOVGY2OHhrNU9pVHV4SjZIclFIQ2NDakZpRUg5ZzVQM25fN2wwMFp1S3V6M0xaaUFwQmp0dzRnRDhXT1RwUXowN01wSXJxdmFLTWxkSW1paF9R0gHcAUFVX3lxTE9XZTdhb1BhbzRUSnd4Mk9RbVRwVERuU0Nfb2FVQlZHUXZNMnc0cXprNm5UalkyVmE2aVN6Y2Zab010NjRmZFpkaW14WExkaVF2YTMwUDFUbkRhRUYtTi01eC1xQ1pKVG52ZTNvQ21JZTNLWE1TYkJ6REJkSXA1VjFWbThtc3QtaGdFRVdGRDZkRHVwNUlxcTVQTGdneXNwTXg5ZUxtWEttWm8yYi1sdjZmdkc2dW1WU2NkZTN4WTBvYmVCcWNRcFR5cm00MEtqOFhTUHhnS2JwNW5kZTI?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-15 08:48:06 UTC_
+_Last updated: 2026-05-15 13:57:04 UTC_
