@@ -1,6 +1,18 @@
 # 📰 Daily News Summaries
 
-- PM Modi dismisses report claiming tax on foreign travel: ‘Not an iota of truth’
+- What is ‘jihadi drug’? NCB seizes ‘Captagon’ worth Rs 182 crore for first time, says Amit Shah
+  
+  🔗 https://indianexpress.com/article/india/what-is-jihadi-drug-ncb-seizes-captagon-worth-rs-182-crore-for-first-time-says-amit-shah-10692510/
+
+- J-K: Cop shoots wife dead during quarrel, attempts suicide; hospitalised
+  
+  🔗 https://indianexpress.com/article/india/j-k-cop-shoots-wife-dead-attempts-suicide-10692364/
+
+- ‘No AIADMK in Tamil Nadu government’: TVK ally’s message to Vijay after trust vote
+  
+  🔗 https://indianexpress.com/article/india/karti-chidambaram-cm-vijay-aiadmk-mlas-cabinet-warning-10692280/
+
+- PM Modi blasts report claiming tax on foreign travel: ‘Not an iota of truth’
   
   🔗 https://indianexpress.com/article/india/pm-modi-report-tax-foreign-travel-truth-10692029/
 
@@ -8,17 +20,13 @@
   
   🔗 https://indianexpress.com/article/india/gig-workers-stuck-in-queues-2000-buses-off-roads-panic-buying-of-fuel-leads-to-disruptions-in-odisha-no-shortage-says-govt-10691863/
 
-- From boycott calls to packed theatres: Why this hit film has divided opinion in Jharkhand
+- WFH essentials 2026: From portable monitor to power bank, a quick guide
   
-  🔗 https://indianexpress.com/article/india/from-boycott-calls-to-packed-theatres-why-this-hit-film-has-divided-opinion-in-jharkhand-10691825/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/wfh-essentials-2026-from-portable-monitor-to-power-bank-a-quick-guide-10691384/
 
-- Oxfam India activities are against country’s economic interest, MHA tells High Court
+- Artemis III: Nasa plans complex Earth orbit trial for Moon missions
   
-  🔗 https://indianexpress.com/article/india/oxfam-india-activities-are-against-countrys-economic-interest-mha-tells-high-court-10691961/
-
-- Kiren Rijiju: Rahul Gandhi not following protocol for foreign visits
-  
-  🔗 https://indianexpress.com/article/india/kiren-rijiju-rahul-gandhi-not-following-protocol-for-foreign-visits-10691959/
+  🔗 https://indianexpress.com/article/technology/science/artemis-iii-nasa-plans-complex-earth-orbit-trial-for-moon-missions-10692199/
 
 - Culture is key to building rural innovation ecosystems: Phani Sama, co-founder, Kakatiya Sandbox
   
@@ -32,15 +40,15 @@
   
   🔗 https://indianexpress.com/article/technology/science/brazil-microfossils-debunked-earliest-animals-algae-bacteria-study-10691277/
 
-- Asus ExpertBook Ultra review: Thin, light, and surprisingly powerful
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/asus-expertbook-ultra-review-10691130/
+- OpenAI gives Greg Brockman more control in massive shake-up, Head of ChatGPT moved: Report
+  OpenAI has reorganized its leadership amid ongoing legal disputes with Elon Musk. Brockman's control over
+  🔗 https://www.livemint.com/companies/news/openai-gives-greg-brockman-more-control-in-massive-shake-up-head-of-chatgpt-moved-report-11778896850747.html
 
-- Beware: Are you falling for scams through spam calls?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/beware-are-you-falling-for-scams-through-spam-calls-10691045/
+- Portfolio reshuffle: Berkshire onboards Delta, triples Alphabet stake; sheds Visa, Mastercard, Domino's Pizza
+  Berkshire bought $15.94 billion and sold $24.09 billion of stocks in
+  🔗 https://www.livemint.com/companies/news/portfolio-reshuffle-berkshire-onboards-delta-triples-alphabet-stake-sheds-visa-mastercard-dominos-pizza-11778898742263.html
 
-- From blockbuster IPO buzz to Nasdaq debut plans: 10 things to know about Elon Musk-led SpaceX listing
+- Elon Musk’s SpaceX IPO plans: 10 things to know about Nasdaq listing buzz
   SpaceX is reportedly preparing for a blockbuster Nasdaq debut that could value the company at nearly $1.75 trillion. From the IPO timeline and valuation target to Star
   🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-eyes-june-ipo-on-nasdaq-in-what-could-become-the-biggest-public-listing-ever-report-11778892624465.html
 
@@ -52,33 +60,37 @@
   SpaceX plans to debut on Nasdaq with an IPO potentially as early as June 12. The listing could be one of the largest public offerings in recent years, amid a recovering IPO market.
   🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-fast-tracks-ipo-timeline-eyes-june-12-nasdaq-listing-report-11778890615193.html
 
-- Berkshire Hathaway triples Alphabet stake and invests in Delta and Macys under new CEO
-  Berkshire Hathaway triples Alphabet stake
-  🔗 https://www.livemint.com/companies/berkshire-hathaway-triples-alphabet-stake-and-invests-in-delta-and-macys-under-new-ceo-11778885136179.html
+- Expert View | How can new investors navigate stock market volatility? Devang Mehta explains
+  Short-term noise can create volatility inside the investor’s mind, says Devang Mehta, CIO at Spark Capital Private
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-retail-investors-conviction-will-be-tested-if-crude-shock-derails-earnings-devang-mehta-11778846787933.html
 
-- Exclusive-SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say
-  SpaceX targets June 12 listing on
-  🔗 https://www.livemint.com/companies/exclusivespacex-accelerates-ipo-timeline-targets-june-12-listing-on-nasdaq-sources-say-11778874615504.html
+- Top-performing small-cap stocks of FY27 so far
+  These high-growth small-cap companies are
+  🔗 https://www.livemint.com/market/stock-market-news/top-performing-smallcap-stocks-fy27-early-wealth-creators-11778912838243.html
 
-- Curious Yen Spikes Have Traders Gaming Japan ‘Warning Shots’
-  Every few trading sessions, the yen jolts higher
-  🔗 https://www.livemint.com/market/curious-yen-spikes-have-traders-gaming-japan-warning-shots-11778892681007.html
+- Can PM Modi's visit to UAE, other four countries find a solution to the soaring oil prices problem?
+  Prime Minister Modi's five-nation tour aims to secure long-term energy supplies. The visit highlights India's strategy to diversify crude sourcing and strengthen energy security.
+  🔗 https://www.livemint.com/market/commodities/can-pm-modis-visit-to-uae-other-four-countries-find-a-solution-to-the-soaring-oil-prices-problem-11778910911757.html
 
-- Bond market prices in possible RBI rate hikes after fuel price increase
-  Market participants and economists said the rise in yields reflects growing concerns that higher oil prices could raise inflation and weaken the rupee. They remain divided on whether the Reserve Bank of India
-  🔗 https://www.livemint.com/market/bond-market-rbi-rate-hikes-petrol-diesel-price-increase-11778769883814.html
+- ICICI Bank, Bajaj Finance to SBI: Axis Securities picks top banking, NBFC stocks to buy post Q4 results 2026
+  India's banking sector is recovering with improved asset quality and credit growth. Axis Securities recommends top picks among private and PSU banks.
+  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-bajaj-finance-to-sbi-axis-securities-picks-top-banking-nbfc-stocks-to-buy-post-q4-results-2026-11778904887572.html
 
-- Emerging Markets Join Global Selloff as Borrowing Costs Soar
-   Emerging-market assets tumbled Friday on renewed concern the conflict in the Middle East would push up inflation worldwide.
-  🔗 https://www.livemint.com/market/emerging-markets-join-global-selloff-as-borrowing-costs-soar-11778878727122.html
+- Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
+  Nifty slipped below 23,300, while Sensex corrected nearly 3,400 points. Key levels to watch are 23,850 for bullish momentum and 23,500 for potential declines
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11778902334114.html
 
-- Yield-Hungry Investors Bet on Credit as Government Debt Sours
-  Credit investors enticed by high yields are buying up corporate bonds. They are shrugging off the lingering Middle
-  🔗 https://www.livemint.com/market/yieldhungry-investors-bet-on-credit-as-government-debt-sours-11778875471209.html
+- Google's new Gemini Intelligence's ‘advanced’ spec requirements may even exclude older Pixel and Samsung flagships
+  A new developer page has suggested even older Google and Samsung flagships may not get the AI features. The lack of an official compatibility list for Gemini Intelligence has raised concerns over which
+  🔗 https://www.livemint.com/technology/tech-news/bad-news-for-pixel-and-samsung-users-gemini-intelligence-advance-spec-requirements-could-exclude-older-premium-androi-11778907764490.html
 
-- Dollar climbs for fifth straight day as Treasury yields surge
-  Dollar climbs for fifth straight day as
-  🔗 https://www.livemint.com/market/dollar-climbs-for-fifth-straight-day-as-treasury-yields-surge-11778872652229.html
+- AI job takeover fears rise: 10 human skills that machines may still struggle to replace
+  As AI reshapes workplaces across industries, some human abilities may remain difficult to automate. From emotional intelligence and creativity to leadership and ethical decision-making, here
+  🔗 https://www.livemint.com/technology/ai-job-takeover-fears-rise-10-human-skills-that-machines-may-still-struggle-to-replace-11778911039205.html
+
+- What is Weights.gg? OpenAI quietly acquired a startup famous for AI deepfake voices
+  OpenAI has acquired Weights.gg, a startup focused on AI voice replication tools. The startup ceased operations in
+  🔗 https://www.livemint.com/technology/tech-news/what-is-weights-gg-openai-quietly-acquired-a-startup-famous-for-ai-deepfake-voices-11778902720868.html
 
 - You can now connect bank accounts, track spending and ask personal finance questions to ChatGPT
   OpenAI has introduced a Personal Finance feature in ChatGPT. It allows users
@@ -88,125 +100,65 @@
   Tech CEOs summoned to Congress for another hearing on
   🔗 https://www.livemint.com/technology/tech-ceos-summoned-to-congress-for-another-hearing-on-social-medias-risks-for-children-11778865978171.html
 
-- I will be skipping a gaming laptop for a thin and light laptop in 2026 and you should too
-  This guide helps you choose the right laptop for your daily needs. From gaming laptops to thin
-  🔗 https://www.livemint.com/technology/gadgets/i-will-be-skipping-a-gaming-laptop-for-a-thin-and-light-laptop-in-2026-and-you-should-too-11778840544526.html
+- Multibaggers, mirages and market math
+  An experiment demonstrates how survivorship bias can create the illusion of market genius. This bias also influences equity investing, leading investors to chase multi-baggers without considering the underlying conditions that enable such gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-mirages-and-market-math/articleshow/131133450.cms
 
-- From Essential to Fire Phone: 10 smartphone startups and brands that failed despite massive hype
-  The smartphone industry has seen several ambitious startups and tech giants collapse despite huge hype, celebrity founders, and innovative ideas. From Amazon's Fire Phone to Andy Rubin’s Essential and
-  🔗 https://www.livemint.com/technology/from-essential-to-fire-phone-10-smartphone-startups-and-brands-that-failed-despite-massive-hype-11778829097916.html
+- Eternal, HDFC Bank among 10 stocks which saw highest DII buying in Q4. How many do you own?
+  DIIs sharply increased stakes in major banks, IT, telecom and consumer stocks
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-hdfc-bank-among-10-stocks-which-saw-highest-dii-buying-in-q4-how-many-do-you-own/slideshow/131133389.cms
 
-- Big Tech turns to Sesame Street, Girl Scouts to deflect scrutiny over kids screen time
-  CNN.com will feature iReporter photos in
-  🔗 https://www.livemint.com/technology/big-tech-turns-to-sesame-street-girl-scouts-to-deflect-scrutiny-over-kids-screen-time-11778787176237.html
+- India’s gold import duty hike: A double-edged sword
+  India has raised gold import duty to 15% and urged citizens to buy less gold. This move targets foreign reserves and the rupee's value. However, India's strong cultural demand for gold may limit effectiveness.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-import-duty-hike-a-double-edged-sword/articleshow/131133111.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq sink as yields jump amid inflation jitters - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq sink
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHV0UHhxdHh2aWJMMHhpYjZXTnBLclZkVVltcmVSM2tLU1RPZXlXbWxXSWk2eHN4VjJTYUxMaFg4U1VZcnR4VkVDRzV4Y3ZpR0J5ZjdtWU5UUktVa01CUjlndG5LcWpLWVN1OFR0YzR3TERXejFUXzlHME1xaHpjazJQeWhIUlhwNVRVREZWejkzTWNFRW5neEdrc09KTHZELXZVLUJDV0FCb3NHd0thb2lXT1hYUTQzUnQ3YzRPX21lMlhTc2pCSXFiQzRlZw?oc=5
+- Mastering trading psychology in today’s volatile global market
+  Fear and greed amplify during corrections and rallies, leading to poor timing. Discipline and focusing on strengths, not mistakes, are key. Avoid overactivity and herd behavior.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/mastering-trading-psychology-in-todays-volatile-global-market/articleshow/131132887.cms
 
-- Stock Market News, May 15, 2026: 30-Year Bond Yield Hits Highest Level Since 2007 - WSJ
-  Stock Market News, May 15, 2026: 30-
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDVmS1JLOHlTU280RnBTY2JFWUxYMG0xZ3dFR3hzMmw5VVNGbTQ5WV9WelhobFZJWkNJV2xYMENSZGhlZ0tXVWhlR19ueG94ZXFVS3lwWUM2YkhSOFlmTTRfczRxaE51a25haHBkQmNwLVhtT05BczloLW52djFEQVZiWFgtcUU?oc=5
+- Reliance Industries, TCS, HDFC Bank among 10 companies with highest FII selling in Q4. Do you own any?
+  Foreign institutional investors have sold $53 billion worth of Indian equities since late 2024. HDFC Bank, Kotak Mahind
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-tcs-hdfc-bank-among-10-companies-with-highest-fii-selling-in-q4-do-you-own-any/slideshow/131132836.cms
 
-- Markets News, May 15, 2025: Stocks Sink, But S&P 500 Rises for 7th Straight Week; Oil Prices Surge; Bond Yields Hit Highest Level in Year - Investopedia
-  Markets News, May 15, 2025: Stocks Sink, But S&amp;P 500 Rises
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQc012RmRtMUhnYWUzUDNxRlJtQ3ROcEdYTm1NcHJyYWV3T0R3eGJGZHdvdFM2bkZlWVJTbDNzelQ1TldKZldBYlA1YUVBWVZveHU4LURkS09PX1hVOGFuQklhZzVIbkZwSGdYUURJUHlfM3MxLW1DNWZ0TEdUWXE5SGphUktFa2c0Rnp6c0FSRGI?oc=5
+- "Not An Iota Of Truth": PM Modi Rejects Report On Foreign Travel Tax - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlMxR2xaUnBOd2dOZ21xV3lzcC1oOWVmaGphM3hfQ21yeTdxUkZLaFhoNlNOS2dqWm5XZ05tajIydUJNOFd2RFJSWnY1bmE4bmNLX0hsZGZOOXFLdHB5a2FucXdTOEtWbm
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlMxR2xaUnBOd2dOZ21xV3lzcC1oOWVmaGphM3hfQ21yeTdxUkZLaFhoNlNOS2dqWm5XZ05tajIydUJNOFd2RFJSWnY1bmE4bmNLX0hsZGZOOXFLdHB5a2FucXdTOEtWbml0VXg4ZHZlSG9McU9pRGUzZEJvQ2Vib0RtWGNiU3RkZTVvQlpLeFA3MHd6eW5NWVZINjl5WWtmbTJBbGZidHFSWEQ3VENsY19YcTRaUW5H0gHAAUFVX3lxTFAyV2pwSENkLV8wYkh1SHVxdWowQmdGOTRwWl8yNkxLdjVNbDRTSTNoWUpKZmVLdEg0WExXSG9ZSzdULXhlWklOMjF3enoyS0ZWMDBQOE9ScGVFek1IS0VTNnpLSmN2WGx6OTFJZmloa200cVJTWnUyYWhzOU9SMzkyZ0lzS2RxdVN2ZFl1WnBiWkI2OHNmd3hMUUpMUndsZTNiM1dtdmZDZVFmamRsUGpubFUzMXFyLUVwaTZsQkRybQ?oc=5
 
-- Stock Market Highlights, Sensex Today: Markets End Week In Red, India Hikes Fuel Prices - NDTV
-  Stock Market Highlights, Sensex Today: Markets End Week In
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkFUYnpyUTNkRHF0VE9fNDBOaVdIUGUwdFBPZHJvSXdOalk2LTZ1aFdFaHZiVEhFODFDeWhTOXMwNnNxZDd5V2dnVDBHbTZqcXJRX2k1V25VekpPbDBjSTduN2J2eU9nQjBGSXAwVXpBd3Y0djQ2bTRnczZZamJRSzdRbUIxT0lySWVfXzAyTXZKTkxDX0JPYkEyTlV2UmpkTmtJN295ZVN3c2E0UTM0OF82N0dDVzNEQ2FpNXBxMzdVSXgxNFBEQVZVazhYYmdReVpid0piM3I3bkZxakHSAeYBQVVfeXFMUDZYVjVoN1FuMXdaSlN3MlVSVlQ5R1JiWUJZTzg0MXRQYU1NUFlwVGctanBxRlpka3VrMGRBS0Y0ZlZnbnlZei1HZEk1bVZZQTlHY0ZmZmlNaE5PRmhBd0RXZzhiUXVlZWx5dTRJYXVlUWp3WTRnNUdleGRQbDEwUzZoOWZxNjhiQmdKLTlWanBEcjlJZWxWWXowcEhmNXpyY3hoN05TWGt4OFpPREp0M3E1Z1VJNlBqS2RoallBWkxCSE44c2hfUUJObmdEWHIxcFJTYVlqLXJsZFhHWlRCNVM5OHRid2c?oc=5
+- Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
+  The Times of India has published an article on the Karg
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
 
-- Sensex settles 600 pts lower from day's high, Nifty ends below 23,650: Rupee at 96/$ among key factors behind sharp market decline - Moneycontrol.com
-  Sensex settles 600 pts lower from day's high, Nifty ends below 23,650. Ru
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT2M4UVlVaEhBaWhneFBHelNITWtEc1VXOVVIeV90VWJ6UVRmVUpyblVjT1FSN2sxNnNuR3I2al9PTEpSNDhTQy1vejNIRGlEVTdXYU5QbUxkY0R3RnZiVVFaUDdlbmM3M3pNMFRQVm1GVTYzZnVhRGs2bVRxVHNsb2hZeTlWb3EweEJiYVVnTldoVjVic0dJbnNORWc0ZDdtQWNESFpFX1d6N0NUVG9lWWpyU3Bxb19vNzFXelJSYUNVd0d3TnJBZHp0VjJFU1dVV1ktVV8tRHN5YWNSWTZfd2Z2clRQWGZvTGIySUpEVWpuZw?oc=5
-
-- US stocks today: Dow Jones crashes 500 points on mounting inflation worries
-  U.S. stocks pulled back from record highs as rising crude oil prices and surging Treasury yields triggered fresh inflation concerns. The selloff hit AI-driven tech stocks hardest, while markets reassessed rate hike risks
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-on-mounting-inflation-worries/articleshow/131127334.cms
-
-- SpaceX accelerates IPO timeline, targets June 11 pricing on Nasdaq
-  Elon Musk’s SpaceX is accelerating its IPO plans, with pricing expected around June 11 and a potential market debut by June 12. The company has fast-tracked filings after a quicker SEC review.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-accelerates-ipo-timeline-targets-june-11-pricing-on-nasdaq/articleshow/131126597.cms
-
-- JSW Steel posts 13-fold rise in profit for March quarter; to double capacity in 6 years
-  JSW Steel reported a nearly 13-fold surge in Q4 profit driven by an exceptional gain and record volumes. The company plans aggressive expansion, targeting 78 million tonne capacity by FY
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-13-fold-rise-in-profit-for-march-quarter-to-double-capacity-in-6-years/articleshow/131122142.cms
-
-- SAIL Q4 Results: Cons PAT surges 47% YoY to Rs 1,835 crore, revenue rises 5%
-  SAIL reported a strong Q4FY26 performance with net profit rising 47% year on year and revenue growing 5%. Sequential profit surged sharply, EBITDA improved significantly, and the board recommended
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q4-results-cons-pat-surges-47-yoy-to-rs-1835-crore-revenue-rises-5/articleshow/131122112.cms
-
-- Sebi, CBDT ease PAN rules for foreign investors after onboarding concerns
-  Sebi and CBDT relaxed PAN compliance requirements for foreign portfolio investors. The clarifications simplify documentation, contact disclosures and taxpayer identification requirements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cbdt-ease-pan-rules-for-foreign-investors-after-onboarding-concerns/articleshow/131120193.cms
-
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
-
-- India and UAE sign defence pacts, as Iran war tensions simmer - Al Jazeera
-  India and UAE sign defence pacts, as Iran
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFNIcGNkSDBTMWFwLVNNX0dKc0tkZHZyR29iWHVHbjJXemwwMFQwSzl2NDhrR24wVW1ibFhRLW9Xb0RmX2N5SHZ2bkhPNm1ETEVIQzFXZDVieXVmYkpudXhkSUt3dFVXbnVuakl4dHVZeEU5VjhRN3ZUUXAwa3AzcFFzd1Nja0syOFZ1cjE1UFRVY1Q3VUtlMkNQR0ZxTmwwSWxR0gGoAUFVX3lxTE56cGVPUEpJZjFrZ2tPcEJmYk5ILW5LSG1PbFZ1VHBDRS1KdVdkalRBbjVScGZVS0pjMGhZYjRhbjNvbUN4QnZSSElDYTVWbHFELXhNanctYkhnSHlLd2s1MHRFakJZU0hGTVUtZDhyNkQyUlBHZnhPcVV3eXNfRTYtUGRqeFAzOWlXZ3otYzd3dVlNT2FFSFJyOGVzejB1VGZMZkNCOEhCVQ?oc=5
+- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
+  "If Pak Continues To Operate Against
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
 
 - Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
   Indian Air Force Officers Recount "Once In A Lifetime
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- Monsoon set to hit Kerala early on May 26, says IMD amid El Nino warning | India News - Hindustan Times
-  Monsoon set to hit Kerala early on May 26, says IMD amid El N
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnBVUndHSnVJOHlSZjhHWWs3WFFhQWNKZmNnbEZEdlhsOG94bmljdXUtQ01PWG9rY1RsX09KWjdwZEpSY2FwRzVVejhzR29SSjlEUllUODczcGMxZ19ONV9aTElBYkkzRkx4NVZ6VjNNZHp1dHFQRFdDUHo5VUoxQjZaU1E0UW11VTVRaXlvajVMWERUN0p4aUw4ZjdQaGRSejE3UXcwWGdvMHAzMFJ4bmxBdU1Nd0h2d2JldmZHekkxbW0wTlJMRFRCaVIzLTjSAdQBQVVfeXFMTkhqMnpKVDI0Z1JEcUxVSkpWUUN5dThkZXRMN3FBVkF5dHFxal9mXzUtMmtFVFRSY2lQRGJzNHJsZU9ucEd1SEZiaEZpVE1JTnpzVnJpY21CRnUtQmcxaXQ2a1Utb01laE1fMndISEVHcklMeklMeWpnUFhDWWVaNmdfVFk5M0p4MVF3ZDlnSmJkZ3JPQjR6cWRPQi1GbW1kbWM1aTJlSG1YZW5hamZGWDJZTVE1NVR6anIyUWZiTDVGX3N6TXpSZFl1dlFNNURCcEhZNkM?oc=5
+- Home Affairs Ministry officially sanctioned raising of additional India Reserve Battalion in Tripura - News On AIR
+  Home Affairs Ministry officially sanctioned raising of additional India Reserve Battalion in Trip
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXRLeGlDLXVlcUFyaWhHX2VhYXlOZkxJUm9aaXY5OG9KLTNWS3MwNVJEdVJSaFdWVGpHRlVFVHFzWlFBYmtIOVpndlhvRlNpN2lDR3lwOUdJN2ZSTGlqbk9XWV92SHROUUdSTi02OEwwMjBMSWM4YkdpV2k5RGdpSi0weHBMckJDZXFDTGRjYXpscUlVaERiajFzQW01V1ZXY3YwM09Lb3VzdS1DZFhNc2pZZlJZdXRUMmVvN0ZpczdiWF90cEVLRVRR?oc=5
 
-- Punjab Police busts one of largest cyber fraud syndicates in northern India - News On AIR
-  Punjab Police busts one of largest cyber fraud synd
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCUGVlRWduSld4ck9XNmtUTXlWbExvaUxXVi1HenVyb0hsSVpnVHM4cTV5T1A5cHBfdUx5UC1QZ2dKWHpiVGxTcXVROWZJU29wcmFnWGlSQTVZdXlvN0YtMXlhUGN3RjlKUDhxRlBSU245VHBLa0w3cGpLSEp4ZlJMN09FeThtR0RJNWY2alBic3Z4elJpOVFjaWZfTmlEdkRFdEVDMms?oc=5
+- "Not An Iota Of Truth": PM Modi Rejects Report On Foreign Travel Tax - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlMxR2xaUnBOd2dOZ21xV3lzcC1oOWVmaGphM3hfQ21yeTdxUkZLaFhoNlNOS2dqWm5XZ05tajIydUJNOFd2RFJSWnY1bmE4bmNLX0hsZGZOOXFLdHB5a2FucXdTOEtWbm
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlMxR2xaUnBOd2dOZ21xV3lzcC1oOWVmaGphM3hfQ21yeTdxUkZLaFhoNlNOS2dqWm5XZ05tajIydUJNOFd2RFJSWnY1bmE4bmNLX0hsZGZOOXFLdHB5a2FucXdTOEtWbml0VXg4ZHZlSG9McU9pRGUzZEJvQ2Vib0RtWGNiU3RkZTVvQlpLeFA3MHd6eW5NWVZINjl5WWtmbTJBbGZidHFSWEQ3VENsY19YcTRaUW5H0gHAAUFVX3lxTFAyV2pwSENkLV8wYkh1SHVxdWowQmdGOTRwWl8yNkxLdjVNbDRTSTNoWUpKZmVLdEg0WExXSG9ZSzdULXhlWklOMjF3enoyS0ZWMDBQOE9ScGVFek1IS0VTNnpLSmN2WGx6OTFJZmloa200cVJTWnUyYWhzOU9SMzkyZ0lzS2RxdVN2ZFl1WnBiWkI2OHNmd3hMUUpMUndsZTNiM1dtdmZDZVFmamRsUGpubFUzMXFyLUVwaTZsQkRybQ?oc=5
 
-- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
-  Why Modi wants Indians to buy less gold and take fewer
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
+- Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
+  The Times of India has published an article on the Karg
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
 
-- India and UAE sign defence pacts, as Iran war tensions simmer - Al Jazeera
-  India and UAE sign defence pacts, as Iran
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFNIcGNkSDBTMWFwLVNNX0dKc0tkZHZyR29iWHVHbjJXemwwMFQwSzl2NDhrR24wVW1ibFhRLW9Xb0RmX2N5SHZ2bkhPNm1ETEVIQzFXZDVieXVmYkpudXhkSUt3dFVXbnVuakl4dHVZeEU5VjhRN3ZUUXAwa3AzcFFzd1Nja0syOFZ1cjE1UFRVY1Q3VUtlMkNQR0ZxTmwwSWxR0gGoAUFVX3lxTE56cGVPUEpJZjFrZ2tPcEJmYk5ILW5LSG1PbFZ1VHBDRS1KdVdkalRBbjVScGZVS0pjMGhZYjRhbjNvbUN4QnZSSElDYTVWbHFELXhNanctYkhnSHlLd2s1MHRFakJZU0hGTVUtZDhyNkQyUlBHZnhPcVV3eXNfRTYtUGRqeFAzOWlXZ3otYzd3dVlNT2FFSFJyOGVzejB1VGZMZkNCOEhCVQ?oc=5
+- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
+  "If Pak Continues To Operate Against
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
 
 - Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
   Indian Air Force Officers Recount "Once In A Lifetime
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- Monsoon set to hit Kerala early on May 26, says IMD amid El Nino warning | India News - Hindustan Times
-  Monsoon set to hit Kerala early on May 26, says IMD amid El N
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnBVUndHSnVJOHlSZjhHWWs3WFFhQWNKZmNnbEZEdlhsOG94bmljdXUtQ01PWG9rY1RsX09KWjdwZEpSY2FwRzVVejhzR29SSjlEUllUODczcGMxZ19ONV9aTElBYkkzRkx4NVZ6VjNNZHp1dHFQRFdDUHo5VUoxQjZaU1E0UW11VTVRaXlvajVMWERUN0p4aUw4ZjdQaGRSejE3UXcwWGdvMHAzMFJ4bmxBdU1Nd0h2d2JldmZHekkxbW0wTlJMRFRCaVIzLTjSAdQBQVVfeXFMTkhqMnpKVDI0Z1JEcUxVSkpWUUN5dThkZXRMN3FBVkF5dHFxal9mXzUtMmtFVFRSY2lQRGJzNHJsZU9ucEd1SEZiaEZpVE1JTnpzVnJpY21CRnUtQmcxaXQ2a1Utb01laE1fMndISEVHcklMeklMeWpnUFhDWWVaNmdfVFk5M0p4MVF3ZDlnSmJkZ3JPQjR6cWRPQi1GbW1kbWM1aTJlSG1YZW5hamZGWDJZTVE1NVR6anIyUWZiTDVGX3N6TXpSZFl1dlFNNURCcEhZNkM?oc=5
-
-- Punjab Police busts one of largest cyber fraud syndicates in northern India - News On AIR
-  Punjab Police busts one of largest cyber fraud synd
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCUGVlRWduSld4ck9XNmtUTXlWbExvaUxXVi1HenVyb0hsSVpnVHM4cTV5T1A5cHBfdUx5UC1QZ2dKWHpiVGxTcXVROWZJU29wcmFnWGlSQTVZdXlvN0YtMXlhUGN3RjlKUDhxRlBSU245VHBLa0w3cGpLSEp4ZlJMN09FeThtR0RJNWY2alBic3Z4elJpOVFjaWZfTmlEdkRFdEVDMms?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Home Affairs Ministry officially sanctioned raising of additional India Reserve Battalion in Tripura - News On AIR
+  Home Affairs Ministry officially sanctioned raising of additional India Reserve Battalion in Trip
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXRLeGlDLXVlcUFyaWhHX2VhYXlOZkxJUm9aaXY5OG9KLTNWS3MwNVJEdVJSaFdWVGpHRlVFVHFzWlFBYmtIOVpndlhvRlNpN2lDR3lwOUdJN2ZSTGlqbk9XWV92SHROUUdSTi02OEwwMjBMSWM4YkdpV2k5RGdpSi0weHBMckJDZXFDTGRjYXpscUlVaERiajFzQW01V1ZXY3YwM09Lb3VzdS1DZFhNc2pZZlJZdXRUMmVvN0ZpczdiWF90cEVLRVRR?oc=5
 
 
-_Last updated: 2026-05-16 02:33:28 UTC_
+_Last updated: 2026-05-16 07:59:51 UTC_
