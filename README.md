@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- BRICS foreign ministers condemn Pahalgam attack, voice concerns over rise of tariff measures ‘which distort trade’
+- PM Modi dismisses report claiming tax on foreign travel: ‘Not an iota of truth’
   
-  🔗 https://indianexpress.com/article/india/brics-foreign-ministers-condemn-pahalgam-attack-trade-tariffs-china-india-10691700/
+  🔗 https://indianexpress.com/article/india/pm-modi-report-tax-foreign-travel-truth-10692029/
 
-- ‘His exam had gone well’: NEET aspirant dies by suicide in Sikar, family links it to cancellation
+- Gig workers stuck in queues, ‘2,000 buses off roads’: Panic buying of fuel leads to disruptions in Odisha, no shortage says govt
   
-  🔗 https://indianexpress.com/article/india/neet-aspirant-suicide-sikar-paper-leak-cancellation-pradeep-mahich-10691738/
+  🔗 https://indianexpress.com/article/india/gig-workers-stuck-in-queues-2000-buses-off-roads-panic-buying-of-fuel-leads-to-disruptions-in-odisha-no-shortage-says-govt-10691863/
 
-- Public being made to pay for Modi goverment’s mistakes: Opposition on fuel price hike
+- From boycott calls to packed theatres: Why this hit film has divided opinion in Jharkhand
   
-  🔗 https://indianexpress.com/article/india/fuel-price-hike-rahul-gandhi-kharge-akhilesh-yadav-modi-govt-opposition-reaction-10691714/
+  🔗 https://indianexpress.com/article/india/from-boycott-calls-to-packed-theatres-why-this-hit-film-has-divided-opinion-in-jharkhand-10691825/
 
-- West Bengal signs pact with Centre to implement PM-SHRI sheme
+- Oxfam India activities are against country’s economic interest, MHA tells High Court
   
-  🔗 https://indianexpress.com/article/india/west-bengal-signs-pm-shri-schools-mou-nep-2020-samagra-shiksha-funds-10691707/
+  🔗 https://indianexpress.com/article/india/oxfam-india-activities-are-against-countrys-economic-interest-mha-tells-high-court-10691961/
 
-- ‘Not bothered about car’s colour’: Kerala’s CM-designate says no to new vehicle, vows to have minimal convoy
+- Kiren Rijiju: Rahul Gandhi not following protocol for foreign visits
   
-  🔗 https://indianexpress.com/article/india/kerala-cm-designate-v-d-satheesan-austerity-measures-no-new-car-convoy-10691671/
+  🔗 https://indianexpress.com/article/india/kiren-rijiju-rahul-gandhi-not-following-protocol-for-foreign-visits-10691959/
+
+- Culture is key to building rural innovation ecosystems: Phani Sama, co-founder, Kakatiya Sandbox
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/phani-sama-redbus-kakatiya-sandbox-nizamabad-rural-innovation-interview-10691644/
 
 - Xbox Elite 3 controller leak suggests new features and a removable battery
   
@@ -36,49 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/beware-are-you-falling-for-scams-through-spam-calls-10691045/
 
-- OpenAI brings coding tool Codex to ChatGPT phone app
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-brings-coding-tool-codex-to-chatgpt-phone-app-10691044/
+- From blockbuster IPO buzz to Nasdaq debut plans: 10 things to know about Elon Musk-led SpaceX listing
+  SpaceX is reportedly preparing for a blockbuster Nasdaq debut that could value the company at nearly $1.75 trillion. From the IPO timeline and valuation target to Star
+  🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-eyes-june-ipo-on-nasdaq-in-what-could-become-the-biggest-public-listing-ever-report-11778892624465.html
 
-- Sherritt to Dissolve Cuba Mining Venture Due to US Sanctions
-  Sherritt International Corp. said it will seek to dissolve its nickel mining joint venture on the island due to US sanctions. Sher
-  🔗 https://www.livemint.com/companies/sherritt-to-dissolve-cuba-mining-venture-due-to-us-sanctions-11778869834455.html
+- Reliance Jio tweaks feature phone strategy after regulatory scrutiny of tariff practices
+  Trai had flagged Jio’s device-specific recharge plans as discriminatory. Trai
+  🔗 https://www.livemint.com/companies/news/reliance-jio-opens-feature-phone-recharge-plans-rival-devices-after-trai-scrutiny-11778837470952.html
 
-- Tata Steel ended FY26 on a strong note, aided by higher volumes and firm steel prices
-  Tata Steel closed FY26 with a 6% revenue rise to  ₹2.32 trillion.
-  🔗 https://www.livemint.com/companies/tata-steel-ended-fy26-on-a-strong-note-aided-by-higher-volumes-and-firm-steel-prices-11778855911355.html
+- Elon Musk’s SpaceX eyes June IPO on Nasdaq in what could become the biggest public listing ever: Report
+  SpaceX plans to debut on Nasdaq with an IPO potentially as early as June 12. The listing could be one of the largest public offerings in recent years, amid a recovering IPO market.
+  🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-fast-tracks-ipo-timeline-eyes-june-12-nasdaq-listing-report-11778890615193.html
 
-- Charity commissioner halts Tata Trusts board meeting after Srinivasan's complaint
-  Srinivasan complained about three members of the six-member Sir Ratan Tata Trust being permanent trustees. Maharashtra Public Trusts Rules state that not more than a
-  🔗 https://www.livemint.com/companies/news/tata-trusts-board-meeting-venu-srinivasan-tata-sons-charity-commissioner-noel-tata-11778856708193.html
+- Berkshire Hathaway triples Alphabet stake and invests in Delta and Macys under new CEO
+  Berkshire Hathaway triples Alphabet stake
+  🔗 https://www.livemint.com/companies/berkshire-hathaway-triples-alphabet-stake-and-invests-in-delta-and-macys-under-new-ceo-11778885136179.html
 
-- JioStar initiates legal measures against Zee entertainment for alleged unauthorised airing of Bollywood films: Report
-  JioStar, backed by Reliance and Disney, has reportedly sued Zee Entertainment, alleging the broadcaster aired Bollywood films without authorisation
-  🔗 https://www.livemint.com/companies/jiostar-initiates-legal-measures-against-zee-entertainment-for-alleged-unauthorised-airing-of-bollywood-films-report-11778847237342.html
+- Exclusive-SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say
+  SpaceX targets June 12 listing on
+  🔗 https://www.livemint.com/companies/exclusivespacex-accelerates-ipo-timeline-targets-june-12-listing-on-nasdaq-sources-say-11778874615504.html
 
-- Vertex Ventures eyes semiconductors, robotics and batteries in deeptech pivot
-  The firm is shifting its focus toward ‘sovereign technology’ as it nears full
-  🔗 https://www.livemint.com/companies/news/vertex-ventures-india-deeptech-funding-india-11778836120231.html
+- Curious Yen Spikes Have Traders Gaming Japan ‘Warning Shots’
+  Every few trading sessions, the yen jolts higher
+  🔗 https://www.livemint.com/market/curious-yen-spikes-have-traders-gaming-japan-warning-shots-11778892681007.html
+
+- Bond market prices in possible RBI rate hikes after fuel price increase
+  Market participants and economists said the rise in yields reflects growing concerns that higher oil prices could raise inflation and weaken the rupee. They remain divided on whether the Reserve Bank of India
+  🔗 https://www.livemint.com/market/bond-market-rbi-rate-hikes-petrol-diesel-price-increase-11778769883814.html
+
+- Emerging Markets Join Global Selloff as Borrowing Costs Soar
+   Emerging-market assets tumbled Friday on renewed concern the conflict in the Middle East would push up inflation worldwide.
+  🔗 https://www.livemint.com/market/emerging-markets-join-global-selloff-as-borrowing-costs-soar-11778878727122.html
+
+- Yield-Hungry Investors Bet on Credit as Government Debt Sours
+  Credit investors enticed by high yields are buying up corporate bonds. They are shrugging off the lingering Middle
+  🔗 https://www.livemint.com/market/yieldhungry-investors-bet-on-credit-as-government-debt-sours-11778875471209.html
 
 - Dollar climbs for fifth straight day as Treasury yields surge
   Dollar climbs for fifth straight day as
   🔗 https://www.livemint.com/market/dollar-climbs-for-fifth-straight-day-as-treasury-yields-surge-11778872652229.html
 
-- Wall Street pulls back from all-time highs on inflation worries
-  Wall Street pulls back from all-time
-  🔗 https://www.livemint.com/market/wall-street-pulls-back-from-all-time-highs-on-inflation-worries-11778870383850.html
-
-- Are U.S. Markets Acting Like Meme Stocks? Some Actions Have Investors Worried.
-  A big options expiry on Friday is ro
-  🔗 https://www.livemint.com/market/are-u-s-markets-acting-like-meme-stocks-some-actions-have-investors-worried-11778867649348.html
-
-- Gold, silver rates today: Comex gold plunges $171/oz; silver down $9.1 on inflation worries, firm US dollar
-  Gold hit a two-week low and silver dropped sharply. Both metals face heavy weekly losses amid increased energy prices and high Treasury yields.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-plunges-171-oz-silver-down-9-1-on-inflation-worries-firm-us-dollar-11778860351116.html
-
-- SAIL Q4 Results: Net profit jumps 47% YoY to  ₹1,836 crore; declares final dividend of  ₹2.35 per share
-  SAIL reported a 47% year-on-year jump in consolidated net profit for the March quarter. In the corresponding period last year, the PSU steelmaker had
-  🔗 https://www.livemint.com/market/stock-market-news/sail-q4-results-net-profit-jumps-47-yoy-to-rs-1-836-crore-declares-final-dividend-of-rs-2-35-per-share-11778856756974.html
+- You can now connect bank accounts, track spending and ask personal finance questions to ChatGPT
+  OpenAI has introduced a Personal Finance feature in ChatGPT. It allows users
+  🔗 https://www.livemint.com/technology/tech-news/you-can-now-connect-bank-accounts-track-spending-and-ask-personal-finance-questions-to-chatgpt-11778893110633.html
 
 - Tech CEOs summoned to Congress for another hearing on social medias risks for children
   Tech CEOs summoned to Congress for another hearing on
@@ -96,29 +100,29 @@
   CNN.com will feature iReporter photos in
   🔗 https://www.livemint.com/technology/big-tech-turns-to-sesame-street-girl-scouts-to-deflect-scrutiny-over-kids-screen-time-11778787176237.html
 
-- Musk, OpenAI lawyers begin closing arguments in landmark trial that could shape AIs future
-  Musk, OpenAI lawyers begin closing arguments
-  🔗 https://www.livemint.com/technology/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future-11778777834157.html
+- Stock market today: Dow, S&P 500, Nasdaq sink as yields jump amid inflation jitters - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq sink
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHV0UHhxdHh2aWJMMHhpYjZXTnBLclZkVVltcmVSM2tLU1RPZXlXbWxXSWk2eHN4VjJTYUxMaFg4U1VZcnR4VkVDRzV4Y3ZpR0J5ZjdtWU5UUktVa01CUjlndG5LcWpLWVN1OFR0YzR3TERXejFUXzlHME1xaHpjazJQeWhIUlhwNVRVREZWejkzTWNFRW5neEdrc09KTHZELXZVLUJDV0FCb3NHd0thb2lXT1hYUTQzUnQ3YzRPX21lMlhTc2pCSXFiQzRlZw?oc=5
 
-- Stock Market Today: Dow Falls 400 Points Lower on Oil Price Fears — Live Updates - WSJ
-  <ol><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDVmS1JLOHlTU280RnBTY2JFWUxYMG0xZ3dFR3hzMmw5VVNGbTQ5WV9WelhobFZJWkNJV2xYMENSZGhlZ0tXVWhlR19ueG94ZXFVS3lwWUM2YkhSOFlmTTRfczRxaE51a2
+- Stock Market News, May 15, 2026: 30-Year Bond Yield Hits Highest Level Since 2007 - WSJ
+  Stock Market News, May 15, 2026: 30-
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDVmS1JLOHlTU280RnBTY2JFWUxYMG0xZ3dFR3hzMmw5VVNGbTQ5WV9WelhobFZJWkNJV2xYMENSZGhlZ0tXVWhlR19ueG94ZXFVS3lwWUM2YkhSOFlmTTRfczRxaE51a25haHBkQmNwLVhtT05BczloLW52djFEQVZiWFgtcUU?oc=5
 
-- Treasury yields soar as bond sell-off grips markets; US30Y hits highest since 2007 - Investing.com
-  Investing.com: Treasury yields soar as bond sell
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXR6cnEyX2xPRUlDXzFPNTRpTWU3TDk4Nk12UTFzX3ktUVNMeWxlQy1HeXJXTlFlTUYtZFNBRzlTSUpjVTc2UGhmSzA3ZXp0MWxlQ1lrZmNiMk90NlNLS2NXdkZZTG9vZHJfMVcxaFZxM0V6ZVdUV18wU19EZmJ5WVhVTG84OVRGVUNFTURSSHBBUkNCQlYybTVKX212cE84ZUlBX2RGY3JENlpJUklKVGZPMEJvT2RlaDFFOGt4UXNUOFlVSFJFTXVnSVdYV1pnaHg4?oc=5
+- Markets News, May 15, 2025: Stocks Sink, But S&P 500 Rises for 7th Straight Week; Oil Prices Surge; Bond Yields Hit Highest Level in Year - Investopedia
+  Markets News, May 15, 2025: Stocks Sink, But S&amp;P 500 Rises
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQc012RmRtMUhnYWUzUDNxRlJtQ3ROcEdYTm1NcHJyYWV3T0R3eGJGZHdvdFM2bkZlWVJTbDNzelQ1TldKZldBYlA1YUVBWVZveHU4LURkS09PX1hVOGFuQklhZzVIbkZwSGdYUURJUHlfM3MxLW1DNWZ0TEdUWXE5SGphUktFa2c0Rnp6c0FSRGI?oc=5
 
 - Stock Market Highlights, Sensex Today: Markets End Week In Red, India Hikes Fuel Prices - NDTV
   Stock Market Highlights, Sensex Today: Markets End Week In
   🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkFUYnpyUTNkRHF0VE9fNDBOaVdIUGUwdFBPZHJvSXdOalk2LTZ1aFdFaHZiVEhFODFDeWhTOXMwNnNxZDd5V2dnVDBHbTZqcXJRX2k1V25VekpPbDBjSTduN2J2eU9nQjBGSXAwVXpBd3Y0djQ2bTRnczZZamJRSzdRbUIxT0lySWVfXzAyTXZKTkxDX0JPYkEyTlV2UmpkTmtJN295ZVN3c2E0UTM0OF82N0dDVzNEQ2FpNXBxMzdVSXgxNFBEQVZVazhYYmdReVpid0piM3I3bkZxakHSAeYBQVVfeXFMUDZYVjVoN1FuMXdaSlN3MlVSVlQ5R1JiWUJZTzg0MXRQYU1NUFlwVGctanBxRlpka3VrMGRBS0Y0ZlZnbnlZei1HZEk1bVZZQTlHY0ZmZmlNaE5PRmhBd0RXZzhiUXVlZWx5dTRJYXVlUWp3WTRnNUdleGRQbDEwUzZoOWZxNjhiQmdKLTlWanBEcjlJZWxWWXowcEhmNXpyY3hoN05TWGt4OFpPREp0M3E1Z1VJNlBqS2RoallBWkxCSE44c2hfUUJObmdEWHIxcFJTYVlqLXJsZFhHWlRCNVM5OHRid2c?oc=5
 
-- Nifty to hit 42,000 by 2028? New paper that studied market cycles says it's possible if these factors alig - The Economic Times
-  Nifty to hit 42,000 by 2028? New paper that studied market cycles says it
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNZmxPQ3pYYTlkOFh3NXdHZzVtdHkwNmh2VXNhVGs5cGIycEU1SmZHT2lFWDRKQV9FYlladE9od0w1T1paSW51WjRNYzZ0d3RQSW40YmstNHZlNUpPdGJjLXhFckR6c0ZmbU1GYXB6M0tZN3FJR2E4RDJ2R0kzd2JFaW9ialZ2eU56NVV4dHItblk2NHhwbFNNSUlxWmc3WmRNRHlRbFotNDlZRWVRNE1nb1JPU1ZWb1dLRmszTFBfQ0NCTG14OERvMHBjSUhnVVFHdURTU19YM1VlMnYzbW1kWW9WUUxyOHk3VWRHbGsySUh2VkFWQnVYZjg3VkRUUlFSYmJ3S1U1VEhiQdIBjwJBVV95cUxQTml5VnFVYmJ2MktsTzZoUUo1a1ZzZkVWZzJ6R3AwZHk3VGxSSnJsS19ZWTQxLWNTSkk0TExSX3g0Y1BHZVJIV01BbV8wMlVEa3NFVk8xdC1tbFluNmRzTVVoa0JFTVlDMXFJeEFtTGNBVk9aV0s5RVFmWmlCOVpXMlROMGlGS3ZnUlJTYjZtS1puNk9wMU5kQXJVMXRjd2gwYlVxT0VKeHR1ZXdLSU00N0R3S1NfdjVTOVUxNGwyZExYeW9xM0pZcndLNjVWOFJjcThQRXJlQlRRR2hvbGJCTm5oMkEydHU1QVNLOXhvSG5HV1VWREtZdlduMjFqTDhiZzRoMnFyTnlvd3FtRGVj?oc=5
+- Sensex settles 600 pts lower from day's high, Nifty ends below 23,650: Rupee at 96/$ among key factors behind sharp market decline - Moneycontrol.com
+  Sensex settles 600 pts lower from day's high, Nifty ends below 23,650. Ru
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT2M4UVlVaEhBaWhneFBHelNITWtEc1VXOVVIeV90VWJ6UVRmVUpyblVjT1FSN2sxNnNuR3I2al9PTEpSNDhTQy1vejNIRGlEVTdXYU5QbUxkY0R3RnZiVVFaUDdlbmM3M3pNMFRQVm1GVTYzZnVhRGs2bVRxVHNsb2hZeTlWb3EweEJiYVVnTldoVjVic0dJbnNORWc0ZDdtQWNESFpFX1d6N0NUVG9lWWpyU3Bxb19vNzFXelJSYUNVd0d3TnJBZHp0VjJFU1dVV1ktVV8tRHN5YWNSWTZfd2Z2clRQWGZvTGIySUpEVWpuZw?oc=5
 
-- Sensex Today | Stock Market Highlights: Sensex ends 160 pts lower, Nifty below 23,650 as rupee weakness weighs; metal, PSU bank stocks drag - Moneycontrol.com
-  Sensex ends 160 pts lower, Nifty below 23,650 as rupee weakness weighs. Metal,
-  🔗 https://news.google.com/rss/articles/CBMingJBVV95cUxNazJtTTljbGxZeFh5SWdwN295SWZfbEg2MDh6NEpXZTVCbEREbzhNRDNfX05KREFqLTcwdExqYkQ3U2NRRUVrRFludnBTWVNjSjNENWhIcDhxell6OHVpdzhJcXBOSmRzMzBVaHJObjQ0WUZvWFMtbDZ2UFVodXNtc0lrZXV1Zm1QdkR1bnJUNldwM1BQaUk0MWp6VzJqQjZOUE9taFhOcFFPV2FkT09ZTTUydjA2djd5VHI5c3gyaGVtaGtUM2ZRd2xXcHhfWTNabzE1MWxlQk8wUTZZLTE1VTUydlN0R1djMkhDeklpWmRGZEc5VTlJY1dUdG5uWnpOajZ2VHI1QXpzVHdEYlBHWEx6dWxwZS1DNFdIQ2VB0gGjAkFVX3lxTE1ESWsyaWRMamF1RTA3MlFRak5UanVCNG1VZkYwU0tPb1JPZzVaUm5KWGtNWDVVR3JoQjBDTElMSFBmUXg5TzdCSnJvWk56ZUo3V1hYTTZfMmQzeDNGT19ydmtEekhsTkZ4dDBIVlp2YUhnZ3o0OENfWV9oY0tvTFRweXFLTXlLUEtwd0pVakR6dkM0ZHFOMDN6XzVDZWlfMllRdDNhaGRiTEZ2cGJOM2pXaml3TDJyX2V6eWpvWUtwZ19HUWszOWNjLXI0TDZTZWliVVVOOEVvOHNBR3dWSHktOHg2WENSWEhHNzdtcWxDREYyVWdzWW12V3dJX2hLZWtFMElYWlJUcF9rMjE3SGJYSHRYVmEyRG5vOC1CcE5LSm5vQQ?oc=5
+- US stocks today: Dow Jones crashes 500 points on mounting inflation worries
+  U.S. stocks pulled back from record highs as rising crude oil prices and surging Treasury yields triggered fresh inflation concerns. The selloff hit AI-driven tech stocks hardest, while markets reassessed rate hike risks
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-on-mounting-inflation-worries/articleshow/131127334.cms
 
 - SpaceX accelerates IPO timeline, targets June 11 pricing on Nasdaq
   Elon Musk’s SpaceX is accelerating its IPO plans, with pricing expected around June 11 and a potential market debut by June 12. The company has fast-tracked filings after a quicker SEC review.
@@ -136,49 +140,73 @@
   Sebi and CBDT relaxed PAN compliance requirements for foreign portfolio investors. The clarifications simplify documentation, contact disclosures and taxpayer identification requirements.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cbdt-ease-pan-rules-for-foreign-investors-after-onboarding-concerns/articleshow/131120193.cms
 
-- Powell's tenure as Fed chair marked by fight for independence while trying to tame inflation
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/powells-tenure-as-fed-chair-marked-by-fight-for-independence-while-trying-to-tame-inflation/articleshow/131120030.cms
+- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
+  Why Modi wants Indians to buy less gold and take fewer
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
 
-- Why India sent 47,000 kg of gold to UK in 1991 - India Today
-  Why India sent 47,000 kg of gold to
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVm5neVhlMnJKLUEyVXNHR1FheE5paVFES2lBVjhUb0lzMUJnVFF5TXhYcm54WG9ERXNpS2doSTVsMXZxQm9FNjdaeDFTVmlZZUR0cE5qdTVoeEwyUnhZNURTQ19pUEkxSk45bV9BTXBNcjdsVGtFVEx4V3BOdXdOZlBjS0FJZE9zdjB6S3UtQ2xjVlVPd2t3eXlrNFlCejVHUEdxMlFCUXlhNGI5dV85TzUzMlZ6YjE0WThKbWFmOEJrWHV2eUlCT3pyQWs0M21ZNHBCWlNiZUZRb0Z3NTczUjQ1TzZQX3lJVHfSAe8BQVVfeXFMUDJZc1FUamNZM3ltV3BCckZ5NExqd2YtOU04ZGFTd0lyRG9TMVQwUmpsOER2WVkybFk2U2ZUNnJtMmt0NlB3Rno5RGo3SHVmZV95S0pUZFM1X0NHQS1XZ1BxZ1AwM3Mxd25LSDRRYzdaNEo0R0hRZFRRakQ0ZWJmRURRVHprYW9DYjZkai1Hbldvc1hVdzFVWGgzS3FVaThEbXA5Y1BHaExGYnZPS0UxbkZ2ZkdPVTRzcXJPWG1EZ0gtdDJwWGVlb09USElEQV9LUXdVTUpyUWsxa2RDMlM5d2QtWGtXTWhhTUxiMS1nYjg?oc=5
+- India and UAE sign defence pacts, as Iran war tensions simmer - Al Jazeera
+  India and UAE sign defence pacts, as Iran
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFNIcGNkSDBTMWFwLVNNX0dKc0tkZHZyR29iWHVHbjJXemwwMFQwSzl2NDhrR24wVW1ibFhRLW9Xb0RmX2N5SHZ2bkhPNm1ETEVIQzFXZDVieXVmYkpudXhkSUt3dFVXbnVuakl4dHVZeEU5VjhRN3ZUUXAwa3AzcFFzd1Nja0syOFZ1cjE1UFRVY1Q3VUtlMkNQR0ZxTmwwSWxR0gGoAUFVX3lxTE56cGVPUEpJZjFrZ2tPcEJmYk5ILW5LSG1PbFZ1VHBDRS1KdVdkalRBbjVScGZVS0pjMGhZYjRhbjNvbUN4QnZSSElDYTVWbHFELXhNanctYkhnSHlLd2s1MHRFakJZU0hGTVUtZDhyNkQyUlBHZnhPcVV3eXNfRTYtUGRqeFAzOWlXZ3otYzd3dVlNT2FFSFJyOGVzejB1VGZMZkNCOEhCVQ?oc=5
 
-- PM Modi landed, signed key deals, left UAE — all in 2 hours | Full list of pacts | India News - Hindustan Times
-  PM Modi landed, signed key deals, left UAE — all in 2 hours. Full list of p
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQSUJiY2x4NkhWS3dhTDRpNmNla1pXeHoxWWJ5cV9fb2Fxdk5xOUZTNy04OFU4S2JKb09MRS1USlFVTTZZbXJ4Tk1RQ1NjdFViVkRwNUQxdlY3ZlNMNlZxVVBIalJvcHU5a1VSd3c2UFh0V3BuakthRTB3TmpjempjZnVzbEszRlpqRFNjaWExeTBXcktJRi14R2FwbWtuVy12Tl9Ha2dlT3NHREhJTWJ3Ri1RSWI4cGRRV2NQN2dDTzZVZjNSWEpoa1hoRVBBWmhldllueVdINDBEc2Vfdkx2ZnFMekRhX3gxRlA5RjA2S0dtTzhyOXI4NVlyVkVwYi0z0gGGAkFVX3lxTE1LdTNEU19YWU01cWVjV0tjWkxUa3d3RjRjMEx6U21RVF9LdHExUHF2Y05ibmFNaFFFSWlmNUQwcXptWFVRaDF3VGxKSTE2cnJUbHNrV0xXalR4M1ZsYlZFRFBGNDkwTlpFbnhxeVVTbjNTRjlxVEJhaFd3azR1X205U1A5OFZ3S1FTN0lWN2xyUEluWW5rT0FwcU9COEZaX0V1STB5VGhuVXFDZk0yWFUyN3JXTk9MbmgwRk5JbVBsdTAwMF9xRzRfY3UwVGRHM094TnNxWkpwZFVsZDBhbTlDdjVzRjB6Q2Nlekcyd0NTblk1U3lGNkRfMUJNcnBUNlEzSHBKcFE?oc=5
+- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
+  Indian Air Force Officers Recount "Once In A Lifetime
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- Breaking news live updates, May 15: US team likely to visit India next month for trade talks - The Times of India
-  US team likely to visit India next month for trade talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
+- Monsoon set to hit Kerala early on May 26, says IMD amid El Nino warning | India News - Hindustan Times
+  Monsoon set to hit Kerala early on May 26, says IMD amid El N
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnBVUndHSnVJOHlSZjhHWWs3WFFhQWNKZmNnbEZEdlhsOG94bmljdXUtQ01PWG9rY1RsX09KWjdwZEpSY2FwRzVVejhzR29SSjlEUllUODczcGMxZ19ONV9aTElBYkkzRkx4NVZ6VjNNZHp1dHFQRFdDUHo5VUoxQjZaU1E0UW11VTVRaXlvajVMWERUN0p4aUw4ZjdQaGRSejE3UXcwWGdvMHAzMFJ4bmxBdU1Nd0h2d2JldmZHekkxbW0wTlJMRFRCaVIzLTjSAdQBQVVfeXFMTkhqMnpKVDI0Z1JEcUxVSkpWUUN5dThkZXRMN3FBVkF5dHFxal9mXzUtMmtFVFRSY2lQRGJzNHJsZU9ucEd1SEZiaEZpVE1JTnpzVnJpY21CRnUtQmcxaXQ2a1Utb01laE1fMndISEVHcklMeklMeWpnUFhDWWVaNmdfVFk5M0p4MVF3ZDlnSmJkZ3JPQjR6cWRPQi1GbW1kbWM1aTJlSG1YZW5hamZGWDJZTVE1NVR6anIyUWZiTDVGX3N6TXpSZFl1dlFNNURCcEhZNkM?oc=5
 
-- "Will Impact Poor, Middle Class": Vijay Slams Centre Over Fuel Price Hike - NDTV
-  "Will Impact Poor, Middle Class": Vijay
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdk1hcVp0LWl4OUNwMlA4V19wZ0RBNmRYZy1sUmZ3R2FpZWgyMURWNDdZck8yYUJ4VERzc1Fta19ORXpKSGFzS2ZQcVlsMTBLZWlIZXVvMy1XbEVleFpmNWVMZC1SbXNYVDRsUHBOcGJ4WnBiYmppU3loMXpnUUlfT21KOWFydFpXY0VnLWRLa21zWWotalFjd05Ha3RHX2phQmY1MEFmUzgwQ0RtMWFV0gG3AUFVX3lxTE9haFloaklHNzF6SFNURFBCSkRZZnN3TkdnVERzT0xjLVhMTHRoejFmR05KRnJ4N1NQeE9xM3IzeGp1bm56aFlHQnZjUDBLSUtCd0JwcjVmd3BIVFFrX21pV1p2M3I4cGtHQ2Juamhzek8tRlM5NWlqQk0tc3Q1YmdnZFdDdEZXNDVKZ0trRzdFQnNVaV9zTjRSdE1MdGhEMEp1ZW11NGhEaHQxQjBYNndRcUFnSVRybw?oc=5
+- Punjab Police busts one of largest cyber fraud syndicates in northern India - News On AIR
+  Punjab Police busts one of largest cyber fraud synd
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCUGVlRWduSld4ck9XNmtUTXlWbExvaUxXVi1HenVyb0hsSVpnVHM4cTV5T1A5cHBfdUx5UC1QZ2dKWHpiVGxTcXVROWZJU29wcmFnWGlSQTVZdXlvN0YtMXlhUGN3RjlKUDhxRlBSU245VHBLa0w3cGpLSEp4ZlJMN09FeThtR0RJNWY2alBic3Z4elJpOVFjaWZfTmlEdkRFdEVDMms?oc=5
 
-- Baker’s Last-Minute heroics deny India win - The Times of India
-  The Times of India reported that
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2pyb1JfSU9iV1Q5a0VlcFlBLUtJeTVDcFcyZDNoNk1OX21kOWtFaHhmLTVWaUZCNVR5dWdkNDlOMC1KaW05ejhXczItOVhldTFxcWZDMGg2RHR6empxRUNSMXpyUFg2blJJb1BtTlhRUndzc3V5cDFuZGVLS2tKaE5iLVpOSkp1QnpCYllQcG9VT0p1aVkwVDk3UV9jczhZRzJZYlRwTjhROWhSRWpqVFFlbzRWQdIBuwFBVV95cUxOQWlYZXpuNEJEc3pFV0twV29MRGdzRmg5QmtXSE9jTlAzN0wtcXpucGpKYlpTdy1rZkFfUFdvZ0RBWEFhZXVVcFlrUE5hV0pYSmN5eW5WSnF3TTBzUjhSNE9KWHowR0J5SnZ1NzM3eG85WUVtZnF5LXQ5SUJQZTRtTW84THVJcFFvTHc5UlFYM3lWTjdlNjNCWXhTY2d1cDBGV28wcEtaSDkyajhSNW5SVzNLaVNYdVVGYkg0?oc=5
+- Why Modi wants Indians to buy less gold and take fewer foreign holidays - BBC
+  Why Modi wants Indians to buy less gold and take fewer
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TU9NTFRKdDZmckpzejNaY3FWbGplM0tPa3NrRnBtYy1WN2xpZWpReVhUNmI0WElwbVhScTlmNWJQZnNJa3lFYWVHWlA5VGFsaWl0VnNWREJPZw?oc=5
 
-- Why India sent 47,000 kg of gold to UK in 1991 - India Today
-  Why India sent 47,000 kg of gold to
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVm5neVhlMnJKLUEyVXNHR1FheE5paVFES2lBVjhUb0lzMUJnVFF5TXhYcm54WG9ERXNpS2doSTVsMXZxQm9FNjdaeDFTVmlZZUR0cE5qdTVoeEwyUnhZNURTQ19pUEkxSk45bV9BTXBNcjdsVGtFVEx4V3BOdXdOZlBjS0FJZE9zdjB6S3UtQ2xjVlVPd2t3eXlrNFlCejVHUEdxMlFCUXlhNGI5dV85TzUzMlZ6YjE0WThKbWFmOEJrWHV2eUlCT3pyQWs0M21ZNHBCWlNiZUZRb0Z3NTczUjQ1TzZQX3lJVHfSAe8BQVVfeXFMUDJZc1FUamNZM3ltV3BCckZ5NExqd2YtOU04ZGFTd0lyRG9TMVQwUmpsOER2WVkybFk2U2ZUNnJtMmt0NlB3Rno5RGo3SHVmZV95S0pUZFM1X0NHQS1XZ1BxZ1AwM3Mxd25LSDRRYzdaNEo0R0hRZFRRakQ0ZWJmRURRVHprYW9DYjZkai1Hbldvc1hVdzFVWGgzS3FVaThEbXA5Y1BHaExGYnZPS0UxbkZ2ZkdPVTRzcXJPWG1EZ0gtdDJwWGVlb09USElEQV9LUXdVTUpyUWsxa2RDMlM5d2QtWGtXTWhhTUxiMS1nYjg?oc=5
+- India and UAE sign defence pacts, as Iran war tensions simmer - Al Jazeera
+  India and UAE sign defence pacts, as Iran
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFNIcGNkSDBTMWFwLVNNX0dKc0tkZHZyR29iWHVHbjJXemwwMFQwSzl2NDhrR24wVW1ibFhRLW9Xb0RmX2N5SHZ2bkhPNm1ETEVIQzFXZDVieXVmYkpudXhkSUt3dFVXbnVuakl4dHVZeEU5VjhRN3ZUUXAwa3AzcFFzd1Nja0syOFZ1cjE1UFRVY1Q3VUtlMkNQR0ZxTmwwSWxR0gGoAUFVX3lxTE56cGVPUEpJZjFrZ2tPcEJmYk5ILW5LSG1PbFZ1VHBDRS1KdVdkalRBbjVScGZVS0pjMGhZYjRhbjNvbUN4QnZSSElDYTVWbHFELXhNanctYkhnSHlLd2s1MHRFakJZU0hGTVUtZDhyNkQyUlBHZnhPcVV3eXNfRTYtUGRqeFAzOWlXZ3otYzd3dVlNT2FFSFJyOGVzejB1VGZMZkNCOEhCVQ?oc=5
 
-- PM Modi landed, signed key deals, left UAE — all in 2 hours | Full list of pacts | India News - Hindustan Times
-  PM Modi landed, signed key deals, left UAE — all in 2 hours. Full list of p
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQSUJiY2x4NkhWS3dhTDRpNmNla1pXeHoxWWJ5cV9fb2Fxdk5xOUZTNy04OFU4S2JKb09MRS1USlFVTTZZbXJ4Tk1RQ1NjdFViVkRwNUQxdlY3ZlNMNlZxVVBIalJvcHU5a1VSd3c2UFh0V3BuakthRTB3TmpjempjZnVzbEszRlpqRFNjaWExeTBXcktJRi14R2FwbWtuVy12Tl9Ha2dlT3NHREhJTWJ3Ri1RSWI4cGRRV2NQN2dDTzZVZjNSWEpoa1hoRVBBWmhldllueVdINDBEc2Vfdkx2ZnFMekRhX3gxRlA5RjA2S0dtTzhyOXI4NVlyVkVwYi0z0gGGAkFVX3lxTE1LdTNEU19YWU01cWVjV0tjWkxUa3d3RjRjMEx6U21RVF9LdHExUHF2Y05ibmFNaFFFSWlmNUQwcXptWFVRaDF3VGxKSTE2cnJUbHNrV0xXalR4M1ZsYlZFRFBGNDkwTlpFbnhxeVVTbjNTRjlxVEJhaFd3azR1X205U1A5OFZ3S1FTN0lWN2xyUEluWW5rT0FwcU9COEZaX0V1STB5VGhuVXFDZk0yWFUyN3JXTk9MbmgwRk5JbVBsdTAwMF9xRzRfY3UwVGRHM094TnNxWkpwZFVsZDBhbTlDdjVzRjB6Q2Nlekcyd0NTblk1U3lGNkRfMUJNcnBUNlEzSHBKcFE?oc=5
+- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
+  Indian Air Force Officers Recount "Once In A Lifetime
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- Breaking news live updates, May 15: US team likely to visit India next month for trade talks - The Times of India
-  US team likely to visit India next month for trade talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmszRDZOYWNCcGZUQWNscHRIemg0bnNveW4wc0t1enQxd1lnMzhMbUVOOGZZeXJaWTBXUDRGRlF2em1DZXRjNGozVTR5aG1EeWc1MHRoQm1ldUpOVUhJQXJaYXZQTE5ueGRaWVpWNWxKcTVZNnd0bXdLT081ODJkaXkxeTRJT1RHeFJVV2p2YWRJUnR6d0R2VURsLTlFbG_SAaQBQVVfeXFMTmhHdlN5V2RiVUpkRTJIOV9kNUxITUJWRWdxZXpqX0hKOUI1MWoxTHctSHVpeHFuLWR3MnBNbFNEZjRlVjV0UE5aWmlsSEo4QUJPYmg4R1hRbmNzOWlBYzV0OFpDWTB3VjYwNjdESVpYUXItRTZWQ213VTU2QzJQNk9jUV8wT1NYTkY0alFheW1LRTMzQTY4VThkM0UxR0dndHZOZEY?oc=5
+- Monsoon set to hit Kerala early on May 26, says IMD amid El Nino warning | India News - Hindustan Times
+  Monsoon set to hit Kerala early on May 26, says IMD amid El N
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnBVUndHSnVJOHlSZjhHWWs3WFFhQWNKZmNnbEZEdlhsOG94bmljdXUtQ01PWG9rY1RsX09KWjdwZEpSY2FwRzVVejhzR29SSjlEUllUODczcGMxZ19ONV9aTElBYkkzRkx4NVZ6VjNNZHp1dHFQRFdDUHo5VUoxQjZaU1E0UW11VTVRaXlvajVMWERUN0p4aUw4ZjdQaGRSejE3UXcwWGdvMHAzMFJ4bmxBdU1Nd0h2d2JldmZHekkxbW0wTlJMRFRCaVIzLTjSAdQBQVVfeXFMTkhqMnpKVDI0Z1JEcUxVSkpWUUN5dThkZXRMN3FBVkF5dHFxal9mXzUtMmtFVFRSY2lQRGJzNHJsZU9ucEd1SEZiaEZpVE1JTnpzVnJpY21CRnUtQmcxaXQ2a1Utb01laE1fMndISEVHcklMeklMeWpnUFhDWWVaNmdfVFk5M0p4MVF3ZDlnSmJkZ3JPQjR6cWRPQi1GbW1kbWM1aTJlSG1YZW5hamZGWDJZTVE1NVR6anIyUWZiTDVGX3N6TXpSZFl1dlFNNURCcEhZNkM?oc=5
 
-- "Will Impact Poor, Middle Class": Vijay Slams Centre Over Fuel Price Hike - NDTV
-  "Will Impact Poor, Middle Class": Vijay
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdk1hcVp0LWl4OUNwMlA4V19wZ0RBNmRYZy1sUmZ3R2FpZWgyMURWNDdZck8yYUJ4VERzc1Fta19ORXpKSGFzS2ZQcVlsMTBLZWlIZXVvMy1XbEVleFpmNWVMZC1SbXNYVDRsUHBOcGJ4WnBiYmppU3loMXpnUUlfT21KOWFydFpXY0VnLWRLa21zWWotalFjd05Ha3RHX2phQmY1MEFmUzgwQ0RtMWFV0gG3AUFVX3lxTE9haFloaklHNzF6SFNURFBCSkRZZnN3TkdnVERzT0xjLVhMTHRoejFmR05KRnJ4N1NQeE9xM3IzeGp1bm56aFlHQnZjUDBLSUtCd0JwcjVmd3BIVFFrX21pV1p2M3I4cGtHQ2Juamhzek8tRlM5NWlqQk0tc3Q1YmdnZFdDdEZXNDVKZ0trRzdFQnNVaV9zTjRSdE1MdGhEMEp1ZW11NGhEaHQxQjBYNndRcUFnSVRybw?oc=5
+- Punjab Police busts one of largest cyber fraud syndicates in northern India - News On AIR
+  Punjab Police busts one of largest cyber fraud synd
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmtCUGVlRWduSld4ck9XNmtUTXlWbExvaUxXVi1HenVyb0hsSVpnVHM4cTV5T1A5cHBfdUx5UC1QZ2dKWHpiVGxTcXVROWZJU29wcmFnWGlSQTVZdXlvN0YtMXlhUGN3RjlKUDhxRlBSU245VHBLa0w3cGpLSEp4ZlJMN09FeThtR0RJNWY2alBic3Z4elJpOVFjaWZfTmlEdkRFdEVDMms?oc=5
 
-- Baker’s Last-Minute heroics deny India win - The Times of India
-  The Times of India reported that
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2pyb1JfSU9iV1Q5a0VlcFlBLUtJeTVDcFcyZDNoNk1OX21kOWtFaHhmLTVWaUZCNVR5dWdkNDlOMC1KaW05ejhXczItOVhldTFxcWZDMGg2RHR6empxRUNSMXpyUFg2blJJb1BtTlhRUndzc3V5cDFuZGVLS2tKaE5iLVpOSkp1QnpCYllQcG9VT0p1aVkwVDk3UV9jczhZRzJZYlRwTjhROWhSRWpqVFFlbzRWQdIBuwFBVV95cUxOQWlYZXpuNEJEc3pFV0twV29MRGdzRmg5QmtXSE9jTlAzN0wtcXpucGpKYlpTdy1rZkFfUFdvZ0RBWEFhZXVVcFlrUE5hV0pYSmN5eW5WSnF3TTBzUjhSNE9KWHowR0J5SnZ1NzM3eG85WUVtZnF5LXQ5SUJQZTRtTW84THVJcFFvTHc5UlFYM3lWTjdlNjNCWXhTY2d1cDBGV28wcEtaSDkyajhSNW5SVzNLaVNYdVVGYkg0?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-15 19:27:22 UTC_
+_Last updated: 2026-05-16 02:33:28 UTC_
