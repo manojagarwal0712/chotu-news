@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Rajdhani Express fire: Railways forms high-level committee for detailed probe
+  
+  🔗 https://indianexpress.com/article/india/rajdhani-express-fire-railways-forms-high-level-committee-for-detailed-probe-10694325/
+
+- ‘Modi ji can do it… no one will question him’: Mehbooba Mufti backs RSS leader’s call for talks with Pakistan
+  
+  🔗 https://indianexpress.com/article/india/narendra-modi-mehbooba-mufti-rss-leader-talks-pakistan-10694515/
+
+- Chips to clean energy, India and the Netherlands upgrade ties
+  
+  🔗 https://indianexpress.com/article/india/narendra-modi-netherlands-clean-energy-rob-jetten-10694441/
+
 - ‘Main spare nahi karunga’: Nurses seek apology after Jammu BJP MLA Arvind Gupta ‘abuses’ them during hospital visit
   
   🔗 https://indianexpress.com/article/india/jammu-gmc-nurses-protest-arvind-gupta-hospital-row-10694392/
@@ -7,18 +19,6 @@
 - J-K Police demolish ‘narco palaces’, reclaim over 6 acres of land from drug peddlers in Samba
   
   🔗 https://indianexpress.com/article/india/nasha-mukt-jammu-kashmir-samba-drug-peddlers-land-demolition-drive-10694380/
-
-- India may have to ‘bilaterally negotiate transit corridors with Iran,’ says Moody
-  
-  🔗 https://indianexpress.com/article/india/moodys-india-gdp-growth-estimate-cut-strait-of-hormuz-oil-supply-crisis-10694109/
-
-- Retired judge, son booked over daughter-in-law’s death in Bhopal, her Noida-based family demands 2nd autopsy
-  
-  🔗 https://indianexpress.com/article/india/retired-judge-son-booked-daughter-in-law-death-bhopal-noida-based-family-2nd-autopsy-10694327/
-
-- Bengaluru-Mumbai Vande Bharat Sleeper train to start soon: Ashwini Vaishnaw
-  
-  🔗 https://indianexpress.com/article/india/bengaluru-mumbai-vande-bharat-sleeper-train-to-start-soon-ashwini-vaishnaw-10694126/
 
 - EY withdraws report over AI hallucination errors, fake data and citations
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-bought-company-that-offered-ai-tools-for-cloning-voices-10693684/
 
+- Prudential Plc to buy 75% Bharti Life stake for  ₹3,500 crore, cut ICICI Pru Life holding to 10%
+  London-based insurer says the move marks a strategic reset in India. ICICI Prudential stake reduction.
+  🔗 https://www.livemint.com/companies/news/prudential-to-buy-75-percent-stake-in-bharti-life-cut-icici-prudential-holding-to-10-percent-11779026319532.html
+
+- JSW Steel’s JVs put it on track to be among top global steelmakers outside China
+  JSW's tie-ups with Japan's JFE Steel and Korea's POSCO would add about 16 mtpa capacity by 2032. Including planned capacity expansions at BPSL, the tie-up will add about
+  🔗 https://www.livemint.com/companies/jsw-steel-s-jvs-put-it-on-track-to-be-top-global-steelmakers-outside-china-bpsl-jfe-steel-mines-11779014600655.html
+
+- Vodafone Idea gets promoter support but funding challenge persists
+  Vodafone Idea posted early signs of recovery with stabilising subscribers and higher Arpu. Analysts say large spectrum dues, funding gaps and
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-promoter-funding-signals-recovery-but-debt-risks-remain-11779017173839.html
+
 - Realty group Sattva deepens premium hotel push amid travel boom
   Sattva’s expansion comes amid a broader shift among Indian real estate developers towards hospitality assets.
   🔗 https://www.livemint.com/companies/news/realty-firm-sattva-group-hospitality-sector-india-real-estate-developer-11778991620842.html
@@ -47,18 +59,6 @@
 - Boos, shouts and a Google billionaire: What happened when Eric Schmidt tried to talk AI at a 2026 graduation
   Students booed former Google chief executive Eric Schmidt during his commencement address. He spoke about artificial intelligence and job
   🔗 https://www.livemint.com/companies/people/boos-shouts-and-a-google-billionaire-what-happened-when-eric-schmidt-tried-to-talk-ai-at-a-2026-graduation-11779002588148.html
-
-- This tech job grew 729% in a year amid AI-related layoffs. Salaries now touch  ₹1.7 crore
-  Forward-deployed engineer job postings surged 729% between April 2025 and April 2026. Anthropic, OpenAI, Palantir and
-  🔗 https://www.livemint.com/companies/news/this-tech-job-grew-729-per-cent-in-a-year-as-ai-killed-others-around-it-salaries-now-touch-rs-1-7-crore-11778982935222.html
-
-- Venezuela Circulates Draft of Oil Law Regulations for Companies
-  The Venezuelan government is circulating a draft of regulations as part of its newly enacted oil law. The regulations are highly anticipated by companies
-  🔗 https://www.livemint.com/companies/venezuela-circulates-draft-of-oil-law-regulations-for-companies-11778964942687.html
-
-- Vodafone Idea posts  ₹51,970 cr Q4 profit on AGR relief, promoter to infuse  ₹4,730 cr
-  Vodafone Idea booked a net exceptional gain of  ₹58,116
-  🔗 https://www.livemint.com/companies/company-results/vodafone-idea-posts-record-profit-government-agr-relief-aditya-birla-funding-telecom-comeback-11778915095446.html
 
 - Wall St Week Ahead-Nvidia, retailer reports to shed light on AI boom, consumer spending
   Wall St Week Ahead: Nvidia, retailer reports to shed light on AI
@@ -100,25 +100,25 @@
   Google has updated its account storage policy. New users can only get 5GB of Google Drive storage unless they add a phone number.
   🔗 https://www.livemint.com/technology/tech-news/google-reveals-why-it-is-slashing-15gb-of-free-google-drive-storage-down-to-5gb-for-new-users-11778989827520.html
 
-- India missed out on AI, and now its run as market darling may be over - The Economic Times
-  India missed out on AI, and now its run as market darling may be
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWUwZ3ViS202aWJmWWN1c3FJTW9yam4tV1gwTE1mQVdrQV9QM09GX1dpWFViNUh6QkxDdjVBcF9XSU5BR0NHNFRtSWFCQzhST3ZBeHctUW9RcDY0dGZKUUJ1dkdQdEdydms1UGYtejJIVktiNzY0aUxWaTRoN1VuaDVFUTZRRkphWm9OcHlMbzlic2FEanYtUDU4Uk11YjNnMHJrdGhmY09JMUNKVWY0OHhvaHJ3NGZPd0ZQQ3I1TDlmMEZFenM4aDRiZk9uWHR5VHRRUURiMWF4d9IB3wFBVV95cUxOaGh1YnBhSWVtYks4QW1KOFNNWEg2VWZnUGQ1a25Zdy1hTkRHOWUxNm1nUHV1QUlNNy1hOTgwRDI0WllTa29aMFNWbVpUNzhuSFlmakVKbnZCYkQzSklyOVdBaWNybklmblpmcmMzYVpPRmRZWk9uTmxrRGVVTGpHbXRHcUZPR3hHNjU4VjJkSzBUQlJDT2VGc1JqRGpjWm43RnVnOVM2bnpKdmhaVkVmRENPbHlmal9tUjZOMHJ1VXEwUzJua29sblQyWHJ1bTN3RmVDWlcwSFd1ZjZUS2ZJ?oc=5
+- India Missed Out on AI and Now Its Run as Market Darling May Be Over - Bloomberg.com
+  India Missed Out on AI and Now Its Run as Market Darling
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzNNRmRLNDQ1SVFtaGdRYzBXRVliV2ZyZWRBRW1RWGFHdmhpNFJHdTN2ZUswQ2VtY3VwUmR2STBLdlI2Y3ZFS3hMelZBU2VIN1VZaURRT0V1RHEzQ0VhTEdRb2V1el84T1BDaklCSlJNLU9FZnhfeVBFak1DdWJPRWZoX3l2NVZHMEYwY2FkTTRiNDRkTy1rU3hnTFY1alJ1T3pVbjdjdDROUVk4NnE0MEZzY0lQUnJ5dXBN?oc=5
 
-- Smaller municipalities face challenges in raising funds from market: Report - The Times of India
-  Smaller municipalities face challenges in raising funds from market.
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmhNMUpFWkR5M0dCQWpfWlRmYmVQbUQ3SzBlRzdCUm16LTFjT3VyRnp1N2o2c1RWMzBHNVpPRlUtZlh6Qlh5S055UHI2N1U5b2E4dS1haFVnU3hWUDlTb19VeGpTMUtpZ0JIbUJLOXBOTUtibjBEOC1wU28zdTU2MTJBOUtjY2x5NDQzUzh5MnpmZmc3WHN5aXlQWGRCMHpBVDB0QlNCS0FKckw4dFBibXFvaDhfaG9BdUtmYjlMYXcxT2lPWGpSUlE5ZWphZnhTTW96SV8waFlHdDRXamtJT1pqSXg2S094TkFUWW8xTnVsQdIB9wFBVV95cUxPZWZsTHUzMXFSazItRHc1QkFCRXlqc0l5cDRfSElKMWdkTjY4VC1Ga0lGbVQxY3pLektKeFlPZGZZWlZscF9nbUZMYUlaek5maE9LbHFMbnBKUmV6WktjYVdfRlR4YXpaWTJKV3FrVkt2UFJTejBGaWxXLUM5SC11N01wcWE0c2k2dl9nTF94REx4ZGZmZjZxSlFXYlVZTzV4MW1IQ1JLRmVuRTUwMWVpTjV1aGstclRSOEZxR0hvV2NBcTFGZmVYQUd2bmpxc2VGQkd6MUk4V0RYYXZ2ZjVUU3Vlbmp6YUdmd2lvcU1Gb1N5cGRqbHhV?oc=5
+- NVIDIA China AI Chip Standoff Puts Market Access And Risk In Focus - simplywall.st
+  " target="_blank"> NVIDIA China AI
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNckZoNnBfQ2ZHU1ZsWl9oeV95MW9yU2pMSEhTRExyTThfd0JlVnBRazVpd0NtcWJtek5qZGdhUFFrdkdwOUl1OWMzV3haLWoxZ0o5VFhrNTlhZnJyYVJwajdGT2tvNmJVeUI1LXMzX0JRWWIyMDNxSmNwS0R3U0VPYUVveno2MUFtQjROWGIwam12aEg5eGtFZFVhUFF5dW5lSXpVN0xNalJRU1NYaXNpdkJiUmtzVkYybEFaX0lUbVU4dE92T2t0SWJpNNIB0AFBVV95cUxQa3F0czVZblBvRkpVTXp0QzBad29ybUlZaExNN2xjRjhFcmFEeU1pU2dfTVR0dlQtd1UxOEFWZ3BPVEQ3VzktLUcybXluZ1gxZUV0LXNvSGVCcE1vdEVtY1d5cVRPc3BJTWIwQUVkRk96bE53b2wtM3dlODRINnotc21IWjg2aHBEVGhTblVmbVMzd0FPWUZzejJVLVd4M2dvTEk5bTBEdFZnSzVzZW5SaHZfemZFZHFVSFVRdmlJR2Z1czV6Q3BTUlUxaWEtYVhH?oc=5
 
-- What to Expect in Markets This Week: Nvidia Earnings Are the Main Event, but Walmart's Results Are Coming Too - Investopedia
-  Nvidia Earnings Are the Main Event, but Walmart's Results Are Coming Too.
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNld2d0VmR21KSTdITmo1cjZkVm1JVG5lV3hoZUpCSUhRNThnUVVid0FrWmFfQVNLdHRfQVoyRnlSMmxhMGM1dVQ5U1hUMTV1SVdobjVxR1pCa3ZyQzRRb2hscW9kclltcUtTRjZzYnZTZ19YQU9faS1JY2swSDFCeDllSklkandzTWJtMHE3ZlpTM0FfRUxTTnJTdUlhMUk2b3k1MnJNbHY0NEwtRi12dnpqcEYwNjFEYjRRS3RCWU45N0FJMXdINjgtaHJBTzFJU0VtMjZNNGwwckRFclJXU3pHQQ?oc=5
+- India missed out on AI and now its run as market darling may be over - BusinessLine
+  India missed out on AI and now its run as market darling may
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVFiOTJLYThSRW0zSUEyOEJnSllUaG1iSXloS19sMFk0UWFrSEpUY1dGbTRpUDU4ekdsN0MxYllSLURPbmJIcXpGMzEyU283RmEzYUh0VmM3SXpQVC1nVDZZb0lNSFcxNVVlc1NjLXFnWVg1djc3SXFuN2N1SUlHZ19jMjk3LWJwWkZMVTZqWE5kM1gwZjBGWTBTX2dVbEpKdi1RMWNWTFVFbzlBeUR4UzFsbU1DMnFPVzh5eXowV2F1SEdDVHpYU2dRODczZW5s0gHXAUFVX3lxTFBMTV8zVVZ2YXRqQkV1ODZDWUlFekRfWmdZWjBXTm1zUHptTWlBV0Q4XzJmaEMtckRZM0ZuTWxGV0VnVnBISk1VYThNa2pxSzh2MWRfeWViNlA4c3phRHR3OVhvNmxHSTc4SGJreFB5Nk9QTmphS0hMRS1RanhYVEQ0RVpUa21Xb3dvbTd3d0V3ZXc4WHFrWldzeDJ1WTVYYU9rTlFNQTNRY3BZd19IYnNoSWdYLTNZT1lQNGw4T2NobGZFanRNQThDLUtST0hOUmdxeDZBQXpJ?oc=5
 
-- India becomes largest market for KitKat globally for Nestle - The Hindu
-  India becomes largest market for KitKat globally
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmRrTmwwLWZnZ3lab1RwR0V2dEFCMDBDaWxiaVBDd2lpRjhQYUlsaXNUTUpsa0lzWjJoN1JJaTAxNGg3SEROOWsxdFNmc1owcGJmSkE0b1R4eHFOaEJlQzdzODI0dWVCcDFpQTBnU0cyeWx1M2VQTXd5NWFrTk1PUjgwUjA3MDB2Ym5ILUlmZGRBOVlaM2ZkXzNRN0gza2dRWEotRUlSM3oxNk1XekRGTUpjc9IBugFBVV95cUxQZVlUT3lKSGs0dTgwN2lSYTRHbFFsZEN1X1JlR0x4TXNoeHQ1UWhBUDZKUF9Zc1hyRHpfNzNvRDVGYnVxOWNUdUNGQ0Z0QkZHY1ZvX0QyLTkzVTBLemtqV0ZyTXUtT1N0RW9EekswWjM4MldCVUlUUDJmdGp3XzQtbkZSWmlJQkxqNHRKWVF0MVlIYWZIN1YwTDF0blJJc0pYS3dsOWZMYnVmZlJUaXV0TkJDbU5Wd2k2T2c?oc=5
+- Goa sends surplus vegetable produce to K’taka markets - The Times of India
+  Goa sends surplus vegetable produce to K�
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmo3aXVBNHNLVWVlN05NVURzOFlmdVFaU1c5NEVqamtDT3BpVm5FODhEZUFkelh6bm8xcVVGQWE1N1FVbFE0dHBLelcwNkw0OXdJaTJSV3ZnV3JxQ0hwUERDekd3cDhPTnFta1c0RmoyN2VQdTVON2dZZGpsemtONjlBazJsbWxYcW5ENVY0ZUNfMHNCVzU4OEdVMm5LSWVCdURwNGtaWEluZDIza3FhOUt3REtuMXVlWU5hZk9XVlnSAcYBQVVfeXFMTzlqdlE3WVBmcFpMWV82M0FXVkFUWXlNWHpZNVE0STZNTHpIV2k0N3M5NGRyZ3ltQjZyVGhCSUlfQ1NtR1p2SzlBLUlzeDlVVE9xa0NjZ0xGQ2M5Rnh6cVB2VHk5RDZSYmxjdFBjbk1uSzdYbEl6MmFnd2xCQ1VXYWhWbjZHY1dCckl0QnNqN1NvaDVfUUhXckwyWWdnNXJrV0ljNHlOSjJFc0ZmNzUxOUpZMXdZNWM3M3hiOFpqZDQ5V0VubElB?oc=5
 
-- India becomes largest market for KitKat globally for Nestle - The Economic Times
-  India becomes largest market for KitKat globally for
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQUNGMlFLZVJEZ090VTZCTFZMOXNEWkRfMUdtVmRkTHhyQVpmUU5BaG9TU0R1TnIyY3JfOWZKVW41bzgwcjhqWnJlRlZERlV4ZU1uSXQ2YVFBaHhwSGh5cjdCbHJzVmlTMlFTbEd2VHhoQlU2MzBUeXpGMDRvVmhnTXRPMFNrZUdWMzRaY0pTc3JER1JDeU4xZ3Q2S2tXR0I1YXJmWnV1Ql9hS2c3Y3hodnpHenIxV3h3ZXlkS0piUzdNZE1Mekg0bExCbVYwN1d2dDlsYl9tVDLSAd4BQVVfeXFMTXpuUlJRVWdXdjRXZHI5cldmOGZGczUyaEdtcGFZMG01eEFia0hKN1JrZnJHRzRTRWVKZW9pSEdjUUdXaHgwZDNPX3dOZ0Y2RTVNYTVfd25zTE0zeEtSUExBU0Fwbl8xa0I5UlVIOG10UlNJdW5QWlFjdkRwUjBIT1p6S2hZV25GcXIweXlZR3M5VUR3RkVHSzFWallfXzd3LU1PQk1ncGNFNHkwOWhLVXp4Uk1KeWxZVG5CdnJWNGlSeklBQXl1TC11eFlGVnFUMG5aU05Ec3pjYVlLTUFR?oc=5
+- US college graduates face harsh job market amid economic uncertainty - Al Jazeera
+  US college graduates face harsh job market amid economic
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEJpV1V0SllsSXVDWWpqRjd5ZHdZN0RMSExRc0Q5dElaVkl4V0pMelQyVHl4V2pscmhiRVVhRF9PSy05dWtWblcxSHllNWt1bThiWklVMldFUnh3YWdmTEJndUFWZjhKR2pSUDJPVkdGNHNpeTZwak5oZ3hYUzQwU3Rjb3FSSXA1dmtmMzgzcTJXdHZrYXdLQ01RN3dCM1p3ZGl6T1hJaHUxTzlGbE9lck530gG3AUFVX3lxTE9JWFBKT0pITUNaeDZrR1NjTEZyWHhNNlcwSy1Edk9xYUVIbEIxTUZkY2ZaWVlWM3p6bkFOZXlwczlGaHd6cHdra3Bnd1l5NUJoN0pIMmtDWDFFaXRGZDZITkUtVEJGWTBVSmpaY0pFRzRsVHpUMkFhcWdvaXIzam50Rl9CV3p3OVlMSGdvN081YnZZSXFBQzBLbjlnenJfdExtcTVrVFZBeklRV3J1VDhGbGJHYTdnMA?oc=5
 
 - Fintech firm Paramotor Digital files confidential IPO papers with SEBI
   Paramotor Digital Technology has confidentially filed draft IPO papers with SEBI via the pre-filing route. The move signals growing IPO momentum among Indian tech companies amid improving investor sentiment and renewed capital market activity.
@@ -144,81 +144,81 @@
   India’s Tata and Dutch giant ASML sign
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQN29sdDkxR3pMZm9ib3Z1Y3NkaHdmeEh4WWhKOWNuQUJJVVdfV1VLQzBsUjJ1SW5hRnF3Rm9Ga2J4TTlwX1NIWnpBVldLWlhxZUVGcXpXQTd2b3M0TXBUTFhhVUl4d3ltcjhDOWZxRWgxbzR6N2YxOWJFN3lSejFDQUxiemhNbDBVWXNGZmpvYWxDdldTREpvekJoa1lJU0ZEdm9DYi1yVDVfRWFjU1JNN0puOWFXd9IBuwFBVV95cUxQY1MyNjhoT3FFRTlLTnR4TkQ4MVJWVUJlSlpmU0xvRWpKV1ZsVkR5X3U5RG82aklRb2k5MEVMcVh2aV9VdFVMaVdLa1FUWG5peEdVNmk5ZHZvdE1pclpLeUF1bnFLQmFsaFpfYy00UVA2eTM0cTBOdHUwR2tFSHVhVTAzVUV4NXcwSnBSaW9iRF9fNzdFQndBQldkZVVKbjl1eGRjTUJCb2ZCcnQ2TlVIVXQyemV4MzNxU1JB?oc=5
 
-- Tata Electronics Teams Up With ASML For Semiconductor Manufacturing In India - NDTV
-  Tata Electronics Teams Up With ASML For
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjA3WnNBRW1vbzMyYjc3VHpuS2hPQlBKMWpmTElmN2dENHdXY1RlaVVaSElBbFRDNWwtYUtJLXZ1QWl5SVN4cm12SVB1R1BJNnlsUFM2dHQxaHN2UnNNSEppZmloUmZuUHY4VnlKc3hNbHBGVTVfalNlTFlPaUNDSi1mRVJIRWNIM1UxbV8xMExROTd1M1FNVk1ZdjFUU1JlRlo5UEpxLTZoVy1SMWlUTDVDeXJiYklp?oc=5
+- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
+  Delhi To Face Severe Heatwave Soon,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
 
-- ASML–Tata MoU marks significant step in strengthening India’s semiconductor ecosystem: PM Modi - News On AIR
-  ASML–Tata MoU marks significant step in strengthening
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2h2bS1fcXZrdzNEUE9jbWJ5Vk55M0lPNUc4N0pXMTgyQUpZNi1CTl9vQmw0Y0JOcWl3ajBpa0lYQ1RnVk1wWXZXWXdYV3h5QjdsRjJGbUdIak96cjRHMVJmMWpQa0ZtM2c1a3NKQ1BobTcxZFRLVkd5ZEdnWUdIaFhwOEE1N2Znd0hUZHFveWVDQnhLYndxbUxUQVQwSzhCdkdKZDJMT1d0N2gxdkFyeHVwOXlyNFZ1clk0cEp2VQ?oc=5
+- India, Sweden agree to elevate bilateral ties to Strategic Partnership | LIVE - The Hindu
+  India, Sweden agree to elevate bilateral ties to Strategic Partnership
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd05CN0ltNWR1ZE13MWgyaTM4QWZ5VE94Rnh3aTAwQU0tdHI3TjQ2eDNIRXdzbFZfRUcxenlBeEpMQVpwNUxNRGxEVGRfaUZZN1JNSE1fbVlQQ3h6VGlGNGZzelVMWnkyVHhwTy1TQks0VzN2clZ5bzVseGVGeG0ycnRDRXNncktnam1LbmdycFBkMFJWbnd1eFRqSXB3c1ZGSG1pLXljYjY2Ukh6Y0xNeGJHTWFMbG8tZDRTVDN3TWJzY0ZLOHlQaXZ1LWlINTZBcU9TMlZCQ3NleE9oQXhGRnRBUWtHR1NmNG1zNW1mcHNCSllZaWxzX01KYlJHajE0eGfSAYgCQVVfeXFMT2JURkp1UFZjb0c4RTl6a1lQbEZnRXBqcHIteFBucFViSlBWZFUxd25IRmsyU3BaOHZmdnBEcG9ualBoVEFoWEhhbFA3YUc2ZHc5aEFRclJIekJRc2pjZFk4d0ZIUXAySUdpd0hDUEM0eVNIRmxIOHhaMUkxWmRtcE5FTDhRLXJ2UWREbzhDb1NYYmhUZFgzMkVrT3hsNGdUVy1qV191YW9OZWxJRVZqN2t2aWNUOEdadkh6d1ZVTTBCdE15QTVaX2YxWHJjT3JXdnFWdU96bWhYMWt0RDY5Q2ZYTUlwSTdDWG9qUElWZVJGSmt0UlpPRGU1UVpvWTFpSjZnVHh0VkNW?oc=5
 
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+- PM Narendra Modi to reach Gothenburg today on two-day visit to Sweden - News On AIR
+  PM Narendra Modi to reach Gothenburg today on two-
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmtRRk1fUGUxdGNEZXBOM3hpaTBPUXpRbDFDTzJKb0NfdGtIZVUyaGtpUnlWZDFDWUwyRHpHYmRwbTVnTFl6dzZIYndxSHRrYXlBOG5uYTg4RmxUZTNJUW5ZemZ4WDkxRURwRC02aEJzZ2Z2OXV0QXVRUFFwOGZxVzJnSWVqWE05T1hGUG5YTHZoNThDMnVzSlNRSXlVeWtJ?oc=5
 
-- Breaking news live updates, May 17: WHO declares public health emergency over rare Ebola strain - The Times of India
-  The Times of India is a leading English-language newspaper. It is based in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOaktzcVZxZ1NsVHM2ZllNWHpFWmF1SWx5WHdjZkRfVWZCZFlwLXIxbGp0UHlEQXE2eGZCbUJmYzdPSXppS3lDeUxrWW1nSGdCRkY5czg0a1pxOTBhZUxsbzUtSFU5WmtIVVBpRnExRUd6b3V0NnJHcG15NWZzODR5Z3NnOE94a3FRZmNWZUpNZC1YaU56Q3lqTFpRcFhXbjTSAaQBQVVfeXFMUEpKUWlrd0xraWszOVB0bDQtQVlITFFIdW1GeTZBS2lHSWRwdmx1STYtM3FDdkk1Q19BelVjZEFyQ2JIeC11bnlVSXpXRjdPOHI1TjlpaVpJTTJmUmg2RU5hdU1Jd1dyalJ1MTdBYTBncl9OS3YxaFo0bE9jVXpyMjNUU29DUTVmREpWbEhnRjZQWHdOMEhZVnBXVk90eVM5TUF3MTY?oc=5
-
-- India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit - Al Jazeera
-  India’s Tata and Dutch giant ASML sign
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQN29sdDkxR3pMZm9ib3Z1Y3NkaHdmeEh4WWhKOWNuQUJJVVdfV1VLQzBsUjJ1SW5hRnF3Rm9Ga2J4TTlwX1NIWnpBVldLWlhxZUVGcXpXQTd2b3M0TXBUTFhhVUl4d3ltcjhDOWZxRWgxbzR6N2YxOWJFN3lSejFDQUxiemhNbDBVWXNGZmpvYWxDdldTREpvekJoa1lJU0ZEdm9DYi1yVDVfRWFjU1JNN0puOWFXd9IBuwFBVV95cUxQY1MyNjhoT3FFRTlLTnR4TkQ4MVJWVUJlSlpmU0xvRWpKV1ZsVkR5X3U5RG82aklRb2k5MEVMcVh2aV9VdFVMaVdLa1FUWG5peEdVNmk5ZHZvdE1pclpLeUF1bnFLQmFsaFpfYy00UVA2eTM0cTBOdHUwR2tFSHVhVTAzVUV4NXcwSnBSaW9iRF9fNzdFQndBQldkZVVKbjl1eGRjTUJCb2ZCcnQ2TlVIVXQyemV4MzNxU1JB?oc=5
-
-- Tata Electronics Teams Up With ASML For Semiconductor Manufacturing In India - NDTV
-  Tata Electronics Teams Up With ASML For
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjA3WnNBRW1vbzMyYjc3VHpuS2hPQlBKMWpmTElmN2dENHdXY1RlaVVaSElBbFRDNWwtYUtJLXZ1QWl5SVN4cm12SVB1R1BJNnlsUFM2dHQxaHN2UnNNSEppZmloUmZuUHY4VnlKc3hNbHBGVTVfalNlTFlPaUNDSi1mRVJIRWNIM1UxbV8xMExROTd1M1FNVk1ZdjFUU1JlRlo5UEpxLTZoVy1SMWlUTDVDeXJiYklp?oc=5
-
-- ASML–Tata MoU marks significant step in strengthening India’s semiconductor ecosystem: PM Modi - News On AIR
-  ASML–Tata MoU marks significant step in strengthening
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2h2bS1fcXZrdzNEUE9jbWJ5Vk55M0lPNUc4N0pXMTgyQUpZNi1CTl9vQmw0Y0JOcWl3ajBpa0lYQ1RnVk1wWXZXWXdYV3h5QjdsRjJGbUdIak96cjRHMVJmMWpQa0ZtM2c1a3NKQ1BobTcxZFRLVkd5ZEdnWUdIaFhwOEE1N2Znd0hUZHFveWVDQnhLYndxbUxUQVQwSzhCdkdKZDJMT1d0N2gxdkFyeHVwOXlyNFZ1clk0cEp2VQ?oc=5
-
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
-
-- Breaking news live updates, May 17: WHO declares public health emergency over rare Ebola strain - The Times of India
-  The Times of India is a leading English-language newspaper. It is based in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOaktzcVZxZ1NsVHM2ZllNWHpFWmF1SWx5WHdjZkRfVWZCZFlwLXIxbGp0UHlEQXE2eGZCbUJmYzdPSXppS3lDeUxrWW1nSGdCRkY5czg0a1pxOTBhZUxsbzUtSFU5WmtIVVBpRnExRUd6b3V0NnJHcG15NWZzODR5Z3NnOE94a3FRZmNWZUpNZC1YaU56Q3lqTFpRcFhXbjTSAaQBQVVfeXFMUEpKUWlrd0xraWszOVB0bDQtQVlITFFIdW1GeTZBS2lHSWRwdmx1STYtM3FDdkk1Q19BelVjZEFyQ2JIeC11bnlVSXpXRjdPOHI1TjlpaVpJTTJmUmg2RU5hdU1Jd1dyalJ1MTdBYTBncl9OS3YxaFo0bE9jVXpyMjNUU29DUTVmREpWbEhnRjZQWHdOMEhZVnBXVk90eVM5TUF3MTY?oc=5
+- India, Sweden Upgrade Bilateral Ties To 'Strategic Partnership' - NDTV
+  India, Sweden Upgrade Bilateral
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlJWYU9aMXVqdTI1R1A5TVhQTldNUjNVd0tOaS1jQ2hTSTJIVmhVWmNSQzVoaWhVWFhQSlR6MnMxVTV2ZnFySVlla3N6a1JjLUhQb05jdGlyLTdOcWNZZjlNdnVGTGF5ci00ZkJ5bmtBeTlwSVBWOHRtUzFGanpkQVRwS1JEd2FzX0xhNEVpbzUyZHRrU3Zaek5GdkluYVd4NVJuVHFkMTFmU2cxSy1XMVo4N1BuYlJ0cjZNSlRrczhpRS1xbVhibEctMWN5RV9MRDc4Wk1EdlBfa0k4TWdMWS11YS05MlU?oc=5
 
 - India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit - Al Jazeera
   India’s Tata and Dutch giant ASML sign
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQN29sdDkxR3pMZm9ib3Z1Y3NkaHdmeEh4WWhKOWNuQUJJVVdfV1VLQzBsUjJ1SW5hRnF3Rm9Ga2J4TTlwX1NIWnpBVldLWlhxZUVGcXpXQTd2b3M0TXBUTFhhVUl4d3ltcjhDOWZxRWgxbzR6N2YxOWJFN3lSejFDQUxiemhNbDBVWXNGZmpvYWxDdldTREpvekJoa1lJU0ZEdm9DYi1yVDVfRWFjU1JNN0puOWFXd9IBuwFBVV95cUxQY1MyNjhoT3FFRTlLTnR4TkQ4MVJWVUJlSlpmU0xvRWpKV1ZsVkR5X3U5RG82aklRb2k5MEVMcVh2aV9VdFVMaVdLa1FUWG5peEdVNmk5ZHZvdE1pclpLeUF1bnFLQmFsaFpfYy00UVA2eTM0cTBOdHUwR2tFSHVhVTAzVUV4NXcwSnBSaW9iRF9fNzdFQndBQldkZVVKbjl1eGRjTUJCb2ZCcnQ2TlVIVXQyemV4MzNxU1JB?oc=5
 
-- Tata Electronics Teams Up With ASML For Semiconductor Manufacturing In India - NDTV
-  Tata Electronics Teams Up With ASML For
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjA3WnNBRW1vbzMyYjc3VHpuS2hPQlBKMWpmTElmN2dENHdXY1RlaVVaSElBbFRDNWwtYUtJLXZ1QWl5SVN4cm12SVB1R1BJNnlsUFM2dHQxaHN2UnNNSEppZmloUmZuUHY4VnlKc3hNbHBGVTVfalNlTFlPaUNDSi1mRVJIRWNIM1UxbV8xMExROTd1M1FNVk1ZdjFUU1JlRlo5UEpxLTZoVy1SMWlUTDVDeXJiYklp?oc=5
+- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
+  Delhi To Face Severe Heatwave Soon,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
 
-- ASML–Tata MoU marks significant step in strengthening India’s semiconductor ecosystem: PM Modi - News On AIR
-  ASML–Tata MoU marks significant step in strengthening
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2h2bS1fcXZrdzNEUE9jbWJ5Vk55M0lPNUc4N0pXMTgyQUpZNi1CTl9vQmw0Y0JOcWl3ajBpa0lYQ1RnVk1wWXZXWXdYV3h5QjdsRjJGbUdIak96cjRHMVJmMWpQa0ZtM2c1a3NKQ1BobTcxZFRLVkd5ZEdnWUdIaFhwOEE1N2Znd0hUZHFveWVDQnhLYndxbUxUQVQwSzhCdkdKZDJMT1d0N2gxdkFyeHVwOXlyNFZ1clk0cEp2VQ?oc=5
+- India, Sweden agree to elevate bilateral ties to Strategic Partnership | LIVE - The Hindu
+  India, Sweden agree to elevate bilateral ties to Strategic Partnership
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd05CN0ltNWR1ZE13MWgyaTM4QWZ5VE94Rnh3aTAwQU0tdHI3TjQ2eDNIRXdzbFZfRUcxenlBeEpMQVpwNUxNRGxEVGRfaUZZN1JNSE1fbVlQQ3h6VGlGNGZzelVMWnkyVHhwTy1TQks0VzN2clZ5bzVseGVGeG0ycnRDRXNncktnam1LbmdycFBkMFJWbnd1eFRqSXB3c1ZGSG1pLXljYjY2Ukh6Y0xNeGJHTWFMbG8tZDRTVDN3TWJzY0ZLOHlQaXZ1LWlINTZBcU9TMlZCQ3NleE9oQXhGRnRBUWtHR1NmNG1zNW1mcHNCSllZaWxzX01KYlJHajE0eGfSAYgCQVVfeXFMT2JURkp1UFZjb0c4RTl6a1lQbEZnRXBqcHIteFBucFViSlBWZFUxd25IRmsyU3BaOHZmdnBEcG9ualBoVEFoWEhhbFA3YUc2ZHc5aEFRclJIekJRc2pjZFk4d0ZIUXAySUdpd0hDUEM0eVNIRmxIOHhaMUkxWmRtcE5FTDhRLXJ2UWREbzhDb1NYYmhUZFgzMkVrT3hsNGdUVy1qV191YW9OZWxJRVZqN2t2aWNUOEdadkh6d1ZVTTBCdE15QTVaX2YxWHJjT3JXdnFWdU96bWhYMWt0RDY5Q2ZYTUlwSTdDWG9qUElWZVJGSmt0UlpPRGU1UVpvWTFpSjZnVHh0VkNW?oc=5
 
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+- PM Narendra Modi to reach Gothenburg today on two-day visit to Sweden - News On AIR
+  PM Narendra Modi to reach Gothenburg today on two-
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmtRRk1fUGUxdGNEZXBOM3hpaTBPUXpRbDFDTzJKb0NfdGtIZVUyaGtpUnlWZDFDWUwyRHpHYmRwbTVnTFl6dzZIYndxSHRrYXlBOG5uYTg4RmxUZTNJUW5ZemZ4WDkxRURwRC02aEJzZ2Z2OXV0QXVRUFFwOGZxVzJnSWVqWE05T1hGUG5YTHZoNThDMnVzSlNRSXlVeWtJ?oc=5
 
-- Breaking news live updates, May 17: WHO declares public health emergency over rare Ebola strain - The Times of India
-  The Times of India is a leading English-language newspaper. It is based in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOaktzcVZxZ1NsVHM2ZllNWHpFWmF1SWx5WHdjZkRfVWZCZFlwLXIxbGp0UHlEQXE2eGZCbUJmYzdPSXppS3lDeUxrWW1nSGdCRkY5czg0a1pxOTBhZUxsbzUtSFU5WmtIVVBpRnExRUd6b3V0NnJHcG15NWZzODR5Z3NnOE94a3FRZmNWZUpNZC1YaU56Q3lqTFpRcFhXbjTSAaQBQVVfeXFMUEpKUWlrd0xraWszOVB0bDQtQVlITFFIdW1GeTZBS2lHSWRwdmx1STYtM3FDdkk1Q19BelVjZEFyQ2JIeC11bnlVSXpXRjdPOHI1TjlpaVpJTTJmUmg2RU5hdU1Jd1dyalJ1MTdBYTBncl9OS3YxaFo0bE9jVXpyMjNUU29DUTVmREpWbEhnRjZQWHdOMEhZVnBXVk90eVM5TUF3MTY?oc=5
+- India, Sweden Upgrade Bilateral Ties To 'Strategic Partnership' - NDTV
+  India, Sweden Upgrade Bilateral
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlJWYU9aMXVqdTI1R1A5TVhQTldNUjNVd0tOaS1jQ2hTSTJIVmhVWmNSQzVoaWhVWFhQSlR6MnMxVTV2ZnFySVlla3N6a1JjLUhQb05jdGlyLTdOcWNZZjlNdnVGTGF5ci00ZkJ5bmtBeTlwSVBWOHRtUzFGanpkQVRwS1JEd2FzX0xhNEVpbzUyZHRrU3Zaek5GdkluYVd4NVJuVHFkMTFmU2cxSy1XMVo4N1BuYlJ0cjZNSlRrczhpRS1xbVhibEctMWN5RV9MRDc4Wk1EdlBfa0k4TWdMWS11YS05MlU?oc=5
 
 - India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit - Al Jazeera
   India’s Tata and Dutch giant ASML sign
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQN29sdDkxR3pMZm9ib3Z1Y3NkaHdmeEh4WWhKOWNuQUJJVVdfV1VLQzBsUjJ1SW5hRnF3Rm9Ga2J4TTlwX1NIWnpBVldLWlhxZUVGcXpXQTd2b3M0TXBUTFhhVUl4d3ltcjhDOWZxRWgxbzR6N2YxOWJFN3lSejFDQUxiemhNbDBVWXNGZmpvYWxDdldTREpvekJoa1lJU0ZEdm9DYi1yVDVfRWFjU1JNN0puOWFXd9IBuwFBVV95cUxQY1MyNjhoT3FFRTlLTnR4TkQ4MVJWVUJlSlpmU0xvRWpKV1ZsVkR5X3U5RG82aklRb2k5MEVMcVh2aV9VdFVMaVdLa1FUWG5peEdVNmk5ZHZvdE1pclpLeUF1bnFLQmFsaFpfYy00UVA2eTM0cTBOdHUwR2tFSHVhVTAzVUV4NXcwSnBSaW9iRF9fNzdFQndBQldkZVVKbjl1eGRjTUJCb2ZCcnQ2TlVIVXQyemV4MzNxU1JB?oc=5
 
-- Tata Electronics Teams Up With ASML For Semiconductor Manufacturing In India - NDTV
-  Tata Electronics Teams Up With ASML For
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdjA3WnNBRW1vbzMyYjc3VHpuS2hPQlBKMWpmTElmN2dENHdXY1RlaVVaSElBbFRDNWwtYUtJLXZ1QWl5SVN4cm12SVB1R1BJNnlsUFM2dHQxaHN2UnNNSEppZmloUmZuUHY4VnlKc3hNbHBGVTVfalNlTFlPaUNDSi1mRVJIRWNIM1UxbV8xMExROTd1M1FNVk1ZdjFUU1JlRlo5UEpxLTZoVy1SMWlUTDVDeXJiYklp?oc=5
+- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
+  Delhi To Face Severe Heatwave Soon,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
 
-- ASML–Tata MoU marks significant step in strengthening India’s semiconductor ecosystem: PM Modi - News On AIR
-  ASML–Tata MoU marks significant step in strengthening
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2h2bS1fcXZrdzNEUE9jbWJ5Vk55M0lPNUc4N0pXMTgyQUpZNi1CTl9vQmw0Y0JOcWl3ajBpa0lYQ1RnVk1wWXZXWXdYV3h5QjdsRjJGbUdIak96cjRHMVJmMWpQa0ZtM2c1a3NKQ1BobTcxZFRLVkd5ZEdnWUdIaFhwOEE1N2Znd0hUZHFveWVDQnhLYndxbUxUQVQwSzhCdkdKZDJMT1d0N2gxdkFyeHVwOXlyNFZ1clk0cEp2VQ?oc=5
+- India, Sweden agree to elevate bilateral ties to Strategic Partnership | LIVE - The Hindu
+  India, Sweden agree to elevate bilateral ties to Strategic Partnership
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd05CN0ltNWR1ZE13MWgyaTM4QWZ5VE94Rnh3aTAwQU0tdHI3TjQ2eDNIRXdzbFZfRUcxenlBeEpMQVpwNUxNRGxEVGRfaUZZN1JNSE1fbVlQQ3h6VGlGNGZzelVMWnkyVHhwTy1TQks0VzN2clZ5bzVseGVGeG0ycnRDRXNncktnam1LbmdycFBkMFJWbnd1eFRqSXB3c1ZGSG1pLXljYjY2Ukh6Y0xNeGJHTWFMbG8tZDRTVDN3TWJzY0ZLOHlQaXZ1LWlINTZBcU9TMlZCQ3NleE9oQXhGRnRBUWtHR1NmNG1zNW1mcHNCSllZaWxzX01KYlJHajE0eGfSAYgCQVVfeXFMT2JURkp1UFZjb0c4RTl6a1lQbEZnRXBqcHIteFBucFViSlBWZFUxd25IRmsyU3BaOHZmdnBEcG9ualBoVEFoWEhhbFA3YUc2ZHc5aEFRclJIekJRc2pjZFk4d0ZIUXAySUdpd0hDUEM0eVNIRmxIOHhaMUkxWmRtcE5FTDhRLXJ2UWREbzhDb1NYYmhUZFgzMkVrT3hsNGdUVy1qV191YW9OZWxJRVZqN2t2aWNUOEdadkh6d1ZVTTBCdE15QTVaX2YxWHJjT3JXdnFWdU96bWhYMWt0RDY5Q2ZYTUlwSTdDWG9qUElWZVJGSmt0UlpPRGU1UVpvWTFpSjZnVHh0VkNW?oc=5
 
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+- PM Narendra Modi to reach Gothenburg today on two-day visit to Sweden - News On AIR
+  PM Narendra Modi to reach Gothenburg today on two-
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmtRRk1fUGUxdGNEZXBOM3hpaTBPUXpRbDFDTzJKb0NfdGtIZVUyaGtpUnlWZDFDWUwyRHpHYmRwbTVnTFl6dzZIYndxSHRrYXlBOG5uYTg4RmxUZTNJUW5ZemZ4WDkxRURwRC02aEJzZ2Z2OXV0QXVRUFFwOGZxVzJnSWVqWE05T1hGUG5YTHZoNThDMnVzSlNRSXlVeWtJ?oc=5
 
-- Breaking news live updates, May 17: WHO declares public health emergency over rare Ebola strain - The Times of India
-  The Times of India is a leading English-language newspaper. It is based in
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOaktzcVZxZ1NsVHM2ZllNWHpFWmF1SWx5WHdjZkRfVWZCZFlwLXIxbGp0UHlEQXE2eGZCbUJmYzdPSXppS3lDeUxrWW1nSGdCRkY5czg0a1pxOTBhZUxsbzUtSFU5WmtIVVBpRnExRUd6b3V0NnJHcG15NWZzODR5Z3NnOE94a3FRZmNWZUpNZC1YaU56Q3lqTFpRcFhXbjTSAaQBQVVfeXFMUEpKUWlrd0xraWszOVB0bDQtQVlITFFIdW1GeTZBS2lHSWRwdmx1STYtM3FDdkk1Q19BelVjZEFyQ2JIeC11bnlVSXpXRjdPOHI1TjlpaVpJTTJmUmg2RU5hdU1Jd1dyalJ1MTdBYTBncl9OS3YxaFo0bE9jVXpyMjNUU29DUTVmREpWbEhnRjZQWHdOMEhZVnBXVk90eVM5TUF3MTY?oc=5
+- India, Sweden Upgrade Bilateral Ties To 'Strategic Partnership' - NDTV
+  India, Sweden Upgrade Bilateral
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlJWYU9aMXVqdTI1R1A5TVhQTldNUjNVd0tOaS1jQ2hTSTJIVmhVWmNSQzVoaWhVWFhQSlR6MnMxVTV2ZnFySVlla3N6a1JjLUhQb05jdGlyLTdOcWNZZjlNdnVGTGF5ci00ZkJ5bmtBeTlwSVBWOHRtUzFGanpkQVRwS1JEd2FzX0xhNEVpbzUyZHRrU3Zaek5GdkluYVd4NVJuVHFkMTFmU2cxSy1XMVo4N1BuYlJ0cjZNSlRrczhpRS1xbVhibEctMWN5RV9MRDc4Wk1EdlBfa0k4TWdMWS11YS05MlU?oc=5
+
+- India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit - Al Jazeera
+  India’s Tata and Dutch giant ASML sign
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQN29sdDkxR3pMZm9ib3Z1Y3NkaHdmeEh4WWhKOWNuQUJJVVdfV1VLQzBsUjJ1SW5hRnF3Rm9Ga2J4TTlwX1NIWnpBVldLWlhxZUVGcXpXQTd2b3M0TXBUTFhhVUl4d3ltcjhDOWZxRWgxbzR6N2YxOWJFN3lSejFDQUxiemhNbDBVWXNGZmpvYWxDdldTREpvekJoa1lJU0ZEdm9DYi1yVDVfRWFjU1JNN0puOWFXd9IBuwFBVV95cUxQY1MyNjhoT3FFRTlLTnR4TkQ4MVJWVUJlSlpmU0xvRWpKV1ZsVkR5X3U5RG82aklRb2k5MEVMcVh2aV9VdFVMaVdLa1FUWG5peEdVNmk5ZHZvdE1pclpLeUF1bnFLQmFsaFpfYy00UVA2eTM0cTBOdHUwR2tFSHVhVTAzVUV4NXcwSnBSaW9iRF9fNzdFQndBQldkZVVKbjl1eGRjTUJCb2ZCcnQ2TlVIVXQyemV4MzNxU1JB?oc=5
+
+- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
+  Delhi To Face Severe Heatwave Soon,
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
+
+- India, Sweden agree to elevate bilateral ties to Strategic Partnership | LIVE - The Hindu
+  India, Sweden agree to elevate bilateral ties to Strategic Partnership
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQd05CN0ltNWR1ZE13MWgyaTM4QWZ5VE94Rnh3aTAwQU0tdHI3TjQ2eDNIRXdzbFZfRUcxenlBeEpMQVpwNUxNRGxEVGRfaUZZN1JNSE1fbVlQQ3h6VGlGNGZzelVMWnkyVHhwTy1TQks0VzN2clZ5bzVseGVGeG0ycnRDRXNncktnam1LbmdycFBkMFJWbnd1eFRqSXB3c1ZGSG1pLXljYjY2Ukh6Y0xNeGJHTWFMbG8tZDRTVDN3TWJzY0ZLOHlQaXZ1LWlINTZBcU9TMlZCQ3NleE9oQXhGRnRBUWtHR1NmNG1zNW1mcHNCSllZaWxzX01KYlJHajE0eGfSAYgCQVVfeXFMT2JURkp1UFZjb0c4RTl6a1lQbEZnRXBqcHIteFBucFViSlBWZFUxd25IRmsyU3BaOHZmdnBEcG9ualBoVEFoWEhhbFA3YUc2ZHc5aEFRclJIekJRc2pjZFk4d0ZIUXAySUdpd0hDUEM0eVNIRmxIOHhaMUkxWmRtcE5FTDhRLXJ2UWREbzhDb1NYYmhUZFgzMkVrT3hsNGdUVy1qV191YW9OZWxJRVZqN2t2aWNUOEdadkh6d1ZVTTBCdE15QTVaX2YxWHJjT3JXdnFWdU96bWhYMWt0RDY5Q2ZYTUlwSTdDWG9qUElWZVJGSmt0UlpPRGU1UVpvWTFpSjZnVHh0VkNW?oc=5
+
+- PM Narendra Modi to reach Gothenburg today on two-day visit to Sweden - News On AIR
+  PM Narendra Modi to reach Gothenburg today on two-
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmtRRk1fUGUxdGNEZXBOM3hpaTBPUXpRbDFDTzJKb0NfdGtIZVUyaGtpUnlWZDFDWUwyRHpHYmRwbTVnTFl6dzZIYndxSHRrYXlBOG5uYTg4RmxUZTNJUW5ZemZ4WDkxRURwRC02aEJzZ2Z2OXV0QXVRUFFwOGZxVzJnSWVqWE05T1hGUG5YTHZoNThDMnVzSlNRSXlVeWtJ?oc=5
+
+- India, Sweden Upgrade Bilateral Ties To 'Strategic Partnership' - NDTV
+  India, Sweden Upgrade Bilateral
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNlJWYU9aMXVqdTI1R1A5TVhQTldNUjNVd0tOaS1jQ2hTSTJIVmhVWmNSQzVoaWhVWFhQSlR6MnMxVTV2ZnFySVlla3N6a1JjLUhQb05jdGlyLTdOcWNZZjlNdnVGTGF5ci00ZkJ5bmtBeTlwSVBWOHRtUzFGanpkQVRwS1JEd2FzX0xhNEVpbzUyZHRrU3Zaek5GdkluYVd4NVJuVHFkMTFmU2cxSy1XMVo4N1BuYlJ0cjZNSlRrczhpRS1xbVhibEctMWN5RV9MRDc4Wk1EdlBfa0k4TWdMWS11YS05MlU?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-17 13:13:21 UTC_
+_Last updated: 2026-05-17 19:05:34 UTC_
