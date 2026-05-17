@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Day after High Court verdict, disputed Dhar complex wears ‘Hindu’ colours
+  
+  🔗 https://indianexpress.com/article/india/day-after-high-court-verdict-disputed-dhar-complex-wears-hindu-colours-10693306/
+
+- India’s aspirations are no longer limited to its boundaries, Modi tells diaspora
+  
+  🔗 https://indianexpress.com/article/india/indias-aspirations-are-no-longer-limited-to-its-boundaries-modi-tells-diaspora-10693318/
+
+- People asked me to arrest their kids: L-G Sinha on J&K drug crisis
+  
+  🔗 https://indianexpress.com/article/india/people-asked-me-to-arrest-their-kids-l-g-sinha-on-jk-drug-crisis-10693305/
+
 - IWT: India rejects ‘so-called’ arbitration award as ‘null and void’
   
   🔗 https://indianexpress.com/article/india/india-rejects-indus-waters-treaty-arbitration-award-10693028/
@@ -7,18 +19,6 @@
 - Union Minister’s son arrested in Telangana POCSO case; he says ‘all equal before law’
   
   🔗 https://indianexpress.com/article/india/bandi-bhageerath-arrested-hyderabad-pocso-case-union-minister-bandi-sanjay-son-10693167/
-
-- Food baskets, but at what cost: Jharkhand’s HIV-thalassemia families want dignity, not just rations
-  
-  🔗 https://indianexpress.com/article/india/jharkhand-hc-hiv-infected-thalassemia-children-support-10693141/
-
-- ‘Against facts, ASI’s past stand’: AIMPLB says mosque panel to move SC against HC’s Bhojshala verdict
-  
-  🔗 https://indianexpress.com/article/india/bhojshala-verdict-aimplb-challenge-supreme-court-kamal-maula-mosque-temple-10693139/
-
-- Pakistan must decide if it wants to be part of geography or history or not: Army Chief
-  
-  🔗 https://indianexpress.com/article/india/army-chief-warning-pakistan-operation-sindoor-terrorism-10693108/
 
 - Antarctica’s sea ice collapse finally explained by scientists
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-ceos-including-zuckerberg-and-pichai-asked-to-testify-on-child-safety-concerns-10692567/
 
+- This tech job grew 729% in a year amid AI-related layoffs. Salaries now touch  ₹1.7 crore
+  Forward-deployed engineer job postings surged 729% between April 2025 and April 2026. Anthropic, OpenAI, Palantir and
+  🔗 https://www.livemint.com/companies/news/this-tech-job-grew-729-per-cent-in-a-year-as-ai-killed-others-around-it-salaries-now-touch-rs-1-7-crore-11778982935222.html
+
+- Venezuela Circulates Draft of Oil Law Regulations for Companies
+  The Venezuelan government is circulating a draft of regulations as part of its newly enacted oil law. The regulations are highly anticipated by companies
+  🔗 https://www.livemint.com/companies/venezuela-circulates-draft-of-oil-law-regulations-for-companies-11778964942687.html
+
 - Vodafone Idea posts  ₹51,970 cr Q4 profit on AGR relief, promoter to infuse  ₹4,730 cr
   Vodafone Idea booked a net exceptional gain of  ₹58,116
   🔗 https://www.livemint.com/companies/company-results/vodafone-idea-posts-record-profit-government-agr-relief-aditya-birla-funding-telecom-comeback-11778915095446.html
@@ -52,13 +60,9 @@
   OpenAI has reorganized its leadership amid ongoing legal disputes with Elon Musk. Brockman's control over
   🔗 https://www.livemint.com/companies/news/openai-gives-greg-brockman-more-control-in-massive-shake-up-head-of-chatgpt-moved-report-11778896850747.html
 
-- Portfolio reshuffle: Berkshire onboards Delta, triples Alphabet stake; sheds Visa, Mastercard, Domino's Pizza
-  Berkshire bought $15.94 billion and sold $24.09 billion of stocks in
-  🔗 https://www.livemint.com/companies/news/portfolio-reshuffle-berkshire-onboards-delta-triples-alphabet-stake-sheds-visa-mastercard-dominos-pizza-11778898742263.html
-
-- Elon Musk’s SpaceX IPO plans: 10 things to know about Nasdaq listing buzz
-  SpaceX is reportedly preparing for a blockbuster Nasdaq debut that could value the company at nearly $1.75 trillion. From the IPO timeline and valuation target to Star
-  🔗 https://www.livemint.com/companies/news/elon-musk-s-spacex-eyes-june-ipo-on-nasdaq-in-what-could-become-the-biggest-public-listing-ever-report-11778892624465.html
+- Grading Powell’s Fed: good for stocks, bad for affordability
+  The Fed infamously termed the surge in inflation as “transitory’
+  🔗 https://www.livemint.com/market/stock-market-news/grading-powell-s-fed-good-for-stocks-bad-for-affordability-11778984279064.html
 
 - Want to benefit from stock market volatility? Start a Trust.
    irrevocable trusts are permanent structures, but the assets within them are flexible and can be swapped
@@ -76,9 +80,9 @@
   European stocks drop as oil prices rise on concerns that the Strait of H
   🔗 https://www.livemint.com/market/european-stocks-fall-as-iran-deal-stalemate-pushes-oil-higher-11778930631068.html
 
-- Shankar Sharma compares Nifty 50 vs bank FD returns over 12 years — the results may surprise you
-  Nifty 50 Total Return Index achieved a 9.38% post-tax CAGR over 12 years. Bank fixed deposits yielded 4.93%.
-  🔗 https://www.livemint.com/market/stock-market-news/shankar-sharma-compares-nifty-50-vs-bank-fd-returns-over-12-years-the-results-may-surprise-you-11778920355519.html
+- Xiaomi 17 Max launching soon: 200MP LEICA camera, 8,000mAh battery and LTPO AMOLED display confirmed
+  Xiaomi will be launching the Xiaomi 17 Max in China soon. The flagship phone will features an 8,000mAh battery, 100W fast charging, a
+  🔗 https://www.livemint.com/technology/gadgets/xiaomi-17-max-launching-soon-200mp-leica-camera-8-000mah-battery-and-ltpo-amoled-display-confirmed-11778978995484.html
 
 - Intel begins iPhone and Mac chip production as Apple explores TSMC alternative: Report
   Apple has begun producing low-end processors for its devices at Intel's foundries. Analyst Ming-Chi Kuo reports that 80% of these
@@ -95,30 +99,6 @@
 - AI job takeover fears rise: 10 human skills that machines may still struggle to replace
   As AI reshapes workplaces across industries, some human abilities may remain difficult to automate. From emotional intelligence and creativity to leadership and ethical decision-making, here
   🔗 https://www.livemint.com/technology/ai-job-takeover-fears-rise-10-human-skills-that-machines-may-still-struggle-to-replace-11778911039205.html
-
-- What is Weights.gg? OpenAI quietly acquired a startup famous for AI deepfake voices
-  OpenAI has acquired Weights.gg, a startup focused on AI voice replication tools. The startup ceased operations in
-  🔗 https://www.livemint.com/technology/tech-news/what-is-weights-gg-openai-quietly-acquired-a-startup-famous-for-ai-deepfake-voices-11778902720868.html
-
-- Nifty to hit 42,000 by 2028? New paper that studied market cycles says it's possible if these factors alig - The Economic Times
-  Nifty to hit 42,000 by 2028? New paper that studied market cycles says it
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNZmxPQ3pYYTlkOFh3NXdHZzVtdHkwNmh2VXNhVGs5cGIycEU1SmZHT2lFWDRKQV9FYlladE9od0w1T1paSW51WjRNYzZ0d3RQSW40YmstNHZlNUpPdGJjLXhFckR6c0ZmbU1GYXB6M0tZN3FJR2E4RDJ2R0kzd2JFaW9ialZ2eU56NVV4dHItblk2NHhwbFNNSUlxWmc3WmRNRHlRbFotNDlZRWVRNE1nb1JPU1ZWb1dLRmszTFBfQ0NCTG14OERvMHBjSUhnVVFHdURTU19YM1VlMnYzbW1kWW9WUUxyOHk3VWRHbGsySUh2VkFWQnVYZjg3VkRUUlFSYmJ3S1U1VEhiQdIBjwJBVV95cUxQTml5VnFVYmJ2MktsTzZoUUo1a1ZzZkVWZzJ6R3AwZHk3VGxSSnJsS19ZWTQxLWNTSkk0TExSX3g0Y1BHZVJIV01BbV8wMlVEa3NFVk8xdC1tbFluNmRzTVVoa0JFTVlDMXFJeEFtTGNBVk9aV0s5RVFmWmlCOVpXMlROMGlGS3ZnUlJTYjZtS1puNk9wMU5kQXJVMXRjd2gwYlVxT0VKeHR1ZXdLSU00N0R3S1NfdjVTOVUxNGwyZExYeW9xM0pZcndLNjVWOFJjcThQRXJlQlRRR2hvbGJCTm5oMkEydHU1QVNLOXhvSG5HV1VWREtZdlduMjFqTDhiZzRoMnFyTnlvd3FtRGVj?oc=5
-
-- Treasury yields soar as bond sell-off grips markets; US30Y hits highest since 2007 - Investing.com
-  Investing.com: Treasury yields soar as bond sell
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXR6cnEyX2xPRUlDXzFPNTRpTWU3TDk4Nk12UTFzX3ktUVNMeWxlQy1HeXJXTlFlTUYtZFNBRzlTSUpjVTc2UGhmSzA3ZXp0MWxlQ1lrZmNiMk90NlNLS2NXdkZZTG9vZHJfMVcxaFZxM0V6ZVdUV18wU19EZmJ5WVhVTG84OVRGVUNFTURSSHBBUkNCQlYybTVKX212cE84ZUlBX2RGY3JENlpJUklKVGZPMEJvT2RlaDFFOGt4UXNUOFlVSFJFTXVnSVdYV1pnaHg4?oc=5
-
-- Stocks fall as inflation jitters lift bond yields: Markets wrap - BusinessLine
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1EyUnlWR3RyWlFmb3d5T3JRVm1sb2pWTl9IUWZXdjFMeXlVTE9WLVRILUJPZVozd09NOGVDY0E3ckF4TEhZeXNGNThVWmtzZlJMQ3RoUVEtM0NiLW5NTnMtTHVwZ1EwOXNkcUIyZjhBd3VyQmVMcXJpVXVVaWVxMk5OQktyc1o5N2NyTmZ1OElsVFNxd0N3ZzJvVXhoWkZkQXNRM2dLbms2bE91cHZFbURrYnBncDU3VEVYeVBTQmFBb0xCanfSAcwBQVVfeXFMUDAtRTVLY2M5bGNQbEdoSVhCbVhLd1hHMHA1Z2FBVkZ3cFhDekk1WUdXTUQzN2ZwRjhVa20zT0dhaUYwV0NPQWNaWHZFWUQ0c3NCQWVfdGxiVV9tZHh1TW92MU5jR1BZaW9QaG14RDdnTU4tWmZZaFBkLUF1VGZFUjlVX05aTkFXdC1rQmFKc3FlRUlVVFIwQ25OdHc5b2JGY3BzVHdqaWpfT1Zsc2YtOXNvUENkXzhjeVhPUUdGcUJqSTRUbnhoQTF4TWVG?oc=5
-
-- Stocks Hit as Inflation Angst Sends Yields Higher: Markets Wrap - Bloomberg.com
-  Stocks Hit as Inflation Angst
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVlyLXpKUFpXMy13TE1ucUFFS0xHbVhzYkY5dXJfWGl4b1NSc0VmalcybE1OQUROUG5ZTV92bjczRVB6b0NuY3Z6bE5vX19JRHp6VHFlRjlOeHltSFJlN0pPU2wzQjlIbHlvekI4ZXlTNEktaU1RWHBlN2FidURzNS0tSDYtYkZfX2FFM3BUZW1QT0FZODRNOEZYQkltUHUza0hYZkhBZHRPMmZtRHQzMkZnR2M?oc=5
-
-- Stock Market Highlights, Sensex Today: Markets End Week In Red, India Hikes Fuel Prices - NDTV
-  Stock Market Highlights, Sensex Today: Markets End Week In
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkFUYnpyUTNkRHF0VE9fNDBOaVdIUGUwdFBPZHJvSXdOalk2LTZ1aFdFaHZiVEhFODFDeWhTOXMwNnNxZDd5V2dnVDBHbTZqcXJRX2k1V25VekpPbDBjSTduN2J2eU9nQjBGSXAwVXpBd3Y0djQ2bTRnczZZamJRSzdRbUIxT0lySWVfXzAyTXZKTkxDX0JPYkEyTlV2UmpkTmtJN295ZVN3c2E0UTM0OF82N0dDVzNEQ2FpNXBxMzdVSXgxNFBEQVZVazhYYmdReVpid0piM3I3bkZxakHSAeYBQVVfeXFMUDZYVjVoN1FuMXdaSlN3MlVSVlQ5R1JiWUJZTzg0MXRQYU1NUFlwVGctanBxRlpka3VrMGRBS0Y0ZlZnbnlZei1HZEk1bVZZQTlHY0ZmZmlNaE5PRmhBd0RXZzhiUXVlZWx5dTRJYXVlUWp3WTRnNUdleGRQbDEwUzZoOWZxNjhiQmdKLTlWanBEcjlJZWxWWXowcEhmNXpyY3hoN05TWGt4OFpPREp0M3E1Z1VJNlBqS2RoallBWkxCSE44c2hfUUJObmdEWHIxcFJTYVlqLXJsZFhHWlRCNVM5OHRid2c?oc=5
 
 - Vodafone Idea Q4 Results: Co swings to black, posts profit of Rs 51,970 cr on one-time gain; revenue up 3% YoY
   Vodafone Idea reported a net profit of Rs 51,970 crore for Q4 FY26. Revenue rose 3% to Rs 11,332 crore, with ARPU reaching Rs 190. The company also saw its 4G/
@@ -140,9 +120,25 @@
   Vijay Kedia believes India's tourism sector holds the potential to become a trillion-dollar opportunity. He stresses that improving infrastructure, cleanliness, and tourist convenience are crucial for unlocking this potential.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-vijay-kedia-believes-tourism-could-become-indias-next-trillion-dollar-story/articleshow/131135122.cms
 
+- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
+  "If Pak Continues To Operate Against
+  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+
+- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
+  Indian Air Force Officers Recount "Once In A Lifetime
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
+
 - Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
   The Times of India has published an article on the Karg
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
+
+- PM Modi in Netherlands highlights: India, Netherlands elevating ties to strategic partnership, says Modi - The Hindu
+  PM Modi in Netherlands highlights: India, Netherlands elevating ties to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTd9IB-AFBVV95cUxPQWNacnotNWxyem16cmN0QWhjYk03RDItelpxbzVJT0Z4NnR3bTlQMjd6aEhxaEtxNG1iNzVhaFlBVmhYbHRnaDgyZ3JtRXZpQW5HVEFfQURTYUYwYUZIekFQcWJoMDlfSFN4NEhIb25HLUx3SXpWNEVBX25samJPNm1ZWU1DbTcxMzdTbVBld2xrWXhQZ0lTQXZFR2x1V1pXeVFFNlcybEhXQVFXOFBGcHBMSDBhbTlKYnJYOWFjcTVTbk8zb2RHM2ItSlZZN1p0amZKOU96WGZzckZkRVhhblJlOTFKdzdHc3ppekNDYmt1SHFSMVU1bA?oc=5
+
+- PM Modi Sweden Visit LIVE: PM Modi To Visit Sweden Today On Third Leg Of Five-Nation Tour - NDTV
+  PM Modi to visit Sweden Today On Third Leg Of Five-Nation Tour.
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
 
 - "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
   "If Pak Continues To Operate Against
@@ -152,17 +148,17 @@
   Indian Air Force Officers Recount "Once In A Lifetime
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India - The Hindu
-  PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTdw?oc=5
-
-- PM Modi Netherlands Visit LIVE: "Felt Like Being In India": PM Modi praises Indians In Netherlands - NDTV
-  PM Modi Netherlands Visit LIVE: "Felt Like Being In India":
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
-
 - Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
   The Times of India has published an article on the Karg
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
+
+- PM Modi in Netherlands highlights: India, Netherlands elevating ties to strategic partnership, says Modi - The Hindu
+  PM Modi in Netherlands highlights: India, Netherlands elevating ties to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTd9IB-AFBVV95cUxPQWNacnotNWxyem16cmN0QWhjYk03RDItelpxbzVJT0Z4NnR3bTlQMjd6aEhxaEtxNG1iNzVhaFlBVmhYbHRnaDgyZ3JtRXZpQW5HVEFfQURTYUYwYUZIekFQcWJoMDlfSFN4NEhIb25HLUx3SXpWNEVBX25samJPNm1ZWU1DbTcxMzdTbVBld2xrWXhQZ0lTQXZFR2x1V1pXeVFFNlcybEhXQVFXOFBGcHBMSDBhbTlKYnJYOWFjcTVTbk8zb2RHM2ItSlZZN1p0amZKOU96WGZzckZkRVhhblJlOTFKdzdHc3ppekNDYmt1SHFSMVU1bA?oc=5
+
+- PM Modi Sweden Visit LIVE: PM Modi To Visit Sweden Today On Third Leg Of Five-Nation Tour - NDTV
+  PM Modi to visit Sweden Today On Third Leg Of Five-Nation Tour.
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
 
 - "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
   "If Pak Continues To Operate Against
@@ -172,73 +168,37 @@
   Indian Air Force Officers Recount "Once In A Lifetime
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
 
-- PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India - The Hindu
-  PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTdw?oc=5
-
-- PM Modi Netherlands Visit LIVE: "Felt Like Being In India": PM Modi praises Indians In Netherlands - NDTV
-  PM Modi Netherlands Visit LIVE: "Felt Like Being In India":
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
-
 - Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
   The Times of India has published an article on the Karg
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
 
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+- PM Modi in Netherlands highlights: India, Netherlands elevating ties to strategic partnership, says Modi - The Hindu
+  PM Modi in Netherlands highlights: India, Netherlands elevating ties to
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTd9IB-AFBVV95cUxPQWNacnotNWxyem16cmN0QWhjYk03RDItelpxbzVJT0Z4NnR3bTlQMjd6aEhxaEtxNG1iNzVhaFlBVmhYbHRnaDgyZ3JtRXZpQW5HVEFfQURTYUYwYUZIekFQcWJoMDlfSFN4NEhIb25HLUx3SXpWNEVBX25samJPNm1ZWU1DbTcxMzdTbVBld2xrWXhQZ0lTQXZFR2x1V1pXeVFFNlcybEhXQVFXOFBGcHBMSDBhbTlKYnJYOWFjcTVTbk8zb2RHM2ItSlZZN1p0amZKOU96WGZzckZkRVhhblJlOTFKdzdHc3ppekNDYmt1SHFSMVU1bA?oc=5
 
-- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
-  Indian Air Force Officers Recount "Once In A Lifetime
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
-
-- PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India - The Hindu
-  PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTdw?oc=5
-
-- PM Modi Netherlands Visit LIVE: "Felt Like Being In India": PM Modi praises Indians In Netherlands - NDTV
-  PM Modi Netherlands Visit LIVE: "Felt Like Being In India":
+- PM Modi Sweden Visit LIVE: PM Modi To Visit Sweden Today On Third Leg Of Five-Nation Tour - NDTV
+  PM Modi to visit Sweden Today On Third Leg Of Five-Nation Tour.
   🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
 
-- Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
-  The Times of India has published an article on the Karg
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
-  Indian Air Force Officers Recount "Once In A Lifetime
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India - The Hindu
-  PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTdw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- PM Modi Netherlands Visit LIVE: "Felt Like Being In India": PM Modi praises Indians In Netherlands - NDTV
-  PM Modi Netherlands Visit LIVE: "Felt Like Being In India":
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
-
-- Revisiting Kargil: How India crushed Musharraf's bid to cut off Ladakh - The Times of India
-  The Times of India has published an article on the Karg
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXl4ZGpfcXJnc2lqR1N5X0VhRmoxRkdVNThfUFR2WUhBTmMxXzByRjk5QnNpUWZqWFFNVW9SSUtrOXJ1NTVrUlNqS0VxMlRDczVSd2IxT2JQcVUtNlNpOHJ0RTYyOTlCanR5VHRQRE5YdjFQUFNRRWhqQTJaSUR6WVNVRWNxVlY4aGdkVG1USXpCNVVBcVhxdml1SFpidllhREhiYS1SLWFNclRucHNiNGRsbjFuRzRhWHZOall0WXlFZEF6dE9aTGxENEhwdTNWSWhpZmNjQ1hTWFHSAeABQVVfeXFMT1Bpb01RM3g5REgtb1JCTHFIb19TYjd6Zldpb3ZFd3BKcFd5a1B0dHVhclNZQ3ZfUTZNTzk5Njd0S3A5S3Z6TmM2WVBfRW5aUnZvelBfeFVZdXVrZExCYVRWWVA5RVhKZWpKRWxoeFpkVk1maWVFekNENmdvaFdwZ0lHd0REZWZfZWlZMmZyZ3ZGVjNld2JBNWhXYWxwbFR3amVwVzktdVcwNThuUVZUUDl1VDFfMkl0azFTcUZCU1NiSVlsdVQ3Ri1XTVBYVkVPbnVaMUl6MDg2NmZ2OVB1dWE?oc=5
-
-- "If Pak Continues To Operate Against India...": Army Chief's Big Warning - NDTV
-  "If Pak Continues To Operate Against
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNNFFlOEhLNnRzWjdZbVVWaXRtanJUT09aZTNWeGhIMUhGOHoxMnYzRHd4SDRRcUJCQlh1Zm1fMW8tT3pDTzBWa0o0X1NIa1B5RWdnNF9pa1VPeWt2aC1MWWR1c2VYQUJHenEzdUJTRHp3UjQ2V28wSXl0akxGQ3FKaXNMQkw1aFRXSWNEdkxPNUpsMEZXZXpQTzZlWUtFTVVUZFJGMVRLUERyTWFJVTlad2lkVHB1SlFfcURteVh1Qkt0ZEU1Y2FrUnJncVFSZW1SM3IwUkVxSTcwYldFckxVZXkyODBVX1ZDMlNBODlsMExEd1NzVXFhU21SSnFWY19OWDV1VNIBjAJBVV95cUxPS2Q1WXFTLVBPVmlQdEg1TGlaWFJiT3B6d0M3NGVRdEZUU0FGaGZFNzE0bm1jRFExcWFCRkFvUTgwaFlTRmZ1c3UxV0VrRnVsbUhpNUJ5b2xyZndQbkdkdmRhRDI5dGM5VHh6N3RURXI4R2Z6VE9BcjlreENaUDltZWgwN2hJR0U1RF9EXzhaNkd2VmdZV2FsNlNta21lWHh2WWdGNzNlaV9KVllfa3NOU1FCcXl3MEttd2Vaek0weU1iNGl1R2phRkVmSmlhOGF2UVRhSkloMVAxTWJaZm1JOFBhYmR2SUJITVhUTllaVlA1Mjd4SkdWYjhWOFlFeTBrZHdBZzRMVXB2MG1l?oc=5
-
-- Exclusive: Indian Air Force Officers Recount "Once In A Lifetime" Op Sindoor Mission - NDTV
-  Indian Air Force Officers Recount "Once In A Lifetime
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX0FnR2RzZExWTVJnN2NuR3BPV2FZWmxNWnBPMFZQVW9xV1lqS3dPQ21YVFd1aG1mS1JLb2pmRzlCcGpnTi1aSzQzeV9nRWF2d3ZFRXJycVltZFRVLVJzSTJOZWU4T01MdEVMOGxlMnFJVjFJa2Fha1hjZnZ4NTl5VHZlY1JHcEp4MGpEOExNTGdsR1cxZ3pwaFdCYWczYUVWdE9FZUNHWGRITHcyZUZHUGpGVDhOWU9DTTNSM2xSQklwS1huZGthNFg5dmhGcFY4a3pEQ0JfcGpLOVNwOTl5RXoybzZQWURETHFSU09VcjhhWGIzNXRUQnFPRmjSAYQCQVVfeXFMTzFCWFVFa1BkZmh0MFQtdDdIajR6V3RIc2plQTdFSXQ1VVE4MzV0NGY4R3FxWTBlRm1tLVU1Y1dsZVZBT2dNYXhJbDNkZnJyTHpiZnAzQ0s0ekt0MENLMzNUaWRLeE42bkJEYjQ5Qko5bnZkUE9oM3A0Ry1raEp0OFdGeUJSb2RiQk1XZWNYcWJudW42V3pSRzNja3NlMG1NYmgyRGE4VjdDRkdxN2tSNGRTcXJvZGlRdlk5aHNKMk5ZNVllYVl3azNhUHdWbUx0SUR4dXlzSTNKOFhSYmtFQWdIY0VMZjljUVVsaGJySGZkNFJGclZsQzB0M0NKTzF4R21UNFI?oc=5
-
-- PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India - The Hindu
-  PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUktDb1hCQzRVMmMwWDhhN1NfQ3g2Ynk1OTctc053cDJRUF80X1kyNE5rdjdsdi05cF90aXcxX0pDREtoYnVhYXFpWWRNbWVDTHVXR1VtdDFpQkE5WldqcndpT0lFa0ItVTl3clJtMjE2X0xYaGFCcHUwMHBfcU1lVHE4RkNxWWNyUW9YMWhORzFnZXhaODBVU200ZEQ0M1dyWjlsSTlvZnFLRnBqZS1qYzlkd3Q1U1VhNTh3ZTBjRlV2alNDb0xXazRibklVS2p0N0FOcjM3X2dtblRoQ2FKOXQtNG4yRi1qOXNkalpvSmxTdw?oc=5
-
-- PM Modi Netherlands Visit LIVE: "Felt Like Being In India": PM Modi praises Indians In Netherlands - NDTV
-  PM Modi Netherlands Visit LIVE: "Felt Like Being In India":
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxQM3FJSTVTTGxOdk42eGFGZXhKOVBoOFB3T3RfVnZVT0l2RGYwRWpIMERsRWVHQ2t4ZHB4SENab3JOTW5tRmQ0RzRsNDVBZFZNYUZIelpaSjluX3JOZHpPdi1RMEdXUDVkSVFyNXlYRzlYLVBuZThPVno0VXRLeTJnNGZIODNNal9Cb0ZrdXNaQmtfNzljekhKU1FlVElRRDNSaGNlNGUxMzgtaWU5QVlNbUJQYmVHUy1MbTFSQnRSM2xKN3kzN2lYSjhLSEl5bWM5aDFfQmE3OGpUaXlKMHRFWlNieXNBS2hGVHcteXJsaHhDaFhlcWdob3U5UVFCVkRWRkdFYTZKaTJHX19peXRvd0JhRG43Sm1xZGRV0gGjAkFVX3lxTE11TTBlS3BQNEpXTnVpb3hBaHFteVI5SERWMDNLeFQ5ck40aGpDMVpJRWlXX0RLM21WVEVMZTEwWjBja1BYWXBUdEpHSkRTUVJCZTNnZUptaENYeURrVXRaeUg1S3ZkNnZyZGZGckVwdGltTUdzOWkxVHhyYXpNbi1DdnZnYWZQcDVOUlNlN3plN1MyUWpqZHN1QnJaelVvU0llMWM4MkM3RU95ekRDOUpPN3RkVzBHSnZScGl4SlEySFJXeWFWZDdoVDFzRy1oeEY0YzNPelBHYTFmcUx6c1hMaVlzOHdCS2ZKTDdvQlBiZVBJUTdBTVhnN2dPenhoNTFycWt5WHVVVmNWTkxoR0Fyd3pRdm9YSU51elgzcnlCcVBfMA?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 - Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
   PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-16 19:01:32 UTC_
+_Last updated: 2026-05-17 02:40:54 UTC_
