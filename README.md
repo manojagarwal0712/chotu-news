@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- India, Norway elevate ties to Green Strategic Partnership, ink pacts on space, health, digital development
+  
+  🔗 https://indianexpress.com/article/india/india-norway-ties-green-strategic-partnership-space-health-digital-development-10696377/
+
+- Citizenship rule change: Applicants have to declare, surrender passports issued by Pakistan, Afghanistan, Bangladesh
+  
+  🔗 https://indianexpress.com/article/india/citizenship-rule-change-applicants-have-to-declare-surrender-passports-issued-by-pakistan-afghanistan-bangladesh-10696153/
+
+- Woman forest guard accuses senior officer of sexual harassment in Rajasthan; departmental probe ordered
+  
+  🔗 https://indianexpress.com/article/india/woman-forest-guard-sexual-harassment-rajasthan-probe-10696299/
+
 - Do younger craftspeople want to stay on in their parents profession? A new survey has the answer
   
   🔗 https://indianexpress.com/article/india/craftspeople-parents-profession-survey-10696225/
@@ -7,18 +19,6 @@
 - ‘I proudly declare — India is now Naxal-free’: Amit Shah in Bastar on first visit after his March 31 deadline
   
   🔗 https://indianexpress.com/article/india/i-proudly-declare-india-is-now-naxal-free-amit-shah-in-bastar-10695976/
-
-- Bajrang Dal protest sparks chaos in Dehradun, FIR filed over road blockade and coercion
-  
-  🔗 https://indianexpress.com/article/india/dehradun-bajrang-dal-protest-clock-tower-fir-shoe-store-harassment-10696053/
-
-- Leaked NEET Chemistry question bank found at arrested Maharashtra teacher’s home
-  
-  🔗 https://indianexpress.com/article/india/neet-ug-paper-leak-case-chemistry-questions-bank-latur-coach-shivraj-motegaonkars-premises-10695979/
-
-- NMC chief says AI won’t replace your doctor, but change medical education forever: Here’s why
-  
-  🔗 https://indianexpress.com/article/india/healthaicon-2026-national-ai-doctors-mission-launched-nmc-abhijat-sheth-10695915/
 
 - SpaceX set to launch Starship test flight on May 20: Here’s all you need to know
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/science/venus-crescent-moon-sunset-how-to-watch-10695363/
 
+- Delta to Prioritize Global Expansion Over Domestic Transactions
+  Delta Air Lines Inc. Chief Executive Officer Ed Bastian said he’ll sit out consolidation in the US aviation market and instead focus on expanding abroad. High fuel prices and a transaction-
+  🔗 https://www.livemint.com/companies/delta-to-prioritize-global-expansion-over-domestic-transactions-11779129573907.html
+
+- Adani Enterprises to pay $275 million settlement to the US treasury for buying Iranian gas
+  The settlement, along with recent SEC and DOJ developments, effectively ends all
+  🔗 https://www.livemint.com/companies/adani-enterprises-to-pay-275-million-settlement-to-the-us-treasury-for-buying-iranian-gas-11779121400529.html
+
+- No WFH for Zoho employees: Sridhar Vembu says ‘….issues take longer to resolve’
+  Sridhar Vembu said direct interaction among teams helps resolve challenges faster and improves
+  🔗 https://www.livemint.com/companies/news/no-wfh-for-zoho-employees-sridhar-vembu-says-issues-take-longer-to-resolve-11779120945558.html
+
 - Vodafone Idea draws up  ₹1 trillion cash strategy amid dues, capex push
   Vodafone Idea's plan comes as analysts raise concerns about the company’s future payment obligations to clear spectrum dues. The company is
   🔗 https://www.livemint.com/companies/news/vodafone-idea-financial-roadmap-cash-strategy-dues-capex-turnaround-funding-11779106252434.html
@@ -48,17 +60,13 @@
   IDFC FIRST Bank’s March-quarter earnings showed a sequential slowdown in deposits after the Chand
   🔗 https://www.livemint.com/companies/idfc-first-bank-deposits-stall-after-590-crore-fraud-q4-earnings-impact-11779103625381.html
 
-- Cruel summer: How Iran war shocks are silently gutting corporate profits
-  The West Asian geopolitical shock has ignited an industrial wildfire in India. A hidden crisis of soaring costs and fleeing workers is quietly triggering margin erosion. The worst may be yet to
-  🔗 https://www.livemint.com/companies/india-inc-west-asian-crisis-margin-impact-11779093787219.html
+- NACHO Is On, But Memory Chipmakers Rally Isn’t Over
+  The NACHO trade, which stands for “not a chance Hormuz opens,” is on. Prospects of prolonged inflation have risen, sending global bond yields higher and the US dollar
+  🔗 https://www.livemint.com/market/nacho-is-on-but-memory-chipmakers-rally-isn-t-over-11779131914106.html
 
-- Mint Explainer | Why Swiggy wants to be classified as Indian-controlled
-  Swiggy’s proposed governance changes highlight how Indian startups with large foreign investors are restructuring boards and
-  🔗 https://www.livemint.com/companies/news/why-swiggy-wants-to-be-classified-as-indian-controlled-e-commerce-rules-explained-11779095530584.html
-
-- TCS asks managers to classify 5% staff as underperformers
-  Internal emails show TCS pushing managers to place 5% of employees in the lowest performance band.
-  🔗 https://www.livemint.com/companies/news/tcs-5-percent-underperformer-push-after-layoffs-band-d-employees-ai-pressure-11779084572812.html
+- IOCL Q4 Results: Net profit soars 78% YoY to  ₹14,458 crore; declares final dividend of  ₹1.25 per share
+  Indian Oil Corporation's FY26 March quarter saw a slight revenue increase to  ₹2.36 lakh crore. Profit before tax surged to   �
+  🔗 https://www.livemint.com/market/stock-market-news/iocl-q4-results-net-profit-soars-78-yoy-to-rs-14-458-crore-declares-final-dividend-of-rs-1-25-per-share-11779119016721.html
 
 - Gold, silver rates today: Comex gold rebounds $27/oz, silver gains $1/oz as bond yields stabilise
   Precious metals recovered on 18 May as bond yields stabilised. Elevated tensions in the Middle East have kept crude oil prices high. Federal Reserve meeting minutes may influence the direction of precious metals.
@@ -72,13 +80,9 @@
   Major indices dropped over 1% in the previous trade as tech stocks faced pressure. The unresolved conflict poses risks to the AI-driven market surge and overall economic stability.
   🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-fall-up-to-0-8-as-crude-prices-stay-elevated-brent-hits-112-11779103160749.html
 
-- US stocks to buy for short term: From MP Materials to Arista Networks- Appreciate CEO suggests picking these 5 shares
-  Subho Moulik identifies five US stocks poised for short-term success. With AI capital expenditure soaring, these companies are positioned to benefit
-  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-to-buy-for-short-term-from-mp-materials-to-arista-networks-appreciate-ceo-suggests-picking-these-5-shares-11779104769479.html
-
-- NSE kicks off trading in Electronic Gold Receipts: Is it a better way to invest than gold ETFs and physical metal?
-  Investors can surrender the EGRs and take physical delivery of the corresponding quantity and quality of gold. Since each of the E
-  🔗 https://www.livemint.com/market/commodities/nse-kicks-off-trading-in-electronic-gold-receipts-is-it-a-better-way-to-invest-than-gold-etfs-and-physical-metal-11779103362996.html
+- Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late
+  Jury rules against Elon Musk in his feud with OpenAI
+  🔗 https://www.livemint.com/technology/jury-rules-against-elon-musk-in-his-feud-with-openai-saying-he-filed-his-lawsuit-too-late-11779126917433.html
 
 - Pope and co-founder of Anthropic to launch pontiffs AI encyclical on May 25
   Pope and co-founder of Anthropic
@@ -96,169 +100,165 @@
   The game can be pre-downloaded right now with download sizes being 135 GB for Xbox Series X, 130 GB for Series S, and 160 GB for PC. For
   🔗 https://www.livemint.com/technology/tech-news/forza-horizon-6-release-time-when-can-you-play-on-xbox-pc-and-steam-in-india-11779083021274.html
 
-- Sam Altman says India created over 1 billion images with ChatGPT Images 2.0: Here are top trends and prompts
-  OpenAI's ChatGPT Images 2.0 has generated over a billion images in India.
-  🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-india-created-over-1-billion-images-with-chatgpt-images-2-0-here-are-top-top-trends-and-prompts-11779077229353.html
-
-- S&P 500, Nasdaq fall for a second day as Micron drops, traders eye oil and yields: Live updates - CNBC
-  S&amp;P 500, Nasdaq fall for a second day as Mic
+- Nasdaq drops for a second day as tech pullback picks up steam, Micron shares slide 7%: Live updates - CNBC
+  Nasdaq drops for a second day as tech pullback picks up steam.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5
 
-- Stock Market Today: Nasdaq Edges Higher at Open on Iran Optimism — Live Updates - WSJ
-  The WSJ reports on the latest developments in the
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1Zxdlo1cVk0bmVkRmRhNVIwaHRrSUhSazd2OURxTUNfbnpSLXB4REV6TzNyalNTR3l3QVpSMXAwc2taWjE4RVE5YXFZd2taMk1xSUhtNTJObGpPaFF1RG5jQ0I3VU9leGxNbFlWaVZGbDk5MTR5SUJGam8wLW5SMjh5aXlINEE?oc=5
-
-- Stock Market Today: Indexes Mostly Lower to Begin Week as Tech Shares Fall; Treasury Yields Remain Elevated - Investopedia
-  Stock Market Today: Indexes Mostly Lower to Begin Week as Tech Shares Fall
+- Stock Market Today: Indexes Pull Back to Begin Week as Tech Shares Drop, Oil Prices Rise; Treasury Yields on Pace for Highest Close Since Feb. 2025 - Investopedia
+  Stock Market Today: Indexes Pull Back to Begin Week as Tech Shares Drop, Oil Prices Rise. Treasury Yields
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVB2YTFieThqQmZERlhCQUR0cGY4aGxyVE5kdzNlYm55Unh5Nm1oay04YncyUmkxOHNKRFhMWE9sX2lMWHMzemkxNGVSdW5kSGhRTFNfZVRTSGd1dVAzMDVuUGNoRE1CbG9IYzJjYmNabk5YQUhzeW1XdjVsOE1BZ0dtTUI4bWhyWjRZbS1QdTI?oc=5
 
-- Brazil's Record Oil Production Comes at a Crucial Moment for Global Markets - Crude Oil Prices Today | OilPrice.com
-  Brazil's Record Oil Production Comes at a Crucial Moment for Global Markets.
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm1md2t1eVlNOUJSbldPQllzNlpzS3JkQjV1MFZWRWhOeTU2NDNnVkg1YnlWMWc5LVYzTGZ6TVNFdnpTVkJHanVpN1FleEJObnh1bWd1al9CTHFDUTE0VjNkUklzRDEwT2NOelh3TERGbEhPSE92NEJiS19Za1N3dTVqRF9VWm5LMTdHNS04TktRaEFsbVpUal80TEltYkFCQnhlbHN1bF9wOTczSEttdmhUb1pta2xPY3gxcUM1d9IBxAFBVV95cUxONGhWTlRxV1I1YmRsYmNESVZqQS05TG96MUhxUjU4NkhCZnFEbFA2RllWVTRWMU9icnZiWkFRMmN0SkJ6RzgtN3RwMjlfbmRLX1BrNENFa082bE91a1VNaVF4UkdUaG5YZUc1WnBEcGJPSWVQbUY2QzJNeERScXAyNXZPdTNoTFN4LTREMWdPZm45cVpfSHAzc1o5SVp3VlU0UWIwN1dLRW5jUGpKQ09HNGh6eGx2MjJpejhiXzFyaXBuVnpC?oc=5
+- US Stock Market Today | Dow Jones | Nasdaq Live: White House reviews ban on trading through best price on... - The Economic Times
+  The Economic Times reports that the White House is considering a ban on best price trading.
+  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxPNTgzZkV3bVpUVWxUeHdaMkp6aEkzYTZ2Ml96aVdKOWlVQTFiaHAzVTVsMjdJQzhhaXBjckhGamo4cHpXQlNJdVE3TzNkRGd4dU5uNWFfZnNwSnJtRjA1N0FwQ0hqbUhGOG9MTnZEdlVlcGhpdnVqV2lGZGdFY1lwbS1EYzFiQ3BjQ3JRNk50M3M5N3NtQjJ2WmZkZUFJWGp0SjY0bjU2VUZHaVQyczFrTjRQSHE4VHVJVU5qWndIQVlWSWxDRkFWeFlvZzJSMHF3aV8xTXFxcEFBREtkUGZwU01UWUE5ZE1nLXpUREM4TGp3eGNRWnBVa3BZeDlRVUJGMnprbW5ZQ0FqNE9JRFVTNk1Ec2ExTDlVNk8tcnlHZ1VBUmFXUmFxUUFRb1QtTlF5UnBwLW9JSHc2S1F3cU9hYl9WTDViZDJTM2ZXYjh4NUYyNmFMR1luT9IB3gJBVV95cUxOa29xajJWSUZySkFHRy1WR0IwSW9PVFQySE5rLXMtR3V5UzVxUjZnbjl6MGk1Q3FkU1Rad0RNZjQyMURxZ2tWbFF6TFFXdWgzaEN6WGE0ajlYa056M19YakJzNTUydHgzSDM1SGhqU0JTZ0hpUHBwdnA4TXlZTDZSX1pGMkRra1R2dWFuRkE0NzZJeVJ4RjVFNnQ2dkxJeENsY0xYQl9IMkpnZnI0MnZmSy1ocm9oejR4amhuT1ROOGphUzNKY3lXVGtzY2FOcHJ1am1pdUQ1MG16aUt1d0MzWHFOTHdIWF9YZnRwMFNsY20wUk1VSk1CdjhkU2ZMRUhCRXpGZEN3RkxCdEhXdy16Qmdhd3BvWDlMM3NHWEV4cXBoSGlONk94SWo0ZHZCOHBUNW5mV0gtVkRPWVp0eFpseThBMG5pamlyUGNoUUNGR0xXejhwZTNZQml5QlIxUQ?oc=5
 
-- India missed out on AI and now its run as market darling may be over - The Japan Times
-  India missed out on AI and now its run as market darling may be over
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNemZycXB6ODRDYW00b014dHNCeGFNeWV6elIyQ1J6Q0JGYmluSnFSMWw2b3ZOV01Dd1BSX3hRREZld3lDYmdrVUNTZnUwS3pMM3VUdi1rSFhMYjJYdjZESjhfQzNYcEx4YThqdmlhSWVUZE5QWUZic0d1YzNob005Vw?oc=5
+- Stocks Halt Slide as Oil Declines on US-Iran Hopes: Markets Wrap - Bloomberg.com
+  Stocks Halt Slide as Oil Declines
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3BScEQ1Zkt4cUJWSDBqa2tNSk5oeFZCUFQ2UTBZbVZqS2tkY2JHVlpWZ3ZGanZlTGNlNE8tWC14anZ6OGNqQ0syZzFPclZ2cWpybXA0WDhQaDZIVGdaX2s5bTc2c2NkLWM0eXNhVzZHZ29fTnkyLVNnWXpISnAxc09KS2ludXEyOGFDTC14MHlkTVRXQi1hRVJJQWpDWDZ5S1VyTGZ3TzVweUEyOTdZ?oc=5
 
-- IGL Q4 Results: Cons PAT falls 25% YoY to Rs 341 crore, revenue up 6%
-  Indraprastha Gas Limited (IGL) reported a Q4FY26 net profit fall of 25% YoY to Rs 341 crore. Despite the profit dip, revenue increased 6% to Rs 4,585 crore
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms
+- Brent Breaks $111 as Oil Markets Brace for Shortages - Crude Oil Prices Today | OilPrice.com
+  Brent Breaks $111 as Oil Markets Brace for
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhVeGJNRjhpRndFNlhSUnZDQXI4b1B3TjlHTDZJTUR1ajBhSXhXM21TbTJpNmlWWDZ0ZWp3dk1NcWdpX0Y2X0JNV0oxR3hpSVYwOHlZbm1taDM0M2hIU2xBczgyejkxT1RsVkkyajJKR1A5MHU3alktQnk3ZzhvaXc0azZHU2l0eW1LQnktTTYwSndFcVRNYlBTOHBUWm5o0gGmAUFVX3lxTFBSV1NwS2hhc2c2REtkTHEyZ0NLMHg5VGdtYTRDMEE1YXlCclVHLXY4Wk1jNkVyZ2IzdjhxVUlwWjVIS05KQ1c0VDN3VFd0OVNhYU5HMXBNMy1kTE96aHNJZnpmSHM4VkJUQnR6M0FUZDI0NFVUdGRTN2hkMDFFQ3ZpeG9WMFZNSnd0WnVOZGlvUThISWRJb3N6OGNRYVRvamR1WnNYa0E?oc=5
 
-- NextEra Energy strikes $66.8 billion deal for Dominion in bets on AI power demand
-  The deal, one of the largest in the U.S. power industry, adds to a wave of consolidation. The rapid data-center buildout lifts power demand for the first time
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nextera-energy-strikes-66-8-billion-deal-for-dominion-in-bets-on-ai-power-demand/articleshow/131179481.cms
+- White House reviews ban on trading through best price on stocks
+  The "trade-through" rule prevents trades from ignoring top bids or offers. SEC Chairman Paul Atkins believes it has negatively impacted market growth and investor execution.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-reviews-ban-on-trading-through-best-price-on-stocks/articleshow/131185207.cms
 
-- UnitedHealth falls after Berkshire sells stake in health insurer
-  UnitedHealth stock is up 20% so far this year, after falling more than ⁠30% last year. UnitedHealth was the
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-falls-after-berkshire-sells-stake-in-health-insurer/articleshow/131179448.cms
+- IOC Q4 results: Cons PAT surges 78% YoY to Rs 14,458 crore, revenue rises 7%
+  Indian Oil Corporation announced a significant 78% jump in net profit for the March quarter. Revenue also saw a healthy increase. The company's board recommended a final dividend for shareholders.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms
 
-- Block deal: JSW Energy sells Rs 3,150 crore JSW Steel stake to GQG, SBI Mutual Fund
-  JSW Energy has divested a portion of its JSW Steel stake for Rs 3,150 crore to fund its aggressive power generation expansion. The company aims to reach 30 GW capacity by 2030, bolstered by both renewable and thermal power
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms
+- Warsh to be sworn in as Fed chair at White House on Friday, Fox Business reports
+  Kevin Warsh is set to take over as U.S. Federal Reserve chair following Senate approval. His leadership comes at a critical time as the Fed navigates persistent inflation and pressure over interest rate cuts.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms
 
-- GIFT Nifty jumps nearly 1% after reports of US relief on Iran oil sanctions
-  GIFT Nifty rallied nearly 1% after reports indicated possible temporary US sanctions relief on Iranian oil exports. Hopes of additional crude supply eased inflation and energy shock concerns.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-nearly-1-after-reports-of-us-relief-on-iran-oil-sanctions/articleshow/131178975.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian indices were subdued with Nifty up 0.03% and Sensex down 0.10%. High volatility (VIX at 19.63) and bearish momentum indicators
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms
 
-- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
-
-- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
-  PM Modi to reach Norway today for 3rd India-Nord
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
-
-- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
-  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
-
-- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
-  India express deep concern at attack targeting Barakah nuclear facility
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
-
-- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
-  "Dangerous Escalation
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+- Sebi proposes easing call recording rules for research analysts dealing with institutional investors
+  SEBI proposes relaxing mandatory call recording requirements for research analysts. The proposal recognizes institutional clients as sophisticated entities.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms
 
 - 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
-  PM Modi to reach Norway today for 3rd India-Nord
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+- India resilient to West Asia shocks: SEBI chief - The Times of India
+  India resilient to West Asia shocks: SEBI
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxmOUJfbDlNaDNvVUgyNjVwN21zWWg0bUdxWGF6QWMzYndneU9VV1BEWTl4MmVuc3E2VU5hM0FwdzBfS1c3Wk1SRlozUmVmNEh5Zi1CSEhEVlNGUDF4V1Yxa3ZNdzhBUEU2Zk5fUzEwaUt6WGV3VlJJcHVQZkdTM3RsNElDM1N2Wk9TUDc3QnpsQzNtYkRyNXozYVE4WmpfTzZjbFh3OTJXSUVJM1FmNDJMVXpxZGVTMFZvUWhJazFrR0nSAcgBQVVfeXFMTTRwamJ6Wmtsenc1bWxaay1KYWtWSmhZUGVOWjBiUDl2V2hjMjNLc2VjMHlEZ0xBWTRzYjdrTFJtdTlSQmJvMzNFb3NWNG42LXhjRklQZTdpUFpOMWx5R3dIQW5Ua24wOS04X3NKWDVtM1huWFY2N3BsbUVCSlZXcm5EdDBpc21tcU52emRRRDBSQ2dtR25ZVGtIUzhpOG0zZ05xOHRnU2IySlhjSlUta0NXb3poaEtZYmNwVE1nRDllYmt3bW9vWXA?oc=5
 
-- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
-  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+- Bengaluru Left Waterlogged, Traffic Hit After Heavy Rain - NDTV
+  Bengaluru Left Water
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGduejBXOFUzemhVZk8wWkZSNU5zcTdzVUhPbTkxSWg3eU1JdWx6bTFxSDdvY1RZTG1IWFJ0Zy0zMTdXcTJPclBEUlZ2UHh2MG16aU1LSEowcG9RdFFvbDJDUGVObWhyOTRvRVVORlVORlpZWl9mdURFNDBINDQwb3NOYnIzdzR2ZUNCZUlyeWJuYUJuZ0s1bUdnLTbSAaQBQVVfeXFMTnMxWG5ncVZ2RGIzSnJuTFVmSGFKMkhQbDhiQ1dUeUNhVWdHcjhIUkhnTHlGeXlSd1ZzdkNEQmpxT3lXazItdTFrV1lQZl9zV1BGaVYtMG5oQndMMGRuTXlsWEtheVNtYW1hRTZSSDY0N3IxbjhHSzB0bEhLdXlUOUFPRGNIQjVOejM3M3B4NW1Tblc5THd5elh0RmNSdTFSaDFKMUM?oc=5
 
-- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
-  India express deep concern at attack targeting Barakah nuclear facility
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+- Manipur Tense As Blockades By Kuki, Naga Groups Paralyse National Highway - NDTV
+  Manipur Tense As Blockades By
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnFfcHE0Z2NSTVBweGROcTF3TEZpSHphS3JWTWJsNzF1eTVpc09xTkZldW5kRXdWM2g4SENpMURiaHBKem1tc1ZDUkFfbUE3QUlIb0JMbU8wS0dDdlJMTHJpUFRGcDd1dzF3ajZMY1B2dnhfbHd0RlozWXBEOHM5N1k3QUljV3pvVTlZRWc5bTNVRlhfWTBPcU9NOUpESF9pV2VXbF9mTjNLb1FTdnI2UEQwY9IBuwFBVV95cUxPb0NHSDBBMXBEX3VvbVM1SU5vUk1GZWFPdzNVTmhSYzNuWXJyQm1jWk96V3lDOUdmemNDd3BndDZRb18xc3REWUJkNUFJVEpRNlpSck9xVkJSRDVkSGR6TGVFdHRjazBuS2VEN3l4SzJNaGlMb2JwU3B5QU1sQm9zbGFhbk9pX3hIeDdGejVVc29jdFlsUkRzRnJVYWhsUUhhcm5UcDNxUVJMeFNVSXp4S3JGcnMxSVJnWVRF?oc=5
 
-- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
-  "Dangerous Escalation
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+- ‘Hindu order runs India’: Court declares another medieval mosque a temple - Al Jazeera
+  Al Jazeera: Court declares another medieval mosque a temple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORjA5WGVLazRUcnBOeG9nV2V4SDN1Tnc0akxLRXRjczVEQjlxaGxPTzFxZnZUeHZ2QW9oYTBwWkRoOGJ4OXBvbmpKbjVUUTEyR1hNQUVJVjcyVDhtNTNVdDJfWFMwTjBiN19KVFpaX0JLdFNsajFnWHNEYlgyRFBvSE56UFo1TzNRTDZlUWVneEdQeDZsZEp0bnJNOFFpaXNPYzc3RlFSTGE0Qmg5TlBfVWR1R1U5Z9IBuwFBVV95cUxPczZTVGNBVWNvTnR1VDFWblhJUU1kdkpkdmtBRFVJci1VMFZRTHZWdGlvVmNTOTRHbUxRRFc3U0R2LUNHUXZic3ktbzdPWVhhdnRhSHdLTVN4Ympjeks3OE5maHZrM0ZKZEx0TzBqZkxtLXEyNGszTklXX0dSNHdTX2xxdTBQUm00N3dNTll5WTVuckI0bDBPLU1zbGthUjJJdGlZQVlHeGJ5b1p6NlVUbHJBOWZDZTl6SzRN?oc=5
 
 - 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
-  PM Modi to reach Norway today for 3rd India-Nord
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+- India resilient to West Asia shocks: SEBI chief - The Times of India
+  India resilient to West Asia shocks: SEBI
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxmOUJfbDlNaDNvVUgyNjVwN21zWWg0bUdxWGF6QWMzYndneU9VV1BEWTl4MmVuc3E2VU5hM0FwdzBfS1c3Wk1SRlozUmVmNEh5Zi1CSEhEVlNGUDF4V1Yxa3ZNdzhBUEU2Zk5fUzEwaUt6WGV3VlJJcHVQZkdTM3RsNElDM1N2Wk9TUDc3QnpsQzNtYkRyNXozYVE4WmpfTzZjbFh3OTJXSUVJM1FmNDJMVXpxZGVTMFZvUWhJazFrR0nSAcgBQVVfeXFMTTRwamJ6Wmtsenc1bWxaay1KYWtWSmhZUGVOWjBiUDl2V2hjMjNLc2VjMHlEZ0xBWTRzYjdrTFJtdTlSQmJvMzNFb3NWNG42LXhjRklQZTdpUFpOMWx5R3dIQW5Ua24wOS04X3NKWDVtM1huWFY2N3BsbUVCSlZXcm5EdDBpc21tcU52emRRRDBSQ2dtR25ZVGtIUzhpOG0zZ05xOHRnU2IySlhjSlUta0NXb3poaEtZYmNwVE1nRDllYmt3bW9vWXA?oc=5
 
-- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
-  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+- Bengaluru Left Waterlogged, Traffic Hit After Heavy Rain - NDTV
+  Bengaluru Left Water
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGduejBXOFUzemhVZk8wWkZSNU5zcTdzVUhPbTkxSWg3eU1JdWx6bTFxSDdvY1RZTG1IWFJ0Zy0zMTdXcTJPclBEUlZ2UHh2MG16aU1LSEowcG9RdFFvbDJDUGVObWhyOTRvRVVORlVORlpZWl9mdURFNDBINDQwb3NOYnIzdzR2ZUNCZUlyeWJuYUJuZ0s1bUdnLTbSAaQBQVVfeXFMTnMxWG5ncVZ2RGIzSnJuTFVmSGFKMkhQbDhiQ1dUeUNhVWdHcjhIUkhnTHlGeXlSd1ZzdkNEQmpxT3lXazItdTFrV1lQZl9zV1BGaVYtMG5oQndMMGRuTXlsWEtheVNtYW1hRTZSSDY0N3IxbjhHSzB0bEhLdXlUOUFPRGNIQjVOejM3M3B4NW1Tblc5THd5elh0RmNSdTFSaDFKMUM?oc=5
 
-- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
-  India express deep concern at attack targeting Barakah nuclear facility
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+- Manipur Tense As Blockades By Kuki, Naga Groups Paralyse National Highway - NDTV
+  Manipur Tense As Blockades By
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnFfcHE0Z2NSTVBweGROcTF3TEZpSHphS3JWTWJsNzF1eTVpc09xTkZldW5kRXdWM2g4SENpMURiaHBKem1tc1ZDUkFfbUE3QUlIb0JMbU8wS0dDdlJMTHJpUFRGcDd1dzF3ajZMY1B2dnhfbHd0RlozWXBEOHM5N1k3QUljV3pvVTlZRWc5bTNVRlhfWTBPcU9NOUpESF9pV2VXbF9mTjNLb1FTdnI2UEQwY9IBuwFBVV95cUxPb0NHSDBBMXBEX3VvbVM1SU5vUk1GZWFPdzNVTmhSYzNuWXJyQm1jWk96V3lDOUdmemNDd3BndDZRb18xc3REWUJkNUFJVEpRNlpSck9xVkJSRDVkSGR6TGVFdHRjazBuS2VEN3l4SzJNaGlMb2JwU3B5QU1sQm9zbGFhbk9pX3hIeDdGejVVc29jdFlsUkRzRnJVYWhsUUhhcm5UcDNxUVJMeFNVSXp4S3JGcnMxSVJnWVRF?oc=5
 
-- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
-  "Dangerous Escalation
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+- ‘Hindu order runs India’: Court declares another medieval mosque a temple - Al Jazeera
+  Al Jazeera: Court declares another medieval mosque a temple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORjA5WGVLazRUcnBOeG9nV2V4SDN1Tnc0akxLRXRjczVEQjlxaGxPTzFxZnZUeHZ2QW9oYTBwWkRoOGJ4OXBvbmpKbjVUUTEyR1hNQUVJVjcyVDhtNTNVdDJfWFMwTjBiN19KVFpaX0JLdFNsajFnWHNEYlgyRFBvSE56UFo1TzNRTDZlUWVneEdQeDZsZEp0bnJNOFFpaXNPYzc3RlFSTGE0Qmg5TlBfVWR1R1U5Z9IBuwFBVV95cUxPczZTVGNBVWNvTnR1VDFWblhJUU1kdkpkdmtBRFVJci1VMFZRTHZWdGlvVmNTOTRHbUxRRFc3U0R2LUNHUXZic3ktbzdPWVhhdnRhSHdLTVN4Ympjeks3OE5maHZrM0ZKZEx0TzBqZkxtLXEyNGszTklXX0dSNHdTX2xxdTBQUm00N3dNTll5WTVuckI0bDBPLU1zbGthUjJJdGlZQVlHeGJ5b1p6NlVUbHJBOWZDZTl6SzRN?oc=5
 
 - 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
-  PM Modi to reach Norway today for 3rd India-Nord
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+- India resilient to West Asia shocks: SEBI chief - The Times of India
+  India resilient to West Asia shocks: SEBI
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxmOUJfbDlNaDNvVUgyNjVwN21zWWg0bUdxWGF6QWMzYndneU9VV1BEWTl4MmVuc3E2VU5hM0FwdzBfS1c3Wk1SRlozUmVmNEh5Zi1CSEhEVlNGUDF4V1Yxa3ZNdzhBUEU2Zk5fUzEwaUt6WGV3VlJJcHVQZkdTM3RsNElDM1N2Wk9TUDc3QnpsQzNtYkRyNXozYVE4WmpfTzZjbFh3OTJXSUVJM1FmNDJMVXpxZGVTMFZvUWhJazFrR0nSAcgBQVVfeXFMTTRwamJ6Wmtsenc1bWxaay1KYWtWSmhZUGVOWjBiUDl2V2hjMjNLc2VjMHlEZ0xBWTRzYjdrTFJtdTlSQmJvMzNFb3NWNG42LXhjRklQZTdpUFpOMWx5R3dIQW5Ua24wOS04X3NKWDVtM1huWFY2N3BsbUVCSlZXcm5EdDBpc21tcU52emRRRDBSQ2dtR25ZVGtIUzhpOG0zZ05xOHRnU2IySlhjSlUta0NXb3poaEtZYmNwVE1nRDllYmt3bW9vWXA?oc=5
 
-- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
-  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+- Bengaluru Left Waterlogged, Traffic Hit After Heavy Rain - NDTV
+  Bengaluru Left Water
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGduejBXOFUzemhVZk8wWkZSNU5zcTdzVUhPbTkxSWg3eU1JdWx6bTFxSDdvY1RZTG1IWFJ0Zy0zMTdXcTJPclBEUlZ2UHh2MG16aU1LSEowcG9RdFFvbDJDUGVObWhyOTRvRVVORlVORlpZWl9mdURFNDBINDQwb3NOYnIzdzR2ZUNCZUlyeWJuYUJuZ0s1bUdnLTbSAaQBQVVfeXFMTnMxWG5ncVZ2RGIzSnJuTFVmSGFKMkhQbDhiQ1dUeUNhVWdHcjhIUkhnTHlGeXlSd1ZzdkNEQmpxT3lXazItdTFrV1lQZl9zV1BGaVYtMG5oQndMMGRuTXlsWEtheVNtYW1hRTZSSDY0N3IxbjhHSzB0bEhLdXlUOUFPRGNIQjVOejM3M3B4NW1Tblc5THd5elh0RmNSdTFSaDFKMUM?oc=5
 
-- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
-  India express deep concern at attack targeting Barakah nuclear facility
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+- Manipur Tense As Blockades By Kuki, Naga Groups Paralyse National Highway - NDTV
+  Manipur Tense As Blockades By
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnFfcHE0Z2NSTVBweGROcTF3TEZpSHphS3JWTWJsNzF1eTVpc09xTkZldW5kRXdWM2g4SENpMURiaHBKem1tc1ZDUkFfbUE3QUlIb0JMbU8wS0dDdlJMTHJpUFRGcDd1dzF3ajZMY1B2dnhfbHd0RlozWXBEOHM5N1k3QUljV3pvVTlZRWc5bTNVRlhfWTBPcU9NOUpESF9pV2VXbF9mTjNLb1FTdnI2UEQwY9IBuwFBVV95cUxPb0NHSDBBMXBEX3VvbVM1SU5vUk1GZWFPdzNVTmhSYzNuWXJyQm1jWk96V3lDOUdmemNDd3BndDZRb18xc3REWUJkNUFJVEpRNlpSck9xVkJSRDVkSGR6TGVFdHRjazBuS2VEN3l4SzJNaGlMb2JwU3B5QU1sQm9zbGFhbk9pX3hIeDdGejVVc29jdFlsUkRzRnJVYWhsUUhhcm5UcDNxUVJMeFNVSXp4S3JGcnMxSVJnWVRF?oc=5
 
-- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
-  "Dangerous Escalation
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+- ‘Hindu order runs India’: Court declares another medieval mosque a temple - Al Jazeera
+  Al Jazeera: Court declares another medieval mosque a temple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORjA5WGVLazRUcnBOeG9nV2V4SDN1Tnc0akxLRXRjczVEQjlxaGxPTzFxZnZUeHZ2QW9oYTBwWkRoOGJ4OXBvbmpKbjVUUTEyR1hNQUVJVjcyVDhtNTNVdDJfWFMwTjBiN19KVFpaX0JLdFNsajFnWHNEYlgyRFBvSE56UFo1TzNRTDZlUWVneEdQeDZsZEp0bnJNOFFpaXNPYzc3RlFSTGE0Qmg5TlBfVWR1R1U5Z9IBuwFBVV95cUxPczZTVGNBVWNvTnR1VDFWblhJUU1kdkpkdmtBRFVJci1VMFZRTHZWdGlvVmNTOTRHbUxRRFc3U0R2LUNHUXZic3ktbzdPWVhhdnRhSHdLTVN4Ympjeks3OE5maHZrM0ZKZEx0TzBqZkxtLXEyNGszTklXX0dSNHdTX2xxdTBQUm00N3dNTll5WTVuckI0bDBPLU1zbGthUjJJdGlZQVlHeGJ5b1p6NlVUbHJBOWZDZTl6SzRN?oc=5
 
 - 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
-  PM Modi to reach Norway today for 3rd India-Nord
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+- India resilient to West Asia shocks: SEBI chief - The Times of India
+  India resilient to West Asia shocks: SEBI
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxmOUJfbDlNaDNvVUgyNjVwN21zWWg0bUdxWGF6QWMzYndneU9VV1BEWTl4MmVuc3E2VU5hM0FwdzBfS1c3Wk1SRlozUmVmNEh5Zi1CSEhEVlNGUDF4V1Yxa3ZNdzhBUEU2Zk5fUzEwaUt6WGV3VlJJcHVQZkdTM3RsNElDM1N2Wk9TUDc3QnpsQzNtYkRyNXozYVE4WmpfTzZjbFh3OTJXSUVJM1FmNDJMVXpxZGVTMFZvUWhJazFrR0nSAcgBQVVfeXFMTTRwamJ6Wmtsenc1bWxaay1KYWtWSmhZUGVOWjBiUDl2V2hjMjNLc2VjMHlEZ0xBWTRzYjdrTFJtdTlSQmJvMzNFb3NWNG42LXhjRklQZTdpUFpOMWx5R3dIQW5Ua24wOS04X3NKWDVtM1huWFY2N3BsbUVCSlZXcm5EdDBpc21tcU52emRRRDBSQ2dtR25ZVGtIUzhpOG0zZ05xOHRnU2IySlhjSlUta0NXb3poaEtZYmNwVE1nRDllYmt3bW9vWXA?oc=5
 
-- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
-  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+- Bengaluru Left Waterlogged, Traffic Hit After Heavy Rain - NDTV
+  Bengaluru Left Water
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGduejBXOFUzemhVZk8wWkZSNU5zcTdzVUhPbTkxSWg3eU1JdWx6bTFxSDdvY1RZTG1IWFJ0Zy0zMTdXcTJPclBEUlZ2UHh2MG16aU1LSEowcG9RdFFvbDJDUGVObWhyOTRvRVVORlVORlpZWl9mdURFNDBINDQwb3NOYnIzdzR2ZUNCZUlyeWJuYUJuZ0s1bUdnLTbSAaQBQVVfeXFMTnMxWG5ncVZ2RGIzSnJuTFVmSGFKMkhQbDhiQ1dUeUNhVWdHcjhIUkhnTHlGeXlSd1ZzdkNEQmpxT3lXazItdTFrV1lQZl9zV1BGaVYtMG5oQndMMGRuTXlsWEtheVNtYW1hRTZSSDY0N3IxbjhHSzB0bEhLdXlUOUFPRGNIQjVOejM3M3B4NW1Tblc5THd5elh0RmNSdTFSaDFKMUM?oc=5
 
-- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
-  India express deep concern at attack targeting Barakah nuclear facility
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+- Manipur Tense As Blockades By Kuki, Naga Groups Paralyse National Highway - NDTV
+  Manipur Tense As Blockades By
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnFfcHE0Z2NSTVBweGROcTF3TEZpSHphS3JWTWJsNzF1eTVpc09xTkZldW5kRXdWM2g4SENpMURiaHBKem1tc1ZDUkFfbUE3QUlIb0JMbU8wS0dDdlJMTHJpUFRGcDd1dzF3ajZMY1B2dnhfbHd0RlozWXBEOHM5N1k3QUljV3pvVTlZRWc5bTNVRlhfWTBPcU9NOUpESF9pV2VXbF9mTjNLb1FTdnI2UEQwY9IBuwFBVV95cUxPb0NHSDBBMXBEX3VvbVM1SU5vUk1GZWFPdzNVTmhSYzNuWXJyQm1jWk96V3lDOUdmemNDd3BndDZRb18xc3REWUJkNUFJVEpRNlpSck9xVkJSRDVkSGR6TGVFdHRjazBuS2VEN3l4SzJNaGlMb2JwU3B5QU1sQm9zbGFhbk9pX3hIeDdGejVVc29jdFlsUkRzRnJVYWhsUUhhcm5UcDNxUVJMeFNVSXp4S3JGcnMxSVJnWVRF?oc=5
 
-- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
-  "Dangerous Escalation
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+- ‘Hindu order runs India’: Court declares another medieval mosque a temple - Al Jazeera
+  Al Jazeera: Court declares another medieval mosque a temple
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORjA5WGVLazRUcnBOeG9nV2V4SDN1Tnc0akxLRXRjczVEQjlxaGxPTzFxZnZUeHZ2QW9oYTBwWkRoOGJ4OXBvbmpKbjVUUTEyR1hNQUVJVjcyVDhtNTNVdDJfWFMwTjBiN19KVFpaX0JLdFNsajFnWHNEYlgyRFBvSE56UFo1TzNRTDZlUWVneEdQeDZsZEp0bnJNOFFpaXNPYzc3RlFSTGE0Qmg5TlBfVWR1R1U5Z9IBuwFBVV95cUxPczZTVGNBVWNvTnR1VDFWblhJUU1kdkpkdmtBRFVJci1VMFZRTHZWdGlvVmNTOTRHbUxRRFc3U0R2LUNHUXZic3ktbzdPWVhhdnRhSHdLTVN4Ympjeks3OE5maHZrM0ZKZEx0TzBqZkxtLXEyNGszTklXX0dSNHdTX2xxdTBQUm00N3dNTll5WTVuckI0bDBPLU1zbGthUjJJdGlZQVlHeGJ5b1p6NlVUbHJBOWZDZTl6SzRN?oc=5
 
-- AI could make humans less intelligent, warns Royal Observatory - BBC
-  AI could make humans less intelligent,
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUmVublVESGdLUHVucFA4RDM1VENxTmNPbXVzVmg2cU9FYlB3U1VpaFRkUTJURmpvUmltbTdHOWd1MjBjTG12LWtjSkYycC1scjk3NlZvdWJCZw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- AI Has Broken Containment - The Atlantic
+  The Atlantic is
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFc0S0F4UGpyYzdTNE0xN0lQWmhqaWdHQmV5N19URVRpbVl2aDRCVHl4blFOVkJvcFNUNU1lRXRZeDc2OHFQOUYwTFlZQ3NiTzJEOEIyRWtPX2VPTGFMeEE2TDFpS2hnQ192VV9VUkFLZEhTTlRGYlozUnV1VnR1RnNTZ2JmdU1DSlYwRGxndw?oc=5
+
+- Tata-ASML deal: How significant is it for India’s semiconductor push? - Al Jazeera
+  Tata-ASML deal: How significant
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHJDd3YzWjlWUkhKMVVFS2xWNnJueUZ1S0ZPYmJSb25GTnJZajlfUUZjd3NTcXhhdzBLdUZBMEUwS1UzS2x2blF1S3FlRmJud2thVEtHazBhS2theVA1ZGNmVzFGa01zWlRIWHowTENVelpXUlQ3T0NRYU10UWV2eUNWd3NzTlA0RTJmbVc0NVNsbnFHUWRCN0pnRW5kXzJNUFFQUDUybHN6RHPSAbABQVVfeXFMTnE2UnpQOWpnREVIMlF1S2Z1NXJ6dUJoeFFpRzc2dDUwaTR2Zkg4TVU5TVlSQ1A2d1I2Rk52cy1tRmpldGl4OVVmZmtFaEk0UC1tSW92RnZRRG9ZbFpUbkhXMFFSNHlVVmFCcVpMbkx4SElFcHRSSVNSQVpCaXIzQzZJVFZDOWl4eW5qbmVnMjdkYzFLZzNYc0ZMVW9DVzdGNVNzRU5Qc1ZLSTl4WTJURks?oc=5
 
 - Youth told to adapt to emerging technology - The Hindu
   The Hindu is a news
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDJaSk1BdFJ2QjQ2WW9RR1FhM2tDRlFMS1lJcjA0Y1Mxb1NlM2xNcVRPa0F6d1RiV2lJOVViS0FfMUJpUUMyZWNnSDNBZzNxakJGVlZ6RmxXTWR4dHFqdmZSeG1IRFc5VFRYZDd1UENhSjVvLWNyLU1VdVp2SWlPRU53dUVjQ0dWSlRvY0FIenZuNUMxRUJfZkM4b0k5b0JkenNLUVhleWFyVHg3dWZkMtIBtwFBVV95cUxPa3pHdnprQ0RYQy1QbHVHNHROR3pLMm5uWElHdTRwTzh6Yy1idlYxTUVLd3JmeXd0TU1PRG9sRVczVy10WmdlUVdZNTJ6eGRMTmVBdE1jaHNfUU8zVzJTMjUzX3d3VmhneHdDR2JZMUhGZm1uMlAwMGtQaDJrM1VRdTdnTTZFeFZTb1BKMGp5cFhSUEV1NlJiRllLQThBbnFJRWcxSUh0RDhuUFNtd3hvTjg2WS12TUk?oc=5
 
-- Donald Trump reportedly spent $200 million-plus on stocks of these four technology companies: Microsoft, - The Times of India
-  Donald Trump reportedly spent $200 million-plus on stocks of these four technology
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNYU8yZVd0SlU0QmR4eVpXbU5VdnRxX3BEcTVKN2c2cUN6dDB0YXZ6eF9RU19ub2Z1SGwxeXFMX2x0Nk15akN1RVN2UzJTT2JlbTE4LWlSMTlTTEpMVGNna2J2Y3prUUJlMk02SHF0UGwySEZvNmFSUVdvUXNNeEFOWWdUeWtYVHVqSjdjSWtfdy1NUFZISVY4enlQNTQtc1BQVDQ5S0pQVHJNMDJXWkdvX01uTEVrRjJwX3QxcmhueHF3Z2gwMDFPNTVDNFJKZTFUWVVrYXlsZTV6ZUNxQXZHT1BON3VXYTQ1aWVycXg3TElWQ2RmVFVHd2VoYXpRYmhDWjd6enNia2YtbV8xNTR5MzVXVFg1Z1FPc1HSAZ8CQVVfeXFMUHhpaW16NzB5NFc1bnkwUVJwdkM5eXloZHo5MjNXU1R0SVh4ZWdROWFZeVNEeUhOUG5Wbmx2WVY2cTM2ZmU3VnRvMnNtaGpqQXphcks2U2N4aE5WU1N5YzdXUV9paUJ0LTRhUXRlWXAydWRxMV9SXzRyZFpsVE5Jb2RWUmxESllNV3NFZ1lubG5vTjFjZEIwUHNrTGt3RUpfVkE4djFEcW80X0syUmo5bUNreS02ZkRScXpPTzJJejJpalBJX0VRcElMRG9WZmdCNktzaG0zcVpYRXFPVDFDNk92S2NHM3JnN3ljT2JrV0pYNWEySFdCQ3BSV253aTNLTVNFUGJBZzYyemVublFrSnQyWTFjQUUzMFF1MmtVejg?oc=5
+- Kaynes Technology shares drop 25% in three sessions, here is why - Upstox
+  Kaynes Technology shares drop 25% in three
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFdlU2l4UjJDNTRxeUQ0aU5LX2lBM09YNkxkUXZ6VVVYaHRtNVdibkFDRjZtMS1NMm9hVEVZN29jQzBibEF4dmFkWnotVnFmamJNQmcyVG53QUV3T3ZEVWJfcVo2eVZsWkF1dVpSVnVsbFhiMzZqR3FvNjJvYjV5TmlNVWZpM2FNcVpNX2pKWE5xSGRNTUFKXzQ3THVHM0hYX0ZYc0x1eE1Nc01yT2pVc1VxTUtTTWtSRFJOckdn?oc=5
 
-- NTPC chief against reliance on one source for nuclear technology - The Economic Times
-  NTPC chief against reliance on one source for nuclear
-  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFB6QzlqUGsxdU42X0tJd2dQaVdSdWJGN0k3UkhDdXk4QVV6NlhYV2Nva3lOMFBlQmM3SnE0T2p5VTd1dFZJUUZiZkRKb0Qta3hQb3ZhVFQ2MV9LZXdmU0pfZlNGZUxHQlkydGNZQXBZNUZ1NDlqTWstaV80UzcyMHE1UTlsZk1EeHo4SUw3TlJsOWlOWDltdFZxVGh5MmtuOFd0RzAwd1ZlT3NqMm44U25xdWliM1lMZjVWZ2g1eDBDSnhfLThPTGxGM3d2U0ZHSEg5RnJqb9IB3AFBVV95cUxOYnRSNFJkZFc1SHNPVlZpMndNSFdqME1lY0c5dlFIREdaU3ctc3BrRktHMF83YldpT19RMTlXY3N3OW83LWc4WTF3UTdydkFYc01Rdk8xS0UxN25haE11eTZkWGVFYXg2SWphR2Q5YkJuZnVyUk9WTTlWR2M3QTBiSVdfUHJDTVFuaFBPMUxwWko3eVBmT2hpWjlNSTBMT1kzeVFNaVY1cGxqdEc2dTNJdG9rb3hFek95MFhpQXlRZGlCeUV4bmgzcHcwYXhyVVJDcjk1QVBDeUV1NTFV?oc=5
-
-- PM Modi Holds Talks With Norwegian Counterpart On Trade, Green Technology - NDTV
-  PM Modi Holds Talks With Norwegian Counterpart
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWMyVUlGQVFwRUVkVTVhanc1ZFRNRHV5OHp2WUhhdDBFX3dMb2V1ZEpXNUxrWnlqS2YtSkNjRXp1Y0hpUHB0b1NEVkxFa0t2WmRUYlpMSjFuQXBBblJwdERMNnFjckEtU09lOXhkbG5XdDdseU5DTW0wX3VqS1dUN0FiaUNWVlRUbGlCakw0VHdsXzBHbFo4ZFpYU29hMm9rLXFqRnpxNFd3bUFZZUMwV0RGbVQ4Y2xsZDh2YnVLMGVqalB4bXBJb0J4RW1yakJPamplQmFB0gHeAUFVX3lxTE1IY0tWYzVMblZXSnlpS2pxR0h3REE0VkJDT29EMHZVbVU5bjVTOTlzWkh6LW5YRV9Ba1lHa1VtTWU3MFFSMGNpWWFtVFl0TF83eTJ5dVRCcm9NYi03OXJadWg0WHVhRU9lOEdBWHNQcFJESHUyQ1FNUndOcHdISHh5NGoxdDI1empPWFk2ZENhdHE1LURjNExoV2Z1SjVCYWphNlZkUHVub2tfaDRoU05XaVNJSHllUkNHSnNLLW1SVXlRQTQycy10YnFNQ05WWi1rTkNSR0pzQVI3akhLdw?oc=5
+- PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients - Anthropic
+  PwC is deploying Claude to build technology, execute deals,
+  🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHSlpIVWM4VzNXSHI3cEtPZmVzamIzWm1ULWZNQlRrdVRvYTNKcEJ6clhYX2tENUR1c2hSTmszenpkMHUydE5NazQyMmZtOGJiRzJFemdYVlg4YU0yQ3RUag?oc=5
 
 
-_Last updated: 2026-05-18 15:21:55 UTC_
+_Last updated: 2026-05-18 19:42:49 UTC_
