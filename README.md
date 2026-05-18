@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Monsoon advances further; IMD warns of heavy rain over South India till Thursday
+- Do younger craftspeople want to stay on in their parents profession? A new survey has the answer
   
-  🔗 https://indianexpress.com/article/india/weather-news-monsoon-onset-kerala-heavy-rain-alert-delhi-up-heatwave-10695537/
+  🔗 https://indianexpress.com/article/india/craftspeople-parents-profession-survey-10696225/
 
-- AAP leader Deepak Singla arrested by ED in Delhi; searches underway in Goa
+- ‘I proudly declare — India is now Naxal-free’: Amit Shah in Bastar on first visit after his March 31 deadline
   
-  🔗 https://indianexpress.com/article/india/ed-raids-premises-aap-deepak-singla-delhi-goa-10695270/
+  🔗 https://indianexpress.com/article/india/i-proudly-declare-india-is-now-naxal-free-amit-shah-in-bastar-10695976/
 
-- PM Modi visits Dutch water management project Afsluitdijk as India, Netherlands sign Kalpasar pact
+- Bajrang Dal protest sparks chaos in Dehradun, FIR filed over road blockade and coercion
   
-  🔗 https://indianexpress.com/article/india/pm-modi-visits-dutch-water-management-project-afsluitdijk-as-india-netherlands-sign-kalpasar-pact-10695113/
+  🔗 https://indianexpress.com/article/india/dehradun-bajrang-dal-protest-clock-tower-fir-shoe-store-harassment-10696053/
 
-- Passenger train catches fire at Bihar’s Sasaram station a day after Rajdhani Express incident
+- Leaked NEET Chemistry question bank found at arrested Maharashtra teacher’s home
   
-  🔗 https://indianexpress.com/article/india/bihar-train-fire-sasaram-patna-passenger-coach-smoke-10695010/
+  🔗 https://indianexpress.com/article/india/neet-ug-paper-leak-case-chemistry-questions-bank-latur-coach-shivraj-motegaonkars-premises-10695979/
 
-- Kerala CM Oath Ceremony LIVE: V D Satheesan takes charge as Kerala CM after UDF’s victory in Assembly polls
+- NMC chief says AI won’t replace your doctor, but change medical education forever: Here’s why
   
-  🔗 https://indianexpress.com/article/india/kerala-oath-taking-live-updates-v-d-satheesan-udf-government-cabinet-ministers-10694921/
+  🔗 https://indianexpress.com/article/india/healthaicon-2026-national-ai-doctors-mission-launched-nmc-abhijat-sheth-10695915/
+
+- SpaceX set to launch Starship test flight on May 20: Here’s all you need to know
+  
+  🔗 https://indianexpress.com/article/technology/science/spacex-launch-starship-test-flight-all-you-need-to-know-10695670/
+
+- ChatGPT Images 2.0 crosses one billion AI visuals in India: 10 most popular prompts users are trying
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-one-billion-ai-visuals-india-openai-10695796/
 
 - Google I/O 2026: When and where to watch Sundar Pichai’s keynote live
   
@@ -32,53 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/science/venus-crescent-moon-sunset-how-to-watch-10695363/
 
-- OpenAI looks to bring ChatGPT, Codex under one product team in latest shake-up
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-codex-one-product-team-latest-shake-up-report-10695323/
+- Vodafone Idea draws up  ₹1 trillion cash strategy amid dues, capex push
+  Vodafone Idea's plan comes as analysts raise concerns about the company’s future payment obligations to clear spectrum dues. The company is
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-financial-roadmap-cash-strategy-dues-capex-turnaround-funding-11779106252434.html
 
-- Apple’s AI revamp of Siri may feature auto-deleting chats to protect user privacy: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-ai-revamp-siri-auto-deleting-chats-privacy-10695233/
+- IDFC FIRST Bank Q4 shows deposit slowdown despite system-wide surge
+  IDFC FIRST Bank’s March-quarter earnings showed a sequential slowdown in deposits after the Chand
+  🔗 https://www.livemint.com/companies/idfc-first-bank-deposits-stall-after-590-crore-fraud-q4-earnings-impact-11779103625381.html
 
-- Inside TCS’s new 5% underperformer push after job cuts
+- Cruel summer: How Iran war shocks are silently gutting corporate profits
+  The West Asian geopolitical shock has ignited an industrial wildfire in India. A hidden crisis of soaring costs and fleeing workers is quietly triggering margin erosion. The worst may be yet to
+  🔗 https://www.livemint.com/companies/india-inc-west-asian-crisis-margin-impact-11779093787219.html
+
+- Mint Explainer | Why Swiggy wants to be classified as Indian-controlled
+  Swiggy’s proposed governance changes highlight how Indian startups with large foreign investors are restructuring boards and
+  🔗 https://www.livemint.com/companies/news/why-swiggy-wants-to-be-classified-as-indian-controlled-e-commerce-rules-explained-11779095530584.html
+
+- TCS asks managers to classify 5% staff as underperformers
   Internal emails show TCS pushing managers to place 5% of employees in the lowest performance band.
   🔗 https://www.livemint.com/companies/news/tcs-5-percent-underperformer-push-after-layoffs-band-d-employees-ai-pressure-11779084572812.html
 
-- AI, not engineers for coding: Salesforce to spend $300 million on Anthropic tokens, CEO Marc Benioff says
-  Benioff's plans, coupled with his previous announcement that Salesforce will not hire any more engineers in 2025 due to productivity gains from AI
-  🔗 https://www.livemint.com/companies/news/ai-not-engineers-for-coding-salesforce-to-spend-300-million-on-anthropic-tokens-ceo-marc-benioff-says-11779085374756.html
+- Gold, silver rates today: Comex gold rebounds $27/oz, silver gains $1/oz as bond yields stabilise
+  Precious metals recovered on 18 May as bond yields stabilised. Elevated tensions in the Middle East have kept crude oil prices high. Federal Reserve meeting minutes may influence the direction of precious metals.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-rebounds-27-oz-silver-gains-1-oz-as-bond-yields-stabilise-11779111802089.html
 
-- L Catterton said to be in talks to acquire minority stake in Bengaluru-based Nandhana Palace
-  Nandhana Palace is expanding its restaurant chain across India. Private equity firm L Catterton is in discussions to acquire a stake
-  🔗 https://www.livemint.com/companies/news/l-catterton-bengaluru-based-chain-nandhana-palace-minority-stake-andhra-style-cuisine-consumption-boost-11779079370720.html
+- Multibagger Apollo Micro Systems stock jumps over 5% after strong Q4 results; rebounds 70% in under 2 months
+  Apollo Micro Systems saw a 5.6% rise to  ₹311 as investors reacted positively to its strong March quarter results. The company reported an
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-apollo-micro-systems-stock-jumps-over-5-after-strong-q4-results-rebounds-70-in-under-2-months-11779106844266.html
 
-- Bain Capital closes sixth Asia fund with $10.5 billion corpus amid fundraising slump
-  Bain Capital closes its sixth Asia fund at $10.5 billion, topping its $7 billion target. Investors consolidate capital
-  🔗 https://www.livemint.com/companies/bain-capital-asia-private-equity-fund-buyout-fund-oversubscribed-fundraise-private-equity-asia-11779075809143.html
+- US stock market today: S&amp;P 500, Dow futures fall up to 0.8% as crude prices stay elevated; Brent hits $112
+  Major indices dropped over 1% in the previous trade as tech stocks faced pressure. The unresolved conflict poses risks to the AI-driven market surge and overall economic stability.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-fall-up-to-0-8-as-crude-prices-stay-elevated-brent-hits-112-11779103160749.html
 
-- Anthropic will brief world's most powerful financial watchdog on Mythos AI cyber dangers: Report
-  Bank of England Governor Andrew Bailey requested the meeting. Anthropic has agreed to brief the Financial Stability Board on cyber vulnerabilities
-  🔗 https://www.livemint.com/companies/news/anthropic-will-brief-worlds-most-powerful-financial-watchdog-on-mythos-ai-cyber-dangers-11779078126443.html
+- US stocks to buy for short term: From MP Materials to Arista Networks- Appreciate CEO suggests picking these 5 shares
+  Subho Moulik identifies five US stocks poised for short-term success. With AI capital expenditure soaring, these companies are positioned to benefit
+  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-to-buy-for-short-term-from-mp-materials-to-arista-networks-appreciate-ceo-suggests-picking-these-5-shares-11779104769479.html
 
-- Coforge to Tech Mahindra: Tech stocks extend rally for second session; Nifty IT jumps over 2%
-  The NIFTY IT index rose 2.4% on May 18. Analysts attribute this to currency weakness and export earnings.
-  🔗 https://www.livemint.com/market/stock-market-news/coforge-to-tech-mahindra-tech-stocks-extend-rally-for-second-session-nifty-it-jumps-over-2-11779093730991.html
+- NSE kicks off trading in Electronic Gold Receipts: Is it a better way to invest than gold ETFs and physical metal?
+  Investors can surrender the EGRs and take physical delivery of the corresponding quantity and quality of gold. Since each of the E
+  🔗 https://www.livemint.com/market/commodities/nse-kicks-off-trading-in-electronic-gold-receipts-is-it-a-better-way-to-invest-than-gold-etfs-and-physical-metal-11779103362996.html
 
-- Indian bond yields spike to six-week high as crude oil price rally jolts markets
-  Bond markets from Tokyo to New York came under pressure following fresh attacks in the Gulf region. The yield on the benchmark 10-year US
-  🔗 https://www.livemint.com/market/bonds/indian-bond-yields-spike-to-six-week-high-as-crude-oil-price-rally-jolts-markets-11779094956952.html
+- Pope and co-founder of Anthropic to launch pontiffs AI encyclical on May 25
+  Pope and co-founder of Anthropic
+  🔗 https://www.livemint.com/technology/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25-11779104404645.html
 
-- Strong Q4 rural recovery runs into rising cost and monsoon risks
-  Crude-led inflation and monsoon risks could choke demand in H1FY27. Consumption-
-  🔗 https://www.livemint.com/market/rural-recovery-fired-up-q4-inflation-el-ni-o-cloud-the-outlook-crude-led-inflation-monsoon-risks-11779088964824.html
-
-- Tata Steel’s strong quarter meets a Dutch roadblock
-  Shares fall 4% despite solid Q4FY26 as possible closure of coke and gas plants in the Netherlands raises
-  🔗 https://www.livemint.com/market/mark-to-market/tata-steel-tsn-netherlands-coke-and-gas-plants-emissions-norms-ebitda-steel-prices-cbam-safeguard-duty-capex-11779091693608.html
-
-- US-Iran war: Why PM Modi visited UAE amid Middle East conflict and Strait of Hormuz crisis
-  India's Prime Minister Modi's recent visit to the UAE aims to secure energy supplies and foster deeper economic ties. India seeks to diversify imports and enhance energy security.
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-war-why-pm-modi-visited-uae-amid-middle-east-conflict-and-strait-of-hormuz-crisis-11779089397101.html
+- Is your iPhone ready for iOS 27? The biggest AI features expected at WWDC 2026 and rumored compatible devices
+  Apple is all set to introduce iOS 27 at WWDC. The new UI is expected to bring a revamped Siri, AI-powered tools in the
+  🔗 https://www.livemint.com/technology/tech-news/is-your-iphone-ready-for-ios-27-the-biggest-ai-features-expected-at-wwdc-2026-and-rumored-compatible-devices-11779092768803.html
 
 - From Aluminium OS to Gemini Omni: The biggest AI upgrades expected at Google I/O 2026
   Google I/O will kick off from Tuesday with a keynote address by Sundar Pichai. The company is expected to showcase major AI upgrades including
@@ -92,101 +100,165 @@
   OpenAI's ChatGPT Images 2.0 has generated over a billion images in India.
   🔗 https://www.livemint.com/technology/tech-news/sam-altman-says-india-created-over-1-billion-images-with-chatgpt-images-2-0-here-are-top-top-trends-and-prompts-11779077229353.html
 
-- Is your iPhone battery draining after iOS 26.5 update? Here’s why you don't need to panic just yet
-  iOS 26.5 users are reporting significant battery drain and overheating issues after the update.
-  🔗 https://www.livemint.com/technology/tech-news/is-your-iphone-battery-draining-after-ios-26-5-update-here-s-why-you-dont-need-to-panic-just-yet-11779069093818.html
+- S&P 500, Nasdaq fall for a second day as Micron drops, traders eye oil and yields: Live updates - CNBC
+  S&amp;P 500, Nasdaq fall for a second day as Mic
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5
 
-- Two years after announcement, Apple’s new Siri to still launch in ‘beta’ with fresh privacy features: Report
-  The upcoming iOS 27 is expected to introduce a revamped Siri. Apple is also said to be focusing on adding privacy controls to the Siri chatbot.
-  🔗 https://www.livemint.com/technology/tech-news/two-years-after-announcement-apple-s-new-siri-to-still-launch-in-beta-with-fresh-privacy-features-report-11779065426523.html
+- Stock Market Today: Nasdaq Edges Higher at Open on Iran Optimism — Live Updates - WSJ
+  The WSJ reports on the latest developments in the
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1Zxdlo1cVk0bmVkRmRhNVIwaHRrSUhSazd2OURxTUNfbnpSLXB4REV6TzNyalNTR3l3QVpSMXAwc2taWjE4RVE5YXFZd2taMk1xSUhtNTJObGpPaFF1RG5jQ0I3VU9leGxNbFlWaVZGbDk5MTR5SUJGam8wLW5SMjh5aXlINEE?oc=5
 
-- ET Alpha Wealth Summit 2026: Decoding the future of Indian stock market in uncertain times
-  The ET Alpha Wealth Summit 2026 on June 4 in Mumbai will gather top minds. Discussions will focus on AI, private markets, and global capital flows.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2026-decoding-the-future-of-indian-stock-market-in-uncertain-times/articleshow/131172285.cms
+- Stock Market Today: Indexes Mostly Lower to Begin Week as Tech Shares Fall; Treasury Yields Remain Elevated - Investopedia
+  Stock Market Today: Indexes Mostly Lower to Begin Week as Tech Shares Fall
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVB2YTFieThqQmZERlhCQUR0cGY4aGxyVE5kdzNlYm55Unh5Nm1oay04YncyUmkxOHNKRFhMWE9sX2lMWHMzemkxNGVSdW5kSGhRTFNfZVRTSGd1dVAzMDVuUGNoRE1CbG9IYzJjYmNabk5YQUhzeW1XdjVsOE1BZ0dtTUI4bWhyWjRZbS1QdTI?oc=5
 
-- Commodity Radar: Rupee's record lows support gold prices. Can fresh base formation trigger upside?
-  Gold futures on MCX are holding above key support levels as rupee weakness nears record lows. Analysts say MCX gold is showing early signs of base formation.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-rupees-record-lows-support-gold-prices-can-fresh-base-formation-trigger-upside/articleshow/131172330.cms
+- Brazil's Record Oil Production Comes at a Crucial Moment for Global Markets - Crude Oil Prices Today | OilPrice.com
+  Brazil's Record Oil Production Comes at a Crucial Moment for Global Markets.
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm1md2t1eVlNOUJSbldPQllzNlpzS3JkQjV1MFZWRWhOeTU2NDNnVkg1YnlWMWc5LVYzTGZ6TVNFdnpTVkJHanVpN1FleEJObnh1bWd1al9CTHFDUTE0VjNkUklzRDEwT2NOelh3TERGbEhPSE92NEJiS19Za1N3dTVqRF9VWm5LMTdHNS04TktRaEFsbVpUal80TEltYkFCQnhlbHN1bF9wOTczSEttdmhUb1pta2xPY3gxcUM1d9IBxAFBVV95cUxONGhWTlRxV1I1YmRsYmNESVZqQS05TG96MUhxUjU4NkhCZnFEbFA2RllWVTRWMU9icnZiWkFRMmN0SkJ6RzgtN3RwMjlfbmRLX1BrNENFa082bE91a1VNaVF4UkdUaG5YZUc1WnBEcGJPSWVQbUY2QzJNeERScXAyNXZPdTNoTFN4LTREMWdPZm45cVpfSHAzc1o5SVp3VlU0UWIwN1dLRW5jUGpKQ09HNGh6eGx2MjJpejhiXzFyaXBuVnpC?oc=5
 
-- Gold loan giant Muthoot FinCorp plans Rs 4,000 crore IPO. Check details
-  Muthoot FinCorp has approved plans to raise up to Rs 4,000 crore via an IPO. The company, fully owned by its promoter family, plans a fresh issue of shares.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/gold-loan-giant-muthoot-fincorp-plans-rs-4000-crore-ipo-check-details/articleshow/131172228.cms
+- India missed out on AI and now its run as market darling may be over - The Japan Times
+  India missed out on AI and now its run as market darling may be over
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxNemZycXB6ODRDYW00b014dHNCeGFNeWV6elIyQ1J6Q0JGYmluSnFSMWw2b3ZOV01Dd1BSX3hRREZld3lDYmdrVUNTZnUwS3pMM3VUdi1rSFhMYjJYdjZESjhfQzNYcEx4YThqdmlhSWVUZE5QWUZic0d1YzNob005Vw?oc=5
 
-- Medanta expects Noida hospital to turn cash positive within months as expansion drive accelerates
-  Medanta's new Noida hospital is projected to become cash positive within three to four months. Established facilities are performing strongly, and the company plans significant brownfield bed expansion.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/medanta-expects-noida-hospital-to-turn-cash-positive-within-months-as-expansion-drive-accelerates/articleshow/131171785.cms
+- IGL Q4 Results: Cons PAT falls 25% YoY to Rs 341 crore, revenue up 6%
+  Indraprastha Gas Limited (IGL) reported a Q4FY26 net profit fall of 25% YoY to Rs 341 crore. Despite the profit dip, revenue increased 6% to Rs 4,585 crore
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms
 
-- ICICI Pru Life shares crash nearly 9% after Prudential plans stake cut below 10%
-  ICICI Prudential Life Insurance shares fell sharply on Monday after reports that promoter may reduce its stake. The move raised concerns over ownership structure and strategic alignment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/icici-pru-life-shares-crash-nearly-9-after-prudential-plans-stake-cut-below-10/articleshow/131171525.cms
+- NextEra Energy strikes $66.8 billion deal for Dominion in bets on AI power demand
+  The deal, one of the largest in the U.S. power industry, adds to a wave of consolidation. The rapid data-center buildout lifts power demand for the first time
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nextera-energy-strikes-66-8-billion-deal-for-dominion-in-bets-on-ai-power-demand/articleshow/131179481.cms
 
-- India trashes allegations on declining minority rights, media freedom: ‘Vibrant democracy’ - Mint
-  India trashes allegations on declining minority rights,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3F1WTFaRlVPeFJHLWVOTF8xYThfdHl5T2FhVUNGTUxqZkt6Q0laSGQ3SGgybkRiUkdyZ285R2lGa2hITDNPTC0wTTF3WU9mVnp0b2E3anA4MXVTbFNuNHN1SlFTcGhyVU1mRVBrRzRYMkFMQVZOMHZiaDFrRkpBTDZGYlYzN0lScHVxSUpJUGczNnVNUk82dk9zel9lNHR0VzBGY3hYV01SVmEwSUtNbVEzQVZSRlR3NzVXaUVyczNsd2tCdDd2eDZPUDRXUThBS1pZaE1xUjN0QdIB3wFBVV95cUxPTXA3MlVVcGpWSmV0RXhQUzA2LVdFaW5TNUktU2NXUlhXLWRBU0NrNzBIbTRuVFBYcU01Vk1FMG9XR1k0QUotNkZ1akI5MXdCXzM4cFZkRXkySHkzX0E2MlBSOE1mVXdQVU9iLUNnUjQ4NkxVanZVNXE0SkozajZRRFpOdXV5RVoyQVBjT3BGSk9mRG10RHI2aTNUbHR6MkdmWE9wRURXSW4zUkpwWjNzSEwwZm9fV29BeWpUVmZqY3gwWVdlNTZwa01ncWhyeVp4Uk40bzZCR0YwWWl6ZkRz?oc=5
+- UnitedHealth falls after Berkshire sells stake in health insurer
+  UnitedHealth stock is up 20% so far this year, after falling more than ⁠30% last year. UnitedHealth was the
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-falls-after-berkshire-sells-stake-in-health-insurer/articleshow/131179448.cms
 
-- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
+- Block deal: JSW Energy sells Rs 3,150 crore JSW Steel stake to GQG, SBI Mutual Fund
+  JSW Energy has divested a portion of its JSW Steel stake for Rs 3,150 crore to fund its aggressive power generation expansion. The company aims to reach 30 GW capacity by 2030, bolstered by both renewable and thermal power
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms
 
-- India rejects Dutch PM’s remarks on press freedom, minority rights; calls it ‘Lack of Understanding’ - The Economic Times
-  India rejects Dutch PM’s remarks on press freedom, minority rights.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQblVTeXNwSFo2bnBubEdTanRoY2Q0Z0swa1ZBMHZMWGRQaGFPOUdpR0hYX0RGdUMxTUE2Q1g4UFJuMGRNbGRIc2phUmtUamN6SnZ5UUt3LU8weGEtTy04Mjlqd3g3R21qNFhiczZobkh6RXB3a0NkWUNrQjg2Q1ZnVUhYdkpwb2dDUVlYMVNxYzBwQnJPZGEtbmVBZ1JtMFBKWEJXRmVRN21sOExORHc2ZVp5MHcxUk91bHFsM01rLThtV2xGVkNYR282NlRPTkNwLWo2Rk5IRGg0RWNBRVFMdGpKRTZmTmNWSVNVLTFCV2Q2UUxlZkZEbWJR?oc=5
-
-- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
-  Delhi To Face Severe Heatwave Soon,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
-
-- Captain still holding controls, mother clutching child: Man who entered Air India crash morgue recounts c - The Times of India
-  The Times of India reported that the captain was still holding the controls.
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxONzV0VmptVEtxbTFpbHNLQnZqTU9wSEloZHIxalQtUkYzdEVGaUIyR2Z2REFFWHAtMzJkdTNMTnM4VXl6MWR5TXhwVy1sZDRqMW5NSHpWVWQtRjItclMwWVV2TkhTV3ByeUJ4cUt6SUdoY3NrYW5adHJJQnRmN05PX0kteGlUWGMybXAxQzdDbzhpR2VVYkRXcU5tU0hQV1JXMkUyZG1WeHlJWlpoNG4tbkoyOHQzS0tnMmpkd05RM2pKSElldEplMXI2cGE5bi1aY2tZM1N2YUx5Q3JjQWIwbWhHN3hSam9wbDlfZHFUMnBEYjJ6a1FDWWVRY2ttVzN6eGRtZHdrMHNIWDkxU3pGMnJfc9IBmAJBVV95cUxQcjZwdFhKTEtxRzBIXzRXQkxFU0JmMm9sUGJ0V0FvZVVrUllpNkRNQTdwRkVYLVAxN0hzZ2paRW84VW9NOGx4X3A4QVhuUVJwNkVJNHFmZDBsQU1wYTNvNHBTaExrcmZKS3FHclNqU2hpODNKUkdreWV5ZlpNSmRGTC1wV0xQWjAxYVF0Ymw5TmtzZTlzTzNLRmdXNUMzTjlTcEsyS0ZGdU5zTzdGaC13aTgxQzdUOEQ3dThtVHJ5bHFXa2JXZ3d0UGpBUDhrbEotVnpMbl9Id3ZSUG05RklnZUE0SnhRZ2lHNHVKWjBJTzRUSUNWZkJaOFFCSzBqbGhidHBoOWhRSUJBWEpMcTBJNGt3MGpka3RV?oc=5
-
-- India trashes allegations on declining minority rights, media freedom: ‘Vibrant democracy’ - Mint
-  India trashes allegations on declining minority rights,
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3F1WTFaRlVPeFJHLWVOTF8xYThfdHl5T2FhVUNGTUxqZkt6Q0laSGQ3SGgybkRiUkdyZ285R2lGa2hITDNPTC0wTTF3WU9mVnp0b2E3anA4MXVTbFNuNHN1SlFTcGhyVU1mRVBrRzRYMkFMQVZOMHZiaDFrRkpBTDZGYlYzN0lScHVxSUpJUGczNnVNUk82dk9zel9lNHR0VzBGY3hYV01SVmEwSUtNbVEzQVZSRlR3NzVXaUVyczNsd2tCdDd2eDZPUDRXUThBS1pZaE1xUjN0QdIB3wFBVV95cUxPTXA3MlVVcGpWSmV0RXhQUzA2LVdFaW5TNUktU2NXUlhXLWRBU0NrNzBIbTRuVFBYcU01Vk1FMG9XR1k0QUotNkZ1akI5MXdCXzM4cFZkRXkySHkzX0E2MlBSOE1mVXdQVU9iLUNnUjQ4NkxVanZVNXE0SkozajZRRFpOdXV5RVoyQVBjT3BGSk9mRG10RHI2aTNUbHR6MkdmWE9wRURXSW4zUkpwWjNzSEwwZm9fV29BeWpUVmZqY3gwWVdlNTZwa01ncWhyeVp4Uk40bzZCR0YwWWl6ZkRz?oc=5
+- GIFT Nifty jumps nearly 1% after reports of US relief on Iran oil sanctions
+  GIFT Nifty rallied nearly 1% after reports indicated possible temporary US sanctions relief on Iranian oil exports. Hopes of additional crude supply eased inflation and energy shock concerns.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-nearly-1-after-reports-of-us-relief-on-iran-oil-sanctions/articleshow/131178975.cms
 
 - 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
   'Lack Of Knowledge': India Rejects Dutch
   🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- India rejects Dutch PM’s remarks on press freedom, minority rights; calls it ‘Lack of Understanding’ - The Economic Times
-  India rejects Dutch PM’s remarks on press freedom, minority rights.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxQblVTeXNwSFo2bnBubEdTanRoY2Q0Z0swa1ZBMHZMWGRQaGFPOUdpR0hYX0RGdUMxTUE2Q1g4UFJuMGRNbGRIc2phUmtUamN6SnZ5UUt3LU8weGEtTy04Mjlqd3g3R21qNFhiczZobkh6RXB3a0NkWUNrQjg2Q1ZnVUhYdkpwb2dDUVlYMVNxYzBwQnJPZGEtbmVBZ1JtMFBKWEJXRmVRN21sOExORHc2ZVp5MHcxUk91bHFsM01rLThtV2xGVkNYR282NlRPTkNwLWo2Rk5IRGg0RWNBRVFMdGpKRTZmTmNWSVNVLTFCV2Q2UUxlZkZEbWJR?oc=5
+- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
+  PM Modi to reach Norway today for 3rd India-Nord
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
 
-- Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius - NDTV
-  Delhi To Face Severe Heatwave Soon,
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTZSZjhZRDU0eVlwLWhuT19QdTZGSDlHelhpTzU2QldGenVpa2FpMDVCMGJvR3hvdjZ3RHo4QUhpT1gyeUh5ZFE2eGpXT0tkSmtaOVFNSUFOeV9uNk5KLXhtMnQzMnkyNlNuVFdDbFFJenZWMDVkZUpyNHZHTk9sY3pjd3ZlN3hIenBJMlFCZE9tc1dVX1NFYjJpVzZEZFF2WTFabkJpazhuRUNBNHBfQndENGhrYWI5UWlYYnM1RDlqWjFBM1h3UUFrZmtvMW85eFNVM2xPRHJEbmhRV2Nqck5hSGI0aHNpcnNmVVhiRUVhY2PSAfsBQVVfeXFMTnAwZ0I1V2tuZHBCcXRhOTUyeG5waWd4XzZaUFMxNWpZSXVrZEN3bzN0TDlZRDRZNHNXY0dPVGMxRU4zQnF6Z19uZ3p5cHhLaGRCVWRqdVBvRXN0M0huWklxbU53cGllWUdteHg2RklrUXhxODUydWJDY00tUGlROTFxU0xZOXFNazdpX2pOV0ZPSWlzbVR6SFg5Zk5EcVh3NklVc0hWVEdJV1ZyUEtaNkFNYlBBRmpuZ1Z1QmVQRE9PRGIzcHhKXzl6Qk9ER1V6RW5DNEFSUExiNjBsU1FEYTRxZjdraUJLdEtIajVpdkRZdE1RZjQwLW1heFk?oc=5
+- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
+  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
 
-- Captain still holding controls, mother clutching child: Man who entered Air India crash morgue recounts c - The Times of India
-  The Times of India reported that the captain was still holding the controls.
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxONzV0VmptVEtxbTFpbHNLQnZqTU9wSEloZHIxalQtUkYzdEVGaUIyR2Z2REFFWHAtMzJkdTNMTnM4VXl6MWR5TXhwVy1sZDRqMW5NSHpWVWQtRjItclMwWVV2TkhTV3ByeUJ4cUt6SUdoY3NrYW5adHJJQnRmN05PX0kteGlUWGMybXAxQzdDbzhpR2VVYkRXcU5tU0hQV1JXMkUyZG1WeHlJWlpoNG4tbkoyOHQzS0tnMmpkd05RM2pKSElldEplMXI2cGE5bi1aY2tZM1N2YUx5Q3JjQWIwbWhHN3hSam9wbDlfZHFUMnBEYjJ6a1FDWWVRY2ttVzN6eGRtZHdrMHNIWDkxU3pGMnJfc9IBmAJBVV95cUxQcjZwdFhKTEtxRzBIXzRXQkxFU0JmMm9sUGJ0V0FvZVVrUllpNkRNQTdwRkVYLVAxN0hzZ2paRW84VW9NOGx4X3A4QVhuUVJwNkVJNHFmZDBsQU1wYTNvNHBTaExrcmZKS3FHclNqU2hpODNKUkdreWV5ZlpNSmRGTC1wV0xQWjAxYVF0Ymw5TmtzZTlzTzNLRmdXNUMzTjlTcEsyS0ZGdU5zTzdGaC13aTgxQzdUOEQ3dThtVHJ5bHFXa2JXZ3d0UGpBUDhrbEotVnpMbl9Id3ZSUG05RklnZUE0SnhRZ2lHNHVKWjBJTzRUSUNWZkJaOFFCSzBqbGhidHBoOWhRSUJBWEpMcTBJNGt3MGpka3RV?oc=5
+- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
+  India express deep concern at attack targeting Barakah nuclear facility
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
+  "Dangerous Escalation
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
+  PM Modi to reach Norway today for 3rd India-Nord
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
+  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
+  India express deep concern at attack targeting Barakah nuclear facility
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
+  "Dangerous Escalation
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
+
+- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
+  PM Modi to reach Norway today for 3rd India-Nord
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+
+- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
+  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+
+- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
+  India express deep concern at attack targeting Barakah nuclear facility
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+
+- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
+  "Dangerous Escalation
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
+
+- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
+  PM Modi to reach Norway today for 3rd India-Nord
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+
+- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
+  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+
+- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
+  India express deep concern at attack targeting Barakah nuclear facility
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+
+- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
+  "Dangerous Escalation
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
+
+- PM Modi to reach Norway today for 3rd India-Nordic Summit and bilateral engagements - News On AIR
+  PM Modi to reach Norway today for 3rd India-Nord
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHhJSXBvaGwxUEdYam1VTmEyc1Zhd1I3emlvVW5nNTlNQlR4a3BfNWN2MGJKODExOHFVQWdSdkFLbWI2bkE1dHRFNVYtZ2c5WFhfeWhaTFpZQm5LcXFnZGo0VDhfRFFzRXF6Z3QwNDZCWG5Dd01NOHZQd1NQMHBocjE3QW9CbEZDV3JHcG5aMFNSVmtnV2dma0F5NjB0VUJWX1FlZEpyQVJpQWpKMGhqMnBRdw?oc=5
+
+- PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM Modi in Oslo - Hindustan Times
+  PM Modi in Europe LIVE updates: No issue can be resolved through military conflict alone, says PM
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
+
+- India express deep concern at attack targeting Barakah nuclear facility in UAE - News On AIR
+  India express deep concern at attack targeting Barakah nuclear facility
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGE2ZmVtbnRTeU1zM2N2YzJiVUF6MlM4czMwZTBqcVR0TEZNTHdJcmpjV2ItRm1HYWhBelJjRC1pVUZCc1B2V0tvUEdXc2g5RnY4RFFBeEs2TEdzdGNVMHV3T000aV9BblJLSkRLVVV1b0p6cTVHWVFiSkdiQnk5Q0xrSlhzTDlSVDNSZ3Z3V2l2aGZxeTczblpoZjhPQ3pYN3pqNVZCYjh2ZG9l?oc=5
+
+- "Dangerous Escalation": India Condemns Attack On UAE Nuclear Plant - NDTV
+  "Dangerous Escalation
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDZpQjVwR0ZSUjhiQ3Vhdk5jNU9PV1VTeGFVakVUUXhpT3hsd0lsakVrcldQZjVlZEZKTC1ZbmhYVmdJUGhlNWJHVk4yVi1CODlsV0hJVmRGa2J1WmZxUzg5YmpUQkJ6c3BuOXRkaDZVMUx4RmdXc1RITno1WW5JeDAwbXJqRUVtdXdEM3dPTGlhTWxJR08waEdnZUFvdGZIcGhmaFlGa1ZLOS04UFBQb09HbHRfWUVHVzFqMWJn0gHGAUFVX3lxTE9aLUhMZVNkUEgxbzFmSS1tNHhWcTZhN1R3ZmJzb1lldVZmM0daQ0cwejJURnhPVDNWNlo5QktJTnAwVDFTakRwZ3JXczlQRXppem5yX2NWRmlod3lzdi1HV1dMVDRjQWphRFhZVUdCTjVXdUVvemJXU0NPc1YwVEluTlhxVDUxUFdXcW1tNXVwQW0tTWRtOXd4UUtvS0NfYnN1TFJSSlpoTzJuT1RWNVhXQWNJTlFKSHBBQ29GeElndlNERjZYQQ?oc=5
+
+- AI could make humans less intelligent, warns Royal Observatory - BBC
+  AI could make humans less intelligent,
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUmVublVESGdLUHVucFA4RDM1VENxTmNPbXVzVmg2cU9FYlB3U1VpaFRkUTJURmpvUmltbTdHOWd1MjBjTG12LWtjSkYycC1scjk3NlZvdWJCZw?oc=5
+
+- Youth told to adapt to emerging technology - The Hindu
+  The Hindu is a news
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDJaSk1BdFJ2QjQ2WW9RR1FhM2tDRlFMS1lJcjA0Y1Mxb1NlM2xNcVRPa0F6d1RiV2lJOVViS0FfMUJpUUMyZWNnSDNBZzNxakJGVlZ6RmxXTWR4dHFqdmZSeG1IRFc5VFRYZDd1UENhSjVvLWNyLU1VdVp2SWlPRU53dUVjQ0dWSlRvY0FIenZuNUMxRUJfZkM4b0k5b0JkenNLUVhleWFyVHg3dWZkMtIBtwFBVV95cUxPa3pHdnprQ0RYQy1QbHVHNHROR3pLMm5uWElHdTRwTzh6Yy1idlYxTUVLd3JmeXd0TU1PRG9sRVczVy10WmdlUVdZNTJ6eGRMTmVBdE1jaHNfUU8zVzJTMjUzX3d3VmhneHdDR2JZMUhGZm1uMlAwMGtQaDJrM1VRdTdnTTZFeFZTb1BKMGp5cFhSUEV1NlJiRllLQThBbnFJRWcxSUh0RDhuUFNtd3hvTjg2WS12TUk?oc=5
+
+- Donald Trump reportedly spent $200 million-plus on stocks of these four technology companies: Microsoft, - The Times of India
+  Donald Trump reportedly spent $200 million-plus on stocks of these four technology
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNYU8yZVd0SlU0QmR4eVpXbU5VdnRxX3BEcTVKN2c2cUN6dDB0YXZ6eF9RU19ub2Z1SGwxeXFMX2x0Nk15akN1RVN2UzJTT2JlbTE4LWlSMTlTTEpMVGNna2J2Y3prUUJlMk02SHF0UGwySEZvNmFSUVdvUXNNeEFOWWdUeWtYVHVqSjdjSWtfdy1NUFZISVY4enlQNTQtc1BQVDQ5S0pQVHJNMDJXWkdvX01uTEVrRjJwX3QxcmhueHF3Z2gwMDFPNTVDNFJKZTFUWVVrYXlsZTV6ZUNxQXZHT1BON3VXYTQ1aWVycXg3TElWQ2RmVFVHd2VoYXpRYmhDWjd6enNia2YtbV8xNTR5MzVXVFg1Z1FPc1HSAZ8CQVVfeXFMUHhpaW16NzB5NFc1bnkwUVJwdkM5eXloZHo5MjNXU1R0SVh4ZWdROWFZeVNEeUhOUG5Wbmx2WVY2cTM2ZmU3VnRvMnNtaGpqQXphcks2U2N4aE5WU1N5YzdXUV9paUJ0LTRhUXRlWXAydWRxMV9SXzRyZFpsVE5Jb2RWUmxESllNV3NFZ1lubG5vTjFjZEIwUHNrTGt3RUpfVkE4djFEcW80X0syUmo5bUNreS02ZkRScXpPTzJJejJpalBJX0VRcElMRG9WZmdCNktzaG0zcVpYRXFPVDFDNk92S2NHM3JnN3ljT2JrV0pYNWEySFdCQ3BSV253aTNLTVNFUGJBZzYyemVublFrSnQyWTFjQUUzMFF1MmtVejg?oc=5
+
+- NTPC chief against reliance on one source for nuclear technology - The Economic Times
+  NTPC chief against reliance on one source for nuclear
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFB6QzlqUGsxdU42X0tJd2dQaVdSdWJGN0k3UkhDdXk4QVV6NlhYV2Nva3lOMFBlQmM3SnE0T2p5VTd1dFZJUUZiZkRKb0Qta3hQb3ZhVFQ2MV9LZXdmU0pfZlNGZUxHQlkydGNZQXBZNUZ1NDlqTWstaV80UzcyMHE1UTlsZk1EeHo4SUw3TlJsOWlOWDltdFZxVGh5MmtuOFd0RzAwd1ZlT3NqMm44U25xdWliM1lMZjVWZ2g1eDBDSnhfLThPTGxGM3d2U0ZHSEg5RnJqb9IB3AFBVV95cUxOYnRSNFJkZFc1SHNPVlZpMndNSFdqME1lY0c5dlFIREdaU3ctc3BrRktHMF83YldpT19RMTlXY3N3OW83LWc4WTF3UTdydkFYc01Rdk8xS0UxN25haE11eTZkWGVFYXg2SWphR2Q5YkJuZnVyUk9WTTlWR2M3QTBiSVdfUHJDTVFuaFBPMUxwWko3eVBmT2hpWjlNSTBMT1kzeVFNaVY1cGxqdEc2dTNJdG9rb3hFek95MFhpQXlRZGlCeUV4bmgzcHcwYXhyVVJDcjk1QVBDeUV1NTFV?oc=5
+
+- PM Modi Holds Talks With Norwegian Counterpart On Trade, Green Technology - NDTV
+  PM Modi Holds Talks With Norwegian Counterpart
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWMyVUlGQVFwRUVkVTVhanc1ZFRNRHV5OHp2WUhhdDBFX3dMb2V1ZEpXNUxrWnlqS2YtSkNjRXp1Y0hpUHB0b1NEVkxFa0t2WmRUYlpMSjFuQXBBblJwdERMNnFjckEtU09lOXhkbG5XdDdseU5DTW0wX3VqS1dUN0FiaUNWVlRUbGlCakw0VHdsXzBHbFo4ZFpYU29hMm9rLXFqRnpxNFd3bUFZZUMwV0RGbVQ4Y2xsZDh2YnVLMGVqalB4bXBJb0J4RW1yakJPamplQmFB0gHeAUFVX3lxTE1IY0tWYzVMblZXSnlpS2pxR0h3REE0VkJDT29EMHZVbVU5bjVTOTlzWkh6LW5YRV9Ba1lHa1VtTWU3MFFSMGNpWWFtVFl0TF83eTJ5dVRCcm9NYi03OXJadWg0WHVhRU9lOEdBWHNQcFJESHUyQ1FNUndOcHdISHh5NGoxdDI1empPWFk2ZENhdHE1LURjNExoV2Z1SjVCYWphNlZkUHVub2tfaDRoU05XaVNJSHllUkNHSnNLLW1SVXlRQTQycy10YnFNQ05WWi1rTkNSR0pzQVI3akhLdw?oc=5
 
 
-_Last updated: 2026-05-18 09:55:03 UTC_
+_Last updated: 2026-05-18 15:21:55 UTC_
