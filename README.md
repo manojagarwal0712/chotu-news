@@ -1,84 +1,96 @@
 # 📰 Daily News Summaries
 
-- Three coaches of Ujjain Express derail in Rishikesh; probe ordered
+- Jyotiraditya Scindia unveils Rs 175-crore mission to turn Nagaland into a premium coffee hub
   
-  🔗 https://indianexpress.com/article/india/ujjain-express-derail-rishikesh-probe-10696701/
+  🔗 https://indianexpress.com/article/india/mission-coffees-of-nagaland-rs-175-crore-coffee-value-chain-project-10697326/
 
-- Free bus travel for women: Why new Kerala govt’s first Cabinet decision is already facing roadblocks
+- Belt used in Twisha Sharma’s hanging not shown to doctors during autopsy, AIIMS report reveals
   
-  🔗 https://indianexpress.com/article/india/free-bus-travel-for-women-why-new-kerala-govts-first-cabinet-decision-is-already-facing-roadblocks-10696495/
+  🔗 https://indianexpress.com/article/india/belt-used-twisha-sharma-hanging-not-shown-to-doctors-autopsy-aiims-report-10697327/
 
-- Latest casualty of Ukraine-Russia war, Odisha man was helping rebuild home
+- Sold for Rs 3 lakh, held captive in Rajasthan: A girl’s six-year ordeal
   
-  🔗 https://indianexpress.com/article/india/latest-casualty-of-ukraine-russia-war-odisha-man-was-helping-rebuild-home-10696570/
+  🔗 https://indianexpress.com/article/india/sold-for-rs-3-lakh-held-captive-in-rajasthan-a-girls-six-year-ordeal-10697219/
 
-- Latur coaching centre founder held, got NEET papers 10 days before exam: CBI to court
+- ‘We have a Constitution’: Foreign Ministry’s Sibi George vs Norway journalist is viral
   
-  🔗 https://indianexpress.com/article/india/latur-coaching-centre-founder-held-got-neet-papers-10-days-before-exam-cbi-to-court-10696555/
+  🔗 https://indianexpress.com/article/india/sibi-george-mea-india-democracy-norway-journalist-10697030/
 
-- ‘Unavoidable’: Why Kuki-Zo Council is taking demand for separate Union Territory to PM Modi
+- BJP veteran and former Uttarakhand CM B C Khanduri passes away
   
-  🔗 https://indianexpress.com/article/india/unavoidable-why-kuki-zo-council-is-taking-demand-for-separate-union-territory-to-pm-modi-10696494/
+  🔗 https://indianexpress.com/article/india/b-c-khanduri-passes-away-former-uttarakhand-cm-bjp-leader-10697052/
 
-- Meta plans fresh round of layoffs, to move 7,000 staff to AI projects
+- Amazon’s Alexa+ can now generate entire podcast episodes on demand
   
-  🔗 https://indianexpress.com/article/technology/meta-plans-fresh-round-of-layoffs-to-move-7000-staff-to-ai-projects-10696725/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-alexa-can-now-generate-entire-podcast-episodes-on-demand-10697393/
 
-- OpenAI defeats Musk in lawsuit over nonprofit mission, removing IPO obstacle
+- ‘AI agents are not inherently malicious but can be relentless’: Dell Chief Security Officer John Scimone
   
-  🔗 https://indianexpress.com/article/technology/openai-defeats-musk-in-lawsuit-over-nonprofit-mission-removing-ipo-obstacle-10696702/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-agents-are-not-inherently-malicious-but-can-be-relentless-dell-chief-security-officer-john-scimone-10697348/
 
-- ‘AI is no longer a feature, but the operating model for modern enterprises’: Michael Dell’s big push to win over corporate clients at a Las Vegas conference
+- Cursor launches Composer 2.5 model for long-running AI coding tasks at cheaper token cost
   
-  🔗 https://indianexpress.com/article/technology/ai-is-no-longer-a-feature-but-the-operating-model-for-modern-enterprises-michael-dells-big-push-to-win-over-corporate-clients-at-a-las-vegas-conference-10696562/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/
+
+- SandboxAQ partners with Anthropic to bring scientific AI tools to Claude
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sandboxaq-partners-with-anthropic-to-bring-scientific-ai-tools-to-claude-10697123/
+
+- Apple WWDC 2026: From advanced Siri to iOS 27, here’s what to expect
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-2026-from-advanced-siri-to-ios-27-heres-what-to-expect-10696784/
+
+- Software jobs as we know them may soon cease to exist, says Anthropic CEO Dario Amodei
+  As AI tools become more and more capable of writing code, Amodei suggested that there is going to be a fundamental shift
+  🔗 https://www.livemint.com/companies/news/anthropic-ceo-dario-amodei-warns-of-major-ai-shake-up-in-tech-jobs-whole-careers-may-disappear-11779174582887.html
+
+- Cognizant doubles share buyback target to $2 billion in 2026 to assuage investors
+  Cognizant aims to boost investor confidence amid a 38% stock decline this year. The buy
+  🔗 https://www.livemint.com/companies/news/cognizant-share-buyback-2-billion-target-ai-opportunity-it-services-automation-tools-11779166559425.html
+
+- Aditya Birla Fashion doubles down on TMRW, chases scale over profits
+  TMRW is betting on offline expansion, AI-led operations, and quick commerce to scale profitably.
+  🔗 https://www.livemint.com/companies/aditya-birla-fashion-doubles-down-on-tmrw-chases-scale-over-profits-11779169198014.html
+
+- PE firm Advent invests $150 million for minority stake in Iscon Balaji Foods
+   Advent International will invest $150 million in Iscon Balaji Foods as part of a $215 million round.
+  🔗 https://www.livemint.com/companies/advent-international-iscon-balaji-foods-ibf-frozen-potato-products-private-equity-india-qsr-supply-chain-360-one-11779169068005.html
+
+- ‘Replacing lower-value human capital’: Standard Chartered plans over 7,800 job cuts by 2030 amid AI, profitability push
+  The job cuts would drive productivity improvements to raise income per employee by about 20
+  🔗 https://www.livemint.com/companies/news/replacing-lower-value-human-capital-standard-chartered-plans-over-7-800-job-cuts-by-2030-amid-ai-profitability-push-11779161209845.html
+
+- Vodafone Idea’s survival has certainty, but shareholders’ patience may be tested
+  Vodafone Idea reduced its loss before tax by 13% to  ₹5,515 crore in Q4FY26. The Aditya Birla Group
+  🔗 https://www.livemint.com/market/mark-to-market/vodafone-idea-shareholders-patience-arpu-promoter-fund-infusion-loss-before-tax-capex-interest-payments-11779174248745.html
+
+- Multibagger small-cap stock hits 5% upper circuit after Q4 results; rallies 700% in 5 years
+  Tirupati Forge's stock surged 5% after mixed Q4FY26 results. YoY growth showed a 52% revenue increase. Investments in a new defense facility and solar unit aim
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-hits-5-upper-circuit-after-q4-results-rallies-700-in-5-years-11779182315616.html
+
+- Vodafone Idea share price jumps 6% to 52-week high, turns multibagger in a year; what brokerages say after Q4 show
+  So far in 2026, Vodafone Idea share price has jumped 26.9% as investors cheer multiple positive developments for the telecom major.
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-jumps-6-to-52-week-high-turns-multibagger-in-a-year-what-brokerages-say-after-q4-show-11779182188670.html
+
+- RITES Q4 Results 2026: Railway PSU’s net profit falls 2.3% to  ₹130 cr, revenue up 28% YoY; declares  ₹2.75 dividend
+  RITES’ revenue from operations in Q4FY26 grew 27
+  🔗 https://www.livemint.com/market/stock-market-news/rites-q4-results-2026-railway-psu-s-net-profit-falls-2-3-to-rs-130-cr-revenue-up-28-yoy-declares-rs-2-75-dividend-11779181279712.html
+
+- Stock market strategy: Buy the dip or stay cautious? Analysts list key sectoral bets amid US-Iran war
+  Nifty 50 down 6-7% since late February amid rising crude oil prices and a weakening rupee. Analysts suggest a shift towards domestic cyclicals and caution on investments amid
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-strategy-buy-the-dip-or-stay-cautious-analysts-list-key-sectoral-bets-amid-us-iran-war-11779174657864.html
+
+- ChatGPT voice conversations are exploding in India: 10 weird, useful and viral use cases
+  ChatGPT voice conversations are gaining massive traction in India. From interview practice and language learning to storytelling, emotional venting, and roleplay scenarios.
+  🔗 https://www.livemint.com/technology/chatgpt-voice-conversations-are-exploding-in-india-10-weird-useful-and-viral-use-cases-11779177341905.html
 
 - SpaceX set to launch Starship test flight on May 20: Here’s all you need to know
-  
-  🔗 https://indianexpress.com/article/technology/science/spacex-launch-starship-test-flight-all-you-need-to-know-10695670/
+  SpaceX will launch its 12th Starship test flight on 20 May 2026, from Texas. The mission will test upgraded V3 systems, including engines, stage separation and heat shield performance.
+  🔗 https://www.livemint.com/technology/spacex-set-to-launch-starship-test-flight-on-may-20-here-s-all-you-need-to-know-11779171767157.html
 
 - ChatGPT Images 2.0 crosses one billion AI visuals in India: 10 most popular prompts users are trying
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-one-billion-ai-visuals-india-openai-10695796/
-
-- Jaguar Land Rover shrinks board, shifts operational power to executive committee
-  Jaguar Land Rover has cut its board from 11 members to three. It has shifted operational control to a 13-member executive committee under CEO P.B. Balaji. Tata Motors is
-  🔗 https://www.livemint.com/companies/jaguar-land-rover-shrinks-board-jlr-ceo-pb-balaji-11779114523626.html
-
-- Tata Steel rules out joint ventures in India, bets on solo expansion for better control
-  The company looks to buy out its existing joint venture partners wherever possible to merge all
-  🔗 https://www.livemint.com/companies/news/tata-steel-rules-out-joint-ventures-jv-in-india-bets-on-solo-expansion-for-better-control-jsw-steel-11779112973298.html
-
-- TCS raises salaries, ties monthly performance pay to office attendance
-  TCS has rolled out salary hikes of up to 6% for top performers. Employees say revised compensation structures linking variable pay to office attendance and deployment
-  🔗 https://www.livemint.com/companies/tcs-salary-hikes-confuse-employees-over-new-pay-structure-11779111077227.html
-
-- Back to WFH? India Inc responds to Modi’s fuel-saving appeal
-  India's largest employers reintroduced work-from-home policies following PM Modi's appeal for fuel conservation amid rising oil prices. Companies like RPG Group and P
-  🔗 https://www.livemint.com/companies/india-inc-work-from-home-modi-fuel-saving-call-11779093445205.html
-
-- Office Reits eye AI-resilient, GCC-driven tenant portfolios, acquisitions to expand
-  Reit executives said that amid the layoff buzz by IT companies and the AI boom, GCCs have more than compensated in
-  🔗 https://www.livemint.com/companies/news/office-reits-ai-resilient-tenants-gcc-driven-portfolios-acquisitions-expansion-premium-assets-occupancy-11779041917984.html
-
-- Q4 results 2026: Bharat Electronics to BPCL among companies to declare Q4 results today; check full list here
-  More than 120 companies will release their Q4 results today. Here's preview and full list of
-  🔗 https://www.livemint.com/market/stock-market-news/q4-results-2026-bharat-electronics-to-bpcl-among-companies-to-declare-q4-results-today-check-full-list-here-11779156611748.html
-
-- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 19 May 2026
-   Vaishali Parekh recommends three stocks to buy today — Angel
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-19-may-2026-11779152755290.html
-
-- Nifty may rebound toward 23,800 as FPIs prune bearish bets
-  Foreign investors also covered short positions in Nifty and Bank Nifty call options. The bounce comes amid elevated oil prices and a falling rupee.
-  🔗 https://www.livemint.com/market/stock-market-news/fpi-nifty-bank-nifty-derivatives-short-covering-brent-crude-rupee-us-10-year-yield-weekly-expiry-11779127455363.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 19 May
-  Gift Nifty was trading around 23,680 level, a premium of nearly 22 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-19-may-11779155304246.html
-
-- Stocks to watch: BEL, IOC, Lupin among 10 shares in focus today; check list here
-  The Indian stock market is likely to continue its gaining streak as trends in the Gift Nifty index signalled a positive opening on Tuesday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-bel-ioc-lupin-among-10-shares-in-focus-today-check-list-here-11779153513453.html
+  India has become one of the largest markets for ChatGPT Images 2.0. Users generating over 1 billion AI-generated visuals.
+  🔗 https://www.livemint.com/technology/chatgpt-images-2-0-crosses-one-billion-ai-visuals-in-india-10-most-popular-prompts-users-are-trying-11779163240234.html
 
 - Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late
   Jury rules against Elon Musk in his feud with OpenAI
@@ -88,145 +100,85 @@
   Pope and co-founder of Anthropic
   🔗 https://www.livemint.com/technology/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25-11779104404645.html
 
-- Is your iPhone ready for iOS 27? The biggest AI features expected at WWDC 2026 and rumored compatible devices
-  Apple is all set to introduce iOS 27 at WWDC. The new UI is expected to bring a revamped Siri, AI-powered tools in the
-  🔗 https://www.livemint.com/technology/tech-news/is-your-iphone-ready-for-ios-27-the-biggest-ai-features-expected-at-wwdc-2026-and-rumored-compatible-devices-11779092768803.html
+- Ro Fund Management launches ‘Ro Stars of India Fund’ under Category III AIF platform
+  Mumbai-based Ro Fund Management has launched the ‘Ro Stars of India Fund’ The fund has reportedly outperformed benchmark indices within its first month of operations.
+  🔗 https://economictimes.indiatimes.com/markets/aif-pms/ro-fund-management-launches-ro-stars-of-india-fund-under-category-iii-aif-platform/articleshow/131194941.cms
 
-- From Aluminium OS to Gemini Omni: The biggest AI upgrades expected at Google I/O 2026
-  Google I/O will kick off from Tuesday with a keynote address by Sundar Pichai. The company is expected to showcase major AI upgrades including
-  🔗 https://www.livemint.com/technology/tech-news/from-aluminium-os-to-gemini-omni-the-biggest-ai-upgrades-expected-at-google-i-o-2026-11779088631880.html
-
-- Forza Horizon 6 release time: When can you play on Xbox, PC, and Steam in India?
-  The game can be pre-downloaded right now with download sizes being 135 GB for Xbox Series X, 130 GB for Series S, and 160 GB for PC. For
-  🔗 https://www.livemint.com/technology/tech-news/forza-horizon-6-release-time-when-can-you-play-on-xbox-pc-and-steam-in-india-11779083021274.html
-
-- Oil Price Today (May 19): Crude oil retreats from $110 as Trump delays planned strike on Iran. Where are prices headed?
-  Oil prices dipped Tuesday after President Trump delayed a planned military strike on Iran. Analysts warn that a prolonged closure of the Strait of Hormuz could still impact markets significantly.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-19-crude-oil-retreats-from-110-as-trump-delays-planned-strike-on-iran-where-are-prices-headed/articleshow/131188794.cms
-
-- Teamtech Formwork Solutions IPO: Check GMP, subscription, price band and other details
-  Teamtech Formwork Solutions' IPO opens Tuesday with a muted grey market outlook, showing a 0% premium. The Rs 50.15 crore issue aims to fund a new manufacturing facility, debt repayment, and working capital.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/teamtech-formwork-solutions-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131188735.cms
-
-- Stocks to buy in 2026 for long term: Solar Industries, Tata Motors among 5 stocks that could give 10-20% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-solar-industries-tata-motors-among-5-stocks-that-could-give-10-20-return/slideshow/131188686.cms
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
+- Up to Rs 25 petrol, diesel hike? Oil firms still bleeding Rs 1,380 crore daily
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-jsw-steel-zee-share-price-19-may-2026/liveblog/131188649.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/up-to-rs-25-petrol-diesel-hike-oil-firms-still-bleeding-rs-1380-crore-daily/videoshow/131194785.cms
 
-- Negative Breakout: These 8 midcap stocks cross below their 200 DMAs
-  The 200 DMA is used as a key indicator by traders for determining the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-midcap-stocks-cross-below-their-200-dmas/slideshow/131188644.cms
+- BSE shares jump over 7% in two days on likely Nifty50 inclusion; IT major Wipro to make way
+  BSE shares rose sharply on Tuesday on expectations of replacing Wipro in the Nifty50 during the September rejig. The rally comes after strong Q4 results and bullish brokerage views. Analysts remain divided on the stock
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-jump-over-7-in-two-days-on-likely-nifty50-inclusion-it-major-wipro-to-make-way/articleshow/131194633.cms
 
-- PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR
-  PM Modi attends India-Norway Business and Research
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjZLanFoRW9WLTlKclNncURjOXlYdndoaTNPRVFVMnhXc2hYckZFTlZTR1A1S2ltQjZ3VHNYLTI1WkhkakpmMXR5T3dEc1A2WndBVUtYbkdwV3Z2aklUQXY4S2ZES3RpUGpHeGpib19hQnc2ZGRqNV80SWlOWXV3MWZ2SHVaMThSa0djRGYyS3cyMzFmcXFlYkJ1RQ?oc=5
+- Markets supported by liquidity, but valuations running ahead of fundamentals: Sameer Dalal
+  Sameer Dalal of Natverlal &amp; Sons Stockbrokers remains cautious on earnings visibility for FY27. He favors long-term prospects in banking and real estate, advising caution
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-supported-by-liquidity-but-valuations-running-ahead-of-fundamentals-sameer-dalal/articleshow/131194520.cms
 
-- PM Modi Highlights Trade Growth At India-Norway Business And Research Summit - NDTV
-  PM Modi Highlights Trade Growth At India-Nor
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWpoSmRIekhNbk5nQUl0UWtsSVVxT1huVnRrclBqam9zcEx6VV9IdEVtbHpWRURwSVEweU52Y3Zkc1VJYnBNZ2huMk5yX2xPUHF2a0I3V1dCbF9SdlVzZnNyem9IT2c4QklHdmFjejRMNkdtUHp6SXBqbnRjY3lrRC1NVW8yWXBLdExwMnBaN2xEMlZGbFdWcUZOaFhndGJNdGZ1Q2liS0NSSlZjQXJEOWxqLVFiZHdE0gHAAUFVX3lxTE16eTdvdER1UEktQ1JsajJjVFl3LTJUbnl0V0o3YUpGUUJaRlBsT0VJQ1cxZVo3V3o4R2ZXUFIyWFN1V0xtd2hRbFNGN0J0X3YwY0pTWmtzM0g3LUVVc1JoOHFYWDBOODgtZi1Wem9tek1pYmEzc0t5Zk1uaU9KX3ZNa1h1VExDS3VveFl1LTB1NUI2R2J4XzNIcHB2S0FPTFViLUFEUldObExNZUhCTG85V3BsYU1sMFZWcmFIUFh3aw?oc=5
+- Rupee sinks to all-time low of 96.47 vs USD on mounting external finance pressures, rising US yields
+  The Indian rupee slipped to 96.47 against the US dollar, surpassing its previous low. State-run banks sold dollars, suggesting possible central bank intervention.
+  🔗 https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-all-time-low-of-96-47-vs-usd-on-unrelenting-oil-pressure-weak-risk/articleshow/131194495.cms
 
-- 'Reports By Ignorant NGOs': India Rejects Press Freedom, Rights Concerns In Oslo - NDTV
-  'Reports By Ignorant NGOs': India Re
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemRheHdQQmxjX215RVJ0bFdwR3BRa18yNzdlR015UXBiQzRGZDM3RnZKbXp6ekkzQlU5T205QTd4Z0kzZUN3S1VZdWljdTJwNHpWbXdmWEplekhSYlFZS3o0VkVseXFndllIcWZmSmZDNWNZTjBTbHFwRm5UWlhDVE5xTTlKcDFuYTRVTlA1NUVRTGYxbFVPVG1DdkdxR2l4eGVhSUgwNGxGNG1JRnZCSktpV3cySjZJV2FEcDU1WTZFTTliUFdjQ2tuUEFvR2kyVHlnRHdhMl9LY2p50gHkAUFVX3lxTE5lbnJVWVpnQlRDeWZ4ZUVqX1BFNjhlLTQ2OXFYNjc2cS1zZnI3NjlaN3RSTVQ1VGUzdEtXQ0dJVjh2a0FSZjItOUhZRHU0YkF6VF9pT2JkTHFIalpFSlZBRkM2X3lRcDJ6Y1ZvX0Z0TzZ1M3RXU1VZUzdWR2drNFBjSUtXeGZEM2ZVM09xRGlEb3FPTTBqR0hvZWpQQnpLZUlQM1NGSDc2VDA1cEpGYWRCQldaMmZiQW9Lck42bFcyaF9LZDBPaUZTREsybG9LSklQUEh1NUJydmJmMWVrMGE2cjVoTA?oc=5
+- PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway Business and Research Summit | India News - Hindustan Times
+  PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
 
-- Bulldozers in action in Kolkata; more to follow across Bengal, says BJP govt - India Today
-  Bulldozers in action in Kolkata; more to
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQQXdkaGE3cTBoY1dFZWZ4OC1hMW9HcTZjUC10M1BOYXJzUlNmSnRsWm5sN0haMTdyS0tmLVhMVG4ydDRQZnpHRkNIU0JCVGw1N2hHeEdadW5FVzBubkNFQTBrSU1WVkVraUdRdGVvaVpIamNDNkYwd3pJa2FWcnMzLWh4eHh6SVI5N2lYaXhIaVljR21VaXFxek9xd1ZRS3hUZ0Q3RHRMbHRTZF83RDJ3U0FpRDdtODc4a2xNbjNWXzc3NFc1MzVVdzBZelZ5ZlhGdmVuWWl4OUhsU1hUeVZMVkdKcnlfN280VjNlWnlVSGFJYTFYM2dDNGR5RjVjZUI4N1RLcG1SVy1WcHhRbXhmTXJR0gGXAkFVX3lxTE1HbmFPVlh6TVpDRXV2bHdtTnY4bjlLeDYtMzhCdHhRZkIxeHEwLTZDcllGZ2MtdU82M1QzSTJ6dFloUzd6RURXOG1JbEpzZjNiS2prMU9TZHprNERlTWNqSUR0UlpJUVFzUTkxOUhLcmRXTVl2RGRBWGYyM0twbmJXcFl0SEZINTRuRFYtdWJTUHJWSldGNHVCM1VNUWdrOGJvTmpoLW5JUUFHUm10em15b1dyNGp5YVpHY2tEYkxoOHdKWXFONWZHVU51Y0ZkWmRuVlNtVkh5YzlySGRZcjA0Nk16NmFoR3Q1RXduWmJ6OE1HNWVoUUoxUEtuX0VwbEc5Z3ZrYlFIcUhjNm9wSENHdEpqbm45WQ?oc=5
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong & confident nation | DD News On Air - News On AIR
-  Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong &
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUENadUp0VE10VWVQdUkwQXhXX1ljWlpGNFBvZURtMWlKMUFzWFpfZFpRdGZyTWhjV3loeXlTSk5Bem1FZEtGUzRQM0E1WTZQaHJtQy00eVhxaUJUaEtReVNFS3ZPNHFVOWtUY0hBTGFsUHJWMkNaQ215WWx2MHgwZVJVNlBSMFFqRkNNc19JcmpybG5zNDZFdEJnS1k1M1lXVDJfdkJwTDY5cmdmd1ZUaENxWGJXdGJ5ZHpJZ3ZiNjQtVEYzU2V4Rms1UTdGUjN5LWtYQUJibHlILTh5dEt5ODVldVZLLWRraW1V?oc=5
+- Modi in Norway LIVE: PM Modi holds bilateral talks with Finland PM Petteri Orpo - The Hindu
+  Modi in Norway LIVE: PM Modi holds bilateral talks with Finland
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcE5QQUt5QVVKZlB1TjBYUDBCU1B4Y2t6MVcyYmVhdDZzUVRPQUdqYm1nTlhoZ3JxREFpbEo5VjNIOWptXzlLQW95ZkE5aVNjOXNQek5OdkptNENIV0h5dndrbnRjMjNVQlF3dmZjS0lQOWc2b255STB4R1FiS1lyVUVOZzN2akdGWnZQQURwVml0cXlsUEwzaWRhNjU4MHpZcUZuWUd3VHJXZTZUdXFjdlJ0SkFMd3dSSmpMWEpLWdIBxgFBVV95cUxNN3RrTlMyOUNVOVBtVW13dnBmelVwSzE5MGZnTFcta2NxUEdSdHd5MmlOX3V1NXo5aDczX2UtZHZTN2dTS0twRkMtZEswaUtLSlhXS2lYUWxzR1JXNUU2ZVp0bzJvNG5NU2RPN085NkVsbWR3aHV6aHFxNjZSMkE2VXNBZkNVaUYzVkxaSEJqUUVmZ05BMjdKdGlNLUFlN1NXMmpyNUpxcjlFckxPMDB4X2REcjdySFdlX2FXcmFuOVdqM3U1MUE?oc=5
 
-- PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR
-  PM Modi attends India-Norway Business and Research
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjZLanFoRW9WLTlKclNncURjOXlYdndoaTNPRVFVMnhXc2hYckZFTlZTR1A1S2ltQjZ3VHNYLTI1WkhkakpmMXR5T3dEc1A2WndBVUtYbkdwV3Z2aklUQXY4S2ZES3RpUGpHeGpib19hQnc2ZGRqNV80SWlOWXV3MWZ2SHVaMThSa0djRGYyS3cyMzFmcXFlYkJ1RQ?oc=5
+- Blood Clot In Brain, Ruptured Spleen: Autopsy Report In 'Dowry' Death Case - NDTV
+  'Dowry' was killed in a car
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkxxRmxEQ3JPbVdMZUN0TFgxZlFSNzZNaEVyVDdzeEY0aVl3U3VzOUdxb3I0MlpVRWdSWkpockJvOGpEZVlDVVhFZ05OZ1FyeXZnMXdzYmdMZ21HR1dqVy1uNUVtSjVBLU9SLTg1Zkg0anhKdVpWZnNDNWdDcE5ybTZfdHN0NkNKbmFuX3Q1VzZMSndUcS1ETUNCaWJzTGxFNXV3S21qbGEySWRUVnc4MGVUYlZ6M0lnWWhQZXUyckVJQdIBygFBVV95cUxPcXc3TFFaSGVRWUNseGFSMU9Db1pIem50b0tOUjlmYk5zRTc4VlBGdlg3SFRELXdweDNzWEdnb1JVSEc3Z3VpanVES0Y2cmZjLXRiZFFnQURjWG5zVkpBeU5IZUhwSExfTW9JRGlHTU9ZVS1jNkFUOW9YUUV1VHJvenVnRkNNRGFQaVR4aUxpbkQyN3JPZk1FMnlkV3RSeW9ZdUZ0ZjNERFpJMGpwcUFXNlVyV2xvcFUtTzFZaldRc2NnMFFlUHJ1NWxB?oc=5
 
-- PM Modi Highlights Trade Growth At India-Norway Business And Research Summit - NDTV
-  PM Modi Highlights Trade Growth At India-Nor
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWpoSmRIekhNbk5nQUl0UWtsSVVxT1huVnRrclBqam9zcEx6VV9IdEVtbHpWRURwSVEweU52Y3Zkc1VJYnBNZ2huMk5yX2xPUHF2a0I3V1dCbF9SdlVzZnNyem9IT2c4QklHdmFjejRMNkdtUHp6SXBqbnRjY3lrRC1NVW8yWXBLdExwMnBaN2xEMlZGbFdWcUZOaFhndGJNdGZ1Q2liS0NSSlZjQXJEOWxqLVFiZHdE0gHAAUFVX3lxTE16eTdvdER1UEktQ1JsajJjVFl3LTJUbnl0V0o3YUpGUUJaRlBsT0VJQ1cxZVo3V3o4R2ZXUFIyWFN1V0xtd2hRbFNGN0J0X3YwY0pTWmtzM0g3LUVVc1JoOHFYWDBOODgtZi1Wem9tek1pYmEzc0t5Zk1uaU9KX3ZNa1h1VExDS3VveFl1LTB1NUI2R2J4XzNIcHB2S0FPTFViLUFEUldObExNZUhCTG85V3BsYU1sMFZWcmFIUFh3aw?oc=5
+- "Deliberate Thought After 88 Hours Was Smart Power": Army Chief On Op Sindoor - NDTV
+  "Deliberate Thought After 88 Hours Was Smart Power
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTJLN2FmWHZFbUtGSWI0dTFOa2ptZUNQVmNENnE0NHV5VERZQk5iTmZBMjM0Y0I0Ni1ScXBjRVhGUlU3ajBRdzUzWjhUVzRvakhqVmFpaS0zaE10OUlqOWVwUS1wdUdTU180Tmt6MjlCa3JtaXRaZkI3blFDT3VLR2pmWVVsY3BHcHl1UG40ZjdPdlRMRVRuNmJVbUpPeWhOSUg2T2YxY3F6OGN0NGRCTTgtbVZwcHZYVzMxaEVsalpiUmFLZUdld0lNZjFmdklK0gHYAUFVX3lxTE5DeXYyQW02LURtbl8tTVc5Qy1XOUtIX3hPNEN5S1A1SmIycmFtTFhvc2hCUDhVNDlrNkhPTlFZWEJHTURqRzVNLVNnbEZ5U2JVcHhTWC0xNDJFWHFJbzFvaXBCcUpKUzVmSEttRV9JLTNMTlRlZnZrbG5MeUVmQWY3ZGFkVFJEZGozRXVrSW9fR0pSbXFQSnJqdld2RFNIdzBkTW9DeVoyWUUwc1BBdUlkeDRsdmhsRlZZNDJPbjFLY3JLVFdIS2ZjS1J5aDQ4NmVVaGRQdTF6dA?oc=5
 
-- 'Reports By Ignorant NGOs': India Rejects Press Freedom, Rights Concerns In Oslo - NDTV
-  'Reports By Ignorant NGOs': India Re
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemRheHdQQmxjX215RVJ0bFdwR3BRa18yNzdlR015UXBiQzRGZDM3RnZKbXp6ekkzQlU5T205QTd4Z0kzZUN3S1VZdWljdTJwNHpWbXdmWEplekhSYlFZS3o0VkVseXFndllIcWZmSmZDNWNZTjBTbHFwRm5UWlhDVE5xTTlKcDFuYTRVTlA1NUVRTGYxbFVPVG1DdkdxR2l4eGVhSUgwNGxGNG1JRnZCSktpV3cySjZJV2FEcDU1WTZFTTliUFdjQ2tuUEFvR2kyVHlnRHdhMl9LY2p50gHkAUFVX3lxTE5lbnJVWVpnQlRDeWZ4ZUVqX1BFNjhlLTQ2OXFYNjc2cS1zZnI3NjlaN3RSTVQ1VGUzdEtXQ0dJVjh2a0FSZjItOUhZRHU0YkF6VF9pT2JkTHFIalpFSlZBRkM2X3lRcDJ6Y1ZvX0Z0TzZ1M3RXU1VZUzdWR2drNFBjSUtXeGZEM2ZVM09xRGlEb3FPTTBqR0hvZWpQQnpLZUlQM1NGSDc2VDA1cEpGYWRCQldaMmZiQW9Lck42bFcyaF9LZDBPaUZTREsybG9LSklQUEh1NUJydmJmMWVrMGE2cjVoTA?oc=5
+- PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway Business and Research Summit | India News - Hindustan Times
+  PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
 
-- Bulldozers in action in Kolkata; more to follow across Bengal, says BJP govt - India Today
-  Bulldozers in action in Kolkata; more to
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQQXdkaGE3cTBoY1dFZWZ4OC1hMW9HcTZjUC10M1BOYXJzUlNmSnRsWm5sN0haMTdyS0tmLVhMVG4ydDRQZnpHRkNIU0JCVGw1N2hHeEdadW5FVzBubkNFQTBrSU1WVkVraUdRdGVvaVpIamNDNkYwd3pJa2FWcnMzLWh4eHh6SVI5N2lYaXhIaVljR21VaXFxek9xd1ZRS3hUZ0Q3RHRMbHRTZF83RDJ3U0FpRDdtODc4a2xNbjNWXzc3NFc1MzVVdzBZelZ5ZlhGdmVuWWl4OUhsU1hUeVZMVkdKcnlfN280VjNlWnlVSGFJYTFYM2dDNGR5RjVjZUI4N1RLcG1SVy1WcHhRbXhmTXJR0gGXAkFVX3lxTE1HbmFPVlh6TVpDRXV2bHdtTnY4bjlLeDYtMzhCdHhRZkIxeHEwLTZDcllGZ2MtdU82M1QzSTJ6dFloUzd6RURXOG1JbEpzZjNiS2prMU9TZHprNERlTWNqSUR0UlpJUVFzUTkxOUhLcmRXTVl2RGRBWGYyM0twbmJXcFl0SEZINTRuRFYtdWJTUHJWSldGNHVCM1VNUWdrOGJvTmpoLW5JUUFHUm10em15b1dyNGp5YVpHY2tEYkxoOHdKWXFONWZHVU51Y0ZkWmRuVlNtVkh5YzlySGRZcjA0Nk16NmFoR3Q1RXduWmJ6OE1HNWVoUUoxUEtuX0VwbEc5Z3ZrYlFIcUhjNm9wSENHdEpqbm45WQ?oc=5
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong & confident nation | DD News On Air - News On AIR
-  Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong &
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUENadUp0VE10VWVQdUkwQXhXX1ljWlpGNFBvZURtMWlKMUFzWFpfZFpRdGZyTWhjV3loeXlTSk5Bem1FZEtGUzRQM0E1WTZQaHJtQy00eVhxaUJUaEtReVNFS3ZPNHFVOWtUY0hBTGFsUHJWMkNaQ215WWx2MHgwZVJVNlBSMFFqRkNNc19JcmpybG5zNDZFdEJnS1k1M1lXVDJfdkJwTDY5cmdmd1ZUaENxWGJXdGJ5ZHpJZ3ZiNjQtVEYzU2V4Rms1UTdGUjN5LWtYQUJibHlILTh5dEt5ODVldVZLLWRraW1V?oc=5
+- Modi in Norway LIVE: PM Modi holds bilateral talks with Finland PM Petteri Orpo - The Hindu
+  Modi in Norway LIVE: PM Modi holds bilateral talks with Finland
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcE5QQUt5QVVKZlB1TjBYUDBCU1B4Y2t6MVcyYmVhdDZzUVRPQUdqYm1nTlhoZ3JxREFpbEo5VjNIOWptXzlLQW95ZkE5aVNjOXNQek5OdkptNENIV0h5dndrbnRjMjNVQlF3dmZjS0lQOWc2b255STB4R1FiS1lyVUVOZzN2akdGWnZQQURwVml0cXlsUEwzaWRhNjU4MHpZcUZuWUd3VHJXZTZUdXFjdlJ0SkFMd3dSSmpMWEpLWdIBxgFBVV95cUxNN3RrTlMyOUNVOVBtVW13dnBmelVwSzE5MGZnTFcta2NxUEdSdHd5MmlOX3V1NXo5aDczX2UtZHZTN2dTS0twRkMtZEswaUtLSlhXS2lYUWxzR1JXNUU2ZVp0bzJvNG5NU2RPN085NkVsbWR3aHV6aHFxNjZSMkE2VXNBZkNVaUYzVkxaSEJqUUVmZ05BMjdKdGlNLUFlN1NXMmpyNUpxcjlFckxPMDB4X2REcjdySFdlX2FXcmFuOVdqM3U1MUE?oc=5
 
-- PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR
-  PM Modi attends India-Norway Business and Research
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjZLanFoRW9WLTlKclNncURjOXlYdndoaTNPRVFVMnhXc2hYckZFTlZTR1A1S2ltQjZ3VHNYLTI1WkhkakpmMXR5T3dEc1A2WndBVUtYbkdwV3Z2aklUQXY4S2ZES3RpUGpHeGpib19hQnc2ZGRqNV80SWlOWXV3MWZ2SHVaMThSa0djRGYyS3cyMzFmcXFlYkJ1RQ?oc=5
+- Blood Clot In Brain, Ruptured Spleen: Autopsy Report In 'Dowry' Death Case - NDTV
+  'Dowry' was killed in a car
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkxxRmxEQ3JPbVdMZUN0TFgxZlFSNzZNaEVyVDdzeEY0aVl3U3VzOUdxb3I0MlpVRWdSWkpockJvOGpEZVlDVVhFZ05OZ1FyeXZnMXdzYmdMZ21HR1dqVy1uNUVtSjVBLU9SLTg1Zkg0anhKdVpWZnNDNWdDcE5ybTZfdHN0NkNKbmFuX3Q1VzZMSndUcS1ETUNCaWJzTGxFNXV3S21qbGEySWRUVnc4MGVUYlZ6M0lnWWhQZXUyckVJQdIBygFBVV95cUxPcXc3TFFaSGVRWUNseGFSMU9Db1pIem50b0tOUjlmYk5zRTc4VlBGdlg3SFRELXdweDNzWEdnb1JVSEc3Z3VpanVES0Y2cmZjLXRiZFFnQURjWG5zVkpBeU5IZUhwSExfTW9JRGlHTU9ZVS1jNkFUOW9YUUV1VHJvenVnRkNNRGFQaVR4aUxpbkQyN3JPZk1FMnlkV3RSeW9ZdUZ0ZjNERFpJMGpwcUFXNlVyV2xvcFUtTzFZaldRc2NnMFFlUHJ1NWxB?oc=5
 
-- PM Modi Highlights Trade Growth At India-Norway Business And Research Summit - NDTV
-  PM Modi Highlights Trade Growth At India-Nor
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWpoSmRIekhNbk5nQUl0UWtsSVVxT1huVnRrclBqam9zcEx6VV9IdEVtbHpWRURwSVEweU52Y3Zkc1VJYnBNZ2huMk5yX2xPUHF2a0I3V1dCbF9SdlVzZnNyem9IT2c4QklHdmFjejRMNkdtUHp6SXBqbnRjY3lrRC1NVW8yWXBLdExwMnBaN2xEMlZGbFdWcUZOaFhndGJNdGZ1Q2liS0NSSlZjQXJEOWxqLVFiZHdE0gHAAUFVX3lxTE16eTdvdER1UEktQ1JsajJjVFl3LTJUbnl0V0o3YUpGUUJaRlBsT0VJQ1cxZVo3V3o4R2ZXUFIyWFN1V0xtd2hRbFNGN0J0X3YwY0pTWmtzM0g3LUVVc1JoOHFYWDBOODgtZi1Wem9tek1pYmEzc0t5Zk1uaU9KX3ZNa1h1VExDS3VveFl1LTB1NUI2R2J4XzNIcHB2S0FPTFViLUFEUldObExNZUhCTG85V3BsYU1sMFZWcmFIUFh3aw?oc=5
+- "Deliberate Thought After 88 Hours Was Smart Power": Army Chief On Op Sindoor - NDTV
+  "Deliberate Thought After 88 Hours Was Smart Power
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTJLN2FmWHZFbUtGSWI0dTFOa2ptZUNQVmNENnE0NHV5VERZQk5iTmZBMjM0Y0I0Ni1ScXBjRVhGUlU3ajBRdzUzWjhUVzRvakhqVmFpaS0zaE10OUlqOWVwUS1wdUdTU180Tmt6MjlCa3JtaXRaZkI3blFDT3VLR2pmWVVsY3BHcHl1UG40ZjdPdlRMRVRuNmJVbUpPeWhOSUg2T2YxY3F6OGN0NGRCTTgtbVZwcHZYVzMxaEVsalpiUmFLZUdld0lNZjFmdklK0gHYAUFVX3lxTE5DeXYyQW02LURtbl8tTVc5Qy1XOUtIX3hPNEN5S1A1SmIycmFtTFhvc2hCUDhVNDlrNkhPTlFZWEJHTURqRzVNLVNnbEZ5U2JVcHhTWC0xNDJFWHFJbzFvaXBCcUpKUzVmSEttRV9JLTNMTlRlZnZrbG5MeUVmQWY3ZGFkVFJEZGozRXVrSW9fR0pSbXFQSnJqdld2RFNIdzBkTW9DeVoyWUUwc1BBdUlkeDRsdmhsRlZZNDJPbjFLY3JLVFdIS2ZjS1J5aDQ4NmVVaGRQdTF6dA?oc=5
 
-- 'Reports By Ignorant NGOs': India Rejects Press Freedom, Rights Concerns In Oslo - NDTV
-  'Reports By Ignorant NGOs': India Re
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemRheHdQQmxjX215RVJ0bFdwR3BRa18yNzdlR015UXBiQzRGZDM3RnZKbXp6ekkzQlU5T205QTd4Z0kzZUN3S1VZdWljdTJwNHpWbXdmWEplekhSYlFZS3o0VkVseXFndllIcWZmSmZDNWNZTjBTbHFwRm5UWlhDVE5xTTlKcDFuYTRVTlA1NUVRTGYxbFVPVG1DdkdxR2l4eGVhSUgwNGxGNG1JRnZCSktpV3cySjZJV2FEcDU1WTZFTTliUFdjQ2tuUEFvR2kyVHlnRHdhMl9LY2p50gHkAUFVX3lxTE5lbnJVWVpnQlRDeWZ4ZUVqX1BFNjhlLTQ2OXFYNjc2cS1zZnI3NjlaN3RSTVQ1VGUzdEtXQ0dJVjh2a0FSZjItOUhZRHU0YkF6VF9pT2JkTHFIalpFSlZBRkM2X3lRcDJ6Y1ZvX0Z0TzZ1M3RXU1VZUzdWR2drNFBjSUtXeGZEM2ZVM09xRGlEb3FPTTBqR0hvZWpQQnpLZUlQM1NGSDc2VDA1cEpGYWRCQldaMmZiQW9Lck42bFcyaF9LZDBPaUZTREsybG9LSklQUEh1NUJydmJmMWVrMGE2cjVoTA?oc=5
+- PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway Business and Research Summit | India News - Hindustan Times
+  PM Modi in Europe highlights: PM Modi in Oslo inaugurates India-Norway
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxPaDFqLXA0QTZZTUExbFI1LWZQSXJ2NzJnbHFubGw4T0hhZ3lHWHkxQnhhZHBNQlZ2QnUwdUJTWFEyZW54eEFOanA1ajNlQklBQ1NnZzVwanI0V3hudlF1ajRwYzNfWTF2Q29qVUFaUmQzamsyakJfSlk4T2lTV2R4d1QxLUxmVDFnbXZtQjJHS2IzZnctZlBwZnZJclRNM2w4MjN6VDNYMU9GbkxzblFUNkdQRkhzMDYzM21ORUxkM0d0NXI0TlBKYUQyeU1POU1LVWphNTY5VVNqSUVUdFU0Y25DN001UTc3cWtmNG9XaF9SR0xGM0N3d1E2ZTZybFZuMl9IdnFydUNMQl9QbGFKdg?oc=5
 
-- Bulldozers in action in Kolkata; more to follow across Bengal, says BJP govt - India Today
-  Bulldozers in action in Kolkata; more to
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQQXdkaGE3cTBoY1dFZWZ4OC1hMW9HcTZjUC10M1BOYXJzUlNmSnRsWm5sN0haMTdyS0tmLVhMVG4ydDRQZnpHRkNIU0JCVGw1N2hHeEdadW5FVzBubkNFQTBrSU1WVkVraUdRdGVvaVpIamNDNkYwd3pJa2FWcnMzLWh4eHh6SVI5N2lYaXhIaVljR21VaXFxek9xd1ZRS3hUZ0Q3RHRMbHRTZF83RDJ3U0FpRDdtODc4a2xNbjNWXzc3NFc1MzVVdzBZelZ5ZlhGdmVuWWl4OUhsU1hUeVZMVkdKcnlfN280VjNlWnlVSGFJYTFYM2dDNGR5RjVjZUI4N1RLcG1SVy1WcHhRbXhmTXJR0gGXAkFVX3lxTE1HbmFPVlh6TVpDRXV2bHdtTnY4bjlLeDYtMzhCdHhRZkIxeHEwLTZDcllGZ2MtdU82M1QzSTJ6dFloUzd6RURXOG1JbEpzZjNiS2prMU9TZHprNERlTWNqSUR0UlpJUVFzUTkxOUhLcmRXTVl2RGRBWGYyM0twbmJXcFl0SEZINTRuRFYtdWJTUHJWSldGNHVCM1VNUWdrOGJvTmpoLW5JUUFHUm10em15b1dyNGp5YVpHY2tEYkxoOHdKWXFONWZHVU51Y0ZkWmRuVlNtVkh5YzlySGRZcjA0Nk16NmFoR3Q1RXduWmJ6OE1HNWVoUUoxUEtuX0VwbEc5Z3ZrYlFIcUhjNm9wSENHdEpqbm45WQ?oc=5
+- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
+  'Lack Of Knowledge': India Rejects Dutch
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
 
-- Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong & confident nation | DD News On Air - News On AIR
-  Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong &
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUENadUp0VE10VWVQdUkwQXhXX1ljWlpGNFBvZURtMWlKMUFzWFpfZFpRdGZyTWhjV3loeXlTSk5Bem1FZEtGUzRQM0E1WTZQaHJtQy00eVhxaUJUaEtReVNFS3ZPNHFVOWtUY0hBTGFsUHJWMkNaQ215WWx2MHgwZVJVNlBSMFFqRkNNc19JcmpybG5zNDZFdEJnS1k1M1lXVDJfdkJwTDY5cmdmd1ZUaENxWGJXdGJ5ZHpJZ3ZiNjQtVEYzU2V4Rms1UTdGUjN5LWtYQUJibHlILTh5dEt5ODVldVZLLWRraW1V?oc=5
+- Modi in Norway LIVE: PM Modi holds bilateral talks with Finland PM Petteri Orpo - The Hindu
+  Modi in Norway LIVE: PM Modi holds bilateral talks with Finland
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQcE5QQUt5QVVKZlB1TjBYUDBCU1B4Y2t6MVcyYmVhdDZzUVRPQUdqYm1nTlhoZ3JxREFpbEo5VjNIOWptXzlLQW95ZkE5aVNjOXNQek5OdkptNENIV0h5dndrbnRjMjNVQlF3dmZjS0lQOWc2b255STB4R1FiS1lyVUVOZzN2akdGWnZQQURwVml0cXlsUEwzaWRhNjU4MHpZcUZuWUd3VHJXZTZUdXFjdlJ0SkFMd3dSSmpMWEpLWdIBxgFBVV95cUxNN3RrTlMyOUNVOVBtVW13dnBmelVwSzE5MGZnTFcta2NxUEdSdHd5MmlOX3V1NXo5aDczX2UtZHZTN2dTS0twRkMtZEswaUtLSlhXS2lYUWxzR1JXNUU2ZVp0bzJvNG5NU2RPN085NkVsbWR3aHV6aHFxNjZSMkE2VXNBZkNVaUYzVkxaSEJqUUVmZ05BMjdKdGlNLUFlN1NXMmpyNUpxcjlFckxPMDB4X2REcjdySFdlX2FXcmFuOVdqM3U1MUE?oc=5
 
-- PM Modi Attends India-Norway Business and Research Summit in Oslo - News On AIR
-  PM Modi attends India-Norway Business and Research
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjZLanFoRW9WLTlKclNncURjOXlYdndoaTNPRVFVMnhXc2hYckZFTlZTR1A1S2ltQjZ3VHNYLTI1WkhkakpmMXR5T3dEc1A2WndBVUtYbkdwV3Z2aklUQXY4S2ZES3RpUGpHeGpib19hQnc2ZGRqNV80SWlOWXV3MWZ2SHVaMThSa0djRGYyS3cyMzFmcXFlYkJ1RQ?oc=5
+- Blood Clot In Brain, Ruptured Spleen: Autopsy Report In 'Dowry' Death Case - NDTV
+  'Dowry' was killed in a car
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkxxRmxEQ3JPbVdMZUN0TFgxZlFSNzZNaEVyVDdzeEY0aVl3U3VzOUdxb3I0MlpVRWdSWkpockJvOGpEZVlDVVhFZ05OZ1FyeXZnMXdzYmdMZ21HR1dqVy1uNUVtSjVBLU9SLTg1Zkg0anhKdVpWZnNDNWdDcE5ybTZfdHN0NkNKbmFuX3Q1VzZMSndUcS1ETUNCaWJzTGxFNXV3S21qbGEySWRUVnc4MGVUYlZ6M0lnWWhQZXUyckVJQdIBygFBVV95cUxPcXc3TFFaSGVRWUNseGFSMU9Db1pIem50b0tOUjlmYk5zRTc4VlBGdlg3SFRELXdweDNzWEdnb1JVSEc3Z3VpanVES0Y2cmZjLXRiZFFnQURjWG5zVkpBeU5IZUhwSExfTW9JRGlHTU9ZVS1jNkFUOW9YUUV1VHJvenVnRkNNRGFQaVR4aUxpbkQyN3JPZk1FMnlkV3RSeW9ZdUZ0ZjNERFpJMGpwcUFXNlVyV2xvcFUtTzFZaldRc2NnMFFlUHJ1NWxB?oc=5
 
-- PM Modi Highlights Trade Growth At India-Norway Business And Research Summit - NDTV
-  PM Modi Highlights Trade Growth At India-Nor
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWpoSmRIekhNbk5nQUl0UWtsSVVxT1huVnRrclBqam9zcEx6VV9IdEVtbHpWRURwSVEweU52Y3Zkc1VJYnBNZ2huMk5yX2xPUHF2a0I3V1dCbF9SdlVzZnNyem9IT2c4QklHdmFjejRMNkdtUHp6SXBqbnRjY3lrRC1NVW8yWXBLdExwMnBaN2xEMlZGbFdWcUZOaFhndGJNdGZ1Q2liS0NSSlZjQXJEOWxqLVFiZHdE0gHAAUFVX3lxTE16eTdvdER1UEktQ1JsajJjVFl3LTJUbnl0V0o3YUpGUUJaRlBsT0VJQ1cxZVo3V3o4R2ZXUFIyWFN1V0xtd2hRbFNGN0J0X3YwY0pTWmtzM0g3LUVVc1JoOHFYWDBOODgtZi1Wem9tek1pYmEzc0t5Zk1uaU9KX3ZNa1h1VExDS3VveFl1LTB1NUI2R2J4XzNIcHB2S0FPTFViLUFEUldObExNZUhCTG85V3BsYU1sMFZWcmFIUFh3aw?oc=5
-
-- 'Reports By Ignorant NGOs': India Rejects Press Freedom, Rights Concerns In Oslo - NDTV
-  'Reports By Ignorant NGOs': India Re
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOemRheHdQQmxjX215RVJ0bFdwR3BRa18yNzdlR015UXBiQzRGZDM3RnZKbXp6ekkzQlU5T205QTd4Z0kzZUN3S1VZdWljdTJwNHpWbXdmWEplekhSYlFZS3o0VkVseXFndllIcWZmSmZDNWNZTjBTbHFwRm5UWlhDVE5xTTlKcDFuYTRVTlA1NUVRTGYxbFVPVG1DdkdxR2l4eGVhSUgwNGxGNG1JRnZCSktpV3cySjZJV2FEcDU1WTZFTTliUFdjQ2tuUEFvR2kyVHlnRHdhMl9LY2p50gHkAUFVX3lxTE5lbnJVWVpnQlRDeWZ4ZUVqX1BFNjhlLTQ2OXFYNjc2cS1zZnI3NjlaN3RSTVQ1VGUzdEtXQ0dJVjh2a0FSZjItOUhZRHU0YkF6VF9pT2JkTHFIalpFSlZBRkM2X3lRcDJ6Y1ZvX0Z0TzZ1M3RXU1VZUzdWR2drNFBjSUtXeGZEM2ZVM09xRGlEb3FPTTBqR0hvZWpQQnpLZUlQM1NGSDc2VDA1cEpGYWRCQldaMmZiQW9Lck42bFcyaF9LZDBPaUZTREsybG9LSklQUEh1NUJydmJmMWVrMGE2cjVoTA?oc=5
-
-- Bulldozers in action in Kolkata; more to follow across Bengal, says BJP govt - India Today
-  Bulldozers in action in Kolkata; more to
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQQXdkaGE3cTBoY1dFZWZ4OC1hMW9HcTZjUC10M1BOYXJzUlNmSnRsWm5sN0haMTdyS0tmLVhMVG4ydDRQZnpHRkNIU0JCVGw1N2hHeEdadW5FVzBubkNFQTBrSU1WVkVraUdRdGVvaVpIamNDNkYwd3pJa2FWcnMzLWh4eHh6SVI5N2lYaXhIaVljR21VaXFxek9xd1ZRS3hUZ0Q3RHRMbHRTZF83RDJ3U0FpRDdtODc4a2xNbjNWXzc3NFc1MzVVdzBZelZ5ZlhGdmVuWWl4OUhsU1hUeVZMVkdKcnlfN280VjNlWnlVSGFJYTFYM2dDNGR5RjVjZUI4N1RLcG1SVy1WcHhRbXhmTXJR0gGXAkFVX3lxTE1HbmFPVlh6TVpDRXV2bHdtTnY4bjlLeDYtMzhCdHhRZkIxeHEwLTZDcllGZ2MtdU82M1QzSTJ6dFloUzd6RURXOG1JbEpzZjNiS2prMU9TZHprNERlTWNqSUR0UlpJUVFzUTkxOUhLcmRXTVl2RGRBWGYyM0twbmJXcFl0SEZINTRuRFYtdWJTUHJWSldGNHVCM1VNUWdrOGJvTmpoLW5JUUFHUm10em15b1dyNGp5YVpHY2tEYkxoOHdKWXFONWZHVU51Y0ZkWmRuVlNtVkh5YzlySGRZcjA0Nk16NmFoR3Q1RXduWmJ6OE1HNWVoUUoxUEtuX0VwbEc5Z3ZrYlFIcUhjNm9wSENHdEpqbm45WQ?oc=5
-
-- Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong & confident nation | DD News On Air - News On AIR
-  Defence Minister Rajnath Singh describes Operation Sindoor as testament to India’s transformation into strong &
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUENadUp0VE10VWVQdUkwQXhXX1ljWlpGNFBvZURtMWlKMUFzWFpfZFpRdGZyTWhjV3loeXlTSk5Bem1FZEtGUzRQM0E1WTZQaHJtQy00eVhxaUJUaEtReVNFS3ZPNHFVOWtUY0hBTGFsUHJWMkNaQ215WWx2MHgwZVJVNlBSMFFqRkNNc19JcmpybG5zNDZFdEJnS1k1M1lXVDJfdkJwTDY5cmdmd1ZUaENxWGJXdGJ5ZHpJZ3ZiNjQtVEYzU2V4Rms1UTdGUjN5LWtYQUJibHlILTh5dEt5ODVldVZLLWRraW1V?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- "Deliberate Thought After 88 Hours Was Smart Power": Army Chief On Op Sindoor - NDTV
+  "Deliberate Thought After 88 Hours Was Smart Power
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTJLN2FmWHZFbUtGSWI0dTFOa2ptZUNQVmNENnE0NHV5VERZQk5iTmZBMjM0Y0I0Ni1ScXBjRVhGUlU3ajBRdzUzWjhUVzRvakhqVmFpaS0zaE10OUlqOWVwUS1wdUdTU180Tmt6MjlCa3JtaXRaZkI3blFDT3VLR2pmWVVsY3BHcHl1UG40ZjdPdlRMRVRuNmJVbUpPeWhOSUg2T2YxY3F6OGN0NGRCTTgtbVZwcHZYVzMxaEVsalpiUmFLZUdld0lNZjFmdklK0gHYAUFVX3lxTE5DeXYyQW02LURtbl8tTVc5Qy1XOUtIX3hPNEN5S1A1SmIycmFtTFhvc2hCUDhVNDlrNkhPTlFZWEJHTURqRzVNLVNnbEZ5U2JVcHhTWC0xNDJFWHFJbzFvaXBCcUpKUzVmSEttRV9JLTNMTlRlZnZrbG5MeUVmQWY3ZGFkVFJEZGozRXVrSW9fR0pSbXFQSnJqdld2RFNIdzBkTW9DeVoyWUUwc1BBdUlkeDRsdmhsRlZZNDJPbjFLY3JLVFdIS2ZjS1J5aDQ4NmVVaGRQdTF6dA?oc=5
 
 
-_Last updated: 2026-05-19 02:48:36 UTC_
+_Last updated: 2026-05-19 09:37:32 UTC_
