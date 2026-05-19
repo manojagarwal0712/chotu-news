@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Wedding, abductions and missing men – Kuki-Naga faceoff has Manipur on edge
+- Marco Rubio to visit India from May 23; trade, defence, energy on agenda
   
-  🔗 https://indianexpress.com/article/india/wedding-abductions-missing-men-kuki-naga-faceoff-manipur-edge-10698075/
+  🔗 https://indianexpress.com/article/india/marco-rubio-to-visit-india-from-may-23-trade-defence-energy-on-agenda-10698421/
 
-- Russian President Vladimir Putin to attend BRICS summit in New Delhi in September
+- Fifth arrest in Suvendu aide murder case — businessman from Varanasi
   
-  🔗 https://indianexpress.com/article/india/russian-president-vladimir-putin-brics-summit-new-delhi-10698032/
+  🔗 https://indianexpress.com/article/india/cbi-arrests-fifth-accused-in-suvendu-aide-murder-case-from-varanasi-10693760/
 
-- Study reveals ‘cake-like’ lunar surface structure near Chandrayaan 3 landing site
+- ‘Resolve complaints in 30 days or face suspension’: Bihar CM launches panchayat-level grievances redressal camps
   
-  🔗 https://indianexpress.com/article/india/chandrayaan-3-lunar-regolith-study-shiv-shakti-point-cake-like-surface-10697933/
+  🔗 https://indianexpress.com/article/india/bihar-sahyog-portal-panchayat-grievance-camps-launch-10698287/
 
-- Boosting defence ties, US clears Apache, howitzer support services for India
+- Indian official found dead at Chattogram mission in Bangladesh
   
-  🔗 https://indianexpress.com/article/india/us-approves-apache-helicopter-m777-howitzer-sustainment-deals-india-10697996/
+  🔗 https://indianexpress.com/article/india/indian-high-commission-official-found-dead-chattogram-bangladesh-10698226/
 
-- Will hunt down Kashmir drug smugglers even in ‘paataal’: L-G Sinha
+- In Bastar, Amit Shah’s warning: ‘Maoism will return in disguise, don’t be misled’
   
-  🔗 https://indianexpress.com/article/india/lg-manoj-sinha-pulwama-padyatra-nasha-mukti-drug-narco-terror-10697957/
+  🔗 https://indianexpress.com/article/india/bastar-amit-shah-maoism-free-10698181/
+
+- Nasa’s new Mars orbiter sparks questions over a $700 million competition
+  
+  🔗 https://indianexpress.com/article/technology/science/nasas-new-mars-orbiter-sparks-questions-over-a-700-million-competition-10698217/
+
+- Apple unveils new AI-assisted accessibility features ahead of WWDC 2026
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-new-ai-assisted-accessibility-features-ahead-of-wwdc-2026-10698215/
 
 - Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study
   
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-daybreak-ai-cybersecurity-anthropic-mythos-10697672/
 
-- Google launches AI education initiatives for teachers and students in India
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-education-initiatives-for-teachers-and-students-in-india-10697640/
+- Canadian miner Sherritt International stops plan to dissolve Cuban joint venture
+  Canadian miner Sherritt International
+  🔗 https://www.livemint.com/companies/canadian-miner-sherritt-international-stops-plan-to-dissolve-cuban-joint-venture-11779216323041.html
 
-- Amazon’s Alexa+ can now generate entire podcast episodes on demand
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazons-alexa-can-now-generate-entire-podcast-episodes-on-demand-10697393/
+- Boaz Weinstein’s Hedge Fund Takes Aim at Impax’s ‘Terrible’ Run
+  Boaz Weinstein’s hedge fund, Saba Capital Management, takes on one of the most high-profile environmental investment trusts
+  🔗 https://www.livemint.com/companies/boaz-weinstein-s-hedge-fund-takes-aim-at-impax-s-terrible-run-11779215706436.html
+
+- Anthropic hires OpenAI co-founder Andrej Karpathy to build next-generation Claude AI models
+  Andrej Karpathy, co-founder of OpenAI and former Tesla AI leader, has joined Anthropic. He expressed enthusiasm for returning to R&amp;amp
+  🔗 https://www.livemint.com/companies/people/anthropic-hires-openai-co-founder-andrej-karpathy-to-build-next-generation-claude-ai-models-11779206214104.html
 
 - Q4 results: Zee Entertainment reports loss at  ₹104 crore, says war in West Asia impacted ad spend
   Zee Entertainment Enterprises (ZEE) on 19 May reported Q4 loss at  ₹104 crore, citing lower advertising spend
@@ -48,97 +60,165 @@
   For FY26, its revenue from operations stood at  ₹27,148
   🔗 https://www.livemint.com/companies/company-results/zydus-lifesciences-q4-results-fy27-growth-strategy-specialty-pharma-acquisitions-11779195975522.html
 
-- How Orange Health Labs is trying to become the Zepto of blood tests
-  The Bengaluru-headquartered upstart is trying to turn diagnostics into an on-demand consumer service. It promises home sample collection in
-  🔗 https://www.livemint.com/companies/orange-health-quick-commerce-diagnostics-dr-lal-pathlabs-11779192080071.html
+- CBOT wheat rises as drought knocks US crop rating to 30-year low
+  GRAINS-CBOT wheat rises as
+  🔗 https://www.livemint.com/market/cbot-wheat-rises-as-drought-knocks-us-crop-rating-to-30-year-low-11779219765236.html
 
-- PepsiCo India 2025 revenue up 8% as snacks growth offsets weak beverage sales
-  PepsiCo India reported higher revenue and profit for 2025. Double-digit growth in foods,
-  🔗 https://www.livemint.com/companies/company-results/pepsico-india-2025-revenue-rises-snacks-growth-campa-cola-competition-beverages-11779189840929.html
+- AI Data Center Borrowing Rapidly Climbs Wall Street’s Risk List
+  Borrowing tied to the AI data-center boom is quickly climbing Wall Street’s list of potential credit threats. Investors increasingly worry that the break
+  🔗 https://www.livemint.com/market/ai-data-center-borrowing-rapidly-climbs-wall-street-s-risk-list-11779218219138.html
 
-- Bharti Airtel launches Priority Postpaid service with 5G slicing
-  Airtel’s launch is the first such launch in India. Over the past year, slicing based 5G services
-  🔗 https://www.livemint.com/companies/news/bharti-airtel-launches-priority-postpaid-service-with-5g-slicing-11779190424107.html
+- Wall St slips as inflation worries push yields higher
+  Wall St slips as inflation worries push
+  🔗 https://www.livemint.com/market/wall-st-slips-as-inflation-worries-push-yields-higher-11779216749342.html
 
-- BPCL Q4 Results: Net profit plunges 58% QoQ to  ₹3,191 crore; revenue flat at  ₹1.35 lakh crore
-  Bharat Petroleum Corporation's net profit fell 1% year-on-year to  ₹3,191 crore but dropped 57.7% sequentially.
-  🔗 https://www.livemint.com/market/stock-market-news/bpcl-q4-results-net-profit-plunges-58-qoq-to-rs-3-191-crore-revenue-flat-at-rs-1-35-lakh-crore-11779196005909.html
+- Multibagger defence stock jumps over 15% after Q4 results. Choice maintains bullish outlook with  ₹365 target
+  Apollo Micro Systems shares surged nearly 10% after reporting a net profit of  ₹36.79 crore for the March quarter. The stock gained 16% over two days, reflecting strong
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-jumps-over-15-after-q4-results-choice-maintains-bullish-outlook-with-rs-365-target-11779206051559.html
 
-- Trident Q4 Results: Revenue slips 12% YoY, net profit comes in at  ₹102 crore
-   consolidated revenue at  ₹1,632.53 crore, down 12.4% year-on-year. For FY26, total revenue was 
-  🔗 https://www.livemint.com/market/stock-market-news/trident-q4-results-revenue-slips-12-yoy-net-profit-comes-in-at-rs-102-crore-11779193436329.html
+- Gold, silver rates today: Comex gold fell $91/oz; silver down $4 on inflation worries, firm US dollar
+  Gold fell to $4,467 and silver to $73.34, continuing losses amid inflation concerns, rising bond yields and geopolitical tensions over the Iran conflict.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-fell-91-oz-silver-down-4-on-inflation-worries-firm-us-dollar-11779202968394.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures slide up to 0.7% as tech rally loses momentum
-  Nasdaq 100 futures fell 0.7% and S&amp;amp;P 500 futures dropped 0.4%. Rising bond yields and oil prices contributed to cooling momentum in tech stocks.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-slide-up-to-0-7-as-tech-rally-loses-momentum-11779188892689.html
+- Everything Google announced at I/O 2026, including Gemini Omni, new Spark AI agent and Gemini 3.5 Flash
+  Google unveils Gemini 3.5 Flash model, Gemini Omni world model, and Antigravity 2.0 coding assistant.
+  🔗 https://www.livemint.com/technology/tech-news/everything-google-announced-at-i-o-2026-including-gemini-omni-new-spark-ai-agent-and-gemini-3-5-flash-11779216646560.html
 
-- Teamtech Formwork Solutions IPO: Issue booked over 50% on first day; check GMP, price band and other details
-  Teamtech Formwork Solutions IPO is entirely a fresh issue of 0.80 crore shares. The offer has no OFS component, all proceeds will be received by the company.
-  🔗 https://www.livemint.com/market/ipo/teamtech-formwork-solutions-ipo-issue-booked-over-50-on-first-day-check-gmp-price-band-and-other-details-11779190279740.html
+- Meta offers AI rival chatbots limited free WhatsApp access, sources say
+  Meta offers AI rival chatbots limited free
+  🔗 https://www.livemint.com/technology/meta-offers-ai-rival-chatbots-limited-free-whatsapp-access-sources-say-11779218159833.html
 
-- Rupee slides 7% YTD as crude shock weighs: Can end to US-Iran war offer any long-lasting respite?
-  On Tuesday, the rupee touched a record low of 96.6150 against the US dollar. So far this year, the domestic unit has already lost 7% with the selloff gathering
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-slides-7-ytd-as-crude-shock-weighs-can-end-to-us-iran-war-offer-any-long-lasting-respite-11779186990608.html
+- Google Search enters ‘agentic era’ with Gemini 3.5 Flash: 24/7 agents, and custom mini-apps announced
+  Google revamps Search with Gemini 3.5. The company is introducing a new redesigned search box. It is also introducing autonomous search agents.
+  🔗 https://www.livemint.com/technology/tech-news/google-search-enters-agentic-era-with-gemini-3-5-flash-24-7-agents-and-custom-mini-apps-announced-i-o-2026-11779213420897.html
 
-- Google I/O 2026 LIVE Updates: Sundar Pichai keynote today; Gemini AI, Android XR, Search updates expected
-  Google I/O 2026 kicks off on May 19 with Sundar Pichai’s keynote. Google is expected to reveal major updates around Gemini AI, Android,
-  🔗 https://www.livemint.com/technology/tech-news/google-io-2026-live-updates-sundar-pichai-keynote-gemini-ai-android-xr-launches-announcements-highlights-19-may-2026-11779199501541.html
+- Google I/O 2026: Google reveals Gemini Omni, Gemini 3.5 Flash with faster AI performance
+  Google DeepMind CEO Demis Hassabis unveiled the Gemini Omni model at I/O 20
+  🔗 https://www.livemint.com/technology/tech-news/google-i-o-2026-google-reveals-gemini-omni-gemini-3-5-flash-with-faster-ai-performance-11779211490497.html
 
-- From iOS 27 to a glowing Siri makeover: Biggest reveals expected at Tim Cook's final WWDC as CEO
-  iOS 27 will likely debut at WWDC 2026 along with other Apple operating sytems. The tech giant is also expected to reveal a brand
-  🔗 https://www.livemint.com/technology/tech-news/from-ios-27-to-a-glowing-siri-makeover-biggest-reveals-expected-at-tim-cooks-final-wwdc-as-ceo-11779193386152.html
+- Google kicks off I/O conference with AI upgrades for coders, consumers
+  Google kicks off I/O
+  🔗 https://www.livemint.com/technology/google-kicks-off-i-o-conference-with-ai-upgrades-for-coders-consumers-11779211350557.html
 
-- Microsofts biggest India data center on track to go live in mid-2026, executive says
-  Microsoft's biggest India data center on track to go
-  🔗 https://www.livemint.com/technology/microsofts-biggest-india-data-center-on-track-to-go-live-in-mid-2026-executive-says-11779195079165.html
+- U.S. stocks slide under pressure from higher rates: Live updates - CNBC
+  <ol><li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZUpXQkFFQ3RybVkyRUFrWnlXRDV3WlRrT05hanpjWF9LblNyY28wWXEzbWxaU19uNW5hcFJyMS12SE9TN0ZibnFkd0xxS2drOUgwZFc0ME5abE9SU3hZQXhURlhGb3p6Mj
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZUpXQkFFQ3RybVkyRUFrWnlXRDV3WlRrT05hanpjWF9LblNyY28wWXEzbWxaU19uNW5hcFJyMS12SE9TN0ZibnFkd0xxS2drOUgwZFc0ME5abE9SU3hZQXhURlhGb3p6MjZkYkpZb081TnAwN1Jz0gF8QVVfeXFMTTNKMGsxemF3dGN1S3VqUHZRVmN0UzJjUGpjVUU0VWpwekVKXy1BRmZMMnN4RjJpRDVMbVdHT3FMcmVsOTcyZTZxVGxwLXdqdjZJeXQzcEpHbGtlaDRvc3h2eEJPNUoyRUYyMWR2czV3VDhNUzNndW5KdzgzSg?oc=5
 
-- Google I/O 2026 kicks off today: Where to watch Sundar Pichai's keynote live in India and what to expect
-  Google will launch its biggest AI innovations today at I/O 2026 with a keynote expected by CEO Sundar Pichai. The event will streamed on YouTube at 10:00
-  🔗 https://www.livemint.com/technology/tech-news/google-i-o-2026-kicks-off-today-where-to-watch-sundar-pichais-keynote-live-in-india-and-what-to-expect-11779190505379.html
+- Rohit Tiwari joins Trilegal’s Bengaluru capital markets practice - Law.asia
+  Rohit Tiwari
+  🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pa2tOaGNRb1lDNXNOMHduX0FITFZTcmJaRFA1MVhrb1dYMl9LSVZfVGRJdFlLU2JOQ3UxYngxQWdnYks1cW41d0lwM1pqcEE1alByazdWTUc?oc=5
 
-- Why professionals are choosing lightweight laptops over traditional machines
-  Lightweight laptops are becoming the go to choice for professionals thanks to their portability, long battery life and slim
-  🔗 https://www.livemint.com/technology/gadgets/why-professionals-are-choosing-lightweight-laptops-over-traditional-machines-11779178129936.html
+- Sensex Today | Stock Market Highlights: Sensex falls 114 points, Nifty ends below 23,650 despite strong IT rally - Moneycontrol.com
+  Sensex falls 114 points, Nifty ends below 23,650 despite strong IT
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxQOTg2MzJlV1B5YnEzTldER2RrWWp0T00zR2FZUEc3NlJueUY1YWhaNkVtcVo1QUFXVnBZelRudjc2SHFybmNaXzJyVzlFS1lRTDJhQUttbTJqRUl0bGNCcXNtV0VfRlRSTzN3NzAta1pCTkFscExkelc2RV9kUTNfMUF6b0ljNi01REVfQWg3YlhGcTA0TUtjQnBYeGZ2WHhzNjlUM0R6dEdRb2ZIeXh2TTFlZWpYNWlZZlB3OEo5UGhCMFUxdC1PREdPeUhrb21zUXNfVEl0c09mUWRSS0QxeWpNVnFvUmxiNmxQa1MxckUwNkF3eWdBdlpFQmRxRFF5NjRLWFZqNm1FQVh5b2gzdTV2a3jSAZoCQVVfeXFMT01RNnlVTTNLRVp0R25YMWFTZTFHNE1iekJGN09ORXVTb3ZRS2taaTBuckhwejRUM0VYR21IdWNTclR6M2ZxZ05DZUNBTnZZN05lUHZHQXlGOFE2Tml5X2owSFRsMFg5ekpDVnA4MURLTFhfRzlUakI5ano0VkRFUVpyUzY0SUlIZVdCWjktdTVGTFRpVThBZXBDYUFzODNXcGNEeXVwRzM1S0NnTllZTWkwd2FQOTNTeTF3WlRhOEVRR3dWS1prR3lwQWpXZVlTYlZPTDZyU0h3SVN6ODAtbHNyM3JKYW40QUZ5MlNQWDBzTWp4bVpILUFob1hPdnpQR1RGYkVHSFM4ajdxNDhqenFRMkVod3hCd21n?oc=5
 
-- Zee Entertainment Q4 Results: Co reports loss of Rs 104 crore
-  In the quarter under review, ZEEL's revenue from Advertising was down 3.5 per cent at Rs 808 crore. The West Asia crisis
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q4-results-co-reports-loss-of-rs-104-crore/articleshow/131203279.cms
+- Iran eyes challenging stock market reopening after lengthy war closure - Al Jazeera
+  Iran eyes challenging stock market reopening after lengthy
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNa25DUDJ1Tzk4ZEtKbjdYLW5VOGhVWE5scWZZdWstaE5BVmdYQWJyNkhNbG51X0tqOXgwNElUOUFxWnBLOFFUSVptc254QnRiOEJZTHBCM2tNZE1sRHFQUU5tbEhkVVExeEVxcm9lRzRTYVNWY2xjcndCakJUbS1aQmRtUVphb0lNclpGMGxpWWRoNmFfVzFaTUlaY1lRSUdmTnNfaE1jVHFnVFRTNmNpejBFdlLSAboBQVVfeXFMUGZ4TmJwdWFCenlrM0dEZkRXaHlVWmFMRjVGR182RjlZWXZvbHhMbTlDUFBsVzhfUXpyeWZfZE85Yndqb3ZlNjlrRC1Xbkg5ZmJCTzRxSnJUcjBpSXFSVEF5YmpqR2M3NEFtel9rQWVEREJYSllVYmo4aWtaRFBiem4wMFJvOWJ2QXNmOFduWXNWM216UXN6RlJGVzVhUVBpQTg3VkI3MGI0QkhuWDBIQW1wZDN2X2oxUUhn?oc=5
 
-- BPCL Q4 Results: Cons PAT jumps 28% YoY to Rs 5,625 crore; revenue rises 6%
-  BPCL reported a 28% YoY jump in Q4 consolidated PAT to Rs 5,625 crore, with revenue rising 6.3%. Full-year net profit surged 94% to Rs 25,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q4-results-cons-pat-jumps-28-yoy-to-rs-5625-crore-revenue-rises-6/articleshow/131203021.cms
+- Trump’s Iran comments spur peace deal hopes - what’s moving markets - Investing.com
+  Investing.com: Trump’s
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWV9BZDN1T20tM29fZ3NRVVNEN1o1TFRlTTFaRjBvcVhuUnIzdVZHRF9ZM0N3ck1VTGpiV3liVW5Ma1VVRXZBRzExVzZUNDhnUDUwb3BJUlljREMyblEzd1oxYmRCV1JvVGpGY1BUNkVsaHUya2N2MXFqdGhJVVVNNUpWRVg3WGx0RWVxZTFLT0lmRE4zeXNCdTJDTl9FUmJ3NzF3NTRfNXdJVGZwWnNOdk9xUHI0Q0U?oc=5
 
-- Nithin Kamath sounds alarm on rising MTF risks as leveraged bets surge despite flat markets
-  Nithin Kamath warned that surging Margin Trading Facility (MTF) exposure poses a major systemic risk. He fears sharp market corrections could leave brokers unable to liquidate collateral, leading
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-sounds-alarm-on-rising-mtf-risks-as-leveraged-bets-surge-despite-flat-markets/articleshow/131202874.cms
+- RITES Q4 Results: Cons PAT slips 1.4% YoY to Rs 131 crore, revenue up 27%
+  RITES announced its financial results for the March quarter. The company reported a net profit of Rs 139 crore. RITES also achieved an all-time high order book of Rs 9,416 crore.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rites-q4-results-cons-pat-slips-1-4-yoy-to-rs-131-crore-revenue-up-27/articleshow/131206028.cms
 
-- BEL Q4 Results: Profit rises 5% to Rs 2,226 crore; co declares Rs 0.55 dividend
-  Bharat Electronics (BEL) Q4 FY26 net profit rose 5% to Rs 2,226 crore on 11% higher revenue of Rs 10,224 crore. Full-year net profit was Rs 6,06
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bel-q4-results-profit-rises-5-to-rs-2226-crore-co-declares-rs-0-55-dividend/articleshow/131202830.cms
+- US software stocks attempt a rebound as investors reassess AI risks
+  The Philadelphia Semiconductor Index hit a record high earlier this month. The rebound coincided with a slide in chipmakers.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-software-stocks-attempt-a-rebound-as-investors-reassess-ai-risks/articleshow/131205474.cms
 
-- US stocks today: S&amp;P 500 and Nasdaq open lower as chip stocks drag, inflation fears persist
-  The S&amp;P and the Nasdaq opened lower on Tuesday. The selloff in heavyweight chip stocks and
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-open-lower-as-chip-stocks-drag-inflation-fears-persist/articleshow/131202724.cms
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Domestic equities closed marginally lower due to weakness in financial and consumer shares, despite gains in IT stocks. Analysts suggest the short-term sentiment remains bearish, with Nifty 50 facing resistance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131205396.cms
 
-- Who is Sibi George? The Indian diplomat going viral for taking on Norway press | India News - Hindustan Times
-  Who is Sibi George? The Indian diplomat going viral for taking on Norway press
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGdqQjkzTU80WnBETUNvOFlzYjY4M1JXVkRqVENpajZ5d2hpWGVjNFd5ei16bWlwOXAzalVjdWUwM0ZtVXY0ZW91cldxVFdTeFREMGxOWGp2a29zVDJCLXZZWnN2cEJZODlhQzVVOWItQXpST3ZKaXprdkIyRWp2UGlrbWxuQi1nQmxuVTR5ZURtVEhIQW93YW5qQlpVVjFCQ3VDSXh2MFJ3ajJuV196Wkx0WnZCbXVfVlVrd1RsdmFYWDZjZkFyWFlxWVdxa2E3dE1mQkxzVmVxVmZwc1FTLWdlUVV3Z9IB6wFBVV95cUxPQTNqVk91Vm9XNzhtemt5ZFJWXzllMGxQVXZpLUZ5NkhIdldRWmlXT3h6eGNWZGFSdElGcGtZOHlrQld2TGh5QlRFanYzVGN0TTlmY213djdrQ0pSRVV5Y1Zwa1hQQWtqS0NPbU9zUXZiVnBhUHlwSFlVaDBXR0FKdGVDYnZmM3pNR3ZTWFRYVF90b216R2Npd3RUYlU3bkpoRzlCc29vWDZRRWZGNUVGamVITndHTXV3UEJFSVBaaDB6dVN5ZGkycG5aTFZoaGZDODJCODIwaU93aWtkZlZoa2YtU3VjZHBxRGR3?oc=5
+- NY Fed's Perli says rate control toolkit can navigate lower reserve demand
+  Treasury bill buying has already been reduced from buying $40 billion per month to the current pace of $10 billion. The official also said that Treasury bill buying the Fed embarked on ⁠at the close of last year to rebuild
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ny-feds-perli-says-rate-control-toolkit-can-navigate-lower-reserve-demand/articleshow/131205273.cms
 
-- 'Lack Of Knowledge': India Rejects Dutch PM's Remarks On Press Freedom, Minority Rights - NDTV
-  'Lack Of Knowledge': India Rejects Dutch
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWVWQjNuU0EyNDh6RmhldE5xMlBwR2NYdFczcHQyNmxzOW1uQ3lEUE82UXlRMkZkM1lwaVNmU1pNLWRVT19kcXNCYTRRQ0xGb1JKalhJenNka1JieE5tZUVIUlpUZWhFMy1TSk9vNDJCTXUtcGxLN3Y2SEdkeWZMTkpDRW1pNlo2TTZ5U3NTZHNrTzBGdDNpUG5Wck5wYm03UnUzTHFvX3diUFFyLTdrRnUtUkJfalgxVUpIb3JBVWVuUWFFcEZlZklwY20yak0zSTZQV1dnVHlOWFRpYk5zS1FR0gHqAUFVX3lxTE4yU0FzVEttUy1OeThEMV9nSHNkR2RMLVVlOUw0WlptRmQtV2VwbjVUTXRMR05GdGJ2MmFGbE11d3hyVVVIUHJRTzdadUh2RHl2ZGw4MWxrdjB2bFFQcjZqQXBBc3IzZ0lqWTlPanVtbUtwcXdiWWpCNlZQS3dMWmFwTzY4WmFMTG1KRzc5ZkUwX2s1SV9fMF9Kc3ZmS0g2ZTg0NHZJb2I5RVBpamZuaFFqenFPTDZUd3hJWl9yZUdCRGNsanRZMkRBSHFFN0tub3R0SVlfRHA2Q0VjWXpabU0wUGpNR0xtSlVJdw?oc=5
+- US SEC proposes broad changes to share registration, company reporting rules
+  "These proposals build ​upon the legislative and regulatory concepts," SEC Chair Paul Atkins says.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-proposes-broad-changes-to-share-registration-company-reporting-rules/articleshow/131205219.cms
 
-- Amit Shah says India became Naxal-free ahead of March 2026 deadline - The Indian Express
-  Amit Shah says India became Naxal-free
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNc19STzc4SXh2cldhNDZObmFBT01DdkM1OGhoLUFTZUk0Zlk0TXdmbjNCLUJIRzM0bTFmeW5XektwQl9OZEJwekxEMnEzMjJpckFSblNQZS1vYVNORlA2a204S2JpcWdmYVJUZUtRdmRpV0pKcmszQVE1MzFVSzBCcVpxYXpVdXBuRWMwbG4xMTFYc2ExakJIMTJPaDB5ZTdpeGx0WTZjSE5NUDZFSVF0V1lR0gG4AUFVX3lxTFBUbUIxVHFYVC1DMmU5b2tmVHU5eTJESkdvZWkxcjRZblBMT0JHTWtJVnFNSzlkTjFvRmZ4SldOVGJvTmFLem1YNV96RnVEZEN4RkRNWGlYdzVLZEQ0NEt4MFFpSFVvaFYzTlQyNldnVkExY3JIb1AxN1Y3U0h2ZDdKYk5wTFQ3TnVvWGlYMlVPbXRnNUwtTzFWVldzUmJ2a2xGUXA5ay04dWJvb3JwbTBxSGpxd1NHVl8?oc=5
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- New faces ready to shine for India in Test arena - ICC
-  New faces ready to shine for India in
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGpLeDZfTHQ2WXlpbkZ4TVFBWFZkZXlWX0gzV2FvQlpsWjBwSndWR2NkUVkxY01rZWRiVmZWc1ZHemZyZk9nTDRxMExXQmR0NkpFbEpGREZFT2c3LV96Y2pNemRsWndRUk9QenM0UUNuLUR3Q19UZFp3SUJndmlITklSU2NGQVJJ?oc=5
+- Democracy, Rule Of Law Make Us "Natural Partners": PM Modi At Nordic Summit - NDTV
+  The Indian prime minister is in Sweden for a summit of
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0syZXlnTlFPS29hTWJnWHNhTERTMGhiam9PWUtmbllxYmoyLTZsNGRZbVVOZWRwM21CTUVRUlF4QkF5NHI5OVFDLWZFU1NJaVBJMXplMHk4SWZlYzlZeE5PTHktSUdOM21uNldLMzZpcEhuZDMyRU0yeDMtaVZZdUs2WFlrOElPNVZzNndmeTNZYk5oUG95VnM5RDZ3bC1rcm9pQTFub2tHcDB2V002c0oxeW40T1A2b2VOWmFMbDNPUTIzWmfSAc4BQVVfeXFMUHNBcVVmX3lRN2hfbFZfeVVLVEl0ZzY1VEpUQWh6N0E1TjNjUEtKeGFFd3dSMjBQVDZER3g0bGlEczI1bGdET1g1SjgwOU9CTTVLUUZkTWIzUUdIRnJHT09fc2swU3dTZjBZNU1HbG0tOUhNSjFYOWFzUWtxQVA3ZEtGSG5qVjJTVnNhMzRxZ25Pb2cxby1YcFNuVnh5bzlialBZUE9KWVo2eWIxdDRHQ3loMnBBSUFVZnQ0TzB1dDBtQ3hiOXhrMThVNzBoeGc?oc=5
 
-- 'CM Adhikari promised ...': Jahangir Khan exits Falta repoll; TMC says 'succumbed to pressure' - The Times of India
-  'CM Adhikari promised ...': Jahangir Khan exits F
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR1lPbkNUZXA0YTRqT0pJRUwyNXlFYS1scUxiR0w1eW1wNU9MYUxwSlRNN09vUV9mY0REWEMzbnBBOGZnWGVCdjZLMi1SaVh2eTVZY0dmMmZLdm4weE9ub09EdDg2Q2dvSXFBU0Q1bHpxYUtNVHVHbnlGR2Z3RXMyWnQtVDE0RXZLMFJCYTE3RkFocFV4Z2E0X1Y0Rmh1RFhFNzAyakZjdlNiOTBBa1VVQWdFMllneTZkYndmR1ppSVB6V2RuUFRCTkpabnZBRU1zMkVucDI3UUpzZkJDQWZvSmlDSmZnYXFaVS1JNkFWMNIB9AFBVV95cUxOaWJ2YzZCSWJ3N3hRMXdYNS1MeVd3NzdMWWwzQ2N4T2NxSW1XQk9FekYyWnpVMEhWQUlCN0tKVnJtRlBLU0lzdWxKaEpYUXNsSm9NcUM2VTJNVUFiclBQaE9VOUxKY2NXWW1sUXpiZHJEVnVDZ3dROVI3MmNWQUlGU1c0aHhfRXBXUDRvcnpsb3ZXckdFTlZHLV9xNmxKRWkwWm1PeVpIMDA2V3BBcnZqR2hwcEotS001Z3Z6Xy1RdUpQVGt4SGhVTzhZY1g1WUp5aEpBeVhpTWRyMVZnM2kxYUVTOVNZTURUZnBraV80M2wwYWts?oc=5
+- India, Italy set to expand cooperation across key sectors - The Hindu
+  India, Italy set to expand cooperation across
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHVEOGtONUZmWm9oVjJyYk1KeU1JMkMtWnpVM3BSakFNLXFkY2FmcTItT1NxYUpfeUVXcnNYZUZMVTRBMWdYaWVHQmdmdjRNM3JqS0dzNVdQLUdleVU0Q1FnMENTZmRqREdjZGZHQlFaSzExZ2M2enNKWVVQLTNEellvQ3A3RFBKbWJQUVVPZzRjWndyZTI0UnVSanlIcWZPOUhQRjdDejV6ZFFnQjZfX2tTc1Zidw?oc=5
+
+- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
+  Citizenship Rules Amended, These
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+
+- GNLU signs MoU to train Indian Navy officers - The Times of India
+  GNLU signs MoU to train Indian Navy
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZtckdGSUV0aWtPUWdyUHU3NWlXVkN4QWpfQkRSbVp6akdPRnRlZWhZLUtPX1pYUEhlbHpPTWJSUmVEdHlDNHFSOHgyMlF5ZVBIdjRnUXBPSzE5azcxWVBNd2hBQlhCZDV0MzJSaG1FQUJyX3BzT2lmbUV2ODFzc2R1VzAtZDQxc1ZGLUlla3d6eGV6UktuM25IQjQ5N0NYbjNuc080bnY1eWhIdzJBNldoNVhPSEkyQ3ZSRW530gHDAUFVX3lxTE95cG1LTmJrSTZEVUhPb2daLTdkTjNHRTBDTTc3ZFhfUndQQXJWMzNXc0gxTXItOUdVVXF4Wl95T05oNVBORzVZeDFwb3pBcmNYRnRjRGJ6c21nMGdkNXo4QV9RcHFfM3VSeGpIQm9qSEtFRUdpMUxjUXBUaFgzWG1PaTZNUmptQURTMzhzSjdSd0VoSU9YOEpjaUlBbEpFTHByWVNkbkZlQ1VfWHZPdVZ0NnFqalphRkNMdU51X29CZVB2QQ?oc=5
+
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
+
+- Democracy, Rule Of Law Make Us "Natural Partners": PM Modi At Nordic Summit - NDTV
+  The Indian prime minister is in Sweden for a summit of
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0syZXlnTlFPS29hTWJnWHNhTERTMGhiam9PWUtmbllxYmoyLTZsNGRZbVVOZWRwM21CTUVRUlF4QkF5NHI5OVFDLWZFU1NJaVBJMXplMHk4SWZlYzlZeE5PTHktSUdOM21uNldLMzZpcEhuZDMyRU0yeDMtaVZZdUs2WFlrOElPNVZzNndmeTNZYk5oUG95VnM5RDZ3bC1rcm9pQTFub2tHcDB2V002c0oxeW40T1A2b2VOWmFMbDNPUTIzWmfSAc4BQVVfeXFMUHNBcVVmX3lRN2hfbFZfeVVLVEl0ZzY1VEpUQWh6N0E1TjNjUEtKeGFFd3dSMjBQVDZER3g0bGlEczI1bGdET1g1SjgwOU9CTTVLUUZkTWIzUUdIRnJHT09fc2swU3dTZjBZNU1HbG0tOUhNSjFYOWFzUWtxQVA3ZEtGSG5qVjJTVnNhMzRxZ25Pb2cxby1YcFNuVnh5bzlialBZUE9KWVo2eWIxdDRHQ3loMnBBSUFVZnQ0TzB1dDBtQ3hiOXhrMThVNzBoeGc?oc=5
+
+- India, Italy set to expand cooperation across key sectors - The Hindu
+  India, Italy set to expand cooperation across
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHVEOGtONUZmWm9oVjJyYk1KeU1JMkMtWnpVM3BSakFNLXFkY2FmcTItT1NxYUpfeUVXcnNYZUZMVTRBMWdYaWVHQmdmdjRNM3JqS0dzNVdQLUdleVU0Q1FnMENTZmRqREdjZGZHQlFaSzExZ2M2enNKWVVQLTNEellvQ3A3RFBKbWJQUVVPZzRjWndyZTI0UnVSanlIcWZPOUhQRjdDejV6ZFFnQjZfX2tTc1Zidw?oc=5
+
+- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
+  Citizenship Rules Amended, These
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+
+- GNLU signs MoU to train Indian Navy officers - The Times of India
+  GNLU signs MoU to train Indian Navy
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZtckdGSUV0aWtPUWdyUHU3NWlXVkN4QWpfQkRSbVp6akdPRnRlZWhZLUtPX1pYUEhlbHpPTWJSUmVEdHlDNHFSOHgyMlF5ZVBIdjRnUXBPSzE5azcxWVBNd2hBQlhCZDV0MzJSaG1FQUJyX3BzT2lmbUV2ODFzc2R1VzAtZDQxc1ZGLUlla3d6eGV6UktuM25IQjQ5N0NYbjNuc080bnY1eWhIdzJBNldoNVhPSEkyQ3ZSRW530gHDAUFVX3lxTE95cG1LTmJrSTZEVUhPb2daLTdkTjNHRTBDTTc3ZFhfUndQQXJWMzNXc0gxTXItOUdVVXF4Wl95T05oNVBORzVZeDFwb3pBcmNYRnRjRGJ6c21nMGdkNXo4QV9RcHFfM3VSeGpIQm9qSEtFRUdpMUxjUXBUaFgzWG1PaTZNUmptQURTMzhzSjdSd0VoSU9YOEpjaUlBbEpFTHByWVNkbkZlQ1VfWHZPdVZ0NnFqalphRkNMdU51X29CZVB2QQ?oc=5
+
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
+
+- Democracy, Rule Of Law Make Us "Natural Partners": PM Modi At Nordic Summit - NDTV
+  The Indian prime minister is in Sweden for a summit of
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0syZXlnTlFPS29hTWJnWHNhTERTMGhiam9PWUtmbllxYmoyLTZsNGRZbVVOZWRwM21CTUVRUlF4QkF5NHI5OVFDLWZFU1NJaVBJMXplMHk4SWZlYzlZeE5PTHktSUdOM21uNldLMzZpcEhuZDMyRU0yeDMtaVZZdUs2WFlrOElPNVZzNndmeTNZYk5oUG95VnM5RDZ3bC1rcm9pQTFub2tHcDB2V002c0oxeW40T1A2b2VOWmFMbDNPUTIzWmfSAc4BQVVfeXFMUHNBcVVmX3lRN2hfbFZfeVVLVEl0ZzY1VEpUQWh6N0E1TjNjUEtKeGFFd3dSMjBQVDZER3g0bGlEczI1bGdET1g1SjgwOU9CTTVLUUZkTWIzUUdIRnJHT09fc2swU3dTZjBZNU1HbG0tOUhNSjFYOWFzUWtxQVA3ZEtGSG5qVjJTVnNhMzRxZ25Pb2cxby1YcFNuVnh5bzlialBZUE9KWVo2eWIxdDRHQ3loMnBBSUFVZnQ0TzB1dDBtQ3hiOXhrMThVNzBoeGc?oc=5
+
+- India, Italy set to expand cooperation across key sectors - The Hindu
+  India, Italy set to expand cooperation across
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHVEOGtONUZmWm9oVjJyYk1KeU1JMkMtWnpVM3BSakFNLXFkY2FmcTItT1NxYUpfeUVXcnNYZUZMVTRBMWdYaWVHQmdmdjRNM3JqS0dzNVdQLUdleVU0Q1FnMENTZmRqREdjZGZHQlFaSzExZ2M2enNKWVVQLTNEellvQ3A3RFBKbWJQUVVPZzRjWndyZTI0UnVSanlIcWZPOUhQRjdDejV6ZFFnQjZfX2tTc1Zidw?oc=5
+
+- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
+  Citizenship Rules Amended, These
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+
+- GNLU signs MoU to train Indian Navy officers - The Times of India
+  GNLU signs MoU to train Indian Navy
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZtckdGSUV0aWtPUWdyUHU3NWlXVkN4QWpfQkRSbVp6akdPRnRlZWhZLUtPX1pYUEhlbHpPTWJSUmVEdHlDNHFSOHgyMlF5ZVBIdjRnUXBPSzE5azcxWVBNd2hBQlhCZDV0MzJSaG1FQUJyX3BzT2lmbUV2ODFzc2R1VzAtZDQxc1ZGLUlla3d6eGV6UktuM25IQjQ5N0NYbjNuc080bnY1eWhIdzJBNldoNVhPSEkyQ3ZSRW530gHDAUFVX3lxTE95cG1LTmJrSTZEVUhPb2daLTdkTjNHRTBDTTc3ZFhfUndQQXJWMzNXc0gxTXItOUdVVXF4Wl95T05oNVBORzVZeDFwb3pBcmNYRnRjRGJ6c21nMGdkNXo4QV9RcHFfM3VSeGpIQm9qSEtFRUdpMUxjUXBUaFgzWG1PaTZNUmptQURTMzhzSjdSd0VoSU9YOEpjaUlBbEpFTHByWVNkbkZlQ1VfWHZPdVZ0NnFqalphRkNMdU51X29CZVB2QQ?oc=5
+
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
+
+- Democracy, Rule Of Law Make Us "Natural Partners": PM Modi At Nordic Summit - NDTV
+  The Indian prime minister is in Sweden for a summit of
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0syZXlnTlFPS29hTWJnWHNhTERTMGhiam9PWUtmbllxYmoyLTZsNGRZbVVOZWRwM21CTUVRUlF4QkF5NHI5OVFDLWZFU1NJaVBJMXplMHk4SWZlYzlZeE5PTHktSUdOM21uNldLMzZpcEhuZDMyRU0yeDMtaVZZdUs2WFlrOElPNVZzNndmeTNZYk5oUG95VnM5RDZ3bC1rcm9pQTFub2tHcDB2V002c0oxeW40T1A2b2VOWmFMbDNPUTIzWmfSAc4BQVVfeXFMUHNBcVVmX3lRN2hfbFZfeVVLVEl0ZzY1VEpUQWh6N0E1TjNjUEtKeGFFd3dSMjBQVDZER3g0bGlEczI1bGdET1g1SjgwOU9CTTVLUUZkTWIzUUdIRnJHT09fc2swU3dTZjBZNU1HbG0tOUhNSjFYOWFzUWtxQVA3ZEtGSG5qVjJTVnNhMzRxZ25Pb2cxby1YcFNuVnh5bzlialBZUE9KWVo2eWIxdDRHQ3loMnBBSUFVZnQ0TzB1dDBtQ3hiOXhrMThVNzBoeGc?oc=5
+
+- India, Italy set to expand cooperation across key sectors - The Hindu
+  India, Italy set to expand cooperation across
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHVEOGtONUZmWm9oVjJyYk1KeU1JMkMtWnpVM3BSakFNLXFkY2FmcTItT1NxYUpfeUVXcnNYZUZMVTRBMWdYaWVHQmdmdjRNM3JqS0dzNVdQLUdleVU0Q1FnMENTZmRqREdjZGZHQlFaSzExZ2M2enNKWVVQLTNEellvQ3A3RFBKbWJQUVVPZzRjWndyZTI0UnVSanlIcWZPOUhQRjdDejV6ZFFnQjZfX2tTc1Zidw?oc=5
+
+- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
+  Citizenship Rules Amended, These
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+
+- GNLU signs MoU to train Indian Navy officers - The Times of India
+  GNLU signs MoU to train Indian Navy
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZtckdGSUV0aWtPUWdyUHU3NWlXVkN4QWpfQkRSbVp6akdPRnRlZWhZLUtPX1pYUEhlbHpPTWJSUmVEdHlDNHFSOHgyMlF5ZVBIdjRnUXBPSzE5azcxWVBNd2hBQlhCZDV0MzJSaG1FQUJyX3BzT2lmbUV2ODFzc2R1VzAtZDQxc1ZGLUlla3d6eGV6UktuM25IQjQ5N0NYbjNuc080bnY1eWhIdzJBNldoNVhPSEkyQ3ZSRW530gHDAUFVX3lxTE95cG1LTmJrSTZEVUhPb2daLTdkTjNHRTBDTTc3ZFhfUndQQXJWMzNXc0gxTXItOUdVVXF4Wl95T05oNVBORzVZeDFwb3pBcmNYRnRjRGJ6c21nMGdkNXo4QV9RcHFfM3VSeGpIQm9qSEtFRUdpMUxjUXBUaFgzWG1PaTZNUmptQURTMzhzSjdSd0VoSU9YOEpjaUlBbEpFTHByWVNkbkZlQ1VfWHZPdVZ0NnFqalphRkNMdU51X29CZVB2QQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Highlights: India, Nordic nations agree to elevate ties to Green Technology and Innovation Strategic Partnership - The Hindu
+  India and Nordic nations agree to elevate ties to Green Technology and Innovation Strategic
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOM05IanlSRE5LRW4yd1hpQ1JXUjVEZ3FZSlRWTkVsejl0NjJHa0tsX1dDRDhEdnlQOXpoWkNHWHNmVzZvS3lCYUc5LU50Q01vaTdZR1VuSXhfTTRmbjRlU2RBajNFOWx3SFVCb0pieXp4V0Z1RV9UNEgwcWhYZ0dUMnZkUWZ6T1pYVG5MRzIwV01Tby01cnhpLTVqVThPWXFMWVh1SDh0bk1KT2lOQVY3OTZzaGxKRW5WRUNET0Vn0gHEAUFVX3lxTE5ISG1oUTU1WVU5RHIwY09sVWR2bk9WdjVUZlJvbHNCQlNWRU01WmNoRTVHNkU1VTlLUDRXXzNxRktmV1N0bTN6RHRGdlVPeGhScGJpUl93XzdOZkwtWFU5WVhpYndNTmlfenZZaHpScTNzOUpUVTlCNEJ4Z2pLNmR4SnJjSWpxVnlXV3FyY1NKSHBOVmpGTzVoWnk1MUowd3lZY0RWb2FPWVhPRjlIUVJvWUo0OU52Z0RCUmduR2tEbkM3WDg?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Google DeepMind researcher Lun Wang resigns; in a long post tells technology companies what is wrong with - The Times of India
+  Google DeepMind researcher Lun Wang resigns; in a long post tells technology companies what is
+  🔗 https://news.google.com/rss/articles/CBMiygJBVV95cUxPdG9TVWY0WE5IckUzNm11R0ZrbGszbEtFT1pjVVJRUXdlQ09KZzViXzZERmJrQnN0SXN2RmxPRENhSm00bm5OR2VZd2VYZ1VBRFR6LTNWZEJrNTJlb2haZnlTb3M5UVo2MUZ4a1JiUGVIY0l5c29LU0NvcGtIUUYwazByUW5zbVZaZjFWQ2FoeVNRZGdxSW15VnVfa3o0VlpMWU5yN21DaVBlWHFLc2t2QXVtLTVOU2VSQ2Z4SEVYanB4TGRlRmhNSDNIX0xGWTdFT25TTUc4dUlNMDhxUDUzSzBfLTFONDBrTU9SZVYwZUdSazRmemx3NmszSUVkRWpnYkdTaTZna1E0SGpxdk5ORzd6Rm5XVFFfLXA4MzYzWkxQUDZieXVvZ0NJNXNWTTdiV3BrRWdrOHp2TE1xWWR2b3ZZLU5qeUhSREHSAc8CQVVfeXFMUFUyTks5Nmpqd0dEZXJlUlV3SjdFcmtZR2Z2Vkp0dE9jZEZKOS15dmpxNEs1OVJ4VVFDajRSNEZValdUUHBYLVV3cXJlX0prby05bFJ5ZVdoLUdlRTJaRUNjM2drcnJDSnJ6SEdHdHc5ejhmVW5yOTlrLXVJd2E2bnM1UXpsZkVma29MLVJQLV94V1hCZWV2aGtKVEJCeFRWOU9neVVnRElfTUdFbVMyS3h5akExd0ZXOXlBLVdNeWV4dm9DR0Z4d1ZPbmNfZW5WVnU4R0JlVHdyS2tKUHQ5dEdMYnlyZWNBSkpwd3Z6cHhKaWRIVHUtYUNEZWtPa3NsREhJWGJDNmtPWkpLdmF4bXZ3SVNGQV9DMkJzb3NPZHZ1UXVoLWdlTzMtbXRaNHZhNlEyMXRJVGUxR01XTkZjMDg5RzloZTRsTXBjLXQ1TXc?oc=5
+
+- India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership: PM Modi - News On AIR
+  India, Nordic countries elevate relations to Green Technology & Innovation Strategic Partnership:
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxOalFGMF9RVE8xNjBzVjhxcUtUUzZneWlJUWk1OHdsTFNNY0hUVi1zd01lR0tBcjVTN09VbkRiVlpsalF2THJHaGFWcGU1YzhMS2xVdFZKMk1RSl9rUFFycVB0VHR2RFg4dkg1amVneVc1Rmc3Q2o2LW1ld3VGam5ubHZMTnM3VFNubHNHMjZ2OWFuSXlYa29v?oc=5
+
+- Here’s why Elon Musk lost his suit against OpenAI - MIT Technology Review
+  MIT Technology Review: Elon Musk's lawsuit against
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVRDYVVTS0thY0lTMXpFZXd3YWNyNGREazczZW5WbmIzVGFDUFkyLU5PbzI1a3ZLV0ZuSkh1c3ltalBSUEk5R1h5NW1aSk5YbmlLaks4eS03dmpibkRTeW5zVDM0UElsSTcxdlo4TWNjUDF3Q2hUN3FDM0pXbUVnWjY2VVBIX3MxVVHSAY8BQVVfeXFMTlZhOURMMUFKY3BTSGlLUFI1ZGRZY3pfb0EwcDZXQ1FXTURxaURaeExEYll0RnRPZjkwbXBXMFc2cG50b1VLRkdLNVp2SnRpTEp4aTVtZUI4OUZyNV9tZXFPU0IwUnY5OVdiV0RsVnhpOF9HS1ZuSTV2Nk9xOW5yR3hhMFFFSFozRmdFSDB1cVU?oc=5
+
+- China hails latest breakthrough on space solar power technology - South China Morning Post
+  China hails latest breakthrough on space solar power technology
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2hqYnRhNU9DTnFwdlg0U1FmZVZZZ2FnRnBqNnBBUXNaR2tiaTRLRVFDdXJYRUdpVjVReXhiS0Z5ak9LNXVVSGdzbmFOLUNfbFdJMG1fNnlzRGs0S0JoMjdTUDY2dzBHWW5MbGJMWGFLc0xISUFkems2LXZORU9fdHpIY2lrM29XNlF4SW9WOF81WnBkdWkxWWI1VUJ2bFdybHVrbUVYTFotTHpkWGxWeXVidTNPajjSAbcBQVVfeXFMUHJSM2F6R05NX1lwLW9qcTVETXlFYXFxZUpLUDNoUU9pWkNvSTdrRzBZNlFkYVhtUi01NUZ2bUsxeS0ta01QMGRQUWlwdklpU0d6NDFuRmU3NGhKNEZmQ25jOFRpYkpmaktDTVBMQTNrcWdHUXoyT0VKWXRkV25xWndXR2s2V2JwSXdOVEQxWGZRMWlDM1puUXRhdlhIZzlUQ2ttVDdkOFNlSlUyMHF4S1Y0Tk1rdUFB?oc=5
 
 
-_Last updated: 2026-05-19 14:52:06 UTC_
+_Last updated: 2026-05-19 19:50:07 UTC_
