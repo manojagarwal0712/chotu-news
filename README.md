@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Red alerts and 45°C highs: India braces for severe heatwave as Health Ministry issues survival guide
+  
+  🔗 https://indianexpress.com/article/india/imd-health-ministry-health-advisory-heatwave-india-10699029/
+
+- Twisha’s body could start decomposing, cops tell family amid call for second autopsy
+  
+  🔗 https://indianexpress.com/article/india/twisha-body-decomposing-aiims-bhopal-facility-police-family-10699197/
+
+- Twisha Sharma death: Probe suggests suicide, no objection to 2nd autopsy, says top cop
+  
+  🔗 https://indianexpress.com/article/india/twisha-sharma-death-suicide-not-murder-bhopal-police-commissioner-probe-scrutiny-10698844/
+
 - Scattered books on roadside, ransom call from Kerala: 6-year search for teen puts spotlight back on Bokaro police
   
   🔗 https://indianexpress.com/article/india/scattered-books-on-roadside-ransom-call-from-kerala-6-year-search-for-teen-puts-spotlight-back-on-bokaro-police-10698417/
@@ -8,197 +20,165 @@
   
   🔗 https://indianexpress.com/article/india/my-son-should-have-been-made-minister-behind-anand-mohan-singhs-explosive-claims-against-jdu-10698379/
 
-- CBI arrests Colonel in bribery case
+- Discord voice and video calls are now end-to-end encrypted by default
   
-  🔗 https://indianexpress.com/article/india/cbi-arrests-colonel-in-bribery-case-10698582/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/discord-voice-and-video-calls-are-now-end-to-end-encrypted-by-default-10699225/
 
-- Chhattisgarh: The gruelling 5-hour trek to bring a school to a remote village deep inside former Maoist HQ
+- Microsoft’s unveils new Surface laptops aimed at business and AI workflows
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-the-gruelling-5-hour-trek-to-bring-a-school-to-a-remote-village-deep-inside-former-maoist-hq-10698416/
+  🔗 https://indianexpress.com/article/technology/gadgets/microsofts-unveils-new-surface-laptops-aimed-at-business-and-ai-workflows-10699163/
 
-- Chile’s Foreign Minister: ‘India should have important role in being a great partner (of Chile) — in services, tech’
+- Sony unveils ‘1000X THE COLLEXION’ headphones to mark 10 years of its iconic lineup
   
-  🔗 https://indianexpress.com/article/india/chiles-foreign-minister-india-should-have-important-role-in-being-a-great-partner-of-chile-in-services-tech-10698479/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-unveils-1000x-the-collexion-headphones-to-mark-10-years-of-its-iconic-lineup-10699141/
 
-- Google I/O 2026: From AI agents to smart glasses, here are the biggest announcements
+- Meta layoffs begin with 4 am termination emails: Here’s what’s happening
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-i-o-2026-gemini-biggest-annoucements-10698450/
+  🔗 https://indianexpress.com/article/technology/meta-layoffs-begin-with-4-am-termination-emails-10698943/
 
-- Nasa’s new Mars orbiter sparks questions over a $700 million competition
+- ‘As vital as energy and defence’: Countries rushing to build AI infrastructure, says Michael Dell
   
-  🔗 https://indianexpress.com/article/technology/science/nasas-new-mars-orbiter-sparks-questions-over-a-700-million-competition-10698217/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/as-vital-as-energy-and-defence-countries-rushing-to-build-ai-infrastructure-says-michael-dell-10698925/
 
-- Apple unveils new AI-assisted accessibility features ahead of WWDC 2026
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-new-ai-assisted-accessibility-features-ahead-of-wwdc-2026-10698215/
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
 
-- Radioactive stardust from ancient supernovae found trapped in Antarctic ice: Study
-  
-  🔗 https://indianexpress.com/article/technology/science/supernova-stardust-iron-60-discovered-antarctic-ice-local-interstellar-cloud-10698046/
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- Whey protein plus resistance training may best fight muscle loss after 50, says new study
-  
-  🔗 https://indianexpress.com/article/technology/science/whey-protein-plus-resistance-training-may-best-fight-muscle-loss-after-50-says-new-study-10696862/
+- India’s digital economy may contribute 20% to GDP by 2030: NCIIPC DG - News On AIR
+  India’s digital economy may contribute 20% to GDP
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEFWSHBlMEV3dmVvT0daRzRzRU9EUUpUNTBZc1QzaDhHS01OaERLUmFCZzFFNGVuWGVraDRZbzdLUk5vUzNoWG55WUNSenRTYWVmbHpLSXBwSVgzY19HR2t1dmpwUG40Qm14OVNhckpVLTh5VzVNeTF4ek5OQktUcDdjNTFpamRFb1cwRzltUElKSzg4Mk9lNHNhOA?oc=5
 
-- Golf-LIV Golf focused on long-term funding solution amid reports of potential bankruptcy plan
-  Golf-LIV focused on long
-  🔗 https://www.livemint.com/companies/golfliv-golf-focused-on-long-term-funding-solution-amid-reports-of-potential-bankruptcy-plan-11779237470797.html
+- India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius mark | India News - Hindustan Times
+  India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGEzbm5zTTRELXkwVVlFbnR2UkZrYUlEUkZkR1BLajJKdzNxYTlBYTlwSHlrUUxSY3h2UnZrNmZ1bTRKYXJDVDlFbTR3cHByT3N4eUJxXzVoNk43SFpEYUFfa2gyZGgtMDJQcTdrUnFTQ005SmhES2k5b3BfS2kza0w1ZzRRd2otQVZFa1U3OGg3LV8ycXk1UXAyTEZ0Rm1ueG9ZSUJDMzJQVXBZbkpBTE55bGVaMkJYWVBWZ3ZvckJtemhKQ2d5YkJtQTZ3bDdCa0ZBMEJIaVhIdXliZHlDaEpZVGNsUdIB6wFBVV95cUxOdWhkQ0ljYVVzby1tYjltcHFPMk9hZWZjRE51ZGxNWDJENGxNbTF3azZwMDhxYVhHamloRXN6c0lmM2h0a19CSVFFSGc4WEVvWU4xcnNuZ2huVU1lTkRGb3pJWGpSbXdxMU1hNjdHT052UnIybjFxWTNSRUNtTjhRd0JHRnhTbVBQc3hxTURmc0dCWUstS0pVSzRmbzEzNkpJVlEzQTZ3ZFNGTEFvX3hHWVNvRDhnN0pWRVlSN01DdkhNZFpNdUlOU1d3cFp3WDB5OW5leldENWpEOEZIWkNwZlJkM2YtN0sweHRr?oc=5
 
-- Muthoot FinCorp is trying to sell a fintech story without behaving like a fintech
-  Muthoot FinCorp has approved a  ₹4,000 crore IPO as it repositions itself from a gold-loan lender into a financial services company. The pitch
-  🔗 https://www.livemint.com/companies/muthoot-fincorp-ipo-rs-4000-crore-digital-lending-push-11779103290876.html
+- PM Modi, Meloni in Rome: Car ride, dinner and Colosseum visit ahead of talks - The Times of India
+  The Times of India reports that PM Modi will visit the Colosseum
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHNBUHZET1IyYk1razNXQXNTTUdrMUY4RDhYMEVVRnZxa2ZUdllhYUUwd19PbWR4c09uY2VUTWRBVk9rZVI4S05KN3FMajNHNER4YWNfNkduckV2WWpNZ3NoODRPMTJ0MjNlNFI0aTEwUXloSDJJQ21jWUxpRnBMNWdqa0NPOXJKbms5ZjRndDQ1VFg0TzAtMXowQnpKZnp2ZzJnSnMzVFVZVzdNejFGOWlWRmd3bGdSdVF2VG9OVm9pRXFNVDY3dGNGTTlhOWhSV2twQkVNNnDSAd4BQVVfeXFMTlVfVFp4bDRrMXhnVlBIUkZoY05pRl9tTzhrSXpSNUlzdXJKdDNiS3JsU2xTa3I0LTBTbzRVQXVjODE0QXdiR1U3X1UxMzZUOFZlOWdpXzVTeURPLTRRRXB6UzBfUllKLUVvXzU2LUxSVXdhMTZsT01faDA5LS1BQzRKbkhyMk9OMVp0akhxR2dIQTZYNERZYWlkZm84bElESnR5RjUwTUF4TXBYR19BZlVyN1pMYjFhb2xwTkxnSWFjcHhBOGJZYlZsdWJLSTRrN3BKM05DTVRkQms0bEVB?oc=5
 
-- Oil India to ramp up exploration capex to  ₹10,000 cr, boost output in FY27: CMD
-  OIL is India’s second-largest exploration and production company after Oil and Natural Gas Corporation. OIL operates about
-  🔗 https://www.livemint.com/companies/oil-india-capex-exploration-west-asia-war-11779174944730.html
+- Indian 10-year bond yield tops 7.1%: Equity impact and debt market strategy explained
+  The narrowing yield differential between US Treasuries and Indian bonds may also prompt a rotation of
+  🔗 https://www.livemint.com/market/bonds/indian-10-year-bond-yield-tops-7-1-equity-impact-and-debt-market-strategy-explained-11779265512676.html
 
-- Canadian miner Sherritt International stops plan to dissolve Cuban joint venture
-  Canadian miner Sherritt International
-  🔗 https://www.livemint.com/companies/canadian-miner-sherritt-international-stops-plan-to-dissolve-cuban-joint-venture-11779216323041.html
+- Can WFH adoption upset the apple cart for office leasing by Reits?
+   occupancy levels for key real estate investment trusts exceeded 90% in FY26. However, geopolitical tensions and a potential shift back to remote work could hinder leasing activity.
+  🔗 https://www.livemint.com/market/mark-to-market/wfh-adoption-reits-office-leasing-office-space-tenants-committed-occupancy-embassy-mindspace-brookfield-west-asia-war-11779261308397.html
 
-- Boaz Weinstein’s Hedge Fund Takes Aim at Impax’s ‘Terrible’ Run
-  Boaz Weinstein’s hedge fund, Saba Capital Management, takes on one of the most high-profile environmental investment trusts
-  🔗 https://www.livemint.com/companies/boaz-weinstein-s-hedge-fund-takes-aim-at-impax-s-terrible-run-11779215706436.html
+- Vegorama Punjabi Angithi IPO Day 1: Issue booked 76% so far. Check GMP, subscription, key details
+  The Vegorama Punjabi Angithi IPO opened on May 20. The company aims to raise approximately  ₹38.38 crore to expand its
+  🔗 https://www.livemint.com/market/stock-market-news/vegorama-punjabi-angithi-ipo-gmp-vegorama-punjabi-angithi-ipo-subscription-status-vegorama-punjabi-angithi-ipo-details-11779264325181.html
 
-- US-Iran conflict raises inflation risks: How it could impact your daily expenses, EMIs, investments
-  In April 2026, Consumer Price Index (CPI)-based inflation stood at 3.48%- a 13-month high. The ongoing US
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-conflict-raises-inflation-risks-how-it-could-impact-your-daily-expenses-emis-investments-11779191733434.html
+- Vodafone Idea share price surges 43% in 1 month: Should you buy, sell or hold the telecom stock?
+  Vodafone Idea's stock has surged recently, with a 52-week high of  ₹13.68. Analysts see potential for
+  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-surges-43-in-1-month-should-you-buy-sell-or-hold-the-telecom-stock-11779262491398.html
 
-- Stocks to watch: Lenskart, BPCL, Hindalco among 10 shares in focus today; check list here
-  The Indian stock market is likely to continue its losing streak as trends in the Gift Nifty index signalled a negative opening on Wednesday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-lenskart-bpcl-hindalco-among-10-shares-in-focus-today-check-list-here-11779240127717.html
+- Indraprastha Gas’ volumes rise, but can margins survive the squeeze?
+  IGL’s Q4 volumes rose 6%, aided by CNG and PNG growth. But higher gas costs and
+  🔗 https://www.livemint.com/market/mark-to-market/indraprastha-gas-igl-q4fy26-city-gas-distribution-cng-demand-png-growth-ebitda-margin-gas-procurement-cost-11779258560646.html
 
-- Buy or sell: Gift Nifty down, Vaishali Parekh recommends three stocks to buy today — 20 May 2026
-   Vaishali Parekh recommends three stocks to buy today. KPIT Technologies, As
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-down-vaishali-parekh-recommends-three-stocks-to-buy-today-20-may-2026-11779240674507.html
+- AI boom: Global stock market order shuffles as Taiwan, South Korea overtake Western giants
+  South Korea's Kospi and Taiwan's stock market have surged. These markets are now outperforming many Western exchanges. Investors are watching closely as capital shifts towards these AI-focused economies.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-global-stock-market-order-shuffles-as-taiwan-south-korea-overtake-western-giants/articleshow/131221467.cms
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 20 May
-  The BSE Sensex declined by 114 points, while the NSE Nifty 50 slipped by 32 points. Investors are advised to buy stocks like Gujarat State Fertilizers and Varun Beverages.
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-20-may-11779241346963.html
+- JPMorgan picks Vedanta, Polycab among 30 stocks across 5 sectors; check full list
+  Most Nifty companies exceeded Q4 expectations, but FY27 earnings may face pressure from rising input
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-picks-vedanta-polycab-among-30-stocks-across-5-sectors-check-full-list/slideshow/131221331.cms
 
-- Asian markets today: Nikkei 225, Kospi fall on rising bond yields, renewed US-Iran war fears
-  Japan’s Nikkei 225 slipped 0.88%, while the TOPIX fell 0
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-fall-on-rising-bond-yields-renewed-us-iran-war-fears-11779240614827.html
+- Laurence Balanco flags 5% downside risk for Nifty amid global yield surge
+  Global financial markets are experiencing a risk-off shift driven by rising sovereign bond yields. Market strategist Laurence Balanco notes that bond yields, not oil, are now the primary risk signal.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/laurence-balanco-flags-5-downside-risk-for-nifty-amid-global-yield-surge/articleshow/131220694.cms
 
-- Google wants Gemini to work while you sleep: Check biggest new features announced at I/O 2026
-  Google unveiled Gemini Spark, Daily Brief and other agentic AI powered updates for Gemini at I/O 20
-  🔗 https://www.livemint.com/technology/tech-news/google-wants-gemini-to-work-while-you-sleep-check-biggest-new-features-announced-at-i-o-2026-11779220097266.html
+- Rupee under pressure; crude oil, bond yields and dollar strength create perfect storm: Naveen Mathur
+  The Indian rupee is facing intense pressure due to rising crude oil prices, a strengthening dollar, and widening deficits. The Reserve Bank of India has actively intervened, depleting foreign exchange reserves to manage volatility rather than defend a specific
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/rupee-under-pressure-crude-oil-bond-yields-and-dollar-strength-create-perfect-storm-naveen-mathur/articleshow/131220464.cms
 
-- Everything Google announced at I/O 2026, including Gemini Omni, new Spark AI agent and Gemini 3.5 Flash
-  Google unveils Gemini 3.5 Flash model, Gemini Omni world model, and Antigravity 2.0 coding assistant.
-  🔗 https://www.livemint.com/technology/tech-news/everything-google-announced-at-i-o-2026-including-gemini-omni-new-spark-ai-agent-and-gemini-3-5-flash-11779216646560.html
+- Nvidia to announce Q1 earnings tonight. What to expect and why there could be a $350 billion price swing
+  All eyes are on Nvidia’s April quarter earnings as investors assess whether the AI chip giant can sustain its explosive growth momentum. Strong AI spending by Big Tech firms is expected to support another robust quarter.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-to-announce-q1-earnings-tonight-what-to-expect-and-why-there-could-be-a-350-billion-price-swing/articleshow/131220273.cms
 
-- Meta offers AI rival chatbots limited free WhatsApp access, sources say
-  Meta offers AI rival chatbots limited free
-  🔗 https://www.livemint.com/technology/meta-offers-ai-rival-chatbots-limited-free-whatsapp-access-sources-say-11779218159833.html
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
 
-- Google Search enters ‘agentic era’ with Gemini 3.5 Flash: 24/7 agents, and custom mini-apps announced
-  Google revamps Search with Gemini 3.5. The company is introducing a new redesigned search box. It is also introducing autonomous search agents.
-  🔗 https://www.livemint.com/technology/tech-news/google-search-enters-agentic-era-with-gemini-3-5-flash-24-7-agents-and-custom-mini-apps-announced-i-o-2026-11779213420897.html
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- Google I/O 2026: Google reveals Gemini Omni, Gemini 3.5 Flash with faster AI performance
-  Google DeepMind CEO Demis Hassabis unveiled the Gemini Omni model at I/O 20
-  🔗 https://www.livemint.com/technology/tech-news/google-i-o-2026-google-reveals-gemini-omni-gemini-3-5-flash-with-faster-ai-performance-11779211490497.html
+- India’s digital economy may contribute 20% to GDP by 2030: NCIIPC DG - News On AIR
+  India’s digital economy may contribute 20% to GDP
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEFWSHBlMEV3dmVvT0daRzRzRU9EUUpUNTBZc1QzaDhHS01OaERLUmFCZzFFNGVuWGVraDRZbzdLUk5vUzNoWG55WUNSenRTYWVmbHpLSXBwSVgzY19HR2t1dmpwUG40Qm14OVNhckpVLTh5VzVNeTF4ek5OQktUcDdjNTFpamRFb1cwRzltUElKSzg4Mk9lNHNhOA?oc=5
 
-- Stocks to buy in 2026 for long term: NHPC, Bajaj Finance among 5 stocks that could give 20-30% return
-  We have collated a list of recommendations from top brokerage
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-nhpc-bajaj-finance-among-5-stocks-that-could-give-20-30-return/slideshow/131214627.cms
+- India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius mark | India News - Hindustan Times
+  India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGEzbm5zTTRELXkwVVlFbnR2UkZrYUlEUkZkR1BLajJKdzNxYTlBYTlwSHlrUUxSY3h2UnZrNmZ1bTRKYXJDVDlFbTR3cHByT3N4eUJxXzVoNk43SFpEYUFfa2gyZGgtMDJQcTdrUnFTQ005SmhES2k5b3BfS2kza0w1ZzRRd2otQVZFa1U3OGg3LV8ycXk1UXAyTEZ0Rm1ueG9ZSUJDMzJQVXBZbkpBTE55bGVaMkJYWVBWZ3ZvckJtemhKQ2d5YkJtQTZ3bDdCa0ZBMEJIaVhIdXliZHlDaEpZVGNsUdIB6wFBVV95cUxOdWhkQ0ljYVVzby1tYjltcHFPMk9hZWZjRE51ZGxNWDJENGxNbTF3azZwMDhxYVhHamloRXN6c0lmM2h0a19CSVFFSGc4WEVvWU4xcnNuZ2huVU1lTkRGb3pJWGpSbXdxMU1hNjdHT052UnIybjFxWTNSRUNtTjhRd0JHRnhTbVBQc3hxTURmc0dCWUstS0pVSzRmbzEzNkpJVlEzQTZ3ZFNGTEFvX3hHWVNvRDhnN0pWRVlSN01DdkhNZFpNdUlOU1d3cFp3WDB5OW5leldENWpEOEZIWkNwZlJkM2YtN0sweHRr?oc=5
 
-- Harikanta Overseas IPO: Check GMP, price band, subscription, other details
-  Harikanta Overseas' SME IPO opens Wednesday, aiming to raise Rs 25.63 crore. Funds will bolster working capital and general corporate needs as the textile fabric manufacturer expands.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/harikanta-overseas-ipo-check-gmp-price-band-subscription-other-details/articleshow/131214582.cms
+- PM Modi, Meloni in Rome: Car ride, dinner and Colosseum visit ahead of talks - The Times of India
+  The Times of India reports that PM Modi will visit the Colosseum
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHNBUHZET1IyYk1razNXQXNTTUdrMUY4RDhYMEVVRnZxa2ZUdllhYUUwd19PbWR4c09uY2VUTWRBVk9rZVI4S05KN3FMajNHNER4YWNfNkduckV2WWpNZ3NoODRPMTJ0MjNlNFI0aTEwUXloSDJJQ21jWUxpRnBMNWdqa0NPOXJKbms5ZjRndDQ1VFg0TzAtMXowQnpKZnp2ZzJnSnMzVFVZVzdNejFGOWlWRmd3bGdSdVF2VG9OVm9pRXFNVDY3dGNGTTlhOWhSV2twQkVNNnDSAd4BQVVfeXFMTlVfVFp4bDRrMXhnVlBIUkZoY05pRl9tTzhrSXpSNUlzdXJKdDNiS3JsU2xTa3I0LTBTbzRVQXVjODE0QXdiR1U3X1UxMzZUOFZlOWdpXzVTeURPLTRRRXB6UzBfUllKLUVvXzU2LUxSVXdhMTZsT01faDA5LS1BQzRKbkhyMk9OMVp0akhxR2dIQTZYNERZYWlkZm84bElESnR5RjUwTUF4TXBYR19BZlVyN1pMYjFhb2xwTkxnSWFjcHhBOGJZYlZsdWJLSTRrN3BKM05DTVRkQms0bEVB?oc=5
 
-- Vegorama Punjabi IPO: Check GMP, subscription, price band and other details
-  Vegorama Punjabi Angithi's SME IPO opens Wednesday. The company aims to raise Rs 38.38 crore to fund expansion. The issue is priced between Rs 73-77 per share.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/vegorama-punjabi-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131214526.cms
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
 
-- Oil Price Today (May 20): Crude oil dips for second day as Trump says Iran war could end ‘very quickly’. Is the worst behind?
-  Oil prices dipped for a second day as President Trump suggested a swift end to the Iran conflict. Experts warn prices will remain elevated due to potential renewed strikes and slow supply recovery.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-20-crude-oil-dips-for-second-day-as-trump-says-iran-war-could-end-very-quickly-is-the-worst-behind/articleshow/131214495.cms
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- Positive Breakout: These 10 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/131214425.cms
+- India’s digital economy may contribute 20% to GDP by 2030: NCIIPC DG - News On AIR
+  India’s digital economy may contribute 20% to GDP
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEFWSHBlMEV3dmVvT0daRzRzRU9EUUpUNTBZc1QzaDhHS01OaERLUmFCZzFFNGVuWGVraDRZbzdLUk5vUzNoWG55WUNSenRTYWVmbHpLSXBwSVgzY19HR2t1dmpwUG40Qm14OVNhckpVLTh5VzVNeTF4ek5OQktUcDdjNTFpamRFb1cwRzltUElKSzg4Mk9lNHNhOA?oc=5
 
-- Who is Sibi George? The Indian diplomat going viral for taking on Norway press | India News - Hindustan Times
-  Who is Sibi George? The Indian diplomat going viral for taking on Norway press
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGdqQjkzTU80WnBETUNvOFlzYjY4M1JXVkRqVENpajZ5d2hpWGVjNFd5ei16bWlwOXAzalVjdWUwM0ZtVXY0ZW91cldxVFdTeFREMGxOWGp2a29zVDJCLXZZWnN2cEJZODlhQzVVOWItQXpST3ZKaXprdkIyRWp2UGlrbWxuQi1nQmxuVTR5ZURtVEhIQW93YW5qQlpVVjFCQ3VDSXh2MFJ3ajJuV196Wkx0WnZCbXVfVlVrd1RsdmFYWDZjZkFyWFlxWVdxa2E3dE1mQkxzVmVxVmZwc1FTLWdlUVV3Z9IB6wFBVV95cUxPQTNqVk91Vm9XNzhtemt5ZFJWXzllMGxQVXZpLUZ5NkhIdldRWmlXT3h6eGNWZGFSdElGcGtZOHlrQld2TGh5QlRFanYzVGN0TTlmY213djdrQ0pSRVV5Y1Zwa1hQQWtqS0NPbU9zUXZiVnBhUHlwSFlVaDBXR0FKdGVDYnZmM3pNR3ZTWFRYVF90b216R2Npd3RUYlU3bkpoRzlCc29vWDZRRWZGNUVGamVITndHTXV3UEJFSVBaaDB6dVN5ZGkycG5aTFZoaGZDODJCODIwaU93aWtkZlZoa2YtU3VjZHBxRGR3?oc=5
+- India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius mark | India News - Hindustan Times
+  India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGEzbm5zTTRELXkwVVlFbnR2UkZrYUlEUkZkR1BLajJKdzNxYTlBYTlwSHlrUUxSY3h2UnZrNmZ1bTRKYXJDVDlFbTR3cHByT3N4eUJxXzVoNk43SFpEYUFfa2gyZGgtMDJQcTdrUnFTQ005SmhES2k5b3BfS2kza0w1ZzRRd2otQVZFa1U3OGg3LV8ycXk1UXAyTEZ0Rm1ueG9ZSUJDMzJQVXBZbkpBTE55bGVaMkJYWVBWZ3ZvckJtemhKQ2d5YkJtQTZ3bDdCa0ZBMEJIaVhIdXliZHlDaEpZVGNsUdIB6wFBVV95cUxOdWhkQ0ljYVVzby1tYjltcHFPMk9hZWZjRE51ZGxNWDJENGxNbTF3azZwMDhxYVhHamloRXN6c0lmM2h0a19CSVFFSGc4WEVvWU4xcnNuZ2huVU1lTkRGb3pJWGpSbXdxMU1hNjdHT052UnIybjFxWTNSRUNtTjhRd0JHRnhTbVBQc3hxTURmc0dCWUstS0pVSzRmbzEzNkpJVlEzQTZ3ZFNGTEFvX3hHWVNvRDhnN0pWRVlSN01DdkhNZFpNdUlOU1d3cFp3WDB5OW5leldENWpEOEZIWkNwZlJkM2YtN0sweHRr?oc=5
 
-- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
-  Citizenship Rules Amended, These
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+- PM Modi, Meloni in Rome: Car ride, dinner and Colosseum visit ahead of talks - The Times of India
+  The Times of India reports that PM Modi will visit the Colosseum
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHNBUHZET1IyYk1razNXQXNTTUdrMUY4RDhYMEVVRnZxa2ZUdllhYUUwd19PbWR4c09uY2VUTWRBVk9rZVI4S05KN3FMajNHNER4YWNfNkduckV2WWpNZ3NoODRPMTJ0MjNlNFI0aTEwUXloSDJJQ21jWUxpRnBMNWdqa0NPOXJKbms5ZjRndDQ1VFg0TzAtMXowQnpKZnp2ZzJnSnMzVFVZVzdNejFGOWlWRmd3bGdSdVF2VG9OVm9pRXFNVDY3dGNGTTlhOWhSV2twQkVNNnDSAd4BQVVfeXFMTlVfVFp4bDRrMXhnVlBIUkZoY05pRl9tTzhrSXpSNUlzdXJKdDNiS3JsU2xTa3I0LTBTbzRVQXVjODE0QXdiR1U3X1UxMzZUOFZlOWdpXzVTeURPLTRRRXB6UzBfUllKLUVvXzU2LUxSVXdhMTZsT01faDA5LS1BQzRKbkhyMk9OMVp0akhxR2dIQTZYNERZYWlkZm84bElESnR5RjUwTUF4TXBYR19BZlVyN1pMYjFhb2xwTkxnSWFjcHhBOGJZYlZsdWJLSTRrN3BKM05DTVRkQms0bEVB?oc=5
 
-- Official Found Dead At Indian Mission In Bangladesh, Autopsy Awaited - NDTV
-  Official found dead at Indian Mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGpnZGpKeE5tZl9LRlhCWG5pVzVLYzBQeV9HZDZsR0thUDZtWC15cjZOWU5DREo3aGxWUFc4bHFLaWhwTDFGVmZRbnNSOFBWOFpjTkRBOFZIZkJOS2phSTktY184Z0RJMjBJdXZ0STVBcXVXZk1OZjNWYTQ3NGJqYllZM2FXMFY4eGZvaEIyZUxVeDhOMkx3dDUzYWNiSGkwQUN0YWVNamRNVFBraF9jRjZfLTV3S2cwYkkwbE9ETnhqM2pNbzctNHp4aGtDeldkNUZz0gHbAUFVX3lxTE5xM09ORFgxMVFjTF9aMENyb3VKbWRBZ3lsWG9YOXNUVVBfb3VVY0Z1UW8xR2dDTFZ3WFhoSDNXdEhzUVBTYThTbTFBYmpJOGdlWkJnb2ltcndSUE5LNEU3QnJIdHZ5QXVBcXFpNEprT0RiN1c2ckZBVURyZk1oamFlbS1mbzNHWlVINjJ0SzNnUU5HVVByaktoaTl3b3FsTHNkMERYQkxlaXJfX1B0VU1SRjQ1d0ZyWDBBZHBXUHdRemF6SUU1MlRYR2pTSFQ0TGlGYTI3R3BKZ1RlQQ?oc=5
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
 
-- Indian diplomat found dead inside mission in Bangladesh's Chattogram - The Hindu
-  Indian diplomat found dead inside mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDlrak1zb2ozaE9xWWdPOEQ2Zm1vVDV4eEM2WlNSOHpsV19rbG5Zck93NkF3T2xfSWtHdTBOaGN6WkFBS3lSRDZobjRRQ1RORFp1MW5WQ3c4MHRINGM4QktQSjg4M2RPLVpiRDNDcUN1UmIyVWdsUktvN2Rjek9pUjJCamtyczdyYTVEWHpYVVhZMEtVLWRHQ3FPRWxYS2VWTzlQbXBPTFpKSnB2ZWNLUTgxMzBZV1VUVWpWa2RzOXpyQXFSdzA1WTJoMNIB0gFBVV95cUxQdGxxVUlsVERnUW5NS3VKWE1XU29uQWEwb1pZMWJJeVdxcDVCLWREeFhpS1BLOXRZWXhoTkRzT0JkbVZCbWQtRGQ0Wm91T2pfNUdCQ2g4OEdaM3Z1NXFWcDl6WENHOW5lZk51YjdUTHVlMFgwMGpjbkxocGdWQ0FGejNNMXVwRW9aNWpzRFZrVnZnOEwxR3NXbnF1VHRuTlBEdE01T3JEa3hhOFZEcWVJS1d6Wjkxc0c3a3YxOXZicl9yTExwUzJRN3B1Uy0td1lHbmc?oc=5
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh: Re - The Times of India
-  Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmhudm5wU0p4ZU1JNjN5S1g3VWVON1doZ2xkUEJxQVRUcUg4dzlkNnFXd0t6a3NRUHJaVUYwYzlzVHRmWEl2SEp2T0VwN3RTbER6YlRZaUktWW1GdVoxNnVEMUZjNENXVXRtWG13X09PYkl1X1dwN2NlYWFnSWVGLW1EaWtHckJ0QktER3Q0SHZ0eUtmUWNMR1lHWXVqam1tTXFfQWVoVUo3RnktUGVsbWxuN09HNG1tLVZucWdDZm5PaG00V3QxVWVLdTF3ZXdtaGJYRVJ4aG1IeWh1NGFUek1rQUxxNEhMc05QZVk4STE3akJfVUpjQ0lUSVdJY1FJbTNFcmRuanbSAY4CQVVfeXFMUC1vSnl0RUtfVy14LWg3a01DbTU2T2dVbDRZanlKV1lnck84am11dDljTHQxM2YxdXkwMHZJNXhveG8yeUx4RExJN2dVcExRMjlsT2g1Ukt1TDBtd2h5ZkxfVDJvOXBGNndZTDFrM2JDNW5WVlc0NTBhNVA2M1BnbUlld29NcmV6ck1ZNkowc1h1bWFpOWxrdUkxTnRTS3JkNHRoRFRVQ2NCb2x2VHRvUXRXQXNiRDNjbEdXUlBzMTh3eVhjYXk2djYyeXdyV3FFTXhtaEE0ZjRCVnJYZlRQR2hvTGZNdUtyWjlXTzQwTHNvQlVFbjNlRHRSZzJnRTM4Uy1XeW4waUFodXZlaWJ3?oc=5
+- India’s digital economy may contribute 20% to GDP by 2030: NCIIPC DG - News On AIR
+  India’s digital economy may contribute 20% to GDP
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEFWSHBlMEV3dmVvT0daRzRzRU9EUUpUNTBZc1QzaDhHS01OaERLUmFCZzFFNGVuWGVraDRZbzdLUk5vUzNoWG55WUNSenRTYWVmbHpLSXBwSVgzY19HR2t1dmpwUG40Qm14OVNhckpVLTh5VzVNeTF4ek5OQktUcDdjNTFpamRFb1cwRzltUElKSzg4Mk9lNHNhOA?oc=5
 
-- Who is Sibi George? The Indian diplomat going viral for taking on Norway press | India News - Hindustan Times
-  Who is Sibi George? The Indian diplomat going viral for taking on Norway press
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGdqQjkzTU80WnBETUNvOFlzYjY4M1JXVkRqVENpajZ5d2hpWGVjNFd5ei16bWlwOXAzalVjdWUwM0ZtVXY0ZW91cldxVFdTeFREMGxOWGp2a29zVDJCLXZZWnN2cEJZODlhQzVVOWItQXpST3ZKaXprdkIyRWp2UGlrbWxuQi1nQmxuVTR5ZURtVEhIQW93YW5qQlpVVjFCQ3VDSXh2MFJ3ajJuV196Wkx0WnZCbXVfVlVrd1RsdmFYWDZjZkFyWFlxWVdxa2E3dE1mQkxzVmVxVmZwc1FTLWdlUVV3Z9IB6wFBVV95cUxPQTNqVk91Vm9XNzhtemt5ZFJWXzllMGxQVXZpLUZ5NkhIdldRWmlXT3h6eGNWZGFSdElGcGtZOHlrQld2TGh5QlRFanYzVGN0TTlmY213djdrQ0pSRVV5Y1Zwa1hQQWtqS0NPbU9zUXZiVnBhUHlwSFlVaDBXR0FKdGVDYnZmM3pNR3ZTWFRYVF90b216R2Npd3RUYlU3bkpoRzlCc29vWDZRRWZGNUVGamVITndHTXV3UEJFSVBaaDB6dVN5ZGkycG5aTFZoaGZDODJCODIwaU93aWtkZlZoa2YtU3VjZHBxRGR3?oc=5
+- India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius mark | India News - Hindustan Times
+  India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGEzbm5zTTRELXkwVVlFbnR2UkZrYUlEUkZkR1BLajJKdzNxYTlBYTlwSHlrUUxSY3h2UnZrNmZ1bTRKYXJDVDlFbTR3cHByT3N4eUJxXzVoNk43SFpEYUFfa2gyZGgtMDJQcTdrUnFTQ005SmhES2k5b3BfS2kza0w1ZzRRd2otQVZFa1U3OGg3LV8ycXk1UXAyTEZ0Rm1ueG9ZSUJDMzJQVXBZbkpBTE55bGVaMkJYWVBWZ3ZvckJtemhKQ2d5YkJtQTZ3bDdCa0ZBMEJIaVhIdXliZHlDaEpZVGNsUdIB6wFBVV95cUxOdWhkQ0ljYVVzby1tYjltcHFPMk9hZWZjRE51ZGxNWDJENGxNbTF3azZwMDhxYVhHamloRXN6c0lmM2h0a19CSVFFSGc4WEVvWU4xcnNuZ2huVU1lTkRGb3pJWGpSbXdxMU1hNjdHT052UnIybjFxWTNSRUNtTjhRd0JHRnhTbVBQc3hxTURmc0dCWUstS0pVSzRmbzEzNkpJVlEzQTZ3ZFNGTEFvX3hHWVNvRDhnN0pWRVlSN01DdkhNZFpNdUlOU1d3cFp3WDB5OW5leldENWpEOEZIWkNwZlJkM2YtN0sweHRr?oc=5
 
-- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
-  Citizenship Rules Amended, These
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
+- PM Modi, Meloni in Rome: Car ride, dinner and Colosseum visit ahead of talks - The Times of India
+  The Times of India reports that PM Modi will visit the Colosseum
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHNBUHZET1IyYk1razNXQXNTTUdrMUY4RDhYMEVVRnZxa2ZUdllhYUUwd19PbWR4c09uY2VUTWRBVk9rZVI4S05KN3FMajNHNER4YWNfNkduckV2WWpNZ3NoODRPMTJ0MjNlNFI0aTEwUXloSDJJQ21jWUxpRnBMNWdqa0NPOXJKbms5ZjRndDQ1VFg0TzAtMXowQnpKZnp2ZzJnSnMzVFVZVzdNejFGOWlWRmd3bGdSdVF2VG9OVm9pRXFNVDY3dGNGTTlhOWhSV2twQkVNNnDSAd4BQVVfeXFMTlVfVFp4bDRrMXhnVlBIUkZoY05pRl9tTzhrSXpSNUlzdXJKdDNiS3JsU2xTa3I0LTBTbzRVQXVjODE0QXdiR1U3X1UxMzZUOFZlOWdpXzVTeURPLTRRRXB6UzBfUllKLUVvXzU2LUxSVXdhMTZsT01faDA5LS1BQzRKbkhyMk9OMVp0akhxR2dIQTZYNERZYWlkZm84bElESnR5RjUwTUF4TXBYR19BZlVyN1pMYjFhb2xwTkxnSWFjcHhBOGJZYlZsdWJLSTRrN3BKM05DTVRkQms0bEVB?oc=5
 
-- Official Found Dead At Indian Mission In Bangladesh, Autopsy Awaited - NDTV
-  Official found dead at Indian Mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGpnZGpKeE5tZl9LRlhCWG5pVzVLYzBQeV9HZDZsR0thUDZtWC15cjZOWU5DREo3aGxWUFc4bHFLaWhwTDFGVmZRbnNSOFBWOFpjTkRBOFZIZkJOS2phSTktY184Z0RJMjBJdXZ0STVBcXVXZk1OZjNWYTQ3NGJqYllZM2FXMFY4eGZvaEIyZUxVeDhOMkx3dDUzYWNiSGkwQUN0YWVNamRNVFBraF9jRjZfLTV3S2cwYkkwbE9ETnhqM2pNbzctNHp4aGtDeldkNUZz0gHbAUFVX3lxTE5xM09ORFgxMVFjTF9aMENyb3VKbWRBZ3lsWG9YOXNUVVBfb3VVY0Z1UW8xR2dDTFZ3WFhoSDNXdEhzUVBTYThTbTFBYmpJOGdlWkJnb2ltcndSUE5LNEU3QnJIdHZ5QXVBcXFpNEprT0RiN1c2ckZBVURyZk1oamFlbS1mbzNHWlVINjJ0SzNnUU5HVVByaktoaTl3b3FsTHNkMERYQkxlaXJfX1B0VU1SRjQ1d0ZyWDBBZHBXUHdRemF6SUU1MlRYR2pTSFQ0TGlGYTI3R3BKZ1RlQQ?oc=5
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
 
-- Indian diplomat found dead inside mission in Bangladesh's Chattogram - The Hindu
-  Indian diplomat found dead inside mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDlrak1zb2ozaE9xWWdPOEQ2Zm1vVDV4eEM2WlNSOHpsV19rbG5Zck93NkF3T2xfSWtHdTBOaGN6WkFBS3lSRDZobjRRQ1RORFp1MW5WQ3c4MHRINGM4QktQSjg4M2RPLVpiRDNDcUN1UmIyVWdsUktvN2Rjek9pUjJCamtyczdyYTVEWHpYVVhZMEtVLWRHQ3FPRWxYS2VWTzlQbXBPTFpKSnB2ZWNLUTgxMzBZV1VUVWpWa2RzOXpyQXFSdzA1WTJoMNIB0gFBVV95cUxQdGxxVUlsVERnUW5NS3VKWE1XU29uQWEwb1pZMWJJeVdxcDVCLWREeFhpS1BLOXRZWXhoTkRzT0JkbVZCbWQtRGQ0Wm91T2pfNUdCQ2g4OEdaM3Z1NXFWcDl6WENHOW5lZk51YjdUTHVlMFgwMGpjbkxocGdWQ0FGejNNMXVwRW9aNWpzRFZrVnZnOEwxR3NXbnF1VHRuTlBEdE01T3JEa3hhOFZEcWVJS1d6Wjkxc0c3a3YxOXZicl9yTExwUzJRN3B1Uy0td1lHbmc?oc=5
+- India-Nordic summit: Why is Modi wooing Northern Europe? - Al Jazeera
+  India-Nordic summit:
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaE9KeTFKa2Q5YlVsZFdKMElwOVRaQlpJc2UzQ1lMYUpJOVl5bGxLRGk2dlcwUUJtblJQTUJRMTdXSDFQTUJjY1lUcFB5MjFtZ3V4RzJHVGl1c0NzZElvUHZyNmk4ZlZ4VzBWNmc1Mm5HcGhRa3VOb2JseXJjUDQwLVNsX1phd1NfcnZTWlk3d1gxSEMtNkIyTDRaUdIBoAFBVV95cUxNSWliX3ZBY3VybkFuV2RKV0FHaXNkY0REWU1oUFVOdmpldHFPOENkODQwbkNkMXZoY2VraTNrelN2TWhWQmUwclVXM2FENmtBR1NVbXFDTWNwNnJfdkYzVTZ6b3JLOGM0Q1I1WF94NTN1aHg3UUpxU0JmLXlqTHQ3S2FXUERFMUVOYzFXNXVqSUNRQUR1dmo5cEtGd0hLUmY1?oc=5
 
-- Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh: Re - The Times of India
-  Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmhudm5wU0p4ZU1JNjN5S1g3VWVON1doZ2xkUEJxQVRUcUg4dzlkNnFXd0t6a3NRUHJaVUYwYzlzVHRmWEl2SEp2T0VwN3RTbER6YlRZaUktWW1GdVoxNnVEMUZjNENXVXRtWG13X09PYkl1X1dwN2NlYWFnSWVGLW1EaWtHckJ0QktER3Q0SHZ0eUtmUWNMR1lHWXVqam1tTXFfQWVoVUo3RnktUGVsbWxuN09HNG1tLVZucWdDZm5PaG00V3QxVWVLdTF3ZXdtaGJYRVJ4aG1IeWh1NGFUek1rQUxxNEhMc05QZVk4STE3akJfVUpjQ0lUSVdJY1FJbTNFcmRuanbSAY4CQVVfeXFMUC1vSnl0RUtfVy14LWg3a01DbTU2T2dVbDRZanlKV1lnck84am11dDljTHQxM2YxdXkwMHZJNXhveG8yeUx4RExJN2dVcExRMjlsT2g1Ukt1TDBtd2h5ZkxfVDJvOXBGNndZTDFrM2JDNW5WVlc0NTBhNVA2M1BnbUlld29NcmV6ck1ZNkowc1h1bWFpOWxrdUkxTnRTS3JkNHRoRFRVQ2NCb2x2VHRvUXRXQXNiRDNjbEdXUlBzMTh3eVhjYXk2djYyeXdyV3FFTXhtaEE0ZjRCVnJYZlRQR2hvTGZNdUtyWjlXTzQwTHNvQlVFbjNlRHRSZzJnRTM4Uy1XeW4waUFodXZlaWJ3?oc=5
+- India’s digital economy may contribute 20% to GDP by 2030: NCIIPC DG - News On AIR
+  India’s digital economy may contribute 20% to GDP
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPTEFWSHBlMEV3dmVvT0daRzRzRU9EUUpUNTBZc1QzaDhHS01OaERLUmFCZzFFNGVuWGVraDRZbzdLUk5vUzNoWG55WUNSenRTYWVmbHpLSXBwSVgzY19HR2t1dmpwUG40Qm14OVNhckpVLTh5VzVNeTF4ek5OQktUcDdjNTFpamRFb1cwRzltUElKSzg4Mk9lNHNhOA?oc=5
 
-- Who is Sibi George? The Indian diplomat going viral for taking on Norway press | India News - Hindustan Times
-  Who is Sibi George? The Indian diplomat going viral for taking on Norway press
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGdqQjkzTU80WnBETUNvOFlzYjY4M1JXVkRqVENpajZ5d2hpWGVjNFd5ei16bWlwOXAzalVjdWUwM0ZtVXY0ZW91cldxVFdTeFREMGxOWGp2a29zVDJCLXZZWnN2cEJZODlhQzVVOWItQXpST3ZKaXprdkIyRWp2UGlrbWxuQi1nQmxuVTR5ZURtVEhIQW93YW5qQlpVVjFCQ3VDSXh2MFJ3ajJuV196Wkx0WnZCbXVfVlVrd1RsdmFYWDZjZkFyWFlxWVdxa2E3dE1mQkxzVmVxVmZwc1FTLWdlUVV3Z9IB6wFBVV95cUxPQTNqVk91Vm9XNzhtemt5ZFJWXzllMGxQVXZpLUZ5NkhIdldRWmlXT3h6eGNWZGFSdElGcGtZOHlrQld2TGh5QlRFanYzVGN0TTlmY213djdrQ0pSRVV5Y1Zwa1hQQWtqS0NPbU9zUXZiVnBhUHlwSFlVaDBXR0FKdGVDYnZmM3pNR3ZTWFRYVF90b216R2Npd3RUYlU3bkpoRzlCc29vWDZRRWZGNUVGamVITndHTXV3UEJFSVBaaDB6dVN5ZGkycG5aTFZoaGZDODJCODIwaU93aWtkZlZoa2YtU3VjZHBxRGR3?oc=5
+- India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius mark | India News - Hindustan Times
+  India’s hottest district shuts at 10 am as mercury breaches 48 degrees Celsius
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGEzbm5zTTRELXkwVVlFbnR2UkZrYUlEUkZkR1BLajJKdzNxYTlBYTlwSHlrUUxSY3h2UnZrNmZ1bTRKYXJDVDlFbTR3cHByT3N4eUJxXzVoNk43SFpEYUFfa2gyZGgtMDJQcTdrUnFTQ005SmhES2k5b3BfS2kza0w1ZzRRd2otQVZFa1U3OGg3LV8ycXk1UXAyTEZ0Rm1ueG9ZSUJDMzJQVXBZbkpBTE55bGVaMkJYWVBWZ3ZvckJtemhKQ2d5YkJtQTZ3bDdCa0ZBMEJIaVhIdXliZHlDaEpZVGNsUdIB6wFBVV95cUxOdWhkQ0ljYVVzby1tYjltcHFPMk9hZWZjRE51ZGxNWDJENGxNbTF3azZwMDhxYVhHamloRXN6c0lmM2h0a19CSVFFSGc4WEVvWU4xcnNuZ2huVU1lTkRGb3pJWGpSbXdxMU1hNjdHT052UnIybjFxWTNSRUNtTjhRd0JHRnhTbVBQc3hxTURmc0dCWUstS0pVSzRmbzEzNkpJVlEzQTZ3ZFNGTEFvX3hHWVNvRDhnN0pWRVlSN01DdkhNZFpNdUlOU1d3cFp3WDB5OW5leldENWpEOEZIWkNwZlJkM2YtN0sweHRr?oc=5
 
-- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
-  Citizenship Rules Amended, These
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
-
-- Official Found Dead At Indian Mission In Bangladesh, Autopsy Awaited - NDTV
-  Official found dead at Indian Mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGpnZGpKeE5tZl9LRlhCWG5pVzVLYzBQeV9HZDZsR0thUDZtWC15cjZOWU5DREo3aGxWUFc4bHFLaWhwTDFGVmZRbnNSOFBWOFpjTkRBOFZIZkJOS2phSTktY184Z0RJMjBJdXZ0STVBcXVXZk1OZjNWYTQ3NGJqYllZM2FXMFY4eGZvaEIyZUxVeDhOMkx3dDUzYWNiSGkwQUN0YWVNamRNVFBraF9jRjZfLTV3S2cwYkkwbE9ETnhqM2pNbzctNHp4aGtDeldkNUZz0gHbAUFVX3lxTE5xM09ORFgxMVFjTF9aMENyb3VKbWRBZ3lsWG9YOXNUVVBfb3VVY0Z1UW8xR2dDTFZ3WFhoSDNXdEhzUVBTYThTbTFBYmpJOGdlWkJnb2ltcndSUE5LNEU3QnJIdHZ5QXVBcXFpNEprT0RiN1c2ckZBVURyZk1oamFlbS1mbzNHWlVINjJ0SzNnUU5HVVByaktoaTl3b3FsTHNkMERYQkxlaXJfX1B0VU1SRjQ1d0ZyWDBBZHBXUHdRemF6SUU1MlRYR2pTSFQ0TGlGYTI3R3BKZ1RlQQ?oc=5
-
-- Indian diplomat found dead inside mission in Bangladesh's Chattogram - The Hindu
-  Indian diplomat found dead inside mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDlrak1zb2ozaE9xWWdPOEQ2Zm1vVDV4eEM2WlNSOHpsV19rbG5Zck93NkF3T2xfSWtHdTBOaGN6WkFBS3lSRDZobjRRQ1RORFp1MW5WQ3c4MHRINGM4QktQSjg4M2RPLVpiRDNDcUN1UmIyVWdsUktvN2Rjek9pUjJCamtyczdyYTVEWHpYVVhZMEtVLWRHQ3FPRWxYS2VWTzlQbXBPTFpKSnB2ZWNLUTgxMzBZV1VUVWpWa2RzOXpyQXFSdzA1WTJoMNIB0gFBVV95cUxQdGxxVUlsVERnUW5NS3VKWE1XU29uQWEwb1pZMWJJeVdxcDVCLWREeFhpS1BLOXRZWXhoTkRzT0JkbVZCbWQtRGQ0Wm91T2pfNUdCQ2g4OEdaM3Z1NXFWcDl6WENHOW5lZk51YjdUTHVlMFgwMGpjbkxocGdWQ0FGejNNMXVwRW9aNWpzRFZrVnZnOEwxR3NXbnF1VHRuTlBEdE01T3JEa3hhOFZEcWVJS1d6Wjkxc0c3a3YxOXZicl9yTExwUzJRN3B1Uy0td1lHbmc?oc=5
-
-- Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh: Re - The Times of India
-  Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmhudm5wU0p4ZU1JNjN5S1g3VWVON1doZ2xkUEJxQVRUcUg4dzlkNnFXd0t6a3NRUHJaVUYwYzlzVHRmWEl2SEp2T0VwN3RTbER6YlRZaUktWW1GdVoxNnVEMUZjNENXVXRtWG13X09PYkl1X1dwN2NlYWFnSWVGLW1EaWtHckJ0QktER3Q0SHZ0eUtmUWNMR1lHWXVqam1tTXFfQWVoVUo3RnktUGVsbWxuN09HNG1tLVZucWdDZm5PaG00V3QxVWVLdTF3ZXdtaGJYRVJ4aG1IeWh1NGFUek1rQUxxNEhMc05QZVk4STE3akJfVUpjQ0lUSVdJY1FJbTNFcmRuanbSAY4CQVVfeXFMUC1vSnl0RUtfVy14LWg3a01DbTU2T2dVbDRZanlKV1lnck84am11dDljTHQxM2YxdXkwMHZJNXhveG8yeUx4RExJN2dVcExRMjlsT2g1Ukt1TDBtd2h5ZkxfVDJvOXBGNndZTDFrM2JDNW5WVlc0NTBhNVA2M1BnbUlld29NcmV6ck1ZNkowc1h1bWFpOWxrdUkxTnRTS3JkNHRoRFRVQ2NCb2x2VHRvUXRXQXNiRDNjbEdXUlBzMTh3eVhjYXk2djYyeXdyV3FFTXhtaEE0ZjRCVnJYZlRQR2hvTGZNdUtyWjlXTzQwTHNvQlVFbjNlRHRSZzJnRTM4Uy1XeW4waUFodXZlaWJ3?oc=5
-
-- Who is Sibi George? The Indian diplomat going viral for taking on Norway press | India News - Hindustan Times
-  Who is Sibi George? The Indian diplomat going viral for taking on Norway press
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGdqQjkzTU80WnBETUNvOFlzYjY4M1JXVkRqVENpajZ5d2hpWGVjNFd5ei16bWlwOXAzalVjdWUwM0ZtVXY0ZW91cldxVFdTeFREMGxOWGp2a29zVDJCLXZZWnN2cEJZODlhQzVVOWItQXpST3ZKaXprdkIyRWp2UGlrbWxuQi1nQmxuVTR5ZURtVEhIQW93YW5qQlpVVjFCQ3VDSXh2MFJ3ajJuV196Wkx0WnZCbXVfVlVrd1RsdmFYWDZjZkFyWFlxWVdxa2E3dE1mQkxzVmVxVmZwc1FTLWdlUVV3Z9IB6wFBVV95cUxPQTNqVk91Vm9XNzhtemt5ZFJWXzllMGxQVXZpLUZ5NkhIdldRWmlXT3h6eGNWZGFSdElGcGtZOHlrQld2TGh5QlRFanYzVGN0TTlmY213djdrQ0pSRVV5Y1Zwa1hQQWtqS0NPbU9zUXZiVnBhUHlwSFlVaDBXR0FKdGVDYnZmM3pNR3ZTWFRYVF90b216R2Npd3RUYlU3bkpoRzlCc29vWDZRRWZGNUVGamVITndHTXV3UEJFSVBaaDB6dVN5ZGkycG5aTFZoaGZDODJCODIwaU93aWtkZlZoa2YtU3VjZHBxRGR3?oc=5
-
-- Citizenship Rules Amended, These Applicants Will Have To Declare Passport - NDTV
-  Citizenship Rules Amended, These
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVYxNUxidDk2Q1ZnVkgza2ZZbXRBeVE1QjhSYXNQbUFqcDhmeGU3Qm1VMWZOQWwzalZkbi1heGVqdUZhdDk3clNrR3JNYUNwUjdkYjhLbVNISE16cjNQVjhJWFJqRy1ZaGdrbWZ1UzQ0clI3OGZmVnYxQkNPTFpEeHl3cHZzMDB3VzNvMWVWU1psUXc0V0c5RkdJSEx1OW5sa1ExM2VjM1Z6R3JMMWFCM1gyUdIBuwFBVV95cUxQVVZTMHhuektJY3BfRFRFQnF1X1N4SVc0bl9vaVFyQjlScW12LU5abEwzaTh3UzVXMl9naW1iZGxIVTNFU2tRUXJWNTZwYlhuTTNwaHBzMmhVX3h4R3hfcF9BajlYR3dGQlpDT2xBWFNNaGRieFJzUFJPUFlxeUpfWkRaQlpJREM3VUdjeGZYMnZvZGoxRkRqSi1oZ21RQmFoc0cxSTl1SDgxZE9NZ3FkNldjQmFvcDJETDVZ?oc=5
-
-- Official Found Dead At Indian Mission In Bangladesh, Autopsy Awaited - NDTV
-  Official found dead at Indian Mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGpnZGpKeE5tZl9LRlhCWG5pVzVLYzBQeV9HZDZsR0thUDZtWC15cjZOWU5DREo3aGxWUFc4bHFLaWhwTDFGVmZRbnNSOFBWOFpjTkRBOFZIZkJOS2phSTktY184Z0RJMjBJdXZ0STVBcXVXZk1OZjNWYTQ3NGJqYllZM2FXMFY4eGZvaEIyZUxVeDhOMkx3dDUzYWNiSGkwQUN0YWVNamRNVFBraF9jRjZfLTV3S2cwYkkwbE9ETnhqM2pNbzctNHp4aGtDeldkNUZz0gHbAUFVX3lxTE5xM09ORFgxMVFjTF9aMENyb3VKbWRBZ3lsWG9YOXNUVVBfb3VVY0Z1UW8xR2dDTFZ3WFhoSDNXdEhzUVBTYThTbTFBYmpJOGdlWkJnb2ltcndSUE5LNEU3QnJIdHZ5QXVBcXFpNEprT0RiN1c2ckZBVURyZk1oamFlbS1mbzNHWlVINjJ0SzNnUU5HVVByaktoaTl3b3FsTHNkMERYQkxlaXJfX1B0VU1SRjQ1d0ZyWDBBZHBXUHdRemF6SUU1MlRYR2pTSFQ0TGlGYTI3R3BKZ1RlQQ?oc=5
-
-- Indian diplomat found dead inside mission in Bangladesh's Chattogram - The Hindu
-  Indian diplomat found dead inside mission in Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPaDlrak1zb2ozaE9xWWdPOEQ2Zm1vVDV4eEM2WlNSOHpsV19rbG5Zck93NkF3T2xfSWtHdTBOaGN6WkFBS3lSRDZobjRRQ1RORFp1MW5WQ3c4MHRINGM4QktQSjg4M2RPLVpiRDNDcUN1UmIyVWdsUktvN2Rjek9pUjJCamtyczdyYTVEWHpYVVhZMEtVLWRHQ3FPRWxYS2VWTzlQbXBPTFpKSnB2ZWNLUTgxMzBZV1VUVWpWa2RzOXpyQXFSdzA1WTJoMNIB0gFBVV95cUxQdGxxVUlsVERnUW5NS3VKWE1XU29uQWEwb1pZMWJJeVdxcDVCLWREeFhpS1BLOXRZWXhoTkRzT0JkbVZCbWQtRGQ0Wm91T2pfNUdCQ2g4OEdaM3Z1NXFWcDl6WENHOW5lZk51YjdUTHVlMFgwMGpjbkxocGdWQ0FGejNNMXVwRW9aNWpzRFZrVnZnOEwxR3NXbnF1VHRuTlBEdE01T3JEa3hhOFZEcWVJS1d6Wjkxc0c3a3YxOXZicl9yTExwUzJRN3B1Uy0td1lHbmc?oc=5
-
-- Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh: Re - The Times of India
-  Indian Assistant High Commission official found dead inside Chattogram mission premises in Bangladesh.
-  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTmhudm5wU0p4ZU1JNjN5S1g3VWVON1doZ2xkUEJxQVRUcUg4dzlkNnFXd0t6a3NRUHJaVUYwYzlzVHRmWEl2SEp2T0VwN3RTbER6YlRZaUktWW1GdVoxNnVEMUZjNENXVXRtWG13X09PYkl1X1dwN2NlYWFnSWVGLW1EaWtHckJ0QktER3Q0SHZ0eUtmUWNMR1lHWXVqam1tTXFfQWVoVUo3RnktUGVsbWxuN09HNG1tLVZucWdDZm5PaG00V3QxVWVLdTF3ZXdtaGJYRVJ4aG1IeWh1NGFUek1rQUxxNEhMc05QZVk4STE3akJfVUpjQ0lUSVdJY1FJbTNFcmRuanbSAY4CQVVfeXFMUC1vSnl0RUtfVy14LWg3a01DbTU2T2dVbDRZanlKV1lnck84am11dDljTHQxM2YxdXkwMHZJNXhveG8yeUx4RExJN2dVcExRMjlsT2g1Ukt1TDBtd2h5ZkxfVDJvOXBGNndZTDFrM2JDNW5WVlc0NTBhNVA2M1BnbUlld29NcmV6ck1ZNkowc1h1bWFpOWxrdUkxTnRTS3JkNHRoRFRVQ2NCb2x2VHRvUXRXQXNiRDNjbEdXUlBzMTh3eVhjYXk2djYyeXdyV3FFTXhtaEE0ZjRCVnJYZlRQR2hvTGZNdUtyWjlXTzQwTHNvQlVFbjNlRHRSZzJnRTM4Uy1XeW4waUFodXZlaWJ3?oc=5
+- PM Modi, Meloni in Rome: Car ride, dinner and Colosseum visit ahead of talks - The Times of India
+  The Times of India reports that PM Modi will visit the Colosseum
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeHNBUHZET1IyYk1razNXQXNTTUdrMUY4RDhYMEVVRnZxa2ZUdllhYUUwd19PbWR4c09uY2VUTWRBVk9rZVI4S05KN3FMajNHNER4YWNfNkduckV2WWpNZ3NoODRPMTJ0MjNlNFI0aTEwUXloSDJJQ21jWUxpRnBMNWdqa0NPOXJKbms5ZjRndDQ1VFg0TzAtMXowQnpKZnp2ZzJnSnMzVFVZVzdNejFGOWlWRmd3bGdSdVF2VG9OVm9pRXFNVDY3dGNGTTlhOWhSV2twQkVNNnDSAd4BQVVfeXFMTlVfVFp4bDRrMXhnVlBIUkZoY05pRl9tTzhrSXpSNUlzdXJKdDNiS3JsU2xTa3I0LTBTbzRVQXVjODE0QXdiR1U3X1UxMzZUOFZlOWdpXzVTeURPLTRRRXB6UzBfUllKLUVvXzU2LUxSVXdhMTZsT01faDA5LS1BQzRKbkhyMk9OMVp0akhxR2dIQTZYNERZYWlkZm84bElESnR5RjUwTUF4TXBYR19BZlVyN1pMYjFhb2xwTkxnSWFjcHhBOGJZYlZsdWJLSTRrN3BKM05DTVRkQms0bEVB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-05-20 02:49:13 UTC_
+_Last updated: 2026-05-20 09:02:23 UTC_
