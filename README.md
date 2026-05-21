@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- How Kerala’s new ‘pookie CM’ won over the internet with a viral smile
+- 20 years ago, Odisha engineer joined at Rs 6,000 salary. This week, vigilance found he ‘owns 97 land plots, farmhouses’
   
-  🔗 https://indianexpress.com/article/india/kerala-cm-vd-satheesan-pookie-cm-viral-response-vehicle-modification-promise-10700023/
+  🔗 https://indianexpress.com/article/india/20-years-ago-odisha-engineer-joined-at-rs-6000-salary-this-week-vigilance-found-he-owns-97-land-plots-farmhouses-10700277/
 
-- Chopper carrying pilgrims from Badrinath forced to land in Uttarakhand after mid-air scare
+- Revoke passports of 10 criminals based abroad, Delhi Police tells Centre
   
-  🔗 https://indianexpress.com/article/india/chopper-pilgrims-badrinath-land-uttarakhand-mid-air-scare-10700025/
+  🔗 https://indianexpress.com/article/india/revoke-passports-of-10-criminals-based-abroad-delhi-police-tells-mea-10700330/
 
-- India, Italy upgrade ties | Special strategic partnership announced: Trade to corridor, defence to ports
+- In Cuttack’s silver filigree hub, soaring prices and import curbs push artisans to the brink
   
-  🔗 https://indianexpress.com/article/india/strategic-partnership-india-italy-narendra-modi-giorgia-meloni-trade-defence-10699996/
+  🔗 https://indianexpress.com/article/india/in-cuttacks-silver-filigree-hub-soaring-prices-and-import-curbs-push-artisans-to-the-brink-10700288/
 
-- Madhya Pradesh wants CBI probe in Twisha Sharma death
+- India-Italy joint statement: Focus on terror, tech & unblocking of Hormuz
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-case-madhya-pradesh-govt-cbi-probe-dowry-death-10699870/
+  🔗 https://indianexpress.com/article/india/india-italy-joint-statement-focus-on-terror-tech-unblocking-of-hormuz-10700335/
 
-- Bihar’s roads killed 12,669 last year. Now, after Supreme Court nudge, police finally act
+- ‘Reflects anarchic mindset’: BJP slams Rahul over ‘traitor’ remark
   
-  🔗 https://indianexpress.com/article/india/bihar-police-highway-patrol-radar-guns-e-challan-sc-road-safety-order-10699840/
+  🔗 https://indianexpress.com/article/india/reflects-anarchic-mindset-bjp-slams-rahul-over-traitor-remark-10700338/
 
 - Do humans carry ancient Homo erectus genetic legacy? New study says it’s possible
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-20-2026-slimmest-fire-stick-canva-in-gemini-more-10699657/
 
-- TCS CEO Krithivasan earns over  ₹28 crore in FY26, still behind top IT CEOs: Here’s what his peers got
-  TCS CEO K Krithivasan earned over  ₹28 crore in FY26, up 6.3%. His compensation is about 333 times the median employee salary.
-  🔗 https://www.livemint.com/companies/news/tcs-ceo-krithivasan-earns-over-28-crore-in-fy26-still-behind-top-it-ceos-check-what-his-peers-got-11779304963756.html
+- From Saudi Aramco to Alibaba: 7 biggest IPOs before Elon Musk’s SpaceX market debut
+  SpaceX could become the biggest IPO in history, but before Elon Musk’s space giant hits public markets, companies like Saudi Aramco, Alibaba, Visa and Meta dominated
+  🔗 https://www.livemint.com/companies/news/from-saudi-aramco-to-alibaba-7-biggest-ipos-before-elon-musk-s-spacex-market-debut-11779326227532.html
 
-- Chicago Zillow Listings Disappear After Local Group Yanks Data
-  In Chicago, scrolling Zillow for dream homes or apartments
-  🔗 https://www.livemint.com/companies/chicago-zillow-listings-disappear-after-local-group-yanks-data-11779303048371.html
+- Mark Zuckerberg 'feeling weight of' mass layoffs at Meta, says ‘success isn’t a given’ in memo
+  Mark Zuckerberg sent a formal email to his staff ahead of the layoffs, addressing it and thanking those who
+  🔗 https://www.livemint.com/companies/people/mark-zuckerberg-feeling-weight-of-mass-layoffs-at-meta-says-success-isn-t-a-given-in-memo-11779325313086.html
 
-- OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filing
-  OpenAI aiming for speedy IPO,
-  🔗 https://www.livemint.com/companies/openai-aiming-for-speedy-ipo-source-says-as-market-awaits-spacex-filing-11779301812728.html
+- Microfinance sector recovers after stress cycle but caution prevails amid geopolitical, inflation risks
+  India's microfinance institutions are cautiously recovering after two years of stress. Analysts warn that while conditions are stabilizing, growth will be disciplined.
+  🔗 https://www.livemint.com/companies/news/india-microfinance-sector-recovery-growth-fy27-11779277115073.html
 
-- Apollo Hospitals bets on expansion, clinical edge to maintain lead
-  Apollo Hospitals plans to add 1,500 beds in the next 12-18 months. The company reported strong FY26 growth across hospitals, diagnostics and pharmacy businesses
-  🔗 https://www.livemint.com/companies/apollo-hospitals-beds-expansion-healthcare-earnings-11779290147565.html
+- Marriott bets on outbound Indian travel surge, rewires loyalty into experiences
+  Marriott International is focusing on the Indian market as travel demand grows, especially among younger travellers. The company is transforming its loyalty programs to prioritize experiential rewards.
+  🔗 https://www.livemint.com/companies/news/marriott-bets-on-outbound-indian-travel-surge-rewires-loyalty-into-experiences-11779256779014.html
 
-- Navi Mumbai airport can hike passenger fees by 6% from next April, regulator says
-  Navi Mumbai airport already has the second-highest user development fees of any major Indian airport.
-  🔗 https://www.livemint.com/companies/news/adani-airport-news-navi-mumbai-airport-fees-11779290356156.html
+- Tata Capital listing gain cushions Tata Sons from dividend fall blow
+  The one-off boost comes amid growing concern within Tata Trusts over mounting losses in newer businesses.
+  🔗 https://www.livemint.com/companies/news/tata-capital-ipo-windfall-offsets-dividend-dip-new-business-challenges-11779263896652.html
 
-- Dollar dips on hopes for Iran deal, yen near danger zone
-  Dollar dips on hopes for
-  🔗 https://www.livemint.com/market/dollar-dips-on-hopes-for-iran-deal-yen-near-danger-zone-11779303420971.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 21 May
+  Indian stock markets ended higher on 20 May, with the Sensex gaining 118 points. Investor wealth surged over  ₹1 lakh crore. Analysts suggest a positive opening on 21 May.
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-21-may-11779327942154.html
 
-- Tepid demand for US Treasury auction shows investor jitters over Iran war
-  Tepid demand for US Treasury
-  🔗 https://www.livemint.com/market/tepid-demand-for-us-treasury-auction-shows-investor-jitters-over-iran-war-11779302186614.html
+- Stocks to watch: LIC, ITC, RVNL, Dr Reddy's  among 10 shares in focus today; check list here
+  The Indian stock market is likely to continue its gaining streak as trends in the Gift Nifty index signalled a positive opening on Thursday. Amid this backdrop, these stocks will remain in focus
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-lic-itc-rvnl-dr-reddys-among-10-shares-in-focus-today-check-list-here-11779326262640.html
 
-- Gold, silver rates today: Comex gold gains $29/oz; silver jumps $1.8 as bond yields slip
-  Gold rises $29 to $4,540 and silver rises $1.8 to $76.99. Despite mild gains, they remain affected by high Treasury yields
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-29-oz-silver-jumps-1-8-as-bond-yields-slip-11779287748422.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 21 May
+  Gift Nifty was trading around 23,804 level, a premium of nearly 136 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-21-may-11779328713955.html
 
-- Sebi may allow third-party payments in mutual funds, ease transaction norms
-  The proposal marks a departure from current regulations that require that all mutual fund transactions must happen with the investor’s verified bank
-  🔗 https://www.livemint.com/market/sebi-may-allow-third-party-payments-in-mutual-funds-ease-transaction-norms-11779279478624.html
+- Asian markets today: Nikkei 225, Kospi jump up to 6% on hopes of US-Iran war to end soon
+  Japan's Nikkei 225 jumped 3.06% after the country released its latest trade figures.
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-jump-up-to-6-on-hopes-of-us-iran-war-to-end-soon-11779327000771.html
 
-- Supreme Court reserves verdict again on Yes Bank’s  ₹8,415-crore AT1 bond write-off
-  The apex court concluded fresh hearings and examined Cabinet records to decide if the administrator of the bank’s 2020 rescue plan bypassed legal
-  🔗 https://www.livemint.com/market/bonds/yes-bank-at1-bonds-supreme-court-reserves-verdict-11779280571743.html
+- From Gift Nifty, Nvidia earnings, to Nasdaq, Nikkei rally: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,810 level, a premium of nearly 142 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-nvidia-earnings-to-nasdaq-nikkei-rally-10-key-things-that-changed-for-indian-stock-market-overnight-11779327995084.html
+
+- White House to issue an executive order on govt review of advanced AI models before launch
+  The White House is expected to issue an executive order as early as Thursday proposing a voluntary framework for government review of artificial intelligence models.
+  🔗 https://www.livemint.com/technology/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch-11779330912164.html
+
+- Australian judge fines X $465,000 for online safety breach after 3-year court battle
+  Australian judge fines X $465,000
+  🔗 https://www.livemint.com/technology/australian-judge-fines-x-465-000-for-online-safety-breach-after-3-year-court-battle-11779330665819.html
 
 - India needs dedicated AI law as current legal framework inadequate to tackle emerging risks: Cyber Expert Pavan Duggal
    existing legal frameworks are not adequate to deal with the risks emerging from AI, cyber law and artificial intelligence law expert Pavan Duggal said.
@@ -92,53 +100,45 @@
   Google is adding the YouTube Premium Lite benefit for paying members. However, the Lite subscription is not available during the 18-month free
   🔗 https://www.livemint.com/technology/tech-news/will-you-get-free-youtube-premium-lite-with-jio-google-ai-pro-plan-google-says-theres-a-catch-11779272883218.html
 
-- ‘Bait and switch’: Google faces massive backlash for quietly reducing usage limits on its AI Pro plan
-  Google's changes to the new AI Pro plan have enraged social media users. The company has now implemented strict 5 hour rolling window system
-  🔗 https://www.livemint.com/technology/tech-news/bait-and-switch-google-faces-massive-backlash-for-quietly-removing-usage-caps-on-its-ai-pro-plan-11779266130737.html
+- Live markets: SpaceX files for massive IPO as Nvidia earnings beat Street expectations - CoinDesk
+  CoinDesk: SpaceX files for massive IPO as Nvidia earnings
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPSU9zZDd2WjF5VTd6Q0sxNE5ldlNEbFllZENvNHN2R2hpbmQ1TEhCUU1iczhjQ1BTUUgxNjVrdGJqeGh5Q0k0Wm1TMzU4YklFOGhoMndqVWZFZGlBcHZGQlVJUEd0SVI5dVFqa3NSRUlwZFY4d0NpUTl4c3kzMUtiYVNKaEIwX29zNDliOEc1RkNRSVZrS2lmeFl2LTlZbTBpcXRleUt1dEV4SmNiNVdybF9HZ1ZnR2VyOWt4MQ?oc=5
 
-- Analysis-Fears of unfettered hacking spurred by Anthropics Mythos AI model overstated
-  Fears of unfettered
-  🔗 https://www.livemint.com/technology/analysisfears-of-unfettered-hacking-spurred-by-anthropics-mythos-ai-model-overstated-11779271395022.html
+- Asian Stocks to Rise as Nvidia Whipsaws on Results: Markets Wrap - Bloomberg.com
+  Asian Stocks to Rise as Nvidia Whips
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkFPLUo2Z3JHU0wxVFJKQUVGdmg1TV9jSUFNUVg3ZzhweUZrbFRLZ3EycGRtZi1scUk0WnNSSVFIRmNGcGxNV2o0QU5xUm1KM2cyZmFEMFk3MUlJZkN4N1RKTjl5THBvQXJkVklmbEpyRndod3pFUFFCeTBrb2JfY2RZc1l6b2J4aXhQdlN6dXVJb0x0TWh0MEQ4dEFyU3lReGg3TjlrVXRkazlrTjRVcEdBbVQ?oc=5
 
-- Stock Market Today: Major Indexes Close Sharply Higher Ahead of Nvidia Earnings as Oil Prices Plunge; Dow Adds 650 Points; Bond Yields Retreat - Investopedia
-  Stock Market Today: Major Indexes Close Sharply Higher Ahead of Nvidia Earnings. Oil Prices Plun
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGZKVE9ROGl4RGdqVHZqcjJhMWJIbkpyT01EdUlqMU1CQlRGOUs2dThtaG9mb1ZmWUx1YVhIaFBxQU1USnFINWtDMGVVTFBTN0l2Y192aW5LZXdqQVBZNWhtekVhWXlyUFM2ZjBkYjNDZUJYUXdjZkduYTlJVXI3TEFuQ1M0U2VIbHJ4V2ZHS1M?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares t... - The Economic Times
+  The Sensex and the Nifty 50 closed at record highs on Tuesday. The Nifty closed
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxOblpxMmZUY19rbVFjc050YWZnY2FBTWFtTnFCLVNCdVBYaFVfUWRjSW1iOVJ3eVpFS3JMMEVBUVRKRmtZNTNyT1BWQ3BKdWhrVE14cHctbTVqVHNwdG5uOW5CbGNhWk1BLXRKZThSSVpMWjc3ZjNsT1lFaWIyVHRQanlCMy1hSVV6RFlacUczVWNYNW9xdmlHbG85elR4bDd2ZGlTVnRBNHZ0ajBVNU54S2dVelJXcFdvVjRDRjgyU1RFSnpjcG9JUERuQlRtbEc0bWdtdWV6RmI2SzJfUHBERnZFeGNEQVJGRlplYV9aTk5ZRm12NEVHelp5RWtpNXJT0gGGAkFVX3lxTE1ZcVMxSHNpMXNvdHhmX21fWHB3bjZZLWhjTDMwbDdEanhXMTI1NG5NMUs5ZnB2bGg2UVcwc3RIcmlUM3NmcWVRZmViQ19JekNadGpYWXIyOWgybGk5T3hpajFZbjRkS0FOcTcyTFBpc2FjZjJpVkVRcEhybW9Bdmg0c01PallqWjcxeHlFUXE2S0gwRTNQLWdQWnRRZWhXWjlNUzdvbURmUFpycDNFVHVtbkw0bE9EMmhudWtJZWxyMmxwck95U3g3c0dSbmZRek55eTZGVV9Ebk9yZEJZQXhISWlKTkdJVmtIVXBhc29BNlVFLVpxWkcyMldTb1BteFJMZTdhanc?oc=5
 
-- Stock Market Today: Dow Ticks Higher; Nvidia's Upcoming Earnings in Focus — Live Updates - WSJ
-  Stock Market Today: Dow Ticks Higher; Nvidia's Up
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNamxkTXhqN095MEZtdjVLV1JMUHNkdHI5cy1uMHV6S2l0aU81TVBDemxpV3NmczNkaTJFWXdlT3dyZUVpdmNLRXcyRlQteU1ab0tfMGd4Z2NnS2M3UVNrWjVqWERGYjRLVnhyNWU5MC0yb3NQZ2gwREQwZ29CUFhWSi02X2ZUaFU?oc=5
+- Sensex Today | Stock Market Live: Sensex, Nifty set for strong opening as oil cools; GIFT Nifty jumps 138 pts - Moneycontrol.com
+  Sensex, Nifty set for strong opening as oil cools. GIFT Nifty
+  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOaERzdXNNZkhaVTdPQjctRFc1blNoLXlnQkY5NzRkU25EYmFXVWVJbkhaVEtzNzdEWmU2b1hRUGpCX21QV1pDUmtiVld6RWx4eTBhUkdyWWNTY1RWU2ppMU1zNFowVmR0NXh2T1Z6cDlXS0YxNmF2bFhlbVJmTW1DZGxoc2RlRFFCZ2tGQTc0Z3dkQmZPT0Y1d1BUeV9kTWR1dzY2Y0U0eXZiaUpRUTlVTklJVXQybEJYM3h6SHlBVE9XbmpPSVJ5clhRZkVBXy0xbGl3WVE5UW14NXdYN0draFVCYkxpS1oyR0o3UmdLYmp3Q0U2UWVuVmx6eUZsSlZUVzVmOGU0YkRJd9IBjwJBVV95cUxNeGU0N3B0aFVaa2lCVFdYTDc1MHFLMTZmZzR6NDdBU2l0Y2ViUzlvblV4dWJtQWo2S3NreTA3M09uZDNpSjhaWVRrVFRhMXR2UUI2amVaQ2dsRkNvMDVCWXlVWnVOdzc4MlM0TldfRTZjUk1XaEM2dklhU29ueS1kQkhMM09kbkRTaVhxU2g3WjRydWVIdXpWamhOSnJ2blJQTklMcXJDc0JwTy1kUmlsZ0ZFeDk3Z3ZpWk1SVUdZWWR2NnNaU0RqVGFBdXRtTXNFM0VmUzg0dVBwdU51M2wySmZEYngxWEprejdPNG1SQWNXRlk2NHYxaE42R3hYUjRQbmVONi1pVElZQ0ZZSmJ3?oc=5
 
-- Nvidia earnings live updates: Options market signals sharp stock swing - CNBC
-  Nvidia earnings live updates: Options market
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE1CUUVrUjdLbmR3YWtQZTEwZUt6Z1AyaEx3TGlUdG5hNl9uSFpwZFN2a21mcUFVcnZnQnRMbXV1dlhtUFhfNEdjQ1FzZEg0M1drc1NtMDZ3Rl9obHVzOVlYLWEwTUtZdVRzNEtWam9WNUVjWmE4aG5JSjN5UVrSAYIBQVVfeXFMTU5FY1pRQmVJTFR4Tlk3OFYwdGxfazhmZ1pyV1djakpUR0FfRjIySUFya280eVREVkYzU1BHd3kwMzJVSEYwZURsYXNFdzc3NTZpY0RuN2pwUHFoV1ZBWi1rdnJtaXFZVm5nS1NienNyamplSTktamlpVzBZUTBWa19PQQ?oc=5
+- Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Likely To Open In Green Amid Positive Global Cues - NDTV
+  Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Likely
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYlNxd29FR2hLT1BjWmVqdERCdE03c3FTdXlKQ1QxZ2Y2cDI1aUlIQVJyemd2YjgwaURJU2xSbDcycUsxcEVDUWpaWmhMSnZTWDVub2d1TUtqZDR3R0tiT2xlNDExVW1QTTlpMGZVa1owTl91ZXVXTVFaMHVZOXhLTHZNYU1yblRzZTNoY0dqX2c3VVZDQ3RFQTc0Z3AyRmplSHZ1SXdOaFlIOENHTXdNeUUxaHJRRWpJUGEzVllTYkVBdTY4ek9IM1JhSXV5V2F4VHJ3TFhON1lRdFFqOC1KaElkMmHSAewBQVVfeXFMTTRjczJiNUp6Q1haeU9TckNoTnNfcG0waEt4UlJVUUxfai1fNDVxZmZWOFRJRXkxT3k2bEFrREQxa1Nrd0lEMnVCNlFmbXRfU2JTVDdCd0N4eVd5RVRiZ1JCOVE5dmdQN1NSTWFlc0pGcjB2aWJOcHJURXlpR2NDNzZxcjlvYVgwa3JZdkMydDQtUUNSdjcweDFUTHFXTU82WjdmcWFKX0xkMDVSeVRqRXFlQlZubldwemFLZlhwcC0yclFFUm5xbjFvSENsTUY2TlVUUkNYUVBvdzRERTZtZ3ZzR25OUm9uWVNYYm0?oc=5
 
-- Stocks Rebound Before Nvidia as Bonds Find Respite: Markets Wrap - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNTThZajkwWW94OF9BSWlJTzEzeVFpMmw2c0lLbHptakFIcUgwOXpTQTVIWTV4YVFWWHk3NHRXLXgyTkNmNFQxaFprVHdIUENDVGZibFJienBuRXRPbF9Ybnh4OTNUR3hzTWdoaGtVbzFYam5PQ2xocjJQNF9FQS1QVFV4YWVwa05STFU2ZHBwYnpybUJOZnZaMjhEMV94RVNFTmJRX0NxYUZrc3IxWExjZXBR?oc=5
+- Samsung Electronics' shares jump after tentative wage deal suspends strike
+  The planned 18-day walkout by nearly 48,000 members will be suspended pending a vote on the agreement. This development boosted the benchmark KOSPI index.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-electronics-shares-jump-after-tentative-wage-deal-suspends-strike/articleshow/131238563.cms
 
-- US Stock Market Today | Dow Jones | Nasdaq Highlights: US stocks rises as chip stocks rally ahead of Nvid... - The Economic Times
-  US stocks rises as chip stocks rally ahead of Nvid...
-  🔗 https://news.google.com/rss/articles/CBMi4AJBVV95cUxQMV9JcnJVR04ySkpybldrZERERE9IRWRNSWRod2l0d1pYTTBOelo5QXgtalVYWFJGUUtSNEVBeDkxbXJSUmQ2ZWw5ZC1CY1FzOVdSRkZBcHNjRTNvTF9Sam5yR0dXVDQ1V0w2eVlITE8td3IzeVRaM1NxbWdOekl1QV84M3ozRUNQd1A2SUkzRm41QjRnLUwweTZLNVNPZkEzLXZqTTV5cklXNHU4STEteXllSWVoNWd5MzY3OUdqeGtFdXNjMXJCN3FnZTJPZ29lY01FQTVUZzB5ejNhNEp5OVFYY3pkS3FxMEJfWndIdV9zb3piYlZDYkJBTnFLM0tWZk1ITGVLSGV6VGltMHd1c3Z4OHRTLU9WX1dqbUM4U1RKc3FfMnN3bDR1a0VFMWg5bURSQUItTGRiZnVzclJCQzFTTjZaZ2l5ZmNkRkpSOGxJT09XV3gxTWxKVDVPdFJH0gHmAkFVX3lxTE1IcmFtdEdGbDY5bXJDQ2dIRTFTak1kZ1dDbFZlSzhxVkV6ZFkxQkxvUEdEVXdzb0hlR1JKMmU5OGk1bFdnalMzZkdKV2E1bExkT1phS0VNbklnNUJDRzBfcDJ6SjBpbVB0cFlDZU1aRnZFLTJhNVRmTmxrYlBXckFZVFRQM05YZ3RQRlBoaGJtY2hmVUpUTFFyaFRzY3lVUHNETzlUNDRpU1NrTjVkOG0wUndlbVgtaEpPNE9JcjVwbmVqRjhvOUNZSDcxUnhMQXROc3ZjZ1o4LTFycTNYR3J0Yk9oR0RnSFVpUTRKREtZU1pmaFlGT2FxVkJKYmx4S0EtUE5sWk1DQnUtUDAyS2ZxWTZ0U0pSaVprZVhBRGR5ZE5FamN5c1BTMVBleDd4d1VVVTBFZjBtcVR4czZrQlBEdExWVmQzOFNnQmZTc2ZadXhfUGFDZllqdHc5OFpHbUc4VDB5RkE?oc=5
+- LIC to announce Q4 results today: Here's what to expect from the insurance behemoth
+  Life Insurance Corp (LIC) is poised to reveal its March quarter earnings today. Investors are keenly awaiting insights into new business growth, profit margins, and market share trends. Brokerages anticipate robust premium growth, driven by a
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/lic-to-announce-q4-results-today-heres-what-to-expect-from-the-insurance-behemoth/articleshow/131238463.cms
 
-- Apollo Hospitals FY26 profit jumps 34% to Rs 1,942 crore on growth across core businesses
-  Apollo Hospitals announced robust financial results for the fourth quarter and the full fiscal year 2026. Growth was fueled by its healthcare services, diagnostics, and retail health segments.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-fy26-profit-jumps-34-to-rs-1942-crore-on-growth-across-core-businesses/articleshow/131233889.cms
+- Bio Medica Laboratories IPO: Check GMP, price band, subscription and other details
+  Bio Medica Laboratories' initial public offering begins subscription on Thursday. The issue will be open from May 21 to May 25. Shares are expected to list on NSE SME on May 29.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/bio-medica-laboratories-ipo-check-gmp-price-band-subscription-and-other-details/articleshow/131238431.cms
 
-- One-year forward rupee rate breaches 100 per US dollar mark
-  The Indian rupee has crossed the Rs 100 per US dollar mark in its one-year forward rate. Unabated dollar outflows and elevated crude prices are fueling the currency's weakness.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/one-year-forward-rupee-rate-breaches-100-per-us-dollar-mark/articleshow/131233715.cms
+- Autofurnish IPO opens today. Check GMP, price band, subscription and other details
+  Autofurnish's SME IPO opens for subscription on Thursday. Grey market activity shows flat sentiment with no premium expected. IPO proceeds will fund working capital and general corporate needs.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/autofurnish-ipo-opens-today-check-gmp-price-band-subscription-and-other-details/articleshow/131238254.cms
 
-- Fed minutes show more policymakers were prepared to lay groundwork for rate hike
-  Federal Reserve minutes show growing concern that inflation driven by the Iran war could persist above the 2% target. Several policymakers signalled tightening may be needed, marking a more hawkish shift.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-more-policymakers-were-prepared-to-lay-groundwork-for-rate-hike/articleshow/131233644.cms
-
-- OpenAI preparing to file for IPO in coming days or weeks, WSJ reports
-  The ChatGPT maker is working with Goldman Sachs and Morgan Stanley on a confidential draft prospectus. The company has not officially confirmed the development.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/openai-preparing-to-file-for-ipo-in-coming-days-or-weeks-wsj-reports/articleshow/131231301.cms
-
-- Lincoln International valued at $2.3 billion as shares jump in NYSE debut
-  Lincoln International shares surged 12.6% on their New York Stock Exchange debut. The Chicago-based firm's stock opened above its offer price.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lincoln-international-valued-at-2-3-billion-as-shares-jump-in-nyse-debut/articleshow/131231102.cms
+- Positive Breakout: These 7 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/131238395.cms
 
 - Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
   Pakistani Officer Claims 2 Indian Airbases
@@ -148,37 +148,17 @@
   Cockroach Janata Party vs National Parasitic Front: The new political battle
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXl1dXlwVC1BODJPazl2RGVNX1M4Y1ZPLWE3U1hrdVMtVmJPUWdOQXA2Q2Z5Y2lQYXRkNWpZdTVyMjUtS0dsb2xlcmRsZ2tqX3FuaHNwQzhmNEh5OGFiSDhUajk4SHI2Mms4UXcyNmxvdkRBNzB6ZHV3LVpmc2MwU1hJeWhZbUhfV2ltTHVZYjkwTTJGUnU3ZE1aRGRoc0pyYTVFMVV2MFRWZ3VtZWpwVDVOUmRXV2RvQkVQTlVKeUlURmN1Z3pwbGpybktzMHVnOTd2QnhyLWN4V1NGcEZNM2RvYzN2MEMtSVJN0gHwAUFVX3lxTFB1WmVVTDdsaTVfelk3bEFZUkRnNEhYSjlmYi1CSEZSaUpvTEdPSlZnZS1XTHBHZXltUE5sakxWZjlzUjd0Z3N3bUhPMVhlMUZQWS1sQmMwT3B0Uk85MHZLU1p1cExuR3RCMU9FVE5penFCWGxhOTE5Z1o4d3M1SFIxZmZGdHNOUzRTS1FaSE9FUWwydEdoXzZubXFJb245bDh2Yy1SUDBVMU1vMEVXeWowLW93ams4c1UzQVNCb1I2QnV6VURDTEstbEFsUERQaENZNFZmaXM1M3pMR3dPbE9QTDR5Unc2RkVpbzBWQ245Zg?oc=5
 
-- Bride subjected to sexual abuse, killed for dowry in Nagpur - The Times of India
-  Bride subjected to sexual abuse, killed for dowry in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2h2VHVWa2ZTWk1aV2FraWxUU2hnSjVtWk1sR2lERkttOTBXX2VYMG5WOENiOTBsMHk2NlJxZ3ZuNUhSVFk0WXJjWUpKeGNhOE52ZkdVRjQ5RmRlZm5zX3ZQUEQweS1nZ1UxLVdSa0lvaGxpQ1hxQ1ZsS0t6WmRnckd6a1FEZWFzMXFINTh5Z3hBaFI3ejBySlh4UjhYUWRJMjBBbURlX1JWRWhXbk10eEdJTlEwZVHSAbwBQVVfeXFMUGRNUTlJMEJLQWdZQV80NVFoem55RkVpSWgwbkxTWXVsSjZJQ2h4OGVQc3ZWSkxPc05vMHJHWHU5cnROTUswU05mLXlOVTRmckhsb2U3RFRwY0I3NzMzb09DMC1CNGhFV3A1aEZTbjZScm5Ua3JRNnJUc25oVmFPLUF4YzFjek1MdWtRRk0yem5SZWRJRWJSLUVHd1M4LW5SZXp2SmxQVVNFd1JybWNtTGFhX2Vrd2VpOHBFV1I?oc=5
+- NIA arrests Kolkata resident for spying for ‘Pak’ on espionage charges - The Times of India
+  NIA arrests Kolkata resident for spying for ‘
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRldlb21oMHZ3SDlMTDd0ZjhnTGRvdkpKcDhGTl9ZRERUVUVic0xoY1RmRGFhS2dHc0dLRHd1RWFjTjVUX1RfaGpqNnJLaWhfVFRwZ1FIaXlHWGZKVFFBdDFuYXdxRHBlTl82ZnU4ZnNSd1pBOUVNZ0MxN1ljdlNhVlRGTW0tWTZWOUUxNDl5V0FmRXBwVUdDd1M1QmVBamVZNTAzTmZ1ek5MRVRFSVFxcjhpZHc1dHBVaU1hY3JxMTdvdVYzN3lqZVd2UUlnZzdveFHSAdcBQVVfeXFMTmd0bldXSG5IMVdBS1AtNlNIa2FWMjU4cEoyVEluVnphS0RuVVdhblI5VF9CN3dkTFlkZHRpMlRZZ0JxeGVNemU0SVI4eDB6bDBDSzlLOE1sVjgwUEVsNXVYb05TSzBXQ1kzcWFZRkVMdURXbWo3WDRRZWZSNHp0Uy0zNkQ2RVU0ZmMyNnBDMGYxVWJMbWNoQk5PdXU3V3hmaXZBc2RWTDl3LTZHWjdieDY3MThGVmRyQ3ZZU2hOejJRLWt1by01bEpXWUFWOXNRRklvd1BIekU?oc=5
 
-- Taxi, Auto Unions' 3-Day Strike In Delhi-NCR Begins Today - NDTV
-  Taxi, Auto Unions'
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTBMZGRYSWp6NVdmZzc3VTU5RklhX05LUElIbWJDWEtacEpYc3ZlaEx6TWRQaktOWkt1Zy10aWRNVFA1TC1JNU9sZVdGWlJ5ZTJTYU5OYTc0X2RXd2FNWU9VNmktQjhfQ2xyNmhnUkVBb3FfX3EwWjhOSHVPZ09aTV9RSVdlbmRnWDA5OHFyUTZGUGl6RnFvbWRlcVgtZmFqMHoyaWVXUEQ1ZFHSAbMBQVVfeXFMTnF1VmJMNk45Wk5QWmd0cU1qLVZkSUFGVHJuQVNmWTdncUpxTmdWM1cyeDJMNW5ORDdueUhDTVQ1TkpaMUJfdmdaSWlDVXpkRzNGc09rQ3BySXA3VllHS1hYLVhCdDZVa0FFeUZLM2xYQnlmOWE4NmFQZUdYYXktZXRhVWUyY1FvVi0yV3VENy1KMEQ5QkhLTFVBT3d1aEhuOS11TFF0Qm9ZT29rWXBERUhzenc?oc=5
+- Morning Digest: Congress to join Tamil Nadu’s first coalition government in decades today; Marco Rubio to visit India on May 23, and more - The Hindu
+  Congress to join Tamil Nadu’s first coalition government in decades today. Marco Rubio to visit India on May
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFdGc1gtTUo5TkZxcHZJYnlxZzFkUTU1b19lc2hBaG1iNnh1YVJxTWxvbUpldlM2MVNZbTEyOHdDM2t5ZlBKeTN6QkxHd2UwUjNqUld4VEZpdG55U2tYRHJVYmtyajAwMTJSa1QwNzZ2ZjdNeURsd2dHTmNGb0dRYzlLTElqZ9IBjAFBVV95cUxNbG9WV1NfSmdxenNiYnU5c2E0aERHTUV6YjRqLXNjS3RpMEtZcG05R2pCdUFzLURkMm5GeTRUYVprMlZJcmV3eVBtRmpxSS1DdWNVbG0yVDljTFczeGVGM2lfcFdFaENHTWVKU19CVE02TjhDNDBNbTc2dzNVRmQzV1IwTnppVnBrcWJXUg?oc=5
 
-- Kolkata Man Arrested For Spying For Pakistan - NDTV
-  Kolkata Man Arrest
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2FsdG10UUJ5djJJS21jXzd1YVRKRFFPUWhpeEwzQ2FpQThrbnR1ZHdRaEZxXzg1Z01kcW55clFvRU5XSHh1VVk1YzM5WlFzNVVGOTJabmZXUGRzWVFrRU1CdXBudzFQQkx3aFhhNjRqb3VETUxtcVVUT2pRc3lWVVcxS2dOVWtlSEZYdFhR0gGWAUFVX3lxTE1ZM3AwVWhTalRPUzFiRG1tMS1zZE9tZlJra2JFNVRqakFaeWlzOEZTUmpfYjl3YW9sb1l1REVkTHdmY2lpRDJ1WmZRTjdsY0plTjY1UEVvYVpCYkhFUkhVcnVXMVZjVUN1NDVtUEV3UmR3QTZ2a3Vhd0N6a2V3R1VsQ2lPY0xrdklZeUVua3dveFFjZ0Uxdw?oc=5
-
-- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
-  Pakistani Officer Claims 2 Indian Airbases
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
-
-- Cockroach Janata Party vs National Parasitic Front: The new political battle brewing in India | India News - Hindustan Times
-  Cockroach Janata Party vs National Parasitic Front: The new political battle
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXl1dXlwVC1BODJPazl2RGVNX1M4Y1ZPLWE3U1hrdVMtVmJPUWdOQXA2Q2Z5Y2lQYXRkNWpZdTVyMjUtS0dsb2xlcmRsZ2tqX3FuaHNwQzhmNEh5OGFiSDhUajk4SHI2Mms4UXcyNmxvdkRBNzB6ZHV3LVpmc2MwU1hJeWhZbUhfV2ltTHVZYjkwTTJGUnU3ZE1aRGRoc0pyYTVFMVV2MFRWZ3VtZWpwVDVOUmRXV2RvQkVQTlVKeUlURmN1Z3pwbGpybktzMHVnOTd2QnhyLWN4V1NGcEZNM2RvYzN2MEMtSVJN0gHwAUFVX3lxTFB1WmVVTDdsaTVfelk3bEFZUkRnNEhYSjlmYi1CSEZSaUpvTEdPSlZnZS1XTHBHZXltUE5sakxWZjlzUjd0Z3N3bUhPMVhlMUZQWS1sQmMwT3B0Uk85MHZLU1p1cExuR3RCMU9FVE5penFCWGxhOTE5Z1o4d3M1SFIxZmZGdHNOUzRTS1FaSE9FUWwydEdoXzZubXFJb245bDh2Yy1SUDBVMU1vMEVXeWowLW93ams4c1UzQVNCb1I2QnV6VURDTEstbEFsUERQaENZNFZmaXM1M3pMR3dPbE9QTDR5Unc2RkVpbzBWQ245Zg?oc=5
-
-- Bride subjected to sexual abuse, killed for dowry in Nagpur - The Times of India
-  Bride subjected to sexual abuse, killed for dowry in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2h2VHVWa2ZTWk1aV2FraWxUU2hnSjVtWk1sR2lERkttOTBXX2VYMG5WOENiOTBsMHk2NlJxZ3ZuNUhSVFk0WXJjWUpKeGNhOE52ZkdVRjQ5RmRlZm5zX3ZQUEQweS1nZ1UxLVdSa0lvaGxpQ1hxQ1ZsS0t6WmRnckd6a1FEZWFzMXFINTh5Z3hBaFI3ejBySlh4UjhYUWRJMjBBbURlX1JWRWhXbk10eEdJTlEwZVHSAbwBQVVfeXFMUGRNUTlJMEJLQWdZQV80NVFoem55RkVpSWgwbkxTWXVsSjZJQ2h4OGVQc3ZWSkxPc05vMHJHWHU5cnROTUswU05mLXlOVTRmckhsb2U3RFRwY0I3NzMzb09DMC1CNGhFV3A1aEZTbjZScm5Ua3JRNnJUc25oVmFPLUF4YzFjek1MdWtRRk0yem5SZWRJRWJSLUVHd1M4LW5SZXp2SmxQVVNFd1JybWNtTGFhX2Vrd2VpOHBFV1I?oc=5
-
-- Taxi, Auto Unions' 3-Day Strike In Delhi-NCR Begins Today - NDTV
-  Taxi, Auto Unions'
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTBMZGRYSWp6NVdmZzc3VTU5RklhX05LUElIbWJDWEtacEpYc3ZlaEx6TWRQaktOWkt1Zy10aWRNVFA1TC1JNU9sZVdGWlJ5ZTJTYU5OYTc0X2RXd2FNWU9VNmktQjhfQ2xyNmhnUkVBb3FfX3EwWjhOSHVPZ09aTV9RSVdlbmRnWDA5OHFyUTZGUGl6RnFvbWRlcVgtZmFqMHoyaWVXUEQ1ZFHSAbMBQVVfeXFMTnF1VmJMNk45Wk5QWmd0cU1qLVZkSUFGVHJuQVNmWTdncUpxTmdWM1cyeDJMNW5ORDdueUhDTVQ1TkpaMUJfdmdaSWlDVXpkRzNGc09rQ3BySXA3VllHS1hYLVhCdDZVa0FFeUZLM2xYQnlmOWE4NmFQZUdYYXktZXRhVWUyY1FvVi0yV3VENy1KMEQ5QkhLTFVBT3d1aEhuOS11TFF0Qm9ZT29rWXBERUhzenc?oc=5
-
-- Kolkata Man Arrested For Spying For Pakistan - NDTV
-  Kolkata Man Arrest
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2FsdG10UUJ5djJJS21jXzd1YVRKRFFPUWhpeEwzQ2FpQThrbnR1ZHdRaEZxXzg1Z01kcW55clFvRU5XSHh1VVk1YzM5WlFzNVVGOTJabmZXUGRzWVFrRU1CdXBudzFQQkx3aFhhNjRqb3VETUxtcVVUT2pRc3lWVVcxS2dOVWtlSEZYdFhR0gGWAUFVX3lxTE1ZM3AwVWhTalRPUzFiRG1tMS1zZE9tZlJra2JFNVRqakFaeWlzOEZTUmpfYjl3YW9sb1l1REVkTHdmY2lpRDJ1WmZRTjdsY0plTjY1UEVvYVpCYkhFUkhVcnVXMVZjVUN1NDVtUEV3UmR3QTZ2a3Vhd0N6a2V3R1VsQ2lPY0xrdklZeUVua3dveFFjZ0Uxdw?oc=5
+- India U-18 Men end series with 3-3 draw against Australia - News On AIR
+  India U-18 Men end series with 3-
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFJCdGFodFVhcjgtRm8tVHEyTXhJUUFaNDJvLW91Y0JKWXhrLWp1WUJlTm9rZEtUTHlzcUo2YzNxbDZpaWNxVGZfakptNTJ3bjZDUDBCWlBCalB1Zm5kcFBoRFRySjJWVThXMHlGQ3RPU3A3WEF5ZTFGNlM0clNCb0ZmLXMwdnhjMGcwaFFUaTI?oc=5
 
 - Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
   Pakistani Officer Claims 2 Indian Airbases
@@ -188,17 +168,17 @@
   Cockroach Janata Party vs National Parasitic Front: The new political battle
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXl1dXlwVC1BODJPazl2RGVNX1M4Y1ZPLWE3U1hrdVMtVmJPUWdOQXA2Q2Z5Y2lQYXRkNWpZdTVyMjUtS0dsb2xlcmRsZ2tqX3FuaHNwQzhmNEh5OGFiSDhUajk4SHI2Mms4UXcyNmxvdkRBNzB6ZHV3LVpmc2MwU1hJeWhZbUhfV2ltTHVZYjkwTTJGUnU3ZE1aRGRoc0pyYTVFMVV2MFRWZ3VtZWpwVDVOUmRXV2RvQkVQTlVKeUlURmN1Z3pwbGpybktzMHVnOTd2QnhyLWN4V1NGcEZNM2RvYzN2MEMtSVJN0gHwAUFVX3lxTFB1WmVVTDdsaTVfelk3bEFZUkRnNEhYSjlmYi1CSEZSaUpvTEdPSlZnZS1XTHBHZXltUE5sakxWZjlzUjd0Z3N3bUhPMVhlMUZQWS1sQmMwT3B0Uk85MHZLU1p1cExuR3RCMU9FVE5penFCWGxhOTE5Z1o4d3M1SFIxZmZGdHNOUzRTS1FaSE9FUWwydEdoXzZubXFJb245bDh2Yy1SUDBVMU1vMEVXeWowLW93ams4c1UzQVNCb1I2QnV6VURDTEstbEFsUERQaENZNFZmaXM1M3pMR3dPbE9QTDR5Unc2RkVpbzBWQ245Zg?oc=5
 
-- Bride subjected to sexual abuse, killed for dowry in Nagpur - The Times of India
-  Bride subjected to sexual abuse, killed for dowry in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2h2VHVWa2ZTWk1aV2FraWxUU2hnSjVtWk1sR2lERkttOTBXX2VYMG5WOENiOTBsMHk2NlJxZ3ZuNUhSVFk0WXJjWUpKeGNhOE52ZkdVRjQ5RmRlZm5zX3ZQUEQweS1nZ1UxLVdSa0lvaGxpQ1hxQ1ZsS0t6WmRnckd6a1FEZWFzMXFINTh5Z3hBaFI3ejBySlh4UjhYUWRJMjBBbURlX1JWRWhXbk10eEdJTlEwZVHSAbwBQVVfeXFMUGRNUTlJMEJLQWdZQV80NVFoem55RkVpSWgwbkxTWXVsSjZJQ2h4OGVQc3ZWSkxPc05vMHJHWHU5cnROTUswU05mLXlOVTRmckhsb2U3RFRwY0I3NzMzb09DMC1CNGhFV3A1aEZTbjZScm5Ua3JRNnJUc25oVmFPLUF4YzFjek1MdWtRRk0yem5SZWRJRWJSLUVHd1M4LW5SZXp2SmxQVVNFd1JybWNtTGFhX2Vrd2VpOHBFV1I?oc=5
+- NIA arrests Kolkata resident for spying for ‘Pak’ on espionage charges - The Times of India
+  NIA arrests Kolkata resident for spying for ‘
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRldlb21oMHZ3SDlMTDd0ZjhnTGRvdkpKcDhGTl9ZRERUVUVic0xoY1RmRGFhS2dHc0dLRHd1RWFjTjVUX1RfaGpqNnJLaWhfVFRwZ1FIaXlHWGZKVFFBdDFuYXdxRHBlTl82ZnU4ZnNSd1pBOUVNZ0MxN1ljdlNhVlRGTW0tWTZWOUUxNDl5V0FmRXBwVUdDd1M1QmVBamVZNTAzTmZ1ek5MRVRFSVFxcjhpZHc1dHBVaU1hY3JxMTdvdVYzN3lqZVd2UUlnZzdveFHSAdcBQVVfeXFMTmd0bldXSG5IMVdBS1AtNlNIa2FWMjU4cEoyVEluVnphS0RuVVdhblI5VF9CN3dkTFlkZHRpMlRZZ0JxeGVNemU0SVI4eDB6bDBDSzlLOE1sVjgwUEVsNXVYb05TSzBXQ1kzcWFZRkVMdURXbWo3WDRRZWZSNHp0Uy0zNkQ2RVU0ZmMyNnBDMGYxVWJMbWNoQk5PdXU3V3hmaXZBc2RWTDl3LTZHWjdieDY3MThGVmRyQ3ZZU2hOejJRLWt1by01bEpXWUFWOXNRRklvd1BIekU?oc=5
 
-- Taxi, Auto Unions' 3-Day Strike In Delhi-NCR Begins Today - NDTV
-  Taxi, Auto Unions'
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTBMZGRYSWp6NVdmZzc3VTU5RklhX05LUElIbWJDWEtacEpYc3ZlaEx6TWRQaktOWkt1Zy10aWRNVFA1TC1JNU9sZVdGWlJ5ZTJTYU5OYTc0X2RXd2FNWU9VNmktQjhfQ2xyNmhnUkVBb3FfX3EwWjhOSHVPZ09aTV9RSVdlbmRnWDA5OHFyUTZGUGl6RnFvbWRlcVgtZmFqMHoyaWVXUEQ1ZFHSAbMBQVVfeXFMTnF1VmJMNk45Wk5QWmd0cU1qLVZkSUFGVHJuQVNmWTdncUpxTmdWM1cyeDJMNW5ORDdueUhDTVQ1TkpaMUJfdmdaSWlDVXpkRzNGc09rQ3BySXA3VllHS1hYLVhCdDZVa0FFeUZLM2xYQnlmOWE4NmFQZUdYYXktZXRhVWUyY1FvVi0yV3VENy1KMEQ5QkhLTFVBT3d1aEhuOS11TFF0Qm9ZT29rWXBERUhzenc?oc=5
+- Morning Digest: Congress to join Tamil Nadu’s first coalition government in decades today; Marco Rubio to visit India on May 23, and more - The Hindu
+  Congress to join Tamil Nadu’s first coalition government in decades today. Marco Rubio to visit India on May
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFdGc1gtTUo5TkZxcHZJYnlxZzFkUTU1b19lc2hBaG1iNnh1YVJxTWxvbUpldlM2MVNZbTEyOHdDM2t5ZlBKeTN6QkxHd2UwUjNqUld4VEZpdG55U2tYRHJVYmtyajAwMTJSa1QwNzZ2ZjdNeURsd2dHTmNGb0dRYzlLTElqZ9IBjAFBVV95cUxNbG9WV1NfSmdxenNiYnU5c2E0aERHTUV6YjRqLXNjS3RpMEtZcG05R2pCdUFzLURkMm5GeTRUYVprMlZJcmV3eVBtRmpxSS1DdWNVbG0yVDljTFczeGVGM2lfcFdFaENHTWVKU19CVE02TjhDNDBNbTc2dzNVRmQzV1IwTnppVnBrcWJXUg?oc=5
 
-- Kolkata Man Arrested For Spying For Pakistan - NDTV
-  Kolkata Man Arrest
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2FsdG10UUJ5djJJS21jXzd1YVRKRFFPUWhpeEwzQ2FpQThrbnR1ZHdRaEZxXzg1Z01kcW55clFvRU5XSHh1VVk1YzM5WlFzNVVGOTJabmZXUGRzWVFrRU1CdXBudzFQQkx3aFhhNjRqb3VETUxtcVVUT2pRc3lWVVcxS2dOVWtlSEZYdFhR0gGWAUFVX3lxTE1ZM3AwVWhTalRPUzFiRG1tMS1zZE9tZlJra2JFNVRqakFaeWlzOEZTUmpfYjl3YW9sb1l1REVkTHdmY2lpRDJ1WmZRTjdsY0plTjY1UEVvYVpCYkhFUkhVcnVXMVZjVUN1NDVtUEV3UmR3QTZ2a3Vhd0N6a2V3R1VsQ2lPY0xrdklZeUVua3dveFFjZ0Uxdw?oc=5
+- India U-18 Men end series with 3-3 draw against Australia - News On AIR
+  India U-18 Men end series with 3-
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFJCdGFodFVhcjgtRm8tVHEyTXhJUUFaNDJvLW91Y0JKWXhrLWp1WUJlTm9rZEtUTHlzcUo2YzNxbDZpaWNxVGZfakptNTJ3bjZDUDBCWlBCalB1Zm5kcFBoRFRySjJWVThXMHlGQ3RPU3A3WEF5ZTFGNlM0clNCb0ZmLXMwdnhjMGcwaFFUaTI?oc=5
 
 - Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
   Pakistani Officer Claims 2 Indian Airbases
@@ -208,17 +188,37 @@
   Cockroach Janata Party vs National Parasitic Front: The new political battle
   🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXl1dXlwVC1BODJPazl2RGVNX1M4Y1ZPLWE3U1hrdVMtVmJPUWdOQXA2Q2Z5Y2lQYXRkNWpZdTVyMjUtS0dsb2xlcmRsZ2tqX3FuaHNwQzhmNEh5OGFiSDhUajk4SHI2Mms4UXcyNmxvdkRBNzB6ZHV3LVpmc2MwU1hJeWhZbUhfV2ltTHVZYjkwTTJGUnU3ZE1aRGRoc0pyYTVFMVV2MFRWZ3VtZWpwVDVOUmRXV2RvQkVQTlVKeUlURmN1Z3pwbGpybktzMHVnOTd2QnhyLWN4V1NGcEZNM2RvYzN2MEMtSVJN0gHwAUFVX3lxTFB1WmVVTDdsaTVfelk3bEFZUkRnNEhYSjlmYi1CSEZSaUpvTEdPSlZnZS1XTHBHZXltUE5sakxWZjlzUjd0Z3N3bUhPMVhlMUZQWS1sQmMwT3B0Uk85MHZLU1p1cExuR3RCMU9FVE5penFCWGxhOTE5Z1o4d3M1SFIxZmZGdHNOUzRTS1FaSE9FUWwydEdoXzZubXFJb245bDh2Yy1SUDBVMU1vMEVXeWowLW93ams4c1UzQVNCb1I2QnV6VURDTEstbEFsUERQaENZNFZmaXM1M3pMR3dPbE9QTDR5Unc2RkVpbzBWQ245Zg?oc=5
 
-- Bride subjected to sexual abuse, killed for dowry in Nagpur - The Times of India
-  Bride subjected to sexual abuse, killed for dowry in
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2h2VHVWa2ZTWk1aV2FraWxUU2hnSjVtWk1sR2lERkttOTBXX2VYMG5WOENiOTBsMHk2NlJxZ3ZuNUhSVFk0WXJjWUpKeGNhOE52ZkdVRjQ5RmRlZm5zX3ZQUEQweS1nZ1UxLVdSa0lvaGxpQ1hxQ1ZsS0t6WmRnckd6a1FEZWFzMXFINTh5Z3hBaFI3ejBySlh4UjhYUWRJMjBBbURlX1JWRWhXbk10eEdJTlEwZVHSAbwBQVVfeXFMUGRNUTlJMEJLQWdZQV80NVFoem55RkVpSWgwbkxTWXVsSjZJQ2h4OGVQc3ZWSkxPc05vMHJHWHU5cnROTUswU05mLXlOVTRmckhsb2U3RFRwY0I3NzMzb09DMC1CNGhFV3A1aEZTbjZScm5Ua3JRNnJUc25oVmFPLUF4YzFjek1MdWtRRk0yem5SZWRJRWJSLUVHd1M4LW5SZXp2SmxQVVNFd1JybWNtTGFhX2Vrd2VpOHBFV1I?oc=5
+- NIA arrests Kolkata resident for spying for ‘Pak’ on espionage charges - The Times of India
+  NIA arrests Kolkata resident for spying for ‘
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRldlb21oMHZ3SDlMTDd0ZjhnTGRvdkpKcDhGTl9ZRERUVUVic0xoY1RmRGFhS2dHc0dLRHd1RWFjTjVUX1RfaGpqNnJLaWhfVFRwZ1FIaXlHWGZKVFFBdDFuYXdxRHBlTl82ZnU4ZnNSd1pBOUVNZ0MxN1ljdlNhVlRGTW0tWTZWOUUxNDl5V0FmRXBwVUdDd1M1QmVBamVZNTAzTmZ1ek5MRVRFSVFxcjhpZHc1dHBVaU1hY3JxMTdvdVYzN3lqZVd2UUlnZzdveFHSAdcBQVVfeXFMTmd0bldXSG5IMVdBS1AtNlNIa2FWMjU4cEoyVEluVnphS0RuVVdhblI5VF9CN3dkTFlkZHRpMlRZZ0JxeGVNemU0SVI4eDB6bDBDSzlLOE1sVjgwUEVsNXVYb05TSzBXQ1kzcWFZRkVMdURXbWo3WDRRZWZSNHp0Uy0zNkQ2RVU0ZmMyNnBDMGYxVWJMbWNoQk5PdXU3V3hmaXZBc2RWTDl3LTZHWjdieDY3MThGVmRyQ3ZZU2hOejJRLWt1by01bEpXWUFWOXNRRklvd1BIekU?oc=5
 
-- Taxi, Auto Unions' 3-Day Strike In Delhi-NCR Begins Today - NDTV
-  Taxi, Auto Unions'
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTBMZGRYSWp6NVdmZzc3VTU5RklhX05LUElIbWJDWEtacEpYc3ZlaEx6TWRQaktOWkt1Zy10aWRNVFA1TC1JNU9sZVdGWlJ5ZTJTYU5OYTc0X2RXd2FNWU9VNmktQjhfQ2xyNmhnUkVBb3FfX3EwWjhOSHVPZ09aTV9RSVdlbmRnWDA5OHFyUTZGUGl6RnFvbWRlcVgtZmFqMHoyaWVXUEQ1ZFHSAbMBQVVfeXFMTnF1VmJMNk45Wk5QWmd0cU1qLVZkSUFGVHJuQVNmWTdncUpxTmdWM1cyeDJMNW5ORDdueUhDTVQ1TkpaMUJfdmdaSWlDVXpkRzNGc09rQ3BySXA3VllHS1hYLVhCdDZVa0FFeUZLM2xYQnlmOWE4NmFQZUdYYXktZXRhVWUyY1FvVi0yV3VENy1KMEQ5QkhLTFVBT3d1aEhuOS11TFF0Qm9ZT29rWXBERUhzenc?oc=5
+- Morning Digest: Congress to join Tamil Nadu’s first coalition government in decades today; Marco Rubio to visit India on May 23, and more - The Hindu
+  Congress to join Tamil Nadu’s first coalition government in decades today. Marco Rubio to visit India on May
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFdGc1gtTUo5TkZxcHZJYnlxZzFkUTU1b19lc2hBaG1iNnh1YVJxTWxvbUpldlM2MVNZbTEyOHdDM2t5ZlBKeTN6QkxHd2UwUjNqUld4VEZpdG55U2tYRHJVYmtyajAwMTJSa1QwNzZ2ZjdNeURsd2dHTmNGb0dRYzlLTElqZ9IBjAFBVV95cUxNbG9WV1NfSmdxenNiYnU5c2E0aERHTUV6YjRqLXNjS3RpMEtZcG05R2pCdUFzLURkMm5GeTRUYVprMlZJcmV3eVBtRmpxSS1DdWNVbG0yVDljTFczeGVGM2lfcFdFaENHTWVKU19CVE02TjhDNDBNbTc2dzNVRmQzV1IwTnppVnBrcWJXUg?oc=5
 
-- Kolkata Man Arrested For Spying For Pakistan - NDTV
-  Kolkata Man Arrest
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOR2FsdG10UUJ5djJJS21jXzd1YVRKRFFPUWhpeEwzQ2FpQThrbnR1ZHdRaEZxXzg1Z01kcW55clFvRU5XSHh1VVk1YzM5WlFzNVVGOTJabmZXUGRzWVFrRU1CdXBudzFQQkx3aFhhNjRqb3VETUxtcVVUT2pRc3lWVVcxS2dOVWtlSEZYdFhR0gGWAUFVX3lxTE1ZM3AwVWhTalRPUzFiRG1tMS1zZE9tZlJra2JFNVRqakFaeWlzOEZTUmpfYjl3YW9sb1l1REVkTHdmY2lpRDJ1WmZRTjdsY0plTjY1UEVvYVpCYkhFUkhVcnVXMVZjVUN1NDVtUEV3UmR3QTZ2a3Vhd0N6a2V3R1VsQ2lPY0xrdklZeUVua3dveFFjZ0Uxdw?oc=5
+- India U-18 Men end series with 3-3 draw against Australia - News On AIR
+  India U-18 Men end series with 3-
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFJCdGFodFVhcjgtRm8tVHEyTXhJUUFaNDJvLW91Y0JKWXhrLWp1WUJlTm9rZEtUTHlzcUo2YzNxbDZpaWNxVGZfakptNTJ3bjZDUDBCWlBCalB1Zm5kcFBoRFRySjJWVThXMHlGQ3RPU3A3WEF5ZTFGNlM0clNCb0ZmLXMwdnhjMGcwaFFUaTI?oc=5
+
+- Pakistani Officer Claims 2 Indian Airbases Were Hit. They Don't Exist - NDTV
+  Pakistani Officer Claims 2 Indian Airbases
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0lPVFdsMW5NYmdNZ2FEUDJ6N3FUeVp6aFg3SjNldzV1T1VzSFVQVHU5MjE3bGJCOGdMRTZFOXN4WFJNanY2aDhzdktUS2d5SXJGSlRMQ3dURHViRnlfTFpSdGsxc0l3VzdVRmV3djkxcGNCaTA3VHhpazZBRER0N0p5Z1Q4VEFlaGx6aTFDbHVSRTJBdHpKd1p4eVFHRGFRWUZoMThEZVdzOWNl0gG0AUFVX3lxTFAzRUdBRUdKTjI0akRMUzFGTF9CMW8xbExmVlpBeGF6V3phVXpkSnF2TUNjdkVBTHhGcHNUSFo2N1AtX0dBNWhVbXdEV21sSjlfYjZVOHJEMk13LUF4ZWY1dGtQX2lvbFNJSTVLTGlZbW9SSnlCRUdOOHJfbzVsSmVIUmlJZkE2cmFNemtreGhGYVNEODZ5RUh5QTVabXVFd0NRWTRSTGMwMFdXdDBnSEt1M01zZw?oc=5
+
+- Cockroach Janata Party vs National Parasitic Front: The new political battle brewing in India | India News - Hindustan Times
+  Cockroach Janata Party vs National Parasitic Front: The new political battle
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXl1dXlwVC1BODJPazl2RGVNX1M4Y1ZPLWE3U1hrdVMtVmJPUWdOQXA2Q2Z5Y2lQYXRkNWpZdTVyMjUtS0dsb2xlcmRsZ2tqX3FuaHNwQzhmNEh5OGFiSDhUajk4SHI2Mms4UXcyNmxvdkRBNzB6ZHV3LVpmc2MwU1hJeWhZbUhfV2ltTHVZYjkwTTJGUnU3ZE1aRGRoc0pyYTVFMVV2MFRWZ3VtZWpwVDVOUmRXV2RvQkVQTlVKeUlURmN1Z3pwbGpybktzMHVnOTd2QnhyLWN4V1NGcEZNM2RvYzN2MEMtSVJN0gHwAUFVX3lxTFB1WmVVTDdsaTVfelk3bEFZUkRnNEhYSjlmYi1CSEZSaUpvTEdPSlZnZS1XTHBHZXltUE5sakxWZjlzUjd0Z3N3bUhPMVhlMUZQWS1sQmMwT3B0Uk85MHZLU1p1cExuR3RCMU9FVE5penFCWGxhOTE5Z1o4d3M1SFIxZmZGdHNOUzRTS1FaSE9FUWwydEdoXzZubXFJb245bDh2Yy1SUDBVMU1vMEVXeWowLW93ams4c1UzQVNCb1I2QnV6VURDTEstbEFsUERQaENZNFZmaXM1M3pMR3dPbE9QTDR5Unc2RkVpbzBWQ245Zg?oc=5
+
+- NIA arrests Kolkata resident for spying for ‘Pak’ on espionage charges - The Times of India
+  NIA arrests Kolkata resident for spying for ‘
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRldlb21oMHZ3SDlMTDd0ZjhnTGRvdkpKcDhGTl9ZRERUVUVic0xoY1RmRGFhS2dHc0dLRHd1RWFjTjVUX1RfaGpqNnJLaWhfVFRwZ1FIaXlHWGZKVFFBdDFuYXdxRHBlTl82ZnU4ZnNSd1pBOUVNZ0MxN1ljdlNhVlRGTW0tWTZWOUUxNDl5V0FmRXBwVUdDd1M1QmVBamVZNTAzTmZ1ek5MRVRFSVFxcjhpZHc1dHBVaU1hY3JxMTdvdVYzN3lqZVd2UUlnZzdveFHSAdcBQVVfeXFMTmd0bldXSG5IMVdBS1AtNlNIa2FWMjU4cEoyVEluVnphS0RuVVdhblI5VF9CN3dkTFlkZHRpMlRZZ0JxeGVNemU0SVI4eDB6bDBDSzlLOE1sVjgwUEVsNXVYb05TSzBXQ1kzcWFZRkVMdURXbWo3WDRRZWZSNHp0Uy0zNkQ2RVU0ZmMyNnBDMGYxVWJMbWNoQk5PdXU3V3hmaXZBc2RWTDl3LTZHWjdieDY3MThGVmRyQ3ZZU2hOejJRLWt1by01bEpXWUFWOXNRRklvd1BIekU?oc=5
+
+- Morning Digest: Congress to join Tamil Nadu’s first coalition government in decades today; Marco Rubio to visit India on May 23, and more - The Hindu
+  Congress to join Tamil Nadu’s first coalition government in decades today. Marco Rubio to visit India on May
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFdGc1gtTUo5TkZxcHZJYnlxZzFkUTU1b19lc2hBaG1iNnh1YVJxTWxvbUpldlM2MVNZbTEyOHdDM2t5ZlBKeTN6QkxHd2UwUjNqUld4VEZpdG55U2tYRHJVYmtyajAwMTJSa1QwNzZ2ZjdNeURsd2dHTmNGb0dRYzlLTElqZ9IBjAFBVV95cUxNbG9WV1NfSmdxenNiYnU5c2E0aERHTUV6YjRqLXNjS3RpMEtZcG05R2pCdUFzLURkMm5GeTRUYVprMlZJcmV3eVBtRmpxSS1DdWNVbG0yVDljTFczeGVGM2lfcFdFaENHTWVKU19CVE02TjhDNDBNbTc2dzNVRmQzV1IwTnppVnBrcWJXUg?oc=5
+
+- India U-18 Men end series with 3-3 draw against Australia - News On AIR
+  India U-18 Men end series with 3-
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFJCdGFodFVhcjgtRm8tVHEyTXhJUUFaNDJvLW91Y0JKWXhrLWp1WUJlTm9rZEtUTHlzcUo2YzNxbDZpaWNxVGZfakptNTJ3bjZDUDBCWlBCalB1Zm5kcFBoRFRySjJWVThXMHlGQ3RPU3A3WEF5ZTFGNlM0clNCb0ZmLXMwdnhjMGcwaFFUaTI?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-20 20:11:26 UTC_
+_Last updated: 2026-05-21 02:50:59 UTC_
