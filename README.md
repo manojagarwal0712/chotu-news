@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- ‘Will get you killed in America’: Cockroach Janta Party founder Abhijit Dipke says he is getting death threats
+- Marco Rubio to arrive tomorrow for Quad huddle on May 26
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-founder-abhijit-dipke-death-threats-10702741/
+  🔗 https://indianexpress.com/article/india/quad-foreign-ministers-meeting-new-delhi-us-marco-rubio-india-visit-energy-trade-10703224/
 
-- Twisha’s mother-in-law tampered with evidence, leaked CCTV, MP government tells court
+- CBI arrests exam expert hired for NEET-UG 2026 over physics paper leak
   
-  🔗 https://indianexpress.com/article/india/twishas-mother-in-law-tampered-evidence-leaked-cctv-mp-govt-court-10702752/
+  🔗 https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-arrests-nta-expert-pune-10703193/
 
-- Two Indians conquer Mount Everest, die in ‘death zone’ during descent
+- Twisha Sharma death: Husband Samarth Singh surrenders after evading cops for 10 days
   
-  🔗 https://indianexpress.com/article/india/mount-everest-indian-climbers-die-summit-descent-10702582/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-husband-samarth-singh-jabalpur-district-court-surrender-dowry-death-10703166/
 
-- Twisha Sharma case handed over to CBI as family alleges murder, probe lapses
+- Hours after retirement party, principal falls to his death in under-construction drain
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-case-transferred-to-cbi-murder-probe-lapse-claim-10702617/
+  🔗 https://indianexpress.com/article/india/colleagues-threw-retirement-partyr-principal-fell-death-construction-drain-10702909/
 
-- Quad Foreign Ministers to meet in Delhi on May 26; Marco Rubio to visit India
+- Cockroach Janta Party vs Oggy Janta Party: Internet has a new political ‘battle’
   
-  🔗 https://indianexpress.com/article/india/quad-foreign-ministers-meeting-delhi-marco-rubio-india-visit-10702512/
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-vs-oggy-janta-party-internet-political-battle-10702750/
+
+- Paytm launches Pocket Money for teens without bank accounts: Here’s how to set it up
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/paytm-launches-pocket-money-for-teens-without-bank-accounts-heres-how-to-set-it-up-10703176/
+
+- GTA VI finally gets November launch window, confirms Take-Two
+  
+  🔗 https://indianexpress.com/article/technology/gaming/gta-vi-finally-gets-november-launch-window-confirms-take-two-10703068/
+
+- Netflix expands accessibility features as global viewing habits shift
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-expands-accessibility-features-as-global-viewing-habits-shift-10703007/
+
+- Lenovo expands Legion gaming lineup with larger tablets and a new gaming phone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/lenovo-expands-legion-gaming-lineup-with-larger-tablets-and-a-new-gaming-phone-10702804/
 
 - Spotify introduces AI audio tools, creator memberships, and ticket perks
   
   🔗 https://indianexpress.com/article/technology/spotify-introduces-ai-audio-tools-creator-memberships-and-ticket-perks-10702354/
 
-- Texas sues Meta, WhatsApp over encryption privacy claims
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/texas-sues-meta-whatsapp-over-encryption-privacy-claims-10702358/
-
-- Scientists may have found a hidden shortcut to moon that could cut spacecraft fuel costs
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/scientists-may-have-found-a-hidden-shortcut-to-moon-that-could-cut-spacecraft-fuel-costs-10701774/
-
-- OnePlus Nord CE 6 review: The basics done right
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-ce-6-review-10701681/
-
-- Tech launches today (May 21, 2026): OPPO Find X9 series, Airbuds Z1 RUZO TWS earbuds, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-today-may-21-2026-oppo-find-x9-series-airbuds-z1-ruzo-tws-earbuds-and-more-10701408/
-
-- LTM buys Randstad's Europe, Australia units in first acquisition since merger
-  The $186-million deal for Randstad expands LTM's revenue base by $500 million. The
-  🔗 https://www.livemint.com/companies/news/ltm-acquires-randstad-europe-australia-businesses-for-186million-11779428875262.html
-
-- LG India expects mid-teen revenue growth in FY27 after dampened year as localization increases
-  LG Electronics India's record quarterly profit came after broad-based demand recovery. The company rolled
-  🔗 https://www.livemint.com/companies/news/lg-electronics-india-fy27-growth-outlook-price-hike-air-conditioners-11779424246385.html
-
-- AI firm C5i revives IPO plans, eyes  ₹1,200 crore raise amid sector momentum
-  360 One-backed C5i has restarted IPO discussions to raise  ₹
-  🔗 https://www.livemint.com/companies/start-ups/c5i-course5-intelligence-ipo-ai-startups-icici-securities-360-one-asset-nuvama-fractal-analytics-enterprise-ai-11779424240043.html
-
-- Dalmia Bharat to buy JAL cement assets from Adani Group for  ₹2,850 crore
-  Dalmia Bharat will increase cement capacity by nearly 10%, or 5.2 mtpa. The acquisition of cement
-  🔗 https://www.livemint.com/companies/news/dalmia-bharat-jaiprakash-associates-cement-assets-adani-group-insolvency-11779425512365.html
-
-- Ola Electric’s home inverter play has a chemistry problem
-  The company’s decision to use expensive NMC cells instead of industry-standard LFP chemistry has led to a massive revenue shortfall
-  🔗 https://www.livemint.com/companies/news/ola-electric-shakti-battery-business-revenue-target-11779362761446.html
-
-- Expert view: Market may remain range-bound; positive on BFSI, defence, pharma, power, says Vikram Kasat of PL Capital
-  Vikram Kasat of PL Capital shares his outlook on the Indian stock market amidst macroeconomic challenges. He emphasises a range-bound
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-market-may-remain-range-bound-positive-on-bfsi-defence-pharma-power-says-vikram-kasat-of-pl-capital-11779437402888.html
-
-- Nykaa’s premium play boosts margins, but competition clouds outlook
-  Nykaa’s Q4FY26 results impressed with record margins, a
-  🔗 https://www.livemint.com/market/mark-to-market/nykaa-fsn-e-commerce-ventures-q4fy26-fashion-business-beauty-and-personal-care-ebitda-margin-dot-key-11779434124883.html
-
-- SBI Mutual Fund raises stake in Bandhan Bank. Check details
-  According to an exchange filing, SBI Mutual Fund picked 16,98,478 shares or a 0.1054% stake in Bandhan Bank on 20 May. Before the purchase,
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-raises-stake-in-bandhan-bank-check-details-11779435160954.html
-
-- Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026
-  Vodafone Idea, JSW Cement, Ola Electric Mobility, Central Bank of India, Tata Silver Exchange Traded Fund were among the most traded stocks on the NSE
-  🔗 https://www.livemint.com/market/stock-market-news/vodafone-idea-jsw-cement-ola-electric-central-bank-of-india-among-most-traded-stocks-on-nse-today-22-may-2026-11779431787172.html
-
-- ICICI Prudential Mutual Fund raises stake in PI Industries over 7%. Details here
-  ICICI Prudential Mutual Fund increased its stake in PI Industries to 7.16% from 5.12%. The fund has now purchased over 30.9 lakh
-  🔗 https://www.livemint.com/market/stock-market-news/icici-prudential-mutual-fund-raises-stake-in-pi-industries-over-7-details-here-11779430485685.html
-
-- Grand Theft Auto VI set for November 19 launch, Take-Two confirms; $8 billion in bookings eyed
-  Grand Theft Auto VI video game (GTA 6) will launch on 19 November 2026, announced Take-Two Interactive during its latest earnings report. The company also projected fiscal 2027 bookings of up to
-  🔗 https://www.livemint.com/technology/apps/gta-6-is-really-happening-on-november-19-take-two-just-put-8-billion-behind-that-claim-11779419146422.html
-
-- Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry
-  Trump postpones signing artificial intelligence order out of concern
-  🔗 https://www.livemint.com/technology/trump-postpones-signing-artificial-intelligence-order-out-of-concern-it-would-hurt-the-ai-industry-11779383596179.html
-
-- Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams
-  Google, Meta, TikTok hit by
-  🔗 https://www.livemint.com/technology/google-meta-tiktok-hit-by-eu-consumer-complaints-about-handling-of-financial-scams-11779374161340.html
-
-- Apple adds two major health features in India: Know all about Sleep apnoea alerts and hearing tests
-  Apple has introduced two major health-tracking features in India. Apple Watch users will receive sleep apnoea
-  🔗 https://www.livemint.com/technology/tech-news/apple-adds-two-major-health-features-in-india-know-all-about-sleep-apnoea-alerts-and-hearing-tests-11779355536956.html
-
-- Oppo Find X9 Ultra vs Vivo X300 Ultra: Price, camera, display and more compared
-  Oppo and Vivo have entered the flagship camera phone market in India with the X300 Ultra and Find X9 Ultra. Both devices feature high-end specs,
-  🔗 https://www.livemint.com/technology/gadgets/oppo-find-x9-ultra-vs-vivo-x300-ultra-price-specs-features-and-more-compared-11779353408835.html
-
-- Oil market could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says - CNBC
-  Oil market could enter ‘red zone’ by July as stocks dwindle ahead
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFlWaGY2ZzJQRGc4eGRtM183R29xd0x2YktYLS04NEFVY0tmTW9EdF9JZWMxOFRxVU9YcEZWUXFuT2VVTVZLdUdxS2xpdGxmWFlhdGMwMnpmdkc3TW5tVWFtaG5OYThwUlJ4aHpWTVlIQWdfZl8wWnFnUW42TDM5RdIBhgFBVV95cUxPLWUtWkhzVG5EcWJfdnMtdUgtSWprR0JUamlmUms4b0lvcHNTdkVrOEhmY2wyRUUxTklJeWVHRUlYSllVaWF2LVBwVWV3aGV5Z09xemR5VGRqSm1yOElERGhPQThVODBhVjZocXpiWlM5WEdWRXhJYXgzUk4zZ0Y3YW1ybV8tUQ?oc=5
-
-- US Stocks Steady as Traders Await Hormuz Progress: Markets Wrap - Bloomberg.com
-  US Stocks Steady as Traders
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkFPLUo2Z3JHU0wxVFJKQUVGdmg1TV9jSUFNUVg3ZzhweUZrbFRLZ3EycGRtZi1scUk0WnNSSVFIRmNGcGxNV2o0QU5xUm1KM2cyZmFEMFk3MUlJZkN4N1RKTjl5THBvQXJkVklmbEpyRndod3pFUFFCeTBrb2JfY2RZc1l6b2J4aXhQdlN6dXVJb0x0TWh0MEQ4dEFyU3lReGg3TjlrVXRkazlrTjRVcEdBbVQ?oc=5
-
-- Stock markets rebound in early trade - The Hindu
-  Stock markets rebound in early
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNanVZSzYwb1BHUVJXMTlLbDhEblAzTV9NXzk5YXE5cnZzZUFRSnFKc1V2QXIxeFdyTlA1QXhlNEQtVEFweGlENEluREJkUkRBS3FwU1dpaGEtSi1ibmdLTGFTVERObDhlUGJCYTMtMDB2V1RLS2JZaWlIYmNDUFZIa2hqdnNYS1NmR0dfMVlYU2dVUE5ONHlhWjdBNWMySkXSAaYBQVVfeXFMTWhVUVVQbEVyQVF1NWtwZGx4R01DeDRFb3EyejVWUm84U3UtMDA1MndTcEF6NkpTU05fdkcyNlNCckNsTmJmLTNEeVRhZDl2U1FpcmliT1dCYXUwdXNyQjVPQzR3OHczZDN5UU9renBqNlNUQlVKR0hiclp1aFZJV1lFSmw0c2ZNaUNSWWJwY3V1dTdNMGNOVk9leExqZTZpUldaTWtHdw?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex jumps over 400 pts, Nifty tops 23,750; Trent up 3%, Axis Bank 2% - The Economic Times
-  Sensex jumps over 400 pts, Nifty tops 23,750; Trent up 3%, Axis Bank 2%
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRmlnaGp5Qjhzc0NRUzMyQThzcU9NOG83d0JlSEVQNlRJWllEOGFBRl9CQ1VyZXUzMzVRZ2xBdnBJOExfajZ5TDU0LUNhMmV0RDVnV002cDJCRm9ETGZHeUhzQXNZWVd6X1E2am5ndUdPeVVWbnBEbERSVlN2M3BqZzEwTEE1WFVDbnRJMXhmVXRxVXRqaVU5OEl0cDhiMWtDemQ2ZWl6dExoZVpTM29uQXdaVWJaVy1DSU1Nc2VMRGRQeFpNRFhPT1lsdVdyRzdaaW1yZ3FncTZ1MHM4NUN1RHlNRHpKQm5SY1VPOUJYSFRPNXZGTGlJRXVVSkxnUQ?oc=5
-
-- Stock Market LIVE Updates, Sensex Today: Sensex Jumps 500 Points, Oil Still Above $104 A Barrel - NDTV
-  Stock Market LIVE Updates, Sensex Today: Sensex Jumps 500
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZzBHSWpydmlEWkt4T2Fic3pUanNhdjFuUmVIV2g4dlRQbm90dTMyWnRzY3pUOVAxdWtSQktuaFljd0F2RmtFd3JoNFFfRkgtd2wtRzhWdDVLb3FwaG5qdXdxekliLWJBR2wwc1FWd01VQVYxaFZiT2d5Y2NOVFY5ajg2eVpZemhrdGdyUVdpN29TRUNMeEozQ2txaHJVeENHOURsMVgwTE5tc3BvSDNGLUpFVzVPMm5XeVZGd2p6Y2lEYWplb2RZVk1EMUNtWmlLOFBGd0Y3WG5UZGhoSnVKMi1nSk5ad9IB7gFBVV95cUxQODFKQTJESFpYMVNUdE5BbHZjUlJRR3hVVUtyNFlYdnNrUko0Rm9IQnJUcXhpZThJaUIzcGNZTWZaMW1PamtISWpEcHY2djc3WklkQy1uYmpJSXdSNVZDLTRoWDBvZ0pkRFUtcU9LYWF1LW9xdmJaU2JRSE5CdEY2Q2lGdkMyTzBGQ0FlV0JZUzlraFdDR2lqdEx3RTl0YkpBSHpfU29LS0U3ZWpSM09TVzdIRzVnMzZ1ZUtWX2NIWGRIR29DZHRfdWZfLWx4Ymd4ZDJPQkRpQ1hqb0tvVTNDcUNGSWtkM2JsM2d0Vkx3?oc=5
-
-- Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector
-   Bernstein has initiated coverage on six Indian pharma stocks, with Zydus Lifesciences as its top choice. Key drivers include AI-led innovation, incremental advancements in niche areas, and improved quality culture.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bernstein-initiates-coverage-on-6-pharma-stocks-cites-3-major-tailwinds-for-healthcare-sector/articleshow/131260196.cms
-
-- Bank Nifty near key resistance zone; breakout above 54,300 crucial: Ajit Mishra
-  Indian equity markets are consolidating within a narrow range. Nifty struggling to break 24,000 and Bank Nifty showing relative strength. Traders are advised to use range strategies and defined-risk options.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/bank-nifty-near-key-resistance-zone-breakout-above-54300-crucial-ajit-mishra/articleshow/131260125.cms
-
-- Gold import duty hike threatens decade-low volumes for jewellery retailers in FY27, warns Crisil
-  The organised gold jewellery retail sector is set for a steep 13–15% volume decline to a decade low in FY27. Rising prices, weaker affordability and a shift toward coins and bars are pressuring jew
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-import-duty-hike-threatens-decade-low-volumes-for-jewellery-retailers-in-fy27-warns-crisil/articleshow/131260129.cms
-
-- Indian real estate’s big shift: Domestic capital emerges as the new growth engine, say industry experts
-  Indian real estate is seeing a major shift. Domestic investors are now leading capital flows, moving away from foreign dependence. Branded developers and new growth areas will attract more investment.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indian-real-estates-big-shift-domestic-capital-emerges-as-the-new-growth-engine-say-industry-experts/articleshow/131260026.cms
-
-- Markets to enter prolonged “drag phase,” not deep correction:  Vikas Khemani
-  Vikas Khemani anticipates a consolidation phase for Indian equities rather than a sharp breakout. He cites persistent global macro uncertainty and sticky energy prices.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-to-enter-prolonged-drag-phase-not-deep-correction-vikas-khemani/articleshow/131259783.cms
-
 - India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- India, African Union Postpone New Delhi Summit Amid Ebola Outbreak - NDTV
-  India, African Union Postpone New
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3RKaDRSRU9ucHJJRDFBcVBBWXYzQmZIRGlNYnBwWjZ2R0phV2ZQVG0tQmZEVGVSejAxSlRIQU12UkR3TVJTM205enE2UWdsaU00U3VWRGJTNjRLQXM4M0VLc2xKcUg2VEFxUkJmQVY0VmprSzE0cWVoaDlyOWtHWXNMbXRwTFdrQnJ0djRIVnBaaHhRQ1N3NHZSSEdjal9McFlhd1JFV3pBQdIBsgFBVV95cUxOTk4zTm96dm9QTjMtSXoyb042b0p5d0IyWnRJUktvLXBLUWVQeEl6TEtScER0b0NrTW9EQmlEUkFFQjdYZ0xieVpiWjhaXzJ4WWZpeEc3OGRQZ0ZkREo5NjN1bHhYaThXbXY4MFZQLUhHM0NBdUczc2d6T25LZlROc244S3B5SElSUFk3VFFDWUVlbTNQc2pUVHE5UFFic3lZcmV2aF9MMWIwbUZCUlYzelNB?oc=5
+- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
+  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
 
-- Punjab Police uncover Major Network Behind Threatening Bomb Hoax Emails Across India - Newsonair
-  Punjab Police uncover Major Network Behind Threatening
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09lQUZrLXk0dWo0MDJnQ005UGk4ZkZmaVAyZjFTU1BKOEY1dnBVWmNFeGFoSjZOeW5PdHdZQkhPN3o5U3p3X09BYmh0RHNPU1FYOHhVbmhDb0huMVpUQUdDeW9Ib1R4dW02RzhNaS0zbHNuRWladTNHcmhMdzBJSXE2ZENWU1pzaWFHYUo1NUIzWWx2VUVUU05Bd25MQmlWTDBGOWJBNjZ3LXV5SVdPcGJ0MmU?oc=5
+- BJP's Nationwide Blueprint To Mark 12 Years Of PM Modi-Led Government - NDTV
+  The BJP's Nationwide Blueprint To Mark 12 Years
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWR4QVZ3M1dlOHY2WmxUd010Q3ZBNnhWWEQ4UzdRQV9Mc0xvX1c1bGN1Unk5VnJsaUlNbF9yOHZ1ZmwxNzhuN01IalA0Q2xEQkU5Q191TEdrXzZTZGFrYWZjYzVtc0JNcWduQ19FbG1ZbWRDQ3dySFZfNTRmVzRQN2tpWGg4SjJsQnVkTVlwTUxLUnppMVdNa1lXM1hHU0s3VEFRWHNvSU1LZmFxLVHSAbYBQVVfeXFMTkQ0Mkt5Z0w4VFBsa21nRjJnY2dnYU9TWkNfUkQyeldxSUFWdmFfZ1hxdkx3czg1QzBQd2xuUkYtVjN5UzBldEh5V1VDZVUxcmxNTkYxSWQ1MEY5bnJuNDhiZ0tEeDA3dEVfODJpZzBYZkJFUEo4U0Z1a054WXUtSm1rcDh2ZFVhd2ZGSWNDYmxvMEZXajlfOTVGM2dsOWUtcVRKNzc0d0ZkZjA0cnZwQ2dsOXNsTEE?oc=5
 
 - Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
   Cockroach Janta Party (CJP)
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
 
-- Election Commission of India announces Rajya Sabha polls for 24 seats on June 18 - The Hindu
-  Election Commission of India announces Rajya Sabha polls for 24 seats
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGk3eWVnaGtGeUxMRFBIeVlsTVdJNVFqb3RMc0M2SEdudXdWanBsWHZHSjJHc3hPVnhTNWtiMWc1Ni1PUUdkRjJaVXFLcUlHbE5qMEpTeFV2TTZUamsxRWRQWVdVd29jNzlTZGpFaXA4SDRkU3pwcEVWc0xlTUpmS3RWQlAwbWNFQjVjaU4zdm53elJrRHdHUmxIZ0ZYYlN3R3JPTG5zMzZsOHhiSHVjekJUZk95ejZvc1JqVUplYVNsaGtOSTFVOTZPWnc1OUVxZDVhMmRR0gHcAUFVX3lxTE5DOE1Yd0JyVXVLWHc0OUVtMXdmUkhBaW5HbktnZkN0dW5zb2Z0V2dFZF9NSlp2QTM1Z2NIRjQ3amkzLVQtZUNXSjM0ZERVa1FDbDZYNHdPYmNWdmRycXd4aXdVaWJpYWhlbFBNazE2ODZVcy1Yd1RQMi1MVmNKWWJEci1jV01nOTdxZTdHbEdhb0NsM24wT29pR09MZWNDRTJDRlIyelJ3T0c5R2FOWkZFd1QyODlyZXJNci1EbTc1TUkzVEwzc3FFa1puOUg4SGVvOGFUeUtqS0Yxd08?oc=5
+- Twisha Sharma death case: After 10 days on run, husband reaches Jabalpur court to surrender - The Times of India
+  Twisha Sharma's husband reaches Jabalpur court to surrender after 10 days on
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlNGMDBodHU1eXBjRUh3c3VUUTVSNzVKZTRmQTNyYWcxRWcwb0FteU1mU182cUpyS0hZNmdsX2NJOVpfNGRoSGpwd0taemdFQjFacXk5YmNSazMwYkhjd1QtLXRpZS1YNzJsSkM2S0M5X3hxWXY5UThNVzhzZl8xNUQwM2dxVDg1UkpOVmxucGluZnV1YndFLWhaQmpQRkoydFV5UHpaQS1ZZ2xKbUg2dmtNeGRQbTFfaTR2aVVXd3NpX0FyQmhfUmpjc2hZSUhaYlIxTHhXN1lMOWpMbUNDbWREV0l1cHlBOS1JTXhR0gHzAUFVX3lxTE1EV25YMUNETk1EYm5EZWM1d2xRYVIyemE4UWxMaWVoQ3N3WXdmWElXRFkyOWs5aHVxSFZwUF94cFJGTDNkblRtNGtob1VnSGxIaGhzdkdwTzB2ZFhsQ0k0bVhPRGdOV2FybkpBa1B2WFdmLVFueFZlTDgtZkhHUmRCZVF1YWVZeERKLU9uM1BJS1BhMFZHajl2RkRrRWpBLTc4U192cGZpd0xEQU81MnE5MmZrUVJteEJnQW5SRjNrOXBxLW5DQk5XMHFqVF9XMlRRckFMV0l0aDllWmwtZHh6SDJfZGNOMGF3SkZaTEphWmJLZw?oc=5
+
+- Wipro fixes June 5 as record date for  ₹15,000 crore share buyback
+  Wipro has set June 5, 2026, as the record date for its  ₹15,000 crore share buyback. Wipro is aiming to repurchase 60 crore equity
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-fixes-june-5-as-record-date-for-rs-15-000-crore-share-buyback-11779456892637.html
+
+- Wall Street gains as investors monitor Iran peace talks
+  The Dow Jones Industrial Average rose 0.30%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-gains-as-investors-monitor-iran-peace-talks-11779456277676.html
+
+- Hindalco Q4 Results: Net profit drops 51% YoY to  ₹2,597 crore; declares final dividend of  ₹5 per share
+  Hindalco Industries reported a 51% decline in Q4FY26 net profit, totaling  ₹2,597 crore. However, consolidated revenue rose 20.
+  🔗 https://www.livemint.com/market/stock-market-news/hindalco-q4-results-net-profit-jumps-88-yoy-to-rs-2-934-crore-declares-final-dividend-of-rs-5-per-share-11779452476568.html
+
+- US stock market today: Dow, Nasdaq futures edge higher after 2-day rally; S&amp;P 500 eyes eighth weekly gain
+  Wall Street's stock futures rose as optimism grows over US-Iran peace negotiations. The S&amp;amp;P 500 is on track for an eighth consecutive weekly gain.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-nasdaq-futures-edge-higher-after-2-day-rally-s-p-500-eyes-eighth-weekly-gain-11779447420310.html
+
+- US Stock Market Today Live Updates: S&P 500 set for best weekly run since 2023; US-Iran peace talks in focus
+  S&amp;P 500 futures traded 0.10% higher, putting the index on its best weekly run since 2023. Dow Jones
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-live-updates-dow-sp-500-nasdaq-wall-street-latest-updates-on-may-22-2026-11779447612247.html
+
+- Technology usually creates jobs for young, skilled workers. Will AI do the same? - MIT News
+  Technology usually creates jobs for young, skilled workers. Will AI
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxONzk1Z0dmSmVFT2NTeGhqTFp6eXNQSDVhTExlQ1hRWndfLUdsRHowTW95VkliejZERWVGNG5jV1gzSzB3Y09pRGRiMlV3RDBUTFJEdUZLSzY3RzFIekI5MDhJOHlFelYxQjJTSlNQZV9pY09CM1Q4Tlo4ek1QS3ROdHB1Y0dKUQ?oc=5
+
+- LTM Has Issued an Offer to Acquire Randstad’s Technology and Consulting Services Business in Europe and Australia to Scale Domain-Driven Solutions and AI Services - Business Wire
+  LTM Has Issued an Offer to Acquire Randstad’s Technology and Consulting Services Business in Europe and
+  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxNc0xLZk1qYS1vQjBZXzlZLVVNUmVOaEg3a0tjSkRFZWNaY25ZMzlkcjkxWV81c3FhcHJtVVo4YmNuaGwzRUdzM2dvZjBaamlIYnlOajktazJWeWJCWnZBTDVudmx5X2wwREVRdnVsTjRrRHM1SzBuOWVIQmItSk5uOTI1dEllb0hwYzdhR2U0RFZjY2RtdW9YWUNTYU5CM3h6X1pDYTUtTHhHWnpHMi1VZUc5dlpDc1ZKM1VNdHgxS1Q5dExodDVVa240NUZzLUhwbHlpWnRRY1Ewa0w3NTFOMlllOVFjTC1wRDlxRE9xS2ZSQzhzX3RVdEMxZHo2OGZ4WkRLLXZ0UHN6aFVCd2xDY0xwMWoySUVSdVJxM2pnblZGRnRLdWNBOFJqX0NTVjBQM0dhSG1KN3N6a0dybzdn?oc=5
+
+- Kaynes Technology stock: Down 61% but still not a clear buy - Value Research
+  Kaynes Technology stock: Down 61% but still
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGhwTXMtZVRRMGtRbWJleDVGd0ZNUnBEVDZUTE9ia1dwcHpoWGZwOGZrbzR1R0dhYktJZkx5X0FubGtVUzdYN0lNTGdqT0phdExCbmFOUWh4cWlDU1BUcnd2UkZ4M2hwRngwQ09tRzhiLXFiMGxydS00OGg4VGN0V3lONnlySm5EdnB2X0U3d2dpbkRzLU9mcG1mR21kM3NrV2xVSEZlT3Y4VFB1T1dIMWlxUnFLVDZv?oc=5
+
+- BSNL perfects indigenous 4G network, technology brings India to 4th rank worldwide: Pemmasani - ET Telecom
+  The Indian telecoms giant has launched its first 4G
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeXZMc0pKQ0cxWFFFYk1DM0dIVEd4TFNkRW9sNVEwRVc0c09pUmM1cUVoSkJOV3hGbklNUnBpUllIVGVacmVsQVMxT1FtcmhOMUJLQVc2eE9NT0dmbHZka3E3OHhaeWZxMWJiQktUZjRqWVR6bzN1Y1V2c0VQeDl3V3o3SDdKaXhLSm15dk1EdHVWVjBJd1FQMktrVzAzVDdqaUxPTkRoNEVrNXUxVjBYelJCRUhFYVJ4QzF0VDlvOXE3Tk1vU2JfM2tDamdmd2xocUxGNkV6QVdKUzRGMXUzVjFRQlMwSXJRWkg4VmtMeldqcThk0gH6AUFVX3lxTFBuYkNyb2NvaVAxTkxTSUloMl9hSzl3YUhrTFZCVm9JY2pqMEVKaThSU1ZXRzEyQkZLVEpvOGdWZHlCWkdsdGo0OXNfY3JJbk5VeEVCUGw1SV9qM2k0OGRhaXR6cmZoRHkyZFRtaENuczFhbTB1MnBJY3dQS3FkY1FNNHZLYXFMT2NoWF90ZjhwTUcyLW9ITlBfem80UjFEODZWZFhkY1pHVlJ0VGszN2ZPQWdrLTczOGsyZGxxVmxRR3g4aXZkSFg0N1Frd2g2cHBzQkhKQy1EMGVvTEU5QmNUSG84MVZFRDZnSk1SUWpnb2dTR0k1bHp3LVE?oc=5
+
+- GlobalFoundries launches Quantum Technology Solutions to scale U.S. quantum manufacturing - GlobalFoundries
+  GlobalFoundries launches Quantum Technology Solutions to
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkwzY2ZiUXMxTmgwM19lMXRyUGozN0lHaW40MHJUNXBQSnhIVGgtTW5DOExzQXdLOThYUUQ5c2RHMVY0andhb1c4dGRmeUUzQWZYZV95ZHVsY3FHdXQtcVBueVF0T2hfQ3BuVUFYSGFQTFhMT0UxbmdlZVJGZVJtSm1udVNwaV9NNUl3bk9seXVHdmVxSHR4TDBZNzhGR0Q3NWlORE0wcGs1UmdhVTl3SC1UcGZ3cHFGR0dWZA?oc=5
+
+- Dow jumps 300 points to record as Wall Street heads for winning week, Treasury yields ease: Live updates - CNBC
+  Dow jumps 300 points to record as Wall Street heads for winning week, Treasury yields ease. Iran war peace hopes; Take-Two surges - what’s moving markets.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB6Z1RlN284dVllbnhMYUlsajJBQVRNNzI2dUJETlpNU2ZvRWZQMDI4WW5RUnQ0UDVhSE9sTnQ2NF9kODZ1bUV5STBlVmt3bWRGWVFqMkNnb2kwUGFqbThFc2ZGUUNvSWFCSUhYN19GdlZhUTlGbzEw0gF8QVVfeXFMUFBVQUFoSHIxTDBZcGh4Q3NFbHpEM2ZoTjZISUZIRk5ORGdVWndtY255RGhZd1A0ajV6MkxzTkpKcXpHM3gzMVB5aS1lSFZWUzRfVmlBaW10d0dHVjdMZzNKWkNzWkVRLUZiRWtZYl8yNWZSa1ZEeHJhX2JsUw?oc=5
+
+- India’s maize-led ethanol story shows how quickly policy can move markets; but course correction is needed - Down To Earth
+  India’s maize-led ethanol story shows how quickly policy can move markets
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVVxWTd1UWMxaDg3SWJxS01qZXJ3TWFkSVJySnhxck1WeFZOQWpWcWhwT1laRXdZcVItMEFxOWFDc1F6OVVKU3ZfMXIwcC1CbGwzWjlKTVFNcHpDYmRuaVBJUk5PcExlbkgxQzlQVTlkZ2VYdEhxOWVkSkExal9TUUxEM2tvNzVEdEN5Nmh2SXNaRnBLdzVYMXRndnl4ZFFZYzh3OWEwYUVWd1JFWG9yTTBGOHdFMV91VkRkNlJqZGp6QnZIeEw3cjluVUdOS3VRVFVIWjBOX2wxZ9IB5wFBVV95cUxPQWx5eVlUX1hMOXduZ3RUYXRhX1pLVmozNjR1MVFlUEVjTjBSSlY2YXVnbTgtV2diNGJpV1ZzY0wtbzU5U1lfLUtNYzJZemx1ajAzdTV6VG1CUnFxSjJJa0FIWXJmR3hLdHlQbERqWjNzOGZFMzU1ZnlfT1pncGhNOGtoaHpyUmFsUHVGVG1KNURJSmlqOExNYXdwYzlCTjhuSmZlbUp0QW1RX0JQNUJwaHhUUTlKYkZwOXQzSEtyQjVnNDIzN3ZRWGJhTVFDYnBuSnhPZkNlaE4ydWU4LTlyYzNnUkwxSDQ?oc=5
+
+- Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief - The Guardian
+  Oil markets nearing ‘red zone’ as Iran
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmRrRl9VLVF0V1liam92bXV0Z01GdUlvVDdQZzF5ZHNNYS04emxnQWhNbFBZNE96cVNUZ2pPT2xpR1YxdUV2TWJTT3J6ZlBfU3dWaTNYMGxMZFpONGdNOWRoTXdtNGNUUmYyTWljaTVHQWRaeVhFUXNwNFBZajUwSmlrTWlYWU9oTFpUblZvT3RFQndteDhwVUlQRGhpYnBIb2ZhUW1xTmFpVkxoUksxWGU0dG4?oc=5
+
+- Stock markets rebound led by banks, positive global trends - The Hindu
+  Stock markets rebound led by banks, positive
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWVUVFEzYkVqOE9OSmpvRzNWQkhwLURjVzJGdzV3VjJoN1YtcVBVN3I0Ylc1RGpzRTNsVnctcFJLNUpGVDQxZnA0NXg0eG1KbEVCOTg3MVd4SmwtZFl1SUFCRnJLTHlORkpBckVFXy1QYlJ0dDZXbmRlQUttTGdqakh1aG9zVGRReWlSU3lTTVNYRkFZX21xcDhGQ3FhZUlxUS04OW1EaDktM0c1eHpFX0d4dHRaa3RqRk1r0gHCAUFVX3lxTE5ibVd3QktPUXNJRTB5R2t4R3pGWklmdmgydlBxYVRCTmRWSk00Y0IzOTdiRFlVdy1VbHFJNUFsRTRZdG9tRkpNVFU0SGZVaEsyZGJ2SkU0TVdoS3cxY3E2eFpOZEdJTXhqd3N3NVVPTWRoWE1QeEZBTjZzVUw4eS1vUjVfWFFHUzZFQmZ1ZFBhLXk5Z3MwOGNEZ0xQS0VLQ0NtNTl6QTZfRkxvSkVXWXNjR0N0VjBhNWpBWkNWdVZYN2Jn?oc=5
+
+- Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues - BusinessLine
+  Sensex rises 231 pts, Nifty ends at 23,719 led by banks.
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV8xb042aTAwNS0ySXdKRGFUTjVqbGJueVdZTVJxdUlvdmJEWnZqYm44azRmR0VqREp1c2h4N2Z4NmxUMUJzODRWTEJZT2c4RFFubnNQZjJlS2hvTGhqS251NmtTYVp0dm9ZUThTeHhrTDNhemZiQXNxd1B0Umk3MS1hWGVMZDJNWGh6RHNQWTJ0TEtUdFVkbWdiUkZpb1U4MGlMQ2N0ZXhqTDlCVzBWUGZ5XzdCeTd4dDlOajRtd2k?oc=5
+
+- BSE 100 rejig: Paytm, Ashok Leyland and CG Power enter index; Adani Group-owned Ambuja, 2 more exit
+  TVS Motor entered the BSE Sensex 50, dislodging Adani Enterprises. Paytm, Ashok Leyland,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bse-100-rejig-paytm-ashok-leyland-and-cg-power-enter-index-adani-group-owned-ambuja-2-more-exit/articleshow/131264763.cms
+
+- Colgate-Palmolive India Q4 profit down marginally to Rs 353 cr; FY26 revenue dips to Rs 6,124 cr
+  Sales were up 9 per cent to Rs 1,582.77 crore in the March quarter of FY26. It was at Rs
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q4-profit-down-marginally-to-rs-353-cr-fy26-revenue-dips-to-rs-6124-cr/articleshow/131264664.cms
+
+- US stocks today: Dow hits record at open as investors watch US-Iran talks
+  Wall Street opened higher with the Dow hitting an intraday record as investors tracked developments in US-Iran peace talks. Gains across the S&amp;P 500 and Nasdaq reflected resilient risk appetite.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rises-at-open-dow-hits-record-high/articleshow/131264519.cms
+
+- Govt to sell additional 4% stake in Central Bank of India after OFS subscribed 2.36 times; retail bidding opens on Monday
+  The Indian government is selling more shares of Central Bank of India. Investor demand was strong, leading to an increase in the stake sale. The move aims to boost the bank's stock liquidity and meet public shareholding rules.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-additional-4-stake-in-central-bank-of-india-after-ofs-subscribed-2-36-times-retail-bidding-opens-on-monday/articleshow/131264281.cms
+
+- 10 largecap stocks withsteady rise insales over 4 quarters
+  The report identifies 10 large-cap stocks (excluding banking/finance) in the NSE segment that demonstrated continuous net sales growth for four consecutive quarters up to the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-largecap-stocks-withsteady-rise-insales-over-4-quarters/slideshow/131264327.cms
 
 - India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- India, African Union Postpone New Delhi Summit Amid Ebola Outbreak - NDTV
-  India, African Union Postpone New
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3RKaDRSRU9ucHJJRDFBcVBBWXYzQmZIRGlNYnBwWjZ2R0phV2ZQVG0tQmZEVGVSejAxSlRIQU12UkR3TVJTM205enE2UWdsaU00U3VWRGJTNjRLQXM4M0VLc2xKcUg2VEFxUkJmQVY0VmprSzE0cWVoaDlyOWtHWXNMbXRwTFdrQnJ0djRIVnBaaHhRQ1N3NHZSSEdjal9McFlhd1JFV3pBQdIBsgFBVV95cUxOTk4zTm96dm9QTjMtSXoyb042b0p5d0IyWnRJUktvLXBLUWVQeEl6TEtScER0b0NrTW9EQmlEUkFFQjdYZ0xieVpiWjhaXzJ4WWZpeEc3OGRQZ0ZkREo5NjN1bHhYaThXbXY4MFZQLUhHM0NBdUczc2d6T25LZlROc244S3B5SElSUFk3VFFDWUVlbTNQc2pUVHE5UFFic3lZcmV2aF9MMWIwbUZCUlYzelNB?oc=5
+- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
+  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
 
-- Punjab Police uncover Major Network Behind Threatening Bomb Hoax Emails Across India - Newsonair
-  Punjab Police uncover Major Network Behind Threatening
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09lQUZrLXk0dWo0MDJnQ005UGk4ZkZmaVAyZjFTU1BKOEY1dnBVWmNFeGFoSjZOeW5PdHdZQkhPN3o5U3p3X09BYmh0RHNPU1FYOHhVbmhDb0huMVpUQUdDeW9Ib1R4dW02RzhNaS0zbHNuRWladTNHcmhMdzBJSXE2ZENWU1pzaWFHYUo1NUIzWWx2VUVUU05Bd25MQmlWTDBGOWJBNjZ3LXV5SVdPcGJ0MmU?oc=5
+- BJP's Nationwide Blueprint To Mark 12 Years Of PM Modi-Led Government - NDTV
+  The BJP's Nationwide Blueprint To Mark 12 Years
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWR4QVZ3M1dlOHY2WmxUd010Q3ZBNnhWWEQ4UzdRQV9Mc0xvX1c1bGN1Unk5VnJsaUlNbF9yOHZ1ZmwxNzhuN01IalA0Q2xEQkU5Q191TEdrXzZTZGFrYWZjYzVtc0JNcWduQ19FbG1ZbWRDQ3dySFZfNTRmVzRQN2tpWGg4SjJsQnVkTVlwTUxLUnppMVdNa1lXM1hHU0s3VEFRWHNvSU1LZmFxLVHSAbYBQVVfeXFMTkQ0Mkt5Z0w4VFBsa21nRjJnY2dnYU9TWkNfUkQyeldxSUFWdmFfZ1hxdkx3czg1QzBQd2xuUkYtVjN5UzBldEh5V1VDZVUxcmxNTkYxSWQ1MEY5bnJuNDhiZ0tEeDA3dEVfODJpZzBYZkJFUEo4U0Z1a054WXUtSm1rcDh2ZFVhd2ZGSWNDYmxvMEZXajlfOTVGM2dsOWUtcVRKNzc0d0ZkZjA0cnZwQ2dsOXNsTEE?oc=5
 
 - Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
   Cockroach Janta Party (CJP)
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
 
-- Election Commission of India announces Rajya Sabha polls for 24 seats on June 18 - The Hindu
-  Election Commission of India announces Rajya Sabha polls for 24 seats
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGk3eWVnaGtGeUxMRFBIeVlsTVdJNVFqb3RMc0M2SEdudXdWanBsWHZHSjJHc3hPVnhTNWtiMWc1Ni1PUUdkRjJaVXFLcUlHbE5qMEpTeFV2TTZUamsxRWRQWVdVd29jNzlTZGpFaXA4SDRkU3pwcEVWc0xlTUpmS3RWQlAwbWNFQjVjaU4zdm53elJrRHdHUmxIZ0ZYYlN3R3JPTG5zMzZsOHhiSHVjekJUZk95ejZvc1JqVUplYVNsaGtOSTFVOTZPWnc1OUVxZDVhMmRR0gHcAUFVX3lxTE5DOE1Yd0JyVXVLWHc0OUVtMXdmUkhBaW5HbktnZkN0dW5zb2Z0V2dFZF9NSlp2QTM1Z2NIRjQ3amkzLVQtZUNXSjM0ZERVa1FDbDZYNHdPYmNWdmRycXd4aXdVaWJpYWhlbFBNazE2ODZVcy1Yd1RQMi1MVmNKWWJEci1jV01nOTdxZTdHbEdhb0NsM24wT29pR09MZWNDRTJDRlIyelJ3T0c5R2FOWkZFd1QyODlyZXJNci1EbTc1TUkzVEwzc3FFa1puOUg4SGVvOGFUeUtqS0Yxd08?oc=5
+- Twisha Sharma death case: After 10 days on run, husband reaches Jabalpur court to surrender - The Times of India
+  Twisha Sharma's husband reaches Jabalpur court to surrender after 10 days on
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlNGMDBodHU1eXBjRUh3c3VUUTVSNzVKZTRmQTNyYWcxRWcwb0FteU1mU182cUpyS0hZNmdsX2NJOVpfNGRoSGpwd0taemdFQjFacXk5YmNSazMwYkhjd1QtLXRpZS1YNzJsSkM2S0M5X3hxWXY5UThNVzhzZl8xNUQwM2dxVDg1UkpOVmxucGluZnV1YndFLWhaQmpQRkoydFV5UHpaQS1ZZ2xKbUg2dmtNeGRQbTFfaTR2aVVXd3NpX0FyQmhfUmpjc2hZSUhaYlIxTHhXN1lMOWpMbUNDbWREV0l1cHlBOS1JTXhR0gHzAUFVX3lxTE1EV25YMUNETk1EYm5EZWM1d2xRYVIyemE4UWxMaWVoQ3N3WXdmWElXRFkyOWs5aHVxSFZwUF94cFJGTDNkblRtNGtob1VnSGxIaGhzdkdwTzB2ZFhsQ0k0bVhPRGdOV2FybkpBa1B2WFdmLVFueFZlTDgtZkhHUmRCZVF1YWVZeERKLU9uM1BJS1BhMFZHajl2RkRrRWpBLTc4U192cGZpd0xEQU81MnE5MmZrUVJteEJnQW5SRjNrOXBxLW5DQk5XMHFqVF9XMlRRckFMV0l0aDllWmwtZHh6SDJfZGNOMGF3SkZaTEphWmJLZw?oc=5
 
 - India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- India, African Union Postpone New Delhi Summit Amid Ebola Outbreak - NDTV
-  India, African Union Postpone New
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3RKaDRSRU9ucHJJRDFBcVBBWXYzQmZIRGlNYnBwWjZ2R0phV2ZQVG0tQmZEVGVSejAxSlRIQU12UkR3TVJTM205enE2UWdsaU00U3VWRGJTNjRLQXM4M0VLc2xKcUg2VEFxUkJmQVY0VmprSzE0cWVoaDlyOWtHWXNMbXRwTFdrQnJ0djRIVnBaaHhRQ1N3NHZSSEdjal9McFlhd1JFV3pBQdIBsgFBVV95cUxOTk4zTm96dm9QTjMtSXoyb042b0p5d0IyWnRJUktvLXBLUWVQeEl6TEtScER0b0NrTW9EQmlEUkFFQjdYZ0xieVpiWjhaXzJ4WWZpeEc3OGRQZ0ZkREo5NjN1bHhYaThXbXY4MFZQLUhHM0NBdUczc2d6T25LZlROc244S3B5SElSUFk3VFFDWUVlbTNQc2pUVHE5UFFic3lZcmV2aF9MMWIwbUZCUlYzelNB?oc=5
+- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
+  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
 
-- Punjab Police uncover Major Network Behind Threatening Bomb Hoax Emails Across India - Newsonair
-  Punjab Police uncover Major Network Behind Threatening
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09lQUZrLXk0dWo0MDJnQ005UGk4ZkZmaVAyZjFTU1BKOEY1dnBVWmNFeGFoSjZOeW5PdHdZQkhPN3o5U3p3X09BYmh0RHNPU1FYOHhVbmhDb0huMVpUQUdDeW9Ib1R4dW02RzhNaS0zbHNuRWladTNHcmhMdzBJSXE2ZENWU1pzaWFHYUo1NUIzWWx2VUVUU05Bd25MQmlWTDBGOWJBNjZ3LXV5SVdPcGJ0MmU?oc=5
+- BJP's Nationwide Blueprint To Mark 12 Years Of PM Modi-Led Government - NDTV
+  The BJP's Nationwide Blueprint To Mark 12 Years
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWR4QVZ3M1dlOHY2WmxUd010Q3ZBNnhWWEQ4UzdRQV9Mc0xvX1c1bGN1Unk5VnJsaUlNbF9yOHZ1ZmwxNzhuN01IalA0Q2xEQkU5Q191TEdrXzZTZGFrYWZjYzVtc0JNcWduQ19FbG1ZbWRDQ3dySFZfNTRmVzRQN2tpWGg4SjJsQnVkTVlwTUxLUnppMVdNa1lXM1hHU0s3VEFRWHNvSU1LZmFxLVHSAbYBQVVfeXFMTkQ0Mkt5Z0w4VFBsa21nRjJnY2dnYU9TWkNfUkQyeldxSUFWdmFfZ1hxdkx3czg1QzBQd2xuUkYtVjN5UzBldEh5V1VDZVUxcmxNTkYxSWQ1MEY5bnJuNDhiZ0tEeDA3dEVfODJpZzBYZkJFUEo4U0Z1a054WXUtSm1rcDh2ZFVhd2ZGSWNDYmxvMEZXajlfOTVGM2dsOWUtcVRKNzc0d0ZkZjA0cnZwQ2dsOXNsTEE?oc=5
 
 - Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
   Cockroach Janta Party (CJP)
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
 
-- Election Commission of India announces Rajya Sabha polls for 24 seats on June 18 - The Hindu
-  Election Commission of India announces Rajya Sabha polls for 24 seats
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGk3eWVnaGtGeUxMRFBIeVlsTVdJNVFqb3RMc0M2SEdudXdWanBsWHZHSjJHc3hPVnhTNWtiMWc1Ni1PUUdkRjJaVXFLcUlHbE5qMEpTeFV2TTZUamsxRWRQWVdVd29jNzlTZGpFaXA4SDRkU3pwcEVWc0xlTUpmS3RWQlAwbWNFQjVjaU4zdm53elJrRHdHUmxIZ0ZYYlN3R3JPTG5zMzZsOHhiSHVjekJUZk95ejZvc1JqVUplYVNsaGtOSTFVOTZPWnc1OUVxZDVhMmRR0gHcAUFVX3lxTE5DOE1Yd0JyVXVLWHc0OUVtMXdmUkhBaW5HbktnZkN0dW5zb2Z0V2dFZF9NSlp2QTM1Z2NIRjQ3amkzLVQtZUNXSjM0ZERVa1FDbDZYNHdPYmNWdmRycXd4aXdVaWJpYWhlbFBNazE2ODZVcy1Yd1RQMi1MVmNKWWJEci1jV01nOTdxZTdHbEdhb0NsM24wT29pR09MZWNDRTJDRlIyelJ3T0c5R2FOWkZFd1QyODlyZXJNci1EbTc1TUkzVEwzc3FFa1puOUg4SGVvOGFUeUtqS0Yxd08?oc=5
+- Twisha Sharma death case: After 10 days on run, husband reaches Jabalpur court to surrender - The Times of India
+  Twisha Sharma's husband reaches Jabalpur court to surrender after 10 days on
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlNGMDBodHU1eXBjRUh3c3VUUTVSNzVKZTRmQTNyYWcxRWcwb0FteU1mU182cUpyS0hZNmdsX2NJOVpfNGRoSGpwd0taemdFQjFacXk5YmNSazMwYkhjd1QtLXRpZS1YNzJsSkM2S0M5X3hxWXY5UThNVzhzZl8xNUQwM2dxVDg1UkpOVmxucGluZnV1YndFLWhaQmpQRkoydFV5UHpaQS1ZZ2xKbUg2dmtNeGRQbTFfaTR2aVVXd3NpX0FyQmhfUmpjc2hZSUhaYlIxTHhXN1lMOWpMbUNDbWREV0l1cHlBOS1JTXhR0gHzAUFVX3lxTE1EV25YMUNETk1EYm5EZWM1d2xRYVIyemE4UWxMaWVoQ3N3WXdmWElXRFkyOWs5aHVxSFZwUF94cFJGTDNkblRtNGtob1VnSGxIaGhzdkdwTzB2ZFhsQ0k0bVhPRGdOV2FybkpBa1B2WFdmLVFueFZlTDgtZkhHUmRCZVF1YWVZeERKLU9uM1BJS1BhMFZHajl2RkRrRWpBLTc4U192cGZpd0xEQU81MnE5MmZrUVJteEJnQW5SRjNrOXBxLW5DQk5XMHFqVF9XMlRRckFMV0l0aDllWmwtZHh6SDJfZGNOMGF3SkZaTEphWmJLZw?oc=5
 
 - India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- India, African Union Postpone New Delhi Summit Amid Ebola Outbreak - NDTV
-  India, African Union Postpone New
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3RKaDRSRU9ucHJJRDFBcVBBWXYzQmZIRGlNYnBwWjZ2R0phV2ZQVG0tQmZEVGVSejAxSlRIQU12UkR3TVJTM205enE2UWdsaU00U3VWRGJTNjRLQXM4M0VLc2xKcUg2VEFxUkJmQVY0VmprSzE0cWVoaDlyOWtHWXNMbXRwTFdrQnJ0djRIVnBaaHhRQ1N3NHZSSEdjal9McFlhd1JFV3pBQdIBsgFBVV95cUxOTk4zTm96dm9QTjMtSXoyb042b0p5d0IyWnRJUktvLXBLUWVQeEl6TEtScER0b0NrTW9EQmlEUkFFQjdYZ0xieVpiWjhaXzJ4WWZpeEc3OGRQZ0ZkREo5NjN1bHhYaThXbXY4MFZQLUhHM0NBdUczc2d6T25LZlROc244S3B5SElSUFk3VFFDWUVlbTNQc2pUVHE5UFFic3lZcmV2aF9MMWIwbUZCUlYzelNB?oc=5
+- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
+  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
 
-- Punjab Police uncover Major Network Behind Threatening Bomb Hoax Emails Across India - Newsonair
-  Punjab Police uncover Major Network Behind Threatening
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09lQUZrLXk0dWo0MDJnQ005UGk4ZkZmaVAyZjFTU1BKOEY1dnBVWmNFeGFoSjZOeW5PdHdZQkhPN3o5U3p3X09BYmh0RHNPU1FYOHhVbmhDb0huMVpUQUdDeW9Ib1R4dW02RzhNaS0zbHNuRWladTNHcmhMdzBJSXE2ZENWU1pzaWFHYUo1NUIzWWx2VUVUU05Bd25MQmlWTDBGOWJBNjZ3LXV5SVdPcGJ0MmU?oc=5
+- BJP's Nationwide Blueprint To Mark 12 Years Of PM Modi-Led Government - NDTV
+  The BJP's Nationwide Blueprint To Mark 12 Years
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWR4QVZ3M1dlOHY2WmxUd010Q3ZBNnhWWEQ4UzdRQV9Mc0xvX1c1bGN1Unk5VnJsaUlNbF9yOHZ1ZmwxNzhuN01IalA0Q2xEQkU5Q191TEdrXzZTZGFrYWZjYzVtc0JNcWduQ19FbG1ZbWRDQ3dySFZfNTRmVzRQN2tpWGg4SjJsQnVkTVlwTUxLUnppMVdNa1lXM1hHU0s3VEFRWHNvSU1LZmFxLVHSAbYBQVVfeXFMTkQ0Mkt5Z0w4VFBsa21nRjJnY2dnYU9TWkNfUkQyeldxSUFWdmFfZ1hxdkx3czg1QzBQd2xuUkYtVjN5UzBldEh5V1VDZVUxcmxNTkYxSWQ1MEY5bnJuNDhiZ0tEeDA3dEVfODJpZzBYZkJFUEo4U0Z1a054WXUtSm1rcDh2ZFVhd2ZGSWNDYmxvMEZXajlfOTVGM2dsOWUtcVRKNzc0d0ZkZjA0cnZwQ2dsOXNsTEE?oc=5
 
 - Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
   Cockroach Janta Party (CJP)
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
 
-- Election Commission of India announces Rajya Sabha polls for 24 seats on June 18 - The Hindu
-  Election Commission of India announces Rajya Sabha polls for 24 seats
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGk3eWVnaGtGeUxMRFBIeVlsTVdJNVFqb3RMc0M2SEdudXdWanBsWHZHSjJHc3hPVnhTNWtiMWc1Ni1PUUdkRjJaVXFLcUlHbE5qMEpTeFV2TTZUamsxRWRQWVdVd29jNzlTZGpFaXA4SDRkU3pwcEVWc0xlTUpmS3RWQlAwbWNFQjVjaU4zdm53elJrRHdHUmxIZ0ZYYlN3R3JPTG5zMzZsOHhiSHVjekJUZk95ejZvc1JqVUplYVNsaGtOSTFVOTZPWnc1OUVxZDVhMmRR0gHcAUFVX3lxTE5DOE1Yd0JyVXVLWHc0OUVtMXdmUkhBaW5HbktnZkN0dW5zb2Z0V2dFZF9NSlp2QTM1Z2NIRjQ3amkzLVQtZUNXSjM0ZERVa1FDbDZYNHdPYmNWdmRycXd4aXdVaWJpYWhlbFBNazE2ODZVcy1Yd1RQMi1MVmNKWWJEci1jV01nOTdxZTdHbEdhb0NsM24wT29pR09MZWNDRTJDRlIyelJ3T0c5R2FOWkZFd1QyODlyZXJNci1EbTc1TUkzVEwzc3FFa1puOUg4SGVvOGFUeUtqS0Yxd08?oc=5
+- Twisha Sharma death case: After 10 days on run, husband reaches Jabalpur court to surrender - The Times of India
+  Twisha Sharma's husband reaches Jabalpur court to surrender after 10 days on
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlNGMDBodHU1eXBjRUh3c3VUUTVSNzVKZTRmQTNyYWcxRWcwb0FteU1mU182cUpyS0hZNmdsX2NJOVpfNGRoSGpwd0taemdFQjFacXk5YmNSazMwYkhjd1QtLXRpZS1YNzJsSkM2S0M5X3hxWXY5UThNVzhzZl8xNUQwM2dxVDg1UkpOVmxucGluZnV1YndFLWhaQmpQRkoydFV5UHpaQS1ZZ2xKbUg2dmtNeGRQbTFfaTR2aVVXd3NpX0FyQmhfUmpjc2hZSUhaYlIxTHhXN1lMOWpMbUNDbWREV0l1cHlBOS1JTXhR0gHzAUFVX3lxTE1EV25YMUNETk1EYm5EZWM1d2xRYVIyemE4UWxMaWVoQ3N3WXdmWElXRFkyOWs5aHVxSFZwUF94cFJGTDNkblRtNGtob1VnSGxIaGhzdkdwTzB2ZFhsQ0k0bVhPRGdOV2FybkpBa1B2WFdmLVFueFZlTDgtZkhHUmRCZVF1YWVZeERKLU9uM1BJS1BhMFZHajl2RkRrRWpBLTc4U192cGZpd0xEQU81MnE5MmZrUVJteEJnQW5SRjNrOXBxLW5DQk5XMHFqVF9XMlRRckFMV0l0aDllWmwtZHh6SDJfZGNOMGF3SkZaTEphWmJLZw?oc=5
+
+- India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
+  India news: Cockroaches
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
+
+- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
+  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
+
+- BJP's Nationwide Blueprint To Mark 12 Years Of PM Modi-Led Government - NDTV
+  The BJP's Nationwide Blueprint To Mark 12 Years
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWR4QVZ3M1dlOHY2WmxUd010Q3ZBNnhWWEQ4UzdRQV9Mc0xvX1c1bGN1Unk5VnJsaUlNbF9yOHZ1ZmwxNzhuN01IalA0Q2xEQkU5Q191TEdrXzZTZGFrYWZjYzVtc0JNcWduQ19FbG1ZbWRDQ3dySFZfNTRmVzRQN2tpWGg4SjJsQnVkTVlwTUxLUnppMVdNa1lXM1hHU0s3VEFRWHNvSU1LZmFxLVHSAbYBQVVfeXFMTkQ0Mkt5Z0w4VFBsa21nRjJnY2dnYU9TWkNfUkQyeldxSUFWdmFfZ1hxdkx3czg1QzBQd2xuUkYtVjN5UzBldEh5V1VDZVUxcmxNTkYxSWQ1MEY5bnJuNDhiZ0tEeDA3dEVfODJpZzBYZkJFUEo4U0Z1a054WXUtSm1rcDh2ZFVhd2ZGSWNDYmxvMEZXajlfOTVGM2dsOWUtcVRKNzc0d0ZkZjA0cnZwQ2dsOXNsTEE?oc=5
+
+- Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
+  Cockroach Janta Party (CJP)
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
+
+- Twisha Sharma death case: After 10 days on run, husband reaches Jabalpur court to surrender - The Times of India
+  Twisha Sharma's husband reaches Jabalpur court to surrender after 10 days on
+  🔗 https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZlNGMDBodHU1eXBjRUh3c3VUUTVSNzVKZTRmQTNyYWcxRWcwb0FteU1mU182cUpyS0hZNmdsX2NJOVpfNGRoSGpwd0taemdFQjFacXk5YmNSazMwYkhjd1QtLXRpZS1YNzJsSkM2S0M5X3hxWXY5UThNVzhzZl8xNUQwM2dxVDg1UkpOVmxucGluZnV1YndFLWhaQmpQRkoydFV5UHpaQS1ZZ2xKbUg2dmtNeGRQbTFfaTR2aVVXd3NpX0FyQmhfUmpjc2hZSUhaYlIxTHhXN1lMOWpMbUNDbWREV0l1cHlBOS1JTXhR0gHzAUFVX3lxTE1EV25YMUNETk1EYm5EZWM1d2xRYVIyemE4UWxMaWVoQ3N3WXdmWElXRFkyOWs5aHVxSFZwUF94cFJGTDNkblRtNGtob1VnSGxIaGhzdkdwTzB2ZFhsQ0k0bVhPRGdOV2FybkpBa1B2WFdmLVFueFZlTDgtZkhHUmRCZVF1YWVZeERKLU9uM1BJS1BhMFZHajl2RkRrRWpBLTc4U192cGZpd0xEQU81MnE5MmZrUVJteEJnQW5SRjNrOXBxLW5DQk5XMHFqVF9XMlRRckFMV0l0aDllWmwtZHh6SDJfZGNOMGF3SkZaTEphWmJLZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-22 08:56:55 UTC_
+_Last updated: 2026-05-22 14:31:31 UTC_
