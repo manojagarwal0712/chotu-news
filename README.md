@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Delhi Police says 67% lost & stolen phones recovered, but top cop flags data ‘incorrect’
+- After Sidra demolitions row, J&K minister tells forest officials: ‘First understand the law’
   
-  🔗 https://indianexpress.com/article/india/delhi-police-says-67-lost-stolen-phones-recovered-but-top-cop-flags-data-incorrect-10704573/
+  🔗 https://indianexpress.com/article/india/sidra-demolitions-row-jk-minister-forest-officials-understand-law-10704773/
 
-- 2 held after missing girl found dead near Coimbatore lake, Vijay orders swift probe
+- Assam mob lynching: Two men suspected of cattle theft beaten to death near Arunachal border
   
-  🔗 https://indianexpress.com/article/india/coimbatore-sulur-10-year-old-girl-murder-abduction-cm-joseph-vijay-investigation-10704550/
+  🔗 https://indianexpress.com/article/india/assam-sonitpur-mob-lynching-cattle-theft-case-10704763/
 
-- Amrit Bharat Station Scheme: Railways fast-tracks modernisation of Tamil Nadu’s 95-year-old Tambaram station
+- India to become major defence exporter in 25-30 years: Rajnath Singh
   
-  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-railways-fast-tracks-modernisation-of-tamil-nadus-95-year-old-tambaram-station-10704195/
+  🔗 https://indianexpress.com/article/india/mumbai/india-become-major-defence-exporter-25-30-years-rajnath-singh-10704761/
 
-- Congress poses 4 questions to PM Modi over fuel price hike: ‘Fix the problem now’
+- ‘Will work closely for global good’: PM Modi after meeting Rubio in Delhi, gets Trump White House invite
   
-  🔗 https://indianexpress.com/article/india/congress-slams-modi-government-fuel-price-hike-10704318/
+  🔗 https://indianexpress.com/article/india/pm-modi-marco-rubio-meeting-trump-white-house-invite-quad-delhi-10704547/
 
-- Why did two Jodhpur sisters commit suicide? A silence, a delayed FIR, and claims of ‘blackmail’
+- Rajasthan acts on PM Modi’s austerity push. Foreign trips on public funds banned, government vehicles to go electric
   
-  🔗 https://indianexpress.com/article/india/jodhpur-two-sisters-suicide-gangrape-blackmail-cyber-investigation-nagaur-10704349/
+  🔗 https://indianexpress.com/article/india/rajasthan-austerity-measures-bhajan-lal-sharma-ev-foreign-travel-ban-10704665/
+
+- Study suggests that stress disrupts brain’s ability to connect memories with new information
+  
+  🔗 https://indianexpress.com/article/technology/science/why-your-mind-goes-blank-under-stress-scientists-may-have-the-answer-10704567/
+
+- Best compact action cameras in 2026 for Reels, vlogs, and adventure shoots
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/best-compact-action-cameras-in-2026-for-reels-vlogs-and-adventure-shoots-10704566/
 
 - Kick, pass, concussion? Scientists probe hidden risks of football headers
   
@@ -31,14 +39,6 @@
 - Google joins Spotify’s disco-ball icon trend with sparkly Pixel makeover
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-joins-spotifys-disco-ball-icon-trend-with-sparkly-pixel-makeover-10704114/
-
-- Anthropic says Claude Mythos found over 10,000 major software vulnerabilities in a month
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-mythos-security-bugs-10703971/
-
-- SpaceX launches its biggest, most beefed-up Starship yet on a test flight
-  
-  🔗 https://indianexpress.com/article/technology/science/spacex-launches-its-biggest-most-beefed-up-starship-yet-on-a-test-flight-10703836/
 
 - Seven ways AI is making 2025 tech layoffs different from Silicon Valley’s earlier job cuts
   Tech layoffs in 2025 are increasingly targeting middle management and coordination-heavy roles. Firms like Amazon, Meta and Shopify are pushing flatter hierarchies, AI
@@ -100,6 +100,26 @@
   Google, Meta, TikTok hit by
   🔗 https://www.livemint.com/technology/google-meta-tiktok-hit-by-eu-consumer-complaints-about-handling-of-financial-scams-11779374161340.html
 
+- Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at Record High; S&P 500 Posts 8th Straight Week of Gains - Investopedia
+  Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUNlVjEzNWhNaEFrenpvVDlPX3BReWxjWGlieXlfeTZqWktOMXBUMTJJOWtRLWc0QVFORWxCU3B5QWZlVk5iSUJtUzBPUnhrQXVkc0tfcEs3c3JSU1hFVzJYbG1NS1RKVUQyNWFqZndqVG1HSHNwb3NLVTI3eHZtVm1IbXRQbjFudE9sVE0tVVI?oc=5
+
+- S&P 500 Is Set for Longest Weekly Rally Since 2023: Markets Wrap - Bloomberg.com
+  P 500 Is Set for Longest Weekly Rally Since
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVVTcFY0b3RjYXYwV3VJbFN1enpaTVUtYlBJbWw3SzVubHJDeWF2MjhaMEdQYzJFdk5Ld0NGQ3Jack5mX0lhaVEwQlpJWS11S1lIY0ZuM2k3dm5Ic0RkUXA1SW5FM1ZxQ0lZTG1IWHJIbkpXSkVhMW9SdTVDLUFHRlBWUGNwVHhEQjhzcm85U0d1UUJsZVJuczlqS0QyczVxYWdBNmxycDQ2TVM5Mk13RWFn?oc=5
+
+- Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points - Investor's Business Daily
+  Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5
+
+- Oil market could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says - CNBC
+  Oil market could enter ‘red zone’ by July as stocks dwindle ahead
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFlWaGY2ZzJQRGc4eGRtM183R29xd0x2YktYLS04NEFVY0tmTW9EdF9JZWMxOFRxVU9YcEZWUXFuT2VVTVZLdUdxS2xpdGxmWFlhdGMwMnpmdkc3TW5tVWFtaG5OYThwUlJ4aHpWTVlIQWdfZl8wWnFnUW42TDM5RdIBhgFBVV95cUxPLWUtWkhzVG5EcWJfdnMtdUgtSWprR0JUamlmUms4b0lvcHNTdkVrOEhmY2wyRUUxTklJeWVHRUlYSllVaWF2LVBwVWV3aGV5Z09xemR5VGRqSm1yOElERGhPQThVODBhVjZocXpiWlM5WEdWRXhJYXgzUk4zZ0Y3YW1ybV8tUQ?oc=5
+
+- Stock market strength is now rupee’s curse - The Times of India
+  Stock market strength is now rupee�
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkJPZ09ac1F5RDlTQWJGNkNEX0hJRGZZQWNWQ3MwQ1hkY0FDalNnaXFFYTR4Q1EzUl92TmdCTGYwOFBZbzJJbkhFZkNNZGhXWWdLWUdTUS1KOVBNZnY2dUpHN2sxanlsX1F1LTJYUU44cUhBVzBDWTFId1RBNWV5eHhRUDgwb2F2QjZtY1ZYdTQ3anR2UmxKRG1xay1lcVdZT2ExRFdBTG5kTndjQjhLOFQ5cFIwU185RnY1WWU3dEdDRVFKZHdwd9IBzgFBVV95cUxPallDN2pxM28tQjN0UG1NV0N6bnNwUy1DMXJ3WjNOVGZ5S0pYZi15NHl1aHFoQmFNeVU1YndjNzc0akptX1ZSTktobTA5V0FLVHlESHBMSGc2d2VETzhCT0pjdElVb1VoZHVnaGJMc3dsSmthWFNYSWFBbVdpV3NjVlVRclRReTU2b2lwM295bEcwSVdEMHl3aURkdHJjTlpyMFdmaXVWZm5fZUFXc3V1Qlg1NFJfSUJMZERYWHFBcG15dDlyUE5FZnBJNUJZUQ?oc=5
+
 - NTPC Q4 Results: Cons PAT jumps 34% YoY to Rs 10,615 crore; Rs 3.5/share dividend announced
   NTPC reported strong growth in quarterly profit driven by improved operational performance. Annual profit rose despite flat revenue growth and continued spending on fuel and finance costs.
   🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q4-results-cons-pat-jumps-34-yoy-to-rs-10615-crore-rs-3-5/share-dividend-announced/articleshow/131278401.cms
@@ -119,66 +139,6 @@
 - FIIs sell over Rs 30K crore worth of Indian equities in May as outflows swell to Rs 2.22 lakh crore. What lies ahead?
   FIIs have consistently sold Indian equities in 2026, totaling Rs 2.22 lakh crore. Future institutional flows will remain sensitive to US–Iran negotiations and oil price volatility.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-30k-crore-worth-of-indian-equities-in-may-as-outflows-swell-to-rs-2-22-lakh-crore-what-lies-ahead/articleshow/131277123.cms
-
-- Marco Rubio visits India to sell energy as Iran oil shock persists - BBC
-  Marco Rubio visits India to sell energy as Iran oil
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
-  Marco Rubio visits India: What's at stake with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
-
-- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
-  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
-
-- "It's Not About India": Marco Rubio To NDTV On New US Greencard Rule - NDTV
-  "It's Not About India": Marco Rubio To ND
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMGJZVFN1TXBISzF2d0JEZlZYVm1hM0xkWDdVRFVXSUduTFU5LWN4Z0NnY0paZWhiZzlSZEQzRk5XbXJXVXlkU1UzNDZpVEVySm91and4OC1tWm8xb0doVjMzU3NYVWNKcFdyckZISWVvbFlKV2E5aW9BQVZJVUZLRGVUckU5V3pfV1VfdnBuRnF4Um00T0FMeW9Id3VyaWM3YnVfRDhpSy1uaTFoYVg5TTVlODBSa2pBVjZTT1htMGg4RGlwTGtYUTJxX1YtQ3NNdVpCdzZMOWVJQdIB4gFBVV95cUxPWGtnMkpLTm4tUFUzQldIOVdlNjFJYUdsVmg4RDNQQlVxaERSWUZEVlh3ZlcwaXFkNjlhY01pSEVPbFlCYkd5NnJxMzZ1U1lwdmE0R3d2b2dmXzZfdUhoTEc4VFhPUm9ndHhwYlR4QnFGTkNfZ0dhQlQ1NGNuWGRTZ2N4U3RObGtqQ01Zc2tnWmtQT0ZnODNfcjMyYkRuNWR3WnZWSXpZenFvaGNFbUV1Y2dBczF1bkJScnlNbDlFLVM2VGEtZTdhckZZNnJfcDlkTTdPemU5LUcxWWtUWktxdGRn?oc=5
-
-- After short Kolkata visit, Rubio meets PM Modi in New Delhi | Live - The Hindu
-  After short Kolkata visit, Rubio meets PM Modi in
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRW03VnRHQ1ZDVVdhTnhMSVVmM0JUYW9MT2xSMkY1YllqRE9qb3ZYSnpTMGZadXJnV2F4ZUMwajMwOFJvVUJfMFZTWG5Xb0VuUnJYd09obS1xOXA5TnUyYUU0Y1FzU2gzNFBaNjk1OW80dVZKdG5MRk5KS3p6Tll3QmRLc1RkTWhCU2tVd1RublRxZ0tXNjRacF9EM0J0WFVDQkRiajBZVjZXejlUbndiNW9ESFB1TDF4c3E2c3JLLW9oQW52Zkt2NGs3Njk3OXU0ZFdlWm530gHcAUFVX3lxTE9ISHVpSnd0X3RRVHpUQVlnd0dFdVN6cnc3RkppXzI5amJsbFBQOHl4MTFYUVR2TlpoMWRKSHpEMWVrYXhPY2oxczM5clJ4T0Y4UXZKMzFnVmFFU1BJVklwR3RFUGtkRi1ZTTJEZkJ1aTR5UnVpcEZUeGhXUVhSV1dqdzYySkxsN1JVVzZpLUd3VHJDRDctVXhZYVlaZjVzaUhYeVZjZ3JuaHdEVnVVWnVNNW10ajN5TF9naV9OZGFFY2g4RTZsM2xWRzlOYkg5TFVOeVBIbkFIZVR2d3o?oc=5
-
-- Marco Rubio visits India to sell energy as Iran oil shock persists - BBC
-  Marco Rubio visits India to sell energy as Iran oil
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
-  Marco Rubio visits India: What's at stake with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
-
-- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
-  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
-
-- "It's Not About India": Marco Rubio To NDTV On New US Greencard Rule - NDTV
-  "It's Not About India": Marco Rubio To ND
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMGJZVFN1TXBISzF2d0JEZlZYVm1hM0xkWDdVRFVXSUduTFU5LWN4Z0NnY0paZWhiZzlSZEQzRk5XbXJXVXlkU1UzNDZpVEVySm91and4OC1tWm8xb0doVjMzU3NYVWNKcFdyckZISWVvbFlKV2E5aW9BQVZJVUZLRGVUckU5V3pfV1VfdnBuRnF4Um00T0FMeW9Id3VyaWM3YnVfRDhpSy1uaTFoYVg5TTVlODBSa2pBVjZTT1htMGg4RGlwTGtYUTJxX1YtQ3NNdVpCdzZMOWVJQdIB4gFBVV95cUxPWGtnMkpLTm4tUFUzQldIOVdlNjFJYUdsVmg4RDNQQlVxaERSWUZEVlh3ZlcwaXFkNjlhY01pSEVPbFlCYkd5NnJxMzZ1U1lwdmE0R3d2b2dmXzZfdUhoTEc4VFhPUm9ndHhwYlR4QnFGTkNfZ0dhQlQ1NGNuWGRTZ2N4U3RObGtqQ01Zc2tnWmtQT0ZnODNfcjMyYkRuNWR3WnZWSXpZenFvaGNFbUV1Y2dBczF1bkJScnlNbDlFLVM2VGEtZTdhckZZNnJfcDlkTTdPemU5LUcxWWtUWktxdGRn?oc=5
-
-- After short Kolkata visit, Rubio meets PM Modi in New Delhi | Live - The Hindu
-  After short Kolkata visit, Rubio meets PM Modi in
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRW03VnRHQ1ZDVVdhTnhMSVVmM0JUYW9MT2xSMkY1YllqRE9qb3ZYSnpTMGZadXJnV2F4ZUMwajMwOFJvVUJfMFZTWG5Xb0VuUnJYd09obS1xOXA5TnUyYUU0Y1FzU2gzNFBaNjk1OW80dVZKdG5MRk5KS3p6Tll3QmRLc1RkTWhCU2tVd1RublRxZ0tXNjRacF9EM0J0WFVDQkRiajBZVjZXejlUbndiNW9ESFB1TDF4c3E2c3JLLW9oQW52Zkt2NGs3Njk3OXU0ZFdlWm530gHcAUFVX3lxTE9ISHVpSnd0X3RRVHpUQVlnd0dFdVN6cnc3RkppXzI5amJsbFBQOHl4MTFYUVR2TlpoMWRKSHpEMWVrYXhPY2oxczM5clJ4T0Y4UXZKMzFnVmFFU1BJVklwR3RFUGtkRi1ZTTJEZkJ1aTR5UnVpcEZUeGhXUVhSV1dqdzYySkxsN1JVVzZpLUd3VHJDRDctVXhZYVlaZjVzaUhYeVZjZ3JuaHdEVnVVWnVNNW10ajN5TF9naV9OZGFFY2g4RTZsM2xWRzlOYkg5TFVOeVBIbkFIZVR2d3o?oc=5
-
-- Marco Rubio visits India to sell energy as Iran oil shock persists - BBC
-  Marco Rubio visits India to sell energy as Iran oil
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
-  Marco Rubio visits India: What's at stake with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
-
-- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
-  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
-
-- "It's Not About India": Marco Rubio To NDTV On New US Greencard Rule - NDTV
-  "It's Not About India": Marco Rubio To ND
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMGJZVFN1TXBISzF2d0JEZlZYVm1hM0xkWDdVRFVXSUduTFU5LWN4Z0NnY0paZWhiZzlSZEQzRk5XbXJXVXlkU1UzNDZpVEVySm91and4OC1tWm8xb0doVjMzU3NYVWNKcFdyckZISWVvbFlKV2E5aW9BQVZJVUZLRGVUckU5V3pfV1VfdnBuRnF4Um00T0FMeW9Id3VyaWM3YnVfRDhpSy1uaTFoYVg5TTVlODBSa2pBVjZTT1htMGg4RGlwTGtYUTJxX1YtQ3NNdVpCdzZMOWVJQdIB4gFBVV95cUxPWGtnMkpLTm4tUFUzQldIOVdlNjFJYUdsVmg4RDNQQlVxaERSWUZEVlh3ZlcwaXFkNjlhY01pSEVPbFlCYkd5NnJxMzZ1U1lwdmE0R3d2b2dmXzZfdUhoTEc4VFhPUm9ndHhwYlR4QnFGTkNfZ0dhQlQ1NGNuWGRTZ2N4U3RObGtqQ01Zc2tnWmtQT0ZnODNfcjMyYkRuNWR3WnZWSXpZenFvaGNFbUV1Y2dBczF1bkJScnlNbDlFLVM2VGEtZTdhckZZNnJfcDlkTTdPemU5LUcxWWtUWktxdGRn?oc=5
-
-- After short Kolkata visit, Rubio meets PM Modi in New Delhi | Live - The Hindu
-  After short Kolkata visit, Rubio meets PM Modi in
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRW03VnRHQ1ZDVVdhTnhMSVVmM0JUYW9MT2xSMkY1YllqRE9qb3ZYSnpTMGZadXJnV2F4ZUMwajMwOFJvVUJfMFZTWG5Xb0VuUnJYd09obS1xOXA5TnUyYUU0Y1FzU2gzNFBaNjk1OW80dVZKdG5MRk5KS3p6Tll3QmRLc1RkTWhCU2tVd1RublRxZ0tXNjRacF9EM0J0WFVDQkRiajBZVjZXejlUbndiNW9ESFB1TDF4c3E2c3JLLW9oQW52Zkt2NGs3Njk3OXU0ZFdlWm530gHcAUFVX3lxTE9ISHVpSnd0X3RRVHpUQVlnd0dFdVN6cnc3RkppXzI5amJsbFBQOHl4MTFYUVR2TlpoMWRKSHpEMWVrYXhPY2oxczM5clJ4T0Y4UXZKMzFnVmFFU1BJVklwR3RFUGtkRi1ZTTJEZkJ1aTR5UnVpcEZUeGhXUVhSV1dqdzYySkxsN1JVVzZpLUd3VHJDRDctVXhZYVlaZjVzaUhYeVZjZ3JuaHdEVnVVWnVNNW10ajN5TF9naV9OZGFFY2g4RTZsM2xWRzlOYkg5TFVOeVBIbkFIZVR2d3o?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -200,5 +160,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-_Last updated: 2026-05-23 13:16:45 UTC_
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-05-23 19:05:36 UTC_
