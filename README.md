@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Ladakh DGP deputed to Manipur, likely to be state police chief
+- Waiting for Badal: Hopes fade for family of CRPF constable in top Maoist’s custody
   
-  🔗 https://indianexpress.com/article/india/ladakh-dgp-deputed-to-manipur-likely-to-be-state-police-chief-10703453/
+  🔗 https://indianexpress.com/article/india/waiting-for-badal-hopes-fade-for-family-of-crpf-constable-in-top-maoists-custody-10703577/
 
-- Twisha Sharma death: Court orders second autopsy, says all doubts should be cleared
+- Third fuel price hike in 2 weeks: Petrol price raised by 87 paise, diesel by 91 paise
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-death-court-second-autopsy-doubts-10703381/
+  🔗 https://indianexpress.com/article/india/petrol-diesel-price-hike-india-delhi-mumbai-rates-crude-oil-inflation-10703687/
 
-- Banda hits 47.6°C as IMD red alert covers six states; Kerala braces for very heavy rain
+- Helped Army against militants, fled Kashmir in 1997. Now their Jammu home has been bulldozed in 43°C heat
   
-  🔗 https://indianexpress.com/article/india/imd-heatwave-delhi-uttar-pradesh-rajasthan-kerala-rain-forecast-may-2026-10702832/
+  🔗 https://indianexpress.com/article/india/helped-army-against-militants-fled-kashmir-in-1997-now-their-jammu-home-has-been-bulldozed-in-43c-heat-10703572/
 
-- A fallout of Manipur’s hostage crisis: Stranded trucks, shrinking supplies
+- Rubio meets PM Modi today, will attend Quad huddle on May 26
   
-  🔗 https://indianexpress.com/article/india/manipur-hostage-crisis-naga-kuki-national-highway-block-trucks-stranded-10703263/
+  🔗 https://indianexpress.com/article/india/rubio-meets-pm-modi-will-attend-quad-huddle-on-may-26-10703525/
 
-- Marco Rubio to arrive tomorrow for Quad huddle on May 26
+- Absconding for 10 days, Twisha’s husband taken into custody; Bar suspends his licence
   
-  🔗 https://indianexpress.com/article/india/quad-foreign-ministers-meeting-new-delhi-us-marco-rubio-india-visit-energy-trade-10703224/
+  🔗 https://indianexpress.com/article/india/after-absconding-for-10-days-twisha-singhs-husband-taken-into-police-custody-10703532/
+
+- ‘We back science and tech moonshots others overlook’: Renaissance Philanthropy’s Kumar Garg
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/renaissance-philanthropy-kumar-garg-interview-ai-monsoon-prediction-geologic-hydrogen-10703318/
 
 - Scientists say your handwriting could offer clues about brain decline
   
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/gaming/gta-vi-finally-gets-november-launch-window-confirms-take-two-10703068/
 
-- Netflix expands accessibility features as global viewing habits shift
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-expands-accessibility-features-as-global-viewing-habits-shift-10703007/
+- Legal fight could delay a proposed $7B settlement for lawsuits in Roundup cancer claims
+  Legal fight could delay a proposed $7B
+  🔗 https://www.livemint.com/companies/legal-fight-could-delay-a-proposed-7b-settlement-for-lawsuits-in-roundup-cancer-claims-11779481063989.html
 
 - SpaceX’s Money-Losing Rockets Are Biggest Asset in AI Dream
   SpaceX revealed eye-popping numbers in its IPO prospectus. SpaceX revealed eye
@@ -56,9 +60,9 @@
   The strong response to the OFS comes at a time when the government has set an ambitious disinvestment and asset monetization target of  ₹80,000 crore
   🔗 https://www.livemint.com/companies/news/central-bank-ofs-oversubscribed-green-shoe-option-disinvestment-11779460356573.html
 
-- Hindalco profit slumps on heat from Novelis fire
-  The profit decline stemmed mainly from  ₹6,963 crore in one-off expenses linked to the Oswego plant disruption in New York last year. Operations of Novel
-  🔗 https://www.livemint.com/companies/hindalco-profit-slumps-on-heat-from-novelis-fire-11779464023292.html
+- Gold Drops as Fed’s Waller Says Next Move Likely to be Rate Hike
+  Gold declined as traders ramped up bets on Federal Reserve monetary tightening. Governor Christopher Waller warned the
+  🔗 https://www.livemint.com/market/gold-drops-as-fed-s-waller-says-next-move-likely-to-be-rate-hike-11779479482547.html
 
 - Dollar near six-week high amid Iran war jitters
   Dollar near six-
@@ -75,10 +79,6 @@
 - Sebi bars 7 entities over stock manipulation, freezes  ₹20 crore gains
   The Securities and Exchange Board of India has accused seven entities of engaging in stock manipulation through social media. The accused earned over  ₹20 crore by enticing retail
   🔗 https://www.livemint.com/market/sebi-bars-7-entities-over-stock-manipulation-freezes-20-crore-gains-11779466343584.html
-
-- Small-cap stock hits upper circuit after Q4 results 2026
-  HRS Aluglaze shares rose 6% to  ₹239 after reporting strong financial results for FY26. Revenue of  ⁹67.53 crore,
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-hits-upper-circuit-after-q4-results-2026-11779467419937.html
 
 - Before you replace your HDD with an SSD, here’s why some users still prefer hard drives
    SSDs make laptops and PCs feel much faster, but HDDs still offer cheaper high-capacity storage
@@ -100,25 +100,29 @@
   Apple has introduced two major health-tracking features in India. Apple Watch users will receive sleep apnoea
   🔗 https://www.livemint.com/technology/tech-news/apple-adds-two-major-health-features-in-india-know-all-about-sleep-apnoea-alerts-and-hearing-tests-11779355536956.html
 
-- Dow jumps more than 300 points to record as Wall Street heads for winning week, Treasury yields ease: Live updates - CNBC
-  Dow jumps more than 300 points to record as Wall Street heads for winning week. S&amp;P 500 on Pace for 8th Straight Week of Gains.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB6Z1RlN284dVllbnhMYUlsajJBQVRNNzI2dUJETlpNU2ZvRWZQMDI4WW5RUnQ0UDVhSE9sTnQ2NF9kODZ1bUV5STBlVmt3bWRGWVFqMkNnb2kwUGFqbThFc2ZGUUNvSWFCSUhYN19GdlZhUTlGbzEw0gF8QVVfeXFMUFBVQUFoSHIxTDBZcGh4Q3NFbHpEM2ZoTjZISUZIRk5ORGdVWndtY255RGhZd1A0ajV6MkxzTkpKcXpHM3gzMVB5aS1lSFZWUzRfVmlBaW10d0dHVjdMZzNKWkNzWkVRLUZiRWtZYl8yNWZSa1ZEeHJhX2JsUw?oc=5
+- S&P 500 Is Set for Longest Weekly Rally Since 2023: Markets Wrap - Bloomberg.com
+  P 500 Is Set for Longest Weekly Rally Since
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVVTcFY0b3RjYXYwV3VJbFN1enpaTVUtYlBJbWw3SzVubHJDeWF2MjhaMEdQYzJFdk5Ld0NGQ3Jack5mX0lhaVEwQlpJWS11S1lIY0ZuM2k3dm5Ic0RkUXA1SW5FM1ZxQ0lZTG1IWHJIbkpXSkVhMW9SdTVDLUFHRlBWUGNwVHhEQjhzcm85U0d1UUJsZVJuczlqS0QyczVxYWdBNmxycDQ2TVM5Mk13RWFn?oc=5
 
-- Stock Markets Are Increasingly Vulnerable to Rising Bond Yields - Goldman Sachs
-  Goldman Sachs: Stock Markets Are Increasing
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3c5Y2JnSFVZTTQ5SVg5MUdLZGZIS0dqdmxtRER4bkRBcEZfMW1tNHZCODFwZjU4S1k5ZmRVOHNOemlmUHV4UnE3bzBhd2tISEpoSUlRNENmTUh4dkdtVlJvZWt3VXAyZm1nbWZhVDEwdlowY0lFaFVzZGY2X093N01FUFNZZERrNWdFQWN1cU1GVTloZVA5b0dvSUhHTWVjMUpTMERxckcwTzlFbjhn?oc=5
+- Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at Record High; S&P 500 Posts 8th Straight Week of Gains - Investopedia
+  Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUNlVjEzNWhNaEFrenpvVDlPX3BReWxjWGlieXlfeTZqWktOMXBUMTJJOWtRLWc0QVFORWxCU3B5QWZlVk5iSUJtUzBPUnhrQXVkc0tfcEs3c3JSU1hFVzJYbG1NS1RKVUQyNWFqZndqVG1HSHNwb3NLVTI3eHZtVm1IbXRQbjFudE9sVE0tVVI?oc=5
+
+- Iran war peace hopes; Take-Two surges - what’s moving markets - Investing.com
+  Iran war peace hopes; Take-Two
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPTDlqWG9oUkQwdWFQb1V2UmF0TUNReEhmVTlkeUhBWW9aWk1IN0hybm02Q3hPblJYSnVES0NnVTZXWHotYU0wT1NOTEFzTl9ZWVlxajJ1VFBsVGR1aDJGUWw0UzZzWFd6YXBDU0VsLVU3QWtVaEN4OFo2aXdYeTJwWUZaUGpIdUJ2MWRqZ3p1eVowVmxZZ0lwWHBGMEFuNzJ4MWVDSlRNem1Oc2YtNlE?oc=5
 
 - Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief - The Guardian
   Oil markets nearing ‘red zone’ as Iran
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmRrRl9VLVF0V1liam92bXV0Z01GdUlvVDdQZzF5ZHNNYS04emxnQWhNbFBZNE96cVNUZ2pPT2xpR1YxdUV2TWJTT3J6ZlBfU3dWaTNYMGxMZFpONGdNOWRoTXdtNGNUUmYyTWljaTVHQWRaeVhFUXNwNFBZajUwSmlrTWlYWU9oTFpUblZvT3RFQndteDhwVUlQRGhpYnBIb2ZhUW1xTmFpVkxoUksxWGU0dG4?oc=5
 
-- Palm Oil Markets Split as Indonesia Export Revamp Confuses Trade - Bloomberg.com
-  Palm Oil Markets Split as Indonesia Export
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQek9ldEd0S1NCQmJQT1Rtb0w3bVZOcmFmdjdudGdBTXNQekVHSlhRbDQ2dnVTUzZlWXBPUi0tVGNpZmxLMzZhR1VzZmgxZVB5VDByTGZ1ODI4dEpVVHlFUHpGZTZIcFRNQjh0MEE2SXh3emNqSE1mWW0wMDN5LVFJQkgxM3EwWkczNk1jNnplLWtjT2JmVVIxQ21JYWwyRDgwSDNwTFE2WV9jaHQ5b1ZaMy1PWVBYUQ?oc=5
+- Asia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy - CNBC
+  Asia-Pacific markets trade higher as investors assess
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxObGFMNnp3T0VGS3V1WjZ3VVEwUFZLMW5VTXhuS08wQVNkNThGaHk5OGFaWEp5cUdjZm9zeEdVYjBqYWlzUFZjLWRfMXl4VWlldVpkUklKYXJpY0ZnZDFMdkJFRlZORktNYmpHaVZmUzNpX1hRV0xYZEpmRlhJaDNremVvandfMHRZZFZCSGpqczhTNE9ZMU05ZnBn0gGfAUFVX3lxTE5BemdTWHVCZXlxNFBOQkIxa1h5NVpEaEZwWjFsWWNBUXNPZ0pPY0xvc3MzLVpzRksyLUl5bVJ4YTZQczROaHdMdEpOMTdQSTYwMDdZZFBZUTMtNEV6YlRsY25GTmxFR2c4dzN6M2lsYnBFVEd2SUxuQjlYekQ5amxqNmotMnBMYThWUU1mRENleDE1NkltNy1MbDg3cy00SQ?oc=5
 
-- Stock markets rebound led by banks, positive global trends - The Hindu
-  Stock markets rebound led by banks, positive
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWVUVFEzYkVqOE9OSmpvRzNWQkhwLURjVzJGdzV3VjJoN1YtcVBVN3I0Ylc1RGpzRTNsVnctcFJLNUpGVDQxZnA0NXg0eG1KbEVCOTg3MVd4SmwtZFl1SUFCRnJLTHlORkpBckVFXy1QYlJ0dDZXbmRlQUttTGdqakh1aG9zVGRReWlSU3lTTVNYRkFZX21xcDhGQ3FhZUlxUS04OW1EaDktM0c1eHpFX0d4dHRaa3RqRk1r0gHCAUFVX3lxTE5ibVd3QktPUXNJRTB5R2t4R3pGWklmdmgydlBxYVRCTmRWSk00Y0IzOTdiRFlVdy1VbHFJNUFsRTRZdG9tRkpNVFU0SGZVaEsyZGJ2SkU0TVdoS3cxY3E2eFpOZEdJTXhqd3N3NVVPTWRoWE1QeEZBTjZzVUw4eS1vUjVfWFFHUzZFQmZ1ZFBhLXk5Z3MwOGNEZ0xQS0VLQ0NtNTl6QTZfRkxvSkVXWXNjR0N0VjBhNWpBWkNWdVZYN2Jn?oc=5
+- US stocks today: Dow hits record high as Middle East hopes lift sentiment and Warsh takes Fed charge
+  US stocks rose as Dow hit an intraday record and S&amp;P 500 extended its winning streak to eight weeks. Tech stocks gained after Lenovo results lifted Dell and HP. Bond yields eased while Kevin Warsh was sworn in
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-hits-record-high-as-middle-east-hopes-lift-sentiment-and-warsh-takes-fed-charge/articleshow/131268063.cms
 
 - US Fed chair Kevin Warsh says will be 'reform-oriented' at glitzy White House swearing-in
   Kevin Warsh sworn in as new head of the US Federal Reserve. President Donald Trump says Warsh will be "totally independent" It is unusual for the chief of the Fed to be sworn in at the White House.
@@ -136,89 +140,65 @@
   Deepa Jewellers, a B2B hallmarked gold jewellery processor based in Hyderabad, and Cotec Healthcare, a pharmaceutical CDMO, both received SEBI
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/deepa-jewellers-cotec-healthcare-receive-sebi-approval-for-ipos/articleshow/131265760.cms
 
-- Sebi bars seven entities in social media stock recommendations, alleges Rs 58 crore gains
-  Sebi barred seven individuals for allegedly generating Rs 58 crore in wrongful gains. They allegedly traded ahead of their posts to profit from price movements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-seven-entities-in-social-media-stock-recommendations-alleges-rs-58-crore-gains/articleshow/131265610.cms
+- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
+  Marco Rubio visits India: What's at stake with
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
 
-- Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
-  Cockroach Janta Party (CJP)
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
-
-- India news: Cockroaches overtake Modi's BJP on Instagram - dw.com
+- India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- Shashi Tharoor's Advice To Opposition Amid 'Cockroach Janata Party' Rage - NDTV
-  Shashi Tharoor's advice to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQR003MnBFcFV1bU52aGZ0dmlzd0pXZi1ibW5ONHE0ekpORVpsUThZcHpQbW5xQkMtQ0tjcUptYjc1b1ltMkpQaXZ3WC16LUVMQUkwSkd4cGhKeEFfUjdWS0ZFRGZsUWJoQVBVWXZYS2FLclpiT3lwdTBLTlRZMURKV1RWbkFFREU1eUE0VnF1dlFYaDBER2RyN09wY2ZlM2dTMTBNWXVaOGN4RkF2N3U40gG3AUFVX3lxTFBHRVhndk04cW1xODhDUDNPbGVjbnZHY1U2dzVlMkl1cHozWElBUml5NUQyVmVRSjFDVDNybmIxc2thYmJXSEdWeW1lMzhKMldkTDItUUkta056VzFfcTdkVjY2VXFaeUEyVTgxWHJPSHpGdTVIRW5nUFpkT2tJRWVJQjQ0dlZMOS1nOHBndDZPdTZoRjNYbllNa283Nk1YOVlqYlFoYnRHbHR1dG5HdG9wTG9WVjNRRQ?oc=5
+- Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Paise In 3rd Hike In 10 Days - NDTV
+  Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Pa
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0hFR2wyTV9TV0hBd2UxUzB6VmJETWF5TllIV2ZSaU52UXJreHNfYk90SHhyWnpET0hYN1FvcHZXQjBSeUhWSDNLT1RjWms5QmJJd3VuUlRQY3lWc3FXZG9WbFYzY3pTSlJyOEZRbVlURnFKUEt6ZUMxcXJ3N2ktaGJ4S0Z0WVdFUnluZGtUZ0Zpb21xclBCYVpyTlY1RzNEODFpbE1XTmJaNGRsUDkyeE1DZTFNOEFjMUd4RkxpZFFOYVpsUTg3UktacmhwZ9IB1gFBVV95cUxOR2ZDeGxLQVRrcFJ1YUVnUTllZHFNaldoOGJnTjhRdmdFQlUtQ0V0V2ZzY3NuOG5FUWI1eGV4QkJjRGxaeEIybmxBemZUQXhyZXI1ZUoxMXA1UFF5aXBTRWlFWnhMR3EyaGxzbUt4Z3dvYVdrRGFkNUhReTZYSnM3cUd5cDd6bTJLMTNSd0ZFR2NDcTlOd0w4Z0JpeS1wN3NTU3ptQll2clFETWpEYlAwNDV1OWFMempGSjlpeVNGVUtacC0yQ05rU0tkak5lbWpfWEJBcXFB?oc=5
 
-- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
-  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
+- US Secretary of State Marco Rubio will arrive in India today on a four-day visit - Newsonair
+  US Secretary of State Marco Rubio will arrive in India today on a
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXpkbzgyUHJkamUzd2o4bG9wcUIzU2N1MHdCTmEtOTFZbUR4OFJjcXA2WlJhdVB5UmViaHVVT0JZMy01d0ZDZVpIcTdqeVNWc0R2U2w4RmFIVGVwMms4VS1PZkdla05IVGstRHRoNkJuSVpJTF9wcTY1TEp6eFhrWnV0ZG9nNHRydTJ3dGFMTWJKcGQ2N3FESkwxNTRPd09TVkFJdHJ4NVlHZE1kWlFv?oc=5
 
-- "He Wasn't Hiding": Lawyer Of Twisha Sharma's Husband On His Disappearance - NDTV
-  "He Wasn't Hiding": Law
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVS13WXRRcVdZdlZQUW94T0lCMUVMLVlGSXA2cUIxNEVFR0Y4QU1jQWJid1F4RXdDSnR0b3lSUDV4UHFXb084U3lBLWtCb3ZacWdkc1VMdUc0TjZLcDZaS3RVVjhvZjhNRk1qYllyYW1YZ3dGV0FRYnNDTHBIUmF5eTgwcjNIbWlOa0hlY2hEVHdUZ0NEaks0ZV9zLXNvM2xESUxIeEFtdThPeFJkenlHTnNFdnV6bHdGTmFYMnV6TUw0MmRfakl2M3BLbFlMR1dOSzVSTXNkNXdCSHVWWnF0bFZtV19yVnk0V25iWUpaajBXSG5n0gH8AUFVX3lxTFB5WTBTMWxZaHFvN29HVG1qMl9FYnYtMDNrbmswa0tpNVQ1amE2MHVocDd5d0xBUkVCU2ItdG9BRVR0RVlsVm5zYkVCWWJoWjVOdUJtRndyLTF3WDAwTWkwN1dwM2p5RHJzWDF2d1JnWWlEMThzX3FhZTRySmwyZXRRem5KSFpILUJPb1Q2c3ZiSWVyMkl1T2tvdmdjVm9LNnEwU2d1VkRHdEpWdERkN2U5SS1FcHhYTFNxYTJHY1lLNnFSSWpLeXhhV0I4ejdjOXJNSEtNSTExNm1iNUZwX3RIdE5sWEJMQjJrcl9VNVJ1UTY0MXl2d1R4c19tYQ?oc=5
+- Morning Digest: Petrol and ‌diesel prices raised for a third time this month; Marco Rubio arrives on first visit to India, and more - The Hindu
+  Marco Rubio arrives on first visit to India. Petrol and ‌diesel prices raised for a third time
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkZkbmIxUjE5TkhQYllQWEJHeGZnVW14eG9QdDhNME1fSVllWmlqOWdVckk3RTB3TGFqVzFSU1FOVXlCdGF2bzNYTENSMkRUME4tTFV0LUtyM0pnRmJhRFQzNnA3VVQxaGs5MXFlX2hoMG9MMUpDalQ3RTNyRHBkazdtbENjQdIBjAFBVV95cUxOaGVaS0R4ZllzaDZ0ZWJPUXpldFU3TEJvWnc0RXNZd2tSaXgtdVcwV1dITmVvMUFodi14XzhHS2NIZDdMbThtLWxna1FUamYwa3R0N01aOFFBNFI1dy1XQUhmd21sTzk2WTVOWGdGdDBWMjZfeXdqQkNLTlJKQWNZTVhkWVhYLUVBb0kyaQ?oc=5
 
-- Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
-  Cockroach Janta Party (CJP)
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
+- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
+  Marco Rubio visits India: What's at stake with
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
 
-- India news: Cockroaches overtake Modi's BJP on Instagram - dw.com
+- India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- Shashi Tharoor's Advice To Opposition Amid 'Cockroach Janata Party' Rage - NDTV
-  Shashi Tharoor's advice to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQR003MnBFcFV1bU52aGZ0dmlzd0pXZi1ibW5ONHE0ekpORVpsUThZcHpQbW5xQkMtQ0tjcUptYjc1b1ltMkpQaXZ3WC16LUVMQUkwSkd4cGhKeEFfUjdWS0ZFRGZsUWJoQVBVWXZYS2FLclpiT3lwdTBLTlRZMURKV1RWbkFFREU1eUE0VnF1dlFYaDBER2RyN09wY2ZlM2dTMTBNWXVaOGN4RkF2N3U40gG3AUFVX3lxTFBHRVhndk04cW1xODhDUDNPbGVjbnZHY1U2dzVlMkl1cHozWElBUml5NUQyVmVRSjFDVDNybmIxc2thYmJXSEdWeW1lMzhKMldkTDItUUkta056VzFfcTdkVjY2VXFaeUEyVTgxWHJPSHpGdTVIRW5nUFpkT2tJRWVJQjQ0dlZMOS1nOHBndDZPdTZoRjNYbllNa283Nk1YOVlqYlFoYnRHbHR1dG5HdG9wTG9WVjNRRQ?oc=5
+- Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Paise In 3rd Hike In 10 Days - NDTV
+  Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Pa
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0hFR2wyTV9TV0hBd2UxUzB6VmJETWF5TllIV2ZSaU52UXJreHNfYk90SHhyWnpET0hYN1FvcHZXQjBSeUhWSDNLT1RjWms5QmJJd3VuUlRQY3lWc3FXZG9WbFYzY3pTSlJyOEZRbVlURnFKUEt6ZUMxcXJ3N2ktaGJ4S0Z0WVdFUnluZGtUZ0Zpb21xclBCYVpyTlY1RzNEODFpbE1XTmJaNGRsUDkyeE1DZTFNOEFjMUd4RkxpZFFOYVpsUTg3UktacmhwZ9IB1gFBVV95cUxOR2ZDeGxLQVRrcFJ1YUVnUTllZHFNaldoOGJnTjhRdmdFQlUtQ0V0V2ZzY3NuOG5FUWI1eGV4QkJjRGxaeEIybmxBemZUQXhyZXI1ZUoxMXA1UFF5aXBTRWlFWnhMR3EyaGxzbUt4Z3dvYVdrRGFkNUhReTZYSnM3cUd5cDd6bTJLMTNSd0ZFR2NDcTlOd0w4Z0JpeS1wN3NTU3ptQll2clFETWpEYlAwNDV1OWFMempGSjlpeVNGVUtacC0yQ05rU0tkak5lbWpfWEJBcXFB?oc=5
 
-- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
-  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
+- US Secretary of State Marco Rubio will arrive in India today on a four-day visit - Newsonair
+  US Secretary of State Marco Rubio will arrive in India today on a
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXpkbzgyUHJkamUzd2o4bG9wcUIzU2N1MHdCTmEtOTFZbUR4OFJjcXA2WlJhdVB5UmViaHVVT0JZMy01d0ZDZVpIcTdqeVNWc0R2U2w4RmFIVGVwMms4VS1PZkdla05IVGstRHRoNkJuSVpJTF9wcTY1TEp6eFhrWnV0ZG9nNHRydTJ3dGFMTWJKcGQ2N3FESkwxNTRPd09TVkFJdHJ4NVlHZE1kWlFv?oc=5
 
-- "He Wasn't Hiding": Lawyer Of Twisha Sharma's Husband On His Disappearance - NDTV
-  "He Wasn't Hiding": Law
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVS13WXRRcVdZdlZQUW94T0lCMUVMLVlGSXA2cUIxNEVFR0Y4QU1jQWJid1F4RXdDSnR0b3lSUDV4UHFXb084U3lBLWtCb3ZacWdkc1VMdUc0TjZLcDZaS3RVVjhvZjhNRk1qYllyYW1YZ3dGV0FRYnNDTHBIUmF5eTgwcjNIbWlOa0hlY2hEVHdUZ0NEaks0ZV9zLXNvM2xESUxIeEFtdThPeFJkenlHTnNFdnV6bHdGTmFYMnV6TUw0MmRfakl2M3BLbFlMR1dOSzVSTXNkNXdCSHVWWnF0bFZtV19yVnk0V25iWUpaajBXSG5n0gH8AUFVX3lxTFB5WTBTMWxZaHFvN29HVG1qMl9FYnYtMDNrbmswa0tpNVQ1amE2MHVocDd5d0xBUkVCU2ItdG9BRVR0RVlsVm5zYkVCWWJoWjVOdUJtRndyLTF3WDAwTWkwN1dwM2p5RHJzWDF2d1JnWWlEMThzX3FhZTRySmwyZXRRem5KSFpILUJPb1Q2c3ZiSWVyMkl1T2tvdmdjVm9LNnEwU2d1VkRHdEpWdERkN2U5SS1FcHhYTFNxYTJHY1lLNnFSSWpLeXhhV0I4ejdjOXJNSEtNSTExNm1iNUZwX3RIdE5sWEJMQjJrcl9VNVJ1UTY0MXl2d1R4c19tYQ?oc=5
+- Morning Digest: Petrol and ‌diesel prices raised for a third time this month; Marco Rubio arrives on first visit to India, and more - The Hindu
+  Marco Rubio arrives on first visit to India. Petrol and ‌diesel prices raised for a third time
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkZkbmIxUjE5TkhQYllQWEJHeGZnVW14eG9QdDhNME1fSVllWmlqOWdVckk3RTB3TGFqVzFSU1FOVXlCdGF2bzNYTENSMkRUME4tTFV0LUtyM0pnRmJhRFQzNnA3VVQxaGs5MXFlX2hoMG9MMUpDalQ3RTNyRHBkazdtbENjQdIBjAFBVV95cUxOaGVaS0R4ZllzaDZ0ZWJPUXpldFU3TEJvWnc0RXNZd2tSaXgtdVcwV1dITmVvMUFodi14XzhHS2NIZDdMbThtLWxna1FUamYwa3R0N01aOFFBNFI1dy1XQUhmd21sTzk2WTVOWGdGdDBWMjZfeXdqQkNLTlJKQWNZTVhkWVhYLUVBb0kyaQ?oc=5
 
-- Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
-  Cockroach Janta Party (CJP)
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
+- Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? - Al Jazeera
+  Marco Rubio visits India: What's at stake with
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONFFMNlZJOEhCTU85dTE3bGVDTVgwLXlaNkxQZkhLNGtkbTVSdHZZRm8tMHZLeHpsNXFPVjI0eGJmYlAzSVpTcEwtRW9hcjVXZlFOYjY0aXUweXB3ZWRtZlVDV3k5NjZfNkZwWnNSVWQ0dEdqTmxDczNrUlpabWZyYmttVXduYUp0OWFMUVpuZXBIdGtuY2hiRVgzQ1BRdElwYUNDT0pHZ09YeDMzLTVr0gG0AUFVX3lxTE5TcHZ6RW1FMDNHajI0UFlNYm1fVUFTZC0wVElaVkI5OVJLTDNEU3JoLVV3RV82UFRVbTZIYWpDbzU1bFNScXZvdTVPdGlsQjdKc2F4c2djNXIzQy1wTFJtR19XaXNzWFZkNkJqS216bUhCVUxUaGgyUHBKbVlRclJTNnJucUZGMV9TR2dlalNGQXJBMlVFM2VBVWVtQUd6Vk4yYklXS25ZcWFiaGFjTHE1eFV3eQ?oc=5
 
-- India news: Cockroaches overtake Modi's BJP on Instagram - dw.com
+- India news: Cockroaches overtake Modi's BJP on Instagram - DW.com
   India news: Cockroaches
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
 
-- Shashi Tharoor's Advice To Opposition Amid 'Cockroach Janata Party' Rage - NDTV
-  Shashi Tharoor's advice to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQR003MnBFcFV1bU52aGZ0dmlzd0pXZi1ibW5ONHE0ekpORVpsUThZcHpQbW5xQkMtQ0tjcUptYjc1b1ltMkpQaXZ3WC16LUVMQUkwSkd4cGhKeEFfUjdWS0ZFRGZsUWJoQVBVWXZYS2FLclpiT3lwdTBLTlRZMURKV1RWbkFFREU1eUE0VnF1dlFYaDBER2RyN09wY2ZlM2dTMTBNWXVaOGN4RkF2N3U40gG3AUFVX3lxTFBHRVhndk04cW1xODhDUDNPbGVjbnZHY1U2dzVlMkl1cHozWElBUml5NUQyVmVRSjFDVDNybmIxc2thYmJXSEdWeW1lMzhKMldkTDItUUkta056VzFfcTdkVjY2VXFaeUEyVTgxWHJPSHpGdTVIRW5nUFpkT2tJRWVJQjQ0dlZMOS1nOHBndDZPdTZoRjNYbllNa283Nk1YOVlqYlFoYnRHbHR1dG5HdG9wTG9WVjNRRQ?oc=5
+- Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Paise In 3rd Hike In 10 Days - NDTV
+  Petrol Prices Hiked By 87 Paise, Diesel Up By 91 Pa
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0hFR2wyTV9TV0hBd2UxUzB6VmJETWF5TllIV2ZSaU52UXJreHNfYk90SHhyWnpET0hYN1FvcHZXQjBSeUhWSDNLT1RjWms5QmJJd3VuUlRQY3lWc3FXZG9WbFYzY3pTSlJyOEZRbVlURnFKUEt6ZUMxcXJ3N2ktaGJ4S0Z0WVdFUnluZGtUZ0Zpb21xclBCYVpyTlY1RzNEODFpbE1XTmJaNGRsUDkyeE1DZTFNOEFjMUd4RkxpZFFOYVpsUTg3UktacmhwZ9IB1gFBVV95cUxOR2ZDeGxLQVRrcFJ1YUVnUTllZHFNaldoOGJnTjhRdmdFQlUtQ0V0V2ZzY3NuOG5FUWI1eGV4QkJjRGxaeEIybmxBemZUQXhyZXI1ZUoxMXA1UFF5aXBTRWlFWnhMR3EyaGxzbUt4Z3dvYVdrRGFkNUhReTZYSnM3cUd5cDd6bTJLMTNSd0ZFR2NDcTlOd0w4Z0JpeS1wN3NTU3ptQll2clFETWpEYlAwNDV1OWFMempGSjlpeVNGVUtacC0yQ05rU0tkak5lbWpfWEJBcXFB?oc=5
 
-- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
-  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
+- US Secretary of State Marco Rubio will arrive in India today on a four-day visit - Newsonair
+  US Secretary of State Marco Rubio will arrive in India today on a
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXpkbzgyUHJkamUzd2o4bG9wcUIzU2N1MHdCTmEtOTFZbUR4OFJjcXA2WlJhdVB5UmViaHVVT0JZMy01d0ZDZVpIcTdqeVNWc0R2U2w4RmFIVGVwMms4VS1PZkdla05IVGstRHRoNkJuSVpJTF9wcTY1TEp6eFhrWnV0ZG9nNHRydTJ3dGFMTWJKcGQ2N3FESkwxNTRPd09TVkFJdHJ4NVlHZE1kWlFv?oc=5
 
-- "He Wasn't Hiding": Lawyer Of Twisha Sharma's Husband On His Disappearance - NDTV
-  "He Wasn't Hiding": Law
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVS13WXRRcVdZdlZQUW94T0lCMUVMLVlGSXA2cUIxNEVFR0Y4QU1jQWJid1F4RXdDSnR0b3lSUDV4UHFXb084U3lBLWtCb3ZacWdkc1VMdUc0TjZLcDZaS3RVVjhvZjhNRk1qYllyYW1YZ3dGV0FRYnNDTHBIUmF5eTgwcjNIbWlOa0hlY2hEVHdUZ0NEaks0ZV9zLXNvM2xESUxIeEFtdThPeFJkenlHTnNFdnV6bHdGTmFYMnV6TUw0MmRfakl2M3BLbFlMR1dOSzVSTXNkNXdCSHVWWnF0bFZtV19yVnk0V25iWUpaajBXSG5n0gH8AUFVX3lxTFB5WTBTMWxZaHFvN29HVG1qMl9FYnYtMDNrbmswa0tpNVQ1amE2MHVocDd5d0xBUkVCU2ItdG9BRVR0RVlsVm5zYkVCWWJoWjVOdUJtRndyLTF3WDAwTWkwN1dwM2p5RHJzWDF2d1JnWWlEMThzX3FhZTRySmwyZXRRem5KSFpILUJPb1Q2c3ZiSWVyMkl1T2tvdmdjVm9LNnEwU2d1VkRHdEpWdERkN2U5SS1FcHhYTFNxYTJHY1lLNnFSSWpLeXhhV0I4ejdjOXJNSEtNSTExNm1iNUZwX3RIdE5sWEJMQjJrcl9VNVJ1UTY0MXl2d1R4c19tYQ?oc=5
-
-- Cockroach Janta Party (CJP): How Abhijeet Dipke's collective became an online sensation - BBC
-  Cockroach Janta Party (CJP)
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lc0Q0bU44S1NCUEdodXF2enMwVDlsLUlrV08tTFJ1TUppNGFWNlhFV1VtQlpMRndaNEo4TXdJRUsza0lGYjRLcmJhZkswbTlxRjBUbW9MZy0tZw?oc=5
-
-- India news: Cockroaches overtake Modi's BJP on Instagram - dw.com
-  India news: Cockroaches
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxORDFhdmNNRmxFVHY2T3BZY2FDeEpRT2RoT2FUVGJGQ2thNnBuNVFnVnFTOVA1dWFhbEVoNEYxRmVYb2pUX2tfVFVpUVRZZUJEUXJIVXl1MlVrY3podXdYMWp0S09UamdzMkx0VGs5anBGUG9kVnBISk0xQk9pTl9abTdSSEZYdTVfT3FkRjBnVF84VU1l?oc=5
-
-- Shashi Tharoor's Advice To Opposition Amid 'Cockroach Janata Party' Rage - NDTV
-  Shashi Tharoor's advice to
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQR003MnBFcFV1bU52aGZ0dmlzd0pXZi1ibW5ONHE0ekpORVpsUThZcHpQbW5xQkMtQ0tjcUptYjc1b1ltMkpQaXZ3WC16LUVMQUkwSkd4cGhKeEFfUjdWS0ZFRGZsUWJoQVBVWXZYS2FLclpiT3lwdTBLTlRZMURKV1RWbkFFREU1eUE0VnF1dlFYaDBER2RyN09wY2ZlM2dTMTBNWXVaOGN4RkF2N3U40gG3AUFVX3lxTFBHRVhndk04cW1xODhDUDNPbGVjbnZHY1U2dzVlMkl1cHozWElBUml5NUQyVmVRSjFDVDNybmIxc2thYmJXSEdWeW1lMzhKMldkTDItUUkta056VzFfcTdkVjY2VXFaeUEyVTgxWHJPSHpGdTVIRW5nUFpkT2tJRWVJQjQ0dlZMOS1nOHBndDZPdTZoRjNYbllNa283Nk1YOVlqYlFoYnRHbHR1dG5HdG9wTG9WVjNRRQ?oc=5
-
-- PM Modi's 3 messages to ministers as India battles fallout of US-Iran war | India News - Hindustan Times
-  PM Modi's 3 messages to ministers as India battles fallout of US-Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlU3VjNqM1hwRHdKUXp3SVI5b01zQ2NMT3ZpMHlSTnBoaGZ6ZGhmbm42Rm81Qk1Ec2dtb2U2MTNVdXpZb2ExOHRiemVGNzBXWkRCTkdURnVSRzgyb2RTeUE5QjE5eTg5LWFQaldHVTV2dnZDcHROU1Z5NmJPek5SX0tLQzYwUFRlRWdBTjNLaE9xZzBkUTZDRHZZVUZCLURpUFJNdmcwYmNibWlod0VBSzBST0FCb0VjUWJOTVZZbXJQSU9rT1dRTW1UMS1scGvSAdQBQVVfeXFMTkItWnFpU3ZzajFiSG9yaXY2MHdwYmJuM25CWG1oaGJWWlFqdW1yOGh5MHRxWmp0WGJBcWVGOW8tOGNpWE9KWXk0OUZIMlFzMnRMc0dQam15Z084WDBzWTJpRzkxMHVXbVRxSDN0UjBiSklfZDljV3ZTSmpyMmxvcExITzlEbG4wZGtjTENJRjJUMERtSXc2N1E0NTIzam9wZGQ1RVRtbFNhUjJEZjFxaW1TX3lRNmNkOXh1cndraTlDRWp0SUd5T1hlWUVRd0Fha3phb3U?oc=5
-
-- "He Wasn't Hiding": Lawyer Of Twisha Sharma's Husband On His Disappearance - NDTV
-  "He Wasn't Hiding": Law
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVS13WXRRcVdZdlZQUW94T0lCMUVMLVlGSXA2cUIxNEVFR0Y4QU1jQWJid1F4RXdDSnR0b3lSUDV4UHFXb084U3lBLWtCb3ZacWdkc1VMdUc0TjZLcDZaS3RVVjhvZjhNRk1qYllyYW1YZ3dGV0FRYnNDTHBIUmF5eTgwcjNIbWlOa0hlY2hEVHdUZ0NEaks0ZV9zLXNvM2xESUxIeEFtdThPeFJkenlHTnNFdnV6bHdGTmFYMnV6TUw0MmRfakl2M3BLbFlMR1dOSzVSTXNkNXdCSHVWWnF0bFZtV19yVnk0V25iWUpaajBXSG5n0gH8AUFVX3lxTFB5WTBTMWxZaHFvN29HVG1qMl9FYnYtMDNrbmswa0tpNVQ1amE2MHVocDd5d0xBUkVCU2ItdG9BRVR0RVlsVm5zYkVCWWJoWjVOdUJtRndyLTF3WDAwTWkwN1dwM2p5RHJzWDF2d1JnWWlEMThzX3FhZTRySmwyZXRRem5KSFpILUJPb1Q2c3ZiSWVyMkl1T2tvdmdjVm9LNnEwU2d1VkRHdEpWdERkN2U5SS1FcHhYTFNxYTJHY1lLNnFSSWpLeXhhV0I4ejdjOXJNSEtNSTExNm1iNUZwX3RIdE5sWEJMQjJrcl9VNVJ1UTY0MXl2d1R4c19tYQ?oc=5
+- Morning Digest: Petrol and ‌diesel prices raised for a third time this month; Marco Rubio arrives on first visit to India, and more - The Hindu
+  Marco Rubio arrives on first visit to India. Petrol and ‌diesel prices raised for a third time
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkZkbmIxUjE5TkhQYllQWEJHeGZnVW14eG9QdDhNME1fSVllWmlqOWdVckk3RTB3TGFqVzFSU1FOVXlCdGF2bzNYTENSMkRUME4tTFV0LUtyM0pnRmJhRFQzNnA3VVQxaGs5MXFlX2hoMG9MMUpDalQ3RTNyRHBkazdtbENjQdIBjAFBVV95cUxOaGVaS0R4ZllzaDZ0ZWJPUXpldFU3TEJvWnc0RXNZd2tSaXgtdVcwV1dITmVvMUFodi14XzhHS2NIZDdMbThtLWxna1FUamYwa3R0N01aOFFBNFI1dy1XQUhmd21sTzk2WTVOWGdGdDBWMjZfeXdqQkNLTlJKQWNZTVhkWVhYLUVBb0kyaQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-22 19:32:41 UTC_
+_Last updated: 2026-05-23 02:37:24 UTC_
