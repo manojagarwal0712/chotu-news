@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Slipshod probe, IO filed chargesheet in haste: J&K HC after DNA mismatch in rape case
+  
+  🔗 https://indianexpress.com/article/india/slipshod-probe-io-filed-chargesheet-in-haste-jk-hc-after-dna-mismatch-in-rape-case-10704895/
+
+- ‘Nothing ever changes’: As summer peaks, village near Raipur runs out of drinking water
+  
+  🔗 https://indianexpress.com/article/india/nothing-ever-changes-as-summer-peaks-village-near-raipur-runs-out-of-drinking-water-10704888/
+
+- New friction point between India, US: Return-home rule for Green Card applicants
+  
+  🔗 https://indianexpress.com/article/india/new-friction-point-return-home-rule-for-green-card-applicants-10704881/
+
 - After Sidra demolitions row, J&K minister tells forest officials: ‘First understand the law’
   
   🔗 https://indianexpress.com/article/india/sidra-demolitions-row-jk-minister-forest-officials-understand-law-10704773/
@@ -7,18 +19,6 @@
 - Assam mob lynching: Two men suspected of cattle theft beaten to death near Arunachal border
   
   🔗 https://indianexpress.com/article/india/assam-sonitpur-mob-lynching-cattle-theft-case-10704763/
-
-- India to become major defence exporter in 25-30 years: Rajnath Singh
-  
-  🔗 https://indianexpress.com/article/india/mumbai/india-become-major-defence-exporter-25-30-years-rajnath-singh-10704761/
-
-- ‘Will work closely for global good’: PM Modi after meeting Rubio in Delhi, gets Trump White House invite
-  
-  🔗 https://indianexpress.com/article/india/pm-modi-marco-rubio-meeting-trump-white-house-invite-quad-delhi-10704547/
-
-- Rajasthan acts on PM Modi’s austerity push. Foreign trips on public funds banned, government vehicles to go electric
-  
-  🔗 https://indianexpress.com/article/india/rajasthan-austerity-measures-bhajan-lal-sharma-ev-foreign-travel-ban-10704665/
 
 - Study suggests that stress disrupts brain’s ability to connect memories with new information
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-joins-spotifys-disco-ball-icon-trend-with-sparkly-pixel-makeover-10704114/
 
+- OpenAI will pay  ₹3.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself
+  The job listing asks for someone ‘tasteful and strategic’ enough to reason about risks that do not yet exist.
+  🔗 https://www.livemint.com/companies/news/openai-will-pay-rs-3-7-crore-to-worry-about-a-problem-that-may-not-exist-yet-the-job-stop-ai-from-building-itself-11779588394384.html
+
+- Japan’s Akazawa Says He Spoke Briefly With China Commerce Minister
+  Japanese Trade Minister Ryosei Akazawa and Chinese Commerce Minister Wang Wentao had a brief chat on Friday. It was the first ministerial-
+  🔗 https://www.livemint.com/companies/japans-akazawa-says-he-spoke-briefly-with-china-commerce-minister-11779586974570.html
+
 - Seven ways AI is making 2025 tech layoffs different from Silicon Valley’s earlier job cuts
   Tech layoffs in 2025 are increasingly targeting middle management and coordination-heavy roles. Firms like Amazon, Meta and Shopify are pushing flatter hierarchies, AI
   🔗 https://www.livemint.com/companies/news/seven-ways-ai-is-making-2025-tech-layoffs-different-from-silicon-valley-s-earlier-job-cuts-11779516530012.html
@@ -52,13 +60,9 @@
   SpaceX revealed eye-popping numbers in its IPO prospectus. SpaceX revealed eye
   🔗 https://www.livemint.com/companies/spacexs-money-losing-rockets-are-biggest-asset-in-ai-dream-11779477585360.html
 
-- Wingtech seeks $1.2 billion damages in new suit against Nexperia
-  Wingtech seeks $1
-  🔗 https://www.livemint.com/companies/wingtech-seeks-1-2-billion-damages-in-new-suit-against-nexperia-11779475929361.html
-
-- Sun Pharma guides for slower FY27 growth amid regulatory, macro challenges
-  Sun Pharma forecasts high single-digit revenue growth for FY27. The company aims to expand its innovative portfolio amid regulatory challenges and compliance issues.
-  🔗 https://www.livemint.com/companies/company-results/sun-pharma-guides-for-slower-fy27-growth-amid-regulatory-macro-challenges-revenue-profit-11779462372299.html
+- RBI's record dividend to US-Iran war: Top five triggers that may dictate the Indian stock market this week
+  On Friday, the Nifty 50 climbed 0.32% to end at 23,719.30, while the Sensex gained 0.23% to settle at 75,415.35. While some
+  🔗 https://www.livemint.com/market/stock-market-news/rbis-record-dividend-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11779578669902.html
 
 - SIPs not the villain behind rupee weakness, says Samir Arora after Jefferies report
   Fund manager Samir Arora countered that alternatives to SIPs wouldn't necessarily aid the economy.
@@ -76,9 +80,13 @@
   The company reported a 202% YoY profit increase for Q4 FY26. The record date is set for July 17, 2026, pending shareholder approval at the AGM in August.
   🔗 https://www.livemint.com/market/stock-market-news/3m-india-announces-special-dividend-of-rs-506-share-posts-blockbuster-q4-results-2026-check-details-11779515897418.html
 
-- Expert view: Peak macro concerns behind; time for staggered accumulation, says Waterfield Advisors' head of equities
-  The resolution of geopolitical tensions could catalyse sectoral growth. Inflation and consumer spending remain critical challenges for investors to consider.
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-peak-macro-concerns-behind-time-for-staggered-accumulation-says-waterfield-advisors-head-of-equities-11779516948461.html
+- AI set to disrupt up to 28% of back-office and data roles in India over the next three years: Report
+  A new report suggests that 45% of organizations struggle with AI and digital skills shortages. It also predicts a major disruptions in various job sectors including
+  🔗 https://www.livemint.com/technology/tech-news/ai-set-to-disrupt-up-to-28-of-back-office-and-data-roles-in-india-over-the-next-three-years-report-11779587989988.html
+
+- WWDC 2026: Apple registers new ‘gen AI’ web domain as Siri gears up for its biggest upgrade in years
+  Apple has registered a new ‘gen AI’ sub domain which is expected to be a major hint at some of the new AI features that the company
+  🔗 https://www.livemint.com/technology/tech-news/wwdc-2026-apple-registers-new-gen-ai-web-domain-as-siri-gears-up-for-its-biggest-upgrade-in-years-11779584057825.html
 
 - Seven times creators lost out after depending on tech platforms and why OpenAI’s ‘Critterz’ may be the latest example
   As AI tools spread across creative industries, concerns are growing over sudden policy, pricing and product changes. From YouTube’s Adpocalypse to Facebook's publisher pivot and Open
@@ -92,33 +100,25 @@
   Grand Theft Auto VI video game (GTA 6) will launch on 19 November 2026, announced Take-Two Interactive during its latest earnings report. The company also projected fiscal 2027 bookings of up to
   🔗 https://www.livemint.com/technology/apps/gta-6-is-really-happening-on-november-19-take-two-just-put-8-billion-behind-that-claim-11779419146422.html
 
-- Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry
-  Trump postpones signing artificial intelligence order out of concern
-  🔗 https://www.livemint.com/technology/trump-postpones-signing-artificial-intelligence-order-out-of-concern-it-would-hurt-the-ai-industry-11779383596179.html
+- Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies - Bloomberg.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0hZdWthemN2VFZBQ3Q4dUszbjRaOTdlQWYxY2NteHNWYlM5U3FqQ0hxUjk1RlFPUHN3SEhZMG1yWEkzcDI0TUg2a0FhT0ZGQkNoZ016VzJVeXp3d3U4eHNQRWZka3l2SHBjMElqVDc4SWZxeFFyWGIyQXdZM3ZUY3VyanUxZmZCcV9yeURmLVJJQ3lJRHlrek5Pa29FdUlNaW85dVhrbXRkdUp6QXBZR2VXZw?oc=5
 
-- Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams
-  Google, Meta, TikTok hit by
-  🔗 https://www.livemint.com/technology/google-meta-tiktok-hit-by-eu-consumer-complaints-about-handling-of-financial-scams-11779374161340.html
+- Dow Jones Futures: Trump Says Iran Deal Near With Hormuz Opened'; Tesla, AI Stocks Near Buy Points - Investor's Business Daily
+  Investor's Business Daily: Trump Says Iran Deal Near With Hormuz Opened
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUNENE00Wng2TVMzQnhmVmZQTmg4T2dkZklIMXF4NWxYN29tZm5FUm56VzJwNENHSF9UODh5UUQ3MWFMZG9iMDdzYzdiR21Wdjl2alZHclRpQ25OWXpOQ3ZvUkc1UHVBSHhfTnByQ2FNekUzSUoyMVk1WnRKTmtUb3VVVnM5TDh5c3dhRDZaMzFiMzZNMjJjN1JHdUZoZlQ2Z1I4WHNGUzc2TW5FZW1LYzdn?oc=5
 
-- Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at Record High; S&P 500 Posts 8th Straight Week of Gains - Investopedia
-  Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUNlVjEzNWhNaEFrenpvVDlPX3BReWxjWGlieXlfeTZqWktOMXBUMTJJOWtRLWc0QVFORWxCU3B5QWZlVk5iSUJtUzBPUnhrQXVkc0tfcEs3c3JSU1hFVzJYbG1NS1RKVUQyNWFqZndqVG1HSHNwb3NLVTI3eHZtVm1IbXRQbjFudE9sVE0tVVI?oc=5
+- How Urban India's Weekend Obsession Became A $50 Million Market: Pickleball - NDTV
+  How Urban India's Weekend Obsession Became A
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3p3Skw2dWZfVHBiZGNUZzBpU2pfTlRmc0dGSTZsWlZiMC0wR01pa3NNODBaekVWNnJvaWJJaGlhOE5UbnM5cHNmZU5GVlJoTWoyOUd2dzJTZjU1ZVZaeVdZeFczZ3cwWlF2V210a1Z3ODZRZnJBWU11eW04X1JqeC1NYVBLOC1MQWlacl94MW5lSkY1bjQzaVJPY0hFazFFbVpnZTJGcmJDc3BPTEpRdzFXbw?oc=5
 
-- S&P 500 Is Set for Longest Weekly Rally Since 2023: Markets Wrap - Bloomberg.com
-  P 500 Is Set for Longest Weekly Rally Since
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVVTcFY0b3RjYXYwV3VJbFN1enpaTVUtYlBJbWw3SzVubHJDeWF2MjhaMEdQYzJFdk5Ld0NGQ3Jack5mX0lhaVEwQlpJWS11S1lIY0ZuM2k3dm5Ic0RkUXA1SW5FM1ZxQ0lZTG1IWHJIbkpXSkVhMW9SdTVDLUFHRlBWUGNwVHhEQjhzcm85U0d1UUJsZVJuczlqS0QyczVxYWdBNmxycDQ2TVM5Mk13RWFn?oc=5
+- Where to invest when markets are at all-time highs, according to UBS By Investing.com - Investing.com
+  Where to invest when markets are at all-time highs,
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVVrUy0xRDFJOWJmcUhoclV0bkRVbTJSa3Q5dGZBOW1hbE9qLS16UjJVZWVMcFI2LVUxXzdqcHhGdklXSlIyOG9hb2p3WFl1WlVwS3Axa2p4ZmFNQV9tUDU4ZkUwTUxWLWxUM1JpT28zekRPcUY2NGhrSjAycFl3cW5FbzNDZl93NTN1bWJvRTQ2am5sTUg5NDdjdnVhSFprVVBrSlFPdW5RTURNX1ZhSTM4bUE0bElBckk4YXpkNXY?oc=5
 
-- Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five AI Plays Are At Buy Points - Investor's Business Daily
-  Dow Jones Futures: Market Bets On Iran Deal; Tesla, These Five
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUFwRUtYY2czQ2R6cmY1cjlTSnJlVHRHRkpzeDBZdHJSWlNhdDZqc1pxbkQ2Wm55T19xcXpiTnV6TF9GWU5LYjhibnFyTm1Lc0psZzYtSkpBc3pRTFdvQlYwcmhuT1BZa1VpdEt3N0dxUGJqS0FmWkgxOGtKZnM2UG1yOU9fSFRPTFExMWVlSnBoUWVxME9ybDY4bTVYWGVhR01LaUhKN1U5Qk5j?oc=5
-
-- Oil market could enter ‘red zone’ by July as stocks dwindle ahead of summer travel season, IEA chief says - CNBC
-  Oil market could enter ‘red zone’ by July as stocks dwindle ahead
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFlWaGY2ZzJQRGc4eGRtM183R29xd0x2YktYLS04NEFVY0tmTW9EdF9JZWMxOFRxVU9YcEZWUXFuT2VVTVZLdUdxS2xpdGxmWFlhdGMwMnpmdkc3TW5tVWFtaG5OYThwUlJ4aHpWTVlIQWdfZl8wWnFnUW42TDM5RdIBhgFBVV95cUxPLWUtWkhzVG5EcWJfdnMtdUgtSWprR0JUamlmUms4b0lvcHNTdkVrOEhmY2wyRUUxTklJeWVHRUlYSllVaWF2LVBwVWV3aGV5Z09xemR5VGRqSm1yOElERGhPQThVODBhVjZocXpiWlM5WEdWRXhJYXgzUk4zZ0Y3YW1ybV8tUQ?oc=5
-
-- Stock market strength is now rupee’s curse - The Times of India
-  Stock market strength is now rupee�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkJPZ09ac1F5RDlTQWJGNkNEX0hJRGZZQWNWQ3MwQ1hkY0FDalNnaXFFYTR4Q1EzUl92TmdCTGYwOFBZbzJJbkhFZkNNZGhXWWdLWUdTUS1KOVBNZnY2dUpHN2sxanlsX1F1LTJYUU44cUhBVzBDWTFId1RBNWV5eHhRUDgwb2F2QjZtY1ZYdTQ3anR2UmxKRG1xay1lcVdZT2ExRFdBTG5kTndjQjhLOFQ5cFIwU185RnY1WWU3dEdDRVFKZHdwd9IBzgFBVV95cUxPallDN2pxM28tQjN0UG1NV0N6bnNwUy1DMXJ3WjNOVGZ5S0pYZi15NHl1aHFoQmFNeVU1YndjNzc0akptX1ZSTktobTA5V0FLVHlESHBMSGc2d2VETzhCT0pjdElVb1VoZHVnaGJMc3dsSmthWFNYSWFBbVdpV3NjVlVRclRReTU2b2lwM295bEcwSVdEMHl3aURkdHJjTlpyMFdmaXVWZm5fZUFXc3V1Qlg1NFJfSUJMZERYWHFBcG15dDlyUE5FZnBJNUJZUQ?oc=5
+- Puig plunges after Estée Lauder tie-up talks terminated; European stocks rise - CNBC
+  Puig plunges after Estée Lauder
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmh0ZHRVcGpQeG5MSzUwbUp6SUpVREgtR1F2eTlOSURYbFE2Q2FYNFpVbW5fQkpDS3hUQ1ExUUQtVlJ2bzRxZmh0Ym14TFg1emxIYy1uX3lyR2lNQXhFNTdTMl9scjVSeGpVd216NGYtSXFLTUNNQTNmZWc4Z0wxT0JPSUVibWR6dzJFNndUMFc1SFlMQlRyVnBWdjhEOTBDNEHSAacBQVVfeXFMTkpzZElyY0syUncySzJCRmJFT0lxc1ZnTEM0QWdaQnp3a1NqV25wRWk0LWVZd2lvdzhrVXZVenNzclB6UzVONkZyanhteEI1YXd1eTZ2QjhzRTVDc2hPaDZnU3lEYXJvdjdiZjlCeG5nUWFXUVFERUlPS1Zza2w3WjFQZk1HUUtLMjMtZ0lkanlTZGdCZkxMcXpiY3VYa3BTcERhVS1mQ3M?oc=5
 
 - NTPC Q4 Results: Cons PAT jumps 34% YoY to Rs 10,615 crore; Rs 3.5/share dividend announced
   NTPC reported strong growth in quarterly profit driven by improved operational performance. Annual profit rose despite flat revenue growth and continued spending on fuel and finance costs.
@@ -139,6 +139,66 @@
 - FIIs sell over Rs 30K crore worth of Indian equities in May as outflows swell to Rs 2.22 lakh crore. What lies ahead?
   FIIs have consistently sold Indian equities in 2026, totaling Rs 2.22 lakh crore. Future institutional flows will remain sensitive to US–Iran negotiations and oil price volatility.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-30k-crore-worth-of-indian-equities-in-may-as-outflows-swell-to-rs-2-22-lakh-crore-what-lies-ahead/articleshow/131277123.cms
+
+- Rubio meets Modi during India visit with energy high on agenda - BBC
+  Rubio meets Modi during India visit with energy
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+
+- US Announces "America First" Visa Tool For "Vital" India Ties. What It Means - NDTV
+  US Announces "America First" Visa Tool For "
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWZTSjBIWGdwRldNT3hNM0VHcGE2UWpWMG9oNk9qcUFHaENOUHY0d3FUbVhrTExQN3FxYXBPc3VfcG1zVVFHbUpWNzQ4QjBwUDAwOE1VZUJmT0hxYkxEbDM0RHNXbDYxTUhEOFFxUEZCUzFIMms4NmhHNGQzSXY4N0NUUnptZXdTSWFQbmgxVzltX0ZTZ2RGVUVzNHpFdFZqZ0hTVHNSSzJEQnpGT041X2VlbnVCM3JEcDZaY19BcXNpYVo3alhrekJaRGZiRGRZdFHSAdoBQVVfeXFMUFNQcVhMa25kY1F4d0ZtRkZhemZiblFSbHpvYzlYMlBRaFk4Y2o5YnRWUEdNUXVRSE5SM0RlZjF2WTZHbVliNWpxZHNfWF9xZnF0Mk12OVdfZVZwT09RREs2Yk81QjVXVmJZeWdDT1FWWWEtdHg0M1N1ZGotUnJqaXBnY1B6V0pxaWtNZWxSZndEc1RzOVZtOUNMRTBINzJDT0xmMzZaUkJsQjA3MFVjdnlldTZkRG1uWXJDb1VHOUJaMlpTMVZEN2xhYWlBLUhxWVdOQmMtUXFNOWc?oc=5
+
+- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
+  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
+
+- India’s government orders handover of exclusive Delhi Gymkhana Club - The Guardian
+  India’s government orders handover
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGpVb1M3b3ZEamE4VVpjLVo2MWw5RzBuLTloM1k0Q0xoclphR0FXREprcUFWeVc1TWJZaTBMX0lFM0NMemkxZ0R1TFhMb3p1dG9lQmpqTDFoSUdHcnc3dm1yX2tZUXV2dEwtd2U2WTVpUzR5UTQtNTVTMlJIR1NhWWE4YUI4aXZySmlHd2RYYzdtVXZ6dUFyQy11RlRyZ1dwQ0pob2V4UThvTHoxdldJOTQ4WXAweFBaUjJicGJ3RQ?oc=5
+
+- Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war - Al Jazeera
+  Al Jazeera: 51 nations armed Israel amid Gaza war.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODNXS3VmNWdhVTdHSVNWallCVWI5TmxyWC0yNHdGbDVLOUppU01Wb0ZDdm9VcGNnbzdtV0NqMG5ScUdpeDV6VDdEOVFmRVByVXV3WDNIN3ROeV9NMGg4S21lbXJfNWZfTG5tSGJZRVVLUkZ1UVRFMXY2OXc1RXJ1c2ljVWx1X3UzUE45aG5wbVVDS2h4Y2hCTDJGNmFaYWxqbUIxc2RuT0JsTWx3SUJSYTl2Y3BodGJ3QXFZ0gHAAUFVX3lxTE1iVFg3dVZkbTNRRFFEbXJWM1NzWW5VdWY0Q29QXy1QanZOS09VZ2k0U1lzUk5XY2p4eEZmNk4wdVlFTDBROUpqaWpfdDduOGJHVnhjU0hiRmtFZlpaWVNKSV9OMnppNXRBcXhERWFIamtjclhpZXIxelo5QkxNYVJzVjMtdUlYZ2dTT2RNWS0xMTUxZFVuWlhTa0t2MWpPM1hPYm5MUTZlM2gwS05Ub2dPaXEtbHpjYm5PdmNna1l0OQ?oc=5
+
+- Rubio meets Modi during India visit with energy high on agenda - BBC
+  Rubio meets Modi during India visit with energy
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+
+- US Announces "America First" Visa Tool For "Vital" India Ties. What It Means - NDTV
+  US Announces "America First" Visa Tool For "
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWZTSjBIWGdwRldNT3hNM0VHcGE2UWpWMG9oNk9qcUFHaENOUHY0d3FUbVhrTExQN3FxYXBPc3VfcG1zVVFHbUpWNzQ4QjBwUDAwOE1VZUJmT0hxYkxEbDM0RHNXbDYxTUhEOFFxUEZCUzFIMms4NmhHNGQzSXY4N0NUUnptZXdTSWFQbmgxVzltX0ZTZ2RGVUVzNHpFdFZqZ0hTVHNSSzJEQnpGT041X2VlbnVCM3JEcDZaY19BcXNpYVo3alhrekJaRGZiRGRZdFHSAdoBQVVfeXFMUFNQcVhMa25kY1F4d0ZtRkZhemZiblFSbHpvYzlYMlBRaFk4Y2o5YnRWUEdNUXVRSE5SM0RlZjF2WTZHbVliNWpxZHNfWF9xZnF0Mk12OVdfZVZwT09RREs2Yk81QjVXVmJZeWdDT1FWWWEtdHg0M1N1ZGotUnJqaXBnY1B6V0pxaWtNZWxSZndEc1RzOVZtOUNMRTBINzJDT0xmMzZaUkJsQjA3MFVjdnlldTZkRG1uWXJDb1VHOUJaMlpTMVZEN2xhYWlBLUhxWVdOQmMtUXFNOWc?oc=5
+
+- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
+  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
+
+- India’s government orders handover of exclusive Delhi Gymkhana Club - The Guardian
+  India’s government orders handover
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGpVb1M3b3ZEamE4VVpjLVo2MWw5RzBuLTloM1k0Q0xoclphR0FXREprcUFWeVc1TWJZaTBMX0lFM0NMemkxZ0R1TFhMb3p1dG9lQmpqTDFoSUdHcnc3dm1yX2tZUXV2dEwtd2U2WTVpUzR5UTQtNTVTMlJIR1NhWWE4YUI4aXZySmlHd2RYYzdtVXZ6dUFyQy11RlRyZ1dwQ0pob2V4UThvTHoxdldJOTQ4WXAweFBaUjJicGJ3RQ?oc=5
+
+- Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war - Al Jazeera
+  Al Jazeera: 51 nations armed Israel amid Gaza war.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODNXS3VmNWdhVTdHSVNWallCVWI5TmxyWC0yNHdGbDVLOUppU01Wb0ZDdm9VcGNnbzdtV0NqMG5ScUdpeDV6VDdEOVFmRVByVXV3WDNIN3ROeV9NMGg4S21lbXJfNWZfTG5tSGJZRVVLUkZ1UVRFMXY2OXc1RXJ1c2ljVWx1X3UzUE45aG5wbVVDS2h4Y2hCTDJGNmFaYWxqbUIxc2RuT0JsTWx3SUJSYTl2Y3BodGJ3QXFZ0gHAAUFVX3lxTE1iVFg3dVZkbTNRRFFEbXJWM1NzWW5VdWY0Q29QXy1QanZOS09VZ2k0U1lzUk5XY2p4eEZmNk4wdVlFTDBROUpqaWpfdDduOGJHVnhjU0hiRmtFZlpaWVNKSV9OMnppNXRBcXhERWFIamtjclhpZXIxelo5QkxNYVJzVjMtdUlYZ2dTT2RNWS0xMTUxZFVuWlhTa0t2MWpPM1hPYm5MUTZlM2gwS05Ub2dPaXEtbHpjYm5PdmNna1l0OQ?oc=5
+
+- Rubio meets Modi during India visit with energy high on agenda - BBC
+  Rubio meets Modi during India visit with energy
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+
+- US Announces "America First" Visa Tool For "Vital" India Ties. What It Means - NDTV
+  US Announces "America First" Visa Tool For "
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWZTSjBIWGdwRldNT3hNM0VHcGE2UWpWMG9oNk9qcUFHaENOUHY0d3FUbVhrTExQN3FxYXBPc3VfcG1zVVFHbUpWNzQ4QjBwUDAwOE1VZUJmT0hxYkxEbDM0RHNXbDYxTUhEOFFxUEZCUzFIMms4NmhHNGQzSXY4N0NUUnptZXdTSWFQbmgxVzltX0ZTZ2RGVUVzNHpFdFZqZ0hTVHNSSzJEQnpGT041X2VlbnVCM3JEcDZaY19BcXNpYVo3alhrekJaRGZiRGRZdFHSAdoBQVVfeXFMUFNQcVhMa25kY1F4d0ZtRkZhemZiblFSbHpvYzlYMlBRaFk4Y2o5YnRWUEdNUXVRSE5SM0RlZjF2WTZHbVliNWpxZHNfWF9xZnF0Mk12OVdfZVZwT09RREs2Yk81QjVXVmJZeWdDT1FWWWEtdHg0M1N1ZGotUnJqaXBnY1B6V0pxaWtNZWxSZndEc1RzOVZtOUNMRTBINzJDT0xmMzZaUkJsQjA3MFVjdnlldTZkRG1uWXJDb1VHOUJaMlpTMVZEN2xhYWlBLUhxWVdOQmMtUXFNOWc?oc=5
+
+- Marco Rubio India Visit Live Updates: "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV - NDTV
+  "Iran War Will Be Solved One Way Or The Other": Marco Rubio To NDTV
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
+
+- India’s government orders handover of exclusive Delhi Gymkhana Club - The Guardian
+  India’s government orders handover
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGpVb1M3b3ZEamE4VVpjLVo2MWw5RzBuLTloM1k0Q0xoclphR0FXREprcUFWeVc1TWJZaTBMX0lFM0NMemkxZ0R1TFhMb3p1dG9lQmpqTDFoSUdHcnc3dm1yX2tZUXV2dEwtd2U2WTVpUzR5UTQtNTVTMlJIR1NhWWE4YUI4aXZySmlHd2RYYzdtVXZ6dUFyQy11RlRyZ1dwQ0pob2V4UThvTHoxdldJOTQ4WXAweFBaUjJicGJ3RQ?oc=5
+
+- Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war - Al Jazeera
+  Al Jazeera: 51 nations armed Israel amid Gaza war.
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODNXS3VmNWdhVTdHSVNWallCVWI5TmxyWC0yNHdGbDVLOUppU01Wb0ZDdm9VcGNnbzdtV0NqMG5ScUdpeDV6VDdEOVFmRVByVXV3WDNIN3ROeV9NMGg4S21lbXJfNWZfTG5tSGJZRVVLUkZ1UVRFMXY2OXc1RXJ1c2ljVWx1X3UzUE45aG5wbVVDS2h4Y2hCTDJGNmFaYWxqbUIxc2RuT0JsTWx3SUJSYTl2Y3BodGJ3QXFZ0gHAAUFVX3lxTE1iVFg3dVZkbTNRRFFEbXJWM1NzWW5VdWY0Q29QXy1QanZOS09VZ2k0U1lzUk5XY2p4eEZmNk4wdVlFTDBROUpqaWpfdDduOGJHVnhjU0hiRmtFZlpaWVNKSV9OMnppNXRBcXhERWFIamtjclhpZXIxelo5QkxNYVJzVjMtdUlYZ2dTT2RNWS0xMTUxZFVuWlhTa0t2MWpPM1hPYm5MUTZlM2gwS05Ub2dPaXEtbHpjYm5PdmNna1l0OQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-23 19:05:36 UTC_
+_Last updated: 2026-05-24 02:48:22 UTC_
