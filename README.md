@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- BJP minority panel chief urges Muslims not to slaughter cow on Bakrid
+  
+  🔗 https://indianexpress.com/article/india/bjp-minority-panel-chief-urges-muslims-not-slaughter-cow-bakrid-10705987/
+
+- Days after breakthrough in Ladakh talks, panel member says: ‘Avoid unnecessary excitement, undue pessimism’
+  
+  🔗 https://indianexpress.com/article/india/ladakh-talks-centre-kda-leh-apex-body-sonam-wangchuk-article-371-10705862/
+
 - Indian researchers solve a long-standing puzzle – in chemistry
   
   🔗 https://indianexpress.com/article/india/iit-madras-iisc-researchers-create-first-carbon-free-ferrocene-like-molecule-breakthrough-10705813/
@@ -11,14 +19,6 @@
 - ‘US is a very welcoming country but has stupid people too’: Marco Rubio on racist comments against Indians
   
   🔗 https://indianexpress.com/article/india/us-is-a-very-welcoming-country-but-has-stupid-people-too-marco-rubio-on-racist-comments-against-indians-10705550/
-
-- Tatkal ticket booking rules: Railways introduces token system at all stations of Kota Division
-  
-  🔗 https://indianexpress.com/article/india/tatkal-ticket-booking-rules-railways-introduces-token-system-at-all-stations-of-kota-division-10705097/
-
-- Iran embassy rejects Marco Rubio remarks on nuclear programme
-  
-  🔗 https://indianexpress.com/article/india/iran-rejects-rubio-enriched-uranium-demand-delhi-10705377/
 
 - OpenAI launches free AI image verification tool amid deepfake surge
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-10705161/
 
+- ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says
+  The European Central Bank plans to press lenders to accelerate efforts to secure their IT systems. The bank has organized a meeting on cybersecurity risks with the
+  🔗 https://www.livemint.com/companies/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says-11779648769950.html
+
 - As smartwatch fears fade, Ethos expands deeper into luxury watches
   Ethos says analogue watches are regaining relevance as aspiration-led purchases. Retailer to expand stores, target younger
   🔗 https://www.livemint.com/companies/news/ethos-luxury-watch-market-india-smartwatch-threat-fades-expansion-plans-11779595454909.html
@@ -56,9 +60,9 @@
   Tech layoffs in 2025 are increasingly targeting middle management and coordination-heavy roles. Firms like Amazon, Meta and Shopify are pushing flatter hierarchies, AI
   🔗 https://www.livemint.com/companies/news/seven-ways-ai-is-making-2025-tech-layoffs-different-from-silicon-valley-s-earlier-job-cuts-11779516530012.html
 
-- Legal fight could delay a proposed $7B settlement for lawsuits in Roundup cancer claims
-  Legal fight could delay a proposed $7B
-  🔗 https://www.livemint.com/companies/legal-fight-could-delay-a-proposed-7b-settlement-for-lawsuits-in-roundup-cancer-claims-11779481063989.html
+- Wall Street Week Ahead: Market braces for inflation data, tech earnings, geopolitical updates
+  The Federal Reserve's favored inflation metric is the core PCE price index.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-braces-for-inflation-data-tech-earnings-geopolitical-updates-11779629461076.html
 
 - Wall St Week Ahead-Soaring stocks could face rocky patch as earnings wind down, yields perk up
   Soaring stocks could face rocky patch as earnings wind down, yields perk up.
@@ -75,10 +79,6 @@
 - Expert view: ‘Buy on dips’ strategy should be avoided amid uncertainty, says Devarsh Vakil of HDFC Securities
   Devarsh Vakil, Head of Prime Research at HDFC Securities said markets are expected to stay volatile in the near term. The worst phase of
   🔗 https://www.livemint.com/market/stock-market-news/expert-view-buy-on-dips-strategy-should-be-avoided-says-devarsh-vakil-of-hdfc-securities-11779609717481.html
-
-- Mcap of 6 of top-10 most valued firms surges by  ₹74,100 crore; RIL biggest winner
-  Mcap of 6 of top-10 most valued
-  🔗 https://www.livemint.com/market/stock-market-news/mcap-of-6-of-top-10-most-valued-firms-surges-by-74-100-crore-ril-biggest-winner-11779607446265.html
 
 - Why Mythos could be launching sooner than you think? Leaked code exposes preparations for Claude Mythos 1
   Anthropic's Mythos AI model could be coming to public soon. A new source leak
@@ -99,26 +99,6 @@
 - Could anything but profit steer AI? The OpenAI trial offered clues but no verdict
   The OpenAI trial offered clues but no verdict
   🔗 https://www.livemint.com/technology/could-anything-but-profit-steer-ai-the-openai-trial-offered-clues-but-no-verdict-11779595330980.html
-
-- What to Expect in Markets this Week: A Slew of Retailers Report Earnings—Along with Dell and Other AI Players - Investopedia
-  "What to Expect in Markets this Week: A Slew of Retailers Report Earn
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1RlU3JFN3BkNkNRTTNTMTBxSG9EVUNuZWlCVGRld1A3cnpVWTN1RE4yX3B0cFQ3cFRBNzF3OXV3YUtSMG5UbGtIcXY0MGR1S2djNnFmUWhHQ1RVNTlIZ19WaG93Tnp5WnhHVlZtOHBQanNkT184Mjc0Tm54cEJpMFZ5MGNNTFVJUG91V0x3SVV0LThXMVlYVzJvN0ZSY19WX2QxQjQydDN0TDRtUXRSSU9MOXRTcThLOXlITm04YlFPcS0yQUIzeEdVXzI5YnctNHdJTVlUWWhzaHpmaE1r?oc=5
-
-- Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0hZdWthemN2VFZBQ3Q4dUszbjRaOTdlQWYxY2NteHNWYlM5U3FqQ0hxUjk1RlFPUHN3SEhZMG1yWEkzcDI0TUg2a0FhT0ZGQkNoZ016VzJVeXp3d3U4eHNQRWZka3l2SHBjMElqVDc4SWZxeFFyWGIyQXdZM3ZUY3VyanUxZmZCcV9yeURmLVJJQ3lJRHlrek5Pa29FdUlNaW85dVhrbXRkdUp6QXBZR2VXZw?oc=5
-
-- Resurgent Political Risk Derails Rallies Across Emerging Markets - Bloomberg.com
-  "Resurgent Political Risk
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQzgxRk1ZUWszckNUTGxCMHZhWHpOVVNEV2VQSFZFY3dLQjQ2WUMzdEthQ0xydm5CM19Dc2U0ZHZLcjNLenEyOHN0VDF6R1hiVEk3dFppOVFWYkd4OFF1Wi1XQi05T1Q2Rnd1NTZCQVBwVnZtMWFmU0pIbi1fbm9XSFFqU0FLU0dHdHZJU2wtNXB2S1c1YmxiSjR4by1hQ2MxSzg3THZTQW15eHRKZ1l5ejF4SHNBQQ?oc=5
-
-- With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart - The Guardian
-  With oil markets nearing the danger zone, a US-Iran deal can’
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXBSRnFaOFhBWFdQaTF5TG1KWTV4clAteUxSNVhWdWo5LTlyV1pnbG9UcmtpMkdUSEhuWHd0eTFkcWNLLVVMdHk2VG8yeENkTkxMNzhud19tM0E2UkQ4SU8xOUpsSGRkbUZaaW1RVXZmWFVlZzl5Q2xocEZDV0hQWnZjUHdqdWxWTTlSQ3ZB?oc=5
-
-- Stock market strength is now rupee’s curse - The Times of India
-  Stock market strength is now rupee�
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNkJPZ09ac1F5RDlTQWJGNkNEX0hJRGZZQWNWQ3MwQ1hkY0FDalNnaXFFYTR4Q1EzUl92TmdCTGYwOFBZbzJJbkhFZkNNZGhXWWdLWUdTUS1KOVBNZnY2dUpHN2sxanlsX1F1LTJYUU44cUhBVzBDWTFId1RBNWV5eHhRUDgwb2F2QjZtY1ZYdTQ3anR2UmxKRG1xay1lcVdZT2ExRFdBTG5kTndjQjhLOFQ5cFIwU185RnY1WWU3dEdDRVFKZHdwd9IBzgFBVV95cUxPallDN2pxM28tQjN0UG1NV0N6bnNwUy1DMXJ3WjNOVGZ5S0pYZi15NHl1aHFoQmFNeVU1YndjNzc0akptX1ZSTktobTA5V0FLVHlESHBMSGc2d2VETzhCT0pjdElVb1VoZHVnaGJMc3dsSmthWFNYSWFBbVdpV3NjVlVRclRReTU2b2lwM295bEcwSVdEMHl3aURkdHJjTlpyMFdmaXVWZm5fZUFXc3V1Qlg1NFJfSUJMZERYWHFBcG15dDlyUE5FZnBJNUJZUQ?oc=5
 
 - Why India’s next real estate cycle could be driven by retail investors and REITs, Sandipan Roy explains
   Sandipan Roy, Chief Investment Officer (CIO), at Motilal Oswal Private Wealth, explains why India’s next real estate cycle could be driven by retail participation and REIT-led institutionalisation
@@ -144,121 +124,69 @@
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- "Every Country Has Stupid People": Top US Diplomat Marco Rubio On Racism Against Indians - NDTV
-  "Every Country Has Stupid People": Top US Diplomat Marco
+- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
+  Top US Diplomat Marco Rubio Was Asked About Racism
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
 
-- Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum'; hope to seal trade deal soon, says Rubio - The Hindu
-  Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum
+- Marco Rubio India Visit Live Updates: Trump Dials Marco Rubio At Event, Says "India Can Count On Me 100%" - NDTV
+  Marco Rubio is in India on a three-day trip to India. He is
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
+
+- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
+  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
+
+- Marco Rubio in India LIVE: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu
+  Marco Rubio in India LIVE: Jaishankar addresses National Day
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
-
-- FPIs pull out over Rs 30,000 crore from Indian equity market in May so far - Newsonair
-  FPIs pull out over Rs 30,000 crore from Indian equity
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFQwZGJOeEFleDMzRkRsSkl0OXNjSzlKOGdYR0ZwQVBwZ3E3U0pZSU14UmpJWkR6c0RoNllyNWgtUUk3cm96VzBaRTNxWjQyVmdfTlBIZGRRb0JWaVA5eGxhNmJkdmdhWFBvcXROem1STDR2X0gtUHVoVzEtaFdSRWRVbGkxa2Y2bTZfck9OSm9SNWpSVkY2MjZGQ095WEMy?oc=5
-
-- 16 Dead Due To Heatstroke In Telangana, Rs 4 Lakh Compensation Announced - NDTV
-  16 Dead Due To Heatstroke In Telangana
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXZCS1d4OEZJV1hHU0loZk5NaF9QY3Z4UjhtMUhrSy1wbE9tNFd6dFhuMmN6MVJabXByTUY0Y1pTOUNKSGgyRWRYVUZlX2owb2d4Y0xoRGJKdnRJUzY2TWNWRll0ZlN3c1Q4bmxwTEg5dTdydDJrRXFoX1FjMzRKMi1pMFIzOEVmVkMyZ2xCdUMtMlhJczBhU3FzcmhBcUN1QS1pMEs4NEk3Ni14Nk9oV2xR0gG6AUFVX3lxTE9FR0NUeDBQekJlRkcwM3NhX2VrRVQ4YWxTSXBGWE5XTnFYTDhBUXlLU01MdFZHcmxnWXJnazRoc3pHbUlOb1p4UWZzam9WVklPZTF0b3VhUUJ1YzhpOE1oQWFyNjdTUUd0aFFXaXA4ZV9TeWJ5MF9sSUdOMUNkQlhCQlpDSWdtanBLSllfN0F1aGU4bHZLWGRLRVlZbG00ODQ1UThSX0RZOVpFN1o0Wm1kbS1RUTNxcEo5UQ?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- "Every Country Has Stupid People": Top US Diplomat Marco Rubio On Racism Against Indians - NDTV
-  "Every Country Has Stupid People": Top US Diplomat Marco
+- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
+  Top US Diplomat Marco Rubio Was Asked About Racism
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
 
-- Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum'; hope to seal trade deal soon, says Rubio - The Hindu
-  Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum
+- Marco Rubio India Visit Live Updates: Trump Dials Marco Rubio At Event, Says "India Can Count On Me 100%" - NDTV
+  Marco Rubio is in India on a three-day trip to India. He is
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
+
+- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
+  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
+
+- Marco Rubio in India LIVE: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu
+  Marco Rubio in India LIVE: Jaishankar addresses National Day
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
 
-- FPIs pull out over Rs 30,000 crore from Indian equity market in May so far - Newsonair
-  FPIs pull out over Rs 30,000 crore from Indian equity
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFQwZGJOeEFleDMzRkRsSkl0OXNjSzlKOGdYR0ZwQVBwZ3E3U0pZSU14UmpJWkR6c0RoNllyNWgtUUk3cm96VzBaRTNxWjQyVmdfTlBIZGRRb0JWaVA5eGxhNmJkdmdhWFBvcXROem1STDR2X0gtUHVoVzEtaFdSRWRVbGkxa2Y2bTZfck9OSm9SNWpSVkY2MjZGQ095WEMy?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- 16 Dead Due To Heatstroke In Telangana, Rs 4 Lakh Compensation Announced - NDTV
-  16 Dead Due To Heatstroke In Telangana
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXZCS1d4OEZJV1hHU0loZk5NaF9QY3Z4UjhtMUhrSy1wbE9tNFd6dFhuMmN6MVJabXByTUY0Y1pTOUNKSGgyRWRYVUZlX2owb2d4Y0xoRGJKdnRJUzY2TWNWRll0ZlN3c1Q4bmxwTEg5dTdydDJrRXFoX1FjMzRKMi1pMFIzOEVmVkMyZ2xCdUMtMlhJczBhU3FzcmhBcUN1QS1pMEs4NEk3Ni14Nk9oV2xR0gG6AUFVX3lxTE9FR0NUeDBQekJlRkcwM3NhX2VrRVQ4YWxTSXBGWE5XTnFYTDhBUXlLU01MdFZHcmxnWXJnazRoc3pHbUlOb1p4UWZzam9WVklPZTF0b3VhUUJ1YzhpOE1oQWFyNjdTUUd0aFFXaXA4ZV9TeWJ5MF9sSUdOMUNkQlhCQlpDSWdtanBLSllfN0F1aGU4bHZLWGRLRVlZbG00ODQ1UThSX0RZOVpFN1o0Wm1kbS1RUTNxcEo5UQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- "Every Country Has Stupid People": Top US Diplomat Marco Rubio On Racism Against Indians - NDTV
-  "Every Country Has Stupid People": Top US Diplomat Marco
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum'; hope to seal trade deal soon, says Rubio - The Hindu
-  Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- FPIs pull out over Rs 30,000 crore from Indian equity market in May so far - Newsonair
-  FPIs pull out over Rs 30,000 crore from Indian equity
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFQwZGJOeEFleDMzRkRsSkl0OXNjSzlKOGdYR0ZwQVBwZ3E3U0pZSU14UmpJWkR6c0RoNllyNWgtUUk3cm96VzBaRTNxWjQyVmdfTlBIZGRRb0JWaVA5eGxhNmJkdmdhWFBvcXROem1STDR2X0gtUHVoVzEtaFdSRWRVbGkxa2Y2bTZfck9OSm9SNWpSVkY2MjZGQ095WEMy?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- 16 Dead Due To Heatstroke In Telangana, Rs 4 Lakh Compensation Announced - NDTV
-  16 Dead Due To Heatstroke In Telangana
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXZCS1d4OEZJV1hHU0loZk5NaF9QY3Z4UjhtMUhrSy1wbE9tNFd6dFhuMmN6MVJabXByTUY0Y1pTOUNKSGgyRWRYVUZlX2owb2d4Y0xoRGJKdnRJUzY2TWNWRll0ZlN3c1Q4bmxwTEg5dTdydDJrRXFoX1FjMzRKMi1pMFIzOEVmVkMyZ2xCdUMtMlhJczBhU3FzcmhBcUN1QS1pMEs4NEk3Ni14Nk9oV2xR0gG6AUFVX3lxTE9FR0NUeDBQekJlRkcwM3NhX2VrRVQ4YWxTSXBGWE5XTnFYTDhBUXlLU01MdFZHcmxnWXJnazRoc3pHbUlOb1p4UWZzam9WVklPZTF0b3VhUUJ1YzhpOE1oQWFyNjdTUUd0aFFXaXA4ZV9TeWJ5MF9sSUdOMUNkQlhCQlpDSWdtanBLSllfN0F1aGU4bHZLWGRLRVlZbG00ODQ1UThSX0RZOVpFN1o0Wm1kbS1RUTNxcEo5UQ?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- "Every Country Has Stupid People": Top US Diplomat Marco Rubio On Racism Against Indians - NDTV
-  "Every Country Has Stupid People": Top US Diplomat Marco
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
-
-- Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum'; hope to seal trade deal soon, says Rubio - The Hindu
-  Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
-
-- FPIs pull out over Rs 30,000 crore from Indian equity market in May so far - Newsonair
-  FPIs pull out over Rs 30,000 crore from Indian equity
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFQwZGJOeEFleDMzRkRsSkl0OXNjSzlKOGdYR0ZwQVBwZ3E3U0pZSU14UmpJWkR6c0RoNllyNWgtUUk3cm96VzBaRTNxWjQyVmdfTlBIZGRRb0JWaVA5eGxhNmJkdmdhWFBvcXROem1STDR2X0gtUHVoVzEtaFdSRWRVbGkxa2Y2bTZfck9OSm9SNWpSVkY2MjZGQ095WEMy?oc=5
-
-- 16 Dead Due To Heatstroke In Telangana, Rs 4 Lakh Compensation Announced - NDTV
-  16 Dead Due To Heatstroke In Telangana
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXZCS1d4OEZJV1hHU0loZk5NaF9QY3Z4UjhtMUhrSy1wbE9tNFd6dFhuMmN6MVJabXByTUY0Y1pTOUNKSGgyRWRYVUZlX2owb2d4Y0xoRGJKdnRJUzY2TWNWRll0ZlN3c1Q4bmxwTEg5dTdydDJrRXFoX1FjMzRKMi1pMFIzOEVmVkMyZ2xCdUMtMlhJczBhU3FzcmhBcUN1QS1pMEs4NEk3Ni14Nk9oV2xR0gG6AUFVX3lxTE9FR0NUeDBQekJlRkcwM3NhX2VrRVQ4YWxTSXBGWE5XTnFYTDhBUXlLU01MdFZHcmxnWXJnazRoc3pHbUlOb1p4UWZzam9WVklPZTF0b3VhUUJ1YzhpOE1oQWFyNjdTUUd0aFFXaXA4ZV9TeWJ5MF9sSUdOMUNkQlhCQlpDSWdtanBLSllfN0F1aGU4bHZLWGRLRVlZbG00ODQ1UThSX0RZOVpFN1o0Wm1kbS1RUTNxcEo5UQ?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- "Every Country Has Stupid People": Top US Diplomat Marco Rubio On Racism Against Indians - NDTV
-  "Every Country Has Stupid People": Top US Diplomat Marco
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
-
-- Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum'; hope to seal trade deal soon, says Rubio - The Hindu
-  Marco Rubio in India LIVE: India-U.S. relations 'have not lost momentum
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
-
-- FPIs pull out over Rs 30,000 crore from Indian equity market in May so far - Newsonair
-  FPIs pull out over Rs 30,000 crore from Indian equity
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFQwZGJOeEFleDMzRkRsSkl0OXNjSzlKOGdYR0ZwQVBwZ3E3U0pZSU14UmpJWkR6c0RoNllyNWgtUUk3cm96VzBaRTNxWjQyVmdfTlBIZGRRb0JWaVA5eGxhNmJkdmdhWFBvcXROem1STDR2X0gtUHVoVzEtaFdSRWRVbGkxa2Y2bTZfck9OSm9SNWpSVkY2MjZGQ095WEMy?oc=5
-
-- 16 Dead Due To Heatstroke In Telangana, Rs 4 Lakh Compensation Announced - NDTV
-  16 Dead Due To Heatstroke In Telangana
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXZCS1d4OEZJV1hHU0loZk5NaF9QY3Z4UjhtMUhrSy1wbE9tNFd6dFhuMmN6MVJabXByTUY0Y1pTOUNKSGgyRWRYVUZlX2owb2d4Y0xoRGJKdnRJUzY2TWNWRll0ZlN3c1Q4bmxwTEg5dTdydDJrRXFoX1FjMzRKMi1pMFIzOEVmVkMyZ2xCdUMtMlhJczBhU3FzcmhBcUN1QS1pMEs4NEk3Ni14Nk9oV2xR0gG6AUFVX3lxTE9FR0NUeDBQekJlRkcwM3NhX2VrRVQ4YWxTSXBGWE5XTnFYTDhBUXlLU01MdFZHcmxnWXJnazRoc3pHbUlOb1p4UWZzam9WVklPZTF0b3VhUUJ1YzhpOE1oQWFyNjdTUUd0aFFXaXA4ZV9TeWJ5MF9sSUdOMUNkQlhCQlpDSWdtanBLSllfN0F1aGU4bHZLWGRLRVlZbG00ODQ1UThSX0RZOVpFN1o0Wm1kbS1RUTNxcEo5UQ?oc=5
-
-- Elon Musk is going all-in on an unproven technology - The Economist
-  Elon Musk is going all-in
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2MySDFBakVraENOeTd0ZzRCYmZON1JBS3Npc1p4a0JLb3B0OGtqSDRnZkxVOHF5aFlQNEFOdm1hSFN0RnJOdGJtX1dQLW1GU1ZnYUJjWHBVUVJlTUlnZXd6N0c5MkpiUGZwV05oMlRFYzQyMFFFSE9aWENQTTR1YmxHci1ETVkxb1dYbzRWTWlqbklNcWJoZzZBRVZ5dw?oc=5
-
-- Ordinary WiFi can now identify people with near perfect accuracy - ScienceDaily
-  Ordinary WiFi can now identify people with
-  🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE55RzZjWXN2ZDVKNDNsV1ZGLVRLanlYaG5lSzFrNTZqaEt5cHdvSUdqVF82dnZLLUNsd1NxaHhLUklET0c5Q2tIZWhhM1hqR3Vzd1ZOeW41VGxVSW5nVTFPcWN3ZzRfMUpBMENMMTd2RQ?oc=5
-
-- ‘AI washing’: firms are scrambling to rebrand themselves as tech-focused - The Guardian
-  ‘AI washing’: firms are
-  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtoZ2dmNnRiVU1CWElsR21TY3JaZThucU1aRWpmeDZQRm1uUGxqcXR0ZVFibTRENEtwUGNRcnZkWXk1Yk43Q21BUXZvX0tjSG15QzB0S3JLa051OGI1LTVNR3dmZk5XNl96OTNXU2FFb0tpQVFtWGZoeEV4VXpGTUpnTE50X1lOM1NZTVJnUEs1Ync?oc=5
-
-- CSIR‑IICT technology powers India’s compressed biogas scale-up - The Hindu
-  CSIR‑IICT technology
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYkpDdnE2NWdFdVNSUzFKQ2gwWDhUU2VyNFFzTGVSbW92UUtsNFRQbjVEenlweU15RHNOa3JsT0RZeHRaNFpONGRncUtIUktfRzIyaXdiMnlpLW1VQjR3aXVpTERSNmhCakFaakNkU3BaOVJ2VElQbl9HTEVTRXJpUlpRZm52UklBLUNzZE11cVAyRm52Wjd4N3RMOXJMdUpINmNJRXF6YzJqVS1kTE93OGlERDBtT3lIdzB5WFJyYmpjcFJoRTVCcU5DSVFhaXlibzFzNNIB2wFBVV95cUxPcC1WNDFYY1pyNk81WVBhSGc4TFduOEhFS1VCcG5YRVJTSGhLYXdqTVR6Q2ppUW0yVzFuQzFGSEo5UURUY2hpTWY1TFI1cElBdDBiRFY4OXpEX2ZsaUJQVEVpREZ1V0d2bk9aWmFqZ0hvTlRVSXMwTi02ZFkyUHVPQjEzeHhnWmYzdnBjbDZHbUM3dGF0dE11VDlER2RELTZRWm1qa183X1I3ZlQxZjcwemNtQ2JSNVdrelpKTkl3RlVmVVhoU05WNXZOVGFyTVp1V0RnTHRUVFJxQTA?oc=5
-
-- There’s Never Been a Better Time to Study Computer Science - The Atlantic
-  There’s Never Been a Better Time
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPUTNLNE1zRlBGSWhYby1EQXJkaWlONGhGam9YZ1pfVzBCUkViYVNDTnJRSmdnbW04VU1Hc3BVUjA1NHZBQnp2TDhIeGhKM3I1dkpUdUQ0WmlFWGlxLVNPX1dER1BvNmg2aFlmMTFsVmdvVE02Zms0aFNGS1BxdW1fU2tUcjM3bEJ1aUJMYUM4d0k?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-24 13:17:55 UTC_
+_Last updated: 2026-05-24 19:13:06 UTC_
