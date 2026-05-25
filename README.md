@@ -1,24 +1,56 @@
 # 📰 Daily News Summaries
 
-- Gold Rate Today, May 25: Check 18, 22 and 24 carat gold prices in Delhi, Mumbai, Kolkata, Chennai and other cities
+- Dharmendra Pradhan asks states to ensure smooth conduct of NEET re-exam
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-may-25-check-10706688/
+  🔗 https://indianexpress.com/article/india/dharmendra-pradhan-writes-states-smooth-conduct-neet-reexam-june-21-10707410/
 
-- ‘Mohammad’ Deepak’s gym faces eviction, he struggles to pay house loan EMI
+- Hundreds left stranded after cable car glitch in Gulmarg, army leads rescue ops
   
-  🔗 https://indianexpress.com/article/india/mohammad-deepaks-gym-faces-eviction-he-struggles-to-pay-house-loan-emi-10706859/
+  🔗 https://indianexpress.com/article/india/gulmarg-gondola-cable-car-glitch-tourists-stranded-rescue-10707215/
 
-- Watch | US Secretary of State Marco Rubio visits Taj Mahal with wife Jeanette
+- Nirmala Sitharaman urges focus on fuel, fertiliser, forex amid West Asia crisis
   
-  🔗 https://indianexpress.com/article/india/marco-rubio-taj-mahal-visit-quad-meeting-india-10706749/
+  🔗 https://indianexpress.com/article/india/nirmala-sitharaman-west-asia-crisis-petrol-diesel-fuel-prices-msme-impact-10707049/
 
-- Teenager hacked to death near Madurai Meenakshi temple, BJP’s Annamalai says TVK government still in ‘celebratory mode’
+- Rotting cow carcasses dumped at Rajasthan’s Jaisalmer landfill spark outrage, contractor blacklisted
   
-  🔗 https://indianexpress.com/article/india/madurai-meenakshi-temple-teenager-murder-hacked-gang-war-chithirai-festival-enmity-10706761/
+  🔗 https://indianexpress.com/article/india/rajasthan-jaisalmer-cow-carcasses-landfill-municipal-council-contractor-blacklisted-10707028/
 
-- Compulsory live-in registration, ban on polygamy proposed in Assam’s UCC bill
+- Particulate matter pollution rose over 20% across Indo-Gangetic Plain in a decade, Himalayas affected
   
-  🔗 https://indianexpress.com/article/india/in-assams-ucc-bill-live-in-rules-mandatory-marriage-registration-polygamy-ban-10706726/
+  🔗 https://indianexpress.com/article/india/particulate-matter-pollution-rose-over-20-across-indo-gangetic-plain-in-a-decade-himalayas-affected-10707001/
+
+- Mars as crescent: NASA’s Psyche captures rare picture of red planet
+  
+  🔗 https://indianexpress.com/article/technology/science/nasa-psyche-spacecraft-mars-flyby-crescent-images-gravity-assist-asteroid-mission-10707207/
+
+- Who is TeamPCP, the rising hacker group targeting open-source software and AI tools?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/who-is-teampcp-hacker-group-open-source-software-ai-10707205/
+
+- Sovereign AI could become India’s edge against US and China: Dell’s Satish Iyer
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sovereign-ai-india-edge-dell-satish-iyer-interview-10707062/
+
+- Tech launches today (May 25, 2026): ASUS VM441 AiO, HMD Vibe2 5G, Vivo Y600 Turbo, and more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/asus-vm441-aio-moto-g37-series-tech-launches-may-25-10706902/
+
+- AI firms use same deceptive opt-out tactics as data brokers to confuse users, study finds
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-firms-deceptive-opt-out-tactics-epic-study-10706713/
+
+- India may end refined copper import dependence this year, says Hindalco MD
+  The push for self-reliance in copper aligns with India’
+  🔗 https://www.livemint.com/companies/news/refined-copper-import-india-hindalco-md-adani-kutch-copper-vedant-11779711396242.html
+
+- IRFC expands beyond Indian Railways with  ₹13,527-crore refinancing deal for Hyderabad Metro
+  The state-backed financier is leveraging its core strength in transportation finance to support urban mobility.
+  🔗 https://www.livemint.com/companies/news/irfc-indian-railways-hyderabad-metro-urban-infrastructure-l-t-transport-11779707337823.html
+
+- The 90% vulnerability: Inside Ajoy Chawla’s plan to grow Titan beyond jewellery
+  A stellar quarter and  ₹76,000 crore in annual revenue couldn't save Titan from a brutal market crash. As gold tariffs rise and macro shocks
+  🔗 https://www.livemint.com/companies/titan-company-share-crash-diversification-11779618601327.html
 
 - Schroders Capital plans to build on $1 bn India investment as scope for early investor exits grows beyond IPOs
   The company is scouting for opportunities in sectors including consumer
@@ -28,185 +60,185 @@
   Roseate Hotels is shifting to an asset-light strategy and expanding into pilgrimage and lifestyle
   🔗 https://www.livemint.com/companies/news/roseate-hotels-annual-expansion-managed-luxury-pilgrimage-markets-lifestyle-pivot-11779680663836.html
 
-- Who was Toshifumi Suzuki? All about the founder of Japan’s iconic Seven‑Eleven stores who died at 93
-  Toshifumi Suzuki introduced the convenience store franchise model in 1973. He helped build Seven-Eleven into a global retail giant.
-  🔗 https://www.livemint.com/companies/people/who-was-toshifumi-suzuki-all-about-the-founder-of-japan-s-iconic-seven-eleven-stores-who-died-at-93-11779674900725.html
+- RVNL Q4 Results: Net profit drops 59% YoY to  ₹187 crore; revenue rises 4%, final dividend announced
+  Rail Vikas Nigam Limited reported mixed Q4 FY26 results with revenue growth of 4.2% YoY. For FY26, revenue increased slightly, yet net profit
+  🔗 https://www.livemint.com/market/stock-market-news/rvnl-q4-results-net-profit-drops-59-yoy-to-rs-187-crore-revenue-rises-4-final-dividend-announced-11779713348432.html
 
-- Huawei plans 1.4nm chips by 2031 as China races to catch TSMC
-  Huawei is working to reduce its five-year semiconductor production
-  🔗 https://www.livemint.com/companies/news/huawei-plans-1-4nm-chips-by-2031-as-china-races-to-catch-tsmc-11779676131092.html
+- Vegorama Punjabi Angithi IPO allotment expected today: Here's how to check status
+  Vegorama Punjabi Angithi IPO allotment is expected today, May 25, after receiving nearly 35 times overall subscription. Retail investors will be allotted shares on a proportional basis, with refunds starting May 26.
+  🔗 https://www.livemint.com/market/stock-market-news/vegorama-punjabi-angithi-ipo-allotment-expected-today-heres-how-to-check-status-11779710427744.html
 
-- Flipkart bets games and AI can turn Bharat’s next internet users into shoppers
-  Shopsy is being rebuilt around feeds, rewards and entertainment. Flipkart prioritizes
-  🔗 https://www.livemint.com/companies/news/flipkart-shopsy-ai-games-bharat-online-shopping-strategy-india-ecommerce-11779604192205.html
+- Sebi proposes intraday option strike additions to help traders navigate volatility
+  The market regulator aims to standardize strike management across exchanges. This will ensure that traders aren't left
+  🔗 https://www.livemint.com/market/sebi-options-strike-price-framework-volatility-trading-rules-11779707148930.html
 
-- Hindalco investors bank on silver linings beyond March quarter, but valuations are demanding
-  Hindalco's Q4FY26 net profit halved due to exceptional charges. But surging aluminium and copper prices, Novel
-  🔗 https://www.livemint.com/market/mark-to-market/hindalco-investors-novelis-oswego-plant-restart-march-qtr-valuations-demanding-surging-aluminium-and-copper-price-11779694661289.html
+- Ajmera Realty share price zooms 10% after Q4 results 2026
+  Ajmera Realty &amp;amp; Infra India reported a 9.6% gain on May 25 after strong FY26 financial results. Revenue surging 46% to
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-real-estate-ajmera-realty-share-price-zooms-10-after-q4-results-2026-11779705546604.html
 
-- Nifty 50 breaks above 24,000? Here are the next key levels to watch
-  The 24,000 level remains a critical hurdle for the Nifty 50 as it coincides with the 52-day exponential moving average (DEMA) Sustaining above
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-breaks-above-24-000-here-are-the-next-key-levels-to-watch-11779700739766.html
+- Harikanta Overseas IPO Day 4: Issue booked over 50% so far. Check GMP and other details about this SME offer
+  Harikanta Overseas IPO worth  ₹24.30 crore is entirely a fresh issue of 0.27 crore shares. Since the SME IPO has no offer-
+  🔗 https://www.livemint.com/market/ipo/harikanta-overseas-ipo-day-4-issue-booked-over-50-so-far-check-gmp-and-other-details-about-this-sme-offer-11779707616025.html
 
-- Big push for Hyderabad Metro! IRFC signs  ₹13,527 crore refinancing deal
-  IRFC shares rose 4% to  ₹102 after securing a  ⁹13,527 crore loan from L&amp;amp;TMRHL to
-  🔗 https://www.livemint.com/market/stock-market-news/big-push-for-hyderabad-metro-irfc-signs-rs-13-527-crore-refinancing-deal-11779699173473.html
+- These premium tablet deals during Amazon Tablet Days deserve your attention
+  Amazon Tablet Days highlights premium tablet deals designed for entertainment, productivity and creative work.
+  🔗 https://www.livemint.com/technology/gadgets/these-premium-tablet-deals-during-amazon-tablet-days-deserve-your-attention-11779701070634.html
 
-- SIP boom a bane for Indian stock market: Is retail money giving FPIs a smooth exit and hurting rupee?
-  There is a debate that a surge in retail investments through SIPs has provided foreign portfolio investors a smooth exit from
-  🔗 https://www.livemint.com/market/stock-market-news/sip-boom-a-bane-for-indian-stock-market-is-retail-money-giving-fpis-a-smooth-exit-and-hurting-rupee-11779695858660.html
+- 7 AI gadgets of 2026 that actually feel useful: Smart glasses, AI rings and more
+   AI gadgets in 2026 are finally moving beyond hype, with smart glasses, AI rings, fitness trackers, and wearable assistants offering practical features. From Fitbit’s AI-
+  🔗 https://www.livemint.com/technology/7-ai-gadgets-of-2026-that-actually-feel-useful-smart-glasses-ai-rings-and-more-11779699716640.html
 
-- Penny stock under  ₹10 Shah Metacorp jumps after declaration of  ₹49.8 crore rights issue
-  Shah Metacorp share price rose over 6% after announcing a rights issue to raise  ₹49.80 crore for expansion. The issue opens on 11 June, offering shares at 
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-shah-metacorp-jumps-after-declaration-of-rs-49-8-crore-rights-issue-11779695220589.html
+- I asked ChatGPT and Gemini how to lose 10kg in 90 days. The AI gave me a ‘brutal’ blueprint
+  I asked ChatGPT and Gemini how I can lose 10kg of weight in 3 months. The AIs warned me
+  🔗 https://www.livemint.com/technology/tech-news/i-asked-chatgpt-and-gemini-how-to-lose-10kg-in-90-days-the-ai-gave-me-a-brutal-blueprint-11779698150803.html
 
-- With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart - The Guardian
-  With oil markets nearing the danger zone, a US-Iran deal can’
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXBSRnFaOFhBWFdQaTF5TG1KWTV4clAteUxSNVhWdWo5LTlyV1pnbG9UcmtpMkdUSEhuWHd0eTFkcWNLLVVMdHk2VG8yeENkTkxMNzhud19tM0E2UkQ4SU8xOUpsSGRkbUZaaW1RVXZmWFVlZzl5Q2xocEZDV0hQWnZjUHdqdWxWTTlSQ3ZB?oc=5
+- iPhone 18 Pro Max launching soon: Expected India price, camera upgrades, processor and new features
+  Apple is expected to unveil the iPhone 18 Pro lineup at the company's September launch event.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-launching-soon-expected-india-price-camera-upgrades-processor-and-new-features-11779680932737.html
 
-- Iran deal hopes; Brent falls below $100 - what’s moving markets - Investing.com
-  Iran deal hopes; Brent falls below $100
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFk2YzJ0cEQ1a3dVcjRPYWp6NVlUM3BPREVMUENjd0t3WjNRby1kUHN5aHBwTWFVZGpIbFYzRFlrd1ZhWlFCWGYwcFNIelhlMnVlck81cTQ3cHhYaFFud3pKT2p2a2JPaC1mY1VQaWd3RXh0TEJiaC1PN2xVVkFXZUxHVWFzaFhBY2xvX0h5RGcydnI4dXZROXhhZHRFdFNtM3BCa2g2cEI2dkxrU0JHUw?oc=5
+- Not a fan of Google’s AI Summaries? These 6 search engines are worth trying instead
+  As Google expands AI Summaries and conversational search, many users are exploring alternatives. Here are six search
+  🔗 https://www.livemint.com/technology/not-a-fan-of-google-s-ai-summaries-these-6-search-engines-are-worth-trying-instead-11779686229251.html
 
 - Oil, Dollar Slide on Optimism Over US-Iran Deal: Markets Wrap - Bloomberg.com
   Oil, Dollar Slide on Optimism Over
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnFCYnlEbXZpNEs3dTF4OWd0c3JkZnNzRVFiX3M1LWNGaFZtN3FmOHlEWFd5UjI0cFRxa1J2X0JVc0d1YVdUSVBKamhIdFA4T1JDbUZRQ04yVmxfQndhaXlNOHN1U1UtWENMX3hBc1ZZN2UtOUVKMlp0b0NQSkNDcEdNdDI5el9RUFFiRVBQNUJEcGQyTXlPN1BpMnNKNnVkbFVmTDdLOW54NmZ2WnhB?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex surges 1,000 pts, Nifty above 24,000; auto, b... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxPLXRjeW1TZTBGR0xGOXY2WVZUdHJodUpxOW5ET1pjY0UtMDRGLUYwMzRIdEpHQkNWcmM3TkhpdTJwTGpRU1ZETEFmTEs3dFdSUS1iZm5Na3VYeml2SVZ3OU5CQ2RMN3NRUH
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPLXRjeW1TZTBGR0xGOXY2WVZUdHJodUpxOW5ET1pjY0UtMDRGLUYwMzRIdEpHQkNWcmM3TkhpdTJwTGpRU1ZETEFmTEs3dFdSUS1iZm5Na3VYeml2SVZ3OU5CQ2RMN3NRUHFMWm50QzkwSXJjYUNPNTg3c09TampLMG1kdGJYVlJLMGZVbGpOc3p5MHgxMHBHNFFIUWJvUWZzb1FLNVVwUEpzU2x3eFhKTkJWOWFMVTBxc1pyQVBoR0RPeFhRbmZTRGR5Z2h0bXJwRjYxRkIwQVk3cXBaZmR6allqNUpyWDB4cVYzWFBvb2g3S1NsM083ZGxGQUZ5bE8xVFY1dG5hV3c1TUdHUUHSAZMCQVVfeXFMTXNUZUF2V2ZmQXBmQzljMjhZd0Z4QnlPMkt3YzFNXzBNZnU1bEtBWS1oWjE5Vld3ME5uci1zMlVwUVliZklLbDVNaVpqVEo1Q3R0bU9udGJJaXQya1hFeVB6aXI0WUdFSXF6dGVIQlBRcUJzVnFldW9ycml4UFYzWmNYLVdZZy1lVnNCLWZwaGt6RzlHRTBadFN3VEdMaUlyX0k3NXBwbEduVXV5ajlsT0k2SmVKNDFtZDY0WjFseVRtSFUycGVUTGJuNE5OTkdBMXFQOUpXa0xXS08ydlotLVJDQXpQLS1nR01UZFAxclRmM3lrU3ZCV2VVdmhkb2hHUi0tWDlOTW1MLTNUTlYzR0tsV0k?oc=5
+- What to Expect in Markets this Week: A Slew of Retailers Report Earnings—Along with Dell and Other AI Players - Investopedia
+  "What to Expect in Markets this Week: A Slew of Retailers Report Earn
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1RlU3JFN3BkNkNRTTNTMTBxSG9EVUNuZWlCVGRld1A3cnpVWTN1RE4yX3B0cFQ3cFRBNzF3OXV3YUtSMG5UbGtIcXY0MGR1S2djNnFmUWhHQ1RVNTlIZ19WaG93Tnp5WnhHVlZtOHBQanNkT184Mjc0Tm54cEJpMFZ5MGNNTFVJUG91V0x3SVV0LThXMVlYVzJvN0ZSY19WX2QxQjQydDN0TDRtUXRSSU9MOXRTcThLOXlITm04YlFPcS0yQUIzeEdVXzI5YnctNHdJTVlUWWhzaHpmaE1r?oc=5
 
-- Indian billionaire Ravi Jaipuria’s Varun Beverages secures 10-year PepsiCo deal as revenue hits $2.4 billion across 7 African markets - Business Insider Africa
-  Indian billionaire Ravi Jaipuria’s Varun Beverages secures 10-year
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV0tSWlhidVByTVEtVkl3YWNJQmI3U0dsRUluSjJkdlVoelRlT2pKUE9zZXVNQjUxMTJHV0lDMlR2RDk0OEtxd24wS0JRVVRxQzBnbm1zYUp5SEVTby1LVk5tS3VyM2JmeVlJbUNwRnhnV0g2Z3VnNHEwaF9xZmpwWVRkZ29XMUcyMnRrLUlWdVZaRnlNX2FUWGN6Q2xFN2U1VUdJWmRFMVhBUWRHZHBxVnRPTndpZEE0X1RoTzhSRTc0U3lRRkQ5OXctMzY3dWVrNEhaYg?oc=5
+- Top Africa Bourse to Tighten Algo-Trading, Market-Access Rules - Bloomberg.com
+  Top Africa Bourse to Tight
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjBpZDFPSklsZDAwUGpfRmRlUWd5dThYZ1VPRF9uV2lSaWhzYS1kRlhsQUU2ak1DREJXLTd4ZFlfRVZNYUlnUVdRX25pVDZVXzJxOW5vQXo0MTJYU1RPMkhfaENaUXhCMlhFQ2t6U0VZMzdEaGZNRW4tZ1U5N0xBYmx2WEg0VlBZRXMtT1JQcVRGU1V3VlpQVTMycl9ZTndXd0FURUpFanlabDB0VHdKQjJR?oc=5
 
-- Commodity Radar: Gold's bullish trend intact despite current consolidation. Buy for these targets
-  MCX gold prices continue to consolidate near record levels, supported by safe-haven demand amid global uncertainty. Technical indicators point to sustained bullish momentum, though consolidation may continue until a decisive breakout above key resistance levels emerges
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-golds-bullish-trend-intact-despite-current-consolidation-buy-for-these-targets/articleshow/131305930.cms
+- Stock Market Live Updates Today: BSE Sensex ends over 1,000 points up, near 76,500; Nifty50 closes above 24,000 mark; oil prices plunge 5% to two-week lows - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMirwJBVV95cUxNZjYzSlpMbUJXUzB5RFZJVW4tZ0tENUV4OVlMeUl1eWlkcS1mY3lTa0EtM0lpMHdBNUlxcTdpcVRuX1dFUl9VWjFqSThJd1EtVDRkTzZxRVF1SkZJXzNRYjdKZ3hYeDNvcj
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxNZjYzSlpMbUJXUzB5RFZJVW4tZ0tENUV4OVlMeUl1eWlkcS1mY3lTa0EtM0lpMHdBNUlxcTdpcVRuX1dFUl9VWjFqSThJd1EtVDRkTzZxRVF1SkZJXzNRYjdKZ3hYeDNvcjA5Q0wyU3c0b25udnhVTVY2RjNBUlVCYTJvVkpBTERWdHdXS3phSi02c3hwWTVWM3RLRDFGcTBNYjZvQzBoUlRpaGowcVp0MWhTUnROejZVUG1qckxnVVdwVnh1ZVliS3UwTXhPYlZYcFdaTFFXeW85cGZnMjRwUVZIR1FGWkpZMEdJLUFNakU3M1FuQmNhZzFkZHRQT0Q1NVNRbXRVMW9TT0FRMzF0LVIwVW1QUDNyOHZkZ3NyeTYtZEZwTEk3MDNiNElyRlnSAbQCQVVfeXFMTWNkV0t5aXhKRHRtZEI2VkcxcDNEcEM4QTBCLTRtbG9OVDZLSEpnNS1FM194ajNMTU5tMGh1VnN1VmtqZEVFZ2h4V2M2SmZ4QnhGYV9UZlNFY3RHSDhEWEszY0xLRnFxVE52b2JVemp6YTU0aU5QRTlOVmhLMEdFUjFaZnBfN1p5eXBiZjNycUhVZ2hWRk9MM2JWVkdQNWY4X3lubjVsWGd6YmJMLXVYUUpXc1VWc3dMNnY1UG5LalJfaWpqOC1Zc1J3RWYzUEFlbmEyYWhMZjJqdkVhWlhRU1hZemlQV0cxaDhuMlVNY29Td2ZvYThCczRiQjVRS2RMVWQ0dEJIN09tUlJ6aWpVaERycVMwbllDd2pZN3lQMmNuQjY0V3hIakRKbGpmZk5UWF9Pb0g?oc=5
 
-- India’s listed REITs distribute over Rs 8,900 crore in FY26
-  The five publicly listed REITs distributed over Rs 8,900 crore during FY26. Brookfield India Real Estate Trust, Embassy Office Parks REIT, Knowledge Realty Trust,
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-listed-reits-distribute-over-rs-8900-crore-in-fy26/articleshow/131305938.cms
+- Telangana CM exhorts SHG women to establish super markets, logistic parks and godowns - The Hindu
+  Telangana CM exhorts SHG women to establish super
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEc5cGh1WWhCY1IwV0xsaVRUaVhjZ2FzQU9acmRYQV9GMFJHdDBGT1ZaTTY5ZFVHNFhDdXY0a0NtUXFoamVXeURJSXc3TTMycHRqSWF2Nm96X1hlSW1LRUVfZHNSS1pCWV8xTlhTNnVWbnVOZVVXampncFcxYnBudjAxZjczSl9JV213N2ZZYzJUakp3MDFuWkxvWGw3NkJ5NHVRUnZUbml1d1RyYURUdkVQSHZyWVdBTV9Ca0phU1dMVnZzbW8zMTZQOFd3am1FTk5ZaG1uSG9hOUI1azJBbFQzTUxqNzVr0gHvAUFVX3lxTE1Qdzk5b2VBWmVycGd2MTVaVGhyd01sSTFIc3JkZzExcVcxSURRZlFqVXBYVkZCNFBDVVZ3Ylo2d1hMejJYMVBPV1Y5N0pvdzl5MlRPVHBNb19SRVVlV3ZLb0NKZVBrazhSQ2lULVk1RmVjaGJITER2RFJQMzBSQlZOeEJBbjltbWdjSk5Wbm0tOVN0Wm5VRzMyaHowd2owR3B3Uzl0NmtFZUlLY1kyMHQyNkM4RTFGOW1ydTJ2dU5Eckd5YU15U1ZjdFNob1dVWWRvMV9hTENzU1BMMVZnX1I2eFlBNGtmdlRudWhxbHVN?oc=5
 
-- FIIs, retail investors raise stakes in 10 midcaps, but stocks slip up to 30%
-  Foreign Institutional Investors (FIIs) and retail investors increased their stakes in nearly 20 midcap stocks over the March quarter. Despite this accumulation, 10 of the top laggards
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-midcaps-but-stocks-slip-up-to-30/slideshow/131305645.cms
+- Aditya Birla Fashion Q4 net loss widens to Rs 163.8 cr
+  The company had posted a net profit of Rs 23.55 crore a year ago. Aditya Birl
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-fashion-q4-net-loss-widens-to-rs-163-8-cr/articleshow/131311809.cms
 
-- Markets may have already discounted short-term pain, recovery seen ahead: Dinshaw Irani
-  Elevated crude oil prices are a concern, but a resolution could boost macro stability. Corporate earnings are showing resilience, especially in mid and smallcaps. While the current quarter may see margin pressure, growth is expected
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-may-have-already-discounted-short-term-pain-recovery-seen-ahead-dinshaw-irani/articleshow/131305285.cms
+- Adani Enterprises among 6 stocks hit 52-week highs, rally up to 25% in a month
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-6-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/131311617.cms
 
-- HFCL shares soar 10% to fresh record high, skyrocket 172% in four months. Should you buy or wait?
-  HFCL has transitioned from a base breakout to a momentum extension after a sharp rally. The stock has broken past its earlier 52-week high zone, signalling strong momentum.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-soar-10-to-fresh-record-high-skyrocket-172-in-four-months-should-you-buy-or-wait/articleshow/131304808.cms
+- 'Inflation and unholy mess:' Why Nithin Kamath thinks RBI may not stay soft on interest rates
+  Nithin Kamath warns that a weak monsoon caused by El Niño and rising global oil prices linked to the Iran conflict could sharply increase inflation in India. He said higher food and fuel costs may force the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/inflation-and-unholy-mess-why-nithin-kamath-thinks-rbi-may-not-stay-soft-on-interest-rates/articleshow/131310601.cms
 
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+- Gainers &amp; Losers: LIC, Max Healthcare among 7 big movers on Monday
+  LIC, Vodafone Idea, Eicher Motors and Titagarh Rail Systems surged. J
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lic-max-healthcare-among-7-big-movers-on-monday/slideshow/131310348.cms
 
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
+- Pine Labs Q4 Results: Co turns to black, logs Rs 59 crore profit on 17% revenue jump
+  Pine Labs turned profitable in the March-ended quarter, posting a consolidated net profit of Rs 59 crore versus a net loss of Rs 29 crore in the year
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pine-labs-q4-results-co-turns-black-logs-rs-59-crore-profit-on-17-revenue-jump/articleshow/131309690.cms
 
-- "Aabar Dekha Hobe": Indian Envoy's Farewell Note As Dhaka Stint Ends - NDTV
-  "Aabar Dekha Hobe":
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXphdUxJenFER0NKbkhqekM1bk41X1ZId1RqUU1IT1F3T1VvWTF1UDJXNFQ0X0lnMm03X0JCMTIyc00xbjVzRVRvc1NlTFZ0bzR5WDkwR1J5MFN6Y010WmhfS3g4NkxZclNScm5GTUREdzlmbWtKR256bmh0c01oQnc3UE83aUk4XzBBVG9SeFpidHFDczNHbFZUcGR3dkRVaURGUGYxZFRpbzRIX25XVUdYTkwzNVZpWmfSAcIBQVVfeXFMT19Qa1JGRnhXaUxtY3JiZF9qSV9zNlR4RFowV1Z5OHFCZXJYUVdqUVY2MHoyZExWSVlNRmdZZjZFOVJ1c0ZMdzBtb2RoRW5nRTd0TG5sVXRHVV82dE8xbG1kYVNsUC1FczRVdU1ITi00UG1XTmwxVEo0bTBsWnpvMlhQUmdQRW54b0lIYTM5YW1OeHk3dURjRzlyUFVQVmhKUEI5WVRtM2F4a2kteElXOVphZWNXMlhBVmlaWV9GMTJaYUE?oc=5
-
-- US-Iran War News Live Updates: Iran says charging fees for 'navigational services' through Strait of Hormuz - The Times of India
-  The Times of India reports that Iran is planning to use the Strait of Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSnlaSnFWR1hfX2Z2aE1UQTBaSUJPQmRmTzdrbmdxQ2RNa0RjLUZsU1FuSlpobkxfZ29USlJUcTk1aFQyYWxHbzJqeWRSQmlINUVIbENtSnJVMEd3SjdoYklqRXpUQ19Ib25XaVQ4S20tQUNuTGdsVVhnalJZcWQxUFJLMC1GUFBZS2RMTWg3U0dCUUVSYklFLUR4T1ZJWFN3bFpOejVNMFhCTVhORjRmNmZtV3BsSlN1dFVEVEkwZ1YwelJsRTJxNi1sX0Q1YkpHLTNJOERqWGIyN21lcklZTWNwVFZXYVRPeU1XRDBJUEIwWjVkc05KV211SzNJVWFibl9uMGV2SmpNUlBHX2pBaEV3YllIc01qS21hS25NX0VzdDNSS19fME90Mnc1NUl4cWJoYUJNZHQwWkVLYndocC1ENHBNdm56aEUxaV9IbjlXRi1OLUtvc3l30gHfAkFVX3lxTE05b1JFUGZiUk9SSGU4QlFlWlM2MmdLMk1IWDNjSFpMN3VtNjU0VG9zV0FpNGFYbG1naDVYVU5DbmtLS1E5MmJISnQ4WHJMajVqdDNDa1o5TXRtTWZJZnFVMVBNU3RNMnZfYTNBWUswUmxmS0ZFNjJmeHo3RlRUcmRTNUxEV1pQbTVjZDBiYlJOdmV2SXFlRjFBX3FjaDQwMzZIeXRnc1Bab3FMUG5IRm55VVA5aXNaYTJqVVdLdnZiZ0E4OV9mZWw2SzFocEIxRXpXRkZXUGtMd0tSbWZaMUV2dkhYam95YmhDbkdBbm5xa01pZXBLT1JPS3BOb0RZRGlOQU5XSmJXYjJIRnlGNnBHWDRGcUpBa0RaUFRXTUZ4b1FrMllQemJGU2RlUUszQUdaUFpuY1lRblU0NDBGcmF0WHNtXzBTSFB2eV9sS0ZmOVhHUTJXclBRT1NpY0dBZw?oc=5
-
-- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
-  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
+- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
+  China's New Export Rules: Will Curbs Short Circuit
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
 
-- "Aabar Dekha Hobe": Indian Envoy's Farewell Note As Dhaka Stint Ends - NDTV
-  "Aabar Dekha Hobe":
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXphdUxJenFER0NKbkhqekM1bk41X1ZId1RqUU1IT1F3T1VvWTF1UDJXNFQ0X0lnMm03X0JCMTIyc00xbjVzRVRvc1NlTFZ0bzR5WDkwR1J5MFN6Y010WmhfS3g4NkxZclNScm5GTUREdzlmbWtKR256bmh0c01oQnc3UE83aUk4XzBBVG9SeFpidHFDczNHbFZUcGR3dkRVaURGUGYxZFRpbzRIX25XVUdYTkwzNVZpWmfSAcIBQVVfeXFMT19Qa1JGRnhXaUxtY3JiZF9qSV9zNlR4RFowV1Z5OHFCZXJYUVdqUVY2MHoyZExWSVlNRmdZZjZFOVJ1c0ZMdzBtb2RoRW5nRTd0TG5sVXRHVV82dE8xbG1kYVNsUC1FczRVdU1ITi00UG1XTmwxVEo0bTBsWnpvMlhQUmdQRW54b0lIYTM5YW1OeHk3dURjRzlyUFVQVmhKUEI5WVRtM2F4a2kteElXOVphZWNXMlhBVmlaWV9GMTJaYUE?oc=5
+- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
+  India Holds Crude Oil Res
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
 
-- US-Iran War News Live Updates: Iran says charging fees for 'navigational services' through Strait of Hormuz - The Times of India
-  The Times of India reports that Iran is planning to use the Strait of Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSnlaSnFWR1hfX2Z2aE1UQTBaSUJPQmRmTzdrbmdxQ2RNa0RjLUZsU1FuSlpobkxfZ29USlJUcTk1aFQyYWxHbzJqeWRSQmlINUVIbENtSnJVMEd3SjdoYklqRXpUQ19Ib25XaVQ4S20tQUNuTGdsVVhnalJZcWQxUFJLMC1GUFBZS2RMTWg3U0dCUUVSYklFLUR4T1ZJWFN3bFpOejVNMFhCTVhORjRmNmZtV3BsSlN1dFVEVEkwZ1YwelJsRTJxNi1sX0Q1YkpHLTNJOERqWGIyN21lcklZTWNwVFZXYVRPeU1XRDBJUEIwWjVkc05KV211SzNJVWFibl9uMGV2SmpNUlBHX2pBaEV3YllIc01qS21hS25NX0VzdDNSS19fME90Mnc1NUl4cWJoYUJNZHQwWkVLYndocC1ENHBNdm56aEUxaV9IbjlXRi1OLUtvc3l30gHfAkFVX3lxTE05b1JFUGZiUk9SSGU4QlFlWlM2MmdLMk1IWDNjSFpMN3VtNjU0VG9zV0FpNGFYbG1naDVYVU5DbmtLS1E5MmJISnQ4WHJMajVqdDNDa1o5TXRtTWZJZnFVMVBNU3RNMnZfYTNBWUswUmxmS0ZFNjJmeHo3RlRUcmRTNUxEV1pQbTVjZDBiYlJOdmV2SXFlRjFBX3FjaDQwMzZIeXRnc1Bab3FMUG5IRm55VVA5aXNaYTJqVVdLdnZiZ0E4OV9mZWw2SzFocEIxRXpXRkZXUGtMd0tSbWZaMUV2dkhYam95YmhDbkdBbm5xa01pZXBLT1JPS3BOb0RZRGlOQU5XSmJXYjJIRnlGNnBHWDRGcUpBa0RaUFRXTUZ4b1FrMllQemJGU2RlUUszQUdaUFpuY1lRblU0NDBGcmF0WHNtXzBTSFB2eV9sS0ZmOVhHUTJXclBRT1NpY0dBZw?oc=5
+- Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
+  Cattle market empties as fear grips Eid preparations in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
-  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
-
-- "Aabar Dekha Hobe": Indian Envoy's Farewell Note As Dhaka Stint Ends - NDTV
-  "Aabar Dekha Hobe":
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXphdUxJenFER0NKbkhqekM1bk41X1ZId1RqUU1IT1F3T1VvWTF1UDJXNFQ0X0lnMm03X0JCMTIyc00xbjVzRVRvc1NlTFZ0bzR5WDkwR1J5MFN6Y010WmhfS3g4NkxZclNScm5GTUREdzlmbWtKR256bmh0c01oQnc3UE83aUk4XzBBVG9SeFpidHFDczNHbFZUcGR3dkRVaURGUGYxZFRpbzRIX25XVUdYTkwzNVZpWmfSAcIBQVVfeXFMT19Qa1JGRnhXaUxtY3JiZF9qSV9zNlR4RFowV1Z5OHFCZXJYUVdqUVY2MHoyZExWSVlNRmdZZjZFOVJ1c0ZMdzBtb2RoRW5nRTd0TG5sVXRHVV82dE8xbG1kYVNsUC1FczRVdU1ITi00UG1XTmwxVEo0bTBsWnpvMlhQUmdQRW54b0lIYTM5YW1OeHk3dURjRzlyUFVQVmhKUEI5WVRtM2F4a2kteElXOVphZWNXMlhBVmlaWV9GMTJaYUE?oc=5
-
-- US-Iran War News Live Updates: Iran says charging fees for 'navigational services' through Strait of Hormuz - The Times of India
-  The Times of India reports that Iran is planning to use the Strait of Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSnlaSnFWR1hfX2Z2aE1UQTBaSUJPQmRmTzdrbmdxQ2RNa0RjLUZsU1FuSlpobkxfZ29USlJUcTk1aFQyYWxHbzJqeWRSQmlINUVIbENtSnJVMEd3SjdoYklqRXpUQ19Ib25XaVQ4S20tQUNuTGdsVVhnalJZcWQxUFJLMC1GUFBZS2RMTWg3U0dCUUVSYklFLUR4T1ZJWFN3bFpOejVNMFhCTVhORjRmNmZtV3BsSlN1dFVEVEkwZ1YwelJsRTJxNi1sX0Q1YkpHLTNJOERqWGIyN21lcklZTWNwVFZXYVRPeU1XRDBJUEIwWjVkc05KV211SzNJVWFibl9uMGV2SmpNUlBHX2pBaEV3YllIc01qS21hS25NX0VzdDNSS19fME90Mnc1NUl4cWJoYUJNZHQwWkVLYndocC1ENHBNdm56aEUxaV9IbjlXRi1OLUtvc3l30gHfAkFVX3lxTE05b1JFUGZiUk9SSGU4QlFlWlM2MmdLMk1IWDNjSFpMN3VtNjU0VG9zV0FpNGFYbG1naDVYVU5DbmtLS1E5MmJISnQ4WHJMajVqdDNDa1o5TXRtTWZJZnFVMVBNU3RNMnZfYTNBWUswUmxmS0ZFNjJmeHo3RlRUcmRTNUxEV1pQbTVjZDBiYlJOdmV2SXFlRjFBX3FjaDQwMzZIeXRnc1Bab3FMUG5IRm55VVA5aXNaYTJqVVdLdnZiZ0E4OV9mZWw2SzFocEIxRXpXRkZXUGtMd0tSbWZaMUV2dkhYam95YmhDbkdBbm5xa01pZXBLT1JPS3BOb0RZRGlOQU5XSmJXYjJIRnlGNnBHWDRGcUpBa0RaUFRXTUZ4b1FrMllQemJGU2RlUUszQUdaUFpuY1lRblU0NDBGcmF0WHNtXzBTSFB2eV9sS0ZmOVhHUTJXclBRT1NpY0dBZw?oc=5
-
-- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
-  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
+- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
+  China's New Export Rules: Will Curbs Short Circuit
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
 
-- "Aabar Dekha Hobe": Indian Envoy's Farewell Note As Dhaka Stint Ends - NDTV
-  "Aabar Dekha Hobe":
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXphdUxJenFER0NKbkhqekM1bk41X1ZId1RqUU1IT1F3T1VvWTF1UDJXNFQ0X0lnMm03X0JCMTIyc00xbjVzRVRvc1NlTFZ0bzR5WDkwR1J5MFN6Y010WmhfS3g4NkxZclNScm5GTUREdzlmbWtKR256bmh0c01oQnc3UE83aUk4XzBBVG9SeFpidHFDczNHbFZUcGR3dkRVaURGUGYxZFRpbzRIX25XVUdYTkwzNVZpWmfSAcIBQVVfeXFMT19Qa1JGRnhXaUxtY3JiZF9qSV9zNlR4RFowV1Z5OHFCZXJYUVdqUVY2MHoyZExWSVlNRmdZZjZFOVJ1c0ZMdzBtb2RoRW5nRTd0TG5sVXRHVV82dE8xbG1kYVNsUC1FczRVdU1ITi00UG1XTmwxVEo0bTBsWnpvMlhQUmdQRW54b0lIYTM5YW1OeHk3dURjRzlyUFVQVmhKUEI5WVRtM2F4a2kteElXOVphZWNXMlhBVmlaWV9GMTJaYUE?oc=5
+- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
+  India Holds Crude Oil Res
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
 
-- US-Iran War News Live Updates: Iran says charging fees for 'navigational services' through Strait of Hormuz - The Times of India
-  The Times of India reports that Iran is planning to use the Strait of Hormuz
-  🔗 https://news.google.com/rss/articles/CBMi2gJBVV95cUxQSnlaSnFWR1hfX2Z2aE1UQTBaSUJPQmRmTzdrbmdxQ2RNa0RjLUZsU1FuSlpobkxfZ29USlJUcTk1aFQyYWxHbzJqeWRSQmlINUVIbENtSnJVMEd3SjdoYklqRXpUQ19Ib25XaVQ4S20tQUNuTGdsVVhnalJZcWQxUFJLMC1GUFBZS2RMTWg3U0dCUUVSYklFLUR4T1ZJWFN3bFpOejVNMFhCTVhORjRmNmZtV3BsSlN1dFVEVEkwZ1YwelJsRTJxNi1sX0Q1YkpHLTNJOERqWGIyN21lcklZTWNwVFZXYVRPeU1XRDBJUEIwWjVkc05KV211SzNJVWFibl9uMGV2SmpNUlBHX2pBaEV3YllIc01qS21hS25NX0VzdDNSS19fME90Mnc1NUl4cWJoYUJNZHQwWkVLYndocC1ENHBNdm56aEUxaV9IbjlXRi1OLUtvc3l30gHfAkFVX3lxTE05b1JFUGZiUk9SSGU4QlFlWlM2MmdLMk1IWDNjSFpMN3VtNjU0VG9zV0FpNGFYbG1naDVYVU5DbmtLS1E5MmJISnQ4WHJMajVqdDNDa1o5TXRtTWZJZnFVMVBNU3RNMnZfYTNBWUswUmxmS0ZFNjJmeHo3RlRUcmRTNUxEV1pQbTVjZDBiYlJOdmV2SXFlRjFBX3FjaDQwMzZIeXRnc1Bab3FMUG5IRm55VVA5aXNaYTJqVVdLdnZiZ0E4OV9mZWw2SzFocEIxRXpXRkZXUGtMd0tSbWZaMUV2dkhYam95YmhDbkdBbm5xa01pZXBLT1JPS3BOb0RZRGlOQU5XSmJXYjJIRnlGNnBHWDRGcUpBa0RaUFRXTUZ4b1FrMllQemJGU2RlUUszQUdaUFpuY1lRblU0NDBGcmF0WHNtXzBTSFB2eV9sS0ZmOVhHUTJXclBRT1NpY0dBZw?oc=5
+- Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
+  Cattle market empties as fear grips Eid preparations in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
-  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
+- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
+  China's New Export Rules: Will Curbs Short Circuit
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Rubio meets Modi during India visit with energy high on agenda - BBC
+  Rubio meets Modi during India visit with energy
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
+  India Holds Crude Oil Res
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
+  Cattle market empties as fear grips Eid preparations in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
+  China's New Export Rules: Will Curbs Short Circuit
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Rubio meets Modi during India visit with energy high on agenda - BBC
+  Rubio meets Modi during India visit with energy
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
+
+- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
+  India Holds Crude Oil Res
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
+
+- Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
+  Cattle market empties as fear grips Eid preparations in
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
+
+- Elon Musk is going all-in on an unproven technology - The Economist
+  Elon Musk is going all-in
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2MySDFBakVraENOeTd0ZzRCYmZON1JBS3Npc1p4a0JLb3B0OGtqSDRnZkxVOHF5aFlQNEFOdm1hSFN0RnJOdGJtX1dQLW1GU1ZnYUJjWHBVUVJlTUlnZXd6N0c5MkpiUGZwV05oMlRFYzQyMFFFSE9aWENQTTR1YmxHci1ETVkxb1dYbzRWTWlqbklNcWJoZzZBRVZ5dw?oc=5
+
+- Mysore Quantum AI launched; seeks to create local ecosystem for AI technologies - The Hindu
+  Mysore Quantum AI launched; seeks to create local
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaWdEZ1hqUWZRRHRUV0dwbnVIVnhLWjh2SURGdGxaRVhSOHpCTmhUYmZKWHgxNjFaN1lBYVJrSGx5X0xPaW53emtlUkJEaUdGVi1tbnJ6aUNTZEtwNV9LWGlmNnRtcmdlMi1YVG5UaXVVWGJBbTBvSlJLeXBOaWFlQjh5Yk43NERHZDRNczBVdU5PN2p5ODZLZGJxdE91bGxSWGh1eHlWRE5hZGJQYnJBM0pYbkV5U3ZTSXdOTmVhcUVhOFEyUWxHbE9JWjVXSGNKTkJsVlNnN1NCSFNQWW1jdNIB5wFBVV95cUxQeUdLZzFVMG15OFU3RWVKQVF5VEhidHNQYlNkVEdJajFCSloySmZNSkpxWksyak94WkY1UDVhaEstVk5QbXVWN0lsMGNLdGc3Qk9yeDZlbHk0VXgwazBrdVFhYmRHSnpaVmhsY21PcnZSeXpmcXo1WU5SWFBVTFBPcmxBMzhmZ0RvNlF2a0RRQXNIMkVTdEQwRGJrX1o2bXBpUnB5TU81TDZPdWpuQ0taSDdOam5ObE5MamlfWVlDWU1UY3NKR1BZVHhyM3VCWmtyR3JJTnE2MFNXZWxwaGFWc2JudnAxTnM?oc=5
+
+- Punjab’s digital health revolution: How technology is reshaping citizen-centric healthcare delivery - Express Computer
+  Punjab’s digital health revolution:
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWtzRFhSelJMUkVyT29pTl9RLVFsYXZfMFp0VUppTDFoNGFnMlRIUVROWDIwanBhRVZVSGIta0RIVnlfVm9IWm5nVlEtOVYxUVZMeGVXdERIOGMybTJFWG5tdkdaMnZ2c0pXWjFPZk13V2QtMlJ6NlJkQVVQZm53VXFfczI2X1Z0U1diZVQ5bGx2dGg1OS1lWVZBY01JUmpiUU1idGpYWURNZGlhMU5wcUdCLXp5Y2dhdU1VbGw1d2JjMEZFX3ZvOEo3ZjhyVF96RHFjYmZWWkJQakdHVW9kVdIB5gFBVV95cUxQZHRZSkVrUWJLSTRJOXpzN292TDEwZGhIWmVsSGJ3bFlMNUFFdEs4OXRLOUJ4VWlnb3pKbjN4UFpYdVJMVzBQbjN6N1owQ19mSS00UENQVF9fVE54RGlYZE9tdFl6d1VFVkRXYjRTMnpaZkV1aXJsQXc1UHlFVEhTa2cxR2xsbmRMczdibjg1NUdfZEd0b0l1anFhMW0yRENraHBRTmtjNXlkd3ozNWoxSUZJNUZ3OGVtTEdXWjYwb2xySFg2NkdvSGoxdUpwUE9DeDNWNHViTnBkcXV5R1pkY1BzWEdTUQ?oc=5
+
+- Fujitsu develops self-evolving multi-AI agent technology that learns and adapts to business operations - Fujitsu Global
+  Fujitsu develops self-evolving multi-AI agent
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcklXQldLdkM1R3JpTnEwSGpOYV9KdmZjaHVZWFR2NG1fUF9tTVlLR19QbTBGTU9xQkxQbjBndmxIaVRCaGd4NU9UbEhoZzdDOGE5QWxmNm5qN29mLWNxTzR4b3Q?oc=5
+
+- Digital technologies shine at 22nd China (Shenzhen) Int'l Cultural Industries Fair - Xinhua
+  Digital technologies shine at 22nd China (S
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSDBaWFIzZldmQWN4OGJHX1UwdXdZem9TUnlVREhLck12QWFEZXdTOG5nX0NMWEVwc3JncUdLMksySXhSNHdURXFJU29zVzZLZkhRTFdsdHIzV085VUR5bUZteWo0UGN6X2FqcDJQY28tcGltMWNrZVUyN2w?oc=5
 
 
-_Last updated: 2026-05-25 10:00:32 UTC_
+_Last updated: 2026-05-25 14:48:21 UTC_
