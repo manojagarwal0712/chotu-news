@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- BJP minority panel chief urges Muslims not to slaughter cow on Bakrid
+- Australian Foreign Minister Penny Wong to visit India for Quad FM’s meeting
   
-  🔗 https://indianexpress.com/article/india/bjp-minority-panel-chief-urges-muslims-not-slaughter-cow-bakrid-10705987/
+  🔗 https://indianexpress.com/article/india/australian-foreign-minister-penny-wong-to-visit-india-for-quad-fms-meeting-10706267/
 
-- Days after breakthrough in Ladakh talks, panel member says: ‘Avoid unnecessary excitement, undue pessimism’
+- Night of terror in MP village: Tiger that mauled woman returns to house for 2nd attack, villagers assault officials
   
-  🔗 https://indianexpress.com/article/india/ladakh-talks-centre-kda-leh-apex-body-sonam-wangchuk-article-371-10705862/
+  🔗 https://indianexpress.com/article/india/night-of-terror-in-mp-village-tiger-that-mauled-woman-returns-to-house-for-2nd-attack-villagers-assault-officials-10706082/
 
-- Indian researchers solve a long-standing puzzle – in chemistry
+- India finalises request letter for 114 Rafales, to send it to France soon
   
-  🔗 https://indianexpress.com/article/india/iit-madras-iisc-researchers-create-first-carbon-free-ferrocene-like-molecule-breakthrough-10705813/
+  🔗 https://indianexpress.com/article/india/india-finalises-request-letter-for-114-rafales-to-send-it-to-france-soon-10706123/
 
-- Twisha Sharma cremated after second autopsy, 12 days after her death
+- 12-year-old girl’s rape and murder shocks Kashmir: What we know so far
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-cremated-after-second-autopsy-12-days-after-her-death-10705641/
+  🔗 https://indianexpress.com/article/india/12-year-old-girls-rape-and-murder-shocks-kashmir-what-we-know-so-far-10706085/
 
-- ‘US is a very welcoming country but has stupid people too’: Marco Rubio on racist comments against Indians
+- ‘Missing for 10 days’: BJP’s new poster campaign against Omar Abdullah
   
-  🔗 https://indianexpress.com/article/india/us-is-a-very-welcoming-country-but-has-stupid-people-too-marco-rubio-on-racist-comments-against-indians-10705550/
+  🔗 https://indianexpress.com/article/india/missing-for-10-days-bjps-new-poster-campaign-against-omar-abdullah-10706049/
 
 - OpenAI launches free AI image verification tool amid deepfake surge
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-10705161/
 
-- ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says
-  The European Central Bank plans to press lenders to accelerate efforts to secure their IT systems. The bank has organized a meeting on cybersecurity risks with the
-  🔗 https://www.livemint.com/companies/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says-11779648769950.html
+- Huawei plans 1.4nm chips by 2031 as China races to catch TSMC
+  Huawei is working to reduce its five-year semiconductor production
+  🔗 https://www.livemint.com/companies/news/huawei-plans-1-4nm-chips-by-2031-as-china-races-to-catch-tsmc-11779676131092.html
 
-- As smartwatch fears fade, Ethos expands deeper into luxury watches
-  Ethos says analogue watches are regaining relevance as aspiration-led purchases. Retailer to expand stores, target younger
-  🔗 https://www.livemint.com/companies/news/ethos-luxury-watch-market-india-smartwatch-threat-fades-expansion-plans-11779595454909.html
+- Flipkart bets games and AI can turn Bharat’s next internet users into shoppers
+  Shopsy is being rebuilt around feeds, rewards and entertainment. Flipkart prioritizes
+  🔗 https://www.livemint.com/companies/news/flipkart-shopsy-ai-games-bharat-online-shopping-strategy-india-ecommerce-11779604192205.html
 
-- OpenAI will pay  ₹3.7 crore to worry about a problem that may not exist yet. The job? Stop AI from building itself
-  The job listing asks for someone ‘tasteful and strategic’ enough to reason about risks that do not yet exist.
-  🔗 https://www.livemint.com/companies/news/openai-will-pay-rs-3-7-crore-to-worry-about-a-problem-that-may-not-exist-yet-the-job-stop-ai-from-building-itself-11779588394384.html
+- India's solar export boom collapses as US tariffs bite
+  All but one of India’s top listed solar module companies reported nil exports during the quarter ended 31 March. Market leader Waaree Energies Ltd, which had so far managed to protect its exports
+  🔗 https://www.livemint.com/companies/indias-solar-export-boom-collapses-as-us-tariffs-bite-renewable-power-adani-waaree-11779617500319.html
 
-- Japan’s Akazawa Says He Spoke Briefly With China Commerce Minister
-  Japanese Trade Minister Ryosei Akazawa and Chinese Commerce Minister Wang Wentao had a brief chat on Friday. It was the first ministerial-
-  🔗 https://www.livemint.com/companies/japans-akazawa-says-he-spoke-briefly-with-china-commerce-minister-11779586974570.html
+- India's EV cell makers see first real shot at closing China price gap
+  Lithium-ion cell makers are intensifying talks with the government to cut costs and build a local supplier base. The push is urgent as EV cell imports hit $4.6 billion in FY26, over two-thirds of
+  🔗 https://www.livemint.com/companies/indias-ev-cell-makers-see-first-real-shot-at-closing-china-price-gap-11779610341617.html
 
-- Seven ways AI is making 2025 tech layoffs different from Silicon Valley’s earlier job cuts
-  Tech layoffs in 2025 are increasingly targeting middle management and coordination-heavy roles. Firms like Amazon, Meta and Shopify are pushing flatter hierarchies, AI
-  🔗 https://www.livemint.com/companies/news/seven-ways-ai-is-making-2025-tech-layoffs-different-from-silicon-valley-s-earlier-job-cuts-11779516530012.html
+- Visa-backed PayMate ties unpaid employee dues to long-pending DigiAsia deal, funding
+  PayMate has been unable to pay full salaries to some staff for up to a year. It is linking repayment to the closure of a restructured deal with Digi
+  🔗 https://www.livemint.com/companies/news/visabacked-paymate-ties-unpaid-employee-dues-to-long-pending-digiasia-deal-funding-11779626867349.html
 
-- Wall Street Week Ahead: Market braces for inflation data, tech earnings, geopolitical updates
-  The Federal Reserve's favored inflation metric is the core PCE price index.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-braces-for-inflation-data-tech-earnings-geopolitical-updates-11779629461076.html
+- Emerging Assets Post Positive Week as Hopes for Peace Deal Grow
+  Emerging-market stocks and currencies gained on the week as investors grew increasingly hopeful that the US and
+  🔗 https://www.livemint.com/market/emerging-assets-post-positive-week-as-hopes-for-peace-deal-grow-11779677383566.html
 
-- Wall St Week Ahead-Soaring stocks could face rocky patch as earnings wind down, yields perk up
-  Soaring stocks could face rocky patch as earnings wind down, yields perk up.
-  🔗 https://www.livemint.com/market/wall-st-week-ahead-soaring-stocks-could-face-rocky-patch-as-earnings-wind-down-yields-perk-up-11779627695334.html
+- Stocks to buy for short term: Dixon Tech among 3 stocks Anand Rathi's Jigar Patel recommends buying; do you own any?
+  Anand Rathi's Jigar Patel recommends three stocks for short-term gains. He also shares his near-term technical views on the Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-dixon-tech-ramco-cements-aarti-industries-3-stocks-anand-rathis-jigar-patel-recommends-11779634767907.html
 
-- Dhoot Transmission IPO: Bain Capital-backed firm files updated DRHP with Sebi for  ₹1,400 crore fresh issue
-  Dhoot Transmission, supported by Bain Capital, has submitted updated draft papers for its IPO with Sebi. The IPO also comprises an OFS of up to 1.
-  🔗 https://www.livemint.com/market/ipo/dhoot-transmission-ipo-bain-capital-backed-firm-files-updated-drhp-with-sebi-for-1-400-crore-fresh-issue-11779618513061.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 25 May
+  The Indian stock market closed higher on 24 May, driven by gains in banking stocks despite inflation and crude oil concerns. Recommended stocks for purchase include Sheela Foam, Max Financial, Poly Medicure
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-25-may-11779674435094.html
 
-- IOC to BPCL: OMC stocks to remain in focus on Monday. Which OMC stock to buy for long-term?
-   petrol and diesel prices hiked for the third time in eight days. Experts recommend these OMC stocks to buy amid rate hike uncertainty.
-  🔗 https://www.livemint.com/market/stock-market-news/ioc-to-bpcl-omc-stocks-to-remain-in-focus-on-monday-which-omc-stock-to-buy-for-longterm-11779610983442.html
+- Buy or sell: Gift Nifty up, Vaishali Parekh recommends three stocks to buy today
+   Vaishali Parekh recommends three stocks to buy today.
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-up-vaishali-parekh-recommends-three-stocks-to-buy-today-11779671538497.html
 
-- Expert view: ‘Buy on dips’ strategy should be avoided amid uncertainty, says Devarsh Vakil of HDFC Securities
-  Devarsh Vakil, Head of Prime Research at HDFC Securities said markets are expected to stay volatile in the near term. The worst phase of
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-buy-on-dips-strategy-should-be-avoided-says-devarsh-vakil-of-hdfc-securities-11779609717481.html
+- Stock market holiday: Hong Kong, South Korean markets to remain closed today. Japan’s Nikkei at record high
+  Japan's Nikkei 225 hit a record high with a 2.75% increase. Australia's S&amp;amp;P/ASX 200 saw minimal movement amid quiet trading.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-hong-kong-south-korean-markets-to-remain-closed-today-japan-s-nikkei-at-record-high-11779673993009.html
+
+- WWDC 2026: iOS 27 may revamp AirPods settings, improve Genmoji and add support for Google Cast
+  Tim Cook's final keynote will take place before he steps down as CEO. Apple's iOS 27 featuring revamped AirP
+  🔗 https://www.livemint.com/technology/tech-news/wwdc-2026-ios-27-may-revamp-airpods-settings-improve-genmoji-and-add-support-for-google-cast-11779669428715.html
 
 - Why Mythos could be launching sooner than you think? Leaked code exposes preparations for Claude Mythos 1
   Anthropic's Mythos AI model could be coming to public soon. A new source leak
@@ -96,97 +100,65 @@
   Research on nine workplace monitoring apps revealed that they share personal worker data, including names and email addresses,
   🔗 https://www.livemint.com/technology/tech-news/your-employers-tracking-software-is-quietly-feeding-your-private-data-to-google-microsoft-and-meta-study-finds-11779594387305.html
 
-- Could anything but profit steer AI? The OpenAI trial offered clues but no verdict
-  The OpenAI trial offered clues but no verdict
-  🔗 https://www.livemint.com/technology/could-anything-but-profit-steer-ai-the-openai-trial-offered-clues-but-no-verdict-11779595330980.html
+- Stocks to buy in 2026 for long term: ITC, NYKAA among 5 stocks that could give 10-20% return
+  We have collated a list of recommendations from top brokerage
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-itc-nykaa-among-5-stocks-that-could-give-10-20-return/slideshow/131299488.cms
 
-- Why India’s next real estate cycle could be driven by retail investors and REITs, Sandipan Roy explains
-  Sandipan Roy, Chief Investment Officer (CIO), at Motilal Oswal Private Wealth, explains why India’s next real estate cycle could be driven by retail participation and REIT-led institutionalisation
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/why-indias-next-real-estate-cycle-could-be-driven-by-retail-investors-and-reits-sandipan-roy-explains/articleshow/131292334.cms
+- NFP Sampoorna Foods shares to list today. Check GMP ahead of debut
+  NFP Sampoorna Foods is poised for its stock market debut on Monday, with grey market signals suggesting a flat listing. The company, specializing in cashew nut processing and distribution, raised Rs 24.53 crore through its IPO
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nfp-sampoorna-foods-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131299440.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Monday
-  Indian equity benchmarks closed modestly higher on Friday. The Nifty and Sensex edged up, though pharma and healthcare weakness capped the rise.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131291838.cms
+- Oil Price Today (May 25): Crude oil hits 2-week low as US-Iran peace deal moves closer. Is the worst behind?
+  Oil prices dipped to two-week lows as U.S.-Iran peace talks showed progress, potentially reopening the vital Strait of Hormuz. Despite optimism, significant hurdles remain, with disruptions continuing to impact global oil supplies
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-25-crude-oil-hits-2-week-low-as-us-iran-peace-deal-moves-closer-is-the-worst-behind/articleshow/131299418.cms
 
-- Knowledge Realty Trust to invest Rs 700 cr to build 1.4 mn sq ft office space in Bengaluru
-  KRT Chief Executive Officer (CEO) Shirish Godbole said the company is looking for the acquisition of prime office
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/knowledge-realty-trust-to-invest-rs-700-cr-to-build-1-4-mn-sq-ft-office-space-in-bengaluru/articleshow/131291207.cms
+- Positive Breakout: These 9 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/slideshow/131299401.cms
 
-- Signature Global aims to almost double revenue in FY27 to Rs 5,000 cr: Chairman
-  The ban on construction activities delayed the completion of some of its projects. Aggarwal said
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-aims-to-almost-double-revenue-in-fy27-to-rs-5000-cr-chairman/articleshow/131291174.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-suzlon-energy-wipro-share-price-25-may-2026/liveblog/131299330.cms
 
-- Warren Buffett sits on $400 bn cash as Michael Burry warns of AI bubble. Is a massive market crash coming?
-  South Korea's Kospi and Taiwan's stock market have seen significant gains, surpassing established Western exchanges. This shift highlights a new global market order driven by AI.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/warren-buffett-sits-on-400-bn-cash-as-michael-burry-warns-of-ai-bubble-is-a-massive-market-crash-coming/articleshow/131291160.cms
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
-
-- Marco Rubio India Visit Live Updates: Trump Dials Marco Rubio At Event, Says "India Can Count On Me 100%" - NDTV
-  Marco Rubio is in India on a three-day trip to India. He is
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
-
-- IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
-  IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
-
-- Marco Rubio in India LIVE: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu
-  Marco Rubio in India LIVE: Jaishankar addresses National Day
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
+- "Anything India Wants, They Get": Trump's Phone Call At Live Delhi Event - NDTV
+  "Anything India Wants, They Get": Trump
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE5tNjhnbE42MkxNVmpmZGNtQy14UUlmTHlwQlltMWhNV0NhaEFwcWMzZ3gwanJORTVod3hrTmFMaDF3REZZQi14RF94LS0tajJ6OUxMODlCUnBNNFhuMnYwTFBOOXEwTnltTmdodFh3cVF5dmlrRVhVMkJaQllLV3lNVWNFa3VYTk1TcHFMNHd6U1M4Y3J6VF9jME05dTVQMG12UHV1MnA1bkJ5dXlnX3drVVfSAbwBQVVfeXFMTVFGZWhhcGp4QUpWM0VEbG9KYTgzelZpQXJ0UjBleEdWckFqTndkeFd0NHVuM0lWLVROdEN0eC1lQWpnYjRqeVR0a0ZSN05jdjMzOGdSSkw1dTZSNmVrOWRpVGNaV1VlR0NCOUV6YkVVNF9nOVE4Sk9TYzQ5QmtBUWhiVDd2dFFjc3laZXZUcjFhdUtfRjBtcUdXLU12TmQxRVhPSkRBWVc3SmlJLVZfZzB3eXFBejFnbUpuRVE?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Top US Diplomat Marco Rubio Was Asked About Racism Against Indians. His Reply - NDTV
-  Top US Diplomat Marco Rubio Was Asked About Racism
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1J1Zi1KcmhHNjhlR0hwUC1ONEp2bG91aDY0cHozbWpWVXNZVEw4MlRBa2FtbGxQZXJsN2ZwcDE2eWRBc0JKRm5zbDUwN01PMTFxWkZZanpaWkRMcFZXeS1iTXNaOW9rbFhUN19TSzZyRWttWV9jR1RFQnRNRmpfSmczeFN1U0JYWFJLUmlnb3ppaVd3T2xlY1BVLVpCQ00xeWZyWmM4MXlVQzdUYTRn0gG3AUFVX3lxTE5ILVd5bkRqdFF5T1BIQUs2dExiMk9ZX1JpOFQyWjNHQ0VSQWtRSmpIblNheldEdm9qZzlkYXA4VmVyQzhqQlRxZzc4ejRRRm42bFdacnFBd0xUWnlZV1BvdXB6SzlYeTd5VTEtWng2c1A5U1JQSHVDNUI3elZ3R0NBUFBObU5JX3lfS3oxQlUyakowa1QwY0NxVXlBcmRIN05qekd0M25GbVhxd2pySlJHM1BTZHpxSQ?oc=5
-
-- Marco Rubio India Visit Live Updates: Trump Dials Marco Rubio At Event, Says "India Can Count On Me 100%" - NDTV
-  Marco Rubio is in India on a three-day trip to India. He is
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRlpvLVZxQnlOTlVLT2V1Vl82cGtRd2FHaEVMV1F1b2UwcWZraG0zc2xKLWxzNmRDQ2lUcDFfSlNwOUd4TGpWaEluS1pBdmhNeldsWlpqdjVFSV9ocDZkU1JzeXd0MldSMUtob29MX0MyaUxEQmxod21pT3NDdi1RYUNVcnlTQTBleEFlUmQwYW8zMmlSZ1lad19QbVM5ZmZiRHNLT1lBN2pyd1BRWGYwQ3FuVTRuWnFZc2FCMlZDeE5LbF96d1JlYnE0SVlfMUs0Qmx2UDhuUlB0aGEyTUJ5NXJNUk5tYkRSUjd3bmdUSjBpamVqek5F0gH_AUFVX3lxTE8xME9tZXZtQkNIUjZ3cEZUaUh2dVE3UHl3V2I1ZDNSRU1sZ095Y3YwSUlpa25yWFM0aXgxV0EtQlRqdl9KWi0wQVdEallEeS1QVjliaC1yZVZQRXpvaDNHcjVpaUxseXNiNEJkUlJlUDBLVWpZZGpPREdWRW1kVmU1OXktaHRjZ0hGZjE0RnpPQlRRME1TVHg3ZktudmFBSE5lejEwQWRXS0hkMTg1SEg2QnhPbGlNc0g0WmNZVm5Pa3M2azlNVmpLN0hqRW9hR0NIQ3kwSjEtbHFoUHAtWVBZWUNhdzBMejRhZm5NTGtrcW51ZTN4QkdoYmJyb1N2SQ?oc=5
-
 - IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some parts of India today - Newsonair
   IMD issues red colour warning for Heat Wave to Severe Heat Wave conditions in some
   🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFh0UHQ2UnVsakZETjZNeXRfRkgzVEdKdHRPUldPVGhGV2NuUXZJZVJxOEpnUGhyS2E4R1ZxZEJGZnhVdWNlblA4aVpxRGV5N2xHclNSQ2ZMc0N1b3haLThUQkE5bllTTHpqLWpOUnZnd2R1RW4xNVByUnhQd2hreDVmUk9WMUYydmdDZXNyYlcwRDk0VS1QMnJUaw?oc=5
 
-- Marco Rubio in India LIVE: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu
-  Marco Rubio in India LIVE: Jaishankar addresses National Day
+- Petrol, diesel prices increased by Rs 7.5 in two weeks - check fuel rates in your city - The Times of India
+  Petrol, diesel prices increased by Rs 7.5 in two weeks - check fuel rates
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxONFZWbjV3Nk1ncTJSNk5KdGpPalFOLVAxb0lqdHMyWFNjd2ZvbW51b0FUUm1VWWoyNzJJanJCQm56YzNtOUJuNEVvVHk0emh4ejROMlRGclB6ZjljWmpHZHZNUDVOb3k3X3ZhZjR5V2d5eGhjR3VqSDR2bndUN1ZzTFhKN2ZPWXNteF90SHFyYnNRVlJ1SDNyQWFvMzEyNW44V3kwQ3g3cGZNX2w2Nm5YTlJlUF85RHFMT1A3V0FKSzRBdEFSX2NDVlBabm5YWlVwOF9uVnRNRGJKZlJObkVMU05uMTJ3QlhqSzdlU0p5WnJEUFQxMWpNOUdHLWtCd9IBgwJBVV95cUxPazdCWEtjY3dZbHZTbjV5cW5GWHFtbmhHQVFjSHZ3V3phekl5d2tET3NJdkY0eEMzZ0ozY2hMODE2eGM5LTA4Wnpoc01qcF9teEM1cUlITXVhZ1Q0cVlDTVJmcXhkOEhzTjlCWk5uNndWNWNBTTRwUFJOOXhubFJqYlNyclVGMGdCM1YwRmFHYTc4VzZDSWpQUmFVMlU3NkNWbTFfQkdZb0tjcW8yV2RXUGQzTjVKNWVjanBqbXN1TkJobVlQVlA1UE1tUDdmRUN3U0RfQ210ZjNKMTJhTnN6aHZwcEl1OTJmTjBkQXMwX0x2cHQ1NkM0a1Mxc1ZZZUI5dXFV?oc=5
+
+- Marco Rubio in India Highlights: Jaishankar addresses National Day reception at the U.S. Embassy - The Hindu
+  Marco Rubio in India for National Day reception at the U.S
   🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSElQSDFJREotb0dHX1g1Mmhuc1ozQkZBOHlodDcxSVpqU2piSTZSMEtUM1VkNWIzSVN2RHpwa0NNRVNVZFZLaklKUVpWZExiZm1MaHFtQ0ptNTVmN0loN3N6ZkhPWGZRc0JwRTQ2NGlhR0c3Nm9lWTJwVkNGNHhlWV9vZWhJYXFiOUtWN0JIMVQ0OU1sVGN4M2JDRVg0Y1pWNXhGSE9hYXRFUW5lV0hvQktNelBHRk5YSFRObjRnLVdrZzNvTXc1OTdNY2J5YnRfZ01IdlJ0c1VXam9JUW9DYUxNdERTODFzbnlVZ0ZfZ9IB9gFBVV95cUxQY1dRMm8zSnNKS1lkallIcTFoN0tET0owV0t0OVRpY3BKQXlBUTFwa0d3RFNXSW93b1paazhFaVRiN1N3a2czdWdYMm4tM3ppa3dSSHRmbVE2WWdOUEE0RmprR2pSYjJFRjQtZHl1enlhZUo4QUZOX3U4QlRoOXBtbmJlR1FKUE4zTDcwS2ozZ1d0RzVfV3NsQ19GTnUxYWtNWnpjMTc1LUJDcWlBRGFCb3NZYzBrWHFuVVUzQWhEWHRpNTZtdEpkanp4WmxHRFFLN1VUdnQwSnEtLXFXQTZPQlBaZ2N0bmVTSjJPcGZIX3NiekdIblE?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Pope: Church must restore ‘trust in technology,’ guide people to Christ - Vatican News
+  Pope: Church must restore ‘trust in technology
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxNenBPaUJiNTZHbU1QUXQ3Qk1VZlJMQ1RxcEY2ejBXN0lza3BCZFk2bTNrWFNnZE9ub0hIMTlKZTBsQ0xmX0ZIc3dUVTRXWGgwdDRETV9DV3doeUxyZUlCbVNXdE5nZmNMOVJXTkhJa0pUWm1zcmFXLTB0OF83SnMtdFVjZXhrT2NBYnF1dWhPVnZ3YWJiSkh5bUZkMURwTW12TGJ3Q2RsWEFSa0ZTc3lZWm1vUEVJc2dU?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Elon Musk is going all-in on an unproven technology - The Economist
+  Elon Musk is going all-in
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2MySDFBakVraENOeTd0ZzRCYmZON1JBS3Npc1p4a0JLb3B0OGtqSDRnZkxVOHF5aFlQNEFOdm1hSFN0RnJOdGJtX1dQLW1GU1ZnYUJjWHBVUVJlTUlnZXd6N0c5MkpiUGZwV05oMlRFYzQyMFFFSE9aWENQTTR1YmxHci1ETVkxb1dYbzRWTWlqbklNcWJoZzZBRVZ5dw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- LTM Has Issued an Offer to Acquire Randstad’s Technology and Consulting Services Business in Europe and Australia to Scale Domain-Driven Solutions and AI Services - Business Wire
+  LTM Has Issued an Offer to Acquire Randstad’s Technology and Consulting Services Business in Europe and
+  🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxNc0xLZk1qYS1vQjBZXzlZLVVNUmVOaEg3a0tjSkRFZWNaY25ZMzlkcjkxWV81c3FhcHJtVVo4YmNuaGwzRUdzM2dvZjBaamlIYnlOajktazJWeWJCWnZBTDVudmx5X2wwREVRdnVsTjRrRHM1SzBuOWVIQmItSk5uOTI1dEllb0hwYzdhR2U0RFZjY2RtdW9YWUNTYU5CM3h6X1pDYTUtTHhHWnpHMi1VZUc5dlpDc1ZKM1VNdHgxS1Q5dExodDVVa240NUZzLUhwbHlpWnRRY1Ewa0w3NTFOMlllOVFjTC1wRDlxRE9xS2ZSQzhzX3RVdEMxZHo2OGZ4WkRLLXZ0UHN6aFVCd2xDY0xwMWoySUVSdVJxM2pnblZGRnRLdWNBOFJqX0NTVjBQM0dhSG1KN3N6a0dybzdn?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- ‘AI washing’: firms are scrambling to rebrand themselves as tech-focused - The Guardian
+  ‘AI washing’: firms are
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtoZ2dmNnRiVU1CWElsR21TY3JaZThucU1aRWpmeDZQRm1uUGxqcXR0ZVFibTRENEtwUGNRcnZkWXk1Yk43Q21BUXZvX0tjSG15QzB0S3JLa051OGI1LTVNR3dmZk5XNl96OTNXU2FFb0tpQVFtWGZoeEV4VXpGTUpnTE50X1lOM1NZTVJnUEs1Ync?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- One Job That Is Growing in the A.I. Era? Cybersecurity Experts. - The New York Times
+  The New York Times reports that cybersecurity experts are becoming more
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0NpOEozbTRIZHBLZXhtUGl0UVNuRVJHUDFjcUNrbWNHOXl5d0szU0JCVTBIYXZUd1NBdnQ2SG9JUloxWk1WM3luZ1VjQ0JTY0pEa1dDaVZHNjZwNVo4RWtRRUllZmY3RFZGYzdwN19zQ1JqNHBiLWlHLW1Nd1BCZlZ0SXpNSUU4am1LQlozMkprMHZCNlNrTWE4UHBVRkF2YlU4dDlMbjFaVG9BSWVZ?oc=5
 
 
-_Last updated: 2026-05-24 19:13:06 UTC_
+_Last updated: 2026-05-25 02:56:37 UTC_
