@@ -1,10 +1,14 @@
 # 📰 Daily News Summaries
 
+- Budgam horror: Local man arrested in 12-year-old’s rape, murder case
+  
+  🔗 https://indianexpress.com/article/india/budgam-local-man-arrested-12-year-olds-rape-murder-10707516/
+
 - Dharmendra Pradhan asks states to ensure smooth conduct of NEET re-exam
   
   🔗 https://indianexpress.com/article/india/dharmendra-pradhan-writes-states-smooth-conduct-neet-reexam-june-21-10707410/
 
-- Hundreds left stranded after cable car glitch in Gulmarg, army leads rescue ops
+- 320 rescued in 6-hour operation after Gulmarg cable car glitch
   
   🔗 https://indianexpress.com/article/india/gulmarg-gondola-cable-car-glitch-tourists-stranded-rescue-10707215/
 
@@ -15,10 +19,6 @@
 - Rotting cow carcasses dumped at Rajasthan’s Jaisalmer landfill spark outrage, contractor blacklisted
   
   🔗 https://indianexpress.com/article/india/rajasthan-jaisalmer-cow-carcasses-landfill-municipal-council-contractor-blacklisted-10707028/
-
-- Particulate matter pollution rose over 20% across Indo-Gangetic Plain in a decade, Himalayas affected
-  
-  🔗 https://indianexpress.com/article/india/particulate-matter-pollution-rose-over-20-across-indo-gangetic-plain-in-a-decade-himalayas-affected-10707001/
 
 - Mars as crescent: NASA’s Psyche captures rare picture of red planet
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-firms-deceptive-opt-out-tactics-epic-study-10706713/
 
+- Indian entrepreneur explains how Warren Buffett shaped his financial habits: ‘I don't have single rupee of black money’
+  The entrepreneur credited Buffett as one of the biggest influences in his life. He stressed the importance
+  🔗 https://www.livemint.com/companies/people/indian-entrepreneur-explains-how-warren-buffett-shaped-his-financial-habits-i-dont-have-single-rupee-of-black-money-11779720376070.html
+
 - India may end refined copper import dependence this year, says Hindalco MD
   The push for self-reliance in copper aligns with India’
   🔗 https://www.livemint.com/companies/news/refined-copper-import-india-hindalco-md-adani-kutch-copper-vedant-11779711396242.html
@@ -56,29 +60,25 @@
   The company is scouting for opportunities in sectors including consumer
   🔗 https://www.livemint.com/companies/news/schroders-capital-india-investments-investor-exits-secondaries-continuation-vehicles-consumer-healthcare-technology-ai-11779691467624.html
 
-- Roseate Hotels targets asset-light luxury model with managed expansion push
-  Roseate Hotels is shifting to an asset-light strategy and expanding into pilgrimage and lifestyle
-  🔗 https://www.livemint.com/companies/news/roseate-hotels-annual-expansion-managed-luxury-pilgrimage-markets-lifestyle-pivot-11779680663836.html
+- Brent crude tumbles below $96, extends slide to 4-week low as US-Iran peace hopes grow
+  Crude oil prices fell significantly on 25 May, with Brent at $95.95 and WTI at $89.44 per barrel. Diplomatic efforts continue, but
+  🔗 https://www.livemint.com/market/stock-market-news/brent-crude-tumbles-below-96-extends-slide-to-4-week-low-as-us-iran-peace-hopes-grow-11779729610797.html
 
-- RVNL Q4 Results: Net profit drops 59% YoY to  ₹187 crore; revenue rises 4%, final dividend announced
-  Rail Vikas Nigam Limited reported mixed Q4 FY26 results with revenue growth of 4.2% YoY. For FY26, revenue increased slightly, yet net profit
-  🔗 https://www.livemint.com/market/stock-market-news/rvnl-q4-results-net-profit-drops-59-yoy-to-rs-187-crore-revenue-rises-4-final-dividend-announced-11779713348432.html
+- Multibagger small-cap stock skyrockets 140% in less than two months. Are you holding it?
+  HFCL shares have surged nearly 140% in two months, buoyed by strong earnings and order wins. The company secured new export orders and reported a net profit of  �
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-skyrockets-140-in-less-than-two-months-are-you-holding-it-11779723199931.html
 
-- Vegorama Punjabi Angithi IPO allotment expected today: Here's how to check status
-  Vegorama Punjabi Angithi IPO allotment is expected today, May 25, after receiving nearly 35 times overall subscription. Retail investors will be allotted shares on a proportional basis, with refunds starting May 26.
-  🔗 https://www.livemint.com/market/stock-market-news/vegorama-punjabi-angithi-ipo-allotment-expected-today-heres-how-to-check-status-11779710427744.html
+- Whiff of West Asia peace sends market soaring
+  The Nifty and Sensex rose 1.32% and 1.42% respectively on Monday. The Nifty crossed the 20-day simple moving average and closed above it.
+  🔗 https://www.livemint.com/market/nifty-sensex-west-asia-iran-war-us-peace-stock-market-11779717449562.html
 
-- Sebi proposes intraday option strike additions to help traders navigate volatility
-  The market regulator aims to standardize strike management across exchanges. This will ensure that traders aren't left
-  🔗 https://www.livemint.com/market/sebi-options-strike-price-framework-volatility-trading-rules-11779707148930.html
+- FPIs criticise govt and RBI as rupee slide and shrinking returns trigger exits
+  Several foreign portfolio investors said the rupee’s persistent depreciation was making them reluctant to increase exposure to Indian assets. But the issue runs deeper than just currency weakness,
+  🔗 https://www.livemint.com/market/fpis-criticise-govt-rbi-rupee-slides-shrinking-returns-trigger-exits-11779713487903.html
 
-- Ajmera Realty share price zooms 10% after Q4 results 2026
-  Ajmera Realty &amp;amp; Infra India reported a 9.6% gain on May 25 after strong FY26 financial results. Revenue surging 46% to
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-real-estate-ajmera-realty-share-price-zooms-10-after-q4-results-2026-11779705546604.html
-
-- Harikanta Overseas IPO Day 4: Issue booked over 50% so far. Check GMP and other details about this SME offer
-  Harikanta Overseas IPO worth  ₹24.30 crore is entirely a fresh issue of 0.27 crore shares. Since the SME IPO has no offer-
-  🔗 https://www.livemint.com/market/ipo/harikanta-overseas-ipo-day-4-issue-booked-over-50-so-far-check-gmp-and-other-details-about-this-sme-offer-11779707616025.html
+- Gold, silver rates today: MCX gold rises  ₹820 per 10g, silver surges  ₹5,300 per kg on US-Iran peace optimism
+  Gold and silver prices rose on May 25, driven by hopes for a peace deal in the Iran conflict, a weaker US dollar, and lower crude oil prices. MCX gold surged by 
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-rises-rs-820-per-10g-silver-surges-rs-5-300-per-kg-on-us-iran-peace-optimism-11779717002133.html
 
 - These premium tablet deals during Amazon Tablet Days deserve your attention
   Amazon Tablet Days highlights premium tablet deals designed for entertainment, productivity and creative work.
@@ -104,141 +104,149 @@
   Oil, Dollar Slide on Optimism Over
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnFCYnlEbXZpNEs3dTF4OWd0c3JkZnNzRVFiX3M1LWNGaFZtN3FmOHlEWFd5UjI0cFRxa1J2X0JVc0d1YVdUSVBKamhIdFA4T1JDbUZRQ04yVmxfQndhaXlNOHN1U1UtWENMX3hBc1ZZN2UtOUVKMlp0b0NQSkNDcEdNdDI5el9RUFFiRVBQNUJEcGQyTXlPN1BpMnNKNnVkbFVmTDdLOW54NmZ2WnhB?oc=5
 
+- Iran deal hopes; Brent falls below $100 - what’s moving markets - Investing.com
+  Iran deal hopes; Brent falls below $100
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFk2YzJ0cEQ1a3dVcjRPYWp6NVlUM3BPREVMUENjd0t3WjNRby1kUHN5aHBwTWFVZGpIbFYzRFlrd1ZhWlFCWGYwcFNIelhlMnVlck81cTQ3cHhYaFFud3pKT2p2a2JPaC1mY1VQaWd3RXh0TEJiaC1PN2xVVkFXZUxHVWFzaFhBY2xvX0h5RGcydnI4dXZROXhhZHRFdFNtM3BCa2g2cEI2dkxrU0JHUw?oc=5
+
+- Stocks jump while oil and dollar ease on Iran peace hopes - Reuters
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE80REpkZUY0REpKR1N0dkFWY29kaGdsYVlCdnhDdTNGNTYyWTVZSF9NOGl0bE5iM0ZoY1BjNnY3S0NGLXFFTVg0RkkycW90SG1oX3JNTXVuZlVHN182UUlkX29mNndnRktCTEozdk5IaF9UVDVnb19wc1RNUQ?oc=5
+
 - What to Expect in Markets this Week: A Slew of Retailers Report Earnings—Along with Dell and Other AI Players - Investopedia
   "What to Expect in Markets this Week: A Slew of Retailers Report Earn
   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1RlU3JFN3BkNkNRTTNTMTBxSG9EVUNuZWlCVGRld1A3cnpVWTN1RE4yX3B0cFQ3cFRBNzF3OXV3YUtSMG5UbGtIcXY0MGR1S2djNnFmUWhHQ1RVNTlIZ19WaG93Tnp5WnhHVlZtOHBQanNkT184Mjc0Tm54cEJpMFZ5MGNNTFVJUG91V0x3SVV0LThXMVlYVzJvN0ZSY19WX2QxQjQydDN0TDRtUXRSSU9MOXRTcThLOXlITm04YlFPcS0yQUIzeEdVXzI5YnctNHdJTVlUWWhzaHpmaE1r?oc=5
-
-- Top Africa Bourse to Tighten Algo-Trading, Market-Access Rules - Bloomberg.com
-  Top Africa Bourse to Tight
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjBpZDFPSklsZDAwUGpfRmRlUWd5dThYZ1VPRF9uV2lSaWhzYS1kRlhsQUU2ak1DREJXLTd4ZFlfRVZNYUlnUVdRX25pVDZVXzJxOW5vQXo0MTJYU1RPMkhfaENaUXhCMlhFQ2t6U0VZMzdEaGZNRW4tZ1U5N0xBYmx2WEg0VlBZRXMtT1JQcVRGU1V3VlpQVTMycl9ZTndXd0FURUpFanlabDB0VHdKQjJR?oc=5
 
 - Stock Market Live Updates Today: BSE Sensex ends over 1,000 points up, near 76,500; Nifty50 closes above 24,000 mark; oil prices plunge 5% to two-week lows - The Times of India
   <ol><li><a href="https://news.google.com/rss/articles/CBMirwJBVV95cUxNZjYzSlpMbUJXUzB5RFZJVW4tZ0tENUV4OVlMeUl1eWlkcS1mY3lTa0EtM0lpMHdBNUlxcTdpcVRuX1dFUl9VWjFqSThJd1EtVDRkTzZxRVF1SkZJXzNRYjdKZ3hYeDNvcj
   🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxNZjYzSlpMbUJXUzB5RFZJVW4tZ0tENUV4OVlMeUl1eWlkcS1mY3lTa0EtM0lpMHdBNUlxcTdpcVRuX1dFUl9VWjFqSThJd1EtVDRkTzZxRVF1SkZJXzNRYjdKZ3hYeDNvcjA5Q0wyU3c0b25udnhVTVY2RjNBUlVCYTJvVkpBTERWdHdXS3phSi02c3hwWTVWM3RLRDFGcTBNYjZvQzBoUlRpaGowcVp0MWhTUnROejZVUG1qckxnVVdwVnh1ZVliS3UwTXhPYlZYcFdaTFFXeW85cGZnMjRwUVZIR1FGWkpZMEdJLUFNakU3M1FuQmNhZzFkZHRQT0Q1NVNRbXRVMW9TT0FRMzF0LVIwVW1QUDNyOHZkZ3NyeTYtZEZwTEk3MDNiNElyRlnSAbQCQVVfeXFMTWNkV0t5aXhKRHRtZEI2VkcxcDNEcEM4QTBCLTRtbG9OVDZLSEpnNS1FM194ajNMTU5tMGh1VnN1VmtqZEVFZ2h4V2M2SmZ4QnhGYV9UZlNFY3RHSDhEWEszY0xLRnFxVE52b2JVemp6YTU0aU5QRTlOVmhLMEdFUjFaZnBfN1p5eXBiZjNycUhVZ2hWRk9MM2JWVkdQNWY4X3lubjVsWGd6YmJMLXVYUUpXc1VWc3dMNnY1UG5LalJfaWpqOC1Zc1J3RWYzUEFlbmEyYWhMZjJqdkVhWlhRU1hZemlQV0cxaDhuMlVNY29Td2ZvYThCczRiQjVRS2RMVWQ0dEJIN09tUlJ6aWpVaERycVMwbllDd2pZN3lQMmNuQjY0V3hIakRKbGpmZk5UWF9Pb0g?oc=5
 
-- Telangana CM exhorts SHG women to establish super markets, logistic parks and godowns - The Hindu
-  Telangana CM exhorts SHG women to establish super
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEc5cGh1WWhCY1IwV0xsaVRUaVhjZ2FzQU9acmRYQV9GMFJHdDBGT1ZaTTY5ZFVHNFhDdXY0a0NtUXFoamVXeURJSXc3TTMycHRqSWF2Nm96X1hlSW1LRUVfZHNSS1pCWV8xTlhTNnVWbnVOZVVXampncFcxYnBudjAxZjczSl9JV213N2ZZYzJUakp3MDFuWkxvWGw3NkJ5NHVRUnZUbml1d1RyYURUdkVQSHZyWVdBTV9Ca0phU1dMVnZzbW8zMTZQOFd3am1FTk5ZaG1uSG9hOUI1azJBbFQzTUxqNzVr0gHvAUFVX3lxTE1Qdzk5b2VBWmVycGd2MTVaVGhyd01sSTFIc3JkZzExcVcxSURRZlFqVXBYVkZCNFBDVVZ3Ylo2d1hMejJYMVBPV1Y5N0pvdzl5MlRPVHBNb19SRVVlV3ZLb0NKZVBrazhSQ2lULVk1RmVjaGJITER2RFJQMzBSQlZOeEJBbjltbWdjSk5Wbm0tOVN0Wm5VRzMyaHowd2owR3B3Uzl0NmtFZUlLY1kyMHQyNkM4RTFGOW1ydTJ2dU5Eckd5YU15U1ZjdFNob1dVWWRvMV9hTENzU1BMMVZnX1I2eFlBNGtmdlRudWhxbHVN?oc=5
+- Premier Energies bulk deal: Promoters sell stake worth Rs 2,289 crore; Quant, Nomura among top buyers
+  Premier Energies' promoters divested shares worth nearly Rs 2,289 crore to institutional investors. This move coincides with heightened interest in India's solar manufacturing sector.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/premier-energies-bulk-deal-promoters-sell-stake-worth-rs-2289-crore-quant-nomura-among-top-buyers/articleshow/131313640.cms
 
-- Aditya Birla Fashion Q4 net loss widens to Rs 163.8 cr
-  The company had posted a net profit of Rs 23.55 crore a year ago. Aditya Birl
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-fashion-q4-net-loss-widens-to-rs-163-8-cr/articleshow/131311809.cms
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Indian equity benchmarks extended gains for a third consecutive session. Strong buying in banking, financial, energy and auto stocks lifted market sentiment. Analysts signalled bullish technical momentum for Nifty.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131313543.cms
 
-- Adani Enterprises among 6 stocks hit 52-week highs, rally up to 25% in a month
+- Market Trading Guide: Buy Ram Ratna Wires and  Tata Motors PV on Monday for gains up to 12%
+  Nifty extended gains for a third straight session, supported by buying in financials, energy and auto stocks. Analysts highlighted improving technical momentum and recommended Ram Ratna Wires.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-ram-ratna-wires-and-tata-motors-pv-on-monday-for-gains-up-to-12/articleshow/131312634.cms
+
+- RVNL Q4 Results: PAT plunges 43% YoY to Rs 212 crore; revenue up 5%
+  Rail Vikas Nigam Limited reported a decline in quarterly and annual profits despite higher revenue growth in Q4FY26. Rising expenses, weaker cash flow and lower consolidated earnings weighed on overall financial performance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/rvnl-q4-results-pat-plunges-43-yoy-to-rs-212-crore-revenue-up-5/articleshow/131312236.cms
+
+- AU Real Estate to invest Rs 1,200 cr to build 5.6-acre housing project in Ghaziabad
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-among-6-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/131311617.cms
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/au-real-estate-to-invest-rs-1200-cr-to-build-5-6-acre-housing-project-in-ghaziabad/articleshow/131312159.cms
 
-- 'Inflation and unholy mess:' Why Nithin Kamath thinks RBI may not stay soft on interest rates
-  Nithin Kamath warns that a weak monsoon caused by El Niño and rising global oil prices linked to the Iran conflict could sharply increase inflation in India. He said higher food and fuel costs may force the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/inflation-and-unholy-mess-why-nithin-kamath-thinks-rbi-may-not-stay-soft-on-interest-rates/articleshow/131310601.cms
-
-- Gainers &amp; Losers: LIC, Max Healthcare among 7 big movers on Monday
-  LIC, Vodafone Idea, Eicher Motors and Titagarh Rail Systems surged. J
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lic-max-healthcare-among-7-big-movers-on-monday/slideshow/131310348.cms
-
-- Pine Labs Q4 Results: Co turns to black, logs Rs 59 crore profit on 17% revenue jump
-  Pine Labs turned profitable in the March-ended quarter, posting a consolidated net profit of Rs 59 crore versus a net loss of Rs 29 crore in the year
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/pine-labs-q4-results-co-turns-black-logs-rs-59-crore-profit-on-17-revenue-jump/articleshow/131309690.cms
-
-- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
-  China's New Export Rules: Will Curbs Short Circuit
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
+- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
+  'Trump Called India A Hellhole,' Reporter
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
-  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
-
-- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
-  India Holds Crude Oil Res
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
-
 - Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
   Cattle market empties as fear grips Eid preparations in
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
-  China's New Export Rules: Will Curbs Short Circuit
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  Brazil President Lula diagnosed with early stage skin cancer, his office says.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA0?oc=5
+
+- Ladakh to Host India’s First Geothermal Power Plant - Vision IAS
+  Ladakh to Host India�
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpfNWN4UjV3WlFzVW1QZXE0U1JKM0cydWdLTjRkZGVqQmtUYTlYUi0xTTFxeF9YYzk2T1poVldkNV9IV01mOHFDa2dBZUhGYzZTN0JYUGdwT0dUTktGM2FfTUZLb1hLXzVnbkt2Q3hOREJiYndyd2tQWFc2d0VTNTZHZ3B6RTFLeUJ0N2ZSNzh3SGJJaHc5S2hRX0g1Z0pxaFV4LS1SOGZkbjZGV1FPNkh2Tk5CVU45NGNPRGttLUdIQ0ZneU9GTXdnc0o?oc=5
+
+- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
+  'Trump Called India A Hellhole,' Reporter
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
-  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
-
-- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
-  India Holds Crude Oil Res
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
-
 - Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
   Cattle market empties as fear grips Eid preparations in
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
-  China's New Export Rules: Will Curbs Short Circuit
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  Brazil President Lula diagnosed with early stage skin cancer, his office says.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA0?oc=5
+
+- Ladakh to Host India’s First Geothermal Power Plant - Vision IAS
+  Ladakh to Host India�
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpfNWN4UjV3WlFzVW1QZXE0U1JKM0cydWdLTjRkZGVqQmtUYTlYUi0xTTFxeF9YYzk2T1poVldkNV9IV01mOHFDa2dBZUhGYzZTN0JYUGdwT0dUTktGM2FfTUZLb1hLXzVnbkt2Q3hOREJiYndyd2tQWFc2d0VTNTZHZ3B6RTFLeUJ0N2ZSNzh3SGJJaHc5S2hRX0g1Z0pxaFV4LS1SOGZkbjZGV1FPNkh2Tk5CVU45NGNPRGttLUdIQ0ZneU9GTXdnc0o?oc=5
+
+- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
+  'Trump Called India A Hellhole,' Reporter
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
-  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
-
-- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
-  India Holds Crude Oil Res
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
-
 - Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
   Cattle market empties as fear grips Eid preparations in
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- China's New Export Rules: Will Curbs Short Circuit India's $120 Billion Electronics Dream? - NDTV
-  China's New Export Rules: Will Curbs Short Circuit
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQbFZmajc5clVtbFFYdUNwdmgxVGJ4ZzliZUNjeVRaTWdtcTdPSVRENUtpbVZ5VWVkem9La09Baml3UHJBOW95VU95U1NQZ253cWRjQzZQX1YwM3ZhMUhIOEFiS3o1b3h4d0plV3FXQUJwOWZRenA1Qjl3MmN3MEctdXJmVS1QUXMtWmQ2N1ZnSTNYVXVGVlNCUDY2MFEwMHBkb29EUG12SWwxVkwyYU5WcmJfdTlQSVg4T0J5RUtSWnF3UW9ReWZ30gHPAUFVX3lxTE5FR0RSNVdMSkNDYXlfaFp6NG5xUkpMZmlzREVyREg0RlZJWEdXb0JLb3EtVExXd2stVUJxbEZWNUJFUi1FY1pIYk1jVzBkSnI4MjBha3d4SlBBQTJUQ3hRNDh2aV9tdXdzSlh4anpvQ1JiWWZhajYzSkpEQ2wyMXYyd3Bmb0FEaC1UWXVtMm5uV1JSa3U0SUVJaWZGdXVzZXFxZFhldzdqeVd0LXhmR2xVVTNyaEJjQ0NvNGlicFAwSEJQckJaVGNUc2ZtaUFHaw?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  Brazil President Lula diagnosed with early stage skin cancer, his office says.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA0?oc=5
+
+- Ladakh to Host India’s First Geothermal Power Plant - Vision IAS
+  Ladakh to Host India�
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpfNWN4UjV3WlFzVW1QZXE0U1JKM0cydWdLTjRkZGVqQmtUYTlYUi0xTTFxeF9YYzk2T1poVldkNV9IV01mOHFDa2dBZUhGYzZTN0JYUGdwT0dUTktGM2FfTUZLb1hLXzVnbkt2Q3hOREJiYndyd2tQWFc2d0VTNTZHZ3B6RTFLeUJ0N2ZSNzh3SGJJaHc5S2hRX0g1Z0pxaFV4LS1SOGZkbjZGV1FPNkh2Tk5CVU45NGNPRGttLUdIQ0ZneU9GTXdnc0o?oc=5
+
+- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
+  'Trump Called India A Hellhole,' Reporter
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
 
 - Rubio meets Modi during India visit with energy high on agenda - BBC
   Rubio meets Modi during India visit with energy
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
 
-- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
-  The Times of India reports that Lula has been diagnosed with early stage skin cancer.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA00gG0AUFVX3lxTE13X04wOFpVZlpNbjZTNG5BNVZyR2JjV3lpT0ozeTh6MmlaYWJuSUh1OUhvN09qcXlsLUhVemRoWEZxQThUYUhPU0NyYUZiSlZsV3FLcE8xaGNoVFZCaURPYlAwQjNtd2pyTDNKaFU4WWoxUmt6TG1jeENYMmU5R0tnWC1UeFh1TXdKVHU3Vjc0bnpKV05IRElnM3BRVFNfLXVlYTNHNmpIM3ZsMXoxcDRSREZIag?oc=5
-
-- India Holds Crude Oil Reserves For 78 Days: Sources - NDTV
-  India Holds Crude Oil Res
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzJEd3RRV0tKdFJibkNULTRhLUFieWJqcVJMTzd1d1VxZ3ktTFRCZXBYSUthS19FWFpKX0hDcXhXX1lqZjNjanlrVmNSUVhFN01Cb2hfN0o1MWlBS1Q5VUhDZ2p0Mjc2MXRuVmNmeHp2Q1ByXzVDOVpXTUtRMUdmaW92OFpRWTVCdjJuM0dDRVkxRXpMX0HSAZ4BQVVfeXFMT01JeW9lbk5ka3ZrY3ZXTWttQ2ZoLUVLVE1TeWg0c2lDeGFTQW1vbjFKd2lVYnBlLTB6VnRfbFZaeEloRHRlSFNQbE5fTkYzeUtPV3NSdTNRZG9Fdl9VVUxOejdEa2Z1Y3pZR19MQXVFNjdkcHNvdUdwcFRWTmpkYVk5TXVwSEYwWHI4OWJ3dmlSeUJzWGdKWU5rQjBkVkE?oc=5
-
 - Cattle market empties as fear grips Eid preparations in India’s West Bengal - Al Jazeera
   Cattle market empties as fear grips Eid preparations in
   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmJNc3dmV2VlY2Y5ZlBJZDNXY1h3QzJWTWl0TTZHdFBMSHU1dHdDck1XMjlTYWNQOXVjUlAtSFBKb1BCaDhUdlhxRlFDaC1CRDRjTy0zT3c1TjFGeWJ3ODF2aWFvZGRTSzhDQ0wtSHJ3Rk5NMk1jMFBIeGU1LUxqVkJZa0k5WjNvR3h4WFpUcFlzZ19jNEFiSzNxcXVfZjlMMDctM3I0cVEtOThqS3ZneWM2VmRBUdIBuwFBVV95cUxOMlBBZkxiM05qMDdCcFRwNkZ3SGwtN1RqNW9Ic1poU1JFeDU4UXloMWdQbE5ZLUxmSVRjRTFPaWdyVWtLclB0dG9TQzVnZ0lWQ0hVWFRMUjJ3eVdWQ2ZRMktHb3dsTlNBUFlCcjd6MVFUOHZBWWlpQ3U5Q18ySVV6VDVOUUg4Wno4dDJPWHFQMFNHOUZpNUNWUUpVaW5ZQnZnYllsV3FpQUp4eUJqeGdleU5pM2dlbXNRUmFZ?oc=5
 
-- Elon Musk is going all-in on an unproven technology - The Economist
-  Elon Musk is going all-in
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2MySDFBakVraENOeTd0ZzRCYmZON1JBS3Npc1p4a0JLb3B0OGtqSDRnZkxVOHF5aFlQNEFOdm1hSFN0RnJOdGJtX1dQLW1GU1ZnYUJjWHBVUVJlTUlnZXd6N0c5MkpiUGZwV05oMlRFYzQyMFFFSE9aWENQTTR1YmxHci1ETVkxb1dYbzRWTWlqbklNcWJoZzZBRVZ5dw?oc=5
+- Breaking News Live Updates, May 25: Brazil President Lula diagnosed with early stage skin cancer, his office says - The Times of India
+  Brazil President Lula diagnosed with early stage skin cancer, his office says.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzBHRGU3YTlsRVBGWDhnWmhDOFR1d21qenlZSU9GSkhMTnREanJGZ1c2MFE5M3hUR3dyYjVLSjBCYzlKUFhsWk5TZGZVNS1GcU42Vl9uMWlROGducnBhamg5RnozX0VIN2tVTlF6d2o5czNFYlZzMVZESWs1R1JiSldyYzhkS2hkNkN1dFhfTC1vdE9ES0xQUlhuQlhyVFpMNUpiR3VoeGJ5b2U5TVA0?oc=5
 
-- Mysore Quantum AI launched; seeks to create local ecosystem for AI technologies - The Hindu
-  Mysore Quantum AI launched; seeks to create local
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaWdEZ1hqUWZRRHRUV0dwbnVIVnhLWjh2SURGdGxaRVhSOHpCTmhUYmZKWHgxNjFaN1lBYVJrSGx5X0xPaW53emtlUkJEaUdGVi1tbnJ6aUNTZEtwNV9LWGlmNnRtcmdlMi1YVG5UaXVVWGJBbTBvSlJLeXBOaWFlQjh5Yk43NERHZDRNczBVdU5PN2p5ODZLZGJxdE91bGxSWGh1eHlWRE5hZGJQYnJBM0pYbkV5U3ZTSXdOTmVhcUVhOFEyUWxHbE9JWjVXSGNKTkJsVlNnN1NCSFNQWW1jdNIB5wFBVV95cUxQeUdLZzFVMG15OFU3RWVKQVF5VEhidHNQYlNkVEdJajFCSloySmZNSkpxWksyak94WkY1UDVhaEstVk5QbXVWN0lsMGNLdGc3Qk9yeDZlbHk0VXgwazBrdVFhYmRHSnpaVmhsY21PcnZSeXpmcXo1WU5SWFBVTFBPcmxBMzhmZ0RvNlF2a0RRQXNIMkVTdEQwRGJrX1o2bXBpUnB5TU81TDZPdWpuQ0taSDdOam5ObE5MamlfWVlDWU1UY3NKR1BZVHhyM3VCWmtyR3JJTnE2MFNXZWxwaGFWc2JudnAxTnM?oc=5
+- Ladakh to Host India’s First Geothermal Power Plant - Vision IAS
+  Ladakh to Host India�
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmpfNWN4UjV3WlFzVW1QZXE0U1JKM0cydWdLTjRkZGVqQmtUYTlYUi0xTTFxeF9YYzk2T1poVldkNV9IV01mOHFDa2dBZUhGYzZTN0JYUGdwT0dUTktGM2FfTUZLb1hLXzVnbkt2Q3hOREJiYndyd2tQWFc2d0VTNTZHZ3B6RTFLeUJ0N2ZSNzh3SGJJaHc5S2hRX0g1Z0pxaFV4LS1SOGZkbjZGV1FPNkh2Tk5CVU45NGNPRGttLUdIQ0ZneU9GTXdnc0o?oc=5
 
-- Punjab’s digital health revolution: How technology is reshaping citizen-centric healthcare delivery - Express Computer
-  Punjab’s digital health revolution:
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWtzRFhSelJMUkVyT29pTl9RLVFsYXZfMFp0VUppTDFoNGFnMlRIUVROWDIwanBhRVZVSGIta0RIVnlfVm9IWm5nVlEtOVYxUVZMeGVXdERIOGMybTJFWG5tdkdaMnZ2c0pXWjFPZk13V2QtMlJ6NlJkQVVQZm53VXFfczI2X1Z0U1diZVQ5bGx2dGg1OS1lWVZBY01JUmpiUU1idGpYWURNZGlhMU5wcUdCLXp5Y2dhdU1VbGw1d2JjMEZFX3ZvOEo3ZjhyVF96RHFjYmZWWkJQakdHVW9kVdIB5gFBVV95cUxQZHRZSkVrUWJLSTRJOXpzN292TDEwZGhIWmVsSGJ3bFlMNUFFdEs4OXRLOUJ4VWlnb3pKbjN4UFpYdVJMVzBQbjN6N1owQ19mSS00UENQVF9fVE54RGlYZE9tdFl6d1VFVkRXYjRTMnpaZkV1aXJsQXc1UHlFVEhTa2cxR2xsbmRMczdibjg1NUdfZEd0b0l1anFhMW0yRENraHBRTmtjNXlkd3ozNWoxSUZJNUZ3OGVtTEdXWjYwb2xySFg2NkdvSGoxdUpwUE9DeDNWNHViTnBkcXV5R1pkY1BzWEdTUQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Fujitsu develops self-evolving multi-AI agent technology that learns and adapts to business operations - Fujitsu Global
-  Fujitsu develops self-evolving multi-AI agent
-  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcklXQldLdkM1R3JpTnEwSGpOYV9KdmZjaHVZWFR2NG1fUF9tTVlLR19QbTBGTU9xQkxQbjBndmxIaVRCaGd4NU9UbEhoZzdDOGE5QWxmNm5qN29mLWNxTzR4b3Q?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Digital technologies shine at 22nd China (Shenzhen) Int'l Cultural Industries Fair - Xinhua
-  Digital technologies shine at 22nd China (S
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5zSDBaWFIzZldmQWN4OGJHX1UwdXdZem9TUnlVREhLck12QWFEZXdTOG5nX0NMWEVwc3JncUdLMksySXhSNHdURXFJU29zVzZLZkhRTFdsdHIzV085VUR5bUZteWo0UGN6X2FqcDJQY28tcGltMWNrZVUyN2w?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-25 14:48:21 UTC_
+_Last updated: 2026-05-25 19:25:56 UTC_
