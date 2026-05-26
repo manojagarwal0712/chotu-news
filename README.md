@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- 42 grooms, 0 brides: The making of a mass wedding scam in Madhya Pradesh
+- ‘Infiltration, other reasons’: Centre’s panel to study ‘unnatural demographic changes’
   
-  🔗 https://indianexpress.com/article/india/42-grooms-duped-fake-wedding-scam-madhya-pradesh-dewas-10708540/
+  🔗 https://indianexpress.com/article/india/high-level-committee-demographic-changes-illegal-immigration-india-10709072/
 
-- Six dead in Odisha septic tank as rescue op goes wrong
+- Why not demolish homes of politicians and cops too: Jammu BJP leaders on LG’s anti-drug drive
   
-  🔗 https://indianexpress.com/article/india/six-deadodisha-septic-tank-rescue-op-goes-wrong-10708518/
+  🔗 https://indianexpress.com/article/india/protest-demolition-homes-manoj-sinha-lg-anti-drug-drive-jammu-bjp-10709056/
 
-- Bihar orders 2-day family vacation for all govt employees every 3 months
+- Amid China concerns, India and US sign pact to secure supply of critical minerals
   
-  🔗 https://indianexpress.com/article/india/bihar-2-day-family-vacation-govt-employees-3-months-10708355/
+  🔗 https://indianexpress.com/article/india/india-us-sign-minerals-framework-jaishankar-rubio-china-supply-chain-10709038/
 
-- Why BJP’s Rajya Sabha call has spooked JMM ahead of June 18 election
+- Hope in the heart of a forest: How a school in rural Madhya Pradesh is transforming tribal lives
   
-  🔗 https://indianexpress.com/article/india/bjp-rajya-sabha-call-spooked-jmm-june-election-10708246/
+  🔗 https://indianexpress.com/article/india/hope-in-the-heart-of-a-forest-how-a-school-in-rural-madhya-pradesh-is-transforming-tribal-lives-10708914/
 
-- Quad launches new maritime, critical mineral initiatives at Delhi Summit
+- Railway Board gives nod to India’s first hydrogen train, set for launch soon
   
-  🔗 https://indianexpress.com/article/india/quad-issues-joint-statement-jaishankar-says-talks-highlighted-need-for-safe-unimpeded-maritime-commerce-10708092/
+  🔗 https://indianexpress.com/article/india/railway-board-gives-nod-to-indias-first-hydrogen-train-set-for-launch-soon-10708751/
 
-- ‘India’s digital infra needs prompt attention for quantum-safe future’: IBM India CTO Dr Amith Singhee
+- Looking for headphones under Rs 10,000? Here are 5 options to consider
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/quantum-advantage-ibm-india-amith-singhee-interview-10708465/
+  🔗 https://indianexpress.com/article/technology/gadgets/looking-for-headphones-under-rs-10000-here-are-5-options-to-consider-10708940/
 
-- Anthropic co-founder warns of AI’s impact on jobs as Pope Leo XIV urges regulation
+- DailyObjects unveils NODE dock-and-go wireless charging ecosystem
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-christoph-olah-ai-job-loss-pope-leo-xiv-10708351/
+  🔗 https://indianexpress.com/article/technology/gadgets/dailyobjects-unveils-node-dock-and-go-wireless-charging-ecosystem-10709105/
 
-- Ferrari’s first EV is here: 5 things to know about Luce
+- Scientists move closer to diamond-based quantum chips with superconducting breakthrough
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ferraris-first-ev-is-here-5-things-to-know-about-luce-10708257/
+  🔗 https://indianexpress.com/article/technology/science/scientists-move-closer-to-diamond-based-quantum-chips-with-superconducting-breakthrough-10709044/
 
-- ‘Disarm AI’: Pope Leo XIV issues stark warning over rapid artificial intelligence growth
+- NASA’s new AI system could help predict dangerous algae outbreaks earlier
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pope-leo-xiv-issues-stark-warning-over-rapid-ai-growth-10707991/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasas-new-ai-system-could-help-predict-dangerous-algae-outbreaks-earlier-10709024/
 
-- Crescent Mars: NASA’s Psyche captures rare picture of red planet
+- Tiny microbes give cheese its taste and could benefit gut health, scientists say
   
-  🔗 https://indianexpress.com/article/technology/science/nasa-psyche-spacecraft-mars-flyby-crescent-images-gravity-assist-asteroid-mission-10707207/
+  🔗 https://indianexpress.com/article/technology/science/cheese-gut-health-benefits-probiotics-microbes-university-of-reading-study-10708844/
 
-- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
-  'Trump Called India A Hellhole,' Reporter
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
+- Delhi high court asks SpiceJet to disclose assets in 2 weeks in $8 million Sunbird dues case
+  Sunbird sought disclosure of SpiceJet’s assets so it could seek protective
+  🔗 https://www.livemint.com/companies/news/delhi-high-court-spicejet-assets-sunbird-dues-case-lease-rentals-maintenance-dues-11779792013194.html
 
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
+- OpenAI's Sam Altman says artificial intelligence unlikely to lead to 'jobs apocalypse'
+   Altman said he and his executives had been roughly right on the technological predictions made by OpenAI when it launched ChatGPT in 2022. But he said
+  🔗 https://www.livemint.com/companies/people/openais-sam-altman-says-artificial-intelligence-unlikely-to-lead-to-jobs-apocalypse-11779791265254.html
 
-- Israel Bets On Big Tech Over Warfronts, Has An Iran Request For India - NDTV
-  Israel Bets On Big Tech Over Warfronts,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hNWkR2eGdTY2tjLTFnR2pKUW9zdi1QaktTVS1pUk5MTWNKN3dSZTZqRk5VR3JXY2RUOE5hNTlNaVQ5WVVLeHk1ZElJdFg3dXlKNlprWHd0NERhekR1NVR2bkhPRk5ORmhwRzMzVWltY1NxZ2FmcTlfYzd5TGFKS2ZVQTNUellESUwwNGxJQlFBQVQ4S2N4SEVZVGd3TXllRTA2NTgtdEtCS2pQeGfSAbYBQVVfeXFMUEVvM1N1WHFEMEZfSkZObndYOUdzanVBODZ5eEl3cFdhTGdVVVNZbTJVYXNsd0JSUm1hbDl4aEdENGJ1WDNfbTBpM2ZPbzl6SGJfTzFlNkprOG9XXzlkX0ItalpGc0lMRlR2dVFhOVR3dE9fbVFLUEpweXJlY3RRRVlUcVIzVEtnTUE5WDVxWlJxRHFsRUxKWTMyMk10MHU5Y2RFTjBXNF84cC1idEp5M2d3bVp3VFE?oc=5
+- Fundamentum launches  ₹3,000-crore fund to fill deeptech's missing middle
+  The announcement comes at a time when investors in the country have become more bullish on both deeptech and AI. With deept
+  🔗 https://www.livemint.com/companies/news/fundamentum-partnership-f2a-ai-deeptech-fund-nandan-nilekani-11779783863603.html
 
-- Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest India For Next Few Days - NDTV
-  Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQS1PT09hUmZtRlgzU2w3a2FJWWhweTlrY3J0SEptRGh0TVZvNWxnV2l4OEJGVXAtODFzUkwzS0JyLTc5UUhrTjdJeC1sc1F3djFxZm4yNHUzdFlHeWk5NjBsNHJ0ekUwSWxyenpnV1p6RDBfSzhsU0U1QlhHWDJOeE9jRklSQk1aRUNPOXBIb3Mxc1h3OGs1ckdRaUNwWGpjMjRMSE1Xczl0ZF92WldfdGhPYjc3YmVRZnhFUU1SM0pUc0hDWmZzTVhDYS1pUUnSAdcBQVVfeXFMUENkQXJmTWJVWUt4SFFRRjZqUFdvMGtoVkZfUXZJcHhPcy1sMmQ3TW1GTVlsX0x2WjB3M05KejFjRTJDcDFHcXNRWUxZSHVJV2laRENxbkg5RVFIbnJ0SVJOLUhOREZULWFWZ3F5UDhQZm02QUlyUTQxSnlFU09RVGFJUVJVTHRKMC0tQkdQTkpoU3M2bU1CM1NPcUtETWJMeWlCSTRGSFhVZEFVbUNpcHZkbldraXNKUnFVeTZPRkhINV95Q3ZrdlJYbWZZdnVudHlOd2dsM1U?oc=5
+- WestBridge, Creaegis to double down on Third Wave Coffee in $80-100 million round
+  Existing investors WestBridge Capital and Creaegis are set to deepen their
+  🔗 https://www.livemint.com/companies/start-ups/third-wave-coffee-100-million-funding-westbridge-creagis-valuation-india-cafe-chain-11779776368065.html
 
-- Trump Pushes Middle East Reset, Pak Faces Saudi, Abraham Accords Dilemma - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJHa1A3aUMtTWlFRXNxM3NqRUR0VktPS2ZWOUU0TV92SGtoQkZaREoxNGFndGZjeTBOY1VOQmVzdnNCbkZDTFBreUVHQXYwSXpDS09fdndHN0pIY0ZRSUFMbUNPSVFxaGhBc21KbTVNczRxcWUyak40U3lsUGFDYW1oNkZCUHdCUGNzWWd3MnVmU0RFOXVYQTBqUVM?oc=5
+- Land of the rising sunscreen: Move over K-beauty, Japanese skincare products are India’s next big obsession
+  Japanese beauty brands are gaining popularity in India, particularly among younger consumers.
+  🔗 https://www.livemint.com/companies/news/land-of-the-rising-sunscreen-k-beauty-japanese-skincare-india-s-next-big-obsession-lighter-textures-natural-ingredients-11779768519598.html
 
-- Q-Line Biotech IPO allotment to be finalised today. Here's GMP, steps to check status
-  The shares of Q-Line Biotech IPO are commanding a strong premium in the grey market. According to Investorgain,
-  🔗 https://www.livemint.com/market/ipo/qline-biotech-ipo-allotment-to-be-finalised-today-heres-gmp-steps-to-check-status-11779785175787.html
+- Small-cap stock under  ₹50 jumps 3% despite stock market sell-off. Do you own?
+  Bhatia Communications &amp;amp; Retail shares rose 3% to  ₹24.85 after reporting strong financial results for Q4 FY26
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-3-despite-stock-market-sell-off-do-you-own-11779800493246.html
 
-- Smallcap stock Exhicon Events jumps despite tepid trends in the Indian stock market
-  Exhicon Events Media Solutions share price has fallen 12% in one month. The smallcap stock has dropped 10% in six months, but has risen by 38%
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-exhicon-events-jumps-despite-tepid-trends-in-the-indian-stock-market-today-11779786655491.html
+- US stock market today: Dow Jones, Nasdaq futures jump up to 1.1% despite fresh US-Iran strikes; crude oil rebounds
+  The S&amp;amp;P 500 and Dow Jones were up. optimism remains despite uncertainties around Iran’s nuclear program and the Strait of Hormuz.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-nasdaq-futures-jump-up-to-1-1-despite-fresh-us-iran-strikes-crude-oil-rebounds-11779793301320.html
 
-- Astra Microwave Products shares rise over 12% to fresh record high after Q4 results
-  Astra Microwave Products' shares surged 12% to  ₹1,379 after strong March quarter results. The company reported a 44% increase in net profit to 
-  🔗 https://www.livemint.com/market/stock-market-news/astra-microwave-products-shares-rise-over-12-to-fresh-record-high-after-q4-results-11779785161946.html
+- SMR Jewels IPO opens today. Check GMP, subscription status, price band and other details
+  The allotment date for SMR Jewels IPO has been fixed as 1 June, with the tentative listing date set as 3 June. Shares
+  🔗 https://www.livemint.com/market/ipo/smr-jewels-ipo-opens-today-check-gmp-subscription-status-price-band-and-other-details-11779794730802.html
 
-- STT hike, cooling volatility take a bite out of index options volumes
-  Average daily premium turnover for Nifty and Sensex options over 16 sessions in May was 13% below levels in March. Trading volumes were also impacted by a fall in volatility amid growing hopes of a US-Iran peace
-  🔗 https://www.livemint.com/market/stt-hike-cooling-volatility-bite-out-of-index-options-volumes-nifty-and-sensex-options-11779778176968.html
+- US Stock Market Today Live Updates: US stock futures positive amid peace deal hopes, AI-led rally
+  Investors stay upbeat over potential Middle East peace negotiations, even after recent military strikes. Sentiment was further supported by continued strength in artificial
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-live-updates-dow-sp-500-nasdaq-wall-street-latest-updates-on-may-21-2026-11779793064488.html
 
-- Penny stock under  ₹10 retraces after inching close to 52-week high
-  Shah Metacorp share price has gained over 7% in three months. The penny stock has rallied over 32% in six months and has surged 67% in one year. The smallcap stock has jumped 74%
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-shah-metacorp-share-price-retraces-after-inching-close-to-52-week-high-11779785013015.html
+- Multibagger IPO: SME stock triples allottees' money in one year. Do you own?
+  Sacheerome Limited plans to use IPO proceeds for a new manufacturing facility in Uttar Pradesh. Its IPO saw 218.15 times subscription and shares are up 218% from the IPO price.
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-ipo-sme-stock-sacheerome-share-price-triples-allottees-money-in-one-year-do-you-own-11779789272534.html
 
 - Bharti Airtel defends 'Priority Postpaid' service before DoT panel, denies net neutrality violations
   Bharti Airtel said not allowing the use of mainstream features of 5G will jeopard
@@ -100,105 +100,45 @@
   Researchers at the Karlsruhe Institute of Technology warn that WiFi routers can be transformed
   🔗 https://www.livemint.com/technology/tech-news/scientists-warn-this-wifi-tracking-method-could-identify-you-without-a-phone-and-almost-nobody-would-notice-11779757409026.html
 
-- Sebi reviews easing disclosure for bonds, to pilot tokenised bond market
-  Regulator is also exploring a pilot ‌for tokenisation of corporate bonds. Roll
-  🔗 https://economictimes.indiatimes.com/markets/bonds/sebi-reviews-easing-disclosure-for-bonds-to-pilot-tokenised-bond-market/articleshow/131325681.cms
+- Govt to offload up to 2% stake in Coal India via OFS on May 27-29; floor price at Rs 412/share
+  The OFS floor price has been fixed at Rs 412 per share, nearly 10% below Coal India’s Tuesday closing price on the NSE. The government will divest up to a 2% stake in
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-to-offload-up-to-2-stake-in-coal-india-via-ofs-on-may-27-29-floor-price-at-rs-412/share/articleshow/131331457.cms
 
-- Sebi reviews easing disclosure for bonds, to pilot tokenised bond market
-  India's market regulator is considering similar disclosure rules for listed debt. This move aims to boost the corporate bond market. The regulator is also preparing to launch a pilot for tokenising corporate bonds.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/sebi-reviews-easing-disclosure-for-bonds-to-pilot-tokenised-bond-market/articleshow/131325659.cms
+- US stocks today: US stocks rise near record highs on Iran deal hopes, oil climbs
+  S&amp;P 500, Nasdaq and Dow hovered near record highs. Asian and European markets were mixed as investors weighed conflict risks against hopes of a diplomatic breakthrough.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rise-and-catch-up-with-gains-in-overseas-markets/articleshow/131330762.cms
 
-- QSR chains face margin pressure, not demand shock: Karan Taurani on fuel and LPG impact
-  Rising fuel and LPG prices are impacting India's consumption landscape unevenly. Some sectors like QSR face margin compression due to high LPG dependence. Others like alco-bev and retail show divergence based on cost structures and
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/qsr-chains-face-margin-pressure-not-demand-shock-karan-taurani-on-fuel-and-lpg-impact/articleshow/131325354.cms
+- Florida insurer Safepoint eyes $1.16 billion valuation in US IPO
+  The company and some of its backers are seeking to raise up to $283.3 million by offering 16.7
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-florida-insurer-safepoint-eyes-1-16-billion-valuation-in-us-ipo/articleshow/131330493.cms
 
-- SEBI unveils Pilot DLT tokenisation project as risk evaluation process continues
+- Advent, ADIA-backed gas engine maker Innio targets $20.3 billion valuation in US IPO
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-unveils-pilot-dlt-tokenisation-project-as-risk-evaluation-process-continues/videoshow/131325410.cms
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/update-3-advent-adia-backed-gas-engine-maker-innio-targets-20-3-billion-valuation-in-us-ipo/articleshow/131330465.cms
 
-- MobiKwik shares surge 8% after the company gets RBI nod for payment aggregator license
-  MobiKwik Systems shares surged after the company received in-principle RBI approval for its Payment Aggregator-Physical licence. The fintech firm also reported a return to profitability in Q4
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-surge-8-after-the-company-gets-rbi-nod-for-payment-aggregator-license/articleshow/131325294.cms
+- Brainbees Solutions Q4 Results: Firstcry parent narrows YoY loss to Rs 30 crore on 12% revenue uptick
+  Brainbees Solutions, Firstcry’s parent, narrowed its Q4FY26 net loss to Rs 30.30 crore. The company remained PAT and Free Cash Flow positive
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/brainbees-solutions-q4-results-firstcry-parent-narrows-yoy-loss-to-rs-30-crore-on-12-revenue-uptick/articleshow/131330452.cms
 
-- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
-  'Trump Called India A Hellhole,' Reporter
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Israel Bets On Big Tech Over Warfronts, Has An Iran Request For India - NDTV
-  Israel Bets On Big Tech Over Warfronts,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hNWkR2eGdTY2tjLTFnR2pKUW9zdi1QaktTVS1pUk5MTWNKN3dSZTZqRk5VR3JXY2RUOE5hNTlNaVQ5WVVLeHk1ZElJdFg3dXlKNlprWHd0NERhekR1NVR2bkhPRk5ORmhwRzMzVWltY1NxZ2FmcTlfYzd5TGFKS2ZVQTNUellESUwwNGxJQlFBQVQ4S2N4SEVZVGd3TXllRTA2NTgtdEtCS2pQeGfSAbYBQVVfeXFMUEVvM1N1WHFEMEZfSkZObndYOUdzanVBODZ5eEl3cFdhTGdVVVNZbTJVYXNsd0JSUm1hbDl4aEdENGJ1WDNfbTBpM2ZPbzl6SGJfTzFlNkprOG9XXzlkX0ItalpGc0lMRlR2dVFhOVR3dE9fbVFLUEpweXJlY3RRRVlUcVIzVEtnTUE5WDVxWlJxRHFsRUxKWTMyMk10MHU5Y2RFTjBXNF84cC1idEp5M2d3bVp3VFE?oc=5
-
-- Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest India For Next Few Days - NDTV
-  Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQS1PT09hUmZtRlgzU2w3a2FJWWhweTlrY3J0SEptRGh0TVZvNWxnV2l4OEJGVXAtODFzUkwzS0JyLTc5UUhrTjdJeC1sc1F3djFxZm4yNHUzdFlHeWk5NjBsNHJ0ekUwSWxyenpnV1p6RDBfSzhsU0U1QlhHWDJOeE9jRklSQk1aRUNPOXBIb3Mxc1h3OGs1ckdRaUNwWGpjMjRMSE1Xczl0ZF92WldfdGhPYjc3YmVRZnhFUU1SM0pUc0hDWmZzTVhDYS1pUUnSAdcBQVVfeXFMUENkQXJmTWJVWUt4SFFRRjZqUFdvMGtoVkZfUXZJcHhPcy1sMmQ3TW1GTVlsX0x2WjB3M05KejFjRTJDcDFHcXNRWUxZSHVJV2laRENxbkg5RVFIbnJ0SVJOLUhOREZULWFWZ3F5UDhQZm02QUlyUTQxSnlFU09RVGFJUVJVTHRKMC0tQkdQTkpoU3M2bU1CM1NPcUtETWJMeWlCSTRGSFhVZEFVbUNpcHZkbldraXNKUnFVeTZPRkhINV95Q3ZrdlJYbWZZdnVudHlOd2dsM1U?oc=5
-
-- Trump Pushes Middle East Reset, Pak Faces Saudi, Abraham Accords Dilemma - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJHa1A3aUMtTWlFRXNxM3NqRUR0VktPS2ZWOUU0TV92SGtoQkZaREoxNGFndGZjeTBOY1VOQmVzdnNCbkZDTFBreUVHQXYwSXpDS09fdndHN0pIY0ZRSUFMbUNPSVFxaGhBc21KbTVNczRxcWUyak40U3lsUGFDYW1oNkZCUHdCUGNzWWd3MnVmU0RFOXVYQTBqUVM?oc=5
+- "Abhi Toh Yeh Trailer Hai": Top Market Voice Sounds Alarm On India's White-Collar Jobs - NDTV
+  "Abhi Toh Yeh Trailer Hai": Top Market
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
 
 - 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
   'Trump Called India A Hellhole,' Reporter
   🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
 
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Israel Bets On Big Tech Over Warfronts, Has An Iran Request For India - NDTV
-  Israel Bets On Big Tech Over Warfronts,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hNWkR2eGdTY2tjLTFnR2pKUW9zdi1QaktTVS1pUk5MTWNKN3dSZTZqRk5VR3JXY2RUOE5hNTlNaVQ5WVVLeHk1ZElJdFg3dXlKNlprWHd0NERhekR1NVR2bkhPRk5ORmhwRzMzVWltY1NxZ2FmcTlfYzd5TGFKS2ZVQTNUellESUwwNGxJQlFBQVQ4S2N4SEVZVGd3TXllRTA2NTgtdEtCS2pQeGfSAbYBQVVfeXFMUEVvM1N1WHFEMEZfSkZObndYOUdzanVBODZ5eEl3cFdhTGdVVVNZbTJVYXNsd0JSUm1hbDl4aEdENGJ1WDNfbTBpM2ZPbzl6SGJfTzFlNkprOG9XXzlkX0ItalpGc0lMRlR2dVFhOVR3dE9fbVFLUEpweXJlY3RRRVlUcVIzVEtnTUE5WDVxWlJxRHFsRUxKWTMyMk10MHU5Y2RFTjBXNF84cC1idEp5M2d3bVp3VFE?oc=5
+- Karnataka: Siddaramaiah To Resign This Week, Congress Bosses Back DK Shivakumar: Sources - NDTV
+  Karnataka: Siddaramaiah To Res
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxQS1g1Ry0yT0dKM2NuR1o1aWFpNXVFTmtYSEhMZFpTMGFqNXJLNVJvY044SkZGb09COGJRRVhoR0VMMllZcWI2d01leFhicnZmQlNNTlRMejNTR3NRZE1jU1otR3Y3a0JrMm5pdFllZ2xNdU1XTGR0WFRXdE5GRWFoaXpYQ2ZJVEZscExuSHFNVGNuRFJpV09yOVRGcEdKaGpncmZUMkstZVFkUTNyTVNidXc0ZVZoUm1VdlB6blhuaG9SZ2tT0gHMAUFVX3lxTE50aElIdC15STllb25YNVZWYlFPYVEtSGdWLXB1azFQTFNIN0VPZDJBbkVrSHFxaTVBNTl4ZFh3UzhXZXFEbWx6YlJxN2hpdWJhRFBQTGhuZFp2bm5aX0NEcTdTMWNtdFVnRlA1dzZQQnNZejRraVY2dTNkbHNzdjJXNmVxRzA2X3hRU0lVb0t3ZDYwczNLbkpkRm0wOUM5QUpFNy1GanpDQjRHTEZlelNVU3RQZjRZVDVLY1I1aFFTOUJVZ3hVSjhxUTk5aA?oc=5
 
 - Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest India For Next Few Days - NDTV
   Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQS1PT09hUmZtRlgzU2w3a2FJWWhweTlrY3J0SEptRGh0TVZvNWxnV2l4OEJGVXAtODFzUkwzS0JyLTc5UUhrTjdJeC1sc1F3djFxZm4yNHUzdFlHeWk5NjBsNHJ0ekUwSWxyenpnV1p6RDBfSzhsU0U1QlhHWDJOeE9jRklSQk1aRUNPOXBIb3Mxc1h3OGs1ckdRaUNwWGpjMjRMSE1Xczl0ZF92WldfdGhPYjc3YmVRZnhFUU1SM0pUc0hDWmZzTVhDYS1pUUnSAdcBQVVfeXFMUENkQXJmTWJVWUt4SFFRRjZqUFdvMGtoVkZfUXZJcHhPcy1sMmQ3TW1GTVlsX0x2WjB3M05KejFjRTJDcDFHcXNRWUxZSHVJV2laRENxbkg5RVFIbnJ0SVJOLUhOREZULWFWZ3F5UDhQZm02QUlyUTQxSnlFU09RVGFJUVJVTHRKMC0tQkdQTkpoU3M2bU1CM1NPcUtETWJMeWlCSTRGSFhVZEFVbUNpcHZkbldraXNKUnFVeTZPRkhINV95Q3ZrdlJYbWZZdnVudHlOd2dsM1U?oc=5
 
-- Trump Pushes Middle East Reset, Pak Faces Saudi, Abraham Accords Dilemma - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJHa1A3aUMtTWlFRXNxM3NqRUR0VktPS2ZWOUU0TV92SGtoQkZaREoxNGFndGZjeTBOY1VOQmVzdnNCbkZDTFBreUVHQXYwSXpDS09fdndHN0pIY0ZRSUFMbUNPSVFxaGhBc21KbTVNczRxcWUyak40U3lsUGFDYW1oNkZCUHdCUGNzWWd3MnVmU0RFOXVYQTBqUVM?oc=5
-
-- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
-  'Trump Called India A Hellhole,' Reporter
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Israel Bets On Big Tech Over Warfronts, Has An Iran Request For India - NDTV
-  Israel Bets On Big Tech Over Warfronts,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hNWkR2eGdTY2tjLTFnR2pKUW9zdi1QaktTVS1pUk5MTWNKN3dSZTZqRk5VR3JXY2RUOE5hNTlNaVQ5WVVLeHk1ZElJdFg3dXlKNlprWHd0NERhekR1NVR2bkhPRk5ORmhwRzMzVWltY1NxZ2FmcTlfYzd5TGFKS2ZVQTNUellESUwwNGxJQlFBQVQ4S2N4SEVZVGd3TXllRTA2NTgtdEtCS2pQeGfSAbYBQVVfeXFMUEVvM1N1WHFEMEZfSkZObndYOUdzanVBODZ5eEl3cFdhTGdVVVNZbTJVYXNsd0JSUm1hbDl4aEdENGJ1WDNfbTBpM2ZPbzl6SGJfTzFlNkprOG9XXzlkX0ItalpGc0lMRlR2dVFhOVR3dE9fbVFLUEpweXJlY3RRRVlUcVIzVEtnTUE5WDVxWlJxRHFsRUxKWTMyMk10MHU5Y2RFTjBXNF84cC1idEp5M2d3bVp3VFE?oc=5
-
-- Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest India For Next Few Days - NDTV
-  Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQS1PT09hUmZtRlgzU2w3a2FJWWhweTlrY3J0SEptRGh0TVZvNWxnV2l4OEJGVXAtODFzUkwzS0JyLTc5UUhrTjdJeC1sc1F3djFxZm4yNHUzdFlHeWk5NjBsNHJ0ekUwSWxyenpnV1p6RDBfSzhsU0U1QlhHWDJOeE9jRklSQk1aRUNPOXBIb3Mxc1h3OGs1ckdRaUNwWGpjMjRMSE1Xczl0ZF92WldfdGhPYjc3YmVRZnhFUU1SM0pUc0hDWmZzTVhDYS1pUUnSAdcBQVVfeXFMUENkQXJmTWJVWUt4SFFRRjZqUFdvMGtoVkZfUXZJcHhPcy1sMmQ3TW1GTVlsX0x2WjB3M05KejFjRTJDcDFHcXNRWUxZSHVJV2laRENxbkg5RVFIbnJ0SVJOLUhOREZULWFWZ3F5UDhQZm02QUlyUTQxSnlFU09RVGFJUVJVTHRKMC0tQkdQTkpoU3M2bU1CM1NPcUtETWJMeWlCSTRGSFhVZEFVbUNpcHZkbldraXNKUnFVeTZPRkhINV95Q3ZrdlJYbWZZdnVudHlOd2dsM1U?oc=5
-
-- Trump Pushes Middle East Reset, Pak Faces Saudi, Abraham Accords Dilemma - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJHa1A3aUMtTWlFRXNxM3NqRUR0VktPS2ZWOUU0TV92SGtoQkZaREoxNGFndGZjeTBOY1VOQmVzdnNCbkZDTFBreUVHQXYwSXpDS09fdndHN0pIY0ZRSUFMbUNPSVFxaGhBc21KbTVNczRxcWUyak40U3lsUGFDYW1oNkZCUHdCUGNzWWd3MnVmU0RFOXVYQTBqUVM?oc=5
-
-- 'Trump Called India A Hellhole,' Reporter Tells Marco Rubio. His Response - NDTV
-  'Trump Called India A Hellhole,' Reporter
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE1LRC1Pamo3bnBORlNmYzhQa21EQ2FXclY2ZUg4WDEteXd1a2tFbEVpWVQyR0NsWW1yeTJRUkIwdzNTeGhUdkZudjUzVFZkSXR0RjQ2akxPcmhXOE43Z0thdDQ3Y29NOGZwQUswN1B4WFFJaHZoUU4ydmo3eXAzcXN1M21SeV9pdEFUZVRJTGdkZjFjYjF6RXFDWElLWHRsaEpLMzNZeVI2WXRIcW9pbWpiUUZhd1lHc0xmSXYtazNxd0hSeW4ySUd6VXpjcmIxeUdKZnV3UGPSAeABQVVfeXFMTmhndWx2clBqcEZGcVBLNUREVktjVWYzUUlBbmlCSXhFRE9Lc0sweE4zN1JrYUlRZ3RVWGdkMk0wUzN4Q0JLQ0RRY283WWJMcTkwZHo4RmJPZVFfc0RkaUw0Mi1ycFh2MVFrZVI4czhOTk9sWVpmS3QzUUxtdjJiTnY4QXNXdUJpVWVrWks4cmh0VEZQN252Q0lNd09TaHhmODVMblczOFlUY2czRGNqSmpZRkJvRTNxT2lJN2h3b1dTVDVfVXlybXZpNHFTYkM4WkpWTlgwVlYyV1NwLTZnU3Q?oc=5
-
-- Rubio meets Modi during India visit with energy high on agenda - BBC
-  Rubio meets Modi during India visit with energy
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fb1o3dWtYemg3OGszdlZuSGxHNGFrZnFncGVQRlVTeEpIc3BqMnRpNzNyeEpBcjZBOXNQWmYwOV9BZG8xM3gxdmNZY1RBWW01cFRMMGdYMFdFdw?oc=5
-
-- Israel Bets On Big Tech Over Warfronts, Has An Iran Request For India - NDTV
-  Israel Bets On Big Tech Over Warfronts,
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3hNWkR2eGdTY2tjLTFnR2pKUW9zdi1QaktTVS1pUk5MTWNKN3dSZTZqRk5VR3JXY2RUOE5hNTlNaVQ5WVVLeHk1ZElJdFg3dXlKNlprWHd0NERhekR1NVR2bkhPRk5ORmhwRzMzVWltY1NxZ2FmcTlfYzd5TGFKS2ZVQTNUellESUwwNGxJQlFBQVQ4S2N4SEVZVGd3TXllRTA2NTgtdEtCS2pQeGfSAbYBQVVfeXFMUEVvM1N1WHFEMEZfSkZObndYOUdzanVBODZ5eEl3cFdhTGdVVVNZbTJVYXNsd0JSUm1hbDl4aEdENGJ1WDNfbTBpM2ZPbzl6SGJfTzFlNkprOG9XXzlkX0ItalpGc0lMRlR2dVFhOVR3dE9fbVFLUEpweXJlY3RRRVlUcVIzVEtnTUE5WDVxWlJxRHFsRUxKWTMyMk10MHU5Y2RFTjBXNF84cC1idEp5M2d3bVp3VFE?oc=5
-
-- Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest India For Next Few Days - NDTV
-  Weather Today LIVE: Heatwave Likely To Continue Over Central, Northwest
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOQS1PT09hUmZtRlgzU2w3a2FJWWhweTlrY3J0SEptRGh0TVZvNWxnV2l4OEJGVXAtODFzUkwzS0JyLTc5UUhrTjdJeC1sc1F3djFxZm4yNHUzdFlHeWk5NjBsNHJ0ekUwSWxyenpnV1p6RDBfSzhsU0U1QlhHWDJOeE9jRklSQk1aRUNPOXBIb3Mxc1h3OGs1ckdRaUNwWGpjMjRMSE1Xczl0ZF92WldfdGhPYjc3YmVRZnhFUU1SM0pUc0hDWmZzTVhDYS1pUUnSAdcBQVVfeXFMUENkQXJmTWJVWUt4SFFRRjZqUFdvMGtoVkZfUXZJcHhPcy1sMmQ3TW1GTVlsX0x2WjB3M05KejFjRTJDcDFHcXNRWUxZSHVJV2laRENxbkg5RVFIbnJ0SVJOLUhOREZULWFWZ3F5UDhQZm02QUlyUTQxSnlFU09RVGFJUVJVTHRKMC0tQkdQTkpoU3M2bU1CM1NPcUtETWJMeWlCSTRGSFhVZEFVbUNpcHZkbldraXNKUnFVeTZPRkhINV95Q3ZrdlJYbWZZdnVudHlOd2dsM1U?oc=5
-
-- Trump Pushes Middle East Reset, Pak Faces Saudi, Abraham Accords Dilemma - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEJHa1A3aUMtTWlFRXNxM3NqRUR0VktPS2ZWOUU0TV92SGtoQkZaREoxNGFndGZjeTBOY1VOQmVzdnNCbkZDTFBreUVHQXYwSXpDS09fdndHN0pIY0ZRSUFMbUNPSVFxaGhBc21KbTVNczRxcWUyak40U3lsUGFDYW1oNkZCUHdCUGNzWWd3MnVmU0RFOXVYQTBqUVM?oc=5
+- ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
+  Al Jazeera reports on the death of a student in India.
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONm5KQTZUOUVzUEUzak9qbG9xby0wN0tKT010ZUluX255UVNNMWtjQ3VsSTBvOXBKcGZqRU5uQkRGWlVERjk0VWsxTVEzLS1pM1pQSDVvVWRpcnZYMkFoSTBheEdKNFV4OGYwbjhJa2lLRE5fT2ZJSno2UnhFUVgwNm5CbmJST21DM3ZLUmUyaWpkb0doSUsyMklTeUdiY3FZazY2ajRueDJ1WUtVVWtv0gG0AUFVX3lxTFAzZHBacmwyNXdxLXZjbFZieFlDaFNkaFFxcUQwZkNVSHV6M2YxSm95WUlSQlVqbUU2WXRWanYwV3NGMDZPNnpPQ1ZZOTZ2cVhKRUhPZEQ3OEVNR3JjQlFNbWxOZWJaT3Fvb3FyVzMwaUFOamRUeC02RzVVTDZvRUZrMFc1b3Zuc0QyX3cwZHhmWXMwY3djTnRjTmVVc2Q3OTRQUjhpVXlBQVduNFZzbXloVTNHWQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,25 +160,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Punjab’s digital health revolution: How technology is reshaping citizen-centric healthcare delivery - Express Computer
-  Punjab’s digital health revolution:
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWtzRFhSelJMUkVyT29pTl9RLVFsYXZfMFp0VUppTDFoNGFnMlRIUVROWDIwanBhRVZVSGIta0RIVnlfVm9IWm5nVlEtOVYxUVZMeGVXdERIOGMybTJFWG5tdkdaMnZ2c0pXWjFPZk13V2QtMlJ6NlJkQVVQZm53VXFfczI2X1Z0U1diZVQ5bGx2dGg1OS1lWVZBY01JUmpiUU1idGpYWURNZGlhMU5wcUdCLXp5Y2dhdU1VbGw1d2JjMEZFX3ZvOEo3ZjhyVF96RHFjYmZWWkJQakdHVW9kVdIB5gFBVV95cUxQZHRZSkVrUWJLSTRJOXpzN292TDEwZGhIWmVsSGJ3bFlMNUFFdEs4OXRLOUJ4VWlnb3pKbjN4UFpYdVJMVzBQbjN6N1owQ19mSS00UENQVF9fVE54RGlYZE9tdFl6d1VFVkRXYjRTMnpaZkV1aXJsQXc1UHlFVEhTa2cxR2xsbmRMczdibjg1NUdfZEd0b0l1anFhMW0yRENraHBRTmtjNXlkd3ozNWoxSUZJNUZ3OGVtTEdXWjYwb2xySFg2NkdvSGoxdUpwUE9DeDNWNHViTnBkcXV5R1pkY1BzWEdTUQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Toyota Kirloskar Signs MoU With Karnataka Govt to Establish 300 Acre Technology Hub - Autocar Professional
-  Toyota Kirloskar Signs MoU With Karnataka
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNZll3cFNNTXpxYVhXbzBSWERIbWlaNEIwZlFsSVhhMk44aEVHUkpkUDdTVUwtV1JhZW81b2lwbXBlYURJeEhuQ1BhaFFKWG5XV29kNzVqQ1pOX0wyS1RBSWtFNlluUmUweXBfNGdMRDk5cmU5cUg0MG1yOXg0dHFuRWZ5U3RpM3NKZ2VkUGhhcV9Oc3JvX0RIcVFjMk42b1RPeVk3NTR0cmk5d3lReE1PNHhMREwzZm42UGl0VWF30gHGAUFVX3lxTE5jZnJvUEthNEF0X3JBRGNXbW55RHl5NzdlN3o2bldHbEtRRjFVS25zYkNDOVlxeGdWU01tcnZDWTRUM3FSUjRVR0pIaHVreTFaNzdERy1PdkRYQ0ZJVS0xQnV5WmJDUW1SQk15MGtzVjVGLWxGclk1UTRLUXNKQkFvanNhVHowVnhUa0tDXzBoWHhBNHFtZlpJMVc0a2RLaTZYOXQ4M3RpbjJnNG1YcXVPTEJuWk91b2hRWkc4QjJrTEtzcFB2UQ?oc=5
-
-- Huawei touts new chipmaking technology to sidestep US restrictions - Indiatimes
-  Huawei touts new chipmaking
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUF3Uzd0SzRUcG13TXhJLXFIb250TEhVOV8xVGZncHZLZ3pWcGdwVzRWY3dwVFVxMDdQZVRPcFpxakV3N09PZnBLRUpwM1d0czJHZjBUYWh5RUJhaWZFQ0RTZDRTdXpEX0NTYmQ5MXI2N0VZU1c0b1F6c21iZFRhb0t5SkZqZWktVVpPS3FGOE1wNTdJNkFlN010R1ZFNzhrQlZoZFBCMElTZkJlQ0VnT01YTnJ4cU5neGtPU1hDNE5CSU1Ja0tNYlFkVE5OcUxnR2NadFJUdFFHUm9zMkHSAeMBQVVfeXFMUC1INGlQY2VickhIUXV6VEFwRUs4aWZTVVp0Y2xRUlRZSjNGSDBvRzdKVWplNUFnT3dJRWpGV3ozVkdReXlZN3dBT3Vzamhycng5ZU1LSlEwd0s3dDZlbm5GVG5kbFIzQXp1S0ZBM0l2WUVGT0FJYjUwdGtHMUxtdEpQdFJzX1FKRU1VMTN3dU1BMGdkN1EwWHhUUGQ3UlNHcGZTVnJ1a3BqUkFkcVM2X1JScDZEZ1Uwb0Y4bkVxUTdQaEVRLUVoZGFCZ1BOYzM1c21SSmxZMVFNeGlqZWZDc0hBQ28?oc=5
-
-- US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’ - The Guardian
-  US students on why they booed their pro-AI graduation speakers:
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDlmWEpvRkNRTGU3ZV9aVWxadGxkeFd1RGpyYWtYN1kxRU5Bc1dTOWItQmQwRmRPOGtUN3FnVDEwaUV5UTl3OW9tLXF3R2lrWGthejVsam1hOGJYSGRDUVhodDZxOXZtVFY5cjZkYWNzaGVMbE1STERiQUYxd3lTdUNJZ19XMGlOd1dyZnZjeUMxYTQz?oc=5
-
-- How technology is shaping Hajj - Al Jazeera
-  Hajj is
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2VjUllEREU1bWYxdEZ1SEg0b2dYaXBMU25BTnNrSEtkVWxiY2xTS1ZfYUFxOGRqWHIzak9hRVZiU2IzZV9oRkxDcUlTc3c5c0tXby12cmNySGh2bUZzNzVNeEIyNE1vYnpFWFFNQnBrRHhIa2NYX3ViM2lMWkVJZ2pRdndWZGhQ0gGOAUFVX3lxTE9ESzJQRHpET1lYaGNUUzNMMm51NkxZTkVfNURFcDVOUTc5LXVKaGdvQ255OTF1R3JyR3UycW5URnpjS1BDZ3Q0S3V3a3hCVG4zb1EyZzBsMEw5YVpVWGN6cVZEN091cWQ0QWV2SUM3enFMVmFsU1pPOGVtWGxNSGhOd1RVNGF3UklaUUhpaEE?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-26 09:46:24 UTC_
+_Last updated: 2026-05-26 14:58:59 UTC_
