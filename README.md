@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- India rejects China-Pakistan joint statement on Jammu and Kashmir, calls references ‘unwarranted’
+- ED conducts raids at ex-Kerala CM Pinarayi Vijayan’s house in money-laundering case
   
-  🔗 https://indianexpress.com/article/india/india-rejects-china-pakistan-joint-statement-jammu-kashmir-ladakh-cpec-mea-10709487/
+  🔗 https://indianexpress.com/article/india/ed-conducts-raids-ex-kerala-cm-pinarayi-vijayans-house-money-laundering-case-10709772/
 
-- 2 young women, a personal grudge, a misleading note: Behind the burning of a policeman’s bike in Kerala
+- NCERT threw us under the bus…we should not be afraid of controversies’: Academic Michel Danino speaks after SC recalls order
   
-  🔗 https://indianexpress.com/article/india/kerala-kollam-policeman-bike-arson-women-arrested-10709384/
+  🔗 https://indianexpress.com/article/india/ncert-threw-us-under-the-buswe-should-not-be-afraid-of-controversies-academic-michel-danino-speaks-after-sc-recalls-order-10709590/
 
-- Archaeologist Shereen Ratnagar, considered an influential voice on Harappan civilisation, dies at 82
+- RJD firebrand becomes BJP’s newest face: Ritu Jaiswal’s journey from panchayat mukhiya to national limelight
   
-  🔗 https://indianexpress.com/article/india/archaeologist-shereen-ratnagar-voice-harappan-civilisation-dies-at-82-10709349/
+  🔗 https://indianexpress.com/article/india/rjd-firebrand-becomes-bjps-newest-face-ritu-jaiswals-journey-from-panchayat-mukhiya-to-national-limelight-10709595/
 
-- Man accused of raising funds for Al Qaeda acquitted by Odisha court: ‘Not a scrap of convincing evidence’
+- Days after Sonam Wangchuk’s ‘honorary cockroach’ remark, a word of caution by Ladakh L-G
   
-  🔗 https://indianexpress.com/article/india/cuttack-court-acquits-alleged-aqis-operative-abdur-raheman-khan-uapa-10709320/
+  🔗 https://indianexpress.com/article/india/days-after-sonam-wangchuks-honorary-cockroach-remark-a-word-of-caution-by-ladakh-l-g-10709600/
 
-- Energy to rare earth, Fiji port to sea patrols: Quad moves to blunt China rise in Indo-Pacific
+- Anti-drone systems along border within six months: Amit Shah in Bikaner
   
-  🔗 https://indianexpress.com/article/india/quad-indo-pacific-maritime-energy-critical-minerals-initiatives-10709262/
+  🔗 https://indianexpress.com/article/india/amit-shah-anti-drone-systems-bsf-border-security-10709658/
+
+- Perplexity most reliable AI chatbot for work tasks, ChatGPT ranks sixth: Report
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/perplexity-most-reliable-ai-chatbot-for-work-tasks-chatgpt-ranks-sixth-report-10709760/
 
 - Looking for headphones under Rs 10,000? Here are 5 options to consider
   
@@ -36,105 +40,81 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/nasas-new-ai-system-could-help-predict-dangerous-algae-outbreaks-earlier-10709024/
 
-- Tiny microbes give cheese its taste and could benefit gut health, scientists say
-  
-  🔗 https://indianexpress.com/article/technology/science/cheese-gut-health-benefits-probiotics-microbes-university-of-reading-study-10708844/
+- Startups chase GIFT City licences to win NRI investors, but will the rush last?
+  Some caution this increased appetite may be cyclical rather than permanent. Platforms are pivoting to a single regulated stack to simplify cross-border flows.
+  🔗 https://www.livemint.com/companies/start-ups/gift-city-fintech-licences-nri-investment-middle-east-11779785673715.html
 
-- Crypto Firm HTX Accused by UK of Helping Russia Move Money
-  UK government accuses HTX of being part of 'infrastructure' used by Russia to circumvent sanctions. They allege that the exchange helped move $
-  🔗 https://www.livemint.com/companies/crypto-firm-htx-accused-by-uk-of-helping-russia-move-money-11779820443521.html
+- Himalaya Wealth launches  ₹500 crore SME fund to back manufacturing, deeptech firms
+   Category I AIF will target profitable growth-stage SMEs in sectors including aerospace, defence, industrial
+  🔗 https://www.livemint.com/companies/news/himalaya-wealth-launches-rs-500-crore-sme-aif-for-manufacturing-deeptech-firms-11779774022563.html
 
-- Massachusetts Uber, Lyft drivers certify first statewide ride-hailing union amid automation fears
-  Massachusetts Uber, Lyft drivers certify
-  🔗 https://www.livemint.com/companies/massachusetts-uber-lyft-drivers-certify-first-statewide-ride-hailing-union-amid-automation-fears-11779820436772.html
+- Focusing on profitable growth: LTM CEO Venu Lambu
+   LTIMindtree CEO Venu Lambu is betting on profitable growth despite AI concerns and weak investor sentiment. The company posted its fastest growth in three years and is expanding
+  🔗 https://www.livemint.com/companies/ltm-ceo-venu-lambu-bets-on-growth-despite-ai-fears-11779797824485.html
 
-- Elon Musk’s control over SpaceX expands with super voting shares, unusual governance rules: Report
-  The company reportedly granted Musk a massive restricted stock package earlier this year. The package reportedly also structuring voting rights, &amp;nbsp
-  🔗 https://www.livemint.com/companies/news/elon-musk-s-control-over-spacex-expands-with-super-voting-shares-and-unusual-governance-rules-report-cites-experts-11779817775464.html
+- Young buyers lift India to #3 spot for Swiss watchmaker Tissot
+  Tissot sales in India have risen over 35% annually in the last three years. Tissot chief executive Sylvain Dolla says India’s young luxury consumers
+  🔗 https://www.livemint.com/companies/news/swiss-watchmaker-tissot-the-swatch-group-luxury-11779724961383.html
 
-- Tata Sons’ board discusses threadbare its new businesses, prodded by Noel Tata
-  Tata Sons' board held its first detailed review of new businesses over a six-and-a-half-hour meeting. Chairman Noel Tata has raised concerns
-  🔗 https://www.livemint.com/companies/tata-sons-board-new-businesses-noel-tata-air-india-tata-trusts-11779806476125.html
+- Others open their wallets for buybacks. Cognizant turned to credit.
+  US-headquartered IT services giant said it will draw $1 billion for the buyback from a $1.85 billion revolving credit facility. Cognizant had secured the credit line in 2014 to support
+  🔗 https://www.livemint.com/companies/cognizant-becomes-first-company-to-fund-repurchase-through-bank-borrowings-11779796772598.html
 
-- Govt aims to collect up to  ₹5,000 crore via Coal India share sale
-  The floor price for the offer for sale (OFS), where existing shareholders or promoters divest stakes without issuing new
-  🔗 https://www.livemint.com/companies/govt-offers-up-to-2-per-cent-stake-sale-in-coal-india-under-ofs-route-11779808887415.html
+- Buy or sell: Gift Nifty trades flat, Vaishali Parekh recommends three stocks to buy today — 27 May 2026
+   Vaishali Parekh recommends three stocks to buy today. Morepen Laboratories
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-stocks-to-buy-today-27-may-2026-11779844387838.html
 
-- Dollar climbs as US strikes on Iran dent ceasefire optimism
-  Dollar climbs as US
-  🔗 https://www.livemint.com/market/dollar-climbs-as-us-strikes-on-iran-dent-ceasefire-optimism-11779825510940.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 27 May
+  Indian benchmark indices fell on 26 May, ending a 2-day winning streak. Despite this, mid- and small-cap stocks showed resilience. Investor sentiment remains cautious due to geopolitical tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-27-may-11779845922791.html
 
-- ONGC Q4 Results: Net profit rises 3% YoY to  ₹6,650 crore, declares final dividend
-  ONGC reported a 3% YoY increase in net profit for Q4FY26.
-  🔗 https://www.livemint.com/market/stock-market-news/ongc-q4-results-net-profit-rises-3-yoy-to-rs-6-650-crore-declares-final-dividend-11779813032812.html
+- Q4 results 2026: GMR Airports to Cummins India among companies to declare Q4 results today; check full list here
+  Around 300 companies are scheduled to release their Q4 results on Wednesday, 27 May. Here's a full list of companies
+  🔗 https://www.livemint.com/market/stock-market-news/q4-results-2026-gmr-airports-to-cummins-india-among-companies-to-declare-q4-results-today-check-full-list-here-11779846697560.html
 
-- Wall Street giant Nvidia's m-cap is bigger than six of world’s top 10 stock markets amid AI frenzy
-  Nvidia's shares have surged, making it the world's most valuable company with a market cap of over $5 trillion.
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-major-nvidias-m-cap-is-bigger-than-six-of-world-s-top-10-stock-markets-amid-ai-frenzy-11779797726758.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 27 May
+  Gift Nifty was trading around 23,882 level, a discount of nearly 97 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-27-may-11779846366488.html
 
-- Gold, silver rates today: Comex gold, silver struggle for direction amid Middle East uncertainty and strong dollar
-  Gold and silver prices fluctuated on 26 May due to weakening optimism over Middle East peace talks following fresh US strikes on Iran. Gold peaked at $4,540 before settling at $
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-silver-struggle-for-direction-amid-middle-east-uncertainty-and-strong-dollar-11779803469804.html
+- Stocks to watch: GMR Airports, ONGC, Coal India among 10 shares in focus today; check list here
+  The market is likely to continue its losing streak as trends in the Gift Nifty index signalled a muted opening on Wednesday. Amid this backdrop, these stocks will
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-gmr-airports-ongc-coal-india-among-10-shares-in-focus-today-check-list-here-11779844862100.html
 
-- Small-cap stock under  ₹50 jumps 3% despite stock market sell-off. Do you own?
-  Bhatia Communications &amp;amp; Retail shares rose 3% to  ₹24.85 after reporting strong financial results for Q4 FY26
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-3-despite-stock-market-sell-off-do-you-own-11779800493246.html
+- Asian Stocks Set to Rise as Iran Deal Hopes Hold: Markets Wrap - Bloomberg.com
+  Asian Stocks Set to Rise as Iran Deal Hop
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEg3Zm4yNjJHN3BXZ2tfTGh0MFJDVDQ0UmNmSGQybkVOZU1QQ0tWT0U1c3JHRTQ4d05MM1BiYWZRTWUtRG9pMUhLbG5KcVl2WE5tYW9mUkh4VnlnVXZ1bk9XblFHalRYdUkyRVZvSDY2Wk1nakd4QmVIdVJiTDZ2OHpNakRpSFJRNXdrUUFQRG9tUTJZR0JsNXBkWUU2MVFxMFpRYzVxODN1ZEdzb2tBbWx3?oc=5
 
-- Bharti Airtel defends 'Priority Postpaid' service before DoT panel, denies net neutrality violations
-  Bharti Airtel said not allowing the use of mainstream features of 5G will jeopard
-  🔗 https://www.livemint.com/technology/bharti-airtel-defends-priority-postpaid-service-before-dot-panel-denies-net-neutrality-violations-11779780668216.html
+- European stocks edge lower amid U.S-Iran peace talks uncertainty - CNBC
+  European stocks edge lower amid U.
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPVVJOdV9lem5VRm8xMXpwOTVaTU1ienZldkhXQnVMVWNCOXdSQlV6R0RCSFIzMUFFVWZkdklUbGxmZ2lOQldkR2RiWjZXVVZKV2NUM05OcXduNk5ZQXhpN1pGSXEzUEM3RmpPUS1NTFBtLVNadFNOUFFEVXcycE5vY1NmdGV1U1dWSWlFcVVmUdIBlAFBVV95cUxQelRoaU9CMEw1cElhMEdDUmpOYzBfWnlDLTB2VTN1dUNYSXo3aElTaHIwM21mVE5xbmRqQ2taT21hWFRYSDJjSmU4cElaR3NjVG1KeUkzMW8tRkV6LWF3NG94bUI4S3lsOUhTX3o0cWR6YmNWT05zbXpBYm5yMGYtVjR6R0ttYmhEQ2M1T1VWbUM3QUhD?oc=5
 
-- iPhone 17 Pro Max vs iPhone 18 Pro Max: 5 big upgrades Apple may finally bring in 2026
-  Apple is expected to bring the iPhone 18 Pro Max in a few months. Ahead of the phone's debut, here are 5 meaningful upgrades
-  🔗 https://www.livemint.com/technology/gadgets/iphone-17-pro-max-vs-iphone-18-pro-max-5-big-upgrades-apple-may-finally-bring-in-2026-11779775523233.html
+- Sensex today | Stock Market Highlights: Sensex falls 479 points, Nifty slips below 23,950 as rupee weakens - BusinessLine
+  Sensex falls 479 points, Nifty slips below 23,950 as
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc09VYzYwTnRmdWFxbUhlcXdiTFhmam1kemQxeEgxUmpYMzlxS0hLdE5WMmpyZXBpZnoxdWo4NUpEaHFzZUtzVFpPc3hsUFQ1ajNGbWNyODVIYjVEQ3dvZGtBdWJoZ1VkazllVHVXNllObWlaUS1ONEtkY1ZBZzcxMHVHMEJ4ZHpRNm5ETWptUkJpSGgzcU5TOTZuVUNSWGpSNWFwRXg4SE05MGotUzJnblNyRFpSVmQySFZzUzNUaVE?oc=5
 
-- Motorola accused of secretly injecting Amazon affiliate codes via a hidden system app
-  Motorola accused of redirecting Amazon users on its phones via affiliate links.
-  🔗 https://www.livemint.com/technology/tech-news/motorola-accused-of-secretly-injecting-amazon-affiliate-codes-via-a-hidden-system-app-11779767516799.html
+- US, Asian Markets Hit Record Highs On AI Rally; Gift Nifty Signals Flat Start - News18
+  US, Asian Markets Hit Record Highs On AI Rally;
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3hTTzduSnlXX1hCWkJzM1VEVUtQVzhLVWdoLXlQYXhVVkZDMjNRQy1NRlNFekU4TEFEdjlENTZaUVZSazByOVQ0cHRiQ1VnbXpSRUZ4QUtnbkt4N0Q0dTlVRkg3b0x6RENlU19HU3hLR0JESXU4Q0tZQnZTTm9IaS1hQVUzTkgyNGV3bk9yNGY2MjFWZ0kxcmtxX1V0NjN0MGhGTTBkZWdiaHh5Z2pDVWJBWmYxaWx0U0VaWXEzNEVwVm9pQndTckxnRjk1aFHSAdQBQVVfeXFMUGc2ZjhOb2tQQVFhY3E2cmVUS1pGeVkwWnYwRzhHel93UHlxUmFGc2c4UVplc2E3M0VIMnZYeU5xN3pvNXFVUl9kZ1dlb2c1dnkzRFV6UU9rd2d5NjczZTNySHI4NFI2Y1hTell5RGtfcXV2Wk5adzZaNy1hRV9TX0IxbDBFZUdBRmJEYWJIclN5SDBxajBMSGNTM1kwR2FaLWYxWm9wYkRKelNya0ZWOGxLZzZTRDZENXNKekR5dUEydWJ1TGlPa0pMaEcxbUJ3bFBieEQ?oc=5
 
-- ‘Not the cold robots we were promised’: Anthropic co-founder tells Pope AI is ‘made from us’
-  Anthropic's co-founder Christopher Olah has warned about impending job displacements owing to AI.
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-co-founder-urges-for-global-oversight-as-ai-threatens-to-displace-human-jobs-at-a-very-large-scale-11779763084284.html
-
-- Researchers warn new WiFi technology can identify your even without tracking your phone: ‘Means for surveillance’
-  Researchers at the Karlsruhe Institute of Technology warn that WiFi routers can be transformed
-  🔗 https://www.livemint.com/technology/tech-news/scientists-warn-this-wifi-tracking-method-could-identify-you-without-a-phone-and-almost-nobody-would-notice-11779757409026.html
-
-- ONGC Q4 Results: Cons PAT jumps 46% YoY to Rs 10,820 crore, revenue up 4%
-  ONGC reported a significant 46% surge in consolidated net profit to Rs 10,820 crore for the March-ended quarter. The company also recommended a final dividend and approved a joint venture for a liquid port in Dahej, Gujarat
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ongc-q4-results-cons-pat-jumps-46-yoy-to-rs-10820-crore-revenue-up-4/articleshow/131333234.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Domestic equity benchmarks ended lower on Tuesday, snapping a three-session rally. Analysts said Nifty may remain positive above key support levels despite near-term weakness.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131332802.cms
-
-- JK Tyre charts Rs 4,900 crore capex to scale up capacity by 24% through FY30
-  JK Tyre has planned a Rs 4,900 crore capital expenditure through FY30 to expand production capacity by nearly 25%. The company reported strong FY26 earnings growth.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jk-tyre-charts-rs-4900-crore-capex-to-scale-up-capacity-by-24-through-fy30/articleshow/131332667.cms
-
-- Contract manufacturer Aequs posts 33% growth in revenue in FY26, losses widen for the year
-  Aequs reported a 33% rise in FY26 revenue driven by strong aerospace and consumer business growth. Despite higher sales, losses widened due to operating costs from its consumer electronics expansion.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/contract-manufacturer-aequs-posts-33-growth-in-revenue-in-fy26-losses-widen-for-the-year/articleshow/131332624.cms
-
-- US consumer confidence ebbs in May as inflation worries mount
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-confidence-ebbs-in-may-as-inflation-worries-mount/articleshow/131332256.cms
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat Amid Uncertainty Over US-Iran Deal - NDTV
+  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWFOUUFMOWo1bE5iR3BjWTB4TkdYQlBSTUpOVmFqZEVCcXRLWnI5VEEzRmg5dnZsSElrZG1sWGJsRTVDNXV6b1BHbDdTODgtSDA2U1prNmREb2VYMWtudVFYNl9pbExFXzdwTDZ2RE5VNG50c1RqZDU2TTZQZG5Hb3lHVmk2SF9DWW4zR1JlVlBMZy1JWWpFYzlvcjF6ckhVNGlrWk5IYzhfZ2I3N1UxZFRHSFZLQ1d6UmgteFo5Zlg2QXktWXZOSlVUTdIB0wFBVV95cUxQaDNFd3IzdlJVWDdJcTdMOU0tQ2tXOHZ2Z2tWRzB1bmMwUUNsSHQzc3l0US1tVnlic19MUk1zWVZEaElzZEpILXl5YlE5Qm1vZVdRZWRuSjJrNU1HQXVYa3FOWjd2SS1ycElUbnZkb3dCTDF1SHhWYXVMOTlfcjhleWREcGlnTE9oRVd2MnhmT3ZUbTlSUkNtbHZVMmxEY01URmNsU21MX1lGbVdnMWdGOG85cldPTkZxLWhCaE1fQUZPU2h2ekU5T1RGWUswdlNOa3pz?oc=5
 
 - "Abhi Toh Yeh Trailer Hai": Top Market Voice Sounds Alarm On India's White-Collar Jobs - NDTV
   "Abhi Toh Yeh Trailer Hai": Top Market
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
 
-- ‘I’m from Miami’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
-  Rubio: ‘I’m from Miami’ but
+- ‘I’m from Miami,’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
+  Rubio: ‘I’m from Miami,’
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdnV2pidWVHRGlzLTlOREFPQ2l1ek9qenZ4TlUtSlJHXzhsY21xS0ViMTVEaGJJT1JScDVheTZJYzdOTERRQnZkY1VKSEtxZl9pZjNVWmpFZEpuVE1ocEVwMGF1V3FiNWdKeng0dk9qdk5tSVUxdDEwai1kdnQ0TUhMVHU?oc=5
 
-- SC stays HC order allowing truants to take exams - The Times of India
-  The Times of India is a leading newspaper in India
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlFSmdiMzQzU2dnd3ZUbkctTXpZaVg5c1EzYkFNZTdidjc3aUh5ZzRYNmFPX1hucDR2Xzg5bjFaYVZuUEhDczZvWGx3VTBqaldpSV9pY0JMalRqenptbTdvQzhCelVCanFGQjFZdTNLbWFEWm11RlFKdUFZUk1QdUw3RXhsbmxmTG1CLV9ray01SmVxTFM2MEt1VUVWLTFydUhnU21OSjJlNG5EQ2FSLVplcVBqaGfSAbwBQVVfeXFMTzZuUXNic2dZS25tem1UazVFSjdCRUhJbWxuc3lKdEFkZlBLVjNLajkxUVhHdkxNeVE2SFZHSzdDakpiZ2VjLUhuRVZWa212UUlDTXlCcDFtNzIxVkxiLVVjWXY0dFAxQVZFQWNqWFZkdHlHdlFYN1BjREZLeEdvdmFoZS04REpnVmJ1WmFyYjFFcWdPQXE2QTBzd3pWNXZIb3BrVUtuWDRieGp6aUptTWJpeUIyRkRTQTdfRVI?oc=5
+- Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adhikari says quit India - The Times of India
+  Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYS11NzZab1JjRkpaTjdxT3NQQnZkWGR0NXpNY0wzVkh6MXpEVjN4QW55NEt2SGNfQlJnSUZNLTNBSFlkTkRyZkl5SzNXTEs5SGExdlNuS1ZNN0dyTWNhcENPNmlyN0hiTzlrUmhfQVlrUjlFbEFxYjFUS3FwYmNUZHlnRmZPV2hGeEdBcVI2VUJZZEh2eUZld0lSTmdHN1Z0TURsZ3llaHdZWmYtUjBMSk5HMWpycUVmcEtmUjlsdGNjUW9BWG40WUNBT1RMWHYtdVpxNm9US25SLUdzbDVPaS1KaUVoMXhJ0gHuAUFVX3lxTE9Oek9leWdXS3FzMGdHTVBfb1c5elQ5UEVBbDRqbGpRc1gxWnNjS2ZaWUc4Tk5Obzh1eFl0U3ZNaHhSTXFyaHYxZ1Qxbl83OGFnUlgyVlBPZmRlYkNjRVk3VnlRT0lJNDg0VmlLOUZSZ0VpanJheTI1Z2tvMHh3RGpkN2FpalhHTFZpenRYdDNRR29QRWVOVVIyYng4SGdxWW5ldmp1ZnJiRUFna2FucWJrTkl3T1JVQmNfQW83cjU0ajNGTzQ4Q2tuUTRHZDVfRDcxcEswVGctZ29ETmJ1WUpDeWt0ZkxuTkwxVjBNWFE?oc=5
 
-- Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed India by 2047 at Impact With Youth Conclave 2024 | Akashvani News - News On AIR
-  Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJlNjFNWXp6VUdMc2ZWRkhEV3ZaM3Q2Qk1FTndMRGx3NTNhTG41VHZuQ1QyZjltM1YtN1NCRG4tWjBTdnlxT2p2SmlZcVFWNlRFZlFpVDVMejhVN2xMaHYya2E0NmtuWEVoRVJaeUxKTzhfVTNaOEdSVV91X2x3QVhmX1ZTZ1NVSlU4cWFsLWZlaERqRy1lUWJIaEdLNVVKODA2anIyWUJmcFd0VFVKcUlHVkNWVnRhcFJWVnFnNGY2ckdxNzY1Wm9ZaGl1eTNNSTF4OWpucHhmS3hXMEJj?oc=5
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
 
 - ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
   Al Jazeera reports on the death of a student in India.
@@ -144,17 +124,17 @@
   "Abhi Toh Yeh Trailer Hai": Top Market
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
 
-- ‘I’m from Miami’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
-  Rubio: ‘I’m from Miami’ but
+- ‘I’m from Miami,’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
+  Rubio: ‘I’m from Miami,’
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdnV2pidWVHRGlzLTlOREFPQ2l1ek9qenZ4TlUtSlJHXzhsY21xS0ViMTVEaGJJT1JScDVheTZJYzdOTERRQnZkY1VKSEtxZl9pZjNVWmpFZEpuVE1ocEVwMGF1V3FiNWdKeng0dk9qdk5tSVUxdDEwai1kdnQ0TUhMVHU?oc=5
 
-- SC stays HC order allowing truants to take exams - The Times of India
-  The Times of India is a leading newspaper in India
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlFSmdiMzQzU2dnd3ZUbkctTXpZaVg5c1EzYkFNZTdidjc3aUh5ZzRYNmFPX1hucDR2Xzg5bjFaYVZuUEhDczZvWGx3VTBqaldpSV9pY0JMalRqenptbTdvQzhCelVCanFGQjFZdTNLbWFEWm11RlFKdUFZUk1QdUw3RXhsbmxmTG1CLV9ray01SmVxTFM2MEt1VUVWLTFydUhnU21OSjJlNG5EQ2FSLVplcVBqaGfSAbwBQVVfeXFMTzZuUXNic2dZS25tem1UazVFSjdCRUhJbWxuc3lKdEFkZlBLVjNLajkxUVhHdkxNeVE2SFZHSzdDakpiZ2VjLUhuRVZWa212UUlDTXlCcDFtNzIxVkxiLVVjWXY0dFAxQVZFQWNqWFZkdHlHdlFYN1BjREZLeEdvdmFoZS04REpnVmJ1WmFyYjFFcWdPQXE2QTBzd3pWNXZIb3BrVUtuWDRieGp6aUptTWJpeUIyRkRTQTdfRVI?oc=5
+- Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adhikari says quit India - The Times of India
+  Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYS11NzZab1JjRkpaTjdxT3NQQnZkWGR0NXpNY0wzVkh6MXpEVjN4QW55NEt2SGNfQlJnSUZNLTNBSFlkTkRyZkl5SzNXTEs5SGExdlNuS1ZNN0dyTWNhcENPNmlyN0hiTzlrUmhfQVlrUjlFbEFxYjFUS3FwYmNUZHlnRmZPV2hGeEdBcVI2VUJZZEh2eUZld0lSTmdHN1Z0TURsZ3llaHdZWmYtUjBMSk5HMWpycUVmcEtmUjlsdGNjUW9BWG40WUNBT1RMWHYtdVpxNm9US25SLUdzbDVPaS1KaUVoMXhJ0gHuAUFVX3lxTE9Oek9leWdXS3FzMGdHTVBfb1c5elQ5UEVBbDRqbGpRc1gxWnNjS2ZaWUc4Tk5Obzh1eFl0U3ZNaHhSTXFyaHYxZ1Qxbl83OGFnUlgyVlBPZmRlYkNjRVk3VnlRT0lJNDg0VmlLOUZSZ0VpanJheTI1Z2tvMHh3RGpkN2FpalhHTFZpenRYdDNRR29QRWVOVVIyYng4SGdxWW5ldmp1ZnJiRUFna2FucWJrTkl3T1JVQmNfQW83cjU0ajNGTzQ4Q2tuUTRHZDVfRDcxcEswVGctZ29ETmJ1WUpDeWt0ZkxuTkwxVjBNWFE?oc=5
 
-- Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed India by 2047 at Impact With Youth Conclave 2024 | Akashvani News - News On AIR
-  Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJlNjFNWXp6VUdMc2ZWRkhEV3ZaM3Q2Qk1FTndMRGx3NTNhTG41VHZuQ1QyZjltM1YtN1NCRG4tWjBTdnlxT2p2SmlZcVFWNlRFZlFpVDVMejhVN2xMaHYya2E0NmtuWEVoRVJaeUxKTzhfVTNaOEdSVV91X2x3QVhmX1ZTZ1NVSlU4cWFsLWZlaERqRy1lUWJIaEdLNVVKODA2anIyWUJmcFd0VFVKcUlHVkNWVnRhcFJWVnFnNGY2ckdxNzY1Wm9ZaGl1eTNNSTF4OWpucHhmS3hXMEJj?oc=5
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
 
 - ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
   Al Jazeera reports on the death of a student in India.
@@ -164,17 +144,17 @@
   "Abhi Toh Yeh Trailer Hai": Top Market
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
 
-- ‘I’m from Miami’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
-  Rubio: ‘I’m from Miami’ but
+- ‘I’m from Miami,’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
+  Rubio: ‘I’m from Miami,’
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdnV2pidWVHRGlzLTlOREFPQ2l1ek9qenZ4TlUtSlJHXzhsY21xS0ViMTVEaGJJT1JScDVheTZJYzdOTERRQnZkY1VKSEtxZl9pZjNVWmpFZEpuVE1ocEVwMGF1V3FiNWdKeng0dk9qdk5tSVUxdDEwai1kdnQ0TUhMVHU?oc=5
 
-- SC stays HC order allowing truants to take exams - The Times of India
-  The Times of India is a leading newspaper in India
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlFSmdiMzQzU2dnd3ZUbkctTXpZaVg5c1EzYkFNZTdidjc3aUh5ZzRYNmFPX1hucDR2Xzg5bjFaYVZuUEhDczZvWGx3VTBqaldpSV9pY0JMalRqenptbTdvQzhCelVCanFGQjFZdTNLbWFEWm11RlFKdUFZUk1QdUw3RXhsbmxmTG1CLV9ray01SmVxTFM2MEt1VUVWLTFydUhnU21OSjJlNG5EQ2FSLVplcVBqaGfSAbwBQVVfeXFMTzZuUXNic2dZS25tem1UazVFSjdCRUhJbWxuc3lKdEFkZlBLVjNLajkxUVhHdkxNeVE2SFZHSzdDakpiZ2VjLUhuRVZWa212UUlDTXlCcDFtNzIxVkxiLVVjWXY0dFAxQVZFQWNqWFZkdHlHdlFYN1BjREZLeEdvdmFoZS04REpnVmJ1WmFyYjFFcWdPQXE2QTBzd3pWNXZIb3BrVUtuWDRieGp6aUptTWJpeUIyRkRTQTdfRVI?oc=5
+- Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adhikari says quit India - The Times of India
+  Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYS11NzZab1JjRkpaTjdxT3NQQnZkWGR0NXpNY0wzVkh6MXpEVjN4QW55NEt2SGNfQlJnSUZNLTNBSFlkTkRyZkl5SzNXTEs5SGExdlNuS1ZNN0dyTWNhcENPNmlyN0hiTzlrUmhfQVlrUjlFbEFxYjFUS3FwYmNUZHlnRmZPV2hGeEdBcVI2VUJZZEh2eUZld0lSTmdHN1Z0TURsZ3llaHdZWmYtUjBMSk5HMWpycUVmcEtmUjlsdGNjUW9BWG40WUNBT1RMWHYtdVpxNm9US25SLUdzbDVPaS1KaUVoMXhJ0gHuAUFVX3lxTE9Oek9leWdXS3FzMGdHTVBfb1c5elQ5UEVBbDRqbGpRc1gxWnNjS2ZaWUc4Tk5Obzh1eFl0U3ZNaHhSTXFyaHYxZ1Qxbl83OGFnUlgyVlBPZmRlYkNjRVk3VnlRT0lJNDg0VmlLOUZSZ0VpanJheTI1Z2tvMHh3RGpkN2FpalhHTFZpenRYdDNRR29QRWVOVVIyYng4SGdxWW5ldmp1ZnJiRUFna2FucWJrTkl3T1JVQmNfQW83cjU0ajNGTzQ4Q2tuUTRHZDVfRDcxcEswVGctZ29ETmJ1WUpDeWt0ZkxuTkwxVjBNWFE?oc=5
 
-- Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed India by 2047 at Impact With Youth Conclave 2024 | Akashvani News - News On AIR
-  Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJlNjFNWXp6VUdMc2ZWRkhEV3ZaM3Q2Qk1FTndMRGx3NTNhTG41VHZuQ1QyZjltM1YtN1NCRG4tWjBTdnlxT2p2SmlZcVFWNlRFZlFpVDVMejhVN2xMaHYya2E0NmtuWEVoRVJaeUxKTzhfVTNaOEdSVV91X2x3QVhmX1ZTZ1NVSlU4cWFsLWZlaERqRy1lUWJIaEdLNVVKODA2anIyWUJmcFd0VFVKcUlHVkNWVnRhcFJWVnFnNGY2ckdxNzY1Wm9ZaGl1eTNNSTF4OWpucHhmS3hXMEJj?oc=5
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
 
 - ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
   Al Jazeera reports on the death of a student in India.
@@ -184,41 +164,49 @@
   "Abhi Toh Yeh Trailer Hai": Top Market
   🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
 
-- ‘I’m from Miami’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
-  Rubio: ‘I’m from Miami’ but
+- ‘I’m from Miami,’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
+  Rubio: ‘I’m from Miami,’
   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdnV2pidWVHRGlzLTlOREFPQ2l1ek9qenZ4TlUtSlJHXzhsY21xS0ViMTVEaGJJT1JScDVheTZJYzdOTERRQnZkY1VKSEtxZl9pZjNVWmpFZEpuVE1ocEVwMGF1V3FiNWdKeng0dk9qdk5tSVUxdDEwai1kdnQ0TUhMVHU?oc=5
 
-- SC stays HC order allowing truants to take exams - The Times of India
-  The Times of India is a leading newspaper in India
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlFSmdiMzQzU2dnd3ZUbkctTXpZaVg5c1EzYkFNZTdidjc3aUh5ZzRYNmFPX1hucDR2Xzg5bjFaYVZuUEhDczZvWGx3VTBqaldpSV9pY0JMalRqenptbTdvQzhCelVCanFGQjFZdTNLbWFEWm11RlFKdUFZUk1QdUw3RXhsbmxmTG1CLV9ray01SmVxTFM2MEt1VUVWLTFydUhnU21OSjJlNG5EQ2FSLVplcVBqaGfSAbwBQVVfeXFMTzZuUXNic2dZS25tem1UazVFSjdCRUhJbWxuc3lKdEFkZlBLVjNLajkxUVhHdkxNeVE2SFZHSzdDakpiZ2VjLUhuRVZWa212UUlDTXlCcDFtNzIxVkxiLVVjWXY0dFAxQVZFQWNqWFZkdHlHdlFYN1BjREZLeEdvdmFoZS04REpnVmJ1WmFyYjFFcWdPQXE2QTBzd3pWNXZIb3BrVUtuWDRieGp6aUptTWJpeUIyRkRTQTdfRVI?oc=5
+- Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adhikari says quit India - The Times of India
+  Hundreds try to flee to Bangladesh as West Bengal CM Suvendu Adh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYS11NzZab1JjRkpaTjdxT3NQQnZkWGR0NXpNY0wzVkh6MXpEVjN4QW55NEt2SGNfQlJnSUZNLTNBSFlkTkRyZkl5SzNXTEs5SGExdlNuS1ZNN0dyTWNhcENPNmlyN0hiTzlrUmhfQVlrUjlFbEFxYjFUS3FwYmNUZHlnRmZPV2hGeEdBcVI2VUJZZEh2eUZld0lSTmdHN1Z0TURsZ3llaHdZWmYtUjBMSk5HMWpycUVmcEtmUjlsdGNjUW9BWG40WUNBT1RMWHYtdVpxNm9US25SLUdzbDVPaS1KaUVoMXhJ0gHuAUFVX3lxTE9Oek9leWdXS3FzMGdHTVBfb1c5elQ5UEVBbDRqbGpRc1gxWnNjS2ZaWUc4Tk5Obzh1eFl0U3ZNaHhSTXFyaHYxZ1Qxbl83OGFnUlgyVlBPZmRlYkNjRVk3VnlRT0lJNDg0VmlLOUZSZ0VpanJheTI1Z2tvMHh3RGpkN2FpalhHTFZpenRYdDNRR29QRWVOVVIyYng4SGdxWW5ldmp1ZnJiRUFna2FucWJrTkl3T1JVQmNfQW83cjU0ajNGTzQ4Q2tuUTRHZDVfRDcxcEswVGctZ29ETmJ1WUpDeWt0ZkxuTkwxVjBNWFE?oc=5
 
-- Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed India by 2047 at Impact With Youth Conclave 2024 | Akashvani News - News On AIR
-  Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJlNjFNWXp6VUdMc2ZWRkhEV3ZaM3Q2Qk1FTndMRGx3NTNhTG41VHZuQ1QyZjltM1YtN1NCRG4tWjBTdnlxT2p2SmlZcVFWNlRFZlFpVDVMejhVN2xMaHYya2E0NmtuWEVoRVJaeUxKTzhfVTNaOEdSVV91X2x3QVhmX1ZTZ1NVSlU4cWFsLWZlaERqRy1lUWJIaEdLNVVKODA2anIyWUJmcFd0VFVKcUlHVkNWVnRhcFJWVnFnNGY2ckdxNzY1Wm9ZaGl1eTNNSTF4OWpucHhmS3hXMEJj?oc=5
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
 
 - ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
   Al Jazeera reports on the death of a student in India.
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONm5KQTZUOUVzUEUzak9qbG9xby0wN0tKT010ZUluX255UVNNMWtjQ3VsSTBvOXBKcGZqRU5uQkRGWlVERjk0VWsxTVEzLS1pM1pQSDVvVWRpcnZYMkFoSTBheEdKNFV4OGYwbjhJa2lLRE5fT2ZJSno2UnhFUVgwNm5CbmJST21DM3ZLUmUyaWpkb0doSUsyMklTeUdiY3FZazY2ajRueDJ1WUtVVWtv0gG0AUFVX3lxTFAzZHBacmwyNXdxLXZjbFZieFlDaFNkaFFxcUQwZkNVSHV6M2YxSm95WUlSQlVqbUU2WXRWanYwV3NGMDZPNnpPQ1ZZOTZ2cVhKRUhPZEQ3OEVNR3JjQlFNbWxOZWJaT3Fvb3FyVzMwaUFOamRUeC02RzVVTDZvRUZrMFc1b3Zuc0QyX3cwZHhmWXMwY3djTnRjTmVVc2Q3OTRQUjhpVXlBQVduNFZzbXloVTNHWQ?oc=5
 
-- "Abhi Toh Yeh Trailer Hai": Top Market Voice Sounds Alarm On India's White-Collar Jobs - NDTV
-  "Abhi Toh Yeh Trailer Hai": Top Market
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1ZrdllhY1BVeGE1Tnp1QjNlZjVmVUZUcXk4VXZtaTVlc2NVUmNHQlRhLVhDS3dZek5rcDk3R2ZNZUxfRWhCcjRwWmNDMEltdWx1MU5TT2J1b1o5d0dsNVNVaUNyMzFaS0hlbmhCdHluS0NXaVlNZFZzTDh3U0IzbXhQZy1YZmpFVUNHNkV5Z0hsNjFvWUhJVnRsLUFfYzBPTkNHUk5xQzI3UDJCQmR3RGZwUHluQ1BqVmtpRGhya1ZvQlkydG5MUUl4QjRINkct0gHYAUFVX3lxTE5sMS1fRmNIckI1Y2cyYlhkRnJFd1czekRsNW1HbWhiQXR4dlRCVW01RkYzNWJBb2pQcmsxc2oweHd4T1BtSUVhTFlPUm01cElKLWlqcWY0cXVYOGZObGd2RG5QbF81MlNLR05wVXlvdV8tRExnVnhKVnNQSGtlOGJ4aXMzNUxjWWs1X29QU21HN29SeWdUN3FidDFNVG10TWp0NEs2bjc3T2V6dlNDbTl5U0V3cjdJZ2NHUmt0TUlJMlhDemZzd1JQR0piLWVEM0JraGpEUjNseA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- ‘I’m from Miami’ but ‘it’s hot’: Rubio tours India as temperatures soar past 100 degrees - NBC News
-  Rubio: ‘I’m from Miami’ but
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTdnV2pidWVHRGlzLTlOREFPQ2l1ek9qenZ4TlUtSlJHXzhsY21xS0ViMTVEaGJJT1JScDVheTZJYzdOTERRQnZkY1VKSEtxZl9pZjNVWmpFZEpuVE1ocEVwMGF1V3FiNWdKeng0dk9qdk5tSVUxdDEwai1kdnQ0TUhMVHU?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- SC stays HC order allowing truants to take exams - The Times of India
-  The Times of India is a leading newspaper in India
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlFSmdiMzQzU2dnd3ZUbkctTXpZaVg5c1EzYkFNZTdidjc3aUh5ZzRYNmFPX1hucDR2Xzg5bjFaYVZuUEhDczZvWGx3VTBqaldpSV9pY0JMalRqenptbTdvQzhCelVCanFGQjFZdTNLbWFEWm11RlFKdUFZUk1QdUw3RXhsbmxmTG1CLV9ray01SmVxTFM2MEt1VUVWLTFydUhnU21OSjJlNG5EQ2FSLVplcVBqaGfSAbwBQVVfeXFMTzZuUXNic2dZS25tem1UazVFSjdCRUhJbWxuc3lKdEFkZlBLVjNLajkxUVhHdkxNeVE2SFZHSzdDakpiZ2VjLUhuRVZWa212UUlDTXlCcDFtNzIxVkxiLVVjWXY0dFAxQVZFQWNqWFZkdHlHdlFYN1BjREZLeEdvdmFoZS04REpnVmJ1WmFyYjFFcWdPQXE2QTBzd3pWNXZIb3BrVUtuWDRieGp6aUptTWJpeUIyRkRTQTdfRVI?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed India by 2047 at Impact With Youth Conclave 2024 | Akashvani News - News On AIR
-  Mansukh Mandaviya Highlights Youth’s Crucial Role in Achieving Developed
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJlNjFNWXp6VUdMc2ZWRkhEV3ZaM3Q2Qk1FTndMRGx3NTNhTG41VHZuQ1QyZjltM1YtN1NCRG4tWjBTdnlxT2p2SmlZcVFWNlRFZlFpVDVMejhVN2xMaHYya2E0NmtuWEVoRVJaeUxKTzhfVTNaOEdSVV91X2x3QVhmX1ZTZ1NVSlU4cWFsLWZlaERqRy1lUWJIaEdLNVVKODA2anIyWUJmcFd0VFVKcUlHVkNWVnRhcFJWVnFnNGY2ckdxNzY1Wm9ZaGl1eTNNSTF4OWpucHhmS3hXMEJj?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger - Al Jazeera
-  Al Jazeera reports on the death of a student in India.
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxONm5KQTZUOUVzUEUzak9qbG9xby0wN0tKT010ZUluX255UVNNMWtjQ3VsSTBvOXBKcGZqRU5uQkRGWlVERjk0VWsxTVEzLS1pM1pQSDVvVWRpcnZYMkFoSTBheEdKNFV4OGYwbjhJa2lLRE5fT2ZJSno2UnhFUVgwNm5CbmJST21DM3ZLUmUyaWpkb0doSUsyMklTeUdiY3FZazY2ajRueDJ1WUtVVWtv0gG0AUFVX3lxTFAzZHBacmwyNXdxLXZjbFZieFlDaFNkaFFxcUQwZkNVSHV6M2YxSm95WUlSQlVqbUU2WXRWanYwV3NGMDZPNnpPQ1ZZOTZ2cVhKRUhPZEQ3OEVNR3JjQlFNbWxOZWJaT3Fvb3FyVzMwaUFOamRUeC02RzVVTDZvRUZrMFc1b3Zuc0QyX3cwZHhmWXMwY3djTnRjTmVVc2Q3OTRQUjhpVXlBQVduNFZzbXloVTNHWQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-26 20:06:16 UTC_
+_Last updated: 2026-05-27 02:56:10 UTC_
