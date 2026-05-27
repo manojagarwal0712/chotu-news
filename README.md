@@ -1,44 +1,48 @@
 # 📰 Daily News Summaries
 
-- The hunt for Misir Besra: Man who made a daring escape once now among last top Maoists standing
+- When Vijay met Modi: Some pressing issues, and a thank you
   
-  🔗 https://indianexpress.com/article/india/the-hunt-for-misir-besra-man-who-made-a-daring-escape-once-now-among-last-top-maoists-standing-10710481/
+  🔗 https://indianexpress.com/article/india/when-vijay-met-modi-some-pressing-issues-and-a-thank-you-10711104/
 
-- ‘Would new Kerala CM connive at this?’: Shashi Tharoor rejects CPM charge linking Congress to ED raids on Vijayan
+- Demolish all illegal structures within 15 km of International Border, Amit Shah says
   
-  🔗 https://indianexpress.com/article/india/vijayan-ed-raids-shashi-tharoor-cpm-charge-congress-john-brittas-10710073/
+  🔗 https://indianexpress.com/article/india/amit-shah-border-security-review-illegal-structures-indo-pak-border-10711026/
 
-- India tears into Pakistan at UNSC over ‘sponsoring cross-border terrorism’; ‘will face consequences’
+- ‘Will act against officials who demolished your homes’: J&K minister to Gujjar-Bakarwals on Eid
   
-  🔗 https://indianexpress.com/article/india/india-pakistan-unsc-sponsoring-cross-border-terrorism-10710079/
+  🔗 https://indianexpress.com/article/india/jammu-raika-bandi-forest-demolition-javed-rana-gujjar-bakarwal-fra-10711023/
 
-- NEET-UG 2026 paper leak: CBI arrests Latur doctor, Pune coaching centre faculty
+- Cabinet okays Rs 25,530 crore outlay to extend, modernise SARTHAK-PDS scheme till 2031
   
-  🔗 https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-two-more-arrests-10709998/
+  🔗 https://indianexpress.com/article/india/sarthak-pds-cabinet-approval-food-distribution-reforms-india-10710812/
 
-- Heatwave relief soon as IMD predicts monsoon onset; here are the states getting heavy rain today
+- Air India Boeing 777 develops snag over Chinese airspace, turns back to Delhi after 8 hours in air
   
-  🔗 https://indianexpress.com/article/india/monsoon-imd-heavy-rain-alert-northeast-south-india-10709889/
+  🔗 https://indianexpress.com/article/india/air-india-delhi-san-francisco-flight-returns-8-hours-china-10710858/
 
-- Google expands health ecosystem with Google Health app
+- Nasa unveils Moon Base roadmap with lunar rovers, cargo landers, and South Pole missions
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-expands-health-ecosystem-with-google-health-app-10710407/
+  🔗 https://indianexpress.com/article/technology/science/nasa-unveils-moon-base-roadmap-with-lunar-rovers-cargo-landers-and-south-pole-missions-10710994/
 
-- The $1 trillion club gets new members: SK Hynix and Micron, thanks to AI boom
+- Tech and gadget updates today (May 27, 2026): Samsung Vision AI TVs, Philips soundbars and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-1-trillion-club-gets-new-members-sk-hynix-and-micron-thanks-to-ai-boom-10710399/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-updates-today-may-27-2026-samsung-vision-ai-tvs-philips-soundbars-and-more-10710883/
 
-- Amazon unveils Echo Dot Max, Echo Studio with spatial audio and smart home hubs
+- CERT-In’s new AI cybersecurity guidelines call for 12-hour patch windows for critical flaws: Key takeaways
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-unveils-echo-dot-max-echo-studio-with-spatial-audio-10710245/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/cert-in-ai-cyber-attack-blueprint-guidelines-india-10710958/
 
-- Social media as bad for children as smoking, British doctors say
+- Meet Maextro S800: China’s tech-heavy answer to Rolls-Royce and Maybach
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/social-media-as-bad-for-children-as-smoking-british-doctors-say-10710229/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meet-maextro-s800-chinas-tech-heavy-answer-to-rolls-royce-and-maybach-10710806/
 
-- XREAL launches affordable AR glasses brand ‘xbx’ with lightweight a01 smart glasses
+- WhatsApp may soon get usernames: Here’s how the privacy feature works
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/xreal-launches-affordable-ar-glasses-brand-xbx-with-lightweight-a01-smart-glasses-10710001/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-may-soon-get-usernames-heres-how-the-privacy-feature-works-10710549/
+
+- Byju Raveendran directed to appear in Singapore court on 15 June after contempt case order: ‘Appeal options available’
+  Byju Raveendran is directed to appear in a Singapore court on 15 June in a contempt of court case. The entrepreneur received a six-month jail sentence over alleged failure to comply with disclosure orders
+  🔗 https://www.livemint.com/companies/byjus-founder-raveendran-to-appear-in-singapore-court-on-june-15-as-he-faces-contempt-order-appeal-options-available-11779871349992.html
 
 - SBI Funds starts roadshows for a  ₹13,000-crore IPO, aims launch by July
   SBI Funds Management, India’s largest asset manager, is said to be in talks with investors to raise about  ₹13,000 crore through an IPO. This comes at a time when India's public
@@ -56,35 +60,31 @@
   Chairman Challa Sreenivasulu Setty has positioned human capital at the centre of S
   🔗 https://www.livemint.com/companies/news/sbi-tech-overhaul-ai-driven-banking-human-capital-people-skills-leadership-11779853201790.html
 
-- From off-highway tyres to on-road — Balkrishna broadens its bets
-  Balkrishna Industries built its business around exporting specialized off-highway tyres. Now, as tariff wars and geopolitical tensions reshape trade, it is diversifying into new segments and
-  🔗 https://www.livemint.com/companies/facing-an-uncertain-world-india-s-second-largest-tyre-player-is-hedging-its-bets-11779850641213.html
+- Reliance Industries announces 49th AGM date, sets record date for FY26 dividend
+  Reliance Industries' 49th AGM will be held on 19 June 2026. The company reported a 12.9% increase in Q1 revenue and a 16
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-announces-49th-agm-date-sets-record-date-for-fy26-dividend-11779893994657.html
 
-- After earnings beat, AIA Engineering banks on new mining solution for volume uptick
-  Successful conversion of miners to hi-chrome media and acceptance of mill liners
-  🔗 https://www.livemint.com/market/mark-to-market/aia-engineering-share-price-grinding-media-hi-chrome-media-mining-sector-india-11779870550963.html
+- Wall Street mixed as oil prices slide on Iran deal hopes, Micron surges 5.6%, GlobalFoundries falls 9%
+  The S&amp;amp;P 500 was virtually unchanged, the Dow Jones Industrial Average was up 0.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-rises-as-oil-prices-slide-on-iran-deal-hopes-11779890511434.html
 
-- Taiwan beats India in market cap race, but Deepak Shenoy says India shouldn’t chase “false accolades”
-   Taiwan's stock market, heavily reliant on TSMC, has surpassed India's in value due to AI demand. Experts warn against simplistic comparisons, urging a focus on deeper economic
-  🔗 https://www.livemint.com/market/stock-market-news/taiwan-beats-india-in-market-cap-race-but-deepak-shenoy-says-india-shouldn-t-chase-false-accolades-11779869859542.html
+- Gold, silver rates today: Comex gold drops $81/oz; silver tumbles $3 as traders weigh US-Iran deal prospects
+  Gold falls to $4,421 and silver down to $73.72. Concerns over inflation and interest rates persist. US strikes on Iran raise doubts about a potential peace deal.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-81-oz-silver-tumbles-3-as-traders-weigh-us-iran-deal-prospects-11779886140932.html
 
-- Do you know what an Offer for Sale (OFS) is? Here's a complete guide
-  An Offer for Sale (OFS) allows current shareholders to divest ownership in a publicly traded company via the stock exchange. It differs from an IPO as it does not issue new shares
-  🔗 https://www.livemint.com/market/stock-market-news/do-you-know-what-an-offer-for-sale-ofs-is-heres-a-complete-guide-11779869911635.html
+- HDFC Bank shares fall as report flags camouflaged payments; may not affect CEO reappointment, though
+  HDFC Bank fell over a report that it internally investigated  ₹45 crore in payments linked to MSRDC deposits. Yet, it is unlikely to affect the reappointment of CEO Sashidhar Jag
+  🔗 https://www.livemint.com/market/hdfc-shares-msrdc-payment-report-governance-11779880605342.html
 
-- Multibagger HFCL shares surge 9% to record high on  ₹135 crore RailTel order; stock up 160% in under 2 months
-  HFCL's shares rose 9% to an all-time high after securing a  ₹135.09 crore order for maintenance services from
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-hfcl-shares-surge-9-to-record-high-on-rs-135-crore-railtel-order-stock-up-160-in-under-2-months-11779871157295.html
-
-- Bajaj Auto share price jumps ahead of dividend record date. Should you buy the stock?
-  Bajaj Auto dividend record date has been fixed as 29 May 2026, Friday, for determining eligibility of the shareholders to receive the dividend
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-auto-share-price-jumps-ahead-of-dividend-record-date-should-you-buy-the-stock-11779870500811.html
+- US stock market today: Dow Jones, Nasdaq rise up to 0.7% as chip stock rally extends; Micron jumps 9%
+  The S&amp;amp;P 500, Nasdaq, and Dow Jones saw modest gains. chip stocks thrived amid AI optimism and strong earnings. Investors await PCE data for monetary policy insights.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-nasdaq-rise-up-to-0-7-as-chip-stock-rally-extends-micron-jumps-9-11779880136664.html
 
 - Apple Watch or Garmin? I asked ChatGPT which smartwatch makes more sense and here’s the verdict
   ChatGPT breaks down which smartwatch fits me better for gym, running, recovery, battery life, and long-term use.
   🔗 https://www.livemint.com/technology/gadgets/apple-watch-or-garmin-i-asked-chatgpt-which-smartwatch-makes-more-sense-and-here-s-the-verdict-11779870667662.html
 
-- Apple, Samsung could gain market share as ‘ultra-cheap smartphone’ comes to an end: Report
+- Apple, Samsung could gain market share as ‘ultra-cheap smartphone’ era comes to an end: Report
   The smartphone market may face its worst year in 2026 with a 13.9% decline in shipments predicted. Apple and Samsung could see
   🔗 https://www.livemint.com/technology/tech-news/apple-samsung-could-gain-market-share-as-ultra-cheap-smartphone-comes-to-an-end-report-11779866038073.html
 
@@ -100,45 +100,125 @@
   Fitness wearables are shifting beyond step counts into AI-powered recovery scores, sleep intelligence, stress tracking and
   🔗 https://www.livemint.com/technology/gadgets/from-whoop-to-samsung-9-fitness-wearables-redefining-sleep-recovery-and-ai-health-tracking-11779849420083.html
 
-- Asia-Pacific markets trade mixed as investors weigh Iran tensions and ceasefire talks - CNBC
-  Asia-Pacific markets trade mixed as investors weigh Iran
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2hFMk1QdnljU09oWERvd1VFWjRFR3JfRGkyZ0FBbUdzV1lRTmgyMmR5VGFQQjBzMjlRTWMxWFpiRExBb1hBQTdDelVseTRUbXlBUk0wTjEwbHdSdW51ZU9zaEdJTU5udXpLTjFhVlQydTFpNVNseXhxTzlmd2ltUHpLdXVtZ1RvWmFDNy16MGM1WFRQLW1uYWRwVEpwVFRPY0xLOUxYS1ZVa0I1OXZLdURITF9UQUxYRExiZNIBwgFBVV95cUxPOXRzYW5seG9jS2dpb1N2R21FTnFLbmdDYmlCVVM2Ny1VYjhUcFYtRTVST25ZMldlQUFSdUMzS0praUNVR1hkQ1U5Q1NUWDk2dk9KYjl1VGozZGFnLUR6SHRvME9ZbTc1LTJBallSR1hVandXQy12c3lJaWxQbTk5eVhuZjNYa2hXemlBYWVBbzV1bDM4bFdqLWNpU2E1cGZ0V2hhNXhMa0J2S1Q1OEZCb3ljRkowczNrWlZLOVNjY2oydw?oc=5
-
-- Shares advance, oil prices ease as investors weigh shaky US-Iran truce - Reuters
-  Shares advance, oil prices ease as investors weigh
+- Shares rise, oil falls as markets weigh shaky US-Iran truce - Reuters
+  Shares rise, oil falls as markets weigh
   🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ?oc=5
 
-- Global shares scale new peaks as markets eye shaky US-Iran truce - DD News
-  Global shares scale new peaks as markets eye shaky US
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXc3Vmw1UXRaY0ozZGVRUlFyRllOcjFNLXdXcTVlazFkbGg4RXpEeXNOeEhnVExCZ2VZY1NMbGs2cWk1cVI3SDhTamZVblJ5dlk0LVNlMXJ2Tld2NEhTUzdKYVpmUzVLZWpmYUNua09GT3hHZGRKVTRaanoyT1V2Sy1qY1FyNy02aG5EMjd4OUxjQzNv?oc=5
+- Stock Market Today: Major Indexes Mixed in Early Trading; Oil Prices Retreat on US-Iran Peace Deal Optimism - Investopedia
+  Oil Prices Retreat on US-Iran Peace Deal Optimism. Mideast uncertainty caps gains.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMU4zekNrS3MzRVowdm41N19ZZHRKZkZKa3E5bno2MFMybmwwcHRIblFTcUNPcWoxS3ozc3ZzTkh2SnI0T0hRVzdOSTg2cVBTOFJiaGhxaDBYcVphZGtOSXZEQVdUS1BTX0NvYS1jdmszd0dBSHVYWU9Nc21KQmVEemRKLWY3UXhiTjU5MFQwOXg?oc=5
 
-- Markets News, May 26, 2026: Nasdaq, S&P 500 Close at Record Highs as Micron Soars; Dow Ticks Lower - Investopedia
-  The Nasdaq, S&amp;P 500 Close at Record Highs as Micron Soars; Dow Ticks Lower.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzl2V1VGakphb094dUNWVkFZR2JoSkI5bWt0eEhTckM3RUpyZGVlTENEWHRZNmFfWGdKeGJPTnkyQ3dyTzFLLVJBak1LVDNINlVUakxFa3pfMlJLeTR4RWRla3ZFRDgtdDZ3ZWJ2MzZCaGxmTjRjMnlBT3RHOWJpSEFQOW1SYVFyXzlvLXU1LUU?oc=5
+- Q4 results highlights today: Cummins India, TVS Srichakra, Ramco & Gillette India report profit rise; Senco Gold surges, Siemens dips - BusinessLine
+  Cummins India, TVSrichakra, Ramco & Gillette India report profit
+  🔗 https://news.google.com/rss/articles/CBMi_gJBVV95cUxONS1NV1p5bXIxeXhBaEE3RGlpTXJJMl9yNUVRQ3V1c2FQcGtxcTdSc3ZISExDVXVpNlA1QWhiZFAxcWhiRUNZZkw1YkNHUnNGVWEybTNDTWFSVGhua3VaZ29LSVl3QjhTakxOUjFfVEFLMzhhNmdYb0hVTVB6UktCZkJjbVFTanFIWDcwcExyYktsU1YwMVl1OUhOU3NJb1VqVmhxaENfa3NCWFQ3czAtNklDc3FQSDM1WjNBeDQ3X3YxbjZJeVVxdFBweGVicURLNkNOb2ExVnBYcE9PYWJybTBENjkwUlVWZkEyd3VxdkhrY1JoOVJXS0ZtSDA2QVBEaVdjZTJMN0lSQW1uTHQxS1d0OGZ0TkMtTUNNUEEyNlVhdjQydUpWeTUzU01sQXRtdEVqQndtblhDMGV1Q1M1UU0zbkFhMUtSeXpaemRiaVRjVkQya3p2V1B4UzhiQzZ6LTdzTlhlS3NKblVqZmlMRms0Ums1VG5aWlJIWGJn0gGEA0FVX3lxTE8xaW5aUHQteGV4ajlpbjZ3SWhMVnZTMGttNk0yelo4cjllaTNJTHdqaXp0UkdxQ3lxczFSbjkwb3R5dHB2U2t0VUlvU1REckVpWm9tNXZHd0Ryc2dHRU5tYmZJcFp5VVpJcU9vanRaOUg5RFh4QVpDQzNPdWRuNlRWdkpObTFMUGVYNVlkZzBMVk9nWWFSczVYWVJ4RGhGNi1NVWhSYlNuQ2V4VjdJa3ZaMXdHT0o0Rjl6VVRTTXZTUVdOZFhvcnZObGlVRExxVVNyYkVXMUJWMHYxYUcwVTZ3WTZaVi1XMHlQRlZPVEh5UURzblJIOWxpQlNZZE43VFAxSEJrU21JUHZmaWtWYTNQaU50WWVSSVNQbVVGdE45RnRPbmF4SVdCbWpYN2hocnVyTng2Y3FBOVdnYzZ2VFVtYTI0dElTM3VocEZIQ2V6LUxGNDZrRmZ1VWlGYTU3dUNGUzZwSHJUNklIZ0haU2RIVVdOXzd5czdqaGpiR3F2bFg5TXI?oc=5
 
-- Adani Power surpasses Infosys in market capitalisation after 126% rally in one year - The Economic Times
-  Adani Power surpasses Infosys in market capitalisation after
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMlAzWEJZOFhhR0NBOEdxdVdxVE96X1QxTFRZVEs1Ym4xU3YzNW9ESU9tVFlsSktieHZRcE02TWswOW5mMmRXZW15Tjhsb29WWFIwOUxOUTVRNlBzcHAzdTROSFRMWmprbkYxdXI2MHgtbG1GSTFlZk1pSGFZYjNicWlaa0N2RU9paEdWMFloU2RFT1liV2MzWjZnQTNVMWJNYnhzMmp0ODFQTlpJVTZnMTNNV254bnFIU2VXemhxTm9FMzRWVTlxNkFCcDFJdDJaOGtOdWNQczVKYmpvTUx1b0xFRllIREZaR0VCatIB8gFBVV95cUxPU3Y3QWt1dFM5eTJZNWRvNkhFZGRtT3BfcTRGVlkyQXp0SjNoME44emFKWHM2Uk1zekZEc1NmVFYzUG5OdHdFcVBSdlM4ZnZwcno0M1F0aHYyd0tzTmRKTWJkMVJHVllEZll1VkpzeE1LelE3Z2pISkItVFlXclBtejNEQk9nMHFnVVU3ZnFEX1FiN2ZqVWlVd0RSMmh0V21ydGdiWVZqYk5SUmk5NnVBNy1TY3pOODZYcDZCbkUtaW9TcFdCNWpsNmE4cE9ZMHg2OC1nY0w1VlJQeHdsVG1GTGxXSF9pTnlzT3hnVXVOYWphdw?oc=5
+- Oil Futures Fall On Hopes for U.S.-Iran Agreement - WSJ
+  Oil Futures Fall On Hop
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPeElqTWczRW5XazZxek1CZ1duaE5ZUERVdEhEdlhpTmNUbnNYdEpydVVValVySm54UzdHS0lpVnliUG9IX2RIaDc2Q2duOU5MZHZDZzVaWmlYbnczaFMtS2pWZlpjOTJPZm5CRnRCa3ltTkRGSWVUV0VuMHp4anAxOFRTRzZXRVdVMlFFNjN5TmVEYXYwWFoya3lxUXZhcWxFMlRJRVhUeVZIZVpFUkp2R21mMnBhYkE?oc=5
 
-- JP Power shares soar 20% on optimism around Adani Power’s 24% stake purchase
-  Jaiprakash Power Ventures shares surged on Wednesday, extending gains for a fifth straight session. Trading activity remained strong, with over 87 crore shares worth Rs 1
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jp-power-shares-soar-20-on-optimism-around-adani-powers-24-stake-purchase/articleshow/131345859.cms
+- Dulux maker's stock soars 21% after takeover bid from major rival; oil holds below $100 - CNBC
+  Dulux maker's stock soars 21% after takeover bid
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEdja2hmdmxUVU9Ocl9nb3FTWHpSU2sxclRKdFV3YUM5RzlkZEFaVHpfVnlkWEhvNzYtNWhqRC1mMW02NUhDUjNZMjdnZ1ZyYktZUmwyMkdFaUZuSmJlSjJLMFZpLXU1Z0otLWFsaERQeFBHYWhBNGVLNHYyaGJoUXl4d1EtQ0R1REZxSDJsWdIBlAFBVV95cUxNMHlTaG5HcnhfYmZMQ3lNdzc1Wk1uS1FJMjduT1pTSi0zWU02QnZJc2JiNnVJUzQzMEZoN3p6eXRtV2NTLXpWbXdVZ3kwdXp5eWszT3RRemtsWnhWZ0NXTzZvV2JjWVlzaG5DZS1TeEFmZXpiZmJuQVpEbDBNYTc2ZXFMZE5CZHNUZXJ0QU1BWFRGdlNj?oc=5
 
-- Have trading volumes dropped after STT hike on F&amp;O? Here's what data shows
-  India's government increased taxes on derivatives trading to control speculation. Data from April and May shows trading volumes remained largely unchanged.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/have-trading-volumes-dropped-after-stt-hike-on-fo-heres-what-data-shows/articleshow/131345114.cms
+- Nuclear firm Newcleo to list on Nasdaq in a deal valuing it at $2.4 billion
+  The company aims to meet clean ‌energy needs and also reduce existing and future nuclear waste.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nuclear-firm-newcleo-to-list-on-nasdaq-in-a-deal-valuing-it-at-2-4-billion/articleshow/131353704.cms
 
-- Global Markets: Australian shares bounce back as inflation miss eases rate-hike bets
-  Australian shares reversed early losses, closing 0.7% higher. Financials, real estate, and consumer discretionary stocks recovered. New Zealand stocks also rose 1.2% despite the central bank signaling potential rate hikes
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-bounce-back-as-inflation-miss-eases-rate-hike-bets/articleshow/131344984.cms
+- Global Stocks: European chipmaker X-FAB shares soar on social media post
+  X-FAB among the most traded stocks on Germany's Tradegate platform. Retail flows appeared to dominate activity.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-european-chipmaker-x-fab-shares-soar-on-social-media-post/articleshow/131353442.cms
 
-- Rising bond yields and inflation remain key risks for markets: Candace Browning
-  Strong US corporate profits and expectations of easy monetary policy are supporting markets. While some sectors may recover at different paces after conflicts, the AI investment boom is expected to continue.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/rising-bond-yields-and-inflation-remain-key-risks-for-markets-candace-browning/articleshow/131344930.cms
+- Zydus Lifesciences hikes share buyback price to Rs 1,260 per share, lowers share count
+  Zydus Lifesciences increased its share buyback price to Rs 1,260 per share while reducing the repurchase size to 87.3 lakh shares. The total buyback outlay remains
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zydus-lifesciences-hikes-share-buyback-price-to-rs-1260-per-share-lowers-share-count/articleshow/131353348.cms
 
-- FIIs pull $5 billion from India in Q1, more in caution, not pessimism: Himanshu Srivastava, Morningstar
-  Foreign investors have pulled back from Indian stocks due to global uncertainty and high valuations. Currency stabilization is seen as key to their return, while domestic investors are advised to continue SIPs for long-term gains.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fiis-pull-5-billion-from-india-in-q1-more-in-caution-not-pessimism-himanshu-srivastava-morningstar/articleshow/131344396.cms
+- Govt to exercise greenshoe option after Coal India OFS draws Rs 19,000 crore bids on first day
+  Strong institutional demand prompted the government to exercise the oversubscription option in Coal India’s offer-for-sale. Investors placed bids worth around Rs 19,000 crore on the first day
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-to-exercise-greenshoe-option-after-coal-india-ofs-draws-rs-19000-crore-bids-on-first-day/articleshow/131352647.cms
+
+- PhysicsWallah Q4 Results: Losses narrow 74% YoY to Rs 75 crore as revenue jumps 51%
+   PhysicsWallah sharply reduced its quarterly and annual losses in FY26. The ed-tech company reported strong EBITDA expansion, rising paid users and wider physical presence.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-q4-results-losses-narrow-74-yoy-to-rs-75-crore-as-revenue-jumps-51/articleshow/131352587.cms
+
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
+
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+
+- India news: Modi warns of heat wave dangers - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1oyY2FXbnoya29CclZRb1Z5WGU2bWxlZTFhQlNMeXRJM0NzT0xKQTAxNlZneFMxR1h5enJOQi15R0NjOWFscjZXc0VjRHo0d2dQVGpUV3dTUFhNQUgxSjY0LUpYbXRMeG91bXM0NjFkYU9uYWFHVklyWkV2aVdHM3JnbmoxdlBpTjVmdTJBNTFQUQ?oc=5
+
+- As Heatwave Grips India Again, Data Shows Who Is Most At Risk - NDTV
+  The heat wave is expected to continue for the next
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhQT3hCdkQycFBNbEx6cXhPYmx4aURreVpOTDFvc0V5WVU0SFdtNTQzSW1UWVk2TjdENU5JQ0s2dXlBQ2VRWnI3Z1B4OEM3RFZaNW9tTUFjODduQW1RSS1xR3U3a1BSSEROOHItRGNfRlNBT29rSjRQRllKbWJGcTJPMkw1ZWs5U0NRMVZZVUtuRGVMbmdhUWk2SGhmUm1od2JV0gGrAUFVX3lxTE90c19LeS1WTmlrby01OWVpN1hTc0d5Y1BKQzlhdVZmRWlUZXNubVRHbVJMeTQ4YUFsc3libHh1T29zUFZSaTRKM01tZ0RpUnI1dndmZFZvWGFrcUFlaFNpeXdBTUtaTjZMMk1pRTRYeTB4NUtIa3F6T1hDNHlrbjJSZEwxVlZ6c2UzanVTemlOZGl6OUN2Ykx6SFhkTkVJaTNuTlhJTUpjZjVXRQ?oc=5
+
+- Heatwave grips central, northwest India as monsoon stays offshore - The Hindu
+  Heatwave grips central, northwest India as
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTE10VHZPelpwZDNBS0tUNjRXMDBDUEFrTm9GVDV0ZjlXOVpHTVZNQUdBVlFRTDQtN0hIQjVnWnlvNkZXZWFRd1ZUR2lRbzBBcVJEZFdQb3hBbEZYODVpMmxTQmZvOG9oakR2cnZTLVk5SXdsbC04RG1NSk1Fa1NYYzJuYlJxcTFjcjlZNnhLN0xmVUpwTkJVdzQwczVxd3BkRWFKZVhta2h6cTJSc2E5VjJoSThDYll0UkVGMENyQ0HSAccBQVVfeXFMTUhMTC1XMlpsN2dQLXFjUThUcXRrMk9nbkduR3pEc0hJR0ZHSXRFb1BrVURFNk55WlNyMFZHMWE2dVVpNzdVYmxyd3dNQjZsRktsbGZxNTNIWUpPRnZCV3VMTWN6NDJVUjZBVU54eEM4c0M5Zkl4RkZrRmtJVUhPcUhfN2tmbUZZMHVycWZMalgweEViTUU2TV9SZUNjVnViaVVWLTVjM1BKaEs2bTJUWFBjZHpRQzZpN3puZWp1cWNtcFRHYnU0Zw?oc=5
+
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
+
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+
+- India news: Modi warns of heat wave dangers - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1oyY2FXbnoya29CclZRb1Z5WGU2bWxlZTFhQlNMeXRJM0NzT0xKQTAxNlZneFMxR1h5enJOQi15R0NjOWFscjZXc0VjRHo0d2dQVGpUV3dTUFhNQUgxSjY0LUpYbXRMeG91bXM0NjFkYU9uYWFHVklyWkV2aVdHM3JnbmoxdlBpTjVmdTJBNTFQUQ?oc=5
+
+- As Heatwave Grips India Again, Data Shows Who Is Most At Risk - NDTV
+  The heat wave is expected to continue for the next
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhQT3hCdkQycFBNbEx6cXhPYmx4aURreVpOTDFvc0V5WVU0SFdtNTQzSW1UWVk2TjdENU5JQ0s2dXlBQ2VRWnI3Z1B4OEM3RFZaNW9tTUFjODduQW1RSS1xR3U3a1BSSEROOHItRGNfRlNBT29rSjRQRllKbWJGcTJPMkw1ZWs5U0NRMVZZVUtuRGVMbmdhUWk2SGhmUm1od2JV0gGrAUFVX3lxTE90c19LeS1WTmlrby01OWVpN1hTc0d5Y1BKQzlhdVZmRWlUZXNubVRHbVJMeTQ4YUFsc3libHh1T29zUFZSaTRKM01tZ0RpUnI1dndmZFZvWGFrcUFlaFNpeXdBTUtaTjZMMk1pRTRYeTB4NUtIa3F6T1hDNHlrbjJSZEwxVlZ6c2UzanVTemlOZGl6OUN2Ykx6SFhkTkVJaTNuTlhJTUpjZjVXRQ?oc=5
+
+- Heatwave grips central, northwest India as monsoon stays offshore - The Hindu
+  Heatwave grips central, northwest India as
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTE10VHZPelpwZDNBS0tUNjRXMDBDUEFrTm9GVDV0ZjlXOVpHTVZNQUdBVlFRTDQtN0hIQjVnWnlvNkZXZWFRd1ZUR2lRbzBBcVJEZFdQb3hBbEZYODVpMmxTQmZvOG9oakR2cnZTLVk5SXdsbC04RG1NSk1Fa1NYYzJuYlJxcTFjcjlZNnhLN0xmVUpwTkJVdzQwczVxd3BkRWFKZVhta2h6cTJSc2E5VjJoSThDYll0UkVGMENyQ0HSAccBQVVfeXFMTUhMTC1XMlpsN2dQLXFjUThUcXRrMk9nbkduR3pEc0hJR0ZHSXRFb1BrVURFNk55WlNyMFZHMWE2dVVpNzdVYmxyd3dNQjZsRktsbGZxNTNIWUpPRnZCV3VMTWN6NDJVUjZBVU54eEM4c0M5Zkl4RkZrRmtJVUhPcUhfN2tmbUZZMHVycWZMalgweEViTUU2TV9SZUNjVnViaVVWLTVjM1BKaEs2bTJUWFBjZHpRQzZpN3puZWp1cWNtcFRHYnU0Zw?oc=5
+
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
+
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+
+- India news: Modi warns of heat wave dangers - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1oyY2FXbnoya29CclZRb1Z5WGU2bWxlZTFhQlNMeXRJM0NzT0xKQTAxNlZneFMxR1h5enJOQi15R0NjOWFscjZXc0VjRHo0d2dQVGpUV3dTUFhNQUgxSjY0LUpYbXRMeG91bXM0NjFkYU9uYWFHVklyWkV2aVdHM3JnbmoxdlBpTjVmdTJBNTFQUQ?oc=5
+
+- As Heatwave Grips India Again, Data Shows Who Is Most At Risk - NDTV
+  The heat wave is expected to continue for the next
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhQT3hCdkQycFBNbEx6cXhPYmx4aURreVpOTDFvc0V5WVU0SFdtNTQzSW1UWVk2TjdENU5JQ0s2dXlBQ2VRWnI3Z1B4OEM3RFZaNW9tTUFjODduQW1RSS1xR3U3a1BSSEROOHItRGNfRlNBT29rSjRQRllKbWJGcTJPMkw1ZWs5U0NRMVZZVUtuRGVMbmdhUWk2SGhmUm1od2JV0gGrAUFVX3lxTE90c19LeS1WTmlrby01OWVpN1hTc0d5Y1BKQzlhdVZmRWlUZXNubVRHbVJMeTQ4YUFsc3libHh1T29zUFZSaTRKM01tZ0RpUnI1dndmZFZvWGFrcUFlaFNpeXdBTUtaTjZMMk1pRTRYeTB4NUtIa3F6T1hDNHlrbjJSZEwxVlZ6c2UzanVTemlOZGl6OUN2Ykx6SFhkTkVJaTNuTlhJTUpjZjVXRQ?oc=5
+
+- Heatwave grips central, northwest India as monsoon stays offshore - The Hindu
+  Heatwave grips central, northwest India as
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTE10VHZPelpwZDNBS0tUNjRXMDBDUEFrTm9GVDV0ZjlXOVpHTVZNQUdBVlFRTDQtN0hIQjVnWnlvNkZXZWFRd1ZUR2lRbzBBcVJEZFdQb3hBbEZYODVpMmxTQmZvOG9oakR2cnZTLVk5SXdsbC04RG1NSk1Fa1NYYzJuYlJxcTFjcjlZNnhLN0xmVUpwTkJVdzQwczVxd3BkRWFKZVhta2h6cTJSc2E5VjJoSThDYll0UkVGMENyQ0HSAccBQVVfeXFMTUhMTC1XMlpsN2dQLXFjUThUcXRrMk9nbkduR3pEc0hJR0ZHSXRFb1BrVURFNk55WlNyMFZHMWE2dVVpNzdVYmxyd3dNQjZsRktsbGZxNTNIWUpPRnZCV3VMTWN6NDJVUjZBVU54eEM4c0M5Zkl4RkZrRmtJVUhPcUhfN2tmbUZZMHVycWZMalgweEViTUU2TV9SZUNjVnViaVVWLTVjM1BKaEs2bTJUWFBjZHpRQzZpN3puZWp1cWNtcFRHYnU0Zw?oc=5
+
+- CPI(M), CPI: India's communists once ruled millions. What happened to them? - BBC
+  CPI(M), CPI: India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYXkxSV9vVGExNkJSNlpYUUxIOXVRMGpfMHFpRFl3a2ZnMEhpaXpwQk1jWEZSTTh4ZHpJaHJOaW8xYWNidzExWDYwUy13Yno2WUhlWU9Kc3pCUQ?oc=5
+
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+
+- India news: Modi warns of heat wave dangers - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1oyY2FXbnoya29CclZRb1Z5WGU2bWxlZTFhQlNMeXRJM0NzT0xKQTAxNlZneFMxR1h5enJOQi15R0NjOWFscjZXc0VjRHo0d2dQVGpUV3dTUFhNQUgxSjY0LUpYbXRMeG91bXM0NjFkYU9uYWFHVklyWkV2aVdHM3JnbmoxdlBpTjVmdTJBNTFQUQ?oc=5
+
+- As Heatwave Grips India Again, Data Shows Who Is Most At Risk - NDTV
+  The heat wave is expected to continue for the next
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUhQT3hCdkQycFBNbEx6cXhPYmx4aURreVpOTDFvc0V5WVU0SFdtNTQzSW1UWVk2TjdENU5JQ0s2dXlBQ2VRWnI3Z1B4OEM3RFZaNW9tTUFjODduQW1RSS1xR3U3a1BSSEROOHItRGNfRlNBT29rSjRQRllKbWJGcTJPMkw1ZWs5U0NRMVZZVUtuRGVMbmdhUWk2SGhmUm1od2JV0gGrAUFVX3lxTE90c19LeS1WTmlrby01OWVpN1hTc0d5Y1BKQzlhdVZmRWlUZXNubVRHbVJMeTQ4YUFsc3libHh1T29zUFZSaTRKM01tZ0RpUnI1dndmZFZvWGFrcUFlaFNpeXdBTUtaTjZMMk1pRTRYeTB4NUtIa3F6T1hDNHlrbjJSZEwxVlZ6c2UzanVTemlOZGl6OUN2Ykx6SFhkTkVJaTNuTlhJTUpjZjVXRQ?oc=5
+
+- Heatwave grips central, northwest India as monsoon stays offshore - The Hindu
+  Heatwave grips central, northwest India as
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTE10VHZPelpwZDNBS0tUNjRXMDBDUEFrTm9GVDV0ZjlXOVpHTVZNQUdBVlFRTDQtN0hIQjVnWnlvNkZXZWFRd1ZUR2lRbzBBcVJEZFdQb3hBbEZYODVpMmxTQmZvOG9oakR2cnZTLVk5SXdsbC04RG1NSk1Fa1NYYzJuYlJxcTFjcjlZNnhLN0xmVUpwTkJVdzQwczVxd3BkRWFKZVhta2h6cTJSc2E5VjJoSThDYll0UkVGMENyQ0HSAccBQVVfeXFMTUhMTC1XMlpsN2dQLXFjUThUcXRrMk9nbkduR3pEc0hJR0ZHSXRFb1BrVURFNk55WlNyMFZHMWE2dVVpNzdVYmxyd3dNQjZsRktsbGZxNTNIWUpPRnZCV3VMTWN6NDJVUjZBVU54eEM4c0M5Zkl4RkZrRmtJVUhPcUhfN2tmbUZZMHVycWZMalgweEViTUU2TV9SZUNjVnViaVVWLTVjM1BKaEs2bTJUWFBjZHpRQzZpN3puZWp1cWNtcFRHYnU0Zw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-27 09:39:33 UTC_
+_Last updated: 2026-05-27 15:29:38 UTC_
