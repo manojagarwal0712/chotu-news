@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- In Delhi, respite from heat likely as IMD predicts dip in temperature; issues warning for thunderstorms over next four days
+- Fake distress call from ‘BJP president’s aide’ costs Chhattisgarh MLA Rs 10,000
   
-  🔗 https://indianexpress.com/article/india/delhi-weather-imd-heatwave-relief-thunderstorm-warning-temperature-drop-10711192/
+  🔗 https://indianexpress.com/article/india/fake-distress-call-from-bjp-president-nitin-nabins-aide-costs-chhattisgarh-mla-rs-10000-10711427/
 
-- Collegium recommends elevation of 5 as Supreme Court judge
+- Constitutional defeat for Congress: BJP on SIR verdict
   
-  🔗 https://indianexpress.com/article/india/collegium-recommends-elevation-of-5-as-supreme-court-judge-10711197/
+  🔗 https://indianexpress.com/article/india/constitutional-defeat-for-congress-bjp-on-supreme-court-sir-verdict-10711432/
 
-- India invites bids from 3 private players for advanced stealth fighter project
+- Madhya Pradesh HC refuses 24×7 police protection plea by interfaith couple — ‘Courts can’t become security establishment’
   
-  🔗 https://indianexpress.com/article/india/defence-ministry-amca-rfp-private-bidders-tata-lt-bharat-forge-stealth-fighter-10711183/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-high-court-interfaith-couple-protection-10711424/
 
-- Assam passes UCC Bill: Opposition flags tribal exemption, Sarma says law not needed ‘where no cancer’
+- 50 CPM members held for protest against ED over searches conducted at Pinarayi Vijayan’s residence
   
-  🔗 https://indianexpress.com/article/india/assam-ucc-bill-passed-live-in-rules-st-exemption-debate-10711163/
+  🔗 https://indianexpress.com/article/india/50-cpm-members-held-for-protest-against-ed-over-searches-conducted-at-pinarayi-vijayans-residence-10711521/
 
-- When Vijay met Modi: Some pressing issues, and a thank you
+- New coal mine cleared in ‘high conservation zone’ Hasdeo forest
   
-  🔗 https://indianexpress.com/article/india/when-vijay-met-modi-some-pressing-issues-and-a-thank-you-10711104/
+  🔗 https://indianexpress.com/article/india/new-coal-mine-cleared-in-high-conservation-zone-hasdeo-forest-10711513/
 
 - Nasa unveils Moon Base roadmap with lunar rovers, cargo landers, and South Pole missions
   
@@ -40,45 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-may-soon-get-usernames-heres-how-the-privacy-feature-works-10710549/
 
+- Selling Essar guarantees will be a long battle for lenders
+  Experts say buyers of these guarantees will not pay enough to cover banks' dues.
+  🔗 https://www.livemint.com/companies/news/essar-steel-insolvency-sbi-personal-guarantees-ibc-arc-arcelormittal-11779801206641.html
+
+- Medtech exporter Poly Medicure bets on high-tech pivot and acquisitions to fend off macro headwinds
+  The medtech major expects its growth rate to more than double in FY27 as it pivots from low-cost consumables
+  🔗 https://www.livemint.com/companies/news/poly-medicure-revenue-medical-equipment-exports-11779891811338.html
+
+- PhysicsWallah reins in K-12 ambitions as profitability takes priority
+  The edtech major is sharpening its focus on profitability across
+  🔗 https://www.livemint.com/companies/news/physicswallah-reins-in-k-12-ambitions-as-profitability-takes-priority-11779891101957.html
+
+- Green energy investments to gain momentum, keen to partner Indian funds: BII CEO
+  British International Investment (BII) would seek to maintain India’s share at around 25% of its overall investments. India is the development finance institution
+  🔗 https://www.livemint.com/companies/news/green-energy-investments-to-gain-momentum-after-west-asia-war-keen-to-partner-with-indian-pension-insurance-funds-bii-11779878743354.html
+
 - Activision shareholders reach $250 million settlement over Microsoft buyout
   Activision shareholders reach
   🔗 https://www.livemint.com/companies/activision-shareholders-reach-250-million-settlement-over-microsoft-buyout-11779910652181.html
 
-- American Air Sees Robust Demand Even as Consumer Sentiment Falls
-  American Airlines Group Inc. said it continues to see strong demand for travel.
-  🔗 https://www.livemint.com/companies/american-air-sees-robust-demand-even-as-consumer-sentiment-falls-11779908313697.html
+- Oil prices rise 2% on fresh US strikes on Iran; Brent crude at $96/bbl
+  Brent crude futures advanced $1.90, or 2.02%, to $96.19 per
+  🔗 https://www.livemint.com/market/commodities/oil-prices-rise-2-on-fresh-us-strikes-on-iran-brent-crude-at-96bbl-11779933363147.html
 
-- Bata India Q4 profit plunges 95% on VRS costs, forex losses
-  Bata posted a “volume-
-  🔗 https://www.livemint.com/companies/company-results/bata-india-q4-results-vrs-costs-forex-losses-footwear-industry-india-11779892357910.html
+- Asian markets today: Nikkei 225, Kospi fall amid US-Iran negotiations
+  Japan's Nikkei 225 dropped 0.76%, with the Topix also trading 0.71% lower.
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-225-kospi-fall-amid-us-iran-negotiations-11779931254716.html
 
-- From company's $22 billion valuation to jail sentence: The rise and fall of Byju Raveendran
-  Byju Raveendran has been sentenced to six months in prison by a Singapore court. The sentence is due to a loan default dispute with Qatar Investment Authority. R
-  🔗 https://www.livemint.com/companies/people/from-companys-22-billion-valuation-to-jail-sentence-the-rise-and-fall-of-byju-raveendran-11779895472767.html
+- Investors are nervous about a sky-high market. Why stocks may keep rising.
+  Goldman Sachs Asset Management experts say investors should use dividend stocks and buffer ETFs
+  🔗 https://www.livemint.com/market/investors-are-nervous-about-a-sky-high-market-why-stocks-may-keep-rising-11779930735787.html
 
-- Coal India OFS subscribed over 8 times on day 1; govt to exercise greenshoe option
-  Coal India OFS is part of the government’s broader disinvestment and public shareholding strategy aimed at improving market liquidity
-  🔗 https://www.livemint.com/companies/news/coal-india-ofs-coal-india-stake-sale-coal-india-disinvestment-dipam-11779892163099.html
+- Stock market holiday: Are BSE, NSE closed for Bakrid? Check full 2026 trading holiday list
+  The Indian stock market will remain closed today, May 28, 2026, for Bakri Id. Trading will resume in the next
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-to-remain-closed-for-trading-on-account-of-bakra-id-11779929220644.html
 
-- Copper’s Giant Tariff Trade Is Back and Squeezing Global Market
-  Copper traders are once again scouring the world for metal to send to the US. renewed speculation about import tariffs revives
-  🔗 https://www.livemint.com/market/coppers-giant-tariff-trade-is-back-and-squeezing-global-market-11779909555031.html
+- Base Metals Decline on Mixed Signals of US-Iran Peace Deal
+  Industrial metals declined as investors remained concerned about global economic growth. Mixed signals about prospects for a US
+  🔗 https://www.livemint.com/market/base-metals-decline-on-mixed-signals-of-us-iran-peace-deal-11779914233603.html
 
-- Treasuries Hold Gains as Oil Signals Optimism on Iran Accord
-  Treasuries rose as the latest signs of an accord to end the US-Iran war sent benchmark oil prices to their lowest levels in more than
-  🔗 https://www.livemint.com/market/treasuries-hold-gains-as-oil-signals-optimism-on-iran-accord-11779907028598.html
+- Meta launches Instagram Plus, Facebook Plus and WhatsApp Plus subscriptions globally: Here's what you get
+   Meta has begun roling. Instagram Plus, WhatsApp Plus, and Facebook Plus subscriptions globally. Instagram and Facebook subscription is priced at $
+  🔗 https://www.livemint.com/technology/tech-news/meta-launches-instagram-plus-facebook-plus-and-whatsapp-plus-subscriptions-globally-heres-what-you-get-11779928717350.html
 
-- Lower Tariffs Could Be Ahead. Here’s Why.
-  The U.S. will impose tariffs on imports, even from neighbors Mexico and Canada. But they may not be as high as they were last year.
-  🔗 https://www.livemint.com/market/lower-tariffs-could-be-ahead-here-s-why-11779902615460.html
-
-- Global equities scale record highs on AI optimism. Why is Dalal Street still under pressure?
-  South Korea's KOSPI and Japan's Nikkei perform strongly, but Indian markets lag due to low AI investment and weak earnings growth. Geopolitical tensions and high crude
-  🔗 https://www.livemint.com/market/stock-market-news/global-equities-scale-record-highs-on-ai-optimism-why-is-dalal-street-still-under-pressure-11779895766551.html
-
-- Reliance Industries announces 49th AGM date, sets record date for FY26 dividend
-  Reliance Industries' 49th AGM will be held on 19 June 2026. The company reported a 12.9% increase in Q1 revenue and a 16
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-announces-49th-agm-date-sets-record-date-for-fy26-dividend-11779893994657.html
+- Is TikTok down? Hundreds of users report issues with ByteDance’s social media app
+  TikTok is facing a significant outage with hundreds of
+  🔗 https://www.livemint.com/technology/tech-news/is-tiktok-down-hundreds-of-users-report-issues-with-bytedance-s-social-media-app-11779933839234.html
 
 - Haier Desert Rose Smart AC review: Does the AI-powered AC live up to the hype?
   The Haier Desert Rose Smart AC tries to blend powerful cooling with smart functionality
@@ -92,133 +100,125 @@
   The smartphone market may face its worst year in 2026 with a 13.9% decline in shipments predicted. Apple and Samsung could see
   🔗 https://www.livemint.com/technology/tech-news/apple-samsung-could-gain-market-share-as-ultra-cheap-smartphone-comes-to-an-end-report-11779866038073.html
 
-- Samsung Galaxy A27 full specs, design and colour variants leaked ahead of launch
-  The Galaxy A27 is expected to launch in the second half of 2026. A new leak has revealed the complete
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a27-full-specs-design-and-colour-variants-leaked-ahead-of-launch-11779861112339.html
-
-- Best headphones under  ₹10,000: Sony, JBL, Sennheiser and more top audio picks in India
-  From Sony and JBL to Sennheiser and Nothing, these headphones offer ANC, long battery life,
-  🔗 https://www.livemint.com/technology/best-headphones-under-rs-10-000-sony-jbl-sennheiser-and-more-top-audio-picks-in-india-11779860819948.html
-
-- Dow rises 200 points to record as oil declines, but a pause in the chip rally weighs on the S&P 500: Live updates - CNBC
-  Dow rises 200 points to record as oil declines, but a pause in the chip rally weighs on the
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5
-
-- Stock Market Today: Chip Stocks Pare Recent Gains; Oil Drops on Hopes of Mideast Deal — Live Updates - WSJ
-  Stock Market Today: Chip Stocks Pare Recent Gains; Oil Drops on
+- Stock Market News, May 27, 2026: Oil Drops on Hopes of Mideast Deal - WSJ
+  The WSJ published a story on May 27, 20
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzNJa3MzTWo3S1pEdE93RGZ6NnZ4U1VzWm4xUnA0bFMyNy16Nk9DbE8wU0xDZTA1ZmRSOXduWlBwZW9oTDdVczhLLTRlanNKZ1FfZ0V5a1NCR0tUZ1U4aVJXTEJnZEVSaUhuLWpHM0t3Ykg2V3lkY1J1UEJKcGQ5aUpNNVlzNk0?oc=5
 
-- Stock market today: S&P 500, Dow, Nasdaq rise, oil falls amid US-Iran talks - Yahoo Finance
-  The Dow, Nasdaq and S&P 500 all rose
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmk3WlVrZ080LWwtbXRfdzVuWUROVUdJREw1aGlvb2ZwWU9XMGY2YTQ0ZG9sRE1ZOXRmUzFseWR5dHpZOGFhMFF2MWY4VU1jZ2xkYk5GMUwzbXAwVTZWeUNWei1rc2ZBQW11MF9ja0xYRDJlTXh4WkJoRWw0OEVSTUx1MWU1Y2laM25ZWnplVmQwQS1Sal9vdGYtdXVjc08yUTYwNXJRbXZDWEl2QlZKZFh0ZmJjTTM5UGRxLWZHS1BtZw?oc=5
+- Asia-Pacific markets open lower as Iran-U.S. negotiations remain in focus - CNBC
+  Asia-Pacific markets open lower as Iran
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcS03Z0FpQ1VQcGFXNU9zc29Zb0d4b2M4YlJXLUcwN2lxbGF2TDJjQjRBTS1Cb0RtNVhqeTJackNCZFlfSWNoc2F2cWRWT2VSbnFmc0pCNExoOXBwUU1kOS1pMjZhY0dpYzAxWkszVG4ySEFaaEpmYkhaeUhPQXU4QXhSZ0JnNGdxbDgzNWJQbXV1T1JTMmpVWm5VUTlOZUHSAaQBQVVfeXFMTVFaSE8zUXZ0NmV1Uzg3eXdNSzZiRHhzcHg5Qm1fckU5cVNuYkdHUVNIMHBQR3BzYWVHN3hCcUZiNkJjTFdueklmWDdjbzczUnFSRlpxUl9rVkFBRl9rbWwxeTN2Qk51am1iWVN0R2pFX0d4ZGdoRVd4NzI5LXBzbVNNUk9PdWNmc2ExdktZd1gzYk5yVDZZYjVEcl9Oc0V5Q0JGb1I?oc=5
 
-- What to buy now with the market at all-time highs, according to UBS - CNBC
-  What to buy now with the market at all-time
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHp4eW5laWE2Nk5iZzZfTGNCaFFEcVkzY1RWQm45RFRCNXcxbm1VbWJvYnNVVHNTaEJzQmYtUmxtSnlNU1Nfc0VGQVRwejdPWWxsR0dUcno4YzlzR0pfYTdqdllRcHN4VGNwVGxmd3c1anFFYzRJWXhYTkpJRVpQT0ZyWE96NVFGVjBOb21VN1FEWGdzcUZuOTRYZUtLNFYtX2ItMkhB?oc=5
+- Asia-Pacific markets trade mixed as investors weigh Iran tensions and ceasefire talks - CNBC
+  Asia-Pacific markets trade mixed as investors weigh Iran
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT2hFMk1QdnljU09oWERvd1VFWjRFR3JfRGkyZ0FBbUdzV1lRTmgyMmR5VGFQQjBzMjlRTWMxWFpiRExBb1hBQTdDelVseTRUbXlBUk0wTjEwbHdSdW51ZU9zaEdJTU5udXpLTjFhVlQydTFpNVNseXhxTzlmd2ltUHpLdXVtZ1RvWmFDNy16MGM1WFRQLW1uYWRwVEpwVFRPY0xLOUxYS1ZVa0I1OXZLdURITF9UQUxYRExiZNIBwgFBVV95cUxPOXRzYW5seG9jS2dpb1N2R21FTnFLbmdDYmlCVVM2Ny1VYjhUcFYtRTVST25ZMldlQUFSdUMzS0praUNVR1hkQ1U5Q1NUWDk2dk9KYjl1VGozZGFnLUR6SHRvME9ZbTc1LTJBallSR1hVandXQy12c3lJaWxQbTk5eVhuZjNYa2hXemlBYWVBbzV1bDM4bFdqLWNpU2E1cGZ0V2hhNXhMa0J2S1Q1OEZCb3ljRkowczNrWlZLOVNjY2oydw?oc=5
 
-- 2026 Capital Markets Day: Capgemini poised to capture the full value of the Agentic AI revolution - Capgemini
-  2026 Capital Markets Day: Capgemini poised to capture the full
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLS01dzF1cjBZdWRyOVRHSUgxSmx0a1JST2VfYVhZYldZcXQ2OWZRSVNVbktFMTJhQTZhLTRER1FoN0hWZ0lnNFRYU3Y3dS1rdlVSa0FmQXdYdGtsWFdaMnVWS0poN2hUZmFCTy1takk4RjJNSGhPSjBkbWp4WEFnU0dsTWVBWUJabzlHYkw3Um1sWVJ6aEJNaWdfa1dDbDlHMHo5em9LZHdRekdrb0JHcy02M3R0NDFPcmZFLVI5bVVfT3p1MWVFb0JVTkw1bXZTRFRDNm1hVlhfaTQ?oc=5
+- Stocks hold near record highs, oil falls as markets weigh US-Iran peace progress - Reuters
+  Stocks hold near record highs, oil falls as markets
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ?oc=5
 
-- Satin Creditcare Network raises $20 million from BlueOrchard
-  Satin Creditcare Network has secured $20 million through dollar-denominated bonds from BlueOrchard Microfinance Fund. This private placement, featuring a SOFR-linked
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-network-raises-20-million-from-blueorchard/articleshow/131355652.cms
+- China Chip Giant CXMT’s IPO Revives Memories of Past Market Tops - Bloomberg.com
+  China Chip Giant CXMT’s
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXo1OTJoOE9mVmRxS2dvLU9hQ0p4UjJCeUZoczhKV193TFJrdm5Kam80X0E0Sl9zWWpQdGVzdUpYOFpxc043cWJxMi1YZ3NZcUZNMjhIeWlKdnMyV2tPN3FVSXVtWmF1Y1ZsaG9PcnVKLU1ObnN6WjNONi0yMms0X2RSTXMtbWJNMFAzdUNsZkVob1pyVE1yNzFGNkVrWFJqUnlYb1FxRGFVX2hxdHBjaXAyTE92Zw?oc=5
 
-- Timex Group India posts Rs 800 crore revenue for FY26
-  Timex Group India achieved a landmark financial year 2025-2026. Revenues surged 48% to Rs 800 crore, with profit before tax jumping 151%. E-commerce channels recorded a 90% increase in sales.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/timex-group-india-posts-rs-800-crore-revenue-for-fy26/articleshow/131355360.cms
+- Oil Price Today (May 28): Crude oil jumps over 2% despite optimism around Iran war peace deal. Here’s why
+  U.S. strikes on an Iranian military site escalated geopolitical tensions, despite ongoing talks. Analysts warn that even with a deal, normalizing shipping through the Strait of Hormuz could take months, impacting global oil markets.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-28-crude-oil-jumps-over-2-despite-optimism-around-iran-war-peace-deal-heres-why/articleshow/131361633.cms
 
-- Senco Gold Q4 Results: Profit skyrockets 151% to Rs 157 crore
-  Senco Gold saw its revenue climb by 45 percent. Retail sales reached an all-time high, boosted by wedding demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/senco-gold-q4-results-profit-skyrockets-151-to-rs-157-crore/articleshow/131355242.cms
+- Dollar near one-week high as US-Iran tensions flare, yen nears intervention zone
+  Dollar strengthens near a one-week peak. New U.S. strikes in Iran have complicated peace talks.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-week-high-as-us-iran-tensions-flare-yen-nears-intervention-zone/articleshow/131361470.cms
 
-- Govt plans up to 2% LIC stake sale, may raise Rs 10,000 crore
-  The government plans to sell up to a 2% stake in LIC. This move aims to deepen public shareholding amid improving profitability. The stake sale is likely in late June or early July.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-plans-up-to-2-lic-stake-sale-may-raise-rs-10000-crore/articleshow/131354973.cms
+- Gold eases as US-Iran tensions cloud interest rate outlook
+  Gold prices dipped as escalating U.S.-Iran tensions fueled oil price surges, sparking inflation worries and casting a shadow over the Federal Reserve's interest rate decisions. Meanwhile, other precious metals like silver, platinum, and palladium
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-us-iran-tensions-cloud-interest-rate-outlook/articleshow/131361451.cms
 
-- Nuclear firm Newcleo to list on Nasdaq in a deal valuing it at $2.4 billion
-  The company aims to meet clean ‌energy needs and also reduce existing and future nuclear waste.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nuclear-firm-newcleo-to-list-on-nasdaq-in-a-deal-valuing-it-at-2-4-billion/articleshow/131353704.cms
+- Stock Market Holiday 2026: Are NSE, BSE closed today for Bakri Id? Check market closing dates list
+  Indian stock markets will be closed on May 28 for Bakri Id, marking another trading holiday in 2026. Seven more market closures are scheduled throughout the year, including Muharram, Ganesh Chatur
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-today-for-bakri-id-check-market-closing-dates-list/articleshow/131354344.cms
 
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
-  "Single Largest Self-Inflicted Obst
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
-
-- India slams Pakistan-China joint statement on Kashmir, hits back on CPEC | India News - Hindustan Times
-  India slams Pakistan-China joint statement on Kashmir, hits back on
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMklLYWJGTVBhNjNSZTRmY3RuQkFtSEZWTzA4eDlLUElab1pMZEZLQmQyYlNTcnVuR1c1VU5VY2FZNVZOVERVX2J1TUtreHhuY0tZTjh4Wlo1amFKRDNXZVk0TGRxUjAwWFYxQnVSeC13eDVRaU1UUF9XUVc4LWZhTnZaY3ZYTVI0NTZZWWVCVUxTSWpHM3ZHclBDVU1pRkZYcElneUQ2UzZyVU9SaGVpclpWcUtGbWV3cXhUUko2UDIxM3E4Z3JCRU13OUdDYTZw0gHWAUFVX3lxTE9tamY3Z3RtMXZwTUdiWGQ3d3lIbF9jeEFyM0hEdGN6clEtUWZIZm1yMDdkRmRNamlPRzNqLWJUVUJiUmlJMEZDVkdIU2FlMFRHUGhXcHFJdG55TlVoNWE4V01ZNkVVY2R1Wk52bU1OVEhQREdnRy01RklKZzQ2bDN2cTE5aUp4ZGd4ZG5nZ0FXa290SmZiOVhRaHU1cGpETTJmdVE1UkZwR2pkb2xNd1lDRjd0ZkFkVi1KNkF6eFZTaVBsREZ5dEViVVVfVjl0cHpkeE0tMlE?oc=5
+- Global Market Today: Asian stocks slip from record highs, oil gains
+  Asian equities retreated from record highs as conflicting signals from the US and Iran on a potential peace deal emerged. Crude oil prices surged as the Strait of Hormuz remained disrupted. The dollar strengthened and Treasuries
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slip-from-record-oil-gains/articleshow/131361374.cms
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- Raid on Indian opposition leader triggers violence in Kerala - Al Jazeera
-  Raid on Indian opposition leader triggers violence in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdXdE1qcmZSbHdUUFFHQlQ1dmgxVkJOdUhIT0xSUTZCUDFnZXYyVVdaWmJRRW5jckxiSjE1Y0ZFWFFBakFVRzI5VVdyVC15N21tcWxnbnNfSVUtUXNCRXI4SmQ2b0tmUVZ0UGR6bndDeTZRYm9lYklYWkpmTDB5Q2pQRTFxdENhbzlsX29XaVkyQzNHeVhpdGtNREp0ejhaNWlVR2xtNGh4M3JnRmNHRdIBtgFBVV95cUxOUkU5YzNYQlExTHlYSllDNmlWeVJEU0I4RW9IVDhnVUFKUXd4Zlo3anV2RlU1cXJjU3lxRGRqUTlXWFpZSWRGLTVwem9uR3J2dUYtam1yUnNZSm1Jdldna1RuQWNzendCMWVWLWJadlN0RE5ySVZsVmhOS05QX1pOd2cxMmpUTmZ4bjdmeFVVaVRJUVRpWHdnRTRJX25mZDVGOUdiOW1IVVBDa1NaYUFmbDZjcnVqdw?oc=5
-
-- Ranveer Singh in Don 3: Why a film union in India is boycotting the Bollywood superstar - BBC
-  Ranveer Singh is a star of Bollywood film Don 3
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GZktqR1diOVdrcDkyaWs4YUhqQkx2a0taOWJqajNLX0ZBekRoM2c4T1AwU21iajJQblhCS3Rxdm94ZEtDQXVBRlNyeC0wa3dTSnFJb3QwRXpQdw?oc=5
-
 - "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India slams Pakistan-China joint statement on Kashmir, hits back on CPEC | India News - Hindustan Times
-  India slams Pakistan-China joint statement on Kashmir, hits back on
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMklLYWJGTVBhNjNSZTRmY3RuQkFtSEZWTzA4eDlLUElab1pMZEZLQmQyYlNTcnVuR1c1VU5VY2FZNVZOVERVX2J1TUtreHhuY0tZTjh4Wlo1amFKRDNXZVk0TGRxUjAwWFYxQnVSeC13eDVRaU1UUF9XUVc4LWZhTnZaY3ZYTVI0NTZZWWVCVUxTSWpHM3ZHclBDVU1pRkZYcElneUQ2UzZyVU9SaGVpclpWcUtGbWV3cXhUUko2UDIxM3E4Z3JCRU13OUdDYTZw0gHWAUFVX3lxTE9tamY3Z3RtMXZwTUdiWGQ3d3lIbF9jeEFyM0hEdGN6clEtUWZIZm1yMDdkRmRNamlPRzNqLWJUVUJiUmlJMEZDVkdIU2FlMFRHUGhXcHFJdG55TlVoNWE4V01ZNkVVY2R1Wk52bU1OVEhQREdnRy01RklKZzQ2bDN2cTE5aUp4ZGd4ZG5nZ0FXa290SmZiOVhRaHU1cGpETTJmdVE1UkZwR2pkb2xNd1lDRjd0ZkFkVi1KNkF6eFZTaVBsREZ5dEViVVVfVjl0cHpkeE0tMlE?oc=5
+- Public-Private Partnership to Boost India’s Olympic Preparations - News On AIR
+  Public-Private Partnership to Boost India
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXBkQkZFLVZjWDZwMDhOaEZqN2Rlc2V2c3lybVdoQkZRNWVsQ3VMTXByc2pkZmlzWFhHYWdibHQzRnh6c05sZlpKa2JBMUdEb3dTeXJVUWV1SFNnbHZYbXIyQlhocHQtR0k1aVI4aXB6Z3lhUlBKb3dTc3plS3BJck9LZW1hV1c4MmNYM29TV1lINTQ?oc=5
+
+- Siddaramaiah Not Interested In Taking Rajya Sabha Post: Sources - NDTV
+  Siddaramaiah Not Interest
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ05lSG85Y0cyb3A4LUJvNGtRbHFHUXhNWHkwMWZ0NG4zVkNsTFl6eWRJeHBQN2xKSWRYYk1oaGljNFFIZ2preDdpRWNKZFVubm9Fdk0teUh5dDZBSktqUU96TkdWdTRxR3ZzcU14bUx5N0U4SVQtanA4bzNSaGg1ODJKZzR3di1RWTZXMWdrb09ZZnFWVDFjbmlUSEpVajZpYUFRSUNR0gGuAUFVX3lxTFA2VFNKZUFLazB0d3JhbEFodGlyTWdIcndKSmFDMkpjeW9GM3hFdjNjQUFSYzM2QXFJY0lJcXdGUGVZcHB5M05Ca09UemdubmR3NWRWLVFVMHZpV1JSVm9UaUFMVHlzRy01MXdPNDhEM2JDY2ZweUxrMXhYbHZYa1Y3VzRrR1BRUEtnSUs2Q1kycS1FT2x0Q3NtTVVxRWFTLWs2bHV1cjRyX0JrNTlsQQ?oc=5
+
+- National Commission for Women submits report on rights of Muslim women in India to ministries - News On AIR
+  National Commission for Women submits report on rights of Muslim women in India to
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDlkckpyY19pa1hrZ284dDA1blJNQXgzaG16TlJrMFNSUlE1LVZBLU5scWkwcWF4NlFoRWRvbm4tbTNHLXJ3QXNDMFBDbHhFZlpKTmthcnhLQmozMXRaV3BWbGlxM05HLTdVZXNTT3VsTF9yMXBTMVctNkZ0R1RFWjI2clEwYjNlR1lvSnQ1SFpXamtkZXA3X05NWko4OVZiazJvcE0zNmsyUmhpRWh2M2ZoY09uYWVGZTE4?oc=5
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- Raid on Indian opposition leader triggers violence in Kerala - Al Jazeera
-  Raid on Indian opposition leader triggers violence in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdXdE1qcmZSbHdUUFFHQlQ1dmgxVkJOdUhIT0xSUTZCUDFnZXYyVVdaWmJRRW5jckxiSjE1Y0ZFWFFBakFVRzI5VVdyVC15N21tcWxnbnNfSVUtUXNCRXI4SmQ2b0tmUVZ0UGR6bndDeTZRYm9lYklYWkpmTDB5Q2pQRTFxdENhbzlsX29XaVkyQzNHeVhpdGtNREp0ejhaNWlVR2xtNGh4M3JnRmNHRdIBtgFBVV95cUxOUkU5YzNYQlExTHlYSllDNmlWeVJEU0I4RW9IVDhnVUFKUXd4Zlo3anV2RlU1cXJjU3lxRGRqUTlXWFpZSWRGLTVwem9uR3J2dUYtam1yUnNZSm1Jdldna1RuQWNzendCMWVWLWJadlN0RE5ySVZsVmhOS05QX1pOd2cxMmpUTmZ4bjdmeFVVaVRJUVRpWHdnRTRJX25mZDVGOUdiOW1IVVBDa1NaYUFmbDZjcnVqdw?oc=5
-
-- Ranveer Singh in Don 3: Why a film union in India is boycotting the Bollywood superstar - BBC
-  Ranveer Singh is a star of Bollywood film Don 3
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GZktqR1diOVdrcDkyaWs4YUhqQkx2a0taOWJqajNLX0ZBekRoM2c4T1AwU21iajJQblhCS3Rxdm94ZEtDQXVBRlNyeC0wa3dTSnFJb3QwRXpQdw?oc=5
-
 - "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India slams Pakistan-China joint statement on Kashmir, hits back on CPEC | India News - Hindustan Times
-  India slams Pakistan-China joint statement on Kashmir, hits back on
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMklLYWJGTVBhNjNSZTRmY3RuQkFtSEZWTzA4eDlLUElab1pMZEZLQmQyYlNTcnVuR1c1VU5VY2FZNVZOVERVX2J1TUtreHhuY0tZTjh4Wlo1amFKRDNXZVk0TGRxUjAwWFYxQnVSeC13eDVRaU1UUF9XUVc4LWZhTnZaY3ZYTVI0NTZZWWVCVUxTSWpHM3ZHclBDVU1pRkZYcElneUQ2UzZyVU9SaGVpclpWcUtGbWV3cXhUUko2UDIxM3E4Z3JCRU13OUdDYTZw0gHWAUFVX3lxTE9tamY3Z3RtMXZwTUdiWGQ3d3lIbF9jeEFyM0hEdGN6clEtUWZIZm1yMDdkRmRNamlPRzNqLWJUVUJiUmlJMEZDVkdIU2FlMFRHUGhXcHFJdG55TlVoNWE4V01ZNkVVY2R1Wk52bU1OVEhQREdnRy01RklKZzQ2bDN2cTE5aUp4ZGd4ZG5nZ0FXa290SmZiOVhRaHU1cGpETTJmdVE1UkZwR2pkb2xNd1lDRjd0ZkFkVi1KNkF6eFZTaVBsREZ5dEViVVVfVjl0cHpkeE0tMlE?oc=5
+- Public-Private Partnership to Boost India’s Olympic Preparations - News On AIR
+  Public-Private Partnership to Boost India
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXBkQkZFLVZjWDZwMDhOaEZqN2Rlc2V2c3lybVdoQkZRNWVsQ3VMTXByc2pkZmlzWFhHYWdibHQzRnh6c05sZlpKa2JBMUdEb3dTeXJVUWV1SFNnbHZYbXIyQlhocHQtR0k1aVI4aXB6Z3lhUlBKb3dTc3plS3BJck9LZW1hV1c4MmNYM29TV1lINTQ?oc=5
+
+- Siddaramaiah Not Interested In Taking Rajya Sabha Post: Sources - NDTV
+  Siddaramaiah Not Interest
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ05lSG85Y0cyb3A4LUJvNGtRbHFHUXhNWHkwMWZ0NG4zVkNsTFl6eWRJeHBQN2xKSWRYYk1oaGljNFFIZ2preDdpRWNKZFVubm9Fdk0teUh5dDZBSktqUU96TkdWdTRxR3ZzcU14bUx5N0U4SVQtanA4bzNSaGg1ODJKZzR3di1RWTZXMWdrb09ZZnFWVDFjbmlUSEpVajZpYUFRSUNR0gGuAUFVX3lxTFA2VFNKZUFLazB0d3JhbEFodGlyTWdIcndKSmFDMkpjeW9GM3hFdjNjQUFSYzM2QXFJY0lJcXdGUGVZcHB5M05Ca09UemdubmR3NWRWLVFVMHZpV1JSVm9UaUFMVHlzRy01MXdPNDhEM2JDY2ZweUxrMXhYbHZYa1Y3VzRrR1BRUEtnSUs2Q1kycS1FT2x0Q3NtTVVxRWFTLWs2bHV1cjRyX0JrNTlsQQ?oc=5
+
+- National Commission for Women submits report on rights of Muslim women in India to ministries - News On AIR
+  National Commission for Women submits report on rights of Muslim women in India to
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDlkckpyY19pa1hrZ284dDA1blJNQXgzaG16TlJrMFNSUlE1LVZBLU5scWkwcWF4NlFoRWRvbm4tbTNHLXJ3QXNDMFBDbHhFZlpKTmthcnhLQmozMXRaV3BWbGlxM05HLTdVZXNTT3VsTF9yMXBTMVctNkZ0R1RFWjI2clEwYjNlR1lvSnQ1SFpXamtkZXA3X05NWko4OVZiazJvcE0zNmsyUmhpRWh2M2ZoY09uYWVGZTE4?oc=5
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- Raid on Indian opposition leader triggers violence in Kerala - Al Jazeera
-  Raid on Indian opposition leader triggers violence in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdXdE1qcmZSbHdUUFFHQlQ1dmgxVkJOdUhIT0xSUTZCUDFnZXYyVVdaWmJRRW5jckxiSjE1Y0ZFWFFBakFVRzI5VVdyVC15N21tcWxnbnNfSVUtUXNCRXI4SmQ2b0tmUVZ0UGR6bndDeTZRYm9lYklYWkpmTDB5Q2pQRTFxdENhbzlsX29XaVkyQzNHeVhpdGtNREp0ejhaNWlVR2xtNGh4M3JnRmNHRdIBtgFBVV95cUxOUkU5YzNYQlExTHlYSllDNmlWeVJEU0I4RW9IVDhnVUFKUXd4Zlo3anV2RlU1cXJjU3lxRGRqUTlXWFpZSWRGLTVwem9uR3J2dUYtam1yUnNZSm1Jdldna1RuQWNzendCMWVWLWJadlN0RE5ySVZsVmhOS05QX1pOd2cxMmpUTmZ4bjdmeFVVaVRJUVRpWHdnRTRJX25mZDVGOUdiOW1IVVBDa1NaYUFmbDZjcnVqdw?oc=5
-
-- Ranveer Singh in Don 3: Why a film union in India is boycotting the Bollywood superstar - BBC
-  Ranveer Singh is a star of Bollywood film Don 3
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GZktqR1diOVdrcDkyaWs4YUhqQkx2a0taOWJqajNLX0ZBekRoM2c4T1AwU21iajJQblhCS3Rxdm94ZEtDQXVBRlNyeC0wa3dTSnFJb3QwRXpQdw?oc=5
-
 - "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India slams Pakistan-China joint statement on Kashmir, hits back on CPEC | India News - Hindustan Times
-  India slams Pakistan-China joint statement on Kashmir, hits back on
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMklLYWJGTVBhNjNSZTRmY3RuQkFtSEZWTzA4eDlLUElab1pMZEZLQmQyYlNTcnVuR1c1VU5VY2FZNVZOVERVX2J1TUtreHhuY0tZTjh4Wlo1amFKRDNXZVk0TGRxUjAwWFYxQnVSeC13eDVRaU1UUF9XUVc4LWZhTnZaY3ZYTVI0NTZZWWVCVUxTSWpHM3ZHclBDVU1pRkZYcElneUQ2UzZyVU9SaGVpclpWcUtGbWV3cXhUUko2UDIxM3E4Z3JCRU13OUdDYTZw0gHWAUFVX3lxTE9tamY3Z3RtMXZwTUdiWGQ3d3lIbF9jeEFyM0hEdGN6clEtUWZIZm1yMDdkRmRNamlPRzNqLWJUVUJiUmlJMEZDVkdIU2FlMFRHUGhXcHFJdG55TlVoNWE4V01ZNkVVY2R1Wk52bU1OVEhQREdnRy01RklKZzQ2bDN2cTE5aUp4ZGd4ZG5nZ0FXa290SmZiOVhRaHU1cGpETTJmdVE1UkZwR2pkb2xNd1lDRjd0ZkFkVi1KNkF6eFZTaVBsREZ5dEViVVVfVjl0cHpkeE0tMlE?oc=5
+- Public-Private Partnership to Boost India’s Olympic Preparations - News On AIR
+  Public-Private Partnership to Boost India
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXBkQkZFLVZjWDZwMDhOaEZqN2Rlc2V2c3lybVdoQkZRNWVsQ3VMTXByc2pkZmlzWFhHYWdibHQzRnh6c05sZlpKa2JBMUdEb3dTeXJVUWV1SFNnbHZYbXIyQlhocHQtR0k1aVI4aXB6Z3lhUlBKb3dTc3plS3BJck9LZW1hV1c4MmNYM29TV1lINTQ?oc=5
+
+- Siddaramaiah Not Interested In Taking Rajya Sabha Post: Sources - NDTV
+  Siddaramaiah Not Interest
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ05lSG85Y0cyb3A4LUJvNGtRbHFHUXhNWHkwMWZ0NG4zVkNsTFl6eWRJeHBQN2xKSWRYYk1oaGljNFFIZ2preDdpRWNKZFVubm9Fdk0teUh5dDZBSktqUU96TkdWdTRxR3ZzcU14bUx5N0U4SVQtanA4bzNSaGg1ODJKZzR3di1RWTZXMWdrb09ZZnFWVDFjbmlUSEpVajZpYUFRSUNR0gGuAUFVX3lxTFA2VFNKZUFLazB0d3JhbEFodGlyTWdIcndKSmFDMkpjeW9GM3hFdjNjQUFSYzM2QXFJY0lJcXdGUGVZcHB5M05Ca09UemdubmR3NWRWLVFVMHZpV1JSVm9UaUFMVHlzRy01MXdPNDhEM2JDY2ZweUxrMXhYbHZYa1Y3VzRrR1BRUEtnSUs2Q1kycS1FT2x0Q3NtTVVxRWFTLWs2bHV1cjRyX0JrNTlsQQ?oc=5
+
+- National Commission for Women submits report on rights of Muslim women in India to ministries - News On AIR
+  National Commission for Women submits report on rights of Muslim women in India to
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDlkckpyY19pa1hrZ284dDA1blJNQXgzaG16TlJrMFNSUlE1LVZBLU5scWkwcWF4NlFoRWRvbm4tbTNHLXJ3QXNDMFBDbHhFZlpKTmthcnhLQmozMXRaV3BWbGlxM05HLTdVZXNTT3VsTF9yMXBTMVctNkZ0R1RFWjI2clEwYjNlR1lvSnQ1SFpXamtkZXA3X05NWko4OVZiazJvcE0zNmsyUmhpRWh2M2ZoY09uYWVGZTE4?oc=5
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- Raid on Indian opposition leader triggers violence in Kerala - Al Jazeera
-  Raid on Indian opposition leader triggers violence in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdXdE1qcmZSbHdUUFFHQlQ1dmgxVkJOdUhIT0xSUTZCUDFnZXYyVVdaWmJRRW5jckxiSjE1Y0ZFWFFBakFVRzI5VVdyVC15N21tcWxnbnNfSVUtUXNCRXI4SmQ2b0tmUVZ0UGR6bndDeTZRYm9lYklYWkpmTDB5Q2pQRTFxdENhbzlsX29XaVkyQzNHeVhpdGtNREp0ejhaNWlVR2xtNGh4M3JnRmNHRdIBtgFBVV95cUxOUkU5YzNYQlExTHlYSllDNmlWeVJEU0I4RW9IVDhnVUFKUXd4Zlo3anV2RlU1cXJjU3lxRGRqUTlXWFpZSWRGLTVwem9uR3J2dUYtam1yUnNZSm1Jdldna1RuQWNzendCMWVWLWJadlN0RE5ySVZsVmhOS05QX1pOd2cxMmpUTmZ4bjdmeFVVaVRJUVRpWHdnRTRJX25mZDVGOUdiOW1IVVBDa1NaYUFmbDZjcnVqdw?oc=5
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- Ranveer Singh in Don 3: Why a film union in India is boycotting the Bollywood superstar - BBC
-  Ranveer Singh is a star of Bollywood film Don 3
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GZktqR1diOVdrcDkyaWs4YUhqQkx2a0taOWJqajNLX0ZBekRoM2c4T1AwU21iajJQblhCS3Rxdm94ZEtDQXVBRlNyeC0wa3dTSnFJb3QwRXpQdw?oc=5
+- Public-Private Partnership to Boost India’s Olympic Preparations - News On AIR
+  Public-Private Partnership to Boost India
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMXBkQkZFLVZjWDZwMDhOaEZqN2Rlc2V2c3lybVdoQkZRNWVsQ3VMTXByc2pkZmlzWFhHYWdibHQzRnh6c05sZlpKa2JBMUdEb3dTeXJVUWV1SFNnbHZYbXIyQlhocHQtR0k1aVI4aXB6Z3lhUlBKb3dTc3plS3BJck9LZW1hV1c4MmNYM29TV1lINTQ?oc=5
+
+- Siddaramaiah Not Interested In Taking Rajya Sabha Post: Sources - NDTV
+  Siddaramaiah Not Interest
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ05lSG85Y0cyb3A4LUJvNGtRbHFHUXhNWHkwMWZ0NG4zVkNsTFl6eWRJeHBQN2xKSWRYYk1oaGljNFFIZ2preDdpRWNKZFVubm9Fdk0teUh5dDZBSktqUU96TkdWdTRxR3ZzcU14bUx5N0U4SVQtanA4bzNSaGg1ODJKZzR3di1RWTZXMWdrb09ZZnFWVDFjbmlUSEpVajZpYUFRSUNR0gGuAUFVX3lxTFA2VFNKZUFLazB0d3JhbEFodGlyTWdIcndKSmFDMkpjeW9GM3hFdjNjQUFSYzM2QXFJY0lJcXdGUGVZcHB5M05Ca09UemdubmR3NWRWLVFVMHZpV1JSVm9UaUFMVHlzRy01MXdPNDhEM2JDY2ZweUxrMXhYbHZYa1Y3VzRrR1BRUEtnSUs2Q1kycS1FT2x0Q3NtTVVxRWFTLWs2bHV1cjRyX0JrNTlsQQ?oc=5
+
+- National Commission for Women submits report on rights of Muslim women in India to ministries - News On AIR
+  National Commission for Women submits report on rights of Muslim women in India to
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDlkckpyY19pa1hrZ284dDA1blJNQXgzaG16TlJrMFNSUlE1LVZBLU5scWkwcWF4NlFoRWRvbm4tbTNHLXJ3QXNDMFBDbHhFZlpKTmthcnhLQmozMXRaV3BWbGlxM05HLTdVZXNTT3VsTF9yMXBTMVctNkZ0R1RFWjI2clEwYjNlR1lvSnQ1SFpXamtkZXA3X05NWko4OVZiazJvcE0zNmsyUmhpRWh2M2ZoY09uYWVGZTE4?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-27 20:11:56 UTC_
+_Last updated: 2026-05-28 02:43:52 UTC_
