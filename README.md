@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Revenue official accuses BJP MLA of assault for refusing document to relative, FIR filed
+- ‘Dragged by hair, assaulted’: Mother-son accuse Odisha Police of custodial torture, woman cop suspended
   
-  🔗 https://indianexpress.com/article/india/ramkumar-toppo-fir-revenue-official-assault-case-10712151/
+  🔗 https://indianexpress.com/article/india/odisha-police-assaulted-sandhyarani-jena-suspended-10712814/
 
-- No relief from extreme heatwave in North India till May 29
+- Twisha Sharma death: New phase in investigation after ex-judge Giribala Singh’s arrest
   
-  🔗 https://indianexpress.com/article/india/imd-heatwave-alert-north-central-india-temperature-update-10712004/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-death-new-phase-investigation-ex-judge-giribala-singh-10712801/
 
-- BJP names new state chiefs for Delhi, Punjab and Haryana
+- Government looks at involving Air Force for safe transport of NEET papers
   
-  🔗 https://indianexpress.com/article/india/bjp-names-new-state-chiefs-for-delhi-punjab-and-haryana-10711941/
+  🔗 https://indianexpress.com/article/india/govt-air-force-logistics-support-neet-retest-10712789/
 
-- Twisha Sharma case: Why MP High Court cancelled mother-in-law’s anticipatory bail plea
+- Dark horse BJP MLA B B Gopakumar picked as Kerala legislative party leader over party heavyweights
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-death-case-mp-hc-cancels-giribala-singh-bail-10711826/
+  🔗 https://indianexpress.com/article/india/bb-gopakumar-kerala-bjp-legislative-party-leader-10712189/
 
-- Raids doubled, attachments soared: Centre clears 60% manpower expansion for ED
+- Noted poet Bashir Badr passes away 91
   
-  🔗 https://indianexpress.com/article/india/centre-ed-cadre-restructuring-manpower-boost-10711805/
+  🔗 https://indianexpress.com/article/india/urdu-poet-padma-shri-bashir-badr-passes-away-bhopal-10712718/
 
-- Android Auto finally makes switching between music apps much easier
+- Scientists develop vitamin K-derived compounds that may help regenerate brain cells
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/android-auto-finally-makes-switching-between-music-apps-much-easier-10712227/
+  🔗 https://indianexpress.com/article/technology/science/vitamin-k-shibaura-institute-neuron-regeneration-brain-repair-10712802/
 
-- Google adds ‘Preferred Sources’ feature to AI Search for personalised content discovery
+- OpenAI to step up cyber defenses, anti-misinformation efforts ahead of global elections in 2026
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-adds-preferred-sources-feature-to-ai-search-for-personalised-content-discovery-10712007/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
 
-- James Bond’s 007 First Light: Price, platforms, gameplay details, and more
+- 5 online math games that make learning feel more like gaming
   
-  🔗 https://indianexpress.com/article/technology/gaming/james-bonds-007-first-light-price-platforms-gameplay-details-and-more-10711883/
+  🔗 https://indianexpress.com/article/technology/gaming/online-math-games-that-make-learning-feel-more-like-gaming-10712471/
 
-- WhatsApp introduces Channel Status for admins to share 24-hour updates
+- Rare ‘Blue Moon’ to light up skies this weekend: What it really means
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-introduces-channel-status-for-admins-to-share-24-hour-updates-10711797/
+  🔗 https://indianexpress.com/article/technology/science/rare-blue-moon-to-light-up-skies-this-weekend-what-it-really-means-10712484/
 
-- YouTube updates AI video policies with an automatic detection system
+- Nasa prepares to introduce 4-person Artemis 3 crew for upcoming lunar mission
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-updates-ai-video-policies-with-an-automatic-detection-system-10711814/
+  🔗 https://indianexpress.com/article/technology/science/nasa-to-introduce-4-person-artemis-3-crew-for-upcoming-lunar-mission-10712263/
+
+- Ashok Leyland bets on overseas growth as West Asia risks weigh on supply chains
+  The commercial vehicle maker is leaning on supply-chain resilience and operational discipline. It is expanding into Indonesia and other A
+  🔗 https://www.livemint.com/companies/news/ashok-leyland-bets-on-overseas-growth-as-west-asia-risks-weigh-on-supply-chains-11779977183092.html
+
+- Reliance’s luxury retail arm narrows losses, designer labels lag
+  Reliance Brands, Reliance Retail’s flagship premium and luxury fashion business, reported FY26 revenue of  ₹3,
+  🔗 https://www.livemint.com/companies/news/reliance-retail-reliance-industries-luxury-retail-arm-designer-labels-india-11779970955625.html
+
+- TCI plans to buy ships to expand high-margin coastal seaway business
+  The Gurugram-based logistics and supply chain management company has planned a capex of  ₹550-600 crore in FY27
+  🔗 https://www.livemint.com/companies/tci-plans-to-buy-ships-to-expand-coastal-seaway-business-11779962359316.html
+
+- Bajaj Finserv commits  ₹1,500 cr-2,000 cr over 5 years to AI innovation startups to bridge private R&amp;D funding gap
+  Finserv Intelligence aims to enhance India's private sector R&amp;amp;D. The plan to invest in AI startups will focus on early
+  🔗 https://www.livemint.com/companies/news/bajaj-finserv-ai-innovation-startups-private-r-d-funding-cybersecurity-quantum-technology-fintech-consumer-tech-11779955576265.html
 
 - GMR widens lead over Adani Airports on Delhi tariff boost
   Higher international passenger fees at Delhi airport helped GMR Airports outpace Adani Airports in FY26 revenue growth. upcoming additions
   🔗 https://www.livemint.com/companies/news/gmr-airports-widens-lead-over-adani-airports-on-delhi-tariff-boost-11779952437627.html
 
-- IndiGo Q4 preview: Can India’s biggest airline weather fresh turbulence?
-  Higher fuel prices, Gulf airspace disruptions and a weak rupee are expected to pressure IndiGo’
-  🔗 https://www.livemint.com/companies/indigo-q4-results-indigo-earnings-preview-willie-walsh-pieter-elbers-aviation-sector-airline-industry-jet-fuel-prices-11779934149980.html
+- Gold, silver rates today: Comex gold, silver recover from lows after US inflation data eases rate hike fears
+  Gold rose to $4,502 and silver to $75.23, despite earlier lows. Tensions in the Middle East also influenced market dynamics.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-silver-recover-from-lows-after-us-inflation-data-eases-rate-hike-fears-11779978041440.html
 
-- EQT appoints Nicholas Macksey and Hari Gopalakrishnan as co-heads of Private Capital Asia
-  Nicholas Macksey and Hari Gopalakrishnan succeed Jean Eric Salata. Both have
-  🔗 https://www.livemint.com/companies/people/eqt-nicholas-macksey-hari-gopalakrishnan-co-heads-of-private-capital-asia-jean-eric-salata-11779939593238.html
+- Reading the bond tea leaves: Are bond yields likely to remain high in near future?
+  Bond markets globally are signalling that they need some clarity, primarily on the geopolitical front, before
+  🔗 https://www.livemint.com/market/bonds/reading-the-bond-tea-leaves-are-bond-yields-likely-to-remain-high-in-near-future-11779978167349.html
 
-- Mphasis board sets AI-era goals: have ample cash, be future-proof
-  The Mphasis board has urged the management to future-proof the business and protect market share. CEO Nitin Rakesh remains optimistic about growth despite headwind
-  🔗 https://www.livemint.com/companies/mphasis-ai-strategy-nitin-rakesh-interview-mphasis-tria-ai-platform-indian-it-sector-ai-disruption-growth-outlook-11779936977882.html
+- Wall Street slips as oil jumps, Fed’s preferred inflation hits 3-year high, Snowflake soars 34%, Kohl's rises 18.5%
+  The Dow Jones Industrial Average fell 0.22%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slips-as-crude-oil-jumps-fed-s-preferred-inflation-hits-3-year-high-11779975073395.html
 
-- Development Bank of Japan makes maiden realty investment in India with HDFC Capital
-   development shows growing Japanese interest in India's real estate. Development Bank of Japan has invested in HDFC Capital's H-DREAM Fund. The fund focuses on affordable housing.
-  🔗 https://www.livemint.com/companies/development-bank-of-japan-maiden-india-realty-investment-hdfc-capital-11779901724485.html
+- Vijay Kedia’s second pitch to turbocharge market after LTCG repeal: Scrap dividend taxation
+  Kedia says dividend income on listed equities should not be subjected to double taxation.
+  🔗 https://www.livemint.com/market/stock-market-news/vijay-kedia-s-second-pitch-to-turbocharge-market-after-ltcg-repeal-scrap-dividend-taxation-11779975705623.html
 
-- Mint Explainer | Will Sebi’s digital bonds plan deepen India’s debt market?
-  Market participants believe the framework could benefit both issuers and investors. The biggest incremental
-  🔗 https://www.livemint.com/market/sebi-tokenised-bonds-retail-investors-corporate-debt-market-11779952884015.html
-
-- Mid-cap &amp; small-cap indices at record highs: Should you be greedy or fearful? Technical experts weigh in
-  The Nifty Midcap 100 index rose to a new peak of 62,704.10 on Wednesday. The index is set to end higher for a second month straight despite the Middle East crisis. At the same time
-  🔗 https://www.livemint.com/market/stock-market-news/midcap-small-cap-indices-at-record-highs-should-you-be-greedy-or-fearful-technical-experts-weigh-in-11779961190073.html
-
-- Bharat Dynamics Q4 results: Net profit falls 59% YoY to  ₹113 crore;  ₹0.40 final dividend announced
-  The defence company reported 59.5% year-on-year (YoY
-  🔗 https://www.livemint.com/market/stock-market-news/bharat-dynamics-q4-results-net-profit-falls-59-yoy-to-113-crore-0-40-final-dividend-announced-11779959628421.html
-
-- India Inc escaped the revenue slowdown trap in Q4. Now comes the harder part
-  More companies returned to double-digit growth in Q4FY26. Earnings momentum remained concentrated in premium consumption,
-  🔗 https://www.livemint.com/market/stock-market-news/india-inc-revenue-recovery-q4fy26-inflation-margin-pressure-fy27-11779948396307.html
-
-- Bitcoin must hold $70,000 or risk deeper slide: Experts say, ‘Caution rising among traders’
-  Bitcoin falls to $73,294, its lowest in over six weeks. Global
-  🔗 https://www.livemint.com/market/cryptocurrency/bitcoin-must-hold-70-000-or-risk-deeper-slide-experts-say-caution-rising-among-traders-11779955025735.html
+- Pharma stock declares 18% final dividend along with Q4 results 2026
+  Lincoln Pharmaceuticals announced a final dividend of  ₹1.80 per share for FY26. The company aims for  ⁹1,000 crore revenue
+  🔗 https://www.livemint.com/market/stock-market-news/pharma-stock-declares-18-final-dividend-along-with-q4-results-2026-11779972416074.html
 
 - Microsoft Copilot, ChatGPT to Gemini: The AI productivity tools reshaping office work in 2026
   From Microsoft Copilot and Google Gemini to ChatGPT, Slack AI and Notion AI, workplace software is rapidly becoming AI-native. These tools now draft documents, summar
@@ -100,125 +100,85 @@
    Meta has begun roling. Instagram Plus, WhatsApp Plus, and Facebook Plus subscriptions globally. Instagram and Facebook subscription is priced at $
   🔗 https://www.livemint.com/technology/tech-news/meta-launches-instagram-plus-facebook-plus-and-whatsapp-plus-subscriptions-globally-heres-what-you-get-11779928717350.html
 
-- Stocks eke out record closing highs, oil slides as markets eye US-Iran peace progress - Reuters
-  Stocks eke out record closing highs, oil slides as
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ?oc=5
-
-- Markets News, May 21, 2026: Dow Closes at Record High, Oil Prices Retreat; Walmart, Nvidia Shares Fall After Earnings Reports - Investopedia
-  The Dow closed at a record high on May 21, 2026. Walmart, Nvidia Shares
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1dZbk03dlhGaHF4b0hvTG50M1Q0TXhjUDAxVFN2MHZneVFhZXZuWlgxcW9BZzYwaFVDSFdtTVBMV0Q3NHYyVTV2aG8tQzVPcktubTFLQ1g3UVhDS0VMazFQbnhJenVKc0ZsUldDVFlyeWRjcjlpZDZXOWNSSGhqcVlXMHNtUllLYnZXeGx6Nko?oc=5
-
-- S&P 500 futures decline as Wall Street awaits key April inflation reading: Live updates - CNBC
-  S&amp;P 500 futures decline as Wall Street awaits
+- S&P 500 rises on report negotiators have reached deal to extend Iran ceasefire, but traders wary: Live updates - CNBC
+  S&amp;P 500 rises on report negotiators have reached deal to extend Iran
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1hM1V1MmRicW13c1RpYkdtM0JzR3RUSnRMTVFmdWo2Z0hDUWNoV0VjS29Ld0NNMXczb3p3akg4R3VBYVZveXVJa1ZVdUpQVkVHbWh2Q1VRR1dqQ3FvUE92YmlWdDRCUjM4QVNXX3RZb2duZHFoMFI00gF8QVVfeXFMTVJKVFVEUDZZQmZJa083Uzd3ZVJleFI2cmhtODFpd1F3bmZtQWRKRW01Q0F1aWhfbWE3bm5lc1drTXhlMVZxVGJXcXBRRk5lUFpUMzhaMFlZTVJpX1ZCQTFQQnktVDZEd1puU3pyTFVld29JdUJVTl9sNWtMQw?oc=5
 
-- Middle East tensions rattle Asia markets after fresh U.S. strikes in Iran - CNBC
-  Middle East tensions rattle Asia markets after fresh U
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOcS03Z0FpQ1VQcGFXNU9zc29Zb0d4b2M4YlJXLUcwN2lxbGF2TDJjQjRBTS1Cb0RtNVhqeTJackNCZFlfSWNoc2F2cWRWT2VSbnFmc0pCNExoOXBwUU1kOS1pMjZhY0dpYzAxWkszVG4ySEFaaEpmYkhaeUhPQXU4QXhSZ0JnNGdxbDgzNWJQbXV1T1JTMmpVWm5VUTlOZUHSAaQBQVVfeXFMTVFaSE8zUXZ0NmV1Uzg3eXdNSzZiRHhzcHg5Qm1fckU5cVNuYkdHUVNIMHBQR3BzYWVHN3hCcUZiNkJjTFdueklmWDdjbzczUnFSRlpxUl9rVkFBRl9rbWwxeTN2Qk51am1iWVN0R2pFX0d4ZGdoRVd4NzI5LXBzbVNNUk9PdWNmc2ExdktZd1gzYk5yVDZZYjVEcl9Oc0V5Q0JGb1I?oc=5
+- Stock Rally Stalls as Oil Rises on US-Iran Clashes: Markets Wrap - Bloomberg.com
+  Stock Rally Stalls as Oil Rises on
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPR21yOEp1UkNRMnlST1ZWWEZDcWZtSl8zeXp4QmI0S1ZWeU9UZi1jN0ViM3VzSllDMzkyVy1GczZIdjhaNHRhUHA0SGtHVm5GaFZKWDZreDUxNHJSRWhoNllBQTJodjZJMWhOdEs4TjBFeklfaXZ4aVR4cU41TkFGWlNMYWJMWHE0V0ROdGdfYXAxY1hqV3FuN0RuYTFIR2VMQ1ROQmQ1Qy1rR3phNzNxSw?oc=5
 
-- Stock Market Today: Dow Futures Slip, Oil Rises as Mideast Hostilities Flare — Live Updates - WSJ
-  Stock Market Today: Dow Futures Slip, Oil Rises as
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3hHR3g2cnFYa0RteE0zYk5WTksza04xSm4yU3JCT3JuX2huUllRWnpFLTR0Q2NMNS1JZ1FJSmFzTjZteGg1RTBLZGp3UTFlWEhUbVBlcE1YODFralRPaFowVi02WHdETWpBZ3ZYZG5zbmNWYWlPb1B2WXJNRTlGTnVKUnUyMXc?oc=5
+- Stock Market Today: S&P 500, Nasdaq Set New All-Time Highs on Softer-Than-Expected Monthly Inflation Data; Oil Ticks Higher on Shaky US-Iran Ceasefire - Investopedia
+  Stock Market Today: S&amp;P 500, Nasdaq Set New All-Time Highs
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUpiVVFndG9abEZ5MFpGTm5MUm5iY3pKTGlRX2FiOW1QanVSV0Z4cXY0RUVpbXBpdmtEeERDZXBuUV8yOVZxTUg0VDRHc1FBQ1RWWnJfRnF2b0QwRi12ZnRRcHZfd2ZkdzZfNFFGemRXVzBLRFRSWHpqbERDd0dEdzluTkRYQTJXdTdxN1E2Vy0?oc=5
 
-- GP Petroleums Q4 profit rises 8%
-  GP Petroleums reported an 8% year-on-year profit increase in the fourth quarter. For the full fiscal year 2025-26, the company saw a 5% revenue growth and a slight increase in profit.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/gp-petroleums-q4-profit-rises-8/articleshow/131366674.cms
+- Q4 Results 28th May highlights: Ashok Leyland & JSW Holdings Q4 profit up, Graphite India reports Q4 loss, Bharat Dynamics, Alkem Lab & Anup Engineering profit down - BusinessLine
+  Q4 Results 28th May highlights: Ashok Leyland & JSW Holdings Q4 profit up, Graphite India reports
+  🔗 https://news.google.com/rss/articles/CBMi4gJBVV95cUxPSlF5RzM1clJ1SFhfbll5cy1NUnhFcVQ4Vm1ZQTQ4V3ZtOGpmbFNuMDN6aDlHcTZuam5RX3FramJDS1NTR2xzMXNwUEJEZ1RwamdidTIxZ016OFdyRDA1bU5zcElhWWh0WTRTbEdBcG5hN2U4WkU5NC0wNWZ5aC1xcEgzamktZzZuM0J4dFprdHBaVl9kVzd1UlA2elF3cDhFQUZYcGlaVkhQRUg5X1l6N1NtOXlzVGZvYkY1dFZoYlRQQWltMnRlekhKaW1NaENWZkJLZmNobm5PQThnb0Y3Ty13QVl3ZVNCNEhIVFB6YWVpUklhV2pHOVZpa2RqNTFiUnFRcXFiTnU5dklqcEJZNTZBTXpJSDdzOWFxeVhNWUhyN3hfS2xIS0h5a2dOQl9qdGYwaEw0aFhMYk9sYXhsRmJ2NlZET1h4NDBtOWI0cElrcFRYaG52X194eUhJbDZNS3fSAegCQVVfeXFMTVdmN3V6Zi1CUkNERmZxS0c4YkdhZjg0amc0RF9TWDBqTDBLMVUxVnJiMzAzYV90eEtESjgwVGdBcDBGdjYyeTBpam9taElVNEh2TWVLZkg0WnJRaHRIUjNVQUV6NW5YcnI4UWVlOWNtcVZOMUVRbGNYd09GQlV5dWE3clllZC1Wbk5YYWhXcl9Gdnhrazl6d21nRHctbXZ3Z3NBZ282RkxrT01jODdrSXZDNFdGendDT3pCcjI3TE9QT1RLWmx4a2pFQkg5aXhtb0RFLXlldkVLazRsckV2dG5rR0Robnk2QmdlZjI5N1hVY3ZYeGJNUEpLYUtQWXh2SnZLVkcwV3pZbUMzb0hUNFZCUDRsd2xWRDVhdnJmSjV4bVRmbkNhUzQwdVRZcUswNFpkaTV6MHEwNTZyanJNbFJZTWJrZ3VELVFqMHo0clFEY2l5UWxQdVd3UEprM3pKS3d3LTZkX1JH?oc=5
 
-- Vijay Kedia says long-term capital gains tax should be abolished for nation building. Here’s why
-  Vijay Kedia has urged the government to abolish long-term capital gains (LTCG) tax on listed equities. Long-term investors should be recognized as contributors of patient capital rather than speculators.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-says-long-term-capital-gains-tax-should-be-abolished-for-nation-building-heres-why/articleshow/131366716.cms
+- US Stock Market Today | Dow Jones | Nasdaq Live: Wall St set for muted open as investors assess inflation... - The Economic Times
+  The Economic Times reports that the U.S. stock market is set for a muted open as investors
+  🔗 https://news.google.com/rss/articles/CBMi2wJBVV95cUxQNWxGRVgwUWJZRFVIUDFoc2lDTnA2N3dFY2ZUUVBoS3g3d0tJVGJRQThGZ1R3VlRtbzlPQ3RuRVFXRExiMjREQ3RuVFVrdUFHSkJaaDVhbzk3VW9rb1YzSEJqc1Fha0NHc0J5eGM3dTUzbXlLOHZIbndJOEN2T1hLWUtENHk0UUV3TkV0UnRIZG8wazRQOHJJQkRqMHBEUHUxUm1XYmRMWEVPZmEwdHd5YUUyVFp5bXZKcmhILWVwTVdJVlc2Ulo0VTJ3VVB0TGFhWGwwY0UyVlVQcjlUemFxZGowTjhTai1xTEtwaU5JdVFNOE9ERHpTeUlrWFczY0tzNGo0VV9MUWMtNGl6d3ZNR0lTaDQ1X245V2o4enhDRk1NT2JZRHJzeXNsQ0MyWnpSWXhHUTFNd1BhMVhuUUFkRm9PUGFkbUF2ZzM3Y2lrOGZqY0NBWkpvdXZIQdIB4AJBVV95cUxOMVZtVXZBSndMUTdkNV9KamxPNEhKVGFkVzhtNDhOcnRybkJyek1ScnpacFkwLXoxVDFWb1l2dUJZS0F6VS05UThqSkNtRjF5aHN3OXRBbmhfQm9LRDlNSGZtRkw4czU5bzg1X0pYcURoUEkweHp0N010azc1bEwyb0JJNDdYYXk5Qng4SllPR2NUTGRkazZlUGI2NzR1VVJIUE9wZi14OWs2UWw3am94TDJRclgwQ1ppX1diYUlQMjRNdEtuNWE2TElLVzBVQk9WcVpNTzItRXozbFIxckZ1b2cydkt0bEo5b0puMF81NE55RzJqajhoZ2xzTUd1a2dJblJPaXRMelNBclFqTkJyVEJ3ckIySTNUOWZiVUlGenEyZVBEZ29vcFJfT3paXzVNdnRPREZOemoxdkpYbFoyME5kTE5nYWM4Z1hVNHlBTVJ3ZFU3Vkg0WDZPZHc2VGYx?oc=5
 
-- Dolly Khanna’s portfolio sees steady gains in CY26; 5 stocks rise up to 25%
-  Dolly Khanna's portfolio, valued at Rs 481 crore as of May 2026, saw a 8% increase from December 2025. Five of her eight publicly held stocks gained between 4% and 26% in CY
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dolly-khannas-portfolio-sees-steady-gains-in-cy26-5-stocks-rise-up-to-25/slideshow/131366536.cms
+- Global Stocks: Europe's E6 states seek common position on capital market supervision
+  The ministers of Germany, France, Italy, Poland, Spain and the Netherlands are meeting in Berlin on Thursday
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-europes-e6-states-seek-common-position-on-capital-market-supervision/articleshow/131372959.cms
 
-- Trump reiterates vision to make US the Crypto Capital of World. Here is what experts say
-  Federal authorities and state governments are in a dispute over regulatory control. Trump's family has financial ties to these industries. The outcome will shape the future of prediction markets across the US.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/trump-reiterates-vision-to-make-us-the-crypto-capital-of-world-here-is-what-experts-say/articleshow/131365749.cms
+- Apex Service sells minority stake to Apollo at $10 billion valuation, source says
+  Apex says it will use the funds to expand its national footprint and deepen its multi-trade service.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms
 
-- ​DMart, Meesho, among 10 stocks that saw highest increase in HNI holding in Q4. Check list
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dmart-meesho-among-10-stocks-that-saw-highest-increase-in-hni-holding-in-q4-check-list/slideshow/131365681.cms
+- Fed's Williams: Productivity shifts hard to spot in real time
+  Williams did not comment on the near-term monetary policy
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms
 
-- India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
-  India orders demolition drive along border as Pakistan tensions
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
+- Ashiana Housing Q4 profit flat at Rs 21 cr, revenue rises to Rs 335 cr
+  During FY26, the company's net profit surged to Rs 117.89 crore from Rs 18.24 crore in the preceding year.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ashiana-housing-q4-profit-flat-at-rs-21-cr-revenue-rises-to-rs-335-cr/articleshow/131371930.cms
 
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - ndtv.com
-  "Single Largest Self-Inflicted Obst
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
-
-- India, EU Discuss Strengthening Defence Ties, Maritime Cooperation in Indo-Pacific - News On AIR
-  India, EU Discuss Strengthening Defence Ties
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzhNemp5YkZ0VUdqXzlzaFAxX3lTa0l2ZExVR29yOWkzLTdwSGhMUkQ1WEloNzJpeVNhcWd4UTJMU1pqNkM0RmFTYk1tTWxlTllEcGp2bXdhcHY4bHdjQ1F0Tjg1S1k3R2h0NVpwWm9JNnA2RzZhSDl1a2ljQnhWTUt4VkY4SzJYTEkzc2N6N1BrYnRSWng4dlRvMG50b1d3N01lQ25XTXk1dw?oc=5
-
-- India Advancing Towards Prosperity with Transparent Financial Laws: LS Speaker Om Birla - News On AIR
-  India Advancing Towards Prosperity with Transparent Financial Laws:
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDdZWTgxZ212NmgxSkpoU2k4X29GUXF3S1EwaGxxZjlTSzZmNVNYYV9IMFFDSXY0QTlreWdZMnY2QkczREhlQU5GR0QzdU5qeGJTQ2hOQk9SSUZyRnZJSk9vZ1hGTVNsQmN0cDJZQW50eF9wVkFaQ19BREJOVVI2QTNlYmJ6Mi1LQVBNS0pJc0JoQ1RHS3lQUTVudk9CbFRwQkdIV09CWmZ3N2xPWHF3aWtR?oc=5
-
-- India’s coal production for June reaches 84.63 million tonnes with growth rate of nearly 15 % - News On AIR
-  India’s coal production for June reaches 84.63 million tonnes with growth
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0lkT2luX2hMcHlwRkNWV3lpaHpPSnJoOTNRNVNLMWRtYUNpMzJ6Sm5uYk55RC1xSnFUckJ5eFpsR0xBcjVrdHBzTnVScTU0eWpMRDFfWVk1WjQyVkFrMUFqVHJubndZY2t3UG1zdUd2NjJKZlBqYXhJckUxU2w4MW0zTDNCNlZ4a19fc2l3bUIxVHNCTmRjYkJZSDd0cjlhbDNJbjlPOWgwaUZMU3lIY0dMaVdhS2c?oc=5
+- NorthWind Estates buys 5acre land in Yamuna Expressway region for Rs 189 cr via auction
+  The company in a statement said that it has emerged as the highest bidder in a recent auction conducted by the Yam
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/northwind-estates-buys-5acre-land-in-yamuna-expressway-region-for-rs-189-cr-via-auction/articleshow/131371905.cms
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - ndtv.com
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India, EU Discuss Strengthening Defence Ties, Maritime Cooperation in Indo-Pacific - News On AIR
-  India, EU Discuss Strengthening Defence Ties
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzhNemp5YkZ0VUdqXzlzaFAxX3lTa0l2ZExVR29yOWkzLTdwSGhMUkQ1WEloNzJpeVNhcWd4UTJMU1pqNkM0RmFTYk1tTWxlTllEcGp2bXdhcHY4bHdjQ1F0Tjg1S1k3R2h0NVpwWm9JNnA2RzZhSDl1a2ljQnhWTUt4VkY4SzJYTEkzc2N6N1BrYnRSWng4dlRvMG50b1d3N01lQ25XTXk1dw?oc=5
+- Australian PM Anthony Albanese says India-Australia ties continue to deepen across culture, education and trade - News On AIR
+  Australian PM Anthony Albanese says India-Australia ties continue to deepen across culture
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjVvX1dLcFZXQmVUZ0JzLUx5OTU1ZmtsUnNsZERmWUNDbXpFU2NyRmh1VG54T3J5TXhsSU01VlJXVGJUVGx3eDEyb1dyOXNGMXhzWW9qY2gtcDZCNkNNSDdyT1ZzOGstZWZpMzB2YXNTOXgySk5tLXhCQmg2U2xMbzhydEFMX3ZpMjFmbnhNNjFGWEZFOVN6aU5haVpXTDlEU21lS2txN0FQX0NfQUpIR1dfMzFZRkR2U19rZzJsOEJuLVdSRDlHanl4ZHc4dE1wRGc?oc=5
 
-- India Advancing Towards Prosperity with Transparent Financial Laws: LS Speaker Om Birla - News On AIR
-  India Advancing Towards Prosperity with Transparent Financial Laws:
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDdZWTgxZ212NmgxSkpoU2k4X29GUXF3S1EwaGxxZjlTSzZmNVNYYV9IMFFDSXY0QTlreWdZMnY2QkczREhlQU5GR0QzdU5qeGJTQ2hOQk9SSUZyRnZJSk9vZ1hGTVNsQmN0cDJZQW50eF9wVkFaQ19BREJOVVI2QTNlYmJ6Mi1LQVBNS0pJc0JoQ1RHS3lQUTVudk9CbFRwQkdIV09CWmZ3N2xPWHF3aWtR?oc=5
+- Myanmar President U Min Aung Hlaing to visit India on PM Modi’s invitation - News On AIR
+  Myanmar President U Min Aung Hlaing to visit India
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPalAzQmFXNzJXY0c1d2tmYnFSTUdzRFN6T0ZRcGNhMHlUeFlqQnhHMEt3ZmZzRVVINEl4TFpUdXprQWw4TmJPWlU2cWFuaDlEdGFmc3NOQXQxS2hhWnhFdENLTFNEaEstOHRGcWY5NHRHUGd2S3F5UjliS2VHV0Z4WG55X3Fma2hWUW8za1lQSVhCZmIyVmNjZWZpSktvQ0tl?oc=5
 
-- India’s coal production for June reaches 84.63 million tonnes with growth rate of nearly 15 % - News On AIR
-  India’s coal production for June reaches 84.63 million tonnes with growth
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0lkT2luX2hMcHlwRkNWV3lpaHpPSnJoOTNRNVNLMWRtYUNpMzJ6Sm5uYk55RC1xSnFUckJ5eFpsR0xBcjVrdHBzTnVScTU0eWpMRDFfWVk1WjQyVkFrMUFqVHJubndZY2t3UG1zdUd2NjJKZlBqYXhJckUxU2w4MW0zTDNCNlZ4a19fc2l3bUIxVHNCTmRjYkJZSDd0cjlhbDNJbjlPOWgwaUZMU3lIY0dMaVdhS2c?oc=5
+- CBSE OSM: Controversies rock crucial school-leaving exam in India - BBC
+  CBSE OSM: Controvers
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SEFiX2tOdV9oWlRhUVFWQTBuS25oTURvRVVOcko4X3VjbHJ2TFVubG0yQktRSFVoSnhlZGRhS081WFEyOEpsRmRYeGN2b3lqT1ZKWUVPaTNYUQ?oc=5
 
 - India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
   India orders demolition drive along border as Pakistan tensions
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
 
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - ndtv.com
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India, EU Discuss Strengthening Defence Ties, Maritime Cooperation in Indo-Pacific - News On AIR
-  India, EU Discuss Strengthening Defence Ties
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzhNemp5YkZ0VUdqXzlzaFAxX3lTa0l2ZExVR29yOWkzLTdwSGhMUkQ1WEloNzJpeVNhcWd4UTJMU1pqNkM0RmFTYk1tTWxlTllEcGp2bXdhcHY4bHdjQ1F0Tjg1S1k3R2h0NVpwWm9JNnA2RzZhSDl1a2ljQnhWTUt4VkY4SzJYTEkzc2N6N1BrYnRSWng4dlRvMG50b1d3N01lQ25XTXk1dw?oc=5
+- Australian PM Anthony Albanese says India-Australia ties continue to deepen across culture, education and trade - News On AIR
+  Australian PM Anthony Albanese says India-Australia ties continue to deepen across culture
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbjVvX1dLcFZXQmVUZ0JzLUx5OTU1ZmtsUnNsZERmWUNDbXpFU2NyRmh1VG54T3J5TXhsSU01VlJXVGJUVGx3eDEyb1dyOXNGMXhzWW9qY2gtcDZCNkNNSDdyT1ZzOGstZWZpMzB2YXNTOXgySk5tLXhCQmg2U2xMbzhydEFMX3ZpMjFmbnhNNjFGWEZFOVN6aU5haVpXTDlEU21lS2txN0FQX0NfQUpIR1dfMzFZRkR2U19rZzJsOEJuLVdSRDlHanl4ZHc4dE1wRGc?oc=5
 
-- India Advancing Towards Prosperity with Transparent Financial Laws: LS Speaker Om Birla - News On AIR
-  India Advancing Towards Prosperity with Transparent Financial Laws:
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDdZWTgxZ212NmgxSkpoU2k4X29GUXF3S1EwaGxxZjlTSzZmNVNYYV9IMFFDSXY0QTlreWdZMnY2QkczREhlQU5GR0QzdU5qeGJTQ2hOQk9SSUZyRnZJSk9vZ1hGTVNsQmN0cDJZQW50eF9wVkFaQ19BREJOVVI2QTNlYmJ6Mi1LQVBNS0pJc0JoQ1RHS3lQUTVudk9CbFRwQkdIV09CWmZ3N2xPWHF3aWtR?oc=5
+- Myanmar President U Min Aung Hlaing to visit India on PM Modi’s invitation - News On AIR
+  Myanmar President U Min Aung Hlaing to visit India
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPalAzQmFXNzJXY0c1d2tmYnFSTUdzRFN6T0ZRcGNhMHlUeFlqQnhHMEt3ZmZzRVVINEl4TFpUdXprQWw4TmJPWlU2cWFuaDlEdGFmc3NOQXQxS2hhWnhFdENLTFNEaEstOHRGcWY5NHRHUGd2S3F5UjliS2VHV0Z4WG55X3Fma2hWUW8za1lQSVhCZmIyVmNjZWZpSktvQ0tl?oc=5
 
-- India’s coal production for June reaches 84.63 million tonnes with growth rate of nearly 15 % - News On AIR
-  India’s coal production for June reaches 84.63 million tonnes with growth
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0lkT2luX2hMcHlwRkNWV3lpaHpPSnJoOTNRNVNLMWRtYUNpMzJ6Sm5uYk55RC1xSnFUckJ5eFpsR0xBcjVrdHBzTnVScTU0eWpMRDFfWVk1WjQyVkFrMUFqVHJubndZY2t3UG1zdUd2NjJKZlBqYXhJckUxU2w4MW0zTDNCNlZ4a19fc2l3bUIxVHNCTmRjYkJZSDd0cjlhbDNJbjlPOWgwaUZMU3lIY0dMaVdhS2c?oc=5
-
-- India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
-  India orders demolition drive along border as Pakistan tensions
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
-
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - ndtv.com
-  "Single Largest Self-Inflicted Obst
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
-
-- India, EU Discuss Strengthening Defence Ties, Maritime Cooperation in Indo-Pacific - News On AIR
-  India, EU Discuss Strengthening Defence Ties
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzhNemp5YkZ0VUdqXzlzaFAxX3lTa0l2ZExVR29yOWkzLTdwSGhMUkQ1WEloNzJpeVNhcWd4UTJMU1pqNkM0RmFTYk1tTWxlTllEcGp2bXdhcHY4bHdjQ1F0Tjg1S1k3R2h0NVpwWm9JNnA2RzZhSDl1a2ljQnhWTUt4VkY4SzJYTEkzc2N6N1BrYnRSWng4dlRvMG50b1d3N01lQ25XTXk1dw?oc=5
-
-- India Advancing Towards Prosperity with Transparent Financial Laws: LS Speaker Om Birla - News On AIR
-  India Advancing Towards Prosperity with Transparent Financial Laws:
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDdZWTgxZ212NmgxSkpoU2k4X29GUXF3S1EwaGxxZjlTSzZmNVNYYV9IMFFDSXY0QTlreWdZMnY2QkczREhlQU5GR0QzdU5qeGJTQ2hOQk9SSUZyRnZJSk9vZ1hGTVNsQmN0cDJZQW50eF9wVkFaQ19BREJOVVI2QTNlYmJ6Mi1LQVBNS0pJc0JoQ1RHS3lQUTVudk9CbFRwQkdIV09CWmZ3N2xPWHF3aWtR?oc=5
-
-- India’s coal production for June reaches 84.63 million tonnes with growth rate of nearly 15 % - News On AIR
-  India’s coal production for June reaches 84.63 million tonnes with growth
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0lkT2luX2hMcHlwRkNWV3lpaHpPSnJoOTNRNVNLMWRtYUNpMzJ6Sm5uYk55RC1xSnFUckJ5eFpsR0xBcjVrdHBzTnVScTU0eWpMRDFfWVk1WjQyVkFrMUFqVHJubndZY2t3UG1zdUd2NjJKZlBqYXhJckUxU2w4MW0zTDNCNlZ4a19fc2l3bUIxVHNCTmRjYkJZSDd0cjlhbDNJbjlPOWgwaUZMU3lIY0dMaVdhS2c?oc=5
+- CBSE OSM: Controversies rock crucial school-leaving exam in India - BBC
+  CBSE OSM: Controvers
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SEFiX2tOdV9oWlRhUVFWQTBuS25oTURvRVVOcko4X3VjbHJ2TFVubG0yQktRSFVoSnhlZGRhS081WFEyOEpsRmRYeGN2b3lqT1ZKWUVPaTNYUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-28 09:57:11 UTC_
+_Last updated: 2026-05-28 15:41:21 UTC_
