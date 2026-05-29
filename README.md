@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Burning SUV, 4 charred bodies, ‘staged accident’: When a domestic feud turned deadly in Ajmer
+- ‘Vande Mataram’ row becomes first major controversy for Kerala’s new government
   
-  🔗 https://indianexpress.com/article/india/burning-suv-4-charred-bodies-staged-accident-when-a-domestic-feud-turned-deadly-in-ajmer-10713066/
+  🔗 https://indianexpress.com/article/india/kerala-vande-mataram-row-first-controversy-congress-government-10714010/
 
-- Goa nightclub blaze: ED attaches properties worth Rs 11 crore
+- Twisha Sharma’s husband Samarth, mother-in-law Giribala Singh sent to CBI custody till June 2
   
-  🔗 https://indianexpress.com/article/india/goa-birch-nightclub-fire-ed-probe-10713155/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-husband-samarth-giribala-singh-sent-to-cbi-remand-june-2-10714013/
 
-- ‘To impress Delhi bosses’: Sonam Wangchuk on Ladakh L-G’s warning over ‘honorary cockroach’ remark
+- Indian Railways unveils new 18-star logo after formation of South Coast Railway zone
   
-  🔗 https://indianexpress.com/article/india/to-impress-bosses-in-delhi-sonam-wangchuk-on-ladakh-l-gs-warning-to-him-over-honorary-cockroach-remark-10713091/
+  🔗 https://indianexpress.com/article/india/indian-railways-unveils-new-18-star-logo-after-formation-of-south-coast-railway-zone-10712598/
 
-- Overwhelmed, understaffed delivery wards, 53 deaths in a year: MP district is Ground Zero for maternal mortality
+- Old cybercrime case, a Rs 10,000 scholarship promise: What led to a teen’s murder in Bihar
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-sidhi-maternal-mortality-investigation-53-deaths-in-a-year-10713093/
+  🔗 https://indianexpress.com/article/india/bihar-begusarai-teenager-killed-online-scholarship-bait-cybercrime-revenge-fake-facebook-profile-10713758/
 
-- ‘She died in my arms’: Families recall scramble for blood, transport, and better care
+- IMD makes downward revision in monsoon forecast, India headed for driest year in a decade
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-sidhi-maternal-mortality-crisis-10713076/
+  🔗 https://indianexpress.com/article/india/monsoon-advances-imd-warns-heatwave-heavy-rain-thunderstorm-across-india-10713383/
+
+- Apple’s leaked Siri overhaul shows its biggest AI challenge to ChatGPT yet
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-leaked-siri-overhaul-shows-its-biggest-ai-challenge-to-chatgpt-yet-10713852/
+
+- Qualcomm unveils Snapdragon C chip for affordable AI laptops
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/qualcomm-unveils-snapdragon-c-chip-for-affordable-ai-laptops-10713569/
+
+- Spotify’s new Podcast Clips feature lets listeners save memorable podcast highlights
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotifys-new-podcast-clips-feature-lets-listeners-save-memorable-podcast-highlights-10713461/
+
+- Anthropic’s valuation surges to $965 billion, surpassing OpenAI
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropics-valuation-surges-to-965-billion-surpassing-openai-10713329/
 
 - Claude Opus 4.8 prioritises honesty over overconfidence, says Anthropic
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/claude-opus-4-8-prioritises-honesty-over-overconfidence-says-anthropic-10713244/
 
-- Scientists develop vitamin K-derived compounds that may help regenerate brain cells
-  
-  🔗 https://indianexpress.com/article/technology/science/vitamin-k-shibaura-institute-neuron-regeneration-brain-repair-10712802/
+- India may drive 30% of emerging-market pet adoption growth: Royal Canin's Satinder Singh
+  Royal Canin says India could account for about 30% of emerging-market pet adoption growth over the next five years.
+  🔗 https://www.livemint.com/companies/news/india-may-drive-30-of-emerging-market-pet-adoption-growth-royal-canin-11780040114827.html
 
-- OpenAI to step up cyber defenses, anti-misinformation efforts ahead of global elections in 2026
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-cyber-defenses-anti-misinformation-efforts-global-elections-2026-10712541/
+- Beyond the Carton: Inside Tetra Pak's India Expansion
+  Tetra Pak has evolved in India over 40 years, expanding into food processing and recycling. Its Chakan plant, operational since 2012, manufactures 85% of equipment locally
+  🔗 https://www.livemint.com/companies/beyond-the-carton-inside-tetra-paks-india-expansion-11780039064591.html
 
-- 5 online math games that make learning feel more like gaming
-  
-  🔗 https://indianexpress.com/article/technology/gaming/online-math-games-that-make-learning-feel-more-like-gaming-10712471/
+- Supreme Court sets aside Sebi  ₹447 crore disgorgement order in Reliance Petroleum derivatives case
+  The top court overturned SAT fraud findings, but upheld limited derivatives violations in long-running 2007
+  🔗 https://www.livemint.com/companies/news/supreme-court-sets-aside-sebi-447-crore-disgorgement-order-in-reliance-petroleum-derivatives-case-11780033613115.html
 
-- Rare ‘Blue Moon’ to light up skies this weekend: What it really means
-  
-  🔗 https://indianexpress.com/article/technology/science/rare-blue-moon-to-light-up-skies-this-weekend-what-it-really-means-10712484/
+- Ferrari CEO defends  ₹5.4 crore price tag for Luce EV after backlash: 'Nothing to do with Chinese…'
+  Ferrari's first electric car, the Luce, is priced at  ₹5.4 crore. CEO Benedetto Vigna
+  🔗 https://www.livemint.com/companies/news/ferrari-ceo-defends-5-4-crore-ev-luce-after-shares-drop-8-per-cent-and-former-chairman-calls-it-a-disgrace-11780030157213.html
 
-- SBI Funds, Manipal Health set stage for a busy IPO market in second half of 2026
-  Manipal Health and SBI Funds are likely to lead a stronger second half for India’s IPO market. Their upcoming listings in June-July could pave the way for a broader
-  🔗 https://www.livemint.com/companies/sbi-fund-manipal-ipos-primary-market-pipeline-11779937941669.html
+- Tata Capital may part exit as Anderson Diagnostics looks to raise  ₹250 crore in a fresh round
+  Tata Capital-backed Anderson Diagnostics has launched a ₹250
+  🔗 https://www.livemint.com/companies/anderson-diagnostics-and-labs-tata-capital-healthcare-fund-diagnostics-sector-healthcare-startup-veda-corporate-advisors-11780025085145.html
 
-- Peter Thiel bought a $12 million Buenos Aires mansion. Why is the billionaire exploring Argentina as strategic Plan B?
-  PayPal co-founder Peter Thiel has purchased a $12 million mansion in Buenos Aires. Thiel is exploring Argentina as a sovereign Plan B, drawn by President Javier
-  🔗 https://www.livemint.com/companies/people/peter-thiel-bought-a-12-million-buenos-aires-mansion-why-is-the-billionaire-exploring-argentina-as-strategic-plan-b-11780012466588.html
+- Yaashvi Jewellers IPO allotment date likely today. GMP, steps to check share allotment status for SME IPO
+  Investors can check Yaashvi Jewellers IPO allotment status online through the websites of BSE and the IPO registrar. Bigshare Services is the
+  🔗 https://www.livemint.com/market/ipo/yaashvi-jewellers-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-for-sme-ipo-11780047166919.html
 
-- Byju Raveendran’s long-running settlement talks face fresh strain after Singapore ruling
-  Aakash has become central because it is one of the few remaining valuable assets linked to the broader Byju’s group. Any resolution that leaves ambiguity around who owns, controls
-  🔗 https://www.livemint.com/companies/news/byju-raveendran-long-running-settlement-talks-face-fresh-strain-after-singapore-ruling-aakash-11779958457422.html
+- Hitachi Energy's additional capex excites, but valuations are steep
+  Hitachi stock trades at a whopping 115 times FY27 estimated earnings. Hitachi is one of the most expensive stocks
+  🔗 https://www.livemint.com/market/commodities/hitachi-energy-q4-results-hitachi-energy-share-price-valuations-data-centre-11780042430087.html
 
-- How Anthropic became world's most valuable AI startup, surpassing OpenAI with $965 billion valuation
-  Dario Amodei's artificial intelligence company is now valued at $965 billion. It surpasses OpenAI's
-  🔗 https://www.livemint.com/companies/news/how-anthropic-became-worlds-most-valuable-ai-startup-surpassing-openai-with-965-billion-valuation-11780010648713.html
+- Crude oil prices slide 19% in May, post worst monthly fall since 2020; Will US-Iran peace deal deepen losses?
+  Brent crude dropped nearly 19% in May, while WTI hovered around $87. Ongoing discussions may impact future prices amid geopolitical uncertainties.
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-slide-19-in-may-posts-worst-monthly-fall-since-2020-will-us-iran-peace-deal-deepen-losses-11780043897587.html
 
-- Anthropics valuation surges to $965 billion, surpassing OpenAI
-  Anthropic
-  🔗 https://www.livemint.com/companies/anthropics-valuation-surges-to-965-billion-surpassing-openai-11779998347706.html
+- Asian Paints Q4 results: Net profit jumps 69% YoY to  ₹1,185.5 crore, volume growth at 12.4%; declares  ₹23 dividend
+  Asian Paint’s Decorative Business (India) delivered a volume growth of 12.4%, with value growth of 10.2%. The company’
+  🔗 https://www.livemint.com/market/stock-market-news/asian-paints-q4-results-net-profit-jumps-69-yoy-to-rs-1-185-5-crore-volume-growth-at-12-4-declares-rs-23-dividend-11780044203362.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 29 May
-  Indian markets faced a second day of losses on 27 May. BSE Sensex down 141.90 points amid cautious investor sentiment. NSE Nifty 50 also fell slightly.
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-29-may-11780018527817.html
+- Looking to enter the bond market now? Here are the best options for investors
+  Bond markets are likely to remain sensitive to both global energy prices and domestic inflation trends. Any ease in these pressures could help improve stability in yields going
+  🔗 https://www.livemint.com/market/bonds/looking-to-enter-the-bond-market-now-here-are-the-best-options-for-investors-11780043519140.html
 
-- Buy or sell: Gift Nifty saignals gap-down start, Vaishali Parekh recommends three stocks to buy today — 29 May 2026
-   Vaishali Parekh recommends three stocks to buy today. GM
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-saignals-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-29-may-2026-11780019026209.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 29 May
-  Gift Nifty was trading around 23,887 level, a discount of nearly 109 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-29-may-11780019466489.html
-
-- From Gift Nifty, US-Iran peace deal, oil prices to Wipro ADR: 10 things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,881 level, a discount of nearly 116 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-peace-deal-oil-prices-to-wipro-adr-10-things-that-changed-for-indian-stock-market-overnight-11780018690763.html
-
-- Wipro ADR jumps over 18% on NYSE after AI partnership with ServiceNow
-  Wipro ADR jumped after the IT major announced its expanded partnership with ServiceNow to implement and scale the impact of agentic AI workflows
-  🔗 https://www.livemint.com/market/stock-market-news/wipro-adr-jumps-over-18-on-nyse-after-ai-partnership-with-servicenow-11780017429375.html
+- Huawei bets on speed over shrinking transistors to sidestep US chip sanctions
+  Huawei bets on speed over shrinking transistors
+  🔗 https://www.livemint.com/technology/huawei-bets-on-speed-over-shrinking-transistors-to-sidestep-us-chip-sanctions-11780026125949.html
 
 - Cloud war intensifies as Google ties enterprise deals to in-house AI
   Google’s own sovereign cloud offering has also remained limited in terms of its revenue contribution. Sashikumar Sreedharan, managing director of Google Cloud India, admitted that it
@@ -96,109 +100,153 @@
   One Tech Tip: Your next job interview
   🔗 https://www.livemint.com/technology/one-tech-tip-your-next-job-interview-could-be-with-an-ai-bot-11779940983460.html
 
-- CapCut, Runway, Descript, Adobe Premiere Pro: Top 5 AI-powered video editing apps creators use in 2026
-   AI-powered video editing apps are changing content creation in 2026. These tools can auto-edit footage, generate captions, remove filler words, create short clips and even generate
-  🔗 https://www.livemint.com/technology/capcut-runway-descript-adobe-premiere-pro-opus-clip-top-5-ai-powered-video-editing-apps-2026-11779869867212.html
+- Markets News, May 21, 2026: Dow Closes at Record High, Oil Prices Retreat; Walmart, Nvidia Shares Fall After Earnings Reports - Investopedia
+  The Dow closed at a record high on May 21, 2026. Walmart, Nvidia Shares
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1dZbk03dlhGaHF4b0hvTG50M1Q0TXhjUDAxVFN2MHZneVFhZXZuWlgxcW9BZzYwaFVDSFdtTVBMV0Q3NHYyVTV2aG8tQzVPcktubTFLQ1g3UVhDS0VMazFQbnhJenVKc0ZsUldDVFlyeWRjcjlpZDZXOWNSSGhqcVlXMHNtUllLYnZXeGx6Nko?oc=5
 
-- Bio Medica Laboratories shares to debut today. Here's what GMP suggests ahead of listing
-  Bio Medica Laboratories' shares are set to list on the NSE SME platform. The Rs 52 crore IPO, which saw overall subscription of 2.26 times, aims to fund loan repayment and manufacturing expansion.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bio-medica-laboratories-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/131380180.cms
+- Stock futures are little changed as traders eye developments in Middle East: Live updates - CNBC
+  Stock futures are little changed as traders eye developments in Middle East
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ibnh1QzlFTktKUV9Qb2ZpUnM0NlkzTzdaN2NiZ2t5NnFzMmI5OXVhN1FUVkJSenZMVG1ORGZWNVRKX3FhYTkycFhZeVEzMHktZUFoUHl0Rk1qclY3SVRibmdXMVBTV0p6czlXNHBrZTZBc3pXYjZz0gF8QVVfeXFMT05sZFRnZXRFbDdEVTVsVFZhQktEYkZQMXJCMkNLUTNVajVIdjlhRmxRVUlCSGx0Vks0QW95VjVNamh4UlhwSlJsUHh1d0xJSmFPWGhyYkxhY3czZWVjMHg3b2p1c1RoaXZWbVRFV19vOHhBQ25wSHRwWEJjUw?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-coal-india-share-price-29-may-2026/liveblog/131380041.cms
+- Nextpower Announces Entry into Battery Energy Storage (BESS) and AI Data Center Markets with Definitive Agreement to Acquire Prevalon Energy, Increases Fiscal Year 2027 Outlook - Business Wire
+  Nextpower Announces Entry into Battery Energy Storage (BESS) and AI Data Center Markets with Definitive Agreement to Acquire
+  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxQb0RMNTM2MGRqNFdQaWZDNC1MSzdtaHR3bzNzckF2UTlDcVpRbXA5ZXEyN2l3UEd4R2wzZG9VM0VQZnNEM2Y3bTl2dWNiVEJDQU55S1hpaExxaXJfWlFvTWVtald0UHJsUC1keVdnaEtwZHpyZ1NVaEhUMGtReFV2VXhRY1BVWFUtMEpINk1TcWlSaFBKOGg1RGIzWUxJck1kcWtnWDNsR1FyS0c5aEdwMlhJRUhXTldhRll2R05nSFFlUG8wcENnS05FRHgxNXJyb1M3WEw1cTJEU29FbHVtVXVGbGE3YmdXUXVLWEhwTlVId0FwRllrcTQ4QkRTOFVOS3c3VV9fYWs4ZmFzNzUxSXpRQzdYb3NjNXV6MHNmY1RUdFVtSjZMeXQ5elRFdmlCa3NpS2pjZUVySkR1UlNoS2k0WThTNlNvUFJobnVfOA?oc=5
 
-- Positive Breakout: These 11 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily time frame,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-their-200-dmas/slideshow/131380110.cms
+- Sensex falls 800 pts from day's high, Nifty below 23,750: Key reasons behind sharp market decline - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlZMZU9WVk5SYTUxam5kbUVrRjRobmlfV3JOa2RTMml4YzJRY3hEY1JJMUhqSnk0cTRPZEhEcW9yRnluYXc2cG94Q21Qby1NcmtJREFMVlBId3I5bC1UVXprX1p3OG12UD
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlZMZU9WVk5SYTUxam5kbUVrRjRobmlfV3JOa2RTMml4YzJRY3hEY1JJMUhqSnk0cTRPZEhEcW9yRnluYXc2cG94Q21Qby1NcmtJREFMVlBId3I5bC1UVXprX1p3OG12UDdRTlZ5dlFuSVo2czN1eVV1S2hscENPNmh4aFo1aVJNNmttd3VSaThKUEkzQ1F1OU14aGM0dTdkWDFlU0VzTFdmRTFZQl9lWUZwZTlPa3JaNjRLQjBVQlgtNGJYSEtRVEtpQ2s2cVdLaDVpOGR0akViQy1WNVczT1J3WDVickVIZEHSAe8BQVVfeXFMT1Fha3luMWlscFFLaEp5WTNndUhDOGVjZXJXYnlIVWZDeVY4a2tyUjhuM2VVdWJ0RDBEbHk2QUJDOUtWODdfVi1UQ2NzZEx4X1FRVkJuS2NlTU9OYjMtMG9sTDZaaEh2aWh5dWE4XzE1ZGNmd1VKZS1xdnhEcFNUM3lwZHBkbHhhTHZPU0Ntak1mbVlEYUtmT0R0MEJvQzZKSUNJWXdkcVVYMTBSY3JkWFhVS0NnNFptc3NSM3JyMm1HbXFWdkFGeFBROHVTcjJQcnVEVy1yQloydkoxWVRjcUpsb2I4UUoxZEVMZUYyV3c?oc=5
 
-- Oil Price Today (May 29): Crude oil falls as peace deal hopes offset constant tensions. What are experts saying?
-  Oil prices saw a slight dip on Friday. Hopes for a U.S. and Iran ceasefire extension are influencing the market. Geopolitical tensions remain high.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-29-crude-oil-falls-as-peace-deal-hopes-offset-constant-tensions-what-are-experts-saying/articleshow/131380026.cms
+- Top-Selling Cars By Country In 2025: Toyota Hilux Dominates Global Markets - Autopunditz
+  Top-Selling Cars By Country In 2025
+  🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1La1dZb1NFb0NOLTFJVUpINHFfSlo2cm9JUllUZVdRd091d0lYdmpjalJKeUphQ3dkSWlNVk9Kb0p5ZTJvd21WUzdtNTdhWktpcG5TSjE0eHU3dENKeGFnN1NYV0ZTYXJYOTNmaE5tMFliajQ?oc=5
 
-- Gold edges higher as investors weigh US-Iran ceasefire deal reports, Fed rate outlook
-  Gold futures saw a modest increase, reflecting ongoing market uncertainty. Investors weighed a potential U.S.-Iran ceasefire deal against persistent inflation concerns. Other precious metals also experienced gains.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-weigh-us-iran-ceasefire-deal-reports-fed-rate-outlook/articleshow/131379980.cms
+- Nifty earnings growth slashed to 8.5% from 14%; no comfort in valuations still: Amish Shah
+  BofA Securities warns Indian equities face rich valuations and halved earnings growth outlook. Elevated valuations over emerging market peers and domestic bonds suggest limited upside, with returns likely in the 8-9% range.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-earnings-growth-slashed-to-8-5-from-14-no-comfort-in-valuations-still-amish-shah/articleshow/131385359.cms
 
-- India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
-  India orders demolition drive along border as Pakistan tensions
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
+- Netweb Technologies jumps 15%, hits fresh 52-week high after rating upgrade
+  Netweb Technologies shares jumped over 15% to a fresh 52-week high. This rally follows a ratings upgrade by CRISIL Ratings Limited. The company's long-term rating moved to Crisil A+ Stable.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-jumps-15-hits-fresh-52-week-high-after-rating-upgrade/articleshow/131386573.cms
 
-- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
-  "Single Largest Self-Inflicted Obst
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+- CV demand cycle intact despite fuel price volatility and sentiment swings: Shenu Agarwal, Ashok Leyland
+  Ashok Leyland navigates a challenging cost environment with selective price hikes and internal controls. While input costs remain volatile, the company sees resilient commercial vehicle demand. Exports are expected to recover soon, and the defence business shows strong
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/cv-demand-cycle-intact-despite-fuel-price-volatility-and-sentiment-swings-shenu-agarwal/articleshow/131386424.cms
 
-- India offers support to build 14 schools in Nepal’s earthquake-hit districts - The Times of India
-  India offers support to build 14 schools in Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd3JQVlhHNUp4ZVNtbm9TVVRiRUxGQ3VuY0c1TnpSc0ZWTWw1VWM4czU5NU01eGphRHVlcm9KbUhlU0xpSDV1UU1KY3RVMTF4XzVJYzdpanE0Z05keGVPLWlqLURuWlhUYlFaSFlPNFhuY0RoZE1DM19TazlBcTVaaGVaMmxUVDJSRUNfWkpVZ0lYUVF4My1McnR1Qkg3SC1XU21mbld0c2o2LVh1S29ubXVnYjlWZFYyTGxwMmp4d2M1bkp2UDdhdXB2WHJpYWk3T25CZlJkdkt0cjDSAeABQVVfeXFMT1phMWMxUS05dTVacmhOMlBEa3M3bldqcnBjTjVKNmRfT1lIX0ZSOWhjQjJNdEtTazZheW1DMGZIT3hWR1V4MmNZX1U3SUlSa0IwZWo4TTVlYld3U1NEM3B3R1UtQl9EaHBadDloTXNreGk1cVdLbWw4TUY1N2VEOUdPdE9EbHNsTFJsWG1fNmZuR3NDZ1EzOHpaVHpjWWdYamlTRTJ4SWxrN0lVZkRFeGQ2WGRRUlh4ZU1DYlNOendnLS1Eemk4LS13UVZYZ0VqazF4YnVHd3o5MG94VlVJV1Y?oc=5
+- Asian Paints' board announces Rs 23/share dividend, sets June 23 as record date
+  The company has fixed June 23, 2026, as the record date to determine shareholders eligible to receive the final dividend. Including the interim dividend of Rs 4.50 per share declared in November 2025, the total dividend payout
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-board-announces-rs-23/share-dividend-sets-june-23-as-record-date/articleshow/131386308.cms
 
-- Air India extends suspension of flights to Israel till July - Newsonair
-  Air India extends suspension of flights to Israel
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkNQaGtzZGtqTk1vR1l4Y0dZdkRQbGg2Sll1eWxDY0dHSDdPMXNaRjBkcURORVBEYmZ6ZlBhcUpkUmQxR3dOdllDREloc1hJLXdWb2tROTdQRXJJRXRtcDk1SE9CcTd0T3ljZTZoT3VDTWlrVkhiTElPS2tLanFLbURNU0dxWWdKNFZUdTZB?oc=5
+- Asian Paints Q4 Results: Net profit surges 69% YoY to Rs 1,172 crore, revenue rises 11%
+  The company also declared a final dividend of Rs 23 per share. For the full year FY26, net profit rose 18% to Rs 4,325.35 crore. Management highlighted double-digit growth in decorative and industrial businesses.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/asian-paints-q4-results-net-profit-surges-69-yoy-to-rs-1172-crore-revenue-rises-11/articleshow/131386151.cms
 
-- India: Border peace helping normalise ties with China - The Times of India
-  India: Border peace helping normalise ties with
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmVZbXdEbWxNLWVTdjFDTXVRdXhOLUNIbVZDRXl6c0MtdWk3Uy1DeGk0QXJSY2tHWjVVRV9UeUE3Y1hkQVVyZ0dPa0QxX0sxOVhwMlR4WXZOYlIzd21OLVk5blQycW5sWXpvd09GcVhCVVNCZk81TVVIam9oWnFCOTdIZ0g1OTZNRW4zTDNtYXZYSG8xczV5NFdKN0xBRWkyNVZKdlotdTZQeTNnbWdrNGM3Ui16bDZyOEh4WdIBwgFBVV95cUxQUFhGalhzMWt3VUJXV0hVRDZPR3piMG9ObHZqUTZfV3dVVjRpZnNRZVdZc0pVWmZFUzNWUkxiRno1bUF1Q3ZlWUJSbDZERnNfa1NEZ0NhakpiLWNSVWFiTF9DclZxTFFmZTlBc1diTjRkclAxMWJ0QWlWd3dielBSOXgwdjNkR25tVGdUbU8weGlZYU15UzQzRXNxcnU1S2hlbk9GNUhoODl4Wmx3WV8ybzZ3UXN2S1BEYmtuWDYybGFMZw?oc=5
-
-- India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
-  India orders demolition drive along border as Pakistan tensions
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
 - "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India offers support to build 14 schools in Nepal’s earthquake-hit districts - The Times of India
-  India offers support to build 14 schools in Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd3JQVlhHNUp4ZVNtbm9TVVRiRUxGQ3VuY0c1TnpSc0ZWTWw1VWM4czU5NU01eGphRHVlcm9KbUhlU0xpSDV1UU1KY3RVMTF4XzVJYzdpanE0Z05keGVPLWlqLURuWlhUYlFaSFlPNFhuY0RoZE1DM19TazlBcTVaaGVaMmxUVDJSRUNfWkpVZ0lYUVF4My1McnR1Qkg3SC1XU21mbld0c2o2LVh1S29ubXVnYjlWZFYyTGxwMmp4d2M1bkp2UDdhdXB2WHJpYWk3T25CZlJkdkt0cjDSAeABQVVfeXFMT1phMWMxUS05dTVacmhOMlBEa3M3bldqcnBjTjVKNmRfT1lIX0ZSOWhjQjJNdEtTazZheW1DMGZIT3hWR1V4MmNZX1U3SUlSa0IwZWo4TTVlYld3U1NEM3B3R1UtQl9EaHBadDloTXNreGk1cVdLbWw4TUY1N2VEOUdPdE9EbHNsTFJsWG1fNmZuR3NDZ1EzOHpaVHpjWWdYamlTRTJ4SWxrN0lVZkRFeGQ2WGRRUlh4ZU1DYlNOendnLS1Eemk4LS13UVZYZ0VqazF4YnVHd3o5MG94VlVJV1Y?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
-- Air India extends suspension of flights to Israel till July - Newsonair
-  Air India extends suspension of flights to Israel
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkNQaGtzZGtqTk1vR1l4Y0dZdkRQbGg2Sll1eWxDY0dHSDdPMXNaRjBkcURORVBEYmZ6ZlBhcUpkUmQxR3dOdllDREloc1hJLXdWb2tROTdQRXJJRXRtcDk1SE9CcTd0T3ljZTZoT3VDTWlrVkhiTElPS2tLanFLbURNU0dxWWdKNFZUdTZB?oc=5
+- One of India’s most exclusive private clubs is facing eviction. What’s behind the fight that has upset Delhi’s elite? - The Guardian
+  One of India's most exclusive private clubs is facing eviction. What’s behind the
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVJjLXBPMjNxdVVpWTJCS3VZVm9ncXNjdzlNbVZIOTBlRFRfTmU2Z1VBZkV6M1pESDNnQTZEdzhtS1VHcnFVZS1fcGFwQkVEY19sS09mYkZmeGJwazgzRFZhWnphM1hQcGRkUEl2MmJzZUQ3NG9aZmhXOXdjZm1EQ2hJbmR4T3JfeWRkN3NWTmJhNGMzNGdTU05PUHQ5LWhPWFA4?oc=5
 
-- India: Border peace helping normalise ties with China - The Times of India
-  India: Border peace helping normalise ties with
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmVZbXdEbWxNLWVTdjFDTXVRdXhOLUNIbVZDRXl6c0MtdWk3Uy1DeGk0QXJSY2tHWjVVRV9UeUE3Y1hkQVVyZ0dPa0QxX0sxOVhwMlR4WXZOYlIzd21OLVk5blQycW5sWXpvd09GcVhCVVNCZk81TVVIam9oWnFCOTdIZ0g1OTZNRW4zTDNtYXZYSG8xczV5NFdKN0xBRWkyNVZKdlotdTZQeTNnbWdrNGM3Ui16bDZyOEh4WdIBwgFBVV95cUxQUFhGalhzMWt3VUJXV0hVRDZPR3piMG9ObHZqUTZfV3dVVjRpZnNRZVdZc0pVWmZFUzNWUkxiRno1bUF1Q3ZlWUJSbDZERnNfa1NEZ0NhakpiLWNSVWFiTF9DclZxTFFmZTlBc1diTjRkclAxMWJ0QWlWd3dielBSOXgwdjNkR25tVGdUbU8weGlZYU15UzQzRXNxcnU1S2hlbk9GNUhoODl4Wmx3WV8ybzZ3UXN2S1BEYmtuWDYybGFMZw?oc=5
+- India to see 90% of long period average rainfall this monsoon: IMD - The Hindu
+  India to see 90% of long period average rainfall this
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0F6STlBcGY0MUJvYXNpQS14OS0xNHlTSkV3b0E5WWRiUlBKVDd3U2xYd0ZUekphMVFzME5BVmU4NG9sNWNTTHQySlNHekpkU280aHdnckRrZU9rbjZocHhWbnd4cFFaekRaYkF3dER3dk9UbmdWQnRILTAzNWtMWkZlcXBHMWhjdlBLNHJCa0kwcWU4YXFXSldVWVVhX2wtSHNRUll5R0wwTFowTnhFUC1FaXZuNlR2aFgwZUxZX2PSAccBQVVfeXFMTjNXekFRNmh3UWNWZnBYUGlLNW93Q3VBU0ltZk1STG84U1VRMmVWczhGaFVXVWgzbV95b3hKSEtrRTdtX3J3QVRvUmk4ZHVHWnprWnVlSDV1eDNxeUw0NDVtSkhJRm50ckt2c3pmTzZPVlo5MnZUc2NZS1p2V1hOMmtZaHAydXRaY1d5VWF3VklZNWJWOE51ZXFra0F1SDE1RWNER0dXdVFRUE1TV1Q0dFFxUDBjNUs0N05NTUh6VnR4ZU9GZ2dNVQ?oc=5
 
-- India orders demolition drive along border as Pakistan tensions simmer - Al Jazeera
-  India orders demolition drive along border as Pakistan tensions
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1gzbjNGdkFKcmpVUDc5RVFFMXFZeU5ZRktncG81UEFieGc2b0ZEb1FGSEpkYVJvajd1ZXFPWWdtRmpUU1pPSEU0cGVUZ0VHMTFJajBSNFp4UWZGVS1ZTlV6N0k4R1NEQ2c1X0VEYUgzMVhKaWFYOXFuQ0NkTjZISVpReEVxdUZITWZ0MzNnZWROQjN1T3M3TXBJV3RxeDEzWllQY0NreGtOR0hCRExEMtIBtgFBVV95cUxNVlpmOUxOZmZWY2tCWU9vTHhHM2pIWHFpX0ZfYnRsY0FFaUxvUklreUJ1X01NMzVOWTNwcGhpVkpwNnZsb2MzRUdMa0h5ak9UQ0w1dTg2YlhXbDh0LWx0eTAxYWt4OUR5Z1FrZ2ppemRtbzNWVkd6RHBTTUM1NGdUakhDem9NV24wRUpfMURVbDZ1bzkyRUJMQmFHdjU2bjdrc2NyeHQ4WFowZTJnR1RVdS1GRGVUdw?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
 - "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
   "Single Largest Self-Inflicted Obst
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- India offers support to build 14 schools in Nepal’s earthquake-hit districts - The Times of India
-  India offers support to build 14 schools in Nepal’s
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd3JQVlhHNUp4ZVNtbm9TVVRiRUxGQ3VuY0c1TnpSc0ZWTWw1VWM4czU5NU01eGphRHVlcm9KbUhlU0xpSDV1UU1KY3RVMTF4XzVJYzdpanE0Z05keGVPLWlqLURuWlhUYlFaSFlPNFhuY0RoZE1DM19TazlBcTVaaGVaMmxUVDJSRUNfWkpVZ0lYUVF4My1McnR1Qkg3SC1XU21mbld0c2o2LVh1S29ubXVnYjlWZFYyTGxwMmp4d2M1bkp2UDdhdXB2WHJpYWk3T25CZlJkdkt0cjDSAeABQVVfeXFMT1phMWMxUS05dTVacmhOMlBEa3M3bldqcnBjTjVKNmRfT1lIX0ZSOWhjQjJNdEtTazZheW1DMGZIT3hWR1V4MmNZX1U3SUlSa0IwZWo4TTVlYld3U1NEM3B3R1UtQl9EaHBadDloTXNreGk1cVdLbWw4TUY1N2VEOUdPdE9EbHNsTFJsWG1fNmZuR3NDZ1EzOHpaVHpjWWdYamlTRTJ4SWxrN0lVZkRFeGQ2WGRRUlh4ZU1DYlNOendnLS1Eemk4LS13UVZYZ0VqazF4YnVHd3o5MG94VlVJV1Y?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
-- Air India extends suspension of flights to Israel till July - Newsonair
-  Air India extends suspension of flights to Israel
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkNQaGtzZGtqTk1vR1l4Y0dZdkRQbGg2Sll1eWxDY0dHSDdPMXNaRjBkcURORVBEYmZ6ZlBhcUpkUmQxR3dOdllDREloc1hJLXdWb2tROTdQRXJJRXRtcDk1SE9CcTd0T3ljZTZoT3VDTWlrVkhiTElPS2tLanFLbURNU0dxWWdKNFZUdTZB?oc=5
+- One of India’s most exclusive private clubs is facing eviction. What’s behind the fight that has upset Delhi’s elite? - The Guardian
+  One of India's most exclusive private clubs is facing eviction. What’s behind the
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVJjLXBPMjNxdVVpWTJCS3VZVm9ncXNjdzlNbVZIOTBlRFRfTmU2Z1VBZkV6M1pESDNnQTZEdzhtS1VHcnFVZS1fcGFwQkVEY19sS09mYkZmeGJwazgzRFZhWnphM1hQcGRkUEl2MmJzZUQ3NG9aZmhXOXdjZm1EQ2hJbmR4T3JfeWRkN3NWTmJhNGMzNGdTU05PUHQ5LWhPWFA4?oc=5
 
-- India: Border peace helping normalise ties with China - The Times of India
-  India: Border peace helping normalise ties with
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmVZbXdEbWxNLWVTdjFDTXVRdXhOLUNIbVZDRXl6c0MtdWk3Uy1DeGk0QXJSY2tHWjVVRV9UeUE3Y1hkQVVyZ0dPa0QxX0sxOVhwMlR4WXZOYlIzd21OLVk5blQycW5sWXpvd09GcVhCVVNCZk81TVVIam9oWnFCOTdIZ0g1OTZNRW4zTDNtYXZYSG8xczV5NFdKN0xBRWkyNVZKdlotdTZQeTNnbWdrNGM3Ui16bDZyOEh4WdIBwgFBVV95cUxQUFhGalhzMWt3VUJXV0hVRDZPR3piMG9ObHZqUTZfV3dVVjRpZnNRZVdZc0pVWmZFUzNWUkxiRno1bUF1Q3ZlWUJSbDZERnNfa1NEZ0NhakpiLWNSVWFiTF9DclZxTFFmZTlBc1diTjRkclAxMWJ0QWlWd3dielBSOXgwdjNkR25tVGdUbU8weGlZYU15UzQzRXNxcnU1S2hlbk9GNUhoODl4Wmx3WV8ybzZ3UXN2S1BEYmtuWDYybGFMZw?oc=5
+- India to see 90% of long period average rainfall this monsoon: IMD - The Hindu
+  India to see 90% of long period average rainfall this
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0F6STlBcGY0MUJvYXNpQS14OS0xNHlTSkV3b0E5WWRiUlBKVDd3U2xYd0ZUekphMVFzME5BVmU4NG9sNWNTTHQySlNHekpkU280aHdnckRrZU9rbjZocHhWbnd4cFFaekRaYkF3dER3dk9UbmdWQnRILTAzNWtMWkZlcXBHMWhjdlBLNHJCa0kwcWU4YXFXSldVWVVhX2wtSHNRUll5R0wwTFowTnhFUC1FaXZuNlR2aFgwZUxZX2PSAccBQVVfeXFMTjNXekFRNmh3UWNWZnBYUGlLNW93Q3VBU0ltZk1STG84U1VRMmVWczhGaFVXVWgzbV95b3hKSEtrRTdtX3J3QVRvUmk4ZHVHWnprWnVlSDV1eDNxeUw0NDVtSkhJRm50ckt2c3pmTzZPVlo5MnZUc2NZS1p2V1hOMmtZaHAydXRaY1d5VWF3VklZNWJWOE51ZXFra0F1SDE1RWNER0dXdVFRUE1TV1Q0dFFxUDBjNUs0N05NTUh6VnR4ZU9GZ2dNVQ?oc=5
 
-- Amazon starts selling its AI shopping technology to other retailers - CNBC
-  Amazon starts selling its AI shopping technology to
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- A reality check on the AI jobs hysteria - MIT Technology Review
-  A reality check on the AI jobs hysteria
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmp2Rjg2VVdYZU45YnpSNXZ0QklkSkxyUVZHaHl6MmlwME53ZDR1WVpoZF9wOUhfVHg1Zlh5SjJtZXRrSjdIbzdUSEoyZ0FUd0hfbzhDNTJXU1pId2JjVHBaQW1QZVkxTEVKM0NLeTJtcVFiT3lPTjdDOUQzUHJ6ZVZ6UEg3RHBGUGhOUzhaZU9XVlp5ay1z?oc=5
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
 
-- KPMG Global tech report 2026: Healthcare - KPMG
-  KPMG
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVptYjFmRDhscUZWZTBfSHotNjNOTzhVQ2VLYl9ycUVQbHBkZHZhVHM3UHRXUWVaNDlJNDI5cVVfeU5PbmpXOGJ6RVhNOTFDSnZ3bFhEdUMzX1hWcm4xYW0xQkQ5Y3FqZlVyS3ppT2poRHR4c0RDOE14YktuZ2xDYW40UFJfWGNoS054NGctRGlUUQ?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
-- Marvell Technology’s Revenue Soars, Profit Slims Down - WSJ
-  Marvell Technology’
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWZUZ25LOWd0WHpZRTlKOWtlSzAteUhaeHdWQ3NCa3VKTG9uZEdBZWFLM3YtRUdLTEdINURIeXRmbVVmVjdvN3ZoTHUyMHpDcmF5emp1bVpDZ3Jza1oxUWxEVXZRb1NDMEJxUFdrdmEtcm83bkxoYTZrNllRNXhBTkdvZDh1SGJuOEdiZnFYRzUtVnV1aDJiZg?oc=5
+- One of India’s most exclusive private clubs is facing eviction. What’s behind the fight that has upset Delhi’s elite? - The Guardian
+  One of India's most exclusive private clubs is facing eviction. What’s behind the
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVJjLXBPMjNxdVVpWTJCS3VZVm9ncXNjdzlNbVZIOTBlRFRfTmU2Z1VBZkV6M1pESDNnQTZEdzhtS1VHcnFVZS1fcGFwQkVEY19sS09mYkZmeGJwazgzRFZhWnphM1hQcGRkUEl2MmJzZUQ3NG9aZmhXOXdjZm1EQ2hJbmR4T3JfeWRkN3NWTmJhNGMzNGdTU05PUHQ5LWhPWFA4?oc=5
 
-- I Tried to Sell My House With A.I. - The New York Times
-  The New York Times published a story about a
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnVpSE44ZEdqRWc0QnhENHRCa1p0YWpNQ2FyN2lEd2k4Wk9YWHdHbWU0eENsbDAyU1c5TENKWlF1NWZsLS1UbXU0S0ljRXBTWEpacEdBN1ZqQUR3dmFVNXR5LVdJampjVVBkX284VkJRcmtwaWliNGpIOEc2SU5TSjJzNy1JLU0?oc=5
+- India to see 90% of long period average rainfall this monsoon: IMD - The Hindu
+  India to see 90% of long period average rainfall this
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0F6STlBcGY0MUJvYXNpQS14OS0xNHlTSkV3b0E5WWRiUlBKVDd3U2xYd0ZUekphMVFzME5BVmU4NG9sNWNTTHQySlNHekpkU280aHdnckRrZU9rbjZocHhWbnd4cFFaekRaYkF3dER3dk9UbmdWQnRILTAzNWtMWkZlcXBHMWhjdlBLNHJCa0kwcWU4YXFXSldVWVVhX2wtSHNRUll5R0wwTFowTnhFUC1FaXZuNlR2aFgwZUxZX2PSAccBQVVfeXFMTjNXekFRNmh3UWNWZnBYUGlLNW93Q3VBU0ltZk1STG84U1VRMmVWczhGaFVXVWgzbV95b3hKSEtrRTdtX3J3QVRvUmk4ZHVHWnprWnVlSDV1eDNxeUw0NDVtSkhJRm50ckt2c3pmTzZPVlo5MnZUc2NZS1p2V1hOMmtZaHAydXRaY1d5VWF3VklZNWJWOE51ZXFra0F1SDE1RWNER0dXdVFRUE1TV1Q0dFFxUDBjNUs0N05NTUh6VnR4ZU9GZ2dNVQ?oc=5
+
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+
+- "Single Largest Self-Inflicted Obstacle": Investor Slams India's Rich, Cites East India Company - NDTV
+  "Single Largest Self-Inflicted Obst
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUdUaDRMSnRTd2VRUkpXb0hWaDFNeGhWd1lWREo3LUJocFl1c0oxTXByOHBacUJ3ZjkxTlBjMzY1NGZkcEhfRS1WQmRSaFNpY1pzWnVSdlNsLXYxX29Rc1dHVzBaU3puZVVuQWhtZFREWkdSclI2ckl4WGU3dkN5REpjN1p1bFI2Smt0QVhaejJGYV9qaUktaVNQOUhIck4yWmpMRlEyRnVvVkZyWmQycnNBVXlJSEdFQktTSUxmc1ZXNm1KblQ3cVJ2MndSdm_SAdcBQVVfeXFMTjNqeFZfYmMwR01DUWNmM0hsblFxdzIwa19ZU0FlRlVrVk9fNXl4R3gtSWtrQzZRUXJEWHFjR1RNZ2dnb1BzMGlzOTRwLUh2QlNRUnF3d05mTWNiTWRkY0tiYVAxLUt3SUJMemtqTG1QUjhzUGgxTjVhaUZscy1wR1M5TmFHWVp3U084eDcyUmVFYWpxcmhBZUlqTjdhUnV5aFc2UUJkbmNieElnY25rZld4dWVKbk5UQ0hVV0xXNGVJUmNmMGZHelF2QjNBOVc3ZkRoZ254R0E?oc=5
+
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+
+- One of India’s most exclusive private clubs is facing eviction. What’s behind the fight that has upset Delhi’s elite? - The Guardian
+  One of India's most exclusive private clubs is facing eviction. What’s behind the
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVJjLXBPMjNxdVVpWTJCS3VZVm9ncXNjdzlNbVZIOTBlRFRfTmU2Z1VBZkV6M1pESDNnQTZEdzhtS1VHcnFVZS1fcGFwQkVEY19sS09mYkZmeGJwazgzRFZhWnphM1hQcGRkUEl2MmJzZUQ3NG9aZmhXOXdjZm1EQ2hJbmR4T3JfeWRkN3NWTmJhNGMzNGdTU05PUHQ5LWhPWFA4?oc=5
+
+- India to see 90% of long period average rainfall this monsoon: IMD - The Hindu
+  India to see 90% of long period average rainfall this
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0F6STlBcGY0MUJvYXNpQS14OS0xNHlTSkV3b0E5WWRiUlBKVDd3U2xYd0ZUekphMVFzME5BVmU4NG9sNWNTTHQySlNHekpkU280aHdnckRrZU9rbjZocHhWbnd4cFFaekRaYkF3dER3dk9UbmdWQnRILTAzNWtMWkZlcXBHMWhjdlBLNHJCa0kwcWU4YXFXSldVWVVhX2wtSHNRUll5R0wwTFowTnhFUC1FaXZuNlR2aFgwZUxZX2PSAccBQVVfeXFMTjNXekFRNmh3UWNWZnBYUGlLNW93Q3VBU0ltZk1STG84U1VRMmVWczhGaFVXVWgzbV95b3hKSEtrRTdtX3J3QVRvUmk4ZHVHWnprWnVlSDV1eDNxeUw0NDVtSkhJRm50ckt2c3pmTzZPVlo5MnZUc2NZS1p2V1hOMmtZaHAydXRaY1d5VWF3VklZNWJWOE51ZXFra0F1SDE1RWNER0dXdVFRUE1TV1Q0dFFxUDBjNUs0N05NTUh6VnR4ZU9GZ2dNVQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-29 02:46:33 UTC_
+_Last updated: 2026-05-29 09:47:49 UTC_
