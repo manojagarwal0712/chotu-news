@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Kerala school principal suspended days before retirement over ‘defamatory’ CM post on Facebook
+  
+  🔗 https://indianexpress.com/article/india/kerala-school-principal-javad-suspended-chief-minister-satheesan-social-media-10714798/
+
+- ‘Opposition to three-language policy largely rooted in a subverted mindset’: ABVP endorses CBSE’s decision
+  
+  🔗 https://indianexpress.com/article/india/abvp-cbse-three-language-formula-class-9-foreign-languages-virendra-singh-solanki-10714811/
+
+- Buzz around new Karnataka Cabinet as Siddaramiah, son meet Rahul
+  
+  🔗 https://indianexpress.com/article/india/buzz-around-new-karnataka-cabinet-as-siddaramiah-son-meet-rahul-10714720/
+
 - India a trusted partner, only 1% of trade deal talks left: Sergio Gor
   
   🔗 https://indianexpress.com/article/india/us-india-trade-deal-final-negotiations-sergio-gor-marco-rubio-10714677/
@@ -7,18 +19,6 @@
 - Manipur highway ambush: Driver from Bengal killed, cop injured in attack on goods truck convoy
   
   🔗 https://indianexpress.com/article/india/manipur-highway-ambush-driver-from-bengal-killed-cop-injured-in-attack-on-goods-truck-convoy-10714670/
-
-- Postmortem twist in Bandhavgarh tiger death: Struck by tranquiliser ‘after death’, suffered ‘prolonged physical deterioration’
-  
-  🔗 https://indianexpress.com/article/india/bandhavgarh-tiger-death-postmortem-tranquiliser-dart-report-10714656/
-
-- Indian Railways PSU to deliver first 20-coach train rake to Bangladesh in 2 months
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-psu-rites-to-deliver-first-20-coach-train-rake-to-bangladesh-in-2-months-10714232/
-
-- Myanmar President to begin India visit tomorrow, discussions with PM Modi on strengthening ties on agenda
-  
-  🔗 https://indianexpress.com/article/india/myanmar-president-min-aung-hlaing-india-visit-modi-talks-10714615/
 
 - India emerges as a key Codex market with 27x user growth: OpenAI
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/social/from-air-india-to-qatar-airways-top-airlines-with-free-wi-fi-service-10714248/
 
+- Codelco Chair Signals Shift Toward Copper Profit Over Growth
+  Chilean state-owned Codelco's new chairman signaled a shift toward profitability
+  🔗 https://www.livemint.com/companies/codelco-chair-signals-shift-toward-copper-profit-over-growth-11780079870828.html
+
+- Rupee rout grounds IndiGo, airline slips to FY26 loss
+  IndiGo swung to a  ₹2,393.6 crore loss in FY26, its first since FY23. Weak demand, falling load factors,
+  🔗 https://www.livemint.com/companies/company-results/rupee-rout-grounds-indigo-airline-slips-to-fy26-loss-11780063140629.html
+
+- Asian Paints flags West Asia war as demand risk despite strong FY26 earnings
+  Asian Paints posted revenue and profit ahead of Street estimates in FY26. West Asia war, sticky input costs, and intense competition cloud the near-
+  🔗 https://www.livemint.com/companies/company-results/asian-paints-flags-west-asia-war-as-demand-risk-despite-strong-fy26-earnings-11780064095519.html
+
+- Sebi slaps  ₹29 crore penalties on Suzlon Energy, former executives for financial misrepresentation
+  Sebi says Suzlon structured transactions between its subsidiaries in a manner that artificially inflated profits, net worth and investor
+  🔗 https://www.livemint.com/companies/news/sebi-suzlon-energy-financial-misrepresentation-girish-tanti-11780063171633.html
+
 - AvenuesAI plans minority investment in scaled new-age NBFC Ratnaafin Capital to drive AI-led embedded lending
   AvenuesAI Limited is planning a minority investment of up to 2.5% in Ratnaafin Capital, a scaled
   🔗 https://www.livemint.com/companies/news/avenuesai-plans-minority-investment-in-scaled-new-age-nbfc-ratnaafin-capital-to-drive-ai-led-embedded-lending-11780056046369.html
 
-- NBFC UGRO dismisses concerns raised by proxy advisory firm over its MD salary
-  UGRO says proposed compensation for Shachindra Nath is at or below market median.
-  🔗 https://www.livemint.com/companies/news/nbfc-ugro-dismisses-concerns-raised-by-proxy-advisory-firm-over-its-md-salary-11780054992577.html
+- Oil Sinks to 6-Week Low as Traders Bet on Possible US-Iran Truce
+  The US and Iran tentatively agreed to extend a ceasefire, stoking optimism that the Strait of Hormuz
+  🔗 https://www.livemint.com/market/oil-sinks-to-6-week-low-as-traders-bet-on-possible-us-iran-truce-11780083683241.html
 
-- CCI dismisses complaint against Rapido over alleged predatory pricing, says no abuse of dominance
-  The complainant had alleged that Rapido was allowing private vehicles to operate commercially in Uttarakhand. The complainant had also accused Rapido of adopting opaque pricing
-  🔗 https://www.livemint.com/companies/news/cci-dismisses-complaint-against-rapido-over-alleged-predatory-pricing-says-no-abuse-of-dominance-11780050916272.html
+- Key US Medium Sour Crude Weakens as Exports Ease From Records
+  Prices for a key US medium sour crude grade are weakening.
+  🔗 https://www.livemint.com/market/key-us-medium-sour-crude-weakens-as-exports-ease-from-records-11780083068863.html
 
-- India may drive 20% of emerging-market pet adoption growth: Royal Canin's Satinder Singh
-  Royal Canin says India could account for about 20% of emerging-market pet adoption growth over the next five years.
-  🔗 https://www.livemint.com/companies/news/india-may-drive-30-of-emerging-market-pet-adoption-growth-royal-canin-11780040114827.html
+- Wall Street follows world stocks higher, crude prices ease on potential US-Iran truce extension
+  Wall Street follows world stocks higher, crude prices ease on potential US-
+  🔗 https://www.livemint.com/market/wall-street-follows-world-stocks-higher-crude-prices-ease-on-potential-us-iran-truce-extension-11780081777887.html
 
-- Beyond the Carton: Inside Tetra Pak's India Expansion
-  Tetra Pak has evolved in India over 40 years, expanding into food processing and recycling. Its Chakan plant, operational since 2012, manufactures 85% of equipment locally
-  🔗 https://www.livemint.com/companies/beyond-the-carton-inside-tetra-paks-india-expansion-11780039064591.html
+- Raw sugar bounces back from four-week lows; coffee down
+  Raw sugar bounces back from four
+  🔗 https://www.livemint.com/market/raw-sugar-bounces-back-from-four-week-lows-coffee-down-11780081594836.html
 
-- Wall Street gains as investors await details on Iran deal, Dell surges 30%, Hewlett Packard jumps 15%
-  The Dow Jones Industrial Average rose 0.21%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-as-investors-await-details-on-iran-deal-11780062418004.html
-
-- Small-cap stock inches close to 52-week high despite stock market crash
-  Cash Ur Drive share price rose to the day's high of  ₹160.90 on the NSE today. With today's rise, the stock was within arm's reach of its 52
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-inches-close-to-52-week-high-despite-stock-market-crash-11780055755228.html
-
-- Non MF-retail ownership on NSE-listed firms falls to five year low in March 2026
-  Total individual ownership stands at 18.7%, exceeding FPI holdings of 15.8% as of FY26-end. Tepid earnings growth over the past
-  🔗 https://www.livemint.com/market/stock-market-news/non-mf-retail-ownership-on-nse-listed-firms-falls-to-five-year-low-in-march-2026-11780043090552.html
-
-- US stock market today: S&amp;P 500, Nasdaq set to extend record run as investors eye US-Iran peace deal updates
-  S&amp;amp;P 500 was on track for a ninth consecutive weekly gain, its longest winning streak since December 2023. The Dow Jones and the Nasdaq were also set to end
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-set-to-extend-record-run-as-investors-eye-us-iran-peace-deal-updates-11780054231182.html
-
-- Expert view: Poor monsoon may impact earnings; defence a multi-year growth story, says Baroda BNP Paribas MF CIO
-  Sanjay Chawla, Chief Investment Officer (CIO) – Equity, Baroda BNP Paribas Mutual Fund, remains confident about India�
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-poor-monsoon-may-impact-earnings-defence-a-multi-year-growth-story-says-baroda-bnp-paribas-mf-cio-11780052823831.html
+- Wall Street extends rally on tech strength; Middle East deal stays in focus
+  Wall Street extends rally on tech strength; Middle East deal
+  🔗 https://www.livemint.com/market/wall-street-extends-rally-on-tech-strength-middle-east-deal-stays-in-focus-11780079932916.html
 
 - Huawei bets on speed over shrinking transistors to sidestep US chip sanctions
   Huawei bets on speed over shrinking transistors
@@ -100,45 +100,25 @@
   One Tech Tip: Your next job interview
   🔗 https://www.livemint.com/technology/one-tech-tip-your-next-job-interview-could-be-with-an-ai-bot-11779940983460.html
 
-- Premium for near-term LME aluminium at 19-year high as Iran war tightens supply
-  Two regional smelters were hit by Iranian strikes in late March. The war has curtailed most shipping through the Strait of Hormuz.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/premium-for-near-term-lme-aluminium-at-19-year-high-as-iran-war-tightens-supply/articleshow/131393043.cms
+- Fed officials mull raising rates to curb growing inflation risk
+  Federal Reserve officials signalled potential rate hikes if Middle East tensions drive a prolonged energy shock and keep inflation elevated. Policymakers, including Michelle Bowman, warned inflation risks remain high above target.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-mull-raising-rates-to-curb-growing-inflation-risk/articleshow/131396521.cms
 
-- Fed's Bowman says extended energy shock could drive shift in policy outlook
-  "We could ​start to see broader effects on inflation," Bowman said. She said she was "optimistic" that once the war is ​over, supply disruptions will end.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/feds-bowman-says-extended-energy-shock-could-drive-shift-in-policy-outlook/articleshow/131393026.cms
+- Supreme Court provides relief to Reliance in 2007 securities market fraud case
+  The Supreme Court directed SEBI to refund 2.5 billion rupees to Reliance. The case involved a stake sale in Reliance Petroleum Ltd.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/supreme-court-provides-relief-to-reliance-in-2007-securities-market-fraud-case/articleshow/131394997.cms
 
-- U.S. equity funds draw weekly inflows as tech rally lifts sentiment
-  LSEG Lipper data shows investors bought a net $1.97 billion of U.S. equity
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/u-s-equity-funds-draw-weekly-inflows-as-tech-rally-lifts-sentiment/articleshow/131392864.cms
+- EU's six biggest economies agree on capital markets supervision
+  The goal is to redirect citizens' savings into productive investments. This will boost Europe's global competitiveness against the United States and China.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/eus-six-biggest-economies-agree-on-capital-markets-supervision/articleshow/131394853.cms
 
-- Gap, American Eagle fall as brand troubles weaken annual forecasts
-  The results underscore a widening split in consumer spending. Record-low sentiment driven by the Iran war forcing lower-income households to cut back
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gap-american-eagle-fall-as-brand-troubles-weaken-annual-forecasts/articleshow/131392791.cms
+- Wall St regulator proposes to scrap Biden-era climate rule
+  The U.S. Securities and Exchange Commission is proposing to remove rules requiring companies to disclose climate-related risks and spending. These regulations, adopted in 2024, faced legal challenges.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-regulator-proposes-to-scrap-biden-era-climate-rule/articleshow/131394831.cms
 
-- Sales bookings of 11 big listed firms rise 18% to Rs 1.48 lakh cr in FY26: Anarock
-  India's residential real estate market is increasingly being dominated by developers who have diversified beyond their 'home
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sales-bookings-of-11-big-listed-firms-rise-18-to-rs-1-48-lakh-cr-in-fy26-anarock/articleshow/131392500.cms
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
-  "We Face Delegitimisation In
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
-
-- 'Crazy love': Benjamin Netanyahu cites India's support even as world 'delegitimises' Israel - The Times of India
-  'Crazy love': Benjamin Netanyahu cites India's support even as
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenQ5ZE9mUGFkQ194V1hkVnNSc0hZanJuUHZKdUlzck5MQkxHRElhT0xnUzRGV2wyb2Y2NE9sSFRndTBRSHZCZ1RrYk51NVY4eXF2RTVyXy10UHRYNkxEQW9IVkVmUVlkSkhqenhoSzRxNlBsSHhVcVBOUjRjeHVkQXYwZ0Z6NTh1bmd0RlRZUkpBbXlfaXNXWktObnJnRE5zUmFXckgyUEF2STZlajRvMkl6MHhDQm5QaFhFVmJubWVsVEdUM3ZsWnRHeHRKZUJvcXZ2V0lERjdfTU4x0gHiAUFVX3lxTE5Qd3VGVE1ybzR0RjZqcnZaQUtrdHFNZEk2WEF1TU5YWmd6cmpUdzVPRGFQY1pNamxpaGJnVFhzcktCOVhLRHhDN0dVLTRHZzBkQVlidFQ1d21fUjg3UHBHVUlCdkdBbVZOUmNMQkRmaVBpOU0wRzBqZC1yYjdweE51NWJLaXcyYUNFSTFYc2s3bzFlRGpWdmNxcU10UGRhQUlzNXp4cWVfWkV1ZzZMaFU4Zk1LaW1hc0MyU015bldXUFlnc2FmMVV2NkRTUi1aS3FodGkyNjNnbDh5Q25haW9SV0E?oc=5
-
-- World delegitimises Israel, but India has ‘crazy love’ for us: PM Benjamin Netanyahu | World News - Hindustan Times
-  The Indian prime minister said that India has 'crazy love' for Israel.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemtpTk8xbi1PMDhpSnNHVEpTa3M1dWtselpKajBLeXpwNkdNcnJuZUNrOEVaR1pOMGxQVHFKNm5LMzlKZ2JCNkNFQTdCU3NVWktEaWJVUkVOUVF1M2xCOTlZZWtUOEUxOGtudWxISzhxYzJOVXNKb0hiMHZDR2JDb1FQVE1namtZOHkyT2NBYkZIM1VaSkhvTWE5Mm9rMnZ3eV90eHB0QzFlTDlIS1R2WnV2RloxMHdFOEtXYmsyMEFrd1YydkVTZmZxMGFuVjZTaHJwaWJnYmExM1paUXdYVlp0Q004dG00NHfSAe8BQVVfeXFMUDQ5dS1ZeEJPSkhDell3ZjQxQVNHdjhBXzc1SlNvZlZCSjVjUHZGeTNWYWpTVkdJM21HTmJsZjE3a1JKTnlkSndRU2FUbTJmdzQ1MF9zTWxqS3c5X1JzX0tXRXc5d256WXFLb2dqMjJiLXFUc18tclVNUTdFbHUzbGZQemk3TTZ4ZjcwaHZKakE5aW5KQTdUQmJNR3NkN0o1ZjhUaEM3dlJkeXRUWkZqbldPSzB3WFU0OWFfTFNYZUtiZEMwTEVkX2psX2Z1OXpZQlhXWjk4SHFYNklTNTBJd0hfWkp1bnI2V2RRT3NpYmc?oc=5
-
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- PB Fintech sees Rs 665 crore block deal as founders pare stake; Goldman among other top funds buy
+   PB Fintech founders Yashish Dahiya and Alok Bansal sold 38 lakh shares worth Rs 665 crore in a block deal. The shares were purchased by various
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-sees-rs-665-crore-block-deal-as-founders-pare-stake-goldman-among-other-top-funds-buy/articleshow/131394439.cms
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -148,37 +128,17 @@
   "We Face Delegitimisation In
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
 
-- 'Crazy love': Benjamin Netanyahu cites India's support even as world 'delegitimises' Israel - The Times of India
-  'Crazy love': Benjamin Netanyahu cites India's support even as
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenQ5ZE9mUGFkQ194V1hkVnNSc0hZanJuUHZKdUlzck5MQkxHRElhT0xnUzRGV2wyb2Y2NE9sSFRndTBRSHZCZ1RrYk51NVY4eXF2RTVyXy10UHRYNkxEQW9IVkVmUVlkSkhqenhoSzRxNlBsSHhVcVBOUjRjeHVkQXYwZ0Z6NTh1bmd0RlRZUkpBbXlfaXNXWktObnJnRE5zUmFXckgyUEF2STZlajRvMkl6MHhDQm5QaFhFVmJubWVsVEdUM3ZsWnRHeHRKZUJvcXZ2V0lERjdfTU4x0gHiAUFVX3lxTE5Qd3VGVE1ybzR0RjZqcnZaQUtrdHFNZEk2WEF1TU5YWmd6cmpUdzVPRGFQY1pNamxpaGJnVFhzcktCOVhLRHhDN0dVLTRHZzBkQVlidFQ1d21fUjg3UHBHVUlCdkdBbVZOUmNMQkRmaVBpOU0wRzBqZC1yYjdweE51NWJLaXcyYUNFSTFYc2s3bzFlRGpWdmNxcU10UGRhQUlzNXp4cWVfWkV1ZzZMaFU4Zk1LaW1hc0MyU015bldXUFlnc2FmMVV2NkRTUi1aS3FodGkyNjNnbDh5Q25haW9SV0E?oc=5
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- World delegitimises Israel, but India has ‘crazy love’ for us: PM Benjamin Netanyahu | World News - Hindustan Times
-  The Indian prime minister said that India has 'crazy love' for Israel.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemtpTk8xbi1PMDhpSnNHVEpTa3M1dWtselpKajBLeXpwNkdNcnJuZUNrOEVaR1pOMGxQVHFKNm5LMzlKZ2JCNkNFQTdCU3NVWktEaWJVUkVOUVF1M2xCOTlZZWtUOEUxOGtudWxISzhxYzJOVXNKb0hiMHZDR2JDb1FQVE1namtZOHkyT2NBYkZIM1VaSkhvTWE5Mm9rMnZ3eV90eHB0QzFlTDlIS1R2WnV2RloxMHdFOEtXYmsyMEFrd1YydkVTZmZxMGFuVjZTaHJwaWJnYmExM1paUXdYVlp0Q004dG00NHfSAe8BQVVfeXFMUDQ5dS1ZeEJPSkhDell3ZjQxQVNHdjhBXzc1SlNvZlZCSjVjUHZGeTNWYWpTVkdJM21HTmJsZjE3a1JKTnlkSndRU2FUbTJmdzQ1MF9zTWxqS3c5X1JzX0tXRXc5d256WXFLb2dqMjJiLXFUc18tclVNUTdFbHUzbGZQemk3TTZ4ZjcwaHZKakE5aW5KQTdUQmJNR3NkN0o1ZjhUaEM3dlJkeXRUWkZqbldPSzB3WFU0OWFfTFNYZUtiZEMwTEVkX2psX2Z1OXpZQlhXWjk4SHFYNklTNTBJd0hfWkp1bnI2V2RRT3NpYmc?oc=5
+- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
+  India 'Commits' To Buying $500 Billion
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
 
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
-  "We Face Delegitimisation In
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
-
-- 'Crazy love': Benjamin Netanyahu cites India's support even as world 'delegitimises' Israel - The Times of India
-  'Crazy love': Benjamin Netanyahu cites India's support even as
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenQ5ZE9mUGFkQ194V1hkVnNSc0hZanJuUHZKdUlzck5MQkxHRElhT0xnUzRGV2wyb2Y2NE9sSFRndTBRSHZCZ1RrYk51NVY4eXF2RTVyXy10UHRYNkxEQW9IVkVmUVlkSkhqenhoSzRxNlBsSHhVcVBOUjRjeHVkQXYwZ0Z6NTh1bmd0RlRZUkpBbXlfaXNXWktObnJnRE5zUmFXckgyUEF2STZlajRvMkl6MHhDQm5QaFhFVmJubWVsVEdUM3ZsWnRHeHRKZUJvcXZ2V0lERjdfTU4x0gHiAUFVX3lxTE5Qd3VGVE1ybzR0RjZqcnZaQUtrdHFNZEk2WEF1TU5YWmd6cmpUdzVPRGFQY1pNamxpaGJnVFhzcktCOVhLRHhDN0dVLTRHZzBkQVlidFQ1d21fUjg3UHBHVUlCdkdBbVZOUmNMQkRmaVBpOU0wRzBqZC1yYjdweE51NWJLaXcyYUNFSTFYc2s3bzFlRGpWdmNxcU10UGRhQUlzNXp4cWVfWkV1ZzZMaFU4Zk1LaW1hc0MyU015bldXUFlnc2FmMVV2NkRTUi1aS3FodGkyNjNnbDh5Q25haW9SV0E?oc=5
-
-- World delegitimises Israel, but India has ‘crazy love’ for us: PM Benjamin Netanyahu | World News - Hindustan Times
-  The Indian prime minister said that India has 'crazy love' for Israel.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemtpTk8xbi1PMDhpSnNHVEpTa3M1dWtselpKajBLeXpwNkdNcnJuZUNrOEVaR1pOMGxQVHFKNm5LMzlKZ2JCNkNFQTdCU3NVWktEaWJVUkVOUVF1M2xCOTlZZWtUOEUxOGtudWxISzhxYzJOVXNKb0hiMHZDR2JDb1FQVE1namtZOHkyT2NBYkZIM1VaSkhvTWE5Mm9rMnZ3eV90eHB0QzFlTDlIS1R2WnV2RloxMHdFOEtXYmsyMEFrd1YydkVTZmZxMGFuVjZTaHJwaWJnYmExM1paUXdYVlp0Q004dG00NHfSAe8BQVVfeXFMUDQ5dS1ZeEJPSkhDell3ZjQxQVNHdjhBXzc1SlNvZlZCSjVjUHZGeTNWYWpTVkdJM21HTmJsZjE3a1JKTnlkSndRU2FUbTJmdzQ1MF9zTWxqS3c5X1JzX0tXRXc5d256WXFLb2dqMjJiLXFUc18tclVNUTdFbHUzbGZQemk3TTZ4ZjcwaHZKakE5aW5KQTdUQmJNR3NkN0o1ZjhUaEM3dlJkeXRUWkZqbldPSzB3WFU0OWFfTFNYZUtiZEMwTEVkX2psX2Z1OXpZQlhXWjk4SHFYNklTNTBJd0hfWkp1bnI2V2RRT3NpYmc?oc=5
-
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
+  India-US trade deal 99% done, signing expected in weeks,
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -188,37 +148,65 @@
   "We Face Delegitimisation In
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
 
-- 'Crazy love': Benjamin Netanyahu cites India's support even as world 'delegitimises' Israel - The Times of India
-  'Crazy love': Benjamin Netanyahu cites India's support even as
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenQ5ZE9mUGFkQ194V1hkVnNSc0hZanJuUHZKdUlzck5MQkxHRElhT0xnUzRGV2wyb2Y2NE9sSFRndTBRSHZCZ1RrYk51NVY4eXF2RTVyXy10UHRYNkxEQW9IVkVmUVlkSkhqenhoSzRxNlBsSHhVcVBOUjRjeHVkQXYwZ0Z6NTh1bmd0RlRZUkpBbXlfaXNXWktObnJnRE5zUmFXckgyUEF2STZlajRvMkl6MHhDQm5QaFhFVmJubWVsVEdUM3ZsWnRHeHRKZUJvcXZ2V0lERjdfTU4x0gHiAUFVX3lxTE5Qd3VGVE1ybzR0RjZqcnZaQUtrdHFNZEk2WEF1TU5YWmd6cmpUdzVPRGFQY1pNamxpaGJnVFhzcktCOVhLRHhDN0dVLTRHZzBkQVlidFQ1d21fUjg3UHBHVUlCdkdBbVZOUmNMQkRmaVBpOU0wRzBqZC1yYjdweE51NWJLaXcyYUNFSTFYc2s3bzFlRGpWdmNxcU10UGRhQUlzNXp4cWVfWkV1ZzZMaFU4Zk1LaW1hc0MyU015bldXUFlnc2FmMVV2NkRTUi1aS3FodGkyNjNnbDh5Q25haW9SV0E?oc=5
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- World delegitimises Israel, but India has ‘crazy love’ for us: PM Benjamin Netanyahu | World News - Hindustan Times
-  The Indian prime minister said that India has 'crazy love' for Israel.
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQemtpTk8xbi1PMDhpSnNHVEpTa3M1dWtselpKajBLeXpwNkdNcnJuZUNrOEVaR1pOMGxQVHFKNm5LMzlKZ2JCNkNFQTdCU3NVWktEaWJVUkVOUVF1M2xCOTlZZWtUOEUxOGtudWxISzhxYzJOVXNKb0hiMHZDR2JDb1FQVE1namtZOHkyT2NBYkZIM1VaSkhvTWE5Mm9rMnZ3eV90eHB0QzFlTDlIS1R2WnV2RloxMHdFOEtXYmsyMEFrd1YydkVTZmZxMGFuVjZTaHJwaWJnYmExM1paUXdYVlp0Q004dG00NHfSAe8BQVVfeXFMUDQ5dS1ZeEJPSkhDell3ZjQxQVNHdjhBXzc1SlNvZlZCSjVjUHZGeTNWYWpTVkdJM21HTmJsZjE3a1JKTnlkSndRU2FUbTJmdzQ1MF9zTWxqS3c5X1JzX0tXRXc5d256WXFLb2dqMjJiLXFUc18tclVNUTdFbHUzbGZQemk3TTZ4ZjcwaHZKakE5aW5KQTdUQmJNR3NkN0o1ZjhUaEM3dlJkeXRUWkZqbldPSzB3WFU0OWFfTFNYZUtiZEMwTEVkX2psX2Z1OXpZQlhXWjk4SHFYNklTNTBJd0hfWkp1bnI2V2RRT3NpYmc?oc=5
+- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
+  India 'Commits' To Buying $500 Billion
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
 
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
+  India-US trade deal 99% done, signing expected in weeks,
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
 
-- Amazon starts selling its AI shopping technology to other retailers - CNBC
-  Amazon starts selling its AI shopping technology to
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- A reality check on the AI jobs hysteria - MIT Technology Review
-  A reality check on the AI jobs hysteria
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmp2Rjg2VVdYZU45YnpSNXZ0QklkSkxyUVZHaHl6MmlwME53ZDR1WVpoZF9wOUhfVHg1Zlh5SjJtZXRrSjdIbzdUSEoyZ0FUd0hfbzhDNTJXU1pId2JjVHBaQW1QZVkxTEVKM0NLeTJtcVFiT3lPTjdDOUQzUHJ6ZVZ6UEg3RHBGUGhOUzhaZU9XVlp5ay1z?oc=5
+- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
+  "We Face Delegitimisation In
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
 
-- Light-powered Nano catalyst offers sustainable, affordable way for producing Path for Manufacturing Medicines and Chemicals - PIB
-  Light-powered Nano catalyst offers sustainable, affordable way for producing Path
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQUFuR1NaaVQxYm14N2oyZWxOWkxMVDdqWDhhWmtua2FuUkE4S3o2R1BST0doTk43dEZIOWtoeWtibmRjWmJ4anhoa0xaU1FQM1FSbHF6Y184WFllU05CN0hTMDJxUURpaEdVRUZ0VlY3Z1JXcFNBWUxR?oc=5
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- AI will be used to estimate age of asylum seekers from next year - BBC
-  AI will be used to estimate age of asylum seekers from
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HV0U0ZjNBQkdYcnVUaU5qemtKSXdJcEVWQ1dUZThpSkZhRDduMGI2empvMUNvLUtoX0VzRGMyTXJtWGE2a1RxYWoyeEZ6RFNEV2tiNHVsQ3VVdw?oc=5
+- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
+  India 'Commits' To Buying $500 Billion
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
 
-- Marvell Technology’s Revenue Soars, Profit Slims Down - WSJ
-  Marvell Technology’
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWZUZ25LOWd0WHpZRTlKOWtlSzAteUhaeHdWQ3NCa3VKTG9uZEdBZWFLM3YtRUdLTEdINURIeXRmbVVmVjdvN3ZoTHUyMHpDcmF5emp1bVpDZ3Jza1oxUWxEVXZRb1NDMEJxUFdrdmEtcm83bkxoYTZrNllRNXhBTkdvZDh1SGJuOEdiZnFYRzUtVnV1aDJiZg?oc=5
+- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
+  India-US trade deal 99% done, signing expected in weeks,
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-29 14:54:41 UTC_
+_Last updated: 2026-05-29 20:16:18 UTC_
