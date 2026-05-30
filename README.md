@@ -1,44 +1,44 @@
 # 📰 Daily News Summaries
 
-- A missing iPhone, a bitter love triangle, and a double murder: Inside the hunt for a friend-turned-killer
+- Monsoon at Kerala’s doorstep but likely to miss June 1 onset
   
-  🔗 https://indianexpress.com/article/india/jammu-double-murder-missing-iphone-love-triangle-friend-arrested-10715465/
+  🔗 https://indianexpress.com/article/india/southwest-monsoon-kerala-onset-delay-imd-forecast-rainfall-10715946/
 
-- Rabri Devi told to vacate Circular Road home, where Lalu and she have stayed since 2006
+- Brazen murder of Chhattisgarh Congress leader’s son cracked, sand mining rivalry was motive
   
-  🔗 https://indianexpress.com/article/india/rabri-devi-eviction-notice-10-circular-road-bungalow-nandkishore-ram-rjd-10715256/
+  🔗 https://indianexpress.com/article/india/ayush-kashyap-murder-case-sand-mining-rivalry-arrests-chhattisgarh-10715915/
 
-- 5 killed in lightning strikes in Jharkhand
+- IRCTC gets FSSAI notice after video showing utensils washed in Mumbai-Ernakulam Duronto Express train toilet went viral
   
-  🔗 https://indianexpress.com/article/india/lightning-strikes-deaths-jharkhand-10715296/
+  🔗 https://indianexpress.com/article/india/irctc-gets-fssai-notice-after-video-showing-utensils-washed-in-mumbai-ernakulam-duronto-express-train-toilet-went-viral-10715745/
 
-- Quarry Delhi model drowned in was ‘death trap’, panchayat says no permission given
+- Delhi-NCR residents receive ‘Extremely Severe Alert’ on phones; first such after SACHET launch
   
-  🔗 https://indianexpress.com/article/india/delhi-model-divyanshu-joshi-drowns-kerala-ernakulam-quarry-10715043/
+  🔗 https://indianexpress.com/article/india/delhi-ncr-extremely-severe-alert-phones-sachet-launch-10715893/
 
-- ‘Interest of society may outweigh personal liberty’: Why accused in Zubeen Garg case was refused bail
+- 30 lakh migrant workers may miss voter roll revision in Odisha, BJD cautions Election Commission
   
-  🔗 https://indianexpress.com/article/india/interest-of-society-may-outweigh-personal-liberty-why-accused-in-zubeen-garg-case-was-refused-bail-10714879/
+  🔗 https://indianexpress.com/article/india/odisha-sir-migrant-voters-bjd-concerns-10715765/
 
-- Scientists identify giant ‘T-Rex of the sea’ which ruled ancient oceans 80 million years ago
+- Influential medieval queen’s skeleton found alongside mummified pregnant woman, stabbed men in Barcelona monastery
   
-  🔗 https://indianexpress.com/article/technology/science/scientists-identify-giant-t-rex-of-the-sea-which-ruled-ancient-oceans-80-million-years-ago-10715339/
+  🔗 https://indianexpress.com/article/technology/science/influential-medieval-queens-skeleton-found-alongside-mummified-pregnant-woman-stabbed-men-in-barcelona-monastery-10715824/
 
-- Meta eyes AI pendant as part of its ambitious new hardware strategy
+- Why did Blue Origin’s New Glenn rocket explode during a prelaunch test in Florida
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/
+  🔗 https://indianexpress.com/article/technology/science/why-did-blue-origins-new-glenn-rocket-explode-during-a-prelaunch-test-in-florida-10715816/
 
-- India emerges as a key Codex market with 27x user growth: OpenAI
+- DuckDuckGo installs jump 30% amid backlash over Google AI Search
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/india-emerges-as-a-key-codex-market-with-27x-user-growth-openai-10714611/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/duckduckgo-installs-jump-30-amid-backlash-over-google-ai-search-10715761/
 
-- Samsung smartwatches may soon help track muscle loss linked to GLP-1 drugs
+- How a father’s solution to son’s Kannada homework became free keyboard app for 21 Indian languages
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-smartwatches-may-soon-help-track-muscle-loss-linked-to-glp-1-drugs-10714494/
+  🔗 https://indianexpress.com/article/technology/akshar-kannada-free-keyboard-ai4bharat-10715582/
 
-- Rocky clouds every morning, gone by evening: Study shows Hot Jupiter’s weird weather
+- Call of Duty: Modern Warfare 4 announced with Korean war storyline
   
-  🔗 https://indianexpress.com/article/technology/science/rocky-clouds-every-morning-gone-by-evening-study-shows-hot-jupiters-weird-weather-10714242/
+  🔗 https://indianexpress.com/article/technology/gaming/call-of-duty-modern-warfare-4-announced-with-korean-war-storyline-10715566/
 
 - Airbnb leases 46,000 sq ft for GCC in DLF Cyber City Gurugram
   Airbnb will pay a monthly rent of around  ₹61.
@@ -60,6 +60,14 @@
   Google's Gemini 3.5 Flash rivals frontier AI models at a fraction of the cost. Companies burn through annual
   🔗 https://www.livemint.com/companies/news/google-built-the-answer-to-your-ai-bill-before-you-knew-you-had-a-problem-11780099283342.html
 
+- NSE extends F&amp;O trading window following new cash market closing auction – Check new timings
+  This window allows traders to hedge risk, rebalance portfolios, or close out positions
+  🔗 https://www.livemint.com/market/stock-market-news/nse-extends-f-o-trading-window-following-new-cash-market-closing-auction-check-new-timings-11780132430627.html
+
+- Bond market at a turning point! Axis Mutual Fund says bond investors should buy, not panic
+   Axis MF cautions that aggressive rate hikes won't address INR depreciation and may harm India's growth. They recommend a neutral-to-slightly long duration stance over three months
+  🔗 https://www.livemint.com/market/bonds/bond-market-at-a-turning-point-axis-mutual-fund-says-bond-investors-should-buy-not-panic-11780129169138.html
+
 - Small-cap stock to be in focus on Monday; here's why
   GRM Overseas shares will be in focus after the company reported strong revenue growth but modest profitability for FY26. Despite margin pressure, the stock has shown long-term
   🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-grm-overseas-share-price-to-be-in-focus-on-monday-after-q4-results-2026-heres-why-11780126910792.html
@@ -71,14 +79,6 @@
 - Dell's stunning rally: From Trump endorsement to Q1 results - What led to a 101% surge in the US tech stock in 1 month
   Dell Technologies reported a remarkable 88% revenue growth in Q1. The company raised its annual revenue outlook, reflecting robust demand for both AI and traditional computing products.
   🔗 https://www.livemint.com/market/stock-market-news/dell-share-stunning-rally-from-trump-endorsement-to-q1-results-what-led-to-101-surge-in-the-us-tech-stock-in-1-month-11780119392137.html
-
-- US stock markets this week: S&amp;P 500 posts 9th straight weekly gain as tech stocks power markets to new records
-  US stock markets closed at record levels amid easing geopolitical tensions and lower oil prices. The S&amp;amp;P 500 marked its fourth consecutive record high. Technology stocks, driven
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-posts-9th-straight-weekly-gain-as-tech-stocks-power-markets-to-new-records-11780115495459.html
-
-- Stocks to buy for long term: Tata Steel, EIL among 5 stocks ICICI Securities' Pankaj Pandey suggests for up to 36% gains
-  ICICI Securities' Pankaj Pandey recommends five quality stocks poised for long-term gains. From Artemis Medicare, EIL to Tata Steel, discover the compelling reasons behind these picks.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-tata-steel-eil-among-5-stocks-icici-securities-pankaj-pandey-suggests-for-up-to-36-gains-11780113241662.html
 
 - The memory shortage is just beginning. The consumer pain is already here.
   Memory prices for PCs, smartphones, and gaming consoles are spiking
@@ -100,45 +100,25 @@
   From Microsoft Copilot and Google Gemini to ChatGPT, Slack AI and Notion AI, workplace software is rapidly becoming AI-native. These tools now draft documents, summar
   🔗 https://www.livemint.com/technology/microsoft-copilot-chatgpt-to-gemini-the-ai-productivity-tools-reshaping-office-work-in-2026-11779948152966.html
 
-- Why did stock market crash in the final hours of trade today? Sensex, Nifty50 plunge - check top reasons - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxOaGJhY0ZOeFBrblFQUkhBcWxxZUJlMTZVSm9VS2ZQeWlQVFZVRk96bk5FZ2pscUhmYWVUdkFwckViUllzTWtYbnk2RFNpOU9Ka0xVMV9wcUh1dHlzX0J5LUUxOF9pNHFoOE
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOaGJhY0ZOeFBrblFQUkhBcWxxZUJlMTZVSm9VS2ZQeWlQVFZVRk96bk5FZ2pscUhmYWVUdkFwckViUllzTWtYbnk2RFNpOU9Ka0xVMV9wcUh1dHlzX0J5LUUxOF9pNHFoOENtSVo1YXpjSjdueFBNXzFCLTEtZ190b19iQi03cktXcjZTVjNJMUJuYS1UcWNkelVlaDBwdGwta2Y0TlJYa3h0aGM5ZFZ5N015S0JtN2RLUlZ2QWlSTURwN3hGMXVFOUlfQ2ZObjdhXzhHMzNwcjdjMElyVXk4Skw1RnNWVkgtWTUtQ2x3bmtKOVpxa2NkV1VqZVhOSWJZQkx2dnFBbWlheGhDbjhuU0pDSF_SAZoCQVVfeXFMTkUwZm14UThmbmk4ZkVnUWpnekhwelcyTUFPaExwSkFwLUtsYXpYZWFQbVplaDczaklERnM1bmZ1V0VPbk1vb1pvNmk5c192enZiN1dMZ3lXMXBSTi1WRFpIOGItcElqMlVKRVgyaDdBamhoZmJubVp5S2xEVGlaVVBudmtQUmJtV1NaZnpSMDFXWF9EQURKWHdMaDU1SFNjNTA0RHFzRW5tWHp6NUdpTHlnZl9icXppQnhldF9WWkF2OGdidDU5YVk0UTVuYkdMelQtclRyRTNxaGlyLVhMVkFXOG5DeFo4aEJVZXp1eWEtdm9JZXcwVjhlT0tvZmpJSW45NzJOcUZPbkhaZVc5bXlfUnJaVXVEOVNn?oc=5
+- Jupiter Wagons Q4 Results: Cons PAT tumbles 72% to Rs 29 crore, revenue falls 25% YoY
+  Jupiter Wagons saw its net profit drop 72% to Rs 29 crore in the March quarter. The company's EBITDA declined 46%. For the full year, profit after tax decreased 56%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jupiter-wagons-q4-results-cons-pat-tumbles-72-to-rs-29-crore-revenue-falls-25-yoy/articleshow/131409045.cms
 
-- Markets News, May 29, 2026: Indexes Close at Records as Dell Leads Tech Gains; S&P 500 Rises for 9th Straight Week - Investopedia
-  The S&amp;P 500 Rises for 9th Straight Week.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzZnaFhDMTQ1NC16RmxmajBpaEFCRUhRSGNGSGxyU1UwS2ZQUTVnT2ItN0tiM3hsTDhkOTlHUGlPb0FCY2czMy1LZGd6NnA4YlRDUVlmRWtJRHo1ZG9RQ2RmWU1qaEZRLXFNQUpTdF9vMEtKbVFSUU9MeWNzUEdKRFFwSVF6UDhwZDM5WGs1cTY?oc=5
+- F&amp;O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks
+  Sensex and Nifty drop over 1%, driven by passive fund flows from MSCI index reshuffles. Volatility surged as the market lost Rs 6 lakh crore in capitalization. Analysts suggest caution amid indec
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-may-stay-range-bound-sudeep-shah-sees-opportunities-in-banks-it-picks-7-stocks/articleshow/131406954.cms
 
-- S&P 500 Powers Historic Weekly Run on US-Iran Bets: Markets Wrap - Bloomberg.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3R1U0FoSWY2aUpubVNqdlJBTURUYklRMnpWWlB4RGsxd0tvRTVXbTdKR0NCdW9BMkxicmxuNjdfUWhrNEV4YnM0UDlSS1NRUV9ZT0NSSjZUbGZNVkNEWUlvVVU5dmxQX2dNbXNEeWxjcWZMTUdUZUNua3FKTTZDZ014dEJPaGlTSm9XNjRWekx6WnJBaHBTTk5lUWNiRkFoc04wTHVlTjlNaW9jREloV1g3VQ?oc=5
+- Triveni Engineering Q4 profit falls to Rs 167.4 crore; FY26 profit rises 12.8%
+  Triveni Engineering &amp; Industries reported a consolidated net profit of Rs 167.4 crore for Q4 FY26. For the full FY26, revenue grew 11.9% to Rs 7,620.9 crore and net
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/triveni-engineering-q4-profit-falls-to-rs-167-4-crore-fy26-profit-rises-12-8/articleshow/131407258.cms
 
-- Stocks Close Out a Strong May | Markets P.M. for May 29 - WSJ
-  Stocks Close Out a Strong May | Markets P
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE9EbzB6NHdVU0pCcDQwZmZMQ2ppbkdyLUwtUTJ3VlB6R21obGZWcGphSlFlaFNyYUttWHg0VVdLeTdzYUpOYXdYeWFBWWh4bGV5blNYNkhWWG9hREUtTXhSakN4c2owX3YxclEzVjdvdl9aWVg2OHVhZ090YUg2dw?oc=5
+- Zara's India FY26 profit falls 32% to Rs 204 crore; revenue slips
+  Zara's India profit saw a significant 31.9% drop to Rs 204.14 crore in FY26. Trent Ltd reduced its stake in the joint venture operating Zara stores in India.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/zaras-india-fy26-profit-falls-32-pc-to-rs-204-cr-revenue-slips/articleshow/131407207.cms
 
-- South Korea's Kospi, Japan's Topix hit record highs as investors shrug off Iran tensions - CNBC
-  South Korea's Kospi, Japan's Topix hit
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXNyWkU4QUtBZXdDM09uYk9HNkpybXhreHluWXp5dmIzbG5KaC1DVEhXbFhaTHRnQmNLdzMyay1fMTBwcG5mMGJjUDd2TGVDeHR1Sk1VWS1FQ3V3ZFhrdU5WUFRXRVZLTE1pX0FkMjF2SExSRmI5aE1GWlpkWFhZY3RWYkFROXhicE51aGZFOWdZQ2Y0RnpoZzk4NFVVLVVCMFY2dW81RE1Jc1FUX2hBWHRDTlVtUzZRVUHSAb8BQVVfeXFMTVRPZmE0SnlkYTU0T3NIbHhQM2E3dUFJeGp3dVJsSENFS2tNN2ZxYnNkd0R2dVJ1aWpBRHRMR25zZk91a2kwMmFKQmhtOVVscFdnMjFQT2dZMlF1VmZvWXF6bHVzZF81VEVyU2tqMjRSakxOQWctYUJyOUt3aXBSVDZCYVI1UEZtTjJaNzRVWFNOYkZXMXhKUzJNc3UtR3JoT3BLcnduZWtkTnRnVnF1R1BtdjNBSk1pNC1wQkRWeTQ?oc=5
-
-- Sunil Singhania’s Abakkus Portfolio: 6 stocks rally up to 75% in CY26; 5 new buys added in Q4
-  Sunil Singhania’s Abakkus Asset Manager portfolio rose 6% to Rs 2,742 crore in March 2026 quarter. Mixed
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhanias-abakkus-portfolio-6-stocks-rally-up-to-75-in-cy26-5-new-buys-added-in-q4/slideshow/131405936.cms
-
-- FIIs pull out massive Rs 20,637 crore in single day on Friday. What led to this sharp exit?
-  Foreign portfolio investors offloaded Indian equities worth a net Rs 20,637 crore on Friday. This significant outflow coincided with the MSCI index rebalancing.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-pull-out-massive-rs-20637-crore-in-single-day-on-friday-what-led-to-this-sharp-exit/articleshow/131405729.cms
-
-- Concurrent Losers: 14 smallcap stocks decline for 5 consecutive sessions
-  Sensex fell 408 points over five sessions ending May 29. 14 BSE smallcap stocks declined continuously, losing up to 15% led by Wakefit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-smallcap-stocks-decline-for-5-consecutive-sessions/slideshow/131405355.cms
-
-- NSE extends equity F&amp;O segment timings till 3:40 pm from August
-  NSE will extend equity derivatives trading hours by 10 minutes. Market now closing at 3:40 pm, effective August 3, 2026. Pre-open and normal market opening times remain unchanged.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-extends-equity-fo-segment-timings-till-340-pm-from-august/articleshow/131404896.cms
-
-- ET Alpha Wealth Summit: Learn the secrets of finding alpha &amp; what it takes to build a Rs 100 crore portfolio
-   ET Alpha Wealth Summit will focus on finding hidden market opportunities. Discussions will cover strategies for consistent excess value. Practical takeaways will guide attendees in navigating complex markets.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-learn-the-secrets-of-finding-alpha-what-it-takes-to-build-a-rs-100-crore-portfolio/articleshow/131403685.cms
+- Shalibhadra Finance eyes Rs 500 crore AUM as FY26 profit climbs 22%
+  Shalibhadra Finance is set for major expansion. The company aims to more than double its loan book by FY29. This growth will be fueled by new products like Micro LAP and home loans.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shalibhadra-finance-eyes-rs-500-crore-aum-as-fy26-profit-climbs-22/articleshow/131407133.cms
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -148,17 +128,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Weather Today LIVE: Temperatures Dip In Many States, Weather Body Flags Below-Normal Monsoon - NDTV
-  Weather Today LIVE: Temperatures Dip In Many States.
+- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
+  Myanmar President U Min Aung Hlaing Arrives in India
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+
+- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
+  Heavy Rain, Thunderstorm Hits Part Of
   🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
 
 - 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
   60% chance of deficient monsoon as IMD down
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
-
-- India news: Below-average monsoon outlook raises concerns - DW.com
-  India news: Below-
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFJQdGFXNm5jZ0hvUGRfZTAwNTFZc1VmMEpNd1NZOVlkdkw3WWcwTHpNOFg3LXlQTGRYUWJ6S2h3ejlYVWdDSVpwN0Fsd2F6U3dqWHpVUXhVbG1QSHg1bjlMWXVQNkhVVVN5TW44NTBnZGVzcmo0SUxXaGhlWjgwY3pueWc1SDBMWFg1Y0RhdDFkVERycDVV?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -168,17 +148,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Weather Today LIVE: Temperatures Dip In Many States, Weather Body Flags Below-Normal Monsoon - NDTV
-  Weather Today LIVE: Temperatures Dip In Many States.
+- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
+  Myanmar President U Min Aung Hlaing Arrives in India
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+
+- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
+  Heavy Rain, Thunderstorm Hits Part Of
   🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
 
 - 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
   60% chance of deficient monsoon as IMD down
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
-
-- India news: Below-average monsoon outlook raises concerns - DW.com
-  India news: Below-
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFJQdGFXNm5jZ0hvUGRfZTAwNTFZc1VmMEpNd1NZOVlkdkw3WWcwTHpNOFg3LXlQTGRYUWJ6S2h3ejlYVWdDSVpwN0Fsd2F6U3dqWHpVUXhVbG1QSHg1bjlMWXVQNkhVVVN5TW44NTBnZGVzcmo0SUxXaGhlWjgwY3pueWc1SDBMWFg1Y0RhdDFkVERycDVV?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -188,17 +168,37 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Weather Today LIVE: Temperatures Dip In Many States, Weather Body Flags Below-Normal Monsoon - NDTV
-  Weather Today LIVE: Temperatures Dip In Many States.
+- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
+  Myanmar President U Min Aung Hlaing Arrives in India
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+
+- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
+  Heavy Rain, Thunderstorm Hits Part Of
   🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
 
 - 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
   60% chance of deficient monsoon as IMD down
   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
 
-- India news: Below-average monsoon outlook raises concerns - DW.com
-  India news: Below-
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFJQdGFXNm5jZ0hvUGRfZTAwNTFZc1VmMEpNd1NZOVlkdkw3WWcwTHpNOFg3LXlQTGRYUWJ6S2h3ejlYVWdDSVpwN0Fsd2F6U3dqWHpVUXhVbG1QSHg1bjlMWXVQNkhVVVN5TW44NTBnZGVzcmo0SUxXaGhlWjgwY3pueWc1SDBMWFg1Y0RhdDFkVERycDVV?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+
+- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
+  Myanmar President U Min Aung Hlaing Arrives in India
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+
+- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
+  Heavy Rain, Thunderstorm Hits Part Of
+  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
+
+- 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
+  60% chance of deficient monsoon as IMD down
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-30 08:26:16 UTC_
+_Last updated: 2026-05-30 13:20:44 UTC_
