@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Kerala school principal suspended days before retirement over ‘defamatory’ CM post on Facebook
+- ‘Interest of society may outweigh personal liberty’: Why accused in Zubeen Garg case was refused bail
   
-  🔗 https://indianexpress.com/article/india/kerala-school-principal-javad-suspended-chief-minister-satheesan-social-media-10714798/
+  🔗 https://indianexpress.com/article/india/interest-of-society-may-outweigh-personal-liberty-why-accused-in-zubeen-garg-case-was-refused-bail-10714879/
 
-- ‘Opposition to three-language policy largely rooted in a subverted mindset’: ABVP endorses CBSE’s decision
+- ‘Hold polls outside peak season’: Tourism industry writes to Goa CM Pramod Sawant
   
-  🔗 https://indianexpress.com/article/india/abvp-cbse-three-language-formula-class-9-foreign-languages-virendra-singh-solanki-10714811/
+  🔗 https://indianexpress.com/article/india/hold-polls-outside-peak-season-tourism-industry-writes-to-goa-cm-pramod-sawant-10714996/
 
-- Buzz around new Karnataka Cabinet as Siddaramiah, son meet Rahul
+- Woman cop suspended for ‘custodial torture’ in Odisha faced action earlier too
   
-  🔗 https://indianexpress.com/article/india/buzz-around-new-karnataka-cabinet-as-siddaramiah-son-meet-rahul-10714720/
+  🔗 https://indianexpress.com/article/india/woman-cop-suspended-for-custodial-torture-in-odisha-faced-action-earlier-too-10714956/
 
-- India a trusted partner, only 1% of trade deal talks left: Sergio Gor
+- Tourist in rented Thar hits scooter in Goa, killing local resident, police say
   
-  🔗 https://indianexpress.com/article/india/us-india-trade-deal-final-negotiations-sergio-gor-marco-rubio-10714677/
+  🔗 https://indianexpress.com/article/india/tourist-in-rented-thar-hits-scooter-in-goa-killing-local-resident-police-say-10714988/
 
-- Manipur highway ambush: Driver from Bengal killed, cop injured in attack on goods truck convoy
+- In signal to contractors, Railway tells Faridabad station developer can’t reduce project scope
   
-  🔗 https://indianexpress.com/article/india/manipur-highway-ambush-driver-from-bengal-killed-cop-injured-in-attack-on-goods-truck-convoy-10714670/
+  🔗 https://indianexpress.com/article/india/in-signal-to-contractors-railway-tells-faridabad-station-developer-cant-reduce-project-scope-10714932/
 
 - India emerges as a key Codex market with 27x user growth: OpenAI
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/social/from-air-india-to-qatar-airways-top-airlines-with-free-wi-fi-service-10714248/
 
-- Codelco Chair Signals Shift Toward Copper Profit Over Growth
-  Chilean state-owned Codelco's new chairman signaled a shift toward profitability
-  🔗 https://www.livemint.com/companies/codelco-chair-signals-shift-toward-copper-profit-over-growth-11780079870828.html
+- Peter Thiel not the only billionaire: Buenos Aires to Auckland, ultra-rich are buying their way out of America
+  A record number of ultra-wealthy individuals are building Plan B lives abroad. Peter Thiel moved to Buenos
+  🔗 https://www.livemint.com/companies/people/peter-thiel-not-the-only-billionaire-from-buenos-aires-to-auckland-ultra-wealthy-are-buying-their-way-out-of-america-11780101909235.html
 
-- Rupee rout grounds IndiGo, airline slips to FY26 loss
-  IndiGo swung to a  ₹2,393.6 crore loss in FY26, its first since FY23. Weak demand, falling load factors,
-  🔗 https://www.livemint.com/companies/company-results/rupee-rout-grounds-indigo-airline-slips-to-fy26-loss-11780063140629.html
+- Audit, consulting firm employees find access to Cockroach Janta Party site blocked on intranets
+  Employees at top audit and consulting firms find sites of Cockroach Janta Party blocked on their intranets. The block is at the level of the company networks, not by ISPs.
+  🔗 https://www.livemint.com/companies/news/india-audit-consulting-firms-kpmg-pwc-deloitte-employees-cockroach-janta-party-access-blocked-networks-11779955393083.html
 
-- Asian Paints flags West Asia war as demand risk despite strong FY26 earnings
-  Asian Paints posted revenue and profit ahead of Street estimates in FY26. West Asia war, sticky input costs, and intense competition cloud the near-
-  🔗 https://www.livemint.com/companies/company-results/asian-paints-flags-west-asia-war-as-demand-risk-despite-strong-fy26-earnings-11780064095519.html
+- Google built the answer to your AI bill before you knew you had a problem
+  Google's Gemini 3.5 Flash rivals frontier AI models at a fraction of the cost. Companies burn through annual
+  🔗 https://www.livemint.com/companies/news/google-built-the-answer-to-your-ai-bill-before-you-knew-you-had-a-problem-11780099283342.html
 
-- Sebi slaps  ₹29 crore penalties on Suzlon Energy, former executives for financial misrepresentation
-  Sebi says Suzlon structured transactions between its subsidiaries in a manner that artificially inflated profits, net worth and investor
-  🔗 https://www.livemint.com/companies/news/sebi-suzlon-energy-financial-misrepresentation-girish-tanti-11780063171633.html
+- How a debt transaction helped lift profit at Reliance Retail in 2025-26
+  The parent Reliance Retail Ventures Ltd (RRVL) converted  ₹40,000 crore worth of interest-bearing intercorporate
+  🔗 https://www.livemint.com/companies/how-a-debt-transaction-helped-lift-profit-at-reliance-retail-in-202526-11780055087797.html
 
-- AvenuesAI plans minority investment in scaled new-age NBFC Ratnaafin Capital to drive AI-led embedded lending
-  AvenuesAI Limited is planning a minority investment of up to 2.5% in Ratnaafin Capital, a scaled
-  🔗 https://www.livemint.com/companies/news/avenuesai-plans-minority-investment-in-scaled-new-age-nbfc-ratnaafin-capital-to-drive-ai-led-embedded-lending-11780056046369.html
+- Amazon tells staff to stop using AI just to use AI after shutting down its token leaderboard
+  Amazon shut down KiroRank, its internal AI token leaderboard, after executives
+  🔗 https://www.livemint.com/companies/news/amazon-tells-staff-to-stop-using-ai-just-to-use-ai-after-shutting-down-its-token-leaderboard-11780098151409.html
+
+- What does the future hold for Cyient’s stock?
+  Cyient stock has been plagued by revenue growth challenges and margin pressures at the
+  🔗 https://www.livemint.com/market/stock-market-news/cyient-share-price-indian-defence-stocks-cyient-stock-price-outlook-11780052822751.html
+
+- Space Rally Gets Reality Check With Blue Origin Blowup
+  A Blue Origin rocket exploded on Friday, killing all three of its crew members. The explosion is a reminder of the risks that come with the potential riches investors hope to reap.
+  🔗 https://www.livemint.com/market/space-rally-gets-reality-check-with-blue-origin-blowup-11780099282942.html
+
+- Pulse of the Street: Falling crude emerges as lone silver lining for bruised equities
+   Markets ended lower this week as geopolitical uncertainty, monsoon concerns and MSCI-driven flows triggered volatility. However, a sharp fall in
+  🔗 https://www.livemint.com/market/stock-market-news/pulse-of-the-street-falling-crude-emerges-as-lone-silver-lining-for-bruised-equities-11780062760430.html
+
+- Citadel Securities Loses Court Fight Over New IEX Options Venue
+  Citadel Securities lost its bid to block IEX Group Inc. from launching a new type of options exchange that intentionally slows orders. A federal
+  🔗 https://www.livemint.com/market/citadel-securities-loses-court-fight-over-new-iex-options-venue-11780092846337.html
 
 - Oil Sinks to 6-Week Low as Traders Bet on Possible US-Iran Truce
   The US and Iran tentatively agreed to extend a ceasefire, stoking optimism that the Strait of Hormuz
   🔗 https://www.livemint.com/market/oil-sinks-to-6-week-low-as-traders-bet-on-possible-us-iran-truce-11780083683241.html
 
-- Key US Medium Sour Crude Weakens as Exports Ease From Records
-  Prices for a key US medium sour crude grade are weakening.
-  🔗 https://www.livemint.com/market/key-us-medium-sour-crude-weakens-as-exports-ease-from-records-11780083068863.html
-
-- Wall Street follows world stocks higher, crude prices ease on potential US-Iran truce extension
-  Wall Street follows world stocks higher, crude prices ease on potential US-
-  🔗 https://www.livemint.com/market/wall-street-follows-world-stocks-higher-crude-prices-ease-on-potential-us-iran-truce-extension-11780081777887.html
-
-- Raw sugar bounces back from four-week lows; coffee down
-  Raw sugar bounces back from four
-  🔗 https://www.livemint.com/market/raw-sugar-bounces-back-from-four-week-lows-coffee-down-11780081594836.html
-
-- Wall Street extends rally on tech strength; Middle East deal stays in focus
-  Wall Street extends rally on tech strength; Middle East deal
-  🔗 https://www.livemint.com/market/wall-street-extends-rally-on-tech-strength-middle-east-deal-stays-in-focus-11780079932916.html
+- Tired of checking your phone constantly? These smartwatches handle calls and fitness better
+  Modern smartwatches combine Bluetooth calling, heart rate tracking, SpO2 monitoring and long battery life.
+  🔗 https://www.livemint.com/technology/gadgets/tired-of-checking-your-phone-constantly-these-smartwatches-handle-calls-and-fitness-better-11780031696545.html
 
 - Huawei bets on speed over shrinking transistors to sidestep US chip sanctions
   Huawei bets on speed over shrinking transistors
@@ -96,117 +100,165 @@
   YouTube has introduced a new ‘custom feeds’ feature that allows users
   🔗 https://www.livemint.com/technology/tech-news/how-to-use-youtube-s-new-ai-update-to-take-total-control-of-your-video-recommendations-11779938242295.html
 
-- One Tech Tip: Your next job interview could be with an AI bot
-  One Tech Tip: Your next job interview
-  🔗 https://www.livemint.com/technology/one-tech-tip-your-next-job-interview-could-be-with-an-ai-bot-11779940983460.html
+- Why did stock market crash in the final hours of trade today? Sensex, Nifty50 plunge - check top reasons - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxOaGJhY0ZOeFBrblFQUkhBcWxxZUJlMTZVSm9VS2ZQeWlQVFZVRk96bk5FZ2pscUhmYWVUdkFwckViUllzTWtYbnk2RFNpOU9Ka0xVMV9wcUh1dHlzX0J5LUUxOF9pNHFoOE
+  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOaGJhY0ZOeFBrblFQUkhBcWxxZUJlMTZVSm9VS2ZQeWlQVFZVRk96bk5FZ2pscUhmYWVUdkFwckViUllzTWtYbnk2RFNpOU9Ka0xVMV9wcUh1dHlzX0J5LUUxOF9pNHFoOENtSVo1YXpjSjdueFBNXzFCLTEtZ190b19iQi03cktXcjZTVjNJMUJuYS1UcWNkelVlaDBwdGwta2Y0TlJYa3h0aGM5ZFZ5N015S0JtN2RLUlZ2QWlSTURwN3hGMXVFOUlfQ2ZObjdhXzhHMzNwcjdjMElyVXk4Skw1RnNWVkgtWTUtQ2x3bmtKOVpxa2NkV1VqZVhOSWJZQkx2dnFBbWlheGhDbjhuU0pDSF_SAZoCQVVfeXFMTkUwZm14UThmbmk4ZkVnUWpnekhwelcyTUFPaExwSkFwLUtsYXpYZWFQbVplaDczaklERnM1bmZ1V0VPbk1vb1pvNmk5c192enZiN1dMZ3lXMXBSTi1WRFpIOGItcElqMlVKRVgyaDdBamhoZmJubVp5S2xEVGlaVVBudmtQUmJtV1NaZnpSMDFXWF9EQURKWHdMaDU1SFNjNTA0RHFzRW5tWHp6NUdpTHlnZl9icXppQnhldF9WWkF2OGdidDU5YVk0UTVuYkdMelQtclRyRTNxaGlyLVhMVkFXOG5DeFo4aEJVZXp1eWEtdm9JZXcwVjhlT0tvZmpJSW45NzJOcUZPbkhaZVc5bXlfUnJaVXVEOVNn?oc=5
 
-- Fed officials mull raising rates to curb growing inflation risk
-  Federal Reserve officials signalled potential rate hikes if Middle East tensions drive a prolonged energy shock and keep inflation elevated. Policymakers, including Michelle Bowman, warned inflation risks remain high above target.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-mull-raising-rates-to-curb-growing-inflation-risk/articleshow/131396521.cms
+- Markets News, May 29, 2026: Indexes Close at Records as Dell Leads Tech Gains; S&P 500 Rises for 9th Straight Week - Investopedia
+  The S&amp;P 500 Rises for 9th Straight Week.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzZnaFhDMTQ1NC16RmxmajBpaEFCRUhRSGNGSGxyU1UwS2ZQUTVnT2ItN0tiM3hsTDhkOTlHUGlPb0FCY2czMy1LZGd6NnA4YlRDUVlmRWtJRHo1ZG9RQ2RmWU1qaEZRLXFNQUpTdF9vMEtKbVFSUU9MeWNzUEdKRFFwSVF6UDhwZDM5WGs1cTY?oc=5
 
-- Supreme Court provides relief to Reliance in 2007 securities market fraud case
-  The Supreme Court directed SEBI to refund 2.5 billion rupees to Reliance. The case involved a stake sale in Reliance Petroleum Ltd.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/supreme-court-provides-relief-to-reliance-in-2007-securities-market-fraud-case/articleshow/131394997.cms
+- South Korea's Kospi, Japan's Topix hit record highs as investors shrug off Iran tensions - CNBC
+  South Korea's Kospi, Japan's Topix hit
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXNyWkU4QUtBZXdDM09uYk9HNkpybXhreHluWXp5dmIzbG5KaC1DVEhXbFhaTHRnQmNLdzMyay1fMTBwcG5mMGJjUDd2TGVDeHR1Sk1VWS1FQ3V3ZFhrdU5WUFRXRVZLTE1pX0FkMjF2SExSRmI5aE1GWlpkWFhZY3RWYkFROXhicE51aGZFOWdZQ2Y0RnpoZzk4NFVVLVVCMFY2dW81RE1Jc1FUX2hBWHRDTlVtUzZRVUHSAb8BQVVfeXFMTVRPZmE0SnlkYTU0T3NIbHhQM2E3dUFJeGp3dVJsSENFS2tNN2ZxYnNkd0R2dVJ1aWpBRHRMR25zZk91a2kwMmFKQmhtOVVscFdnMjFQT2dZMlF1VmZvWXF6bHVzZF81VEVyU2tqMjRSakxOQWctYUJyOUt3aXBSVDZCYVI1UEZtTjJaNzRVWFNOYkZXMXhKUzJNc3UtR3JoT3BLcnduZWtkTnRnVnF1R1BtdjNBSk1pNC1wQkRWeTQ?oc=5
 
-- EU's six biggest economies agree on capital markets supervision
-  The goal is to redirect citizens' savings into productive investments. This will boost Europe's global competitiveness against the United States and China.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/eus-six-biggest-economies-agree-on-capital-markets-supervision/articleshow/131394853.cms
+- S&P 500 Powers Historic Weekly Run on US-Iran Bets: Markets Wrap - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3R1U0FoSWY2aUpubVNqdlJBTURUYklRMnpWWlB4RGsxd0tvRTVXbTdKR0NCdW9BMkxicmxuNjdfUWhrNEV4YnM0UDlSS1NRUV9ZT0NSSjZUbGZNVkNEWUlvVVU5dmxQX2dNbXNEeWxjcWZMTUdUZUNua3FKTTZDZ014dEJPaGlTSm9XNjRWekx6WnJBaHBTTk5lUWNiRkFoc04wTHVlTjlNaW9jREloV1g3VQ?oc=5
 
-- Wall St regulator proposes to scrap Biden-era climate rule
-  The U.S. Securities and Exchange Commission is proposing to remove rules requiring companies to disclose climate-related risks and spending. These regulations, adopted in 2024, faced legal challenges.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-regulator-proposes-to-scrap-biden-era-climate-rule/articleshow/131394831.cms
+- Mapping the Market: Gold approaches potential crossroads - Reuters
+  "Mapping the Market
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDFDS05hZXp4MU9kclphaVU0eXc1OElWc01UNlU2bERlejdGOEFmS2tOUmIyYlhVeTRQRmpEZHRKTnlFeHJxN0NpVkFsR0s4ekp0dDBxS1hFUk4zYXp2RWtsRGhyc1Y2eTg0b1RPYm9iM3NZODU1TUVzTnZPQVdkbFhUQWhXSnpu?oc=5
 
-- PB Fintech sees Rs 665 crore block deal as founders pare stake; Goldman among other top funds buy
-   PB Fintech founders Yashish Dahiya and Alok Bansal sold 38 lakh shares worth Rs 665 crore in a block deal. The shares were purchased by various
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-sees-rs-665-crore-block-deal-as-founders-pare-stake-goldman-among-other-top-funds-buy/articleshow/131394439.cms
+- US-led AI investments risk capital destruction:  Chris Wood
+  Jefferies' Chris Wood warns of significant capital destruction in the current AI investment cycle. US tech giants, investing heavily in AI capex, are most likely to bear the brunt of this potential destruction.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-led-ai-investments-risk-capital-destruction-chris-wood/articleshow/131402747.cms
 
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+- IIFCL PAT falls 13% on forex volatility in FY26
+  IIFCL witnessed a 13.3% decline in its profit after tax, falling to ₹1,379 crore in FY26. This downturn was attributed to significant
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/iifcl-pat-falls-13-on-forex-volatility-in-fy26/articleshow/131402660.cms
 
-- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
-  "We Face Delegitimisation In
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
+- CSR norm tweak to boost social stock exchanges
+  Companies can now allocate up to 10% of their annual CSR spending via zero coupon zero principal instruments from not-for-profit organizations. This move aims to boost social stock exchanges by attracting more investors and encouraging companies
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/csr-norm-tweak-to-boost-social-stock-exchanges/articleshow/131402632.cms
 
-- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
-  US Sees India As A 'New Centre Of Power
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
+- MSCI index rejig, US-Iran deal worries spook Dalal Street
+  Indian stock markets experienced a significant drop on Friday, with major indices closing lower. This decline was largely driven by outflows related to MSCI index rebalancing. Foreign investors were net sellers, while domestic institutions provided some support.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/msci-index-rejig-us-iran-deal-worries-spook-dalal-street/articleshow/131402595.cms
 
-- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
-  India 'Commits' To Buying $500 Billion
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
-
-- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
-  India-US trade deal 99% done, signing expected in weeks,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
+- RBI warns West Asia war may hurt India growth outlook
+  The central bank said the impact of the conflict is likely to remain contained in the near term. It warned that an escalation could
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rbi-warns-west-asia-war-may-hurt-india-growth-outlook/articleshow/131402558.cms
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
-  "We Face Delegitimisation In
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+
+- Underage marriages down, so are cases of spousal violence - The Times of India
+  Underage marriages down, so are cases of sp
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9sMG03b0drVzBnWWxUV1hZSW51eUdxa21NNFBZS3hwSDUtMGlhb0FzaVFBQ2lMdHNWVHZYOEoyMVVUeFdQUWdDcHl2N2xtaW1teENNRUhuaGE2Z28xVmpyZXlNcE10M3FKbGdJOTZqYlViSHRMQWpDY0JkN3IyLXpKYmZzclZxVWJTcVQtWVd0NnBRdkUtM3BlZWplODVVZk4zd3M0ZkxkUDByYWN5V19xMjRRd2ZvaVBqRHJDUE96Z9IBxwFBVV95cUxPc1pnX0JENllXVVlObmpQNG5rYjVBSlE2VXp0RWR2SDltek8weFhKZjFBeDV2UEI4eVM5RTd2SVQ2eEFqaVRRRUN5bDVfQ1RITDJpaU9rWEVVTkRnX3oxblhDQUNsUGZiVFk2YWR1RFVYamNOcGZYQTBwM2V1dzZTWFo3ek4taC1FdkdNWWsyUmczSTQ3cnNVeFl4WkN5clNTV1JlVmtyX3Q0Yzg4RzFaWDg2bmF3a01JR25rV1Z0SWJwMy16STlN?oc=5
 
 - US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
   US Sees India As A 'New Centre Of Power
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
-  India 'Commits' To Buying $500 Billion
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
-
-- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
-  India-US trade deal 99% done, signing expected in weeks,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
+- "Trade Priority, Expect More Meetings": US On India Deal - NDTV
+  "Trade Priority, Expect More Meet
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGdhZm92RXdFMHJsb251TXdTN0pLRVJkNW1YdTZfbnpTZFlJSXMwVElxSW9zWHlUT2xfLXFoc2ljalhhcWpMeUdjT3ZVeGJVMjBYekI1SEx2LVMweWhoVFAwS0sxb0lia0txM1ZyMWdrU3VZYS10ZktldEhDb21xOWk3Z2xEdmdmVm5taWtyc250bVZEeU9UN9IBoAFBVV95cUxPMXRSazl5aVpJcWFTQ3J6aHJ0TmtwSGVRbG1hV3cxNktYQy1IN2V0TTB1dk5sMl8wX1ItNEgxWXBxdXNXVzBndl8yeVJTVl9SRlU5VTR1ZmZqUHdiUV9La2xOY3hOTkthTlBwSkVhQzVzdXRLUEJBMmZKd2lubHZwemc1OFRfOUVJSzViNkxSUXAyTU9UMXg3WlIzM3NaSVZx?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- "We Face Delegitimisation In World, But Not In India": Benjamin Netanyahu - NDTV
-  "We Face Delegitimisation In
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFpGYVRrclBJajZhNE5BRGNicXlCa3lIaURQc1UzNk1QSl81YXNSc0RKRER1LTRaRThUWlZxaThKNkpMNU1pWlJNY0FyRUlLekdtQVE1UUVpTGwwNlFvX0tiLW41S2dUZ0V4TVdTTnNzenJKUVNNY01STzFpSE0yWUViNDg5c056TkdKblJjbVBzMWRqSkV0cDZoWTdoYk5QcFc0cjlkdnlxLXJSSlA3eE5sYUFLcjhQWVHSAcIBQVVfeXFMT056RDJzcklrUks3VE5Ja1lXQm1uVm1Ec2lRRi0zQV9zM2VyM2xlcmpVUnpsSTFwZXdQWWdadlc4QjlUU1ZHMFphY3dVeEFxSWVUcWhsOHVVcHNEQXpneXVzZl9ZdDBWdVFhWEFwWEgyQjlkbzFwOUVzTzVXbWE0WkZwVnAxTGotZHVJQUQwaG9fWm5RZDMtMlpESmc4UEpPZXhOTE5jX09lSFpDMHJOcUF3dWNSUERnSVF3ZU5QLWJEQmc?oc=5
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+
+- Underage marriages down, so are cases of spousal violence - The Times of India
+  Underage marriages down, so are cases of sp
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9sMG03b0drVzBnWWxUV1hZSW51eUdxa21NNFBZS3hwSDUtMGlhb0FzaVFBQ2lMdHNWVHZYOEoyMVVUeFdQUWdDcHl2N2xtaW1teENNRUhuaGE2Z28xVmpyZXlNcE10M3FKbGdJOTZqYlViSHRMQWpDY0JkN3IyLXpKYmZzclZxVWJTcVQtWVd0NnBRdkUtM3BlZWplODVVZk4zd3M0ZkxkUDByYWN5V19xMjRRd2ZvaVBqRHJDUE96Z9IBxwFBVV95cUxPc1pnX0JENllXVVlObmpQNG5rYjVBSlE2VXp0RWR2SDltek8weFhKZjFBeDV2UEI4eVM5RTd2SVQ2eEFqaVRRRUN5bDVfQ1RITDJpaU9rWEVVTkRnX3oxblhDQUNsUGZiVFk2YWR1RFVYamNOcGZYQTBwM2V1dzZTWFo3ek4taC1FdkdNWWsyUmczSTQ3cnNVeFl4WkN5clNTV1JlVmtyX3Q0Yzg4RzFaWDg2bmF3a01JR25rV1Z0SWJwMy16STlN?oc=5
 
 - US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
   US Sees India As A 'New Centre Of Power
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- India 'Commits' To Buying $500 Billion Worth Of US Goods. What Experts Said - NDTV
-  India 'Commits' To Buying $500 Billion
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjBia2FjYmRhVDN2RGJaZll1R2JMRVFrWW1VdElEam9ndlVEVVBtc0dQSjRkeTgwa3o1OTFVYmRvc1BtdjdLUGQxR2x3TzUybUp5ZUQ2a25wSDBaYlNMcFNXNDd2OVZzRExzb2hkTS1YZE40STVRTjU5bzhMY0RMRDloWjhGQ1NSdGl1N0NweVM3eWg1THFLT3kyZVU5enVIUy1MTktRaUNkaExRVlZrZNIBuAFBVV95cUxPbExEWTdBc1hpTXdYY1UyY1p5R3hWSWxpOEhZR3hualpXUVNfTHlnTmpRMlBEVDhRQ05jQnd6aHhZTjZHRGgzZlVyV2R2Uk5MY3JXN1FlWllSNGNqRXdac0pzbEtMTS1aa1IwZHBxYzFfNTFpUnJXMXc2MGVDRXplbGJqMHhqY195ZmRwMlRyZFpJXzZmVEIyTmV2YkNRV3hTWDBpSzhYc3NjWU5iYjMyQmJKdkl3WlZp?oc=5
+- "Trade Priority, Expect More Meetings": US On India Deal - NDTV
+  "Trade Priority, Expect More Meet
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGdhZm92RXdFMHJsb251TXdTN0pLRVJkNW1YdTZfbnpTZFlJSXMwVElxSW9zWHlUT2xfLXFoc2ljalhhcWpMeUdjT3ZVeGJVMjBYekI1SEx2LVMweWhoVFAwS0sxb0lia0txM1ZyMWdrU3VZYS10ZktldEhDb21xOWk3Z2xEdmdmVm5taWtyc250bVZEeU9UN9IBoAFBVV95cUxPMXRSazl5aVpJcWFTQ3J6aHJ0TmtwSGVRbG1hV3cxNktYQy1IN2V0TTB1dk5sMl8wX1ItNEgxWXBxdXNXVzBndl8yeVJTVl9SRlU5VTR1ZmZqUHdiUV9La2xOY3hOTkthTlBwSkVhQzVzdXRLUEJBMmZKd2lubHZwemc1OFRfOUVJSzViNkxSUXAyTU9UMXg3WlIzM3NaSVZx?oc=5
 
-- India-US trade deal 99% done, signing expected in weeks, predicts Sergio Gor | India News - Hindustan Times
-  India-US trade deal 99% done, signing expected in weeks,
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMW14b3lYZW9FaVU2cmxWSW9XbXpZSG9pcGFDZWs5R29ZUFRVcVJQWE1MMGlaaGhxNllsM09GalYydkZtcVdqQkhWMEYxd1pNNllhMjRxSkVYYmtSNTlSWnVDRlJyVW9SSXN2YmVPRmdaWkZHOHB0X2xYWVdoU21DdDhMVGo5SnZMNVVvUzMyaUN0VFYtT3EtMHEzbUg4NmxERGxpSURiNlZUcTNZNHhvLWhwM0lRbU91YjhmQnFTbVluV2FaZS1VRWlnLThHbGtw0gHWAUFVX3lxTE82TjZ5blNNRVVvS2U3Rk4yZi1kWVEwMDVJNVNXbXBCRWNYRUl3cEowU2sxOG1keVRza2dHZmp1Y2dKQi05Q2xYS2kzdmNQa1N5OFo5QTVCRTNLUUYwc2RESWNqV29hLTlzSVBaNENsT2tsZ2FTMFFOYlFIaG5nQkZaeVVsTDF2TC1SWU4xQ3hreGl0dEtCMFA4SXVrSnRzbW9IMHVwVEN1eE9PSDhHeTI2dWJSWU8wQmY0bVVuTkswVHYtTEcyb2JqdVcyS01GMnZSb3B2S2c?oc=5
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Underage marriages down, so are cases of spousal violence - The Times of India
+  Underage marriages down, so are cases of sp
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9sMG03b0drVzBnWWxUV1hZSW51eUdxa21NNFBZS3hwSDUtMGlhb0FzaVFBQ2lMdHNWVHZYOEoyMVVUeFdQUWdDcHl2N2xtaW1teENNRUhuaGE2Z28xVmpyZXlNcE10M3FKbGdJOTZqYlViSHRMQWpDY0JkN3IyLXpKYmZzclZxVWJTcVQtWVd0NnBRdkUtM3BlZWplODVVZk4zd3M0ZkxkUDByYWN5V19xMjRRd2ZvaVBqRHJDUE96Z9IBxwFBVV95cUxPc1pnX0JENllXVVlObmpQNG5rYjVBSlE2VXp0RWR2SDltek8weFhKZjFBeDV2UEI4eVM5RTd2SVQ2eEFqaVRRRUN5bDVfQ1RITDJpaU9rWEVVTkRnX3oxblhDQUNsUGZiVFk2YWR1RFVYamNOcGZYQTBwM2V1dzZTWFo3ek4taC1FdkdNWWsyUmczSTQ3cnNVeFl4WkN5clNTV1JlVmtyX3Q0Yzg4RzFaWDg2bmF3a01JR25rV1Z0SWJwMy16STlN?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- "Trade Priority, Expect More Meetings": US On India Deal - NDTV
+  "Trade Priority, Expect More Meet
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGdhZm92RXdFMHJsb251TXdTN0pLRVJkNW1YdTZfbnpTZFlJSXMwVElxSW9zWHlUT2xfLXFoc2ljalhhcWpMeUdjT3ZVeGJVMjBYekI1SEx2LVMweWhoVFAwS0sxb0lia0txM1ZyMWdrU3VZYS10ZktldEhDb21xOWk3Z2xEdmdmVm5taWtyc250bVZEeU9UN9IBoAFBVV95cUxPMXRSazl5aVpJcWFTQ3J6aHJ0TmtwSGVRbG1hV3cxNktYQy1IN2V0TTB1dk5sMl8wX1ItNEgxWXBxdXNXVzBndl8yeVJTVl9SRlU5VTR1ZmZqUHdiUV9La2xOY3hOTkthTlBwSkVhQzVzdXRLUEJBMmZKd2lubHZwemc1OFRfOUVJSzViNkxSUXAyTU9UMXg3WlIzM3NaSVZx?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Underage marriages down, so are cases of spousal violence - The Times of India
+  Underage marriages down, so are cases of sp
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9sMG03b0drVzBnWWxUV1hZSW51eUdxa21NNFBZS3hwSDUtMGlhb0FzaVFBQ2lMdHNWVHZYOEoyMVVUeFdQUWdDcHl2N2xtaW1teENNRUhuaGE2Z28xVmpyZXlNcE10M3FKbGdJOTZqYlViSHRMQWpDY0JkN3IyLXpKYmZzclZxVWJTcVQtWVd0NnBRdkUtM3BlZWplODVVZk4zd3M0ZkxkUDByYWN5V19xMjRRd2ZvaVBqRHJDUE96Z9IBxwFBVV95cUxPc1pnX0JENllXVVlObmpQNG5rYjVBSlE2VXp0RWR2SDltek8weFhKZjFBeDV2UEI4eVM5RTd2SVQ2eEFqaVRRRUN5bDVfQ1RITDJpaU9rWEVVTkRnX3oxblhDQUNsUGZiVFk2YWR1RFVYamNOcGZYQTBwM2V1dzZTWFo3ek4taC1FdkdNWWsyUmczSTQ3cnNVeFl4WkN5clNTV1JlVmtyX3Q0Yzg4RzFaWDg2bmF3a01JR25rV1Z0SWJwMy16STlN?oc=5
+
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
+
+- "Trade Priority, Expect More Meetings": US On India Deal - NDTV
+  "Trade Priority, Expect More Meet
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGdhZm92RXdFMHJsb251TXdTN0pLRVJkNW1YdTZfbnpTZFlJSXMwVElxSW9zWHlUT2xfLXFoc2ljalhhcWpMeUdjT3ZVeGJVMjBYekI1SEx2LVMweWhoVFAwS0sxb0lia0txM1ZyMWdrU3VZYS10ZktldEhDb21xOWk3Z2xEdmdmVm5taWtyc250bVZEeU9UN9IBoAFBVV95cUxPMXRSazl5aVpJcWFTQ3J6aHJ0TmtwSGVRbG1hV3cxNktYQy1IN2V0TTB1dk5sMl8wX1ItNEgxWXBxdXNXVzBndl8yeVJTVl9SRlU5VTR1ZmZqUHdiUV9La2xOY3hOTkthTlBwSkVhQzVzdXRLUEJBMmZKd2lubHZwemc1OFRfOUVJSzViNkxSUXAyTU9UMXg3WlIzM3NaSVZx?oc=5
+
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+
+- Underage marriages down, so are cases of spousal violence - The Times of India
+  Underage marriages down, so are cases of sp
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObk9sMG03b0drVzBnWWxUV1hZSW51eUdxa21NNFBZS3hwSDUtMGlhb0FzaVFBQ2lMdHNWVHZYOEoyMVVUeFdQUWdDcHl2N2xtaW1teENNRUhuaGE2Z28xVmpyZXlNcE10M3FKbGdJOTZqYlViSHRMQWpDY0JkN3IyLXpKYmZzclZxVWJTcVQtWVd0NnBRdkUtM3BlZWplODVVZk4zd3M0ZkxkUDByYWN5V19xMjRRd2ZvaVBqRHJDUE96Z9IBxwFBVV95cUxPc1pnX0JENllXVVlObmpQNG5rYjVBSlE2VXp0RWR2SDltek8weFhKZjFBeDV2UEI4eVM5RTd2SVQ2eEFqaVRRRUN5bDVfQ1RITDJpaU9rWEVVTkRnX3oxblhDQUNsUGZiVFk2YWR1RFVYamNOcGZYQTBwM2V1dzZTWFo3ek4taC1FdkdNWWsyUmczSTQ3cnNVeFl4WkN5clNTV1JlVmtyX3Q0Yzg4RzFaWDg2bmF3a01JR25rV1Z0SWJwMy16STlN?oc=5
+
+- US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor - NDTV
+  US Sees India As A 'New Centre Of Power
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVFjQkFlSEtYekZOelR2UTFmZDhZc0JRVEs1MlQzZnRGLUJXSWtNZ19pdG54cTd2emRVYy1QU2FpNzV6RkcxZWNKNnNYX2JJeHlfR2IzMFMzRjZpN19BWGJxcy1oVmhlUDFZSVhOcjRPQkdnNm9UcGxaOUx2Ull6djNBUVE2c3hSSE5EUGNQeTRqSXdMYmNzbldzTkMyUzBDU19iSk1pWdIBrwFBVV95cUxOQWxCdXdPU1hCMWQtcWJzQkZ6aEYybmlsSFUtRzVtVHYtUF9qTUtpeHB4b3J5ek5iVl9GSTlXdTF1RjJ6RExNWDV2bmk1b2dnancyRkJhamMybHpKTzFfci1VUXJzQ2lKNVRkOHVPZVJib2g5eEhBRHFnM2J0RHRmR2x3UnVqTjBvTW5ReHhlUmVHMkt6WE1LWjcxWDR1c3F3Z3N1ZmRDN2YyLW5KU2xR?oc=5
+
+- "Trade Priority, Expect More Meetings": US On India Deal - NDTV
+  "Trade Priority, Expect More Meet
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGdhZm92RXdFMHJsb251TXdTN0pLRVJkNW1YdTZfbnpTZFlJSXMwVElxSW9zWHlUT2xfLXFoc2ljalhhcWpMeUdjT3ZVeGJVMjBYekI1SEx2LVMweWhoVFAwS0sxb0lia0txM1ZyMWdrU3VZYS10ZktldEhDb21xOWk3Z2xEdmdmVm5taWtyc250bVZEeU9UN9IBoAFBVV95cUxPMXRSazl5aVpJcWFTQ3J6aHJ0TmtwSGVRbG1hV3cxNktYQy1IN2V0TTB1dk5sMl8wX1ItNEgxWXBxdXNXVzBndl8yeVJTVl9SRlU5VTR1ZmZqUHdiUV9La2xOY3hOTkthTlBwSkVhQzVzdXRLUEJBMmZKd2lubHZwemc1OFRfOUVJSzViNkxSUXAyTU9UMXg3WlIzM3NaSVZx?oc=5
+
+- Amazon starts selling its AI shopping technology to other retailers - CNBC
+  Amazon starts selling its AI shopping technology to
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5
+
+- Light-powered Nano catalyst offers sustainable, affordable way for producing Path for Manufacturing Medicines and Chemicals - PIB
+  Light-powered Nano catalyst offers sustainable, affordable way for producing Path
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQUFuR1NaaVQxYm14N2oyZWxOWkxMVDdqWDhhWmtua2FuUkE4S3o2R1BST0doTk43dEZIOWtoeWtibmRjWmJ4anhoa0xaU1FQM1FSbHF6Y184WFllU05CN0hTMDJxUURpaEdVRUZ0VlY3Z1JXcFNBWUxR?oc=5
+
+- Marvell Technology’s Revenue Soars, Profit Slims Down - WSJ
+  Marvell Technology’
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWZUZ25LOWd0WHpZRTlKOWtlSzAteUhaeHdWQ3NCa3VKTG9uZEdBZWFLM3YtRUdLTEdINURIeXRmbVVmVjdvN3ZoTHUyMHpDcmF5emp1bVpDZ3Jza1oxUWxEVXZRb1NDMEJxUFdrdmEtcm83bkxoYTZrNllRNXhBTkdvZDh1SGJuOEdiZnFYRzUtVnV1aDJiZg?oc=5
+
+- Cramer’s Stop Trading: Marvell Technology - CNBC
+  Cramer
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUldaa0R3ODF2ajA1SDdvdFhxVTNwWEZya1ZiSVpESzZ6RjhfS01scnlxT2piQV9FY3RHby1qcmFTMFhnUG9vUllUUjVZNXN4bURMTHNZQ21qc0REdm9PQnVRbHpXOFRWNzhCbTRuanFoVGNoTjR5VTdmclFDYjEyZmkxcWZ2V1M0eHJj?oc=5
+
+- NVIDIA vs. Marvell Technology: Which AI Chip Stock Has the Edge? - Zacks Investment Research
+  Zacks: Which AI Chip Stock Has the Edge?
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0hLZW9aRWdoc0czWjNzZ0gyaHIwSElwRHlsdnQ2Uld2aWM5dHN2OUdxSlBVTFlEazhPenh1UDkzOTFPYXlwYmJJU3lVRHk3dS1icFJLaGFrc0V0bkgzTmY5RG1jWC0tNUx0Tlc2RTRYSWpZOFZkaERYdmNnTzAtX0pDVGM2NGkzYTBrNzVhZ1VQa2N2alNJS0V4VVJBMUh2X3IzOA?oc=5
 
 
-_Last updated: 2026-05-29 20:16:18 UTC_
+_Last updated: 2026-05-30 02:41:14 UTC_
