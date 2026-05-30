@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- Thousands of farmers halt trains in Rajasthan as wheat procurement row escalates
+  
+  🔗 https://indianexpress.com/article/india/rajasthan-farmers-protest-wheat-procurement-hanumangarh-rail-blockade-pilibanga-10716173/
+
+- Kerala school principal was suspended 2 days before retirement for ‘insulting’ CM. To his rescue: The CM
+  
+  🔗 https://indianexpress.com/article/india/kerala-cm-vd-satheesan-withdraws-school-principal-javad-suspension-10716104/
+
+- Fair rolls lead to fair polls: CEC Gyanesh Kumar
+  
+  🔗 https://indianexpress.com/article/india/cec-gyanesh-kumar-electoral-rolls-special-intensive-revision-supreme-court-fair-polls-10716082/
+
+- Watch | Massive dust storm engulfs Rajasthan’s Churu, visibility drops to near zero
+  
+  🔗 https://indianexpress.com/article/india/massive-dust-storm-rajasthans-churu-visibility-zero-10715952/
+
 - Monsoon at Kerala’s doorstep but likely to miss June 1 onset
   
   🔗 https://indianexpress.com/article/india/southwest-monsoon-kerala-onset-delay-imd-forecast-rainfall-10715946/
-
-- Brazen murder of Chhattisgarh Congress leader’s son cracked, sand mining rivalry was motive
-  
-  🔗 https://indianexpress.com/article/india/ayush-kashyap-murder-case-sand-mining-rivalry-arrests-chhattisgarh-10715915/
-
-- IRCTC gets FSSAI notice after video showing utensils washed in Mumbai-Ernakulam Duronto Express train toilet went viral
-  
-  🔗 https://indianexpress.com/article/india/irctc-gets-fssai-notice-after-video-showing-utensils-washed-in-mumbai-ernakulam-duronto-express-train-toilet-went-viral-10715745/
-
-- Delhi-NCR residents receive ‘Extremely Severe Alert’ on phones; first such after SACHET launch
-  
-  🔗 https://indianexpress.com/article/india/delhi-ncr-extremely-severe-alert-phones-sachet-launch-10715893/
-
-- 30 lakh migrant workers may miss voter roll revision in Odisha, BJD cautions Election Commission
-  
-  🔗 https://indianexpress.com/article/india/odisha-sir-migrant-voters-bjd-concerns-10715765/
 
 - Influential medieval queen’s skeleton found alongside mummified pregnant woman, stabbed men in Barcelona monastery
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/gaming/call-of-duty-modern-warfare-4-announced-with-korean-war-storyline-10715566/
 
+- Dell shares surge 33% after AI server demand drives blockbuster revenue forecast
+  Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018. The outlook for annual sales that far surpassed expectations on demand for
+  🔗 https://www.livemint.com/companies/news/dell-shares-surge-33-after-ai-server-demand-drives-blockbuster-revenue-forecast-11780161897945.html
+
 - Airbnb leases 46,000 sq ft for GCC in DLF Cyber City Gurugram
   Airbnb will pay a monthly rent of around  ₹61.
   🔗 https://www.livemint.com/companies/news/airbnb-gcc-india-dlf-cyber-city-gurugram-global-capability-centers-11780120469220.html
@@ -56,9 +60,9 @@
   Employees at top audit and consulting firms find sites of Cockroach Janta Party blocked on their intranets. The block is at the level of the company networks, not by ISPs.
   🔗 https://www.livemint.com/companies/news/india-audit-consulting-firms-kpmg-pwc-deloitte-employees-cockroach-janta-party-access-blocked-networks-11779955393083.html
 
-- Google built the answer to your AI bill before you knew you had a problem
-  Google's Gemini 3.5 Flash rivals frontier AI models at a fraction of the cost. Companies burn through annual
-  🔗 https://www.livemint.com/companies/news/google-built-the-answer-to-your-ai-bill-before-you-knew-you-had-a-problem-11780099283342.html
+- Claude-maker Anthropic halves list of unauthorised share trading platforms after investor concerns: Which firms remain?
+  Anthropic has revised its warning on unauthorised secondary-market trading. It has reduced the number of identified platforms from eight to four.
+  🔗 https://www.livemint.com/market/claudemaker-anthropic-halves-list-of-unauthorised-share-trading-platforms-after-investor-concerns-which-firms-remain-11780152356559.html
 
 - NSE extends F&amp;O trading window following new cash market closing auction – Check new timings
   This window allows traders to hedge risk, rebalance portfolios, or close out positions
@@ -76,9 +80,9 @@
   US Federal Reserve faces a complex decision on interest rates. Experts suggest the central bank may prioritise controlling inflation.
   🔗 https://www.livemint.com/market/stock-market-news/us-fed-to-hike-rates-this-year-heres-what-latest-data-on-gdp-inflation-from-us-signal-11780123017477.html
 
-- Dell's stunning rally: From Trump endorsement to Q1 results - What led to a 101% surge in the US tech stock in 1 month
-  Dell Technologies reported a remarkable 88% revenue growth in Q1. The company raised its annual revenue outlook, reflecting robust demand for both AI and traditional computing products.
-  🔗 https://www.livemint.com/market/stock-market-news/dell-share-stunning-rally-from-trump-endorsement-to-q1-results-what-led-to-101-surge-in-the-us-tech-stock-in-1-month-11780119392137.html
+- AI chipmaker Nvidia set to enter PC market with first Windows computer in collaboration with Microsoft: Details
+   AI chipmaker Nvidia is set to make its official entry into the PC market. The launch is expected next week and could bolster Microsoft's AI PC ambitions.
+  🔗 https://www.livemint.com/technology/tech-news/ai-chipmaker-nvidia-set-to-enter-pc-market-with-first-windows-computer-in-collaboration-with-microsoft-details-11780154268740.html
 
 - The memory shortage is just beginning. The consumer pain is already here.
   Memory prices for PCs, smartphones, and gaming consoles are spiking
@@ -96,9 +100,25 @@
   Google’s own sovereign cloud offering has also remained limited in terms of its revenue contribution. Sashikumar Sreedharan, managing director of Google Cloud India, admitted that it
   🔗 https://www.livemint.com/technology/google-cloud-gemini-ai-enterprise-cloud-deals-cloud-computing-india-microsoft-amazon-11779961916199.html
 
-- Microsoft Copilot, ChatGPT to Gemini: The AI productivity tools reshaping office work in 2026
-  From Microsoft Copilot and Google Gemini to ChatGPT, Slack AI and Notion AI, workplace software is rapidly becoming AI-native. These tools now draft documents, summar
-  🔗 https://www.livemint.com/technology/microsoft-copilot-chatgpt-to-gemini-the-ai-productivity-tools-reshaping-office-work-in-2026-11779948152966.html
+- NSE extends market closing timing for F&O from August 3 - Moneycontrol.com
+  NSE extends market closing timing for F
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXc1cDZDTmJ3MnE1cjBSRFdhdmJwNzRwVkdoOF9YTGltRmhONFQ5eGFwZ2tKaHZicTFkeGdYczd2Mm8yaHIzZFJhVk5PNW5XSzZXTEV6R1pRMnQ0czI2M0xxUVVheGhYc0tKTlR1X2U4c01MalpaUGZCY2VKYkRCSEdOWjB5cUlqSEI4WTBmcGstNGhJZHVyM3lVWENRbXE5ZnRFZUNUNEEyNGJMYzh5R1FrU0tYbTBpQlVaYtIBwgFBVV95cUxQS3VaeGp5TXhxUjNqWFJuMGNUWHc0MUVjWHpxUm5RMjVnZFZCNm4yTWowbTJoWXlCOUMzd2hPOHhFN0s3NGhjX3RTQThiVHQ3TnV1cWI0Wm0zQWZqNWxVUnNZdFh6RU45LUQ1UUhkeFpvZl9nenY4bzdaNHFVS0hXSE1Ta0tMSl9xQkNBZ0hPM2o3N1hPeXpoZDFIcDlCbmZFR0pFSURhOGR5MWVaazdmQ3gyZS1pNUxOOGdLRXJBcExmUQ?oc=5
+
+- The next wealth boom: Emerging markets to add $12 trillion by 2030 - Euronews.com
+  The next wealth boom: Emerging markets to add $
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHZZQlp2OHNGZ2dhN0ttZ0VrWFhQeGlXWkpJczl2dW4yT0ZWQm05bDVnX0NaSERQTEp6bnk1MzRuMXRzRGx1dW9lTzd4NHh2OUdRLXNDay16dVh6VDJDck9OS3l5WmhxbUVFUEdWNGw0YTlpQmEySnhKVUFzMFhFN2RFdHR2U0NDM0I1bE0wS1NGNjdpUkNaLUlmQmM5VVduTnJLYmN2bzhlOEtpMWc?oc=5
+
+- India's top court provides relief to Reliance in 2007 securities market fraud case - Reuters
+  India's top court provides relief to Reliance in 2007
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONGpZdmtPLXBDcXFDUFd2YnNLQndyMGYwUVYtOEVWMUVoNVdvNmJqcHh4eVZ2N0dRdTQteG91eExobWo1ak5XeXlXaW9Mc3V6RzNrLUplMV81R05HMjk5aTRlVXkzUkJYYXk1TndpREUwdU5aeHNKVUJCNy1VVUdORjhVSlBZbW9nVFhlQWZETXJSSTMyQmk5aG45SElaY1FpTzNKMlQxRGU4TVo5UnI4amctQkVBOHFXZUVVN3hJYTZabTFvQXRR?oc=5
+
+- South Korea's Kospi, Japan's Topix hit record highs as investors shrug off Iran tensions - CNBC
+  South Korea's Kospi, Japan's Topix hit
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXNyWkU4QUtBZXdDM09uYk9HNkpybXhreHluWXp5dmIzbG5KaC1DVEhXbFhaTHRnQmNLdzMyay1fMTBwcG5mMGJjUDd2TGVDeHR1Sk1VWS1FQ3V3ZFhrdU5WUFRXRVZLTE1pX0FkMjF2SExSRmI5aE1GWlpkWFhZY3RWYkFROXhicE51aGZFOWdZQ2Y0RnpoZzk4NFVVLVVCMFY2dW81RE1Jc1FUX2hBWHRDTlVtUzZRVUHSAb8BQVVfeXFMTVRPZmE0SnlkYTU0T3NIbHhQM2E3dUFJeGp3dVJsSENFS2tNN2ZxYnNkd0R2dVJ1aWpBRHRMR25zZk91a2kwMmFKQmhtOVVscFdnMjFQT2dZMlF1VmZvWXF6bHVzZF81VEVyU2tqMjRSakxOQWctYUJyOUt3aXBSVDZCYVI1UEZtTjJaNzRVWFNOYkZXMXhKUzJNc3UtR3JoT3BLcnduZWtkTnRnVnF1R1BtdjNBSk1pNC1wQkRWeTQ?oc=5
+
+- Markets News, May 29, 2026: Indexes Close at Records as Dell Leads Tech Gains; S&P 500 Rises for 9th Straight Week - Investopedia
+  The S&amp;P 500 Rises for 9th Straight Week.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzZnaFhDMTQ1NC16RmxmajBpaEFCRUhRSGNGSGxyU1UwS2ZQUTVnT2ItN0tiM3hsTDhkOTlHUGlPb0FCY2czMy1LZGd6NnA4YlRDUVlmRWtJRHo1ZG9RQ2RmWU1qaEZRLXFNQUpTdF9vMEtKbVFSUU9MeWNzUEdKRFFwSVF6UDhwZDM5WGs1cTY?oc=5
 
 - Jupiter Wagons Q4 Results: Cons PAT tumbles 72% to Rs 29 crore, revenue falls 25% YoY
   Jupiter Wagons saw its net profit drop 72% to Rs 29 crore in the March quarter. The company's EBITDA declined 46%. For the full year, profit after tax decreased 56%.
@@ -128,37 +148,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
-  Myanmar President U Min Aung Hlaing Arrives in India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+- Old mortar shell found in Poonch, defused safely - The Times of India
+  Old mortar shell found in Poonch,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
 
-- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
-  Heavy Rain, Thunderstorm Hits Part Of
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
+- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
+  Myanmar President begins his five-day India visit with payers.
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
 
-- 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
-  60% chance of deficient monsoon as IMD down
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
-
-- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
-  Myanmar President U Min Aung Hlaing Arrives in India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
-
-- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
-  Heavy Rain, Thunderstorm Hits Part Of
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
-
-- 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
-  60% chance of deficient monsoon as IMD down
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -168,17 +168,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
-  Myanmar President U Min Aung Hlaing Arrives in India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+- Old mortar shell found in Poonch, defused safely - The Times of India
+  Old mortar shell found in Poonch,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
 
-- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
-  Heavy Rain, Thunderstorm Hits Part Of
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
+- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
+  Myanmar President begins his five-day India visit with payers.
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
 
-- 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
-  60% chance of deficient monsoon as IMD down
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -188,17 +188,37 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Myanmar President U Min Aung Hlaing Arrives in India on Five | Akashvani News - News On AIR
-  Myanmar President U Min Aung Hlaing Arrives in India
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lHcjVQdVBPV29iVV9ZT05BQkFoLXdhYUd4R0tSNC1VRWR3VWJVYlRqUDBMWS1UeVpwQkZfbDhHanlETnpEbFJRa0ZlUXBmTEJ1Ym11TFE1RzhBMklJUWVzUFRlTklsdEp5YlpFYWZoRzF2NndUTmsxbE1keGduMHBEU2E4dElDTlBEQ1RCVUNZTzM0SE9wVnN2TFA?oc=5
+- Old mortar shell found in Poonch, defused safely - The Times of India
+  Old mortar shell found in Poonch,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
 
-- Weather Today LIVE: Heavy Rain, Thunderstorm Hits Part Of Delhi - NDTV
-  Heavy Rain, Thunderstorm Hits Part Of
-  🔗 https://news.google.com/rss/articles/CBMimwJBVV95cUxOTW5EYlNNQzYyUm1HUjlDNFNDN0hZY0o2cnloc19YajdZY3BkbUpmTXVaamRPZXdEcGtsZlFZN2Y4aWU5TmZraWpVY21XZHdmY3dCemJzaF9EYmF2RFdWTENnV0s2S1lDT1plWXdtN0NCMGc2TDBWUzZsZWR0bm93YUZiTU4tWUJDekdHLWUtcC1lcHJoM0NBcXhYM1hYcEpadjc2RmlWU1ZjNW00THNTQy0xMFFOMjhmTF91dTcwTy1PXzNNV2dVLVZMNThJcGhpU093UWhkSkpPbHAycVdLRkJsVGFMWU5GdnBrY0tkd2N5azZjSXVQQzBHdThzY29ZMkcxc1NYOWJoMEdTMWUzX2R3LVJJUnNwZ21N0gGjAkFVX3lxTE5WUEtJQXRuemlwNzFkSEctaEo5NFUzdnNmdnROajRicXJaU0x5RkQ3eHhKY2dkOW4tRERCWEF2aHFWbllEa2RTVl9VdTVlajBGLVNCajVkV3JDVnJNbTJhLVpJanJmUWp3ajlRSWpjZTM3V00wYUR4WHQ4UTNwdGpnMjRPM1h3Z2ZuUUxvSmE5NWNFMm1XbENuQThoalBXZEFSNE5ZbHVMZTFLVVJfODVVNGI2czBEVlBSaTU1MEM0ekEwbW5OT1FIVXFxbDJVREljRW1qZFY0X0NfSDNnVUx3eUF5YjJLVkt3YXl3SWJDM3NVVHFOYU8xSlN0ejktUTdhZ1RyOVh1aTR6UW1zM0xrVEN5bEpvdk10dkUxZ213YW9Lcw?oc=5
+- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
+  Myanmar President begins his five-day India visit with payers.
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
 
-- 60% chance of deficient monsoon as IMD downgrades rain forecast - The Times of India
-  60% chance of deficient monsoon as IMD down
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOclE1dWpCMHFCdldMRWI4NFUySS1WcExiZzdwaW9YQVlxTldscm9iWkJYXzh2c0xDWFpKazNMUzIxNlZ1UzFxY190Rm1SUm5MSUNNT1NfZFQ1X0JYMG9LQm1KMnJiWVlCLU1RWHdYSnhQaU1KR3Y1SzdYRmozNFZaejcxUzJodExybjcwb2Y4LVZYOEhleUJ3RGcwdVlIU1hSdFB6WTBwNk1qMGRlZUFTQVRLcjJrT2ZuTTVpVjVhUHFzZTN4VU5mOHR30gHPAUFVX3lxTFBYenVTcGtEaGwzX0VLT0VqNDhHSnpnSWZIRFJoNjdWZUpoN3BoY1k2RkFPNkgwUUZxMWN4elhtZFMySHRuQjBoNWlOVVhXZVY5NTlRd2c0SVFmbkhHS2M1dlhWa2Vja1E0SjlVNkM3cDNldjJRa2xFSFdxTS1sbXpsdDRHOXdONnc3MXdBUmxJSENBclNIR0hoWWM0UmlIUTdDNmM0TktuaFlWRkYybEdDdzNSMlBNb1ViUzlSWlVtT0RpMmRKZEhkLS1QQ0w4aw?oc=5
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+
+- Old mortar shell found in Poonch, defused safely - The Times of India
+  Old mortar shell found in Poonch,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
+
+- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
+  Myanmar President begins his five-day India visit with payers.
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
+
+- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
+  Mother-in-law of Indian bride whose
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-30 13:20:44 UTC_
+_Last updated: 2026-05-30 19:09:52 UTC_
