@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Thousands of farmers halt trains in Rajasthan as wheat procurement row escalates
+- Hunt for militants enters Day 8 in Rajouri-Poonch forests, drones and helicopters deployed
   
-  🔗 https://indianexpress.com/article/india/rajasthan-farmers-protest-wheat-procurement-hanumangarh-rail-blockade-pilibanga-10716173/
+  🔗 https://indianexpress.com/article/india/hunt-for-militants-enters-day-8-in-rajouri-poonch-forests-drones-and-helicopters-deployed-10716205/
 
-- Kerala school principal was suspended 2 days before retirement for ‘insulting’ CM. To his rescue: The CM
+- Jammu and Kashmir Hajj pilgrims threaten boycott of return flights over ‘discriminatory’ baggage curbs
   
-  🔗 https://indianexpress.com/article/india/kerala-cm-vd-satheesan-withdraws-school-principal-javad-suspension-10716104/
+  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-hajj-pilgrims-threaten-boycott-of-return-flights-over-discriminatory-baggage-curbs-10716202/
 
-- Fair rolls lead to fair polls: CEC Gyanesh Kumar
+- Army Chief: Armed forces preparing well for Operation Sindoor 2.0 if it takes place
   
-  🔗 https://indianexpress.com/article/india/cec-gyanesh-kumar-electoral-rolls-special-intensive-revision-supreme-court-fair-polls-10716082/
+  🔗 https://indianexpress.com/article/india/army-chief-armed-forces-preparing-well-for-operation-sindoor-2-0-if-it-takes-place-10716328/
 
-- Watch | Massive dust storm engulfs Rajasthan’s Churu, visibility drops to near zero
+- ‘India has signed deal with Vietnam for supply of BrahMos’: Defence Secretary Rajesh Kumar Singh
   
-  🔗 https://indianexpress.com/article/india/massive-dust-storm-rajasthans-churu-visibility-zero-10715952/
+  🔗 https://indianexpress.com/article/india/india-has-signed-deal-with-vietnam-for-supply-of-brahmos-defence-secretary-rajesh-kumar-singh-10716288/
 
-- Monsoon at Kerala’s doorstep but likely to miss June 1 onset
+- Our naval might confined Pakistan to its ports: Rajnath Singh
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-kerala-onset-delay-imd-forecast-rainfall-10715946/
+  🔗 https://indianexpress.com/article/india/our-naval-might-confined-pakistan-to-its-ports-rajnath-singh-10716333/
 
 - Influential medieval queen’s skeleton found alongside mummified pregnant woman, stabbed men in Barcelona monastery
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/gaming/call-of-duty-modern-warfare-4-announced-with-korean-war-storyline-10715566/
 
+- Google techie bet $2.7 million on Polymarket with company secrets, won $1.2 million, then FBI caught him
+  Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-sear
+  🔗 https://www.livemint.com/companies/people/google-techie-bet-2-7-million-on-polymarket-with-company-secrets-won-1-2-million-then-fbi-caught-him-11780192078694.html
+
+- SoftBank to Invest Some €75 Billion in AI in France, Reports Say
+  SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build artificial intelligence data
+  🔗 https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html
+
 - Dell shares surge 33% after AI server demand drives blockbuster revenue forecast
   Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018. The outlook for annual sales that far surpassed expectations on demand for
   🔗 https://www.livemint.com/companies/news/dell-shares-surge-33-after-ai-server-demand-drives-blockbuster-revenue-forecast-11780161897945.html
@@ -52,13 +60,13 @@
   Nilekani's comments come on the back of new rollouts by AI
   🔗 https://www.livemint.com/companies/if-coding-becomes-automated-then-why-are-we-needed-at-all-infosys-chairman-nandan-nilekani-answers-11780107973704.html
 
-- Peter Thiel not the only billionaire: Buenos Aires to Auckland, ultra-rich are buying their way out of America
-  A record number of ultra-wealthy individuals are building Plan B lives abroad. Peter Thiel moved to Buenos
-  🔗 https://www.livemint.com/companies/people/peter-thiel-not-the-only-billionaire-from-buenos-aires-to-auckland-ultra-wealthy-are-buying-their-way-out-of-america-11780101909235.html
+- RBI MPC meeting to US-Iran war: Top five triggers that may dictate the Indian stock market this week
+  On Friday, Sensex was down 1,092 points, or 1.44%, at 74,775.74. The Nifty 50 also ended weak, falling 359 points,  to settle at 23,547.75
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11780193371683.html
 
-- Audit, consulting firm employees find access to Cockroach Janta Party site blocked on intranets
-  Employees at top audit and consulting firms find sites of Cockroach Janta Party blocked on their intranets. The block is at the level of the company networks, not by ISPs.
-  🔗 https://www.livemint.com/companies/news/india-audit-consulting-firms-kpmg-pwc-deloitte-employees-cockroach-janta-party-access-blocked-networks-11779955393083.html
+- There will be investing opportunities when the Strait of Hormuz Reopens. Think ETFs.
+  iShares MSCI China ETF and the iShares MICI China A-shares ETF
+  🔗 https://www.livemint.com/market/there-will-be-investing-opportunities-when-the-strait-of-hormuz-reopens-think-etfs-11780192226187.html
 
 - Claude-maker Anthropic halves list of unauthorised share trading platforms after investor concerns: Which firms remain?
   Anthropic has revised its warning on unauthorised secondary-market trading. It has reduced the number of identified platforms from eight to four.
@@ -72,13 +80,9 @@
    Axis MF cautions that aggressive rate hikes won't address INR depreciation and may harm India's growth. They recommend a neutral-to-slightly long duration stance over three months
   🔗 https://www.livemint.com/market/bonds/bond-market-at-a-turning-point-axis-mutual-fund-says-bond-investors-should-buy-not-panic-11780129169138.html
 
-- Small-cap stock to be in focus on Monday; here's why
-  GRM Overseas shares will be in focus after the company reported strong revenue growth but modest profitability for FY26. Despite margin pressure, the stock has shown long-term
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-grm-overseas-share-price-to-be-in-focus-on-monday-after-q4-results-2026-heres-why-11780126910792.html
-
-- US Fed to hike rates this year? Here's what latest data on GDP, inflation from US signal
-  US Federal Reserve faces a complex decision on interest rates. Experts suggest the central bank may prioritise controlling inflation.
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-to-hike-rates-this-year-heres-what-latest-data-on-gdp-inflation-from-us-signal-11780123017477.html
+- Free Mac Mini? Perplexity is sending Apple's desktop to some creators: Here's why
+  Perplexity is gifting Mac Mini computers to select creators to try out its new Personal Computer feature. The move comes amid rising demand for Mac Minis due to the
+  🔗 https://www.livemint.com/technology/tech-news/free-mac-mini-perplexity-is-sending-apples-desktop-to-some-creators-heres-why-11780187877593.html
 
 - AI chipmaker Nvidia set to enter PC market with first Windows computer in collaboration with Microsoft: Details
    AI chipmaker Nvidia is set to make its official entry into the PC market. The launch is expected next week and could bolster Microsoft's AI PC ambitions.
@@ -96,21 +100,17 @@
   Huawei bets on speed over shrinking transistors
   🔗 https://www.livemint.com/technology/huawei-bets-on-speed-over-shrinking-transistors-to-sidestep-us-chip-sanctions-11780026125949.html
 
-- Cloud war intensifies as Google ties enterprise deals to in-house AI
-  Google’s own sovereign cloud offering has also remained limited in terms of its revenue contribution. Sashikumar Sreedharan, managing director of Google Cloud India, admitted that it
-  🔗 https://www.livemint.com/technology/google-cloud-gemini-ai-enterprise-cloud-deals-cloud-computing-india-microsoft-amazon-11779961916199.html
-
 - NSE extends market closing timing for F&O from August 3 - Moneycontrol.com
   NSE extends market closing timing for F
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXc1cDZDTmJ3MnE1cjBSRFdhdmJwNzRwVkdoOF9YTGltRmhONFQ5eGFwZ2tKaHZicTFkeGdYczd2Mm8yaHIzZFJhVk5PNW5XSzZXTEV6R1pRMnQ0czI2M0xxUVVheGhYc0tKTlR1X2U4c01MalpaUGZCY2VKYkRCSEdOWjB5cUlqSEI4WTBmcGstNGhJZHVyM3lVWENRbXE5ZnRFZUNUNEEyNGJMYzh5R1FrU0tYbTBpQlVaYtIBwgFBVV95cUxQS3VaeGp5TXhxUjNqWFJuMGNUWHc0MUVjWHpxUm5RMjVnZFZCNm4yTWowbTJoWXlCOUMzd2hPOHhFN0s3NGhjX3RTQThiVHQ3TnV1cWI0Wm0zQWZqNWxVUnNZdFh6RU45LUQ1UUhkeFpvZl9nenY4bzdaNHFVS0hXSE1Ta0tMSl9xQkNBZ0hPM2o3N1hPeXpoZDFIcDlCbmZFR0pFSURhOGR5MWVaazdmQ3gyZS1pNUxOOGdLRXJBcExmUQ?oc=5
 
-- The next wealth boom: Emerging markets to add $12 trillion by 2030 - Euronews.com
+- The next wealth boom: Emerging markets to add $12 trillion by 2030 - Euronews
   The next wealth boom: Emerging markets to add $
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHZZQlp2OHNGZ2dhN0ttZ0VrWFhQeGlXWkpJczl2dW4yT0ZWQm05bDVnX0NaSERQTEp6bnk1MzRuMXRzRGx1dW9lTzd4NHh2OUdRLXNDay16dVh6VDJDck9OS3l5WmhxbUVFUEdWNGw0YTlpQmEySnhKVUFzMFhFN2RFdHR2U0NDM0I1bE0wS1NGNjdpUkNaLUlmQmM5VVduTnJLYmN2bzhlOEtpMWc?oc=5
 
-- India's top court provides relief to Reliance in 2007 securities market fraud case - Reuters
-  India's top court provides relief to Reliance in 2007
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxONGpZdmtPLXBDcXFDUFd2YnNLQndyMGYwUVYtOEVWMUVoNVdvNmJqcHh4eVZ2N0dRdTQteG91eExobWo1ak5XeXlXaW9Mc3V6RzNrLUplMV81R05HMjk5aTRlVXkzUkJYYXk1TndpREUwdU5aeHNKVUJCNy1VVUdORjhVSlBZbW9nVFhlQWZETXJSSTMyQmk5aG45SElaY1FpTzNKMlQxRGU4TVo5UnI4amctQkVBOHFXZUVVN3hJYTZabTFvQXRR?oc=5
+- Malls, e-commerce hit school accessories market hard - The Hindu
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3V5QmFncHNOLWtHMTJKSGFOaHJnN3llVDF3R1dSUWhBS1pWNXJhRVVjMGxrU2hiVk9tMG5aUXh0LUNoWGMxOXZVcklyTmpmV2lRQmYxb0FRY2IyTGZRYTFJNHFvLVlkU25SXzBFdVFVYTdhWXdwcjYxOWI5WE1PSlgwQzJaQ0JGcktCLWx0TVdQTDVfdFJQbms0RWtIYjBhejVYZExJVHc1UzBRVTRXc0h2RXJtNlJ50gG_AUFVX3lxTE5hOU0yY2FHZnVyZC1PdmtrZDR4NEt3R3dXUUVJLW52dVlCRWZVNURNdVY0a2xsRDVsbDNIU2ZFemNER18wajFGcWVObGoxbXdFOVQ5M0Eyc214WUVzS0c2SDdFb0UtZnVHWGdLRV9RNnVDcnFadXAyN2ZmRjk1Uko4XzQwdDdwRFA3cnREOVNLVlBnYzRiWnVJRUMweXFpOFVnTlUteUlKb005bHM4cmFOclo1X0wtRjJMVktBSDB3?oc=5
 
 - South Korea's Kospi, Japan's Topix hit record highs as investors shrug off Iran tensions - CNBC
   South Korea's Kospi, Japan's Topix hit
@@ -148,37 +148,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Old mortar shell found in Poonch, defused safely - The Times of India
-  Old mortar shell found in Poonch,
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
+- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
+  Myanmar’s President U Min Aung Hlaing
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
 
-- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
-  Myanmar President begins his five-day India visit with payers.
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
-
-- Old mortar shell found in Poonch, defused safely - The Times of India
-  Old mortar shell found in Poonch,
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
-
-- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
-  Myanmar President begins his five-day India visit with payers.
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
-
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- Census: How stamps and postcards helped India count its people - BBC
+  Census: How stamps and postcards
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -188,17 +168,17 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Old mortar shell found in Poonch, defused safely - The Times of India
-  Old mortar shell found in Poonch,
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
+- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
+  Myanmar’s President U Min Aung Hlaing
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
 
-- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
-  Myanmar President begins his five-day India visit with payers.
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- Census: How stamps and postcards helped India count its people - BBC
+  Census: How stamps and postcards
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
@@ -208,45 +188,37 @@
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Old mortar shell found in Poonch, defused safely - The Times of India
-  Old mortar shell found in Poonch,
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0liVXU4NTVzbFdLZl9uY0czWE95VHFsYW5XTURyUUJPVkxWbjRqMzE4TVlIOE8xbzhORzdpVlBINXppTHdqMFVhTl9hTWJVOHkxVmdmd0NMbU4xekR3dG5IQkJzbzAzdWZMbVdrWnd2cUlrSnFWaHhuOU80Y3FUU1NpZkFZSUxqbjhPZDUyVFVsLXd3d3pnMUg5VXpVa1RVY3JOQ2QxZzhYNzlEMlBJNHlicTBMd9IBuwFBVV95cUxNdC1YUWRUcFhyTjRKUkNndWs0UkxLSldxVG9TRWlsVjRvMFQyS0ZUUFFNbXFELWIzRDF4ZVlxRGZFRW5TTFJYV0tFakRoMXUxZEJwUmFpZ1EyejNFalZSaHlVc1BfZWgtYzgtM2M4dGQ2RW5TdklzQ2JUdDgwemlBTHYzS3JZc0dmNlo0SjkxRnV5UnVnN2FvSlc0T2RaUlFScC1EMVZ4NjZuYm9hQzBYNnNkQk90N1oyU2RV?oc=5
+- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
+  Myanmar’s President U Min Aung Hlaing
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
 
-- Myanmar President begins his five- day India visit with payers at Mahabodhi Temple in Bodh Gaya, Bihar - News On AIR
-  Myanmar President begins his five-day India visit with payers.
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTGVfamhqM2tqLTdITjRzcUt1SFVKdk9pdjYxVG5IOFRnZWhndllnZ0w0czlBWFFMMHkyVnRzdlFySUYwWGdTcXAxTGNWbV9LaGpnaGUyVDRCMlJQUjFmRk1qZVh0Z3ppQTFoUUdid29lMmFPaUVEVlg0eVR0dnBST1BDbmRkRTlVaERUZUtWOVFNVzJXMWJkbVBuOGlKNFRrQ1pB?oc=5
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
-- Mother-in-law of Indian bride whose death set off media frenzy arrested - BBC
-  Mother-in-law of Indian bride whose
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MYkRDX21JV1lXZTg1Vk5RNW4tSzBoTWVGakNhdGdKWGctSzAwZWQ4bHhYaDVaWF82cy00QlZrY2l4bVNpU1pSS1Vqa3RSTnY2VDA2Q2hlVy10dw?oc=5
+- Census: How stamps and postcards helped India count its people - BBC
+  Census: How stamps and postcards
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
+  Myanmar’s President U Min Aung Hlaing
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Census: How stamps and postcards helped India count its people - BBC
+  Census: How stamps and postcards
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
 
 
-_Last updated: 2026-05-30 19:09:52 UTC_
+_Last updated: 2026-05-31 02:57:33 UTC_
