@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 100-year-old trees felled, 166 accused, a clash with officials: Behind tensions in a Chhattisgarh village
+- South Coast Railway zone operational from June 1: How divisions, routes and train operations will change
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-trees-fell-officials-clash-tensions-10717177/
+  🔗 https://indianexpress.com/article/india/south-coast-railway-zone-operational-from-june-1-how-divisions-routes-and-train-operations-will-change-10717326/
 
-- Nepal PM says India, Nepal ‘encroached’ each other’s territories, triggers row
+- ‘Right of sex workers can exist without a right to sex work: SC asks Government to make law exempting trafficked sex workers from criminal charges
   
-  🔗 https://indianexpress.com/article/india/nepal-pm-balen-shah-india-nepal-encroached-territories-triggers-row-10717172/
+  🔗 https://indianexpress.com/article/india/supreme-court-sex-workers-trafficked-criminal-charges-10717295/
 
-- In Mann Ki Baat, PM Modi praises sprinters Gurindervir, Kujur: ‘You’ll bring glory to the country’
+- From West Bengal’s new Annapurna scheme to CBSE re-evaluation: Key changes from June 1
   
-  🔗 https://indianexpress.com/article/india/mann-ki-baat-pm-modi-gurindervir-singh-animesh-kujur-10717093/
+  🔗 https://indianexpress.com/article/india/june-1-changes-2026-income-tax-deadlines-annapurna-yojana-lpg-noida-airport-flights-10717167/
 
-- Admiral Krishna Swaminathan takes charge as 27th Navy chief
+- Rayagada Railway Division starts June 1: What it means for passengers, routes and train operations
   
-  🔗 https://indianexpress.com/article/india/admiral-krishna-swaminathan-takes-charge-as-indias-27th-chief-of-naval-staff-10716745/
+  🔗 https://indianexpress.com/article/india/rayagada-railway-division-starts-june-1-what-it-means-for-passengers-routes-and-train-operations-10717129/
 
-- Bihar MLC polls: NDA eyes 9 seats as political heirs enter the race
+- ‘With my fellow anti-national Soros agents’: Rahul Gandhi’s dig at Centre over CBSE row
   
-  🔗 https://indianexpress.com/article/india/bihar-mlc-polls-nda-eyes-9-seats-as-political-heirs-enter-the-race-10716557/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-soros-osm-bjp-cbse-10717130/
 
 - Spurred by his mother’s knee pain, this Hyderabad pharmacist built a wearable for chronic pain relief
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-tool-to-track-employee-mouse-clicks-on-collision-course-with-eu-privacy-rules-10716470/
 
+- Inox Clean Energy plans  ₹1 trillion investment by 2030 in renewables, solar equipment and battery storage
+  INOXGFL Group is also targeting global markets with a major battery chemicals push and a new joint venture to develop power
+  🔗 https://www.livemint.com/companies/news/inox-clean-energy-to-invest-rs1-trillion-in-renewable-energy-by-2030-11780230962746.html
+
 - German chipmaker Infineon to expand India ops with new R&amp;D and supply chain investments
   The semiconductor giant plans to nearly double its local workforce by 2030. It will support India's green energy goals through new design partnerships and
   🔗 https://www.livemint.com/companies/news/infineon-india-expansion-semiconductor-investment-11780221887953.html
@@ -56,9 +60,13 @@
   Firms involved in components, servers, packaging, connectivity and energy infrastructure could benefit from the next wave of AI spending. Fresh fundraising and potential IPOs by OpenAI, SpaceX and Anthrop
   🔗 https://www.livemint.com/companies/news/spacex-openai-fundraising-sparks-investor-hunt-for-asia-s-next-ai-winners-beyond-chipmaking-giants-11780199679564.html
 
-- Amazon may be bigger, but Zomato's Deepinder Goyal says Blinkit has the edge in quick commerce- Here's why
-  Zomato founder Deepinder Goyal believes Blinkit has a better chance than Amazon of winning India’s quick-commerce battle. He highlighted Blinkit’
-  🔗 https://www.livemint.com/companies/people/amazon-may-be-bigger-but-zomatos-deepinder-goyal-says-blinkit-has-the-edge-in-quick-commerce-heres-why-11780195569320.html
+- Wall Street Week Ahead: US payrolls data, tech earnings and AI events set to drive markets
+  Several other indicators, including manufacturing and services PMI readings, JOLTS job openings data, and the Federal Reserve’s Beige Book, are expected to provide a
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-us-payrolls-data-tech-earnings-and-ai-events-set-to-drive-markets-11780243892466.html
+
+- Stablecoin demand may soon fade, BoEs Greene says
+  Stablecoin
+  🔗 https://www.livemint.com/market/stablecoin-demand-may-soon-fade-boes-greene-says-11780241474592.html
 
 - Expert view: Market volatility is reshaping investor behaviour in India, here's how
    developed markets and certain emerging markets currently offer more attractive opportunities because of lower valuations and exposure to themes such as artificial
@@ -71,14 +79,6 @@
 - Upcoming IPOs: CMR Green Tech IPO, Hexagon Nutrition IPO among new issues to open next; check full list here
   CMR Green Technologies IPO and Hexagon Nutrition IPO will open for subscription in the coming week.
   🔗 https://www.livemint.com/market/ipo/upcoming-ipos-cmr-green-tech-ipo-hexagon-nutrition-ipo-among-new-issues-to-open-next-check-full-list-here-11780216072537.html
-
-- Small-cap stock under  ₹50 to be in focus on Monday; here's why
-  Globe International Carriers reported a consolidated net profit for the quarter at  ₹1.53
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-globe-international-carriers-to-be-in-focus-on-monday-heres-why-11780212405133.html
-
-- Indiabulls sets board meeting date to consider fundraise proposal. Details here
-  Indiabulls share price trend has largely remained positive amid weak market sentiments. The stock has
-  🔗 https://www.livemint.com/market/stock-market-news/indiabulls-sets-board-meeting-date-to-consider-fundraise-proposal-details-here-11780208481406.html
 
 - iOS 27 release date: When will your iPhone actually get Apple's next-gen Siri AI upgrade
   Apple will unveil iOS 27 during the Worldwide Developer Conference (WWDC) 2026 conference on 8th June
@@ -126,19 +126,19 @@
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFU?oc=5
 
-- Only 20 Trinamool MLAs Turn Up At Mamata Banerjee House For Key Meet: Sources - NDTV
-  Only 20 Trinamool MLAs Turn Up At Mamata
+- To beat drugs, Ladakh opens up for liquor - The Times of India
+  To beat drugs, Ladakh opens up for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG9lU1NBRUxUMWlHdkV5elFlN2phUlg4LUhSMTY4SDVzdWVvelhVUmpTQS1wLUFUT3JLemJWaERsMnhqUEppV1pnM2pSeUxfd1Niam95bVhzM0JHWmdRU20tQk1uSnNsOTZROHJLQkp1LUJ1bXZGcVhxVzFDRVJlVnJvc3B1d056VUdxMDV6eTdHWWpHUUtkeGRhMXJfN3pGTmpNanpucnF0STZ10gGyAUFVX3lxTFBjSTY2TjJHM2lUaHp2cDN0Qk1XalZtS2FTRGpnY1M4VkRweWFOSmlnOVVTRkdPSFg3Mm1aNVFKWnNTV1J3TDM2OGxxdFBZYXZETE8zaVVTempYUG9OV1FtZk5PZWlUVkltWmptMDdISjVYaVJWX2NrMm8yZWgteDBXRjBOWmFFMGJ3RFQ2elNJMEJoNGM5dVBtbm4wVlJjd25Od3RGbDh0T0ptbDJPU25ZNFE?oc=5
+
+- India Expands Intensified TB Elimination Campaign Nationwide: Health Minister J P Nadda - News On AIR
+  India Expands Intensified TB Elimination Campaign Nationwide.
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtSWElLb0dlbFR3S09jeW05Uk8wVDhuMnBsVDltRVRaWGVTZXJHdC1zakFxQ3VEdGphQUY5Z1B6RzY5NHVzUFp1R0ROUGQweWF2UDQtTjFBdEhjYUFhNTBTNU9maHUxNFB3c0U4Z1p3MmtTc2lCcGNudjU0SVhOUm9ETmZzY2RjR2ZadTFWSUFGTnk3V1FkYw?oc=5
+
+- Day After Abhishek Banerjee Assaulted, Another Jolt To Trinamool - NDTV
+  Abhishek Banerjee
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTRnSE9CcFVMQU84d1IzQjFrYTBGSlFCS2lKMklkbVhUd1RkY0o3WjNOUjBocGh5XzdKODFQaFNkc002c1dIOXRSeVJyXy1UN09WWEE2bVhCRWY3bnlKMVBaVElHUlJNLVFLMzI5MVhkNnk2NWtSOEpTazNVYllvU2VabWE0aEV4aExKNVZDU05yVkFjLUhxb29KYzFpdXctZzRPMllLeU1fQ0hzbWJPYmhZQVJNU2VZ0gHAAUFVX3lxTE5FaDF3eVFQQWdnd0hCNlB6SWpKaUxoUnZlOVZNeGk4Z3VXMTI4R1pPQnI2RnZHeFhrMzJGcTdvM2pSa1dWazZFLUNKNUF4dXRsZnpXaVQxUDFOeXdjYURKU2g5cnVyQWhiWlZxSU9TdV9GSFVNWEdZLWpFM01ocy1PakdwLTZKLWh6LUhyRjRrbC1vb1RYU3NLazZqNFlPcGFNbXN2eDVIZXVSeU5EYThsMHJ0bTVOVERHaEdPWDk1dQ?oc=5
-
-- 'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after attack, says INDIA bloc will c - The Times of India
-  'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQZmtoRDlFaExZa25oYktIQWJfYTRnMmJBb1FueVFnWmFwNXp4OFh3SDhNU1ZuY1R4MHBqVUFvb3RVdHFIWVFDS2g1cUhhcDVJaGcxVHhUVGtkVjBFWnc1ZWN2amJmT0RsalMxUkRqN3FLM05rdXd2bWMwV3ZZSW92LWFyY0IyOXd4N2txVDBxVHhMcUpNaURvR19JWmlQV2V6WE93T3R5MTlSOFA0S1hYOVBLOU1sRVBmdENKRjM4bENfOGI2MGpMeFhiSVI3eGNDS1o3T1BMbERsUnYxaW5yT1V4VnB3VGkwbmw2bTNXNU50ZXk1cVVVbjBjVzk2R3VLdGpJeVMzaGlwcVQ2TngwVlhmOXFBeGNpVjZVcnI0RTJTNjdq0gGqAkFVX3lxTFBmbXY0cTloNElVUlFGSHhvV2tveDQ3a0tKZml1RDhveW14SERydzNEV1ZUZHl2NmdGaEJLNWxjTFk1bGk4S1lBSk1BTG1VNHdKQ0JRMmtKcklJWnFoMDVKQVRtZkNVanMyQU9pS3liSk1QTVBuc2FlbzhMbW9fdF9wdmxuZUFnVlFwWXF6YU9tU3BMV1N6LXZiS3hDQWZUZ1h2TTllV0tQZVd4SklCU25DWlBQVkNUbVNNRy0yTkNORWtCbHJ3ZVA5UDN3clJJNFcxRl9yUGE4aFN5M29paVhxMlBINnlPMUZaUm11Y3AxeTJoUm0xNndoOE02QmdTUnQzUUgyTlFoQzdyZnVuZHJsT3hsbmk2b2NDdWVDMXJoRjhuZXlUQkxrMEE?oc=5
-
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - News On AIR
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
 - Census: How stamps and postcards helped India count its people - BBC
   Census: How stamps and postcards
@@ -146,19 +146,47 @@
 
 - How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
   How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFU?oc=5
 
-- Only 20 Trinamool MLAs Turn Up At Mamata Banerjee House For Key Meet: Sources - NDTV
-  Only 20 Trinamool MLAs Turn Up At Mamata
+- To beat drugs, Ladakh opens up for liquor - The Times of India
+  To beat drugs, Ladakh opens up for
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG9lU1NBRUxUMWlHdkV5elFlN2phUlg4LUhSMTY4SDVzdWVvelhVUmpTQS1wLUFUT3JLemJWaERsMnhqUEppV1pnM2pSeUxfd1Niam95bVhzM0JHWmdRU20tQk1uSnNsOTZROHJLQkp1LUJ1bXZGcVhxVzFDRVJlVnJvc3B1d056VUdxMDV6eTdHWWpHUUtkeGRhMXJfN3pGTmpNanpucnF0STZ10gGyAUFVX3lxTFBjSTY2TjJHM2lUaHp2cDN0Qk1XalZtS2FTRGpnY1M4VkRweWFOSmlnOVVTRkdPSFg3Mm1aNVFKWnNTV1J3TDM2OGxxdFBZYXZETE8zaVVTempYUG9OV1FtZk5PZWlUVkltWmptMDdISjVYaVJWX2NrMm8yZWgteDBXRjBOWmFFMGJ3RFQ2elNJMEJoNGM5dVBtbm4wVlJjd25Od3RGbDh0T0ptbDJPU25ZNFE?oc=5
+
+- India Expands Intensified TB Elimination Campaign Nationwide: Health Minister J P Nadda - News On AIR
+  India Expands Intensified TB Elimination Campaign Nationwide.
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWtSWElLb0dlbFR3S09jeW05Uk8wVDhuMnBsVDltRVRaWGVTZXJHdC1zakFxQ3VEdGphQUY5Z1B6RzY5NHVzUFp1R0ROUGQweWF2UDQtTjFBdEhjYUFhNTBTNU9maHUxNFB3c0U4Z1p3MmtTc2lCcGNudjU0SVhOUm9ETmZzY2RjR2ZadTFWSUFGTnk3V1FkYw?oc=5
+
+- Day After Abhishek Banerjee Assaulted, Another Jolt To Trinamool - NDTV
+  Abhishek Banerjee
   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTRnSE9CcFVMQU84d1IzQjFrYTBGSlFCS2lKMklkbVhUd1RkY0o3WjNOUjBocGh5XzdKODFQaFNkc002c1dIOXRSeVJyXy1UN09WWEE2bVhCRWY3bnlKMVBaVElHUlJNLVFLMzI5MVhkNnk2NWtSOEpTazNVYllvU2VabWE0aEV4aExKNVZDU05yVkFjLUhxb29KYzFpdXctZzRPMllLeU1fQ0hzbWJPYmhZQVJNU2VZ0gHAAUFVX3lxTE5FaDF3eVFQQWdnd0hCNlB6SWpKaUxoUnZlOVZNeGk4Z3VXMTI4R1pPQnI2RnZHeFhrMzJGcTdvM2pSa1dWazZFLUNKNUF4dXRsZnpXaVQxUDFOeXdjYURKU2g5cnVyQWhiWlZxSU9TdV9GSFVNWEdZLWpFM01ocy1PakdwLTZKLWh6LUhyRjRrbC1vb1RYU3NLazZqNFlPcGFNbXN2eDVIZXVSeU5EYThsMHJ0bTVOVERHaEdPWDk1dQ?oc=5
 
-- 'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after attack, says INDIA bloc will c - The Times of India
-  'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after
-  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQZmtoRDlFaExZa25oYktIQWJfYTRnMmJBb1FueVFnWmFwNXp4OFh3SDhNU1ZuY1R4MHBqVUFvb3RVdHFIWVFDS2g1cUhhcDVJaGcxVHhUVGtkVjBFWnc1ZWN2amJmT0RsalMxUkRqN3FLM05rdXd2bWMwV3ZZSW92LWFyY0IyOXd4N2txVDBxVHhMcUpNaURvR19JWmlQV2V6WE93T3R5MTlSOFA0S1hYOVBLOU1sRVBmdENKRjM4bENfOGI2MGpMeFhiSVI3eGNDS1o3T1BMbERsUnYxaW5yT1V4VnB3VGkwbmw2bTNXNU50ZXk1cVVVbjBjVzk2R3VLdGpJeVMzaGlwcVQ2TngwVlhmOXFBeGNpVjZVcnI0RTJTNjdq0gGqAkFVX3lxTFBmbXY0cTloNElVUlFGSHhvV2tveDQ3a0tKZml1RDhveW14SERydzNEV1ZUZHl2NmdGaEJLNWxjTFk1bGk4S1lBSk1BTG1VNHdKQ0JRMmtKcklJWnFoMDVKQVRtZkNVanMyQU9pS3liSk1QTVBuc2FlbzhMbW9fdF9wdmxuZUFnVlFwWXF6YU9tU3BMV1N6LXZiS3hDQWZUZ1h2TTllV0tQZVd4SklCU25DWlBQVkNUbVNNRy0yTkNORWtCbHJ3ZVA5UDN3clJJNFcxRl9yUGE4aFN5M29paVhxMlBINnlPMUZaUm11Y3AxeTJoUm0xNndoOE02QmdTUnQzUUgyTlFoQzdyZnVuZHJsT3hsbmk2b2NDdWVDMXJoRjhuZXlUQkxrMEE?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - News On AIR
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-05-31 13:28:42 UTC_
+_Last updated: 2026-05-31 19:11:51 UTC_
