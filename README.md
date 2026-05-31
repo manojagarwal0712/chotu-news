@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
+- 100-year-old trees felled, 166 accused, a clash with officials: Behind tensions in a Chhattisgarh village
+  
+  🔗 https://indianexpress.com/article/india/chhattisgarh-trees-fell-officials-clash-tensions-10717177/
+
+- Nepal PM says India, Nepal ‘encroached’ each other’s territories, triggers row
+  
+  🔗 https://indianexpress.com/article/india/nepal-pm-balen-shah-india-nepal-encroached-territories-triggers-row-10717172/
+
+- In Mann Ki Baat, PM Modi praises sprinters Gurindervir, Kujur: ‘You’ll bring glory to the country’
+  
+  🔗 https://indianexpress.com/article/india/mann-ki-baat-pm-modi-gurindervir-singh-animesh-kujur-10717093/
+
+- Admiral Krishna Swaminathan takes charge as 27th Navy chief
+  
+  🔗 https://indianexpress.com/article/india/admiral-krishna-swaminathan-takes-charge-as-indias-27th-chief-of-naval-staff-10716745/
+
 - Bihar MLC polls: NDA eyes 9 seats as political heirs enter the race
   
   🔗 https://indianexpress.com/article/india/bihar-mlc-polls-nda-eyes-9-seats-as-political-heirs-enter-the-race-10716557/
 
-- Gen Subramani takes charge as new Chief of Defence Staff: ‘Transformation of armed forces, organisational reforms key focus’
+- Spurred by his mother’s knee pain, this Hyderabad pharmacist built a wearable for chronic pain relief
   
-  🔗 https://indianexpress.com/article/india/gen-subramani-cds-armed-forces-reforms-key-focus-10716431/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/hyderabad-pharmacist-built-wearable-chronic-pain-10716939/
 
-- Hunt for militants enters Day 8 in Rajouri-Poonch forests, drones and helicopters deployed
+- ‘I’m cancelling’: As Microsoft’s GitHub Copilot moves to token-based billing, developers fear rising AI costs
   
-  🔗 https://indianexpress.com/article/india/hunt-for-militants-enters-day-8-in-rajouri-poonch-forests-drones-and-helicopters-deployed-10716205/
-
-- Jammu and Kashmir Hajj pilgrims threaten boycott of return flights over ‘discriminatory’ baggage curbs
-  
-  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-hajj-pilgrims-threaten-boycott-of-return-flights-over-discriminatory-baggage-curbs-10716202/
-
-- Army Chief: Armed forces preparing well for Operation Sindoor 2.0 if it takes place
-  
-  🔗 https://indianexpress.com/article/india/army-chief-armed-forces-preparing-well-for-operation-sindoor-2-0-if-it-takes-place-10716328/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/
 
 - Nvidia-powered Windows PCs to make debut at Computex 2026: Report
   
@@ -32,13 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-tool-to-track-employee-mouse-clicks-on-collision-course-with-eu-privacy-rules-10716470/
 
-- Delhi High Court ruling on Google keyword ads could reshape online advertising
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/delhi-high-court-ruling-on-google-keyword-ads-could-reshape-online-advertising-10716467/
+- German chipmaker Infineon to expand India ops with new R&amp;D and supply chain investments
+  The semiconductor giant plans to nearly double its local workforce by 2030. It will support India's green energy goals through new design partnerships and
+  🔗 https://www.livemint.com/companies/news/infineon-india-expansion-semiconductor-investment-11780221887953.html
 
-- Influential medieval queen’s skeleton found alongside mummified pregnant woman, stabbed men in Barcelona monastery
-  
-  🔗 https://indianexpress.com/article/technology/science/influential-medieval-queens-skeleton-found-alongside-mummified-pregnant-woman-stabbed-men-in-barcelona-monastery-10715824/
+- Mint Explainer: Why are quick commerce giants betting big on digital wallets?
+  Swiggy Instamart now lets users top up their wallets to qualify for free delivery. Digital payment ecosystems are becoming the primary tool
+  🔗 https://www.livemint.com/companies/mint-explainer-why-are-quick-commerce-giants-betting-big-on-digital-wallets-11780212150441.html
 
 - Lloyds turns to copper to cut iron ore reliance, targets $1.3 billion business over 5 years
   The miner's Congo copper assets and Papua New Guinea ambitions are central to a strategy aimed at reducing reliance on a single commodity and geography. The business is expected to
@@ -52,13 +60,57 @@
   Zomato founder Deepinder Goyal believes Blinkit has a better chance than Amazon of winning India’s quick-commerce battle. He highlighted Blinkit’
   🔗 https://www.livemint.com/companies/people/amazon-may-be-bigger-but-zomatos-deepinder-goyal-says-blinkit-has-the-edge-in-quick-commerce-heres-why-11780195569320.html
 
-- Google techie bet $2.7 million on Polymarket with company secrets, won $1.2 million, then FBI caught him
-  Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-sear
-  🔗 https://www.livemint.com/companies/people/google-techie-bet-2-7-million-on-polymarket-with-company-secrets-won-1-2-million-then-fbi-caught-him-11780192078694.html
+- Expert view: Market volatility is reshaping investor behaviour in India, here's how
+   developed markets and certain emerging markets currently offer more attractive opportunities because of lower valuations and exposure to themes such as artificial
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-market-volatility-is-reshaping-investor-behaviour-in-india-heres-how-11780220390236.html
 
-- SoftBank to Invest Some €75 Billion in AI in France, Reports Say
-  SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build artificial intelligence data
-  🔗 https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html
+- IRCTC vs IRFC vs RVNL vs RailTel: Which railway stock to buy after Q4 results?
+  Q4FY26 results make the trade-offs clearer. IRCTC, IRFC, RVNL and RailTel each play a
+  🔗 https://www.livemint.com/market/stock-market-news/irctc-vs-irfc-vs-rvnl-vs-railtel-which-railway-stock-to-buy-after-q4-results-11780220196427.html
+
+- Upcoming IPOs: CMR Green Tech IPO, Hexagon Nutrition IPO among new issues to open next; check full list here
+  CMR Green Technologies IPO and Hexagon Nutrition IPO will open for subscription in the coming week.
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-cmr-green-tech-ipo-hexagon-nutrition-ipo-among-new-issues-to-open-next-check-full-list-here-11780216072537.html
+
+- Small-cap stock under  ₹50 to be in focus on Monday; here's why
+  Globe International Carriers reported a consolidated net profit for the quarter at  ₹1.53
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-globe-international-carriers-to-be-in-focus-on-monday-heres-why-11780212405133.html
+
+- Indiabulls sets board meeting date to consider fundraise proposal. Details here
+  Indiabulls share price trend has largely remained positive amid weak market sentiments. The stock has
+  🔗 https://www.livemint.com/market/stock-market-news/indiabulls-sets-board-meeting-date-to-consider-fundraise-proposal-details-here-11780208481406.html
+
+- iOS 27 release date: When will your iPhone actually get Apple's next-gen Siri AI upgrade
+  Apple will unveil iOS 27 during the Worldwide Developer Conference (WWDC) 2026 conference on 8th June
+  🔗 https://www.livemint.com/technology/tech-news/ios-27-release-date-when-will-your-iphone-actually-get-apples-next-gen-siri-ai-upgrade-11780208235630.html
+
+- Xiaomi 17T price leaked ahead of June 4 India launch: What to expect?
+  Xiaomi will unveil the Xiaomi 17T in India on June 4. The phone is expected to feature a 6.59
+  🔗 https://www.livemint.com/technology/tech-news/xiaomi-17t-price-leaked-ahead-of-june-4-india-launch-what-to-expect-11780216691702.html
+
+- ‘Goodbye, Copilot’: Microsoft faces backlash as Github Copilot ends flat-rate AI pricing from June 1
+  Microsoft is changing GitHub Copilot's pricing from flat rate to
+  🔗 https://www.livemint.com/technology/tech-news/goodbye-copilot-microsoft-faces-backlash-as-github-copilot-ends-flat-rate-ai-pricing-from-june-1-11780213914806.html
+
+- From live translation to call summaries: 12 AI features hidden in your smartphone that you should start using
+  Modern smartphones come packed with AI tools that many users overlook. From live translation and call summaries to smart photo editing and writing assistance, here are 12 built-
+  🔗 https://www.livemint.com/technology/from-live-translation-to-call-summaries-12-ai-features-hidden-in-your-smartphone-that-you-should-start-using-11780206495942.html
+
+- Apple moves on from Cosmic Orange as leaked iPhone 18 Pro dummy units reveal new Dark Cherry finish
+  Apple is set to replace the Cosmic Orange variant with a new Dark Cherry color for the iPhone 18 Pro series. Other colors variants for the flagship phone could
+  🔗 https://www.livemint.com/technology/gadgets/apple-moves-on-from-cosmic-orange-as-leaked-iphone-18-pro-dummy-units-reveal-new-dark-cherry-finish-11780202386456.html
+
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Indian equity markets ended sharply lower on May 29 amid broad-based selling, MSCI-driven flows and rising volatility. Technical indicators suggest a bearish bias with key support zones in focus.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131421251.cms
+
+- Market Trading Guide: YES Bank among two stock picks for Monday with up to 10% upside scope
+   equity markets saw broad-based selling pressure after weak monsoon forecasts raised concerns over food inflation. Investors now await key domestic triggers, including the RBI policy decision and GDP data. YES Bank and NBCC are stocks with strong short-term
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-yes-bank-among-two-stock-picks-for-monday-with-up-to-10-upside-scope/articleshow/131421232.cms
+
+- ET Alpha Wealth Summit: Will AI disrupt India’s growth story or accelerate it?
+  Indian market is at a key inflection point as strong macroeconomic fundamentals support long-term growth. Rapid advances in artificial intelligence raise fresh questions on jobs, industries and investment opportunities. The ET Alpha Wealth Summit in Mumbai will host a major
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-will-ai-disrupt-indias-growth-story-or-accelerate-it/articleshow/131420194.cms
 
 - 9 Midcap stocks with massive upside potential of up to 45%! Do you own any?
   Several mid-cap companies across sectors such as e-commerce, real estate, FMCG and infrastructure are attracting Buy and Strong Buy ratings. Nifty Mid-Cap 100 stocks are showing strong upside potential, with analyst consensus estimates
@@ -68,17 +120,25 @@
   Foreign investors pulled out a record Rs 1.17 lakh crore in March. The selling continued in April with net outflows of Rs 60,847 crore and extended into May
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-outflow-nears-rs-33000-crore-in-may-on-weaker-rupee/articleshow/131419774.cms
 
-- SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners
-  Investors are shifting focus to Asian supply chain companies. The move aims to capitalize on anticipated increased technology spending. This could fuel a new rally in Asian stock markets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners/articleshow/131419620.cms
+- Census: How stamps and postcards helped India count its people - BBC
+  Census: How stamps and postcards
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
 
-- 14 penny stocks plunge up to 55% in 2 months. Are you affected?
-  Fourteen penny stocks have declined sharply over the past two months, with losses of up to 55%. While such stocks attract investors seeking quick gains, weak liquidity, volatility and governance concerns make them highly vulnerable to sharp corrections
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-plunge-up-to-55-in-2-months-are-you-affected/slideshow/131419717.cms
+- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
+  How Indian PM Modi’s efforts
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Midcaps in a sweet spot? Why Nippon India’s Rupesh Patel sees a valuation correction despite new index peaks
-  Nippon India Mutual Fund's Rupesh Patel remains constructive on midcaps despite concerns over valuations. He favours financials, consumer discretionary and select industrials.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcaps-in-a-sweet-spot-why-nippon-indias-rupesh-patel-sees-a-valuation-correction-despite-new-index-peaks/articleshow/131419336.cms
+- Only 20 Trinamool MLAs Turn Up At Mamata Banerjee House For Key Meet: Sources - NDTV
+  Only 20 Trinamool MLAs Turn Up At Mamata
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTRnSE9CcFVMQU84d1IzQjFrYTBGSlFCS2lKMklkbVhUd1RkY0o3WjNOUjBocGh5XzdKODFQaFNkc002c1dIOXRSeVJyXy1UN09WWEE2bVhCRWY3bnlKMVBaVElHUlJNLVFLMzI5MVhkNnk2NWtSOEpTazNVYllvU2VabWE0aEV4aExKNVZDU05yVkFjLUhxb29KYzFpdXctZzRPMllLeU1fQ0hzbWJPYmhZQVJNU2VZ0gHAAUFVX3lxTE5FaDF3eVFQQWdnd0hCNlB6SWpKaUxoUnZlOVZNeGk4Z3VXMTI4R1pPQnI2RnZHeFhrMzJGcTdvM2pSa1dWazZFLUNKNUF4dXRsZnpXaVQxUDFOeXdjYURKU2g5cnVyQWhiWlZxSU9TdV9GSFVNWEdZLWpFM01ocy1PakdwLTZKLWh6LUhyRjRrbC1vb1RYU3NLazZqNFlPcGFNbXN2eDVIZXVSeU5EYThsMHJ0bTVOVERHaEdPWDk1dQ?oc=5
+
+- 'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after attack, says INDIA bloc will c - The Times of India
+  'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQZmtoRDlFaExZa25oYktIQWJfYTRnMmJBb1FueVFnWmFwNXp4OFh3SDhNU1ZuY1R4MHBqVUFvb3RVdHFIWVFDS2g1cUhhcDVJaGcxVHhUVGtkVjBFWnc1ZWN2amJmT0RsalMxUkRqN3FLM05rdXd2bWMwV3ZZSW92LWFyY0IyOXd4N2txVDBxVHhMcUpNaURvR19JWmlQV2V6WE93T3R5MTlSOFA0S1hYOVBLOU1sRVBmdENKRjM4bENfOGI2MGpMeFhiSVI3eGNDS1o3T1BMbERsUnYxaW5yT1V4VnB3VGkwbmw2bTNXNU50ZXk1cVVVbjBjVzk2R3VLdGpJeVMzaGlwcVQ2TngwVlhmOXFBeGNpVjZVcnI0RTJTNjdq0gGqAkFVX3lxTFBmbXY0cTloNElVUlFGSHhvV2tveDQ3a0tKZml1RDhveW14SERydzNEV1ZUZHl2NmdGaEJLNWxjTFk1bGk4S1lBSk1BTG1VNHdKQ0JRMmtKcklJWnFoMDVKQVRtZkNVanMyQU9pS3liSk1QTVBuc2FlbzhMbW9fdF9wdmxuZUFnVlFwWXF6YU9tU3BMV1N6LXZiS3hDQWZUZ1h2TTllV0tQZVd4SklCU25DWlBQVkNUbVNNRy0yTkNORWtCbHJ3ZVA5UDN3clJJNFcxRl9yUGE4aFN5M29paVhxMlBINnlPMUZaUm11Y3AxeTJoUm0xNndoOE02QmdTUnQzUUgyTlFoQzdyZnVuZHJsT3hsbmk2b2NDdWVDMXJoRjhuZXlUQkxrMEE?oc=5
+
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - News On AIR
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
 - Census: How stamps and postcards helped India count its people - BBC
   Census: How stamps and postcards
@@ -88,57 +148,17 @@
   How Indian PM Modi’s efforts
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- India's image was ‘stuck with Gandhi ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’ | India News - Hindustan Times
-  India's image was ‘stuck with Gandhi ji’: Tourism minister says PM
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxObGpEbDhhSTdpNWVNblZQdFlzVlFXMlY5ZXR0bWc1T3NDQ0R4eGRzeFhtcG9Cb0s3NWVGWl96N0FsbFBIdmhpT254bzg0b1p4ZTNyY3ktck1XVElVck82WGUzclRZcHk0MC1XWVRLS0NSaC13Qk5QejJ6LXg4Qlc0a1VSOV9MRDBsazZfZ1pxWnRKSExEd2duQjFfaVhNYTV4Uk1vckFJcUFDSWRxTlF2UU9Wakw1N25FR2YwcEZkRldHMWtSaElFQ2wtTEZCVE1rNmw2VS1jcW1CdUhUZkpMZWNwVVRGZUN4bUhsMTllQTJjVi0xb2ZmRkJQQ25xd0VFcXBtRGZmUdIBjAJBVV95cUxORkZkN3NHSDQ0WExiYUlmQ2lfem5WTWw3Rk9xWXNlMy1xc2w5cUFYZENYUnFRYXpnZFpOTE1GNlktZTlfeUpuVkwyMWFJT2hCQ0liRmFFcmZUQzluNkFJMWhLTWJKMF9ZcmJWRlBpZ2l3VHZLVHhMVWg0QzBIdklqUWU0WXBkRmh2d2lvUGRmMkNTc05JZndGcXhpM25Xdm0yZ3JKSjJMZDREZ2dNVWZicUtGZGJmQ3Vsc3M3NEZYNGk4T2dKbkdnX1h2Y1lLcnFzN0NEWUpUSVVzVHhZal9SNUU2NlBUeVdsQm50MHZrQnp0ZkY1cFl6RDNnQnlKY2s1QW12cU91OGVzMk9J?oc=5
+- Only 20 Trinamool MLAs Turn Up At Mamata Banerjee House For Key Meet: Sources - NDTV
+  Only 20 Trinamool MLAs Turn Up At Mamata
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTRnSE9CcFVMQU84d1IzQjFrYTBGSlFCS2lKMklkbVhUd1RkY0o3WjNOUjBocGh5XzdKODFQaFNkc002c1dIOXRSeVJyXy1UN09WWEE2bVhCRWY3bnlKMVBaVElHUlJNLVFLMzI5MVhkNnk2NWtSOEpTazNVYllvU2VabWE0aEV4aExKNVZDU05yVkFjLUhxb29KYzFpdXctZzRPMllLeU1fQ0hzbWJPYmhZQVJNU2VZ0gHAAUFVX3lxTE5FaDF3eVFQQWdnd0hCNlB6SWpKaUxoUnZlOVZNeGk4Z3VXMTI4R1pPQnI2RnZHeFhrMzJGcTdvM2pSa1dWazZFLUNKNUF4dXRsZnpXaVQxUDFOeXdjYURKU2g5cnVyQWhiWlZxSU9TdV9GSFVNWEdZLWpFM01ocy1PakdwLTZKLWh6LUhyRjRrbC1vb1RYU3NLazZqNFlPcGFNbXN2eDVIZXVSeU5EYThsMHJ0bTVOVERHaEdPWDk1dQ?oc=5
 
-- From North India's 'aam panna' to 'panakam' in South India: PM Modi hails 'desi drinks' to beat the heatwave - theweek.in
-  The week's top stories on the Indian heatwave.
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnk2bTJvd1hncWFxQ3lzM1hQc1F6V1hoOFVuVHNJRVhpc1B6Z0pqQlAyWGFPc1V0NTg3eUJaQnNFSFZOaU8xTjNhcTVXT01QNjhoU2dhcm9TWWFycVhjRlhOejZQdjl3MnZ2U2tLNlJOWGV4YUltdkp1azcwRXF3QTRsSEQwRVZ2V2RGSlY4M2hXVy1PRDBTYmVROEJOZjZOTmJ0em5Pa2hzWnRNSlU5WDZWVEttSzZYTXQtLXJPSWRhRVlUMndHbm9oMTA4dHg1bklEQW1JQmNpby1xZXpIVy1kc0TSAeoBQVVfeXFMUEVfWjN2XzhrYllOcUdISzFxOWFKUEtFM1dNNmxfeUtxMnhRRkR0clVJSHNMTkRMUGxoWGZJQmdMcExaNW9EOWx0RXBtUk1XeVZrdXBaUzA3Mk1EM2xXcmNULVBBeWtmd082U3dzeTRRYVlWSS1nSXFLTm0yeUNacHpyZ0xac293NkFpWFd5elhGUG9yd1pkZjJxTFNYMzhEeXo5SGJUUktfVjdwLTE5SHZNeTR2SDRVNnJoOVZiWFpGSzNudjNYYUI0Yjg1eWMxS29Yb2pFakt1ckdaRkptbnZoNUZiTmNud2t3?oc=5
+- 'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after attack, says INDIA bloc will c - The Times of India
+  'We stand united': Abhishek Banerjee thanks Rahul Gandhi for support after
+  🔗 https://news.google.com/rss/articles/CBMipAJBVV95cUxQZmtoRDlFaExZa25oYktIQWJfYTRnMmJBb1FueVFnWmFwNXp4OFh3SDhNU1ZuY1R4MHBqVUFvb3RVdHFIWVFDS2g1cUhhcDVJaGcxVHhUVGtkVjBFWnc1ZWN2amJmT0RsalMxUkRqN3FLM05rdXd2bWMwV3ZZSW92LWFyY0IyOXd4N2txVDBxVHhMcUpNaURvR19JWmlQV2V6WE93T3R5MTlSOFA0S1hYOVBLOU1sRVBmdENKRjM4bENfOGI2MGpMeFhiSVI3eGNDS1o3T1BMbERsUnYxaW5yT1V4VnB3VGkwbmw2bTNXNU50ZXk1cVVVbjBjVzk2R3VLdGpJeVMzaGlwcVQ2TngwVlhmOXFBeGNpVjZVcnI0RTJTNjdq0gGqAkFVX3lxTFBmbXY0cTloNElVUlFGSHhvV2tveDQ3a0tKZml1RDhveW14SERydzNEV1ZUZHl2NmdGaEJLNWxjTFk1bGk4S1lBSk1BTG1VNHdKQ0JRMmtKcklJWnFoMDVKQVRtZkNVanMyQU9pS3liSk1QTVBuc2FlbzhMbW9fdF9wdmxuZUFnVlFwWXF6YU9tU3BMV1N6LXZiS3hDQWZUZ1h2TTllV0tQZVd4SklCU25DWlBQVkNUbVNNRy0yTkNORWtCbHJ3ZVA5UDN3clJJNFcxRl9yUGE4aFN5M29paVhxMlBINnlPMUZaUm11Y3AxeTJoUm0xNndoOE02QmdTUnQzUUgyTlFoQzdyZnVuZHJsT3hsbmk2b2NDdWVDMXJoRjhuZXlUQkxrMEE?oc=5
 
-- 4 Dead In Delhi Building Collapse, Rescue Ops On For Over 16 Hours - NDTV
-  .com/news/features/2014/01
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTkzbnhpUjkxdEgxajZURTN0cjAzUVFXaElkcGt3UVpncXJMb1V3RjVSWEJ0RGd0YUxWcmJObVFQQThQRFJKWXVDUUtVSzFVQlFJSEx4QmlsU3lmd2ZjX2pZNV9wY0h6VTBpbndaclhMNDlteDNxSUlIX3dmUXZRTzZ0VDBYd3lvTlE1ZTZ4a0dFa0cyenU0OG01MTJXeWFmZGhvSjI1dlZkZ9IBsgFBVV95cUxQSHhockplVFNoazhiVjc5Mm5KWEpjMzJuRlQ1V1R3NTBKQTVyZ1ZRbHlnVHZpZlVkUkl0dDdISllkbnN0WkYxVEhjWVlERXJfeVlqdHEwaHZZZ09FcHozU0E0UFpvVG5zVnpIVHBRWlpFNzRodk90TGZaYnpaRkFaVFhxSE9nWGgzWWM2UGNMRE9GTU90NGw1VVdhYnhud1lwWTZjbWZGaGNQWklfU0wzWkFB?oc=5
-
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- India's image was ‘stuck with Gandhi ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’ | India News - Hindustan Times
-  India's image was ‘stuck with Gandhi ji’: Tourism minister says PM
-  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxObGpEbDhhSTdpNWVNblZQdFlzVlFXMlY5ZXR0bWc1T3NDQ0R4eGRzeFhtcG9Cb0s3NWVGWl96N0FsbFBIdmhpT254bzg0b1p4ZTNyY3ktck1XVElVck82WGUzclRZcHk0MC1XWVRLS0NSaC13Qk5QejJ6LXg4Qlc0a1VSOV9MRDBsazZfZ1pxWnRKSExEd2duQjFfaVhNYTV4Uk1vckFJcUFDSWRxTlF2UU9Wakw1N25FR2YwcEZkRldHMWtSaElFQ2wtTEZCVE1rNmw2VS1jcW1CdUhUZkpMZWNwVVRGZUN4bUhsMTllQTJjVi0xb2ZmRkJQQ25xd0VFcXBtRGZmUdIBjAJBVV95cUxORkZkN3NHSDQ0WExiYUlmQ2lfem5WTWw3Rk9xWXNlMy1xc2w5cUFYZENYUnFRYXpnZFpOTE1GNlktZTlfeUpuVkwyMWFJT2hCQ0liRmFFcmZUQzluNkFJMWhLTWJKMF9ZcmJWRlBpZ2l3VHZLVHhMVWg0QzBIdklqUWU0WXBkRmh2d2lvUGRmMkNTc05JZndGcXhpM25Xdm0yZ3JKSjJMZDREZ2dNVWZicUtGZGJmQ3Vsc3M3NEZYNGk4T2dKbkdnX1h2Y1lLcnFzN0NEWUpUSVVzVHhZal9SNUU2NlBUeVdsQm50MHZrQnp0ZkY1cFl6RDNnQnlKY2s1QW12cU91OGVzMk9J?oc=5
-
-- From North India's 'aam panna' to 'panakam' in South India: PM Modi hails 'desi drinks' to beat the heatwave - theweek.in
-  The week's top stories on the Indian heatwave.
-  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnk2bTJvd1hncWFxQ3lzM1hQc1F6V1hoOFVuVHNJRVhpc1B6Z0pqQlAyWGFPc1V0NTg3eUJaQnNFSFZOaU8xTjNhcTVXT01QNjhoU2dhcm9TWWFycVhjRlhOejZQdjl3MnZ2U2tLNlJOWGV4YUltdkp1azcwRXF3QTRsSEQwRVZ2V2RGSlY4M2hXVy1PRDBTYmVROEJOZjZOTmJ0em5Pa2hzWnRNSlU5WDZWVEttSzZYTXQtLXJPSWRhRVlUMndHbm9oMTA4dHg1bklEQW1JQmNpby1xZXpIVy1kc0TSAeoBQVVfeXFMUEVfWjN2XzhrYllOcUdISzFxOWFKUEtFM1dNNmxfeUtxMnhRRkR0clVJSHNMTkRMUGxoWGZJQmdMcExaNW9EOWx0RXBtUk1XeVZrdXBaUzA3Mk1EM2xXcmNULVBBeWtmd082U3dzeTRRYVlWSS1nSXFLTm0yeUNacHpyZ0xac293NkFpWFd5elhGUG9yd1pkZjJxTFNYMzhEeXo5SGJUUktfVjdwLTE5SHZNeTR2SDRVNnJoOVZiWFpGSzNudjNYYUI0Yjg1eWMxS29Yb2pFakt1ckdaRkptbnZoNUZiTmNud2t3?oc=5
-
-- 4 Dead In Delhi Building Collapse, Rescue Ops On For Over 16 Hours - NDTV
-  .com/news/features/2014/01
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTkzbnhpUjkxdEgxajZURTN0cjAzUVFXaElkcGt3UVpncXJMb1V3RjVSWEJ0RGd0YUxWcmJObVFQQThQRFJKWXVDUUtVSzFVQlFJSEx4QmlsU3lmd2ZjX2pZNV9wY0h6VTBpbndaclhMNDlteDNxSUlIX3dmUXZRTzZ0VDBYd3lvTlE1ZTZ4a0dFa0cyenU0OG01MTJXeWFmZGhvSjI1dlZkZ9IBsgFBVV95cUxQSHhockplVFNoazhiVjc5Mm5KWEpjMzJuRlQ1V1R3NTBKQTVyZ1ZRbHlnVHZpZlVkUkl0dDdISllkbnN0WkYxVEhjWVlERXJfeVlqdHEwaHZZZ09FcHozU0E0UFpvVG5zVnpIVHBRWlpFNzRodk90TGZaYnpaRkFaVFhxSE9nWGgzWWM2UGNMRE9GTU90NGw1VVdhYnhud1lwWTZjbWZGaGNQWklfU0wzWkFB?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - News On AIR
+  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
 
 
-_Last updated: 2026-05-31 08:41:18 UTC_
+_Last updated: 2026-05-31 13:28:42 UTC_
