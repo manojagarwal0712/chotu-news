@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- Bihar MLC polls: NDA eyes 9 seats as political heirs enter the race
+  
+  🔗 https://indianexpress.com/article/india/bihar-mlc-polls-nda-eyes-9-seats-as-political-heirs-enter-the-race-10716557/
+
+- Gen Subramani takes charge as new Chief of Defence Staff: ‘Transformation of armed forces, organisational reforms key focus’
+  
+  🔗 https://indianexpress.com/article/india/gen-subramani-cds-armed-forces-reforms-key-focus-10716431/
+
 - Hunt for militants enters Day 8 in Rajouri-Poonch forests, drones and helicopters deployed
   
   🔗 https://indianexpress.com/article/india/hunt-for-militants-enters-day-8-in-rajouri-poonch-forests-drones-and-helicopters-deployed-10716205/
@@ -12,33 +20,37 @@
   
   🔗 https://indianexpress.com/article/india/army-chief-armed-forces-preparing-well-for-operation-sindoor-2-0-if-it-takes-place-10716328/
 
-- ‘India has signed deal with Vietnam for supply of BrahMos’: Defence Secretary Rajesh Kumar Singh
+- Nvidia-powered Windows PCs to make debut at Computex 2026: Report
   
-  🔗 https://indianexpress.com/article/india/india-has-signed-deal-with-vietnam-for-supply-of-brahmos-defence-secretary-rajesh-kumar-singh-10716288/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-windows-pcs-to-make-debut-computex-2026-report-10716539/
 
-- Our naval might confined Pakistan to its ports: Rajnath Singh
+- I tried to sell my house with a chatbot
   
-  🔗 https://indianexpress.com/article/india/our-naval-might-confined-pakistan-to-its-ports-rajnath-singh-10716333/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/i-tried-to-sell-my-house-with-a-chatbot-10716477/
+
+- Meta tool to track employee mouse clicks on collision course with EU privacy rules
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-tool-to-track-employee-mouse-clicks-on-collision-course-with-eu-privacy-rules-10716470/
+
+- Delhi High Court ruling on Google keyword ads could reshape online advertising
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/delhi-high-court-ruling-on-google-keyword-ads-could-reshape-online-advertising-10716467/
 
 - Influential medieval queen’s skeleton found alongside mummified pregnant woman, stabbed men in Barcelona monastery
   
   🔗 https://indianexpress.com/article/technology/science/influential-medieval-queens-skeleton-found-alongside-mummified-pregnant-woman-stabbed-men-in-barcelona-monastery-10715824/
 
-- Why did Blue Origin’s New Glenn rocket explode during a prelaunch test in Florida
-  
-  🔗 https://indianexpress.com/article/technology/science/why-did-blue-origins-new-glenn-rocket-explode-during-a-prelaunch-test-in-florida-10715816/
+- Lloyds turns to copper to cut iron ore reliance, targets $1.3 billion business over 5 years
+  The miner's Congo copper assets and Papua New Guinea ambitions are central to a strategy aimed at reducing reliance on a single commodity and geography. The business is expected to
+  🔗 https://www.livemint.com/companies/news/lloyds-turns-to-copper-to-cut-iron-ore-reliance-targets-1-3-billion-business-over-5-years-11779906019268.html
 
-- DuckDuckGo installs jump 30% amid backlash over Google AI Search
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/duckduckgo-installs-jump-30-amid-backlash-over-google-ai-search-10715761/
+- SpaceX, OpenAI fundraising sparks investor hunt for Asia’s next AI winners beyond chipmaking giants
+  Firms involved in components, servers, packaging, connectivity and energy infrastructure could benefit from the next wave of AI spending. Fresh fundraising and potential IPOs by OpenAI, SpaceX and Anthrop
+  🔗 https://www.livemint.com/companies/news/spacex-openai-fundraising-sparks-investor-hunt-for-asia-s-next-ai-winners-beyond-chipmaking-giants-11780199679564.html
 
-- How a father’s solution to son’s Kannada homework became free keyboard app for 21 Indian languages
-  
-  🔗 https://indianexpress.com/article/technology/akshar-kannada-free-keyboard-ai4bharat-10715582/
-
-- Call of Duty: Modern Warfare 4 announced with Korean war storyline
-  
-  🔗 https://indianexpress.com/article/technology/gaming/call-of-duty-modern-warfare-4-announced-with-korean-war-storyline-10715566/
+- Amazon may be bigger, but Zomato's Deepinder Goyal says Blinkit has the edge in quick commerce- Here's why
+  Zomato founder Deepinder Goyal believes Blinkit has a better chance than Amazon of winning India’s quick-commerce battle. He highlighted Blinkit’
+  🔗 https://www.livemint.com/companies/people/amazon-may-be-bigger-but-zomatos-deepinder-goyal-says-blinkit-has-the-edge-in-quick-commerce-heres-why-11780195569320.html
 
 - Google techie bet $2.7 million on Polymarket with company secrets, won $1.2 million, then FBI caught him
   Michele Spagnuolo, 36, spent a decade earning awards and speaking invitations for his cybersecurity work at Google. Prosecutors now allege he used nonpublic data about the world's most-sear
@@ -48,113 +60,25 @@
   SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build artificial intelligence data
   🔗 https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html
 
-- Dell shares surge 33% after AI server demand drives blockbuster revenue forecast
-  Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018. The outlook for annual sales that far surpassed expectations on demand for
-  🔗 https://www.livemint.com/companies/news/dell-shares-surge-33-after-ai-server-demand-drives-blockbuster-revenue-forecast-11780161897945.html
+- 9 Midcap stocks with massive upside potential of up to 45%! Do you own any?
+  Several mid-cap companies across sectors such as e-commerce, real estate, FMCG and infrastructure are attracting Buy and Strong Buy ratings. Nifty Mid-Cap 100 stocks are showing strong upside potential, with analyst consensus estimates
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-midcap-stocks-with-massive-upside-potential-of-up-to-45-do-you-own-any/slideshow/131420463.cms
 
-- Airbnb leases 46,000 sq ft for GCC in DLF Cyber City Gurugram
-  Airbnb will pay a monthly rent of around  ₹61.
-  🔗 https://www.livemint.com/companies/news/airbnb-gcc-india-dlf-cyber-city-gurugram-global-capability-centers-11780120469220.html
+- FPIs' outflow nears Rs 33,000 crore in May on weaker rupee
+  Foreign investors pulled out a record Rs 1.17 lakh crore in March. The selling continued in April with net outflows of Rs 60,847 crore and extended into May
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fpis-outflow-nears-rs-33000-crore-in-may-on-weaker-rupee/articleshow/131419774.cms
 
-- If coding becomes automated, why are we needed at all? Infosys chairman Nilekani answers
-  Nilekani's comments come on the back of new rollouts by AI
-  🔗 https://www.livemint.com/companies/if-coding-becomes-automated-then-why-are-we-needed-at-all-infosys-chairman-nandan-nilekani-answers-11780107973704.html
+- SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners
+  Investors are shifting focus to Asian supply chain companies. The move aims to capitalize on anticipated increased technology spending. This could fuel a new rally in Asian stock markets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners/articleshow/131419620.cms
 
-- RBI MPC meeting to US-Iran war: Top five triggers that may dictate the Indian stock market this week
-  On Friday, Sensex was down 1,092 points, or 1.44%, at 74,775.74. The Nifty 50 also ended weak, falling 359 points,  to settle at 23,547.75
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11780193371683.html
+- 14 penny stocks plunge up to 55% in 2 months. Are you affected?
+  Fourteen penny stocks have declined sharply over the past two months, with losses of up to 55%. While such stocks attract investors seeking quick gains, weak liquidity, volatility and governance concerns make them highly vulnerable to sharp corrections
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-plunge-up-to-55-in-2-months-are-you-affected/slideshow/131419717.cms
 
-- There will be investing opportunities when the Strait of Hormuz Reopens. Think ETFs.
-  iShares MSCI China ETF and the iShares MICI China A-shares ETF
-  🔗 https://www.livemint.com/market/there-will-be-investing-opportunities-when-the-strait-of-hormuz-reopens-think-etfs-11780192226187.html
-
-- Claude-maker Anthropic halves list of unauthorised share trading platforms after investor concerns: Which firms remain?
-  Anthropic has revised its warning on unauthorised secondary-market trading. It has reduced the number of identified platforms from eight to four.
-  🔗 https://www.livemint.com/market/claudemaker-anthropic-halves-list-of-unauthorised-share-trading-platforms-after-investor-concerns-which-firms-remain-11780152356559.html
-
-- NSE extends F&amp;O trading window following new cash market closing auction – Check new timings
-  This window allows traders to hedge risk, rebalance portfolios, or close out positions
-  🔗 https://www.livemint.com/market/stock-market-news/nse-extends-f-o-trading-window-following-new-cash-market-closing-auction-check-new-timings-11780132430627.html
-
-- Bond market at a turning point! Axis Mutual Fund says bond investors should buy, not panic
-   Axis MF cautions that aggressive rate hikes won't address INR depreciation and may harm India's growth. They recommend a neutral-to-slightly long duration stance over three months
-  🔗 https://www.livemint.com/market/bonds/bond-market-at-a-turning-point-axis-mutual-fund-says-bond-investors-should-buy-not-panic-11780129169138.html
-
-- Free Mac Mini? Perplexity is sending Apple's desktop to some creators: Here's why
-  Perplexity is gifting Mac Mini computers to select creators to try out its new Personal Computer feature. The move comes amid rising demand for Mac Minis due to the
-  🔗 https://www.livemint.com/technology/tech-news/free-mac-mini-perplexity-is-sending-apples-desktop-to-some-creators-heres-why-11780187877593.html
-
-- AI chipmaker Nvidia set to enter PC market with first Windows computer in collaboration with Microsoft: Details
-   AI chipmaker Nvidia is set to make its official entry into the PC market. The launch is expected next week and could bolster Microsoft's AI PC ambitions.
-  🔗 https://www.livemint.com/technology/tech-news/ai-chipmaker-nvidia-set-to-enter-pc-market-with-first-windows-computer-in-collaboration-with-microsoft-details-11780154268740.html
-
-- The memory shortage is just beginning. The consumer pain is already here.
-  Memory prices for PCs, smartphones, and gaming consoles are spiking
-  🔗 https://www.livemint.com/technology/the-memory-shortage-is-just-beginning-the-consumer-pain-is-already-here-11780108589731.html
-
-- Tired of checking your phone constantly? These smartwatches handle calls and fitness better
-  Modern smartwatches combine Bluetooth calling, heart rate tracking, SpO2 monitoring and long battery life.
-  🔗 https://www.livemint.com/technology/gadgets/tired-of-checking-your-phone-constantly-these-smartwatches-handle-calls-and-fitness-better-11780031696545.html
-
-- Huawei bets on speed over shrinking transistors to sidestep US chip sanctions
-  Huawei bets on speed over shrinking transistors
-  🔗 https://www.livemint.com/technology/huawei-bets-on-speed-over-shrinking-transistors-to-sidestep-us-chip-sanctions-11780026125949.html
-
-- NSE extends market closing timing for F&O from August 3 - Moneycontrol.com
-  NSE extends market closing timing for F
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXc1cDZDTmJ3MnE1cjBSRFdhdmJwNzRwVkdoOF9YTGltRmhONFQ5eGFwZ2tKaHZicTFkeGdYczd2Mm8yaHIzZFJhVk5PNW5XSzZXTEV6R1pRMnQ0czI2M0xxUVVheGhYc0tKTlR1X2U4c01MalpaUGZCY2VKYkRCSEdOWjB5cUlqSEI4WTBmcGstNGhJZHVyM3lVWENRbXE5ZnRFZUNUNEEyNGJMYzh5R1FrU0tYbTBpQlVaYtIBwgFBVV95cUxQS3VaeGp5TXhxUjNqWFJuMGNUWHc0MUVjWHpxUm5RMjVnZFZCNm4yTWowbTJoWXlCOUMzd2hPOHhFN0s3NGhjX3RTQThiVHQ3TnV1cWI0Wm0zQWZqNWxVUnNZdFh6RU45LUQ1UUhkeFpvZl9nenY4bzdaNHFVS0hXSE1Ta0tMSl9xQkNBZ0hPM2o3N1hPeXpoZDFIcDlCbmZFR0pFSURhOGR5MWVaazdmQ3gyZS1pNUxOOGdLRXJBcExmUQ?oc=5
-
-- The next wealth boom: Emerging markets to add $12 trillion by 2030 - Euronews
-  The next wealth boom: Emerging markets to add $
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHZZQlp2OHNGZ2dhN0ttZ0VrWFhQeGlXWkpJczl2dW4yT0ZWQm05bDVnX0NaSERQTEp6bnk1MzRuMXRzRGx1dW9lTzd4NHh2OUdRLXNDay16dVh6VDJDck9OS3l5WmhxbUVFUEdWNGw0YTlpQmEySnhKVUFzMFhFN2RFdHR2U0NDM0I1bE0wS1NGNjdpUkNaLUlmQmM5VVduTnJLYmN2bzhlOEtpMWc?oc=5
-
-- Malls, e-commerce hit school accessories market hard - The Hindu
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3V5QmFncHNOLWtHMTJKSGFOaHJnN3llVDF3R1dSUWhBS1pWNXJhRVVjMGxrU2hiVk9tMG5aUXh0LUNoWGMxOXZVcklyTmpmV2lRQmYxb0FRY2IyTGZRYTFJNHFvLVlkU25SXzBFdVFVYTdhWXdwcjYxOWI5WE1PSlgwQzJaQ0JGcktCLWx0TVdQTDVfdFJQbms0RWtIYjBhejVYZExJVHc1UzBRVTRXc0h2RXJtNlJ50gG_AUFVX3lxTE5hOU0yY2FHZnVyZC1PdmtrZDR4NEt3R3dXUUVJLW52dVlCRWZVNURNdVY0a2xsRDVsbDNIU2ZFemNER18wajFGcWVObGoxbXdFOVQ5M0Eyc214WUVzS0c2SDdFb0UtZnVHWGdLRV9RNnVDcnFadXAyN2ZmRjk1Uko4XzQwdDdwRFA3cnREOVNLVlBnYzRiWnVJRUMweXFpOFVnTlUteUlKb005bHM4cmFOclo1X0wtRjJMVktBSDB3?oc=5
-
-- South Korea's Kospi, Japan's Topix hit record highs as investors shrug off Iran tensions - CNBC
-  South Korea's Kospi, Japan's Topix hit
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXNyWkU4QUtBZXdDM09uYk9HNkpybXhreHluWXp5dmIzbG5KaC1DVEhXbFhaTHRnQmNLdzMyay1fMTBwcG5mMGJjUDd2TGVDeHR1Sk1VWS1FQ3V3ZFhrdU5WUFRXRVZLTE1pX0FkMjF2SExSRmI5aE1GWlpkWFhZY3RWYkFROXhicE51aGZFOWdZQ2Y0RnpoZzk4NFVVLVVCMFY2dW81RE1Jc1FUX2hBWHRDTlVtUzZRVUHSAb8BQVVfeXFMTVRPZmE0SnlkYTU0T3NIbHhQM2E3dUFJeGp3dVJsSENFS2tNN2ZxYnNkd0R2dVJ1aWpBRHRMR25zZk91a2kwMmFKQmhtOVVscFdnMjFQT2dZMlF1VmZvWXF6bHVzZF81VEVyU2tqMjRSakxOQWctYUJyOUt3aXBSVDZCYVI1UEZtTjJaNzRVWFNOYkZXMXhKUzJNc3UtR3JoT3BLcnduZWtkTnRnVnF1R1BtdjNBSk1pNC1wQkRWeTQ?oc=5
-
-- Markets News, May 29, 2026: Indexes Close at Records as Dell Leads Tech Gains; S&P 500 Rises for 9th Straight Week - Investopedia
-  The S&amp;P 500 Rises for 9th Straight Week.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzZnaFhDMTQ1NC16RmxmajBpaEFCRUhRSGNGSGxyU1UwS2ZQUTVnT2ItN0tiM3hsTDhkOTlHUGlPb0FCY2czMy1LZGd6NnA4YlRDUVlmRWtJRHo1ZG9RQ2RmWU1qaEZRLXFNQUpTdF9vMEtKbVFSUU9MeWNzUEdKRFFwSVF6UDhwZDM5WGs1cTY?oc=5
-
-- Jupiter Wagons Q4 Results: Cons PAT tumbles 72% to Rs 29 crore, revenue falls 25% YoY
-  Jupiter Wagons saw its net profit drop 72% to Rs 29 crore in the March quarter. The company's EBITDA declined 46%. For the full year, profit after tax decreased 56%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/jupiter-wagons-q4-results-cons-pat-tumbles-72-to-rs-29-crore-revenue-falls-25-yoy/articleshow/131409045.cms
-
-- F&amp;O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks
-  Sensex and Nifty drop over 1%, driven by passive fund flows from MSCI index reshuffles. Volatility surged as the market lost Rs 6 lakh crore in capitalization. Analysts suggest caution amid indec
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-may-stay-range-bound-sudeep-shah-sees-opportunities-in-banks-it-picks-7-stocks/articleshow/131406954.cms
-
-- Triveni Engineering Q4 profit falls to Rs 167.4 crore; FY26 profit rises 12.8%
-  Triveni Engineering &amp; Industries reported a consolidated net profit of Rs 167.4 crore for Q4 FY26. For the full FY26, revenue grew 11.9% to Rs 7,620.9 crore and net
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/triveni-engineering-q4-profit-falls-to-rs-167-4-crore-fy26-profit-rises-12-8/articleshow/131407258.cms
-
-- Zara's India FY26 profit falls 32% to Rs 204 crore; revenue slips
-  Zara's India profit saw a significant 31.9% drop to Rs 204.14 crore in FY26. Trent Ltd reduced its stake in the joint venture operating Zara stores in India.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/zaras-india-fy26-profit-falls-32-pc-to-rs-204-cr-revenue-slips/articleshow/131407207.cms
-
-- Shalibhadra Finance eyes Rs 500 crore AUM as FY26 profit climbs 22%
-  Shalibhadra Finance is set for major expansion. The company aims to more than double its loan book by FY29. This growth will be fueled by new products like Micro LAP and home loans.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/shalibhadra-finance-eyes-rs-500-crore-aum-as-fy26-profit-climbs-22/articleshow/131407133.cms
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
-
-- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
-  Myanmar’s President U Min Aung Hlaing
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
-
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
+- Midcaps in a sweet spot? Why Nippon India’s Rupesh Patel sees a valuation correction despite new index peaks
+  Nippon India Mutual Fund's Rupesh Patel remains constructive on midcaps despite concerns over valuations. He favours financials, consumer discretionary and select industrials.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcaps-in-a-sweet-spot-why-nippon-indias-rupesh-patel-sees-a-valuation-correction-despite-new-index-peaks/articleshow/131419336.cms
 
 - Census: How stamps and postcards helped India count its people - BBC
   Census: How stamps and postcards
@@ -164,37 +88,17 @@
   How Indian PM Modi’s efforts
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- India's image was ‘stuck with Gandhi ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’ | India News - Hindustan Times
+  India's image was ‘stuck with Gandhi ji’: Tourism minister says PM
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxObGpEbDhhSTdpNWVNblZQdFlzVlFXMlY5ZXR0bWc1T3NDQ0R4eGRzeFhtcG9Cb0s3NWVGWl96N0FsbFBIdmhpT254bzg0b1p4ZTNyY3ktck1XVElVck82WGUzclRZcHk0MC1XWVRLS0NSaC13Qk5QejJ6LXg4Qlc0a1VSOV9MRDBsazZfZ1pxWnRKSExEd2duQjFfaVhNYTV4Uk1vckFJcUFDSWRxTlF2UU9Wakw1N25FR2YwcEZkRldHMWtSaElFQ2wtTEZCVE1rNmw2VS1jcW1CdUhUZkpMZWNwVVRGZUN4bUhsMTllQTJjVi0xb2ZmRkJQQ25xd0VFcXBtRGZmUdIBjAJBVV95cUxORkZkN3NHSDQ0WExiYUlmQ2lfem5WTWw3Rk9xWXNlMy1xc2w5cUFYZENYUnFRYXpnZFpOTE1GNlktZTlfeUpuVkwyMWFJT2hCQ0liRmFFcmZUQzluNkFJMWhLTWJKMF9ZcmJWRlBpZ2l3VHZLVHhMVWg0QzBIdklqUWU0WXBkRmh2d2lvUGRmMkNTc05JZndGcXhpM25Xdm0yZ3JKSjJMZDREZ2dNVWZicUtGZGJmQ3Vsc3M3NEZYNGk4T2dKbkdnX1h2Y1lLcnFzN0NEWUpUSVVzVHhZal9SNUU2NlBUeVdsQm50MHZrQnp0ZkY1cFl6RDNnQnlKY2s1QW12cU91OGVzMk9J?oc=5
 
-- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
-  Myanmar’s President U Min Aung Hlaing
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
+- From North India's 'aam panna' to 'panakam' in South India: PM Modi hails 'desi drinks' to beat the heatwave - theweek.in
+  The week's top stories on the Indian heatwave.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnk2bTJvd1hncWFxQ3lzM1hQc1F6V1hoOFVuVHNJRVhpc1B6Z0pqQlAyWGFPc1V0NTg3eUJaQnNFSFZOaU8xTjNhcTVXT01QNjhoU2dhcm9TWWFycVhjRlhOejZQdjl3MnZ2U2tLNlJOWGV4YUltdkp1azcwRXF3QTRsSEQwRVZ2V2RGSlY4M2hXVy1PRDBTYmVROEJOZjZOTmJ0em5Pa2hzWnRNSlU5WDZWVEttSzZYTXQtLXJPSWRhRVlUMndHbm9oMTA4dHg1bklEQW1JQmNpby1xZXpIVy1kc0TSAeoBQVVfeXFMUEVfWjN2XzhrYllOcUdISzFxOWFKUEtFM1dNNmxfeUtxMnhRRkR0clVJSHNMTkRMUGxoWGZJQmdMcExaNW9EOWx0RXBtUk1XeVZrdXBaUzA3Mk1EM2xXcmNULVBBeWtmd082U3dzeTRRYVlWSS1nSXFLTm0yeUNacHpyZ0xac293NkFpWFd5elhGUG9yd1pkZjJxTFNYMzhEeXo5SGJUUktfVjdwLTE5SHZNeTR2SDRVNnJoOVZiWFpGSzNudjNYYUI0Yjg1eWMxS29Yb2pFakt1ckdaRkptbnZoNUZiTmNud2t3?oc=5
 
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
-
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
-
-- How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’ - Al Jazeera
-  How Indian PM Modi’s efforts
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
-
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
-
-- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
-  Myanmar’s President U Min Aung Hlaing
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
-
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
+- 4 Dead In Delhi Building Collapse, Rescue Ops On For Over 16 Hours - NDTV
+  .com/news/features/2014/01
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTkzbnhpUjkxdEgxajZURTN0cjAzUVFXaElkcGt3UVpncXJMb1V3RjVSWEJ0RGd0YUxWcmJObVFQQThQRFJKWXVDUUtVSzFVQlFJSEx4QmlsU3lmd2ZjX2pZNV9wY0h6VTBpbndaclhMNDlteDNxSUlIX3dmUXZRTzZ0VDBYd3lvTlE1ZTZ4a0dFa0cyenU0OG01MTJXeWFmZGhvSjI1dlZkZ9IBsgFBVV95cUxQSHhockplVFNoazhiVjc5Mm5KWEpjMzJuRlQ1V1R3NTBKQTVyZ1ZRbHlnVHZpZlVkUkl0dDdISllkbnN0WkYxVEhjWVlERXJfeVlqdHEwaHZZZ09FcHozU0E0UFpvVG5zVnpIVHBRWlpFNzRodk90TGZaYnpaRkFaVFhxSE9nWGgzWWM2UGNMRE9GTU90NGw1VVdhYnhud1lwWTZjbWZGaGNQWklfU0wzWkFB?oc=5
 
 - Census: How stamps and postcards helped India count its people - BBC
   Census: How stamps and postcards
@@ -204,21 +108,37 @@
   How Indian PM Modi’s efforts
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE9ZMUZHQzRKQkU2Szc5STgxamNkOHkwR1hPX1liSXJkcEhHRWFFN1hVM2s3RGlJNkVSU3pUSlYzMkd2WmpJYzNYbnEwVzl3Z3lUY2llbGhRNFBLNzdhWDN5WWZwR1lDZXZXUjU5MTlicGNyWGtwb1psMlliSWV4UXJLVmdHUVl6Y1ZHdHJBRjdFRDlMTnB4bnJ5eGlkcFXSAaQBQVVfeXFMTUFFNzF4STVvbWdMdzhTTGU1QzM1WmZZbklacFkzY1lyaEVrT3ZHVFVuY05nenhRY0xablFqVVhkdmFZVlJYbDFnY004dmdtSjlrS0p1Z2J2UHdHLVU4blRaeHZUSGdvOEJmWjU2T2YxT2stSE82T0hhZHJ5NG1BUkx2WVJiZWZUR0lNd3JXSzRTX0Nfbm91aEdmS0VnV3pMZ2pfOUs?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- India's image was ‘stuck with Gandhi ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’ | India News - Hindustan Times
+  India's image was ‘stuck with Gandhi ji’: Tourism minister says PM
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxObGpEbDhhSTdpNWVNblZQdFlzVlFXMlY5ZXR0bWc1T3NDQ0R4eGRzeFhtcG9Cb0s3NWVGWl96N0FsbFBIdmhpT254bzg0b1p4ZTNyY3ktck1XVElVck82WGUzclRZcHk0MC1XWVRLS0NSaC13Qk5QejJ6LXg4Qlc0a1VSOV9MRDBsazZfZ1pxWnRKSExEd2duQjFfaVhNYTV4Uk1vckFJcUFDSWRxTlF2UU9Wakw1N25FR2YwcEZkRldHMWtSaElFQ2wtTEZCVE1rNmw2VS1jcW1CdUhUZkpMZWNwVVRGZUN4bUhsMTllQTJjVi0xb2ZmRkJQQ25xd0VFcXBtRGZmUdIBjAJBVV95cUxORkZkN3NHSDQ0WExiYUlmQ2lfem5WTWw3Rk9xWXNlMy1xc2w5cUFYZENYUnFRYXpnZFpOTE1GNlktZTlfeUpuVkwyMWFJT2hCQ0liRmFFcmZUQzluNkFJMWhLTWJKMF9ZcmJWRlBpZ2l3VHZLVHhMVWg0QzBIdklqUWU0WXBkRmh2d2lvUGRmMkNTc05JZndGcXhpM25Xdm0yZ3JKSjJMZDREZ2dNVWZicUtGZGJmQ3Vsc3M3NEZYNGk4T2dKbkdnX1h2Y1lLcnFzN0NEWUpUSVVzVHhZal9SNUU2NlBUeVdsQm50MHZrQnp0ZkY1cFl6RDNnQnlKY2s1QW12cU91OGVzMk9J?oc=5
 
-- Myanmar’s President U Min Aung Hlaing arrives in New Delhi on 5 | Akashvani News - Newsonair
-  Myanmar’s President U Min Aung Hlaing
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWRpSUlud3dfX2h1dlREMnBsSWV1N2RZX0JFUUFxTnh2RVg5WkhoWktyV2lBTU5oVVFWeU93Q3hPck1wQW5jRWVCelMwM3plVDV2Slk5ZXZidEVoRFRjdlNPdXVnYW12ejZ5ajV4UlFFTWRkV283WG5FRDFlOERWMnJXT0wydjZIM3hzenZ3bnlwRlpWTXlKWDBjaV9Ldl9FYWc5YUxyU0hRVDNKdVhLWjI2Q0t6YmEwQVlmaHI1QlJWWlRXOUhhR1hjV3hjOFdRQ1ltcUMwNEdlZw?oc=5
+- From North India's 'aam panna' to 'panakam' in South India: PM Modi hails 'desi drinks' to beat the heatwave - theweek.in
+  The week's top stories on the Indian heatwave.
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYnk2bTJvd1hncWFxQ3lzM1hQc1F6V1hoOFVuVHNJRVhpc1B6Z0pqQlAyWGFPc1V0NTg3eUJaQnNFSFZOaU8xTjNhcTVXT01QNjhoU2dhcm9TWWFycVhjRlhOejZQdjl3MnZ2U2tLNlJOWGV4YUltdkp1azcwRXF3QTRsSEQwRVZ2V2RGSlY4M2hXVy1PRDBTYmVROEJOZjZOTmJ0em5Pa2hzWnRNSlU5WDZWVEttSzZYTXQtLXJPSWRhRVlUMndHbm9oMTA4dHg1bklEQW1JQmNpby1xZXpIVy1kc0TSAeoBQVVfeXFMUEVfWjN2XzhrYllOcUdISzFxOWFKUEtFM1dNNmxfeUtxMnhRRkR0clVJSHNMTkRMUGxoWGZJQmdMcExaNW9EOWx0RXBtUk1XeVZrdXBaUzA3Mk1EM2xXcmNULVBBeWtmd082U3dzeTRRYVlWSS1nSXFLTm0yeUNacHpyZ0xac293NkFpWFd5elhGUG9yd1pkZjJxTFNYMzhEeXo5SGJUUktfVjdwLTE5SHZNeTR2SDRVNnJoOVZiWFpGSzNudjNYYUI0Yjg1eWMxS29Yb2pFakt1ckdaRkptbnZoNUZiTmNud2t3?oc=5
 
-- Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor: Defence Minister Rajnath Singh - Newsonair
-  Indian Navy forced Pakistan Navy to remain confined to its ports during Operation Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEFKOTB2MGU3RWQ4SmRIcjVyaEw2d29uSU5xM1VSU2FPS3lINW42NE1lSExLOFRqMUtIUnAxUmVBZjRzYUxrZFRHdzg5NF81M1psazJ6cXFDaTUwREZFLVBRSkVhTzRaMVFHWE5jTk1fVlR2a1A4bHg3d1VWYjdYN1NWVVVTSEtpaW1maDUxSWY0a0ZDQS0tRFVHYmtRMkdfUV80MkFMS1pBakVhemJhNG4xZDdKY01QT29sOW5acVNvclc1b2c1UHdmU1hIUi1RUFVWSVc4dnBtZGdWOFRn?oc=5
+- 4 Dead In Delhi Building Collapse, Rescue Ops On For Over 16 Hours - NDTV
+  .com/news/features/2014/01
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTkzbnhpUjkxdEgxajZURTN0cjAzUVFXaElkcGt3UVpncXJMb1V3RjVSWEJ0RGd0YUxWcmJObVFQQThQRFJKWXVDUUtVSzFVQlFJSEx4QmlsU3lmd2ZjX2pZNV9wY0h6VTBpbndaclhMNDlteDNxSUlIX3dmUXZRTzZ0VDBYd3lvTlE1ZTZ4a0dFa0cyenU0OG01MTJXeWFmZGhvSjI1dlZkZ9IBsgFBVV95cUxQSHhockplVFNoazhiVjc5Mm5KWEpjMzJuRlQ1V1R3NTBKQTVyZ1ZRbHlnVHZpZlVkUkl0dDdISllkbnN0WkYxVEhjWVlERXJfeVlqdHEwaHZZZ09FcHozU0E0UFpvVG5zVnpIVHBRWlpFNzRodk90TGZaYnpaRkFaVFhxSE9nWGgzWWM2UGNMRE9GTU90NGw1VVdhYnhud1lwWTZjbWZGaGNQWklfU0wzWkFB?oc=5
 
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
 
-_Last updated: 2026-05-31 02:57:33 UTC_
+_Last updated: 2026-05-31 08:41:18 UTC_
