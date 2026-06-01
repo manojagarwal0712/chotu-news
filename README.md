@@ -20,6 +20,10 @@
   
   🔗 https://indianexpress.com/article/india/great-nicobar-project-clearances-bhupender-yadav-jairam-ramesh-10718331/
 
+- ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/asus-rog-edition-20-computex-2026-10719052/
+
 - ‘When you’re the only brand, customers buy you’: ASUS’s push into India’s heartland
   
   🔗 https://indianexpress.com/article/technology/asus-india-growth-strategy-computex-10718982/
@@ -36,29 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-bernard-arnault-10-richest-billionaires-2026-10718537/
 
-- Nvidia enters Windows AI PC race with new RTX Spark chip: All major announcements at Computex 2026
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-windows-ai-pc-key-announcements-computex-2026-10718349/
+- GE Vernova loses renewed bid to end work on New England wind farm
+  GE Vernova loses renewed bid to end work on
+  🔗 https://www.livemint.com/companies/ge-vernova-loses-renewed-bid-to-end-work-on-new-england-wind-farm-11780347775821.html
+
+- Report: Scott Pelley of 60 Minutes accuses CBS News head Bari Weiss of murdering the show
+  Scott Pelley of '60 Minutes' accuses CBS News
+  🔗 https://www.livemint.com/companies/report-scott-pelley-of-60-minutes-accuses-cbs-news-head-bari-weiss-of-murdering-the-show-11780347587551.html
+
+- For Goldman’s Top Bankers, It’s All AI Data Centers All the Time
+  For leveraged finance practitioners, artificial intelligence is the only game in town. In the absence of more debt
+  🔗 https://www.livemint.com/companies/for-goldman-s-top-bankers-it-s-all-ai-data-centers-all-the-time-11780340852398.html
+
+- Govt to sell up to 6 pc in NHPC; OFS opens on Tuesday
+  The government plans to sell up to 6% stake in NHPC at  ₹71 per share starting Tuesday. The offer includes a 3% base and an additional 3
+  🔗 https://www.livemint.com/companies/news/govt-to-sell-up-to-6-pc-in-nhpc-ofs-opens-on-tuesday-11780335457307.html
 
 - Airtel’s priority plan may not be in breach of net-neutrality norms: officials
   The Telecom Regulatory Authority of India (Trai) will continue to scrutinize whether the same affects the service quality for non
   🔗 https://www.livemint.com/companies/news/airtels-priority-plan-may-not-be-in-breach-of-net-neutrality-norms-officials-11780326393488.html
 
-- AI giant Anthropic confidentially files IPO papers with SEC amid AI frenzy
-  Anthropic has confidentially filed for a US IPO. The company has not revealed share details or terms of the offering
-  🔗 https://www.livemint.com/companies/news/ai-giant-anthropic-confidentially-files-for-us-ipo-as-investors-bet-big-on-ai-future-11780330824706.html
+- Dollar higher as markets parse fragile Middle East peace talks
+  Dollar higher as markets
+  🔗 https://www.livemint.com/market/dollar-higher-as-markets-parse-fragile-middle-east-peace-talks-11780343544849.html
 
-- Maruti goes slow on EV capacity expansion as cost-effective CNG booms amid war-triggered inflation
-  Maruti Suzuki announces a focus on CNG vehicles following high demand, delaying its EV production ramp-up to September. With CNG prices rising slower than petrol, its
-  🔗 https://www.livemint.com/companies/maruti-ev-capacity-expansion-cng-bookings-tata-motors-11780316042461.html
+- US yields higher as uncertainty surrounds Iran talks
+  TREASURIES-
+  🔗 https://www.livemint.com/market/us-yields-higher-as-uncertainty-surrounds-iran-talks-11780342625929.html
 
-- Wipro to buy additional 20% stake in Aggne Global in a $28.5 million deal
-  Wipro Ltd's subsidiary, Wipro IT Services, LLC, will acquire an additional 20% stake in Aggne Global Inc for $28.5
-  🔗 https://www.livemint.com/companies/news/wipro-to-buy-additional-20-stake-in-aggne-global-in-a-28-5-million-deal-11780319289598.html
-
-- Centre plans monsoon push for capital markets, housing finance reforms
-  The Central government aims to pass the new Securities Market Code during the upcoming monsoon session of Parliament. The code consolidates three existing laws and emphasizes investor protection and
-  🔗 https://www.livemint.com/companies/news/centre-securities-market-code-new-regulatory-framework-monsoon-session-more-reforms-sebi-11780290049156.html
+- Wall St flutters higher amid tech gains, Middle East developments
+  Wall St flutters higher amid tech gains
+  🔗 https://www.livemint.com/market/wall-st-flutters-higher-amid-tech-gains-middle-east-developments-11780339379077.html
 
 - Oil surges over 8% as fresh Middle East tensions revive supply fears; Brent tops $98 per barrel
   Brent crude futures gain $6.67 to $97.79 per barrel. WTI surged over 8% to above $
@@ -68,17 +80,53 @@
   OLA Electric Mobility received board and shareholder approvals for a qualified institutional placement of equity shares.
   🔗 https://www.livemint.com/market/stock-market-news/ola-electric-launches-qip-fixes-floor-price-at-rs-37-74-per-share-check-details-11780319201969.html
 
-- US stock market today: Nasdaq, S&amp;P 500 gain as AI optimism offsets Middle East worries
-  US stock futures rose ahead of Monday's trade, continuing the momentum from May. Analysts suggest geopolitical tensions are easing, with a focus on upcoming macroeconomic data.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-gain-as-ai-optimism-offsets-middle-east-worries-11780314368021.html
+- Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT
+  Florida sues OpenAI and CEO Sam Alt
+  🔗 https://www.livemint.com/technology/florida-sues-openai-and-ceo-sam-altman-claiming-company-concealed-serious-risks-of-chatgpt-11780340170155.html
 
-- Nifty IT jumps over 2.5% as strong US software earnings revive sector optimism
-  Domestic technology stocks saw significant gains on June 1. Strong US software earnings and improved sentiment boosted confidence. Persistent Systems led with a 4% increase, while the Nifty IT index closed
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-it-jumps-over-2-5-as-strong-us-software-earnings-revive-sector-optimism-11780313094276.html
+- These are the laptop price drops that actually caught our attention
+  Price cuts on select laptops are making premium features like OLED displays, AI capabilities and long battery life
+  🔗 https://www.livemint.com/technology/gadgets/these-are-the-laptop-price-drops-that-actually-caught-our-attention-11780311567917.html
 
-- Multibagger small-cap stock surges 19% to 52-week high despite stock market crash; here's why
-  Vaxfab Enterprises soared 19% to  ₹60, a 52-week high, after reporting a 67.7% increase in FY26 income to
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-surges-19-to-52-week-high-despite-stock-market-crash-heres-why-11780306951370.html
+- How iOS 28 is already shaping up to be a much bigger iPhone update than the iOS 27, report reveals
+  Apple is developing iOS 28, expected to be significant
+  🔗 https://www.livemint.com/technology/tech-news/how-ios-28-is-already-shaping-up-to-be-a-much-bigger-iphone-update-than-the-ios-27-report-reveals-11780302684982.html
+
+- Iranian hackers are weaponising ChatGPT and Gemini for cyberattacks on the US and Israel: Report
+  Iranian hackers are leveraging AI models like ChatGPT and Gemini to enhance
+  🔗 https://www.livemint.com/technology/tech-news/iranian-are-weaponizing-chatgpt-and-gemini-for-cyberattacks-on-the-us-and-israel-report-11780298030760.html
+
+- How a Bengaluru techie's attempt to help with Kannada homework led to a keyboard app for 21 Indian languages
+  Bengaluru based developer Krishna Permi has created a keyboard app for iPhone that runs entirely
+  🔗 https://www.livemint.com/technology/akshar-app-how-a-fathers-attempt-to-help-with-kannada-homework-led-to-a-keyboard-app-for-21-indian-languages-11780295341667.html
+
+- S&P 500 closes at a record to kick off June trading as tech rally overpowers oil spike: Live updates - CNBC
+  S&amp;P 500 closes at a record to kick off June trading as tech
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9xcTVySExtb2NYek9nMERwZGlpSlJYeUxjWjA1dl9RRFNCRXdacmFzNldUelo4bXY0SWtfTlRGeVpfNnNmNGpJUHA2YUpfVGU4ZWsyamlBcXdlU3BPSFdzTk13ZXJGck1fbUZodTc0eWYyLWRBVllV0gF8QVVfeXFMT1JMM3dRdXVwOHZoak15V3J3cEpRdHNQQ2FzRFBxTUxfM3pqYW5WdUNXVWtVSXFsQ0xFbXZlcWJ1SWFLcXNiUVdIUG5yWUdnREl2SDBFM09LU052cHU3R0E4R2NQY3BXTktudHlkYld6TlFNX19sTDFuOERoWQ?oc=5
+
+- Stock Market Today: Dow Slips, Oil Surges Above $97 a Barrel; Nvidia Fuels AI Enthusiasm — Live Updates - WSJ
+  The WSJ reports that Nvidia is developing an artificial intelligence system. The tech giant
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1FNNWdCWmZGUWhqV3gyMzZxUXBzSlBQdjRFUUhNSGZqcFBvSUpSYnkxclVnT29ZVnluU0R5RTItTTNxVmNRSWs5UmdWRFdVVEoxaTJpSHRIWVNjVk9nbldsRENRZXRYQ3VqOVdSb0RDNS01a1lLVUFQT1JrYmxDNVBRTENfUkE?oc=5
+
+- Markets News, June 1, 2026: Indexes Start Month With Fresh Record Highs as Nvidia-Driven Tech Gains Outweigh Surging Oil Prices - Investopedia
+  Investopedia.com is a leading source of information on the global stock market. The
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlzTGtuZlRwdWh0YmRfU0hNdE1WOFRYM0ZBZjEyNTdHelNzdG91aTVhWWhvYjJEQjdtZE1JVnhtaXljUHF2a1BCSUlUTW04YW4zTHhaOGtneldNNUNQci1QRUpOUm5wdXlYSm1zTHY2aExGV3I0TUZkNFRwbDdLeE9DbkJRQTIyUlNxMHZOSW8?oc=5
+
+- Oil Jumps on Report Iran to Halt Exchanges With US: Markets Wrap - Bloomberg.com
+  Oil Jumps on Report Iran to Halt Ex
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTRyZlk2WnNoRE5nWVhocmhuZjdVUHdNalBMRFI5cFRVU2FGYndFdVhUazE0cnlGSnV0WW5JQlkwVmhWVTYzLU9RMWxLZEhjanE5YXNPVkU1SFBpV3I5UFNqYXhySWsySFRua19BeHgxNE5rcUpkSEdEWjRVTmlZT1l4RXNGYW9vYVEwMVdUSDRVblQxMXYxdDltY2xjUHVpcTBVcGJadkp1NFZIZFEydw?oc=5
+
+- After 'May-hem' On D-Street, Why June Could Be A Turning Point For Markets - NDTV
+  After 'May-hem' On D-Street,
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOb1FWazNFQ1I5M3hsTjRSSFo0bXhVM0M1QTJnYmkxZFBnUUFZRWswenpRQ0l2NlEtR2VYSG1iUU9GMVdnaW5OTlE1SlcxVXV0R0d1ZDVKNGhFSy0tLWhnMldaUkRjak5OdjdHYldRNEF4Vk4yVEJLYUs1cEFTZ1dsQTd1eGxvMkl0MUFtVVJnanl3RXZxZFFIbnY5SjFVTWFZU3d5TENGQ01ySnYxd3ZwdFc0Z0xvUFV1SXZhbnY1Nl9rcVlOTTVyQXVB0gHSAUFVX3lxTE03QXB5czlmUm9kTkhjNnFnRzdKT3ZnUTB4Zjhzck51cVhPLU9KZ21hVnBDa2pkcDRya3lmTkRocVBHcjVlWXRhakdXdjFaeC1Vb0FVSllqSWJ2TFZPQThwNEF2c0FLT2tUV1pkRkhOZ2JQVThUc0poSi1IWTZvQ1NDTGZ0bzZyOGZHaUQzRnVmM291eXdEREJ1d1VMNE9iejFpTnh1XzRZeldBeVlnTWtQVjF0ZHVXSzgxWU9fZGVobTZ2NDZnNjBIUFIwclVfWXlNZw?oc=5
+
+- US stocks today: US stocks end higher, boosted by tech gains, US-Iran peace hopes
+  US stocks closed higher as AI-driven tech rally lifted the Nasdaq and S&amp;P 500 to fresh record highs. Nvidia gained after unveiling a new chip bringing AI capabilities to laptops, while Micron crossed $
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-boosted-by-tech-gains-us-iran-peace-hopes/articleshow/131450016.cms
+
+- SpaceX reserves up to 5% of IPO stock for staff and friends
+  SpaceX has reserved up to 5% of its upcoming IPO shares for employees and friends of executives. The filing also highlights Nvidia chip-powered AI compute deals, water scarcity risks, and valuation targets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms
 
 - AI giant Anthropic confidentially files for US IPO
   Anthropic confidentially files for a US IPO. Move highlights strong investor interest in artificial intelligence firms after rapid valuation gains.
@@ -92,53 +140,53 @@
   Indian benchmark indices extended losses for a fourth straight session. FII selling and geopolitical concerns hurt sentiment. Amid the weakness, analysts recommend NMDC and Laurus Labs.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-nmdc-among-two-stock-recommendations-for-tuesday/articleshow/131445838.cms
 
-- JetBlue flags higher fuel costs as Iran conflict drags on
-  Fuel price volatility has prompted airlines across the globe to hike passenger fares and baggage fees. Airlines are also cutting flight frequency and routes to limit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/jetblue-flags-higher-fuel-costs-as-iran-conflict-drags-on/articleshow/131444757.cms
-
-- Ola Electric launches QIP to raise funds, sets floor price at Rs 37.74 a share
-  Ola Electric Mobility has launched its qualified institutional placement (QIP) and set a floor price of Rs 37.74 per share. The company may offer up to a 5% discount.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-launches-qip-to-raise-funds-sets-floor-price-at-rs-37-74-a-share/articleshow/131444795.cms
+- 'Not only India': Nepal PM's ‘encroachment’ remark on Lipulekh Pass dispute ignites controversy at home | India News - Hindustan Times
+  'Not only India': Nepal PM's ‘encroachment’ remark on
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVFNNYjBSMnFxSWd6NVdrbjhRUE1qa0tsZDhGbDJCM2NMNlBhSjlaMDFtNDI1QjJMbFBueWxfLVVWT25ES2t1TExGUXlNOG4zQlpwZjRHSi1KbVJVYzE4NG5jQmpjLTJuLU56SHZva2I4SHJTNWplQU10eFA3UGdJeFFPNkFnRGFCNmxKbGllVmxuQTJuUnRKVDRleTJwbTZZTEZmRkd3VkJvM3pSMEJTVlk5Q2VaejhqNERMYkkwYUIxdVFtajlsLU9wZXZnT0RpY0J0dWR1WEZxSVdLR2Y2dU5mNlZnTkN2c3pscTJoa29KZ9IB9wFBVV95cUxQSGNMVmQzZ1NzQmlMYmFjMmdZUW1MUFBmWlJ4dEVhaEtxQUU0Z3FhcURpdEVlMEt3c1g1TFhTRGtGandsWnlWTU9KUS1HU18tc04wVTJwRl9kd0Fwa1A1WklkeGRuSUw4cmpZck14dGVwbnA0Z2RTV015elpVTnhJSXl1bTI3bi1mYnplQ1V0T0pRdFpjT092U3RsaHJ0WV9nS196SUZmNnlIVzM4M0ZaVVJSSDdKM1E0ZVQzWE5Da3NPU0Z1UXJ6dkM0dTZHRDlWME4zcnhSVXJYbXZsaEl2RlBhYy1tMnQzZ1p6ak5YTlNXSnBscklJ?oc=5
 
 - Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
   Nepal PM Balen Shah's India-
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
 
-- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
-  India-US trade deal: First tranche set to be signed soon as 'all major
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
+  Nepal PM Balendra Shah's 'encroaching' India remark sparks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
-- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
-  Indian PM Modi meets Myanmar military gov’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
-
-- India secure 19 medals, finish runner-up at Asian U-20 Athletics Championships in Hong Kong - News On AIR
-  India secure 19 medals, finish runner-up at Asian U-20
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOSndaeW1HZEhqWWVQUzk3WEFaYjhFT3A0VEp5MTVVRG1MT1gtUk9udVlRQUpiQUZWVGFGMU9WSzc0ZFFPajQ4cHdDRENiSW0wT2F3T2s1RUItT3c4d3NPMWE4SWREUUpBekZmaGJnZDdsUzRjRW5XMlpfbnQ2Z05BUnp4Z3hMV1ZTZ2ZNU3pNem5DeFRfMVZXdTJCTy01VTBUT1hycm9OalVaT2cyeUFEZU5melc5Z3M?oc=5
-
-- India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, 94 jets to be Made in India - ANI News
-  India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, 94 jets
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNbmRkblc0OFpVMTc2QTV5WThLd2N3aGo3Wk9YMVFRYnZNdXRuWHZtMG00ekJhaTh0UUJRVE5zNkg5UFA4NFMweDVaUzFuajhFRHlOUkJLQ2RMMmRhRFhlTG5acXRWY2gxbzlfWncxNnN3VER5N1pHSkxENFNvOHZlN1lxSFM5RC1waUF3Nzg0X0cxRWVBempoZmdsVWdKMkV5ZGp2eHc2MGNNc0NsSVc1dkd5d0g0MVRFZm83TmZxT0NNODg1V2JhaVoycGlhSGhsWlJVemhVa3J1VHI1UXdicGU4dS1xVWhYQWR3Vjg1N2tJa3dvYi1PMy1YYWR3V2JmM2N0VQ?oc=5
-
-- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
-  Nepal PM Balen Shah's India-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
+  How India-Oman Trade Pact Opens
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
 
 - India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
   India-US trade deal: First tranche set to be signed soon as 'all major
   🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
 
-- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
-  Indian PM Modi meets Myanmar military gov’
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- India secure 19 medals, finish runner-up at Asian U-20 Athletics Championships in Hong Kong - News On AIR
-  India secure 19 medals, finish runner-up at Asian U-20
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOSndaeW1HZEhqWWVQUzk3WEFaYjhFT3A0VEp5MTVVRG1MT1gtUk9udVlRQUpiQUZWVGFGMU9WSzc0ZFFPajQ4cHdDRENiSW0wT2F3T2s1RUItT3c4d3NPMWE4SWREUUpBekZmaGJnZDdsUzRjRW5XMlpfbnQ2Z05BUnp4Z3hMV1ZTZ2ZNU3pNem5DeFRfMVZXdTJCTy01VTBUT1hycm9OalVaT2cyeUFEZU5melc5Z3M?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, 94 jets to be Made in India - ANI News
-  India issues Letter of Request to France for Rs 3.25 lakh crore 114 Rafale jet deal, 94 jets
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNbmRkblc0OFpVMTc2QTV5WThLd2N3aGo3Wk9YMVFRYnZNdXRuWHZtMG00ekJhaTh0UUJRVE5zNkg5UFA4NFMweDVaUzFuajhFRHlOUkJLQ2RMMmRhRFhlTG5acXRWY2gxbzlfWncxNnN3VER5N1pHSkxENFNvOHZlN1lxSFM5RC1waUF3Nzg0X0cxRWVBempoZmdsVWdKMkV5ZGp2eHc2MGNNc0NsSVc1dkd5d0g0MVRFZm83TmZxT0NNODg1V2JhaVoycGlhSGhsWlJVemhVa3J1VHI1UXdicGU4dS1xVWhYQWR3Vjg1N2tJa3dvYi1PMy1YYWR3V2JmM2N0VQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-01 17:29:50 UTC_
+_Last updated: 2026-06-01 21:28:53 UTC_
