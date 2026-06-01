@@ -1,224 +1,224 @@
 # 📰 Daily News Summaries
 
-- Gujarat Titans team bus breaks down after IPL final as short circuit triggers smoke, players evacuated
+- Visakhapatnam vs Rayagada Division: How Waltair railway map has changed from June 1
   
-  🔗 https://indianexpress.com/article/india/gujarat-titans-bus-fire-short-circuit-ipl-final-evacuation-10717743/
+  🔗 https://indianexpress.com/article/india/visakhapatnam-vs-rayagada-division-how-waltair-railway-map-has-changed-from-june-1-10718207/
 
-- Pregnant Dalit woman’s death shocks Bokaro as coal collection dispute turns deadly
+- Great Nicobar Project: Bhupender Yadav rejects Jairam Ramesh’s charges, defends environmental clearance
   
-  🔗 https://indianexpress.com/article/india/pregnant-dalit-womans-death-shocks-bokaro-as-coal-collection-dispute-turns-deadly-10717530/
+  🔗 https://indianexpress.com/article/india/great-nicobar-project-clearances-bhupender-yadav-jairam-ramesh-10718331/
 
-- Noida engineer missing near Pindari Glacier: Camera found on riverbank after he told porter to go ahead
+- 80-kg dummy used to recreate Twisha Sharma’s final moments as CBI visits in-laws’ home
   
-  🔗 https://indianexpress.com/article/india/noida-engineer-missing-near-pindari-glacier-camera-found-on-riverbank-after-he-told-porter-to-go-ahead-10717529/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-death-case-cbi-recreate-final-moments-80kg-dummy-bhopal-10718329/
 
-- Probe links phone used by Pahalgam attackers to Pakistan bank under terror scanner
+- Cockroach party’s Abhijeet Dipke to return to India, demand Dharmendra Pradhan’s resignation
   
-  🔗 https://indianexpress.com/article/india/pahalgam-terror-attack-nia-probe-phone-pakistan-bank-link-10717534/
+  🔗 https://indianexpress.com/article/india/cjp-founder-abhijeet-dipke-to-return-to-india-on-june-6-launch-protest-seeking-dharmendra-pradhans-resignation-10717982/
 
-- A social media connection across LoC: How this ‘intruder’ from PoK found himself in Army custody in J-K
+- Monsoon advances further; heavy rain alert for Northeast, South this week
   
-  🔗 https://indianexpress.com/article/india/a-social-media-connection-across-loc-how-this-intruder-from-pok-found-himself-in-army-custody-in-j-k-10717528/
+  🔗 https://indianexpress.com/article/india/monsoon-rain-alert-northeast-south-west-india-10717799/
 
-- Spurred by his mother’s knee pain, this Hyderabad pharmacist built a wearable for chronic pain relief
+- From Elon Musk to Michael Dell: The world’s 10 richest tech billionaires in 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hyderabad-pharmacist-built-wearable-chronic-pain-10716939/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-bernard-arnault-10-richest-billionaires-2026-10718537/
 
-- ‘I’m cancelling’: As Microsoft’s GitHub Copilot moves to token-based billing, developers fear rising AI costs
+- Nvidia enters Windows AI PC race with new RTX Spark chip: All major announcements at Computex 2026
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/nvidia-windows-ai-pc-key-announcements-computex-2026-10718349/
 
-- Nvidia-powered Windows PCs to make debut at Computex 2026: Report
+- Apple’s much-awaited AI smart glasses delayed until 2027: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-windows-pcs-to-make-debut-computex-2026-report-10716539/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-ai-smart-glasses-delayed-report-10718060/
 
-- I tried to sell my house with a chatbot
+- Sarvam cuts Vision AI model API prices by 67% as document digitisation crosses 35 million pages
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/i-tried-to-sell-my-house-with-a-chatbot-10716477/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/sarvam-cuts-vision-ai-prices-document-digitisation-10717999/
 
-- Meta tool to track employee mouse clicks on collision course with EU privacy rules
+- Blue Origin faces months of delays after rocket explosion damages launch pad
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-tool-to-track-employee-mouse-clicks-on-collision-course-with-eu-privacy-rules-10716470/
+  🔗 https://indianexpress.com/article/technology/science/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad-10717873/
 
-- Adani’s little-known infra arm amasses  ₹50,000-cr orderbook, eyes acquisitions
-  The promoter-owned private company works with several leading engineering, procurement and construction (EPC) firms as a project
-  🔗 https://www.livemint.com/companies/news/adanis-little-known-infra-arm-amasses-50-000-cr-orderbook-eyes-acquisitions-11779892599875.html
+- Centre to seek passage of Securities Market Code for new regulatory framework; more reforms likely in monsoon session
+  The Central government aims to pass the new Securities Market Code during the upcoming monsoon session of Parliament. The code consolidates three existing laws and emphasizes investor protection and
+  🔗 https://www.livemint.com/companies/news/centre-securities-market-code-new-regulatory-framework-monsoon-session-more-reforms-sebi-11780290049156.html
 
-- Infosys is aging as young employees count lowest in 15 years
-  Infosys had 166,636 employees aged 30 and below, making up about 50.7% of its workforce. The share of young employees fell from 53% in the previous fiscal year.
-  🔗 https://www.livemint.com/companies/infosys-is-aging-as-young-employees-count-lowest-in-15-years-tcs-11780214646359.html
+- Timex bets on quick commerce and first-time buyers as India’s watch market shifts gears
+  Timex Group India targets the entry-level watch market under  ₹10,000. Despite a shift to luxury watches, the company sees the largest opportunities in
+  🔗 https://www.livemint.com/companies/news/timex-quick-commerce-first-time-buyers-india-watch-market-analogue-watches-11780286385049.html
 
-- Berkshire Hathaway's first post- Warren Buffett acquisition: Buys homebuilder Taylor Morrison for $8.5 billion
-  Berkshire Hathaway agrees to buy US homebuilder Taylor Morrison for $8.5 billion
-  🔗 https://www.livemint.com/companies/news/berkshire-hathaways-first-post-warren-buffett-acquisition-buys-homebuilder-taylor-morrison-for-8-5-billion-11780270627780.html
+- Leapfrog, IFC and NIIF eye  ₹400 crore minority stake in Marengo Asia Healthcare
+  Marengo will likely use the proceeds to fund its next level growth phase, including in
+  🔗 https://www.livemint.com/companies/news/leapfrog-ifc-niif-eye-rs-400-crore-minority-stake-in-marengo-asia-healthcare-11780282524079.html
 
-- In a likely sign of the times, RIL's new hires down by 90k in FY26
-  Reliance Industries' hiring in FY26 is likely to have been 90,000 lower, signalling a broader shift at large companies towards AI-led productivity, upskilling and leaner teams
-  🔗 https://www.livemint.com/companies/ril-hiring-hr-attrition-recruitment-ai-11780210285270.html
+- Cheaper AI could create more jobs, not fewer: Apollo's chief economist Torsten Sløk- What he means
+  Apollo Global Management's chief economist Torsten Sløk says there is ‘zero evidence’ that AI is causing job losses. OpenAI CEO Sam Altman has
+  🔗 https://www.livemint.com/companies/people/cheaper-ai-could-create-more-jobs-not-fewer-apollos-chief-economist-torsten-sl-k-what-he-means-11780287695871.html
 
-- Japan Is Stepping Up as Asia’s New Powerbroker
-  The US would have you believe it is showing leadership in Asia. Yet the
-  🔗 https://www.livemint.com/companies/japan-is-stepping-up-as-asia-s-new-powerbroker-11780254625768.html
+- Bill Gates was once world's most admired man. Now even Microsoft doesn't want him at its CEO summit: Report
+  Bill Gates reportedly snubbed Berkshire Hathaway's annual shareholder meeting and Microsoft's CEO summit.
+  🔗 https://www.livemint.com/companies/people/bill-gates-was-once-worlds-most-admired-man-now-even-microsoft-doesnt-want-him-at-its-ceo-summit-report-11780279450844.html
 
-- Stocks to buy for short term: JSW Energy among 3 stocks Anand Rathi's Jigar Patel recommends buying for next 1-2 weeks
-  Jigar Patel identifies three promising stocks for short-term investment. Discover their target prices and potential for growth in
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-jsw-energy-among-3-stocks-anand-rathis-jigar-patel-recommends-buying-for-next-1-2-weeks-11780128257951.html
+- Multibagger small-cap stock surges 19% to 52-week high despite stock market crash; here's why
+  Vaxfab Enterprises soared 19% to  ₹60, a 52-week high, after reporting a 67.7% increase in FY26 income to
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-surges-19-to-52-week-high-despite-stock-market-crash-heres-why-11780306951370.html
 
-- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 1 June 2026
-  Vaishali Parekh recommends three stocks to buy today
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-1-june-2026-11780277060339.html
+- Top Gainers &amp; Losers on June 1: PTC Industries, NMDC Steel, Saregama India, Welspun Living, among top gainers
+  The Indian stock market closed sharply lower on June 1, with the Nifty 50 and Sensex both down 0.74%. Selling pressure from foreign investors and weak global cues impacted FMCG
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-1-ptc-industries-nmdc-steel-saregama-india-welspun-living-jbm-auto-infosys-among-11780307315002.html
 
-- Raja Venkatraman, MarketSmith recommend five stocks for 1 June
-  Indian stocks fell sharply on May 29, erasing gains and dragging the Sensex down by over 1,000 points. As June begins, analysts suggest
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-1-june-11780277644949.html
+- Sensex crashes 500 points, extends losing run to 4th day; what drove the Indian stock market lower?
+  Lingering concerns like elevated crude prices and the lack of an outcome on the Middle East conflict drove the benchmark indices Sensex and Nifty 50 lower today.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-500-points-extends-losing-run-to-4th-day-what-drove-the-indian-stock-market-lower-11780308137176.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 June
-  Gift Nifty was trading around 23,726 level, a discount of nearly 22 points from the Nifty futures’ previous close. The trends on Gift Nifty
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-1-june-11780278076770.html
+- NMDC Steel shares jump 18% after Q4 profit turnaround; hits 20-month high
+   NMDC Steel shares surged 18% to  ₹52.60, hitting a 24-month high. The company reported a strong financial turnaround for Q4FY26,
+  🔗 https://www.livemint.com/market/stock-market-news/nmdc-steel-shares-jump-18-after-q4-profit-turnaround-hits-20-month-high-11780306730749.html
 
-- Stocks to watch: IndiGo, NMDC, PB Fintech among 10 shares in focus today; check list here
-  The market is likely to continue its losing streak as trends in the Gift Nifty index signalled a negative opening on Monday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-indigo-nmdc-pb-fintech-among-10-shares-in-focus-today-check-list-here-11780277360643.html
+- SMR Jewels IPO Day 4: Issue remains undersubscribed so far. Here's GMP, and other details
+  According to platforms tracking the unofficial market, the grey market premium (GMP) for the SMR Jewels IPO is currently nil. Based on the current GM
+  🔗 https://www.livemint.com/market/ipo/smr-jewels-ipo-day-4-issue-remains-undersubscribed-so-far-heres-gmp-and-other-details-11780303488504.html
 
-- Urban Indian youth consumes 120  minutes daily of social media; Female users dominate e-commerce attention: Report
-  Social Media usage among the young, mass-market urban India demographic aged 18-24 years averages more than 120 minutes per day.
-  🔗 https://www.livemint.com/technology/urban-indian-youth-consumes-120-minutes-daily-of-social-media-female-users-dominate-e-commerce-attention-report-11780284285538.html
+- How iOS 28 is already shaping up to be a much bigger iPhone update than the iOS 27, report reveals
+  Apple is developing iOS 28, expected to be significant
+  🔗 https://www.livemint.com/technology/tech-news/how-ios-28-is-already-shaping-up-to-be-a-much-bigger-iphone-update-than-the-ios-27-report-reveals-11780302684982.html
 
-- Apple smart glasses set to arrive in 2027 as company plans to disrupt $200 billion eyewear market: Report
-  The company is reportedly looking to replicate the success of the Apple Watch by competing against the eyewear giants. Apple is set to launch smart glasses by
-  🔗 https://www.livemint.com/technology/tech-news/apple-smart-glasses-set-to-arrive-in-2027-as-company-plans-to-disrupt-200-billion-eyewear-market-report-11780275015174.html
+- Iranian hackers are weaponising ChatGPT and Gemini for cyberattacks on the US and Israel: Report
+  Iranian hackers are leveraging AI models like ChatGPT and Gemini to enhance
+  🔗 https://www.livemint.com/technology/tech-news/iranian-are-weaponizing-chatgpt-and-gemini-for-cyberattacks-on-the-us-and-israel-report-11780298030760.html
 
-- iOS 27 release date: When will your iPhone actually get Apple's next-gen Siri AI upgrade
-  Apple will unveil iOS 27 during the Worldwide Developer Conference (WWDC) 2026 conference on 8th June
-  🔗 https://www.livemint.com/technology/tech-news/ios-27-release-date-when-will-your-iphone-actually-get-apples-next-gen-siri-ai-upgrade-11780208235630.html
+- How a father's attempt to help with Kannada homework led to a keyboard app for 21 Indian languages
+  Krishna Permi, an independent developer from Bengaluru, has created a keyboard app for iPhone.
+  🔗 https://www.livemint.com/technology/akshar-app-how-a-fathers-attempt-to-help-with-kannada-homework-led-to-a-keyboard-app-for-21-indian-languages-11780295341667.html
 
-- Xiaomi 17T price leaked ahead of June 4 India launch: What to expect?
-  Xiaomi will unveil the Xiaomi 17T in India on June 4. The phone is expected to feature a 6.59
-  🔗 https://www.livemint.com/technology/tech-news/xiaomi-17t-price-leaked-ahead-of-june-4-india-launch-what-to-expect-11780216691702.html
+- AI startup CEO Dan Shipper spent $13,000 on OpenAI Codex in a month, and isn't worried
+  CEO Dan Shipper says AI is becoming as essential to modern workplaces as laptops and employee benefits.
+  🔗 https://www.livemint.com/technology/ai-startup-ceo-dan-shipper-spent-13-000-on-openai-codex-in-a-month-and-isnt-worried-11780288562711.html
 
-- ‘Goodbye, Copilot’: Microsoft faces backlash as Github Copilot ends flat-rate AI pricing from June 1
-  Microsoft is changing GitHub Copilot's pricing from flat rate to
-  🔗 https://www.livemint.com/technology/tech-news/goodbye-copilot-microsoft-faces-backlash-as-github-copilot-ends-flat-rate-ai-pricing-from-june-1-11780213914806.html
+- Nvidia launches RTX Spark chip to power Windows PCs with 128GB memory and AI agents
+  N Nvidia's new Turing chip will enable Windows laptops to run AI agents locally. The chip features a 20-core Grace CPU and Blackwell RTX GPU, offering up to 1 petaflop of AI performance
+  🔗 https://www.livemint.com/technology/tech-news/nvidia-launches-rtx-spark-chip-to-power-windows-pcs-with-128gb-memory-and-ai-agents-11780290305551.html
 
-- Stock futures are flat in overnight trading as June trading begins near record highs: Live updates - CNBC
-  Stock futures are flat in overnight trading as June trading begins near record highs
+- Stock futures rise in overnight trading as June trading begins near record highs: Live updates - CNBC
+  Stock futures rise in overnight trading as June trading begins near record highs
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9xcTVySExtb2NYek9nMERwZGlpSlJYeUxjWjA1dl9RRFNCRXdacmFzNldUelo4bXY0SWtfTlRGeVpfNnNmNGpJUHA2YUpfVGU4ZWsyamlBcXdlU3BPSFdzTk13ZXJGck1fbUZodTc0eWYyLWRBVllV0gF8QVVfeXFMT1JMM3dRdXVwOHZoak15V3J3cEpRdHNQQ2FzRFBxTUxfM3pqYW5WdUNXVWtVSXFsQ0xFbXZlcWJ1SWFLcXNiUVdIUG5yWUdnREl2SDBFM09LU052cHU3R0E4R2NQY3BXTktudHlkYld6TlFNX19sTDFuOERoWQ?oc=5
 
-- Stocks Rise on AI, Oil Climbs as Iran Deal Elusive: Markets Wrap - Bloomberg.com
-  Stocks Rise on AI, Oil Climbs as
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTRyZlk2WnNoRE5nWVhocmhuZjdVUHdNalBMRFI5cFRVU2FGYndFdVhUazE0cnlGSnV0WW5JQlkwVmhWVTYzLU9RMWxLZEhjanE5YXNPVkU1SFBpV3I5UFNqYXhySWsySFRua19BeHgxNE5rcUpkSEdEWjRVTmlZT1l4RXNGYW9vYVEwMVdUSDRVblQxMXYxdDltY2xjUHVpcTBVcGJadkp1NFZIZFEydw?oc=5
+- Stock Market Today: Nvidia Chip Fuels AI Enthusiasm, Oil Climbs After Mideast Hostilities — Live Updates - WSJ
+  The WSJ reports that Nvidia's new AI chip could boost the stock
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1FNNWdCWmZGUWhqV3gyMzZxUXBzSlBQdjRFUUhNSGZqcFBvSUpSYnkxclVnT29ZVnluU0R5RTItTTNxVmNRSWs5UmdWRFdVVEoxaTJpSHRIWVNjVk9nbldsRENRZXRYQ3VqOVdSb0RDNS01a1lLVUFQT1JrYmxDNVBRTENfUkE?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green, US, Asian Markets Rise - NDTV
-  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGtKY09RSWJhaTNseUxFSFNNN01lYlpVNkF0UGQyejlrTG4zVWZPaG1VWlpINHdLSDJISzQ2dnhMQ1lwQ1RjN0Fld3RoQmxFX3JmcFBBNzFIMmZuVDZ1ZlBWdGFxb3lOTms1Z2hvTWphSkxwenhYS1pZdktuNmhrZjQ1dUd6ajBtVWI3MmVhb09pNXladU1rWkdLVlhZZkN6aE9oMmlrYVVuQzJQTkwwaGZNcFJZLWUtWFVPTXpqYmRRTTdBTnJaeXEzTdIB0wFBVV95cUxOME5sUTB6Z1k0dXFVRkE5R25fRWd2VUEzaFNmbGNzS296M0U0bnRXWURFa21EemYyelZZMUp1YXRjU2NkdXJ5RDBJQTdvTTl0ZVctbGJicUNpbUJmYW1VLThibUwyZGl1dUVUTHF4aUI0X0Fpa01tUHdWdVBKbndwRE42N0U0dUx3SUwzb1lfMWk5MEo0aFZKaU0yM0tnNlZvUkJDeWpLVE9xOGFwTzZ2al85LWFjQzZUQVhweUJDa3QxcEJGLTJNSXBYZGJmRXF0RllZ?oc=5
+- U.S.-Iran exchange strikes; Nvidia’s chips for Windows PCs - what’s moving markets - Investing.com
+  Nvidia’s chips for Windows PCs
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1hGbG15Qk15bHR5c05PdUQ4MUVJdC1Qdm9ISlhhQ2s4Q0JoLVBfX2ZLLTNvaGdTZVhYTGpiSy0zTGJKRWhFdXhzTzBRRGFMVFc5RXhRcGJKX3FXTUVqRG16SkhQQ0E3WlZ2TkQtcDMxV3ZRRHA2VFFsLXgzODA4Y2FGcWhWWjEwVmY2cWFkRHpLS3hWTHhRb1BiQmIyeDN3Vm1IVGJCcG1MVEk0NDVDMV9zN2NTV1o5RXB0NW04eS1rdU5LQ3c?oc=5
 
-- Trump Delays Iran Deal, Oil Jumps 2% | Wockhardt shares in focus on new drug approval | Opening Bell - Moneycontrol.com
-  " target="_blank">Trump Delays Iran Deal, Oil Jumps 2
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxORHRZclViZE5jMlpNMDEzOHh5ZkVsMDAySVN6X2xnTXdmYVpUSWJKWlVJMHVSazM3V2ZGVF9BOTFUY1ZHQTFaekFmWUZTVlZMcVo2MzYzUmJiMk9tSm1EbE1fQXdJeFk3eTlOVWNkT1FtTmRSVkk2eDZOR0ZpVHd4ajU3aTBJQnE5OTY0U1lHT2ZtNTAza1p6SEl0eklNbzRsbEs2TThIQkhnRm96MExfMWktdTIwQUdqNTBibXJDYUg0UG9kZTVwUzhwb0F6MXZlemRUNWpmTUZ6WFVIUHJ1U2Mzd1JfTVBvNm41Nm1WUmlZbUNlX1A5WGtR0gH_AUFVX3lxTFA0VVNmQzNMMkNFdlBoSENxelJWd29zQ0taQTZ1QzdBNjVCTmh2NU81MVUxTEw2UmZPZ3hWQXg0TWZ2ZmZ3dldBNnRRbVUtM2xoMnhfSmlXM0ZRSTQ5YzF6NjRWTEtlX2pyUFVKMF9WSFBTcDlNM3lVUGt0NlBsd3owc0lYeXJDZmFlWFdQbGlOX2lwVzdGV3NRc0FTbEtMMTJac2dKOWdmbzNkUDNkSERDekdvTWlGVzhJb0xEOGl4VWM0ZWxSMUJkd2doZ3R1LTBOdEZsWVZ0UVd1SUN3TFFBVU5ERDNCWFpzMWNxUDZ1ZHZyaFJ2Zm9xakJ6cUxXSQ?oc=5
+- Closing Bell: Sensex down 508 pts, Nifty below 23,400; FMCG, realty drag, IT stocks rally - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQanVXZzVxMnMyNFVJWHVxU1RuQmlCbzhqUmN0QTdVZGd1RmpjbXRTUEYtUkw1RThTcWFHZEZ2VFFqQXJCc0tONmI5OTJReFVDX3JxZndGYnIydTI5aTZzeWVmVlBnN21xeF
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQanVXZzVxMnMyNFVJWHVxU1RuQmlCbzhqUmN0QTdVZGd1RmpjbXRTUEYtUkw1RThTcWFHZEZ2VFFqQXJCc0tONmI5OTJReFVDX3JxZndGYnIydTI5aTZzeWVmVlBnN21xeFJVYnRIcjIzNXRZcjJCbm42WEkzS2lMYVIyX3V0eEl2dlZtVmZkS19aa3ZYQ056dm5fenc0U1pKVVpXUmVMaFpTblNZWU9zc1lEcmtfMmZCeVppa01lQ3FtQi1qMzB5czF0XzctcTFwYUI4WnZxR2Q5LU9uUG9jenBPRUN3cXVRZloyTGJ2NE5aV1htWlVocWFDZC1QTjFRZnoyaGxqNkM1ZXp5aDUtbHYyaw?oc=5
 
-- Pre-market action: Here's the trade setup for today's session - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXhOWlMxWmpzU0phSHBBRjJleEZRMEtjQW5GQWtZcjJNMWlQNUNmX3ZHa18xT2hHWm1WM1FNbDlpdTFIWVVtWGNPaG1pRVNuTS1hRVo3U3c1QVctUWdRZ056cE5Nc3MxWW
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXhOWlMxWmpzU0phSHBBRjJleEZRMEtjQW5GQWtZcjJNMWlQNUNmX3ZHa18xT2hHWm1WM1FNbDlpdTFIWVVtWGNPaG1pRVNuTS1hRVo3U3c1QVctUWdRZ056cE5Nc3MxWWp3QWpsc3c2MnZkVVJVSVB3N3RXWmc4ZVMxYzRVS2tONmNMcTZ2WFdLUkxLRGtNMndHZGQ3RG5uVWVMNklHVVMydkUyRmR4eFZxR2hTUmVsTFJrTU90WTN0bE1XZ2Fpdlcya1_SAdIBQVVfeXFMTjFlNjdUZFA0UUtEWkNHMEVrQkdudnRVcTNwZUVlRXRxRjRjVF9YeVlfZVMyRkxzb0I2dXZoQkl0MVNtQ2pmTElLSzRGcVFHQ3NLc0VoZHdKWE5wbEtIcFVZOGQyZnoyLVdxdHJVaFZxcDZUQzhLLVJTenNQbUd4YlVvMUlhS0lhZVg0WE4tWmNDMTN3RlljSy1BLW1HOTdUazV2ZDk5LXRsVU5ySmdpaWstX1l6U1pNUC04NUsyZ0ZIaks1T0g3SndPaVNzZUxfWkJn?oc=5
+- Guess Who’s Got an AI Edge in a Tough Job Market? - Bloomberg.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQUF9qTXBQLUFVT3IzeENEU0ZjZjNlQUNjZmstY0hTVkxQN0dfb2lhN1dwbmJkUlZMZElna0t6QmFDR01ad1RNa21zSmJ6REwtdDc4SU1pcjhXazItT25aN2xwOGVBaFFNUERPMmlhdTZnREI5bkhkQXhaS2dpbmJtMDZxQ21DWjJ5d2tmcE1RUWtVLW1odVhkNkVVeUFKeVNhcmR2eg?oc=5
 
-- Tega Industries among 6 stocks showing bullish RSI upswing
-  Six Nifty500 stocks were highlighted in the RSI Trending Up scan based on data from StockEdge.com. The signal is triggered when RSI crosses above 50 from lower levels, indicating improving momentum. Rising RSI levels suggest
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tega-industries-among-6-stocks-showing-bullish-rsi-upswing/slideshow/131433000.cms
+- Tata Sons IPO: Tata Chemicals, Tata Investment Corp shares tumble 3%. Here's why
+  Tata Chemicals and Tata Investment Corporation fell around 3% after reports claimed Tata Trusts Chairman Noel Tata had written to the RBI opposing a potential Tata Sons listing.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-tata-chemicals-tata-investment-corp-shares-tumble-3-heres-why/articleshow/131440969.cms
 
-- SBI Share Price Live Updates: SBI Sees 1.6% Weekly Gain
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-updates-01-jun-2026/liveblog/131432687.cms
+- Eternal to Minda Corp: Axis Securities picks 15 stocks for June, sees up to 44% upside in top ideas
+   Axis Securities retained a bullish view on Indian equities. The brokerage favours banking, telecom and capital goods sectors. It expects market corrections to offer opportunities to accumulate quality businesses.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/eternal-to-minda-corp-axis-securities-picks-15-stocks-for-june-sees-up-to-44-upside-in-top-ideas/articleshow/131440841.cms
 
-- Nestle India Share Price Live Updates: Nestle India records a minor weekly return decline
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-01-jun-2026/liveblog/131432519.cms
+- Rupee ends little changed on two-way foreign portfolio flows, merchant hedging
+  The Indian rupee remained stable on Monday. Modest gains from equity index rebalancing were countered by corporate hedging. Higher crude oil prices had little impact.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-little-changed-on-two-way-foreign-portfolio-flows-merchant-hedging/articleshow/131440704.cms
 
-- Bajaj Auto Share Price Live Updates: Bajaj Auto Reports a Weekly Return of -0.85%
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-01-jun-2026/liveblog/131432518.cms
+- SpaceX needs to get to $5 quadrillion to rival mag seven magic
+   SpaceX, OpenAI, and Anthropic are set to redefine market valuations. These companies are bypassing the traditional path of public markets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-needs-to-get-to-5-quadrillion-to-rival-mag-seven-magic-nir-kaissar/articleshow/131440176.cms
 
-- HCL Tech Share Price Live Updates: HCL Tech records a 1.7% increase in weekly returns
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-01-jun-2026/liveblog/131432509.cms
+- Why did market fall today? Sensex drops 500 points, Nifty closes below 23,400: 4 key factors
+  Indian stock markets experienced a sharp decline on Monday. The Sensex and Nifty both fell significantly. This downturn was driven by substantial foreign investor selling. Rising oil prices and increased market volatility also contributed.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-600-points-nifty-below-23400-4-key-factors/articleshow/131439674.cms
 
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
+- Nepal has also encroached upon Indian territory, says PM Balendra Shah - The Hindu
+  Nepal has also encroached upon Indian territory
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjNwRGZlNkNSc01fZmhnbmFnQ3pyODVoVE9hLVZ1eFIzUndxY1BPZFp5OGRxb2hadFBZLXYyLUxMbXBsWUhZd1hfYnpqakFKeGNNSkQzT2tpZTNVM3BZZ1p4RVJRR2Y4SkVGdUliQThsM0Y5R0d2cnRNbXJnZVhVWnhObFRUdlEzU25KSDQtME93ekpIR1JyRWFodVFGeDdyUkZvRVNpR2FGc3pwQWt2ekpDWF9zMXphNmtyYzBmOVVwcEw3WkdWY3IyNW9rTXZ0c2JHZkMxSWRXZ1dVV3Zya2pnek1tUXFF0gHvAUFVX3lxTE1JdEVjbmlJdWhTWnlXelB6S1gySTNQcG9DU29nWm9zc0V5M3p1T09KWXdMLUVNR0k0Q0ZzQjZDWkJSSF84djF5Y1FkRlV6YUV2UjV5bDJ2bWprRGtjMHREUlo0bldISkx0UVhOM0FBTDFFOEViZ1E2dHM1SVYybGR6RnpqZHZXckNJMlAyWTRTZm5acjhnbHBNZGYxa042dHFjbHNfMTNyUi13alJCNVd1enUxTENMZUstWURkM0xfWlo4U0pIbUFTOVpBTzJ3MWFkSzhqc0dYM19UQjlScmVzSzZaRUo3THNOZ0xSM2Rv?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
 
-- Hours after wedding, Indian-origin pilot killed in US chopper crash, bride survives - India Today
-  Indian-origin pilot killed in US chopper crash,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekhWVXVRb210TGd0U2pRdHc0ak9hRlV4RVdLNUVHU0NfWUQxbnJmYU1yZlpRamxyTEVoWnpFQXlkblA3eGxvNkhmRjAzWWtDb3BDcF9DZXZNVldwOExQNnBBVXlaVEZ6eUpoUFFkSnZvU2NiU241Z3AxdWZzcDBQZXRmZi04V0dERUpCckc3b0ZCQXRpZ3ZxTWxwLWkwTVFtalZmX1Nibzh3TnR0WW9DbnhsbmZDeXljaTFhdE9HUTI4Y0M1d09CeEwxMXRlN0J4b25nZ1hMYzlOYkQyZmg3YU9XZ2dCOFBD0gHuAUFVX3lxTE93ZHdjYWUwcG9YMXAwa0hUQlkzYXpPU2N5RzJUajh4dDU2SzlWbEVVbHdqMW1KcWFBNXRoLURWcHd5WmdHVmw5NHBsSlg1SkV1bDk2eFV2cjVqbXFSVXBWVlhmZFA4ODctN09YT3FFaDRZTVdMYzUzdmo5SXVfN2NzcGJEb21UZGJtbHR1aVQ2aTFkblAxYmhTVFVRMGJyUlFydUR1VVZYMVVaTEdjTzR0NkRIT3FoVjZLWTRyTEtQUlIxRFVYdEp2YW8yMGxqMDlsX2dFWHZLcnNLUEFBVkR5RkhSQmhxa0ZVcGg3RFE?oc=5
+- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
+  Nepal PM Balendra Shah's 'encroaching' India remark sparks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
-- Weak Monsoon Forecast Adds to India’s Inflation, Growth Worries - Bloomberg.com
-   weak Monsoon Forecast Adds to
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGZyYW5fcGZJNVROQk9aNWJMOHJOMS1aUHhCZXVnX2kybW81OTRNUG42bkxIRUdVcTdJRGVjcmk2bUZORXNueXZDd1hxLXpMbDZoM2I3WFc1ZFFwc2Q1NjRvNXQzZlNyTGxNVnhFek5hV3ZaLTlmWUNpMURad2RPUGxDdGNyTTdsVlAxeTEwMFYybHdXMDNtY2F0MW5qdXh2NHVHdWxydzhzUnI2Ym91SjEzekNpaUNudXdpLVozdmVUbUwyMnI2TnF4SFQwdw?oc=5
+- Delhi's Jan-May Average AQI Lowest In 8 Years Barring 2020 - NDTV
+  Delhi's Jan-May Average AQ
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXVTa3hBUEFoemp3azN2Z0d5bExRdE1pdnNoWjY4WGRZX3FkbHllaXczS0dTRnJWY2tyUHNpcjhRakhZSmF6bXlnMm0wbmxRSU9mSndieHl3RkQyVFV6MGM2WDZkZ2E4dmtUbHA3dHR4cnEyVDJ4TjY4N3piMkJWcDJFY28tVXE5SDNXZk56eDc2enppWDVNZVF5SVFDOE3SAacBQVVfeXFMUHZPRUxBYk5MS2ZZU0dDWjlMMnJJY2lxN0pPbU9LRVI1VWM1OWljWGprb3pIVnFpZFZLclBLdF9MMzkyZW1sYkg1RE55SW5FR3FqbnJiUG02WEs5Z0VIdjh3bGRpTmxmR1B3dE5mNUZuaGFWMGpGM0QtY0o1OUpBUVN6VW5SeHJaM1JQWGhILWVfTnNOTmJDSEh1S1c1Z3U4NWtLMlVtQWs?oc=5
 
-- Weather Today LIVE: Drastic Drop In Temperatures Keeps Delhi Cool - NDTV
-  " target="_blank">Weather
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOc1psNFlVN2ZDMjZIeFFYNUpDTDVJeG5PYXduU0dCdjIzQWlteW4wT1h6X2VESUtib3lRQzNDRWJxVlR4OFhJUGd6aXNWZUJKQUxVVUFpWG0ySnRrVFFBNTZ3d2V6NTVaM2N5dmdxYkpfR25pemdwb1RWZnREZGhoY0VXdDNRWE9SWWpzd3d3bTkwOEN1bGFaNDFybDZ3ajJ1cEdndXI3VGVmNlZLYTJUOWxZMHl1UjhkY0RORGFwU3VLWGJWZlZrNThSaUhvbm16VHBuVzY4Z3UtWVJVZTBudXdtXzJqVTRXa1VwRGxqb2JscUs4YnpxU3dJbWhFa0RzWmt0VWhIeG03NDdq0gGUAkFVX3lxTE9feUJ0SGdxTF94OWN4QkJJTS1HamJVd1NxNDJHa1ZFc2U1bWJRd2lwMWdaa3dDNkZRd2w0RlRNOG5QTTA2Yi1Mc2ZEQzlpOURPWExzN1FQTUFHNEFKZFJ4WmE0WnpQcVFrTXJQNzJvX2FFZWlfU3pSZm4tbXRsdFFxZHJDVm04Mm01aFlWLWsyZDktUGRxUUFmQ0l4SC1wNEpaWTdFeTdUUlFSWnU2V0o4RTBBSGRQMldCdWxOLVBOMVVqd3Vkc1Z5MnlZYzdOMVNJWlYtTnhiYnBBUXpaem12c2YyaTFDRF84a2lFY09yYkdhTTBDRHJrMENPM2FNNFpyOW9HcFI2SW5GYU1oTkd6STNJdw?oc=5
+- Trinamool Split Out In Open As Signature Scandal Explodes In Bengal - NDTV
+  Trinamool Split Out In Open As
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUtPeXlwemJnejlEU0x1bUgwOC1id0d3Z0FkRExGVlh5S1BEcVJEQUxKOHJmR0lLWTg1QkF0YjVIbU52YS1RUDdINFQtMmdWNmtnRlpBNGZCaHpVZ3Z4MHdKYk5yMXpiNWVXM2pHZnpPN0tVbVRnRTdUSHNUbklMampZajltV1NCeVdmb1RmOXd2S1dkZ09HM0FYREo5Y0tjQ2RhZ2lfbUp0UFA3cVdGWm11a9IBuwFBVV95cUxOdkt2c0xIdEFmT3licG0wajhWeHBzekRIeVNqLUthYmJfSHNKckZiZm82aUFaRUM3aWFyZXJ0SFFwZ2xDSS1ndk9aU1d5dHMzRzV6dkRLSVdoX2JXXzlKUlBhMWJzLUN0SVlabHB1WnVydDhNNHpqc3NQTFlzZXQyU2k3akFQZzk2QXNuWXNVVXdOQm92MzV0NlZ2cVQtdEhIazBSMGVDZmMtRjN3YWdheTFaTDB6c0x0dWtj?oc=5
 
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
+- Nepal has also encroached upon Indian territory, says PM Balendra Shah - The Hindu
+  Nepal has also encroached upon Indian territory
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjNwRGZlNkNSc01fZmhnbmFnQ3pyODVoVE9hLVZ1eFIzUndxY1BPZFp5OGRxb2hadFBZLXYyLUxMbXBsWUhZd1hfYnpqakFKeGNNSkQzT2tpZTNVM3BZZ1p4RVJRR2Y4SkVGdUliQThsM0Y5R0d2cnRNbXJnZVhVWnhObFRUdlEzU25KSDQtME93ekpIR1JyRWFodVFGeDdyUkZvRVNpR2FGc3pwQWt2ekpDWF9zMXphNmtyYzBmOVVwcEw3WkdWY3IyNW9rTXZ0c2JHZkMxSWRXZ1dVV3Zya2pnek1tUXFF0gHvAUFVX3lxTE1JdEVjbmlJdWhTWnlXelB6S1gySTNQcG9DU29nWm9zc0V5M3p1T09KWXdMLUVNR0k0Q0ZzQjZDWkJSSF84djF5Y1FkRlV6YUV2UjV5bDJ2bWprRGtjMHREUlo0bldISkx0UVhOM0FBTDFFOEViZ1E2dHM1SVYybGR6RnpqZHZXckNJMlAyWTRTZm5acjhnbHBNZGYxa042dHFjbHNfMTNyUi13alJCNVd1enUxTENMZUstWURkM0xfWlo4U0pIbUFTOVpBTzJ3MWFkSzhqc0dYM19UQjlScmVzSzZaRUo3THNOZ0xSM2Rv?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
 
-- Hours after wedding, Indian-origin pilot killed in US chopper crash, bride survives - India Today
-  Indian-origin pilot killed in US chopper crash,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekhWVXVRb210TGd0U2pRdHc0ak9hRlV4RVdLNUVHU0NfWUQxbnJmYU1yZlpRamxyTEVoWnpFQXlkblA3eGxvNkhmRjAzWWtDb3BDcF9DZXZNVldwOExQNnBBVXlaVEZ6eUpoUFFkSnZvU2NiU241Z3AxdWZzcDBQZXRmZi04V0dERUpCckc3b0ZCQXRpZ3ZxTWxwLWkwTVFtalZmX1Nibzh3TnR0WW9DbnhsbmZDeXljaTFhdE9HUTI4Y0M1d09CeEwxMXRlN0J4b25nZ1hMYzlOYkQyZmg3YU9XZ2dCOFBD0gHuAUFVX3lxTE93ZHdjYWUwcG9YMXAwa0hUQlkzYXpPU2N5RzJUajh4dDU2SzlWbEVVbHdqMW1KcWFBNXRoLURWcHd5WmdHVmw5NHBsSlg1SkV1bDk2eFV2cjVqbXFSVXBWVlhmZFA4ODctN09YT3FFaDRZTVdMYzUzdmo5SXVfN2NzcGJEb21UZGJtbHR1aVQ2aTFkblAxYmhTVFVRMGJyUlFydUR1VVZYMVVaTEdjTzR0NkRIT3FoVjZLWTRyTEtQUlIxRFVYdEp2YW8yMGxqMDlsX2dFWHZLcnNLUEFBVkR5RkhSQmhxa0ZVcGg3RFE?oc=5
+- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
+  Nepal PM Balendra Shah's 'encroaching' India remark sparks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
-- Weak Monsoon Forecast Adds to India’s Inflation, Growth Worries - Bloomberg.com
-   weak Monsoon Forecast Adds to
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGZyYW5fcGZJNVROQk9aNWJMOHJOMS1aUHhCZXVnX2kybW81OTRNUG42bkxIRUdVcTdJRGVjcmk2bUZORXNueXZDd1hxLXpMbDZoM2I3WFc1ZFFwc2Q1NjRvNXQzZlNyTGxNVnhFek5hV3ZaLTlmWUNpMURad2RPUGxDdGNyTTdsVlAxeTEwMFYybHdXMDNtY2F0MW5qdXh2NHVHdWxydzhzUnI2Ym91SjEzekNpaUNudXdpLVozdmVUbUwyMnI2TnF4SFQwdw?oc=5
+- Delhi's Jan-May Average AQI Lowest In 8 Years Barring 2020 - NDTV
+  Delhi's Jan-May Average AQ
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXVTa3hBUEFoemp3azN2Z0d5bExRdE1pdnNoWjY4WGRZX3FkbHllaXczS0dTRnJWY2tyUHNpcjhRakhZSmF6bXlnMm0wbmxRSU9mSndieHl3RkQyVFV6MGM2WDZkZ2E4dmtUbHA3dHR4cnEyVDJ4TjY4N3piMkJWcDJFY28tVXE5SDNXZk56eDc2enppWDVNZVF5SVFDOE3SAacBQVVfeXFMUHZPRUxBYk5MS2ZZU0dDWjlMMnJJY2lxN0pPbU9LRVI1VWM1OWljWGprb3pIVnFpZFZLclBLdF9MMzkyZW1sYkg1RE55SW5FR3FqbnJiUG02WEs5Z0VIdjh3bGRpTmxmR1B3dE5mNUZuaGFWMGpGM0QtY0o1OUpBUVN6VW5SeHJaM1JQWGhILWVfTnNOTmJDSEh1S1c1Z3U4NWtLMlVtQWs?oc=5
 
-- Weather Today LIVE: Drastic Drop In Temperatures Keeps Delhi Cool - NDTV
-  " target="_blank">Weather
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOc1psNFlVN2ZDMjZIeFFYNUpDTDVJeG5PYXduU0dCdjIzQWlteW4wT1h6X2VESUtib3lRQzNDRWJxVlR4OFhJUGd6aXNWZUJKQUxVVUFpWG0ySnRrVFFBNTZ3d2V6NTVaM2N5dmdxYkpfR25pemdwb1RWZnREZGhoY0VXdDNRWE9SWWpzd3d3bTkwOEN1bGFaNDFybDZ3ajJ1cEdndXI3VGVmNlZLYTJUOWxZMHl1UjhkY0RORGFwU3VLWGJWZlZrNThSaUhvbm16VHBuVzY4Z3UtWVJVZTBudXdtXzJqVTRXa1VwRGxqb2JscUs4YnpxU3dJbWhFa0RzWmt0VWhIeG03NDdq0gGUAkFVX3lxTE9feUJ0SGdxTF94OWN4QkJJTS1HamJVd1NxNDJHa1ZFc2U1bWJRd2lwMWdaa3dDNkZRd2w0RlRNOG5QTTA2Yi1Mc2ZEQzlpOURPWExzN1FQTUFHNEFKZFJ4WmE0WnpQcVFrTXJQNzJvX2FFZWlfU3pSZm4tbXRsdFFxZHJDVm04Mm01aFlWLWsyZDktUGRxUUFmQ0l4SC1wNEpaWTdFeTdUUlFSWnU2V0o4RTBBSGRQMldCdWxOLVBOMVVqd3Vkc1Z5MnlZYzdOMVNJWlYtTnhiYnBBUXpaem12c2YyaTFDRF84a2lFY09yYkdhTTBDRHJrMENPM2FNNFpyOW9HcFI2SW5GYU1oTkd6STNJdw?oc=5
+- Trinamool Split Out In Open As Signature Scandal Explodes In Bengal - NDTV
+  Trinamool Split Out In Open As
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUtPeXlwemJnejlEU0x1bUgwOC1id0d3Z0FkRExGVlh5S1BEcVJEQUxKOHJmR0lLWTg1QkF0YjVIbU52YS1RUDdINFQtMmdWNmtnRlpBNGZCaHpVZ3Z4MHdKYk5yMXpiNWVXM2pHZnpPN0tVbVRnRTdUSHNUbklMampZajltV1NCeVdmb1RmOXd2S1dkZ09HM0FYREo5Y0tjQ2RhZ2lfbUp0UFA3cVdGWm11a9IBuwFBVV95cUxOdkt2c0xIdEFmT3licG0wajhWeHBzekRIeVNqLUthYmJfSHNKckZiZm82aUFaRUM3aWFyZXJ0SFFwZ2xDSS1ndk9aU1d5dHMzRzV6dkRLSVdoX2JXXzlKUlBhMWJzLUN0SVlabHB1WnVydDhNNHpqc3NQTFlzZXQyU2k3akFQZzk2QXNuWXNVVXdOQm92MzV0NlZ2cVQtdEhIazBSMGVDZmMtRjN3YWdheTFaTDB6c0x0dWtj?oc=5
 
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
+- Nepal has also encroached upon Indian territory, says PM Balendra Shah - The Hindu
+  Nepal has also encroached upon Indian territory
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjNwRGZlNkNSc01fZmhnbmFnQ3pyODVoVE9hLVZ1eFIzUndxY1BPZFp5OGRxb2hadFBZLXYyLUxMbXBsWUhZd1hfYnpqakFKeGNNSkQzT2tpZTNVM3BZZ1p4RVJRR2Y4SkVGdUliQThsM0Y5R0d2cnRNbXJnZVhVWnhObFRUdlEzU25KSDQtME93ekpIR1JyRWFodVFGeDdyUkZvRVNpR2FGc3pwQWt2ekpDWF9zMXphNmtyYzBmOVVwcEw3WkdWY3IyNW9rTXZ0c2JHZkMxSWRXZ1dVV3Zya2pnek1tUXFF0gHvAUFVX3lxTE1JdEVjbmlJdWhTWnlXelB6S1gySTNQcG9DU29nWm9zc0V5M3p1T09KWXdMLUVNR0k0Q0ZzQjZDWkJSSF84djF5Y1FkRlV6YUV2UjV5bDJ2bWprRGtjMHREUlo0bldISkx0UVhOM0FBTDFFOEViZ1E2dHM1SVYybGR6RnpqZHZXckNJMlAyWTRTZm5acjhnbHBNZGYxa042dHFjbHNfMTNyUi13alJCNVd1enUxTENMZUstWURkM0xfWlo4U0pIbUFTOVpBTzJ3MWFkSzhqc0dYM19UQjlScmVzSzZaRUo3THNOZ0xSM2Rv?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
 
-- Hours after wedding, Indian-origin pilot killed in US chopper crash, bride survives - India Today
-  Indian-origin pilot killed in US chopper crash,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekhWVXVRb210TGd0U2pRdHc0ak9hRlV4RVdLNUVHU0NfWUQxbnJmYU1yZlpRamxyTEVoWnpFQXlkblA3eGxvNkhmRjAzWWtDb3BDcF9DZXZNVldwOExQNnBBVXlaVEZ6eUpoUFFkSnZvU2NiU241Z3AxdWZzcDBQZXRmZi04V0dERUpCckc3b0ZCQXRpZ3ZxTWxwLWkwTVFtalZmX1Nibzh3TnR0WW9DbnhsbmZDeXljaTFhdE9HUTI4Y0M1d09CeEwxMXRlN0J4b25nZ1hMYzlOYkQyZmg3YU9XZ2dCOFBD0gHuAUFVX3lxTE93ZHdjYWUwcG9YMXAwa0hUQlkzYXpPU2N5RzJUajh4dDU2SzlWbEVVbHdqMW1KcWFBNXRoLURWcHd5WmdHVmw5NHBsSlg1SkV1bDk2eFV2cjVqbXFSVXBWVlhmZFA4ODctN09YT3FFaDRZTVdMYzUzdmo5SXVfN2NzcGJEb21UZGJtbHR1aVQ2aTFkblAxYmhTVFVRMGJyUlFydUR1VVZYMVVaTEdjTzR0NkRIT3FoVjZLWTRyTEtQUlIxRFVYdEp2YW8yMGxqMDlsX2dFWHZLcnNLUEFBVkR5RkhSQmhxa0ZVcGg3RFE?oc=5
+- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
+  Nepal PM Balendra Shah's 'encroaching' India remark sparks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
-- Weak Monsoon Forecast Adds to India’s Inflation, Growth Worries - Bloomberg.com
-   weak Monsoon Forecast Adds to
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGZyYW5fcGZJNVROQk9aNWJMOHJOMS1aUHhCZXVnX2kybW81OTRNUG42bkxIRUdVcTdJRGVjcmk2bUZORXNueXZDd1hxLXpMbDZoM2I3WFc1ZFFwc2Q1NjRvNXQzZlNyTGxNVnhFek5hV3ZaLTlmWUNpMURad2RPUGxDdGNyTTdsVlAxeTEwMFYybHdXMDNtY2F0MW5qdXh2NHVHdWxydzhzUnI2Ym91SjEzekNpaUNudXdpLVozdmVUbUwyMnI2TnF4SFQwdw?oc=5
+- Delhi's Jan-May Average AQI Lowest In 8 Years Barring 2020 - NDTV
+  Delhi's Jan-May Average AQ
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXVTa3hBUEFoemp3azN2Z0d5bExRdE1pdnNoWjY4WGRZX3FkbHllaXczS0dTRnJWY2tyUHNpcjhRakhZSmF6bXlnMm0wbmxRSU9mSndieHl3RkQyVFV6MGM2WDZkZ2E4dmtUbHA3dHR4cnEyVDJ4TjY4N3piMkJWcDJFY28tVXE5SDNXZk56eDc2enppWDVNZVF5SVFDOE3SAacBQVVfeXFMUHZPRUxBYk5MS2ZZU0dDWjlMMnJJY2lxN0pPbU9LRVI1VWM1OWljWGprb3pIVnFpZFZLclBLdF9MMzkyZW1sYkg1RE55SW5FR3FqbnJiUG02WEs5Z0VIdjh3bGRpTmxmR1B3dE5mNUZuaGFWMGpGM0QtY0o1OUpBUVN6VW5SeHJaM1JQWGhILWVfTnNOTmJDSEh1S1c1Z3U4NWtLMlVtQWs?oc=5
 
-- Weather Today LIVE: Drastic Drop In Temperatures Keeps Delhi Cool - NDTV
-  " target="_blank">Weather
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOc1psNFlVN2ZDMjZIeFFYNUpDTDVJeG5PYXduU0dCdjIzQWlteW4wT1h6X2VESUtib3lRQzNDRWJxVlR4OFhJUGd6aXNWZUJKQUxVVUFpWG0ySnRrVFFBNTZ3d2V6NTVaM2N5dmdxYkpfR25pemdwb1RWZnREZGhoY0VXdDNRWE9SWWpzd3d3bTkwOEN1bGFaNDFybDZ3ajJ1cEdndXI3VGVmNlZLYTJUOWxZMHl1UjhkY0RORGFwU3VLWGJWZlZrNThSaUhvbm16VHBuVzY4Z3UtWVJVZTBudXdtXzJqVTRXa1VwRGxqb2JscUs4YnpxU3dJbWhFa0RzWmt0VWhIeG03NDdq0gGUAkFVX3lxTE9feUJ0SGdxTF94OWN4QkJJTS1HamJVd1NxNDJHa1ZFc2U1bWJRd2lwMWdaa3dDNkZRd2w0RlRNOG5QTTA2Yi1Mc2ZEQzlpOURPWExzN1FQTUFHNEFKZFJ4WmE0WnpQcVFrTXJQNzJvX2FFZWlfU3pSZm4tbXRsdFFxZHJDVm04Mm01aFlWLWsyZDktUGRxUUFmQ0l4SC1wNEpaWTdFeTdUUlFSWnU2V0o4RTBBSGRQMldCdWxOLVBOMVVqd3Vkc1Z5MnlZYzdOMVNJWlYtTnhiYnBBUXpaem12c2YyaTFDRF84a2lFY09yYkdhTTBDRHJrMENPM2FNNFpyOW9HcFI2SW5GYU1oTkd6STNJdw?oc=5
+- Trinamool Split Out In Open As Signature Scandal Explodes In Bengal - NDTV
+  Trinamool Split Out In Open As
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUtPeXlwemJnejlEU0x1bUgwOC1id0d3Z0FkRExGVlh5S1BEcVJEQUxKOHJmR0lLWTg1QkF0YjVIbU52YS1RUDdINFQtMmdWNmtnRlpBNGZCaHpVZ3Z4MHdKYk5yMXpiNWVXM2pHZnpPN0tVbVRnRTdUSHNUbklMampZajltV1NCeVdmb1RmOXd2S1dkZ09HM0FYREo5Y0tjQ2RhZ2lfbUp0UFA3cVdGWm11a9IBuwFBVV95cUxOdkt2c0xIdEFmT3licG0wajhWeHBzekRIeVNqLUthYmJfSHNKckZiZm82aUFaRUM3aWFyZXJ0SFFwZ2xDSS1ndk9aU1d5dHMzRzV6dkRLSVdoX2JXXzlKUlBhMWJzLUN0SVlabHB1WnVydDhNNHpqc3NQTFlzZXQyU2k3akFQZzk2QXNuWXNVVXdOQm92MzV0NlZ2cVQtdEhIazBSMGVDZmMtRjN3YWdheTFaTDB6c0x0dWtj?oc=5
 
-- Census: How stamps and postcards helped India count its people - BBC
-  Census: How stamps and postcards
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bG9HMDNVX0VXQ3RJUTBRa1BrS3pGOFB6aDMxY3NKeXd5WkhFM1I0c2F1Q2VxSkcxZHNXc2x4Q2d0MkRDTGtET1NOcmdvSWxnMGFjbHpYN29YQQ?oc=5
+- Nepal has also encroached upon Indian territory, says PM Balendra Shah - The Hindu
+  Nepal has also encroached upon Indian territory
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSjNwRGZlNkNSc01fZmhnbmFnQ3pyODVoVE9hLVZ1eFIzUndxY1BPZFp5OGRxb2hadFBZLXYyLUxMbXBsWUhZd1hfYnpqakFKeGNNSkQzT2tpZTNVM3BZZ1p4RVJRR2Y4SkVGdUliQThsM0Y5R0d2cnRNbXJnZVhVWnhObFRUdlEzU25KSDQtME93ekpIR1JyRWFodVFGeDdyUkZvRVNpR2FGc3pwQWt2ekpDWF9zMXphNmtyYzBmOVVwcEw3WkdWY3IyNW9rTXZ0c2JHZkMxSWRXZ1dVV3Zya2pnek1tUXFF0gHvAUFVX3lxTE1JdEVjbmlJdWhTWnlXelB6S1gySTNQcG9DU29nWm9zc0V5M3p1T09KWXdMLUVNR0k0Q0ZzQjZDWkJSSF84djF5Y1FkRlV6YUV2UjV5bDJ2bWprRGtjMHREUlo0bldISkx0UVhOM0FBTDFFOEViZ1E2dHM1SVYybGR6RnpqZHZXckNJMlAyWTRTZm5acjhnbHBNZGYxa042dHFjbHNfMTNyUi13alJCNVd1enUxTENMZUstWURkM0xfWlo4U0pIbUFTOVpBTzJ3MWFkSzhqc0dYM19UQjlScmVzSzZaRUo3THNOZ0xSM2Rv?oc=5
 
-- Hormuz Is Shut, Indian Ships Still Passing. Centre Shares 'Secret' Strategy - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTdVc1pja0JRXzQ0b0lCSUVmU0RxdXFmRGRhZkhsMHdpakg3eVI4WHNOekNicmxSOC1CQTRpMGw0NXprTExXd1ltZ05wSHIxTHZvQUtuRUswWkRVUTljTWNmVVZ1TS1LbDlxS3cwQVh1dDJjN2lqZVpEbmZhd0NNVF94SUx3ZGZ3UGMzRWdPdk04eHYxdUpnT1hoRjVoTTdnODVQaWtCd2wwM2E5bHVBZV9wV3pKemZORXRN0gHDAUFVX3lxTE5UYlZScThkNFlYZVNVdXNhdU43NjlWRWYzUENxbTVqVnFmQ3Bsa25ZZXpNb2FxM00yTFZaeXhOOFF6OUpZQy1WTGJIRWlXV2JQdWRzZ2xFSEdGVEtnNHl4WGR0bFJtOGFsTXEyZGR6Z3p5UUEyc1J2QXNDQ1JBUjRUZnhaakVtaVZrbW5md2F3WlN4eUQtaGVqR24xbUdPMk45OTlqcEFmMzRZaUFYbjMtaThrTWpxVjFOQnUzUWtzc3FoUQ?oc=5
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
 
-- Hours after wedding, Indian-origin pilot killed in US chopper crash, bride survives - India Today
-  Indian-origin pilot killed in US chopper crash,
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxPekhWVXVRb210TGd0U2pRdHc0ak9hRlV4RVdLNUVHU0NfWUQxbnJmYU1yZlpRamxyTEVoWnpFQXlkblA3eGxvNkhmRjAzWWtDb3BDcF9DZXZNVldwOExQNnBBVXlaVEZ6eUpoUFFkSnZvU2NiU241Z3AxdWZzcDBQZXRmZi04V0dERUpCckc3b0ZCQXRpZ3ZxTWxwLWkwTVFtalZmX1Nibzh3TnR0WW9DbnhsbmZDeXljaTFhdE9HUTI4Y0M1d09CeEwxMXRlN0J4b25nZ1hMYzlOYkQyZmg3YU9XZ2dCOFBD0gHuAUFVX3lxTE93ZHdjYWUwcG9YMXAwa0hUQlkzYXpPU2N5RzJUajh4dDU2SzlWbEVVbHdqMW1KcWFBNXRoLURWcHd5WmdHVmw5NHBsSlg1SkV1bDk2eFV2cjVqbXFSVXBWVlhmZFA4ODctN09YT3FFaDRZTVdMYzUzdmo5SXVfN2NzcGJEb21UZGJtbHR1aVQ2aTFkblAxYmhTVFVRMGJyUlFydUR1VVZYMVVaTEdjTzR0NkRIT3FoVjZLWTRyTEtQUlIxRFVYdEp2YW8yMGxqMDlsX2dFWHZLcnNLUEFBVkR5RkhSQmhxa0ZVcGg3RFE?oc=5
+- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
+  Nepal PM Balendra Shah's 'encroaching' India remark sparks
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
-- Weak Monsoon Forecast Adds to India’s Inflation, Growth Worries - Bloomberg.com
-   weak Monsoon Forecast Adds to
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGZyYW5fcGZJNVROQk9aNWJMOHJOMS1aUHhCZXVnX2kybW81OTRNUG42bkxIRUdVcTdJRGVjcmk2bUZORXNueXZDd1hxLXpMbDZoM2I3WFc1ZFFwc2Q1NjRvNXQzZlNyTGxNVnhFek5hV3ZaLTlmWUNpMURad2RPUGxDdGNyTTdsVlAxeTEwMFYybHdXMDNtY2F0MW5qdXh2NHVHdWxydzhzUnI2Ym91SjEzekNpaUNudXdpLVozdmVUbUwyMnI2TnF4SFQwdw?oc=5
+- Delhi's Jan-May Average AQI Lowest In 8 Years Barring 2020 - NDTV
+  Delhi's Jan-May Average AQ
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXVTa3hBUEFoemp3azN2Z0d5bExRdE1pdnNoWjY4WGRZX3FkbHllaXczS0dTRnJWY2tyUHNpcjhRakhZSmF6bXlnMm0wbmxRSU9mSndieHl3RkQyVFV6MGM2WDZkZ2E4dmtUbHA3dHR4cnEyVDJ4TjY4N3piMkJWcDJFY28tVXE5SDNXZk56eDc2enppWDVNZVF5SVFDOE3SAacBQVVfeXFMUHZPRUxBYk5MS2ZZU0dDWjlMMnJJY2lxN0pPbU9LRVI1VWM1OWljWGprb3pIVnFpZFZLclBLdF9MMzkyZW1sYkg1RE55SW5FR3FqbnJiUG02WEs5Z0VIdjh3bGRpTmxmR1B3dE5mNUZuaGFWMGpGM0QtY0o1OUpBUVN6VW5SeHJaM1JQWGhILWVfTnNOTmJDSEh1S1c1Z3U4NWtLMlVtQWs?oc=5
 
-- Weather Today LIVE: Drastic Drop In Temperatures Keeps Delhi Cool - NDTV
-  " target="_blank">Weather
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOc1psNFlVN2ZDMjZIeFFYNUpDTDVJeG5PYXduU0dCdjIzQWlteW4wT1h6X2VESUtib3lRQzNDRWJxVlR4OFhJUGd6aXNWZUJKQUxVVUFpWG0ySnRrVFFBNTZ3d2V6NTVaM2N5dmdxYkpfR25pemdwb1RWZnREZGhoY0VXdDNRWE9SWWpzd3d3bTkwOEN1bGFaNDFybDZ3ajJ1cEdndXI3VGVmNlZLYTJUOWxZMHl1UjhkY0RORGFwU3VLWGJWZlZrNThSaUhvbm16VHBuVzY4Z3UtWVJVZTBudXdtXzJqVTRXa1VwRGxqb2JscUs4YnpxU3dJbWhFa0RzWmt0VWhIeG03NDdq0gGUAkFVX3lxTE9feUJ0SGdxTF94OWN4QkJJTS1HamJVd1NxNDJHa1ZFc2U1bWJRd2lwMWdaa3dDNkZRd2w0RlRNOG5QTTA2Yi1Mc2ZEQzlpOURPWExzN1FQTUFHNEFKZFJ4WmE0WnpQcVFrTXJQNzJvX2FFZWlfU3pSZm4tbXRsdFFxZHJDVm04Mm01aFlWLWsyZDktUGRxUUFmQ0l4SC1wNEpaWTdFeTdUUlFSWnU2V0o4RTBBSGRQMldCdWxOLVBOMVVqd3Vkc1Z5MnlZYzdOMVNJWlYtTnhiYnBBUXpaem12c2YyaTFDRF84a2lFY09yYkdhTTBDRHJrMENPM2FNNFpyOW9HcFI2SW5GYU1oTkd6STNJdw?oc=5
+- Trinamool Split Out In Open As Signature Scandal Explodes In Bengal - NDTV
+  Trinamool Split Out In Open As
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNaUtPeXlwemJnejlEU0x1bUgwOC1id0d3Z0FkRExGVlh5S1BEcVJEQUxKOHJmR0lLWTg1QkF0YjVIbU52YS1RUDdINFQtMmdWNmtnRlpBNGZCaHpVZ3Z4MHdKYk5yMXpiNWVXM2pHZnpPN0tVbVRnRTdUSHNUbklMampZajltV1NCeVdmb1RmOXd2S1dkZ09HM0FYREo5Y0tjQ2RhZ2lfbUp0UFA3cVdGWm11a9IBuwFBVV95cUxOdkt2c0xIdEFmT3licG0wajhWeHBzekRIeVNqLUthYmJfSHNKckZiZm82aUFaRUM3aWFyZXJ0SFFwZ2xDSS1ndk9aU1d5dHMzRzV6dkRLSVdoX2JXXzlKUlBhMWJzLUN0SVlabHB1WnVydDhNNHpqc3NQTFlzZXQyU2k3akFQZzk2QXNuWXNVVXdOQm92MzV0NlZ2cVQtdEhIazBSMGVDZmMtRjN3YWdheTFaTDB6c0x0dWtj?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-01 03:32:52 UTC_
+_Last updated: 2026-06-01 11:24:38 UTC_
