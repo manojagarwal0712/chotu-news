@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Ladakh eases excise rules, expands hard liquor sales to boost tourism
+- Their friendship started with a Facebook video, then he discovered she was from Pakistan: Inside ISI ‘honeytrap’ attempt
   
-  🔗 https://indianexpress.com/article/india/ladakh-eases-excise-rules-expands-hard-liquor-sales-to-boost-tourism-10719035/
+  🔗 https://indianexpress.com/article/india/their-friendship-started-with-a-facebook-video-then-he-discovered-she-was-from-pakistan-inside-isi-honeytrap-attempt-10719149/
 
-- All Assam Students’ Union leader’s murder sparks outrage, accused shot dead in encounter
+- ‘They poured hot water, chilli powder on him’: Third case of ‘custodial torture’ emerges in Odisha
   
-  🔗 https://indianexpress.com/article/india/assam-nalbari-aasu-member-killed-accused-dead-police-encounter-love-jihad-10718917/
+  🔗 https://indianexpress.com/article/india/they-poured-hot-water-chilli-powder-on-him-third-case-of-custodial-torture-emerges-in-odisha-10719157/
 
-- J-K Lt Governor’s anti-drug drive gets unlikely ally — Jamaat splinter group JDF
+- 15 parties to attend INDIA bloc’s Delhi meet on June 8
   
-  🔗 https://indianexpress.com/article/india/j-k-lg-manoj-sinha-kulgam-nasha-mukt-march-jamaat-splinter-jdf-10718666/
+  🔗 https://indianexpress.com/article/india/15-parties-to-attend-india-blocs-delhi-meet-on-june-8-10719196/
 
-- Visakhapatnam vs Rayagada Division: How Waltair railway map has changed from June 1
+- India, Australia agree to advance maritime awareness activities
   
-  🔗 https://indianexpress.com/article/india/visakhapatnam-vs-rayagada-division-how-waltair-railway-map-has-changed-from-june-1-10718207/
+  🔗 https://indianexpress.com/article/india/india-australia-defence-maritime-cooperation-dialogue-rajnath-singh-10719203/
 
-- Great Nicobar Project: Bhupender Yadav rejects Jairam Ramesh’s charges, defends environmental clearance
+- For 2 years, rape convict Asaram kept getting bail, citing failing health — until Rajasthan High Court drew line
   
-  🔗 https://indianexpress.com/article/india/great-nicobar-project-clearances-bhupender-yadav-jairam-ramesh-10718331/
+  🔗 https://indianexpress.com/article/india/for-2-years-rape-convict-asaram-bapu-kept-getting-bail-citing-failing-health-until-rajasthan-high-court-drew-line-10719154/
+
+- Anthropic files for IPO as AI startup behind ‘Claude’ prepares historic US stock market debut
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-files-for-ipo-as-ai-startup-behind-claude-prepares-historic-us-stock-market-debut-10719359/
 
 - ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
   
@@ -36,49 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/gaming/007-first-light-james-bond-game-all-you-need-to-know-10718682/
 
-- From Elon Musk to Michael Dell: The world’s 10 richest tech billionaires in 2026
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/elon-musk-bernard-arnault-10-richest-billionaires-2026-10718537/
+- Cyient’s largest acquisition puts spotlight on buyouts by mid-sized IT companies to boost revenue
+  The shopping bills of the country’s 15 largest IT services companies to $5 billion since April last
+  🔗 https://www.livemint.com/companies/news/cyient-largest-acquisition-mid-sized-it-companies-buyouts-revenue-increase-11780310724738.html
 
-- GE Vernova loses renewed bid to end work on New England wind farm
-  GE Vernova loses renewed bid to end work on
-  🔗 https://www.livemint.com/companies/ge-vernova-loses-renewed-bid-to-end-work-on-new-england-wind-farm-11780347775821.html
+- Tata Sons marks down the valuation of Tata Neu’s parent during latest cash infusion
+  Tata's effort to build an everything-app through Tata Digital has resulted in nearly  ₹17,000 crore in losses. When Tata Sons invested again in Tata Digital this
+  🔗 https://www.livemint.com/companies/tata-sons-marks-down-the-valuation-of-tata-neu-s-parent-during-latest-cash-infusion-11780320722673.html
 
-- Report: Scott Pelley of 60 Minutes accuses CBS News head Bari Weiss of murdering the show
-  Scott Pelley of '60 Minutes' accuses CBS News
-  🔗 https://www.livemint.com/companies/report-scott-pelley-of-60-minutes-accuses-cbs-news-head-bari-weiss-of-murdering-the-show-11780347587551.html
+- NVIDIA salaries revealed: Software engineers can earn up to  ₹3.74 crore as AI giant expands H-1B hiring
+  Nvidia is stepping up H-1B hiring even as rivals scale back. Federal filings reveal salaries for software engineers,
+  🔗 https://www.livemint.com/companies/news/nvidia-salaries-revealed-software-engineers-can-earn-up-to-3-74-crore-as-ai-giant-expands-h-1b-hiring-11780358257743.html
 
-- For Goldman’s Top Bankers, It’s All AI Data Centers All the Time
-  For leveraged finance practitioners, artificial intelligence is the only game in town. In the absence of more debt
-  🔗 https://www.livemint.com/companies/for-goldman-s-top-bankers-it-s-all-ai-data-centers-all-the-time-11780340852398.html
+- More companies slipped into losses in Q4. Is the worst still ahead?
+  More companies turned loss-making in Q4FY26. Rising raw material costs exposed smaller businesses with limited pricing power. Analysts warn the pressure could intensify in FY27.
+  🔗 https://www.livemint.com/companies/news/more-companies-slipped-into-losses-in-q4-is-the-worst-still-ahead-11780312039877.html
 
-- Govt to sell up to 6 pc in NHPC; OFS opens on Tuesday
-  The government plans to sell up to 6% stake in NHPC at  ₹71 per share starting Tuesday. The offer includes a 3% base and an additional 3
-  🔗 https://www.livemint.com/companies/news/govt-to-sell-up-to-6-pc-in-nhpc-ofs-opens-on-tuesday-11780335457307.html
+- Wockhardt’s new drug, India’s second to get US nod, now eyes commercial success
+  The nod for Zaynich vindicates chairman and founder Habil Khorakiwala’s bet on antibiotic discovery and development. Big Pharma companies in developed
+  🔗 https://www.livemint.com/companies/wockhardt-new-drug-medicine-zaynich-habil-khorakiwala-pharma-commercial-success-11780318494709.html
 
-- Airtel’s priority plan may not be in breach of net-neutrality norms: officials
-  The Telecom Regulatory Authority of India (Trai) will continue to scrutinize whether the same affects the service quality for non
-  🔗 https://www.livemint.com/companies/news/airtels-priority-plan-may-not-be-in-breach-of-net-neutrality-norms-officials-11780326393488.html
+- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 2 June 2026
+  Chandan Taparia has recommended three stocks to buy today, 2 June 2026. Tech Mahindra
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-2-june-2026-11780367020711.html
 
-- Dollar higher as markets parse fragile Middle East peace talks
-  Dollar higher as markets
-  🔗 https://www.livemint.com/market/dollar-higher-as-markets-parse-fragile-middle-east-peace-talks-11780343544849.html
+- Gold Holds Decline as Traders Weigh Confusion Over US-Iran Talks
+  Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war.
+  🔗 https://www.livemint.com/market/gold-holds-decline-as-traders-weigh-confusion-over-us-iran-talks-11780368437315.html
 
-- US yields higher as uncertainty surrounds Iran talks
-  TREASURIES-
-  🔗 https://www.livemint.com/market/us-yields-higher-as-uncertainty-surrounds-iran-talks-11780342625929.html
+- Expert view: Can't say the worst is behind for markets; positive on banks, says Mittul Kalawadia of ICICI Prudential AMC
+  Mittul Kalawadia, Senior Fund Manager at ICICI Prudential AMC, emphasises the importance of
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-cant-say-the-worst-is-behind-for-markets-positive-on-banks-says-mittul-kalawadia-of-icici-prudential-amc-11780367341999.html
 
-- Wall St flutters higher amid tech gains, Middle East developments
-  Wall St flutters higher amid tech gains
-  🔗 https://www.livemint.com/market/wall-st-flutters-higher-amid-tech-gains-middle-east-developments-11780339379077.html
+- Stocks to buy for short term: Aegis Logistics, CG Power, NBCC among 5 stocks experts recommend for next 1-2 weeks
+  Experts from Master Capital Services and Choice Broking suggest five stocks with strong bullish indicators for short-term investment. Discover which stocks could potentially yield gains over the next
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-aegis-logistics-cg-power-nbcc-among-5-stocks-experts-recommend-for-next-1-2-weeks-11780364698776.html
 
-- Oil surges over 8% as fresh Middle East tensions revive supply fears; Brent tops $98 per barrel
-  Brent crude futures gain $6.67 to $97.79 per barrel. WTI surged over 8% to above $
-  🔗 https://www.livemint.com/market/stock-market-news/oil-surges-over-8-as-fresh-middle-east-tensions-revive-supply-fears-brent-tops-98-per-barrel-11780329664362.html
+- Raja Venkatraman, MarketSmith recommend four stocks for 2 June
+  Gift Nifty Live Chart shows a negative start for the Indian stock market today. By 7:30 AM, the Gift Nifty was trading around the 23,243 level, a discount of 219 points.
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-four-stocks-for-2-june-11780364116804.html
 
-- Ola Electric launches QIP, fixes floor price at  ₹37.74 per share; check details
-  OLA Electric Mobility received board and shareholder approvals for a qualified institutional placement of equity shares.
-  🔗 https://www.livemint.com/market/stock-market-news/ola-electric-launches-qip-fixes-floor-price-at-rs-37-74-per-share-check-details-11780319201969.html
+- Anthropic grants EU access to Mythos, the powerful AI that autonomously found 10,000 zero-day flaws
+  Anthropic will finally grant the EU access to Mythos. The company has been having discussions with the bloc for weeks.
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-grants-eu-access-to-mythos-the-power-ai-that-autonomously-found-10-000-zero-day-flaws-11780361391224.html
 
 - Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT
   Florida sues OpenAI and CEO Sam Alt
@@ -96,61 +100,29 @@
   Iranian hackers are leveraging AI models like ChatGPT and Gemini to enhance
   🔗 https://www.livemint.com/technology/tech-news/iranian-are-weaponizing-chatgpt-and-gemini-for-cyberattacks-on-the-us-and-israel-report-11780298030760.html
 
-- How a Bengaluru techie's attempt to help with Kannada homework led to a keyboard app for 21 Indian languages
-  Bengaluru based developer Krishna Permi has created a keyboard app for iPhone that runs entirely
-  🔗 https://www.livemint.com/technology/akshar-app-how-a-fathers-attempt-to-help-with-kannada-homework-led-to-a-keyboard-app-for-21-indian-languages-11780295341667.html
+- Yaashvi Jewellers shares to list today. Check GMP ahead of debut
+  Yaashvi Jewellers' shares are poised for their debut on the BSE SME platform. Grey market indicators suggest the stock will trade near its issue price.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yaashvi-jewellers-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131452967.cms
 
-- S&P 500 closes at a record to kick off June trading as tech rally overpowers oil spike: Live updates - CNBC
-  S&amp;P 500 closes at a record to kick off June trading as tech
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9xcTVySExtb2NYek9nMERwZGlpSlJYeUxjWjA1dl9RRFNCRXdacmFzNldUelo4bXY0SWtfTlRGeVpfNnNmNGpJUHA2YUpfVGU4ZWsyamlBcXdlU3BPSFdzTk13ZXJGck1fbUZodTc0eWYyLWRBVllV0gF8QVVfeXFMT1JMM3dRdXVwOHZoak15V3J3cEpRdHNQQ2FzRFBxTUxfM3pqYW5WdUNXVWtVSXFsQ0xFbXZlcWJ1SWFLcXNiUVdIUG5yWUdnREl2SDBFM09LU052cHU3R0E4R2NQY3BXTktudHlkYld6TlFNX19sTDFuOERoWQ?oc=5
+- Bonus issue alert! Last day to buy Anand Rathi Wealth shares for 1:1 bonus reward. Do you own?
+  Anand Rathi Wealth shareholders are set to receive bonus shares in a 1:1 ratio. Today is the last chance to buy for eligibility. Bonus shares will be credited by June 7.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-anand-rathi-wealth-shares-for-11-bonus-reward-do-you-own/articleshow/131452931.cms
 
-- Stock Market Today: Dow Slips, Oil Surges Above $97 a Barrel; Nvidia Fuels AI Enthusiasm — Live Updates - WSJ
-  The WSJ reports that Nvidia is developing an artificial intelligence system. The tech giant
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1FNNWdCWmZGUWhqV3gyMzZxUXBzSlBQdjRFUUhNSGZqcFBvSUpSYnkxclVnT29ZVnluU0R5RTItTTNxVmNRSWs5UmdWRFdVVEoxaTJpSHRIWVNjVk9nbldsRENRZXRYQ3VqOVdSb0RDNS01a1lLVUFQT1JrYmxDNVBRTENfUkE?oc=5
+- Oil Price Today (June 2): Crude oil at $95 per barrel amid conflicting Iran war signals. What are experts saying?
+  Oil prices held steady Tuesday, following Monday's surge, as global markets weighed U.S.-Iran ceasefire talks. Conflicting reports emerged regarding negotiations, with President Trump suggesting talks
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-2-crude-oil-at-95-per-barrel-amid-conflicting-iran-war-signals-what-are-experts-saying/articleshow/131452905.cms
 
-- Markets News, June 1, 2026: Indexes Start Month With Fresh Record Highs as Nvidia-Driven Tech Gains Outweigh Surging Oil Prices - Investopedia
-  Investopedia.com is a leading source of information on the global stock market. The
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlzTGtuZlRwdWh0YmRfU0hNdE1WOFRYM0ZBZjEyNTdHelNzdG91aTVhWWhvYjJEQjdtZE1JVnhtaXljUHF2a1BCSUlUTW04YW4zTHhaOGtneldNNUNQci1QRUpOUm5wdXlYSm1zTHY2aExGV3I0TUZkNFRwbDdLeE9DbkJRQTIyUlNxMHZOSW8?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ola-electric-eicher-motors-share-price-02-june-2026/liveblog/131452864.cms
 
-- Oil Jumps on Report Iran to Halt Exchanges With US: Markets Wrap - Bloomberg.com
-  Oil Jumps on Report Iran to Halt Ex
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTRyZlk2WnNoRE5nWVhocmhuZjdVUHdNalBMRFI5cFRVU2FGYndFdVhUazE0cnlGSnV0WW5JQlkwVmhWVTYzLU9RMWxLZEhjanE5YXNPVkU1SFBpV3I5UFNqYXhySWsySFRua19BeHgxNE5rcUpkSEdEWjRVTmlZT1l4RXNGYW9vYVEwMVdUSDRVblQxMXYxdDltY2xjUHVpcTBVcGJadkp1NFZIZFEydw?oc=5
-
-- After 'May-hem' On D-Street, Why June Could Be A Turning Point For Markets - NDTV
-  After 'May-hem' On D-Street,
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOb1FWazNFQ1I5M3hsTjRSSFo0bXhVM0M1QTJnYmkxZFBnUUFZRWswenpRQ0l2NlEtR2VYSG1iUU9GMVdnaW5OTlE1SlcxVXV0R0d1ZDVKNGhFSy0tLWhnMldaUkRjak5OdjdHYldRNEF4Vk4yVEJLYUs1cEFTZ1dsQTd1eGxvMkl0MUFtVVJnanl3RXZxZFFIbnY5SjFVTWFZU3d5TENGQ01ySnYxd3ZwdFc0Z0xvUFV1SXZhbnY1Nl9rcVlOTTVyQXVB0gHSAUFVX3lxTE03QXB5czlmUm9kTkhjNnFnRzdKT3ZnUTB4Zjhzck51cVhPLU9KZ21hVnBDa2pkcDRya3lmTkRocVBHcjVlWXRhakdXdjFaeC1Vb0FVSllqSWJ2TFZPQThwNEF2c0FLT2tUV1pkRkhOZ2JQVThUc0poSi1IWTZvQ1NDTGZ0bzZyOGZHaUQzRnVmM291eXdEREJ1d1VMNE9iejFpTnh1XzRZeldBeVlnTWtQVjF0ZHVXSzgxWU9fZGVobTZ2NDZnNjBIUFIwclVfWXlNZw?oc=5
-
-- US stocks today: US stocks end higher, boosted by tech gains, US-Iran peace hopes
-  US stocks closed higher as AI-driven tech rally lifted the Nasdaq and S&amp;P 500 to fresh record highs. Nvidia gained after unveiling a new chip bringing AI capabilities to laptops, while Micron crossed $
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-boosted-by-tech-gains-us-iran-peace-hopes/articleshow/131450016.cms
-
-- SpaceX reserves up to 5% of IPO stock for staff and friends
-  SpaceX has reserved up to 5% of its upcoming IPO shares for employees and friends of executives. The filing also highlights Nvidia chip-powered AI compute deals, water scarcity risks, and valuation targets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms
-
-- AI giant Anthropic confidentially files for US IPO
-  Anthropic confidentially files for a US IPO. Move highlights strong investor interest in artificial intelligence firms after rapid valuation gains.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-giant-anthropic-confidentially-files-for-us-ipo/articleshow/131446257.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex and Nifty fell for a fourth straight session amid elevated crude oil prices, geopolitical tensions and persistent selling pressure. Market breadth remained weak, technical indicators turned bearish, while select stocks including W
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131445875.cms
-
-- Market Trading Guide: NMDC among two stock recommendations for Tuesday
-  Indian benchmark indices extended losses for a fourth straight session. FII selling and geopolitical concerns hurt sentiment. Amid the weakness, analysts recommend NMDC and Laurus Labs.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-nmdc-among-two-stock-recommendations-for-tuesday/articleshow/131445838.cms
-
-- 'Not only India': Nepal PM's ‘encroachment’ remark on Lipulekh Pass dispute ignites controversy at home | India News - Hindustan Times
-  'Not only India': Nepal PM's ‘encroachment’ remark on
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVFNNYjBSMnFxSWd6NVdrbjhRUE1qa0tsZDhGbDJCM2NMNlBhSjlaMDFtNDI1QjJMbFBueWxfLVVWT25ES2t1TExGUXlNOG4zQlpwZjRHSi1KbVJVYzE4NG5jQmpjLTJuLU56SHZva2I4SHJTNWplQU10eFA3UGdJeFFPNkFnRGFCNmxKbGllVmxuQTJuUnRKVDRleTJwbTZZTEZmRkd3VkJvM3pSMEJTVlk5Q2VaejhqNERMYkkwYUIxdVFtajlsLU9wZXZnT0RpY0J0dWR1WEZxSVdLR2Y2dU5mNlZnTkN2c3pscTJoa29KZ9IB9wFBVV95cUxQSGNMVmQzZ1NzQmlMYmFjMmdZUW1MUFBmWlJ4dEVhaEtxQUU0Z3FhcURpdEVlMEt3c1g1TFhTRGtGandsWnlWTU9KUS1HU18tc04wVTJwRl9kd0Fwa1A1WklkeGRuSUw4cmpZck14dGVwbnA0Z2RTV015elpVTnhJSXl1bTI3bi1mYnplQ1V0T0pRdFpjT092U3RsaHJ0WV9nS196SUZmNnlIVzM4M0ZaVVJSSDdKM1E0ZVQzWE5Da3NPU0Z1UXJ6dkM0dTZHRDlWME4zcnhSVXJYbXZsaEl2RlBhYy1tMnQzZ1p6ak5YTlNXSnBscklJ?oc=5
+- Negative Breakout: These 9 stocks cross below their 200 DMAs
+  Nine stocks flashed bearish signals after falling below their 200-day moving
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/131452872.cms
 
 - Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
   Nepal PM Balen Shah's India-
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
-
-- Nepal PM Balendra Shah's 'encroaching' India remark sparks row: What is the border dispute about? - The Times of India
-  Nepal PM Balendra Shah's 'encroaching' India remark sparks
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZmhTTW1ISnVENkxNSlRldzFRdzBoQ1h4dEhobFJ1Z0twTVVXeVA1c0JyLUFCRFRvZVhPV0hHYk9IOGxnZ0YzUTMwQ0VfeWJpdGtjNG5KeTc3M3JseG9QeVBra1ZqZmZ0WEUxUkU4RXhUZW9UY2xkX0hNaUdwclF0Z0VmdVJLTlBWdkdnSHZPdFZxRjBCMjZGc2pPMlJJb1k5STNVcFJwcEZpT0p1dXl0Z1pIbm50ekV5d3p1Q1BVWkhJZWt2bW5pOGtULXR2VWhQYXFwYUt5MzR1OFRtVmdXMl9JN3dreVNHNnY4eGIyOFppUdIB9wFBVV95cUxQZ1QyMlBmY3I2ZnZ0NHFKWm93cUw1TVY1V1oxaWtlTkxDUW1nd0QyczAwUHpIbVQzbDdTbjFKbHVmZ19HRFdDRUpkTDUzTWxVR0ZWaDl1R0p2Z24tNzhsQ1pFZlpvaXdBY2FJZFJYRVlFR2dhalFGNEpseDA2N0RIRDhxNjVNNllISmk5LThFdTNkRXVzUEN6MUJ2QzAzMm9HS2tqYkJrajFMUEtQdGJIeHZPNF9mNDRTMWxUc29rdUJCNHZpRVpJM2cyb3RSa0NYZUE4OFNETVhvM2FENndtbDZjenYzU0d0OWhWVy1EYW9zMjR4UVpN?oc=5
 
 - How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
   How India-Oman Trade Pact Opens
@@ -159,6 +131,74 @@
 - India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
   India-US trade deal: First tranche set to be signed soon as 'all major
   🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+
+- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
+  'All major points settled': First tranche of India-US trade deal soon
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+
+- The View From India newsletter: Looming fears of a forever war - The Hindu
+  The Indian government is considering sending troops to Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+
+- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
+  How India-Oman Trade Pact Opens
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+
+- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
+  India-US trade deal: First tranche set to be signed soon as 'all major
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+
+- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
+  'All major points settled': First tranche of India-US trade deal soon
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+
+- The View From India newsletter: Looming fears of a forever war - The Hindu
+  The Indian government is considering sending troops to Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+
+- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
+  How India-Oman Trade Pact Opens
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+
+- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
+  India-US trade deal: First tranche set to be signed soon as 'all major
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+
+- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
+  'All major points settled': First tranche of India-US trade deal soon
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+
+- The View From India newsletter: Looming fears of a forever war - The Hindu
+  The Indian government is considering sending troops to Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+
+- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
+  Nepal PM Balen Shah's India-
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+
+- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
+  How India-Oman Trade Pact Opens
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+
+- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
+  India-US trade deal: First tranche set to be signed soon as 'all major
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+
+- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
+  'All major points settled': First tranche of India-US trade deal soon
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+
+- The View From India newsletter: Looming fears of a forever war - The Hindu
+  The Indian government is considering sending troops to Afghanistan.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-01 21:28:53 UTC_
+_Last updated: 2026-06-02 03:03:54 UTC_
