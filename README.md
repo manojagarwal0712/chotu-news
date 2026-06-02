@@ -1,204 +1,224 @@
 # 📰 Daily News Summaries
 
-- Their friendship started with a Facebook video, then he discovered she was from Pakistan: Inside ISI ‘honeytrap’ attempt
+- Twisha Sharma’s mother-in-law addresses court, flags ‘media trial’, slams investigators
   
-  🔗 https://indianexpress.com/article/india/their-friendship-started-with-a-facebook-video-then-he-discovered-she-was-from-pakistan-inside-isi-honeytrap-attempt-10719149/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-dowry-death-mother-in-law-court-media-trial-10720903/
 
-- ‘They poured hot water, chilli powder on him’: Third case of ‘custodial torture’ emerges in Odisha
+- India rejects EU-Pakistan remarks on Kashmir, says ‘no locus standi’
   
-  🔗 https://indianexpress.com/article/india/they-poured-hot-water-chilli-powder-on-him-third-case-of-custodial-torture-emerges-in-odisha-10719157/
+  🔗 https://indianexpress.com/article/india/india-rejects-pakistan-eu-joint-statement-jammu-kashmir-mea-locus-standi-10720663/
 
-- 15 parties to attend INDIA bloc’s Delhi meet on June 8
+- Locked up, fed raw rice, assaulted: Uttarakhand woman’s 10-month ordeal at in-laws’ house
   
-  🔗 https://indianexpress.com/article/india/15-parties-to-attend-india-blocs-delhi-meet-on-june-8-10719196/
+  🔗 https://indianexpress.com/article/india/locked-up-fed-raw-rice-twins-10-month-in-laws-woman-10720752/
 
-- India, Australia agree to advance maritime awareness activities
+- Shashi Tharoor attacks Centre over exam paper leaks: ‘Betrayal of an entire generation’
   
-  🔗 https://indianexpress.com/article/india/india-australia-defence-maritime-cooperation-dialogue-rajnath-singh-10719203/
+  🔗 https://indianexpress.com/article/india/shashi-tharoor-exam-paper-leaks-nta-modi-government-criticism-10720572/
 
-- For 2 years, rape convict Asaram kept getting bail, citing failing health — until Rajasthan High Court drew line
+- Sonam Wangchuk asks education minister to quit, else will join Cockroach Janta Party movement
   
-  🔗 https://indianexpress.com/article/india/for-2-years-rape-convict-asaram-bapu-kept-getting-bail-citing-failing-health-until-rajasthan-high-court-drew-line-10719154/
+  🔗 https://indianexpress.com/article/india/sonam-wangchuk-cockroach-janta-party-protest-delhi-10720810/
 
-- Anthropic files for IPO as AI startup behind ‘Claude’ prepares historic US stock market debut
+- Fireball meteor exploded over US with force of 230 tonnes of TNT
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-files-for-ipo-as-ai-startup-behind-claude-prepares-historic-us-stock-market-debut-10719359/
+  🔗 https://indianexpress.com/article/technology/science/fireball-meteor-exploded-over-us-with-force-of-230-tonnes-of-tnt-10720459/
 
-- ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
+- Microsoft Build 2026 kicks off today: How to watch and what to expect
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/asus-rog-edition-20-computex-2026-10719052/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-build-2026-kicks-off-today-how-to-watch-and-what-to-expect-10720512/
 
-- ‘When you’re the only brand, customers buy you’: ASUS’s push into India’s heartland
+- Claude AI down: Users report problems accessing chatbot and API
   
-  🔗 https://indianexpress.com/article/technology/asus-india-growth-strategy-computex-10718982/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/claude-ai-down-users-report-problems-accessing-chatbot-and-api-10720495/
 
-- This startup plans to deploy humanoid robots in Ukraine battlefield within 18 months
+- 99% of CEOs expect AI-driven job cuts within 2 years, survey finds
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/startup-trump-family-ties-humanoid-robots-ukraine-war-10718826/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/99-of-ceos-expect-ai-driven-job-cuts-within-2-years-survey-finds-10720137/
 
-- 007 First Light sells 1.5M copies in first 24 hours: All you need to know about the new James Bond game
+- Deleted an Instagram DM? Here’s how you can recover it
   
-  🔗 https://indianexpress.com/article/technology/gaming/007-first-light-james-bond-game-all-you-need-to-know-10718682/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/deleted-an-instagram-dm-heres-how-you-can-recover-it-10720025/
 
-- Cyient’s largest acquisition puts spotlight on buyouts by mid-sized IT companies to boost revenue
-  The shopping bills of the country’s 15 largest IT services companies to $5 billion since April last
-  🔗 https://www.livemint.com/companies/news/cyient-largest-acquisition-mid-sized-it-companies-buyouts-revenue-increase-11780310724738.html
+- Another conglomerate sets eyes on India's wealth market
+  Godrej Investments has set up a wealth management unit, Godrej Wealth. Godre
+  🔗 https://www.livemint.com/companies/news/conglomerate-indias-wealth-market-godrej-industries-group-financial-services-pirojsha-godrej-godrej-wealth-11780397510643.html
 
-- Tata Sons marks down the valuation of Tata Neu’s parent during latest cash infusion
-  Tata's effort to build an everything-app through Tata Digital has resulted in nearly  ₹17,000 crore in losses. When Tata Sons invested again in Tata Digital this
-  🔗 https://www.livemint.com/companies/tata-sons-marks-down-the-valuation-of-tata-neu-s-parent-during-latest-cash-infusion-11780320722673.html
+- DevX enters Bengaluru with 1.11 lakh sq ft office leases in premium Prestige projects
+  Dev Accelerator's expansion into Bengaluru is set to create over 1,
+  🔗 https://www.livemint.com/companies/news/devx-bengaluru-workspace-leases-prestige-projects-lakeshore-drive-prestige-featherlite-tech-hub-11780345088553.html
 
-- NVIDIA salaries revealed: Software engineers can earn up to  ₹3.74 crore as AI giant expands H-1B hiring
-  Nvidia is stepping up H-1B hiring even as rivals scale back. Federal filings reveal salaries for software engineers,
-  🔗 https://www.livemint.com/companies/news/nvidia-salaries-revealed-software-engineers-can-earn-up-to-3-74-crore-as-ai-giant-expands-h-1b-hiring-11780358257743.html
+- Oyo-parent Prism gets Sebi approval for  ₹6,650 crore IPO: Report
+   Prism, Oyo's parent firm, has received Sebi
+  🔗 https://www.livemint.com/companies/news/oyoparent-prism-gets-sebi-approval-for-6-650-crore-ipo-report-11780401570395.html
 
-- More companies slipped into losses in Q4. Is the worst still ahead?
-  More companies turned loss-making in Q4FY26. Rising raw material costs exposed smaller businesses with limited pricing power. Analysts warn the pressure could intensify in FY27.
-  🔗 https://www.livemint.com/companies/news/more-companies-slipped-into-losses-in-q4-is-the-worst-still-ahead-11780312039877.html
+- Deeptech startup funding nears 2025 levels as VC conviction strengthens
+  The deeptech sector raised $1.1 billion as of June 1, highlighting a shift towards supporting early-stage companies and larger capital allocations. Venture capital funding of de
+  🔗 https://www.livemint.com/companies/news/deeptech-startup-funding-vc-investment-neysa-rdi-scheme-defence-spacetech-blackstone-11779790228730.html
 
-- Wockhardt’s new drug, India’s second to get US nod, now eyes commercial success
-  The nod for Zaynich vindicates chairman and founder Habil Khorakiwala’s bet on antibiotic discovery and development. Big Pharma companies in developed
-  🔗 https://www.livemint.com/companies/wockhardt-new-drug-medicine-zaynich-habil-khorakiwala-pharma-commercial-success-11780318494709.html
+- Eyeing Q-com catch-up, Amazon taps Fresh backbone to fuel Now's 100-city expansion
+  Amazon India is betting that years of investment in grocery sourcing, processing, and cold-chain operations can help power its next phase of growth
+  🔗 https://www.livemint.com/companies/amazon-quick-commerce-strategy-amazon-now-and-fresh-11780381889610.html
 
-- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 2 June 2026
-  Chandan Taparia has recommended three stocks to buy today, 2 June 2026. Tech Mahindra
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-2-june-2026-11780367020711.html
+- Gold, silver rates today: Comex gold jumps $65/oz; silver rebounds $2 as oil prices retreat and dollar weakens
+  Gold rose $65 to $4,571 and silver gained $2.1 to $77.35.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-65-oz-silver-rebounds-2-as-oil-prices-retreat-and-dollar-weakens-11780409302596.html
 
-- Gold Holds Decline as Traders Weigh Confusion Over US-Iran Talks
-  Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war.
-  🔗 https://www.livemint.com/market/gold-holds-decline-as-traders-weigh-confusion-over-us-iran-talks-11780368437315.html
+- Marvell Tech shares soar 23% in premarket trading after Nvidia CEO calls it ‘the next trillion-dollar company’
+  Marvell Technology shares surged 27% in premarket trading. Year-to-date, shares have risen 158%, boosting market capitalization to nearly $192
+  🔗 https://www.livemint.com/market/stock-market-news/marvell-tech-shares-soar-23-in-premarket-trading-after-nvidia-ceo-calls-it-the-next-trillion-dollar-company-11780404111689.html
 
-- Expert view: Can't say the worst is behind for markets; positive on banks, says Mittul Kalawadia of ICICI Prudential AMC
-  Mittul Kalawadia, Senior Fund Manager at ICICI Prudential AMC, emphasises the importance of
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-cant-say-the-worst-is-behind-for-markets-positive-on-banks-says-mittul-kalawadia-of-icici-prudential-amc-11780367341999.html
+- Expert view: Reset return expectations, avoid taking extreme positions in equities, says Amit Bivalkar of Equirus Group
+  Amit Bivalkar of Equirus Group advises investors to reset their return expectations and avoid extreme positions in equities.
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-reset-return-expectations-avoid-taking-extreme-positions-in-equities-says-amit-bivalkar-of-equirus-group-11780404109397.html
 
-- Stocks to buy for short term: Aegis Logistics, CG Power, NBCC among 5 stocks experts recommend for next 1-2 weeks
-  Experts from Master Capital Services and Choice Broking suggest five stocks with strong bullish indicators for short-term investment. Discover which stocks could potentially yield gains over the next
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-aegis-logistics-cg-power-nbcc-among-5-stocks-experts-recommend-for-next-1-2-weeks-11780364698776.html
+- Structural growth drivers continue to attract investor interest in mid, small-caps
+  India's mid and small-cap stocks show remarkable resilience and growth potential. With a focus on innovative sectors, these companies
+  🔗 https://www.livemint.com/market/stock-market-news/structural-growth-drivers-continue-to-attract-investor-interest-in-mid-smallcaps-11780404947696.html
 
-- Raja Venkatraman, MarketSmith recommend four stocks for 2 June
-  Gift Nifty Live Chart shows a negative start for the Indian stock market today. By 7:30 AM, the Gift Nifty was trading around the 23,243 level, a discount of 219 points.
-  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-four-stocks-for-2-june-11780364116804.html
+- US stock market today: Nasdaq, S&amp;P 500 edge lower as Middle East tensions keep markets on edge
+  S&amp;amp;P 500 futures dipped 0.1%, while Nasdaq futures fell 0. 1%. Despite the market's recent record highs, concerns over rising oil prices and
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-edge-lower-as-middle-east-tensions-keep-markets-on-edge-11780399149164.html
 
-- Anthropic grants EU access to Mythos, the powerful AI that autonomously found 10,000 zero-day flaws
-  Anthropic will finally grant the EU access to Mythos. The company has been having discussions with the bloc for weeks.
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-grants-eu-access-to-mythos-the-power-ai-that-autonomously-found-10-000-zero-day-flaws-11780361391224.html
+- The Quantum Valley bet: Inside Amaravati’s race against FOMO
+  Andhra Pradesh is bypassing global hardware restrictions to build an indigenous Quantum Valley. Governments around the world are racing to build quantum capabilities.
+  🔗 https://www.livemint.com/technology/amaravati-quantum-valley-india-mission-11780386960553.html
 
-- Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT
-  Florida sues OpenAI and CEO Sam Alt
-  🔗 https://www.livemint.com/technology/florida-sues-openai-and-ceo-sam-altman-claiming-company-concealed-serious-risks-of-chatgpt-11780340170155.html
+- Anthropic's Claude hit by major outage affecting chat, API and developer tools
+  Claude, the AI chatbot developed by Anthropic, experienced a widespread outage on Tuesday. Hundreds of users reported issues accessing Claude
+  🔗 https://www.livemint.com/technology/tech-news/anthropics-claude-hit-by-major-outage-affecting-chat-api-and-developer-tools-11780398312963.html
 
-- These are the laptop price drops that actually caught our attention
-  Price cuts on select laptops are making premium features like OLED displays, AI capabilities and long battery life
-  🔗 https://www.livemint.com/technology/gadgets/these-are-the-laptop-price-drops-that-actually-caught-our-attention-11780311567917.html
+- 'Greedy move': Amazon faces severe backlash over degrading Prime subscription with forced ads, removed song downloads
+  The new change is set to take place from next month. Amazon Prime users are upset as ads will soon be introduced
+  🔗 https://www.livemint.com/technology/tech-news/greedy-move-amazon-faces-severe-backlash-over-degrading-prime-subscription-with-forced-ads-removed-song-downloads-11780387259731.html
 
-- How iOS 28 is already shaping up to be a much bigger iPhone update than the iOS 27, report reveals
-  Apple is developing iOS 28, expected to be significant
-  🔗 https://www.livemint.com/technology/tech-news/how-ios-28-is-already-shaping-up-to-be-a-much-bigger-iphone-update-than-the-ios-27-report-reveals-11780302684982.html
+- Microsoft turns its back on Claude Code, asks employees to use Github Copilot instead: Report
+  Microsoft has instructed its employees to stop using Claude Code and instead transition to GitHub Copilot. The company had first started giving access to Claude
+  🔗 https://www.livemint.com/technology/tech-news/microsoft-turns-its-back-on-claude-code-asks-employees-to-use-github-copilot-instead-report-11780373587881.html
 
-- Iranian hackers are weaponising ChatGPT and Gemini for cyberattacks on the US and Israel: Report
-  Iranian hackers are leveraging AI models like ChatGPT and Gemini to enhance
-  🔗 https://www.livemint.com/technology/tech-news/iranian-are-weaponizing-chatgpt-and-gemini-for-cyberattacks-on-the-us-and-israel-report-11780298030760.html
+- iPhone 18 Pro Max price: How much will Apple's 2026 flagship cost in India and US?
+  Apple is expected to unveil the iPhone 18 Pro Max in September. The iPhone 18 series could cost in India and US.
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-max-price-how-much-will-apples-2026-flagship-cost-in-india-and-us-11780384119845.html
 
-- Yaashvi Jewellers shares to list today. Check GMP ahead of debut
-  Yaashvi Jewellers' shares are poised for their debut on the BSE SME platform. Grey market indicators suggest the stock will trade near its issue price.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yaashvi-jewellers-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131452967.cms
+- South Korea Overtakes India as World’s Sixth-Largest Stock Market - Bloomberg.com
+  South Korea Overtakes India as World
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOSE52MEVnQ1B0cFk5VnRXMDBjMF96cDZpR2ZFSVlyT05Lcmtac3NvRGRYVjZKWHFmR01JT21JUmRyb2VkN1FEck5oQTdQNmRraHU3SGlya3VCRmtkX0JqcUV5azh5THhDT3Z3S2QyeFpMOUpIem9sMEJoRlNTQU5NQzhRSERSam55dGk1eFczODFkcUdXamtzVnNPZ0VIWHJHbmgwUUQwc1JPNDhBSjl2T093?oc=5
 
-- Bonus issue alert! Last day to buy Anand Rathi Wealth shares for 1:1 bonus reward. Do you own?
-  Anand Rathi Wealth shareholders are set to receive bonus shares in a 1:1 ratio. Today is the last chance to buy for eligibility. Bonus shares will be credited by June 7.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-anand-rathi-wealth-shares-for-11-bonus-reward-do-you-own/articleshow/131452931.cms
+- India slips to seventh in global market cap rankings as South Korea pulls ahead - Reuters
+  India slips to seventh in global market cap rankings as South Korea
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXo5RUd0eVFEQ3FuVjcyR3B6anR5cW5NMG14UGVEVkhhVmpZZlFPVnlOdUlpbEdXZzNuQkxLTkNNU1hWd3dJQ2RaVXIzS2tXWjNBY2dIaTFWN1pHbVhKRlRoYzRURUVia0JWSFpOeHFudlBCWjJwYnZRTThiY1pNZ0tGY3FHRnZqRTJGUjR5ZnNWTGRFTzRIcUpCV3JoYTM5SlZoWGd2dkFjckdDdFo2ZUpheHN5N0pwRlE?oc=5
 
-- Oil Price Today (June 2): Crude oil at $95 per barrel amid conflicting Iran war signals. What are experts saying?
-  Oil prices held steady Tuesday, following Monday's surge, as global markets weighed U.S.-Iran ceasefire talks. Conflicting reports emerged regarding negotiations, with President Trump suggesting talks
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-2-crude-oil-at-95-per-barrel-amid-conflicting-iran-war-signals-what-are-experts-saying/articleshow/131452905.cms
+- Why did Taiwan, South Korea overtake India? Drop from 5th to 7th largest stock market - explained in 10 charts - The Times of India
+  Why did Taiwan, South Korea overtake India? Drop from 5th to 7th largest stock market - explained
+  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTRTMHMtZ195ZUJUWFY2cnJISmhWbUVWY0VaeHllMnFMdzdUVW80dEptUC1YekhZVDd4OV9vTGx6eFczTlRJc0JOMjhCWE9GMDRkZWNBRHQwNWJ0dkxXWWFjTTB2Y0lWVlozZDZwM1E0aXBWUHFIN0NMVUtZamlZaUlzMG0xNmJhNmxKbFFuUGRyaW1XbGIwd3lMMzNfLV9IUnl2UVl0Q3ozajZSNmNmRExRVlpraFVLN3pMeVB4MWoyaURiYnEtRFFicVd6SUtOY0FPWUJ4QzVxTUlYVFVLLUhJSlR3dzNfdk1IbTdWbHZYYkhfamJyc25majI0ZTFRQk1LdnFQczB1SnhFQWRPc09oNy0wM1NzSFRFNg?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ola-electric-eicher-motors-share-price-02-june-2026/liveblog/131452864.cms
+- Sensex settles 800 pts higher from day's low, Nifty ends above 23,450; five key reasons behind market... - Moneycontrol.com
+  Sensex settles 800 pts higher from day's low, Nifty ends above
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLUQ1Tlkta0w1bl9PdGxaM3FnVGFHOG5EX0NaSHd0ZlQtcmdLemFkbW5tcm5Xbzl1a1hScHhwbU1zY0U4WENNZ2Nfb053MVZvYWczeXlhUVl3VVRXbjhNYS1IaFcxLXA0OGJfVnd6UUtPUjM1WFhqTTBoemhmOUEza0FwX2xqLTN3YjVVSWdtbjRQVHN3OTNYSHdJclZ2MTFDeTZ1SnpQOUZFMEhiZF9WWHFYbFBwbE1qdUgya0FiTWFIREJsUXBDUzRENGZxQVVBVFZtalhnbHlFS1ZZTDE2U0FFRzRLazRQU3A3TlY1N0RSV00y0gH6AUFVX3lxTE9NWkJ0cEhUUVhiNkRFUUNOWU95SFBsalV0QzYzRURONVJlWFk1cTBqTVozTFBRVmFaWmVwZWRqWGhQTWFWRFdKUjFBdWZzSFd1YnFyaFRTek9abDFGemJrUTFKVVV3VGphY2NhWWlTcTNLNlo4Yk9DUGlfX2JFcVB0TVVWeVdjSDRtdGJpclV0T3Q5X21iaHNsTUo5SFJIRDFsZThsMXVmVy1Md0FxVC1yellPd29iU2NPN3MtdUFhQUh4aDh1ZUxXWkhQTUhhX1p4bVFRQjZucEROdE1hSmNreEhLT201OTBCd0hDVFViVEcycU05dVc4eGc?oc=5
 
-- Negative Breakout: These 9 stocks cross below their 200 DMAs
-  Nine stocks flashed bearish signals after falling below their 200-day moving
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/131452872.cms
+- Stock markets snap 4-day losses led by strong rally in IT firms; Sensex up 382 points - The Hindu
+  Stock markets snap 4-day losses led by strong rally in IT firms.
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNenVPU1ZPRTNpaVI2TkpJbVFvQzBHSmgtZmkxOVBJX0I2eXJLTl9oUDROZDdmYXpieEd5TXQxUzZsczE5YjRBOUMyUkV3eUpwYy1YS1dJVC14Y0JqenJaMFhQSzRVZWhfZlZVaHNucUNrbE1Yb3c2Vm9DOE1hcUVBV291M1BJTUoydFVWZkd2ZjZ1cE91akpfRGdVX0dSUVlWQzg3dkp2Q250S0s3UEVlblVtWmpFTEFPRW44dWVOMUNhOE4tQkNNeTNXSmhUV2toTkxlY1RKUGwwVkdRSGZrVNIB5wFBVV95cUxQbklQOG1POEtad1VNd0hIS2taREFvRkJRdEhJSlZSTDE0QWdpZnBnUy0zUUJ3eVlaQ1NtQTRHUWlMUzNCUTdOTWRwSS11THRNbloyaFgwZlRjVVVYNW5HN0JNWDZxMml3T2VyTHppN013S3NmT1BBVVFEbGtOSGFrbTNBa2tnRUYteS1MWm5GenBpYTJveVN0Q2JsYnVJaGNCUkF2TG02V0loclZsamdKWEJGN3pBaEtQcHhBekhtVUFmOEl3MUFENDZJd0JIY0tqM2lCLU1EZkUteG9mNTBib0FkNlBkM00?oc=5
 
-- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
-  Nepal PM Balen Shah's India-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+- Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers
+  Alkem Laboratories shares experienced significant block deals totaling Rs 930 crore. Promoter family entities divested shares to a group of domestic mutual funds and foreign institutional investors.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms
 
-- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
-  How India-Oman Trade Pact Opens
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex gained 382 points and Nifty closed above 23,480. Investors tracked monsoon progress, inflation trends, RBI policy outlook and liquidity conditions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131466696.cms
 
-- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
-  India-US trade deal: First tranche set to be signed soon as 'all major
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+- CMR Green raises Rs 188 crore in IPO anchor round; SBI MF, ICICI Pru MF among top investors
+  CMR Green Technologies raised Rs 188 crore from anchor investors before its IPO opening. The robust demand underscores investor interest in sustainability-focused businesses.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cmr-green-raises-rs-188-crore-in-ipo-anchor-round-sbi-mf-icici-pru-mf-among-top-investors/articleshow/131466506.cms
 
-- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
-  'All major points settled': First tranche of India-US trade deal soon
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+- Market Trading Guide: Parag Milk among two stock recommendations for Wednesday
+   Benchmark indices ended a volatile session near the 23,500 mark. Analysts have recommended Chennai Petroleum and Parag Milk Foods for Wednesday.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-parag-milk-among-two-stock-recommendations-for-wednesday/articleshow/131466475.cms
 
-- The View From India newsletter: Looming fears of a forever war - The Hindu
-  The Indian government is considering sending troops to Afghanistan.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+- US stocks: Fulcrum shares plummet over 50% after scrapping lead sickle-cell drug on FDA concerns
+  The oral drug, pociredir, was ‌being tested to treat sickle-cell disease.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fulcrum-shares-plummet-over-50-after-scrapping-lead-sickle-cell-drug-on-fda-concerns/articleshow/131465741.cms
 
-- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
-  Nepal PM Balen Shah's India-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
+  Min Aung Hlaing: Why Myanmar president
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
 
-- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
-  How India-Oman Trade Pact Opens
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+- India and Myanmar discuss trade, security, connectivity and border management - News On AIR
+  India and Myanmar discuss trade, security, connectivity and
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3RpSXBBRzZuWi05VWJQNlQ4VFNjbFd0SGpHRzM2c3VUNkF0TlV3M1piNFVTM0tKckFVa0xtUHdXeFZqdWdBQjZTeDNYTGNCaUs0ZlM1U2wxNEhzRDhyck5wSFNjSDFQWG56YnpuMnJWOEctMmtRd0xzeVphcUo2WDRrdGdxZ1E1OTNGUkw1eWk5Z3cxai11WW5DR3RrRXBOaWVJ?oc=5
 
-- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
-  India-US trade deal: First tranche set to be signed soon as 'all major
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
+  Indian PM Modi meets Myanmar military gov’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
 
-- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
-  'All major points settled': First tranche of India-US trade deal soon
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+- 'No Plumber In 5 Years': India Heading For A Blue-Collar Blackout, Warns Expert - NDTV
+  'No Plumber In 5 Years': India Heading
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDVqZ1ZxNWFTVTVQWFhVREZGMkFuYmt4XzRseEJZb3dSUWpaQnBxRkxMUWlNNTBxZ29aaUtQYUFUS2hZb29haEFVZkQ5aFBqTTlRQkVaSmVNQl9Ick1qNlpRY29ENVdFZGttR0ZwbW04eDVsWWhRN2d5X2dJeGFZeDEtTXdnZE82QkVsLVJrbGxtdmJoUW5xeUhIYldpYU42TWdaSy13UENieGg5RFp0RFlSbUNoRjN6SjhrazFxX29jeWcweTNhRVhsaFnSAdQBQVVfeXFMTm5LUlBEb2xzN0thdUhFSlhQWTVWVzVWRnlXUXlTal9Rb3JTNndWZVBSdWJEMDB4SFVMQzEyYUFtUHQ4NUMtZkQtYzZHV0otZ09ITXc2SWpqakgwd3ZxUkZTV1M5TzZySmF5NF8tS1UyUFlBN2VUTURkeG9SYXFUWXhEc0JEOWxQeFdaN2ZWdUtqZ3pnVXFDVDRCc1Q0TjhiVkhvRGtlOHFIcWlvd1dES0V1dXR1TUNZNDUtcGs2Q0NfRTAzS251QWhWdlVvRUt3TmMxOHo?oc=5
 
-- The View From India newsletter: Looming fears of a forever war - The Hindu
-  The Indian government is considering sending troops to Afghanistan.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+- India and Myanmar shared commitment to enhance cooperation against transnational drug trafficking - News On AIR
+  India and Myanmar shared commitment to enhance cooperation against transnational drug
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBDT2NrT29peXJWMFJwTmhZc2pSZnZkc0hrTHpYMUxrR2hBRmJSV1hPbUQ0NlIxOExDUnp3SEtWR3BPbEdDVDg5cjFUS0o0bkQxNmNISFpxRFZQSTBTMnVPYlpraFdNa3FDa0swSDRDUzhQVGJ5R3RmclZpaWNVVF8ySlBmdWNTNzAzM0VsOHdsQURCdWYta0tKQk5Hbk0zWV95czdwY0x3akJhdFRqYnBxM2NuZWxvTE9sS1Z6U0k?oc=5
 
-- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
-  Nepal PM Balen Shah's India-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
+  Min Aung Hlaing: Why Myanmar president
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
 
-- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
-  How India-Oman Trade Pact Opens
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+- India and Myanmar discuss trade, security, connectivity and border management - News On AIR
+  India and Myanmar discuss trade, security, connectivity and
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3RpSXBBRzZuWi05VWJQNlQ4VFNjbFd0SGpHRzM2c3VUNkF0TlV3M1piNFVTM0tKckFVa0xtUHdXeFZqdWdBQjZTeDNYTGNCaUs0ZlM1U2wxNEhzRDhyck5wSFNjSDFQWG56YnpuMnJWOEctMmtRd0xzeVphcUo2WDRrdGdxZ1E1OTNGUkw1eWk5Z3cxai11WW5DR3RrRXBOaWVJ?oc=5
 
-- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
-  India-US trade deal: First tranche set to be signed soon as 'all major
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
+  Indian PM Modi meets Myanmar military gov’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
 
-- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
-  'All major points settled': First tranche of India-US trade deal soon
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+- 'No Plumber In 5 Years': India Heading For A Blue-Collar Blackout, Warns Expert - NDTV
+  'No Plumber In 5 Years': India Heading
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDVqZ1ZxNWFTVTVQWFhVREZGMkFuYmt4XzRseEJZb3dSUWpaQnBxRkxMUWlNNTBxZ29aaUtQYUFUS2hZb29haEFVZkQ5aFBqTTlRQkVaSmVNQl9Ick1qNlpRY29ENVdFZGttR0ZwbW04eDVsWWhRN2d5X2dJeGFZeDEtTXdnZE82QkVsLVJrbGxtdmJoUW5xeUhIYldpYU42TWdaSy13UENieGg5RFp0RFlSbUNoRjN6SjhrazFxX29jeWcweTNhRVhsaFnSAdQBQVVfeXFMTm5LUlBEb2xzN0thdUhFSlhQWTVWVzVWRnlXUXlTal9Rb3JTNndWZVBSdWJEMDB4SFVMQzEyYUFtUHQ4NUMtZkQtYzZHV0otZ09ITXc2SWpqakgwd3ZxUkZTV1M5TzZySmF5NF8tS1UyUFlBN2VUTURkeG9SYXFUWXhEc0JEOWxQeFdaN2ZWdUtqZ3pnVXFDVDRCc1Q0TjhiVkhvRGtlOHFIcWlvd1dES0V1dXR1TUNZNDUtcGs2Q0NfRTAzS251QWhWdlVvRUt3TmMxOHo?oc=5
 
-- The View From India newsletter: Looming fears of a forever war - The Hindu
-  The Indian government is considering sending troops to Afghanistan.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+- India and Myanmar shared commitment to enhance cooperation against transnational drug trafficking - News On AIR
+  India and Myanmar shared commitment to enhance cooperation against transnational drug
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBDT2NrT29peXJWMFJwTmhZc2pSZnZkc0hrTHpYMUxrR2hBRmJSV1hPbUQ0NlIxOExDUnp3SEtWR3BPbEdDVDg5cjFUS0o0bkQxNmNISFpxRFZQSTBTMnVPYlpraFdNa3FDa0swSDRDUzhQVGJ5R3RmclZpaWNVVF8ySlBmdWNTNzAzM0VsOHdsQURCdWYta0tKQk5Hbk0zWV95czdwY0x3akJhdFRqYnBxM2NuZWxvTE9sS1Z6U0k?oc=5
 
-- Why PM Balen Shah's India-Border Dispute Remarks Have Triggered Many In Nepal - NDTV
-  Nepal PM Balen Shah's India-
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObjlkNzF2T24tWnI5VTFOaTJ2Q2JBTGxRQWhDT2I2OUF5Vm90N1Zxa2hqTzRLbW9UdVRwRkQzSHg5Q25BU1N1dmhKMlBYYUp2ZDZ2c09MRHFzTjNzX3cwWV9CM2xaUWFucnhlaWJxZkV6Nmx3NWo0a0J5U2FIaWFRT2pCZ3ZyMnJ6Nmxla0xFMzVJRnlNdW9ic2xvNkFLeFRUNWxCdXJVSjlHeDZ0Sjhn0gG3AUFVX3lxTE5KaVhxVmRRcHdnRVlkRU8xN09JTnRRWmxIb085eXNoVFREQ3NQeGRsWVBoRTdwQ1VkSU1PblZxdnp3blRQOGRGdGIyRmQwZVV5NzdlNGZLNkk0aGZybDZDcnEzSWRNRVR6NVZ6dDJyVlRGQkxVMVVHUXBidTVIUTNfRzAwd1JDWDUxV000bE1ibFJzSlMzTjJkUHFqNUFTZ2pycDQxNFJBeldDOWQ3c2lOQzdtTU5sVQ?oc=5
+- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
+  Min Aung Hlaing: Why Myanmar president
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
 
-- How India-Oman Trade Pact Opens Alternative Route To Gulf Beyond Hormuz - NDTV
-  How India-Oman Trade Pact Opens
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjg1TzFRSmxLM1NSeXgwMnI2OGRCcGFKYV9manBtWm51aE9nRGxCNVRwa0dLUlpHakc5c21ncEZLbmxfZ3g5TFZrdFE0RFpKRlgxN09RTUhHb0ZGbFR3T094WXJEZFFoaUVab25Ka0FqSmhjcVNqa28wdjdyVFBHOFJjNWFUZkZsQ2tlVVFiN2ZnZFQySzAyU1lRdjlnOUdGWWlCU2NqRERNblljNXNzVDBhdjBlRkRkYUp5Y9IBxAFBVV95cUxQRC1UMlcwT3prZ1RoZW1XYmJyVWhvcWNlaWE4cnhjQnVub3YyTG5yazFFRGdNa2NHNmE3ZmlIbUllUFNqcjBOZzJoMU1DcjNURTZwLXJXVS1zbU1LSGpWTC0xMjg5QWROUnN4Sk12Q05zYW9BQ2ItTFc0b2hFTk05WFlScTczWVBmaElDZXlTYkRSUzQ4S1JMQnNMRTR0QnJBeldXbzVJYTYwWWExcXhUMVpqbUZUVUdkUkNOMkRUZEVVNUZ4?oc=5
+- India and Myanmar discuss trade, security, connectivity and border management - News On AIR
+  India and Myanmar discuss trade, security, connectivity and
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3RpSXBBRzZuWi05VWJQNlQ4VFNjbFd0SGpHRzM2c3VUNkF0TlV3M1piNFVTM0tKckFVa0xtUHdXeFZqdWdBQjZTeDNYTGNCaUs0ZlM1U2wxNEhzRDhyck5wSFNjSDFQWG56YnpuMnJWOEctMmtRd0xzeVphcUo2WDRrdGdxZ1E1OTNGUkw1eWk5Z3cxai11WW5DR3RrRXBOaWVJ?oc=5
 
-- India-US trade deal: First tranche set to be signed soon as 'all major points settled,' says Centre - The Times of India
-  India-US trade deal: First tranche set to be signed soon as 'all major
-  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxPUl94SkV4R2lKUzVHeHJPYUtGc254XzFxeEZWanVIaVpGTUJIR2FWUFh1SXVqd2s4eE9pM2VaWlBBVVUyakRmM2NUY1BiRjhSLUY2RWRyWWUtRW1FV3I5MFZ6dENRM1Vla3NzS3Z0SG1RNWU0WjFUZEpIWnlDRFc4dlRQajRBWVZwdUZNRVhnQzVGNGt5RVVyVEN2bkI5LW5rRGxNZWVQT204RTV6cXZrYnZOeEZJbjBDZFBLdXFpMDBiMzlfUTktaEJEc1UxQmRhaHlqM1Q4S1pDZkJIamFqUVh5b29PWUtxWGUwOGVLbTNybEdtbTJudDA2Z0NhYkpyY1g2Q09CZ2JSRUdqQ0HSAZMCQVVfeXFMTzBNa2Y3YWNCUFhPV3VMWlNBdlpENVBsWFVDVTBmaHlOQ0ExS1dHUnAyUklPdHNGdW9KYUlTMS1UeUNOQUtQby1lc2ZsMHJ4OTQyREd2V29NdWVUY3Nra3hBVjNHU3d3Y0dyTWN4enpCUVdOLXJZQ000OUYybXdTZ2NjakJwaXhRQ005RGhVdGpNZlVRckhoS0dOa3JLY0dHbjllUWFGTjNSemZMN3I2RWw2ZllMMmtuSHJhbUEzQ1YtQlBVMXdjb1B5NEZNTEJXOWgwTWZCbXY3VkotLURaLUtCVGkwTDBUNzN1aGlWSm94WXYzaGh4Y1FLaHVtODVxemNiaXBvd08tdGJ3eHRJVm12ZjQ?oc=5
+- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
+  Indian PM Modi meets Myanmar military gov’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
 
-- 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal | India News - Hindustan Times
-  'All major points settled': First tranche of India-US trade deal soon
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQm9kaHZhUV92TU41VWhtal84UTdhSm9wbXZCekRHOUVxVXFnQlNGZ2Y4ZE5EZEs5UkRUZkgzbEdvYkpwamZMSEhGSjNlaXNydXdPR1dOUUJNRnBVSXI4UmtpNjV0TnFYeUxNTmZCaEdPRWNoT0VmRndudGRUOXp4RjI5R0xYSHVSYmRMa21UaW5venpvbGFWLVB6MldMTno5S2VIVzVDZzdERHh2aFlZcThwck1waTI1YzJmdWIzQTJEQm5XRkwySFotUXhaWkFLYXpySEtYUFhwcHpGQ05OdtIB5gFBVV95cUxNekZwRFNOOVNHNE82TkFqdG91eUM4LW9oclhCTmZzdUt0V2VuV2syMHdVc0F3U3ZENTlwMTdTSEF4ZmRuY190VW5HY0dRWGJKM19rZzVTRldCdDVmRGp6REZsOXhQNXpzbTRvYXZndG5kaVhxdElnOXdHaXVfc0szX2Rib2hJRmNNbjNnMzVQLUlmd09HOEw3bFprdjAxZnM5UzFER1lkbDAyQlJpeURtQmpUSlNHUUhuN2JHZHZEQ21jZFBEaUtVV3d2dU5NWEtlWllFaU9YMm92WEw4ZTZyVmV5UGQxZw?oc=5
+- 'No Plumber In 5 Years': India Heading For A Blue-Collar Blackout, Warns Expert - NDTV
+  'No Plumber In 5 Years': India Heading
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDVqZ1ZxNWFTVTVQWFhVREZGMkFuYmt4XzRseEJZb3dSUWpaQnBxRkxMUWlNNTBxZ29aaUtQYUFUS2hZb29haEFVZkQ5aFBqTTlRQkVaSmVNQl9Ick1qNlpRY29ENVdFZGttR0ZwbW04eDVsWWhRN2d5X2dJeGFZeDEtTXdnZE82QkVsLVJrbGxtdmJoUW5xeUhIYldpYU42TWdaSy13UENieGg5RFp0RFlSbUNoRjN6SjhrazFxX29jeWcweTNhRVhsaFnSAdQBQVVfeXFMTm5LUlBEb2xzN0thdUhFSlhQWTVWVzVWRnlXUXlTal9Rb3JTNndWZVBSdWJEMDB4SFVMQzEyYUFtUHQ4NUMtZkQtYzZHV0otZ09ITXc2SWpqakgwd3ZxUkZTV1M5TzZySmF5NF8tS1UyUFlBN2VUTURkeG9SYXFUWXhEc0JEOWxQeFdaN2ZWdUtqZ3pnVXFDVDRCc1Q0TjhiVkhvRGtlOHFIcWlvd1dES0V1dXR1TUNZNDUtcGs2Q0NfRTAzS251QWhWdlVvRUt3TmMxOHo?oc=5
 
-- The View From India newsletter: Looming fears of a forever war - The Hindu
-  The Indian government is considering sending troops to Afghanistan.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0tLaTNDZlcwMzlBa29xVDVtR2J0MWxfNjJTcjViR2dqTmtSQy1xNXFVeE9WMF96Y2diMlBrdWZvMEtWWDFhdGFUS0dvRl8xSVhzTUpQckpZX3lmelZ6NXgwN1FNR3hFdUY2dno2UFBXTEYybEl0NlJlLWdMaVhSNlVGQ0lfQUdPWjQ3LWg5RnBiQ0pkYVFkUHpZQUVFdXltTktKZ3FKNlluX0NfaE1GbVl5Q3JuN2YyMjF5Unhsc1FaVE3SAcoBQVVfeXFMTnVPZld6bjU1MlJPbnAtUElVRVIxUzJ0WFBaOE9felVwOVJsYzlDbmU1OFJzNVdMQ3lENF9UTzlMdWhrS2lpTU9GWDRoMnlyazR5VkNMNU84T3V3VFZKSGhlbVA1SGgxYk9DZHVvZTE5MzloTWJvM3VYRTNjdnRjSWhJVGg4VWVZMHhPeHdwWU4wOVE0eVZTQ2x6MFh4TUdHWC16d1FzYWsxOGN5NkpXTWRzLUVHblY0MDMtVlpUUms1Y1lnbTF2RXluZw?oc=5
+- India and Myanmar shared commitment to enhance cooperation against transnational drug trafficking - News On AIR
+  India and Myanmar shared commitment to enhance cooperation against transnational drug
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBDT2NrT29peXJWMFJwTmhZc2pSZnZkc0hrTHpYMUxrR2hBRmJSV1hPbUQ0NlIxOExDUnp3SEtWR3BPbEdDVDg5cjFUS0o0bkQxNmNISFpxRFZQSTBTMnVPYlpraFdNa3FDa0swSDRDUzhQVGJ5R3RmclZpaWNVVF8ySlBmdWNTNzAzM0VsOHdsQURCdWYta0tKQk5Hbk0zWV95czdwY0x3akJhdFRqYnBxM2NuZWxvTE9sS1Z6U0k?oc=5
+
+- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
+  Min Aung Hlaing: Why Myanmar president
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
+
+- India and Myanmar discuss trade, security, connectivity and border management - News On AIR
+  India and Myanmar discuss trade, security, connectivity and
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3RpSXBBRzZuWi05VWJQNlQ4VFNjbFd0SGpHRzM2c3VUNkF0TlV3M1piNFVTM0tKckFVa0xtUHdXeFZqdWdBQjZTeDNYTGNCaUs0ZlM1U2wxNEhzRDhyck5wSFNjSDFQWG56YnpuMnJWOEctMmtRd0xzeVphcUo2WDRrdGdxZ1E1OTNGUkw1eWk5Z3cxai11WW5DR3RrRXBOaWVJ?oc=5
+
+- Indian PM Modi meets Myanmar military gov’t leader in New Delhi - Al Jazeera
+  Indian PM Modi meets Myanmar military gov’
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxON3ZfT2x0UEgzY2N2TnlEUS1UT0Z3VDFwbzVKU1N1NjZaSzF6b2s1TTJ6NWtQY0JNNFA2eWxveWpGZ3E1RXNDcnQ3MTFPY0kwQlhQWUVoWVlXQy1zR253RDJiaGNPRU1sS2pVVzNEb2pYTXZ3aXI1M3QtQ0hNQzY2SXREMWQyTkE2aTZtRnZYcVZhbEF1ZEVFUUx2UDBiTkdmOW8yWdIBqgFBVV95cUxPSm9kazlia3RHUDBBY29HbVJ1bkRJZWtWT1d5ZldkUmZRZDRoS1RPRVotbzBxQ2NaUlZaQkZHakdTMlZIMDdxd2MyMm1qSE9VS2M3Y0R6Z29lX0xpNWtnQ2M0NGN0S25aSU1fSFpfVEljZFJaVmFLTU9KWHI4WG1KYjQxMDVrdkV3ZnpIVHZETXl2ZU1yNWg1NUlVTDR4dUd1cC1FRm1aVGhJZw?oc=5
+
+- 'No Plumber In 5 Years': India Heading For A Blue-Collar Blackout, Warns Expert - NDTV
+  'No Plumber In 5 Years': India Heading
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDVqZ1ZxNWFTVTVQWFhVREZGMkFuYmt4XzRseEJZb3dSUWpaQnBxRkxMUWlNNTBxZ29aaUtQYUFUS2hZb29haEFVZkQ5aFBqTTlRQkVaSmVNQl9Ick1qNlpRY29ENVdFZGttR0ZwbW04eDVsWWhRN2d5X2dJeGFZeDEtTXdnZE82QkVsLVJrbGxtdmJoUW5xeUhIYldpYU42TWdaSy13UENieGg5RFp0RFlSbUNoRjN6SjhrazFxX29jeWcweTNhRVhsaFnSAdQBQVVfeXFMTm5LUlBEb2xzN0thdUhFSlhQWTVWVzVWRnlXUXlTal9Rb3JTNndWZVBSdWJEMDB4SFVMQzEyYUFtUHQ4NUMtZkQtYzZHV0otZ09ITXc2SWpqakgwd3ZxUkZTV1M5TzZySmF5NF8tS1UyUFlBN2VUTURkeG9SYXFUWXhEc0JEOWxQeFdaN2ZWdUtqZ3pnVXFDVDRCc1Q0TjhiVkhvRGtlOHFIcWlvd1dES0V1dXR1TUNZNDUtcGs2Q0NfRTAzS251QWhWdlVvRUt3TmMxOHo?oc=5
+
+- India and Myanmar shared commitment to enhance cooperation against transnational drug trafficking - News On AIR
+  India and Myanmar shared commitment to enhance cooperation against transnational drug
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBDT2NrT29peXJWMFJwTmhZc2pSZnZkc0hrTHpYMUxrR2hBRmJSV1hPbUQ0NlIxOExDUnp3SEtWR3BPbEdDVDg5cjFUS0o0bkQxNmNISFpxRFZQSTBTMnVPYlpraFdNa3FDa0swSDRDUzhQVGJ5R3RmclZpaWNVVF8ySlBmdWNTNzAzM0VsOHdsQURCdWYta0tKQk5Hbk0zWV95czdwY0x3akJhdFRqYnBxM2NuZWxvTE9sS1Z6U0k?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-02 03:03:54 UTC_
+_Last updated: 2026-06-02 16:15:36 UTC_
