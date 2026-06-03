@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking
+- Hours-long traffic jams, muddy water in houses: Cloudbursts put 2 Jammu and Kashmir districts on alert
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/
+  🔗 https://indianexpress.com/article/india/hours-long-traffic-jams-muddy-water-in-houses-cloudbursts-put-2-jammu-and-kashmir-districts-on-alert-10721069/
 
-- ‘If Rahul, Priyanka can go to Wayanad…’: Andhra Deputy CM Pawan Kalyan’s JSP plans to contest polls in Telangana
+- Days after social media post flagged vulnerabilities, CBSE Chairman, Secretary moved out; probe ordered
   
-  🔗 https://indianexpress.com/article/india/rahul-priyanka-wayanad-andhra-deputy-cm-pawan-kalyan-jsp-polls-telangana-10720956/
+  🔗 https://indianexpress.com/article/india/cbse-chairman-secretary-moved-out-osm-service-procurement-to-be-probed-10721083/
 
-- Who is Rahul Singh? IAS officer behind NEP reforms shunted from CBSE amid OSM row
+- 2022 Port Blair case: Key witnesses turn hostile in gangrape case against former Andamans Chief Secretary
   
-  🔗 https://indianexpress.com/article/india/cbse-nep-reforms-rahul-singh-language-policy-osm-10720941/
+  🔗 https://indianexpress.com/article/india/andaman-gangrape-case-against-chief-secretary-jitendra-narain-witnesses-hostile-10721089/
 
-- Twisha Sharma’s mother-in-law addresses court, flags ‘media trial’, slams investigators
+- 1.5 crore artificial groundwater recharge, storage works under JSJB initiative: Minister C R Patil
   
-  🔗 https://indianexpress.com/article/india/twisha-sharma-dowry-death-mother-in-law-court-media-trial-10720903/
+  🔗 https://indianexpress.com/article/india/jal-sanchay-jan-bhagidari-groundwater-recharge-c-r-patil-10721159/
 
-- India rejects EU-Pakistan remarks on Kashmir, says ‘no locus standi’
+- Abhijeet Dipke to land in Delhi on June 6; Sonam Wangchuk lends support to Cockroach Janata Party
   
-  🔗 https://indianexpress.com/article/india/india-rejects-pakistan-eu-joint-statement-jammu-kashmir-mea-locus-standi-10720663/
+  🔗 https://indianexpress.com/article/india/neet-paper-leak-abhijeet-dipke-to-land-in-delhi-on-june-6-sonam-wangchuk-lends-support-to-cockroach-janata-party-10721153/
+
+- At Build 2026, Microsoft doubles down on proprietary AI models to win every layer of the AI stack
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/at-build-2026-microsoft-doubles-down-on-proprietary-ai-models-to-win-every-layer-of-the-ai-stack-10721249/
+
+- ‘Premiumisation is about value, not cost’: Asus SVP Shawn Yen on user-first design
+  
+  🔗 https://indianexpress.com/article/technology/premiumisation-asus-svp-shawn-yen-ai-user-first-design-10721108/
 
 - Fireball meteor exploded over US with force of 230 tonnes of TNT
   
@@ -32,53 +40,57 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/claude-ai-down-users-report-problems-accessing-chatbot-and-api-10720495/
 
-- 99% of CEOs expect AI-driven job cuts within 2 years, survey finds
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/99-of-ceos-expect-ai-driven-job-cuts-within-2-years-survey-finds-10720137/
+- Indian IT eyes return to on-site model, but with a talent and cost twist
+  Customers increasingly prefer engineers who combine AI expertise with sales and consulting skills to drive end-to-end deployment.
+  🔗 https://www.livemint.com/companies/indian-it-eyes-return-of-onsite-engineers-but-with-a-twist-11780395527508.html
 
-- Deleted an Instagram DM? Here’s how you can recover it
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/deleted-an-instagram-dm-heres-how-you-can-recover-it-10720025/
+- Microsoft doubles down on Windows, developers aa US tightens AI oversight
+  The US government will require tech companies to give the US government access to frontier AI models 30 days before releasing them commercially. Microsoft put up a
+  🔗 https://www.livemint.com/companies/news/microsoft-windows-ai-satya-nadella-microsoft-ai-models-ai-operating-system-11780452662682.html
 
-- Companies Push Employees to Use AI — Just Not Too Much
-  Big companies are goading workers to start using AI. Or they're gatekeeping access to it.
-  🔗 https://www.livemint.com/companies/companies-push-employees-to-use-ai-just-not-too-much-11780425476622.html
+- Large brands gain as West Asia war, GST cut hit auto aftermarket’s small players
+  Last year’s GST cuts have narrowed the price gap between formal automotive spare parts and cheaper alternatives sold by
+  🔗 https://www.livemint.com/companies/large-brands-gain-as-west-asia-war-gst-cut-hit-auto-aftermarket-s-small-players-11780396704340.html
 
-- IndiGo suspends Manchester flights, cites unfavourable costs and operational challenges
-  IndiGo will suspend flights to Manchester from 31 August 2026. Company cites high operational costs
-  🔗 https://www.livemint.com/companies/news/indigo-suspends-manchester-flights-cites-unfavourable-cost-and-operational-environment-as-key-reasons-11780418869752.html
+- TCS, Infosys, Wipro double Copilot AI licences for employees within six months
+  . While the pace of adoption of its virtual intelligent assistant is great news for Microsoft, it also poses questions about the current billing model of India’
+  🔗 https://www.livemint.com/companies/tcs-infosys-wipro-double-copilot-ai-licences-for-employees-within-six-months-11780407541005.html
 
-- Another conglomerate sets eyes on India's wealth market
-  Godrej Investments has set up a wealth management unit, Godrej Wealth. Godre
-  🔗 https://www.livemint.com/companies/news/conglomerate-indias-wealth-market-godrej-industries-group-financial-services-pirojsha-godrej-godrej-wealth-11780397510643.html
+- The case against listing Tata Sons, from one of Noel Tata’s closest advisers
+  Group veteran Farokh Subedar warns that it could fundamentally alter the freedom to invest in long-gest
+  🔗 https://www.livemint.com/companies/why-a-noel-tata-confidante-thinks-a-tata-sons-listing-would-be-a-mistake-11780392128570.html
 
-- DevX enters Bengaluru with 1.11 lakh sq ft office leases in premium Prestige projects
-  Dev Accelerator's expansion into Bengaluru is set to create over 1,
-  🔗 https://www.livemint.com/companies/news/devx-bengaluru-workspace-leases-prestige-projects-lakeshore-drive-prestige-featherlite-tech-hub-11780345088553.html
+- Crude oil prices rise as renewed West Asia tensions stoke supply concerns
+  The longer Hormuz remains closed, the higher oil, gas, and electricity prices will rise. The ongoing war and the blockade of the
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-west-asia-war-crude-supply-iran-us-israel-war-11780454596354.html
 
-- Oyo-parent Prism gets Sebi approval for  ₹6,650 crore IPO: Report
-   Prism, Oyo's parent firm, has received Sebi
-  🔗 https://www.livemint.com/companies/news/oyoparent-prism-gets-sebi-approval-for-6-650-crore-ipo-report-11780401570395.html
+- CMR Green Technologies IPO opens today. Check GMP, review, issue details. Should you apply or not?
+  CMR Green Technologies IPO opens for public subscription from 3 June to 5 June. The company raised  ₹188.44 crore through an anchor book
+  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-gmp-cmr-green-technologies-ipo-review-cmr-green-technologies-ipo-details-cmr-green-ipo-gmp-11780454246306.html
 
-- Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets
-  Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer
-  🔗 https://www.livemint.com/market/gold-pares-gains-as-us-jobs-data-reinforces-higher-rate-bets-11780432705272.html
+- Stocks to buy: Ajit Mishra of Religare Broking recommends three shares to buy on Wednesday - 3 June 2026
+  Nifty rebounded after retesting its previous swing low around the 23,250 mark. Ajit Mishra, SVP - Research
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-ajit-mishra-of-religare-broking-recommends-three-shares-to-buy-on-wednesday-3-june-2026-11780453244436.html
 
-- Traders Most Bullish Yuan in 15 Years on Global Role, Valuation
-  Traders ramped up wagers on a stronger yuan in the coming year. They are betting that increased global usage and
-  🔗 https://www.livemint.com/market/traders-most-bullish-yuan-in-15-years-on-global-role-valuation-11780429763570.html
+- Raja Venkatraman, MarketSmith recommend five stocks for 3 June
+  On June 3, Indian equity benchmarks rebounded after four days of losses. The Nifty 50 rose 0.43% to 23,483.55. Recommendations include Vijaya Diagnostic Centre
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-3-june-11780451120512.html
 
-- Dollar in tight range as traders eye Middle East peace talks
-  Dollar in tight range as
-  🔗 https://www.livemint.com/market/dollar-in-tight-range-as-traders-eye-middle-east-peace-talks-11780428232714.html
+- Stocks to watch: Vedanta, Canara Bank, Adani Ports among 10 shares in focus today; check list here
+  The market is likely to snap its gaining streak as trends in the Gift Nifty index signalled a negative opening on Wednesday. Amid this backdrop, these stocks will
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-vedanta-canara-bank-adani-ports-among-10-shares-in-focus-today-check-list-here-11780449480744.html
 
-- US yields dip as job openings jump, oil prices remain volatile
-  TREASURIES-US yields dip
-  🔗 https://www.livemint.com/market/us-yields-dip-as-job-openings-jump-oil-prices-remain-volatile-11780426886499.html
+- Uber's AI bill got so high that it is now limiting Claude Code usage to $1,500: Report
+  Uber has set a $1,500 monthly spending limit for employees using AI coding tools like Claude
+  🔗 https://www.livemint.com/technology/tech-news/ubers-ai-bill-got-so-high-that-it-is-now-limiting-claude-code-usage-to-1-500-report-11780452994827.html
 
-- Wall St muted as AI zeal is held in check by Middle East tensions
-  Wall St muted as AI zeal is held in check by Middle East
-  🔗 https://www.livemint.com/market/wall-st-muted-as-ai-zeal-is-held-in-check-by-middle-east-tensions-11780425416025.html
+- Meet Project Solara: Microsoft unveils Android powered OS for running agentic AI
+  Microsoft has unveiled a new OS based on Android for AI agent-driven experiences. The company also unveiled two
+  🔗 https://www.livemint.com/technology/tech-news/meet-project-solara-microsoft-unveils-android-powered-os-for-running-agentic-ai-11780447986462.html
+
+- How a carjacking in Connecticut led back to a man known as the crypto ‘Godfather’ in California
+  A carjacking in Connecticut led back to a man known
+  🔗 https://www.livemint.com/technology/how-a-carjacking-in-connecticut-led-back-to-a-man-known-as-the-crypto-godfather-in-california-11780436943224.html
 
 - OpenAI's Sam Altman backtracks on AI job-loss fears, says top AI adopters are hiring more workers
   OpenAI CEO Sam Altman has softened his stance on AI-driven job losses. While acknowledging public anxiety over automation, he said human interaction remains central to business.
@@ -88,57 +100,45 @@
   Andhra Pradesh is bypassing global hardware restrictions to build an indigenous Quantum Valley. Governments around the world are racing to build quantum capabilities.
   🔗 https://www.livemint.com/technology/amaravati-quantum-valley-india-mission-11780386960553.html
 
-- Anthropic's Claude hit by major outage affecting chat, API and developer tools
-  Claude, the AI chatbot developed by Anthropic, experienced a widespread outage on Tuesday. Hundreds of users reported issues accessing Claude
-  🔗 https://www.livemint.com/technology/tech-news/anthropics-claude-hit-by-major-outage-affecting-chat-api-and-developer-tools-11780398312963.html
+- Asia-Pacific markets close mixed as Iran war uncertainty keeps investors on edge - CNBC
+  Asia-Pacific markets close mixed as Iran war uncertainty
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGpFQ2twcEo2WktkeUhjNEhRTTBIMDBYSjRHVW1UbWlSeV9HcWhOVjhEd083Q1o2MXktNEJZLWRTbUVzY1g3OVg3QWx5UkVxbnVkdVl4VzhQc090Q0M2TTVTRHdpRDdCM3ZIOXlkN0VfUkFyMVBwQzZxUFlaQlVsY2NPbzNidGh3RFRBRGpEcnZyTjBTX1d5MmdqZnPSAaIBQVVfeXFMTU9QNDh4U1k2aGFsTEdnYVVWa2JYS1JWTGhWNGpHQ0JKY2ZRTzJydVJpZWdjT3dJRE9QYWhDdy1GbVBGbklEZDFHLU9KOHh4bGRLQVB4WGw0X3pYdXJYSHIwNXB6RExCUHJxMzBtNlVvcTVoU3ZUMkQtOWhOYTFDNTdrWUU1QmM0YnkybFg3NzFaUnllWVZjU21ZY19MOUZUU3lR?oc=5
 
-- 'Greedy move': Amazon faces severe backlash over degrading Prime subscription with forced ads, removed song downloads
-  The new change is set to take place from next month. Amazon Prime users are upset as ads will soon be introduced
-  🔗 https://www.livemint.com/technology/tech-news/greedy-move-amazon-faces-severe-backlash-over-degrading-prime-subscription-with-forced-ads-removed-song-downloads-11780387259731.html
+- Asian Stocks Poised to Gain as AI Rally Extends: Markets Wrap - Bloomberg.com
+  Asian Stocks Poised to Gain as AI
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWhxRXZCYVRNVmIzNzVTeFFWbHhqeUk3aTkyMXNadWV4b3lqRDdfdkJQZE9IdVVoZW53T2lEOXM4d0VqZWVKbUlsX0JpMllQZ2tVNV9aZnk1MktxTXBBRlhyMFFLb2lBZTQxNGdCUVlib2RKVm84U0FFTklLaEE5VWxPbTB3ZWg2QTVaMnlGUEpKc0hLX29INDZ6MjF1cGFOTmMwb1J4eTJkWDIxcGlCVA?oc=5
 
-- Microsoft turns its back on Claude Code, asks employees to use Github Copilot instead: Report
-  Microsoft has instructed its employees to stop using Claude Code and instead transition to GitHub Copilot. The company had first started giving access to Claude
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-turns-its-back-on-claude-code-asks-employees-to-use-github-copilot-instead-report-11780373587881.html
+- Asian stocks edge up, yen nears 160 per dollar - Moneycontrol.com
+  Asian stocks edge up, yen near
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFl1UVhJdkd4dVJzWUdJWjhxNUNITWZkMHhiVmZ0clFDSl9jZ2V4QWRnN21rSmhqWldmR19ZajMyMDNnWFp5c09FaXZBeUVWUmF0WlZTWVZSU1NLYUtZRFlBZlBIbmNEMEVyeVBVTDBWaGFhbTEtYnF0dzdmZkVlMHpwRjZ1T1RjWGFESDF5ZkNKYTlOYWE3VmxOSlk3TVh3ODhPWDZzdFRWb0s2TnBz0gG0AUFVX3lxTE9aWDA4RnhXNlNSS2RWVTBjSTlCNU9uQTFDX2tkSzZtQ2ppOXVHWGlVUWZNVDdGUTllblNoeV9GYW8xRmgxeklWbXpEdHdDYm94OTk2Nk5WOGo2LWJIWDJDbE15WUJ4NzdCN05Najd4RkFxeHZ0dDVIN2ZZWWo5bFBlM2ZmODg3RTBMRVUtRHJEQzk1b2VUR0o5SEZxOHJlYlBZM2lETGlvUkcwS2twcERuYjJmYg?oc=5
 
-- Dow jumps more than 200 points, S&P 500 posts first close above 7,600: Live updates - CNBC
-  Dow jumps more than 200 points, S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5
+- South Korea Overtakes India as World’s Sixth-Largest Stock Market - Bloomberg.com
+  South Korea Overtakes India as World
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOSE52MEVnQ1B0cFk5VnRXMDBjMF96cDZpR2ZFSVlyT05Lcmtac3NvRGRYVjZKWHFmR01JT21JUmRyb2VkN1FEck5oQTdQNmRraHU3SGlya3VCRmtkX0JqcUV5azh5THhDT3Z3S2QyeFpMOUpIem9sMEJoRlNTQU5NQzhRSERSam55dGk1eFczODFkcUdXamtzVnNPZ0VIWHJHbmgwUUQwc1JPNDhBSjl2T093?oc=5
 
-- Stock Market Today: Major Indexes Close at Fresh Records; Marvell, HPE Soar as AI Trade Shows No Signs of Slowing - Investopedia
-  Investopedia: Marvell, HPE Soar as AI Trade Shows No Signs of
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUNlUXlLRE05X2xic3Y1U1RPU3NwTGdfODVxMTduYzd6aWtnSzNNZngwWlF0SUVCVGVYTHhFNEttRFBfYzNIc2ZibHVsZWptMEVpd0tKVFhzVmhDV3FnN2RJb00zR2oyUnZRajlGSmM0UW5JbkNxQ3dxaWNCQkdJekVwQ04xd1RZVHdqUC1iZ2w?oc=5
+- Chip, chip ... boom? South Korea tech makers join the trillion-dollar club but some fear a short-circuit looms - The Guardian
+  South Korea tech makers join the trillion-dollar club but some fear a short-circ
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWplWjBka1ktTElSWUVtYWstZXBNRzd2cU8xcE1nX21MR0tBVy1hdk9TQUIxcTUtc09mSm9ISVNCeHRiTk5kTUZIbGZkTGEzWUVHQUh5TjhUNnlfMUZSVnFRUDhyU1hLUkJkUEpuNzdVdWpYRzZlTFI5ZjBfMHR2N0dfX3pGcktDeEFXNmtvZGE5NlN4Y2tYdTcyMFVUbURhWFJtNEZFNGhSOXFo?oc=5
 
-- Stock Rally Wavers as Traders Weigh Peace Outlook: Markets Wrap - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVBudWh6TlRWNUZQRTZ0Mi1ZbDFBdUtUaG1VU2FXaVBycUo0dERfbEtITi11U3NmQlEtbUVDMkcyRmhodG5BM1BZQjQ4ZTZ3Y0d2cWdkTmt4a1dKNzdUMEpHQjU3VV9ZN1pVZjZzR1ZTR0VoLWRVUGZoNTRWRWtYbktvUG9LbnNhVW04TjJfc0RpTk91MTNDSWJvbE5MWEtNZ05MQng0U1hHQUFLd2ZEa2Jn?oc=5
+- TCS among 4 stocks flashing bullish signals, indicating possible uptrend
+  On June 2, four NSE large-cap stocks appeared on StockEdge’s White Marubozu bullish scanner. The formation reflects sustained buyer control throughout the session.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-among-4-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/131474886.cms
 
-- Stock Market Today: Dow Edges Up as AI Fervor Powers Tech Stocks — Live Updates - WSJ
-  The WSJ reports that the Dow Jones Industrial Average is
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk1zcmtlZUpvdE1sR0p4d3Fzdkl5OU42QUljNUozRTR0Vmw4T3JUV1VXX04tUE84Q3YybDBYS2wzSUZRaFY3T2x1WEh5SnhocGJFSEpVS2FNcXhib1pDcTc3dXMzY1lveWdvYTdZWVZ0ZlgwT0o3MG5wcHNfQ01mVm5pckVqS1E?oc=5
+- TCS among 6 stocks showing bullish RSI upswing
+  Six Nifty500 stocks that gained 5% or more were highlighted in the RSI Trending Up scan based on data from StockEdge.com. The signal is generated when RSI crosses above 50 from lower levels, indicating improving momentum
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-among-6-stocks-showing-bullish-rsi-upswing/slideshow/131474795.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq build on records as investors eye AI boom, US-Iran tensions - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq build on records as
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPemxrR0JIMC1fb3Zkc0FtSzd6N181OEhxT0J1d2RfNlVfcG1leDNxU2tnQzBza09CbUkzZGlERGFKS2lHS2cxN2NiNzNETzUzUmZ1d2RINlJOTGdiYnV0Y1ktVkhIYTZleTdXWkdSWXFDWkp0ZmV5NmJiWVViZ3NxSU9uSnJmamwyc1pNUDZDRUlzbmFu?oc=5
+- Infosys Share Price Live Updates: Infosys Price Breakout Signals Concern
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-03-jun-2026/liveblog/131474513.cms
 
-- US stocks today: US stocks end modestly higher as AI zeal overcomes Middle East jitters
-  Small-cap and semiconductor stocks gained, while software lagged. Alphabet's massive AI funding plan and Marvell’s rally highlighted ongoing AI momentum.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-modestly-higher-as-ai-zeal-overcomes-middle-east-jitters/articleshow/131471121.cms
+- Tata Consumer Share Price Live Updates: Understanding Tata Consumer's market behavior
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-03-jun-2026/liveblog/131474415.cms
 
-- Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers
-  Alkem Laboratories shares experienced significant block deals totaling Rs 930 crore. Promoter family entities divested shares to a group of domestic mutual funds and foreign institutional investors.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Sensex gained 382 points and Nifty closed above 23,480. Investors tracked monsoon progress, inflation trends, RBI policy outlook and liquidity conditions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131466696.cms
-
-- CMR Green raises Rs 188 crore in IPO anchor round; SBI MF, ICICI Pru MF among top investors
-  CMR Green Technologies raised Rs 188 crore from anchor investors before its IPO opening. The robust demand underscores investor interest in sustainability-focused businesses.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cmr-green-raises-rs-188-crore-in-ipo-anchor-round-sbi-mf-icici-pru-mf-among-top-investors/articleshow/131466506.cms
-
-- Market Trading Guide: Parag Milk among two stock recommendations for Wednesday
-   Benchmark indices ended a volatile session near the 23,500 mark. Analysts have recommended Chennai Petroleum and Parag Milk Foods for Wednesday.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-parag-milk-among-two-stock-recommendations-for-wednesday/articleshow/131466475.cms
+- Hindalco Share Price Live Updates: Hindalco's beta value points to increased volatility
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-updates-03-jun-2026/liveblog/131474400.cms
 
 - Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
   Min Aung Hlaing: Why Myanmar president
@@ -148,37 +148,17 @@
   ‘Encroached territory’:
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
 
-- High costs dampen summer for beverage companies - The Times of India
-  High costs dampen summer for beverage companies
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9Fdk84OHJDbk9vRGVaanA2YzVoUDBVSWxYYlg4a2JXV2dsc3dmMWM3VVhFRTAyLTZVM2xKMmpTbUZwNXY3WXBZREMtSlBoRElSTXlsOE96NFpmM21GWHZCVnFNLU1CYzFKSmJ6bDVwT2FGbmllWnFTQmNuWlVpejVOOXo4UWxHbFJNdkZxeXlZMVFieE0xWkxXZUZ2VjlEd01fMXpJU282RURwTmVmVnFRbXNPQdIBuwFBVV95cUxPQ2lnal9YSlpwbGZfaFJrMHVCbG5FbC1TNnRtaWQ3QkN6bEVFbXJveE1mTTFBOGwzeExQekszbGZvU09KeWxjb093NjJidVFvOWhzWnVkLVBEOWUtZW5GLUlaWm1QalFfODZ5V3NLUzRrNHJPVUhUT2Q3b3FIUFRSN0dxQUpWYmlsc3RrT0hlMkhYdzE1cTY5dnJId3M4bXZMZF92Zl9LLTJ5SXpIbkE1QV9xS3NOenBKMkFZ?oc=5
+- India Rejects "Third Party Roles" To Resolve Boundary Row With Nepal - NDTV
+  India Rejects "Third Party Roles
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFl4MF91R3RyQzZxZW9xdkVtMjJvQzVTeFZwMS1raEN2eFdLTDNTRnIwXzNwYTk4VzNLVUtUVDdWaWxBSElVUGxOdkJjWWlGTl81Uzd4UVltRDlSNVlxMXBKSElkSHU2U0NvVm1qQWNrWWhHZTl4SWE1YUxRSmkxSUM0V0lXSEN3cW9rb3N1blczQXpxOVJzSkQ1aXdXdGFubFR6cVZBNllMbUXSAbMBQVVfeXFMTXRQMmZpWk9abEJIUUN2V24za1JuTDVhU1BJWi1CYVI3c1Y1QkNaRi1zZDh3QlZ2bjIxVHlHRFI3UUY0ZDhIeTVIZHNiVHpvVURtcE9paWlCNGh2Q1Y1UEc0Yng0VVRzeXZSOW9jYm9kWnJkSEFzVUhvSUhxSkcwa1dLZzJNOHpLcmtLT2FXcHBXTTJfbk5TMUotV0RQNWpmTTJnLTlKZmk2ZEFaLXl6Y05Udlk?oc=5
 
-- Centre's Big CBSE Move Amid On-Screen Marking Portal Irregularities - NDTV
-  Centre's Big CBSE Move
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcU1ORlFhcnplNVFBZ0Yxb09QcGtNOTJOSWxlZGE2bTlmQVEwOHJQWDNHX1loZUxFRG5pV1pLTmduWUVPczdZT203UjctVHl4VjlaWl9SakNUNTcwUVA4RkFiNmNWQ3RRY3JnNGNCVWdiTURXWGFCUmlBaVVBeDZTNV9MOFNTYU9wcmd6YkJsUXNMTjIybE1nY2daYURFREkwOTRLZE4zTnk4S2pPOUFXWWN0TEhjZ3U4MEhoTkU2ZnJ6cHctbDVoSkFTYXF4aXRvekZCVUE2OULSAeABQVVfeXFMUEc2eUlBYUlldHFHM3pZR1pWT3FsNDM3d1diQTJXREZ4MjJ5NlM4Wi10OHNLdnFPanMzdmxtclVhd2ZvV243N05hQlB4OHpuN1hxaVhrNWpUTm1KZF8zUjh2eDk3MDBkOHNDTG9KbjM4WVc4Wno0UHpjbF9TU2RsbDFhVmlNX1lub3JyMGpNRFNjR3FyNDQzNXRKMFhqN3BHeXl6NzlOOHJaSlFNMlZrcVRyRnRMLVpnMEk3bkFyT1M3MFkwMDR0MDBaaTRKZEVYYjlDaWhSZ0FRWXdyNzJ1T0c?oc=5
+- Exclusive: How can an aspirational Nepal and a rising India reconnect? | India News - Hindustan Times
+  "Exclusive: How can an aspirational Nepal and a rising
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnVucW9VbG5kVnpZby1mODR2VEU0bEJ3ZHpjN2JqSFRfUllEZXVINWp5ZnhCSlBlUGVyV25IWXhsd1FoY29IcEhJcGNFX1N5b3h6OXZhX25DbVY4RFJPMW1ZQnh5YUZFYVZsVWRyTDdQZFhScXhEVWZ4Q1ZMX1JwS2JENjJ4R1hwR2lJM2hjb3h5TFY2R1BUVlVSZDNlNFdSTEQ0N3RpNlk2czRaRDVsV2dVNlBPOGxwM1FJM3B30gHDAUFVX3lxTE9ERGRfZmZIRE40dEw1aWpYZHBHTnNjTTJkRjdQX05nVy03WEV6WFllcmdDeC1mRnBNMlM4dG5Ec2dRMlBJYWNpOUNfdnlSSExyMmxDZzJjaC1mbWxfNlllOUJiVW5tSHpITmNIZ0Via2E3MklMNzhxX1VjU0lSX2E3NUp5TUl6UENwbVRDS2g5dlIxd3RzVDhKUVgycWpFQnhteWN1MERzX3BsZl9vMUYxVW5vZ3pMaGFseUpZRng5dk5uQQ?oc=5
 
-- India news: Mamata Banerjee vows to 'fight or die' - DW.com
-  India news: Mamata Baner
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUVtbVRLZkUyYVNsSzE3bUVTazQ4NWl0MlpyaFhTaF9tQTNfUHp4c2dYSVg4czM5dkx5MUNqRWxDOGpiSHQtVWJTNUExM2ktTG5YX2MxX3pqYko3WExUck5XeXNsWGtfNTdWNzUwbEJRTmlmODAzYlZXS1NxSllyQnBKM3pCb3kxVGxBem8xRDU2b3M0ZWFUdmxIMHlVeWVEd3ZLQXNsbnE?oc=5
-
-- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
-  Min Aung Hlaing: Why Myanmar president
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
-
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
-
-- High costs dampen summer for beverage companies - The Times of India
-  High costs dampen summer for beverage companies
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9Fdk84OHJDbk9vRGVaanA2YzVoUDBVSWxYYlg4a2JXV2dsc3dmMWM3VVhFRTAyLTZVM2xKMmpTbUZwNXY3WXBZREMtSlBoRElSTXlsOE96NFpmM21GWHZCVnFNLU1CYzFKSmJ6bDVwT2FGbmllWnFTQmNuWlVpejVOOXo4UWxHbFJNdkZxeXlZMVFieE0xWkxXZUZ2VjlEd01fMXpJU282RURwTmVmVnFRbXNPQdIBuwFBVV95cUxPQ2lnal9YSlpwbGZfaFJrMHVCbG5FbC1TNnRtaWQ3QkN6bEVFbXJveE1mTTFBOGwzeExQekszbGZvU09KeWxjb093NjJidVFvOWhzWnVkLVBEOWUtZW5GLUlaWm1QalFfODZ5V3NLUzRrNHJPVUhUT2Q3b3FIUFRSN0dxQUpWYmlsc3RrT0hlMkhYdzE1cTY5dnJId3M4bXZMZF92Zl9LLTJ5SXpIbkE1QV9xS3NOenBKMkFZ?oc=5
-
-- Centre's Big CBSE Move Amid On-Screen Marking Portal Irregularities - NDTV
-  Centre's Big CBSE Move
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcU1ORlFhcnplNVFBZ0Yxb09QcGtNOTJOSWxlZGE2bTlmQVEwOHJQWDNHX1loZUxFRG5pV1pLTmduWUVPczdZT203UjctVHl4VjlaWl9SakNUNTcwUVA4RkFiNmNWQ3RRY3JnNGNCVWdiTURXWGFCUmlBaVVBeDZTNV9MOFNTYU9wcmd6YkJsUXNMTjIybE1nY2daYURFREkwOTRLZE4zTnk4S2pPOUFXWWN0TEhjZ3U4MEhoTkU2ZnJ6cHctbDVoSkFTYXF4aXRvekZCVUE2OULSAeABQVVfeXFMUEc2eUlBYUlldHFHM3pZR1pWT3FsNDM3d1diQTJXREZ4MjJ5NlM4Wi10OHNLdnFPanMzdmxtclVhd2ZvV243N05hQlB4OHpuN1hxaVhrNWpUTm1KZF8zUjh2eDk3MDBkOHNDTG9KbjM4WVc4Wno0UHpjbF9TU2RsbDFhVmlNX1lub3JyMGpNRFNjR3FyNDQzNXRKMFhqN3BHeXl6NzlOOHJaSlFNMlZrcVRyRnRMLVpnMEk3bkFyT1M3MFkwMDR0MDBaaTRKZEVYYjlDaWhSZ0FRWXdyNzJ1T0c?oc=5
-
-- India news: Mamata Banerjee vows to 'fight or die' - DW.com
-  India news: Mamata Baner
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUVtbVRLZkUyYVNsSzE3bUVTazQ4NWl0MlpyaFhTaF9tQTNfUHp4c2dYSVg4czM5dkx5MUNqRWxDOGpiSHQtVWJTNUExM2ktTG5YX2MxX3pqYko3WExUck5XeXNsWGtfNTdWNzUwbEJRTmlmODAzYlZXS1NxSllyQnBKM3pCb3kxVGxBem8xRDU2b3M0ZWFUdmxIMHlVeWVEd3ZLQXNsbnE?oc=5
+- Attack on Khan Sir's Coaching Centre in Patna, Rivals Under Lens - NDTV
+  Attack on Khan Sir's Coaching Centre in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQektWV1padmtuYVRGOHZzSUdFemNjZllDYll0N0R1bXc0cTJhOFhNZnhfVlM1UXduRmpITHd6cnpDdjh4dmw4S2FvaktOTjBPZ3Fva2NOeFh4aVg4VHpBbkppLUFpNFR0a09qY2l2TVViaWVxRlJVc2JPdGxZVGJIU1Z0SDc1NmRURDFpSlpWaHJvMFZ1bUhQUDA2MU1pOXFaYnk3YTEyTXhRZzZlM1h3eS1qS0EzNUpmeWJuMVZaaFRzSW43NVdEalpaVUFqQdIB1gFBVV95cUxONmNoZlF4dTY1bkRwbExJVXZaQ0pZanQzUUR2d3hSRW1YeGRpbjZjNndQTEJUQndRYVNIRnE3MHdXRjhmNGJzeURCRnFLcnA4UHd3SmgxbVhqMlJjMWMyVUFLQlduUzRXeXBnUy1CbUtyZFp1VklLWmRxTlduMEFkN1JvYmx2OXFaYTh5UV9TblZ2Tm1pUWJUWkVBVzNUSnRCdjdxbHVuU05LZmYtM3pRdkw0dU44Ni1vMGppT1Z4Ung0MnRBWU01aXNYVFYzNlQ4a2tERjhB?oc=5
 
 - Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
   Min Aung Hlaing: Why Myanmar president
@@ -188,17 +168,17 @@
   ‘Encroached territory’:
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
 
-- High costs dampen summer for beverage companies - The Times of India
-  High costs dampen summer for beverage companies
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9Fdk84OHJDbk9vRGVaanA2YzVoUDBVSWxYYlg4a2JXV2dsc3dmMWM3VVhFRTAyLTZVM2xKMmpTbUZwNXY3WXBZREMtSlBoRElSTXlsOE96NFpmM21GWHZCVnFNLU1CYzFKSmJ6bDVwT2FGbmllWnFTQmNuWlVpejVOOXo4UWxHbFJNdkZxeXlZMVFieE0xWkxXZUZ2VjlEd01fMXpJU282RURwTmVmVnFRbXNPQdIBuwFBVV95cUxPQ2lnal9YSlpwbGZfaFJrMHVCbG5FbC1TNnRtaWQ3QkN6bEVFbXJveE1mTTFBOGwzeExQekszbGZvU09KeWxjb093NjJidVFvOWhzWnVkLVBEOWUtZW5GLUlaWm1QalFfODZ5V3NLUzRrNHJPVUhUT2Q3b3FIUFRSN0dxQUpWYmlsc3RrT0hlMkhYdzE1cTY5dnJId3M4bXZMZF92Zl9LLTJ5SXpIbkE1QV9xS3NOenBKMkFZ?oc=5
+- India Rejects "Third Party Roles" To Resolve Boundary Row With Nepal - NDTV
+  India Rejects "Third Party Roles
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFl4MF91R3RyQzZxZW9xdkVtMjJvQzVTeFZwMS1raEN2eFdLTDNTRnIwXzNwYTk4VzNLVUtUVDdWaWxBSElVUGxOdkJjWWlGTl81Uzd4UVltRDlSNVlxMXBKSElkSHU2U0NvVm1qQWNrWWhHZTl4SWE1YUxRSmkxSUM0V0lXSEN3cW9rb3N1blczQXpxOVJzSkQ1aXdXdGFubFR6cVZBNllMbUXSAbMBQVVfeXFMTXRQMmZpWk9abEJIUUN2V24za1JuTDVhU1BJWi1CYVI3c1Y1QkNaRi1zZDh3QlZ2bjIxVHlHRFI3UUY0ZDhIeTVIZHNiVHpvVURtcE9paWlCNGh2Q1Y1UEc0Yng0VVRzeXZSOW9jYm9kWnJkSEFzVUhvSUhxSkcwa1dLZzJNOHpLcmtLT2FXcHBXTTJfbk5TMUotV0RQNWpmTTJnLTlKZmk2ZEFaLXl6Y05Udlk?oc=5
 
-- Centre's Big CBSE Move Amid On-Screen Marking Portal Irregularities - NDTV
-  Centre's Big CBSE Move
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcU1ORlFhcnplNVFBZ0Yxb09QcGtNOTJOSWxlZGE2bTlmQVEwOHJQWDNHX1loZUxFRG5pV1pLTmduWUVPczdZT203UjctVHl4VjlaWl9SakNUNTcwUVA4RkFiNmNWQ3RRY3JnNGNCVWdiTURXWGFCUmlBaVVBeDZTNV9MOFNTYU9wcmd6YkJsUXNMTjIybE1nY2daYURFREkwOTRLZE4zTnk4S2pPOUFXWWN0TEhjZ3U4MEhoTkU2ZnJ6cHctbDVoSkFTYXF4aXRvekZCVUE2OULSAeABQVVfeXFMUEc2eUlBYUlldHFHM3pZR1pWT3FsNDM3d1diQTJXREZ4MjJ5NlM4Wi10OHNLdnFPanMzdmxtclVhd2ZvV243N05hQlB4OHpuN1hxaVhrNWpUTm1KZF8zUjh2eDk3MDBkOHNDTG9KbjM4WVc4Wno0UHpjbF9TU2RsbDFhVmlNX1lub3JyMGpNRFNjR3FyNDQzNXRKMFhqN3BHeXl6NzlOOHJaSlFNMlZrcVRyRnRMLVpnMEk3bkFyT1M3MFkwMDR0MDBaaTRKZEVYYjlDaWhSZ0FRWXdyNzJ1T0c?oc=5
+- Exclusive: How can an aspirational Nepal and a rising India reconnect? | India News - Hindustan Times
+  "Exclusive: How can an aspirational Nepal and a rising
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnVucW9VbG5kVnpZby1mODR2VEU0bEJ3ZHpjN2JqSFRfUllEZXVINWp5ZnhCSlBlUGVyV25IWXhsd1FoY29IcEhJcGNFX1N5b3h6OXZhX25DbVY4RFJPMW1ZQnh5YUZFYVZsVWRyTDdQZFhScXhEVWZ4Q1ZMX1JwS2JENjJ4R1hwR2lJM2hjb3h5TFY2R1BUVlVSZDNlNFdSTEQ0N3RpNlk2czRaRDVsV2dVNlBPOGxwM1FJM3B30gHDAUFVX3lxTE9ERGRfZmZIRE40dEw1aWpYZHBHTnNjTTJkRjdQX05nVy03WEV6WFllcmdDeC1mRnBNMlM4dG5Ec2dRMlBJYWNpOUNfdnlSSExyMmxDZzJjaC1mbWxfNlllOUJiVW5tSHpITmNIZ0Via2E3MklMNzhxX1VjU0lSX2E3NUp5TUl6UENwbVRDS2g5dlIxd3RzVDhKUVgycWpFQnhteWN1MERzX3BsZl9vMUYxVW5vZ3pMaGFseUpZRng5dk5uQQ?oc=5
 
-- India news: Mamata Banerjee vows to 'fight or die' - DW.com
-  India news: Mamata Baner
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUVtbVRLZkUyYVNsSzE3bUVTazQ4NWl0MlpyaFhTaF9tQTNfUHp4c2dYSVg4czM5dkx5MUNqRWxDOGpiSHQtVWJTNUExM2ktTG5YX2MxX3pqYko3WExUck5XeXNsWGtfNTdWNzUwbEJRTmlmODAzYlZXS1NxSllyQnBKM3pCb3kxVGxBem8xRDU2b3M0ZWFUdmxIMHlVeWVEd3ZLQXNsbnE?oc=5
+- Attack on Khan Sir's Coaching Centre in Patna, Rivals Under Lens - NDTV
+  Attack on Khan Sir's Coaching Centre in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQektWV1padmtuYVRGOHZzSUdFemNjZllDYll0N0R1bXc0cTJhOFhNZnhfVlM1UXduRmpITHd6cnpDdjh4dmw4S2FvaktOTjBPZ3Fva2NOeFh4aVg4VHpBbkppLUFpNFR0a09qY2l2TVViaWVxRlJVc2JPdGxZVGJIU1Z0SDc1NmRURDFpSlpWaHJvMFZ1bUhQUDA2MU1pOXFaYnk3YTEyTXhRZzZlM1h3eS1qS0EzNUpmeWJuMVZaaFRzSW43NVdEalpaVUFqQdIB1gFBVV95cUxONmNoZlF4dTY1bkRwbExJVXZaQ0pZanQzUUR2d3hSRW1YeGRpbjZjNndQTEJUQndRYVNIRnE3MHdXRjhmNGJzeURCRnFLcnA4UHd3SmgxbVhqMlJjMWMyVUFLQlduUzRXeXBnUy1CbUtyZFp1VklLWmRxTlduMEFkN1JvYmx2OXFaYTh5UV9TblZ2Tm1pUWJUWkVBVzNUSnRCdjdxbHVuU05LZmYtM3pRdkw0dU44Ni1vMGppT1Z4Ung0MnRBWU01aXNYVFYzNlQ4a2tERjhB?oc=5
 
 - Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
   Min Aung Hlaing: Why Myanmar president
@@ -208,17 +188,37 @@
   ‘Encroached territory’:
   🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
 
-- High costs dampen summer for beverage companies - The Times of India
-  High costs dampen summer for beverage companies
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9Fdk84OHJDbk9vRGVaanA2YzVoUDBVSWxYYlg4a2JXV2dsc3dmMWM3VVhFRTAyLTZVM2xKMmpTbUZwNXY3WXBZREMtSlBoRElSTXlsOE96NFpmM21GWHZCVnFNLU1CYzFKSmJ6bDVwT2FGbmllWnFTQmNuWlVpejVOOXo4UWxHbFJNdkZxeXlZMVFieE0xWkxXZUZ2VjlEd01fMXpJU282RURwTmVmVnFRbXNPQdIBuwFBVV95cUxPQ2lnal9YSlpwbGZfaFJrMHVCbG5FbC1TNnRtaWQ3QkN6bEVFbXJveE1mTTFBOGwzeExQekszbGZvU09KeWxjb093NjJidVFvOWhzWnVkLVBEOWUtZW5GLUlaWm1QalFfODZ5V3NLUzRrNHJPVUhUT2Q3b3FIUFRSN0dxQUpWYmlsc3RrT0hlMkhYdzE1cTY5dnJId3M4bXZMZF92Zl9LLTJ5SXpIbkE1QV9xS3NOenBKMkFZ?oc=5
+- India Rejects "Third Party Roles" To Resolve Boundary Row With Nepal - NDTV
+  India Rejects "Third Party Roles
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFl4MF91R3RyQzZxZW9xdkVtMjJvQzVTeFZwMS1raEN2eFdLTDNTRnIwXzNwYTk4VzNLVUtUVDdWaWxBSElVUGxOdkJjWWlGTl81Uzd4UVltRDlSNVlxMXBKSElkSHU2U0NvVm1qQWNrWWhHZTl4SWE1YUxRSmkxSUM0V0lXSEN3cW9rb3N1blczQXpxOVJzSkQ1aXdXdGFubFR6cVZBNllMbUXSAbMBQVVfeXFMTXRQMmZpWk9abEJIUUN2V24za1JuTDVhU1BJWi1CYVI3c1Y1QkNaRi1zZDh3QlZ2bjIxVHlHRFI3UUY0ZDhIeTVIZHNiVHpvVURtcE9paWlCNGh2Q1Y1UEc0Yng0VVRzeXZSOW9jYm9kWnJkSEFzVUhvSUhxSkcwa1dLZzJNOHpLcmtLT2FXcHBXTTJfbk5TMUotV0RQNWpmTTJnLTlKZmk2ZEFaLXl6Y05Udlk?oc=5
 
-- Centre's Big CBSE Move Amid On-Screen Marking Portal Irregularities - NDTV
-  Centre's Big CBSE Move
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcU1ORlFhcnplNVFBZ0Yxb09QcGtNOTJOSWxlZGE2bTlmQVEwOHJQWDNHX1loZUxFRG5pV1pLTmduWUVPczdZT203UjctVHl4VjlaWl9SakNUNTcwUVA4RkFiNmNWQ3RRY3JnNGNCVWdiTURXWGFCUmlBaVVBeDZTNV9MOFNTYU9wcmd6YkJsUXNMTjIybE1nY2daYURFREkwOTRLZE4zTnk4S2pPOUFXWWN0TEhjZ3U4MEhoTkU2ZnJ6cHctbDVoSkFTYXF4aXRvekZCVUE2OULSAeABQVVfeXFMUEc2eUlBYUlldHFHM3pZR1pWT3FsNDM3d1diQTJXREZ4MjJ5NlM4Wi10OHNLdnFPanMzdmxtclVhd2ZvV243N05hQlB4OHpuN1hxaVhrNWpUTm1KZF8zUjh2eDk3MDBkOHNDTG9KbjM4WVc4Wno0UHpjbF9TU2RsbDFhVmlNX1lub3JyMGpNRFNjR3FyNDQzNXRKMFhqN3BHeXl6NzlOOHJaSlFNMlZrcVRyRnRMLVpnMEk3bkFyT1M3MFkwMDR0MDBaaTRKZEVYYjlDaWhSZ0FRWXdyNzJ1T0c?oc=5
+- Exclusive: How can an aspirational Nepal and a rising India reconnect? | India News - Hindustan Times
+  "Exclusive: How can an aspirational Nepal and a rising
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnVucW9VbG5kVnpZby1mODR2VEU0bEJ3ZHpjN2JqSFRfUllEZXVINWp5ZnhCSlBlUGVyV25IWXhsd1FoY29IcEhJcGNFX1N5b3h6OXZhX25DbVY4RFJPMW1ZQnh5YUZFYVZsVWRyTDdQZFhScXhEVWZ4Q1ZMX1JwS2JENjJ4R1hwR2lJM2hjb3h5TFY2R1BUVlVSZDNlNFdSTEQ0N3RpNlk2czRaRDVsV2dVNlBPOGxwM1FJM3B30gHDAUFVX3lxTE9ERGRfZmZIRE40dEw1aWpYZHBHTnNjTTJkRjdQX05nVy03WEV6WFllcmdDeC1mRnBNMlM4dG5Ec2dRMlBJYWNpOUNfdnlSSExyMmxDZzJjaC1mbWxfNlllOUJiVW5tSHpITmNIZ0Via2E3MklMNzhxX1VjU0lSX2E3NUp5TUl6UENwbVRDS2g5dlIxd3RzVDhKUVgycWpFQnhteWN1MERzX3BsZl9vMUYxVW5vZ3pMaGFseUpZRng5dk5uQQ?oc=5
 
-- India news: Mamata Banerjee vows to 'fight or die' - DW.com
-  India news: Mamata Baner
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUVtbVRLZkUyYVNsSzE3bUVTazQ4NWl0MlpyaFhTaF9tQTNfUHp4c2dYSVg4czM5dkx5MUNqRWxDOGpiSHQtVWJTNUExM2ktTG5YX2MxX3pqYko3WExUck5XeXNsWGtfNTdWNzUwbEJRTmlmODAzYlZXS1NxSllyQnBKM3pCb3kxVGxBem8xRDU2b3M0ZWFUdmxIMHlVeWVEd3ZLQXNsbnE?oc=5
+- Attack on Khan Sir's Coaching Centre in Patna, Rivals Under Lens - NDTV
+  Attack on Khan Sir's Coaching Centre in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQektWV1padmtuYVRGOHZzSUdFemNjZllDYll0N0R1bXc0cTJhOFhNZnhfVlM1UXduRmpITHd6cnpDdjh4dmw4S2FvaktOTjBPZ3Fva2NOeFh4aVg4VHpBbkppLUFpNFR0a09qY2l2TVViaWVxRlJVc2JPdGxZVGJIU1Z0SDc1NmRURDFpSlpWaHJvMFZ1bUhQUDA2MU1pOXFaYnk3YTEyTXhRZzZlM1h3eS1qS0EzNUpmeWJuMVZaaFRzSW43NVdEalpaVUFqQdIB1gFBVV95cUxONmNoZlF4dTY1bkRwbExJVXZaQ0pZanQzUUR2d3hSRW1YeGRpbjZjNndQTEJUQndRYVNIRnE3MHdXRjhmNGJzeURCRnFLcnA4UHd3SmgxbVhqMlJjMWMyVUFLQlduUzRXeXBnUy1CbUtyZFp1VklLWmRxTlduMEFkN1JvYmx2OXFaYTh5UV9TblZ2Tm1pUWJUWkVBVzNUSnRCdjdxbHVuU05LZmYtM3pRdkw0dU44Ni1vMGppT1Z4Ung0MnRBWU01aXNYVFYzNlQ4a2tERjhB?oc=5
+
+- Min Aung Hlaing: Why Myanmar president's India visit is being closely watched - BBC
+  Min Aung Hlaing: Why Myanmar president
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aZFZZWjFFdkR1WkVjMVpfOHcwcnVuRjBsVTRSTk1BbUJNalZjX3RKYzBrMUdYZUE0MVpjU2xYN3ZpNTJ5bzdoVUNoU0taMTJlRXJaaWZJaTcwdw?oc=5
+
+- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
+  ‘Encroached territory’:
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+
+- India Rejects "Third Party Roles" To Resolve Boundary Row With Nepal - NDTV
+  India Rejects "Third Party Roles
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFl4MF91R3RyQzZxZW9xdkVtMjJvQzVTeFZwMS1raEN2eFdLTDNTRnIwXzNwYTk4VzNLVUtUVDdWaWxBSElVUGxOdkJjWWlGTl81Uzd4UVltRDlSNVlxMXBKSElkSHU2U0NvVm1qQWNrWWhHZTl4SWE1YUxRSmkxSUM0V0lXSEN3cW9rb3N1blczQXpxOVJzSkQ1aXdXdGFubFR6cVZBNllMbUXSAbMBQVVfeXFMTXRQMmZpWk9abEJIUUN2V24za1JuTDVhU1BJWi1CYVI3c1Y1QkNaRi1zZDh3QlZ2bjIxVHlHRFI3UUY0ZDhIeTVIZHNiVHpvVURtcE9paWlCNGh2Q1Y1UEc0Yng0VVRzeXZSOW9jYm9kWnJkSEFzVUhvSUhxSkcwa1dLZzJNOHpLcmtLT2FXcHBXTTJfbk5TMUotV0RQNWpmTTJnLTlKZmk2ZEFaLXl6Y05Udlk?oc=5
+
+- Exclusive: How can an aspirational Nepal and a rising India reconnect? | India News - Hindustan Times
+  "Exclusive: How can an aspirational Nepal and a rising
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnVucW9VbG5kVnpZby1mODR2VEU0bEJ3ZHpjN2JqSFRfUllEZXVINWp5ZnhCSlBlUGVyV25IWXhsd1FoY29IcEhJcGNFX1N5b3h6OXZhX25DbVY4RFJPMW1ZQnh5YUZFYVZsVWRyTDdQZFhScXhEVWZ4Q1ZMX1JwS2JENjJ4R1hwR2lJM2hjb3h5TFY2R1BUVlVSZDNlNFdSTEQ0N3RpNlk2czRaRDVsV2dVNlBPOGxwM1FJM3B30gHDAUFVX3lxTE9ERGRfZmZIRE40dEw1aWpYZHBHTnNjTTJkRjdQX05nVy03WEV6WFllcmdDeC1mRnBNMlM4dG5Ec2dRMlBJYWNpOUNfdnlSSExyMmxDZzJjaC1mbWxfNlllOUJiVW5tSHpITmNIZ0Via2E3MklMNzhxX1VjU0lSX2E3NUp5TUl6UENwbVRDS2g5dlIxd3RzVDhKUVgycWpFQnhteWN1MERzX3BsZl9vMUYxVW5vZ3pMaGFseUpZRng5dk5uQQ?oc=5
+
+- Attack on Khan Sir's Coaching Centre in Patna, Rivals Under Lens - NDTV
+  Attack on Khan Sir's Coaching Centre in
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQektWV1padmtuYVRGOHZzSUdFemNjZllDYll0N0R1bXc0cTJhOFhNZnhfVlM1UXduRmpITHd6cnpDdjh4dmw4S2FvaktOTjBPZ3Fva2NOeFh4aVg4VHpBbkppLUFpNFR0a09qY2l2TVViaWVxRlJVc2JPdGxZVGJIU1Z0SDc1NmRURDFpSlpWaHJvMFZ1bUhQUDA2MU1pOXFaYnk3YTEyTXhRZzZlM1h3eS1qS0EzNUpmeWJuMVZaaFRzSW43NVdEalpaVUFqQdIB1gFBVV95cUxONmNoZlF4dTY1bkRwbExJVXZaQ0pZanQzUUR2d3hSRW1YeGRpbjZjNndQTEJUQndRYVNIRnE3MHdXRjhmNGJzeURCRnFLcnA4UHd3SmgxbVhqMlJjMWMyVUFLQlduUzRXeXBnUy1CbUtyZFp1VklLWmRxTlduMEFkN1JvYmx2OXFaYTh5UV9TblZ2Tm1pUWJUWkVBVzNUSnRCdjdxbHVuU05LZmYtM3pRdkw0dU44Ni1vMGppT1Z4Ung0MnRBWU01aXNYVFYzNlQ4a2tERjhB?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-02 20:43:28 UTC_
+_Last updated: 2026-06-03 03:38:38 UTC_
