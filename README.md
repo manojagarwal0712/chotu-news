@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
+- Defamation notice against BJP Rajasthan chief marks fresh flashpoint in escalating BJP-RLP confrontation
+  
+  🔗 https://indianexpress.com/article/india/hanuman-beniwal-legal-notice-madan-rathore-bjp-rlp-rajasthan-row-10722783/
+
+- Journalist, IIT-ian among spokespersons named by Cockroach Party ahead of Saturday’s protest
+  
+  🔗 https://indianexpress.com/article/india/cockroach-cjp-spokespersons-saurav-das-abhijeet-dipke-jantar-mantar-protest-10722635/
+
+- ‘The money is our only hope’ – In Odisha, the elderly wait for social security pensions
+  
+  🔗 https://indianexpress.com/article/india/odisha-social-security-old-age-pension-delay-10722582/
+
+- NEET UG leak accused wants to prep for retest, court allows books in custody
+  
+  🔗 https://indianexpress.com/article/india/neet-ug-leak-accused-retest-court-books-custody-10722514/
+
 - Amid internal rumblings, Omar takes NC legislators to Dachigam for offsite ‘review’ huddle
   
   🔗 https://indianexpress.com/article/india/omar-abdullah-nc-mla-dachigam-review-meeting-10722013/
 
-- As El Niño threatens monsoon, farmer groups promote millets, mulching and drip irrigation
+- PlayStation State of Play 2026 roundup: From Marvel’s Wolverine to Dune: Awakening
   
-  🔗 https://indianexpress.com/article/india/weak-monsoon-el-nino-fpos-promote-millets-climate-resilient-farming-india-10721736/
+  🔗 https://indianexpress.com/article/technology/gaming/playstation-state-of-play-2026-roundup-from-marvels-wolverine-to-dune-awakening-10722662/
 
-- Monsoon knocks on Kerala’s door; IMD issues heavy rain, thunderstorm alerts across India
+- Snapdragon X2 Elite powers first mini-PC: ASUS Ascent QN10 debuts at Computex 2026
   
-  🔗 https://indianexpress.com/article/india/rain-weather-imd-kerala-delhi-india-thunderstorm-heatwave-10721440/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/snapdragon-x2-elite-powers-first-mini-pc-asus-ascent-qn10-debuts-at-computex-2026-10722488/
 
-- Journalist, filmmaker, IIT alumnus: Cockroach Janta Party names 3 spokespersons
+- Meta launches AI-powered Business Agent to help companies automate customer support, sales and marketing
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-spokespersons-saurav-das-vijeta-dahiya-ranka-10721873/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-launches-ai-powered-business-agent-to-help-companies-automate-customer-support-sales-and-marketing-10722489/
 
-- Great Nicobar Island Project: Jairam Ramesh confronts Environment Minister Bhupender Yadav again on green nod
+- China launches Falcon 9-like Long March 12B rocket in surprise debut mission
   
-  🔗 https://indianexpress.com/article/india/great-nicobar-island-project-jairam-ramesh-eia-environmental-clearance-concerns-10721656/
+  🔗 https://indianexpress.com/article/technology/science/china-launches-falcon-9-like-long-march-12b-rocket-in-surprise-debut-mission-10722399/
 
-- Binge-watching Reels? Meta tests new ‘Series’ feature for episodic Reels on Instagram and Facebook
+- Motorola Edge 70 Pro review: Refined design, great display strikes perfect balance
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/binge-watching-reels-meta-tests-new-series-feature-for-episodic-reels-on-instagram-and-facebook-10721986/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/motorola-edge-70-pro-review-10722364/
 
-- Microsoft launches Scout, an AI agent that works for you even when you’re offline
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-launches-scout-an-ai-agent-that-works-for-you-even-when-youre-offline-10721742/
+- Bata India bets on improving inventory reduction through efficiency steps, omni-channel strategy
+  Bata India emphasizes inventory reduction through efficiency, with a 13% decrease in gross inventory in the latest quarter. The company's om
+  🔗 https://www.livemint.com/companies/news/bata-india-efficiency-steps-inventory-reduction-new-designs-online-sales-raw-material-costs-omni-channel-strategy-11780491583769.html
 
-- Apple Design Awards 2026: Indian app Guitar Wiz wins inclusivity honour
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-design-awards-2026-indian-app-guitar-wiz-wins-inclusivity-honour-10721942/
+- Why FirstCry excelled at selling diapers but hasn’t quite cracked the pre-school code
+  FirstCry thought its vast baby product experience and ecosystem would help it crack the adjacency of preschools. Six years on, Intellitots is profitable but not
+  🔗 https://www.livemint.com/companies/whyfirstcrys1000preschoolambitionisstillaworkinprogress-11780492866656.html
 
-- Marvel’s ‘Wolverine’ gets brutal new gameplay reveal; launch date confirmed at State of Play
-  
-  🔗 https://indianexpress.com/article/technology/gaming/marvels-wolverine-gets-brutal-new-gameplay-reveal-launch-date-confirmed-at-state-of-play-10721743/
+- Israeli startup Coralogix raises $200 mn, to allocate 20% to India biz
+  Coralogix had announced that it would invest $30 million over three years into
+  🔗 https://www.livemint.com/companies/news/israeli-startup-coralogix-fundraise-india-biz-ai-11780485348282.html
 
-- Why hundreds of mathematicians have backed a declaration against unchecked AI use
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-mathematicians-signed-leiden-declaration-ai-10721732/
+- Sebi flags  ₹15 trillion misstatement in Rajesh Exports accounts
+  Sebi has alleged that  ₹15.15 trillion in subsidiary revenue was misrepresented. It has also barred promoter Rajesh Mehta from trading
+  🔗 https://www.livemint.com/companies/news/sebi-flags-15-trillion-misstatement-in-rajesh-exports-accounts-11780498049894.html
 
-- Life after IPL: how JioHotstar plans to keep viewers and advertisers hooked without cricket
-  The streaming platform is rolling out AI tech, niche content, and ad features to keep the traffic
-  🔗 https://www.livemint.com/companies/news/how-jiohotstar-plans-to-retain-ipl-viewers-with-ai-search-microdramas-11780466772484.html
+- Kotak Alts raises ADIA-anchored $1 bn real estate fund
+  Kotak Alts has closed its 14th real estate fund at $1 billion with major investments from Abu Dhabi's ADIA and
+  🔗 https://www.livemint.com/companies/news/kotak-alts-adia-real-estate-fund-korea-nps-11780480088762.html
 
-- Nestlé India flags shaky demand from urban middleclass as incomes lag
-  India’s consumption recovery could face a fresh test as the urban middleclass has entered a ‘wait and watch’ mode on discretionary spending. The demand from the premium and rural sectors has, however
-  🔗 https://www.livemint.com/companies/nestle-india-urban-middleclass-consumption-demand-fmcg-11780470450407.html
+- BHEL shares to be in focus on Thursday as company bags  ₹2,500 crore international order from Nigeria’s Dangote
+  The company said it has signed a contract agreement with Dangote Petroleum Refinery.
+  🔗 https://www.livemint.com/market/stock-market-news/bhel-shares-to-be-in-focus-on-thursday-as-company-bags-rs-2-500-crore-international-order-from-nigeria-s-dangote-11780501097129.html
 
-- Suzlon’s next growth bet: solar, batteries and a tight grip on capital
-  ‘Suzlon 2.0’ strategy aims to turn it into a one-stop renewable energy solutions
-  🔗 https://www.livemint.com/companies/news/suzlon-2-0-wind-solar-battery-storage-15-gw-orderbook-2031-11780469989171.html
+- Gold, silver rates today: Comex gold tumbles $53/oz; silver drops $2 amid firm dollar, inflation fears
+  Comex gold futures slipped back into losses, falling $53 per troy ounce to the day’s low of $4
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-tumbles-53-oz-silver-drops-2-amid-firm-dollar-inflation-fears-11780494199367.html
 
-- Larry Ellison beats Google's Sergey Brin, Amazon's Jeff Bezos to 3rd spot on billionaire rich list as Oracle stock soars
-  Larry Ellison has jumped to the third spot on Bloomberg's billionaire rich list. He overtakes Google's Sergey Brin and Amazon's Jeff
-  🔗 https://www.livemint.com/companies/people/larry-ellison-jumps-3-spot-billionaire-rich-list-oracle-stock-soars-beats-google-sergey-brin-amazon-jeff-bezos-elon-musk-11780468512797.html
+- GameStop shares jump 13% after strong quarterly earnings, $2 billion share buyback
+  The results were supported by lower expenses and a 65% rise in its collectibles business, which continues to evolve into
+  🔗 https://www.livemint.com/market/stock-market-news/gamestop-shares-jump-13-after-strong-quarterly-earnings-2-billion-share-buyback-11780493146036.html
 
-- True North seeks exit from Cloudnine Hospitals amid $300 million fundraise
-  The fundraising exercise comes weeks after Kids Clinic India agreed to acquire the maternity, childcare and fertility businesses of
-  🔗 https://www.livemint.com/companies/cloudnine-hospitals-funding-true-north-exit-middle-east-expansion-11780456976313.html
+- Wall Street retreats as intensifying Mideast conflict drives oil prices higher, GameStop soars 8.5%, Marvell rises 2%
+  The Dow Jones Industrial Average fell 0.54%, the S&amp;amp
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-retreats-as-intensifying-middle-east-conflict-drives-oil-prices-higher-11780494903510.html
 
-- Top Gainers &amp; Losers on June 3: TCS, Coforge, PB Fintech, JM Financial, Tata Elxsi, Thermax among top losers today
-  The Indian stock market fell on June 3, with the Nifty 50 down 0.36%. Rising crude oil prices and escalating Middle East tensions contributed to the decline.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-3-tcs-coforge-pb-fintech-jm-financial-tata-elxsi-thermax-among-top-losers-today-11780480804005.html
-
-- Sensex rebounds 850 points from day's low to end 300 points down: 10 key highlights from Indian stock market today
-  The Indian stock market resumed its losing run after a one-day hiatus. It closed significantly off the day's low, signalling
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-rebounds-850-points-from-days-low-to-end-300-points-down-10-key-highlights-from-indian-stock-market-today-11780481042327.html
-
-- Google's $80 billion move is a  ‘wake-up call’ for Indian Inc, says Uday Kotak on X
-  Uday Kotak, in a post on X, pointed to a recent announcement by Google, which despite being
-  🔗 https://www.livemint.com/market/stock-market-news/googles-80-billion-move-is-a-wake-up-call-for-indian-inc-says-uday-kotak-on-x-11780479425395.html
-
-- Borosil Renewables shares surge 10% as government extends solar glass import duties
-  Borosil Renewables shares rose 10% to  ₹549.90 after the government imposed new duties on solar glass imports from Malaysia. This marks a significant gain, with nearly
-  🔗 https://www.livemint.com/market/stock-market-news/borosil-renewables-shares-surge-10-as-government-extends-solar-glass-import-duties-11780477436247.html
-
-- Suzlon share price rebounds from day’s low after announcement of this growth plan
-  Suzlon share price has fallen 3% in one month and has rallied over 32% in three months. Suzlon shares have delivered multibagger returns of 393% in 3 years
-  🔗 https://www.livemint.com/market/stock-market-news/suzlon-share-price-rebounds-from-day-s-low-after-announcement-of-this-growth-plan-11780477690332.html
+- CMR Green Technologies IPO: Issue received solid response on Day 01, booked 2.45 times; GMP signals bumper listing
+  The grey market premium (GMP) for the CMR Green Technologies stands at  ₹67 per share, suggesting that the stock is likely to list above its issue price. Based on this GMP and the upper price band
+  🔗 https://www.livemint.com/market/stock-market-news/cmr-green-technologies-ipo-issue-received-solid-response-on-day-01-booked-2-45-times-gmp-signals-bumper-listing-11780489037957.html
 
 - India spending big on AI, but lacks talent to deploy it, says SBI chairman
   SBI chairman Setty's comments come amid growing concerns that rapid AI adoption
@@ -100,133 +100,145 @@
   Uber has set a $1,500 monthly spending limit for employees using AI coding tools like Claude
   🔗 https://www.livemint.com/technology/tech-news/ubers-ai-bill-got-so-high-that-it-is-now-limiting-claude-code-usage-to-1-500-report-11780452994827.html
 
-- RBI unlikely to hike rates despite El Niño and fuel price pressures, says Nomura's Aurodeep Nandi
-  Despite rising fuel costs and potential monsoon issues, key inflation measure remains low. Experts suggest firms are absorbing price pressures. Geopolitical risks and future cost pass-throughs remain factors.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/rbi-unlikely-to-hike-rates-despite-el-nio-and-fuel-price-pressures-says-nomuras-aurodeep-nandi/articleshow/131481097.cms
+- Closing Bell: Nifty at 23,400, Sensex down 304 pts after a volatile session; IT worst hit - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPNTlvSFRyclNMbGJZWVVPc0dhTllYTk1TenNRY080dzdQMWRjN2JBM1hzZmRDc3NvNG00MVhveUlpSm81ckNpOXUtVnVtR0JJaGZWdC11RGoxNDNfYm96ZjdpbzNRN0hETF
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPNTlvSFRyclNMbGJZWVVPc0dhTllYTk1TenNRY080dzdQMWRjN2JBM1hzZmRDc3NvNG00MVhveUlpSm81ckNpOXUtVnVtR0JJaGZWdC11RGoxNDNfYm96ZjdpbzNRN0hETF96eGRtSk9QbnFkWGR6ODRBWnlNUDJYYlQ1U1FEQUo5STV6YlItMlJJSDVwSUtCWnJSanFqZnFibGk5MmFEdTJSTXFEanYyTUd4b0JDYmZxZTVfQUpQRHMzcXNkWVVWWDB2dDE3LTNqZkhCb2l1elFoanhaMTZMX2o0MnhoSm9waHJHVkhSaUVnS1BWZUp2NkVvWWRNX19obHJ4Z1lZN0szMGxNSzhKeTBaONIBmAJBVV95cUxNSVFVeUZITnBXM2xsTGQ3TzRLbnpIRW5UQUR1WW9LQlFLTk5oMXJrRnF6ZUptQUQzdnNoeUhCWGxJT3N4VTZpZi02R2RYWVhzSE5BN19zcEJyczg5aWJLN1Y1Q0FHRmFZeHpkdm5JOWtzbDRfYUZ0cDRfeTU4clBQZzBoZk9QWWlZUWhJUWhDeF9IelVhWVd2ZXFPbEo5MGVFQXk1RzdpVndJSENxLWpjcUx0RVVkUUxVeVZkUGJVUS1WekRyMjU1UXNSb1VTLUhoejl4ZVJWZHVMMFFWTURRR0NBeHlILUdTVldpWFpORVQ0dmhOcUxUeGZ4Y052b0NjOElVTkFlbHdvWkN4cGZGWmQtc3VoM2hf?oc=5
 
-- Sensex recovers 850 points from day’s low, Nifty closes above 23,400. One big reason behind sharp market rebound!
-  Indian stock markets staged a strong comeback on Wednesday afternoon. Media reports indicated the government plans to cut taxes and remove ownership caps on certain bonds. This news significantly boosted investor confidence.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sensex-recovers-1000-points-from-days-low-nifty-above-23450-one-big-reason-behind-sharp-market-rebound/articleshow/131480914.cms
+- Stock Market Today: Indexes Pull Back From Records; Bond Yields, Oil Rise; Marvell Surges Further - Investopedia
+  &nbsp;&ngt;<font color="#6
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkJPRzdpYUNlUjd4VXZKSGo1X1BWN3daVUJTTjZwSWhDX2ZISWFBZGZYQ29yRENZOHljQXF2U0pLVWFZMHhzeW9pQkdiWGJMSktUTk1LZnRIRjYyUmYyTkZYLVdfajNTRGozYS1kR1I2c2Z4QW5qMGdKT0I2NER5Q2QzVFVlVFVBMXJObFcxcDE?oc=5
 
-- Govt weighs tax cuts to boost foreign bond inflows: Report
-  The government plans to cut taxes on global funds investing in Indian bonds. Ownership limits on certain bonds may also be removed. These measures aim to attract more capital.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-said-to-ready-tax-cut-plans-to-attract-foreign-bond-buyers/articleshow/131480700.cms
+- Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap - Bloomberg.com
+  Stocks Decline as US-Iran
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWhxRXZCYVRNVmIzNzVTeFFWbHhqeUk3aTkyMXNadWV4b3lqRDdfdkJQZE9IdVVoZW53T2lEOXM4d0VqZWVKbUlsX0JpMllQZ2tVNV9aZnk1MktxTXBBRlhyMFFLb2lBZTQxNGdCUVlib2RKVm84U0FFTklLaEE5VWxPbTB3ZWg2QTVaMnlGUEpKc0hLX29INDZ6MjF1cGFOTmMwb1J4eTJkWDIxcGlCVA?oc=5
 
-- Vodafone Idea shares rally 7% to fresh 52-week high despite market crash. What's behind the surge?
-  Vodafone Idea shares surged nearly 7% to a new 52-week high after ICRA upgraded the telecom operator’s rating and revised its outlook. Investor sentiment was further boosted by lower AGR dues, promoter
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-rally-7-to-fresh-52-week-high-despite-market-crash-whats-behind-the-surge/articleshow/131480762.cms
+- Google Sends a Clear Signal - WSJ
+  Google sends a
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE5YemcwOTFkY1RtQmprTmpCZU1oSGNZM2ptZHY0WFNYeExYMWFSd0kxM1NwNE96VVkySjFLMURqeWRMWjhjRnIxQzg0Y0FndlF2Z1J2VHhiZnZ1VHV4MHJ4b1ZObkZhQXdDVXpHZkwtRnJXem4yVWkwVWp3Zw?oc=5
 
-- Market correction nearing its end; bet on banking, pharma: Rohit Srivastava
-  Nifty approaching a key support zone around 23,077. Banking, energy, and metals sectors show strength. Investors are advised patience as the market potentially turns upwards.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-correction-nearing-its-end-bet-on-banking-pharma-rohit-srivastava/articleshow/131480037.cms
+- Bitcoin price news: BTC bounces from overnight tumble to $65,000, but remains under pressure - CoinDesk
+  Bitcoin price news: BTC bounces from overnight tumble to $65
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUER1c0gxcTEwV3pZOTdTMUZTVmhhTG9pNTZXWGRwMGpYZE80NGplQjI5Y3BrczNoV2JpUWtOZnRHSVFkQmlERTVaZHBvbmJZaHVtQ1pNUXYyOFdzcmhDNUxJLWJXN3hFX1VMcGl5b3JEbUQ0aTk3ME0za180UHl3U2Z6THl5eDFCcFA0ZlhocURRQlRUSjFPcWtuc1NBRUlnckJWdVdKYUNMSVBQV29nZnhhSkpYblk?oc=5
 
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+- Market Trading Guide: Ather Energy among 2 stock recommendations for Thursday
+  Analysts recommend Ather Energy and J&amp;K Bank for Thursday. Analysts cite bullish breakouts, healthy volumes, strong momentum indicators and favorable long-term technical
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ather-energy-among-2-stock-recommendations-for-thursday/articleshow/131487881.cms
 
-- More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additiona - The Times of India
-  The Times of India reported that the US is considering imposing more tariffs on India.
-  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQcUpsS2JvNWQzX1c0R0ZYRG9vTXNkeG1HMnljN19aT280b2lYNHhsWnBseTd6cFd6TjZVb09EVWNtQ0dpbzYwdlhPUlNTZkNjRXVIMHpZR2FaR0lPcjctVmFTcy1Ya0MtMmYzd0JRQzJlbjM3WVozUDRxeHp3VWFVMm5VdEJSM3hyekxaTlNPSWxnZ1NvcmhSNXpWNjJmbFZCaUg0M0s2Wlg2UjVybkI1cG1IUlRLSkJxSUQ5MzEyTnFSSHJZZlh1cnBNVVhGUGZtbHQ4QXNxX056X1FlaFdteFdGY1I0TFFVb2pYazM1MF9QczJIWkgyOFplclFjUG4xRUgtb2VHd0twYXZuZVRvbTVqa29zXy1JQTBnNzdPaXFnZ9IBpwJBVV95cUxPY1JsZDNUV2lpdEVxUmhCT2EtMmFGdGRqQTQwcURPSjY4NEw4Nk9HVEl6bkhJdGVWQVAwS0llMlZVcUZSNHhHVkFxUUV4QmcxT2laYU5LdVhEbk92VktVU3NsN29Cakt5OW9CZGlHWWRzR0xYUGo1aXJIbzNGaHRsVDRibVdaTkVnT2plYlFiNXBsUDhfblpzd21Rd3RWQzdiTHpRbkNlY0RTX01GRDNKQkl0WDBZdWNUTTNyd2g3a3ZUNXBOWWNkTnROT01CU3VhV1lFN0czb2h0dVR6SEIxQ2hJWlp6MFhnUnowNldGTXZ4T2JDNVcxQV84NzNESWFmVG9STG5OS0NrclJoNWc3bi1hQkliTWtlMnp0QkFJUml0cll1Xzgw?oc=5
+- SoftBank sells Rs 2,873 crore worth of Lenskart shares in block deal to Goldman Sachs and other investors
+  SoftBank offloaded shares worth about Rs 2,873 crore through a block deal. The transaction drew strong institutional interest, while analysts remain positive on Lenskart's growth
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-rs-2873-crore-worth-of-lenskart-shares-in-block-deal-to-goldman-sachs-and-other-investors/articleshow/131487858.cms
 
-- What India Said On Trump's Proposed Tariff Amid Talks On Trade Pact - NDTV
-  What India Said On Trump's Proposed Tariff
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOVE5vZW8xdllxdGxEam1rSFdQdXQyei1oUDRDeGNQZk1XQTBDalRORmpFTzdETm5HQWNvSkQzelBhUzZpSTkteUVpWHJQM2I1aW5NTG9FRDVjaGU0amhmb2ZXaDNiSnNUT3U5QkwtYUJoZEJFUmY0ZS1oTDlFMnBQOVBrcmppVU5uaHZ1TmdZUkdOb1FONldOdmFwemxOeEN2VFYxWlVQdG8ydDdFeVRPeXEzd0gzNUswbWdJRlBRME9MenhfelHSAc4BQVVfeXFMTm5HZFBoeGhwOFdTY2MzZHFoVWNPelRod1p6Tkd6TnotVE44S1JuREoySC1WaWVFY2dqdm1mYVFGeVdfbXJoempIV3U1RVVLMXB4cm51N0kyU2VYZlRObk9IX01nbWpHSG1HSFluWGFOYTdPUFA1NElPNHdPSnlZUXJlRVlrQS1GUVd4eTZlVzJzVkF3NGZoeTJlVF80b3lIMUVZdzUyOHhtQVRtU253MFhlX3Y0aFR2TkZOb0JmYmx0bEJtMnZub1NlSm43dkE?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Analysts see key Nifty support near 23,200-23,000. Market participants will monitor technical levels, global cues and sectoral trends.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131487788.cms
 
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- Rajesh Exports: Sebi finds 97-99% revenue inflation, bars promoter from trading
+  Rajesh Exports and promoter Rajesh Mehta face regulatory action. Sebi alleged large-scale financial misrepresentation and possible revenue inflation of 97-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-sebi-finds-97-99-revenue-inflation-bars-promoter-from-trading/articleshow/131486429.cms
 
-- Why TMC revolt is about Abhishek Banerjee, not Mamata - The Times of India
-  The Times of India reported that Mamata's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTUybWtSbFNHRnhTamJIUWtDd0FkdTA2Qkp2cnhKUkdzLXUzWDlKX2VLWFM2dVZHYjhJTGNjaHo4MmxEb24wU01tUkJFZ2FVUEFBamJXbkdiUGxBQ0h2ZF9HclJ6dFJ4NkVFRTlrMnVIemZQdFVCdVYtQVhKZVdmTTdqeUsyN3pZXzd3Q2Z4d1Z1LWR4aVgyTk0ydDM5RGFFNzhIakxGMWtpVTg0Z1pSLXVfdmNEQ0EzU3ljWktrTHFiR3FmeTdoRktQNlZSbjBYS2Y3TzczZE_SAd4BQVVfeXFMTldSTEt3ZFZETlJmVmFpNVNIWWQyWnB1Q0RzeUVxTXVJSmdtajRUMlh6SGlCelExanh6VkIydm5SM1QtRDJKSHBESVZtZVhwVDJBOFdQdUczS1FjYnhpY1FlUXRqQ3JsdS0wOG5sMWVZNXJQM2lXU2d6YjNUV01PRkhZWmoyaDZDNHpXWTJUanhBNTkzWGVXMHRDclRFdi1IUUVOREQ1RkVJQ0hmTUtSUm9keGNGQW8wRFNzM05FVTZmR193QV90WFZGV1JnSTFzQVVCXy1ySkU4dWdTLThn?oc=5
-
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+- US stocks today: US stocks open lower on fresh Mideast tensions
+  Dow, S&amp;P 500 and Nasdaq slipped at open. Concerns over new US tariff proposals added to risk-off mood.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-on-fresh-mideast-tensions/articleshow/131485773.cms
 
 - More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additiona - The Times of India
   The Times of India reported that the US is considering imposing more tariffs on India.
   🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQcUpsS2JvNWQzX1c0R0ZYRG9vTXNkeG1HMnljN19aT280b2lYNHhsWnBseTd6cFd6TjZVb09EVWNtQ0dpbzYwdlhPUlNTZkNjRXVIMHpZR2FaR0lPcjctVmFTcy1Ya0MtMmYzd0JRQzJlbjM3WVozUDRxeHp3VWFVMm5VdEJSM3hyekxaTlNPSWxnZ1NvcmhSNXpWNjJmbFZCaUg0M0s2Wlg2UjVybkI1cG1IUlRLSkJxSUQ5MzEyTnFSSHJZZlh1cnBNVVhGUGZtbHQ4QXNxX056X1FlaFdteFdGY1I0TFFVb2pYazM1MF9QczJIWkgyOFplclFjUG4xRUgtb2VHd0twYXZuZVRvbTVqa29zXy1JQTBnNzdPaXFnZ9IBpwJBVV95cUxPY1JsZDNUV2lpdEVxUmhCT2EtMmFGdGRqQTQwcURPSjY4NEw4Nk9HVEl6bkhJdGVWQVAwS0llMlZVcUZSNHhHVkFxUUV4QmcxT2laYU5LdVhEbk92VktVU3NsN29Cakt5OW9CZGlHWWRzR0xYUGo1aXJIbzNGaHRsVDRibVdaTkVnT2plYlFiNXBsUDhfblpzd21Rd3RWQzdiTHpRbkNlY0RTX01GRDNKQkl0WDBZdWNUTTNyd2g3a3ZUNXBOWWNkTnROT01CU3VhV1lFN0czb2h0dVR6SEIxQ2hJWlp6MFhnUnowNldGTXZ4T2JDNVcxQV84NzNESWFmVG9STG5OS0NrclJoNWc3bi1hQkliTWtlMnp0QkFJUml0cll1Xzgw?oc=5
 
-- What India Said On Trump's Proposed Tariff Amid Talks On Trade Pact - NDTV
-  What India Said On Trump's Proposed Tariff
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOVE5vZW8xdllxdGxEam1rSFdQdXQyei1oUDRDeGNQZk1XQTBDalRORmpFTzdETm5HQWNvSkQzelBhUzZpSTkteUVpWHJQM2I1aW5NTG9FRDVjaGU0amhmb2ZXaDNiSnNUT3U5QkwtYUJoZEJFUmY0ZS1oTDlFMnBQOVBrcmppVU5uaHZ1TmdZUkdOb1FONldOdmFwemxOeEN2VFYxWlVQdG8ydDdFeVRPeXEzd0gzNUswbWdJRlBRME9MenhfelHSAc4BQVVfeXFMTm5HZFBoeGhwOFdTY2MzZHFoVWNPelRod1p6Tkd6TnotVE44S1JuREoySC1WaWVFY2dqdm1mYVFGeVdfbXJoempIV3U1RVVLMXB4cm51N0kyU2VYZlRObk9IX01nbWpHSG1HSFluWGFOYTdPUFA1NElPNHdPSnlZUXJlRVlrQS1GUVd4eTZlVzJzVkF3NGZoeTJlVF80b3lIMUVZdzUyOHhtQVRtU253MFhlX3Y0aFR2TkZOb0JmYmx0bEJtMnZub1NlSm43dkE?oc=5
-
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
-
-- Why TMC revolt is about Abhishek Banerjee, not Mamata - The Times of India
-  The Times of India reported that Mamata's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTUybWtSbFNHRnhTamJIUWtDd0FkdTA2Qkp2cnhKUkdzLXUzWDlKX2VLWFM2dVZHYjhJTGNjaHo4MmxEb24wU01tUkJFZ2FVUEFBamJXbkdiUGxBQ0h2ZF9HclJ6dFJ4NkVFRTlrMnVIemZQdFVCdVYtQVhKZVdmTTdqeUsyN3pZXzd3Q2Z4d1Z1LWR4aVgyTk0ydDM5RGFFNzhIakxGMWtpVTg0Z1pSLXVfdmNEQ0EzU3ljWktrTHFiR3FmeTdoRktQNlZSbjBYS2Y3TzczZE_SAd4BQVVfeXFMTldSTEt3ZFZETlJmVmFpNVNIWWQyWnB1Q0RzeUVxTXVJSmdtajRUMlh6SGlCelExanh6VkIydm5SM1QtRDJKSHBESVZtZVhwVDJBOFdQdUczS1FjYnhpY1FlUXRqQ3JsdS0wOG5sMWVZNXJQM2lXU2d6YjNUV01PRkhZWmoyaDZDNHpXWTJUanhBNTkzWGVXMHRDclRFdi1IUUVOREQ1RkVJQ0hmTUtSUm9keGNGQW8wRFNzM05FVTZmR193QV90WFZGV1JnSTFzQVVCXy1ySkU4dWdTLThn?oc=5
-
 - US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
   US Trade Team In Delhi, Trump Plans New Tariffs On
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+
+- U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S. - The Hindu
+  U.S. proposes 12.5% tariff on India and other countries.
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVFlvQjlsWks5S0VmT3FpcW5YajhjWGJxVlh4cU1ubndUOTZPU2tDUUtzaEVSUW9UZmJ5bEo4MDVfR1VRdXNlZERCQURzUVFDaXEySkljTUJWdlczWFAyN05kWHRfRlZEc1B3dDNRY1lsV25ablVpaFBkMThXZnBKZWtGaXQ4eEYtS29HOE9tZEFUZzcxWFB0N2RSZm5fVGJDcHEwNGVDVFE4eEhCTUQwVlJ3Z3BEYVVhQU4tZzZKS3BtS1lYdWtJZjYyTXpwX3N0NEEzajRwZVVGTlNSczNfclR2M0dTcWRBclRaeXE1T2RNdHMtZEFB0gH-AUFVX3lxTE9pYnVwOTA4Vmxndy1mbTFzM2Zya1l5cmI3dS1QaW81Mm9mVzZYN1l1WG5peFUtbmQtVzUwbk1WUElZNVMweW1HNXJfQlBuWGtfOEtZZU1qNTlIdk1hcjhmUlgtSHIzbmRlSTJwY25vaTI3T0dBdTRLUXRQYlVDb0wwc2hTNk1vSGRwTlhWekhSVlRHRm5BNU1Land5SmVSaDZJVDhKZlpYLW5KcnVkdGctaVJkM2VfUlo0MDVuZ3FtZWFWN3NReEFic2JUNTRiYWdrMzNrMF93ZC1HUnBKM3ppUUhVSDR6N0VRUERyWE5BaHJ5bVl3WlFMa19BUFl3?oc=5
+
+- Exclusive: India set for $2-billion drone order in biggest buy, industry body says - Reuters
+  India set for $2-billion drone order in biggest
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5
+
+- India's drone doctrine takes flight with planned $2 billion indigenous procurement - The Times of India
+  India's drone doctrine takes flight with planned $2 billion indigenous
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdXJMS0FDdVl2enYyM2wwN25qTmFaWHMtZ013NDFQYXI4V256WHRZY1dBLXgzMUJqOXdWOW1fb0w5elk2NmhQMWNkQUtKZDVGanRGR2RwQ2RQVVgyRnRLODU5Zkg1TFpUa3lDWWhrcWJhSkJ1UEU3ZG53cE1TUVdzbDdVU0xiVEZJOEt6bUt4OF9wT3FZdzFDOFlHU2hLZXlDY3N1VUw5d2hvRDJ2aVJDWDEydmt4UHcyc2NtcldkMFRKM1NhcWo5eHFIcXBGX1pFQzlvRWE0MXZZUUFWS18zdFlYMExiWXdXQ3kw0gHwAUFVX3lxTE4xQTMxZXVyR3JDM21DV1BmTlM5ZjRMSHYyWThjUmNXdEducXhYaUFlejZvQkhjOUlTNXlGaThIMzc5MENMQjQxbFdYdFVvOWEyQXJfVHNfbjM2YzNqR2JvT2hrUzRxd29Gd0RFSWNGNUVuV3hDMXprbG1IdWZWVmZLRTltRE90SU56QnVuY2RyWmxwMmxHRU1sVEJnTjhpSWZjUXg0MUxnOEhRdUt3MEhfaGQ0XzA1T1M4bjY3ZW9rWktXZGJ6dlowakM2LWFIWEwzSzBya000VEpVZ0ljeEtxbWE1bEhDWGpabDU5S1AydQ?oc=5
 
 - More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additiona - The Times of India
   The Times of India reported that the US is considering imposing more tariffs on India.
   🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQcUpsS2JvNWQzX1c0R0ZYRG9vTXNkeG1HMnljN19aT280b2lYNHhsWnBseTd6cFd6TjZVb09EVWNtQ0dpbzYwdlhPUlNTZkNjRXVIMHpZR2FaR0lPcjctVmFTcy1Ya0MtMmYzd0JRQzJlbjM3WVozUDRxeHp3VWFVMm5VdEJSM3hyekxaTlNPSWxnZ1NvcmhSNXpWNjJmbFZCaUg0M0s2Wlg2UjVybkI1cG1IUlRLSkJxSUQ5MzEyTnFSSHJZZlh1cnBNVVhGUGZtbHQ4QXNxX056X1FlaFdteFdGY1I0TFFVb2pYazM1MF9QczJIWkgyOFplclFjUG4xRUgtb2VHd0twYXZuZVRvbTVqa29zXy1JQTBnNzdPaXFnZ9IBpwJBVV95cUxPY1JsZDNUV2lpdEVxUmhCT2EtMmFGdGRqQTQwcURPSjY4NEw4Nk9HVEl6bkhJdGVWQVAwS0llMlZVcUZSNHhHVkFxUUV4QmcxT2laYU5LdVhEbk92VktVU3NsN29Cakt5OW9CZGlHWWRzR0xYUGo1aXJIbzNGaHRsVDRibVdaTkVnT2plYlFiNXBsUDhfblpzd21Rd3RWQzdiTHpRbkNlY0RTX01GRDNKQkl0WDBZdWNUTTNyd2g3a3ZUNXBOWWNkTnROT01CU3VhV1lFN0czb2h0dVR6SEIxQ2hJWlp6MFhnUnowNldGTXZ4T2JDNVcxQV84NzNESWFmVG9STG5OS0NrclJoNWc3bi1hQkliTWtlMnp0QkFJUml0cll1Xzgw?oc=5
 
-- What India Said On Trump's Proposed Tariff Amid Talks On Trade Pact - NDTV
-  What India Said On Trump's Proposed Tariff
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOVE5vZW8xdllxdGxEam1rSFdQdXQyei1oUDRDeGNQZk1XQTBDalRORmpFTzdETm5HQWNvSkQzelBhUzZpSTkteUVpWHJQM2I1aW5NTG9FRDVjaGU0amhmb2ZXaDNiSnNUT3U5QkwtYUJoZEJFUmY0ZS1oTDlFMnBQOVBrcmppVU5uaHZ1TmdZUkdOb1FONldOdmFwemxOeEN2VFYxWlVQdG8ydDdFeVRPeXEzd0gzNUswbWdJRlBRME9MenhfelHSAc4BQVVfeXFMTm5HZFBoeGhwOFdTY2MzZHFoVWNPelRod1p6Tkd6TnotVE44S1JuREoySC1WaWVFY2dqdm1mYVFGeVdfbXJoempIV3U1RVVLMXB4cm51N0kyU2VYZlRObk9IX01nbWpHSG1HSFluWGFOYTdPUFA1NElPNHdPSnlZUXJlRVlrQS1GUVd4eTZlVzJzVkF3NGZoeTJlVF80b3lIMUVZdzUyOHhtQVRtU253MFhlX3Y0aFR2TkZOb0JmYmx0bEJtMnZub1NlSm43dkE?oc=5
-
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
-
-- Why TMC revolt is about Abhishek Banerjee, not Mamata - The Times of India
-  The Times of India reported that Mamata's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTUybWtSbFNHRnhTamJIUWtDd0FkdTA2Qkp2cnhKUkdzLXUzWDlKX2VLWFM2dVZHYjhJTGNjaHo4MmxEb24wU01tUkJFZ2FVUEFBamJXbkdiUGxBQ0h2ZF9HclJ6dFJ4NkVFRTlrMnVIemZQdFVCdVYtQVhKZVdmTTdqeUsyN3pZXzd3Q2Z4d1Z1LWR4aVgyTk0ydDM5RGFFNzhIakxGMWtpVTg0Z1pSLXVfdmNEQ0EzU3ljWktrTHFiR3FmeTdoRktQNlZSbjBYS2Y3TzczZE_SAd4BQVVfeXFMTldSTEt3ZFZETlJmVmFpNVNIWWQyWnB1Q0RzeUVxTXVJSmdtajRUMlh6SGlCelExanh6VkIydm5SM1QtRDJKSHBESVZtZVhwVDJBOFdQdUczS1FjYnhpY1FlUXRqQ3JsdS0wOG5sMWVZNXJQM2lXU2d6YjNUV01PRkhZWmoyaDZDNHpXWTJUanhBNTkzWGVXMHRDclRFdi1IUUVOREQ1RkVJQ0hmTUtSUm9keGNGQW8wRFNzM05FVTZmR193QV90WFZGV1JnSTFzQVVCXy1ySkU4dWdTLThn?oc=5
-
 - US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
   US Trade Team In Delhi, Trump Plans New Tariffs On
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+
+- U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S. - The Hindu
+  U.S. proposes 12.5% tariff on India and other countries.
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVFlvQjlsWks5S0VmT3FpcW5YajhjWGJxVlh4cU1ubndUOTZPU2tDUUtzaEVSUW9UZmJ5bEo4MDVfR1VRdXNlZERCQURzUVFDaXEySkljTUJWdlczWFAyN05kWHRfRlZEc1B3dDNRY1lsV25ablVpaFBkMThXZnBKZWtGaXQ4eEYtS29HOE9tZEFUZzcxWFB0N2RSZm5fVGJDcHEwNGVDVFE4eEhCTUQwVlJ3Z3BEYVVhQU4tZzZKS3BtS1lYdWtJZjYyTXpwX3N0NEEzajRwZVVGTlNSczNfclR2M0dTcWRBclRaeXE1T2RNdHMtZEFB0gH-AUFVX3lxTE9pYnVwOTA4Vmxndy1mbTFzM2Zya1l5cmI3dS1QaW81Mm9mVzZYN1l1WG5peFUtbmQtVzUwbk1WUElZNVMweW1HNXJfQlBuWGtfOEtZZU1qNTlIdk1hcjhmUlgtSHIzbmRlSTJwY25vaTI3T0dBdTRLUXRQYlVDb0wwc2hTNk1vSGRwTlhWekhSVlRHRm5BNU1Land5SmVSaDZJVDhKZlpYLW5KcnVkdGctaVJkM2VfUlo0MDVuZ3FtZWFWN3NReEFic2JUNTRiYWdrMzNrMF93ZC1HUnBKM3ppUUhVSDR6N0VRUERyWE5BaHJ5bVl3WlFMa19BUFl3?oc=5
+
+- Exclusive: India set for $2-billion drone order in biggest buy, industry body says - Reuters
+  India set for $2-billion drone order in biggest
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5
+
+- India's drone doctrine takes flight with planned $2 billion indigenous procurement - The Times of India
+  India's drone doctrine takes flight with planned $2 billion indigenous
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdXJMS0FDdVl2enYyM2wwN25qTmFaWHMtZ013NDFQYXI4V256WHRZY1dBLXgzMUJqOXdWOW1fb0w5elk2NmhQMWNkQUtKZDVGanRGR2RwQ2RQVVgyRnRLODU5Zkg1TFpUa3lDWWhrcWJhSkJ1UEU3ZG53cE1TUVdzbDdVU0xiVEZJOEt6bUt4OF9wT3FZdzFDOFlHU2hLZXlDY3N1VUw5d2hvRDJ2aVJDWDEydmt4UHcyc2NtcldkMFRKM1NhcWo5eHFIcXBGX1pFQzlvRWE0MXZZUUFWS18zdFlYMExiWXdXQ3kw0gHwAUFVX3lxTE4xQTMxZXVyR3JDM21DV1BmTlM5ZjRMSHYyWThjUmNXdEducXhYaUFlejZvQkhjOUlTNXlGaThIMzc5MENMQjQxbFdYdFVvOWEyQXJfVHNfbjM2YzNqR2JvT2hrUzRxd29Gd0RFSWNGNUVuV3hDMXprbG1IdWZWVmZLRTltRE90SU56QnVuY2RyWmxwMmxHRU1sVEJnTjhpSWZjUXg0MUxnOEhRdUt3MEhfaGQ0XzA1T1M4bjY3ZW9rWktXZGJ6dlowakM2LWFIWEwzSzBya000VEpVZ0ljeEtxbWE1bEhDWGpabDU5S1AydQ?oc=5
 
 - More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additiona - The Times of India
   The Times of India reported that the US is considering imposing more tariffs on India.
   🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQcUpsS2JvNWQzX1c0R0ZYRG9vTXNkeG1HMnljN19aT280b2lYNHhsWnBseTd6cFd6TjZVb09EVWNtQ0dpbzYwdlhPUlNTZkNjRXVIMHpZR2FaR0lPcjctVmFTcy1Ya0MtMmYzd0JRQzJlbjM3WVozUDRxeHp3VWFVMm5VdEJSM3hyekxaTlNPSWxnZ1NvcmhSNXpWNjJmbFZCaUg0M0s2Wlg2UjVybkI1cG1IUlRLSkJxSUQ5MzEyTnFSSHJZZlh1cnBNVVhGUGZtbHQ4QXNxX056X1FlaFdteFdGY1I0TFFVb2pYazM1MF9QczJIWkgyOFplclFjUG4xRUgtb2VHd0twYXZuZVRvbTVqa29zXy1JQTBnNzdPaXFnZ9IBpwJBVV95cUxPY1JsZDNUV2lpdEVxUmhCT2EtMmFGdGRqQTQwcURPSjY4NEw4Nk9HVEl6bkhJdGVWQVAwS0llMlZVcUZSNHhHVkFxUUV4QmcxT2laYU5LdVhEbk92VktVU3NsN29Cakt5OW9CZGlHWWRzR0xYUGo1aXJIbzNGaHRsVDRibVdaTkVnT2plYlFiNXBsUDhfblpzd21Rd3RWQzdiTHpRbkNlY0RTX01GRDNKQkl0WDBZdWNUTTNyd2g3a3ZUNXBOWWNkTnROT01CU3VhV1lFN0czb2h0dVR6SEIxQ2hJWlp6MFhnUnowNldGTXZ4T2JDNVcxQV84NzNESWFmVG9STG5OS0NrclJoNWc3bi1hQkliTWtlMnp0QkFJUml0cll1Xzgw?oc=5
 
-- What India Said On Trump's Proposed Tariff Amid Talks On Trade Pact - NDTV
-  What India Said On Trump's Proposed Tariff
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOVE5vZW8xdllxdGxEam1rSFdQdXQyei1oUDRDeGNQZk1XQTBDalRORmpFTzdETm5HQWNvSkQzelBhUzZpSTkteUVpWHJQM2I1aW5NTG9FRDVjaGU0amhmb2ZXaDNiSnNUT3U5QkwtYUJoZEJFUmY0ZS1oTDlFMnBQOVBrcmppVU5uaHZ1TmdZUkdOb1FONldOdmFwemxOeEN2VFYxWlVQdG8ydDdFeVRPeXEzd0gzNUswbWdJRlBRME9MenhfelHSAc4BQVVfeXFMTm5HZFBoeGhwOFdTY2MzZHFoVWNPelRod1p6Tkd6TnotVE44S1JuREoySC1WaWVFY2dqdm1mYVFGeVdfbXJoempIV3U1RVVLMXB4cm51N0kyU2VYZlRObk9IX01nbWpHSG1HSFluWGFOYTdPUFA1NElPNHdPSnlZUXJlRVlrQS1GUVd4eTZlVzJzVkF3NGZoeTJlVF80b3lIMUVZdzUyOHhtQVRtU253MFhlX3Y0aFR2TkZOb0JmYmx0bEJtMnZub1NlSm43dkE?oc=5
+- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
+  US Trade Team In Delhi, Trump Plans New Tariffs On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
 
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S. - The Hindu
+  U.S. proposes 12.5% tariff on India and other countries.
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVFlvQjlsWks5S0VmT3FpcW5YajhjWGJxVlh4cU1ubndUOTZPU2tDUUtzaEVSUW9UZmJ5bEo4MDVfR1VRdXNlZERCQURzUVFDaXEySkljTUJWdlczWFAyN05kWHRfRlZEc1B3dDNRY1lsV25ablVpaFBkMThXZnBKZWtGaXQ4eEYtS29HOE9tZEFUZzcxWFB0N2RSZm5fVGJDcHEwNGVDVFE4eEhCTUQwVlJ3Z3BEYVVhQU4tZzZKS3BtS1lYdWtJZjYyTXpwX3N0NEEzajRwZVVGTlNSczNfclR2M0dTcWRBclRaeXE1T2RNdHMtZEFB0gH-AUFVX3lxTE9pYnVwOTA4Vmxndy1mbTFzM2Zya1l5cmI3dS1QaW81Mm9mVzZYN1l1WG5peFUtbmQtVzUwbk1WUElZNVMweW1HNXJfQlBuWGtfOEtZZU1qNTlIdk1hcjhmUlgtSHIzbmRlSTJwY25vaTI3T0dBdTRLUXRQYlVDb0wwc2hTNk1vSGRwTlhWekhSVlRHRm5BNU1Land5SmVSaDZJVDhKZlpYLW5KcnVkdGctaVJkM2VfUlo0MDVuZ3FtZWFWN3NReEFic2JUNTRiYWdrMzNrMF93ZC1HUnBKM3ppUUhVSDR6N0VRUERyWE5BaHJ5bVl3WlFMa19BUFl3?oc=5
 
-- Why TMC revolt is about Abhishek Banerjee, not Mamata - The Times of India
-  The Times of India reported that Mamata's
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTUybWtSbFNHRnhTamJIUWtDd0FkdTA2Qkp2cnhKUkdzLXUzWDlKX2VLWFM2dVZHYjhJTGNjaHo4MmxEb24wU01tUkJFZ2FVUEFBamJXbkdiUGxBQ0h2ZF9HclJ6dFJ4NkVFRTlrMnVIemZQdFVCdVYtQVhKZVdmTTdqeUsyN3pZXzd3Q2Z4d1Z1LWR4aVgyTk0ydDM5RGFFNzhIakxGMWtpVTg0Z1pSLXVfdmNEQ0EzU3ljWktrTHFiR3FmeTdoRktQNlZSbjBYS2Y3TzczZE_SAd4BQVVfeXFMTldSTEt3ZFZETlJmVmFpNVNIWWQyWnB1Q0RzeUVxTXVJSmdtajRUMlh6SGlCelExanh6VkIydm5SM1QtRDJKSHBESVZtZVhwVDJBOFdQdUczS1FjYnhpY1FlUXRqQ3JsdS0wOG5sMWVZNXJQM2lXU2d6YjNUV01PRkhZWmoyaDZDNHpXWTJUanhBNTkzWGVXMHRDclRFdi1IUUVOREQ1RkVJQ0hmTUtSUm9keGNGQW8wRFNzM05FVTZmR193QV90WFZGV1JnSTFzQVVCXy1ySkU4dWdTLThn?oc=5
+- Exclusive: India set for $2-billion drone order in biggest buy, industry body says - Reuters
+  India set for $2-billion drone order in biggest
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India's drone doctrine takes flight with planned $2 billion indigenous procurement - The Times of India
+  India's drone doctrine takes flight with planned $2 billion indigenous
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdXJMS0FDdVl2enYyM2wwN25qTmFaWHMtZ013NDFQYXI4V256WHRZY1dBLXgzMUJqOXdWOW1fb0w5elk2NmhQMWNkQUtKZDVGanRGR2RwQ2RQVVgyRnRLODU5Zkg1TFpUa3lDWWhrcWJhSkJ1UEU3ZG53cE1TUVdzbDdVU0xiVEZJOEt6bUt4OF9wT3FZdzFDOFlHU2hLZXlDY3N1VUw5d2hvRDJ2aVJDWDEydmt4UHcyc2NtcldkMFRKM1NhcWo5eHFIcXBGX1pFQzlvRWE0MXZZUUFWS18zdFlYMExiWXdXQ3kw0gHwAUFVX3lxTE4xQTMxZXVyR3JDM21DV1BmTlM5ZjRMSHYyWThjUmNXdEducXhYaUFlejZvQkhjOUlTNXlGaThIMzc5MENMQjQxbFdYdFVvOWEyQXJfVHNfbjM2YzNqR2JvT2hrUzRxd29Gd0RFSWNGNUVuV3hDMXprbG1IdWZWVmZLRTltRE90SU56QnVuY2RyWmxwMmxHRU1sVEJnTjhpSWZjUXg0MUxnOEhRdUt3MEhfaGQ0XzA1T1M4bjY3ZW9rWktXZGJ6dlowakM2LWFIWEwzSzBya000VEpVZ0ljeEtxbWE1bEhDWGpabDU5S1AydQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additiona - The Times of India
+  The Times of India reported that the US is considering imposing more tariffs on India.
+  🔗 https://news.google.com/rss/articles/CBMiogJBVV95cUxQcUpsS2JvNWQzX1c0R0ZYRG9vTXNkeG1HMnljN19aT280b2lYNHhsWnBseTd6cFd6TjZVb09EVWNtQ0dpbzYwdlhPUlNTZkNjRXVIMHpZR2FaR0lPcjctVmFTcy1Ya0MtMmYzd0JRQzJlbjM3WVozUDRxeHp3VWFVMm5VdEJSM3hyekxaTlNPSWxnZ1NvcmhSNXpWNjJmbFZCaUg0M0s2Wlg2UjVybkI1cG1IUlRLSkJxSUQ5MzEyTnFSSHJZZlh1cnBNVVhGUGZtbHQ4QXNxX056X1FlaFdteFdGY1I0TFFVb2pYazM1MF9QczJIWkgyOFplclFjUG4xRUgtb2VHd0twYXZuZVRvbTVqa29zXy1JQTBnNzdPaXFnZ9IBpwJBVV95cUxPY1JsZDNUV2lpdEVxUmhCT2EtMmFGdGRqQTQwcURPSjY4NEw4Nk9HVEl6bkhJdGVWQVAwS0llMlZVcUZSNHhHVkFxUUV4QmcxT2laYU5LdVhEbk92VktVU3NsN29Cakt5OW9CZGlHWWRzR0xYUGo1aXJIbzNGaHRsVDRibVdaTkVnT2plYlFiNXBsUDhfblpzd21Rd3RWQzdiTHpRbkNlY0RTX01GRDNKQkl0WDBZdWNUTTNyd2g3a3ZUNXBOWWNkTnROT01CU3VhV1lFN0czb2h0dVR6SEIxQ2hJWlp6MFhnUnowNldGTXZ4T2JDNVcxQV84NzNESWFmVG9STG5OS0NrclJoNWc3bi1hQkliTWtlMnp0QkFJUml0cll1Xzgw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
+  US Trade Team In Delhi, Trump Plans New Tariffs On
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S. - The Hindu
+  U.S. proposes 12.5% tariff on India and other countries.
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVFlvQjlsWks5S0VmT3FpcW5YajhjWGJxVlh4cU1ubndUOTZPU2tDUUtzaEVSUW9UZmJ5bEo4MDVfR1VRdXNlZERCQURzUVFDaXEySkljTUJWdlczWFAyN05kWHRfRlZEc1B3dDNRY1lsV25ablVpaFBkMThXZnBKZWtGaXQ4eEYtS29HOE9tZEFUZzcxWFB0N2RSZm5fVGJDcHEwNGVDVFE4eEhCTUQwVlJ3Z3BEYVVhQU4tZzZKS3BtS1lYdWtJZjYyTXpwX3N0NEEzajRwZVVGTlNSczNfclR2M0dTcWRBclRaeXE1T2RNdHMtZEFB0gH-AUFVX3lxTE9pYnVwOTA4Vmxndy1mbTFzM2Zya1l5cmI3dS1QaW81Mm9mVzZYN1l1WG5peFUtbmQtVzUwbk1WUElZNVMweW1HNXJfQlBuWGtfOEtZZU1qNTlIdk1hcjhmUlgtSHIzbmRlSTJwY25vaTI3T0dBdTRLUXRQYlVDb0wwc2hTNk1vSGRwTlhWekhSVlRHRm5BNU1Land5SmVSaDZJVDhKZlpYLW5KcnVkdGctaVJkM2VfUlo0MDVuZ3FtZWFWN3NReEFic2JUNTRiYWdrMzNrMF93ZC1HUnBKM3ppUUhVSDR6N0VRUERyWE5BaHJ5bVl3WlFMa19BUFl3?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Exclusive: India set for $2-billion drone order in biggest buy, industry body says - Reuters
+  India set for $2-billion drone order in biggest
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- India's drone doctrine takes flight with planned $2 billion indigenous procurement - The Times of India
+  India's drone doctrine takes flight with planned $2 billion indigenous
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdXJMS0FDdVl2enYyM2wwN25qTmFaWHMtZ013NDFQYXI4V256WHRZY1dBLXgzMUJqOXdWOW1fb0w5elk2NmhQMWNkQUtKZDVGanRGR2RwQ2RQVVgyRnRLODU5Zkg1TFpUa3lDWWhrcWJhSkJ1UEU3ZG53cE1TUVdzbDdVU0xiVEZJOEt6bUt4OF9wT3FZdzFDOFlHU2hLZXlDY3N1VUw5d2hvRDJ2aVJDWDEydmt4UHcyc2NtcldkMFRKM1NhcWo5eHFIcXBGX1pFQzlvRWE0MXZZUUFWS18zdFlYMExiWXdXQ3kw0gHwAUFVX3lxTE4xQTMxZXVyR3JDM21DV1BmTlM5ZjRMSHYyWThjUmNXdEducXhYaUFlejZvQkhjOUlTNXlGaThIMzc5MENMQjQxbFdYdFVvOWEyQXJfVHNfbjM2YzNqR2JvT2hrUzRxd29Gd0RFSWNGNUVuV3hDMXprbG1IdWZWVmZLRTltRE90SU56QnVuY2RyWmxwMmxHRU1sVEJnTjhpSWZjUXg0MUxnOEhRdUt3MEhfaGQ0XzA1T1M4bjY3ZW9rWktXZGJ6dlowakM2LWFIWEwzSzBya000VEpVZ0ljeEtxbWE1bEhDWGpabDU5S1AydQ?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- World Cup 2026: Fifa adds new offside technology to help VAR - BBC
+  World Cup 2026: Fifa adds new off
+  🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5penZpZnpIUFVXWnZxSS12dVU3MmNsQVFSOEJnUEZ4WG8tcE40b051QU5XNXVjMTVuOEVUV2R6S0xxYW1oNkFpdGt2eVllZjBMaEhwMFM3UFNOalZabmZsYzNidXVVaVU?oc=5
+
+- As layoffs across technology industry cross over a lakh, position for this engineering job has gone up 70 - The Times of India
+  As layoffs across technology industry cross over a lakh, position for this engineering job has gone up 70
+  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxOZzRsblRBNnFPVkFGNWlUQWg5ZTFNdkNpUVBfY1h3amowMHhGal8tOXBlWGYzaG00QXFVZERUajNMeEthWlU0RXM4ZC0zazVyeHJXWW5tT0tEV1ZiS3FDak1sUkJNb2hoLXlObG5oX1dwYXpyS1hKUU9oeXNxUDBiRUs5dExNQUZhWFhDOXFpV0dBZDcxbWdNdnlwdkFpNTBiR3hRZ3RnLWxSZkpPdXA3TkoxUGg5U0lsSmtaRnVqTzJEUlRUNGt3VHNYSThzSG1UVGxPbG9hZGRVbTFlRnUzbk84aXMwUVp2U1lXS0g0UWdtMGNUV2s4SFp1SFN1bzc5dnBjMVdBb1JJZDdJNFl6RU1sZ1hFaUnSAZwCQVVfeXFMUGJSN2QzUU1KSUhudUUzZG1QTFJFeU1RbUZsREx4Q3k2c2lNZWpiQjdiNlM3YWs0a0RzSVlRMW8tckxUSFIySW1XaTZ4cEFxY000RXdNeklhajV5czdFSVMzLUhVOV9fMjVwLTk1NTdQMkctVjY3M2FidWZRQXRrTzFQcnRCZVkxXzRraHpuazhfd2N4bUZuTS1xanBqYTdhR1o4SjhzSWw0NENyVG1rQWRaa2NydGlDUm9NaU00NDQyUy0xZ29ZSlJwZDJLSGJJdjFNT29feHRaUnNpQU9paUlXMTlqdUlmLWxKTE5ibFZDeXItVXpRTnAzWF91RFhic2dvRHdmMHVaOUd5dFJweC1nTS1WWXJBSVI1VS0?oc=5
+
+- China has approved the world’s first invasive brain-computer chip—here’s what’s next - MIT Technology Review
+  China has approved the world’s first invasive brain
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2FuRkthYlMxeHROLVZfWGotRUNla3B2OWlMbzJyR0thQmNfNjd0SjF2NVZWRGFmNG0zZHF1NzFTYmtyVW9PLW9EbW13ZUp2bm04YzFVLVZOR1lZSlowUERrN0RGSU5SMnlMS1JnTXo4eGcya2FfTzBLWjd2WWhQbVdWeVN1VWk10gGOAUFVX3lxTE1FSUpJX2EyRElaMk5NZW9hZEhRSzdlS1U1eUM4TDFuZnh6YXBFTUlfQUx1aTNPV0dTaGo1TzhkNTFPVzlKOXQtSW1Lc3ZUS2tiWGFCMFFFQUlmYjRpZTBJVTNLTURYb1VFcllpYjBSbjNaU09zdzZmWVJMUEd3NEZINnkyb1UzQW1yYjNoS0E?oc=5
+
+- Nvidia vs. Salesforce vs. Marvell Technology: Which Is the Best Stock to Buy? - Morningstar
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXBmV3dKMGJCa1JkQ21ZcTJzaERRYnVpQ3pEOUUwZmlka2NGcHY4Ri1Mcnk4b2Yzd3dlU2hOTV9SVm5Ncm80aGFaYnc0M09pbXI4MlNVWXdrR0NOdjc5dTlBY3hGUElTOWd2UURPQXRfZHdHSHg2N3hUbWdNMWl4M0pvMjVGOEZRUWM2cmxPT0pIRTN2VnpUSGZIeGxoQzE3WDA4?oc=5
+
+- CATL sets sights on lithium-air technology with theoretical gasoline-level 12,000 Wh/kg energy density - CarNewsChina.com
+  CATL sets sights on lithium-air technology with
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMkp3SE9iV2Y1SkFrVzkyeVRuOGN2UVdlaTR5d1pNM0tCOVdaN0p5ZnNqaXhLcUM3X0M2WEdzQ240Q3Q2TEgyQXlWdVcxallyQ3JUZ3F1LXptTGpHd3otS0V1Yy1wcDA3ckRiWXVheDlHMWkwSXlDRy1ybXVJMWF0MWFuUU92RDdxek4yTGlEdHA5ZHkxVTJZY0VtSDFaREdraU1mLXdvczkzblFCdVZCWXRXYVhUbWpDT29LZzVZR2d0MDFic1p1RVA2VHF4V3RvY2E2Zg?oc=5
 
 
-_Last updated: 2026-06-03 10:53:08 UTC_
+_Last updated: 2026-06-03 16:31:30 UTC_
