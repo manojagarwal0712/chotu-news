@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Check all pantry cars, take punitive action against lapses’: Railway Board launches 15-day fire safety drive in trains
+- 2 workers killed as crane collapses at Jewar airport flyover construction site
   
-  🔗 https://indianexpress.com/article/india/indian-railways-fire-safety-drive-pantry-car-inspection-10724337/
+  🔗 https://indianexpress.com/article/india/jewar-airport-flyover-faridabad-crane-collapse-accident-workers-killed-10724522/
 
-- Modi serving interest of America and wealthy, says Rahul Gandhi
+- India not Vishwaguru yet, still inadequately prepared: RSS chief Mohan Bhagwat
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-modi-government-focused-on-serving-interest-of-america-and-wealthy-10724224/
+  🔗 https://indianexpress.com/article/india/kumar-birla-mohan-bhagwat-india-economic-challenges-10724530/
 
-- Khan Sir coaching centre security guards taken into custody after ‘video shows firing’ during attack in Patna
+- Kuki body opposes Manipur voter roll revision, flags exclusion of 59,000 displaced people
   
-  🔗 https://indianexpress.com/article/india/khan-sir-global-studies-coaching-attack-guards-detained-firing-raushan-anand-arrest-10724160/
+  🔗 https://indianexpress.com/article/india/manipur-kuki-inpi-electoral-roll-revision-internally-displaced-voters-eci-10724501/
 
-- Old hands,1 turncoat: BJP names candidates for Rajya Sabha polls
+- Key cancer drug shortage in India for 2 weeks, doctors raise alarm
   
-  🔗 https://indianexpress.com/article/india/bjp-rajya-sabha-candidate-list-debashish-samantaray-satish-poonia-alka-gurjar-10724078/
+  🔗 https://indianexpress.com/article/india/cisplatin-carboplatin-chemotherapy-cancer-drug-shortage-india-dpco-hormuz-crisis-10724448/
 
-- Two-fold raise in financial ceiling for field commanders: Rajnath Singh releases revised DFPDS
+- Agri Ministry’s platform for farmers, Mahakumbh 2025 among e-governance award winners
   
-  🔗 https://indianexpress.com/article/india/two-fold-raise-in-financial-ceiling-for-field-commanders-rajnath-singh-releases-revised-dfpds-10724096/
+  🔗 https://indianexpress.com/article/india/national-e-governance-awards-2026-winners-agri-stack-e-jagriti-10724442/
 
 - Rare Sahara meteorite may reveal a lost planet from early solar system
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/why-smartphones-wearables-eu-replaceable-batteries-2027-10724057/
 
+- AI Isn’t Replacing Credit Hedge Fund Traders Yet, Barclays Says
+  Hedge funds and asset managers are increasingly using artificial intelligence when investing in global credit markets. But the technology isn't replacing human traders — at least for
+  🔗 https://www.livemint.com/companies/ai-isn-t-replacing-credit-hedge-fund-traders-yet-barclays-says-11780598352212.html
+
+- Titan bets on premiumisation, global expansion to double business by FY30
+  Titan reported a consolidated revenue of  ₹76,078 crore for FY26, up 32.7% from FY25. The country's largest jewellery retailer is targeting a
+  🔗 https://www.livemint.com/companies/news/titan-maps-plan-to-double-business-by-fy30-on-premiumisation-global-expansion-11780582742713.html
+
 - Jackson Lab's licence scrapped as probe finds oxytocin jab link to pregnant women's deaths
   Punjab's drug regulator has scrapped Jackson Laboratories' licence. A probe linked its oxytocin injection to the deaths of five pregnant women in Rajasthan.
   🔗 https://www.livemint.com/companies/jackson-laboratories-licence-cancelled-pregnant-women-death-oxytocin-pharma-11780568790301.html
@@ -52,33 +60,25 @@
   Go Zero ice cream registered 350% growth in May, founder Kiran Shah revealed. This shows that health-conscious consumers are seeking alternatives to
   🔗 https://www.livemint.com/companies/go-zero-ice-cream-registers-350-growth-in-may-founder-kiran-shah-says-still-not-done-with-the-season-11780564533107.html
 
-- Physics Wallah looks to unwind FinZ lending bet days after  ₹120 crore infusion
-  The edtech company is exploring sale, loan-book transfer and licence surrender.
-  🔗 https://www.livemint.com/companies/news/physics-wallah-finz-finance-lending-strategy-exit-120-crore-infusion-11780553007577.html
+- US yields dip after data as oil prices pull back
+  TREASURIES-US yields
+  🔗 https://www.livemint.com/market/us-yields-dip-after-data-as-oil-prices-pull-back-11780601592323.html
 
-- IndiGo pips Air India again on overseas routes as West Asia crisis weighs
-  IndiGo has reclaimed the top spot among Indian carriers on international routes. Analysts expect the airline to retain its lead as it expands its overseas network.
-  🔗 https://www.livemint.com/companies/indigo-air-india-international-routes-west-asia-war-aviation-dgca-11780548641184.html
+- Dollar’s Lockstep Moves With Oil to Last in 2026: Markets Pulse
+  The US dollar will likely maintain its strong link to the price of oil for the rest of the year. The Iran war keeps crude prices elevated, according
+  🔗 https://www.livemint.com/market/dollars-lockstep-moves-with-oil-to-last-in-2026-markets-pulse-11780601465022.html
 
-- Broadcom shares plunge 15% on weak AI outlook, set for biggest one-day crash in over a year
-  Broadcom shares plummeted 15.3% after disappointing fiscal second-quarter results and AI revenue outlook. It was the biggest single-day
-  🔗 https://www.livemint.com/market/broadcom-shares-plunge-15-on-weak-ai-outlook-set-for-biggest-one-day-crash-in-over-a-year-11780579392428.html
+- Oil settles lower on hopes for Iran deal following Israel-Lebanon ceasefire
+  Oil settles lower on hopes for
+  🔗 https://www.livemint.com/market/oil-settles-lower-on-hopes-for-iran-deal-following-israel-lebanon-ceasefire-11780600303607.html
 
-- Wall Street mixed, Broadcom drags tech shares lower
-  The Dow Jones Industrial Average rose 0.59%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-mixed-broadcom-drags-tech-shares-lower-11780580984051.html
+- Ciena Corp shares plunge nearly 15% despite stronger-than-expected earnings
+  Ciena reported revenue of $1.57 billion, marking a 40% increase
+  🔗 https://www.livemint.com/market/stock-market-news/ciena-corp-shares-plunge-nearly-15-despite-stronger-than-expected-earnings-11780594796972.html
 
-- Hexagon Nutrition raises  ₹41.6 crore from anchor investors ahead of IPO
-  Hexagon Nutrition Limited raised  ₹41.66 crore by allotting 92,57,696 equity shares to
-  🔗 https://www.livemint.com/market/stock-market-news/hexagon-nutrition-raises-rs-41-6-crore-from-anchor-investors-ahead-of-ipo-11780581178618.html
-
-- US stock market today: Nasdaq, S&amp;P 500 futures drop up to 1% amid tech sell-off; Brent retreats
-  US stock futures decline as technology rally halts on Broadcom's disappointing outlook, triggering broader sell-off.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-drop-up-to-1-amid-tech-sell-off-brent-retreats-11780573467341.html
-
-- RBI policy June 2026: How will the Indian stock market react to the MPC interest rate outcome?
-  The six-member Monetary Policy Committee (MPC), chaired by RBI Governor Sanjay Malhotra, began its three-
-  🔗 https://www.livemint.com/market/stock-market-news/rbi-policy-june-2026-how-will-the-indian-stock-market-react-to-the-mpc-interest-rate-outcome-11780566193967.html
+- India’s share in global market cap slips to 3% in May 2026, lowest in 50 months: Report
+  The US leads in market share at 47.9%, while India ranks sixth globally with $4.4 trillion market cap. Investor sentiment weakens due to lower exposure to AI opportunities
+  🔗 https://www.livemint.com/market/stock-market-news/indias-share-in-global-market-cap-slips-to-3-in-may-2026-lowest-in-50-months-report-11780593489543.html
 
 - What Indians are watching on Reels in 2026: Instagram reveals top content categories
   A Meta study revealed what Indians are watching on Reels in 2026.
@@ -100,85 +100,125 @@
   Xiaomi 17T has Leica 5X Periscope system, 6500mAh battery, and 3500-
   🔗 https://www.livemint.com/technology/gadgets/xiaomi-17t-with-leica-5x-telephoto-camera-6-500mah-battery-launched-at-rs-59999-11780464912075.html
 
-- S&P 500 falls as Broadcom leads chip rout, but the Dow is 700 points higher in split market: Live updates - CNBC
-  P 500 falls as Broadcom leads chip rout, but Dow is 700 points higher in split
+- Dow jumps 900 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates - CNBC
+  Dow jumps 900 points, Nasdaq lags as investors rotate out of chip
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUxKR095WHZhYlM0cDdQcE9xRHJ6NVA3SjRKTl9QSFdwdC1iUVhwLXMxaGpJYUtYbjFjdDJNRVpuYjM2VHBkQlkwYVozQko5Q1dQZ1dHYW1QeHpyMmhvQTAySmNkX2owYjljRWxTYzZ2SmFaVUtJ0gF8QVVfeXFMT1Z0UllXcC1CSFl4NjFiMnVFY0R2aVdyMFR4Zld2SkxBWDBlckZhUk9SUTB5UUNxUER4Z3R1WWk1UXBxNUNkY0psSGFfQWg0c1pReDdUYmxpZ3ZCOGRuV2czQjhzZF9KdEFWM0lxT3hPZ2xSb2I0RXVtbFNRdQ?oc=5
 
 - Stock Market Today: Dow Gains More Than 500 Points, Nasdaq Dips After Broadcom Earnings — Live Updates - WSJ
   The Dow Jones Industrial Average rose more than 500 points on Tuesday. Broadcom
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3AzeXBUVWJjUTJpNVZFaU5NakpEMHk3RXV4YkpmeUpjRDZ0d1owMzBhbklUa24yLVduQ050RHVlR2M4c0taU0dUNHpKQWR0WFNZVVlSZjFqZzluMmJGUml3cmZZSExHWDBwRGpIQ0dESWtXMFNaaTREZVNEck5vdUY0cHFIcDg?oc=5
 
-- Stock Market Today: Indexes Mixed; Broadcom, Chip Stocks Weigh on Nasdaq But Dow Jumps; Oil Pulls Back as Israel, Lebanon Agree to Ceasefire - Investopedia
-  Stock Market Today: Indexes Mixed; Broadcom, Chip Stocks Weigh on Nasdaq But Dow
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNbm9oam5MMGUxa2ZvWVUyemd6NHF0a3YxMUdQaXpFTUcySV9LRW84VlRqSEpLOXFmYU1iREZOazU3U21NQmR1MVczakJmN3dwc1JCVUR2RmJzNkVKLWE3dExoRVpXbER6YlVtQV8wY0h3VjMxTmprd1VEU3E3VU9jWlFJNTBWSmg1XzNHaHZRQS0?oc=5
+- Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks trade mixed as Dow hits record, oil dips, tec... - The Economic Times
+  The Nasdaq, Dow Jones, S&P 500 and Nasdaq 100 all fell. The S&
+  🔗 https://news.google.com/rss/articles/CBMigwNBVV95cUxQUUdqaElQZzRrcVVzUW9zYS1CMmtBUEdtQW5rOVR6dUY3WkY0MXdNQTlmSmdPOUkyekVib3J5dkpOUEdnQUdUQnhJYXp5MlRjVjJCd1ktR3pZLUhUdFp0TkQwb0pUc2NQLW82Y0h4Ul9xTmZldEpqUTZ2a3JzOHBNencycllHd1pQZXdiZDNBY0IxeVdSRTJoSjRPM0V0bmFDVUxpanNoOGpWb1dvX2dma1F1UnVxSHFLSFkyamlWS3YyZVZRS0YxSnpZZWt0dTh0VXkya0M0WWg4VVZxSUZTVlJsV0lVbk1kQ3o1SDRyb0ExMjdJaFhtaUk4cHBGWmptbmZNN1oxSHZpMXJ0STV5SzllVVJKRUp6cU1nLVRmSDRrcGtlRUtFcHB5bWVHd1dQSlFEQ0lLREZMQjZlOWcyWi0wVndwWWVNc2otMXBIVllkeXdLLU1RaFdvN1NwVWRDdnI2a3RwWWpjV3RpQlMyU1JzT3JQZHJJN2l3NlJST1BHRknSAYgDQVVfeXFMTUd6ZTFaMW9tSnlJQmJWc2R4OExGX05mNklPRnBmUGRzVlZqU3lzU3RTZ3NzSldzaGtvck1IVVJXLXVXZjJEbnhISTFhOVlZSzlsY2d1cHVJdC16aU0zeFl3ZHdFbjZVcHBGdDVranB0aWRhTF9iNUhaX2FzRFNBVnpGQXJ0RHlTX3ozeDkxMUVRX01kemlYRXhnbE1URXhRMldnRHUyOXAtM3FpUXZrQlJZMnNrVm9IeEZfclhDLWY0UGt4MjM4ZXFtWjFBWlZJSmFqWm1mWTB6c1NUeFIxWlp3TzB2cHp3VUpxOVNwUW5hTXFWa1Bia0lDd3NoWUZXRXo1eXFjS1FUdW8zaGpZU2VNV3JiMzVST2Y4bnI0RDBtNnZnbHE5MDZOTVBTUXJmdUFEcG9xc1YybnlQSFlCOWt4UEVWRGd1TGNOUzcybDNnY0piUFVXYUtvajhjRk9tTTRtX2pWWEZ6cF8xSUZPV3NfM3VoRWYwSG15RmZkN2RXNXVPa2lEc3k?oc=5
 
 - India markets regulator finds $158 billion of misrepresented numbers at Rajesh Exports - Reuters
   India markets regulator finds $158 billion of misrepresented
   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPejRXaWs4VWQzV1VHNzF0b2VCYVRQWGFNYjFqQ3RTOXFfcE9JYnhCSXNuRnQtWTgxUUJsdVZ6SEJtd1lON3ExSjFSZE9iQXIzVEItREpiUXJGVWdrRE5yMldqQndvM2paTnk3TjZQZFRTVm9weHdHdm16TU9aQTFNQ0tpRWRXWkN0ck5mOUdKMVhJYzFRSjhUdzhhbEZyNFlwLXdHWjdOYVpxdjBtbGdWdHVRTmhIX0NkeE5tQ1RXQll2cFhhS3c?oc=5
 
-- Why the SpaceX IPO could be a trap: Chart of the Day - Yahoo Finance
-  Why the SpaceX IPO could be a trap: Chart of
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG1GSWpJWWw1QjA4SVM4WGxwdmZFQWNwU2dycVdEbkd3R0hNeHYxWHFydnl0bU5iRXk2cUpOZ1JfckZyUWVHdDg5VDFkSXdieG5LSkhNWmZadGJuUGdBS29yZnpmRGNwaVBtaWUteXdhUGh2VHZwcU45bXpZZ2ExeXBJLU9BdlJzLW1Oc2dhR3M5T1ZOaG1pYkdvekl3cFhSYmpMSTBBdXJYWjZR?oc=5
+- The Outlook for India’s Stock Market Amid the Middle East Conflict - Goldman Sachs
+  The Outlook for India’s Stock Market Amid
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHRRVV9SU0V1SVVtLTRGUkhfc19lOEZRT0haM3U4OGlmM1RPMXRyd0JZU1dnbHd4V2FuUHItcWVkTUZEUlZqN29SVnh3UGpib2YzbU1wTmhLQUMzaGpublpEbUNHZFp0c0cxWVh0UXVDQnhGZktrTEI2X041TVQ5UFRLZXliNDZsd0RwRnlBM1pIczItQWVyNWhRcElWWFJUdDg4VTlQYmtkWGg0aTlIZTRn?oc=5
 
-- US stocks: Pinterest deepens Amazon partnership with $4 billion cloud deal
-  Amazon.com's cloud ​computing unit will provide Pinterest with its custom chip
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pinterest-deepens-amazon-partnership-with-4-billion-cloud-deal/articleshow/131509393.cms
+- Gas engine maker Innio valued at $23 billion as shares jump in Nasdaq debut
+  Innio's market valuation soared past $23 billion. The company’s shares opened significantly above their initial offer price.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gas-engine-maker-innio-valued-at-23-billion-as-shares-jump-in-nasdaq-debut/articleshow/131512428.cms
 
-- US Stocks: Broadcom set to shed $300 billion in value as AI results fail to impress; shares fall 14%
-  The losses, if sustained, will erase more than $315 billion from the company's market value of about $
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-broadcom-set-to-shed-300-billion-in-value-as-ai-results-fail-to-impress-shares-fall-14/articleshow/131509059.cms
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Indian equities ended largely unchanged as West Asia tensions tempered risk appetite. Analysts flagged 23,500 as a key resistance and 23,300–23,200 as important support levels
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131511250.cms
 
-- US stocks today: Nasdaq nosedives as Broadcom revenue miss dents chip stocks
-  The S&amp;P and Nasdaq dropped at the open on Thursday. Broadcom's revenue miss pressured chip stocks. Equity investors
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-nosedives-as-broadcom-revenue-miss-dents-chip-stocks/articleshow/131508613.cms
+- Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports
+  Goldman Sachs expects revenue at SpaceX's AI segment to soar 388% from a year earlier to $15.6 billion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-expects-spacexs-ai-revenue-to-surge-100-fold-by-2030-ft-reports/articleshow/131511011.cms
 
-- US weekly jobless claims increase more than expected; labor market remains stable
-  Despite high-profile job cuts by technology firms related to the adoption of artificial intelligence, layoffs have remained low
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-weekly-jobless-claims-increase-more-than-expected-labor-market-remains-stable/articleshow/131508434.cms
+- Ola Electric raises Rs 780 crore via QIP, issue oversubscribed 56%
+  The strong response came despite volatile equity markets. It signals continued institutional confidence in Ola Electric's growth strategy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-raises-rs-780-crore-via-qip-issue-oversubscribed-56/articleshow/131510540.cms
 
-- Marcellus launches global equities fund in GIFT City, targets AI, defence and luxury themes
-  Marcellus Investment Managers has launched a global equities fund through GIFT City. The fund targets defence, power, AI-led infrastructure and luxury themes.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/marcellus-launches-global-equities-fund-in-gift-city-targets-ai-defence-and-luxury-themes/articleshow/131508257.cms
+- Satin Creditcare promoters to infuse Rs 100 crore, raise stake
+  Satin Creditcare Network's promoters will invest Rs 100 crore through convertible warrants, increasing their stake to 38.32% from 36.17%. The capital infusion will strengthen the lender's balance
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-promoters-to-infuse-rs-100-crore-raise-stake/articleshow/131510513.cms
 
-- Mid-Air U-Turn: Scandinavian Airlines' First India Flight In 17 Years Hits Approval Snag - NDTV
-   Scandinavian Airlines' First India Flight In 17 Years Hits Appro
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFRPQ0w0ODZSemFFenVSYVM4ZUVVdndhVi1yLTNYTWhqVFBYZEdjbjFJbTBueDZhYUpqNmR2amR5bkJHbko3Nm5xci1raHktWjhacGxBd3BfNnN2elYtNVMxOEhtalRSSWx0ZXpoMXppTjg1TmcxMDlTVDNoUWdGVXp6NTV1SkVhZjh1ejE5UWJDUGZxLTB5MGhQSGNCRmxtWURFb2ZtZUZCZ2tYanpMcHJjMDBpR1ZZdEJNcks3ZXhmWG1oVVHSAc4BQVVfeXFMT3ZLRm1HNFlFdWlvLUhMbTB6SWd0bWczUHM4c1BZNFprNWVXSFZDY0ZyeS1oSGpmMV9MdmV1VEpudlBnQ2Rwd09KcVZwcFJGUkJXZmhnWFQxckZZZzJvd2FPeU9wQ1N1TDBLUHc2MWFlVVVjWkxLT0lhUEJXRHA3T2dOajY5c0xQX2F0WnZtLVJqN3B3VjM1Vk1zVmFOR0E0T0RYR1BEY1N6cnVzNEkyZ3NrOVl6RERESy1xUzN6eENrdDF5czRtcFlvY1ZnWWc?oc=5
-
-- Baby boom over, India's population test begins now - The Times of India
-  The Times of India reports that India's population
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
-
-- Bangladesh says it foiled multiple attempts by India to force people into the country - The Hindu
-  Bangladesh says it foiled multiple attempts by India to force
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmd1SlZKSktaMDIwRUNHdngxTF9KWG1MbzVSdWpxaC1pMlluTHVYaDR5T3JtREpXcUFhWWZsckdjZXVWSFh3NWpjZnNKYjN2UGNxbWtmZXVpZi1HZ2lTVU5SeTdlWTh4NWFwQ2s5dU1RY2JYSHhHOFdfODBjaG9qLTUyN195MW1UUVdnV2g2dDhxeGdUMzJ3NU5HdVhHZHpoRkVBaExZRDdXUlN6Qm9wQjJKMDFyRDlPNUpkT28zNXZZaHQzd3lPbWFhTmdRb2pjQ2E1ME9SOEtaVWpwd2sxdUNnY9IB6gFBVV95cUxQUGJoMEhtbC1qanNKYXNsY19IZmV4X3gtQ2t6aV9PUy1UMF9WX0VaV04tMjBrV0VEcFUwNjNFcUZVWkJjb19kaVhtVVJxWFlsRXBMRkZKR2hrRXpfXzNBdEt3QjdVSVlBUnhVeHk2SmsxN2txeGFjVkFSU0RLX1QtaF9wODZvV19GVHdYeVR1em42UGw3VHBWUGFmU2hfMFZHNHU0czVwVks3dlJsTjNrNC15UmlLX3hqMXpQQWNLUzJ0QWNVQlphakJ4N0hHTjdVUGJRY3p4Yl9XcjFOTTRENUtQWUlVYXJmN2c?oc=5
-
-- India navigated international energy crisis by diversifying energy sources: Union Minister Piyush Goyal - News On AIR
-  India navigated international energy crisis by diversifying energy sources: Union
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaC02anQ5MGlBZEh4QzdNc0NhU1RJMVg1aXFtX0hiQlRUbTB4aGZwYUx0T3JpRUJaeVlnNExVZXNqVmliSVhWTnBEeVltLXVaMHkzT0IxRkNLaGJVMlZiYW83elBpb0VVMjF6b0t3YUhfWGlCQlZ2dmFobkppWWg3TWdWclJEVXN3WFdKeXJMSWRrcEIySmZlMk5HTWIyRXVhZklmTHhwZFUyaWZiVDl6Z1d2NHAtMng5NFRPSFlwTUdqbkZTZW5v?oc=5
-
-- Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
-  Monsoon sets in over Kerala, marking beginning of rainy season in
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
-
-- Mid-Air U-Turn: Scandinavian Airlines' First India Flight In 17 Years Hits Approval Snag - NDTV
-   Scandinavian Airlines' First India Flight In 17 Years Hits Appro
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFRPQ0w0ODZSemFFenVSYVM4ZUVVdndhVi1yLTNYTWhqVFBYZEdjbjFJbTBueDZhYUpqNmR2amR5bkJHbko3Nm5xci1raHktWjhacGxBd3BfNnN2elYtNVMxOEhtalRSSWx0ZXpoMXppTjg1TmcxMDlTVDNoUWdGVXp6NTV1SkVhZjh1ejE5UWJDUGZxLTB5MGhQSGNCRmxtWURFb2ZtZUZCZ2tYanpMcHJjMDBpR1ZZdEJNcks3ZXhmWG1oVVHSAc4BQVVfeXFMT3ZLRm1HNFlFdWlvLUhMbTB6SWd0bWczUHM4c1BZNFprNWVXSFZDY0ZyeS1oSGpmMV9MdmV1VEpudlBnQ2Rwd09KcVZwcFJGUkJXZmhnWFQxckZZZzJvd2FPeU9wQ1N1TDBLUHc2MWFlVVVjWkxLT0lhUEJXRHA3T2dOajY5c0xQX2F0WnZtLVJqN3B3VjM1Vk1zVmFOR0E0T0RYR1BEY1N6cnVzNEkyZ3NrOVl6RERESy1xUzN6eENrdDF5czRtcFlvY1ZnWWc?oc=5
+- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
+  India's Big Move To Attract Foreign Investment
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
 
 - Baby boom over, India's population test begins now - The Times of India
   The Times of India reports that India's population
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
 
-- Bangladesh says it foiled multiple attempts by India to force people into the country - The Hindu
-  Bangladesh says it foiled multiple attempts by India to force
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmd1SlZKSktaMDIwRUNHdngxTF9KWG1MbzVSdWpxaC1pMlluTHVYaDR5T3JtREpXcUFhWWZsckdjZXVWSFh3NWpjZnNKYjN2UGNxbWtmZXVpZi1HZ2lTVU5SeTdlWTh4NWFwQ2s5dU1RY2JYSHhHOFdfODBjaG9qLTUyN195MW1UUVdnV2g2dDhxeGdUMzJ3NU5HdVhHZHpoRkVBaExZRDdXUlN6Qm9wQjJKMDFyRDlPNUpkT28zNXZZaHQzd3lPbWFhTmdRb2pjQ2E1ME9SOEtaVWpwd2sxdUNnY9IB6gFBVV95cUxQUGJoMEhtbC1qanNKYXNsY19IZmV4X3gtQ2t6aV9PUy1UMF9WX0VaV04tMjBrV0VEcFUwNjNFcUZVWkJjb19kaVhtVVJxWFlsRXBMRkZKR2hrRXpfXzNBdEt3QjdVSVlBUnhVeHk2SmsxN2txeGFjVkFSU0RLX1QtaF9wODZvV19GVHdYeVR1em42UGw3VHBWUGFmU2hfMFZHNHU0czVwVks3dlJsTjNrNC15UmlLX3hqMXpQQWNLUzJ0QWNVQlphakJ4N0hHTjdVUGJRY3p4Yl9XcjFOTTRENUtQWUlVYXJmN2c?oc=5
+- India’s close cooperation with Venezuela holds immense importance for Global South: PM Modi - News On AIR
+  India’s close cooperation with Venezuela holds immense importance for Global
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG5jcmJ1Z3RtRWQ4N1pLNjhYSF93bFdhV1BqVmtON1lSUnpoWjQ0cTBLYWxURWl2SE11NGJCaGZFSXBBaGVmYXZWalJJZ2R3RTc5a0dONm1Ma1RGcEZwWE1GSjduSE44X3hGdFo1WEF3WGxmRXdDT08zaHRoU09IQVFBby1rQ1JhcVZwMDNLZGJMSFN4c092RzJmSWpwVTNhbGxj?oc=5
 
-- India navigated international energy crisis by diversifying energy sources: Union Minister Piyush Goyal - News On AIR
-  India navigated international energy crisis by diversifying energy sources: Union
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaC02anQ5MGlBZEh4QzdNc0NhU1RJMVg1aXFtX0hiQlRUbTB4aGZwYUx0T3JpRUJaeVlnNExVZXNqVmliSVhWTnBEeVltLXVaMHkzT0IxRkNLaGJVMlZiYW83elBpb0VVMjF6b0t3YUhfWGlCQlZ2dmFobkppWWg3TWdWclJEVXN3WFdKeXJMSWRrcEIySmZlMk5HTWIyRXVhZklmTHhwZFUyaWZiVDl6Z1d2NHAtMng5NFRPSFlwTUdqbkZTZW5v?oc=5
+- PM Modi Holds Talks With Venezuela Acting President, Discusses Bilateral Ties - NDTV
+  PM Modi Holds Talks With Venezuela Acting President
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHpzbm8xLV9TOUpRcDJhdlRXUDdfa2I4R0VydlBJWk9GOWNCc2M0dkFiczJkamp4UWxpbUNwcVhuMEVLOTNUZExERkxhRjg5cWliLXh5VnlxZUdTNi1hVXhvNl9CWm4wYVAtc3hoU2lXbjZuMDhCRTRMbV84NzEzVUlBVEZVTnQzWXJTNzBZaUtHYUNlNlBRc1BGTFV1aW1aUzgtMGZhc2dMb0FTblhLRmozb0dqRXJseVFscHNMTWdJc0FhOVF0dHpUN3FPQdIB1gFBVV95cUxNTzBrOElSTHQwNTVkaElhOTNld0RLaHdxSGhsN21DZEtta2dfb0FtUkN5NGlzekVIVElMcjdUOXp3SlB3U09rODRYZU9BVHp0SUdHMER5SjQ3VC1rTUU4VHdJbVA2UjFlQkpzNnIzcDhsYXN1TVpINmxXc2RkUHdoWi1pUnpRclFqSWVLTHcxcWt1MXlPRzdUWXJUakZjb3oza2RlUFY4OFRXb0laN1lxRkVkTDUxT1NvNmpxZVNrM3ZmeWNBUUs2OFVkRFgyd1RQc0JGenh3?oc=5
 
-- Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
-  Monsoon sets in over Kerala, marking beginning of rainy season in
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
+- PM Modi, Venezuela’s President Rodriguez discuss long-term energy partnership | India News - Hindustan Times
+  PM Modi, Venezuela’s President Rodriguez discuss long
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOellnR2wzYi1YS0FpTk52QngxVnZWLWtaUGxFOWNRRjNGSGR6VXNQT1A5Qi1kS2xycVg1VnU0N1pTRUdybWVMVFRaRWUxMy1VeXA1eGU5ZDJQbk16RjBFaWdXOXRkT09mR05nZDViXzJJUUF0bFFRd2c3Y0FwTnZEOXVtUWQxU0I1NWJHRkNZUWpwRkZFMy16S2drbEJXZm9wdmJfcnhKNnJTRk9Bc0Z5RHVLaklzOEY2QkExNldBOXJpaXMwN0NoZFk4YlZUQ0ZkSWx5YTNB0gHbAUFVX3lxTE1idXNMVTlfRm9yekZaVnh5T2pJUlM4aDVQQlBzZzR6OTRBZjBzWEJUbHJRNkd1aDJSenhONnZaNDZ6MHU2Y0h4dzVxYVFBS0kzZmdPZ2xEbWJDMFdxb3JySUlQSGpIRG0xdmgxTGlHdFJVaTVKLWxqT1VScjdLalltVzFoN3Y0X2pZaGJTSDlrTHRDa2F5alhwUjRBRkxXaEpjcUE1ZjUyeklJamt0QzZwVHA4a0VUNnA2YUdyOWd5TktJNHJPS3ZnMEo0bEJzYW9NVnFSZDhCMTNmUQ?oc=5
+
+- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
+  India's Big Move To Attract Foreign Investment
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
+
+- Baby boom over, India's population test begins now - The Times of India
+  The Times of India reports that India's population
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
+
+- India’s close cooperation with Venezuela holds immense importance for Global South: PM Modi - News On AIR
+  India’s close cooperation with Venezuela holds immense importance for Global
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG5jcmJ1Z3RtRWQ4N1pLNjhYSF93bFdhV1BqVmtON1lSUnpoWjQ0cTBLYWxURWl2SE11NGJCaGZFSXBBaGVmYXZWalJJZ2R3RTc5a0dONm1Ma1RGcEZwWE1GSjduSE44X3hGdFo1WEF3WGxmRXdDT08zaHRoU09IQVFBby1rQ1JhcVZwMDNLZGJMSFN4c092RzJmSWpwVTNhbGxj?oc=5
+
+- PM Modi Holds Talks With Venezuela Acting President, Discusses Bilateral Ties - NDTV
+  PM Modi Holds Talks With Venezuela Acting President
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHpzbm8xLV9TOUpRcDJhdlRXUDdfa2I4R0VydlBJWk9GOWNCc2M0dkFiczJkamp4UWxpbUNwcVhuMEVLOTNUZExERkxhRjg5cWliLXh5VnlxZUdTNi1hVXhvNl9CWm4wYVAtc3hoU2lXbjZuMDhCRTRMbV84NzEzVUlBVEZVTnQzWXJTNzBZaUtHYUNlNlBRc1BGTFV1aW1aUzgtMGZhc2dMb0FTblhLRmozb0dqRXJseVFscHNMTWdJc0FhOVF0dHpUN3FPQdIB1gFBVV95cUxNTzBrOElSTHQwNTVkaElhOTNld0RLaHdxSGhsN21DZEtta2dfb0FtUkN5NGlzekVIVElMcjdUOXp3SlB3U09rODRYZU9BVHp0SUdHMER5SjQ3VC1rTUU4VHdJbVA2UjFlQkpzNnIzcDhsYXN1TVpINmxXc2RkUHdoWi1pUnpRclFqSWVLTHcxcWt1MXlPRzdUWXJUakZjb3oza2RlUFY4OFRXb0laN1lxRkVkTDUxT1NvNmpxZVNrM3ZmeWNBUUs2OFVkRFgyd1RQc0JGenh3?oc=5
+
+- PM Modi, Venezuela’s President Rodriguez discuss long-term energy partnership | India News - Hindustan Times
+  PM Modi, Venezuela’s President Rodriguez discuss long
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOellnR2wzYi1YS0FpTk52QngxVnZWLWtaUGxFOWNRRjNGSGR6VXNQT1A5Qi1kS2xycVg1VnU0N1pTRUdybWVMVFRaRWUxMy1VeXA1eGU5ZDJQbk16RjBFaWdXOXRkT09mR05nZDViXzJJUUF0bFFRd2c3Y0FwTnZEOXVtUWQxU0I1NWJHRkNZUWpwRkZFMy16S2drbEJXZm9wdmJfcnhKNnJTRk9Bc0Z5RHVLaklzOEY2QkExNldBOXJpaXMwN0NoZFk4YlZUQ0ZkSWx5YTNB0gHbAUFVX3lxTE1idXNMVTlfRm9yekZaVnh5T2pJUlM4aDVQQlBzZzR6OTRBZjBzWEJUbHJRNkd1aDJSenhONnZaNDZ6MHU2Y0h4dzVxYVFBS0kzZmdPZ2xEbWJDMFdxb3JySUlQSGpIRG0xdmgxTGlHdFJVaTVKLWxqT1VScjdLalltVzFoN3Y0X2pZaGJTSDlrTHRDa2F5alhwUjRBRkxXaEpjcUE1ZjUyeklJamt0QzZwVHA4a0VUNnA2YUdyOWd5TktJNHJPS3ZnMEo0bEJzYW9NVnFSZDhCMTNmUQ?oc=5
+
+- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
+  India's Big Move To Attract Foreign Investment
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
+
+- Baby boom over, India's population test begins now - The Times of India
+  The Times of India reports that India's population
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
+
+- India’s close cooperation with Venezuela holds immense importance for Global South: PM Modi - News On AIR
+  India’s close cooperation with Venezuela holds immense importance for Global
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG5jcmJ1Z3RtRWQ4N1pLNjhYSF93bFdhV1BqVmtON1lSUnpoWjQ0cTBLYWxURWl2SE11NGJCaGZFSXBBaGVmYXZWalJJZ2R3RTc5a0dONm1Ma1RGcEZwWE1GSjduSE44X3hGdFo1WEF3WGxmRXdDT08zaHRoU09IQVFBby1rQ1JhcVZwMDNLZGJMSFN4c092RzJmSWpwVTNhbGxj?oc=5
+
+- PM Modi Holds Talks With Venezuela Acting President, Discusses Bilateral Ties - NDTV
+  PM Modi Holds Talks With Venezuela Acting President
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHpzbm8xLV9TOUpRcDJhdlRXUDdfa2I4R0VydlBJWk9GOWNCc2M0dkFiczJkamp4UWxpbUNwcVhuMEVLOTNUZExERkxhRjg5cWliLXh5VnlxZUdTNi1hVXhvNl9CWm4wYVAtc3hoU2lXbjZuMDhCRTRMbV84NzEzVUlBVEZVTnQzWXJTNzBZaUtHYUNlNlBRc1BGTFV1aW1aUzgtMGZhc2dMb0FTblhLRmozb0dqRXJseVFscHNMTWdJc0FhOVF0dHpUN3FPQdIB1gFBVV95cUxNTzBrOElSTHQwNTVkaElhOTNld0RLaHdxSGhsN21DZEtta2dfb0FtUkN5NGlzekVIVElMcjdUOXp3SlB3U09rODRYZU9BVHp0SUdHMER5SjQ3VC1rTUU4VHdJbVA2UjFlQkpzNnIzcDhsYXN1TVpINmxXc2RkUHdoWi1pUnpRclFqSWVLTHcxcWt1MXlPRzdUWXJUakZjb3oza2RlUFY4OFRXb0laN1lxRkVkTDUxT1NvNmpxZVNrM3ZmeWNBUUs2OFVkRFgyd1RQc0JGenh3?oc=5
+
+- PM Modi, Venezuela’s President Rodriguez discuss long-term energy partnership | India News - Hindustan Times
+  PM Modi, Venezuela’s President Rodriguez discuss long
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOellnR2wzYi1YS0FpTk52QngxVnZWLWtaUGxFOWNRRjNGSGR6VXNQT1A5Qi1kS2xycVg1VnU0N1pTRUdybWVMVFRaRWUxMy1VeXA1eGU5ZDJQbk16RjBFaWdXOXRkT09mR05nZDViXzJJUUF0bFFRd2c3Y0FwTnZEOXVtUWQxU0I1NWJHRkNZUWpwRkZFMy16S2drbEJXZm9wdmJfcnhKNnJTRk9Bc0Z5RHVLaklzOEY2QkExNldBOXJpaXMwN0NoZFk4YlZUQ0ZkSWx5YTNB0gHbAUFVX3lxTE1idXNMVTlfRm9yekZaVnh5T2pJUlM4aDVQQlBzZzR6OTRBZjBzWEJUbHJRNkd1aDJSenhONnZaNDZ6MHU2Y0h4dzVxYVFBS0kzZmdPZ2xEbWJDMFdxb3JySUlQSGpIRG0xdmgxTGlHdFJVaTVKLWxqT1VScjdLalltVzFoN3Y0X2pZaGJTSDlrTHRDa2F5alhwUjRBRkxXaEpjcUE1ZjUyeklJamt0QzZwVHA4a0VUNnA2YUdyOWd5TktJNHJPS3ZnMEo0bEJzYW9NVnFSZDhCMTNmUQ?oc=5
+
+- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
+  India's Big Move To Attract Foreign Investment
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
+
+- Baby boom over, India's population test begins now - The Times of India
+  The Times of India reports that India's population
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
+
+- India’s close cooperation with Venezuela holds immense importance for Global South: PM Modi - News On AIR
+  India’s close cooperation with Venezuela holds immense importance for Global
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG5jcmJ1Z3RtRWQ4N1pLNjhYSF93bFdhV1BqVmtON1lSUnpoWjQ0cTBLYWxURWl2SE11NGJCaGZFSXBBaGVmYXZWalJJZ2R3RTc5a0dONm1Ma1RGcEZwWE1GSjduSE44X3hGdFo1WEF3WGxmRXdDT08zaHRoU09IQVFBby1rQ1JhcVZwMDNLZGJMSFN4c092RzJmSWpwVTNhbGxj?oc=5
+
+- PM Modi Holds Talks With Venezuela Acting President, Discusses Bilateral Ties - NDTV
+  PM Modi Holds Talks With Venezuela Acting President
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHpzbm8xLV9TOUpRcDJhdlRXUDdfa2I4R0VydlBJWk9GOWNCc2M0dkFiczJkamp4UWxpbUNwcVhuMEVLOTNUZExERkxhRjg5cWliLXh5VnlxZUdTNi1hVXhvNl9CWm4wYVAtc3hoU2lXbjZuMDhCRTRMbV84NzEzVUlBVEZVTnQzWXJTNzBZaUtHYUNlNlBRc1BGTFV1aW1aUzgtMGZhc2dMb0FTblhLRmozb0dqRXJseVFscHNMTWdJc0FhOVF0dHpUN3FPQdIB1gFBVV95cUxNTzBrOElSTHQwNTVkaElhOTNld0RLaHdxSGhsN21DZEtta2dfb0FtUkN5NGlzekVIVElMcjdUOXp3SlB3U09rODRYZU9BVHp0SUdHMER5SjQ3VC1rTUU4VHdJbVA2UjFlQkpzNnIzcDhsYXN1TVpINmxXc2RkUHdoWi1pUnpRclFqSWVLTHcxcWt1MXlPRzdUWXJUakZjb3oza2RlUFY4OFRXb0laN1lxRkVkTDUxT1NvNmpxZVNrM3ZmeWNBUUs2OFVkRFgyd1RQc0JGenh3?oc=5
+
+- PM Modi, Venezuela’s President Rodriguez discuss long-term energy partnership | India News - Hindustan Times
+  PM Modi, Venezuela’s President Rodriguez discuss long
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOellnR2wzYi1YS0FpTk52QngxVnZWLWtaUGxFOWNRRjNGSGR6VXNQT1A5Qi1kS2xycVg1VnU0N1pTRUdybWVMVFRaRWUxMy1VeXA1eGU5ZDJQbk16RjBFaWdXOXRkT09mR05nZDViXzJJUUF0bFFRd2c3Y0FwTnZEOXVtUWQxU0I1NWJHRkNZUWpwRkZFMy16S2drbEJXZm9wdmJfcnhKNnJTRk9Bc0Z5RHVLaklzOEY2QkExNldBOXJpaXMwN0NoZFk4YlZUQ0ZkSWx5YTNB0gHbAUFVX3lxTE1idXNMVTlfRm9yekZaVnh5T2pJUlM4aDVQQlBzZzR6OTRBZjBzWEJUbHJRNkd1aDJSenhONnZaNDZ6MHU2Y0h4dzVxYVFBS0kzZmdPZ2xEbWJDMFdxb3JySUlQSGpIRG0xdmgxTGlHdFJVaTVKLWxqT1VScjdLalltVzFoN3Y0X2pZaGJTSDlrTHRDa2F5alhwUjRBRkxXaEpjcUE1ZjUyeklJamt0QzZwVHA4a0VUNnA2YUdyOWd5TktJNHJPS3ZnMEo0bEJzYW9NVnFSZDhCMTNmUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-04 14:49:39 UTC_
+_Last updated: 2026-06-04 20:01:23 UTC_
