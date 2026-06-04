@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Funds meant for women’s businesses spent on household needs: What review of Centre’s flagship rural scheme has found
+- ‘Check all pantry cars, take punitive action against lapses’: Railway Board launches 15-day fire safety drive in trains
   
-  🔗 https://indianexpress.com/article/india/day-nrlm-evaluation-women-shgs-funds-household-expenses-enterprises-10723625/
+  🔗 https://indianexpress.com/article/india/indian-railways-fire-safety-drive-pantry-car-inspection-10724337/
 
-- Southwest monsoon hits Kerala as IMD issues rain alert till June 7
+- Modi serving interest of America and wealthy, says Rahul Gandhi
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-onset-kerala-imd-rain-alert-june-2026-10723546/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-modi-government-focused-on-serving-interest-of-america-and-wealthy-10724224/
 
-- A ‘confession’ after 38 years: How Kerala Police reconstructed a forgotten 1986 killing
+- Khan Sir coaching centre security guards taken into custody after ‘video shows firing’ during attack in Patna
   
-  🔗 https://indianexpress.com/article/india/kerala-1986-murder-confession-cold-case-solved-38-years-later-10723459/
+  🔗 https://indianexpress.com/article/india/khan-sir-global-studies-coaching-attack-guards-detained-firing-raushan-anand-arrest-10724160/
 
-- Monsoon onset likely today in Kerala, IMD issues Orange alert in multiple districts
+- Old hands,1 turncoat: BJP names candidates for Rajya Sabha polls
   
-  🔗 https://indianexpress.com/article/india/rain-monsoon-kerala-delhi-imd-weather-india-10723171/
+  🔗 https://indianexpress.com/article/india/bjp-rajya-sabha-candidate-list-debashish-samantaray-satish-poonia-alka-gurjar-10724078/
 
-- Bihar: 4 dead in Muzaffarpur hospital ICU fire
+- Two-fold raise in financial ceiling for field commanders: Rajnath Singh releases revised DFPDS
   
-  🔗 https://indianexpress.com/article/india/prasad-hospital-fire-in-bihar-muzaffarpur-death-toll-10723163/
+  🔗 https://indianexpress.com/article/india/two-fold-raise-in-financial-ceiling-for-field-commanders-rajnath-singh-releases-revised-dfpds-10724096/
 
-- What is Dreambeans, Google’s new AI app to help users stop doomscrolling?
+- Rare Sahara meteorite may reveal a lost planet from early solar system
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-dreambeans-google-new-ai-app-doomscrolling-10723765/
+  🔗 https://indianexpress.com/article/technology/science/rare-sahara-meteorite-may-reveal-a-lost-planet-from-early-solar-system-10724277/
 
-- Sleeping too little or too much accelerates ageing; here is a sweet spot to target
+- Mars orbiter MAVEN goes silent for good, Nasa ending a decade-long mission
   
-  🔗 https://indianexpress.com/article/technology/science/sleeping-too-little-or-too-much-accelerates-ageing-here-is-a-sweet-spot-to-target-10723636/
+  🔗 https://indianexpress.com/article/technology/science/mars-orbiter-maven-goes-silent-for-good-nasa-ending-a-decade-long-mission-10724278/
 
-- Nasa’s Webb telescope detects methane on interstellar comet 3I/ATLAS for the first time
+- Tech and gadget updates today (June 4, 2026): Sony WH-1000XM6, Motorola Edge 70 pro+, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nasas-webb-telescope-detects-methane-on-interstellar-comet-3i-atlas-for-the-first-time-10723589/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-updates-today-june-4-2026-sony-wh-1000xm6-motorola-edge-70-pro-and-more-10724157/
 
-- UK orders Google to improve AI search attribution, give publishers opt-out controls
+- Wildcat Lake could be Intel’s strongest response yet to Apple’s budget MacBooks
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/uk-orders-google-ai-search-attribution-publishers-opt-out-10723586/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/wildcat-lake-could-be-intels-strongest-response-yet-to-apples-budget-macbooks-10724158/
 
-- Mina the Hollower sells 300,000 copies in 3 days, giving boost to indie gaming studios
+- Why headphones, gaming consoles sold in EU could get easily replaceable batteries by 2027
   
-  🔗 https://indianexpress.com/article/technology/gaming/mina-the-hollower-sells-300000-copies-indie-gaming-studios-10723477/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-smartphones-wearables-eu-replaceable-batteries-2027-10724057/
+
+- Jackson Lab's licence scrapped as probe finds oxytocin jab link to pregnant women's deaths
+  Punjab's drug regulator has scrapped Jackson Laboratories' licence. A probe linked its oxytocin injection to the deaths of five pregnant women in Rajasthan.
+  🔗 https://www.livemint.com/companies/jackson-laboratories-licence-cancelled-pregnant-women-death-oxytocin-pharma-11780568790301.html
+
+- Trent looks beyond apparel to focus on beauty, footwear
+  The growing importance of these categories comes as some of
+  🔗 https://www.livemint.com/companies/news/trent-tata-group-westside-zudio-studiowest-retail-sector-beauty-11780564078124.html
+
+- Go Zero ice cream registers 350% growth in May; founder Kiran Shah says, ‘Still not done with the season’
+  Go Zero ice cream registered 350% growth in May, founder Kiran Shah revealed. This shows that health-conscious consumers are seeking alternatives to
+  🔗 https://www.livemint.com/companies/go-zero-ice-cream-registers-350-growth-in-may-founder-kiran-shah-says-still-not-done-with-the-season-11780564533107.html
+
+- Physics Wallah looks to unwind FinZ lending bet days after  ₹120 crore infusion
+  The edtech company is exploring sale, loan-book transfer and licence surrender.
+  🔗 https://www.livemint.com/companies/news/physics-wallah-finz-finance-lending-strategy-exit-120-crore-infusion-11780553007577.html
 
 - IndiGo pips Air India again on overseas routes as West Asia crisis weighs
   IndiGo has reclaimed the top spot among Indian carriers on international routes. Analysts expect the airline to retain its lead as it expands its overseas network.
   🔗 https://www.livemint.com/companies/indigo-air-india-international-routes-west-asia-war-aviation-dgca-11780548641184.html
 
-- Why this Maldives hotel chain is chasing India’s leisure destinations
-  Maldives-based resort operator Atmosphere Core is expanding aggressively in India with nearly 30 signed hotel projects.
-  🔗 https://www.livemint.com/companies/news/maldives-hotel-chain-atmosphere-core-india-leisure-travel-11780544902525.html
+- Broadcom shares plunge 15% on weak AI outlook, set for biggest one-day crash in over a year
+  Broadcom shares plummeted 15.3% after disappointing fiscal second-quarter results and AI revenue outlook. It was the biggest single-day
+  🔗 https://www.livemint.com/market/broadcom-shares-plunge-15-on-weak-ai-outlook-set-for-biggest-one-day-crash-in-over-a-year-11780579392428.html
 
-- Kuku files confidentially for  ₹3,500-crore IPO, seeks valuation of up to  ₹15,000 crore
-  Kuku Technologies has confidentially filed for an IPO to raise  ₹2
-  🔗 https://www.livemint.com/companies/news/kuku-technologies-ipo-kuku-fm-ipo-kuku-tv-micro-drama-market-india-confidential-ipo-filing-lal-chand-bisu-11780547019987.html
+- Wall Street mixed, Broadcom drags tech shares lower
+  The Dow Jones Industrial Average rose 0.59%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-mixed-broadcom-drags-tech-shares-lower-11780580984051.html
 
-- Google's AI race gets costlier as Alphabet upsizes equity raise to $84.75 billion
-  Google parent Alphabet has increased its planned equity raise to nearly $85 billion. The massive investment will help fund spending
-  🔗 https://www.livemint.com/companies/news/googles-ai-race-gets-costlier-as-alphabet-upsizes-equity-raise-to-84-75-billion-11780540605127.html
+- Hexagon Nutrition raises  ₹41.6 crore from anchor investors ahead of IPO
+  Hexagon Nutrition Limited raised  ₹41.66 crore by allotting 92,57,696 equity shares to
+  🔗 https://www.livemint.com/market/stock-market-news/hexagon-nutrition-raises-rs-41-6-crore-from-anchor-investors-ahead-of-ipo-11780581178618.html
 
-- Sony, 3one4 Capital back WeRize in fresh funding as fintech eyes 2028 IPO
-  WeRize has raised fresh capital led by Sony Innovation Fund as it scales AI-driven
-  🔗 https://www.livemint.com/companies/start-ups/sony-3one4-capital-back-werize-in-fresh-funding-as-fintech-eyes-2028-ipo-startups-11780498236070.html
+- US stock market today: Nasdaq, S&amp;P 500 futures drop up to 1% amid tech sell-off; Brent retreats
+  US stock futures decline as technology rally halts on Broadcom's disappointing outlook, triggering broader sell-off.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-drop-up-to-1-amid-tech-sell-off-brent-retreats-11780573467341.html
 
-- ICICI Bank share price: Motilal Oswal sees 41% upside. Should you buy?
-  Brokerage firm Motilal Oswal Services has projected a potential upside of 41% for ICICI Bank, has maintained a
-  🔗 https://www.livemint.com/market/stock-market-news/icici-bank-share-price-motilal-oswal-sees-41-upside-should-you-buy-11780563004234.html
+- RBI policy June 2026: How will the Indian stock market react to the MPC interest rate outcome?
+  The six-member Monetary Policy Committee (MPC), chaired by RBI Governor Sanjay Malhotra, began its three-
+  🔗 https://www.livemint.com/market/stock-market-news/rbi-policy-june-2026-how-will-the-indian-stock-market-react-to-the-mpc-interest-rate-outcome-11780566193967.html
 
-- Meesho shares sink for eighth consecutive session in longest post-listing sell-off. What’s driving the decline?
-  Mesho's shares continue to decline, dropping 5% to  ₹166.60. Lock-in
-  🔗 https://www.livemint.com/market/stock-market-news/meesho-shares-sink-for-eighth-consecutive-session-in-longest-post-listing-sell-off-what-s-driving-the-decline-11780564036744.html
-
-- SMR Jewels IPO allotment to be finalised today. Here's GMP and steps to check status
-  According to platforms tracking the unofficial market, the grey market premium (GMP) for the SMR Jewels IPO
-  🔗 https://www.livemint.com/market/ipo/smr-jewels-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11780559423818.html
-
-- Equity, Gold or Fixed Income: How should you invest amid stock market volatility? Here's a 50-40-10 strategy by MOSL
-  The firm maintains a neutral allocation stance on both gold and silver. The preference for gold is supported by continued buying from central banks.
-  🔗 https://www.livemint.com/market/stock-market-news/equity-gold-or-fixed-income-how-should-you-invest-amid-stock-market-volatility-heres-a-50-40-10-strategy-by-mosl-11780559018448.html
-
-- Maruti Suzuki share price gains after it unveils Wagon R as India’s first flex-fuel vehicle
-  Maruti Suzuki share price has fallen over 3% in one month and has declined 7% in three months. The auto stock has dropped 21% on a year-to-date (YTD) basis,
-  🔗 https://www.livemint.com/market/stock-market-news/maruti-suzuki-share-price-gains-after-it-unveils-wagon-r-as-india-s-first-flex-fuel-vehicle-11780561415437.html
+- What Indians are watching on Reels in 2026: Instagram reveals top content categories
+  A Meta study revealed what Indians are watching on Reels in 2026.
+  🔗 https://www.livemint.com/technology/tech-news/what-indians-are-watching-on-reels-in-2026-instagram-reveals-top-content-categories-11780563672954.html
 
 - OnePlus Community Sale: Big discounts on OnePlus 15, OnePlus Nord 6 and OnePlus Pad 4 announced
   OnePlus Communtiy sale is bringing discounts on OnePlus 15, OnePlus 15
@@ -96,109 +100,85 @@
   Xiaomi 17T has Leica 5X Periscope system, 6500mAh battery, and 3500-
   🔗 https://www.livemint.com/technology/gadgets/xiaomi-17t-with-leica-5x-telephoto-camera-6-500mah-battery-launched-at-rs-59999-11780464912075.html
 
-- Meet Monako Glass: Chinese startup brings Claude Code and Codex to smart glasses
-  Monako Glasses come with support for running hyper personalized apps along with AI coding
-  🔗 https://www.livemint.com/technology/tech-news/meet-monako-glass-chinese-startup-brings-claude-code-and-codex-to-smart-glasses-11780547237901.html
+- S&P 500 falls as Broadcom leads chip rout, but the Dow is 700 points higher in split market: Live updates - CNBC
+  P 500 falls as Broadcom leads chip rout, but Dow is 700 points higher in split
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUxKR095WHZhYlM0cDdQcE9xRHJ6NVA3SjRKTl9QSFdwdC1iUVhwLXMxaGpJYUtYbjFjdDJNRVpuYjM2VHBkQlkwYVozQko5Q1dQZ1dHYW1QeHpyMmhvQTAySmNkX2owYjljRWxTYzZ2SmFaVUtJ0gF8QVVfeXFMT1Z0UllXcC1CSFl4NjFiMnVFY0R2aVdyMFR4Zld2SkxBWDBlckZhUk9SUTB5UUNxUER4Z3R1WWk1UXBxNUNkY0psSGFfQWg0c1pReDdUYmxpZ3ZCOGRuV2czQjhzZF9KdEFWM0lxT3hPZ2xSb2I0RXVtbFNRdQ?oc=5
 
-- Reliance traders said to game plan in case RBI raises rates
-  Traders are considering shifting funds to short-dated money market instruments. The company's discussions precede an upcoming RBI rate decision, with markets anticipating potential hawkish measures.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-traders-said-to-game-plan-in-case-rbi-raises-rates/articleshow/131501952.cms
+- Stock Market Today: Dow Gains More Than 500 Points, Nasdaq Dips After Broadcom Earnings — Live Updates - WSJ
+  The Dow Jones Industrial Average rose more than 500 points on Tuesday. Broadcom
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3AzeXBUVWJjUTJpNVZFaU5NakpEMHk3RXV4YkpmeUpjRDZ0d1owMzBhbklUa24yLVduQ050RHVlR2M4c0taU0dUNHpKQWR0WFNZVVlSZjFqZzluMmJGUml3cmZZSExHWDBwRGpIQ0dESWtXMFNaaTREZVNEck5vdUY0cHFIcDg?oc=5
 
-- Dollar at two-month high as Gulf hostilities flare, yen near intervention zone
-  Israel and Lebanon agreed to a ceasefire, but a broader peace deal remained elusive. This kept oil prices
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-at-two-month-high-as-gulf-hostilities-flare-yen-near-intervention-zone/articleshow/131501886.cms
+- Stock Market Today: Indexes Mixed; Broadcom, Chip Stocks Weigh on Nasdaq But Dow Jumps; Oil Pulls Back as Israel, Lebanon Agree to Ceasefire - Investopedia
+  Stock Market Today: Indexes Mixed; Broadcom, Chip Stocks Weigh on Nasdaq But Dow
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNbm9oam5MMGUxa2ZvWVUyemd6NHF0a3YxMUdQaXpFTUcySV9LRW84VlRqSEpLOXFmYU1iREZOazU3U21NQmR1MVczakJmN3dwc1JCVUR2RmJzNkVKLWE3dExoRVpXbER6YlVtQV8wY0h3VjMxTmprd1VEU3E3VU9jWlFJNTBWSmg1XzNHaHZRQS0?oc=5
 
-- India's data centre capacity could hit upper end of 5-8 GW target by 2030; Adani, Reliance best placed, says Bernstein
-  India’s data centre capacity could expand to the upper end of the projected 5-8 GW range by 2030 from about 1.5 GW currently. Adani Group and Reliance Industries are best positioned to benefit,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-data-centre-capacity-could-hit-upper-end-of-5-8-gw-target-by-2030-adani-reliance-best-placed-says-bernstein/articleshow/131501777.cms
+- India markets regulator finds $158 billion of misrepresented numbers at Rajesh Exports - Reuters
+  India markets regulator finds $158 billion of misrepresented
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPejRXaWs4VWQzV1VHNzF0b2VCYVRQWGFNYjFqQ3RTOXFfcE9JYnhCSXNuRnQtWTgxUUJsdVZ6SEJtd1lON3ExSjFSZE9iQXIzVEItREpiUXJGVWdrRE5yMldqQndvM2paTnk3TjZQZFRTVm9weHdHdm16TU9aQTFNQ0tpRWRXWkN0ck5mOUdKMVhJYzFRSjhUdzhhbEZyNFlwLXdHWjdOYVpxdjBtbGdWdHVRTmhIX0NkeE5tQ1RXQll2cFhhS3c?oc=5
 
-- Nifty faces key resistance near 23,450 as markets await policy outcome, says Ajit Nayak
-  Indian stock markets experienced a mixed trading session as investors awaited the upcoming monetary policy. The Nifty is facing resistance near 23,450. Federal Bank shows promise above 301.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/markets-range-bound-ahead-of-policy-decision-auto-stocks-show-strength-says-ajit-nayak/articleshow/131501464.cms
+- Why the SpaceX IPO could be a trap: Chart of the Day - Yahoo Finance
+  Why the SpaceX IPO could be a trap: Chart of
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG1GSWpJWWw1QjA4SVM4WGxwdmZFQWNwU2dycVdEbkd3R0hNeHYxWHFydnl0bU5iRXk2cUpOZ1JfckZyUWVHdDg5VDFkSXdieG5LSkhNWmZadGJuUGdBS29yZnpmRGNwaVBtaWUteXdhUGh2VHZwcU45bXpZZ2ExeXBJLU9BdlJzLW1Oc2dhR3M5T1ZOaG1pYkdvekl3cFhSYmpMSTBBdXJYWjZR?oc=5
 
-- US economy remains strong, India must accelerate reforms and AI adoption: Ajay Srivastava
-  Ajay Srivastava highlights the U.S. economy's robust performance. He urges India to focus on its own economic development and embrace global diversification.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/us-economy-remains-strong-india-must-accelerate-reforms-and-ai-adoption-ajay-srivastava/articleshow/131500945.cms
+- US stocks: Pinterest deepens Amazon partnership with $4 billion cloud deal
+  Amazon.com's cloud ​computing unit will provide Pinterest with its custom chip
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-pinterest-deepens-amazon-partnership-with-4-billion-cloud-deal/articleshow/131509393.cms
 
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+- US Stocks: Broadcom set to shed $300 billion in value as AI results fail to impress; shares fall 14%
+  The losses, if sustained, will erase more than $315 billion from the company's market value of about $
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-broadcom-set-to-shed-300-billion-in-value-as-ai-results-fail-to-impress-shares-fall-14/articleshow/131509059.cms
 
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- US stocks today: Nasdaq nosedives as Broadcom revenue miss dents chip stocks
+  The S&amp;P and Nasdaq dropped at the open on Thursday. Broadcom's revenue miss pressured chip stocks. Equity investors
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-nosedives-as-broadcom-revenue-miss-dents-chip-stocks/articleshow/131508613.cms
 
-- Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
-  Monsoon sets in over Kerala, marking beginning of rainy season in
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
+- US weekly jobless claims increase more than expected; labor market remains stable
+  Despite high-profile job cuts by technology firms related to the adoption of artificial intelligence, layoffs have remained low
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-weekly-jobless-claims-increase-more-than-expected-labor-market-remains-stable/articleshow/131508434.cms
 
-- Weather Live Updates: Southwest Monsoon Arrives In Kerala - NDTV
-  Weather Live Updates: Southwest Mon
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNbFpOb3FSRm5vQXpPS0ZrOFUxakpRcXFfM2ZILWpVMEM3UV8zeTRfaExRNkZWc3B1NENENU92d05VeC1kMnRHTWlDd1NJbWRqa3M5RUFFUXRmcklvc3BGeHNsVW16S2g4b0xkQmxGU21Xano4ZU82OFZJSXIzU2IyUDBqaTdVTnhudWNIcVhEZnVDNVFZOUpmMDVpVVhZNXRoV3VyWjRxOGxGazFkRlRJTjRYWDQ4UGpEY0VuQ3ZGQU40YmN5d2ZMOXppRi1BTXNvX21KbjV5Tm4yQ01NQzdBd3N5LTd0dkY1VTV0ckJxSFVwSE1laXdhSkdGQmUteXlvb1dFMDFHNUl3ajYteWdV0gGXAkFVX3lxTFBCTnhNYVM1WXNNbFRtVmJCeFpuWjRwcGw5TTJRdkhLQXlFUGlPS3NabEpLRXZSR19iZlEzbjdtSWxFZ1JoVUZXVTQyelpvWmYydE9XU1N1aHpTbmZBczVaNWN5VHo4dnRPV2R6dXZMdjBRY2VwNmc3b1ZMYVRtRzJtR3gwSGllT3VEX2xjajc0Q0RqMXJkUk9lcU9RbVMwdTdLbGNnT3hlZXpTYXpZc2pjWHFaV3M0eWUxaE9JVEgtNFFBbTlnelZmWVRoRkZBdm1mQ0RBMUFlX2lTX0w0WG5IZ0x0dXVBa0xQRGl3NmlKR1l2cTl1c2ZFOTNZOVBlaGVYZWdvWUxmal9qaU16dXUwY24tMl8wQQ?oc=5
+- Marcellus launches global equities fund in GIFT City, targets AI, defence and luxury themes
+  Marcellus Investment Managers has launched a global equities fund through GIFT City. The fund targets defence, power, AI-led infrastructure and luxury themes.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/marcellus-launches-global-equities-fund-in-gift-city-targets-ai-defence-and-luxury-themes/articleshow/131508257.cms
 
-- Intense storm, rain hit Delhi-NCR, skies turn grey; IMD issues alert | India News - Hindustan Times
-  The IMD has issued an alert for heavy rain in parts of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDdiMi1UQW50NGNsY3ZwMVFlejZTdEVqdy0xZEJFVmU2bXNGY3MxeWdFSkhaX2lFNUxuVWVtdGF5dml0NDBUaVRRaGtRRXdNa05TNVZnd3NVNDJWSV8wWG9hODJodWMxWmYwaDA0SURmSEFESGRsblpPOUU5RnZqa0VJdFJkcW9UWDRwRk1EUmFFUmw1UXRsQmwxVWdQLWRhUzJtSDIxQ1RiUkJPeEF1OU9LWDFCdWF1Rl9sbnFpbDlSOFBLR1pmOVMyUlZTaHFNYnhWdUZRQm9XRjhQR0HSAeMBQVVfeXFMTXBnalQ0bFlBVjl4eGFSMXl5ckoxb2NiNHd1dWxBT2FlbkhMTmlNTS0yTm81bl83dGpoeW1vY0x3bkJRNlhjRndkZ3dpcVZiaTl6VHoxRFd4RF9hM3puX0pUR2t6amJzaVhlRkx2QlB2UDJraDJaMkRra1lyTmd6ZFRibFQ4Q0JFTThpMjdqSFFCVVVGczRPQXFDS1hhaVc5RjREVmFENTRHUVNQcC1faHFwby1qS2kyQTNJVkFDaGhpZVZMYUV6V1dUbTNQT1YyS2k3YkNlNVlxb01kR1BORDF5M0E?oc=5
+- Mid-Air U-Turn: Scandinavian Airlines' First India Flight In 17 Years Hits Approval Snag - NDTV
+   Scandinavian Airlines' First India Flight In 17 Years Hits Appro
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFRPQ0w0ODZSemFFenVSYVM4ZUVVdndhVi1yLTNYTWhqVFBYZEdjbjFJbTBueDZhYUpqNmR2amR5bkJHbko3Nm5xci1raHktWjhacGxBd3BfNnN2elYtNVMxOEhtalRSSWx0ZXpoMXppTjg1TmcxMDlTVDNoUWdGVXp6NTV1SkVhZjh1ejE5UWJDUGZxLTB5MGhQSGNCRmxtWURFb2ZtZUZCZ2tYanpMcHJjMDBpR1ZZdEJNcks3ZXhmWG1oVVHSAc4BQVVfeXFMT3ZLRm1HNFlFdWlvLUhMbTB6SWd0bWczUHM4c1BZNFprNWVXSFZDY0ZyeS1oSGpmMV9MdmV1VEpudlBnQ2Rwd09KcVZwcFJGUkJXZmhnWFQxckZZZzJvd2FPeU9wQ1N1TDBLUHc2MWFlVVVjWkxLT0lhUEJXRHA3T2dOajY5c0xQX2F0WnZtLVJqN3B3VjM1Vk1zVmFOR0E0T0RYR1BEY1N6cnVzNEkyZ3NrOVl6RERESy1xUzN6eENrdDF5czRtcFlvY1ZnWWc?oc=5
 
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+- Baby boom over, India's population test begins now - The Times of India
+  The Times of India reports that India's population
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
 
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- Bangladesh says it foiled multiple attempts by India to force people into the country - The Hindu
+  Bangladesh says it foiled multiple attempts by India to force
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmd1SlZKSktaMDIwRUNHdngxTF9KWG1MbzVSdWpxaC1pMlluTHVYaDR5T3JtREpXcUFhWWZsckdjZXVWSFh3NWpjZnNKYjN2UGNxbWtmZXVpZi1HZ2lTVU5SeTdlWTh4NWFwQ2s5dU1RY2JYSHhHOFdfODBjaG9qLTUyN195MW1UUVdnV2g2dDhxeGdUMzJ3NU5HdVhHZHpoRkVBaExZRDdXUlN6Qm9wQjJKMDFyRDlPNUpkT28zNXZZaHQzd3lPbWFhTmdRb2pjQ2E1ME9SOEtaVWpwd2sxdUNnY9IB6gFBVV95cUxQUGJoMEhtbC1qanNKYXNsY19IZmV4X3gtQ2t6aV9PUy1UMF9WX0VaV04tMjBrV0VEcFUwNjNFcUZVWkJjb19kaVhtVVJxWFlsRXBMRkZKR2hrRXpfXzNBdEt3QjdVSVlBUnhVeHk2SmsxN2txeGFjVkFSU0RLX1QtaF9wODZvV19GVHdYeVR1em42UGw3VHBWUGFmU2hfMFZHNHU0czVwVks3dlJsTjNrNC15UmlLX3hqMXpQQWNLUzJ0QWNVQlphakJ4N0hHTjdVUGJRY3p4Yl9XcjFOTTRENUtQWUlVYXJmN2c?oc=5
 
-- Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
-  Monsoon sets in over Kerala, marking beginning of rainy season in
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
-
-- Weather Live Updates: Southwest Monsoon Arrives In Kerala - NDTV
-  Weather Live Updates: Southwest Mon
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNbFpOb3FSRm5vQXpPS0ZrOFUxakpRcXFfM2ZILWpVMEM3UV8zeTRfaExRNkZWc3B1NENENU92d05VeC1kMnRHTWlDd1NJbWRqa3M5RUFFUXRmcklvc3BGeHNsVW16S2g4b0xkQmxGU21Xano4ZU82OFZJSXIzU2IyUDBqaTdVTnhudWNIcVhEZnVDNVFZOUpmMDVpVVhZNXRoV3VyWjRxOGxGazFkRlRJTjRYWDQ4UGpEY0VuQ3ZGQU40YmN5d2ZMOXppRi1BTXNvX21KbjV5Tm4yQ01NQzdBd3N5LTd0dkY1VTV0ckJxSFVwSE1laXdhSkdGQmUteXlvb1dFMDFHNUl3ajYteWdV0gGXAkFVX3lxTFBCTnhNYVM1WXNNbFRtVmJCeFpuWjRwcGw5TTJRdkhLQXlFUGlPS3NabEpLRXZSR19iZlEzbjdtSWxFZ1JoVUZXVTQyelpvWmYydE9XU1N1aHpTbmZBczVaNWN5VHo4dnRPV2R6dXZMdjBRY2VwNmc3b1ZMYVRtRzJtR3gwSGllT3VEX2xjajc0Q0RqMXJkUk9lcU9RbVMwdTdLbGNnT3hlZXpTYXpZc2pjWHFaV3M0eWUxaE9JVEgtNFFBbTlnelZmWVRoRkZBdm1mQ0RBMUFlX2lTX0w0WG5IZ0x0dXVBa0xQRGl3NmlKR1l2cTl1c2ZFOTNZOVBlaGVYZWdvWUxmal9qaU16dXUwY24tMl8wQQ?oc=5
-
-- Intense storm, rain hit Delhi-NCR, skies turn grey; IMD issues alert | India News - Hindustan Times
-  The IMD has issued an alert for heavy rain in parts of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDdiMi1UQW50NGNsY3ZwMVFlejZTdEVqdy0xZEJFVmU2bXNGY3MxeWdFSkhaX2lFNUxuVWVtdGF5dml0NDBUaVRRaGtRRXdNa05TNVZnd3NVNDJWSV8wWG9hODJodWMxWmYwaDA0SURmSEFESGRsblpPOUU5RnZqa0VJdFJkcW9UWDRwRk1EUmFFUmw1UXRsQmwxVWdQLWRhUzJtSDIxQ1RiUkJPeEF1OU9LWDFCdWF1Rl9sbnFpbDlSOFBLR1pmOVMyUlZTaHFNYnhWdUZRQm9XRjhQR0HSAeMBQVVfeXFMTXBnalQ0bFlBVjl4eGFSMXl5ckoxb2NiNHd1dWxBT2FlbkhMTmlNTS0yTm81bl83dGpoeW1vY0x3bkJRNlhjRndkZ3dpcVZiaTl6VHoxRFd4RF9hM3puX0pUR2t6amJzaVhlRkx2QlB2UDJraDJaMkRra1lyTmd6ZFRibFQ4Q0JFTThpMjdqSFFCVVVGczRPQXFDS1hhaVc5RjREVmFENTRHUVNQcC1faHFwby1qS2kyQTNJVkFDaGhpZVZMYUV6V1dUbTNQT1YyS2k3YkNlNVlxb01kR1BORDF5M0E?oc=5
-
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
-
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- India navigated international energy crisis by diversifying energy sources: Union Minister Piyush Goyal - News On AIR
+  India navigated international energy crisis by diversifying energy sources: Union
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaC02anQ5MGlBZEh4QzdNc0NhU1RJMVg1aXFtX0hiQlRUbTB4aGZwYUx0T3JpRUJaeVlnNExVZXNqVmliSVhWTnBEeVltLXVaMHkzT0IxRkNLaGJVMlZiYW83elBpb0VVMjF6b0t3YUhfWGlCQlZ2dmFobkppWWg3TWdWclJEVXN3WFdKeXJMSWRrcEIySmZlMk5HTWIyRXVhZklmTHhwZFUyaWZiVDl6Z1d2NHAtMng5NFRPSFlwTUdqbkZTZW5v?oc=5
 
 - Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
   Monsoon sets in over Kerala, marking beginning of rainy season in
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
 
-- Weather Live Updates: Southwest Monsoon Arrives In Kerala - NDTV
-  Weather Live Updates: Southwest Mon
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNbFpOb3FSRm5vQXpPS0ZrOFUxakpRcXFfM2ZILWpVMEM3UV8zeTRfaExRNkZWc3B1NENENU92d05VeC1kMnRHTWlDd1NJbWRqa3M5RUFFUXRmcklvc3BGeHNsVW16S2g4b0xkQmxGU21Xano4ZU82OFZJSXIzU2IyUDBqaTdVTnhudWNIcVhEZnVDNVFZOUpmMDVpVVhZNXRoV3VyWjRxOGxGazFkRlRJTjRYWDQ4UGpEY0VuQ3ZGQU40YmN5d2ZMOXppRi1BTXNvX21KbjV5Tm4yQ01NQzdBd3N5LTd0dkY1VTV0ckJxSFVwSE1laXdhSkdGQmUteXlvb1dFMDFHNUl3ajYteWdV0gGXAkFVX3lxTFBCTnhNYVM1WXNNbFRtVmJCeFpuWjRwcGw5TTJRdkhLQXlFUGlPS3NabEpLRXZSR19iZlEzbjdtSWxFZ1JoVUZXVTQyelpvWmYydE9XU1N1aHpTbmZBczVaNWN5VHo4dnRPV2R6dXZMdjBRY2VwNmc3b1ZMYVRtRzJtR3gwSGllT3VEX2xjajc0Q0RqMXJkUk9lcU9RbVMwdTdLbGNnT3hlZXpTYXpZc2pjWHFaV3M0eWUxaE9JVEgtNFFBbTlnelZmWVRoRkZBdm1mQ0RBMUFlX2lTX0w0WG5IZ0x0dXVBa0xQRGl3NmlKR1l2cTl1c2ZFOTNZOVBlaGVYZWdvWUxmal9qaU16dXUwY24tMl8wQQ?oc=5
+- Mid-Air U-Turn: Scandinavian Airlines' First India Flight In 17 Years Hits Approval Snag - NDTV
+   Scandinavian Airlines' First India Flight In 17 Years Hits Appro
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFRPQ0w0ODZSemFFenVSYVM4ZUVVdndhVi1yLTNYTWhqVFBYZEdjbjFJbTBueDZhYUpqNmR2amR5bkJHbko3Nm5xci1raHktWjhacGxBd3BfNnN2elYtNVMxOEhtalRSSWx0ZXpoMXppTjg1TmcxMDlTVDNoUWdGVXp6NTV1SkVhZjh1ejE5UWJDUGZxLTB5MGhQSGNCRmxtWURFb2ZtZUZCZ2tYanpMcHJjMDBpR1ZZdEJNcks3ZXhmWG1oVVHSAc4BQVVfeXFMT3ZLRm1HNFlFdWlvLUhMbTB6SWd0bWczUHM4c1BZNFprNWVXSFZDY0ZyeS1oSGpmMV9MdmV1VEpudlBnQ2Rwd09KcVZwcFJGUkJXZmhnWFQxckZZZzJvd2FPeU9wQ1N1TDBLUHc2MWFlVVVjWkxLT0lhUEJXRHA3T2dOajY5c0xQX2F0WnZtLVJqN3B3VjM1Vk1zVmFOR0E0T0RYR1BEY1N6cnVzNEkyZ3NrOVl6RERESy1xUzN6eENrdDF5czRtcFlvY1ZnWWc?oc=5
 
-- Intense storm, rain hit Delhi-NCR, skies turn grey; IMD issues alert | India News - Hindustan Times
-  The IMD has issued an alert for heavy rain in parts of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDdiMi1UQW50NGNsY3ZwMVFlejZTdEVqdy0xZEJFVmU2bXNGY3MxeWdFSkhaX2lFNUxuVWVtdGF5dml0NDBUaVRRaGtRRXdNa05TNVZnd3NVNDJWSV8wWG9hODJodWMxWmYwaDA0SURmSEFESGRsblpPOUU5RnZqa0VJdFJkcW9UWDRwRk1EUmFFUmw1UXRsQmwxVWdQLWRhUzJtSDIxQ1RiUkJPeEF1OU9LWDFCdWF1Rl9sbnFpbDlSOFBLR1pmOVMyUlZTaHFNYnhWdUZRQm9XRjhQR0HSAeMBQVVfeXFMTXBnalQ0bFlBVjl4eGFSMXl5ckoxb2NiNHd1dWxBT2FlbkhMTmlNTS0yTm81bl83dGpoeW1vY0x3bkJRNlhjRndkZ3dpcVZiaTl6VHoxRFd4RF9hM3puX0pUR2t6amJzaVhlRkx2QlB2UDJraDJaMkRra1lyTmd6ZFRibFQ4Q0JFTThpMjdqSFFCVVVGczRPQXFDS1hhaVc5RjREVmFENTRHUVNQcC1faHFwby1qS2kyQTNJVkFDaGhpZVZMYUV6V1dUbTNQT1YyS2k3YkNlNVlxb01kR1BORDF5M0E?oc=5
+- Baby boom over, India's population test begins now - The Times of India
+  The Times of India reports that India's population
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
 
-- US Trade Team In Delhi, Trump Plans New Tariffs On India Over "Forced Labour" - NDTV
-  US Trade Team In Delhi, Trump Plans New Tariffs On
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNWW5xb2ZFS3pLaW1na1ZsNUprNWkwZEdhSU1pS2pPZVNQQVJDUS1WS0pJUHhCOVh2WGh3MmkwQmFJNVNEcEhlNjRrNEd3djR0bW5pWG0ydjRZUXV6RFNkd2ExRTNtZWIxTy0tV1drbEM0a0hka1lUdTBXbVk0TWNiWXkxaVFrdDdaZkp2QUZFdWJNMFlYQWdmZVhPTnJ3bFgwdDlEUlZwOEJaZnBmeXVxU3VYTmPSAbwBQVVfeXFMT3RqOEk5T2tZS3JMYXJ2VWFEOFV6bUhUS1dtbTBvN2lQbHZJM05BYkh0eTZuNnAxZUxvWnJMamdLV1FjbW0yVkZtc0c2TjVweWpqbnltZEh2bW1pVl9sd1QzeVBqekZrSEpnc1VEX1hFUThSTGpGUnV0US1kYThhc2RDdEtsNmVsOFpMSE1ibDdXbi11bjAzZ3hhVHJ2STA4OUJ5V3dNbmFkNWthemlIcTFWdjUyVWxVbERGTEU?oc=5
+- Bangladesh says it foiled multiple attempts by India to force people into the country - The Hindu
+  Bangladesh says it foiled multiple attempts by India to force
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmd1SlZKSktaMDIwRUNHdngxTF9KWG1MbzVSdWpxaC1pMlluTHVYaDR5T3JtREpXcUFhWWZsckdjZXVWSFh3NWpjZnNKYjN2UGNxbWtmZXVpZi1HZ2lTVU5SeTdlWTh4NWFwQ2s5dU1RY2JYSHhHOFdfODBjaG9qLTUyN195MW1UUVdnV2g2dDhxeGdUMzJ3NU5HdVhHZHpoRkVBaExZRDdXUlN6Qm9wQjJKMDFyRDlPNUpkT28zNXZZaHQzd3lPbWFhTmdRb2pjQ2E1ME9SOEtaVWpwd2sxdUNnY9IB6gFBVV95cUxQUGJoMEhtbC1qanNKYXNsY19IZmV4X3gtQ2t6aV9PUy1UMF9WX0VaV04tMjBrV0VEcFUwNjNFcUZVWkJjb19kaVhtVVJxWFlsRXBMRkZKR2hrRXpfXzNBdEt3QjdVSVlBUnhVeHk2SmsxN2txeGFjVkFSU0RLX1QtaF9wODZvV19GVHdYeVR1em42UGw3VHBWUGFmU2hfMFZHNHU0czVwVks3dlJsTjNrNC15UmlLX3hqMXpQQWNLUzJ0QWNVQlphakJ4N0hHTjdVUGJRY3p4Yl9XcjFOTTRENUtQWUlVYXJmN2c?oc=5
 
-- ‘Encroached territory’: Why India-Nepal border dispute is heating up again - Al Jazeera
-  ‘Encroached territory’:
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlN5b1p3OHpZT2xuN1owY1JTSk5qeC03SmN1c2VDRmt1Z3pEeU5fNGdob281bkRuQkdvR3VFMFoyNTBrWkozRy1lSjBoNGUxLVZwZktyejZsUTlablA3b191Sy1RQmtoUUg5QnFoSWV3YVZfeFM1Tk5RQmtMVjdHb1RkTkNRTzNuOGRkbEJjWk1ra1pDRzQyRWRnbmdNT2ZXS29FRUNpbTDSAa4BQVVfeXFMT2tlZFJ6cnY5d09oRklkWUptNWVrbjhtb0dNY1dQVlFEX2lIbE91cDVhN0J3cTFsYzhXaDFOUy1ZZzFnYUd0dzRBMTI3SU02WjdRRDhoWXJsT3hCMTlWd0xJRXczWnd6MGhXakYyWGpYYlNMS1ltN3lvWnlIZVo0dnBueGtSbXlrNllacFNoZ1JwbTdFeEZKUmJYNWItdUpVektsZnRsME5FcEZPTjN3?oc=5
+- India navigated international energy crisis by diversifying energy sources: Union Minister Piyush Goyal - News On AIR
+  India navigated international energy crisis by diversifying energy sources: Union
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOaC02anQ5MGlBZEh4QzdNc0NhU1RJMVg1aXFtX0hiQlRUbTB4aGZwYUx0T3JpRUJaeVlnNExVZXNqVmliSVhWTnBEeVltLXVaMHkzT0IxRkNLaGJVMlZiYW83elBpb0VVMjF6b0t3YUhfWGlCQlZ2dmFobkppWWg3TWdWclJEVXN3WFdKeXJMSWRrcEIySmZlMk5HTWIyRXVhZklmTHhwZFUyaWZiVDl6Z1d2NHAtMng5NFRPSFlwTUdqbkZTZW5v?oc=5
 
 - Monsoon sets in over Kerala, marking beginning of rainy season in Ind - The Times of India
   Monsoon sets in over Kerala, marking beginning of rainy season in
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1dSc0wwbzc4SnRoZWJrVWc5TTNkNzNkcUlhZS1HYkRZemtucDVndTRGcE03eldleExUaWp5Q1JkZlp1b1FFc090YW9qSnhGV0lic3RYUG8zMklNV2c1RXNuVEFONW1zNWVWMDRYeWJ2OFJzQzNlVmVCb3dvMF82T2MwRW5VYTUtTDAtOTU0Z05xb1JFckNqSjJuSXlTNFQtZTlzaWpJVWdfbXd1Zm1sNGx3cXNzdjQ5TWRLQktwTkFkNVRZVUJNVWVIeWZ5dGdRdWfSAdcBQVVfeXFMTTVBVG1ZV3c1STN2Z2NMM0VSVmJVckFUQ3V2aW84ZGh1V055Q1VxWHlEdzZEOFlnYmtxdWswWEhhX3ZrU1FCNzRuS2U3MzdpbGU3cVVvVFpSakVVM21EWG5LdXRLVXRScVNUTHpMTm9TZjU2WU1hVmdmX0VfOHlGYmZ2WUk1dVd6empLdDdlenQ1RkZmcFhKZnJYdEJQc1F3NFcyX0pWTllIYzBkZ3h1aFkwTm1lN0xnd2k4bno3a0tuMlFMLWF3ZUZQbkt3anJydVZULXExMlE?oc=5
-
-- Weather Live Updates: Southwest Monsoon Arrives In Kerala - NDTV
-  Weather Live Updates: Southwest Mon
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxNbFpOb3FSRm5vQXpPS0ZrOFUxakpRcXFfM2ZILWpVMEM3UV8zeTRfaExRNkZWc3B1NENENU92d05VeC1kMnRHTWlDd1NJbWRqa3M5RUFFUXRmcklvc3BGeHNsVW16S2g4b0xkQmxGU21Xano4ZU82OFZJSXIzU2IyUDBqaTdVTnhudWNIcVhEZnVDNVFZOUpmMDVpVVhZNXRoV3VyWjRxOGxGazFkRlRJTjRYWDQ4UGpEY0VuQ3ZGQU40YmN5d2ZMOXppRi1BTXNvX21KbjV5Tm4yQ01NQzdBd3N5LTd0dkY1VTV0ckJxSFVwSE1laXdhSkdGQmUteXlvb1dFMDFHNUl3ajYteWdV0gGXAkFVX3lxTFBCTnhNYVM1WXNNbFRtVmJCeFpuWjRwcGw5TTJRdkhLQXlFUGlPS3NabEpLRXZSR19iZlEzbjdtSWxFZ1JoVUZXVTQyelpvWmYydE9XU1N1aHpTbmZBczVaNWN5VHo4dnRPV2R6dXZMdjBRY2VwNmc3b1ZMYVRtRzJtR3gwSGllT3VEX2xjajc0Q0RqMXJkUk9lcU9RbVMwdTdLbGNnT3hlZXpTYXpZc2pjWHFaV3M0eWUxaE9JVEgtNFFBbTlnelZmWVRoRkZBdm1mQ0RBMUFlX2lTX0w0WG5IZ0x0dXVBa0xQRGl3NmlKR1l2cTl1c2ZFOTNZOVBlaGVYZWdvWUxmal9qaU16dXUwY24tMl8wQQ?oc=5
-
-- Intense storm, rain hit Delhi-NCR, skies turn grey; IMD issues alert | India News - Hindustan Times
-  The IMD has issued an alert for heavy rain in parts of
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDdiMi1UQW50NGNsY3ZwMVFlejZTdEVqdy0xZEJFVmU2bXNGY3MxeWdFSkhaX2lFNUxuVWVtdGF5dml0NDBUaVRRaGtRRXdNa05TNVZnd3NVNDJWSV8wWG9hODJodWMxWmYwaDA0SURmSEFESGRsblpPOUU5RnZqa0VJdFJkcW9UWDRwRk1EUmFFUmw1UXRsQmwxVWdQLWRhUzJtSDIxQ1RiUkJPeEF1OU9LWDFCdWF1Rl9sbnFpbDlSOFBLR1pmOVMyUlZTaHFNYnhWdUZRQm9XRjhQR0HSAeMBQVVfeXFMTXBnalQ0bFlBVjl4eGFSMXl5ckoxb2NiNHd1dWxBT2FlbkhMTmlNTS0yTm81bl83dGpoeW1vY0x3bkJRNlhjRndkZ3dpcVZiaTl6VHoxRFd4RF9hM3puX0pUR2t6amJzaVhlRkx2QlB2UDJraDJaMkRra1lyTmd6ZFRibFQ4Q0JFTThpMjdqSFFCVVVGczRPQXFDS1hhaVc5RjREVmFENTRHUVNQcC1faHFwby1qS2kyQTNJVkFDaGhpZVZMYUV6V1dUbTNQT1YyS2k3YkNlNVlxb01kR1BORDF5M0E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-04 09:52:31 UTC_
+_Last updated: 2026-06-04 14:49:39 UTC_
