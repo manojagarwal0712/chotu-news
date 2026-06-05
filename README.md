@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- 2 years in captivity: Odisha teen was looking for job to pay for mother’s surgery, but local man trafficked her to UP
+- PFI ‘sinister organisation’, its activities could’ve caused civil war in India: NIA to court
   
-  🔗 https://indianexpress.com/article/india/2-years-in-captivity-odisha-teen-was-looking-for-job-to-pay-for-mothers-surgery-but-local-man-trafficked-her-to-up-10724556/
+  🔗 https://indianexpress.com/article/india/nia-pfi-delhi-court-civil-war-charges-rss-argument-10725556/
 
-- RBI Monetary Policy Meeting June 2026 LIVE: Governor Sanjay Malhotra to announce decisions on repo rate, key policies amid Iran war
+- Plastic currency notes in India soon, says RBI, as cash sees a surge
   
-  🔗 https://indianexpress.com/article/india/rbi-monetary-policy-meeting-mpc-june-2026-live-updates-sanjay-malhotra-repo-rate-inflation-10724578/
+  🔗 https://indianexpress.com/article/india/rbi-governor-malhotra-plan-polymer-currency-notes-india-cash-10725292/
 
-- India has more cities in the world’s 50 most heat-vulnerable list than any other country
+- Couple among 3 dead, homes set ablaze in attack on Kuki village in Manipur
   
-  🔗 https://indianexpress.com/article/india/india-has-more-cities-in-the-worlds-50-most-heat-vulnerable-list-than-any-other-country-10724575/
+  🔗 https://indianexpress.com/article/india/couple-among-3-dead-homes-set-ablaze-in-attack-on-kuki-village-in-manipur-10725282/
 
-- Among 21 who perished in South Delhi fire | ‘Can’t forget her screams’: TISS postgrad, new job, a life cut short
+- Rahul Gandhi targets Centre over GNI project in World Environment Day post, urges youth to oppose it
   
-  🔗 https://indianexpress.com/article/india/among-21-who-perished-in-south-delhi-fire-cant-forget-her-screams-tiss-postgrad-new-job-a-life-cut-short-10724646/
+  🔗 https://indianexpress.com/article/india/rahul-gandhi-targets-centre-over-gni-project-in-world-environment-day-post-urges-youth-to-oppose-it-10725253/
 
-- Army chief General Upendra Dwivedi: Accelerating absorption of drones, better command systems
+- Delhi fire: Hotel owner was arrested last year in fake passport case linked to Bangladeshi nationals
   
-  🔗 https://indianexpress.com/article/india/army-chief-general-upendra-dwivedi-accelerating-absorption-of-drones-better-command-systems-10724645/
+  🔗 https://indianexpress.com/article/india/delhi-fire-hotel-owner-was-arrested-last-year-in-fake-passport-case-linked-to-bangladeshi-nationals-10724995/
 
-- Rare Sahara meteorite may reveal a lost planet from early solar system
+- Substack rolls out new ‘Reply Rules’ feature to help creators manage responses
   
-  🔗 https://indianexpress.com/article/technology/science/rare-sahara-meteorite-may-reveal-a-lost-planet-from-early-solar-system-10724277/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/substack-rolls-out-new-reply-rules-feature-to-help-creators-manage-responses-10725507/
 
-- Mars orbiter MAVEN goes silent for good, Nasa ending a decade-long mission
+- Google lays off Cloud, cybersecurity staff as Big Tech doubles down on AI investments
   
-  🔗 https://indianexpress.com/article/technology/science/mars-orbiter-maven-goes-silent-for-good-nasa-ending-a-decade-long-mission-10724278/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-lays-off-big-tech-ai-job-cuts-10725339/
 
-- Tech and gadget updates today (June 4, 2026): Sony WH-1000XM6, Motorola Edge 70 pro+, and more
+- Apple announces Poke as its 1st AI agent on Messages for Business platform
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-updates-today-june-4-2026-sony-wh-1000xm6-motorola-edge-70-pro-and-more-10724157/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-announces-poke-as-1st-ai-agent-on-messages-for-business-platform-10725256/
 
-- Wildcat Lake could be Intel’s strongest response yet to Apple’s budget MacBooks
+- YouTube Premium vs Premium Lite: A look at what each plan offers
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/wildcat-lake-could-be-intels-strongest-response-yet-to-apples-budget-macbooks-10724158/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-premium-vs-premium-lite-a-look-at-what-each-plan-offers-10725228/
 
-- Why headphones, gaming consoles sold in EU could get easily replaceable batteries by 2027
+- Meta brings AI creator assistant to Facebook with tailored insights for creators
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-smartphones-wearables-eu-replaceable-batteries-2027-10724057/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-brings-ai-creator-assistant-to-facebook-with-tailored-insights-for-creators-10725058/
+
+- Bluestone eyes 5x rise in revenue as rising affluence to buoy everyday use jewellery buys
+  The jewellery retailer is also converting its existing network of franchise-owned stores to company ownership.
+  🔗 https://www.livemint.com/companies/bluestone-revenue-aim-jewellery-personal-luxury-titan-caratlane-diamond-jewellery-11780643351285.html
+
+- Blackstone-backed Australian company AirTrunk to invest $30 billion for 5 GW digital infrastructure in India—All we know
+  Blackstone-backed, Australian data centre company AirTrunk plans to invest over $30 billion (more than  ₹3
+  🔗 https://www.livemint.com/companies/news/blackstone-backed-australian-data-centre-company-airtrunk-to-invest-30-billion-5-gw-digital-infrastructure-india-2030-ai-11780644161370.html
+
+- Actors union approves 4-year contract with studios and streamers
+  Actors' union
+  🔗 https://www.livemint.com/companies/actors-union-approves-4-year-contract-with-studios-and-streamers-11780639235690.html
+
+- Tata Steel targets repayment of overseas debt over next two years as deleveraging takes centre stage
+  The steelmaker plans to repay  ₹16,629 crore of overseas debt by 2028.
+  🔗 https://www.livemint.com/companies/tata-steel-targets-zero-overseas-debt-in-two-years-as-deleveraging-takes-centre-stage-11780592840782.html
 
 - AI needs brake pedal: Anthropic's Jack Clark warns AI could soon build itself, says 'I am worried for my kids'
   Anthropic co-founder Jack Clark warns AI is approaching the ability to build its own
   🔗 https://www.livemint.com/companies/people/ai-needs-brake-pedal-anthropics-jack-clark-warns-ai-could-soon-build-itself-says-i-am-worried-for-my-kids-11780624050931.html
 
-- Companies are now cutting worker pay to fund AI investment- Teradata, TTEC slash employee benefits as AI spending surge
-  Teradata has frozen annual salary raises and TTEC has paused retirement benefits to fund AI spending. Experts
-  🔗 https://www.livemint.com/companies/news/companies-are-now-cutting-worker-pay-to-fund-ai-investment-teradata-ttec-slash-employee-benefits-as-ai-spending-surge-11780618619138.html
+- Expert view: FII selling more like a stampede towards AI than exodus from India, says Pradeep Gupta of Anand Rathi
+  History suggests that foreign flows typically return when valuations become more compelling. That can happen through a market correction, through a period of earnings catching up with prices, or through some
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-fii-selling-more-like-a-stampede-towards-ai-than-exodus-from-india-says-pradeep-gupta-of-anand-rathi-11780648357559.html
 
-- India growth story intact, AI not a bubble yet, Citi’s Aloke Gupte says
-  Rupee depreciation is a big factor people consider, says Aloke Gupte, Citigroup's co-head of global equity capital markets. Anyone running a global portfolio looks at returns on a dollar basis
-  🔗 https://www.livemint.com/companies/citigroups-ecm-head-aloke-gupta-on-indias-role-in-the-ai-race-ipo-pipeline-fii-retreat-11780573543746.html
+- Meesho share price jumps after falling for eight straight sessions. Choice sees more upside
+  Mesho stock opened at  ₹166.46 apiece today, as compared to the previous closing price
+  🔗 https://www.livemint.com/market/stock-market-news/meesho-share-price-jumps-after-falling-for-eight-straight-sessions-choice-sees-more-upside-11780644560727.html
 
-- India plays large role in AI era of Windows: president Davuluri
-  Windows chief Pavan Davuluri says India contributed significantly to the operating system’s new
-  🔗 https://www.livemint.com/companies/news/india-plays-large-role-in-ai-era-of-windows-president-davuluri-11780563964629.html
+- Polymer currency notes proposal under consideration, says RBI Governor Sanjay Malhotra
+  Malhotra said the consideration was still at a preliminary stage and the central bank was examining its pros and cons.
+  🔗 https://www.livemint.com/market/stock-market-news/polymer-currency-notes-proposal-under-consideration-says-rbi-governor-sanjay-malhotra-11780647512433.html
 
-- Google layoffs 2026: Cloud division cuts hit Threat Intelligence and Mandiant staff, says report
-  Google has laid off workers across its Cloud division in June 2026. The move affects the Threat Intelligence Group and Mandiant
-  🔗 https://www.livemint.com/companies/news/google-layoffs-2026-cloud-division-cuts-hit-threat-intelligence-and-mandiant-staff-says-report-11780617008381.html
+- Goldman Sachs invests  ₹210 crore in Groww; shares rise 4%
+  Goldman Sachs purchased 1,13,43,750 shares of Groww on 4 June. Friale Fund IV LLC, meanwhile, sold the shares of the company.
+  🔗 https://www.livemint.com/market/stock-market-news/goldman-sachs-invests-rs-210-crore-in-groww-shares-rise-4-11780646299201.html
 
-- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends 3 stocks to buy today amid RBI policy - 5 June 2026
-  Chandan Taparia has recommended three stocks to buy today, 5 June 2026. BSE
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-3-stocks-to-buy-today-amid-rbi-policy-5-june-2026-11780625092436.html
-
-- Stocks to watch: Tata Motors, ICICI Bank, Groww among shares in focus today; check list here
-  The Gift Nifty index signalled a negative opening for the Indian stock market on Thursday. Amid this backdrop, these stocks will
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-motors-icici-bank-groww-among-shares-in-focus-today-check-list-here-11780624607845.html
-
-- Buy or sell: Gift Nifty signals muted start, Vaishali Parekh recommends 3 stocks to buy before RBI MPC meeting outcome
-   Vaishali Parekh recommends three stocks to buy today
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-3-stocks-to-buy-before-rbi-mpc-meeting-outcome-11780621579932.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 5 June ahead of RBI policy
-  Gift Nifty was trading around 23,521 level, a premium of nearly 9 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-5-june-ahead-of-rbi-policy-11780623562823.html
-
-- Asian markets today: Kospi tanks 6%, Nikkei falls as AI-led rally cools, US-Iran war worries linger
-  South Korea’s Kospi index tumbled 5.7%, led by steep losses in
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-kospi-tanks-6-nikkei-falls-as-ai-led-rally-cools-us-iran-war-worries-linger-11780622909373.html
+- CMR Green Technologies IPO Day 3: GMP, subscription status, other key details. Should you apply as bidding ends today?
+  CMR Green Technologies IPO price band is set at  ₹182 to  ⁹192 per share, and the IPO lot size is 78 shares. At the upper end of the price band, the company aims to raise
+  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-day-3-gmp-subscription-status-other-key-details-should-you-apply-as-bidding-ends-today-11780645471056.html
 
 - Anthropic says AI labs need coordinated plan to halt development if risks rise
   Anthropic says AI labs need coordinated plan
@@ -100,85 +100,65 @@
   Latest leak reveals that iPhone 18 Pro could offer only minimal upgrade in battery life over its predecessor. However, there are still 3 reasons why the phone could
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-battery-leak-looks-disappointing-but-these-3-upgrades-could-change-the-story-11780550600836.html
 
-- Oil Price Today (June 5): Crude oil holds ground as Iran peace deal uncertainty lingers. Where are prices headed?
-  Both Brent and WTI crude benchmarks are on track for their first weekly gain in three weeks. Hopes for a quick resolution to the U.S.-Israeli conflict with Iran diminished after Hezbollah rejected a new ceasefire proposal
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-5-crude-oil-holds-ground-as-iran-peace-deal-uncertainty-lingers-where-are-prices-headed/articleshow/131519567.cms
+- Dow surges nearly 900 points for record close as investors rotate away from tech names: Live updates - CNBC
+  Dow surges nearly 900 points for record close as investors rotate away from tech names. S&P 500 futures tick up as Wall Street awaits jobs report.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUxKR095WHZhYlM0cDdQcE9xRHJ6NVA3SjRKTl9QSFdwdC1iUVhwLXMxaGpJYUtYbjFjdDJNRVpuYjM2VHBkQlkwYVozQko5Q1dQZ1dHYW1QeHpyMmhvQTAySmNkX2owYjljRWxTYzZ2SmFaVUtJ0gF8QVVfeXFMT1Z0UllXcC1CSFl4NjFiMnVFY0R2aVdyMFR4Zld2SkxBWDBlckZhUk9SUTB5UUNxUER4Z3R1WWk1UXBxNUNkY0psSGFfQWg0c1pReDdUYmxpZ3ZCOGRuV2czQjhzZF9KdEFWM0lxT3hPZ2xSb2I0RXVtbFNRdQ?oc=5
 
-- Positive Breakout: These 11 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily time frame,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-their-200-dmas/slideshow/131519546.cms
+- Sensex Today | RBI MPC Stock Market Live: Sensex falls over 250 pts, Nifty below 23,400; metal stocks sli... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxQaVIzeXRGeUFpTGdncm12YUtuaDZHUVNUNVEyX2xKZy1ZZURDdkxxVXpiSURoc0NQMHA3RVM4ZkxzQmxUSzhZRnkyV1M5RUpjV1llU0dPemZNQ0VPVjNJTFdnZ1lpbmtTY2
+  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQaVIzeXRGeUFpTGdncm12YUtuaDZHUVNUNVEyX2xKZy1ZZURDdkxxVXpiSURoc0NQMHA3RVM4ZkxzQmxUSzhZRnkyV1M5RUpjV1llU0dPemZNQ0VPVjNJTFdnZ1lpbmtTY2MyWC1ZUHhJbVBUcnV3MnhaemRrMEJEV2JWS1FLYzZ3MEJaN3o2N3hwOG1JU25zc3l3eThPazlUVU1kdWN1SnU1dzVzeU1DUWdmdjBkNk1pM2RleGpvMFphOFBZSUNVNkhTaVdWQ2J4WWtZblFfYmRMc2hmT3FhUXo3dlM3TUVnUmZDV19aU1o2TXM1WWtHTlBFS3RfSEY0QVZEbjFubWlmcWlxakhrZ0x30gGXAkFVX3lxTFBoQUZaQWFCUm12S3dobTRzMXFaTTg0Y0o0SWpMeno3aVRMRFRpS2dyamxLRVBGV0VMZ2ZJbUU2UEVMVzZMbld5b3VabmluYVJkTWVEVVE3WDJtZlk3RVB2U1h1ZzFCV0Yxd3BoVnJKbWJfX3lmVWtWSTl3Y2cyVWtCWlo4UGpqWUM3NVl6RWFsOXFxZjM1YkRndlpDZWNVZW1PblVIcnlTV0FJRHo5VnVZMWxQMV9yYzVaQzBRcTluWmtKVzFFUGNqMnMzbG1QUTNRT2pkbk16XzBOWUJwV2tQYXZjekFjdHl1anU4THpzOHZmdC1vVE5wSzdSVVlzUjdiQ2h3VG9NUUtqbTltbVVuYVMzTUpoQQ?oc=5
 
-- Gold slips, set for weekly loss on Mideast tensions, rate-hike fears
-  Rising inflation and potential interest rate hikes by the US Federal Reserve also weighed on the precious metal. Investors now await crucial US jobs data to gauge the Fed's next move.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-set-for-weekly-loss-on-mideast-tensions-rate-hike-fears/articleshow/131519460.cms
+- Japan PM Says Government Needs More Careful Communication With Market - Bloomberg.com
+  Japan PM Says Government Needs More Careful
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVJmcEJWdDhtTEJJUkRIdE16dnFhMEZtUkJZVjNfb3J5dDVFRWJVbjVGM1d3MEctY3NSZW9EZk85M2oxTFUyYThxdVZxa01ZeVp6R2VZVk5iVkx1dG1ObjBWNWR5UllsNGpweFVIS1M5bm1wcGZUMDJ0ZVYxQm8tRVBKMm4yU0Y5S1JNNTBvSFZnbHJLbDU3WWlwakY2WjU1eGJmSUhHOTRMMmUwN0E?oc=5
 
-- Yen hits key 160 level for third session, dollar buoyed by Gulf woes
-  The Japanese yen is nearing a critical 160 per dollar level, prompting warnings of decisive action from Tokyo. The U.S. dollar is strengthening due to safe-haven demand amid escalating Gulf tensions.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/yen-hits-key-160-level-for-third-session-dollar-buoyed-by-gulf-woes/articleshow/131519436.cms
+- India makes big moves to attract foreign investments in bonds: How will this impact stock market? - The Economic Times
+  India makes big moves to attract foreign investments in bonds. How will this impact stock
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQnRmaHlEcVVlTzdKcGZjamJTVWZQbUV5WWQ0Vzgwa2RJSW1VQVJpN2xqVzlwd0w0MF9sTmpzRlZlUE04SWZzc0lTYUVDamVDcHdwblZxRkZDQUZUa1lzbUFfMko5WXU2cEFCUXN2SFhhYVAwSmFYcVlsejZvZDJjbXNPMmJOR09aMmE0MTRnc2tUN0hVTGQ4SFVyT0E3cHNMcGlKYjNjZWtLdFNDNERJSXFsSHEtMmJmS3VLdVEyTDQ1aDRrQUloWUt3dElhZnZvbm4wcjhfcHJQYmJ2aWhaTElVbmRrUWlOT3BxQUZzQ2pYUVlScnFIcFZHN1BoUdIBgwJBVV95cUxQM1RoWGJ6Qm8xekFnbVp1NUh5UC01emtuSFRtWHhRQXBjOE53VXJNWUhLTjNiZ2ZwTUN4ZWUzcGt0WU81Y0p0UGRzelNaRWNyUkZNTXR0RThvNjRiLTZpaDJVcGF0a2lxS1hlbDRMeU5vS0MtYlRMdWwtckVxYmdLM2x2UUxYR3ZtRHZMYXFlM3VHX2U3MC1zUjIzS1JaLXkwLVRwdm9hQWw0Tmk1ZHJJTXJESXI5SzhjX1pSZGtZN1JLVnlzQU1xU3Rsc00taHMzMmdVakxFTjRpM2F4cksxWWpPZWFqdWxTbldpTmlWS1RaZFR6MVRQUWJ2eG9NR1lXOWg0?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-icici-bank-share-price-05-june-2026/liveblog/131519369.cms
+- SCENARIOS How Indian markets could react to RBI's policy call - Reuters
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmRTMmxfdXRBd012LXZOYUFYY1hyTXB3YWRScTRBVldFR0d3T3pQdlVZX3N2S2lkV1ZYVlhLS3RPUjNyY282ZVFFX2FhQ2VKc3ZmdmlNRVZROEVUYnVfZ0J5TFNISVJaemJIbm1SQWlMalg0UTJieHpZOUNiN2VpTXh6VzlHSC1BdlVIWURZcFdjazBLdUNYa1ZTbw?oc=5
 
-- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
-  India's Big Move To Attract Foreign Investment
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
+- LIC buys Maruti Suzuki shares worth Rs 68 crore, insurer's stake in automaker crosses 5%
+  LIC increased its stake in Maruti Suzuki above the 5% threshold after purchasing 51,750 shares through a market transaction. The move comes amid a decline in the company's stock this year.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lic-buys-maruti-suzuki-shares-worth-rs-68-crore-insurers-stake-in-automaker-crosses-5/articleshow/131527163.cms
 
-- Baby boom over, India's population test begins now - The Times of India
-  The Times of India reports that India's population
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
+- European shares slip as Mideast tensions linger; tech stocks pause rally
+  The pan-European STOXX 600 index edged 0.2% down to 623.10
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/european-shares-slip-as-mideast-tensions-linger-tech-stocks-pause-rally/articleshow/131527098.cms
 
-- Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming home for family wedding - The Hindu
-  Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMkxCb1hoNGhqY053TEdJNkRZbUNOOXV5cFBFNmQ3cUlXZ1JfRkRmRnIyMGRpSmU1Tkx5WjlCNm5Lbk12cElKajV4QkRlZ1dvdGtkdlVObHR2NzlaMUVQX1RpT2hQOFFXUjBxREZsTm5SYjV2TTktTm5XcTR5a0VDRV95RWRROEpsU2s2X3AwZnU5NEtOVGtLWDk1WWV0STBEeHA3emMzcmVNeUhyWjZyRG1KM0VuYzlnT25VTlVNU2VkWU1lQllDZHlfb202cko3ekpubm9PQndKSkdJRldCUFNoVDR3WWlMM3p3Q0VZWWhNWDMzLW5yY3FGbFBYSUpnQk5qOTdsdkNsaHfSAZICQVVfeXFMTmNWZjJHbWJ0M0RxNzRYSHcyRlFBMjBBZDJFSWN5Skxwc2NWNF9EN2RkbDFaZmRseEpSbVNfMy1TNk9OV0VLQXBwX0NDaGZzejFMdl9ta2hfb0VOVVFJUUxMNDlEaEFVNjkzcjRTbHcyM0xLTG81ejFJdVVjal92eXFXcHRQdVBEWGZtd1VmekFrRkNUUERzUkN6anplR0ZCa0NDaVhBRWFpc0Y2aHZCUzlBOFBWT2tDa215SnotbEFXejNCZGo2S2lnNHBuNlZRZThGdkFvaXR3SkZHN01scTZyODVISW9RZ2MzNVBKejJKejR2aWFJcnl4NmRRZ2IzVFhLb3NqenNseGg4bkptRG1oQQ?oc=5
+- R Gandhi calls RBI policy 'on expected lines', sees no immediate rate hike risks
+  The Reserve Bank of India has maintained its neutral policy stance and kept interest rates steady. The central bank has adjusted its forecasts for economic growth and inflation.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/r-gandhi-calls-rbi-policy-on-expected-lines-sees-no-immediate-rate-hike-risks/articleshow/131526672.cms
 
-- USTR delegation concludes four-day India visit, advances talks on bilateral Trade Agreement - News On AIR
-  USTR delegation concludes four-day India visit, advances talks
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lmSHlSWGdHbU5kbzdlSm9BcWU0NjJXZXZvTlhjMHoyRkJsckhCRFNlY1FibVBLYnRxbjJFR0dnWkFhV1EzcWtneXdmeTBlSVBKd2oyd0VBV2p3eTU1cmE2T1JhZXJvREtvTDR2TEtHVGkteU1aVlNnZ2JaMnAwVXZ5cWNIM01mMW04MWt1djhjNS1BRjRzLURfZ1FPNndnSU1FRFFJaUpFb2l1eUNDOHkwQUJndWs?oc=5
+- Tata Steel shares fall 3% after fire breaks out at UK’s Port Talbot plant
+  Tata Steel shares dropped nearly 3% after a fire at its Port Talbot plant in the UK.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-fall-3-after-fire-breaks-out-at-uks-port-talbot-plant/articleshow/131526036.cms
 
-- India-Born Entrepreneurs Behind 96 US Unicorns, Largest Among Immigrant Founders: Report - NDTV
-  India-Born Entrepreneurs Behind 96 US Unic
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXZnbEtRRmtaVTN1WnhwVVp6ZDhOYkNsenM3ek90MnI5THdNVG9hb2JSZDdjUUxVaHFuZW9LdDNTMlZxQnNDanYzekkzRHNDbW1Cc05XMElSa1c4eDVMbGFNUDY5cDM1R3BwYjNXTThHLVFTQVk5cGNlTjh0Z2FpZnE3WTdjV0U4b2QxaXBUMkctMjlGLU9PdG5MRGRmd3FOUXBsVXNVb0lzZ1A5STdKbUMyb1A5Q19POWxETGFKeFV0NG9s0gHMAUFVX3lxTE1NTU5lQlNCWU0tXzNoaE1TVU5KZld4QjBpRllOenRoUWtHNGVPQ2NqZnJjVTNjX1p6ZFZMekNtSmxNX28yY2VfTUlPX0hHQnBMY2pDNG5tVjRISE5iNkJYeDVOUldHaFhEV0Vxa2xEbkFuM3lzendONndCS2IwQ0trNUFoel9CU2JaNU9XVXp2dG92SmZtMmlJWDVzRHFQbG10enZoYldHVWQteXpCMVMzTm5ZckUzZHQ1Q0NhWHk5U0RZV0JPek9mUFZ0dA?oc=5
+- India’s AI gap keeps global investors away, but valuations are turning attractive: Punita Kumar Sinha
+  India is currently sidelined from the global AI investment boom due to its lack of semiconductor manufacturing. Punita Kumar Sinha believes value is emerging, with domestic themes and earnings growth offering long-term potential
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-ai-gap-keeps-global-investors-away-but-valuations-are-turning-attractive-punita-kumar-sinha/articleshow/131525958.cms
 
-- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
-  India's Big Move To Attract Foreign Investment
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
+- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
+  "PM Modi A Good Friend": Trump's Big
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
-- Baby boom over, India's population test begins now - The Times of India
-  The Times of India reports that India's population
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
+- Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC
+  Donald Trump confident of India trade deal, calls Narendra Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5
 
-- Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming home for family wedding - The Hindu
-  Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMkxCb1hoNGhqY053TEdJNkRZbUNOOXV5cFBFNmQ3cUlXZ1JfRkRmRnIyMGRpSmU1Tkx5WjlCNm5Lbk12cElKajV4QkRlZ1dvdGtkdlVObHR2NzlaMUVQX1RpT2hQOFFXUjBxREZsTm5SYjV2TTktTm5XcTR5a0VDRV95RWRROEpsU2s2X3AwZnU5NEtOVGtLWDk1WWV0STBEeHA3emMzcmVNeUhyWjZyRG1KM0VuYzlnT25VTlVNU2VkWU1lQllDZHlfb202cko3ekpubm9PQndKSkdJRldCUFNoVDR3WWlMM3p3Q0VZWWhNWDMzLW5yY3FGbFBYSUpnQk5qOTdsdkNsaHfSAZICQVVfeXFMTmNWZjJHbWJ0M0RxNzRYSHcyRlFBMjBBZDJFSWN5Skxwc2NWNF9EN2RkbDFaZmRseEpSbVNfMy1TNk9OV0VLQXBwX0NDaGZzejFMdl9ta2hfb0VOVVFJUUxMNDlEaEFVNjkzcjRTbHcyM0xLTG81ejFJdVVjal92eXFXcHRQdVBEWGZtd1VmekFrRkNUUERzUkN6anplR0ZCa0NDaVhBRWFpc0Y2aHZCUzlBOFBWT2tDa215SnotbEFXejNCZGo2S2lnNHBuNlZRZThGdkFvaXR3SkZHN01scTZyODVISW9RZ2MzNVBKejJKejR2aWFJcnl4NmRRZ2IzVFhLb3NqenNseGg4bkptRG1oQQ?oc=5
+- US-Israel-Iran War News Live Updates: Israel army warns of imminent strikes against Hezbollah in Lebanon's Sarafand - The Times of India
+  Israel warns of imminent strikes against Hezbollah in Lebanon's Sarafand.
+  🔗 https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLTRXMXl5a0J1WHA3N3RLNko5VEpvczN4cWRxd3BzaFpZWFFkVUZEUzdtbHRlSDh1TXE4bkF1YjdRNVJPd1lYSDRxQzYwby10QWpyRXJaVFgwZ0c1MDRFeWZMRXkxUk10QktLcjRYLXI5U1pvVDhSWVhEenlBdm8tcF9Dbnc4OGxqUHNiTXgxa3RWVnJIOGtXenRrTXVENXBhaGpDcENOOW1jVjRtM1VwSDUzT251V1BsWXBuMWt0Y3FKdmF2V3FVSGFWWUEwYTZuMGZ1WVJiYnhYYldXbXFnZi1Pcl94VENGc1Vud0FDM0Nja0ZOT0R1dkkwRkQwT0Zrb1QzRzYycGZGNzN2ZXduX2JOdW1nTmtwOHlodGh6WVBiMHB6dXIwdGdvTC0tMzRhR18yTlpkbmZpVFVHc2xuQlU4NNIByAJBVV95cUxNSkVqUFlZUkFNLWhlTEZOaWNla3dnbTBXRV84cE9LbFNqcG1kNk5LY3l1ZzB2RUg2MGh3YVZ0QkJjTjlwWmRjMHU0a3JhbEd1NlpYelVIODFDMnJ4eVNVV3kyMXcwTkkxLXIzb3ZOUUYwLTdTcmhnU1RJaVN0T3AzUzhKWGVYRWlQSElsVGlqTzhzM1pyNWRBQnFtZkFwTVljTkstWGFkd01HdlVSb3I4YTRybU55SlRuSGZwUjhDNHFONnVCYlQ0X2tBTzNBV3BrYzNuRUp1N0JTX0xtR3hjUWdFTWZNX0h3aHVpRHpQdUxZdnVTbzRxa3M3MWRwbC1OZDI3S3V2WXhabnZJQ3EyX2tMWThiRkJoQVV3X1JmTDRNdktOekdrTTR5QjlOaHpyVFBJUVRuY3BjTkt1SnJoVUpZZXZIaHpm?oc=5
 
-- USTR delegation concludes four-day India visit, advances talks on bilateral Trade Agreement - News On AIR
-  USTR delegation concludes four-day India visit, advances talks
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lmSHlSWGdHbU5kbzdlSm9BcWU0NjJXZXZvTlhjMHoyRkJsckhCRFNlY1FibVBLYnRxbjJFR0dnWkFhV1EzcWtneXdmeTBlSVBKd2oyd0VBV2p3eTU1cmE2T1JhZXJvREtvTDR2TEtHVGkteU1aVlNnZ2JaMnAwVXZ5cWNIM01mMW04MWt1djhjNS1BRjRzLURfZ1FPNndnSU1FRFFJaUpFb2l1eUNDOHkwQUJndWs?oc=5
+- PM Modi welcomes AirTrunk's Rs 3 lakh crore investment plan in India, highlights digital economy push - The Times of India
+  PM Modi welcomes AirTrunk's Rs 3 lakh crore investment plan in India.
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNN2JfMXRYbUotdHgzNTc4cUNacExFdTNuM0hqbE9Nc3FKdFN6MndZTnd3VVN1REktcDNZSDAzQVdkdWd6ZW5iXzgyZnhWQnE4SnFqUDZXZ2E5bE5ROVZuakJCbG9rVC0tV1prXzNZMnROQVFYdHVZUEJ6bEQwWW1GTm1KYUhyZWdIYUxUeVhmcGxuQ096R0Q5SzcwNkNaUm9LajMxUzliU3kxZ2F6NnV5Sk96LWcteHRac0pyMU44WnhtQ0VhLXlEMzdZU1NIQVpiNm9DbFZGMVpLdEczblp4MGo1X3QwTUJhUWVPYkFSY1RaMmlpelpvNWE4c9IBgAJBVV95cUxQQ1Aza3VwQkFObnZ3aFdrTDhGczF0R2x2Umx2bjR4NHJRMDR3RzZ5emhqUFYxTHFxSnZPcl9DVWxjOHZZbW9yZ1FySzJtWEsyVTFyS0NvcVdTR1JGNHU0cUdnRkdJZDUwRnZMc3RISUd2NWUxZUpFWVlfZDIyY0F6VmFzZVk0ZkNvWVVzaHFvVGtQYzV4N0ZQZGdNdG02MXVwcWxnRmNhTVV1N2kyMGo0ZldaLTNuSEVDczlGVkRxV2ltbzJHNTVWRFJyVDZ0UDVuMnBhS0hvUFZ6aDhLVEZRckpVMUkweFViUEx4UlUtQ0M4WUZ4S1lISXFOUWNVMkFE?oc=5
 
-- India-Born Entrepreneurs Behind 96 US Unicorns, Largest Among Immigrant Founders: Report - NDTV
-  India-Born Entrepreneurs Behind 96 US Unic
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXZnbEtRRmtaVTN1WnhwVVp6ZDhOYkNsenM3ek90MnI5THdNVG9hb2JSZDdjUUxVaHFuZW9LdDNTMlZxQnNDanYzekkzRHNDbW1Cc05XMElSa1c4eDVMbGFNUDY5cDM1R3BwYjNXTThHLVFTQVk5cGNlTjh0Z2FpZnE3WTdjV0U4b2QxaXBUMkctMjlGLU9PdG5MRGRmd3FOUXBsVXNVb0lzZ1A5STdKbUMyb1A5Q19POWxETGFKeFV0NG9s0gHMAUFVX3lxTE1NTU5lQlNCWU0tXzNoaE1TVU5KZld4QjBpRllOenRoUWtHNGVPQ2NqZnJjVTNjX1p6ZFZMekNtSmxNX28yY2VfTUlPX0hHQnBMY2pDNG5tVjRISE5iNkJYeDVOUldHaFhEV0Vxa2xEbkFuM3lzendONndCS2IwQ0trNUFoel9CU2JaNU9XVXp2dG92SmZtMmlJWDVzRHFQbG10enZoYldHVWQteXpCMVMzTm5ZckUzZHQ1Q0NhWHk5U0RZV0JPek9mUFZ0dA?oc=5
-
-- India's Big Move To Attract Foreign Investment Amid Iran War: Sources - NDTV
-  India's Big Move To Attract Foreign Investment
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NsZ0hxVnJJdXo1UkxOUXRZaTU3ZERiVVQxcnhpanZkS1Z3UzVneHdtQy0wYUJRd084UFJCLUZtd3JuVzVpUm1OTlVRYnZsR1B2aHlnWWsxR0hTQWdfaWoxRkdOb0N4RDJseHY3dTdwaWRMQ0NqYjF2VUpHbHVXbFVLWWEtXzQydW8tXzVtQlNYRmFXcUxQdUtXLWxrQWtINjJwcmxUNTVWRENw0gG0AUFVX3lxTFBKWFNwQlU1aUhtLWZhV3NsWWZ2Tl9HS2pnRC1Bbm05VUhfQWFjOUV3VzFOeUxIUnZ6TnlZTEQ4ODlFV1ZzQmFHNE9rdmdpMjlmTDA5OTFIZ2UtUmt1T0dZS0Utc080MFVjSk05aUJYdVoxeWt3VXVsRHFHSDN2Ym9meDVwWFFIV2NkWjVfb2JTOURLSjhpNEIwd3g1MmFoRTBYOEpRMnZLQkJ1cElPNGQ4TVU1OA?oc=5
-
-- Baby boom over, India's population test begins now - The Times of India
-  The Times of India reports that India's population
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkNCRXA4S2VGczBoaURYQkN1WjBHb3VUQktweWtBOHlJcS1GMWEtLW9fbmUxUjJuRENVazBPNVp0NGozZFVMLVFsVDREYnVPejN5aWhTelNOWGFQbTBucGR1SjNQRkxfNGlORUlqUXV0TXBzZlU5OXVXZ1hsVnJnaWx6Y2JhTWRXRXVSN1FWQ0tOdllMaGpBTC1XSzZRM2Z0VzZuRDRCWDBDb3hOeE9LaUVkaml5QUnSAbwBQVVfeXFMTjNHREhXeloxcHlmVmNwTmtMcVJPZjg3NzE3VVppQWJIYWhrM0J2VEJVdVBVT1AyMU5CNnlKMDZ0Q3Nfdlp1VkdCTlVOdjlmYkRXVUFwWVZxYkJyV0NpZ084ZlNrSjVLVTlIa2JXM1dsbEZYQlBxeVkyWldlV3AyaWVIV2tvSjc0WEhhY0lsRkN1cEh2b1F4Z3dPZ083akpnaHNqREhkTkZBZWdRdk9BTGlPODh0dVVLenByS1c?oc=5
-
-- Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming home for family wedding - The Hindu
-  Indian killed in strike at Kuwait International Airport identified as Ujjain resident; was coming
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMkxCb1hoNGhqY053TEdJNkRZbUNOOXV5cFBFNmQ3cUlXZ1JfRkRmRnIyMGRpSmU1Tkx5WjlCNm5Lbk12cElKajV4QkRlZ1dvdGtkdlVObHR2NzlaMUVQX1RpT2hQOFFXUjBxREZsTm5SYjV2TTktTm5XcTR5a0VDRV95RWRROEpsU2s2X3AwZnU5NEtOVGtLWDk1WWV0STBEeHA3emMzcmVNeUhyWjZyRG1KM0VuYzlnT25VTlVNU2VkWU1lQllDZHlfb202cko3ekpubm9PQndKSkdJRldCUFNoVDR3WWlMM3p3Q0VZWWhNWDMzLW5yY3FGbFBYSUpnQk5qOTdsdkNsaHfSAZICQVVfeXFMTmNWZjJHbWJ0M0RxNzRYSHcyRlFBMjBBZDJFSWN5Skxwc2NWNF9EN2RkbDFaZmRseEpSbVNfMy1TNk9OV0VLQXBwX0NDaGZzejFMdl9ta2hfb0VOVVFJUUxMNDlEaEFVNjkzcjRTbHcyM0xLTG81ejFJdVVjal92eXFXcHRQdVBEWGZtd1VmekFrRkNUUERzUkN6anplR0ZCa0NDaVhBRWFpc0Y2aHZCUzlBOFBWT2tDa215SnotbEFXejNCZGo2S2lnNHBuNlZRZThGdkFvaXR3SkZHN01scTZyODVISW9RZ2MzNVBKejJKejR2aWFJcnl4NmRRZ2IzVFhLb3NqenNseGg4bkptRG1oQQ?oc=5
-
-- USTR delegation concludes four-day India visit, advances talks on bilateral Trade Agreement - News On AIR
-  USTR delegation concludes four-day India visit, advances talks
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lmSHlSWGdHbU5kbzdlSm9BcWU0NjJXZXZvTlhjMHoyRkJsckhCRFNlY1FibVBLYnRxbjJFR0dnWkFhV1EzcWtneXdmeTBlSVBKd2oyd0VBV2p3eTU1cmE2T1JhZXJvREtvTDR2TEtHVGkteU1aVlNnZ2JaMnAwVXZ5cWNIM01mMW04MWt1djhjNS1BRjRzLURfZ1FPNndnSU1FRFFJaUpFb2l1eUNDOHkwQUJndWs?oc=5
-
-- India-Born Entrepreneurs Behind 96 US Unicorns, Largest Among Immigrant Founders: Report - NDTV
-  India-Born Entrepreneurs Behind 96 US Unic
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXZnbEtRRmtaVTN1WnhwVVp6ZDhOYkNsenM3ek90MnI5THdNVG9hb2JSZDdjUUxVaHFuZW9LdDNTMlZxQnNDanYzekkzRHNDbW1Cc05XMElSa1c4eDVMbGFNUDY5cDM1R3BwYjNXTThHLVFTQVk5cGNlTjh0Z2FpZnE3WTdjV0U4b2QxaXBUMkctMjlGLU9PdG5MRGRmd3FOUXBsVXNVb0lzZ1A5STdKbUMyb1A5Q19POWxETGFKeFV0NG9s0gHMAUFVX3lxTE1NTU5lQlNCWU0tXzNoaE1TVU5KZld4QjBpRllOenRoUWtHNGVPQ2NqZnJjVTNjX1p6ZFZMekNtSmxNX28yY2VfTUlPX0hHQnBMY2pDNG5tVjRISE5iNkJYeDVOUldHaFhEV0Vxa2xEbkFuM3lzendONndCS2IwQ0trNUFoel9CU2JaNU9XVXp2dG92SmZtMmlJWDVzRHFQbG10enZoYldHVWQteXpCMVMzTm5ZckUzZHQ1Q0NhWHk5U0RZV0JPek9mUFZ0dA?oc=5
+- Russian President Putin reaffirms strategic partnership with India, backs expansion of bilateral ties - News On AIR
+  Russian President Putin reaffirms strategic partnership with India, backs expansion of
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkx0V1dUOUZiWF9ZX0NwR1ZXdDJGaUV4Zy1RS0w5SnFZNGFHMEpNSS1FMUExZDI3NmZ6Vm1UVXprQ3p2TTVqWko5T0FJd09aNHBYSDRDSVRSVDVRYXo2ajlUMVlVbzduZUZaU1pUclprV3FET3NiV1k2Q3NyUnkzLTRjbmVDSS1WTXo0LUJOd2ZHQ2hzZUtKV3c2RURoSGw2dUFDMUJZdjg3R3FhQ2tmbklyMlBvYUc4WjhHS09nZUJMTWNR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-05 02:55:27 UTC_
+_Last updated: 2026-06-05 09:40:30 UTC_
