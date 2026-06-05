@@ -1,26 +1,34 @@
 # 📰 Daily News Summaries
 
-- Cockroach Janata Party Protest Live Updates: Demonstration at Jantar Mantar tomorrow, demand for Dharmendra Pradhan’s resignation
+- Himanta Sarma expands Assam Cabinet, balances new faces and loyalists, groups and regions
+  
+  🔗 https://indianexpress.com/article/india/assam-cabinet-expansion-himanta-sarma-new-ministers-10726242/
+
+- After viral ‘littering’ video and police notice in Goa, college student dies by suicide
+  
+  🔗 https://indianexpress.com/article/india/goa-student-suicide-mapusa-garbage-dumping-viral-video-police-inquiry-pramod-sawant-10725686/
+
+- After Annamalai’s exit, Tamil Nadu BJP Vice President, senior leaders walk out of party
+  
+  🔗 https://indianexpress.com/article/india/annamalai-resignation-bjp-split-tamil-nadu-karu-nagarajan-wetheleader-10726179/
+
+- Bihar ICU fire: ‘Absent’ on-duty doctor among 3 hospital staff held for ‘negligence’ leading to 6 deaths
+  
+  🔗 https://indianexpress.com/article/india/bihar-icu-fire-absent-duty-doctor-hospital-staff-held-negligence-deaths-10726172/
+
+- Cockroach Janta Party Protest Live Updates: Demonstration at Jantar Mantar tomorrow, demand for Dharmendra Pradhan’s resignation
   
   🔗 https://indianexpress.com/article/india/cockroach-janata-party-protest-live-updates-demonstration-at-jantar-mantar-tomorrow-demand-for-dharmendra-pradhans-resignation-10726103/
 
-- CBSE claims cyber attacks on post-result services portal; FIR lodged
+- New 4-winged dinosaur discovered in China sheds light on the origins of flight
   
-  🔗 https://indianexpress.com/article/india/cbse-cyber-attack-delhi-police-class-12-post-result-portal-delay-10726115/
+  🔗 https://indianexpress.com/article/technology/science/new-four-winged-dinosaur-fossil-china-10726121/
 
-- Amarnath Yatra security ramps up: fire audits, QR IDs for pony operators
+- Stonehenge mystery may be closer to being solved as scientists trace Altar Stone’s epic journey
   
-  🔗 https://indianexpress.com/article/india/amarnath-yatra-security-capf-jk-police-hotel-fire-safety-audit-rfid-10726109/
+  🔗 https://indianexpress.com/article/technology/science/stonehenge-mystery-may-be-closer-to-being-solved-as-scientists-trace-altar-stones-epic-journey-10726086/
 
-- Lighting traditional lamp gets IUML’s 1st woman MLA in Kerala into trouble with clerics’ body
-  
-  🔗 https://indianexpress.com/article/india/kerala-fatima-thahiliya-nilavilakku-controversy-samastha-iuml-mla-10725989/
-
-- Khan Sir booked for attempted murder after ‘shooting orders’ — ‘Fire, I’ll handle what happens’
-  
-  🔗 https://indianexpress.com/article/india/khan-sir-booked-murder-shooting-orders-fire-ill-handle-what-happens-10725837/
-
-- Nasa’s Roman Space Telescope gets August 2026 launch date, ahead of schedule
+- NASA’s Roman Space Telescope gets August 2026 launch date, ahead of schedule
   
   🔗 https://indianexpress.com/article/technology/science/nasas-roman-space-telescope-gets-august-2026-launch-date-ahead-of-schedule-10726087/
 
@@ -32,13 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-of-ipo-reports-10725904/
 
-- Tech launches (June 5, 2026): Xiaomi TV FX Mini LED, Galaxy Watch new features, and more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-june-5-2026-xiaomi-mini-led-galaxy-watch-and-more-10725819/
+- Trump Says US Still Weighing Share Sale for Fannie, Freddie
+  President Donald Trump said his administration is still considering a public offering of shares in mortgage giants Fannie Mae and Freddie Mac.
+  🔗 https://www.livemint.com/companies/trump-says-us-still-weighing-share-sale-for-fannie-freddie-11780686832671.html
 
-- Nvidia CEO says robotics is South Korea’s next big sector, points to ‘some suprises’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nvidia-ceo-says-robotics-is-south-koreas-next-big-sector-points-to-some-suprises-10725816/
+- UP Power Corp receives approval to source power from Bhutan's hydro project: Details
+  Khorluchu Hydro Power is a joint venture
+  🔗 https://www.livemint.com/companies/up-power-corp-receives-approval-to-source-power-from-bhutans-hydro-project-details-11780675536564.html
+
+- Tata Steel UK begins assessment after Port Talbot fire, says Hot Strip Mill restart to begin next week
+  Tata Steel UK said assessment work is underway following a fire at the Pickle Line plant in Port Talbot. No injuries were reported, but a key production line suffered substantial damage.
+  🔗 https://www.livemint.com/companies/news/tata-steel-uk-begins-assessment-after-port-talbot-fire-says-hot-strip-mill-restart-to-begin-next-week-11780674718962.html
 
 - Tata Trusts defends 1989 Tata Sons share transfer, says Palkhivala vetted deal
   Suresh Tulsiram Patilkhede, a resident of Mumbai and an independent politician, filed a complaint in the high court and sent notices to the Tata Trust
@@ -48,37 +60,25 @@
   The Startup Policy Forum has urged Sebi and the finance ministry to fix digital onboarding barriers that prevent non
   🔗 https://www.livemint.com/companies/startup-policy-forum-seeks-easier-kyc-rules-for-nri-investor-11780655285635.html
 
-- Maruti considers shielding small-car buyers from inflation-led price hikes
-  Maruti has implemented a price hike of  ₹30,000 from June across all its models. West Asia war-linked inflation has led to a
-  🔗 https://www.livemint.com/companies/news/maruti-mulls-ways-to-protect-the-small-car-surge-amid-west-asia-war-linked-inflation-celerio-alto-k10-celerio-11780657886981.html
+- Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain
+  Stocks fall sharply as strong jobs data fuels rate hike
+  🔗 https://www.livemint.com/market/stocks-fall-sharply-as-strong-jobs-data-fuels-rate-hike-bets-oil-set-for-weekly-gain-11780688435553.html
 
-- Blackstone, CPPIB-backed AirTrunk to invest over $30 bn in India's data centres by 2030
-  Hyperscale data centre operator AirTrunk has announced plans to invest over $30 billion in India by 2030. The pledge follows the company's April acquisition of
-  🔗 https://www.livemint.com/companies/blackstone-cppib-backed-airtrunk-to-invest-over-30-bn-in-indias-data-centres-by-2030-ai-11780655124983.html
+- Oil prices fall on mounting hopes for de-escalation in US-Iran War
+  Oil prices fall on mounting hopes
+  🔗 https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html
 
-- Bluestone eyes 5x rise in revenue as rising affluence to buoy everyday use jewellery buys
-  The jewellery retailer is also converting its existing network of franchise-owned stores to company ownership.
-  🔗 https://www.livemint.com/companies/bluestone-revenue-aim-jewellery-personal-luxury-titan-caratlane-diamond-jewellery-11780643351285.html
+- Emerging-Market Currencies Sink on Gangbuster US Jobs Report
+  Currencies in the developing world sank after a blowout US jobs report provided the clearest sign yet that the labor market is breaking out of a prolonged period of lackluster hiring.
+  🔗 https://www.livemint.com/market/emergingmarket-currencies-sink-on-gangbuster-us-jobs-report-11780685913066.html
 
-- Pulse of the Street: Markets slip as oil, monsoon worries, RBI's cautious tone weigh
-  The market opened on a hopeful note, but ended weaker as investors grew cautious amid rising external risks. Friday�
-  🔗 https://www.livemint.com/market/stock-market-news/stock-markets-india-oil-prices-monsoon-forecast-rbi-policy-gdp-growth-11780664477159.html
+- Gold Falls Most in Two Months as Jobs Fuel Fed Rate-Hike Bets
+  Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year.
+  🔗 https://www.livemint.com/market/gold-falls-most-in-two-months-as-jobs-fuel-fed-rate-hike-bets-11780685669328.html
 
-- CMR Green Technologies IPO: Issue booked 127 times on Day 03; NII, QIB portions see huge demand, GMP signals 40% premium
-  CMR Green Technologies IPO oversubscribed 100 times, attracting strong investor demand across all categories. The IPO, valued at  �
-  🔗 https://www.livemint.com/market/stock-market-news/cmr-green-technologies-ipo-issue-booked-127-times-on-day-03-nii-qib-portions-see-huge-demand-gmp-signals-40-premium-11780662923240.html
-
-- Wall Street: S&amp;P 500, Nasdaq drop as chip stocks slip
-  The Dow Jones Industrial Average rose 0.09%, the S
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-drop-as-chip-stocks-slip-11780667980775.html
-
-- US stock market today: Nasdaq, S&amp;P 500 futures drop up to 1% as investors rotate out of chip stocks
-  Labor Department to report job gains amid economic uncertainty and high energy prices. Chip stocks rally stalls, leading to shift in investor focus
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-drop-up-to-1-as-investors-rotate-out-of-chip-stocks-11780659075369.html
-
-- Why Bata India’s improved revenue growth in Q4 must be taken with a pinch of salt
-  Bata India posted its best revenue growth in three years at 5% in Q4FY26. But gains were undercut by a 15% Ebitda decline, 2.8%
-  🔗 https://www.livemint.com/market/mark-to-market/bata-india-s-improved-revenue-growth-in-q4-footwear-maker-power-hush-puppies-11780650086581.html
+- Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed
+  U.S. stocks fall after robust jobs data stokes fears
+  🔗 https://www.livemint.com/market/wall-street-slumps-as-chips-slide-robust-jobs-data-stokes-fears-of-hawkish-fed-11780685605057.html
 
 - Anthropic says AI labs need coordinated plan to halt development if risks rise
   Anthropic says AI labs need coordinated plan
@@ -100,17 +100,9 @@
   Latest leak reveals that iPhone 18 Pro could offer only minimal upgrade in battery life over its predecessor. However, there are still 3 reasons why the phone could
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-battery-leak-looks-disappointing-but-these-3-upgrades-could-change-the-story-11780550600836.html
 
-- S&P 500 and Nasdaq fall as chips sell off; yields rise after jobs report: Live updates - CNBC
-  S&amp;P 500, Nasdaq slide as jobs report fuels Fed-hike bets. Treasury Yields Jump After Strong Jobs Report, Dow Opens Flat.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5
-
-- Kalaburagi Deputy Commissioner warns LPG distributors against black-market sale of cylinders - The Hindu
-  The Hindu has published an article on black-market
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbGktRF94dm5Ub1pRbzdMNWRYZEt1XzBFbUhBN1ZTbVlnSWJGYVVRMTNOSlI3TC1nT2pIWFBRbjNmSkZzd0JPaUFaZnRpaUgtaGVWLVhGczZxX0Fqc2hGMFhsRVgyNlk4ZVpCRkZfS3dGM19hOUhWcUpDUDF2clZnX0FYUzdoUzRUdFVrOXczZlRTTXI2aEExVEcwU0pKUHdmUWdlM3p6UkcwTmF0eXpiY0MzYldnWTYtTm1NS2xBQXc1YVBHeVZwdEV3UHZvRm40Y0tiaTZEZHlOdUlrR2dSNzdhQk1MTHVvSTBkNzlRY1NUYkXSAfoBQVVfeXFMTlhsSzRUNkdhMmdaQjB6ZThnaVI0S0ZwcXotNHpjVnRxa0hQQzMtcERqZ29TVHlabWJvTTYyLW9pQ2hjVENVMmRFa01uRGo4WHBBbzR0RFkyRFMzVlFnUnc5eVBiWWhZVFB3TEJlSWNHbGFaUV9vM0VtOUxzajNrbmdiWF9KbmJlQTh5ZUhWWFJuck5UbU1MS1B1bHp3U1pxVWpmbFpIVFFpUWtIVG9FTDRKRzBDYzFSdkZoWXF0MmlERmVFeEJIa3RZWVZ0b3IxaW53cnpqWEtqVUVYM1VhX3Jkck9rWGVQcEdKTl9ua2hfNF9UMHRrSzBQUQ?oc=5
-
-- The jobs report doubled expectations. Why the stock market doesn't like it - CNBC
-  The jobs report doubled expectations. Why the stock market
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGZOOUhMWWI5b1pOWE9lMzBVd2doWUZtdzlrMklEWXNEZmFNb2R2bjNqOVJnLUZoY2s5dkRyVFl0YkUzNG05YVlDVmIyS1BZQV9RdS0zRERZRVhrTy1EQzFidEpNWHZMSzNqWklkUU5QVk9VdklYeEt1TXFhdWxqa2RzWUNuVE1xNTVFQmI5aTlXZmZyVzdnMTNFWXBrUHY1NjN1SERnZUxLSW1DVUE?oc=5
+- Stock Market Today: Nasdaq Drops 2% After Strong Jobs Report — Live Updates - WSJ
+  Nasdaq drops 4%, the most in more than a year as chip stocks tumble. Treasury Yields Rise After Jobs Report; Bitcoin Falls Below $60,000.
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
 
 - Watch: Is there an AI stock market bubble, and is it ready to burst? - BBC
   Watch: Is there an AI stock market bubble, and is
@@ -120,145 +112,141 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1NSSFBUN2pWOHNSYkhBTmRrN1k4LUg3dGlDZzVUeHl2bXBvMWM2Q2wyTF92WDhVaFV0T3pIeGdjbnhsQnFzckladnQyR20tNVU3YlN2VjRQQmJ4ZXNkU3laWHAxSGVXWW
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1NSSFBUN2pWOHNSYkhBTmRrN1k4LUg3dGlDZzVUeHl2bXBvMWM2Q2wyTF92WDhVaFV0T3pIeGdjbnhsQnFzckladnQyR20tNVU3YlN2VjRQQmJ4ZXNkU3laWHAxSGVXWWIwNXR6eWkwRW41eWtqVWtCeUhVTl96NWdJbUJTcWphUVc2LUxYM0twbFptc3NEbDNkaVlVQnhmOWFHVklpSjBnYXBOclM1TG5YS2FaeC0zTHNPbmFKc24ycEtUUDlXU1RCa9IB0gFBVV95cUxNcGxVQlVqSHh6V2pkTGpFRE10XzlLRTBSVk5hZTZlOFViSU96bzdkMkRfTGxuaXRXY2lGUTV2WGpCanI3anhuNVMwMEtOMmhrM2F4UVFqbnNMeUZXSERJYXNma2tlMjcyNU5wRTBMc3FZVVU0ZHEzZDRQdl9rZmduYXpMY0pvckVaeEtaY1pNY25jNGxmc2Y4R3B5Q2NmTEFlYW9WaDlySUtZNU5KSjliWnZ0OVhONE9tel96SlFyV3ZGSTdMd3hWNmEydmQwRDkyWFE?oc=5
 
-- US stocks today: S&amp;P 500, Nasdaq slip at open after solid jobs data fuels hawkish Fed fears; chip stocks fall
-  Nasdaq and S&amp;P 500 fell, dragged by weakness in chip stocks after a recent rally. Strong jobs data reinforced expectations of tighter Federal Reserve policy. Dow Jones edged higher, but broader markets stayed under
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-slip-at-open-after-solid-jobs-data-fuels-hawkish-fed-fears-chip-stocks-fall/articleshow/131533254.cms
+- May jobs report: US labor market smashes expectations with payroll growth of 172,000 - Yahoo! Finance Canada
+  May jobs report: US labor market smashes expectations with payroll growth
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlVXaTc2T2JJeHI1d0pUaTRiQWZ2eUtWYS1TSy0zdlhIYWJqbkp0eFBYRVVaMGlhOTE3SDFTVGdXRHhRWVBhaXE1ZkJub1NSM1NJdjcxU0JXVVRvTnJtVkc2NFNmbUJQUEZUSHdZM2ZMeHgzX1hsTkxFMWZ6Q0VSekxkY3dBQ1dMWXpNYnJwUzhGSHg5Q0xvb3E2alBfcGVVUVVjUzRZY0NRU1NmZk5nVA?oc=5
 
-- Quote of the day by Walter Schloss: "If the market’s going wild and you want to be in it, you either have to lower your standards to stay in the game or you buy stuff which may not participate because it’s not part of the game at that time"
-  Legendary investor Walter Schloss highlighted the dilemma of booming markets. Investors face the choice of lowering standards to chase quick gains or sticking to discipline with potentially lagging investments. Maintaining patience and focusing on fundamentals, rather
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-walter-schloss-if-the-markets-going-wild-and-you-want-to-be-in-it-you-either-have-to-lower-your-standards-to-stay-in-the-game-or-you-buy-stuff-which-may-not-participate-because-its-not-part-of-the-game-at-that-time/articleshow/131522076.cms
+- A Job Market Leaving Young Graduates Behind Could Scar Them for Years - The New York Times
+  A job market leaving young graduates behind could Scar them for years.
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlNwcWM2b3Y4SzYwVnY0ajktVFdwOWZ5ckhDaHAtNkVHamlzcjBjMWRfMFVfcjJqTWQ1T1BHaHhVQkdYb29qeVQ5ZEVBS29tclVOUUJhMS10b3dqUTgySjZfYVZuVkNIY25Mc2xmNXpSMWNONWthNWowYzB3V3N5d1RhMA?oc=5
 
-- Adani Enterprises, Vodafone Idea among 6 stocks to hit 52-week high, rally up to 40% in a month
-  Sensex fell 117 points to close at 74,243 on Friday. Six BSE 200 stocks touched fresh 52-week highs. Vodafone Idea, Adani Enterprises, CG Power, Polycab
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-vodafone-idea-among-6-stocks-to-hit-52-week-high-rally-up-to-40-in-a-month/slideshow/131531803.cms
+- Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs
+  Many are choosing to withdraw from Bitcoin ETFs, shifting their focus to the burgeoning semiconductor sector.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoins-star-fades-as-investors-flock-to-lustre-of-ai-and-megacap-ipos/articleshow/131536454.cms
 
-- Stable rates, steady demand: Why real estate players see RBI's pause as a confidence booster
-  Retail inflation eased to 3.48% in April. Industry stakeholders see little immediate pressure on interest rates.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/stable-rates-steady-demand-why-real-estate-players-see-rbis-pause-as-a-confidence-booster/articleshow/131531604.cms
+- Lululemon shares drop as forecast cut spotlights challenges for incoming CEO
+  Lululemon adjusted its profit expectations for the year. This news has escalated concerns among investors.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lululemon-shares-drop-as-forecast-cut-spotlights-challenges-for-incoming-ceo/articleshow/131536386.cms
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P 500, Nasdaq slip at open after solid jobs data fuels hawkish Fed fears; chip stocks fall
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms
+- Franklin Resources' Wamco to pay $100 million SEC fine over former star manager's trades
+  Western Asset Management, a unit of Franklin Resources, will pay $100 million to settle SEC charges tied to a $600 million cherry-picking scheme. The firm did not admit wrongdoing.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/franklin-resources-wamco-to-pay-100-million-sec-fine-over-former-star-managers-trades/articleshow/131536352.cms
 
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
+- Spacex IPO is said to draw more orders than shares available
+  Elon Musk-led firm may surpass Saudi Aramco's record. Shares are priced at $135, valuing the company near $1.8 trillion. Trading expected to begin mid-June.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms
 
-- Putin hails India ties, Trump calls Modi 'good friend' - DW
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- Rs 5,750 crore Adani block deal: SBI Mutual Fund picks stake from GQG
+  GQG Partners sold stakes in Adani Enterprises and Adani Energy Solutions worth about Rs 5,750 crore. SBI Mutual Fund acquired the shares. The transactions are seen as portfolio rebalancing
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gqg-trims-adani-exposure-in-rs-5750-crore-block-deal-sell-shares-in-two-group-stocks/articleshow/131535087.cms
 
-- India's Semiconductor Sector Eyes $205 Billion Valuation By 2034 - NDTV
-  India's Semiconductor Sector Eyes
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFltVUJyNzY1WXl0aS11XzQwUE1SMDhRYm94V0N0eUx2NEFvZVFLTlNEcmlGTXFmUmRkTVNKVWdNWEJQd0xhOHVmYzJvN05kaUFSRzZha1RzUzlqM2RNcWlGZ3pTY1Y5Rm8zT0FjeGtSU2c1R3JheG1obFNVNEtmZllzNWhJSHcwZzJ3UjQxWHRSSFdJRVlWb0ZZbGlvWWlrNmlrTnRR0gGuAUFVX3lxTE1laXFTd0c0TlQ2aDY1UnRWb2lPLVllYzRQR1FMNVBOelZkSTBuTEJiS0tQRXd3aC0tQnZ2X2c4OE5ZcXpvdENMclV0TDBjSTJ6YWw5QnpNQ3dvR05mY1ozQzAzMVVpVjZfVkQ3T2VKcW8xN0tFVXhRRnBpck9GakVyRE1BSjVEQzAzUGc1TUxGZHJXdjVuR2ZNRnZlYXh6ZWs0TjVQZkxKWHBkRUpiUQ?oc=5
-
-- India's 7.8% Q4 Growth Vs Global Peers: How RBI is Managing Stress - NDTV
-  India's 7.8% Q4 Growth Vs
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVlRejRvbTRDN2h0ajNMWkY2UUFOVnRWaEFadzZhZnlKSkRtSkV5X0owUXNUcnFER2NqaVRLZDViaUtpRlN3Tno0Tm1CSUEzSGg3UHhVRE1qd2RObkpRRkRjaVo3Q1plZDR1TlpsX01veTdTLVZUMTdfcVpPUllvenFvQTUwMWlTRGZ0dVp0dFVlTFRXZVJXdXVOOWg4X2FyRF95YjdZTdIBrwFBVV95cUxOSlRURUVTQzJwM3JOOFVTaXFjZzRfbVp6Xzk0eVpyY1l1Mlp5X1J0dW5MM09haGVROGN3dmpxbElkbzJoWDlral9ZdHNaNkJ0TllvYUQ2U1loMm1yaDVaZ0FpT2JKZDRTOXJXcEE5RU83WHhkbUZtb2hsZlMzd3hlVjlJMlBRSU9wN0U1VEprc21ULV9icWxWNDk5U19fVHpPZVNkZXZNaWM2RTZYdjg4?oc=5
-
-- Women In Punjab To Get Rs 1,000 Per Month From July 1: Bhagwant Mann - NDTV
-  Women In Punjab To Get Rs 1,000 Per Month From
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A4cW5qemxlZFMtMlMtenR1cXBJNEtmZ216Tjc1WmMzU0lGeFFWZUdVMDV1TGRjU0RKUHRhMnhGZnJLQjNLN2N0THJ0WllRNU9rbEtYVzN5SUJfb2lNVVAzVGg3b0JwQVI5VFZ4Yi1tdHpYYWxmVmF2OG9tZm5mUlpJNXF6MG5YMWx5aXA5cjM5Y3QybGk3dHhTRzVWUmQ5MUVJRUNfUHdLOWVW0gG0AUFVX3lxTE13MFFoZGtqM2tSNzZzSVZnWFlfQVMtOURjZG9HX29lVEREVGhmaGZmNU1vZ0lMYnc2aER3ZFlSZS1ZX2Q4MHgwQVd2bnBWSDltTjVqR25yZzY5cnRqU3dXSzFoSzRuMThsVTJ2NkcwY1dJQzVEQzNhVVhHQ2ZRejgxQUxDX0E5VmthYmo0MHhLR3BuTzJQRG82SFNoaTlHdUdHX1RhXzgyOGVRc2h2RUFNdC00ag?oc=5
-
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
+- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
+  'Putting Pressure On PM Modi Detrimental For International
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
 
 - Putin hails India ties, Trump calls Modi 'good friend' - DW
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- India's Semiconductor Sector Eyes $205 Billion Valuation By 2034 - NDTV
-  India's Semiconductor Sector Eyes
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFltVUJyNzY1WXl0aS11XzQwUE1SMDhRYm94V0N0eUx2NEFvZVFLTlNEcmlGTXFmUmRkTVNKVWdNWEJQd0xhOHVmYzJvN05kaUFSRzZha1RzUzlqM2RNcWlGZ3pTY1Y5Rm8zT0FjeGtSU2c1R3JheG1obFNVNEtmZllzNWhJSHcwZzJ3UjQxWHRSSFdJRVlWb0ZZbGlvWWlrNmlrTnRR0gGuAUFVX3lxTE1laXFTd0c0TlQ2aDY1UnRWb2lPLVllYzRQR1FMNVBOelZkSTBuTEJiS0tQRXd3aC0tQnZ2X2c4OE5ZcXpvdENMclV0TDBjSTJ6YWw5QnpNQ3dvR05mY1ozQzAzMVVpVjZfVkQ3T2VKcW8xN0tFVXhRRnBpck9GakVyRE1BSjVEQzAzUGc1TUxGZHJXdjVuR2ZNRnZlYXh6ZWs0TjVQZkxKWHBkRUpiUQ?oc=5
-
-- India's 7.8% Q4 Growth Vs Global Peers: How RBI is Managing Stress - NDTV
-  India's 7.8% Q4 Growth Vs
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVlRejRvbTRDN2h0ajNMWkY2UUFOVnRWaEFadzZhZnlKSkRtSkV5X0owUXNUcnFER2NqaVRLZDViaUtpRlN3Tno0Tm1CSUEzSGg3UHhVRE1qd2RObkpRRkRjaVo3Q1plZDR1TlpsX01veTdTLVZUMTdfcVpPUllvenFvQTUwMWlTRGZ0dVp0dFVlTFRXZVJXdXVOOWg4X2FyRF95YjdZTdIBrwFBVV95cUxOSlRURUVTQzJwM3JOOFVTaXFjZzRfbVp6Xzk0eVpyY1l1Mlp5X1J0dW5MM09haGVROGN3dmpxbElkbzJoWDlral9ZdHNaNkJ0TllvYUQ2U1loMm1yaDVaZ0FpT2JKZDRTOXJXcEE5RU83WHhkbUZtb2hsZlMzd3hlVjlJMlBRSU9wN0U1VEprc21ULV9icWxWNDk5U19fVHpPZVNkZXZNaWM2RTZYdjg4?oc=5
-
-- Women In Punjab To Get Rs 1,000 Per Month From July 1: Bhagwant Mann - NDTV
-  Women In Punjab To Get Rs 1,000 Per Month From
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A4cW5qemxlZFMtMlMtenR1cXBJNEtmZ216Tjc1WmMzU0lGeFFWZUdVMDV1TGRjU0RKUHRhMnhGZnJLQjNLN2N0THJ0WllRNU9rbEtYVzN5SUJfb2lNVVAzVGg3b0JwQVI5VFZ4Yi1tdHpYYWxmVmF2OG9tZm5mUlpJNXF6MG5YMWx5aXA5cjM5Y3QybGk3dHhTRzVWUmQ5MUVJRUNfUHdLOWVW0gG0AUFVX3lxTE13MFFoZGtqM2tSNzZzSVZnWFlfQVMtOURjZG9HX29lVEREVGhmaGZmNU1vZ0lMYnc2aER3ZFlSZS1ZX2Q4MHgwQVd2bnBWSDltTjVqR25yZzY5cnRqU3dXSzFoSzRuMThsVTJ2NkcwY1dJQzVEQzNhVVhHQ2ZRejgxQUxDX0E5VmthYmo0MHhLR3BuTzJQRG82SFNoaTlHdUdHX1RhXzgyOGVRc2h2RUFNdC00ag?oc=5
+- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
+  Pressure on Modi to limit India-Russia ties will
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
 
 - "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
   "PM Modi A Good Friend": Trump's Big
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
+- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
+  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+
+- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
+  'Putting Pressure On PM Modi Detrimental For International
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
+
 - Putin hails India ties, Trump calls Modi 'good friend' - DW
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- India's Semiconductor Sector Eyes $205 Billion Valuation By 2034 - NDTV
-  India's Semiconductor Sector Eyes
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFltVUJyNzY1WXl0aS11XzQwUE1SMDhRYm94V0N0eUx2NEFvZVFLTlNEcmlGTXFmUmRkTVNKVWdNWEJQd0xhOHVmYzJvN05kaUFSRzZha1RzUzlqM2RNcWlGZ3pTY1Y5Rm8zT0FjeGtSU2c1R3JheG1obFNVNEtmZllzNWhJSHcwZzJ3UjQxWHRSSFdJRVlWb0ZZbGlvWWlrNmlrTnRR0gGuAUFVX3lxTE1laXFTd0c0TlQ2aDY1UnRWb2lPLVllYzRQR1FMNVBOelZkSTBuTEJiS0tQRXd3aC0tQnZ2X2c4OE5ZcXpvdENMclV0TDBjSTJ6YWw5QnpNQ3dvR05mY1ozQzAzMVVpVjZfVkQ3T2VKcW8xN0tFVXhRRnBpck9GakVyRE1BSjVEQzAzUGc1TUxGZHJXdjVuR2ZNRnZlYXh6ZWs0TjVQZkxKWHBkRUpiUQ?oc=5
-
-- India's 7.8% Q4 Growth Vs Global Peers: How RBI is Managing Stress - NDTV
-  India's 7.8% Q4 Growth Vs
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVlRejRvbTRDN2h0ajNMWkY2UUFOVnRWaEFadzZhZnlKSkRtSkV5X0owUXNUcnFER2NqaVRLZDViaUtpRlN3Tno0Tm1CSUEzSGg3UHhVRE1qd2RObkpRRkRjaVo3Q1plZDR1TlpsX01veTdTLVZUMTdfcVpPUllvenFvQTUwMWlTRGZ0dVp0dFVlTFRXZVJXdXVOOWg4X2FyRF95YjdZTdIBrwFBVV95cUxOSlRURUVTQzJwM3JOOFVTaXFjZzRfbVp6Xzk0eVpyY1l1Mlp5X1J0dW5MM09haGVROGN3dmpxbElkbzJoWDlral9ZdHNaNkJ0TllvYUQ2U1loMm1yaDVaZ0FpT2JKZDRTOXJXcEE5RU83WHhkbUZtb2hsZlMzd3hlVjlJMlBRSU9wN0U1VEprc21ULV9icWxWNDk5U19fVHpPZVNkZXZNaWM2RTZYdjg4?oc=5
-
-- Women In Punjab To Get Rs 1,000 Per Month From July 1: Bhagwant Mann - NDTV
-  Women In Punjab To Get Rs 1,000 Per Month From
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A4cW5qemxlZFMtMlMtenR1cXBJNEtmZ216Tjc1WmMzU0lGeFFWZUdVMDV1TGRjU0RKUHRhMnhGZnJLQjNLN2N0THJ0WllRNU9rbEtYVzN5SUJfb2lNVVAzVGg3b0JwQVI5VFZ4Yi1tdHpYYWxmVmF2OG9tZm5mUlpJNXF6MG5YMWx5aXA5cjM5Y3QybGk3dHhTRzVWUmQ5MUVJRUNfUHdLOWVW0gG0AUFVX3lxTE13MFFoZGtqM2tSNzZzSVZnWFlfQVMtOURjZG9HX29lVEREVGhmaGZmNU1vZ0lMYnc2aER3ZFlSZS1ZX2Q4MHgwQVd2bnBWSDltTjVqR25yZzY5cnRqU3dXSzFoSzRuMThsVTJ2NkcwY1dJQzVEQzNhVVhHQ2ZRejgxQUxDX0E5VmthYmo0MHhLR3BuTzJQRG82SFNoaTlHdUdHX1RhXzgyOGVRc2h2RUFNdC00ag?oc=5
+- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
+  Pressure on Modi to limit India-Russia ties will
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
 
 - "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
   "PM Modi A Good Friend": Trump's Big
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
+- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
+  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+
+- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
+  'Putting Pressure On PM Modi Detrimental For International
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
+
 - Putin hails India ties, Trump calls Modi 'good friend' - DW
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- India's Semiconductor Sector Eyes $205 Billion Valuation By 2034 - NDTV
-  India's Semiconductor Sector Eyes
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFltVUJyNzY1WXl0aS11XzQwUE1SMDhRYm94V0N0eUx2NEFvZVFLTlNEcmlGTXFmUmRkTVNKVWdNWEJQd0xhOHVmYzJvN05kaUFSRzZha1RzUzlqM2RNcWlGZ3pTY1Y5Rm8zT0FjeGtSU2c1R3JheG1obFNVNEtmZllzNWhJSHcwZzJ3UjQxWHRSSFdJRVlWb0ZZbGlvWWlrNmlrTnRR0gGuAUFVX3lxTE1laXFTd0c0TlQ2aDY1UnRWb2lPLVllYzRQR1FMNVBOelZkSTBuTEJiS0tQRXd3aC0tQnZ2X2c4OE5ZcXpvdENMclV0TDBjSTJ6YWw5QnpNQ3dvR05mY1ozQzAzMVVpVjZfVkQ3T2VKcW8xN0tFVXhRRnBpck9GakVyRE1BSjVEQzAzUGc1TUxGZHJXdjVuR2ZNRnZlYXh6ZWs0TjVQZkxKWHBkRUpiUQ?oc=5
-
-- India's 7.8% Q4 Growth Vs Global Peers: How RBI is Managing Stress - NDTV
-  India's 7.8% Q4 Growth Vs
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVlRejRvbTRDN2h0ajNMWkY2UUFOVnRWaEFadzZhZnlKSkRtSkV5X0owUXNUcnFER2NqaVRLZDViaUtpRlN3Tno0Tm1CSUEzSGg3UHhVRE1qd2RObkpRRkRjaVo3Q1plZDR1TlpsX01veTdTLVZUMTdfcVpPUllvenFvQTUwMWlTRGZ0dVp0dFVlTFRXZVJXdXVOOWg4X2FyRF95YjdZTdIBrwFBVV95cUxOSlRURUVTQzJwM3JOOFVTaXFjZzRfbVp6Xzk0eVpyY1l1Mlp5X1J0dW5MM09haGVROGN3dmpxbElkbzJoWDlral9ZdHNaNkJ0TllvYUQ2U1loMm1yaDVaZ0FpT2JKZDRTOXJXcEE5RU83WHhkbUZtb2hsZlMzd3hlVjlJMlBRSU9wN0U1VEprc21ULV9icWxWNDk5U19fVHpPZVNkZXZNaWM2RTZYdjg4?oc=5
-
-- Women In Punjab To Get Rs 1,000 Per Month From July 1: Bhagwant Mann - NDTV
-  Women In Punjab To Get Rs 1,000 Per Month From
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A4cW5qemxlZFMtMlMtenR1cXBJNEtmZ216Tjc1WmMzU0lGeFFWZUdVMDV1TGRjU0RKUHRhMnhGZnJLQjNLN2N0THJ0WllRNU9rbEtYVzN5SUJfb2lNVVAzVGg3b0JwQVI5VFZ4Yi1tdHpYYWxmVmF2OG9tZm5mUlpJNXF6MG5YMWx5aXA5cjM5Y3QybGk3dHhTRzVWUmQ5MUVJRUNfUHdLOWVW0gG0AUFVX3lxTE13MFFoZGtqM2tSNzZzSVZnWFlfQVMtOURjZG9HX29lVEREVGhmaGZmNU1vZ0lMYnc2aER3ZFlSZS1ZX2Q4MHgwQVd2bnBWSDltTjVqR25yZzY5cnRqU3dXSzFoSzRuMThsVTJ2NkcwY1dJQzVEQzNhVVhHQ2ZRejgxQUxDX0E5VmthYmo0MHhLR3BuTzJQRG82SFNoaTlHdUdHX1RhXzgyOGVRc2h2RUFNdC00ag?oc=5
+- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
+  Pressure on Modi to limit India-Russia ties will
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
 
 - "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
   "PM Modi A Good Friend": Trump's Big
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
+- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
+  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+
+- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
+  'Putting Pressure On PM Modi Detrimental For International
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
+
 - Putin hails India ties, Trump calls Modi 'good friend' - DW
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- India's Semiconductor Sector Eyes $205 Billion Valuation By 2034 - NDTV
-  India's Semiconductor Sector Eyes
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFltVUJyNzY1WXl0aS11XzQwUE1SMDhRYm94V0N0eUx2NEFvZVFLTlNEcmlGTXFmUmRkTVNKVWdNWEJQd0xhOHVmYzJvN05kaUFSRzZha1RzUzlqM2RNcWlGZ3pTY1Y5Rm8zT0FjeGtSU2c1R3JheG1obFNVNEtmZllzNWhJSHcwZzJ3UjQxWHRSSFdJRVlWb0ZZbGlvWWlrNmlrTnRR0gGuAUFVX3lxTE1laXFTd0c0TlQ2aDY1UnRWb2lPLVllYzRQR1FMNVBOelZkSTBuTEJiS0tQRXd3aC0tQnZ2X2c4OE5ZcXpvdENMclV0TDBjSTJ6YWw5QnpNQ3dvR05mY1ozQzAzMVVpVjZfVkQ3T2VKcW8xN0tFVXhRRnBpck9GakVyRE1BSjVEQzAzUGc1TUxGZHJXdjVuR2ZNRnZlYXh6ZWs0TjVQZkxKWHBkRUpiUQ?oc=5
+- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
+  Pressure on Modi to limit India-Russia ties will
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
 
-- India's 7.8% Q4 Growth Vs Global Peers: How RBI is Managing Stress - NDTV
-  India's 7.8% Q4 Growth Vs
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVlRejRvbTRDN2h0ajNMWkY2UUFOVnRWaEFadzZhZnlKSkRtSkV5X0owUXNUcnFER2NqaVRLZDViaUtpRlN3Tno0Tm1CSUEzSGg3UHhVRE1qd2RObkpRRkRjaVo3Q1plZDR1TlpsX01veTdTLVZUMTdfcVpPUllvenFvQTUwMWlTRGZ0dVp0dFVlTFRXZVJXdXVOOWg4X2FyRF95YjdZTdIBrwFBVV95cUxOSlRURUVTQzJwM3JOOFVTaXFjZzRfbVp6Xzk0eVpyY1l1Mlp5X1J0dW5MM09haGVROGN3dmpxbElkbzJoWDlral9ZdHNaNkJ0TllvYUQ2U1loMm1yaDVaZ0FpT2JKZDRTOXJXcEE5RU83WHhkbUZtb2hsZlMzd3hlVjlJMlBRSU9wN0U1VEprc21ULV9icWxWNDk5U19fVHpPZVNkZXZNaWM2RTZYdjg4?oc=5
+- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
+  "PM Modi A Good Friend": Trump's Big
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
-- Women In Punjab To Get Rs 1,000 Per Month From July 1: Bhagwant Mann - NDTV
-  Women In Punjab To Get Rs 1,000 Per Month From
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1A4cW5qemxlZFMtMlMtenR1cXBJNEtmZ216Tjc1WmMzU0lGeFFWZUdVMDV1TGRjU0RKUHRhMnhGZnJLQjNLN2N0THJ0WllRNU9rbEtYVzN5SUJfb2lNVVAzVGg3b0JwQVI5VFZ4Yi1tdHpYYWxmVmF2OG9tZm5mUlpJNXF6MG5YMWx5aXA5cjM5Y3QybGk3dHhTRzVWUmQ5MUVJRUNfUHdLOWVW0gG0AUFVX3lxTE13MFFoZGtqM2tSNzZzSVZnWFlfQVMtOURjZG9HX29lVEREVGhmaGZmNU1vZ0lMYnc2aER3ZFlSZS1ZX2Q4MHgwQVd2bnBWSDltTjVqR25yZzY5cnRqU3dXSzFoSzRuMThsVTJ2NkcwY1dJQzVEQzNhVVhHQ2ZRejgxQUxDX0E5VmthYmo0MHhLR3BuTzJQRG82SFNoaTlHdUdHX1RhXzgyOGVRc2h2RUFNdC00ag?oc=5
+- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
+  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
+  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
 
-- A uni professor admitted using AI to write an opinion piece. Here’s what it revealed about trust in the technology - The Guardian
-  A university professor admitted using AI to write an opinion piece. Here’s what it revealed
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzdOem1XME5XRGFvZm5tLV9ubXpuRG52SmdMZm5EaFIzQUIxR25lazhmNDhTcUl3cHRnemFCUEl3N1A4ajM0WW81WU1mZUtHY0MzUV9nZ1E1V2ZJbTRkbFFkazFPRXVrTXptUUZBZVRsOXV0TE5KcndhbWxRUXpiLXVlVHRXeUlWa0xQRGlQOTVyRDNRRTl0MFFXNXpiZXlMRVJIWDJ4MGV2RHJ4NGlnLXV1eS1fU1hSQ3N1bGNPR2hiellyOVFWZXpOSWdjUQ?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- Excise department to be strengthened with technology to curb drug abuse: Minister M. Liju - The Hindu
-  Excise department to be strengthened with technology to curb drug abuse.
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdDJCVVBMQVRucXdVVkxtbDZiNE5GMEdPdFFsanBoVkJpZjNhUy1Qdnhpa01oV3hxbV8tZWxrNE5NN2czZkR0RTAza2dEdUVUb2JBV2c2R2tNQ1pZRnJTWG9sN2psQWZPYzBNZWpXcDNvem1nZUhFbHh6YlVCeWZUdF9iNy1nVUcxZE9IaG5VTC1hSFVVUU95Rk5hbjY5WXdwaGxXYVBJWnBBNlVBcm85VGg5LTNiOG1iaFR4aUlpd2NhNFZPQ3dXakVqNDhha3cxVC1FZEt3Nmpya3hGRDVUekVuWjhGMUMx0gHvAUFVX3lxTE1uV0dZQUZhZWJTb0Y2N0ZjTmxNcHRMeTdNT3FMMG9RSU1yaV96QXJDektTcFJYUE5HUHhTWTQyWmVmQ25YZmxfN1hzb1pHYzZpUzZEQXd3QTVnUnc1N0N0Q1VLYk9pM1l5b2twMFp0R1g3ZGNLcVVSZmgta2JqSHlIeGtiMVZNbEc0RjdHeWpVZGpPVEdIOU1zTHYzbjZfU1JlY0tpSnhVRnlrTkNwaExlRU9IS0lHXzg1NmlWcGgzcVRlT1VOWElvUlZ6N2dpSl9EWnJwTklVMHd0Z2xHcVVPZ3lpSERpZU9YZUpydlln?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Nvidia vs. Salesforce vs. Marvell Technology: Which Is the Best Stock to Buy? - Morningstar
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlQaFNORlByVVg5SV92VERCdUg0RnpqQmxCTHI1cDlVM2pVVDVCZEUtMWlzNnFfNVMtSm5HT1IxSzZQWHpDa21wdGJTZ1JaTTV2X0p6c2FPSkNOdFcxZV8xYXhZS3dkRDhGV2pWZ3lYTDdPSWc4UDg4TFNJb3hVeEVJbldGd09wRWY2SjhoeGZTOFkzNWVreGZrV0ZCSzB0a1IxTkcwanZ0T1gyT1Fz?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Feeding 10 billion people will require new technology - The Economist
-  Feeding 10 billion people will require
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEdHSnItdTRoQ2lJZmlPSEpTdU9Bd2xLaHA1TTRLZ3ZYYlRTaXMyVVcwdzhNWDl2OExna2lGRU9NOWdwMVVic0p0NGdkT1hieGIzNG1OZzJnZlpfdlVKcFRXMGNYS01mZ3dtVXl3RFItX195TG8yRGxBQ052bGZqWnVVQllHcHhrUVlCdEU1SGVUejRoTV81NWVuenBkRDdoV0lOWGRpaU8zTmZOUG9SWWFwaw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Asia tech stocks drop after Broadcom rattles AI trade and drags Wall Street names lower - CNBC
-  Asia tech stocks drop after Broadcom rattles AI trade and dr
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnBRX3BLYW9qOURXY2pUZGszSnd5dFQtNWMtaEJVOU5qbmFFc1hkVW5fel9RcVo3RTV1Mmh0NUUxNE5fZG9WQlpPeTdDYXJMQnZkMWV3dGhlYXAwZzlMZ1NFTWtCeWk5QjZXalFkZjFHRU1zYWR3b3VmU0N6aDg5TFRRVldDYXplcTgyMXV3aFcyMkhqY1BZ0gGcAUFVX3lxTE5rVEFtSjRacDlFNFVKclY1N0p5dTNyWXlEZC1qOUZlcVJPU1FSUi1OVlc1UXh4azBNel9ZbXVaUjNaQVQ5MlpkV3RkNi1GREVZRXYtMEZYQTlhYndZVkhQbGROdGRxb2drUU5yNFp3dDhPeTBteE9IUzBVM1ptNTFCRU05RFRfMkdNcUhZQVh5M1FkWFQ4TkRuZWE2bw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-05 14:40:51 UTC_
+_Last updated: 2026-06-05 19:50:07 UTC_
