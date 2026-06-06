@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Who gained from communal politics?’: CJP founder Abhijeet Dipke at Jantar Mantar meet
+- Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
   
-  🔗 https://indianexpress.com/article/india/who-gained-from-communal-politics-cjp-founder-abhijeet-dipke-at-jantar-mantar-meet-10727427/
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-jantar-mantar-protest-congress-silence-dharmendra-pradhan-neet-10727596/
 
-- As police search for Khan sir, students gather in support outside Patna institute
+- Army officer dies after falling into gorge during anti-militancy operation in J&K’s Rajouri
   
-  🔗 https://indianexpress.com/article/india/khan-sir-patna-coaching-firing-case-attempted-murder-fir-police-manhunt-videos-10727338/
+  🔗 https://indianexpress.com/article/india/army-officer-dies-operation-sheruwali-rajouri-militants-search-bsf-10727565/
 
-- ‘Half-knowledge is dangerous’: J P Nadda hits back at Mallikarjun Kharge for ‘hiding health data’ allegations
+- MP teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
   
-  🔗 https://indianexpress.com/article/india/nfhs-6-data-controversy-nadda-kharge-health-survey-row-10727183/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-teen-attack-shivpuri-girl-assault-case-10727558/
 
-- Metro man Sreedharan’s solar rail plan gets going in Kerala
+- Kota priest hacked to death inside monastery, saints launch protest over delayed arrests
   
-  🔗 https://indianexpress.com/article/india/kerala-high-speed-rail-corridor-e-sreedharan-dmrc-thiruvananthapuram-kannur-10727131/
+  🔗 https://indianexpress.com/article/india/kota-priest-murder-mahant-devanand-maharaj-attack-10727493/
 
-- AIADMK suffers fresh setback as former MLAs switch to TVK, DMK
+- In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS
   
-  🔗 https://indianexpress.com/article/india/aiadmk-suffers-fresh-setback-as-former-mlas-switch-to-tvk-dmk-10727019/
+  🔗 https://indianexpress.com/article/india/in-kashmir-a-stir-over-mehboobas-review-of-aiims-10727464/
 
 - Why Apple’s AI strategy may be the biggest focus at its developer conference next week
   
@@ -60,6 +60,10 @@
   LIC’s voting trail shows repeated concerns over disclosures. This highlights the value of public records as investor warning signs. It also raises questions over whether LIC could have done more.
   🔗 https://www.livemint.com/companies/rajesh-exports-voting-trail-lic-red-flags-sebi-order-11780661423677.html
 
+- There Are Millions of Crypto Tokens. Almost None Have Any Value
+  Charles Hos
+  🔗 https://www.livemint.com/market/there-are-millions-of-crypto-tokens-almost-none-have-any-value-11780759769384.html
+
 - CMR Green Technologies IPO sees strong demand: Here's what GMP signals ahead of share allotment
   CMR Green Technologies IPO, open from June 3-5, saw a subscription rate of 127.07 times. Share allotment will be finalized on June 8, with a market debut
   🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-sees-strong-demand-heres-what-ipo-gmp-signals-ahead-of-share-allotment-11780741061534.html
@@ -75,10 +79,6 @@
 - US stock markets this week: S&amp;P 500's 9-week rally ends, falls 2.6%; Nasdaq tumbles 4.5% as tech stocks crash
   Wall Street's nine-week rally ended as technology stocks plummeted. Nasdaq suffered its largest drop since April 2025. Strong US jobs report heightened fears of prolonged interest rates.
   🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-9-week-rally-ends-falls-2-6-nasdaq-tumbles-4-5-as-tech-stocks-crash-11780726274017.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 8 June 2026
-  From a technical perspective, immediate support is placed in the 23,200–23,250
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-8-june-2026-11780725175483.html
 
 - China can build humanoids at scale. The hard part is finding enough buyers
   China can build humanoids at scale.
@@ -101,24 +101,24 @@
   🔗 https://www.livemint.com/technology/india-to-use-ai-for-machine-readable-standards-consumer-affairs-secretary-11780563047045.html
 
 - Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates - CNBC
-  Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks.
+  Nasdaq falls 4% and suffers worst day since April 2025 as traders
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5
 
-- May jobs report: US labor market smashes expectations with payroll growth of 172,000 - Yahoo Finance
-  May jobs report: US labor market smashes expectations with payroll
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdS16OE12Wm4xbkprSEMzX0ZDSXBtck1VaGY3Um5UdklNNEpFT2Zmc19IeEJxbloyV3ZYOE5uMTg5eHAtVlhuaHpzWGktS1Y0V3ptbUxLUW0zb004bDVVVl91TFVhMjdrZGFFdVNHMlFNRmk2aUUtcVhrVU5IeC1lRzBXd3NxQTJkTW92VG5mOWVVcERxd0JndmxHRWt6RVRYcWpES0dMVmhQUy1FNnM0aGQyU1hHZzlZQmxxbWdnek5xR3ZRWWZJdGg5U2Z6UThZWi1Land3?oc=5
+- Stock Market News for June 5, 2026: Nasdaq Suffers Worst Week in More Than a Year - WSJ
+  Stock Market News for June 5, 2026: Nasdaq Suffers
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
 
-- How hot is America’s labour market? - The Economist
-  The Economist asks: How
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjNMUnpVdll3UkZfOFJ0X3gtR2pLdm50UFJjQWppZHhISWhldkVLQkJkb0JaMDA5YmxhRWpLVzAtc2FQODdqMXd5Y1A4TzlnUlBLaVp1YmlCMHVxS3V5UmQ4Y0VRV1EtLW9ndVhLNnJVQWtaeGRGWEV4ZnZBMEFTenQ4RUdReUktYmt2WWIycVJtRlU3UFRR?oc=5
+- US stocks slump as fears over Big Tech shake Wall Street - BBC
+  US stocks slump as fears over Big Tech shake
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5
 
-- Resilient US economy posts third straight month of strong job growth - Reuters
-  The U.S. economy posted third straight
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzlNSjdHTDNFS0c2TWFWbEdfdWFZX3NrNVZPT2paMzhIZWlub1RieWJvNUE0bFJSOFNwOXhOT0pBc3oyYzFsZ1Y0MzJ2cFBwZGZPNUVtdXp6SDl1dXNNMWNkQmliMkpEMFhNN2Y3bzd0N3dEdzZRYTRxaDhzZi1FWE45dTRqSUZMNUtscVFQS1VkWWN6NnloVjh5QWZqenc5NDE3VHg4MEphcXVhbnBCWE5yNGlIWm5mRFdfeDVaVUdCemxBNUh6Z3Zn?oc=5
+- DoubleLine, Oaktree Brace for Potential AI Pain - Bloomberg.com
+  DoubleLine, Oaktree
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZuUmg1c1E4VFJUd0M3dmFUa2lqTGJPUExLTGh6dGMzMTRkLWJUWkpMYTd6QVNWWWlxUUF0ZmM4blB3Rkl4cEZTU2pmNWZRMU02Q3RBUEF3d2dRcGxPajFYOGNwQW00SkhwNnFVSHJiLVo5a25pZTdiZEpZVFVZdTVoTnBxazNxejdzamNYYUc2Ry15X2NDdXNyNHY3UmpYVGpFLXFPNmxPZEp3dy1TME9zaGtBcVNyYURCTW5mLVRYaHFWNU9n?oc=5
 
-- Global oil inventories depleted, next price spike could roil economies, markets - Reuters
-  Global oil inventories depleted, next price spike
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV01INndjOU8xWVM2Z1hYdU16cy1qQU85c0tLb0N6RDhaeG5Oa0J0YWQ4Yzh4TmRUUUJUTDBoVEdWUE5Kc2Y3NXFveG1NZHN6aVZpMHh5RV9waE96a3Z6ckxscHBVajJITGowdVFSeEV2cTVUaHhKcEFBSmxtdmFTU3Jpd1VMbzVyZnBN?oc=5
+- Here are 3 forces that drove a whirlwind week for the stock market - CNBC
+  Here are 3 forces that drove a whirlwind week for the
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmZOMFd6MWpKNnpsbVFLeWl6cmU5dXc0SmluYURTSzF0WURzXy12YlMzUEZRRzFPR1ZKY1gxY0hjblZHRmwzU3plOFM1bERCNTBBN1RkVnJjLVNEdnZsNU9DT3FvTVpHODdZbGpVSEs0T2FxUFRMNjZNSzcwd01nalNmTUdTREFZWG1jM2NSU282TXFsX0JSQXVUenpHNXAwaEhSdjlR?oc=5
 
 - Dalal Street Week Ahead: Will Nifty hold 23,000 as markets test key support?
   The markets ended lower this week, with Nifty trading below its 50 and 100-week moving averages. While a crucial support zone near 23,000-23,100 is being defended, a sustained breach could trigger further
@@ -140,125 +140,113 @@
   Macquarie has initiated coverage on Meesho with an ‘Underperform’ rating and a target price of Rs 125. The brokerage believes declining average order values and modest per-order economics could limit profitability.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/macquarie-initiates-underperform-rating-on-meesho-sees-25-downside-heres-why/articleshow/131548084.cms
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
+  'Cockroach' youth group founder leads first
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
 
-- PM Modi holds meeting with his Economic Advisory Council members to further boost India’s economic growth - News On AIR
-  PM Modi holds meeting with his Economic Advisory Council members to further boost India’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVURHVBYW13czJ3Nk5Qbm82TTl4YVBxaUxqdHk4aDJ3dlR1U0ZMYnFiakFUZjR4b3kwa3g1ODFCeFFFV1d3a19kb0NJc2FmcXM0a2NRR2Y0SnVZZUMwMEhTRWtsSVQ3bW15XzdZdFZsc3Fwb3VnQWhsZ1VYRE91d0xqbW5TTE9OYTJ1eDJCRkVmOUd5cGh6akF4eFFiLVB3R21PUFRaVjlaVFRXZklDdlFQQVRwN0dIcUxaRzJJYjJROWx0QVpPODhR?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Zorawar To TEJASTRA: PM Modi gets a look at India's next-gen arsenal - The Times of India
-  The Times of India reports that India is planning to build a
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHVadE5WNmRkYlcweFJTOFcxVVNVdy05cExpdTViVXlMbGJFQ1FKVzVROW1rRlNoTmhmUXlFdUt1ZU1MR1dBV0RQYklyYVBONEo1X19qc1BPX2RfMTE5cGhmM0tuZzRQaS1LbGd0X1BmTDRSNE56Z3RyMWVyNFNDaFJFOEhrb1RwNXlxYTBQQkZlVURuNWQ0dE51aERKTjB1ZWVpSTRJaFZrQUZlYzFyQVdIaGFBTzkzVTlBVmxkWnJFelI5d2dsN0F6QTdVWGlDNTB3M2VqYjjSAd4BQVVfeXFMTnNPaHY5RUN0YkFXc0VaNWc2UGpnXzFzUkVyTC1TbEpRVkRRb3FDYU9rWFNfZ1RNZF81THd5UU1iTXhwYjNvdUl1QjBKNzhGT1RrcW96M0Y4aWN3cWswUWxTWHhmWk1CUkdVYk5CdnlXbFktVFJkQkdCVFRCRUpBQnFxWDlyZFhTUUlob1BHRTltRlJiZ21KSl9KTld0dDNIUGpuMFhZSjNJcTRhd1lnMWFCVXdrU0pjcHJwVzlPZ0JXbzVSTkFpcWgtbFVLS2oyZWR3NW5aYk9ZVGh0Y1hn?oc=5
+- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
+  Vaibhav Sooryav
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
 
-- PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War - NDTV
-  PM Modi Chairs Key Economic Advisory Council Meeting
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0pPTXBBS3FYRnlGRVNwSDhNa2lYZTVWeVNJUml5LTJvU092WUdEX1ZXZlVMVWxfVjVPZ29XbjYxS09FUmxjM3RvOHVLZmNZM2h0ZmlvbkFBSWY4cThoYkJIQkJYbkktbGpESzJWQ1lKeVkyNEJiRkdEMmtGclhWR3owcE9kSlk5blFVNjBjNW9Dd2hlM2d3SzFDVlFpaUVPbVBzYnVNZU85amxlaXlUbllOdk5talXSAb8BQVVfeXFMTmRpV0FjY24xd2lKM1liQWpoQjVjc1E1R2RFTEo1cVlkN2U4UXhhb2FnRE1SLTdlS0JVeFI0dm14dkVlTkU1M3dyUXBiUjczVEg4NWhhNFd3b01kZ1ZjR1MtREF3U3BxMkZCbTc3VDQ2ZHJIcHJkM2FHOGNLaW1jVV9vUFZzMDhETG15cVVMbVk0WjNENlBScElBZjV0eTc5bVdzckdzcVNWVlZfeUVfMUJMZU5MLWVuSTY1aWJhWlU?oc=5
+- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
+  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
 
-- Top news of the day: June 6, 2026 - The Hindu
-  Top news of the day: June
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5
+- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
+  RBI simplifies rules for Foreign Portfolio Investors in government securities.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
+  'Cockroach' youth group founder leads first
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
 
-- PM Modi holds meeting with his Economic Advisory Council members to further boost India’s economic growth - News On AIR
-  PM Modi holds meeting with his Economic Advisory Council members to further boost India’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVURHVBYW13czJ3Nk5Qbm82TTl4YVBxaUxqdHk4aDJ3dlR1U0ZMYnFiakFUZjR4b3kwa3g1ODFCeFFFV1d3a19kb0NJc2FmcXM0a2NRR2Y0SnVZZUMwMEhTRWtsSVQ3bW15XzdZdFZsc3Fwb3VnQWhsZ1VYRE91d0xqbW5TTE9OYTJ1eDJCRkVmOUd5cGh6akF4eFFiLVB3R21PUFRaVjlaVFRXZklDdlFQQVRwN0dIcUxaRzJJYjJROWx0QVpPODhR?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Zorawar To TEJASTRA: PM Modi gets a look at India's next-gen arsenal - The Times of India
-  The Times of India reports that India is planning to build a
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHVadE5WNmRkYlcweFJTOFcxVVNVdy05cExpdTViVXlMbGJFQ1FKVzVROW1rRlNoTmhmUXlFdUt1ZU1MR1dBV0RQYklyYVBONEo1X19qc1BPX2RfMTE5cGhmM0tuZzRQaS1LbGd0X1BmTDRSNE56Z3RyMWVyNFNDaFJFOEhrb1RwNXlxYTBQQkZlVURuNWQ0dE51aERKTjB1ZWVpSTRJaFZrQUZlYzFyQVdIaGFBTzkzVTlBVmxkWnJFelI5d2dsN0F6QTdVWGlDNTB3M2VqYjjSAd4BQVVfeXFMTnNPaHY5RUN0YkFXc0VaNWc2UGpnXzFzUkVyTC1TbEpRVkRRb3FDYU9rWFNfZ1RNZF81THd5UU1iTXhwYjNvdUl1QjBKNzhGT1RrcW96M0Y4aWN3cWswUWxTWHhmWk1CUkdVYk5CdnlXbFktVFJkQkdCVFRCRUpBQnFxWDlyZFhTUUlob1BHRTltRlJiZ21KSl9KTld0dDNIUGpuMFhZSjNJcTRhd1lnMWFCVXdrU0pjcHJwVzlPZ0JXbzVSTkFpcWgtbFVLS2oyZWR3NW5aYk9ZVGh0Y1hn?oc=5
+- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
+  Vaibhav Sooryav
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
 
-- PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War - NDTV
-  PM Modi Chairs Key Economic Advisory Council Meeting
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0pPTXBBS3FYRnlGRVNwSDhNa2lYZTVWeVNJUml5LTJvU092WUdEX1ZXZlVMVWxfVjVPZ29XbjYxS09FUmxjM3RvOHVLZmNZM2h0ZmlvbkFBSWY4cThoYkJIQkJYbkktbGpESzJWQ1lKeVkyNEJiRkdEMmtGclhWR3owcE9kSlk5blFVNjBjNW9Dd2hlM2d3SzFDVlFpaUVPbVBzYnVNZU85amxlaXlUbllOdk5talXSAb8BQVVfeXFMTmRpV0FjY24xd2lKM1liQWpoQjVjc1E1R2RFTEo1cVlkN2U4UXhhb2FnRE1SLTdlS0JVeFI0dm14dkVlTkU1M3dyUXBiUjczVEg4NWhhNFd3b01kZ1ZjR1MtREF3U3BxMkZCbTc3VDQ2ZHJIcHJkM2FHOGNLaW1jVV9vUFZzMDhETG15cVVMbVk0WjNENlBScElBZjV0eTc5bVdzckdzcVNWVlZfeUVfMUJMZU5MLWVuSTY1aWJhWlU?oc=5
+- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
+  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
 
-- Top news of the day: June 6, 2026 - The Hindu
-  Top news of the day: June
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5
+- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
+  RBI simplifies rules for Foreign Portfolio Investors in government securities.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
+  'Cockroach' youth group founder leads first
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
 
-- PM Modi holds meeting with his Economic Advisory Council members to further boost India’s economic growth - News On AIR
-  PM Modi holds meeting with his Economic Advisory Council members to further boost India’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVURHVBYW13czJ3Nk5Qbm82TTl4YVBxaUxqdHk4aDJ3dlR1U0ZMYnFiakFUZjR4b3kwa3g1ODFCeFFFV1d3a19kb0NJc2FmcXM0a2NRR2Y0SnVZZUMwMEhTRWtsSVQ3bW15XzdZdFZsc3Fwb3VnQWhsZ1VYRE91d0xqbW5TTE9OYTJ1eDJCRkVmOUd5cGh6akF4eFFiLVB3R21PUFRaVjlaVFRXZklDdlFQQVRwN0dIcUxaRzJJYjJROWx0QVpPODhR?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Zorawar To TEJASTRA: PM Modi gets a look at India's next-gen arsenal - The Times of India
-  The Times of India reports that India is planning to build a
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHVadE5WNmRkYlcweFJTOFcxVVNVdy05cExpdTViVXlMbGJFQ1FKVzVROW1rRlNoTmhmUXlFdUt1ZU1MR1dBV0RQYklyYVBONEo1X19qc1BPX2RfMTE5cGhmM0tuZzRQaS1LbGd0X1BmTDRSNE56Z3RyMWVyNFNDaFJFOEhrb1RwNXlxYTBQQkZlVURuNWQ0dE51aERKTjB1ZWVpSTRJaFZrQUZlYzFyQVdIaGFBTzkzVTlBVmxkWnJFelI5d2dsN0F6QTdVWGlDNTB3M2VqYjjSAd4BQVVfeXFMTnNPaHY5RUN0YkFXc0VaNWc2UGpnXzFzUkVyTC1TbEpRVkRRb3FDYU9rWFNfZ1RNZF81THd5UU1iTXhwYjNvdUl1QjBKNzhGT1RrcW96M0Y4aWN3cWswUWxTWHhmWk1CUkdVYk5CdnlXbFktVFJkQkdCVFRCRUpBQnFxWDlyZFhTUUlob1BHRTltRlJiZ21KSl9KTld0dDNIUGpuMFhZSjNJcTRhd1lnMWFCVXdrU0pjcHJwVzlPZ0JXbzVSTkFpcWgtbFVLS2oyZWR3NW5aYk9ZVGh0Y1hn?oc=5
+- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
+  Vaibhav Sooryav
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
 
-- PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War - NDTV
-  PM Modi Chairs Key Economic Advisory Council Meeting
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0pPTXBBS3FYRnlGRVNwSDhNa2lYZTVWeVNJUml5LTJvU092WUdEX1ZXZlVMVWxfVjVPZ29XbjYxS09FUmxjM3RvOHVLZmNZM2h0ZmlvbkFBSWY4cThoYkJIQkJYbkktbGpESzJWQ1lKeVkyNEJiRkdEMmtGclhWR3owcE9kSlk5blFVNjBjNW9Dd2hlM2d3SzFDVlFpaUVPbVBzYnVNZU85amxlaXlUbllOdk5talXSAb8BQVVfeXFMTmRpV0FjY24xd2lKM1liQWpoQjVjc1E1R2RFTEo1cVlkN2U4UXhhb2FnRE1SLTdlS0JVeFI0dm14dkVlTkU1M3dyUXBiUjczVEg4NWhhNFd3b01kZ1ZjR1MtREF3U3BxMkZCbTc3VDQ2ZHJIcHJkM2FHOGNLaW1jVV9vUFZzMDhETG15cVVMbVk0WjNENlBScElBZjV0eTc5bVdzckdzcVNWVlZfeUVfMUJMZU5MLWVuSTY1aWJhWlU?oc=5
+- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
+  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
 
-- Top news of the day: June 6, 2026 - The Hindu
-  Top news of the day: June
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5
+- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
+  RBI simplifies rules for Foreign Portfolio Investors in government securities.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
+  'Cockroach' youth group founder leads first
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
 
-- PM Modi holds meeting with his Economic Advisory Council members to further boost India’s economic growth - News On AIR
-  PM Modi holds meeting with his Economic Advisory Council members to further boost India’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVURHVBYW13czJ3Nk5Qbm82TTl4YVBxaUxqdHk4aDJ3dlR1U0ZMYnFiakFUZjR4b3kwa3g1ODFCeFFFV1d3a19kb0NJc2FmcXM0a2NRR2Y0SnVZZUMwMEhTRWtsSVQ3bW15XzdZdFZsc3Fwb3VnQWhsZ1VYRE91d0xqbW5TTE9OYTJ1eDJCRkVmOUd5cGh6akF4eFFiLVB3R21PUFRaVjlaVFRXZklDdlFQQVRwN0dIcUxaRzJJYjJROWx0QVpPODhR?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Zorawar To TEJASTRA: PM Modi gets a look at India's next-gen arsenal - The Times of India
-  The Times of India reports that India is planning to build a
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHVadE5WNmRkYlcweFJTOFcxVVNVdy05cExpdTViVXlMbGJFQ1FKVzVROW1rRlNoTmhmUXlFdUt1ZU1MR1dBV0RQYklyYVBONEo1X19qc1BPX2RfMTE5cGhmM0tuZzRQaS1LbGd0X1BmTDRSNE56Z3RyMWVyNFNDaFJFOEhrb1RwNXlxYTBQQkZlVURuNWQ0dE51aERKTjB1ZWVpSTRJaFZrQUZlYzFyQVdIaGFBTzkzVTlBVmxkWnJFelI5d2dsN0F6QTdVWGlDNTB3M2VqYjjSAd4BQVVfeXFMTnNPaHY5RUN0YkFXc0VaNWc2UGpnXzFzUkVyTC1TbEpRVkRRb3FDYU9rWFNfZ1RNZF81THd5UU1iTXhwYjNvdUl1QjBKNzhGT1RrcW96M0Y4aWN3cWswUWxTWHhmWk1CUkdVYk5CdnlXbFktVFJkQkdCVFRCRUpBQnFxWDlyZFhTUUlob1BHRTltRlJiZ21KSl9KTld0dDNIUGpuMFhZSjNJcTRhd1lnMWFCVXdrU0pjcHJwVzlPZ0JXbzVSTkFpcWgtbFVLS2oyZWR3NW5aYk9ZVGh0Y1hn?oc=5
+- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
+  Vaibhav Sooryav
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
 
-- PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War - NDTV
-  PM Modi Chairs Key Economic Advisory Council Meeting
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0pPTXBBS3FYRnlGRVNwSDhNa2lYZTVWeVNJUml5LTJvU092WUdEX1ZXZlVMVWxfVjVPZ29XbjYxS09FUmxjM3RvOHVLZmNZM2h0ZmlvbkFBSWY4cThoYkJIQkJYbkktbGpESzJWQ1lKeVkyNEJiRkdEMmtGclhWR3owcE9kSlk5blFVNjBjNW9Dd2hlM2d3SzFDVlFpaUVPbVBzYnVNZU85amxlaXlUbllOdk5talXSAb8BQVVfeXFMTmRpV0FjY24xd2lKM1liQWpoQjVjc1E1R2RFTEo1cVlkN2U4UXhhb2FnRE1SLTdlS0JVeFI0dm14dkVlTkU1M3dyUXBiUjczVEg4NWhhNFd3b01kZ1ZjR1MtREF3U3BxMkZCbTc3VDQ2ZHJIcHJkM2FHOGNLaW1jVV9vUFZzMDhETG15cVVMbVk0WjNENlBScElBZjV0eTc5bVdzckdzcVNWVlZfeUVfMUJMZU5MLWVuSTY1aWJhWlU?oc=5
+- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
+  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
 
-- Top news of the day: June 6, 2026 - The Hindu
-  Top news of the day: June
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5
+- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
+  RBI simplifies rules for Foreign Portfolio Investors in government securities.
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- PM Modi holds meeting with his Economic Advisory Council members to further boost India’s economic growth - News On AIR
-  PM Modi holds meeting with his Economic Advisory Council members to further boost India’
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlVURHVBYW13czJ3Nk5Qbm82TTl4YVBxaUxqdHk4aDJ3dlR1U0ZMYnFiakFUZjR4b3kwa3g1ODFCeFFFV1d3a19kb0NJc2FmcXM0a2NRR2Y0SnVZZUMwMEhTRWtsSVQ3bW15XzdZdFZsc3Fwb3VnQWhsZ1VYRE91d0xqbW5TTE9OYTJ1eDJCRkVmOUd5cGh6akF4eFFiLVB3R21PUFRaVjlaVFRXZklDdlFQQVRwN0dIcUxaRzJJYjJROWx0QVpPODhR?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Zorawar To TEJASTRA: PM Modi gets a look at India's next-gen arsenal - The Times of India
-  The Times of India reports that India is planning to build a
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHVadE5WNmRkYlcweFJTOFcxVVNVdy05cExpdTViVXlMbGJFQ1FKVzVROW1rRlNoTmhmUXlFdUt1ZU1MR1dBV0RQYklyYVBONEo1X19qc1BPX2RfMTE5cGhmM0tuZzRQaS1LbGd0X1BmTDRSNE56Z3RyMWVyNFNDaFJFOEhrb1RwNXlxYTBQQkZlVURuNWQ0dE51aERKTjB1ZWVpSTRJaFZrQUZlYzFyQVdIaGFBTzkzVTlBVmxkWnJFelI5d2dsN0F6QTdVWGlDNTB3M2VqYjjSAd4BQVVfeXFMTnNPaHY5RUN0YkFXc0VaNWc2UGpnXzFzUkVyTC1TbEpRVkRRb3FDYU9rWFNfZ1RNZF81THd5UU1iTXhwYjNvdUl1QjBKNzhGT1RrcW96M0Y4aWN3cWswUWxTWHhmWk1CUkdVYk5CdnlXbFktVFJkQkdCVFRCRUpBQnFxWDlyZFhTUUlob1BHRTltRlJiZ21KSl9KTld0dDNIUGpuMFhZSjNJcTRhd1lnMWFCVXdrU0pjcHJwVzlPZ0JXbzVSTkFpcWgtbFVLS2oyZWR3NW5aYk9ZVGh0Y1hn?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- PM Modi Chairs Key Economic Advisory Council Meeting Amid Iran War - NDTV
-  PM Modi Chairs Key Economic Advisory Council Meeting
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0pPTXBBS3FYRnlGRVNwSDhNa2lYZTVWeVNJUml5LTJvU092WUdEX1ZXZlVMVWxfVjVPZ29XbjYxS09FUmxjM3RvOHVLZmNZM2h0ZmlvbkFBSWY4cThoYkJIQkJYbkktbGpESzJWQ1lKeVkyNEJiRkdEMmtGclhWR3owcE9kSlk5blFVNjBjNW9Dd2hlM2d3SzFDVlFpaUVPbVBzYnVNZU85amxlaXlUbllOdk5talXSAb8BQVVfeXFMTmRpV0FjY24xd2lKM1liQWpoQjVjc1E1R2RFTEo1cVlkN2U4UXhhb2FnRE1SLTdlS0JVeFI0dm14dkVlTkU1M3dyUXBiUjczVEg4NWhhNFd3b01kZ1ZjR1MtREF3U3BxMkZCbTc3VDQ2ZHJIcHJkM2FHOGNLaW1jVV9vUFZzMDhETG15cVVMbVk0WjNENlBScElBZjV0eTc5bVdzckdzcVNWVlZfeUVfMUJMZU5MLWVuSTY1aWJhWlU?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Top news of the day: June 6, 2026 - The Hindu
-  Top news of the day: June
-  🔗 https://news.google.com/rss/articles/CBMipwJBVV95cUxNV25vM3hROTR4VW5qZnVRRy1leE9PV0dJU0hjeEsxWTZBdHdqeHlHOW1Rd3JNY1FvTjhncktNVTg1bVJnVW12V2ZPVkZIeEpCRVFPcm5OaFUxWWNSUmpoQ3pIYzJQWmwtUnZmdHJRRlFoM0ZxZEZfb3ZqbEJUN2JDN2RiYVdZOU5yOHlsYXppU1FrX2NNaXAtak1sNW5oVzJWRW9FQzBCc044RDJSMmF2dXBpdS1LWlM4d1EwX3RHZFVPN3llbHNjYjhaRlJRNi04UnJkS3NydGt0V3V1eC1kaXpkMXVvNFZRT2lCMWZiejMwOFBnbXF5ellPMl9NeVFQakxpNEpSdEhKSDRMYzRBUTRqMFZBZms0c3BRUm0yWFlTLWk1clBv0gGuAkFVX3lxTE5TOWxYVGNYSlA3ZDZaN3lUUTUyWXh6S0ZzclE3bTAxNndNM3JwVXlRQU0zWFBadktETG5hVE0xU2NTMklZb3BlVjEtQ09yU2JmeG1BTFFtbTZsMW50aEhVX29OMGJyQ2FDSkIxN2ZCdFVFdlBPcHZwTFA3eWNhSUFyOXlHVkdMWUgxWXktS1QyMjN5RDNVamhzTGtLUlcxbHJJSWRFLVM0aEI3eHQyTVZ1V2pETTVENXhScFVRMFB0d2ZmYzRSS2t1dktzYlNwOS1OazRBQW9vdU5DbzQtd3hvdmVtWi1WUU0tRWh1cHk1MnVnSktnT2x4UXhHRllycHNzWERvN2k2U2ZTV01PMFBFclBLS1pETG55eW93TUswZFBOWmlJa3U2eGd0WlJR?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Feeding 10 billion people will require new technology - The Economist
-  Feeding 10 billion people will require
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEdHSnItdTRoQ2lJZmlPSEpTdU9Bd2xLaHA1TTRLZ3ZYYlRTaXMyVVcwdzhNWDl2OExna2lGRU9NOWdwMVVic0p0NGdkT1hieGIzNG1OZzJnZlpfdlVKcFRXMGNYS01mZ3dtVXl3RFItX195TG8yRGxBQ052bGZqWnVVQllHcHhrUVlCdEU1SGVUejRoTV81NWVuenBkRDdoV0lOWGRpaU8zTmZOUG9SWWFwaw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- TDB-DST supports M/s Greenjoules Private Limited, Pune for Commercialization of Indigenous Second-Generation Diesel Equivalent Biofuel Technology - PIB
-  TDB-DST supports M/s Greenjoules Private
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE90dTdhdDEtYm15OFhNMWhTUTExNlR2bnZPQ3BhSVhvdGNucVhsYjVFZGxjajBvU0pIekl5QVlwVUZoUU41QVlyckhjcmFOaFY3eTV5U184OVltM01BTG92dzJtTDJWdnVnZlg1YzFvXzJJR21GTzQzUURB?oc=5
-
-- Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google
-  Introducing Gemma 4 12B
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdUNDVqeHpOQ3AtSDdyeE1oR2VVXzA2ZFNOTi1mZWh6ek9ZWkhjY19hZU1la2tBalJzcjVsVkk2RENHLWo5c2VDai13QXlZaGs2TXpfYWpkWTBKZnBNbnItYy0yUGpxSzRhQmpUT3NhSHhHOWZGUERHVjZWaDF6am0zUGJLekYtemp2SmhQODU4dDg1?oc=5
-
-- Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera
-  Anthropic urges AI labs to pause, warns
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5
-
-- Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's - CNBC
-  Marvell Technology and Flex to join S&amp;
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxObGd1TmszU05XV2k0VzZWN2xsTTc4dF9yMTJ1UkxQbDYwMVE4STNCS1Z3UklMMmI4dkVNYkFjZEpSU3lRUmFBclFGZHRKaFpQRkxLTm0tcnZ5MVFRajM0Y2Q0bEFDSVBGc2pZX2QyTkc2OGJndmlvZzRtMU5Dc2FvRGk3Qi0xUjh4RGfSAY8BQVVfeXFMTk5Gd09FaHpOS3NMOUFuT1c1bEV2U0wzdVF6TEp4SGY1ckJGM3lURDY2Y1dJYU5MQjVIUlYyT092LUFkM18yRjAtMXg5VUZGZkdfSHBtVWVxMWZlZWhKb3VGWDVkWXVlNnVjbFZYbnZicE1ob29UQTRXYzRiQnNJUEZuZmdtQXFYSEdiZFpsaDQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-06 13:25:10 UTC_
+_Last updated: 2026-06-06 19:16:55 UTC_
