@@ -1,26 +1,38 @@
 # 📰 Daily News Summaries
 
-- Killed in drone strike hours before flying home from Kuwait, Ujjain man becomes latest Indian casualty of US-Iran conflict
+- Cockroach Janta Party stages protest, demands Dharmendra Pradhan’s resignation: 7 things you need to know
   
-  🔗 https://indianexpress.com/article/india/killed-in-drone-strike-hours-before-flying-home-from-kuwait-ujjain-man-becomes-latest-indian-casualty-of-us-iran-conflict-10726305/
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-protest-jantar-mantar-dharmendra-pradhan-resignation-all-you-need-to-know-10726744/
 
-- ‘Gilgit-Baltistan Assembly’ elections: India lodges strong protest with Pakistan
+- Oil India’s latest gas find could unlock more hydrocarbon reserves in Andaman offshore
   
-  🔗 https://indianexpress.com/article/india/gilgit-baltistan-assembly-elections-india-lodges-strong-protest-with-pakistan-10726381/
+  🔗 https://indianexpress.com/article/india/oil-india-gas-find-hydrocarbon-reserves-andaman-offshore-10726676/
 
-- US has deported more than 4,600 Indians in last 17 months: Ministry of External Affairs
+- Monsoon advances into Karnataka, may reach Mumbai by June 15
   
-  🔗 https://indianexpress.com/article/india/us-has-deported-more-than-4600-indians-in-last-17-months-ministry-of-external-affairs-10726390/
+  🔗 https://indianexpress.com/article/india/southwest-monsoon-advances-karnataka-mumbai-rain-forecast-10726737/
 
-- Nilgiri Tahr population rises to 1,364 in Tamil Nadu, 4.68% rise over ’25
+- India counters Pakistan at UN, rejects bid to ‘internationalise’ Kashmir issue with ‘biased and false narratives’
   
-  🔗 https://indianexpress.com/article/india/nilgiri-tahr-population-rises-to-1364-in-tamil-nadu-4-68-rise-over-25-10726383/
+  🔗 https://indianexpress.com/article/india/india-counters-pakistan-at-un-rejects-bid-to-internationalise-kashmir-issue-with-biased-and-false-narratives-10726527/
 
-- Nepal’s Foreign Minister begins three-day India visit
+- Chief Justice Surya Kant’s London AI lecture interrupted by question on dissent in India
   
-  🔗 https://indianexpress.com/article/india/nepals-foreign-minister-begins-three-day-india-visit-10726375/
+  🔗 https://indianexpress.com/article/india/cji-surya-kant-london-ai-lecture-dissent-question-10726697/
 
-- We feed 2.35 million children in 25,000 government schools every day: Shridhar Venkat, CEO, Akshaya Patra Foundation
+- HP introduces ZGX Fury GB300, an AI workstation for large-scale models
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-introduces-zgx-fury-gb300-an-ai-workstation-for-large-scale-models-10727004/
+
+- NASA-backed study reveals how Earth got key ingredients for life
+  
+  🔗 https://indianexpress.com/article/technology/science/nasa-study-earth-life-ingredients-phosphorus-nitrogen-jupiter-origin-10726588/
+
+- OpenAI rolls out Lockdown Mode to protect against prompt injection attacks
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-rolls-out-lockdown-mode-to-protect-against-prompt-injection-attacks-10726646/
+
+- ‘Tech is key to scaling the world’s largest school meal programme run by a non-profit’: Shridhar Venkat, CEO, Akshaya Patra
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/akshaya-patra-ceo-shridhar-venkat-interview-ai-midday-meal-pm-poshan-10726019/
 
@@ -28,17 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/science/new-four-winged-dinosaur-fossil-china-10726121/
 
-- Stonehenge mystery may be closer to being solved as scientists trace Altar Stone’s epic journey
-  
-  🔗 https://indianexpress.com/article/technology/science/stonehenge-mystery-may-be-closer-to-being-solved-as-scientists-trace-altar-stones-epic-journey-10726086/
-
-- NASA’s Roman Space Telescope gets August 2026 launch date, ahead of schedule
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-roman-space-telescope-gets-august-2026-launch-date-ahead-of-schedule-10726087/
-
-- Meta smart glasses app reportedly contains unreleased face-recognition system
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-smart-glasses-app-reportedly-contains-unreleased-face-recognition-system-10725935/
+- KPMG forensic review says IDFC First Bank Chandigarh fraud an isolated incident
+  The KPMG forensic review found collusion among IDFC First Bank's branch staff, customer representatives and third parties.
+  🔗 https://www.livemint.com/companies/news/kpmg-forensic-review-says-idfc-first-bank-chandigarh-fraud-an-isolated-incident-11780731428126.html
 
 - SpaceX’s lofty IPO has serious earthbound problems, from emissions to water
   Data centers use water primarily for cooling their servers.
@@ -56,29 +60,25 @@
   LIC’s voting trail shows repeated concerns over disclosures. This highlights the value of public records as investor warning signs. It also raises questions over whether LIC could have done more.
   🔗 https://www.livemint.com/companies/rajesh-exports-voting-trail-lic-red-flags-sebi-order-11780661423677.html
 
-- Remaining three 60 Minutes stars say theyre staying at CBS show, dont want to see it die
-  Remaining three '60 Minutes' stars say they're staying
-  🔗 https://www.livemint.com/companies/remaining-three-60-minutes-stars-say-theyre-staying-at-cbs-show-dont-want-to-see-it-die-11780690458279.html
+- How is the Indian stock market expected to open on Monday after RBI's FII push? Here's what GIFT Nifty signals
+  Indian equity markets expected to remain range-bound as domestic policy support meets challenging global cues. Concerns over crude oil prices and geopolitical tensions keep investors cautious.
+  🔗 https://www.livemint.com/market/stock-market-news/how-is-the-indian-stock-market-expected-to-open-on-monday-8-june-after-rbi-fii-push-heres-what-gift-nifty-signals-11780731434469.html
 
-- Four defence companies cashing in on the BrahMos export surge
-  India's recently signed BrahMos pact with Vietnam and Indonesia.
-  🔗 https://www.livemint.com/market/stock-market-news/brahmos-stocks-hal-share-price-data-patterns-premier-explosives-top-defence-stocks-11780662468731.html
+- LIC bets big on Maruti Suzuki, raises stake to above 5% despite weakness in the auto major
+  LIC's holding in the company has risen to 5.006%. Before the transaction, LIC held 1.57
+  🔗 https://www.livemint.com/market/stock-market-news/lic-bets-big-on-maruti-suzuki-raises-stake-to-above-5-despite-weakness-in-the-auto-major-11780730130089.html
 
-- Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain
-  Stocks fall sharply as strong jobs data fuels rate hike
-  🔗 https://www.livemint.com/market/stocks-fall-sharply-as-strong-jobs-data-fuels-rate-hike-bets-oil-set-for-weekly-gain-11780688435553.html
+- US stock markets this week: S&amp;P 500's 9-week rally ends, falls 2.6%; Nasdaq tumbles 4.5% as tech stocks crash
+  Wall Street's nine-week rally ended as technology stocks plummeted. Nasdaq suffered its largest drop since April 2025. Strong US jobs report heightened fears of prolonged interest rates.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-9-week-rally-ends-falls-2-6-nasdaq-tumbles-4-5-as-tech-stocks-crash-11780726274017.html
 
-- Oil prices fall on mounting hopes for de-escalation in US-Iran War
-  Oil prices fall on mounting hopes
-  🔗 https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 8 June 2026
+  From a technical perspective, immediate support is placed in the 23,200–23,250
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-8-june-2026-11780725175483.html
 
-- Emerging-Market Currencies Sink on Gangbuster US Jobs Report
-  Currencies in the developing world sank after a blowout US jobs report provided the clearest sign yet that the labor market is breaking out of a prolonged period of lackluster hiring.
-  🔗 https://www.livemint.com/market/emergingmarket-currencies-sink-on-gangbuster-us-jobs-report-11780685913066.html
-
-- Gold Falls Most in Two Months as Jobs Fuel Fed Rate-Hike Bets
-  Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year.
-  🔗 https://www.livemint.com/market/gold-falls-most-in-two-months-as-jobs-fuel-fed-rate-hike-bets-11780685669328.html
+- Are Rajesh Exports shares a new Gensol Engineering in the making in the Indian stock market?
+  Rajesh Exports has strongly denied wrongdoing. In a clarification issued after the June 3 interim order, the company said SEBI had not recorded
+  🔗 https://www.livemint.com/market/stock-market-news/are-rajesh-exports-shares-a-new-gensol-engineering-in-the-making-in-the-indian-stock-market-11780718275956.html
 
 - China can build humanoids at scale. The hard part is finding enough buyers
   China can build humanoids at scale.
@@ -101,84 +101,124 @@
   🔗 https://www.livemint.com/technology/india-to-use-ai-for-machine-readable-standards-consumer-affairs-secretary-11780563047045.html
 
 - Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates - CNBC
-  Nasdaq, S&amp;P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise.
+  Nasdaq falls 4% and suffers worst day since April 2025 as traders
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5
+
+- Stock Market News for June 5, 2026: Nasdaq Suffers Worst Week in More Than a Year - WSJ
+  Stock Market News for June 5, 2026: Nasdaq Suffers
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
+
+- US stocks slump as fears over Big Tech shake Wall Street - BBC
+  US stocks slump as fears over Big Tech shake
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5
+
+- Government announces measures to deepen the G-Sec market and facilitate greater Foreign Portfolio Investment (FPI) - INSIGHTS IAS
+  Government announces measures to deepen the G-Sec market and facilitate greater Foreign
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnJkWTZGUG9ab2JrUXg3SU9KUGc2UFBtSUg5Yl9uNVVxU29rN052UTh5TXRqdnNhQ25tT2lsVE9ub3JneGJEd0FrNEtjUlF3SXlBVDBLODJxWXd3U2pOajY1NUlYd0V2RVhwMHVraTcxZXEzZm9TdGI5dFk1UGl3Q1BGV1Q5VUYwd2F5ZkZ4YjJJbVBjQnpSNW01LVk0OWlqenlSRWIxNmg0V2I4VkJualhnTWxoYTRFcGkxNnJTdFJueGlmazlnODUzVVpneEZMdVZJc1BZdzBwcGVUbGpjdHdJdXVVNEMzVjBFWA?oc=5
 
 - Watch: Is there an AI stock market bubble, and is it ready to burst? - BBC
   Watch: Is there an AI stock market bubble, and is
   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SLU5zWXJjcGtXV0VHWVE4MHF5ZUhwSDlqay1hc29BVGU0XzB4eDlYMU1DZmcwT0Etb0VnM0VGeWQtQXpYYkZVYnoyclVha01CRzhXMzFVQQ?oc=5
 
-- Chip sell-off rattles markets - Yahoo Finance
-  Yahoo Finance
-  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUEwTFdBVGdlMVVFemlub08xaU00Q0I2YmJ1b3FQTnUxcDlBZnlPamUtMUg3SUhpUXpKTGlMRFdHOTZ4RXZVeTVSZlhSelNvbEZDSmNEMU5LcTJWa3RUOEMyclhNY2JLN2dYdGk0Yy12Tzg0b2tjVXM5TXhrNmQzLXpn?oc=5
+- When is the best time to trade crypto in India?
+  Crypto markets operate 24/7, offering Indian traders opportunities beyond traditional market hours. According to CoinDCX co-founder Sumit Gupta, the Europe-US trading overlap between 6:30 PM and 10
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/when-is-the-best-time-to-trade-crypto-in-india/articleshow/131547312.cms
 
-- SCENARIOS How Indian markets could react to RBI's policy call - Reuters
+- Zinc prices at multi-year highs: What’s driving the rally and what lies ahead?
+  Zinc prices have climbed to multi-year highs as tight global inventories, rising production costs, and supply disruptions fuel a strong rally. While infrastructure spending, renewable energy projects, and industrial demand support the long-term
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/zinc-prices-at-multi-year-highs-whats-driving-the-rally-and-what-lies-ahead/articleshow/131546761.cms
+
+- Bullish on autos? Siddhartha Khemka picks Maruti Suzuki and Samvardhana Motherson
+  Siddhartha Khemka remains bullish on the sector, recommending Maruti Suzuki and Samvardhana Motherson. He cites strong growth visibility, healthy demand trends, and improving operational performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bullish-on-autos-siddhartha-khemka-picks-maruti-suzuki-and-samvardhana-motherson/articleshow/131546425.cms
+
+- Gautam Adani becomes Asia's richest person again; overtakes Mukesh Ambani, Softbank's Masayoshi Son
+  Gautam Adani has regained the title of Asia’s richest person after a rally in Adani Group stocks lifted his net worth to $89.2 billion. The surge helped him overtake Mukesh
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gautam-adani-becomes-asias-richest-person-again-overtakes-mukesh-ambani-softbanks-masayoshi-son/articleshow/131546277.cms
+
+- Musk's SpaceX IPO jolts life back into European retail investing
+  European retail investors are eagerly eyeing the SpaceX IPO. An unusually large allocation planned across several countries. Experts caution about the risks associated with the loss-making company's high valuation.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/musks-spacex-ipo-jolts-life-back-into-european-retail-investing/articleshow/131545834.cms
+
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
   &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmRTMmxfdXRBd012LXZOYUFYY1hyTXB3YWRScTRBVldFR0d3T3pQdlVZX3N2S2lkV1ZYVlhLS3RPUjNyY282ZVFFX2FhQ2VKc3ZmdmlNRVZROEVUYnVfZ0J5TFNISVJaemJIbm1SQWlMalg0UTJieHpZOUNiN2VpTXh6VzlHSC1BdlVIWURZcFdjazBLdUNYa1ZTbw?oc=5
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Oil Markets Stop Believing Trump's Peace Narrative - Crude Oil Prices Today | OilPrice.com
-  Oil Markets Stop Believing Trump's Peace Narrative
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQVC0tenNxeF91ZWY3MXhINldCZGduRDk2X0NXbEo5UHA5cnJRUHZrdDNyRVRnaTlXZEhiMnVEUV90QVg3T3I1bjBEbDlfczE1ZXdBWGJrd3FPYWZWejBCOGhzRnZzbHNySW5tVnA3WWVmS2lUYUlWUVlpdTFZRkpzc3pTczRrd1Z4SW9faXVrLXZtbUkwOUpra2NzWlU2QdIBowFBVV95cUxQYndsTFhnU1Y2NTFmVWsxNjFOTHdhZG02QS15LWhJUGlQRzhXUFZzYWtmTmxrbzZCcVRNX2JUYXI4cGJWeWNZdWFGeTNYMXU0QW1XUTFLU0RqQ1ktSFd1U0N5NVFfQVlIX2tLdzFXMzlDbkNrSzlIY01FcFFmNW5kRmtPYTZTZlRrdkNwb2RRRDdnQk9ZVThoTUhzYm5PS2M0cHJV?oc=5
+- Sanctions Threats Against India Would Boomerang Under PM Modi, Says Putin - NDTV
+  Sanctions Threats Against India Would Boomer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl1ejlhN0lFMHRIOW9NaWZnNFhPb3NGdlZOSUs1X01vSE8xdjVHdkwyM3FBRzJqOUxNUkxsZ0xyR2tVSW4yWTBLUFl3dnNEVHpGeU1LbUppZEtDSmVnTTdkSFdPQ2QtNTF5RW0taXFiNm1uN0ZPZXpPeDJvTi1kZ2ZTN3dVeXpBX1FubVdfMWNsZ2JBcG9XUVpVZ0JLdDItbGZFaFM2M1ZzXzlWRXdIWFNtc9IBuwFBVV95cUxPRXJGUkZQSUJXNkRmMjZjREhmWmlCNDBlWTNnVUxuVDE0QjliTXhBWTFiLXV0WmswZ2lUZk1OSkIxQ2JlY0xTdElTU2xhbnZUdWtuem1nUF8tdklVNjJOMHhubzJaZmNUNzFzbk5XQkVIMlVmUE9jMkZsaVlUTk9oTHRTRkJPdGFZTXVxc0pMMm84WllxSVl2Q2JENnlyOEhYT1BpMUtuTlVVWTQxcGlScUJlUFNkUk00TG5r?oc=5
 
-- US stocks today: Nasdaq crashes 1,100 pts, Dow 600 pts as chip stocks slide; jobs data fuels rate hike fears
-  Wall Street tumbled as a strong U.S. jobs report dimmed hopes of rate cuts. The Nasdaq plunged over 4%, ending a nine-week rally.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears/articleshow/131540487.cms
+- 'Any sanctions threat would boomerang': Putin hails India's stance against foreign diktats - The Times of India
+  'Any sanctions threat would boomerang': Putin hails India
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY05tREtBSjJ6alpQRDJLSjdMcEhIU3pudDEwQXptYUFNSkxHNDk2b0NnNUhYY0xpRVJwLVNqMm9YRGJoM1h4MFdYTFRBVjJPUTJFN3huZElsYnBWenBsYmVNdzdtYzgwVUJZeUM0TWZyREotSlIwY3I1VUhsa3NSTlJVUTFQZEVzWEhBdVR3TS1Qb3hZRllFcFU3OWxBeEx2a1gzejJGWmtreEtLbWNPcVowVVR3WFZFNnU0a0czRmpPWTVnWnQ4dTVlaHVDUi0zMjJiNkZEdG5EUHBoQjdkQXdnN0dUWnAxenc?oc=5
 
-- Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs
-  Many are choosing to withdraw from Bitcoin ETFs, shifting their focus to the burgeoning semiconductor sector.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoins-star-fades-as-investors-flock-to-lustre-of-ai-and-megacap-ipos/articleshow/131536454.cms
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- Lululemon shares drop as forecast cut spotlights challenges for incoming CEO
-  Lululemon adjusted its profit expectations for the year. This news has escalated concerns among investors.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lululemon-shares-drop-as-forecast-cut-spotlights-challenges-for-incoming-ceo/articleshow/131536386.cms
+- Sweet victory? Bengal BJP's GI tag push for Kansat, Mohan Bhog - The Times of India
+  The Times of India reported that the Bengal BJP's GI tag
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQb082b1lqT3RZUzl3RjVMc3lxaWp1M2UtclM4UXdsVHl3ZU5TV2gxeGpPeHFlUkZ0eUpqXzVWRDRrN29TWUhfQk5SUlZGRXVOVkM5ZU9kOHptUUFGN2JOM2V4ZXhKSlJyUFRfVGx1dmhyU2hISUNoaXRFaGxraEw4dWRyNm52ejh2N19SRUxPcUFrVW91WXVRSVNUWWt4Uy1WTDllQk1UOU9rQ0ZYMWY4eG14WndMMmFPejRIczFTQ0hHZE9GMHfSAcsBQVVfeXFMTzJRMXZneDh2N3liejVQN2duMnRLUmVhOVE0MkkxbUdRQXNzYWd6SjBQNlZZUzNUM0xrOTROa21hcm1VLWNsSnRKQnQyWGx1YkFBbFdmMEpvVmtjMnVISTZza0xiQVhkQTV2QW5Sa25GMWVLWktHSm80NzJXNXVXYmtrRGFCYjB2Z1ViRzFndmFKRzhIZG4yaVBaSDRXZXZVMjFFZXNjQVBhRVJwYXhpbFVZWVplZGxldlI1elJQN3didHEwSGk2N3RuZGc?oc=5
 
-- Franklin Resources' Wamco to pay $100 million SEC fine over former star manager's trades
-  Western Asset Management, a unit of Franklin Resources, will pay $100 million to settle SEC charges tied to a $600 million cherry-picking scheme. The firm did not admit wrongdoing.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/franklin-resources-wamco-to-pay-100-million-sec-fine-over-former-star-managers-trades/articleshow/131536352.cms
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- Spacex IPO is said to draw more orders than shares available
-  Elon Musk-led firm may surpass Saudi Aramco's record. Shares are priced at $135, valuing the company near $1.8 trillion. Trading expected to begin mid-June.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms
+- Sanctions Threats Against India Would Boomerang Under PM Modi, Says Putin - NDTV
+  Sanctions Threats Against India Would Boomer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl1ejlhN0lFMHRIOW9NaWZnNFhPb3NGdlZOSUs1X01vSE8xdjVHdkwyM3FBRzJqOUxNUkxsZ0xyR2tVSW4yWTBLUFl3dnNEVHpGeU1LbUppZEtDSmVnTTdkSFdPQ2QtNTF5RW0taXFiNm1uN0ZPZXpPeDJvTi1kZ2ZTN3dVeXpBX1FubVdfMWNsZ2JBcG9XUVpVZ0JLdDItbGZFaFM2M1ZzXzlWRXdIWFNtc9IBuwFBVV95cUxPRXJGUkZQSUJXNkRmMjZjREhmWmlCNDBlWTNnVUxuVDE0QjliTXhBWTFiLXV0WmswZ2lUZk1OSkIxQ2JlY0xTdElTU2xhbnZUdWtuem1nUF8tdklVNjJOMHhubzJaZmNUNzFzbk5XQkVIMlVmUE9jMkZsaVlUTk9oTHRTRkJPdGFZTXVxc0pMMm84WllxSVl2Q2JENnlyOEhYT1BpMUtuTlVVWTQxcGlScUJlUFNkUk00TG5r?oc=5
 
-- Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC
-  Donald Trump confident of India trade deal, calls Narendra Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5
+- 'Any sanctions threat would boomerang': Putin hails India's stance against foreign diktats - The Times of India
+  'Any sanctions threat would boomerang': Putin hails India
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY05tREtBSjJ6alpQRDJLSjdMcEhIU3pudDEwQXptYUFNSkxHNDk2b0NnNUhYY0xpRVJwLVNqMm9YRGJoM1h4MFdYTFRBVjJPUTJFN3huZElsYnBWenBsYmVNdzdtYzgwVUJZeUM0TWZyREotSlIwY3I1VUhsa3NSTlJVUTFQZEVzWEhBdVR3TS1Qb3hZRllFcFU3OWxBeEx2a1gzejJGWmtreEtLbWNPcVowVVR3WFZFNnU0a0czRmpPWTVnWnQ4dTVlaHVDUi0zMjJiNkZEdG5EUHBoQjdkQXdnN0dUWnAxenc?oc=5
 
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- 1st tranche of US trade deal by mid-July: Piyush Goyal - The Times of India
-  1st tranche of US trade deal by mid-
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN205Qlp1WlM1VEUtRnVqRXI1RW56N18ta3VNMWI0amRxRjJxdWFUM1F2VThpNzhXa1NvNVh6Wk1rQTRkMFdSeC04c1dDYWxSZGlicHBKcGlUbm15M0hVVWNyWXJycDF2cEtJaVNXZjVlVTl0eWFNNVZpMGJPeEZZb3dRTTk2YXVyT1liMU9RYUJhUVBrbXN4X0JNbjZXbW5NTFhOenhHbmpRR1pCd3NMektlRWl1Um9PUllGZUxvSzdrd09iOVFmNTFKLVY3NmFHR05jUWVn0gHbAUFVX3lxTE13dDJQcUgtVWFDck9kOVFXTDFObFJNSG1Ib1ZET1h5M1h4QmsyNlNudWIwcW9vQUExZnIyRk1NR2FRUFB6ekNIaTZhTDdzQWRCeE1OSWdmQlN6ZEZtOEdxbEdWMDNyX3lXSzgxUEJyc19fb1ktam9WMlp6c3hZM1pzSnlLQnFQWEJRS1pJNmhfQm1rWFhpTHB3NkxhZXBWUkhFMlZaazF6RlBmWlJScXRmNDBuNHN5a2c1WHhvTUJFVWlSX2o4cVNjQVA3WFc3R0tzNDdrbzlQS1UtYw?oc=5
+- Sweet victory? Bengal BJP's GI tag push for Kansat, Mohan Bhog - The Times of India
+  The Times of India reported that the Bengal BJP's GI tag
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQb082b1lqT3RZUzl3RjVMc3lxaWp1M2UtclM4UXdsVHl3ZU5TV2gxeGpPeHFlUkZ0eUpqXzVWRDRrN29TWUhfQk5SUlZGRXVOVkM5ZU9kOHptUUFGN2JOM2V4ZXhKSlJyUFRfVGx1dmhyU2hISUNoaXRFaGxraEw4dWRyNm52ejh2N19SRUxPcUFrVW91WXVRSVNUWWt4Uy1WTDllQk1UOU9rQ0ZYMWY4eG14WndMMmFPejRIczFTQ0hHZE9GMHfSAcsBQVVfeXFMTzJRMXZneDh2N3liejVQN2duMnRLUmVhOVE0MkkxbUdRQXNzYWd6SjBQNlZZUzNUM0xrOTROa21hcm1VLWNsSnRKQnQyWGx1YkFBbFdmMEpvVmtjMnVISTZza0xiQVhkQTV2QW5Sa25GMWVLWktHSm80NzJXNXVXYmtrRGFCYjB2Z1ViRzFndmFKRzhIZG4yaVBaSDRXZXZVMjFFZXNjQVBhRVJwYXhpbFVZWVplZGxldlI1elJQN3didHEwSGk2N3RuZGc?oc=5
 
-- Was Abhijeet Dipke deported by US? Govt gets question ahead of Cockroach Janta Party protest in Delhi | India News - Hindustan Times
-  Was Abhijeet Dipke deported by US? Govt gets question ahead of Cock
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxObUdmYVU1OERFY3kxbmdBeGFfVWtDZEs4dkstdXhFMVBqMVlFcDVZNjI0UU55OFVEYkFNSVlUWmgzaTJ3Tm1wS0o5ZjBpejl4X095WHgzaU5Xc0ZVVGRGSXBYMTlmNnZJWVJsWmJVZHQ3Zl9UeEJsbVpMTmdiZWFfemJmbE9YSHphR0p5Y0oxbUhtZmlUTjc2dEVHQnpnemFvRHctUFJ5eDlHdXdRMnVkampiT3ZkTmR1MFlhQXFyZ21NMDJiTVRFVTN6Z0ZvOTU2cm1YeEtXYjlPUGlQdDFFVnUwaklBbzhDeXZlc0hwdlNSYklzM2pyaHF0OFN4ajZOWlHSAYcCQVVfeXFMTzA2YWdBcEFEV0F4eWNNcENpNUNGa2RBbFBBbGxBbG9SU001NFFfOW9ZcDdUT2FXd2JQVXJfdlhPT29lMmF4aTkzLUxLVkphY0NuS2Z4RGZTVDFQNFh4T2ctaG1udmpUaXZBR0g1MnBvSTJyTHc0NkNXYVNYS1hfbUR0T05iR05QbGhJQnBnS1FPMFhzRmFhd3k0d3oxaXhkdDVWSk1zVUtJRVJMTFRuVW5BN2x2QjdBMi1qTlEzS1dObTZmZUlFQjhXMk56MzNlVWlQVUhTLWhCVUlhSTV1VzVmQ3J1V2Qwb21yVjVzRlJKN2EtQ0dlVHFta2xDd3BReUNQQXZuUTA?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- CJP’s NEET stir today, Youth Congress rejects overture - The Times of India
-  The Times of India published a front-page
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmFlbWpfLW1wcUM0TWZ0Rld0bjB1V0FnUEFkT0FhZ2lZY0ZLQ3dpNlFOdXA0cXpUWGdVWTRZRnkyVDI5S3B0aHBmczBQR2g5QUVNeHBySEpMaFpwb3lIaENpVHVfTnA5ZGVEdk00UkhSaWxVdmF0bnRzV3hUVFB5TDIzZUktVEMybkx5a1Q2blBwSF9Qd05WMDRPNHJtSF9jcnFVVDNOT1RRUHpOeGk2N05yTWt1YU15eHV2edIBwgFBVV95cUxQdTlreVhRM3VjR1dxbFR0d0UwU0hNTmpUX2JSWDZrTlk2WmMxNW0xdDh5VFJPOFJJYlk5aUczYk53OXZSZFotaU9oYWRjdTNsdHB5Q3psYVloZnM3RnV1UmZ5eFJqUXJybkl2RUszaG82MlJwR3Y4dWF2SG1Kem1XNzNkdXFuVV9nLUNsNHFjeThpaG9XWUdWNFh6QktZQzlsSWViakZubVpnNDRpNFdOR3FNN2p3dk4zb0RwVnN1ZzU0dw?oc=5
+- Sanctions Threats Against India Would Boomerang Under PM Modi, Says Putin - NDTV
+  Sanctions Threats Against India Would Boomer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl1ejlhN0lFMHRIOW9NaWZnNFhPb3NGdlZOSUs1X01vSE8xdjVHdkwyM3FBRzJqOUxNUkxsZ0xyR2tVSW4yWTBLUFl3dnNEVHpGeU1LbUppZEtDSmVnTTdkSFdPQ2QtNTF5RW0taXFiNm1uN0ZPZXpPeDJvTi1kZ2ZTN3dVeXpBX1FubVdfMWNsZ2JBcG9XUVpVZ0JLdDItbGZFaFM2M1ZzXzlWRXdIWFNtc9IBuwFBVV95cUxPRXJGUkZQSUJXNkRmMjZjREhmWmlCNDBlWTNnVUxuVDE0QjliTXhBWTFiLXV0WmswZ2lUZk1OSkIxQ2JlY0xTdElTU2xhbnZUdWtuem1nUF8tdklVNjJOMHhubzJaZmNUNzFzbk5XQkVIMlVmUE9jMkZsaVlUTk9oTHRTRkJPdGFZTXVxc0pMMm84WllxSVl2Q2JENnlyOEhYT1BpMUtuTlVVWTQxcGlScUJlUFNkUk00TG5r?oc=5
 
-- Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC
-  Donald Trump confident of India trade deal, calls Narendra Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5
+- 'Any sanctions threat would boomerang': Putin hails India's stance against foreign diktats - The Times of India
+  'Any sanctions threat would boomerang': Putin hails India
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY05tREtBSjJ6alpQRDJLSjdMcEhIU3pudDEwQXptYUFNSkxHNDk2b0NnNUhYY0xpRVJwLVNqMm9YRGJoM1h4MFdYTFRBVjJPUTJFN3huZElsYnBWenBsYmVNdzdtYzgwVUJZeUM0TWZyREotSlIwY3I1VUhsa3NSTlJVUTFQZEVzWEhBdVR3TS1Qb3hZRllFcFU3OWxBeEx2a1gzejJGWmtreEtLbWNPcVowVVR3WFZFNnU0a0czRmpPWTVnWnQ4dTVlaHVDUi0zMjJiNkZEdG5EUHBoQjdkQXdnN0dUWnAxenc?oc=5
 
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- 1st tranche of US trade deal by mid-July: Piyush Goyal - The Times of India
-  1st tranche of US trade deal by mid-
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN205Qlp1WlM1VEUtRnVqRXI1RW56N18ta3VNMWI0amRxRjJxdWFUM1F2VThpNzhXa1NvNVh6Wk1rQTRkMFdSeC04c1dDYWxSZGlicHBKcGlUbm15M0hVVWNyWXJycDF2cEtJaVNXZjVlVTl0eWFNNVZpMGJPeEZZb3dRTTk2YXVyT1liMU9RYUJhUVBrbXN4X0JNbjZXbW5NTFhOenhHbmpRR1pCd3NMektlRWl1Um9PUllGZUxvSzdrd09iOVFmNTFKLVY3NmFHR05jUWVn0gHbAUFVX3lxTE13dDJQcUgtVWFDck9kOVFXTDFObFJNSG1Ib1ZET1h5M1h4QmsyNlNudWIwcW9vQUExZnIyRk1NR2FRUFB6ekNIaTZhTDdzQWRCeE1OSWdmQlN6ZEZtOEdxbEdWMDNyX3lXSzgxUEJyc19fb1ktam9WMlp6c3hZM1pzSnlLQnFQWEJRS1pJNmhfQm1rWFhpTHB3NkxhZXBWUkhFMlZaazF6RlBmWlJScXRmNDBuNHN5a2c1WHhvTUJFVWlSX2o4cVNjQVA3WFc3R0tzNDdrbzlQS1UtYw?oc=5
+- Sweet victory? Bengal BJP's GI tag push for Kansat, Mohan Bhog - The Times of India
+  The Times of India reported that the Bengal BJP's GI tag
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQb082b1lqT3RZUzl3RjVMc3lxaWp1M2UtclM4UXdsVHl3ZU5TV2gxeGpPeHFlUkZ0eUpqXzVWRDRrN29TWUhfQk5SUlZGRXVOVkM5ZU9kOHptUUFGN2JOM2V4ZXhKSlJyUFRfVGx1dmhyU2hISUNoaXRFaGxraEw4dWRyNm52ejh2N19SRUxPcUFrVW91WXVRSVNUWWt4Uy1WTDllQk1UOU9rQ0ZYMWY4eG14WndMMmFPejRIczFTQ0hHZE9GMHfSAcsBQVVfeXFMTzJRMXZneDh2N3liejVQN2duMnRLUmVhOVE0MkkxbUdRQXNzYWd6SjBQNlZZUzNUM0xrOTROa21hcm1VLWNsSnRKQnQyWGx1YkFBbFdmMEpvVmtjMnVISTZza0xiQVhkQTV2QW5Sa25GMWVLWktHSm80NzJXNXVXYmtrRGFCYjB2Z1ViRzFndmFKRzhIZG4yaVBaSDRXZXZVMjFFZXNjQVBhRVJwYXhpbFVZWVplZGxldlI1elJQN3didHEwSGk2N3RuZGc?oc=5
 
-- Was Abhijeet Dipke deported by US? Govt gets question ahead of Cockroach Janta Party protest in Delhi | India News - Hindustan Times
-  Was Abhijeet Dipke deported by US? Govt gets question ahead of Cock
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxObUdmYVU1OERFY3kxbmdBeGFfVWtDZEs4dkstdXhFMVBqMVlFcDVZNjI0UU55OFVEYkFNSVlUWmgzaTJ3Tm1wS0o5ZjBpejl4X095WHgzaU5Xc0ZVVGRGSXBYMTlmNnZJWVJsWmJVZHQ3Zl9UeEJsbVpMTmdiZWFfemJmbE9YSHphR0p5Y0oxbUhtZmlUTjc2dEVHQnpnemFvRHctUFJ5eDlHdXdRMnVkampiT3ZkTmR1MFlhQXFyZ21NMDJiTVRFVTN6Z0ZvOTU2cm1YeEtXYjlPUGlQdDFFVnUwaklBbzhDeXZlc0hwdlNSYklzM2pyaHF0OFN4ajZOWlHSAYcCQVVfeXFMTzA2YWdBcEFEV0F4eWNNcENpNUNGa2RBbFBBbGxBbG9SU001NFFfOW9ZcDdUT2FXd2JQVXJfdlhPT29lMmF4aTkzLUxLVkphY0NuS2Z4RGZTVDFQNFh4T2ctaG1udmpUaXZBR0g1MnBvSTJyTHc0NkNXYVNYS1hfbUR0T05iR05QbGhJQnBnS1FPMFhzRmFhd3k0d3oxaXhkdDVWSk1zVUtJRVJMTFRuVW5BN2x2QjdBMi1qTlEzS1dObTZmZUlFQjhXMk56MzNlVWlQVUhTLWhCVUlhSTV1VzVmQ3J1V2Qwb21yVjVzRlJKN2EtQ0dlVHFta2xDd3BReUNQQXZuUTA?oc=5
+- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
 
-- CJP’s NEET stir today, Youth Congress rejects overture - The Times of India
-  The Times of India published a front-page
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmFlbWpfLW1wcUM0TWZ0Rld0bjB1V0FnUEFkT0FhZ2lZY0ZLQ3dpNlFOdXA0cXpUWGdVWTRZRnkyVDI5S3B0aHBmczBQR2g5QUVNeHBySEpMaFpwb3lIaENpVHVfTnA5ZGVEdk00UkhSaWxVdmF0bnRzV3hUVFB5TDIzZUktVEMybkx5a1Q2blBwSF9Qd05WMDRPNHJtSF9jcnFVVDNOT1RRUHpOeGk2N05yTWt1YU15eHV2edIBwgFBVV95cUxQdTlreVhRM3VjR1dxbFR0d0UwU0hNTmpUX2JSWDZrTlk2WmMxNW0xdDh5VFJPOFJJYlk5aUczYk53OXZSZFotaU9oYWRjdTNsdHB5Q3psYVloZnM3RnV1UmZ5eFJqUXJybkl2RUszaG82MlJwR3Y4dWF2SG1Kem1XNzNkdXFuVV9nLUNsNHFjeThpaG9XWUdWNFh6QktZQzlsSWViakZubVpnNDRpNFdOR3FNN2p3dk4zb0RwVnN1ZzU0dw?oc=5
+- Sanctions Threats Against India Would Boomerang Under PM Modi, Says Putin - NDTV
+  Sanctions Threats Against India Would Boomer
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTl1ejlhN0lFMHRIOW9NaWZnNFhPb3NGdlZOSUs1X01vSE8xdjVHdkwyM3FBRzJqOUxNUkxsZ0xyR2tVSW4yWTBLUFl3dnNEVHpGeU1LbUppZEtDSmVnTTdkSFdPQ2QtNTF5RW0taXFiNm1uN0ZPZXpPeDJvTi1kZ2ZTN3dVeXpBX1FubVdfMWNsZ2JBcG9XUVpVZ0JLdDItbGZFaFM2M1ZzXzlWRXdIWFNtc9IBuwFBVV95cUxPRXJGUkZQSUJXNkRmMjZjREhmWmlCNDBlWTNnVUxuVDE0QjliTXhBWTFiLXV0WmswZ2lUZk1OSkIxQ2JlY0xTdElTU2xhbnZUdWtuem1nUF8tdklVNjJOMHhubzJaZmNUNzFzbk5XQkVIMlVmUE9jMkZsaVlUTk9oTHRTRkJPdGFZTXVxc0pMMm84WllxSVl2Q2JENnlyOEhYT1BpMUtuTlVVWTQxcGlScUJlUFNkUk00TG5r?oc=5
+
+- 'Any sanctions threat would boomerang': Putin hails India's stance against foreign diktats - The Times of India
+  'Any sanctions threat would boomerang': Putin hails India
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY05tREtBSjJ6alpQRDJLSjdMcEhIU3pudDEwQXptYUFNSkxHNDk2b0NnNUhYY0xpRVJwLVNqMm9YRGJoM1h4MFdYTFRBVjJPUTJFN3huZElsYnBWenBsYmVNdzdtYzgwVUJZeUM0TWZyREotSlIwY3I1VUhsa3NSTlJVUTFQZEVzWEhBdVR3TS1Qb3hZRllFcFU3OWxBeEx2a1gzejJGWmtreEtLbWNPcVowVVR3WFZFNnU0a0czRmpPWTVnWnQ4dTVlaHVDUi0zMjJiNkZEdG5EUHBoQjdkQXdnN0dUWnAxenc?oc=5
+
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+
+- Sweet victory? Bengal BJP's GI tag push for Kansat, Mohan Bhog - The Times of India
+  The Times of India reported that the Bengal BJP's GI tag
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQb082b1lqT3RZUzl3RjVMc3lxaWp1M2UtclM4UXdsVHl3ZU5TV2gxeGpPeHFlUkZ0eUpqXzVWRDRrN29TWUhfQk5SUlZGRXVOVkM5ZU9kOHptUUFGN2JOM2V4ZXhKSlJyUFRfVGx1dmhyU2hISUNoaXRFaGxraEw4dWRyNm52ejh2N19SRUxPcUFrVW91WXVRSVNUWWt4Uy1WTDllQk1UOU9rQ0ZYMWY4eG14WndMMmFPejRIczFTQ0hHZE9GMHfSAcsBQVVfeXFMTzJRMXZneDh2N3liejVQN2duMnRLUmVhOVE0MkkxbUdRQXNzYWd6SjBQNlZZUzNUM0xrOTROa21hcm1VLWNsSnRKQnQyWGx1YkFBbFdmMEpvVmtjMnVISTZza0xiQVhkQTV2QW5Sa25GMWVLWktHSm80NzJXNXVXYmtrRGFCYjB2Z1ViRzFndmFKRzhIZG4yaVBaSDRXZXZVMjFFZXNjQVBhRVJwYXhpbFVZWVplZGxldlI1elJQN3didHEwSGk2N3RuZGc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-06 02:42:27 UTC_
+_Last updated: 2026-06-06 08:31:55 UTC_
