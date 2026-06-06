@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Himanta Sarma expands Assam Cabinet, balances new faces and loyalists, groups and regions
+- Killed in drone strike hours before flying home from Kuwait, Ujjain man becomes latest Indian casualty of US-Iran conflict
   
-  🔗 https://indianexpress.com/article/india/assam-cabinet-expansion-himanta-sarma-new-ministers-10726242/
+  🔗 https://indianexpress.com/article/india/killed-in-drone-strike-hours-before-flying-home-from-kuwait-ujjain-man-becomes-latest-indian-casualty-of-us-iran-conflict-10726305/
 
-- After viral ‘littering’ video and police notice in Goa, college student dies by suicide
+- ‘Gilgit-Baltistan Assembly’ elections: India lodges strong protest with Pakistan
   
-  🔗 https://indianexpress.com/article/india/goa-student-suicide-mapusa-garbage-dumping-viral-video-police-inquiry-pramod-sawant-10725686/
+  🔗 https://indianexpress.com/article/india/gilgit-baltistan-assembly-elections-india-lodges-strong-protest-with-pakistan-10726381/
 
-- After Annamalai’s exit, Tamil Nadu BJP Vice President, senior leaders walk out of party
+- US has deported more than 4,600 Indians in last 17 months: Ministry of External Affairs
   
-  🔗 https://indianexpress.com/article/india/annamalai-resignation-bjp-split-tamil-nadu-karu-nagarajan-wetheleader-10726179/
+  🔗 https://indianexpress.com/article/india/us-has-deported-more-than-4600-indians-in-last-17-months-ministry-of-external-affairs-10726390/
 
-- Bihar ICU fire: ‘Absent’ on-duty doctor among 3 hospital staff held for ‘negligence’ leading to 6 deaths
+- Nilgiri Tahr population rises to 1,364 in Tamil Nadu, 4.68% rise over ’25
   
-  🔗 https://indianexpress.com/article/india/bihar-icu-fire-absent-duty-doctor-hospital-staff-held-negligence-deaths-10726172/
+  🔗 https://indianexpress.com/article/india/nilgiri-tahr-population-rises-to-1364-in-tamil-nadu-4-68-rise-over-25-10726383/
 
-- Cockroach Janta Party Protest Live Updates: Demonstration at Jantar Mantar tomorrow, demand for Dharmendra Pradhan’s resignation
+- Nepal’s Foreign Minister begins three-day India visit
   
-  🔗 https://indianexpress.com/article/india/cockroach-janata-party-protest-live-updates-demonstration-at-jantar-mantar-tomorrow-demand-for-dharmendra-pradhans-resignation-10726103/
+  🔗 https://indianexpress.com/article/india/nepals-foreign-minister-begins-three-day-india-visit-10726375/
+
+- We feed 2.35 million children in 25,000 government schools every day: Shridhar Venkat, CEO, Akshaya Patra Foundation
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/akshaya-patra-ceo-shridhar-venkat-interview-ai-midday-meal-pm-poshan-10726019/
 
 - New 4-winged dinosaur discovered in China sheds light on the origins of flight
   
@@ -36,29 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-smart-glasses-app-reportedly-contains-unreleased-face-recognition-system-10725935/
 
-- Blacklisted AI company Anthropic, White House ease tensions ahead of IPO: Reports
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-of-ipo-reports-10725904/
+- SpaceX’s lofty IPO has serious earthbound problems, from emissions to water
+  Data centers use water primarily for cooling their servers.
+  🔗 https://www.livemint.com/companies/news/spacexs-lofty-ipo-has-serious-earthbound-problems-from-emissions-to-water-11780710698355.html
 
-- Trump Says US Still Weighing Share Sale for Fannie, Freddie
-  President Donald Trump said his administration is still considering a public offering of shares in mortgage giants Fannie Mae and Freddie Mac.
-  🔗 https://www.livemint.com/companies/trump-says-us-still-weighing-share-sale-for-fannie-freddie-11780686832671.html
+- Why Reid Hoffman is leaving Microsoft's board for an AI startup?
+  Reid Hoffman steps down from Microsoft board to focus on Manas, his AI drug-discovery
+  🔗 https://www.livemint.com/companies/people/reid-hoffman-exits-microsoft-board-to-focus-on-ai-drug-discovery-startup-manas-11780708167278.html
 
-- UP Power Corp receives approval to source power from Bhutan's hydro project: Details
-  Khorluchu Hydro Power is a joint venture
-  🔗 https://www.livemint.com/companies/up-power-corp-receives-approval-to-source-power-from-bhutans-hydro-project-details-11780675536564.html
+- Elon Musk's SpaceX secures $920 million monthly Google deal for cloud compute capacity- Explained
+  SpaceX lands $920M monthly recurring revenue from Google for AI compute. New infrastructure
+  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-secures-920-million-monthly-google-deal-for-cloud-compute-capacity-explained-11780706693977.html
 
-- Tata Steel UK begins assessment after Port Talbot fire, says Hot Strip Mill restart to begin next week
-  Tata Steel UK said assessment work is underway following a fire at the Pickle Line plant in Port Talbot. No injuries were reported, but a key production line suffered substantial damage.
-  🔗 https://www.livemint.com/companies/news/tata-steel-uk-begins-assessment-after-port-talbot-fire-says-hot-strip-mill-restart-to-begin-next-week-11780674718962.html
+- A five-year trail of LIC's red flags on Rajesh Exports before Sebi order
+  LIC’s voting trail shows repeated concerns over disclosures. This highlights the value of public records as investor warning signs. It also raises questions over whether LIC could have done more.
+  🔗 https://www.livemint.com/companies/rajesh-exports-voting-trail-lic-red-flags-sebi-order-11780661423677.html
 
-- Tata Trusts defends 1989 Tata Sons share transfer, says Palkhivala vetted deal
-  Suresh Tulsiram Patilkhede, a resident of Mumbai and an independent politician, filed a complaint in the high court and sent notices to the Tata Trust
-  🔗 https://www.livemint.com/companies/tata-trusts-defends-1989-tata-sons-share-transfer-says-palkhivala-vetted-deal-noel-tata-ratan-tata-11780656957998.html
+- Remaining three 60 Minutes stars say theyre staying at CBS show, dont want to see it die
+  Remaining three '60 Minutes' stars say they're staying
+  🔗 https://www.livemint.com/companies/remaining-three-60-minutes-stars-say-theyre-staying-at-cbs-show-dont-want-to-see-it-die-11780690458279.html
 
-- Startup Policy Forum submits recommendation to Sebi, finance ministry to ease KYC norms for NRIs investing in India
-  The Startup Policy Forum has urged Sebi and the finance ministry to fix digital onboarding barriers that prevent non
-  🔗 https://www.livemint.com/companies/startup-policy-forum-seeks-easier-kyc-rules-for-nri-investor-11780655285635.html
+- Four defence companies cashing in on the BrahMos export surge
+  India's recently signed BrahMos pact with Vietnam and Indonesia.
+  🔗 https://www.livemint.com/market/stock-market-news/brahmos-stocks-hal-share-price-data-patterns-premier-explosives-top-defence-stocks-11780662468731.html
 
 - Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain
   Stocks fall sharply as strong jobs data fuels rate hike
@@ -76,9 +80,9 @@
   Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year.
   🔗 https://www.livemint.com/market/gold-falls-most-in-two-months-as-jobs-fuel-fed-rate-hike-bets-11780685669328.html
 
-- Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed
-  U.S. stocks fall after robust jobs data stokes fears
-  🔗 https://www.livemint.com/market/wall-street-slumps-as-chips-slide-robust-jobs-data-stokes-fears-of-hawkish-fed-11780685605057.html
+- China can build humanoids at scale. The hard part is finding enough buyers
+  China can build humanoids at scale.
+  🔗 https://www.livemint.com/technology/china-can-build-humanoids-at-scale-the-hard-part-is-finding-enough-buyers-11780711776868.html
 
 - Anthropic says AI labs need coordinated plan to halt development if risks rise
   Anthropic says AI labs need coordinated plan
@@ -96,29 +100,29 @@
   India to use AI for
   🔗 https://www.livemint.com/technology/india-to-use-ai-for-machine-readable-standards-consumer-affairs-secretary-11780563047045.html
 
-- iPhone 18 Pro battery leak looks disappointing, but these 3 upgrades could change the story
-  Latest leak reveals that iPhone 18 Pro could offer only minimal upgrade in battery life over its predecessor. However, there are still 3 reasons why the phone could
-  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-battery-leak-looks-disappointing-but-these-3-upgrades-could-change-the-story-11780550600836.html
-
-- Stock Market Today: Nasdaq Drops 2% After Strong Jobs Report — Live Updates - WSJ
-  Nasdaq drops 4%, the most in more than a year as chip stocks tumble. Treasury Yields Rise After Jobs Report; Bitcoin Falls Below $60,000.
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
+- Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates - CNBC
+  Nasdaq, S&amp;P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5
 
 - Watch: Is there an AI stock market bubble, and is it ready to burst? - BBC
   Watch: Is there an AI stock market bubble, and is
   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SLU5zWXJjcGtXV0VHWVE4MHF5ZUhwSDlqay1hc29BVGU0XzB4eDlYMU1DZmcwT0Etb0VnM0VGeWQtQXpYYkZVYnoyclVha01CRzhXMzFVQQ?oc=5
 
-- Stock markets end marginally lower amid profit-taking post-RBI policy - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1NSSFBUN2pWOHNSYkhBTmRrN1k4LUg3dGlDZzVUeHl2bXBvMWM2Q2wyTF92WDhVaFV0T3pIeGdjbnhsQnFzckladnQyR20tNVU3YlN2VjRQQmJ4ZXNkU3laWHAxSGVXWW
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1NSSFBUN2pWOHNSYkhBTmRrN1k4LUg3dGlDZzVUeHl2bXBvMWM2Q2wyTF92WDhVaFV0T3pIeGdjbnhsQnFzckladnQyR20tNVU3YlN2VjRQQmJ4ZXNkU3laWHAxSGVXWWIwNXR6eWkwRW41eWtqVWtCeUhVTl96NWdJbUJTcWphUVc2LUxYM0twbFptc3NEbDNkaVlVQnhmOWFHVklpSjBnYXBOclM1TG5YS2FaeC0zTHNPbmFKc24ycEtUUDlXU1RCa9IB0gFBVV95cUxNcGxVQlVqSHh6V2pkTGpFRE10XzlLRTBSVk5hZTZlOFViSU96bzdkMkRfTGxuaXRXY2lGUTV2WGpCanI3anhuNVMwMEtOMmhrM2F4UVFqbnNMeUZXSERJYXNma2tlMjcyNU5wRTBMc3FZVVU0ZHEzZDRQdl9rZmduYXpMY0pvckVaeEtaY1pNY25jNGxmc2Y4R3B5Q2NmTEFlYW9WaDlySUtZNU5KSjliWnZ0OVhONE9tel96SlFyV3ZGSTdMd3hWNmEydmQwRDkyWFE?oc=5
+- Chip sell-off rattles markets - Yahoo Finance
+  Yahoo Finance
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUEwTFdBVGdlMVVFemlub08xaU00Q0I2YmJ1b3FQTnUxcDlBZnlPamUtMUg3SUhpUXpKTGlMRFdHOTZ4RXZVeTVSZlhSelNvbEZDSmNEMU5LcTJWa3RUOEMyclhNY2JLN2dYdGk0Yy12Tzg0b2tjVXM5TXhrNmQzLXpn?oc=5
 
-- May jobs report: US labor market smashes expectations with payroll growth of 172,000 - Yahoo! Finance Canada
-  May jobs report: US labor market smashes expectations with payroll growth
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlVXaTc2T2JJeHI1d0pUaTRiQWZ2eUtWYS1TSy0zdlhIYWJqbkp0eFBYRVVaMGlhOTE3SDFTVGdXRHhRWVBhaXE1ZkJub1NSM1NJdjcxU0JXVVRvTnJtVkc2NFNmbUJQUEZUSHdZM2ZMeHgzX1hsTkxFMWZ6Q0VSekxkY3dBQ1dMWXpNYnJwUzhGSHg5Q0xvb3E2alBfcGVVUVVjUzRZY0NRU1NmZk5nVA?oc=5
+- SCENARIOS How Indian markets could react to RBI's policy call - Reuters
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmRTMmxfdXRBd012LXZOYUFYY1hyTXB3YWRScTRBVldFR0d3T3pQdlVZX3N2S2lkV1ZYVlhLS3RPUjNyY282ZVFFX2FhQ2VKc3ZmdmlNRVZROEVUYnVfZ0J5TFNISVJaemJIbm1SQWlMalg0UTJieHpZOUNiN2VpTXh6VzlHSC1BdlVIWURZcFdjazBLdUNYa1ZTbw?oc=5
 
-- A Job Market Leaving Young Graduates Behind Could Scar Them for Years - The New York Times
-  A job market leaving young graduates behind could Scar them for years.
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlNwcWM2b3Y4SzYwVnY0ajktVFdwOWZ5ckhDaHAtNkVHamlzcjBjMWRfMFVfcjJqTWQ1T1BHaHhVQkdYb29qeVQ5ZEVBS29tclVOUUJhMS10b3dqUTgySjZfYVZuVkNIY25Mc2xmNXpSMWNONWthNWowYzB3V3N5d1RhMA?oc=5
+- Oil Markets Stop Believing Trump's Peace Narrative - Crude Oil Prices Today | OilPrice.com
+  Oil Markets Stop Believing Trump's Peace Narrative
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQVC0tenNxeF91ZWY3MXhINldCZGduRDk2X0NXbEo5UHA5cnJRUHZrdDNyRVRnaTlXZEhiMnVEUV90QVg3T3I1bjBEbDlfczE1ZXdBWGJrd3FPYWZWejBCOGhzRnZzbHNySW5tVnA3WWVmS2lUYUlWUVlpdTFZRkpzc3pTczRrd1Z4SW9faXVrLXZtbUkwOUpra2NzWlU2QdIBowFBVV95cUxQYndsTFhnU1Y2NTFmVWsxNjFOTHdhZG02QS15LWhJUGlQRzhXUFZzYWtmTmxrbzZCcVRNX2JUYXI4cGJWeWNZdWFGeTNYMXU0QW1XUTFLU0RqQ1ktSFd1U0N5NVFfQVlIX2tLdzFXMzlDbkNrSzlIY01FcFFmNW5kRmtPYTZTZlRrdkNwb2RRRDdnQk9ZVThoTUhzYm5PS2M0cHJV?oc=5
+
+- US stocks today: Nasdaq crashes 1,100 pts, Dow 600 pts as chip stocks slide; jobs data fuels rate hike fears
+  Wall Street tumbled as a strong U.S. jobs report dimmed hopes of rate cuts. The Nasdaq plunged over 4%, ending a nine-week rally.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears/articleshow/131540487.cms
 
 - Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs
   Many are choosing to withdraw from Bitcoin ETFs, shifting their focus to the burgeoning semiconductor sector.
@@ -136,89 +140,45 @@
   Elon Musk-led firm may surpass Saudi Aramco's record. Shares are priced at $135, valuing the company near $1.8 trillion. Trading expected to begin mid-June.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms
 
-- Rs 5,750 crore Adani block deal: SBI Mutual Fund picks stake from GQG
-  GQG Partners sold stakes in Adani Enterprises and Adani Energy Solutions worth about Rs 5,750 crore. SBI Mutual Fund acquired the shares. The transactions are seen as portfolio rebalancing
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/gqg-trims-adani-exposure-in-rs-5750-crore-block-deal-sell-shares-in-two-group-stocks/articleshow/131535087.cms
-
-- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
-  'Putting Pressure On PM Modi Detrimental For International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
-
-- Putin hails India ties, Trump calls Modi 'good friend' - DW
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
-
-- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
-  Pressure on Modi to limit India-Russia ties will
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
+- Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC
+  Donald Trump confident of India trade deal, calls Narendra Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5
 
 - "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
   "PM Modi A Good Friend": Trump's Big
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
-- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
-  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+- 1st tranche of US trade deal by mid-July: Piyush Goyal - The Times of India
+  1st tranche of US trade deal by mid-
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN205Qlp1WlM1VEUtRnVqRXI1RW56N18ta3VNMWI0amRxRjJxdWFUM1F2VThpNzhXa1NvNVh6Wk1rQTRkMFdSeC04c1dDYWxSZGlicHBKcGlUbm15M0hVVWNyWXJycDF2cEtJaVNXZjVlVTl0eWFNNVZpMGJPeEZZb3dRTTk2YXVyT1liMU9RYUJhUVBrbXN4X0JNbjZXbW5NTFhOenhHbmpRR1pCd3NMektlRWl1Um9PUllGZUxvSzdrd09iOVFmNTFKLVY3NmFHR05jUWVn0gHbAUFVX3lxTE13dDJQcUgtVWFDck9kOVFXTDFObFJNSG1Ib1ZET1h5M1h4QmsyNlNudWIwcW9vQUExZnIyRk1NR2FRUFB6ekNIaTZhTDdzQWRCeE1OSWdmQlN6ZEZtOEdxbEdWMDNyX3lXSzgxUEJyc19fb1ktam9WMlp6c3hZM1pzSnlLQnFQWEJRS1pJNmhfQm1rWFhpTHB3NkxhZXBWUkhFMlZaazF6RlBmWlJScXRmNDBuNHN5a2c1WHhvTUJFVWlSX2o4cVNjQVA3WFc3R0tzNDdrbzlQS1UtYw?oc=5
 
-- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
-  'Putting Pressure On PM Modi Detrimental For International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
+- Was Abhijeet Dipke deported by US? Govt gets question ahead of Cockroach Janta Party protest in Delhi | India News - Hindustan Times
+  Was Abhijeet Dipke deported by US? Govt gets question ahead of Cock
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxObUdmYVU1OERFY3kxbmdBeGFfVWtDZEs4dkstdXhFMVBqMVlFcDVZNjI0UU55OFVEYkFNSVlUWmgzaTJ3Tm1wS0o5ZjBpejl4X095WHgzaU5Xc0ZVVGRGSXBYMTlmNnZJWVJsWmJVZHQ3Zl9UeEJsbVpMTmdiZWFfemJmbE9YSHphR0p5Y0oxbUhtZmlUTjc2dEVHQnpnemFvRHctUFJ5eDlHdXdRMnVkampiT3ZkTmR1MFlhQXFyZ21NMDJiTVRFVTN6Z0ZvOTU2cm1YeEtXYjlPUGlQdDFFVnUwaklBbzhDeXZlc0hwdlNSYklzM2pyaHF0OFN4ajZOWlHSAYcCQVVfeXFMTzA2YWdBcEFEV0F4eWNNcENpNUNGa2RBbFBBbGxBbG9SU001NFFfOW9ZcDdUT2FXd2JQVXJfdlhPT29lMmF4aTkzLUxLVkphY0NuS2Z4RGZTVDFQNFh4T2ctaG1udmpUaXZBR0g1MnBvSTJyTHc0NkNXYVNYS1hfbUR0T05iR05QbGhJQnBnS1FPMFhzRmFhd3k0d3oxaXhkdDVWSk1zVUtJRVJMTFRuVW5BN2x2QjdBMi1qTlEzS1dObTZmZUlFQjhXMk56MzNlVWlQVUhTLWhCVUlhSTV1VzVmQ3J1V2Qwb21yVjVzRlJKN2EtQ0dlVHFta2xDd3BReUNQQXZuUTA?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - DW
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- CJP’s NEET stir today, Youth Congress rejects overture - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmFlbWpfLW1wcUM0TWZ0Rld0bjB1V0FnUEFkT0FhZ2lZY0ZLQ3dpNlFOdXA0cXpUWGdVWTRZRnkyVDI5S3B0aHBmczBQR2g5QUVNeHBySEpMaFpwb3lIaENpVHVfTnA5ZGVEdk00UkhSaWxVdmF0bnRzV3hUVFB5TDIzZUktVEMybkx5a1Q2blBwSF9Qd05WMDRPNHJtSF9jcnFVVDNOT1RRUHpOeGk2N05yTWt1YU15eHV2edIBwgFBVV95cUxQdTlreVhRM3VjR1dxbFR0d0UwU0hNTmpUX2JSWDZrTlk2WmMxNW0xdDh5VFJPOFJJYlk5aUczYk53OXZSZFotaU9oYWRjdTNsdHB5Q3psYVloZnM3RnV1UmZ5eFJqUXJybkl2RUszaG82MlJwR3Y4dWF2SG1Kem1XNzNkdXFuVV9nLUNsNHFjeThpaG9XWUdWNFh6QktZQzlsSWViakZubVpnNDRpNFdOR3FNN2p3dk4zb0RwVnN1ZzU0dw?oc=5
 
-- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
-  Pressure on Modi to limit India-Russia ties will
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
-
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
-
-- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
-  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
-
-- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
-  'Putting Pressure On PM Modi Detrimental For International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
-
-- Putin hails India ties, Trump calls Modi 'good friend' - DW
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
-
-- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
-  Pressure on Modi to limit India-Russia ties will
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
+- Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC
+  Donald Trump confident of India trade deal, calls Narendra Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5
 
 - "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
   "PM Modi A Good Friend": Trump's Big
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
 
-- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
-  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+- 1st tranche of US trade deal by mid-July: Piyush Goyal - The Times of India
+  1st tranche of US trade deal by mid-
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN205Qlp1WlM1VEUtRnVqRXI1RW56N18ta3VNMWI0amRxRjJxdWFUM1F2VThpNzhXa1NvNVh6Wk1rQTRkMFdSeC04c1dDYWxSZGlicHBKcGlUbm15M0hVVWNyWXJycDF2cEtJaVNXZjVlVTl0eWFNNVZpMGJPeEZZb3dRTTk2YXVyT1liMU9RYUJhUVBrbXN4X0JNbjZXbW5NTFhOenhHbmpRR1pCd3NMektlRWl1Um9PUllGZUxvSzdrd09iOVFmNTFKLVY3NmFHR05jUWVn0gHbAUFVX3lxTE13dDJQcUgtVWFDck9kOVFXTDFObFJNSG1Ib1ZET1h5M1h4QmsyNlNudWIwcW9vQUExZnIyRk1NR2FRUFB6ekNIaTZhTDdzQWRCeE1OSWdmQlN6ZEZtOEdxbEdWMDNyX3lXSzgxUEJyc19fb1ktam9WMlp6c3hZM1pzSnlLQnFQWEJRS1pJNmhfQm1rWFhpTHB3NkxhZXBWUkhFMlZaazF6RlBmWlJScXRmNDBuNHN5a2c1WHhvTUJFVWlSX2o4cVNjQVA3WFc3R0tzNDdrbzlQS1UtYw?oc=5
 
-- 'Putting Pressure On PM Modi Detrimental For International Relations': Putin On Russia-India Ties - NDTV
-  'Putting Pressure On PM Modi Detrimental For International
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUp3M01fX2ROTjZEQ0NtdGcyaUJZbnMxTURWQ2NIT1M3SHkyQk1kN01iaE55WkV2cFY4RTV6aWp4QXZrUWVCUmtZbGsyamw0Q05FSVBlWUlUYkMwaWpmczlseUY3RGdoUVNmV3ZoNVZBNjRFdlJ5UnBQaENRaUlycGhVaFhwMHgyOTlmY2RfWVl4N3g5RmJSZ08zaGcxNXg3Zm54Y3FvQmFGN2FXekdmdVJ3S3LSAbwBQVVfeXFMTVhTa0ViYUFqT1d1bnNEc0Q2TlRFeTVRc3A2SnM2SlJsWnVXUnFKM0l0dmUtZzVCRDc4R1RvUGF5YTlPQzgxSUhFRXhaQlpWajJKd2JUQjJpNVM4bXgtN1BZVkdyZXNKSjRpRGRxR2V5X3lGRktJYU1lUkdiUGcwajhPRGFCcjc1MGJKbnhjOXhaeWpTNnA3WkVROFBzdmczU2tSaFhUQjJLT0NMRnNtSzh4RTV6NTZnOEJRVHA?oc=5
+- Was Abhijeet Dipke deported by US? Govt gets question ahead of Cockroach Janta Party protest in Delhi | India News - Hindustan Times
+  Was Abhijeet Dipke deported by US? Govt gets question ahead of Cock
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxObUdmYVU1OERFY3kxbmdBeGFfVWtDZEs4dkstdXhFMVBqMVlFcDVZNjI0UU55OFVEYkFNSVlUWmgzaTJ3Tm1wS0o5ZjBpejl4X095WHgzaU5Xc0ZVVGRGSXBYMTlmNnZJWVJsWmJVZHQ3Zl9UeEJsbVpMTmdiZWFfemJmbE9YSHphR0p5Y0oxbUhtZmlUTjc2dEVHQnpnemFvRHctUFJ5eDlHdXdRMnVkampiT3ZkTmR1MFlhQXFyZ21NMDJiTVRFVTN6Z0ZvOTU2cm1YeEtXYjlPUGlQdDFFVnUwaklBbzhDeXZlc0hwdlNSYklzM2pyaHF0OFN4ajZOWlHSAYcCQVVfeXFMTzA2YWdBcEFEV0F4eWNNcENpNUNGa2RBbFBBbGxBbG9SU001NFFfOW9ZcDdUT2FXd2JQVXJfdlhPT29lMmF4aTkzLUxLVkphY0NuS2Z4RGZTVDFQNFh4T2ctaG1udmpUaXZBR0g1MnBvSTJyTHc0NkNXYVNYS1hfbUR0T05iR05QbGhJQnBnS1FPMFhzRmFhd3k0d3oxaXhkdDVWSk1zVUtJRVJMTFRuVW5BN2x2QjdBMi1qTlEzS1dObTZmZUlFQjhXMk56MzNlVWlQVUhTLWhCVUlhSTV1VzVmQ3J1V2Qwb21yVjVzRlJKN2EtQ0dlVHFta2xDd3BReUNQQXZuUTA?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - DW
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
-
-- Pressure on Modi to limit India-Russia ties will hurt global stability: Putin - The Hindu
-  Pressure on Modi to limit India-Russia ties will
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzBvYzJDLXowTTkzZ0tUS0JoLTVFbk05MkZYak4wYW5jSFRyNGpDc1RwT0VfQWQtNW83YWtqa2VTZ2NtQ20wa0VabS1vMEtWVWp6YU9NY3ZRQTBtbXlwOFVBRFNkY0M2M19SOHI4WmVEUmFaZ3JPaHJFQ3ZJQlpSMmx6bWktaTRhbHBtME9GNFRzeWhhYUN4Z0tLVnlHQ2g4YUdwTTM5Smx1aXROdnpBUGM3cjBVUmtmekZncnVDSdIBxgFBVV95cUxNSGVDUnN2QlRoYlRMaUJWT1U2R1NhZk8xWVNtUHdxSi04OWhvbmEyeGlES3Z1UW11Skh0TDJ5Z0FPWnpsUW81TlNaU0tBRlhBdDlmR1RLTFprajBNWFRpS253NzRvVWRxdTlfTGg3U2M2WDl4RFJtdGJ6bnVZWG9yYllPMmQtUkhuYXRHbWxvTV9MTHBfdzRNTnc5dTZjSnR2ZXhUeVl0eVNNcXFQdnJ3ZnVpbkpKMUxWUjdRVG9nc3VyR2tRaUE?oc=5
-
-- "PM Modi A Good Friend": Trump's Big Remark On India-US Trade Deal - NDTV
-  "PM Modi A Good Friend": Trump's Big
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVhJM21FSGpSaHBuRFkyUDljb0ZqUGI5MFF5aHREVUpqMmdCZkMzOEZBbXBLRENQVnp5aGVpU0NScDdERjhBLU9tSUg5U3BndzdZbFFORkVTcVA0NTQ0WWF0WE0wYnJYYl9URzQ1QmVWelA3QmI1dTFkd2hOUm01Qm8tcl9ZcktkQUpNNlBLVUxMRDBiZ2dfTE5YVE1QcEtUd2VRSkp3RDFPU0dreV9VaEp2QTNyenI3SHk1N2Jn0gHGAUFVX3lxTE9PTzVjVXRNNmMwTUhld0hleFR1RVJ3bWp6VUlMbDZrcFZSV0EzaG5QclZTZDVLMVRaaG9NRW9SRmtkTDRGVF9mdkVia3BEQ2lyRENBWjVHdUUxVXhVTFF6eXl1RFhCQnEyTlhYOGpiVkVpc0FCWVFuWWFnUHByZHdXaEV0OHh0dm9SV2NwbWRIeTFud3BQOFhZNHNRakdaaVFiUHlmMGlUUUpDZkNGNDRlQ25LRG1KU0pUYmJnMWFkbWdmMjZ6Zw?oc=5
-
-- 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - The Times of India
-  'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea
-  🔗 https://news.google.com/rss/articles/CBMinwJBVV95cUxQaG1YaFZSbk94cmZYYmZ6cGlvZ0t0RjU2cjdFaG5qazFWbFFKYWZ2Z0N1ZTVHdlQ5WnlwOVJuRjB5X19yc2Z4bWVETFl3N2syZktPTk5fdzAxTGtkWlFNYkdLQVNmeWxoWHFaRDRBMHdMbzgyQUJpbnV1bVRXNmloN05odXA4Z1A0YU1aZV8ySDg4emJVYlVqWFU5TnMtZEpYaGNiMDROY2JiOTVfdGNWTnlfZXFUOWsyVkszLVZuU2tzTFJKMTVYOFhvQTlPMFVUakVMaUJVbzdGRUpZQ0pQeWVRRlFJWkZJdHVpdmdINzhqZENZbXYySUJ3Z1ZHeUktOWJ0WDA2ajhYZkQzTDZOLW1heEJhVlRMeEpGdUNaWdIBpAJBVV95cUxQSW5lLXllUFhxaGhSQ0FFVkJ0dnRUSjU3Wk10NVEzQm95VW54MG54ODVPVkUyRmdsaG9JRXJtVWRIRGgxQVhCR3RXMHJvUG9wam9uT2NBY1dvTEd3N0RCRHJWbEZnUlZLTDlRdnJ3bTRuYWJtbFh0Y1RBOWpqNjZWVm1ETElDNTVNNlRLSmJGWUpYZU9VaXh1LW5GbTBQeXMxYU1SZzcwNWhJTlJscXhOcF8zQmxGMzM3MzZlWjJBTUFxMnBETkJUcW5kN055V0NjZEZDN19iamEzd2ExcjdiRVdsLS1wVGN2ZkZJeHY0WlVBYjZwS0lLUW9yNHNMVnVNdmFrdTBvSk5QQmZhYUFwVHZDMFJ5MVllWGxuWWUtRGVZSXBL?oc=5
+- CJP’s NEET stir today, Youth Congress rejects overture - The Times of India
+  The Times of India published a front-page
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmFlbWpfLW1wcUM0TWZ0Rld0bjB1V0FnUEFkT0FhZ2lZY0ZLQ3dpNlFOdXA0cXpUWGdVWTRZRnkyVDI5S3B0aHBmczBQR2g5QUVNeHBySEpMaFpwb3lIaENpVHVfTnA5ZGVEdk00UkhSaWxVdmF0bnRzV3hUVFB5TDIzZUktVEMybkx5a1Q2blBwSF9Qd05WMDRPNHJtSF9jcnFVVDNOT1RRUHpOeGk2N05yTWt1YU15eHV2edIBwgFBVV95cUxQdTlreVhRM3VjR1dxbFR0d0UwU0hNTmpUX2JSWDZrTlk2WmMxNW0xdDh5VFJPOFJJYlk5aUczYk53OXZSZFotaU9oYWRjdTNsdHB5Q3psYVloZnM3RnV1UmZ5eFJqUXJybkl2RUszaG82MlJwR3Y4dWF2SG1Kem1XNzNkdXFuVV9nLUNsNHFjeThpaG9XWUdWNFh6QktZQzlsSWViakZubVpnNDRpNFdOR3FNN2p3dk4zb0RwVnN1ZzU0dw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-05 19:50:07 UTC_
+_Last updated: 2026-06-06 02:42:27 UTC_
