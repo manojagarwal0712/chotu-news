@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- Telangana man shot dead in ‘fake pizza delivery trap’ in Philadelphia
+  
+  🔗 https://indianexpress.com/article/india/telangana-man-shot-dead-fake-pizza-delivery-trap-philadelphia-10728091/
+
+- ‘This doesn’t end here’: After first CJP protest, Abhijeet Dipke reiterates demand for Dharmendra Pradhan’s exit
+  
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-cjp-protest-dharmendra-pradhan-ultimatum-10728034/
+
 - Madhya Pradesh teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
   
   🔗 https://indianexpress.com/article/india/madhya-pradesh-teen-battling-for-life-after-stalker-attacks-her-with-axe-hangs-her-from-rooftop-10727666/
@@ -12,13 +20,17 @@
   
   🔗 https://indianexpress.com/article/india/satna-hiv-case-probe-finds-paid-blood-donors-operated-freely-inside-district-hospital-10727667/
 
-- Celebratory firing death: Bihar BJP MLA convicted
+- Do AI bots now outnumber humans online? Here’s what Cloudflare’s Matthew Prince says
   
-  🔗 https://indianexpress.com/article/india/celebratory-firing-death-bihar-bjp-mla-convicted-10727686/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-bots-outnumber-humans-online-what-cloudflare-matthew-prince-says-10727982/
 
-- Verify nationality of 2,860 people for their deportation, India tells Bangladesh
+- ‘Teachers are going to hate it’: How social media apps hooked teens at school
   
-  🔗 https://indianexpress.com/article/india/verify-nationality-of-2860-people-for-their-deportation-india-tells-bangladesh-10727678/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/teachers-are-going-to-hate-it-how-social-media-apps-hooked-teens-at-school-10727879/
+
+- SpaceX inks $30 billion deal to provide Google with AI computing power
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/spacex-inks-30-billion-deal-to-provide-google-with-ai-computing-power-10727876/
 
 - Why Apple’s AI strategy may be the biggest focus at its developer conference next week
   
@@ -28,77 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/this-app-lets-users-control-robotic-arms-from-anywhere-using-a-phone-10727165/
 
-- WWDC 2026: Everything to expect from Apple’s annual software showcase
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-everything-to-expect-from-apples-annual-software-showcase-10727182/
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- NASA places ISS astronauts on alert during Russian module leak investigation
-  
-  🔗 https://indianexpress.com/article/technology/science/nasa-places-iss-astronauts-alert-during-russian-module-leak-investigation-10727150/
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- HP introduces ZGX Fury GB300, an AI workstation for large-scale models
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-introduces-zgx-fury-gb300-an-ai-workstation-for-large-scale-models-10727004/
+- 'He is a 15-year-old kid': BCCI to bear parents' expenses as Vaibhav Sooryavanshi begins senior India jou - The Times of India
+  'He is a 15-year-old kid': BCCI to bear parents' expenses
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxObnA5dDROVzVITUNnYzVXa0RRM1lPYTB3elJFb0dKbV9UN29KeFRVQXE0eVNVdW9tanhBbEtmZ3hzblNWV3JrWmFkdy01OFdFdk9hSzNweXBfSDc3ZjJjV3BLall5U3VJTnRmUzdtT0huTFVxemJnNWpRZDZiRVl1bzJPanNGQzlOMS04cmtlZVY5N0M1V2VkVHppeWFIMkVTYk51VlpkUE5taTFueEJJVFdfMnVwODFWc2J1T3dGQWJTU016UlZYNU1TSDVVTkZMU0RNeGhJRjE4WDRjVS1pd2gwNXBlc2psRVJEWmVoUm1PQk1fSkV3T211b1dMeFh1aEhvaFQ3ckVWNUt60gGSAkFVX3lxTFAxS09EZUVIb2F0QWNqcVFxUjRsMm5GaGxXNnR0Q2xsTjE1R1p5bTFIUUlYTzRKVFhRekdPVlVsZ2QxSEcyVUJhaWRxZndkUVF3R3Y3d2VjWUtySGtLanlRb045eDdSd3A1Y09JeXRxRUdTZWp6ZF9EUnVKVHlvb2hXR0VMMFR1RW1qRENzZGl0YmcxbkI4TFMwcXBiZ0dkamQ2bXNJRGRNZGNRNkVUR0NBS2VwRWQtNVNKQzZvMU1xWDRWaGliazc5MnhJbWJmUzBaQl9nWHZxUFZtLXJBM1Rkazc3aXU0c3hrQUZVYkFMZFRHTGNlb1FvVHI0VWhxQkRUX3lRM2dMRDg1MmRwZkJFa2c?oc=5
 
-- Why the market isn't buying Salesforce's AI story
-  Salesforce is betting heavily on AI across its products, operations and acquisitions. The company is already seeing productivity gains, but investors are still
-  🔗 https://www.livemint.com/companies/news/salesforce-ai-strategy-investors-remain-unconvinced-11780657093855.html
+- ‘They cannot…’: Nepal minister raises concerns over India-China border trade amid Lipulekh row | India News - Hindustan Times
+  ‘They cannot…’: Nepal minister raises concerns over India-
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWpCOWdFV3pMeW91Rk1SaGJJY3hKVFpFVm8zeVd1LUcxMUMxeUpYdkJKMGpObm5lWEltVEN5R1dLX3VzemFXOU9VdWhSZkRMdFRLc3lTd25WVHRNbHJ5SHdORHVZUG1qTHA1WkZ3XzdicUpJMUNZTlo0YlVVM2dLMGdfMXlKU3NiZUlxOTFOSWJWd2JkNmhteEY4bUFqckJKYTZoOFAwekJMV0hsUmJMdmJSTWJ0dFVmVlpkQ3JYLURkLWtwelF4V1NXU0VpR0o4MVZrVFdFNE8zU0piX1Z4Mm9jT1hYb0Z10gHuAUFVX3lxTE9YdkVidTNvaGEzRTBmT1dRYTItMllQUDFoNnBaUUVZQ0xzTkNZbjZvbjZnTnRzVGpjUkhMOWltOEotUDBNMUVuQVdiRUZTd0ZyOEFHb0YzTW1IN3hYcmgxVDMtR1ZtbEtxdVBsMXVZOERTcF84RmFLb1BGX1oyRWQwNkQ2ck85VFJRNWZBQUJrdGQ1QTZzeGFNRlZ2aU1oUUpBajFKSzZEMVRfMXRWV3pzdE1pUGtkVjhtZFNMSFJYQjFRQUw5OFMzQjFiZG5QWnl4MWZwTWxoeC1iYjNETWM4RnowbTNHb19RdFo3V2c?oc=5
 
-- Indian tech firms Sahasra and Zoho showcase Asian ambitions at COMPUTEX 2026 in Taiwan
-  Indian electronics and software firms Sahasra and Zoho exhibited at COMPUTEX 2026
-  🔗 https://www.livemint.com/companies/news/indian-tech-firms-sahasra-and-zoho-showcase-asian-ambitions-at-computex-2026-in-taiwan-11780789024213.html
+- Nepal Seeks "Open-Heart" Talks With India To Resolve Border Dispute - NDTV
+  Nepal Seeks "Open-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXEtZjEtR3NjU2ZreGJIWGZicjV4aW5Ca2xWdTBEd19DdEF4UFB3VC1VMFlwdnlYOFNFcmIwcjNKRTRCbkYtLWFnVGZvVTBEb0M0T0Ntc2R2SFB4QmRabThhbkd5bEJpN01oWDNQNXJ3ekp6OEJHOTFfcko2d2dZcUxoNk01QUxMbzh6QXFmSXlianZ3dDdhQ2lCWG5KWG1OWElGQVdIMHpLLXhPUVIwbHd0cFgwX1BUMzJUei1sa1FYTF9mT01F0gHPAUFVX3lxTE1jMFJOQkNLSDF3cmF2ejZSeVNmWjNNSjFoeDJmUjVDRERMNHBNX19lLVFJLThhSXk2aEswTjVRSzlVMktwMHY0NmY4SEpNb2Z0cG94MGE0X2xtUlMzV2ZGMlk5YTUyMGFJNGNobThHb2lVMFh0RGJ2NzV5VHBIUkVKdWFzUUFPLW9xMElrQjNWS0JMTVVMenpuUjlqa1VVbXdPb1czX0JZbFR3UzZpZU8zdzNlTXVvQkJkdUxuNklBNEV5TmhBQUZvb3BsQlVzQQ?oc=5
 
-- Bahrain’s Gulf Air Sees Travel Demand Recovering in the Summer
-  Bahrain’s national carrier predicted travel demand through its hub will recover in coming weeks. Iran war disrupted passenger flows across the
-  🔗 https://www.livemint.com/companies/bahrains-gulf-air-sees-travel-demand-recovering-in-the-summer-11780779352086.html
+- Reliance, TCS to HDFC Bank: 7 of top-10 most valued firms see market cap erosion by  ₹1.25 lakh crore
+  The market valuation of the seven top firms fell by  ₹1.25 lakh crore last week. The Sensex declined 532.4 points amid persistent F
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-tcs-to-hdfc-bank-7-of-top-10-most-valued-firms-see-market-cap-erosion-by-rs-1-25-lakh-crore-11780818949302.html
 
-- KPMG forensic review says IDFC First Bank Chandigarh fraud an isolated incident
-  The KPMG forensic review found collusion among IDFC First Bank's branch staff, customer representatives and third parties.
-  🔗 https://www.livemint.com/companies/news/kpmg-forensic-review-says-idfc-first-bank-chandigarh-fraud-an-isolated-incident-11780731428126.html
+- Upcoming IPOs: CMR Green to Hexagon Nutrition - 7 listings, 1 new SME IPO to open this week
+  The IPO market is showing signs of revival, highlighted by strong demand for CMR Green Technologies and Hexagon Nutrition offerings. Investors are eager for quality listings as two new mainboard IP
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-cmr-green-to-hexagon-nutrition-7-listings-1-new-sme-ipo-to-open-this-week-11780811990027.html
 
-- SpaceX’s lofty IPO has serious earthbound problems, from emissions to water
-  Data centers use water primarily for cooling their servers.
-  🔗 https://www.livemint.com/companies/news/spacexs-lofty-ipo-has-serious-earthbound-problems-from-emissions-to-water-11780710698355.html
+- A Stock Trader’s Guide to the Start of ECB Interest Rate Hikes
+  European stock traders will need to add a further variable to their investment strategies this week.
+  🔗 https://www.livemint.com/market/a-stock-trader-s-guide-to-the-start-of-ecb-interest-rate-hikes-11780816690201.html
 
-- There Are Millions of Crypto Tokens. Almost None Have Any Value
-  Charles Hos
-  🔗 https://www.livemint.com/market/there-are-millions-of-crypto-tokens-almost-none-have-any-value-11780759769384.html
+- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Eternal shares on 8 June
+  Sensex fell 116.67 points to 74,243.34, while Nifty 50 dropped 49.85 points to 23,366.70 amid geopolitical uncertainties.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-eternal-shares-on-8-june-11780808856893.html
 
-- CMR Green Technologies IPO sees strong demand: Here's what GMP signals ahead of share allotment
-  CMR Green Technologies IPO, open from June 3-5, saw a subscription rate of 127.07 times. Share allotment will be finalized on June 8, with a market debut
-  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-sees-strong-demand-heres-what-ipo-gmp-signals-ahead-of-share-allotment-11780741061534.html
-
-- How is the Indian stock market expected to open on Monday after RBI's FII push? Here's what GIFT Nifty signals
-  Indian equity markets expected to remain range-bound as domestic policy support meets challenging global cues. Concerns over crude oil prices and geopolitical tensions keep investors cautious.
-  🔗 https://www.livemint.com/market/stock-market-news/how-is-the-indian-stock-market-expected-to-open-on-monday-8-june-after-rbi-fii-push-heres-what-gift-nifty-signals-11780731434469.html
-
-- LIC bets big on Maruti Suzuki, raises stake to above 5% despite weakness in the auto major
-  LIC's holding in the company has risen to 5.006%. Before the transaction, LIC held 1.57
-  🔗 https://www.livemint.com/market/stock-market-news/lic-bets-big-on-maruti-suzuki-raises-stake-to-above-5-despite-weakness-in-the-auto-major-11780730130089.html
-
-- US stock markets this week: S&amp;P 500's 9-week rally ends, falls 2.6%; Nasdaq tumbles 4.5% as tech stocks crash
-  Wall Street's nine-week rally ended as technology stocks plummeted. Nasdaq suffered its largest drop since April 2025. Strong US jobs report heightened fears of prolonged interest rates.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-9-week-rally-ends-falls-2-6-nasdaq-tumbles-4-5-as-tech-stocks-crash-11780726274017.html
-
-- China can build humanoids at scale. The hard part is finding enough buyers
-  China can build humanoids at scale.
-  🔗 https://www.livemint.com/technology/china-can-build-humanoids-at-scale-the-hard-part-is-finding-enough-buyers-11780711776868.html
-
-- Anthropic says AI labs need coordinated plan to halt development if risks rise
-  Anthropic says AI labs need coordinated plan
-  🔗 https://www.livemint.com/technology/anthropic-says-ai-labs-need-coordinated-plan-to-halt-development-if-risks-rise-11780615717496.html
-
-- What Indians are watching on Reels in 2026: Instagram reveals top content categories
-  A Meta study revealed what Indians are watching on Reels in 2026.
-  🔗 https://www.livemint.com/technology/tech-news/what-indians-are-watching-on-reels-in-2026-instagram-reveals-top-content-categories-11780563672954.html
-
-- OnePlus Community Sale: Big discounts on OnePlus 15, OnePlus Nord 6 and OnePlus Pad 4 announced
-  OnePlus Communtiy sale is bringing discounts on OnePlus 15, OnePlus 15
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-community-sale-big-discounts-on-oneplus-15-oneplus-nord-6-and-oneplus-pad-4-announced-11780558679509.html
-
-- India to use AI for machine-readable standards: Consumer Affairs Secretary
-  India to use AI for
-  🔗 https://www.livemint.com/technology/india-to-use-ai-for-machine-readable-standards-consumer-affairs-secretary-11780563047045.html
+- CMR Green Technologies IPO: Focus shifts to allotment date. Latest GMP, step-by-step guide to check status
+  CMR Green Technologies IPO allotment is set for 8 June. Investors can check their status via Kfin Technologies. The IPO was oversubscribed 127.04 times.
+  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-gmp-cmr-green-technologies-ipo-allotment-date-cmr-green-technologies-ipo-subscription-status-11780804459778.html
 
 - Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates - CNBC
   Nasdaq falls 4% and suffers worst day since April 2025 as traders
@@ -108,57 +88,37 @@
   Stock Market News for June 5, 2026: Nasdaq Suffers
   🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
 
-- Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets - Yahoo Finance
-  The Nasdaq plunges 4%, Dow and S&amp;P 500 sink as AI
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5
+- US stock market crash explained: Why did Nasdaq plunge 4% to log worst day in over a year - The Economic Times
+  Nasdaq plunges 4% to log worst day in over a year.
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOS1lOMWk2bUZXWmg4aHMwdGstLWlPMXV6UW8tYVJVREExUUs2RXVEdTNpN2xDUk95S0tEQmp5c1FobHhlX0hoYUgxdGZ4UC1WZ1JYeERsaG1CcUxzbnoyeWpFeUx0eFUwX185ZlBtekJaZHJUVXhIOGpQT1ExOHpTRXA3TjJZSFZlWm40cFdKMkFmU0Y2SGU0TEdPb3JrRm10OGZVOTFTNU1hYjVTTDJTbUhtOVc0WTVYdWk5czBpeVc2TmNnSnFjc0l3aElZcmI2T3REckRsMEdIblhQRk1iMWpHcXU1ZTlzZk5Fcjh6ajlYdUNBbHVsX2hSREZ4N0ZkbnhN0gGIAkFVX3lxTE5vekw2OGNwSVJjVzFteU55YU10TVpmb0V0Z1FKSlFZXzFVM2g0SXJZTnNEbk5sSVRPWlZGNERtdDhRMkVoSVZaUl95QzI0c3BZZTN6N3JhWWd1N0M3S01qZ3NMdEk2TUhuSVFYcGxFUzhnWkJvWEloWHBOTzBkWmRrMzdnN3BwYnFFcEhMRUFiOHNwa0otYmI2b3I5cW9ySWJZNXlSTHUtdXY1a2x1YXQzME1obzdXWHJPMFJIVml0ZjR0OEs0UjYzSklVMnBBSlp2emc1dVgwZklkUnhfeXJpM0tDMHJGUTFVc3BXNHF6Sk94bVQxbHgwUTZ4b3c4RWRjRVZXeHVOUw?oc=5
 
-- Daily Voice: 6 investment themes that could shape market returns, according to Phanisekhar Ponangi - Moneycontrol.com
-  A look at 6 investment themes that could shape market returns
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRXJMbXJGUS1VYmFxLUtHbTVVSUhFU1ROMjI4N3RicEhFaXpTWkFqUTZLZ2dSTkFaNU85LUVSMGNZSzhUUjRqdFRwcXlFYjhEYXhyZ2tYZUFhLUZMaS1QYnE4ODVPNXNMRHRWaDQ4dGtnRHNLdm92N2tnUGRqY0l2UkkyWlJoMjY3MzBFSThiTUtJcjY5SXBaM2xQYTZkLUxmRDNmSEZHSFhXTnBuTWJTQXhGS3BPbVFYWmUzYmdLUGFiSjhhcERQMGt0OU9fWjU3LXlYcFhzdTFESGxJWmxWMUZMSHB6cVZXcVNoWUpVaVdTYXfSAfgBQVVfeXFMTkVjbDF3bTFDWmxsdjNONkVNOUlaeV9pRGhET3JqNWdOT044R25hQWRxd2loY3ZiS0F4QmNmWERVNVQ4RlZDM0NBckJMMHlSOUoydm5oUVNsWXdjcHFJcWtyVnp6S09VRXVXSGR4b3FickVqZWtvRkVfeElsaVpjVE5XbWhIWERpRjBBeEZiVW10b2JITHozNzZQbkRyNHpNVVN2MlVtQ1lhVHVJbXN3dlJGTjBBUFcxcDl4TWJxb3VJblVDTVJETFgwckxySjZJR3oxZGRhaTNWNFRGVVVpNm1EZmJKVTZmVUhxZ3RzSm9rWDNHbjZwV0g?oc=5
+- India's energy demand boom to reshape global markets, says Rosneft chief - The Hindu
+  India's energy demand boom to reshape global markets
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEhpS3VOT0FZTUl1YVl0NXc4WFptaHBmV0p0aTFGTkJjVWZhLVVyZHVlbFBDbVJnbUhKNWo5ekNPQU1GTmNSWnY0aGYxbmxSSzdPZlo3RFZVajhxTzd2OVR6dHNYdkRhQVRWSjRPMTNYaDJidC05RXZnaGs1UFZrZkZCRWsyUHB1MUJSaVJMeUFmYWl0U3pjdVVCQTc3SUdvQzlwZnRWZllqa0Zhd0NLOG0yR1M5UVItOGdNSkk5ZDk1QWJfV0llSzk5YW_SAdMBQVVfeXFMT3B6N2gxYTdrWEdJdE90TnVTSWI3VGlLb01jN2VPckt5aE5NNTZMaFhqTnBWb2w0QnZDUFZjdldUVmZEZEVTeVAxWDR0MU0zeXhySUozYnRfb19BYjRXTHJBRTZuWTBYM0VIa2ZESHZhc1pKWV9vNk43Y3pJXzhLd1E0STN6UjFKTGpCRE5vMkZBRk9IczFob05ocnBJTWtEXzQ0aG9PTG0yUy10OWJkcGE5NVRSQkY5V0N6Y3ZYVmlaamRQcmRTZVBDT0N1NEc5LW1aQQ?oc=5
 
-- When Trump Jawbones the Market, Bet Against Him at Your Peril - WSJ
-  The WSJ reports that the White House is
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1BeDJHYVpWLTZBNVRhR1FZOFpnM0dYN1cwMWhHeUJzdVNFRVBlbkx3X1kzSTlPbDVNRGNTZ29xSXR2S2h2M3RtRFBrdzFNT3VaNE55bVZhQmFNMDREVHZRcklhbTNPcER0bUllcndseWtfMGlTb1pDZFp2Z29DT2dFQmFIMjlSTDByMm8yWDAwUnVuM1FZTGJvTnpKdw?oc=5
+- Wall Street's hottest trade is cracking in a trillion-dollar wipeout - Yahoo Finance
+  Wall Street's hottest trade is cracking in a
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUNkX1MteE1PX0FJaWFmSk96WlpncE9IWFd4V1oyTXBwcVJ4TTVlR24zV3ZNVFZYSHJnMkZDZ2s4ZGFRSFF6OW56RW51WXhUeWJHa2YzVmtKU0diZVNVWGNweFpfRTNGbm4yME9fNFB0VWVFdFVEV1RnNktST29GLVFKLVFkSjJzaWFOalg5QmM2V2dqVTFMa051cU14Sm1xNDZxeEY2VV9ZNUd4bGo4N3lYeENnSGU5bUQ4V28tWmU3UQ?oc=5
 
-- Dalal Street Week Ahead: Will Nifty hold 23,000 as markets test key support?
-  The markets ended lower this week, with Nifty trading below its 50 and 100-week moving averages. While a crucial support zone near 23,000-23,100 is being defended, a sustained breach could trigger further
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-will-nifty-hold-23000-as-markets-test-key-support/articleshow/131550486.cms
+- NSE investor accounts cross 26 crore milestone as mobile trading and tier-2/3 cities drive participation
+  Over 4.3 crore accounts, nearly 17% of the total, have been added in the past year alone. NSE said in a press
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-investor-accounts-cross-26-crore-milestone-as-mobile-trading-and-tier-2/3-cities-drive-participation/articleshow/131563611.cms
 
-- SpaceX and other mega IPOs may wait years to join the S&amp;P 500
-  S&amp;P Dow Jones Indices retained its profitability requirement for index inclusion. SpaceX, OpenAI and Anthropic must demonstrate sustained profits before becoming eligible for the benchmark.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-and-other-mega-ipos-may-wait-years-to-join-the-sp-500/articleshow/131550241.cms
+- Infosys, Adani Enterprises, Trent among 44 stocks going ex-date this week. Do you own any?
+  44 stocks including Infosys and Adani Group companies turn ex-date this week. Corporate actions like dividends, bonus issues, and stock splits are scheduled. Shareholders must hold shares by the record date to be
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/infosys-adani-enterprises-trent-among-44-stocks-going-ex-date-this-week-do-you-own-any/articleshow/131562763.cms
 
-- Stock pickers’ market ahead as RBI flags risks; largecaps, banks and capex plays offer value: George Thomas
-  George Thomas of Quantum AMC believes Indian markets have entered a stock pickers’ phase as RBI flags inflation and growth risks. He favours largecaps, banks, healthcare and capex-linked sectors, while caution
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/stock-pickers-market-ahead-as-rbi-flags-risks-largecaps-banks-and-capex-plays-offer-value-george-thomas/articleshow/131549054.cms
+- Swiggy among 9 largecap stocks with up to 45% upside potential. Do you own any?
+  A closer examination of BSE largecap stocks reveals several promising
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-9-largecap-stocks-with-up-to-45-upside-potential-do-you-own-any/slideshow/131562347.cms
 
-- Market turns selective as earnings diverge; power, EVs and midcaps emerge as key bets: Siddhartha Khemka
-  Siddhartha Khemka believes Indian markets have become increasingly stock-specific as earnings trends diverge across sectors. He remains positive on power, cables and wires, cooling products, manufacturing, and electric vehicles
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/market-turns-elective-as-earnings-diverge-power-evs-and-midcaps-emerge-as-key-bets-siddhartha-khemka/articleshow/131548919.cms
+- 15 penny stocks surge up to 80% in 3 months. Do you own any?
+  15 penny stocks have delivered returns of 20% to 80% over the past three months. While penny stocks can offer outsized gains, they also carry higher risks due to sharp price volatility.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/15-penny-stocks-surge-up-to-80-in-3-months-do-you-own-any/slideshow/131562254.cms
 
-- Macquarie initiates 'Underperform' rating on Meesho, sees 25% downside. Here's why
-  Macquarie has initiated coverage on Meesho with an ‘Underperform’ rating and a target price of Rs 125. The brokerage believes declining average order values and modest per-order economics could limit profitability.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/macquarie-initiates-underperform-rating-on-meesho-sees-25-downside-heres-why/articleshow/131548084.cms
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
-
-- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
-  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
-
-- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
-  India is significant player in growth story of air traffic in Asia-Pacific
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
-
-- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
-  Domestic LPG Cylinder Prices Up By Rs
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
+- FIIs, weak global cues among 5 factors that could keep D-St under pressure this week
+  Indian stock markets may remain under pressure this week amid persistent FII selling, weak global cues, rising geopolitical tensions in West Asia and elevated crude oil prices. Investors will closely track monsoon progress, inflation concerns, global market trends and institutional
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-weak-global-cues-among-5-factors-that-could-keep-d-st-under-pressure-this-week/articleshow/131561835.cms
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
@@ -168,37 +128,17 @@
   Penguin pulls plug on Joe Sacco�
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
-  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
+- 'He is a 15-year-old kid': BCCI to bear parents' expenses as Vaibhav Sooryavanshi begins senior India jou - The Times of India
+  'He is a 15-year-old kid': BCCI to bear parents' expenses
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxObnA5dDROVzVITUNnYzVXa0RRM1lPYTB3elJFb0dKbV9UN29KeFRVQXE0eVNVdW9tanhBbEtmZ3hzblNWV3JrWmFkdy01OFdFdk9hSzNweXBfSDc3ZjJjV3BLall5U3VJTnRmUzdtT0huTFVxemJnNWpRZDZiRVl1bzJPanNGQzlOMS04cmtlZVY5N0M1V2VkVHppeWFIMkVTYk51VlpkUE5taTFueEJJVFdfMnVwODFWc2J1T3dGQWJTU016UlZYNU1TSDVVTkZMU0RNeGhJRjE4WDRjVS1pd2gwNXBlc2psRVJEWmVoUm1PQk1fSkV3T211b1dMeFh1aEhvaFQ3ckVWNUt60gGSAkFVX3lxTFAxS09EZUVIb2F0QWNqcVFxUjRsMm5GaGxXNnR0Q2xsTjE1R1p5bTFIUUlYTzRKVFhRekdPVlVsZ2QxSEcyVUJhaWRxZndkUVF3R3Y3d2VjWUtySGtLanlRb045eDdSd3A1Y09JeXRxRUdTZWp6ZF9EUnVKVHlvb2hXR0VMMFR1RW1qRENzZGl0YmcxbkI4TFMwcXBiZ0dkamQ2bXNJRGRNZGNRNkVUR0NBS2VwRWQtNVNKQzZvMU1xWDRWaGliazc5MnhJbWJmUzBaQl9nWHZxUFZtLXJBM1Rkazc3aXU0c3hrQUZVYkFMZFRHTGNlb1FvVHI0VWhxQkRUX3lRM2dMRDg1MmRwZkJFa2c?oc=5
 
-- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
-  India is significant player in growth story of air traffic in Asia-Pacific
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
+- ‘They cannot…’: Nepal minister raises concerns over India-China border trade amid Lipulekh row | India News - Hindustan Times
+  ‘They cannot…’: Nepal minister raises concerns over India-
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWpCOWdFV3pMeW91Rk1SaGJJY3hKVFpFVm8zeVd1LUcxMUMxeUpYdkJKMGpObm5lWEltVEN5R1dLX3VzemFXOU9VdWhSZkRMdFRLc3lTd25WVHRNbHJ5SHdORHVZUG1qTHA1WkZ3XzdicUpJMUNZTlo0YlVVM2dLMGdfMXlKU3NiZUlxOTFOSWJWd2JkNmhteEY4bUFqckJKYTZoOFAwekJMV0hsUmJMdmJSTWJ0dFVmVlpkQ3JYLURkLWtwelF4V1NXU0VpR0o4MVZrVFdFNE8zU0piX1Z4Mm9jT1hYb0Z10gHuAUFVX3lxTE9YdkVidTNvaGEzRTBmT1dRYTItMllQUDFoNnBaUUVZQ0xzTkNZbjZvbjZnTnRzVGpjUkhMOWltOEotUDBNMUVuQVdiRUZTd0ZyOEFHb0YzTW1IN3hYcmgxVDMtR1ZtbEtxdVBsMXVZOERTcF84RmFLb1BGX1oyRWQwNkQ2ck85VFJRNWZBQUJrdGQ1QTZzeGFNRlZ2aU1oUUpBajFKSzZEMVRfMXRWV3pzdE1pUGtkVjhtZFNMSFJYQjFRQUw5OFMzQjFiZG5QWnl4MWZwTWxoeC1iYjNETWM4RnowbTNHb19RdFo3V2c?oc=5
 
-- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
-  Domestic LPG Cylinder Prices Up By Rs
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
-
-- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
-  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
-
-- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
-  India is significant player in growth story of air traffic in Asia-Pacific
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
-
-- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
-  Domestic LPG Cylinder Prices Up By Rs
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
+- Nepal Seeks "Open-Heart" Talks With India To Resolve Border Dispute - NDTV
+  Nepal Seeks "Open-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXEtZjEtR3NjU2ZreGJIWGZicjV4aW5Ca2xWdTBEd19DdEF4UFB3VC1VMFlwdnlYOFNFcmIwcjNKRTRCbkYtLWFnVGZvVTBEb0M0T0Ntc2R2SFB4QmRabThhbkd5bEJpN01oWDNQNXJ3ekp6OEJHOTFfcko2d2dZcUxoNk01QUxMbzh6QXFmSXlianZ3dDdhQ2lCWG5KWG1OWElGQVdIMHpLLXhPUVIwbHd0cFgwX1BUMzJUei1sa1FYTF9mT01F0gHPAUFVX3lxTE1jMFJOQkNLSDF3cmF2ejZSeVNmWjNNSjFoeDJmUjVDRERMNHBNX19lLVFJLThhSXk2aEswTjVRSzlVMktwMHY0NmY4SEpNb2Z0cG94MGE0X2xtUlMzV2ZGMlk5YTUyMGFJNGNobThHb2lVMFh0RGJ2NzV5VHBIUkVKdWFzUUFPLW9xMElrQjNWS0JMTVVMenpuUjlqa1VVbXdPb1czX0JZbFR3UzZpZU8zdzNlTXVvQkJkdUxuNklBNEV5TmhBQUZvb3BsQlVzQQ?oc=5
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
@@ -208,17 +148,57 @@
   Penguin pulls plug on Joe Sacco�
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
-  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
+- 'He is a 15-year-old kid': BCCI to bear parents' expenses as Vaibhav Sooryavanshi begins senior India jou - The Times of India
+  'He is a 15-year-old kid': BCCI to bear parents' expenses
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxObnA5dDROVzVITUNnYzVXa0RRM1lPYTB3elJFb0dKbV9UN29KeFRVQXE0eVNVdW9tanhBbEtmZ3hzblNWV3JrWmFkdy01OFdFdk9hSzNweXBfSDc3ZjJjV3BLall5U3VJTnRmUzdtT0huTFVxemJnNWpRZDZiRVl1bzJPanNGQzlOMS04cmtlZVY5N0M1V2VkVHppeWFIMkVTYk51VlpkUE5taTFueEJJVFdfMnVwODFWc2J1T3dGQWJTU016UlZYNU1TSDVVTkZMU0RNeGhJRjE4WDRjVS1pd2gwNXBlc2psRVJEWmVoUm1PQk1fSkV3T211b1dMeFh1aEhvaFQ3ckVWNUt60gGSAkFVX3lxTFAxS09EZUVIb2F0QWNqcVFxUjRsMm5GaGxXNnR0Q2xsTjE1R1p5bTFIUUlYTzRKVFhRekdPVlVsZ2QxSEcyVUJhaWRxZndkUVF3R3Y3d2VjWUtySGtLanlRb045eDdSd3A1Y09JeXRxRUdTZWp6ZF9EUnVKVHlvb2hXR0VMMFR1RW1qRENzZGl0YmcxbkI4TFMwcXBiZ0dkamQ2bXNJRGRNZGNRNkVUR0NBS2VwRWQtNVNKQzZvMU1xWDRWaGliazc5MnhJbWJmUzBaQl9nWHZxUFZtLXJBM1Rkazc3aXU0c3hrQUZVYkFMZFRHTGNlb1FvVHI0VWhxQkRUX3lRM2dMRDg1MmRwZkJFa2c?oc=5
 
-- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
-  India is significant player in growth story of air traffic in Asia-Pacific
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
+- ‘They cannot…’: Nepal minister raises concerns over India-China border trade amid Lipulekh row | India News - Hindustan Times
+  ‘They cannot…’: Nepal minister raises concerns over India-
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWpCOWdFV3pMeW91Rk1SaGJJY3hKVFpFVm8zeVd1LUcxMUMxeUpYdkJKMGpObm5lWEltVEN5R1dLX3VzemFXOU9VdWhSZkRMdFRLc3lTd25WVHRNbHJ5SHdORHVZUG1qTHA1WkZ3XzdicUpJMUNZTlo0YlVVM2dLMGdfMXlKU3NiZUlxOTFOSWJWd2JkNmhteEY4bUFqckJKYTZoOFAwekJMV0hsUmJMdmJSTWJ0dFVmVlpkQ3JYLURkLWtwelF4V1NXU0VpR0o4MVZrVFdFNE8zU0piX1Z4Mm9jT1hYb0Z10gHuAUFVX3lxTE9YdkVidTNvaGEzRTBmT1dRYTItMllQUDFoNnBaUUVZQ0xzTkNZbjZvbjZnTnRzVGpjUkhMOWltOEotUDBNMUVuQVdiRUZTd0ZyOEFHb0YzTW1IN3hYcmgxVDMtR1ZtbEtxdVBsMXVZOERTcF84RmFLb1BGX1oyRWQwNkQ2ck85VFJRNWZBQUJrdGQ1QTZzeGFNRlZ2aU1oUUpBajFKSzZEMVRfMXRWV3pzdE1pUGtkVjhtZFNMSFJYQjFRQUw5OFMzQjFiZG5QWnl4MWZwTWxoeC1iYjNETWM4RnowbTNHb19RdFo3V2c?oc=5
 
-- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
-  Domestic LPG Cylinder Prices Up By Rs
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
+- Nepal Seeks "Open-Heart" Talks With India To Resolve Border Dispute - NDTV
+  Nepal Seeks "Open-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXEtZjEtR3NjU2ZreGJIWGZicjV4aW5Ca2xWdTBEd19DdEF4UFB3VC1VMFlwdnlYOFNFcmIwcjNKRTRCbkYtLWFnVGZvVTBEb0M0T0Ntc2R2SFB4QmRabThhbkd5bEJpN01oWDNQNXJ3ekp6OEJHOTFfcko2d2dZcUxoNk01QUxMbzh6QXFmSXlianZ3dDdhQ2lCWG5KWG1OWElGQVdIMHpLLXhPUVIwbHd0cFgwX1BUMzJUei1sa1FYTF9mT01F0gHPAUFVX3lxTE1jMFJOQkNLSDF3cmF2ejZSeVNmWjNNSjFoeDJmUjVDRERMNHBNX19lLVFJLThhSXk2aEswTjVRSzlVMktwMHY0NmY4SEpNb2Z0cG94MGE0X2xtUlMzV2ZGMlk5YTUyMGFJNGNobThHb2lVMFh0RGJ2NzV5VHBIUkVKdWFzUUFPLW9xMElrQjNWS0JMTVVMenpuUjlqa1VVbXdPb1czX0JZbFR3UzZpZU8zdzNlTXVvQkJkdUxuNklBNEV5TmhBQUZvb3BsQlVzQQ?oc=5
+
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
+
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+
+- 'He is a 15-year-old kid': BCCI to bear parents' expenses as Vaibhav Sooryavanshi begins senior India jou - The Times of India
+  'He is a 15-year-old kid': BCCI to bear parents' expenses
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxObnA5dDROVzVITUNnYzVXa0RRM1lPYTB3elJFb0dKbV9UN29KeFRVQXE0eVNVdW9tanhBbEtmZ3hzblNWV3JrWmFkdy01OFdFdk9hSzNweXBfSDc3ZjJjV3BLall5U3VJTnRmUzdtT0huTFVxemJnNWpRZDZiRVl1bzJPanNGQzlOMS04cmtlZVY5N0M1V2VkVHppeWFIMkVTYk51VlpkUE5taTFueEJJVFdfMnVwODFWc2J1T3dGQWJTU016UlZYNU1TSDVVTkZMU0RNeGhJRjE4WDRjVS1pd2gwNXBlc2psRVJEWmVoUm1PQk1fSkV3T211b1dMeFh1aEhvaFQ3ckVWNUt60gGSAkFVX3lxTFAxS09EZUVIb2F0QWNqcVFxUjRsMm5GaGxXNnR0Q2xsTjE1R1p5bTFIUUlYTzRKVFhRekdPVlVsZ2QxSEcyVUJhaWRxZndkUVF3R3Y3d2VjWUtySGtLanlRb045eDdSd3A1Y09JeXRxRUdTZWp6ZF9EUnVKVHlvb2hXR0VMMFR1RW1qRENzZGl0YmcxbkI4TFMwcXBiZ0dkamQ2bXNJRGRNZGNRNkVUR0NBS2VwRWQtNVNKQzZvMU1xWDRWaGliazc5MnhJbWJmUzBaQl9nWHZxUFZtLXJBM1Rkazc3aXU0c3hrQUZVYkFMZFRHTGNlb1FvVHI0VWhxQkRUX3lRM2dMRDg1MmRwZkJFa2c?oc=5
+
+- ‘They cannot…’: Nepal minister raises concerns over India-China border trade amid Lipulekh row | India News - Hindustan Times
+  ‘They cannot…’: Nepal minister raises concerns over India-
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWpCOWdFV3pMeW91Rk1SaGJJY3hKVFpFVm8zeVd1LUcxMUMxeUpYdkJKMGpObm5lWEltVEN5R1dLX3VzemFXOU9VdWhSZkRMdFRLc3lTd25WVHRNbHJ5SHdORHVZUG1qTHA1WkZ3XzdicUpJMUNZTlo0YlVVM2dLMGdfMXlKU3NiZUlxOTFOSWJWd2JkNmhteEY4bUFqckJKYTZoOFAwekJMV0hsUmJMdmJSTWJ0dFVmVlpkQ3JYLURkLWtwelF4V1NXU0VpR0o4MVZrVFdFNE8zU0piX1Z4Mm9jT1hYb0Z10gHuAUFVX3lxTE9YdkVidTNvaGEzRTBmT1dRYTItMllQUDFoNnBaUUVZQ0xzTkNZbjZvbjZnTnRzVGpjUkhMOWltOEotUDBNMUVuQVdiRUZTd0ZyOEFHb0YzTW1IN3hYcmgxVDMtR1ZtbEtxdVBsMXVZOERTcF84RmFLb1BGX1oyRWQwNkQ2ck85VFJRNWZBQUJrdGQ1QTZzeGFNRlZ2aU1oUUpBajFKSzZEMVRfMXRWV3pzdE1pUGtkVjhtZFNMSFJYQjFRQUw5OFMzQjFiZG5QWnl4MWZwTWxoeC1iYjNETWM4RnowbTNHb19RdFo3V2c?oc=5
+
+- Nepal Seeks "Open-Heart" Talks With India To Resolve Border Dispute - NDTV
+  Nepal Seeks "Open-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXEtZjEtR3NjU2ZreGJIWGZicjV4aW5Ca2xWdTBEd19DdEF4UFB3VC1VMFlwdnlYOFNFcmIwcjNKRTRCbkYtLWFnVGZvVTBEb0M0T0Ntc2R2SFB4QmRabThhbkd5bEJpN01oWDNQNXJ3ekp6OEJHOTFfcko2d2dZcUxoNk01QUxMbzh6QXFmSXlianZ3dDdhQ2lCWG5KWG1OWElGQVdIMHpLLXhPUVIwbHd0cFgwX1BUMzJUei1sa1FYTF9mT01F0gHPAUFVX3lxTE1jMFJOQkNLSDF3cmF2ejZSeVNmWjNNSjFoeDJmUjVDRERMNHBNX19lLVFJLThhSXk2aEswTjVRSzlVMktwMHY0NmY4SEpNb2Z0cG94MGE0X2xtUlMzV2ZGMlk5YTUyMGFJNGNobThHb2lVMFh0RGJ2NzV5VHBIUkVKdWFzUUFPLW9xMElrQjNWS0JMTVVMenpuUjlqa1VVbXdPb1czX0JZbFR3UzZpZU8zdzNlTXVvQkJkdUxuNklBNEV5TmhBQUZvb3BsQlVzQQ?oc=5
+
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
+
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+
+- 'He is a 15-year-old kid': BCCI to bear parents' expenses as Vaibhav Sooryavanshi begins senior India jou - The Times of India
+  'He is a 15-year-old kid': BCCI to bear parents' expenses
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxObnA5dDROVzVITUNnYzVXa0RRM1lPYTB3elJFb0dKbV9UN29KeFRVQXE0eVNVdW9tanhBbEtmZ3hzblNWV3JrWmFkdy01OFdFdk9hSzNweXBfSDc3ZjJjV3BLall5U3VJTnRmUzdtT0huTFVxemJnNWpRZDZiRVl1bzJPanNGQzlOMS04cmtlZVY5N0M1V2VkVHppeWFIMkVTYk51VlpkUE5taTFueEJJVFdfMnVwODFWc2J1T3dGQWJTU016UlZYNU1TSDVVTkZMU0RNeGhJRjE4WDRjVS1pd2gwNXBlc2psRVJEWmVoUm1PQk1fSkV3T211b1dMeFh1aEhvaFQ3ckVWNUt60gGSAkFVX3lxTFAxS09EZUVIb2F0QWNqcVFxUjRsMm5GaGxXNnR0Q2xsTjE1R1p5bTFIUUlYTzRKVFhRekdPVlVsZ2QxSEcyVUJhaWRxZndkUVF3R3Y3d2VjWUtySGtLanlRb045eDdSd3A1Y09JeXRxRUdTZWp6ZF9EUnVKVHlvb2hXR0VMMFR1RW1qRENzZGl0YmcxbkI4TFMwcXBiZ0dkamQ2bXNJRGRNZGNRNkVUR0NBS2VwRWQtNVNKQzZvMU1xWDRWaGliazc5MnhJbWJmUzBaQl9nWHZxUFZtLXJBM1Rkazc3aXU0c3hrQUZVYkFMZFRHTGNlb1FvVHI0VWhxQkRUX3lRM2dMRDg1MmRwZkJFa2c?oc=5
+
+- ‘They cannot…’: Nepal minister raises concerns over India-China border trade amid Lipulekh row | India News - Hindustan Times
+  ‘They cannot…’: Nepal minister raises concerns over India-
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOWpCOWdFV3pMeW91Rk1SaGJJY3hKVFpFVm8zeVd1LUcxMUMxeUpYdkJKMGpObm5lWEltVEN5R1dLX3VzemFXOU9VdWhSZkRMdFRLc3lTd25WVHRNbHJ5SHdORHVZUG1qTHA1WkZ3XzdicUpJMUNZTlo0YlVVM2dLMGdfMXlKU3NiZUlxOTFOSWJWd2JkNmhteEY4bUFqckJKYTZoOFAwekJMV0hsUmJMdmJSTWJ0dFVmVlpkQ3JYLURkLWtwelF4V1NXU0VpR0o4MVZrVFdFNE8zU0piX1Z4Mm9jT1hYb0Z10gHuAUFVX3lxTE9YdkVidTNvaGEzRTBmT1dRYTItMllQUDFoNnBaUUVZQ0xzTkNZbjZvbjZnTnRzVGpjUkhMOWltOEotUDBNMUVuQVdiRUZTd0ZyOEFHb0YzTW1IN3hYcmgxVDMtR1ZtbEtxdVBsMXVZOERTcF84RmFLb1BGX1oyRWQwNkQ2ck85VFJRNWZBQUJrdGQ1QTZzeGFNRlZ2aU1oUUpBajFKSzZEMVRfMXRWV3pzdE1pUGtkVjhtZFNMSFJYQjFRQUw5OFMzQjFiZG5QWnl4MWZwTWxoeC1iYjNETWM4RnowbTNHb19RdFo3V2c?oc=5
+
+- Nepal Seeks "Open-Heart" Talks With India To Resolve Border Dispute - NDTV
+  Nepal Seeks "Open-
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXEtZjEtR3NjU2ZreGJIWGZicjV4aW5Ca2xWdTBEd19DdEF4UFB3VC1VMFlwdnlYOFNFcmIwcjNKRTRCbkYtLWFnVGZvVTBEb0M0T0Ntc2R2SFB4QmRabThhbkd5bEJpN01oWDNQNXJ3ekp6OEJHOTFfcko2d2dZcUxoNk01QUxMbzh6QXFmSXlianZ3dDdhQ2lCWG5KWG1OWElGQVdIMHpLLXhPUVIwbHd0cFgwX1BUMzJUei1sa1FYTF9mT01F0gHPAUFVX3lxTE1jMFJOQkNLSDF3cmF2ejZSeVNmWjNNSjFoeDJmUjVDRERMNHBNX19lLVFJLThhSXk2aEswTjVRSzlVMktwMHY0NmY4SEpNb2Z0cG94MGE0X2xtUlMzV2ZGMlk5YTUyMGFJNGNobThHb2lVMFh0RGJ2NzV5VHBIUkVKdWFzUUFPLW9xMElrQjNWS0JMTVVMenpuUjlqa1VVbXdPb1czX0JZbFR3UzZpZU8zdzNlTXVvQkJkdUxuNklBNEV5TmhBQUZvb3BsQlVzQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-07 03:00:34 UTC_
+_Last updated: 2026-06-07 08:53:14 UTC_
