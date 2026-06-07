@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
+- Madhya Pradesh teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-jantar-mantar-protest-congress-silence-dharmendra-pradhan-neet-10727596/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-teen-battling-for-life-after-stalker-attacks-her-with-axe-hangs-her-from-rooftop-10727666/
 
-- Army officer dies after falling into gorge during anti-militancy operation in J&K’s Rajouri
+- A young man’s suicide in Goa puts spotlight on online shaming and police heavy-handedness
   
-  🔗 https://indianexpress.com/article/india/army-officer-dies-operation-sheruwali-rajouri-militants-search-bsf-10727565/
+  🔗 https://indianexpress.com/article/india/a-young-mans-suicide-in-goa-puts-spotlight-on-online-shaming-and-police-heavy-handedness-10727669/
 
-- MP teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
+- Satna HIV case: Probe finds paid blood donors operated freely inside district hospital
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-teen-attack-shivpuri-girl-assault-case-10727558/
+  🔗 https://indianexpress.com/article/india/satna-hiv-case-probe-finds-paid-blood-donors-operated-freely-inside-district-hospital-10727667/
 
-- Kota priest hacked to death inside monastery, saints launch protest over delayed arrests
+- Celebratory firing death: Bihar BJP MLA convicted
   
-  🔗 https://indianexpress.com/article/india/kota-priest-murder-mahant-devanand-maharaj-attack-10727493/
+  🔗 https://indianexpress.com/article/india/celebratory-firing-death-bihar-bjp-mla-convicted-10727686/
 
-- In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS
+- Verify nationality of 2,860 people for their deportation, India tells Bangladesh
   
-  🔗 https://indianexpress.com/article/india/in-kashmir-a-stir-over-mehboobas-review-of-aiims-10727464/
+  🔗 https://indianexpress.com/article/india/verify-nationality-of-2860-people-for-their-deportation-india-tells-bangladesh-10727678/
 
 - Why Apple’s AI strategy may be the biggest focus at its developer conference next week
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/hp-introduces-zgx-fury-gb300-an-ai-workstation-for-large-scale-models-10727004/
 
+- Why the market isn't buying Salesforce's AI story
+  Salesforce is betting heavily on AI across its products, operations and acquisitions. The company is already seeing productivity gains, but investors are still
+  🔗 https://www.livemint.com/companies/news/salesforce-ai-strategy-investors-remain-unconvinced-11780657093855.html
+
+- Indian tech firms Sahasra and Zoho showcase Asian ambitions at COMPUTEX 2026 in Taiwan
+  Indian electronics and software firms Sahasra and Zoho exhibited at COMPUTEX 2026
+  🔗 https://www.livemint.com/companies/news/indian-tech-firms-sahasra-and-zoho-showcase-asian-ambitions-at-computex-2026-in-taiwan-11780789024213.html
+
+- Bahrain’s Gulf Air Sees Travel Demand Recovering in the Summer
+  Bahrain’s national carrier predicted travel demand through its hub will recover in coming weeks. Iran war disrupted passenger flows across the
+  🔗 https://www.livemint.com/companies/bahrains-gulf-air-sees-travel-demand-recovering-in-the-summer-11780779352086.html
+
 - KPMG forensic review says IDFC First Bank Chandigarh fraud an isolated incident
   The KPMG forensic review found collusion among IDFC First Bank's branch staff, customer representatives and third parties.
   🔗 https://www.livemint.com/companies/news/kpmg-forensic-review-says-idfc-first-bank-chandigarh-fraud-an-isolated-incident-11780731428126.html
@@ -47,18 +59,6 @@
 - SpaceX’s lofty IPO has serious earthbound problems, from emissions to water
   Data centers use water primarily for cooling their servers.
   🔗 https://www.livemint.com/companies/news/spacexs-lofty-ipo-has-serious-earthbound-problems-from-emissions-to-water-11780710698355.html
-
-- Why Reid Hoffman is leaving Microsoft's board for an AI startup?
-  Reid Hoffman steps down from Microsoft board to focus on Manas, his AI drug-discovery
-  🔗 https://www.livemint.com/companies/people/reid-hoffman-exits-microsoft-board-to-focus-on-ai-drug-discovery-startup-manas-11780708167278.html
-
-- Elon Musk's SpaceX secures $920 million monthly Google deal for cloud compute capacity- Explained
-  SpaceX lands $920M monthly recurring revenue from Google for AI compute. New infrastructure
-  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-secures-920-million-monthly-google-deal-for-cloud-compute-capacity-explained-11780706693977.html
-
-- A five-year trail of LIC's red flags on Rajesh Exports before Sebi order
-  LIC’s voting trail shows repeated concerns over disclosures. This highlights the value of public records as investor warning signs. It also raises questions over whether LIC could have done more.
-  🔗 https://www.livemint.com/companies/rajesh-exports-voting-trail-lic-red-flags-sebi-order-11780661423677.html
 
 - There Are Millions of Crypto Tokens. Almost None Have Any Value
   Charles Hos
@@ -108,17 +108,17 @@
   Stock Market News for June 5, 2026: Nasdaq Suffers
   🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
 
-- US stocks slump as fears over Big Tech shake Wall Street - BBC
-  US stocks slump as fears over Big Tech shake
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5
+- Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets - Yahoo Finance
+  The Nasdaq plunges 4%, Dow and S&amp;P 500 sink as AI
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5
 
-- DoubleLine, Oaktree Brace for Potential AI Pain - Bloomberg.com
-  DoubleLine, Oaktree
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZuUmg1c1E4VFJUd0M3dmFUa2lqTGJPUExLTGh6dGMzMTRkLWJUWkpMYTd6QVNWWWlxUUF0ZmM4blB3Rkl4cEZTU2pmNWZRMU02Q3RBUEF3d2dRcGxPajFYOGNwQW00SkhwNnFVSHJiLVo5a25pZTdiZEpZVFVZdTVoTnBxazNxejdzamNYYUc2Ry15X2NDdXNyNHY3UmpYVGpFLXFPNmxPZEp3dy1TME9zaGtBcVNyYURCTW5mLVRYaHFWNU9n?oc=5
+- Daily Voice: 6 investment themes that could shape market returns, according to Phanisekhar Ponangi - Moneycontrol.com
+  A look at 6 investment themes that could shape market returns
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRXJMbXJGUS1VYmFxLUtHbTVVSUhFU1ROMjI4N3RicEhFaXpTWkFqUTZLZ2dSTkFaNU85LUVSMGNZSzhUUjRqdFRwcXlFYjhEYXhyZ2tYZUFhLUZMaS1QYnE4ODVPNXNMRHRWaDQ4dGtnRHNLdm92N2tnUGRqY0l2UkkyWlJoMjY3MzBFSThiTUtJcjY5SXBaM2xQYTZkLUxmRDNmSEZHSFhXTnBuTWJTQXhGS3BPbVFYWmUzYmdLUGFiSjhhcERQMGt0OU9fWjU3LXlYcFhzdTFESGxJWmxWMUZMSHB6cVZXcVNoWUpVaVdTYXfSAfgBQVVfeXFMTkVjbDF3bTFDWmxsdjNONkVNOUlaeV9pRGhET3JqNWdOT044R25hQWRxd2loY3ZiS0F4QmNmWERVNVQ4RlZDM0NBckJMMHlSOUoydm5oUVNsWXdjcHFJcWtyVnp6S09VRXVXSGR4b3FickVqZWtvRkVfeElsaVpjVE5XbWhIWERpRjBBeEZiVW10b2JITHozNzZQbkRyNHpNVVN2MlVtQ1lhVHVJbXN3dlJGTjBBUFcxcDl4TWJxb3VJblVDTVJETFgwckxySjZJR3oxZGRhaTNWNFRGVVVpNm1EZmJKVTZmVUhxZ3RzSm9rWDNHbjZwV0g?oc=5
 
-- Here are 3 forces that drove a whirlwind week for the stock market - CNBC
-  Here are 3 forces that drove a whirlwind week for the
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmZOMFd6MWpKNnpsbVFLeWl6cmU5dXc0SmluYURTSzF0WURzXy12YlMzUEZRRzFPR1ZKY1gxY0hjblZHRmwzU3plOFM1bERCNTBBN1RkVnJjLVNEdnZsNU9DT3FvTVpHODdZbGpVSEs0T2FxUFRMNjZNSzcwd01nalNmTUdTREFZWG1jM2NSU282TXFsX0JSQXVUenpHNXAwaEhSdjlR?oc=5
+- When Trump Jawbones the Market, Bet Against Him at Your Peril - WSJ
+  The WSJ reports that the White House is
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1BeDJHYVpWLTZBNVRhR1FZOFpnM0dYN1cwMWhHeUJzdVNFRVBlbkx3X1kzSTlPbDVNRGNTZ29xSXR2S2h2M3RtRFBrdzFNT3VaNE55bVZhQmFNMDREVHZRcklhbTNPcER0bUllcndseWtfMGlTb1pDZFp2Z29DT2dFQmFIMjlSTDByMm8yWDAwUnVuM1FZTGJvTnpKdw?oc=5
 
 - Dalal Street Week Ahead: Will Nifty hold 23,000 as markets test key support?
   The markets ended lower this week, with Nifty trading below its 50 and 100-week moving averages. While a crucial support zone near 23,000-23,100 is being defended, a sustained breach could trigger further
@@ -140,85 +140,85 @@
   Macquarie has initiated coverage on Meesho with an ‘Underperform’ rating and a target price of Rs 125. The brokerage believes declining average order values and modest per-order economics could limit profitability.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/macquarie-initiates-underperform-rating-on-meesho-sees-25-downside-heres-why/articleshow/131548084.cms
 
-- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
-  'Cockroach' youth group founder leads first
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
-  Vaibhav Sooryav
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
+- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
+  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
 
-- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
-  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
+- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
+  India is significant player in growth story of air traffic in Asia-Pacific
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
 
-- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
-  RBI simplifies rules for Foreign Portfolio Investors in government securities.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
+- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
+  Domestic LPG Cylinder Prices Up By Rs
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
 
-- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
-  'Cockroach' youth group founder leads first
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
-  Vaibhav Sooryav
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
+- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
+  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
 
-- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
-  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
+- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
+  India is significant player in growth story of air traffic in Asia-Pacific
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
 
-- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
-  RBI simplifies rules for Foreign Portfolio Investors in government securities.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
+- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
+  Domestic LPG Cylinder Prices Up By Rs
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
 
-- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
-  'Cockroach' youth group founder leads first
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
-  Vaibhav Sooryav
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
+- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
+  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
 
-- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
-  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
+- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
+  India is significant player in growth story of air traffic in Asia-Pacific
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
 
-- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
-  RBI simplifies rules for Foreign Portfolio Investors in government securities.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
+- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
+  Domestic LPG Cylinder Prices Up By Rs
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
 
-- 'Cockroach' youth group founder leads first street protest after arrival in India - Reuters
-  'Cockroach' youth group founder leads first
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUM3eXNPLUM1NldjSDl1QVplc1lXY0l0cXRhZExSYXpxZ0Uxdl9QVFlyMUZBcEU5a19janRSZlBUcjBMb3pDMGFmZnJmUnhRSlhzdVk0NWVEaEhsTW1yQ1AzNDFhV0NJZEpSdmZpOXBVZU81SEY0MGFhWVhYQkxNSG4tVFJjcUItSTZZMGJPcUJsc0JjV0VQRDFHTUF1c2Nzbm8ydS11d1k0eXM2QUtXbXpQS1ZmNVRpYnc?oc=5
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Putin hails India ties, Trump calls Modi 'good friend' - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDZmamJpU2JqeDZCR3R4OV80VDZnVmVkMTI2el9Ra1ZLTm1nT016Zl9RRjZpYUwzSkFhRjI1eWwzbk9QZlZzZTF4bDFYNkQzRkNEa2hRN0dDazR0dkJ3UllrcGZCaEExVDBkMEVQTXRmVC1mMkZFRUNwbDFXN1pXa1FKS0Nzc3FwbXg2QVlDTEx4NjVIZDFwY2xnN0FtOGs?oc=5
+- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
+  Penguin pulls plug on Joe Sacco�
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
 
-- Vaibhav Sooryavanshi News | Vaibhav Sooryavanshi's India Journey Starts - NDTV
-  Vaibhav Sooryav
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm04eW5rd09ScnRVNjdxMmxvMEhEZ1d0ajg5VjN2UlR3dTZJRy1CajEzNHllY3JPZ2NacTh4Vnlib0xqY0U1c0tNU0hweUgtRFhGMTNfeVdFV3l5VkptTlhTVkV5Vk9NWDgzN3RySDFHc012V0xaTFZyMklkZThfNlZiODBVc0JwVWFEbk5GbHJwNi1Id05KWnVCaWJzU21Ddl9KTWtpeXI?oc=5
+- SKYfall: Why India moved on from Suryakumar Yadav - The numbers behind the end of the SKY era - The Times of India
+  Suryakumar Yadav was sacked by the Indian government on Tuesday. Yadav had been
+  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxOR244NTczMzZVa0FBajBMVWIwSjgzbmFJU0Ezam5ET3ZUUEZtVVkxWVRyelpLajF6U2Z6TUMzUWgzckloSDUycEhKSGREN0F6WGhubUxQcTJVSzRLcnJmTUoxS0N4a1UxT3JmUURlN2piakFZNmZlc1hQM0Mwd0hRQVVuTFptaHBCc19pYVhoMHFULXVTM2NucEVRVXFfQlVxZHYzcEVLcDMzQ2I4alY4RjNxU2hZZ3BMSEw5c0w0Tm0tMGZyZ3JiU284dXRIc3hPX1hSeHk3WU5ld2s0ZGZlNTRWR3V5a1dxLXh5X0YxaHFtVGpteS1rblpQMi13ZWMxYVHSAYcCQVVfeXFMTWdhMGdWY0RaV0tIUjV2eWduNnkzVHZUekFSX2x3U2txUW8wY1NJS2h3ZWxhNXFRdU5qN2dtRGJzUkFlVWplWjNLWXMxX1FFUWxOaF81RUF1YTV0ek04Q1Z3LU5HNjFoX1BvMDRKcFFTZllSVmJ4MFR1eHhQV21pd3lRLW1VZjktaXgyc0I3bGItdkpXUV8zWjE3LXpvbnNNNXFqZDhIX3hTN3VZMXl3dW5RLS1XVTBtbmJncUg1TWlITEwwZjZYWG9BVXltWEdZM3ZwSlZTWHN5RE5nYVFPdkxxVFNtUGVWS1Z4MmJKV09MNnl5cUdVaXMwejNNelBBbjRCUXNhMzA?oc=5
 
-- 'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over 'dragging youth into negative - The Times of India
-  'People sitting abroad ... ': BJP chief's veiled attack at CJP protest over '
-  🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxPTndZdEQyTjhaaFpwV2duMlZLTDBjX1FRZnlwLV9YRDVxZW1RQm1Rd2Z3eGgtdGRRNUE0MkdKY0RWZmZRY1U0eDVueWZDVmU0Z1QtZDNJUHE1cm5TdGF5LWRMS05aOW1QeUNZOVJFMGNKZnB3V3V4SnhsMGdUT3JqZnhTeDFnV2NiXzFScFpJMjN6SnU5bGQ4dnlubEdqQ1Fkc0FEX01iNWhiNkF5X3dFTW4yWk9iM2dfQldwVUR2TXMzcVExZjJsdkViSU5vLXUxeEowM2NxbmVSeEdJdHdOdkQ0b2ZxeW5ib1hxS2ZKWXBRSVMweGdienNJT0lpU0MydFHSAYcCQVVfeXFMTU1DdEJIdGhtbnNSMklyVFRFeEpsSUhmalRlSGpoQjRISFRvdDZVUFZnX2NCQTN6cUJsaG9PZi1pXzhfQ0RGQ3hzYnJMOWc3aXBKeElnNUk2MjNiRW1BQ2Exb2VoRmJWQW5GODlIM1o2QnZ0VV8wWklnVHNHeEx4cEFHUkxGV0ZnaGJLdWZzNTdOcm02dVROVk81ZGRHVTN6bGYwREZDWUFPem8tSTRXVTRlc05lYU00alZqRUNtbktDdmlmWGsxNUFhcEk2ZzVub2lSNmJyempPRndqZnFRTGdqOXZNTHViS3M4cTdKY1RiU29lV3k3YkhBNlU0WkwzNE1rMDBhd3M?oc=5
+- India is significant player in growth story of air traffic in Asia-Pacific region: IATA - News On AIR
+  India is significant player in growth story of air traffic in Asia-Pacific
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHhmbFhDeW9Xd0dRQXhDd2Nacllpa1FMRFRRbThqcTJ6SW40ZGt1NDZUY0ZabGxBMmhiaUJ4Z1ZudUxHc0hfZUdIcTZ4clZPbnJMb3ZkTnhCLTNYaWphUVNYczRKZDl3RDFxTV9nekRydlFsZnJiV2o2ekxRNkJiR2QzTzA4dnBuSjhZVWROZ2VRZWhBNjdVbWctRGZFWUZhVEVpdG93Sy1CR3dxTi02V2RB?oc=5
 
-- RBI simplifies rules for Foreign Portfolio Investors in government securities to make investment in india easier - News On AIR
-  RBI simplifies rules for Foreign Portfolio Investors in government securities.
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTlpUTBUejdfLU5oZFQ4LTZKeTFrZF9FNzVoZzFySkdQZDN4WlJ1bDJfYmlCcTRETTZwMEVFT2JoRVZxZndScmdwbUkzNldEem9XUi0yYk8tNjhwX3hKcmp3Y1BkTkJPWTJpY2tvLUEtS1NCN2JRSTlBcW55bHdiMVNMYkRiWWE1Q20xNmd1Ym9LeFp4TDVFX3VyUF94NDRFMkM2UlR4eW5PeGVLdERZY2Y5QkJNUFhPbWt2dXp3MzN2LUk?oc=5
+- Domestic LPG Cylinder Prices Up By Rs 29: Check Cost In Your City - NDTV
+  Domestic LPG Cylinder Prices Up By Rs
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVRseENtU3NCMi1qay1ZLXJzMWNXZFUzdi1NTlhXdWNWRENzNGV1dkJnVVV5MWRhcXZoaFEwR254RUZNSTBCU2VVYU9IWjBEalYxWWVmaFVCY0ZpRVdmZlFRcUMtYUhsVWFUSy14UU9HU3RNMUpxcUNmUE1SNzlhMFpBRFJqZnRxOWpLN1N1d1dib3ZlYk4zMFFUckJtQ3d6dS1GR3hsQnTSAbABQVVfeXFMUHhIV1lTYzFkMnJrLVFQWjB5M2RwSENYazM2aXlqdHF6VTY5UDM0Mlh1ZWM3UFUyemdvSW5NSldIZVFUTTg4cHNyYTBRWjVsRWVFUmUxUlZ0WDI2VW5ZOVhsOWM3TE5HVVNIVXZvaVlHMVBBSDRXU1lOQzIwZFYwdk5oMlVPNWVVTkw4cEhKVWNqYVV4cnEyczNyTHY4V0VyU0xrYkVHTEpIR01lM1R1NzA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-06 19:16:55 UTC_
+_Last updated: 2026-06-07 03:00:34 UTC_
