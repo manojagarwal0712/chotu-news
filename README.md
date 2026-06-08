@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- India, Indonesia discuss PM Modi’s Jakarta visit, deepen cooperation in defence, maritime security
+- Internet blackout for a day, prohibitory orders for 2 weeks: Jaipur braces for major anti-encroachment drive
   
-  🔗 https://indianexpress.com/article/india/s-jaishankar-indonesia-foreign-minister-sugiono-modi-jakarta-10728687/
+  🔗 https://indianexpress.com/article/india/internet-blackout-for-a-day-prohibitory-orders-for-2-weeks-jaipur-braces-for-major-anti-encroachment-drive-10728775/
 
-- ‘If he made mistake, he should admit it’: Gehlot’s remarks on Pilot mark latest chapter in Rajasthan Congress drama
+- A stray tigress finds a new home, giving a struggling Chhattisgarh reserve hope of revival
   
-  🔗 https://indianexpress.com/article/india/ashok-gehlot-sachin-pilot-rajasthan-congress-manesar-rebellion-pcc-chief-10728631/
+  🔗 https://indianexpress.com/article/india/a-stray-tigress-finds-a-new-home-giving-a-struggling-chhattisgarh-reserve-hope-of-revival-10728794/
 
-- PM congratulates Major Abhilasha Barak for receiving UN Military Gender Advocate of the Year Award
+- 15 months & counting, Rajasthan Forest Department sits on its probe that exposed graft within
   
-  🔗 https://indianexpress.com/article/india/pm-congratulates-major-abhilasha-barak-for-receiving-un-military-gender-advocate-of-the-year-award-10728619/
+  🔗 https://indianexpress.com/article/india/15-months-counting-rajasthan-forest-department-sits-on-its-probe-that-exposed-graft-within-10728854/
 
-- ‘AI platform to connect Parliament, Assemblies’: Haryana Speaker Harvinder Kalyan
+- ‘No deliverables, no work output’: Probe on Pinarayi Vijayan’s daughter ties with PSU
   
-  🔗 https://indianexpress.com/article/india/chandigarh/haryana-speaker-harvinder-kalyan-conference-parliament-ai-platform-10728616/
+  🔗 https://indianexpress.com/article/india/no-deliverables-no-work-output-probe-on-pinarayi-vijayans-daughter-ties-with-psu-10728827/
 
-- Latest trouble for Khan Sir’s institute: Fire safety ‘shortcomings’
+- Opposition targets Government on LPG price hike: ‘Why are BJP leaders not protesting now?’
   
-  🔗 https://indianexpress.com/article/india/khan-sirs-institute-fire-safety-shortcomings-10728506/
+  🔗 https://indianexpress.com/article/india/opposition-targets-government-on-lpg-price-hike-why-are-bjp-leaders-not-protesting-now-10728850/
 
 - How to watch Apple WWDC 2026 keynote live: Check date, timings, what to expect
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/spacex-inks-30-billion-deal-to-provide-google-with-ai-computing-power-10727876/
 
-- Hong Kong’s Private Wealth Bankers Should Be Anxious
-  Hong Kong narrowly overtook Switzerland as the world’s largest offshore wealth management hub. The sustainability of
-  🔗 https://www.livemint.com/companies/hong-kong-s-private-wealth-bankers-should-be-anxious-11780859141555.html
+- US lawmakers intensify push against H-1B visas—is 2026 its death knell?
+  At least a dozen US lawmakers have backed efforts this year to tighten, suspend or eliminate the H-1B visa programme. The proposals have heightened uncertainty for Indian technology workers and outsourcing firms
+  🔗 https://www.livemint.com/companies/is-2026-the-death-knell-for-h-1b-visa-holders-11780829488222.html
 
-- Anant Ambani's appointment as whole-time executive director of Reliance secures 94.4% shareholder approval
-  Anant M. Ambani has been appointed whole-time executive
-  🔗 https://www.livemint.com/companies/news/anant-ambanis-appointment-as-whole-time-executive-director-of-reliance-secures-94-4-shareholder-approval-11780848555185.html
+- HDFC Bank to decide on CEO Jagdishan's third term only after key report
+  A top panel on HDFC Bank board will meet to mull CEO Jagdishan's reappointment only after it gets the findings of a legal review into concerns flagged by former chair Atanu Chakraborty.
+  🔗 https://www.livemint.com/companies/people/hdfc-bank-ceo-jagdishan-third-term-legal-firm-report-atanu-banking-leadership-succession-11780816981752.html
 
-- Rajesh Exports may be removed from PLI scheme by Heavy Industries Ministry
-  SEBI alleges massive financial fraud at the Bengaluru-based corporation
-  🔗 https://www.livemint.com/companies/news/rajesh-exports-may-be-removed-from-pli-scheme-by-heavy-industries-ministry-11780848080873.html
+- Regulator flags gaps in Bharat Biotech's TB vaccine trial
+  MTBVAC is one of the world's most advanced tuberculosis vaccine candidates. It is a potential successor to the century-old
+  🔗 https://www.livemint.com/companies/news/now-india-s-apex-drug-regulator-hits-the-pause-button-on-bharat-biotech-s-tb-vaccine-11780656879002.html
 
-- Rajesh Exports: Sent 400 GB docs to Sebi, regulator couldn't locate files; will resubmit in 15 days
-  Rajesh Exports is among India's largest gold processing companies. It is facing allegations of inflating its consolidated revenues by more than  ₹15 trillion
-  🔗 https://www.livemint.com/companies/news/rajesh-exports-sent-400-gb-docs-to-sebi-regulator-couldnt-locate-files-will-resubmit-in-15-days-11780846648193.html
+- Ather taps govt’s  ₹1-trillion innovation fund to counter rivals' incentive advantage
+  The EV maker is finalising 2-3% low-interest loans under the research, development, and innovation scheme to bankroll its upcoming
+  🔗 https://www.livemint.com/companies/ather-energy-turns-to-rs-1-trillion-rdi-scheme-for-ev-growth-11780814822029.html
 
-- Air France-KLM CEO signals openness to joint bid with Castlelake for Easyjet
-  Air France-KLM CEO Ben Smith says it is ‘no surprise’ that outside parties are targeting EasyJet.
-  🔗 https://www.livemint.com/companies/news/air-france-klm-ceo-signals-openness-to-joint-bid-with-castlelake-for-easyjet-11780844078055.html
+- From Singapore to Mumbai, the trail of Rajesh Exports’ elusive financial statements
+  Rajesh Exports Ltd and its Singapore subsidiary gave contradictory statements to regulators in the two countries. The statements blurred the actual finances of
+  🔗 https://www.livemint.com/companies/news/from-singapore-to-mumbai-the-trail-of-rajesh-exports-elusive-financial-statements-11780829570733.html
 
-- Trump pushes back against Fed rate-hike bets following strong US jobs report
-  Trump’s remarks come as Fed Chair nominee Kevin Warsh prepares to lead his
-  🔗 https://www.livemint.com/market/stock-market-news/trump-pushes-back-against-fed-rate-hike-bets-following-strong-us-jobs-report-11780852424245.html
+- CMR Green Technologies IPO allotment date likely today. GMP, steps to check share allotment status online
+  CMR Green Technologies IPO allotment date is likely today, June 8. Online check can be done through the websites of BSE and NSE, and also on the official portal of the IPO registrar.
+  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11780887015555.html
 
-- Worries Grow That Hedge Fund Crowding May Amplify Risk in Crisis
-  Friday’s sudden equities rout after a months-long rally is renew
-  🔗 https://www.livemint.com/market/worries-grow-that-hedge-fund-crowding-may-amplify-risk-in-crisis-11780842457304.html
+- Stocks to watch: Adani Energy, Hindustan Zinc, Lenskart, ZEE, Alembic Pharma, among key stocks in focus on 8 June
+  Indian stocks are expected to open lower following a global market selloff influenced by geopolitical issues. Key market activities include substantial investments by SBI Mutual Fund in Adani companies.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-adani-energy-hindustan-zinc-lenskart-zee-alembic-pharma-among-key-stocks-in-focus-on-8-june-11780884145198.html
 
-- JPMorgan AM, Pictet Break From Pack With ‘One and Done’ for ECB
-  Big-name investors are staking out a
-  🔗 https://www.livemint.com/market/jpmorgan-am-pictet-break-from-pack-with-one-and-done-for-ecb-11780831244544.html
+- Buy or sell: Gift Nifty dips, Vaishali Parekh recommends three stocks to buy today — 8 June 2026
+   Vaishali Parekh recommends three stocks to buy today. Schneider Electric
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-dips-vaishali-parekh-recommends-three-stocks-to-buy-today-8-june-2026-11780882649878.html
 
-- How can retail investors buy shares in SpaceXs IPO?
-  SpaceX's IPO is expected to be
-  🔗 https://www.livemint.com/market/how-can-retail-investors-buy-shares-in-spacexs-ipo-11780826499777.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 June
+  Gift Nifty was trading around 23,118 level, a discount of nearly 334 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-8-june-11780883529276.html
 
-- Rajesh Palviya of Axis Sec suggests Zee Ent, Anant Raj, Elgi shares to buy next week
-  Sensex fell 116.67 points, while the Nifty 50 slipped 49.85 points. Concerns over economic growth and inflation forecasts for FY27.
-  🔗 https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-zee-ent-anant-raj-elgi-shares-to-buy-next-week-11780825275346.html
+- Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel
+  Crude oil prices jumped as hopes for an end to the wider US-Iran war eroded.
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-after-israel-strikes-on-lebanon-wti-rallies-4-brent-oil-above-96-a-barrel-11780883000638.html
+
+- Apple finds business users as inevitable iPhone India growth slowdown looms.
+  The slowdown would come despite India remaining one of Apple's brightest markets. For over four years, Apple’s outgoing chief executive
+  🔗 https://www.livemint.com/technology/apple-finds-business-users-as-inevitable-iphone-india-growth-slowdown-looms-11780804285416.html
 
 - iOS 27 arriving tomorrow: Compatible devices, Siri's big AI updates and expected features
   WWDC 2026 will take place on June 8, marking Tim Cook's last official event as CEO. The new update is expected to bring a revamped Siri.
@@ -96,129 +100,125 @@
   OpenAI has introduced Lockdown Mode for Chat
   🔗 https://www.livemint.com/technology/tech-news/why-openai-is-disabling-chatgpt-web-access-to-fight-prompt-injection-attacks-11780797841881.html
 
-- China can build humanoids at scale. The hard part is finding enough buyers
-  China can build humanoids at scale.
-  🔗 https://www.livemint.com/technology/china-can-build-humanoids-at-scale-the-hard-part-is-finding-enough-buyers-11780711776868.html
+- U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates - CNBC
+  U.S. stock futures mixed as Mideast tensions rise
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
+
+- Asia markets tumble as tech rout deepens - Reuters
+  Asia markets tumble as tech
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5
 
 - 100 days of the Iran war: How global markets and the economy have been affected, in charts - CNBC
   100 days of the Iran war: How global markets and the economy have been
   🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0piOEJUaXBPd1ZyZ3BrRWdMbXlQZk1sUzZrMUY3N0pMYWFmLXAzZzVoREpZRGFnaHY2eFE1eUVjV3JjcEN3d3lkTFRKcmlqT2R2X2VJRjdBRXRleDFVM09tMDhrVlhmZ19RSk1yQXZ4RGhpZW1IeWJ6dGlqRGFQVm1nc0VaeURlU0Ew0gGQAUFVX3lxTE14ck9VTmJTN1Y1aHFmZkhpYjRkRkdva085ZEt4cEd5NHUwclRhdmRJcW8yM2pPSllqQUdRZFYwUTR0bWI3cUlzTjR4djZmSERFNkd6YUMzaEpxLUhMNHNWa0d6NWdUY1dIVDQ4alFxYkV6R3lYQ3dhWVRBV2xBX0xzWHBrdXdPNzJSUF9WUDlheA?oc=5
 
-- Stock Market News for June 5, 2026: Nasdaq Suffers Worst Week in More Than a Year - WSJ
-  Stock Market News for June 5, 2026: Nasdaq Suffers
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNmhTYVNPRm9kWWQyVXhncFJndU5uamxtVzAwdUlIemhxcV9NRVhFQmVXWnJRUUxpM0RySGFUX2JEaDlybUZxM05rUlRDaW5MTmVMR1ZpLXdXMG9WckdETGxhQXlqc0dRazR1aEVPbnYwaEZXZjVwTjI2YjQ?oc=5
+- Trade setup for June 8: Can NIFTY50 defend 23,000 support on Monday? - Upstox
+  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS1DR1hCYTF1QmF0NG5CUUNLVk5vQUNHdExSNmx1TDZUQjA4eUhMOG9lT3hNNG9zbmdJRTNaNjZSSmZoaG15SW9XRXp5TkwwM0tMcnI5TWlkcVo5TGI1b0trcXp5ZWE2Zm
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS1DR1hCYTF1QmF0NG5CUUNLVk5vQUNHdExSNmx1TDZUQjA4eUhMOG9lT3hNNG9zbmdJRTNaNjZSSmZoaG15SW9XRXp5TkwwM0tMcnI5TWlkcVo5TGI1b0trcXp5ZWE2ZmhLbFNzc0UtbndQd1k4cnRfRWdqaHBHQXlSUzBnVjNYRnk1ZWZ2MGI3QmVVS0ZiR1cyTnNnNG1aZDVHVXIweE5wWHkxRVUtdVlBalpITGVsZjltX01WYktJV3VHQ3c?oc=5
 
-- Watch: Is there an AI stock market bubble, and is it ready to burst? - BBC
-  Watch: Is there an AI stock market bubble, and is
-  🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SLU5zWXJjcGtXV0VHWVE4MHF5ZUhwSDlqay1hc29BVGU0XzB4eDlYMU1DZmcwT0Etb0VnM0VGeWQtQXpYYkZVYnoyclVha01CRzhXMzFVQQ?oc=5
+- Sensex Today | Stock Market Live: GIFT Nifty indicates a firm opening; US, Asian markets fall - Moneycontrol.com
+  "Sensex Today | Stock Market Live: GIFT Nifty indicates
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPekVkMWt4UFdkbEwxeVFsZXU2UHhoY2FIc0hwQnBxVHhDcXZaOGRrbTRxTVI5b2l4b0JZOEhRcmRQNmthQkJPRm94YV9Pa1owLXIwQkZfQ3hiSzdqS3FDZTFzcFpEWmlvb1pCOVI0NmtwZ3d3NU80Vk0wVF9PRmhwM2Z1dkVwb0w3NlYyTkNUbjJBRE9qU3hpS2lhOVVhNkVBRWcyRUsyMU96SlFYbU1zaE1qelcya3NJQlJIdEFWamkxYlpOZGxFYjUyUEg2cGhuaGkyWVYzaXVMYm5YYm1Wc29pNWZLNl84QU9keEZMdzNaWm5H0gH6AUFVX3lxTFBCZHRTbFJGYXRjWU1nU0ttN2l4RThoX1VsSlpTMnVyS0ZKUHNnMFpDNWNkelE3MDBXRFI0VnNabDJNdk5BSE43YXYxYW5kUGFkel9OemF1UHFtVzlkMVVnV0paTG1FRjhab0VabTdYU21rYUNlY2ZHd2NlYlRJeWJjZjV3dmRVVG9pUV9Xck1Id1oyRFRxcnZVamtScWdJbDk4RXZrdzF4S3MxcjJ0amdnaWU3N2N0QnVOd01STlUyMEVnblZubHRuV0MtVVhwdl9LV0NlYXhyb0V3M1lLSFRrQzR0Y0U4MnBOOGNCaFdSdGM1SEhPZ1ZFRWc?oc=5
 
-- India's energy demand boom to reshape global markets, says Rosneft chief - The Hindu
-  India's energy demand boom to reshape global markets
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEhpS3VOT0FZTUl1YVl0NXc4WFptaHBmV0p0aTFGTkJjVWZhLVVyZHVlbFBDbVJnbUhKNWo5ekNPQU1GTmNSWnY0aGYxbmxSSzdPZlo3RFZVajhxTzd2OVR6dHNYdkRhQVRWSjRPMTNYaDJidC05RXZnaGs1UFZrZkZCRWsyUHB1MUJSaVJMeUFmYWl0U3pjdVVCQTc3SUdvQzlwZnRWZllqa0Zhd0NLOG0yR1M5UVItOGdNSkk5ZDk1QWJfV0llSzk5YW_SAdMBQVVfeXFMT3B6N2gxYTdrWEdJdE90TnVTSWI3VGlLb01jN2VPckt5aE5NNTZMaFhqTnBWb2w0QnZDUFZjdldUVmZEZEVTeVAxWDR0MU0zeXhySUozYnRfb19BYjRXTHJBRTZuWTBYM0VIa2ZESHZhc1pKWV9vNk43Y3pJXzhLd1E0STN6UjFKTGpCRE5vMkZBRk9IczFob05ocnBJTWtEXzQ0aG9PTG0yUy10OWJkcGE5NVRSQkY5V0N6Y3ZYVmlaamRQcmRTZVBDT0N1NEc5LW1aQQ?oc=5
+- Oil Price Today (June 8): Crude oil jumps 2% as Israel attacks Lebanon in latest escalation. Where are prices headed?
+  U.S. crude climbs to $92.64 a barrel, while Brent crude rose to $95.42 a barrel. Israel launched fresh strikes on Lebanon, raising fears of renewed Middle East tensions.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-8-crude-oil-jumps-2-israel-attacks-lebanon-in-latest-escalation-where-are-prices-headed/articleshow/131576560.cms
 
-- World’s Hottest Market Has Korea Bulls Reaching for Protection - Bloomberg.com
-  World’s Hottest Market
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnF3ZEdtdE1xQWc1UldKQWNibTRGWlhZNzVPWWdRM3FiemhBOU5VX3JDamRCS3hJUWhrU01vRzNfU2JaSnl5WFpkRE9sUV80OXZvTG9MdW1aaGkyUjJMRllvb18yTnE2cGtqSWZIMkN5WlU5NmVTWU10cUNPT3FfUmsyWDZUa0YxcGdVVGliSUsxT2FzWlpfOFRBSEh4NENLdm1kUjVtbDZTTUhVSUZNVmxiaw?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live | Gift Nifty tumbles over 300 pts; Asian markets under pressure
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-8-june-2026/liveblog/131576579.cms
 
-- Smart money move: Why Groww MF's equity chief is betting on multicap strategies
-  Anupam Tiwari of Groww Mutual Fund warns of a potential oil shock. He believes a multicap strategy combined with bottom-up investing is suitable for current market conditions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/smart-money-move-why-groww-mfs-equity-chief-is-betting-on-multicap-strategies/articleshow/131564842.cms
+- China, HK stocks open lower as global tech selloff spreads to Asia
+  China and Hong Kong stocks opened lower. Strong U.S. jobs data fueled fears of Federal Reserve rate hikes. Wall Street also saw a significant tech stock drop on Friday.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/china-hk-stocks-open-lower-as-global-tech-selloff-spreads-to-asia/articleshow/131576526.cms
 
-- Ahead of Market: 10 things that will decide D-Street action on Monday
-  Indian benchmark indices ended marginally lower on Friday. Investors assessed the RBI’s decision to keep rates unchanged while raising inflation and lowering growth forecasts. Weak global cues, pressure in US and European markets, and continued F
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/131564578.cms
+- Gold extends losses on US interest rate-hike fears
+  Gold prices dipped on Monday, extending previous losses amid U.S. interest rate hike fears. Meanwhile, escalating tensions in the Gulf sent oil prices soaring, fueling inflation concerns. China's central bank continued to increase its gold reserves.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-on-us-interest-rate-hike-fears/articleshow/131576494.cms
 
-- Market Trading Guide: Adani Green among 2 stock recommendations for Monday
-  Domestic equities ended flat on Friday as MPC matched market expectations. supportive measures announced
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-2-stock-recommendations-for-monday/slideshow/131564462.cms
-
-- Carl Icahn’s 9 rules for investing success: Be bold, think independently
-  Carl Icahn's investing philosophy emphasizes independent thinking, deep business analysis, and identifying undervalued assets. He advocates for acting decisively on high-conviction ideas, avoiding herd mentality, and maintaining flexibility
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/carl-icahns-9-rules-for-investing-success-be-bold-think-independently/articleshow/131564105.cms
-
-- NSE investor accounts cross 26 crore milestone as mobile trading and tier-2/3 cities drive participation
-  Over 4.3 crore accounts, nearly 17% of the total, have been added in the past year alone. NSE said in a press
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-investor-accounts-cross-26-crore-milestone-as-mobile-trading-and-tier-2/3-cities-drive-participation/articleshow/131563611.cms
+- Tech View: Support at 23,000–23,100 zone remains critical for Nifty Bulls
+  Nifty is trading range-bound with a bearish bias below 23,500–23,860 resistance. Analysts suggest a move above 23, 500 could revive buying. Selling persisted, with RSI showing a bear
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tech-view-nifty-support-at-2300023100-zone-remains-critical-for-nifty-bulls/articleshow/131576230.cms
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
+  India's fertility rate now below required level to maintain stable population, says govt
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
 
-- ‘How to have financially strong airlines,’ India finally begins to figure out - The Times of India
-  ‘How to have financially strong airlines,’ India finally
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGlYWThlNGVRX3ljV0RTYXRXMlFTWFF6dUlSSEt2WG02YkxuRjNsc1hSU3pwdDI0SVFMaE45UWxIUDBLaGFqWXFtcVlsWnRhM0lLTlJDd1VLWjJwM21UdnZpZnphaUJLRERXTGJyYTZzeTc2bDBSTFc3WTU3bF9uWHFaMzZMNm91d2hSQXBFV09GRlJUT1NBRHdwV0RFbXJHamF6YWhKWG5tb1pIWndReC1FV1Q2VG50bkVrenV1OGpUV2N1VmczUC1XNXAxRmhxY1RncjRXVnJMZ9IB3wFBVV95cUxNRV82WWlJUUI0T0tiWmZCd290YmlkRF9lVTR1UjNuNzg5MHItXzA0VnI5VVBPSE9uQkNmeVdkQXJrVndWeGNCZlpMZWNxMk9iVUk5bVo4ek1VVHRQSU5lWjBQSXJ6djU4eG9MVFNKaHhNZEwzZUEtMkphR1l1UXM4YWJFNmhzNkFxTXo0OG1FekNMMVhINlFqdmlJcUloa1EyaXRsTExkN1lKOE5iQ1BUVS1Gbzh4WXlvX05mUEtIbms1d3VnUGJfVjFCQmVndU5uZlliWURGQ3pSV2hFWEdZ?oc=5
+- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
+  Missing Melbourne teacher allegedly drugged and murdered by brother
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
 
-- How A Bid To Help Iran Left Two Indian Brothers In Detention In Saudi Arabia - NDTV
-  How A Bid To Help Iran Left Two Indian Brothers In Detention In
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHNBbDNSa0VWWHllRmpJRjNwaEQ2ZkJlRVpzQzRFQVJsazRIZXVWdUtuYWJzMmlING1pbHptLUJGbHhKWDZrMTRtSG9YaE5KSW9DWnRkTlFkRk1Wdk15dW1kQldxMW9KRWJTb2tjT0ZtX1FRZGJnMGgyUmVaVG5CTk5LNFJuQVZvS0d2dFQtTUozT1RXc1hCeEtZOHJ4NllJVTI0b2V2VHdHTHlSaU80V0hDSWppSHRX0gHAAUFVX3lxTE1BVlJXVDZ4VzdVWFVFdEtEc3VWM3N0UGdaa2pISDBlM3VBZDNwWW42ZlNFQWFnTUZ2c1lTNUZRdGQ2X2htQl9KVnc1b1dtWWhGczBhWDAwU0V2QzE0WXBILUQ0c0VNc1hnUnpWampOWFdYU0xaUFJqRWR0NGE2d3BLd25uU0JQYjdObDJCbGJZMlFDVXpPVnRxOGhwX1NDZzJjaHFzUkRzQmZCbHgtVXhwaEMzcnpfdlRURE9CYmJWaw?oc=5
+- India achieved sustained environmental transformation over the last 12 years - News On AIR
+  India achieved sustained environmental transformation over the last 12 years
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
 
-- Ram Temple Trust Reacts After Akhilesh Yadav's "Missing Funds" Comment - NDTV
-  Ram Temple Trust Reacts After Akh
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUh4WngxMjU1SlQyc3FIQUdsZUh6OEFudm1kcUlpX3RwcDV2eG1uYnJ2bWh1U1JmcFlRTGZwS20xeGdJRkJXUnlFNkxHc01oaHZYaDc3S2x0Wkg4Nzd6QV9tNEhDbnB6SHJBX1VkaXJVbTUwUFRzYmtVTGFSc3VpdWd2SVZLSnNxbEtfVThndXppR1Fwcm02M200NC1uQnRWMWdBUDFCYlV4cUE0aDBYb0dWdng4Z3JDa0ZNeE9hMndOOUtYalHSAc4BQVVfeXFMTnpieDA1UzhzRWZPc1B6YnBublVZeTIyOEZqNzFuejB5V0RvRGdGekc1UWdXdko0X0trc2VYcUZVYjBrb21iemZxbEtjeDE2MU13cXlBekl3Z0lObVJiUmxWbVNLSjlycUQyOUlPMS04YzBueU81bWd6b0I2NUhabGo4aXZ4QTEwZU5CanNlOXA1bkc1c2dMZGtPYVpFUmVCbnRQMThXUkhRTnZCQnR4b0dwS2lNcUJMVXBWNUJfUEZIQkMydm42clk1cklYcGc?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
-
-- ‘How to have financially strong airlines,’ India finally begins to figure out - The Times of India
-  ‘How to have financially strong airlines,’ India finally
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGlYWThlNGVRX3ljV0RTYXRXMlFTWFF6dUlSSEt2WG02YkxuRjNsc1hSU3pwdDI0SVFMaE45UWxIUDBLaGFqWXFtcVlsWnRhM0lLTlJDd1VLWjJwM21UdnZpZnphaUJLRERXTGJyYTZzeTc2bDBSTFc3WTU3bF9uWHFaMzZMNm91d2hSQXBFV09GRlJUT1NBRHdwV0RFbXJHamF6YWhKWG5tb1pIWndReC1FV1Q2VG50bkVrenV1OGpUV2N1VmczUC1XNXAxRmhxY1RncjRXVnJMZ9IB3wFBVV95cUxNRV82WWlJUUI0T0tiWmZCd290YmlkRF9lVTR1UjNuNzg5MHItXzA0VnI5VVBPSE9uQkNmeVdkQXJrVndWeGNCZlpMZWNxMk9iVUk5bVo4ek1VVHRQSU5lWjBQSXJ6djU4eG9MVFNKaHhNZEwzZUEtMkphR1l1UXM4YWJFNmhzNkFxTXo0OG1FekNMMVhINlFqdmlJcUloa1EyaXRsTExkN1lKOE5iQ1BUVS1Gbzh4WXlvX05mUEtIbms1d3VnUGJfVjFCQmVndU5uZlliWURGQ3pSV2hFWEdZ?oc=5
-
-- How A Bid To Help Iran Left Two Indian Brothers In Detention In Saudi Arabia - NDTV
-  How A Bid To Help Iran Left Two Indian Brothers In Detention In
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHNBbDNSa0VWWHllRmpJRjNwaEQ2ZkJlRVpzQzRFQVJsazRIZXVWdUtuYWJzMmlING1pbHptLUJGbHhKWDZrMTRtSG9YaE5KSW9DWnRkTlFkRk1Wdk15dW1kQldxMW9KRWJTb2tjT0ZtX1FRZGJnMGgyUmVaVG5CTk5LNFJuQVZvS0d2dFQtTUozT1RXc1hCeEtZOHJ4NllJVTI0b2V2VHdHTHlSaU80V0hDSWppSHRX0gHAAUFVX3lxTE1BVlJXVDZ4VzdVWFVFdEtEc3VWM3N0UGdaa2pISDBlM3VBZDNwWW42ZlNFQWFnTUZ2c1lTNUZRdGQ2X2htQl9KVnc1b1dtWWhGczBhWDAwU0V2QzE0WXBILUQ0c0VNc1hnUnpWampOWFdYU0xaUFJqRWR0NGE2d3BLd25uU0JQYjdObDJCbGJZMlFDVXpPVnRxOGhwX1NDZzJjaHFzUkRzQmZCbHgtVXhwaEMzcnpfdlRURE9CYmJWaw?oc=5
-
-- Ram Temple Trust Reacts After Akhilesh Yadav's "Missing Funds" Comment - NDTV
-  Ram Temple Trust Reacts After Akh
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUh4WngxMjU1SlQyc3FIQUdsZUh6OEFudm1kcUlpX3RwcDV2eG1uYnJ2bWh1U1JmcFlRTGZwS20xeGdJRkJXUnlFNkxHc01oaHZYaDc3S2x0Wkg4Nzd6QV9tNEhDbnB6SHJBX1VkaXJVbTUwUFRzYmtVTGFSc3VpdWd2SVZLSnNxbEtfVThndXppR1Fwcm02M200NC1uQnRWMWdBUDFCYlV4cUE0aDBYb0dWdng4Z3JDa0ZNeE9hMndOOUtYalHSAc4BQVVfeXFMTnpieDA1UzhzRWZPc1B6YnBublVZeTIyOEZqNzFuejB5V0RvRGdGekc1UWdXdko0X0trc2VYcUZVYjBrb21iemZxbEtjeDE2MU13cXlBekl3Z0lObVJiUmxWbVNLSjlycUQyOUlPMS04YzBueU81bWd6b0I2NUhabGo4aXZ4QTEwZU5CanNlOXA1bkc1c2dMZGtPYVpFUmVCbnRQMThXUkhRTnZCQnR4b0dwS2lNcUJMVXBWNUJfUEZIQkMydm42clk1cklYcGc?oc=5
+- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
+  NEW: India Bloc Meet Live Updates: Pointed Fingers
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
+  India's fertility rate now below required level to maintain stable population, says govt
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
 
-- ‘How to have financially strong airlines,’ India finally begins to figure out - The Times of India
-  ‘How to have financially strong airlines,’ India finally
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGlYWThlNGVRX3ljV0RTYXRXMlFTWFF6dUlSSEt2WG02YkxuRjNsc1hSU3pwdDI0SVFMaE45UWxIUDBLaGFqWXFtcVlsWnRhM0lLTlJDd1VLWjJwM21UdnZpZnphaUJLRERXTGJyYTZzeTc2bDBSTFc3WTU3bF9uWHFaMzZMNm91d2hSQXBFV09GRlJUT1NBRHdwV0RFbXJHamF6YWhKWG5tb1pIWndReC1FV1Q2VG50bkVrenV1OGpUV2N1VmczUC1XNXAxRmhxY1RncjRXVnJMZ9IB3wFBVV95cUxNRV82WWlJUUI0T0tiWmZCd290YmlkRF9lVTR1UjNuNzg5MHItXzA0VnI5VVBPSE9uQkNmeVdkQXJrVndWeGNCZlpMZWNxMk9iVUk5bVo4ek1VVHRQSU5lWjBQSXJ6djU4eG9MVFNKaHhNZEwzZUEtMkphR1l1UXM4YWJFNmhzNkFxTXo0OG1FekNMMVhINlFqdmlJcUloa1EyaXRsTExkN1lKOE5iQ1BUVS1Gbzh4WXlvX05mUEtIbms1d3VnUGJfVjFCQmVndU5uZlliWURGQ3pSV2hFWEdZ?oc=5
+- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
+  Missing Melbourne teacher allegedly drugged and murdered by brother
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
 
-- How A Bid To Help Iran Left Two Indian Brothers In Detention In Saudi Arabia - NDTV
-  How A Bid To Help Iran Left Two Indian Brothers In Detention In
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHNBbDNSa0VWWHllRmpJRjNwaEQ2ZkJlRVpzQzRFQVJsazRIZXVWdUtuYWJzMmlING1pbHptLUJGbHhKWDZrMTRtSG9YaE5KSW9DWnRkTlFkRk1Wdk15dW1kQldxMW9KRWJTb2tjT0ZtX1FRZGJnMGgyUmVaVG5CTk5LNFJuQVZvS0d2dFQtTUozT1RXc1hCeEtZOHJ4NllJVTI0b2V2VHdHTHlSaU80V0hDSWppSHRX0gHAAUFVX3lxTE1BVlJXVDZ4VzdVWFVFdEtEc3VWM3N0UGdaa2pISDBlM3VBZDNwWW42ZlNFQWFnTUZ2c1lTNUZRdGQ2X2htQl9KVnc1b1dtWWhGczBhWDAwU0V2QzE0WXBILUQ0c0VNc1hnUnpWampOWFdYU0xaUFJqRWR0NGE2d3BLd25uU0JQYjdObDJCbGJZMlFDVXpPVnRxOGhwX1NDZzJjaHFzUkRzQmZCbHgtVXhwaEMzcnpfdlRURE9CYmJWaw?oc=5
+- India achieved sustained environmental transformation over the last 12 years - News On AIR
+  India achieved sustained environmental transformation over the last 12 years
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
 
-- Ram Temple Trust Reacts After Akhilesh Yadav's "Missing Funds" Comment - NDTV
-  Ram Temple Trust Reacts After Akh
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUh4WngxMjU1SlQyc3FIQUdsZUh6OEFudm1kcUlpX3RwcDV2eG1uYnJ2bWh1U1JmcFlRTGZwS20xeGdJRkJXUnlFNkxHc01oaHZYaDc3S2x0Wkg4Nzd6QV9tNEhDbnB6SHJBX1VkaXJVbTUwUFRzYmtVTGFSc3VpdWd2SVZLSnNxbEtfVThndXppR1Fwcm02M200NC1uQnRWMWdBUDFCYlV4cUE0aDBYb0dWdng4Z3JDa0ZNeE9hMndOOUtYalHSAc4BQVVfeXFMTnpieDA1UzhzRWZPc1B6YnBublVZeTIyOEZqNzFuejB5V0RvRGdGekc1UWdXdko0X0trc2VYcUZVYjBrb21iemZxbEtjeDE2MU13cXlBekl3Z0lObVJiUmxWbVNLSjlycUQyOUlPMS04YzBueU81bWd6b0I2NUhabGo4aXZ4QTEwZU5CanNlOXA1bkc1c2dMZGtPYVpFUmVCbnRQMThXUkhRTnZCQnR4b0dwS2lNcUJMVXBWNUJfUEZIQkMydm42clk1cklYcGc?oc=5
+- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
+  NEW: India Bloc Meet Live Updates: Pointed Fingers
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots - The Indian Express
-  Penguin pulls plug on Joe Sacco�
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzNUMDh6cFhpM0R6ZkxvR2YxWTBBbDdqVjN4UnQwV3RWRGNFb19GVlEtUkVWZE5KR3lOZ1lpcFU4X1JxY3p1dEp4alNtTjFMY1JHV1NBX1pLUzY1VjQ1RmZJd2tfZ1B3MTFEX0hsNDA1ZFMwV3ZmVnQwT09XOXVPLW5pWHRrWXI3Xy05bjZRaDMxNFJnaF9nQWFDbjZuMEU5TjJXaTdiWG8wdy1takRV0gG2AUFVX3lxTE5NODFzanUwUktMNDdIR2FncGhSN20tUEFobC10T21UZmlfb2ZVdFBVUmRNZENibHg5UFZCcWRrN1BOSlZpM3JEZ2RxSDJwc19CWTNZOFVoMWFLVVJVVGh6Snc5bWFkZlNlQWtmNGlhQmpfNV9ZZ1pDaXd6ck9GNzQzQU4yWDVWMjZvVTZIMkNfRUg4TTBjSmxnbk4wMWFkUnJyUnZydENHRFVpZklDRk5HR19nTl9n?oc=5
+- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
+  India's fertility rate now below required level to maintain stable population, says govt
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
 
-- ‘How to have financially strong airlines,’ India finally begins to figure out - The Times of India
-  ‘How to have financially strong airlines,’ India finally
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGlYWThlNGVRX3ljV0RTYXRXMlFTWFF6dUlSSEt2WG02YkxuRjNsc1hSU3pwdDI0SVFMaE45UWxIUDBLaGFqWXFtcVlsWnRhM0lLTlJDd1VLWjJwM21UdnZpZnphaUJLRERXTGJyYTZzeTc2bDBSTFc3WTU3bF9uWHFaMzZMNm91d2hSQXBFV09GRlJUT1NBRHdwV0RFbXJHamF6YWhKWG5tb1pIWndReC1FV1Q2VG50bkVrenV1OGpUV2N1VmczUC1XNXAxRmhxY1RncjRXVnJMZ9IB3wFBVV95cUxNRV82WWlJUUI0T0tiWmZCd290YmlkRF9lVTR1UjNuNzg5MHItXzA0VnI5VVBPSE9uQkNmeVdkQXJrVndWeGNCZlpMZWNxMk9iVUk5bVo4ek1VVHRQSU5lWjBQSXJ6djU4eG9MVFNKaHhNZEwzZUEtMkphR1l1UXM4YWJFNmhzNkFxTXo0OG1FekNMMVhINlFqdmlJcUloa1EyaXRsTExkN1lKOE5iQ1BUVS1Gbzh4WXlvX05mUEtIbms1d3VnUGJfVjFCQmVndU5uZlliWURGQ3pSV2hFWEdZ?oc=5
+- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
+  Missing Melbourne teacher allegedly drugged and murdered by brother
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
 
-- How A Bid To Help Iran Left Two Indian Brothers In Detention In Saudi Arabia - NDTV
-  How A Bid To Help Iran Left Two Indian Brothers In Detention In
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHNBbDNSa0VWWHllRmpJRjNwaEQ2ZkJlRVpzQzRFQVJsazRIZXVWdUtuYWJzMmlING1pbHptLUJGbHhKWDZrMTRtSG9YaE5KSW9DWnRkTlFkRk1Wdk15dW1kQldxMW9KRWJTb2tjT0ZtX1FRZGJnMGgyUmVaVG5CTk5LNFJuQVZvS0d2dFQtTUozT1RXc1hCeEtZOHJ4NllJVTI0b2V2VHdHTHlSaU80V0hDSWppSHRX0gHAAUFVX3lxTE1BVlJXVDZ4VzdVWFVFdEtEc3VWM3N0UGdaa2pISDBlM3VBZDNwWW42ZlNFQWFnTUZ2c1lTNUZRdGQ2X2htQl9KVnc1b1dtWWhGczBhWDAwU0V2QzE0WXBILUQ0c0VNc1hnUnpWampOWFdYU0xaUFJqRWR0NGE2d3BLd25uU0JQYjdObDJCbGJZMlFDVXpPVnRxOGhwX1NDZzJjaHFzUkRzQmZCbHgtVXhwaEMzcnpfdlRURE9CYmJWaw?oc=5
+- India achieved sustained environmental transformation over the last 12 years - News On AIR
+  India achieved sustained environmental transformation over the last 12 years
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
 
-- Ram Temple Trust Reacts After Akhilesh Yadav's "Missing Funds" Comment - NDTV
-  Ram Temple Trust Reacts After Akh
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNLUh4WngxMjU1SlQyc3FIQUdsZUh6OEFudm1kcUlpX3RwcDV2eG1uYnJ2bWh1U1JmcFlRTGZwS20xeGdJRkJXUnlFNkxHc01oaHZYaDc3S2x0Wkg4Nzd6QV9tNEhDbnB6SHJBX1VkaXJVbTUwUFRzYmtVTGFSc3VpdWd2SVZLSnNxbEtfVThndXppR1Fwcm02M200NC1uQnRWMWdBUDFCYlV4cUE0aDBYb0dWdng4Z3JDa0ZNeE9hMndOOUtYalHSAc4BQVVfeXFMTnpieDA1UzhzRWZPc1B6YnBublVZeTIyOEZqNzFuejB5V0RvRGdGekc1UWdXdko0X0trc2VYcUZVYjBrb21iemZxbEtjeDE2MU13cXlBekl3Z0lObVJiUmxWbVNLSjlycUQyOUlPMS04YzBueU81bWd6b0I2NUhabGo4aXZ4QTEwZU5CanNlOXA1bkc1c2dMZGtPYVpFUmVCbnRQMThXUkhRTnZCQnR4b0dwS2lNcUJMVXBWNUJfUEZIQkMydm42clk1cklYcGc?oc=5
+- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
+  NEW: India Bloc Meet Live Updates: Pointed Fingers
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
+
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
+
+- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
+  India's fertility rate now below required level to maintain stable population, says govt
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
+
+- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
+  Missing Melbourne teacher allegedly drugged and murdered by brother
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
+
+- India achieved sustained environmental transformation over the last 12 years - News On AIR
+  India achieved sustained environmental transformation over the last 12 years
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
+
+- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
+  NEW: India Bloc Meet Live Updates: Pointed Fingers
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-07 19:18:15 UTC_
+_Last updated: 2026-06-08 03:03:45 UTC_
