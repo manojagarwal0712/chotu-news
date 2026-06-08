@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Internet blackout for a day, prohibitory orders for 2 weeks: Jaipur braces for major anti-encroachment drive
+- Titagarh Rail Systems to manufacture aluminium railway coaches entirely in India by FY27
   
-  🔗 https://indianexpress.com/article/india/internet-blackout-for-a-day-prohibitory-orders-for-2-weeks-jaipur-braces-for-major-anti-encroachment-drive-10728775/
+  🔗 https://indianexpress.com/article/india/titagarh-rail-systems-to-manufacture-aluminium-railway-coaches-entirely-in-india-by-fy27-10729488/
 
-- A stray tigress finds a new home, giving a struggling Chhattisgarh reserve hope of revival
+- At key Opposition meeting, an all-stars line-up and a rallying cry
   
-  🔗 https://indianexpress.com/article/india/a-stray-tigress-finds-a-new-home-giving-a-struggling-chhattisgarh-reserve-hope-of-revival-10728794/
+  🔗 https://indianexpress.com/article/india/india-bloc-meeting-delhi-congress-mallikarjun-kharge-tmc-akhilesh-modi-10729408/
 
-- 15 months & counting, Rajasthan Forest Department sits on its probe that exposed graft within
+- Leave Iran immediately, India urges in fresh advisory for citizens
   
-  🔗 https://indianexpress.com/article/india/15-months-counting-rajasthan-forest-department-sits-on-its-probe-that-exposed-graft-within-10728854/
+  🔗 https://indianexpress.com/article/india/india-issues-fresh-iran-advisory-asks-citizens-to-leave-country-immediately-10729414/
 
-- ‘No deliverables, no work output’: Probe on Pinarayi Vijayan’s daughter ties with PSU
+- Three Air India aircraft damaged at Delhi airport amid heavy rain, wind
   
-  🔗 https://indianexpress.com/article/india/no-deliverables-no-work-output-probe-on-pinarayi-vijayans-daughter-ties-with-psu-10728827/
+  🔗 https://indianexpress.com/article/india/air-india-aircraft-ground-equipment-delhi-airport-10729108/
 
-- Opposition targets Government on LPG price hike: ‘Why are BJP leaders not protesting now?’
+- TMC Crisis Live Updates: Coordination to continue between INDIA bloc parties, next meeting in August
   
-  🔗 https://indianexpress.com/article/india/opposition-targets-government-on-lpg-price-hike-why-are-bjp-leaders-not-protesting-now-10728850/
+  🔗 https://indianexpress.com/article/india/india-bloc-meeting-live-updates-delhi-bjp-tmc-congress-dmk-10729030/
 
-- How to watch Apple WWDC 2026 keynote live: Check date, timings, what to expect
+- Scientists hatch chicks in 3D-printed eggs, a technology that could help de-extinction efforts
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-keynote-live-stream-siri-2-ios-27-details-10728392/
+  🔗 https://indianexpress.com/article/technology/science/scientists-hatch-chicks-in-3d-printed-eggs-a-technology-that-could-help-de-extinction-efforts-10729678/
 
-- Apple gears up for big iOS 27 reveal: New Siri, expected AI features, release timeline, and more
+- Google quietly installs 4GB AI model through Chrome; here’s how to remove it
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-ios-27-reveal-expected-features-release-timeline-wwdc-2026-10728234/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-quietly-installs-4gb-ai-model-through-chrome-heres-how-to-remove-it-10729572/
 
-- Do AI bots now outnumber humans online? Here’s what Cloudflare’s Matthew Prince says
+- 100 hours of radio observations crack a 50-year black hole mystery
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-bots-outnumber-humans-online-what-cloudflare-matthew-prince-says-10727982/
+  🔗 https://indianexpress.com/article/technology/science/100-hours-of-radio-observations-crack-a-50-year-black-hole-mystery-10729429/
 
-- ‘Teachers are going to hate it’: How social media apps hooked teens at school
+- Bumblebees can solve problems without training, latest study finds
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/teachers-are-going-to-hate-it-how-social-media-apps-hooked-teens-at-school-10727879/
+  🔗 https://indianexpress.com/article/technology/science/science-bumblebee-spontaneous-problem-solving-cognitive-skills-study-10725095/
 
-- SpaceX inks $30 billion deal to provide Google with AI computing power
+- 7 smart home devices worth considering in 2026
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/spacex-inks-30-billion-deal-to-provide-google-with-ai-computing-power-10727876/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/7-smart-home-devices-worth-considering-in-2026-10729451/
+
+- Urban Company bets on micro-market densification to grow 2x faster than industry
+  The company said the densification strategy is built around increasing the concentration of both customers and service professionals within small, neighbourhood-level clusters.
+  🔗 https://www.livemint.com/companies/urban-company-bets-on-micro-market-strategy-india-home-services-market-11780895123460.html
+
+- Mint Explainer: Will flex fuel vehicles rule Indian roads?
+  The segment faces steep hurdles without government subsidy support. Maruti and Hero’
+  🔗 https://www.livemint.com/companies/news/will-flex-fuel-vehicles-rule-indian-roads-e85-fuel-11780900419771.html
+
+- Luxury beauty becomes everyday indulgence in India, lifting Shoppers Stop’s distribution arm
+  Global SS Beauty Brands, a distribution arm of Shoppers Stop, has reported gross revenue of  �
+  🔗 https://www.livemint.com/companies/news/luxury-beauty-boom-in-india-premium-fragrance-shoppers-stop-global-ss-beauty-brands-11780888731858.html
+
+- Sensodyne maker Haleon to invest £175 million in first manufacturing plant in India
+  The facility in Madhya Pradesh will mark a shift away from contract manufacturing. India becomes the
+  🔗 https://www.livemint.com/companies/haleon-to-invest-rs-2000-crore-in-india-for-first-sensodyne-manufacturingplant-11780891711713.html
 
 - US lawmakers intensify push against H-1B visas—is 2026 its death knell?
   At least a dozen US lawmakers have backed efforts this year to tighten, suspend or eliminate the H-1B visa programme. The proposals have heightened uncertainty for Indian technology workers and outsourcing firms
   🔗 https://www.livemint.com/companies/is-2026-the-death-knell-for-h-1b-visa-holders-11780829488222.html
 
-- HDFC Bank to decide on CEO Jagdishan's third term only after key report
-  A top panel on HDFC Bank board will meet to mull CEO Jagdishan's reappointment only after it gets the findings of a legal review into concerns flagged by former chair Atanu Chakraborty.
-  🔗 https://www.livemint.com/companies/people/hdfc-bank-ceo-jagdishan-third-term-legal-firm-report-atanu-banking-leadership-succession-11780816981752.html
+- Multibagger railway stock drops for ninth straight session, hits over 2-year low; down 35% in 2026
+  Rail Vikas Nigam shares fell 2.5% to  ₹229.70, marking nine consecutive losses. The stock's decline is attributed to disappointing Q4FY
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-railway-stock-drops-for-ninth-straight-session-hits-over-2-year-low-down-35-in-2026-11780909224810.html
 
-- Regulator flags gaps in Bharat Biotech's TB vaccine trial
-  MTBVAC is one of the world's most advanced tuberculosis vaccine candidates. It is a potential successor to the century-old
-  🔗 https://www.livemint.com/companies/news/now-india-s-apex-drug-regulator-hits-the-pause-button-on-bharat-biotech-s-tb-vaccine-11780656879002.html
+- Do you know how an IPO works in India? Here's a step-by-step guide
+  A company's IPO marks its transition to a publicly traded entity. Governed by SEBI in India, the IPO process involves multiple stages, including regulatory approvals and share pricing.
+  🔗 https://www.livemint.com/market/ipo/do-you-know-how-an-ipo-works-in-india-heres-a-step-by-step-guide-11780908119105.html
 
-- Ather taps govt’s  ₹1-trillion innovation fund to counter rivals' incentive advantage
-  The EV maker is finalising 2-3% low-interest loans under the research, development, and innovation scheme to bankroll its upcoming
-  🔗 https://www.livemint.com/companies/ather-energy-turns-to-rs-1-trillion-rdi-scheme-for-ev-growth-11780814822029.html
+- Reliance Industries share price tanks for 9th day in a row, erodes  ₹129,000 crore in market cap
+  Reliance Industries share price declined over 1.5% to its 52-week low of  ₹1270.60 apiece in intraday deals
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-tanks-for-9th-day-in-a-row-erodes-rs-129000-crore-in-market-cap-11780907364525.html
 
-- From Singapore to Mumbai, the trail of Rajesh Exports’ elusive financial statements
-  Rajesh Exports Ltd and its Singapore subsidiary gave contradictory statements to regulators in the two countries. The statements blurred the actual finances of
-  🔗 https://www.livemint.com/companies/news/from-singapore-to-mumbai-the-trail-of-rajesh-exports-elusive-financial-statements-11780829570733.html
+- 800% returns in five years! Multibagger stock jumps 4% despite weak trends on Dalal Street
+  Rathi Steel &amp;amp; Power share price has fallen over 8% in one month and has declined 28% on a YTD basis. The smallcap stock has dropped 34% in a year and has plunged over 62
+  🔗 https://www.livemint.com/market/stock-market-news/800-returns-in-five-years-multibagger-stock-rathi-steel-power-share-jumps-4-despite-weak-trends-on-dalal-street-11780905264776.html
 
-- CMR Green Technologies IPO allotment date likely today. GMP, steps to check share allotment status online
-  CMR Green Technologies IPO allotment date is likely today, June 8. Online check can be done through the websites of BSE and NSE, and also on the official portal of the IPO registrar.
-  🔗 https://www.livemint.com/market/ipo/cmr-green-technologies-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11780887015555.html
+- Fractal Analytics: an AI leader, or expensive IT bet?
+  The company has a 40x valuation and high client concentration. While its proprietary AI products and sticky client base set it apart
+  🔗 https://www.livemint.com/market/mark-to-market/fractal-analytics-stock-ai-growth-premium-valuation-11780900136435.html
 
-- Stocks to watch: Adani Energy, Hindustan Zinc, Lenskart, ZEE, Alembic Pharma, among key stocks in focus on 8 June
-  Indian stocks are expected to open lower following a global market selloff influenced by geopolitical issues. Key market activities include substantial investments by SBI Mutual Fund in Adani companies.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-adani-energy-hindustan-zinc-lenskart-zee-alembic-pharma-among-key-stocks-in-focus-on-8-june-11780884145198.html
+- AI infrastructure race will be won on power, edge and resilience, not just compute: WEF
+  Over the next 3-5 years, the AI infrastructure battle will shift from the approach around getting bigger GPUs to the ability to balance distributed inference, the World Economic Forum said.
+  🔗 https://www.livemint.com/technology/ai-infrastructure-race-will-be-won-on-power-edge-and-resilience-not-just-compute-wef-11780903376933.html
 
-- Buy or sell: Gift Nifty dips, Vaishali Parekh recommends three stocks to buy today — 8 June 2026
-   Vaishali Parekh recommends three stocks to buy today. Schneider Electric
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-dips-vaishali-parekh-recommends-three-stocks-to-buy-today-8-june-2026-11780882649878.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 June
-  Gift Nifty was trading around 23,118 level, a discount of nearly 334 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-8-june-11780883529276.html
-
-- Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel
-  Crude oil prices jumped as hopes for an end to the wider US-Iran war eroded.
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-after-israel-strikes-on-lebanon-wti-rallies-4-brent-oil-above-96-a-barrel-11780883000638.html
+- What to Stream: Michael, Olivia Rodrigo and Keith Urban albums and Bonnaroo
+  Keith Urban's new album, "
+  🔗 https://www.livemint.com/technology/what-to-stream-michael-olivia-rodrigo-and-keith-urban-albums-and-bonnaroo-11780891369512.html
 
 - Apple finds business users as inevitable iPhone India growth slowdown looms.
   The slowdown would come despite India remaining one of Apple's brightest markets. For over four years, Apple’s outgoing chief executive
@@ -92,161 +100,165 @@
   Satya Nadella discussed the importance of AI agents in the workforce. He said these agents would require identities,
   🔗 https://www.livemint.com/technology/tech-news/satya-nadella-says-ai-agents-will-need-identities-security-and-governance-like-employees-11780817915320.html
 
-- Anthropic warns humans could lose control of AI. here's how the tech world reacted
-  Anthropic has warned about AI models reaching a stage where they could design their own successors. Here's how the tech world reacted to the development.
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-warns-humans-could-lose-control-of-ai-heres-how-the-tech-world-reacted-11780804870360.html
+- What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants - Investopedia
+  &nbsp;&ngt; &n
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0s0QWt4M2dyX1VzMUpZT1lkcFVpNzJoSkJydnRESVlpckF5WFdLZWN5aXZaLVBSdmFZb04tcllNRnU4eFRmWDZBTmJqWFM3U2xUeUxzY1ZIem9zNVdCekpZaTVJU08zY0lZSUJRMUJ3eVhYYTJQb2RLaHZFVFVSUENfUUFHU2FMV1ZIWVRTMWxOMGRuNVVmcjNIODNvbTVPRkUxblVJZHlnTlYtZTFmd2UzbFdHYUdQaktlaXdNTW0yRVAxVW9HYW10MDBvQUkySXh3?oc=5
 
-- Why OpenAI is disabling ChatGPT web access to fight prompt injection attacks
-  OpenAI has introduced Lockdown Mode for Chat
-  🔗 https://www.livemint.com/technology/tech-news/why-openai-is-disabling-chatgpt-web-access-to-fight-prompt-injection-attacks-11780797841881.html
-
-- U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates - CNBC
+- U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 8%: Live updates - CNBC
   U.S. stock futures mixed as Mideast tensions rise
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
 
-- Asia markets tumble as tech rout deepens - Reuters
-  Asia markets tumble as tech
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5
+- Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets - Yahoo Finance
+  The Nasdaq plunges 4%, Dow and S&amp;P 500 sink as AI
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5
 
-- 100 days of the Iran war: How global markets and the economy have been affected, in charts - CNBC
-  100 days of the Iran war: How global markets and the economy have been
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0piOEJUaXBPd1ZyZ3BrRWdMbXlQZk1sUzZrMUY3N0pMYWFmLXAzZzVoREpZRGFnaHY2eFE1eUVjV3JjcEN3d3lkTFRKcmlqT2R2X2VJRjdBRXRleDFVM09tMDhrVlhmZ19RSk1yQXZ4RGhpZW1IeWJ6dGlqRGFQVm1nc0VaeURlU0Ew0gGQAUFVX3lxTE14ck9VTmJTN1Y1aHFmZkhpYjRkRkdva085ZEt4cEd5NHUwclRhdmRJcW8yM2pPSllqQUdRZFYwUTR0bWI3cUlzTjR4djZmSERFNkd6YUMzaEpxLUhMNHNWa0d6NWdUY1dIVDQ4alFxYkV6R3lYQ3dhWVRBV2xBX0xzWHBrdXdPNzJSUF9WUDlheA?oc=5
+- Stock markets fall and oil jumps as Middle East conflict intensifies and AI boom falters – business live - The Guardian
+  The Guardian reports on the fall in stock markets and oil prices in the Middle East
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTBwc0RsdG01b08xLW5rOEhzTXdLQnZBcWZFTmdpUDhTV2gxNU5vZ0N1Wm1BSlFOWDE2TmhDRHVxOGpsY21qcW45b3hYck5DcXlwMDV4TGd5dDUtajdUR3ZTRUUycGdJajRpUXBHRU5qeFRnOTZaUHZueW5oaHkwQ19GREM3UEJXcVZaUTdpVDhZLThnaDVsNUw2Zm5RaTdfeU1IYnd4SVRuVlpTNEpTMDlMZGpiMDdDWjVRWXV1b3VuY2UxaHMxMnZibktFcERKZEFn?oc=5
 
-- Trade setup for June 8: Can NIFTY50 defend 23,000 support on Monday? - Upstox
-  <ol><li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS1DR1hCYTF1QmF0NG5CUUNLVk5vQUNHdExSNmx1TDZUQjA4eUhMOG9lT3hNNG9zbmdJRTNaNjZSSmZoaG15SW9XRXp5TkwwM0tMcnI5TWlkcVo5TGI1b0trcXp5ZWE2Zm
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNZS1DR1hCYTF1QmF0NG5CUUNLVk5vQUNHdExSNmx1TDZUQjA4eUhMOG9lT3hNNG9zbmdJRTNaNjZSSmZoaG15SW9XRXp5TkwwM0tMcnI5TWlkcVo5TGI1b0trcXp5ZWE2ZmhLbFNzc0UtbndQd1k4cnRfRWdqaHBHQXlSUzBnVjNYRnk1ZWZ2MGI3QmVVS0ZiR1cyTnNnNG1aZDVHVXIweE5wWHkxRVUtdVlBalpITGVsZjltX01WYktJV3VHQ3c?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex slumps over 600 pts; Nifty below 23,200; meta... - The Economic Times
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHJvbmJ6aVphaV8yVTV3UmdQWHVoWExKX3loMGN0UEtHdVZVOFRxNnR5bDhubEtDdnFUMlFvdEx2LVJJSnFLckxXTEhJeDhRS3VzMkdCSkt4TVhfVTlPdUZHNHlhLURvdj
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHJvbmJ6aVphaV8yVTV3UmdQWHVoWExKX3loMGN0UEtHdVZVOFRxNnR5bDhubEtDdnFUMlFvdEx2LVJJSnFLckxXTEhJeDhRS3VzMkdCSkt4TVhfVTlPdUZHNHlhLURvdjhvZGNHZjQ1NXVJcC1STWVEUFpKUXFpblZMT005X3ZMc3czQXNpb1lqa1U2Nk5MZlNWSWNKVC01Z1RoSmdDMlhMUU1NZ3R0YVlBNEpaSlhtR295WjZNcU9fVGJsaDN1dXRQNnhFQkd0eDR0MXVaSzNMbGR5Vk1TNGFWWlhrXzBUTk1JcXJDakhJRTdvMDB0VV9IWlBNZ9IBgwJBVV95cUxNR0pSV1RyV3haOG9iUTBQUFBsRkRyXzRCQ3RxNGxERjVuOUJhLUtrN0JORW1DYUYxRnFSYWw1ZHN4MVdWamVneGdFT3ladjdpcm9oRTdodUNYMDRtbGlkZ2d1N05OMzlvVml1dXRNTG1ZZ0pQWkVublk3bWItZ1NqeXdjdi1BSlFLcXR1M01kYXlVUjhsM3hoRUctRjRQejNZZmV6UFdmZWdQekFGbk5DMWRtcGVXR1k1RnpmQzhsNHgxWlpZYXhnaXlqSXFSRGMwNk9ickF3TnIyS1JBcGZycVJPNE5XRlNxM1BDWDFLRTNldUNkVjFIckpSNGxiV3NWWVNv?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty indicates a firm opening; US, Asian markets fall - Moneycontrol.com
-  "Sensex Today | Stock Market Live: GIFT Nifty indicates
-  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxPekVkMWt4UFdkbEwxeVFsZXU2UHhoY2FIc0hwQnBxVHhDcXZaOGRrbTRxTVI5b2l4b0JZOEhRcmRQNmthQkJPRm94YV9Pa1owLXIwQkZfQ3hiSzdqS3FDZTFzcFpEWmlvb1pCOVI0NmtwZ3d3NU80Vk0wVF9PRmhwM2Z1dkVwb0w3NlYyTkNUbjJBRE9qU3hpS2lhOVVhNkVBRWcyRUsyMU96SlFYbU1zaE1qelcya3NJQlJIdEFWamkxYlpOZGxFYjUyUEg2cGhuaGkyWVYzaXVMYm5YYm1Wc29pNWZLNl84QU9keEZMdzNaWm5H0gH6AUFVX3lxTFBCZHRTbFJGYXRjWU1nU0ttN2l4RThoX1VsSlpTMnVyS0ZKUHNnMFpDNWNkelE3MDBXRFI0VnNabDJNdk5BSE43YXYxYW5kUGFkel9OemF1UHFtVzlkMVVnV0paTG1FRjhab0VabTdYU21rYUNlY2ZHd2NlYlRJeWJjZjV3dmRVVG9pUV9Xck1Id1oyRFRxcnZVamtScWdJbDk4RXZrdzF4S3MxcjJ0amdnaWU3N2N0QnVOd01STlUyMEVnblZubHRuV0MtVVhwdl9LV0NlYXhyb0V3M1lLSFRrQzR0Y0U4MnBOOGNCaFdSdGM1SEhPZ1ZFRWc?oc=5
+- SBI pays Rs 8,813 crore dividend to government for FY26, FM Nirmala Sitharaman receives cheque
+  SBI presented a dividend cheque of Rs 8,813 crore to the government for the financial year ending March 31, 2026. This follows SBI's reported 6% year-on-
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-pays-rs-8813-crore-dividend-to-government-for-fy26-fm-nirmala-sitharaman-receives-cheque/articleshow/131585078.cms
 
-- Oil Price Today (June 8): Crude oil jumps 2% as Israel attacks Lebanon in latest escalation. Where are prices headed?
-  U.S. crude climbs to $92.64 a barrel, while Brent crude rose to $95.42 a barrel. Israel launched fresh strikes on Lebanon, raising fears of renewed Middle East tensions.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-8-crude-oil-jumps-2-israel-attacks-lebanon-in-latest-escalation-where-are-prices-headed/articleshow/131576560.cms
+- Adani Energy Solutions vs Power Grid Corp: Which stock is Jefferies betting on?
+  Jefferies remains bullish on both Adani Energy Solutions and Power Grid Corp. The brokerage expects AESL’s earnings growth to outpace Power Grid and believes improving valuations and execution momentum could support a potential re
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solutions-vs-power-grid-corp-which-stock-is-jefferies-betting-on/articleshow/131584988.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live | Gift Nifty tumbles over 300 pts; Asian markets under pressure
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-8-june-2026/liveblog/131576579.cms
+- Asia tech selloff is a buying opportunity, says Manishi Raychaudhuri; but India has a problem to fix first
+  Asian markets saw a sharp sell-off in tech stocks this week. Investor Manishi Raychaudhuri views this as a buying chance. India's economic story needs improved financial results.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/asia-tech-selloff-is-a-buying-opportunity-says-manishi-raychaudhuri-but-india-has-a-problem-to-fix-first/articleshow/131583437.cms
 
-- China, HK stocks open lower as global tech selloff spreads to Asia
-  China and Hong Kong stocks opened lower. Strong U.S. jobs data fueled fears of Federal Reserve rate hikes. Wall Street also saw a significant tech stock drop on Friday.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/china-hk-stocks-open-lower-as-global-tech-selloff-spreads-to-asia/articleshow/131576526.cms
+- Global markets: Europe's STOXX 600 hits two-week low on Mideast escalation, AI jitters
+  European shares hit a two-week low as Middle East tensions and a global AI stock selloff weighed on the market. Crude oil prices surged over 4% following weekend exchanges between Israel and Iran, impacting energy-sensitive airlines. Tech
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-europes-stoxx-600-hits-two-week-low-on-mideast-escalation-ai-jitters/articleshow/131583304.cms
 
-- Gold extends losses on US interest rate-hike fears
-  Gold prices dipped on Monday, extending previous losses amid U.S. interest rate hike fears. Meanwhile, escalating tensions in the Gulf sent oil prices soaring, fueling inflation concerns. China's central bank continued to increase its gold reserves.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-on-us-interest-rate-hike-fears/articleshow/131576494.cms
+- FIIs cut stakes in 16 largecap stocks over two quarters; shares fall up to 40%
+  Foreign institutional investors reduced stakes across over 100 large-cap stocks in the past two quarters. 13 names fell up to 40%. Despite the selling pressure, three stocks delivered strong gains.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-16-largecap-stocks-over-two-quarters-shares-fell-up-to-40/slideshow/131583501.cms
 
-- Tech View: Support at 23,000–23,100 zone remains critical for Nifty Bulls
-  Nifty is trading range-bound with a bearish bias below 23,500–23,860 resistance. Analysts suggest a move above 23, 500 could revive buying. Selling persisted, with RSI showing a bear
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tech-view-nifty-support-at-2300023100-zone-remains-critical-for-nifty-bulls/articleshow/131576230.cms
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
-  India's fertility rate now below required level to maintain stable population, says govt
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
-
-- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
-  Missing Melbourne teacher allegedly drugged and murdered by brother
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
-
-- India achieved sustained environmental transformation over the last 12 years - News On AIR
-  India achieved sustained environmental transformation over the last 12 years
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
-
-- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
-  NEW: India Bloc Meet Live Updates: Pointed Fingers
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
-  India's fertility rate now below required level to maintain stable population, says govt
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
+- Dream debut guides India to record Test win over Afghanistan - ICC
+  Dream debut guides India to record Test win
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
 
-- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
-  Missing Melbourne teacher allegedly drugged and murdered by brother
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
+- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
+  Alcohol sales allowed in Muslim-majority Laksh
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
 
-- India achieved sustained environmental transformation over the last 12 years - News On AIR
-  India achieved sustained environmental transformation over the last 12 years
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
+- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
+  'We don't look at the sky anymore': The Air India crash victims who
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
 
-- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
-  NEW: India Bloc Meet Live Updates: Pointed Fingers
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
-  India's fertility rate now below required level to maintain stable population, says govt
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
-
-- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
-  Missing Melbourne teacher allegedly drugged and murdered by brother
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
-
-- India achieved sustained environmental transformation over the last 12 years - News On AIR
-  India achieved sustained environmental transformation over the last 12 years
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
-
-- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
-  NEW: India Bloc Meet Live Updates: Pointed Fingers
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
 - India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
   India's Currency Paradox: Cash Is King But Why
   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- India's fertility rate now below required level to maintain stable population, says govt report | India News - Hindustan Times
-  India's fertility rate now below required level to maintain stable population, says govt
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNdjNkTkc0bzFrNGc2SGRQYkh0Z1Brdk80VTlSbUtFWjdtQWJibTQ5VGRkQUl3M1luYVgyazhBdXpDME50SnRlODJxVXRwT1NtWndRSFl2THBaN0RobUROOUlyTDRqdy1zcGJuM2twOEZxcGhZblJUNTlJcVBKeUVSMGFhU2xacEpxenY0NmpCalBOcDJQbFdCRnViUldxdjduamROTzZWN3NRakJlSGVsNm9GX1Q5cE5UQXl2Wk1KMF9tVHBpT1AyS00zUU11ZjFkVFN2YnM0WWtYTjRPTFlMV3JUWExQT2ZRRkNjWWRValAwRkV1d2FpQi1XQW5YRFdyS01vSkRSNzB0b202Uk1hWtIBlgJBVV95cUxNQk9BWHRqMGktQTVETkZpUDEwMi10TFpfR2Y2aTJsSkxuc010c1h1ZUNkN1VWaGRZMTVtcWpNQVJIZUY2QkZQQmR0MURObU5jZHFIN2tvSzB4OVU4S3puNVNBT2VPVkFTRE9hVkNKOGE5aTliWE9kakdVNnFkOHJCUjlsQWRqQWc4S1Ywc3prOTFRZ0dvMEd6NGZ3akZEazdZUDJuQWNSYkQxUnFiT1ZwSWVHRDNDZmYwQktjNFpjcFlmNDVUQkE5ZEh5ZG9KWi1vZ1NkQ1g4b0NqemtpNGkzVGhnRS1ZWko5dTIwbVBQbzVyWEhaRVA0Q2tUQmdmWGR0LUlpeE9jYjBvUk14M1dKbjFWanJ0UQ?oc=5
+- Dream debut guides India to record Test win over Afghanistan - ICC
+  Dream debut guides India to record Test win
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
 
-- Missing Melbourne teacher allegedly drugged and murdered by brother in India - The Guardian
-  Missing Melbourne teacher allegedly drugged and murdered by brother
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDAwSTFYalBWeWtZN3IxUDBENFRKcXpVczJxUEhaSEpvZ2VPRjJDR0dVQWFrWkhob1dKcmp5Q2poQllsa1dDVEZpVTZxY0Fta284bHNLdE1hZThTQkZBUXYxQTl4MHRza1JsS1NPdU9acXFLaHdCTnJ6eHFicmp6aW81akpkZjg4UmtNQ0hIUllZRWFSNGxISWJTLWxCMmlVdkRqN2tVT2t1andBV2xia3BEenhtQzJFVFNzUVRMYVdXTDFsQXBVejUxc0ZsNWhJU2c?oc=5
+- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
+  Alcohol sales allowed in Muslim-majority Laksh
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
 
-- India achieved sustained environmental transformation over the last 12 years - News On AIR
-  India achieved sustained environmental transformation over the last 12 years
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPWVpYNkhoVWMtWjZTWjB5T3RoNmFlZGdfc2o0Mkpmck9jYTJab3V3U082SkotdU82Z3diUzRSNkp6eG1VOTFCMFpkbW1aZmJ1ZTF2anNZVXNYc0Y0ckdIa3BCRldXcWtabktxTlVlQ1J4Vy12NzQ3UDFOWlYxRFdWM3IzY2lxVHVFZGhsZk9lSzlMQVdwaklNQkdKSC1TX0E1TnRqYw?oc=5
+- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
+  'We don't look at the sky anymore': The Air India crash victims who
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
 
-- INDIA Bloc Meet Live Updates: Pointed Fingers Or Alliance Unity? All Eyes On Delhi Meeting - NDTV
-  NEW: India Bloc Meet Live Updates: Pointed Fingers
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHpZM0pMSk1QYl9Oa2lJRTZBSC05MVN0eWZkQlp2Y3UzZGFqMEthb2ZKWFUxckl4Z2RGTUdYZTlyTjZXOWNZbWpCMnRxdjhGbWpwdE1vNk5xZG42U0E1djl1R0lDZlZGWS1remxMM3FRSm9iZWR1YVNzWVZ6NWRTdU1Ca2F2bklWVnRXMVprNkJaeXNOMHZaOXBJV2FDZVU0dzg2czVPYnRxNTFVX3EtenJIU2UwS21SQU5BekVVS1lUZ0I0a2wtT0tfT2YxQzVWWlpILVFfczhKNUo5cE5jOWQ5VjZYZFB00gHwAUFVX3lxTE1rbTV6ZXFiNzVvczNjYlFQeHJyWGVIV3cwSzA2c2kxeURjOS1rOUFONnk5ekZobUFlWHZNMFJwTFBXVWc2c2ZNSVB3cVA0RkIyRzB2RG1GSFZfSTVocjlZYjJhc1d3dUo1c1hmeDg5OTlvSmpMLVN5M1FBZjc1WC1tWXMycU5XTG5Lc1lTVDFWcGY0eDlVZDFZVlFuVTJzajBGaGg2azFiQ3hicWlNc18xa1NXdUNyQkN2V2V3RzJCclJrMFJaTjNjUUFleldRRUhpTHRuOW1UTzRRQURJbW5SR1pLbUZ4NWRvZ2V5VnpFWQ?oc=5
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Dream debut guides India to record Test win over Afghanistan - ICC
+  Dream debut guides India to record Test win
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
+  Alcohol sales allowed in Muslim-majority Laksh
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
+  'We don't look at the sky anymore': The Air India crash victims who
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Dream debut guides India to record Test win over Afghanistan - ICC
+  Dream debut guides India to record Test win
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
+
+- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
+  Alcohol sales allowed in Muslim-majority Laksh
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
+
+- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
+  'We don't look at the sky anymore': The Air India crash victims who
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
+  India's Currency Paradox: Cash Is King But Why
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
+
+- Dream debut guides India to record Test win over Afghanistan - ICC
+  Dream debut guides India to record Test win
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
+
+- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
+  Alcohol sales allowed in Muslim-majority Laksh
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
+
+- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
+  'We don't look at the sky anymore': The Air India crash victims who
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
+
+- Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera
+  Anthropic urges AI labs to pause, warns
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5
+
+- Feeding 10 billion people will require new technology - The Economist
+  Feeding 10 billion people will require
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEdHSnItdTRoQ2lJZmlPSEpTdU9Bd2xLaHA1TTRLZ3ZYYlRTaXMyVVcwdzhNWDl2OExna2lGRU9NOWdwMVVic0p0NGdkT1hieGIzNG1OZzJnZlpfdlVKcFRXMGNYS01mZ3dtVXl3RFItX195TG8yRGxBQ052bGZqWnVVQllHcHhrUVlCdEU1SGVUejRoTV81NWVuenBkRDdoV0lOWGRpaU8zTmZOUG9SWWFwaw?oc=5
+
+- Starmer giving speech on AI and online harms for children - BBC
+  Starmer giving speech on AI and online
+  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VSkVKeWRvRWMtR3JqTGFtYWU5Y0NTXzFxVWJrekdlM3VhTmxlN1dIT3hsQTZNc0VIdTFFR1FEaGV2UDJ6ajNsMzFhLTY2a3liYzFDeQ?oc=5
+
+- Google’s Unique Approach to Getting Data Centers Built - WSJ
+  Google is building a data center
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPempRMVhFZWNNbW5rZnRNb2drNEFQU3hMbnNrdVUtVmNtemIzWURudHlYbGFQZnZNOFF2QjRENDJOSWVTT3hKb0F1eG1ObnVpNXEyWXY5Nm83YmpRNHkzUjh2b2xWMjJaYlhDUGZYWE9GZGl1eGwxT196NTZwS3QzTE5lSFVPSjZxOVNyRlhCOGNMYnd3?oc=5
+
+- Billions spent and hypothetical returns: the AI boom explained with six charts - The Guardian
+  The Guardian explains the AI boom with six charts.
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2xHTDYxZVZuTExBeGRfM3psWmk5Z3hGVXlsa3lubU5fLWRYbmdnSnRxWW9Wd3Q1WFM2Z3NXOVpBSk5mT0QyLUlLZnFFMWphMmlaOVZQejFHX3VIbUZ2RGM2bENZN3AtU3I0Wk9rTDNpalcwRHJOU0pBLURaQlpPMXhHQUtQUnJNNEl5SFZUcElJaVR2aTF0ZWFCM1phWWxGQzhrZkVGMTFocHVKSFliT2d0aDA1Nm9RcEdIcVBuWWxoUQ?oc=5
 
 
-_Last updated: 2026-06-08 03:03:45 UTC_
+_Last updated: 2026-06-08 10:30:20 UTC_
