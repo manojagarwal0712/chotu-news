@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Titagarh Rail Systems to manufacture aluminium railway coaches entirely in India by FY27
+- India deploys active nuclear warheads: What changed in 2025?
   
-  🔗 https://indianexpress.com/article/india/titagarh-rail-systems-to-manufacture-aluminium-railway-coaches-entirely-in-india-by-fy27-10729488/
+  🔗 https://indianexpress.com/article/india/india-nuclear-stockpile-expanded-190-warheads-sipri-report-pakistan-china-10730120/
 
-- At key Opposition meeting, an all-stars line-up and a rallying cry
+- Naga man killed by armed miscreants in Kangpokpi forest
   
-  🔗 https://indianexpress.com/article/india/india-bloc-meeting-delhi-congress-mallikarjun-kharge-tmc-akhilesh-modi-10729408/
+  🔗 https://indianexpress.com/article/india/manipur-violence-rongmei-naga-leader-killed-kangpokpi-forest-10730180/
 
-- Leave Iran immediately, India urges in fresh advisory for citizens
+- Railways approves electric traction upgrade on key routes in Telangana and Karnataka
   
-  🔗 https://indianexpress.com/article/india/india-issues-fresh-iran-advisory-asks-citizens-to-leave-country-immediately-10729414/
+  🔗 https://indianexpress.com/article/india/railways-approves-electric-traction-upgrade-on-key-routes-in-telangana-and-karnataka-10729913/
 
-- Three Air India aircraft damaged at Delhi airport amid heavy rain, wind
+- Patna court to hear Khan Sir bail plea; YouTuber yet to be arrested in firing case
   
-  🔗 https://indianexpress.com/article/india/air-india-aircraft-ground-equipment-delhi-airport-10729108/
+  🔗 https://indianexpress.com/article/india/khan-sir-anticipatory-bail-plea-patna-court-coaching-centre-violence-10729986/
 
-- TMC Crisis Live Updates: Coordination to continue between INDIA bloc parties, next meeting in August
+- Helicopter survey done, no clue still in hunt for missing trekker
   
-  🔗 https://indianexpress.com/article/india/india-bloc-meeting-live-updates-delhi-bjp-tmc-congress-dmk-10729030/
+  🔗 https://indianexpress.com/article/india/uttarakhand-missing-trekker-babita-pandey-dayara-bugyal-forged-permit-10730031/
+
+- Hair loss cure? Scientists study an ancient Chinese herb
+  
+  🔗 https://indianexpress.com/article/technology/science/polygonum-multiflorum-ancient-chinese-medicine-hair-loss-regrowth-10730036/
+
+- Apple WWDC Event 2026 Live Updates: Siri’s big comeback? Apple set to showcase major AI upgrades at WWDC 2026
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-event-2026-live-updates-siri-ai-ios-27-keynote-10729532/
 
 - Scientists hatch chicks in 3D-printed eggs, a technology that could help de-extinction efforts
   
@@ -32,233 +40,213 @@
   
   🔗 https://indianexpress.com/article/technology/science/100-hours-of-radio-observations-crack-a-50-year-black-hole-mystery-10729429/
 
-- Bumblebees can solve problems without training, latest study finds
-  
-  🔗 https://indianexpress.com/article/technology/science/science-bumblebee-spontaneous-problem-solving-cognitive-skills-study-10725095/
+- Not a luxury many Indians can afford: Nithin Kamath flags deep divide in access to cooling as India warms up
+  Despite massive strides in national electrification, access to cooling remains heavily concentrated among
+  🔗 https://www.livemint.com/companies/people/not-a-luxury-many-indians-can-afford-nithin-kamath-flags-deep-divide-in-access-to-cooling-as-india-warms-up-11780930433888.html
 
-- 7 smart home devices worth considering in 2026
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/7-smart-home-devices-worth-considering-in-2026-10729451/
+- Rajesh Exports’ PLI-ACC future to be decided this week
+  There is a clause in the 2021 scheme's request for proposal to set up battery capacity that allows the ministry of
+  🔗 https://www.livemint.com/companies/rajesh-exports-sebi-pli-acc-heavy-industries-ministry-hd-kumaraswamy-11780922648137.html
 
-- Urban Company bets on micro-market densification to grow 2x faster than industry
-  The company said the densification strategy is built around increasing the concentration of both customers and service professionals within small, neighbourhood-level clusters.
-  🔗 https://www.livemint.com/companies/urban-company-bets-on-micro-market-strategy-india-home-services-market-11780895123460.html
+- Immuneel eyes West Asia, Asia-Pacific expansion for cancer therapy after  ₹100 crore funding
+  Company says lower-cost treatment could help it compete in emerging markets
+  🔗 https://www.livemint.com/companies/news/immuneel-west-asia-asia-pacific-expansion-car-t-therapy-india-funding-11780916604472.html
 
-- Mint Explainer: Will flex fuel vehicles rule Indian roads?
-  The segment faces steep hurdles without government subsidy support. Maruti and Hero’
-  🔗 https://www.livemint.com/companies/news/will-flex-fuel-vehicles-rule-indian-roads-e85-fuel-11780900419771.html
+- Radhika Gupta flags India’s dropping fertility rate; calls childcare crucial for GDP growth — ‘Female workforce matters’
+   Replacement rate means a country is no longer having enough children to
+  🔗 https://www.livemint.com/companies/people/radhika-gupta-flags-india-s-dropping-fertility-rate-calls-childcare-crucial-for-gdp-growth-female-workforce-matters-11780919540738.html
 
-- Luxury beauty becomes everyday indulgence in India, lifting Shoppers Stop’s distribution arm
-  Global SS Beauty Brands, a distribution arm of Shoppers Stop, has reported gross revenue of  �
-  🔗 https://www.livemint.com/companies/news/luxury-beauty-boom-in-india-premium-fragrance-shoppers-stop-global-ss-beauty-brands-11780888731858.html
+- Eruditus bets on B2B push in US, Europe as mature markets anchor B2B growth
+  Singapore-based upskilling firm has expanded AI course offerings nearly five-
+  🔗 https://www.livemint.com/companies/eruditus-bets-on-b2b-push-in-us-europe-as-mature-markets-anchor-b2b-growth-11780904339482.html
 
-- Sensodyne maker Haleon to invest £175 million in first manufacturing plant in India
-  The facility in Madhya Pradesh will mark a shift away from contract manufacturing. India becomes the
-  🔗 https://www.livemint.com/companies/haleon-to-invest-rs-2000-crore-in-india-for-first-sensodyne-manufacturingplant-11780891711713.html
+- West Asia war: Trump says Iran, Israel seek immediate ceasefire. What does it mean for Indian stock market?
+  The Indian stock market anticipates a rebound as Middle Eastern tensions ease with Iran's military halting operations. Investors are focused on crude oil price fluctuations, which could significantly impact market dynamics
+  🔗 https://www.livemint.com/market/stock-market-news/west-asia-war-trump-says-iran-israel-seek-immediate-ceasefire-what-does-it-mean-for-indian-stock-market-11780923206782.html
 
-- US lawmakers intensify push against H-1B visas—is 2026 its death knell?
-  At least a dozen US lawmakers have backed efforts this year to tighten, suspend or eliminate the H-1B visa programme. The proposals have heightened uncertainty for Indian technology workers and outsourcing firms
-  🔗 https://www.livemint.com/companies/is-2026-the-death-knell-for-h-1b-visa-holders-11780829488222.html
+- Wall Street climbs on signs of easing tensions in Middle East, chip stocks rally
+  The S&amp;amp;P 500 rose 0.8%, the Dow Jones Industrial Average was up
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-climbs-on-signs-of-easing-tensions-in-middle-east-chip-stocks-rally-11780926798032.html
 
-- Multibagger railway stock drops for ninth straight session, hits over 2-year low; down 35% in 2026
-  Rail Vikas Nigam shares fell 2.5% to  ₹229.70, marking nine consecutive losses. The stock's decline is attributed to disappointing Q4FY
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-railway-stock-drops-for-ninth-straight-session-hits-over-2-year-low-down-35-in-2026-11780909224810.html
+- US stock market today: Nasdaq, S&amp;P 500 futures rebound as chip stocks recover; Marvell Tech jumps 8%
+  S&amp;amp;P 500 futures increased by 0.3%, while Nasdaq 100 futures climbed 0.7%.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-rebound-as-chip-stocks-recover-marvell-tech-jumps-8-11780920840821.html
 
-- Do you know how an IPO works in India? Here's a step-by-step guide
-  A company's IPO marks its transition to a publicly traded entity. Governed by SEBI in India, the IPO process involves multiple stages, including regulatory approvals and share pricing.
-  🔗 https://www.livemint.com/market/ipo/do-you-know-how-an-ipo-works-in-india-heres-a-step-by-step-guide-11780908119105.html
+- Indian markets are resilient, but near-term risks are rising
+  The West Asia conflict has had a deeper-than-expected impact on energy markets. Crude prices have risen from an average of about $67–
+  🔗 https://www.livemint.com/market/stock-market-news/india-markets-are-resilient-but-near-term-risks-are-rising-11780921452729.html
 
-- Reliance Industries share price tanks for 9th day in a row, erodes  ₹129,000 crore in market cap
-  Reliance Industries share price declined over 1.5% to its 52-week low of  ₹1270.60 apiece in intraday deals
-  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-tanks-for-9th-day-in-a-row-erodes-rs-129000-crore-in-market-cap-11780907364525.html
+- Small-cap stock under  ₹50 jumps despite stock market crash
+  Tiger Logistics shares rose 1% to  ₹34.78 after Infomerics reaffirmed its credit ratings. The company reported
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-despite-stock-market-crash-11780916373559.html
 
-- 800% returns in five years! Multibagger stock jumps 4% despite weak trends on Dalal Street
-  Rathi Steel &amp;amp; Power share price has fallen over 8% in one month and has declined 28% on a YTD basis. The smallcap stock has dropped 34% in a year and has plunged over 62
-  🔗 https://www.livemint.com/market/stock-market-news/800-returns-in-five-years-multibagger-stock-rathi-steel-power-share-jumps-4-despite-weak-trends-on-dalal-street-11780905264776.html
-
-- Fractal Analytics: an AI leader, or expensive IT bet?
-  The company has a 40x valuation and high client concentration. While its proprietary AI products and sticky client base set it apart
-  🔗 https://www.livemint.com/market/mark-to-market/fractal-analytics-stock-ai-growth-premium-valuation-11780900136435.html
-
-- AI infrastructure race will be won on power, edge and resilience, not just compute: WEF
-  Over the next 3-5 years, the AI infrastructure battle will shift from the approach around getting bigger GPUs to the ability to balance distributed inference, the World Economic Forum said.
-  🔗 https://www.livemint.com/technology/ai-infrastructure-race-will-be-won-on-power-edge-and-resilience-not-just-compute-wef-11780903376933.html
-
-- What to Stream: Michael, Olivia Rodrigo and Keith Urban albums and Bonnaroo
-  Keith Urban's new album, "
-  🔗 https://www.livemint.com/technology/what-to-stream-michael-olivia-rodrigo-and-keith-urban-albums-and-bonnaroo-11780891369512.html
-
-- Apple finds business users as inevitable iPhone India growth slowdown looms.
-  The slowdown would come despite India remaining one of Apple's brightest markets. For over four years, Apple’s outgoing chief executive
-  🔗 https://www.livemint.com/technology/apple-finds-business-users-as-inevitable-iphone-india-growth-slowdown-looms-11780804285416.html
-
-- iOS 27 arriving tomorrow: Compatible devices, Siri's big AI updates and expected features
-  WWDC 2026 will take place on June 8, marking Tim Cook's last official event as CEO. The new update is expected to bring a revamped Siri.
-  🔗 https://www.livemint.com/technology/tech-news/ios-27-arriving-tomorrow-compatible-devices-siris-big-ai-updates-and-expected-features-11780823752015.html
-
-- Satya Nadella says AI agents will need identities, security and governance like employees
-  Satya Nadella discussed the importance of AI agents in the workforce. He said these agents would require identities,
-  🔗 https://www.livemint.com/technology/tech-news/satya-nadella-says-ai-agents-will-need-identities-security-and-governance-like-employees-11780817915320.html
-
-- What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants - Investopedia
-  &nbsp;&ngt; &n
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0s0QWt4M2dyX1VzMUpZT1lkcFVpNzJoSkJydnRESVlpckF5WFdLZWN5aXZaLVBSdmFZb04tcllNRnU4eFRmWDZBTmJqWFM3U2xUeUxzY1ZIem9zNVdCekpZaTVJU08zY0lZSUJRMUJ3eVhYYTJQb2RLaHZFVFVSUENfUUFHU2FMV1ZIWVRTMWxOMGRuNVVmcjNIODNvbTVPRkUxblVJZHlnTlYtZTFmd2UzbFdHYUdQaktlaXdNTW0yRVAxVW9HYW10MDBvQUkySXh3?oc=5
-
-- U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 8%: Live updates - CNBC
-  U.S. stock futures mixed as Mideast tensions rise
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
-
-- Stock market today: Nasdaq plunges 4%, Dow and S&P 500 sink as AI trade halts on Fed hike bets - Yahoo Finance
-  The Nasdaq plunges 4%, Dow and S&amp;P 500 sink as AI
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkZEak5MREVCMHNlMW44amp0aVRGQUg5bTd6WUVQeWV1Z2dycllhMTU2dDNERmhvbTl5dGk0ajVYTVFGcXdxcmFiNlp3QVl1Mi1XS3ZmR0FzYmJHRU1pUU1jcWV1c0ZuLTBicEF2dkpEMkxrRy1RM1hEY3cxWUJHQ3Y4YV9LdE1YY1dTWkluVmJvZXMtdlVTUUgzUlkzOFdBdmR0RXRjWmNPczNwN3hHSUx4Q0Z5bmNTcXVOcmlJdFRraFhOelMweDFJWTd1SlRxLWxFaWYzam5yRG1jMW11NV80anJzQQ?oc=5
-
-- Stock markets fall and oil jumps as Middle East conflict intensifies and AI boom falters – business live - The Guardian
-  The Guardian reports on the fall in stock markets and oil prices in the Middle East
-  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTBwc0RsdG01b08xLW5rOEhzTXdLQnZBcWZFTmdpUDhTV2gxNU5vZ0N1Wm1BSlFOWDE2TmhDRHVxOGpsY21qcW45b3hYck5DcXlwMDV4TGd5dDUtajdUR3ZTRUUycGdJajRpUXBHRU5qeFRnOTZaUHZueW5oaHkwQ19GREM3UEJXcVZaUTdpVDhZLThnaDVsNUw2Zm5RaTdfeU1IYnd4SVRuVlpTNEpTMDlMZGpiMDdDWjVRWXV1b3VuY2UxaHMxMnZibktFcERKZEFn?oc=5
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex slumps over 600 pts; Nifty below 23,200; meta... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHJvbmJ6aVphaV8yVTV3UmdQWHVoWExKX3loMGN0UEtHdVZVOFRxNnR5bDhubEtDdnFUMlFvdEx2LVJJSnFLckxXTEhJeDhRS3VzMkdCSkt4TVhfVTlPdUZHNHlhLURvdj
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHJvbmJ6aVphaV8yVTV3UmdQWHVoWExKX3loMGN0UEtHdVZVOFRxNnR5bDhubEtDdnFUMlFvdEx2LVJJSnFLckxXTEhJeDhRS3VzMkdCSkt4TVhfVTlPdUZHNHlhLURvdjhvZGNHZjQ1NXVJcC1STWVEUFpKUXFpblZMT005X3ZMc3czQXNpb1lqa1U2Nk5MZlNWSWNKVC01Z1RoSmdDMlhMUU1NZ3R0YVlBNEpaSlhtR295WjZNcU9fVGJsaDN1dXRQNnhFQkd0eDR0MXVaSzNMbGR5Vk1TNGFWWlhrXzBUTk1JcXJDakhJRTdvMDB0VV9IWlBNZ9IBgwJBVV95cUxNR0pSV1RyV3haOG9iUTBQUFBsRkRyXzRCQ3RxNGxERjVuOUJhLUtrN0JORW1DYUYxRnFSYWw1ZHN4MVdWamVneGdFT3ladjdpcm9oRTdodUNYMDRtbGlkZ2d1N05OMzlvVml1dXRNTG1ZZ0pQWkVublk3bWItZ1NqeXdjdi1BSlFLcXR1M01kYXlVUjhsM3hoRUctRjRQejNZZmV6UFdmZWdQekFGbk5DMWRtcGVXR1k1RnpmQzhsNHgxWlpZYXhnaXlqSXFSRGMwNk9ickF3TnIyS1JBcGZycVJPNE5XRlNxM1BDWDFLRTNldUNkVjFIckpSNGxiV3NWWVNv?oc=5
-
-- SBI pays Rs 8,813 crore dividend to government for FY26, FM Nirmala Sitharaman receives cheque
-  SBI presented a dividend cheque of Rs 8,813 crore to the government for the financial year ending March 31, 2026. This follows SBI's reported 6% year-on-
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-pays-rs-8813-crore-dividend-to-government-for-fy26-fm-nirmala-sitharaman-receives-cheque/articleshow/131585078.cms
-
-- Adani Energy Solutions vs Power Grid Corp: Which stock is Jefferies betting on?
-  Jefferies remains bullish on both Adani Energy Solutions and Power Grid Corp. The brokerage expects AESL’s earnings growth to outpace Power Grid and believes improving valuations and execution momentum could support a potential re
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solutions-vs-power-grid-corp-which-stock-is-jefferies-betting-on/articleshow/131584988.cms
-
-- Asia tech selloff is a buying opportunity, says Manishi Raychaudhuri; but India has a problem to fix first
-  Asian markets saw a sharp sell-off in tech stocks this week. Investor Manishi Raychaudhuri views this as a buying chance. India's economic story needs improved financial results.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/asia-tech-selloff-is-a-buying-opportunity-says-manishi-raychaudhuri-but-india-has-a-problem-to-fix-first/articleshow/131583437.cms
-
-- Global markets: Europe's STOXX 600 hits two-week low on Mideast escalation, AI jitters
-  European shares hit a two-week low as Middle East tensions and a global AI stock selloff weighed on the market. Crude oil prices surged over 4% following weekend exchanges between Israel and Iran, impacting energy-sensitive airlines. Tech
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-europes-stoxx-600-hits-two-week-low-on-mideast-escalation-ai-jitters/articleshow/131583304.cms
-
-- FIIs cut stakes in 16 largecap stocks over two quarters; shares fall up to 40%
-  Foreign institutional investors reduced stakes across over 100 large-cap stocks in the past two quarters. 13 names fell up to 40%. Despite the selling pressure, three stocks delivered strong gains.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-16-largecap-stocks-over-two-quarters-shares-fell-up-to-40/slideshow/131583501.cms
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Dream debut guides India to record Test win over Afghanistan - ICC
-  Dream debut guides India to record Test win
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
-
-- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
-  Alcohol sales allowed in Muslim-majority Laksh
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
-
-- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky anymore': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Dream debut guides India to record Test win over Afghanistan - ICC
-  Dream debut guides India to record Test win
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
-
-- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
-  Alcohol sales allowed in Muslim-majority Laksh
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
-
-- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky anymore': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Dream debut guides India to record Test win over Afghanistan - ICC
-  Dream debut guides India to record Test win
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
-
-- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
-  Alcohol sales allowed in Muslim-majority Laksh
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
-
-- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky anymore': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Dream debut guides India to record Test win over Afghanistan - ICC
-  Dream debut guides India to record Test win
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
-
-- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
-  Alcohol sales allowed in Muslim-majority Laksh
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
-
-- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky anymore': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- India's Currency Paradox: Cash Is King But Why ATMs Are Drying Up - NDTV
-  India's Currency Paradox: Cash Is King But Why
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHlCQnpEaE05Q3RXeWdZU1Z5YTBqWmU4UlE4Ym1qSmxaS2tLSEJGM3FjWDRSQ005dTJ5NWJESXI2bjh5Q1RfUjJmNGVaV2RXUEVvbWpPMGptekgzRXNpZENhdHlIWHItelMwc1hhUmlmRzlxN09MX25Uc04wNFBEa2EwMWdkZmNyN3NTZGwzSy1RVVlUSk8wZy1pd2U1UGJWbm9zbUQ5SdIBrwFBVV95cUxNZ1JCcTRzZjFwMVUtNXJPaUp0c3V3OVNlcTVRa2p6T3VZcWlNTjgtWm1GYmpzYVlNYkc0ZHAzb205SkF3dTRNSHBRazFHRVF2QVlFY21lNzV6eGZ6cWplLUpJY0J6VF90enB1S1NmOUhodC02SjQ5QmZUR2hVVDhtZC05aUxnY3NoaEVJbjVIdW9PTUVzVlhmLW1odERTRGh0VXZhS081ZEswOTFyLXFB?oc=5
-
-- Dream debut guides India to record Test win over Afghanistan - ICC
-  Dream debut guides India to record Test win
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWpUejZkZW5FdXdqVXJoamhWWDAyT05BT3Vzdk1VSFZHR1dkRkNoNnVzbkUxZlRTYzlfdUJ3QXpXaXVKcG5Oa1dHaklQUTBadmRINU1fdTI0Nm9tMXVnbFlvMUFtRHFTTVB3dDdQd3pjOFJWUndTcmRZYTd4aFZQMmZYcVBtMjM2M2g0UjBfSmNGZ2IwTl96Qg?oc=5
-
-- Alcohol sales allowed in Muslim-majority Lakshadweep. Explained why rules changed - India Today
-  Alcohol sales allowed in Muslim-majority Laksh
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbnBOVzF6WXEzdURvU3A3UVVlcjhnZlVjUXNNZlZGQmR0Mjc4R1Rad3BkTjZHVnNDcks0MHdKZ2F6eWZ4WXEzeXBJaENoUXBIakp3SWJHVWE5M29CWTdOc0xReWszUHppVGI4NHEzdUhyRFlDVk1QdnRLa09lNXR4RHJMZ3BzUUROSWozakkwdmlReFdoblhnRG14aEJKbThrVWllRVFIRnNwTE1rTWhEV0RFcEdhZzVoQjhmQzY3dkI3WWg1TGVxSFV0Q1VRWDg0WjMzZDdyQ0lHcTItMzREeC1Rel9wanNXLXRhVFhocFJCMTU2NGhQYWQtWU1WeU3SAYQCQVVfeXFMTXFYU1BySGVnT1ZPSFJjcmVtXzB1TDg0eC1yNld1WkFfY1VoV3JZanZ2UWhFejdDazVwbm9BNm94dVVaYmJhM0I1NTB0UnBDSVJkd2h4TVpicFRpZnR4SGJCMzlJaWhZN3dfVUk5S2hRUnVXRGJWZi1rT21maE1hbE9xUmk5NGYxQklSSVFwZkI1cU1oak5SX1NEZjZWV3hSQnlYLUxoZ3VWLU9yUVBteVotbWJaaWdGUkExYV9uczlvWUZDUVlNY2Z2RmNsTHhyVS1SVDFmUktZNDB6Z1JSM0s0eFItUV90OHlkNW1vNl8tS0Jyc3BLRUYxV1YwcDJxZXFfaXY?oc=5
-
-- 'We don't look at the sky anymore': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky anymore': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
+- All the Ways Europe Is Ditching American Technology - WIRED
+  All the Ways Europe Is D
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjVLRThkSFVJRXc5UTdsSHY2OXAxc0RaZjk2V19JMDJqUEhyalJyaTExYjlLUUgyTU1XRV9zT0xpWjlNN2E4d3FsTTRndVRSVXFKVmlRMkRzemt6NEFPenNheEQ1SU14R1RlZ3UzYjc2YklzQ1hnQmtGUlJ3VlZXdUR3WnlPcVE?oc=5
 
 - Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera
   Anthropic urges AI labs to pause, warns
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5
 
-- Feeding 10 billion people will require new technology - The Economist
-  Feeding 10 billion people will require
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEdHSnItdTRoQ2lJZmlPSEpTdU9Bd2xLaHA1TTRLZ3ZYYlRTaXMyVVcwdzhNWDl2OExna2lGRU9NOWdwMVVic0p0NGdkT1hieGIzNG1OZzJnZlpfdlVKcFRXMGNYS01mZ3dtVXl3RFItX195TG8yRGxBQ052bGZqWnVVQllHcHhrUVlCdEU1SGVUejRoTV81NWVuenBkRDdoV0lOWGRpaU8zTmZOUG9SWWFwaw?oc=5
-
-- Starmer giving speech on AI and online harms for children - BBC
-  Starmer giving speech on AI and online
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VSkVKeWRvRWMtR3JqTGFtYWU5Y0NTXzFxVWJrekdlM3VhTmxlN1dIT3hsQTZNc0VIdTFFR1FEaGV2UDJ6ajNsMzFhLTY2a3liYzFDeQ?oc=5
+- NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom
+   NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uXzBzR3NhYkhmOFNSb0tua2s2U1RCRHQ5RXpRcUxKS0xMUkFMNlYxMDltR3N3bmVSdWFQc1lMWDcwaC1yVnNnWEdkMEt3QkZOaGZvaXY0cHRHMVBaLUp1SzFDejc?oc=5
 
 - Google’s Unique Approach to Getting Data Centers Built - WSJ
   Google is building a data center
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPempRMVhFZWNNbW5rZnRNb2drNEFQU3hMbnNrdVUtVmNtemIzWURudHlYbGFQZnZNOFF2QjRENDJOSWVTT3hKb0F1eG1ObnVpNXEyWXY5Nm83YmpRNHkzUjh2b2xWMjJaYlhDUGZYWE9GZGl1eGwxT196NTZwS3QzTE5lSFVPSjZxOVNyRlhCOGNMYnd3?oc=5
 
-- Billions spent and hypothetical returns: the AI boom explained with six charts - The Guardian
-  The Guardian explains the AI boom with six charts.
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2xHTDYxZVZuTExBeGRfM3psWmk5Z3hGVXlsa3lubU5fLWRYbmdnSnRxWW9Wd3Q1WFM2Z3NXOVpBSk5mT0QyLUlLZnFFMWphMmlaOVZQejFHX3VIbUZ2RGM2bENZN3AtU3I0Wk9rTDNpalcwRHJOU0pBLURaQlpPMXhHQUtQUnJNNEl5SFZUcElJaVR2aTF0ZWFCM1phWWxGQzhrZkVGMTFocHVKSFliT2d0aDA1Nm9RcEdIcVBuWWxoUQ?oc=5
+- Telangana Police must strengthen technology use, real-time data updates: DGP CV Anand - The Hindu
+  Telangana Police must strengthen technology use, real-
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3U0SHN6Q1ZaRzVmU195cEJ2YjV2STB5OEI2S2lFYUVTeGFXS05hcU81b1pFbmpSQmVScXZBcUY1OEVyRFpMWUR4WFlhYTRxQTdjQ1d4aENBclBuNlNCczJ4OTlLLTRGZlQwR3RRaGZQbEtZcm55WkRCWEFDNHh6R0t0b3A0aEE3c0dWTEpZd2x4M1ExUmtEV0ZwMDgyejRHUHdfNGtzekRDSllGUTBZMmd1V3F1ek12dDBLNTNGVkQ2V2dZZFNsVGs3bXB1S1o1dzJmckM0QUdWbDN2dG96LWZTNmItRVnSAe4BQVVfeXFMTWFja3VPNk1UM0hSMnlCTUMxMThFX0w0UFRyS21hbnk0b3o3ck5leFFhYmExWGRQb2I2ekxFRGdwcVpjbERHNFFqTnI3Y3JIR1h3WVhsc3E3NlQ3NTBqeG9OVHlsa210MEpHaC00Q3dnNnotRWkycERnMTdmQUZlV09SNGxqRGh3Uk1nakZSTWpMd2FBQUc1TTlySWZjdFMwTUIyMWNoTHZiemdMeEdaZzAycFZnVEJScW1HNWZkbW1tSDBIUkdhVVRJaGxydlFRYkFKOTE0Q09MU25DOXVxMlhQM0FnU2M5V3pocHdudw?oc=5
+
+- Stocks gain as chipmakers rebound from rout, Iran halts Israel attacks: Live updates - CNBC
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
+
+- Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – business live - The Guardian
+  Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTBwc0RsdG01b08xLW5rOEhzTXdLQnZBcWZFTmdpUDhTV2gxNU5vZ0N1Wm1BSlFOWDE2TmhDRHVxOGpsY21qcW45b3hYck5DcXlwMDV4TGd5dDUtajdUR3ZTRUUycGdJajRpUXBHRU5qeFRnOTZaUHZueW5oaHkwQ19GREM3UEJXcVZaUTdpVDhZLThnaDVsNUw2Zm5RaTdfeU1IYnd4SVRuVlpTNEpTMDlMZGpiMDdDWjVRWXV1b3VuY2UxaHMxMnZibktFcERKZEFn?oc=5
+
+- Stock Market Today: Nasdaq Opens Higher; Oil Rallies After Iran-Israel Trade Strikes — Live Update - WSJ
+  The WSJ reports on the latest developments in the Iran-Israel
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDJ0UU9aUS0yM054cjRhR1Z2ZFZpMV9wZW90cEVDbm9PcXY3VXYzNFU4MG54dWF5eXhGX0hqSklCdHc1U0NHY256MXp2SndEbGJUSDFJWW1WR3ZPVGlUMXd1ODNTNzJRaDJ2VmxLUWFoTHpPNlJDVmFRQlg3cm9CV2hoRzZYSlk?oc=5
+
+- Stock Market Today: Indexes Jump After Plunging Friday; Oil Pares Gains After Trump Says Israel, Iran 'Looking to Do an Immediate Ceasefire' - Investopedia
+  Stock Market Today: Indexes Jump After Plunging Friday; Oil Pares Gains After Trump
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNREVTaXBYWTJoZ1Uwam5naVk2WXItdmtBNEtkSHhaZjFQRjl1X3Y3X1dfQ1RGb3Z5SmtuTjN1VVZHWHZYZkp3QlZ4QU5YeXJiNk0wR0lCZy03WTE0RFFpd3VBc3A5aXgtY1RiZFh4bThIUlRNNEk4dkZsVWo1aHcwMVUtN0ROb3h6U3ByQThoQVE?oc=5
+
+- Futures Rise On Trump, Iran Comments - Investor's Business Daily
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHZGUXJUd3BHVl93cnRiQjBXX2tPSjcyclFhTUYwdUswWnJVN2dLZU9hVjJ5bjVCU3h2alpISEx5TXRNRmlYMzFGLTFwSTVFc0FmN3dfSDlJNF9RYlRHRnB0ZFN0RmJUNmNLb1pieFFqSVBlcGJOQ0prT2tyQ21GcnBjbmdNMXBMSWptdTBfTzBaVjRla084T0FDOEtRN3ZaVTFsM29hVkV0SmRjMzFxeQ?oc=5
+
+- Promoter entities sell Rs 153 crore worth shares in Motilal Oswal block deal; HDFC Life picks up stake
+  Two promoter-group charitable entities of Motilal Oswal Financial Services sold shares worth about Rs 153 crore. The transaction reflects strong institutional interest in financial-sector stocks.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/promoter-entities-sell-rs-153-crore-worth-shares-in-motilal-oswal-block-deal-hdfc-life-picks-up-stake/articleshow/131591029.cms
+
+- US stocks: Lilly shares rise on hopes that next-gen drug will extend lead in weight-loss market
+  Lilly presented full data from two retatrutide trials, one in treatment naive type 2 diabetes patients and another in patients
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lilly-shares-rise-on-hopes-that-next-gen-drug-will-extend-lead-in-weight-loss-market/articleshow/131590978.cms
+
+- Government to sell 3% stake in NLC India through OFS, sets floor price at Rs 303
+  The government has launched a two-day offer for sale in NLC India. The issue could raise up to Rs 1,263 crore and forms part of the broader disinvestment programme.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms
+
+- US stocks: Alphabet taps Intel to make three million in-house chips: Report
+  Nvidia has not placed an order with Intel yet. The company is looking at ways to combine four graphics chips into a single processor.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-alphabet-taps-intel-to-make-three-million-in-house-chips-report/articleshow/131590036.cms
+
+- Ray Dalio sees AI bubble bursting as wealth is converted into money
+  Billionaire investor Ray Dalio said the artificial intelligence market is displaying characteristics of a bubble. He warned that challenges around profitability and monetisation could eventually trigger a market correction.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ray-dalio-sees-ai-bubble-bursting-as-wealth-is-converted-into-money/articleshow/131589831.cms
+
+- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
+  The Times of India published an article about the resignation of the Indian education minister.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
+
+- Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab - NDTV
+  " target="_blank">Trinam
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZy1EcjJLdUJZM3dVTlZuQWxxZDdMd0liWmUyR096V3hHMURaNUhDUFVnOWJKN2lyc2NOOHJUSEU1S3hwTmJHdEZuQXNHV3BJdElfQWxMRTVqUk9NRXJPeEktekh3bUh6RXVwb2wwQ3RHU0kzVGJzSzZRNGoxeWw0MmI0eDZ1VXdhU2V2enVNSVBMdTFaMmxxc05RcG5VY2ZlMWxpczJBZmt1MHlGNklzSEg5NUvSAbwBQVVfeXFMUHQ4czFvU3BQQXVBc29ENVNXeWNLSVZ1Z0d1YUxtMjRoV0YtV2JUYTFGUTlOcEZHRERGYm1CekJFWlRkVHZ2ZzNzZmNKMW1wWkpUZVh2ZUpIb2NsejBfREhQNndqdHY4U0MyUXRoNlJKM2hDNUpGajhmWU54eEc0U1lpclktU2JHVk01Ym1DNXFUQjBQbDhwQW1weVJZaTJ3WGVzU1pXSzdaUWNUU3dNdVU5a0p2S1ZuN0lGUXo?oc=5
+
+- Will Indians Be Shielded From Fuel Price Shock? What Hardeep Puri told NDTV - NDTV
+  Hardeep Puri: Will Indians be Shielded
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUQwdHMzOW92azJMZVIxNE5WcGxaQUc1ZE1PZmpwTGcxdTN4TnFMdFJWNThPLWgxY1pkTHN0SVJaX00xSl9GdXRiNGd4MUwtTUZUODhkYXdWZHRSQmZUZHEyMS1BRU9nazVTeHNnOEV4dmc4M1VzLUlmM3ROdDVBSDFQUnIwS2p4TDVtMUxNVjVoUXJaNjZQR1JtS0NqSnZ6Y3p1ektYZng4WG1FcmhxZU1RVUlIUdIBvgFBVV95cUxOYWRUaWh2UGRNWlktMmRBNWVCZFBCdTlKZmNHQ0pqUlhsOXg1NkVTN2RqbDdOT1VmOGdSdGxicW1JMmFicDRweXZVWVJjN0JGSGxXSmZqWDA1S29ROExRVHZFMjZtTnRIZTJhVXhQWmJxVTRMaTBlaFVTaGpDQUFYRlBpbnYtT2JsNzNqTHNTUDlGVjFkVFQ5S2RPOG5NSEdLUjB3a1FpRDNpUUNlcGs4R0w5dDFROHQyOTN2M2Jn?oc=5
+
+- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
+  The Times of India published an article about the resignation of the Indian education minister.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
+
+- Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab - NDTV
+  " target="_blank">Trinam
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZy1EcjJLdUJZM3dVTlZuQWxxZDdMd0liWmUyR096V3hHMURaNUhDUFVnOWJKN2lyc2NOOHJUSEU1S3hwTmJHdEZuQXNHV3BJdElfQWxMRTVqUk9NRXJPeEktekh3bUh6RXVwb2wwQ3RHU0kzVGJzSzZRNGoxeWw0MmI0eDZ1VXdhU2V2enVNSVBMdTFaMmxxc05RcG5VY2ZlMWxpczJBZmt1MHlGNklzSEg5NUvSAbwBQVVfeXFMUHQ4czFvU3BQQXVBc29ENVNXeWNLSVZ1Z0d1YUxtMjRoV0YtV2JUYTFGUTlOcEZHRERGYm1CekJFWlRkVHZ2ZzNzZmNKMW1wWkpUZVh2ZUpIb2NsejBfREhQNndqdHY4U0MyUXRoNlJKM2hDNUpGajhmWU54eEc0U1lpclktU2JHVk01Ym1DNXFUQjBQbDhwQW1weVJZaTJ3WGVzU1pXSzdaUWNUU3dNdVU5a0p2S1ZuN0lGUXo?oc=5
+
+- Will Indians Be Shielded From Fuel Price Shock? What Hardeep Puri told NDTV - NDTV
+  Hardeep Puri: Will Indians be Shielded
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUQwdHMzOW92azJMZVIxNE5WcGxaQUc1ZE1PZmpwTGcxdTN4TnFMdFJWNThPLWgxY1pkTHN0SVJaX00xSl9GdXRiNGd4MUwtTUZUODhkYXdWZHRSQmZUZHEyMS1BRU9nazVTeHNnOEV4dmc4M1VzLUlmM3ROdDVBSDFQUnIwS2p4TDVtMUxNVjVoUXJaNjZQR1JtS0NqSnZ6Y3p1ektYZng4WG1FcmhxZU1RVUlIUdIBvgFBVV95cUxOYWRUaWh2UGRNWlktMmRBNWVCZFBCdTlKZmNHQ0pqUlhsOXg1NkVTN2RqbDdOT1VmOGdSdGxicW1JMmFicDRweXZVWVJjN0JGSGxXSmZqWDA1S29ROExRVHZFMjZtTnRIZTJhVXhQWmJxVTRMaTBlaFVTaGpDQUFYRlBpbnYtT2JsNzNqTHNTUDlGVjFkVFQ5S2RPOG5NSEdLUjB3a1FpRDNpUUNlcGs4R0w5dDFROHQyOTN2M2Jn?oc=5
+
+- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
+  The Times of India published an article about the resignation of the Indian education minister.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
+
+- Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab - NDTV
+  " target="_blank">Trinam
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZy1EcjJLdUJZM3dVTlZuQWxxZDdMd0liWmUyR096V3hHMURaNUhDUFVnOWJKN2lyc2NOOHJUSEU1S3hwTmJHdEZuQXNHV3BJdElfQWxMRTVqUk9NRXJPeEktekh3bUh6RXVwb2wwQ3RHU0kzVGJzSzZRNGoxeWw0MmI0eDZ1VXdhU2V2enVNSVBMdTFaMmxxc05RcG5VY2ZlMWxpczJBZmt1MHlGNklzSEg5NUvSAbwBQVVfeXFMUHQ4czFvU3BQQXVBc29ENVNXeWNLSVZ1Z0d1YUxtMjRoV0YtV2JUYTFGUTlOcEZHRERGYm1CekJFWlRkVHZ2ZzNzZmNKMW1wWkpUZVh2ZUpIb2NsejBfREhQNndqdHY4U0MyUXRoNlJKM2hDNUpGajhmWU54eEc0U1lpclktU2JHVk01Ym1DNXFUQjBQbDhwQW1weVJZaTJ3WGVzU1pXSzdaUWNUU3dNdVU5a0p2S1ZuN0lGUXo?oc=5
+
+- Will Indians Be Shielded From Fuel Price Shock? What Hardeep Puri told NDTV - NDTV
+  Hardeep Puri: Will Indians be Shielded
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUQwdHMzOW92azJMZVIxNE5WcGxaQUc1ZE1PZmpwTGcxdTN4TnFMdFJWNThPLWgxY1pkTHN0SVJaX00xSl9GdXRiNGd4MUwtTUZUODhkYXdWZHRSQmZUZHEyMS1BRU9nazVTeHNnOEV4dmc4M1VzLUlmM3ROdDVBSDFQUnIwS2p4TDVtMUxNVjVoUXJaNjZQR1JtS0NqSnZ6Y3p1ektYZng4WG1FcmhxZU1RVUlIUdIBvgFBVV95cUxOYWRUaWh2UGRNWlktMmRBNWVCZFBCdTlKZmNHQ0pqUlhsOXg1NkVTN2RqbDdOT1VmOGdSdGxicW1JMmFicDRweXZVWVJjN0JGSGxXSmZqWDA1S29ROExRVHZFMjZtTnRIZTJhVXhQWmJxVTRMaTBlaFVTaGpDQUFYRlBpbnYtT2JsNzNqTHNTUDlGVjFkVFQ5S2RPOG5NSEdLUjB3a1FpRDNpUUNlcGs4R0w5dDFROHQyOTN2M2Jn?oc=5
+
+- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
+  The Times of India published an article about the resignation of the Indian education minister.
+  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
+
+- Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab - NDTV
+  " target="_blank">Trinam
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZy1EcjJLdUJZM3dVTlZuQWxxZDdMd0liWmUyR096V3hHMURaNUhDUFVnOWJKN2lyc2NOOHJUSEU1S3hwTmJHdEZuQXNHV3BJdElfQWxMRTVqUk9NRXJPeEktekh3bUh6RXVwb2wwQ3RHU0kzVGJzSzZRNGoxeWw0MmI0eDZ1VXdhU2V2enVNSVBMdTFaMmxxc05RcG5VY2ZlMWxpczJBZmt1MHlGNklzSEg5NUvSAbwBQVVfeXFMUHQ4czFvU3BQQXVBc29ENVNXeWNLSVZ1Z0d1YUxtMjRoV0YtV2JUYTFGUTlOcEZHRERGYm1CekJFWlRkVHZ2ZzNzZmNKMW1wWkpUZVh2ZUpIb2NsejBfREhQNndqdHY4U0MyUXRoNlJKM2hDNUpGajhmWU54eEc0U1lpclktU2JHVk01Ym1DNXFUQjBQbDhwQW1weVJZaTJ3WGVzU1pXSzdaUWNUU3dNdVU5a0p2S1ZuN0lGUXo?oc=5
+
+- Will Indians Be Shielded From Fuel Price Shock? What Hardeep Puri told NDTV - NDTV
+  Hardeep Puri: Will Indians be Shielded
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUQwdHMzOW92azJMZVIxNE5WcGxaQUc1ZE1PZmpwTGcxdTN4TnFMdFJWNThPLWgxY1pkTHN0SVJaX00xSl9GdXRiNGd4MUwtTUZUODhkYXdWZHRSQmZUZHEyMS1BRU9nazVTeHNnOEV4dmc4M1VzLUlmM3ROdDVBSDFQUnIwS2p4TDVtMUxNVjVoUXJaNjZQR1JtS0NqSnZ6Y3p1ektYZng4WG1FcmhxZU1RVUlIUdIBvgFBVV95cUxOYWRUaWh2UGRNWlktMmRBNWVCZFBCdTlKZmNHQ0pqUlhsOXg1NkVTN2RqbDdOT1VmOGdSdGxicW1JMmFicDRweXZVWVJjN0JGSGxXSmZqWDA1S29ROExRVHZFMjZtTnRIZTJhVXhQWmJxVTRMaTBlaFVTaGpDQUFYRlBpbnYtT2JsNzNqTHNTUDlGVjFkVFQ5S2RPOG5NSEdLUjB3a1FpRDNpUUNlcGs4R0w5dDFROHQyOTN2M2Jn?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-08 10:30:20 UTC_
+_Last updated: 2026-06-08 15:42:48 UTC_
