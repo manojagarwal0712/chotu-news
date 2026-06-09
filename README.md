@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- First a blast, then molten steel at 1,500°C falls to floor: What we know about Vizag Steel Plant accident
+- ‘Great Nicobar project will serve strategic interests, emerge as maritime focal point’
   
-  🔗 https://indianexpress.com/article/india/vizag-steel-plant-blast-rinl-visakhapatnam-accident-deaths-investigation-10730294/
+  🔗 https://indianexpress.com/article/india/great-nicobar-project-will-serve-strategic-interests-emerge-as-maritime-focal-point-10730449/
 
-- After 8 die in Vizag Steel mishap, unions allege staff crunch: ‘No one cares how we meet targets’
+- Viral video of 11-year-old pushed on stretcher for 1 km in scorching heat sparks outrage at major Indore hospital
   
-  🔗 https://indianexpress.com/article/india/vizag-steel-plant-accident-many-killed-union-staff-crunch-10730239/
+  🔗 https://indianexpress.com/article/india/viral-video-of-11-year-old-pushed-on-stretcher-for-1-km-in-scorching-heat-sparks-outrage-at-major-indore-hospital-10730390/
 
-- India deploys active nuclear warheads: What changed in 2025?
+- Amid fresh strikes in West Asia, India calls for quick de-escalation, dialogue
   
-  🔗 https://indianexpress.com/article/india/india-nuclear-stockpile-expanded-190-warheads-sipri-report-pakistan-china-10730120/
+  🔗 https://indianexpress.com/article/india/amid-fresh-strikes-in-west-asia-india-calls-for-quick-de-escalation-dialogue-10730473/
 
-- Naga man killed by armed miscreants in Kangpokpi forest
+- As row over beef in tiffin spreads, 5 schoolboys in Assam’s Goalpara face expulsion today
   
-  🔗 https://indianexpress.com/article/india/manipur-violence-rongmei-naga-leader-killed-kangpokpi-forest-10730180/
+  🔗 https://indianexpress.com/article/india/as-row-over-beef-in-tiffin-spreads-5-schoolboys-in-assams-goalpara-face-expulsion-today-10730398/
 
-- Railways approves electric traction upgrade on key routes in Telangana and Karnataka
+- MoU inked, Bengal finally comes under Ayushman Bharat ambit
   
-  🔗 https://indianexpress.com/article/india/railways-approves-electric-traction-upgrade-on-key-routes-in-telangana-and-karnataka-10729913/
+  🔗 https://indianexpress.com/article/india/mou-inked-bengal-finally-comes-under-ayushman-bharat-ambit-10730460/
 
 - WWDC 2026 roundup: Siri AI, Apple Intelligence, iOS 26 and more
   
@@ -40,45 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-event-2026-live-updates-siri-ai-ios-27-keynote-10729532/
 
-- Apple Investors Give Lukewarm Reaction to New Siri, AI Platform
-  Apple investors gave a tepid reception to the next generation of its artificial intelligence platform. The platform is key to the company’s bid
-  🔗 https://www.livemint.com/companies/apple-investors-give-lukewarm-reaction-to-new-siri-ai-platform-11780944922524.html
+- Forget Coding! Meta will train you for free and guarantee you a job building its AI data centres
+   Meta has launched a free five-week skilled trades training programme with a guaranteed job for every graduate. Here is everything
+  🔗 https://www.livemint.com/companies/news/meta-launches-115-million-data-center-job-guarantee-all-about-workforce-academy-to-train-workers-to-build-data-cent-11780967504709.html
 
-- ISS urges Warner Bros shareholders to reject executive pay tied to Paramount merger
-  
-  🔗 https://www.livemint.com/companies/iss-urges-warner-bros-shareholders-to-reject-executive-pay-tied-to-paramount-merger-11780944736257.html
+- Tata Sons won't discuss Chandrasekaran's third term at board meet on Friday
+  Tata Sons' board is not expected to discuss a third term for chairman N Chandrasekaran. The board will instead focus on the group's FY26 performance and plans.
+  🔗 https://www.livemint.com/companies/tata-sons-will-not-discuss-chandrasekaran-s-third-term-at-friday-s-board-meeting-11780931184043.html
 
-- Kumar Shanker begins tenure as managing director of Indraprastha Gas
-  Indraprastha Gas Ltd appoints Kumar Shank
-  🔗 https://www.livemint.com/companies/news/kumar-shanker-begins-tenure-as-managing-director-of-indraprastha-gas-11780935495369.html
+- GMR flags weak H1 air traffic, pins FY27 growth on new airports
+  Airline fleet shortages and route cuts are expected to keep passenger traffic subdued through September. GMR Airports banking on Bhogapur
+  🔗 https://www.livemint.com/companies/gmr-new-airports-passenger-traffic-india-aviation-sector-west-asia-war-11780886796425.html
 
-- Airtel, Vi eye over  ₹24,000 crore relief as Bombay HC quashes govt's spectrum fee demand
-  The Bombay High Court has quashed the demands against Airtel and Vodafone Idea. The broader legal battle over O
-  🔗 https://www.livemint.com/companies/news/airtel-vodafone-idea-24-000-crore-relief-bombay-hc-quashes-spectrum-fee-11780929401802.html
+- How a luxury carmaker comes to the rescue of Tata’s tech arms amid a broader sectoral slowdown
+  Jaguar Land Rover (JLR) remains crucial for Tata Group's tech firms amid IT sector challenges. Tata Technologies seeks approval for  ₹1,750 crore
+  🔗 https://www.livemint.com/companies/jlr-luxury-carmaker-cash-cow-tata-group-tech-companies-sectoral-slowdown-11780915746287.html
 
-- Not a luxury many Indians can afford: Nithin Kamath flags deep divide in access to cooling as India warms up
-  Despite massive strides in national electrification, access to cooling remains heavily concentrated among
-  🔗 https://www.livemint.com/companies/people/not-a-luxury-many-indians-can-afford-nithin-kamath-flags-deep-divide-in-access-to-cooling-as-india-warms-up-11780930433888.html
+- India's unicorns' next test: Delivering investor exits
+  Can India's billion
+  🔗 https://www.livemint.com/companies/start-ups/india-startup-ecosystem-unicorn-boom-exit-test-liquidity-investor-returns-11780908239234.html
 
-- Investors Fled From Bearish Oil Fund at a Record Pace Last Week
-  An exchange-traded product that profits when oil prices fall had its biggest weekly outflow on record. Several buffers that
-  🔗 https://www.livemint.com/market/investors-fled-from-bearish-oil-fund-at-a-record-pace-last-week-11780948490906.html
+- Stocks to watch: Adani Enterprises, Bharti Airtel, RVNL, Vodafone Idea, among key stocks in focus on 9 June
+  Sensex and Nifty 50 are projected to start weakly amid mixed global signals and cautious investor sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-adani-enterprises-bharti-airtel-rvnl-vodafone-idea-among-key-stocks-in-focus-on-9-june-11780970632507.html
 
-- Wall Street rebounds with tech, chipmaker shares
-  Wall Street rebounds with tech
-  🔗 https://www.livemint.com/market/wall-street-rebounds-with-tech-chipmaker-shares-11780944611087.html
+- Is the stock market close to a bottom? Blip in global AI play along with bearish bets suggest so
+  Analysts see signs of a market bottom as FPI long-short ratio falls to a deeply oversold 7.58%. Bearish futures positions hovering near record highs seen in March.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-fpi-foreign-portfolio-investors-market-bottom-nifty-futures-bank-nifty-futures-short-covering-long-short-ratio-11780941852871.html
 
-- RBI unveils dollar-rupee swap window to draw inflows, steady rupee
-  New FCNR and ECB swap windows aim to attract long-term foreign currency deposits
-  🔗 https://www.livemint.com/market/rbi-unveils-dollar-rupee-swap-window-to-draw-inflows-steady-rupee-11780934389319.html
+- Stock market today: Gift Nifty hints muted opening; US-Iran war, gold to crude oil prices — eight stocks to buy or sell
+  Indian stock markets are expected to open flat-to-negative on June 9, 2026. This follows a significant drop on Monday due to geopolitical tensions and rising crude prices.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-opening-us-iran-war-gold-to-crude-oil-prices-eight-stocks-to-buy-or-sell-11780966292686.html
 
-- Rail Vikas Nigam shares to be in focus on Tuesday as company secures  ₹221 crore order
-  Rail Vikas Nigam secured a  ₹221.33 crore EPC contract from South East Central Railway. Despite recent order wins, the stock has faced selling pressure due to weak
-  🔗 https://www.livemint.com/market/stock-market-news/rail-vikas-nigam-shares-to-be-in-focus-on-tuesday-as-company-secures-rs-221-crore-order-11780937638919.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 9 June
+  Gift Nifty was trading around 23,137 level, a discount of nearly 38 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-9-june-11780969531262.html
 
-- SpaceX IPO Puts a Spotlight on How the Newly Wealthy Shop for Financial Advisors
-  Current and former employees are seeking advisors. Some are hoping for
-  🔗 https://www.livemint.com/market/spacex-ipo-puts-a-spotlight-on-how-the-newly-wealthy-shop-for-financial-advisors-11780936741877.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 9 June 2026
+  Bajaj Consumer, Sheela Foam, Caplin Point Lab, SJS Enterprises, and Talbros
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-9-june-2026-11780967265197.html
+
+- How to get Apple's new Siri AI on your iPhone with the iOS 27 developer beta
+  Apple has launched the developer beta for iOS 27 and related OS. Here's how you can
+  🔗 https://www.livemint.com/technology/tech-news/how-to-get-apples-new-siri-ai-on-your-iphone-with-the-ios-27-developer-beta-11780948221545.html
 
 - Siri AI to iOS 27: Every new feature Apple announced at WWDC 2026
   Apple unveiled a host of new features at WWDC 2026, including iOS 27
@@ -96,129 +100,125 @@
   Apple has launched its major update with iOS 27 and macOS Golden Gate
   🔗 https://www.livemint.com/technology/tech-news/apple-launches-ios-27-with-updated-liquid-glass-whats-new-and-which-devices-are-supported-11780938843340.html
 
-- Apple WWDC 2026 LIVE Updates: Apple launches iOS 27, macOS Golden Gate and Siri AI
-  Apple has launched iOS 27, macOS Golden Gate, Siri AI and Apple Intelligence updates for iPhones and other
-  🔗 https://www.livemint.com/technology/tech-news/apple-wwdc-2026-live-updates-ios-27-siri-ai-revamp-macos-27-key-announcements-and-highlights-11780923667605.html
+- Stock Market News, June 8, 2026: Nasdaq Closes Higher After Friday Selloff - WSJ
+  The WSJ predicts the Nasdaq will close higher
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDJ0UU9aUS0yM054cjRhR1Z2ZFZpMV9wZW90cEVDbm9PcXY3VXYzNFU4MG54dWF5eXhGX0hqSklCdHc1U0NHY256MXp2SndEbGJUSDFJWW1WR3ZPVGlUMXd1ODNTNzJRaDJ2VmxLUWFoTHpPNlJDVmFRQlg3cm9CV2hoRzZYSlk?oc=5
 
-- Stock market today: S&P 500, Nasdaq rise on chip stock rebound, Dow slips - Yahoo Finance
-  The S&amp;P 500, Nasdaq rise on
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU9adzRULTh4UFlYNi1EM3pyamI4ZFpzaWFtdXZtSWNKcDg4bnp2dDV2Z0tBbTVsdmhsdFZZQUdYcUZLbUtPZTRJWWphbzd4WjBBeDMtZEVwZDJ4XzVaVklqNWdhTFQ5TEZTSEM2SWpHVEQ0Wmc5S2tFd2VySWV0Y01JWHp4UVFfRmh0R2xVNFp3WmYxWHNCYjliTDZtYVlPX19Hel9MV3F1SU5NRnc?oc=5
-
-- S&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel: Live updates - CNBC
-  P 500 closes higher as chips stage a comeback, Iran stops strikes on
+- S&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel - CNBC
+  P 500 closes higher as chips stage a comeback, Iran stops
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
 
-- Stock Market Today: Nasdaq, S&P 500 Close Higher, Led by Tech Shares; Oil Pares Gains After Iran, Israel Halt Strikes - Investopedia
-  Stock Market Today: Nasdaq, S&amp;P 500 Close Higher, Led by
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNREVTaXBYWTJoZ1Uwam5naVk2WXItdmtBNEtkSHhaZjFQRjl1X3Y3X1dfQ1RGb3Z5SmtuTjN1VVZHWHZYZkp3QlZ4QU5YeXJiNk0wR0lCZy03WTE0RFFpd3VBc3A5aXgtY1RiZFh4bThIUlRNNEk4dkZsVWo1aHcwMVUtN0ROb3h6U3ByQThoQVE?oc=5
+- Stock futures fall as investors assess fragile Iran-Israel ceasefire: Live updates - CNBC
+  Stock futures fall as investors assess fragile Iran-
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5
 
-- Markets will be sensitive to things like credit spreads or rates: Renaissance Macro's Jeff deGraaf - CNBC
-  Markets will be sensitive to things like credit spreads or rates,
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakdmWnhOaVBRQTljMnFFUlhrdDZ1MnlULU5TX0FRVVV3WHQwRzFtMnlkNmQteEZKN0tiSGFKMDM3MUM3OF9UanZPenJuWDZIOHVkWklHcUxlRk04RU5HRERKby1ockw0TjFBTkQ2R1VFbldGeUl6RUVPZDJoeEJ6eVJkMmV1N3ZwRWhaU2x5SG1PcGxWblFMYmNWZUhsQ3N0VFk3LUQ3VlduTmdUaGxRbHNjMDh4LXpXbXVXd3FzWHRCbk9aZS1fZ1lRd05SZGZTNGJZakZB?oc=5
+- Nifty closes at two-month low: What lies ahead for markets? Analysts say bias is bearish - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTUhQWDY3NDVlWlpfZVVhYU5udTZkSUhSRklQXzJpRkdFOXFiYXdLOElLLVlTYXhKRDFRVnlpWHlyeVhKT3pqZWt6aDFnOU1QcmEzMjRZV2ZMdVlrUkhTMmUyU1FmVWhVMH
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTUhQWDY3NDVlWlpfZVVhYU5udTZkSUhSRklQXzJpRkdFOXFiYXdLOElLLVlTYXhKRDFRVnlpWHlyeVhKT3pqZWt6aDFnOU1QcmEzMjRZV2ZMdVlrUkhTMmUyU1FmVWhVMHpCXzVZT29xR29maTl4cWtlRWI2Y25xMUtHRW1ybmM5S1dCVTVHVVlFa21MM0luLUJNOHpKTFVOYmJOdnAzU0ZBMEpIOHc5LUxhdm9pc2FqSVBkZWM0dktVVEk3S0g2d1FJSlBaMm5HeGhIOVpzQ3phNGVQQWNGbGZBUVNFZ9IB6wFBVV95cUxOVDJxcmpKYTdfTnk5aTZQTFFpSVdpSlpjOWt6b1hGY2RoRlVPU1BxYVJSMEdEb25KTEh1NVNvUVNrdjZqUG5iRUk5dEhwSTdLRm9TcFJNNkNxU0pDWnhQMlB5ME5MSG1LNmE5R2FwMWgwWHFYX3ZTTm16LTZhODNDbnQtSzB0UHc3T1BKUlNZV1VvMHRaRXFISG5rR09BNnJ3eFM4OVpObVRQS2wwRDlOOWEzY0VBalJPaTFPRlRnUHJIbFVmakRPRjFFQVVadXBVazlqdXhfZ2R0N21xUXlKNEZ1SGJ3ZHBvZFU0?oc=5
 
-- Equity markets will stabilize and the rally can continue, says Blue Line Capital's Bill Baruch - CNBC
-  Equity markets will stabilize and the rally can continue, says Blue
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0xhcW0yMTBndFRpRHNyWXJIVUxRRlJQU0M0b285TjFoY0NlRWJRZ0VmcjRDdm1IU2p2N1ZxM2t1ZXlmUW1Od0c5dWxNNHpDcGVTQmFTUmt4MkU4Z0ZpRHQxWkJfUDZYdWJSazBRcDduODhhLWZGZi1icVdEejJHRjVsa2hySC1LN0dTcGlQaFhFdTljQUxsT3lINjVEanNNa08xVG5OdV9uT0lhaE8zcGtzcDd1ci1iT0I2NmtLYkU3X0xhVjNr?oc=5
+- SpaceX's stock market blast-off could be Musk's biggest gamble yet - BBC
+  SpaceX's stock market blast-off
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRmdkWkpoUWdXWG1JZ0xYVndIdHc4ZGFEaEFydDlHeFNLQWhVeWxCNjcyRTVZa19hWFk5cXl0ZmRkNG1KODhxeFEtSkcwSC1DT250dGtxT0FBQQ?oc=5
 
-- SpaceX IPO is said to be well oversubscribed, orders close Wednesday
-  SpaceX is offering 555.6 million shares at $135 each. The company is aiming to raise approximately $75 billion and valuing it at about $1.8 trillion.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wednesday/articleshow/131592178.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates | Gift Nifty signals lackluster start; Asian market rebound
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-9-june-2026/liveblog/131599663.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Nifty slipped 1.04% to 23,123, with analysts advising caution and a sell-on-rise strategy. Market breadth remained weak, while select stocks attracted buying interest and several counters hit
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131591609.cms
+- Gold extends falls on rising Treasury yields
+  Gold prices dipped for a third consecutive session. Goldman Sachs anticipates the Fed will hold rates steady through 2026. Citi lowered its near-term gold price target due to expected higher U.S
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-falls-on-rising-treasury-yields/articleshow/131599662.cms
 
-- Promoter entities sell Rs 153 crore worth shares in Motilal Oswal block deal; HDFC Life picks up stake
-  Two promoter-group charitable entities of Motilal Oswal Financial Services sold shares worth about Rs 153 crore. The transaction reflects strong institutional interest in financial-sector stocks.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/promoter-entities-sell-rs-153-crore-worth-shares-in-motilal-oswal-block-deal-hdfc-life-picks-up-stake/articleshow/131591029.cms
+- Dollar hovers around two-month high as Iran-Israel truce hangs in balance
+  The US dollar is nearing a two-month peak. Middle East tensions are fueling demand for the dollar. Traders are also betting on the US Federal Reserve increasing interest rates later this year.
+  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-hovers-around-two-month-high-as-iran-israel-truce-hangs-in-balance/articleshow/131599640.cms
 
-- US stocks: Lilly shares rise on hopes that next-gen drug will extend lead in weight-loss market
-  Lilly presented full data from two retatrutide trials, one in treatment naive type 2 diabetes patients and another in patients
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/lilly-shares-rise-on-hopes-that-next-gen-drug-will-extend-lead-in-weight-loss-market/articleshow/131590978.cms
+- JGB yields rise as investors focus on 30-year auction, BOJ meeting
+  The benchmark 10-year JGB yield has seen a significant rise. Market watchers anticipate a 25 basis point hike at the upcoming central bank meeting.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/jgb-yields-rise-as-investors-focus-on-30-year-auction-boj-meeting/articleshow/131599606.cms
 
-- Government to sell 3% stake in NLC India through OFS, sets floor price at Rs 303
-  The government has launched a two-day offer for sale in NLC India. The issue could raise up to Rs 1,263 crore and forms part of the broader disinvestment programme.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
-  The Times of India published an article about the resignation of the Indian education minister.
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
-
-- 'We don't look at the sky any more': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky any more': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- The Inside Story Of Rivalry Between Khan Sir And Raushan Sir - NDTV
-  The Inside Story Of Rivalry Between Khan Sir
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXlEUWFqWlhVbGhlY1ZHQlpuNWU5VGc4OTFSb3FwZFVRRzJjcEVkX1hfN2hWc3h6SWl6bVo4N1pwVE9XRzZ0TWFwTDlyTm5aTHhuVExZOS1adUJ1U2xZUGx3WUVZNVU4cDAtZnh3dkdVbmVtNFZ5T2hsY3JnVDhHdzJvRDV4cHQ2YXZHblZsVTJIeDczVWxzbWJIWTFyWk42Q29mdWhWcE95bGdtT3NEcUliemtBVzdvWjlKLWNUQ1BzZ9IBygFBVV95cUxQZjJpV1BqQWNxbEV0QVNMWW1sNVNzVUtqOGNoYWhhUlpNZzg2UFpKVmxTSGhCeUJ4Q2JMbmlIajNKWjg5VEJ2NnhuUTNIclFoX1JBN2N6VGIwUkdCYkhYRnhfbmxraXlHbGV5a1ZkajNlTkFvQmh6SndGV0NvenJGVkFjakg3LVFtd1UxSjVZYjR3eThoZmpVb2w1T05SUWtnVzRRT1VEUkZwODVrNzA4by1kU3lrVVA1VE1sTi1PdDVYcTI1VkhGYTB3?oc=5
-
-- 24 Indian sailors rescued from ship hit by U.S. missile - The Hindu
-  24 Indian sailors rescued from ship hit by U
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk44THQzc3RVd2k2ajhqZDcxbktxM0FVdDdURGlGUFU4QTBpY1JReWgyVjU5V0xXX0FXN3pEM3B1RWZDakh1aUMwNzlCQUlTSGUtQmtrXzdQOC1Gak5XMDNycTFyUm9XamtWeW9weWlnRG54U1FKSTZWX1Z4TnAwRzVIZnZub3c4UDlRQ1R0ZHVuWGltb2VGaEl2a1JrVURxTFNXUkhnYnQtUnJIYjl5OXd30gG4AUFVX3lxTFBPVWVTd0RUMy1HM2VUSnhHbDMtcjFkbk02MkZvZEkzV0RsSE9lbnFnNGdkR3RiaTlHdEZHVlhXU0VqVUNPcmNoZm5kMWdfOWtzaWRyU2RwdFY4MW9FXzBrTnczRlBqR1JUT1RGQTc2THRaVkpvNkdKaDJuZU5ha3k4RE80WTlrdjQwYy1QT19pdl8zWWQtQm5EWXJxbWxEdUQtVzFpX3JudFlwU3NaTWFCZDE3VXBDNzE?oc=5
+- Mid and smallcaps get the money as Nifty lags
+  The Advance-Decline Ratio has shown resilience for the past two months. This has led to record highs in midcap and smallcap indices. Large-cap stocks are grappling with foreign selling pressure.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mid-and-smallcaps-get-the-money-as-nifty-lags/articleshow/131599512.cms
 
 - ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
   ‘What if all cockroaches came together?’ The
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
-- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
-  The Times of India published an article about the resignation of the Indian education minister.
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
+  India bloc to take SIR complaints to CJI;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
 
-- 'We don't look at the sky any more': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky any more': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
+- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
+  Fire breaks out on MT Marivex; all Indian
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
 
-- The Inside Story Of Rivalry Between Khan Sir And Raushan Sir - NDTV
-  The Inside Story Of Rivalry Between Khan Sir
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXlEUWFqWlhVbGhlY1ZHQlpuNWU5VGc4OTFSb3FwZFVRRzJjcEVkX1hfN2hWc3h6SWl6bVo4N1pwVE9XRzZ0TWFwTDlyTm5aTHhuVExZOS1adUJ1U2xZUGx3WUVZNVU4cDAtZnh3dkdVbmVtNFZ5T2hsY3JnVDhHdzJvRDV4cHQ2YXZHblZsVTJIeDczVWxzbWJIWTFyWk42Q29mdWhWcE95bGdtT3NEcUliemtBVzdvWjlKLWNUQ1BzZ9IBygFBVV95cUxQZjJpV1BqQWNxbEV0QVNMWW1sNVNzVUtqOGNoYWhhUlpNZzg2UFpKVmxTSGhCeUJ4Q2JMbmlIajNKWjg5VEJ2NnhuUTNIclFoX1JBN2N6VGIwUkdCYkhYRnhfbmxraXlHbGV5a1ZkajNlTkFvQmh6SndGV0NvenJGVkFjakg3LVFtd1UxSjVZYjR3eThoZmpVb2w1T05SUWtnVzRRT1VEUkZwODVrNzA4by1kU3lrVVA1VE1sTi1PdDVYcTI1VkhGYTB3?oc=5
+- Morning Digest: June 9, 2026 - The Hindu
+  The Hindu is a
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
 
-- 24 Indian sailors rescued from ship hit by U.S. missile - The Hindu
-  24 Indian sailors rescued from ship hit by U
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk44THQzc3RVd2k2ajhqZDcxbktxM0FVdDdURGlGUFU4QTBpY1JReWgyVjU5V0xXX0FXN3pEM3B1RWZDakh1aUMwNzlCQUlTSGUtQmtrXzdQOC1Gak5XMDNycTFyUm9XamtWeW9weWlnRG54U1FKSTZWX1Z4TnAwRzVIZnZub3c4UDlRQ1R0ZHVuWGltb2VGaEl2a1JrVURxTFNXUkhnYnQtUnJIYjl5OXd30gG4AUFVX3lxTFBPVWVTd0RUMy1HM2VUSnhHbDMtcjFkbk02MkZvZEkzV0RsSE9lbnFnNGdkR3RiaTlHdEZHVlhXU0VqVUNPcmNoZm5kMWdfOWtzaWRyU2RwdFY4MW9FXzBrTnczRlBqR1JUT1RGQTc2THRaVkpvNkdKaDJuZU5ha3k4RE80WTlrdjQwYy1QT19pdl8zWWQtQm5EWXJxbWxEdUQtVzFpX3JudFlwU3NaTWFCZDE3VXBDNzE?oc=5
-
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
-
-- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
-  The Times of India published an article about the resignation of the Indian education minister.
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
-
-- 'We don't look at the sky any more': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky any more': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
-
-- The Inside Story Of Rivalry Between Khan Sir And Raushan Sir - NDTV
-  The Inside Story Of Rivalry Between Khan Sir
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXlEUWFqWlhVbGhlY1ZHQlpuNWU5VGc4OTFSb3FwZFVRRzJjcEVkX1hfN2hWc3h6SWl6bVo4N1pwVE9XRzZ0TWFwTDlyTm5aTHhuVExZOS1adUJ1U2xZUGx3WUVZNVU4cDAtZnh3dkdVbmVtNFZ5T2hsY3JnVDhHdzJvRDV4cHQ2YXZHblZsVTJIeDczVWxzbWJIWTFyWk42Q29mdWhWcE95bGdtT3NEcUliemtBVzdvWjlKLWNUQ1BzZ9IBygFBVV95cUxQZjJpV1BqQWNxbEV0QVNMWW1sNVNzVUtqOGNoYWhhUlpNZzg2UFpKVmxTSGhCeUJ4Q2JMbmlIajNKWjg5VEJ2NnhuUTNIclFoX1JBN2N6VGIwUkdCYkhYRnhfbmxraXlHbGV5a1ZkajNlTkFvQmh6SndGV0NvenJGVkFjakg3LVFtd1UxSjVZYjR3eThoZmpVb2w1T05SUWtnVzRRT1VEUkZwODVrNzA4by1kU3lrVVA1VE1sTi1PdDVYcTI1VkhGYTB3?oc=5
-
-- 24 Indian sailors rescued from ship hit by U.S. missile - The Hindu
-  24 Indian sailors rescued from ship hit by U
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk44THQzc3RVd2k2ajhqZDcxbktxM0FVdDdURGlGUFU4QTBpY1JReWgyVjU5V0xXX0FXN3pEM3B1RWZDakh1aUMwNzlCQUlTSGUtQmtrXzdQOC1Gak5XMDNycTFyUm9XamtWeW9weWlnRG54U1FKSTZWX1Z4TnAwRzVIZnZub3c4UDlRQ1R0ZHVuWGltb2VGaEl2a1JrVURxTFNXUkhnYnQtUnJIYjl5OXd30gG4AUFVX3lxTFBPVWVTd0RUMy1HM2VUSnhHbDMtcjFkbk02MkZvZEkzV0RsSE9lbnFnNGdkR3RiaTlHdEZHVlhXU0VqVUNPcmNoZm5kMWdfOWtzaWRyU2RwdFY4MW9FXzBrTnczRlBqR1JUT1RGQTc2THRaVkpvNkdKaDJuZU5ha3k4RE80WTlrdjQwYy1QT19pdl8zWWQtQm5EWXJxbWxEdUQtVzFpX3JudFlwU3NaTWFCZDE3VXBDNzE?oc=5
+- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
+  Several Indian workers killed in road accident in Dubai, Consulate
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
 
 - ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
   ‘What if all cockroaches came together?’ The
   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
 
-- Letter to CJI, resignation of education minister: INDIA bloc meeting concludes with consensus on 5 issues - The Times of India
-  The Times of India published an article about the resignation of the Indian education minister.
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxNTUVVaDZjcWRmVEFObDFJaW5vM1FnczJSb1BlZS1WWDh4QXpkc2xLOEljb3ZGc042SnRMV3k2Z25RMXRYcDdsYzVyalgtUTQxUzhMYUxmM0hBQmtNOVBnVzVNZFB1eWRtUDR5ckxpSFFPZkdjWUQ2andIanJmcUV6QjhhQUQ4NFlGZ0FtcWNxTTYyaXdlVGVJb1lHQlJSYk4wU3pnOFA4RWFCSkVjdlM0SnF2TVdONGwxV3hWRG1yNjF1dUYtNUVPYUxrc0JNbENxQWQtQ2sxVS15ZmxaRWxBTlZlU3hJZHViaExXLThwOUl1S3E2U1dEWEJKdmhVb1Bk0gGGAkFVX3lxTE0zRElPN3dJMFlhRlBFU0txZVJiWjhBOVNwc0Zfb0hyNzVlc0RwaHBVc25LOUZQSXNzNWw5X0tpZzZBLXVpbFp3Yzg2VnFIY0NCUTdSOVZuQWpybjZ3SVRWcXhLcUZTZnNKWmxQdDhQeGdIUVlLWk9zcWdvclQ2bzlSVGVIR3F6cDktQndNaGRhNkNpX2o4N1NYc0FEZ1RYYWlOYmhhc2N5anlpcnZtVVNhSUFJZm12MWFBQUVjanZscHhjaVZqbzUwaVBDU1FBWnNaSW9zczhQQnRnalNhLXllQUpPWUpaY1J6MjcwYnB3V2dhZVdCdUljUlJtQzI4VmpXMlJvNkE?oc=5
+- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
+  India bloc to take SIR complaints to CJI;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
 
-- 'We don't look at the sky any more': The Air India crash victims who were not on the plane - BBC
-  'We don't look at the sky any more': The Air India crash victims who
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NblRwUkYzd3FjTGJ6UFJVSkxhaEtWOHB4OE1wWTFpVTJpTGQ4R0Q1cm9KQUFocHhuM0JCcHFnb3BRMkNENWcxckJSTGEwSkJteUFJR3ZON2Qtdw?oc=5
+- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
+  Fire breaks out on MT Marivex; all Indian
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
 
-- The Inside Story Of Rivalry Between Khan Sir And Raushan Sir - NDTV
-  The Inside Story Of Rivalry Between Khan Sir
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWXlEUWFqWlhVbGhlY1ZHQlpuNWU5VGc4OTFSb3FwZFVRRzJjcEVkX1hfN2hWc3h6SWl6bVo4N1pwVE9XRzZ0TWFwTDlyTm5aTHhuVExZOS1adUJ1U2xZUGx3WUVZNVU4cDAtZnh3dkdVbmVtNFZ5T2hsY3JnVDhHdzJvRDV4cHQ2YXZHblZsVTJIeDczVWxzbWJIWTFyWk42Q29mdWhWcE95bGdtT3NEcUliemtBVzdvWjlKLWNUQ1BzZ9IBygFBVV95cUxQZjJpV1BqQWNxbEV0QVNMWW1sNVNzVUtqOGNoYWhhUlpNZzg2UFpKVmxTSGhCeUJ4Q2JMbmlIajNKWjg5VEJ2NnhuUTNIclFoX1JBN2N6VGIwUkdCYkhYRnhfbmxraXlHbGV5a1ZkajNlTkFvQmh6SndGV0NvenJGVkFjakg3LVFtd1UxSjVZYjR3eThoZmpVb2w1T05SUWtnVzRRT1VEUkZwODVrNzA4by1kU3lrVVA1VE1sTi1PdDVYcTI1VkhGYTB3?oc=5
+- Morning Digest: June 9, 2026 - The Hindu
+  The Hindu is a
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
 
-- 24 Indian sailors rescued from ship hit by U.S. missile - The Hindu
-  24 Indian sailors rescued from ship hit by U
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk44THQzc3RVd2k2ajhqZDcxbktxM0FVdDdURGlGUFU4QTBpY1JReWgyVjU5V0xXX0FXN3pEM3B1RWZDakh1aUMwNzlCQUlTSGUtQmtrXzdQOC1Gak5XMDNycTFyUm9XamtWeW9weWlnRG54U1FKSTZWX1Z4TnAwRzVIZnZub3c4UDlRQ1R0ZHVuWGltb2VGaEl2a1JrVURxTFNXUkhnYnQtUnJIYjl5OXd30gG4AUFVX3lxTFBPVWVTd0RUMy1HM2VUSnhHbDMtcjFkbk02MkZvZEkzV0RsSE9lbnFnNGdkR3RiaTlHdEZHVlhXU0VqVUNPcmNoZm5kMWdfOWtzaWRyU2RwdFY4MW9FXzBrTnczRlBqR1JUT1RGQTc2THRaVkpvNkdKaDJuZU5ha3k4RE80WTlrdjQwYy1QT19pdl8zWWQtQm5EWXJxbWxEdUQtVzFpX3JudFlwU3NaTWFCZDE3VXBDNzE?oc=5
+- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
+  Several Indian workers killed in road accident in Dubai, Consulate
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
+  India bloc to take SIR complaints to CJI;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+
+- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
+  Fire breaks out on MT Marivex; all Indian
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+
+- Morning Digest: June 9, 2026 - The Hindu
+  The Hindu is a
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+
+- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
+  Several Indian workers killed in road accident in Dubai, Consulate
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+
+- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
+  ‘What if all cockroaches came together?’ The
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+
+- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
+  India bloc to take SIR complaints to CJI;
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+
+- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
+  Fire breaks out on MT Marivex; all Indian
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+
+- Morning Digest: June 9, 2026 - The Hindu
+  The Hindu is a
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+
+- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
+  Several Indian workers killed in road accident in Dubai, Consulate
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-08 20:10:25 UTC_
+_Last updated: 2026-06-09 02:41:11 UTC_
