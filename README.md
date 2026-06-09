@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- ‘Great Nicobar project will serve strategic interests, emerge as maritime focal point’
+- ‘Praised Mamata Banerjee’s sarees, never raised complaints’: TMC slams rebels
   
-  🔗 https://indianexpress.com/article/india/great-nicobar-project-will-serve-strategic-interests-emerge-as-maritime-focal-point-10730449/
+  🔗 https://indianexpress.com/article/india/praised-mamata-banerjees-sarees-never-raised-complaints-tmc-slams-rebels-10731283/
 
-- Viral video of 11-year-old pushed on stretcher for 1 km in scorching heat sparks outrage at major Indore hospital
+- Zojila tunnel hits breakthrough stage, Nitin Gadkari highlights strategic importance
   
-  🔗 https://indianexpress.com/article/india/viral-video-of-11-year-old-pushed-on-stretcher-for-1-km-in-scorching-heat-sparks-outrage-at-major-indore-hospital-10730390/
+  🔗 https://indianexpress.com/article/india/kashmir-zojila-tunnel-breakthrough-nitin-gadkari-10731203/
 
-- Amid fresh strikes in West Asia, India calls for quick de-escalation, dialogue
+- Twisha case: ‘VIP treatment’ for mother-in-law in prison prompts action
   
-  🔗 https://indianexpress.com/article/india/amid-fresh-strikes-in-west-asia-india-calls-for-quick-de-escalation-dialogue-10730473/
+  🔗 https://indianexpress.com/article/india/twisha-sharma-death-case-giribala-singh-jail-vip-treatment-10730995/
 
-- As row over beef in tiffin spreads, 5 schoolboys in Assam’s Goalpara face expulsion today
+- Congress’s ‘Aurangzeb’ jibe at Rajasthan CM over shifting of temples
   
-  🔗 https://indianexpress.com/article/india/as-row-over-beef-in-tiffin-spreads-5-schoolboys-in-assams-goalpara-face-expulsion-today-10730398/
+  🔗 https://indianexpress.com/article/india/jaipur-temple-demolition-congress-aurangzeb-rajasthan-cm-10730940/
 
-- MoU inked, Bengal finally comes under Ayushman Bharat ambit
+- ED summons Kerala ex-CM Pinarayi Vijayan’s daughter in money laundering probe
   
-  🔗 https://indianexpress.com/article/india/mou-inked-bengal-finally-comes-under-ayushman-bharat-ambit-10730460/
+  🔗 https://indianexpress.com/article/india/ed-summons-veena-pinarayi-vijayan-daughter-cmrl-money-laundering-10730821/
 
-- WWDC 2026 roundup: Siri AI, Apple Intelligence, iOS 26 and more
+- How Apple developed new ‘Siri AI’ to be more ‘personal’ and ‘private’
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/wwdc-2026-roundup-siri-ai-apple-intelligence-ios-26-and-more-10730413/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-apple-developed-new-siri-ai-to-be-more-personal-and-private-10731083/
 
-- Apple’s Siri AI overhaul: A look at key features coming this year
+- Apple unveils iOS 27: Full list of iPhones eligible for the new update
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apples-siri-ai-new-features-wwdc-2026-10730393/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-unveils-ios-27-full-list-of-iphones-eligible-for-the-new-update-10731010/
 
-- At WWDC, Apple unveils its strategy to win consumer AI, starting with a revamped Siri
+- Instagram users can now rearrange posts on their profile grid
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/at-wwdc-apple-unveils-its-strategy-to-win-consumer-ai-starting-with-a-revamped-siri-10730367/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-users-can-now-rearrange-posts-on-their-profile-grid-10730991/
 
-- Hair loss cure? Scientists study an ancient Chinese herb
+- Microplastic pollution can start from your home kitchen, says new study
   
-  🔗 https://indianexpress.com/article/technology/science/polygonum-multiflorum-ancient-chinese-medicine-hair-loss-regrowth-10730036/
+  🔗 https://indianexpress.com/article/technology/science/kitchen-sponge-microplastic-pollution-university-of-bonn-study-10729924/
 
-- Apple WWDC Event 2026 Live Updates: Apple debuts new Siri, AI features, Child Accounts, macOS Golden Gate, and more
+- OpenAI files for US IPO after Anthropic as AI giants head to public markets
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-wwdc-event-2026-live-updates-siri-ai-ios-27-keynote-10729532/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-files-for-us-ipo-after-anthropic-as-ai-giants-head-to-public-markets-10730838/
 
-- Forget Coding! Meta will train you for free and guarantee you a job building its AI data centres
-   Meta has launched a free five-week skilled trades training programme with a guaranteed job for every graduate. Here is everything
-  🔗 https://www.livemint.com/companies/news/meta-launches-115-million-data-center-job-guarantee-all-about-workforce-academy-to-train-workers-to-build-data-cent-11780967504709.html
+- Rajiv Bajaj to step down from Bajaj Finserv board, will not seek re-election at 2026 AGM
+  Bajaj Finserv's non-executive director Rajiv Bajaj will exit the board due to
+  🔗 https://www.livemint.com/companies/news/rajiv-bajaj-to-step-down-from-bajaj-finserv-board-will-not-seek-re-election-at-2026-agm-11780994806159.html
 
-- Tata Sons won't discuss Chandrasekaran's third term at board meet on Friday
-  Tata Sons' board is not expected to discuss a third term for chairman N Chandrasekaran. The board will instead focus on the group's FY26 performance and plans.
-  🔗 https://www.livemint.com/companies/tata-sons-will-not-discuss-chandrasekaran-s-third-term-at-friday-s-board-meeting-11780931184043.html
+- N Chandrasekaran says TCS will have as many AI agents as employees in 3 years
+  TCS Chairman N Chandrasekaran has predicted that the company could match its human workforce with the
+  🔗 https://www.livemint.com/companies/news/n-chandrasekaran-says-tcs-will-have-as-many-ai-agents-as-employees-in-3-years-11780993716936.html
 
-- GMR flags weak H1 air traffic, pins FY27 growth on new airports
-  Airline fleet shortages and route cuts are expected to keep passenger traffic subdued through September. GMR Airports banking on Bhogapur
-  🔗 https://www.livemint.com/companies/gmr-new-airports-passenger-traffic-india-aviation-sector-west-asia-war-11780886796425.html
+- Zepto leans on ads to offset lower commissions, keep product prices low
+  Zepo is increasingly using advertising revenue to offset lower merchant commissions and support competitive
+  🔗 https://www.livemint.com/companies/zepto-advertising-revenue-surges-as-quick-commerce-profitability-remains-elusive-11780946702501.html
 
-- How a luxury carmaker comes to the rescue of Tata’s tech arms amid a broader sectoral slowdown
-  Jaguar Land Rover (JLR) remains crucial for Tata Group's tech firms amid IT sector challenges. Tata Technologies seeks approval for  ₹1,750 crore
-  🔗 https://www.livemint.com/companies/jlr-luxury-carmaker-cash-cow-tata-group-tech-companies-sectoral-slowdown-11780915746287.html
+- SC brings curtain down on India’s first class action suit, refers Jindal Poly dispute to arbitration
+  The Supreme Court has referred the dispute between minority shareholders and Jindal Poly Films Ltd. to arbitration. Both sides agreed to
+  🔗 https://www.livemint.com/companies/jindal-poly-class-action-suit-india-jindal-poly-vs-minority-shareholders-india-arbitration-11780991365545.html
 
-- India's unicorns' next test: Delivering investor exits
-  Can India's billion
-  🔗 https://www.livemint.com/companies/start-ups/india-startup-ecosystem-unicorn-boom-exit-test-liquidity-investor-returns-11780908239234.html
+- SpiceJet funding crunch delays pilots salaries, messages show, as it seeks state-backed loan: Report
+  SpiceJet was India's second-largest domestic carrier by market share in 2019, carrying roughly 15% of
+  🔗 https://www.livemint.com/companies/news/spicejet-funding-crunch-delays-pilots-salaries-messages-show-as-it-seeks-state-backed-loan-report-11780992899920.html
 
-- Stocks to watch: Adani Enterprises, Bharti Airtel, RVNL, Vodafone Idea, among key stocks in focus on 9 June
-  Sensex and Nifty 50 are projected to start weakly amid mixed global signals and cautious investor sentiment.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-adani-enterprises-bharti-airtel-rvnl-vodafone-idea-among-key-stocks-in-focus-on-9-june-11780970632507.html
+- Genxai Analytics IPO Day 3: GMP signals 5% listing gains; check subscription status and other details
+  Genxai Analytics IPO, closing today, has received strong investor interest. The offering includes 0.47 crore shares priced between
+  🔗 https://www.livemint.com/market/ipo/genxai-analytics-ipo-day-3-gmp-signals-5-listing-gains-check-subscription-status-and-other-details-11780996852029.html
 
-- Is the stock market close to a bottom? Blip in global AI play along with bearish bets suggest so
-  Analysts see signs of a market bottom as FPI long-short ratio falls to a deeply oversold 7.58%. Bearish futures positions hovering near record highs seen in March.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-fpi-foreign-portfolio-investors-market-bottom-nifty-futures-bank-nifty-futures-short-covering-long-short-ratio-11780941852871.html
+- SpaceX IPO: Can Indian investors buy stake in Elon Musk’s company in $75 billion public issue
+  SpaceX is debuting on Nasdaq on 12 June with shares priced at $135. Up to 25% of shares could go to retail investors, but direct access may be
+  🔗 https://www.livemint.com/market/spacex-ipo-can-indian-investors-buy-stake-in-elon-musk-s-company-in-75-billion-public-issue-11780986761738.html
 
-- Stock market today: Gift Nifty hints muted opening; US-Iran war, gold to crude oil prices — eight stocks to buy or sell
-  Indian stock markets are expected to open flat-to-negative on June 9, 2026. This follows a significant drop on Monday due to geopolitical tensions and rising crude prices.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-opening-us-iran-war-gold-to-crude-oil-prices-eight-stocks-to-buy-or-sell-11780966292686.html
+- Top defence stocks to buy now: HAL, Zen Technologies, Bharat Electronics, Apollo Micro in Choice Broking’s list
+  India's defence sector is poised for growth with robust order books and increasing local production. Key companies such as HAL, BEL, and Zen Technologies are well-positioned to
+  🔗 https://www.livemint.com/market/stock-market-news/top-defence-stocks-to-buy-now-hal-zen-technologies-bharat-electronics-apollo-micro-bel-in-choice-broking-list-11780992117630.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 9 June
-  Gift Nifty was trading around 23,137 level, a discount of nearly 38 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-9-june-11780969531262.html
+- JNK India shares surge over 17% to 15-month high after securing international order
+  JNK India shares surged 17.22% to  ₹489.40 after winning a significant order from CC7 Emirates Engineering for waste
+  🔗 https://www.livemint.com/market/stock-market-news/jnk-india-shares-surge-over-17-to-15-month-high-after-securing-international-order-11780994560166.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 9 June 2026
-  Bajaj Consumer, Sheela Foam, Caplin Point Lab, SJS Enterprises, and Talbros
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-9-june-2026-11780967265197.html
+- Copper Resumes Gains as Mideast Tensions Ease, Stocks Rebound
+  Copper resumed its advance along with other industrial metals as tensions eased in
+  🔗 https://www.livemint.com/market/copper-resumes-gains-as-mideast-tensions-ease-stocks-rebound-11780995282401.html
+
+- Anthropic to launch Mythos AI model tomorrow with advanced reasoning features: Report
+  Anthropic is set to launch its powerful Mythos AI model publicly. The launch could happen
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-to-launch-mythos-ai-model-tomorrow-with-advanced-reasoning-features-report-11780987245282.html
+
+- WWDC 2026: Apple redesigns iPhone parental controls introducing strict new Time Allowances and web approvals
+  Apple announced expanded child safety and parental control features at WWDC 2026. The new features
+  🔗 https://www.livemint.com/technology/tech-news/wwdc-2026-apple-redesigns-iphone-parental-controls-introducing-strict-new-time-allowances-and-web-approvals-11780982816567.html
 
 - How to get Apple's new Siri AI on your iPhone with the iOS 27 developer beta
   Apple has launched the developer beta for iOS 27 and related OS. Here's how you can
@@ -92,161 +100,165 @@
   Apple unveils new AI features with privacy focus at developers
   🔗 https://www.livemint.com/technology/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook-11780944861529.html
 
-- Apple launches Siri AI with personal context, app actions and Visual Intelligence: Check top 5 new features
-  Apple has announced a significant Siri update featuring a new design,
-  🔗 https://www.livemint.com/technology/tech-news/apple-launches-siri-ai-with-personal-context-app-actions-and-visual-intelligence-check-top-5-new-features-11780940080202.html
-
-- Apple launches iOS 27 with updated Liquid Glass: What's new and which devices are supported
-  Apple has launched its major update with iOS 27 and macOS Golden Gate
-  🔗 https://www.livemint.com/technology/tech-news/apple-launches-ios-27-with-updated-liquid-glass-whats-new-and-which-devices-are-supported-11780938843340.html
-
-- Stock Market News, June 8, 2026: Nasdaq Closes Higher After Friday Selloff - WSJ
-  The WSJ predicts the Nasdaq will close higher
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDJ0UU9aUS0yM054cjRhR1Z2ZFZpMV9wZW90cEVDbm9PcXY3VXYzNFU4MG54dWF5eXhGX0hqSklCdHc1U0NHY256MXp2SndEbGJUSDFJWW1WR3ZPVGlUMXd1ODNTNzJRaDJ2VmxLUWFoTHpPNlJDVmFRQlg3cm9CV2hoRzZYSlk?oc=5
-
 - S&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel - CNBC
   P 500 closes higher as chips stage a comeback, Iran stops
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5
 
-- Stock futures fall as investors assess fragile Iran-Israel ceasefire: Live updates - CNBC
-  Stock futures fall as investors assess fragile Iran-
+- Stock market today: S&P 500, Nasdaq rise on chip stock rebound, Dow slips - Yahoo Finance
+  The S&amp;P 500, Nasdaq rise on
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU9adzRULTh4UFlYNi1EM3pyamI4ZFpzaWFtdXZtSWNKcDg4bnp2dDV2Z0tBbTVsdmhsdFZZQUdYcUZLbUtPZTRJWWphbzd4WjBBeDMtZEVwZDJ4XzVaVklqNWdhTFQ5TEZTSEM2SWpHVEQ0Wmc5S2tFd2VySWV0Y01JWHp4UVFfRmh0R2xVNFp3WmYxWHNCYjliTDZtYVlPX19Hel9MV3F1SU5NRnc?oc=5
+
+- U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates - CNBC
+  U.S. stock futures rise as chip rebound lifts S&amp;
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5
 
-- Nifty closes at two-month low: What lies ahead for markets? Analysts say bias is bearish - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTUhQWDY3NDVlWlpfZVVhYU5udTZkSUhSRklQXzJpRkdFOXFiYXdLOElLLVlTYXhKRDFRVnlpWHlyeVhKT3pqZWt6aDFnOU1QcmEzMjRZV2ZMdVlrUkhTMmUyU1FmVWhVMH
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTUhQWDY3NDVlWlpfZVVhYU5udTZkSUhSRklQXzJpRkdFOXFiYXdLOElLLVlTYXhKRDFRVnlpWHlyeVhKT3pqZWt6aDFnOU1QcmEzMjRZV2ZMdVlrUkhTMmUyU1FmVWhVMHpCXzVZT29xR29maTl4cWtlRWI2Y25xMUtHRW1ybmM5S1dCVTVHVVlFa21MM0luLUJNOHpKTFVOYmJOdnAzU0ZBMEpIOHc5LUxhdm9pc2FqSVBkZWM0dktVVEk3S0g2d1FJSlBaMm5HeGhIOVpzQ3phNGVQQWNGbGZBUVNFZ9IB6wFBVV95cUxOVDJxcmpKYTdfTnk5aTZQTFFpSVdpSlpjOWt6b1hGY2RoRlVPU1BxYVJSMEdEb25KTEh1NVNvUVNrdjZqUG5iRUk5dEhwSTdLRm9TcFJNNkNxU0pDWnhQMlB5ME5MSG1LNmE5R2FwMWgwWHFYX3ZTTm16LTZhODNDbnQtSzB0UHc3T1BKUlNZV1VvMHRaRXFISG5rR09BNnJ3eFM4OVpObVRQS2wwRDlOOWEzY0VBalJPaTFPRlRnUHJIbFVmakRPRjFFQVVadXBVazlqdXhfZ2R0N21xUXlKNEZ1SGJ3ZHBvZFU0?oc=5
+- Sensex, Nifty rebound in early trade tracking recovery in global markets - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQTy1uSG1qUktkb3hFRU9kS29yUWxPNG1hSDNYR0YwUFotWFJCQVpGY18tVjdlb2FUU1g3NGdZSU1Jd2Q4YXpobXM3ODJ6X3lWaXhrQ2daZkdyNVlLTUlJOEtVd2VQVG1TaW
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQTy1uSG1qUktkb3hFRU9kS29yUWxPNG1hSDNYR0YwUFotWFJCQVpGY18tVjdlb2FUU1g3NGdZSU1Jd2Q4YXpobXM3ODJ6X3lWaXhrQ2daZkdyNVlLTUlJOEtVd2VQVG1TaWNCMmRYZ1h5Y2hwdDdZcVVhemIwdmFPWnIyUUpSTV83X2Fpb2NZTEVCVkVoSlhZbm5WM3kwWUVCeUdZeWY3VmZhVThiSUltLXBRSDlpOTd3YXZtTkFacUtaZVB3a0lvcW1GQ0xQQdIB1AFBVV95cUxNcTdkdzBIb2lnUkZZS2tTZmNqMjVPTXliT2Nyakl0QzdXZ1lSd0lhdUZpZmFvTEpob3JyN1VmTnJyYjhQQ25yYzJobFk4YW9oQUhqc3RqSjVJamNlZXJlM1NSajl4TFV4LW01bWlxRFMyY3ItZEczVXVqa1FJTGMtcHk5OS1ld050X3pqLW1ERWFnb3lUeXVreXJFX1hsS1ZEQW1qTjBMMzlpSXpJSnV2UzJvV19nX0o4N09uc2VQQWh0WnNNa3pRWU01RldmQXY3elJPZw?oc=5
 
-- SpaceX's stock market blast-off could be Musk's biggest gamble yet - BBC
-  SpaceX's stock market blast-off
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRmdkWkpoUWdXWG1JZ0xYVndIdHc4ZGFEaEFydDlHeFNLQWhVeWxCNjcyRTVZa19hWFk5cXl0ZmRkNG1KODhxeFEtSkcwSC1DT250dGtxT0FBQQ?oc=5
+- FTSE 100 Live: UK Stocks Fall as Oil and Health Shares Drag - Bloomberg
+  FTSE 100 Live: UK Stocks Fall
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaC1zbVFWNVR5OHhSb3BnRlFuT0FETmxsMkItV1NEN3NfUmJvWU9XeFhzLVBUTDlqQ1p3ZE4zMi1FMUR5d3VHU2NNQzNQVXhhVXR4cnNfcWtxUjlZN1hvUTBMakxoTkN5N01ycG0xR1llNFU5MVpZcWhDX2hkN3Y3UDFjT2NuMFBwM3kxeWJnZzlYcFJZV1dfZUdWOFBFTmdoanYtV0h3YUgwbmhDRmlDZ0syZVd2ZUU4WThJM0tCaGVqWmE4UTJET1hNNXNnSkN3OXYycjlDS1JnVXpsRjN4akszMm9TbHJiTVFTN0VsU0x4aV9oYzFKLVFn?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates | Gift Nifty signals lackluster start; Asian market rebound
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-9-june-2026/liveblog/131599663.cms
+- Global Markets: Japan's Nikkei ends higher as chip-related heavyweights jump
+  The Nikkei was ‌choppy
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-ends-higher-as-chip-related-heavyweights-jump/articleshow/131606294.cms
 
-- Gold extends falls on rising Treasury yields
-  Gold prices dipped for a third consecutive session. Goldman Sachs anticipates the Fed will hold rates steady through 2026. Citi lowered its near-term gold price target due to expected higher U.S
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-falls-on-rising-treasury-yields/articleshow/131599662.cms
+- China escaped middle income trap  but India still stuck in it; 4 economists debate if 6.5% growth is enough for Viksit Bharat
+  India's economic growth rate is robust, but experts caution it may not be sufficient for significant wealth creation. A key concern is the lack of private corporate investment, hindering job creation and income growth. Foreign investment is also facing challenges.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/china-escaped-middle-income-trap-but-india-still-stuck-in-it-4-economists-debate-if-6-5-growth-is-enough-for-viksit-bharat/articleshow/131605944.cms
 
-- Dollar hovers around two-month high as Iran-Israel truce hangs in balance
-  The US dollar is nearing a two-month peak. Middle East tensions are fueling demand for the dollar. Traders are also betting on the US Federal Reserve increasing interest rates later this year.
-  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-hovers-around-two-month-high-as-iran-israel-truce-hangs-in-balance/articleshow/131599640.cms
+- Ola Electric shares jump 10%, surge 120% in just 12 weeks. Does this rally have more steam left?
+  Shares of Ola Electric Mobility surged 10% on Tuesday, extending a sharp rebound that has lifted the stock nearly 120% from its March low. Despite the rally, shares remain over 31% below their 52-week high and far from
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-jump-10-surge-120-in-just-12-weeks-does-this-rally-have-more-steam-left/articleshow/131605543.cms
 
-- JGB yields rise as investors focus on 30-year auction, BOJ meeting
-  The benchmark 10-year JGB yield has seen a significant rise. Market watchers anticipate a 25 basis point hike at the upcoming central bank meeting.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/jgb-yields-rise-as-investors-focus-on-30-year-auction-boj-meeting/articleshow/131599606.cms
+- Zepto IPO: 8 things to know about quick commerce giant's Rs 9,500-crore public offer
+  The Rs 9,500 crore IPO will be the first standalone quick commerce listing in India. The issue will fund expansion, technology upgrades, and marketing, despite continued losses.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zepto-ipo-8-things-to-know-about-quick-commerce-giants-rs-9500-crore-public-offer/slideshow/131605252.cms
 
-- Mid and smallcaps get the money as Nifty lags
-  The Advance-Decline Ratio has shown resilience for the past two months. This has led to record highs in midcap and smallcap indices. Large-cap stocks are grappling with foreign selling pressure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mid-and-smallcaps-get-the-money-as-nifty-lags/articleshow/131599512.cms
+- DIIs' net purchases cross Rs 4 lakh crore on Dalal Street in 2026 while FIIs run away
+  DIIs have remained strong buyers of Indian equities in 2026, with net purchases crossing Rs 4.16 lakh crore. In contrast, foreign institutional investors (FIIs) have stayed bearish
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diis-net-purchases-cross-rs-4-lakh-crore-on-dalal-street-in-2026-while-fiis-run-away/articleshow/131604429.cms
 
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+- India’s fertility rate falls below replacement level: Why it matters - Al Jazeera
+  India's fertility rate falls below replacement level.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG1IOW5LT0hrWUlvLUV3eUNXSHhwZ094S2NDSzFhWWgzbzlQSllKNHRPdDJCMk9ocGQyb0FBc1pEaE5OZ2ZQUVBLRDg5ZE9KY1NBVVJTVS1wSUhSZERVNTNaSFhXRzJXQ2lvOWJiWmU3WkFNYy14T3V1NTdzLVNzSG5yRFRBbXUtb0JXS08tYVEzcm14bEFNbzByXzJnYTdaaURfQUZCQ1lOQdIBrwFBVV95cUxNV2Y4eVZFTU5ZdF9ENmNkZzJDQ0FDeTVqRGxZSExPNXRtak5rVTFsbkxUd3laMzBJaE5IRmFyWmYtakw1MFlZMXFHR1k1WV96R0YzM2ZEUlZBcmhPX3dMU0V2WkFCQ3ZMa1BwMzNLLUd5MHhwSWxlZFdfaGpHNlhfU29VaTBRVWh0WDA4LVlpWlJDU1Ezek1iZW1teTZwSzdVREx6RzFSaWJaQUxvZlNJ?oc=5
 
-- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
-  India bloc to take SIR complaints to CJI;
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
 
-- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
-  Fire breaks out on MT Marivex; all Indian
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+- India's growth story faces its toughest test yet in Modi’s third term - CNBC
+  India's growth story faces its toughest test yet in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
 
-- Morning Digest: June 9, 2026 - The Hindu
-  The Hindu is a
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
+  In A First, India Deploys 12 Nuclear Warheads
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
 
-- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
-  Several Indian workers killed in road accident in Dubai, Consulate
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+- Why A US Trade Law Is Holding Up Deal With India - NDTV
+  A US Trade Law Is Holding Up Deal With
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkpPaGZEbUF2QWZucEViUklrZGpCQ25QSnF0UlZuMVlQWEFnbHlhT0xrc0NIQlpwS1liTjZXMUJDemt0QlhFbFVPUnVNall5N0V5a1NETjYyUDdxQlBuS1FRRmpNWGFhNUgtSi1sejJRRkZJYk9qZHZFdWRwdDF1NTBmWG1CV2Y4OWVoTTg0RG01cVXSAZsBQVVfeXFMT0JpRU84ckJ5eEt5aEg5LUhybTExcGNBbGNyTW50NU9paHpjSnZnLTNUdkZYaFJ2RWpvV2czZHU1cWxNODhONUpPZU03SEdaVTdKTVI3aDN1VEYxcV9TYTlYNnVPeU5meFdoV3BUZ0FkTjd3TnRJdEdrUnBmZXNQZWxGUWZhZWdib1gxWDVsOXg2UjBUNXZ1WGtkRjQ?oc=5
 
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+- India’s fertility rate falls below replacement level: Why it matters - Al Jazeera
+  India's fertility rate falls below replacement level.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG1IOW5LT0hrWUlvLUV3eUNXSHhwZ094S2NDSzFhWWgzbzlQSllKNHRPdDJCMk9ocGQyb0FBc1pEaE5OZ2ZQUVBLRDg5ZE9KY1NBVVJTVS1wSUhSZERVNTNaSFhXRzJXQ2lvOWJiWmU3WkFNYy14T3V1NTdzLVNzSG5yRFRBbXUtb0JXS08tYVEzcm14bEFNbzByXzJnYTdaaURfQUZCQ1lOQdIBrwFBVV95cUxNV2Y4eVZFTU5ZdF9ENmNkZzJDQ0FDeTVqRGxZSExPNXRtak5rVTFsbkxUd3laMzBJaE5IRmFyWmYtakw1MFlZMXFHR1k1WV96R0YzM2ZEUlZBcmhPX3dMU0V2WkFCQ3ZMa1BwMzNLLUd5MHhwSWxlZFdfaGpHNlhfU29VaTBRVWh0WDA4LVlpWlJDU1Ezek1iZW1teTZwSzdVREx6RzFSaWJaQUxvZlNJ?oc=5
 
-- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
-  India bloc to take SIR complaints to CJI;
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
 
-- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
-  Fire breaks out on MT Marivex; all Indian
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+- India's growth story faces its toughest test yet in Modi’s third term - CNBC
+  India's growth story faces its toughest test yet in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
 
-- Morning Digest: June 9, 2026 - The Hindu
-  The Hindu is a
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
+  In A First, India Deploys 12 Nuclear Warheads
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
 
-- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
-  Several Indian workers killed in road accident in Dubai, Consulate
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+- Why A US Trade Law Is Holding Up Deal With India - NDTV
+  A US Trade Law Is Holding Up Deal With
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkpPaGZEbUF2QWZucEViUklrZGpCQ25QSnF0UlZuMVlQWEFnbHlhT0xrc0NIQlpwS1liTjZXMUJDemt0QlhFbFVPUnVNall5N0V5a1NETjYyUDdxQlBuS1FRRmpNWGFhNUgtSi1sejJRRkZJYk9qZHZFdWRwdDF1NTBmWG1CV2Y4OWVoTTg0RG01cVXSAZsBQVVfeXFMT0JpRU84ckJ5eEt5aEg5LUhybTExcGNBbGNyTW50NU9paHpjSnZnLTNUdkZYaFJ2RWpvV2czZHU1cWxNODhONUpPZU03SEdaVTdKTVI3aDN1VEYxcV9TYTlYNnVPeU5meFdoV3BUZ0FkTjd3TnRJdEdrUnBmZXNQZWxGUWZhZWdib1gxWDVsOXg2UjBUNXZ1WGtkRjQ?oc=5
 
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+- India’s fertility rate falls below replacement level: Why it matters - Al Jazeera
+  India's fertility rate falls below replacement level.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG1IOW5LT0hrWUlvLUV3eUNXSHhwZ094S2NDSzFhWWgzbzlQSllKNHRPdDJCMk9ocGQyb0FBc1pEaE5OZ2ZQUVBLRDg5ZE9KY1NBVVJTVS1wSUhSZERVNTNaSFhXRzJXQ2lvOWJiWmU3WkFNYy14T3V1NTdzLVNzSG5yRFRBbXUtb0JXS08tYVEzcm14bEFNbzByXzJnYTdaaURfQUZCQ1lOQdIBrwFBVV95cUxNV2Y4eVZFTU5ZdF9ENmNkZzJDQ0FDeTVqRGxZSExPNXRtak5rVTFsbkxUd3laMzBJaE5IRmFyWmYtakw1MFlZMXFHR1k1WV96R0YzM2ZEUlZBcmhPX3dMU0V2WkFCQ3ZMa1BwMzNLLUd5MHhwSWxlZFdfaGpHNlhfU29VaTBRVWh0WDA4LVlpWlJDU1Ezek1iZW1teTZwSzdVREx6RzFSaWJaQUxvZlNJ?oc=5
 
-- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
-  India bloc to take SIR complaints to CJI;
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
 
-- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
-  Fire breaks out on MT Marivex; all Indian
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+- India's growth story faces its toughest test yet in Modi’s third term - CNBC
+  India's growth story faces its toughest test yet in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
 
-- Morning Digest: June 9, 2026 - The Hindu
-  The Hindu is a
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
+  In A First, India Deploys 12 Nuclear Warheads
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
 
-- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
-  Several Indian workers killed in road accident in Dubai, Consulate
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+- Why A US Trade Law Is Holding Up Deal With India - NDTV
+  A US Trade Law Is Holding Up Deal With
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkpPaGZEbUF2QWZucEViUklrZGpCQ25QSnF0UlZuMVlQWEFnbHlhT0xrc0NIQlpwS1liTjZXMUJDemt0QlhFbFVPUnVNall5N0V5a1NETjYyUDdxQlBuS1FRRmpNWGFhNUgtSi1sejJRRkZJYk9qZHZFdWRwdDF1NTBmWG1CV2Y4OWVoTTg0RG01cVXSAZsBQVVfeXFMT0JpRU84ckJ5eEt5aEg5LUhybTExcGNBbGNyTW50NU9paHpjSnZnLTNUdkZYaFJ2RWpvV2czZHU1cWxNODhONUpPZU03SEdaVTdKTVI3aDN1VEYxcV9TYTlYNnVPeU5meFdoV3BUZ0FkTjd3TnRJdEdrUnBmZXNQZWxGUWZhZWdib1gxWDVsOXg2UjBUNXZ1WGtkRjQ?oc=5
 
-- ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics - The Guardian
-  ‘What if all cockroaches came together?’ The
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPRDhFVDFpTEp3ZmU4LVg1RWpzWW5qWVpSS2Jic19yZUt0VHBLWl9XMkpmT0ZUU2pMWGpNbWJhZ2QwN1hYVmtNQ0s1RDRjWWNjd2tLNFZJalk3UWNmYmc1VEtsN25BN1k4dy1FRzJBOVdnZ210TVlkRFRSeWtqSjUwM21LVzBuVG9VaXIxRE12MWFIRDYwZ1A5TXh4bG1qUQ?oc=5
+- India’s fertility rate falls below replacement level: Why it matters - Al Jazeera
+  India's fertility rate falls below replacement level.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG1IOW5LT0hrWUlvLUV3eUNXSHhwZ094S2NDSzFhWWgzbzlQSllKNHRPdDJCMk9ocGQyb0FBc1pEaE5OZ2ZQUVBLRDg5ZE9KY1NBVVJTVS1wSUhSZERVNTNaSFhXRzJXQ2lvOWJiWmU3WkFNYy14T3V1NTdzLVNzSG5yRFRBbXUtb0JXS08tYVEzcm14bEFNbzByXzJnYTdaaURfQUZCQ1lOQdIBrwFBVV95cUxNV2Y4eVZFTU5ZdF9ENmNkZzJDQ0FDeTVqRGxZSExPNXRtak5rVTFsbkxUd3laMzBJaE5IRmFyWmYtakw1MFlZMXFHR1k1WV96R0YzM2ZEUlZBcmhPX3dMU0V2WkFCQ3ZMa1BwMzNLLUd5MHhwSWxlZFdfaGpHNlhfU29VaTBRVWh0WDA4LVlpWlJDU1Ezek1iZW1teTZwSzdVREx6RzFSaWJaQUxvZlNJ?oc=5
 
-- INDIA bloc to take SIR complaints to CJI; seeks Pradhan’s immediate exit - The Hindu
-  India bloc to take SIR complaints to CJI;
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBtV05RUXJPZUpla1Z2NEo0RXBhaG5ScHhnUDVWekVkTHRIZFQ5RGdLRmxHZXFHOXk5RG5CdVdXS0hzLXFkZTdkWnZSZGFadi16TjVXdDdVbWtYWkQzYkM3TGFtQVd1SkhZTndSMUExZmNRT2U5MkNjc0N6T3NpWkNkSkxFd29BekhCWm9aT2pBbHJoeHh6dWJZUmMtc0ZIUXcyZkRsQ3pCVUQtc3gxam5R0gG4AUFVX3lxTFBsTmItb192RnhpUVNWd3dTakNvN3owU3p2QjQ4MU9VRjExalEwWGxEcjgxS2ZpM3NXb096dG10bXFTOEdlY1dFOW5BZGtIcVRqZEZoeWtxdC1pdXh1UkxtNUtEUHdfMnZoMFhEdnFuZzJKQ241LU9ULTBzR2x6MTJFN2UyN3M2VlQ0R1ZaRVFUUk1LN3pTUkFvM3YzZkRlMThfd3UySGJ5Wk90OWQxbVNiV2xLanVCVFQ?oc=5
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
 
-- Fire breaks out on MT Marivex; all Indian seafarers rescued safely - News On AIR
-  Fire breaks out on MT Marivex; all Indian
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmVZajFleW1PbTFJbnBfam1WbHlwRmxsd2lGempzMlRpWEVBOFNhVkFHUTJKeTRZaG5DeUxxMmZIdjdiSk82UXptUW5fbTNYZ0IxZWsyRnNrS2tMU1BxcjEta3pQS1dicjFhSHlFdTRHVnJydE9TUlZCUXR2NzlFWGhHZW5WbTRFUzJxS1c3NnlCaGVuN1E?oc=5
+- India's growth story faces its toughest test yet in Modi’s third term - CNBC
+  India's growth story faces its toughest test yet in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
 
-- Morning Digest: June 9, 2026 - The Hindu
-  The Hindu is a
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXI1Z2FSMDctZlZHRkNWS3hSZjZTT3d3QnM5SWdoTk9SZWc1MExyTGZCYzg1bUhhUGR5WlZIR2pueU1XOWJManI0eEl3Xzc4Yjh5WVgwQW9hVUpKdmVEdUREZlEweGt3ZHJOUHg3N1BjbjZUOWpyYnpSczc0Y0tMVzQwQWdfZktqdmw0V0l5Z9IBlgFBVV95cUxPbnRWazlFY210TEowWGNtbU15WERsVV9Ta2dxdHpKclh6NTl4TGYyRFhjcktCakpaOWhYWV9YX191X2Q0Mjc0eWRpTTEwbFZiekFGcDEzcDFlUTRqUTZDa2ZFd1ZZdk5sRi1PR3B0N093cHNsSGltSGppcWhsQ0JNdmFLSnpvWWdRTWZpZHdUZGVzMW5Uc1E?oc=5
+- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
+  In A First, India Deploys 12 Nuclear Warheads
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
 
-- Several Indian workers killed in road accident in Dubai, Consulate extends assistance - News On AIR
-  Several Indian workers killed in road accident in Dubai, Consulate
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNMG5LMXRXNm94ZzlRU3JTSGZKYVFvMS1PdUdvcW5EU0hPajdMcThGZXJOM0NRZ01DSWlZUkRtWjI2ZU92M0RNOEo3U25LMzJRVWlpYWt4SHNrQ3N1QlFfQm4ySy1LYl9iMmhUTFZPUF9adUNPVksxVEtQMGdTMmZqSmxnQnROT1h1YXlaLXcza085Vl8wUjdJOEI1Qlp2ZDlxSzBMVXZVelV5cnhhQ09n?oc=5
+- Why A US Trade Law Is Holding Up Deal With India - NDTV
+  A US Trade Law Is Holding Up Deal With
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkpPaGZEbUF2QWZucEViUklrZGpCQ25QSnF0UlZuMVlQWEFnbHlhT0xrc0NIQlpwS1liTjZXMUJDemt0QlhFbFVPUnVNall5N0V5a1NETjYyUDdxQlBuS1FRRmpNWGFhNUgtSi1sejJRRkZJYk9qZHZFdWRwdDF1NTBmWG1CV2Y4OWVoTTg0RG01cVXSAZsBQVVfeXFMT0JpRU84ckJ5eEt5aEg5LUhybTExcGNBbGNyTW50NU9paHpjSnZnLTNUdkZYaFJ2RWpvV2czZHU1cWxNODhONUpPZU03SEdaVTdKTVI3aDN1VEYxcV9TYTlYNnVPeU5meFdoV3BUZ0FkTjd3TnRJdEdrUnBmZXNQZWxGUWZhZWdib1gxWDVsOXg2UjBUNXZ1WGtkRjQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- India’s fertility rate falls below replacement level: Why it matters - Al Jazeera
+  India's fertility rate falls below replacement level.
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG1IOW5LT0hrWUlvLUV3eUNXSHhwZ094S2NDSzFhWWgzbzlQSllKNHRPdDJCMk9ocGQyb0FBc1pEaE5OZ2ZQUVBLRDg5ZE9KY1NBVVJTVS1wSUhSZERVNTNaSFhXRzJXQ2lvOWJiWmU3WkFNYy14T3V1NTdzLVNzSG5yRFRBbXUtb0JXS08tYVEzcm14bEFNbzByXzJnYTdaaURfQUZCQ1lOQdIBrwFBVV95cUxNV2Y4eVZFTU5ZdF9ENmNkZzJDQ0FDeTVqRGxZSExPNXRtak5rVTFsbkxUd3laMzBJaE5IRmFyWmYtakw1MFlZMXFHR1k1WV96R0YzM2ZEUlZBcmhPX3dMU0V2WkFCQ3ZMa1BwMzNLLUd5MHhwSWxlZFdfaGpHNlhfU29VaTBRVWh0WDA4LVlpWlJDU1Ezek1iZW1teTZwSzdVREx6RzFSaWJaQUxvZlNJ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- 'India Won't Pay Toll To Pass Through Strait Of Hormuz': Hardeep Puri To NDTV - NDTV
+  'India Won't Pay Toll To Pass Through Strait Of H
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZIcUpmUnIwT0M5dnlOZEJhVUYwQXk1NHgtWnloZ05Gck4wQjVWT1lDQjRhbkdDaTBDZmVPM0NsV2FIbkVzRGlzZFc5YXVPSGhoaWdPN1NUSFpJUWdFODJfVk9URk9Kak85TmdrSERUOW9rQVNmUF8wd2NIci1ILW5PQ1dGbDNEWFVPSnpMZURad1pWWjhEREZTNnFrZWxmd0ZwTHBuMWQ4ZmRFdldWN3RjM2_SAbwBQVVfeXFMT3pjNUJ3bktETGdKSWtlRUJhM0N0eF9HZk5keFVsSlNlU0NBTi1uZFRnUXdUM1FlRWlCaTJldTQzOWVCNkwxRVdXeHBCRFZLb3VyM3NCdGNFMVRQU2JkbE81c1ZOYk9MT1ZpdW9KSE85YjY3SWtSenAwRWEyaHF0eVphSVVuOVJVMHAxMDlUZVhLTHJ2M2tCY3lPdHQzcS1JNkNGZTdZUjQzUjZRSENwR3A4Q0lHOERBVVZHaTM?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- India's growth story faces its toughest test yet in Modi’s third term - CNBC
+  India's growth story faces its toughest test yet in
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
+  In A First, India Deploys 12 Nuclear Warheads
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Why A US Trade Law Is Holding Up Deal With India - NDTV
+  A US Trade Law Is Holding Up Deal With
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkpPaGZEbUF2QWZucEViUklrZGpCQ25QSnF0UlZuMVlQWEFnbHlhT0xrc0NIQlpwS1liTjZXMUJDemt0QlhFbFVPUnVNall5N0V5a1NETjYyUDdxQlBuS1FRRmpNWGFhNUgtSi1sejJRRkZJYk9qZHZFdWRwdDF1NTBmWG1CV2Y4OWVoTTg0RG01cVXSAZsBQVVfeXFMT0JpRU84ckJ5eEt5aEg5LUhybTExcGNBbGNyTW50NU9paHpjSnZnLTNUdkZYaFJ2RWpvV2czZHU1cWxNODhONUpPZU03SEdaVTdKTVI3aDN1VEYxcV9TYTlYNnVPeU5meFdoV3BUZ0FkTjd3TnRJdEdrUnBmZXNQZWxGUWZhZWdib1gxWDVsOXg2UjBUNXZ1WGtkRjQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- All the Ways Europe Is Ditching American Technology - WIRED
+  All the Ways Europe Is D
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjVLRThkSFVJRXc5UTdsSHY2OXAxc0RaZjk2V19JMDJqUEhyalJyaTExYjlLUUgyTU1XRV9zT0xpWjlNN2E4d3FsTTRndVRSVXFKVmlRMkRzemt6NEFPenNheEQ1SU14R1RlZ3UzYjc2YklzQ1hnQmtGUlJ3VlZXdUR3WnlPcVE?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Why AI Agents Are the Next Great Technological Transformation - Time Magazine
+  Time Magazine: Why AI Agents are the
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFhpNHE1WklTbnVyR0tGR3c4OG1OdWxfeUJSQVZya1dTWXVzVnNQY3RSay1xQkZwc3hKRjMzblEwOVpiMXVhWHR4ZVJTUXdZRWl6dWQ5UUdxZGd1MDA1RUpMUV9LWTNnRWo1M0dCSlYtUnYyN2lqMFFzUXU2d0lET2wzdC1HeVlxR29BQzh1U1lRS0psREM0NmNsdURURUk?oc=5
+
+- NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom
+   NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uXzBzR3NhYkhmOFNSb0tua2s2U1RCRHQ5RXpRcUxKS0xMUkFMNlYxMDltR3N3bmVSdWFQc1lMWDcwaC1yVnNnWEdkMEt3QkZOaGZvaXY0cHRHMVBaLUp1SzFDejc?oc=5
+
+- Apple unveils Siri AI makeover as Tim Cook bids farewell - BBC
+  Apple unveils Siri AI makeover as
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtdnh1RGZ2QXRTUWYxWFBwblNxYnlNRFBjeXg1WHlZOGtBYUYyRl9HY0tGWjlIRTkwVUFTOGJ5V183OUpqU01vdWx6clFsczlpbFdlcWIxaUJSdw?oc=5
+
+- Granarium Technologies raises EUR 1 million to commercialise the world’s first renewable, affordable supercapacitors for grid stability and industrial reliability - Cision News
+  Granarium Technologies raises EUR 1 million to commercialise the world’s first renewable,
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWC1BdDlBMVRwMVdhc1E3ZzdkVHM5cF9WMFZXZWV4TVN4bjZGOEF4T3FWc2JFbDJLWllWMW45ak5kVFA2bWdDcFJjSmZfZ3ZQUXpLU1hFMkRDMWlDOXNxdWpRemU5RzJxN2YxaVQyZFJpZVhNV2oyU0hjZTFGZmhxMmVROWJhRkRlSllqX1Y1VEw1QVVnYWZKMVo1eUtpN3JNRUhIdHZESVRtTkV2Q0dUcnRhcXoxV056aWNLNl9OeWhIemZobUNJTUlCaU9TZW1RcUlxTUZXWl9RMF9f?oc=5
 
 
-_Last updated: 2026-06-09 02:41:11 UTC_
+_Last updated: 2026-06-09 09:36:45 UTC_
