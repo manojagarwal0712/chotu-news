@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Italy’s Giorgia Meloni congratulates Narendra Modi on becoming longest-serving PM of India
+- 6 Naga men, believed to have been abducted a month ago, found dead in Manipur
   
-  🔗 https://indianexpress.com/article/india/giorgia-meloni-congratulates-narendra-modi-longest-serving-pm-of-india-10732891/
+  🔗 https://indianexpress.com/article/india/manipur-missing-naga-men-six-bodies-recovered-10733489/
 
-- Abhishek Banerjee meets Rahul Gandhi in Delhi amid Trinamool crisis
+- With ‘Hindu Growth Rate’ jibe, PM Modi slams Congress in 12-year speech
   
-  🔗 https://indianexpress.com/article/india/abhishek-banerjee-rahul-gandhi-meet-trinamool-crisis-10732625/
+  🔗 https://indianexpress.com/article/india/modi-longest-serving-pm-hindu-growth-rate-congress-10733481/
 
-- No dedicated framework to prevent student suicides, says Supreme Court-appointed panel
+- Cabinet approves Rs 2,169 crore Ahmedabad Metro Phase 2A
   
-  🔗 https://indianexpress.com/article/india/student-suicides-higher-education-supreme-court-panel-10732577/
+  🔗 https://indianexpress.com/article/india/ahmedabad-metro-phase-2a-airport-corridor-cabinet-approval-10733374/
 
-- IMD forecast: Delhi likely to cool down on June 11; heavy rain batters Kerala, Karnataka
+- Cabinet resolution lauds Modi for becoming longest continuously serving elected PM
   
-  🔗 https://indianexpress.com/article/india/rain-monsoon-kerala-karnataka-india-delhi-heatwave-thunderstorm-10732275/
+  🔗 https://indianexpress.com/article/india/union-cabinet-resolution-narendra-modi-longest-continuously-serving-elected-prime-minister-nehru-record-10733322/
 
-- Rs 3 crore bribe: Delhi Police inspector arrested, senior public servant under CBI lens
+- Jaipur fire: 9 cops suspended as questions mount over administrative negligence
   
-  🔗 https://indianexpress.com/article/india/delhi-police-inspector-arrested-by-cbi-rs-1-crore-bribe-fake-medicines-racket-10732368/
+  🔗 https://indianexpress.com/article/india/jaipur-khoh-nagoriyan-illegal-firecracker-factory-fire-police-suspended-8-dead-10733301/
 
-- iOS 27 reveals strongest hints yet of Apple’s foldable iPhone
+- What is Eicon, the app looking to make museum visits easier with your camera?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-reveals-strongest-hints-yet-of-apples-foldable-iphone-10732960/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-eicon-the-app-looking-to-make-museum-visits-easier-with-your-camera-10733130/
 
-- Google rolls out Gemini 3.5 Live Translate with support for over 70 languages
+- How was the Great Pyramid built? New research points to 4 internal ramps
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-rolls-out-gemini-3-5-live-translate-with-support-for-over-70-languages-10732649/
+  🔗 https://indianexpress.com/article/technology/science/how-was-the-great-pyramid-built-new-research-points-to-4-internal-ramps-10733359/
 
-- Meta partners with Reliance to build its first AI data centre in India
+- iOS 27 features Apple didn’t highlight: Full-screen widgets, smarter messages, better clipboard and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-partners-with-reliance-to-build-ai-powered-data-centre-in-india-10732562/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-features-apple-didnt-highlight-full-screen-widgets-smarter-messages-better-clipboard-and-more-10733333/
 
-- As AI becomes less human, Apple is thinking beyond the bots
+- Nasa announces all-male crew for Artemis III Moon mission, faces backlash
   
-  🔗 https://indianexpress.com/article/technology/opinion-technology/as-ai-becomes-less-human-apple-is-thinking-beyond-the-bots-10732410/
+  🔗 https://indianexpress.com/article/technology/science/nasa-announces-all-male-crew-for-artemis-iii-moon-mission-faces-backlash-10733157/
 
-- Anthropic releases Claude Fable 5 with guardrails, bringing Mythos-level AI to users for first time
+- Netflix unveils new mobile experience, curated collections and games updates for Asia-Pacific
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-fable-5-guardrail-mythos-level-ai-models-10732350/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-unveils-new-mobile-experience-curated-collections-and-games-updates-for-asia-pacific-10733054/
 
-- Margin play: Why Supertails is doubling down on the lucrative pet healthcare market
-  The startup is expanding its clinic and pharmacy footprint to anchor itself at the centre of India's formalizing pet economy. With
-  🔗 https://www.livemint.com/companies/news/supertails-pet-healthcare-veterinary-clinics-india-pet-care-market-growth-11781076441043.html
+- Novelis restarts production at New York plant key to Ford trucks
+  Novelis resumed production at its Oswego, New York
+  🔗 https://www.livemint.com/companies/news/novelis-restarts-production-at-new-york-plant-key-to-ford-trucks-11781104140991.html
 
-- Lalithaa Jewellery to restart IPO roadshows for stalled  ₹1,700-cr issue
-  Last year, the company had unofficially paused its ₹1,700
-  🔗 https://www.livemint.com/companies/lalithaa-jewellery-ipo-revival-roadshows-governance-concerns-gold-prices-11781076959854.html
+- At 22, he moved from US to India with a food idea. Now it's a multi-million-dollar business
+  Bert Mueller moved to India 13 years ago to introduce Southern California-style burritos. His restaurant chain has grown to more than 100 outlets across the country.
+  🔗 https://www.livemint.com/companies/people/at-22-he-moved-from-us-to-india-with-a-food-idea-now-its-a-multi-million-dollar-business-11781101875776.html
 
-- Spacetech firms dominate first disbursals under  ₹1-tn innovation fund
-  The government approved 22 startups for a total assistance of  ₹2,192.32 crore. Spacetech companies, including Dhruva Space
-  🔗 https://www.livemint.com/companies/start-ups/spacetech-startups-rdi-fund-india-rs-1-trillion-deeptech-funding-dhruva-space-agnikul-11781067570765.html
+- Asics to spin off its Onitsuka Tiger sneaker business
+  Asics will spin off its Onitsuka Tiger business. The split, effective January 1, will transfer the brand to OT Group. There are plans for flagship stores globally.
+  🔗 https://www.livemint.com/companies/news/asics-to-spin-off-its-onitsuka-tiger-sneaker-business-11781100683071.html
 
-- Muthoot Fincorp begins discussions with bankers for  ₹4,000 crore IPO
-  The IPO may value Muthoot
-  🔗 https://www.livemint.com/companies/news/muthoot-fincorp-ipo-valuation-stock-market-india-kotak-mahindra-capital-11781068078505.html
+- AI-171 plane crash: Air India tells ex-Gujarat CM Vijay Rupani's daughter there is no pressure to accept settlement
+  Air India has reassured Radhika Rupani, daughter of a crash victim, that families are not pressured to accept compensation for the AI-171 crash. Families can await the investigation
+  🔗 https://www.livemint.com/companies/news/ai171-plane-crash-no-pressure-to-accept-settlement-air-india-tells-daughter-of-ex-gujarat-cm-vijay-rupani-11781094118640.html
 
-- Starlink responds as report claims India launch has been put on hold: 'We have heard nothing but...'
-  Starlink has responded to reports of the Indian government freezing its approvals, calling them ‘misleading’ and saying that ‘they remain fully committed to India
-  🔗 https://www.livemint.com/companies/news/starlink-responds-as-report-claims-india-launch-has-been-put-on-hold-we-have-heard-nothing-but-11781071521642.html
+- ASK Property Fund to raise  ₹3,500 cr amid surge in demand for private credit
+  ASK Property's new fund will offer solution capital, as well as growth capital for acquisitions.
+  🔗 https://www.livemint.com/companies/news/amid-rise-in-real-estate-credit-funds-ask-property-fund-to-raise-3-500-crore-11781083132539.html
 
-- Small-cap stock under  ₹50 hits 20% upper circuit. Do you own?
-  Elitecon International shares surged 20% on June 10, reaching  ₹32
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-20-upper-circuit-do-you-own-11781083412915.html
+- Super Micro Computer shares plunge 15% on plans to raise $7 billion in equity offerings
+  Super Micro Computer's shares fell 15% to $36.50 on 10 June. The company aims to fulfill $39 billion in orders but faces cash flow and margin pressures.
+  🔗 https://www.livemint.com/market/stock-market-news/super-micro-computer-shares-plunge-15-on-plans-to-raise-7-billion-in-equity-offerings-11781097683308.html
 
-- Gold loan stocks slide as gold prices extend decline; Muthoot, Manappuram fall up to 5.5%
-  Gold loan NBFC stocks faced pressure on June 10. Manappuram Finance down 5.6% and Muthoot Finance down 4% amid falling gold prices. Concerns over non
-  🔗 https://www.livemint.com/market/stock-market-news/gold-loan-stocks-slide-as-gold-prices-extend-decline-muthoot-manappuram-fall-up-to-55-11781080976674.html
+- Is the Nifty-Gold ratio signalling a major rebound in Indian equities? What historical trends show
+  The Nifty 50–gold ratio has narrowed to 1.56, indicating an oversold Indian stock market. This ratio serves as a value meter, guiding investors on equity and gold allocation. Historical
+  🔗 https://www.livemint.com/market/stock-market-news/is-the-nifty-gold-ratio-signalling-a-major-rebound-in-indian-equities-what-historical-trends-show-11781092626768.html
 
-- Gold crashes to 11-week low, but experts still see upside: Is this a buying opportunity or a warning sign?
-  Gold prices have dropped to an 11-week low, pressured by reassessed US interest rates and a stronger dollar. Despite the decline, analysts maintain a positive long-term outlook due to central-bank
-  🔗 https://www.livemint.com/market/commodities/gold-crashes-to-11-week-low-but-experts-still-see-upside-is-this-a-buying-opportunity-or-a-warning-sign-11781079926293.html
+- US stock market today: Nasdaq, S&amp;P 500 futures fall up to 1.3% as tech selloff deepens; Brent rebounds
+  Nasdaq 100 futures fell 1.3%, while S&amp;amp;P 500 and Dow Jones also declined. Inflation concerns loom as CPI data is expected soon.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-fall-up-to-1-3-as-tech-selloff-deepens-brent-rebounds-11781088248265.html
 
-- ICICI Prudential Mutual Fund raises stake in Travel Food Services, shares rise
-  ICICI Prudential Mutual Fund has announced the acquisition of an additional stake in Travel Food Services.
-  🔗 https://www.livemint.com/market/stock-market-news/icici-prudential-mutual-fund-raises-stake-in-travel-food-services-shares-rise-11781081339970.html
+- Nifty 50 set for first annual fall after a decade of positive returns: Should index mutual fund investors be worried?
+  Nifty 50 down 11% this year due to rising crude oil prices amid Middle East tensions. Analysts warn of potential declines in corporate earnings and investor sentiment. Some remain optimistic about
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-set-for-first-annual-fall-after-a-decade-of-positive-returns-should-index-mutual-fund-investors-be-worried-11781088754651.html
 
-- Investors are betting on Ola Electric's 'Hail Mary' pass
-  Ola Electric's share price has doubled from March lows, despite lingering concerns
-  🔗 https://www.livemint.com/market/mark-to-market/ola-electric-ev-stocks-electric-scooters-bharat-cell-battery-manufacturing-ev-ecosystem-market-share-ather-energy-11781078646082.html
+- Motisons Jewellers' shares jump after the opening of the QIP. Check details
+  Motisons Jewellers launched its QIP on June 9, with a floor price of  ₹11.58. The stock rose 6.5%
+  🔗 https://www.livemint.com/market/stock-market-news/motisons-jewellers-shares-jump-after-the-opening-of-the-qip-check-details-11781085038201.html
 
 - Samsung Galaxy A27 price leaked ahead of launch: Check expected variant-wise pricing
   The Galaxy A27 could feature a 6.7-inch Full HD+ display, Snapdragon 6 Gen
@@ -100,145 +100,125 @@
   Embodied AI is transforming various industries, including retail. A new store in Hong Kong will be operated by a humanoid robot, offering 24-hour service.
   🔗 https://www.livemint.com/technology/new-leap-for-embodied-ai-hong-kong-to-launch-24-hour-convenience-store-run-entirely-by-a-humanoid-robot-11781012149174.html
 
-- Stocks Get Tech Boost as Oil Declines Below $90: Markets Wrap - Bloomberg
+- Dow falls 400 points on chip sell-off, Trump Iran threat and 3-year inflation high: Live updates - CNBC
+  Dow falls 400 points on chip sell-off, Trump Iran threat
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9LRDZ2dHY0cGF3dUlHVC12RU04NVBYWTZhUGxjUkhZTHF2T0xLUU96NVVCMG5GZHpZZ0h4R0tKdUtxZWFMMWpEWjlqWkdCVjFrNWhMRDBHbUNVTWJzYVZQRE10cUZsSWlxdVQySFdRNXJzRmZFSlBF0gF8QVVfeXFMT3YycTlFVk85SHZtSlVheXlsWUVRLU1hWXFJSWI2dkxseGN3UVVqVkM2WW9vZ1A0X2RsNmo3QTY2OHdWVHNUeUNRYXlLb2kwS3ZuUjFySnNNc0RHamhUNHotak5YYUtTWE5oQzNDSjQzR0FRLWlWYzRhOEdWWg?oc=5
+
+- Stocks Get Tech Boost as Oil Declines Below $90: Markets Wrap - Bloomberg.com
   Stocks Get Tech Boost as Oil Declines
   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxObXNMajhXamM0WHNTNUkwWFVxcTJ1SVFZekdQdjBoc1NxQll0Q3ZpQ0lpQ25NaWVBT0Ryb0NoM2R0OUhCcmNncnJWV0xZZFptc3BVYlVDekFpR3ZvMlRaVmhLQ2lqay1QSlpSRkJKSU1IVUh3dVdJaGpXNkVmQUJmS1NJaG1jSXo4N3ZkM3dob3BJSUhV?oc=5
 
-- Stock market jitters remain amid tech fears and renewed Middle East attacks - BBC
-  Stock market jitters remain amid tech fears and renewed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE01QWVNQjFNbU01RjRfOWkxQ2pCQnI2MzJEY3ByNW1TM2d2cG01bUt2c0xnR1RwTXMtRzJma1BvdnBQNnpnQjZqVHpEUXdoQ3JTS2g3THgwRzN4Zw?oc=5
+- Stock Market Today: Major Indexes Fall After CPI Hits Highest Level in 3 Years; Oil Gains as Trump Says Iran Will 'Pay the Price' for Lack of Deal - Investopedia
+  Stock Market Today: Major Indexes Fall After CPI Hits Highest Level in 3 years. Oil Gains as Trump Says Iran Will '
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzBNOTVId19zWnZLYUJCdzhqblpoMWlEZzFYWWdiWFlhMlpPbnFraUxvOF81OFk0WXhnYklIOUY3RlI5aVFBMktCcWxUS3dtWHR2T2R5MG0zTEU1TWMwUHNmWkRQWU43UjhJWXFReWFOdW1oRHB4WmFldmVGd2I2bWNHdm1INE1BSWpiaklYeXU?oc=5
 
-- Stock futures slip after U.S. launches ‘self-defense strikes’ against Iran: Live updates - CNBC
-  Stock futures slip after U.S. launches �
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9LRDZ2dHY0cGF3dUlHVC12RU04NVBYWTZhUGxjUkhZTHF2T0xLUU96NVVCMG5GZHpZZ0h4R0tKdUtxZWFMMWpEWjlqWkdCVjFrNWhMRDBHbUNVTWJzYVZQRE10cUZsSWlxdVQySFdRNXJzRmZFSlBF0gF8QVVfeXFMT3YycTlFVk85SHZtSlVheXlsWUVRLU1hWXFJSWI2dkxseGN3UVVqVkM2WW9vZ1A0X2RsNmo3QTY2OHdWVHNUeUNRYXlLb2kwS3ZuUjFySnNNc0RHamhUNHotak5YYUtTWE5oQzNDSjQzR0FRLWlWYzRhOEdWWg?oc=5
+- VIEW CPI rises at fastest rate in three years but meets market expectations - Reuters
+   CPI rises at fastest rate in three years but meets market
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXFibFcwbzFFbm0zRnRfS2swaE14TlRJRXRLRHJtX3RFZkNxMGY5RGs0Y19qV1N5RXFEYlQxcmtVUnJEblRza081X0lkUXdjSkpqQzFndkNwTlBIMFZRRjN3NzYxS2V5NUlRS29NVEZkc3FkSFZwWGVzdE1tLWdILVoyY3c1eE9zNkVPZWREU1paMmZ6M3U0X2xGSGpPQWcxNVNkYXlpNThzd1BDWmZz?oc=5
 
-- South Korea’s booming stock market mints generation of novice investors - Al Jazeera
-  South Korea’s booming stock market mint
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUpiSFoyTnplM3A4S2NsM1MtbWlGUWNMQVZ5Ql9QbTM3VVktSDJOY2VRcTB4WjREVExRQWQxVTVzOXZ0MUNVaXNHTXBWeWNvbTVNYkhVR3drSFNfMDNKbU9WQUhrRkdxZ212NmIzZWh6OXBSdTdJY2N5UTI3dWRTdk5INkVyTmtqY1RXMlZVdU1makhnQ3JOeTFHdW1kazhETFBqUGZWRV9UbUp6cU9zQ1FVcW5sckXSAbwBQVVfeXFMT0dYd3A4VGRzd2p6MVQ5Z0l5alUwNHdDbTI3VWFJMFBodXFobjFKRm9URWxVNHZSc3BaaDFfcEJEQ1NsQm9FaVpsMHJjYy1rSnY3TXpDRlV6Nmk2OTVHU1hOWl95ejBONldMOXpIbnBYSWZlU2hPU3VsbVpJaDBRdktpNmwtUnExWUZiZ2FzUHdkSEprbExDYV8xNWlfcEdyXzJSOE80VjUtNE0yaDItSE5IWHVOQzBZSEhYUTU?oc=5
+- Equity fund inflows lose steam as geopolitical risks weigh on markets, hit 12-month low of Rs 22,908 cror - The Times of India
+  Equity fund inflows lose steam as geopolitical risks weigh on markets, hit 12-month low
+  🔗 https://news.google.com/rss/articles/CBMiowJBVV95cUxOcVVwUzdXSXhMN2ptMEpmR3NIOEd0dDhIMnhtUVZKcFI1V2tfUDNFTW1zTmtESHJCSDJnTzk2cU9lN2g2RVNHTXNlajVWSEhOTnh5YWowMHJVS2NFZk1leU1Qcms4UEhJSGwxR0NNSHBKWWNqV2hsLUZpVWVPb0ItZXJwLVJPZ0pkZm54aWpfQlctUms4LU1wbUtQV3NURXVHb1FzbGFHdVh2dXlfbEoyUHlyeDMxcUNxRmNzNERDRlh5aUhJOU1qVVNnZHA3TGhCN01DVFF5VGhVTG12TUJaYk55M01LUE5uVi1jY0FxSDNJc0J1TC1WOE5XMGxXMUpBQ053bUFRSHVQR25KR3VtWmtTdDRjUEI5TXFxbnpUTzZFdjTSAagCQVVfeXFMUEd2eWptZHJzUTVhWHRObEhXTTZsWkxCOHB5WV9zRmhJMU9VdG8yUThMZ0ZqaXZEcUhydHFIcGFiMVg5dkg1eHZqUC1SZmNMaFdNWkRZSnZhR1R4VjNybjZBcG56SDZLYUxlR3Rtd2tjdE1fQVVDeHE4TWFOSWpaZWRXVFg0TVdvOXZ6YkwwcXpLQm5tSFQxQ0ZreE5kTEdrcDREQzhrUVdjT2ZNOV9tOGVlRUwtQmE3QlpoQkNZZS1RS1FTYm4wcnN0T1F3am91bm5FUHZLMVdiRktpV3BoclJoa1ctUmVvdU04bVlaaWdOV1BaanJMR0lwR1BDTWpBZ0dmUE0tblNGdjFlTW55VTJ1T1ZwUHhLQTlXMzFxa01PdHRHNENjLUw?oc=5
 
-- Sensex falls 300 pts from day's high, Nifty near 23,300: Key reasons behind market trimming gains - Moneycontrol.com
-  Sensex falls 300 pts from day's high, Nifty near 23
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdTdnaTBUWlZreEV4Xy1tNDBTamRNVVJQaDI2cnhEOW9tc3lVdWktUm1ibEhoNDJsQ2lfWVpXNFpSZ0hmZ1pPMW1FZ2RCSnhMSW96b2ZCQWVIRmsyV0VEUHFTRV8tWDN1OHRyRkx3MjBUU2JtRG5zSmt2SklsaGxrVWY3dU9PcFhEMndQUEVhY1liYl8xUWluN3o2c3dlSHVaNW1qZXdvcHRYcGJoejNtU3drRVY5SW1XX0NCMHoxM0lUWlNfVWp2TGZ3OEoxS01Ha3lKT1dqSUtSUDctUHFWdmtQWHZpc0hyYUktTlkySk9nWEXSAfgBQVVfeXFMUElmdFBHYklZSmZXUG9ZSklIYWNQUFBIMjg2eVZYSWM1U0pJNDRUZzJrbTR4WjFOYlpPajVwQmw4VHEzc28tX3ljOWQtcXo1OXBqaUlibVl5b3Rpc1Utak15dlROT25mcTZwbGNaMU1wcWpOYmVFdDNLVkt1S0I5a2tvdVRIN0duWmZGUjBXOVFVSkV1WFphNGV2MUYtYS1UaG05dk5mU1g0UmlYZUVjT1FKb0o1ckhieDAzcHRkZ1BXSW93UUlUS1pxVUwtQnp4VXpkeldENks3Mjd2Z2V5OHhTMnhMTGpucVVwRmJtRjlZYzMyVkpwVy0?oc=5
+- Goldman Sachs buys CMR Green Technologies shares on listing day after strong debut
+  Goldman Sachs India Equity Portfolio bought shares worth Rs 49.82 crore in CMR Green Technologies. Despite investor optimism, analysts advise caution and partial profit booking
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-buys-cmr-green-technologies-shares-on-listing-day-after-strong-debut/articleshow/131637219.cms
 
-- A new IPO frenzy: Why is Bharat making a beeline for bourses?
-  Retail chains from smaller Indian towns are planning to raise over Rs 7,000 crore through IPOs. These companies see capital markets as a fast route to fund expansion into growing markets.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/a-new-ipo-frenzy-why-is-bharat-making-a-beeline-for-the-bourses/articleshow/131630601.cms
+- Zee Entertainment to raise $241 million for stategic initiatives
+  Zee Entertainment has secured the broadcast rights for the 2026 FIFA World Cup in India. Zee Entertainment is all set to gather 23 billion
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-to-raise-241-million-for-stategic-initiatives/articleshow/131637145.cms
 
-- Banks pay 7% on dollar deposits as India seeks fresh foreign currency
-  Indian banks are testing the central bank's new measures to boost capital inflows and support the rupee. This strategy aims to strengthen the currency amidst high oil prices and intense domestic deposit competition.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/banks-pay-7-on-dollar-deposits-as-india-seeks-fresh-foreign-currency/articleshow/131630435.cms
+- SpaceX IPO: How Elon Musk is breaking Wall Street rules with mega issue
+  
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/spacex-ipo-how-elon-musk-is-breaking-wall-street-rules-with-mega-issue/videoshow/131637061.cms
 
-- SpaceX IPO: $1.75 trillion valuation, among 5 risks about world’s biggest stock market debut
-  Elon Musk's SpaceX is preparing for a historic $75 billion IPO, aiming for a $1.75 trillion valuation. While investor demand is high, concerns linger regarding overvaluation.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/spacex-ipo-1-75-trillion-valuation-among-5-risks-about-worlds-biggest-stock-market-debut/articleshow/131630212.cms
+- S&amp;P Global revises IPO-bound Oyo parent Prism's outlook to 'Positive'
+  S&amp;P Global Ratings has declared a Positive outlook for Prism. This optimistic assessment comes with the expectation of substantial improvements in credit metrics.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sp-global-revises-ipo-bound-oyo-parent-prisms-outlook-to-positive/articleshow/131636957.cms
 
-- Betting big on mid and smallcaps; largecaps most expensive on PEG basis, says Dinshaw Irani
-  Helios Mutual Fund is shifting investments from large companies to mid and small companies. The fund has added Adani Enterprises, Dixon Technologies, and CAMS. It is avoiding sectors like metals and US-facing pharma.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/betting-big-on-mid-and-smallcaps-largecaps-most-expensive-on-peg-basis-says-dinshaw-irani/articleshow/131630040.cms
-
-- Rupee to average around 96/USD in FY27; risks from oil, dollar persist: Motilal Oswal
-  The Indian rupee is projected to average around 96 against the US dollar in FY27. Despite a widening trade deficit, strong capital inflows and RBI intervention are expected to prevent a sharp depreciation.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-to-average-around-96/usd-in-fy27-risks-from-oil-dollar-persist-motilal-oswal/articleshow/131629450.cms
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
-
-- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
-  World Leaders Praise PM Modi As He Becomes
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+- US Stocks: US markets dips as tech declines, Middle East tensions mount
+  The Dow, S&amp;P 500, and Nasdaq all saw declines at the opening bell. Renewed U.S.-Iran tensions also weighed on the market.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-lower-on-tech-losses-middle-east-tensions/articleshow/131636911.cms
 
 - India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
   India’s Bengal pushes out Muslim
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
 
-- META to set up first AI-enabled data centre in India with Reliance Industries in Gujarat’s Jamnagar - News On AIR
-  META to set up first AI-enabled data centre in India with Reliance
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3djTURzaHRWNW1Sb3lSQmEzOHdvd1JRcDQ0NlZOTjktZWs1a0ZLM1pnN2VMUlFUcUJHNVF1QlA1eW9iMjA1ZUZ3S2xGanAzWjFXOUlEWXJtU2J5dG1rUmp1cDVxSFFoVGxpYzZybVctWDdIWEY1RVRBSUtObGgyWVRERXNmbHVqUXMyV1drc0RNRFEyaWpPMnc4T0VUU3dOTENaaGtQUk9fS0FPZ0tPRWRLbjZ0dnFuZ05jVkxIalo3QQ?oc=5
-
-- No Pressure On Crash Victims' Families: Air India To Vijay Rupani's Daughter - NDTV
-  " target="_blank">No Pressure On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJfWmg0bnNfV1FGRnNVdHc4OUxwa2pLdEpQN0UwY0gyejdURHdmMk9QY2NvQjFQOG5mdmVfLUhBaEhOTEhOR3p3MEJjSTBQTzI0N1dlbWYyN09wXzlsRUgzM205dzdhV2FDQ1FTdTJZcXBGenZXckZyU3ZycklLRG1DcUMtRWM4SU9KVGw5U3NGcFRpdEtYTlJENjJDUlZaeTlDT1NUZ1ZhRGoxdGo5VXpYYjJ2VDIzVEktWVhNVXp2bjFzeXVQdkxR0gHSAUFVX3lxTE1uQXdRRVVSVGZWUnZNdjNmYmttbUVjOWpvT0hDR2RXcVVpOXAzRkJtWVBnU00tZGRHa201ZXFod0IxV1FfZGl1RFByMmNUT1l2RkJGRHE5T3dSTzk1VUFtSXNFdnIwNlp2UzNQWm1sVTNpTm9GcnBUMmZIQnd1cjFGMGxhaVNtaTBPbGFJLUdkQjNxTTRZd3F6cHFOUDdYNlhwRldMQjZlMTlyVnZseTVkMVNDMDZoc09JN2l3UEk0eHc0MnNlVTBuODhHSnkxcGFLZw?oc=5
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
-
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+
+- Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com
+  Meta Partners With Reliance on AI-
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5
+
+- Trinamool Congress (TMC): How Mamata Banerjee is losing her own party - BBC
+  Trinamool Congress (TMC)
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yenZzTmlMRmRBWTliWVBRWWZ1dVo4RDVVYjNXSHRKNkVWYmJHbFdVSUx5QlV3Tk9uQlhpOG0xZUN3cWxjUlVOdHJZUlhsNXFEcHR1YTlhZTg5Zw?oc=5
+
+- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister - News On AIR
+  Prime Minister Narendra Modi sets record as India’s longest serving
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
 - India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
   India’s Bengal pushes out Muslim
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
 
-- META to set up first AI-enabled data centre in India with Reliance Industries in Gujarat’s Jamnagar - News On AIR
-  META to set up first AI-enabled data centre in India with Reliance
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3djTURzaHRWNW1Sb3lSQmEzOHdvd1JRcDQ0NlZOTjktZWs1a0ZLM1pnN2VMUlFUcUJHNVF1QlA1eW9iMjA1ZUZ3S2xGanAzWjFXOUlEWXJtU2J5dG1rUmp1cDVxSFFoVGxpYzZybVctWDdIWEY1RVRBSUtObGgyWVRERXNmbHVqUXMyV1drc0RNRFEyaWpPMnc4T0VUU3dOTENaaGtQUk9fS0FPZ0tPRWRLbjZ0dnFuZ05jVkxIalo3QQ?oc=5
-
-- No Pressure On Crash Victims' Families: Air India To Vijay Rupani's Daughter - NDTV
-  " target="_blank">No Pressure On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJfWmg0bnNfV1FGRnNVdHc4OUxwa2pLdEpQN0UwY0gyejdURHdmMk9QY2NvQjFQOG5mdmVfLUhBaEhOTEhOR3p3MEJjSTBQTzI0N1dlbWYyN09wXzlsRUgzM205dzdhV2FDQ1FTdTJZcXBGenZXckZyU3ZycklLRG1DcUMtRWM4SU9KVGw5U3NGcFRpdEtYTlJENjJDUlZaeTlDT1NUZ1ZhRGoxdGo5VXpYYjJ2VDIzVEktWVhNVXp2bjFzeXVQdkxR0gHSAUFVX3lxTE1uQXdRRVVSVGZWUnZNdjNmYmttbUVjOWpvT0hDR2RXcVVpOXAzRkJtWVBnU00tZGRHa201ZXFod0IxV1FfZGl1RFByMmNUT1l2RkJGRHE5T3dSTzk1VUFtSXNFdnIwNlp2UzNQWm1sVTNpTm9GcnBUMmZIQnd1cjFGMGxhaVNtaTBPbGFJLUdkQjNxTTRZd3F6cHFOUDdYNlhwRldMQjZlMTlyVnZseTVkMVNDMDZoc09JN2l3UEk0eHc0MnNlVTBuODhHSnkxcGFLZw?oc=5
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
-
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+
+- Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com
+  Meta Partners With Reliance on AI-
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5
+
+- Trinamool Congress (TMC): How Mamata Banerjee is losing her own party - BBC
+  Trinamool Congress (TMC)
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yenZzTmlMRmRBWTliWVBRWWZ1dVo4RDVVYjNXSHRKNkVWYmJHbFdVSUx5QlV3Tk9uQlhpOG0xZUN3cWxjUlVOdHJZUlhsNXFEcHR1YTlhZTg5Zw?oc=5
+
+- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister - News On AIR
+  Prime Minister Narendra Modi sets record as India’s longest serving
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
 - India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
   India’s Bengal pushes out Muslim
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
 
-- META to set up first AI-enabled data centre in India with Reliance Industries in Gujarat’s Jamnagar - News On AIR
-  META to set up first AI-enabled data centre in India with Reliance
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3djTURzaHRWNW1Sb3lSQmEzOHdvd1JRcDQ0NlZOTjktZWs1a0ZLM1pnN2VMUlFUcUJHNVF1QlA1eW9iMjA1ZUZ3S2xGanAzWjFXOUlEWXJtU2J5dG1rUmp1cDVxSFFoVGxpYzZybVctWDdIWEY1RVRBSUtObGgyWVRERXNmbHVqUXMyV1drc0RNRFEyaWpPMnc4T0VUU3dOTENaaGtQUk9fS0FPZ0tPRWRLbjZ0dnFuZ05jVkxIalo3QQ?oc=5
-
-- No Pressure On Crash Victims' Families: Air India To Vijay Rupani's Daughter - NDTV
-  " target="_blank">No Pressure On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJfWmg0bnNfV1FGRnNVdHc4OUxwa2pLdEpQN0UwY0gyejdURHdmMk9QY2NvQjFQOG5mdmVfLUhBaEhOTEhOR3p3MEJjSTBQTzI0N1dlbWYyN09wXzlsRUgzM205dzdhV2FDQ1FTdTJZcXBGenZXckZyU3ZycklLRG1DcUMtRWM4SU9KVGw5U3NGcFRpdEtYTlJENjJDUlZaeTlDT1NUZ1ZhRGoxdGo5VXpYYjJ2VDIzVEktWVhNVXp2bjFzeXVQdkxR0gHSAUFVX3lxTE1uQXdRRVVSVGZWUnZNdjNmYmttbUVjOWpvT0hDR2RXcVVpOXAzRkJtWVBnU00tZGRHa201ZXFod0IxV1FfZGl1RFByMmNUT1l2RkJGRHE5T3dSTzk1VUFtSXNFdnIwNlp2UzNQWm1sVTNpTm9GcnBUMmZIQnd1cjFGMGxhaVNtaTBPbGFJLUdkQjNxTTRZd3F6cHFOUDdYNlhwRldMQjZlMTlyVnZseTVkMVNDMDZoc09JN2l3UEk0eHc0MnNlVTBuODhHSnkxcGFLZw?oc=5
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
-
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+
+- Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com
+  Meta Partners With Reliance on AI-
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5
+
+- Trinamool Congress (TMC): How Mamata Banerjee is losing her own party - BBC
+  Trinamool Congress (TMC)
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yenZzTmlMRmRBWTliWVBRWWZ1dVo4RDVVYjNXSHRKNkVWYmJHbFdVSUx5QlV3Tk9uQlhpOG0xZUN3cWxjUlVOdHJZUlhsNXFEcHR1YTlhZTg5Zw?oc=5
+
+- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister - News On AIR
+  Prime Minister Narendra Modi sets record as India’s longest serving
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
 - India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
   India’s Bengal pushes out Muslim
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
 
-- META to set up first AI-enabled data centre in India with Reliance Industries in Gujarat’s Jamnagar - News On AIR
-  META to set up first AI-enabled data centre in India with Reliance
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3djTURzaHRWNW1Sb3lSQmEzOHdvd1JRcDQ0NlZOTjktZWs1a0ZLM1pnN2VMUlFUcUJHNVF1QlA1eW9iMjA1ZUZ3S2xGanAzWjFXOUlEWXJtU2J5dG1rUmp1cDVxSFFoVGxpYzZybVctWDdIWEY1RVRBSUtObGgyWVRERXNmbHVqUXMyV1drc0RNRFEyaWpPMnc4T0VUU3dOTENaaGtQUk9fS0FPZ0tPRWRLbjZ0dnFuZ05jVkxIalo3QQ?oc=5
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- No Pressure On Crash Victims' Families: Air India To Vijay Rupani's Daughter - NDTV
-  " target="_blank">No Pressure On
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJfWmg0bnNfV1FGRnNVdHc4OUxwa2pLdEpQN0UwY0gyejdURHdmMk9QY2NvQjFQOG5mdmVfLUhBaEhOTEhOR3p3MEJjSTBQTzI0N1dlbWYyN09wXzlsRUgzM205dzdhV2FDQ1FTdTJZcXBGenZXckZyU3ZycklLRG1DcUMtRWM4SU9KVGw5U3NGcFRpdEtYTlJENjJDUlZaeTlDT1NUZ1ZhRGoxdGo5VXpYYjJ2VDIzVEktWVhNVXp2bjFzeXVQdkxR0gHSAUFVX3lxTE1uQXdRRVVSVGZWUnZNdjNmYmttbUVjOWpvT0hDR2RXcVVpOXAzRkJtWVBnU00tZGRHa201ZXFod0IxV1FfZGl1RFByMmNUT1l2RkJGRHE5T3dSTzk1VUFtSXNFdnIwNlp2UzNQWm1sVTNpTm9GcnBUMmZIQnd1cjFGMGxhaVNtaTBPbGFJLUdkQjNxTTRZd3F6cHFOUDdYNlhwRldMQjZlMTlyVnZseTVkMVNDMDZoc09JN2l3UEk0eHc0MnNlVTBuODhHSnkxcGFLZw?oc=5
+- Meta Partners With Reliance on AI-Enabled Data Center in India - meta.com
+  Meta Partners With Reliance on AI-
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hmSHVUSFBlOFBTcE9iT1F3Rl9LX25fUlRWWnFVQmNQM2pYR1hVS0k3M19qU3NMYWNSZ01sWXJCWGdTcjdjRmdOUGo0YTZJeHZoWXE3Q1dDYl9hQV81VElkdzVGSFJnTktJSDJtVjlzU0RkbWJXcWFTSnAySWdlT29BRDZTc2FsTkt5d1lRVE5LLVFvZVdncEV0OWdhd9IBowFBVV95cUxPODlGT1hBYmloQ1NoS1UtQnlNU0o3Zm5JVlFsNFkyM3NIeGZJNGFaMVJaVFprdVduUUFEVUNscXN4ZDY4b0FPVjJWdG5vcXJNbVFCSjdrREVmMDVFODAwTHd5VWhYdlU1Vk1tUnJQYXNOUTZGYzBUb0luVFZ5Tmt5Q0tYSlNDOFFWRUpjeF96RFdBUjVrQ1lYWS1vV211M1RHczNj?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Trinamool Congress (TMC): How Mamata Banerjee is losing her own party - BBC
+  Trinamool Congress (TMC)
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yenZzTmlMRmRBWTliWVBRWWZ1dVo4RDVVYjNXSHRKNkVWYmJHbFdVSUx5QlV3Tk9uQlhpOG0xZUN3cWxjUlVOdHJZUlhsNXFEcHR1YTlhZTg5Zw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister - News On AIR
+  Prime Minister Narendra Modi sets record as India’s longest serving
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
 
-_Last updated: 2026-06-10 09:51:10 UTC_
+_Last updated: 2026-06-10 15:25:11 UTC_
