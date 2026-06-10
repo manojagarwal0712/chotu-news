@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Fresh maternal health concern in Rajasthan: 4 new mothers in serious condition at Bikaner hospital
+- Videos on ‘painless killing’, plant poison, alert neighbours: Unravelling of a murder plot that put brother, sister on death row
   
-  🔗 https://indianexpress.com/article/india/maternal-health-concern-rajasthan-4-new-mothers-bikaner-hospital-10732049/
+  🔗 https://indianexpress.com/article/india/brother-sister-murder-plot-painless-killing-plant-poison-neighbours-10732085/
 
-- Soil at Shiv Shakti Point chemically close to lunar meteorite that hit Antarctica
+- Why West Bengal is now dropping ‘Dham’ from Digha Jagannath temple
   
-  🔗 https://indianexpress.com/article/india/chandrayaan-3-moon-soil-antarctica-meteorite-link-10732023/
+  🔗 https://indianexpress.com/article/india/why-west-bengal-is-now-dropping-dham-from-digha-jagannath-temple-10732089/
 
-- Arunachal village sees violence over dam: Multiple houses vandalised, prohibitory orders issued
+- Upendra Kushwaha resists BJP merger push as son is set to lose ministership
   
-  🔗 https://indianexpress.com/article/india/upper-siang-dam-violence-geku-protests-mla-oni-panyang-house-attacked-10731993/
+  🔗 https://indianexpress.com/article/india/upendra-kushwaha-resists-bjp-merger-push-as-son-is-set-to-lose-ministership-10732192/
 
-- ‘Singappen’: Vijay launches specialised force for women’s safety with Rs 354-crore allocation, drone surveillance
+- NDA turns 12 today, meets to mark Narendra Modi crossing Jawaharlal Nehru stint
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-vijay-women-safety-force-singappen-354-crore-drone-surveillance-10731981/
+  🔗 https://indianexpress.com/article/india/nda-turns-12-today-meets-to-mark-narenra-modi-crossing-jawaharlal-nehru-stint-10732136/
 
-- Amid CID searches and TMC rebellion, Mamata meets Sonia in Delhi
+- Consider using app-based Aadhaar verification for citizen-facing services: Centre to states, UTs
   
-  🔗 https://indianexpress.com/article/india/mamata-banerjee-meet-sonia-gandhi-delhi-cid-search-tmc-rebellion-10731923/
+  🔗 https://indianexpress.com/article/india/consider-using-app-based-aadhaar-verification-for-citizen-facing-services-centre-to-states-uts-10732145/
 
 - Indians lose up to Rs 28K crore per year to dark patterns; Nykaa, BigBasket among worst offenders
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sam-altmans-eye-scanning-startup-reportedly-cuts-jobs-as-openai-moves-toward-ipo-10731541/
 
-- Analysis-Short-sellers to tread carefully as Musks SpaceX debuts
-  Short-sell
-  🔗 https://www.livemint.com/companies/analysisshortsellers-to-tread-carefully-as-musks-spacex-debuts-11781032328153.html
+- Indian firms face external disruptions: What latest report says about persistent challenges
+  Majority of Indian businesses report that external disruptions, such as climate shocks, infrastructure issues, and public health outbreaks, are impacting their ability to attract
+  🔗 https://www.livemint.com/companies/news/nearly-half-of-indian-firms-struggle-to-attract-and-retain-talent-amid-climate-and-infrastructure-disruptions-11781051063997.html
 
-- Stadium workers near LA say they have a tentative deal, averting strike ahead of World Cup
-  Stadium workers near LA say they have a tentative deal
-  🔗 https://www.livemint.com/companies/stadium-workers-near-la-say-they-have-a-tentative-deal-averting-strike-ahead-of-world-cup-11781030851496.html
+- Dharana Capital buys 12-14% stake worth  ₹225 crore in Mygate
+  The fresh capital will be used to fund India expansion, new payment products and overseas pilots. The transaction values the residential community management
+  🔗 https://www.livemint.com/companies/news/dharana-capital-buys-12-14-stake-worth-rs-225-crore-in-mygate-11781004719673.html
 
-- Private Equity Founder Constantino Ran Firm in ‘Drunken Haze,’ Ex-COO Says
-  Private equity boss Matthew Constantino almost died on a
-  🔗 https://www.livemint.com/companies/private-equity-founder-constantino-ran-firm-in-drunken-haze-ex-coo-says-11781030407768.html
+- Nestlé's milk and nutrition segment loses shine in India operations, making way for high-growth products
+  The parent company has been divesting from non
+  🔗 https://www.livemint.com/companies/news/milk-and-nutrition-nestle-india-high-growth-products-revenue-share-non-core-segments-milk-prices-11780986402235.html
 
-- Infosys defers hiring exams for specialist programmer, digital systems engineer roles amid reports of malpractice
-  Infosys said all affected candidates have been informed about the postponement. Revised
-  🔗 https://www.livemint.com/companies/news/infosys-defers-hiring-exams-for-specialist-programmer-digital-systems-engineer-roles-amid-reports-of-malpractice-11781023489462.html
+- Battery tech startup Exponent Energy raises  ₹200 cr in Series B extension
+  Exponent Energy has raised  ₹200 crore in a Series B extension co-led by 360 ONE and TDK Ventures.
+  🔗 https://www.livemint.com/companies/start-ups/exponent-energy-raises-rs-200-crore-to-expand-ev-charging-network-11780980978982.html
 
-- Buying a new car? Maruti Suzuki announces price protection for small cars till June 14 ahead of planned hike
-  Maruti Suzuki India has launched a price protection scheme for its small car range. Prices remain stable for bookings
-  🔗 https://www.livemint.com/companies/news/buying-a-new-car-maruti-suzuki-announces-price-protection-for-small-cars-till-june-14-ahead-of-planned-hike-11781015955837.html
+- The curious case of Rajesh Mehta’s ‘ ₹50,000 crore’ battery business
+  An investment of  ₹1,250 crore by the three funds over three years explains the steep valuation of Elest. Elest has agreed to supply land, machinery and technology for ACC Energy Storage Pv
+  🔗 https://www.livemint.com/companies/rajesh-exports-mehta-battery-business-sebi-stock-shares-elest-acc-energy-storage-11781008422134.html
 
-- China demand woes, Middle East peace hopes drag crude oil prices to multi-month lows; Brent hits 7-week low
-  Brent crude at $89.57 and WTI at $86 per barrel. China's imports hit an eight-year low. easing Middle East tensions and US-Iran peace talks added pressure on prices.
-  🔗 https://www.livemint.com/market/stock-market-news/china-demand-worries-drag-crude-oil-prices-to-multi-month-lows-brent-hits-7-week-low-11781025408136.html
+- Stocks to watch: Ajanta Pharma, Bharti Airtel, IndiGo, NLC India, among key stocks in focus on 10 June
+  Sensex and Nifty 50 are expected to open lower due to global market weakness amid US-Iran tensions. Early trading indicators suggest a subdued start, following a
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-ajanta-pharma-bharti-airtel-indigo-nlc-india-among-key-stocks-in-focus-on-10-june-11781058826889.html
 
-- Shapoorji Pallonji Group stock to be in focus on Wednesday on bagging  ₹5300 crore order. Details here
-  Afcons Infrastructure has secured a significant  ₹5,301 crore order for a 10.14-km breakwater at Vadhvan Port. Despite a net
-  🔗 https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-group-stock-to-be-in-focus-on-wednesday-on-bagging-rs-5300-crore-order-details-here-11781018304714.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 10 June 2026
+  Sumeet Bagadia recommends five shares to buy today. City Union Bank, Syrma SGS Technology, Aster DM
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-june-2026-11781054454894.html
 
-- NLC India OFS oversubscribed 5.22 times on day one; govt exercises full greenshoe option
-  Strong institutional demand prompted the Centre to scale up stake sale to 3%.
-  🔗 https://www.livemint.com/market/stock-market-news/nlc-india-ofs-oversubscribed-5-22-times-on-day-one-govt-exercises-full-greenshoe-option-11781018887682.html
+- Stock market today: Gift Nifty hints weak start; US-Iran war, tech stocks selloff to crude oil prices - 8 stocks to buy
+  The Indian stock market is anticipated to open lower on June 10, 2026. Concerns over US-Iran hostilities and upcoming US inflation data may influence market sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-war-tech-stocks-selloff-to-crude-oil-prices-8-stocks-to-buy-11781052912840.html
 
-- Nuvalent shares surge 39% to record high as GSK agrees to $10.6 billion acquisition deal
-  GlaxoSmithKline agreed to acquire the cancer drug developer for $10.
-  🔗 https://www.livemint.com/market/stock-market-news/nuvalent-shares-surge-39-to-record-high-as-gsk-agrees-to-10-6-billion-acquisition-deal-11781016763061.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 June
+  Gift Nifty was trading around 23,271 level, a discount of nearly 59 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-10-june-11781056279867.html
 
-- Expert view: A correction possible in the US stock market, says Marcellus Investment Managers' Head of Global Equities
-  Arindam Mandal from Marcellus Investment Managers says there may be a potential correction in the US stock market. He emphasises the importance of focusing on high-
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-a-correction-possible-in-the-us-stock-market-says-marcellus-investment-managers-head-of-global-equities-11781019511860.html
+- Crude oil prices rise after US launches strikes against Iran; Brent oil near $92 a barrel
+  US crude oil inventories fell last week for an eighth consecutive week. gasoline stocks also declined, Reuters reported.
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-rise-after-us-launches-strikes-against-iran-brent-oil-near-92-a-barrel-11781055775936.html
 
 - AI is boosting accuracy for clinicians, Philips North America CEO says
   Health-AI:AI is
@@ -100,125 +100,125 @@
   Apple's iOS 27 has introduced a new CPU scheduler to improve performance on
   🔗 https://www.livemint.com/technology/tech-news/apples-ios-27-could-make-your-old-iphone-feel-new-again-with-this-one-feature-11780985219140.html
 
-- Stock Market Today: Dow, Nasdaq Fall; SpaceX, OpenAI IPOs in Focus — Live Updates - WSJ
-  Stock Market Today: Dow, Nasdaq Fall; SpaceX,
+- Stock Market News, June 9, 2026: Nasdaq Rebounds Off Session Lows - WSJ
+  The WSJ reports that Nasdaq rebounded
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHZpVFFsZldxc1ZXSE1NYXlzbzdUWWs1SEZpamNVVVcyN1JJRms5MlBIMWR5S3RxdWdLQVNWdXE2d3VwZ1c1b19DYVhvbmQ0MkRmcUFPanVOUlAtalI1RmlDeTZEelh0YWkwZC1salBmeURJOEMyeHVJbm5ZTzZ6ZU9oeVRQTHM?oc=5
 
-- S&P 500 and Nasdaq resume decline as chip comeback fizzles: Live updates - CNBC
-  S&amp;P 500 and Nasdaq resume
+- S&P 500 and Nasdaq close lower as chip stock rebound fails - CNBC
+  S&amp;P 500 and Nasdaq
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5
 
-- Stock Market Today: Nasdaq, S&P 500 Drop as Chip Stocks Pull Back; Oil Pares Losses as Trump Says Iran Shot Down Helicopter and US Must 'Respond' - Investopedia
-  Stock Market Today: Nasdaq, S&amp;P 500 Drop as Chip Stocks Pull Back; Oil Pares
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3lTR205QnhaOWpyOV8xVk95dm15ZTh4cXZrcC1ZczI4cEphWDVtRklLNVNVRnhHajg4RXlxV3JFNG91UXQxbmxndWtEckY3MlRVTHlHcDI2UmRrc3ZsdDNja1FfQmRBNkhtT0l3SnlLSVE4ZTVhWDFLejdQcmRNQzcwbkZsWkFMa2p4MkxlOGc?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq futures fall as US launches strikes against Iran - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq futures fall
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2hNV1VWS3lZajVFUmx1bGJ4Mm12VFp0Qkw3UGlCZnBXcmlhVE5YZ3E4TDNfQmI2ZzdSVnVFTng5X0g1RWxRX0ZwVGw3UVpHSGNINGtMWUliaE05NUR5dnFCam5QXzZZM3RGR1ZkLW9ya3ZfNk1WUWRLTE9LdWk2NVF4Qk1HcjNGTjdBaDdSQVdTTVdDT1R4T2FRTllxYVhiSmRiQlNBSno4TU5lWjRPMzhEZ29oWFJuX0JjMXhhTXRYLVlxandnUW10QTEydVlwOU5kV2ZB?oc=5
 
-- Tom Lee: Latest market action is healthy and won't derail the tech trade - CNBC
-  CNBC: Latest market action is healthy and won't
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkk4NzhMVkZiTnZiTi02OEZmMi1hUlhCZVY2TEJOemQtOEdBVm1vaDlOTm9wOUdVRWNzTHAwRDlGbWN1Z3RWM25nTUs2dTZCdkV5Wl9YTnNDSTRwRUY0SU9GcF9mdzZBN3ozUW1wMjNXa2JEc2I2WDVQVmhXSkVTclE3RkNMYkxSVjZ2STRCTlA2dDRzWUlrQ0FueGwxazdjalh2aV9ueUxWUHFXVXZnZWM2cw?oc=5
+- South Korea’s booming stock market mints generation of novice investors - Al Jazeera
+  South Korea’s booming stock market mint
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUpiSFoyTnplM3A4S2NsM1MtbWlGUWNMQVZ5Ql9QbTM3VVktSDJOY2VRcTB4WjREVExRQWQxVTVzOXZ0MUNVaXNHTXBWeWNvbTVNYkhVR3drSFNfMDNKbU9WQUhrRkdxZ212NmIzZWh6OXBSdTdJY2N5UTI3dWRTdk5INkVyTmtqY1RXMlZVdU1makhnQ3JOeTFHdW1kazhETFBqUGZWRV9UbUp6cU9zQ1FVcW5sckXSAbwBQVVfeXFMT0dYd3A4VGRzd2p6MVQ5Z0l5alUwNHdDbTI3VWFJMFBodXFobjFKRm9URWxVNHZSc3BaaDFfcEJEQ1NsQm9FaVpsMHJjYy1rSnY3TXpDRlV6Nmk2OTVHU1hOWl95ejBONldMOXpIbnBYSWZlU2hPU3VsbVpJaDBRdktpNmwtUnExWUZiZ2FzUHdkSEprbExDYV8xNWlfcEdyXzJSOE80VjUtNE0yaDItSE5IWHVOQzBZSEhYUTU?oc=5
 
-- SpaceX's stock market blast-off could be Musk's biggest gamble yet - BBC
-  SpaceX's stock market blast-off
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRmdkWkpoUWdXWG1JZ0xYVndIdHc4ZGFEaEFydDlHeFNLQWhVeWxCNjcyRTVZa19hWFk5cXl0ZmRkNG1KODhxeFEtSkcwSC1DT250dGtxT0FBQQ?oc=5
+- Prabowo Needs More Than Rate Hikes to Fix Market, Analysts Say - Bloomberg.com
+  Prabowo needs more than rate hikes
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1hfTzFTZTgzZ1liRmM4dzZfakl3VUlyWlpNY3ZPeG5uLTJ1ZmdZVlpBZW1icUJQRWx0b2hFMWZFSUFqYVdhcWYxWHpMZDQyejRQNG1WZFZ1YUl6OWEzSTZGbWRDLU0zWFJWczY0RFRSZTJZdlVmcUR0U1I1RWt4WmpZaW9GSUgybGE0djd4RzkyajVLaHdySmtVQ25VTGZwMXFCbW10elREaUpOM1B0ckh3?oc=5
 
-- US stocks: SpaceX IPO demand is approaching four times oversubscribed, source says
-  SpaceX's initial public offering is seeing massive investor interest. Demand has reached over 250 billion dollars, far exceeding the 75 billion dollars the company aims to raise.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says/articleshow/131618644.cms
+- Grasim Inds Share Price Live Updates: Grasim Industries Faces Downward Pressure
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-live-updates-10-jun-2026/liveblog/131623109.cms
 
-- Brent crude oil price falls below $90 a barrel on hopes of Iran deal
-  Brent crude falls below $90 for the first time since April 14. US counterpart West Texas Intermediate crude falls to around $86 a barrel.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-falls-below-90-a-barrel-on-hopes-of-iran-deal/articleshow/131615518.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Gift Nifty rises 100 points, hints positive start; Asian markets decline
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-10-june-2026/liveblog/131622944.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Indian equities ended higher on Tuesday, supported by easing geopolitical tensions and softer crude prices. A sharp drop in India VIX boosted sentiment, while broader markets outperformed.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131615037.cms
+- Order book growth keeps Persistent Systems on track
+   Persistent Systems shares are rising, buoyed by optimism in the technology sector and advancements in artificial intelligence. The company remains confident in its long-term growth strategy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/order-book-growth-keeps-persistent-systems-on-track/articleshow/131622787.cms
 
-- PE investor BC Investments sells Rs 612 crore stake in Emcure Pharma; Kotak MF picks up stake
-  Private equity firm BC Investments IV sold a Rs 612 crore stake in Emcure Pharmaceuticals to Kotak Mahindra Mutual Fund at Rs 1,700 per share.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pe-investor-bc-investments-sells-rs-612-crore-stake-in-emcure-pharma-kotak-mf-picks-up-stake/articleshow/131614459.cms
+- Prop traders seek relief on margin funding as global rivals up game
+  Indian market participants are calling for a fresh look at margin funding policies. The proposed framework seeks to clarify the roles of liquidity providers versus speculators.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/prop-traders-seek-relief-on-margin-funding-as-global-rivals-up-game/articleshow/131622723.cms
 
-- Market Trading Guide: CCL Products among 2 stock recommendations for Wednesday
-  Analysts recommend CCL Products and CMPDI, citing strong technical setups, positive momentum and bullish chart patterns. Domestic markets are showing signs of recovery after recent declines, aided by easing geopolitical tensions and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ccl-products-among-2-stock-recommendations-for-wednesday/articleshow/131614389.cms
-
-- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
-  In A First, India Deploys 12 Nuclear Warheads
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
-
-- India deploys 12 nuclear warheads for first time, up from none last year; where do China and Russia stand - The Times of India
-  India deploys 12 nuclear warheads for first time, up from none last year; where do China and
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYW9BQ0JqSmlTdWFXdTRDMk0wYWhhRnl1UEhpNVoyWGFNVzVSR2JCYUNjdGVuNm1pUTJJR1NBU3FxT0djYlFRZUhkbDJPY2lZMkw0Q1BKRklROHhSamlZVElyWmVocERubXR2UW05TmZHb1VmM0JuckZfSVp6SXk0dk11VFU5Q3dNbXYyYXNIY096T05xLXhMcmZ0elBORGZuRlFrb0QxU0J5MGhOdXdLWE5qMTFSWUlBdk1yNW1sY3Q3U0Vqd1UzRmFBR2NUdlQ3VEtLaS1rUHFWT1hUSVRKbVhDV0JaQ1ZWWE5WOTlrekVsWWJBaGRkTFIyTGhDOTI0VG1Eb0VKd3hSd9IBjwJBVV95cUxObVVwcGx6R0s5WUFTelFQVDl0NTlEVjg4VzRhcEQ1VjRpVFhoWGJtNWcwLWNMbFRWa3NtUUpTVm9PMHg2elpNM3dLY01teDNmalhQV2ZjckstQXlTUUVuVGIyZUJNbVpvaTFMSl8zV1Q5a21xMTJDMmhXZEtuVDFtQnlkTW51NXhJcTVucHo3czQ1am9IdWgwdUpHdjBDNG05YUJJekF6MWFDLVY4SlFhMGtsU1NoaWVPTDdkWW9ZbFd0NzBTSXphSmpnY01PSmNmNDF4NlRIT3N1SUdJRFhpdlR2RS12OEhZZGZhelVHLVNHUHhfQmszQXRjdnJFRTVQbjVRNlVlOUdiY2preE5r?oc=5
-
-- India deployed nuclear warheads for the first time: Sipri report - India Today
-  India deployed nuclear warheads for the first time:
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnUxT05ZTzJ6THlQS0xtREhtYjBnSWFSam42UEdzdWhjSTdua1pCUENaU0F2SGxrMnAxOVMwLUN2VW84eGtfSDExVlh4b1ZVclVyYXF4Smc0bmJrVWZiNTdCZVVzLUpUTGxWNl9lSThsOWRXM0xwOEhYdmdkX1hUeXlCMFY3N1dnb2hqWExRdkFjdWE4c0NHcHgtNzdwM0NvOHVTOXpkeHJqZEI2bDNwbGx6VU9jZ2gyX3NSd3QyNldHemNZZ1g3STNGYTF5akdXU2QwMEZ2MldUZTDSAeABQVVfeXFMTnlrbnJRblVtOHRSVFJ3VnNabGdxRjVWVnB5bURYbnlKMkotM2UtNXlHcXdpMnIxQ2tZcE9iTjk1VFJGcmh4a28wNkJjSk9DazVMb2t2NWtMSXlSM0FJanl1LVlQZGlsRW5QakktTFZuZ1pVakFiSERTejRFb0RUazc0QTREWHQwd3AzbjY1TUxGOXo4Y25lRjh6UGNEN25jMlExNEQwajh0ajdPdmszNUxzZEJkZUx5OHR5OXpxaUxmdDFPeDlTM2I4RmtieU53YzJnMWEyUG8xcUFFVE94ZFE?oc=5
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
+- Rajiv Bajaj to exit Board of Bajaj Finserv too
+  Rajiv Bajaj is moving on from his role on the board of Bajjan Finserv. This comes amidst growing demands in his responsibilities at Bajj Auto.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/rajiv-bajaj-to-exit-board-of-bajaj-finserv-too/articleshow/131622625.cms
 
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
-  In A First, India Deploys 12 Nuclear Warheads
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
+- With 12 years in office, Modi becomes India's longest-serving PM; NDA to honour him | India News - Hindustan Times
+  With 12 years in office, Modi becomes India's longest-serving PM. N
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzN0d1JISk1ucDFoRTBjTTBoTDFJVEFmSGt1UVlaRGZMQUwxX0hIV1pPWFh3aDJpNENXNDhaVlVYUlJ4WkI0enc5S2VPZmVwN09TLXdCN1JEU09DN1U2ZjVFbkFHNzVGVV9MT1NJZ3lQbi1oYjBOYlNsUmpQdDdka19aY044Y25YR0hSV2dIdnFPZ1VNVHlFNEktSFQySWZwMlljaDZfVkVkd2tURU5nRjV1eVZETkswS2otYTFrZXFxQ3FVWnF0SVhBbFM2R3JHRTlmaUFFZnlDbEXSAeABQVVfeXFMUFN1Z2NDRXBHR1MzMXpvM2c1MVZmRHJuTlFWNHpmdU83Z2pWa1gtZlZzMnpWOU5CR1BwSzhHY2lWWVh3Q3hFbVRqOWg5WW1HWjl5NVQwQnAwSG12U0NyWUVRVmZJTkdvLVhjQTgxc2IxelgwcHJtRkxZMndST2FWYUR0MnNvVDB4eFA3TWdFaUFUZkJKNjB4THJrbElnSXZWWENwWHhPMnVvcVdxNnNhYnhsSFBLR25XTW5pcVRqOUp3a2VrcmdtV2dJZVF5Ql9zRk4wYThYTVdlay1GYm9MU3Y?oc=5
 
-- India deploys 12 nuclear warheads for first time, up from none last year; where do China and Russia stand - The Times of India
-  India deploys 12 nuclear warheads for first time, up from none last year; where do China and
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYW9BQ0JqSmlTdWFXdTRDMk0wYWhhRnl1UEhpNVoyWGFNVzVSR2JCYUNjdGVuNm1pUTJJR1NBU3FxT0djYlFRZUhkbDJPY2lZMkw0Q1BKRklROHhSamlZVElyWmVocERubXR2UW05TmZHb1VmM0JuckZfSVp6SXk0dk11VFU5Q3dNbXYyYXNIY096T05xLXhMcmZ0elBORGZuRlFrb0QxU0J5MGhOdXdLWE5qMTFSWUlBdk1yNW1sY3Q3U0Vqd1UzRmFBR2NUdlQ3VEtLaS1rUHFWT1hUSVRKbVhDV0JaQ1ZWWE5WOTlrekVsWWJBaGRkTFIyTGhDOTI0VG1Eb0VKd3hSd9IBjwJBVV95cUxObVVwcGx6R0s5WUFTelFQVDl0NTlEVjg4VzRhcEQ1VjRpVFhoWGJtNWcwLWNMbFRWa3NtUUpTVm9PMHg2elpNM3dLY01teDNmalhQV2ZjckstQXlTUUVuVGIyZUJNbVpvaTFMSl8zV1Q5a21xMTJDMmhXZEtuVDFtQnlkTW51NXhJcTVucHo3czQ1am9IdWgwdUpHdjBDNG05YUJJekF6MWFDLVY4SlFhMGtsU1NoaWVPTDdkWW9ZbFd0NzBTSXphSmpnY01PSmNmNDF4NlRIT3N1SUdJRFhpdlR2RS12OEhZZGZhelVHLVNHUHhfQmszQXRjdnJFRTVQbjVRNlVlOUdiY2preE5r?oc=5
+- Jan Dhan Yojana To Ayushman Bharat: 5 Schemes That Marked PM Modi's 12 Years - NDTV
+  PM Modi has been in office for 12 years. He has
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjBsQnhvYVZKSFkyVnJEUmZsY19JckdsaW9xdi0xM2t5SE8tLVljbVZ5N0t0VTh4Q2RqUUtBcVFfOW4waWlXcV85WHVzY0xFbS05T0ZnV3FFSVpVUS1QWGdDMlRqYUNhLURIbC12aV9yQ2J3N1AtY0NFcUptV3pfMXI5bTl4YlRrdlJjTDB2cEQ5Slg4dmh2bWVBR3gzWjY1RjgxZ205NTNzaW8yTXhqYmFERU1vMmRCVl9GYnpNSWdrUdIBygFBVV95cUxQdHFEazR4NVgtSnlPcEVmM2NCUHRXYmhaZnF2cklzTl9CWXJTOEpDZGZmU3RNdjB2bDUwOUdoNGZQZENzWXI5TWY3OVh6SUtCaXc2bWVEaS1yM2RxSVpJcFd1aENTNW82akpPOU1nVDdSTlpSWjllUFFIQ21wRWlXZHdIdE11Ry1fZmkxYW5Vb0s2QWNGRzVZSlpTRU9CRlYtNFF3UTBmZ2R2Q29DLXpMTC0tWGtoTzZELURwN3lweTJoT0pFcmk1UV93?oc=5
 
-- India deployed nuclear warheads for the first time: Sipri report - India Today
-  India deployed nuclear warheads for the first time:
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnUxT05ZTzJ6THlQS0xtREhtYjBnSWFSam42UEdzdWhjSTdua1pCUENaU0F2SGxrMnAxOVMwLUN2VW84eGtfSDExVlh4b1ZVclVyYXF4Smc0bmJrVWZiNTdCZVVzLUpUTGxWNl9lSThsOWRXM0xwOEhYdmdkX1hUeXlCMFY3N1dnb2hqWExRdkFjdWE4c0NHcHgtNzdwM0NvOHVTOXpkeHJqZEI2bDNwbGx6VU9jZ2gyX3NSd3QyNldHemNZZ1g3STNGYTF5akdXU2QwMEZ2MldUZTDSAeABQVVfeXFMTnlrbnJRblVtOHRSVFJ3VnNabGdxRjVWVnB5bURYbnlKMkotM2UtNXlHcXdpMnIxQ2tZcE9iTjk1VFJGcmh4a28wNkJjSk9DazVMb2t2NWtMSXlSM0FJanl1LVlQZGlsRW5QakktTFZuZ1pVakFiSERTejRFb0RUazc0QTREWHQwd3AzbjY1TUxGOXo4Y25lRjh6UGNEN25jMlExNEQwajh0ajdPdmszNUxzZEJkZUx5OHR5OXpxaUxmdDFPeDlTM2I4RmtieU53YzJnMWEyUG8xcUFFVE94ZFE?oc=5
+- Prime Minister Narendra Modi becomes longest | Akashvani News - News On AIR
+  Prime Minister Narendra Modi becomes longest | Akash
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
-
-- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
-  World Leaders Praise PM Modi As He Becomes
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
-
-- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
-  In A First, India Deploys 12 Nuclear Warheads
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
-
-- India deploys 12 nuclear warheads for first time, up from none last year; where do China and Russia stand - The Times of India
-  India deploys 12 nuclear warheads for first time, up from none last year; where do China and
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYW9BQ0JqSmlTdWFXdTRDMk0wYWhhRnl1UEhpNVoyWGFNVzVSR2JCYUNjdGVuNm1pUTJJR1NBU3FxT0djYlFRZUhkbDJPY2lZMkw0Q1BKRklROHhSamlZVElyWmVocERubXR2UW05TmZHb1VmM0JuckZfSVp6SXk0dk11VFU5Q3dNbXYyYXNIY096T05xLXhMcmZ0elBORGZuRlFrb0QxU0J5MGhOdXdLWE5qMTFSWUlBdk1yNW1sY3Q3U0Vqd1UzRmFBR2NUdlQ3VEtLaS1rUHFWT1hUSVRKbVhDV0JaQ1ZWWE5WOTlrekVsWWJBaGRkTFIyTGhDOTI0VG1Eb0VKd3hSd9IBjwJBVV95cUxObVVwcGx6R0s5WUFTelFQVDl0NTlEVjg4VzRhcEQ1VjRpVFhoWGJtNWcwLWNMbFRWa3NtUUpTVm9PMHg2elpNM3dLY01teDNmalhQV2ZjckstQXlTUUVuVGIyZUJNbVpvaTFMSl8zV1Q5a21xMTJDMmhXZEtuVDFtQnlkTW51NXhJcTVucHo3czQ1am9IdWgwdUpHdjBDNG05YUJJekF6MWFDLVY4SlFhMGtsU1NoaWVPTDdkWW9ZbFd0NzBTSXphSmpnY01PSmNmNDF4NlRIT3N1SUdJRFhpdlR2RS12OEhZZGZhelVHLVNHUHhfQmszQXRjdnJFRTVQbjVRNlVlOUdiY2preE5r?oc=5
-
-- India deployed nuclear warheads for the first time: Sipri report - India Today
-  India deployed nuclear warheads for the first time:
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnUxT05ZTzJ6THlQS0xtREhtYjBnSWFSam42UEdzdWhjSTdua1pCUENaU0F2SGxrMnAxOVMwLUN2VW84eGtfSDExVlh4b1ZVclVyYXF4Smc0bmJrVWZiNTdCZVVzLUpUTGxWNl9lSThsOWRXM0xwOEhYdmdkX1hUeXlCMFY3N1dnb2hqWExRdkFjdWE4c0NHcHgtNzdwM0NvOHVTOXpkeHJqZEI2bDNwbGx6VU9jZ2gyX3NSd3QyNldHemNZZ1g3STNGYTF5akdXU2QwMEZ2MldUZTDSAeABQVVfeXFMTnlrbnJRblVtOHRSVFJ3VnNabGdxRjVWVnB5bURYbnlKMkotM2UtNXlHcXdpMnIxQ2tZcE9iTjk1VFJGcmh4a28wNkJjSk9DazVMb2t2NWtMSXlSM0FJanl1LVlQZGlsRW5QakktTFZuZ1pVakFiSERTejRFb0RUazc0QTREWHQwd3AzbjY1TUxGOXo4Y25lRjh6UGNEN25jMlExNEQwajh0ajdPdmszNUxzZEJkZUx5OHR5OXpxaUxmdDFPeDlTM2I4RmtieU53YzJnMWEyUG8xcUFFVE94ZFE?oc=5
-
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
+- 'Help, Ship Is Sinking': Indian Crew's Distress Call After US Missile Attack - NDTV
+  'Help, Ship Is Sinking': Indian Crew
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW56ZTFXVUhMampiNk9KLWJvTEs0ZEdnSkJkZHE2elFQNmh5Q2pqTnlqUFBfaGlwdGhscnZrUFFUTk03WlVTZU11QzFHNzhkMkZoQXZhU1pfV0JzQVc5VEIyNm5jVVF6NlZmeVU0VzBHN2lHbHN4Ylk4emtPckFkZ2tPT0N0TFFuMXl5cEVjVEpsVWFBZ3hSQ2lWWkcwb2FyQVZwd1VRTFZEYU1yYVhjNEc5ZnhfSEhUYl9NcVdGSU5JNlBOblZVT2tacUVFREtmb2p1VzdsY3M5a3N0eEtvVWZ3?oc=5
 
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- In A First, India Deploys 12 Nuclear Warheads In Big Policy Shift: Report - NDTV
-  In A First, India Deploys 12 Nuclear Warheads
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQZno2UkxOWnhTY3ZlSGJUcEM4V2FUNFM3S1N6Vm81a0wxaDJEVHpJRnpwNk0xNE8ycG1SNTFEUlkxa25QMzVUcmRteDY3QUNEREkya1BERGQ4MHk2WEMwZ1RTaFpNcy13clc0Y2kyVEVZOGxaM25rZTI4SjJrdUhhaDlBNnd1MHF2Q3Yxcm5IaGF0OUt2Q3oxdTkzT3RjNGpnUERqbXktNlJCN3JReWdjOdIBuAFBVV95cUxQRlRkUnJhbzRNV3lJelJHdEtvWC1WblFLV0Fud0kxUmpwNzRVVy05MGdnTGRMOXpTcl9Uek1uT1JjWFFvbUVzUndkeDFDbDBubTBLNzRsNGxLTGJWVHk0SXcwYjV3VE95OHpvbWo0UmhtZGhYc1RDNzJqNkdIZEstSENJZU1aSVdxMFJIMFVGaUN3LTBDUGR6YzFYVkVmZlZfa0NtSFQ5MkZ2ZnlQb0ktZXZjTnNMVlo5?oc=5
+- With 12 years in office, Modi becomes India's longest-serving PM; NDA to honour him | India News - Hindustan Times
+  With 12 years in office, Modi becomes India's longest-serving PM. N
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzN0d1JISk1ucDFoRTBjTTBoTDFJVEFmSGt1UVlaRGZMQUwxX0hIV1pPWFh3aDJpNENXNDhaVlVYUlJ4WkI0enc5S2VPZmVwN09TLXdCN1JEU09DN1U2ZjVFbkFHNzVGVV9MT1NJZ3lQbi1oYjBOYlNsUmpQdDdka19aY044Y25YR0hSV2dIdnFPZ1VNVHlFNEktSFQySWZwMlljaDZfVkVkd2tURU5nRjV1eVZETkswS2otYTFrZXFxQ3FVWnF0SVhBbFM2R3JHRTlmaUFFZnlDbEXSAeABQVVfeXFMUFN1Z2NDRXBHR1MzMXpvM2c1MVZmRHJuTlFWNHpmdU83Z2pWa1gtZlZzMnpWOU5CR1BwSzhHY2lWWVh3Q3hFbVRqOWg5WW1HWjl5NVQwQnAwSG12U0NyWUVRVmZJTkdvLVhjQTgxc2IxelgwcHJtRkxZMndST2FWYUR0MnNvVDB4eFA3TWdFaUFUZkJKNjB4THJrbElnSXZWWENwWHhPMnVvcVdxNnNhYnhsSFBLR25XTW5pcVRqOUp3a2VrcmdtV2dJZVF5Ql9zRk4wYThYTVdlay1GYm9MU3Y?oc=5
 
-- India deploys 12 nuclear warheads for first time, up from none last year; where do China and Russia stand - The Times of India
-  India deploys 12 nuclear warheads for first time, up from none last year; where do China and
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxNYW9BQ0JqSmlTdWFXdTRDMk0wYWhhRnl1UEhpNVoyWGFNVzVSR2JCYUNjdGVuNm1pUTJJR1NBU3FxT0djYlFRZUhkbDJPY2lZMkw0Q1BKRklROHhSamlZVElyWmVocERubXR2UW05TmZHb1VmM0JuckZfSVp6SXk0dk11VFU5Q3dNbXYyYXNIY096T05xLXhMcmZ0elBORGZuRlFrb0QxU0J5MGhOdXdLWE5qMTFSWUlBdk1yNW1sY3Q3U0Vqd1UzRmFBR2NUdlQ3VEtLaS1rUHFWT1hUSVRKbVhDV0JaQ1ZWWE5WOTlrekVsWWJBaGRkTFIyTGhDOTI0VG1Eb0VKd3hSd9IBjwJBVV95cUxObVVwcGx6R0s5WUFTelFQVDl0NTlEVjg4VzRhcEQ1VjRpVFhoWGJtNWcwLWNMbFRWa3NtUUpTVm9PMHg2elpNM3dLY01teDNmalhQV2ZjckstQXlTUUVuVGIyZUJNbVpvaTFMSl8zV1Q5a21xMTJDMmhXZEtuVDFtQnlkTW51NXhJcTVucHo3czQ1am9IdWgwdUpHdjBDNG05YUJJekF6MWFDLVY4SlFhMGtsU1NoaWVPTDdkWW9ZbFd0NzBTSXphSmpnY01PSmNmNDF4NlRIT3N1SUdJRFhpdlR2RS12OEhZZGZhelVHLVNHUHhfQmszQXRjdnJFRTVQbjVRNlVlOUdiY2preE5r?oc=5
+- Jan Dhan Yojana To Ayushman Bharat: 5 Schemes That Marked PM Modi's 12 Years - NDTV
+  PM Modi has been in office for 12 years. He has
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjBsQnhvYVZKSFkyVnJEUmZsY19JckdsaW9xdi0xM2t5SE8tLVljbVZ5N0t0VTh4Q2RqUUtBcVFfOW4waWlXcV85WHVzY0xFbS05T0ZnV3FFSVpVUS1QWGdDMlRqYUNhLURIbC12aV9yQ2J3N1AtY0NFcUptV3pfMXI5bTl4YlRrdlJjTDB2cEQ5Slg4dmh2bWVBR3gzWjY1RjgxZ205NTNzaW8yTXhqYmFERU1vMmRCVl9GYnpNSWdrUdIBygFBVV95cUxQdHFEazR4NVgtSnlPcEVmM2NCUHRXYmhaZnF2cklzTl9CWXJTOEpDZGZmU3RNdjB2bDUwOUdoNGZQZENzWXI5TWY3OVh6SUtCaXc2bWVEaS1yM2RxSVpJcFd1aENTNW82akpPOU1nVDdSTlpSWjllUFFIQ21wRWlXZHdIdE11Ry1fZmkxYW5Vb0s2QWNGRzVZSlpTRU9CRlYtNFF3UTBmZ2R2Q29DLXpMTC0tWGtoTzZELURwN3lweTJoT0pFcmk1UV93?oc=5
 
-- India deployed nuclear warheads for the first time: Sipri report - India Today
-  India deployed nuclear warheads for the first time:
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnUxT05ZTzJ6THlQS0xtREhtYjBnSWFSam42UEdzdWhjSTdua1pCUENaU0F2SGxrMnAxOVMwLUN2VW84eGtfSDExVlh4b1ZVclVyYXF4Smc0bmJrVWZiNTdCZVVzLUpUTGxWNl9lSThsOWRXM0xwOEhYdmdkX1hUeXlCMFY3N1dnb2hqWExRdkFjdWE4c0NHcHgtNzdwM0NvOHVTOXpkeHJqZEI2bDNwbGx6VU9jZ2gyX3NSd3QyNldHemNZZ1g3STNGYTF5akdXU2QwMEZ2MldUZTDSAeABQVVfeXFMTnlrbnJRblVtOHRSVFJ3VnNabGdxRjVWVnB5bURYbnlKMkotM2UtNXlHcXdpMnIxQ2tZcE9iTjk1VFJGcmh4a28wNkJjSk9DazVMb2t2NWtMSXlSM0FJanl1LVlQZGlsRW5QakktTFZuZ1pVakFiSERTejRFb0RUazc0QTREWHQwd3AzbjY1TUxGOXo4Y25lRjh6UGNEN25jMlExNEQwajh0ajdPdmszNUxzZEJkZUx5OHR5OXpxaUxmdDFPeDlTM2I4RmtieU53YzJnMWEyUG8xcUFFVE94ZFE?oc=5
+- Prime Minister Narendra Modi becomes longest | Akashvani News - News On AIR
+  Prime Minister Narendra Modi becomes longest | Akash
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
 
-- India's growth story faces its toughest test yet in Modi’s third term - CNBC
-  India's growth story faces its toughest test yet in
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJINUVoTl9neV9Yb1MzR05PQ1YwUG9nSy0xUG9Kd3RqMW5HQ0VCMEtTc0tLeE9CWTVlcFhla1RtLUp3dll4MXY0ZjRWM2IzUDNEeUhZcWxRYlRNcURCclYtX1pfM3E4UExfczUzYmpPclExQThUMnRJTXoxTXFab0h3bjLSAYoBQVVfeXFMTkszYmU3UjJsSmpYZ1R4ckpsYTFSZVFXbU15TXhjajFOM093QXc0YndpRTdLM2lrNk5GZEktX1k2WWlRQWE2SkxpODNoT3JYaXUwcnJ3a3pTWkJ2bDBzcHRCX3BvdnJoZXE0dy1OcGRJR3NzX1BRSUQ4R0ZocFNlNUVNQjNzYzBESnN3?oc=5
+- 'Help, Ship Is Sinking': Indian Crew's Distress Call After US Missile Attack - NDTV
+  'Help, Ship Is Sinking': Indian Crew
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW56ZTFXVUhMampiNk9KLWJvTEs0ZEdnSkJkZHE2elFQNmh5Q2pqTnlqUFBfaGlwdGhscnZrUFFUTk03WlVTZU11QzFHNzhkMkZoQXZhU1pfV0JzQVc5VEIyNm5jVVF6NlZmeVU0VzBHN2lHbHN4Ylk4emtPckFkZ2tPT0N0TFFuMXl5cEVjVEpsVWFBZ3hSQ2lWWkcwb2FyQVZwd1VRTFZEYU1yYVhjNEc5ZnhfSEhUYl9NcVdGSU5JNlBOblZVT2tacUVFREtmb2p1VzdsY3M5a3N0eEtvVWZ3?oc=5
 
 - World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
   World Leaders Praise PM Modi As He Becomes
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+
+- With 12 years in office, Modi becomes India's longest-serving PM; NDA to honour him | India News - Hindustan Times
+  With 12 years in office, Modi becomes India's longest-serving PM. N
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzN0d1JISk1ucDFoRTBjTTBoTDFJVEFmSGt1UVlaRGZMQUwxX0hIV1pPWFh3aDJpNENXNDhaVlVYUlJ4WkI0enc5S2VPZmVwN09TLXdCN1JEU09DN1U2ZjVFbkFHNzVGVV9MT1NJZ3lQbi1oYjBOYlNsUmpQdDdka19aY044Y25YR0hSV2dIdnFPZ1VNVHlFNEktSFQySWZwMlljaDZfVkVkd2tURU5nRjV1eVZETkswS2otYTFrZXFxQ3FVWnF0SVhBbFM2R3JHRTlmaUFFZnlDbEXSAeABQVVfeXFMUFN1Z2NDRXBHR1MzMXpvM2c1MVZmRHJuTlFWNHpmdU83Z2pWa1gtZlZzMnpWOU5CR1BwSzhHY2lWWVh3Q3hFbVRqOWg5WW1HWjl5NVQwQnAwSG12U0NyWUVRVmZJTkdvLVhjQTgxc2IxelgwcHJtRkxZMndST2FWYUR0MnNvVDB4eFA3TWdFaUFUZkJKNjB4THJrbElnSXZWWENwWHhPMnVvcVdxNnNhYnhsSFBLR25XTW5pcVRqOUp3a2VrcmdtV2dJZVF5Ql9zRk4wYThYTVdlay1GYm9MU3Y?oc=5
+
+- Jan Dhan Yojana To Ayushman Bharat: 5 Schemes That Marked PM Modi's 12 Years - NDTV
+  PM Modi has been in office for 12 years. He has
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjBsQnhvYVZKSFkyVnJEUmZsY19JckdsaW9xdi0xM2t5SE8tLVljbVZ5N0t0VTh4Q2RqUUtBcVFfOW4waWlXcV85WHVzY0xFbS05T0ZnV3FFSVpVUS1QWGdDMlRqYUNhLURIbC12aV9yQ2J3N1AtY0NFcUptV3pfMXI5bTl4YlRrdlJjTDB2cEQ5Slg4dmh2bWVBR3gzWjY1RjgxZ205NTNzaW8yTXhqYmFERU1vMmRCVl9GYnpNSWdrUdIBygFBVV95cUxQdHFEazR4NVgtSnlPcEVmM2NCUHRXYmhaZnF2cklzTl9CWXJTOEpDZGZmU3RNdjB2bDUwOUdoNGZQZENzWXI5TWY3OVh6SUtCaXc2bWVEaS1yM2RxSVpJcFd1aENTNW82akpPOU1nVDdSTlpSWjllUFFIQ21wRWlXZHdIdE11Ry1fZmkxYW5Vb0s2QWNGRzVZSlpTRU9CRlYtNFF3UTBmZ2R2Q29DLXpMTC0tWGtoTzZELURwN3lweTJoT0pFcmk1UV93?oc=5
+
+- Prime Minister Narendra Modi becomes longest | Akashvani News - News On AIR
+  Prime Minister Narendra Modi becomes longest | Akash
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+
+- 'Help, Ship Is Sinking': Indian Crew's Distress Call After US Missile Attack - NDTV
+  'Help, Ship Is Sinking': Indian Crew
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW56ZTFXVUhMampiNk9KLWJvTEs0ZEdnSkJkZHE2elFQNmh5Q2pqTnlqUFBfaGlwdGhscnZrUFFUTk03WlVTZU11QzFHNzhkMkZoQXZhU1pfV0JzQVc5VEIyNm5jVVF6NlZmeVU0VzBHN2lHbHN4Ylk4emtPckFkZ2tPT0N0TFFuMXl5cEVjVEpsVWFBZ3hSQ2lWWkcwb2FyQVZwd1VRTFZEYU1yYVhjNEc5ZnhfSEhUYl9NcVdGSU5JNlBOblZVT2tacUVFREtmb2p1VzdsY3M5a3N0eEtvVWZ3?oc=5
+
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
+
+- With 12 years in office, Modi becomes India's longest-serving PM; NDA to honour him | India News - Hindustan Times
+  With 12 years in office, Modi becomes India's longest-serving PM. N
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzN0d1JISk1ucDFoRTBjTTBoTDFJVEFmSGt1UVlaRGZMQUwxX0hIV1pPWFh3aDJpNENXNDhaVlVYUlJ4WkI0enc5S2VPZmVwN09TLXdCN1JEU09DN1U2ZjVFbkFHNzVGVV9MT1NJZ3lQbi1oYjBOYlNsUmpQdDdka19aY044Y25YR0hSV2dIdnFPZ1VNVHlFNEktSFQySWZwMlljaDZfVkVkd2tURU5nRjV1eVZETkswS2otYTFrZXFxQ3FVWnF0SVhBbFM2R3JHRTlmaUFFZnlDbEXSAeABQVVfeXFMUFN1Z2NDRXBHR1MzMXpvM2c1MVZmRHJuTlFWNHpmdU83Z2pWa1gtZlZzMnpWOU5CR1BwSzhHY2lWWVh3Q3hFbVRqOWg5WW1HWjl5NVQwQnAwSG12U0NyWUVRVmZJTkdvLVhjQTgxc2IxelgwcHJtRkxZMndST2FWYUR0MnNvVDB4eFA3TWdFaUFUZkJKNjB4THJrbElnSXZWWENwWHhPMnVvcVdxNnNhYnhsSFBLR25XTW5pcVRqOUp3a2VrcmdtV2dJZVF5Ql9zRk4wYThYTVdlay1GYm9MU3Y?oc=5
+
+- Jan Dhan Yojana To Ayushman Bharat: 5 Schemes That Marked PM Modi's 12 Years - NDTV
+  PM Modi has been in office for 12 years. He has
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjBsQnhvYVZKSFkyVnJEUmZsY19JckdsaW9xdi0xM2t5SE8tLVljbVZ5N0t0VTh4Q2RqUUtBcVFfOW4waWlXcV85WHVzY0xFbS05T0ZnV3FFSVpVUS1QWGdDMlRqYUNhLURIbC12aV9yQ2J3N1AtY0NFcUptV3pfMXI5bTl4YlRrdlJjTDB2cEQ5Slg4dmh2bWVBR3gzWjY1RjgxZ205NTNzaW8yTXhqYmFERU1vMmRCVl9GYnpNSWdrUdIBygFBVV95cUxQdHFEazR4NVgtSnlPcEVmM2NCUHRXYmhaZnF2cklzTl9CWXJTOEpDZGZmU3RNdjB2bDUwOUdoNGZQZENzWXI5TWY3OVh6SUtCaXc2bWVEaS1yM2RxSVpJcFd1aENTNW82akpPOU1nVDdSTlpSWjllUFFIQ21wRWlXZHdIdE11Ry1fZmkxYW5Vb0s2QWNGRzVZSlpTRU9CRlYtNFF3UTBmZ2R2Q29DLXpMTC0tWGtoTzZELURwN3lweTJoT0pFcmk1UV93?oc=5
+
+- Prime Minister Narendra Modi becomes longest | Akashvani News - News On AIR
+  Prime Minister Narendra Modi becomes longest | Akash
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+
+- 'Help, Ship Is Sinking': Indian Crew's Distress Call After US Missile Attack - NDTV
+  'Help, Ship Is Sinking': Indian Crew
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWW56ZTFXVUhMampiNk9KLWJvTEs0ZEdnSkJkZHE2elFQNmh5Q2pqTnlqUFBfaGlwdGhscnZrUFFUTk03WlVTZU11QzFHNzhkMkZoQXZhU1pfV0JzQVc5VEIyNm5jVVF6NlZmeVU0VzBHN2lHbHN4Ylk4emtPckFkZ2tPT0N0TFFuMXl5cEVjVEpsVWFBZ3hSQ2lWWkcwb2FyQVZwd1VRTFZEYU1yYVhjNEc5ZnhfSEhUYl9NcVdGSU5JNlBOblZVT2tacUVFREtmb2p1VzdsY3M5a3N0eEtvVWZ3?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-09 20:06:04 UTC_
+_Last updated: 2026-06-10 02:56:06 UTC_
