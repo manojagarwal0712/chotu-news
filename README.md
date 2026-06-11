@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Indian sailor’s last call with family: ‘We got two warnings from the US Navy’
+- New IRCTC website to be launched by July 15: Here’s how train ticket booking may change
   
-  🔗 https://indianexpress.com/article/india/mt-settebello-us-strike-seafarer-phone-call-family-navy-10734380/
+  🔗 https://indianexpress.com/article/india/new-irctc-website-july-15-train-ticket-booking-changes-10735081/
 
-- 5 Indians rescued after 3rd ship on fire off Oman; 3 dead in last US strike
+- Probing Puducherry counterfeit medicine racket, CBI summons Haryana cadre IPS officer
   
-  🔗 https://indianexpress.com/article/india/ship-with-indians-on-fire-off-oman-10734377/
+  🔗 https://indianexpress.com/article/india/cbi-summons-dgca-regional-director-ips-officer-delhi-police-bribe-puducherry-medicine-racket-10735201/
 
-- Wanted in murder, extortion cases, Haryana gangster Venkat Garg extradited from Georgia
+- 2 killed in fresh violence as tensions boil over in Manipur day after 6 abducted men’s bodies found
   
-  🔗 https://indianexpress.com/article/india/wanted-in-murder-extortion-cases-haryana-gangster-venkat-garg-extradited-from-georgia-10734282/
+  🔗 https://indianexpress.com/article/india/manipur-violence-attack-naga-men-found-dead-10735172/
 
-- Kerala reports suspected Nipah virus case — trader whose godown had fruit bats
+- Rajasthan RS polls: BJP takes 2 seats, Congress 1 amid caste balancing
   
-  🔗 https://indianexpress.com/article/india/nipah-virus-suspected-kerala-godown-fruit-bats-10734281/
+  🔗 https://indianexpress.com/article/india/rajasthan-rajya-sabha-polls-bjp-2-seats-congress-1-caste-balancing-10735135/
 
-- Trinamool in tatters: Another MP resigns from Rajya Sabha, 3rd in 4 days
+- Free bus travel for women to roll out in Kerala from Monday amid concerns over funds, reach
   
-  🔗 https://indianexpress.com/article/india/trinamool-in-tatters-another-mp-resigns-from-rajya-sabha-3rd-in-4-days-10734190/
+  🔗 https://indianexpress.com/article/india/kerala-ksrtc-free-bus-travel-women-priyadarshini-scheme-rollout-10734630/
+
+- Why a new court ruling against Google’s AI Overviews could have far-reaching effects
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-court-ruling-google-ai-overviews-far-reaching-effects-10734974/
+
+- Tech updates (June 11, 2026): New ASUS gaming laptops, Canva Offline, Samsung AI deals, more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-june-11-2026-new-asus-gaming-laptops-canva-offline-samsung-ai-deals-more-10734885/
+
+- Brain chemical surge may help break old habits, study finds
+  
+  🔗 https://indianexpress.com/article/technology/science/neuroscience-brain-mechanism-acetylcholine-break-habit-addiction-parkinsons-10734759/
 
 - What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500?
   
@@ -28,17 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/pinterest-expands-amazon-partnership-with-storefront-integration-for-creators-10734461/
 
-- Scientists develop smart bandage that detects infections and releases antibiotics when needed
-  
-  🔗 https://indianexpress.com/article/technology/science/scientists-create-smart-bandage-dressing-detects-infection-10733538/
+- After Delhi Aerocity, Prestige plans mega mixed-use project in Bengaluru airport
+  The 1.5 million sq ft hospitality-led Prestige Centre project on 14.2 acres of land will be ready by 2030. It will have Marriott Marquis and St. Regis-branded
+  🔗 https://www.livemint.com/companies/news/after-delhi-aerocity-prestige-plans-mega-mixed-use-project-in-bengaluru-airport-11781098185065.html
 
-- Snapchat rolls out friends-only Stories and Spotlight profiles for users under 16
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/snapchat-rolls-out-friends-only-stories-and-spotlight-profiles-for-users-under-16-10734295/
+- 'Tough times don't last': Birla says Vodafone Idea has navigated one of its toughest periods
+  Chairman Birla said Vodafone Idea is at an inf
+  🔗 https://www.livemint.com/companies/news/vodafone-idea-turnaround-kumar-mangalam-birla-promoter-funding-agr-dues-bank-financing-11781182319872.html
 
-- Giant fan-shaped structure hidden below Antarctica’s ice, scientists find
-  
-  🔗 https://indianexpress.com/article/technology/science/giant-fan-shaped-structure-hidden-below-antarcticas-ice-scientists-find-10734198/
+- MakeMyTrip launches industry-first feature to guarantee early check-in and late check-out — Here's how it works
+  MakeMyTrip’s booking data revealed that 53% of travellers arrive at their destinations before 9 AM, while 54% depart after 3 PM. With standard hotel check-in times
+  🔗 https://www.livemint.com/companies/news/makemytrip-launches-industry-first-feature-to-guarantee-early-check-in-and-late-check-out-heres-how-it-works-11781180812424.html
 
 - Logistics firms build out data muscle as quick commerce rewires supply chains
   Brands are pushing logistics partners for granular operational intelligence as quick commerce grows. Last-mile providers like Shiprocket, Delhivery
@@ -48,37 +60,33 @@
   OpenAI plans to reduce AI pricing to attract more enterprise customers.
   🔗 https://www.livemint.com/companies/news/openai-to-cut-ai-pricing-amid-growing-competition-from-anthropic-report-11781158768945.html
 
-- India's Q4FY26 earnings were red hot. These five charts highlight how they were layered
-  Corporate India capped off FY26 with its fastest revenue expansion in three years. Will this
-  🔗 https://www.livemint.com/companies/company-results/five-charts-india-inc-q4-fiscal-2026-structural-cracks-earnings-surge-11781150601725.html
+- Sebi moves to align price bands, base price for pre-open call auction across exchanges
+  Sebi has proposed that exchanges with no trading activity in a stock adopt the closing price from the exchange where the stock is actively traded.
+  🔗 https://www.livemint.com/market/sebi-moves-to-align-price-bands-base-price-for-pre-open-call-auction-across-exchanges-11781182895928.html
 
-- TCS reconsiders plan to open offices in smaller towns after Nashik workplace harassment case
-   automation tools are driving the consolidation of workspaces. Apart from the difficulty of maintaining similar HR practices
-  🔗 https://www.livemint.com/companies/tcs-rethinks-small-town-office-expansion-after-nashik-harassment-case-11781148031692.html
+- Gold, silver rates today: Comex gold and silver extend losses for 5th day as Middle East tensions fuel rate-hike fears
+  Gold futures dropped to $4,046, with a nearly 10% decline over five sessions. Silver saw an 8% weekly loss as safe-haven demand weakened.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-losses-for-5th-day-as-middle-east-tensions-fuel-rate-hike-fears-11781182481734.html
 
-- Opendoor shuts down India operations, lays off nearly 250 employees across Chennai and Bengaluru offices
-  Opendoor is shutting down its India operations and is laying off about 250 employees
-  🔗 https://www.livemint.com/companies/news/opendoor-shuts-down-india-operations-lays-off-nearly-250-employees-across-chennai-and-bengaluru-offices-11781150885404.html
+- Wall Street rebounds as chip stocks jump amid concerns over inflation &amp; Gulf, Intel surges 10%, Applied Materials up 8%
+  The S&amp;amp;P 500 added 0.6%, the Dow Jones Industrial Average was up 373 points or
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-rebounds-as-tech-stocks-turn-higher-middle-east-conflict-in-focus-11781183959386.html
 
-- Top Gainers &amp; Losers on June 11: Aegis Logistics, DOMS Industries, Tejas Networks, Vodafone Idea among top gainers
-  The Indian stock market struggled on June 11, with Nifty 50 down 0.24% and Sensex down0.15%. Tensions in the Middle East
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-11-aegis-logistics-doms-industries-tejas-networks-vodafone-idea-among-top-gainers-11781170000742.html
+- US stock market today: S&amp;P 500, Nasdaq futures jump up to 1% as chip stocks rebound; oil prices retreat
+  US stock futures rose on 11 June, aided by a recovery in chip stocks. Meanwhile, tensions in the Middle East escalated due to the US-Iran conflict.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-jump-up-to-1-as-chip-stocks-rebound-oil-prices-retreat-11781179900831.html
 
-- Aegis Logistics' upbeat outlook ignites stock, but execution is key
-  The timely commissioning of upcoming capacity addition
-  🔗 https://www.livemint.com/market/mark-to-market/aegis-logistics-stock-upcoming-projects-lpg-west-asia-war-11781167772858.html
+- The good, the bad, and the ugly of the Indian stock market: How should investors navigate it?
+  Nikhil Chawla, managing partner and co-founder of xMultiplied Capital Advisors, says the dip being created right now is exactly where patient capital should be
+  🔗 https://www.livemint.com/market/stock-market-news/the-good-the-bad-and-the-ugly-of-the-indian-stock-market-how-should-investors-navigate-it-11781177216406.html
 
-- AVIC Chengdu share price: Chinese J-10 fighter jet maker defence stock crashes 28% despite US-Iran war
-  AVIC Chengdu had become one of the biggest beneficiaries of geopolitical tensions last year. The stock surged after the India-
-  🔗 https://www.livemint.com/market/stock-market-news/avic-chengdu-share-price-chinese-j-10-fighter-jet-maker-defence-stock-crashes-28-despite-us-iran-war-11781170632524.html
+- Anthropic apologises for hidden safeguards in Mythos-based Fable 5 model: ‘Made the wrong tradeoff’
+  Anthropic admitted it made a wrong trade-off with the release of the Fable 5 model. The company now plans to improve transparency by
+  🔗 https://www.livemint.com/technology/tech-news/anthropic-apologises-for-hidden-safeguards-in-mythos-based-fable-5-model-made-the-wrong-tradeoff-11781168345612.html
 
-- Doms Industries shares rise 8% on deal to acquire Reynolds brand assets
-  Doms Industries shares rose 8% to  ₹2,279 as investors reacted positively to its Asset Purchase Agreement with Reynolds Pens India. The $3.70 million deal includes acquiring
-  🔗 https://www.livemint.com/market/stock-market-news/doms-industries-shares-rise-8-on-deal-to-acquire-reynolds-brand-assets-11781167535096.html
-
-- Susan Electricals India IPO fully subscribed on first bidding day. Check GMP, issue details, key dates
-  Susan Electricals India IPO is open from 11 June to 15 June, with shares debuting on 18 June. The IPO has strong demand, with 3.93x subscription on day
-  🔗 https://www.livemint.com/market/susan-electricals-india-ipo-fully-subscribed-on-first-bidding-day-check-gmp-issue-details-key-dates-11781165908796.html
+- Tecno POVA 8 5G launched in India with Alive Matrix Display, 8,000mAh battery: Check price and specs
+  Tecno has launched the POVA 8 5G in India.
+  🔗 https://www.livemint.com/technology/gadgets/tecno-pova-8-5g-launched-in-india-with-alive-matrix-display-8-000mah-battery-check-price-and-specs-11781173583737.html
 
 - Anthropic CEO Dario Amodei wants AI models regulated like airplanes
   Anthropic CEO Dario Amodei has said there is a stricter need
@@ -92,133 +100,125 @@
   Canada introduces legislation to ban social media for children
   🔗 https://www.livemint.com/technology/canada-introduces-legislation-to-ban-social-media-for-children-under-16-regulate-ai-chatbots-11781129302690.html
 
-- Samsung Galaxy A27 price leaked ahead of launch: Check expected variant-wise pricing
-  The Galaxy A27 could feature a 6.7-inch Full HD+ display, Snapdragon 6 Gen
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a27-price-leaked-ahead-of-launch-check-expected-variant-wise-pricing-11781079147143.html
+- Stocks rebound, fueled by chip stocks, but gains limited on new Trump Iran threat: Live updates - CNBC
+  Stocks rebound, fueled by chip stocks, but gains limited on new Trump Iran threat. Oil falls as US Ends Iran Strikes.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5
 
-- Realme P4R 5G launched in India with 8000mAh battery, 144Hz display: Price starts at  ₹18,999
-  Realme has launched the P4R 5G in India with 8,000mAh battery, 144Hz display,
-  🔗 https://www.livemint.com/technology/gadgets/realme-p4r-5g-launched-in-india-with-8000mah-battery-144hz-display-price-starts-at-rs-18999-11781074605483.html
-
-- Asian Stocks to Fall, Oil Rises as US Strikes Iran: Markets Wrap - Bloomberg.com
-  Asian Stocks to Fall, Oil Rises as
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPajM3dWRKeUZBQWNwSThHVkpOQlYxMVNtTTdBam9Nbk5kc3oxZFVzdmMzMDFuMWN4VGFaMzFfS3hxai1JYk9mcE5FVlVxMWNmZjMtQ2dSd3JqcG0tc1haeEdBTTJJOFhhUTB5U2pVMjdfWWJRRDFnZnhaZC0tVUQ5eHdYUzlHWjUwdTY4VVBCZVg3VExn?oc=5
-
-- Markets News, June 10, 2026: Stocks End Sharply Lower, Dow Closes Below 50000; Oil Surges After Trump Says Iran Will 'Pay the Price' - Investopedia
-  Markets News, June 10, 2026: Stocks End Sharply Lower, Dow Closes Below
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzBNOTVId19zWnZLYUJCdzhqblpoMWlEZzFYWWdiWFlhMlpPbnFraUxvOF81OFk0WXhnYklIOUY3RlI5aVFBMktCcWxUS3dtWHR2T2R5MG0zTEU1TWMwUHNmWkRQWU43UjhJWXFReWFOdW1oRHB4WmFldmVGd2I2bWNHdm1INE1BSWpiaklYeXU?oc=5
-
-- Stock Market Today: Dow Futures Gain, What to Watch — Live Updates - WSJ
-  &nbsp;&ngt;<font
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNc254QUF3M1VKMGZYd3lydnR5SEhiOVhMZFFWakF3TURTSDFqWEc5dW41YnA4QUJQZExmNkxyRVhrY3JwVk1uaFk3OHpVd2p3ZG1kMi1KeXlDNUJraUtCT2V3UzJBWGl2N1E0a25nOTJXaWhhV3dieFRvbE1pWF8tRUgzd0dvRms?oc=5
+- SpaceX IPO Could Test Market, Says 1789 Capital’s Abrahimzadeh - Bloomberg.com
+  SpaceX IPO could test market,
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkxwbGtUX055T0RhcDJEZk9rZ0l2SlN1T3FMQ2cwcE10TU90TTN6YklES0FhT1VQc0xLNFIxVEZMal84ZTBja0sxV21uSWxSQWRSZFJDTExsaGU2SXlWUjBGa0hhMTNVVnpFUkVuM3FjcVFDNkt2VU1Ka1VTSnU1M081bWVMWDFuX2kxVnN3M1Z4bzItWXFYRmlZQ181UlVldnRFQ25YQjMxOUEwYlhsN3Zn?oc=5
 
 - China learns to live on less fuel, to the relief of oil markets - Reuters
   China learns to live on less fuel, to the relief
   🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmJmNHk1akxrVzVuRmc0cmxZYkh5anRaOEtSQ0FLTWhfdVlYWXpkbjRNNGxmOWpLM18tdl9WZm1mbUg1bWxPekVLSjZFdm1rUjZDakhIdTN6WG9IS1JnYmw0VnZEeDgyLVRGTlIyd2VrZ09YWHhXN0RVamdjR1NnalpGTHN3bXZFYlJRRVdZY1BaX3BJLUdKZ092eEx0aDg?oc=5
 
-- Stock Market Highlights, Sensex Today: Markets Close On Muted Note As Oil Rises After Fresh US Strikes On Iran - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEVKUDBjOVpKTUNUSmlMb01GZGtSNWZxOHNSdnUydXBfWlo1Y2pyQnRZZHRNeEh5Q3dKREJSSlFSUnEyREN5ZHVRMWxVanVhNThhTE5CdE9yZXZDOWZxbjczbTh6Uk9HYW
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNMEVKUDBjOVpKTUNUSmlMb01GZGtSNWZxOHNSdnUydXBfWlo1Y2pyQnRZZHRNeEh5Q3dKREJSSlFSUnEyREN5ZHVRMWxVanVhNThhTE5CdE9yZXZDOWZxbjczbTh6Uk9HYW5Oa1J2eHFpUmFkQWVOblJZSHU5bUY0ZEZRcFNydmJhZkNIMk9SU3FtaXpObUp1bjFmY1k0Q2dnN3BBN2VEeUlaUnl1eVpyaWNjUUZRYzhJOTRLOW1KM0ZlSkphV2pxWEZVazbSAdQBQVVfeXFMT0dCUGpKWmtjVWJqMW5KTFF3ZTEtdFk3QU9KVURCTnE3QVExYVVfUzVuZDVxQVZhVVJ1bkVoaXl2T1V6Y3R1N3AyaFFWTjNfaEN2bm1HbVZtcnp6UldFM1ZWSDZrODRyVDd4UUFqYnJOdnR1a1BRZzFGUkhEYTIxdGtpLXBCQjd0aTBnUEwxNzhvMUlSWFR4TzRSUFFoZl9DUThwdVhJdFd6YTc0SVF1b1BfUzdTeTFRYWV3NFNjREFqbC10TG1BX1NMQnVTdlpuQmFiV2s?oc=5
+- Closing Bell: Nifty below 23,200, Sensex down 150 pts; media, pharma, pvt banks rally - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxOQ3NERzBnT2cxQ0FzaS1Ha21vMjRhMi02RWRJc3RoZ2QyMWtXWW40UmhEbTNRS0RQNmtWUkpQWjlrVHp1VVB1dU8yY2pMTHJfQVUtblhmQ04zdy05VGdtbFhOVFg2ODJNNX
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOQ3NERzBnT2cxQ0FzaS1Ha21vMjRhMi02RWRJc3RoZ2QyMWtXWW40UmhEbTNRS0RQNmtWUkpQWjlrVHp1VVB1dU8yY2pMTHJfQVUtblhmQ04zdy05VGdtbFhOVFg2ODJNNXB1dFhVWHY0ZFNrMEp5WTVERGFvaHZSVXhnVWNNY1JjMFZGOTFQYjMwY0RZdXFXWFZBQlVfVmpfLS1yak83eXIyQ3p0TGJ3bW9aOGhPaTVOVHBDU1EtMFlxNE02REF3YXBqUkVzX0dsejVjcnVCMXROU1RMbTNRdWdieHBxaFpaQ3ljM0hBZEh1WDI4ZjY1dDdBMGtnU0N0VFpBT09xVTRZb1R5Y1kzamVZQdIBmAJBVV95cUxNRDQ5M1dndkxGUDZxdm9pMkxjUWI3TTVTMTFZelIxQ2ZQYmgxRzNJbl9UaDJ2RmdfaE4yMEo3Yk9acmpTaHNTeDd0QVJwMkc3S09HYm5Idmdhc3d0RlB1a2lvT3JCT1RXMUYwaHBIUFRzZkItMkgxT3dhSDdLcUtvZVVDRV9LLXJOTUR0YlBVeXRSeXEtbTZETWJxdVA2WXQzTEZyN0xySnRsR3pOMFJOTzFjVUhsb0ZIWThyZzBsWXd0a2R1UUo5S1RXekcwTU9sdTFIdWdyb3ZKc1lfLVNsdFV3a3FpV01jSEtTYzl2bXkxUzBRMzdFRmhaOVpCdWFWenJoSTU2cGxUTHpPNU5yejlBRHY0VGMy?oc=5
 
-- Short seller Jim Chanos doubts SpaceX valuation, says IPO fueled by 'hopes and dreams'
-  Renowned short seller Jim Chanos questions SpaceX's massive IPO valuation. Chanos believes the company's worth is inflated by future hopes, not current reality.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/short-seller-jim-chanos-doubts-spacex-valuation-says-ipo-fueled-by-hopes-and-dreams/articleshow/131655117.cms
+- Iran war tightens ‘super-squeeze’ in metals markets - Financial Times
+  Iran war tightens ‘
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnNpSFhkZi15Z0ZiMndxbUcyWnVRZXpacTBRZ2ZLNmNqOUJQVDg0TVN6d3dpNko5N3ZTNnVhcVU2REFKREJIMnZSc0t5NDFhelhKMUdCVGlLMnBPNVJaZGg2UnZwRlpjS2R6WDE5UVBaUmRPOTZ3aG9OcDBJUnhBS0czN1g?oc=5
 
-- Unique Picks: 6 stocks held by a single MF scheme in May; surge up to 60% in CY26
-   ETMarkets analysis identifies stocks held exclusively by a single mutual fund scheme as of May 2026. While returns remain mixed, select stocks have surged up to 62% in CY26.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-6-stocks-held-by-a-single-mf-scheme-in-may-surge-up-to-60-in-cy26/articleshow/131655108.cms
+- Vedanta demerger: Four spin-off companies list on exchanges on June 15
+  Vedanta's four demerged businesses will begin trading on June 15. The listings will enable market-driven price discovery, help unlock shareholder value.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-four-spin-off-companies-list-on-exchanges-on-june-15/articleshow/131662912.cms
 
-- Prabhudas Lilladher cuts Nifty target to 26,449, lists 16 high conviction stock picks
-  The brokerage anticipates limited further downside but warns of sharp swings due to prolonged uncertainty. Rising geopolitical risks and import dependence are impacting India's economy, potentially curtailing consumption demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/prabhudas-lilladher-cuts-nifty-target-to-26449-lists-16-high-conviction-stock-picks/articleshow/131654922.cms
+- Goldman Sachs, Morgan Stanley and others buy stake in Rs 1,960 crore Lenskart block deal
+  ADIA-backed Platinum Jasmine A 2018 Trust sold a 2.3% stake in Lenskart. The transaction attracted strong participation from mutual funds, insurers and foreign investors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-morgan-stanley-and-others-buy-stake-in-rs-1960-crore-lenskart-block-deal/articleshow/131662423.cms
 
-- Good news for Indian mutual fund investors: SpaceX could join Nasdaq 100 after 15 trading days
-  India currently has five Nasdaq-100 index schemes. Overseas investment limits have restricted fresh inflows into several global fund offerings.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/good-news-for-indian-mutual-fund-investors-spacex-could-join-nasdaq-100-after-15-trading-days/articleshow/131654724.cms
+- Block deal: Goldman Sachs picks stake in this smallcap stock that surged 50% in 6 months
+  GNG Electronics witnessed a Rs 175 crore block deal as promoter Vidhi Khandelwal sold shares to domestic mutual funds and foreign investors. Institutional interest comes amid optimism over
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/block-deal-goldman-sachs-picks-stake-in-this-smallcap-stock-that-surged-50-in-6-months/articleshow/131662337.cms
 
-- Hidden AI India winners add $48 billion on data-center boom
-  Indian industrial companies are experiencing significant growth by supplying components for data centers. Firms making transformers, cooling systems, and cables are seeing substantial gains.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hidden-ai-india-winners-add-48-billion-on-data-center-boom/articleshow/131654569.cms
+- US stocks: Oracle shares tumbles 12% as hefty AI spending, debt plans spook investors
+  Oracle faced a sharp decline in stock prices on Thursday. Investors are anxious about the company’s escalating debt and spending.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-tumbles-12-as-hefty-ai-spending-debt-plans-spook-investors/articleshow/131662284.cms
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
-
-- West Asia war LIVE: Third ship with Indian crew attacked near Oman in four days - The Hindu
-  The Hindu reports that a ship with Indian crew was attacked near Oman.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcE1lVlRPeDJnay1ndGFQc1JvelZjeldJaHlUUVdYTERKOWwyR0xBVWtabWJzdUUwVFNmZ0JBX20zb2VMZ0puNmtUam1UX2RwcnlkLVVBZUVfSnZRX2IySWtZWE9Gc3VRREJXLWdVeXFCS0JZZy1xZWRlVmF6MThRSWtKNzhhbTBGeTFyWGMwUlFIN1lVOGdaakdWUnpKS3lnVWlES3lfM2pXWFBnTzQ1eDBJU25fN0lmblRERmhDdE1iRTROVmhzUUZ1bm8yb3drd0pQRmFzbmJsQklpbXNhVkQ3MFJmLVZWVENYSmRDR2NYSjluTjI0X2tUV19oN2FmZmJubmlveTJmRkVh0gGTAkFVX3lxTFAtY0ZkZjlSbHFxTlF4enlMd2F0RDFxSWNWYUV0Rktkd3liZWNETjdLbTU1MGs3UVdMTFNPUDZGcUkwTVcxX3hHRm5wNkRWVHI0bElJSlZZWWc5dXpMMjMwSk5fWTJCVlQ4UTFyd2lfeF9QZ1dVWkQ2RmkyanNMQWF3Skp3VmVGcy1BSWl5Y25XdjBYX1FIcXZ2YzJqaE5mWmZJQVZPWjVpNnJtbVp5UG5INGt2dlhiVzNOdmxKX3NQWi1jU3lMUktCX1MySVZJa1VHODZXREZCX2NJd1A2NHhYcGZZZ08xRGNERzd6SDl3VHM5UnBROW4xdUVjWjZWMktrZmp2Y0tWR1JBV3VEU1lndXpR?oc=5
-
-- 3 Indian Sailors Killed In US Attack On Ship Off Oman Coast - NDTV
-  3 Indian Sailors Killed In US Attack On Ship
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzNVMGt2OVJMeTdvNTFnZDk0RURXMXNuWThUY1c1Xy1FaGs4ZVBja0hEY1JFUnI3V09PSTVFZW94eDZ5bUpzZU5fekVXYzE0WDQ4bkhZYko2Z083SDBJcEVHSlRuTENqdW5UbjBpZTdfVXRybnUxSWw3dDNzb2VaUll2Q3JxOFBsQ0kyT2E5c2xfN2VJSDl5VjNKblpFbmhQWENYZldEVjhUang0VkNCZDYxeUZybnNDaE15TURfNXEtV1ZBWE1DMmF2Umtrc3fSAdcBQVVfeXFMTWVkaS1XTnUzWEJGU3dycE1kOUhtLVdXTUgzV1BQT1JTakV0d01OMlkzMWwzWWY5SG5kVmRpZ0tVUTc2Y1hIM1Nya2VzTFkxSHZWYUxzNGlzMS1DWDdrRXc5WnNLNWlQcXJiTmhTdUEyQVZVXzNlRUx6cGpnYVdmaWN3a0RTU1JHbzkyN0FadkhtNnMzYXlVZDRlamtQOVNsemlFYlVmaXdfRUdDQ1V0c210MW1TcEVLUC10Y2g5S1JzSEZaZ0Fnem1yNHFtblhkc3FzSjFUNjQ?oc=5
-
-- Three Indian sailors killed by US missile near Oman, as US and Iran exchange strikes - BBC
-  Three Indian sailors killed by US missile near Oman, as US and
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSU0yM2JmUzVGX0tJWE80YmNTSEotejdPbWFMSndic3lmRlk4T0lQcGhGS2RLdW55LW9iM3ZydGhUSEtCUUpoTG9qZkpQaWFtdzVWTw?oc=5
-
-- The furious dispute over what caused Air India flight 171 to crash - BBC
-  The furious dispute over what caused Air India flight 171
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OTWtlXzBIZ0diNnktY0pweTdYLWtPVHdyaVF4WUhPc2NiOWtRdjNRZk5pa3FMY3VyVmd0aVRQb3Z2T2dSQmtPdXZyTm9qZlUydDdjSlBOSWh2QQ?oc=5
+- Sebi proposes common price-band mechanism for stocks listed on multiple exchanges
+  Sebi has proposed a new mechanism to harmonize stock price bands and pre-open auction prices. This aims to address price divergences for stocks listed on multiple platforms.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-uniform-pricing-mechanism-for-illiquid-stocks-across-exchanges/articleshow/131661419.cms
 
 - India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
   India’s Bengal pushes out Muslim
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
 
-- West Asia war LIVE: Third ship with Indian crew attacked near Oman in four days - The Hindu
-  The Hindu reports that a ship with Indian crew was attacked near Oman.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcE1lVlRPeDJnay1ndGFQc1JvelZjeldJaHlUUVdYTERKOWwyR0xBVWtabWJzdUUwVFNmZ0JBX20zb2VMZ0puNmtUam1UX2RwcnlkLVVBZUVfSnZRX2IySWtZWE9Gc3VRREJXLWdVeXFCS0JZZy1xZWRlVmF6MThRSWtKNzhhbTBGeTFyWGMwUlFIN1lVOGdaakdWUnpKS3lnVWlES3lfM2pXWFBnTzQ1eDBJU25fN0lmblRERmhDdE1iRTROVmhzUUZ1bm8yb3drd0pQRmFzbmJsQklpbXNhVkQ3MFJmLVZWVENYSmRDR2NYSjluTjI0X2tUV19oN2FmZmJubmlveTJmRkVh0gGTAkFVX3lxTFAtY0ZkZjlSbHFxTlF4enlMd2F0RDFxSWNWYUV0Rktkd3liZWNETjdLbTU1MGs3UVdMTFNPUDZGcUkwTVcxX3hHRm5wNkRWVHI0bElJSlZZWWc5dXpMMjMwSk5fWTJCVlQ4UTFyd2lfeF9QZ1dVWkQ2RmkyanNMQWF3Skp3VmVGcy1BSWl5Y25XdjBYX1FIcXZ2YzJqaE5mWmZJQVZPWjVpNnJtbVp5UG5INGt2dlhiVzNOdmxKX3NQWi1jU3lMUktCX1MySVZJa1VHODZXREZCX2NJd1A2NHhYcGZZZ08xRGNERzd6SDl3VHM5UnBROW4xdUVjWjZWMktrZmp2Y0tWR1JBV3VEU1lndXpR?oc=5
+- In Big Step, India Issues Demarche To US Diplomat After Attack On Ship - NDTV
+  &nbsp;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnhsR19SaFAyYm90VUlXM2lmU2N6bDJjaTE4UFpNOVhRcGVDeEltVks4Rng4T3ZCMTVQSnVGN2dqdm1zYXJlOHNyTUlIV0xZTHF0UUxhUU1TSXVsUk92ZGpnNE9oOWJSNFlIVldoazNhWGxQaUpycER5MURZcFBGWEFLTGJHM2FkdlJmUko2X1ZXNDVVR20zNVVuakRVeVNlbms4RFRUOW9pYmFSb2J30gG3AUFVX3lxTE9zV3NKNi15WUx3ZHNDZG5td1BPRUNNLTg1bTlTUHIyWlMzX25WUVFqdXY0YVlVd000Q214U2FLdmFWMHg1allkWV9rX1pfZ0QtcV9hR0FrakFhUHhzYXZyamdXT3RjOUpZUVR1bmFxcTZsLXNDX29YUzYybDVySU10d3dORnl2SDF3bXdyU3FNZWpnUlotQ2tPdldrSGJ2TFlwN1pIYnYyLU5wcnhFQ1U4M0E2RWQxTQ?oc=5
 
-- 3 Indian Sailors Killed In US Attack On Ship Off Oman Coast - NDTV
-  3 Indian Sailors Killed In US Attack On Ship
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzNVMGt2OVJMeTdvNTFnZDk0RURXMXNuWThUY1c1Xy1FaGs4ZVBja0hEY1JFUnI3V09PSTVFZW94eDZ5bUpzZU5fekVXYzE0WDQ4bkhZYko2Z083SDBJcEVHSlRuTENqdW5UbjBpZTdfVXRybnUxSWw3dDNzb2VaUll2Q3JxOFBsQ0kyT2E5c2xfN2VJSDl5VjNKblpFbmhQWENYZldEVjhUang0VkNCZDYxeUZybnNDaE15TURfNXEtV1ZBWE1DMmF2Umtrc3fSAdcBQVVfeXFMTWVkaS1XTnUzWEJGU3dycE1kOUhtLVdXTUgzV1BQT1JTakV0d01OMlkzMWwzWWY5SG5kVmRpZ0tVUTc2Y1hIM1Nya2VzTFkxSHZWYUxzNGlzMS1DWDdrRXc5WnNLNWlQcXJiTmhTdUEyQVZVXzNlRUx6cGpnYVdmaWN3a0RTU1JHbzkyN0FadkhtNnMzYXlVZDRlamtQOVNsemlFYlVmaXdfRUdDQ1V0c210MW1TcEVLUC10Y2g5S1JzSEZaZ0Fnem1yNHFtblhkc3FzSjFUNjQ?oc=5
+- Monsoon 2026 tracker LIVE: India expected to receive below-average rain over next two weeks, report says - The Hindu
+  India expected to receive below-average rain over next two weeks, report says
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOUTJhMVAxMjZfQVctMTNBaDc3WWFYbkU0dnlVQzRKTVVfRnBtOHR1UTdKNUxEdDhoUmtGY3pSTVJCMXhwbEIzRHRGQlVOWnJqYmotMFhxeDVkM01tWUxadVZKeVppanpiaHBnUHRJWWEzWlFubkxhSGt1WFpZWmZDUElIWTZZVURZV2FNakZjdlJNal9hcndaUVdfbDdMYmhxT1pWRmlMRi1yQUhDYnVwcUtybXNHc1d3SWtUZ1JQaWZhRnA1ZWtKZnFCcXBETzNxS3BUaWJIQ0F3aUlwQmVaS0llaTA1TTJ1dGV1WGVoNmtNVjJpcWZZZTNuX0VkSzVVdDZLRDVrYVdkaDdyUXc?oc=5
 
-- Three Indian sailors killed by US missile near Oman, as US and Iran exchange strikes - BBC
-  Three Indian sailors killed by US missile near Oman, as US and
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSU0yM2JmUzVGX0tJWE80YmNTSEotejdPbWFMSndic3lmRlk4T0lQcGhGS2RLdW55LW9iM3ZydGhUSEtCUUpoTG9qZkpQaWFtdzVWTw?oc=5
+- Dreaded Gangster Vainket Garg Extradited To India From Georgia - NDTV
+  Dreaded Gangster Vain
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXNBQ1RINDZjRGI5SVJ0SF9VV29xMTRERTI0TlJZYXNtYkpmSHQ0SVlENVloWlFUSDgtc3F1UHJNU3lXdFoxOEZhU2J6dFZjUXdMWVhtaE9ZaVlXa2xwNzFMQXgxaGdGYTZ0NDhPaWZBZ3hoZGpwZ3NpQWp4ekdoV1N1RWtrVHFKX1oyVzhRQ2ZRTmhiRVVhZnhiN1QybWxjRkdra05n0gGuAUFVX3lxTFBwUUZmRnVKSjFLYTdxWjBvek4yaUFBRURzSWdCa0hEN3VHM3hWd3JGZ1hWM1Q3VGYyRHliRUllNHpOaGRMVGpkSWtwX3NvVEkySG9hRENpNjA5WkJydnExcHlWbk9vbU96SlVWYzdYOG5LWlgxZEVaY3hlWm9OcUs3QXNQbnJUWHI2NFRJLU5uNllCTHFQNldLSzVFWjRrZlc0TGN5R25vSnAtNzJuZw?oc=5
 
-- The furious dispute over what caused Air India flight 171 to crash - BBC
-  The furious dispute over what caused Air India flight 171
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OTWtlXzBIZ0diNnktY0pweTdYLWtPVHdyaVF4WUhPc2NiOWtRdjNRZk5pa3FMY3VyVmd0aVRQb3Z2T2dSQmtPdXZyTm9qZlUydDdjSlBOSWh2QQ?oc=5
+- At Ahmedabad College Where Air India Plane Crashed, Time Still Stopped A Year On - NDTV
+  At Ahmedabad College Where Air India Plane Crashed, Time
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnNRazl3RWhoc2RmX3BkLWh1VEZ2MmZBUkpONFZzcm84VXZ2ZVZNbUVLeldWQ21KZmlQT3NCellQUlR6Q2RjZFlqVkNsdVhRSTloTFkweXNUVVoyYWdQRTBldF90MVkyaXBmbmFBTnp1OVFTZHY4V24zRDI4NUtnQVJUSWFnTHQ1YlJkWWtYQ0VleEpWTy11aUhxTXBWYjVYZUJGajJyeW9sLXdTcGQwWllfNTNXUjNwZTRKV1hYQmpyM2Q3YUN0d3ItbEtLYk9pdzhkWXBDWDlGUdIB4gFBVV95cUxQN3hCQV9VdGdqbUJyVFBKWXMyNGZOdGs1b3Rsc3hwckJmeVBINHdCRTBOdDRNOHhSczB3dFFNcXkzZHlKYkpZTV9TUWRfV0pGa3Q3Sy1XcHQtdHdPVmRnRlVjMkh6MGRrU3RMVHFOR0VNazl3WEtYanl0YUdjRkRKS3NVTDVnRnJGVXJsSTBncjNnMnNzdG8wU0dHOVVTR1B5MExfbmh1aEk1TVIyVXZjYjVsdFRjWFcxZVZ4R0JnTTJTbXZ6WDBCT3pTTzlLaFY1Y3R3NVJSVF9BTVA3Zm44N2hB?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- In Big Step, India Issues Demarche To US Diplomat After Attack On Ship - NDTV
+  &nbsp;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnhsR19SaFAyYm90VUlXM2lmU2N6bDJjaTE4UFpNOVhRcGVDeEltVks4Rng4T3ZCMTVQSnVGN2dqdm1zYXJlOHNyTUlIV0xZTHF0UUxhUU1TSXVsUk92ZGpnNE9oOWJSNFlIVldoazNhWGxQaUpycER5MURZcFBGWEFLTGJHM2FkdlJmUko2X1ZXNDVVR20zNVVuakRVeVNlbms4RFRUOW9pYmFSb2J30gG3AUFVX3lxTE9zV3NKNi15WUx3ZHNDZG5td1BPRUNNLTg1bTlTUHIyWlMzX25WUVFqdXY0YVlVd000Q214U2FLdmFWMHg1allkWV9rX1pfZ0QtcV9hR0FrakFhUHhzYXZyamdXT3RjOUpZUVR1bmFxcTZsLXNDX29YUzYybDVySU10d3dORnl2SDF3bXdyU3FNZWpnUlotQ2tPdldrSGJ2TFlwN1pIYnYyLU5wcnhFQ1U4M0E2RWQxTQ?oc=5
 
-- West Asia war LIVE: Third ship with Indian crew attacked near Oman in four days - The Hindu
-  The Hindu reports that a ship with Indian crew was attacked near Oman.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcE1lVlRPeDJnay1ndGFQc1JvelZjeldJaHlUUVdYTERKOWwyR0xBVWtabWJzdUUwVFNmZ0JBX20zb2VMZ0puNmtUam1UX2RwcnlkLVVBZUVfSnZRX2IySWtZWE9Gc3VRREJXLWdVeXFCS0JZZy1xZWRlVmF6MThRSWtKNzhhbTBGeTFyWGMwUlFIN1lVOGdaakdWUnpKS3lnVWlES3lfM2pXWFBnTzQ1eDBJU25fN0lmblRERmhDdE1iRTROVmhzUUZ1bm8yb3drd0pQRmFzbmJsQklpbXNhVkQ3MFJmLVZWVENYSmRDR2NYSjluTjI0X2tUV19oN2FmZmJubmlveTJmRkVh0gGTAkFVX3lxTFAtY0ZkZjlSbHFxTlF4enlMd2F0RDFxSWNWYUV0Rktkd3liZWNETjdLbTU1MGs3UVdMTFNPUDZGcUkwTVcxX3hHRm5wNkRWVHI0bElJSlZZWWc5dXpMMjMwSk5fWTJCVlQ4UTFyd2lfeF9QZ1dVWkQ2RmkyanNMQWF3Skp3VmVGcy1BSWl5Y25XdjBYX1FIcXZ2YzJqaE5mWmZJQVZPWjVpNnJtbVp5UG5INGt2dlhiVzNOdmxKX3NQWi1jU3lMUktCX1MySVZJa1VHODZXREZCX2NJd1A2NHhYcGZZZ08xRGNERzd6SDl3VHM5UnBROW4xdUVjWjZWMktrZmp2Y0tWR1JBV3VEU1lndXpR?oc=5
+- Monsoon 2026 tracker LIVE: India expected to receive below-average rain over next two weeks, report says - The Hindu
+  India expected to receive below-average rain over next two weeks, report says
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOUTJhMVAxMjZfQVctMTNBaDc3WWFYbkU0dnlVQzRKTVVfRnBtOHR1UTdKNUxEdDhoUmtGY3pSTVJCMXhwbEIzRHRGQlVOWnJqYmotMFhxeDVkM01tWUxadVZKeVppanpiaHBnUHRJWWEzWlFubkxhSGt1WFpZWmZDUElIWTZZVURZV2FNakZjdlJNal9hcndaUVdfbDdMYmhxT1pWRmlMRi1yQUhDYnVwcUtybXNHc1d3SWtUZ1JQaWZhRnA1ZWtKZnFCcXBETzNxS3BUaWJIQ0F3aUlwQmVaS0llaTA1TTJ1dGV1WGVoNmtNVjJpcWZZZTNuX0VkSzVVdDZLRDVrYVdkaDdyUXc?oc=5
 
-- 3 Indian Sailors Killed In US Attack On Ship Off Oman Coast - NDTV
-  3 Indian Sailors Killed In US Attack On Ship
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzNVMGt2OVJMeTdvNTFnZDk0RURXMXNuWThUY1c1Xy1FaGs4ZVBja0hEY1JFUnI3V09PSTVFZW94eDZ5bUpzZU5fekVXYzE0WDQ4bkhZYko2Z083SDBJcEVHSlRuTENqdW5UbjBpZTdfVXRybnUxSWw3dDNzb2VaUll2Q3JxOFBsQ0kyT2E5c2xfN2VJSDl5VjNKblpFbmhQWENYZldEVjhUang0VkNCZDYxeUZybnNDaE15TURfNXEtV1ZBWE1DMmF2Umtrc3fSAdcBQVVfeXFMTWVkaS1XTnUzWEJGU3dycE1kOUhtLVdXTUgzV1BQT1JTakV0d01OMlkzMWwzWWY5SG5kVmRpZ0tVUTc2Y1hIM1Nya2VzTFkxSHZWYUxzNGlzMS1DWDdrRXc5WnNLNWlQcXJiTmhTdUEyQVZVXzNlRUx6cGpnYVdmaWN3a0RTU1JHbzkyN0FadkhtNnMzYXlVZDRlamtQOVNsemlFYlVmaXdfRUdDQ1V0c210MW1TcEVLUC10Y2g5S1JzSEZaZ0Fnem1yNHFtblhkc3FzSjFUNjQ?oc=5
+- Dreaded Gangster Vainket Garg Extradited To India From Georgia - NDTV
+  Dreaded Gangster Vain
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXNBQ1RINDZjRGI5SVJ0SF9VV29xMTRERTI0TlJZYXNtYkpmSHQ0SVlENVloWlFUSDgtc3F1UHJNU3lXdFoxOEZhU2J6dFZjUXdMWVhtaE9ZaVlXa2xwNzFMQXgxaGdGYTZ0NDhPaWZBZ3hoZGpwZ3NpQWp4ekdoV1N1RWtrVHFKX1oyVzhRQ2ZRTmhiRVVhZnhiN1QybWxjRkdra05n0gGuAUFVX3lxTFBwUUZmRnVKSjFLYTdxWjBvek4yaUFBRURzSWdCa0hEN3VHM3hWd3JGZ1hWM1Q3VGYyRHliRUllNHpOaGRMVGpkSWtwX3NvVEkySG9hRENpNjA5WkJydnExcHlWbk9vbU96SlVWYzdYOG5LWlgxZEVaY3hlWm9OcUs3QXNQbnJUWHI2NFRJLU5uNllCTHFQNldLSzVFWjRrZlc0TGN5R25vSnAtNzJuZw?oc=5
 
-- Three Indian sailors killed by US missile near Oman, as US and Iran exchange strikes - BBC
-  Three Indian sailors killed by US missile near Oman, as US and
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSU0yM2JmUzVGX0tJWE80YmNTSEotejdPbWFMSndic3lmRlk4T0lQcGhGS2RLdW55LW9iM3ZydGhUSEtCUUpoTG9qZkpQaWFtdzVWTw?oc=5
+- At Ahmedabad College Where Air India Plane Crashed, Time Still Stopped A Year On - NDTV
+  At Ahmedabad College Where Air India Plane Crashed, Time
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnNRazl3RWhoc2RmX3BkLWh1VEZ2MmZBUkpONFZzcm84VXZ2ZVZNbUVLeldWQ21KZmlQT3NCellQUlR6Q2RjZFlqVkNsdVhRSTloTFkweXNUVVoyYWdQRTBldF90MVkyaXBmbmFBTnp1OVFTZHY4V24zRDI4NUtnQVJUSWFnTHQ1YlJkWWtYQ0VleEpWTy11aUhxTXBWYjVYZUJGajJyeW9sLXdTcGQwWllfNTNXUjNwZTRKV1hYQmpyM2Q3YUN0d3ItbEtLYk9pdzhkWXBDWDlGUdIB4gFBVV95cUxQN3hCQV9VdGdqbUJyVFBKWXMyNGZOdGs1b3Rsc3hwckJmeVBINHdCRTBOdDRNOHhSczB3dFFNcXkzZHlKYkpZTV9TUWRfV0pGa3Q3Sy1XcHQtdHdPVmRnRlVjMkh6MGRrU3RMVHFOR0VNazl3WEtYanl0YUdjRkRKS3NVTDVnRnJGVXJsSTBncjNnMnNzdG8wU0dHOVVTR1B5MExfbmh1aEk1TVIyVXZjYjVsdFRjWFcxZVZ4R0JnTTJTbXZ6WDBCT3pTTzlLaFY1Y3R3NVJSVF9BTVA3Zm44N2hB?oc=5
 
-- The furious dispute over what caused Air India flight 171 to crash - BBC
-  The furious dispute over what caused Air India flight 171
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OTWtlXzBIZ0diNnktY0pweTdYLWtPVHdyaVF4WUhPc2NiOWtRdjNRZk5pa3FMY3VyVmd0aVRQb3Z2T2dSQmtPdXZyTm9qZlUydDdjSlBOSWh2QQ?oc=5
+- Three Indian sailors killed in US strike on oil tanker - BBC
+  Three Indian sailors killed in US strike on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- In Big Step, India Issues Demarche To US Diplomat After Attack On Ship - NDTV
+  &nbsp;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnhsR19SaFAyYm90VUlXM2lmU2N6bDJjaTE4UFpNOVhRcGVDeEltVks4Rng4T3ZCMTVQSnVGN2dqdm1zYXJlOHNyTUlIV0xZTHF0UUxhUU1TSXVsUk92ZGpnNE9oOWJSNFlIVldoazNhWGxQaUpycER5MURZcFBGWEFLTGJHM2FkdlJmUko2X1ZXNDVVR20zNVVuakRVeVNlbms4RFRUOW9pYmFSb2J30gG3AUFVX3lxTE9zV3NKNi15WUx3ZHNDZG5td1BPRUNNLTg1bTlTUHIyWlMzX25WUVFqdXY0YVlVd000Q214U2FLdmFWMHg1allkWV9rX1pfZ0QtcV9hR0FrakFhUHhzYXZyamdXT3RjOUpZUVR1bmFxcTZsLXNDX29YUzYybDVySU10d3dORnl2SDF3bXdyU3FNZWpnUlotQ2tPdldrSGJ2TFlwN1pIYnYyLU5wcnhFQ1U4M0E2RWQxTQ?oc=5
 
-- West Asia war LIVE: Third ship with Indian crew attacked near Oman in four days - The Hindu
-  The Hindu reports that a ship with Indian crew was attacked near Oman.
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxOcE1lVlRPeDJnay1ndGFQc1JvelZjeldJaHlUUVdYTERKOWwyR0xBVWtabWJzdUUwVFNmZ0JBX20zb2VMZ0puNmtUam1UX2RwcnlkLVVBZUVfSnZRX2IySWtZWE9Gc3VRREJXLWdVeXFCS0JZZy1xZWRlVmF6MThRSWtKNzhhbTBGeTFyWGMwUlFIN1lVOGdaakdWUnpKS3lnVWlES3lfM2pXWFBnTzQ1eDBJU25fN0lmblRERmhDdE1iRTROVmhzUUZ1bm8yb3drd0pQRmFzbmJsQklpbXNhVkQ3MFJmLVZWVENYSmRDR2NYSjluTjI0X2tUV19oN2FmZmJubmlveTJmRkVh0gGTAkFVX3lxTFAtY0ZkZjlSbHFxTlF4enlMd2F0RDFxSWNWYUV0Rktkd3liZWNETjdLbTU1MGs3UVdMTFNPUDZGcUkwTVcxX3hHRm5wNkRWVHI0bElJSlZZWWc5dXpMMjMwSk5fWTJCVlQ4UTFyd2lfeF9QZ1dVWkQ2RmkyanNMQWF3Skp3VmVGcy1BSWl5Y25XdjBYX1FIcXZ2YzJqaE5mWmZJQVZPWjVpNnJtbVp5UG5INGt2dlhiVzNOdmxKX3NQWi1jU3lMUktCX1MySVZJa1VHODZXREZCX2NJd1A2NHhYcGZZZ08xRGNERzd6SDl3VHM5UnBROW4xdUVjWjZWMktrZmp2Y0tWR1JBV3VEU1lndXpR?oc=5
+- Monsoon 2026 tracker LIVE: India expected to receive below-average rain over next two weeks, report says - The Hindu
+  India expected to receive below-average rain over next two weeks, report says
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOUTJhMVAxMjZfQVctMTNBaDc3WWFYbkU0dnlVQzRKTVVfRnBtOHR1UTdKNUxEdDhoUmtGY3pSTVJCMXhwbEIzRHRGQlVOWnJqYmotMFhxeDVkM01tWUxadVZKeVppanpiaHBnUHRJWWEzWlFubkxhSGt1WFpZWmZDUElIWTZZVURZV2FNakZjdlJNal9hcndaUVdfbDdMYmhxT1pWRmlMRi1yQUhDYnVwcUtybXNHc1d3SWtUZ1JQaWZhRnA1ZWtKZnFCcXBETzNxS3BUaWJIQ0F3aUlwQmVaS0llaTA1TTJ1dGV1WGVoNmtNVjJpcWZZZTNuX0VkSzVVdDZLRDVrYVdkaDdyUXc?oc=5
 
-- 3 Indian Sailors Killed In US Attack On Ship Off Oman Coast - NDTV
-  3 Indian Sailors Killed In US Attack On Ship
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzNVMGt2OVJMeTdvNTFnZDk0RURXMXNuWThUY1c1Xy1FaGs4ZVBja0hEY1JFUnI3V09PSTVFZW94eDZ5bUpzZU5fekVXYzE0WDQ4bkhZYko2Z083SDBJcEVHSlRuTENqdW5UbjBpZTdfVXRybnUxSWw3dDNzb2VaUll2Q3JxOFBsQ0kyT2E5c2xfN2VJSDl5VjNKblpFbmhQWENYZldEVjhUang0VkNCZDYxeUZybnNDaE15TURfNXEtV1ZBWE1DMmF2Umtrc3fSAdcBQVVfeXFMTWVkaS1XTnUzWEJGU3dycE1kOUhtLVdXTUgzV1BQT1JTakV0d01OMlkzMWwzWWY5SG5kVmRpZ0tVUTc2Y1hIM1Nya2VzTFkxSHZWYUxzNGlzMS1DWDdrRXc5WnNLNWlQcXJiTmhTdUEyQVZVXzNlRUx6cGpnYVdmaWN3a0RTU1JHbzkyN0FadkhtNnMzYXlVZDRlamtQOVNsemlFYlVmaXdfRUdDQ1V0c210MW1TcEVLUC10Y2g5S1JzSEZaZ0Fnem1yNHFtblhkc3FzSjFUNjQ?oc=5
+- Dreaded Gangster Vainket Garg Extradited To India From Georgia - NDTV
+  Dreaded Gangster Vain
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXNBQ1RINDZjRGI5SVJ0SF9VV29xMTRERTI0TlJZYXNtYkpmSHQ0SVlENVloWlFUSDgtc3F1UHJNU3lXdFoxOEZhU2J6dFZjUXdMWVhtaE9ZaVlXa2xwNzFMQXgxaGdGYTZ0NDhPaWZBZ3hoZGpwZ3NpQWp4ekdoV1N1RWtrVHFKX1oyVzhRQ2ZRTmhiRVVhZnhiN1QybWxjRkdra05n0gGuAUFVX3lxTFBwUUZmRnVKSjFLYTdxWjBvek4yaUFBRURzSWdCa0hEN3VHM3hWd3JGZ1hWM1Q3VGYyRHliRUllNHpOaGRMVGpkSWtwX3NvVEkySG9hRENpNjA5WkJydnExcHlWbk9vbU96SlVWYzdYOG5LWlgxZEVaY3hlWm9OcUs3QXNQbnJUWHI2NFRJLU5uNllCTHFQNldLSzVFWjRrZlc0TGN5R25vSnAtNzJuZw?oc=5
 
-- Three Indian sailors killed by US missile near Oman, as US and Iran exchange strikes - BBC
-  Three Indian sailors killed by US missile near Oman, as US and
-  🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSU0yM2JmUzVGX0tJWE80YmNTSEotejdPbWFMSndic3lmRlk4T0lQcGhGS2RLdW55LW9iM3ZydGhUSEtCUUpoTG9qZkpQaWFtdzVWTw?oc=5
+- At Ahmedabad College Where Air India Plane Crashed, Time Still Stopped A Year On - NDTV
+  At Ahmedabad College Where Air India Plane Crashed, Time
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnNRazl3RWhoc2RmX3BkLWh1VEZ2MmZBUkpONFZzcm84VXZ2ZVZNbUVLeldWQ21KZmlQT3NCellQUlR6Q2RjZFlqVkNsdVhRSTloTFkweXNUVVoyYWdQRTBldF90MVkyaXBmbmFBTnp1OVFTZHY4V24zRDI4NUtnQVJUSWFnTHQ1YlJkWWtYQ0VleEpWTy11aUhxTXBWYjVYZUJGajJyeW9sLXdTcGQwWllfNTNXUjNwZTRKV1hYQmpyM2Q3YUN0d3ItbEtLYk9pdzhkWXBDWDlGUdIB4gFBVV95cUxQN3hCQV9VdGdqbUJyVFBKWXMyNGZOdGs1b3Rsc3hwckJmeVBINHdCRTBOdDRNOHhSczB3dFFNcXkzZHlKYkpZTV9TUWRfV0pGa3Q3Sy1XcHQtdHdPVmRnRlVjMkh6MGRrU3RMVHFOR0VNazl3WEtYanl0YUdjRkRKS3NVTDVnRnJGVXJsSTBncjNnMnNzdG8wU0dHOVVTR1B5MExfbmh1aEk1TVIyVXZjYjVsdFRjWFcxZVZ4R0JnTTJTbXZ6WDBCT3pTTzlLaFY1Y3R3NVJSVF9BTVA3Zm44N2hB?oc=5
 
-- The furious dispute over what caused Air India flight 171 to crash - BBC
-  The furious dispute over what caused Air India flight 171
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OTWtlXzBIZ0diNnktY0pweTdYLWtPVHdyaVF4WUhPc2NiOWtRdjNRZk5pa3FMY3VyVmd0aVRQb3Z2T2dSQmtPdXZyTm9qZlUydDdjSlBOSWh2QQ?oc=5
+- Three Indian sailors killed in US strike on oil tanker - BBC
+  Three Indian sailors killed in US strike on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
+
+- In Big Step, India Issues Demarche To US Diplomat After Attack On Ship - NDTV
+  &nbsp;<font color="#6f6
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnhsR19SaFAyYm90VUlXM2lmU2N6bDJjaTE4UFpNOVhRcGVDeEltVks4Rng4T3ZCMTVQSnVGN2dqdm1zYXJlOHNyTUlIV0xZTHF0UUxhUU1TSXVsUk92ZGpnNE9oOWJSNFlIVldoazNhWGxQaUpycER5MURZcFBGWEFLTGJHM2FkdlJmUko2X1ZXNDVVR20zNVVuakRVeVNlbms4RFRUOW9pYmFSb2J30gG3AUFVX3lxTE9zV3NKNi15WUx3ZHNDZG5td1BPRUNNLTg1bTlTUHIyWlMzX25WUVFqdXY0YVlVd000Q214U2FLdmFWMHg1allkWV9rX1pfZ0QtcV9hR0FrakFhUHhzYXZyamdXT3RjOUpZUVR1bmFxcTZsLXNDX29YUzYybDVySU10d3dORnl2SDF3bXdyU3FNZWpnUlotQ2tPdldrSGJ2TFlwN1pIYnYyLU5wcnhFQ1U4M0E2RWQxTQ?oc=5
+
+- Monsoon 2026 tracker LIVE: India expected to receive below-average rain over next two weeks, report says - The Hindu
+  India expected to receive below-average rain over next two weeks, report says
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOUTJhMVAxMjZfQVctMTNBaDc3WWFYbkU0dnlVQzRKTVVfRnBtOHR1UTdKNUxEdDhoUmtGY3pSTVJCMXhwbEIzRHRGQlVOWnJqYmotMFhxeDVkM01tWUxadVZKeVppanpiaHBnUHRJWWEzWlFubkxhSGt1WFpZWmZDUElIWTZZVURZV2FNakZjdlJNal9hcndaUVdfbDdMYmhxT1pWRmlMRi1yQUhDYnVwcUtybXNHc1d3SWtUZ1JQaWZhRnA1ZWtKZnFCcXBETzNxS3BUaWJIQ0F3aUlwQmVaS0llaTA1TTJ1dGV1WGVoNmtNVjJpcWZZZTNuX0VkSzVVdDZLRDVrYVdkaDdyUXc?oc=5
+
+- Dreaded Gangster Vainket Garg Extradited To India From Georgia - NDTV
+  Dreaded Gangster Vain
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXNBQ1RINDZjRGI5SVJ0SF9VV29xMTRERTI0TlJZYXNtYkpmSHQ0SVlENVloWlFUSDgtc3F1UHJNU3lXdFoxOEZhU2J6dFZjUXdMWVhtaE9ZaVlXa2xwNzFMQXgxaGdGYTZ0NDhPaWZBZ3hoZGpwZ3NpQWp4ekdoV1N1RWtrVHFKX1oyVzhRQ2ZRTmhiRVVhZnhiN1QybWxjRkdra05n0gGuAUFVX3lxTFBwUUZmRnVKSjFLYTdxWjBvek4yaUFBRURzSWdCa0hEN3VHM3hWd3JGZ1hWM1Q3VGYyRHliRUllNHpOaGRMVGpkSWtwX3NvVEkySG9hRENpNjA5WkJydnExcHlWbk9vbU96SlVWYzdYOG5LWlgxZEVaY3hlWm9OcUs3QXNQbnJUWHI2NFRJLU5uNllCTHFQNldLSzVFWjRrZlc0TGN5R25vSnAtNzJuZw?oc=5
+
+- At Ahmedabad College Where Air India Plane Crashed, Time Still Stopped A Year On - NDTV
+  At Ahmedabad College Where Air India Plane Crashed, Time
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnNRazl3RWhoc2RmX3BkLWh1VEZ2MmZBUkpONFZzcm84VXZ2ZVZNbUVLeldWQ21KZmlQT3NCellQUlR6Q2RjZFlqVkNsdVhRSTloTFkweXNUVVoyYWdQRTBldF90MVkyaXBmbmFBTnp1OVFTZHY4V24zRDI4NUtnQVJUSWFnTHQ1YlJkWWtYQ0VleEpWTy11aUhxTXBWYjVYZUJGajJyeW9sLXdTcGQwWllfNTNXUjNwZTRKV1hYQmpyM2Q3YUN0d3ItbEtLYk9pdzhkWXBDWDlGUdIB4gFBVV95cUxQN3hCQV9VdGdqbUJyVFBKWXMyNGZOdGs1b3Rsc3hwckJmeVBINHdCRTBOdDRNOHhSczB3dFFNcXkzZHlKYkpZTV9TUWRfV0pGa3Q3Sy1XcHQtdHdPVmRnRlVjMkh6MGRrU3RMVHFOR0VNazl3WEtYanl0YUdjRkRKS3NVTDVnRnJGVXJsSTBncjNnMnNzdG8wU0dHOVVTR1B5MExfbmh1aEk1TVIyVXZjYjVsdFRjWFcxZVZ4R0JnTTJTbXZ6WDBCT3pTTzlLaFY1Y3R3NVJSVF9BTVA3Zm44N2hB?oc=5
+
+- Three Indian sailors killed in US strike on oil tanker - BBC
+  Three Indian sailors killed in US strike on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-11 10:18:40 UTC_
+_Last updated: 2026-06-11 15:49:16 UTC_
