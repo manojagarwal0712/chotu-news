@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Nishant’s affidavit puts focus on unfinished degree, rising income ahead of Bihar MLC polls
+- Delhi-NCR weather alert: Rain, thunderstorms, lightning likely till June 13
   
-  🔗 https://indianexpress.com/article/india/nishant-nitish-kumar-bihar-mlc-polls-10733627/
+  🔗 https://indianexpress.com/article/india/weather-monsoon-rain-thunderstorm-delhi-imd-10733966/
 
-- Rail connectivity in Kashmir: Jammu-Srinagar Vande Bharat train to stop at Anantnag soon
+- Centre waives excise duty on 22% to ‌30% ethanol-blended petrol
   
-  🔗 https://indianexpress.com/article/india/jammu-srinagar-vande-bharat-anantnag-stop-south-kashmir-connectivity-10733606/
+  🔗 https://indianexpress.com/article/india/govt-exempts-excise-duty-higher-ethanol-petrol-blends-crude-imports-10733961/
 
-- Weeks after 300 stranded mid-air, J&K orders probe into Gulmarg gondola glitch
+- GI tag for rice, irrigation, sewing machines: As Chhattisgarh CM travels to villages, residents queue up with requests
   
-  🔗 https://indianexpress.com/article/india/gulmarg-gondola-glitch-probe-committee-mehmood-shah-tourism-safety-10733061/
+  🔗 https://indianexpress.com/article/india/gi-tag-for-rice-irrigation-sewing-machines-as-chhattisgarh-cm-vishnu-deo-sai-travels-to-villages-residents-queue-up-with-requests-10733797/
 
-- Himachal receives nearly 2,790 tonnes of urea ahead of kharif
+- Hindu Kush Himalaya region to face drier monsoon, but threats of climate-induced hazards remain: New analysis
   
-  🔗 https://indianexpress.com/article/india/himachal-pradesh-urea-consignment-kharif-paddy-season-fertiliser-10733601/
+  🔗 https://indianexpress.com/article/india/hindu-kush-himalaya-region-to-face-drier-monsoon-but-threats-of-climate-induced-hazards-remain-new-analysis-10733819/
 
-- 22-year-old’s suicide over shaming: Notice to Goa government, senior cop
+- Cabinet hails Narendra Modi’s ‘historic’ PM stint; Donald Trump, world leaders send greetings
   
-  🔗 https://indianexpress.com/article/india/goa-student-suicide-case-ghrc-police-report-10733572/
+  🔗 https://indianexpress.com/article/india/cabinet-hails-narendra-modis-historic-pm-stint-donald-trump-world-leaders-send-greetings-10733832/
+
+- Canada introduces bill to ban social media for children under 16, regulate AI chatbots
+  
+  🔗 https://indianexpress.com/article/technology/canada-introduces-bill-to-ban-social-media-for-children-under-16-regulate-ai-chatbots-10733964/
 
 - What is Eicon, the app looking to make museum visits easier with your camera?
   
@@ -36,49 +40,53 @@
   
   🔗 https://indianexpress.com/article/technology/science/nasa-announces-all-male-crew-for-artemis-iii-moon-mission-faces-backlash-10733157/
 
-- Netflix unveils new mobile experience, curated collections and games updates for Asia-Pacific
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-unveils-new-mobile-experience-curated-collections-and-games-updates-for-asia-pacific-10733054/
+- China touts Xinjiang at trade forum, spotlighting a region once marked by detention centers
+  China touts Xinjiang at trade forum,
+  🔗 https://www.livemint.com/companies/china-touts-xinjiang-at-trade-forum-spotlighting-a-region-once-marked-by-detention-centers-11781144957174.html
 
-- Shareholder challenge to Thomson Reuters over ICE contracts wins only slim support
-  Shareholder challenge to Thomson Reuters over
-  🔗 https://www.livemint.com/companies/shareholder-challenge-to-thomson-reuters-over-ice-contracts-wins-only-slim-support-11781121821641.html
+- Microsoft's Xbox plans major layoffs next month as low console sales, few blockbuster titles mount pressure
+  Xbox has been facing mounting challenges as Microsoft's bet on subscriptions and cloud gaming failed to offset declining console sales
+  🔗 https://www.livemint.com/companies/news/microsofts-xbox-plans-major-layoffs-next-month-as-low-console-sales-few-blockbuster-titles-mount-pressure-11781140146271.html
 
-- SpaceX Leaves Some Banks Peeved at Junior Roles in IPO Lineup
-  Several junior banks marketing shares in SpaceX’s landmark listing are working for relatively small fees and being relegated to roles that don’t
-  🔗 https://www.livemint.com/companies/spacex-leaves-some-banks-peeved-at-junior-roles-in-ipo-lineup-11781116693169.html
+- India Inc turns to allowances as labour code squeezes salaries
+  India Inc is expanding tax-efficient allowances and benefits such as meal vouchers, fuel reimbursements, education allowances and professional development support.
+  🔗 https://www.livemint.com/companies/news/india-inc-allowances-labour-code-changes-salaries-statutory-payroll-costs-tax-efficient-allowances-benefits-11781077296422.html
 
-- Merger of REC with Power Finance Corporation gets Presidential approval
-  The merger aims to enhance efficiency in Public Sector NBFCs. It will dissolve REC as per the Companies Act.
-  🔗 https://www.livemint.com/companies/news/president-approves-merger-of-rec-with-power-finance-corporation-11781108690287.html
+- Zepto’s IPO filing shows the challenge of cracking quick-commerce economics
+  Zipto's IPO filing shows a quick-commerce business that
+  🔗 https://www.livemint.com/companies/news/zeptos-filing-shows-the-price-of-building-speed-at-scale-11781084478280.html
 
-- Zee secures 12+ brands for FIFA World Cup 2026 ads; Apple, Mahindra and Diageo lead list
-  Zee Entertainment Enterprises has partnered with more than 12 brands for the FIFA World Cup 20
-  🔗 https://www.livemint.com/companies/news/zee-secures-12-brands-for-fifa-world-cup-2026-ads-apple-mahindra-and-diageo-lead-list-11781102329381.html
+- Manam Chocolate bets on premium market, raises $9 million
+  Manam Chocolate sells everything from chocolate bars and gifting boxes to past
+  🔗 https://www.livemint.com/companies/news/manam-chocolate-premium-chocolate-fundraise-cococart-cocoshala-bean-to-bar-cocoa-coffee-11781082025930.html
 
-- Novelis restarts production at New York plant key to Ford trucks
-  Novelis resumed production at its Oswego, New York
-  🔗 https://www.livemint.com/companies/news/novelis-restarts-production-at-new-york-plant-key-to-ford-trucks-11781104140991.html
+- Buy or sell: Gift Nifty hints gap-down opening, Vaishali Parekh recommends three intraday stocks; US-Iran news in focus
+   Vaishali Parekh recommends three stocks to buy today
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-gap-down-opening-vaishali-parekh-recommends-three-intraday-stocks-us-iran-news-in-focus-11781144660971.html
 
-- Wall Street indexes fall 1%, dragged by tech and worries about Middle East
-  Wall Street indexes fall 1%, dragged by tech and worries
-  🔗 https://www.livemint.com/market/wall-street-indexes-fall-1-dragged-by-tech-and-worries-about-middle-east-11781118175933.html
+- Gold, Silver Rates Today LIVE: Gold prices rebound from six-month low, silver gains amid US-Iran war; crude oil spikes
+  Gold prices rebounded short-covering as investors awaited key US inflation data that could shed more light on the US
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-live-gold-rate-today-silver-price-today-us-iran-war-crude-oil-us-fed-rate-hike-11-june-2026-11781146772787.html
 
-- Gold slides 3% as Middle East escalation fuels inflation, rate-hike concerns
-  Gold slides 3% as Middle
-  🔗 https://www.livemint.com/market/gold-slides-3-as-middle-east-escalation-fuels-inflation-rate-hike-concerns-11781117375749.html
+- BOJ Ueda’s Absence Fuels Market Nerves Over Press Conference
+  Bank of Japan Governor Kazuo Ueda’s hospitalization is generating uncertainty among investors. Investors remain convinced officials will raise interest rates.
+  🔗 https://www.livemint.com/market/boj-ueda-s-absence-fuels-market-nerves-over-press-conference-11781146494524.html
 
-- Crude oil prices rebound as Trump warns of more attacks on Iran; Brent nears $95 per barrel
-  Brent crude rose to $94.36 and WTI to $91.38, recovering from previous declines. President Trump warned of intensified attacks on Iran following recent airstrikes.
-  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-prices-rebound-as-trump-warns-of-more-attacks-on-iran-brent-nears-95-per-barrel-11781107153797.html
+- Stocks to watch: Lenskart, Central Bank , Meesho, Power Grid, among key stocks in focus on 11 June
+  Sensex and Nifty 50 ended mixed amid profit booking. Significant market activities include stake acquisitions and a strategic partnership in the automotive sector.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-lenskart-central-bank-meesho-power-grid-among-key-stocks-in-focus-on-11-june-11781145553440.html
 
-- After SoftBank, ADIA plans over $200 million Lenskart sell-down
-  Platinum Jasmine A 2018 Trust, an investment vehicle of the Abu Dhabi Investment Authority, is offering up to 40
-  🔗 https://www.livemint.com/market/stock-market-news/softbank-abu-dhabi-investment-authority-adia-lenskart-stake-sale-block-deals-11781101615370.html
+- Asian markets today: Nikkei, Kospi crash up to 4% as US-Iran war escalates, crude oil prices rise
+  Japanese government bond (JGB) yields also climbed on inflation concerns. The benchmark 10-year JGB yield rose 1 bp
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-crash-up-to-4-as-us-iran-war-escalates-crude-oil-prices-rise-11781145089076.html
 
-- Gold, silver rates today: Comex gold, silver trim losses after softer US inflation data; Middle East tensions cap gains
-  Gold fell to $4,192, marking a downward trend, while silver rose to $65.46. Gold
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-silver-trim-losses-after-softer-us-inflation-data-middle-east-tensions-cap-gains-11781099942700.html
+- Former xAI engineer claims he was fired for raising safety concerns about Grok, told ‘AI will kill us all anyway’
+  A former xAI engineer has sued Elon Musk's xAI and SpaceX, alleging he was fired
+  🔗 https://www.livemint.com/technology/tech-news/former-xai-engineer-claims-he-was-fired-for-raising-safety-concerns-about-grok-told-ai-will-kill-us-all-anyway-11781140538481.html
+
+- Canada introduces legislation to ban social media for children under 16, regulate AI chatbots
+  Canada introduces legislation to ban social media for children
+  🔗 https://www.livemint.com/technology/canada-introduces-legislation-to-ban-social-media-for-children-under-16-regulate-ai-chatbots-11781129302690.html
 
 - Samsung Galaxy A27 price leaked ahead of launch: Check expected variant-wise pricing
   The Galaxy A27 could feature a 6.7-inch Full HD+ display, Snapdragon 6 Gen
@@ -92,161 +100,145 @@
   Health-AI:AI is
   🔗 https://www.livemint.com/technology/ai-is-boosting-accuracy-for-clinicians-philips-north-america-ceo-says-11781031830735.html
 
-- Not even the iPhone 17 can run Apple's newest on-device AI models: Check eligibility list
-  Apple now requires minimum 12GB of RAM for on-device AI models. Apple's latest advanced AI features will only be available on newer models including iPhone
-  🔗 https://www.livemint.com/technology/tech-news/not-even-the-iphone-17-can-run-apples-newest-on-device-ai-models-check-eligibility-list-11781004907963.html
+- Stock Market News, June 10, 2026: Dow Drops 953 Points; Trump Says More Attacks Coming on Iran - WSJ
+  The WSJ published a story on June 10, 2026 about the Dow
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE00Z21CZnE1bGtKWUlFUE52c181a1JxZE1qRGt6ZFFGX0tuSDdBM1VzcmpfenlpXzNpNFVuTUp0NVF1ZjR1OVVpQ2lxWlVIZ201c3VrT21EYnQ5LVg0OUtCZ1NnLVJGcnhsQkNpZTZRZTl1NE5WWTduQmhn?oc=5
 
-- New leap for embodied AI: Hong Kong to launch 24-hour convenience store run entirely by a humanoid robot
-  Embodied AI is transforming various industries, including retail. A new store in Hong Kong will be operated by a humanoid robot, offering 24-hour service.
-  🔗 https://www.livemint.com/technology/new-leap-for-embodied-ai-hong-kong-to-launch-24-hour-convenience-store-run-entirely-by-a-humanoid-robot-11781012149174.html
+- Markets News, June 10, 2026: Stocks End Sharply Lower, Dow Closes Below 50000; Oil Surges After Trump Says Iran Will 'Pay the Price' - Investopedia
+  Markets News, June 10, 2026: Stocks End Sharply Lower, Dow Closes Below
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzBNOTVId19zWnZLYUJCdzhqblpoMWlEZzFYWWdiWFlhMlpPbnFraUxvOF81OFk0WXhnYklIOUY3RlI5aVFBMktCcWxUS3dtWHR2T2R5MG0zTEU1TWMwUHNmWkRQWU43UjhJWXFReWFOdW1oRHB4WmFldmVGd2I2bWNHdm1INE1BSWpiaklYeXU?oc=5
 
-- Stocks Fall as US-Iran Tension Spurs Rally in Oil: Markets Wrap - Bloomberg.com
-  Stocks Fall as US-Iran Tension
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHR3TWt3d29EYUd2bTlTZ2FqZ1pJLUw5NHlyYjU2ZWZJdkVCcXlfWEduZHNkTVpldzZ0QkhzVDVsSnZhWVdGdUM1Qm43WFZKRmgwRUNBMktVenlCajJnT3UyZTBNS19USnVpUnpJX0FuWkN3UWZkRHdZQW04OFhVZ3I3RWtTbUM0bTc5X1FRRGVIaEw4?oc=5
+- Asian Stocks to Fall, Oil Rises as US Strikes Iran: Markets Wrap - Bloomberg.com
+  Asian Stocks to Fall, Oil Rises as
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPajM3dWRKeUZBQWNwSThHVkpOQlYxMVNtTTdBam9Nbk5kc3oxZFVzdmMzMDFuMWN4VGFaMzFfS3hxai1JYk9mcE5FVlVxMWNmZjMtQ2dSd3JqcG0tc1haeEdBTTJJOFhhUTB5U2pVMjdfWWJRRDFnZnhaZC0tVUQ5eHdYUzlHWjUwdTY4VVBCZVg3VExn?oc=5
 
-- Stocks Get Tech Boost as Oil Declines Below $90: Markets Wrap - Bloomberg.com
-  Stocks Get Tech Boost as Oil Declines
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxObXNMajhXamM0WHNTNUkwWFVxcTJ1SVFZekdQdjBoc1NxQll0Q3ZpQ0lpQ25NaWVBT0Ryb0NoM2R0OUhCcmNncnJWV0xZZFptc3BVYlVDekFpR3ZvMlRaVmhLQ2lqay1QSlpSRkJKSU1IVUh3dVdJaGpXNkVmQUJmS1NJaG1jSXo4N3ZkM3dob3BJSUhV?oc=5
+- NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on June 11 - Upstox
+  <ol><li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSWFRb2FWYWtGcFlTRUtRT2pfZ3dDWmxRbmhNQTRvQjNJS3NaejJoNUJISmJLSm9SNXJRaGVfdXhhLUt0YkxZUTFGQ2Q1ajI4LThpLUFsdlo1QzZ2anFCMU5KQnZDb0EwTH
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSWFRb2FWYWtGcFlTRUtRT2pfZ3dDWmxRbmhNQTRvQjNJS3NaejJoNUJISmJLSm9SNXJRaGVfdXhhLUt0YkxZUTFGQ2Q1ajI4LThpLUFsdlo1QzZ2anFCMU5KQnZDb0EwTHNjUVlDNWJRb3JnZTZFQkNyQlFGUmZEYmx4d0ZnX3g3X3ZoYzhCUkEwRXhXSERmQlU5bl8tSlBSNUtTSENpS0ZKMUJ5NFdKV1IwQlY3NmtVcVoyZ2NudXFOdkluLUU5eEdDaUE1N0dBSGdNQVJFeXZIM29Yc3ZNMTBIeS1NOFBlVjhTcUkySlRydw?oc=5
 
-- Stock Market Today: Nasdaq, Chip Stocks Get Pummeled. Trump Threatens Iran. (Live Coverage) - Investor's Business Daily
-  Stock Market Today: Nasdaq, Chip Stocks Get Pumm
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE5MM19LcFh2MWpkcm1wSUNENGFrTnhlcjdfbTBsVmYwT0tyOWJKQ3JFZFBRWU0xUHdUa19RMDI1dG4wd0ZZb1BCUTk2c2JaT3NOYWV1S3VvaWVvcUczSmpLVGdwRjdOZWZ0anhQRmx1TTNpRVFLWmlXclQyZjAzcU9tdFZDUUNMQzZGXzEzbHROWXFIY3BUTUh2ZkppRklac2RkZktvRm5DSVUyQnJlbg?oc=5
+- South Korea’s booming stock market mints generation of novice investors - Al Jazeera
+  South Korea’s booming stock market mint
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUpiSFoyTnplM3A4S2NsM1MtbWlGUWNMQVZ5Ql9QbTM3VVktSDJOY2VRcTB4WjREVExRQWQxVTVzOXZ0MUNVaXNHTXBWeWNvbTVNYkhVR3drSFNfMDNKbU9WQUhrRkdxZ212NmIzZWh6OXBSdTdJY2N5UTI3dWRTdk5INkVyTmtqY1RXMlZVdU1makhnQ3JOeTFHdW1kazhETFBqUGZWRV9UbUp6cU9zQ1FVcW5sckXSAbwBQVVfeXFMT0dYd3A4VGRzd2p6MVQ5Z0l5alUwNHdDbTI3VWFJMFBodXFobjFKRm9URWxVNHZSc3BaaDFfcEJEQ1NsQm9FaVpsMHJjYy1rSnY3TXpDRlV6Nmk2OTVHU1hOWl95ejBONldMOXpIbnBYSWZlU2hPU3VsbVpJaDBRdktpNmwtUnExWUZiZ2FzUHdkSEprbExDYV8xNWlfcEdyXzJSOE80VjUtNE0yaDItSE5IWHVOQzBZSEhYUTU?oc=5
 
-- Stock markets fall as concerns persist over tech firms at heart of AI boom - The Guardian
-  Stock markets fall as concerns persist over tech firms at heart of AI
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWRNQV9jMGlWMFNVeVpoYzcyNGlFVFQ4Zk00N3pYQ3lJZEc1a3g0dml1dmlhTG9CcjQ3V1ZqSk1rT1kyNjFVZS1WWUlaMWdxTFd5Mksta3NpVFlEV0ZZbHFQanJKVXFKWVM1SmotWFA4NU9HdDJ4UEZHS19ja19Tdk9RY1NFdGNHWlp5Rzc1MWtzZXhOaVluRUlrOEtZTURqNW5PR3hPTlZuWW42MUE?oc=5
+- Positive Breakout: These 8 stocks rise above their 200 DMAs
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-rise-above-their-200-dmas/slideshow/131647646.cms
 
-- Closing Bell: Sensex, Nifty pare gains to end flat; broader markets tumble 1.5% - Moneycontrol.com
-  The broader markets tumble 1.5% on Monday.
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQb2xSTjRWc3BQVWMyYkUxY3lhMWZ6Y2hRU043dkkwel9KNXVNakF4SGs5eC1TdkJ5cHl1czBIYkxhelZUeTI1YXl0MmxRYm40ck5sSHRRM19kQjctYnM2SWVpNTN2SEVrWEQybi1FM3RVejF6dEY3bG5YbVRzaFNBQmNUWkdvTTZ5WHlWVjVqOWRDQ2tiejBrcTlheEFFUEFwZGw3OWlWWU8xMkR4cmlEYklpVGVtNGZwQXFEdjRmd095OUREb19OdmthNTRFcUZOTjN6WHIzQnM5a1hzNUlqTS0xelBCcTBjTmYyT1RXM0QwR2diQXhrTlJWZXVBbkxJVnJ4VTgwVllscVNoVnVZeFZDc9IBmAJBVV95cUxOTzdJOEd5ZURJam1ZLVFqYU9URVBvZTBhYUYtcU52bWxPMHlHMnBWbk01WVk2ZzZ2RndlLUF6YmNzdEFqbk9BN3FGWmVJWExQaVBva0F5b3FnYm1RcFZzUldtZEVaYWdacnpNT3BIa1ZCM1dEODZIUTVTdkhIOTZuaTZiekJJT0lCQ21TVUw3MG4tVkNQREVQdS1YYzNUWG91MHlIV1R3czh0U3hZTHN0ZkJxU2g4aDJJVjVzT0hleU1iQld1MUk3TlJmMzJydnhrdzB0LUM2eHllRGZRa3dlUjYxZUxIaXRhR21lcXZqVmFsS2VHLTdodWFNS2xZbjBIMVNOeXpjZk9ZSmszdG5VbUQ5dENSUFlT?oc=5
+- UHM Vacation shares to list today. Check GMP ahead of debut
+  UHM Vacation Listing: The company raised ₹36.02 crore through its IPO. The public issue was open for subscription from June 4 to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/uhm-vacation-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131647436.cms
 
-- US stocks: US market indexes fall over 1%, dragged by tech and Iran war worries
-  The S&amp;P 500, Nasdaq Composite, and Dow Jones Industrial Average all saw substantial losses. Investors are also considering potential interest rate hikes and taking profits in the tech sector.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-fall-1-dragged-by-tech-and-iran-war-worries/articleshow/131644160.cms
+- Susan Electricals IPO opens for subscription today. Check GMP, price band and other details
+  The IPO of Susan Electricals India opens for subscription on June 11 and closes on June 15. The issue comprises a fresh issue of 47.42 lakh shares worth ₹60.22 crore
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/susan-electricals-ipo-opens-for-subscription-today-check-gmp-price-band-and-other-details/articleshow/131647320.cms
 
-- ADIA to sell Rs 1,944 crore Lenskart stake days after SoftBank exit
-  Abu Dhabi Investment Authority (ADIA) is set to divest up to 2.3% of its stake in eyewear retailer Lenskart. This follows a significant stake sale by SoftBank.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/adia-to-sell-rs-1944-crore-lenskart-stake-days-after-softbank-exit/articleshow/131640885.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: Gift Nifty drops 40 pts; Asian markets fall, oil gains after US strikes on Iran
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-11-june-2026/liveblog/131647019.cms
 
-- Norm-breaking SpaceX IPO a source of elation, angst on Wall Street
-  SpaceX is poised for a historic IPO, aiming to raise $75 billion with a $1.8 trillion valuation. The IPO's performance could significantly impact future tech listings.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street/articleshow/131640038.cms
+- Dollar shaky as investors weigh rate outlook, Middle East worries
+  U.S. dollar weakened amid new Middle East strikes and rising consumer inflation. Despite ongoing tit-for-tat strikes, market reactions were subdued.
+  🔗 https://economictimes.indiatimes.com/markets/forex/dollar-shaky-as-investors-weigh-rate-outlook-middle-east-worries/articleshow/131646979.cms
 
-- OpenAI expects to go public 'within the next year,' the Information reports
-  OpenAI CEO Sam Altman indicated an IPO within the next year, with the company having recently filed confidentially. The company is also preparing for a tender offer at its current share price.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/openai-expects-to-go-public-within-the-next-year-the-information-reports/articleshow/131639919.cms
+- India summons US envoy over attack on ship carrying Indian sailors off Oman - Al Jazeera
+  India summons US envoy over attack on ship carrying Indian sailors off
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJqX0p1RVE4WVF3U2dqMDktaXpBYlRUOEo1NFZvVnpYSWhBWjBLLXc5X3NVYmtBNC0tVkhReXpSRUNYVk0tU2JsRnoyWlRZZTVPZ2QzREZZNHliN2hkZ1l6SUNRSm1mcDU5M2tkNDhUalltOXdRUXdhTm91MU1vU055c2NZb2hocXBiWGZpRkJnMWVTRUV3Z3hBYXRCRGtQeThvb3A2dzRveTgxVHhWVlBn0gG3AUFVX3lxTFBYVWE2em16eGgxU3FIRGVpNnZhZEVzeDdmUHZHbUVpS0I1cVJxZXZDTTNNdURNZnB4MmluczNlLWUxRmw1TThRUEdaai05VFVPYkJOQ09uUV9LVFFBT1dBaVNyaUxHWC1fcjlvQ29uX1dEQVRRTWlfdmlXd0N6VEs1b0FfczFHZG1zS3RFMFc2SDhrRzRBOU56R0dPb2o1cHp0d18yM1NXcnlfRXU3bmZySTNrUW5UTQ?oc=5
 
-- Gold slides 3% as Middle East escalation fuels inflation, rate-hike concerns
-  Investors awaited key U.S. data, including the Producer Price Index, to gauge the Federal Reserve's monetary policy. Despite recent consolidation, inflation and central bank buying continue to support gold.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-3-as-middle-east-escalation-fuels-inflation-rate-hike-concerns/articleshow/131639890.cms
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report - BBC
+  Sumeet Sabharwal's father vows to defend son
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibUFHdEFzQ1NkcUZxeGRDenFQdjlySnVZX2lERmF2M2RXVHFZc3BDV3BGYzd2WEFOb3dpcFRqdi1EQ3Q5YlJETkVFbTlka3FUVlJWWUxMSF8yQQ?oc=5
 
-- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister | Akashvani News - News On AIR
-  Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+- Air India crash report delayed due to unfinished engine examination, Bloomberg News reports - Reuters
+  Air India crash report delayed due to unfinished engine examination.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHEzczFURzhUbEFIbXVJNXUzU19IUjJFZnNtV3Vtck9rc2dCd0J1ZjZ3WC1NQ0U2VWVWMVBaNnpvQW9USVFQajZfY01rdDljMDFRekVPZkU5WWdqZ3Nfb042MFVBcDZnVXcxX1haOXpxUW1QMVdqWjNDQ2RLWmp6LXNOX244OXpHUEYwamRGQnA1RGlJbjVtZTdVVE12QXhYTFdXUkxGUUJ6YWNoTU45aWlIZUFtNXVoa3lZdDdrTmZRcndmY0E?oc=5
 
-- "4,399 Days And Counting": PM Modi Becomes Longest-Serving Elected Prime Minister - NDTV
-  "4,399 Days And Counting":
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1pHQVRjV3ZRS05UekFudmo1NGQ4UDlEYUtkX0ZpWGQ2ZWNYc2ZGbDc0MWlNV0pXQzNHYW5XWER6MUdaQnk0dm1OZlBIV3lHTkpqT21nTzRWSVNYcWhMc3FjMThZQzB5V1RiQzZuTWJsR1c2bHJObzdqMzlmOXhJcHAxQUNjZVRQRlJBaG9RcXc0S1QyVEFLMkk3U0dPY1pwbTRmQjZSTGszcHV2dVRMcExTZTdDaEVLWkw5ZF9DS3NqWEp1MVBZQjRpMlVVbE13VDF1c0xJUlBkd9IB4gFBVV95cUxQbzZYenFOQmFzWWZSWGlucXVoeE5xWVNjTW5PWDRlWVhwblJvVGVha3ExcTBjRGdIRUtFVVh0ZTBNMDNOeVRPY0Z6UHd3WEM3Y2FtUmxjVDlOU2VFREZtdko3aC0wU3lnclZYemRLTmJ4ZVF3VWY2MGZCdVoxTnZIWHk4S01kRnh0SXlJa0xZQTMyVUNkYlFoeDI5R0s5Y1c1OThZdlhUSzJFTnE1WnpnY3hEeVpvUFAxQkZEQ01oYUpadkFPSDI1bWFPV0xLRWViVmpLSVlfX0N5MFpKWlZfbUFR?oc=5
+- First made-in-India C-295 carries out maiden test flight - The Hindu
+  First made-in-India C
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm8yX1JRNUttdkE1Z3VHb3lUZktBNVFfWkdvQ1haQ1pScnF6YWZDVnRKMXduWGJuWXNTaXBjcVpZMGgyd2xNRU9ncUNzY0syUWwtTHRvU1U1NFBWdlpqZWRmamNxMWF5WFJ1b25EUndUTFZvUlZQWm1PWWVTWnhmMmYtT1FQSWxoWGgwMnY3dGRXRV9MUGZXaVFFUUFaSTJGdlVqN080eXBET3dXWFhKd2ZGQUYwQdIBvAFBVV95cUxQSUJfT0h1S3AyVG1mYnV2QldpUUotYkhYeHp2eUxVNjdVYTJIbGdYMnYxM2JXeEdLVk9kekdQeGg4U0lvVF9FTnczNERGdk1uZjlxdnJ3aGdMaXVoVDRqY1ptaW9PRnhPeUE5QTNGTE0zd3ZRZG94SE5LWTBBTnhNTlBOdVlOdDlHdmpNeWx5SUNKSDVvTXc4YTQteU5EeE9uUjRqd0hOS0ZXZ240WGRxdHJQcndSc0ZyLVVGUw?oc=5
 
-- Trump congratulates Modi on becoming India's longest-serving elected PM - The Hindu
-  Trump congratulates Modi on becoming India's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXNwVWNxN2RlOV9xQ2U5MXdoaE9vNThqVTVGNmo4cmUzMVVRQTdSM2hEVWJyQmFqUkticld2UmFINFhvMXVwTXNEVVB2Y19vOUFFV3NQSEdGaTh6aE9jOGVDZWV6ekg1aWZFYnNrV1V5dG1Bc3BVbjY3OU1zWGU1RWdieWFPRXJxTlgyWGhYeGdPb3pPNEZoVHJ0OGhNMTBjNzdjWC0wNElrTG5mZDRVTVI0RDRjMEtsQ2hVS3lHSkJPN29RMmpYS9IBzwFBVV95cUxPTG5sYnpXcldBUmNTMW52RnM1WG5NdkEyU0VLZ3AzdEItLTM4eGFmLUxJRkVhYUxzSzRaQVdYSUhnTVh1aDkxSlZvNzZOTU0tQnA0YVZzLWowcUtwNUhwczFWdlJhTXBSMEVKOENOb1RhLUpfQzhYUURGa3ZhM19PYlM3dElSX0lzS19TeE5ZYjdpTTZseDdVdmhqeHd4V1U2YVctYUtHcEhpUjYtWkJpOUhrX0lXOFJacUFIcjc1QUtsNUVjeHdKRHpHRjNzWlE?oc=5
+- India summons US envoy over attack on ship carrying Indian sailors off Oman - Al Jazeera
+  India summons US envoy over attack on ship carrying Indian sailors off
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJqX0p1RVE4WVF3U2dqMDktaXpBYlRUOEo1NFZvVnpYSWhBWjBLLXc5X3NVYmtBNC0tVkhReXpSRUNYVk0tU2JsRnoyWlRZZTVPZ2QzREZZNHliN2hkZ1l6SUNRSm1mcDU5M2tkNDhUalltOXdRUXdhTm91MU1vU055c2NZb2hocXBiWGZpRkJnMWVTRUV3Z3hBYXRCRGtQeThvb3A2dzRveTgxVHhWVlBn0gG3AUFVX3lxTFBYVWE2em16eGgxU3FIRGVpNnZhZEVzeDdmUHZHbUVpS0I1cVJxZXZDTTNNdURNZnB4MmluczNlLWUxRmw1TThRUEdaai05VFVPYkJOQ09uUV9LVFFBT1dBaVNyaUxHWC1fcjlvQ29uX1dEQVRRTWlfdmlXd0N6VEs1b0FfczFHZG1zS3RFMFc2SDhrRzRBOU56R0dPb2o1cHp0d18yM1NXcnlfRXU3bmZySTNrUW5UTQ?oc=5
 
-- First Made-In-India C-295 Carries Out Maiden Test Flight - NDTV
-  First Made-In-India
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbHlRUU51OHZ5YjJTV3hoSU9JbXlaU2FXeVl0XzNlMjZZNDd6Z2dETFVDQ2lIZDBFeXJBclZkTHVFY0VNcG9nX3ZlQVl1bkRsemtwcjg1TDR0ZmFlTFllNGxQUmlPc05semhTam9ac3JPZDllZWxqLXZobUFkN0l5Zm5PWkRYMFhtXzl0NktWVjZ1TG85MVlBSmNmWE1pQdIBpgFBVV95cUxQNUd4ZE5sTXh6SkpLMWtYUEZva3VlSDF5cDB2bWV3ajJnMzBVYjhJTjlDbjNqNlRWR0hHdjRWYmxma1EtMHl5aDVmN2lZcTg0X2RPdGo3aGNqSC1SRHNwWGNwZU8wcjgyRjE1clJraTBTVm9ibWEtdjl6NkVNMzgyRXBiNVV2TXlDNzh1eUFRc3VLRkk0WnFBeG1ENWJNS00xUkRpcXZB?oc=5
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report - BBC
+  Sumeet Sabharwal's father vows to defend son
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibUFHdEFzQ1NkcUZxeGRDenFQdjlySnVZX2lERmF2M2RXVHFZc3BDV3BGYzd2WEFOb3dpcFRqdi1EQ3Q5YlJETkVFbTlka3FUVlJWWUxMSF8yQQ?oc=5
 
-- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister | Akashvani News - News On AIR
-  Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+- Air India crash report delayed due to unfinished engine examination, Bloomberg News reports - Reuters
+  Air India crash report delayed due to unfinished engine examination.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHEzczFURzhUbEFIbXVJNXUzU19IUjJFZnNtV3Vtck9rc2dCd0J1ZjZ3WC1NQ0U2VWVWMVBaNnpvQW9USVFQajZfY01rdDljMDFRekVPZkU5WWdqZ3Nfb042MFVBcDZnVXcxX1haOXpxUW1QMVdqWjNDQ2RLWmp6LXNOX244OXpHUEYwamRGQnA1RGlJbjVtZTdVVE12QXhYTFdXUkxGUUJ6YWNoTU45aWlIZUFtNXVoa3lZdDdrTmZRcndmY0E?oc=5
 
-- "4,399 Days And Counting": PM Modi Becomes Longest-Serving Elected Prime Minister - NDTV
-  "4,399 Days And Counting":
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1pHQVRjV3ZRS05UekFudmo1NGQ4UDlEYUtkX0ZpWGQ2ZWNYc2ZGbDc0MWlNV0pXQzNHYW5XWER6MUdaQnk0dm1OZlBIV3lHTkpqT21nTzRWSVNYcWhMc3FjMThZQzB5V1RiQzZuTWJsR1c2bHJObzdqMzlmOXhJcHAxQUNjZVRQRlJBaG9RcXc0S1QyVEFLMkk3U0dPY1pwbTRmQjZSTGszcHV2dVRMcExTZTdDaEVLWkw5ZF9DS3NqWEp1MVBZQjRpMlVVbE13VDF1c0xJUlBkd9IB4gFBVV95cUxQbzZYenFOQmFzWWZSWGlucXVoeE5xWVNjTW5PWDRlWVhwblJvVGVha3ExcTBjRGdIRUtFVVh0ZTBNMDNOeVRPY0Z6UHd3WEM3Y2FtUmxjVDlOU2VFREZtdko3aC0wU3lnclZYemRLTmJ4ZVF3VWY2MGZCdVoxTnZIWHk4S01kRnh0SXlJa0xZQTMyVUNkYlFoeDI5R0s5Y1c1OThZdlhUSzJFTnE1WnpnY3hEeVpvUFAxQkZEQ01oYUpadkFPSDI1bWFPV0xLRWViVmpLSVlfX0N5MFpKWlZfbUFR?oc=5
+- First made-in-India C-295 carries out maiden test flight - The Hindu
+  First made-in-India C
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm8yX1JRNUttdkE1Z3VHb3lUZktBNVFfWkdvQ1haQ1pScnF6YWZDVnRKMXduWGJuWXNTaXBjcVpZMGgyd2xNRU9ncUNzY0syUWwtTHRvU1U1NFBWdlpqZWRmamNxMWF5WFJ1b25EUndUTFZvUlZQWm1PWWVTWnhmMmYtT1FQSWxoWGgwMnY3dGRXRV9MUGZXaVFFUUFaSTJGdlVqN080eXBET3dXWFhKd2ZGQUYwQdIBvAFBVV95cUxQSUJfT0h1S3AyVG1mYnV2QldpUUotYkhYeHp2eUxVNjdVYTJIbGdYMnYxM2JXeEdLVk9kekdQeGg4U0lvVF9FTnczNERGdk1uZjlxdnJ3aGdMaXVoVDRqY1ptaW9PRnhPeUE5QTNGTE0zd3ZRZG94SE5LWTBBTnhNTlBOdVlOdDlHdmpNeWx5SUNKSDVvTXc4YTQteU5EeE9uUjRqd0hOS0ZXZ240WGRxdHJQcndSc0ZyLVVGUw?oc=5
 
-- Trump congratulates Modi on becoming India's longest-serving elected PM - The Hindu
-  Trump congratulates Modi on becoming India's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXNwVWNxN2RlOV9xQ2U5MXdoaE9vNThqVTVGNmo4cmUzMVVRQTdSM2hEVWJyQmFqUkticld2UmFINFhvMXVwTXNEVVB2Y19vOUFFV3NQSEdGaTh6aE9jOGVDZWV6ekg1aWZFYnNrV1V5dG1Bc3BVbjY3OU1zWGU1RWdieWFPRXJxTlgyWGhYeGdPb3pPNEZoVHJ0OGhNMTBjNzdjWC0wNElrTG5mZDRVTVI0RDRjMEtsQ2hVS3lHSkJPN29RMmpYS9IBzwFBVV95cUxPTG5sYnpXcldBUmNTMW52RnM1WG5NdkEyU0VLZ3AzdEItLTM4eGFmLUxJRkVhYUxzSzRaQVdYSUhnTVh1aDkxSlZvNzZOTU0tQnA0YVZzLWowcUtwNUhwczFWdlJhTXBSMEVKOENOb1RhLUpfQzhYUURGa3ZhM19PYlM3dElSX0lzS19TeE5ZYjdpTTZseDdVdmhqeHd4V1U2YVctYUtHcEhpUjYtWkJpOUhrX0lXOFJacUFIcjc1QUtsNUVjeHdKRHpHRjNzWlE?oc=5
+- India summons US envoy over attack on ship carrying Indian sailors off Oman - Al Jazeera
+  India summons US envoy over attack on ship carrying Indian sailors off
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJqX0p1RVE4WVF3U2dqMDktaXpBYlRUOEo1NFZvVnpYSWhBWjBLLXc5X3NVYmtBNC0tVkhReXpSRUNYVk0tU2JsRnoyWlRZZTVPZ2QzREZZNHliN2hkZ1l6SUNRSm1mcDU5M2tkNDhUalltOXdRUXdhTm91MU1vU055c2NZb2hocXBiWGZpRkJnMWVTRUV3Z3hBYXRCRGtQeThvb3A2dzRveTgxVHhWVlBn0gG3AUFVX3lxTFBYVWE2em16eGgxU3FIRGVpNnZhZEVzeDdmUHZHbUVpS0I1cVJxZXZDTTNNdURNZnB4MmluczNlLWUxRmw1TThRUEdaai05VFVPYkJOQ09uUV9LVFFBT1dBaVNyaUxHWC1fcjlvQ29uX1dEQVRRTWlfdmlXd0N6VEs1b0FfczFHZG1zS3RFMFc2SDhrRzRBOU56R0dPb2o1cHp0d18yM1NXcnlfRXU3bmZySTNrUW5UTQ?oc=5
 
-- First Made-In-India C-295 Carries Out Maiden Test Flight - NDTV
-  First Made-In-India
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbHlRUU51OHZ5YjJTV3hoSU9JbXlaU2FXeVl0XzNlMjZZNDd6Z2dETFVDQ2lIZDBFeXJBclZkTHVFY0VNcG9nX3ZlQVl1bkRsemtwcjg1TDR0ZmFlTFllNGxQUmlPc05semhTam9ac3JPZDllZWxqLXZobUFkN0l5Zm5PWkRYMFhtXzl0NktWVjZ1TG85MVlBSmNmWE1pQdIBpgFBVV95cUxQNUd4ZE5sTXh6SkpLMWtYUEZva3VlSDF5cDB2bWV3ajJnMzBVYjhJTjlDbjNqNlRWR0hHdjRWYmxma1EtMHl5aDVmN2lZcTg0X2RPdGo3aGNqSC1SRHNwWGNwZU8wcjgyRjE1clJraTBTVm9ibWEtdjl6NkVNMzgyRXBiNVV2TXlDNzh1eUFRc3VLRkk0WnFBeG1ENWJNS00xUkRpcXZB?oc=5
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report - BBC
+  Sumeet Sabharwal's father vows to defend son
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibUFHdEFzQ1NkcUZxeGRDenFQdjlySnVZX2lERmF2M2RXVHFZc3BDV3BGYzd2WEFOb3dpcFRqdi1EQ3Q5YlJETkVFbTlka3FUVlJWWUxMSF8yQQ?oc=5
 
-- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister | Akashvani News - News On AIR
-  Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+- Air India crash report delayed due to unfinished engine examination, Bloomberg News reports - Reuters
+  Air India crash report delayed due to unfinished engine examination.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHEzczFURzhUbEFIbXVJNXUzU19IUjJFZnNtV3Vtck9rc2dCd0J1ZjZ3WC1NQ0U2VWVWMVBaNnpvQW9USVFQajZfY01rdDljMDFRekVPZkU5WWdqZ3Nfb042MFVBcDZnVXcxX1haOXpxUW1QMVdqWjNDQ2RLWmp6LXNOX244OXpHUEYwamRGQnA1RGlJbjVtZTdVVE12QXhYTFdXUkxGUUJ6YWNoTU45aWlIZUFtNXVoa3lZdDdrTmZRcndmY0E?oc=5
 
-- "4,399 Days And Counting": PM Modi Becomes Longest-Serving Elected Prime Minister - NDTV
-  "4,399 Days And Counting":
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1pHQVRjV3ZRS05UekFudmo1NGQ4UDlEYUtkX0ZpWGQ2ZWNYc2ZGbDc0MWlNV0pXQzNHYW5XWER6MUdaQnk0dm1OZlBIV3lHTkpqT21nTzRWSVNYcWhMc3FjMThZQzB5V1RiQzZuTWJsR1c2bHJObzdqMzlmOXhJcHAxQUNjZVRQRlJBaG9RcXc0S1QyVEFLMkk3U0dPY1pwbTRmQjZSTGszcHV2dVRMcExTZTdDaEVLWkw5ZF9DS3NqWEp1MVBZQjRpMlVVbE13VDF1c0xJUlBkd9IB4gFBVV95cUxQbzZYenFOQmFzWWZSWGlucXVoeE5xWVNjTW5PWDRlWVhwblJvVGVha3ExcTBjRGdIRUtFVVh0ZTBNMDNOeVRPY0Z6UHd3WEM3Y2FtUmxjVDlOU2VFREZtdko3aC0wU3lnclZYemRLTmJ4ZVF3VWY2MGZCdVoxTnZIWHk4S01kRnh0SXlJa0xZQTMyVUNkYlFoeDI5R0s5Y1c1OThZdlhUSzJFTnE1WnpnY3hEeVpvUFAxQkZEQ01oYUpadkFPSDI1bWFPV0xLRWViVmpLSVlfX0N5MFpKWlZfbUFR?oc=5
+- First made-in-India C-295 carries out maiden test flight - The Hindu
+  First made-in-India C
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm8yX1JRNUttdkE1Z3VHb3lUZktBNVFfWkdvQ1haQ1pScnF6YWZDVnRKMXduWGJuWXNTaXBjcVpZMGgyd2xNRU9ncUNzY0syUWwtTHRvU1U1NFBWdlpqZWRmamNxMWF5WFJ1b25EUndUTFZvUlZQWm1PWWVTWnhmMmYtT1FQSWxoWGgwMnY3dGRXRV9MUGZXaVFFUUFaSTJGdlVqN080eXBET3dXWFhKd2ZGQUYwQdIBvAFBVV95cUxQSUJfT0h1S3AyVG1mYnV2QldpUUotYkhYeHp2eUxVNjdVYTJIbGdYMnYxM2JXeEdLVk9kekdQeGg4U0lvVF9FTnczNERGdk1uZjlxdnJ3aGdMaXVoVDRqY1ptaW9PRnhPeUE5QTNGTE0zd3ZRZG94SE5LWTBBTnhNTlBOdVlOdDlHdmpNeWx5SUNKSDVvTXc4YTQteU5EeE9uUjRqd0hOS0ZXZ240WGRxdHJQcndSc0ZyLVVGUw?oc=5
 
-- Trump congratulates Modi on becoming India's longest-serving elected PM - The Hindu
-  Trump congratulates Modi on becoming India's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXNwVWNxN2RlOV9xQ2U5MXdoaE9vNThqVTVGNmo4cmUzMVVRQTdSM2hEVWJyQmFqUkticld2UmFINFhvMXVwTXNEVVB2Y19vOUFFV3NQSEdGaTh6aE9jOGVDZWV6ekg1aWZFYnNrV1V5dG1Bc3BVbjY3OU1zWGU1RWdieWFPRXJxTlgyWGhYeGdPb3pPNEZoVHJ0OGhNMTBjNzdjWC0wNElrTG5mZDRVTVI0RDRjMEtsQ2hVS3lHSkJPN29RMmpYS9IBzwFBVV95cUxPTG5sYnpXcldBUmNTMW52RnM1WG5NdkEyU0VLZ3AzdEItLTM4eGFmLUxJRkVhYUxzSzRaQVdYSUhnTVh1aDkxSlZvNzZOTU0tQnA0YVZzLWowcUtwNUhwczFWdlJhTXBSMEVKOENOb1RhLUpfQzhYUURGa3ZhM19PYlM3dElSX0lzS19TeE5ZYjdpTTZseDdVdmhqeHd4V1U2YVctYUtHcEhpUjYtWkJpOUhrX0lXOFJacUFIcjc1QUtsNUVjeHdKRHpHRjNzWlE?oc=5
+- India summons US envoy over attack on ship carrying Indian sailors off Oman - Al Jazeera
+  India summons US envoy over attack on ship carrying Indian sailors off
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJqX0p1RVE4WVF3U2dqMDktaXpBYlRUOEo1NFZvVnpYSWhBWjBLLXc5X3NVYmtBNC0tVkhReXpSRUNYVk0tU2JsRnoyWlRZZTVPZ2QzREZZNHliN2hkZ1l6SUNRSm1mcDU5M2tkNDhUalltOXdRUXdhTm91MU1vU055c2NZb2hocXBiWGZpRkJnMWVTRUV3Z3hBYXRCRGtQeThvb3A2dzRveTgxVHhWVlBn0gG3AUFVX3lxTFBYVWE2em16eGgxU3FIRGVpNnZhZEVzeDdmUHZHbUVpS0I1cVJxZXZDTTNNdURNZnB4MmluczNlLWUxRmw1TThRUEdaai05VFVPYkJOQ09uUV9LVFFBT1dBaVNyaUxHWC1fcjlvQ29uX1dEQVRRTWlfdmlXd0N6VEs1b0FfczFHZG1zS3RFMFc2SDhrRzRBOU56R0dPb2o1cHp0d18yM1NXcnlfRXU3bmZySTNrUW5UTQ?oc=5
 
-- First Made-In-India C-295 Carries Out Maiden Test Flight - NDTV
-  First Made-In-India
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbHlRUU51OHZ5YjJTV3hoSU9JbXlaU2FXeVl0XzNlMjZZNDd6Z2dETFVDQ2lIZDBFeXJBclZkTHVFY0VNcG9nX3ZlQVl1bkRsemtwcjg1TDR0ZmFlTFllNGxQUmlPc05semhTam9ac3JPZDllZWxqLXZobUFkN0l5Zm5PWkRYMFhtXzl0NktWVjZ1TG85MVlBSmNmWE1pQdIBpgFBVV95cUxQNUd4ZE5sTXh6SkpLMWtYUEZva3VlSDF5cDB2bWV3ajJnMzBVYjhJTjlDbjNqNlRWR0hHdjRWYmxma1EtMHl5aDVmN2lZcTg0X2RPdGo3aGNqSC1SRHNwWGNwZU8wcjgyRjE1clJraTBTVm9ibWEtdjl6NkVNMzgyRXBiNVV2TXlDNzh1eUFRc3VLRkk0WnFBeG1ENWJNS00xUkRpcXZB?oc=5
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions - Al Jazeera
-  India’s Bengal pushes out Muslim
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFRQ01mU0xjU1IwWG15TUFsSFZzRlJiRDBvR3F4TzZwUXZtaWUzT0NuMW5BM3NRRnZXZHZmRWJwN2EwODMySjY1YnZ4YTg3OWdyeG40NG5EbVRXOW5kcE5ETktxNlRSa1Q3c3FaU0JYaXJaTFYyVXFrLXlTUWx6QzlKdTRVR1o1WERTSHloUjhtMGNpRXBuQ0VEdFhPQWxPMEV0MDZvLWhTWFk3RkFzdWNaZTDSAboBQVVfeXFMUGxnVExvVmJNamFPY2VCREo2UVZFNTRoTmdORk5hWDg3VnZqM3V0VlN6X19qWHdLanlRVVBhekNPd2JSUmdNOHdFWF96SmI3NlQzSFIwUFcyb2IxYjlZXzd6eUt4ZDJBVVNDZ1NHYmlmOXdGTjhMZUw3QlFUUkpvbktOY3JMOXllekNVNk5Kc2tvQVVCcnlUNEZmNjkySGNUbk1VMHFBUC1sem9lY3FsNzZPNWx6Q3JyLXV3?oc=5
+- Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report - BBC
+  Sumeet Sabharwal's father vows to defend son
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibUFHdEFzQ1NkcUZxeGRDenFQdjlySnVZX2lERmF2M2RXVHFZc3BDV3BGYzd2WEFOb3dpcFRqdi1EQ3Q5YlJETkVFbTlka3FUVlJWWUxMSF8yQQ?oc=5
 
-- Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister | Akashvani News - News On AIR
-  Prime Minister Narendra Modi sets record as India’s longest serving elected Prime Minister
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnc1U25SMWxUanNkUDExRlBfMWVjck1JSVM1R3pVcXVMWUJXSTk2TXd4c0ZaX0c5MFNjNlo5T1EtSTZXcy1xSUp2d1JEUXdjVXJXaGdrTlhRX3d0cnAyQi1jVDBOdmxwU2RYZVRGS19JUWluTWo3MkFPOUJveVRva3VIcU9LcTJXQzV5bEt4ZVFfS1F2eWtDdmdrWXhIZDhFUTE0R2IzOGZWdkpnVy1Z?oc=5
+- Air India crash report delayed due to unfinished engine examination, Bloomberg News reports - Reuters
+  Air India crash report delayed due to unfinished engine examination.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHEzczFURzhUbEFIbXVJNXUzU19IUjJFZnNtV3Vtck9rc2dCd0J1ZjZ3WC1NQ0U2VWVWMVBaNnpvQW9USVFQajZfY01rdDljMDFRekVPZkU5WWdqZ3Nfb042MFVBcDZnVXcxX1haOXpxUW1QMVdqWjNDQ2RLWmp6LXNOX244OXpHUEYwamRGQnA1RGlJbjVtZTdVVE12QXhYTFdXUkxGUUJ6YWNoTU45aWlIZUFtNXVoa3lZdDdrTmZRcndmY0E?oc=5
 
-- "4,399 Days And Counting": PM Modi Becomes Longest-Serving Elected Prime Minister - NDTV
-  "4,399 Days And Counting":
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1pHQVRjV3ZRS05UekFudmo1NGQ4UDlEYUtkX0ZpWGQ2ZWNYc2ZGbDc0MWlNV0pXQzNHYW5XWER6MUdaQnk0dm1OZlBIV3lHTkpqT21nTzRWSVNYcWhMc3FjMThZQzB5V1RiQzZuTWJsR1c2bHJObzdqMzlmOXhJcHAxQUNjZVRQRlJBaG9RcXc0S1QyVEFLMkk3U0dPY1pwbTRmQjZSTGszcHV2dVRMcExTZTdDaEVLWkw5ZF9DS3NqWEp1MVBZQjRpMlVVbE13VDF1c0xJUlBkd9IB4gFBVV95cUxQbzZYenFOQmFzWWZSWGlucXVoeE5xWVNjTW5PWDRlWVhwblJvVGVha3ExcTBjRGdIRUtFVVh0ZTBNMDNOeVRPY0Z6UHd3WEM3Y2FtUmxjVDlOU2VFREZtdko3aC0wU3lnclZYemRLTmJ4ZVF3VWY2MGZCdVoxTnZIWHk4S01kRnh0SXlJa0xZQTMyVUNkYlFoeDI5R0s5Y1c1OThZdlhUSzJFTnE1WnpnY3hEeVpvUFAxQkZEQ01oYUpadkFPSDI1bWFPV0xLRWViVmpLSVlfX0N5MFpKWlZfbUFR?oc=5
+- First made-in-India C-295 carries out maiden test flight - The Hindu
+  First made-in-India C
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm8yX1JRNUttdkE1Z3VHb3lUZktBNVFfWkdvQ1haQ1pScnF6YWZDVnRKMXduWGJuWXNTaXBjcVpZMGgyd2xNRU9ncUNzY0syUWwtTHRvU1U1NFBWdlpqZWRmamNxMWF5WFJ1b25EUndUTFZvUlZQWm1PWWVTWnhmMmYtT1FQSWxoWGgwMnY3dGRXRV9MUGZXaVFFUUFaSTJGdlVqN080eXBET3dXWFhKd2ZGQUYwQdIBvAFBVV95cUxQSUJfT0h1S3AyVG1mYnV2QldpUUotYkhYeHp2eUxVNjdVYTJIbGdYMnYxM2JXeEdLVk9kekdQeGg4U0lvVF9FTnczNERGdk1uZjlxdnJ3aGdMaXVoVDRqY1ptaW9PRnhPeUE5QTNGTE0zd3ZRZG94SE5LWTBBTnhNTlBOdVlOdDlHdmpNeWx5SUNKSDVvTXc4YTQteU5EeE9uUjRqd0hOS0ZXZ240WGRxdHJQcndSc0ZyLVVGUw?oc=5
 
-- Trump congratulates Modi on becoming India's longest-serving elected PM - The Hindu
-  Trump congratulates Modi on becoming India's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXNwVWNxN2RlOV9xQ2U5MXdoaE9vNThqVTVGNmo4cmUzMVVRQTdSM2hEVWJyQmFqUkticld2UmFINFhvMXVwTXNEVVB2Y19vOUFFV3NQSEdGaTh6aE9jOGVDZWV6ekg1aWZFYnNrV1V5dG1Bc3BVbjY3OU1zWGU1RWdieWFPRXJxTlgyWGhYeGdPb3pPNEZoVHJ0OGhNMTBjNzdjWC0wNElrTG5mZDRVTVI0RDRjMEtsQ2hVS3lHSkJPN29RMmpYS9IBzwFBVV95cUxPTG5sYnpXcldBUmNTMW52RnM1WG5NdkEyU0VLZ3AzdEItLTM4eGFmLUxJRkVhYUxzSzRaQVdYSUhnTVh1aDkxSlZvNzZOTU0tQnA0YVZzLWowcUtwNUhwczFWdlJhTXBSMEVKOENOb1RhLUpfQzhYUURGa3ZhM19PYlM3dElSX0lzS19TeE5ZYjdpTTZseDdVdmhqeHd4V1U2YVctYUtHcEhpUjYtWkJpOUhrX0lXOFJacUFIcjc1QUtsNUVjeHdKRHpHRjNzWlE?oc=5
+- India summons US envoy over attack on ship carrying Indian sailors off Oman - Al Jazeera
+  India summons US envoy over attack on ship carrying Indian sailors off
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJqX0p1RVE4WVF3U2dqMDktaXpBYlRUOEo1NFZvVnpYSWhBWjBLLXc5X3NVYmtBNC0tVkhReXpSRUNYVk0tU2JsRnoyWlRZZTVPZ2QzREZZNHliN2hkZ1l6SUNRSm1mcDU5M2tkNDhUalltOXdRUXdhTm91MU1vU055c2NZb2hocXBiWGZpRkJnMWVTRUV3Z3hBYXRCRGtQeThvb3A2dzRveTgxVHhWVlBn0gG3AUFVX3lxTFBYVWE2em16eGgxU3FIRGVpNnZhZEVzeDdmUHZHbUVpS0I1cVJxZXZDTTNNdURNZnB4MmluczNlLWUxRmw1TThRUEdaai05VFVPYkJOQ09uUV9LVFFBT1dBaVNyaUxHWC1fcjlvQ29uX1dEQVRRTWlfdmlXd0N6VEs1b0FfczFHZG1zS3RFMFc2SDhrRzRBOU56R0dPb2o1cHp0d18yM1NXcnlfRXU3bmZySTNrUW5UTQ?oc=5
 
-- First Made-In-India C-295 Carries Out Maiden Test Flight - NDTV
-  First Made-In-India
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPbHlRUU51OHZ5YjJTV3hoSU9JbXlaU2FXeVl0XzNlMjZZNDd6Z2dETFVDQ2lIZDBFeXJBclZkTHVFY0VNcG9nX3ZlQVl1bkRsemtwcjg1TDR0ZmFlTFllNGxQUmlPc05semhTam9ac3JPZDllZWxqLXZobUFkN0l5Zm5PWkRYMFhtXzl0NktWVjZ1TG85MVlBSmNmWE1pQdIBpgFBVV95cUxQNUd4ZE5sTXh6SkpLMWtYUEZva3VlSDF5cDB2bWV3ajJnMzBVYjhJTjlDbjNqNlRWR0hHdjRWYmxma1EtMHl5aDVmN2lZcTg0X2RPdGo3aGNqSC1SRHNwWGNwZU8wcjgyRjE1clJraTBTVm9ibWEtdjl6NkVNMzgyRXBiNVV2TXlDNzh1eUFRc3VLRkk0WnFBeG1ENWJNS00xUkRpcXZB?oc=5
+- World Leaders Praise PM Modi As He Becomes India's Longest-Serving Prime Minister - NDTV
+  World Leaders Praise PM Modi As He Becomes
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGNrVi1oTmdFX01tV0lEbkJ6bWxGenpRLXRYaHd5b0xuX3p0dTc2cEMwYWg1X2pvbjVnaDBaUEhJRVQ3dnZ0WXJ2bG1wZ01IZUptRFdZQ3I2cmN2RmRPN1o3Yl9adzNiUVNiQ2RfekJuaEk4TW5jeHJfSjk0QWRTVUxMYl94QU5jOWNGS0piZXRyMXNmU0xXVWRiS3FqbFpMdWVQX2xtN0REdHZrbThxaE92V1pGeXNIc2IxejRB0gHGAUFVX3lxTFBhZlZvQjVBVkFoVzk4NTRua2VOUnUzWGowdG84M0JEbk1mUEVOSy1YMXZ5bjhVWnNqdjJ4Q0lXWU9GdS1KWkhrMkkzR0ZablVtRXJBSV9NdXBxWk9kOEhpQlFLZGl5RmdOdm1zQlJhZWdNLUhZT0dOakNlX0t3NzdOUk5NeV9oajNlY2xHWk9XaEJxVnBYSXlxdUNVYzRfNEVldm9oNFlBWk5pVGJ4UWV0Q0E1aFNNMTgxbmRkdjZvb0JmcTFnZw?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Air India crash: Sumeet Sabharwal's father vows to defend son's reputation ahead of report - BBC
+  Sumeet Sabharwal's father vows to defend son
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibUFHdEFzQ1NkcUZxeGRDenFQdjlySnVZX2lERmF2M2RXVHFZc3BDV3BGYzd2WEFOb3dpcFRqdi1EQ3Q5YlJETkVFbTlka3FUVlJWWUxMSF8yQQ?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Air India crash report delayed due to unfinished engine examination, Bloomberg News reports - Reuters
+  Air India crash report delayed due to unfinished engine examination.
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHEzczFURzhUbEFIbXVJNXUzU19IUjJFZnNtV3Vtck9rc2dCd0J1ZjZ3WC1NQ0U2VWVWMVBaNnpvQW9USVFQajZfY01rdDljMDFRekVPZkU5WWdqZ3Nfb042MFVBcDZnVXcxX1haOXpxUW1QMVdqWjNDQ2RLWmp6LXNOX244OXpHUEYwamRGQnA1RGlJbjVtZTdVVE12QXhYTFdXUkxGUUJ6YWNoTU45aWlIZUFtNXVoa3lZdDdrTmZRcndmY0E?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- First made-in-India C-295 carries out maiden test flight - The Hindu
+  First made-in-India C
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm8yX1JRNUttdkE1Z3VHb3lUZktBNVFfWkdvQ1haQ1pScnF6YWZDVnRKMXduWGJuWXNTaXBjcVpZMGgyd2xNRU9ncUNzY0syUWwtTHRvU1U1NFBWdlpqZWRmamNxMWF5WFJ1b25EUndUTFZvUlZQWm1PWWVTWnhmMmYtT1FQSWxoWGgwMnY3dGRXRV9MUGZXaVFFUUFaSTJGdlVqN080eXBET3dXWFhKd2ZGQUYwQdIBvAFBVV95cUxQSUJfT0h1S3AyVG1mYnV2QldpUUotYkhYeHp2eUxVNjdVYTJIbGdYMnYxM2JXeEdLVk9kekdQeGg4U0lvVF9FTnczNERGdk1uZjlxdnJ3aGdMaXVoVDRqY1ptaW9PRnhPeUE5QTNGTE0zd3ZRZG94SE5LWTBBTnhNTlBOdVlOdDlHdmpNeWx5SUNKSDVvTXc4YTQteU5EeE9uUjRqd0hOS0ZXZ240WGRxdHJQcndSc0ZyLVVGUw?oc=5
 
 
-_Last updated: 2026-06-10 20:26:27 UTC_
+_Last updated: 2026-06-11 03:27:31 UTC_
