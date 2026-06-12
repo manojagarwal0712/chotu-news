@@ -1,144 +1,224 @@
 # 📰 Daily News Summaries
 
-- Now-missing report on 2008 killing of VHP leader in Odisha ‘mentioned conversion, Naxal activity’: Probe panel chief
+- This 118-year-old railway station in Tamil Nadu is getting Rs 842 crore makeover
   
-  🔗 https://indianexpress.com/article/india/now-missing-report-on-2008-killing-of-vhp-leader-in-odisha-mentioned-conversion-naxal-activity-probe-panel-chief-10735479/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-118-year-old-chennai-egmore-railway-station-rs-842-crore-makeover-amrit-bharat-station-scheme-10736230/
 
-- A mentor for every station: J&K taps 200 senior cops to reshape policing
+- India summons US diplomat second time in 2 days over strike on tanker
   
-  🔗 https://indianexpress.com/article/india/a-mentor-for-every-station-jk-taps-200-senior-cops-to-reshape-policing-10735480/
+  🔗 https://indianexpress.com/article/india/us-attack-on-the-ship-indian-crew-oman-coast-diplomats-summoned-10736356/
 
-- ‘Sir, please fix IRCTC captcha’: Students’ plea prompts Ashwini Vaishnaw to promise new railway ticketing website
+- Two-layer security cover sought for NEET-UG retest papers, answer sheets
   
-  🔗 https://indianexpress.com/article/india/sir-please-fix-irctc-captcha-students-plea-prompts-ashwini-vaishnaw-to-promise-new-railway-ticketing-website-10735477/
+  🔗 https://indianexpress.com/article/india/neet-ug-re-exam-centre-layer-crpf-cisf-security-cover-material-10736120/
 
-- Choose between Abhishek Banerjee and us: Loyalists’ ultimatum to Mamata Banerjee
+- Asked India to buy Russian oil, then hit us with tariffs: Jaishankar on US flip-flops
   
-  🔗 https://indianexpress.com/article/india/choose-between-abhishek-banerjee-and-us-loyalists-ultimatum-to-mamata-banerjee-10735534/
+  🔗 https://indianexpress.com/article/india/us-oil-tariff-jaishankar-washington-stance-global-markets-10735969/
 
-- Base MBBS admissions on Class 12 marks: Tamil Nadu CM Vijay
+- 4 sites on Nicobar west coast identified for coral translocation, says Zoological Survey of India
   
-  🔗 https://indianexpress.com/article/india/base-mbbs-admissions-on-class-12-marks-tamil-nadu-cm-vijay-10735560/
+  🔗 https://indianexpress.com/article/india/great-nicobar-coral-translocation-galathea-bay-port-project-zsi-10735874/
 
-- Satya Nadella says AI backlash is real but predicts higher wages and broader prosperity
+- Dementia risk and nitrate: It’s all about the source, study finds
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/satya-nadella-ai-backlash-wealth-10735701/
+  🔗 https://indianexpress.com/article/technology/science/dementia-risk-and-nitrate-its-all-about-the-source-study-finds-10736283/
 
-- Why a new court ruling against Google’s AI Overviews could have far-reaching effects
+- Google teases new smart speaker, may launch next week: Report
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-court-ruling-google-ai-overviews-far-reaching-effects-10734974/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-teases-new-smart-speaker-may-launch-next-week-report-10736268/
 
-- Tech updates (June 11, 2026): New ASUS gaming laptops, Canva Offline, Samsung AI deals, more
+- A five million years old whale graveyard in the Indian Ocean is still active
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-june-11-2026-new-asus-gaming-laptops-canva-offline-samsung-ai-deals-more-10734885/
+  🔗 https://indianexpress.com/article/technology/science/chinese-researchers-deepest-whale-graveyard-indian-ocean-10735946/
 
-- Brain chemical surge may help break old habits, study finds
+- YouTube brings back private messaging with age verification and invite-only chats
   
-  🔗 https://indianexpress.com/article/technology/science/neuroscience-brain-mechanism-acetylcholine-break-habit-addiction-parkinsons-10734759/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-brings-back-private-messaging-with-age-verification-and-invite-only-chats-10735960/
 
-- What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500?
+- Anthropic v. OpenAI: Behind the bitter battle for the future of AI
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-hrm-text-low-cost-ai-model-10734501/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-v-openai-behind-the-bitter-battle-for-the-future-of-ai-10735947/
 
-- Elon Musk's net worth is set to cross $1.1 trillion making him the world's first trillionaire after SpaceX's bumper IPO
-  Elon Musk is set to become the world's first trillionaire. His rocket company SpaceX's bumper listing could propel the richest person's net worth over 1.1 trillion.
-  🔗 https://www.livemint.com/companies/people/elon-musk-net-worth-over-1-1-trillion-spacex-bumper-ipo-company-richest-person-to-become-worlds-first-trillionaire-tesla-11781226797372.html
+- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
+  The India-Pakistan conflict’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
 
-- Google promised never to build AI weapons; then director René Mayrhofer resigned when the tech giant broke that promise
-  René Mayrhofer, Google's director for Android platform security, has resigned over the company's decision to supply AI technology to the US military
-  🔗 https://www.livemint.com/companies/news/google-promised-never-to-build-ai-weapons-director-ren-mayrhofer-resigned-when-the-tech-giant-signed-pentagon-deal-11781229340818.html
+- India protests US strike that killed 3 Indian sailors - DW.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
 
-- Elon Musk says Moon can power 1,000x more AI than Earth — Here's SpaceX boss' plan to railgun data centers into space
-  Earth can support just 1 terawatt of AI computing power, while the Moon could deliver 1,000 terawatts or more.
-  🔗 https://www.livemint.com/companies/people/elon-musk-says-moon-can-power-1-000x-more-ai-than-earth-heres-spacex-boss-plan-to-railgun-data-centers-into-space-11781226534119.html
+- India says US hit another ship off Oman, confirms 3 dead in separate attack - Al Jazeera
+  India says US hit another ship off Oman, confirms 3 dead in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUl3dkd0a2tZczZrTWlRYlVJUTRsSXhEUy1vT2hHOFRXU3B0MzlqMXpETEJIWnRuQTJpdEVOOFdyUVBBSWZsZ1FZMWEzdS14bVhZdWE4eXZLLW1HVnZWazZ0Z01Xd1hPOTJJLVpQdFNCdmF1U3hSb1FCdzhtMFBpU1lrcnB6eWJDRG5icTJVTlh3aFdmUWJyWFdzYWxiUU1OSXNyM0pGLUNjUmpfY0ZDZmwxeG_SAboBQVVfeXFMT3hHcVg2TXk3QkZ2S2JlT09nLVJpOVdsVzRsR25pUUE3ZUpQdUx6VDJtRTh3OXVEMkI0N3pqWkpieGlQWHFRYzlZRzFleng4YnIweU5xS2VnX2s2OTFUY0lIekpKUy1oX3FieTBfTVUzMUMyU2lHLUdfQlQ1NHF0Rjdpd21yRnVIbXRIUDhEY0F5ZU5uSlFVdnNKcTZpOTVXYy1aR2stYmlRNm1kR0gxZzgwVjlSOXpvN0hB?oc=5
 
-- Elon Musk's SpaceX records blockbuster debut at Wall Street: $75 billion IPO at $135 a share
-  The sale breaks the previous record for the largest-ever IPO held by state-run oil giant Saudi Aramco, which raised $25
-  🔗 https://www.livemint.com/companies/news/elon-musks-spacex-records-blockbuster-debut-at-wall-street-75-billion-ipo-at-135-a-share-11781224401692.html
+- Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf - The Guardian
+  Delhi issues ‘strong protest’ after US strikes
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVaLU1UbEtybGthQ3otdTd0dzNjcWZOMDJ6U1lGTHFBZFlKdm5sTWdkcFdxeGhYSDRnM3pMVE1raXJHN0p0UXNXYUxKQ2tRbF9sQkVNUGZrMVNzei1MYU1USlR2RDdoZlVFdzVZZnB2ZWlKR2pqakJEVUhyclJxNlh4aFA0dFg0YUJnNVhva0Z1ZVBPWnVCTDdfUFFoM3pOa2UwTkdnMFl2dXVFaXZqTzV1ODk3d0RoaDhXUWVhY3FDUQ?oc=5
 
-- Restaurants flag sign-up, pricing control snags at Swiggy's value bet Toing
-  Some restaurant partners allege they were listed without consent. Swiggy’s push to scale budget food app Toing is facing resistance from some restaurant partners.
-  🔗 https://www.livemint.com/companies/news/restaurants-food-delivery-app-swiggy-toing-11781151815642.html
+- India's 'blue gold' starts a new drinks industry - BBC
+  India's 'blue gold'
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
-- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 12 June 2026
-  Chandan Taparia has recommended three stocks to buy today, 12 June 2026. Torrent Pharmaceuticals,
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-12-june-2026-11781231516284.html
+- Honasa Consumer’s recovery gains pace. Can execution support its ambitions?
+  Mamaearth has set its sights on crossing  ₹5,000 crore in revenue over the next five years
+  🔗 https://www.livemint.com/market/mark-to-market/honasa-consumer-share-price-mamaearth-stock-analysis-11781254864506.html
 
-- Stocks to watch: Vedanta, Infosys, IRCTC, Lenskart, SBI among key stocks in focus on 12 June
-  Indian markets are poised for a firm start as global sentiment improves following the US-Iran diplomatic progress. Recent trading activity includes notable acquisitions and institutional trades.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-vedanta-infosys-irctc-lenskart-sbi-among-key-stocks-in-focus-on-12-june-11781231687541.html
+- Multibagger stock under  ₹50 jumps another 5%, surges 140% in 2026. Do you own it?
+  Amrapali Industries shares reached an all-time high of  ₹35, marking a 5% gain and a 89% weekly rise.
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-under-rs-50-jumps-another-5-surges-140-in-2026-do-you-own-it-11781254068340.html
 
-- Stock market today: Gift Nifty hints gap-up start; US-Iran peace deal to global markets rally - 7 stocks to buy
-  Indian markets may open positively on June 12, 2026, following a strong rally in global equities amid optimism for a US-Iran peace deal. Oil prices dropped as tensions
-  🔗 https://www.livemint.com/market/stock-market-today-gift-nifty-hints-gap-up-start-us-iran-peace-deal-to-global-markets-rally-7-stocks-to-buy-11781227099121.html
+- PL Capital cuts Nifty 50 target to 26,449; ICICI Bank, Titan, Bharti Airtel among top conviction picks
+  PL Capital added HDFC Asset Management Company. It also added weights on Tata Steel, JSW Steel, Larsen &amp;amp; Toubro, Bharat
+  🔗 https://www.livemint.com/market/stock-market-news/pl-capital-cuts-nifty-50-target-to-26-449-icici-bank-titan-bharti-airtel-among-top-conviction-picks-11781254314564.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 12 June
-  Gift Nifty was trading around 23,523 level, a premium of nearly 323 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-12-june-11781229451534.html
+- SpaceX IPO: Listing price, time, valuation to outlook; Key things to know about Wall Street debut of Elon Musk's company
+  The SpaceX IPO is scheduled for 12 June 2026, with shares priced at $135, valuing the company at $1.75 trillion. While demand is high, analysts caution about
+  🔗 https://www.livemint.com/market/ipo/spacex-ipo-spacex-ipo-valuation-spacex-ipo-price-spacex-ipo-listing-date-spacex-ipo-date-and-time-spacex-ipo-size-11781248703761.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 12 June 2026
-  Sumeet Bagadia recommends five shares to buy today. Jindal Poly Films, SIS, Ajanta
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-12-june-2026-11781227414098.html
+- HDFC Bank share price jumps over 2%, among top gainers on Bank Nifty
+  HDFC Bank share price has risen 1% in one month and has fallen 9% in three months. The private banking stock has declined 25%
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-among-top-gainer-on-bank-nifty-with-over-2-gains-11781250608473.html
 
-- Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: ‘If we project some of challenges…’
-  Anthropic President Daniela Amodei suggests that AI may face regulations similar to those for social media. Trump laid out a relatively light-touch strategy for dealing with AI-
-  🔗 https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html
+- Meet the 2026 Technology Pioneers shaping AI, energy, space and the next frontier - The World Economic Forum
+  Meet the 2026 Technology Pioneers shaping AI, energy, space and
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5Demp2R0RJR1ZZYnMzdnFXcnJCOFFkUHZGX2U3NjRvOURSWjJZRVBMb2NVbHpsd1NsWVhMQkd4a3Y3QmVtdVBZajlJY050N2xEQVJRWjJpUW5udFdRSGpfRzg3MlZGS2pOa3NTUkROR2c3RDdqMzJCdnlSS0t4Y2s?oc=5
 
-- Anthropic apologises for hidden safeguards in Mythos-based Fable 5 model: ‘Made the wrong tradeoff’
-  Anthropic admitted it made a wrong trade-off with the release of the Fable 5 model. The company now plans to improve transparency by
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-apologises-for-hidden-safeguards-in-mythos-based-fable-5-model-made-the-wrong-tradeoff-11781168345612.html
+- Bengaluru space startups selected for funding under Technology Adoption Fund - The Hindu
+  Bengaluru space startups selected for funding
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHFna0ZrX2ZLSklsZXk1UGhJZ0ZGSExKSWRRV0FGUGxtVjd6WFBzWlQ0ZTZvM29CUk1fRzRoOFpXamtUV2w1UHhvWWsyUTZCbUY0by14dl9vSmx3WHpjeUxmYTJ3ejgzR1hfQ05lWnNFVElkZkl2NWpjcGZmZkpBaWh2anNDSzZ3ZUljbHc2UW5vdXd6b0xZUzB5U09mc0dxeWdxWHFadmk4VnhpblhaejVhWE9iSmNnbk5ETG9nZDVWZlhzWEVldUt3cWxUQXFSNUVlNEJfLXRkSDhKVll6a1JVRXrSAesBQVVfeXFMTV81WGliZURpMXgxUmVoWENWMDBTdEltQjdhU0RwMWVwTXNGSklJenN4bzRRZ1hXT0Zic0dOdGFsLXgxczl2MkVBZU1MRklCUV9DQU5pR2dRODJpS2JmbmNrV1dKM0JUc01VRVlSTmV0cG9lWVU5M3k1OUlIUjVNelVhRzIxd1lnMldEamZyUUtUNHdwNHozWmx3OVBVWUt4R2ZEVzJ6R2NibDd1ckd6cVlRVXdKSmJhcDFxSTlYWHA4RXpkZjI3WWxFVHp5d2FjVWdOS2NndmRaaUo4cGtLdFdraXh2ZWxYdm5kSQ?oc=5
 
-- Tecno POVA 8 5G launched in India with Alive Matrix Display, 8,000mAh battery: Check price and specs
-  Tecno has launched the POVA 8 5G in India.
-  🔗 https://www.livemint.com/technology/gadgets/tecno-pova-8-5g-launched-in-india-with-alive-matrix-display-8-000mah-battery-check-price-and-specs-11781173583737.html
+- India’s workers are training AI robots to take their jobs - Al Jazeera
+  India’s workers are training AI robots
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBFN3BnSTVsQkZUcURvUWQ1MFJCMXZzcDgwczF0VmxIY05jcDhGdGhFZlZxd1A1cGFBSTdKNTQ5ZWlEampqa2JwUk1KU0lrd19RUko2UW1WTkNET1dYNHgyOXhQQzkxaXNaSmNNbmsxdGFxYkkyMmx1QTNqMi02eE0zTmhpbHgzeVVZcGp5V1hiN20zSTlTbFI5b0hZcmtnUUlJODNXWVZIUVnSAbABQVVfeXFMTk5Yd1ZOS2RuWFdHcDRLSE1yMnNZclktWndxRHNqeVJ1UU9nZ0twa3Z4Q3RzX2hFUmw5Q2xBd2poWUprWlpqVlNvZzl2Z2YybjU4VndhMi1ObVRzZjFTWDVaY1VBODhsUkI0NTRSc1V2Q0EwY3FfTklodHBQeGN1Z1VHSlZGZkNMa2FIajJYQXRDdmlZakVYMjliM3JPT1cyam4tckFlZW9UczlpSWRlZEs?oc=5
 
-- Anthropic CEO Dario Amodei wants AI models regulated like airplanes
-  Anthropic CEO Dario Amodei has said there is a stricter need
-  🔗 https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-wants-ai-models-regulated-like-airplanes-11781144518441.html
+- Shri Ashwini Vaishnaw announces establishment of Advanced Quantum and Artificial Intelligence labs at MNIT Jaipur - PIB
+  Shri Ashwini Vaishnaw announces establishment of Advanced
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE13bk56dV9ZZUF6cFZ1eVZBeUZQNHJvaDN1aGZLenhsdlR6aFlrQ05VejZZcndiakpodzl4NHFpV0VFdmQwWEtmdTlMY08tSGY0eFY1Y0ZCcDdaWmtHcUxnNFAyTVFKa0RnVm5VenVlYmNsa3Y5R29VV256RQ?oc=5
 
-- Former xAI engineer claims he was fired for raising safety concerns about Grok, told ‘AI will kill us all anyway’
-  A former xAI engineer has sued Elon Musk's xAI and SpaceX, alleging he was fired
-  🔗 https://www.livemint.com/technology/tech-news/former-xai-engineer-claims-he-was-fired-for-raising-safety-concerns-about-grok-told-ai-will-kill-us-all-anyway-11781140538481.html
+- This Jacket Pulls Drinking Water From Thin Air - The University of Texas at Austin
+  This Jacket Pulls Drinking Water From Thin Air.
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQczE4WW1pdFVwenVpTUFZWHNUbHB2WUpfTnVxWmtiNTVrX05MS29xa0hmQzFuRjZtcklxcWg1VHdYMFE3cTIyMnhrc25wOHplRTdBRTVoN2dSQXpiVXdCNkV1N1lqRlNfNmFRQmczbmVZWTVJVVVTM24wV0tVRXBKc2FYWHktWDR6U2c?oc=5
 
-- Asian Stocks to Gain as Trump Signals US-Iran Deal: Markets Wrap - Bloomberg.com
-  Asian Stocks to Gain as Trump Signals
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWtJTzVNNVEtS1ExRnFlbzJzeUtPbEo4S1BZSUJRd0ZkUS1PUnFvZG9QMUFuV1lnYW9WSHpVakZsdnUzMGNZRS1OWHhSSEstaVBweWlwTzhFR3U3bEdjOUQxdEw5UUhoMTBOXzFRYl9kU0Z3NXU2TkVZWEl4TW15Ql9xVXVVajNlLWlQWS0tblNPY2c4SjhVMFVNRTFRaHItZUotQXIzZF9NTmVPamRjUGo2eWQ?oc=5
+- Why is stock market rallying today? BSE Sensex rises over 1,500 points, Nifty50 back above 23,500 - top r - The Times of India
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbk9UbEw5Y3VVRkdQaHRteHJxSDRvS3QtYUlrY1FXa2lJVUd1SFVBcE16dVdNVUN5NXZteVJfNGRGN3N2ZnhXV29RNU9uVXlnZ1N6NlBMcGhxOW83NzJscV9WdEFtWUs1Yn
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbk9UbEw5Y3VVRkdQaHRteHJxSDRvS3QtYUlrY1FXa2lJVUd1SFVBcE16dVdNVUN5NXZteVJfNGRGN3N2ZnhXV29RNU9uVXlnZ1N6NlBMcGhxOW83NzJscV9WdEFtWUs1YnkzOFp0dGJOMC1lY3hhOW9VNDJ0QXJHc0plZERQWnBYalBrU2NwbVZaMklBSjdTU0tHZVNHNkdXLTBOaFV6OWhYZmc4SFB6ajJ0REdMdF85WkJRaVZGb3pLMDYzbXRrYzE0THFwdnpWLUZWYkZ2ZHY2eHptd2pBU012WnVkR0JmcUhXZ1BRajVYRDJUVzFGd0wxQzVQQ2wzUmJKUFBLaHZHWmfSAZACQVVfeXFMUEpaTFZBa05nUUEzdHFhSVdKemVPY0xIRkNubkpDNV9jOUt3T1J1OW5tRDVKbHR4UUxweXp0Y2ZVcEU1LWptX1g2TzRnVmEteWFkX2FrZ2ctSVBTR1NuYlNXOUppNHlOcVAtYnI0NTAzZVhGT3RQbHBwa2h0NnZ1UFUtemdwMGw5akRDSEE0cDFnYlZYdm96dUdRbXZUSHIxM3ZNVHI4bDhYaUx5VHFBRVdrclZSOXpUQ091Tnp2ZGxhODQzUXBDNElNY2tYUkNSVmZCcVlVNWtDOXZfODEyRGlidG9iS09iSlJBeXI2SVQ3NDFva1pkMjJEVXlJOXNKd01STXNCY0hkSF9LVHBXRVU?oc=5
 
-- How Wild the Market’s Bet on AI Really Is - WSJ
-  The WSJ looks at how wild
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQNlFKMWUxVkpSVEtHek9zWlRKREpFaUFYY2RDSWF6VXMxbUFqOXhjSmNsNWdKelp2eGdfQWVYZk5sN3MwZzc2R2pueVpRQnhLdEY3endyWlNncVRpZ3pUVHptdUZ2QkRKX0lab1JJOExpTDlDV2pzaUZXOTQ3QWRXLU9qdTllRDVZYWJOUA?oc=5
+- Stocks Bounce, Oil Falls as US Ends Iran Strikes: Markets Wrap - Bloomberg.com
+  &nbsp; Stocks Bounce,
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPajM3dWRKeUZBQWNwSThHVkpOQlYxMVNtTTdBam9Nbk5kc3oxZFVzdmMzMDFuMWN4VGFaMzFfS3hxai1JYk9mcE5FVlVxMWNmZjMtQ2dSd3JqcG0tc1haeEdBTTJJOFhhUTB5U2pVMjdfWWJRRDFnZnhaZC0tVUQ5eHdYUzlHWjUwdTY4VVBCZVg3VExn?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty signals a higher start; US, Asian markets gain - Moneycontrol.com
-  "Sensex Today: GIFT Nifty signals a higher start;
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQdnFHeG1maEtYcmxGa3NWd0s4dGh3T3hUMnFHNHl5X1JqSDJDM01RX1dQX01adUJaTUpYVTBlTFI0b2l5NXlKbS1xbXk1LWtBejBNVkVtcDNWYjIwa1RVUXduSXdoQ1RYSXZNeDl2U0FDZ2pueGNDemY5WHd4VTlMc0VURk9jZmVhUHhWdkdNQW51c282a3N3V1I4ZkJwak9rdGNvYkZITmo2ODg5aWpjY3h0dHRVOVNRRThVUnRpaXdfbzExOHBvOXBINUlPRmVoOFQ3R2ZrOXIzNk56WW1ZTWhMVTljdzF3eWczQ3VEeXNlVnhtZ2drZVNwY3EwbmpHbG5nVFlxMXRJZ0E2S1RsdXRha9IBmAJBVV95cUxQbWlsQ2JMazU5ZWk5RVNBNU1fMVFXR3doY0RocnMtT203b2hXSzRCVmpaeDZnOGhzN3NESVVsdV9nNllQczU5aF9kS2hYYzdJR0JLWVE4STdBUm1wakFkSHJWVHNUS0x4RGVPRnBTS01Kb3k2dVNsb2xCbElBZ3BvRnRyVFV6TmE0UnIzQW84Q2ppRGVfLW9IQXlvYnFTUklwb3NLMkVMSDB5a1JBN1BVWksxUTB4dVRDSmp6RjlIRlQyeUQtSmpPakNQNlY2ejJ3RHZTd1djWHhERVN0S0hwUmpiLXk1YnVldFo3aS1HUUZ4SzdIWnlDU2tCN2hWeFh2U0ZTTW50OV8yMmNuRDJvRkpSYXJKRFhB?oc=5
+- Global stocks jump on signs of a potential U.S.-Iran peace deal, U.S. futures muted - CNBC
+  U.S. stocks jump on signs of a potential U
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZnQ4UTR5MV9DTmdtZkxkWFJqdmdxR0xaZGZ4THB2U1UyN2hOaWQ5RFZaUzl2bkxqU05LQmowd1UwTUVOUDFaMV92VTV6ZUdoSDA4RlNzNW5aUHNsWWNoU054dHRuaWtEZ1lJM29URk9oTHZvTlBr0gF8QVVfeXFMTTRkVTZ0MFNFX1dGeWIwbEpWNmN4dkoyNnhyZVlxQjF5N252YURGUnpBbTVWSXhoVUlDMkhUdEhZbnJ3MzBCOFBPNWhjS251ZWctVnlYUEtINmlPLUlGd1FMbE9UckNqcXdKM0ZqQ3BvR20xaU5PODY2TXlNMg?oc=5
 
-- Gift Nifty rises nearly 200 pts, signals positive start; key trading cues for today - The Economic Times
-  Gift Nifty rises nearly 200 pts, signals positive start; key
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMk1xTG5wZW1BTFZ5U3U1MjR1WVdYb2pXMllXa01seVB5VE8zVy1JcUg5REpYWmZvZUR5MWdHdFp5TjdrMTFCdjBZVUVfZzBEb3pMbjFHSHl3ZHJjQkY5ejlpUWJIRXA1QVVReU9BN0h2UWZhakdfdW5NaUQxRUxIU0FoRDdjek82VzZrMWVuQzF1bnl5Y3JIZlZ6WXFJd28tQjJaR3VMcUYwYW14OVNqemdlOWNVRUxwaXphSzU5R2tXcW56RFM4X0RORklvZGVBSXNyN0JseGpRZmwzX2JQaVFmcy1WN1RUbGU00gHwAUFVX3lxTFBiOU1mOFNJTXRCSTRiZmdwVWtPVkpZeDlPRVpwYXJHWjFKQ3NZWlF5TlVQeGtUY0RBeDNVbVZkczQzTzkxaWJLazZHU01WakdpTldIQ2NZNWpKUnNvSmNCS2xZbDJKN3d1V0RrbnlsTG1VVlFUZ2RrX3Z0MjZBcXpXLXFSNUFaVm1McU5LNGRkSC1LVXpURWdQZE5XbU5GamMxdmU5Rk9wS3A4cDJEUUprZ2xzOHktdEN0QXJmRkcxWkFlQTRqX2JGLVM5WmFkZVIxTTkxeWt1eFFVYTQtLXo1enVnclpuQUpJbzJ0SzFVTg?oc=5
+- Markets News, June 11, 2026: U.S. Stocks Jump as Tech Shares Rebound, Trump Calls Off Iran Strikes; Dow Jumps 930 Points - Investopedia
+  Markets News, June 11, 2026: U.S. Stocks Jump as Tech
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3hiSEVkYXJKSmtpeE51NktmNjg0RWlLWkszTXpVb19vbC1sT0hNbDkycTZHeVdBdUU0S1Y5bS12SnNWcE1PMnAyY18zT29hSldFLUo2UjdualFZWUZhcG9IckVDbVppakdHX0l5Wl9sVlg3MkJZLXdkbkt5MmhXMWV6UkZ3Z2dMWUprajV2SGc?oc=5
 
-- Sensex Today | Stock Market LIVE Updates: GIFT Nifty trades 250 pts higher; Motilal Oswal in focus - CNBC TV18
-  Sensex Today | Stock Market LIVE Updates: GIFT Nifty trades 250 pts
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUEZuSVgwMGlRaDc2UUFMSEVtY1p6MXhVRDg5aWt5enprZFJ1RHE3OVJOcFhPX1NqVDN5cmdyLTZjbzg4OExKazhWcnEzM0JWbVdoTmIyOEo0cnRDSjV5QjRjNGZQMG1QeldXbE5vbVBrVmZOM2JSeWhrNUxGSV9ESzhRLV9lZEs2V0pHT3ZjRE5hMFRFTml0V1UzY3puRnlUVzJsZGUxQ19YUVV1bUZrdU9WbHZ5MjVydnNydC1PQXBPdUNRUEpMNlJBRk45MUw3TXRqNGRrZ1Yxa1BMeEFRR3RxRm9pVmRFbDlMVUF3d9IB9AFBVV95cUxNQlJjZWlqVWRBYWNaUVJFUU8tRDRhMlRHSTBydlh6cjVyNTFQTVNjOW8xSDNGLVJRV2t0OFdlbkl1SE10WmM0TmNrUTNzY3Nvdnk1R2N2QjNyZUdLZlR6RTRoQ3Vsa2lqM3BQUFBuN0Q5RlEwMkQzcjRyVVBZRzRWOTl6RUlKZzFIalFKOVJHZXM5azNrYVE4OEJIaFp4OGRNXzlOWkdpaHEwT2JRWXRaZEo4cUlHbmdUdVVBZ2tmYjlSMEFIMTNGaW9YR2RZU005ZVlOQ0g0d0dWM2w4WWJiQ0VKczNnaF9UNWRpc24xbDhjQ0kx?oc=5
+- Elon Musk on track to become world’s first trillionaire today as SpaceX lists on US stock market – business live - The Guardian
+  Elon Musk on track to become world’s first trillionaire today as SpaceX lists on
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOENmMHdxRjU0eDJVRVVRcGlpTVZPdWZIUG1seHZUNFZQRzR2bDc4bFNSckhYNC1NS3BwRjNfRlQzQTlKbWlGcXp6TW1NX2dtOEc5bHF0QWNSRm05Z25WOTFxbGVkNE9pWnY4a0tVY2hyNE9MNG9fdlhibXZsQ2tfWjNBcWl6ckh3MVFoTzRKT0hCT2E0Rm9XRU5NUTVzbVBnWUhlNkVLSVdnZ1VUdGlfMVByRjZhY2NTemhDdDZJX1VaUUlaTFhYZ3JSRlVUWjRfMkpocjdzLWtNVHhFejVj?oc=5
 
-- Kospi jumps over 8% on Iran peace deal hopes; world's best-performing market up 94% YTD
-  South Korean stocks surged on Friday, with the KOSPI jumping as much as 8.5%. The rally helped the index end a volatile week up 3.2%, recovering from a 3.7% decline.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kospi-jumps-over-8-on-iran-peace-deal-hopes-worlds-best-performing-market-up-94-ytd/articleshow/131672062.cms
+- 13 stocks held by 100+ MFs in May surged up to 85% in just over 5 months
+  13 names rose 40% to 85% in just over five months. 268 stocks held by over 100 schemes, signalling broad institutional conviction.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-held-by-100-mfs-in-may-surged-up-to-85-in-just-over-5-months/slideshow/131680461.cms
 
-- How to trade the SpaceX IPO in Asia's locked-out markets
-  Asian investors are creatively seeking exposure through supply chain companies, industry ETFs, and Nasdaq 100 tracking funds. Perpetual futures and derivatives also offer speculative avenues, reflecting intense
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/how-to-trade-the-spacex-ipo-in-asias-locked-out-markets/articleshow/131672032.cms
+- Top Indian state lenders eye first dollar bonds since RBI subsidy, sources say
+  State Bank of India and Bank of Baroda are stepping into uncharted territory. They are the inaugural users of a fresh subsidised hedging mechanism. Their target is a substantial one billion dollars through a series of five-
+  🔗 https://economictimes.indiatimes.com/markets/bonds/top-indian-state-lenders-eye-first-dollar-bonds-since-rbi-subsidy-sources-say/articleshow/131679759.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Gift Nifty jumps nearly 200 pts; Asian stock markets rally
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-12-june-2026/liveblog/131671860.cms
+- NSE IPO coming soon? IFCI shares rally 20% to fresh 52-week high. Here’s why the listing buzz is driving stock
+  IFCI shares surged 20% to hit a 52-week high amid rising expectations of the NSE filing its IPO papers soon. The rally was driven by IFCI’s
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-coming-soon-ifci-shares-rally-20-to-fresh-52-week-high-heres-why-the-listing-buzz-is-driving-stock/articleshow/131679710.cms
 
-- IPO market growing, healthy participation needed: Sunder Iyer, Deloitte India
-  India's IPO arena is poised for dynamic growth, with a wave of businesses on the brink of launching their public shares. This positive momentum is forecasted to last three to five years.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-market-growing-healthy-participation-needed-sunder-iyer-deloitte-india/articleshow/131671637.cms
+- After record IPO, Musk's SpaceX faces next test in market debut
+  SpaceX is set to debut on Nasdaq with a massive $75 billion IPO. Investors are betting on Elon Musk's ambitious plans. This landmark listing could reshape the market.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/after-record-ipo-musks-spacex-faces-next-test-in-market-debut/articleshow/131678629.cms
 
-- SpaceX IPO makes Elon Musk the world's first trillionaire
-   Musk has managed to retain a loyal following despite his stratospheric net worth. At a time when concerns about inequality ​are high and public attitudes toward the ultra-wealthy have soured.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire/articleshow/131671876.cms
+- BlackRock says oil, FX risks loom over India's bond inflow push
+  BlackRock remains cautious, keeping its exposure steady. For foreign capital to make a significant leap into rupee-denominated bonds, a clearer geopolitical landscape is crucial.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/blackrock-says-oil-fx-risks-loom-over-indias-bond-inflow-push/articleshow/131678605.cms
+
+- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
+  The India-Pakistan conflict’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- India says US hit another ship off Oman, confirms 3 dead in separate attack - Al Jazeera
+  India says US hit another ship off Oman, confirms 3 dead in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUl3dkd0a2tZczZrTWlRYlVJUTRsSXhEUy1vT2hHOFRXU3B0MzlqMXpETEJIWnRuQTJpdEVOOFdyUVBBSWZsZ1FZMWEzdS14bVhZdWE4eXZLLW1HVnZWazZ0Z01Xd1hPOTJJLVpQdFNCdmF1U3hSb1FCdzhtMFBpU1lrcnB6eWJDRG5icTJVTlh3aFdmUWJyWFdzYWxiUU1OSXNyM0pGLUNjUmpfY0ZDZmwxeG_SAboBQVVfeXFMT3hHcVg2TXk3QkZ2S2JlT09nLVJpOVdsVzRsR25pUUE3ZUpQdUx6VDJtRTh3OXVEMkI0N3pqWkpieGlQWHFRYzlZRzFleng4YnIweU5xS2VnX2s2OTFUY0lIekpKUy1oX3FieTBfTVUzMUMyU2lHLUdfQlQ1NHF0Rjdpd21yRnVIbXRIUDhEY0F5ZU5uSlFVdnNKcTZpOTVXYy1aR2stYmlRNm1kR0gxZzgwVjlSOXpvN0hB?oc=5
+
+- Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf - The Guardian
+  Delhi issues ‘strong protest’ after US strikes
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVaLU1UbEtybGthQ3otdTd0dzNjcWZOMDJ6U1lGTHFBZFlKdm5sTWdkcFdxeGhYSDRnM3pMVE1raXJHN0p0UXNXYUxKQ2tRbF9sQkVNUGZrMVNzei1MYU1USlR2RDdoZlVFdzVZZnB2ZWlKR2pqakJEVUhyclJxNlh4aFA0dFg0YUJnNVhva0Z1ZVBPWnVCTDdfUFFoM3pOa2UwTkdnMFl2dXVFaXZqTzV1ODk3d0RoaDhXUWVhY3FDUQ?oc=5
+
+- India's 'blue gold' starts a new drinks industry - BBC
+  India's 'blue gold'
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
+
+- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
+  The India-Pakistan conflict’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- India says US hit another ship off Oman, confirms 3 dead in separate attack - Al Jazeera
+  India says US hit another ship off Oman, confirms 3 dead in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUl3dkd0a2tZczZrTWlRYlVJUTRsSXhEUy1vT2hHOFRXU3B0MzlqMXpETEJIWnRuQTJpdEVOOFdyUVBBSWZsZ1FZMWEzdS14bVhZdWE4eXZLLW1HVnZWazZ0Z01Xd1hPOTJJLVpQdFNCdmF1U3hSb1FCdzhtMFBpU1lrcnB6eWJDRG5icTJVTlh3aFdmUWJyWFdzYWxiUU1OSXNyM0pGLUNjUmpfY0ZDZmwxeG_SAboBQVVfeXFMT3hHcVg2TXk3QkZ2S2JlT09nLVJpOVdsVzRsR25pUUE3ZUpQdUx6VDJtRTh3OXVEMkI0N3pqWkpieGlQWHFRYzlZRzFleng4YnIweU5xS2VnX2s2OTFUY0lIekpKUy1oX3FieTBfTVUzMUMyU2lHLUdfQlQ1NHF0Rjdpd21yRnVIbXRIUDhEY0F5ZU5uSlFVdnNKcTZpOTVXYy1aR2stYmlRNm1kR0gxZzgwVjlSOXpvN0hB?oc=5
+
+- Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf - The Guardian
+  Delhi issues ‘strong protest’ after US strikes
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVaLU1UbEtybGthQ3otdTd0dzNjcWZOMDJ6U1lGTHFBZFlKdm5sTWdkcFdxeGhYSDRnM3pMVE1raXJHN0p0UXNXYUxKQ2tRbF9sQkVNUGZrMVNzei1MYU1USlR2RDdoZlVFdzVZZnB2ZWlKR2pqakJEVUhyclJxNlh4aFA0dFg0YUJnNVhva0Z1ZVBPWnVCTDdfUFFoM3pOa2UwTkdnMFl2dXVFaXZqTzV1ODk3d0RoaDhXUWVhY3FDUQ?oc=5
+
+- India's 'blue gold' starts a new drinks industry - BBC
+  India's 'blue gold'
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
+
+- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
+  The India-Pakistan conflict’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- India says US hit another ship off Oman, confirms 3 dead in separate attack - Al Jazeera
+  India says US hit another ship off Oman, confirms 3 dead in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUl3dkd0a2tZczZrTWlRYlVJUTRsSXhEUy1vT2hHOFRXU3B0MzlqMXpETEJIWnRuQTJpdEVOOFdyUVBBSWZsZ1FZMWEzdS14bVhZdWE4eXZLLW1HVnZWazZ0Z01Xd1hPOTJJLVpQdFNCdmF1U3hSb1FCdzhtMFBpU1lrcnB6eWJDRG5icTJVTlh3aFdmUWJyWFdzYWxiUU1OSXNyM0pGLUNjUmpfY0ZDZmwxeG_SAboBQVVfeXFMT3hHcVg2TXk3QkZ2S2JlT09nLVJpOVdsVzRsR25pUUE3ZUpQdUx6VDJtRTh3OXVEMkI0N3pqWkpieGlQWHFRYzlZRzFleng4YnIweU5xS2VnX2s2OTFUY0lIekpKUy1oX3FieTBfTVUzMUMyU2lHLUdfQlQ1NHF0Rjdpd21yRnVIbXRIUDhEY0F5ZU5uSlFVdnNKcTZpOTVXYy1aR2stYmlRNm1kR0gxZzgwVjlSOXpvN0hB?oc=5
+
+- Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf - The Guardian
+  Delhi issues ‘strong protest’ after US strikes
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVaLU1UbEtybGthQ3otdTd0dzNjcWZOMDJ6U1lGTHFBZFlKdm5sTWdkcFdxeGhYSDRnM3pMVE1raXJHN0p0UXNXYUxKQ2tRbF9sQkVNUGZrMVNzei1MYU1USlR2RDdoZlVFdzVZZnB2ZWlKR2pqakJEVUhyclJxNlh4aFA0dFg0YUJnNVhva0Z1ZVBPWnVCTDdfUFFoM3pOa2UwTkdnMFl2dXVFaXZqTzV1ODk3d0RoaDhXUWVhY3FDUQ?oc=5
+
+- India's 'blue gold' starts a new drinks industry - BBC
+  India's 'blue gold'
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
+
+- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
+  The India-Pakistan conflict’
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- India says US hit another ship off Oman, confirms 3 dead in separate attack - Al Jazeera
+  India says US hit another ship off Oman, confirms 3 dead in
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxONUl3dkd0a2tZczZrTWlRYlVJUTRsSXhEUy1vT2hHOFRXU3B0MzlqMXpETEJIWnRuQTJpdEVOOFdyUVBBSWZsZ1FZMWEzdS14bVhZdWE4eXZLLW1HVnZWazZ0Z01Xd1hPOTJJLVpQdFNCdmF1U3hSb1FCdzhtMFBpU1lrcnB6eWJDRG5icTJVTlh3aFdmUWJyWFdzYWxiUU1OSXNyM0pGLUNjUmpfY0ZDZmwxeG_SAboBQVVfeXFMT3hHcVg2TXk3QkZ2S2JlT09nLVJpOVdsVzRsR25pUUE3ZUpQdUx6VDJtRTh3OXVEMkI0N3pqWkpieGlQWHFRYzlZRzFleng4YnIweU5xS2VnX2s2OTFUY0lIekpKUy1oX3FieTBfTVUzMUMyU2lHLUdfQlQ1NHF0Rjdpd21yRnVIbXRIUDhEY0F5ZU5uSlFVdnNKcTZpOTVXYy1aR2stYmlRNm1kR0gxZzgwVjlSOXpvN0hB?oc=5
+
+- Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf - The Guardian
+  Delhi issues ‘strong protest’ after US strikes
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVaLU1UbEtybGthQ3otdTd0dzNjcWZOMDJ6U1lGTHFBZFlKdm5sTWdkcFdxeGhYSDRnM3pMVE1raXJHN0p0UXNXYUxKQ2tRbF9sQkVNUGZrMVNzei1MYU1USlR2RDdoZlVFdzVZZnB2ZWlKR2pqakJEVUhyclJxNlh4aFA0dFg0YUJnNVhva0Z1ZVBPWnVCTDdfUFFoM3pOa2UwTkdnMFl2dXVFaXZqTzV1ODk3d0RoaDhXUWVhY3FDUQ?oc=5
+
+- India's 'blue gold' starts a new drinks industry - BBC
+  India's 'blue gold'
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -160,13 +240,25 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Meet the 2026 Technology Pioneers shaping AI, energy, space and the next frontier - The World Economic Forum
+  Meet the 2026 Technology Pioneers shaping AI, energy, space and
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5Demp2R0RJR1ZZYnMzdnFXcnJCOFFkUHZGX2U3NjRvOURSWjJZRVBMb2NVbHpsd1NsWVhMQkd4a3Y3QmVtdVBZajlJY050N2xEQVJRWjJpUW5udFdRSGpfRzg3MlZGS2pOa3NTUkROR2c3RDdqMzJCdnlSS0t4Y2s?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Bengaluru space startups selected for funding under Technology Adoption Fund - The Hindu
+  Bengaluru space startups selected for funding
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHFna0ZrX2ZLSklsZXk1UGhJZ0ZGSExKSWRRV0FGUGxtVjd6WFBzWlQ0ZTZvM29CUk1fRzRoOFpXamtUV2w1UHhvWWsyUTZCbUY0by14dl9vSmx3WHpjeUxmYTJ3ejgzR1hfQ05lWnNFVElkZkl2NWpjcGZmZkpBaWh2anNDSzZ3ZUljbHc2UW5vdXd6b0xZUzB5U09mc0dxeWdxWHFadmk4VnhpblhaejVhWE9iSmNnbk5ETG9nZDVWZlhzWEVldUt3cWxUQXFSNUVlNEJfLXRkSDhKVll6a1JVRXrSAesBQVVfeXFMTV81WGliZURpMXgxUmVoWENWMDBTdEltQjdhU0RwMWVwTXNGSklJenN4bzRRZ1hXT0Zic0dOdGFsLXgxczl2MkVBZU1MRklCUV9DQU5pR2dRODJpS2JmbmNrV1dKM0JUc01VRVlSTmV0cG9lWVU5M3k1OUlIUjVNelVhRzIxd1lnMldEamZyUUtUNHdwNHozWmx3OVBVWUt4R2ZEVzJ6R2NibDd1ckd6cVlRVXdKSmJhcDFxSTlYWHA4RXpkZjI3WWxFVHp5d2FjVWdOS2NndmRaaUo4cGtLdFdraXh2ZWxYdm5kSQ?oc=5
+
+- India’s workers are training AI robots to take their jobs - Al Jazeera
+  India’s workers are training AI robots
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVBFN3BnSTVsQkZUcURvUWQ1MFJCMXZzcDgwczF0VmxIY05jcDhGdGhFZlZxd1A1cGFBSTdKNTQ5ZWlEampqa2JwUk1KU0lrd19RUko2UW1WTkNET1dYNHgyOXhQQzkxaXNaSmNNbmsxdGFxYkkyMmx1QTNqMi02eE0zTmhpbHgzeVVZcGp5V1hiN20zSTlTbFI5b0hZcmtnUUlJODNXWVZIUVnSAbABQVVfeXFMTk5Yd1ZOS2RuWFdHcDRLSE1yMnNZclktWndxRHNqeVJ1UU9nZ0twa3Z4Q3RzX2hFUmw5Q2xBd2poWUprWlpqVlNvZzl2Z2YybjU4VndhMi1ObVRzZjFTWDVaY1VBODhsUkI0NTRSc1V2Q0EwY3FfTklodHBQeGN1Z1VHSlZGZkNMa2FIajJYQXRDdmlZakVYMjliM3JPT1cyam4tckFlZW9UczlpSWRlZEs?oc=5
+
+- Shri Ashwini Vaishnaw announces establishment of Advanced Quantum and Artificial Intelligence labs at MNIT Jaipur - PIB
+  Shri Ashwini Vaishnaw announces establishment of Advanced
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE13bk56dV9ZZUF6cFZ1eVZBeUZQNHJvaDN1aGZLenhsdlR6aFlrQ05VejZZcndiakpodzl4NHFpV0VFdmQwWEtmdTlMY08tSGY0eFY1Y0ZCcDdaWmtHcUxnNFAyTVFKa0RnVm5VenVlYmNsa3Y5R29VV256RQ?oc=5
+
+- This Jacket Pulls Drinking Water From Thin Air - The University of Texas at Austin
+  This Jacket Pulls Drinking Water From Thin Air.
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQczE4WW1pdFVwenVpTUFZWHNUbHB2WUpfTnVxWmtiNTVrX05MS29xa0hmQzFuRjZtcklxcWg1VHdYMFE3cTIyMnhrc25wOHplRTdBRTVoN2dSQXpiVXdCNkV1N1lqRlNfNmFRQmczbmVZWTVJVVVTM24wV0tVRXBKc2FYWHktWDR6U2c?oc=5
 
 
-_Last updated: 2026-06-12 03:01:43 UTC_
+_Last updated: 2026-06-12 10:05:57 UTC_
