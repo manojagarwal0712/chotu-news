@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- From KG to PG, Odisha government announces ‘free and universal’ education
+  
+  🔗 https://indianexpress.com/article/india/odisha-free-education-government-colleges-mohan-charan-majhi-10736993/
+
+- ‘Did patients come dancing?’ – Rajasthan minister’s remarks about kidney failure case spark row
+  
+  🔗 https://indianexpress.com/article/india/rajasthan-health-minister-remarks-bikaner-kidney-failure-row-10736968/
+
 - Monsoon moves deeper inland. Check the forecast here
   
   🔗 https://indianexpress.com/article/india/southwest-monsoon-advance-india-imd-10736526/
@@ -11,14 +19,6 @@
 - QR codes for animals, multi-layered grid: Amit Shah orders hi-tech security for Amarnath Yatra
   
   🔗 https://indianexpress.com/article/india/amarnath-yatra-2026-security-arrangements-amit-shah-review-10736653/
-
-- Power cut at event to list Centre’s 12-year achievements leaves Rajasthan govt red-faced
-  
-  🔗 https://indianexpress.com/article/india/jaipur-rajasthan-bjp-press-conference-power-cut-probe-ashwini-vaishnaw-10736491/
-
-- This 118-year-old railway station in Tamil Nadu is getting Rs 842 crore makeover
-  
-  🔗 https://indianexpress.com/article/india/tamil-nadu-118-year-old-chennai-egmore-railway-station-rs-842-crore-makeover-amrit-bharat-station-scheme-10736230/
 
 - Tiny ‘crawling’ robot solves Japan’s moon lander mystery
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/this-free-ai-music-detector-can-scan-playlists-across-streaming-platforms-10736524/
 
+- Advent International Is Said Near Close of $26 Billion Fund
+  Advent International is nearing the final close of a $26 billion buyout vehicle. The deal will raise one of the biggest pools of capital
+  🔗 https://www.livemint.com/companies/advent-international-is-said-near-close-of-26-billion-fund-11781289229932.html
+
+- Nestle India rejects Maggi infestation claims after FSSAI notice, says 'yet to receive complaint sample'
+  The consumer goods major stated that its internal reviews and laboratory analyses revealed no signs of infestation in the affected
+  🔗 https://www.livemint.com/companies/news/nestle-india-rejects-maggi-infestation-claims-after-fssai-notice-says-yet-to-receive-complaint-sample-11781280099948.html
+
+- AM Green, V.O.C Port Authority to develop 200ktpa green ammonia bunkering hub
+  The bunkering hub may be scaled up to 500ktpa by
+  🔗 https://www.livemint.com/companies/news/am-green-voc-port-authority-green-ammonia-bunkering-hub-11781274208254.html
+
 - You can now search property listings through ChatGPT as Housing.com integrates AI
   Housing.com has launched a native property search feature on ChatGPT.
   🔗 https://www.livemint.com/companies/news/you-can-now-search-property-listings-through-chatgpt-as-housing-com-integrates-ai-11781270534757.html
@@ -48,37 +60,25 @@
    Prometheus raised $12 billion from a heavyweight syndicate of investors, including JPMorgan
   🔗 https://www.livemint.com/companies/start-ups/jeff-bezos-backed-ai-startup-prometheus-hits-41-billion-valuation-after-12-billion-funding-round-details-here-11781267941478.html
 
-- Meesho Makes a  ₹202-crore bet on India’s kirana ecosystem
-  The e-commerce major breaking away from its organic-growth playbook to acquire Singapore-
-  🔗 https://www.livemint.com/companies/news/meesho-kirana-club-meesho-acquisition-11781264589939.html
+- Brent falls to lowest since March on expected peace deal
+  Brent falls to lowest
+  🔗 https://www.livemint.com/market/brent-falls-to-lowest-since-march-on-expected-peace-deal-11781294206069.html
 
-- Singapore court stays order to jail Byju's Founder, lawyer says
-  Singapore's high court grants a stay on a six-month jail term for Byju's founder.
-  🔗 https://www.livemint.com/companies/news/singapore-court-stays-order-to-jail-byju-raveendran-lawyer-says-11781262374652.html
+- Yields rise as traders weigh possible Iran deal, Fed policy
+  TREASURIES-Y
+  🔗 https://www.livemint.com/market/yields-rise-as-traders-weigh-possible-iran-deal-fed-policy-11781293404645.html
 
-- BSH targets 2x growth in Siemens appliances as Indians upgrade to premium kitchens
-  Siemens, the premium kitchen appliances of German firm BSH Home Appliances Group, is expanding its network of
-  🔗 https://www.livemint.com/companies/news/bsh-india-siemens-appliances-premium-kitchens-bosch-gaggenau-11781245068320.html
+- Gold, silver rates today: Comex gold rebounds $154/oz, silver gains $4 on Middle East peace hopes
+  Precious metals rose on 12 June amid hopes for a US-Iran peace deal. Gold futures jumped $154 to $4,267
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-rebounds-154-oz-silver-gains-4-on-middle-east-peace-hopes-11781274556200.html
 
-- Wall Street stocks mostly fall as Middle East uncertainty looms, SpaceX debut in focus
-  The Dow Jones Industrial Average was flat at 50,858.98. The broad-based S&amp;amp;
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-stocks-mostly-fall-as-middle-east-uncertainty-looms-spacex-debut-in-focus-11781273049144.html
+- SpaceX shares rise 11% on Nasdaq debut for market cap just shy of $2 trillion
+  SpaceX stock opened for trading at $150 compared with the
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-shares-rise-11-on-nasdaq-debut-for-market-cap-just-shy-of-2-trillion-11781279692859.html
 
-- Small-cap stock sets board meeting date to consider fundraise through preferential shares to acquire Singapore firm
-  Sindhu Trade Links updated its EGM notice for a preferential securities issue to acquire a Singapore firm and expand its mining operations. The EGM is set for June 18, 2026, with revised disclosures made
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-sets-board-meeting-date-to-consider-fundraise-through-preferential-shares-to-acquire-singapore-firm-11781272185274.html
-
-- US stock market today: S&amp;P 500, Nasdaq futures rise as US-Iran peace hopes grow; oil sinks to 2-month low
-  S&amp;amp;P 500 futures gained 0.6%, while Nasdaq and Dow rose 0.7%. Market sentiment improved after Trump called off military strikes on Iran.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-rise-as-us-iran-peace-hopes-grow-oil-sinks-to-2-month-low-11781263045798.html
-
-- SpaceX Share Price LIVE: SpaceX shares indicated to open at $170 in Nasdaq debut, versus IPO price of $135 per share
-  SpaceX IPO pegs Elon Musk's lofty space, communications and AI company at
-  🔗 https://www.livemint.com/market/ipo/spacex-ipo-live-updates-spcx-share-price-elon-musk-net-worth-trillionaire-price-valuation-11781264831077.html
-
-- Option sellers see Nifty trading between 23,000 and 25,000 in June
-  The odds of upside are higher as the market trades near the lower end of
-  🔗 https://www.livemint.com/market/stock-market-news/option-sellers-nifty-trading-june-west-asia-war-crude-oil-prices-stock-markets-11781254278517.html
+- SpaceX makes Nasdaq debut at $150, lists at 11% premium to IPO price; Musk becomes world's first trillionaire
+  SpaceX made a historic Nasdaq debut on June 12, listing at $150. It became the sixth-largest public company in the US.
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-makes-nasdaq-debut-at-150-lists-at-11-premium-to-ipo-price-11781266245349.html
 
 - India wont be second to anybody in developing foundational AI models: IT Secretary
   India won't be second to anybody in
@@ -100,125 +100,133 @@
   Anthropic President Daniela Amodei suggests that AI may face regulations similar to those for social media. Trump laid out a relatively light-touch strategy for dealing with AI-
   🔗 https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html
 
-- SpaceX IPO Live: Investors Await SPCX Stock Opening - WSJ
-  SpaceX is set to make its stock market debut on Thursday. The company has raised more than $10 billion in funding.
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM3AwRHdtRkdRVnlSck9RMVJjRW13aWtCR1piNm5yYU5fSVY2VVVWajN5d1NCRmdNVGphZ3NobWxTTHVod2JNdmxfSDhjSkV4MW9fSHZ6YmRRVUluQ0l1bjRZY0M4b1c4NVdadWtVSjA0Ujc3dVE?oc=5
+- Explained: SpaceX's IPO includes a 'greenshoe' option. Here's what that means
+  SpaceX's record $75 billion IPO includes a greenshoe option, allowing for the sale of an additional 15% of shares. This standard feature, designed to stabilize trading, could raise SpaceX an extra $11.2 billion if demand
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/explained-spacexs-ipo-includes-a-greenshoe-option-heres-what-that-means/articleshow/131692101.cms
 
-- Why did stock market rally today? BSE Sensex ends around 1,700 points up; investors richer by Rs 10.2 lak - The Times of India
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbk9UbEw5Y3VVRkdQaHRteHJxSDRvS3QtYUlrY1FXa2lJVUd1SFVBcE16dVdNVUN5NXZteVJfNGRGN3N2ZnhXV29RNU9uVXlnZ1N6NlBMcGhxOW83NzJscV9WdEFtWUs1Yn
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbk9UbEw5Y3VVRkdQaHRteHJxSDRvS3QtYUlrY1FXa2lJVUd1SFVBcE16dVdNVUN5NXZteVJfNGRGN3N2ZnhXV29RNU9uVXlnZ1N6NlBMcGhxOW83NzJscV9WdEFtWUs1YnkzOFp0dGJOMC1lY3hhOW9VNDJ0QXJHc0plZERQWnBYalBrU2NwbVZaMklBSjdTU0tHZVNHNkdXLTBOaFV6OWhYZmc4SFB6ajJ0REdMdF85WkJRaVZGb3pLMDYzbXRrYzE0THFwdnpWLUZWYkZ2ZHY2eHptd2pBU012WnVkR0JmcUhXZ1BRajVYRDJUVzFGd0wxQzVQQ2wzUmJKUFBLaHZHWmfSAZACQVVfeXFMUEpaTFZBa05nUUEzdHFhSVdKemVPY0xIRkNubkpDNV9jOUt3T1J1OW5tRDVKbHR4UUxweXp0Y2ZVcEU1LWptX1g2TzRnVmEteWFkX2FrZ2ctSVBTR1NuYlNXOUppNHlOcVAtYnI0NTAzZVhGT3RQbHBwa2h0NnZ1UFUtemdwMGw5akRDSEE0cDFnYlZYdm96dUdRbXZUSHIxM3ZNVHI4bDhYaUx5VHFBRVdrclZSOXpUQ091Tnp2ZGxhODQzUXBDNElNY2tYUkNSVmZCcVlVNWtDOXZfODEyRGlidG9iS09iSlJBeXI2SVQ3NDFva1pkMjJEVXlJOXNKd01STXNCY0hkSF9LVHBXRVU?oc=5
+- US stocks: SpaceX options to begin trading on Tuesday after IPO
+  SpaceX options contracts will commence trading Tuesday. The company's shares opened at $150, exceeding the $135 offering price.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-options-to-begin-trading-on-tuesday-after-ipo/articleshow/131691857.cms
 
-- The IPO Wave Is Historic. So Is Today’s Market. - J.P. Morgan
-  The IPO Wave Is Historic. So Is
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM19WWEhGWjQ3akRnWXdVY3FvWExYNkZHWFFSQTlfX0lzMUVCOHFBMGFXV3cySWJxM1dLbTNtdU1BVE1DVTZCNFB5QTN1UEs1VUJkWVdSZEUzbWttT2hBRTNGdGhjZElWSWFjS0puVjdSZ0tabXExY0dJbll0X2FhVHdOdTl3WGxqS2U1VmNiWm10U3NSVjR0UWg5MGY2VlBxNnVtd19UNXMxVDFrSk9yVUlwcjVzVWFucDV3OGxPR20?oc=5
+- SpaceX shares rise 11% in strong Nasdaq debut after $75 billion IPO
+  SpaceX shares surged on their Nasdaq debut, valuing the company at nearly $1.96 trillion. This historic Initial Public Offering made Elon Musk the world's first trillionaire.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-rise-11-in-strong-nasdaq-debut-after-75-billion-ipo/articleshow/131691269.cms
 
-- Is the MSCI EM Index still an emerging markets index? - Finshots
-  Is the MSCI EM Index still
-  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXh2WmNWTVdiXzg0VTFOUVgxYnhOT1dNRFZGTktvNktvbGRNTXY2ckhEZ2toTXNTaFRCY0Mtdmp6VmJZamRCSjAwU2xJVDdvWEtwNGlzc2xERi1BMXpGWUJmdFhOMTg5OEVva09MS3JSZ2pkb3luRXZMb1YzdGJoOFhDdzB4MUww?oc=5
+- Space stocks slump as blistering rally cools after SpaceX market debut
+  SpaceX made its market debut on Friday. The Elon Musk-led company achieved a valuation exceeding two trillion dollars. Other space companies also experienced declines.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/space-stocks-slump-as-blistering-rally-cools-after-spacex-market-debut/articleshow/131691044.cms
 
-- Indian investors lose faith in growth story as market returns stall - Nikkei Asia
-  Indian investors lose faith in growth story as market returns
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGdycHdKRDFsVTRtSVNDaXFSSWp6RDdtdklqaTRSNHB5WlV2bXVQMFV1ejRaVkxxaEF0VXFKY2NkbGhmU2JZVnRiSTJSVTJMVWVSYk9vRnlrNHhsOXh5UHN0VUotaHQxdU4tNERnNW1NWmd5Qmxqd1pmMThNb0F2UUdjLTRwQzhOSjRUZkJVTm5uNlAxMDhqQWdWUXE1T2F5b0Zaai16VjFpUlU5?oc=5
-
-- Sebi to review delisting framework to ease exits
-  India's market regulator, SEBI, plans to review its delisting rules. This move aims to simplify capital market processes for businesses. SEBI has introduced several reforms to boost investor attraction.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-delisting-framework-to-ease-exits/articleshow/131687129.cms
-
-- US Stocks: SpaceX leveraged fund providers hit by day-one launch setback, sources say
-  The Securities and Exchange Commission has intervened to safeguard the much-anticipated IPO from any potential distractions. Asset managers are now facing a delay on the introduction of leveraged exchange-traded funds.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-leveraged-fund-providers-hit-by-day-one-launch-setback-sources-say/articleshow/131686931.cms
-
-- Global stocks: Shell pauses $3 billion share buyback
-  Shell will put its $3 billion share repurchase program on hold from June 12 to July 14. During this period, shares that are not bought back will be earmarked for upcoming repurchase efforts.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-shell-pauses-3-billion-share-buyback/articleshow/131686751.cms
-
-- Sebi weighs introducing long-term futures and options contracts: Tuhin Kanta Pandey
-  Sebi is evaluating longer-term futures and options contracts, broader commodity derivatives and bond index derivatives. Regulator highlighted resilient capital markets, strong domestic investor participation and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-introducing-long-term-futures-and-options-contracts-tuhin-kanta-pandey/articleshow/131686672.cms
-
-- US stocks: S&amp;P, Dow edge higher on Mideast deal hopes; SpaceX debut in focus
-  Major US stock indices opened higher on Friday, driven by optimism for a Middle East peace deal. Investors also anticipated the historic market debut of Elon Musk's SpaceX, expected to be Wall Street's largest public listing.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-dow-open-higher-on-mideast-deal-hopes-spacex-debut-in-focus/articleshow/131686201.cms
-
-- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5" target="_blan
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
+- Revised common application form for FPIs notified
+  The government has notified a revised common application form for foreign portfolio investors (FPIs) This move, along with recent tax exemptions on government securities, aims to attract foreign capital and stabilize the rupee.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/revised-common-application-form-for-fpis-notified/articleshow/131689292.cms
 
 - Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
   The India-Pakistan conflict’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
 
-- 'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran on 'fake news' over peace deal | India News - Hindustan Times
-  'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVhIbUd5akE4ZDdPWF9hOGdyMjFOR01hS3lidExydWRfeDJvMGNUUkhXdmZleV9wTnlLUEhEclV6M1RkZmpSR1RZdk41Tm9NMVpTWjBmU19ZUnVHU2pfdlZFbEROMFloeWNPSkpzdGVpYlJLekZEUS04d0xNUTVfbnhBYl93a2phUlN3MG5JZkFMNFh1TVVOUEFBZjlqRnhyNlRnVjNtclFHZzI5YmRBTXk0WVdxR2dmWm9SbFh5QzExM0tTRVp6NWZwMW9DWDRHX3RLY1Q2Q2lkVTlzcWg3dmdCSDJBZHZqRG5pNnkzV0p5WnVWVkUxZzJmRDfSAYICQVVfeXFMTkdmWjI4ZnlEeEVCTkRlTmZBdzRlUGY4OFkzY0Q5MVkwQTVxS3FfWU9ETTl4Y2hWMnpqUzg2c2E3a2lfNG5GUm9HV2E4NDNIeGVRbUZZdU8yaVN6U1l6QXVTUFhIYmpUZjR5dkp5OHZzT1BZUVJQZXdVWGhiM05JYVRsM3hyWXd5TlU3X2FXZklpZTVmdFV6MjA4YlYxLWlBaTczM04wWW42ZWh5OFVRS1lWTnpVS0lLTS0tTVBzZ2VYSFRVWmdIcnZod2FNckcySWJsVWpaXzM0QzhwTXk2MFQxcWtpSmJzSFc3SllJYkptSWxUSjNIakdfMzVUdU9fOWRn?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran denies reports on signing peace deal with US in Geneva on Sunday - The Times of India
-  Iran denies reports on signing peace deal with US in Geneva on Sunday.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxON2dwVGdUUXpLWG16STZackQ0TDhNTjZGcFQwN1JvaDJScUR0QnpzRjhscVFEUXI4eFByTlRvNElUV3J1QVF6NVpxRWZCR1BzUnVwOFU1b2pKV2tDX01pTmZlRUU2ZDZ4M2NtMEE4MlVoX2NNRG03RUVsQU5qbF9sYnNxUFpQMnp1VUdSNUVHS1gwbUV0YUI5SlhpNDZTc3pqaUdhaW85N3dWY1E2WnEzU3drSzdjaHpVTFlHVzBwWkc3cHRfM2dwcEhDUEtPUXB2WHFPSDVqZGpucDFOMmlQWmRjcmtHMnZCZlprWVRvSm5NMVJicDN1TEktX3pWX2VHb1l3ZzRJWFQtS256TlJUUEI4dEZUMUE5UXdYSC1HNU9qdXlUX1g4eFV1RUZkS296czVyVk9mblBlU3ZIM0dIVE9EaEZMa2tRMmtR0gHQAkFVX3lxTE45TFNCT0hITFM4Y1BnVlV3ZTA4WlFFUTQ0THU0S1NlcndCM3djNXR0NURPbjhwNjdFWEhDYXpscVZaYWd4RXNuU1o3b1hua1YtMjRSQjMyRFdYUVFYcFVFSXMwUFNyUmprQ1RQRV9Ic3FiUXVsRXlQWGlGSm9tTmtUWUtGN0cxUFlDb0pLME5fUmJkdGtxamR2bUNORzhrRkRSRHpqdHRlclc0WU5NVnFQOGJRYVRuUEtOUlBwZ3dHVFNKSzliYmdicXJ5VWhjY2RPT2doMGVXV0ljTFplcWVWemJWLU1WZmxzakk4OWVIRzRTem1FSDhVVGNKRkhfR21KRFI2cGdna1dVQ2RKcE00SGlUcGc2OFM5VXZxeWRZR2hxWmFZRGs0NGhBa3B6T0hHVDgtRTZSM0dKU0lkM3E0N1Bndk5ZWXhKQ3NLQWlvYw?oc=5
-
-- 'Totally Unacceptable': Trump Claims Iranian Drones Attack 'Indian Ships' Leaving Hormuz - News18
-  'Totally Unacceptable': Trump Claims Iranian
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHgzU0ZGQnJOV21OcUNCaVJMRXFUVDg3OXl4bGJNRDVvcVpsd2VfOWI1YUEtWEZURFBYVGpXaV9ZQlJqS1diWXNnVkpCV09YZ2o3UHQ3eHlmSllGdjd5TC1PUlNZeE9qZGJSSDhma0xUR1N1ejJweEdkUGlWQWN2YWFJdnhFdWJhVE1hT0dVcjVsS0k2Y0pwU3BmLWJYeXFPWjN6blNWaVJ5ZEE5ODk0X0RNZ2VvVG9YVXBvUWY0MDDSAcYBQVVfeXFMT05QdlBiaU1WUW9jSXktVWZMUzVGaV9CeElkRkZXMkd1a2Zpd3FVNzhaSXBzSjNhZ2RIUnhMRTNHQXZGdTZSampua0RSc3llQ3VDa2ZjVEwtcjJkLWMzVkEza1loaGdvbU5vT2pwLWsxZlBaaS1TWGpzbGdLNThmX2xNNDhYQ2pVeEs2Tk00d1VpME1oUnpDQnQ4d2FXZEFTQ1hUYUJwZ1FpdlFUcXpadk9rMnhtQkw2R2hUYUEyMHd1OTZub2FR?oc=5
+- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
+  'Europe's Weapons Used To Attack India': S
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
 
 - 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5" target="_blan
+  'I will come home safely': Indian sailor's last words to wife before
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
+
+- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
+  India’s homegrown answer to S-400? Rajnath
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
+
+- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
+  India summons U.S. Deputy Chief of Mission again after another attack on merchant
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
 
 - Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
   The India-Pakistan conflict’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
 
-- 'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran on 'fake news' over peace deal | India News - Hindustan Times
-  'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVhIbUd5akE4ZDdPWF9hOGdyMjFOR01hS3lidExydWRfeDJvMGNUUkhXdmZleV9wTnlLUEhEclV6M1RkZmpSR1RZdk41Tm9NMVpTWjBmU19ZUnVHU2pfdlZFbEROMFloeWNPSkpzdGVpYlJLekZEUS04d0xNUTVfbnhBYl93a2phUlN3MG5JZkFMNFh1TVVOUEFBZjlqRnhyNlRnVjNtclFHZzI5YmRBTXk0WVdxR2dmWm9SbFh5QzExM0tTRVp6NWZwMW9DWDRHX3RLY1Q2Q2lkVTlzcWg3dmdCSDJBZHZqRG5pNnkzV0p5WnVWVkUxZzJmRDfSAYICQVVfeXFMTkdmWjI4ZnlEeEVCTkRlTmZBdzRlUGY4OFkzY0Q5MVkwQTVxS3FfWU9ETTl4Y2hWMnpqUzg2c2E3a2lfNG5GUm9HV2E4NDNIeGVRbUZZdU8yaVN6U1l6QXVTUFhIYmpUZjR5dkp5OHZzT1BZUVJQZXdVWGhiM05JYVRsM3hyWXd5TlU3X2FXZklpZTVmdFV6MjA4YlYxLWlBaTczM04wWW42ZWh5OFVRS1lWTnpVS0lLTS0tTVBzZ2VYSFRVWmdIcnZod2FNckcySWJsVWpaXzM0QzhwTXk2MFQxcWtpSmJzSFc3SllJYkptSWxUSjNIakdfMzVUdU9fOWRn?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran denies reports on signing peace deal with US in Geneva on Sunday - The Times of India
-  Iran denies reports on signing peace deal with US in Geneva on Sunday.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxON2dwVGdUUXpLWG16STZackQ0TDhNTjZGcFQwN1JvaDJScUR0QnpzRjhscVFEUXI4eFByTlRvNElUV3J1QVF6NVpxRWZCR1BzUnVwOFU1b2pKV2tDX01pTmZlRUU2ZDZ4M2NtMEE4MlVoX2NNRG03RUVsQU5qbF9sYnNxUFpQMnp1VUdSNUVHS1gwbUV0YUI5SlhpNDZTc3pqaUdhaW85N3dWY1E2WnEzU3drSzdjaHpVTFlHVzBwWkc3cHRfM2dwcEhDUEtPUXB2WHFPSDVqZGpucDFOMmlQWmRjcmtHMnZCZlprWVRvSm5NMVJicDN1TEktX3pWX2VHb1l3ZzRJWFQtS256TlJUUEI4dEZUMUE5UXdYSC1HNU9qdXlUX1g4eFV1RUZkS296czVyVk9mblBlU3ZIM0dIVE9EaEZMa2tRMmtR0gHQAkFVX3lxTE45TFNCT0hITFM4Y1BnVlV3ZTA4WlFFUTQ0THU0S1NlcndCM3djNXR0NURPbjhwNjdFWEhDYXpscVZaYWd4RXNuU1o3b1hua1YtMjRSQjMyRFdYUVFYcFVFSXMwUFNyUmprQ1RQRV9Ic3FiUXVsRXlQWGlGSm9tTmtUWUtGN0cxUFlDb0pLME5fUmJkdGtxamR2bUNORzhrRkRSRHpqdHRlclc0WU5NVnFQOGJRYVRuUEtOUlBwZ3dHVFNKSzliYmdicXJ5VWhjY2RPT2doMGVXV0ljTFplcWVWemJWLU1WZmxzakk4OWVIRzRTem1FSDhVVGNKRkhfR21KRFI2cGdna1dVQ2RKcE00SGlUcGc2OFM5VXZxeWRZR2hxWmFZRGs0NGhBa3B6T0hHVDgtRTZSM0dKU0lkM3E0N1Bndk5ZWXhKQ3NLQWlvYw?oc=5
-
-- 'Totally Unacceptable': Trump Claims Iranian Drones Attack 'Indian Ships' Leaving Hormuz - News18
-  'Totally Unacceptable': Trump Claims Iranian
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHgzU0ZGQnJOV21OcUNCaVJMRXFUVDg3OXl4bGJNRDVvcVpsd2VfOWI1YUEtWEZURFBYVGpXaV9ZQlJqS1diWXNnVkpCV09YZ2o3UHQ3eHlmSllGdjd5TC1PUlNZeE9qZGJSSDhma0xUR1N1ejJweEdkUGlWQWN2YWFJdnhFdWJhVE1hT0dVcjVsS0k2Y0pwU3BmLWJYeXFPWjN6blNWaVJ5ZEE5ODk0X0RNZ2VvVG9YVXBvUWY0MDDSAcYBQVVfeXFMT05QdlBiaU1WUW9jSXktVWZMUzVGaV9CeElkRkZXMkd1a2Zpd3FVNzhaSXBzSjNhZ2RIUnhMRTNHQXZGdTZSampua0RSc3llQ3VDa2ZjVEwtcjJkLWMzVkEza1loaGdvbU5vT2pwLWsxZlBaaS1TWGpzbGdLNThmX2xNNDhYQ2pVeEs2Tk00d1VpME1oUnpDQnQ4d2FXZEFTQ1hUYUJwZ1FpdlFUcXpadk9rMnhtQkw2R2hUYUEyMHd1OTZub2FR?oc=5
+- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
+  'Europe's Weapons Used To Attack India': S
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
 
 - 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5" target="_blan
+  'I will come home safely': Indian sailor's last words to wife before
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
+
+- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
+  India’s homegrown answer to S-400? Rajnath
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
+
+- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
+  India summons U.S. Deputy Chief of Mission again after another attack on merchant
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
 
 - Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
   The India-Pakistan conflict’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
 
-- 'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran on 'fake news' over peace deal | India News - Hindustan Times
-  'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVhIbUd5akE4ZDdPWF9hOGdyMjFOR01hS3lidExydWRfeDJvMGNUUkhXdmZleV9wTnlLUEhEclV6M1RkZmpSR1RZdk41Tm9NMVpTWjBmU19ZUnVHU2pfdlZFbEROMFloeWNPSkpzdGVpYlJLekZEUS04d0xNUTVfbnhBYl93a2phUlN3MG5JZkFMNFh1TVVOUEFBZjlqRnhyNlRnVjNtclFHZzI5YmRBTXk0WVdxR2dmWm9SbFh5QzExM0tTRVp6NWZwMW9DWDRHX3RLY1Q2Q2lkVTlzcWg3dmdCSDJBZHZqRG5pNnkzV0p5WnVWVkUxZzJmRDfSAYICQVVfeXFMTkdmWjI4ZnlEeEVCTkRlTmZBdzRlUGY4OFkzY0Q5MVkwQTVxS3FfWU9ETTl4Y2hWMnpqUzg2c2E3a2lfNG5GUm9HV2E4NDNIeGVRbUZZdU8yaVN6U1l6QXVTUFhIYmpUZjR5dkp5OHZzT1BZUVJQZXdVWGhiM05JYVRsM3hyWXd5TlU3X2FXZklpZTVmdFV6MjA4YlYxLWlBaTczM04wWW42ZWh5OFVRS1lWTnpVS0lLTS0tTVBzZ2VYSFRVWmdIcnZod2FNckcySWJsVWpaXzM0QzhwTXk2MFQxcWtpSmJzSFc3SllJYkptSWxUSjNIakdfMzVUdU9fOWRn?oc=5
-
-- US-Israel-Iran War News Live Updates: Iran denies reports on signing peace deal with US in Geneva on Sunday - The Times of India
-  Iran denies reports on signing peace deal with US in Geneva on Sunday.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxON2dwVGdUUXpLWG16STZackQ0TDhNTjZGcFQwN1JvaDJScUR0QnpzRjhscVFEUXI4eFByTlRvNElUV3J1QVF6NVpxRWZCR1BzUnVwOFU1b2pKV2tDX01pTmZlRUU2ZDZ4M2NtMEE4MlVoX2NNRG03RUVsQU5qbF9sYnNxUFpQMnp1VUdSNUVHS1gwbUV0YUI5SlhpNDZTc3pqaUdhaW85N3dWY1E2WnEzU3drSzdjaHpVTFlHVzBwWkc3cHRfM2dwcEhDUEtPUXB2WHFPSDVqZGpucDFOMmlQWmRjcmtHMnZCZlprWVRvSm5NMVJicDN1TEktX3pWX2VHb1l3ZzRJWFQtS256TlJUUEI4dEZUMUE5UXdYSC1HNU9qdXlUX1g4eFV1RUZkS296czVyVk9mblBlU3ZIM0dIVE9EaEZMa2tRMmtR0gHQAkFVX3lxTE45TFNCT0hITFM4Y1BnVlV3ZTA4WlFFUTQ0THU0S1NlcndCM3djNXR0NURPbjhwNjdFWEhDYXpscVZaYWd4RXNuU1o3b1hua1YtMjRSQjMyRFdYUVFYcFVFSXMwUFNyUmprQ1RQRV9Ic3FiUXVsRXlQWGlGSm9tTmtUWUtGN0cxUFlDb0pLME5fUmJkdGtxamR2bUNORzhrRkRSRHpqdHRlclc0WU5NVnFQOGJRYVRuUEtOUlBwZ3dHVFNKSzliYmdicXJ5VWhjY2RPT2doMGVXV0ljTFplcWVWemJWLU1WZmxzakk4OWVIRzRTem1FSDhVVGNKRkhfR21KRFI2cGdna1dVQ2RKcE00SGlUcGc2OFM5VXZxeWRZR2hxWmFZRGs0NGhBa3B6T0hHVDgtRTZSM0dKU0lkM3E0N1Bndk5ZWXhKQ3NLQWlvYw?oc=5
-
-- 'Totally Unacceptable': Trump Claims Iranian Drones Attack 'Indian Ships' Leaving Hormuz - News18
-  'Totally Unacceptable': Trump Claims Iranian
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHgzU0ZGQnJOV21OcUNCaVJMRXFUVDg3OXl4bGJNRDVvcVpsd2VfOWI1YUEtWEZURFBYVGpXaV9ZQlJqS1diWXNnVkpCV09YZ2o3UHQ3eHlmSllGdjd5TC1PUlNZeE9qZGJSSDhma0xUR1N1ejJweEdkUGlWQWN2YWFJdnhFdWJhVE1hT0dVcjVsS0k2Y0pwU3BmLWJYeXFPWjN6blNWaVJ5ZEE5ODk0X0RNZ2VvVG9YVXBvUWY0MDDSAcYBQVVfeXFMT05QdlBiaU1WUW9jSXktVWZMUzVGaV9CeElkRkZXMkd1a2Zpd3FVNzhaSXBzSjNhZ2RIUnhMRTNHQXZGdTZSampua0RSc3llQ3VDa2ZjVEwtcjJkLWMzVkEza1loaGdvbU5vT2pwLWsxZlBaaS1TWGpzbGdLNThmX2xNNDhYQ2pVeEs2Tk00d1VpME1oUnpDQnQ4d2FXZEFTQ1hUYUJwZ1FpdlFUcXpadk9rMnhtQkw2R2hUYUEyMHd1OTZub2FR?oc=5
+- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
+  'Europe's Weapons Used To Attack India': S
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
 
 - 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5" target="_blan
+  'I will come home safely': Indian sailor's last words to wife before
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
+
+- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
+  India’s homegrown answer to S-400? Rajnath
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
+
+- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
+  India summons U.S. Deputy Chief of Mission again after another attack on merchant
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
 
 - Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
   The India-Pakistan conflict’
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
 
-- 'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran on 'fake news' over peace deal | India News - Hindustan Times
-  'Totally unacceptable': Trump blames Iran for ‘attack on Indian ships’, slams Tehran
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVhIbUd5akE4ZDdPWF9hOGdyMjFOR01hS3lidExydWRfeDJvMGNUUkhXdmZleV9wTnlLUEhEclV6M1RkZmpSR1RZdk41Tm9NMVpTWjBmU19ZUnVHU2pfdlZFbEROMFloeWNPSkpzdGVpYlJLekZEUS04d0xNUTVfbnhBYl93a2phUlN3MG5JZkFMNFh1TVVOUEFBZjlqRnhyNlRnVjNtclFHZzI5YmRBTXk0WVdxR2dmWm9SbFh5QzExM0tTRVp6NWZwMW9DWDRHX3RLY1Q2Q2lkVTlzcWg3dmdCSDJBZHZqRG5pNnkzV0p5WnVWVkUxZzJmRDfSAYICQVVfeXFMTkdmWjI4ZnlEeEVCTkRlTmZBdzRlUGY4OFkzY0Q5MVkwQTVxS3FfWU9ETTl4Y2hWMnpqUzg2c2E3a2lfNG5GUm9HV2E4NDNIeGVRbUZZdU8yaVN6U1l6QXVTUFhIYmpUZjR5dkp5OHZzT1BZUVJQZXdVWGhiM05JYVRsM3hyWXd5TlU3X2FXZklpZTVmdFV6MjA4YlYxLWlBaTczM04wWW42ZWh5OFVRS1lWTnpVS0lLTS0tTVBzZ2VYSFRVWmdIcnZod2FNckcySWJsVWpaXzM0QzhwTXk2MFQxcWtpSmJzSFc3SllJYkptSWxUSjNIakdfMzVUdU9fOWRn?oc=5
+- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
+  'Europe's Weapons Used To Attack India': S
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
 
-- US-Israel-Iran War News Live Updates: Iran denies reports on signing peace deal with US in Geneva on Sunday - The Times of India
-  Iran denies reports on signing peace deal with US in Geneva on Sunday.
-  🔗 https://news.google.com/rss/articles/CBMiywJBVV95cUxON2dwVGdUUXpLWG16STZackQ0TDhNTjZGcFQwN1JvaDJScUR0QnpzRjhscVFEUXI4eFByTlRvNElUV3J1QVF6NVpxRWZCR1BzUnVwOFU1b2pKV2tDX01pTmZlRUU2ZDZ4M2NtMEE4MlVoX2NNRG03RUVsQU5qbF9sYnNxUFpQMnp1VUdSNUVHS1gwbUV0YUI5SlhpNDZTc3pqaUdhaW85N3dWY1E2WnEzU3drSzdjaHpVTFlHVzBwWkc3cHRfM2dwcEhDUEtPUXB2WHFPSDVqZGpucDFOMmlQWmRjcmtHMnZCZlprWVRvSm5NMVJicDN1TEktX3pWX2VHb1l3ZzRJWFQtS256TlJUUEI4dEZUMUE5UXdYSC1HNU9qdXlUX1g4eFV1RUZkS296czVyVk9mblBlU3ZIM0dIVE9EaEZMa2tRMmtR0gHQAkFVX3lxTE45TFNCT0hITFM4Y1BnVlV3ZTA4WlFFUTQ0THU0S1NlcndCM3djNXR0NURPbjhwNjdFWEhDYXpscVZaYWd4RXNuU1o3b1hua1YtMjRSQjMyRFdYUVFYcFVFSXMwUFNyUmprQ1RQRV9Ic3FiUXVsRXlQWGlGSm9tTmtUWUtGN0cxUFlDb0pLME5fUmJkdGtxamR2bUNORzhrRkRSRHpqdHRlclc0WU5NVnFQOGJRYVRuUEtOUlBwZ3dHVFNKSzliYmdicXJ5VWhjY2RPT2doMGVXV0ljTFplcWVWemJWLU1WZmxzakk4OWVIRzRTem1FSDhVVGNKRkhfR21KRFI2cGdna1dVQ2RKcE00SGlUcGc2OFM5VXZxeWRZR2hxWmFZRGs0NGhBa3B6T0hHVDgtRTZSM0dKU0lkM3E0N1Bndk5ZWXhKQ3NLQWlvYw?oc=5
+- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
+  'I will come home safely': Indian sailor's last words to wife before
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
 
-- 'Totally Unacceptable': Trump Claims Iranian Drones Attack 'Indian Ships' Leaving Hormuz - News18
-  'Totally Unacceptable': Trump Claims Iranian
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHgzU0ZGQnJOV21OcUNCaVJMRXFUVDg3OXl4bGJNRDVvcVpsd2VfOWI1YUEtWEZURFBYVGpXaV9ZQlJqS1diWXNnVkpCV09YZ2o3UHQ3eHlmSllGdjd5TC1PUlNZeE9qZGJSSDhma0xUR1N1ejJweEdkUGlWQWN2YWFJdnhFdWJhVE1hT0dVcjVsS0k2Y0pwU3BmLWJYeXFPWjN6blNWaVJ5ZEE5ODk0X0RNZ2VvVG9YVXBvUWY0MDDSAcYBQVVfeXFMT05QdlBiaU1WUW9jSXktVWZMUzVGaV9CeElkRkZXMkd1a2Zpd3FVNzhaSXBzSjNhZ2RIUnhMRTNHQXZGdTZSampua0RSc3llQ3VDa2ZjVEwtcjJkLWMzVkEza1loaGdvbU5vT2pwLWsxZlBaaS1TWGpzbGdLNThmX2xNNDhYQ2pVeEs2Tk00d1VpME1oUnpDQnQ4d2FXZEFTQ1hUYUJwZ1FpdlFUcXpadk9rMnhtQkw2R2hUYUEyMHd1OTZub2FR?oc=5
+- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
+  India’s homegrown answer to S-400? Rajnath
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
+
+- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
+  India summons U.S. Deputy Chief of Mission again after another attack on merchant
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-12 14:50:00 UTC_
+_Last updated: 2026-06-12 20:06:25 UTC_
