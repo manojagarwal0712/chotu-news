@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- From KG to PG, Odisha government announces ‘free and universal’ education
+- India takes up sailors’ deaths with US: Jaishankar raises Gulf attacks issue with Rubio
   
-  🔗 https://indianexpress.com/article/india/odisha-free-education-government-colleges-mohan-charan-majhi-10736993/
+  🔗 https://indianexpress.com/article/india/jaishankar-rubio-call-protest-us-attacks-indians-dead-10737200/
 
-- ‘Did patients come dancing?’ – Rajasthan minister’s remarks about kidney failure case spark row
+- When a royal family dispute turns violent: Shots fired inside historic Madhya Pradesh fort
   
-  🔗 https://indianexpress.com/article/india/rajasthan-health-minister-remarks-bikaner-kidney-failure-row-10736968/
+  🔗 https://indianexpress.com/article/india/when-a-royal-family-dispute-turns-violent-shots-fired-inside-historic-madhya-pradesh-fort-10737086/
 
-- Monsoon moves deeper inland. Check the forecast here
+- ‘Next poll is ours’: Rahul Gandhi exhorts allies to ‘stand together & resist’
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-advance-india-imd-10736526/
+  🔗 https://indianexpress.com/article/india/next-poll-is-ours-rahul-gandhi-exhorts-allies-to-stand-together-resist-10737163/
 
-- ‘Raakh’ true story: Ranga, Billa — killers behind the 1978 murders of Geeta and Sanjay Chopra
+- Planning of cities should be for the people: Minister Manohar Lal
   
-  🔗 https://indianexpress.com/article/india/raakh-amazon-prime-true-story-ranga-billa-case-geeta-sanjay-chopra-murder-1978-delhi-10736688/
+  🔗 https://indianexpress.com/article/india/planning-of-cities-should-be-for-the-people-minister-manohar-lal-10737165/
 
-- QR codes for animals, multi-layered grid: Amit Shah orders hi-tech security for Amarnath Yatra
+- Pranit More biryani row: KEM probe finds MBBS student’s remarks ‘insensitive’
   
-  🔗 https://indianexpress.com/article/india/amarnath-yatra-2026-security-arrangements-amit-shah-review-10736653/
+  🔗 https://indianexpress.com/article/india/pranit-more-biryani-row-kem-probe-finds-mbbs-students-remarks-insensitive-10737107/
 
 - Tiny ‘crawling’ robot solves Japan’s moon lander mystery
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/this-free-ai-music-detector-can-scan-playlists-across-streaming-platforms-10736524/
 
+- No more Meta layoffs this year! Zuckerberg admits making mistake in AI workforce overhaul
+  Mark Zuckerberg has told Meta staff the company will seek new positions for workers reassigned to AI training
+  🔗 https://www.livemint.com/companies/news/no-more-meta-layoffs-this-year-zuckerberg-admits-making-mistake-in-ai-workforce-overhaul-11781315463076.html
+
+- Anthropic ‘abruptly’ disables Fable 5, Mythos 5 to comply with US govt directive; says ‘this is a misunderstanding’
+  Anthropic was ordered by the US government to block all foreign nationals from Fable 5 and Mythos 5. The company says it is
+  🔗 https://www.livemint.com/companies/news/anthropic-fable-5-mythos-5-suspended-us-trump-administration-export-control-national-security-11781313880581.html
+
+- Paramount wins DOJ approval for Warner Bros. Discovery merger as $7 million daily fee deadline looms
+  Paramount beat Netflix for Warner Bros. Discovery, and now has DOJ approval for a $110 billion deal
+  🔗 https://www.livemint.com/companies/news/paramount-us-dept-of-justice-doj-approval-warner-bros-discovery-hbo-max-larry-ellison-110-billion-11781308757699.html
+
+- Officials say sprinklers at California medical equipment warehouse didnt work during blaze
+  Officials say sprinklers at California medical
+  🔗 https://www.livemint.com/companies/officials-say-sprinklers-at-california-medical-equipment-warehouse-didnt-work-during-blaze-11781303731051.html
+
 - Advent International Is Said Near Close of $26 Billion Fund
   Advent International is nearing the final close of a $26 billion buyout vehicle. The deal will raise one of the biggest pools of capital
   🔗 https://www.livemint.com/companies/advent-international-is-said-near-close-of-26-billion-fund-11781289229932.html
 
-- Nestle India rejects Maggi infestation claims after FSSAI notice, says 'yet to receive complaint sample'
-  The consumer goods major stated that its internal reviews and laboratory analyses revealed no signs of infestation in the affected
-  🔗 https://www.livemint.com/companies/news/nestle-india-rejects-maggi-infestation-claims-after-fssai-notice-says-yet-to-receive-complaint-sample-11781280099948.html
+- The great, big, boring SpaceX IPO
+  The space company's debut
+  🔗 https://www.livemint.com/market/stock-market-news/the-great-big-boring-spacex-ipo-11781317656038.html
 
-- AM Green, V.O.C Port Authority to develop 200ktpa green ammonia bunkering hub
-  The bunkering hub may be scaled up to 500ktpa by
-  🔗 https://www.livemint.com/companies/news/am-green-voc-port-authority-green-ammonia-bunkering-hub-11781274208254.html
+- Where will Paras Defence's share price be in the next three years?
+   Paras Defence has given very good returns to investors in the last few months. We examine the prospects of the company in the
+  🔗 https://www.livemint.com/market/stock-market-news/paras-defence-share-price-q4-results-defence-stocks-to-buy-nifty-sensex-11781286884224.html
 
-- You can now search property listings through ChatGPT as Housing.com integrates AI
-  Housing.com has launched a native property search feature on ChatGPT.
-  🔗 https://www.livemint.com/companies/news/you-can-now-search-property-listings-through-chatgpt-as-housing-com-integrates-ai-11781270534757.html
+- SpaceX Mania Powers New Retail-Risk Complex Beyond Wall Street
+  Wall Street spent the week ricocheting
+  🔗 https://www.livemint.com/market/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street-11781297341161.html
 
-- Jeff Bezos-backed AI startup Prometheus hits $41 billion valuation after $12 billion funding round; details here
-   Prometheus raised $12 billion from a heavyweight syndicate of investors, including JPMorgan
-  🔗 https://www.livemint.com/companies/start-ups/jeff-bezos-backed-ai-startup-prometheus-hits-41-billion-valuation-after-12-billion-funding-round-details-here-11781267941478.html
+- TSX adds to weekly gain as peace deal hopes lift copper prices
+  TSX adds to weekly gain as peace deal hopes
+  🔗 https://www.livemint.com/market/tsx-adds-to-weekly-gain-as-peace-deal-hopes-lift-copper-prices-11781296667732.html
 
 - Brent falls to lowest since March on expected peace deal
   Brent falls to lowest
   🔗 https://www.livemint.com/market/brent-falls-to-lowest-since-march-on-expected-peace-deal-11781294206069.html
-
-- Yields rise as traders weigh possible Iran deal, Fed policy
-  TREASURIES-Y
-  🔗 https://www.livemint.com/market/yields-rise-as-traders-weigh-possible-iran-deal-fed-policy-11781293404645.html
-
-- Gold, silver rates today: Comex gold rebounds $154/oz, silver gains $4 on Middle East peace hopes
-  Precious metals rose on 12 June amid hopes for a US-Iran peace deal. Gold futures jumped $154 to $4,267
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-rebounds-154-oz-silver-gains-4-on-middle-east-peace-hopes-11781274556200.html
-
-- SpaceX shares rise 11% on Nasdaq debut for market cap just shy of $2 trillion
-  SpaceX stock opened for trading at $150 compared with the
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-shares-rise-11-on-nasdaq-debut-for-market-cap-just-shy-of-2-trillion-11781279692859.html
-
-- SpaceX makes Nasdaq debut at $150, lists at 11% premium to IPO price; Musk becomes world's first trillionaire
-  SpaceX made a historic Nasdaq debut on June 12, listing at $150. It became the sixth-largest public company in the US.
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-makes-nasdaq-debut-at-150-lists-at-11-premium-to-ipo-price-11781266245349.html
 
 - India wont be second to anybody in developing foundational AI models: IT Secretary
   India won't be second to anybody in
@@ -100,6 +100,34 @@
   Anthropic President Daniela Amodei suggests that AI may face regulations similar to those for social media. Trump laid out a relatively light-touch strategy for dealing with AI-
   🔗 https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html
 
+- Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut - BBC
+  Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut.
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXU3A1ZEtDbHhYenRtOXZRX2NzbUhpRUMyX3V4Mk10Vzk4U2VxV0FjNGxvY19lVUZtY3MyUlBYUG8yNFFScGhVcWJ2LTZHTEtCRTZLbi0yY01NUQ?oc=5
+
+- Why did stock market rally today? BSE Sensex ends around 1,700 points up; investors richer by Rs 10.2 lak - The Times of India
+  BSE Sensex ends around 1,700 points up; investors richer by Rs 10.2 l
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbk9UbEw5Y3VVRkdQaHRteHJxSDRvS3QtYUlrY1FXa2lJVUd1SFVBcE16dVdNVUN5NXZteVJfNGRGN3N2ZnhXV29RNU9uVXlnZ1N6NlBMcGhxOW83NzJscV9WdEFtWUs1YnkzOFp0dGJOMC1lY3hhOW9VNDJ0QXJHc0plZERQWnBYalBrU2NwbVZaMklBSjdTU0tHZVNHNkdXLTBOaFV6OWhYZmc4SFB6ajJ0REdMdF85WkJRaVZGb3pLMDYzbXRrYzE0THFwdnpWLUZWYkZ2ZHY2eHptd2pBU012WnVkR0JmcUhXZ1BRajVYRDJUVzFGd0wxQzVQQ2wzUmJKUFBLaHZHWmfSAZACQVVfeXFMUEpaTFZBa05nUUEzdHFhSVdKemVPY0xIRkNubkpDNV9jOUt3T1J1OW5tRDVKbHR4UUxweXp0Y2ZVcEU1LWptX1g2TzRnVmEteWFkX2FrZ2ctSVBTR1NuYlNXOUppNHlOcVAtYnI0NTAzZVhGT3RQbHBwa2h0NnZ1UFUtemdwMGw5akRDSEE0cDFnYlZYdm96dUdRbXZUSHIxM3ZNVHI4bDhYaUx5VHFBRVdrclZSOXpUQ091Tnp2ZGxhODQzUXBDNElNY2tYUkNSVmZCcVlVNWtDOXZfODEyRGlidG9iS09iSlJBeXI2SVQ3NDFva1pkMjJEVXlJOXNKd01STXNCY0hkSF9LVHBXRVU?oc=5
+
+- Closing Bell: Nifty climbs past 23,600, Sensex rallies 1,700 pts on hopes of US-Iran peace deal - Moneycontrol.com
+  Nifty climbs past 23,600, Sensex rallies 1,700
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQdnFHeG1maEtYcmxGa3NWd0s4dGh3T3hUMnFHNHl5X1JqSDJDM01RX1dQX01adUJaTUpYVTBlTFI0b2l5NXlKbS1xbXk1LWtBejBNVkVtcDNWYjIwa1RVUXduSXdoQ1RYSXZNeDl2U0FDZ2pueGNDemY5WHd4VTlMc0VURk9jZmVhUHhWdkdNQW51c282a3N3V1I4ZkJwak9rdGNvYkZITmo2ODg5aWpjY3h0dHRVOVNRRThVUnRpaXdfbzExOHBvOXBINUlPRmVoOFQ3R2ZrOXIzNk56WW1ZTWhMVTljdzF3eWczQ3VEeXNlVnhtZ2drZVNwY3EwbmpHbG5nVFlxMXRJZ0E2S1RsdXRha9IBmAJBVV95cUxQbWlsQ2JMazU5ZWk5RVNBNU1fMVFXR3doY0RocnMtT203b2hXSzRCVmpaeDZnOGhzN3NESVVsdV9nNllQczU5aF9kS2hYYzdJR0JLWVE4STdBUm1wakFkSHJWVHNUS0x4RGVPRnBTS01Kb3k2dVNsb2xCbElBZ3BvRnRyVFV6TmE0UnIzQW84Q2ppRGVfLW9IQXlvYnFTUklwb3NLMkVMSDB5a1JBN1BVWksxUTB4dVRDSmp6RjlIRlQyeUQtSmpPakNQNlY2ejJ3RHZTd1djWHhERVN0S0hwUmpiLXk1YnVldFo3aS1HUUZ4SzdIWnlDU2tCN2hWeFh2U0ZTTW50OV8yMmNuRDJvRkpSYXJKRFhB?oc=5
+
+- Stock market rally: Aegis Logistics, Cupid, Akums Drugs, JB Chemicals, among 47 stocks that hit 52-week high on NSE - Upstox
+  Aegis Logistics, Cupid, Akums Drugs, JB Chemicals
+  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY1JHSHhfV3NsdGQyM1FWSmY2Q0gyX2taTnlDWjV3MU9iYXpmdUVOaUdtTnNmb1hlLXF1b05TOXVJWVZvcjk5MHpyTE93OUdSN2lscV9SdFA5TTl1RTJiUndRZVRtdUlOVDJkWHVOYW01cUJ0TC1TNW5zYnY3a3JiZmtvMEVZTjJsRlhjUVZfVGRDZU9YTlV4a1B4cFBhWXB4QlhvdDB5eTZaX2JlNTZTVDN0RjYxLTNwLV9NTW9Tc0JJQklFY2F5bExxN2lVOVpESjlRR0Z0cWp5MzJtM0NIWmhSYXFnSmNMZ1VDY3JPY2VvZjZxS1VSX0hCeXF5Zw?oc=5
+
+- Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish Up for Week; Oil Falls on Hopes of US-Iran Deal - Investopedia
+  Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1RBREs5enBCdWFENTRxejlJZnNkUE40S2x2OC1NWmVaQlZsbjNyYlVKTU1VTUJnRWhDNWZsbnJVLXVLYlAwVTZjNjRYdWRtcXhYY0RDMXBDSGxkdUhrZUI3bFloMFhRNmxuanUzSGtUU09EMEpxT2RWdm5PbW5Xd0tIb2Z1Z1U0em9PcFhwclY?oc=5
+
+- US stocks: SpaceX shares close 19% higher in historic market debut, value surges past $2 trillion
+  SpaceX's Nasdaq debut shattered expectations, soaring past $2 trillion. The company's ambitious vision and market opportunity captivated the market. Despite a reported loss last year, the company's shares closed up 19%.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-value-surges-past-2-trillion-in-historic-ipo-debut/articleshow/131693464.cms
+
+- US stocks: US market ends up on Iran war peace deal hopes, SpaceX's historic debut
+  U.S. stocks climbed Friday, buoyed by hopes of a U.S.-Iran peace deal and the historic debut of SpaceX. Progress in peace talks eased inflation and interest rate concerns, while SpaceX's strong opening captivated
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-up-on-iran-war-peace-deal-hopes-spacexs-historic-debut/articleshow/131693450.cms
+
 - Explained: SpaceX's IPO includes a 'greenshoe' option. Here's what that means
   SpaceX's record $75 billion IPO includes a greenshoe option, allowing for the sale of an additional 15% of shares. This standard feature, designed to stabilize trading, could raise SpaceX an extra $11.2 billion if demand
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/explained-spacexs-ipo-includes-a-greenshoe-option-heres-what-that-means/articleshow/131692101.cms
@@ -111,94 +139,6 @@
 - SpaceX shares rise 11% in strong Nasdaq debut after $75 billion IPO
   SpaceX shares surged on their Nasdaq debut, valuing the company at nearly $1.96 trillion. This historic Initial Public Offering made Elon Musk the world's first trillionaire.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-rise-11-in-strong-nasdaq-debut-after-75-billion-ipo/articleshow/131691269.cms
-
-- Space stocks slump as blistering rally cools after SpaceX market debut
-  SpaceX made its market debut on Friday. The Elon Musk-led company achieved a valuation exceeding two trillion dollars. Other space companies also experienced declines.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/space-stocks-slump-as-blistering-rally-cools-after-spacex-market-debut/articleshow/131691044.cms
-
-- Revised common application form for FPIs notified
-  The government has notified a revised common application form for foreign portfolio investors (FPIs) This move, along with recent tax exemptions on government securities, aims to attract foreign capital and stabilize the rupee.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/revised-common-application-form-for-fpis-notified/articleshow/131689292.cms
-
-- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
-  The India-Pakistan conflict’
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
-
-- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
-  'Europe's Weapons Used To Attack India': S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
-
-- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  'I will come home safely': Indian sailor's last words to wife before
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
-
-- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
-  India’s homegrown answer to S-400? Rajnath
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
-
-- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
-  India summons U.S. Deputy Chief of Mission again after another attack on merchant
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
-
-- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
-  The India-Pakistan conflict’
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
-
-- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
-  'Europe's Weapons Used To Attack India': S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
-
-- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  'I will come home safely': Indian sailor's last words to wife before
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
-
-- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
-  India’s homegrown answer to S-400? Rajnath
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
-
-- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
-  India summons U.S. Deputy Chief of Mission again after another attack on merchant
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
-
-- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
-  The India-Pakistan conflict’
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
-
-- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
-  'Europe's Weapons Used To Attack India': S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
-
-- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  'I will come home safely': Indian sailor's last words to wife before
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
-
-- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
-  India’s homegrown answer to S-400? Rajnath
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
-
-- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
-  India summons U.S. Deputy Chief of Mission again after another attack on merchant
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
-
-- Mountain of war: The India-Pakistan conflict’s deadliest battle zone - Al Jazeera
-  The India-Pakistan conflict’
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmVHbjB1NFBweDBjN0VSNVB1QTVPbHQtV1ZwUUJ0VHF3N0c2Qzg3QjJ3VkFqazk4TEVaVmlvbEIxaWhScUpvRnBRV2hBa3ZDdmFCTUZja29jXzFxUlQ4ZnhiejdnVEN3X1NhLWd2RHBsS3hGSHdERVNVenlhRlN2c0hDTERscWprd1pKRkFXUlhNNHEtcUF6QzRyVEh4WjBpc2lqZ1F0MXNmYk1kcWVrZm1SZzEwLWvSAbwBQVVfeXFMTlZGclBTSllTMXo1QUlrNXJMZE5GZnRWSW9CeVBGV0E0VjRoMVBYUXhqOFYydDNJTkk5UVI4Y1hFT2VBUkE1R0Q3UGVlOUItUDV6V2VZNFBwVllSN1hmVjFLSEgtZW05T2xVWVN5VlRqWUpqeXZ1Q2t0T0l6bGNhWVdyRFJ1Tk5WY0t4RV8tRnp3bnFvNlVHSHdZbGNaNTQ2bi10TGtpYzRrMHg4ZzlmaWN2RUxjU3p0RmUxMzg?oc=5
-
-- 'Europe's Weapons Used To Attack India': S Jaishankar On West's Double Standards - NDTV
-  'Europe's Weapons Used To Attack India': S
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDhTU2c0b0t4NVVONURNVFFiTHRuLUJNSDhudk00VGhCV2ZoLTYxQnladGlwZEg5bjBqVFJ4QTJPMXBHdjUwUm5GZkxTYjVWazcxTnBnSW9lRl9mQnl5SGtXbHlPMEVnWFJoMnluamFHeEhMMURQTFRwV0RMbXA1RHJVMkhuZWNhZF9Xb25Gbk1NRkl4Q3BRVEdRcVJSYVdrMVRTaTdWeGxUSFJkbXg3RGVFVVNnUUHSAb8BQVVfeXFMT29VUllvMHRtYUxQNVlsdVdBVGpZWDNXSUltaWVURUtoQ3dRS2gxMm1nQ0w0dmh0ak5DYTQ1b2lQa1pHQjFoNVM4enpQczF6a2JRbWNkSXozbFJmcTVDbVJzRjQ1Y1VGbWFVcTNEQm5SbHczYVp1Nk9aaEJiNkZ0YUsyTkxLd2RkLXBkZnlCZEszWWV1Nks1ZXZ0TnFTbWpRR0Znb2dFZkNHMVlBU0tYYzlVS2JVcWl2emhQbDZpd3M?oc=5
-
-- 'I will come home safely': Indian sailor's last words to wife before a US strike killed him - BBC
-  'I will come home safely': Indian sailor's last words to wife before
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vb2tpRVJLMFNjVDA1OFJpWFVsNktlZVFPRUNEaDBCOHlWLTk4clRNOHdBdXNQWlJtaHFFWm5OUTVGbTE0b0tVekhSRU9JX21nT05nczJKTWttQQ?oc=5
-
-- India’s homegrown answer to S-400? Rajnath says Project Kusha is a game changer - The Times of India
-  India’s homegrown answer to S-400? Rajnath
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lXcTdKWVlzdGlRSDJjR1NlMXVuY2lWcDJFbi1GejRrTVJ4Y1MyZm5GQzhvYnlJZjlzX19GX0ZnMjRwbTA0UG0xNzNUTHNNTVc3dGVjMW5UMmZNUEdvRExyNkg0SWpUQzRyVFAxUEpua3RfanhMU2tpb19yX2tRVF93YnY4TF9RUFpyS1hsODdqM1BCdVNPd0owQmVrN0kxVHQ2R3piYW1rSjJ1eU5JbE82bUczbTlqcFVOcDF4R2dKVDJmSngzVmViMm56R3JMOWNScU5Ia2U5clBGdlhxYnRXSG8tSXPSAewBQVVfeXFMUEJBcmp2WUxWVmQ4dERBRmFhaFVLRmh3UkVBYlhCejh5dURMa01GTkU4Y1hQcjNTTzVlbFVMaUtQX1FKZFE0UWNuLVVGRUlqOEpTSjlITGhZa0gxLUpMSi1KOTBiZFR6Z0IyaF81WXFOVGdoVHFUXzNwdVVGOEp4QjRyaXVTT2ZVS0pGYzlxeVdzQllSNGRjMXZXYlRFd0VnODR6c0k0ZGtHYVQ1ZUh3TlYxVW5EN0tjSjMyYncyNVE5R20wWm9jNjdPS0NjUDhlekJ6N2Fsdm9hZXBjNGxNck9iNGlyVllkSzk4V2U?oc=5
-
-- India summons U.S. Deputy Chief of Mission again after another attack on merchant ship with Indian crew - The Hindu
-  India summons U.S. Deputy Chief of Mission again after another attack on merchant
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNklIXzQyRndKRDdJbVphMlEwd3hvblZSVHJoSnZoSGVVNHlsdnZYWi1SdUwyeGtDME15RGFmLVdreDUycWhfNVBjcDhWZm9FZ1FvWnFyMWk1eWh2d0psakJNMkd4YlBvUTBTMlhYSjBkNkpoTUE5dUpzdDl0NEVEc1BlbGxveWxob1Bwem9zS3pFbk9XRUpUMHVSQTlkZE9xdFB4VEYtcVVkTHlTdE5POVlGSE05UHBlNGh2bUZKVXZYYUl4V1RtTDBsX2FWSTJ4d3RmTnZzMlp1OHl0MXJPZW1VNXg4OUV6dFV3d1puem5ieXRDYWVRdjd30gGAAkFVX3lxTE9aS011QUNaRnFQMmZ1eE9KMTZVbWM5ZER5LWg3ZUNSWFhJTkJmU3BXWHY4UlZ1bTV0TWZ4Z0pYb1dzQTdqcnRzOFdBU0F2ejhBMHpBczBUVmtlUHVrc1NrVUxBOGRGT2dmbXdNR0dnN3RKemFuNzJGM192RmI2cmoxQVh6WjVjOThYTGdTSFFGcU0zYVdrR2N6c25YMXNlTk9FVkRURXBPbXExeWtTa3NYb2RJRS0zalZGOTY1a3lyTTVQQ3JvNFJkLWFyb09oRTdpalkwS3NCOE9tTU1sLXcxTGxGQnFOQV9EVHFlaEhBMldNcHdfSU0yOTZpbkJIWC0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-12 20:06:25 UTC_
+_Last updated: 2026-06-13 02:54:23 UTC_
