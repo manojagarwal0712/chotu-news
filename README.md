@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- 4 killed as Patalkot Express rams into passengers jumping from another train in Jhansi Division
+- After initial rejection, Cockroach Janta Party gets police nod for Jaipur protest, participants capped at 800
   
-  🔗 https://indianexpress.com/article/india/4-killed-as-patalkot-express-rams-into-passengers-jumping-from-another-train-in-jhansi-division-10739139/
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-jaipur-protest-police-nod-10739405/
 
-- As TMC rebels huddle in Delhi, Abhishek Banerjee writes to Speaker against separate faction
+- BRICS Indore Declaration adopted keeping ‘farmer at centre’: Agri Minister Shivraj Singh Chouhan
   
-  🔗 https://indianexpress.com/article/india/tmc-crisis-abhishek-banerjee-letter-om-birla-anti-defection-law-10739239/
+  🔗 https://indianexpress.com/article/india/brics-indore-declaration-farmer-shivraj-singh-chouhan-10739301/
 
-- This 152-year-old railway station in Telangana set for Rs 715 crore facelift
+- 4 killed by oncoming train after passengers jump onto nearby tracks over fire rumour in MP
   
-  🔗 https://indianexpress.com/article/india/152-year-old-secunderabad-railway-station-telangana-rs-715-crore-redevelopment-details-10739011/
+  🔗 https://indianexpress.com/article/india/morena-train-accident-patalkot-express-fire-rumour-deaths-10739357/
 
-- Bihar coaching wars: Brother of institute owner jailed in Khan Sir centre attack found dead in Nepal
+- Indian vessel sinks off Oman coast after ‘engine failure’, 14 crew rescued
   
-  🔗 https://indianexpress.com/article/india/khan-sir-centre-attack-brother-dead-nepal-10739083/
+  🔗 https://indianexpress.com/article/india/indian-crew-evacuavated-vessel-oman-engine-failure-10739111/
 
-- ‘Like an obedient servant’: Rahul Gandhi targets PM Modi over US remarks after killing of Indian sailors
+- Make way for the ‘queen’: Ahead of pineapple festival in Delhi, Tripura eyes global status for its state fruit
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-pm-narendra-modi-silence-indian-sailors-killed-us-strike-10738984/
+  🔗 https://indianexpress.com/article/india/tripura-global-pineapple-festival-delhi-mission-queen-10739279/
 
 - This Rs 2,699 gadget is a Bluetooth speaker, radio, and alarm clock—but buy it for its wireless powers
   
@@ -60,6 +60,10 @@
   The auto components manufacturer has relaunched the process after earlier discussions slowed. It is seeking
   🔗 https://www.livemint.com/companies/chamundi-die-cast-stake-sale-private-equity-kpmg-auto-components-industry-manufacturing-sector-promoter-stake-sale-11781412069730.html
 
+- Wall Street week ahead: Spotlight on Federal Reserve rate decision, retail sales, Middle East, G7 summit
+  Market will be looking for signals on how new Fed chief Kevin Warsh intends to tackle lingering inflation concerns
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-spotlight-on-federal-reserve-rate-decision-retail-sales-middle-east-g7-summit-11781448832664.html
+
 - Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat
   Eli Ben-Sasson helped create the Zcash cryptocurrency nearly a decade ago. He didn't expect that machine intelligence would one day expose a flaw that had
   🔗 https://www.livemint.com/market/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat-11781443475927.html
@@ -75,10 +79,6 @@
 - Mutual fund distributors seek tax relief after Sebi’s expense ratio overhaul
    Distributors have urged the Association of Mutual Funds in India to adopt the reverse charge mechanism to offset income losses stemming from new expense ratio regulations. Many small distributors, particularly those exempt
   🔗 https://www.livemint.com/market/mutual-fund-distributors-seek-tax-relief-after-sebi-expense-ratio-overhaul-11781423350674.html
-
-- ‘True test of capitalism’, says billionaire banker Uday Kotak on SpaceX IPO market debut
-  Kotak said the company's valuation challenges traditional financial benchmarks and reflects a substantial wager on
-  🔗 https://www.livemint.com/market/stock-market-news/true-test-of-capitalism-says-billionaire-banker-uday-kotak-on-spacex-ipo-market-debut-11781421681143.html
 
 - OpenAI hit with multistate probe into possible user harm as its IPO looms
   OpenAI hit with multistate probe
@@ -100,25 +100,25 @@
   The upcoming iPhone 18 Pro series leak has revealed new color options like Dark
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-design-leaks-again-in-live-images-dark-cherry-light-blue-and-black-colours-revealed-11781228198771.html
 
-- Why is the price of gold trending down? - Al Jazeera
-  The price of gold has been trending
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2YybTREd0dRdDlyQkE2NFV6MnY4TXNvSHd3d01RX3h2YmVva0U0bEF1aTVNQ2lGUS0zYTZORmJFajJqZXFfQ2M4SzNMNnBfallZWE9vdGxFczJ6NTZhUTJ0dUdYR0JZeVhYZkJGUFdVdWh1NkVYelVzTFNuaVZ2ZW1uTWNrWlU1SGfSAY8BQVVfeXFMTWpPQUF2dF9zNllMYVdlU2VPZHJkbHdpOUlqT0J2UUJrZWVQb1VabXlDVi13anFWOUk1cnRrNU5vUV9qWC12WTUydnNXS1prR21NZUp4a3pqaFpXNGhHdl8xRUh0bTQxd3pXZjlwckZjREo2VXc1OGh4Y1pxamtIUDZIOHlmdGk2cXB3dG1oRTQ?oc=5
-
 - World’s Hottest Stock Market Turns Attention to MSCI Moment - Bloomberg.com
   &nbsp;&n
   🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVVoR2ZZa0FaZXB1dVBmVFJIclFicm80M1B0NUtGQ1hjTnNEUW1JNUNZbnRFTl8wQWFGdTZYb1duUnY0bXg0S0xVelduNW1HWkFvWGlKaWt2Q09uczFqRDB4eVNtV3h5MFZpQkh5VFpOdEFUaXBQdFEyZzBNbkRERGxnV1c1dmdINHdEWWFiQjczRGltZDRhUS04QVNTelZEQ2Z4YkI1NGZQR3oyQkhB?oc=5
 
-- US-Iran deal nears finish line as Fed Dot Plot looms over commodity markets - Moneycontrol.com
-  The Fed Dot Plot looms over commodity markets. The
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmFLU0NjTEU4T0FqNXJKRnhPVG5NUFlIRkxaS2cyUWh1cGRxMXJsT3VkNzJ3Y2w4RVpWbEJFNnRTMjBFN0ZsbGxvMWh2cmI2ZXFBOVduM21PQUVvaUtfY2NjdVdSN1MyZlpxQ3JzV1pyQVltdUVmSDJzXzh2TkM3MlVZc213cGQzam9ITUs1UWVwR2NzNEFMRDExaXRSVV9DQ25aZzBReFpuLTRhVVVTblhBTi1WYUd0YXM2ZUp1S0ozek05YURWV0NRVmROUVRBdTI5RlhRQ21YZ25I?oc=5
+- Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish Up for Week; Oil Falls on Hopes of US-Iran Deal - Investopedia
+  Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1RBREs5enBCdWFENTRxejlJZnNkUE40S2x2OC1NWmVaQlZsbjNyYlVKTU1VTUJnRWhDNWZsbnJVLXVLYlAwVTZjNjRYdWRtcXhYY0RDMXBDSGxkdUhrZUI3bFloMFhRNmxuanUzSGtUU09EMEpxT2RWdm5PbW5Xd0tIb2Z1Z1U0em9PcFhwclY?oc=5
 
-- US-Iran deal, Fed meeting, Crude oil prices, FIIs activity among key market triggers to watch this week - Upstox
-  US-Iran deal, Fed meeting, Crude oil prices, FIIs
-  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbkFFMnlLZTRqUENfeWQwcGt0MVlWSDJMTGx4WEIxOUJxY1daQ0JlN2tDNHhPbTl4MHRsM0tfZkNpaHpOZlJNbjVmTk5sQnJoRmRiZi1RMHBiYV9TaHhMbDFvRzk2em5xSlpETEVhRV9FWDhVMVdhT19JeXRYYzRxTm90Q04tSTJEMGhQMXFMLV94Z2hWRERPeFBhSElpbVFnT2NQckszaFU2djB4YWRqNGx4ZEtaVXppMmJkU3dYSUxpQ0lLa05Vb2dOT0h5RTZYQU14VUl2VVgyM1lKSWNqeFJMbThyV01xWU4wY2t1THZWZkFqNTQ0?oc=5
+- Trade Setup for June 15: Top 15 things to know before the opening bell - Moneycontrol.com
+  " target="_blank">Trade Setup for June 15
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHNmb1ljTUFCc1pJVmo4OEZhdlR6U3JwWGlBSEdRNVIwaDFmcjkxMjlpTXp1clI0Y01tSnZ6UmR4YzJ3Sm41bHRmTWlFUWNlQVBybVM4YzR1azJIb0ZYMW1OLUtaaV9LZVl2ZDBBZ3p0dWlhS212LWhMcDZlTllTU1dScVVsbktlOHd2TVRiNjI3TThpWjQxclkzR0YzWDdjYkltTWViSVgwZzhlVk40eUhQa25jSXRGcTBfaXRlZjk3WExEMUVhS201TFZEOEnSAdQBQVVfeXFMT1M3RE9FVTluNXBsTm95V29ZT0VVTTY2U21maVpyYkRadDdNa0kzemJ5UEk1c0w2T0UyZVZQbnVaUzQzYUlHcE1LUGU4RDVPMTdrMmYybGd5NDVXRF9QSm9tX0RlUmFuV3J3emJYRTM2RGVTdTQ1bnJyOWRGOU9lMEtSNHpMWG5QanB1a3BPYmc2Y2NuOVQtS1l2RHhTUWdnUHFQa0dUQ0JTWVZ6Rm1zN3RFV2x3TjExYkVic3VmLTNsejJnUWprX1BFNUNXM3BJUkZTYnc?oc=5
 
-- Indian Stock Market Prediction: Nifty Outlook for June 15–19 - Liquide Blog
-  Indian Stock Market Prediction: Nifty Outlook
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE5vMkdkWkF1QzYyZ2xhN1JnQXlyZVpla0tSWmxSV3VCVFJKRmUxanR1SFhDZnNzNUpENEFUb1hwbzltT0VDTWpWU25uQ2FrclIwRzhldzNKQUhqeThScExmdnNHeFdoRE5qNmNMM1BTT3I2RmpTZFdFemhiVTFacUE?oc=5
+- Why is the price of gold trending down? - Al Jazeera
+  The price of gold has been trending
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2YybTREd0dRdDlyQkE2NFV6MnY4TXNvSHd3d01RX3h2YmVva0U0bEF1aTVNQ2lGUS0zYTZORmJFajJqZXFfQ2M4SzNMNnBfallZWE9vdGxFczJ6NTZhUTJ0dUdYR0JZeVhYZkJGUFdVdWh1NkVYelVzTFNuaVZ2ZW1uTWNrWlU1SGfSAY8BQVVfeXFMTWpPQUF2dF9zNllMYVdlU2VPZHJkbHdpOUlqT0J2UUJrZWVQb1VabXlDVi13anFWOUk1cnRrNU5vUV9qWC12WTUydnNXS1prR21NZUp4a3pqaFpXNGhHdl8xRUh0bTQxd3pXZjlwckZjREo2VXc1OGh4Y1pxamtIUDZIOHlmdGk2cXB3dG1oRTQ?oc=5
+
+- Tute Consult launches Vector for domestic and global markets - ET BrandEquity
+  Tute Consult launches Vector for domestic and
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1Q1NDRuSDNoc2tGQUNMOWRfbzJteVRXaGViS2hRWFE3YkxLcWNPQ0lPSk1nVnBTelRZdVBfaV9wZUpnejExUWY2ZmdSaEkybE1PYlVjamRhaEMxVG1jVzRnbEl2ZWo3Sm5tdElad0lkSkFQNS12bUI4TnotTy1QREhNRVF5VkZZR2U5dWltLWs4djVNazNub1MyNmFiSWpUX2hRXzVxV250cjNWNXhYQWVIbXd0RnEtakhlUmxGdEdzLVVIWWFPQkRnMGl5Z0JrSDdaUTlGenNQckNFYlRpQ1ByTnY5SFNFUTBhWUt3SGtoMGs?oc=5
 
 - CEA Anantha Nageswaran says AI stock valuations definitely in a bubble
   India's Chief Economic Advisor V Anantha Nageswaran warns that artificial intelligence stock valuations are a bubble. He believes the narrative around AI's productivity gains and impact on jobs is exaggerated. Global investors have poured billions into AI-
@@ -144,81 +144,81 @@
   A study by Al Jazeera found that Indians are
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
 
+- India protests US strike that killed 3 Indian sailors - dw.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+
 - How India Walked The Middle East Tightrope Without Blinking - NDTV
   How India Walked The Middle East
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- Technology Adopter To Provider: PM Modi Pitches India As Innovation Partner - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnlQaW0yQ2tDN3FES2pDeUZ4ZmpYdFA3ajNLakN0Z0MxOEdYN1JoM1lOVkUwMnlRNFNrVkFGVFNUSkJnVktTMldKbzgyVXZkazZjYnlkWnB1UzBtd3VvZDFjYW14WGVDcWtKWEt0MWlKbFdEeVFLd2IxVldMbTZTSHZMQ1o5MlR0QW45Qjk3bS05Y05jcUEtSnNzSHRvZ1JibkpaZmRwUkUxVjBJbUp1ZEI1VG9Xd9IBvgFBVV95cUxNTzRNV0dFdmNXYTlyeERhV2N1MUtZSU16UDFNLThJT3Z5czNvZWxVbTg5MDRpQlJReVYtMTllZ3VGRDdxeW1TQnMzV0pQTWtoYkc4UkRFejZEUnJSOGNfNERsSUJxRWlUQ3RINmhyYU9wTlQyWlpmaXhfY243RXNkMDJNSFdBM3FIY1BOSVdlRlhaalloVGFaTmxlV0NHMWVNQUp3TFdOUFNvaWdFV0g1SGhudTdCekhJcWZPd2F3?oc=5
-
 - Indian Army unveils new uniform policy, phases out colonial-era practices - The Hindu
   Indian Army unveils new uniform policy, phases
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVRfeDVhVXZoV05IdEFsUDRFMEQ1OGRKTVhxVTBlMVZNVmRyT1J3WmJxMUllTW5teHJMSkNBTTZHRlZWVTJNdjhEdnpBZVo0dmp3cXo4UzJNUFZsM0FHVHRSRXVtNjMtNkkxTVR0dExtdmhvNzBIVTc1LWF2U0R1MkJqY1FhS2xVdnljR0QwX2xPWGxrM05OWDdoMEtCTm5nb19YdUJQR3RpSHNWX1ZzZ0dhemRub3pjaGpRcl9iMl93cGUwM2dja0kxRdIB0gFBVV95cUxQd3N6Y0FfcHJjMGtwdjdpclIwLUZQb1hfM0ZMTnVNXzVWdmszemdtVkdTTHNDYUJ3Z0xobGpyeS1JcHRRUF9tSVVrM21GRjlVdVBkejB5TzE5Y1lUQTFUamxfeGN6c0JfQnVVWGo5Ukc1ZlcwNExrempqV0p3VHR5eThwSGs4QUkzamVzUWdZdFBIVDBRMXllUWhMMGZWUzctUEx3QjhRaXoxMUE4N3N4RlBwazN0WVJudVZFWkZjalg5SUlkaThJVmpHVnRCaVd5eFE?oc=5
-
-- India's 'blue gold' starts a new drinks industry - BBC
-  India's 'blue gold'
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
 - Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
   A study by Al Jazeera found that Indians are
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
 
+- India protests US strike that killed 3 Indian sailors - dw.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+
 - How India Walked The Middle East Tightrope Without Blinking - NDTV
   How India Walked The Middle East
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- Technology Adopter To Provider: PM Modi Pitches India As Innovation Partner - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnlQaW0yQ2tDN3FES2pDeUZ4ZmpYdFA3ajNLakN0Z0MxOEdYN1JoM1lOVkUwMnlRNFNrVkFGVFNUSkJnVktTMldKbzgyVXZkazZjYnlkWnB1UzBtd3VvZDFjYW14WGVDcWtKWEt0MWlKbFdEeVFLd2IxVldMbTZTSHZMQ1o5MlR0QW45Qjk3bS05Y05jcUEtSnNzSHRvZ1JibkpaZmRwUkUxVjBJbUp1ZEI1VG9Xd9IBvgFBVV95cUxNTzRNV0dFdmNXYTlyeERhV2N1MUtZSU16UDFNLThJT3Z5czNvZWxVbTg5MDRpQlJReVYtMTllZ3VGRDdxeW1TQnMzV0pQTWtoYkc4UkRFejZEUnJSOGNfNERsSUJxRWlUQ3RINmhyYU9wTlQyWlpmaXhfY243RXNkMDJNSFdBM3FIY1BOSVdlRlhaalloVGFaTmxlV0NHMWVNQUp3TFdOUFNvaWdFV0g1SGhudTdCekhJcWZPd2F3?oc=5
-
 - Indian Army unveils new uniform policy, phases out colonial-era practices - The Hindu
   Indian Army unveils new uniform policy, phases
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVRfeDVhVXZoV05IdEFsUDRFMEQ1OGRKTVhxVTBlMVZNVmRyT1J3WmJxMUllTW5teHJMSkNBTTZHRlZWVTJNdjhEdnpBZVo0dmp3cXo4UzJNUFZsM0FHVHRSRXVtNjMtNkkxTVR0dExtdmhvNzBIVTc1LWF2U0R1MkJqY1FhS2xVdnljR0QwX2xPWGxrM05OWDdoMEtCTm5nb19YdUJQR3RpSHNWX1ZzZ0dhemRub3pjaGpRcl9iMl93cGUwM2dja0kxRdIB0gFBVV95cUxQd3N6Y0FfcHJjMGtwdjdpclIwLUZQb1hfM0ZMTnVNXzVWdmszemdtVkdTTHNDYUJ3Z0xobGpyeS1JcHRRUF9tSVVrM21GRjlVdVBkejB5TzE5Y1lUQTFUamxfeGN6c0JfQnVVWGo5Ukc1ZlcwNExrempqV0p3VHR5eThwSGs4QUkzamVzUWdZdFBIVDBRMXllUWhMMGZWUzctUEx3QjhRaXoxMUE4N3N4RlBwazN0WVJudVZFWkZjalg5SUlkaThJVmpHVnRCaVd5eFE?oc=5
-
-- India's 'blue gold' starts a new drinks industry - BBC
-  India's 'blue gold'
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
 - Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
   A study by Al Jazeera found that Indians are
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
 
+- India protests US strike that killed 3 Indian sailors - dw.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+
 - How India Walked The Middle East Tightrope Without Blinking - NDTV
   How India Walked The Middle East
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- Technology Adopter To Provider: PM Modi Pitches India As Innovation Partner - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnlQaW0yQ2tDN3FES2pDeUZ4ZmpYdFA3ajNLakN0Z0MxOEdYN1JoM1lOVkUwMnlRNFNrVkFGVFNUSkJnVktTMldKbzgyVXZkazZjYnlkWnB1UzBtd3VvZDFjYW14WGVDcWtKWEt0MWlKbFdEeVFLd2IxVldMbTZTSHZMQ1o5MlR0QW45Qjk3bS05Y05jcUEtSnNzSHRvZ1JibkpaZmRwUkUxVjBJbUp1ZEI1VG9Xd9IBvgFBVV95cUxNTzRNV0dFdmNXYTlyeERhV2N1MUtZSU16UDFNLThJT3Z5czNvZWxVbTg5MDRpQlJReVYtMTllZ3VGRDdxeW1TQnMzV0pQTWtoYkc4UkRFejZEUnJSOGNfNERsSUJxRWlUQ3RINmhyYU9wTlQyWlpmaXhfY243RXNkMDJNSFdBM3FIY1BOSVdlRlhaalloVGFaTmxlV0NHMWVNQUp3TFdOUFNvaWdFV0g1SGhudTdCekhJcWZPd2F3?oc=5
-
 - Indian Army unveils new uniform policy, phases out colonial-era practices - The Hindu
   Indian Army unveils new uniform policy, phases
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVRfeDVhVXZoV05IdEFsUDRFMEQ1OGRKTVhxVTBlMVZNVmRyT1J3WmJxMUllTW5teHJMSkNBTTZHRlZWVTJNdjhEdnpBZVo0dmp3cXo4UzJNUFZsM0FHVHRSRXVtNjMtNkkxTVR0dExtdmhvNzBIVTc1LWF2U0R1MkJqY1FhS2xVdnljR0QwX2xPWGxrM05OWDdoMEtCTm5nb19YdUJQR3RpSHNWX1ZzZ0dhemRub3pjaGpRcl9iMl93cGUwM2dja0kxRdIB0gFBVV95cUxQd3N6Y0FfcHJjMGtwdjdpclIwLUZQb1hfM0ZMTnVNXzVWdmszemdtVkdTTHNDYUJ3Z0xobGpyeS1JcHRRUF9tSVVrM21GRjlVdVBkejB5TzE5Y1lUQTFUamxfeGN6c0JfQnVVWGo5Ukc1ZlcwNExrempqV0p3VHR5eThwSGs4QUkzamVzUWdZdFBIVDBRMXllUWhMMGZWUzctUEx3QjhRaXoxMUE4N3N4RlBwazN0WVJudVZFWkZjalg5SUlkaThJVmpHVnRCaVd5eFE?oc=5
-
-- India's 'blue gold' starts a new drinks industry - BBC
-  India's 'blue gold'
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
 - Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
   A study by Al Jazeera found that Indians are
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
 
+- India protests US strike that killed 3 Indian sailors - dw.com
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
+  &nbsp;&ngt;<font color
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+
 - How India Walked The Middle East Tightrope Without Blinking - NDTV
   How India Walked The Middle East
   🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- Technology Adopter To Provider: PM Modi Pitches India As Innovation Partner - NDTV
-  &nbsp;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnlQaW0yQ2tDN3FES2pDeUZ4ZmpYdFA3ajNLakN0Z0MxOEdYN1JoM1lOVkUwMnlRNFNrVkFGVFNUSkJnVktTMldKbzgyVXZkazZjYnlkWnB1UzBtd3VvZDFjYW14WGVDcWtKWEt0MWlKbFdEeVFLd2IxVldMbTZTSHZMQ1o5MlR0QW45Qjk3bS05Y05jcUEtSnNzSHRvZ1JibkpaZmRwUkUxVjBJbUp1ZEI1VG9Xd9IBvgFBVV95cUxNTzRNV0dFdmNXYTlyeERhV2N1MUtZSU16UDFNLThJT3Z5czNvZWxVbTg5MDRpQlJReVYtMTllZ3VGRDdxeW1TQnMzV0pQTWtoYkc4UkRFejZEUnJSOGNfNERsSUJxRWlUQ3RINmhyYU9wTlQyWlpmaXhfY243RXNkMDJNSFdBM3FIY1BOSVdlRlhaalloVGFaTmxlV0NHMWVNQUp3TFdOUFNvaWdFV0g1SGhudTdCekhJcWZPd2F3?oc=5
-
 - Indian Army unveils new uniform policy, phases out colonial-era practices - The Hindu
   Indian Army unveils new uniform policy, phases
   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVRfeDVhVXZoV05IdEFsUDRFMEQ1OGRKTVhxVTBlMVZNVmRyT1J3WmJxMUllTW5teHJMSkNBTTZHRlZWVTJNdjhEdnpBZVo0dmp3cXo4UzJNUFZsM0FHVHRSRXVtNjMtNkkxTVR0dExtdmhvNzBIVTc1LWF2U0R1MkJqY1FhS2xVdnljR0QwX2xPWGxrM05OWDdoMEtCTm5nb19YdUJQR3RpSHNWX1ZzZ0dhemRub3pjaGpRcl9iMl93cGUwM2dja0kxRdIB0gFBVV95cUxQd3N6Y0FfcHJjMGtwdjdpclIwLUZQb1hfM0ZMTnVNXzVWdmszemdtVkdTTHNDYUJ3Z0xobGpyeS1JcHRRUF9tSVVrM21GRjlVdVBkejB5TzE5Y1lUQTFUamxfeGN6c0JfQnVVWGo5Ukc1ZlcwNExrempqV0p3VHR5eThwSGs4QUkzamVzUWdZdFBIVDBRMXllUWhMMGZWUzctUEx3QjhRaXoxMUE4N3N4RlBwazN0WVJudVZFWkZjalg5SUlkaThJVmpHVnRCaVd5eFE?oc=5
-
-- India's 'blue gold' starts a new drinks industry - BBC
-  India's 'blue gold'
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaEtOT19sSjRFNjlxVUVadHBxTEh3aEF6U0tfSFYtWHU4Mzh1bG1oQVp3X3dmeXJ0RG1kTGhmaGRMUmJtZDRwb3lKeDJjNHRwQ00zVktVc01VZw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-14 13:54:20 UTC_
+_Last updated: 2026-06-14 19:21:57 UTC_
