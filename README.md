@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Deeply shocking’: Tharoor slams US response on killing of Indian sailors off Oman
+- 3-year-old cancer patient dies after nurse ‘injects hazardous chemical’ at AIIMS Bhopal
   
-  🔗 https://indianexpress.com/article/india/shashi-tharoor-questions-us-response-after-indian-seafarers-killed-in-missile-attack-off-oman-10738229/
+  🔗 https://indianexpress.com/article/india/cancer-patient-aiims-bhopal-hazardous-chemical-10738333/
 
-- 4 die inside illegal Jharkhand coal mine after suspected toxic gas leak
+- Why ‘brain-eating amoeba’ cases are seeing surge in Kerala: ‘Tropical climate, poor water quality inducing growth’
   
-  🔗 https://indianexpress.com/article/india/jharkhand-ramgarh-illegal-coal-mine-toxic-gas-deaths-political-row-10738248/
+  🔗 https://indianexpress.com/article/india/brain-eating-amoeba-cases-kerala-tropical-climate-poor-water-quality-10738335/
 
-- Goa picnic ends in tragedy: Four youngsters drown near Dudhsagar
+- Rajasthan: In-principle clearance for coal block in Hasdeo-Arand
   
-  🔗 https://indianexpress.com/article/india/dudhsagar-river-drowning-goa-collem-youths-death-10738205/
+  🔗 https://indianexpress.com/article/india/rajasthan-in-principle-clearance-for-coal-block-in-hasdeo-arand-10738393/
 
-- ‘Extreme brutality’: 7 get life term for lynching MP man in 2022 over cow smuggling claim
+- Kashmiri Pandits’ homecoming is ‘truest victory’, says Lieutenant Governor Manoj Sinha
   
-  🔗 https://indianexpress.com/article/india/mp-narmadapuram-mob-lynching-verdict-life-imprisonment-nazir-ahmed-10738193/
+  🔗 https://indianexpress.com/article/india/kashmiri-pandits-homecoming-is-truest-victory-says-lieutenant-governor-manoj-sinha-10738392/
 
-- Mumbai-Ahmedabad Bullet Train Project: What are tunnel hoods and why are they needed?
+- DRDO demonstrates ballistic missile defence capability
   
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-tunnel-hoods-explained-mountain-tunnels-10738107/
+  🔗 https://indianexpress.com/article/india/drdo-demonstrates-ballistic-missile-defence-capability-10738396/
 
 - Nothing Ear (3a) leak suggests new colours and a budget-friendly price tag
   
@@ -40,25 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/science/why-walking-gets-difficult-new-study-science-ankles-10737681/
 
+- SEBI moves Supreme Court against relief granted to managers of Sahara Group entity in OFCD case
+  SICCL mobilised around  ₹14,106 crore from nearly 1
+  🔗 https://www.livemint.com/companies/news/sebi-moves-supreme-court-against-relief-granted-to-managers-of-sahara-group-entity-in-ofcd-case-11781403471916.html
+
+- Did Dario Amodei's own AI warnings hand US Govt the justification to ban Anthropic's Mythos 5 and Fable 5?
+  Anthropic CEO Dario Amodei warned publicly that his own Mythos AI models posed serious risks to national security. Critics say he brought it on himself
+  🔗 https://www.livemint.com/companies/news/dario-amodei-warned-mythos-5-fable-5-was-a-national-security-risk-then-us-government-banned-it-with-export-order-11781393933706.html
+
+- Brazilian Bank Apologizes for Mistaken Liquidation Alert
+  Nubank customers received an app alert telling them the bank had been liquidated. Nu Holdings Ltd. co-founder Cristina
+  🔗 https://www.livemint.com/companies/brazilian-bank-apologizes-for-mistaken-liquidation-alert-11781388222930.html
+
+- Amazon voiced concerns about Anthropic AI models before US governments crackdown, source says​
+  Amazon voiced concerns about Anthropic AI models
+  🔗 https://www.livemint.com/companies/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says-11781386211372.html
+
 - Grandma’s recipe and a ‘Jar of Love’: How a Hyderabad couple turned their last  ₹1,300 into a  ₹3.3 crore business
   A young couple turned a family recipe into a  �
   🔗 https://www.livemint.com/companies/start-ups/jar-of-love-bootstrapped-d2c-pickle-brand-success-story-11781367255786.html
 
-- Tata’s iPhone parts manufacturing plant in Tamil Nadu’s Hosur is facing shutdown over wastewater discharge: Report
-  Inspections revealed contamination, leading to warnings from Pollution Control Board. Tata asserts compliance with regulations and pledges to protect environment.
-  🔗 https://www.livemint.com/companies/news/tatas-iphone-plant-in-tamil-nadu-s-hosur-is-facing-shutdown-over-wastewater-discharge-11781351641736.html
-
-- SpaceX IPO winners list: From Elon Musk's $750 billion to Google's $132 billion payday
-  SpaceX's market debut has handed Elon Musk a  ₹715.58 lakh crore windfall. Here is every major winner from
-  🔗 https://www.livemint.com/companies/people/spacex-ipo-elon-musk-gains-rs-715-58-lakh-crore-google-nets-rs-1-26-lakh-crore-full-winners-list-11781316777238.html
-
-- No more Meta layoffs this year! Zuckerberg admits making mistake in AI workforce overhaul
-  Mark Zuckerberg has told Meta staff the company will seek new positions for workers reassigned to AI training
-  🔗 https://www.livemint.com/companies/news/no-more-meta-layoffs-this-year-zuckerberg-admits-making-mistake-in-ai-workforce-overhaul-11781315463076.html
-
-- Anthropic ‘abruptly’ disables Fable 5, Mythos 5 to comply with US govt directive; says ‘this is a misunderstanding’
-  Anthropic was ordered by the US government to block all foreign nationals from Fable 5 and Mythos 5. The company says it is
-  🔗 https://www.livemint.com/companies/news/anthropic-fable-5-mythos-5-suspended-us-trump-administration-export-control-national-security-11781313880581.html
+- US Fed meeting to US-Iran war: Top five triggers that may dictate the Indian stock market this week
+  On Friday, Nifty 50 rose 1.10% to end at 23,622.90, while the Sensex climbed 1.73% to close at 75,527.95. While
+  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11781403866016.html
 
 - Small-cap stock under  ₹50 to be in focus on Monday. Details here
   Sudarshan Pharma's share capital increased to  ₹24.96 crore after allotting 90 lakh equity shares from warrant conversions.
@@ -76,9 +80,9 @@
   US Treasury bond yields are pivotal for market dynamics. Indian stocks underperformed. Christopher Wood retains a strong belief in India’s potential.
   🔗 https://www.livemint.com/market/stock-market-news/greed-fear-report-too-much-india-exposure-hurt-returns-says-jefferies-chris-wood-but-he-isn-t-giving-up-11781333502673.html
 
-- SpaceX has taken Wall Street by storm. Here's how Indian stock market investors can invest in Elon Musk-led company
-  SpaceX’s entry on Nasdaq saw its shares rise 19%, marking it as a valuable investment opportunity for Indian investors. However, due to high valuations and the complexities of
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-has-taken-wall-street-by-storm-heres-how-indian-stock-market-investors-can-invest-in-elon-musk-led-company-11781330357275.html
+- OpenAI hit with multistate probe into possible user harm as its IPO looms
+  OpenAI hit with multistate probe
+  🔗 https://www.livemint.com/technology/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms-11781378372141.html
 
 - India wont be second to anybody in developing foundational AI models: IT Secretary
   India won't be second to anybody in
@@ -96,9 +100,25 @@
   The upcoming iPhone 18 Pro series leak has revealed new color options like Dark
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-design-leaks-again-in-live-images-dark-cherry-light-blue-and-black-colours-revealed-11781228198771.html
 
-- Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: ‘If we project some of challenges…’
-  Anthropic President Daniela Amodei suggests that AI may face regulations similar to those for social media. Trump laid out a relatively light-touch strategy for dealing with AI-
-  🔗 https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html
+- Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish Up for Week; Oil Falls on Hopes of US-Iran Deal - Investopedia
+  Markets News, June 12, 2026: Indexes Close Higher on SpaceX Debut Day, Finish
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1RBREs5enBCdWFENTRxejlJZnNkUE40S2x2OC1NWmVaQlZsbjNyYlVKTU1VTUJnRWhDNWZsbnJVLXVLYlAwVTZjNjRYdWRtcXhYY0RDMXBDSGxkdUhrZUI3bFloMFhRNmxuanUzSGtUU09EMEpxT2RWdm5PbW5Xd0tIb2Z1Z1U0em9PcFhwclY?oc=5
+
+- SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire - Al Jazeera
+  SpaceX IPO debuts in US markets, Musk
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0VCRmVlZ2xYUEFtWHRpWXlpNmE2WVVRRFBUMXRUOHZHMDVjU2R1cGsyRHYyeTl6NGlGLU0yX1lISDBueTU0SDdRbXhKY19EWV9JYlR5dEVKY2F5MFNMWFBnRDVWUU1IOVg3c3VlMnFtc0dNa0t0YjdMMHN1VHNKUmlkbVkyUzBlNFd6R09ORkFvREZGWDdPR00zXzdNX28wNkJzRXZmeTNQVkl1V3hBeF92ZmnSAboBQVVfeXFMT3RJRmxpR0ZsZXZDWnROZURXQ2o0LUlpMTBqTmY1amU3MHdkUE9JR2lfQ183T2Y4RXd6Y29TSkhvVEs4WFB4NUlBMTZFYndMTXN5VWdlWDFPdjBEVU80ckgtNm5RamJuUDU3RU4xQ3k1eV9ibnhRNHVLMEotX1QwUHJEN2VYT0Nsc3hlZUo0enVvWFNwRnk1cmIyVHptVWFFTE5WcldLVmxpcTVsTFlFQm9nSHVnQmE1cVln?oc=5
+
+- From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO - CNBC
+  SpaceX is set to go public this year. The
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUJUTno3dTlEMElXY0drWVYzZVdoTnFyanRTam5NWnMyWVJTelhNVWhFYTZBakpyNXBOU1RUbmlNeklHekx4bU1VN0k4dVQ4MlB4WUE4SUl4VTNUbE53aWlJS3dNTGRZVVc1OGJURzQtcWxRcmJVSXlpSjVOTW5RbEVNa0dBM3hyVE0yYUJUWGNzQnlDbk85NFdhYlZHX1dNUmpicy00RdIBrAFBVV95cUxQX3g5SV9ieDhiajZncjJUX3I2SlRvYWw4S2wtTUhhSHVteEtHbWYyYUZRbGRmeGMta0w4dVZhT0dreE52UVMzMklaYm5PUmszNU5wcnVPN0dDY1hHeGxXNjZHM1hqWFVmRUE0R3ZMeGZYZGtTTmRKZFVaT2FVM19MT3ZDeHRzZnlRdG4xN1NaX2lZU3E4cXJwTWhQd3h4cnZITHd6ZEloc29iWmp6?oc=5
+
+- SpaceX Shares Indicated More Than 35% Higher in Shadow Trading - Bloomberg.com
+  SpaceX Shares Indicated More Than 35
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzhoVGwxdl9iekRpSzlxM0I5MmlfT1FyRldRcmQwYTk4cWhpNC1BdExMVVFDQW5XV3NYenpWWVRwamt3eEVNSmo2THhiczhzTXVLYVNScXJUMlJOR2FaLUwwSWFXdklHWWdEVjV5bFBjXzE3U1JldGlYMENSNmNTbGx0MC0xamZ5MTlBLVJfbDhBMW12eWYzXzd2SnB0VmZoR1FOQXBNS0RGVGllN2t0SlB3?oc=5
+
+- Why is the price of gold trending down? - Al Jazeera
+  The price of gold has been trending
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2YybTREd0dRdDlyQkE2NFV6MnY4TXNvSHd3d01RX3h2YmVva0U0bEF1aTVNQ2lGUS0zYTZORmJFajJqZXFfQ2M4SzNMNnBfallZWE9vdGxFczJ6NTZhUTJ0dUdYR0JZeVhYZkJGUFdVdWh1NkVYelVzTFNuaVZ2ZW1uTWNrWlU1SGfSAY8BQVVfeXFMTWpPQUF2dF9zNllMYVdlU2VPZHJkbHdpOUlqT0J2UUJrZWVQb1VabXlDVi13anFWOUk1cnRrNU5vUV9qWC12WTUydnNXS1prR21NZUp4a3pqaFpXNGhHdl8xRUh0bTQxd3pXZjlwckZjREo2VXc1OGh4Y1pxamtIUDZIOHlmdGk2cXB3dG1oRTQ?oc=5
 
 - CLSA set to vanish as brand after 40 years in Asian brokerage: Report
   CLSA will be rebranded under Citic Securities from 2027. The move reflects Citic's effort to integrate CLSA more closely into its institutional framework.
@@ -120,45 +140,85 @@
   Major altcoins showed mixed performance, with some falling and others rising. Bitcoin hovered near $64,000, buoyed by falling oil prices and optimism for a US-Iran peace deal
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-holds-near-64000-as-falling-oil-prices-and-us-iran-peace-hopes-lift-risk-sentiment/articleshow/131699535.cms
 
-- "Not Justified": S Jaishankar To Marco Rubio On Killing Of 3 Indian Sailors - NDTV
-  "Not Justified": S Jaishankar To
-  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlAwb1Y2SVVXYzdRbERnazI3WHYxck8wRG1KdkIxNFptY240QktuMXF4VU52aUktUGlveTBKN2NiZ25zRkg2R1JobnR1LWdRS3c5bmV2UFBQMVZhQVJFVFE2bjlmT0NlMV9rNFhETnk5Tm1sbTdQVWhUMm5KQ1ZXYmZGZGkwVHh2TThkZUlvY0NOb1B3TmFKSERwc204bkUw0gGoAUFVX3lxTE5ObHRBSHpjYzFXajJva0gyZ1NBRlVLenctcE5jZGZ3SExVRy11UnpBOGZIOW80d1h5ajhJM2xaR25jbWZnT1pGczA2LUpJaU1tSXpQam8xajlpZ3F5eDh6T1JCY2lTTkRYSlZBR2xnUkNJYzY3RVFLNUE1VE1BVm9DQU04cXVya0ROQWRBSjlCeEo1SWRlOE4zMkJjMV9XcGZSUzBSSkdqUA?oc=5
-
-- Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed | India News - Hindustan Times
-  Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated'
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEotTjlxa0hCLXA2NjYzeDRSVzNTZVh5QVFuQjZtanBLRDNVejU2WnVnS1YyRlBUZC1jN1NiQnNXc0luNklMOEViMlhHZmFBUG00SW9IMFBBVXJhTC1nc2x0RDJyNUNOR2RscDVXNlBrVzR2YVkwdzlzN1Y2eGk4MjhrVURuQ0xCcDl4WUozSmdLVWpoT1N1dm85dUFRNmNDWElNaHNxc2hVNEZrcGxVWVVESzJPb0s1SG5VckdhUW5pODNlX05NdXpDUnNFeGI4SDlzSlhobDN0V2NFSkg4M0hBbml4aGI2VHA4NEVrSUvSAfYBQVVfeXFMTy1RYnIyR1p6eDdINGdrUE5YelhPc1VublU4MFdSSTRqSmtYNnkyVXpnSVFPMDVjLVFMakRncmZRUWhrRDFyZHVtcnd0ZHBkV0JSX3NiOWlIQUZCYkFnR092YlY4NEZUYkNRNHp1SEs0UjB3MEM4QVJpaVpEai1FUTlwSWJmYUF1eno1SU00QlR2OEdYLUFyVVdGTzVoc25RLUtkLWpLM3VCeGdTZXlNMzVJMnBTN0RwSi1sM2JWOXduSS1EbGJDUzFQQm00alhCY3FVX3B3algxcHMwNTZPN1lQaTJqdG5OTnEyMVM3Sll1VEJmNl9R?oc=5
-
-- PM Modi to reach Nice tonight on first leg of two-nation visit to France and Slovakia - News On AIR
-  PM Modi to reach Nice tonight on first leg of two-nation visit to France
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVV4bXZhZG0ycTJXbTNXVnlRNWNLT2h1d1E5SDhUV1BrVmVVbTNFMTVsTmFWM05FNGlaall4RGRvZTNSa2Q5TU1vNW9HWVdRYzBUc09oNldTY25tTDMyWGxBWmtwaWRxcHlmTHg5VWFlTmRiUm85eWQ4QjdITWx0SXJEY3RuWXhsODZ0b0hXWFNzMGhSNHk4?oc=5
-
-- Five Indian air force staff killed as transport plane crashes in Assam - Al Jazeera
-  Five Indian air force staff killed as transport plane crashes in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0JwendzMmdJVXNObG1ZNTNvSWREbXVCTU5SSi1ZQTZ5Ry1VQk1KOF9wUTdkRkR1b0ZjREM4Q2FoSWNrV1VzbW85VVVSYlFNdmNKQm5JcV9pN0U3dkFPU3FiaDZFMjlFM0FGdDhVM2R5bGEtNnFsdXdjbnplX3VEbWZCNVJPalA4MW1HckhoUmJNX0swOVdLV1ZSTDFOZ2NRUEh3NHBMN2dfU2FmMzlzT9IBtgFBVV95cUxQbWY1Q3FKeThnUWthRFpOcmlQZjdOUEQ4RFNYWHZOc0pUMVhaaHFKSUQ3cmZrWHJMbV94X1FKQ1lFOUVsMDdBX3VTdGd4c0dWYzA0TkFRNFZURlZ6blhVVV9iOTNkOE11cUtEVmJqak9sTU5wVzBDck1VbWxKbG90UWg1SFVvOFNOa0M1RTVUVTJzVDM2TGszSVRSM2NWQ2NMcVFSc0l4Sl9uWi1qd2dEVDV1RktVdw?oc=5
-
-- India news: Viral 'Biryani' row sparks debate about consent - DW
-  India news: Viral 'B
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25rZWNoOXNBT2hRNjBMUnk1c3Rac2YyZzZYZDYtSkh0V1VSRlRiU2MyMVRYY2F5Z2NRdjFIeFRRdktjc0dvYkV4eWlqMmFDeU1lTGlrRnhPdzR4NUNzYUh5eUhrUE1fWG1IU3A1dDlsWG8zVV92N1AwdC05enlWUmVid00xWEMwdW13V3ZZeHViUTF6NmtNVW9FNk52QUNqdkhuQ3BvTmoxd05DSnpGQnFn?oc=5
+- India protests US strike that killed 3 Indian sailors - DW
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
 
 - "Not Justified": S Jaishankar To Marco Rubio On Killing Of 3 Indian Sailors - NDTV
   "Not Justified": S Jaishankar To
   🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlAwb1Y2SVVXYzdRbERnazI3WHYxck8wRG1KdkIxNFptY240QktuMXF4VU52aUktUGlveTBKN2NiZ25zRkg2R1JobnR1LWdRS3c5bmV2UFBQMVZhQVJFVFE2bjlmT0NlMV9rNFhETnk5Tm1sbTdQVWhUMm5KQ1ZXYmZGZGkwVHh2TThkZUlvY0NOb1B3TmFKSERwc204bkUw0gGoAUFVX3lxTE5ObHRBSHpjYzFXajJva0gyZ1NBRlVLenctcE5jZGZ3SExVRy11UnpBOGZIOW80d1h5ajhJM2xaR25jbWZnT1pGczA2LUpJaU1tSXpQam8xajlpZ3F5eDh6T1JCY2lTTkRYSlZBR2xnUkNJYzY3RVFLNUE1VE1BVm9DQU04cXVya0ROQWRBSjlCeEo1SWRlOE4zMkJjMV9XcGZSUzBSSkdqUA?oc=5
 
-- Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed | India News - Hindustan Times
-  Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated'
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEotTjlxa0hCLXA2NjYzeDRSVzNTZVh5QVFuQjZtanBLRDNVejU2WnVnS1YyRlBUZC1jN1NiQnNXc0luNklMOEViMlhHZmFBUG00SW9IMFBBVXJhTC1nc2x0RDJyNUNOR2RscDVXNlBrVzR2YVkwdzlzN1Y2eGk4MjhrVURuQ0xCcDl4WUozSmdLVWpoT1N1dm85dUFRNmNDWElNaHNxc2hVNEZrcGxVWVVESzJPb0s1SG5VckdhUW5pODNlX05NdXpDUnNFeGI4SDlzSlhobDN0V2NFSkg4M0hBbml4aGI2VHA4NEVrSUvSAfYBQVVfeXFMTy1RYnIyR1p6eDdINGdrUE5YelhPc1VublU4MFdSSTRqSmtYNnkyVXpnSVFPMDVjLVFMakRncmZRUWhrRDFyZHVtcnd0ZHBkV0JSX3NiOWlIQUZCYkFnR092YlY4NEZUYkNRNHp1SEs0UjB3MEM4QVJpaVpEai1FUTlwSWJmYUF1eno1SU00QlR2OEdYLUFyVVdGTzVoc25RLUtkLWpLM3VCeGdTZXlNMzVJMnBTN0RwSi1sM2JWOXduSS1EbGJDUzFQQm00alhCY3FVX3B3algxcHMwNTZPN1lQaTJqdG5OTnEyMVM3Sll1VEJmNl9R?oc=5
+- Will not allow illegal oil shipments from Iran, U.S. tells India - The Hindu
+  Will not allow illegal oil shipments from Iran, U
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYi1BWVNEMFl5SG9adnNlT3Y1aUdoMUwyUVlqLUJkZ0p3UmZhX2JvaFRnZm5wVmZvM1pSLXl5RHNVNlA1UnFmMG9BbEtqVHcyVXM0eHZISlFJZlB2Y1VNY3pyTC1XVU5nWkxNbmpYME1wSnN4YjZuTnUwcXpDT1FRRzVZYi0xempHU0NMZjJwYWhpV2hMX2RvUV9LTHhwZmlrTFlHbTdsa18zQjVHZXlLVDV3eENudmdORFZLbk14TFQ5aGpiRlRiekZIc2h2TUtxeklHMlI1UWdYY2NNeHNlNjJDNGRfa1BtY2fSAfABQVVfeXFMTWpfRk53NzRraFdWa0RFaWVxSFEzd1h0SjJwMUQzdmlubUZXTUpTdFdKR0VabTh2S1pnZHJIUWJZVlVETWJyLWFZNVBxMEhISzM2SllWb09zQ1BEU0FwdnFFYU5ycy1BRzloUjItTVNjTHNXaDlsdzk5YTg5Y2VlR21QUXd1em14TklnbEU2LVpuMVg2Y01WQzI2UUJrdkZhY2k4TWo4NVl4M2prTFpNYmFldG1MODhTLUdLX1lzRGw5Ukx0eVk5MkdrSU5wazNKWlJ6OWtMZkZHbkV4RVhFbU54Mzgyc25MdlFUdWRfN09B?oc=5
 
-- PM Modi to reach Nice tonight on first leg of two-nation visit to France and Slovakia - News On AIR
-  PM Modi to reach Nice tonight on first leg of two-nation visit to France
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxNRVV4bXZhZG0ycTJXbTNXVnlRNWNLT2h1d1E5SDhUV1BrVmVVbTNFMTVsTmFWM05FNGlaall4RGRvZTNSa2Q5TU1vNW9HWVdRYzBUc09oNldTY25tTDMyWGxBWmtwaWRxcHlmTHg5VWFlTmRiUm85eWQ4QjdITWx0SXJEY3RuWXhsODZ0b0hXWFNzMGhSNHk4?oc=5
+- India defeat Afghanistan by seven wickets in rain-affected first ODI in Dharamshala - News On AIR
+  India defeat Afghanistan by seven wickets in rain-affected first
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPalFYOUpKNU82WS1EWTFnRVFQbEhLQ0VNWWxRLWs4ZWhjN1dkN1V6ZTBvaTQzYTF1eHdNQVE1Q3pMa2pSYlF5Y2VQV1NVUEFmdkpvVTgxWFVvR3RDSkRjZEowZjh5UjdweVVpNGZ4akdHNUFkdlpiblBFTXp6ZFpybzA0X0p4amtYcjVtWW5FQ1RkZTVLLV81RW03dkxSbVpnSGJiMW1QMUtwVlZfR0E?oc=5
 
-- Five Indian air force staff killed as transport plane crashes in Assam - Al Jazeera
-  Five Indian air force staff killed as transport plane crashes in
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0JwendzMmdJVXNObG1ZNTNvSWREbXVCTU5SSi1ZQTZ5Ry1VQk1KOF9wUTdkRkR1b0ZjREM4Q2FoSWNrV1VzbW85VVVSYlFNdmNKQm5JcV9pN0U3dkFPU3FiaDZFMjlFM0FGdDhVM2R5bGEtNnFsdXdjbnplX3VEbWZCNVJPalA4MW1HckhoUmJNX0swOVdLV1ZSTDFOZ2NRUEh3NHBMN2dfU2FmMzlzT9IBtgFBVV95cUxQbWY1Q3FKeThnUWthRFpOcmlQZjdOUEQ4RFNYWHZOc0pUMVhaaHFKSUQ3cmZrWHJMbV94X1FKQ1lFOUVsMDdBX3VTdGd4c0dWYzA0TkFRNFZURlZ6blhVVV9iOTNkOE11cUtEVmJqak9sTU5wVzBDck1VbWxKbG90UWg1SFVvOFNOa0M1RTVUVTJzVDM2TGszSVRSM2NWQ2NMcVFSc0l4Sl9uWi1qd2dEVDV1RktVdw?oc=5
+- Video: Bihar Police Aspirants Block Train, Throw Stones, Cops Fire Tear Gas - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXRQZ0I3TXBGM3hVQXRQN21aS05PWURUTmZhMThpZFVHaFVFdXFuQzZJMjJQNlZqeWhXQkNVWXFINWNTc212b2JPZUYxRlFJTUtUdXNTc0VmUnhXb05ZQ3NZU2xlQ2UtT0ExQTRSVUpQQ0lmMjI5SmhRTld2VDhKNURYVFF1U0tjZXN4aGs5TWxTZ0tSQWVXOXgyY1VNczM4eVBZc1VKWmhQanZLcko2UlZERdIBuwFBVV95cUxNQ0JINW1NaUtxZFdhZDJzZXBLdTJuUGMteEhjVGJKb0lacXNKQW8yNG5xa1hsZUx5OC1Leld3YjFZX2wtVVJiWWlBOVhORG05T01BdzJYRkpkZU83WFNSLThRVVJLNmlocTVxNm9NZUV5c3pqalFSWFU2TnA3eW1RX25NR3VwNUx5NGJEamNhRDlPOXZhT2FFR2R1QlVSNk10enAwRDdMV1lCalNKVUZ0cmZrSC02WlRrc0gw?oc=5
 
-- India news: Viral 'Biryani' row sparks debate about consent - DW
-  India news: Viral 'B
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25rZWNoOXNBT2hRNjBMUnk1c3Rac2YyZzZYZDYtSkh0V1VSRlRiU2MyMVRYY2F5Z2NRdjFIeFRRdktjc0dvYkV4eWlqMmFDeU1lTGlrRnhPdzR4NUNzYUh5eUhrUE1fWG1IU3A1dDlsWG8zVV92N1AwdC05enlWUmVid00xWEMwdW13V3ZZeHViUTF6NmtNVW9FNk52QUNqdkhuQ3BvTmoxd05DSnpGQnFn?oc=5
+- India protests US strike that killed 3 Indian sailors - DW
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- "Not Justified": S Jaishankar To Marco Rubio On Killing Of 3 Indian Sailors - NDTV
+  "Not Justified": S Jaishankar To
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlAwb1Y2SVVXYzdRbERnazI3WHYxck8wRG1KdkIxNFptY240QktuMXF4VU52aUktUGlveTBKN2NiZ25zRkg2R1JobnR1LWdRS3c5bmV2UFBQMVZhQVJFVFE2bjlmT0NlMV9rNFhETnk5Tm1sbTdQVWhUMm5KQ1ZXYmZGZGkwVHh2TThkZUlvY0NOb1B3TmFKSERwc204bkUw0gGoAUFVX3lxTE5ObHRBSHpjYzFXajJva0gyZ1NBRlVLenctcE5jZGZ3SExVRy11UnpBOGZIOW80d1h5ajhJM2xaR25jbWZnT1pGczA2LUpJaU1tSXpQam8xajlpZ3F5eDh6T1JCY2lTTkRYSlZBR2xnUkNJYzY3RVFLNUE1VE1BVm9DQU04cXVya0ROQWRBSjlCeEo1SWRlOE4zMkJjMV9XcGZSUzBSSkdqUA?oc=5
+
+- Will not allow illegal oil shipments from Iran, U.S. tells India - The Hindu
+  Will not allow illegal oil shipments from Iran, U
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYi1BWVNEMFl5SG9adnNlT3Y1aUdoMUwyUVlqLUJkZ0p3UmZhX2JvaFRnZm5wVmZvM1pSLXl5RHNVNlA1UnFmMG9BbEtqVHcyVXM0eHZISlFJZlB2Y1VNY3pyTC1XVU5nWkxNbmpYME1wSnN4YjZuTnUwcXpDT1FRRzVZYi0xempHU0NMZjJwYWhpV2hMX2RvUV9LTHhwZmlrTFlHbTdsa18zQjVHZXlLVDV3eENudmdORFZLbk14TFQ5aGpiRlRiekZIc2h2TUtxeklHMlI1UWdYY2NNeHNlNjJDNGRfa1BtY2fSAfABQVVfeXFMTWpfRk53NzRraFdWa0RFaWVxSFEzd1h0SjJwMUQzdmlubUZXTUpTdFdKR0VabTh2S1pnZHJIUWJZVlVETWJyLWFZNVBxMEhISzM2SllWb09zQ1BEU0FwdnFFYU5ycy1BRzloUjItTVNjTHNXaDlsdzk5YTg5Y2VlR21QUXd1em14TklnbEU2LVpuMVg2Y01WQzI2UUJrdkZhY2k4TWo4NVl4M2prTFpNYmFldG1MODhTLUdLX1lzRGw5Ukx0eVk5MkdrSU5wazNKWlJ6OWtMZkZHbkV4RVhFbU54Mzgyc25MdlFUdWRfN09B?oc=5
+
+- India defeat Afghanistan by seven wickets in rain-affected first ODI in Dharamshala - News On AIR
+  India defeat Afghanistan by seven wickets in rain-affected first
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPalFYOUpKNU82WS1EWTFnRVFQbEhLQ0VNWWxRLWs4ZWhjN1dkN1V6ZTBvaTQzYTF1eHdNQVE1Q3pMa2pSYlF5Y2VQV1NVUEFmdkpvVTgxWFVvR3RDSkRjZEowZjh5UjdweVVpNGZ4akdHNUFkdlpiblBFTXp6ZFpybzA0X0p4amtYcjVtWW5FQ1RkZTVLLV81RW03dkxSbVpnSGJiMW1QMUtwVlZfR0E?oc=5
+
+- Video: Bihar Police Aspirants Block Train, Throw Stones, Cops Fire Tear Gas - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXRQZ0I3TXBGM3hVQXRQN21aS05PWURUTmZhMThpZFVHaFVFdXFuQzZJMjJQNlZqeWhXQkNVWXFINWNTc212b2JPZUYxRlFJTUtUdXNTc0VmUnhXb05ZQ3NZU2xlQ2UtT0ExQTRSVUpQQ0lmMjI5SmhRTld2VDhKNURYVFF1U0tjZXN4aGs5TWxTZ0tSQWVXOXgyY1VNczM4eVBZc1VKWmhQanZLcko2UlZERdIBuwFBVV95cUxNQ0JINW1NaUtxZFdhZDJzZXBLdTJuUGMteEhjVGJKb0lacXNKQW8yNG5xa1hsZUx5OC1Leld3YjFZX2wtVVJiWWlBOVhORG05T01BdzJYRkpkZU83WFNSLThRVVJLNmlocTVxNm9NZUV5c3pqalFSWFU2TnA3eW1RX25NR3VwNUx5NGJEamNhRDlPOXZhT2FFR2R1QlVSNk10enAwRDdMV1lCalNKVUZ0cmZrSC02WlRrc0gw?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- "Not Justified": S Jaishankar To Marco Rubio On Killing Of 3 Indian Sailors - NDTV
+  "Not Justified": S Jaishankar To
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlAwb1Y2SVVXYzdRbERnazI3WHYxck8wRG1KdkIxNFptY240QktuMXF4VU52aUktUGlveTBKN2NiZ25zRkg2R1JobnR1LWdRS3c5bmV2UFBQMVZhQVJFVFE2bjlmT0NlMV9rNFhETnk5Tm1sbTdQVWhUMm5KQ1ZXYmZGZGkwVHh2TThkZUlvY0NOb1B3TmFKSERwc204bkUw0gGoAUFVX3lxTE5ObHRBSHpjYzFXajJva0gyZ1NBRlVLenctcE5jZGZ3SExVRy11UnpBOGZIOW80d1h5ajhJM2xaR25jbWZnT1pGczA2LUpJaU1tSXpQam8xajlpZ3F5eDh6T1JCY2lTTkRYSlZBR2xnUkNJYzY3RVFLNUE1VE1BVm9DQU04cXVya0ROQWRBSjlCeEo1SWRlOE4zMkJjMV9XcGZSUzBSSkdqUA?oc=5
+
+- Will not allow illegal oil shipments from Iran, U.S. tells India - The Hindu
+  Will not allow illegal oil shipments from Iran, U
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYi1BWVNEMFl5SG9adnNlT3Y1aUdoMUwyUVlqLUJkZ0p3UmZhX2JvaFRnZm5wVmZvM1pSLXl5RHNVNlA1UnFmMG9BbEtqVHcyVXM0eHZISlFJZlB2Y1VNY3pyTC1XVU5nWkxNbmpYME1wSnN4YjZuTnUwcXpDT1FRRzVZYi0xempHU0NMZjJwYWhpV2hMX2RvUV9LTHhwZmlrTFlHbTdsa18zQjVHZXlLVDV3eENudmdORFZLbk14TFQ5aGpiRlRiekZIc2h2TUtxeklHMlI1UWdYY2NNeHNlNjJDNGRfa1BtY2fSAfABQVVfeXFMTWpfRk53NzRraFdWa0RFaWVxSFEzd1h0SjJwMUQzdmlubUZXTUpTdFdKR0VabTh2S1pnZHJIUWJZVlVETWJyLWFZNVBxMEhISzM2SllWb09zQ1BEU0FwdnFFYU5ycy1BRzloUjItTVNjTHNXaDlsdzk5YTg5Y2VlR21QUXd1em14TklnbEU2LVpuMVg2Y01WQzI2UUJrdkZhY2k4TWo4NVl4M2prTFpNYmFldG1MODhTLUdLX1lzRGw5Ukx0eVk5MkdrSU5wazNKWlJ6OWtMZkZHbkV4RVhFbU54Mzgyc25MdlFUdWRfN09B?oc=5
+
+- India defeat Afghanistan by seven wickets in rain-affected first ODI in Dharamshala - News On AIR
+  India defeat Afghanistan by seven wickets in rain-affected first
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPalFYOUpKNU82WS1EWTFnRVFQbEhLQ0VNWWxRLWs4ZWhjN1dkN1V6ZTBvaTQzYTF1eHdNQVE1Q3pMa2pSYlF5Y2VQV1NVUEFmdkpvVTgxWFVvR3RDSkRjZEowZjh5UjdweVVpNGZ4akdHNUFkdlpiblBFTXp6ZFpybzA0X0p4amtYcjVtWW5FQ1RkZTVLLV81RW03dkxSbVpnSGJiMW1QMUtwVlZfR0E?oc=5
+
+- Video: Bihar Police Aspirants Block Train, Throw Stones, Cops Fire Tear Gas - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXRQZ0I3TXBGM3hVQXRQN21aS05PWURUTmZhMThpZFVHaFVFdXFuQzZJMjJQNlZqeWhXQkNVWXFINWNTc212b2JPZUYxRlFJTUtUdXNTc0VmUnhXb05ZQ3NZU2xlQ2UtT0ExQTRSVUpQQ0lmMjI5SmhRTld2VDhKNURYVFF1U0tjZXN4aGs5TWxTZ0tSQWVXOXgyY1VNczM4eVBZc1VKWmhQanZLcko2UlZERdIBuwFBVV95cUxNQ0JINW1NaUtxZFdhZDJzZXBLdTJuUGMteEhjVGJKb0lacXNKQW8yNG5xa1hsZUx5OC1Leld3YjFZX2wtVVJiWWlBOVhORG05T01BdzJYRkpkZU83WFNSLThRVVJLNmlocTVxNm9NZUV5c3pqalFSWFU2TnA3eW1RX25NR3VwNUx5NGJEamNhRDlPOXZhT2FFR2R1QlVSNk10enAwRDdMV1lCalNKVUZ0cmZrSC02WlRrc0gw?oc=5
+
+- India protests US strike that killed 3 Indian sailors - DW
+  India protests US strike that killed 3
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlyZnVITXdLNVZGTl9IVDM3MEVidlZEVDJFSU9nbGtHaTJCTjlFVmZWX0MyZ2szUEhOWDJDMEh1SWtzQlF0MW93WjdUQ0JtczRnNVp5QzJJZDZoeUp3MzI5Y3hJU1JaQjNpWG5YZTV2eWdXSUVwYVFKVGF0OHFTVHhWWXIwRnFhM01CQVNYS0g4VWlTSW9ZMUpUT1BkYUNuQ0NEZVI3c29kRmVmMm9uT1NfUDhGX3ZGWlE?oc=5
+
+- "Not Justified": S Jaishankar To Marco Rubio On Killing Of 3 Indian Sailors - NDTV
+  "Not Justified": S Jaishankar To
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlAwb1Y2SVVXYzdRbERnazI3WHYxck8wRG1KdkIxNFptY240QktuMXF4VU52aUktUGlveTBKN2NiZ25zRkg2R1JobnR1LWdRS3c5bmV2UFBQMVZhQVJFVFE2bjlmT0NlMV9rNFhETnk5Tm1sbTdQVWhUMm5KQ1ZXYmZGZGkwVHh2TThkZUlvY0NOb1B3TmFKSERwc204bkUw0gGoAUFVX3lxTE5ObHRBSHpjYzFXajJva0gyZ1NBRlVLenctcE5jZGZ3SExVRy11UnpBOGZIOW80d1h5ajhJM2xaR25jbWZnT1pGczA2LUpJaU1tSXpQam8xajlpZ3F5eDh6T1JCY2lTTkRYSlZBR2xnUkNJYzY3RVFLNUE1VE1BVm9DQU04cXVya0ROQWRBSjlCeEo1SWRlOE4zMkJjMV9XcGZSUzBSSkdqUA?oc=5
+
+- Will not allow illegal oil shipments from Iran, U.S. tells India - The Hindu
+  Will not allow illegal oil shipments from Iran, U
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYi1BWVNEMFl5SG9adnNlT3Y1aUdoMUwyUVlqLUJkZ0p3UmZhX2JvaFRnZm5wVmZvM1pSLXl5RHNVNlA1UnFmMG9BbEtqVHcyVXM0eHZISlFJZlB2Y1VNY3pyTC1XVU5nWkxNbmpYME1wSnN4YjZuTnUwcXpDT1FRRzVZYi0xempHU0NMZjJwYWhpV2hMX2RvUV9LTHhwZmlrTFlHbTdsa18zQjVHZXlLVDV3eENudmdORFZLbk14TFQ5aGpiRlRiekZIc2h2TUtxeklHMlI1UWdYY2NNeHNlNjJDNGRfa1BtY2fSAfABQVVfeXFMTWpfRk53NzRraFdWa0RFaWVxSFEzd1h0SjJwMUQzdmlubUZXTUpTdFdKR0VabTh2S1pnZHJIUWJZVlVETWJyLWFZNVBxMEhISzM2SllWb09zQ1BEU0FwdnFFYU5ycy1BRzloUjItTVNjTHNXaDlsdzk5YTg5Y2VlR21QUXd1em14TklnbEU2LVpuMVg2Y01WQzI2UUJrdkZhY2k4TWo4NVl4M2prTFpNYmFldG1MODhTLUdLX1lzRGw5Ukx0eVk5MkdrSU5wazNKWlJ6OWtMZkZHbkV4RVhFbU54Mzgyc25MdlFUdWRfN09B?oc=5
+
+- India defeat Afghanistan by seven wickets in rain-affected first ODI in Dharamshala - News On AIR
+  India defeat Afghanistan by seven wickets in rain-affected first
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxPalFYOUpKNU82WS1EWTFnRVFQbEhLQ0VNWWxRLWs4ZWhjN1dkN1V6ZTBvaTQzYTF1eHdNQVE1Q3pMa2pSYlF5Y2VQV1NVUEFmdkpvVTgxWFVvR3RDSkRjZEowZjh5UjdweVVpNGZ4akdHNUFkdlpiblBFTXp6ZFpybzA0X0p4amtYcjVtWW5FQ1RkZTVLLV81RW03dkxSbVpnSGJiMW1QMUtwVlZfR0E?oc=5
+
+- Video: Bihar Police Aspirants Block Train, Throw Stones, Cops Fire Tear Gas - NDTV
+  &nbsp;&ngt;<font
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXRQZ0I3TXBGM3hVQXRQN21aS05PWURUTmZhMThpZFVHaFVFdXFuQzZJMjJQNlZqeWhXQkNVWXFINWNTc212b2JPZUYxRlFJTUtUdXNTc0VmUnhXb05ZQ3NZU2xlQ2UtT0ExQTRSVUpQQ0lmMjI5SmhRTld2VDhKNURYVFF1U0tjZXN4aGs5TWxTZ0tSQWVXOXgyY1VNczM4eVBZc1VKWmhQanZLcko2UlZERdIBuwFBVV95cUxNQ0JINW1NaUtxZFdhZDJzZXBLdTJuUGMteEhjVGJKb0lacXNKQW8yNG5xa1hsZUx5OC1Leld3YjFZX2wtVVJiWWlBOVhORG05T01BdzJYRkpkZU83WFNSLThRVVJLNmlocTVxNm9NZUV5c3pqalFSWFU2TnA3eW1RX25NR3VwNUx5NGJEamNhRDlPOXZhT2FFR2R1QlVSNk10enAwRDdMV1lCalNKVUZ0cmZrSC02WlRrc0gw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-13 19:20:41 UTC_
+_Last updated: 2026-06-14 03:31:10 UTC_
