@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- Why 3 Kerala vice chancellors’ presence at event attracted ire from both CM and Opposition Leader
+- India News Live Updates | Breaking News Today, June 15 — Top Headlines, Latest News |  The Indian Express Realtime
   
-  🔗 https://indianexpress.com/article/india/kerala-vice-chancellors-event-attracted-ire-cm-satheesan-opposition-leader-10739498/
+  🔗 https://indianexpress.com/article/india/breaking-news-today-latest-news-live-updates-june-15-10740531/
 
-- Royal family feud, a petrol pump, proposed resort: Behind shooting at Madhya Pradesh’s Parsmania Garhi fort
+- Ankita Bhandari murder: Ex-BJP MLA arrested for ‘conspiring to link senior party leader to case’
   
-  🔗 https://indianexpress.com/article/india/royal-family-feud-a-petrol-pump-proposed-resort-behind-shooting-at-madhya-pradeshs-parsmania-garhi-fort-10739492/
+  🔗 https://indianexpress.com/article/india/former-bjp-mla-suresh-rathore-arrested-ankita-bhandari-case-dushyant-gautam-10740532/
 
-- Exclusive: Residents say expressway plan altered to spare Bihar Deputy CM aide’s land; CM says will look into it
+- Indian Railways approves Rs 341 crore Kavach project: How automatic train protection system works
   
-  🔗 https://indianexpress.com/article/india/bihar-residents-say-expressway-plan-altered-to-spare-dy-cm-vijay-kumar-choudhary-aides-land-10739534/
+  🔗 https://indianexpress.com/article/india/indian-railways-rs-341-crore-kavach-project-how-automatic-train-protection-system-works-10740452/
 
-- Modi-Macron meeting: Trade to AI; India, France set new targets
+- Flying from Noida International Airport? Check all routes, airlines and latest ticket prices
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-emmanuel-macron-meeting-trade-to-ai-india-france-set-new-targets-10739512/
+  🔗 https://indianexpress.com/article/india/flying-from-noida-international-airport-check-all-routes-airlines-and-latest-ticket-prices-10740295/
 
-- India a tech provider, offering global solutions: PM Narendra Modi in France
+- ‘Loss of life in many countries’: PM hopes US-Iran deal restores commerce
   
-  🔗 https://indianexpress.com/article/india/india-a-tech-provider-offering-global-solutions-pm-narendra-modi-in-france-10739561/
+  🔗 https://indianexpress.com/article/india/modi-welcomes-us-iran-deal-west-asia-conflict-donald-trump-10740300/
 
-- Apple iOS 27 beta hands-on: You won’t believe how underrated yet useful these iPhone features are
+- Google ads hint at next Pixel drop with Screen Reactions, Gemini Omni features: Report
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/apple-ios-27-beta-hands-on-you-wont-believe-how-underrated-yet-useful-these-iphone-features-are-10739761/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-ads-next-pixel-drop-omni-ai-features-10740648/
 
-- Don’t let a few models eat everything: Satya Nadella’s blueprint for the AI-era firm
+- UK PM Starmer announces social media ban for under-16 users: Which platforms will be affected?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/satya-nadella-token-capital-ai-blueprint-microsoft-10739746/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-pm-social-media-ban-under-16-what-changes-10740548/
 
-- This Rs 2,699 gadget is a Bluetooth speaker, radio, and alarm clock—but buy it for its wireless powers
+- Is washing rice before cooking good or bad? Here’s what a new study says
   
-  🔗 https://indianexpress.com/article/technology/tech-reviews/tempt-privee-fusion-review-price-features-wireless-charger-speaker-10739009/
+  🔗 https://indianexpress.com/article/technology/science/wash-rice-before-cooking-benefits-risks-explained-10740378/
 
-- Anthropic halts access to new AI models after US order: How Indian tech leaders are responding
+- These 5 workplace skills are hardest for AI to replace, new study finds
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-halts-access-new-ai-models-india-reactions-10738998/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/5-workplace-skills-ai-replace-new-study-10740328/
 
-- KPMG retracts agentic AI study after researchers flag hallucinations, fake citations
+- Why Sundar Pichai avoided talking about AI at Stanford: 5 key highlights from his commencement speech
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/kpmg-retracts-ai-study-hallucinations-fake-citations-10738768/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sundar-pichai-stanford-university-highlights-from-commencement-speech-10740162/
 
-- Britain’s banks see fraud cases spike after refund rules take effect
-  Britain’s banks see
-  🔗 https://www.livemint.com/companies/britains-banks-see-fraud-cases-spike-after-refund-rules-take-effect-11781478139934.html
+- Former American businessman detained in Myanmar after alleged financial misconduct
+  Former American businessman detained in
+  🔗 https://www.livemint.com/companies/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct-11781522960516.html
 
-- Hong Kong Issuers Seek to Boost Trading in Overlooked Stocks
-  Hong Kong stock issuers are looking to boost trading in some stocks. They say thin volumes are hurting the ability of companies to access
-  🔗 https://www.livemint.com/companies/hong-kong-issuers-seek-to-boost-trading-in-overlooked-stocks-11781472796337.html
+- Arun Misra set to take over as Vedanta group CEO amid demerger push
+  Hindustan Zinc chief's likely elevation comes as Vedanta lists four demer
+  🔗 https://www.livemint.com/companies/news/arun-misra-set-to-become-vedanta-group-ceo-amid-demerger-restructuringplans-11781515048666.html
 
-- Jio Platforms breaks into global top 20 in latest WIPO patents rankings; climbs 320 places on coveted chart
-  Jio Platforms has been ranked 20th in the WIPO PCT rankings. Akash Ambani, Managing Director of Jio
-  🔗 https://www.livemint.com/companies/news/jio-platforms-breaks-into-global-top-20-in-latest-wipo-patents-rankings-climbs-320-places-on-coveted-chart-11781438222964.html
+- Damage control? Anthropic rushes to Washington amid White House ban on top AI models ahead billion-dollar IPO
+  Anthropic has reportedly flown senior technical staff to Washington for face-to-face talks with White House officials. US export controls forced the
+  🔗 https://www.livemint.com/companies/news/damage-control-anthropic-rushes-to-washington-amid-white-house-ban-on-top-ai-models-threatens-billion-dollar-ipo-11781518580276.html
 
-- Nykaa Fashion’s turnaround is taking shape, but the hard part lies ahead
-  A profitable quarter offers fresh hope, but turning a promising strategy into a lasting business remains elusive. For years, Nykaa Fashion
-  🔗 https://www.livemint.com/companies/nykaa-fashion-gmv-growth-profitability-11781421999258.html
+- Verlinvest deepens India push with larger cheques, new sector bets
+  The global PE firm is expanding deal sizes and building a full-stack consumer platform in India. It is warning that weak exits and currency volatility
+  🔗 https://www.livemint.com/companies/news/verlinvest-deepens-india-push-with-larger-cheques-new-sector-bets-11781502230821.html
 
-- One in five tile plants may shut as gas prices drive industry consolidation: Somany Ceramics CEO Abhishek | Interview
-  Despite these challenges, Abhishek Somany remains optimistic about demand prospects. He cites a strong real estate pipeline,
-  🔗 https://www.livemint.com/companies/us-iran-war-one-in-five-tile-plants-may-shut-as-gas-prices-drive-industry-consolidation-somany-ceramics-ceo-hormuz-11781428731522.html
+- Drools parent IB Group said to plan IPO, seeks pitches from merchant banks; stake-sale size, valuation to be decided
+  IB Group, which reported a turnover of  ₹16,000 crore in FY26, could become
+  🔗 https://www.livemint.com/companies/drools-parent-ib-group-holds-talks-with-merchant-banks-for-ipo-11781502389691.html
 
-- Power stocks gain charge as record demand boosts earnings outlook
-  Record power demand, higher thermal plant utilization and stronger spot-market realizations are set to boost June-
-  🔗 https://www.livemint.com/market/mark-to-market/power-demand-electricity-demand-thermal-plf-ntpc-tata-power-adani-power-jsw-energy-iex-renewable-energy-11781406208733.html
+- Razorpay confidentially files draft paper for IPO, looks to raise $600 million: Report
+  Razorpay had confidentially filed papers for $600 million IPO, according to sources. Razorpay competes with fint
+  🔗 https://www.livemint.com/market/ipo/razorpay-ipo-razorpay-confidentially-files-draft-paper-for-ipo-looks-to-raise-600-million-report-11781521154284.html
 
-- Vedanta Demerger LIVE: 4 new group stocks set to list in Indian stock market today
-  The listing date of these Vedanta demerged entities has been fixed as June 15, Monday. The shares will be listed on both the stock exchanges, B
-  🔗 https://www.livemint.com/market/stock-market-news/vedanta-demerger-live-vedanta-aluminium-vedanta-power-vedanta-oil-gas-vedanta-iron-steel-shares-listing-15-j-11781492509883.html
+- Top Gainers &amp; Losers on June 15: Aarti Industries, Gabriel India, Apar Industries, HFCL, HPCL among top gainers
+  The Nifty 50 and Sensex both recorded gains, while broader markets saw even higher advances. Dalal Street continued its upward trend with benchmark indices rising over 1%.
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-15-aarti-industries-gabriel-india-apar-industries-hfcl-apollo-tyres-among-top-gain-11781516432854.html
 
-- Buy or sell: Gift Nifty hints strong start, Vaishali Parekh recommends three stocks to buy amid US-Iran ceasefire hopes
-  Ujjivan Small Finance Bank, L&amp;amp;T Finance
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-strong-start-vaishali-parekh-recommends-three-stocks-to-buy-amid-us-iran-ceasefire-hopes-11781488568438.html
+- Sensex zooms 735 points, Nifty above 23,850: 10 key highlights from Indian stock market today
+  BSE barometer Sensex closed the day 736 points or 0.97% higher at 76,264.07. During the
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-zooms-735-points-nifty-above-23-850-10-key-highlights-from-indian-stock-market-today-11781517874476.html
 
-- Stocks to watch: Vedanta, Hindustan Petroleum, ONGC among shares in focus today after US-Iran peace deal
-  Sensex surged 1,695.40 points, or 2.30%, to finish at 75,527.95
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-vedanta-hindustan-petroleum-ongc-among-shares-in-focus-today-after-us-iran-peace-deal-11781488683781.html
+- Sebi board to speed up AIF launches, bring back open-market buybacks at 19 June meet
+  The regulator is also set to ease intraday borrowing rules for mutual funds.
+  🔗 https://www.livemint.com/market/sebi-board-to-speed-up-aif-launches-bring-back-open-market-buybacks-at-19-june-meet-mfs-11781510905467.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 15 June
-  Gift Nifty was trading around 23,987 level, a premium of nearly 300 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-15-june-11781488644149.html
+- OMC stocks rally up to 5.5% as crude oil crashes on US-Iran peace deal; Brent hits 3-month low
+  Oil marketing companies BPCL, HPCL, and IOC saw shares rise up to 5% on June 15. Lower crude costs enhance profitability and reduce operational expenses.
+  🔗 https://www.livemint.com/market/stock-market-news/omc-stocks-rally-up-to-5-5-as-crude-oil-crashes-on-us-iran-peace-deal-brent-hits-3-month-low-11781512651845.html
 
 - OpenAI hit with multistate probe into possible user harm as its IPO looms
   OpenAI hit with multistate probe
@@ -100,125 +100,153 @@
   The upcoming iPhone 18 Pro series leak has revealed new color options like Dark
   🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-design-leaks-again-in-live-images-dark-cherry-light-blue-and-black-colours-revealed-11781228198771.html
 
-- Markets cheer U.S.-Iran agreement, but some investors caution deal is yet to be signed - CNBC
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZGhtRkxiOWpOMlFhTENUM1IwYTlIUHZCbjRydi1adjlTYllkbFl3eHNSQWdCMWVhMElDeDdVdXhOempCVmt6RVRCZW92dDVoZDRpNXlWcjk1bUFCU2I2LWVDRHhha2ZDVTRoeEE5ZEIwVDVCVmdqajZXY9IBgAFBVV95cUxNblZxV2xSZjBsSjBMMW9kN0JaVG9KdDd5Q21zV3VWMnZjQW1RYnZaTEpxR282VHhDWXk3eHp4XzhyZjRqSVlsYUNfRkpXLW84cUhIRHZmQUM5SWJ4NDZkYzYxMkh3NTJ1VDNjTm1kdFg3WjBnNTAtNVZQc2Z0amhDcQ?oc=5
+- Stock Market Today: Stock Futures Rally, Oil Drops After U.S.-Iran Deal - WSJ
+  Stock Market Today: Stock Futures Rally,
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3dXV0d4NEk4bmxiS0RaZHV0dFVMbVVlcmk3S0RJYU5OUkEtT2wtLUs5UDdjV2VxVnlYT2pHdTVHLXlBR3kzNTRaUTNERVQxaDBSMEMyeXJJLTduOVZiRG5lZHVjTDNEYWFjTFE0aHZEZ0hOUlBDakxqSXlnZTc5RDlxd0t4ams?oc=5
 
-- US Futures Climb, Oil Falls on Iran Peace Deal: Markets Wrap - Bloomberg.com
-  US Futures Climb, Oil Falls on
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUhKcHF1aHBVMlpjQm1nNm1CM043eXpnYUtiVUJIYlM5N1RHTm1YQk9Fb000V3lvLTdUMzVieXhtRnNwMVFzcGNUVE5RWEN1bk95d19FVTFrWDlaaFpubmxfM0ctcTYxRjctZElzSkhubkoxSDZfbDVXVndCUU5kbXRoNmIydjd2QVFNV0ZsWDUzUzRBbHg1R2RmbGJSQWNVa2c0b2NLVlRWcXJrUFE?oc=5
-
-- Vedanta demerger listings today: Aluminium, oil & gas units in focus as four entities to make market... - Moneycontrol.com
-  Vedanta demerger listings today: Aluminium, oil & gas
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa3k1bEdXU1V2SVRFRlJPYVZ5aVpyTVIwMlJUVGVJbDNPbGlXZVFJQVZBYjVzTkpWX3BabS1mRUVWRERZUkpPaHZJMk9CMXJZYVFmX2h1TXd4ajZ4Ti1nTjhaNkNxMEl5dGlYRlNpTWpGNEd0d3V5T29uVC1FWnNmZmxTd2ZfcEJ5cnlwdFgxTVQxSG5OajlZZ1N1VEp5ZkU1UFJMNHdwUTdubTN1bWZPeElENzQzS2lMdi1Db21GVEhvY2xmanA4bndZdzMxaGFEQ1kySnFYZlpFQ3kyYzBsbFhNSVhkVUZXM0JqbzhlRWc4WmJ5UXFvVkN30gH_AUFVX3lxTE9hNHdkcFFZQ1ZKY0VmaHhwaFFtRzUxdXZtTVl1MWVPM0tsMVJkbGkxYnk5emNwcGo1YWpBLXZCajR5cXZVQUxTdnIwdW9RUDZJdmY5V21zdnFJMEVlN3pLa3pyT1JieHVPX1ljd2VDcF96YTRPT2Qwc0ROc0FjYk5pYW9wRWwxZWtxNS16OGNnVVNkSGl0OTA0WS05NjJWM1RkVnNvbC1pcVhwa1M4RUR6MVc0Z2piRWh0bDRteWlEZktBcV8xdlpoY3Q2dERSa1lDbGttMjJDZ1Bsc191YkZxZUFhOGtwQU9GOF8wVFRwSDJ2OS1FbG5Nck1XS3J3QQ?oc=5
-
-- Stock markets soar, oil falls as US, Iran confirm deal to end war - Al Jazeera
-  The two countries have reached a deal to end their decade-
+- Stock markets soar, oil falls as US and Iran announce framework to end war - Al Jazeera
+  The two countries have agreed to a framework to end their conflict.
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkIwZ3BGbEtQVlpMd2hsNjBRTGo3ckloaWxtWEV4dFF3dUpzQzVRNjNuY0FGd091UXJSc2xmLUt4SU9Oc05yQm5lY3BJYW12MFBLSHdVUFJWV0hGbm9odlFXV2F3Q2VlRmxMQUY4NEJDYnpoQm9sQl8zZWRyN0JCV3YyQU9yMmJiaHp2aDJWYmZuWXhoSnNxVmg1ODlybzdrSzBYbUZKZkxTZG_SAbABQVVfeXFMT3diT2hnTFBuekVmOEpUSkh5d3FITjBrVndZM0g2UVZXczl1ckJYbEJMcEdreUREaG9ZOW1TN3pNTzFzNC1QSFNaZ1BPUjNLYk92allOZnhEY3RqY3JBVV9xWk03amxWUEhVakpZdlNHeU84ZFBvV1Y4amZsTHJBSWl0ZGtxSTROdVh6OTI3bDFtSDRoTmdmSGhxeFUtRnNaZkEzZ1YtMExKaHlGOUJsOWg?oc=5
 
-- NIFTY50, SENSEX today: US-Iran peace deal, Wall Street cues, FII activity, key things to know before markets open on June 15 - Upstox
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUGJDYmZwdjVUMy1WZFcyRWlIYzQzNmxva2NpTlc4aWljV3U1WDZjUUJUVzU2cUxCQmJCRDlaa3NYUzhUWjkwWkF2bkUyOVpxUU41MXZGYWlLYmgtcFBsSExnTDJ1SkxQWW
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUGJDYmZwdjVUMy1WZFcyRWlIYzQzNmxva2NpTlc4aWljV3U1WDZjUUJUVzU2cUxCQmJCRDlaa3NYUzhUWjkwWkF2bkUyOVpxUU41MXZGYWlLYmgtcFBsSExnTDJ1SkxQWWpnS3dEcFFBTGdmSFJ4OFZqVmxrRHNhOUpwQjEzVmp6UXlTOHlXcnZWOE5qUnpGMHByeS1xRWRaeFUxWW9RX2Y1RFczUHBZRXZsMWtEZmVSRmROWUFZdWM1MzZTQ2JmaUJ1a09CMkJmSHh6RFB5Sm1Wc3BzWGRmczJSSzdHMDRMVWpKSzI1V0dEZm12bU1ISHR3SnZJN2RCWVB4REJBUERnbk0?oc=5
+- Goldman Brings Google to Prepaid Energy Market After Equity Deal - Bloomberg
+  Goldman Brings Google to Prepaid
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlQ5UEprcEsyTG9rSWcwbm5ycEVscXpZRUNDajE1ekZCRl9LNUFvT1lLZndlRXFqZTlIN2ZmWWRvdkotaEEwSFVEN0h2bUZDQzRRSUJZT0lMTXRlNkQ2bDdqM3NTclNmOWR0MjZfUjdsdi1CU2haWE0tTWRLdDl0NjZQd0hpSUw3Y1A2eXVOeDlTclNLSThSSVpfbVB0YWhmRVQwWEZJbG1HV1Z0V2ZrODh4clFDdw?oc=5
 
-- Vedanta shares in focus ahead of mega demerger; 4 new stocks to list today
-  Vedanta shares are expected to remain in focus as four companies created under its demerger plan are set to list on the stock exchanges. The move marks a major milestone in the group's restructuring strategy.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-in-focus-ahead-of-mega-demerger-4-new-stocks-to-list-today/articleshow/131732156.cms
+- Closing Bell: Sensex jumps 736 pts, Nifty closes above 23,800 on US-Iran peace deal announcement - Moneycontrol.com
+  The closing Bell: Sensex jumps 736 pts, Nifty
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPd2d1WlUzLVFvd1B2Q1cxb2JtRUwxQTZEY2Vid1hUcy1ROXdoTXlpcHJuM3J5bng0dF9sdVJ1Z3RpMzZ6ZjQxQUZxOUM4d0ZLdzE2THlqYnBnZEJTcDVTUDBCc1h5NUMwV2pzTUdxVDFlRllMVGlBSkQ3OXVLZ3FidVROOHlzUl9oRmh1V25CSEhOdzJUUkgydnFWc0xWS2xzbjV2U1BNV1FoZzVUMk9wUVNLZlVvTGYzclQ2QUNUVWl3NlJXQXJUM1lVSHVhZWpvc0xNbGswMXpmN2NhdW9TZ3hCc1RNNkl4VGxxNFRUZlB1ZFh6RkhuU0p4eXFpOU5taEloay0xbW85MkVWbmhxOXNCb9IBmAJBVV95cUxNZ3lvTUtFVVd2cUhIVG9FQ3RyYmFKbUFaMkEzSFd4aUdpUGZJckV3aVhaWnFDQlNnaWRVN1J0LUI2cW9sVzlHR3d4UTJLc1lqMjM5LTBmallObDZtNTBZdXlOQmtHSmlVTFE2YlZmLW1KUFZzZHhldngzVThORFVLa1g2X1hMbDlHbVZ4aGMyUHpzb2tRQWVWRGtXcG9yZV9JR3h6dU91ZWtzUk41MG9lZktQdktMa2ZZWi1oT1BiNDN0cEFjc2J6enFMWUI1SEZoakc3bkw3OXJyYU9xcDVrMUVjMmYxY0FhT1F4V3dfTHRQTnVkLXlQcGotV283NnpWeEpqeHdmOUQtY21RUzFpZU5tM0c5MFNL?oc=5
 
-- Vedanta Demerger Live Updates: Which newly listed Vedanta business offers the best opportunity? Check issue price and demerger details
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/vedanta-demerger-live-updates-vedanta-group-vedanta-oil-gas-vedanta-power-vedanta-aluminium-metal-vedanta-iron-steel-stock-price-today-14th-june/liveblog/131732039.cms
+- Stock Market Highlights June 15: Sensex surges 736 points, Nifty nears 24,000 as Iran-US peace deal lifts market sentiment - BusinessLine
+  Stock Market Highlights June 15: Sensex surges 736 points, Nifty nears
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMFhWTzFkc04xbGY3V3V3cEFFUlhoYlI3LWlTYVhyXzRsZC15cXAtR2tWNHRJLVVQNDVRNDVtZ1lUXzJ4OXNUM20zVHl1SlZIeGNCd21PTGVKQnd5d1JoNFlydmJIYXJGWllBb09EcWFSODNHbHRkaUxQUVZOclZvNGdUSWlCalRBM1NMeUt1NkN3TXhiSng5Y3psRU9lOE9mNHVfMjI5MF81aW92Z1cxaEp3RWpmWGQ4OUloU1RlOWRYZ9IByAFBVV95cUxPY0Zvd2lDQkdGV0pTTTJ4WDNnT1lxek9JY0Y4UEFPOUVsQloySDRjZEExS3FuMl9Qd183ZDJtM205ZkNSQUlGSGRkNldrR1NHSGRCVEVGcEJuQXBiR2N2cUhacG1JeWNRMjdyQTRadEM4WFVoVVc3V2pzVHd2Z2QyR241R3NFUXhDV0k0c2tJOFZvY3BRTHNBYmtZWFNoVTdjVEp2UGs1cms3ZVFNaHBQOFlBUHNEcDU4dnlxQnE2TTJVTUNFTWVteg?oc=5
 
-- Tata Motors PV Share Price Live Updates: Tata Motors PV market activity report
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-15-jun-2026/liveblog/131731718.cms
+- Monarch Networth says Nifty can hit 28,000 in 2026, picks three top stocks
+  Monarch Networth Capital expects Nifty to reach 27,000-28,000 in 2026. The brokerage favours banking, telecom and IT sectors. It sees opportunities in select mid
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/monarch-networth-says-nifty-can-hit-28000-in-2026-picks-three-top-stocks/articleshow/131743507.cms
 
-- Apollo Hospital Share Price Live Updates: Apollo Hospital's Volume Analysis
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-15-jun-2026/liveblog/131731711.cms
+- Nifty eyeing 24,600 retest;  Rajesh Bhosale says 2 stocks could outperform right now
+  Rajesh Bhosale of Angel One sees strong positive momentum, advising investors to buy on dips. He highlights Trent and Phoenix Mills as top picks, both showing significant breakout patterns.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-eyeing-24600-retest-rajesh-bhosale-says-2-stocks-could-outperform-right-now/articleshow/131742272.cms
 
-- Coal India Share Price Live Updates: Coal India  Volume Analysis
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-15-jun-2026/liveblog/131731710.cms
+- Rupee hits five-week high after oil plunges; traders eye further rally
+  The Indian rupee strengthened against the U.S. dollar for a second day. The rise follows a drop in oil prices and measures by the Reserve Bank of India.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-five-week-high-after-oil-plunges-traders-eye-further-rally/articleshow/131741528.cms
 
-- Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
-  A study by Al Jazeera found that Indians are
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
+- Gold jumps over 2% as US-Iran peace deal boosts bullion demand
+  Gold and silver prices surged over 2% on MCX after a US-Iran peace framework eased inflation fears. Falling oil prices, softer yields and a weaker dollar supported bullion.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-over-2-as-us-iran-peace-deal-boosts-bullion-demand/articleshow/131741127.cms
 
-- Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman - BBC
-  Settebello: Three Indian sailors killed in US strike
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
+- SpaceX shares rise 6% in pre-market after 19% gain on listing day
+  SpaceX shares extended gains in pre-market trading on Monday after a record-breaking IPO debut last week. Elon Musk said the company could generate over $1 trillion in annual revenue by 2030.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-rise-6-in-pre-market-after-19-gain-on-listing-day/articleshow/131741098.cms
 
-- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+- How India Walked The Middle East Tightrope Without Blinking - NDTV
+  How India Walked The Middle East
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- India's Modi seeks to strengthen ties in Slovakia - DW
+  India's Modi seeks to strengthen
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObVpuSTlmRTFEVkI5LXZZandCMUJxVlp4SFRKREtONVVtSjJLcGZ4cUp6MGxVY3FuUDQwR1hqT0NYcURDREN0dHV2RF93dWNHZGtOcmdaTy1xcm1LcERObi10RG9LZ2puSkk5UHBxNUJqa1MwejFVSF9tNHBKYTFyMzhtTTZLdXVXQVVQQlkza2hVU2RJZXlzXzFGNmxDYXVZc0s1MNIBpAFBVV95cUxQN0lpWDdJa2VxbHk3Rm84a1BEWTVSNWw1RWhTRTdndjFvdmplaTdzS192QTNGRGo1TnFTUHg1bFk1N2h4cWRCZjlvZGJxWXZRYlZYdEROenItc0Z1UmlqTjdSX05FQjZISFhYdmVjdjcyV042N3FKdmNxWDRJUThmSldMMGVkY1hqal9NOEQxRGxMYnhpeGJrRzdod3c2NzhlaTc1MA?oc=5
 
-- U.S. says it helped in rescuing Indian MSV crew - The Hindu
-  U.S. says it helped in
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkN2REFCdnptTWxzblBydS0xdXU2RHJMblNSWjMzTzNUYzFsLWFQaVdHTFE0VUhCcWF6ckpGTFhzMmxneVppZTRRNlVjTXFfY0UyaFV3TDI1dEdyT0g4aXdqUkN3N2U2eDhZNXRIVGtLY1hTczF3M2RVdTNoME53emh6MVdNR0tSRHR5S0lPdGs1RFZhUktGZlEzYTRxRHVOdmFGallHOUhzbWxFUGfSAbQBQVVfeXFMTnFzTWJKTVA2OGk0Z21PUXFRby1DRjJDS25FeGZqV0trZVphQndfSTFMdTZ1T0FjTVk5d0NHdkZwQlVpcW5McWtHaElKVlRUX0RIUUx1bXRQVzlqM2x0dmtoYXc2ZTlaOVo4Vjlpc3A0eDgzMUFrUlpEN25aVUV6N216Z0FJdWc1RTk4Q0VsdXFHbUZDbThULTUwSmJmS1AtU0dVdWNkc2VyTHcwSVJJUk5CU0hp?oc=5
+- G7 Summit 2026: How India Is Emerging As Key Global And Strategic Power - NDTV
+  .com/news/g7-sum
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEZKVnJKME5QSlBDNFJSZzlCTlM0VjI4UEIxSFN4ZzVVZUQ0WGdkbGsxd0lJVXQ4YWhaM1NJdmd3T1JKSVJmU2UtWUJtMEV6QkstbEh1ZGp1eXJKMjR2T3hENVM5VUYtUHZMLWZPS2FaNjNHV1pzRmVqWjRtcFJvZ2p4OUdJUGxIeUxsaDJUMGk4ZHE2dXNPam5EMlRBamxndjEwSzhvZENkekxyVm95d9IBuAFBVV95cUxNMWo5RTljc1FBeUF1MjlUTTdKSVRGWk1mbUZUSHJZRF8weW5nX0FiV2VtZklvREd2R19vZnN1SHB3S0Q1UE5aT2lrdkFRV3JBNmhWdWpQZXhKNkRnWkRLNjFwV1ZrYkpsdkctdE9UNTA0SGZwVG13Xzd6ZXZLWHp0ZS1EZkRQb2p6TzVVSDk0bGowRXM4OHV5RjgtZmxZckJxRE16dnZTVzdiTjZoWkZWOXh5cUZyeHJm?oc=5
 
-- Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
-  A study by Al Jazeera found that Indians are
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
+- Watch: French President Gives PM Modi's Visit A Bollywood Spin With 'Aari Aari' From Dhurandhar - NDTV
+  Watch: French President Gives PM Modi's Visit A Bollywood
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTY2dUMzRDZuTWNPRWpNN0hpTVhucmpEMzN1LTBhcTl5YXdEOWdDTnd3ZkUzWlJKZmlvUm1rRXlmZ3hLcllJLXVkakFuaV9nVlpwRnZpMWRna2lsMlZkcExDNWRoMno4VG5NNHJWam4ycEtnNWM3R3VLenRpRE1SWkpVVVR2MXRPaWNDa3RoXzhHRXktazJuTGM4ZUw3a1ByMUFWa2dVaEZEUEJqaHQydHdoaXdZbHpVRzVuaWhjMjU1U3N3Rl94ZHY2LVdSeThScGdWY2Vn0gHeAUFVX3lxTFA3N2l6S1hMZHk2UFp1SkdRdlFfS29mS2tpN2FGc0hSUWxCNzU3SlV2dHdGTmRQYzBodldtb2M0YXNvY01Eb3BvS3hKSjNXd0E2OExvaU90VTZ4X2NoSXpLYUVmSEdEYm90ZHRodEFIaXRsUExnbktIUndYdnRTR3ZFdG4xWFJCN1BrcjZTVHdkLTVfUmFtbTNzdGYwdHNOTV9wZEtVS1RJWjlGVGRxaGxFSlRnN0J4Qk9yUEctZ0ZzbWZjMkE2SkFrVWRyZlI2VHhTamFtMWJhSFB0WnZuQQ?oc=5
 
-- Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman - BBC
-  Settebello: Three Indian sailors killed in US strike
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
+- India's May Wholesale Price Inflation Rises to 9.68% on Middle East War-Driven Fuel Surge - تسنیم
+  India's May Wholesale Price Inflation Rises to
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHZ2cFZNX0NrSWl6YkpBUHdLUUVLS0s3V2RiTE5qaHR2TERzMDEyUVhnejhxanFkeGFGa0hfMXVZZDFVaTNRS1JKdHNPb2ZlcENQWURIQ0tRaE94RGNxZ0RxR2ZXWW5pa1lqSFJLSjZFeFZ5Rl9lV0VZaHFkUnBXRHNScGNEV3pvZm1aTk9tNjRMcUxfTzlsRWNwbjJzNU8tSFI2Q1R0YVZkVDItTmhSaEt6MmwxMEl2a2tBNk1tQ1lOMW9lYTdyT2FzWXc1dWo2MjQ4VUtBb0rSAd4BQVVfeXFMTUVfMldrR3JJR29QenVraGR0SnlZWk1Lbk1yMmFrTXJFT1k1cy1rQjlYbkxQaVBMY2FXUnROLWpkcS02bHlHM1BCVjhqMDZLR1JrZkJsZ1ZKNk5zRm02NXlORkFWOTdsYmxYdjFCai1TX0pCV3dib2JhR3FRbEZ1dWVIY1ByTUhmdV9EVHR1RkJsUjVtZWtJOGNQNUE5TEJ2NnVkT0xBb2g3SkpkbXVFNmVwRVlhcERURXJTalJ5WjlnSVZFcGZ0UXJ1NXppV21hbnBvWWU4aGNHd1RwX3R3?oc=5
 
-- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+- How India Walked The Middle East Tightrope Without Blinking - NDTV
+  How India Walked The Middle East
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- India's Modi seeks to strengthen ties in Slovakia - DW
+  India's Modi seeks to strengthen
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObVpuSTlmRTFEVkI5LXZZandCMUJxVlp4SFRKREtONVVtSjJLcGZ4cUp6MGxVY3FuUDQwR1hqT0NYcURDREN0dHV2RF93dWNHZGtOcmdaTy1xcm1LcERObi10RG9LZ2puSkk5UHBxNUJqa1MwejFVSF9tNHBKYTFyMzhtTTZLdXVXQVVQQlkza2hVU2RJZXlzXzFGNmxDYXVZc0s1MNIBpAFBVV95cUxQN0lpWDdJa2VxbHk3Rm84a1BEWTVSNWw1RWhTRTdndjFvdmplaTdzS192QTNGRGo1TnFTUHg1bFk1N2h4cWRCZjlvZGJxWXZRYlZYdEROenItc0Z1UmlqTjdSX05FQjZISFhYdmVjdjcyV042N3FKdmNxWDRJUThmSldMMGVkY1hqal9NOEQxRGxMYnhpeGJrRzdod3c2NzhlaTc1MA?oc=5
 
-- U.S. says it helped in rescuing Indian MSV crew - The Hindu
-  U.S. says it helped in
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkN2REFCdnptTWxzblBydS0xdXU2RHJMblNSWjMzTzNUYzFsLWFQaVdHTFE0VUhCcWF6ckpGTFhzMmxneVppZTRRNlVjTXFfY0UyaFV3TDI1dEdyT0g4aXdqUkN3N2U2eDhZNXRIVGtLY1hTczF3M2RVdTNoME53emh6MVdNR0tSRHR5S0lPdGs1RFZhUktGZlEzYTRxRHVOdmFGallHOUhzbWxFUGfSAbQBQVVfeXFMTnFzTWJKTVA2OGk0Z21PUXFRby1DRjJDS25FeGZqV0trZVphQndfSTFMdTZ1T0FjTVk5d0NHdkZwQlVpcW5McWtHaElKVlRUX0RIUUx1bXRQVzlqM2x0dmtoYXc2ZTlaOVo4Vjlpc3A0eDgzMUFrUlpEN25aVUV6N216Z0FJdWc1RTk4Q0VsdXFHbUZDbThULTUwSmJmS1AtU0dVdWNkc2VyTHcwSVJJUk5CU0hp?oc=5
+- G7 Summit 2026: How India Is Emerging As Key Global And Strategic Power - NDTV
+  .com/news/g7-sum
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEZKVnJKME5QSlBDNFJSZzlCTlM0VjI4UEIxSFN4ZzVVZUQ0WGdkbGsxd0lJVXQ4YWhaM1NJdmd3T1JKSVJmU2UtWUJtMEV6QkstbEh1ZGp1eXJKMjR2T3hENVM5VUYtUHZMLWZPS2FaNjNHV1pzRmVqWjRtcFJvZ2p4OUdJUGxIeUxsaDJUMGk4ZHE2dXNPam5EMlRBamxndjEwSzhvZENkekxyVm95d9IBuAFBVV95cUxNMWo5RTljc1FBeUF1MjlUTTdKSVRGWk1mbUZUSHJZRF8weW5nX0FiV2VtZklvREd2R19vZnN1SHB3S0Q1UE5aT2lrdkFRV3JBNmhWdWpQZXhKNkRnWkRLNjFwV1ZrYkpsdkctdE9UNTA0SGZwVG13Xzd6ZXZLWHp0ZS1EZkRQb2p6TzVVSDk0bGowRXM4OHV5RjgtZmxZckJxRE16dnZTVzdiTjZoWkZWOXh5cUZyeHJm?oc=5
 
-- Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
-  A study by Al Jazeera found that Indians are
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
+- Watch: French President Gives PM Modi's Visit A Bollywood Spin With 'Aari Aari' From Dhurandhar - NDTV
+  Watch: French President Gives PM Modi's Visit A Bollywood
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTY2dUMzRDZuTWNPRWpNN0hpTVhucmpEMzN1LTBhcTl5YXdEOWdDTnd3ZkUzWlJKZmlvUm1rRXlmZ3hLcllJLXVkakFuaV9nVlpwRnZpMWRna2lsMlZkcExDNWRoMno4VG5NNHJWam4ycEtnNWM3R3VLenRpRE1SWkpVVVR2MXRPaWNDa3RoXzhHRXktazJuTGM4ZUw3a1ByMUFWa2dVaEZEUEJqaHQydHdoaXdZbHpVRzVuaWhjMjU1U3N3Rl94ZHY2LVdSeThScGdWY2Vn0gHeAUFVX3lxTFA3N2l6S1hMZHk2UFp1SkdRdlFfS29mS2tpN2FGc0hSUWxCNzU3SlV2dHdGTmRQYzBodldtb2M0YXNvY01Eb3BvS3hKSjNXd0E2OExvaU90VTZ4X2NoSXpLYUVmSEdEYm90ZHRodEFIaXRsUExnbktIUndYdnRTR3ZFdG4xWFJCN1BrcjZTVHdkLTVfUmFtbTNzdGYwdHNOTV9wZEtVS1RJWjlGVGRxaGxFSlRnN0J4Qk9yUEctZ0ZzbWZjMkE2SkFrVWRyZlI2VHhTamFtMWJhSFB0WnZuQQ?oc=5
 
-- Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman - BBC
-  Settebello: Three Indian sailors killed in US strike
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
+- India's May Wholesale Price Inflation Rises to 9.68% on Middle East War-Driven Fuel Surge - تسنیم
+  India's May Wholesale Price Inflation Rises to
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHZ2cFZNX0NrSWl6YkpBUHdLUUVLS0s3V2RiTE5qaHR2TERzMDEyUVhnejhxanFkeGFGa0hfMXVZZDFVaTNRS1JKdHNPb2ZlcENQWURIQ0tRaE94RGNxZ0RxR2ZXWW5pa1lqSFJLSjZFeFZ5Rl9lV0VZaHFkUnBXRHNScGNEV3pvZm1aTk9tNjRMcUxfTzlsRWNwbjJzNU8tSFI2Q1R0YVZkVDItTmhSaEt6MmwxMEl2a2tBNk1tQ1lOMW9lYTdyT2FzWXc1dWo2MjQ4VUtBb0rSAd4BQVVfeXFMTUVfMldrR3JJR29QenVraGR0SnlZWk1Lbk1yMmFrTXJFT1k1cy1rQjlYbkxQaVBMY2FXUnROLWpkcS02bHlHM1BCVjhqMDZLR1JrZkJsZ1ZKNk5zRm02NXlORkFWOTdsYmxYdjFCai1TX0pCV3dib2JhR3FRbEZ1dWVIY1ByTUhmdV9EVHR1RkJsUjVtZWtJOGNQNUE5TEJ2NnVkT0xBb2g3SkpkbXVFNmVwRVlhcERURXJTalJ5WjlnSVZFcGZ0UXJ1NXppV21hbnBvWWU4aGNHd1RwX3R3?oc=5
 
-- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+- How India Walked The Middle East Tightrope Without Blinking - NDTV
+  How India Walked The Middle East
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- India's Modi seeks to strengthen ties in Slovakia - DW
+  India's Modi seeks to strengthen
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObVpuSTlmRTFEVkI5LXZZandCMUJxVlp4SFRKREtONVVtSjJLcGZ4cUp6MGxVY3FuUDQwR1hqT0NYcURDREN0dHV2RF93dWNHZGtOcmdaTy1xcm1LcERObi10RG9LZ2puSkk5UHBxNUJqa1MwejFVSF9tNHBKYTFyMzhtTTZLdXVXQVVQQlkza2hVU2RJZXlzXzFGNmxDYXVZc0s1MNIBpAFBVV95cUxQN0lpWDdJa2VxbHk3Rm84a1BEWTVSNWw1RWhTRTdndjFvdmplaTdzS192QTNGRGo1TnFTUHg1bFk1N2h4cWRCZjlvZGJxWXZRYlZYdEROenItc0Z1UmlqTjdSX05FQjZISFhYdmVjdjcyV042N3FKdmNxWDRJUThmSldMMGVkY1hqal9NOEQxRGxMYnhpeGJrRzdod3c2NzhlaTc1MA?oc=5
 
-- U.S. says it helped in rescuing Indian MSV crew - The Hindu
-  U.S. says it helped in
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkN2REFCdnptTWxzblBydS0xdXU2RHJMblNSWjMzTzNUYzFsLWFQaVdHTFE0VUhCcWF6ckpGTFhzMmxneVppZTRRNlVjTXFfY0UyaFV3TDI1dEdyT0g4aXdqUkN3N2U2eDhZNXRIVGtLY1hTczF3M2RVdTNoME53emh6MVdNR0tSRHR5S0lPdGs1RFZhUktGZlEzYTRxRHVOdmFGallHOUhzbWxFUGfSAbQBQVVfeXFMTnFzTWJKTVA2OGk0Z21PUXFRby1DRjJDS25FeGZqV0trZVphQndfSTFMdTZ1T0FjTVk5d0NHdkZwQlVpcW5McWtHaElKVlRUX0RIUUx1bXRQVzlqM2x0dmtoYXc2ZTlaOVo4Vjlpc3A0eDgzMUFrUlpEN25aVUV6N216Z0FJdWc1RTk4Q0VsdXFHbUZDbThULTUwSmJmS1AtU0dVdWNkc2VyTHcwSVJJUk5CU0hp?oc=5
+- G7 Summit 2026: How India Is Emerging As Key Global And Strategic Power - NDTV
+  .com/news/g7-sum
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEZKVnJKME5QSlBDNFJSZzlCTlM0VjI4UEIxSFN4ZzVVZUQ0WGdkbGsxd0lJVXQ4YWhaM1NJdmd3T1JKSVJmU2UtWUJtMEV6QkstbEh1ZGp1eXJKMjR2T3hENVM5VUYtUHZMLWZPS2FaNjNHV1pzRmVqWjRtcFJvZ2p4OUdJUGxIeUxsaDJUMGk4ZHE2dXNPam5EMlRBamxndjEwSzhvZENkekxyVm95d9IBuAFBVV95cUxNMWo5RTljc1FBeUF1MjlUTTdKSVRGWk1mbUZUSHJZRF8weW5nX0FiV2VtZklvREd2R19vZnN1SHB3S0Q1UE5aT2lrdkFRV3JBNmhWdWpQZXhKNkRnWkRLNjFwV1ZrYkpsdkctdE9UNTA0SGZwVG13Xzd6ZXZLWHp0ZS1EZkRQb2p6TzVVSDk0bGowRXM4OHV5RjgtZmxZckJxRE16dnZTVzdiTjZoWkZWOXh5cUZyeHJm?oc=5
 
-- Costs, careers and choice: Why Indians are having fewer children - Al Jazeera
-  A study by Al Jazeera found that Indians are
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1dVVzFuUjIwRExTWHlkQmhCWjVpR0w1cXlRNl9QRHFUVWlMbnVtaXVzMEVweDdNMlhSc3dZbjZHQ2thRmtPSWF0em41OWcxNDdkYVBqY1JJRk9aNm83RnJHeWItNFNsOFV0aFhCWGJRcU1XRjE5UXRnRGZoVU1UWk93TDU0N3g5TXJOM25xUWVoZFpZb0t5NE9mN0R4WG95MTlGbjdB0gGrAUFVX3lxTE1oc2hGS0poM3V2d1A5dDdoUmtLMVVjMU11aGpKRnBLMWtGcV9DR0FoSTlTSmI1ODA3cGNKV3QzdDBpdHg3WVJpQzJ3cFhxLUs3dDc5VUFUajUwQUwya25oaTZWa0MyQkVUeGItYnp4ZUJYRVNOYldYaEh1UThyMXdwZnF6SW5pZ2c4UUJRUDFyQjltdlA0VlJGMnVKc1JaN2ZBTTlNU005T01lbw?oc=5
+- Watch: French President Gives PM Modi's Visit A Bollywood Spin With 'Aari Aari' From Dhurandhar - NDTV
+  Watch: French President Gives PM Modi's Visit A Bollywood
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTY2dUMzRDZuTWNPRWpNN0hpTVhucmpEMzN1LTBhcTl5YXdEOWdDTnd3ZkUzWlJKZmlvUm1rRXlmZ3hLcllJLXVkakFuaV9nVlpwRnZpMWRna2lsMlZkcExDNWRoMno4VG5NNHJWam4ycEtnNWM3R3VLenRpRE1SWkpVVVR2MXRPaWNDa3RoXzhHRXktazJuTGM4ZUw3a1ByMUFWa2dVaEZEUEJqaHQydHdoaXdZbHpVRzVuaWhjMjU1U3N3Rl94ZHY2LVdSeThScGdWY2Vn0gHeAUFVX3lxTFA3N2l6S1hMZHk2UFp1SkdRdlFfS29mS2tpN2FGc0hSUWxCNzU3SlV2dHdGTmRQYzBodldtb2M0YXNvY01Eb3BvS3hKSjNXd0E2OExvaU90VTZ4X2NoSXpLYUVmSEdEYm90ZHRodEFIaXRsUExnbktIUndYdnRTR3ZFdG4xWFJCN1BrcjZTVHdkLTVfUmFtbTNzdGYwdHNOTV9wZEtVS1RJWjlGVGRxaGxFSlRnN0J4Qk9yUEctZ0ZzbWZjMkE2SkFrVWRyZlI2VHhTamFtMWJhSFB0WnZuQQ?oc=5
 
-- Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman - BBC
-  Settebello: Three Indian sailors killed in US strike
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXQnV1SHF4ZFVyUG9sdWhWZGtXVnRoQmlTUVl3QzZVOGNWSFFpYU1UekNvbnVTRTRJdmt5MWtxSmtYZkZicVBkVHY5Q2x6Nm1OcUhoNUFWNWlUZw?oc=5
+- India's May Wholesale Price Inflation Rises to 9.68% on Middle East War-Driven Fuel Surge - تسنیم
+  India's May Wholesale Price Inflation Rises to
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHZ2cFZNX0NrSWl6YkpBUHdLUUVLS0s3V2RiTE5qaHR2TERzMDEyUVhnejhxanFkeGFGa0hfMXVZZDFVaTNRS1JKdHNPb2ZlcENQWURIQ0tRaE94RGNxZ0RxR2ZXWW5pa1lqSFJLSjZFeFZ5Rl9lV0VZaHFkUnBXRHNScGNEV3pvZm1aTk9tNjRMcUxfTzlsRWNwbjJzNU8tSFI2Q1R0YVZkVDItTmhSaEt6MmwxMEl2a2tBNk1tQ1lOMW9lYTdyT2FzWXc1dWo2MjQ4VUtBb0rSAd4BQVVfeXFMTUVfMldrR3JJR29QenVraGR0SnlZWk1Lbk1yMmFrTXJFT1k1cy1rQjlYbkxQaVBMY2FXUnROLWpkcS02bHlHM1BCVjhqMDZLR1JrZkJsZ1ZKNk5zRm02NXlORkFWOTdsYmxYdjFCai1TX0pCV3dib2JhR3FRbEZ1dWVIY1ByTUhmdV9EVHR1RkJsUjVtZWtJOGNQNUE5TEJ2NnVkT0xBb2g3SkpkbXVFNmVwRVlhcERURXJTalJ5WjlnSVZFcGZ0UXJ1NXppV21hbnBvWWU4aGNHd1RwX3R3?oc=5
 
-- US Offers No Regret Over Indians Killed In Strike. Shashi Tharoor Hits Out - NDTV
-  &nbsp;&ngt;<font color
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3ROa0xKYndWNTVjd1g3YnpscXlJWWlDZjBuWHBsTUVrNnA2b1R6UU9UcWZiVWRkemsyNzNZSHNWaG9XcDBPem01dnVMSzVIUzhrZU1uLXN0ZEFmNXVmcjEzZHBuSTBNWmJFSkRBRE02VUdUV3JPT0F2OWZfOFF2NC1rdUNUUUlyMlF2T190dW1Qenl5Q2JCMjF0aTJIUk9qYldSdUE2akdkSHVEc0VFV0lJMHZIZmVNU3AwWHpR0gHGAUFVX3lxTE1PRHJTUXZ1RDdoSEhRRk5SRGFZOTgwSjQya1dweVN6aVFLUmxYVEpMWnlmTnNIcG82RHZwT3NXYWdkcWFBOWExWi1YQ2RVQTNuYnlfX2pIYlU3XzJFdHdybmE5MDVGS0RKdTBUOVdzSHpQMkx6SDdRWFhOd1Ffb1p3dEl4U0pYRjVRb3B4bF9JSmVfekJ0TWRPdWc5Q1JLRVlHUzJUTzBYcGIzaE1ybnNhNjBzanNTQUluSDc4LWp6d1BGOEhrZw?oc=5
+- How India Walked The Middle East Tightrope Without Blinking - NDTV
+  How India Walked The Middle East
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3FDcFp0RVVEQWlDYVdLanFoWmtRYWZocVE1UUlEU3pZZ3RobXZkOENUNXBpU1NPeGdpeGJLN0RqNnc1UVptRE5ubHY2aTl1VHJsM3ZqYnZmVHpzTXRaTDgwOHI1OHV2YXNHb0VsSzJnem1yZTdtZDVPNFZtTHJiZk9GRUhXSEtUS2FTajBDc1AwSEk5TFY4Z29UVVo5TS1rRlN5QjlpVGNRc1F2cUdkaUZKOHFRSHktWVRHOFJsV3dod9IBygFBVV95cUxQeUQ5dGtyRzRtWEV2TmZRZjVFNDB2U3VKb21FeFQyUF9YQ3hHWDFnVXI4QkkxSktVMDZSd3hxMWx6b1p6d3k1QVJ3ekx2OFB3YTRWME1oRTJna2xYTlFVVWwzYngtZFV6QmdYUnJlUmF1djFmVUt6QUx1UEN0YzhHbWhSV08wMzNDQXJNNlphd3pUbGRobXZIcmxRZTctTjhMeEU2RlNFNmt1XzdaNUlmNWRBLTBQaTMtcGkxYkJReThnLTBFSHdremR3?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- India's Modi seeks to strengthen ties in Slovakia - DW
+  India's Modi seeks to strengthen
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxObVpuSTlmRTFEVkI5LXZZandCMUJxVlp4SFRKREtONVVtSjJLcGZ4cUp6MGxVY3FuUDQwR1hqT0NYcURDREN0dHV2RF93dWNHZGtOcmdaTy1xcm1LcERObi10RG9LZ2puSkk5UHBxNUJqa1MwejFVSF9tNHBKYTFyMzhtTTZLdXVXQVVQQlkza2hVU2RJZXlzXzFGNmxDYXVZc0s1MNIBpAFBVV95cUxQN0lpWDdJa2VxbHk3Rm84a1BEWTVSNWw1RWhTRTdndjFvdmplaTdzS192QTNGRGo1TnFTUHg1bFk1N2h4cWRCZjlvZGJxWXZRYlZYdEROenItc0Z1UmlqTjdSX05FQjZISFhYdmVjdjcyV042N3FKdmNxWDRJUThmSldMMGVkY1hqal9NOEQxRGxMYnhpeGJrRzdod3c2NzhlaTc1MA?oc=5
 
-- U.S. says it helped in rescuing Indian MSV crew - The Hindu
-  U.S. says it helped in
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkN2REFCdnptTWxzblBydS0xdXU2RHJMblNSWjMzTzNUYzFsLWFQaVdHTFE0VUhCcWF6ckpGTFhzMmxneVppZTRRNlVjTXFfY0UyaFV3TDI1dEdyT0g4aXdqUkN3N2U2eDhZNXRIVGtLY1hTczF3M2RVdTNoME53emh6MVdNR0tSRHR5S0lPdGs1RFZhUktGZlEzYTRxRHVOdmFGallHOUhzbWxFUGfSAbQBQVVfeXFMTnFzTWJKTVA2OGk0Z21PUXFRby1DRjJDS25FeGZqV0trZVphQndfSTFMdTZ1T0FjTVk5d0NHdkZwQlVpcW5McWtHaElKVlRUX0RIUUx1bXRQVzlqM2x0dmtoYXc2ZTlaOVo4Vjlpc3A0eDgzMUFrUlpEN25aVUV6N216Z0FJdWc1RTk4Q0VsdXFHbUZDbThULTUwSmJmS1AtU0dVdWNkc2VyTHcwSVJJUk5CU0hp?oc=5
+- G7 Summit 2026: How India Is Emerging As Key Global And Strategic Power - NDTV
+  .com/news/g7-sum
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEZKVnJKME5QSlBDNFJSZzlCTlM0VjI4UEIxSFN4ZzVVZUQ0WGdkbGsxd0lJVXQ4YWhaM1NJdmd3T1JKSVJmU2UtWUJtMEV6QkstbEh1ZGp1eXJKMjR2T3hENVM5VUYtUHZMLWZPS2FaNjNHV1pzRmVqWjRtcFJvZ2p4OUdJUGxIeUxsaDJUMGk4ZHE2dXNPam5EMlRBamxndjEwSzhvZENkekxyVm95d9IBuAFBVV95cUxNMWo5RTljc1FBeUF1MjlUTTdKSVRGWk1mbUZUSHJZRF8weW5nX0FiV2VtZklvREd2R19vZnN1SHB3S0Q1UE5aT2lrdkFRV3JBNmhWdWpQZXhKNkRnWkRLNjFwV1ZrYkpsdkctdE9UNTA0SGZwVG13Xzd6ZXZLWHp0ZS1EZkRQb2p6TzVVSDk0bGowRXM4OHV5RjgtZmxZckJxRE16dnZTVzdiTjZoWkZWOXh5cUZyeHJm?oc=5
+
+- Watch: French President Gives PM Modi's Visit A Bollywood Spin With 'Aari Aari' From Dhurandhar - NDTV
+  Watch: French President Gives PM Modi's Visit A Bollywood
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSTY2dUMzRDZuTWNPRWpNN0hpTVhucmpEMzN1LTBhcTl5YXdEOWdDTnd3ZkUzWlJKZmlvUm1rRXlmZ3hLcllJLXVkakFuaV9nVlpwRnZpMWRna2lsMlZkcExDNWRoMno4VG5NNHJWam4ycEtnNWM3R3VLenRpRE1SWkpVVVR2MXRPaWNDa3RoXzhHRXktazJuTGM4ZUw3a1ByMUFWa2dVaEZEUEJqaHQydHdoaXdZbHpVRzVuaWhjMjU1U3N3Rl94ZHY2LVdSeThScGdWY2Vn0gHeAUFVX3lxTFA3N2l6S1hMZHk2UFp1SkdRdlFfS29mS2tpN2FGc0hSUWxCNzU3SlV2dHdGTmRQYzBodldtb2M0YXNvY01Eb3BvS3hKSjNXd0E2OExvaU90VTZ4X2NoSXpLYUVmSEdEYm90ZHRodEFIaXRsUExnbktIUndYdnRTR3ZFdG4xWFJCN1BrcjZTVHdkLTVfUmFtbTNzdGYwdHNOTV9wZEtVS1RJWjlGVGRxaGxFSlRnN0J4Qk9yUEctZ0ZzbWZjMkE2SkFrVWRyZlI2VHhTamFtMWJhSFB0WnZuQQ?oc=5
+
+- India's May Wholesale Price Inflation Rises to 9.68% on Middle East War-Driven Fuel Surge - تسنیم
+  India's May Wholesale Price Inflation Rises to
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHZ2cFZNX0NrSWl6YkpBUHdLUUVLS0s3V2RiTE5qaHR2TERzMDEyUVhnejhxanFkeGFGa0hfMXVZZDFVaTNRS1JKdHNPb2ZlcENQWURIQ0tRaE94RGNxZ0RxR2ZXWW5pa1lqSFJLSjZFeFZ5Rl9lV0VZaHFkUnBXRHNScGNEV3pvZm1aTk9tNjRMcUxfTzlsRWNwbjJzNU8tSFI2Q1R0YVZkVDItTmhSaEt6MmwxMEl2a2tBNk1tQ1lOMW9lYTdyT2FzWXc1dWo2MjQ4VUtBb0rSAd4BQVVfeXFMTUVfMldrR3JJR29QenVraGR0SnlZWk1Lbk1yMmFrTXJFT1k1cy1rQjlYbkxQaVBMY2FXUnROLWpkcS02bHlHM1BCVjhqMDZLR1JrZkJsZ1ZKNk5zRm02NXlORkFWOTdsYmxYdjFCai1TX0pCV3dib2JhR3FRbEZ1dWVIY1ByTUhmdV9EVHR1RkJsUjVtZWtJOGNQNUE5TEJ2NnVkT0xBb2g3SkpkbXVFNmVwRVlhcERURXJTalJ5WjlnSVZFcGZ0UXJ1NXppV21hbnBvWWU4aGNHd1RwX3R3?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-15 03:40:19 UTC_
+_Last updated: 2026-06-15 11:57:52 UTC_
