@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Pune-Danapur Amrit Bharat Express: Train number, route, stops, frequency, time table
-  
-  🔗 https://indianexpress.com/article/india/pune-danapur-amrit-bharat-express-train-number-route-stops-frequency-time-table-10742372/
+- ‘My voice is being heard’: A month of India’s Cockroach Janta Party - Al Jazeera
+  ‘My voice is being heard’: A
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2R0S3Y2c3ZsVGVUVDR5V3ptaVZUazgzTlh0Umo5ZFl5QjZvcHdJTTRyYlYtMXY5dVhKellqckljU0lfeTRaSVJ1QkZIN0VDR1Z1OVlNanBXMmcyN2ludnlxZlJRbWFEdk1ac0VBUDZLd1VFellZcnYyZkpsdGczOXlOZjdOSnVMZUVrWGExTHNlb1l6Q1lDdDhPYW9uNTlpdkVERkNld9IBrAFBVV95cUxOclBXXy10M1NwVEQ2cXczdGVIRk40NnJsU2JTY0FVQlozcDAtR1VFdlM1YnVaSXJjZmZYdEZQN2hvdDY5VTFCRVN0WDR0U2FvcGRUZlRLWXZkQnROZ2lwZDl3bjdzaVgyLWhjdW55dDNFaHlkZG9yNWhtWTM5YWkwVWhDMTFPRllRcmg4VkxwTkNXWVRTWlladU5sdFM0X25NTl8zUTdDZFVwZmd4?oc=5
 
-- ‘PM Modi responsible’: Congress breaks silence on Ram Temple donation row
-  
-  🔗 https://indianexpress.com/article/india/ram-temple-donation-controversy-congress-ayodhya-fund-allegations-probe-10742371/
+- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
+  Dhaka Summons Indian Envoy After Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- 4 ‘Namo’ cities to be developed in Delhi-NCR, says Minister Manohar Lal
-  
-  🔗 https://indianexpress.com/article/india/4-namo-cities-delhi-ncr-rajasthan-minister-manohar-lal-10742318/
+- 'Dancing girl's' bare torso restored in Indian textbook after backlash - BBC
+  'Dancing girl's' bare torso
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE85WWZkVzk3UHlYbi1DRlo5TXpib0ZrTlkxSVpSbzc0SWpURXF0NkNFaTZid3YxMDZ4TEszSW0tNndpenRiNUNXaVNvTmp5WDBDWG9PcjgyV2w2Zw?oc=5
 
-- Annamalai questions ‘military-grade’ security for NEET retest: ‘Additional pressure on students’
-  
-  🔗 https://indianexpress.com/article/india/annamalai-slams-neet-military-grade-security-measures-10742199/
+- PM Modi participates in high-level G7 working session in Evian - Newsonair
+  PM Modi participates in high-level G
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWV4dUczaFZ4UXZnMUF0Nm1YN05SbDA3RTBNeFplSWZQd3lGNjllaUJtbWdCckxYUzZGY2J6VjJpSVRRZU52SFlOYXdPVEs1b0lpb2dCVFJJQWdzeS1FYXJOU3ZhTzNNbWpXZXlDR0Q3WmU0SUpCSzJpYXROV3phMA?oc=5
 
-- TMC vs rebel MPs: Lok Sabha Speaker’s call awaited as Abhishek misses meeting
-  
-  🔗 https://indianexpress.com/article/india/tmc-rebel-mps-merger-claim-om-birla-anti-defection-row-10742154/
+- Key Issues On Agenda For PM Modi, Donald Trump's Bilateral Tomorrow - NDTV
+  Key Issues On Agenda For PM Modi, Donald
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGRTRlJFVEQ4bV95cVNOaHl5NFhRX09KbzNDeVV0V0JRRlh6UHBpUkRGSTFNejN4Q0VGemd5Y0J3UnBjbnZnYlp1WGJ4bWRQZElDVzBGQVJHVXRrYXR1Z1lQZkQwOHRIREJZWGRrY3RObzdPd1hLZERxZUpsTEJfdWNIMDNRQ0VPVEVqM1ZVVklkOXgzZ3h5bGdiSlB3dzh1alQ5Yzh3LXA?oc=5
 
-- What is Helium-3, the $2,000/litre rare gas sparking a race to mine the Moon?
-  
-  🔗 https://indianexpress.com/article/technology/science/what-is-helium-3-the-2000-litre-rare-gas-sparking-a-race-to-mine-the-moon-10742268/
+- Technology is changing our perspective on nature – at every scale - New Scientist
+  Technology is changing our perspective on nature – at every
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxONk5aSDNOeHJQbkt3Z1lYWW1EV3gxMHluVVVoWXdmRDVJUUhGRW92bmJvcl9acTZiQTFXQ05RdDRYQWNMd0k5dWdXVXFsbTJYX0U0MFAxYWwwOGx2NlROS3RHUHBCOXdHb1o1V2k4WG9URW9JYnowVlRWeHNGU3lyMm40UXdDeVhXT2cyTWtBdUl1UWYwUmRRNEVyZ3lObVhob1RXMXIycmpGbkhiR1E?oc=5
 
-- Anthropic and US govt officials hold talks as AI export controls remain in place
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-us-govt-hold-talks-ai-export-controls-10742216/
+- Introducing SPECS Augmented Reality Glasses - Snap Newsroom
+  Introducing SPECS
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1NVTFCa1hKT2kyTWJ5MmpGSXBsV0JMZm0tYlJrOVd0ZGRPOElxbHg5ZlNMdzV5UERJSkYwVzFmN0lfVUwzZHBsaUtqemRtVEptLS1BVGUxeDJDb2EzNjBjVExtVHdNWHFFa1h1QUdVYXU1ZGhoZnJOVg?oc=5
 
-- Why you might have to wait until 2027 to buy standard iPhone 18
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-you-might-have-to-wait-until-2027-to-buy-standard-iphone-18-10741950/
+- Bharat Innovates 2026 Day Two Focuses on Investor-Startup Engagement - PIB
+  Bharat Innovates 2026
+  🔗 https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Z0s0TFcwX1ZmRjVfUVBKOEt3TkprR09QU2tQN3VraWdTdU02aTVVYndOUUs3NXUtMXBrbVFjRkd6UEdBaDZIQ2Q3eUNoNFIxdDZUaERQelhwbDExMHhtWDEzWW9lenhpU3RqekNZdXZWQ3VpN1JVc1Q0cw?oc=5
 
-- This open-source macOS app aims to simplify USB-C cable confusion
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/this-open-source-macos-app-aims-to-simplify-usb-c-cable-confusion-10742034/
+- ISRO Scientists Launch Space Technology & Research Program 2026 at Chandigarh University - Yahoo Finance
+  ISRO Scientists Launch Space Technology & Research Program 2026
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOQnJEMl9Id1RBN3hQNHc4SGsyTGp1VVhucnZWX051ZTNJNTlSbEpzWUdhdnVkbVFtSXI3Tk8yNW9NSVU2MFFrbU9XMHUxTHN1dUhmSExoT2kxMWJKcnVpMzFMYWhIWklvc0lKODM0NVA2UTl5Rm41bjFuOWdRbktqRUQ2ZjFjQzJVM0JLZVhEdkxOWTVoLXpBb1RsRkM5WGU3NHc?oc=5
 
-- Meta brings AI Mode to Facebook, drawing on public content across the platform
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-brings-ai-mode-to-facebook-drawing-on-public-content-across-the-platform-10741815/
+- 3D multi-omics tumour atlases: from technology to biology and clinical translation - Nature
+  3D multi-omics tumour atl
+  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRDlXcU5ZS0g5T2Z5SGNTWnhOcWNDVFhJLVZZZ1pOSWctMmdzNkIzZjFCdTZudUNfdVNrZ05TdGJNRGE2YlhoRUtjREZmeGE0eHNXYVlLZHU3alJodXdn?oc=5
 
-- Biocon eyes crown of world’s top insulin supplier amid rush for GLP-1
-  Biocon is currently the third-largest insulin supplier by volume. It has invested
-  🔗 https://www.livemint.com/companies/news/biocon-eyes-crown-of-world-s-largest-insulin-supplier-as-big-pharma-shifts-focus-to-glp1-11781595766183.html
+- Lutnick’s Letter to Anthropic Warned of Curbs on Top AI Models
+  US Commerce Secretary Howard Lutnick warned Anthropic PBC last week that it would need government permission to grant foreign nationals access to its most advanced AI models.
+  🔗 https://www.livemint.com/companies/lutnicks-letter-to-anthropic-warned-of-curbs-on-top-ai-models-11781637283517.html
 
-- Lighthouse, Multiples, Motilal PE eye minority stake in safety gear maker Karam
-  Karam is in talks to raise $70-100 million from private equity investors at a valuation of up to
-  🔗 https://www.livemint.com/companies/karam-private-equity-lighthouse-funds-multiples-motilal-oswal-alternates-ey-industrial-safety-gear-ppe-11781576490132.html
+- KIMS offers 20 mn fresh shares to institutions in a bid to raise  ₹1,500 crore
+  KIMS launched a  ₹1,500 crore QIP on Tuesday, offering 19.86 million fresh shares. Most of the proceeds will retire debt at the listed entity and three
+  🔗 https://www.livemint.com/companies/kims-offers-fresh-shares-to-raise-1-500-crore-healthcare-krishna-institute-of-medical-sciences-11781627261678.html
 
-- Reits, InvITs to double AUM to  ₹20 trillion by 2030
-  Reits and InvITs could see AUM double to over  ₹20 trillion by 2030
-  🔗 https://www.livemint.com/companies/news/reits-invits-to-double-aum-to-20-trillion-by-2030-11781461515698.html
+- Karnataka HC says ED acted illegally in arresting Gameskraft founders, orders immediate release
+  Justice M Nagaprasanna passed the order
+  🔗 https://www.livemint.com/companies/news/karnataka-hc-says-ed-acted-illegally-in-arresting-gameskraft-founders-orders-immediate-release-11781630694771.html
 
-- How quick commerce is helping consumer startups grow faster than ever
-  Rise of quick-commerce platforms such as Blinkit, Zepto and Swiggy Instamart, alongside creator-
-  🔗 https://www.livemint.com/companies/venture-capital-online-brands-quick-commerce-startups-india-blinkit-zepto-swiggy-instamart-11781492042888.html
+- Amazon India's Amit Nanda replaces Hari Menon as BigBasket CEO
+  BigBasket appoints Amazon India’s Amit Nanda as its first external CEO.
+  🔗 https://www.livemint.com/companies/start-ups/bigbasket-new-ceo-amazon-amit-nanda-hari-menon-quick-commerce-bbnow-blinkit-swiggy-zomato-11781614669234.html
 
-- Studios in Microsoft’s Xbox Division Brace for Closures
-  The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox.
-  🔗 https://www.livemint.com/companies/studios-in-microsoft-s-xbox-division-brace-for-closures-11781556083890.html
+- Big tech is panicking about AI and terrifying young workers, says Microsoft's Brad Smith
+  Microsoft president Brad Smith says tech leaders are wrong, hypocritical, and harmful in how they talk about AI and jobs. Smith
+  🔗 https://www.livemint.com/companies/people/big-tech-is-panicking-about-ai-and-terrifying-young-workers-microsofts-brad-smith-11781616595342.html
 
-- Can Cera Sanitaryware’s growth recovery continue?
-  Cera stock has gained over 10% in the past month. If Cera succeeds in holding on to its market share
-  🔗 https://www.livemint.com/market/mark-to-market/cera-sanitaryware-share-price-brass-prices-faucetware-senator-polipluz-11781600991351.html
+- Gold rises over 1% as US-Iran peace deal optimism eases rate hike bets
+  Gold rises over 1% as US-
+  🔗 https://www.livemint.com/market/gold-rises-over-1-as-us-iran-peace-deal-optimism-eases-rate-hike-bets-11781638206901.html
 
-- Sensex extends bull run to third day on US-Iran peace deal, jumps 540 points: 10 key highlights from Indian stock market
-  Investors cheered the US-Iran peace deal and a subsequent decline in
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-extends-bull-run-to-third-day-on-us-iran-peace-deal-jumps-540-points-10-key-highlights-from-indian-stock-market-11781604220081.html
+- Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open
+  Oil prices fall 5% to 3-month
+  🔗 https://www.livemint.com/market/oil-prices-fall-5-to-3-month-low-on-hopes-strait-of-hormuz-will-open-11781637470563.html
 
-- NSE launches 11 new sectoral indices; Nifty Power, Retail, Hospitals among additions
-  NSE Indices Limited has launched 11 new sectoral indices, increasing its total to 34. The new indices span key sectors like power and healthcare.
-  🔗 https://www.livemint.com/market/stock-market-news/nse-launches-11-new-sectoral-indices-nifty-power-retail-hospitals-among-additions-11781603756175.html
+- Dollar slips as markets wait on Warshs Fed debut
+  Dollar slips as
+  🔗 https://www.livemint.com/market/dollar-slips-as-markets-wait-on-warshs-fed-debut-11781637041647.html
 
-- US-Iran ceasefire deal: What does the reopening of Strait of Hormuz mean for the Indian stock market?
-  Oil marketing companies (OMCs) such as Indian Oil Corporation, BPCL, and HPCL could see an improvement in marketing margins as crude prices ease. The aviation sector is also likely to benefit significantly,
-  🔗 https://www.livemint.com/market/stock-market-news/us-iran-ceasefire-deal-what-does-the-reopening-of-strait-of-hormuz-mean-for-the-indian-stock-market-11781601523839.html
+- Crude tumbles from $113 to $83, but relief for India will have to wait
+  Lower crude prices may not immediately translate into lower inflation, stronger earnings or easier monetary policy. The latest oil shock is fading much faster than the Russia–Ukraine episode, reflecting greater confidence
+  🔗 https://www.livemint.com/market/crude-tumbles-from-113-to-83-but-relief-for-india-will-have-to-wait-11781604988533.html
 
-- USD vs INR: Rupee extends gain on US-Iran peace deal. Where's it headed next?
-  The rupee strengthened by 5 paise to 94.53 against the US dollar in early trading on Tuesday, 16 June.
-  🔗 https://www.livemint.com/market/stock-market-news/usd-vs-inr-rupee-extends-gain-on-us-iran-peace-deal-wheres-it-headed-next-11781596916452.html
+- Dawn of peace in West Asia: What can be the implications for investors?
+  With the potential end of conflict in West Asia, Indian markets may see a shift. Banking stocks could thrive, while capital goods and power sectors prepare to capitalise.
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-peace-deal-in-middle-east-what-can-be-the-implications-for-investors-after-crude-oil-prices-fall-rupee-rises-11781611041735.html
+
+- WWDC 2026: Apple reveals devices eligible for iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27
+  Apple's new software updates bring the Liquid Glass design and enhanced AI features. But advanced Siri AI capabilities will be limited to select high-end devices, including the iPhone 17 Pro lineup
+  🔗 https://www.livemint.com/technology/tech-news/wwdc-2026-apple-reveals-devices-eligible-for-ios-27-ipados-27-macos-27-golden-gate-and-watchos-27-11781617451321.html
 
 - Mint Explainer | Can connected cars help India cut road fatalities?
   Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive
@@ -96,129 +100,65 @@
   The platform is being actively distributed through Telegram channels. It is designed to help even low-skilled attackers conduct
   🔗 https://www.livemint.com/technology/tech-news/what-is-kali365-fbi-warns-telegram-based-phishing-service-targeting-microsoft-365-users-11781549456445.html
 
-- Microsoft CEO Satya Nadella issues stark warning on future of business – ‘AI firms could capture all the value’
-  Microsoft CEO Satya Nadella said companies will succeed in the AI era. He warned of a future in which a handful of AI providers capture most of the economic value.
-  🔗 https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html
-
-- Stock Market Today: SpaceX Rallies, Pointing to Third Day of Gains — Live Updates - WSJ
-  Stock Market Today: SpaceX Rallies, Pointing to
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3JuWE5sSFptVEZmYnZBejVQUExGc0NHWEp4SXhGQmtSRTdIQkZob1JLM3NFSVVoRkZ3dWlVU3lpRjVSMzN3ZmpCWEZzLWxRZFFyWUdFdVNTNUo2QTBocmtEaFJUaUU4emhZbnZodFhRcDR5alJ5UzBwekpEb2stMU1NSjFBaE0?oc=5
-
-- U.S. stock futures are flat after Dow record close on U.S.-Iran deal; SpaceX rallies again: Live updates - CNBC
-  U.S. stock futures are flat after Dow record close on U.
+- Dow jumps 350 points as oil drop fuels economy bets; Chip rollover knocks Nasdaq: Live updates - CNBC
+  The Dow jumped 350 points as oil drop fuels economy bets. Chip roll
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1jdXJkOFJXSFdYdlY4SWhBWjI3SDRSX29fSkdQYktfMFl3WjJCU2NxR1hISTVqQ2J2ZFlQQzc5Smh1Q292T0cyMWF2c2U0NjVHbVBuVXFGTThLZGFDYnlaVmpISzJwMFR4WU9oOE05aERRMGI4Q2lR0gF8QVVfeXFMTkh4UzZmNzg5Y0JSa0pMSjlpREJNZ2xtdWw5eExlenMzeUl6NnBsek5SR0dvRmlkZEMzbllvWGNhMjBGX054aldxRXpDeFZ4ZmFSUHFTZmZEbGo1Q1VZam96YU5oUHk5LW9DOTN1UXpJZjU2ckZhRnBsazJpbg?oc=5
 
-- Markets News, June 15, 2026: Stocks Surge, Oil Prices Tumble on U.S.-Iran Deal; SpaceX Stock Soars in Day 2 of Trading - Investopedia
-  Markets News, June 15, 2026: Stocks Surge, Oil Prices Tumble on
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTRMLTREVGkya0RTVTZGOE1Zak10bjR5QlIyMndmNTEyT1pjUG9LNWxWNFhDM3VscmxuWmc5WkZOT0lHWElLYXRpOTZTY3ZuX3gxbDJkNzVveXg1c0dsVHZoU05wTU41ZHh1bU9VTHpORHBVMkZuYVE3Y28zMm1scHJyRU5ETFF5LU1NSWRZSVY?oc=5
+- Stock Market Today: Dow Climbs; SpaceX Overtakes Amazon Market Cap — Live Updates - WSJ
+  SpaceX Shares Soar Again In Premarket—Nears $2.75 Trillion Market Cap.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3JuWE5sSFptVEZmYnZBejVQUExGc0NHWEp4SXhGQmtSRTdIQkZob1JLM3NFSVVoRkZ3dWlVU3lpRjVSMzN3ZmpCWEZzLWxRZFFyWUdFdVNTNUo2QTBocmtEaFJUaUU4emhZbnZodFhRcDR5alJ5UzBwekpEb2stMU1NSjFBaE0?oc=5
 
-- Wes Streeting Says Markets Aren’t Villains in Bid for UK Leadership - Bloomberg
-  Wes Streeting says Markets Aren’
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGhOeXkxV1p2MldEUFlmYVF4OV9nQlZIaVU1SnNMQXMxZFg5d2h6bk4zVWZJcVBkdy0yZHZzRGJEZENqM3hlUzkyUGREOXlIbVQycGdsRFVFT2lyakN2WWlTX1FfaFgtZTAycTBja0d6b0NHYjZDdFVCbmFoYXRRLWhwLXdObGVNeFROX0tsVlZGZFkzSDcxQUR1ak5sdEFId21tWFh5SkNNUFpiZkJQUHo1R3E?oc=5
+- Stock market today: Dow rises, S&P 500 and Nasdaq drift ahead of Warsh's first Fed meeting as chair - Yahoo Finance Singapore
+  Warsh's first Fed meeting as chair will take place on Wednesday.
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUlXbzE4S25sUDRDVUNJT2h6U3RXaTVDYi0zTXZUa204dXN1aGtpWVZWdFpqWmx1MnRhR0JEWEZVMkd3Y0VaMVdiUUpPTU1MdmhqZlRaNHlVcUZWLU85NWs5RFhEZW9DTUxFSUs4b0twQ3M1elEtUWlrUTlsd3BabW5DVzRDMVJGcG5hRm1Ndnd1Tkk5bzZqRTZxQU1PaU1aRlE1OXlZbzljSzJwTmdPZF9zTlhzYkxxWTFkTlMtRHloTEluVGduZDBudDhnYkk?oc=5
 
-- Closing Bell: Nifty nears 24,000, Sensex climbs 544 pts; IT, FMCG and realty lead gains - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2dkLVV2T3E2VE9iY3J4eTFUVEZKVk9aTmJIclJoODZMb0dOcm5YYTVDbnBXV3dSM01mTHU5QmNlWTV0SDU5cnBvVEJ5bjJoZW45dzE3Qm5ZZlF3VTY0VzJqWGVqb2g1Wk
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2dkLVV2T3E2VE9iY3J4eTFUVEZKVk9aTmJIclJoODZMb0dOcm5YYTVDbnBXV3dSM01mTHU5QmNlWTV0SDU5cnBvVEJ5bjJoZW45dzE3Qm5ZZlF3VTY0VzJqWGVqb2g1WkVZVGRiQndCZnZib1JrcHhIN2JXeWR4c1puaFZFVEptZW1jdE5GbjlmbWdPYmNYMmZqdWNXbXVPNXUxYW55TUVXTHhSenBoTjhSMjBBYWRaZzVaaGFncjRqX0hzUVpsSHlpdm9xQllHRUtBNmRjRVZWVEFDaWRoM0o1SjI4Umh6cUgtdGVyd0ZwNEg2a09lU1VIMUMyemFrTVBLcHJUenRpcWthc1VxdWtVMNIBmAJBVV95cUxOT3BoTTBpa2lzZW1PdU03QVlpMWR3RDBlMVhFcGZPM20wVmgtWUJtTURXQ0Q0enN5YVg1eWxXbl9JS3ZfM1JCdVhSbjJTbzQyankwSTZhMmEzdnBGLVZGM19pV2JGNXVQeXlvQ09QZXZ2MFdoUTYtdVVmd29wN3F4b2VBYXlaMUNlWnBNQUJhN2VFNER5NjhTYzd6dUx1cDFLUXl1ZWE1bUVSQm1IeWoydEtodUs3eU9WVGhCYmY0SEdzTkpOTi13QjRlbTBiTTNKOFRwYmtvczYzLW5LNXppOXZNMXFEYTdIQU5Tek1xdlduVTMxTERaY3NnLUx2WG44Q3NiSEN4TEFodDlYX2U2OExwb3hMdlpn?oc=5
+- Stock Market Today: Dow Hits Record, Tech Stocks Slip as Fed Meeting Begins; SpaceX Stock Soars on Cursor Deal - Investopedia
+  Stock Market Today: Dow Hits Record, Tech Stocks Slip as Fed Meeting Begins.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQMG5EYjJQMUVIeWc0bHFsWWZ3eDdQTVB1b1E1NEV1UVlrR2YzekVQWndrSHk3TTBaSlJJOG9WTjNVQXY0YUlac3JMd3o3WXFYZmtpdy1uajM1VWtybFlVN2VINVVwaEREODFlRTV0Z0ZYV21WRUlFMmZBYjdkbWRZN2FNUVhRU0pjUjVvaUhQemc?oc=5
 
-- Arvind SmartSpaces eyes Rs 180 cr revenue from housing project in Ahmedabad
-  Arvind SmartSpaces Ltd is embarking on a new chapter in Ahmedabad by partnering with a landowner for an ambitious residential development on Kerala-Nalsarovar Road. This strategic collaboration is expected to unlock a revenue potential
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/arvind-smartspaces-eyes-rs-180-cr-revenue-from-housing-project-in-ahmedabad/articleshow/131768223.cms
+- ChatGPT’s market share slips below 50% for first time - TechCrunch
+  ChatGPT’s market
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzJUMmlQOUlIWVVXUWJpUTJxem1pb1NNYjR5NG81TDB5WTdfeXhjOUlyZm15eElhOU5rdUJmb3Y2MUZWbUNFV1Y1N1lrRWJZVWpOOHBqNzNlMjRIWndla0NOMWpFckNDTUtGS0RfLUhfNUp4T3dMVFZGenVweU94QmVfUGp3MDZWQ0JjVEpZUQ?oc=5
 
-- Rupee closes at 94.56 vs USD; US-Iran peace agreement details, Fed guidance awaited
-  The Indian rupee strengthened for the third day in a row. This rise was supported by positive sentiment and anticipation of a U.S.-Iran peace agreement. Lower oil prices also boosted the rupee.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-56-vs-usd-us-iran-peace-agreement-details-fed-guidance-awaited/articleshow/131768195.cms
+- US stocks: Nasdaq and S&amp;P 500 slip while Dow hits record high ahead of Fed rate decision
+  Technology stocks pressured the Nasdaq and S&amp;P 500 lower on Tuesday. Dow Jones Industrial Average achieved its second consecutive record close. Investors digested Monday's rally and anticipated the Federal Reserve's policy update.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-and-sp-500-slip-while-dow-hits-record-high-ahead-of-fed-rate-decision/articleshow/131781287.cms
 
-- InvIT market expands with new listings; cumulative distributions top Rs 91,000 crore
-  India’s InvIT sector recorded strong growth in FY26, with Rs 7,719 crore distributed in Q4 alone. Assets under management rose to Rs 7.1 lakh crore.
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/invit-market-expands-with-new-listings-cumulative-distributions-top-rs-91000-crore/articleshow/131767803.cms
+- SpaceX options trading debut draws record volume as investors chase rocket stock
+  SpaceX options trading saw massive investor interest on Tuesday. Over half a million contracts traded in the first hour. This made SpaceX the most heavily traded company ever.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-options-trading-debut-draws-record-volume-as-investors-chase-rocket-stock/articleshow/131777130.cms
 
-- Liotech Industries Rs 36-cr IPO to open on Wednesday
-  Liotech Industries is launching its Rs 36 crore initial public offering on June 17. The bidding will be open until June 19. Shares are expected to list on the BSE SME on June 24.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/liotech-industries-rs-36-cr-ipo-to-open-on-wednesday/articleshow/131767007.cms
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex and Nifty rise on optimism over Iran-US peace framework and lower oil prices. Broad-based buying in IT, realty, FMCG and oil &amp; gas
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131776215.cms
 
-- IPO: 23 firms launch public issues worth Rs 27,000 cr in 2026; 236 proposals remain in pipeline
-  India's IPO market saw a slowdown in 2026 following a robust 2025. However, activity is picking up with several companies set to launch public issues this month.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-23-firms-launch-public-issues-worth-rs-27000-cr-in-2026-236-proposals-remain-in-pipeline/articleshow/131766712.cms
+- Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday
+  Indian equities extended their recovery as easing US-Iran tensions and softer crude prices supported sentiment. Analysts highlighted Titagarh Rail, Rane Holdings, Bandhan Bank,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms
 
-- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
-  Dhaka Summons Indian Envoy After Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
+- US stocks: SpaceX nears $3 trillion valuation, overtakes Amazon and Microsoft in market value
+  SpaceX shares surged over 14% Tuesday, briefly surpassing Amazon and challenging Microsoft with a nearly $2.9 trillion valuation. The rally, fueled by options trading and anticipation of index inclusion, saw the stock climb significantly from its IPO
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-vaults-past-microsoft-and-amazons-market-value-as-post-ipo-momentum-builds/articleshow/131774741.cms
 
-- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
-  Telegram has been banned in India to tackle
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
-
-- Telegram app restricted in India at NTA request until June 21 - The Hindu
-  Telegram app restricted in India at NTA request
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
-
-- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
-  India's solution to entrance exam fraud: A
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
-
-- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
-  The Trinamool Congress is
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
+- ‘My voice is being heard’: A month of India’s Cockroach Janta Party - Al Jazeera
+  ‘My voice is being heard’: A
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2R0S3Y2c3ZsVGVUVDR5V3ptaVZUazgzTlh0Umo5ZFl5QjZvcHdJTTRyYlYtMXY5dVhKellqckljU0lfeTRaSVJ1QkZIN0VDR1Z1OVlNanBXMmcyN2ludnlxZlJRbWFEdk1ac0VBUDZLd1VFellZcnYyZkpsdGczOXlOZjdOSnVMZUVrWGExTHNlb1l6Q1lDdDhPYW9uNTlpdkVERkNld9IBrAFBVV95cUxOclBXXy10M1NwVEQ2cXczdGVIRk40NnJsU2JTY0FVQlozcDAtR1VFdlM1YnVaSXJjZmZYdEZQN2hvdDY5VTFCRVN0WDR0U2FvcGRUZlRLWXZkQnROZ2lwZDl3bjdzaVgyLWhjdW55dDNFaHlkZG9yNWhtWTM5YWkwVWhDMTFPRllRcmg4VkxwTkNXWVRTWlladU5sdFM0X25NTl8zUTdDZFVwZmd4?oc=5
 
 - Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
   Dhaka Summons Indian Envoy After Bangladesh
   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
-  Telegram has been banned in India to tackle
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
+- 'Dancing girl's' bare torso restored in Indian textbook after backlash - BBC
+  'Dancing girl's' bare torso
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE85WWZkVzk3UHlYbi1DRlo5TXpib0ZrTlkxSVpSbzc0SWpURXF0NkNFaTZid3YxMDZ4TEszSW0tNndpenRiNUNXaVNvTmp5WDBDWG9PcjgyV2w2Zw?oc=5
 
-- Telegram app restricted in India at NTA request until June 21 - The Hindu
-  Telegram app restricted in India at NTA request
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
+- PM Modi participates in high-level G7 working session in Evian - Newsonair
+  PM Modi participates in high-level G
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWV4dUczaFZ4UXZnMUF0Nm1YN05SbDA3RTBNeFplSWZQd3lGNjllaUJtbWdCckxYUzZGY2J6VjJpSVRRZU52SFlOYXdPVEs1b0lpb2dCVFJJQWdzeS1FYXJOU3ZhTzNNbWpXZXlDR0Q3WmU0SUpCSzJpYXROV3phMA?oc=5
 
-- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
-  India's solution to entrance exam fraud: A
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
-
-- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
-  The Trinamool Congress is
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
-
-- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
-  Dhaka Summons Indian Envoy After Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
-
-- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
-  Telegram has been banned in India to tackle
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
-
-- Telegram app restricted in India at NTA request until June 21 - The Hindu
-  Telegram app restricted in India at NTA request
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
-
-- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
-  India's solution to entrance exam fraud: A
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
-
-- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
-  The Trinamool Congress is
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
-
-- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
-  Dhaka Summons Indian Envoy After Bangladesh
-  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
-
-- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
-  Telegram has been banned in India to tackle
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
-
-- Telegram app restricted in India at NTA request until June 21 - The Hindu
-  Telegram app restricted in India at NTA request
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
-
-- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
-  India's solution to entrance exam fraud: A
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
-
-- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
-  The Trinamool Congress is
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
+- Key Issues On Agenda For PM Modi, Donald Trump's Bilateral Tomorrow - NDTV
+  Key Issues On Agenda For PM Modi, Donald
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGRTRlJFVEQ4bV95cVNOaHl5NFhRX09KbzNDeVV0V0JRRlh6UHBpUkRGSTFNejN4Q0VGemd5Y0J3UnBjbnZnYlp1WGJ4bWRQZElDVzBGQVJHVXRrYXR1Z1lQZkQwOHRIREJZWGRrY3RObzdPd1hLZERxZUpsTEJfdWNIMDNRQ0VPVEVqM1ZVVklkOXgzZ3h5bGdiSlB3dzh1alQ5Yzh3LXA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-16 11:05:40 UTC_
+_Last updated: 2026-06-16 20:48:02 UTC_
