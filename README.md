@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- After two failed bids, ISRO to attempt another PSLV launch by June-end, early July
+- How this Chahttisgarh district is using a ‘5% model’ to boost groundwater
   
-  🔗 https://indianexpress.com/article/india/isro-pslv-launch-10741310/
+  🔗 https://indianexpress.com/article/india/chhattisgarh-districts-5-model-turns-water-conservation-into-a-movement-boosts-groundwater-levels-10741398/
 
-- Out on bail, Raushan Anand links brother’s death to ‘conspiracy’, accuses Khan Sir’s guards of ‘pressuring’ him
+- Woman sarpanch’s arrest, viral video: Behind Odisha’s latest political storm
   
-  🔗 https://indianexpress.com/article/india/raushan-anand-brother-death-conspiracy-khan-sir-10741290/
+  🔗 https://indianexpress.com/article/india/young-woman-sarpanchs-arrest-viral-hospital-video-behind-odishas-latest-political-storm-10741389/
 
-- Free bus travel for women in Kerala begins: Check eligibility and benefits
+- Over 2 months after contentious killing of Kashmiri man in ‘encounter’, his body is exhumed
   
-  🔗 https://indianexpress.com/article/india/free-bus-travel-for-women-in-kerala-begins-check-eligibility-and-benefits-10741175/
+  🔗 https://indianexpress.com/article/india/over-2-months-after-contentious-killing-of-kashmiri-man-in-encounter-his-body-is-exhumed-10741445/
 
-- Cockroach Janta Party founder Abhijeet Dipke slapped during Jaipur protest
+- Swedish Ambassador Jan Thesleff: ‘India, Sweden not competing with one another, we actually can complete one another’
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-founder-abhijeet-dipke-slapped-during-jaipur-protest-10740748/
+  🔗 https://indianexpress.com/article/india/swedish-ambassador-jan-thesleff-india-sweden-not-competing-with-one-another-we-actually-can-complete-one-another-10741416/
 
-- Tensions flare up in Imphal as large crowd surrounds premier hospital over treatment of injured Kuki men
+- India and Slovakia elevate bilateral  ties to ‘comprehensive partnership’
   
-  🔗 https://indianexpress.com/article/india/manipur-tensions-imphal-rims-hospital-protest-kuki-youths-firing-10740726/
+  🔗 https://indianexpress.com/article/india/india-and-slovakia-elevate-bilateral-ties-to-comprehensive-partnership-10741431/
 
 - Google ads hint at next Pixel drop with Screen Reactions, Gemini Omni features: Report
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sundar-pichai-stanford-university-highlights-from-commencement-speech-10740162/
 
+- Reits, InvITs to double AUM to  ₹20 trillion by 2030
+  Reits and InvITs could see AUM double to over  ₹20 trillion by 2030
+  🔗 https://www.livemint.com/companies/news/reits-invits-to-double-aum-to-20-trillion-by-2030-11781461515698.html
+
+- How quick commerce is helping consumer startups grow faster than ever
+  Rise of quick-commerce platforms such as Blinkit, Zepto and Swiggy Instamart, alongside creator-
+  🔗 https://www.livemint.com/companies/venture-capital-online-brands-quick-commerce-startups-india-blinkit-zepto-swiggy-instamart-11781492042888.html
+
 - Studios in Microsoft’s Xbox Division Brace for Closures
   The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox.
   🔗 https://www.livemint.com/companies/studios-in-microsoft-s-xbox-division-brace-for-closures-11781556083890.html
@@ -52,33 +60,25 @@
   US judge dismisses Musk
   🔗 https://www.livemint.com/companies/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai-11781551966211.html
 
-- India steps up farmland checks near Tata's iPhone parts factory in Bengaluru over groundwater contamination fears
-  Indian officials step up government checks on farmland surrounding Apple supplier Tata's iPhone parts factory near Bengaluru.
-  🔗 https://www.livemint.com/companies/news/india-steps-up-farmland-checks-near-tatas-iphone-parts-factory-in-bengaluru-over-groundwater-contamination-fears-11781541818802.html
+- Where will Zen Technologies share price be in the next 3 years?
+  Zen Technologies has given poor returns to investors in the last few months. We examine the prospects of the company in the
+  🔗 https://www.livemint.com/market/stock-market-news/zen-technologies-share-price-zen-technologies-stock-price-11781528909734.html
 
-- Anthropic AI subscription controversy: Lawsuit alleges deceptive marketing of Max 5x and Max 20x usage plans
-  The complaint alleges Anthropic “oversold the usage allowances” tied to its high-end
-  🔗 https://www.livemint.com/companies/news/anthropic-ai-subscription-controversy-lawsuit-alleges-deceptive-marketing-of-max-5x-and-max-20x-usage-plans-11781538306324.html
+- GIC share price in focus as OFS for non-retail investors opens today. Issue size, price, discount, other key details
+  The government on Monday announced the stake sale. It is aiming to divest up to 5% of its holding in the company
+  🔗 https://www.livemint.com/market/stock-market-news/gic-share-price-in-focus-as-ofs-for-non-retail-investors-opens-today-issue-size-price-discount-other-key-details-11781577041337.html
 
-- TSX hits record high as US-Iran deal boosts gold miners
-  TSX hits record high as US-
-  🔗 https://www.livemint.com/market/tsx-hits-record-high-as-us-iran-deal-boosts-gold-miners-11781555226359.html
+- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 16 June 2026
+  Chandan Taparia has recommended three stocks to buy today, 16 June 2026. Bharat Forge
+  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-16-june-2026-11781577112254.html
 
-- Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide
-  Wall Street rallies, Dow ends with record on US-
-  🔗 https://www.livemint.com/market/wall-street-rallies-dow-ends-with-record-on-us-iran-deal-oil-price-slide-11781553749031.html
+- Turtlemint Fintech IPO to open on June 19: Price band, issue size, and other details revealed; check IPO GMP
+  Turtlemint Fintech Solutions Limited plans to launch its IPO from June 19 to June 23, 2026. The IPO includes a fresh issue of  ₹660.72 crore
+  🔗 https://www.livemint.com/market/ipo/turtlemint-fintech-ipo-to-open-on-june-19-price-band-issue-size-and-other-details-revealed-check-ipo-gmp-11781577275574.html
 
-- Iran deal could expand market gains, with consumer shares, small caps seen benefiting
-  Iran deal could expand market gains, with consumer
-  🔗 https://www.livemint.com/market/iran-deal-could-expand-market-gains-with-consumer-shares-small-caps-seen-benefiting-11781553447327.html
-
-- SpaceX IPO Stress Tests Crypto’s Bid to Reinvent Stocks
-  Crypto firms have argued that blockchain technology could create markets for private companies long before they reach Wall Street. SpaceX provided the industry's biggest
-  🔗 https://www.livemint.com/market/spacex-ipo-stress-tests-crypto-s-bid-to-reinvent-stocks-11781548943844.html
-
-- India's $200 billion IT industry will be gone! Vinod Khosla warns AI agents can replace TCS, Infosys and Wipro's work
-  Vinod Khosla warns that India's IT and BPO sectors may face disruption from AI. While risks exist, he sees opportunities for AI deployment in various industries.
-  🔗 https://www.livemint.com/market/stock-market-news/indias-200-billion-it-industry-will-be-gone-vinod-khosla-warns-ai-agents-can-replace-tcs-infosys-and-wipros-work-11781543877556.html
+- West Texas Gas Rises Above Zero for First Time in Four Months
+   Drillers in the world’s largest shale field on Monday were paid for the natural gas they produced
+  🔗 https://www.livemint.com/market/west-texas-gas-rises-above-zero-for-first-time-in-four-months-11781577445032.html
 
 - Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models
   Cybersecurity executives urge the Trump administration
@@ -100,85 +100,153 @@
   OpenAI hit with multistate probe
   🔗 https://www.livemint.com/technology/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms-11781378372141.html
 
-- US stocks: US market rallies, Dow ends with record on US-Iran deal, oil price slide
-  Wall Street indexes surged Monday, with the Dow hitting a record high following a preliminary US-Iran agreement. This relief rally boosted rate-sensitive tech stocks and energy-dependent sectors like airlines.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rallies-dow-ends-with-record-on-us-iran-deal-oil-price-slide/articleshow/131754518.cms
+- Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace deal – as it happened - The Guardian
+  Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0RqX2JZTTY4X0RpWFNlb0JCYTNFcDVnTmo3UDdMZ2Y2Vm5FN092elpzQUVlWTNxZTdOdVNWNzQ3el9nWW9QbXBYYWxNaGR2cExBZHFXb09EY1JzeHVyZVEzNENwLVRfUHF2bkd1djFSdHVpYzF0M0ZHNnBJX1ZzU285eUJHUzc4NHdydjUzSnhSamw1dlpIM2RuSnM4VmQyY21GMzZVOWN6c3J6dk5PdjFIZDhWRUoxUXpYbnpGdEJSbUZnWUJrYlhseW0wYTJpM1h0Ykd2OWE?oc=5
 
-- US stocks: Nvidia’s jumbo bond sale draws $85 billion of investor demand
-  N Nvidia has secured approximately $85 billion in orders for its substantial debt offering. The chipmaking giant's bond sale is expected to be significantly larger than previous offerings.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-jumbo-bond-sale-draws-85-billion-of-investor-demand/articleshow/131751921.cms
+- Stock markets soar, oil falls as US and Iran announce framework to end war - Al Jazeera
+  The two countries have agreed to a framework to end their conflict.
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkIwZ3BGbEtQVlpMd2hsNjBRTGo3ckloaWxtWEV4dFF3dUpzQzVRNjNuY0FGd091UXJSc2xmLUt4SU9Oc05yQm5lY3BJYW12MFBLSHdVUFJWV0hGbm9odlFXV2F3Q2VlRmxMQUY4NEJDYnpoQm9sQl8zZWRyN0JCV3YyQU9yMmJiaHp2aDJWYmZuWXhoSnNxVmg1ODlybzdrSzBYbUZKZkxTZG_SAbABQVVfeXFMT3diT2hnTFBuekVmOEpUSkh5d3FITjBrVndZM0g2UVZXczl1ckJYbEJMcEdreUREaG9ZOW1TN3pNTzFzNC1QSFNaZ1BPUjNLYk92allOZnhEY3RqY3JBVV9xWk03amxWUEhVakpZdlNHeU84ZFBvV1Y4amZsTHJBSWl0ZGtxSTROdVh6OTI3bDFtSDRoTmdmSGhxeFUtRnNaZkEzZ1YtMExKaHlGOUJsOWg?oc=5
 
-- US stocks: SpaceX IPO haul rises to $85.7 billion after underwriters exercise greenshoe
-  SpaceX's initial public offering has raised a record $85.7 billion. Underwriters exercised an option to buy more shares after strong demand.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-ipo-haul-rises-to-85-7-billion-after-underwriters-exercise-greenshoe/articleshow/131749730.cms
+- Sensex Today | Stock Market Live: GIFT Nifty signals a muted opening; US, Asian markets gain - Moneycontrol.com
+  "Sensex Today: GIFT Nifty signals a muted opening;
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2dkLVV2T3E2VE9iY3J4eTFUVEZKVk9aTmJIclJoODZMb0dOcm5YYTVDbnBXV3dSM01mTHU5QmNlWTV0SDU5cnBvVEJ5bjJoZW45dzE3Qm5ZZlF3VTY0VzJqWGVqb2g1WkVZVGRiQndCZnZib1JrcHhIN2JXeWR4c1puaFZFVEptZW1jdE5GbjlmbWdPYmNYMmZqdWNXbXVPNXUxYW55TUVXTHhSenBoTjhSMjBBYWRaZzVaaGFncjRqX0hzUVpsSHlpdm9xQllHRUtBNmRjRVZWVEFDaWRoM0o1SjI4Umh6cUgtdGVyd0ZwNEg2a09lU1VIMUMyemFrTVBLcHJUenRpcWthc1VxdWtVMNIBmAJBVV95cUxOT3BoTTBpa2lzZW1PdU03QVlpMWR3RDBlMVhFcGZPM20wVmgtWUJtTURXQ0Q0enN5YVg1eWxXbl9JS3ZfM1JCdVhSbjJTbzQyankwSTZhMmEzdnBGLVZGM19pV2JGNXVQeXlvQ09QZXZ2MFdoUTYtdVVmd29wN3F4b2VBYXlaMUNlWnBNQUJhN2VFNER5NjhTYzd6dUx1cDFLUXl1ZWE1bUVSQm1IeWoydEtodUs3eU9WVGhCYmY0SEdzTkpOTi13QjRlbTBiTTNKOFRwYmtvczYzLW5LNXppOXZNMXFEYTdIQU5Tek1xdlduVTMxTERaY3NnLUx2WG44Q3NiSEN4TEFodDlYX2U2OExwb3hMdlpn?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Indian equities rallied sharply as an interim US-Iran peace framework eased geopolitical concerns and pushed oil prices lower. Improved inflation and interest-rate expectations lifted sentiment, helping Sensex and N
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131749233.cms
+- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher As Oil Falls To Three-Month Low - NDTV
+  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher As
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcllMTDhDV01idTEtd3JrUlUxWUlXQ1FpSFF0ZkV6YUFaNFFmekpBejRwbU1XYUpoY3dIbXpPWXotdzgta2h0eUlTel94QWttNFpSMFFyRjFMcmpOV21ZUTV4RzBrVEstcnJkUWJkWXRwWW9CdFJmellJM2hrbWgyam1TMFBnajhRYk9sWFlQV28tN1U1YkZfdndlb2tzbWt6RTZFYi1jNFJmTTJkMS1fSWdWT2NidjVMT0kyNEk2ckYxUTdXNTYzLWFNOTB5ekx0N2hYTdIB3AFBVV95cUxPM3ZvaG5mbXBLSGtCaXJoVVNWZnhYbkpKN2lUc0k5ZW5HWXU1VjQ2UDlXZV81dFp6QjkwU0xSejRpU0RXTFE1bnNycTktRTdibm1KQVBNU3MtYUIyUEdXbnpqa2pUWU9KYktDMEdyTXUyRzJtTFZ4YVJVaDJLcXFUaWxQSlRORGJUOXN4NXRISk1haE9LbVhuZ2xKWUk1SE9KbVFtTGpacDRSWkxpQzF6aFZVaXVRU0wzcUJwdkFJdTgyZk1DNG1mZ2Z5ZGpOMzdZU2VMU1Z3WElJUVlx?oc=5
 
-- Govt to sell up to 5% stake in insurer GIC via OFS
-  The Indian government is set to divest up to a 5% stake in General Insurance Corporation. The floor price is fixed at 352 Indian rupees per share. This move is part of a larger plan to meet public shareholding norms.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-5-stake-in-insurer-gic-via-ofs/articleshow/131749173.cms
+- Trade setup for June 16: Will NIFTY50 sustain the gains and close above 24,000? - Upstox
+  Trade setup for June 16: Will NIFTY50 sustain
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWkyZXhaczhkN0dhQzhRYmhINFYwejlsSjNoWlVRNnpqdnVndnpJS2I2RTdwYXYtaklCVlBDc0tXN2xuRzBBb2loZVJfRmxlZFRIdi11WHlEcEJPb3dybmJ0WFJyODRoSnpMS1FVZ2RucXhibVJnamtXU3NVcGlzMHFieGRSejY5c2NCRloxOUtkdEN3bU9pSEdpSzFIZk54SmoxMkJoeVVURlI4TmRMSWpVTlhsdy14SUpKRnR4ZnlwN0EtLTVzVEkwWmR0bEtRcFItXw?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- TCS Share Price Live Updates: TCS Market Close: Rs 2161.4
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-today-live-updates-16-jun-2026/liveblog/131757749.cms
 
-- PM Modi Shares A 'Nice' Selfie From A 'Nice' Meeting With Macron In Nice - NDTV
-  PM Modi Shares A 'Nice' Selfie From A '
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDJJSThpRUhxellxZDBpLTlkUXpWbTQ5c1d6WEVQWTV3alJGT0s3S0ExeTB4bzNmS2t0QVdmQ3ZPdFdTYUtJdVNzLUFnZ2pIb1dOVk8tSGxUTWpPa3NpUHFNdk5UTXNrQTJDMFpyb1V1dEFtRHJxcGVLX3ZUaWpRN25SVlV4Z05YRFJ6UlZQS3JJRURKcjg5Zk51YUdTNDBXZmxDUmdpSkUxUW5wQ2daNkpJSE1XbXNVdGZ6dUdVQ0lTTUtPV2U0RXJNLW5GdHVQdExDNDJXVFRLY0QwUm9jYUJvY0VlSDJNRnFnLWNrWdIB9wFBVV95cUxOeWlmRXdaRXhIRWlHdGFVZEk2azJ4ajJWZHBEVUF2NEtkRW1DNVI2Zy1nYUw2ZzhQemZMT2htMGZwU3BSOThmUlNKai00UHZ6WkpRMjh4NDJyOWhNd19Eb0ZwTTd4Y0xnYWlySUZvZFBOYnF1WXQzUnhpNkE1bU5ZYndsenFBXzc5OWpEclRLSlByb3NsU0xXZzUxUFlfeEI4ZDR1Vlg0eEx1Mjgwb0hWYUZBdXFkZVRuWnhQRDQyc08wZXJzMDNXY1JwMUxiQXBCMmhZeXVUeDYyaWhoQWdWS3htcm1yU1VVV3J3b0NWUm56T2dLNDRj?oc=5
+- Tech Mahindra Share Price Live Updates: Tech Mahindra's stock performance update
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-16-jun-2026/liveblog/131757656.cms
 
-- PM Modi Elevates India-Slovakia Ties To Comprehensive Partnership During Historic Bratislava Visit - The Times of India
-  PM Modi Elevates India-Slovakia Ties To Comprehensive
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTHZUdXdQZGN3V3pVR1h2bkxhNjhZYzRBOW13SE1lUkVUb1BvLUxveGh0M3NTelVDNGZjTXh0eEs4bmFobTRPRkotdnk2MkJZcEc1eFlSWmdkTjNTXzNOTzIwclRtZjJtTkhsa2Z5NWVlbDR0WC1DUk5fcUlDOXVxUGQ4bkdHWjVwSWkzdjV1Q1Q5WTY5M053TU51d2NacmlENW0zZ2VfX2xoUVBMMDRyQVVfSi1ROFdKakVkLVl3Q2Y4bWwwdW5uS3VhLWd3V2JsVXNNX3hGNTFIeVA5TUNiSnNDREVISURTTHlBM05ZWC1lYm1PM2VvckJZNlYtejQ?oc=5
+- Coal India Share Price Live Updates: Coal India  Trading Summary
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-live-updates-16-jun-2026/liveblog/131757652.cms
 
-- India, France adopt Innovation Roadmap 2030, Economic Security Dialogue - The Hindu
-  India, France adopt Innovation Roadmap 2030
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2V4azBBZk5icE1IdWJEdDF2Z0ltOXI0Ry1UTkc1WHhXTHp5Qk1nSkNidXoyM1FXWVJtN3ZTci1IUE5uUTZ3aWZjNFFYQmVNczFfaVktMkVDUURDdFZjb0xvSzJGVmNzUUxERGR5MDJ6blVSNldqWjl2cDVjelpKcVJKbU43WE5LY3M4b0NWdGtiaGh4VkxQLXFkbmdteXYtZktOUllJODJzdXc0eXR1aHBQcTdRZ2tacDk2Zi1fUFFNc0RHQU9F0gHOAUFVX3lxTE8zWlpIQXNuclNNLWZJUTEyWTJERVFJMElEWnplUU9pVTdGUFYxaXJzYmlmczZoYmR1Q1pTSWdjcl9aWUlOUXhlRjlwaFZxcFN3ZGh5ZmdFby1FWTVPd2NmdW9odTNGNzJubFNFWnRVb1dmRXlvazJqblVHQzhYYkxpZU5JNW5TTHdYOVVfZ2kwS05rZTAzNHc1NDFFRHBDNXc4U1pJTlAtTDVENEt0LWtfWFF5TWlDZU1BdjBHbl9FdFBfRjBHVURmNEEwMTNn?oc=5
+- UPL Share Price Live Updates: UPL stock price analysis
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-live-16-jun-2026/liveblog/131757648.cms
 
-- Delhi heatwave: The temperature in Indian capital showed 43.5C. Why did it feel hotter? - BBC
-  The temperature in Indian capital showed 43.5C.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUbGp0ZmJGaEZuRjRNNVRaYU9fR1dvMEpyTU9LejNwUktHalJRbnYyOWlzVmVQQXpIc1ZwT3NSLUxFcGdkYUNaMlpSY3U5MFI1VFJLTU9OYlhoUQ?oc=5
+- Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Trading Day Summary
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-16-jun-2026/liveblog/131757647.cms
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- India welcomes peace deal between Iran and the United States - Newsonair
+  India welcomes peace deal between Iran and the
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
 
-- PM Modi Shares A 'Nice' Selfie From A 'Nice' Meeting With Macron In Nice - NDTV
-  PM Modi Shares A 'Nice' Selfie From A '
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDJJSThpRUhxellxZDBpLTlkUXpWbTQ5c1d6WEVQWTV3alJGT0s3S0ExeTB4bzNmS2t0QVdmQ3ZPdFdTYUtJdVNzLUFnZ2pIb1dOVk8tSGxUTWpPa3NpUHFNdk5UTXNrQTJDMFpyb1V1dEFtRHJxcGVLX3ZUaWpRN25SVlV4Z05YRFJ6UlZQS3JJRURKcjg5Zk51YUdTNDBXZmxDUmdpSkUxUW5wQ2daNkpJSE1XbXNVdGZ6dUdVQ0lTTUtPV2U0RXJNLW5GdHVQdExDNDJXVFRLY0QwUm9jYUJvY0VlSDJNRnFnLWNrWdIB9wFBVV95cUxOeWlmRXdaRXhIRWlHdGFVZEk2azJ4ajJWZHBEVUF2NEtkRW1DNVI2Zy1nYUw2ZzhQemZMT2htMGZwU3BSOThmUlNKai00UHZ6WkpRMjh4NDJyOWhNd19Eb0ZwTTd4Y0xnYWlySUZvZFBOYnF1WXQzUnhpNkE1bU5ZYndsenFBXzc5OWpEclRLSlByb3NsU0xXZzUxUFlfeEI4ZDR1Vlg0eEx1Mjgwb0hWYUZBdXFkZVRuWnhQRDQyc08wZXJzMDNXY1JwMUxiQXBCMmhZeXVUeDYyaWhoQWdWS3htcm1yU1VVV3J3b0NWUm56T2dLNDRj?oc=5
+- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
+  &nbsp; Hindustan Times: What US-Iran
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
 
-- PM Modi Elevates India-Slovakia Ties To Comprehensive Partnership During Historic Bratislava Visit - The Times of India
-  PM Modi Elevates India-Slovakia Ties To Comprehensive
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTHZUdXdQZGN3V3pVR1h2bkxhNjhZYzRBOW13SE1lUkVUb1BvLUxveGh0M3NTelVDNGZjTXh0eEs4bmFobTRPRkotdnk2MkJZcEc1eFlSWmdkTjNTXzNOTzIwclRtZjJtTkhsa2Z5NWVlbDR0WC1DUk5fcUlDOXVxUGQ4bkdHWjVwSWkzdjV1Q1Q5WTY5M053TU51d2NacmlENW0zZ2VfX2xoUVBMMDRyQVVfSi1ROFdKakVkLVl3Q2Y4bWwwdW5uS3VhLWd3V2JsVXNNX3hGNTFIeVA5TUNiSnNDREVISURTTHlBM05ZWC1lYm1PM2VvckJZNlYtejQ?oc=5
-
-- India, France adopt Innovation Roadmap 2030, Economic Security Dialogue - The Hindu
-  India, France adopt Innovation Roadmap 2030
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2V4azBBZk5icE1IdWJEdDF2Z0ltOXI0Ry1UTkc1WHhXTHp5Qk1nSkNidXoyM1FXWVJtN3ZTci1IUE5uUTZ3aWZjNFFYQmVNczFfaVktMkVDUURDdFZjb0xvSzJGVmNzUUxERGR5MDJ6blVSNldqWjl2cDVjelpKcVJKbU43WE5LY3M4b0NWdGtiaGh4VkxQLXFkbmdteXYtZktOUllJODJzdXc0eXR1aHBQcTdRZ2tacDk2Zi1fUFFNc0RHQU9F0gHOAUFVX3lxTE8zWlpIQXNuclNNLWZJUTEyWTJERVFJMElEWnplUU9pVTdGUFYxaXJzYmlmczZoYmR1Q1pTSWdjcl9aWUlOUXhlRjlwaFZxcFN3ZGh5ZmdFby1FWTVPd2NmdW9odTNGNzJubFNFWnRVb1dmRXlvazJqblVHQzhYYkxpZU5JNW5TTHdYOVVfZ2kwS05rZTAzNHc1NDFFRHBDNXc4U1pJTlAtTDVENEt0LWtfWFF5TWlDZU1BdjBHbl9FdFBfRjBHVURmNEEwMTNn?oc=5
-
-- Delhi heatwave: The temperature in Indian capital showed 43.5C. Why did it feel hotter? - BBC
-  The temperature in Indian capital showed 43.5C.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUbGp0ZmJGaEZuRjRNNVRaYU9fR1dvMEpyTU9LejNwUktHalJRbnYyOWlzVmVQQXpIc1ZwT3NSLUxFcGdkYUNaMlpSY3U5MFI1VFJLTU9OYlhoUQ?oc=5
+- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
+  The Strait of Hormuz has been
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
 
 - "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
   "Situation Very Bad": Seafarers Claim
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
 
-- PM Modi Shares A 'Nice' Selfie From A 'Nice' Meeting With Macron In Nice - NDTV
-  PM Modi Shares A 'Nice' Selfie From A '
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaDJJSThpRUhxellxZDBpLTlkUXpWbTQ5c1d6WEVQWTV3alJGT0s3S0ExeTB4bzNmS2t0QVdmQ3ZPdFdTYUtJdVNzLUFnZ2pIb1dOVk8tSGxUTWpPa3NpUHFNdk5UTXNrQTJDMFpyb1V1dEFtRHJxcGVLX3ZUaWpRN25SVlV4Z05YRFJ6UlZQS3JJRURKcjg5Zk51YUdTNDBXZmxDUmdpSkUxUW5wQ2daNkpJSE1XbXNVdGZ6dUdVQ0lTTUtPV2U0RXJNLW5GdHVQdExDNDJXVFRLY0QwUm9jYUJvY0VlSDJNRnFnLWNrWdIB9wFBVV95cUxOeWlmRXdaRXhIRWlHdGFVZEk2azJ4ajJWZHBEVUF2NEtkRW1DNVI2Zy1nYUw2ZzhQemZMT2htMGZwU3BSOThmUlNKai00UHZ6WkpRMjh4NDJyOWhNd19Eb0ZwTTd4Y0xnYWlySUZvZFBOYnF1WXQzUnhpNkE1bU5ZYndsenFBXzc5OWpEclRLSlByb3NsU0xXZzUxUFlfeEI4ZDR1Vlg0eEx1Mjgwb0hWYUZBdXFkZVRuWnhQRDQyc08wZXJzMDNXY1JwMUxiQXBCMmhZeXVUeDYyaWhoQWdWS3htcm1yU1VVV3J3b0NWUm56T2dLNDRj?oc=5
+- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
+  All 20 Indian crew members of MT Jalveer safely return
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
 
-- PM Modi Elevates India-Slovakia Ties To Comprehensive Partnership During Historic Bratislava Visit - The Times of India
-  PM Modi Elevates India-Slovakia Ties To Comprehensive
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTHZUdXdQZGN3V3pVR1h2bkxhNjhZYzRBOW13SE1lUkVUb1BvLUxveGh0M3NTelVDNGZjTXh0eEs4bmFobTRPRkotdnk2MkJZcEc1eFlSWmdkTjNTXzNOTzIwclRtZjJtTkhsa2Z5NWVlbDR0WC1DUk5fcUlDOXVxUGQ4bkdHWjVwSWkzdjV1Q1Q5WTY5M053TU51d2NacmlENW0zZ2VfX2xoUVBMMDRyQVVfSi1ROFdKakVkLVl3Q2Y4bWwwdW5uS3VhLWd3V2JsVXNNX3hGNTFIeVA5TUNiSnNDREVISURTTHlBM05ZWC1lYm1PM2VvckJZNlYtejQ?oc=5
+- India welcomes peace deal between Iran and the United States - Newsonair
+  India welcomes peace deal between Iran and the
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
 
-- India, France adopt Innovation Roadmap 2030, Economic Security Dialogue - The Hindu
-  India, France adopt Innovation Roadmap 2030
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2V4azBBZk5icE1IdWJEdDF2Z0ltOXI0Ry1UTkc1WHhXTHp5Qk1nSkNidXoyM1FXWVJtN3ZTci1IUE5uUTZ3aWZjNFFYQmVNczFfaVktMkVDUURDdFZjb0xvSzJGVmNzUUxERGR5MDJ6blVSNldqWjl2cDVjelpKcVJKbU43WE5LY3M4b0NWdGtiaGh4VkxQLXFkbmdteXYtZktOUllJODJzdXc0eXR1aHBQcTdRZ2tacDk2Zi1fUFFNc0RHQU9F0gHOAUFVX3lxTE8zWlpIQXNuclNNLWZJUTEyWTJERVFJMElEWnplUU9pVTdGUFYxaXJzYmlmczZoYmR1Q1pTSWdjcl9aWUlOUXhlRjlwaFZxcFN3ZGh5ZmdFby1FWTVPd2NmdW9odTNGNzJubFNFWnRVb1dmRXlvazJqblVHQzhYYkxpZU5JNW5TTHdYOVVfZ2kwS05rZTAzNHc1NDFFRHBDNXc4U1pJTlAtTDVENEt0LWtfWFF5TWlDZU1BdjBHbl9FdFBfRjBHVURmNEEwMTNn?oc=5
+- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
+  &nbsp; Hindustan Times: What US-Iran
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
 
-- Delhi heatwave: The temperature in Indian capital showed 43.5C. Why did it feel hotter? - BBC
-  The temperature in Indian capital showed 43.5C.
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUbGp0ZmJGaEZuRjRNNVRaYU9fR1dvMEpyTU9LejNwUktHalJRbnYyOWlzVmVQQXpIc1ZwT3NSLUxFcGdkYUNaMlpSY3U5MFI1VFJLTU9OYlhoUQ?oc=5
+- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
+  The Strait of Hormuz has been
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+
+- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
+  "Situation Very Bad": Seafarers Claim
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+
+- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
+  All 20 Indian crew members of MT Jalveer safely return
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+
+- India welcomes peace deal between Iran and the United States - Newsonair
+  India welcomes peace deal between Iran and the
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+
+- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
+  &nbsp; Hindustan Times: What US-Iran
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+
+- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
+  The Strait of Hormuz has been
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+
+- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
+  "Situation Very Bad": Seafarers Claim
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+
+- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
+  All 20 Indian crew members of MT Jalveer safely return
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+
+- India welcomes peace deal between Iran and the United States - Newsonair
+  India welcomes peace deal between Iran and the
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+
+- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
+  &nbsp; Hindustan Times: What US-Iran
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+
+- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
+  The Strait of Hormuz has been
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+
+- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
+  "Situation Very Bad": Seafarers Claim
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+
+- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
+  All 20 Indian crew members of MT Jalveer safely return
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-15 20:53:12 UTC_
+_Last updated: 2026-06-16 03:36:48 UTC_
