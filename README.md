@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- How this Chahttisgarh district is using a ‘5% model’ to boost groundwater
+- Pune-Danapur Amrit Bharat Express: Train number, route, stops, frequency, time table
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-districts-5-model-turns-water-conservation-into-a-movement-boosts-groundwater-levels-10741398/
+  🔗 https://indianexpress.com/article/india/pune-danapur-amrit-bharat-express-train-number-route-stops-frequency-time-table-10742372/
 
-- Woman sarpanch’s arrest, viral video: Behind Odisha’s latest political storm
+- ‘PM Modi responsible’: Congress breaks silence on Ram Temple donation row
   
-  🔗 https://indianexpress.com/article/india/young-woman-sarpanchs-arrest-viral-hospital-video-behind-odishas-latest-political-storm-10741389/
+  🔗 https://indianexpress.com/article/india/ram-temple-donation-controversy-congress-ayodhya-fund-allegations-probe-10742371/
 
-- Over 2 months after contentious killing of Kashmiri man in ‘encounter’, his body is exhumed
+- 4 ‘Namo’ cities to be developed in Delhi-NCR, says Minister Manohar Lal
   
-  🔗 https://indianexpress.com/article/india/over-2-months-after-contentious-killing-of-kashmiri-man-in-encounter-his-body-is-exhumed-10741445/
+  🔗 https://indianexpress.com/article/india/4-namo-cities-delhi-ncr-rajasthan-minister-manohar-lal-10742318/
 
-- Swedish Ambassador Jan Thesleff: ‘India, Sweden not competing with one another, we actually can complete one another’
+- Annamalai questions ‘military-grade’ security for NEET retest: ‘Additional pressure on students’
   
-  🔗 https://indianexpress.com/article/india/swedish-ambassador-jan-thesleff-india-sweden-not-competing-with-one-another-we-actually-can-complete-one-another-10741416/
+  🔗 https://indianexpress.com/article/india/annamalai-slams-neet-military-grade-security-measures-10742199/
 
-- India and Slovakia elevate bilateral  ties to ‘comprehensive partnership’
+- TMC vs rebel MPs: Lok Sabha Speaker’s call awaited as Abhishek misses meeting
   
-  🔗 https://indianexpress.com/article/india/india-and-slovakia-elevate-bilateral-ties-to-comprehensive-partnership-10741431/
+  🔗 https://indianexpress.com/article/india/tmc-rebel-mps-merger-claim-om-birla-anti-defection-row-10742154/
 
-- Google ads hint at next Pixel drop with Screen Reactions, Gemini Omni features: Report
+- What is Helium-3, the $2,000/litre rare gas sparking a race to mine the Moon?
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-ads-next-pixel-drop-omni-ai-features-10740648/
+  🔗 https://indianexpress.com/article/technology/science/what-is-helium-3-the-2000-litre-rare-gas-sparking-a-race-to-mine-the-moon-10742268/
 
-- UK PM Starmer announces social media ban for under-16 users: Which platforms will be affected?
+- Anthropic and US govt officials hold talks as AI export controls remain in place
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/uk-pm-social-media-ban-under-16-what-changes-10740548/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-us-govt-hold-talks-ai-export-controls-10742216/
 
-- Is washing rice before cooking good or bad? Here’s what a new study says
+- Why you might have to wait until 2027 to buy standard iPhone 18
   
-  🔗 https://indianexpress.com/article/technology/science/wash-rice-before-cooking-benefits-risks-explained-10740378/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/why-you-might-have-to-wait-until-2027-to-buy-standard-iphone-18-10741950/
 
-- These 5 workplace skills are hardest for AI to replace, new study finds
+- This open-source macOS app aims to simplify USB-C cable confusion
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/5-workplace-skills-ai-replace-new-study-10740328/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/this-open-source-macos-app-aims-to-simplify-usb-c-cable-confusion-10742034/
 
-- Why Sundar Pichai avoided talking about AI at Stanford: 5 key highlights from his commencement speech
+- Meta brings AI Mode to Facebook, drawing on public content across the platform
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sundar-pichai-stanford-university-highlights-from-commencement-speech-10740162/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-brings-ai-mode-to-facebook-drawing-on-public-content-across-the-platform-10741815/
+
+- Biocon eyes crown of world’s top insulin supplier amid rush for GLP-1
+  Biocon is currently the third-largest insulin supplier by volume. It has invested
+  🔗 https://www.livemint.com/companies/news/biocon-eyes-crown-of-world-s-largest-insulin-supplier-as-big-pharma-shifts-focus-to-glp1-11781595766183.html
+
+- Lighthouse, Multiples, Motilal PE eye minority stake in safety gear maker Karam
+  Karam is in talks to raise $70-100 million from private equity investors at a valuation of up to
+  🔗 https://www.livemint.com/companies/karam-private-equity-lighthouse-funds-multiples-motilal-oswal-alternates-ey-industrial-safety-gear-ppe-11781576490132.html
 
 - Reits, InvITs to double AUM to  ₹20 trillion by 2030
   Reits and InvITs could see AUM double to over  ₹20 trillion by 2030
@@ -52,33 +60,33 @@
   The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox.
   🔗 https://www.livemint.com/companies/studios-in-microsoft-s-xbox-division-brace-for-closures-11781556083890.html
 
-- Wisconsin beagle research facility that drew protests is closing as rescue group takes in dogs
-  Wisconsin beagle research facility that drew protests is closing
-  🔗 https://www.livemint.com/companies/wisconsin-beagle-research-facility-that-drew-protests-is-closing-as-rescue-group-takes-in-dogs-11781555344559.html
+- Can Cera Sanitaryware’s growth recovery continue?
+  Cera stock has gained over 10% in the past month. If Cera succeeds in holding on to its market share
+  🔗 https://www.livemint.com/market/mark-to-market/cera-sanitaryware-share-price-brass-prices-faucetware-senator-polipluz-11781600991351.html
 
-- US judge dismisses Musks xAI trade secret lawsuit against OpenAI
-  US judge dismisses Musk
-  🔗 https://www.livemint.com/companies/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai-11781551966211.html
+- Sensex extends bull run to third day on US-Iran peace deal, jumps 540 points: 10 key highlights from Indian stock market
+  Investors cheered the US-Iran peace deal and a subsequent decline in
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-extends-bull-run-to-third-day-on-us-iran-peace-deal-jumps-540-points-10-key-highlights-from-indian-stock-market-11781604220081.html
 
-- Where will Zen Technologies share price be in the next 3 years?
-  Zen Technologies has given poor returns to investors in the last few months. We examine the prospects of the company in the
-  🔗 https://www.livemint.com/market/stock-market-news/zen-technologies-share-price-zen-technologies-stock-price-11781528909734.html
+- NSE launches 11 new sectoral indices; Nifty Power, Retail, Hospitals among additions
+  NSE Indices Limited has launched 11 new sectoral indices, increasing its total to 34. The new indices span key sectors like power and healthcare.
+  🔗 https://www.livemint.com/market/stock-market-news/nse-launches-11-new-sectoral-indices-nifty-power-retail-hospitals-among-additions-11781603756175.html
 
-- GIC share price in focus as OFS for non-retail investors opens today. Issue size, price, discount, other key details
-  The government on Monday announced the stake sale. It is aiming to divest up to 5% of its holding in the company
-  🔗 https://www.livemint.com/market/stock-market-news/gic-share-price-in-focus-as-ofs-for-non-retail-investors-opens-today-issue-size-price-discount-other-key-details-11781577041337.html
+- US-Iran ceasefire deal: What does the reopening of Strait of Hormuz mean for the Indian stock market?
+  Oil marketing companies (OMCs) such as Indian Oil Corporation, BPCL, and HPCL could see an improvement in marketing margins as crude prices ease. The aviation sector is also likely to benefit significantly,
+  🔗 https://www.livemint.com/market/stock-market-news/us-iran-ceasefire-deal-what-does-the-reopening-of-strait-of-hormuz-mean-for-the-indian-stock-market-11781601523839.html
 
-- Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 16 June 2026
-  Chandan Taparia has recommended three stocks to buy today, 16 June 2026. Bharat Forge
-  🔗 https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-16-june-2026-11781577112254.html
+- USD vs INR: Rupee extends gain on US-Iran peace deal. Where's it headed next?
+  The rupee strengthened by 5 paise to 94.53 against the US dollar in early trading on Tuesday, 16 June.
+  🔗 https://www.livemint.com/market/stock-market-news/usd-vs-inr-rupee-extends-gain-on-us-iran-peace-deal-wheres-it-headed-next-11781596916452.html
 
-- Turtlemint Fintech IPO to open on June 19: Price band, issue size, and other details revealed; check IPO GMP
-  Turtlemint Fintech Solutions Limited plans to launch its IPO from June 19 to June 23, 2026. The IPO includes a fresh issue of  ₹660.72 crore
-  🔗 https://www.livemint.com/market/ipo/turtlemint-fintech-ipo-to-open-on-june-19-price-band-issue-size-and-other-details-revealed-check-ipo-gmp-11781577275574.html
+- Mint Explainer | Can connected cars help India cut road fatalities?
+  Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive
+  🔗 https://www.livemint.com/technology/auto-industry-india-tech-companies-india-road-accidents-india-v2x-spectrum-11781592441642.html
 
-- West Texas Gas Rises Above Zero for First Time in Four Months
-   Drillers in the world’s largest shale field on Monday were paid for the natural gas they produced
-  🔗 https://www.livemint.com/market/west-texas-gas-rises-above-zero-for-first-time-in-four-months-11781577445032.html
+- Indias 5G subscriptions to reach 1.1 billion by 2031, says Ericsson report
+  India's 5G subscriptions to reach
+  🔗 https://www.livemint.com/technology/indias-5g-subscriptions-to-reach-1-1-billion-by-2031-says-ericsson-report-11781599429754.html
 
 - Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models
   Cybersecurity executives urge the Trump administration
@@ -92,133 +100,125 @@
   Microsoft CEO Satya Nadella said companies will succeed in the AI era. He warned of a future in which a handful of AI providers capture most of the economic value.
   🔗 https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html
 
-- PM-WANI reforms to enhance adoption of public Wi-Fi, boost internet accessibility: Experts
-  PM-WANI reforms to enhance
-  🔗 https://www.livemint.com/technology/pmwani-reforms-to-enhance-adoption-of-public-wi-fi-boost-internet-accessibility-experts-11781524769149.html
+- Stock Market Today: SpaceX Rallies, Pointing to Third Day of Gains — Live Updates - WSJ
+  Stock Market Today: SpaceX Rallies, Pointing to
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3JuWE5sSFptVEZmYnZBejVQUExGc0NHWEp4SXhGQmtSRTdIQkZob1JLM3NFSVVoRkZ3dWlVU3lpRjVSMzN3ZmpCWEZzLWxRZFFyWUdFdVNTNUo2QTBocmtEaFJUaUU4emhZbnZodFhRcDR5alJ5UzBwekpEb2stMU1NSjFBaE0?oc=5
 
-- OpenAI hit with multistate probe into possible user harm as its IPO looms
-  OpenAI hit with multistate probe
-  🔗 https://www.livemint.com/technology/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms-11781378372141.html
+- U.S. stock futures are flat after Dow record close on U.S.-Iran deal; SpaceX rallies again: Live updates - CNBC
+  U.S. stock futures are flat after Dow record close on U.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1jdXJkOFJXSFdYdlY4SWhBWjI3SDRSX29fSkdQYktfMFl3WjJCU2NxR1hISTVqQ2J2ZFlQQzc5Smh1Q292T0cyMWF2c2U0NjVHbVBuVXFGTThLZGFDYnlaVmpISzJwMFR4WU9oOE05aERRMGI4Q2lR0gF8QVVfeXFMTkh4UzZmNzg5Y0JSa0pMSjlpREJNZ2xtdWw5eExlenMzeUl6NnBsek5SR0dvRmlkZEMzbllvWGNhMjBGX054aldxRXpDeFZ4ZmFSUHFTZmZEbGo1Q1VZam96YU5oUHk5LW9DOTN1UXpJZjU2ckZhRnBsazJpbg?oc=5
 
-- Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace deal – as it happened - The Guardian
-  Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0RqX2JZTTY4X0RpWFNlb0JCYTNFcDVnTmo3UDdMZ2Y2Vm5FN092elpzQUVlWTNxZTdOdVNWNzQ3el9nWW9QbXBYYWxNaGR2cExBZHFXb09EY1JzeHVyZVEzNENwLVRfUHF2bkd1djFSdHVpYzF0M0ZHNnBJX1ZzU285eUJHUzc4NHdydjUzSnhSamw1dlpIM2RuSnM4VmQyY21GMzZVOWN6c3J6dk5PdjFIZDhWRUoxUXpYbnpGdEJSbUZnWUJrYlhseW0wYTJpM1h0Ykd2OWE?oc=5
+- Markets News, June 15, 2026: Stocks Surge, Oil Prices Tumble on U.S.-Iran Deal; SpaceX Stock Soars in Day 2 of Trading - Investopedia
+  Markets News, June 15, 2026: Stocks Surge, Oil Prices Tumble on
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTRMLTREVGkya0RTVTZGOE1Zak10bjR5QlIyMndmNTEyT1pjUG9LNWxWNFhDM3VscmxuWmc5WkZOT0lHWElLYXRpOTZTY3ZuX3gxbDJkNzVveXg1c0dsVHZoU05wTU41ZHh1bU9VTHpORHBVMkZuYVE3Y28zMm1scHJyRU5ETFF5LU1NSWRZSVY?oc=5
 
-- Stock markets soar, oil falls as US and Iran announce framework to end war - Al Jazeera
-  The two countries have agreed to a framework to end their conflict.
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkIwZ3BGbEtQVlpMd2hsNjBRTGo3ckloaWxtWEV4dFF3dUpzQzVRNjNuY0FGd091UXJSc2xmLUt4SU9Oc05yQm5lY3BJYW12MFBLSHdVUFJWV0hGbm9odlFXV2F3Q2VlRmxMQUY4NEJDYnpoQm9sQl8zZWRyN0JCV3YyQU9yMmJiaHp2aDJWYmZuWXhoSnNxVmg1ODlybzdrSzBYbUZKZkxTZG_SAbABQVVfeXFMT3diT2hnTFBuekVmOEpUSkh5d3FITjBrVndZM0g2UVZXczl1ckJYbEJMcEdreUREaG9ZOW1TN3pNTzFzNC1QSFNaZ1BPUjNLYk92allOZnhEY3RqY3JBVV9xWk03amxWUEhVakpZdlNHeU84ZFBvV1Y4amZsTHJBSWl0ZGtxSTROdVh6OTI3bDFtSDRoTmdmSGhxeFUtRnNaZkEzZ1YtMExKaHlGOUJsOWg?oc=5
+- Wes Streeting Says Markets Aren’t Villains in Bid for UK Leadership - Bloomberg
+  Wes Streeting says Markets Aren’
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGhOeXkxV1p2MldEUFlmYVF4OV9nQlZIaVU1SnNMQXMxZFg5d2h6bk4zVWZJcVBkdy0yZHZzRGJEZENqM3hlUzkyUGREOXlIbVQycGdsRFVFT2lyakN2WWlTX1FfaFgtZTAycTBja0d6b0NHYjZDdFVCbmFoYXRRLWhwLXdObGVNeFROX0tsVlZGZFkzSDcxQUR1ak5sdEFId21tWFh5SkNNUFpiZkJQUHo1R3E?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty signals a muted opening; US, Asian markets gain - Moneycontrol.com
-  "Sensex Today: GIFT Nifty signals a muted opening;
+- Closing Bell: Nifty nears 24,000, Sensex climbs 544 pts; IT, FMCG and realty lead gains - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2dkLVV2T3E2VE9iY3J4eTFUVEZKVk9aTmJIclJoODZMb0dOcm5YYTVDbnBXV3dSM01mTHU5QmNlWTV0SDU5cnBvVEJ5bjJoZW45dzE3Qm5ZZlF3VTY0VzJqWGVqb2g1Wk
   🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2dkLVV2T3E2VE9iY3J4eTFUVEZKVk9aTmJIclJoODZMb0dOcm5YYTVDbnBXV3dSM01mTHU5QmNlWTV0SDU5cnBvVEJ5bjJoZW45dzE3Qm5ZZlF3VTY0VzJqWGVqb2g1WkVZVGRiQndCZnZib1JrcHhIN2JXeWR4c1puaFZFVEptZW1jdE5GbjlmbWdPYmNYMmZqdWNXbXVPNXUxYW55TUVXTHhSenBoTjhSMjBBYWRaZzVaaGFncjRqX0hzUVpsSHlpdm9xQllHRUtBNmRjRVZWVEFDaWRoM0o1SjI4Umh6cUgtdGVyd0ZwNEg2a09lU1VIMUMyemFrTVBLcHJUenRpcWthc1VxdWtVMNIBmAJBVV95cUxOT3BoTTBpa2lzZW1PdU03QVlpMWR3RDBlMVhFcGZPM20wVmgtWUJtTURXQ0Q0enN5YVg1eWxXbl9JS3ZfM1JCdVhSbjJTbzQyankwSTZhMmEzdnBGLVZGM19pV2JGNXVQeXlvQ09QZXZ2MFdoUTYtdVVmd29wN3F4b2VBYXlaMUNlWnBNQUJhN2VFNER5NjhTYzd6dUx1cDFLUXl1ZWE1bUVSQm1IeWoydEtodUs3eU9WVGhCYmY0SEdzTkpOTi13QjRlbTBiTTNKOFRwYmtvczYzLW5LNXppOXZNMXFEYTdIQU5Tek1xdlduVTMxTERaY3NnLUx2WG44Q3NiSEN4TEFodDlYX2U2OExwb3hMdlpn?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher As Oil Falls To Three-Month Low - NDTV
-  Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher As
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcllMTDhDV01idTEtd3JrUlUxWUlXQ1FpSFF0ZkV6YUFaNFFmekpBejRwbU1XYUpoY3dIbXpPWXotdzgta2h0eUlTel94QWttNFpSMFFyRjFMcmpOV21ZUTV4RzBrVEstcnJkUWJkWXRwWW9CdFJmellJM2hrbWgyam1TMFBnajhRYk9sWFlQV28tN1U1YkZfdndlb2tzbWt6RTZFYi1jNFJmTTJkMS1fSWdWT2NidjVMT0kyNEk2ckYxUTdXNTYzLWFNOTB5ekx0N2hYTdIB3AFBVV95cUxPM3ZvaG5mbXBLSGtCaXJoVVNWZnhYbkpKN2lUc0k5ZW5HWXU1VjQ2UDlXZV81dFp6QjkwU0xSejRpU0RXTFE1bnNycTktRTdibm1KQVBNU3MtYUIyUEdXbnpqa2pUWU9KYktDMEdyTXUyRzJtTFZ4YVJVaDJLcXFUaWxQSlRORGJUOXN4NXRISk1haE9LbVhuZ2xKWUk1SE9KbVFtTGpacDRSWkxpQzF6aFZVaXVRU0wzcUJwdkFJdTgyZk1DNG1mZ2Z5ZGpOMzdZU2VMU1Z3WElJUVlx?oc=5
+- Arvind SmartSpaces eyes Rs 180 cr revenue from housing project in Ahmedabad
+  Arvind SmartSpaces Ltd is embarking on a new chapter in Ahmedabad by partnering with a landowner for an ambitious residential development on Kerala-Nalsarovar Road. This strategic collaboration is expected to unlock a revenue potential
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/arvind-smartspaces-eyes-rs-180-cr-revenue-from-housing-project-in-ahmedabad/articleshow/131768223.cms
 
-- Trade setup for June 16: Will NIFTY50 sustain the gains and close above 24,000? - Upstox
-  Trade setup for June 16: Will NIFTY50 sustain
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWkyZXhaczhkN0dhQzhRYmhINFYwejlsSjNoWlVRNnpqdnVndnpJS2I2RTdwYXYtaklCVlBDc0tXN2xuRzBBb2loZVJfRmxlZFRIdi11WHlEcEJPb3dybmJ0WFJyODRoSnpMS1FVZ2RucXhibVJnamtXU3NVcGlzMHFieGRSejY5c2NCRloxOUtkdEN3bU9pSEdpSzFIZk54SmoxMkJoeVVURlI4TmRMSWpVTlhsdy14SUpKRnR4ZnlwN0EtLTVzVEkwWmR0bEtRcFItXw?oc=5
+- Rupee closes at 94.56 vs USD; US-Iran peace agreement details, Fed guidance awaited
+  The Indian rupee strengthened for the third day in a row. This rise was supported by positive sentiment and anticipation of a U.S.-Iran peace agreement. Lower oil prices also boosted the rupee.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-94-56-vs-usd-us-iran-peace-agreement-details-fed-guidance-awaited/articleshow/131768195.cms
 
-- TCS Share Price Live Updates: TCS Market Close: Rs 2161.4
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-today-live-updates-16-jun-2026/liveblog/131757749.cms
+- InvIT market expands with new listings; cumulative distributions top Rs 91,000 crore
+  India’s InvIT sector recorded strong growth in FY26, with Rs 7,719 crore distributed in Q4 alone. Assets under management rose to Rs 7.1 lakh crore.
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/invit-market-expands-with-new-listings-cumulative-distributions-top-rs-91000-crore/articleshow/131767803.cms
 
-- Tech Mahindra Share Price Live Updates: Tech Mahindra's stock performance update
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-16-jun-2026/liveblog/131757656.cms
+- Liotech Industries Rs 36-cr IPO to open on Wednesday
+  Liotech Industries is launching its Rs 36 crore initial public offering on June 17. The bidding will be open until June 19. Shares are expected to list on the BSE SME on June 24.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/liotech-industries-rs-36-cr-ipo-to-open-on-wednesday/articleshow/131767007.cms
 
-- Coal India Share Price Live Updates: Coal India  Trading Summary
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-live-updates-16-jun-2026/liveblog/131757652.cms
+- IPO: 23 firms launch public issues worth Rs 27,000 cr in 2026; 236 proposals remain in pipeline
+  India's IPO market saw a slowdown in 2026 following a robust 2025. However, activity is picking up with several companies set to launch public issues this month.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-23-firms-launch-public-issues-worth-rs-27000-cr-in-2026-236-proposals-remain-in-pipeline/articleshow/131766712.cms
 
-- UPL Share Price Live Updates: UPL stock price analysis
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-share-price-live-16-jun-2026/liveblog/131757648.cms
+- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
+  Dhaka Summons Indian Envoy After Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Trading Day Summary
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-16-jun-2026/liveblog/131757647.cms
+- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
+  Telegram has been banned in India to tackle
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
 
-- India welcomes peace deal between Iran and the United States - Newsonair
-  India welcomes peace deal between Iran and the
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+- Telegram app restricted in India at NTA request until June 21 - The Hindu
+  Telegram app restricted in India at NTA request
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
 
-- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
-  &nbsp; Hindustan Times: What US-Iran
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
+  India's solution to entrance exam fraud: A
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
 
-- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
-  The Strait of Hormuz has been
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
+  The Trinamool Congress is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
+  Dhaka Summons Indian Envoy After Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
-  All 20 Indian crew members of MT Jalveer safely return
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
+  Telegram has been banned in India to tackle
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
 
-- India welcomes peace deal between Iran and the United States - Newsonair
-  India welcomes peace deal between Iran and the
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+- Telegram app restricted in India at NTA request until June 21 - The Hindu
+  Telegram app restricted in India at NTA request
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
 
-- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
-  &nbsp; Hindustan Times: What US-Iran
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
+  India's solution to entrance exam fraud: A
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
 
-- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
-  The Strait of Hormuz has been
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
+  The Trinamool Congress is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
+  Dhaka Summons Indian Envoy After Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
-  All 20 Indian crew members of MT Jalveer safely return
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
+  Telegram has been banned in India to tackle
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
 
-- India welcomes peace deal between Iran and the United States - Newsonair
-  India welcomes peace deal between Iran and the
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+- Telegram app restricted in India at NTA request until June 21 - The Hindu
+  Telegram app restricted in India at NTA request
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
 
-- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
-  &nbsp; Hindustan Times: What US-Iran
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
+  India's solution to entrance exam fraud: A
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
 
-- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
-  The Strait of Hormuz has been
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
+- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
+  The Trinamool Congress is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
 
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
+- Dhaka Summons Indian Envoy After Bangladesh PM's Adviser Screened At Delhi Airport - NDTV
+  Dhaka Summons Indian Envoy After Bangladesh
+  🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVllqbXlKZG9TVTJta3dlTEI0VngxamMzS2hPZjRTanJRdjRKZzlFVy1zT0E0VjFOZmRLUFg0S04zZzJmS0ppS2RYcXpUVlphbEhjZXZVRTdvRGhQNFUtTVhLVXNoMUdRYzJKYmZHMVdVbUp2RU02UThEdXZlYTU0ellRdFpaV3pJRmt5V2lDaHFucEtoMGxwUlFkLWFuSC1aSTZVRTc5N1ZaLU80SXJzMERUX3hzdEJlX3FKTUstZm5PcDc1b3ZyeEpyZmI0aER2VjJfcjFpRTJUX3NrV19MbVZ4elZaWnBx?oc=5
 
-- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
-  All 20 Indian crew members of MT Jalveer safely return
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+- NEET: India temporarily bans Telegram to tackle fraud in key medical exam - BBC
+  Telegram has been banned in India to tackle
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JcmNPUDhmTVdkcjlUZkJua1FGZHVUbmhjRTlMRFA2eE9LZmJ2emlzeTZodUoyRWExNUx6SGJPLXVlYXhxeTllM3RtMTlQS2V4S2ltLVpVTm5vUQ?oc=5
 
-- India welcomes peace deal between Iran and the United States - Newsonair
-  India welcomes peace deal between Iran and the
-  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxObUlmUURadHJTenotdGdfaFVIa3VaVGNLLVNRWV9xcER5bU9RV2NDZjVuX3UzZXFEbTQzMVhHengwSENRU0VKNWhZLV9UalhPeTlESTBYYU9IekVMVmR4a3U2MDJfQm04ejkyT2hrVjgxUmFTZzlGb3dOWUpPUlZuYlNqZjR1TDZJMTMwaHk2cw?oc=5
+- Telegram app restricted in India at NTA request until June 21 - The Hindu
+  Telegram app restricted in India at NTA request
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOT0JGdExCcnlRcmQzZ0ppNGZYRHJhc1JaMTJqempCZXFRbzRGRnlWRHpaRm0ya1FQQnhsNHM0TUFrcnBQSGNfTWVZQXZueWdsc0dfTG5Dd3lEZmVVOWZQOTR4allFTjBfRFJYcFpiVDAzR1pqUW9BVFJWNE4tUXE1QXdQamhlZkJBYTU2RHcyamV5NGx0QkR6UFNaRlc1X2o0WnBoaVc5cGRtcWduQ0QtRGQ3bE1yWnNCalNpctIBwwFBVV95cUxOS3d0WEsxT3dtTFBjVGpMQTB3NWtEeHlWRHZYMlBtOGVQZVkxeTFfYlIxTFdrLVJORFFXRE9WUXNGTzlwWWhlN2R3ckI5cjJYNEc2YlFOckQxUHVfenFUUDAyaUdpcERLNUljbUFfdDZjNjZ4YnNhTkJkQW9KN2xqLUN6S1VoS05xUzFUREJ1MHBhZ1FlYUQ2RFQ3Y1V5Y1pWX1dsTkZwcG5zbGxtMjlmMGxQaVdVb0dqcHo4UVp0MldzNUk?oc=5
 
-- Ease on Rupee, oil prices: What US-Iran peace deal means for India | India News - Hindustan Times
-  &nbsp; Hindustan Times: What US-Iran
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlFwUXgwc210MTllTktpeGRyeVhwMzVqclcyb3pHN2NFUm5XMVFFN0Z5SWpXdVNYQi1VeGNnb2pSbmd5c0pBVWlkXzI0d2RzeEh6dGRGRDN3S1QwNzJrQ2tqV3NoOWZUSXFOaklPRy1aa1JrWmFIM0RtX3c4M1dGSDZhdnFVNVljTmlkclFRUkdZSDNKYklqRGVwUnrSAaIBQVVfeXFMT1g3NF80T0JISVQ5Q0dqNHFlY3JkaEI4ang2LUU1dVQ3U3hxOWlJdDN1ZHFMVkxMZ0pRLXVScHMwM2lSMkVWQXQ4RjlKc3dSUGR6bHMya3pTM0JqOFhzMFNpWllsb1VoR2ludFVKX01rTjVUTGhnTkREUjlneUotdVN2VXdYcXVxT21OZlZsdGxiMENTMUxOWHJaUXM2LXRFV1ln?oc=5
+- India's solution to entrance exam fraud: A temporary ban on Telegram - CNBC
+  India's solution to entrance exam fraud: A
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPNE5pcHBKRGdMb2MtSW9jSFdvUmNKS2c1Q1JqU0VLVHJiRDB2RGNleldUSUZyV1J3VzNwc1d1WlRBMldpVWswZUktNmtWN0hxdXlLNmdhNGk4S1BqLUNiVDhzU1FtMnJfUjVhc2Y3aGJtWmRJR1Mwa3V5d3otWE9GX2E0MVZHeU5DTnBhY084SVlzOW9DVUJjOW9TVkNLQTZWVzVSTzRR0gGrAUFVX3lxTE1uckp1VXBXdUhESC1LYW95OVp1OGhHVEw3dHEyVnRaZVl5am51V3M4dHFIeHV4dUR0d3JORU9YanB1OUZXYU5KQmJCb24tTHY3MGJ3VFpEWTdKUXcwd1huTHA3cmdLcVlMY0x4NUx6Z3RjeG5WcDZHY1ROc0YtRlRfUm41QUxTSjdJSFB0T1dhVGdBLVl5THhPYzg2YkozZElURVFPcXVCV19aVQ?oc=5
 
-- Why Strait Of Hormuz Reopening Won't Instantly Fix Economic Issues - NDTV
-  The Strait of Hormuz has been
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW1lYW96Z3pqM1huMTIwUHE0U2JWY2JHQTFWRHdfbjNycmtFQUYzQWJmUVNuZGNkYkQxWGUzX0M4azJjV0ZEUVR3aWlSMmZ0SXBBRFlYeTZfaDRWUEx5WDMwYlp2bEZGcFZxcmtYNjhFYmJvR1RHSm84ZmhWdGxiT0ZxTUZ4eXAyc3J3N2ozbEEtYzl4eGR3ejZjNVRwb0hVWmp4STBrNW5ZVGFZcldNY2tuV21wcUs1X0t4TWV6WjJsandQTXkyNTFNb9IB0wFBVV95cUxNeXN2QVBUVy1Hc1VRY1V3UXB5Umk2bDc0T1c2RVlJOHh4ZUF5b0ZsdEE2ZENockIxYk4ta3RXOWJoV05jeEhIT3NOVFdKRmhtWkpXNzBBcXN0REt6S19EbXk5QXVKMEEydnBpWnlQdGk0OFN2QlVqUTBrZUI2aHBLcEluUFBXM0EtNDlUX2RzaGdlYmZ4ay02VzEtYzdKWFIwMnQ5dTlGS2ZseUtMYzVKbldTQmxqa0ZZNHJ0LW1qUUtlVllWYTA5RzQwWHdEeWZqUU1J?oc=5
-
-- "Situation Very Bad": Seafarers Claim "Only Indians" Being Attacked In Gulf - NDTV
-  "Situation Very Bad": Seafarers Claim
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWh5cHJmaFFWclctcVVpRWRib3UzSTZ6NUZqWDQxZEkzZkVpU1VaWktmenhxV0U2a3lhckhLQUZvNENvMFhkT1Q3QlZHY2pjT245LU1WSlNQOUcwM2JYdkRhRUVRY19wblJLOUdZcEIzTTlxQkRUWFRXTUFuMnJRWXlkWktONkhsYVRhSk5tQTk5VUVvdFA1VXZ3NEF5VkUwd0FxeERjT1A4b1RHTUFyS9IBuAFBVV95cUxPNkpSRXpldXdDaGQtZW1zMVZXbmZsY0hEQnE2OTBRRG1JOWVrUTVhRXZZd2lWbC1TbFZfZTVvMG5rYl9DQlNMeGVWVFF6MFlUeFFpeUVEN1dWOEpROXhiTWZiellTSXFQTkFRTEpUaEw3b21BVU5uT3hfaEN6bHlFUW1iemp0NE9FdGJqalEyd3YwRi1Id0xHMndYSHNTNzUxc19QSzJlN3pDVTRxYUE2RkdlSTJhRHZt?oc=5
-
-- All 20 Indian crew members of MT Jalveer safely return home: Indian mission - The Hindu
-  All 20 Indian crew members of MT Jalveer safely return
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUxJcDVjRnF4NHJVU2FHV25JS2tXRC1rdk5xd2ZERUhWWFR0VmZFOWRhUmtMbVVMSGhZTTF6VU9vV3JDM1ZpOXI1UEZrZ3E2TmRwWkwwakd5cXVLVmFwSHc4aHBGTFJBeFZVb3VTMmpqVUhsVVhGM0QxMVdkc1R5RmlicDAzYWVyczduaUJqbkxSRmJCNVhmR0xfMzV4ejFubExfR1QxQVM0UXJKTjgwWmVac2xrTEt3YzdfQWEtX2Rwb001c25SV2ZHTDhIUdIB1AFBVV95cUxOcVE0UlhBOFIwZ2JlRzlUOEVIRkN2NGtDdWFablM2NllGZjc2NDR3QzB4OWNKMmREUXdOcVNabmpxdkhKZTZYcWgtcENDUjE0MlNlaUxHOEc4UUNZODFHaGotUnphd2xrZFlxdl9ScUo0R1VDYXZqd1gzb2JVSHQxdVR3bmljV1ItbFByTHFGVjQ4aFZhRXpxYUQ3dEZ6RElfU2tzNmJLNjNOMWdFQjNnenJ6VkVvX0N5MERmLUs1Q1Qyd2NTZmxWekVwd3RVbWcydUkySQ?oc=5
+- Merger, Not Split: Constitutional Strategy Behind Trinamool Congress Rebellion - NDTV
+  The Trinamool Congress is
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRS04cl83ODVCNFNwN1FOdm5VaTNMcThjVzdwWjVRUWZIcl9ERUc5UjJzU01VWFN6RzlBdnJ3RWVScmJmUDJhMkdOdHc0SnhTS1c5eDVaN0pWS0p6V25YYU5Wc2VrSlpEeWRURkRkbnFUblJFWnVxVk9nMW1OQ1dkOW5fYTdHTHhPUVQ2dWMtMXVPYkVMSHM1ZjdGZlA4S1FRengtUWpGcWZ5YUZqUFpnZFFfWXo0OEVH?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-16 03:36:48 UTC_
+_Last updated: 2026-06-16 11:05:40 UTC_
