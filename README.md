@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Highways ministry must probe resident claims of expressway route being changed: Bihar opposition
+- Indian Railways eyes unified RRB portal to streamline recruitment process
   
-  🔗 https://indianexpress.com/article/india/highways-ministry-must-probe-resident-claims-of-expressway-route-being-changed-bihar-opposition-10745211/
+  🔗 https://indianexpress.com/article/india/indian-railways-unified-rrb-portal-streamline-recruitment-process-10745800/
 
-- Leaks, loans and student stress: Rahul Gandhi’s Kota outreach before NEET retest
+- Shiv Sena (UBT) split all but official as 6 MPs skip party meeting
   
-  🔗 https://indianexpress.com/article/india/exam-structure-or-rejection-system-for-aspirants-students-join-as-rahul-gandhi-kicks-off-campaign-in-kota-10745067/
+  🔗 https://indianexpress.com/article/india/shiv-sena-ubt-split-rebel-mps-skip-party-meeting-10745893/
 
-- Madhya Pradesh fast-tracks UCC – but there’s some opposition
+- Maharashtra’s wait for monsoon grows longer; intermittent rain likely to continue in Delhi
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-ucc-bill-mohan-yadav-tribal-concerns-10745055/
+  🔗 https://indianexpress.com/article/india/monsoon-weather-rain-delhi-maharashtra-thunderstorm-imd-10745505/
 
-- Goa nightclub where blaze killed 25 ran without key approvals: ED chargesheet
+- Ebola scare in Kerala: Woman who travelled from South Sudan hospitalised with symptoms
   
-  🔗 https://indianexpress.com/article/india/goa-nightclub-fire-case-ed-files-chargesheet-alleges-birch-operated-without-key-approvals-10745053/
+  🔗 https://indianexpress.com/article/india/ebola-scare-kerala-woman-south-sudan-hospitalised-symptoms-10745672/
 
-- At meet before Telegram ban, government flagged limited search feature
+- India News LIVE Updates, 18 June 2026: Shiv Sena crisis bared, US-Iran deal signed
   
-  🔗 https://indianexpress.com/article/india/at-meet-before-ban-on-telegram-government-flagged-limited-search-feature-missing-proactive-steps-10745220/
+  🔗 https://indianexpress.com/article/india/india-news-today-breaking-news-live-updates-18-june-2026-10745444/
 
-- OpenAI adds Google Gemini co-lead as competition for AI talent intensifies
+- AI industry leaders at G7 Summit call for US-led coalition to define rules and standards: Report
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-adds-gemini-co-lead-noam-shazeer-to-growing-talent-roster-10745345/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-leaders-g7-summit-us-led-coalition-10746117/
 
-- Mosquito magnet? Study reveals why some people attract more bites
+- Anthropic restores Claude access after AI chatbot platform experiences brief outage
   
-  🔗 https://indianexpress.com/article/technology/science/mosquito-magnet-study-reveals-why-some-people-attract-more-bites-10744898/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-restores-claude-access-after-ai-chatbot-platform-experiences-brief-outage-10745865/
 
-- Why SpaceX is spending $60 billion to acquire AI coding startup Cursor
+- Google rolls out Wear OS 7 for Pixel Watch with Gemini AI, redesigned widgets and battery upgrades
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/why-spacex-spending-60-billion-cursor-ai-coding-10744682/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-rolls-out-wear-os-7-for-pixel-watch-with-gemini-ai-redesigned-widgets-and-battery-upgrades-10745815/
 
-- June Pixel Drop brings AI video tools, smarter multitasking, and Android 17
+- Dairy and tofu waste can become powerful carbon traps, Swiss scientists find
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/june-pixel-drop-brings-ai-video-tools-smarter-multitasking-and-android-17-10744470/
+  🔗 https://indianexpress.com/article/technology/science/carbon-capture-beads-dairy-tofu-waste-swiss-study-10745748/
 
-- Gmail’s AI summaries are now available globally: Here’s how to turn them off
+- Trump says Apple to partner with Intel on US chip design, production
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/gmails-ai-summaries-are-now-available-globally-heres-how-to-turn-them-off-10744180/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/trump-says-apple-to-partner-with-intel-on-us-chip-design-production-10745818/
 
-- Pet clinic chain Vetic secures $40 million to double clinic network across India
-  The startup will also use the funds to build an integrated digital platform with a focus on long-term customer retention.
-  🔗 https://www.livemint.com/companies/pet-clinic-chain-vetic-secures-40-million-to-double-clinic-network-across-india-11781706185694.html
+- Johnnie Walker maker faces axe as 'drastic Dave' orders cost-cutting blitz: Report
+  Johnnie Walker maker Diageo is preparing a major restructuring exercise under newly appointed CEO Dave Lewis
+  🔗 https://www.livemint.com/companies/news/johnnie-walker-maker-faces-axe-as-drastic-dave-orders-cost-cutting-blitz-report-11781774613269.html
 
-- RIL manifesto: Mukesh Ambani asks top executives to make Reliance world's first AI-native large conglomerate
-  Mukesh Ambani is focusing on AI incorporation throughout its operations. The initiative includes strategic hiring for AI-savvy leadership.
-  🔗 https://www.livemint.com/companies/news/ril-manifesto-mukesh-ambani-top-executives-reliance-ai-native-conglomerate-ril-agm-11781681979474.html
+- L’Oréal acquires majority stake in Innovist as global giants double down on India
+  Innovist’s founders Rohit Chawla, Sifat Khurana and
+  🔗 https://www.livemint.com/news/loral-acquires-majority-stake-in-innovist-as-global-giants-double-down-on-india-11781767616115.html
 
-- ISWAI welcomes India-UK FTA, hails lower tariffs on Scotch as boost for Indian spirits sector
-  The International Spirits and Wines Association of India has welcomed the newly implemented India-UK Free Trade Agreement. It says it will significantly boost bilateral trade
-  🔗 https://www.livemint.com/companies/news/iswai-welcomes-india-uk-fta-hails-lower-tariffs-on-scotch-as-boost-for-indian-spirits-sector-11781717255121.html
+- Akasa Air triples borrowing limit to  ₹3,950 crore, eyes government-backed credit scheme
+  The additional borrowing headroom will help meet working capital requirements as the
+  🔗 https://www.livemint.com/companies/akasa-air-borrowing-limit-funding-growth-government-backed-credit-scheme-air-india-express-west-asia-war-11781760658713.html
 
-- Who is Michael Truell, the 25-year-old founder whose AI startup SpaceX acquired for $60 billion?
-  Cursor said its products are used by 64% of Fortune 500 companies. The company said its tools write more than 100
-  🔗 https://www.livemint.com/companies/people/who-is-michael-truell-the-25-year-old-founder-whose-ai-startup-spacex-acquired-for-60-billion-11781711255070.html
+- Why The LaLiT parent Bharat Hotels will focus on consolidation before reviving IPO plans
+  Bharat Hotels plans to grow through management contracts and joint developments rather than asset acquisitions. The company
+  🔗 https://www.livemint.com/companies/news/bharat-hotels-lalit-hotels-deeksha-suri-hospitality-industry-hotel-expansion-management-contracts-11781752863961.html
 
-- HDFC Bank bond issue priced at 90 bps above US Treasury
-  HDFC Bank raised $750 million through five-year dollar bonds at 90 basis
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-bond-issue-priced-at-90-bps-above-us-treasury-11781706076394.html
+- A year in, Cyient CEO reshapes leadership to revive growth
+  CEO Sukamal Banerjee has brought in at least eight senior executives. Family-led IT firm seeks larger deals, better
+  🔗 https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html
 
-- Stocks to watch: IFCI, RVNL, HFCL among shares in focus today; check list here
-  On Wednesday, Sensex advanced 347.14 points, or 0.45%, to end the day at 77,155.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-ifci-rvnl-hfcl-among-shares-in-focus-today-check-list-here-11781748478532.html
+- Sensex jumps 250 points as bull run extends to 5th day: 10 key highlights from stock market today
+  The benchmark indices managed to end higher for the fifth session in a row on Thursday, 18 June.
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-250-points-as-bull-run-extends-to-5th-day-10-key-highlights-from-stock-market-today-11781776997005.html
 
-- Stock market today: Gift Nifty hints weak start; US-Iran deal, Fed policy to crude oil prices - 8 stocks to buy
-  Sensex and Nifty 50 are likely to open with caution as global cues vary. Investors are optimistic about reducing tensions and falling crude oil prices.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-deal-fed-policy-to-crude-oil-prices-8-stocks-to-buy-11781747146604.html
+- ICICI Prudential Mutual Fund trims stake to 7.12% in Kalpataru Projects International
+  ICICI Prudential Mutual Fund has decreased its stake in Kalpataru Projects International Ltd below
+  🔗 https://www.livemint.com/market/stock-market-news/icici-prudential-mutual-fund-trims-stake-to-7-12-in-kalpataru-projects-international-11781774709793.html
 
-- Gold, silver prices recoup losses on US-Iran peace deal despite hawkish US Fed policy; Spot gold rate gains over 1%
-  Gold prices gained after a sharp decline of 1.7% in the previous session. The hawkish US Federal Reserve policy
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-recoup-losses-on-us-iran-peace-deal-despite-hawkish-us-fed-policy-spot-gold-rate-gains-over-1-11781748840294.html
+- SBI board approves  ₹60,000 crore fundraise via issuance of bonds
+  State Bank of India board has approved raising  ₹60,000 crore via issuance of bonds in the ongoing financial year
+  🔗 https://www.livemint.com/market/bonds/sbi-board-approves-rs-60-000-crore-fundraise-via-issuance-of-bonds-11781775440841.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 June after US Fed policy
-  Gift Nifty was trading around 24,056 level, a discount of nearly 37 points from the Nifty futures’ previous close. The trends on Gift Nifty
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-18-june-after-us-fed-policy-11781747578607.html
+- Bharat Electronics shares jump 6% to a 3-week high. Here's what's driving the rally
+  Bharat Electronics shares rose 6% to  ₹430, marking a three-week high. This follows a 3% gain, bringing a total increase of 7%
+  🔗 https://www.livemint.com/market/stock-market-news/bharat-electronics-shares-jump-6-to-a-3-week-high-heres-whats-driving-the-rally-11781772835031.html
 
-- Asian markets today: Kospi up 1%, Nikkei rises 2% to hit new record high of 71,000
-  Japan's Nikkei 225 surged 2%, crossing the 71,000 mark for the first
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-kospi-up-1-nikkei-rises-2-to-hit-new-record-high-of-71000-11781746495224.html
+- Nykaa share price hits 52-week high, rises 8% during intraday trading
+  FSN E-Commerce Ventures saw an 8% surge in shares after Nykaa outlined plans for aggressive growth by FY30. The strategy includes expanding its market presence, both online and offline
+  🔗 https://www.livemint.com/market/stock-market-news/nykaa-share-price-hits-52-week-high-rises-8-during-intraday-trading-11781771929270.html
+
+- Will iPhones and MacBooks get costlier? Why Tim Cook says Apple price hikes are unavoidable
+  Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
+  🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
 
 - Mint Explainer: Big Tech seeks to sell cheaper AI. Can India benefit?
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
@@ -96,157 +100,125 @@
   Apple's new software updates bring the Liquid Glass design and enhanced AI features. But advanced Siri AI capabilities will be limited to select high-end devices, including the iPhone 17 Pro lineup
   🔗 https://www.livemint.com/technology/tech-news/wwdc-2026-apple-reveals-devices-eligible-for-ios-27-ipados-27-macos-27-golden-gate-and-watchos-27-11781617451321.html
 
-- Mint Explainer | Can connected cars help India cut road fatalities?
-  Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive
-  🔗 https://www.livemint.com/technology/auto-industry-india-tech-companies-india-road-accidents-india-v2x-spectrum-11781592441642.html
+- Bajaj Auto sets June 24 as record date for Rs 5,632 crore share buyback. Here’s all you need to know
+  Bajaj Auto has set June 24 as the record date for its substantial Rs 5,633 crore share buyback. Shareholders will be eligible to tender shares at Rs 12,000 each.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-sets-june-24-as-record-date-for-rs-5632-crore-share-buyback-heres-all-you-need-to-know/articleshow/131825425.cms
 
-- Dow closes 500 points lower as Warsh’s first Fed meeting sets off surge in bond yields: Live updates - CNBC
-  Dow closes 500 points lower as Warsh’s first Fed meeting sets off surge in bond yields. Nikkei hits 71,000 for the first time.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9uTFFzUE5SblgwaXNYcjl5R1BNd0dVd3NELUZMRFVkNkpqOV96MUZqNTBQWkZNTzE0Um56VGNRTno4SEJybHRwRnpLTG9nRjJ2ZE0xRTR0ZFNMcXV6UWNNNlk2Y2hFUGRWcnd6V1BNLVhqUGZabUZZ0gF8QVVfeXFMTlV5eGVzUzFGN01QSGRBZHljQkNPeGJyYzIyYVFnMFA4Rk5SN081cXVnNzBZREhtYnVZUU5oSmVfeWtsWGNZX3JxaW5scWMxSzVZMmh5YnBLbmlSeUNwRHloT1JjWGtRWEs1ZDM0NXRmQ2UtTlpXTklRekFudA?oc=5
+- Redington shares rally 10% after Apple CEO Tim Cook says price hikes 'unavoidable' amid AI boom
+  Redington shares surged over 10% after Apple CEO Tim Cook signalled potential price hikes due to rising memory and storage costs driven by AI demand. Investors bet on improved margins for Redington, a key Apple distributor.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-rally-10-after-apple-ceo-tim-cook-says-price-hikes-unavoidable-amid-ai-boom/articleshow/131825252.cms
 
-- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
-  NSE Filing Puts India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
+- Nifty holds above 24,000, but IT stocks aren't out of the woods yet: Akshay Bhagwat
+  The Nifty has crossed the 24,000 mark, with potential for a move towards 24,600. Support is seen around 23,800, making dips attractive for buyers. However, the IT sector continues to face selling pressure, with
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/nifty-holds-above-24000-but-it-stocks-arent-out-of-the-woods-yet-akshay-bhagwat/articleshow/131824864.cms
 
-- Sensex Today | Stock Market Live: GIFT Nifty hints a firm opening; US markets fall, Asia rises - Moneycontrol.com
-  "Sensex Today: GIFT Nifty hints a firm opening; US
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPTnZ2d1ljOGlxN0l4VG9ldnItb3NkRjc2UzdEQWVEd21XTzNXZC1EVXN5VzhXNjB1ZHhCX3RmS1RRQVZmWWxrcDR0d1g0cTVya1c3X0ZNNU1IOS1NLThIMHdSS2JKZmtVczMyRXB5ZEdaRGNBYUFUNkdQckI3N19JTXVTQ0RKZ2ZHWDUzMmcyYjVoMEQySkFfd1hWUXBrWGVuM0JaLVVvZ0Q0V3l2VjBiMkRNeEJ6eENGMnpXWmVOX3JVcXpSQk5OYWF1NEtoMWhPbXVWQlcxSUp2ZklyckJnamVUVXBTOENpdW9sWENpWFdXRS1TZ095NjZoTFY3LXdGTzFYWmlTY1pLYjhYRzFpbFplSdIBmAJBVV95cUxPelFzWXBzbzVDTHFzTjd6eFV6a1cyOElINldQNnhfZU0xdGp2TmxnX05XYi1XRHN5d01kZ2UtRVU2VVI4QXhUZVhOXzlsa2ltZTFYZFNyTWNXTVFfVVQ4STVDTkxzcEMxbktSV0E0S3U3Z0d2WjhmQ1JDeVpQQXVfYUlHQ3o0RVRSY3NXLVFXcVNmUElJLWVoN2E1SlY4NTNQMXYtUHdldzU4UVZkQkpyQnJxYnVzUnZMZENLOUJsSWNDZnRBNzAwNHJoOWlwaV9ZVlZlSmQzcG1Lbnd6WDlMM1hicDlVTzYzYTN0dmgtS3JuTTk2eGJTdDJldm8zS2FraGg5QUZnT3ZvRUpET3RhU1NsZTZlREg0?oc=5
+- IFCI, HFCL among 14 stocks that rallied up to 50% in just one month - Do you own any?
+  While benchmark indices moved steadily, broader market momentum surged. Many BSE 500 stocks delivered double-digit gains, several rallying 25
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ifci-hfcl-among-14-stocks-that-rallied-up-to-50-in-just-one-month-do-you-own-any/slideshow/131823972.cms
 
-- Markets poised for a positive start as GIFT Nifty ticks higher - The Economic Times
-  Markets poised for a positive start as GIFT N
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTRWNG44RzkybTJmc2ZfMjhmbExpLWJtb044aUQ5VXR4dkZkSmN1YjZvSWZ4U0I0TXN2Q2FzRVJBQzc5N2xxMDV0WWlpQkc5WTYwdlVublJWMG15SEdVQ2FuZldYTkZUbmJaUDlDc3F0OG5ZRk5pX3BQbDRfXzZIRjRUYVk3NjRhQmptRzdfdC1jV1psb2o2OXUyUW5GaXFYcjJFMVdqNFZDS2gxUXBaY2gxam5fdllfdE9TT201anV5a1I2WnpBd2p3OUnSAdIBQVVfeXFMTjN6OVBObTJBejdKZW0wNU5QTTFpWlUwNWN1UzlURHBrbDMyX3FWcHluZnBETGNYUjBYWDdFb041dWNhUnRXcnAwaFZiQTRZeTJ0Zm5nVi1NV3Uyd24yWEktMXA5YUZfLWpfVmdvbnBQRW5tUkkxcWtvaWVzMk1VbkRsYUtBQWVrSnRTQlV3REx4OEkwaDFqTTJRUE5tREtvSnJqOU82ZjZQY2hlcXdSelJoYTdodlBzUU5LaXF2V0cxbnZxNmswXzNxOU5rdUJnOWtB?oc=5
-
-- Trade setup for June 18: Can NIFTY50 sustain the gains above 24,000 on Thursday? - Upstox
-  Trade setup for June 18: Can NIFTY50 sustain
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWTlYTm5fdXE4QVNJekdMU0tRZWZKakh2WnVYcmh1OWNaN3IyMHpKQjBaU3VwQVNUTW1iTFZ6V2dlenhSTUhyeFIxdGdpaGVBTERVUmxVTkZFMDUzQjltdU5hbzlxcTVkTG9pUV9SZGdfTl95ZURMd0FlaTBRdklQVC16eTAwVGdNZV85aXlXN2tsOGhmQXc0aW9nVTZ6M2hhY3VNY1VSaUp4dlkyZjZreDhOckJRd2ZjY0ZjNHhxaVF3Qk9FUjl1WEVBX2xiLWxWN2tOYzVB?oc=5
-
-- Dividend alert! Last day to buy HDFC Bank, Tata Motors PV, 14 other stocks for dividends worth Rs 248
-  Under SEBI's T+1 settlement cycle, investors must purchase a company's shares at least one trading day before the record date. Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hdfc-bank-tata-motors-pv-14-other-stocks-for-dividends-worth-rs-248/articleshow/131815749.cms
-
-- SpaceX shares decline for first time since blockbuster debut
-  SpaceX shares experienced their first decline since their IPO on Wednesday. The stock saw significant intraday swings, though it remains well above its IPO price.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-decline-for-first-time-since-blockbuster-debut/articleshow/131815693.cms
-
-- Mobikwik shares in focus as IPO lock-in expiry frees up stake worth Rs 317 crore for trade
-  The shares of the fintech platform had made a solid market debut in December, 2024, listing with nearly 59% premium over the IPO price at Rs 442.25 apiece on BSE. This came after the initial public offering
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-in-focus-as-ipo-lock-in-expiry-frees-up-stake-worth-rs-317-crore-for-trade/articleshow/131815618.cms
-
-- Positive Breakout: These 14 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-14-stocks-cross-above-their-200-dmas/slideshow/131815514.cms
-
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ifci-tata-motors-share-price-18-june-2026/liveblog/131815431.cms
+- NSE flags regulatory, tech, AI, derivatives concentration risks in IPO papers
+  The National Stock Exchange raises a red flag regarding substantial financial and operational threats. Emerging regulatory frameworks, tech breakdowns, cyber threats, and the rise of AI present notable concerns.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-flags-regulatory-tech-ai-derivatives-concentration-risks-in-ipo-papers/articleshow/131823717.cms
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
-  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
+- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
+  After 2025 QUAD snub and recent thaw in ties, Trump mull
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+
+- Why India's New Data Law Is A Costly Wake-Up Call - NDTV
+  "Why India's New Data
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkotZDZ4MFU1UEd2TFJldXNxempIVkZrZHR5SnREa3B1R0JkemdyX2pjNnJWN0h6ZDZTcnZ0Sm1MMDUxS25zX3VONzF1TFd3aU1tWUdTMkZyQ0N2c2daRFg0ZUtxTDhZY2hfdWVuVktDb1lDVk9EZVN6OHhyOG9neFVGX1V5ZjhJV2JVNWNmSHpoSnJJQzhJcC1KWDhGcTlXamR2ekdoQW1SUEFDcDRiUk90U1NJMHRZbF8wOFJ1Tm11Y1nSAcsBQVVfeXFMTkNlSzQwMEJaU2VZYzJWWVBVYW56Y0t4T3JLV0xhWElfVW05VEhnMVhrWk1XamlPbFRrMTlKTmtRTVpxMjdQaHdtNWJLZHJ4ZERGRXFhUzNWZGpJaFU0WXJna1FTTFgyN2YwMEJTd0g1bVJUY2lWQ1dub3RBMkpTaU5BNEY2QnlrRUdSWTBfamF2bzVRcnF6ejd1d2l6Ynd5Wk5vMHhweW5ucTRXZDBHS19MRUVieGVNSV80UnBmNEFvUTBVSzlReFR5enM?oc=5
+
+- India-UK trade deal to offer export benefits from day-one; steel issues addressed: Govt Sources - The Economic Times
+  India-UK trade deal to offer export benefits from day-one.
+  🔗 https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdTJZYmJuOFk1OVBXcUFPaThWNGxVRU94RXVKTXQydl9FMFBHSExyYUstQnY2ZkQ5RnBvREdWZ1RzcTNxRVVWMmpSdUEtM0YzSmhnYldmV0VXYVJnZmFqVUdVZGVZVHNFdk5Rd1VsbHVDWURlX0pOZ18tSUpINkNuWm5LVllOdTRKc2pJWWZsZmZOam5uWV9EZWgycnNMLXotdHlGOE5EWUpMZ2ZKUnhad1NGdDRWRzktMjB2eEJ6YTZRTmxRMTZlZnZZRElLQXNJQTR3cjVTZWxVNmtfbHNHTFUyRzh2S0Q2N29HWi1HZlY1OTlIS05BQ0liUDNqYWk0bFZJcnRqbnRwbEhsVEVIdnJmS2N0N2FmbXE2a3FFUEhtSEludExYTlNXaFhfYjlWVHNVNk9NNTBJc2otVVFqQXRjZG1pTmdxT05CM1J6YmR2UWoxaFBjQjVZMFVXbTF3MXNfbFJKalpwNDA5cWfSAYoCQVVfeXFMUDFHeWFocXZud0lBNlFPODJ0eFd3WU9GU2ctWFJqWmhjUTRhQnRza1VpRm1BTVlkQUFYT040TFVjSXVCbTBCSXpQRkotQ1d5MHBIRUs0M08ycTRvTlBIYm96c3NuSTJlYXpZT1VZd2pJa0JqbkZVSEJrZTBfRFJfS0pWYi1nUnBZQi1qSk5ZVENya2FzeEkzTzBBSGxzWE5vUVhNaHdQcUcyd29jS0psaC1MZ3pmNU1nRWpodURKQ0FOQjR3MjNTc0lRTTVqa2RIM3VRT1k3NnI2dXkzMkpTMHVQeWZDNGhuVTFab2xLRThXaG9ubWpmTE5iVlZ6d3d4LThxRGU3V1pWT1E?oc=5
 
 - India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
   India’s largest stock exchange files for
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
-
-- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
-  NSE Filing Puts India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
-
-- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
-  Why India Has A Seat At The G7 Table Without
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
-  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
+- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
+  After 2025 QUAD snub and recent thaw in ties, Trump mull
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+
+- Why India's New Data Law Is A Costly Wake-Up Call - NDTV
+  "Why India's New Data
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkotZDZ4MFU1UEd2TFJldXNxempIVkZrZHR5SnREa3B1R0JkemdyX2pjNnJWN0h6ZDZTcnZ0Sm1MMDUxS25zX3VONzF1TFd3aU1tWUdTMkZyQ0N2c2daRFg0ZUtxTDhZY2hfdWVuVktDb1lDVk9EZVN6OHhyOG9neFVGX1V5ZjhJV2JVNWNmSHpoSnJJQzhJcC1KWDhGcTlXamR2ekdoQW1SUEFDcDRiUk90U1NJMHRZbF8wOFJ1Tm11Y1nSAcsBQVVfeXFMTkNlSzQwMEJaU2VZYzJWWVBVYW56Y0t4T3JLV0xhWElfVW05VEhnMVhrWk1XamlPbFRrMTlKTmtRTVpxMjdQaHdtNWJLZHJ4ZERGRXFhUzNWZGpJaFU0WXJna1FTTFgyN2YwMEJTd0g1bVJUY2lWQ1dub3RBMkpTaU5BNEY2QnlrRUdSWTBfamF2bzVRcnF6ejd1d2l6Ynd5Wk5vMHhweW5ucTRXZDBHS19MRUVieGVNSV80UnBmNEFvUTBVSzlReFR5enM?oc=5
+
+- India-UK trade deal to offer export benefits from day-one; steel issues addressed: Govt Sources - The Economic Times
+  India-UK trade deal to offer export benefits from day-one.
+  🔗 https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdTJZYmJuOFk1OVBXcUFPaThWNGxVRU94RXVKTXQydl9FMFBHSExyYUstQnY2ZkQ5RnBvREdWZ1RzcTNxRVVWMmpSdUEtM0YzSmhnYldmV0VXYVJnZmFqVUdVZGVZVHNFdk5Rd1VsbHVDWURlX0pOZ18tSUpINkNuWm5LVllOdTRKc2pJWWZsZmZOam5uWV9EZWgycnNMLXotdHlGOE5EWUpMZ2ZKUnhad1NGdDRWRzktMjB2eEJ6YTZRTmxRMTZlZnZZRElLQXNJQTR3cjVTZWxVNmtfbHNHTFUyRzh2S0Q2N29HWi1HZlY1OTlIS05BQ0liUDNqYWk0bFZJcnRqbnRwbEhsVEVIdnJmS2N0N2FmbXE2a3FFUEhtSEludExYTlNXaFhfYjlWVHNVNk9NNTBJc2otVVFqQXRjZG1pTmdxT05CM1J6YmR2UWoxaFBjQjVZMFVXbTF3MXNfbFJKalpwNDA5cWfSAYoCQVVfeXFMUDFHeWFocXZud0lBNlFPODJ0eFd3WU9GU2ctWFJqWmhjUTRhQnRza1VpRm1BTVlkQUFYT040TFVjSXVCbTBCSXpQRkotQ1d5MHBIRUs0M08ycTRvTlBIYm96c3NuSTJlYXpZT1VZd2pJa0JqbkZVSEJrZTBfRFJfS0pWYi1nUnBZQi1qSk5ZVENya2FzeEkzTzBBSGxzWE5vUVhNaHdQcUcyd29jS0psaC1MZ3pmNU1nRWpodURKQ0FOQjR3MjNTc0lRTTVqa2RIM3VRT1k3NnI2dXkzMkpTMHVQeWZDNGhuVTFab2xLRThXaG9ubWpmTE5iVlZ6d3d4LThxRGU3V1pWT1E?oc=5
 
 - India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
   India’s largest stock exchange files for
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
-
-- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
-  NSE Filing Puts India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
-
-- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
-  Why India Has A Seat At The G7 Table Without
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
-  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
+- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
+  After 2025 QUAD snub and recent thaw in ties, Trump mull
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+
+- Why India's New Data Law Is A Costly Wake-Up Call - NDTV
+  "Why India's New Data
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkotZDZ4MFU1UEd2TFJldXNxempIVkZrZHR5SnREa3B1R0JkemdyX2pjNnJWN0h6ZDZTcnZ0Sm1MMDUxS25zX3VONzF1TFd3aU1tWUdTMkZyQ0N2c2daRFg0ZUtxTDhZY2hfdWVuVktDb1lDVk9EZVN6OHhyOG9neFVGX1V5ZjhJV2JVNWNmSHpoSnJJQzhJcC1KWDhGcTlXamR2ekdoQW1SUEFDcDRiUk90U1NJMHRZbF8wOFJ1Tm11Y1nSAcsBQVVfeXFMTkNlSzQwMEJaU2VZYzJWWVBVYW56Y0t4T3JLV0xhWElfVW05VEhnMVhrWk1XamlPbFRrMTlKTmtRTVpxMjdQaHdtNWJLZHJ4ZERGRXFhUzNWZGpJaFU0WXJna1FTTFgyN2YwMEJTd0g1bVJUY2lWQ1dub3RBMkpTaU5BNEY2QnlrRUdSWTBfamF2bzVRcnF6ejd1d2l6Ynd5Wk5vMHhweW5ucTRXZDBHS19MRUVieGVNSV80UnBmNEFvUTBVSzlReFR5enM?oc=5
+
+- India-UK trade deal to offer export benefits from day-one; steel issues addressed: Govt Sources - The Economic Times
+  India-UK trade deal to offer export benefits from day-one.
+  🔗 https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdTJZYmJuOFk1OVBXcUFPaThWNGxVRU94RXVKTXQydl9FMFBHSExyYUstQnY2ZkQ5RnBvREdWZ1RzcTNxRVVWMmpSdUEtM0YzSmhnYldmV0VXYVJnZmFqVUdVZGVZVHNFdk5Rd1VsbHVDWURlX0pOZ18tSUpINkNuWm5LVllOdTRKc2pJWWZsZmZOam5uWV9EZWgycnNMLXotdHlGOE5EWUpMZ2ZKUnhad1NGdDRWRzktMjB2eEJ6YTZRTmxRMTZlZnZZRElLQXNJQTR3cjVTZWxVNmtfbHNHTFUyRzh2S0Q2N29HWi1HZlY1OTlIS05BQ0liUDNqYWk0bFZJcnRqbnRwbEhsVEVIdnJmS2N0N2FmbXE2a3FFUEhtSEludExYTlNXaFhfYjlWVHNVNk9NNTBJc2otVVFqQXRjZG1pTmdxT05CM1J6YmR2UWoxaFBjQjVZMFVXbTF3MXNfbFJKalpwNDA5cWfSAYoCQVVfeXFMUDFHeWFocXZud0lBNlFPODJ0eFd3WU9GU2ctWFJqWmhjUTRhQnRza1VpRm1BTVlkQUFYT040TFVjSXVCbTBCSXpQRkotQ1d5MHBIRUs0M08ycTRvTlBIYm96c3NuSTJlYXpZT1VZd2pJa0JqbkZVSEJrZTBfRFJfS0pWYi1nUnBZQi1qSk5ZVENya2FzeEkzTzBBSGxzWE5vUVhNaHdQcUcyd29jS0psaC1MZ3pmNU1nRWpodURKQ0FOQjR3MjNTc0lRTTVqa2RIM3VRT1k3NnI2dXkzMkpTMHVQeWZDNGhuVTFab2xLRThXaG9ubWpmTE5iVlZ6d3d4LThxRGU3V1pWT1E?oc=5
 
 - India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
   India’s largest stock exchange files for
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
-
-- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
-  NSE Filing Puts India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
-
-- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
-  Why India Has A Seat At The G7 Table Without
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
-  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
+- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
+  After 2025 QUAD snub and recent thaw in ties, Trump mull
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+
+- Why India's New Data Law Is A Costly Wake-Up Call - NDTV
+  "Why India's New Data
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkotZDZ4MFU1UEd2TFJldXNxempIVkZrZHR5SnREa3B1R0JkemdyX2pjNnJWN0h6ZDZTcnZ0Sm1MMDUxS25zX3VONzF1TFd3aU1tWUdTMkZyQ0N2c2daRFg0ZUtxTDhZY2hfdWVuVktDb1lDVk9EZVN6OHhyOG9neFVGX1V5ZjhJV2JVNWNmSHpoSnJJQzhJcC1KWDhGcTlXamR2ekdoQW1SUEFDcDRiUk90U1NJMHRZbF8wOFJ1Tm11Y1nSAcsBQVVfeXFMTkNlSzQwMEJaU2VZYzJWWVBVYW56Y0t4T3JLV0xhWElfVW05VEhnMVhrWk1XamlPbFRrMTlKTmtRTVpxMjdQaHdtNWJLZHJ4ZERGRXFhUzNWZGpJaFU0WXJna1FTTFgyN2YwMEJTd0g1bVJUY2lWQ1dub3RBMkpTaU5BNEY2QnlrRUdSWTBfamF2bzVRcnF6ejd1d2l6Ynd5Wk5vMHhweW5ucTRXZDBHS19MRUVieGVNSV80UnBmNEFvUTBVSzlReFR5enM?oc=5
+
+- India-UK trade deal to offer export benefits from day-one; steel issues addressed: Govt Sources - The Economic Times
+  India-UK trade deal to offer export benefits from day-one.
+  🔗 https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdTJZYmJuOFk1OVBXcUFPaThWNGxVRU94RXVKTXQydl9FMFBHSExyYUstQnY2ZkQ5RnBvREdWZ1RzcTNxRVVWMmpSdUEtM0YzSmhnYldmV0VXYVJnZmFqVUdVZGVZVHNFdk5Rd1VsbHVDWURlX0pOZ18tSUpINkNuWm5LVllOdTRKc2pJWWZsZmZOam5uWV9EZWgycnNMLXotdHlGOE5EWUpMZ2ZKUnhad1NGdDRWRzktMjB2eEJ6YTZRTmxRMTZlZnZZRElLQXNJQTR3cjVTZWxVNmtfbHNHTFUyRzh2S0Q2N29HWi1HZlY1OTlIS05BQ0liUDNqYWk0bFZJcnRqbnRwbEhsVEVIdnJmS2N0N2FmbXE2a3FFUEhtSEludExYTlNXaFhfYjlWVHNVNk9NNTBJc2otVVFqQXRjZG1pTmdxT05CM1J6YmR2UWoxaFBjQjVZMFVXbTF3MXNfbFJKalpwNDA5cWfSAYoCQVVfeXFMUDFHeWFocXZud0lBNlFPODJ0eFd3WU9GU2ctWFJqWmhjUTRhQnRza1VpRm1BTVlkQUFYT040TFVjSXVCbTBCSXpQRkotQ1d5MHBIRUs0M08ycTRvTlBIYm96c3NuSTJlYXpZT1VZd2pJa0JqbkZVSEJrZTBfRFJfS0pWYi1nUnBZQi1qSk5ZVENya2FzeEkzTzBBSGxzWE5vUVhNaHdQcUcyd29jS0psaC1MZ3pmNU1nRWpodURKQ0FOQjR3MjNTc0lRTTVqa2RIM3VRT1k3NnI2dXkzMkpTMHVQeWZDNGhuVTFab2xLRThXaG9ubWpmTE5iVlZ6d3d4LThxRGU3V1pWT1E?oc=5
 
 - India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
   India’s largest stock exchange files for
   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
-- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
-  NSE Filing Puts India
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
+- Trump says he will visit India in the future during Modi G7 talk - BBC
+  Trump says he will visit India in the future during Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
-  Why India Has A Seat At The G7 Table Without
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
+- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
+  After 2025 QUAD snub and recent thaw in ties, Trump mull
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Why India's New Data Law Is A Costly Wake-Up Call - NDTV
+  "Why India's New Data
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkotZDZ4MFU1UEd2TFJldXNxempIVkZrZHR5SnREa3B1R0JkemdyX2pjNnJWN0h6ZDZTcnZ0Sm1MMDUxS25zX3VONzF1TFd3aU1tWUdTMkZyQ0N2c2daRFg0ZUtxTDhZY2hfdWVuVktDb1lDVk9EZVN6OHhyOG9neFVGX1V5ZjhJV2JVNWNmSHpoSnJJQzhJcC1KWDhGcTlXamR2ekdoQW1SUEFDcDRiUk90U1NJMHRZbF8wOFJ1Tm11Y1nSAcsBQVVfeXFMTkNlSzQwMEJaU2VZYzJWWVBVYW56Y0t4T3JLV0xhWElfVW05VEhnMVhrWk1XamlPbFRrMTlKTmtRTVpxMjdQaHdtNWJLZHJ4ZERGRXFhUzNWZGpJaFU0WXJna1FTTFgyN2YwMEJTd0g1bVJUY2lWQ1dub3RBMkpTaU5BNEY2QnlrRUdSWTBfamF2bzVRcnF6ejd1d2l6Ynd5Wk5vMHhweW5ucTRXZDBHS19MRUVieGVNSV80UnBmNEFvUTBVSzlReFR5enM?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India-UK trade deal to offer export benefits from day-one; steel issues addressed: Govt Sources - The Economic Times
+  India-UK trade deal to offer export benefits from day-one.
+  🔗 https://news.google.com/rss/articles/CBMi7gJBVV95cUxQdTJZYmJuOFk1OVBXcUFPaThWNGxVRU94RXVKTXQydl9FMFBHSExyYUstQnY2ZkQ5RnBvREdWZ1RzcTNxRVVWMmpSdUEtM0YzSmhnYldmV0VXYVJnZmFqVUdVZGVZVHNFdk5Rd1VsbHVDWURlX0pOZ18tSUpINkNuWm5LVllOdTRKc2pJWWZsZmZOam5uWV9EZWgycnNMLXotdHlGOE5EWUpMZ2ZKUnhad1NGdDRWRzktMjB2eEJ6YTZRTmxRMTZlZnZZRElLQXNJQTR3cjVTZWxVNmtfbHNHTFUyRzh2S0Q2N29HWi1HZlY1OTlIS05BQ0liUDNqYWk0bFZJcnRqbnRwbEhsVEVIdnJmS2N0N2FmbXE2a3FFUEhtSEludExYTlNXaFhfYjlWVHNVNk9NNTBJc2otVVFqQXRjZG1pTmdxT05CM1J6YmR2UWoxaFBjQjVZMFVXbTF3MXNfbFJKalpwNDA5cWfSAYoCQVVfeXFMUDFHeWFocXZud0lBNlFPODJ0eFd3WU9GU2ctWFJqWmhjUTRhQnRza1VpRm1BTVlkQUFYT040TFVjSXVCbTBCSXpQRkotQ1d5MHBIRUs0M08ycTRvTlBIYm96c3NuSTJlYXpZT1VZd2pJa0JqbkZVSEJrZTBfRFJfS0pWYi1nUnBZQi1qSk5ZVENya2FzeEkzTzBBSGxzWE5vUVhNaHdQcUcyd29jS0psaC1MZ3pmNU1nRWpodURKQ0FOQjR3MjNTc0lRTTVqa2RIM3VRT1k3NnI2dXkzMkpTMHVQeWZDNGhuVTFab2xLRThXaG9ubWpmTE5iVlZ6d3d4LThxRGU3V1pWT1E?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
+  India’s largest stock exchange files for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
 
-_Last updated: 2026-06-18 03:03:07 UTC_
+_Last updated: 2026-06-18 10:17:42 UTC_
