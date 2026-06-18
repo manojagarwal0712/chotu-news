@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- ‘Safety of Indian seafarers important’: Modi tells Trump during G7 interaction
+- Highways ministry must probe resident claims of expressway route being changed: Bihar opposition
   
-  🔗 https://indianexpress.com/article/india/narendra-modi-donald-trump-interaction-g7-summit-indian-seafarers-10744752/
+  🔗 https://indianexpress.com/article/india/highways-ministry-must-probe-resident-claims-of-expressway-route-being-changed-bihar-opposition-10745211/
 
-- TMC split: LS Speaker invites Abhishek Banerjee to present his case on Friday
+- Leaks, loans and student stress: Rahul Gandhi’s Kota outreach before NEET retest
   
-  🔗 https://indianexpress.com/article/india/tmc-crisis-lok-sabha-speaker-om-birla-summons-abhishek-banerjee-merger-10744709/
+  🔗 https://indianexpress.com/article/india/exam-structure-or-rejection-system-for-aspirants-students-join-as-rahul-gandhi-kicks-off-campaign-in-kota-10745067/
 
-- Nicobar tribal councils seek scrapping of draft poll rules, slam Hindi candidate lists
+- Madhya Pradesh fast-tracks UCC – but there’s some opposition
   
-  🔗 https://indianexpress.com/article/india/nicobar-tribal-councils-oppose-draft-election-rules-hindi-imposition-10744662/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-ucc-bill-mohan-yadav-tribal-concerns-10745055/
 
-- Khan Sir case: Autopsy indicates no foul play in death of accused in Nepal hotel
+- Goa nightclub where blaze killed 25 ran without key approvals: ED chargesheet
   
-  🔗 https://indianexpress.com/article/india/khan-sir-case-accused-prince-yadav-autopsy-nepal-conspiracy-10744663/
+  🔗 https://indianexpress.com/article/india/goa-nightclub-fire-case-ed-files-chargesheet-alleges-birch-operated-without-key-approvals-10745053/
 
-- Telegram failed to curb fraud, fuelled public unrest: What govt’s blocking order says
+- At meet before Telegram ban, government flagged limited search feature
   
-  🔗 https://indianexpress.com/article/india/government-blocks-telegram-india-neet-ug-2026-paper-leak-10744666/
+  🔗 https://indianexpress.com/article/india/at-meet-before-ban-on-telegram-government-flagged-limited-search-feature-missing-proactive-steps-10745220/
+
+- OpenAI adds Google Gemini co-lead as competition for AI talent intensifies
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-adds-gemini-co-lead-noam-shazeer-to-growing-talent-roster-10745345/
+
+- Mosquito magnet? Study reveals why some people attract more bites
+  
+  🔗 https://indianexpress.com/article/technology/science/mosquito-magnet-study-reveals-why-some-people-attract-more-bites-10744898/
 
 - Why SpaceX is spending $60 billion to acquire AI coding startup Cursor
   
@@ -32,53 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/gmails-ai-summaries-are-now-available-globally-heres-how-to-turn-them-off-10744180/
 
-- Europe’s Ariane 6 prepares for heaviest-ever Ariane launch with 36 Amazon Leo satellites
-  
-  🔗 https://indianexpress.com/article/technology/science/europes-ariane-6-prepares-for-heaviest-ever-ariane-launch-with-36-amazon-leo-satellites-10744435/
+- Pet clinic chain Vetic secures $40 million to double clinic network across India
+  The startup will also use the funds to build an integrated digital platform with a focus on long-term customer retention.
+  🔗 https://www.livemint.com/companies/pet-clinic-chain-vetic-secures-40-million-to-double-clinic-network-across-india-11781706185694.html
 
-- Roblox rolls out age-based Kids and Select Accounts globally, including India
-  
-  🔗 https://indianexpress.com/article/technology/gaming/roblox-rolls-out-age-based-kids-and-select-accounts-globally-including-india-10744390/
+- RIL manifesto: Mukesh Ambani asks top executives to make Reliance world's first AI-native large conglomerate
+  Mukesh Ambani is focusing on AI incorporation throughout its operations. The initiative includes strategic hiring for AI-savvy leadership.
+  🔗 https://www.livemint.com/companies/news/ril-manifesto-mukesh-ambani-top-executives-reliance-ai-native-conglomerate-ril-agm-11781681979474.html
 
-- Embassy REIT inks  ₹1,250 cr mega GCC lease deal with Target
-  Target already occupies around 600,000 sq ft in Embassy Manyata in Bengaluru. The deal
-  🔗 https://www.livemint.com/companies/news/embassy-reit-gcc-lease-deal-us-retailer-target-bengaluru-real-estate-11781688129358.html
+- ISWAI welcomes India-UK FTA, hails lower tariffs on Scotch as boost for Indian spirits sector
+  The International Spirits and Wines Association of India has welcomed the newly implemented India-UK Free Trade Agreement. It says it will significantly boost bilateral trade
+  🔗 https://www.livemint.com/companies/news/iswai-welcomes-india-uk-fta-hails-lower-tariffs-on-scotch-as-boost-for-indian-spirits-sector-11781717255121.html
 
-- Beat the peers, drop the stock: The brutal reality facing Cognizant CEO Ravi Kumar
-  Cognizant is outgrowing its biggest rivals, yet its stock just hit a six-year low. Can CEO Ravi Kumar S’s radical
-  🔗 https://www.livemint.com/companies/why-cognizant-stock-is-falling-despite-strong-growth-11781691512358.html
+- Who is Michael Truell, the 25-year-old founder whose AI startup SpaceX acquired for $60 billion?
+  Cursor said its products are used by 64% of Fortune 500 companies. The company said its tools write more than 100
+  🔗 https://www.livemint.com/companies/people/who-is-michael-truell-the-25-year-old-founder-whose-ai-startup-spacex-acquired-for-60-billion-11781711255070.html
 
-- Wipro launches Applied AI Center of Excellence for Claude models — Here's all you need to know
-  Wipro launches Applied AI Center of Excellence for Claude models. It plans to enhance enterprise AI adoption and integrate it into core business workflows across industries.
-  🔗 https://www.livemint.com/companies/news/wipro-launches-applied-ai-center-of-excellence-for-claude-models-heres-all-you-need-to-know-11781686478273.html
+- HDFC Bank bond issue priced at 90 bps above US Treasury
+  HDFC Bank raised $750 million through five-year dollar bonds at 90 basis
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-bond-issue-priced-at-90-bps-above-us-treasury-11781706076394.html
 
-- CtrlS raises  ₹7,000 crore at $4.8 billion valuation to chase India’s AI data centre boom
-   CtrlS Datacenters is planning 4GW of data centre capacity by 2031.
-  🔗 https://www.livemint.com/companies/news/ctrls-raises-rs7000-crore-4-8-billion-valuation-ai-data-centre-expansion-11781687498706.html
+- Stocks to watch: IFCI, RVNL, HFCL among shares in focus today; check list here
+  On Wednesday, Sensex advanced 347.14 points, or 0.45%, to end the day at 77,155.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-ifci-rvnl-hfcl-among-shares-in-focus-today-check-list-here-11781748478532.html
 
-- Beyond ground handling: AISATS charts cargo-led growth with  ₹600 crore capex
-  AISATS plans  ₹600 crore FY27 capex and targets   3,
-  🔗 https://www.livemint.com/companies/air-india-sats-rs-600-crore-investment-noida-airport-cargo-expansion-11781663455213.html
+- Stock market today: Gift Nifty hints weak start; US-Iran deal, Fed policy to crude oil prices - 8 stocks to buy
+  Sensex and Nifty 50 are likely to open with caution as global cues vary. Investors are optimistic about reducing tensions and falling crude oil prices.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-deal-fed-policy-to-crude-oil-prices-8-stocks-to-buy-11781747146604.html
 
-- Govt's 5% GIC Re offer for sale fully subscribed; boosts FY27 divestment drive
-  Strong investor response triggered the full greenshoe option, despite a sharp 9% drop in
-  🔗 https://www.livemint.com/market/govts-5-gic-re-ofs-fully-subscribed-boosts-fy27-divestment-drive-11781703845875.html
+- Gold, silver prices recoup losses on US-Iran peace deal despite hawkish US Fed policy; Spot gold rate gains over 1%
+  Gold prices gained after a sharp decline of 1.7% in the previous session. The hawkish US Federal Reserve policy
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-recoup-losses-on-us-iran-peace-deal-despite-hawkish-us-fed-policy-spot-gold-rate-gains-over-1-11781748840294.html
 
-- Turtlemint Fintech Solutions IPO to open on Friday: 10 key things to know from RHP before you subscribe to  ₹883 crore
-  Turtlemint's IPO opens for subscription from June 19 to June 23. The company reserves 75% for QIBs, 15% for NIIs, and 10% for
-  🔗 https://www.livemint.com/market/stock-market-news/turtlemint-fintech-solutions-ipo-to-open-on-friday-10-key-things-to-know-from-rhp-before-you-subscribe-to-rs-883-crore-11781701771088.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 June after US Fed policy
+  Gift Nifty was trading around 24,056 level, a discount of nearly 37 points from the Nifty futures’ previous close. The trends on Gift Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-18-june-after-us-fed-policy-11781747578607.html
 
-- US stock market today: S&amp;P 500, Nasdaq futures edge higher ahead of Fed decision; oil drops for fifth day
-  US stock futures rose modestly on June 17 as investors awaited the Federal Reserve's policy decision. The Fed is expected to maintain interest rates amid ongoing inflation concerns.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-ahead-of-fed-decision-oil-drops-for-fifth-day-11781697231472.html
-
-- US Fed Meeting 2026 LIVE: Kevin Warsh faces first Fed test as Trump pushes for lower rates
-  The US central bank is expected to hold the federal funds target steady at a range of 3.50% to 3.75%.
-  🔗 https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-updates-kevin-warsh-fomc-policy-decision-today-rate-cut-sp-500-dow-jones-futures-trump-17-june-2026-11781694715934.html
-
-- Paras Defence, to MTAR Tech, HAL: Defence stocks rally as India's defence production touches all-time high
-  India's defence production hit a record  ₹1.78 lakh crore in FY26. The sector experienced 15.6% growth from FY25.
-  🔗 https://www.livemint.com/market/stock-market-news/paras-defence-to-mtar-tech-hal-defence-stocks-rally-as-indias-defence-production-touches-all-time-high-11781692740038.html
+- Asian markets today: Kospi up 1%, Nikkei rises 2% to hit new record high of 71,000
+  Japan's Nikkei 225 surged 2%, crossing the 71,000 mark for the first
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-kospi-up-1-nikkei-rises-2-to-hit-new-record-high-of-71000-11781746495224.html
 
 - Mint Explainer: Big Tech seeks to sell cheaper AI. Can India benefit?
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
@@ -100,125 +100,125 @@
   Auto industry and tech companies point out that since a vast majority of road accidents are caused by human error, such vehicle connectivity technologies can provide proactive
   🔗 https://www.livemint.com/technology/auto-industry-india-tech-companies-india-road-accidents-india-v2x-spectrum-11781592441642.html
 
-- Stock Market News, June 15, 2026: U.S. Stocks Jump, Oil Drops on Iran Pact - WSJ
-  S&amp;P 500 futures are little changed as oil ticks higher, traders await Fed rate decision. SpaceX Drops as Investors Await Warsh's First Rate Decision — Live Updates.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3dXV0d4NEk4bmxiS0RaZHV0dFVMbVVlcmk3S0RJYU5OUkEtT2wtLUs5UDdjV2VxVnlYT2pHdTVHLXlBR3kzNTRaUTNERVQxaDBSMEMyeXJJLTduOVZiRG5lZHVjTDNEYWFjTFE0aHZEZ0hOUlBDakxqSXlnZTc5RDlxd0t4ams?oc=5
+- Dow closes 500 points lower as Warsh’s first Fed meeting sets off surge in bond yields: Live updates - CNBC
+  Dow closes 500 points lower as Warsh’s first Fed meeting sets off surge in bond yields. Nikkei hits 71,000 for the first time.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9uTFFzUE5SblgwaXNYcjl5R1BNd0dVd3NELUZMRFVkNkpqOV96MUZqNTBQWkZNTzE0Um56VGNRTno4SEJybHRwRnpLTG9nRjJ2ZE0xRTR0ZFNMcXV6UWNNNlk2Y2hFUGRWcnd6V1BNLVhqUGZabUZZ0gF8QVVfeXFMTlV5eGVzUzFGN01QSGRBZHljQkNPeGJyYzIyYVFnMFA4Rk5SN081cXVnNzBZREhtYnVZUU5oSmVfeWtsWGNZX3JxaW5scWMxSzVZMmh5YnBLbmlSeUNwRHloT1JjWGtRWEs1ZDM0NXRmQ2UtTlpXTklRekFudA?oc=5
 
-- SpaceX gains 3% after surpassing Amazon in market cap - CNBC
-  SpaceX gains 3% after surpass
-  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQzFWNzFyQktlaWpGdUIzRmk4dTBoYnR5cGNsSjlDTEJEYnlUUlhPTlczMFZRS3B4S3B5blRLNnA1QWwwVlhjc1BraTVia2JhbFpITUxGU3ZrampDUFktdkhVV19DTWJUSWdNRFl5OThXVDJ5MkYtWTNn0gF_QVVfeXFMTW5xQy1tbGNrT2pTMVc1a20wSElvUGFHYmNhMHN4U1Y0SjEzT1B4a2ZUZXhtczhfWkd1T2V2OFRFRUI3cjBIOGwwc2ZoMlVwelZFN1FfNXp5MGNwdkRDaHNSajFuaUR3UXNXTXc5VkZrVFdNaEgtR2M0c0Y2UERrUQ?oc=5
+- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
+  NSE Filing Puts India
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
 
-- SpaceX rises 4% to leapfrog Amazon in market cap, closes short of Microsoft - CNBC
-  SpaceX rises 4% to leapfrog Amazon in market
-  🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE01Qmo5VEZHdzlsMGoySmlLdnBzTnFOQ3J3MjIzU0hJUm8wTnd0TFpuM1Q4VHF4WUlWazNSLUtzV1NsU1dsTjhLbUxYZGREa3QxeUhZQVBzN3Y3Y2hpNkVBMDR2akJNTVAtVXR5MzIxMk93N3Qw0gF6QVVfeXFMTkE2eE9ya3NtclN5bjVRdXl4VUhmSVRhSHZVT2lob1JsdnRlOEZkQVZpX1N6a2FuXzhnNllya0RIb1NZczItdjFULWRzbmFOWk5EOTNCQkRVOWtjTVk2TjlWdF9DdXJFUi1sNXdmMTBpZ1dZSFdRekhrREE?oc=5
+- Sensex Today | Stock Market Live: GIFT Nifty hints a firm opening; US markets fall, Asia rises - Moneycontrol.com
+  "Sensex Today: GIFT Nifty hints a firm opening; US
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPTnZ2d1ljOGlxN0l4VG9ldnItb3NkRjc2UzdEQWVEd21XTzNXZC1EVXN5VzhXNjB1ZHhCX3RmS1RRQVZmWWxrcDR0d1g0cTVya1c3X0ZNNU1IOS1NLThIMHdSS2JKZmtVczMyRXB5ZEdaRGNBYUFUNkdQckI3N19JTXVTQ0RKZ2ZHWDUzMmcyYjVoMEQySkFfd1hWUXBrWGVuM0JaLVVvZ0Q0V3l2VjBiMkRNeEJ6eENGMnpXWmVOX3JVcXpSQk5OYWF1NEtoMWhPbXVWQlcxSUp2ZklyckJnamVUVXBTOENpdW9sWENpWFdXRS1TZ095NjZoTFY3LXdGTzFYWmlTY1pLYjhYRzFpbFplSdIBmAJBVV95cUxPelFzWXBzbzVDTHFzTjd6eFV6a1cyOElINldQNnhfZU0xdGp2TmxnX05XYi1XRHN5d01kZ2UtRVU2VVI4QXhUZVhOXzlsa2ltZTFYZFNyTWNXTVFfVVQ4STVDTkxzcEMxbktSV0E0S3U3Z0d2WjhmQ1JDeVpQQXVfYUlHQ3o0RVRSY3NXLVFXcVNmUElJLWVoN2E1SlY4NTNQMXYtUHdldzU4UVZkQkpyQnJxYnVzUnZMZENLOUJsSWNDZnRBNzAwNHJoOWlwaV9ZVlZlSmQzcG1Lbnd6WDlMM1hicDlVTzYzYTN0dmgtS3JuTTk2eGJTdDJldm8zS2FraGg5QUZnT3ZvRUpET3RhU1NsZTZlREg0?oc=5
 
-- Stock Market News, June 16, 2026: SpaceX Rally Pushes It Past Amazon in Market Value - WSJ
-  The Wall Street Journal published an article on June 16, 20
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3JuWE5sSFptVEZmYnZBejVQUExGc0NHWEp4SXhGQmtSRTdIQkZob1JLM3NFSVVoRkZ3dWlVU3lpRjVSMzN3ZmpCWEZzLWxRZFFyWUdFdVNTNUo2QTBocmtEaFJUaUU4emhZbnZodFhRcDR5alJ5UzBwekpEb2stMU1NSjFBaE0?oc=5
+- Markets poised for a positive start as GIFT Nifty ticks higher - The Economic Times
+  Markets poised for a positive start as GIFT N
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTRWNG44RzkybTJmc2ZfMjhmbExpLWJtb044aUQ5VXR4dkZkSmN1YjZvSWZ4U0I0TXN2Q2FzRVJBQzc5N2xxMDV0WWlpQkc5WTYwdlVublJWMG15SEdVQ2FuZldYTkZUbmJaUDlDc3F0OG5ZRk5pX3BQbDRfXzZIRjRUYVk3NjRhQmptRzdfdC1jV1psb2o2OXUyUW5GaXFYcjJFMVdqNFZDS2gxUXBaY2gxam5fdllfdE9TT201anV5a1I2WnpBd2p3OUnSAdIBQVVfeXFMTjN6OVBObTJBejdKZW0wNU5QTTFpWlUwNWN1UzlURHBrbDMyX3FWcHluZnBETGNYUjBYWDdFb041dWNhUnRXcnAwaFZiQTRZeTJ0Zm5nVi1NV3Uyd24yWEktMXA5YUZfLWpfVmdvbnBQRW5tUkkxcWtvaWVzMk1VbkRsYUtBQWVrSnRTQlV3REx4OEkwaDFqTTJRUE5tREtvSnJqOU82ZjZQY2hlcXdSelJoYTdodlBzUU5LaXF2V0cxbnZxNmswXzNxOU5rdUJnOWtB?oc=5
 
-- Live updates: Bitcoin bottom signal flashes as holders absorbed 125,000 BTC in June - CoinDesk
-  . Bitcoin bottom signal flashes as holders absorbed 125
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3BnV0p5OUotMFRnTE1DaEVnZnpZUHpaUjl6V3Jmdjk0cTVLQ3pzaWZnWUZ0dWhWaGVlTEQyME0xVUJsYl9xSF9pSVdsRFRkYTJUUWlfaXMtekNsbHBNY3Zwc0VjQ1Z3NnlUNVoybTMtTmplN0dQZ0NaNm1wM1pTX3duV3lPOUZzMmppckZ5cXFKTURucjUzNTB6WjR4d0s5SVFWbW5ad3NqVVR0cHExWDZnNHBGQldHaWgzZHFUckdGQk0?oc=5
+- Trade setup for June 18: Can NIFTY50 sustain the gains above 24,000 on Thursday? - Upstox
+  Trade setup for June 18: Can NIFTY50 sustain
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWTlYTm5fdXE4QVNJekdMU0tRZWZKakh2WnVYcmh1OWNaN3IyMHpKQjBaU3VwQVNUTW1iTFZ6V2dlenhSTUhyeFIxdGdpaGVBTERVUmxVTkZFMDUzQjltdU5hbzlxcTVkTG9pUV9SZGdfTl95ZURMd0FlaTBRdklQVC16eTAwVGdNZV85aXlXN2tsOGhmQXc0aW9nVTZ6M2hhY3VNY1VSaUp4dlkyZjZreDhOckJRd2ZjY0ZjNHhxaVF3Qk9FUjl1WEVBX2xiLWxWN2tOYzVB?oc=5
 
-- HDFC MF, ADIA among buyers as Sepia Investments offloads Rs 749 crore in Corona Remedies via block deal
-  HDFC Mutual Fund emerged as the largest buyer of Corona Remedies. Sepia Investments and Anchor Partners sold shares worth about Rs 777 crore.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-adia-among-buyers-as-sepia-investments-offloads-rs-749-crore-in-corona-remedies-via-block-deal/articleshow/131804121.cms
+- Dividend alert! Last day to buy HDFC Bank, Tata Motors PV, 14 other stocks for dividends worth Rs 248
+  Under SEBI's T+1 settlement cycle, investors must purchase a company's shares at least one trading day before the record date. Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-hdfc-bank-tata-motors-pv-14-other-stocks-for-dividends-worth-rs-248/articleshow/131815749.cms
 
-- Rupee hits six-week high on RBI measures and dollar inflow hopes
-  The rupee extended its gains to close at 94.53 against the US dollar. The currency touched a six-week high before trimming intraday gains.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-six-week-high-on-rbi-measures-and-dollar-inflow-hopes/articleshow/131802645.cms
+- SpaceX shares decline for first time since blockbuster debut
+  SpaceX shares experienced their first decline since their IPO on Wednesday. The stock saw significant intraday swings, though it remains well above its IPO price.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-decline-for-first-time-since-blockbuster-debut/articleshow/131815693.cms
 
-- US stocks: US market ticks up ahead of first Fed policy decision under Warsh
-  The Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite all saw gains in early trading. chip stocks rebounded ahead of the Federal Reserve's first interest
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-open-higher-ahead-of-kevin-warshs-first-fed-meeting/articleshow/131802212.cms
+- Mobikwik shares in focus as IPO lock-in expiry frees up stake worth Rs 317 crore for trade
+  The shares of the fintech platform had made a solid market debut in December, 2024, listing with nearly 59% premium over the IPO price at Rs 442.25 apiece on BSE. This came after the initial public offering
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-in-focus-as-ipo-lock-in-expiry-frees-up-stake-worth-rs-317-crore-for-trade/articleshow/131815618.cms
 
-- BRND.ME converts into public company, eyes IPO in 12-18 months
-  BRND.ME, formerly Mensa Brands, has converted into a public company after shifting its corporate base to India. The consumer brands platform is preparing for a potential IPO within
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/brnd-me-converts-into-public-company-eyes-ipo-in-12-18-months/articleshow/131802085.cms
+- Positive Breakout: These 14 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-14-stocks-cross-above-their-200-dmas/slideshow/131815514.cms
 
-- Sebi warns of no regulatory recourse for investors trading in unlisted securities
-  Sebi has cautioned investors against trading unlisted securities through unauthorized websites and electronic platforms. The regulator said such platforms operate outside its oversight.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-of-no-regulatory-recourse-for-investors-trading-in-unlisted-securities/articleshow/131801933.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ifci-tata-motors-share-price-18-june-2026/liveblog/131815431.cms
 
-- G7 Summit 2026 LIVE Updates: PM Modi, Trump Hold Bilateral Meet - NDTV
-  " target="_blank">G7
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGNMZVlGTGtYSG5GQUNlbmFuQmh1TVlmX0dFTFU3VnhKUGx2eGJkRENzb2g4aTluWGk0dUhlaW5jZHVVM2tSeEptazYxNjZLMm5OQ3g4cDY4UnZDQXExY1ktaDFiSUw3Z2VwOVBaa1hGS00tZWFXQ2pBbll6T1E3SEFMSmtmaG0yQjk2WFNWRjByWXdubE16dkZ0UWdQWUwzdGNoZUdKSkgzaTZyTXRDNDN6aEV5eU1aWFVmUklTZnBLTTVIR3dISDFCQ0ZYLWpzTVJGaTZJbDR4T1hCamF2WHB5WklIeWVEb3MtTXdLSVVSd1HSAfsBQVVfeXFMUFpKOTViUEFJeHdCTEQ1U3VxeWx1ZHlSTVp1Tlg5Zk9IRzN2YThIUGxhTEd3R0dRTlNjckFKLUhST2ZkbmdxYXpuRDNzVEpSTjVYV1A2bXdPcUpPTHRmSGVrYl9uN2g5NlpBWWVPQkc0aUNVWW5wWnBoeVVuU2Z3THJTZG1kM20zM29nT04wRnRPcnhManBZQzhCN3pRRUk2ZDBTaUFubXRyN2g2UF9XTGNkVHNMZWVwSEs4d3hlaGpxVEM3SHlvMUZILW5RNW5ZUkRVeHpRSzdTcXdYRGFjQU91S0cxVUpIcGQyczZGRXhGWnVJcHlYRy14SXc?oc=5
+- Trump says he will visit India in the future during Modi G7 talk - BBC
+  Trump says he will visit India in the future during Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- Trump listening, Modi to G7: Shortage of trust, need to rebuild - The Indian Express
-  The Indian Express reports that the Indian prime minister will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNxanRVMjdUUGVqWDJLSklQNGw5YllYYUIwY08tSC1kVW9CUEwtNU9yOEN1TjVXVmxrRXJTaTdkSEpyMGlaTVB4NUhJR1VYNWJ0MFdTOE9oUks4MDd1VzlXNXZkQUJ1OUZ4SHRlT1FKSEI0ajVkMGFrN21KN29PN3hYNEktUUhkaHU1bEZmOUdfUWdRQnh3ZjBjUVdsWTZjWWVRaC1JUG5lUEVxcFRz0gG2AUFVX3lxTE1meU8tbVpwczVxRWdUWUhEQkoxcUl1bGVhZVNmTnlRaVJVNUEtV3hHLThPNExZU25UQUVfUXBSTFJrRURUWFA3ckZWWExKekVWVHJMUF9ES09xelBJTEZ5ZkxwLXdJX0VNS0ZzVjNDNmtGT3BuLTdJaXpvZWhMUW9NNzR4NTdwSXZyTTkxTGRVZzItS3E2REljX0tyU2Q2ckU2UG9kUDBQZHYtYmR5YlJuNWFDcXp3?oc=5
+- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
+  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
 
-- PM Modi-Trump meet LIVE: 'If India were attacked, we would help', Trump says during meet with PM Modi - Hindustan Times
-  PM Modi-Trump meet LIVE: 'If India were attacked, we would help',
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNA?oc=5
+- India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
+  India’s largest stock exchange files for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
-- NEET: Telegram challenges India ban over exam paper leak fears - BBC
-  Telegram challenges India ban over exam paper
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZU1rSzhCS0ZlV0xVX2pYV1BtZl9vWEh6RUJ3RFdBXzVxTW9pSTNlMWd5elJHTWVONThwb0pUeTFDQ01PUjZncFJ3WW05Zl9leXBZWHZfUHJJZw?oc=5
+- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
+  NSE Filing Puts India
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
 
-- Telegram banned in India till NEET-UG re-exam - The Hindu
-  Telegram banned in India till
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGRUTXhMQ1F0R1V1T2VoVE1YeGptd0dZZDViQThZdXM4WnBpazlfd2psdjhEb25oRy1ZZUNRbW1WSENqODhtTDBfOVZMc3RSQW5LYzZ4WUc4OG5vOFYwMUhPXzlVZUZaSUdrdWVTazNqTUZRNFNPLXdJbFl1SUd1R2FuNU12VERuSmttcjBBcEg2R3Z1YVAyYXBGQjlpdXU5ZFBVRkEyWmkzWWl0Tl9OV1VEQTNQSWlvRzlVVnVLSdIBxgFBVV95cUxOZ05ubGc1M05ocTlxUnVHMWJmTWo1N1o0WHBSQ2tvRldmM0g5bWs5OExsR1owdFpNQ2hoSFFqRUtLcS1Rek9RX0dLekM0U0luWklmanJSeEFHSDBFdkdJV1czV2piUTBuME03VDI5RzlvQzBCcjRkZTIzNEJUMC12YmlubmFuV3RpdXNEUld4cFpHZnFVUHpVaFo3ZjBLd1ZxTlVfeGkyZTNva1FuOC16dmxxd2x4RFludkhXSVp1Q2Y5ektDZ0E?oc=5
+- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
+  Why India Has A Seat At The G7 Table Without
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
-- G7 Summit 2026 LIVE Updates: PM Modi, Trump Hold Bilateral Meet - NDTV
-  " target="_blank">G7
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGNMZVlGTGtYSG5GQUNlbmFuQmh1TVlmX0dFTFU3VnhKUGx2eGJkRENzb2g4aTluWGk0dUhlaW5jZHVVM2tSeEptazYxNjZLMm5OQ3g4cDY4UnZDQXExY1ktaDFiSUw3Z2VwOVBaa1hGS00tZWFXQ2pBbll6T1E3SEFMSmtmaG0yQjk2WFNWRjByWXdubE16dkZ0UWdQWUwzdGNoZUdKSkgzaTZyTXRDNDN6aEV5eU1aWFVmUklTZnBLTTVIR3dISDFCQ0ZYLWpzTVJGaTZJbDR4T1hCamF2WHB5WklIeWVEb3MtTXdLSVVSd1HSAfsBQVVfeXFMUFpKOTViUEFJeHdCTEQ1U3VxeWx1ZHlSTVp1Tlg5Zk9IRzN2YThIUGxhTEd3R0dRTlNjckFKLUhST2ZkbmdxYXpuRDNzVEpSTjVYV1A2bXdPcUpPTHRmSGVrYl9uN2g5NlpBWWVPQkc0aUNVWW5wWnBoeVVuU2Z3THJTZG1kM20zM29nT04wRnRPcnhManBZQzhCN3pRRUk2ZDBTaUFubXRyN2g2UF9XTGNkVHNMZWVwSEs4d3hlaGpxVEM3SHlvMUZILW5RNW5ZUkRVeHpRSzdTcXdYRGFjQU91S0cxVUpIcGQyczZGRXhGWnVJcHlYRy14SXc?oc=5
+- Trump says he will visit India in the future during Modi G7 talk - BBC
+  Trump says he will visit India in the future during Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- Trump listening, Modi to G7: Shortage of trust, need to rebuild - The Indian Express
-  The Indian Express reports that the Indian prime minister will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNxanRVMjdUUGVqWDJLSklQNGw5YllYYUIwY08tSC1kVW9CUEwtNU9yOEN1TjVXVmxrRXJTaTdkSEpyMGlaTVB4NUhJR1VYNWJ0MFdTOE9oUks4MDd1VzlXNXZkQUJ1OUZ4SHRlT1FKSEI0ajVkMGFrN21KN29PN3hYNEktUUhkaHU1bEZmOUdfUWdRQnh3ZjBjUVdsWTZjWWVRaC1JUG5lUEVxcFRz0gG2AUFVX3lxTE1meU8tbVpwczVxRWdUWUhEQkoxcUl1bGVhZVNmTnlRaVJVNUEtV3hHLThPNExZU25UQUVfUXBSTFJrRURUWFA3ckZWWExKekVWVHJMUF9ES09xelBJTEZ5ZkxwLXdJX0VNS0ZzVjNDNmtGT3BuLTdJaXpvZWhMUW9NNzR4NTdwSXZyTTkxTGRVZzItS3E2REljX0tyU2Q2ckU2UG9kUDBQZHYtYmR5YlJuNWFDcXp3?oc=5
+- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
+  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
 
-- PM Modi-Trump meet LIVE: 'If India were attacked, we would help', Trump says during meet with PM Modi - Hindustan Times
-  PM Modi-Trump meet LIVE: 'If India were attacked, we would help',
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNA?oc=5
+- India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
+  India’s largest stock exchange files for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
-- NEET: Telegram challenges India ban over exam paper leak fears - BBC
-  Telegram challenges India ban over exam paper
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZU1rSzhCS0ZlV0xVX2pYV1BtZl9vWEh6RUJ3RFdBXzVxTW9pSTNlMWd5elJHTWVONThwb0pUeTFDQ01PUjZncFJ3WW05Zl9leXBZWHZfUHJJZw?oc=5
+- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
+  NSE Filing Puts India
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
 
-- Telegram banned in India till NEET-UG re-exam - The Hindu
-  Telegram banned in India till
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGRUTXhMQ1F0R1V1T2VoVE1YeGptd0dZZDViQThZdXM4WnBpazlfd2psdjhEb25oRy1ZZUNRbW1WSENqODhtTDBfOVZMc3RSQW5LYzZ4WUc4OG5vOFYwMUhPXzlVZUZaSUdrdWVTazNqTUZRNFNPLXdJbFl1SUd1R2FuNU12VERuSmttcjBBcEg2R3Z1YVAyYXBGQjlpdXU5ZFBVRkEyWmkzWWl0Tl9OV1VEQTNQSWlvRzlVVnVLSdIBxgFBVV95cUxOZ05ubGc1M05ocTlxUnVHMWJmTWo1N1o0WHBSQ2tvRldmM0g5bWs5OExsR1owdFpNQ2hoSFFqRUtLcS1Rek9RX0dLekM0U0luWklmanJSeEFHSDBFdkdJV1czV2piUTBuME03VDI5RzlvQzBCcjRkZTIzNEJUMC12YmlubmFuV3RpdXNEUld4cFpHZnFVUHpVaFo3ZjBLd1ZxTlVfeGkyZTNva1FuOC16dmxxd2x4RFludkhXSVp1Q2Y5ektDZ0E?oc=5
+- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
+  Why India Has A Seat At The G7 Table Without
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
-- G7 Summit 2026 LIVE Updates: PM Modi, Trump Hold Bilateral Meet - NDTV
-  " target="_blank">G7
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGNMZVlGTGtYSG5GQUNlbmFuQmh1TVlmX0dFTFU3VnhKUGx2eGJkRENzb2g4aTluWGk0dUhlaW5jZHVVM2tSeEptazYxNjZLMm5OQ3g4cDY4UnZDQXExY1ktaDFiSUw3Z2VwOVBaa1hGS00tZWFXQ2pBbll6T1E3SEFMSmtmaG0yQjk2WFNWRjByWXdubE16dkZ0UWdQWUwzdGNoZUdKSkgzaTZyTXRDNDN6aEV5eU1aWFVmUklTZnBLTTVIR3dISDFCQ0ZYLWpzTVJGaTZJbDR4T1hCamF2WHB5WklIeWVEb3MtTXdLSVVSd1HSAfsBQVVfeXFMUFpKOTViUEFJeHdCTEQ1U3VxeWx1ZHlSTVp1Tlg5Zk9IRzN2YThIUGxhTEd3R0dRTlNjckFKLUhST2ZkbmdxYXpuRDNzVEpSTjVYV1A2bXdPcUpPTHRmSGVrYl9uN2g5NlpBWWVPQkc0aUNVWW5wWnBoeVVuU2Z3THJTZG1kM20zM29nT04wRnRPcnhManBZQzhCN3pRRUk2ZDBTaUFubXRyN2g2UF9XTGNkVHNMZWVwSEs4d3hlaGpxVEM3SHlvMUZILW5RNW5ZUkRVeHpRSzdTcXdYRGFjQU91S0cxVUpIcGQyczZGRXhGWnVJcHlYRy14SXc?oc=5
+- Trump says he will visit India in the future during Modi G7 talk - BBC
+  Trump says he will visit India in the future during Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- Trump listening, Modi to G7: Shortage of trust, need to rebuild - The Indian Express
-  The Indian Express reports that the Indian prime minister will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNxanRVMjdUUGVqWDJLSklQNGw5YllYYUIwY08tSC1kVW9CUEwtNU9yOEN1TjVXVmxrRXJTaTdkSEpyMGlaTVB4NUhJR1VYNWJ0MFdTOE9oUks4MDd1VzlXNXZkQUJ1OUZ4SHRlT1FKSEI0ajVkMGFrN21KN29PN3hYNEktUUhkaHU1bEZmOUdfUWdRQnh3ZjBjUVdsWTZjWWVRaC1JUG5lUEVxcFRz0gG2AUFVX3lxTE1meU8tbVpwczVxRWdUWUhEQkoxcUl1bGVhZVNmTnlRaVJVNUEtV3hHLThPNExZU25UQUVfUXBSTFJrRURUWFA3ckZWWExKekVWVHJMUF9ES09xelBJTEZ5ZkxwLXdJX0VNS0ZzVjNDNmtGT3BuLTdJaXpvZWhMUW9NNzR4NTdwSXZyTTkxTGRVZzItS3E2REljX0tyU2Q2ckU2UG9kUDBQZHYtYmR5YlJuNWFDcXp3?oc=5
+- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
+  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
 
-- PM Modi-Trump meet LIVE: 'If India were attacked, we would help', Trump says during meet with PM Modi - Hindustan Times
-  PM Modi-Trump meet LIVE: 'If India were attacked, we would help',
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNA?oc=5
+- India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
+  India’s largest stock exchange files for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
-- NEET: Telegram challenges India ban over exam paper leak fears - BBC
-  Telegram challenges India ban over exam paper
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZU1rSzhCS0ZlV0xVX2pYV1BtZl9vWEh6RUJ3RFdBXzVxTW9pSTNlMWd5elJHTWVONThwb0pUeTFDQ01PUjZncFJ3WW05Zl9leXBZWHZfUHJJZw?oc=5
+- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
+  NSE Filing Puts India
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
 
-- Telegram banned in India till NEET-UG re-exam - The Hindu
-  Telegram banned in India till
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGRUTXhMQ1F0R1V1T2VoVE1YeGptd0dZZDViQThZdXM4WnBpazlfd2psdjhEb25oRy1ZZUNRbW1WSENqODhtTDBfOVZMc3RSQW5LYzZ4WUc4OG5vOFYwMUhPXzlVZUZaSUdrdWVTazNqTUZRNFNPLXdJbFl1SUd1R2FuNU12VERuSmttcjBBcEg2R3Z1YVAyYXBGQjlpdXU5ZFBVRkEyWmkzWWl0Tl9OV1VEQTNQSWlvRzlVVnVLSdIBxgFBVV95cUxOZ05ubGc1M05ocTlxUnVHMWJmTWo1N1o0WHBSQ2tvRldmM0g5bWs5OExsR1owdFpNQ2hoSFFqRUtLcS1Rek9RX0dLekM0U0luWklmanJSeEFHSDBFdkdJV1czV2piUTBuME03VDI5RzlvQzBCcjRkZTIzNEJUMC12YmlubmFuV3RpdXNEUld4cFpHZnFVUHpVaFo3ZjBLd1ZxTlVfeGkyZTNva1FuOC16dmxxd2x4RFludkhXSVp1Q2Y5ektDZ0E?oc=5
+- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
+  Why India Has A Seat At The G7 Table Without
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
-- G7 Summit 2026 LIVE Updates: PM Modi, Trump Hold Bilateral Meet - NDTV
-  " target="_blank">G7
-  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWGNMZVlGTGtYSG5GQUNlbmFuQmh1TVlmX0dFTFU3VnhKUGx2eGJkRENzb2g4aTluWGk0dUhlaW5jZHVVM2tSeEptazYxNjZLMm5OQ3g4cDY4UnZDQXExY1ktaDFiSUw3Z2VwOVBaa1hGS00tZWFXQ2pBbll6T1E3SEFMSmtmaG0yQjk2WFNWRjByWXdubE16dkZ0UWdQWUwzdGNoZUdKSkgzaTZyTXRDNDN6aEV5eU1aWFVmUklTZnBLTTVIR3dISDFCQ0ZYLWpzTVJGaTZJbDR4T1hCamF2WHB5WklIeWVEb3MtTXdLSVVSd1HSAfsBQVVfeXFMUFpKOTViUEFJeHdCTEQ1U3VxeWx1ZHlSTVp1Tlg5Zk9IRzN2YThIUGxhTEd3R0dRTlNjckFKLUhST2ZkbmdxYXpuRDNzVEpSTjVYV1A2bXdPcUpPTHRmSGVrYl9uN2g5NlpBWWVPQkc0aUNVWW5wWnBoeVVuU2Z3THJTZG1kM20zM29nT04wRnRPcnhManBZQzhCN3pRRUk2ZDBTaUFubXRyN2g2UF9XTGNkVHNMZWVwSEs4d3hlaGpxVEM3SHlvMUZILW5RNW5ZUkRVeHpRSzdTcXdYRGFjQU91S0cxVUpIcGQyczZGRXhGWnVJcHlYRy14SXc?oc=5
+- Trump says he will visit India in the future during Modi G7 talk - BBC
+  Trump says he will visit India in the future during Modi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- Trump listening, Modi to G7: Shortage of trust, need to rebuild - The Indian Express
-  The Indian Express reports that the Indian prime minister will
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNxanRVMjdUUGVqWDJLSklQNGw5YllYYUIwY08tSC1kVW9CUEwtNU9yOEN1TjVXVmxrRXJTaTdkSEpyMGlaTVB4NUhJR1VYNWJ0MFdTOE9oUks4MDd1VzlXNXZkQUJ1OUZ4SHRlT1FKSEI0ajVkMGFrN21KN29PN3hYNEktUUhkaHU1bEZmOUdfUWdRQnh3ZjBjUVdsWTZjWWVRaC1JUG5lUEVxcFRz0gG2AUFVX3lxTE1meU8tbVpwczVxRWdUWUhEQkoxcUl1bGVhZVNmTnlRaVJVNUEtV3hHLThPNExZU25UQUVfUXBSTFJrRURUWFA3ckZWWExKekVWVHJMUF9ES09xelBJTEZ5ZkxwLXdJX0VNS0ZzVjNDNmtGT3BuLTdJaXpvZWhMUW9NNzR4NTdwSXZyTTkxTGRVZzItS3E2REljX0tyU2Q2ckU2UG9kUDBQZHYtYmR5YlJuNWFDcXp3?oc=5
+- PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’, says Zelensky after meeting PM Modi | World News - Hindustan Times
+  PM Modi-Trump meet highlights: ‘Our countries have great potential for cooperation’,
+  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNNIB9AFBVV95cUxNVzVCRGVZbm11LUMxeklEbmFzUldjWmVVMUowN0pHampWcFluTmE1VXB2V3JIa0dnQkhLTTgxNUlySUFESk50Q0VRTVlwYUtPWHJIV0E0MGR1U1Y1cG8wR0Z5NndRM01CU08wRDRKRlhrUk5oMDVzcnNSVTFwMTNIZmx5dFFKWWlWWTRDV20wTUFYTzhoaEhoaXkxeGVDMWk5WEZiYXpieWlkaXFydTlzaXJFR3FEQXJJbHd3cVZYTkFleUQzVG5yM3hVS3ZCX3ctenY3V1ZYTUlReGNuZTBCXzJ3c1dZRl9SWUg5R3lEQk9QODhI?oc=5
 
-- PM Modi-Trump meet LIVE: 'If India were attacked, we would help', Trump says during meet with PM Modi - Hindustan Times
-  PM Modi-Trump meet LIVE: 'If India were attacked, we would help',
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbk8xYU9JRnlBOWlJM3FFNTBUY1NHSkJjNlRDUzFpcGUxMFFwZUg3cm82a1hZS25PMkRoOGZETi1UMVZIMmVwLW1mSFdTbmJjMTR0bmExTzYxeWdUUWJwbmg1VWJQbHN3eEpyY3FDQVI0VXhsYTFyYnJSWi0tb2hQMEdkaUYycldORmlfMWpxTzVmczhLSjBuQUFOWC03QkMyeXF4UV9SbF9DZjgwemRjRFIxczlPZVZUcmk3cW1BV1pBUkFVZUZTNFRBNDNFNW9MTU5YUzM4dzBoc3NXZDN5QXY1VExfZ1NZU3YwZHhVNA?oc=5
+- India’s largest stock exchange files for IPO as mega-listings gather pace - CNBC
+  India’s largest stock exchange files for
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE5qLWh2ZF91aVkyQzdHS0llUkNTTlFNdmQyVVFDRlRLWGlIeHQ5QnRwcFYyX3dOSjAtUnJyNEM2V29xaUZHV0lHc09WRzJ1WGM4MEtfRndNcHF2VFVBbUluTzIyYmhVNUVyZmJ3RUlaU2bSAXZBVV95cUxQVTAwUDY1YWp1ZnJ4RXFZeEpBNWktbzBLbUtNWlBnMVBoY3c2aFk2Z1Y5eS0yNjQ2cWdsdFpyR0ZISlpNcVBFSjk0VlBwZ0NiQ2RTZzBCbkRncDh5YUVmczhVMUpmTkFuOHpRMGVFdkZYSkJVQVBB?oc=5
 
-- NEET: Telegram challenges India ban over exam paper leak fears - BBC
-  Telegram challenges India ban over exam paper
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZU1rSzhCS0ZlV0xVX2pYV1BtZl9vWEh6RUJ3RFdBXzVxTW9pSTNlMWd5elJHTWVONThwb0pUeTFDQ01PUjZncFJ3WW05Zl9leXBZWHZfUHJJZw?oc=5
+- NSE Filing Puts India IPO Market Back in Focus - Bloomberg
+  NSE Filing Puts India
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFpSQnh2eFhZUFR4cWJGUWN5WVNMSnRmLUZLMTNjU28tWWZ0Wjg5RGV2cEhpTFJEY0UwckNXZGtjNnR5RlllQ29rMFVIZlBhSUkxMmpFUFluUDlWVE9PM3phdnRybFdiSnZGMmtOSFB0OXFqUWtSbGRBVkcyS3czMmlVY1dDSjl1NmNjcTNFY1lPYU1KR2dtR0hFbTJubEJ2a2c?oc=5
 
-- Telegram banned in India till NEET-UG re-exam - The Hindu
-  Telegram banned in India till
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGRUTXhMQ1F0R1V1T2VoVE1YeGptd0dZZDViQThZdXM4WnBpazlfd2psdjhEb25oRy1ZZUNRbW1WSENqODhtTDBfOVZMc3RSQW5LYzZ4WUc4OG5vOFYwMUhPXzlVZUZaSUdrdWVTazNqTUZRNFNPLXdJbFl1SUd1R2FuNU12VERuSmttcjBBcEg2R3Z1YVAyYXBGQjlpdXU5ZFBVRkEyWmkzWWl0Tl9OV1VEQTNQSWlvRzlVVnVLSdIBxgFBVV95cUxOZ05ubGc1M05ocTlxUnVHMWJmTWo1N1o0WHBSQ2tvRldmM0g5bWs5OExsR1owdFpNQ2hoSFFqRUtLcS1Rek9RX0dLekM0U0luWklmanJSeEFHSDBFdkdJV1czV2piUTBuME03VDI5RzlvQzBCcjRkZTIzNEJUMC12YmlubmFuV3RpdXNEUld4cFpHZnFVUHpVaFo3ZjBLd1ZxTlVfeGkyZTNva1FuOC16dmxxd2x4RFludkhXSVp1Q2Y5ektDZ0E?oc=5
+- Why India Has A Seat At The G7 Table Without Being A Member - NDTV
+  Why India Has A Seat At The G7 Table Without
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3VrYjBSbEkxbGZzaGs1ejliRDFnWTVDSGNuQkdZajR6VURwTi1jbnlxSzUxdjNLX1VaSDgwXzJZRUFpZWo2V2Y2OTE5MHJUOXA5MVpzVUtIS1ZkVEZvNTc0RDg1RWtLY3pJQzdDV1UtRDN0ekJHdERPbTlzaGFMT2Zqdjhoel9xX051Y0d6MjB4X0xRWHh0NG5CeURTX2xMVnfSAaoBQVVfeXFMT2FXQmh1TEw0Z2RTazRQRkZxM3c1V1o1S2JaNnp4Q2ZjSzZOY0J4RTR4YmZxYmlIbWFROERHVWc3VVh6U1lULWFrTzNscmY0dmhiMG9ITnkxZkkyMUxuVTc2VUQ1VmxaSnRFMndPaUNBZVFwYzlVTWFiT3MyNExReEpkRlhrMV9LLThXVWNwbk9nNlM1ZjFLYlo4NWZhQVk3OC0zZ1Vxb1RiTEE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-17 15:17:30 UTC_
+_Last updated: 2026-06-18 03:03:07 UTC_
