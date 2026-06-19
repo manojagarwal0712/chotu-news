@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- NHAI goes AI way: In-house system deployed to flag faults in highway project reports, track road defects
+- Constable ‘engaged in domestic work’, Odisha suspends senior IPS officer
   
-  🔗 https://indianexpress.com/article/india/nhai-goes-ai-way-in-house-system-deployed-to-flag-faults-in-highway-project-reports-track-road-defects-10746866/
+  🔗 https://indianexpress.com/article/india/constable-engaged-in-domestic-work-odisha-suspends-senior-ips-officer-after-inquiry-following-lynching-incident-10746831/
 
-- Why Indian money in Swiss banks is down despite 50% jump in ‘customer deposits’
+- Key distillery denied licence as Madhya Pradesh raises stakes for liquor industry
   
-  🔗 https://indianexpress.com/article/india/indian-money-swiss-banks-snb-report-customer-deposits-rise-black-money-data-10746541/
+  🔗 https://indianexpress.com/article/india/denying-licence-renewal-to-major-distillery-madhya-pradesh-govt-raises-stakes-for-liquor-industry-compliance-10746839/
 
-- Ranchi RSS office attack: Police suggest possible link to ‘international module’, arrest 3 under UAPA
+- Yoga Day is latest flashpoint between Congress govt and Kerala Governor
   
-  🔗 https://indianexpress.com/article/india/ranchi-rss-office-attack-police-suggest-possible-link-to-international-module-arrest-3-under-uapa-10746742/
+  🔗 https://indianexpress.com/article/india/yoga-day-prep-leads-to-new-congress-govts-latest-run-in-with-kerala-governor-10746837/
 
-- Reliance AGM 2026: What to expect from Mukesh Ambani’s address tomorrow
+- Bihar woman abducted from home, gangraped by 5 men
   
-  🔗 https://indianexpress.com/article/india/reliance-agm-2026-jio-ipo-timeline-ai-ventures-and-energy-projects-in-focus-10746607/
+  🔗 https://indianexpress.com/article/india/bihar-begusarai-gangrape-assault-probe-10746849/
 
-- Cross-voting from JDS, BJP helps Congress win five of seven legislative council seats in Karnataka
+- Andhra Pradesh’s shrimp farmers can’t catch a break: New crisis looms after tariff shock
   
-  🔗 https://indianexpress.com/article/india/karnataka-legislative-council-polls-congress-win-bjp-jds-cross-voting-10746705/
+  🔗 https://indianexpress.com/article/india/after-tariff-shock-a-new-crisis-for-andhras-shrimp-farmers-surge-in-aqua-feed-prices-10746840/
+
+- Meta bets on India as AI infra hub: ‘It takes a global network to enable a global network’
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/santosh-janardhan-meta-india-ai-investment-10747023/
 
 - Women see 145% salary hike after moving into AI roles: Scaler report
   
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/from-mit-to-60-billion-deal-meet-aman-sanger-cursors-indian-origin-co-founder-10746156/
 
-- AI industry leaders at G7 Summit call for US-led coalition to define rules and standards
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-leaders-g7-summit-us-led-coalition-10746117/
+- HealthQuad looking at deeper opportunities in new age healthcare with its Fund III
+  The early growth investor sees a wider and deeper opportunity across new age healthcare models.
+  🔗 https://www.livemint.com/companies/news/healthquad-announces-first-close-of-fund-iii-11781784097022.html
+
+- Blue Sapphire promoter taps 360 ONE for private credit to buy out PE investors in AIMS
+   360 ONE-backed funding of  ₹415 crore helped Pandey family consolidate full ownership
+  🔗 https://www.livemint.com/companies/news/aims-promoter-raises-rs-415-crore-private-credit-buyback-orbimed-bii-stake-11781761485572.html
 
 - Quote Of The Day: Why JRD Tata believed 'good human relations' are essential for success
   In a world increasingly focused on targets, productivity and performance metrics, JRD Tata's words serve as
@@ -52,33 +60,29 @@
   Emirates NBD group chief executive said the investment in RBL Bank was a
   🔗 https://www.livemint.com/companies/news/emirates-nbd-rbl-bank-deal-banking-sector-india-dubai-financial-market-11781788156893.html
 
-- IFC plans $371 million investment in data centre operator Sify Infinit Spaces
-  Sify Infinit Spaces, the data centre arm of Sify Technologies, received the regulator’s nod to raise about   ₹3,700
-  🔗 https://www.livemint.com/companies/news/ifc-plans-371-million-investment-in-data-center-operator-sify-infinit-spaces-11781785695839.html
+- Gold, Silver rates today: MCX gold rate falls near  ₹1.47 lakh per 10 grams, silver prices crash by  ₹6,000 per kg
+  Gold prices in the international market fell and were on track for a third consecutive weekly decline, weighed down by a stronger dollar.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-rate-falls-near-rs-1-47-lakh-per-10-grams-silver-prices-crashes-by-rs-6-000-per-kg-11781840396666.html
 
-- Bata India names Sanjay Rao as MD &amp; CEO, shares surge over 16%
-  Rao succeeds Gunjan Shah, who will conclude his tenure upon completion of his
-  🔗 https://www.livemint.com/companies/news/bata-india-names-sanjay-rao-as-md-ceo-shares-surge-over-16-11781785411130.html
+- Rupee opens 2 paise lower at 94.35 against US dollar
+  Rupee opens 2 pa
+  🔗 https://www.livemint.com/market/stock-market-news/rupee-opens-2-paise-higher-at-94-35-against-us-dollar-11781840068972.html
 
-- Multibagger Hiliks Technologies shares to be in focus on Friday after company secures  ₹95 crore order
-  Hiliks Technologies will attract attention on June 19 after securing a  ₹95 crore order from KMC Constructions for railway signalling and telecommunication works in Telangana. This
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-hiliks-technologies-shares-to-be-in-focus-on-friday-after-company-secures-rs-95-crore-order-11781803247581.html
+- Turtlemint IPO Day 1: Issue opens today. Check GMP, review, issue details. Should you apply or not?
+  Turtlemint IPO will be open from 19 June to 23 June, priced at  ₹144-152 per share, valuing the company over  �
+  🔗 https://www.livemint.com/market/ipo/turtlemint-ipo-gmp-turtlemint-ipo-date-turtlemint-ipo-review-turtlemint-ipo-details-turtlemint-fintech-solutions-ipo-11781837966446.html
 
-- SpaceX shares slide for second day as post-IPO volatility tests investor confidence
-  SpaceX shares declined for a second consecutive session on Thursday, falling as much as 10% during int
-  🔗 https://www.livemint.com/market/stock-market-news/spacex-shares-slide-for-second-day-as-post-ipo-volatility-tests-investor-confidence-11781801396868.html
+- Stock market today: Gift Nifty hints weak start; US-Iran deal, Accenture earnings to crude oil prices - 8 stocks to buy
+  Sensex and Nifty 50 are expected to open lower on June 19. Analysts remain cautious amid geopolitical uncertainties. Key stocks are recommended for intraday trading amid fluctuating investor sentiment
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-deal-accenture-share-price-to-oil-prices-8-stocks-to-buy-11781833633986.html
 
-- Gold, silver rates today: Comex gold and silver retreat as US Fed officials signal possible rate hike
-  Gold and silver prices dropped as the US Fed signalled a potential interest-rate hike. Gold futures fell $
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-retreat-as-us-fed-officials-signal-possible-rate-hike-11781796649508.html
+- Buy or sell: Gift Nifty hints at a gap-down opening, Vaishali Parekh recommends three stocks to buy today — 19 June 2026
+   Vaishali Parekh recommends three stocks to buy today — Meesho, Ad
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-at-a-gap-down-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-19-june-2026-11781833447406.html
 
-- Sebi eyes margin trading overhaul, tighter broker capital rules
-  The proposals include lifting the minimum net-worth floor to  ₹5 crore, rejecting lower
-  🔗 https://www.livemint.com/market/sebi-mtf-rules-margin-trading-facility-11781793877186.html
-
-- Accenture shares plunge 19% on weak revenue forecast; 2026 stock rout deepens to 50%
-  Accenture's shares have dropped 64% since February 2026. The company now expects lower revenue growth, despite reporting better-than-expected earnings per share.
-  🔗 https://www.livemint.com/market/stock-market-news/accenture-shares-plunge-19-on-weak-revenue-forecast-2026-stock-rout-deepens-to-50-11781792425972.html
+- Mint Explainer| What would it take for India to create a SpaceX?
+  SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
+  🔗 https://www.livemint.com/technology/can-india-build-its-own-spacex-mint-explainer-11781779111842.html
 
 - ₹33 LPA club: How Indian CXOs and VPs are using AI upskilling to command top salaries
   Tech-centric capability is no longer siloed within traditional engineering
@@ -96,129 +100,85 @@
   G7 summit focuses on contentious future of AI and US
   🔗 https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html
 
-- From leaked question papers to piracy and CSAM - why is Telegram always in trouble in one country or another?
-   Telegram has come under bans or other punitive actions in several countries in the past. This is the first time Telegram has faced such a restriction in India.
-  🔗 https://www.livemint.com/technology/tech-news/telegram-trouble-telegram-india-ban-online-piracy-illegal-activities-pavel-durov-arrest-11781678657673.html
+- Will Jio IPO finally get a date today? What to expect from Mukesh Ambani at RIL AGM
+  Reliance Industries shareholders eagerly await Mukesh Ambani's address at the 49th AGM. Investors also looking for updates on Reliance Retail's potential listing, AI investments, and green energy initiatives.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-jio-ipo-finally-get-a-date-today-what-to-expect-from-mukesh-ambani-at-ril-agm/articleshow/131845839.cms
 
-- Stocks rebound from Fed sell-off as chipmakers rally: Live updates - CNBC
-  CNBC: Stocks rebound from Fed
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTnpsQTRpT1dTMHotblVRbHFZVUlWcmd4MXloSEZIaWRJQXllTXFsWDVWT1V0UW9KQWpmbDk5X1d5TVBIUks1ZF9BbGNCZl9UOVpFd0NVQmRjV1pKUGJkR0R5aW5ZeUJXd2RtWmVlMzBJUU1pWEZV0gF8QVVfeXFMTW9TUTNfSWR6N3NuNVI0TGc0eUMzOExVOGdWVkdPQ25NLUVuYnVMM2ZFWW5Xck1FMWpTdGhnNzdISHY5R3ZIWG9Td1lYa0ZlcmFaanBCTHZUd2VYLUx1M2xTTlJ4ZzVabHJsWWpyVmExY3c5dkNMODF1Vzg3TA?oc=5
+- Reliance Industries shares in focus ahead of 49th AGM. What are shareholders expecting from Mukesh Ambani?
+  Reliance Industries shares are in focus ahead of the 49th AGM. Investors tracking possible updates on the Jio IPO, Reliance Retail listing timeline and AI investments. Sentiment remains cautious as the stock trades below recent
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani/articleshow/131845679.cms
 
-- Stock Market Today: Nasdaq Jumps, Oil Is Now Close to Pre-Iran War Prices — Live Updates - WSJ
-  Stock Market Today: Nasdaq Jumps, Oil Is Now Close to
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDBTaDlqZUNST2dKNFlReWV0NWg2bk1QeXgtM0dDVVEyM1lNQkVZdFFmSTV0a0hpTXZZZndsdUtObHJ5UHpwemplRW9SNUNCWUZSWDliTmRDWENTSlBGZHZlTDk1ejlGT1MwMW40ZVVDMEk0RGtwTC1OZWlJLVlDRURvV0lQY3M?oc=5
+- HDFC Bank shares in focus as RBI approves 3-month extension for Keki Mistry as interim chairman
+  HDFC Bank's interim chairman, Keki Mistry, has received a three-month extension from the RBI until September 18, 2026. Mistry took over after Atanu Chakraborty's abrupt
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-as-rbi-approves-3-month-extension-for-keki-mistry-as-interim-chairman/articleshow/131845391.cms
 
-- FTSE 100 Live: UK Unemployment Falls, Wages Grow Faster Than Expected - Bloomberg.com
-  The FTSE 100 is the world's
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQVjNKdEtUa1lWQ1pJSjZPRGxYMll1Y0cyT015akhudDlCeDBMV2ZXOHVKLUQ5QVBoeERUd1RENVdKa0xLbDRlUDJyVl9WWDkwS2Rqcjkwc0hCczFFUEt6azhKWS1mQ1BjcmZJeWFBTjNQMXBEWEl6cVdYUHZXWEhWdFAzUTlRYzhBbl9hS0hqRkhETlNuTTQzZHVwZXFrWUJfa2ZxNXgzWTdIM180LW9OX2QtekdQakdWdlk3OVg4dk43MHhLQmRMWXZlUGJEWnBieUV0Mld3YUY5ODNTTHY5Mk9PSklhdXNfTmhKYy0zNW41TkRJdVFLc29ObEUyVl9pRmhWRElNakxhanM2Z0hZ?oc=5
+- TCS, Infosys, Wipro, other IT stocks in focus as Accenture lowers FY26 guidance; ADRs crash up to 10%
+  Accenture’s trimmed FY26 revenue guidance and softer outlook on discretionary IT spending triggered a global sell-off. Infosys fell 10% and Wipro nearly 4%. The development raises concerns for TCS
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-in-focus-as-accenture-lowers-fy26-guidance-adrs-crash-up-to-10/articleshow/131845308.cms
 
-- Tom Lee: Market conditions could shift abruptly later this year and feel like a bear market - CNBC
-  CNBC: Market conditions could shift abruptly later this year and feel like
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnZoOG1zZ3ZaeWN4djR6Z0xNWWcyUEN3RGpLd3U4Y1RoMmpXVnFjWUZLMGxNSGhwVUs3dFVrVVF2NWRfMFFma0dLUzVpR196WWxLbTROQ1RNUElKT3BUcUh4OW90SXRndmJsTFo5Y2FrR0x0X1d4ZkJORzZXeFZ0V1ozTkV6UHRRaWZNY0cyZTBQVnlkSVdsLXNfNzRuNk9ETVQyd0FLSEZsNklMVFRPVzNRQVFOaGtacnc4WmR1aDZOZVRZalFKN2Z5cFBNUQ?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rally as Iran
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkRHUGF1b0hMYTROMXo0Q0pfLVpJSVNlSXFvSllmYUh0WnNwSGIwLVZVbnN5OEtrTFJXMXpQTWtWR3JUUkk2OUxlUHBuRDQ2LWxpUjBkYmdqM2duMHRZZEtfRDdKLVBZd3VNS3kwRUJGT0R2bVJNVy1MRHhIdm9mSlJ5bkZ6MjJKdFJRbUdUakZ3MV9MYzl6OHkzQ1JISDFlNzVDalJMSkxRejh2V2tfdmN3b042ZzUzelFRQWNxbVNqUzgtX3dhSEN2MU13amhWMGdDYUhEVkZBRUU?oc=5
-
-- SpaceX bankers prepare for bond sale of at least $20 billion
-  SpaceX is preparing to discuss a massive bond offering with investors. The company plans to raise at least $20 billion. The funds will refinance a significant bridge loan.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-bankers-prepare-for-bond-sale-of-at-least-20-billion/articleshow/131838013.cms
-
-- Brent crude oil price touches pre-Iran war lows after ceasefire deal
-  The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Some experts believe prices may not plummet further.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms
-
-- Bernie Sanders pushes 50%t public stake in AI giants, $1,000 dividend payout to every American
-  Senator Bernie Sanders has introduced legislation proposing a 50% public ownership stake in major US AI companies. This plan aims to redistribute the industry's wealth, with an estimated $7 trillion fund potentially distributing
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bernie-sanders-pushes-50-percent-public-stake-in-ai-giants/articleshow/131836774.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Banking stocks led gains, while broader markets stayed positive. Analysts remain optimistic on Nifty's trend but caution that near-term consolidation may follow the recent rally.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131835621.cms
-
-- RBI to conduct Rs 1 lakh cr 3-day VRR auction on Jun 19
-  The Reserve Bank of India will conduct a Rs 1 lakh crore variable rate repo auction on June 19. This move aims to manage liquidity in the banking system.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-1-lakh-cr-3-day-vrr-auction-on-jun-19/articleshow/131835243.cms
+- Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO Day 1 bidding starts today. Check key dates and other details
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131845193.cms
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
-  After 2025 QUAD snub and recent thaw in ties, Trump mull
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
+  "For India, AI Means All Inclusive": PM
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
 
-- PM Modi meets leading CEOs in France, discusses plans for India - The Hindu
-  PM Modi meets leading CEOs in France, discusses plans
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNejFqM3gyRzBIVExLQ09fVEVIVGFjb0ZyN0d0ZVlCS0RUcnBLOWgwSjJWQldzc1lkR3VhREdHbTd2dzB3ejlGSWZBbk92QVFFZ2pqbGpQUXdsTkkyTGlRNXJ0ME01R1AxeGRwMktFQU5yWHNzMFQ1MVBRZmp6b2VjbmtoMUs1b3hrbFpwZWNoUjVaQ3BKUFNXSTk2eEtKVVBGZFduWTcyMWk4YjdaajllcUU0ZjBUWGNjcUhUSm5n0gHEAUFVX3lxTE03ZEhKdHV4OHM2UGxhak53R29sZnZTTmRkMl9rSksyTVJjX2E4aVluY2xmWFE4TloyUi1jZzRUNFJlQ2dmZDVfcW1saDRnblFMQzhGelNTcmNUYmRpMmFjRGtQbV9WSlAySUNqWWlsYTZVWXA3Vk1LQVkycWw2YVdLNUdzNVVlSHdTcDJ4ZkdKSDl3Y1NsRWZpa2ZrR2RCX3BtVmNZLUFnSVBuR284Y3pFODRYYmJuYUFLcW1uLWxUU3cyTC0?oc=5
+- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
+  India emerging as 'trusted partner' to
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
 
-- BJP Leader Burnt Alive After His SUV Was Trapped Between Trucks, Set On Fire - NDTV
-  BJP Leader Burnt Alive After His SUV Was Trapped
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUNMX2xnYTZvSmt3UVJQcVZBLWx1MVR2ckNUd2hqdmd0dDRkNjVQcnZRUWRNcF84ZVhzNDM2X3V4UmRDbWN5UWtodmxpdzJRMy1NNlRTT0lmZEhuTHZrZDRWbUdES01Oc3FpQUNnbGJhTDFERllNSzl6ZU1uSEc1TXhNT0ZTaXJMMlpRclBEMmJPck42aVdURjU1WkJNTUFoV3BuTUVEaDFoM0pEVFBrSi1DakNlZW9KelZSQlJxcDV4QdIBygFBVV95cUxPRXNCM0NJY205aER3UHB6NTVfbW1PSURqWTR0b0ZoZlJxRmJxZ2FoUHhyTXZYXy1WcExtWXFvczVjdkFTRjhiTF9MVzludXAxQVY5QVJaZ2VGa2NfZjl4RElGT0JZN1ZDSTdveXZUeGxEaURTXzBnUjhSZE1CbmQ0RV84bUJFcmE2WmpTbGRpdEhhZm12ZEhWVUFNaUdDR2xnQ0FVVzQyRWZ0SHptMnBLdzdpYWRCbVNqZjRDNUVMMEFvRDVqX3NoRlFn?oc=5
+- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
+  Al Jazeera: Why was India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
 
-- India Rally to Beat Uruguay 3-2, Top Their Pool Unbeaten at FIH Hockey Women's Nations Cup 2025-26 - Hockey India
-  India beat Uruguay 3-2 to top their Pool at FIH Hockey Women's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFGSkdPSnMydmZPRkZFcTJ3c3NMVFdCR3YxUElXRlY3MUlkSVVpY0pDQkFFX2NhX1BsbjRtRm1Ldy14cDZ5c2pQb2NJdlM1T3M1VWtCbDR6cmtRcWRjWlB2bElfOGxXMHNKNm91X3k2YjhBc1pQOFFYSUkyOGhEcl9vZEV4Y3NYeWpHMHRHM011bmoyTXlGRUpidjlSbGRnY3RWLU9WTVRmTTZKY2U2MTlCMmU5UkFBMDh5TmNVNjh0a1U5c2k0cA?oc=5
-
-- Trump says he will visit India in the future during Modi G7 talk - BBC
-  Trump says he will visit India in the future during Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
-
-- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
-  After 2025 QUAD snub and recent thaw in ties, Trump mull
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
-
-- PM Modi meets leading CEOs in France, discusses plans for India - The Hindu
-  PM Modi meets leading CEOs in France, discusses plans
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNejFqM3gyRzBIVExLQ09fVEVIVGFjb0ZyN0d0ZVlCS0RUcnBLOWgwSjJWQldzc1lkR3VhREdHbTd2dzB3ejlGSWZBbk92QVFFZ2pqbGpQUXdsTkkyTGlRNXJ0ME01R1AxeGRwMktFQU5yWHNzMFQ1MVBRZmp6b2VjbmtoMUs1b3hrbFpwZWNoUjVaQ3BKUFNXSTk2eEtKVVBGZFduWTcyMWk4YjdaajllcUU0ZjBUWGNjcUhUSm5n0gHEAUFVX3lxTE03ZEhKdHV4OHM2UGxhak53R29sZnZTTmRkMl9rSksyTVJjX2E4aVluY2xmWFE4TloyUi1jZzRUNFJlQ2dmZDVfcW1saDRnblFMQzhGelNTcmNUYmRpMmFjRGtQbV9WSlAySUNqWWlsYTZVWXA3Vk1LQVkycWw2YVdLNUdzNVVlSHdTcDJ4ZkdKSDl3Y1NsRWZpa2ZrR2RCX3BtVmNZLUFnSVBuR284Y3pFODRYYmJuYUFLcW1uLWxUU3cyTC0?oc=5
-
-- BJP Leader Burnt Alive After His SUV Was Trapped Between Trucks, Set On Fire - NDTV
-  BJP Leader Burnt Alive After His SUV Was Trapped
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUNMX2xnYTZvSmt3UVJQcVZBLWx1MVR2ckNUd2hqdmd0dDRkNjVQcnZRUWRNcF84ZVhzNDM2X3V4UmRDbWN5UWtodmxpdzJRMy1NNlRTT0lmZEhuTHZrZDRWbUdES01Oc3FpQUNnbGJhTDFERllNSzl6ZU1uSEc1TXhNT0ZTaXJMMlpRclBEMmJPck42aVdURjU1WkJNTUFoV3BuTUVEaDFoM0pEVFBrSi1DakNlZW9KelZSQlJxcDV4QdIBygFBVV95cUxPRXNCM0NJY205aER3UHB6NTVfbW1PSURqWTR0b0ZoZlJxRmJxZ2FoUHhyTXZYXy1WcExtWXFvczVjdkFTRjhiTF9MVzludXAxQVY5QVJaZ2VGa2NfZjl4RElGT0JZN1ZDSTdveXZUeGxEaURTXzBnUjhSZE1CbmQ0RV84bUJFcmE2WmpTbGRpdEhhZm12ZEhWVUFNaUdDR2xnQ0FVVzQyRWZ0SHptMnBLdzdpYWRCbVNqZjRDNUVMMEFvRDVqX3NoRlFn?oc=5
-
-- India Rally to Beat Uruguay 3-2, Top Their Pool Unbeaten at FIH Hockey Women's Nations Cup 2025-26 - Hockey India
-  India beat Uruguay 3-2 to top their Pool at FIH Hockey Women's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFGSkdPSnMydmZPRkZFcTJ3c3NMVFdCR3YxUElXRlY3MUlkSVVpY0pDQkFFX2NhX1BsbjRtRm1Ldy14cDZ5c2pQb2NJdlM1T3M1VWtCbDR6cmtRcWRjWlB2bElfOGxXMHNKNm91X3k2YjhBc1pQOFFYSUkyOGhEcl9vZEV4Y3NYeWpHMHRHM011bmoyTXlGRUpidjlSbGRnY3RWLU9WTVRmTTZKY2U2MTlCMmU5UkFBMDh5TmNVNjh0a1U5c2k0cA?oc=5
+- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
+  India Slams Pak Over Terrorism At UN, Calls
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
-  After 2025 QUAD snub and recent thaw in ties, Trump mull
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
+  "For India, AI Means All Inclusive": PM
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
 
-- PM Modi meets leading CEOs in France, discusses plans for India - The Hindu
-  PM Modi meets leading CEOs in France, discusses plans
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNejFqM3gyRzBIVExLQ09fVEVIVGFjb0ZyN0d0ZVlCS0RUcnBLOWgwSjJWQldzc1lkR3VhREdHbTd2dzB3ejlGSWZBbk92QVFFZ2pqbGpQUXdsTkkyTGlRNXJ0ME01R1AxeGRwMktFQU5yWHNzMFQ1MVBRZmp6b2VjbmtoMUs1b3hrbFpwZWNoUjVaQ3BKUFNXSTk2eEtKVVBGZFduWTcyMWk4YjdaajllcUU0ZjBUWGNjcUhUSm5n0gHEAUFVX3lxTE03ZEhKdHV4OHM2UGxhak53R29sZnZTTmRkMl9rSksyTVJjX2E4aVluY2xmWFE4TloyUi1jZzRUNFJlQ2dmZDVfcW1saDRnblFMQzhGelNTcmNUYmRpMmFjRGtQbV9WSlAySUNqWWlsYTZVWXA3Vk1LQVkycWw2YVdLNUdzNVVlSHdTcDJ4ZkdKSDl3Y1NsRWZpa2ZrR2RCX3BtVmNZLUFnSVBuR284Y3pFODRYYmJuYUFLcW1uLWxUU3cyTC0?oc=5
+- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
+  India emerging as 'trusted partner' to
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
 
-- BJP Leader Burnt Alive After His SUV Was Trapped Between Trucks, Set On Fire - NDTV
-  BJP Leader Burnt Alive After His SUV Was Trapped
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUNMX2xnYTZvSmt3UVJQcVZBLWx1MVR2ckNUd2hqdmd0dDRkNjVQcnZRUWRNcF84ZVhzNDM2X3V4UmRDbWN5UWtodmxpdzJRMy1NNlRTT0lmZEhuTHZrZDRWbUdES01Oc3FpQUNnbGJhTDFERllNSzl6ZU1uSEc1TXhNT0ZTaXJMMlpRclBEMmJPck42aVdURjU1WkJNTUFoV3BuTUVEaDFoM0pEVFBrSi1DakNlZW9KelZSQlJxcDV4QdIBygFBVV95cUxPRXNCM0NJY205aER3UHB6NTVfbW1PSURqWTR0b0ZoZlJxRmJxZ2FoUHhyTXZYXy1WcExtWXFvczVjdkFTRjhiTF9MVzludXAxQVY5QVJaZ2VGa2NfZjl4RElGT0JZN1ZDSTdveXZUeGxEaURTXzBnUjhSZE1CbmQ0RV84bUJFcmE2WmpTbGRpdEhhZm12ZEhWVUFNaUdDR2xnQ0FVVzQyRWZ0SHptMnBLdzdpYWRCbVNqZjRDNUVMMEFvRDVqX3NoRlFn?oc=5
+- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
+  Al Jazeera: Why was India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
 
-- India Rally to Beat Uruguay 3-2, Top Their Pool Unbeaten at FIH Hockey Women's Nations Cup 2025-26 - Hockey India
-  India beat Uruguay 3-2 to top their Pool at FIH Hockey Women's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFGSkdPSnMydmZPRkZFcTJ3c3NMVFdCR3YxUElXRlY3MUlkSVVpY0pDQkFFX2NhX1BsbjRtRm1Ldy14cDZ5c2pQb2NJdlM1T3M1VWtCbDR6cmtRcWRjWlB2bElfOGxXMHNKNm91X3k2YjhBc1pQOFFYSUkyOGhEcl9vZEV4Y3NYeWpHMHRHM011bmoyTXlGRUpidjlSbGRnY3RWLU9WTVRmTTZKY2U2MTlCMmU5UkFBMDh5TmNVNjh0a1U5c2k0cA?oc=5
+- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
+  India Slams Pak Over Terrorism At UN, Calls
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
 
 - Trump says he will visit India in the future during Modi G7 talk - BBC
   Trump says he will visit India in the future during Modi
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
 
-- After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit | India News - Hindustan Times
-  After 2025 QUAD snub and recent thaw in ties, Trump mull
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPTHFGTWlnNDE4bUt0dHVhQnVvRVgxQ1dYcjB1TTR5Zmt5OHVWQU1HcUphVUIxMHNMN0VTbnVxQkZjODZIM3g3elFaMnd6NjlMVGhkNk9IM01Vb2N4dHo0c3gwblRmWEZkdWpDLUxMQWc3SWkwMHAyX2pod1EwRTZxM2RpRk1WNzhTTGVNbFZRdk1TdHNsQWtNX0FwMFE3ei1DWGd1RDhuLTh6bllIcDBaWnhyVm5PT0hDYVluREVoTExvNXRzVThTTUxZONIB0AFBVV95cUxOVmplMmVKSmNsTDFrY242Z1ZKRGwtNHpBVkpNS0tWWG82b1JIR25RMFlwaXBXTkRfQzhjOGVkQmtTVDBXV1ZJOV92WkZxYmZVOVczVlBpdXZSdERoVTMwQkYwbkFta0N5V0lMRFFqV0lCZlluWVVfLUxNZGpBNFZOMFRMLWFpQnVBOWZSc3llZHdmNEZtQWtVcTJqUktUQVlMSnpTUXkyaGJCRVNZaTNSMEZzV1JXRk1RN2FkTlVXdzB2QXhlaUszaWpQeGVoUHBa?oc=5
+- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
+  "For India, AI Means All Inclusive": PM
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
 
-- PM Modi meets leading CEOs in France, discusses plans for India - The Hindu
-  PM Modi meets leading CEOs in France, discusses plans
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNejFqM3gyRzBIVExLQ09fVEVIVGFjb0ZyN0d0ZVlCS0RUcnBLOWgwSjJWQldzc1lkR3VhREdHbTd2dzB3ejlGSWZBbk92QVFFZ2pqbGpQUXdsTkkyTGlRNXJ0ME01R1AxeGRwMktFQU5yWHNzMFQ1MVBRZmp6b2VjbmtoMUs1b3hrbFpwZWNoUjVaQ3BKUFNXSTk2eEtKVVBGZFduWTcyMWk4YjdaajllcUU0ZjBUWGNjcUhUSm5n0gHEAUFVX3lxTE03ZEhKdHV4OHM2UGxhak53R29sZnZTTmRkMl9rSksyTVJjX2E4aVluY2xmWFE4TloyUi1jZzRUNFJlQ2dmZDVfcW1saDRnblFMQzhGelNTcmNUYmRpMmFjRGtQbV9WSlAySUNqWWlsYTZVWXA3Vk1LQVkycWw2YVdLNUdzNVVlSHdTcDJ4ZkdKSDl3Y1NsRWZpa2ZrR2RCX3BtVmNZLUFnSVBuR284Y3pFODRYYmJuYUFLcW1uLWxUU3cyTC0?oc=5
+- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
+  India emerging as 'trusted partner' to
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
 
-- BJP Leader Burnt Alive After His SUV Was Trapped Between Trucks, Set On Fire - NDTV
-  BJP Leader Burnt Alive After His SUV Was Trapped
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUNMX2xnYTZvSmt3UVJQcVZBLWx1MVR2ckNUd2hqdmd0dDRkNjVQcnZRUWRNcF84ZVhzNDM2X3V4UmRDbWN5UWtodmxpdzJRMy1NNlRTT0lmZEhuTHZrZDRWbUdES01Oc3FpQUNnbGJhTDFERllNSzl6ZU1uSEc1TXhNT0ZTaXJMMlpRclBEMmJPck42aVdURjU1WkJNTUFoV3BuTUVEaDFoM0pEVFBrSi1DakNlZW9KelZSQlJxcDV4QdIBygFBVV95cUxPRXNCM0NJY205aER3UHB6NTVfbW1PSURqWTR0b0ZoZlJxRmJxZ2FoUHhyTXZYXy1WcExtWXFvczVjdkFTRjhiTF9MVzludXAxQVY5QVJaZ2VGa2NfZjl4RElGT0JZN1ZDSTdveXZUeGxEaURTXzBnUjhSZE1CbmQ0RV84bUJFcmE2WmpTbGRpdEhhZm12ZEhWVUFNaUdDR2xnQ0FVVzQyRWZ0SHptMnBLdzdpYWRCbVNqZjRDNUVMMEFvRDVqX3NoRlFn?oc=5
+- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
+  Al Jazeera: Why was India
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
 
-- India Rally to Beat Uruguay 3-2, Top Their Pool Unbeaten at FIH Hockey Women's Nations Cup 2025-26 - Hockey India
-  India beat Uruguay 3-2 to top their Pool at FIH Hockey Women's
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFGSkdPSnMydmZPRkZFcTJ3c3NMVFdCR3YxUElXRlY3MUlkSVVpY0pDQkFFX2NhX1BsbjRtRm1Ldy14cDZ5c2pQb2NJdlM1T3M1VWtCbDR6cmtRcWRjWlB2bElfOGxXMHNKNm91X3k2YjhBc1pQOFFYSUkyOGhEcl9vZEV4Y3NYeWpHMHRHM011bmoyTXlGRUpidjlSbGRnY3RWLU9WTVRmTTZKY2U2MTlCMmU5UkFBMDh5TmNVNjh0a1U5c2k0cA?oc=5
+- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
+  India Slams Pak Over Terrorism At UN, Calls
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-18 20:20:51 UTC_
+_Last updated: 2026-06-19 03:48:53 UTC_
