@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Constable ‘engaged in domestic work’, Odisha suspends senior IPS officer
+- Allu Arjun summoned to court in ‘Pushpa 2’ stampede case; trial set to begin
   
-  🔗 https://indianexpress.com/article/india/constable-engaged-in-domestic-work-odisha-suspends-senior-ips-officer-after-inquiry-following-lynching-incident-10746831/
+  🔗 https://indianexpress.com/article/india/allu-arjun-hyderabad-court-summons-stampede-pushpa-2-10747776/
 
-- Key distillery denied licence as Madhya Pradesh raises stakes for liquor industry
+- Could AI save a struggling tiger reserve?
   
-  🔗 https://indianexpress.com/article/india/denying-licence-renewal-to-major-distillery-madhya-pradesh-govt-raises-stakes-for-liquor-industry-compliance-10746839/
+  🔗 https://indianexpress.com/article/india/ai-surveillance-udanti-sitanadi-tiger-reserve-chhattisgarh-10747674/
 
-- Yoga Day is latest flashpoint between Congress govt and Kerala Governor
+- ‘Indus Water Treaty outdated’: India to Pakistan at UN
   
-  🔗 https://indianexpress.com/article/india/yoga-day-prep-leads-to-new-congress-govts-latest-run-in-with-kerala-governor-10746837/
+  🔗 https://indianexpress.com/article/india/india-pakistan-terrorism-indus-water-treaty-frankenstein-state-anupama-singh-10747241/
 
-- Bihar woman abducted from home, gangraped by 5 men
+- From Rare Earth Corridor to Light Metro: Top infra projects announced in Kerala Budget 2026
   
-  🔗 https://indianexpress.com/article/india/bihar-begusarai-gangrape-assault-probe-10746849/
+  🔗 https://indianexpress.com/article/india/from-rare-earth-corridor-to-light-metro-top-infra-projects-announced-in-kerala-budget-2026-10747302/
 
-- Andhra Pradesh’s shrimp farmers can’t catch a break: New crisis looms after tariff shock
+- In revised Kerala Budget, ‘Knowledge Valley’ to keep students from leaving, ‘silver economy’ for senior citizens
   
-  🔗 https://indianexpress.com/article/india/after-tariff-shock-a-new-crisis-for-andhras-shrimp-farmers-surge-in-aqua-feed-prices-10746840/
+  🔗 https://indianexpress.com/article/india/revised-kerala-budget-knowledge-valley-students-silver-economy-senior-citizens-10747515/
 
-- Meta bets on India as AI infra hub: ‘It takes a global network to enable a global network’
+- ‘We will build AI that is powerful, trusted and affordable’: Mukesh Ambani at Reliance AGM 2026
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/santosh-janardhan-meta-india-ai-investment-10747023/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/affordable-trusted-ai-mukesh-ambani-at-reliance-agm-2026-10747762/
 
-- Women see 145% salary hike after moving into AI roles: Scaler report
+- GTA 6: Everything we know so far as Rockstar gears up for pre-orders
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/women-see-145-salary-hike-after-moving-into-ai-roles-scaler-report-10746370/
+  🔗 https://indianexpress.com/article/technology/gaming/gta-6-everything-we-know-so-far-as-rockstar-gears-up-for-pre-orders-10747552/
 
-- Over 83% factory-reset their phones before resale, yet data security concerns persist: Cashify survey
+- Amazon explores selling Trainium AI chips, setting up a direct challenge to Nvidia
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/over-83-factory-reset-their-phones-before-resale-yet-data-security-concerns-persist-cashify-survey-10746330/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-explores-selling-trainium-ai-chips-setting-up-a-direct-challenge-to-nvidia-10747351/
 
-- From doctor to astronaut: Indian-American Anil Menon set for mission aboard ISS
+- Adobe expands Firefly with AI assistant upgrades, previews new creative AI studio
   
-  🔗 https://indianexpress.com/article/technology/science/from-doctor-to-astronaut-indian-american-anil-menon-set-for-mission-aboard-iss-10746274/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/adobe-expands-firefly-with-ai-assistant-upgrades-previews-new-creative-ai-studio-10747257/
 
-- From MIT to $60 billion deal: Meet Aman Sanger, Cursor’s Indian-origin co-founder
+- Fed up with your feed? Meta is finally handing the algorithmic steering wheel over to you
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/from-mit-to-60-billion-deal-meet-aman-sanger-cursors-indian-origin-co-founder-10746156/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/fed-up-with-your-feed-meta-is-finally-handing-the-algorithmic-steering-wheel-over-to-you-10747160/
+
+- Urban Harvest in talks to raise  ₹300 crore at  ₹1,500 crore valuation
+  B2B food-tech startup plans warehouse expansion as it scales its restaurant-supplies business.
+  🔗 https://www.livemint.com/companies/news/b2b-foodtech-startup-urban-harvest-in-advanced-talks-to-raise-300-crore-11781850174520.html
+
+- Reliance AGM report card: Company missed these key targets set over the last five years
+  Announcements made at Reliance's annual general meetings have a significant bearing on the company’s stock price. A report card of how the company fared on its past
+  🔗 https://www.livemint.com/companies/news/reliance-agm-reliance-share-price-jio-ipo-mukesh-ambani-ril-gigafactories-india-11781845318977.html
+
+- Telegram case: Delhi high court rejects plea challenging Centre's temporary ban on platform
+  Telegram had moved the Delhi high court requesting for an urgent hearing of the matter. Centre blocked Telegram until 22 June under Section 69A of the Information Technology Act.
+  🔗 https://www.livemint.com/companies/news/telegram-case-delhi-high-court-plea-centres-temporary-ban-messaging-platform-neetug-11781841381936.html
 
 - HealthQuad looking at deeper opportunities in new age healthcare with its Fund III
   The early growth investor sees a wider and deeper opportunity across new age healthcare models.
@@ -48,37 +60,25 @@
    360 ONE-backed funding of  ₹415 crore helped Pandey family consolidate full ownership
   🔗 https://www.livemint.com/companies/news/aims-promoter-raises-rs-415-crore-private-credit-buyback-orbimed-bii-stake-11781761485572.html
 
-- Quote Of The Day: Why JRD Tata believed 'good human relations' are essential for success
-  In a world increasingly focused on targets, productivity and performance metrics, JRD Tata's words serve as
-  🔗 https://www.livemint.com/companies/people/quote-of-the-day-why-jrd-tata-believed-good-human-relations-are-essential-for-success-11781802667904.html
+- Reliance AGM: From Satellite broadband to AI infrastructure - Jio’s five-point growth agenda
+  Reliance Jio is focusing on AI, satellite communications, and digital infrastructure for growth. Chairman Akash Ambani announced plans for an IPO and a shift to 5G by 2030
+  🔗 https://www.livemint.com/market/stock-market-news/from-satellite-broadband-to-ai-infrastructure-jio-s-five-point-growth-agenda-11781860794377.html
 
-- Cordelia Cruises to launch  ₹585-crore IPO next week
-  Cordelia Cruises plans to use up to  ₹480 crore from the IPO proceeds towards deposits, advance lease rentals and monthly lease payments to Baycru
-  🔗 https://www.livemint.com/companies/cordelia-cruises-to-launch-585-crore-ipo-next-week-ports-11781784352397.html
+- Small-cap stock under  ₹50 Indiabulls hits upper circuit despite stock market crash
+  Indiabulls Ltd shares reached a 52-week high of  ₹26.48, rising 5% while broader markets declined. The stock surged 196% from its low
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-indiabulls-share-price-hits-upper-circuit-despite-stock-market-crash-11781860969312.html
 
-- Emirates NBD sees India as key growth market after RBL deal closure
-  Emirates NBD group chief executive said the investment in RBL Bank was a
-  🔗 https://www.livemint.com/companies/news/emirates-nbd-rbl-bank-deal-banking-sector-india-dubai-financial-market-11781788156893.html
+- Jio Platforms to file DRHP today, to sell 270 mn shares in IPO
+  The Jio Platforms IPO is a fresh issue of 270 million shares of face value of
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-draft-papers-ipo-shares-reliance-industries-drhp-sebi-meta-google-offer-for-sale-11774521093481.html
 
-- Gold, Silver rates today: MCX gold rate falls near  ₹1.47 lakh per 10 grams, silver prices crash by  ₹6,000 per kg
-  Gold prices in the international market fell and were on track for a third consecutive weekly decline, weighed down by a stronger dollar.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-rate-falls-near-rs-1-47-lakh-per-10-grams-silver-prices-crashes-by-rs-6-000-per-kg-11781840396666.html
+- Multibagger Diamond Power Infrastructure shares gain 3% as board approves  ₹2,000 crore QIP
+  Diamond Power Infrastructure shares surged 4% to  ₹210. The stock's remarkable rally since April has resulted in an 86% increase. It is bolstered by significant order wins and a strong order book
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-diamond-power-infrastructure-shares-gain-3-as-board-approves-rs-2-000-crore-qip-11781858919877.html
 
-- Rupee opens 2 paise lower at 94.35 against US dollar
-  Rupee opens 2 pa
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-opens-2-paise-higher-at-94-35-against-us-dollar-11781840068972.html
-
-- Turtlemint IPO Day 1: Issue opens today. Check GMP, review, issue details. Should you apply or not?
-  Turtlemint IPO will be open from 19 June to 23 June, priced at  ₹144-152 per share, valuing the company over  �
-  🔗 https://www.livemint.com/market/ipo/turtlemint-ipo-gmp-turtlemint-ipo-date-turtlemint-ipo-review-turtlemint-ipo-details-turtlemint-fintech-solutions-ipo-11781837966446.html
-
-- Stock market today: Gift Nifty hints weak start; US-Iran deal, Accenture earnings to crude oil prices - 8 stocks to buy
-  Sensex and Nifty 50 are expected to open lower on June 19. Analysts remain cautious amid geopolitical uncertainties. Key stocks are recommended for intraday trading amid fluctuating investor sentiment
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-deal-accenture-share-price-to-oil-prices-8-stocks-to-buy-11781833633986.html
-
-- Buy or sell: Gift Nifty hints at a gap-down opening, Vaishali Parekh recommends three stocks to buy today — 19 June 2026
-   Vaishali Parekh recommends three stocks to buy today — Meesho, Ad
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-hints-at-a-gap-down-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-19-june-2026-11781833447406.html
+- Reliance AGM 2026: Jio IPO roadmap, AI vision and other key announcements from RIL's 49th AGM
+  Mukesh Ambani-led oil-to-telecom conglomerate, Rel
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-agm-2026-highlights-jio-ipo-roadmap-ai-vision-new-energy-and-other-key-announcements-from-rils-49th-agm-11781858079175.html
 
 - Mint Explainer| What would it take for India to create a SpaceX?
   SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
@@ -100,85 +100,25 @@
   G7 summit focuses on contentious future of AI and US
   🔗 https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html
 
-- Will Jio IPO finally get a date today? What to expect from Mukesh Ambani at RIL AGM
-  Reliance Industries shareholders eagerly await Mukesh Ambani's address at the 49th AGM. Investors also looking for updates on Reliance Retail's potential listing, AI investments, and green energy initiatives.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/will-jio-ipo-finally-get-a-date-today-what-to-expect-from-mukesh-ambani-at-ril-agm/articleshow/131845839.cms
+- Jio IPO explained: What a fresh issue and no OFS in India's biggest public offer mean for investors
+  Reliance Industries' move to structure the proposed Jio Platforms IPO as a fresh issue of up to 27 crore shares could make the issue more attractive to investors. Unlike many recent mega IPOs that mainly allowed existing shareholders to cash out
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-explained-what-a-fresh-issue-and-no-ofs-in-indias-biggest-public-offer-mean-for-investors/articleshow/131855331.cms
 
-- Reliance Industries shares in focus ahead of 49th AGM. What are shareholders expecting from Mukesh Ambani?
-  Reliance Industries shares are in focus ahead of the 49th AGM. Investors tracking possible updates on the Jio IPO, Reliance Retail listing timeline and AI investments. Sentiment remains cautious as the stock trades below recent
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani/articleshow/131845679.cms
-
-- HDFC Bank shares in focus as RBI approves 3-month extension for Keki Mistry as interim chairman
-  HDFC Bank's interim chairman, Keki Mistry, has received a three-month extension from the RBI until September 18, 2026. Mistry took over after Atanu Chakraborty's abrupt
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-as-rbi-approves-3-month-extension-for-keki-mistry-as-interim-chairman/articleshow/131845391.cms
-
-- TCS, Infosys, Wipro, other IT stocks in focus as Accenture lowers FY26 guidance; ADRs crash up to 10%
-  Accenture’s trimmed FY26 revenue guidance and softer outlook on discretionary IT spending triggered a global sell-off. Infosys fell 10% and Wipro nearly 4%. The development raises concerns for TCS
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-in-focus-as-accenture-lowers-fy26-guidance-adrs-crash-up-to-10/articleshow/131845308.cms
-
-- Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO Day 1 bidding starts today. Check key dates and other details
+- 'Tough times never last, tough nations do': Ambani seeks fresh RIL momentum after Rs 1.5 lakh cr...
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131845193.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tough-times-never-last-tough-nations-do-ambani-seeks-fresh-ril-momentum-after-rs-1-5-lakh-cr-/videoshow/131855269.cms
 
-- Trump says he will visit India in the future during Modi G7 talk - BBC
-  Trump says he will visit India in the future during Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
+- Jio IPO moves ahead: Board approves filing with SEBI, says Mukesh Ambani
+  
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-moves-ahead-board-approves-filing-with-sebi-says-mukesh-ambani/videoshow/131855183.cms
 
-- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
-  "For India, AI Means All Inclusive": PM
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
+- Don't buy this dip, wait for the next one, says CA Rudramurthy BV
+  CA Rudramurthy BV advises caution on fresh buying due to unfavorable risk-reward. He suggests waiting for dips, particularly around 23,800 for Nifty.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/dont-buy-this-dip-wait-for-the-next-one-says-ca-rudramurthy-bv/articleshow/131854286.cms
 
-- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
-  India emerging as 'trusted partner' to
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
-
-- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
-  Al Jazeera: Why was India
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
-
-- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
-  India Slams Pak Over Terrorism At UN, Calls
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
-
-- Trump says he will visit India in the future during Modi G7 talk - BBC
-  Trump says he will visit India in the future during Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
-
-- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
-  "For India, AI Means All Inclusive": PM
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
-
-- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
-  India emerging as 'trusted partner' to
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
-
-- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
-  Al Jazeera: Why was India
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
-
-- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
-  India Slams Pak Over Terrorism At UN, Calls
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
-
-- Trump says he will visit India in the future during Modi G7 talk - BBC
-  Trump says he will visit India in the future during Modi
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN1ROZF9kRUVBVjF0Q3dzcHJTcG45OHdRNGI5UHNJZGk5VjNDZ3dMVHJuZElPUTJIR185MjJ6YzFpcWlsVy1GcXZ4LXdIMlp4VzhFZDhYNG5nUQ?oc=5
-
-- "For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris - NDTV
-  "For India, AI Means All Inclusive": PM
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDJ6VTh1bWJNYzhvMWFQc1U0X2VmdVhpTjhwY1BFc25lVGh2c29xWGNrLTJYa0lUWmtENnYtb3JlWUgxeGtxT0hFZTBwMmhHUl84azhRVUhBNkRIVUZtUG92X2ViV2F4Ty1Lb2NsTUxjMTJOcFdQYk9DYlp4SGVvM2ZIU3JnS0FZbHdRWEpnajltRVd6NkhrN0VIYUtJMUxaY1RKSUh3TG9zT2fSAbMBQVVfeXFMT296TVNsWXhueTI4N01pQTZaY2Rlcm8yZm9aQkJEMl81dTM1enBlcldqbUlwaTE0dGhQWFpDeGFaLXdlUFRid1pPVlpjNWlybG9ST3BRWkhiZ3cyM1BzYUFoTVlTcUw5VkVmalA3WjZQanhVc1d4dDZLZHJvX1FjQnVWWjM5ckNDMW96eGM3UVZOTWM5ZHNLTGlPWjZPeElhZmRPY29vWEdJWjZiOU9yNDh5OUU?oc=5
-
-- India emerging as 'trusted partner' to the world: PM Modi - The Hindu
-  India emerging as 'trusted partner' to
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmc3eEp0eExuSVRsNnlOdUdWRzlBYm1sUGZwUlRNU1ZhT09aSGFNRk03R1NRbFprY3VmY0tIWFJLWjBhRXlhZXBiNVBzRnRSeGlsWFd2YnNCdGtCTWM5Wkp5bmRlUGI0MHk3VWZmTGNoRG1KQWFyZENiZENjaUhCdGNDNjBZeU5ybkxCZ29rZGJGZnU3X1hxQ2E2bTlYaWxfT0x4ajZzdE1McTVZeUhBV1IyaVpxMmh5SHfSAcABQVVfeXFMT1UzaHVDaDNkQkdhWGF0SU5vNmVNSHJYNnJNX0F4U3hBN2cyRHR0dncwalhIaXBnUDFZVEZoQjdyQUJoT1lCSmhXSXlzS0JCSGRrb3Y3SDJ0Y2RxbzQ2TW1VOUs5cTdGdUkxYlhxeU8tN1MyYzRRMVA2OV9kMzdrYkpKZU5mOUhNZ1hoVUhEdWRIalh0UkxYanpKNmpnMk5QaktXRlBkWDkwa0o0MTBHSnF3eU1JSTRfQkRnaGlUbU5V?oc=5
-
-- Why was India’s Cockroach Janta Party founder attacked? - Al Jazeera
-  Al Jazeera: Why was India
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxONXUzcllIRjlBVWdOMV95TWFmMGlWMTMtUFgtS3l0akhETS0wdHM1RzZsVTE0WjFvR0RPNHdPMExkLUFqVUdTa1I4ams5eWZpdmZ5WHdkdGxodVU4M3BScGRUU2dsNVZCVVZKVzYwTm5rOWVMYmlYUEUzd0hLbWstMTZmWGdQbUU5R19RT3dhWXVUdzcwM2dveHNaUGdEOWNDTmdqQmNCQdIBrAFBVV95cUxNY25ZZ3I1eko4UFFPekkzZExscGhFNzNHa2VXR3JjdjMtQmg1NmpsQ01aWExKRk9GVU9FNF9WODdPbjJrOHNTRFZyUWpHRUpXNVV0X3NoeGU1VDVFWmVITTY4YnlQOElKdmZHVE1pMHRORnhVLXNjdHBRMlBwUzJpc3pyZ2VISW1hLXE5VGJCXzJoMWkzTWZQNHZmWnlSQmhnV0hGSHpIZENFcjZi?oc=5
-
-- India Slams Pak Over Terrorism At UN, Calls It A "Frankenstein State" - NDTV
-  India Slams Pak Over Terrorism At UN, Calls
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUZ2UW96eHkxaTBwczZGSTZWeXBNbHVjUmk3ZjkxcnBuMk5PY3RvRl9BdDdUaWlRN2hXOXBwblF1RGNOVDQ1cWs4NHNmMEhpdjhZQjJia0tkNktqOEhZUGp4MndYeUJGbFFsOUFaWFo2WEl5MkhlN3BsNEU3VGRaMUdvUy1Xa1lmZ3Q1ZlBBNEJNMlk0ZGlMMktHVFRNS3IxV2VOT2sxdmtEMHhibjJQeXVQMGJ6ZHduOFd6QWkzN3UzN0JMTC1J0gHPAUFVX3lxTE1Pd08zV2tER3VPZ29ySkhDU2xnN2Y3ZGxuc2Z3aURKQzZHQXIxMmxuZ0FtQWN1aEh0S1BBWlB6V3FJSzk2V3NXU3NJaURQRmFmT2t0TDkyLXFUcnJETTZ4aWFkYTY1Sy0ybmdpWGhxdERNLXBUR2Fhbm5FbDE5TFNWRXloNWdPemRjZU8xSlJqX0xGY29uanhrQzZ1OEpfeGNjR1hoV2dCem9YQ0xwUWFGSkY5ME5UVkZ6YlFuVS0zU0xnMTRtbk5COGdVTHpIMA?oc=5
+- Jio IPO: Akash, Isha and Anant Ambani to lead IPO process, says Mukesh Ambani
+  Reliance Industries Chairman Mukesh Ambani announced that the board has approved the draft prospectus for the much-awaited IPO of Jio Platforms. Ak
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-akash-isha-and-anant-ambani-to-lead-ipo-process-says-mukesh-ambani/articleshow/131851345.cms
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-19 03:48:53 UTC_
+_Last updated: 2026-06-19 10:21:31 UTC_
