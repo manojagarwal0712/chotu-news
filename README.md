@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Amit Shah sets 3-year justice delivery target, pushes use of AI in probes
+- Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships
   
-  🔗 https://indianexpress.com/article/india/amit-shah-sets-3-year-justice-delivery-target-pushes-use-of-ai-in-probes-10748195/
+  🔗 https://indianexpress.com/article/india/indian-navy-indigenous-gas-turbine-generators-bharat-forge-deal-10748399/
 
-- Mall footage, a mysterious login, and a Hyderabad teen gone missing in Finland
+- Sujan Singh Park North row: Didn’t breach lease, real estate firm tells Centre
   
-  🔗 https://indianexpress.com/article/india/hyderabad-teen-goes-missing-finland-10747974/
+  🔗 https://indianexpress.com/article/india/sujan-singph-park-eviction-notice-sobha-singh-ldo-lease-delhi-10748378/
 
-- Chhattisgarh High Court allows jailed student to take NEET under police custody
+- Tej Pratap Yadav in eye of new storm, accused of threatening Patna family; FIR filed
   
-  🔗 https://indianexpress.com/article/india/chhattisgarh-high-court-student-jailed-suicide-abetment-case-neet-10747928/
+  🔗 https://indianexpress.com/article/india/tej-pratap-yadav-fir-patna-threat-complaint-10748337/
 
-- Odisha social security pension delay triggers political slugfest; Patnaik calls it ‘governance failure’
+- Giriraj Singh’s X post becomes Bihar govt recruitment exam question, BPSC takes action amid row
   
-  🔗 https://indianexpress.com/article/india/odisha-social-security-pension-delay-triggers-political-slugfest-patnaik-calls-it-governance-failure-10747998/
+  🔗 https://indianexpress.com/article/india/bpsc-exam-question-giriraj-singh-x-post-row-question-setter-barred-bihar-10748279/
 
-- Indian Railways to give Station Masters more powers; here’s what could change
+- From Kalamkari painting to Kashmiri carpet, PM Modi’s gifts showcase India’s heritage
   
-  🔗 https://indianexpress.com/article/india/indian-railways-to-give-station-masters-more-powers-heres-what-could-change-10747709/
+  🔗 https://indianexpress.com/article/india/narendra-modi-diplomatic-gifts-france-slovakia-g7-handicrafts-emanuel-macron-10748267/
+
+- Relativity Space wins Nasa Mars contract under Eric Schmidt’s leadership
+  
+  🔗 https://indianexpress.com/article/technology/science/relativity-space-wins-nasa-mars-contract-under-eric-schmidts-leadership-10748327/
 
 - Gemini Live can now remember past chats, access connected apps
   
@@ -36,29 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-in-app-backup-management-feature-for-android-report-10747890/
 
-- ChatGPT found generating disturbing images from a simple prompt, raising AI safety concerns
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-found-generating-disturbing-images-from-a-simple-prompt-raising-ai-safety-concerns-10747572/
+- OpenAI wants to transform healthcare—and this Indian researcher, Karan Singhal, is at the helm
+  OpenAI is investing heavily in healthcare as millions increasingly turn to ChatGPT for medical and wellness advice. Leading that effort is Karan Singhal, a former Google researcher who says the
+  🔗 https://www.livemint.com/companies/people/openai-wants-to-transform-healthcare-and-this-indian-researcher-karan-singhal-is-at-the-helm-11781885145558.html
 
-- "Stop Studying After Class 12": Ace Investor Says Middle-Class India Getting College Wrong - NDTV
-  "Stop Studying After Class 12": Ace Investor Says
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGxLUUxwTmF2M1B0cURkbktRODR2ZlhGNDBCME0zZjU0d2VqWjUyd2h6dVlFNkVfdmY2NnNnbDctSjFsTTBmZjRMMmVXUF9zZTRoSjk3WU5wcFJUdUJwY1BFUGJIRFltVl85ZUNYYWJ2Q3ZMQkt2anEtMVEzREVFdmVKb3E2SzV1SVoyTDN1QWhQc2EwX3JqWDNSZWtBQk4zODdraWEyeFNXMU45Z1I4d3F6M3pxZG9fM3E0SmVLd1ZLVXZzdk5EZTBIaXJocUFvcDk5bkluZmNIV1dlaUMzaS1iUdIB6wFBVV95cUxNc19RaWlMU1FYWjNoMmMxd2tWYUk5a21mVDk2a3RnQ3M3LUpyR0VWZkV5SFVndmFuVE9RUXJpZV9aSTlnQm9sVDVqa2tIdHN3VDlIRkUtaHhRVjBxbm1iUUdkRklTQi1qTXY0WmdFVkxLV1A1MDZILThyTGJuMVQwRXRVajQzeExxNTVYZmVBU2hpeEEwa28xZlVvU0ZyaElfVlpYRGxnQWhTYkxnY0JXemw1XzNJTlY0QS04VlBBX1A5Ukl6M0lfeG1nUzNWbTlnQlpCV09sVmdpUU54MVZHTzF3Umhpb3pSVDRZ?oc=5
+- Kunal Shah’s Cred scales biometric UPI users to near 10 million
+  The milestone comes as Cred looks to widen the use of its payments products beyond credit card bill payments.
+  🔗 https://www.livemint.com/companies/news/cred-clocks-nearly-10-million-biometric-auth-users-in-payments-push-11781876319379.html
 
-- India-U.K. FTA more than just about trade: Foreign Secretary Vikram Misri - The Hindu
-  India-U.K. FTA more than just
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlVYcG9VcGtNOS1FY2F2M1JBZnBrVkRLU2F3RVlGX1pRa1JIYzRvRjZObUYxOEpHMkN1Sy1qaEhyQ1dYbjZCMk9kbHpYX1h0VjdxOFJuU2pfZUNwWVdtTWlLQjZQY2NYa0dTeU1TQnVXR0NnQXhWRkluYUNjUk12NHlVV1Z4YTBvWTFKTjNweDRvZTBQb0s2RU1CaTdYVjhTM1Y0YUpiakxYMklYTFBBVUlOZjJTZGxTNmI0MlBuczhiVHh3YlRiUNIBzwFBVV95cUxQNmJlU1JpRWZlTF9fN1VsUHd0WkdhejBRaWE4eVM5OGpKcVhPNFNoMWtKZXB0c2VBWW1jckpJVGwxVnRKSDZyMUVEa2ZabDZvVVFtaU9hWV9QMDB2S0tkYXlFMHNmdUEzU1AyQnFkVnRoeUtsTzNPeW1UTy1BU0NQcmEwa2E0OER1ZGRtcHVzMUlPSjVXalJSMk5LTllYNkFpX2ZzVldYY1BGR25jN0xSeDFLNjdjT0thMjB6WGR5MHRyaEN6RlJETnc2a0I1SU0?oc=5
+- Succession at Reliance nearly complete, Mukesh Ambani, 69, says at shareholders meeting
+  Akash, Isha and Anant lead individual business verticals. They are simultaneously working towards the holistic growth of everything under the Reliance ecosystem, Mukesh Ambani said.
+  🔗 https://www.livemint.com/companies/mukeshambanisignalsnearcompleteleadershiptransitionrelianceagm2026-11781878201562.html
 
-- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
-  Reliance Jio announces what may be India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
+- Silicon Valley, sovereign funds and Ambani sit tight on their Jio stake in potential  ₹35,000 crore offer
+   existing shareholders including Meta, Google, sovereign wealth funds and private equity investors not selling stock in the proposed listing. Jio
+  🔗 https://www.livemint.com/companies/news/silicon-valley-sovereign-funds-and-ambani-sit-tight-on-their-jio-stake-in-potential-35-000-crore-ipo-offer-11781872330334.html
 
-- India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
-  India says Indus Waters Treaty outdated,
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
+- This 28-year-old quit law, cleared her student debt and built a  ₹38.5 crore business selling stickers
+  A side hustle helped Elyse pay off more than $75,000 in student debt. Despite earning a law degree, Elyse chose to pursue her art business full-
+  🔗 https://www.livemint.com/companies/people/this-28-year-old-quit-law-cleared-her-student-debt-and-built-a-38-5-crore-business-selling-stickers-11781877987424.html
 
-- Elderly Sikh Couple Shot Dead Inside Gurudwara in Pakistan, Main Suspect Arrested - NDTV
-  A Sikh couple was shot dead at a Gurud
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVrbWE0alJpZU01YUtzOVJBQ1ROVTJ4eTd6V3NRQUEzalZxZTNPWXV1eTg2RlRsVDVaSm02UEp3Tll4Vnd5c0d3NDY0ZDVRaVByQW5uXzc0WEpEVzA1ck9FZFJWUFpfLTZuTkhiRTJ5bmNtbnJtNTdDVU1YVTlqR2JWZkFJVF9zZnVPUmVibFJpODRLSDN0YlNoNDU5QUt3WHA1eFhQRzdPLU9aUFRoRTVFd0h5UzTSAb8BQVVfeXFMTmNwNDJUd0xJMDdSQnRJSFFDRmZ2OFBXc2RiRFhiMEF5R3lDRDFKX3IwN1J5V3pSRThIZ0M1UFMzOEdOd1lVM1l1R3BtZXRkXzF6b2w1bEFKVEpFdmw2YUF2cUFBZzE2VWZyWmg5cTZrUGx3SmdyZEhlSHJBeHpUbUZlekZCZ09WUC1mdGNVQVV1OHBqb0d6UU54VWthQUFpSE0wVmZOcWpMV0pMNDRWV0l3Nm0ycFR4Sjd2T2Uzc1E?oc=5
+- BSE launches India's first Saatvik Index to promote value-based investing
+  BSE Index Services launched India’s first Saatvik Index, the BSESaatvik 100. It offers investors a chance to align investments with value-based principles.
+  🔗 https://www.livemint.com/market/stock-market-news/bse-launches-indias-first-saatvik-index-to-promote-value-based-investing-11781887658321.html
+
+- Jio Platforms IPO: From AI ambitions to broadband expansion, 10 things to know from DRHP
+  Reliance Group's first public offering in nearly 20 years. It plans to issue up to 27 crore new shares, representing 2.9% of post-issue equity capital
+  🔗 https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-from-ai-ambitions-to-broadband-expansion-10-things-to-know-from-drhp-11781880216639.html
+
+- Gold, silver rates today: Comex gold and silver fall for second day as US Fed rate hike bets boost dollar
+  Gold fell $107 per ounce, and silver dropped nearly $3, marking continued weekly losses. Geopolitical tensions and delayed US-Iran negotiations further impacted market sentiment.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-fall-for-second-day-as-us-fed-rate-hike-bets-boost-dollar-11781873058321.html
 
 - FII vs DII: Structural shift from foreign capital dependence to domestic capital resilience
   India’s stock market has witnessed a significant transformation as DIIs usurp the dominance of FIIs. Record inflows from disciplined SIPs
@@ -68,57 +80,45 @@
   Indian equities closed the week higher on gains in financials, realty and capital goods. A Friday selloff in IT stocks and a worsening monsoon outlook
   🔗 https://www.livemint.com/market/nifty-sensex-weekly-returns-share-market-shares-nse-ipo-tech-stocks-11781872232086.html
 
-- Sebi to release fresh study on retail derivatives losses in July
-  The market regulator is conducting a new review of individual traders' profit-and-loss outcomes in equity derivatives.
-  🔗 https://www.livemint.com/market/sebi-to-release-fresh-study-on-retail-derivatives-losses-in-july-11781875903879.html
+- Mint Explainer| What would it take for India to create a SpaceX?
+  SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
+  🔗 https://www.livemint.com/technology/can-india-build-its-own-spacex-mint-explainer-11781779111842.html
 
-- Sebi reinstates open market buybacks, clears AIF and municipal bond reforms
-  Sebi approved significant reforms, including reintroducing open market share buybacks. It has also allowed mutual funds a broader scope for borrowing intra-day from banks.
-  🔗 https://www.livemint.com/market/sebi-reinstates-open-market-buybacks-clears-aif-and-municipal-bond-reforms-11781764403948.html
+- ₹33 LPA club: How Indian CXOs and VPs are using AI upskilling to command top salaries
+  Tech-centric capability is no longer siloed within traditional engineering
+  🔗 https://www.livemint.com/technology/tech-news/rs-33-lpa-club-how-indian-cxos-and-vps-are-using-ai-upskilling-to-command-top-salaries-11781792408551.html
 
-- Turtlemint Fintech IPO subscribed 0.46 times on Day 1; retail investors lead demand
-  Turtlemint Fintech Solutions' IPO opened on June 19 and garnered a modest response, with 0.46 times subscription by day's end. The company aims to raise 
-  🔗 https://www.livemint.com/market/stock-market-news/turtlemint-fintech-ipo-subscribed-0-46-times-on-day-1-retail-investors-lead-demand-11781869865083.html
+- Will iPhones and MacBooks get costlier? Why Tim Cook says Apple price hikes are unavoidable
+  Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
+  🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
 
-- Maharashtra signs LoI with Google for AI and digital technology training of over four lakh teachers - Newsonair
-  Maharashtra signs LoI with Google for AI and digital technology training
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTBzbG40TEFPV1JJSG85Vk1JWWk0RlowamZ1YXNnZGdQdzA2OFdkWE8wdG5QeVVsekFNTV9BZFVheUtxNnRTOFEtRWxSa3BNTFZDZXpVM2hrVFlwd2JkSHRJUUtxdVdTV3RIdExGZS1KNE8zVkdxNXphVm8ybHc2UTk5ejdtSU1BNTIyOEtjNWRidW1NcXhDRlkxSG5LaEZDTXZEeERSY1Zycnd0b0xPQVNRWDlZTnpXNFgtWXJEUHNvY00?oc=5
+- Mint Explainer: Big Tech seeks to sell cheaper AI. Can India benefit?
+  Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
+  🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
 
-- ‘Toy Story 5’ can help parents trying to manage their kids’ relationship with tech - CNN
-  ‘Toy Story 5’ can help parents trying to
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1GTUlVZzk5M2hIeFVhSEpHQkg4c01WNm1mcXFpaDhGMGprUU9vT1F0RlhkNWFyMkJVbXowTWY2cU1aLS1Wb2dfa0pycXp6NEVuWktpeWE4SHJtNjBaWjRYQ1h5QVdtT2dnZFR4bmhOVlJQV2hqZVE?oc=5
+- The Latest: G7 summit focuses on contentious future of AI and US dominance of the industry
+  G7 summit focuses on contentious future of AI and US
+  🔗 https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html
 
-- India needs a new 'independence movement' to reduce reliance on foreign capital, energy, defence and technol.. - BFSI News
-  India needs a new 'independence movement' to reduce reliance on foreign capital,
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOdzFWWlMybS1ua1I3X3g3eHk1RF9KRXpEOEF0QUpWVlFnRU02LXhFZE44WEUtY1FjeUVLbEFRMUZab0llb1REeUEyQV9CcWVXcEVtWng3aXBfRXhGb0hHdWJEaV8wVFp4ak9CMWRmNGlwSk0yc2w3X01BTFFZY09FY0Z5VGlfYWZhUl9oUVFnOEdvNXJiOV91dXBFdTVZS2pxc2pzcGhFSDN1ZWxGSUpsQVVObHBiMmdxeEpJYjRZRTJuWm1ZbWswcEFIM05RU01jV3h0ckhncE8zOFRUbTR4dmJrQ0VoaTdZRVQ5YTVpVXoyNG1LVWtRazl4cS05UUpTUmh6ZUROdUxCSDNTSVJGWWROTjVDbDczTk92YzB5d2d0ODZ3ZnhjemhRSDNYcDN6d1lsSFVCQk5Nck5vNHRkTU9FbHdGN0puYVJjNUFRQ2JiUHPSAZ8CQVVfeXFMUFdXM1loYVlfUWEtb2RTZXJHWjF0aHlPZElYVFJQb2k4UEZfUVU4dEh2dGRhNkNxMnNrNXNGNmlYMUZub1hFSDdtX2dCRE9NTVZiUFdtV3pac0hHNXVUbl9MR3FzWjVkRUJwNGZBeHVEbVFhMUQ5cU5KMEJXYzE1Wk1tRFMxVEV0UzdEQUF3LTZZUVhpQ1YwNURfal9rNjk0cHZjelhvVWFLNl9vSUkyTko1WnV2cWV0T3ZoRmdkTjJhaW1IaHBYQjZ6QlV2QjhocU1lTkdEUDgtYkdjSFh4aTVwNmFyUFB0YjVBc3R1WGtORTJfckFzWkpDZFdJdnV6ZWF4U1JoUlVsV0V5YTRONVhNMmFmNHhqZFR0djg4dUU?oc=5
+- Stock Market News, June 18, 2026: U.S. Stocks Close Week on a Strong Note - WSJ
+  Stock Market News, June 18, 2026: U.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDBTaDlqZUNST2dKNFlReWV0NWg2bk1QeXgtM0dDVVEyM1lNQkVZdFFmSTV0a0hpTXZZZndsdUtObHJ5UHpwemplRW9SNUNCWUZSWDliTmRDWENTSlBGZHZlTDk1ejlGT1MwMW40ZVVDMEk0RGtwTC1OZWlJLVlDRURvV0lQY3M?oc=5
 
-- Smart Seed Coating Technology, Key Features, Significance, Latest News - Vajiram & Ravi
-  Smart Seed Coating Technology, Key Features,
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE8waVE4X3p6Q2FVLUN1dzhBaWw2OVhLWFF4ZmF3UWFraF9EVEV1ZDNMZFN5S29LT1dWbFZvaHdQTEZiY0l6alVtYVM4Yld0S3EydDBQVDRVMkRzXy1kaUN3TWViQkFfekNEd3dHeUEycjFnNzU5clg4QWJtVjJOdw?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq rally as Iran
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2Ftc0l5eHQ3SkVMU1NFZFUyaS16cmN2MjNaNXBwWHJHM2hZVVZEbnVDSjZuMm4zMkx1bGhqSk4yMmhpbVFJTTFhRkoxdElmclI4aGJlaVdBUl9jeGU1aTd1ZXhsNEpoY1RRQi1rQ0hQS25GVVRNQTBNczlzMHF6TnRLemV4WWZ3eDZCQkh0Y1M3cG9TT2U4SVV4ck9oQlp3OWpjNW5Vd1o2RS1SWnhCeThDaC01ZkRzZTUyMmEwa2VHVDhoc3VNWnBwcVNEbEE?oc=5
 
-- Chinese doctors help Zambian hospital through technology transfer - news.cgtn.com
-  Chinese doctors help Zambian hospital
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0l2N3JxVUxiYm9YZjFEWWgxMF9ZT1ZYaG0teVpTMU9Sc1VSR3ZSR3p6akVLTGZHTTFqLUp0azhnQzRja2wzT3BYMzZsSW9OMTFWZzZDOHBPRG9haHViNTBVWDVUV1VUdnVIU19CQkwyY0pTZVpkRnhJSU14SE9NNlEwcUVPZGhicW9QV1E3YWxQUmQwcEg3QXdlSlpEQWVFNTdITVRRSGU0OHVxTEppZ3dWd1hXam4zN1RFNDlUSQ?oc=5
+- Futures Fall With U.S. Markets Shut; Watch For This SpaceX Move - Investor's Business Daily
+  Futures Fall With U.S. Markets Shut
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEhrdlloWm5pS3hyaVF6azNTZW9TbnJFU01aTmJNems5Tk1ROUl1aGxhY3BfTkZYNlZOMkJtTDRuWXNvcFJEb2FnQ1duY0VOU20zNGIxaXhmcHU1WXMzNTNiYl9IZmZRTzlfT0k5NnA5ejQ1MGJlR21melNMOFVsbVpvc1RzdmdCOWszMnluZ2ctbkY4ajFZZDVsakZTZENyanJjWmozcGhJNDJneTZxU1luT3h2Zw?oc=5
 
-- Sensex Today | Stock Market Highlights: Sensex ends down 600 pts, Nifty holds above 24,000 as IT selloff offsets broader strength - Moneycontrol.com
-  Sensex ends down 600 pts, Nifty holds above 24,000 as IT selloff offsets
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQSDViVnlmeGFhcjFCY2lEN1FPMGpjOWdhQXFEOWFtY0VUaGgzZGRNRl9MNVJETFZfVUdacmtBQTB6OGdXTjJnUEVSU25GNUdtcEZrYThxYVByT0xJNzNGblZ5TklvTU9UcTROdF9PUU5QWUNKV1VBUFNzckNXU0dOZlhlZXg3WHhjUXFMdlFuX1VCbEpOOG5wSk5Rdkk2U0RvTm0yaFdWWTVwZFg1RU45a0dIMlNhcVdXamhYSFdWOW0zVU5ZWDdHQTd6RVkyXy1KRS1HVURsZlZpbFcyZFEzbENyanFJWkRSUkkyOUhndFF2S3h0LWtiSTNsRmhFS08zQzhIZTZJb0VGWEJVZ1piWm1Ib9IBmAJBVV95cUxOckZjUTlwLUZfcUd0NUp5TnRyblJOenhrb3gxaU4yRlZSQmJtWHp1cGhIWjJ1b0JFM3djNlUzSFZ4OGpZTXUySjlVQ2h4cnNPTjBYT0pVdzhkYnh0Y1kwQW9XVzBQQXNhQzZ1S2lPSXlCNV90dHpTV1JPMmEwUHJuUUpiTm1FWjdleDhvZ1pPOUNjSHotR0JoVzdXVjdLX0FxQU9hdXRwRVZzRWpqOXViZU1DaDY1eUY4cG1WZGFLS0V2YUw3YmNwd2dBRlVlbUhJRkNSTDRYd0tWbXQzQ0h0Q1BMZ05kWGZtb3dlUEsxQnlzeVRKZ2xtclhRdGJ5UThhRlZ6RkFnUDdUOVlXekk0SXV2SzJmMTlz?oc=5
-
-- Why did market fall today? Sensex slumps 600 points, Nifty closes below 24,050. IT selloff among 5 key tri - The Economic Times
-  The Economic Times: Sensex slumps 600 points, Nifty closes below 24,050.
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQNEhncVE4dTVfRFR0VnN5ZkVrUmNNUlBnVWxpcE5wN1dOYWxzcEhvSUZZTmIxcHFIVXllX2YzNWVYQ01ZUFdqSzdneld3MjRXUlFaak9lLWxfLVFkbGIyVnRfcnExejBSZ0JHLVNOcjBKcVQ3dkRiMDdLRzAzN3RqSFVvSzhPaHhKcWlwYzVXdjh3R2ZWMy1Jc2JxRkxGRUIyYlVKcjlTX2NyWExUU0w2Vkdiamw2M1ZYMDh1Uk5YQ2NOTVNvQmhpbnVUeTdicV9vWUxWUGF1VXRiU19OYl9vN1gyazd1MWtrSTkycDRjTWZYRU1uUUtFZzk2VGF0clhzN1hBSVExQk9oRFZpS0gw0gGUAkFVX3lxTE5ObDl6VGZkR1FBTWRiVjM1VHdiTXFKLW9aaWVWU3laR25aYk04Q2JDWHprdjJqUUJWUUY4TU9vTzJHNEd5aGkwdkRjSjBPNmJzdm4tNFFuWVJISWhCbllBVEdSRFM1WkV3RnhFOURoeXB0UlRVSGFjbzNzN1ZwZ1NLVFpBSnNFTGF6dm1JclRSTnp3ZjhTNEFmS3o0VFhReGdORlo2eDRxTTIybzhMU0hFeFhqXzB5em5Ldks1ZzZnUUNkb0hPYVlzZ01ENDMwaXB5VktnVGZrR3hXc3RIcEhtYVY4VWhFeG9OMXozcEhHa0dsUDBLUWlNVllaOFlzX3kwUTVuV3RuSklvZUVqUmh4dGNTcg?oc=5
-
-- Beyond Accenture, What Sparked A Rs 1.3 Lakh Crore Stock Market Meltdown - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEZRQXpJTEszZ1pZemxFYS1hb0JsVnh1YW10TGNEYXRPQzZPSnVrX1Y4QWU1aU1HMjhIckd5b2xlOXIyclh5aTNzU2kzMDJscFJnZXFQcmFkeDhPSkQyWTZkd0k1c0ZCdVRQdEpxQXpMV1NyNnNPQ1lScGVYZmxhOHlRMl9JRFBVMmFuS3BzVFB3SlZMbnRkd0pCOTBWN01NbmtWUlZqZWtJSkNmejZrbER5enFGc3d2eThsemlR0gHGAUFVX3lxTE5xbmhWUzYtWXdkdDFIM0I1NTZJVl8xNU9SVlI4RTJvLWFnT2drbzBlMjYxZEg0Nm5uX3ZEN1RmVV9sSXFISXRBbVpWVExoeHBQZTVpd0toWWdCYkNvdzhJUnRZZi0tMHdfaGdFbEpYM3hxb2s0Q3lJd0xjNDJGbV9HX0ZzaFJSNEZaZGwwT1ZSRldKV3JES00xNFJ5enBzNnRMZFF6bmtXRWNjZjBoQWl5N2ZzazZrVXhzcGRDYWxCdlVyYnlIdw?oc=5
-
-- Global stock markets mixed as investors assess durability of U.S.-Iran peace deal - CNBC
-  Global stock markets mixed as investors assess durability of U
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkEtY2s0WjJkdG94ZWEydFdYM1VldE9pUVY3ZzR0V3hhS0thYUxjbTZvNTFZbHFfYmY1YXczRFB1Q1Z0STQwZFFvV0R0MHNHRTZNWXJTVWlmRklWbzFYUEhtejBZXzh1VmE0dlZZLVY4RDFVZ05nMmJHMFZnYWp5dHlwckJJajhJLWNmSVQ1MGhvdmVjR04yX3d1OE9MWkt2NnlYMU9vSkpNbjDSAbABQVVfeXFMUENQTERnY3JCWTdSSExUNHZhUFpWVDR2RXJaX1FGM1NJYWhQOFlVYUludFRqTkhGaFlmN1dRbE1HcHA2MlJiOTRicUwxcV8yQjFWNUc2eXFGYjRLVDIxRFJ4ZzNPbGFya0pyYUlDZlRUNE5hNjRybjZmbnBaY0hFMjc3Nk1DRGUwLVdLYTRMNUZmWEVsQzREaTczX2RETUdLQ3o3cE4ta3M3V29XVFg1cDE?oc=5
-
-- Asia Stocks Set to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg.com
+- Asia Stocks Set to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg
   Asia Stocks Set to Rise as US-Iran
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1Q0N0xSek9vTVowa2JvcU5pM2MzNFV4dkxPcmYtQnhRamw4eWx5MmE5Q0I5QWpxRElUSUE0Y19xNnVDdmJOQnhJclNKMTNyR0R5dE5vLVZyLWVyMnRnRUxBam1TcUwwbUpxcmNjcGYxcm5ncGhMbzZuQkk1cHBQb0plY1JTZy1aNWJmSG95MC1SYU1yenpJZVZCcFZ5elVwdU1udEtqTzlGZElxQVFYcg?oc=5
+
+- Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause - Crude Oil Prices Today | OilPrice.com
+  Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ25Hc3BjRVZ0bklQdVhFbjkyQjlTeGZNbTBNYW9oUUFINzFWYzVkZ1haQ0RES05qUmZVUnhHUkg2RVRFdUN0WDZNOGEwZ2dyMjl4bjZFSFVqcnAzeGFVYjFMVTJIQ0tuNlVvN1V5ZEM0LWl0NVUyLWhya0otcm1ubUxWQi1OWHB5YUNYeVJydndHSmlTS0tOczVJRmdfV2thRTh2clgyQWJuUGg3X0ZjYzg4SHVBNUdWdHfSAb8BQVVfeXFMT0VibDBvZmp2cnk4eUp1V3JzMWJRMEgxeXFzVVZIcnN6Zm5ydXF6OGtvZTNVeG9YalFDN25NT09zYjFJU1VYZ2pzQ1JUbldOTHh4TE1JWjFNUHphbXoxQmtqRXpMc1Z3U25kZDkwT2gzaDRhLWRKQ1ZzQXk3cTlVV1VtT25jcWpEMUpaNFM5S0tBbjBwakxiZi01cHU2dk1zNmtxcFZkcVVrMVJYM1EyZWJua2dnaFJWN1JOMnRHQU0?oc=5
 
 - AGS Health, PGP Glass, 2 others get Sebi nod to float IPOs
    AGS Health, PGP Glass, Shreni Shares, and SRIT India have received the green light for their upcoming IPOs. Proceeds will fund working capital, debt repayment, and growth initiatives.
@@ -140,65 +140,65 @@
   Jio Platforms has filed its DRHP with Sebi for a massive IPO. The offering aims to reduce debt, fund growth and unlock value for shareholders.
   🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-filed-10-crucial-things-investors-must-know-about-ambanis-3-billion-plan/articleshow/131859325.cms
 
-- "Stop Studying After Class 12": Ace Investor Says Middle-Class India Getting College Wrong - NDTV
-  "Stop Studying After Class 12": Ace Investor Says
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGxLUUxwTmF2M1B0cURkbktRODR2ZlhGNDBCME0zZjU0d2VqWjUyd2h6dVlFNkVfdmY2NnNnbDctSjFsTTBmZjRMMmVXUF9zZTRoSjk3WU5wcFJUdUJwY1BFUGJIRFltVl85ZUNYYWJ2Q3ZMQkt2anEtMVEzREVFdmVKb3E2SzV1SVoyTDN1QWhQc2EwX3JqWDNSZWtBQk4zODdraWEyeFNXMU45Z1I4d3F6M3pxZG9fM3E0SmVLd1ZLVXZzdk5EZTBIaXJocUFvcDk5bkluZmNIV1dlaUMzaS1iUdIB6wFBVV95cUxNc19RaWlMU1FYWjNoMmMxd2tWYUk5a21mVDk2a3RnQ3M3LUpyR0VWZkV5SFVndmFuVE9RUXJpZV9aSTlnQm9sVDVqa2tIdHN3VDlIRkUtaHhRVjBxbm1iUUdkRklTQi1qTXY0WmdFVkxLV1A1MDZILThyTGJuMVQwRXRVajQzeExxNTVYZmVBU2hpeEEwa28xZlVvU0ZyaElfVlpYRGxnQWhTYkxnY0JXemw1XzNJTlY0QS04VlBBX1A5Ukl6M0lfeG1nUzNWbTlnQlpCV09sVmdpUU54MVZHTzF3Umhpb3pSVDRZ?oc=5
-
-- India-U.K. FTA more than just about trade: Foreign Secretary Vikram Misri - The Hindu
-  India-U.K. FTA more than just
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlVYcG9VcGtNOS1FY2F2M1JBZnBrVkRLU2F3RVlGX1pRa1JIYzRvRjZObUYxOEpHMkN1Sy1qaEhyQ1dYbjZCMk9kbHpYX1h0VjdxOFJuU2pfZUNwWVdtTWlLQjZQY2NYa0dTeU1TQnVXR0NnQXhWRkluYUNjUk12NHlVV1Z4YTBvWTFKTjNweDRvZTBQb0s2RU1CaTdYVjhTM1Y0YUpiakxYMklYTFBBVUlOZjJTZGxTNmI0MlBuczhiVHh3YlRiUNIBzwFBVV95cUxQNmJlU1JpRWZlTF9fN1VsUHd0WkdhejBRaWE4eVM5OGpKcVhPNFNoMWtKZXB0c2VBWW1jckpJVGwxVnRKSDZyMUVEa2ZabDZvVVFtaU9hWV9QMDB2S0tkYXlFMHNmdUEzU1AyQnFkVnRoeUtsTzNPeW1UTy1BU0NQcmEwa2E0OER1ZGRtcHVzMUlPSjVXalJSMk5LTllYNkFpX2ZzVldYY1BGR25jN0xSeDFLNjdjT0thMjB6WGR5MHRyaEN6RlJETnc2a0I1SU0?oc=5
+- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
+  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
 
 - IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
   Reliance Jio announces what may be India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
+- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
+  A man in Chhattisgarh, India, is
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
+
+- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
+  India's largest telecom and digital service Jio
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
+
 - India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
   India says Indus Waters Treaty outdated,
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
 
-- Elderly Sikh Couple Shot Dead Inside Gurudwara in Pakistan, Main Suspect Arrested - NDTV
-  A Sikh couple was shot dead at a Gurud
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVrbWE0alJpZU01YUtzOVJBQ1ROVTJ4eTd6V3NRQUEzalZxZTNPWXV1eTg2RlRsVDVaSm02UEp3Tll4Vnd5c0d3NDY0ZDVRaVByQW5uXzc0WEpEVzA1ck9FZFJWUFpfLTZuTkhiRTJ5bmNtbnJtNTdDVU1YVTlqR2JWZkFJVF9zZnVPUmVibFJpODRLSDN0YlNoNDU5QUt3WHA1eFhQRzdPLU9aUFRoRTVFd0h5UzTSAb8BQVVfeXFMTmNwNDJUd0xJMDdSQnRJSFFDRmZ2OFBXc2RiRFhiMEF5R3lDRDFKX3IwN1J5V3pSRThIZ0M1UFMzOEdOd1lVM1l1R3BtZXRkXzF6b2w1bEFKVEpFdmw2YUF2cUFBZzE2VWZyWmg5cTZrUGx3SmdyZEhlSHJBeHpUbUZlekZCZ09WUC1mdGNVQVV1OHBqb0d6UU54VWthQUFpSE0wVmZOcWpMV0pMNDRWV0l3Nm0ycFR4Sjd2T2Uzc1E?oc=5
-
-- "Stop Studying After Class 12": Ace Investor Says Middle-Class India Getting College Wrong - NDTV
-  "Stop Studying After Class 12": Ace Investor Says
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGxLUUxwTmF2M1B0cURkbktRODR2ZlhGNDBCME0zZjU0d2VqWjUyd2h6dVlFNkVfdmY2NnNnbDctSjFsTTBmZjRMMmVXUF9zZTRoSjk3WU5wcFJUdUJwY1BFUGJIRFltVl85ZUNYYWJ2Q3ZMQkt2anEtMVEzREVFdmVKb3E2SzV1SVoyTDN1QWhQc2EwX3JqWDNSZWtBQk4zODdraWEyeFNXMU45Z1I4d3F6M3pxZG9fM3E0SmVLd1ZLVXZzdk5EZTBIaXJocUFvcDk5bkluZmNIV1dlaUMzaS1iUdIB6wFBVV95cUxNc19RaWlMU1FYWjNoMmMxd2tWYUk5a21mVDk2a3RnQ3M3LUpyR0VWZkV5SFVndmFuVE9RUXJpZV9aSTlnQm9sVDVqa2tIdHN3VDlIRkUtaHhRVjBxbm1iUUdkRklTQi1qTXY0WmdFVkxLV1A1MDZILThyTGJuMVQwRXRVajQzeExxNTVYZmVBU2hpeEEwa28xZlVvU0ZyaElfVlpYRGxnQWhTYkxnY0JXemw1XzNJTlY0QS04VlBBX1A5Ukl6M0lfeG1nUzNWbTlnQlpCV09sVmdpUU54MVZHTzF3Umhpb3pSVDRZ?oc=5
-
-- India-U.K. FTA more than just about trade: Foreign Secretary Vikram Misri - The Hindu
-  India-U.K. FTA more than just
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlVYcG9VcGtNOS1FY2F2M1JBZnBrVkRLU2F3RVlGX1pRa1JIYzRvRjZObUYxOEpHMkN1Sy1qaEhyQ1dYbjZCMk9kbHpYX1h0VjdxOFJuU2pfZUNwWVdtTWlLQjZQY2NYa0dTeU1TQnVXR0NnQXhWRkluYUNjUk12NHlVV1Z4YTBvWTFKTjNweDRvZTBQb0s2RU1CaTdYVjhTM1Y0YUpiakxYMklYTFBBVUlOZjJTZGxTNmI0MlBuczhiVHh3YlRiUNIBzwFBVV95cUxQNmJlU1JpRWZlTF9fN1VsUHd0WkdhejBRaWE4eVM5OGpKcVhPNFNoMWtKZXB0c2VBWW1jckpJVGwxVnRKSDZyMUVEa2ZabDZvVVFtaU9hWV9QMDB2S0tkYXlFMHNmdUEzU1AyQnFkVnRoeUtsTzNPeW1UTy1BU0NQcmEwa2E0OER1ZGRtcHVzMUlPSjVXalJSMk5LTllYNkFpX2ZzVldYY1BGR25jN0xSeDFLNjdjT0thMjB6WGR5MHRyaEN6RlJETnc2a0I1SU0?oc=5
+- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
+  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
 
 - IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
   Reliance Jio announces what may be India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
+- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
+  A man in Chhattisgarh, India, is
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
+
+- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
+  India's largest telecom and digital service Jio
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
+
 - India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
   India says Indus Waters Treaty outdated,
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
 
-- Elderly Sikh Couple Shot Dead Inside Gurudwara in Pakistan, Main Suspect Arrested - NDTV
-  A Sikh couple was shot dead at a Gurud
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVrbWE0alJpZU01YUtzOVJBQ1ROVTJ4eTd6V3NRQUEzalZxZTNPWXV1eTg2RlRsVDVaSm02UEp3Tll4Vnd5c0d3NDY0ZDVRaVByQW5uXzc0WEpEVzA1ck9FZFJWUFpfLTZuTkhiRTJ5bmNtbnJtNTdDVU1YVTlqR2JWZkFJVF9zZnVPUmVibFJpODRLSDN0YlNoNDU5QUt3WHA1eFhQRzdPLU9aUFRoRTVFd0h5UzTSAb8BQVVfeXFMTmNwNDJUd0xJMDdSQnRJSFFDRmZ2OFBXc2RiRFhiMEF5R3lDRDFKX3IwN1J5V3pSRThIZ0M1UFMzOEdOd1lVM1l1R3BtZXRkXzF6b2w1bEFKVEpFdmw2YUF2cUFBZzE2VWZyWmg5cTZrUGx3SmdyZEhlSHJBeHpUbUZlekZCZ09WUC1mdGNVQVV1OHBqb0d6UU54VWthQUFpSE0wVmZOcWpMV0pMNDRWV0l3Nm0ycFR4Sjd2T2Uzc1E?oc=5
-
-- "Stop Studying After Class 12": Ace Investor Says Middle-Class India Getting College Wrong - NDTV
-  "Stop Studying After Class 12": Ace Investor Says
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaGxLUUxwTmF2M1B0cURkbktRODR2ZlhGNDBCME0zZjU0d2VqWjUyd2h6dVlFNkVfdmY2NnNnbDctSjFsTTBmZjRMMmVXUF9zZTRoSjk3WU5wcFJUdUJwY1BFUGJIRFltVl85ZUNYYWJ2Q3ZMQkt2anEtMVEzREVFdmVKb3E2SzV1SVoyTDN1QWhQc2EwX3JqWDNSZWtBQk4zODdraWEyeFNXMU45Z1I4d3F6M3pxZG9fM3E0SmVLd1ZLVXZzdk5EZTBIaXJocUFvcDk5bkluZmNIV1dlaUMzaS1iUdIB6wFBVV95cUxNc19RaWlMU1FYWjNoMmMxd2tWYUk5a21mVDk2a3RnQ3M3LUpyR0VWZkV5SFVndmFuVE9RUXJpZV9aSTlnQm9sVDVqa2tIdHN3VDlIRkUtaHhRVjBxbm1iUUdkRklTQi1qTXY0WmdFVkxLV1A1MDZILThyTGJuMVQwRXRVajQzeExxNTVYZmVBU2hpeEEwa28xZlVvU0ZyaElfVlpYRGxnQWhTYkxnY0JXemw1XzNJTlY0QS04VlBBX1A5Ukl6M0lfeG1nUzNWbTlnQlpCV09sVmdpUU54MVZHTzF3Umhpb3pSVDRZ?oc=5
-
-- India-U.K. FTA more than just about trade: Foreign Secretary Vikram Misri - The Hindu
-  India-U.K. FTA more than just
-  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlVYcG9VcGtNOS1FY2F2M1JBZnBrVkRLU2F3RVlGX1pRa1JIYzRvRjZObUYxOEpHMkN1Sy1qaEhyQ1dYbjZCMk9kbHpYX1h0VjdxOFJuU2pfZUNwWVdtTWlLQjZQY2NYa0dTeU1TQnVXR0NnQXhWRkluYUNjUk12NHlVV1Z4YTBvWTFKTjNweDRvZTBQb0s2RU1CaTdYVjhTM1Y0YUpiakxYMklYTFBBVUlOZjJTZGxTNmI0MlBuczhiVHh3YlRiUNIBzwFBVV95cUxQNmJlU1JpRWZlTF9fN1VsUHd0WkdhejBRaWE4eVM5OGpKcVhPNFNoMWtKZXB0c2VBWW1jckpJVGwxVnRKSDZyMUVEa2ZabDZvVVFtaU9hWV9QMDB2S0tkYXlFMHNmdUEzU1AyQnFkVnRoeUtsTzNPeW1UTy1BU0NQcmEwa2E0OER1ZGRtcHVzMUlPSjVXalJSMk5LTllYNkFpX2ZzVldYY1BGR25jN0xSeDFLNjdjT0thMjB6WGR5MHRyaEN6RlJETnc2a0I1SU0?oc=5
+- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
+  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
 
 - IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
   Reliance Jio announces what may be India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
+- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
+  A man in Chhattisgarh, India, is
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
+
+- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
+  India's largest telecom and digital service Jio
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
+
 - India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
   India says Indus Waters Treaty outdated,
   🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
-
-- Elderly Sikh Couple Shot Dead Inside Gurudwara in Pakistan, Main Suspect Arrested - NDTV
-  A Sikh couple was shot dead at a Gurud
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTVrbWE0alJpZU01YUtzOVJBQ1ROVTJ4eTd6V3NRQUEzalZxZTNPWXV1eTg2RlRsVDVaSm02UEp3Tll4Vnd5c0d3NDY0ZDVRaVByQW5uXzc0WEpEVzA1ck9FZFJWUFpfLTZuTkhiRTJ5bmNtbnJtNTdDVU1YVTlqR2JWZkFJVF9zZnVPUmVibFJpODRLSDN0YlNoNDU5QUt3WHA1eFhQRzdPLU9aUFRoRTVFd0h5UzTSAb8BQVVfeXFMTmNwNDJUd0xJMDdSQnRJSFFDRmZ2OFBXc2RiRFhiMEF5R3lDRDFKX3IwN1J5V3pSRThIZ0M1UFMzOEdOd1lVM1l1R3BtZXRkXzF6b2w1bEFKVEpFdmw2YUF2cUFBZzE2VWZyWmg5cTZrUGx3SmdyZEhlSHJBeHpUbUZlekZCZ09WUC1mdGNVQVV1OHBqb0d6UU54VWthQUFpSE0wVmZOcWpMV0pMNDRWV0l3Nm0ycFR4Sjd2T2Uzc1E?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,25 +220,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Maharashtra signs LoI with Google for AI and digital technology training of over four lakh teachers - Newsonair
-  Maharashtra signs LoI with Google for AI and digital technology training
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTBzbG40TEFPV1JJSG85Vk1JWWk0RlowamZ1YXNnZGdQdzA2OFdkWE8wdG5QeVVsekFNTV9BZFVheUtxNnRTOFEtRWxSa3BNTFZDZXpVM2hrVFlwd2JkSHRJUUtxdVdTV3RIdExGZS1KNE8zVkdxNXphVm8ybHc2UTk5ejdtSU1BNTIyOEtjNWRidW1NcXhDRlkxSG5LaEZDTXZEeERSY1Zycnd0b0xPQVNRWDlZTnpXNFgtWXJEUHNvY00?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- ‘Toy Story 5’ can help parents trying to manage their kids’ relationship with tech - CNN
-  ‘Toy Story 5’ can help parents trying to
-  🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE1GTUlVZzk5M2hIeFVhSEpHQkg4c01WNm1mcXFpaDhGMGprUU9vT1F0RlhkNWFyMkJVbXowTWY2cU1aLS1Wb2dfa0pycXp6NEVuWktpeWE4SHJtNjBaWjRYQ1h5QVdtT2dnZFR4bmhOVlJQV2hqZVE?oc=5
-
-- India needs a new 'independence movement' to reduce reliance on foreign capital, energy, defence and technol.. - BFSI News
-  India needs a new 'independence movement' to reduce reliance on foreign capital,
-  🔗 https://news.google.com/rss/articles/CBMi0wJBVV95cUxOdzFWWlMybS1ua1I3X3g3eHk1RF9KRXpEOEF0QUpWVlFnRU02LXhFZE44WEUtY1FjeUVLbEFRMUZab0llb1REeUEyQV9CcWVXcEVtWng3aXBfRXhGb0hHdWJEaV8wVFp4ak9CMWRmNGlwSk0yc2w3X01BTFFZY09FY0Z5VGlfYWZhUl9oUVFnOEdvNXJiOV91dXBFdTVZS2pxc2pzcGhFSDN1ZWxGSUpsQVVObHBiMmdxeEpJYjRZRTJuWm1ZbWswcEFIM05RU01jV3h0ckhncE8zOFRUbTR4dmJrQ0VoaTdZRVQ5YTVpVXoyNG1LVWtRazl4cS05UUpTUmh6ZUROdUxCSDNTSVJGWWROTjVDbDczTk92YzB5d2d0ODZ3ZnhjemhRSDNYcDN6d1lsSFVCQk5Nck5vNHRkTU9FbHdGN0puYVJjNUFRQ2JiUHPSAZ8CQVVfeXFMUFdXM1loYVlfUWEtb2RTZXJHWjF0aHlPZElYVFJQb2k4UEZfUVU4dEh2dGRhNkNxMnNrNXNGNmlYMUZub1hFSDdtX2dCRE9NTVZiUFdtV3pac0hHNXVUbl9MR3FzWjVkRUJwNGZBeHVEbVFhMUQ5cU5KMEJXYzE1Wk1tRFMxVEV0UzdEQUF3LTZZUVhpQ1YwNURfal9rNjk0cHZjelhvVWFLNl9vSUkyTko1WnV2cWV0T3ZoRmdkTjJhaW1IaHBYQjZ6QlV2QjhocU1lTkdEUDgtYkdjSFh4aTVwNmFyUFB0YjVBc3R1WGtORTJfckFzWkpDZFdJdnV6ZWF4U1JoUlVsV0V5YTRONVhNMmFmNHhqZFR0djg4dUU?oc=5
-
-- Smart Seed Coating Technology, Key Features, Significance, Latest News - Vajiram & Ravi
-  Smart Seed Coating Technology, Key Features,
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE8waVE4X3p6Q2FVLUN1dzhBaWw2OVhLWFF4ZmF3UWFraF9EVEV1ZDNMZFN5S29LT1dWbFZvaHdQTEZiY0l6alVtYVM4Yld0S3EydDBQVDRVMkRzXy1kaUN3TWViQkFfekNEd3dHeUEycjFnNzU5clg4QWJtVjJOdw?oc=5
-
-- Chinese doctors help Zambian hospital through technology transfer - news.cgtn.com
-  Chinese doctors help Zambian hospital
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0l2N3JxVUxiYm9YZjFEWWgxMF9ZT1ZYaG0teVpTMU9Sc1VSR3ZSR3p6akVLTGZHTTFqLUp0azhnQzRja2wzT3BYMzZsSW9OMTFWZzZDOHBPRG9haHViNTBVWDVUV1VUdnVIU19CQkwyY0pTZVpkRnhJSU14SE9NNlEwcUVPZGhicW9QV1E3YWxQUmQwcEg3QXdlSlpEQWVFNTdITVRRSGU0OHVxTEppZ3dWd1hXam4zN1RFNDlUSQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-19 14:56:03 UTC_
+_Last updated: 2026-06-19 19:45:15 UTC_
