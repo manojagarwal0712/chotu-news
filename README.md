@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Centre bans 16 Fixed-Dose Combination drugs over safety concerns
+- Jharkhand child trafficking case that put Missionaries of Charity under scrutiny ends in acquittal
   
-  🔗 https://indianexpress.com/article/india/fixed-dose-combination-drugs-ban-safety-10749074/
+  🔗 https://indianexpress.com/article/india/jharkhand-child-trafficking-case-that-put-missionaries-of-charity-under-scrutiny-ends-in-acquittal-10749457/
 
-- Monsoon in India: West remains dry, heavy rain alert issued for Northeastern states
+- Delhi woman intern with NGO stripped, molested in Odisha; 20 arrested
   
-  🔗 https://indianexpress.com/article/india/monsoon-forecast-news-rainfall-lightning-heatwave-alert-india-today-imd-10748920/
+  🔗 https://indianexpress.com/article/india/delhi-woman-interning-ngo-odisha-tribal-areas-20-arrests-10749434/
 
-- Ajit Doval to chair BRICS security advisors’ meet in India on June 22
+- Khatipura (Jaipur)-Darbhanga Amrit Bharat Express launch: Train number, route, stops, time table
   
-  🔗 https://indianexpress.com/article/india/brics-nsa-meeting-india-hosts-june-22-ajit-doval-10749021/
+  🔗 https://indianexpress.com/article/india/khatipura-jaipur-darbhanga-amrit-bharat-train-number-route-stops-frequency-timetable-10749302/
 
-- Rahul Gandhi slams NTA after Nagpur student gets Abu Dhabi centre for NEET re-exam
+- NIA, Manipur Police arrest 10 in six conflict cases, including Biren Singh convoy attack
   
-  🔗 https://indianexpress.com/article/india/rahul-gandhi-slams-nta-over-neet-re-exam-admit-card-10748945/
+  🔗 https://indianexpress.com/article/india/nia-arrests-manipur-violence-cases-police-biren-singh-10749371/
 
-- Indian Railways doubles fine for ticketless travel from today; here’s what train passengers must know
+- ‘CM Vijay’s photo on wall, reels in classroom’: Annamalai targets TVK
   
-  🔗 https://indianexpress.com/article/india/indian-railways-doubles-fine-for-ticketless-travel-from-today-heres-what-train-passengers-must-know-10748696/
+  🔗 https://indianexpress.com/article/india/annamalai-slams-disrupt-tamil-nadu-government-school-classroom-cm-joseph-vijay-photo-10749097/
+
+- AI race is a talent race, says expert, as China outpaces US in researchers
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-race-is-a-talent-race-says-expert-as-china-outpaces-us-in-researchers-10749386/
+
+- WhatsApp tests new animated message bubbles on iPhone
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-tests-new-animated-message-bubbles-on-iphone-10749266/
+
+- The Safe Side: Free content comes at a cost, the scam behind fake OTT apps
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-safe-side-free-content-comes-at-a-cost-the-scam-behind-fake-ott-apps-10749172/
 
 - Nothing teases new device after denying CMF Phone launch this year
   
@@ -28,37 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/telegram-loses-bid-to-overturn-indias-temporary-blocking-of-the-app-10748714/
 
-- Genesis AI bets against humanoid trend with general-purpose robot ‘Eno’
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/genesis-ai-bets-against-humanoid-trend-with-general-purpose-robot-eno-10748309/
+- Ubisoft's Claude Guillemot, 69, dies after twin-engine plane bursts into flames in France- What we know
+  Claude Guillemot was one of five brothers who co-founded video game giant Ubisoft in 1986. He died after a light aircraft he owned crashed and caught fire near La Baule in
+  🔗 https://www.livemint.com/companies/people/ubisoft-co-founder-claude-guillemot-69-dies-as-twin-engine-plane-bursts-into-flames-in-france-near-la-baule-11781960644559.html
 
-- Funding climate adaptation tech should be a focus area: Naina Batra, CEO, AVPN
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/avpn-ceo-naina-subberwal-batra-ai-opportunity-fund-social-impact-india-10748157/
+- Amazon &amp; Walmart among America's biggest companies that earned $2.1 trillion last year, employing fewer people than ever
+  The 2026 Fortune 500 posted record revenue of $21 trillion and profit of $
+  🔗 https://www.livemint.com/companies/news/ai-impact-layoffs-fortune-500-2026-record-profits-job-losses-headcount-decline-amazon-walmart-and-united-health-11781950677985.html
 
-- Relativity Space wins Nasa Mars contract under Eric Schmidt’s leadership
-  
-  🔗 https://indianexpress.com/article/technology/science/relativity-space-wins-nasa-mars-contract-under-eric-schmidts-leadership-10748327/
+- Nvidia, Micron, Broadcom have cheap valuations despite big gains, and one Google decision could explain why
+  Sevens Report founder Tom Essaye says cheap valuations on AI stocks such as Nvidia,
+  🔗 https://www.livemint.com/companies/news/ai-stock-valuations-warning-sign-data-center-slowdown-sevens-report-openai-chatgpt-claude-chatgpt-xai-google-deepmind-11781948029650.html
+
+- Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months
+  Nobel laureate John Jumper departs Google DeepMind for Anthropic. Jumper is
+  🔗 https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html
 
 - Nipun Aggarwal, Vinod Kannan emerge as frontrunners to lead Air India after Wilson's early exit; final decision pending
   Two frontrunners, Nipun Aggarwal and Vinod Kannan, have emerged. Final decision is pending. Whoever will take charge will inherit an airline that has been seeing troubled times.
   🔗 https://www.livemint.com/companies/news/nipun-aggarwal-vinod-kannan-emerge-as-frontrunners-to-lead-air-india-after-wilsons-early-exit-final-decision-pending-11781941458087.html
 
-- Tata Consumer targets 17% Ebitda margin in 3 years via overhaul of distribution model
-  Tata Consumer Products is strategizing to improve margins, currently at 13.9%. Recent acquisitions have boosted its entry into food services and
-  🔗 https://www.livemint.com/companies/news/tata-consumer-products-ebitda-margin-distribution-overhaul-fmcg-quick-commerce-general-trade-11781851429170.html
+- Why NSE stands out as a ‘cash generation and distribution machine'? Zerodha's Nithin Kamath explains
+  NSE's high cash generation and dividend payouts highlight a rarity in India’s corporate sector. Here's
+  🔗 https://www.livemint.com/market/why-nse-stands-out-as-a-cash-generation-and-distribution-machine-zerodhas-nithin-kamath-explains-11781957369093.html
 
-- Why Orkla wants to change Eastern’s sales model after five years
-  Orkla's move comes after years spent understanding a business whose strengths
-  🔗 https://www.livemint.com/companies/news/orkla-india-eastern-condiments-sales-network-spices-sanjay-sharma-11781854638780.html
+- Global markets rally after US-Iran MoU, Jefferies warns calm may be temporary
+  US-Iran MoU discussions have emerged at a politically challenging time for US President Donald Trump. Jefferies noted that recent polling data points to
+  🔗 https://www.livemint.com/market/global-markets-rally-after-us-iran-mou-jefferies-warns-calm-may-be-temporary-11781956111439.html
 
-- G.S.K. Velu’s Maxivision eyes west India push ahead of listing next year
-  Neuberg Diagnostics, where Velu serves as chairman, is likely to be the first to list. Maxivision Eye Hospitals
-  🔗 https://www.livemint.com/companies/news/gsk-velu-maxivision-eyes-west-india-push-ahead-of-listing-next-year-neuberg-maxivision-trivitron-11781862755072.html
-
-- OpenAI wants to transform healthcare—and this Indian researcher, Karan Singhal, is at the helm
-  OpenAI is investing heavily in healthcare as millions increasingly turn to ChatGPT for medical and wellness advice. Leading that effort is Karan Singhal, a former Google researcher who says the
-  🔗 https://www.livemint.com/companies/people/openai-wants-to-transform-healthcare-and-this-indian-researcher-karan-singhal-is-at-the-helm-11781885145558.html
+- Reliance Jio, NSE IPOs set stage for new record! Here are the 5 largest public issues in Indian stock market history
+  India's IPO scene is poised for transformation with Jio Platforms' latest draft prospectus for a $4 billion IPO. Both offerings could redefine the country
+  🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-nse-ipos-set-stage-for-new-record-here-are-the-5-largest-public-issues-in-indian-stock-market-history-11781948032435.html
 
 - Five power grid stocks riding India’s energy transition
   India’s renewable energy push is driving unprecedented investment in transmission and grid infrastructure. These five
@@ -67,18 +79,6 @@
 - 700% in 5 years! Multibagger logistics stock in focus after receipt of order from PSU stock BHEL
   Tiger Logistics (India) Ltd has secured a new import logistics mandate worth  ₹4 crore from Bharat Heavy Electricals Ltd. Tiger Logistics
   🔗 https://www.livemint.com/market/stock-market-news/700-in-5-years-multibagger-logistics-stock-in-focus-after-receipt-of-order-from-psu-stock-bhel-11781938442539.html
-
-- Small-cap stock under  ₹50 Sindhu Trade Links to be in focus on Monday. Check Details
-  The small-cap stock has given positive returns in recent times. It has added 3.5% in the last week, 12% in 1 month,
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sindhu-trade-links-share-price-to-be-in-focus-on-monday-check-details-11781936592199.html
-
-- Top 10 winners and losers of Nifty 500 index during the US-Iran war: HFCL, Ola Electric surge while Vedanta, RVNL sinks
-  The US-Iran conflict has led to a 4-5% decline in Indian equity markets. Investor sentiment is dampened by geopolitical tensions and rising oil prices. While negotiations offer
-  🔗 https://www.livemint.com/market/stock-market-news/top-10-winners-and-losers-of-nifty-500-index-during-the-us-iran-war-hfcl-ola-electric-surge-while-vedanta-rvnl-sinks-11781934924366.html
-
-- Finance expert Aswath Damodaran's warning on AI crash: 'When the correction comes, the pain will be more intense'
-   NYU professor Aswath Damodaran has warned that a future AI market correction could be far more damaging than the dot-com crash.
-  🔗 https://www.livemint.com/market/finance-expert-aswath-damodarans-warning-on-ai-crash-when-the-correction-comes-the-pain-will-be-more-intense-11781935196997.html
 
 - Mint Explainer| What would it take for India to create a SpaceX?
   SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
@@ -100,6 +100,10 @@
   G7 summit focuses on contentious future of AI and US
   🔗 https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html
 
+- Stock Market News, June 18, 2026: U.S. Stocks Close Week on a Strong Note - WSJ
+  Stock Market News, June 18, 2026: U.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDBTaDlqZUNST2dKNFlReWV0NWg2bk1QeXgtM0dDVVEyM1lNQkVZdFFmSTV0a0hpTXZZZndsdUtObHJ5UHpwemplRW9SNUNCWUZSWDliTmRDWENTSlBGZHZlTDk1ejlGT1MwMW40ZVVDMEk0RGtwTC1OZWlJLVlDRURvV0lQY3M?oc=5
+
 - Asia Stocks Set to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg.com
   Asia Stocks Set to Rise as US-Iran
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1Q0N0xSek9vTVowa2JvcU5pM2MzNFV4dkxPcmYtQnhRamw4eWx5MmE5Q0I5QWpxRElUSUE0Y19xNnVDdmJOQnhJclNKMTNyR0R5dE5vLVZyLWVyMnRnRUxBam1TcUwwbUpxcmNjcGYxcm5ncGhMbzZuQkk1cHBQb0plY1JTZy1aNWJmSG95MC1SYU1yenpJZVZCcFZ5elVwdU1udEtqTzlGZElxQVFYcg?oc=5
@@ -112,113 +116,109 @@
   Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ25Hc3BjRVZ0bklQdVhFbjkyQjlTeGZNbTBNYW9oUUFINzFWYzVkZ1haQ0RES05qUmZVUnhHUkg2RVRFdUN0WDZNOGEwZ2dyMjl4bjZFSFVqcnAzeGFVYjFMVTJIQ0tuNlVvN1V5ZEM0LWl0NVUyLWhya0otcm1ubUxWQi1OWHB5YUNYeVJydndHSmlTS0tOczVJRmdfV2thRTh2clgyQWJuUGg3X0ZjYzg4SHVBNUdWdHfSAb8BQVVfeXFMT0VibDBvZmp2cnk4eUp1V3JzMWJRMEgxeXFzVVZIcnN6Zm5ydXF6OGtvZTNVeG9YalFDN25NT09zYjFJU1VYZ2pzQ1JUbldOTHh4TE1JWjFNUHphbXoxQmtqRXpMc1Z3U25kZDkwT2gzaDRhLWRKQ1ZzQXk3cTlVV1VtT25jcWpEMUpaNFM5S0tBbjBwakxiZi01cHU2dk1zNmtxcFZkcVVrMVJYM1EyZWJua2dnaFJWN1JOMnRHQU0?oc=5
 
-- 13th Indian Steel Markets Conference - KPMG
-  13th Indian
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUpVYUxteFB5RHVxakUyVjZDYWQ5WTkzR2ZhUGVHMmM2MzZ5OExfYlVvc1FSSEJiNkdPNEZ6N3J0dmZYcFdkcUhGbUEtQjFaNmRVQjI5a1J4UmdkZUU0OWE0ZlJST1NlX25la2lKNjNYdXlNcGZtWGYzRWlRRU45S1NVTEEtQQ?oc=5
+- Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal - CNBC
+  Global stock markets close lower on Friday as investors assess durability of U
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkEtY2s0WjJkdG94ZWEydFdYM1VldE9pUVY3ZzR0V3hhS0thYUxjbTZvNTFZbHFfYmY1YXczRFB1Q1Z0STQwZFFvV0R0MHNHRTZNWXJTVWlmRklWbzFYUEhtejBZXzh1VmE0dlZZLVY4RDFVZ05nMmJHMFZnYWp5dHlwckJJajhJLWNmSVQ1MGhvdmVjR04yX3d1OE9MWkt2NnlYMU9vSkpNbjDSAbABQVVfeXFMUENQTERnY3JCWTdSSExUNHZhUFpWVDR2RXJaX1FGM1NJYWhQOFlVYUludFRqTkhGaFlmN1dRbE1HcHA2MlJiOTRicUwxcV8yQjFWNUc2eXFGYjRLVDIxRFJ4ZzNPbGFya0pyYUlDZlRUNE5hNjRybjZmbnBaY0hFMjc3Nk1DRGUwLVdLYTRMNUZmWEVsQzREaTczX2RETUdLQ3o3cE4ta3M3V29XVFg1cDE?oc=5
 
-- Sensex Today | Stock Market Highlights: Sensex ends down 600 pts, Nifty holds above 24,000 as IT selloff offsets broader strength - Moneycontrol.com
-  Sensex ends down 600 pts, Nifty holds above 24,000 as IT selloff offsets
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQSDViVnlmeGFhcjFCY2lEN1FPMGpjOWdhQXFEOWFtY0VUaGgzZGRNRl9MNVJETFZfVUdacmtBQTB6OGdXTjJnUEVSU25GNUdtcEZrYThxYVByT0xJNzNGblZ5TklvTU9UcTROdF9PUU5QWUNKV1VBUFNzckNXU0dOZlhlZXg3WHhjUXFMdlFuX1VCbEpOOG5wSk5Rdkk2U0RvTm0yaFdWWTVwZFg1RU45a0dIMlNhcVdXamhYSFdWOW0zVU5ZWDdHQTd6RVkyXy1KRS1HVURsZlZpbFcyZFEzbENyanFJWkRSUkkyOUhndFF2S3h0LWtiSTNsRmhFS08zQzhIZTZJb0VGWEJVZ1piWm1Ib9IBmAJBVV95cUxOckZjUTlwLUZfcUd0NUp5TnRyblJOenhrb3gxaU4yRlZSQmJtWHp1cGhIWjJ1b0JFM3djNlUzSFZ4OGpZTXUySjlVQ2h4cnNPTjBYT0pVdzhkYnh0Y1kwQW9XVzBQQXNhQzZ1S2lPSXlCNV90dHpTV1JPMmEwUHJuUUpiTm1FWjdleDhvZ1pPOUNjSHotR0JoVzdXVjdLX0FxQU9hdXRwRVZzRWpqOXViZU1DaDY1eUY4cG1WZGFLS0V2YUw3YmNwd2dBRlVlbUhJRkNSTDRYd0tWbXQzQ0h0Q1BMZ05kWGZtb3dlUEsxQnlzeVRKZ2xtclhRdGJ5UThhRlZ6RkFnUDdUOVlXekk0SXV2SzJmMTlz?oc=5
+- Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates
+  New Federal Reserve Chair Kevin Warsh is significantly reducing the central bank's communication. This move, aimed at making markets less reliant on Fed signals, has already caused market volatility.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/warshs-gamble-a-quieter-federal-reserve-could-mean-volatile-markets-higher-rates/articleshow/131876758.cms
 
-- NSE IPO: Nithin Kamath explains why India has few businesses like this ‘cash generating machine’
-  NSE earned more than Rs 10,300 crore in profit in FY26 and distributed about Rs 8,660 crore as dividends, translating into a payout ratio of 84%.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-nithin-kamath-explains-why-india-has-few-businesses-like-this-cash-generating-machine/articleshow/131872720.cms
+- Dalal Street Week Ahead: Lower volatility signals calm, but resistance looms large
+  Indian markets concluded the week on a strong note, driven by consistent buying interest and a significant drop in volatility. The Nifty index, while trading within a defined range, showed resilience by defending key support levels.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-lower-volatility-signals-calm-but-resistance-looms-large/articleshow/131876598.cms
 
-- Bitcoin remains resilient at $63,600 amid steady ETF inflows and institutional buying
-  In the past 24 hours, Bitcoin was up 1.30% to trade at $1,723 mark. Among the major altcoins,
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-remains-resilient-at-63600-amid-steady-etf-inflows-and-institutional-buying/articleshow/131872632.cms
+- Jio Platforms plans $3 billion debt reduction from IPO proceeds
+  The move aims to slash debt, reduce interest expenses, and bolster the company's financial standing. The deleveraging will empower Jio to pursue strategic growth in areas like 5G, broadband, AI, and cloud services.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-3-billion-debt-reduction-from-ipo-proceeds/articleshow/131875983.cms
 
-- Abu Dhabi Investment Portfolio: 10 stocks rally up to 106% in CY26, 2 new picks added in Q4
-  About half of the portfolio holdings have delivered positive returns. Among these, 10 stocks have rallied between 10% and 100% in less than six
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/abu-dhabi-investment-portfolio-10-stocks-rally-up-to-106-in-cy26-2-new-picks-added-in-q4/slideshow/131872179.cms
+- NSE's Rs 30,000 crore IPO set to spotlight exchange's dominance in Indian markets, dependence on options trading: Zerodha analysis
+  The National Stock Exchange's proposed initial public offering (IPO) is expected to raise nearly Rs 30,000 crore through an offer-for-sale.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nses-rs-30000-crore-ipo-set-to-spotlight-exchanges-dominance-in-indian-markets-dependence-on-options-trading-zerodha-analysis/articleshow/131875878.cms
 
-- Jio IPO: Spectrum acquisition, among 7 risks investors need to know about India’s largest offer
-  The IPO comes at a time when Jio's operating performance remains robust. For the March quarter of FY26, the telecom giant reported a 13% year-on-year increase in operating revenue to Rs 44,928 crore.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-spectrum-acquisition-among-7-risks-investors-need-to-know-about-indias-largest-offer/articleshow/131871502.cms
+- Monsoon risk, younger investor base, and skewed trading activity define NSE outlook: NSE data
+  India's 2026 macro outlook will hinge on monsoon performance. Investor base continues to get younger and more geographically dispersed. Trading activity remains heavily concentrated among large investors
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/monsoon-risk-younger-investor-base-and-skewed-trading-activity-define-nse-outlook-nse-data/articleshow/131875798.cms
 
-- India's IT sector facing a growth crisis; Daljeet Kohli says he's already walked away
-  India's IT sector faces uncertainty as global slowdown and AI fears spook investors. Market expert Daljeet Kohli advises caution, citing a lack of growth and difficulty in identifying future winners. Reliance Jio's IPO is seen as
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-it-sector-facing-a-growth-crisis-daljeet-kohli-says-hes-already-walked-away/articleshow/131871029.cms
+- Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ - The Indian Express
+  Several universities replace ‘India’ with �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXFPWW9CdFdaejlJWWxXVEpLRlg1RVF2aWgtdG1BUUp3ZUlIenVQRFozcHA0Uk15TGxfMVRpQlVzZzZGOVUxYjlKZ0NhMmpxaUxydTNvaFpxaGltakhGaWdGb3l1dFV2cHJCalFhZXBtYWluTG1IQlY2S19VWFZoZkRBWWZjNVZNZGhnOWdqVlVMVVc2U3ZMaGs2dE91RjRSWUFZVC1qejlLN3h3X0paR3IteGowakRUV3FXN0E3UHU2YWE3Vkhha0d5X3lyNG5TNUt0bmg2SkhEQWN0ZE45WjE5QVlEQ3FCQWfSAfABQVVfeXFMTVpHZjFFYnFSanoydklfUUN1Sm43WDMtZnB3UUlSTEV2OUN3RmFLeEd6OS1HSzlDZnlqcWUya0dFbjV0dW5YZkxUMnExLTN1a0oyU1QyLWRNZWE2aVZlZVI0RlF4LS1Kb3I3ckZkNTZyUEI1X2N2b19KUlJCVXIweXRWc3BfaTdhTkh5a3djck1fTXJ3dzMxOUYwM2E4Z1EycUY3b0U4d0R6dDJvaGxyMjhneG5vOHlqcUFDOWNVb1VDdm9lc0tvSmtmTWNRRFAxaFhfRVJ0Zkc4VG1nR0wtQUNmM3MyR25ENWFtR2Y5UHh2?oc=5
 
-- India’s cash transfer boom gives relief to the poor but strains budgets - BBC
-  India’s cash transfer boom gives relief to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeENaWG0xdUhld2tSY0dSSDdMNWZmbVFxZERJSlgzcFo5YTZyX2cxV1hvN0NOZGhXWlpQcDFja1JiaTVQc0x0TVhoRkR3X3FFT1JEWnMyUmhNdw?oc=5
+- Monsoon tracker LIVE | IMD warns of isolated heavy to very heavy rainfall in several regions - The Hindu
+  The Hindu reports heavy rain in several parts of India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOZ0FnV2Q2aUtQNVJOZERmUHkzWlpQcEk0WHdSUFA2M1VTWXFxNGRVTzhia0JkQmUwNExOMGR5c05MZUY2dFE3bHdTX2NHRVFVZlQ3dzBPbW83R2RiSlVLVlJubkwxclNxVEJnY1JmdU53ZWxvb0JnT0hfUWFRc0Vjc01pNzhsTERVU2M4U1puMlFUWXNIU3lVYlVla0VuVUo4ZUE4VWlIN1ZVOV9FcDdlM0NocHl5eWx1SFdFR2xOc1ZPNklSd0txMElXZTQ0aEp2enA2RFViYlpRdlBCWXRIQ3RiWGZVUWFDVlQ1RHA0blE2RUd4aWQzUkYzTnlkRlh6R21XaDE3Q2FMRUJYQzlhd3o4MNIBmgJBVV95cUxOMDRmTTFkSGxzcS1yTGQ5cnZNUUVlS2h0QU9SU1NTVHdyWmxUU2RBUmJmRFo0WXp4TWpqY1FKa21UdGgzamlRUFBaTGYyRHF2cUFMLTNncjNMX1NSQ2JWVHplcG1xMGg1MEM1SFdlTjlDUEk5cjdpRXFuMG9XdDh4VW9WTm9JQVYwYzdJOHRmalhMM0Rnd0g3U1QydzhQbGZtalh2ZmFiSERVbUM3OW5EVXlOaTJIeEFpbEFRVXFLdHVKSHFBTVJBUU5lU0p3TWVFeWkwZVhGbjdocmZ6TFdOaXhBYzVSWTlvNEpLRDVRc1JUMnBkOXpzOE1XQl9idnNxb0hsX3BvQzBUVHJtMW5pRHBEbHloMlhEX3c?oc=5
 
-- India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF - NDTV
-  India Secures Historic Vice-Pres
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzRTdF9GTEN4WWRLSC1DRnlsTklYODlGZUVFSzQyMVF2WXdCUnZkU1diZzBCTUlrcXVza2dZQlBKNmdGWnA1a0lUZGlBMVV5T1VHQU1wTVkzbWxIMTBRV0JqUlF1RWlOV0RUVVZRZTFqa29VSk5rTXdxT3RNdGNhTkg5eFRzdnAwZmdBVl9XUjBZbUJ5blAyLUxiR09yX0FEUWxndzV5RGphemdUdVdTVVNDQdIBuwFBVV95cUxQUkdQWUFDczY0Uk1QYjJXSFRieEgtQnJaVG52THlGd0p5eDQ5bmxLOURXWVhodVFUdHpFTTNoUTdENUFMODVDYThuQkcxNzNlU0puMnpXNm1sVS1HTnhzSWV4dW0zdGk0dXR4ZWJhYXNXOU9zeUx6WExINnBSSTFDWTZNQUdvbFdHYUZ2akgyMVRremd0S0ZjZnJqU2ROUXI5bEpVd25EVXJTZ3hBY1M5eUZXTFcyTUNIVEI4?oc=5
+- 4 Killed As Temple Roof Collapses In Maharashtra's Parbhani - NDTV
+  4 killed As Temple Roof Collapses
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdiR2JyNHR0aFAxR0VWX20yYml5bEtCV2lwOVktd1BXVVUzN2ZIMFZoRDhGRzNJYW0wMXprTV9ubnJ3OFJaUThIMjBzNWQyTEZNSGNwSFkzRVY2V19hRkxUVzhQLUhRZjhvUzVmaUtKc0ZsaC03OGtJUnM3SlhZclUwai15VlVoZnJFSFRBenNOVWNod0lkXy1ybEZSZlYzR1ZmZ0tzdlZKY0JtOEtQN1RvSUtJak1VQkxtZ9IBxAFBVV95cUxOTUxzUTdkcDRDa3djMTdhVkF1ZklzdUhhcks0QUpIenNmbzdQZFBFMkJEdXo2ZmdVUzZMRE1aWXl5enFhLUhvVnJxaGIzeHhiZjljS3VmREFyNWFmSFV4VXRFZTVOV0FqSlcxaUNpOUh3U3VDaWF6TlQ4NlRLTE9NRGhKTFB5OTlOWHV0aEFJYUUzSHNpaTkta2lSVjc2eXQwS2dVcmt1TEEzc2dvVWRuTHJCc1lVOV9hSmpsaG92Mmw3VWJz?oc=5
 
-- India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet - The Times of India
-  India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet.
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2VPV0piSFlBSEZhN21iaE5UR0MtTi1fUkdSMktKbFJscjZJSHBiWXUyY2NCaEhQb0xCYXlhVlJDSVIxbVFxSmtDNjJZNlNaRWhOZlpCMXE3azhiSUhleGV6cTNDS0gxQmhEelQ5QUt2STVzbXFCcGhWYkdDVTJGVDVxNE0ydVpldTdzeGEtS2U3eW1Pbm4yamJtUTNpQ0tvaUktYlJCNkRPdWM3SG1xRXYwVzNYRlJnMk1ocHpxLXpNWnN1Z1A0c3ZMMlJrVWxGcEc0ekVNNmZCV3hXQzBpR0lUemRBX3RVZV9N0gHwAUFVX3lxTE9NNU42UERkeFhheER2Y2RORm1wekwxNGFPaFphOHFDR1ZYMnhBZVN3LWo4RE84VkhKcHk0TG94emZFYnk4UTgzV1VHR3FZbzBBZ3M4T2tEYXJLWExzVHV5RktoV3BHNDJ1dGg1ZFRLVUtEMlFZQ2hldEZjcDdIcjJINHp5b2k4MThsaHNvcDRpa1VETktJU2toVHVLby1KN0diNWRSa1dIeDFkaFFNcGJXUDhiYTZHTks2RnlfQ3N1ZlZia3dfRTRWR0tvbGlTTld5ZE5VNU9JdnlIY0lla2h6NTZQNmJ0ejdtUWZYVXJmRw?oc=5
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- India, South Korea reaffirm commitment to strengthen cooperation in public administration - Newsonair
-  India, South Korea reaffirm commitment to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW16ajNEVW5NbXNQekluYUgxZmNwd0ppWkFaNm93VGpmVHRfTU50emFxTnc3bXctRFYwZTVtRTZzUWtkcWJkMlE0UjRFU3pQTmpINVdBYUtrTEZ6RUF4SkpzT2lDUGVFZklOcUpYSXlzWi1CYVd0VU9QMXFhdV82ZFhuaGszQlM2TkFOUUlnb0YxVHNIaWJrNGEzVWxWV25CNzMzeC1ZdkVmejBvbnM1Tk1NbzI?oc=5
+- India: Hundreds attend 'Cockroach' party protest in Delhi - DW.com
+  India: Hundreds attend 'C
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBvcnVUZ1JGZmZQeHYxLVZDM3Zoam5xU1VOTGNwbEJpMFJldDM4ODlfZk4wX21NQUtfb1FyUDAxS1FKdmdpVHhWWVAtNmswU0d2VmJfekpWaDU0SExvMkFoN2VTSXA1cm5Cbmk0Tm1SZXJRcFlWWWlmLUVEMVYxek44S1V2Ni1PaGcta054dUhfWWRXenJnaW1CYXJ5dlBu?oc=5
 
-- India to host BRICS National Security Advisers meeting beginning on June 22 - Newsonair
-  India to host BRICS National Security Advisers meeting
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGU3SjkteEo4RmF4emRRTzhUSkxsQTBHMkFXajVVZFJiWmZHU3lrWDBOdlNWUmQ1N2FvUnh6UW9nNEZqQUdQcmdtcVVLMWJRUi1qdVBPZFo0cXhnc1FTWVoxYWEzZEJrWnhpQWYyaXg3MUFfVGJRR3pGb3VNSTg1VUs0X2ZBaWJ5TDIySTE4NWFjeWUyeUY4U2ZHdFRoZTE3Vmk4?oc=5
+- Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ - The Indian Express
+  Several universities replace ‘India’ with �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXFPWW9CdFdaejlJWWxXVEpLRlg1RVF2aWgtdG1BUUp3ZUlIenVQRFozcHA0Uk15TGxfMVRpQlVzZzZGOVUxYjlKZ0NhMmpxaUxydTNvaFpxaGltakhGaWdGb3l1dFV2cHJCalFhZXBtYWluTG1IQlY2S19VWFZoZkRBWWZjNVZNZGhnOWdqVlVMVVc2U3ZMaGs2dE91RjRSWUFZVC1qejlLN3h3X0paR3IteGowakRUV3FXN0E3UHU2YWE3Vkhha0d5X3lyNG5TNUt0bmg2SkhEQWN0ZE45WjE5QVlEQ3FCQWfSAfABQVVfeXFMTVpHZjFFYnFSanoydklfUUN1Sm43WDMtZnB3UUlSTEV2OUN3RmFLeEd6OS1HSzlDZnlqcWUya0dFbjV0dW5YZkxUMnExLTN1a0oyU1QyLWRNZWE2aVZlZVI0RlF4LS1Kb3I3ckZkNTZyUEI1X2N2b19KUlJCVXIweXRWc3BfaTdhTkh5a3djck1fTXJ3dzMxOUYwM2E4Z1EycUY3b0U4d0R6dDJvaGxyMjhneG5vOHlqcUFDOWNVb1VDdm9lc0tvSmtmTWNRRFAxaFhfRVJ0Zkc4VG1nR0wtQUNmM3MyR25ENWFtR2Y5UHh2?oc=5
 
-- India’s cash transfer boom gives relief to the poor but strains budgets - BBC
-  India’s cash transfer boom gives relief to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeENaWG0xdUhld2tSY0dSSDdMNWZmbVFxZERJSlgzcFo5YTZyX2cxV1hvN0NOZGhXWlpQcDFja1JiaTVQc0x0TVhoRkR3X3FFT1JEWnMyUmhNdw?oc=5
+- Monsoon tracker LIVE | IMD warns of isolated heavy to very heavy rainfall in several regions - The Hindu
+  The Hindu reports heavy rain in several parts of India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOZ0FnV2Q2aUtQNVJOZERmUHkzWlpQcEk0WHdSUFA2M1VTWXFxNGRVTzhia0JkQmUwNExOMGR5c05MZUY2dFE3bHdTX2NHRVFVZlQ3dzBPbW83R2RiSlVLVlJubkwxclNxVEJnY1JmdU53ZWxvb0JnT0hfUWFRc0Vjc01pNzhsTERVU2M4U1puMlFUWXNIU3lVYlVla0VuVUo4ZUE4VWlIN1ZVOV9FcDdlM0NocHl5eWx1SFdFR2xOc1ZPNklSd0txMElXZTQ0aEp2enA2RFViYlpRdlBCWXRIQ3RiWGZVUWFDVlQ1RHA0blE2RUd4aWQzUkYzTnlkRlh6R21XaDE3Q2FMRUJYQzlhd3o4MNIBmgJBVV95cUxOMDRmTTFkSGxzcS1yTGQ5cnZNUUVlS2h0QU9SU1NTVHdyWmxUU2RBUmJmRFo0WXp4TWpqY1FKa21UdGgzamlRUFBaTGYyRHF2cUFMLTNncjNMX1NSQ2JWVHplcG1xMGg1MEM1SFdlTjlDUEk5cjdpRXFuMG9XdDh4VW9WTm9JQVYwYzdJOHRmalhMM0Rnd0g3U1QydzhQbGZtalh2ZmFiSERVbUM3OW5EVXlOaTJIeEFpbEFRVXFLdHVKSHFBTVJBUU5lU0p3TWVFeWkwZVhGbjdocmZ6TFdOaXhBYzVSWTlvNEpLRDVRc1JUMnBkOXpzOE1XQl9idnNxb0hsX3BvQzBUVHJtMW5pRHBEbHloMlhEX3c?oc=5
 
-- India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF - NDTV
-  India Secures Historic Vice-Pres
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzRTdF9GTEN4WWRLSC1DRnlsTklYODlGZUVFSzQyMVF2WXdCUnZkU1diZzBCTUlrcXVza2dZQlBKNmdGWnA1a0lUZGlBMVV5T1VHQU1wTVkzbWxIMTBRV0JqUlF1RWlOV0RUVVZRZTFqa29VSk5rTXdxT3RNdGNhTkg5eFRzdnAwZmdBVl9XUjBZbUJ5blAyLUxiR09yX0FEUWxndzV5RGphemdUdVdTVVNDQdIBuwFBVV95cUxQUkdQWUFDczY0Uk1QYjJXSFRieEgtQnJaVG52THlGd0p5eDQ5bmxLOURXWVhodVFUdHpFTTNoUTdENUFMODVDYThuQkcxNzNlU0puMnpXNm1sVS1HTnhzSWV4dW0zdGk0dXR4ZWJhYXNXOU9zeUx6WExINnBSSTFDWTZNQUdvbFdHYUZ2akgyMVRremd0S0ZjZnJqU2ROUXI5bEpVd25EVXJTZ3hBY1M5eUZXTFcyTUNIVEI4?oc=5
+- 4 Killed As Temple Roof Collapses In Maharashtra's Parbhani - NDTV
+  4 killed As Temple Roof Collapses
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdiR2JyNHR0aFAxR0VWX20yYml5bEtCV2lwOVktd1BXVVUzN2ZIMFZoRDhGRzNJYW0wMXprTV9ubnJ3OFJaUThIMjBzNWQyTEZNSGNwSFkzRVY2V19hRkxUVzhQLUhRZjhvUzVmaUtKc0ZsaC03OGtJUnM3SlhZclUwai15VlVoZnJFSFRBenNOVWNod0lkXy1ybEZSZlYzR1ZmZ0tzdlZKY0JtOEtQN1RvSUtJak1VQkxtZ9IBxAFBVV95cUxOTUxzUTdkcDRDa3djMTdhVkF1ZklzdUhhcks0QUpIenNmbzdQZFBFMkJEdXo2ZmdVUzZMRE1aWXl5enFhLUhvVnJxaGIzeHhiZjljS3VmREFyNWFmSFV4VXRFZTVOV0FqSlcxaUNpOUh3U3VDaWF6TlQ4NlRLTE9NRGhKTFB5OTlOWHV0aEFJYUUzSHNpaTkta2lSVjc2eXQwS2dVcmt1TEEzc2dvVWRuTHJCc1lVOV9hSmpsaG92Mmw3VWJz?oc=5
 
-- India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet - The Times of India
-  India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet.
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2VPV0piSFlBSEZhN21iaE5UR0MtTi1fUkdSMktKbFJscjZJSHBiWXUyY2NCaEhQb0xCYXlhVlJDSVIxbVFxSmtDNjJZNlNaRWhOZlpCMXE3azhiSUhleGV6cTNDS0gxQmhEelQ5QUt2STVzbXFCcGhWYkdDVTJGVDVxNE0ydVpldTdzeGEtS2U3eW1Pbm4yamJtUTNpQ0tvaUktYlJCNkRPdWM3SG1xRXYwVzNYRlJnMk1ocHpxLXpNWnN1Z1A0c3ZMMlJrVWxGcEc0ekVNNmZCV3hXQzBpR0lUemRBX3RVZV9N0gHwAUFVX3lxTE9NNU42UERkeFhheER2Y2RORm1wekwxNGFPaFphOHFDR1ZYMnhBZVN3LWo4RE84VkhKcHk0TG94emZFYnk4UTgzV1VHR3FZbzBBZ3M4T2tEYXJLWExzVHV5RktoV3BHNDJ1dGg1ZFRLVUtEMlFZQ2hldEZjcDdIcjJINHp5b2k4MThsaHNvcDRpa1VETktJU2toVHVLby1KN0diNWRSa1dIeDFkaFFNcGJXUDhiYTZHTks2RnlfQ3N1ZlZia3dfRTRWR0tvbGlTTld5ZE5VNU9JdnlIY0lla2h6NTZQNmJ0ejdtUWZYVXJmRw?oc=5
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- India, South Korea reaffirm commitment to strengthen cooperation in public administration - Newsonair
-  India, South Korea reaffirm commitment to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW16ajNEVW5NbXNQekluYUgxZmNwd0ppWkFaNm93VGpmVHRfTU50emFxTnc3bXctRFYwZTVtRTZzUWtkcWJkMlE0UjRFU3pQTmpINVdBYUtrTEZ6RUF4SkpzT2lDUGVFZklOcUpYSXlzWi1CYVd0VU9QMXFhdV82ZFhuaGszQlM2TkFOUUlnb0YxVHNIaWJrNGEzVWxWV25CNzMzeC1ZdkVmejBvbnM1Tk1NbzI?oc=5
+- India: Hundreds attend 'Cockroach' party protest in Delhi - DW.com
+  India: Hundreds attend 'C
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBvcnVUZ1JGZmZQeHYxLVZDM3Zoam5xU1VOTGNwbEJpMFJldDM4ODlfZk4wX21NQUtfb1FyUDAxS1FKdmdpVHhWWVAtNmswU0d2VmJfekpWaDU0SExvMkFoN2VTSXA1cm5Cbmk0Tm1SZXJRcFlWWWlmLUVEMVYxek44S1V2Ni1PaGcta054dUhfWWRXenJnaW1CYXJ5dlBu?oc=5
 
-- India to host BRICS National Security Advisers meeting beginning on June 22 - Newsonair
-  India to host BRICS National Security Advisers meeting
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGU3SjkteEo4RmF4emRRTzhUSkxsQTBHMkFXajVVZFJiWmZHU3lrWDBOdlNWUmQ1N2FvUnh6UW9nNEZqQUdQcmdtcVVLMWJRUi1qdVBPZFo0cXhnc1FTWVoxYWEzZEJrWnhpQWYyaXg3MUFfVGJRR3pGb3VNSTg1VUs0X2ZBaWJ5TDIySTE4NWFjeWUyeUY4U2ZHdFRoZTE3Vmk4?oc=5
+- Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ - The Indian Express
+  Several universities replace ‘India’ with �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXFPWW9CdFdaejlJWWxXVEpLRlg1RVF2aWgtdG1BUUp3ZUlIenVQRFozcHA0Uk15TGxfMVRpQlVzZzZGOVUxYjlKZ0NhMmpxaUxydTNvaFpxaGltakhGaWdGb3l1dFV2cHJCalFhZXBtYWluTG1IQlY2S19VWFZoZkRBWWZjNVZNZGhnOWdqVlVMVVc2U3ZMaGs2dE91RjRSWUFZVC1qejlLN3h3X0paR3IteGowakRUV3FXN0E3UHU2YWE3Vkhha0d5X3lyNG5TNUt0bmg2SkhEQWN0ZE45WjE5QVlEQ3FCQWfSAfABQVVfeXFMTVpHZjFFYnFSanoydklfUUN1Sm43WDMtZnB3UUlSTEV2OUN3RmFLeEd6OS1HSzlDZnlqcWUya0dFbjV0dW5YZkxUMnExLTN1a0oyU1QyLWRNZWE2aVZlZVI0RlF4LS1Kb3I3ckZkNTZyUEI1X2N2b19KUlJCVXIweXRWc3BfaTdhTkh5a3djck1fTXJ3dzMxOUYwM2E4Z1EycUY3b0U4d0R6dDJvaGxyMjhneG5vOHlqcUFDOWNVb1VDdm9lc0tvSmtmTWNRRFAxaFhfRVJ0Zkc4VG1nR0wtQUNmM3MyR25ENWFtR2Y5UHh2?oc=5
 
-- India’s cash transfer boom gives relief to the poor but strains budgets - BBC
-  India’s cash transfer boom gives relief to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeENaWG0xdUhld2tSY0dSSDdMNWZmbVFxZERJSlgzcFo5YTZyX2cxV1hvN0NOZGhXWlpQcDFja1JiaTVQc0x0TVhoRkR3X3FFT1JEWnMyUmhNdw?oc=5
+- Monsoon tracker LIVE | IMD warns of isolated heavy to very heavy rainfall in several regions - The Hindu
+  The Hindu reports heavy rain in several parts of India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOZ0FnV2Q2aUtQNVJOZERmUHkzWlpQcEk0WHdSUFA2M1VTWXFxNGRVTzhia0JkQmUwNExOMGR5c05MZUY2dFE3bHdTX2NHRVFVZlQ3dzBPbW83R2RiSlVLVlJubkwxclNxVEJnY1JmdU53ZWxvb0JnT0hfUWFRc0Vjc01pNzhsTERVU2M4U1puMlFUWXNIU3lVYlVla0VuVUo4ZUE4VWlIN1ZVOV9FcDdlM0NocHl5eWx1SFdFR2xOc1ZPNklSd0txMElXZTQ0aEp2enA2RFViYlpRdlBCWXRIQ3RiWGZVUWFDVlQ1RHA0blE2RUd4aWQzUkYzTnlkRlh6R21XaDE3Q2FMRUJYQzlhd3o4MNIBmgJBVV95cUxOMDRmTTFkSGxzcS1yTGQ5cnZNUUVlS2h0QU9SU1NTVHdyWmxUU2RBUmJmRFo0WXp4TWpqY1FKa21UdGgzamlRUFBaTGYyRHF2cUFMLTNncjNMX1NSQ2JWVHplcG1xMGg1MEM1SFdlTjlDUEk5cjdpRXFuMG9XdDh4VW9WTm9JQVYwYzdJOHRmalhMM0Rnd0g3U1QydzhQbGZtalh2ZmFiSERVbUM3OW5EVXlOaTJIeEFpbEFRVXFLdHVKSHFBTVJBUU5lU0p3TWVFeWkwZVhGbjdocmZ6TFdOaXhBYzVSWTlvNEpLRDVRc1JUMnBkOXpzOE1XQl9idnNxb0hsX3BvQzBUVHJtMW5pRHBEbHloMlhEX3c?oc=5
 
-- India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF - NDTV
-  India Secures Historic Vice-Pres
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzRTdF9GTEN4WWRLSC1DRnlsTklYODlGZUVFSzQyMVF2WXdCUnZkU1diZzBCTUlrcXVza2dZQlBKNmdGWnA1a0lUZGlBMVV5T1VHQU1wTVkzbWxIMTBRV0JqUlF1RWlOV0RUVVZRZTFqa29VSk5rTXdxT3RNdGNhTkg5eFRzdnAwZmdBVl9XUjBZbUJ5blAyLUxiR09yX0FEUWxndzV5RGphemdUdVdTVVNDQdIBuwFBVV95cUxQUkdQWUFDczY0Uk1QYjJXSFRieEgtQnJaVG52THlGd0p5eDQ5bmxLOURXWVhodVFUdHpFTTNoUTdENUFMODVDYThuQkcxNzNlU0puMnpXNm1sVS1HTnhzSWV4dW0zdGk0dXR4ZWJhYXNXOU9zeUx6WExINnBSSTFDWTZNQUdvbFdHYUZ2akgyMVRremd0S0ZjZnJqU2ROUXI5bEpVd25EVXJTZ3hBY1M5eUZXTFcyTUNIVEI4?oc=5
+- 4 Killed As Temple Roof Collapses In Maharashtra's Parbhani - NDTV
+  4 killed As Temple Roof Collapses
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdiR2JyNHR0aFAxR0VWX20yYml5bEtCV2lwOVktd1BXVVUzN2ZIMFZoRDhGRzNJYW0wMXprTV9ubnJ3OFJaUThIMjBzNWQyTEZNSGNwSFkzRVY2V19hRkxUVzhQLUhRZjhvUzVmaUtKc0ZsaC03OGtJUnM3SlhZclUwai15VlVoZnJFSFRBenNOVWNod0lkXy1ybEZSZlYzR1ZmZ0tzdlZKY0JtOEtQN1RvSUtJak1VQkxtZ9IBxAFBVV95cUxOTUxzUTdkcDRDa3djMTdhVkF1ZklzdUhhcks0QUpIenNmbzdQZFBFMkJEdXo2ZmdVUzZMRE1aWXl5enFhLUhvVnJxaGIzeHhiZjljS3VmREFyNWFmSFV4VXRFZTVOV0FqSlcxaUNpOUh3U3VDaWF6TlQ4NlRLTE9NRGhKTFB5OTlOWHV0aEFJYUUzSHNpaTkta2lSVjc2eXQwS2dVcmt1TEEzc2dvVWRuTHJCc1lVOV9hSmpsaG92Mmw3VWJz?oc=5
 
-- India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet - The Times of India
-  India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet.
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2VPV0piSFlBSEZhN21iaE5UR0MtTi1fUkdSMktKbFJscjZJSHBiWXUyY2NCaEhQb0xCYXlhVlJDSVIxbVFxSmtDNjJZNlNaRWhOZlpCMXE3azhiSUhleGV6cTNDS0gxQmhEelQ5QUt2STVzbXFCcGhWYkdDVTJGVDVxNE0ydVpldTdzeGEtS2U3eW1Pbm4yamJtUTNpQ0tvaUktYlJCNkRPdWM3SG1xRXYwVzNYRlJnMk1ocHpxLXpNWnN1Z1A0c3ZMMlJrVWxGcEc0ekVNNmZCV3hXQzBpR0lUemRBX3RVZV9N0gHwAUFVX3lxTE9NNU42UERkeFhheER2Y2RORm1wekwxNGFPaFphOHFDR1ZYMnhBZVN3LWo4RE84VkhKcHk0TG94emZFYnk4UTgzV1VHR3FZbzBBZ3M4T2tEYXJLWExzVHV5RktoV3BHNDJ1dGg1ZFRLVUtEMlFZQ2hldEZjcDdIcjJINHp5b2k4MThsaHNvcDRpa1VETktJU2toVHVLby1KN0diNWRSa1dIeDFkaFFNcGJXUDhiYTZHTks2RnlfQ3N1ZlZia3dfRTRWR0tvbGlTTld5ZE5VNU9JdnlIY0lla2h6NTZQNmJ0ejdtUWZYVXJmRw?oc=5
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- India, South Korea reaffirm commitment to strengthen cooperation in public administration - Newsonair
-  India, South Korea reaffirm commitment to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW16ajNEVW5NbXNQekluYUgxZmNwd0ppWkFaNm93VGpmVHRfTU50emFxTnc3bXctRFYwZTVtRTZzUWtkcWJkMlE0UjRFU3pQTmpINVdBYUtrTEZ6RUF4SkpzT2lDUGVFZklOcUpYSXlzWi1CYVd0VU9QMXFhdV82ZFhuaGszQlM2TkFOUUlnb0YxVHNIaWJrNGEzVWxWV25CNzMzeC1ZdkVmejBvbnM1Tk1NbzI?oc=5
+- India: Hundreds attend 'Cockroach' party protest in Delhi - DW.com
+  India: Hundreds attend 'C
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBvcnVUZ1JGZmZQeHYxLVZDM3Zoam5xU1VOTGNwbEJpMFJldDM4ODlfZk4wX21NQUtfb1FyUDAxS1FKdmdpVHhWWVAtNmswU0d2VmJfekpWaDU0SExvMkFoN2VTSXA1cm5Cbmk0Tm1SZXJRcFlWWWlmLUVEMVYxek44S1V2Ni1PaGcta054dUhfWWRXenJnaW1CYXJ5dlBu?oc=5
 
-- India to host BRICS National Security Advisers meeting beginning on June 22 - Newsonair
-  India to host BRICS National Security Advisers meeting
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGU3SjkteEo4RmF4emRRTzhUSkxsQTBHMkFXajVVZFJiWmZHU3lrWDBOdlNWUmQ1N2FvUnh6UW9nNEZqQUdQcmdtcVVLMWJRUi1qdVBPZFo0cXhnc1FTWVoxYWEzZEJrWnhpQWYyaXg3MUFfVGJRR3pGb3VNSTg1VUs0X2ZBaWJ5TDIySTE4NWFjeWUyeUY4U2ZHdFRoZTE3Vmk4?oc=5
+- Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ - The Indian Express
+  Several universities replace ‘India’ with �
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZXFPWW9CdFdaejlJWWxXVEpLRlg1RVF2aWgtdG1BUUp3ZUlIenVQRFozcHA0Uk15TGxfMVRpQlVzZzZGOVUxYjlKZ0NhMmpxaUxydTNvaFpxaGltakhGaWdGb3l1dFV2cHJCalFhZXBtYWluTG1IQlY2S19VWFZoZkRBWWZjNVZNZGhnOWdqVlVMVVc2U3ZMaGs2dE91RjRSWUFZVC1qejlLN3h3X0paR3IteGowakRUV3FXN0E3UHU2YWE3Vkhha0d5X3lyNG5TNUt0bmg2SkhEQWN0ZE45WjE5QVlEQ3FCQWfSAfABQVVfeXFMTVpHZjFFYnFSanoydklfUUN1Sm43WDMtZnB3UUlSTEV2OUN3RmFLeEd6OS1HSzlDZnlqcWUya0dFbjV0dW5YZkxUMnExLTN1a0oyU1QyLWRNZWE2aVZlZVI0RlF4LS1Kb3I3ckZkNTZyUEI1X2N2b19KUlJCVXIweXRWc3BfaTdhTkh5a3djck1fTXJ3dzMxOUYwM2E4Z1EycUY3b0U4d0R6dDJvaGxyMjhneG5vOHlqcUFDOWNVb1VDdm9lc0tvSmtmTWNRRFAxaFhfRVJ0Zkc4VG1nR0wtQUNmM3MyR25ENWFtR2Y5UHh2?oc=5
 
-- India’s cash transfer boom gives relief to the poor but strains budgets - BBC
-  India’s cash transfer boom gives relief to
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jeENaWG0xdUhld2tSY0dSSDdMNWZmbVFxZERJSlgzcFo5YTZyX2cxV1hvN0NOZGhXWlpQcDFja1JiaTVQc0x0TVhoRkR3X3FFT1JEWnMyUmhNdw?oc=5
+- Monsoon tracker LIVE | IMD warns of isolated heavy to very heavy rainfall in several regions - The Hindu
+  The Hindu reports heavy rain in several parts of India.
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOZ0FnV2Q2aUtQNVJOZERmUHkzWlpQcEk0WHdSUFA2M1VTWXFxNGRVTzhia0JkQmUwNExOMGR5c05MZUY2dFE3bHdTX2NHRVFVZlQ3dzBPbW83R2RiSlVLVlJubkwxclNxVEJnY1JmdU53ZWxvb0JnT0hfUWFRc0Vjc01pNzhsTERVU2M4U1puMlFUWXNIU3lVYlVla0VuVUo4ZUE4VWlIN1ZVOV9FcDdlM0NocHl5eWx1SFdFR2xOc1ZPNklSd0txMElXZTQ0aEp2enA2RFViYlpRdlBCWXRIQ3RiWGZVUWFDVlQ1RHA0blE2RUd4aWQzUkYzTnlkRlh6R21XaDE3Q2FMRUJYQzlhd3o4MNIBmgJBVV95cUxOMDRmTTFkSGxzcS1yTGQ5cnZNUUVlS2h0QU9SU1NTVHdyWmxUU2RBUmJmRFo0WXp4TWpqY1FKa21UdGgzamlRUFBaTGYyRHF2cUFMLTNncjNMX1NSQ2JWVHplcG1xMGg1MEM1SFdlTjlDUEk5cjdpRXFuMG9XdDh4VW9WTm9JQVYwYzdJOHRmalhMM0Rnd0g3U1QydzhQbGZtalh2ZmFiSERVbUM3OW5EVXlOaTJIeEFpbEFRVXFLdHVKSHFBTVJBUU5lU0p3TWVFeWkwZVhGbjdocmZ6TFdOaXhBYzVSWTlvNEpLRDVRc1JUMnBkOXpzOE1XQl9idnNxb0hsX3BvQzBUVHJtMW5pRHBEbHloMlhEX3c?oc=5
 
-- India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF - NDTV
-  India Secures Historic Vice-Pres
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzRTdF9GTEN4WWRLSC1DRnlsTklYODlGZUVFSzQyMVF2WXdCUnZkU1diZzBCTUlrcXVza2dZQlBKNmdGWnA1a0lUZGlBMVV5T1VHQU1wTVkzbWxIMTBRV0JqUlF1RWlOV0RUVVZRZTFqa29VSk5rTXdxT3RNdGNhTkg5eFRzdnAwZmdBVl9XUjBZbUJ5blAyLUxiR09yX0FEUWxndzV5RGphemdUdVdTVVNDQdIBuwFBVV95cUxQUkdQWUFDczY0Uk1QYjJXSFRieEgtQnJaVG52THlGd0p5eDQ5bmxLOURXWVhodVFUdHpFTTNoUTdENUFMODVDYThuQkcxNzNlU0puMnpXNm1sVS1HTnhzSWV4dW0zdGk0dXR4ZWJhYXNXOU9zeUx6WExINnBSSTFDWTZNQUdvbFdHYUZ2akgyMVRremd0S0ZjZnJqU2ROUXI5bEpVd25EVXJTZ3hBY1M5eUZXTFcyTUNIVEI4?oc=5
+- 4 Killed As Temple Roof Collapses In Maharashtra's Parbhani - NDTV
+  4 killed As Temple Roof Collapses
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdiR2JyNHR0aFAxR0VWX20yYml5bEtCV2lwOVktd1BXVVUzN2ZIMFZoRDhGRzNJYW0wMXprTV9ubnJ3OFJaUThIMjBzNWQyTEZNSGNwSFkzRVY2V19hRkxUVzhQLUhRZjhvUzVmaUtKc0ZsaC03OGtJUnM3SlhZclUwai15VlVoZnJFSFRBenNOVWNod0lkXy1ybEZSZlYzR1ZmZ0tzdlZKY0JtOEtQN1RvSUtJak1VQkxtZ9IBxAFBVV95cUxOTUxzUTdkcDRDa3djMTdhVkF1ZklzdUhhcks0QUpIenNmbzdQZFBFMkJEdXo2ZmdVUzZMRE1aWXl5enFhLUhvVnJxaGIzeHhiZjljS3VmREFyNWFmSFV4VXRFZTVOV0FqSlcxaUNpOUh3U3VDaWF6TlQ4NlRLTE9NRGhKTFB5OTlOWHV0aEFJYUUzSHNpaTkta2lSVjc2eXQwS2dVcmt1TEEzc2dvVWRuTHJCc1lVOV9hSmpsaG92Mmw3VWJz?oc=5
 
-- India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet - The Times of India
-  India to acquire nine retired Jaguar fighter jets from UK to manage ageing fleet.
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX2VPV0piSFlBSEZhN21iaE5UR0MtTi1fUkdSMktKbFJscjZJSHBiWXUyY2NCaEhQb0xCYXlhVlJDSVIxbVFxSmtDNjJZNlNaRWhOZlpCMXE3azhiSUhleGV6cTNDS0gxQmhEelQ5QUt2STVzbXFCcGhWYkdDVTJGVDVxNE0ydVpldTdzeGEtS2U3eW1Pbm4yamJtUTNpQ0tvaUktYlJCNkRPdWM3SG1xRXYwVzNYRlJnMk1ocHpxLXpNWnN1Z1A0c3ZMMlJrVWxGcEc0ekVNNmZCV3hXQzBpR0lUemRBX3RVZV9N0gHwAUFVX3lxTE9NNU42UERkeFhheER2Y2RORm1wekwxNGFPaFphOHFDR1ZYMnhBZVN3LWo4RE84VkhKcHk0TG94emZFYnk4UTgzV1VHR3FZbzBBZ3M4T2tEYXJLWExzVHV5RktoV3BHNDJ1dGg1ZFRLVUtEMlFZQ2hldEZjcDdIcjJINHp5b2k4MThsaHNvcDRpa1VETktJU2toVHVLby1KN0diNWRSa1dIeDFkaFFNcGJXUDhiYTZHTks2RnlfQ3N1ZlZia3dfRTRWR0tvbGlTTld5ZE5VNU9JdnlIY0lla2h6NTZQNmJ0ejdtUWZYVXJmRw?oc=5
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- India, South Korea reaffirm commitment to strengthen cooperation in public administration - Newsonair
-  India, South Korea reaffirm commitment to strengthen
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNOW16ajNEVW5NbXNQekluYUgxZmNwd0ppWkFaNm93VGpmVHRfTU50emFxTnc3bXctRFYwZTVtRTZzUWtkcWJkMlE0UjRFU3pQTmpINVdBYUtrTEZ6RUF4SkpzT2lDUGVFZklOcUpYSXlzWi1CYVd0VU9QMXFhdV82ZFhuaGszQlM2TkFOUUlnb0YxVHNIaWJrNGEzVWxWV25CNzMzeC1ZdkVmejBvbnM1Tk1NbzI?oc=5
-
-- India to host BRICS National Security Advisers meeting beginning on June 22 - Newsonair
-  India to host BRICS National Security Advisers meeting
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGU3SjkteEo4RmF4emRRTzhUSkxsQTBHMkFXajVVZFJiWmZHU3lrWDBOdlNWUmQ1N2FvUnh6UW9nNEZqQUdQcmdtcVVLMWJRUi1qdVBPZFo0cXhnc1FTWVoxYWEzZEJrWnhpQWYyaXg3MUFfVGJRR3pGb3VNSTg1VUs0X2ZBaWJ5TDIySTE4NWFjeWUyeUY4U2ZHdFRoZTE3Vmk4?oc=5
+- India: Hundreds attend 'Cockroach' party protest in Delhi - DW.com
+  India: Hundreds attend 'C
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBvcnVUZ1JGZmZQeHYxLVZDM3Zoam5xU1VOTGNwbEJpMFJldDM4ODlfZk4wX21NQUtfb1FyUDAxS1FKdmdpVHhWWVAtNmswU0d2VmJfekpWaDU0SExvMkFoN2VTSXA1cm5Cbmk0Tm1SZXJRcFlWWWlmLUVEMVYxek44S1V2Ni1PaGcta054dUhfWWRXenJnaW1CYXJ5dlBu?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-20 08:51:19 UTC_
+_Last updated: 2026-06-20 13:53:24 UTC_
