@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
+- Tigers, gaurs, wild dogs: Inside Madhya Pradesh’s wildlife swap plan with Andhra
+  
+  🔗 https://indianexpress.com/article/india/tigers-gaurs-wild-dogs-inside-madhya-pradeshs-wildlife-swap-plan-with-andhra-10748467/
+
+- For family, flight attendant killed in Air India crash lives  — one message at a time
+  
+  🔗 https://indianexpress.com/article/india/for-family-flight-attendant-killed-in-air-india-crash-lives-one-message-at-a-time-10748526/
+
+- PM Modi to commission 3 indigenously built naval ships in Kolkata on June 21
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-to-commission-3-indigenously-built-naval-ships-in-kolkata-on-june-21-10748487/
+
+- 70 lakh jobs created under PM-VBRY: Narendra Modi
+  
+  🔗 https://indianexpress.com/article/india/70-lakh-jobs-created-under-pm-vbry-narendra-modi-10748485/
+
 - Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships
   
   🔗 https://indianexpress.com/article/india/indian-navy-indigenous-gas-turbine-generators-bharat-forge-deal-10748399/
 
-- Sujan Singh Park North row: Didn’t breach lease, real estate firm tells Centre
+- Funding climate adaptation tech should be a focus area: Naina Batra, CEO, AVPN
   
-  🔗 https://indianexpress.com/article/india/sujan-singph-park-eviction-notice-sobha-singh-ldo-lease-delhi-10748378/
-
-- Tej Pratap Yadav in eye of new storm, accused of threatening Patna family; FIR filed
-  
-  🔗 https://indianexpress.com/article/india/tej-pratap-yadav-fir-patna-threat-complaint-10748337/
-
-- Giriraj Singh’s X post becomes Bihar govt recruitment exam question, BPSC takes action amid row
-  
-  🔗 https://indianexpress.com/article/india/bpsc-exam-question-giriraj-singh-x-post-row-question-setter-barred-bihar-10748279/
-
-- From Kalamkari painting to Kashmiri carpet, PM Modi’s gifts showcase India’s heritage
-  
-  🔗 https://indianexpress.com/article/india/narendra-modi-diplomatic-gifts-france-slovakia-g7-handicrafts-emanuel-macron-10748267/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/avpn-ceo-naina-subberwal-batra-ai-opportunity-fund-social-impact-india-10748157/
 
 - Relativity Space wins Nasa Mars contract under Eric Schmidt’s leadership
   
@@ -36,9 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-reviews/primebook-2-max-review-10747887/
 
-- WhatsApp testing in-app backup management feature for Android: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-in-app-backup-management-feature-for-android-report-10747890/
+- Tata Consumer targets 17% Ebitda margin in 3 years via overhaul of distribution model
+  Tata Consumer Products is strategizing to improve margins, currently at 13.9%. Recent acquisitions have boosted its entry into food services and
+  🔗 https://www.livemint.com/companies/news/tata-consumer-products-ebitda-margin-distribution-overhaul-fmcg-quick-commerce-general-trade-11781851429170.html
+
+- Why Orkla wants to change Eastern’s sales model after five years
+  Orkla's move comes after years spent understanding a business whose strengths
+  🔗 https://www.livemint.com/companies/news/orkla-india-eastern-condiments-sales-network-spices-sanjay-sharma-11781854638780.html
+
+- G.S.K. Velu’s Maxivision eyes west India push ahead of listing next year
+  Neuberg Diagnostics, where Velu serves as chairman, is likely to be the first to list. Maxivision Eye Hospitals
+  🔗 https://www.livemint.com/companies/news/gsk-velu-maxivision-eyes-west-india-push-ahead-of-listing-next-year-neuberg-maxivision-trivitron-11781862755072.html
 
 - OpenAI wants to transform healthcare—and this Indian researcher, Karan Singhal, is at the helm
   OpenAI is investing heavily in healthcare as millions increasingly turn to ChatGPT for medical and wellness advice. Leading that effort is Karan Singhal, a former Google researcher who says the
@@ -47,18 +59,6 @@
 - Kunal Shah’s Cred scales biometric UPI users to near 10 million
   The milestone comes as Cred looks to widen the use of its payments products beyond credit card bill payments.
   🔗 https://www.livemint.com/companies/news/cred-clocks-nearly-10-million-biometric-auth-users-in-payments-push-11781876319379.html
-
-- Succession at Reliance nearly complete, Mukesh Ambani, 69, says at shareholders meeting
-  Akash, Isha and Anant lead individual business verticals. They are simultaneously working towards the holistic growth of everything under the Reliance ecosystem, Mukesh Ambani said.
-  🔗 https://www.livemint.com/companies/mukeshambanisignalsnearcompleteleadershiptransitionrelianceagm2026-11781878201562.html
-
-- Silicon Valley, sovereign funds and Ambani sit tight on their Jio stake in potential  ₹35,000 crore offer
-   existing shareholders including Meta, Google, sovereign wealth funds and private equity investors not selling stock in the proposed listing. Jio
-  🔗 https://www.livemint.com/companies/news/silicon-valley-sovereign-funds-and-ambani-sit-tight-on-their-jio-stake-in-potential-35-000-crore-ipo-offer-11781872330334.html
-
-- This 28-year-old quit law, cleared her student debt and built a  ₹38.5 crore business selling stickers
-  A side hustle helped Elyse pay off more than $75,000 in student debt. Despite earning a law degree, Elyse chose to pursue her art business full-
-  🔗 https://www.livemint.com/companies/people/this-28-year-old-quit-law-cleared-her-student-debt-and-built-a-38-5-crore-business-selling-stickers-11781877987424.html
 
 - BSE launches India's first Saatvik Index to promote value-based investing
   BSE Index Services launched India’s first Saatvik Index, the BSESaatvik 100. It offers investors a chance to align investments with value-based principles.
@@ -104,101 +104,121 @@
   Stock Market News, June 18, 2026: U.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDBTaDlqZUNST2dKNFlReWV0NWg2bk1QeXgtM0dDVVEyM1lNQkVZdFFmSTV0a0hpTXZZZndsdUtObHJ5UHpwemplRW9SNUNCWUZSWDliTmRDWENTSlBGZHZlTDk1ejlGT1MwMW40ZVVDMEk0RGtwTC1OZWlJLVlDRURvV0lQY3M?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rally as Iran
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2Ftc0l5eHQ3SkVMU1NFZFUyaS16cmN2MjNaNXBwWHJHM2hZVVZEbnVDSjZuMm4zMkx1bGhqSk4yMmhpbVFJTTFhRkoxdElmclI4aGJlaVdBUl9jeGU1aTd1ZXhsNEpoY1RRQi1rQ0hQS25GVVRNQTBNczlzMHF6TnRLemV4WWZ3eDZCQkh0Y1M3cG9TT2U4SVV4ck9oQlp3OWpjNW5Vd1o2RS1SWnhCeThDaC01ZkRzZTUyMmEwa2VHVDhoc3VNWnBwcVNEbEE?oc=5
+- Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal - CNBC
+  Global stock markets close lower on Friday as investors assess durability of U
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkEtY2s0WjJkdG94ZWEydFdYM1VldE9pUVY3ZzR0V3hhS0thYUxjbTZvNTFZbHFfYmY1YXczRFB1Q1Z0STQwZFFvV0R0MHNHRTZNWXJTVWlmRklWbzFYUEhtejBZXzh1VmE0dlZZLVY4RDFVZ05nMmJHMFZnYWp5dHlwckJJajhJLWNmSVQ1MGhvdmVjR04yX3d1OE9MWkt2NnlYMU9vSkpNbjDSAbABQVVfeXFMUENQTERnY3JCWTdSSExUNHZhUFpWVDR2RXJaX1FGM1NJYWhQOFlVYUludFRqTkhGaFlmN1dRbE1HcHA2MlJiOTRicUwxcV8yQjFWNUc2eXFGYjRLVDIxRFJ4ZzNPbGFya0pyYUlDZlRUNE5hNjRybjZmbnBaY0hFMjc3Nk1DRGUwLVdLYTRMNUZmWEVsQzREaTczX2RETUdLQ3o3cE4ta3M3V29XVFg1cDE?oc=5
 
-- Futures Fall With U.S. Markets Shut; Watch For This SpaceX Move - Investor's Business Daily
-  Futures Fall With U.S. Markets Shut
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEhrdlloWm5pS3hyaVF6azNTZW9TbnJFU01aTmJNems5Tk1ROUl1aGxhY3BfTkZYNlZOMkJtTDRuWXNvcFJEb2FnQ1duY0VOU20zNGIxaXhmcHU1WXMzNTNiYl9IZmZRTzlfT0k5NnA5ejQ1MGJlR21melNMOFVsbVpvc1RzdmdCOWszMnluZ2ctbkY4ajFZZDVsakZTZENyanJjWmozcGhJNDJneTZxU1luT3h2Zw?oc=5
-
-- Asia Stocks Set to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg
+- Asia Stocks Set to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg.com
   Asia Stocks Set to Rise as US-Iran
   🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1Q0N0xSek9vTVowa2JvcU5pM2MzNFV4dkxPcmYtQnhRamw4eWx5MmE5Q0I5QWpxRElUSUE0Y19xNnVDdmJOQnhJclNKMTNyR0R5dE5vLVZyLWVyMnRnRUxBam1TcUwwbUpxcmNjcGYxcm5ncGhMbzZuQkk1cHBQb0plY1JTZy1aNWJmSG95MC1SYU1yenpJZVZCcFZ5elVwdU1udEtqTzlGZElxQVFYcg?oc=5
 
-- Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause - Crude Oil Prices Today | OilPrice.com
-  Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ25Hc3BjRVZ0bklQdVhFbjkyQjlTeGZNbTBNYW9oUUFINzFWYzVkZ1haQ0RES05qUmZVUnhHUkg2RVRFdUN0WDZNOGEwZ2dyMjl4bjZFSFVqcnAzeGFVYjFMVTJIQ0tuNlVvN1V5ZEM0LWl0NVUyLWhya0otcm1ubUxWQi1OWHB5YUNYeVJydndHSmlTS0tOczVJRmdfV2thRTh2clgyQWJuUGg3X0ZjYzg4SHVBNUdWdHfSAb8BQVVfeXFMT0VibDBvZmp2cnk4eUp1V3JzMWJRMEgxeXFzVVZIcnN6Zm5ydXF6OGtvZTNVeG9YalFDN25NT09zYjFJU1VYZ2pzQ1JUbldOTHh4TE1JWjFNUHphbXoxQmtqRXpMc1Z3U25kZDkwT2gzaDRhLWRKQ1ZzQXk3cTlVV1VtT25jcWpEMUpaNFM5S0tBbjBwakxiZi01cHU2dk1zNmtxcFZkcVVrMVJYM1EyZWJua2dnaFJWN1JOMnRHQU0?oc=5
+- Markets snap 5-day gains: Sensex ends 600 pts lower, Nifty at 24,013; key factors behind decline - Moneycontrol.com
+  Markets snap 5-day gains: Sensex ends 600 pts lower
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWXdLOWxhemhMNmVsWjdIa0FWd3FpY0p4MmgxVHNtOFF5WkJiOWFBSG1XMG1SZThIR1JXVTN4WTdqOGFGOE04YmozMHAzUW45UVhFUW1tMGpyT1JiTkhzMEMzOVhXUVFkYkk2eTREOTROSXVsRGNGLVNaRnMwT2NTYWZVY3NBVl83NUJJM09pdnhwdGZtdVRyeXJ4ck9SeDI3d1NZbGJzclpfZDR2V1NndUdNTExOTEpHN0pNcmJXYld3SzFueldDV21VRV9EOTVjcHFKRzNodEE0d1pjaWN1bVk3a1drNDNPN2Nj0gHwAUFVX3lxTFBXOFhuZGRqNHBIR3BUTGJsY3B1SW9iYmp4WHpVZmpQVmduZ3ZQblJFdFNEWHVMcGNlSXZMZUQxdGFMcmxzZmFHa3V3RTZGZU1Ha3dLWkloSk8yMGFyMmZ0azMySUFmTkp0Vm5RWmRzQTdxV3lpR2tud19BN21LV3NuT25jY3ZDQlJDcUUyYjZKeWdwOHhRSm1LUDNEVlN1cDJLNEJfdXhlRTV0VkVRM1M2SkRveFBVWkwtTWhuZGg4ZW5saVRIWDh0SUN4TjZZQXdyVU5lYlo4TFozNnpvaEZkY3Vyejc2cVdaSFkzdkxBbg?oc=5
 
-- AGS Health, PGP Glass, 2 others get Sebi nod to float IPOs
-   AGS Health, PGP Glass, Shreni Shares, and SRIT India have received the green light for their upcoming IPOs. Proceeds will fund working capital, debt repayment, and growth initiatives.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ags-health-pgp-glass-2-others-get-sebi-nod-to-float-ipos/articleshow/131859940.cms
+- Beyond Accenture, What Sparked A Rs 1.3 Lakh Crore Stock Market Meltdown - NDTV
+  &nbsp;&ngt;
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEZRQXpJTEszZ1pZemxFYS1hb0JsVnh1YW10TGNEYXRPQzZPSnVrX1Y4QWU1aU1HMjhIckd5b2xlOXIyclh5aTNzU2kzMDJscFJnZXFQcmFkeDhPSkQyWTZkd0k1c0ZCdVRQdEpxQXpMV1NyNnNPQ1lScGVYZmxhOHlRMl9JRFBVMmFuS3BzVFB3SlZMbnRkd0pCOTBWN01NbmtWUlZqZWtJSkNmejZrbER5enFGc3d2eThsemlR0gHGAUFVX3lxTE5xbmhWUzYtWXdkdDFIM0I1NTZJVl8xNU9SVlI4RTJvLWFnT2drbzBlMjYxZEg0Nm5uX3ZEN1RmVV9sSXFISXRBbVpWVExoeHBQZTVpd0toWWdCYkNvdzhJUnRZZi0tMHdfaGdFbEpYM3hxb2s0Q3lJd0xjNDJGbV9HX0ZzaFJSNEZaZGwwT1ZSRldKV3JES00xNFJ5enBzNnRMZFF6bmtXRWNjZjBoQWl5N2ZzazZrVXhzcGRDYWxCdlVyYnlIdw?oc=5
 
-- Sebi board meeting: Open market buyback is back and intraday borrowing for MFs; 5 key decisions investors should know
-  Sebi approved a series of reforms to improve market efficiency and investor protection. Key changes include the return of exchange-based buybacks, intraday borrowing for mutual funds and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-open-market-buyback-is-back-and-intraday-borrowing-for-mfs-5-key-decisions-investors-should-know/articleshow/131859649.cms
+- Traders boost US rate-hike bets on hawkish Fed
+  Traders are now fully anticipating a quarter-point interest rate hike from the Federal Reserve by September. New Fed Chair Kevin Warsh's firm stance against high inflation has bolstered these expectations.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/traders-boost-us-rate-hike-bets-on-hawkish-fed/articleshow/131869433.cms
 
-- Bharat Forge among 6 stocks hitting 52-week highs; surge up to 25% in a month
-  Six stocks within the BSE200 index achieved new 52-week highs on Friday. These outperformers, including GE Vernova T&amp;D India, The Federal Bank, and Polycab India, have demonstrated impressive gains
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-6-stocks-hitting-52-week-highs-surge-up-to-25-in-a-month/slideshow/131859579.cms
+- Leader's Premium: The math behind Jio Platforms' price
+  Jio Platforms' upcoming IPO is priced at a premium, reflecting its market leadership and advanced 4G/5G network. Despite smaller revenues than global giants, Jio commands a higher valuation. The company plans to raise over $
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/leaders-premium-the-math-behind-jio-platforms-price/articleshow/131869405.cms
 
-- Quote of the day by Charlie Munger: "I figure that I want to swim as well as I can against the tides. I’m not trying to predict the tides"
-  Charlie Munger’s philosophy emphasises long-term thinking, strong fundamentals and emotional control. Successful investing is built on preparation rather than prediction.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-charlie-munger-i-figure-that-i-want-to-swim-as-well-as-i-can-against-the-tides-im-not-trying-to-predict-the-tides/articleshow/131847169.cms
+- SBI Funds Management gets Sebi nod for IPO
+  SBI Funds Management, India's largest mutual fund house, has secured SEBI's nod for its upcoming Initial Public Offering. The public issue will be an Offer for Sale, with existing shareholders State Bank of India and Amundi
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-gets-sebi-nod-for-ipo/articleshow/131869380.cms
 
-- Jio IPO filed: 10 crucial things investors must know about Ambani's $3 billion plan
-  Jio Platforms has filed its DRHP with Sebi for a massive IPO. The offering aims to reduce debt, fund growth and unlock value for shareholders.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-filed-10-crucial-things-investors-must-know-about-ambanis-3-billion-plan/articleshow/131859325.cms
+- IT nightmare on loop, Accenture's 20% fall highlights AI disruption
+  The Nifty IT index plunged over 6%, with major players like Infosys and TCS seeing substantial losses. Analysts suggest valuations are now attractive but future growth remains uncertain amid AI advancements.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/it-nightmare-on-loop-accentures-20-fall-highlights-ai-disruption/articleshow/131869366.cms
 
-- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
-  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
+- Sebi reinstates open market buybacks via exchanges
+  Sebi has greenlit buyback flexibility for companies, reintroducing open market options via exchanges. Mutual funds gain relaxed borrowing norms for liquidity, and AIFs will see faster fundraising.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-reinstates-open-market-buybacks-via-exchanges/articleshow/131869308.cms
 
-- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
-  Reliance Jio announces what may be India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
+- Men’s Cricket: India to take on Afghanistan in 3rd and final ODI of series in Chennai this afternoon - Newsonair
+  India to take on Afghanistan in 3rd and final ODI of series in Chennai
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV201N3pzYktWMVI0aEI2WERORnNSZ2hMWXEwU1Z6YVNZMk9PWk1fb1duNkE1Nl93RzZQZnFxU0FDS05VYmQ2YUVLclBnc1VwMWpsYm1VNzUtVWVtV3R2ZFVzY1NoTjFSdnlQaTAza3puTmtlU1dha0pPMWV5bzB6MTBrYmU0S0Q1Q01YZVdEVVZjMGlBN1VOell4eTRDT3ZkQmpLVFBHRTdEOE1hY2hGR01GZXhVZ1Nsaml1M3YxNFVaQQ?oc=5
 
-- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
-  A man in Chhattisgarh, India, is
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
-
-- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
-  India's largest telecom and digital service Jio
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
-
-- India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
-  India says Indus Waters Treaty outdated,
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
-
-- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
-  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
+- Senior Indian bureaucrat Vivek Aggarwal appointed as Vice-President of Financial Action Task Force - Newsonair
+  Senior Indian bureaucrat Vivek Aggarwal appointed as
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE1FalE2YV85N2p4dzZBZy1PS2ZBMURDWkVUbW5fWWppRmdDWk9HX1hoZzhvdk1fSnVVVmg0VzNfNDNWOUFMaGFLWUFyT0d2bDl0c0d6X2ZrNHZGdjVXcHd0ZUtzSG1KZXZsbzdsZktsZ3FVVUp4N0pvc2ZMZFdsSWotNjJJTDRTQWZnUWlrS21hWmhMRWlKdkszQlhnLWx3QlJRQnFWME5hYlJSR2FEMGEwc05paWhQM2RmY1pia2hUUQ?oc=5
 
 - IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
   Reliance Jio announces what may be India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
-  A man in Chhattisgarh, India, is
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
-
 - India's largest telecom and digital service Jio Platforms files for IPO - CNBC
   India's largest telecom and digital service Jio
   🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
 
-- India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
-  India says Indus Waters Treaty outdated,
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
+- At $4 billion, Jio IPO set to be India’s biggest ever - The Times of India
+  At $4 billion, Jio IPO set to be India
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXV6RHM4YVhsbFZpLUJXN2twNU52VDgtckpJcnNYc1ZZeXlsU1dhNjdnODlNVzV1MTJUQlc1TWRoRU1fOHExRFZiYXZtQjVUSG5GVzdMckVzWHJYNkRhRlZnTWdHTzI3M1J5NG5oVDg4NUdOSndLbWt1Rk5FQnBDVkVhMDhINlY1dG9fV0NrVXZyQ2QtT1RkUExmZE1zeTQxdVBFQWdjSTlDUFpEZHg2TS1uanFYY0tESFHSAb8BQVVfeXFMUFZqd1FJLUNoWFZkb2F5NHhDQmRPUVc1S1NHWDJMR19uc0taMUVyS2FFZ1hEekphU2ZGdURMVFhfYXNCZUFjVEZTano1QkctNzZuUFUwNHNla3FUcHU5Y3dCUDZLZnJHTkQwUmkxLXpZN1ZWTXhGMmZIbmt0d3pRTW9wbE5xUFRzWE4tYUZEWUpqZlVEalFjTWc0aFJuY2UwTkpZWmwtMmNjMnQtb1Z1M2FFRk04bkpqbGZtWVRJV0U?oc=5
 
-- Delhi HC upholds Telegram ban in India till June 22 amid NEET re-exam paper leak concerns - The Economic Times
-  Delhi HC upholds Telegram ban in India till June 22 amid NEET re
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaVNYa0VhM0pmS0dSZnJIVXdoR25JSE9veE1Ic0swN2ZCU1dWVG5COUMyWXEweklSTHZRWG9LT2NvdV9HVzM1azdSR0pUd2lnX3ZuS2JlX2VROVVmYXJPU25VdzM5ZERkLXYwdnktUnBiTkRjX21KcXNEYlRHcDVKOFZvRjJRaWJrc3ZCeFZEbXpFaVFxQTZNc1YwZDFPWHFNdGN3LURWSHl0cTh6cmJfWFZBejBYVWs3YnFrNkdSTmZ5emhtZ0V0NlRCdGtuX01IX3hiQk1RZWtvUWJOSW1qVlY1OHNtMWUydjhBSVdYR05vd3Y0c2c?oc=5
+- Men’s Cricket: India to take on Afghanistan in 3rd and final ODI of series in Chennai this afternoon - Newsonair
+  India to take on Afghanistan in 3rd and final ODI of series in Chennai
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV201N3pzYktWMVI0aEI2WERORnNSZ2hMWXEwU1Z6YVNZMk9PWk1fb1duNkE1Nl93RzZQZnFxU0FDS05VYmQ2YUVLclBnc1VwMWpsYm1VNzUtVWVtV3R2ZFVzY1NoTjFSdnlQaTAza3puTmtlU1dha0pPMWV5bzB6MTBrYmU0S0Q1Q01YZVdEVVZjMGlBN1VOell4eTRDT3ZkQmpLVFBHRTdEOE1hY2hGR01GZXhVZ1Nsaml1M3YxNFVaQQ?oc=5
+
+- Senior Indian bureaucrat Vivek Aggarwal appointed as Vice-President of Financial Action Task Force - Newsonair
+  Senior Indian bureaucrat Vivek Aggarwal appointed as
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE1FalE2YV85N2p4dzZBZy1PS2ZBMURDWkVUbW5fWWppRmdDWk9HX1hoZzhvdk1fSnVVVmg0VzNfNDNWOUFMaGFLWUFyT0d2bDl0c0d6X2ZrNHZGdjVXcHd0ZUtzSG1KZXZsbzdsZktsZ3FVVUp4N0pvc2ZMZFdsSWotNjJJTDRTQWZnUWlrS21hWmhMRWlKdkszQlhnLWx3QlJRQnFWME5hYlJSR2FEMGEwc05paWhQM2RmY1pia2hUUQ?oc=5
 
 - IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
   Reliance Jio announces what may be India
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
-- Tied, Beaten, Forced To Drink Urine: Chhattisgarh Man Tortures Wife In Front Of Children - NDTV
-  A man in Chhattisgarh, India, is
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2gwZ1UxY0RGVWl1Ym5Da0lqNHhvcklKYzlRVlQ5eGdaczZyQXJ3QjZEWjM3aXNxd1cxODlxZXlBZklnOEJ6VHpybVhFWktfbmN2d01xMTg4LUlSS0lGUm10UktkWVI2cjhZRjdDZmdCYXpFQXBMYlNqbEJLZ2JYWlM3dW1XLU1zZzdwSU9QS3RCa01hRU9yT1lYX2F1V1BZeElPcjM2bjN1T0VkdG1aaWdERVoxbzN6eWRrSkcwdEVtX2Nq0gHMAUFVX3lxTFAwMi16c0c2SHFIb1ZpbDdqVWdlaklWQTk5QW1pMEtlQmRpVEdWSzFvVEExTWhya0kybDhVV0o1dUpkazA1Z2F3OHhjWmVhWVZZQ1Z4d1R0Tk9KRUFxd0MxdE02UU9XY3A0bVlSMkVaVDM5dFhTRlRMX2NEeUZ1bnd1UHY4cWh0UmdkU1dKaUtfY1lxQk1mcGdwb3VydnBIZ1VjZzNkTEpKQXVJak1qTDM3Ym05WHhqWHJwUFk5MVprbWRMOEY3NTZiRFpFVw?oc=5
+- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
+  India's largest telecom and digital service Jio
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
+
+- At $4 billion, Jio IPO set to be India’s biggest ever - The Times of India
+  At $4 billion, Jio IPO set to be India
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXV6RHM4YVhsbFZpLUJXN2twNU52VDgtckpJcnNYc1ZZeXlsU1dhNjdnODlNVzV1MTJUQlc1TWRoRU1fOHExRFZiYXZtQjVUSG5GVzdMckVzWHJYNkRhRlZnTWdHTzI3M1J5NG5oVDg4NUdOSndLbWt1Rk5FQnBDVkVhMDhINlY1dG9fV0NrVXZyQ2QtT1RkUExmZE1zeTQxdVBFQWdjSTlDUFpEZHg2TS1uanFYY0tESFHSAb8BQVVfeXFMUFZqd1FJLUNoWFZkb2F5NHhDQmRPUVc1S1NHWDJMR19uc0taMUVyS2FFZ1hEekphU2ZGdURMVFhfYXNCZUFjVEZTano1QkctNzZuUFUwNHNla3FUcHU5Y3dCUDZLZnJHTkQwUmkxLXpZN1ZWTXhGMmZIbmt0d3pRTW9wbE5xUFRzWE4tYUZEWUpqZlVEalFjTWc0aFJuY2UwTkpZWmwtMmNjMnQtb1Z1M2FFRk04bkpqbGZtWVRJV0U?oc=5
+
+- Men’s Cricket: India to take on Afghanistan in 3rd and final ODI of series in Chennai this afternoon - Newsonair
+  India to take on Afghanistan in 3rd and final ODI of series in Chennai
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV201N3pzYktWMVI0aEI2WERORnNSZ2hMWXEwU1Z6YVNZMk9PWk1fb1duNkE1Nl93RzZQZnFxU0FDS05VYmQ2YUVLclBnc1VwMWpsYm1VNzUtVWVtV3R2ZFVzY1NoTjFSdnlQaTAza3puTmtlU1dha0pPMWV5bzB6MTBrYmU0S0Q1Q01YZVdEVVZjMGlBN1VOell4eTRDT3ZkQmpLVFBHRTdEOE1hY2hGR01GZXhVZ1Nsaml1M3YxNFVaQQ?oc=5
+
+- Senior Indian bureaucrat Vivek Aggarwal appointed as Vice-President of Financial Action Task Force - Newsonair
+  Senior Indian bureaucrat Vivek Aggarwal appointed as
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE1FalE2YV85N2p4dzZBZy1PS2ZBMURDWkVUbW5fWWppRmdDWk9HX1hoZzhvdk1fSnVVVmg0VzNfNDNWOUFMaGFLWUFyT0d2bDl0c0d6X2ZrNHZGdjVXcHd0ZUtzSG1KZXZsbzdsZktsZ3FVVUp4N0pvc2ZMZFdsSWotNjJJTDRTQWZnUWlrS21hWmhMRWlKdkszQlhnLWx3QlJRQnFWME5hYlJSR2FEMGEwc05paWhQM2RmY1pia2hUUQ?oc=5
+
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
 
 - India's largest telecom and digital service Jio Platforms files for IPO - CNBC
   India's largest telecom and digital service Jio
   🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
 
-- India says Indus Waters Treaty outdated, criticises Pakistan at UNHRC - Newsonair
-  India says Indus Waters Treaty outdated,
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEM5azJOaGtmVTBBcmFzR1o5VXpHcHhxWUo2X3Bnc1RYNm1Ic0E5ZFRtVjhYN0w3cmxxR29KTWtxYktKOERmalA2TERHVDNPX1M4VlFib25hbHQ4QkJTSmpydkJBZXZKN3UyOGRaRTJiTUdoQ2tSWU5Nak51Z1MwUWhfd2MwZlQ5VWZNMTBMUWpSTlhlZUhaMllR?oc=5
+- At $4 billion, Jio IPO set to be India’s biggest ever - The Times of India
+  At $4 billion, Jio IPO set to be India
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXV6RHM4YVhsbFZpLUJXN2twNU52VDgtckpJcnNYc1ZZeXlsU1dhNjdnODlNVzV1MTJUQlc1TWRoRU1fOHExRFZiYXZtQjVUSG5GVzdMckVzWHJYNkRhRlZnTWdHTzI3M1J5NG5oVDg4NUdOSndLbWt1Rk5FQnBDVkVhMDhINlY1dG9fV0NrVXZyQ2QtT1RkUExmZE1zeTQxdVBFQWdjSTlDUFpEZHg2TS1uanFYY0tESFHSAb8BQVVfeXFMUFZqd1FJLUNoWFZkb2F5NHhDQmRPUVc1S1NHWDJMR19uc0taMUVyS2FFZ1hEekphU2ZGdURMVFhfYXNCZUFjVEZTano1QkctNzZuUFUwNHNla3FUcHU5Y3dCUDZLZnJHTkQwUmkxLXpZN1ZWTXhGMmZIbmt0d3pRTW9wbE5xUFRzWE4tYUZEWUpqZlVEalFjTWc0aFJuY2UwTkpZWmwtMmNjMnQtb1Z1M2FFRk04bkpqbGZtWVRJV0U?oc=5
+
+- Men’s Cricket: India to take on Afghanistan in 3rd and final ODI of series in Chennai this afternoon - Newsonair
+  India to take on Afghanistan in 3rd and final ODI of series in Chennai
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV201N3pzYktWMVI0aEI2WERORnNSZ2hMWXEwU1Z6YVNZMk9PWk1fb1duNkE1Nl93RzZQZnFxU0FDS05VYmQ2YUVLclBnc1VwMWpsYm1VNzUtVWVtV3R2ZFVzY1NoTjFSdnlQaTAza3puTmtlU1dha0pPMWV5bzB6MTBrYmU0S0Q1Q01YZVdEVVZjMGlBN1VOell4eTRDT3ZkQmpLVFBHRTdEOE1hY2hGR01GZXhVZ1Nsaml1M3YxNFVaQQ?oc=5
+
+- Senior Indian bureaucrat Vivek Aggarwal appointed as Vice-President of Financial Action Task Force - Newsonair
+  Senior Indian bureaucrat Vivek Aggarwal appointed as
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE1FalE2YV85N2p4dzZBZy1PS2ZBMURDWkVUbW5fWWppRmdDWk9HX1hoZzhvdk1fSnVVVmg0VzNfNDNWOUFMaGFLWUFyT0d2bDl0c0d6X2ZrNHZGdjVXcHd0ZUtzSG1KZXZsbzdsZktsZ3FVVUp4N0pvc2ZMZFdsSWotNjJJTDRTQWZnUWlrS21hWmhMRWlKdkszQlhnLWx3QlJRQnFWME5hYlJSR2FEMGEwc05paWhQM2RmY1pia2hUUQ?oc=5
+
+- IPO: Reliance Jio announces what may be India's biggest-ever share sale - BBC
+  Reliance Jio announces what may be India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUkY4Vjh5Y1piRHVyMGg0cG1fX0lQam5jWWN0OFU4WUI3NGJDbU45T1dFXzFBR3VqV2xlNzdINlFyclhYN0wwb05jOUxsZGJRRkRvOHNfMlhxQQ?oc=5
+
+- India's largest telecom and digital service Jio Platforms files for IPO - CNBC
+  India's largest telecom and digital service Jio
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U09LR0lEYWFJdFJwc2NqSkY4T1BjWGNVUDNuVXk5ajJnaVNPTEdjT25ER2RQaW1ra2Eza3FmV0xsRjdFNVpFMVpqMXQ2dWU2cldYbkNRTTZzZDVkTnFaSkVvdmVkM24tQm53a3JUUmZPeDQ2WUtCcXIxUm5FSW_SAYQBQVVfeXFMTWFpSWotUVdIVUlQUTZra2RwUy1GMENKSUxPMkFLWGRxcEVpeGZCNzMzeERVcW5qN3h1MHluczVraXNyQk5ERkVnclNKaVN3VDJPbHdNUnRyQ0hHU3Rzd09yS0hraTFXdjk2TXJHQmZiajhzR3lfTmJ5ZXV4SGM1bGpQNVBi?oc=5
+
+- At $4 billion, Jio IPO set to be India’s biggest ever - The Times of India
+  At $4 billion, Jio IPO set to be India
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXV6RHM4YVhsbFZpLUJXN2twNU52VDgtckpJcnNYc1ZZeXlsU1dhNjdnODlNVzV1MTJUQlc1TWRoRU1fOHExRFZiYXZtQjVUSG5GVzdMckVzWHJYNkRhRlZnTWdHTzI3M1J5NG5oVDg4NUdOSndLbWt1Rk5FQnBDVkVhMDhINlY1dG9fV0NrVXZyQ2QtT1RkUExmZE1zeTQxdVBFQWdjSTlDUFpEZHg2TS1uanFYY0tESFHSAb8BQVVfeXFMUFZqd1FJLUNoWFZkb2F5NHhDQmRPUVc1S1NHWDJMR19uc0taMUVyS2FFZ1hEekphU2ZGdURMVFhfYXNCZUFjVEZTano1QkctNzZuUFUwNHNla3FUcHU5Y3dCUDZLZnJHTkQwUmkxLXpZN1ZWTXhGMmZIbmt0d3pRTW9wbE5xUFRzWE4tYUZEWUpqZlVEalFjTWc0aFJuY2UwTkpZWmwtMmNjMnQtb1Z1M2FFRk04bkpqbGZtWVRJV0U?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-19 19:45:15 UTC_
+_Last updated: 2026-06-20 02:54:04 UTC_
