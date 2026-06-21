@@ -1,5 +1,17 @@
 # 📰 Daily News Summaries
 
+- Standoff at Uttarakhand gurdwara after Nihang group storms in, occupies rooftop
+  
+  🔗 https://indianexpress.com/article/india/uttarakhand-gurudwara-nihang-group-10750799/
+
+- ‘No locus standi’: India rejects Pakistan President’s statement on Varanasi mosque notice
+  
+  🔗 https://indianexpress.com/article/india/india-reject-pakistan-president-zardari-varanasi-mosque-notice-10750752/
+
+- Over 20 lakh take NEET-UG retest under tight security
+  
+  🔗 https://indianexpress.com/article/india/neet-ug-retest-20-lakh-candidates-security-10750713/
+
 - Railways to upgrade Rajasthan’s Sikar station; Bikaner-Chandigarh train proposal under review
   
   🔗 https://indianexpress.com/article/india/railways-to-upgrade-rajasthans-sikar-station-bikaner-chandigarh-train-proposal-under-review-10750567/
@@ -7,18 +19,6 @@
 - NEET re-exam: Photostat kiosks shut in Rajasthan district, police frisk students in Assam
   
   🔗 https://indianexpress.com/article/india/neet-re-exam-photostat-kiosks-shut-rajasthan-police-frist-students-assam-10750584/
-
-- Indian Railways new penalty rules 2026: Rs 2,000 fine for smoking, hawking and begging on trains
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-new-penalty-rules-2026-rs-2000-fine-for-smoking-hawking-and-begging-on-trains-10750453/
-
-- Indian Railways new rules 2026: Travelling in ladies coach can now cost male passengers Rs 2,500
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-ladies-coach-new-rules-2026-rs-2500-fine-male-passengers-10750333/
-
-- From China to Canada: Here’s how the world celebrated Yoga Day for healthy ageing
-  
-  🔗 https://indianexpress.com/article/india/12th-international-yoga-day-celebrations-world-10750248/
 
 - What are AI agent loops, and could they soon make prompting obsolete?
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-president-trump-says-he-no-longer-views-anthropic-as-national-security-threat-report-10750067/
 
+- CCPA fines Storia Foods, Mrs Bectors  ₹1 lakh each over ‘100%’ claims
+  The CCPA also directs both companies to immediately discontinue the disputed claims
+  🔗 https://www.livemint.com/companies/ccpa-fines-storia-foods-mrs-bectors-rs-1-lakh-each-over-misleading-100-claims-11782040293856.html
+
 - Zypp Electric aims to double its valuation in a $40-50 million pre-IPO round
   Zypp Electric was last valued at
   🔗 https://www.livemint.com/companies/start-ups/zypp-electric-ipo-fundraising-valuation-pre-ipo-funding-ev-as-a-service-11782032496965.html
@@ -56,9 +60,13 @@
   Delhivery Maps was developed to power Delhivery’s own operations. It will now be made available to enterprises, developers
   🔗 https://www.livemint.com/companies/news/why-delhivery-homegrown-maps-matter-for-e-commerce-ai-native-mapping-platform-india-logistics-11782024330846.html
 
-- Beyond Holiday Inn: IHG sees luxury brands, franchises as growth drivers
-  IHG Hotels plans to grow from 52 current hotels to 400 by 2030.
-  🔗 https://www.livemint.com/companies/news/holiday-inn-ihg-hotels-luxury-brands-crowne-plaza-adani-airport-11782014655997.html
+- AI may have fueled Wall Street rally, but Jamie Dimon warns a ‘little tsunami’ is heading for the economy
+  JPMorgan CEO Jamie Dimon expresses caution over US stock market. Despite global challenges, Wall Street remains optimistic.
+  🔗 https://www.livemint.com/market/ai-may-have-fueled-wall-street-rally-but-jamie-dimon-warns-a-little-tsunami-is-heading-for-the-economy-11782057143628.html
+
+- A stock trader’s guide to navigating a rare ‘Super El Niño’
+  Investors are reassessing holdings as climate risks rise with a possible Super El Niño impacting agriculture and energy sectors. The situation poses inflationary risks and challenges
+  🔗 https://www.livemint.com/market/stock-market-news/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nio-11782055616440.html
 
 - US-Iran peace deal: How are falling crude oil prices likely to impact petrol, diesel prices?
   Brent crude prices edged higher on Friday but remained on track for a weekly decline of nearly 8%, as a ceasefire agreement between Israel and Hezbollah
@@ -71,14 +79,6 @@
 - Upcoming IPOs: Waterways Leisure IPO, Advit Jewels IPO among new issues to open next week; check list here
   Among the mainboard offerings lined up for next week are the Waterways Leisure IPO and the Advit Jewels IPO. In the SME segment, five public issues are slated to
   🔗 https://www.livemint.com/market/ipo/upcoming-ipos-waterways-leisure-ipo-advit-jewels-ipo-among-new-issues-to-open-next-week-check-list-here-11782023902343.html
-
-- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran peace deal?
-  The Sensex dropped 607 points, or 0.78%, to settle at 76,802.90. The N
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-peace-deal-11782019950396.html
-
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 22 June 2026
-  The Indian stock ended the week on a negative note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-22-june-2026-11782014267192.html
 
 - Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
   The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
@@ -124,41 +124,89 @@
   Bangladesh PM Rahman picks Malaysia, China for first visit.
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOS1fQ2I2NFRCekFoNWN0ejZpVTBfejFLWklVTWNTejlhOHZSUzFSRVNtbTFyOWV0anF6MlRTSm1qLWhzVUtWMGFBdG5XcUhaSXNULUZvdG84SGp5OTVaYkVhdmpEZjNuNVRwT0pJcm1PZG5aYjZvQnAtX0dCdUxvZ1RnLVlORnVYZ3laNkhUSVBwa1BncEhNNlhWZUs2cmtsajV0NzVCNHlOWC1fX0tjZmNydkQ5QUdhRmx0bmxkdGNzWVN0UnRqR21BWmVGald3ZXfSAdcBQVVfeXFMTWZJb0NQSGdKTHhQZ2JuLXBma3NjZktjc0t2WF9XS0NYSkZoWnlSUjJvbDFpYkY2WmtXdTRVQTNfTzVDUzdoMjdPVFVxLVlYNm1RRm5QSUkwVFVJaTNJRVVSbnUzTVhGbjdaNTBfZkxXMlVVV3JLQ202MUtVQkc3b1pKRHprQklqb3lKWmVNMUtIY29NLU1zVjZ6SWxaNFdHRGdVNzc2clhzX3pDS3hRWDMtbEpXQk1weWh6c1R0YmZCa21jdjZ6MjhDTS1zSklQRWVRV2x5dDg?oc=5
 
-- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
-  India break 22-year-old ODI record in just
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
+- Tushar Mehta Reappointed As Solicitor General For 3 More Years - NDTV
+  Tushar Mehta Reappointed
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2J1dEpkZ1d6QnFjMVVXTnZFd2ZQTVFwZU5mWHc0SERXeTFBM3VkSXJ0RFRub0tpYno0TU9SNnphZVQwNk9ISEhLZ1ZJcWJLc2RqUlg5cnNWQW5xako1cl83bjVYUnd4dnRma09EOC1YNkExNFdWY0RIdy00TVcyQmJ6TGE1SndwdVlndmFrdU1RMVRTa2pJUXJOVmZYRVpvV0MtNGtB0gGuAUFVX3lxTE9IX25XSF9DOENYbENxbnpOMW53SmdKNm1nUWpMbE9Ya2M2N2pnY0xJbzlXcE9jR0VuZTBTV3FNbHRDSU5vSW5hcUpaUHlNZWFyaEhiYmZHdnd6RVpJWm5LbzBkUDN2RkIyNmFUTjlBc0phYkZpcE9nQkNLTE41eWE5N3dCd21oNDNNLVdBaXc0eHBacmRjc1dOWHZYM09pQjhLTFRKeG5zOTdkd0h6Zw?oc=5
 
-- JD Vance Names His 2 "Favourite" Indian, Pakistani People. One Is Asim Munir - NDTV
-  JD Vance Names His 2 "Favourite" Indian
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVY1anFBX3c3cUJxemRNQllDUUU3NGd5TXJJMWtuSmplc0dBSDVFVFdjSjB0UlFOVVlOOVFrRURFdFhfaUNsRG9CdzEtc0NHZUZMOExVLVo4RTZiVDlNN1lGR1RmaEkyV3dGQ3k0aUJoeEFmY3p3Z0RXb1lDamtib09ZX3Z0MUQyTFREdlBHbFJjQVpPazFvTHBZUVg3Zmh5YUNYbHlYRUhwc2JsX0R1M0FhamFvSE11OWxVU3l4OVNPbVpCQlZaSFBYMzItbkNQR3FjZWJR0gHeAUFVX3lxTFB4Q0x3YVRQZXlWUmxhX2ZjWnRub3lQc290Tkk3RDE2NHo5VGFseXVnT0FVd0hGS2xxX3FLSlVlUkVhVkYxQnczWms3UGYtOHRld2F6VzNzb003UnNlZUgxck5GeVhnYTYySGx2aW5LaHROY2NPbXlZSkFhZTNld1g4R3lYQUcwNHVQTDBPQzFSaXplaU1lSUgta2lMT3A0ZTBNQVZVRXh3YWZxMzR1VDB6M21oRm1ucFV3VFJnMWNZb1VrdlU2M3hFcVg4ZUJYWnQwbEx2alR1NDgydngyQQ?oc=5
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- India, EU Likely to Sign Free Trade Agreement by December: Union Minister Piyush Goyal - Newsonair
-  India, EU Likely to Sign Free Trade Agreement by December:
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGt5NTUyb2ZpS3JDMzZTNUNLNUo4ZmVhUUJTWFdNNkJMaVNZMXI5VDEzanZjVFBhVFQ2amg3YkZ6OVBSU0NrZThaMHZUZ3doaDdOOTNZV25nRENLVjhuNDFsdUJZQ1Ffc3JiUVVBV210dUdtaWVqTC1MbVNFc2JqQXU5Rkp5dkZINGV4amFQb1duUGZfR0xOUTc1YjluNnpEUVQ4bDgzRXp3d1pUaEpr?oc=5
+- India A to take on Sri Lanka A in tri-series final in Dambulla this morning - Newsonair
+  India A to take on Sri Lanka A in tri-series final
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFkyako3QWtlekU3aU5YOHRmQ0cyNkVsaEpHOUV4eGpjdDh4T0lTM3pWU0o3eDEyT0t6NWN4VWdKaEp3bWRvbXNQWmVqZktIS0ZrVTVjbVNjYW5aNnhRREJjakpyRHk2VWtVTENDcGd0UC1fY2U2MVdqMUVQWG1mNEVQSFV5azd3M1F0TFR6cXRaYVEzemQxbVhCX212a1Q0aTFz?oc=5
 
-- Over 4,000 Inmates Participate In Mass Yoga Session In Bengaluru Prison - NDTV
-  Over 4,000 Inmates Participate In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZad29rYXVuR0xqMm5oaXV5TVVCZGVqeDZ1czR4RzEyZmJaWVhFTGh3TEk5ckI1ajF3endVeVNzc09UYmc2cVlhRHBtTjZxcTgyWEk1NEZ4cXl5bWYxdnNNZ2h0azRkTHFBSHVlMFhPTWllMm1tZm5JWHNTRU5LRDdOdGlMY19DRDFVRUItTzA3M1ZKS2J5RE5DQnlUV3JtY3d2OTRXQjBMbHB4YmZoS0FR0gG6AUFVX3lxTE9WOU42VEhkejhLZUphY2pvU0REelJDTFBqY0RYWEFhWjRYdTFEaTFlVzROdjlEWnlLQ3psLW5WeXNwZ2kxRlpwRmZsQUwxLXdhZWF5T1hEZDVjWUYzWTljOVg4NGJ1b19DSE5WQk4zN2lWdUlVOTNSUXRqYnJPVTh3THVHMnQ3SXBaOGU1a1htQ2M2RGkta3Jya3NqTzJEY2lPSUNMS1JTbUtrZFhfUGVkbVhMTWdsdFFBQQ?oc=5
+- India Win FIH Hockey Women's Nations Cup Title, Beating Hosts New Zealand 2-0 in the Final - Hockey India
+  India Win FIH Hockey Women's Nations Cup Title, Beating Hosts
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaThGb2FTUk9FWjJCcGVYRlFZelppbWlIeG90ZmM2UFlyaVBiUTlWSkhJeVlvVDFKdGJyVTlEeDlOYkxJb2pFOGp4RlZaN291MnUzQm1Pc2pUT2lQYkdaT0pRXzBZSm9VMnFIdlRhQ0poc3ZOT00wUXNYaGttUWhFbHF0c0FnWGZtRXNmU1Y0WVlJM0pmeHlJSGI0ejNKQ2htSjJBeTF2Yl9BczIwWnlXRk1oZ0hxMjdtM1d5WVBB?oc=5
 
 - Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit | India News - Hindustan Times
   Bangladesh PM Rahman picks Malaysia, China for first visit.
   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOS1fQ2I2NFRCekFoNWN0ejZpVTBfejFLWklVTWNTejlhOHZSUzFSRVNtbTFyOWV0anF6MlRTSm1qLWhzVUtWMGFBdG5XcUhaSXNULUZvdG84SGp5OTVaYkVhdmpEZjNuNVRwT0pJcm1PZG5aYjZvQnAtX0dCdUxvZ1RnLVlORnVYZ3laNkhUSVBwa1BncEhNNlhWZUs2cmtsajV0NzVCNHlOWC1fX0tjZmNydkQ5QUdhRmx0bmxkdGNzWVN0UnRqR21BWmVGald3ZXfSAdcBQVVfeXFMTWZJb0NQSGdKTHhQZ2JuLXBma3NjZktjc0t2WF9XS0NYSkZoWnlSUjJvbDFpYkY2WmtXdTRVQTNfTzVDUzdoMjdPVFVxLVlYNm1RRm5QSUkwVFVJaTNJRVVSbnUzTVhGbjdaNTBfZkxXMlVVV3JLQ202MUtVQkc3b1pKRHprQklqb3lKWmVNMUtIY29NLU1zVjZ6SWxaNFdHRGdVNzc2clhzX3pDS3hRWDMtbEpXQk1weWh6c1R0YmZCa21jdjZ6MjhDTS1zSklQRWVRV2x5dDg?oc=5
 
-- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
-  India break 22-year-old ODI record in just
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
+- Tushar Mehta Reappointed As Solicitor General For 3 More Years - NDTV
+  Tushar Mehta Reappointed
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2J1dEpkZ1d6QnFjMVVXTnZFd2ZQTVFwZU5mWHc0SERXeTFBM3VkSXJ0RFRub0tpYno0TU9SNnphZVQwNk9ISEhLZ1ZJcWJLc2RqUlg5cnNWQW5xako1cl83bjVYUnd4dnRma09EOC1YNkExNFdWY0RIdy00TVcyQmJ6TGE1SndwdVlndmFrdU1RMVRTa2pJUXJOVmZYRVpvV0MtNGtB0gGuAUFVX3lxTE9IX25XSF9DOENYbENxbnpOMW53SmdKNm1nUWpMbE9Ya2M2N2pnY0xJbzlXcE9jR0VuZTBTV3FNbHRDSU5vSW5hcUpaUHlNZWFyaEhiYmZHdnd6RVpJWm5LbzBkUDN2RkIyNmFUTjlBc0phYkZpcE9nQkNLTE41eWE5N3dCd21oNDNNLVdBaXc0eHBacmRjc1dOWHZYM09pQjhLTFRKeG5zOTdkd0h6Zw?oc=5
 
-- JD Vance Names His 2 "Favourite" Indian, Pakistani People. One Is Asim Munir - NDTV
-  JD Vance Names His 2 "Favourite" Indian
-  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVY1anFBX3c3cUJxemRNQllDUUU3NGd5TXJJMWtuSmplc0dBSDVFVFdjSjB0UlFOVVlOOVFrRURFdFhfaUNsRG9CdzEtc0NHZUZMOExVLVo4RTZiVDlNN1lGR1RmaEkyV3dGQ3k0aUJoeEFmY3p3Z0RXb1lDamtib09ZX3Z0MUQyTFREdlBHbFJjQVpPazFvTHBZUVg3Zmh5YUNYbHlYRUhwc2JsX0R1M0FhamFvSE11OWxVU3l4OVNPbVpCQlZaSFBYMzItbkNQR3FjZWJR0gHeAUFVX3lxTFB4Q0x3YVRQZXlWUmxhX2ZjWnRub3lQc290Tkk3RDE2NHo5VGFseXVnT0FVd0hGS2xxX3FLSlVlUkVhVkYxQnczWms3UGYtOHRld2F6VzNzb003UnNlZUgxck5GeVhnYTYySGx2aW5LaHROY2NPbXlZSkFhZTNld1g4R3lYQUcwNHVQTDBPQzFSaXplaU1lSUgta2lMT3A0ZTBNQVZVRXh3YWZxMzR1VDB6M21oRm1ucFV3VFJnMWNZb1VrdlU2M3hFcVg4ZUJYWnQwbEx2alR1NDgydngyQQ?oc=5
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- India, EU Likely to Sign Free Trade Agreement by December: Union Minister Piyush Goyal - Newsonair
-  India, EU Likely to Sign Free Trade Agreement by December:
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGt5NTUyb2ZpS3JDMzZTNUNLNUo4ZmVhUUJTWFdNNkJMaVNZMXI5VDEzanZjVFBhVFQ2amg3YkZ6OVBSU0NrZThaMHZUZ3doaDdOOTNZV25nRENLVjhuNDFsdUJZQ1Ffc3JiUVVBV210dUdtaWVqTC1MbVNFc2JqQXU5Rkp5dkZINGV4amFQb1duUGZfR0xOUTc1YjluNnpEUVQ4bDgzRXp3d1pUaEpr?oc=5
+- India A to take on Sri Lanka A in tri-series final in Dambulla this morning - Newsonair
+  India A to take on Sri Lanka A in tri-series final
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFkyako3QWtlekU3aU5YOHRmQ0cyNkVsaEpHOUV4eGpjdDh4T0lTM3pWU0o3eDEyT0t6NWN4VWdKaEp3bWRvbXNQWmVqZktIS0ZrVTVjbVNjYW5aNnhRREJjakpyRHk2VWtVTENDcGd0UC1fY2U2MVdqMUVQWG1mNEVQSFV5azd3M1F0TFR6cXRaYVEzemQxbVhCX212a1Q0aTFz?oc=5
 
-- Over 4,000 Inmates Participate In Mass Yoga Session In Bengaluru Prison - NDTV
-  Over 4,000 Inmates Participate In
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZad29rYXVuR0xqMm5oaXV5TVVCZGVqeDZ1czR4RzEyZmJaWVhFTGh3TEk5ckI1ajF3endVeVNzc09UYmc2cVlhRHBtTjZxcTgyWEk1NEZ4cXl5bWYxdnNNZ2h0azRkTHFBSHVlMFhPTWllMm1tZm5JWHNTRU5LRDdOdGlMY19DRDFVRUItTzA3M1ZKS2J5RE5DQnlUV3JtY3d2OTRXQjBMbHB4YmZoS0FR0gG6AUFVX3lxTE9WOU42VEhkejhLZUphY2pvU0REelJDTFBqY0RYWEFhWjRYdTFEaTFlVzROdjlEWnlLQ3psLW5WeXNwZ2kxRlpwRmZsQUwxLXdhZWF5T1hEZDVjWUYzWTljOVg4NGJ1b19DSE5WQk4zN2lWdUlVOTNSUXRqYnJPVTh3THVHMnQ3SXBaOGU1a1htQ2M2RGkta3Jya3NqTzJEY2lPSUNMS1JTbUtrZFhfUGVkbVhMTWdsdFFBQQ?oc=5
+- India Win FIH Hockey Women's Nations Cup Title, Beating Hosts New Zealand 2-0 in the Final - Hockey India
+  India Win FIH Hockey Women's Nations Cup Title, Beating Hosts
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaThGb2FTUk9FWjJCcGVYRlFZelppbWlIeG90ZmM2UFlyaVBiUTlWSkhJeVlvVDFKdGJyVTlEeDlOYkxJb2pFOGp4RlZaN291MnUzQm1Pc2pUT2lQYkdaT0pRXzBZSm9VMnFIdlRhQ0poc3ZOT00wUXNYaGttUWhFbHF0c0FnWGZtRXNmU1Y0WVlJM0pmeHlJSGI0ejNKQ2htSjJBeTF2Yl9BczIwWnlXRk1oZ0hxMjdtM1d5WVBB?oc=5
+
+- Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit | India News - Hindustan Times
+  Bangladesh PM Rahman picks Malaysia, China for first visit.
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOS1fQ2I2NFRCekFoNWN0ejZpVTBfejFLWklVTWNTejlhOHZSUzFSRVNtbTFyOWV0anF6MlRTSm1qLWhzVUtWMGFBdG5XcUhaSXNULUZvdG84SGp5OTVaYkVhdmpEZjNuNVRwT0pJcm1PZG5aYjZvQnAtX0dCdUxvZ1RnLVlORnVYZ3laNkhUSVBwa1BncEhNNlhWZUs2cmtsajV0NzVCNHlOWC1fX0tjZmNydkQ5QUdhRmx0bmxkdGNzWVN0UnRqR21BWmVGald3ZXfSAdcBQVVfeXFMTWZJb0NQSGdKTHhQZ2JuLXBma3NjZktjc0t2WF9XS0NYSkZoWnlSUjJvbDFpYkY2WmtXdTRVQTNfTzVDUzdoMjdPVFVxLVlYNm1RRm5QSUkwVFVJaTNJRVVSbnUzTVhGbjdaNTBfZkxXMlVVV3JLQ202MUtVQkc3b1pKRHprQklqb3lKWmVNMUtIY29NLU1zVjZ6SWxaNFdHRGdVNzc2clhzX3pDS3hRWDMtbEpXQk1weWh6c1R0YmZCa21jdjZ6MjhDTS1zSklQRWVRV2x5dDg?oc=5
+
+- Tushar Mehta Reappointed As Solicitor General For 3 More Years - NDTV
+  Tushar Mehta Reappointed
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2J1dEpkZ1d6QnFjMVVXTnZFd2ZQTVFwZU5mWHc0SERXeTFBM3VkSXJ0RFRub0tpYno0TU9SNnphZVQwNk9ISEhLZ1ZJcWJLc2RqUlg5cnNWQW5xako1cl83bjVYUnd4dnRma09EOC1YNkExNFdWY0RIdy00TVcyQmJ6TGE1SndwdVlndmFrdU1RMVRTa2pJUXJOVmZYRVpvV0MtNGtB0gGuAUFVX3lxTE9IX25XSF9DOENYbENxbnpOMW53SmdKNm1nUWpMbE9Ya2M2N2pnY0xJbzlXcE9jR0VuZTBTV3FNbHRDSU5vSW5hcUpaUHlNZWFyaEhiYmZHdnd6RVpJWm5LbzBkUDN2RkIyNmFUTjlBc0phYkZpcE9nQkNLTE41eWE5N3dCd21oNDNNLVdBaXc0eHBacmRjc1dOWHZYM09pQjhLTFRKeG5zOTdkd0h6Zw?oc=5
+
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
+
+- India A to take on Sri Lanka A in tri-series final in Dambulla this morning - Newsonair
+  India A to take on Sri Lanka A in tri-series final
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFkyako3QWtlekU3aU5YOHRmQ0cyNkVsaEpHOUV4eGpjdDh4T0lTM3pWU0o3eDEyT0t6NWN4VWdKaEp3bWRvbXNQWmVqZktIS0ZrVTVjbVNjYW5aNnhRREJjakpyRHk2VWtVTENDcGd0UC1fY2U2MVdqMUVQWG1mNEVQSFV5azd3M1F0TFR6cXRaYVEzemQxbVhCX212a1Q0aTFz?oc=5
+
+- India Win FIH Hockey Women's Nations Cup Title, Beating Hosts New Zealand 2-0 in the Final - Hockey India
+  India Win FIH Hockey Women's Nations Cup Title, Beating Hosts
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQaThGb2FTUk9FWjJCcGVYRlFZelppbWlIeG90ZmM2UFlyaVBiUTlWSkhJeVlvVDFKdGJyVTlEeDlOYkxJb2pFOGp4RlZaN291MnUzQm1Pc2pUT2lQYkdaT0pRXzBZSm9VMnFIdlRhQ0poc3ZOT00wUXNYaGttUWhFbHF0c0FnWGZtRXNmU1Y0WVlJM0pmeHlJSGI0ejNKQ2htSjJBeTF2Yl9BczIwWnlXRk1oZ0hxMjdtM1d5WVBB?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-21 14:00:57 UTC_
+_Last updated: 2026-06-21 19:26:25 UTC_
