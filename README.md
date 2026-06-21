@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- WATCH: PM Modi leads mass yoga event, guides participants through asanas in Kolkata
-  
-  🔗 https://indianexpress.com/article/india/watch-pm-modi-india-international-yoga-day-celebrations-kolkata-red-road-10749910/
+- Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit | India News - Hindustan Times
+  Bangladesh PM Rahman picks Malaysia, China for first visit.
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOS1fQ2I2NFRCekFoNWN0ejZpVTBfejFLWklVTWNTejlhOHZSUzFSRVNtbTFyOWV0anF6MlRTSm1qLWhzVUtWMGFBdG5XcUhaSXNULUZvdG84SGp5OTVaYkVhdmpEZjNuNVRwT0pJcm1PZG5aYjZvQnAtX0dCdUxvZ1RnLVlORnVYZ3laNkhUSVBwa1BncEhNNlhWZUs2cmtsajV0NzVCNHlOWC1fX0tjZmNydkQ5QUdhRmx0bmxkdGNzWVN0UnRqR21BWmVGald3ZXfSAdcBQVVfeXFMTWZJb0NQSGdKTHhQZ2JuLXBma3NjZktjc0t2WF9XS0NYSkZoWnlSUjJvbDFpYkY2WmtXdTRVQTNfTzVDUzdoMjdPVFVxLVlYNm1RRm5QSUkwVFVJaTNJRVVSbnUzTVhGbjdaNTBfZkxXMlVVV3JLQ202MUtVQkc3b1pKRHprQklqb3lKWmVNMUtIY29NLU1zVjZ6SWxaNFdHRGdVNzc2clhzX3pDS3hRWDMtbEpXQk1weWh6c1R0YmZCa21jdjZ6MjhDTS1zSklQRWVRV2x5dDg?oc=5
 
-- Doctors oppose move to let out-of-state medics practise without registration in Chhattisgarh
-  
-  🔗 https://indianexpress.com/article/india/doctors-oppose-move-to-let-out-of-state-medics-practise-without-registration-in-chhattisgarh-10749733/
+- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
+  India break 22-year-old ODI record in just
+  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
 
-- Pacemaker procedures, PMJAY funds, and a top Kashmir cardiologist facing suspension
-  
-  🔗 https://indianexpress.com/article/india/pacemaker-procedures-pmjay-funds-and-a-top-kashmir-cardiologist-facing-suspension-10749722/
+- A $14 Billion Market Takes Off As Retirees Aren't Moving To Hometowns Anymore - NDTV
+  A $14 Billion Market Takes Off As Retirees
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNazV0WGo4OU5RMDZ3eFV0enBFSzdIbWlUWGVwTkNuNTI0SUlJY1RVRFBzTjVaQUt1MUFadXlidmExVG1hcTRSTkJiY1hhMmRUOU9hZ0poNmNkZGNocGo1NkZqbEpkRzJHQ2stWXJkTHFzWEpJMmk4MFhSdmxzQkFqNTN0QS1JSTB5SzY1MFVUUlpKT0NEVEdBWnBrRW5HcDNuYnpZSVoxd052QUZoN2d4cWZiYjh4MktxQUVHZjh3?oc=5
 
-- International Yoga Day 2026 Live Updates: Thousands stretch with PM Modi at Kolkata’s iconic Red Road
-  
-  🔗 https://indianexpress.com/article/india/international-yoga-day-2026-live-updates-narendra-modi-kolkata-theme-10749844/
+- India Gets 3 New Indigenous Warships, Here's Why They Are Special - NDTV
+  India Gets 3 New Indigenous Warships, Here
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkpSRmplYVhCTnl6OGJPeUZ1c0h0YXVzWEx4QUhwUEhwYU5Jcjk0b3VfdENFelhhcm1NeEhvVExMbmtrX2hOTTR5TGpZUWNMbGxGRGd0Z0xoU01oQmxCdDBUTFJBVmEtLUd1QXJzemhmZ2ZtU0tJVUtzdmlXaWFSR0FjSmVMN2FWR3dSVTFTbWN1NTNZeVdpbWtvVEZQM0dfOWllalhYY1RxSTRFa0pkcDlWMjdXZ0FUSnlmNUFJR1Y2bjRYd0tPVFRYbTBzN1JKejhvQmZDTGxEdVBDTmxB?oc=5
 
-- Meitei insurgent group member arrested in Goa
-  
-  🔗 https://indianexpress.com/article/india/meitei-insurgent-group-member-arrested-in-goa-10749792/
+- Video | PM Modi News | India Gets 3 New Warships, PM Modi Commissions Homemade Dunagiri, Sanshodhak, Agray - NDTV
+  PM Modi Commissions Homemade Dunagiri, Sanshodhak, Agray
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXlJRURUa192aVZvSTNwb1BjWTZCTEJXbGh3UnBDOXdkMEFQNUJhZVNoYjJqWkFaOEpNd2FiYk9jem1WZnBwUTM5MlZfTFBtUnJBVFJKM3F5UTNkSG83bHotZm9KenM0YktrRjRqckI5YjNXOGh4czZ5Nm9lWW9Ga09KTm5wcHAwOW9RazFSYVlLR3dRS1o5c2czRkZFeG10VWRfdV9ZeUg0OTY0NW5uN1lWUkx5aks3enRfVUFCUzg4Z0Iza0ww?oc=5
 
-- Could alien technology be hidden in moon dust? New study suggests unusual possibility
-  
-  🔗 https://indianexpress.com/article/technology/science/could-alien-technology-be-hidden-in-moon-dust-new-study-suggests-unusual-possibility-10749545/
+- Can AI crack UPSC? How technology is disrupting India’s coaching industry - The Hindu
+  Can AI crack UPSC? How technology is disrupting
+  🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE82ZjBxcUNLd3Q4bi1nNUZIRlJ0bWRKck81OHRoczJ0ZzZLcW1GLVpZX0xVMC04X1JfZ2FWSFZyRU5xME96eXBEdTh0Q21mdU5qM3BGdzFsa2w1dkhSdmlrZ1hvQ2pEb3lwZUlCbktjdjlGQdIBeEFVX3lxTFBQc09IQ2drWTFXYUh1ZC1PRUwxRjIxRFJ1OGs4ZUFxRFFuRVFoTk5iaXNpMmpXOVd3UHdrSzRHX3hsXzRMSUZUMGd0TU5FWTV2SVVLNEdTZFozY3JadTFTYV95ckltU1YzTkxWSkY2MmdWbGphVzFLLQ?oc=5
 
-- Nasa’s daring mission to save a space telescope from falling back to Earth
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-daring-mission-to-save-a-space-telescope-from-falling-back-to-earth-10749540/
+- To the tablet and beyond: does Toy Story 5 go hard enough on technology? - The Guardian
+  The Guardian asks: Does Toy Story 5 go hard enough on technology
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTAyRU1PLXRLbTg3VnprSXB1UVhjX0d2NHlpcm1YeU9UZVZEN2J1SVE1RGE5QXNiX1ZFNWhsM0wyVUpqNjdzVWtYVjFBeVc3VlJRVEUtSXJIWmZxMmNqUVhQWjNQMzdreW9HbEU0X0NZUVdsRjZMYUkyUzV5S2llQWZWWmdxZEh6S2lWLWpaSll4Q2kxcEhCQVEyVThqZFRMNHc?oc=5
 
-- VLC creator turns attention to robots, raises $5 million for real-time device platform
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/vlc-creator-turns-attention-to-robots-raises-5-million-for-real-time-device-platform-10749378/
+- World Cup 2026: Tunisia vs Japan - Goalline technology denies Japan goal by fractions - BBC
+  World Cup 2026: Tunisia vs Japan - Goalline
+  🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kR2NaOVBjV21SUEpSdThCdEZHZzVkYnNMRU1pbHdMQ0d4d1pTdTJyM0I0XzZDTzN1enFWS2xaRkJSN0xjXzJaYTN6eDNoeWExS0JGd1d5MktPaDgxTkdrY3RkdmM?oc=5
 
-- AI race is a talent race, says expert, as China outpaces US in researchers
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-race-is-a-talent-race-says-expert-as-china-outpaces-us-in-researchers-10749386/
+- Advanced steering technology from China-European cooperation - news.cgtn.com
+  "Advanced steering technology
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQb25zODFKZlJEV2pKc0NjZ0xwU3prQ0V0UVlSQ3paRmpFVzI4UEw4N3hRRmtyV2NlbWV4azBTZHlNbVNhNFhSYzZXRnJvTVFPNDB5S0c5ZzZzV19QSjRpZ1E3VWgyT2VQM0ViTXdMa0NkNHp0d3VNaDBNdDdaY3FIa3otMTVxS2x1TmtHM2dzem50Si1CVHJxTnVObXAwUnNidkg3a3Fpa1Z6dUhMamRYdEhPQWRQaGg3ZGc?oc=5
 
-- WhatsApp tests new animated message bubbles on iPhone
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-tests-new-animated-message-bubbles-on-iphone-10749266/
+- Unlocking AI ROI in the technology industry - EY
+  Unlocking AI ROI
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5YZUhvRDVKMUpNejRJTDYtNEUxUUVQeUtQZkVaZmkxaVQwM1hTSkJQSnhzRmhocTlTYjZheEIxNEY1aVhpNXozZTczVHJmMWZ0bm4zaFlSZGFsbW1HQUR2QkowQi0yYzFuQ0NXOWxEeXRoR2RxRXMw?oc=5
+
+- Mint Explainer| Why Delhivery's homegrown maps matter for e-commerce
+  Delhivery Maps was developed to power Delhivery’s own operations. It will now be made available to enterprises, developers
+  🔗 https://www.livemint.com/companies/news/why-delhivery-homegrown-maps-matter-for-e-commerce-ai-native-mapping-platform-india-logistics-11782024330846.html
+
+- Beyond Holiday Inn: IHG sees luxury brands, franchises as growth drivers
+  IHG Hotels plans to grow from 52 current hotels to 400 by 2030.
+  🔗 https://www.livemint.com/companies/news/holiday-inn-ihg-hotels-luxury-brands-crowne-plaza-adani-airport-11782014655997.html
 
 - Cabin crew error costs Japan Airlines CEO 30% salary cut — But it's not new to Japanese corporates
   Docking a CEO's salary to show accountability for an employee's mistake
@@ -52,33 +60,29 @@
   The 2026 Fortune 500 posted record revenue of $21 trillion and profit of $
   🔗 https://www.livemint.com/companies/news/ai-impact-layoffs-fortune-500-2026-record-profits-job-losses-headcount-decline-amazon-walmart-and-united-health-11781950677985.html
 
-- Nvidia, Micron, Broadcom have cheap valuations despite big gains, and one Google decision could explain why
-  Sevens Report founder Tom Essaye says cheap valuations on AI stocks such as Nvidia,
-  🔗 https://www.livemint.com/companies/news/ai-stock-valuations-warning-sign-data-center-slowdown-sevens-report-openai-chatgpt-claude-chatgpt-xai-google-deepmind-11781948029650.html
+- US-Iran peace deal: How falling crude oil prices likely to impact petrol, diesel prices?
+  Brent crude prices edged higher on Friday but remained on track for a weekly decline of nearly 8%, as a ceasefire agreement between Israel and Hezbollah
+  🔗 https://www.livemint.com/market/stock-market-news/usiran-peace-deal-how-falling-crude-oil-prices-likely-to-impact-petrol-diesel-prices-11782028543360.html
 
-- Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months
-  Nobel laureate John Jumper departs Google DeepMind for Anthropic. Jumper is
-  🔗 https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html
+- Market cap of 9 of top 10 most-valued firms jumps  ₹2.15 lakh crore; Airtel, LIC biggest gainers
+  Among the top-10 firms, Bharti Airtel led the gains
+  🔗 https://www.livemint.com/market/stock-market-news/market-cap-of-9-of-top-10-most-valued-firms-jumps-2-15-lakh-crore-airtel-lic-biggest-gainers-11782029067211.html
 
-- US-Iran peace deal to crude oil prices: Top five triggers that may dictate the Indian stock market this week
-  On Friday, the Sensex fell 607 points, or 0.78%, to close at 76,802.90.
-  🔗 https://www.livemint.com/market/stock-market-news/usiran-peace-deal-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11782008676186.html
+- Upcoming IPOs: Waterways Leisure IPO, Advit Jewels IPO among new issues to open next week; check list here
+  Among the mainboard offerings lined up for next week are the Waterways Leisure IPO and the Advit Jewels IPO. In the SME segment, five public issues are slated to
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-waterways-leisure-ipo-advit-jewels-ipo-among-new-issues-to-open-next-week-check-list-here-11782023902343.html
 
-- Why NSE stands out as a ‘cash generation and distribution machine'? Zerodha's Nithin Kamath explains
-  NSE's high cash generation and dividend payouts highlight a rarity in India’s corporate sector. Here's
-  🔗 https://www.livemint.com/market/why-nse-stands-out-as-a-cash-generation-and-distribution-machine-zerodhas-nithin-kamath-explains-11781957369093.html
+- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran peace deal?
+  The Sensex dropped 607 points, or 0.78%, to settle at 76,802.90. The N
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-peace-deal-11782019950396.html
 
-- Global markets rally after US-Iran MoU, Jefferies warns calm may be temporary
-  US-Iran MoU discussions have emerged at a politically challenging time for US President Donald Trump. Jefferies noted that recent polling data points to
-  🔗 https://www.livemint.com/market/global-markets-rally-after-us-iran-mou-jefferies-warns-calm-may-be-temporary-11781956111439.html
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 22 June 2026
+  The Indian stock ended the week on a negative note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-22-june-2026-11782014267192.html
 
-- Reliance Jio, NSE IPOs set stage for new record! Here are the 5 largest public issues in Indian stock market history
-  India's IPO scene is poised for transformation with Jio Platforms' latest draft prospectus for a $4 billion IPO. Both offerings could redefine the country
-  🔗 https://www.livemint.com/market/ipo/reliance-jio-ipo-nse-ipos-set-stage-for-new-record-here-are-the-5-largest-public-issues-in-indian-stock-market-history-11781948032435.html
-
-- Five power grid stocks riding India’s energy transition
-  India’s renewable energy push is driving unprecedented investment in transmission and grid infrastructure. These five
-  🔗 https://www.livemint.com/market/stock-market-news/five-power-grid-stocks-riding-india-s-energy-transition-11781939266770.html
+- Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
+  The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
+  🔗 https://www.livemint.com/technology/what-the-delhi-high-court-telegram-ruling-means-for-digital-platform-mint-explainer-11782024817547.html
 
 - Mint Explainer| What would it take for India to create a SpaceX?
   SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
@@ -96,129 +100,65 @@
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
   🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
 
-- The Latest: G7 summit focuses on contentious future of AI and US dominance of the industry
-  G7 summit focuses on contentious future of AI and US
-  🔗 https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html
-
 - Trump's Iran deal is getting major blowback from everyone except the markets - Yahoo Finance
   Trump's Iran deal is getting major blowback from everyone
   🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOV0RjV0VucGtTVmpjOXNVby01eUJ5NVFncGpmeWxCRFdOSUNDSURjbGp3d2xwZ3EzZC00dnJQWDVXNHhOUGw3Sl9kMFBkODlDWWdJTVQ2S1lxX1hLSW1ZMTFkTG5DMUw4Q2pNMnNKMU85MTI1NGNuOGFNZWIzbDZONkVmcTZBbW9qLVMwN210NmJONWk3MUR6ekVGMUU1WThEMDhVd2hYQmdYZ253MjVEVTl2Vi1vTHFwNzEtRWxmYTFDQ0pOa3hqLXpfbHc?oc=5
-
-- Markets snap 5-day gains: Sensex ends 600 pts lower, Nifty at 24,013; key factors behind decline - Moneycontrol.com
-  Markets snap 5-day gains: Sensex ends 600 pts lower
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWXdLOWxhemhMNmVsWjdIa0FWd3FpY0p4MmgxVHNtOFF5WkJiOWFBSG1XMG1SZThIR1JXVTN4WTdqOGFGOE04YmozMHAzUW45UVhFUW1tMGpyT1JiTkhzMEMzOVhXUVFkYkk2eTREOTROSXVsRGNGLVNaRnMwT2NTYWZVY3NBVl83NUJJM09pdnhwdGZtdVRyeXJ4ck9SeDI3d1NZbGJzclpfZDR2V1NndUdNTExOTEpHN0pNcmJXYld3SzFueldDV21VRV9EOTVjcHFKRzNodEE0d1pjaWN1bVk3a1drNDNPN2Nj0gHwAUFVX3lxTFBXOFhuZGRqNHBIR3BUTGJsY3B1SW9iYmp4WHpVZmpQVmduZ3ZQblJFdFNEWHVMcGNlSXZMZUQxdGFMcmxzZmFHa3V3RTZGZU1Ha3dLWkloSk8yMGFyMmZ0azMySUFmTkp0Vm5RWmRzQTdxV3lpR2tud19BN21LV3NuT25jY3ZDQlJDcUUyYjZKeWdwOHhRSm1LUDNEVlN1cDJLNEJfdXhlRTV0VkVRM1M2SkRveFBVWkwtTWhuZGg4ZW5saVRIWDh0SUN4TjZZQXdyVU5lYlo4TFozNnpvaEZkY3Vyejc2cVdaSFkzdkxBbg?oc=5
-
-- They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real - WSJ
-  The WSJ reported that the pair were getting rich
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVR5MHA0UHhoMUVyOGZfTFRLaUtpQ1AxTjBpeHBoeS1hTnZwMjB6d3VBQmhuVmsyS3FYVUdPTk0za09VOWE2VnVOdjduN245UXJtemRtalpVNGhCOHFiU0pybkVXWHVmZzBBbHUzRHZaVTB2d1A4SUxGV3RYZ05FV1lBUmRGMzluTmwzQzhkNlN4NWhK?oc=5
 
 - Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal - CNBC
   Global stock markets close lower on Friday as investors assess durability of U
   🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkEtY2s0WjJkdG94ZWEydFdYM1VldE9pUVY3ZzR0V3hhS0thYUxjbTZvNTFZbHFfYmY1YXczRFB1Q1Z0STQwZFFvV0R0MHNHRTZNWXJTVWlmRklWbzFYUEhtejBZXzh1VmE0dlZZLVY4RDFVZ05nMmJHMFZnYWp5dHlwckJJajhJLWNmSVQ1MGhvdmVjR04yX3d1OE9MWkt2NnlYMU9vSkpNbjDSAbABQVVfeXFMUENQTERnY3JCWTdSSExUNHZhUFpWVDR2RXJaX1FGM1NJYWhQOFlVYUludFRqTkhGaFlmN1dRbE1HcHA2MlJiOTRicUwxcV8yQjFWNUc2eXFGYjRLVDIxRFJ4ZzNPbGFya0pyYUlDZlRUNE5hNjRybjZmbnBaY0hFMjc3Nk1DRGUwLVdLYTRMNUZmWEVsQzREaTczX2RETUdLQ3o3cE4ta3M3V29XVFg1cDE?oc=5
 
-- Goldman Sachs trims global smartphone market estimates on high memory costs - Investing.com
-  Goldman Sachs trims global smartphone market estimates
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXItUzJNdlVjQl8teURCdzdmTnFWODNEQUV2bklHUFo4TFZ0SkpIVFJHMTYtTzVpZVBzM1NzZjNQeWthaTBmdVI4QV8yWTBPcktTcGNBMEU3RXJudk5MRldsWWRtT2pQN2o5UjBuZnJtaGZISm9LdEJDY0U1YUREaVJHQ05kWHV1YnlvWFUzZktUTFRIU2QxbTN6bHdZWlhZTDR5LVlOYjR1VDI3OTlNMEo1TFM2VUFJV3pKSWRKUklJVGp0a1ZJLXh4UW8?oc=5
+- The stock market's next leg higher may not come from AI: Chart of the Day - Yahoo Finance
+  The stock market's next leg higher may not come from AI: Chart
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzRXeGMzM3h6RzVJek0yZXg2UTlSZGtlanh2LV91WGdOUEEwcTV1bHBJVlJDME9wZUV5YWRPTkptRDhYaS1iZE9DU1hJVWgzNllNS09WalotaWhOVUJqYktaRGNqMlZLVUNmWVg3eVU2Q00zbnZjUWFFU2Q5SVRyY2ZZVlVFSHZWTHJWRHJoQWNRd1BXY2VFY3l6NGtDSi1zTkVnLUxYUVI0RWVULVl3cGZPdXdCRmV0b0Y1ZlhteWEwb05JckFj?oc=5
 
-- Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates
-  New Federal Reserve Chair Kevin Warsh is significantly reducing the central bank's communication. This move, aimed at making markets less reliant on Fed signals, has already caused market volatility.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/warshs-gamble-a-quieter-federal-reserve-could-mean-volatile-markets-higher-rates/articleshow/131876758.cms
+- Indian Stock Market Prediction: Nifty Analysis & US-Iran Peace Deal Updates - Liquide Blog
+  Indian Stock Market Prediction: Nifty Analysis & US
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE45T1g0UE1GYjgxdllGNk1CQm9QNUVseWtBekxaUUhTdDlUOGpURThEbHlMbXNlelpDVEFEdlZGbHBnV2NvTGZJcHdsRVRHZkxSOWtJWm9ZV3FWVEtjTFdST2RaRVYwLUp5M2xqWEVzUVdmTGRhQ29GRnJ5ZFVwVEk?oc=5
 
-- Dalal Street Week Ahead: Lower volatility signals calm, but resistance looms large
-  Indian markets concluded the week on a strong note, driven by consistent buying interest and a significant drop in volatility. The Nifty index, while trading within a defined range, showed resilience by defending key support levels.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-lower-volatility-signals-calm-but-resistance-looms-large/articleshow/131876598.cms
+- A $14 Billion Market Takes Off As Retirees Aren't Moving To Hometowns Anymore - NDTV
+  A $14 Billion Market Takes Off As Retirees
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNazV0WGo4OU5RMDZ3eFV0enBFSzdIbWlUWGVwTkNuNTI0SUlJY1RVRFBzTjVaQUt1MUFadXlidmExVG1hcTRSTkJiY1hhMmRUOU9hZ0poNmNkZGNocGo1NkZqbEpkRzJHQ2stWXJkTHFzWEpJMmk4MFhSdmxzQkFqNTN0QS1JSTB5SzY1MFVUUlpKT0NEVEdBWnBrRW5HcDNuYnpZSVoxd052QUZoN2d4cWZiYjh4MktxQUVHZjh3?oc=5
 
-- Jio Platforms plans $3 billion debt reduction from IPO proceeds
-  The move aims to slash debt, reduce interest expenses, and bolster the company's financial standing. The deleveraging will empower Jio to pursue strategic growth in areas like 5G, broadband, AI, and cloud services.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-3-billion-debt-reduction-from-ipo-proceeds/articleshow/131875983.cms
+- M-cap of nine of top 10 most valued firms jumps Rs 2.15 lakh cr; Airtel biggest winner
+  Bharti Airtel led the surge, adding over Rs 52,000 crore to its valuation. Reliance Industries retained its position as the most valued company, despite a slight dip in TCS's market cap.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-15-lakh-cr-airtel-biggest-winner/articleshow/131887702.cms
 
-- NSE's Rs 30,000 crore IPO set to spotlight exchange's dominance in Indian markets, dependence on options trading: Zerodha analysis
-  The National Stock Exchange's proposed initial public offering (IPO) is expected to raise nearly Rs 30,000 crore through an offer-for-sale.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nses-rs-30000-crore-ipo-set-to-spotlight-exchanges-dominance-in-indian-markets-dependence-on-options-trading-zerodha-analysis/articleshow/131875878.cms
+- 9 Sensex stocks with up to 40% upside potential. Are these in your portfolio?
+  TCS, Infosys, HIL, Eternal and Reliance Industries show return potential ranging from 20% to 40% amid a more selective market environment. Analyst target prices suggest several Sensex
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/9-sensex-stocks-with-up-to-40-upside-potential-are-these-in-your-portfolio/slideshow/131887481.cms
 
-- Monsoon risk, younger investor base, and skewed trading activity define NSE outlook: NSE data
-  India's 2026 macro outlook will hinge on monsoon performance. Investor base continues to get younger and more geographically dispersed. Trading activity remains heavily concentrated among large investors
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/monsoon-risk-younger-investor-base-and-skewed-trading-activity-define-nse-outlook-nse-data/articleshow/131875798.cms
+- These 9 penny stocks rallied up to 125% in six months. Do you own any?
+  Nine penny stocks have surged between 25% and 125% in the past six months. These micro-cap stocks, with active trading volumes, highlight the potential for significant returns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/these-9-penny-stocks-rallied-up-to-125-in-six-months-do-you-own-any/slideshow/131887201.cms
 
-- ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India | India News - Hindustan Times
-  'Deliberate political attack’: MEA rejects Pakistan President's
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUstY0pYNGNNUTV3SC15anhHcUtOMV95WjZsRlphZHJwVXJmRDRxTE9odnJxX2gtWmd6b1BVSEtWd3hzdW5YY0pja0lLYl95R0FOWmZZUlZkSXVxcGdPMGhfbUJWLS1URms1eWhQUzlXbVVSdXUxemx3dldVa19oNUY5YjBTVjFxb1M1VjJxanhsZHFYOC1vWEV3ZC00TjJUand1VmFHVV9OLWFOMHdyVzBzM2Z1RXBfZnIzeTFLSnFWVVh5UmFjZkhaX0dfSFV4NHpQQThmTXZid0RvQkNVdXotRDBUS0VFUFpOZlNWV1htYmowSXIwbC05VXYwQ2NreFJOT9IBigJBVV95cUxQdFZNZ3lBdkZURWlpU3FJRjJiM1MxUnh5ME12UEtWV1NFV0kxODB3Qy1KTVNEbWtlY0k0YTYzeWcybTNBMkZJaVI3clBGNWlaNDIzaG5vMXZuNjBWSm5lM2tUNVEyT2NOYzdYLXVYSmpiRzBKV1JTendjVTEwdkREbTYtYlpxeEFoUkVmLW9FZk9LSUdTRnJwWHEtLXhjSnN0NHF0N09jVS1nQUthbFNoOFNhV3JTY2o4OVRuUnVZdndra0hVeFJiYlVtMHRXTExzY0pEc0tMWEhPNENSa1ZsMkY0T3NpV3Ztb09WaHdPT0tpLW11bll1MVJMbDZUeEJVdjBpWU9pRlVWdw?oc=5
+- Bringing back open-market buybacks through stock exchanges is the right decision
+  SEBI’s decision to restore open-market buybacks through stock exchanges marks a pragmatic regulatory shift that supports efficient capital allocation. The move recognises evolving market dynamics while maintaining safeguards
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bringing-back-open-market-buybacks-through-stock-exchanges-is-the-right-decision/articleshow/131886907.cms
 
-- India rejects Pakistan President Zardari’s remarks on Kashmir - The Hindu
-  India rejects Pakistan President Zardari
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlWS2ZxY1lSWmtxUmo0X1lYZlpXZU9BZ0JxY3l4ZnBqY29XRzRIVTBUMWtDRXNPa1QtY1NkUHd5emJDdlE5RGhMM3NnUlY0SjRaVXhJVjRZaXU3eTFKdzFhOW12N0FaSXRpRzNNSVE2MEZiNkxZTGVBS0V0aF9IeGlwY01ZR0FtMkkwcjdyVWhaOFM0alFISWVzRnYwa1JlODhCTk1SQjhjdXFXdC1kSXI3amFJV3E3T1dN0gHCAUFVX3lxTFA4X0xPQXdhemprLVRQRkRDX2F6cV9vTjByY1JQVUVESE83VlJfNnotRTVQUmJuWVZ6M2t4ektVYXVvcklsV2g0Nk44S041azFPM1pHVzNjX1EzMi16UWVUMDl4ZDA5NUQ3bWdfVHVqbDQ1bkRQV2RweDNKSDZJalNSalc4VnFici16YlZ2VlZwVnB5eEM1dzNLMWpNNzFuWFlmZ1ZRZDFMSE8wS0RwSnJhSnNHaUR2TXpLcmo5OHd5UG9R?oc=5
+- Father’s Day: The financial legacy children truly inherit
+  Rise of micro-investing and digital platforms allows for consistent, small-scale participation, making wealth creation an everyday habit. This shift, driven by accessibility and automation, teaches children valuable lessons in discipline and long-term planning.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fathers-day-the-financial-legacy-children-truly-inherit/articleshow/131886726.cms
 
-- 'Driven by bigotry and hatred': MEA hits back at Pakistan president, calls comments 'absurd' - The Times of India
-  'Driven by bigotry and hatred': MEA hits back at Pakistan president
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0F0V0JMY1IwRTdoc2hCdEd3RHhuRzNtM1Nrc2tNeDFCNFljR2J5QTVYZVdxc3RoMUVMSkp2Rjk1VG9hQUZoZU5jUFQ2YXZHcEExdDJWRWdXMlpXTnJmUkVlRGN1czgxSU1DQ3ZaM0M4dDE0TUg3WmRHUTNhd3RSZjVrR1VJZFRwWnFWNWpZalBtbjZVRXJwTE96bnZiNEIwWENITVp6WmJOREU3dndHQVlIZXBTRlJEczNhRkdwdXZFVUpKNy0tOUZpSGlaakh5bThaMXJnMHhIUFVIQ2pKUEMwNWZVaDFEeXfSAe8BQVVfeXFMTTBOSGJ0RllYZGI1NGNsWUFLdEhMSXRKYVdISjlnbG90OHd4OGtCT25JMmFsMGs5ZkhwTUZTa0VZNzRjMUYzQjZLLWZGWll6Y0xGb2VFYlVNbC1pNjVtZXktb3BkMHd0UnQ0cXByUm1mcDItekRqNUd6V0xhWmFEUjhRZXVwTkxySWNFSWxtSjFoSTBKZVM3ekVuX05sc1ZZYjNFcWZLWDl5aGFqWTM1YlJ4WV9naVBLRVItNUNZR0Z2ck9RX1dZTnZsbXlnUEVQQm5KWTMwR0RMRzlwYm1iSjZ4TV8tVW8zNWFPUnpmeVU?oc=5
-
-- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
-  India break 22-year-old ODI record in just
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
-
-- 'Be More Energetic At 50 Than You Were At 30': PM's Top Quotes At Yoga Event - NDTV
-  'Be More Energetic At 50 Than You Were At 30':
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSVVxWkZYSEdLelAtblgtTklhRkhRdGp2MEc1UGdsOGtwdlRpbGd1TE9tSzNoOVk3VXVER3FWa1FHU2xqMGJWMFF1WEZVRzYxUEtxeXRUSlVqZG90RzBhYjJDeW5VbTNqU181WUtuY1JWZ2Mzal9pUHU0UTllN1dXYnNIdXhna2ZRZkhfUlhjaGJmQ3JwSzY2d1I4MGF6dGdqMDRXWjd1RWhfQTZhNXdIZ3lvdlBrMkgwcHBBRWRtc0J5ZEdUSUZKNEVXWEhzbEp5M1dNX1BiQjJjRnFYMzNlX05rVXZMTDJlTFNEZ2FYSElmdjJyM1ljbHZjMEl0UdIBhgJBVV95cUxQZW8xaDExU3J1bkNVTVlob3VhbHdVZU1oZjRMOGFRVFU2RXZVNWpxempYTnJGdlJlTWNTS1pPTUd6N29ZOG1tY0dDaXFnYVJqS3NCSnFyYXJUQmJJN0M4VWVYV29NcmhBUk9fcjh2TEk4RG5YUFJCT0VNeTB5c1Ffdk8zVUxPY05pM3N0US1mZGVDUDZ2Q3lMOHNrLXdzTmxVQlNBQUxlMVBrbXRsYmctLUpkOHJiVFZ0MGNOMmJ4eHQwWnFhRC1PV2VsTllHaGJoVndJeGZFWS1ZZW95RXlMSjhQSXBFeDJiUzRkOUIxYWRLdE04VEIxcGJQSkRWcll3eWxTekh3?oc=5
-
-- ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India | India News - Hindustan Times
-  'Deliberate political attack’: MEA rejects Pakistan President's
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUstY0pYNGNNUTV3SC15anhHcUtOMV95WjZsRlphZHJwVXJmRDRxTE9odnJxX2gtWmd6b1BVSEtWd3hzdW5YY0pja0lLYl95R0FOWmZZUlZkSXVxcGdPMGhfbUJWLS1URms1eWhQUzlXbVVSdXUxemx3dldVa19oNUY5YjBTVjFxb1M1VjJxanhsZHFYOC1vWEV3ZC00TjJUand1VmFHVV9OLWFOMHdyVzBzM2Z1RXBfZnIzeTFLSnFWVVh5UmFjZkhaX0dfSFV4NHpQQThmTXZid0RvQkNVdXotRDBUS0VFUFpOZlNWV1htYmowSXIwbC05VXYwQ2NreFJOT9IBigJBVV95cUxQdFZNZ3lBdkZURWlpU3FJRjJiM1MxUnh5ME12UEtWV1NFV0kxODB3Qy1KTVNEbWtlY0k0YTYzeWcybTNBMkZJaVI3clBGNWlaNDIzaG5vMXZuNjBWSm5lM2tUNVEyT2NOYzdYLXVYSmpiRzBKV1JTendjVTEwdkREbTYtYlpxeEFoUkVmLW9FZk9LSUdTRnJwWHEtLXhjSnN0NHF0N09jVS1nQUthbFNoOFNhV3JTY2o4OVRuUnVZdndra0hVeFJiYlVtMHRXTExzY0pEc0tMWEhPNENSa1ZsMkY0T3NpV3Ztb09WaHdPT0tpLW11bll1MVJMbDZUeEJVdjBpWU9pRlVWdw?oc=5
-
-- India rejects Pakistan President Zardari’s remarks on Kashmir - The Hindu
-  India rejects Pakistan President Zardari
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlWS2ZxY1lSWmtxUmo0X1lYZlpXZU9BZ0JxY3l4ZnBqY29XRzRIVTBUMWtDRXNPa1QtY1NkUHd5emJDdlE5RGhMM3NnUlY0SjRaVXhJVjRZaXU3eTFKdzFhOW12N0FaSXRpRzNNSVE2MEZiNkxZTGVBS0V0aF9IeGlwY01ZR0FtMkkwcjdyVWhaOFM0alFISWVzRnYwa1JlODhCTk1SQjhjdXFXdC1kSXI3amFJV3E3T1dN0gHCAUFVX3lxTFA4X0xPQXdhemprLVRQRkRDX2F6cV9vTjByY1JQVUVESE83VlJfNnotRTVQUmJuWVZ6M2t4ektVYXVvcklsV2g0Nk44S041azFPM1pHVzNjX1EzMi16UWVUMDl4ZDA5NUQ3bWdfVHVqbDQ1bkRQV2RweDNKSDZJalNSalc4VnFici16YlZ2VlZwVnB5eEM1dzNLMWpNNzFuWFlmZ1ZRZDFMSE8wS0RwSnJhSnNHaUR2TXpLcmo5OHd5UG9R?oc=5
-
-- 'Driven by bigotry and hatred': MEA hits back at Pakistan president, calls comments 'absurd' - The Times of India
-  'Driven by bigotry and hatred': MEA hits back at Pakistan president
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0F0V0JMY1IwRTdoc2hCdEd3RHhuRzNtM1Nrc2tNeDFCNFljR2J5QTVYZVdxc3RoMUVMSkp2Rjk1VG9hQUZoZU5jUFQ2YXZHcEExdDJWRWdXMlpXTnJmUkVlRGN1czgxSU1DQ3ZaM0M4dDE0TUg3WmRHUTNhd3RSZjVrR1VJZFRwWnFWNWpZalBtbjZVRXJwTE96bnZiNEIwWENITVp6WmJOREU3dndHQVlIZXBTRlJEczNhRkdwdXZFVUpKNy0tOUZpSGlaakh5bThaMXJnMHhIUFVIQ2pKUEMwNWZVaDFEeXfSAe8BQVVfeXFMTTBOSGJ0RllYZGI1NGNsWUFLdEhMSXRKYVdISjlnbG90OHd4OGtCT25JMmFsMGs5ZkhwTUZTa0VZNzRjMUYzQjZLLWZGWll6Y0xGb2VFYlVNbC1pNjVtZXktb3BkMHd0UnQ0cXByUm1mcDItekRqNUd6V0xhWmFEUjhRZXVwTkxySWNFSWxtSjFoSTBKZVM3ekVuX05sc1ZZYjNFcWZLWDl5aGFqWTM1YlJ4WV9naVBLRVItNUNZR0Z2ck9RX1dZTnZsbXlnUEVQQm5KWTMwR0RMRzlwYm1iSjZ4TV8tVW8zNWFPUnpmeVU?oc=5
+- Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit | India News - Hindustan Times
+  Bangladesh PM Rahman picks Malaysia, China for first visit.
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOS1fQ2I2NFRCekFoNWN0ejZpVTBfejFLWklVTWNTejlhOHZSUzFSRVNtbTFyOWV0anF6MlRTSm1qLWhzVUtWMGFBdG5XcUhaSXNULUZvdG84SGp5OTVaYkVhdmpEZjNuNVRwT0pJcm1PZG5aYjZvQnAtX0dCdUxvZ1RnLVlORnVYZ3laNkhUSVBwa1BncEhNNlhWZUs2cmtsajV0NzVCNHlOWC1fX0tjZmNydkQ5QUdhRmx0bmxkdGNzWVN0UnRqR21BWmVGald3ZXfSAdcBQVVfeXFMTWZJb0NQSGdKTHhQZ2JuLXBma3NjZktjc0t2WF9XS0NYSkZoWnlSUjJvbDFpYkY2WmtXdTRVQTNfTzVDUzdoMjdPVFVxLVlYNm1RRm5QSUkwVFVJaTNJRVVSbnUzTVhGbjdaNTBfZkxXMlVVV3JLQ202MUtVQkc3b1pKRHprQklqb3lKWmVNMUtIY29NLU1zVjZ6SWxaNFdHRGdVNzc2clhzX3pDS3hRWDMtbEpXQk1weWh6c1R0YmZCa21jdjZ6MjhDTS1zSklQRWVRV2x5dDg?oc=5
 
 - India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
   India break 22-year-old ODI record in just
   🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
 
-- 'Be More Energetic At 50 Than You Were At 30': PM's Top Quotes At Yoga Event - NDTV
-  'Be More Energetic At 50 Than You Were At 30':
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSVVxWkZYSEdLelAtblgtTklhRkhRdGp2MEc1UGdsOGtwdlRpbGd1TE9tSzNoOVk3VXVER3FWa1FHU2xqMGJWMFF1WEZVRzYxUEtxeXRUSlVqZG90RzBhYjJDeW5VbTNqU181WUtuY1JWZ2Mzal9pUHU0UTllN1dXYnNIdXhna2ZRZkhfUlhjaGJmQ3JwSzY2d1I4MGF6dGdqMDRXWjd1RWhfQTZhNXdIZ3lvdlBrMkgwcHBBRWRtc0J5ZEdUSUZKNEVXWEhzbEp5M1dNX1BiQjJjRnFYMzNlX05rVXZMTDJlTFNEZ2FYSElmdjJyM1ljbHZjMEl0UdIBhgJBVV95cUxQZW8xaDExU3J1bkNVTVlob3VhbHdVZU1oZjRMOGFRVFU2RXZVNWpxempYTnJGdlJlTWNTS1pPTUd6N29ZOG1tY0dDaXFnYVJqS3NCSnFyYXJUQmJJN0M4VWVYV29NcmhBUk9fcjh2TEk4RG5YUFJCT0VNeTB5c1Ffdk8zVUxPY05pM3N0US1mZGVDUDZ2Q3lMOHNrLXdzTmxVQlNBQUxlMVBrbXRsYmctLUpkOHJiVFZ0MGNOMmJ4eHQwWnFhRC1PV2VsTllHaGJoVndJeGZFWS1ZZW95RXlMSjhQSXBFeDJiUzRkOUIxYWRLdE04VEIxcGJQSkRWcll3eWxTekh3?oc=5
+- A $14 Billion Market Takes Off As Retirees Aren't Moving To Hometowns Anymore - NDTV
+  A $14 Billion Market Takes Off As Retirees
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNazV0WGo4OU5RMDZ3eFV0enBFSzdIbWlUWGVwTkNuNTI0SUlJY1RVRFBzTjVaQUt1MUFadXlidmExVG1hcTRSTkJiY1hhMmRUOU9hZ0poNmNkZGNocGo1NkZqbEpkRzJHQ2stWXJkTHFzWEpJMmk4MFhSdmxzQkFqNTN0QS1JSTB5SzY1MFVUUlpKT0NEVEdBWnBrRW5HcDNuYnpZSVoxd052QUZoN2d4cWZiYjh4MktxQUVHZjh3?oc=5
 
-- ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India | India News - Hindustan Times
-  'Deliberate political attack’: MEA rejects Pakistan President's
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUstY0pYNGNNUTV3SC15anhHcUtOMV95WjZsRlphZHJwVXJmRDRxTE9odnJxX2gtWmd6b1BVSEtWd3hzdW5YY0pja0lLYl95R0FOWmZZUlZkSXVxcGdPMGhfbUJWLS1URms1eWhQUzlXbVVSdXUxemx3dldVa19oNUY5YjBTVjFxb1M1VjJxanhsZHFYOC1vWEV3ZC00TjJUand1VmFHVV9OLWFOMHdyVzBzM2Z1RXBfZnIzeTFLSnFWVVh5UmFjZkhaX0dfSFV4NHpQQThmTXZid0RvQkNVdXotRDBUS0VFUFpOZlNWV1htYmowSXIwbC05VXYwQ2NreFJOT9IBigJBVV95cUxQdFZNZ3lBdkZURWlpU3FJRjJiM1MxUnh5ME12UEtWV1NFV0kxODB3Qy1KTVNEbWtlY0k0YTYzeWcybTNBMkZJaVI3clBGNWlaNDIzaG5vMXZuNjBWSm5lM2tUNVEyT2NOYzdYLXVYSmpiRzBKV1JTendjVTEwdkREbTYtYlpxeEFoUkVmLW9FZk9LSUdTRnJwWHEtLXhjSnN0NHF0N09jVS1nQUthbFNoOFNhV3JTY2o4OVRuUnVZdndra0hVeFJiYlVtMHRXTExzY0pEc0tMWEhPNENSa1ZsMkY0T3NpV3Ztb09WaHdPT0tpLW11bll1MVJMbDZUeEJVdjBpWU9pRlVWdw?oc=5
+- India Gets 3 New Indigenous Warships, Here's Why They Are Special - NDTV
+  India Gets 3 New Indigenous Warships, Here
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkpSRmplYVhCTnl6OGJPeUZ1c0h0YXVzWEx4QUhwUEhwYU5Jcjk0b3VfdENFelhhcm1NeEhvVExMbmtrX2hOTTR5TGpZUWNMbGxGRGd0Z0xoU01oQmxCdDBUTFJBVmEtLUd1QXJzemhmZ2ZtU0tJVUtzdmlXaWFSR0FjSmVMN2FWR3dSVTFTbWN1NTNZeVdpbWtvVEZQM0dfOWllalhYY1RxSTRFa0pkcDlWMjdXZ0FUSnlmNUFJR1Y2bjRYd0tPVFRYbTBzN1JKejhvQmZDTGxEdVBDTmxB?oc=5
 
-- India rejects Pakistan President Zardari’s remarks on Kashmir - The Hindu
-  India rejects Pakistan President Zardari
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlWS2ZxY1lSWmtxUmo0X1lYZlpXZU9BZ0JxY3l4ZnBqY29XRzRIVTBUMWtDRXNPa1QtY1NkUHd5emJDdlE5RGhMM3NnUlY0SjRaVXhJVjRZaXU3eTFKdzFhOW12N0FaSXRpRzNNSVE2MEZiNkxZTGVBS0V0aF9IeGlwY01ZR0FtMkkwcjdyVWhaOFM0alFISWVzRnYwa1JlODhCTk1SQjhjdXFXdC1kSXI3amFJV3E3T1dN0gHCAUFVX3lxTFA4X0xPQXdhemprLVRQRkRDX2F6cV9vTjByY1JQVUVESE83VlJfNnotRTVQUmJuWVZ6M2t4ektVYXVvcklsV2g0Nk44S041azFPM1pHVzNjX1EzMi16UWVUMDl4ZDA5NUQ3bWdfVHVqbDQ1bkRQV2RweDNKSDZJalNSalc4VnFici16YlZ2VlZwVnB5eEM1dzNLMWpNNzFuWFlmZ1ZRZDFMSE8wS0RwSnJhSnNHaUR2TXpLcmo5OHd5UG9R?oc=5
-
-- 'Driven by bigotry and hatred': MEA hits back at Pakistan president, calls comments 'absurd' - The Times of India
-  'Driven by bigotry and hatred': MEA hits back at Pakistan president
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0F0V0JMY1IwRTdoc2hCdEd3RHhuRzNtM1Nrc2tNeDFCNFljR2J5QTVYZVdxc3RoMUVMSkp2Rjk1VG9hQUZoZU5jUFQ2YXZHcEExdDJWRWdXMlpXTnJmUkVlRGN1czgxSU1DQ3ZaM0M4dDE0TUg3WmRHUTNhd3RSZjVrR1VJZFRwWnFWNWpZalBtbjZVRXJwTE96bnZiNEIwWENITVp6WmJOREU3dndHQVlIZXBTRlJEczNhRkdwdXZFVUpKNy0tOUZpSGlaakh5bThaMXJnMHhIUFVIQ2pKUEMwNWZVaDFEeXfSAe8BQVVfeXFMTTBOSGJ0RllYZGI1NGNsWUFLdEhMSXRKYVdISjlnbG90OHd4OGtCT25JMmFsMGs5ZkhwTUZTa0VZNzRjMUYzQjZLLWZGWll6Y0xGb2VFYlVNbC1pNjVtZXktb3BkMHd0UnQ0cXByUm1mcDItekRqNUd6V0xhWmFEUjhRZXVwTkxySWNFSWxtSjFoSTBKZVM3ekVuX05sc1ZZYjNFcWZLWDl5aGFqWTM1YlJ4WV9naVBLRVItNUNZR0Z2ck9RX1dZTnZsbXlnUEVQQm5KWTMwR0RMRzlwYm1iSjZ4TV8tVW8zNWFPUnpmeVU?oc=5
-
-- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
-  India break 22-year-old ODI record in just
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
-
-- 'Be More Energetic At 50 Than You Were At 30': PM's Top Quotes At Yoga Event - NDTV
-  'Be More Energetic At 50 Than You Were At 30':
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSVVxWkZYSEdLelAtblgtTklhRkhRdGp2MEc1UGdsOGtwdlRpbGd1TE9tSzNoOVk3VXVER3FWa1FHU2xqMGJWMFF1WEZVRzYxUEtxeXRUSlVqZG90RzBhYjJDeW5VbTNqU181WUtuY1JWZ2Mzal9pUHU0UTllN1dXYnNIdXhna2ZRZkhfUlhjaGJmQ3JwSzY2d1I4MGF6dGdqMDRXWjd1RWhfQTZhNXdIZ3lvdlBrMkgwcHBBRWRtc0J5ZEdUSUZKNEVXWEhzbEp5M1dNX1BiQjJjRnFYMzNlX05rVXZMTDJlTFNEZ2FYSElmdjJyM1ljbHZjMEl0UdIBhgJBVV95cUxQZW8xaDExU3J1bkNVTVlob3VhbHdVZU1oZjRMOGFRVFU2RXZVNWpxempYTnJGdlJlTWNTS1pPTUd6N29ZOG1tY0dDaXFnYVJqS3NCSnFyYXJUQmJJN0M4VWVYV29NcmhBUk9fcjh2TEk4RG5YUFJCT0VNeTB5c1Ffdk8zVUxPY05pM3N0US1mZGVDUDZ2Q3lMOHNrLXdzTmxVQlNBQUxlMVBrbXRsYmctLUpkOHJiVFZ0MGNOMmJ4eHQwWnFhRC1PV2VsTllHaGJoVndJeGZFWS1ZZW95RXlMSjhQSXBFeDJiUzRkOUIxYWRLdE04VEIxcGJQSkRWcll3eWxTekh3?oc=5
-
-- ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India | India News - Hindustan Times
-  'Deliberate political attack’: MEA rejects Pakistan President's
-  🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxNZUstY0pYNGNNUTV3SC15anhHcUtOMV95WjZsRlphZHJwVXJmRDRxTE9odnJxX2gtWmd6b1BVSEtWd3hzdW5YY0pja0lLYl95R0FOWmZZUlZkSXVxcGdPMGhfbUJWLS1URms1eWhQUzlXbVVSdXUxemx3dldVa19oNUY5YjBTVjFxb1M1VjJxanhsZHFYOC1vWEV3ZC00TjJUand1VmFHVV9OLWFOMHdyVzBzM2Z1RXBfZnIzeTFLSnFWVVh5UmFjZkhaX0dfSFV4NHpQQThmTXZid0RvQkNVdXotRDBUS0VFUFpOZlNWV1htYmowSXIwbC05VXYwQ2NreFJOT9IBigJBVV95cUxQdFZNZ3lBdkZURWlpU3FJRjJiM1MxUnh5ME12UEtWV1NFV0kxODB3Qy1KTVNEbWtlY0k0YTYzeWcybTNBMkZJaVI3clBGNWlaNDIzaG5vMXZuNjBWSm5lM2tUNVEyT2NOYzdYLXVYSmpiRzBKV1JTendjVTEwdkREbTYtYlpxeEFoUkVmLW9FZk9LSUdTRnJwWHEtLXhjSnN0NHF0N09jVS1nQUthbFNoOFNhV3JTY2o4OVRuUnVZdndra0hVeFJiYlVtMHRXTExzY0pEc0tMWEhPNENSa1ZsMkY0T3NpV3Ztb09WaHdPT0tpLW11bll1MVJMbDZUeEJVdjBpWU9pRlVWdw?oc=5
-
-- India rejects Pakistan President Zardari’s remarks on Kashmir - The Hindu
-  India rejects Pakistan President Zardari
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUlWS2ZxY1lSWmtxUmo0X1lYZlpXZU9BZ0JxY3l4ZnBqY29XRzRIVTBUMWtDRXNPa1QtY1NkUHd5emJDdlE5RGhMM3NnUlY0SjRaVXhJVjRZaXU3eTFKdzFhOW12N0FaSXRpRzNNSVE2MEZiNkxZTGVBS0V0aF9IeGlwY01ZR0FtMkkwcjdyVWhaOFM0alFISWVzRnYwa1JlODhCTk1SQjhjdXFXdC1kSXI3amFJV3E3T1dN0gHCAUFVX3lxTFA4X0xPQXdhemprLVRQRkRDX2F6cV9vTjByY1JQVUVESE83VlJfNnotRTVQUmJuWVZ6M2t4ektVYXVvcklsV2g0Nk44S041azFPM1pHVzNjX1EzMi16UWVUMDl4ZDA5NUQ3bWdfVHVqbDQ1bkRQV2RweDNKSDZJalNSalc4VnFici16YlZ2VlZwVnB5eEM1dzNLMWpNNzFuWFlmZ1ZRZDFMSE8wS0RwSnJhSnNHaUR2TXpLcmo5OHd5UG9R?oc=5
-
-- 'Driven by bigotry and hatred': MEA hits back at Pakistan president, calls comments 'absurd' - The Times of India
-  'Driven by bigotry and hatred': MEA hits back at Pakistan president
-  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0F0V0JMY1IwRTdoc2hCdEd3RHhuRzNtM1Nrc2tNeDFCNFljR2J5QTVYZVdxc3RoMUVMSkp2Rjk1VG9hQUZoZU5jUFQ2YXZHcEExdDJWRWdXMlpXTnJmUkVlRGN1czgxSU1DQ3ZaM0M4dDE0TUg3WmRHUTNhd3RSZjVrR1VJZFRwWnFWNWpZalBtbjZVRXJwTE96bnZiNEIwWENITVp6WmJOREU3dndHQVlIZXBTRlJEczNhRkdwdXZFVUpKNy0tOUZpSGlaakh5bThaMXJnMHhIUFVIQ2pKUEMwNWZVaDFEeXfSAe8BQVVfeXFMTTBOSGJ0RllYZGI1NGNsWUFLdEhMSXRKYVdISjlnbG90OHd4OGtCT25JMmFsMGs5ZkhwTUZTa0VZNzRjMUYzQjZLLWZGWll6Y0xGb2VFYlVNbC1pNjVtZXktb3BkMHd0UnQ0cXByUm1mcDItekRqNUd6V0xhWmFEUjhRZXVwTkxySWNFSWxtSjFoSTBKZVM3ekVuX05sc1ZZYjNFcWZLWDl5aGFqWTM1YlJ4WV9naVBLRVItNUNZR0Z2ck9RX1dZTnZsbXlnUEVQQm5KWTMwR0RMRzlwYm1iSjZ4TV8tVW8zNWFPUnpmeVU?oc=5
-
-- India break 22-year-old ODI record in just 6 balls against Afghanistan - The Times of India
-  India break 22-year-old ODI record in just
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUEg0SHJ6WjFOV1kwdXJrSFFFN3dTT3E3cWdER0dRNktFUktqcFdqYnNWMTdEbElVZFluZWx5VVU3WlVUSzRDUkN4aXAwRFFKdGdROHh2aF85cEpkM3RuM282RVF3SFpwOXNEU0Fyc1ItU2tTcEU5eXgzcTV2QXJoQXlUMmJuYXViNG44X3VQS1Z3YWRZaDdJdUhTTlBHV0tzakFiRF92OWZPTk5zSEx4VWJHTzBQQjdfczNrYklURWtOeUFxOFc1QXFDSHZzWExDcm9RR2dWS3FjeUJNN3B4UFQ5NFNEOFBRbm5sSFFDbnlWV3U2bUh2OXpFVjLSAYICQVVfeXFMTk1VeVlSalNCYVpabE1OSVB0enk4TDRGQUpsYlY4QXV4VllMSjY1dTR6TmFiN0l1QVBjMWl3V21vZ191dkNiS2Q3RnZsZEhXU2EyZGl1Q1dTZ2dTUVVNS1p5a0g3TjloSWdGckphWEp6d3FHTFZNNEV2bkFzNThvYS1NZ0Frb1B1NmllUjMyM2d6SWVHVE9VUUd6cmNGU1dJYlpyZXY0bzBxbkRwTmNaLW1YUk5qZ2tLSGhRQ1R3bjB0ekM2T3UtRGdteVlWbFg4Uk0wcnVLNjFrT3c1N3Y5eFY2VWdQMnJyN1hzSC1vUmpEcVlucHR4QUVXV1pFS3hib2dR?oc=5
-
-- 'Be More Energetic At 50 Than You Were At 30': PM's Top Quotes At Yoga Event - NDTV
-  'Be More Energetic At 50 Than You Were At 30':
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSVVxWkZYSEdLelAtblgtTklhRkhRdGp2MEc1UGdsOGtwdlRpbGd1TE9tSzNoOVk3VXVER3FWa1FHU2xqMGJWMFF1WEZVRzYxUEtxeXRUSlVqZG90RzBhYjJDeW5VbTNqU181WUtuY1JWZ2Mzal9pUHU0UTllN1dXYnNIdXhna2ZRZkhfUlhjaGJmQ3JwSzY2d1I4MGF6dGdqMDRXWjd1RWhfQTZhNXdIZ3lvdlBrMkgwcHBBRWRtc0J5ZEdUSUZKNEVXWEhzbEp5M1dNX1BiQjJjRnFYMzNlX05rVXZMTDJlTFNEZ2FYSElmdjJyM1ljbHZjMEl0UdIBhgJBVV95cUxQZW8xaDExU3J1bkNVTVlob3VhbHdVZU1oZjRMOGFRVFU2RXZVNWpxempYTnJGdlJlTWNTS1pPTUd6N29ZOG1tY0dDaXFnYVJqS3NCSnFyYXJUQmJJN0M4VWVYV29NcmhBUk9fcjh2TEk4RG5YUFJCT0VNeTB5c1Ffdk8zVUxPY05pM3N0US1mZGVDUDZ2Q3lMOHNrLXdzTmxVQlNBQUxlMVBrbXRsYmctLUpkOHJiVFZ0MGNOMmJ4eHQwWnFhRC1PV2VsTllHaGJoVndJeGZFWS1ZZW95RXlMSjhQSXBFeDJiUzRkOUIxYWRLdE04VEIxcGJQSkRWcll3eWxTekh3?oc=5
+- Video | PM Modi News | India Gets 3 New Warships, PM Modi Commissions Homemade Dunagiri, Sanshodhak, Agray - NDTV
+  PM Modi Commissions Homemade Dunagiri, Sanshodhak, Agray
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXlJRURUa192aVZvSTNwb1BjWTZCTEJXbGh3UnBDOXdkMEFQNUJhZVNoYjJqWkFaOEpNd2FiYk9jem1WZnBwUTM5MlZfTFBtUnJBVFJKM3F5UTNkSG83bHotZm9KenM0YktrRjRqckI5YjNXOGh4czZ5Nm9lWW9Ga09KTm5wcHAwOW9RazFSYVlLR3dRS1o5c2czRkZFeG10VWRfdV9ZeUg0OTY0NW5uN1lWUkx5aks3enRfVUFCUzg4Z0Iza0ww?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-21 03:36:57 UTC_
+_Last updated: 2026-06-21 09:46:07 UTC_
