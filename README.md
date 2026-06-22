@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- AI at Sabarimala: Kerala temple to get drones, predictive systems to manage crowd in pilgrimage season
+- C-section complications compound in Rajasthan, now Jodhpur hospital under scrutiny
   
-  🔗 https://indianexpress.com/article/india/ai-at-sabarimala-kerala-temple-to-get-drones-predictive-systems-to-manage-crowd-in-pilgrimage-season-10750912/
+  🔗 https://indianexpress.com/article/india/rajasthan-c-section-complications-jodhpur-hospital-probe-10751812/
 
-- Monsoon revival likely this week, very heavy rainfall in Northeast
+- CheatGPT? Engineer uses AI to knock out competitors for government job, nabbed
   
-  🔗 https://indianexpress.com/article/india/monsoon-revival-likely-this-week-very-heavy-rainfall-in-northeast-10750992/
+  🔗 https://indianexpress.com/article/india/rpsc-recruitment-hack-ai-rival-candidates-removed-arrested-10751754/
 
-- Western Ghats set to be labelled ‘eco-sensitive’ in at least three states
+- 5 Odisha women among Tamil Nadu seafood unit leak victims; state dispatches team
   
-  🔗 https://indianexpress.com/article/india/government-prepares-to-notify-western-ghats-eco-sensitive-areas-in-at-least-three-states-10750936/
+  🔗 https://indianexpress.com/article/india/tamil-nadu-seafood-unit-leak-odisha-women-victims-10751721/
 
-- At key JDU meeting, leaders say in one voice: ‘Nishant is party’s future’
+- Meghalaya rains trigger landslides, cuts off major tourist destination; Northeast on alert
   
-  🔗 https://indianexpress.com/article/india/at-key-jdu-meeting-leaders-say-in-one-voice-nishant-is-partys-future-10750906/
+  🔗 https://indianexpress.com/article/india/meghalaya-rain-landslides-tourist-destination-northeast-alert-10751660/
 
-- NSDC crackdown continues: Current, ex-staffers get notices for Pradhan Mantri Kaushal Vikas Yojana ‘lapses’
+- Indian Railways hikes penalty: Rs 10,000 fine for carrying prohibited goods on trains
   
-  🔗 https://indianexpress.com/article/india/nsdc-crackdown-continues-current-ex-staffers-get-notices-for-pradhan-mantri-kaushal-vikas-yojana-lapses-10750941/
+  🔗 https://indianexpress.com/article/india/indian-railways-hikes-penalty-rs-10000-fine-for-carrying-prohibited-goods-on-trains-10751590/
 
-- What are AI agent loops, and could they soon make prompting obsolete?
+- Samsung looks to bring One UI 9 to more devices after Galaxy 26 beta rollout
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-are-ai-agent-loops-prompting-obsolete-10750515/
+  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-testing-one-ui-9-more-devices-after-galaxy-26-beta-10751874/
 
-- Snap to spin-off AI video generation team into standalone company ‘Dotmo’: Here’s why
+- Swimming versus running: Which is better for your heart health? New study offers answers
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/snap-spin-off-ai-video-company-dotmo-10750189/
+  🔗 https://indianexpress.com/article/technology/science/swimming-vs-running-heart-health-study-benefits-10751474/
 
-- iPhone Fold and iPhone 18 Pro: The curious case of Apple’s higher retail prices
+- Microsoft to end support for Office 2021 soon: Here’s what it means for users
   
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/iphone-fold-and-iphone-18-pro-the-curious-case-of-apples-higher-retail-prices-10750136/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-to-end-support-office-2021-10751568/
 
-- Tech workers maxed out their AI use. Now they’re trying to minimise it.
+- What is Mivo, a new app looking to curb doomscrolling through no-shame approach?
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/tech-workers-maxed-out-their-ai-use-now-theyre-trying-to-minimise-it-10750073/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-mivo-screen-time-app-doomscrolling-10751512/
 
-- US President Trump says he no longer views Anthropic as national security threat: Report
+- This WhatsApp trick could help you secretly check if someone has blocked you
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/us-president-trump-says-he-no-longer-views-anthropic-as-national-security-threat-report-10750067/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-trick-secretly-check-blocked-you-10751358/
 
-- Indian deep-tech to see funding surge amid sovereign push: Celesta’s Viswanathan
-  US government's move to restrict access to Anthropic’s latest frontier models has sparked debate in India. Sovereign investment avenues have gained prominence over the past 12 months amid rising geopolitical tensions.
-  🔗 https://www.livemint.com/companies/news/indian-deep-tech-to-see-funding-surge-amid-sovereign-push-celesta-s-viswanathan-11782036944376.html
+- Learn the business, and your value as an HR partner grows exponentially: Coromandel's Arun Leslie George
+  Arun Leslie George, President and CHRO of Coromandel International, says learning the business deeply is what makes HR leaders truly effective partners
+  🔗 https://www.livemint.com/companies/news/learn-the-business-and-your-value-as-an-hr-partner-grows-exponentially-coromandels-arun-leslie-george-11782126495915.html
 
-- SBI looks to monetize home loan pools to boost credit as deposits lag
-  India's securitization market is relatively small, of which retail home loans account for an even tinier share. Experts do see the proposal being far from easy to implement.
-  🔗 https://www.livemint.com/companies/news/sbi-home-loan-securitization-chairman-setty-interview-banks-credit-deposit-11782027739813.html
+- Minority shareholders ask Supreme Court to revive Jindal Poly class action lawsuit
+  A group of 29 investors has sought the recall of the Supreme Court's arbitration order. They argue India’s first corporate class action
+  🔗 https://www.livemint.com/companies/news/minority-shareholders-ask-supreme-court-to-revive-jindal-poly-class-action-11782118047264.html
 
-- Tata Agratas inks $530-million EV battery supply pact with JLR
-  The related-party transaction is expected to help Agratas generate
-  🔗 https://www.livemint.com/companies/news/tata-agratas-inks-530-million-ev-battery-supply-pact-with-jlr-11782026301614.html
+- SaffronStays pivots to luxury villas and religious tourism
+  Religious tourism is one of the fastest-growing segments of India's travel
+  🔗 https://www.livemint.com/companies/news/saffronstays-luxury-villas-religious-tourism-11782106706999.html
 
-- CCPA fines Storia Foods, Mrs Bectors  ₹1 lakh each over ‘100%’ claims
-  The CCPA also directs both companies to immediately discontinue the disputed claims
-  🔗 https://www.livemint.com/companies/ccpa-fines-storia-foods-mrs-bectors-rs-1-lakh-each-over-misleading-100-claims-11782040293856.html
+- Zypp Electric gears up for $200 million IPO, appoints bankers
+  Zypp Electric, a Gurugram-based EV logistics startup, is said to be
+  🔗 https://www.livemint.com/companies/zypp-electric-ipo-ev-logistics-electric-vehicles-axis-capital-sbi-capital-markets-dam-capital-pre-ipo-funding-11782104481548.html
 
-- Zypp Electric aims to double its valuation in a $40-50 million pre-IPO round
-  Zypp Electric was last valued at
-  🔗 https://www.livemint.com/companies/start-ups/zypp-electric-ipo-fundraising-valuation-pre-ipo-funding-ev-as-a-service-11782032496965.html
+- Telcos face setback as DoT proposes not to cut backhaul spectrum charges
+  Draft rules did not include commercial satellite internet services in the non-auction spectrum assignment framework. Starlink, OneWeb, Jio Satellite
+  🔗 https://www.livemint.com/companies/news/telcos-dot-backhaul-spectrum-charges-satellite-internet-services-trai-bharti-airtel-vodafone-idea-reliance-jio-11782104055062.html
 
-- Gold, silver prices today: Rates rise on MCX on value buying amid progress in US-Iran peace talks
-  Rates rise on MCX on value buying amid progress in
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-rates-rise-on-mcx-on-value-buying-amid-progress-in-us-iran-peace-talks-11782098987759.html
+- Jio Platforms flags talent retention as a key risk to IPO success
+  Jio Platforms warns that losing skilled personnel in AI,
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-flags-talent-retention-as-a-key-risk-to-ipo-success-11782121197885.html
 
-- Rupee opens 4 paise lower at 94.36 against US dollar
-  Rupee opens 4 pa
-  🔗 https://www.livemint.com/market/stock-market-news/rupee-opens-4-paise-lower-at-94-36-against-us-dollar-11782099201374.html
+- Top Gainers &amp; Losers on June 22: Kirloskar Oil Engines, Delhivery, Gabriel India, Urban Company among top gainers
+  The Nifty 50 rose 0.37% to 24,102, while the Sensex closed at 77,044, up 0.31%. Broader markets and various sector indices also
+  🔗 https://www.livemint.com/market/top-gainers-losers-on-june-22-kirloskar-oil-engines-delhivery-gabriel-india-urban-company-among-top-gainers-11782122353381.html
 
-- Stocks to buy for short term: Trent, Eternal among 3 shares Anand Rathi's Jigar Patel recommends for next 1-2 weeks
-  Anand Rathi's Jigar Patel identifies three stocks, including Trent and Eternal, as prime investments for the next 1
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-trent-eternal-among-3-shares-anand-rathis-jigar-patel-recommends-for-next-1-2-weeks-11782098211099.html
+- Stock market today: Sensex gains 300 points, Nifty 50 ends above 24,100; what moved the stock market today?
+  The Sensex ended 291 points, or 0.38%, higher at 77,094. The Nifty 50 settled at 24,102.90, up 90 points
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-gains-300-points-nifty-50-ends-above-24-100-what-moved-the-stock-market-today-11782121408363.html
 
-- Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Kotak Mahindra Bank shares on 22 June
-  Sensex and Nifty 50 are poised for modest gains amid mixed global signals. The Gift Nifty indicates a positive start, while previous sessions saw declines.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-kotak-mahindra-bank-shares-on-22-june-11782096635630.html
+- Can NSE IPO, Jio Platforms IPO impact liquidity in the Indian stock market?
+  Jio Platforms and the National Stock Exchange (NSE) are set to launch major IPOs, raising billions. Jio's IPO could reach $4 billion,
+  🔗 https://www.livemint.com/market/ipo/can-nse-ipo-jio-platforms-ipo-impact-liquidity-in-the-indian-stock-market-11782118946507.html
 
-- Stocks to watch: Sun Pharma, Nestle India, Bharat Forge among shares in focus today; check list here
-  On Friday, the Sensex fell 607.08 points, or 0.78%, to finish at 76,802
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-sun-pharma-nestle-india-bharat-forge-among-shares-in-focus-today-check-list-here-11782093830752.html
+- Power Mech Projects shares gain 5% as company secures  ₹1,009 crore JSW Thermal Energy contract
+  Power Mech Projects shares rose 5% after securing a  ₹1,008.90 crore order from JSW Thermal Energy. The contract, to be completed in 36 months, enhances the company
+  🔗 https://www.livemint.com/market/stock-market-news/power-mech-projects-shares-gain-5-as-company-secures-rs-1-009-crore-jsw-thermal-energy-contract-11782118220416.html
 
 - Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
   The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
@@ -100,153 +100,145 @@
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
   🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
 
-- Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates - CNBC
-  Stock futures fall as oil prices rise; investors await key reading on
+- Stock futures are little changed as investors weigh Iran deal progress: Live updates - CNBC
+  Stock futures little changed as investors weigh Iran deal progress.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5CelRxTzBHZGRkR2ZkMV96TmFKUTdRZE9lcmRlV0phNmswRWc2YVpYaGhmVm9kUHEyY3FTb01IbDNfdm5FZXFSTVFkZEF4QnU1NGhJQ3FZb2ZOQzhqTkE0VEZTZjZORHdjdmxFSFFlMkxBMkNMU0h30gF8QVVfeXFMUGcyeVpfbmxELVRYS0p0X1hRVUpwOHR2aDFHMktxNWlDeDdWUzRXMU9hR0tPX2xvTjBWZ0ZjMEotOFBPeXE3d3BzUk1QdXItTVFpODRTTHpjYVhrd3B5QXRRRlI2eVptNWtwcjlBdVZ3bXZaV2szYmU1UHNmRw?oc=5
 
-- US Futures Slip, Oil Climbs on Renewed Iran Threat: Markets Wrap - Bloomberg.com
-  US Futures Slip, Oil Climbs on
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3ZMVXh1eVRpWWc0ZWFzRThVengtRlZXUFVPSngtbTJEMEpRVUlBMktMQkhfd18xYWpuV0RMSUtReXlvU25lWVZUMThLYUNLYU1xNGZaS0c5TUVKMnFLQzFlZjI2U2Q5Nk8tR2tlTEZOSElIZnJFRm1aYmdkT2tEaHU1VGxVWmVFaENjdHltWkthbnZTeGhzZXl4eEc4MlNBQkU3UGxfQy1yU3dxRUtYTnRONA?oc=5
+- Stock Market Today: Nasdaq Futures Inch Up After Tense U.S.-Iran Talks — Live Updates - WSJ
+  Stock Market Today: Nasdaq Futures Inch Up After
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZlTUtZNVVBOTdnSG4xZUZiUkFpVHgxMnhaZHNCZTB5RjFoNUt5aFd4b25YSVNqR05qXzkxVVRKc1NZVEZNM1dFeTYwWFRFSV93cUJ0SkFxSUhvVEZocXIxaFNDcFRMamM1NHJhQlFxZ29VcmF2ZGJMZ19WemdvWF9zdnBPbUE?oc=5
 
-- Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher Amid US-Iran Talks in Switzerland - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUxhdFhPZzVuczNUN3Jrd1dvdmZGR1V2eWNtRl9DSjlDeVJCX2tLRy1XcUQzN3dwYlUtNFl1MnVrWGNjckItLXdYN3NWbXJEOUk1NmhwWG9ZdDJackhwNGUySVltR0stRG
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUxhdFhPZzVuczNUN3Jrd1dvdmZGR1V2eWNtRl9DSjlDeVJCX2tLRy1XcUQzN3dwYlUtNFl1MnVrWGNjckItLXdYN3NWbXJEOUk1NmhwWG9ZdDJackhwNGUySVltR0stRG5TYzRuWjFFYzd5OUlZUzZxZDBkOXB4RFl6OUJSNWVuaTltVG9naVU1eXp0ODVPOGhRbVo0WXpJaEY0SVJKNmxtRU1FRzBaZ1o5aDZtakRySHRmbkFWUjNBVlp6R29wWHU3blk4Y0JVQnVQR3JCOERDTkYycnBDNdIB6AFBVV95cUxNa1FhTEZObk9yZDFuRnVjX0p2MTNLT3NCU3RLU05GMnJxR3hxZnFIalBJRDJqcXNUQ0dqRVJ4WTNOQ0E0RVlseFJ6SmVwb0VSOEpvSE52QTh2bElZTWVqMnJZdXl2bkZfOEh5NnFscDhmLUJ6VDBrRWVJd24yT0ZiR3R1UkFSZzJTal9zSWRILTdiVXN4UmVTSDJseVllV21aT0FVX3VnQTdvNmVvV0l3MzRzY1EtbmZESjhTcHdsUWhoYnlQMTFyTFFGdndjVVdCSEs4NC01ZGdva244X1ROczZVTzNlX0hM?oc=5
+- Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus - Yahoo Finance
+  Stock market today: S&amp;P 500, Nasdaq, Dow
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGJEWFNYcGZVc01vZE43a1htczYycklNQTNydkVYWkJLOVoyaFYtcWhBUF94b0RMRTdEeldURVQtZ2ZJXzczVE53MWNOQXlHT3Y2WUhOeG5jRlQ4eHItaUZUcVZLQnlFc3REZzVUb3hwdDF3dm50blBmX0piVTY2Wk9VbWFvNFZHeTQ4blhiVXlaNmdMSlQ1dXRR?oc=5
 
-- What to Expect in Markets This Week: A Post-Fed Inflation Reading and Earnings From a Hot Memory Maker - Investopedia
-  What to Expect in Markets This Week: A Post-Fed Inflation Reading and
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUC04UHJqT1FvbVRjeVMtejFKTHByX3N3cDIyUzkyZDQ3VnpoeFpwbElQSXJyZDRqMnpzWFlUWlRkb1htNW1kanB4VzFRU25GWEp6dGhMd0Z2OHc4SDRIWkxGajY1QXI4OEItam1Oa21hUWxsSGpCYXdlME9sMVkyNXpmU3lOM09CaDlvN2ZxSEk3U1pnN0Zxek4yeTFQT1QtcE5RNXZaMHV6UFo2SThRTENyR1JKRjluZE5XdHVGTGNkMzFzVTdFc0oxdlpzWkp2UWZIWEp4WnVLb00xUWc?oc=5
+- Soaring Profits in Emerging Markets Build Case for a Raging Bull Market - Bloomberg.com
+  Soaring Profits in Emerging Markets Build Case for
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3I3VkZkSUV5Q3BGNWZYOEQ5QVFJcVQ4a2dKYUptODhTck1wTjVJeGxUQ2ZWSUhTeG9sdU1wQm1fdXF5d25LVncxdHpFblBBcEtMZUR6Vll5d2FRM0V5cHZ0RUM4U25IZjJtck5hZG16Tml4dmU3MEpROENmR1cydUI0VGVMXy1qTEpBTjdlUFM5SGpTN25ZMzRTNUpGM1hralpUa01MX2wtVGxmckJHQUd3?oc=5
 
-- The Jio IPO Explained - Finshots
-  The J
-  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ycXk1R1liQm1UdmNpdG5RQll3X251UWNzek1ZbTBZMU43Wi1WTjNGSlZIS28yamJ5NkpCaEVBUDlEbklRbWZTMjM2b3ZTS1pZaDlPM2owT0hpdzNvMno4?oc=5
+- Pound and UK bonds holds steady as prime minister Keir Starmer confirms resignation – business live - The Guardian
+  Pound and UK bonds holds steady as prime minister Keir Starmer confirms
+  🔗 https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTlYxOFlaNDlTNGkyRWU2UzhtczEycDVEMEZCQXJxandWSDk4bGhFU1lXNHpkeGk5bjFFZE5aN2pnQ1Ywai1zQWc5WlVjRWhfOThpNkM5WGlaUC1fTWFlNDN5TmxwcFJGTmZfSTFKcmtUUGJKRmJYT2tqdk91a0FnMk85UkRFWDUzWmFYQlFMUWRTN0RJRkxrajliNFpHdHU3LWRHX2o5ZktvdnlxX29VSEluZTdtOXd3a0lkSE1YS2ZleHNZRWRMb0oyaktFUGNLTGJvMWNHNXUxZ1dzVWlBNkFzbXJ5TjFMb1hnSXV6eHhZTFU2?oc=5
 
-- Tata Motors shares in focus after receiving order for 3,400 electric commercial vehicles
-  Tata Motors announces orders for over 3,400 electric commercial vehicles. The company sees rising adoption of electric mobility in India. The stock has also gained 6% over the past month.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-in-focus-after-receiving-order-for-3400-electric-commercial-vehicles/articleshow/131900513.cms
+- Kirloskar Oil Engines among 5 capital goods stocks hit 52-week highs, rally up to 45% in a month
+  Five capital goods stocks, led by Kirloskar Oil Engines, touched fresh 52-week highs on Monday.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/kirloskar-oil-engines-among-5-capital-goods-stocks-hit-52-week-highs-rally-up-to-45-in-a-month/slideshow/131908000.cms
 
-- ITC among 8 stocks showing bullish RSI upswing
-  Eight stocks in the Nifty200 pack featured in the RSI Trending Up scan on June 19 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/itc-among-8-stocks-showing-bullish-rsi-upswing/slideshow/131900542.cms
-
-- Reliance Industries shares in focus as Jio files DRHP for India’s largest IPO
-  Reliance Industries shares are in focus after Jio Platforms filed its DRHP for what could be India’s largest IPO. The issue will be entirely a fresh offer, with no OFS component.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-jio-files-drhp-for-indias-largest-ipo/articleshow/131900152.cms
-
-- Turtlemint IPO Live Updates: Turtlemint Fintech Solutions IPO enters day 2 of bidding. Check GMP and brokerage views
+- HUL Share Price Live Updates: HUL's Price Movement Today
   
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/turtlemint-ipo-share-price-live-updates-listing-date-expert-review-subscription-status-stock-market-news/liveblog/131900209.cms
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-22-jun-2026/liveblog/131907230.cms
 
-- Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Strait of Hormuz again. What are experts saying?
-  U.S. West Texas Intermediate (WTI) crude futures gained $2.02, or 2.64%, to $78.62 a barrel. Brent crude futures rose 54 cents,
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-22-crude-oil-rises-above-80-as-iran-shuts-strait-of-hormuz-again-what-are-experts-saying/articleshow/131899953.cms
+- Rupee snaps six-session winning streak as firmer dollar pinches
+  The Indian rupee slipped on Monday, snapping its six-day upward trend due to the strengthening dollar worldwide. While falling oil prices eased some apprehensions related to conflicts, the Federal Reserve's assertive monetary policy continues to support the dollar
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-snaps-six-session-winning-streak-as-firmer-dollar-pinches/articleshow/131907132.cms
 
-- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
+- Adani Ent Share Price Live Updates: Adani Enterprises  Market Update
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-22-jun-2026/liveblog/131906897.cms
 
-- Thane Businessman Duped Of Rs 56 Lakh By Self-Styled Healer For Treatment - NDTV
-  Thane Businessman Duped Of Rs 56 L
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWNLU0tKX0N5OVU2aS1VZ0owS0dFLVFXOG14c2Z6VHl3ZzFjNFFjUTg0UXV1emUyRHdpTmg5SmcwNDRCd1hNZk5hMnh5eU5PRnVUdHFlcGR3ZGV0QmUyNFJtR2JYV21KWnNJRU9IU18xNksxZVFndm51RzR5VEM2ZXVaZi12bU5ZWS1aT1FUMmFEY1ZENFdGWGhOQWkzdTYwTTU3R3RoaDIzcjNKMk1BZlJob18wSTU3d2J6eFhoNW5HdGl40gHMAUFVX3lxTFBHeG8zellSUDdtdVowVEhxWUZDRWRyWUpSU0dOS1MzaldsVTFwSnFiUXBGQlBNSE55NWlyemxmZjJrVElReHJsSDNwVVc3a2dsc0RQbDYzLWM2bnU1YlZERjE5UXAxM3Q3UXJIT1lnZXAwMWd0VDRmaE96ZWVzQnp5ZWt2YjM3TDdKRlZoNFNFQkVQR3F5SnlzQW94WTdUYmVrTGhBMkZ4eVVKcTZETXhCN2gzTTRJRG41MU5mYjI5UkNyWnpjNVlhZlM4bQ?oc=5
-
-- Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt - Bloomberg.com
-  Rupee may get further Boost as Indian Banks Line
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEc4S184YVBCUmdkMU03M005c3hhVWJoTDIwV081dS1ITjVsZjNlTDJLODBOTDBJUjREUW92eVYxOEgwWmY4NHMzWG9MOHdvTjNSUnVfY0R2LUU1Vm80Q2xsdjJhcXYwaE9vMnVfOEV0S3huUUVzc3dJaVE0cXhSNzkyX2RzNFdSc0lCbnpaRklhVGJMZHFYdVM2Zm03TVl6b1M5SEN3?oc=5
-
-- India to host BRICS National Security Advisers Meeting on non-traditional security challenges - Newsonair
-  India to host BRICS National Security Advisers Meeting
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1VvVURLdUVieUhSV0NVT2U5UWlwSk5OdXBrYTNPWm1uVnQydE02d1M0QWc5UWt3QU93cXlNWlpJbVBfZktPMzU2UXo1S3NvOEowdTE2YTJaVHZyaGVxRVE5dFNsTlJtMnJKcmF2VmhWUFJOWF9nSXdLb0ZGNXhFUnZ4UGJjRFNRcEE0bVYxLXNNdWEyZnNyN3VrdkNNMnJtZFNUOHgwMHR6aVc3NW1Bb2hSbm5kRjZFY3VN?oc=5
-
-- Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
-  Currency crash and visa crackdowns force Indian students
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
+- Dr Reddys Share Price Live Updates: Dr. Reddys Stock Details
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-22-jun-2026/liveblog/131906896.cms
 
 - India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
   India’s ‘Cock
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- Thane Businessman Duped Of Rs 56 Lakh By Self-Styled Healer For Treatment - NDTV
-  Thane Businessman Duped Of Rs 56 L
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWNLU0tKX0N5OVU2aS1VZ0owS0dFLVFXOG14c2Z6VHl3ZzFjNFFjUTg0UXV1emUyRHdpTmg5SmcwNDRCd1hNZk5hMnh5eU5PRnVUdHFlcGR3ZGV0QmUyNFJtR2JYV21KWnNJRU9IU18xNksxZVFndm51RzR5VEM2ZXVaZi12bU5ZWS1aT1FUMmFEY1ZENFdGWGhOQWkzdTYwTTU3R3RoaDIzcjNKMk1BZlJob18wSTU3d2J6eFhoNW5HdGl40gHMAUFVX3lxTFBHeG8zellSUDdtdVowVEhxWUZDRWRyWUpSU0dOS1MzaldsVTFwSnFiUXBGQlBNSE55NWlyemxmZjJrVElReHJsSDNwVVc3a2dsc0RQbDYzLWM2bnU1YlZERjE5UXAxM3Q3UXJIT1lnZXAwMWd0VDRmaE96ZWVzQnp5ZWt2YjM3TDdKRlZoNFNFQkVQR3F5SnlzQW94WTdUYmVrTGhBMkZ4eVVKcTZETXhCN2gzTTRJRG41MU5mYjI5UkNyWnpjNVlhZlM4bQ?oc=5
-
-- Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt - Bloomberg.com
-  Rupee may get further Boost as Indian Banks Line
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEc4S184YVBCUmdkMU03M005c3hhVWJoTDIwV081dS1ITjVsZjNlTDJLODBOTDBJUjREUW92eVYxOEgwWmY4NHMzWG9MOHdvTjNSUnVfY0R2LUU1Vm80Q2xsdjJhcXYwaE9vMnVfOEV0S3huUUVzc3dJaVE0cXhSNzkyX2RzNFdSc0lCbnpaRklhVGJMZHFYdVM2Zm03TVl6b1M5SEN3?oc=5
-
-- India to host BRICS National Security Advisers Meeting on non-traditional security challenges - Newsonair
-  India to host BRICS National Security Advisers Meeting
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1VvVURLdUVieUhSV0NVT2U5UWlwSk5OdXBrYTNPWm1uVnQydE02d1M0QWc5UWt3QU93cXlNWlpJbVBfZktPMzU2UXo1S3NvOEowdTE2YTJaVHZyaGVxRVE5dFNsTlJtMnJKcmF2VmhWUFJOWF9nSXdLb0ZGNXhFUnZ4UGJjRFNRcEE0bVYxLXNNdWEyZnNyN3VrdkNNMnJtZFNUOHgwMHR6aVc3NW1Bb2hSbm5kRjZFY3VN?oc=5
-
 - Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
   Currency crash and visa crackdowns force Indian students
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
+
+- Massive Fire At Coaching Centre In Lucknow, Students Jump From 1st Floor - NDTV
+  The incident occurred at a coaching centre in Lucknow
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJ1c0xoM2tVQWF2Y2JKbXV1Tm85dzFwNUVUdVlDdmROcEtYVnJPUnpxNmJzTFdxcU1JZERtSzlyYlVHVEoxWXRFRWYzWFNTdFBWUUVCNE5fbFdtdEV2WHd1cWU1YlRzajFGcEVCMU9JdG4wWXF2aDFySHdGckhkNEt5SlFJSWhncVlXd3VsbEx6Tld6Mm02cVdkaU5FWkNzVGpyRjludG1tTE1TMEI2SVFB0gG6AUFVX3lxTE1fMmxyNHdwSi1RZGlQTDhHUldkbDdtRDN1WW1hWmNoeEczZmVuR2JnWThma0VleS0xWWt1RjZCaGpDRWI1OTdKWlpfNWtkZk9oNjI3X0tKcFJESmZqekZIa3c3d1YtQUNtMTBISWthWXMyLXpTTDhaaFlnSnBOVllOMGozV09ZUnBITm9kZzA3eE00VGVmRW9QeHAwQ1lTUDdsdnhoZjdfcl82Z3NpT25wM2xOUGVFR2VYdw?oc=5
+
+- EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say - Reuters
+  India in talks to sell supersonic BrahMos missile
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5
+
+- "Bigotry, Hatred": India Slams Pak Over President Zardari's "Absurd" Remark - NDTV
+  "Bigotry, Hatred"
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pwbktnU3ZJeVlla1I5Z3Zybm0zUVp1dk44Y2RQSFlUMnpZZ3lCNFZsZEt1QUNJMDZWb0RHOWU2S3VlM3ZxajI5NXRMZE5aMnNBSHRlejRFMmdVYlhqZWxQZC1Qb1VSZlpXczFGSW9Vam5hQXdYdjh2YUxmYU50NUhwRUplRkx3S0FJbG5MX3lWTGZRbGU3ZlJQb0RrMFJlZVp2R0RQWlBMR0ZmRks3UHE3S0tqTHZQRVZBctIBxAFBVV95cUxOY2RZdHlJRWl4THlBWmZPTUdmXzNhUGtZdjVIMS1pamo5Q21namZTYW5tUjdaMzZqM1BNaDM4LU82SFpFbjJwbGM2U0RVNEJVVzZ5V3d6Y0Z2Yi1YNW04MlFUMnB0QnlST2FlQmlvbFJjRUFXVVBRZEp2UnRTalJZeTJkMTRXcFFvUlFRTE5qT1V4NVZiUVphYkUtS3RxMXI2QmY2OHREdUxXYmxDbjVXblVrVDZNR0V1NFdSRnNpZkVuNFdE?oc=5
 
 - India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
   India’s ‘Cock
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- Thane Businessman Duped Of Rs 56 Lakh By Self-Styled Healer For Treatment - NDTV
-  Thane Businessman Duped Of Rs 56 L
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWNLU0tKX0N5OVU2aS1VZ0owS0dFLVFXOG14c2Z6VHl3ZzFjNFFjUTg0UXV1emUyRHdpTmg5SmcwNDRCd1hNZk5hMnh5eU5PRnVUdHFlcGR3ZGV0QmUyNFJtR2JYV21KWnNJRU9IU18xNksxZVFndm51RzR5VEM2ZXVaZi12bU5ZWS1aT1FUMmFEY1ZENFdGWGhOQWkzdTYwTTU3R3RoaDIzcjNKMk1BZlJob18wSTU3d2J6eFhoNW5HdGl40gHMAUFVX3lxTFBHeG8zellSUDdtdVowVEhxWUZDRWRyWUpSU0dOS1MzaldsVTFwSnFiUXBGQlBNSE55NWlyemxmZjJrVElReHJsSDNwVVc3a2dsc0RQbDYzLWM2bnU1YlZERjE5UXAxM3Q3UXJIT1lnZXAwMWd0VDRmaE96ZWVzQnp5ZWt2YjM3TDdKRlZoNFNFQkVQR3F5SnlzQW94WTdUYmVrTGhBMkZ4eVVKcTZETXhCN2gzTTRJRG41MU5mYjI5UkNyWnpjNVlhZlM4bQ?oc=5
-
-- Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt - Bloomberg.com
-  Rupee may get further Boost as Indian Banks Line
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEc4S184YVBCUmdkMU03M005c3hhVWJoTDIwV081dS1ITjVsZjNlTDJLODBOTDBJUjREUW92eVYxOEgwWmY4NHMzWG9MOHdvTjNSUnVfY0R2LUU1Vm80Q2xsdjJhcXYwaE9vMnVfOEV0S3huUUVzc3dJaVE0cXhSNzkyX2RzNFdSc0lCbnpaRklhVGJMZHFYdVM2Zm03TVl6b1M5SEN3?oc=5
-
-- India to host BRICS National Security Advisers Meeting on non-traditional security challenges - Newsonair
-  India to host BRICS National Security Advisers Meeting
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1VvVURLdUVieUhSV0NVT2U5UWlwSk5OdXBrYTNPWm1uVnQydE02d1M0QWc5UWt3QU93cXlNWlpJbVBfZktPMzU2UXo1S3NvOEowdTE2YTJaVHZyaGVxRVE5dFNsTlJtMnJKcmF2VmhWUFJOWF9nSXdLb0ZGNXhFUnZ4UGJjRFNRcEE0bVYxLXNNdWEyZnNyN3VrdkNNMnJtZFNUOHgwMHR6aVc3NW1Bb2hSbm5kRjZFY3VN?oc=5
-
 - Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
   Currency crash and visa crackdowns force Indian students
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
+
+- Massive Fire At Coaching Centre In Lucknow, Students Jump From 1st Floor - NDTV
+  The incident occurred at a coaching centre in Lucknow
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJ1c0xoM2tVQWF2Y2JKbXV1Tm85dzFwNUVUdVlDdmROcEtYVnJPUnpxNmJzTFdxcU1JZERtSzlyYlVHVEoxWXRFRWYzWFNTdFBWUUVCNE5fbFdtdEV2WHd1cWU1YlRzajFGcEVCMU9JdG4wWXF2aDFySHdGckhkNEt5SlFJSWhncVlXd3VsbEx6Tld6Mm02cVdkaU5FWkNzVGpyRjludG1tTE1TMEI2SVFB0gG6AUFVX3lxTE1fMmxyNHdwSi1RZGlQTDhHUldkbDdtRDN1WW1hWmNoeEczZmVuR2JnWThma0VleS0xWWt1RjZCaGpDRWI1OTdKWlpfNWtkZk9oNjI3X0tKcFJESmZqekZIa3c3d1YtQUNtMTBISWthWXMyLXpTTDhaaFlnSnBOVllOMGozV09ZUnBITm9kZzA3eE00VGVmRW9QeHAwQ1lTUDdsdnhoZjdfcl82Z3NpT25wM2xOUGVFR2VYdw?oc=5
+
+- EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say - Reuters
+  India in talks to sell supersonic BrahMos missile
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5
+
+- "Bigotry, Hatred": India Slams Pak Over President Zardari's "Absurd" Remark - NDTV
+  "Bigotry, Hatred"
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pwbktnU3ZJeVlla1I5Z3Zybm0zUVp1dk44Y2RQSFlUMnpZZ3lCNFZsZEt1QUNJMDZWb0RHOWU2S3VlM3ZxajI5NXRMZE5aMnNBSHRlejRFMmdVYlhqZWxQZC1Qb1VSZlpXczFGSW9Vam5hQXdYdjh2YUxmYU50NUhwRUplRkx3S0FJbG5MX3lWTGZRbGU3ZlJQb0RrMFJlZVp2R0RQWlBMR0ZmRks3UHE3S0tqTHZQRVZBctIBxAFBVV95cUxOY2RZdHlJRWl4THlBWmZPTUdmXzNhUGtZdjVIMS1pamo5Q21namZTYW5tUjdaMzZqM1BNaDM4LU82SFpFbjJwbGM2U0RVNEJVVzZ5V3d6Y0Z2Yi1YNW04MlFUMnB0QnlST2FlQmlvbFJjRUFXVVBRZEp2UnRTalJZeTJkMTRXcFFvUlFRTE5qT1V4NVZiUVphYkUtS3RxMXI2QmY2OHREdUxXYmxDbjVXblVrVDZNR0V1NFdSRnNpZkVuNFdE?oc=5
 
 - India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
   India’s ‘Cock
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- Thane Businessman Duped Of Rs 56 Lakh By Self-Styled Healer For Treatment - NDTV
-  Thane Businessman Duped Of Rs 56 L
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWNLU0tKX0N5OVU2aS1VZ0owS0dFLVFXOG14c2Z6VHl3ZzFjNFFjUTg0UXV1emUyRHdpTmg5SmcwNDRCd1hNZk5hMnh5eU5PRnVUdHFlcGR3ZGV0QmUyNFJtR2JYV21KWnNJRU9IU18xNksxZVFndm51RzR5VEM2ZXVaZi12bU5ZWS1aT1FUMmFEY1ZENFdGWGhOQWkzdTYwTTU3R3RoaDIzcjNKMk1BZlJob18wSTU3d2J6eFhoNW5HdGl40gHMAUFVX3lxTFBHeG8zellSUDdtdVowVEhxWUZDRWRyWUpSU0dOS1MzaldsVTFwSnFiUXBGQlBNSE55NWlyemxmZjJrVElReHJsSDNwVVc3a2dsc0RQbDYzLWM2bnU1YlZERjE5UXAxM3Q3UXJIT1lnZXAwMWd0VDRmaE96ZWVzQnp5ZWt2YjM3TDdKRlZoNFNFQkVQR3F5SnlzQW94WTdUYmVrTGhBMkZ4eVVKcTZETXhCN2gzTTRJRG41MU5mYjI5UkNyWnpjNVlhZlM4bQ?oc=5
+- Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
+  Currency crash and visa crackdowns force Indian students
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
 
-- Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt - Bloomberg.com
-  Rupee may get further Boost as Indian Banks Line
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEc4S184YVBCUmdkMU03M005c3hhVWJoTDIwV081dS1ITjVsZjNlTDJLODBOTDBJUjREUW92eVYxOEgwWmY4NHMzWG9MOHdvTjNSUnVfY0R2LUU1Vm80Q2xsdjJhcXYwaE9vMnVfOEV0S3huUUVzc3dJaVE0cXhSNzkyX2RzNFdSc0lCbnpaRklhVGJMZHFYdVM2Zm03TVl6b1M5SEN3?oc=5
+- Massive Fire At Coaching Centre In Lucknow, Students Jump From 1st Floor - NDTV
+  The incident occurred at a coaching centre in Lucknow
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJ1c0xoM2tVQWF2Y2JKbXV1Tm85dzFwNUVUdVlDdmROcEtYVnJPUnpxNmJzTFdxcU1JZERtSzlyYlVHVEoxWXRFRWYzWFNTdFBWUUVCNE5fbFdtdEV2WHd1cWU1YlRzajFGcEVCMU9JdG4wWXF2aDFySHdGckhkNEt5SlFJSWhncVlXd3VsbEx6Tld6Mm02cVdkaU5FWkNzVGpyRjludG1tTE1TMEI2SVFB0gG6AUFVX3lxTE1fMmxyNHdwSi1RZGlQTDhHUldkbDdtRDN1WW1hWmNoeEczZmVuR2JnWThma0VleS0xWWt1RjZCaGpDRWI1OTdKWlpfNWtkZk9oNjI3X0tKcFJESmZqekZIa3c3d1YtQUNtMTBISWthWXMyLXpTTDhaaFlnSnBOVllOMGozV09ZUnBITm9kZzA3eE00VGVmRW9QeHAwQ1lTUDdsdnhoZjdfcl82Z3NpT25wM2xOUGVFR2VYdw?oc=5
 
-- India to host BRICS National Security Advisers Meeting on non-traditional security challenges - Newsonair
-  India to host BRICS National Security Advisers Meeting
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1VvVURLdUVieUhSV0NVT2U5UWlwSk5OdXBrYTNPWm1uVnQydE02d1M0QWc5UWt3QU93cXlNWlpJbVBfZktPMzU2UXo1S3NvOEowdTE2YTJaVHZyaGVxRVE5dFNsTlJtMnJKcmF2VmhWUFJOWF9nSXdLb0ZGNXhFUnZ4UGJjRFNRcEE0bVYxLXNNdWEyZnNyN3VrdkNNMnJtZFNUOHgwMHR6aVc3NW1Bb2hSbm5kRjZFY3VN?oc=5
+- EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say - Reuters
+  India in talks to sell supersonic BrahMos missile
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5
+
+- "Bigotry, Hatred": India Slams Pak Over President Zardari's "Absurd" Remark - NDTV
+  "Bigotry, Hatred"
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pwbktnU3ZJeVlla1I5Z3Zybm0zUVp1dk44Y2RQSFlUMnpZZ3lCNFZsZEt1QUNJMDZWb0RHOWU2S3VlM3ZxajI5NXRMZE5aMnNBSHRlejRFMmdVYlhqZWxQZC1Qb1VSZlpXczFGSW9Vam5hQXdYdjh2YUxmYU50NUhwRUplRkx3S0FJbG5MX3lWTGZRbGU3ZlJQb0RrMFJlZVp2R0RQWlBMR0ZmRks3UHE3S0tqTHZQRVZBctIBxAFBVV95cUxOY2RZdHlJRWl4THlBWmZPTUdmXzNhUGtZdjVIMS1pamo5Q21namZTYW5tUjdaMzZqM1BNaDM4LU82SFpFbjJwbGM2U0RVNEJVVzZ5V3d6Y0Z2Yi1YNW04MlFUMnB0QnlST2FlQmlvbFJjRUFXVVBRZEp2UnRTalJZeTJkMTRXcFFvUlFRTE5qT1V4NVZiUVphYkUtS3RxMXI2QmY2OHREdUxXYmxDbjVXblVrVDZNR0V1NFdSRnNpZkVuNFdE?oc=5
+
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
 - Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
   Currency crash and visa crackdowns force Indian students
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Massive Fire At Coaching Centre In Lucknow, Students Jump From 1st Floor - NDTV
+  The incident occurred at a coaching centre in Lucknow
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJ1c0xoM2tVQWF2Y2JKbXV1Tm85dzFwNUVUdVlDdmROcEtYVnJPUnpxNmJzTFdxcU1JZERtSzlyYlVHVEoxWXRFRWYzWFNTdFBWUUVCNE5fbFdtdEV2WHd1cWU1YlRzajFGcEVCMU9JdG4wWXF2aDFySHdGckhkNEt5SlFJSWhncVlXd3VsbEx6Tld6Mm02cVdkaU5FWkNzVGpyRjludG1tTE1TMEI2SVFB0gG6AUFVX3lxTE1fMmxyNHdwSi1RZGlQTDhHUldkbDdtRDN1WW1hWmNoeEczZmVuR2JnWThma0VleS0xWWt1RjZCaGpDRWI1OTdKWlpfNWtkZk9oNjI3X0tKcFJESmZqekZIa3c3d1YtQUNtMTBISWthWXMyLXpTTDhaaFlnSnBOVllOMGozV09ZUnBITm9kZzA3eE00VGVmRW9QeHAwQ1lTUDdsdnhoZjdfcl82Z3NpT25wM2xOUGVFR2VYdw?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say - Reuters
+  India in talks to sell supersonic BrahMos missile
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- "Bigotry, Hatred": India Slams Pak Over President Zardari's "Absurd" Remark - NDTV
+  "Bigotry, Hatred"
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pwbktnU3ZJeVlla1I5Z3Zybm0zUVp1dk44Y2RQSFlUMnpZZ3lCNFZsZEt1QUNJMDZWb0RHOWU2S3VlM3ZxajI5NXRMZE5aMnNBSHRlejRFMmdVYlhqZWxQZC1Qb1VSZlpXczFGSW9Vam5hQXdYdjh2YUxmYU50NUhwRUplRkx3S0FJbG5MX3lWTGZRbGU3ZlJQb0RrMFJlZVp2R0RQWlBMR0ZmRks3UHE3S0tqTHZQRVZBctIBxAFBVV95cUxOY2RZdHlJRWl4THlBWmZPTUdmXzNhUGtZdjVIMS1pamo5Q21namZTYW5tUjdaMzZqM1BNaDM4LU82SFpFbjJwbGM2U0RVNEJVVzZ5V3d6Y0Z2Yi1YNW04MlFUMnB0QnlST2FlQmlvbFJjRUFXVVBRZEp2UnRTalJZeTJkMTRXcFFvUlFRTE5qT1V4NVZiUVphYkUtS3RxMXI2QmY2OHREdUxXYmxDbjVXblVrVDZNR0V1NFdSRnNpZkVuNFdE?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Currency crash and visa crackdowns force Indian students to rethink studying abroad - BBC
+  Currency crash and visa crackdowns force Indian students
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMkpqdTBJbFRSRldkY1JEbW05UDlDSDhFN3ZQa25NRldGMWV5QzZIdmNIcEhNbHRyMF9abTJvbjl6YzNka0oxb2lrZllaMVNvZmZqbW5QRTdiQQ?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Massive Fire At Coaching Centre In Lucknow, Students Jump From 1st Floor - NDTV
+  The incident occurred at a coaching centre in Lucknow
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmJ1c0xoM2tVQWF2Y2JKbXV1Tm85dzFwNUVUdVlDdmROcEtYVnJPUnpxNmJzTFdxcU1JZERtSzlyYlVHVEoxWXRFRWYzWFNTdFBWUUVCNE5fbFdtdEV2WHd1cWU1YlRzajFGcEVCMU9JdG4wWXF2aDFySHdGckhkNEt5SlFJSWhncVlXd3VsbEx6Tld6Mm02cVdkaU5FWkNzVGpyRjludG1tTE1TMEI2SVFB0gG6AUFVX3lxTE1fMmxyNHdwSi1RZGlQTDhHUldkbDdtRDN1WW1hWmNoeEczZmVuR2JnWThma0VleS0xWWt1RjZCaGpDRWI1OTdKWlpfNWtkZk9oNjI3X0tKcFJESmZqekZIa3c3d1YtQUNtMTBISWthWXMyLXpTTDhaaFlnSnBOVllOMGozV09ZUnBITm9kZzA3eE00VGVmRW9QeHAwQ1lTUDdsdnhoZjdfcl82Z3NpT25wM2xOUGVFR2VYdw?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say - Reuters
+  India in talks to sell supersonic BrahMos missile
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5
+
+- "Bigotry, Hatred": India Slams Pak Over President Zardari's "Absurd" Remark - NDTV
+  "Bigotry, Hatred"
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pwbktnU3ZJeVlla1I5Z3Zybm0zUVp1dk44Y2RQSFlUMnpZZ3lCNFZsZEt1QUNJMDZWb0RHOWU2S3VlM3ZxajI5NXRMZE5aMnNBSHRlejRFMmdVYlhqZWxQZC1Qb1VSZlpXczFGSW9Vam5hQXdYdjh2YUxmYU50NUhwRUplRkx3S0FJbG5MX3lWTGZRbGU3ZlJQb0RrMFJlZVp2R0RQWlBMR0ZmRks3UHE3S0tqTHZQRVZBctIBxAFBVV95cUxOY2RZdHlJRWl4THlBWmZPTUdmXzNhUGtZdjVIMS1pamo5Q21namZTYW5tUjdaMzZqM1BNaDM4LU82SFpFbjJwbGM2U0RVNEJVVzZ5V3d6Y0Z2Yi1YNW04MlFUMnB0QnlST2FlQmlvbFJjRUFXVVBRZEp2UnRTalJZeTJkMTRXcFFvUlFRTE5qT1V4NVZiUVphYkUtS3RxMXI2QmY2OHREdUxXYmxDbjVXblVrVDZNR0V1NFdSRnNpZkVuNFdE?oc=5
 
 
-_Last updated: 2026-06-22 03:41:47 UTC_
+_Last updated: 2026-06-22 11:47:02 UTC_
