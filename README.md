@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
+- ED searches at nine premises linked to Bengaluru-based gold exporter over ‘financial irregularities’
+  
+  🔗 https://indianexpress.com/article/india/ed-searches-at-nine-premises-linked-to-bengaluru-based-gold-exporter-over-financial-irregularities-10754234/
+
+- NSA Ajit Doval, Wang Yi discuss ties; imperative to respect each other’s core interests, says China foreign minister
+  
+  🔗 https://indianexpress.com/article/india/brics-nsa-meet-delhi-ajit-doval-wang-yi-india-china-border-10754177/
+
+- Foreign funding rules tightened for NGOs, penalties revised
+  
+  🔗 https://indianexpress.com/article/india/mha-tightens-fcra-ngo-rules-anti-proselytization-clause-penalties-10754039/
+
+- Complete shutdown in Ladakh: ‘Policies being forced upon us,’ say leaders
+  
+  🔗 https://indianexpress.com/article/india/ladakh-shutdown-leh-kargil-protest-mha-meeting-liquor-policy-10754054/
+
 - 3-day standoff at Uttarakhand gurdwara ends with Nihang group leaving rooftop
   
   🔗 https://indianexpress.com/article/india/rudraprayag-nagarasu-gurdwara-standoff-nihang-sikhs-dhami-inquiry-10753889/
 
-- Centre’s panel recommends in-principle forest diversion nod for Kirthai-II project
+- Meta launches AI smart glasses from $299, Kylie Jenner edition unveiled
   
-  🔗 https://indianexpress.com/article/india/kirthai-ii-hydroelectric-project-forest-clearance-chenab-jammu-kashmir-10753727/
-
-- Vijay makes a splash on Assembly debut: Mimics Stalin, puts DMK on notice
-  
-  🔗 https://indianexpress.com/article/india/tamil-nadu-cm-vijay-assembly-speech-stalin-dmk-walkout-10753668/
-
-- Land bought by MP CM’s family: Congress demands Mohan Yadav’s resignation, independent probe
-  
-  🔗 https://indianexpress.com/article/india/mp-cm-mohan-yadav-ujjain-land-purchase-controversy-express-investigation-10753488/
-
-- After drone, missile purchases, Army moves to upgrade air defence training
-  
-  🔗 https://indianexpress.com/article/india/indian-army-drone-swarm-missile-target-systems-air-defence-training-10753503/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-launches-ai-smart-glasses-from-299-kylie-jenner-edition-unveiled-10754011/
 
 - Why scientists are sending hundreds of Texas grape seeds to the ISS
   
@@ -36,49 +40,49 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-fugu-sakana-ai-agents-export-controls-10753629/
 
-- Instagram expands TV app to Samsung TVs, tests longer-form and live content formats
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/instagram-expands-tv-app-to-samsung-tvs-10753575/
+- Zuckerberg bets on Meta entering prediction markets with a new app to challenge Polymarket, Kalshi: Report
+  Mark Zuckerberg has directed an internal team to build a standalone prediction markets app. The app would initially use a points system, with real money betting not ruled out for later.
+  🔗 https://www.livemint.com/companies/news/zuckerberg-bets-on-meta-entering-prediction-markets-with-a-new-app-to-challenge-polymarket-kalshi-11782233438931.html
 
-- Aditya Birla Capital raises  ₹4,000 crore from promoters, IFC via preferential share allotment
-  Aditya Birla Capital raised  ₹4,000 crore
-  🔗 https://www.livemint.com/companies/aditya-birla-capital-raises-4-000-crore-from-promoters-ifc-via-preferential-share-allotment-11782219637113.html
+- Shareholders quiz Infosys on AI hit as stock nears six-year low
+  Shares of India's second largest information technology service provider fell 3.4% on Tuesday, approaching a six
+  🔗 https://www.livemint.com/companies/shareholders-agm-infosys-management-ai-share-price-revenue-11782224905486.html
 
-- SpaceX lost nearly $1 tn since its peak, but Elon Musk retained his trillionaire status - A breakdown of his net worth
-  Elon Musk's net worth decreased too as SpaceX shares declined over 30% from their initial surge post-listing.
-  🔗 https://www.livemint.com/companies/people/spacex-lost-nearly-1-tn-since-its-peak-but-elon-musk-retained-his-trillionaire-status-a-breakdown-of-his-net-worth-11782218052895.html
+- Rashi Peripherals acquires 67% stake in VDA Infosolutions for  ₹368.5 crore
+  Rashi Peripherals is set to acquire a 67% stake initially. The balance 33%
+  🔗 https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html
 
-- Akasa shrugs off industry caution, looks to up capacity 30% in FY27
-  The airline said its losses in FY26 were lower than the previous year.
-  🔗 https://www.livemint.com/companies/news/akasa-passenger-capacity-aviation-growth-earnings-air-india-indigo-11782212158191.html
+- Honasa to acquire 58% stake in nutraceutical company Fluence Pharma
+  Honasa, which sells brands like Mamaearth and Aqualogica, will acquire the stake in two
+  🔗 https://www.livemint.com/companies/news/honasa-consumer-share-price-fluence-pharma-neutraceutical-market-india-11782221576105.html
 
-- Tata Motors targets bigger slice of PV and CV markets
-  Passenger vehicle business aims for a 20% share by FY31. Commercial vehicle
-  🔗 https://www.livemint.com/companies/news/tata-motors-jaguar-land-rover-passenger-vehicles-commercial-vehicles-ev-cng-market-share-investor-presentation-11782212895026.html
+- Trent chair Noel Tata set to retire, leaving behind retail powerhouse
+  Tata has been associated with Trent since 1998. He took over as managing director in 1999 and led the company for over 11 years.
+  🔗 https://www.livemint.com/companies/news/noel-tata-bids-farewell-as-chairman-of-trent-11782221790258.html
 
-- Nvidia says gaming PC cooling tech in their newest AI servers will fix water crisis - Here's how
-  N Nvidia's latest AI servers ditch water-hungry cooling fans in favour of a closed-loop liquid system. The company says a single data centre could save over $4 million a
-  🔗 https://www.livemint.com/companies/news/nvidia-says-it-can-fix-ai-data-centre-linked-water-crisis-with-the-same-cooling-tech-as-your-gaming-pc-11782213054634.html
+- YES Bank board to consider fundraise via equity and debt securities
+  Yes Bank's board will meet on June 29, 2026, to consider capital raising. The proposals aim to provide flexibility for future fundraising aligned with regulatory requirements.
+  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-board-to-consider-fundraise-via-equity-and-debt-securities-11782233559895.html
 
-- Market could be on cusp of trend reversal; business cycle funds suitable for capturing sector opportunities, say experts
-  Business cycle funds promise diversified investments across shifting sectors. With strong recent performances, these funds allow investors to seize new opportunities within an evolving economy.
-  🔗 https://www.livemint.com/market/stock-market-news/market-could-be-on-cusp-of-trend-reversal-business-cycle-funds-suitable-for-capturing-sector-opportunities-say-experts-11782222587068.html
+- Kalshi adds India to restricted list after prediction market ban
+  Kalshi Inc. has restricted users in India from trading event contracts. The country's tech ministry deemed prediction markets illegal.
+  🔗 https://www.livemint.com/market/kalshi-adds-india-to-restricted-list-after-prediction-market-ban-11782232443748.html
 
-- Advit Jewels IPO: Issue received solid response on Day 01, booked 11.3 times; GMP signals bumper listing
-  Advit Jewels' IPO, valued at  ₹165.16 crore, opened on June 23 and received bids for 9.45 crore shares. The retail segment was most
-  🔗 https://www.livemint.com/market/stock-market-news/advit-jewels-ipo-issue-received-solid-response-on-day-01-booked-11-3-times-gmp-signals-bumper-listing-11782219458495.html
+- Gold, silver rates today: Comex gold and silver extend losses for third straight day as Fed rate-hike bets rise
+  Gold futures fell to $4,108, and silver dropped to $61.53. Silver experienced an 18% loss in June alone and declining nearly 50% from its January peak.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-losses-for-third-straight-day-as-fed-rate-hike-bets-rise-11782229589160.html
 
-- US stock market today: Nasdaq, S&amp;P 500 futures tumble up to 3% as tech selloff deepens; Micron slides 7%
-  US stock futures indicated a steep decline on June 23, amid a tech sell-off led by SK Hynix's production cuts. Concerns over AI spending and potential interest rate hikes
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-tumble-up-to-3-as-tech-selloff-deepens-micron-slides-7-11782213420039.html
+- Sebi proposes ad rules for MF, stock brokers: Celebrities may endorse brands, not products | What's allowed, what's not
+  The Common Advertisement Code aims for consistent regulations, eliminating prior approval and enabling post-issuance monitoring. Sebi proposed new advertising rules
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-proposes-ad-rules-for-mf-stock-brokers-celebrities-may-endorse-brands-not-products-whats-allowed-whats-not-11782229190042.html
 
-- Top Gainers &amp; Losers on June 23: Vedanta, Hindustan Zinc, Infosys, TCS, Bank of Baroda among top losers
-  The Indian stock market fell sharply on June 23, influenced by global market weakness and a retreat in technology stocks. The Nifty 50 declined 1.16%, marking its biggest drop in nearly four weeks.
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-23-vedanta-hindustan-zinc-infosys-tcs-bank-of-baroda-among-top-losers-11782209069108.html
+- Waterways Leisure Tourism IPO: Issue receives tepid response on Day 01, subscribed 0.20x; GMP signals flat listing
+  Waterways Leisure Tourism's IPO opened on June 23 but saw low interest. A total of 8.14 lakh shares were bid for against 39.82 lakh available. The company aims to raise 
+  🔗 https://www.livemint.com/market/stock-market-news/waterways-leisure-tourism-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-20x-gmp-signals-flat-listing-11782228482925.html
 
-- Sensex crashes almost 900 points, investors lose  ₹6 lakh crore in a day: What drove the stock market down?
-  The Sensex lost 893 points, or 1.16%, to end at 76,200
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-crashes-almost-900-points-investors-lose-6-lakh-crore-in-a-day-what-drove-the-stock-market-down-11782208476671.html
+- Is Claude down? Anthropic says ‘fix has been implemented and…’ as major oputage hits AI assistant
+  St. Claude suffered a major outage affecting thousands of users. Anthropic says a fix has been
+  🔗 https://www.livemint.com/technology/is-claude-down-anthropic-says-fix-has-been-implemented-and-11782229318525.html
 
 - Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
   The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
@@ -96,57 +100,65 @@
   Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
   🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
 
-- Mint Explainer: Big Tech seeks to sell cheaper AI. Can India benefit?
-  Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
-  🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
+- S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates - CNBC
+  S&amp;P 500 falls on global chip rout with Nasdaq off 2%, led by Micron.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5
 
-- SpaceX shares extend slide with another 3% fall; over $600 billion in market value wiped out in 3 sessions
-  SpaceX shares fell another 3%, extending a three-day selloff that has wiped out over $600 billion in market value. Concerns over valuation, debt-funded AI expansion and broader technology sector weakness have weighed on
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-extend-slide-with-another-3-fall-over-600-billion-in-market-value-wiped-out-in-3-sessions/articleshow/131940001.cms
+- FTSE 100 Live: European Stocks Sink in Global Tech Selloff - Bloomberg
+  The FTSE 100 is down
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNUVV5YkxIME0tU1RvX0xPdG9xd0hlTjNfUklYbklJbmJxLXR6ZVhreTRQNklTVnk2bUZnQkhIVlZsWTk2cWJzY2piTFA0R2V1OFFGQTJmeThyMzRMZ2VJQ1kwWFZ5S25WX0RSc3lsZGY2UWpKdW83VTl0ejJYM0ZtdTB5Q0YxVFlVbXVHWHg5R0l5dm8xdnM5QkgxQUxYZV8tQUdEdjJDdXEtLUNZQzdWWFhmbEgxNEFmZS1KcXNENmRILXhNTTdKb091Y1Z2eUl3d3FCSkMzQXRQSHJMd19mOW9jY0dRdTdVeWhxMC1PakdsZmRDeE5ZTGpzZWhqaFhCbFdZSEZkWlNBdldX?oc=5
 
-- US stocks fall at open on tech selloff as concerns about hawkish Fed, AI spending mount
-  Indian markets opened on a subdued note Tuesday, mirroring global trends. Major indices saw a dip as investors grew cautious about the Federal Reserve's potential hawkish stance. Concerns over escalating debt-fueled spending on artificial intelligence also weighed
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fall-at-open-on-tech-selloff-as-concerns-about-hawkish-fed-ai-spending-mount/articleshow/131939659.cms
+- Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect - CNBC
+  Mamdani-backed candidates are likely to win in
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNaU9NYW1rUUUtZl9PSWthaHB0aGV5dERvRDBfT1lwTDB3UzFVTk5ScG5abDdfNldXaThqSy1PcVZZVjNwU29uZG12NlprRWc0eE9RclNFeVZlTFJJY1U5OW1FRnpVdkRnbGI2eHM2V0lmRlpxZDA2YXowWTd1bmlORkc0V3pSNXYyN1puQUJmWjJwbHRqVDFxNGY3dEnSAaIBQVVfeXFMTXhIRks5Y1BuREZlZndFQzJYR0lsWUVqZlJrcm94Q1Z4ekFBeTNBZjhPTzFrb2t4MU1VS3NJaWZsT1djbnp2TmNkVWo4STBoX1MtUEpGdXh6VHROZ1dNejY1MTVwTXZ2TDhLQm9INWtNSkw5b210ZV8teHFaaE5kR215YzEwT1d1c3l1X3VJS3FSMGU0djA0SHJnU3JQSHVGLWJB?oc=5
 
-- GE Vernova among 9 midcap stocks hit 52-week highs, rally up to 25% in a month
-  Despite a sharp fall in the Sensex, nine BSE MidCap stocks including GE Vernova, Bharat Forge and Laurus Labs hit fresh
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-among-9-midcap-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/131939412.cms
+- South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs - Reuters
+  South Korea's KOSPI plunges nearly 10
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUdDOF9YWnk5UExOWFVMYTRlWUhBcmI5cGM3aE5nMEwwYWhnbkpKMVFYcy1UMEhLbjQ2Mm1rc0RKQWtyRG9pczQtTjN6TE12WUVoNmUyZTFkb01yQl84aldiaWpTT1RmRzlZQVF2M2VKdUdFZ29sMzdXR2t0XzVfQnNhVXZIR01PNVRiVVNmTmxpQ0JheFl5bXBHVG9iLXdNN3RlS1ZyOEhpaTlhX0w4Zk11Tlh2MXRhazlsVkNRelVCNUVYM1l1X1VTaw?oc=5
 
-- Sebi proposes common advertising code for brokers, mutual funds, may allow celebrity endorsements
-  Sebi has proposed a common advertising code for brokers, mutual funds, investment advisers and other regulated entities. The framework could allow celebrity endorsements at the brand level.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-common-advertising-code-for-brokers-mutual-funds-may-allow-celebrity-endorsements/articleshow/131938461.cms
+- Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN
+  Wall Street is getting trampled by an AI sell-off
+  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWi1vbVJfRVl3SlVIX0xzRGpoS3pzMFBNYUJreWZsTVpRaUhwY0NFQlVvbGFzRWJRRnlNTWNYaHlTeFF4TUVBaTlkVmxSZ1h3T2tzTk5iRmpnNVZLZURiSkpoaGN0blFvVzMteEJxWFZTT0tOUXRrZlh3VWY?oc=5
 
-- Oil slide anchors India 10-year yield at 3-month low
-  The benchmark 10-year note closed lower as market anxiety subsided. Analysts anticipate yields to remain within a narrow band this week.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/oil-slide-anchors-india-10-year-yield-at-3-month-low/articleshow/131938367.cms
+- US stocks: SpaceX draws $89 billion demand for debut high-grade bond sale
+  SpaceX aims to raise between $20 billion and $25 billion to refinance a loan and cover corporate costs. This significant demand highlights investor confidence in Musk's vision.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale/articleshow/131944303.cms
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Axis Bank raises $800 million through dual bond sale
+   Axis Bank successfully raised $800 million through a dual tranche dollar bond. The bank secured $500 million via an Additional Tier 1 perpetual issue and $300 million from a five-year senior bond.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-800-million-through-dual-bond-sale/articleshow/131942561.cms
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- Promoter Twin Star sells Vedanta shares worth Rs 1,896 crore in block deal
+  Twin Star Holdings, a promoter entity of Vedanta, sold 6.51 crore shares worth nearly Rs 1,896 crore through a block deal on Tuesday. The transaction comes amid Vedanta's ongoing restructuring efforts
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/promoter-twin-star-sells-vedanta-shares-worth-rs-1896-crore-in-block-deal/articleshow/131942520.cms
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex and Nifty plunged over 1% on Tuesday amid global market weakness. Investors will track technical levels, global cues, FII activity and key stock movements.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- US Stocks Today | Chip stocks plunge, but bargain-hunters stem losses in other tech names
+  US chip stocks experienced a significant tumble, impacting the broader market and wiping out billions in value. This selloff, attributed to concentrated trading and shifting sentiment rather than AI fundamentals, highlights the volatility in the tech sector.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-chip-stocks-plunge-but-bargain-hunters-stem-losses-in-other-tech-names/articleshow/131941564.cms
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms - The Hindu
+  Wang Yi calls for India, China to accelerate resumption
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLWMwalpnNndvX010M04ycUszbElkLUUyMnhTTE4wNEZXM1FYRy1faldlTXpHb283TjlJMDlnS1RabHF0Q0Zuc2J6YkZ4OTJZWm54RkNsWExPaUY2SlJER0w2U2F4UzAxVlRhWjI3V1d0M0dPTXpDR0FPaWtSZWg5SFZNVjZ4WmQ3TWRtS21TZHhrdnVsa3h3cmFOVnJfTXpkVEc1MGhYUTh0VnRTNXRkS3lUM3VjdUNLQ3FTSU1mZmlTaDJjMGxvYng5NWRiY0JneXpRbFNfSzB1WlVWUFlpdFJ2a9IB6gFBVV95cUxPZlJrN29KTklKeHUzNTBJV296NlE2T25kWUUtZUFaMzNienhrbEZpOXJOVFhiRzU0VHJjNlJhRWRCSnIzbENISFc0VEVTZUo2MzhKLU1SS1VRXy1ZLXNNb1hWNkRfa3dETTY1ZzhqQmJqNVpnU1V6YW5xS0FJcDZ0S0pXV2Uzdml6RXVvOV85SjhKdHdzQ29DT3B6eGFwaDVQbnJFaEl3cS0zZDBwRUt6bmpGbUMyWE9xT0F0OTZUR1ptc1BOMkl3TXozcElBdmtURm5QMF9oQjdRbkJpb1d0Y0l0dWV2eFh1TXc?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- Trump administration might make obtaining Green Cards more difficult; find out how Indians will be affected - India.Com
+  Trump administration might make obtaining Green Cards more difficult. Find out how Indians
+  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOa3kwdU4yYjRLS1p6ZFc2LXlPWDQzU0taVjFPVjBuNFNCNjh6aW5NUDJGMXJjcFB5U0lBWTYzT0RiWnNrT3AzaUZjWG9lRFppeWZmek4wX0ZRLWU0QV9UYk5kRVFVd0RtZFlxUXI2d1hNNHZIa3dBekJXVlVrU0FPSmRGd04xSkg5a2xJNlRZRnNuV1R6RDhDbWtlTlp2VWtwWTVLNW11WHNudmFnRGxDUVRxOXc5cGVLbG9LcGt1MUlMQzNndGw4LVJLU2NKOEl5bV9uekVJbm1TU2hmMTdvaTVGcHh3d0Z2NEZwc3FjTnljNkhKRjA3TjNMN3RucXQzd1JwbV9KMDFjMF9TTjdEa01ITDRSR0dkbU5LRzhTeWV4ekR1ckRDQk9nLTNrR2PSAbQCQVVfeXFMTklQbnQ5UC1ZVlMybFN0RWQzNGdHOUdjT0pSUTBrQ0MyOVVwaWtZSkpmeGllam9OU0JpVjZHb0UzZ0FHYi1qVkdtazFpOTY1VktSSDE5WWdvQ2xFdGFIN05DNnNGbWd2bDVWN0hETGFGNkQ4QUVFMHVRWFJibVJmbkczZ3FZa1dUR29oMC1lc19ta3RNNTJTb2hCMUNTcXl1emhBRmhpQTVQd2VTZ2ZCMHNwb3BtdnF1aXB2Q2FvMWVRaWF5V1ZrYU9WQjV2UEFTeVZyaHQ1MlNmdFdFSGdocnU5aTdyV0VkQmczUjJya01Fb2lKUlMtQkxnWHd6ZWhyRkU2QkJkSEpseV8tam05Q2FzcDU2M09KTHpYU2JoMVNtZkxEY2tCS2hwSlJoMUQtSmJhVmE?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- US Envoy Underscores Positive Ties With India, Highlights Tamil Nadu's Role - NDTV
+  US Envoy Underscores Positive T
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGQ1Um9EU1REMHFSRlRsa3dMVUk1N2FhaWRiNnZPZHFUcjZEMkxSZFJyNDNVazAySDd3dTl0My16cjNYN0l0MTlmcUdIMGMyRnZna21ZRE8tb19YQjg3MVJYcW9Vanp0MTFPUGM3NXo4aWxUZmgtZFJTNEFOWlRldWE5RGUtZ1NWc0VsNDIzOEJ2T054dDhhN05mQThpSlB2OThvblNVT2QwUi1YUHFaSC1jLWrSAbwBQVVfeXFMTUFKMGFobmFjb1dqT1Vlem9FdEhpbFhsNlV0UU5hX056WFlKRjJITFdUYURZdEd5WExCN1g0MUhNcm85S1EyeTRvdk53UktadWJMc0VxSGk1ZzZFMEtFYWtXUktYWkpYMEdzTmFyQXJ6Zjltb09sTE5IMHhJUTlWallSLW92aDR0WEIxbGVjNUc4cG1lQ185N1BfZzRTV3l5LXFkNTNPaEpDa05RLWFSVEFCN1pvZGN1ZVRQSTE?oc=5
+
+- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
+  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+
+- NITI Aayog proposes pharma chapter for future FTAs, urges India to move up value chain - The Economic Times
+  NITI Aayog proposes pharma chapter for future FTAs.
+  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNNE9sTlNod3ktRGoyNVRCaHcwbC1PVFJmU1Y1NG9YU2hxcmVFcVBGRXdQUmp5RDBnT3ZxNWZ6OER6ejVTZnB1WDlqUGFmaW9PZlBNOHpyWTlNMmFZOVdNeDRadWsxYjVKVzFWMUJtN2lxbGIzNThaNFdpeFNvWmdTNTBCYjFJNk01LXpUNTFIR3FnYnhWN3hmWXJkeERFZkJ0bDN0QnZQYTdlSEFIbXVyQjJsdjVOTDQ4M2ptWnZROWpDOHBaQmxFVG52RFJBcXotMS1sM09Ha21kUUw5Rl9aWUY5RUwwTENWME9SOU1uYTNtcV9TVkV3LURXdnVSWTlrUHJCUWVQMWt4aUpYWGxYdlBlZkxMM0M2ekV6Q2dkYXFwWHhxd2k0dy1EMzJ6OWZDNjlyMXhqOE1BeG9faTNZWGF4Z2czQm4xY0h4R3ZRREpwdXFyejlxUWZWQ0tSdGhlRG130gH_AUFVX3lxTE9hN1FjaXZrNGx1TURkeUdpdHFPWWFEZGhUUk9tTGxkQ1d0aUJ3elM2WHJTWURRS1JPdmU3aGhBZ0NwbUtqWG9mZ0ZnVWsxSmZkQWd5Z2JPbk03ZTdTLUdjTzE3NnhaRGI4NUR0REJFUFN6bWJxOGhFd0lhUWg4dG0ydjl0Y1V2YVg0OGxVc2daMWRYYUZOeGtnX3lLd1lVSTFIeXotcUtUeFhISEFsRFVQcXl0b3c3R19INUFTYmk4dEh1blNpcDdJYXluck4yT2hmdXUzS3pveVBPSnBGUGtya0hhZENHZDRERDdXNm5fYnppaFE2OUstMUQ5RFVGMA?oc=5
 
 
-_Last updated: 2026-06-23 14:40:05 UTC_
+_Last updated: 2026-06-23 19:57:39 UTC_
