@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Who is Kunal Shah, the CRED founder set to be WhatsApp’s first Indian boss
+- ‘If we are Kafirs, don’t use roads built by us’: Madhya Pradesh Minister Kailash Vijayvargiya sparks row
   
-  🔗 https://indianexpress.com/article/india/who-is-kunal-shah-cred-founder-whatsapp-global-chief-10752348/
+  🔗 https://indianexpress.com/article/india/if-we-are-kafirs-dont-use-roads-built-by-us-madhya-pradesh-minister-kailash-vijayvargiya-sparks-row-10752513/
 
-- After a brief lull, monsoon advances into Pune, Alibaug, Gaya; onset over Mumbai in 48 hrs
+- Instagrammer’s video on RSS lands him in Rajasthan Police custody, Congress asks: ‘Is there a new secret law?’
   
-  🔗 https://indianexpress.com/article/india/southwest-monsoon-tracker-mumbai-pune-delays-imd-deficit-report-10752425/
+  🔗 https://indianexpress.com/article/india/instagrammers-video-on-rss-lands-him-in-rajasthan-police-custody-congress-asks-is-there-a-new-secret-law-10752516/
 
-- NSA Ajit Doval meets senior Iranian security official ahead of BRICS NSAs’ meet
+- From ‘suspicious’ online activity to ‘Jaish links’: Behind 30-year-old woman’s UAPA arrest in Jaipur
   
-  🔗 https://indianexpress.com/article/india/nsa-ajit-doval-iran-deputy-nsa-ghadir-nezamipour-delhi-brics-west-asia-10752390/
+  🔗 https://indianexpress.com/article/india/from-suspicious-online-activity-to-jaish-links-behind-30-year-old-womans-uapa-arrest-in-jaipur-10752517/
 
-- In her first India trip as Japan PM, Sanae Takaichi likely to visit Guwahati on July 1-3
+- NEET re-test: In Bihar ‘dummy candidate’ racket — MBBS students, biometric verification personnel
   
-  🔗 https://indianexpress.com/article/india/japan-pm-sanae-takaichi-india-visit-guwahati-summit-narendra-modi-10752218/
+  🔗 https://indianexpress.com/article/india/neet-re-test-in-bihar-dummy-candidate-racket-mbbs-students-biometric-system-personnel-10752512/
 
-- C-section complications compound in Rajasthan, now Jodhpur hospital under scrutiny
+- Kashmiri Pandits visit Kheer Bhawani temple for mela, welcomed by residents, leaders
   
-  🔗 https://indianexpress.com/article/india/rajasthan-c-section-complications-jodhpur-hospital-probe-10751812/
+  🔗 https://indianexpress.com/article/india/kashmiri-pandits-visit-kheer-bhawani-temple-for-mela-welcomed-by-residents-leaders-10752689/
+
+- Oracle sheds 21,000 employees while ramping up AI investments
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/oracle-sheds-21000-employees-while-ramping-up-ai-investments-10752739/
 
 - What is GLM-5.2, China’s latest open-weight AI model turning heads in Silicon Valley?
   
@@ -36,49 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-to-end-support-office-2021-10751568/
 
-- What is Mivo, a new app looking to curb doomscrolling through no-shame approach?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-mivo-screen-time-app-doomscrolling-10751512/
+- JSW to flex its own tech for e-buses in fierce race for govt orders
+  JSW Group is developing its own electric bus platform, vehicle control unit and battery packs. The move supports aggressive government tender bids and marks a more self-reliant strategy.
+  🔗 https://www.livemint.com/companies/jsw-electric-bus-in-house-technology-govt-tender-automobile-11782116068129.html
 
-- Who is Miten Sampat? Meet CRED's interim CEO as Kunal Shah joins META
-  Kunal Shah will join Meta full-time, stepping away from CRED. Miten Samp
-  🔗 https://www.livemint.com/companies/people/who-is-miten-sampat-meet-creds-interim-ceo-as-kunal-shah-joins-meta-whatsapp-global-head-11782147767029.html
+- India’s largest corporates mature against AI cyber threats: Palo Alto Networks
+  It is only a matter of time before cyber-attackers develop similar weapons, says Palo Alto Networks president BJ Jenkins. Anthropic's Claude Mythos remains off-limits
+  🔗 https://www.livemint.com/companies/news/indias-largest-corporates-mature-against-ai-cyber-threats-palo-alto-networks-11782121970180.html
 
-- Meta gets Kunal Shah to lead WhatsApp globally, but what's next for Cred?
-  Kunal Shah has stepped down as CEO of Cred to lead WhatsApp globally. Indian company secures an  �
-  🔗 https://www.livemint.com/companies/news/meta-gets-kunal-shah-to-lead-whatsapp-globally-but-whats-next-for-cred-11782143891678.html
+- Auto components maker Interface in talks to sell majority stake at $300 m valuation
+  The deal could attract private equity and strategic investors as interest in profitable manufacturing
+  🔗 https://www.livemint.com/companies/auto-components-maker-interface-auto-majority-stake-300-million-valuation-private-equity-strategic-investors-11782106677175.html
 
-- Who is Will Cathcart? Meet the outgoing WhatsApp chief and what’s next for him
-  Kunal Shah of CRED is the new head
-  🔗 https://www.livemint.com/companies/people/who-is-will-cathcart-meet-the-outgoing-whatsapp-chief-and-what-s-next-for-him-kunal-shah-mark-zuckerberg-meta-11782145675664.html
+- US FDA sends SOS to Indian drugmakers for critical cancer medicine amid US shortage
+  The US FDA is trying to secure supplies of ifosfamide, a cancer treatment in short supply due to manufacturing disruptions. IDMA is gathering information on potential
+  🔗 https://www.livemint.com/companies/news/cancer-injection-shortage-medicine-us-fda-indian-drug-manufacturers-ifosfamide-idma-alkem-laboratories-gls-pharma-11782031345901.html
 
-- Lucid layoffs: 1,500 jobs cut, COO Marc Winterhoff out — EV maker has now shed nearly 30% of its workforce in 4 months
-  Lucid Group is cutting roughly 1,500 jobs. COO Marc Winterhoff exits and the US EV market continues to cool.
-  🔗 https://www.livemint.com/companies/news/lucid-layoffs-1-500-jobs-cut-coo-marc-winterhoff-out-ev-maker-has-now-shed-nearly-30-of-its-workforce-in-4-months-11782145447643.html
+- Week after Sarvam, Naukri founder’s AI startup investments double in value
+  Naukri founder Sanjeev Bikhchandani said his AI startup investments have more
+  🔗 https://www.livemint.com/companies/news/week-after-sarvam-naukri-founder-s-ai-startup-investments-double-in-value-11782136277455.html
 
-- JSW Infra launches QIP with promoter stake sale to raise up to  ₹7,503 crore
-  The share offering consists of a total of up to 263.25 million shares, including a fresh issue of 230 million shares under the QIP.
-  🔗 https://www.livemint.com/companies/jsw-infra-promoter-offer-shares-worth-7-500-crore-to-institutional-investors-11782142189811.html
+- Stocks to watch: TCS, BEL, Vodafone Idea among shares in focus today; check list here
+  Sensex advanced 291.17 points, or 0.38%, to end the session at 77,094.07.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tcs-bel-vodafone-idea-among-shares-in-focus-today-check-list-here-11782180279104.html
 
-- TCS to declare Q1FY27 results, interim dividend on this date. Check details
-  Tata Consultancy Services will review Q1FY27 financial results on July 9, 2026, and consider an interim dividend payment. TCS has a history of consistent dividend distribution and reported
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-to-declare-q1fy27-interim-dividend-on-this-date-check-details-11782146958243.html
+- Stock market today: Gift Nifty hints muted start; US-Iran peace talks to crude oil prices - 8 stocks to buy
+  Sensex and Nifty gained on Monday, driven by optimism over US-Iran peace talks. Asian markets traded lower. Experts recommend a 'buy on dips' strategy for Nifty as key levels remain
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-iran-peace-talks-to-crude-oil-prices-8-stocks-to-buy-11782178948481.html
 
-- Kirloskar Oil Engines shares hit 20% upper circuit. JM Financial sees more upside
-  Kirloskar Oil Engines shares surged 20% after winning a substantial order from HyperNext for 96 units of its 2,500 kVA power systems. JM Financial and Motilal Oswal
-  🔗 https://www.livemint.com/market/stock-market-news/kirloskar-oil-engines-shares-hit-20-upper-circuit-jm-financial-sees-more-upside-11782142543195.html
+- Asian markets today:  Nikkei, Kospi trade lower amid rebound in crude oil prices
+  Japan’s market declined 0.5%, while S&amp;amp;P 500 e-mini
+  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-trade-lower-amid-rebound-in-crude-oil-prices-11782178465688.html
 
-- India deserves a different valuation framework in the current regime, says Delorean Partners' Amit Bhartia
-  Amit Bhartia suggests India's equity market requires new valuation standards. He emphasizes the importance of assessing current economic contexts.
-  🔗 https://www.livemint.com/market/stock-market-news/india-deserves-a-different-valuation-framework-in-the-current-regime-says-delorean-partners-amit-bhartia-11782137727982.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 23 June
+  Gift Nifty was trading around 24,130 level, a premium of nearly 6 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-23-june-11782179406705.html
 
-- Bharat Electronics shares to be in focus on Tuesday as company secures  ₹1,081 crore order
-  Bharat Electronics has secured additional orders worth  ₹1,081 crore. The company's stock is attracting attention following prior orders and discussions of Indian defense sales to
-  🔗 https://www.livemint.com/market/stock-market-news/bharat-electronics-shares-to-be-in-focus-on-tuesday-as-company-secures-rs-1-081-crore-order-11782134401590.html
-
-- India's investor base tops 130 million, but only one in 10 trade
-  Of the 131 million registered investors, only 12.9 million traded at least once
-  🔗 https://www.livemint.com/market/stock-market-news/indias-investor-base-tops-130-million-but-only-one-in-10-trade-11782125991023.html
+- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 23 June 2026
+   Vaishali Parekh recommends three stocks to buy today — Hindustan Zinc
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-23-june-2026-11782177101686.html
 
 - Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
   The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
@@ -100,105 +100,45 @@
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
   🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
 
-- US stocks: S&amp;P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran
-  S&amp;P 500 and Nasdaq dipped, primarily due to tech giants like Alphabet facing investor scrutiny over AI spending. Dow, however, edged higher, supported by healthcare and industrial gains. Falling oil prices offered some relief, but
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-close-lower-dragged-by-alphabet-and-megacap-tech-focus-on-iran/articleshow/131920115.cms
+- Shreedhar Spinners IPO: Check GMP, subscription, price band and other details
+  The company aims to raise Rs 30.68 crore through an entirely fresh issue of 57.88 lakh shares. The price band has been fixed at Rs 51-53 per share, and the shares are scheduled to list on the NSE
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/shreedhar-spinners-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131923106.cms
 
-- West Bengal eyes Calcutta Stock Exchange revival to reclaim financial hub status
-  Finance minister vows to restore Kolkata's financial capital status. Move promises easier capital access for Eastern India. Government also plans to list profitable state-owned companies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-eyes-calcutta-stock-exchange-revival-to-reclaim-financial-hub-status/articleshow/131918044.cms
+- Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low
+  The US dollar strengthened Tuesday, driven by expectations of a more aggressive Federal Reserve. Elevated US Treasury yields are also bolstering the greenback. Meanwhile, the Japanese yen is nearing a four-decade low.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low/articleshow/131923091.cms
 
-- US stocks: Vimeo owner Bending Spoons seeks $1.62 billion US IPO, sources say
-  Italian tech firm Bending Spoons is gearing up for a significant U.S. IPO, aiming to raise up to $1.62 billion. The company, which recently reported strong net income growth, plans to debut on Nasdaq
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/vimeo-owner-bending-spoons-seeks-1-62-billion-us-ipo-sources-say/articleshow/131917413.cms
+- Advit Jewels IPO opens today. Check brokerages review, GMP, subscription and other details
+  The SME IPO is being offered at a fixed price of Rs 138 per share. The shares are proposed to be listed on the BSE SME platform on July 1.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-ipo-opens-today-check-brokerages-review-gmp-subscription-and-other-details/articleshow/131923074.cms
 
-- Sebi plans simpler rulebook for stock exchanges, doing away with obsolete provisions
-  Sebi is proposing a significant overhaul of stock exchange and clearing corporation regulations to boost ease of doing business. The move aims to simplify rules, reduce compliance burdens, and consolidate multiple circulars into a more streamlined framework. Key changes include
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-simpler-rulebook-for-stock-exchanges-doing-away-with-obsolete-provisions/articleshow/131916911.cms
+- Oil Price Today (June 23): Crude oil near $78 per barrel as investors track flows through Hormuz. What’s next?
+  Brent crude futures rose 24 cents, or 0.38%, to $78.15 a barrel. U.S.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-23-crude-oil-near-78-per-barrel-as-investors-track-flows-through-hormuz-whats-next/articleshow/131923039.cms
 
-- Market trading guide: Cipla among 2 stock recommendations for Tuesday
-  Cipla and Knowledge Marine feature among analysts' top stock picks for Tuesday. bullish technical breakouts, improving momentum indicators
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-cipla-among-2-stock-recommendations-for-tuesday/slideshow/131914943.cms
-
-- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
-
-- ‘We will go to war’: Pakistan threatens India as the country faces a water crisis | India News - Hindustan Times
-  Pakistan threatens India as the country faces a water crisis.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXNnMFRhVGNsYURpX0hwWUtsRlBsOHN5UUIyTllqeUV2VVJteDhSRENMT0V4ejRiYjVrNlVJbFl4T3pCSHJYUlhXMjdhV3pwZk12ZzBWcGhTSC0yMjUzWHpKVWdTZXF1TURDaVlOUWZxTEJIdmQ2RzVCU2lmZ3FqUHh5Q3B0YTVGeEhMRjQ0azFuMmNiX3JmYXpRSTVxMk5Oc3E2dFl4c0FQX1pqdXM0Slg4YnpscEwtMVFCQ1luSVNQR1M4R2w1Y1ZtelRpU2I2ZFlGMXdOSFjSAd4BQVVfeXFMUF9aTVhVQkhBcWphWmZoOEdBbTlXdE1DcGpCbWRNRmJKT0h4ckk3UTI3UVhZU01WTFBWM3FLWE5XaExJN1lDaGp2UXd2WWREaVZsRE5aa3lTMm9QTUFNRW1RZjR4ZXJVZktENlVxbG1nbFcwNmFNTTF1Y20wLWdkY1V6OVhyQWYzTkxLcnFwc2hRbS1lVDNvV0lhbWxrcjRCN3ZuaHBfOGhhR0hMYTlqRFlJVzdsUXN3YVpRRGd6bjJad0pIMjhmTTlCaEo3cjA2NUF0djhOTWhySjJmZWN3?oc=5
-
-- Centre Amends Rules For Receiving Foreign Funds - NDTV
-  Centre Amends Rules
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpUMnFXa25hU0stODdPdUlhLWE4R1hQWUF5WDB1eFVMLVZvUjFiejAzVWxRckZuZVBXdjZmdUhhd01oWFlDY1JkdnpTSDlkTzhObnhqdGcza0ZJMnBoTFNCcjFtcXdSdDJ3NFlUNzJqLURVOTVMeGtmVVpnbGhxVTFZSHJPZEV1YkoxeU5Va0FLQdIBmgFBVV95cUxQeUlHSmpKaFZRd2VBSUJ2dnZRUHZaYmNETGF4V2szb1VTZHBndVhyZEZPaVVNOFV4TW5jLWRXWjVCb0JRMzdlVk55bjI2b0JWa1BwR0ZfZ29DSlY1dWUzOWlLeUtZTTFhZXZRNXB4Y2puckdTNUJDNTVTNkFOZ0NHdUNzMVBIOXlFOTUtR2VSNXdMVmhMQzZGVEJn?oc=5
-
-- U.S. notifies sale of support services for India’s Apache helicopters, M777A2 howitzers - The Hindu
-  U.S. notifies sale of support services for
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFVYaUNveG53R1NjaTRXUUNHLWozOUU2eVJCRWhOV1ZCa25ibW9rVXMtQ3hxaGU0U0dsa1lYQnJ3WG81Q19yaFlSQUhwQS1jdzBLSU9mWDJiaW5vT2ROV0FUM19SQnFmVmJsYlY5ZUx6cG04YzdMSHlnVUJaT2RRZXhtNm11cHg2OUExbzA1aHZkYWtBM2M3dmNGSTQxaVhnVWk3VHZtNFZyeDBQSzdhWFhDMXJzdURDUTI2QV9PbWJWS2U5U2hiWXBNSjdrd1J4cDBjU19hMS1BQdIB4AFBVV95cUxQVEktemlkRzROWDhnVFJ4ZDVxM1EweEZJUkRZaGNqNlBzMncwS2Z1ZHM4RlF1bTJiM0hwUXZuNHVoNDZFRkpqb1pjVmlOSzl3SHlucVZMZHVQVWhZOXUybTIxV3N2alNZZHZ2cVBYMGFCRWdhVk1ZRXJpSFRXVHE5bUxzelBPWnE0TjgySVNWcEtxNTkySURvdWY4bERYRVlSWl9NaEdoQTczdzlLN3VpbTdzVlFqY0xnZ3BhMmVnWjVRUzU0V3phNDlJNzg3dEU3T3NwMGItZTZnVlNCMVVtOQ?oc=5
-
-- Lucknow Fire Tragedy: Rajnath Singh Says "Responsibility Will Be Fixed" - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0lfb1U4MGNwMUxBRjlwX2Y0dVVzeGRGMUR4RldGN2VjZW1ySUNBSzRSdjJtakg4Vm92V2FnU0EyOEtPcUN2YlFXTEZQelc2V0dLNmdUZnNST1BDckhtdXNRTTJ3NVpBdE5zZlo3aEk0Yi1sdUlVNlFiVFhueFdETXgxNm4tWkhQRlFNbUpuQmR0QkRiVmtaTFpLTjUzS3E3UWtRYUkzUzR0ZTQ4UXfSAbYBQVVfeXFMTUkwekN6R3BULUZSTFZwUjF0STY0Mm5mbXRHNmtaOExidDFRRVh4NkRJUzVsSzFWSklacXppLU52aWwzYzVhbWFmeXZvc25IMGdUbzBSUkc4bzlTMXVnWE1wWElxa21pS0hEYnk1Zms0VGNTOXExdmhvaWc1YnFnUkpfZnN0SXhGZDVYWUc5UERpd2RDYmdmeTFfQ2xZbXB0U3NqUVdkSkRNaEFFMzJfZG5fMEZtNVE?oc=5
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tcs-jsw-infra-share-price-23-june-2026/liveblog/131923026.cms
 
 - India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
   India’s ‘Cock
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
-- ‘We will go to war’: Pakistan threatens India as the country faces a water crisis | India News - Hindustan Times
-  Pakistan threatens India as the country faces a water crisis.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXNnMFRhVGNsYURpX0hwWUtsRlBsOHN5UUIyTllqeUV2VVJteDhSRENMT0V4ejRiYjVrNlVJbFl4T3pCSHJYUlhXMjdhV3pwZk12ZzBWcGhTSC0yMjUzWHpKVWdTZXF1TURDaVlOUWZxTEJIdmQ2RzVCU2lmZ3FqUHh5Q3B0YTVGeEhMRjQ0azFuMmNiX3JmYXpRSTVxMk5Oc3E2dFl4c0FQX1pqdXM0Slg4YnpscEwtMVFCQ1luSVNQR1M4R2w1Y1ZtelRpU2I2ZFlGMXdOSFjSAd4BQVVfeXFMUF9aTVhVQkhBcWphWmZoOEdBbTlXdE1DcGpCbWRNRmJKT0h4ckk3UTI3UVhZU01WTFBWM3FLWE5XaExJN1lDaGp2UXd2WWREaVZsRE5aa3lTMm9QTUFNRW1RZjR4ZXJVZktENlVxbG1nbFcwNmFNTTF1Y20wLWdkY1V6OVhyQWYzTkxLcnFwc2hRbS1lVDNvV0lhbWxrcjRCN3ZuaHBfOGhhR0hMYTlqRFlJVzdsUXN3YVpRRGd6bjJad0pIMjhmTTlCaEo3cjA2NUF0djhOTWhySjJmZWN3?oc=5
+- India News Highlights, 22 June 2026: PM announces Rs 2 lakh for Lucknow fire victims, Mamata dumped by Trinamool MLAs - The Indian Express
+  The Indian Express has published a list of India's top news stories of the day. The list includes
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMNIB0gFBVV95cUxPeks3RHVJazlFSm5VT0lCNkRiT0pRQ0Q2R3JJNER0Vk5qUVl5Q21BRjhEaVZfMjZTTmZZWl9BRjZSYUtRS0dkMW1rZ0JWdnNvMWJ0M1YxcjBWdHNFazhsakZ6X3gwdWtLZGhjM1hjMXc5d3llRmtRMzhKYWJ5ZEJPNWNOWlJKZkZIcFdDX1VwY1ZSdzJsQ2VOb3lDcTFTbjh5WnJhbGZTMi1UaDlQdFRCTVJ5TC1IeVBjb2VwaUY4MVNvaVY0bm0xVWU5ckJGVlJWYWc?oc=5
 
-- Centre Amends Rules For Receiving Foreign Funds - NDTV
-  Centre Amends Rules
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpUMnFXa25hU0stODdPdUlhLWE4R1hQWUF5WDB1eFVMLVZvUjFiejAzVWxRckZuZVBXdjZmdUhhd01oWFlDY1JkdnpTSDlkTzhObnhqdGcza0ZJMnBoTFNCcjFtcXdSdDJ3NFlUNzJqLURVOTVMeGtmVVpnbGhxVTFZSHJPZEV1YkoxeU5Va0FLQdIBmgFBVV95cUxQeUlHSmpKaFZRd2VBSUJ2dnZRUHZaYmNETGF4V2szb1VTZHBndVhyZEZPaVVNOFV4TW5jLWRXWjVCb0JRMzdlVk55bjI2b0JWa1BwR0ZfZ29DSlY1dWUzOWlLeUtZTTFhZXZRNXB4Y2puckdTNUJDNTVTNkFOZ0NHdUNzMVBIOXlFOTUtR2VSNXdMVmhMQzZGVEJn?oc=5
+- NSA Doval meets counterparts from BRICS grouping, discusses West Asia and India-China ties - The Hindu
+  NSA Doval meets counterparts from BRICS grouping, discusses West
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHBkWl9RbEdrLXlpbmhYUVI0anB4eUc3X3BXVFlBZTRTSm1fdm1PTGk2X0lxRHgtalE1QTE4czRFbjQ5ZG9Gb09LUUxzZlpjekc0VmFOVnFocEJhUG83VVVvY0I2OW56b2FNQ0gzWjFZYmhqZTA3SlhicnBiMW1iMGlHTnlLdktzVk1uNWtoWXNHNEU5LWFmOUQ1LU1KQVd2NF9oTWNUdnR1QmxXSW4wYkFKRl92VEhTbU1NdzN0TzM1d0FyMVE2OEZ4SlVudlBPMUVVcTh0R0pfTm5wQXdLdllR0gHoAUFVX3lxTE8zYkZaXzEyN2U2RzNRdjhubnA5aGR1a2t3Z0pQZzlBQm9GUHg3NWdWM3owb1ZyUXBPSmlUNGJJeGpUZ2t4TG5OX291Nzh1cWp3U1ZTN3lqNzE5eldOUVZyYkdtTi1NNF95dVpXdGs3cG1zM25ONkRJUmNudUV3YUtvS2ZNYVlfTm55SmV5Zmg0YklETXBhQ0hWMGNCQ2IxSlhyMVkwb0R3RTl1UlVRZzY1REIyUHdURTdTd0loVXRQcks4cTdTWk15T3pzZjJfMVh3SGxyZVZwVldzV2pjc04yVHNMYW0xZXo?oc=5
 
-- U.S. notifies sale of support services for India’s Apache helicopters, M777A2 howitzers - The Hindu
-  U.S. notifies sale of support services for
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFVYaUNveG53R1NjaTRXUUNHLWozOUU2eVJCRWhOV1ZCa25ibW9rVXMtQ3hxaGU0U0dsa1lYQnJ3WG81Q19yaFlSQUhwQS1jdzBLSU9mWDJiaW5vT2ROV0FUM19SQnFmVmJsYlY5ZUx6cG04YzdMSHlnVUJaT2RRZXhtNm11cHg2OUExbzA1aHZkYWtBM2M3dmNGSTQxaVhnVWk3VHZtNFZyeDBQSzdhWFhDMXJzdURDUTI2QV9PbWJWS2U5U2hiWXBNSjdrd1J4cDBjU19hMS1BQdIB4AFBVV95cUxQVEktemlkRzROWDhnVFJ4ZDVxM1EweEZJUkRZaGNqNlBzMncwS2Z1ZHM4RlF1bTJiM0hwUXZuNHVoNDZFRkpqb1pjVmlOSzl3SHlucVZMZHVQVWhZOXUybTIxV3N2alNZZHZ2cVBYMGFCRWdhVk1ZRXJpSFRXVHE5bUxzelBPWnE0TjgySVNWcEtxNTkySURvdWY4bERYRVlSWl9NaEdoQTczdzlLN3VpbTdzVlFqY0xnZ3BhMmVnWjVRUzU0V3phNDlJNzg3dEU3T3NwMGItZTZnVlNCMVVtOQ?oc=5
+- Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms - The Hindu
+  Wang Yi calls for India, China to accelerate resumption
+  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLWMwalpnNndvX010M04ycUszbElkLUUyMnhTTE4wNEZXM1FYRy1faldlTXpHb283TjlJMDlnS1RabHF0Q0Zuc2J6YkZ4OTJZWm54RkNsWExPaUY2SlJER0w2U2F4UzAxVlRhWjI3V1d0M0dPTXpDR0FPaWtSZWg5SFZNVjZ4WmQ3TWRtS21TZHhrdnVsa3h3cmFOVnJfTXpkVEc1MGhYUTh0VnRTNXRkS3lUM3VjdUNLQ3FTSU1mZmlTaDJjMGxvYng5NWRiY0JneXpRbFNfSzB1WlVWUFlpdFJ2a9IB6gFBVV95cUxPZlJrN29KTklKeHUzNTBJV296NlE2T25kWUUtZUFaMzNienhrbEZpOXJOVFhiRzU0VHJjNlJhRWRCSnIzbENISFc0VEVTZUo2MzhKLU1SS1VRXy1ZLXNNb1hWNkRfa3dETTY1ZzhqQmJqNVpnU1V6YW5xS0FJcDZ0S0pXV2Uzdml6RXVvOV85SjhKdHdzQ29DT3B6eGFwaDVQbnJFaEl3cS0zZDBwRUt6bmpGbUMyWE9xT0F0OTZUR1ptc1BOMkl3TXozcElBdmtURm5QMF9oQjdRbkJpb1d0Y0l0dWV2eFh1TXc?oc=5
 
-- Lucknow Fire Tragedy: Rajnath Singh Says "Responsibility Will Be Fixed" - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0lfb1U4MGNwMUxBRjlwX2Y0dVVzeGRGMUR4RldGN2VjZW1ySUNBSzRSdjJtakg4Vm92V2FnU0EyOEtPcUN2YlFXTEZQelc2V0dLNmdUZnNST1BDckhtdXNRTTJ3NVpBdE5zZlo3aEk0Yi1sdUlVNlFiVFhueFdETXgxNm4tWkhQRlFNbUpuQmR0QkRiVmtaTFpLTjUzS3E3UWtRYUkzUzR0ZTQ4UXfSAbYBQVVfeXFMTUkwekN6R3BULUZSTFZwUjF0STY0Mm5mbXRHNmtaOExidDFRRVh4NkRJUzVsSzFWSklacXppLU52aWwzYzVhbWFmeXZvc25IMGdUbzBSUkc4bzlTMXVnWE1wWElxa21pS0hEYnk1Zms0VGNTOXExdmhvaWc1YnFnUkpfZnN0SXhGZDVYWUc5UERpd2RDYmdmeTFfQ2xZbXB0U3NqUVdkSkRNaEFFMzJfZG5fMEZtNVE?oc=5
-
-- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
-
-- ‘We will go to war’: Pakistan threatens India as the country faces a water crisis | India News - Hindustan Times
-  Pakistan threatens India as the country faces a water crisis.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXNnMFRhVGNsYURpX0hwWUtsRlBsOHN5UUIyTllqeUV2VVJteDhSRENMT0V4ejRiYjVrNlVJbFl4T3pCSHJYUlhXMjdhV3pwZk12ZzBWcGhTSC0yMjUzWHpKVWdTZXF1TURDaVlOUWZxTEJIdmQ2RzVCU2lmZ3FqUHh5Q3B0YTVGeEhMRjQ0azFuMmNiX3JmYXpRSTVxMk5Oc3E2dFl4c0FQX1pqdXM0Slg4YnpscEwtMVFCQ1luSVNQR1M4R2w1Y1ZtelRpU2I2ZFlGMXdOSFjSAd4BQVVfeXFMUF9aTVhVQkhBcWphWmZoOEdBbTlXdE1DcGpCbWRNRmJKT0h4ckk3UTI3UVhZU01WTFBWM3FLWE5XaExJN1lDaGp2UXd2WWREaVZsRE5aa3lTMm9QTUFNRW1RZjR4ZXJVZktENlVxbG1nbFcwNmFNTTF1Y20wLWdkY1V6OVhyQWYzTkxLcnFwc2hRbS1lVDNvV0lhbWxrcjRCN3ZuaHBfOGhhR0hMYTlqRFlJVzdsUXN3YVpRRGd6bjJad0pIMjhmTTlCaEo3cjA2NUF0djhOTWhySjJmZWN3?oc=5
-
-- Centre Amends Rules For Receiving Foreign Funds - NDTV
-  Centre Amends Rules
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpUMnFXa25hU0stODdPdUlhLWE4R1hQWUF5WDB1eFVMLVZvUjFiejAzVWxRckZuZVBXdjZmdUhhd01oWFlDY1JkdnpTSDlkTzhObnhqdGcza0ZJMnBoTFNCcjFtcXdSdDJ3NFlUNzJqLURVOTVMeGtmVVpnbGhxVTFZSHJPZEV1YkoxeU5Va0FLQdIBmgFBVV95cUxQeUlHSmpKaFZRd2VBSUJ2dnZRUHZaYmNETGF4V2szb1VTZHBndVhyZEZPaVVNOFV4TW5jLWRXWjVCb0JRMzdlVk55bjI2b0JWa1BwR0ZfZ29DSlY1dWUzOWlLeUtZTTFhZXZRNXB4Y2puckdTNUJDNTVTNkFOZ0NHdUNzMVBIOXlFOTUtR2VSNXdMVmhMQzZGVEJn?oc=5
-
-- U.S. notifies sale of support services for India’s Apache helicopters, M777A2 howitzers - The Hindu
-  U.S. notifies sale of support services for
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFVYaUNveG53R1NjaTRXUUNHLWozOUU2eVJCRWhOV1ZCa25ibW9rVXMtQ3hxaGU0U0dsa1lYQnJ3WG81Q19yaFlSQUhwQS1jdzBLSU9mWDJiaW5vT2ROV0FUM19SQnFmVmJsYlY5ZUx6cG04YzdMSHlnVUJaT2RRZXhtNm11cHg2OUExbzA1aHZkYWtBM2M3dmNGSTQxaVhnVWk3VHZtNFZyeDBQSzdhWFhDMXJzdURDUTI2QV9PbWJWS2U5U2hiWXBNSjdrd1J4cDBjU19hMS1BQdIB4AFBVV95cUxQVEktemlkRzROWDhnVFJ4ZDVxM1EweEZJUkRZaGNqNlBzMncwS2Z1ZHM4RlF1bTJiM0hwUXZuNHVoNDZFRkpqb1pjVmlOSzl3SHlucVZMZHVQVWhZOXUybTIxV3N2alNZZHZ2cVBYMGFCRWdhVk1ZRXJpSFRXVHE5bUxzelBPWnE0TjgySVNWcEtxNTkySURvdWY4bERYRVlSWl9NaEdoQTczdzlLN3VpbTdzVlFqY0xnZ3BhMmVnWjVRUzU0V3phNDlJNzg3dEU3T3NwMGItZTZnVlNCMVVtOQ?oc=5
-
-- Lucknow Fire Tragedy: Rajnath Singh Says "Responsibility Will Be Fixed" - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0lfb1U4MGNwMUxBRjlwX2Y0dVVzeGRGMUR4RldGN2VjZW1ySUNBSzRSdjJtakg4Vm92V2FnU0EyOEtPcUN2YlFXTEZQelc2V0dLNmdUZnNST1BDckhtdXNRTTJ3NVpBdE5zZlo3aEk0Yi1sdUlVNlFiVFhueFdETXgxNm4tWkhQRlFNbUpuQmR0QkRiVmtaTFpLTjUzS3E3UWtRYUkzUzR0ZTQ4UXfSAbYBQVVfeXFMTUkwekN6R3BULUZSTFZwUjF0STY0Mm5mbXRHNmtaOExidDFRRVh4NkRJUzVsSzFWSklacXppLU52aWwzYzVhbWFmeXZvc25IMGdUbzBSUkc4bzlTMXVnWE1wWElxa21pS0hEYnk1Zms0VGNTOXExdmhvaWc1YnFnUkpfZnN0SXhGZDVYWUc5UERpd2RDYmdmeTFfQ2xZbXB0U3NqUVdkSkRNaEFFMzJfZG5fMEZtNVE?oc=5
-
-- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
-  India’s ‘Cock
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
-
-- ‘We will go to war’: Pakistan threatens India as the country faces a water crisis | India News - Hindustan Times
-  Pakistan threatens India as the country faces a water crisis.
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXNnMFRhVGNsYURpX0hwWUtsRlBsOHN5UUIyTllqeUV2VVJteDhSRENMT0V4ejRiYjVrNlVJbFl4T3pCSHJYUlhXMjdhV3pwZk12ZzBWcGhTSC0yMjUzWHpKVWdTZXF1TURDaVlOUWZxTEJIdmQ2RzVCU2lmZ3FqUHh5Q3B0YTVGeEhMRjQ0azFuMmNiX3JmYXpRSTVxMk5Oc3E2dFl4c0FQX1pqdXM0Slg4YnpscEwtMVFCQ1luSVNQR1M4R2w1Y1ZtelRpU2I2ZFlGMXdOSFjSAd4BQVVfeXFMUF9aTVhVQkhBcWphWmZoOEdBbTlXdE1DcGpCbWRNRmJKT0h4ckk3UTI3UVhZU01WTFBWM3FLWE5XaExJN1lDaGp2UXd2WWREaVZsRE5aa3lTMm9QTUFNRW1RZjR4ZXJVZktENlVxbG1nbFcwNmFNTTF1Y20wLWdkY1V6OVhyQWYzTkxLcnFwc2hRbS1lVDNvV0lhbWxrcjRCN3ZuaHBfOGhhR0hMYTlqRFlJVzdsUXN3YVpRRGd6bjJad0pIMjhmTTlCaEo3cjA2NUF0djhOTWhySjJmZWN3?oc=5
-
-- Centre Amends Rules For Receiving Foreign Funds - NDTV
-  Centre Amends Rules
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpUMnFXa25hU0stODdPdUlhLWE4R1hQWUF5WDB1eFVMLVZvUjFiejAzVWxRckZuZVBXdjZmdUhhd01oWFlDY1JkdnpTSDlkTzhObnhqdGcza0ZJMnBoTFNCcjFtcXdSdDJ3NFlUNzJqLURVOTVMeGtmVVpnbGhxVTFZSHJPZEV1YkoxeU5Va0FLQdIBmgFBVV95cUxQeUlHSmpKaFZRd2VBSUJ2dnZRUHZaYmNETGF4V2szb1VTZHBndVhyZEZPaVVNOFV4TW5jLWRXWjVCb0JRMzdlVk55bjI2b0JWa1BwR0ZfZ29DSlY1dWUzOWlLeUtZTTFhZXZRNXB4Y2puckdTNUJDNTVTNkFOZ0NHdUNzMVBIOXlFOTUtR2VSNXdMVmhMQzZGVEJn?oc=5
-
-- U.S. notifies sale of support services for India’s Apache helicopters, M777A2 howitzers - The Hindu
-  U.S. notifies sale of support services for
-  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFVYaUNveG53R1NjaTRXUUNHLWozOUU2eVJCRWhOV1ZCa25ibW9rVXMtQ3hxaGU0U0dsa1lYQnJ3WG81Q19yaFlSQUhwQS1jdzBLSU9mWDJiaW5vT2ROV0FUM19SQnFmVmJsYlY5ZUx6cG04YzdMSHlnVUJaT2RRZXhtNm11cHg2OUExbzA1aHZkYWtBM2M3dmNGSTQxaVhnVWk3VHZtNFZyeDBQSzdhWFhDMXJzdURDUTI2QV9PbWJWS2U5U2hiWXBNSjdrd1J4cDBjU19hMS1BQdIB4AFBVV95cUxQVEktemlkRzROWDhnVFJ4ZDVxM1EweEZJUkRZaGNqNlBzMncwS2Z1ZHM4RlF1bTJiM0hwUXZuNHVoNDZFRkpqb1pjVmlOSzl3SHlucVZMZHVQVWhZOXUybTIxV3N2alNZZHZ2cVBYMGFCRWdhVk1ZRXJpSFRXVHE5bUxzelBPWnE0TjgySVNWcEtxNTkySURvdWY4bERYRVlSWl9NaEdoQTczdzlLN3VpbTdzVlFqY0xnZ3BhMmVnWjVRUzU0V3phNDlJNzg3dEU3T3NwMGItZTZnVlNCMVVtOQ?oc=5
-
-- Lucknow Fire Tragedy: Rajnath Singh Says "Responsibility Will Be Fixed" - NDTV
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0lfb1U4MGNwMUxBRjlwX2Y0dVVzeGRGMUR4RldGN2VjZW1ySUNBSzRSdjJtakg4Vm92V2FnU0EyOEtPcUN2YlFXTEZQelc2V0dLNmdUZnNST1BDckhtdXNRTTJ3NVpBdE5zZlo3aEk0Yi1sdUlVNlFiVFhueFdETXgxNm4tWkhQRlFNbUpuQmR0QkRiVmtaTFpLTjUzS3E3UWtRYUkzUzR0ZTQ4UXfSAbYBQVVfeXFMTUkwekN6R3BULUZSTFZwUjF0STY0Mm5mbXRHNmtaOExidDFRRVh4NkRJUzVsSzFWSklacXppLU52aWwzYzVhbWFmeXZvc25IMGdUbzBSUkc4bzlTMXVnWE1wWElxa21pS0hEYnk1Zms0VGNTOXExdmhvaWc1YnFnUkpfZnN0SXhGZDVYWUc5UERpd2RDYmdmeTFfQ2xZbXB0U3NqUVdkSkRNaEFFMzJfZG5fMEZtNVE?oc=5
+- India, China Review Bilateral Ties, Note Progress On Normalisation - NDTV
+  India, China Review Bilateral T
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHREUDcycDczX2ttTTlIc2JKa0kxNEJQTWxoYUtMay10R1Fhdmg2bTQzU3kzYW5sLUlxdmk5T0t3eXNYaGI5M3l2MExSOEVEVEZGUTEtN1F5THFmVmJjZlNZRDZBYVZjMzFoVXkydXJuNUVBUGtYdGM5MGo2OHZyVUNZeS1FWl85S1FGNU1CTXR0cGRhZmFVRlZXUHFLVDJ6S1VBamhhYXPSAbABQVVfeXFMTXZoaXF2ZGpCRHBQUkVYTVBPNGtFczVoUUd4bTZiUmJxSEt1dnV4YlJxTThtTmRral91NmY4N0dLNUVPRFZiYUxHRGp1VXVrZ2FxOElCaC16alhncUI0dnFBalRWc0hsWU04ZGhTWTVNaC1BQlVlY2prY0dzcEdtVGE1dGp5WWU5Z3JieWZ0RVBvNzBzaUFuVmpkY2xCY1BYbkpRdlBnaW5seU5qNWpFb2w?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +169,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-22 20:42:55 UTC_
+_Last updated: 2026-06-23 02:46:29 UTC_
