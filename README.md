@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- ‘If we are Kafirs, don’t use roads built by us’: Madhya Pradesh Minister Kailash Vijayvargiya sparks row
+- A software engineer, a 10-rupee question, and a website that tracks everyday corruption in Tamil Nadu
   
-  🔗 https://indianexpress.com/article/india/if-we-are-kafirs-dont-use-roads-built-by-us-madhya-pradesh-minister-kailash-vijayvargiya-sparks-row-10752513/
+  🔗 https://indianexpress.com/article/india/software-engineer-website-tracks-everyday-corruption-tamil-nadu-rs-10-question-10753412/
 
-- Instagrammer’s video on RSS lands him in Rajasthan Police custody, Congress asks: ‘Is there a new secret law?’
+- Railway Board approves new terminal station for Ahmedabad-Okha Vande Bharat train; Check details
   
-  🔗 https://indianexpress.com/article/india/instagrammers-video-on-rss-lands-him-in-rajasthan-police-custody-congress-asks-is-there-a-new-secret-law-10752516/
+  🔗 https://indianexpress.com/article/india/railway-board-ahmedabad-okha-vande-bharat-new-terminal-station-sabarmati-stops-timings-check-details-10753262/
 
-- From ‘suspicious’ online activity to ‘Jaish links’: Behind 30-year-old woman’s UAPA arrest in Jaipur
+- ‘Hope it will work’: Ajit Doval backs US-Iran deal with ‘cautious optimism’
   
-  🔗 https://indianexpress.com/article/india/from-suspicious-online-activity-to-jaish-links-behind-30-year-old-womans-uapa-arrest-in-jaipur-10752517/
+  🔗 https://indianexpress.com/article/india/ajit-doval-brics-special-coalition-us-iran-mou-10753149/
 
-- NEET re-test: In Bihar ‘dummy candidate’ racket — MBBS students, biometric verification personnel
+- Minister George Kurian resigns as BJP overlooks him for Rajya Sabha term
   
-  🔗 https://indianexpress.com/article/india/neet-re-test-in-bihar-dummy-candidate-racket-mbbs-students-biometric-system-personnel-10752512/
+  🔗 https://indianexpress.com/article/india/minister-george-kurian-resigns-as-bjp-skips-him-for-rajya-sabha-term-10752863/
 
-- Kashmiri Pandits visit Kheer Bhawani temple for mela, welcomed by residents, leaders
+- India News LIVE Updates, 23 June 2026: Minister George Kurian resigns as BJP skips him for Rajya Sabha term
   
-  🔗 https://indianexpress.com/article/india/kashmiri-pandits-visit-kheer-bhawani-temple-for-mela-welcomed-by-residents-leaders-10752689/
+  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-june-2026-mp-cm-land-probe-lucknow-fire-iran-sanctions-10752736/
+
+- Amazon starts testing AI-powered Alexa+ in India ahead of wider rollout
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-starts-testing-ai-powered-alexa-in-india-ahead-of-wider-rollout-10753240/
+
+- Meta halts AI training project tracking employees after internal security lapse
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-halts-ai-training-employees-computer-activity-10753162/
+
+- PwC chairman pushes back on fears of AI-driven mass layoffs, says AI is adding more jobs
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/pwc-chairman-pushes-back-on-fears-of-ai-driven-mass-layoffs-says-ai-is-adding-more-jobs-10753088/
 
 - Oracle sheds 21,000 employees while ramping up AI investments
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-glm-5-2-china-open-weight-ai-model-10752010/
 
-- Samsung looks to bring One UI 9 to more devices after Galaxy 26 beta rollout
-  
-  🔗 https://indianexpress.com/article/technology/mobile-tabs/samsung-testing-one-ui-9-more-devices-after-galaxy-26-beta-10751874/
+- Personal guarantors find fewer escape routes under corporate insolvency
+  Recent rulings indicate that personal guarantors of corporate loans face increased liability risks when companies default. Legal changes stress that these guarantees remain enforceable despite corporate insolvency
+  🔗 https://www.livemint.com/companies/news/personal-guarantors-face-greater-risk-under-corporate-insolvency-india-bankruptcy-law-11782191201615.html
 
-- Swimming versus running: Which is better for your heart health? New study offers answers
-  
-  🔗 https://indianexpress.com/article/technology/science/swimming-vs-running-heart-health-study-benefits-10751474/
-
-- Microsoft to end support for Office 2021 soon: Here’s what it means for users
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-to-end-support-office-2021-10751568/
+- India among EQT Asia's strongest exit markets, says co-head Hari Gopalakrishnan
+  EQT sees India as a key growth market, driven by underpenetrated buyouts,
+  🔗 https://www.livemint.com/companies/eqt-asia-hari-gopalakrishnan-on-india-growth-ai-and-private-equity-opportunities-11782184146432.html
 
 - JSW to flex its own tech for e-buses in fierce race for govt orders
   JSW Group is developing its own electric bus platform, vehicle control unit and battery packs. The move supports aggressive government tender bids and marks a more self-reliant strategy.
@@ -52,33 +60,25 @@
   The deal could attract private equity and strategic investors as interest in profitable manufacturing
   🔗 https://www.livemint.com/companies/auto-components-maker-interface-auto-majority-stake-300-million-valuation-private-equity-strategic-investors-11782106677175.html
 
-- US FDA sends SOS to Indian drugmakers for critical cancer medicine amid US shortage
-  The US FDA is trying to secure supplies of ifosfamide, a cancer treatment in short supply due to manufacturing disruptions. IDMA is gathering information on potential
-  🔗 https://www.livemint.com/companies/news/cancer-injection-shortage-medicine-us-fda-indian-drug-manufacturers-ifosfamide-idma-alkem-laboratories-gls-pharma-11782031345901.html
+- FIIs remain net sellers in Indian stock market for 12 months in a row. Can the trend change?
+  FIIs purchased equities worth  ₹31,442.87 crore and
+  🔗 https://www.livemint.com/market/stock-market-news/fii-net-sellers-in-indian-stock-market-for-12-months-in-a-row-can-the-trend-change-11782201684996.html
 
-- Week after Sarvam, Naukri founder’s AI startup investments double in value
-  Naukri founder Sanjeev Bikhchandani said his AI startup investments have more
-  🔗 https://www.livemint.com/companies/news/week-after-sarvam-naukri-founder-s-ai-startup-investments-double-in-value-11782136277455.html
+- Is AI euphoria an overlooked risk for markets beyond geopolitical shocks?
+  As AI stocks surge, experts warn of the risks associated with excessive optimism. Transitioning to a value-driven investment strategy focused on fundamentals rather than narratives is crucial. Discover the balance
+  🔗 https://www.livemint.com/market/stock-market-news/is-ai-euphoria-an-overlooked-risk-for-markets-beyond-geopolitical-shocks-11782201205366.html
 
-- Stocks to watch: TCS, BEL, Vodafone Idea among shares in focus today; check list here
-  Sensex advanced 291.17 points, or 0.38%, to end the session at 77,094.07.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tcs-bel-vodafone-idea-among-shares-in-focus-today-check-list-here-11782180279104.html
+- Is Kirloskar Oil Engines stock running ahead of fundamentals after 25% jump this week?
+  Kirloskar Oil Engines shares hit a 52-week high after winning a 192MW data-centre genset order from HyperNext. Strong FY26 numbers
+  🔗 https://www.livemint.com/market/mark-to-market/kirloskar-oil-engines-data-centre-order-stock-rally-explained-11782197257386.html
 
-- Stock market today: Gift Nifty hints muted start; US-Iran peace talks to crude oil prices - 8 stocks to buy
-  Sensex and Nifty gained on Monday, driven by optimism over US-Iran peace talks. Asian markets traded lower. Experts recommend a 'buy on dips' strategy for Nifty as key levels remain
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-iran-peace-talks-to-crude-oil-prices-8-stocks-to-buy-11782178948481.html
+- Jio Platforms IPO: RIL to not levy royalty for 'Jio' brand
+  RIL has decided to depart from a common practice among Indian conglomerates, in which promoter entities charge a
+  🔗 https://www.livemint.com/market/ipo/jio-platforms-ipo-reliance-industries-royalty-jio-brand-fee-tata-group-jsw-group-vedanta-11782190974298.html
 
-- Asian markets today:  Nikkei, Kospi trade lower amid rebound in crude oil prices
-  Japan’s market declined 0.5%, while S&amp;amp;P 500 e-mini
-  🔗 https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-trade-lower-amid-rebound-in-crude-oil-prices-11782178465688.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 23 June
-  Gift Nifty was trading around 24,130 level, a premium of nearly 6 points from the Nifty futures’ previous close. The trends on Gift Nifty also
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-23-june-11782179406705.html
-
-- Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 23 June 2026
-   Vaishali Parekh recommends three stocks to buy today — Hindustan Zinc
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-23-june-2026-11782177101686.html
+- IDFC First Bank share price falls over 2% amid weak sentiment in Indian stock market
+   IDFC First Bank share price has risen 14% in one month and has rallied over 30% in three months. The banking stock has fallen 7% in six months, while it has gained 11% in
+  🔗 https://www.livemint.com/market/stock-market-news/idfc-first-bank-share-price-falls-over-2-amid-weak-sentiment-in-indian-stock-market-11782200253726.html
 
 - Mint Explainer | What the Delhi high court's Telegram ruling means for digital platforms
   The Delhi high court on Friday said the government had sufficient material to justify the blocking order of Telegram. What are the implications of
@@ -100,45 +100,125 @@
   Big Tech is investing billions to revolutionize AI by drastically reducing training costs and enhancing deployment efficiency. As Google and Microsoft shift their focus to selling AI at scale, how is
   🔗 https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html
 
-- Shreedhar Spinners IPO: Check GMP, subscription, price band and other details
-  The company aims to raise Rs 30.68 crore through an entirely fresh issue of 57.88 lakh shares. The price band has been fixed at Rs 51-53 per share, and the shares are scheduled to list on the NSE
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/shreedhar-spinners-ipo-check-gmp-subscription-price-band-and-other-details/articleshow/131923106.cms
+- S&P 500 futures decline after tech sell-off drags down broad market index; South Korea's Kospi falls over 6%: Live updates - CNBC
+  Stock market today: S&amp;P 500, Nasdaq futures dive as tech sell-off outweighs Iran progress. South Korea's Kospi falls over 6%: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5
 
-- Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low
-  The US dollar strengthened Tuesday, driven by expectations of a more aggressive Federal Reserve. Elevated US Treasury yields are also bolstering the greenback. Meanwhile, the Japanese yen is nearing a four-decade low.
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low/articleshow/131923091.cms
+- Sensex down 500 pts from day's high, Nifty below 24,000: Sharp sell-off in Asian markets among key factors... - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMijgJBVV95cUxOQjRLTkxreHBrSTJvc053TWpRUEhuNGFIZkJ0T05Ca25wbGhkOWpuNzN5ZzJraWFvX0FqOTFzQWFjZXJvM2Q2VUpHZFZwM2YzNGs1dTI2TmdSQzEtcklNUElQbThhT3JRd2
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxOQjRLTkxreHBrSTJvc053TWpRUEhuNGFIZkJ0T05Ca25wbGhkOWpuNzN5ZzJraWFvX0FqOTFzQWFjZXJvM2Q2VUpHZFZwM2YzNGs1dTI2TmdSQzEtcklNUElQbThhT3JRd2ZhdWQ5clFwWHlzQzVfczBxblcxZm1UTmVnNl9PdGN6Q1libGhTZ0VObHVEZ0xYcXRYLTA2YXZIenVjTVhJN3hQRWtubEtiLXVwd3Z1V3g3bHFZY0pEVGtHeDVZZG9VajR0NnFhNjZmdGVrY2xnRktNSlBiV1JybVpLUVJxd1FyOTNwVFJaNEFUeTUzXzd4TTVMLVRCTnZaNGJMelJVSzJyYzdnRFHSAZMCQVVfeXFMT3Fwbk1fNU1GZGpldlU2aWlZZFNCQXR0SWo3aXBrMVhoaWE1ck5QdVgxUzdtT3o3UGU5dkRYZHBiUXFDSG5kT3Jib2NBdFgxelRsc2trWllKSkZydUlPTUtDVVZsUTEwZWRTTjhKbk45S3p1bWZxb0o0Q004MFVJNGVCTE9HMDF2RFB6RUNENkJLQzk1dmRTQjY4Z21oY3M5Z25XTG9vUUFzc1BudkNYdXNJX2t0Wm0xU2VhREc5aWxVbWttMWx6OXdXNU9Ka2xNLWtvZi1pVzJTWDFfQU1jZGFReUNWeE5IbGR0N0VZaTZYdE9LM2I4Uzc3WXN3MlhhV3VoVUw3S19YLWxXLVpPbHNnYXc?oc=5
 
-- Advit Jewels IPO opens today. Check brokerages review, GMP, subscription and other details
-  The SME IPO is being offered at a fixed price of Rs 138 per share. The shares are proposed to be listed on the BSE SME platform on July 1.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-ipo-opens-today-check-brokerages-review-gmp-subscription-and-other-details/articleshow/131923074.cms
+- High Frequency Traders Expand Push Into Currency Options Market - Bloomberg.com
+  High Frequency Traders Expand Push Into
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRjNuZlp4ZnhVZzUwUDFUOVEzaUMtUFdJNG1Eb05jMDVnU3F6STV0aG45R1NpdUIxc0xXVzMtc19zRlZqTG1hekRfNWIyb2VoVzJTcF9adXdIcUVxQlFDdGxBRXFmZmxzeVFuQTlRWVdFUHJhM2hXTWZ4OWx3MVlrQ3FiZ0I4MGV4MHROZnFZbG5XeE05QWlDXzZPaHZFU0t0UlAyamNaSGEzcnN1Qml1bHNHN2w?oc=5
 
-- Oil Price Today (June 23): Crude oil near $78 per barrel as investors track flows through Hormuz. What’s next?
-  Brent crude futures rose 24 cents, or 0.38%, to $78.15 a barrel. U.S.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-23-crude-oil-near-78-per-barrel-as-investors-track-flows-through-hormuz-whats-next/articleshow/131923039.cms
+- Stock market selloff explained: Why investors are suddenly worried By Investing.com - Investing.com
+  Investing.com: Why investors are suddenly
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHNHRE16TEoteFhnWmw2NHRGeTc5eHktU2djY25aOEh4VS1qN0V0WjNhWUZPNzVVWF9rU0J2cWRHVGFpMnctNy1qTDRoY1R3MGtRaG1YRUpEYmlqOWF4ZlNIMDhUckdVR1FBS0hKZm9Lb3dHZmh6eHVhaEo0UjlQYjhnQkJQNEV5bjFYbnhFS203a3dCZ0twU1BkTDMzWEhSdktCU2pKZjJwUGZkeC1lWDhid3BwaElmOWRKa2txZw?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tcs-jsw-infra-share-price-23-june-2026/liveblog/131923026.cms
+- The future of oil prices may depend on China - CNN
+  The future of oil prices may depend
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5
+
+- Dollar hits one-year high on Fed hike bets; yen nears 40-year low
+  The US dollar surged to a year-high on Tuesday. Traders are anticipating rate hikes, with major banks revising their forecasts. Meanwhile, the Japanese yen teetered near a four-decade low.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-dollar-hits-one-year-high-on-fed-hike-bets-yen-nears-40-year-low/articleshow/131930925.cms
+
+- Global Market | European shares slip on Fed hike bets, tech drag
+  European markets opened lower Tuesday. Basic resources and tech sectors led the decline. Investors are bracing for further interest rate increases globally.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-on-fed-hike-bets-tech-drag/articleshow/131930114.cms
+
+- Slowing rural incomes could weigh on consumer demand: Dhananjay Sinha
+  Rising inflation, reverse migration from cities, and uncertain monsoon threaten to dampen rural demand. Consumer companies may face squeezed purchasing power as prices climb and real wages stagnate.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/rural-demand-faces-fresh-risks-as-wage-growth-loses-steam-dhananjay-sinha/articleshow/131929794.cms
+
+- Defence valuations 'obnoxious'; private banks look strong: Sandip Sabharwal's full market playbook
+  Investor Sandip Sabharwal cautions that while the defence rally is real, many stock prices have outpaced reality. He favors Bharat Electronics but finds many small-cap defence stocks "obnoxious" Pharma offers decent but unex
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/defence-valuations-obnoxious-private-banks-look-strong-sandip-sabharwals-full-market-playbook/articleshow/131929783.cms
+
+- Why is market falling today? Sensex tanks 700 pts, Nifty below 23,900; 5 key triggers behind D-St selloff
+  Sensex and Nifty saw substantial losses and wiped out nearly Rs 4.57 lakh crore in investor wealth. This decline was largely influenced by weak global cues, particularly a sharp crash in South Korea's Kospi index. Major Indian
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-tanks-550-pts-nifty-tests-23900-key-triggers-behind-nearly-rs-5-lakh-crore-selloff/articleshow/131929692.cms
 
 - India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
   India’s ‘Cock
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
 
 - India News Highlights, 22 June 2026: PM announces Rs 2 lakh for Lucknow fire victims, Mamata dumped by Trinamool MLAs - The Indian Express
-  The Indian Express has published a list of India's top news stories of the day. The list includes
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMNIB0gFBVV95cUxPeks3RHVJazlFSm5VT0lCNkRiT0pRQ0Q2R3JJNER0Vk5qUVl5Q21BRjhEaVZfMjZTTmZZWl9BRjZSYUtRS0dkMW1rZ0JWdnNvMWJ0M1YxcjBWdHNFazhsakZ6X3gwdWtLZGhjM1hjMXc5d3llRmtRMzhKYWJ5ZEJPNWNOWlJKZkZIcFdDX1VwY1ZSdzJsQ2VOb3lDcTFTbjh5WnJhbGZTMi1UaDlQdFRCTVJ5TC1IeVBjb2VwaUY4MVNvaVY0bm0xVWU5ckJGVlJWYWc?oc=5
+  The Indian Express has published a list of top news stories of the day. The list was compiled by
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMA?oc=5
 
-- NSA Doval meets counterparts from BRICS grouping, discusses West Asia and India-China ties - The Hindu
-  NSA Doval meets counterparts from BRICS grouping, discusses West
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHBkWl9RbEdrLXlpbmhYUVI0anB4eUc3X3BXVFlBZTRTSm1fdm1PTGk2X0lxRHgtalE1QTE4czRFbjQ5ZG9Gb09LUUxzZlpjekc0VmFOVnFocEJhUG83VVVvY0I2OW56b2FNQ0gzWjFZYmhqZTA3SlhicnBiMW1iMGlHTnlLdktzVk1uNWtoWXNHNEU5LWFmOUQ1LU1KQVd2NF9oTWNUdnR1QmxXSW4wYkFKRl92VEhTbU1NdzN0TzM1d0FyMVE2OEZ4SlVudlBPMUVVcTh0R0pfTm5wQXdLdllR0gHoAUFVX3lxTE8zYkZaXzEyN2U2RzNRdjhubnA5aGR1a2t3Z0pQZzlBQm9GUHg3NWdWM3owb1ZyUXBPSmlUNGJJeGpUZ2t4TG5OX291Nzh1cWp3U1ZTN3lqNzE5eldOUVZyYkdtTi1NNF95dVpXdGs3cG1zM25ONkRJUmNudUV3YUtvS2ZNYVlfTm55SmV5Zmg0YklETXBhQ0hWMGNCQ2IxSlhyMVkwb0R3RTl1UlVRZzY1REIyUHdURTdTd0loVXRQcks4cTdTWk15T3pzZjJfMVh3SGxyZVZwVldzV2pjc04yVHNMYW0xZXo?oc=5
+- Begusarai gang rape: Bihar sexual assault revives painful memories of 2012 Delhi case - BBC
+  Bihar gang rape revives painful memories of 2012 Delhi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VY2FxRmlxRWJPSmRMZ3p3U1RQYWdseVJXZ2FEQVNpMmp1NjVzbDBlUzRfWFNDeVJhWmUtM0tlS0RwemVaS3MxamNfZlR1eDEzLWJHZkR4VnM5UQ?oc=5
 
-- Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms - The Hindu
-  Wang Yi calls for India, China to accelerate resumption
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLWMwalpnNndvX010M04ycUszbElkLUUyMnhTTE4wNEZXM1FYRy1faldlTXpHb283TjlJMDlnS1RabHF0Q0Zuc2J6YkZ4OTJZWm54RkNsWExPaUY2SlJER0w2U2F4UzAxVlRhWjI3V1d0M0dPTXpDR0FPaWtSZWg5SFZNVjZ4WmQ3TWRtS21TZHhrdnVsa3h3cmFOVnJfTXpkVEc1MGhYUTh0VnRTNXRkS3lUM3VjdUNLQ3FTSU1mZmlTaDJjMGxvYng5NWRiY0JneXpRbFNfSzB1WlVWUFlpdFJ2a9IB6gFBVV95cUxPZlJrN29KTklKeHUzNTBJV296NlE2T25kWUUtZUFaMzNienhrbEZpOXJOVFhiRzU0VHJjNlJhRWRCSnIzbENISFc0VEVTZUo2MzhKLU1SS1VRXy1ZLXNNb1hWNkRfa3dETTY1ZzhqQmJqNVpnU1V6YW5xS0FJcDZ0S0pXV2Uzdml6RXVvOV85SjhKdHdzQ29DT3B6eGFwaDVQbnJFaEl3cS0zZDBwRUt6bmpGbUMyWE9xT0F0OTZUR1ptc1BOMkl3TXozcElBdmtURm5QMF9oQjdRbkJpb1d0Y0l0dWV2eFh1TXc?oc=5
+- "Rahul Gandhi Scaring Students, Wants Anarchy": Education Minister's Big Charge - NDTV
+  "Rahul Gandhi Scaring Students,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0t2a1NxQjVGRS1UNk1uOVZaNnRRczJaMUxZbFNEZUpYOWdMRjBDQnRVYVNXRThySW1qRjM4Zl9sejV5OWR2a1dpeGZTbjJZS1ZUaGZLMGRCRUg0U2VoSmUtQ1pXcVo2U3N6ZlFKQlQzWHNSUGVGUTZkbDBuYzJtdWxRb1pGWGxSNWM2S0I4ZUlSWUw1UGRRNE1Va0ctMS1LdkJ3cHdNaWw4aWlnUUpWSmtqUHhUZw?oc=5
 
-- India, China Review Bilateral Ties, Note Progress On Normalisation - NDTV
-  India, China Review Bilateral T
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHREUDcycDczX2ttTTlIc2JKa0kxNEJQTWxoYUtMay10R1Fhdmg2bTQzU3kzYW5sLUlxdmk5T0t3eXNYaGI5M3l2MExSOEVEVEZGUTEtN1F5THFmVmJjZlNZRDZBYVZjMzFoVXkydXJuNUVBUGtYdGM5MGo2OHZyVUNZeS1FWl85S1FGNU1CTXR0cGRhZmFVRlZXUHFLVDJ6S1VBamhhYXPSAbABQVVfeXFMTXZoaXF2ZGpCRHBQUkVYTVBPNGtFczVoUUd4bTZiUmJxSEt1dnV4YlJxTThtTmRral91NmY4N0dLNUVPRFZiYUxHRGp1VXVrZ2FxOElCaC16alhncUI0dnFBalRWc0hsWU04ZGhTWTVNaC1BQlVlY2prY0dzcEdtVGE1dGp5WWU5Z3JieWZ0RVBvNzBzaUFuVmpkY2xCY1BYbkpRdlBnaW5seU5qNWpFb2w?oc=5
+- India records more than five lakh organ donation pledges, reflecting growing awareness and commitment - News On AIR
+  India records more than five lakh organ donation pledges, reflecting growing awareness and
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3ZRZzJYdC1iTjdkZmFnaDNZNUU0YVJLblNwMVdhYVhaTFdLNmJOeUZCUkpsMWdtY0EzaTRwTk52M3pQNm5QWWZLX01hc2pabUNqOFZSNVNPMU1pYlN1TW9JVC1mWWlUMHhkNEtkOENaYVByTmRGb3FWYUNWYkxsdzZ5Vk5aMklNTGVPcDgyc2RCQ3RLaWR1QmFNZGNaenpYRUtZMS1uNElMX3drT1ltRmFBdGJxaTNoMWRzYkh3Q3J4WlJ2?oc=5
+
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
+
+- India News Highlights, 22 June 2026: PM announces Rs 2 lakh for Lucknow fire victims, Mamata dumped by Trinamool MLAs - The Indian Express
+  The Indian Express has published a list of top news stories of the day. The list was compiled by
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMA?oc=5
+
+- Begusarai gang rape: Bihar sexual assault revives painful memories of 2012 Delhi case - BBC
+  Bihar gang rape revives painful memories of 2012 Delhi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VY2FxRmlxRWJPSmRMZ3p3U1RQYWdseVJXZ2FEQVNpMmp1NjVzbDBlUzRfWFNDeVJhWmUtM0tlS0RwemVaS3MxamNfZlR1eDEzLWJHZkR4VnM5UQ?oc=5
+
+- "Rahul Gandhi Scaring Students, Wants Anarchy": Education Minister's Big Charge - NDTV
+  "Rahul Gandhi Scaring Students,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0t2a1NxQjVGRS1UNk1uOVZaNnRRczJaMUxZbFNEZUpYOWdMRjBDQnRVYVNXRThySW1qRjM4Zl9sejV5OWR2a1dpeGZTbjJZS1ZUaGZLMGRCRUg0U2VoSmUtQ1pXcVo2U3N6ZlFKQlQzWHNSUGVGUTZkbDBuYzJtdWxRb1pGWGxSNWM2S0I4ZUlSWUw1UGRRNE1Va0ctMS1LdkJ3cHdNaWw4aWlnUUpWSmtqUHhUZw?oc=5
+
+- India records more than five lakh organ donation pledges, reflecting growing awareness and commitment - News On AIR
+  India records more than five lakh organ donation pledges, reflecting growing awareness and
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3ZRZzJYdC1iTjdkZmFnaDNZNUU0YVJLblNwMVdhYVhaTFdLNmJOeUZCUkpsMWdtY0EzaTRwTk52M3pQNm5QWWZLX01hc2pabUNqOFZSNVNPMU1pYlN1TW9JVC1mWWlUMHhkNEtkOENaYVByTmRGb3FWYUNWYkxsdzZ5Vk5aMklNTGVPcDgyc2RCQ3RLaWR1QmFNZGNaenpYRUtZMS1uNElMX3drT1ltRmFBdGJxaTNoMWRzYkh3Q3J4WlJ2?oc=5
+
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
+
+- India News Highlights, 22 June 2026: PM announces Rs 2 lakh for Lucknow fire victims, Mamata dumped by Trinamool MLAs - The Indian Express
+  The Indian Express has published a list of top news stories of the day. The list was compiled by
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMA?oc=5
+
+- Begusarai gang rape: Bihar sexual assault revives painful memories of 2012 Delhi case - BBC
+  Bihar gang rape revives painful memories of 2012 Delhi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VY2FxRmlxRWJPSmRMZ3p3U1RQYWdseVJXZ2FEQVNpMmp1NjVzbDBlUzRfWFNDeVJhWmUtM0tlS0RwemVaS3MxamNfZlR1eDEzLWJHZkR4VnM5UQ?oc=5
+
+- "Rahul Gandhi Scaring Students, Wants Anarchy": Education Minister's Big Charge - NDTV
+  "Rahul Gandhi Scaring Students,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0t2a1NxQjVGRS1UNk1uOVZaNnRRczJaMUxZbFNEZUpYOWdMRjBDQnRVYVNXRThySW1qRjM4Zl9sejV5OWR2a1dpeGZTbjJZS1ZUaGZLMGRCRUg0U2VoSmUtQ1pXcVo2U3N6ZlFKQlQzWHNSUGVGUTZkbDBuYzJtdWxRb1pGWGxSNWM2S0I4ZUlSWUw1UGRRNE1Va0ctMS1LdkJ3cHdNaWw4aWlnUUpWSmtqUHhUZw?oc=5
+
+- India records more than five lakh organ donation pledges, reflecting growing awareness and commitment - News On AIR
+  India records more than five lakh organ donation pledges, reflecting growing awareness and
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3ZRZzJYdC1iTjdkZmFnaDNZNUU0YVJLblNwMVdhYVhaTFdLNmJOeUZCUkpsMWdtY0EzaTRwTk52M3pQNm5QWWZLX01hc2pabUNqOFZSNVNPMU1pYlN1TW9JVC1mWWlUMHhkNEtkOENaYVByTmRGb3FWYUNWYkxsdzZ5Vk5aMklNTGVPcDgyc2RCQ3RLaWR1QmFNZGNaenpYRUtZMS1uNElMX3drT1ltRmFBdGJxaTNoMWRzYkh3Q3J4WlJ2?oc=5
+
+- India’s ‘Cockroach’ movement camps out until education minister resigns - Al Jazeera
+  India’s ‘Cock
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxORGV2b3RvcUJhNlRtLUt6RnJubnMwdDhhTllDRWRtbFF5bDJYaVBDd2puRWRWQ19hX2ZCMDhKRjFKa19JOEo5eDZiZDFucTcwRmVydl94azZPb0NmMHBYMklMY0tsa1F3RHMzN1lTLU5MLWlSWmZPYkNDcGtFWlNJc0pINTllNFh2eHBBQUNuSmVlbHNMTHcxV0VjMGdxa3hoT29HVHRwYWZETVp4Y2fSAbMBQVVfeXFMTklkakJRQW04dXdTdnJ4TFZLMkg0VU5tNmtKQUlmbDNDcTlmeUFzM3N6ZXRxWlhYVkhpVEtWM2dWMzhRSmhYQkFQdUp6YkVGeGpWaFBvbDNBT0JRb2xycHk4N1lLVlcybE5IM25KMVdaRjVCU1VFS25rVElBWExmTlpGM2ZxbW9XYW9sc2FSYlNZRkliVjlXTjFtbURlWHFFUUZXZWd5bDg1Wlc3U2I4c29xaXM?oc=5
+
+- India News Highlights, 22 June 2026: PM announces Rs 2 lakh for Lucknow fire victims, Mamata dumped by Trinamool MLAs - The Indian Express
+  The Indian Express has published a list of top news stories of the day. The list was compiled by
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEpXNk9BSjVFeThobU1EYURFQ0JidGpEYjVtYnlUeDF0VzhPb1h4YlRpLVQyMTdMb3FzMzJxNVVMVmJQaFJqSll0SFNGMUpqWTdyb0FGcmhWTGRIYnRaajJMQjNENGVoclAwaG5ERTRfQ0hjQWhraHJaVDJTTFN5NGtodkNyZjh2d0ZYUWliblBSa2cxOThoZTRYNzlNaVI2eXFzc29TanlaSzFzOFh1TVlwY1R0NWdlR2FmT1ZEOFpGaHIzWTFsY00wMA?oc=5
+
+- Begusarai gang rape: Bihar sexual assault revives painful memories of 2012 Delhi case - BBC
+  Bihar gang rape revives painful memories of 2012 Delhi
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VY2FxRmlxRWJPSmRMZ3p3U1RQYWdseVJXZ2FEQVNpMmp1NjVzbDBlUzRfWFNDeVJhWmUtM0tlS0RwemVaS3MxamNfZlR1eDEzLWJHZkR4VnM5UQ?oc=5
+
+- "Rahul Gandhi Scaring Students, Wants Anarchy": Education Minister's Big Charge - NDTV
+  "Rahul Gandhi Scaring Students,
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPY0t2a1NxQjVGRS1UNk1uOVZaNnRRczJaMUxZbFNEZUpYOWdMRjBDQnRVYVNXRThySW1qRjM4Zl9sejV5OWR2a1dpeGZTbjJZS1ZUaGZLMGRCRUg0U2VoSmUtQ1pXcVo2U3N6ZlFKQlQzWHNSUGVGUTZkbDBuYzJtdWxRb1pGWGxSNWM2S0I4ZUlSWUw1UGRRNE1Va0ctMS1LdkJ3cHdNaWw4aWlnUUpWSmtqUHhUZw?oc=5
+
+- India records more than five lakh organ donation pledges, reflecting growing awareness and commitment - News On AIR
+  India records more than five lakh organ donation pledges, reflecting growing awareness and
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3ZRZzJYdC1iTjdkZmFnaDNZNUU0YVJLblNwMVdhYVhaTFdLNmJOeUZCUkpsMWdtY0EzaTRwTk52M3pQNm5QWWZLX01hc2pabUNqOFZSNVNPMU1pYlN1TW9JVC1mWWlUMHhkNEtkOENaYVByTmRGb3FWYUNWYkxsdzZ5Vk5aMklNTGVPcDgyc2RCQ3RLaWR1QmFNZGNaenpYRUtZMS1uNElMX3drT1ltRmFBdGJxaTNoMWRzYkh3Q3J4WlJ2?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-23 02:46:29 UTC_
+_Last updated: 2026-06-23 09:34:01 UTC_
