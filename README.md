@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- Passport a travel document, not citizenship proof: Ministry of External Affairs
+  
+  🔗 https://indianexpress.com/article/india/passport-a-travel-document-not-citizenship-proof-ministry-of-external-affairs-10755937/
+
+- NHAI identifies 595 accident-prone unauthorised parking areas on highways after Supreme Court order
+  
+  🔗 https://indianexpress.com/article/india/nhai-identifies-595-unauthorised-parking-locations-highways-supreme-court-order-10755874/
+
+- B35 bullet train project: NHSRCL begins capability assessment for 350 kmph high-speed train development
+  
+  🔗 https://indianexpress.com/article/india/b35-bullet-train-project-nhsrcl-capability-assessment-350-kmph-high-speed-train-development-10755817/
+
+- VK Pandian’s wife Sujata Karthikeyan likely to enter BJD, sparks debate over Naveen’s succession plans
+  
+  🔗 https://indianexpress.com/article/india/sujata-rout-karthikeyan-vk-pandian-bjd-naveen-patnaik-succession-plan-10755814/
+
 - Passport a travel document, not a proof of citizenship: MEA
   
   🔗 https://indianexpress.com/article/india/passport-travel-document-not-proof-of-citizenship-mea-10755656/
-
-- Bharat Tiwari encounter: Action against officials does little to quell anger
-  
-  🔗 https://indianexpress.com/article/india/bharat-tiwari-encounter-officials-action-10755646/
-
-- Andhra cop arrested for ‘custodial death’ also faces probe into Dalit man’s suicide
-  
-  🔗 https://indianexpress.com/article/india/andhra-police-official-nagaraju-arrested-custodial-death-dalit-suicide-probe-10755530/
-
-- Tarun Tejpal acquittal: Goa questions court’s silence on woman’s ‘character assassination’
-  
-  🔗 https://indianexpress.com/article/india/tarun-tejpal-goa-government-bombay-high-court-findings-tushar-mehta-10755601/
-
-- Arunachal floods: 18 structures swept away, district cut off by landslides; 5 missing
-  
-  🔗 https://indianexpress.com/article/india/arunachal-floods-district-cut-off-landslides-5-missing-10755329/
 
 - Nasa’s plan to sink the ISS sparks concerns over ocean health and legal accountability
   
@@ -40,11 +40,19 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-bravia-trio-home-theatre-launch-india-10755359/
 
+- RBI might have just handed Tata Sons a leeway on listing
+  The RBI has seemingly removed a contentious definition of indirect public funds received by non-bank financiers. This can be seen as
+  🔗 https://www.livemint.com/companies/rbi-tata-sons-ipo-listing-definition-indirect-public-funds-cic-nbfc-11782312752906.html
+
+- EXL to acquire AI data firm iMerit for $310 million
+  The acquisition comes as enterprises increasingly move AI projects from experimentation to large-scale deployment.
+  🔗 https://www.livemint.com/companies/exl-to-acquire-ai-data-firm-imerit-for-310-million-11782310374040.html
+
 - Nila Spaces and IKEA partner for B2B push, eye growth in India’s emerging ready-to-live homes market
   IKEA collaborates with Nila Spaces to tap into India's burgeoning ready-to-move-in home market. The partnership aims to meet the demand for functional homes
   🔗 https://www.livemint.com/companies/news/nila-spaces-and-ikea-partner-for-b2b-push-eye-growth-in-india-s-emerging-ready-to-live-homes-market-11782303542037.html
 
-- Elon Musk became world's first trillionaire on June 12, then watched $363 billion disappear within a fortnight
+- Elon Musk is no longer a trillionaire, but his $957 billion net worth still makes him world's richest person
   Elon Musk's net worth has dropped to $957 billion after a SpaceX and Tesla share slide
   🔗 https://www.livemint.com/companies/elon-musk-net-worth-trillionaire-status-11782295734581.html
 
@@ -52,33 +60,25 @@
   Amazon.com CEO Andy Jassy: "Customers are loving it...”
   🔗 https://www.livemint.com/companies/news/amazon-scales-rapid-delivery-now-to-300-cities-launches-sammaan-program-for-delivery-partner-welfare-11782294699012.html
 
-- Sublime enters travel retail with first airport store at Bengaluru Airport Terminal 2
-  Sublime has opened its first airport store at Bengaluru Airport's Terminal 2. The store offers
-  🔗 https://www.livemint.com/companies/news/sublime-enters-travel-retail-with-first-airport-store-at-bengaluru-kempegowda-international-airport-terminal-2-11782291110739.html
+- Micron Technology earnings in spotlight as investors look for signs of sustained AI demand
+  Micron Technology shares dipped 1% to $1,028 amid high expectations for fiscal Q3 results. The company, valued above $1 trillion, faces concerns over market sustainability and high val
+  🔗 https://www.livemint.com/market/stock-market-news/micron-technology-earnings-in-spotlight-as-investors-look-for-signs-of-sustained-ai-demand-11782320631876.html
 
-- Indigo Paints presses the accelerator, puts growth ahead of margins
-   Indigo Paints will accept a 2-2.5 percentage point hit to gross margins as it ramps up spending on trade and influencer marketing to chase market
-  🔗 https://www.livemint.com/companies/indigo-paints-turns-aggressive-to-gain-market-share-11782283612806.html
+- Reliance Industries share price to be in focus on Thursday. Here's why
+  Karkinos Healthcare completed HPV DNA screening for over 100,000 women in India, expanding cervical
+  🔗 https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-to-be-in-focus-on-thursday-heres-why-11782313951944.html
+
+- Has the SpaceX correction created a buying opportunity? Expert says, ‘stock will be volatile by nature but…’
+  The stock experienced significant volatility post-IPO, with a substantial one-day decline. SpaceX's valuation plummeted by over $600
+  🔗 https://www.livemint.com/market/stock-market-news/has-the-spacex-correction-created-a-buying-opportunity-expert-says-stock-will-be-volatile-by-nature-but-11782308958102.html
+
+- Gold, silver rates today: Comex gold falls below $4,000, silver slips under $60 as hawkish Fed outlook boosts US dollar
+  Precious metals experienced a sharp sell-off on June 24, with gold dropping to $3,980 and silver falling to $58. Factors include a stronger US dollar, rising interest rate expectations, and
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-falls-below-4-000-silver-slips-under-70-as-hawkish-fed-outlook-boosts-us-dollar-11782307750516.html
 
 - CSM Technologies IPO: Issue receives tepid response on Day 01, subscribed 0.26x; GMP signals flat listing
   CSM Technologies' IPO opened on June 24 but saw low demand, being subscribed 0.26 times on the first day. The  ₹146-crore offering comprises fresh equity
   🔗 https://www.livemint.com/market/stock-market-news/csm-technologies-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-26x-gmp-signals-flat-listing-11782306711349.html
-
-- US stock market today: S&amp;P 500, Nasdaq futures rise as tech stocks rebound; Brent slips below $75
-  S&amp;amp;P 500 futures increased by 0.2% as investors remain concerned about the valuation and potential returns from recent capital expenditures in AI
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-tech-stocks-rebound-brent-crude-slips-below-75-11782300799272.html
-
-- Nifty 50 reclaims 24,000: Five market experts predict the index's short-term outlook
-  The Nifty 50 index has surged past the crucial 24,000 mark, driven by short covering and lower crude oil prices. Market experts share their insights on resistance levels,
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-reclaims-24-000-five-market-experts-predict-the-indexs-short-term-outlook-11782301967786.html
-
-- Motilal Oswal initiates coverage on 8 textile stocks, including Arvind and Gokaldas Exports; sees up to 39% upside
-  Motilal Oswal has started coverage on eight textile firms, predicting growth due to global demand recovery and capacity expansions. They recommend 'buy
-  🔗 https://www.livemint.com/market/stock-market-news/motilal-oswal-initiates-coverage-on-8-textile-stocks-including-arvind-and-gokaldas-exports-sees-up-to-39-upside-11782298265932.html
-
-- Can a reversal in global AI trade benefit Indian stock market?
-  Experts propose that India's diverse economy and macro stability might attract foreign institutional investments. With potential shifts in AI stocks, could India emerge as a prime destination
-  🔗 https://www.livemint.com/market/stock-market-news/can-a-reversal-in-global-ai-trade-benefit-indian-stock-market-11782293296198.html
 
 - Built without Nvidia chips, China's LineShine supercomputer just dethroned America's most powerful El Capitan
   China's LineShine supercomputer has topped the TOP500 global rankings for the first time since 2017. It runs entirely on homegrown chips, with no Nvidia GPUs.
@@ -104,149 +104,161 @@
   Stock Market Today: Nasdaq, S&amp;P 500 Inch
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUo1R3gzOGp3TW5ZS3I3ZGdQOEJWdmozUE8yNHRzYWpDLVNfdVZKUGlIdjNYUFFhaDlJQ0Frb1lORDJiSnNFZTNEaHpWZVJOSXNVWmNFSzZxT2dxZHpwYkR1RnItSUdWYk1MSktOc3ltczBpaUY4Q3AtdjZKcWpsMVRkcVBMYXc?oc=5
 
-- Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets - CNBC
-  Nasdaq closes 2% lower, led by Mic
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5
+- Stock market today: Dow rises, S&P 500 and Nasdaq slip as oil prices tumble, AI jitters return - Yahoo Finance
+  The Dow rises, S&amp;P 500 and Nasdaq slip as oil
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODhqa3NjT3Fja0p4emN0SGtZMDQ0c1dhcmgwWGFnYlRYOEpiYXpHVURZdHk4VUpPMHRrNGREOUVCVTRSZ1o1X2JGYVhnMFFDdGZMd2prSG5OQlJBR2hobkVISTgtTUxkYWhMZTRpXzZHS2xpRXBCbXNEV3djMFc4THEwYWh6Tnk1YnZJOGhlMklLbjBfcmhBN1Fmb0xCWVhSajNfeHA0LV9RVFNma1RaZFhFNlJNbjA2RkNZeGdqaHI3OTVvaEVhODg3NHVkbjFXMklYa0V6OFdxb3Vf?oc=5
 
-- Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance
-  Micron is one of the biggest Micron shareholders. Micron is
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTS3FxMWw0MWpkbW9ZMHlFTERzN1VqTmRTY1Q3dmY3UElsZzFybEtJdmhBalJ0ZkVKUm9uOVQ2TXRGdzAyWUNnR09lRmwxNXphZWp5V2I0TVpMaFlmMHh2NjdoVGJLZy1maEZ4ckZESnZzaWVvZW9HVmRQV04tQ2pHdVRRWnNjOTBPT2JpNnFzb3dfUWt1d0tXelI2Z0NiUFowYy1nMGE5VGZYMncxbmY5TDBWMlhtWDcxd1ZKVTBUWFpoMGZ4dy1sVnBENHM?oc=5
+- S&P 500 turns red as chip sell-off returns ahead of Micron earnings: Live updates - CNBC
+  P 500 turns red as chip sell-off returns ahead of
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5
 
-- Polymarket-backed platform boosts funding to root out insider trading on prediction markets - CNBC
-  Polymarket-backed platform boosts funding to root out
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnBNdUdXSGcxeEUzSXZPcWpkalRETWhmVWJ0aVM5Vnk4WWRBSmxRZm9QOVYtSjluTjlYTURkell0bW1LanU1LTFMODEwVVdmZTlGRk02M0M2T1c3NUJHZ2NTT2JFWHBQRkFJaVdjWUJMdTNvR1RCUmJRVzUtY1FHcXlpQXlQOWtsN0liOU9tbF9yMVhtREdISDdSZFY1dUZQcmpLcUI5RXNnMzlRbnVfdkJwa3pxQ3N5Y3pnMndIYm5SSWJvX1RV?oc=5
+- Hormuz Reopening Is Quickly Flooding Oil Markets With Supply - Bloomberg
+  Hormuz Reopening Is Quick
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0stNlNHVmt4cEpNTzZKTHB3a2pNelBXNmVVVG9MeGlYLU1reEFtV3lhS2dvUjYzX1hBM1RzV3BRN1VKcTR6RW02UFFNUmNDNTZTcWJNd0tlZlk0TGVqSDJxNHBzMDN4bnRyc3NiY3dTcEVKb3JBcVBvRXZnZXFVQ05VZlVrX3JQSmdWdnVHRmxNSF91UnFITjBHbmhMN09GTVFnbU1taVlTUnptQnpCSA?oc=5
 
-- Kalshi CEO says prediction market thinking about IPO, but not for this year - CNBC
-  Kalshi CEO says prediction market thinking about IPO,
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1YzSmRRRVhVb05sZ19jZVFTMDFZbktsZ1VMb3dQSWJFZkRBbWF3Qmx5dEJ6ZlVJbGtaMkMwRWRmTXY3V2wwb0R2M0V0d2dsX0dleUZRTTM4MjhxQWM5T1RVTDZHRzNXaVNuX2YyMHUtbkI5QlpPczJZWlZPelByYl82MURqOFo3OUJYbmNFSmVxWlVBZWhMSEw1X0hlUXVnX2VCX9IBqgFBVV95cUxNaTVyVWZZcWJzV3RHRFZmaXQwaUF0aXlNSkd6bTZRV1RxN1dHbW9BNDA0RkR5eEZ5eTBXS2xqcWx0bE5UYk9JV2FJRVpqUU93ZHFYS2I2V2E0S3ZDRFB3Sm1xX01fSXVrSXhLR1NfYVRyZnZLbHVXNkNtcmF3UXRMdzA4R3M0cXJzVEV2dGZUWm01M3BybU42bEplc2FZNHpETEtVOVpVWkwyQQ?oc=5
+- Closing Bell: Nifty tops 24,000, Sensex jumps 790 pts led by IT, realty, banks - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbm
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbmJ2VWtLTDJtak1YU3ZyZkZLS0UwYUVyaDRrYXlNSC1pVU41Qlo1YW1HLWIxS0hLVXpNQ3poVkUtMnhXbDlKeV9DMFJhMHZNblBuZGRscTdjNFVYbTZMTnAwclNOWnFEeWdYdlY2MHluN0xzb2F6MTZLUV9uOVdzd2hWSENnOVkwZmpmTk53elVaQnJzRmVUdU5iVFlZU2VGZWhvT1ROWWhrRnFscVJiLV9Ga9IBmAJBVV95cUxPeEpETllpSWRCbFNZN3JBS0hwZTdydEdZcUYxZW5hVkFnWjZzYUsyaW9WbERnSlZGcC1PdkoxbEtIWXhQX0RPR0d0bE11cmNiUFktVHpiMFN5ZTFwcWRjbnhjemRRbzA0Z0hFd2ltenlMbDlfd2NCV04xaTFvR2ZfM2laV2RONkEtaG9HLVFHUHVxOHNFYmlIUGYyM0ZQVTI2QkxuYThoREFZVXNQMk5tT1pPZjJ6MDlPNThUYjhFb0w0Sm5wbXZib09wQXg3cnJ0MHM0YXMxMEY2T2R5R1p6YUYwWlBSVnJlaUczZVFKR3E4cG5xclk2alJ3RVc5MUl3N3hUX3JRYnRxWnJVRm9sdDZVQ2R4WFdV?oc=5
 
-- US stocks: JP Morgan raises S&amp;P 500 year-end target to 7,800, joins bullish trend
-  J.P. Morgan has elevated its forecast for the S&amp;P 500 in 2026 to 7,800. This optimistic prediction aligns with a recent trend of upgrades from various brokerages.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-jp-morgan-raises-sp-500-year-end-target-to-7800-joins-bullish-trend/articleshow/131970666.cms
+- Nithin Kamath recalls falling for a pyramid scheme, warns retail investors against 'easy money' promises
+  Zerodha co-founder Nithin Kamath shared his past entanglement with a pyramid scheme. Kamath cautioned that making money in the stock market isn't easy.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-recalls-falling-for-a-pyramid-scheme-warns-retail-investors-against-easy-money-promises/articleshow/131973054.cms
 
-- IRFC OFS subscribed over 1.5x by institutional investors; govt to exercise greenshoe option
-  The government’s offer for sale in IRFC received a strong response from institutional investors. The non-retail portion subscribed 1.86 times on Wednesday. The Centre will exercise the greenshoe option, allowing it to sell
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/irfc-ofs-subscribed-over-1-5x-by-institutional-investors-govt-to-exercise-greenshoe-option/articleshow/131970660.cms
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Sensex and Nifty gain up to 1% amid easing crude prices, supportive global cues and optimism over India-US trade talks. Analysts highlight key technical levels for Nifty.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131972069.cms
 
-- US Stocks Today | US stocks subdued as tech steadies, Micron earnings in focus
-  The Dow Jones Industrial Average experienced a slight dip, while the S&amp;P 500 saw a marginal gain at the opening bell. Technology stocks showed signs of recovery after a significant downturn earlier in the week.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-as-tech-steadies-micron-earnings-in-focus/articleshow/131970363.cms
+- Musk’s SpaceX adds billions in debt while cutting interest
+  Elon Musk's SpaceX has successfully issued $25 billion in investment-grade bonds. The move consolidates debt from X and xAI while lowering annual interest costs.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/musks-spacex-adds-billions-in-debt-while-cutting-interest/articleshow/131971973.cms
 
-- FundsIndia raises Rs 44.6 crore through maiden secured NCD issue
-  FundsIndia has raised Rs 44.6 crore through its maiden private placement of secured non-convertible debentures. The proceeds will be used to strengthen its technology platform.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/fundsindia-raises-rs-44-6-crore-through-maiden-secured-ncd-issue/articleshow/131970149.cms
+- ITAT: Accrued interest component on  non-convertible debentures sales is taxable as interest income
+  ITAT has held that the accrued interest component embedded in sale proceeds from non-convertible debentures cannot automatically be treated as capital gains. Tax experts say the decision could trigger greater
+  🔗 https://economictimes.indiatimes.com/markets/bonds/itat-accrued-interest-component-on-non-convertible-debentures-sales-is-taxable-as-interest-income/articleshow/131971655.cms
 
-- Brent crude falls 3%, drops below $75/bbl for first time since US-Iran war began
-  Global oil prices tumbled as signs emerged of increased tanker activity in the Strait of Hormuz. Analysts suggest this, coupled with eased hostilities and a U.S. sanctions waiver, is pressuring prices. Despite encouraging signs, uncertainty
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-drops-below-75/bbl-for-first-time-since-start-of-mideast-war/articleshow/131968912.cms
+- Gold futures sink to three-month low as dollar rally batters bullion
+  India's gold prices hit a three-month low on Wednesday, dropping to Rs 1.44 lakh per 10 grams. Analysts attribute this slump to signals from the Federal Reserve and a notable downturn in technology stocks. Investors are now closely
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-futures-sink-to-three-month-low-as-dollar-rally-batters-bullion/articleshow/131971540.cms
 
-- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
-  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
+- Passport Travel Document, Not Proof of Citizenship: External Affairs Ministry - NDTV
+  Passport Travel Document, Not Proof of
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUk8tdWJPSjlNSnZveHVYcUtfMkNnNXJldFhaNHdrSGk3SlhfN2FkRkNPZm13YnBBdnU4bm9Jb0d6LVl5Tkx3Z2VxZWN5QWstb1NHQU05NENqTTJfRVFvNERwd2QwdXVtM1hQZWVnR0VpVmlDVHlDUXV5Q1EwMGNVd1NfVGtoRGR2cVF0aWdBazZKNm5JOVZ3TWwtYVo3UdIBpgFBVV95cUxQRWRGUFMtWTh5Wi11WTJoN3pVd3hmc2ZEN0hQUzZEOUR3RmhQME5lZjl4YVpuclJWVXU5SGZHVnJlTWlvSjRhRWVOZklQdDhxWUNrYzBhNS1xcUJ5R2xMeUhISkJvVUcta3prYS1McTFGYXhtTWNIRXVtTVZqY2Y3U3E0enhRc0JSbDFmd1VzdWdLNUlWWWF3MTlMRGZQaXFnSEJVdnJ3?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India, UAE review strategic defence partnership amid talks over BrahMos missile sale - The Hindu
+  India, UAE review strategic defence partnership amid talks over Brah
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDFfcVZrenlhUGx0OTF6SXMwVW9XdktFU1ZQU2hkc0N5bnZ4NElydmx2S24zU1ZUajMydHlpdnMzYkstaWx1dy1yRG4zUENfWVI3NEZ2Wkh6NVBsRjBYMHA1NFNnMlVEWmZuU0FUZ21pUnYtbnpsYnU1cVBxaWg0bEdGR2ZQd0NWV3NvRnhsVHd3bGJYU3V0NHBPME1VQWVSTUQ5SUtMZ1MyUzQxbENkR1BzdWN5eE9CZzBIME9NbVBDdGlseExyWHU3WnB3Q183U3djQ2hPeC1mUdIB4AFBVV95cUxPZEMtMlBkU1hZeXhsVE1XMGw1RnFCalhiMmtaeS0ydXA4ZjVGQzF4OFZhSVpoYTJ2dW9LOHBQTm5xdkZsUW9NdGVpLVZpYUxURnVwRnZWZDZYbEI4ZmZJVUZYZHVkdUdaYWU5TW1LMzlCLTFNN3ZBMjRJQkNiZFZITzNBV01oLXZ5OE4zQkZNR0habVZLTHlINF9tei1RQjgzN01rOVRHWGdQUjdXZXhpa1FvMVZHTXF2Y2UzQlVHXzh1blpiaVJEZEptdWFHV1BUV1dZNjR6dDRzV1JRcTN0bA?oc=5
 
-- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
-  Kunal Shah: The Indian entrepreneur
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+- Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim - NDTV
+  Heavy Rainfall Triggers Lands
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGE3QkY0cmhpd3pFdE1TWUR1Rl91NHhfajJfQklfRkhKbC1qS01QOGtUZWpRbENiU29jMjVOSFZMTGM2UmJ4b1BwMUwzVnVQQVhaRkFQMmZWVldCSGF0djM4Z0d2a0JaSVRZNlFtY3FXZWl6eTJfb2FvSjlSdHJuV2ZRS1dnczdNMXBkNnItbEdEZDIydWRXVjlYY2pKNHl5UzQ1b0ZPOTJJYTNCTmtKb1VCMNIBuwFBVV95cUxNTkJkX2V6QmktbkR5dVF2Y0QxZWpBblNIU3pieHFnWHkxYmljM1JmNVYyd19tbHlLTldDX0VFM0JfZ0JQOENib256b3U2U1RBVUpCZTNZVE43ZFRSQjluemstakgwSER1c056ZW84WDZFTE5OdUE5cGI3bkZJT0ZFRlM3SF9JZXNrYWxDb3hxa3VOVTZsemxsdVJZdnhHdGgxcFNaYUtoMlZXZDJpNXhBSzdOcnJpSjk3U0pz?oc=5
 
-- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
-  How WhatsApp's $1B India business
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
+- India, EU Discuss Achievements, Challenges In Advancing Human Rights - NDTV
+  India, EU Discuss Achievements, Challenges
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnRYUG1nXzRjdll3ZGU5TWZ6TzcxVzV3aUw3UlZCOUlEZDZLa1Q5MEZpWUl6c01EVl96QzBfbV82V2cxRWNLVTRDVjFUREFyVFlrX09NeGF0dEZQdzVCYzN6alU1MFRfSkN0Q3dwVld5aFN6VTgzazBDRktVU0l5MjFvY0JzWi1ESXRldGN3OGNjcjdESjF1Yi11RDRfZlA5OU1FdzM0QTR0ZlnSAbMBQVVfeXFMTmxxUWdkTTRCX2dFb3REbTdzUHc4bHNMVFNGRldPYkdjVFdPX29XWGxMREY0by1zTVBFLTRxRUt3Z2tucVJLMWxSQTluQWhLZy1LM00zWWZuaGloZ0R1ZTloOEpXRkNQSEhkbEdYV2pVckZBQ2hDV2FRWVNSeUtBb0ZMYlA1RVZYR2hIVG9wdmY3bUR5TTB3RWFSdHNZc0hzdnd3VGh1M0FmeHRlbWEydlhwNmc?oc=5
 
-- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
-  Flipkart, Amazon expand quick commerce
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+- Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now’ to 300 cities - The Times of India
+  Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now�
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVFGMXpyaGU3X3Q5V2NlTEZvTDZyeklEdmNGSlYzUFkzS0t5RldoaW8zT28yV2EtcjhDLUNYbGpPUWU0bWV6Y3JSam5nVjJac0MtUldpY0cydkg4MVRxekJENTJJeF9DTnQzOEs3cDJ2d2t6c3lxZThWdElNZHh1MDZTYTBnR3ZnNG5wX3FFaUFKY2lnZ05jWXhpYlFNM3Jjb3doT2V0ajB5LUlLX2RPbWtNaUlwUXQwU1c5TzJ6RW1MTDN4OXFWS3pMTW9IOGxlX3ZaUFprdVAxVmExdmk2NHZlOFE1akRvcktVN3pRbW9ERl9hNHZN0gH8AUFVX3lxTE5NVkdkejI5c0wzSEZaS0lySVloS1hjMk5MTVVYN2pLU2RDdkdzZlpmR3hzNDhxY0o0RTByUzl5TVFZMzAzMUM0cmllN1dnWTF3OGp5ZGpiVFkwaGptZ05LU0RmbkIzT2h3RFF2SWotVUtZMVRlUGNsWHpBZU5aS25FOGowN3UzdEVuRXVwTXlyQnhzRUtHU1kwenMzdHpKRGlhODdUc2plWUVUMWh1S18yQW04ZVE1R19xcU9uZ2IxdHRlTEtBNlJGYVVlaHBkSEFCc012Z09aal9JdWpQQjRpcV91bDRXNGEwcXZ1R1J5Z1dPR2FlaFZtRnMtaA?oc=5
 
-- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
-  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
+- Passport Travel Document, Not Proof of Citizenship: External Affairs Ministry - NDTV
+  Passport Travel Document, Not Proof of
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUk8tdWJPSjlNSnZveHVYcUtfMkNnNXJldFhaNHdrSGk3SlhfN2FkRkNPZm13YnBBdnU4bm9Jb0d6LVl5Tkx3Z2VxZWN5QWstb1NHQU05NENqTTJfRVFvNERwd2QwdXVtM1hQZWVnR0VpVmlDVHlDUXV5Q1EwMGNVd1NfVGtoRGR2cVF0aWdBazZKNm5JOVZ3TWwtYVo3UdIBpgFBVV95cUxQRWRGUFMtWTh5Wi11WTJoN3pVd3hmc2ZEN0hQUzZEOUR3RmhQME5lZjl4YVpuclJWVXU5SGZHVnJlTWlvSjRhRWVOZklQdDhxWUNrYzBhNS1xcUJ5R2xMeUhISkJvVUcta3prYS1McTFGYXhtTWNIRXVtTVZqY2Y3U3E0enhRc0JSbDFmd1VzdWdLNUlWWWF3MTlMRGZQaXFnSEJVdnJ3?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India, UAE review strategic defence partnership amid talks over BrahMos missile sale - The Hindu
+  India, UAE review strategic defence partnership amid talks over Brah
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDFfcVZrenlhUGx0OTF6SXMwVW9XdktFU1ZQU2hkc0N5bnZ4NElydmx2S24zU1ZUajMydHlpdnMzYkstaWx1dy1yRG4zUENfWVI3NEZ2Wkh6NVBsRjBYMHA1NFNnMlVEWmZuU0FUZ21pUnYtbnpsYnU1cVBxaWg0bEdGR2ZQd0NWV3NvRnhsVHd3bGJYU3V0NHBPME1VQWVSTUQ5SUtMZ1MyUzQxbENkR1BzdWN5eE9CZzBIME9NbVBDdGlseExyWHU3WnB3Q183U3djQ2hPeC1mUdIB4AFBVV95cUxPZEMtMlBkU1hZeXhsVE1XMGw1RnFCalhiMmtaeS0ydXA4ZjVGQzF4OFZhSVpoYTJ2dW9LOHBQTm5xdkZsUW9NdGVpLVZpYUxURnVwRnZWZDZYbEI4ZmZJVUZYZHVkdUdaYWU5TW1LMzlCLTFNN3ZBMjRJQkNiZFZITzNBV01oLXZ5OE4zQkZNR0habVZLTHlINF9tei1RQjgzN01rOVRHWGdQUjdXZXhpa1FvMVZHTXF2Y2UzQlVHXzh1blpiaVJEZEptdWFHV1BUV1dZNjR6dDRzV1JRcTN0bA?oc=5
 
-- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
-  Kunal Shah: The Indian entrepreneur
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+- Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim - NDTV
+  Heavy Rainfall Triggers Lands
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGE3QkY0cmhpd3pFdE1TWUR1Rl91NHhfajJfQklfRkhKbC1qS01QOGtUZWpRbENiU29jMjVOSFZMTGM2UmJ4b1BwMUwzVnVQQVhaRkFQMmZWVldCSGF0djM4Z0d2a0JaSVRZNlFtY3FXZWl6eTJfb2FvSjlSdHJuV2ZRS1dnczdNMXBkNnItbEdEZDIydWRXVjlYY2pKNHl5UzQ1b0ZPOTJJYTNCTmtKb1VCMNIBuwFBVV95cUxNTkJkX2V6QmktbkR5dVF2Y0QxZWpBblNIU3pieHFnWHkxYmljM1JmNVYyd19tbHlLTldDX0VFM0JfZ0JQOENib256b3U2U1RBVUpCZTNZVE43ZFRSQjluemstakgwSER1c056ZW84WDZFTE5OdUE5cGI3bkZJT0ZFRlM3SF9JZXNrYWxDb3hxa3VOVTZsemxsdVJZdnhHdGgxcFNaYUtoMlZXZDJpNXhBSzdOcnJpSjk3U0pz?oc=5
 
-- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
-  How WhatsApp's $1B India business
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
+- India, EU Discuss Achievements, Challenges In Advancing Human Rights - NDTV
+  India, EU Discuss Achievements, Challenges
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnRYUG1nXzRjdll3ZGU5TWZ6TzcxVzV3aUw3UlZCOUlEZDZLa1Q5MEZpWUl6c01EVl96QzBfbV82V2cxRWNLVTRDVjFUREFyVFlrX09NeGF0dEZQdzVCYzN6alU1MFRfSkN0Q3dwVld5aFN6VTgzazBDRktVU0l5MjFvY0JzWi1ESXRldGN3OGNjcjdESjF1Yi11RDRfZlA5OU1FdzM0QTR0ZlnSAbMBQVVfeXFMTmxxUWdkTTRCX2dFb3REbTdzUHc4bHNMVFNGRldPYkdjVFdPX29XWGxMREY0by1zTVBFLTRxRUt3Z2tucVJLMWxSQTluQWhLZy1LM00zWWZuaGloZ0R1ZTloOEpXRkNQSEhkbEdYV2pVckZBQ2hDV2FRWVNSeUtBb0ZMYlA1RVZYR2hIVG9wdmY3bUR5TTB3RWFSdHNZc0hzdnd3VGh1M0FmeHRlbWEydlhwNmc?oc=5
 
-- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
-  Flipkart, Amazon expand quick commerce
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+- Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now’ to 300 cities - The Times of India
+  Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now�
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVFGMXpyaGU3X3Q5V2NlTEZvTDZyeklEdmNGSlYzUFkzS0t5RldoaW8zT28yV2EtcjhDLUNYbGpPUWU0bWV6Y3JSam5nVjJac0MtUldpY0cydkg4MVRxekJENTJJeF9DTnQzOEs3cDJ2d2t6c3lxZThWdElNZHh1MDZTYTBnR3ZnNG5wX3FFaUFKY2lnZ05jWXhpYlFNM3Jjb3doT2V0ajB5LUlLX2RPbWtNaUlwUXQwU1c5TzJ6RW1MTDN4OXFWS3pMTW9IOGxlX3ZaUFprdVAxVmExdmk2NHZlOFE1akRvcktVN3pRbW9ERl9hNHZN0gH8AUFVX3lxTE5NVkdkejI5c0wzSEZaS0lySVloS1hjMk5MTVVYN2pLU2RDdkdzZlpmR3hzNDhxY0o0RTByUzl5TVFZMzAzMUM0cmllN1dnWTF3OGp5ZGpiVFkwaGptZ05LU0RmbkIzT2h3RFF2SWotVUtZMVRlUGNsWHpBZU5aS25FOGowN3UzdEVuRXVwTXlyQnhzRUtHU1kwenMzdHpKRGlhODdUc2plWUVUMWh1S18yQW04ZVE1R19xcU9uZ2IxdHRlTEtBNlJGYVVlaHBkSEFCc012Z09aal9JdWpQQjRpcV91bDRXNGEwcXZ1R1J5Z1dPR2FlaFZtRnMtaA?oc=5
 
-- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
-  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
+- Passport Travel Document, Not Proof of Citizenship: External Affairs Ministry - NDTV
+  Passport Travel Document, Not Proof of
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUk8tdWJPSjlNSnZveHVYcUtfMkNnNXJldFhaNHdrSGk3SlhfN2FkRkNPZm13YnBBdnU4bm9Jb0d6LVl5Tkx3Z2VxZWN5QWstb1NHQU05NENqTTJfRVFvNERwd2QwdXVtM1hQZWVnR0VpVmlDVHlDUXV5Q1EwMGNVd1NfVGtoRGR2cVF0aWdBazZKNm5JOVZ3TWwtYVo3UdIBpgFBVV95cUxQRWRGUFMtWTh5Wi11WTJoN3pVd3hmc2ZEN0hQUzZEOUR3RmhQME5lZjl4YVpuclJWVXU5SGZHVnJlTWlvSjRhRWVOZklQdDhxWUNrYzBhNS1xcUJ5R2xMeUhISkJvVUcta3prYS1McTFGYXhtTWNIRXVtTVZqY2Y3U3E0enhRc0JSbDFmd1VzdWdLNUlWWWF3MTlMRGZQaXFnSEJVdnJ3?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India, UAE review strategic defence partnership amid talks over BrahMos missile sale - The Hindu
+  India, UAE review strategic defence partnership amid talks over Brah
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDFfcVZrenlhUGx0OTF6SXMwVW9XdktFU1ZQU2hkc0N5bnZ4NElydmx2S24zU1ZUajMydHlpdnMzYkstaWx1dy1yRG4zUENfWVI3NEZ2Wkh6NVBsRjBYMHA1NFNnMlVEWmZuU0FUZ21pUnYtbnpsYnU1cVBxaWg0bEdGR2ZQd0NWV3NvRnhsVHd3bGJYU3V0NHBPME1VQWVSTUQ5SUtMZ1MyUzQxbENkR1BzdWN5eE9CZzBIME9NbVBDdGlseExyWHU3WnB3Q183U3djQ2hPeC1mUdIB4AFBVV95cUxPZEMtMlBkU1hZeXhsVE1XMGw1RnFCalhiMmtaeS0ydXA4ZjVGQzF4OFZhSVpoYTJ2dW9LOHBQTm5xdkZsUW9NdGVpLVZpYUxURnVwRnZWZDZYbEI4ZmZJVUZYZHVkdUdaYWU5TW1LMzlCLTFNN3ZBMjRJQkNiZFZITzNBV01oLXZ5OE4zQkZNR0habVZLTHlINF9tei1RQjgzN01rOVRHWGdQUjdXZXhpa1FvMVZHTXF2Y2UzQlVHXzh1blpiaVJEZEptdWFHV1BUV1dZNjR6dDRzV1JRcTN0bA?oc=5
 
-- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
-  Kunal Shah: The Indian entrepreneur
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+- Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim - NDTV
+  Heavy Rainfall Triggers Lands
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGE3QkY0cmhpd3pFdE1TWUR1Rl91NHhfajJfQklfRkhKbC1qS01QOGtUZWpRbENiU29jMjVOSFZMTGM2UmJ4b1BwMUwzVnVQQVhaRkFQMmZWVldCSGF0djM4Z0d2a0JaSVRZNlFtY3FXZWl6eTJfb2FvSjlSdHJuV2ZRS1dnczdNMXBkNnItbEdEZDIydWRXVjlYY2pKNHl5UzQ1b0ZPOTJJYTNCTmtKb1VCMNIBuwFBVV95cUxNTkJkX2V6QmktbkR5dVF2Y0QxZWpBblNIU3pieHFnWHkxYmljM1JmNVYyd19tbHlLTldDX0VFM0JfZ0JQOENib256b3U2U1RBVUpCZTNZVE43ZFRSQjluemstakgwSER1c056ZW84WDZFTE5OdUE5cGI3bkZJT0ZFRlM3SF9JZXNrYWxDb3hxa3VOVTZsemxsdVJZdnhHdGgxcFNaYUtoMlZXZDJpNXhBSzdOcnJpSjk3U0pz?oc=5
 
-- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
-  How WhatsApp's $1B India business
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
+- India, EU Discuss Achievements, Challenges In Advancing Human Rights - NDTV
+  India, EU Discuss Achievements, Challenges
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnRYUG1nXzRjdll3ZGU5TWZ6TzcxVzV3aUw3UlZCOUlEZDZLa1Q5MEZpWUl6c01EVl96QzBfbV82V2cxRWNLVTRDVjFUREFyVFlrX09NeGF0dEZQdzVCYzN6alU1MFRfSkN0Q3dwVld5aFN6VTgzazBDRktVU0l5MjFvY0JzWi1ESXRldGN3OGNjcjdESjF1Yi11RDRfZlA5OU1FdzM0QTR0ZlnSAbMBQVVfeXFMTmxxUWdkTTRCX2dFb3REbTdzUHc4bHNMVFNGRldPYkdjVFdPX29XWGxMREY0by1zTVBFLTRxRUt3Z2tucVJLMWxSQTluQWhLZy1LM00zWWZuaGloZ0R1ZTloOEpXRkNQSEhkbEdYV2pVckZBQ2hDV2FRWVNSeUtBb0ZMYlA1RVZYR2hIVG9wdmY3bUR5TTB3RWFSdHNZc0hzdnd3VGh1M0FmeHRlbWEydlhwNmc?oc=5
 
-- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
-  Flipkart, Amazon expand quick commerce
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+- Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now’ to 300 cities - The Times of India
+  Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now�
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVFGMXpyaGU3X3Q5V2NlTEZvTDZyeklEdmNGSlYzUFkzS0t5RldoaW8zT28yV2EtcjhDLUNYbGpPUWU0bWV6Y3JSam5nVjJac0MtUldpY0cydkg4MVRxekJENTJJeF9DTnQzOEs3cDJ2d2t6c3lxZThWdElNZHh1MDZTYTBnR3ZnNG5wX3FFaUFKY2lnZ05jWXhpYlFNM3Jjb3doT2V0ajB5LUlLX2RPbWtNaUlwUXQwU1c5TzJ6RW1MTDN4OXFWS3pMTW9IOGxlX3ZaUFprdVAxVmExdmk2NHZlOFE1akRvcktVN3pRbW9ERl9hNHZN0gH8AUFVX3lxTE5NVkdkejI5c0wzSEZaS0lySVloS1hjMk5MTVVYN2pLU2RDdkdzZlpmR3hzNDhxY0o0RTByUzl5TVFZMzAzMUM0cmllN1dnWTF3OGp5ZGpiVFkwaGptZ05LU0RmbkIzT2h3RFF2SWotVUtZMVRlUGNsWHpBZU5aS25FOGowN3UzdEVuRXVwTXlyQnhzRUtHU1kwenMzdHpKRGlhODdUc2plWUVUMWh1S18yQW04ZVE1R19xcU9uZ2IxdHRlTEtBNlJGYVVlaHBkSEFCc012Z09aal9JdWpQQjRpcV91bDRXNGEwcXZ1R1J5Z1dPR2FlaFZtRnMtaA?oc=5
 
-- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
-  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
-  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
+- Passport Travel Document, Not Proof of Citizenship: External Affairs Ministry - NDTV
+  Passport Travel Document, Not Proof of
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUk8tdWJPSjlNSnZveHVYcUtfMkNnNXJldFhaNHdrSGk3SlhfN2FkRkNPZm13YnBBdnU4bm9Jb0d6LVl5Tkx3Z2VxZWN5QWstb1NHQU05NENqTTJfRVFvNERwd2QwdXVtM1hQZWVnR0VpVmlDVHlDUXV5Q1EwMGNVd1NfVGtoRGR2cVF0aWdBazZKNm5JOVZ3TWwtYVo3UdIBpgFBVV95cUxQRWRGUFMtWTh5Wi11WTJoN3pVd3hmc2ZEN0hQUzZEOUR3RmhQME5lZjl4YVpuclJWVXU5SGZHVnJlTWlvSjRhRWVOZklQdDhxWUNrYzBhNS1xcUJ5R2xMeUhISkJvVUcta3prYS1McTFGYXhtTWNIRXVtTVZqY2Y3U3E0enhRc0JSbDFmd1VzdWdLNUlWWWF3MTlMRGZQaXFnSEJVdnJ3?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India, UAE review strategic defence partnership amid talks over BrahMos missile sale - The Hindu
+  India, UAE review strategic defence partnership amid talks over Brah
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDFfcVZrenlhUGx0OTF6SXMwVW9XdktFU1ZQU2hkc0N5bnZ4NElydmx2S24zU1ZUajMydHlpdnMzYkstaWx1dy1yRG4zUENfWVI3NEZ2Wkh6NVBsRjBYMHA1NFNnMlVEWmZuU0FUZ21pUnYtbnpsYnU1cVBxaWg0bEdGR2ZQd0NWV3NvRnhsVHd3bGJYU3V0NHBPME1VQWVSTUQ5SUtMZ1MyUzQxbENkR1BzdWN5eE9CZzBIME9NbVBDdGlseExyWHU3WnB3Q183U3djQ2hPeC1mUdIB4AFBVV95cUxPZEMtMlBkU1hZeXhsVE1XMGw1RnFCalhiMmtaeS0ydXA4ZjVGQzF4OFZhSVpoYTJ2dW9LOHBQTm5xdkZsUW9NdGVpLVZpYUxURnVwRnZWZDZYbEI4ZmZJVUZYZHVkdUdaYWU5TW1LMzlCLTFNN3ZBMjRJQkNiZFZITzNBV01oLXZ5OE4zQkZNR0habVZLTHlINF9tei1RQjgzN01rOVRHWGdQUjdXZXhpa1FvMVZHTXF2Y2UzQlVHXzh1blpiaVJEZEptdWFHV1BUV1dZNjR6dDRzV1JRcTN0bA?oc=5
 
-- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
-  Kunal Shah: The Indian entrepreneur
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+- Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim - NDTV
+  Heavy Rainfall Triggers Lands
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGE3QkY0cmhpd3pFdE1TWUR1Rl91NHhfajJfQklfRkhKbC1qS01QOGtUZWpRbENiU29jMjVOSFZMTGM2UmJ4b1BwMUwzVnVQQVhaRkFQMmZWVldCSGF0djM4Z0d2a0JaSVRZNlFtY3FXZWl6eTJfb2FvSjlSdHJuV2ZRS1dnczdNMXBkNnItbEdEZDIydWRXVjlYY2pKNHl5UzQ1b0ZPOTJJYTNCTmtKb1VCMNIBuwFBVV95cUxNTkJkX2V6QmktbkR5dVF2Y0QxZWpBblNIU3pieHFnWHkxYmljM1JmNVYyd19tbHlLTldDX0VFM0JfZ0JQOENib256b3U2U1RBVUpCZTNZVE43ZFRSQjluemstakgwSER1c056ZW84WDZFTE5OdUE5cGI3bkZJT0ZFRlM3SF9JZXNrYWxDb3hxa3VOVTZsemxsdVJZdnhHdGgxcFNaYUtoMlZXZDJpNXhBSzdOcnJpSjk3U0pz?oc=5
 
-- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
-  How WhatsApp's $1B India business
-  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
+- India, EU Discuss Achievements, Challenges In Advancing Human Rights - NDTV
+  India, EU Discuss Achievements, Challenges
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnRYUG1nXzRjdll3ZGU5TWZ6TzcxVzV3aUw3UlZCOUlEZDZLa1Q5MEZpWUl6c01EVl96QzBfbV82V2cxRWNLVTRDVjFUREFyVFlrX09NeGF0dEZQdzVCYzN6alU1MFRfSkN0Q3dwVld5aFN6VTgzazBDRktVU0l5MjFvY0JzWi1ESXRldGN3OGNjcjdESjF1Yi11RDRfZlA5OU1FdzM0QTR0ZlnSAbMBQVVfeXFMTmxxUWdkTTRCX2dFb3REbTdzUHc4bHNMVFNGRldPYkdjVFdPX29XWGxMREY0by1zTVBFLTRxRUt3Z2tucVJLMWxSQTluQWhLZy1LM00zWWZuaGloZ0R1ZTloOEpXRkNQSEhkbEdYV2pVckZBQ2hDV2FRWVNSeUtBb0ZMYlA1RVZYR2hIVG9wdmY3bUR5TTB3RWFSdHNZc0hzdnd3VGh1M0FmeHRlbWEydlhwNmc?oc=5
 
-- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
-  Flipkart, Amazon expand quick commerce
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+- Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now’ to 300 cities - The Times of India
+  Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now�
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVFGMXpyaGU3X3Q5V2NlTEZvTDZyeklEdmNGSlYzUFkzS0t5RldoaW8zT28yV2EtcjhDLUNYbGpPUWU0bWV6Y3JSam5nVjJac0MtUldpY0cydkg4MVRxekJENTJJeF9DTnQzOEs3cDJ2d2t6c3lxZThWdElNZHh1MDZTYTBnR3ZnNG5wX3FFaUFKY2lnZ05jWXhpYlFNM3Jjb3doT2V0ajB5LUlLX2RPbWtNaUlwUXQwU1c5TzJ6RW1MTDN4OXFWS3pMTW9IOGxlX3ZaUFprdVAxVmExdmk2NHZlOFE1akRvcktVN3pRbW9ERl9hNHZN0gH8AUFVX3lxTE5NVkdkejI5c0wzSEZaS0lySVloS1hjMk5MTVVYN2pLU2RDdkdzZlpmR3hzNDhxY0o0RTByUzl5TVFZMzAzMUM0cmllN1dnWTF3OGp5ZGpiVFkwaGptZ05LU0RmbkIzT2h3RFF2SWotVUtZMVRlUGNsWHpBZU5aS25FOGowN3UzdEVuRXVwTXlyQnhzRUtHU1kwenMzdHpKRGlhODdUc2plWUVUMWh1S18yQW04ZVE1R19xcU9uZ2IxdHRlTEtBNlJGYVVlaHBkSEFCc012Z09aal9JdWpQQjRpcV91bDRXNGEwcXZ1R1J5Z1dPR2FlaFZtRnMtaA?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- Passport Travel Document, Not Proof of Citizenship: External Affairs Ministry - NDTV
+  Passport Travel Document, Not Proof of
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPUk8tdWJPSjlNSnZveHVYcUtfMkNnNXJldFhaNHdrSGk3SlhfN2FkRkNPZm13YnBBdnU4bm9Jb0d6LVl5Tkx3Z2VxZWN5QWstb1NHQU05NENqTTJfRVFvNERwd2QwdXVtM1hQZWVnR0VpVmlDVHlDUXV5Q1EwMGNVd1NfVGtoRGR2cVF0aWdBazZKNm5JOVZ3TWwtYVo3UdIBpgFBVV95cUxQRWRGUFMtWTh5Wi11WTJoN3pVd3hmc2ZEN0hQUzZEOUR3RmhQME5lZjl4YVpuclJWVXU5SGZHVnJlTWlvSjRhRWVOZklQdDhxWUNrYzBhNS1xcUJ5R2xMeUhISkJvVUcta3prYS1McTFGYXhtTWNIRXVtTVZqY2Y3U3E0enhRc0JSbDFmd1VzdWdLNUlWWWF3MTlMRGZQaXFnSEJVdnJ3?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India, UAE review strategic defence partnership amid talks over BrahMos missile sale - The Hindu
+  India, UAE review strategic defence partnership amid talks over Brah
+  🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDFfcVZrenlhUGx0OTF6SXMwVW9XdktFU1ZQU2hkc0N5bnZ4NElydmx2S24zU1ZUajMydHlpdnMzYkstaWx1dy1yRG4zUENfWVI3NEZ2Wkh6NVBsRjBYMHA1NFNnMlVEWmZuU0FUZ21pUnYtbnpsYnU1cVBxaWg0bEdGR2ZQd0NWV3NvRnhsVHd3bGJYU3V0NHBPME1VQWVSTUQ5SUtMZ1MyUzQxbENkR1BzdWN5eE9CZzBIME9NbVBDdGlseExyWHU3WnB3Q183U3djQ2hPeC1mUdIB4AFBVV95cUxPZEMtMlBkU1hZeXhsVE1XMGw1RnFCalhiMmtaeS0ydXA4ZjVGQzF4OFZhSVpoYTJ2dW9LOHBQTm5xdkZsUW9NdGVpLVZpYUxURnVwRnZWZDZYbEI4ZmZJVUZYZHVkdUdaYWU5TW1LMzlCLTFNN3ZBMjRJQkNiZFZITzNBV01oLXZ5OE4zQkZNR0habVZLTHlINF9tei1RQjgzN01rOVRHWGdQUjdXZXhpa1FvMVZHTXF2Y2UzQlVHXzh1blpiaVJEZEptdWFHV1BUV1dZNjR6dDRzV1JRcTN0bA?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim - NDTV
+  Heavy Rainfall Triggers Lands
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGE3QkY0cmhpd3pFdE1TWUR1Rl91NHhfajJfQklfRkhKbC1qS01QOGtUZWpRbENiU29jMjVOSFZMTGM2UmJ4b1BwMUwzVnVQQVhaRkFQMmZWVldCSGF0djM4Z0d2a0JaSVRZNlFtY3FXZWl6eTJfb2FvSjlSdHJuV2ZRS1dnczdNMXBkNnItbEdEZDIydWRXVjlYY2pKNHl5UzQ1b0ZPOTJJYTNCTmtKb1VCMNIBuwFBVV95cUxNTkJkX2V6QmktbkR5dVF2Y0QxZWpBblNIU3pieHFnWHkxYmljM1JmNVYyd19tbHlLTldDX0VFM0JfZ0JQOENib256b3U2U1RBVUpCZTNZVE43ZFRSQjluemstakgwSER1c056ZW84WDZFTE5OdUE5cGI3bkZJT0ZFRlM3SF9JZXNrYWxDb3hxa3VOVTZsemxsdVJZdnhHdGgxcFNaYUtoMlZXZDJpNXhBSzdOcnJpSjk3U0pz?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- India, EU Discuss Achievements, Challenges In Advancing Human Rights - NDTV
+  India, EU Discuss Achievements, Challenges
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnRYUG1nXzRjdll3ZGU5TWZ6TzcxVzV3aUw3UlZCOUlEZDZLa1Q5MEZpWUl6c01EVl96QzBfbV82V2cxRWNLVTRDVjFUREFyVFlrX09NeGF0dEZQdzVCYzN6alU1MFRfSkN0Q3dwVld5aFN6VTgzazBDRktVU0l5MjFvY0JzWi1ESXRldGN3OGNjcjdESjF1Yi11RDRfZlA5OU1FdzM0QTR0ZlnSAbMBQVVfeXFMTmxxUWdkTTRCX2dFb3REbTdzUHc4bHNMVFNGRldPYkdjVFdPX29XWGxMREY0by1zTVBFLTRxRUt3Z2tucVJLMWxSQTluQWhLZy1LM00zWWZuaGloZ0R1ZTloOEpXRkNQSEhkbEdYV2pVckZBQ2hDV2FRWVNSeUtBb0ZMYlA1RVZYR2hIVG9wdmY3bUR5TTB3RWFSdHNZc0hzdnd3VGh1M0FmeHRlbWEydlhwNmc?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now’ to 300 cities - The Times of India
+  Amazon CEO Andy Jassy visits India as tech giant expands ‘Amazon Now�
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdVFGMXpyaGU3X3Q5V2NlTEZvTDZyeklEdmNGSlYzUFkzS0t5RldoaW8zT28yV2EtcjhDLUNYbGpPUWU0bWV6Y3JSam5nVjJac0MtUldpY0cydkg4MVRxekJENTJJeF9DTnQzOEs3cDJ2d2t6c3lxZThWdElNZHh1MDZTYTBnR3ZnNG5wX3FFaUFKY2lnZ05jWXhpYlFNM3Jjb3doT2V0ajB5LUlLX2RPbWtNaUlwUXQwU1c5TzJ6RW1MTDN4OXFWS3pMTW9IOGxlX3ZaUFprdVAxVmExdmk2NHZlOFE1akRvcktVN3pRbW9ERl9hNHZN0gH8AUFVX3lxTE5NVkdkejI5c0wzSEZaS0lySVloS1hjMk5MTVVYN2pLU2RDdkdzZlpmR3hzNDhxY0o0RTByUzl5TVFZMzAzMUM0cmllN1dnWTF3OGp5ZGpiVFkwaGptZ05LU0RmbkIzT2h3RFF2SWotVUtZMVRlUGNsWHpBZU5aS25FOGowN3UzdEVuRXVwTXlyQnhzRUtHU1kwenMzdHpKRGlhODdUc2plWUVUMWh1S18yQW04ZVE1R19xcU9uZ2IxdHRlTEtBNlJGYVVlaHBkSEFCc012Z09aal9JdWpQQjRpcV91bDRXNGEwcXZ1R1J5Z1dPR2FlaFZtRnMtaA?oc=5
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+- These are the Top 10 emerging technologies of 2026 - The World Economic Forum
+  These are the Top 10 emerging technologies of 2026
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFh4TlRYd2h2aVZvMUszQmVGZC1xSjVyd0JZMl83dXh1VXJIc28yT1VUWW5TMmZ5SklrVjhyTjVBZ0tLcmVDN0tGeUlQbWRXNDlOQkxJYkk1NkxkLUF1N05TWTA1V2VZM1J4SzhXb2JHZVZMNVY0NXhTdkVzSEFKRkhzTEVJQlFT?oc=5
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Unlocking AI ROI in the technology industry - EY
+  Unlocking AI ROI
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBaMmt0QVJfUDJvVTZvSXVYaWtaLTJ6RnBLbTJTU1hENEFYZ0Z1a1lFOUF4ZXlNRi1fMkdMbGhIempXdjdPQlVKdzBQcF9zNXZVUW04QWdZVDZpcVA0N1BwYTJ3dG1HOTdGLW5hX19acmlfdzFRZVhn?oc=5
+
+- Ministry of Coal Organises BRICS Side Event on Clean Coal Technologies with Focus on Coal Gasification - PIB
+  Ministry of Coal Organises BRICS Side Event on Clean Coal Technologies
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE84cE9QemltQWpTMm00QkQ4bnFlaHRseXVxLXZmWGJPSFdTczUtNndZOW8zMG4wVkhwRzBOR3F5TnBGU2xXUkd2dVl1UlZhdWt3b29iOTV4WkNRa2cyVGRsRnNFLXhMR0MzWU45Q0FIOHBLMHFCa1lYYmxn?oc=5
+
+- Tech giant Oracle cuts 21,000 jobs as it embraces AI - BBC
+  Tech giant Oracle cuts 21,000 jobs
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE42bGZkSGwwVWhyc1FQWlV2a25oQ1I1Q2FNdHJtd0xQUGxRQUJFVFQ0U0FvQnhCaVRac3I0cDRxRnVDWm93cUZUNnRBNkRfUGx1RnhjcnEtUW8yQQ?oc=5
+
+- Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest - The Guardian
+  Chinese supercomputer leapfrogs best US machines to
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxObFkwY3BaOVpfV0FMbzdGTklFVVVTNDJnNHVhQ3VEZXppRnhqbVl3Y1VmV0drZHh2ZThoYTVveFZZaVdXVVo5Sk9BdWw4T1ZhREJpNU1pbEhtcGhoSGZQTUFFX0dBcjY5WlExc2VSRXo3WXY5b0FKUDF3VjRDa0V0RU1Fcjhuc1VRWlh6WmhtblN6dUphVEdicG5tTmZvUmhoNzRKbl9nb250MURnNnc?oc=5
 
 
-_Last updated: 2026-06-24 14:19:38 UTC_
+_Last updated: 2026-06-24 19:43:33 UTC_
