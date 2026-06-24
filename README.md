@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Kerala BJP councillors took oath in names of deities, martyrs. High Court didn’t agree
+- Passport a travel document, not a proof of citizenship: MEA
   
-  🔗 https://indianexpress.com/article/india/kerala-bjp-councillors-oath-names-deities-martyrs-high-court-10754981/
+  🔗 https://indianexpress.com/article/india/passport-travel-document-not-proof-of-citizenship-mea-10755656/
 
-- CJP founder Abhijeet Dipke to appear before IT ministry panel over X account ban
+- Bharat Tiwari encounter: Action against officials does little to quell anger
   
-  🔗 https://indianexpress.com/article/india/cjp-abhijeet-dipke-cockroach-it-ministry-panel-x-account-ban-10754756/
+  🔗 https://indianexpress.com/article/india/bharat-tiwari-encounter-officials-action-10755646/
 
-- Gold Rate Today, June 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Andhra cop arrested for ‘custodial death’ also faces probe into Dalit man’s suicide
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-june-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10754609/
+  🔗 https://indianexpress.com/article/india/andhra-police-official-nagaraju-arrested-custodial-death-dalit-suicide-probe-10755530/
 
-- India News Live Updates, 24 June 2026: 2 dozen feared trapped, army helps with Kolkata warehouse collapse rescue
+- Tarun Tejpal acquittal: Goa questions court’s silence on woman’s ‘character assassination’
   
-  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-june-2026-ram-mandir-probe-jharkhand-derailment-iran-senate-10754524/
+  🔗 https://indianexpress.com/article/india/tarun-tejpal-goa-government-bombay-high-court-findings-tushar-mehta-10755601/
 
-- Why Tamil Nadu’s Vijay government is taking Karthigai Deepam row to Supreme Court
+- Arunachal floods: 18 structures swept away, district cut off by landslides; 5 missing
   
-  🔗 https://indianexpress.com/article/india/faith-property-rights-public-order-why-vijay-govt-is-taking-karthigai-deepam-row-to-supreme-court-10754288/
+  🔗 https://indianexpress.com/article/india/arunachal-floods-district-cut-off-landslides-5-missing-10755329/
 
-- Superhuman to bring GPTZero’s AI detection technology into its platform
+- Nasa’s plan to sink the ISS sparks concerns over ocean health and legal accountability
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/superhuman-to-bring-gptzeros-ai-detection-technology-into-its-platform-10754979/
+  🔗 https://indianexpress.com/article/technology/science/nasas-plan-to-sink-the-iss-sparks-concerns-over-ocean-health-and-legal-accountability-10755614/
 
-- Apple may add Samsung-made foldable OLED display to iPhone lineup: Report
+- Chinese scientists develop safer lithium battery that resists extreme heat
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-may-add-samsung-made-foldable-oled-display-to-iphone-lineup-report-10754832/
+  🔗 https://indianexpress.com/article/technology/science/china-scientists-ceramic-lithium-battery-heatproof-10755479/
 
-- WhatsApp may now warn users before they message unfamiliar numbers: Report
+- Amazon Prime Day 2026 India: Dates, deals, AI shopping tools, and more
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-may-now-warn-users-before-they-message-unfamiliar-numbers-report-10754780/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/amazon-prime-day-2026-india-dates-deals-ai-shopping-tools-and-more-10755465/
 
-- Google’s YouTube settles case over social media harm to children
+- ‘Need to fight AI with AI’: IBM India VP on the future of cybersecurity
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/googles-youtube-settles-case-over-social-media-harm-to-children-10754813/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/need-to-fight-ai-with-ai-ibm-india-vp-on-the-future-of-cybersecurity-10755451/
 
-- Anthropic launches Claude Tag in Slack with plans for wider rollout
+- Sony Bravia Theatre Trio, Theatre Bar 7 and Bar 5 launched in India: Price, features, availability
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-bravia-trio-home-theatre-launch-india-10755359/
 
-- MUFG consolidates Ganesha Fund with Dragon, eyes $600 million second fund
-  Mitsubishi UFJ Financial Group will merge Ganesha Fund's operations with Dragon Funds. The new fund aims to raise $600
-  🔗 https://www.livemint.com/companies/mufg-ganesha-fund-dragon-funds-600-million-second-fund-mufg-bank-mars-equity-tech-companies-startups-11782287294705.html
+- Nila Spaces and IKEA partner for B2B push, eye growth in India’s emerging ready-to-live homes market
+  IKEA collaborates with Nila Spaces to tap into India's burgeoning ready-to-move-in home market. The partnership aims to meet the demand for functional homes
+  🔗 https://www.livemint.com/companies/news/nila-spaces-and-ikea-partner-for-b2b-push-eye-growth-in-india-s-emerging-ready-to-live-homes-market-11782303542037.html
 
-- Govt invites applications for BSNL CMD post, including private sector candidates
-  The deadline for applications is July 22, 2024. BSNL has been without a full
-  🔗 https://www.livemint.com/companies/people/dot-invites-applications-for-bsnl-cmd-role-private-sector-11782284165142.html
+- Elon Musk became world's first trillionaire on June 12, then watched $363 billion disappear within a fortnight
+  Elon Musk's net worth has dropped to $957 billion after a SpaceX and Tesla share slide
+  🔗 https://www.livemint.com/companies/elon-musk-net-worth-trillionaire-status-11782295734581.html
 
-- Cold call to dinner with Mark Zuckerberg, how Kunal Shah clinched the top job at WhatsApp
-  Kunal Shah was hired by Meta Platforms after a three-month hiring process. CPO Chris Cox developed a keen sense that Meta would benefit from someone who
-  🔗 https://www.livemint.com/companies/news/cold-call-to-dinner-with-mark-zuckerberg-how-kunal-shah-clinched-the-top-job-at-whatsapp-11782275207559.html
+- Amazon scales rapid delivery ‘Now’ to 300+ cities; launches ‘Sammaan’ program for delivery partner welfare
+  Amazon.com CEO Andy Jassy: "Customers are loving it...”
+  🔗 https://www.livemint.com/companies/news/amazon-scales-rapid-delivery-now-to-300-cities-launches-sammaan-program-for-delivery-partner-welfare-11782294699012.html
 
-- With non-metro push, Flipkart Minutes takes the road less travelled in quick commerce
-   Flipkart is using its e-commerce muscle, larger grocery baskets and local supply chains to build an early lead in smaller towns
-  🔗 https://www.livemint.com/companies/news/with-non-metro-push-flipkart-minutes-takes-the-road-less-travelled-in-quick-commerce-11782222089843.html
+- Sublime enters travel retail with first airport store at Bengaluru Airport Terminal 2
+  Sublime has opened its first airport store at Bengaluru Airport's Terminal 2. The store offers
+  🔗 https://www.livemint.com/companies/news/sublime-enters-travel-retail-with-first-airport-store-at-bengaluru-kempegowda-international-airport-terminal-2-11782291110739.html
 
-- Meta’s $4.5-billion sandbox: what's at stake for Kunal Shah, WhatsApp and Cred
-   Meta’s landmark $900 million investment in Cred gives it a vital foothold in India's UPI race. Cred
-  🔗 https://www.livemint.com/companies/meta-4-5-billion-sandbox-stake-for-kunal-shah-whatsapp-cred-11782202166820.html
+- Indigo Paints presses the accelerator, puts growth ahead of margins
+   Indigo Paints will accept a 2-2.5 percentage point hit to gross margins as it ramps up spending on trade and influencer marketing to chase market
+  🔗 https://www.livemint.com/companies/indigo-paints-turns-aggressive-to-gain-market-share-11782283612806.html
 
-- Can Info Edge find another Zomato?
-   Info Edge (India) presents a compelling narrative. But with emerging risks and uncertain cash flows, can it maintain its growth trajectory?
-  🔗 https://www.livemint.com/market/mark-to-market/info-edge-zomato-eternal-pb-fintech-startup-portfolio-irr-consumer-tech-consumer-ai-deeptech-ai-11782288328125.html
+- CSM Technologies IPO: Issue receives tepid response on Day 01, subscribed 0.26x; GMP signals flat listing
+  CSM Technologies' IPO opened on June 24 but saw low demand, being subscribed 0.26 times on the first day. The  ₹146-crore offering comprises fresh equity
+  🔗 https://www.livemint.com/market/stock-market-news/csm-technologies-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-26x-gmp-signals-flat-listing-11782306711349.html
 
-- Ruchit Jain of Motilal Oswal suggests AXIS Bank, Genus Power shares to buy for the short term
-  The Nifty 50 rose 0.95%, while the BSE Sensex gained 1.27%. However, the broader market remained weak, with smallcap and midcap indices declining
-  🔗 https://www.livemint.com/market/stock-market-news/ruchit-jain-of-motilal-oswal-suggests-axis-bank-genus-power-shares-to-buy-for-the-short-term-11782288826894.html
+- US stock market today: S&amp;P 500, Nasdaq futures rise as tech stocks rebound; Brent slips below $75
+  S&amp;amp;P 500 futures increased by 0.2% as investors remain concerned about the valuation and potential returns from recent capital expenditures in AI
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-tech-stocks-rebound-brent-crude-slips-below-75-11782300799272.html
 
-- Crude oil nears four-month low as Strait of Hormuz flows normalise; can prices fall below $50?
-  Crude oil prices have retreated more than 36% from the highs of nearly $120 per barrel reached during the peak of the recent US
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-drop-near-four-month-low-as-strait-of-hormuz-flows-normalize-can-oil-sink-below-50-a-barrel-11782288678513.html
+- Nifty 50 reclaims 24,000: Five market experts predict the index's short-term outlook
+  The Nifty 50 index has surged past the crucial 24,000 mark, driven by short covering and lower crude oil prices. Market experts share their insights on resistance levels,
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-reclaims-24-000-five-market-experts-predict-the-indexs-short-term-outlook-11782301967786.html
 
-- Sensex jumps 1,000 points, Nifty 50 nears 24,100: Key factors behind stock market rally explained
-  The Sensex jumped almost 1,000 points, or more than 1.3%, to an intraday high of 77
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-1-000-points-nifty-50-nears-24-100-key-factors-behind-stock-market-rally-explained-11782288771608.html
+- Motilal Oswal initiates coverage on 8 textile stocks, including Arvind and Gokaldas Exports; sees up to 39% upside
+  Motilal Oswal has started coverage on eight textile firms, predicting growth due to global demand recovery and capacity expansions. They recommend 'buy
+  🔗 https://www.livemint.com/market/stock-market-news/motilal-oswal-initiates-coverage-on-8-textile-stocks-including-arvind-and-gokaldas-exports-sees-up-to-39-upside-11782298265932.html
 
-- Bajaj Auto buyback record date today; shares decline 3% intraday. Details here
-  Bajaj Auto share price opened at  ₹9
-  🔗 https://www.livemint.com/market/stock-market-news/bajaj-auto-buyback-record-date-today-shares-decline-3-intraday-details-here-11782285485005.html
+- Can a reversal in global AI trade benefit Indian stock market?
+  Experts propose that India's diverse economy and macro stability might attract foreign institutional investments. With potential shifts in AI stocks, could India emerge as a prime destination
+  🔗 https://www.livemint.com/market/stock-market-news/can-a-reversal-in-global-ai-trade-benefit-indian-stock-market-11782293296198.html
+
+- Built without Nvidia chips, China's LineShine supercomputer just dethroned America's most powerful El Capitan
+  China's LineShine supercomputer has topped the TOP500 global rankings for the first time since 2017. It runs entirely on homegrown chips, with no Nvidia GPUs.
+  🔗 https://www.livemint.com/technology/built-without-nvidia-chips-chinas-lineshine-supercomputer-just-dethroned-americas-most-powerful-el-capitan-11782306841616.html
+
+- Mint Explainer | From JLR to iPhones, are cyberattacks hurting Tata's global goals?
+  Over the past 18 months, separate cyberattack incidents have involved T
+  🔗 https://www.livemint.com/technology/tata-electronics-cyberattack-apple-iphones-tesla-trade-secrets-jlr-tata-motors-11782287342541.html
 
 - Is Claude down? Anthropic says ‘fix has been implemented and…’ as major oputage hits AI assistant
   St. Claude suffered a major outage affecting thousands of users. Anthropic says a fix has been
@@ -92,133 +100,153 @@
   SpaceX's $2.5 trillion valuation is driven by its reusable rocket technology. India’s startups, Skyroot and Agnikul, are targeting small-satellite launches
   🔗 https://www.livemint.com/technology/can-india-build-its-own-spacex-mint-explainer-11781779111842.html
 
-- ₹33 LPA club: How Indian CXOs and VPs are using AI upskilling to command top salaries
-  Tech-centric capability is no longer siloed within traditional engineering
-  🔗 https://www.livemint.com/technology/tech-news/rs-33-lpa-club-how-indian-cxos-and-vps-are-using-ai-upskilling-to-command-top-salaries-11781792408551.html
+- Stock Market Today: Nasdaq, S&P 500 Inch Up After Two-Day Tech Slide, Dow Flat — Live Updates - WSJ
+  Stock Market Today: Nasdaq, S&amp;P 500 Inch
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUo1R3gzOGp3TW5ZS3I3ZGdQOEJWdmozUE8yNHRzYWpDLVNfdVZKUGlIdjNYUFFhaDlJQ0Frb1lORDJiSnNFZTNEaHpWZVJOSXNVWmNFSzZxT2dxZHpwYkR1RnItSUdWYk1MSktOc3ltczBpaUY4Q3AtdjZKcWpsMVRkcVBMYXc?oc=5
 
-- Will iPhones and MacBooks get costlier? Why Tim Cook says Apple price hikes are unavoidable
-  Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
-  🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
+- Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets - CNBC
+  Nasdaq closes 2% lower, led by Mic
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5
 
-- Stock Market News, June 23, 2026: Tech Slide Deepens as AI Fears Get Worse - WSJ
-  Stock market today: S&amp;P 500, Nasdaq hit pause after tech rout with Micron in focus.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxORU55eHdYdkt5V3pydzQ2aDlIQ1Z1RVJHSnNhTjU5YW0ydjZ3Rm9TT3hUZmh4NlBhN3FfMlFhSUQ0eDhqRTdaU1laNjAtUV9mZFQzd0xzQ2RJUHR3RWlyVjk2eW5EYmtfbzQzNTdadjYwWmpVSUJPYURGUm9HdjhUSFVVODBRNGc?oc=5
+- Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance
+  Micron is one of the biggest Micron shareholders. Micron is
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTS3FxMWw0MWpkbW9ZMHlFTERzN1VqTmRTY1Q3dmY3UElsZzFybEtJdmhBalJ0ZkVKUm9uOVQ2TXRGdzAyWUNnR09lRmwxNXphZWp5V2I0TVpMaFlmMHh2NjdoVGJLZy1maEZ4ckZESnZzaWVvZW9HVmRQV04tQ2pHdVRRWnNjOTBPT2JpNnFzb3dfUWt1d0tXelI2Z0NiUFowYy1nMGE5VGZYMncxbmY5TDBWMlhtWDcxd1ZKVTBUWFpoMGZ4dy1sVnBENHM?oc=5
 
-- Sensex Today | Stock Market Live: Sensex rallies over 900 points, Nifty tops 24,050; bank, IT stocks power gains - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbm
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbmJ2VWtLTDJtak1YU3ZyZkZLS0UwYUVyaDRrYXlNSC1pVU41Qlo1YW1HLWIxS0hLVXpNQ3poVkUtMnhXbDlKeV9DMFJhMHZNblBuZGRscTdjNFVYbTZMTnAwclNOWnFEeWdYdlY2MHluN0xzb2F6MTZLUV9uOVdzd2hWSENnOVkwZmpmTk53elVaQnJzRmVUdU5iVFlZU2VGZWhvT1ROWWhrRnFscVJiLV9Ga9IBmAJBVV95cUxPeEpETllpSWRCbFNZN3JBS0hwZTdydEdZcUYxZW5hVkFnWjZzYUsyaW9WbERnSlZGcC1PdkoxbEtIWXhQX0RPR0d0bE11cmNiUFktVHpiMFN5ZTFwcWRjbnhjemRRbzA0Z0hFd2ltenlMbDlfd2NCV04xaTFvR2ZfM2laV2RONkEtaG9HLVFHUHVxOHNFYmlIUGYyM0ZQVTI2QkxuYThoREFZVXNQMk5tT1pPZjJ6MDlPNThUYjhFb0w0Sm5wbXZib09wQXg3cnJ0MHM0YXMxMEY2T2R5R1p6YUYwWlBSVnJlaUczZVFKR3E4cG5xclk2alJ3RVc5MUl3N3hUX3JRYnRxWnJVRm9sdDZVQ2R4WFdV?oc=5
+- Polymarket-backed platform boosts funding to root out insider trading on prediction markets - CNBC
+  Polymarket-backed platform boosts funding to root out
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQVnBNdUdXSGcxeEUzSXZPcWpkalRETWhmVWJ0aVM5Vnk4WWRBSmxRZm9QOVYtSjluTjlYTURkell0bW1LanU1LTFMODEwVVdmZTlGRk02M0M2T1c3NUJHZ2NTT2JFWHBQRkFJaVdjWUJMdTNvR1RCUmJRVzUtY1FHcXlpQXlQOWtsN0liOU9tbF9yMVhtREdISDdSZFY1dUZQcmpLcUI5RXNnMzlRbnVfdkJwa3pxQ3N5Y3pnMndIYm5SSWJvX1RV?oc=5
 
-- Meta Has Created a Prediction Markets App - The New York Times
-  The New York Times has created a Prediction
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0ozcTJYZXNWX1Rvbno4eW56VDU5Q1ZtOE1fZi1DWTFvUWlhTHRZYzhsMGJxNVJaaTVLQUdQa1dkbUVUc3pGaWM1a19EaUliOWQycDdWMEd1dU5KaEhEWlFXWHZvVjdtNHJZeUJuenFuQnIyWXdVaDA1YTBKOXh6Yk8xcFY?oc=5
+- Kalshi CEO says prediction market thinking about IPO, but not for this year - CNBC
+  Kalshi CEO says prediction market thinking about IPO,
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1YzSmRRRVhVb05sZ19jZVFTMDFZbktsZ1VMb3dQSWJFZkRBbWF3Qmx5dEJ6ZlVJbGtaMkMwRWRmTXY3V2wwb0R2M0V0d2dsX0dleUZRTTM4MjhxQWM5T1RVTDZHRzNXaVNuX2YyMHUtbkI5QlpPczJZWlZPelByYl82MURqOFo3OUJYbmNFSmVxWlVBZWhMSEw1X0hlUXVnX2VCX9IBqgFBVV95cUxNaTVyVWZZcWJzV3RHRFZmaXQwaUF0aXlNSkd6bTZRV1RxN1dHbW9BNDA0RkR5eEZ5eTBXS2xqcWx0bE5UYk9JV2FJRVpqUU93ZHFYS2I2V2E0S3ZDRFB3Sm1xX01fSXVrSXhLR1NfYVRyZnZLbHVXNkNtcmF3UXRMdzA4R3M0cXJzVEV2dGZUWm01M3BybU42bEplc2FZNHpETEtVOVpVWkwyQQ?oc=5
 
-- Meta is building a prediction markets app. These stocks fell in response - CNBC
-  &nbsp;<font color="#6f
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzFRQWNlN0tBMUE4V2JpQ3JxYmJad1dVUFlORXNBS2syUHNmZWR4S2JZMzYxZVVIX1RyWU1QY2FSaEtMOXU2S2RJUnZlUWI2eFcxR3FZR0V2SGl0SjhBZl9hc21NSWRqb2NkbXBlR3dERjROaVJ2OUVqN05XZVlfTlc1dFAtMmxBcDdxZ3V5YURZUFh6NDFOUW1iUF90b0RQYmfSAacBQVVfeXFMUGNoYTRCQzZiZlRaVm1FVjlPQnotNmZiU042UWNMV3hXS1JwVmcxcVU0dDNiU1hxTTdTWHdiZ0M5aURpLUhyNUFkX2pZRWw3cll0VkZHQ3U3S0FGQ3hfTlZsRFhtXzN6UndfaUE5Sy16Vk8yMlI5RUM2NHVxLTVfV2NfaXhLWkphR29PTjdWQVRuQTFSb2FkZEJOVm42TEFBSXk1UHpCenM?oc=5
+- US stocks: JP Morgan raises S&amp;P 500 year-end target to 7,800, joins bullish trend
+  J.P. Morgan has elevated its forecast for the S&amp;P 500 in 2026 to 7,800. This optimistic prediction aligns with a recent trend of upgrades from various brokerages.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-jp-morgan-raises-sp-500-year-end-target-to-7800-joins-bullish-trend/articleshow/131970666.cms
 
-- Mark Zuckerberg directed Meta to create a prediction markets app: Report - The Hindu
-  Mark Zuckerberg directed Meta to create a prediction markets app
-  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUNta3JHNjNwX3pnamNBWU1sblJVT3BqR0hySUdUMTZYZWlTVFhLRzBDZWlZc21Hd0JJZkJjRXEyOGtWd0JZM1lPTE9Na245WHdIWHJUY3JSYXlwWU1ZdElnakhvQTdYLWFndWNLcWJQOWl1aXRRWWp3a0VqazlmRVlvSGVucWhxZmtmdEUzT3dpYVplX3hULV9XMllCam85U3hqMlRkckJHMFdkWmZObDNRNHVxamUtUWxzb0x4bVdvdGxVMkJzcEQ2dGdZVE9vX2fSAdgBQVVfeXFMTWR3cHhqaWpJSFNxXzE3Qk9lR0FUbTN0a21CLWwtQlJjc1c2Ujd3eVZsM05xYi1hd01TeWYyZmduajNHSENTcEUza3ZoazJxYllQNEdSU1VjeU12NVlFZjJoRHQ4bGpGbEdVckZscHNpanNiLWRHajhWNmUzeXBfVUVqT3piSzRHUTR6ZzdjaDR4R1F1OW85aUtrNmNZa20xWEw5VEJZUjhFcUFpU1p2OVkzVWltQlVTdk10U2U2ZHhHczhNeE1JUmZrN3lPVnFvWVZ3MFRGQ25E?oc=5
+- IRFC OFS subscribed over 1.5x by institutional investors; govt to exercise greenshoe option
+  The government’s offer for sale in IRFC received a strong response from institutional investors. The non-retail portion subscribed 1.86 times on Wednesday. The Centre will exercise the greenshoe option, allowing it to sell
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/irfc-ofs-subscribed-over-1-5x-by-institutional-investors-govt-to-exercise-greenshoe-option/articleshow/131970660.cms
 
-- RBI in wait-and-watch mode despite easing West Asia risks: Sanjay Malhotra
-  The RBI remains cautious, with Governor Sanjay Malhotra emphasizing data dependency over pre-set interest rate paths. The central bank is closely monitoring potential inflation spillover effects and external challenges.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/rbi-in-wait-and-watch-mode-despite-easing-west-asia-risks-sanjay-malhotra/articleshow/131961067.cms
+- US Stocks Today | US stocks subdued as tech steadies, Micron earnings in focus
+  The Dow Jones Industrial Average experienced a slight dip, while the S&amp;P 500 saw a marginal gain at the opening bell. Technology stocks showed signs of recovery after a significant downturn earlier in the week.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-as-tech-steadies-micron-earnings-in-focus/articleshow/131970363.cms
 
-- Explained: Why are textile stocks making big gains on Wednesday?
-  Pearl Global surged nearly 10%, while Indo Count and KPR Mill gained around 8% each. Analysts believe Indian textile exporters are entering a multi-year growth phase after years of subdued demand.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-why-are-textile-stocks-making-big-gains-on-wednesday/articleshow/131960968.cms
+- FundsIndia raises Rs 44.6 crore through maiden secured NCD issue
+  FundsIndia has raised Rs 44.6 crore through its maiden private placement of secured non-convertible debentures. The proceeds will be used to strengthen its technology platform.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/fundsindia-raises-rs-44-6-crore-through-maiden-secured-ncd-issue/articleshow/131970149.cms
 
-- Stock Market Holiday: NSE, BSE to remain shut on Friday for Muharram. Check upcoming market holidays
-  Indian stock markets will observe a holiday on Friday, June 26, 2026, for Muharram. While MCX will have a partial closure, NCDEX will be shut all day.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-to-remain-shut-on-friday-for-muharram-check-upcoming-market-holidays/articleshow/131960083.cms
+- Brent crude falls 3%, drops below $75/bbl for first time since US-Iran war began
+  Global oil prices tumbled as signs emerged of increased tanker activity in the Strait of Hormuz. Analysts suggest this, coupled with eased hostilities and a U.S. sanctions waiver, is pressuring prices. Despite encouraging signs, uncertainty
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-drops-below-75/bbl-for-first-time-since-start-of-mideast-war/articleshow/131968912.cms
 
-- RBI intervention steadies rupee, governor's rate comment pulls down hedging costs
-  The Indian rupee showed resilience on Wednesday, recovering from earlier dips, a relief attributed to possible central bank measures. Concurrently, the Reserve Bank of India governor's remarks on interest rate hikes being 'premature' led to a
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-steadies-rupee-governors-rate-comment-pulls-down-hedging-costs/articleshow/131960011.cms
+- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
+  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
 
-- Japan's Nikkei falls on Fed rate-hike bets, tech valuation concerns
-  The Nikkei 225 benchmark pulled back from its recent peak, reflecting declines in US stocks, notably in the semiconductor field. While chip and insurance sectors struggled, retail stocks managed to rise.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-on-fed-rate-hike-bets-tech-valuation-concerns/articleshow/131959954.cms
-
-- India prepares contingency plans due to weak monsoon season - Al Jazeera
-  India prepares contingency plans due to weak mon
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
-
-- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
-  "Private Franchisee Politics": BRS J
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
-
-- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
-  Jonnagiri is India’s largest private gold mine.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
-
-- Amazon CEO Andy Jassy in India - About Amazon India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
 - Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
   Kunal Shah: The Indian entrepreneur
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
 
-- India prepares contingency plans due to weak monsoon season - Al Jazeera
-  India prepares contingency plans due to weak mon
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
+- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
+  How WhatsApp's $1B India business
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
 
-- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
-  "Private Franchisee Politics": BRS J
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
+- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
+  Flipkart, Amazon expand quick commerce
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
 
-- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
-  Jonnagiri is India’s largest private gold mine.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
+- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
+  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
 
-- Amazon CEO Andy Jassy in India - About Amazon India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
-
-- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
-  Kunal Shah: The Indian entrepreneur
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
-
-- India prepares contingency plans due to weak monsoon season - Al Jazeera
-  India prepares contingency plans due to weak mon
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
-
-- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
-  "Private Franchisee Politics": BRS J
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
-
-- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
-  Jonnagiri is India’s largest private gold mine.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
-
-- Amazon CEO Andy Jassy in India - About Amazon India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
 - Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
   Kunal Shah: The Indian entrepreneur
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
 
-- India prepares contingency plans due to weak monsoon season - Al Jazeera
-  India prepares contingency plans due to weak mon
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
+- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
+  How WhatsApp's $1B India business
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
 
-- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
-  "Private Franchisee Politics": BRS J
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
+- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
+  Flipkart, Amazon expand quick commerce
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
 
-- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
-  Jonnagiri is India’s largest private gold mine.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
+- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
+  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
 
-- Amazon CEO Andy Jassy in India - About Amazon India
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
 - Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
   Kunal Shah: The Indian entrepreneur
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
 
+- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
+  How WhatsApp's $1B India business
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
 
-_Last updated: 2026-06-24 09:02:09 UTC_
+- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
+  Flipkart, Amazon expand quick commerce
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+
+- Bangladesh to buy Chinese jets used by Pak in Op Sindoor. What it means for India - India Today
+  Bangladesh to buy Chinese jets used by Pak in Op Sindoor.
+  🔗 https://news.google.com/rss/articles/CBMi-gFBVV95cUxNczlWVnpONU80c1VWZWd1bkg0cE0xSjEwUGhtQkNBRzJDUmxFNGZOd0hHVzdYUGgxOEoyVEQ4eTFWNVpJQTZrT0FyTkxnZWZ5M2g3TXFqdUNHbm1WMW1MdGdIWGV0NGlpUzJaVGhpN0dKMHdmVlFWVlhGdzRidGpteGlrRjZ6SHFTSEc1bjVSNnd6SEFsU0Y4YXBWSGNybVY4REtqc2puX01wVHd6QzRzV0M3bk11N2lYR3pRMDY4U3BEWlZNVk55TGtJMkpPai1KVlN3dFRPUWsyV0RHb21HQm9UUXF6MWQ4Z0ZEVm5TaXloTTg5eGZiaUdn0gH_AUFVX3lxTFBGblMyQXBFbENldFhNV3VDOFZ3UUVjanFnMFRFYkNpSlA2UmtxdmZYUE9MNklnSXAwLV9ld0taNXZfZ3JubF9USXlkYXRYM194RDVidExRMUN6WjZfeHpvTEwtcjFjYk1kYUdMSDBYa2M4NFZOV21VT2F1d0dXUzFaeXVZVlZqRzhvbk1QU2ZnOFlHWU54Qk9fdk5MZk5EdS04aGFWNjNLUXZIbWxGbFJzNG9SSUpnTWhtSmxLeGVaZjZwODR0LWhOcWdOeHhtWXNxbVp0bzdCajFoWGFZVVFQa1BlOXVaXzNDOHZLd3EtZUxEMUs3dnR6ME9kVEYzdw?oc=5
+
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+
+- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
+  Kunal Shah: The Indian entrepreneur
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+
+- How WhatsApp's $1B India business shaped Meta's Kunal Shah bet - Moneycontrol.com
+  How WhatsApp's $1B India business
+  🔗 https://news.google.com/rss/articles/CBMisgJBVV95cUxQMXNkMENkVk1zbjN3WFlXdHAzZWw1Rlhqdm02Snd5N3F6NmJabGdWVXZMUW9yUV9VYWNjMkVOUk1uV3pxZjNnYkdncDlCajNNejBPZ3JpTjZYS2lQWC13NEZNNGUwcXdHYnpXbFhpUEtRaER2NW0zRGNfQkxHMDhwX2dNaFBHRUcyYVJwZ0dZb1duMTBIWGw5ZVB0TFJ0LUJoUFQtdThZa2VOYmxHdjFvWFBUZDU2N0JYYWNxclRHZ2FVRUJ6eXZzblA5V29PcGlDb1lkYVVkZDVGVkcxYk9wWlBGNTBqMzRHbVdJY1NWWE1FWGVtbmtxTmpvbGIyMThGWkRuMEJhMWtzQUg1TnU4Wi16N0JMNC0tY0hNV0ZDZHBSa0stdGsxQVR1WEVodjdYZ3c?oc=5
+
+- Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine
+  Flipkart, Amazon expand quick commerce
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+
+
+_Last updated: 2026-06-24 14:19:38 UTC_
