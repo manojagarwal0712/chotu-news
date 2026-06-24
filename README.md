@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ED searches at nine premises linked to Bengaluru-based gold exporter over ‘financial irregularities’
+- Faith, property rights, public order: Why Vijay govt is taking Karthigai Deepam row to Supreme Court
   
-  🔗 https://indianexpress.com/article/india/ed-searches-at-nine-premises-linked-to-bengaluru-based-gold-exporter-over-financial-irregularities-10754234/
+  🔗 https://indianexpress.com/article/india/faith-property-rights-public-order-why-vijay-govt-is-taking-karthigai-deepam-row-to-supreme-court-10754288/
 
-- NSA Ajit Doval, Wang Yi discuss ties; imperative to respect each other’s core interests, says China foreign minister
+- Defender, Mercedes cars seized as police take action over viral Guwahati birthday celebration video
   
-  🔗 https://indianexpress.com/article/india/brics-nsa-meet-delhi-ajit-doval-wang-yi-india-china-border-10754177/
+  🔗 https://indianexpress.com/article/india/defender-mercedes-cars-seized-as-police-take-action-over-viral-guwahati-birthday-celebration-video-10754286/
 
-- Foreign funding rules tightened for NGOs, penalties revised
+- Drinks, 8 deaths, and a survivor: The trail that led police to ‘serial killer’ in small Chhattisgarh village
   
-  🔗 https://indianexpress.com/article/india/mha-tightens-fcra-ngo-rules-anti-proselytization-clause-penalties-10754039/
+  🔗 https://indianexpress.com/article/india/drinks-8-deaths-and-a-survivor-the-trail-that-led-police-to-serial-killer-in-small-chhattisgarh-village-10754291/
 
-- Complete shutdown in Ladakh: ‘Policies being forced upon us,’ say leaders
+- A Facebook Live and a shooting: Why Bharat Tiwari’s death in police encounter has shaken Bihar
   
-  🔗 https://indianexpress.com/article/india/ladakh-shutdown-leh-kargil-protest-mha-meeting-liquor-policy-10754054/
+  🔗 https://indianexpress.com/article/india/a-facebook-live-and-a-shooting-why-bharat-tiwaris-death-in-police-encounter-has-shaken-bihar-10754296/
 
-- 3-day standoff at Uttarakhand gurdwara ends with Nihang group leaving rooftop
+- ‘Tamper-proof’ IDs, real-time traffic monitoring: Security for this year’s Amarnath Yatra goes high-tech
   
-  🔗 https://indianexpress.com/article/india/rudraprayag-nagarasu-gurdwara-standoff-nihang-sikhs-dhami-inquiry-10753889/
+  🔗 https://indianexpress.com/article/india/tamper-proof-ids-real-time-traffic-monitoring-security-for-this-years-amarnath-yatra-goes-high-tech-10754292/
 
 - Meta launches AI smart glasses from $299, Kylie Jenner edition unveiled
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-fugu-sakana-ai-agents-export-controls-10753629/
 
+- With non-metro push, Flipkart Minutes takes the road less travelled in quick commerce
+   Flipkart is using its e-commerce muscle, larger grocery baskets and local supply chains to build an early lead in smaller towns
+  🔗 https://www.livemint.com/companies/news/with-non-metro-push-flipkart-minutes-takes-the-road-less-travelled-in-quick-commerce-11782222089843.html
+
+- Meta’s $4.5-billion sandbox: what's at stake for Kunal Shah, WhatsApp and Cred
+   Meta’s landmark $900 million investment in Cred gives it a vital foothold in India's UPI race. Cred
+  🔗 https://www.livemint.com/companies/meta-4-5-billion-sandbox-stake-for-kunal-shah-whatsapp-cred-11782202166820.html
+
 - Zuckerberg bets on Meta entering prediction markets with a new app to challenge Polymarket, Kalshi: Report
   Mark Zuckerberg has directed an internal team to build a standalone prediction markets app. The app would initially use a points system, with real money betting not ruled out for later.
   🔗 https://www.livemint.com/companies/news/zuckerberg-bets-on-meta-entering-prediction-markets-with-a-new-app-to-challenge-polymarket-kalshi-11782233438931.html
@@ -52,33 +60,25 @@
   Rashi Peripherals is set to acquire a 67% stake initially. The balance 33%
   🔗 https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html
 
-- Honasa to acquire 58% stake in nutraceutical company Fluence Pharma
-  Honasa, which sells brands like Mamaearth and Aqualogica, will acquire the stake in two
-  🔗 https://www.livemint.com/companies/news/honasa-consumer-share-price-fluence-pharma-neutraceutical-market-india-11782221576105.html
+- Stock market today:Gift Nifty hints muted start;US tech stocks sell-off, Kospi rebounds to oil prices - 8 stocks to buy
+  Sensex and Nifty 50 are expected to open subdued due to mixed global signals. Investor sentiment remains cautious ahead of US-Iran negotiations, impacting the market outlook.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-tech-stocks-sell-off-kospi-rebounds-to-oil-prices-8-stocks-to-buy-11782264922093.html
 
-- Trent chair Noel Tata set to retire, leaving behind retail powerhouse
-  Tata has been associated with Trent since 1998. He took over as managing director in 1999 and led the company for over 11 years.
-  🔗 https://www.livemint.com/companies/news/noel-tata-bids-farewell-as-chairman-of-trent-11782221790258.html
+- Stocks to watch: Vedanta, IRFC, Yes Bank among shares in focus today; check list here
+  Sensex tumbled 893.39 points, or 1.16%, to end the session at 76,200.68.
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-vedanta-irfc-yes-bank-among-shares-in-focus-today-check-list-here-11782266318458.html
 
-- YES Bank board to consider fundraise via equity and debt securities
-  Yes Bank's board will meet on June 29, 2026, to consider capital raising. The proposals aim to provide flexibility for future fundraising aligned with regulatory requirements.
-  🔗 https://www.livemint.com/market/stock-market-news/yes-bank-board-to-consider-fundraise-via-equity-and-debt-securities-11782233559895.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 June
+  Gift Nifty was trading around 23,868 level, a premium of nearly 15 points from the Nifty futures’ previous close. The trends on Gift Nifty
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-june-11782265374822.html
 
-- Kalshi adds India to restricted list after prediction market ban
-  Kalshi Inc. has restricted users in India from trading event contracts. The country's tech ministry deemed prediction markets illegal.
-  🔗 https://www.livemint.com/market/kalshi-adds-india-to-restricted-list-after-prediction-market-ban-11782232443748.html
+- Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel
+  Global benchmark Brent crude futures for August delivery declined 0.45% to $76.73 per barrel on
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-extend-fall-on-smoother-flows-through-strait-of-hormuz-brent-below-77-per-barrel-11782265079363.html
 
-- Gold, silver rates today: Comex gold and silver extend losses for third straight day as Fed rate-hike bets rise
-  Gold futures fell to $4,108, and silver dropped to $61.53. Silver experienced an 18% loss in June alone and declining nearly 50% from its January peak.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-losses-for-third-straight-day-as-fed-rate-hike-bets-rise-11782229589160.html
-
-- Sebi proposes ad rules for MF, stock brokers: Celebrities may endorse brands, not products | What's allowed, what's not
-  The Common Advertisement Code aims for consistent regulations, eliminating prior approval and enabling post-issuance monitoring. Sebi proposed new advertising rules
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-proposes-ad-rules-for-mf-stock-brokers-celebrities-may-endorse-brands-not-products-whats-allowed-whats-not-11782229190042.html
-
-- Waterways Leisure Tourism IPO: Issue receives tepid response on Day 01, subscribed 0.20x; GMP signals flat listing
-  Waterways Leisure Tourism's IPO opened on June 23 but saw low interest. A total of 8.14 lakh shares were bid for against 39.82 lakh available. The company aims to raise 
-  🔗 https://www.livemint.com/market/stock-market-news/waterways-leisure-tourism-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-20x-gmp-signals-flat-listing-11782228482925.html
+- From Gift Nifty, Nasdaq selloff, US dollar to oil prices: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,874 level, a premium of nearly 21 points from the Nifty futures
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-nasdaq-selloff-us-dollar-to-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11782263263946.html
 
 - Is Claude down? Anthropic says ‘fix has been implemented and…’ as major oputage hits AI assistant
   St. Claude suffered a major outage affecting thousands of users. Anthropic says a fix has been
@@ -100,65 +100,85 @@
   Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
   🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
 
-- S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates - CNBC
-  S&amp;P 500 falls on global chip rout with Nasdaq off 2%, led by Micron.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5
+- Dhanwel Hybrid Seeds IPO: GMP among key details to know before subscription
+  The Rs 26.73-crore IPO is entirely a fresh issue of 27 lakh equity
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/dhanwel-hybrid-seeds-ipo-gmp-among-key-details-to-know-before-subscription/articleshow/131952926.cms
 
-- FTSE 100 Live: European Stocks Sink in Global Tech Selloff - Bloomberg
-  The FTSE 100 is down
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNUVV5YkxIME0tU1RvX0xPdG9xd0hlTjNfUklYbklJbmJxLXR6ZVhreTRQNklTVnk2bUZnQkhIVlZsWTk2cWJzY2piTFA0R2V1OFFGQTJmeThyMzRMZ2VJQ1kwWFZ5S25WX0RSc3lsZGY2UWpKdW83VTl0ejJYM0ZtdTB5Q0YxVFlVbXVHWHg5R0l5dm8xdnM5QkgxQUxYZV8tQUdEdjJDdXEtLUNZQzdWWFhmbEgxNEFmZS1KcXNENmRILXhNTTdKb091Y1Z2eUl3d3FCSkMzQXRQSHJMd19mOW9jY0dRdTdVeWhxMC1PakdsZmRDeE5ZTGpzZWhqaFhCbFdZSEZkWlNBdldX?oc=5
+- Clay Craft India shares to list today. Check GMP ahead of debut
+  The Rs 110.11-crore NSE SME IPO was subscribed 103.06 times during the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/clay-craft-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131952886.cms
 
-- Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect - CNBC
-  Mamdani-backed candidates are likely to win in
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNaU9NYW1rUUUtZl9PSWthaHB0aGV5dERvRDBfT1lwTDB3UzFVTk5ScG5abDdfNldXaThqSy1PcVZZVjNwU29uZG12NlprRWc0eE9RclNFeVZlTFJJY1U5OW1FRnpVdkRnbGI2eHM2V0lmRlpxZDA2YXowWTd1bmlORkc0V3pSNXYyN1puQUJmWjJwbHRqVDFxNGY3dEnSAaIBQVVfeXFMTXhIRks5Y1BuREZlZndFQzJYR0lsWUVqZlJrcm94Q1Z4ekFBeTNBZjhPTzFrb2t4MU1VS3NJaWZsT1djbnp2TmNkVWo4STBoX1MtUEpGdXh6VHROZ1dNejY1MTVwTXZ2TDhLQm9INWtNSkw5b210ZV8teHFaaE5kR215YzEwT1d1c3l1X3VJS3FSMGU0djA0SHJnU3JQSHVGLWJB?oc=5
+- Diksha Polymers shares to debut today. Here's what GMP suggests ahead of listing
+  The Rs 17.9-crore IPO received a modest response from investors. The
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diksha-polymers-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/131952868.cms
 
-- South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs - Reuters
-  South Korea's KOSPI plunges nearly 10
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUdDOF9YWnk5UExOWFVMYTRlWUhBcmI5cGM3aE5nMEwwYWhnbkpKMVFYcy1UMEhLbjQ2Mm1rc0RKQWtyRG9pczQtTjN6TE12WUVoNmUyZTFkb01yQl84aldiaWpTT1RmRzlZQVF2M2VKdUdFZ29sMzdXR2t0XzVfQnNhVXZIR01PNVRiVVNmTmxpQ0JheFl5bXBHVG9iLXdNN3RlS1ZyOEhpaTlhX0w4Zk11Tlh2MXRhazlsVkNRelVCNUVYM1l1X1VTaw?oc=5
+- Liotech Industries eyes muted BSE SME debut. Check GMP ahead of listing
+  The Rs 36.02-crore IPO received a subdued response from investors. The retail portion was subscribed 2.97 times, while the non-institutional investor (N
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/liotech-industries-eyes-muted-bse-sme-debut-check-gmp-ahead-of-listing/articleshow/131952852.cms
 
-- Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10% - CNN
-  Wall Street is getting trampled by an AI sell-off
-  🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWi1vbVJfRVl3SlVIX0xzRGpoS3pzMFBNYUJreWZsTVpRaUhwY0NFQlVvbGFzRWJRRnlNTWNYaHlTeFF4TUVBaTlkVmxSZ1h3T2tzTk5iRmpnNVZLZURiSkpoaGN0blFvVzMteEJxWFZTT0tOUXRrZlh3VWY?oc=5
+- Oil Price Today (June 24): Crude oil near 4-month low as more tankers pass through Hormuz. What are experts saying?
+  More oil tankers stranded in the Gulf since the start of the Iran conflict are preparing to move through the Strait of Hormuz. Oil prices extended their decline on Wednesday, hovering near the four
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-24-crude-oil-near-4-month-low-as-more-tankers-pass-through-hormuz-what-are-experts-saying/articleshow/131952818.cms
 
-- US stocks: SpaceX draws $89 billion demand for debut high-grade bond sale
-  SpaceX aims to raise between $20 billion and $25 billion to refinance a loan and cover corporate costs. This significant demand highlights investor confidence in Musk's vision.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale/articleshow/131944303.cms
-
-- Axis Bank raises $800 million through dual bond sale
-   Axis Bank successfully raised $800 million through a dual tranche dollar bond. The bank secured $500 million via an Additional Tier 1 perpetual issue and $300 million from a five-year senior bond.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-800-million-through-dual-bond-sale/articleshow/131942561.cms
-
-- Promoter Twin Star sells Vedanta shares worth Rs 1,896 crore in block deal
-  Twin Star Holdings, a promoter entity of Vedanta, sold 6.51 crore shares worth nearly Rs 1,896 crore through a block deal on Tuesday. The transaction comes amid Vedanta's ongoing restructuring efforts
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/promoter-twin-star-sells-vedanta-shares-worth-rs-1896-crore-in-block-deal/articleshow/131942520.cms
-
-- Ahead of Market: 10 things that will decide stock market action on Wednesday
-  Sensex and Nifty plunged over 1% on Tuesday amid global market weakness. Investors will track technical levels, global cues, FII activity and key stock movements.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms
-
-- US Stocks Today | Chip stocks plunge, but bargain-hunters stem losses in other tech names
-  US chip stocks experienced a significant tumble, impacting the broader market and wiping out billions in value. This selloff, attributed to concentrated trading and shifting sentiment rather than AI fundamentals, highlights the volatility in the tech sector.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-chip-stocks-plunge-but-bargain-hunters-stem-losses-in-other-tech-names/articleshow/131941564.cms
-
-- Wang Yi calls for India, China to accelerate resumption of stalled dialogue mechanisms - The Hindu
-  Wang Yi calls for India, China to accelerate resumption
-  🔗 https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLWMwalpnNndvX010M04ycUszbElkLUUyMnhTTE4wNEZXM1FYRy1faldlTXpHb283TjlJMDlnS1RabHF0Q0Zuc2J6YkZ4OTJZWm54RkNsWExPaUY2SlJER0w2U2F4UzAxVlRhWjI3V1d0M0dPTXpDR0FPaWtSZWg5SFZNVjZ4WmQ3TWRtS21TZHhrdnVsa3h3cmFOVnJfTXpkVEc1MGhYUTh0VnRTNXRkS3lUM3VjdUNLQ3FTSU1mZmlTaDJjMGxvYng5NWRiY0JneXpRbFNfSzB1WlVWUFlpdFJ2a9IB6gFBVV95cUxPZlJrN29KTklKeHUzNTBJV296NlE2T25kWUUtZUFaMzNienhrbEZpOXJOVFhiRzU0VHJjNlJhRWRCSnIzbENISFc0VEVTZUo2MzhKLU1SS1VRXy1ZLXNNb1hWNkRfa3dETTY1ZzhqQmJqNVpnU1V6YW5xS0FJcDZ0S0pXV2Uzdml6RXVvOV85SjhKdHdzQ29DT3B6eGFwaDVQbnJFaEl3cS0zZDBwRUt6bmpGbUMyWE9xT0F0OTZUR1ptc1BOMkl3TXozcElBdmtURm5QMF9oQjdRbkJpb1d0Y0l0dWV2eFh1TXc?oc=5
-
-- Trump administration might make obtaining Green Cards more difficult; find out how Indians will be affected - India.Com
-  Trump administration might make obtaining Green Cards more difficult. Find out how Indians
-  🔗 https://news.google.com/rss/articles/CBMirwJBVV95cUxOa3kwdU4yYjRLS1p6ZFc2LXlPWDQzU0taVjFPVjBuNFNCNjh6aW5NUDJGMXJjcFB5U0lBWTYzT0RiWnNrT3AzaUZjWG9lRFppeWZmek4wX0ZRLWU0QV9UYk5kRVFVd0RtZFlxUXI2d1hNNHZIa3dBekJXVlVrU0FPSmRGd04xSkg5a2xJNlRZRnNuV1R6RDhDbWtlTlp2VWtwWTVLNW11WHNudmFnRGxDUVRxOXc5cGVLbG9LcGt1MUlMQzNndGw4LVJLU2NKOEl5bV9uekVJbm1TU2hmMTdvaTVGcHh3d0Z2NEZwc3FjTnljNkhKRjA3TjNMN3RucXQzd1JwbV9KMDFjMF9TTjdEa01ITDRSR0dkbU5LRzhTeWV4ekR1ckRDQk9nLTNrR2PSAbQCQVVfeXFMTklQbnQ5UC1ZVlMybFN0RWQzNGdHOUdjT0pSUTBrQ0MyOVVwaWtZSkpmeGllam9OU0JpVjZHb0UzZ0FHYi1qVkdtazFpOTY1VktSSDE5WWdvQ2xFdGFIN05DNnNGbWd2bDVWN0hETGFGNkQ4QUVFMHVRWFJibVJmbkczZ3FZa1dUR29oMC1lc19ta3RNNTJTb2hCMUNTcXl1emhBRmhpQTVQd2VTZ2ZCMHNwb3BtdnF1aXB2Q2FvMWVRaWF5V1ZrYU9WQjV2UEFTeVZyaHQ1MlNmdFdFSGdocnU5aTdyV0VkQmczUjJya01Fb2lKUlMtQkxnWHd6ZWhyRkU2QkJkSEpseV8tam05Q2FzcDU2M09KTHpYU2JoMVNtZkxEY2tCS2hwSlJoMUQtSmJhVmE?oc=5
-
-- US Envoy Underscores Positive Ties With India, Highlights Tamil Nadu's Role - NDTV
-  US Envoy Underscores Positive T
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGQ1Um9EU1REMHFSRlRsa3dMVUk1N2FhaWRiNnZPZHFUcjZEMkxSZFJyNDNVazAySDd3dTl0My16cjNYN0l0MTlmcUdIMGMyRnZna21ZRE8tb19YQjg3MVJYcW9Vanp0MTFPUGM3NXo4aWxUZmgtZFJTNEFOWlRldWE5RGUtZ1NWc0VsNDIzOEJ2T054dDhhN05mQThpSlB2OThvblNVT2QwUi1YUHFaSC1jLWrSAbwBQVVfeXFMTUFKMGFobmFjb1dqT1Vlem9FdEhpbFhsNlV0UU5hX056WFlKRjJITFdUYURZdEd5WExCN1g0MUhNcm85S1EyeTRvdk53UktadWJMc0VxSGk1ZzZFMEtFYWtXUktYWkpYMEdzTmFyQXJ6Zjltb09sTE5IMHhJUTlWallSLW92aDR0WEIxbGVjNUc4cG1lQ185N1BfZzRTV3l5LXFkNTNPaEpDa05RLWFSVEFCN1pvZGN1ZVRQSTE?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
 - Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
   Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
   🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
 
-- NITI Aayog proposes pharma chapter for future FTAs, urges India to move up value chain - The Economic Times
-  NITI Aayog proposes pharma chapter for future FTAs.
-  🔗 https://news.google.com/rss/articles/CBMi4wJBVV95cUxNNE9sTlNod3ktRGoyNVRCaHcwbC1PVFJmU1Y1NG9YU2hxcmVFcVBGRXdQUmp5RDBnT3ZxNWZ6OER6ejVTZnB1WDlqUGFmaW9PZlBNOHpyWTlNMmFZOVdNeDRadWsxYjVKVzFWMUJtN2lxbGIzNThaNFdpeFNvWmdTNTBCYjFJNk01LXpUNTFIR3FnYnhWN3hmWXJkeERFZkJ0bDN0QnZQYTdlSEFIbXVyQjJsdjVOTDQ4M2ptWnZROWpDOHBaQmxFVG52RFJBcXotMS1sM09Ha21kUUw5Rl9aWUY5RUwwTENWME9SOU1uYTNtcV9TVkV3LURXdnVSWTlrUHJCUWVQMWt4aUpYWGxYdlBlZkxMM0M2ekV6Q2dkYXFwWHhxd2k0dy1EMzJ6OWZDNjlyMXhqOE1BeG9faTNZWGF4Z2czQm4xY0h4R3ZRREpwdXFyejlxUWZWQ0tSdGhlRG130gH_AUFVX3lxTE9hN1FjaXZrNGx1TURkeUdpdHFPWWFEZGhUUk9tTGxkQ1d0aUJ3elM2WHJTWURRS1JPdmU3aGhBZ0NwbUtqWG9mZ0ZnVWsxSmZkQWd5Z2JPbk03ZTdTLUdjTzE3NnhaRGI4NUR0REJFUFN6bWJxOGhFd0lhUWg4dG0ydjl0Y1V2YVg0OGxVc2daMWRYYUZOeGtnX3lLd1lVSTFIeXotcUtUeFhISEFsRFVQcXl0b3c3R19INUFTYmk4dEh1blNpcDdJYXluck4yT2hmdXUzS3pveVBPSnBGUGtya0hhZENHZDRERDdXNm5fYnppaFE2OUstMUQ5RFVGMA?oc=5
+- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
+  India slams Pakistani Defence Minister Khawaja Asif
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+
+- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
+  'Desperate Bid By Pak To Cover Failings
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+
+- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
+  Is Pakistan using Indus Valley to trick world on Indus treaty
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
+
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+
+- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
+  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+
+- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
+  India slams Pakistani Defence Minister Khawaja Asif
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+
+- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
+  'Desperate Bid By Pak To Cover Failings
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+
+- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
+  Is Pakistan using Indus Valley to trick world on Indus treaty
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
+
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+
+- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
+  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+
+- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
+  India slams Pakistani Defence Minister Khawaja Asif
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+
+- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
+  'Desperate Bid By Pak To Cover Failings
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+
+- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
+  Is Pakistan using Indus Valley to trick world on Indus treaty
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
 
 
-_Last updated: 2026-06-23 19:57:39 UTC_
+_Last updated: 2026-06-24 02:47:27 UTC_
