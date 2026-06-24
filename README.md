@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Faith, property rights, public order: Why Vijay govt is taking Karthigai Deepam row to Supreme Court
+- Kerala BJP councillors took oath in names of deities, martyrs. High Court didn’t agree
+  
+  🔗 https://indianexpress.com/article/india/kerala-bjp-councillors-oath-names-deities-martyrs-high-court-10754981/
+
+- CJP founder Abhijeet Dipke to appear before IT ministry panel over X account ban
+  
+  🔗 https://indianexpress.com/article/india/cjp-abhijeet-dipke-cockroach-it-ministry-panel-x-account-ban-10754756/
+
+- Gold Rate Today, June 24: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-june-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10754609/
+
+- India News Live Updates, 24 June 2026: 2 dozen feared trapped, army helps with Kolkata warehouse collapse rescue
+  
+  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-june-2026-ram-mandir-probe-jharkhand-derailment-iran-senate-10754524/
+
+- Why Tamil Nadu’s Vijay government is taking Karthigai Deepam row to Supreme Court
   
   🔗 https://indianexpress.com/article/india/faith-property-rights-public-order-why-vijay-govt-is-taking-karthigai-deepam-row-to-supreme-court-10754288/
 
-- Defender, Mercedes cars seized as police take action over viral Guwahati birthday celebration video
+- Superhuman to bring GPTZero’s AI detection technology into its platform
   
-  🔗 https://indianexpress.com/article/india/defender-mercedes-cars-seized-as-police-take-action-over-viral-guwahati-birthday-celebration-video-10754286/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/superhuman-to-bring-gptzeros-ai-detection-technology-into-its-platform-10754979/
 
-- Drinks, 8 deaths, and a survivor: The trail that led police to ‘serial killer’ in small Chhattisgarh village
+- Apple may add Samsung-made foldable OLED display to iPhone lineup: Report
   
-  🔗 https://indianexpress.com/article/india/drinks-8-deaths-and-a-survivor-the-trail-that-led-police-to-serial-killer-in-small-chhattisgarh-village-10754291/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-may-add-samsung-made-foldable-oled-display-to-iphone-lineup-report-10754832/
 
-- A Facebook Live and a shooting: Why Bharat Tiwari’s death in police encounter has shaken Bihar
+- WhatsApp may now warn users before they message unfamiliar numbers: Report
   
-  🔗 https://indianexpress.com/article/india/a-facebook-live-and-a-shooting-why-bharat-tiwaris-death-in-police-encounter-has-shaken-bihar-10754296/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-may-now-warn-users-before-they-message-unfamiliar-numbers-report-10754780/
 
-- ‘Tamper-proof’ IDs, real-time traffic monitoring: Security for this year’s Amarnath Yatra goes high-tech
+- Google’s YouTube settles case over social media harm to children
   
-  🔗 https://indianexpress.com/article/india/tamper-proof-ids-real-time-traffic-monitoring-security-for-this-years-amarnath-yatra-goes-high-tech-10754292/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/googles-youtube-settles-case-over-social-media-harm-to-children-10754813/
 
-- Meta launches AI smart glasses from $299, Kylie Jenner edition unveiled
+- Anthropic launches Claude Tag in Slack with plans for wider rollout
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/meta-launches-ai-smart-glasses-from-299-kylie-jenner-edition-unveiled-10754011/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/
 
-- Why scientists are sending hundreds of Texas grape seeds to the ISS
-  
-  🔗 https://indianexpress.com/article/technology/science/texas-grape-seeds-iss-space-radiation-experiment-10753865/
+- MUFG consolidates Ganesha Fund with Dragon, eyes $600 million second fund
+  Mitsubishi UFJ Financial Group will merge Ganesha Fund's operations with Dragon Funds. The new fund aims to raise $600
+  🔗 https://www.livemint.com/companies/mufg-ganesha-fund-dragon-funds-600-million-second-fund-mufg-bank-mars-equity-tech-companies-startups-11782287294705.html
 
-- Tech updates (June 23, 2026): ASUS ROG laptops, OPPO Reno16 series, Steam Machine, more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-june-23-2026-asus-rog-laptops-oppo-reno16-series-steam-machine-more-10753838/
+- Govt invites applications for BSNL CMD post, including private sector candidates
+  The deadline for applications is July 22, 2024. BSNL has been without a full
+  🔗 https://www.livemint.com/companies/people/dot-invites-applications-for-bsnl-cmd-role-private-sector-11782284165142.html
 
-- Google tests camera-based hand gestures to keep a check on bots
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-tests-camera-based-hand-gestures-to-keep-a-check-on-bots-10753777/
-
-- What is Fugu, Sakana’s new AI agent-orchestrator to help navigate export controls?
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/what-is-fugu-sakana-ai-agents-export-controls-10753629/
+- Cold call to dinner with Mark Zuckerberg, how Kunal Shah clinched the top job at WhatsApp
+  Kunal Shah was hired by Meta Platforms after a three-month hiring process. CPO Chris Cox developed a keen sense that Meta would benefit from someone who
+  🔗 https://www.livemint.com/companies/news/cold-call-to-dinner-with-mark-zuckerberg-how-kunal-shah-clinched-the-top-job-at-whatsapp-11782275207559.html
 
 - With non-metro push, Flipkart Minutes takes the road less travelled in quick commerce
    Flipkart is using its e-commerce muscle, larger grocery baskets and local supply chains to build an early lead in smaller towns
@@ -48,37 +60,25 @@
    Meta’s landmark $900 million investment in Cred gives it a vital foothold in India's UPI race. Cred
   🔗 https://www.livemint.com/companies/meta-4-5-billion-sandbox-stake-for-kunal-shah-whatsapp-cred-11782202166820.html
 
-- Zuckerberg bets on Meta entering prediction markets with a new app to challenge Polymarket, Kalshi: Report
-  Mark Zuckerberg has directed an internal team to build a standalone prediction markets app. The app would initially use a points system, with real money betting not ruled out for later.
-  🔗 https://www.livemint.com/companies/news/zuckerberg-bets-on-meta-entering-prediction-markets-with-a-new-app-to-challenge-polymarket-kalshi-11782233438931.html
+- Can Info Edge find another Zomato?
+   Info Edge (India) presents a compelling narrative. But with emerging risks and uncertain cash flows, can it maintain its growth trajectory?
+  🔗 https://www.livemint.com/market/mark-to-market/info-edge-zomato-eternal-pb-fintech-startup-portfolio-irr-consumer-tech-consumer-ai-deeptech-ai-11782288328125.html
 
-- Shareholders quiz Infosys on AI hit as stock nears six-year low
-  Shares of India's second largest information technology service provider fell 3.4% on Tuesday, approaching a six
-  🔗 https://www.livemint.com/companies/shareholders-agm-infosys-management-ai-share-price-revenue-11782224905486.html
+- Ruchit Jain of Motilal Oswal suggests AXIS Bank, Genus Power shares to buy for the short term
+  The Nifty 50 rose 0.95%, while the BSE Sensex gained 1.27%. However, the broader market remained weak, with smallcap and midcap indices declining
+  🔗 https://www.livemint.com/market/stock-market-news/ruchit-jain-of-motilal-oswal-suggests-axis-bank-genus-power-shares-to-buy-for-the-short-term-11782288826894.html
 
-- Rashi Peripherals acquires 67% stake in VDA Infosolutions for  ₹368.5 crore
-  Rashi Peripherals is set to acquire a 67% stake initially. The balance 33%
-  🔗 https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html
+- Crude oil nears four-month low as Strait of Hormuz flows normalise; can prices fall below $50?
+  Crude oil prices have retreated more than 36% from the highs of nearly $120 per barrel reached during the peak of the recent US
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-drop-near-four-month-low-as-strait-of-hormuz-flows-normalize-can-oil-sink-below-50-a-barrel-11782288678513.html
 
-- Stock market today:Gift Nifty hints muted start;US tech stocks sell-off, Kospi rebounds to oil prices - 8 stocks to buy
-  Sensex and Nifty 50 are expected to open subdued due to mixed global signals. Investor sentiment remains cautious ahead of US-Iran negotiations, impacting the market outlook.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-tech-stocks-sell-off-kospi-rebounds-to-oil-prices-8-stocks-to-buy-11782264922093.html
+- Sensex jumps 1,000 points, Nifty 50 nears 24,100: Key factors behind stock market rally explained
+  The Sensex jumped almost 1,000 points, or more than 1.3%, to an intraday high of 77
+  🔗 https://www.livemint.com/market/stock-market-news/sensex-jumps-1-000-points-nifty-50-nears-24-100-key-factors-behind-stock-market-rally-explained-11782288771608.html
 
-- Stocks to watch: Vedanta, IRFC, Yes Bank among shares in focus today; check list here
-  Sensex tumbled 893.39 points, or 1.16%, to end the session at 76,200.68.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-vedanta-irfc-yes-bank-among-shares-in-focus-today-check-list-here-11782266318458.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 June
-  Gift Nifty was trading around 23,868 level, a premium of nearly 15 points from the Nifty futures’ previous close. The trends on Gift Nifty
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-june-11782265374822.html
-
-- Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel
-  Global benchmark Brent crude futures for August delivery declined 0.45% to $76.73 per barrel on
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-extend-fall-on-smoother-flows-through-strait-of-hormuz-brent-below-77-per-barrel-11782265079363.html
-
-- From Gift Nifty, Nasdaq selloff, US dollar to oil prices: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,874 level, a premium of nearly 21 points from the Nifty futures
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-nasdaq-selloff-us-dollar-to-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11782263263946.html
+- Bajaj Auto buyback record date today; shares decline 3% intraday. Details here
+  Bajaj Auto share price opened at  ₹9
+  🔗 https://www.livemint.com/market/stock-market-news/bajaj-auto-buyback-record-date-today-shares-decline-3-intraday-details-here-11782285485005.html
 
 - Is Claude down? Anthropic says ‘fix has been implemented and…’ as major oputage hits AI assistant
   St. Claude suffered a major outage affecting thousands of users. Anthropic says a fix has been
@@ -100,85 +100,125 @@
   Apple CEO Tim Cook recently said the iPhone maker plans to raise product prices to offset the rising costs of memory and storage chips. He did not specify the timeline or the line of products that
   🔗 https://www.livemint.com/technology/tech-news/will-iphone-and-macbook-prices-increase-tim-cook-says-apple-price-hikes-are-unavoidable-heres-why-11781754987342.html
 
-- Dhanwel Hybrid Seeds IPO: GMP among key details to know before subscription
-  The Rs 26.73-crore IPO is entirely a fresh issue of 27 lakh equity
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/dhanwel-hybrid-seeds-ipo-gmp-among-key-details-to-know-before-subscription/articleshow/131952926.cms
+- Stock Market News, June 23, 2026: Tech Slide Deepens as AI Fears Get Worse - WSJ
+  Stock market today: S&amp;P 500, Nasdaq hit pause after tech rout with Micron in focus.
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxORU55eHdYdkt5V3pydzQ2aDlIQ1Z1RVJHSnNhTjU5YW0ydjZ3Rm9TT3hUZmh4NlBhN3FfMlFhSUQ0eDhqRTdaU1laNjAtUV9mZFQzd0xzQ2RJUHR3RWlyVjk2eW5EYmtfbzQzNTdadjYwWmpVSUJPYURGUm9HdjhUSFVVODBRNGc?oc=5
 
-- Clay Craft India shares to list today. Check GMP ahead of debut
-  The Rs 110.11-crore NSE SME IPO was subscribed 103.06 times during the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/clay-craft-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131952886.cms
+- Sensex Today | Stock Market Live: Sensex rallies over 900 points, Nifty tops 24,050; bank, IT stocks power gains - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbm
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNbjRrS2hpMWhZSjAwWVBBbjY5bURPbEg5d3JzZlNLTHhfVlRCa3RJbkliQ2pRMXBDZlkxRk9TbjFTaDA5VTFIcjlfOUdCNlV1cFpWQXJDa3NwVm9PNVBKYVFPVjhZal9sbmJ2VWtLTDJtak1YU3ZyZkZLS0UwYUVyaDRrYXlNSC1pVU41Qlo1YW1HLWIxS0hLVXpNQ3poVkUtMnhXbDlKeV9DMFJhMHZNblBuZGRscTdjNFVYbTZMTnAwclNOWnFEeWdYdlY2MHluN0xzb2F6MTZLUV9uOVdzd2hWSENnOVkwZmpmTk53elVaQnJzRmVUdU5iVFlZU2VGZWhvT1ROWWhrRnFscVJiLV9Ga9IBmAJBVV95cUxPeEpETllpSWRCbFNZN3JBS0hwZTdydEdZcUYxZW5hVkFnWjZzYUsyaW9WbERnSlZGcC1PdkoxbEtIWXhQX0RPR0d0bE11cmNiUFktVHpiMFN5ZTFwcWRjbnhjemRRbzA0Z0hFd2ltenlMbDlfd2NCV04xaTFvR2ZfM2laV2RONkEtaG9HLVFHUHVxOHNFYmlIUGYyM0ZQVTI2QkxuYThoREFZVXNQMk5tT1pPZjJ6MDlPNThUYjhFb0w0Sm5wbXZib09wQXg3cnJ0MHM0YXMxMEY2T2R5R1p6YUYwWlBSVnJlaUczZVFKR3E4cG5xclk2alJ3RVc5MUl3N3hUX3JRYnRxWnJVRm9sdDZVQ2R4WFdV?oc=5
 
-- Diksha Polymers shares to debut today. Here's what GMP suggests ahead of listing
-  The Rs 17.9-crore IPO received a modest response from investors. The
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/diksha-polymers-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/131952868.cms
+- Meta Has Created a Prediction Markets App - The New York Times
+  The New York Times has created a Prediction
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0ozcTJYZXNWX1Rvbno4eW56VDU5Q1ZtOE1fZi1DWTFvUWlhTHRZYzhsMGJxNVJaaTVLQUdQa1dkbUVUc3pGaWM1a19EaUliOWQycDdWMEd1dU5KaEhEWlFXWHZvVjdtNHJZeUJuenFuQnIyWXdVaDA1YTBKOXh6Yk8xcFY?oc=5
 
-- Liotech Industries eyes muted BSE SME debut. Check GMP ahead of listing
-  The Rs 36.02-crore IPO received a subdued response from investors. The retail portion was subscribed 2.97 times, while the non-institutional investor (N
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/liotech-industries-eyes-muted-bse-sme-debut-check-gmp-ahead-of-listing/articleshow/131952852.cms
+- Meta is building a prediction markets app. These stocks fell in response - CNBC
+  &nbsp;<font color="#6f
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzFRQWNlN0tBMUE4V2JpQ3JxYmJad1dVUFlORXNBS2syUHNmZWR4S2JZMzYxZVVIX1RyWU1QY2FSaEtMOXU2S2RJUnZlUWI2eFcxR3FZR0V2SGl0SjhBZl9hc21NSWRqb2NkbXBlR3dERjROaVJ2OUVqN05XZVlfTlc1dFAtMmxBcDdxZ3V5YURZUFh6NDFOUW1iUF90b0RQYmfSAacBQVVfeXFMUGNoYTRCQzZiZlRaVm1FVjlPQnotNmZiU042UWNMV3hXS1JwVmcxcVU0dDNiU1hxTTdTWHdiZ0M5aURpLUhyNUFkX2pZRWw3cll0VkZHQ3U3S0FGQ3hfTlZsRFhtXzN6UndfaUE5Sy16Vk8yMlI5RUM2NHVxLTVfV2NfaXhLWkphR29PTjdWQVRuQTFSb2FkZEJOVm42TEFBSXk1UHpCenM?oc=5
 
-- Oil Price Today (June 24): Crude oil near 4-month low as more tankers pass through Hormuz. What are experts saying?
-  More oil tankers stranded in the Gulf since the start of the Iran conflict are preparing to move through the Strait of Hormuz. Oil prices extended their decline on Wednesday, hovering near the four
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-24-crude-oil-near-4-month-low-as-more-tankers-pass-through-hormuz-what-are-experts-saying/articleshow/131952818.cms
+- Mark Zuckerberg directed Meta to create a prediction markets app: Report - The Hindu
+  Mark Zuckerberg directed Meta to create a prediction markets app
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLUNta3JHNjNwX3pnamNBWU1sblJVT3BqR0hySUdUMTZYZWlTVFhLRzBDZWlZc21Hd0JJZkJjRXEyOGtWd0JZM1lPTE9Na245WHdIWHJUY3JSYXlwWU1ZdElnakhvQTdYLWFndWNLcWJQOWl1aXRRWWp3a0VqazlmRVlvSGVucWhxZmtmdEUzT3dpYVplX3hULV9XMllCam85U3hqMlRkckJHMFdkWmZObDNRNHVxamUtUWxzb0x4bVdvdGxVMkJzcEQ2dGdZVE9vX2fSAdgBQVVfeXFMTWR3cHhqaWpJSFNxXzE3Qk9lR0FUbTN0a21CLWwtQlJjc1c2Ujd3eVZsM05xYi1hd01TeWYyZmduajNHSENTcEUza3ZoazJxYllQNEdSU1VjeU12NVlFZjJoRHQ4bGpGbEdVckZscHNpanNiLWRHajhWNmUzeXBfVUVqT3piSzRHUTR6ZzdjaDR4R1F1OW85aUtrNmNZa20xWEw5VEJZUjhFcUFpU1p2OVkzVWltQlVTdk10U2U2ZHhHczhNeE1JUmZrN3lPVnFvWVZ3MFRGQ25E?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- RBI in wait-and-watch mode despite easing West Asia risks: Sanjay Malhotra
+  The RBI remains cautious, with Governor Sanjay Malhotra emphasizing data dependency over pre-set interest rate paths. The central bank is closely monitoring potential inflation spillover effects and external challenges.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/rbi-in-wait-and-watch-mode-despite-easing-west-asia-risks-sanjay-malhotra/articleshow/131961067.cms
 
-- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
-  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+- Explained: Why are textile stocks making big gains on Wednesday?
+  Pearl Global surged nearly 10%, while Indo Count and KPR Mill gained around 8% each. Analysts believe Indian textile exporters are entering a multi-year growth phase after years of subdued demand.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/explained-why-are-textile-stocks-making-big-gains-on-wednesday/articleshow/131960968.cms
 
-- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
-  India slams Pakistani Defence Minister Khawaja Asif
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+- Stock Market Holiday: NSE, BSE to remain shut on Friday for Muharram. Check upcoming market holidays
+  Indian stock markets will observe a holiday on Friday, June 26, 2026, for Muharram. While MCX will have a partial closure, NCDEX will be shut all day.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-nse-bse-to-remain-shut-on-friday-for-muharram-check-upcoming-market-holidays/articleshow/131960083.cms
 
-- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
-  'Desperate Bid By Pak To Cover Failings
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+- RBI intervention steadies rupee, governor's rate comment pulls down hedging costs
+  The Indian rupee showed resilience on Wednesday, recovering from earlier dips, a relief attributed to possible central bank measures. Concurrently, the Reserve Bank of India governor's remarks on interest rate hikes being 'premature' led to a
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-steadies-rupee-governors-rate-comment-pulls-down-hedging-costs/articleshow/131960011.cms
 
-- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
-  Is Pakistan using Indus Valley to trick world on Indus treaty
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
+- Japan's Nikkei falls on Fed rate-hike bets, tech valuation concerns
+  The Nikkei 225 benchmark pulled back from its recent peak, reflecting declines in US stocks, notably in the semiconductor field. While chip and insurance sectors struggled, retail stocks managed to rise.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-falls-on-fed-rate-hike-bets-tech-valuation-concerns/articleshow/131959954.cms
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India prepares contingency plans due to weak monsoon season - Al Jazeera
+  India prepares contingency plans due to weak mon
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
 
-- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
-  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
+  "Private Franchisee Politics": BRS J
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
 
-- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
-  India slams Pakistani Defence Minister Khawaja Asif
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
+  Jonnagiri is India’s largest private gold mine.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
 
-- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
-  'Desperate Bid By Pak To Cover Failings
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+- Amazon CEO Andy Jassy in India - About Amazon India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
 
-- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
-  Is Pakistan using Indus Valley to trick world on Indus treaty
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
+- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
+  Kunal Shah: The Indian entrepreneur
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India prepares contingency plans due to weak monsoon season - Al Jazeera
+  India prepares contingency plans due to weak mon
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
 
-- Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims | India News - Hindustan Times
-  Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’
-  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGh6YV92d3BER0JGS2pBdjNla044Z2x1NC04c19iMXZob1g1dWc1UXBiZDR2WXc3ZjNkTU5SOEozZW9UTGNfeklOdHhYekZOYVRzVmxUMXJZemtMWmNiUWxUWjJmNnVYMGd4dE5zbE1LQXR5YjAxMWNGWVVKWkg4bmxCdk5wdXpTWjBMVTBGd0ZSX2d5bjh2LVFPSVZvRjdJOUFTdU55eGV3U2JGWlFLR1QzendNM3BTa21LUDlIdUlJeEhUcS1TM0RSTWMtOHBTTE5jTTBVZmtwUDlOUjRJVExnVXJBVjlVVkVoaWk3RXVUajZlWXROajVvX1BaWVlEMDJOTHNkU1I2eU3SAZACQVVfeXFMTk1iZ0RxUDNWd3ZZemNLVmRmNHI4WW9XU1EyNlNZZVg1aURGdlFlaU11WHMtNkE0dGpLZ3JHelBjdldxWjVON04xY0dGX21faTRveWJUX1ZGTnUtNlotZVVDZ0VqZy1SUjRhLXp0c29wMGFQRWF2MzNmdEktOHhFY3FPb3ZRUkxkUzJJcmVIMlZld1pEaTF1enJ6NXE0bE83azJlTDFTS2RmUEFVUzE1NWZDb3B4NjFQV2pHQVEzSWJQQVNMakRURlJNRkxqWkNmeUxKaldwZ0R5ajR5Q3JjajhlZXBlZ19kUkZUVmdQUzRNTmpGVDdUamRMUXN1OFRiY0Vsa0h3dDg4N2ZQTlhnUFc?oc=5
+- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
+  "Private Franchisee Politics": BRS J
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
 
-- India slams Pakistani Defence Minister Khawaja Asif’s remarks on PoK - News On AIR
-  India slams Pakistani Defence Minister Khawaja Asif
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUVYYjVyN19sQXlUVHJTLUxNTWhocjBrclFETmFQQ0JFVW9za0xoVnJBcjByWFVnXzlsT082OFpKN09YeWdaWFpNS1o3V3hMRFl4ZTJ1cTRWaFQ1dVRSYkVRaXdvT1F3ckQwZVRWM1NDM01uR1A1c1hmenQ2WkxoUDZyMERTYmp6WGkyUWNHZG1HZlBDb3AxNQ?oc=5
+- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
+  Jonnagiri is India’s largest private gold mine.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
 
-- 'Desperate Bid By Pak To Cover Failings': India Slams Khawaja Asif's Threat - NDTV
-  'Desperate Bid By Pak To Cover Failings
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTTZrVmRlWjRZakh2Y3loX0ZndjQ5T3Z3bEkyTHAtY1k0aVNtd2VMWFYyUl9iaXZMVE9GZmtidVh6a1ZrWWVTOXNqOUo1b2NHTXdyTldUeUpwLVU5WHg1S0dnbjlDVEdSTkdLSFV5RUhQTzlFei1vall3R25uaHZoN2k4blhLOHQzMHpRckdYUEJzeFRueXoyaFd4RmhJdkJnaUs4Rm1BYzFpWkplTTBlbzNSWHhHam5S0gHAAUFVX3lxTE1TUHNrM2JnSVJsOGRLU19XVWxyeHdhTm9qbGYxRmJ1Zy1oWEM4SWVWWm4wYm1yaUpTQ2VwZVR2YXBSQmhjRHZOMWE3eTNKTmZKRzA1WDFlVkNfMTBzSWpoQ2JIWUJYcnZwSzd5Vk1MRE11WmRtY1ViTC1Lb1gtV3NLNVl0RC1Ld2g2YURYWnNTaWlfQlZ2OV9WXy11cnRFUVNLZmhnaFF5bmREb0J4LXFKYXIyeVktQ2psR05wUFMzdQ?oc=5
+- Amazon CEO Andy Jassy in India - About Amazon India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
 
-- Is Pakistan using Indus Valley to trick world on Indus treaty shelved by India? - India Today
-  Is Pakistan using Indus Valley to trick world on Indus treaty
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1hWdGJ1WURJTHhCY0xXb3c2MkdIZ2RaaHNSckVCVHIzYVIzLVhGdkQ1bk8wOUZyeUFJV3NBVDlJYmJNT3hfVzlsYVg2SWRFVV8wZEVENFUyN01WdTBVdVhvNTBtOXdsV3J2bUQ4TjIzdkFpb19oS09QNWZoNmlhZ3dCR2dqX1pDbm9NcGhRYmt2b080TU43R2NrcXphdGJiRWtuSmNQc2VMUDlqczZmSVVDcEk3bmFRa2FxNjdsRl9BMk9VTWZwaVM3NlJ1U3NHRmZEQWVMTzZkcjjSAeABQVVfeXFMUDdiM0c5cE9SQ3cxVEcyQnJDNGNJZ2NLU190OU9NYVlGVUhudTFOWUUxY2pVNXpRTjV6b2xhZThVN3FRVmFlOVdwTms1TGpYRkJWYmhodXBoTnYwOE5EdWdYQzdUWXdhZVdVRVYyby1LR3hJVExiTXBKQS1hY2tpT0xIMGU1TGZ3SGxFVllPQ2xPY0pST0lCekRVUlBkaTVaZWFPMVotbl9KNnF2bklNaExJTFVraXNlSHN2c2dFdFJ6N19lTmNKRnd6Ri1RTi0zSkpqWHJMaWRKRnJtTlJndGg?oc=5
+- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
+  Kunal Shah: The Indian entrepreneur
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+
+- India prepares contingency plans due to weak monsoon season - Al Jazeera
+  India prepares contingency plans due to weak mon
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
+
+- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
+  "Private Franchisee Politics": BRS J
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
+
+- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
+  Jonnagiri is India’s largest private gold mine.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
+
+- Amazon CEO Andy Jassy in India - About Amazon India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
+
+- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
+  Kunal Shah: The Indian entrepreneur
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
+
+- India prepares contingency plans due to weak monsoon season - Al Jazeera
+  India prepares contingency plans due to weak mon
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpkeEJnMnAyNEFCN01EVFJnQVZvLUdwNDdycXdpUFFHYkN3bVdRSzZpd3J2N3c0RWVRRmctcnNKOGRNa0w1Z0lDN191MkxhWmF5aWxWUFJJelZfWE1HYlhQQVNKb25qdnZwbDY0dVVwQVlIakx6YVBQQy1TVlhUYi1TMU0xTk4zSm5JOVNSQTJYXzl0Si16MzhwZWdHLWRaZlHSAacBQVVfeXFMTlZ1TDFnSFdUbWV1Vk45a2xkcHFQcExVblZlYmZFaEhYYkZuaWNiNjV4YzlKVDJEMlQ1dUo4TzdoSHVlckJrcFFwS19mSVNQX2U3SEJ5M0k0SWZYMkJ3ZDNpN1pvNTgtS2QyaTBxMmdwem5fTDJMTGc1UzlUYVZZbE1GZE96blA1SkstcjRGV3d3Wi0zbG82elpxbzBvSnlSUy1qMmxxcHM?oc=5
+
+- "Private Franchisee Politics": BRS Jabs Congress Over Trump Road In Hyderabad - NDTV
+  "Private Franchisee Politics": BRS J
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmIwR0w1VUxWRFBBbjJYRVJxb0pMSE5TXzd2NHJONEJWVXlDSDVwWkJJREp3d3BUOUFQQVBuZElkYkw5cG5vcUFjRzBsVXNSVlluM0c4bHE2amR4OUtIa1RBOE5GanZWS3p2NW41NG1ibmtkV0FoVGxkci05V240akNTbmJTbVppTFNqd3lyTldUTXZGaTYtRkVsNzNVZ1VURFhCcTVERjdETnI2MXd6cThVRU80d9IBvgFBVV95cUxQai1zbUlsbE90TThtOFhjRmNBMEVDdVQ3WWJHeC1sdEh2eFlYdmNtR1ZOSkhDNldmeUROaUUtMHhhTktHU0dHV3NVd3lKTExiWkl4cTFETnQwQnF4UFVmZzQ4dEszSUs5UVNmTmNHejl5WHJuSExpQ0VRUko0dVgwMUZfT0JmcHd4RG9vT1lpeHdZR1F3eTFDNGl3OVFDVFY1VUp2QThWeklBU3ppZUNyd1p3Z0RLQWhPTnVoWUJR?oc=5
+
+- Jonnagiri: India’s largest private gold mine set to yield a tonne of gold a year - The Hindu
+  Jonnagiri is India’s largest private gold mine.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1E0d3BVRV9SSEhJN1JnVWlKRzI1cEREd2d2LTZYSzM4RzJtck5IaFN2cXdSUXE1dXpvam5uMTNSem9HdEJRbmtXNGJFcGFhUnNWTmtTZnpmU3RZaUROMktSYmlZeDhTOFRwOUR4T1ZMZXZYYWk2WHl4SVozLW9ZVGZQWUZtTmJVV1ltY3ViMERpNU80bldlNHZkODlZZURoUGlBS2NwOFhBSTNZRlkwemFmelF4Wm8yQmptZUJZR1JvMzJnQm5xenJackZrMGRDcVN4d0JlcVUtRmZqMmJIN3dLQ3g4OVHSAe4BQVVfeXFMT3JfV1JGaTdmZ015ZElVb25WNXZERTUzTEFUSlBGS2NsbHFnOVNQMl8yemlFTmdOQ29QNHhFVFZ0dFF3elZIMmdRUnNHejdTQXJUQXNySzItN2diNWl4RFo1R0VIcUQwcWhGaW5fbGhmN2dfVnZXRFVFQWszVHFyQ0YwWHBrejJnamlBbEoxYXgxMmhZcHpTMnVHOWVrdUUyVjRKQzNsSS1fQnRGNVJ4VXMzbW9SdU9HTExhcjhKZFZZLTB4N3gwZ0VoN0dfckkxOXo0Y0N4MFl1MzFMVkNVT2pMR29WeUtCbzZVODlwUQ?oc=5
+
+- Amazon CEO Andy Jassy in India - About Amazon India
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXZzWUl4SVFoaU0zX2x5UU5Nbk53RlE3VV91UFMxZnNSODZLNWdYY3Q5Y3dGN0hadXgwZ2pkeFNPNWdDMnJCTTlPSUh4Y3N3V3p3ZnBWSk92Q3Jab3NNS3JaV3huQVA4bDNjMVVlaTNYTlBvY3NoNndTUThhR1cwbA?oc=5
+
+- Kunal Shah: The Indian entrepreneur taking charge of WhatsApp - BBC
+  Kunal Shah: The Indian entrepreneur
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybENXREE4MkNubHB2N0ktZkN2YWhMOE5Mem91eWgxNGN2bVNKZ2NER2NPd0FLdjZRMUtVeWh1S1lPMkwzRzBWUVdVTVBlYlFEaU1mX3B2SzlFdw?oc=5
 
 
-_Last updated: 2026-06-24 02:47:27 UTC_
+_Last updated: 2026-06-24 09:02:09 UTC_
