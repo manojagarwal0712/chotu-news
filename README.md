@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
+- Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+  
+  🔗 https://indianexpress.com/article/india/gold-rate-today-june-26-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10758205/
+
+- Amarnath Yatra’s spiritual, environmental, economic aspects explored in international conference at Valley
+  
+  🔗 https://indianexpress.com/article/india/amarnath-yatra-spiritual-environmental-economic-aspects-exploredinternational-conference-10758544/
+
+- India News LIVE Updates, 26 June 2026: Champat Rai, top official of Ram temple trust resigns after alleged donation theft
+  
+  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-june-2026-kota-priest-murder-amit-shah-murmu-venezuela-10758208/
+
 - Promised Dubai job, trapped in Oman: 22-year-old Jharkhand woman desperate to return
   
   🔗 https://indianexpress.com/article/india/promised-dubai-job-trapped-in-oman-22-year-old-jharkhand-woman-desperate-to-return-10757948/
 
-- 300 exotic items up for grabs as MEA opens up its gift collection to public
+- Inside India’s toshakhana: Rolex, gold jewellery, Omani daggers now up for auction
   
   🔗 https://indianexpress.com/article/india/300-exotic-items-up-for-grabs-as-mea-opens-up-its-gift-collection-to-public-10757897/
 
-- BJP defends Madhya Pradesh CM Mohan Yadav, silent on his firm buying land, 4-fold jump since 2021
+- ChatGPT 5.6 rollout may begin with limited access, report claims
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-cm-mohan-yadav-family-ujjain-land-deals-row-bjp-response-10757886/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-5-6-rollout-may-begin-with-limited-access-report-claims-10758678/
 
-- ‘Grave mistake’: Kuki-Zo Council on killing of six Naga hostages in Manipur
+- YouTube rolls out new Shorts features including Clear Screen mode, faster playback
   
-  🔗 https://indianexpress.com/article/india/grave-mistake-kuki-zo-council-on-killing-of-six-naga-hostages-in-manipur-10757946/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-rolls-out-new-shorts-features-including-clear-screen-mode-faster-playback-10758517/
 
-- 50 years of Emergency: BJP slams Congress, urges citizens to ‘remember the truth of that era’
+- Anthropic accuses Alibaba of biggest Claude cloning attempt, seeks tougher US action
   
-  🔗 https://indianexpress.com/article/india/50-years-of-emergency-bjp-slams-congress-urges-citizens-to-remember-the-truth-of-that-era-10757909/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-accuses-alibaba-of-biggest-claude-cloning-attempt-seeks-tougher-us-action-10758451/
 
-- Huge crater in Australia may be Earth’s oldest known impact site, but scientists diagree
+- After Apple, Microsoft hikes Xbox console prices worldwide
   
-  🔗 https://indianexpress.com/article/technology/science/huge-crater-in-australia-may-be-earths-oldest-known-impact-site-but-scientists-diagree-10757575/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/after-apple-microsoft-hikes-xbox-console-prices-worldwide-10758303/
 
-- Did Nasa just find evidence of ancient life on Mars? Perseverance detects complex organic carbon
+- Australia considers tougher enforcement of social media ban for teens
   
-  🔗 https://indianexpress.com/article/technology/science/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-detects-complex-organic-carbon-10757560/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/australia-considers-tougher-enforcement-of-social-media-ban-for-teens-10758207/
 
-- Apple hikes prices across Mac, iPad, and HomePod lineups in India as memory costs soar
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-raises-prices-mac-ipad-homepod-in-india-memory-costs-10757561/
+- GMR looks to make money from airports it doesn't even own as passenger growth slows
+  GMR Airports is exploring retailing, duty-free shopping and F&amp;amp;B opportunities.
+  🔗 https://www.livemint.com/companies/news/gmr-airports-passenger-growth-non-aeronautical-business-retail-and-commercial-platform-europe-west-asia-north-america-11782449467999.html
 
-- Nasa’s spacecraft finds a peanut-shaped asteroid that wobbles
-  
-  🔗 https://indianexpress.com/article/technology/science/nasas-spacecraft-finds-a-peanut-shaped-asteroid-that-wobbles-10757328/
+- How Kunal Shah ‘came in as an angel’ for Intervue founder Rahul Arora in 2021 — A look at the power of ‘cold email’
+  Entrepreneur Rahul Arora shared how he secured seed funding from Kunal Shah through a cold email. Intervue founder emphasized that waiting
+  🔗 https://www.livemint.com/companies/people/how-kunal-shah-came-in-as-an-angel-for-intervue-founder-rahul-arora-in-2021-a-look-at-the-power-of-cold-email-11782455586396.html
 
-- Samsung Galaxy Z Fold 8 Wide: Expected specs, display, unveiling date
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-z-fold-8-wide-expected-specs-display-unveiling-date-10757315/
+- US grows anxious over AI, orders Sam Altman to delay GPT 5.6 rollout: Report
+  OpenAI has postponed the GPT 5.6 AI model rollout, complying with a
+  🔗 https://www.livemint.com/companies/news/us-grows-anxious-over-ai-orders-sam-altman-to-delay-gpt-5-6-rollout-report-11782444878547.html
 
 - Zombie unicorns are haunting Silicon Valley
    of the
   🔗 https://www.livemint.com/companies/start-ups/zombie-unicorns-are-haunting-silicon-valley-11782435694730.html
 
-- Vedanta's Navin Agarwal bets big on rare earth magnets, sets up firm eyeing PLI
-  Vedanta's executive vice-chairman Navin Agarwal is betting  ₹1,250 crore in his personal capacity as an
-  🔗 https://www.livemint.com/companies/vedanta-navin-agarwal-rare-earth-magnet-pli-andhra-11782373223807.html
-
 - India can still build AI winners despite US, China lead, says Accel's Subrata Mitra
   Accel is deploying capital across AI, consumer, fintech and manufacturing.
   🔗 https://www.livemint.com/companies/ai-companies-india-accel-india-subrata-mitra-openai-anthropic-ai-deeptech-11782363361891.html
 
-- Tata AutoComp expands EV and premium vehicle play via JVs, acquisitions
-  The Tata group company is also expanding its engineering footprint through new technology
-  🔗 https://www.livemint.com/companies/news/tata-autocomp-bets-big-on-ev-components-and-premium-car-interiors-11782382203854.html
+- IPO GMPs: CSM Technologies IPO vs Knack Packaging IPO vs Aastha Spintex IPO; here's what GMP hints
+  India's IPO market remains vibrant with multiple offerings like Knack Packaging and Aastha Spintex. The subscription for CS
+  🔗 https://www.livemint.com/market/ipo/ipo-gmps-csm-technologies-ipo-gmp-vs-knack-packaging-ipo-gmp-vs-aastha-spintex-ipo-gmp-heres-what-gmp-hints-11782461815568.html
 
-- Amazon CEO Andy Jassy meets Indian startup founders to map out the next wave of AI
-  The retail and cloud giant is looking to anchor India's AI infrastructure while scaling its quick-commerce
-  🔗 https://www.livemint.com/companies/news/andy-jassy-india-visit-amazon-india-investment-11782404609887.html
+- Foreign investors exit India funds as AI boom redirects capital. Will inflows return?
+  Foreign investors pulled money from India-focused funds in the March quarter. Capital shifted toward AI-linked markets such as Korea and Taiwan. Some investors
+  🔗 https://www.livemint.com/market/stock-market-news/india-offshore-funds-5-billion-dollar-outflows-ai-rotation-korea-taiwan-investors-march-quarter-2026-11782413260828.html
 
-- Apple stock price slips 6%, posts worst day in over a year after MacBook, iPad price hikes
-  Apple share price ended 6.15% lower at $275.15 apiece on the Nasdaq. During the session, the stock dropped as much as 6.59%
-  🔗 https://www.livemint.com/market/stock-market-news/apple-stock-price-slips-6-posts-worst-day-in-over-a-year-after-macbook-ipad-price-hikes-11782440998731.html
+- HDFC Bank, ICICI Bank remain top bets as valuations stay attractive, says Kotak
+  Kotak Institutional Equities supports leading private banks like HDFC and ICICI. They believe they will benefit from improved loan yields and lower funding costs.
+  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-icici-bank-remain-top-bets-as-valuations-stay-attractive-says-kotak-11782460138914.html
 
-- Asian stocks today: Nikkei, Kospi fall over 1% amid tech stocks selloff
-  Asian equities experienced a sharp decline on June 26, with semiconductor stocks weighing heavily. The MSCI Asia Pacific Index fell 1.7%, while South Korea's Kospi
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-nikkei-kospi-fall-over-1-amid-tech-stocks-selloff-11782440544840.html
+- Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why
+  Hindustan Copper share price has fallen 10% in one month, and has dropped 6% on a year-to-date (YTD
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-anand-rathi-bullish-on-hindustan-copper-share-price-sees-45-upside-in-the-psu-stock-here-s-why-11782458627159.html
 
-- Crude oil prices fall as shipments through Strait of Hormuz resume; Brent oil below $75 a barrel
-  Crude shipments through the Strait of Hormuz increased this week to their highest level since the US-Iran war began in
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-fall-as-shipments-through-strait-of-hormuz-resume-brent-oil-below-75-a-barrel-11782438618960.html
+- Tata Motors PV is on a clear road. JLR remains the speed bump.
+  The carmaker has laid out an ambitious domestic growth roadmap. Investors remain focused on Jaguar Land Rover's recovery as
+  🔗 https://www.livemint.com/market/mark-to-market/tata-motors-pv-growth-roadmap-jlr-recovery-investor-outlook-11782454114087.html
 
-- Stock market holiday: BSE, NSE closed for trading today for Muharram; Commodities market to open for half day
-  According to the NSE and BSE holiday calendars, the Equity Segment will remain closed for trading on Friday.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-closed-for-trading-today-for-muharram-commodities-market-to-open-for-half-day-11782437027494.html
+- India's robotics funding doubles in H1 FY26, but experts say it's too early to celebrate
+  In 2025, Indian robotics startups raised less than 1% of the capital secured by US robotics startups and about 2% of that raised in China.
+  🔗 https://www.livemint.com/technology/india-robotics-funding-startups-technology-government-initiatives-inflection-point-cheque-sizes-rd-11782447544869.html
 
-- Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks. Do you own any?
-  Ajit Mishra of Religare Broking identifies three stocks poised for significant short-term gains.
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-ajit-mishra-of-religare-broking-recommends-3-shares-for-next-1-2-weeks-do-you-own-any-11782432336881.html
+- iPhone Ultra launch back on track after Apple fixes critical foldable issue: Report
+  Apple's foldable iPhone is set for a September launch after resolving
+  🔗 https://www.livemint.com/technology/gadgets/iphone-ultra-launch-back-on-track-after-apple-fixes-critical-foldable-issue-report-11782451429741.html
 
 - Apple price hike: Check updated prices of MacBook Neo, Mac mini M4, iPads and HomePod
   Apple has raised prices for its MacBooks, iPads, and other products
@@ -92,113 +100,125 @@
   Two powerful earthquakes struck Venezuela within minutes of each other. Several Android users reported receiving Google earthquake alerts before the tremors reached them.
   🔗 https://www.livemint.com/technology/tech-news/google-alerted-users-seconds-before-venezuelas-earthquake-heres-how-android-phones-detect-tremors-11782384678408.html
 
-- OnePlus Nord Buds 4 launched in India with 52dB ANC, 54-hour battery life: Check price and features
-  Nord Buds 4 comes with 52dB active noise cancellation, Bluetooth 6.1, and 54 hours of battery life.
-  🔗 https://www.livemint.com/technology/gadgets/oneplus-nord-buds-4-launched-in-india-with-52db-anc-54-hour-battery-life-check-price-and-features-11782371155572.html
+- Nasdaq falls for a fourth day as a drop in Apple overshadows Micron's booming earnings: Live updates - CNBC
+  Nasdaq falls for a fourth day as a drop in Apple oversh
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBybXVXek5NVzgzZUpoRWliLXJTN2FqTElKVWczTV9qa25BZlVVZE5pcFRCbzBKVjFfU0pKc2pkOE43S0R4UFJScFB3MVYwSHN4Y1dKbkRpTWRKc1ZXVFFza1hPbzlCSEZqWG4xRXdYVnlIVzBDRDhZ0gF8QVVfeXFMTzE1RmZFSno3UWtmTF9LU0ZsajUtSUFfWjRVSmVFa3J4VEZpc0VCNDhOUk5hQVhYT2tVNzU2dVFzdVhiQ1dkQlJ3OTJsSjlGRnFSd2x1clNQYzBVZWFwa1Z0X1VLWVJTTzFnSXlRQS1zcnFXNE9vYjZfM2ZrWA?oc=5
 
-- GTA 6 pre orders go live: India price, editions, bonuses and launch date explained
-  Rockstar Games has unveiled pre-order details for GTA 6. The game follows Jason
-  🔗 https://www.livemint.com/technology/tech-news/gta-6-pre-orders-go-live-india-price-editions-bonuses-and-launch-date-explained-11782357959564.html
+- Stock market today: Dow, S&P 500, Nasdaq rebound after tech rout as oil prices tumble - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq rebound after
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcW43ODU1NDlIWTdFT2JjQnJNVkN5dy1nRTJnZHBIYWpPX0VsOEluQ1BDSVluOXRsdDRRRHh6eWhCZHJOSF91bnhVNnJTanBYZTk2cF9mLVliY0xNend5TkV6X2tPUUpJRGNKQ2dJaHFVRUNWS2tQaEJpcU96M0tfRVJBbjRfM3FiN2xuQ1hfVzBvV2JjSkJwazhpTVFhUjJMMU9hWnRSUURqX1pDMDRVU3NBQzhuVTlBMWxUQVpKWXlDTU51TFhrS0JZTTNSSVpR?oc=5
 
-- Global Market: US weekly jobless claims drop more than expected
-  US unemployment claims saw a sharper-than-expected drop last week, signaling continued labor market strength. Despite this positive sign, a rise in continuing claims suggests employers are cautious about hiring.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-weekly-jobless-claims-drop-more-than-expected/articleshow/132005843.cms
+- Global tech sell-off deepens as South Korea's Kospi sinks 8%, S&P 500 futures fall: Live updates - CNBC
+  South Korea's Kospi sinks 8%, S&amp;P
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
 
-- Global Market: US revises 2026 first-quarter GDP growth up to 2.1%
-  The US economy showed stronger growth than initially thought in the first quarter, reaching an annual rate of 2.1 percent. Key drivers of this expansion included investments, exports, government spending, and consumer spending.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-revises-2026-first-quarter-gdp-growth-up-to-2-1/articleshow/132005799.cms
+- Asia stock markets slide as tech shares slump - BBC
+  Asia stock markets slide as tech
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
 
-- Global Market: Core inflation in Tokyo accelerates as energy-driven price pressures begin to broaden
-  Tokyo's core inflation surged in June, driven by rising energy costs stemming from the Middle East conflict. This acceleration signals broadening price pressures, prompting the Bank of Japan to consider further interest rate hikes.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/core-inflation-in-tokyo-accelerates-as-energy-driven-price-pressures-begin-to-broaden/articleshow/132005724.cms
+- The world’s top-performing stock market still isn’t a developed market. Here’s why, according to the MSCI chief - CNBC
+  The world’s top-performing stock market still isn’t
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEYzX193aF83UFluT2pLZG1aTEFnVDJnU09KbmVMMm5LOGRneHpkUUdpaTB0a1pQb1c5Z25IVzBkaXRQbmRiazNMWnJ3N3NodmFsbUw0VFplTERUT0x0cklhUFJyM2NPNUZVODlMZkhVejJpTVRhdmRwY2ZEMFJtUlBiaTJtdjVwbVlMTVN3?oc=5
 
-- Global Market: Apple supplier Lingyi's shares up 6% in Hong Kong debut
-  Shares of Lingyi iTech opened ‌6% ⁠higher in the Chinese precision parts maker's Hong Kong debut. ‌Apple supplier
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/apple-supplier-lingyis-shares-up-6-in-hong-kong-debut/articleshow/132005708.cms
+- IPO wave ahead: Jio, NSE among 10 public offers to watch in rest of 2026
+  Major listings such as Jio Platforms, NSE and SBI Mutual Fund lined up. A mix of large corporates and new-age firms like Zepto and Acko is expected to drive primary market activity across
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-ahead-jio-nse-among-10-public-offers-to-watch-in-rest-of-2026/slideshow/132011619.cms
 
-- Womenswear retailer Reformation reports revenue rise in US IPO filing
-  Sustainable fashion brand Reformation has filed for a U.S. IPO. Private equity firm Permira, which holds a majority stake, will retain significant influence post-listing. Proceeds will partly fund debt repayment and share
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/womenswear-retailer-reformation-reports-revenue-rise-in-us-ipo-filing/articleshow/132005648.cms
+- US dollar heads into second half as world’s top-performing major currency
+  The US dollar is set to enter the second half of 2026 on a strong footing, supported by higher interest rates, resilient economic growth and sustained investor demand for US assets. Despite easing inflation concerns and geopolitical relief, expectations of further rate
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-heads-into-second-half-as-worlds-top-performing-major-currency/articleshow/132010728.cms
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- Bitcoin, Solana or XRP? The best performing crypto asset of 2026 so far
+  Crypto prices may have corrected sharply in 2026, but underlying trends suggest growing maturity. Bitcoin, Solana and XRP are increasingly being viewed through long-term utility rather than short
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-solana-or-xrp-the-best-performing-crypto-asset-of-2026-so-far/articleshow/132010524.cms
 
-- India beat Bangladesh by five wickets in ICC Women’s T20 World Cup - News On AIR
-  India beat Bangladesh by five wickets in ICC Women's T
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnl1THA5a0w3MEpCaXFPMGNWQjhXaHRneHZhZ1ZuNy1ZV0x0bjF5Y01IZTNsYWVCRGNoczlPNnVjcjF2R3BjQ2FrNFlQcHJQUHlpVU5LMmswQlV6QjFfUldMSVVXREdjSG93ZVdBSXdaYTdSNDRqNWduaU9YM2hsMkxHUzZfRzI2ZlBJWktaQ2VtSF81dVE?oc=5
+- Goldman Sachs upgrades India's growth outlook after US-Iran peace deal
+  Goldman Sachs has raised India's 2026 real GDP growth forecast to 6.8% from 6.5%. Brokerage also lifted its FY27 GDP growth estimate to6.5% from6.1%.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-upgrades-indias-growth-outlook-after-us-iran-peace-deal/articleshow/132009446.cms
 
-- Madurai Mango Crisis: Farmers Abandon Harvest As Prices Hit Rs 3 Per Kg - NDTV
-  Madurai Mango Crisis: Farmers Abandon Harvest As Prices
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjlLVV9rMDNXLUcwcjJXU1JrczBUeUhnRjBFaGhyOEZ6VFVBZEZ6VFlrVlA2ZUxNak94bkljMzNleWhJbVY5N2l1TWRJZVI2WFhwSlU5MW1uVVN0dzJTb21yeHZna09acXkyMVlIZ1VQaGlabWlFcHVxNjN2WjBHdlBPdnBxYWFKc04zbHhOUDJWNzZQeGpRaWxEOW1LeWRraWdCM1huQTVEYVJxN3c3QtIBuAFBVV95cUxQZHoxeGdwdEdqcDhHYng5bklRSGoyMmZCRG1zdWdKdjNuTWRWdWI2RnhHcjAydm05V3ZSSzU4MUlvNVd0YjZMV3IzZzNMSFIxRFJQQjZTWFJ2MEQ1QjRXTkFhLXNEODRBRHBCSFYxNDByODEwQWUxUzVGc2I0UTJYV1JkV3B4WHVUNHl3Qm1pY0pNMWY0bWU2RHI2c0ZIT19WWnlvVmVWbXFQYlNzemZ6ajg0NWxKRXZv?oc=5
-
-- Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnc?oc=5
-
-- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
-  Amazon CEO Meets PM Modi, To Invest $48 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+- Vedanta unit accepts bids worth $1.75 billion for three-tranche dollar debt, bankers say
+  Vedanta Resources' subsidiary has successfully raised $1.75 billion through a dollar bond issuance. The company secured funds across six, eight, and eleven-year tenors at competitive rates, significantly lower than initial guidance.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/vedanta-unit-accepts-bids-worth-1-75-billion-for-three-tranche-dollar-debt-bankers-say/articleshow/132009974.cms
 
 - Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
   Couple Returns After 15 Years In US To Build
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India beat Bangladesh by five wickets in ICC Women’s T20 World Cup - News On AIR
-  India beat Bangladesh by five wickets in ICC Women's T
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnl1THA5a0w3MEpCaXFPMGNWQjhXaHRneHZhZ1ZuNy1ZV0x0bjF5Y01IZTNsYWVCRGNoczlPNnVjcjF2R3BjQ2FrNFlQcHJQUHlpVU5LMmswQlV6QjFfUldMSVVXREdjSG93ZVdBSXdaYTdSNDRqNWduaU9YM2hsMkxHUzZfRzI2ZlBJWktaQ2VtSF81dVE?oc=5
+- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
+  Japanese Prime Minister Sanae Takaichi to visit
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
 
-- Madurai Mango Crisis: Farmers Abandon Harvest As Prices Hit Rs 3 Per Kg - NDTV
-  Madurai Mango Crisis: Farmers Abandon Harvest As Prices
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjlLVV9rMDNXLUcwcjJXU1JrczBUeUhnRjBFaGhyOEZ6VFVBZEZ6VFlrVlA2ZUxNak94bkljMzNleWhJbVY5N2l1TWRJZVI2WFhwSlU5MW1uVVN0dzJTb21yeHZna09acXkyMVlIZ1VQaGlabWlFcHVxNjN2WjBHdlBPdnBxYWFKc04zbHhOUDJWNzZQeGpRaWxEOW1LeWRraWdCM1huQTVEYVJxN3c3QtIBuAFBVV95cUxQZHoxeGdwdEdqcDhHYng5bklRSGoyMmZCRG1zdWdKdjNuTWRWdWI2RnhHcjAydm05V3ZSSzU4MUlvNVd0YjZMV3IzZzNMSFIxRFJQQjZTWFJ2MEQ1QjRXTkFhLXNEODRBRHBCSFYxNDByODEwQWUxUzVGc2I0UTJYV1JkV3B4WHVUNHl3Qm1pY0pNMWY0bWU2RHI2c0ZIT19WWnlvVmVWbXFQYlNzemZ6ajg0NWxKRXZv?oc=5
-
-- Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnc?oc=5
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
 - Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
   Amazon CEO Meets PM Modi, To Invest $48 Billion
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+
+- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
 
 - Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
   Couple Returns After 15 Years In US To Build
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India beat Bangladesh by five wickets in ICC Women’s T20 World Cup - News On AIR
-  India beat Bangladesh by five wickets in ICC Women's T
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnl1THA5a0w3MEpCaXFPMGNWQjhXaHRneHZhZ1ZuNy1ZV0x0bjF5Y01IZTNsYWVCRGNoczlPNnVjcjF2R3BjQ2FrNFlQcHJQUHlpVU5LMmswQlV6QjFfUldMSVVXREdjSG93ZVdBSXdaYTdSNDRqNWduaU9YM2hsMkxHUzZfRzI2ZlBJWktaQ2VtSF81dVE?oc=5
+- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
+  Japanese Prime Minister Sanae Takaichi to visit
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
 
-- Madurai Mango Crisis: Farmers Abandon Harvest As Prices Hit Rs 3 Per Kg - NDTV
-  Madurai Mango Crisis: Farmers Abandon Harvest As Prices
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjlLVV9rMDNXLUcwcjJXU1JrczBUeUhnRjBFaGhyOEZ6VFVBZEZ6VFlrVlA2ZUxNak94bkljMzNleWhJbVY5N2l1TWRJZVI2WFhwSlU5MW1uVVN0dzJTb21yeHZna09acXkyMVlIZ1VQaGlabWlFcHVxNjN2WjBHdlBPdnBxYWFKc04zbHhOUDJWNzZQeGpRaWxEOW1LeWRraWdCM1huQTVEYVJxN3c3QtIBuAFBVV95cUxQZHoxeGdwdEdqcDhHYng5bklRSGoyMmZCRG1zdWdKdjNuTWRWdWI2RnhHcjAydm05V3ZSSzU4MUlvNVd0YjZMV3IzZzNMSFIxRFJQQjZTWFJ2MEQ1QjRXTkFhLXNEODRBRHBCSFYxNDByODEwQWUxUzVGc2I0UTJYV1JkV3B4WHVUNHl3Qm1pY0pNMWY0bWU2RHI2c0ZIT19WWnlvVmVWbXFQYlNzemZ6ajg0NWxKRXZv?oc=5
-
-- Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnc?oc=5
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
 - Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
   Amazon CEO Meets PM Modi, To Invest $48 Billion
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+
+- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
 
 - Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
   Couple Returns After 15 Years In US To Build
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India beat Bangladesh by five wickets in ICC Women’s T20 World Cup - News On AIR
-  India beat Bangladesh by five wickets in ICC Women's T
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnl1THA5a0w3MEpCaXFPMGNWQjhXaHRneHZhZ1ZuNy1ZV0x0bjF5Y01IZTNsYWVCRGNoczlPNnVjcjF2R3BjQ2FrNFlQcHJQUHlpVU5LMmswQlV6QjFfUldMSVVXREdjSG93ZVdBSXdaYTdSNDRqNWduaU9YM2hsMkxHUzZfRzI2ZlBJWktaQ2VtSF81dVE?oc=5
+- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
+  Japanese Prime Minister Sanae Takaichi to visit
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
 
-- Madurai Mango Crisis: Farmers Abandon Harvest As Prices Hit Rs 3 Per Kg - NDTV
-  Madurai Mango Crisis: Farmers Abandon Harvest As Prices
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjlLVV9rMDNXLUcwcjJXU1JrczBUeUhnRjBFaGhyOEZ6VFVBZEZ6VFlrVlA2ZUxNak94bkljMzNleWhJbVY5N2l1TWRJZVI2WFhwSlU5MW1uVVN0dzJTb21yeHZna09acXkyMVlIZ1VQaGlabWlFcHVxNjN2WjBHdlBPdnBxYWFKc04zbHhOUDJWNzZQeGpRaWxEOW1LeWRraWdCM1huQTVEYVJxN3c3QtIBuAFBVV95cUxQZHoxeGdwdEdqcDhHYng5bklRSGoyMmZCRG1zdWdKdjNuTWRWdWI2RnhHcjAydm05V3ZSSzU4MUlvNVd0YjZMV3IzZzNMSFIxRFJQQjZTWFJ2MEQ1QjRXTkFhLXNEODRBRHBCSFYxNDByODEwQWUxUzVGc2I0UTJYV1JkV3B4WHVUNHl3Qm1pY0pNMWY0bWU2RHI2c0ZIT19WWnlvVmVWbXFQYlNzemZ6ajg0NWxKRXZv?oc=5
-
-- Oil Tankers, Ports And Supply Chain: What Venezuela Quake Means For India - NDTV
-  &nbsp;&ngt;
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnc?oc=5
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
 - Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
   Amazon CEO Meets PM Modi, To Invest $48 Billion
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+
+- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
+
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+
+- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
+  Japanese Prime Minister Sanae Takaichi to visit
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
+
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
+
+- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
+  Amazon CEO Meets PM Modi, To Invest $48 Billion
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+
+- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -220,25 +240,13 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- IBM Debuts World’s First Sub-1 Nanometer Chip Technology - IBM Newsroom
-  IBM Debuts World’s First Sub-1 Nanometer Chip Technology.
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHRqb0l5b09HTFpEU1V5MmlpYWNfZmczaVowUjVqaFNMeXo1dUJZcVZsRDk5Q2s2d3NzMDE5bW1BcmZXeTlJZ012cW9sOWMwUk1PZVJJUExmNndzWGh1cThyY18xX1lHMXpRaUw4YkFfQUhaYnZ3Z1lGSURqTE95Mmd4TmpyRmdFRjdHNl9pV2xscGZ1Umc?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- Geothermal energy: Investment needed to develop new tech - BBC
-  Geothermal energy: Investment needed
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OWlZZTkQwekxzN2ZGTldXS2lEWS1jbDhMRGJWTVlTdFRHaUpDdXAxbEJ3aFM4NURrX1hPQ3dIMzR2bXp4cTI3MzhGbTRzMzN5MDl5eG5WVHVTUQ?oc=5
-
-- SoftBank sinks 11% as Asia tech rout tracks declines in the U.S. - CNBC
-  SoftBank sinks 11% as Asia tech rout tracks
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXZIbzRiVW5zSWRXMU1ibjBteUVXOHZ0VEJJQkRHS3VVeFBJU3RYU2gtQWt0MlcxYVVtZERyc3ZMekN1UE9oQVBjQjVOeEppM0JUdldqV0FJLXZkRm10V2R4aGx5YkRtTXo0T0s5ZzVLZFRHQWMwZ3dkdG9CQlRxZVlNZTYtUmZnSjlNRHZ6MnZ1LVE0c19hZ1Y0Tk1FcndLT3djc9IBqgFBVV95cUxPVW9PNi1JanFYb0t5d2J1Z1FmNl9ldlY0bE1faXEtNnZvbi1ES2FLYzEtZ2thZkxETU8yZkp4WUFjdGUxX3pCQkc0ejdtclVRclFqZG1xZGVjeDJTV0p6Z2RkNUhWX1V4QVJvVmdmRVJhYndmWWZLVkRxQzZXa0poMjdpb1NhY0NxY3QyYURUbHNJbWNkaWxoV191RFQxeURwRDc1ekhBbmo2QQ?oc=5
-
-- Technology has bridged the gap between teams - The Hindu
-  Technology has bridged the gap
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPU19VRHNMOHNtZHFVNnZsYlpiY3VmNUYwdWRjQndPX0FERWFuTGhMdmN1ODZ4SDdkMGJKbnp5OUxJaThjY3lObWk5V1FnUEFfclRJQkRuanBhX2VCM01EeTRJSm9VTGpZNk5McDFhcEJPNDI1VTZaWjl5aXVPVW45X3hwYmFtNlN3Y0RZbzAxWDNtTjBZamdyWVJ0RG9lMXdSSEpta0JjNNIBrgFBVV95cUxNRndET3l2NV9MbElkX0g2NGpfR1hqRXYwLUZ2YlFUYVN3enhLT09ldmdudTRBak5fWkprVy0zM0N5aHFJOTNjeFZ5NUxqelQxRHFVQU5FVTZIcTlFZHpKYUtOTDRxUjgyM1VTc3d0bVRuQlFSTUpqTlV6MEVqaTl2MDljNlA5eTF6XzdWZExqb1lXNE0zdkNPOFBHZ3k2dnBtQTZORXlGMWdndk5sbUE?oc=5
-
-- Oracle Strengthens Defense Ecosystem to Help Emerging Technology Companies Scale Mission-Ready Capabilities - PR Newswire
-  Oracle Strengthens Defense Ecosystem to Help Emerging Technology
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1dUQ1JJa3FGUzItN1VKWWJyQWpJSFFDWG9DUGx3UllPUnluQkExMnFKWmZHdjJ4eDBPMkJlX3hJeXBHZFZjdFE0aHN2eDU1QkVDc0N6MVRqWDlrWldmb05Eb01qbVpjNXBFakJQRnBheUJkajh5WWVDVDBXTEI2UXQwb3Q2VnZlQjlZV2Y5MUhQVGNfby1MYUdRc2xuZ0VBTXRtY1hldnhnUWNCVk9ZSEVhSmpLcWRoMlI4eFZtaFNpZ0k5NE1jUTNVNHZEWnpsdVdKNmVHVWpjZ3R2OW9palJHNl94S1ExVXI3YXRUSUkyNEJmNkE?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-26 02:52:41 UTC_
+_Last updated: 2026-06-26 09:00:04 UTC_
