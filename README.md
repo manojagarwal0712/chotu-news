@@ -1,86 +1,86 @@
 # 📰 Daily News Summaries
 
-- Gold Rate Today, June 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Goa may get a Kochi-style water metro. Here’s the plan
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-june-26-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10758205/
+  🔗 https://indianexpress.com/article/india/goa-water-metro-project-plan-kochi-model-routes-sarbananda-sonowal-10759164/
 
-- Amarnath Yatra’s spiritual, environmental, economic aspects explored in international conference at Valley
+- Isaac Newton the pilot: Odisha suspends key officials for school text book errors
   
-  🔗 https://indianexpress.com/article/india/amarnath-yatra-spiritual-environmental-economic-aspects-exploredinternational-conference-10758544/
+  🔗 https://indianexpress.com/article/india/textbook-error-odisha-suspends-ex-scert-director-10758971/
 
-- India News LIVE Updates, 26 June 2026: Champat Rai, top official of Ram temple trust resigns after alleged donation theft
+- New report warns of Myanmar trafficking route, Telegram, opioids threat
   
-  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-june-2026-kota-priest-murder-amit-shah-murmu-venezuela-10758208/
+  🔗 https://indianexpress.com/article/india/ncb-annual-report-2025-myanmar-drug-corridor-synthetic-opioids-telegram-10758917/
 
-- Promised Dubai job, trapped in Oman: 22-year-old Jharkhand woman desperate to return
+- India-Japan summit to be held in New Delhi, Guwahati ‘dropped’ as possible venue
   
-  🔗 https://indianexpress.com/article/india/promised-dubai-job-trapped-in-oman-22-year-old-jharkhand-woman-desperate-to-return-10757948/
+  🔗 https://indianexpress.com/article/india/india-japan-summit-to-be-held-in-new-delhi-guwahati-dropped-as-possible-venue-10758890/
 
-- Inside India’s toshakhana: Rolex, gold jewellery, Omani daggers now up for auction
+- Can Himanta Sarma government in Assam stop Aadhaar cards for all above 18? Experts differ
   
-  🔗 https://indianexpress.com/article/india/300-exotic-items-up-for-grabs-as-mea-opens-up-its-gift-collection-to-public-10757897/
+  🔗 https://indianexpress.com/article/india/assam-himanta-biswa-sarma-adult-aadhaar-card-ban-legal-uidai-act-10758882/
+
+- Antarctic sea squirt could help unlock a new skin cancer treatment, scientists say
+  
+  🔗 https://indianexpress.com/article/technology/science/antarctic-sea-squirt-could-help-unlock-a-new-skin-cancer-treatment-scientists-say-10759043/
+
+- Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-readies-648-billion-bet-report-says-as-ai-boom-reshapes-south-korea-10758937/
+
+- ‘Developers are moving from writing code to orchestrating AI agents’: AWS’s Jeff Barr
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/aws-jeff-barr-kiro-developers-coding-ai-agents-ai-apps-10758468/
+
+- Google announces new Finance app, expands portfolio tracking and market intelligence
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-announces-new-finance-app-expands-portfolio-tracking-and-market-intelligence-10758822/
 
 - ChatGPT 5.6 rollout may begin with limited access, report claims
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-5-6-rollout-may-begin-with-limited-access-report-claims-10758678/
 
-- YouTube rolls out new Shorts features including Clear Screen mode, faster playback
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/youtube-rolls-out-new-shorts-features-including-clear-screen-mode-faster-playback-10758517/
+- OpenAI may push IPO to next year: What's behind the delay?
+  OpenAI is considering delaying its IPO until next year. The company had previously prepared for a listing this year.
+  🔗 https://www.livemint.com/companies/news/openai-may-push-ipo-to-next-year-whats-behind-the-delay-11782478360860.html
 
-- Anthropic accuses Alibaba of biggest Claude cloning attempt, seeks tougher US action
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/anthropic-accuses-alibaba-of-biggest-claude-cloning-attempt-seeks-tougher-us-action-10758451/
+- Volkswagen plans up to 100,000 job cuts and possible plant closures
+  Volkswagen AG plans to cut up to 100,000 jobs and close four German factories.
+  🔗 https://www.livemint.com/companies/news/volkswagen-plans-up-to-100-000-job-cuts-and-possible-plant-closures-11782478463254.html
 
-- After Apple, Microsoft hikes Xbox console prices worldwide
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/after-apple-microsoft-hikes-xbox-console-prices-worldwide-10758303/
+- Who is Shankh Mitra? Indian-origin CEO with  ₹7,000-crore pay package ranked world's second-highest paid executive
+  Indian-origin executive Shankh Mitra has become the world's second-highest paid CEO among S&amp;amp;P 500 companies. Mitra ranked behind Elon Musk, while
+  🔗 https://www.livemint.com/companies/people/who-is-shankh-mitra-indian-origin-ceo-with-rs-7-000-crore-pay-package-ranked-worlds-second-highest-paid-executive-11782474486421.html
 
-- Australia considers tougher enforcement of social media ban for teens
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/australia-considers-tougher-enforcement-of-social-media-ban-for-teens-10758207/
+- JioMart's Digi Utsav sale kicks off June 28 with discounts on 5G phones, electronics - details here
+  Offers are valid until June 30, 2026. Customers can enjoy deals on products like mix
+  🔗 https://www.livemint.com/companies/news/jiomarts-digi-utsav-sale-kicks-off-june-28-with-discounts-on-5g-phones-electronics-details-here-11782465121166.html
 
-- GMR looks to make money from airports it doesn't even own as passenger growth slows
-  GMR Airports is exploring retailing, duty-free shopping and F&amp;amp;B opportunities.
-  🔗 https://www.livemint.com/companies/news/gmr-airports-passenger-growth-non-aeronautical-business-retail-and-commercial-platform-europe-west-asia-north-america-11782449467999.html
+- IPO delay? OpenAI considering pushing back listing to 2027 amid volatility in tech stocks, says report
+  OpenAI is considering delaying its IPO until 2027 due to recent tech stock volatility. CEO Sam Altman aims for a $1 trillion valuation.
+  🔗 https://www.livemint.com/companies/news/openai-ipo-delay-chatgpt-ceo-sam-altman-push-back-listing-to-2027-aim-1-trillion-valuation-technology-stocks-volatility-11782460910097.html
 
-- How Kunal Shah ‘came in as an angel’ for Intervue founder Rahul Arora in 2021 — A look at the power of ‘cold email’
-  Entrepreneur Rahul Arora shared how he secured seed funding from Kunal Shah through a cold email. Intervue founder emphasized that waiting
-  🔗 https://www.livemint.com/companies/people/how-kunal-shah-came-in-as-an-angel-for-intervue-founder-rahul-arora-in-2021-a-look-at-the-power-of-cold-email-11782455586396.html
+- BEML shares to be in focus on Monday after securing additional $5.35 million Middle East export order
+  BEML Ltd. secured a $5.35 million export order, raising its contract total to $41.73 million. The company's international order book reached $112
+  🔗 https://www.livemint.com/market/stock-market-news/beml-shares-to-be-in-focus-on-monday-after-securing-additional-5-35-million-middle-east-export-order-11782481136120.html
 
-- US grows anxious over AI, orders Sam Altman to delay GPT 5.6 rollout: Report
-  OpenAI has postponed the GPT 5.6 AI model rollout, complying with a
-  🔗 https://www.livemint.com/companies/news/us-grows-anxious-over-ai-orders-sam-altman-to-delay-gpt-5-6-rollout-report-11782444878547.html
+- Goldman sees big tech stocks turning attractive amid chip volatility, 'you want to diversify toward hyperscalers'
+  Big tech stocks could turn more attractive in the artificial intelligence trade as chipmakers show continued volatility. Goldman Sachs
+  🔗 https://www.livemint.com/market/goldman-sees-big-tech-stocks-turning-attractive-amid-chip-volatility-you-want-to-diversify-toward-hyperscalers-11782477441260.html
 
-- Zombie unicorns are haunting Silicon Valley
-   of the
-  🔗 https://www.livemint.com/companies/start-ups/zombie-unicorns-are-haunting-silicon-valley-11782435694730.html
+- US stock market today: S&amp;P 500, Nasdaq futures slide up to 1% as global tech sell-off resumes
+  Nasdaq futures dropped 1.1%, amid concerns over high valuations, production cuts, and rising market volatility.
+  🔗 https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-slide-up-to-1-as-global-tech-sell-off-resumes-11782472705947.html
 
-- India can still build AI winners despite US, China lead, says Accel's Subrata Mitra
-  Accel is deploying capital across AI, consumer, fintech and manufacturing.
-  🔗 https://www.livemint.com/companies/ai-companies-india-accel-india-subrata-mitra-openai-anthropic-ai-deeptech-11782363361891.html
+- West Asia peace deal limits India Inc’s profitability hit to 100 bps: Report
+  Crisil Ratings reports that falling crude oil prices may lessen the profitability hit for India Inc. this fiscal year. The anticipated impact on operating margins is now
+  🔗 https://www.livemint.com/market/stock-market-news/west-asia-peace-deal-may-limit-india-inc-s-profitability-hit-to-100-bps-crisil-ratings-11782470015123.html
 
-- IPO GMPs: CSM Technologies IPO vs Knack Packaging IPO vs Aastha Spintex IPO; here's what GMP hints
-  India's IPO market remains vibrant with multiple offerings like Knack Packaging and Aastha Spintex. The subscription for CS
-  🔗 https://www.livemint.com/market/ipo/ipo-gmps-csm-technologies-ipo-gmp-vs-knack-packaging-ipo-gmp-vs-aastha-spintex-ipo-gmp-heres-what-gmp-hints-11782461815568.html
+- Multibagger HDFC AMC to announce June quarter results on this date. Check details
+  HDFC AMC's board will meet on July 15, 2026, to review financial results for June 2026. The firm launched a new sustainable investment strategy, HDFC Growth for GOOD Portfolio
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-hdfc-amc-to-announce-june-quarter-results-on-this-date-check-details-11782466522067.html
 
-- Foreign investors exit India funds as AI boom redirects capital. Will inflows return?
-  Foreign investors pulled money from India-focused funds in the March quarter. Capital shifted toward AI-linked markets such as Korea and Taiwan. Some investors
-  🔗 https://www.livemint.com/market/stock-market-news/india-offshore-funds-5-billion-dollar-outflows-ai-rotation-korea-taiwan-investors-march-quarter-2026-11782413260828.html
-
-- HDFC Bank, ICICI Bank remain top bets as valuations stay attractive, says Kotak
-  Kotak Institutional Equities supports leading private banks like HDFC and ICICI. They believe they will benefit from improved loan yields and lower funding costs.
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-icici-bank-remain-top-bets-as-valuations-stay-attractive-says-kotak-11782460138914.html
-
-- Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why
-  Hindustan Copper share price has fallen 10% in one month, and has dropped 6% on a year-to-date (YTD
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-anand-rathi-bullish-on-hindustan-copper-share-price-sees-45-upside-in-the-psu-stock-here-s-why-11782458627159.html
-
-- Tata Motors PV is on a clear road. JLR remains the speed bump.
-  The carmaker has laid out an ambitious domestic growth roadmap. Investors remain focused on Jaguar Land Rover's recovery as
-  🔗 https://www.livemint.com/market/mark-to-market/tata-motors-pv-growth-roadmap-jlr-recovery-investor-outlook-11782454114087.html
-
-- India's robotics funding doubles in H1 FY26, but experts say it's too early to celebrate
+- India's robotics funding doubles in 2026 first-half, but scale seems far away
   In 2025, Indian robotics startups raised less than 1% of the capital secured by US robotics startups and about 2% of that raised in China.
   🔗 https://www.livemint.com/technology/india-robotics-funding-startups-technology-government-initiatives-inflection-point-cheque-sizes-rd-11782447544869.html
 
@@ -100,125 +100,105 @@
   Two powerful earthquakes struck Venezuela within minutes of each other. Several Android users reported receiving Google earthquake alerts before the tremors reached them.
   🔗 https://www.livemint.com/technology/tech-news/google-alerted-users-seconds-before-venezuelas-earthquake-heres-how-android-phones-detect-tremors-11782384678408.html
 
-- Nasdaq falls for a fourth day as a drop in Apple overshadows Micron's booming earnings: Live updates - CNBC
-  Nasdaq falls for a fourth day as a drop in Apple oversh
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBybXVXek5NVzgzZUpoRWliLXJTN2FqTElKVWczTV9qa25BZlVVZE5pcFRCbzBKVjFfU0pKc2pkOE43S0R4UFJScFB3MVYwSHN4Y1dKbkRpTWRKc1ZXVFFza1hPbzlCSEZqWG4xRXdYVnlIVzBDRDhZ0gF8QVVfeXFMTzE1RmZFSno3UWtmTF9LU0ZsajUtSUFfWjRVSmVFa3J4VEZpc0VCNDhOUk5hQVhYT2tVNzU2dVFzdVhiQ1dkQlJ3OTJsSjlGRnFSd2x1clNQYzBVZWFwa1Z0X1VLWVJTTzFnSXlRQS1zcnFXNE9vYjZfM2ZrWA?oc=5
+- US stocks Today | US stocks open lower as chip stocks resume slide
+  The Dow Jones, S&amp;P 500, and Nasdaq Composite all opened lower. Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms
 
-- Stock market today: Dow, S&P 500, Nasdaq rebound after tech rout as oil prices tumble - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq rebound after
-  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcW43ODU1NDlIWTdFT2JjQnJNVkN5dy1nRTJnZHBIYWpPX0VsOEluQ1BDSVluOXRsdDRRRHh6eWhCZHJOSF91bnhVNnJTanBYZTk2cF9mLVliY0xNend5TkV6X2tPUUpJRGNKQ2dJaHFVRUNWS2tQaEJpcU96M0tfRVJBbjRfM3FiN2xuQ1hfVzBvV2JjSkJwazhpTVFhUjJMMU9hWnRSUURqX1pDMDRVU3NBQzhuVTlBMWxUQVpKWXlDTU51TFhrS0JZTTNSSVpR?oc=5
+- Quote of the day by David Swensen: "If you’re investing with a long time horizon, having an equity bias makes sense; stocks go up in the long run"
+  David Swensen emphasised the importance of maintaining an equity bias for long-term investors. Despite short-term volatility, equities reward patience and discipline.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms
 
-- Global tech sell-off deepens as South Korea's Kospi sinks 8%, S&P 500 futures fall: Live updates - CNBC
-  South Korea's Kospi sinks 8%, S&amp;P
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
+- Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq drops 1% at open as chip stocks resume slide
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-talks-hormuz-deal-brent-crude-oil-fed-warsh-micron-apple-spacex-intel-chip-stock-price-news-26th-june-2026/liveblog/132016225.cms
 
-- Asia stock markets slide as tech shares slump - BBC
-  Asia stock markets slide as tech
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
+- Power Grid of India board okays raising borrowing limit to Rs 2.2 lakh cr
+  The board of Power Grid Corporation has approved a substantial raise in its borrowing limit to Rs 2.2 lakh crore. The company intends to obtain USD 500 million in foreign currency resources via External Commercial Borrowings.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/power-grid-of-india-board-okays-raising-borrowing-limit-to-rs-2-2-lakh-cr/articleshow/132014308.cms
 
-- The world’s top-performing stock market still isn’t a developed market. Here’s why, according to the MSCI chief - CNBC
-  The world’s top-performing stock market still isn’t
-  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEYzX193aF83UFluT2pLZG1aTEFnVDJnU09KbmVMMm5LOGRneHpkUUdpaTB0a1pQb1c5Z25IVzBkaXRQbmRiazNMWnJ3N3NodmFsbUw0VFplTERUT0x0cklhUFJyM2NPNUZVODlMZkhVejJpTVRhdmRwY2ZEMFJtUlBiaTJtdjVwbVlMTVN3?oc=5
+- Strong bet! SBI Mutual Fund investors already sitting on 3x returns ahead of IPO launch
+  SBI Mutual Fund’s unlisted shares have delivered nearly 3.8x returns over the past three years, helped by sharp price appreciation and a 3:1 bonus issue, ahead of its proposed IPO. With Se
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/strong-bet-sbi-mutual-fund-investors-already-sitting-on-3x-returns-ahead-of-ipo-launch/articleshow/132012545.cms
 
-- IPO wave ahead: Jio, NSE among 10 public offers to watch in rest of 2026
-  Major listings such as Jio Platforms, NSE and SBI Mutual Fund lined up. A mix of large corporates and new-age firms like Zepto and Acko is expected to drive primary market activity across
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-wave-ahead-jio-nse-among-10-public-offers-to-watch-in-rest-of-2026/slideshow/132011619.cms
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
 
-- US dollar heads into second half as world’s top-performing major currency
-  The US dollar is set to enter the second half of 2026 on a strong footing, supported by higher interest rates, resilient economic growth and sustained investor demand for US assets. Despite easing inflation concerns and geopolitical relief, expectations of further rate
-  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-heads-into-second-half-as-worlds-top-performing-major-currency/articleshow/132010728.cms
+- Youth urged to join campaign for a drug-free India - The Hindu
+  The Hindu has published an article on the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
 
-- Bitcoin, Solana or XRP? The best performing crypto asset of 2026 so far
-  Crypto prices may have corrected sharply in 2026, but underlying trends suggest growing maturity. Bitcoin, Solana and XRP are increasingly being viewed through long-term utility rather than short
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-solana-or-xrp-the-best-performing-crypto-asset-of-2026-so-far/articleshow/132010524.cms
+- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
+  India tops medals tally with seven gold at ISSF Junior World Championship in
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
 
-- Goldman Sachs upgrades India's growth outlook after US-Iran peace deal
-  Goldman Sachs has raised India's 2026 real GDP growth forecast to 6.8% from 6.5%. Brokerage also lifted its FY27 GDP growth estimate to6.5% from6.1%.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-upgrades-indias-growth-outlook-after-us-iran-peace-deal/articleshow/132009446.cms
+- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
+  India's 1st Hydrogen Train Gets Approval
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
 
-- Vedanta unit accepts bids worth $1.75 billion for three-tranche dollar debt, bankers say
-  Vedanta Resources' subsidiary has successfully raised $1.75 billion through a dollar bond issuance. The company secured funds across six, eight, and eleven-year tenors at competitive rates, significantly lower than initial guidance.
-  🔗 https://economictimes.indiatimes.com/markets/bonds/vedanta-unit-accepts-bids-worth-1-75-billion-for-three-tranche-dollar-debt-bankers-say/articleshow/132009974.cms
-
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
-
-- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
-  Japanese Prime Minister Sanae Takaichi to visit
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
-
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
+- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
+  Ayodhya, Ram Mandir: Row over
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
-  Amazon CEO Meets PM Modi, To Invest $48 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
 
-- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
+- Youth urged to join campaign for a drug-free India - The Hindu
+  The Hindu has published an article on the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
+  India tops medals tally with seven gold at ISSF Junior World Championship in
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
 
-- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
-  Japanese Prime Minister Sanae Takaichi to visit
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
+- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
+  India's 1st Hydrogen Train Gets Approval
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
 
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
+- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
+  Ayodhya, Ram Mandir: Row over
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
-  Amazon CEO Meets PM Modi, To Invest $48 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
 
-- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
+- Youth urged to join campaign for a drug-free India - The Hindu
+  The Hindu has published an article on the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
+  India tops medals tally with seven gold at ISSF Junior World Championship in
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
 
-- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
-  Japanese Prime Minister Sanae Takaichi to visit
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
+- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
+  India's 1st Hydrogen Train Gets Approval
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
 
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
+- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
+  Ayodhya, Ram Mandir: Row over
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
-  Amazon CEO Meets PM Modi, To Invest $48 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
 
-- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
+- Youth urged to join campaign for a drug-free India - The Hindu
+  The Hindu has published an article on the
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
+  India tops medals tally with seven gold at ISSF Junior World Championship in
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
 
-- Japanese Prime Minister Sanae Takaichi to visit India next month - News On AIR
-  Japanese Prime Minister Sanae Takaichi to visit
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmkyUWtYNXFuclB5bUJMMDkyYjNHRllEWjEwZi1mcEtSOEZMMHdfVTZpNWtmUl9DY3JSUUZVWUxtbzk2NnN2VGF5MUc2WUp6dlhVOGNpZDNMSE1kZFRYLU1uV05SOGJfQXFZZFZRYUs1NHJ0UENrdW5YdmJDaDdtckxZSkh4aEwzV0wyRkEyeWxEMHdh?oc=5
+- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
+  India's 1st Hydrogen Train Gets Approval
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
 
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
+- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
+  Ayodhya, Ram Mandir: Row over
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
-
-- Amazon CEO Meets PM Modi, To Invest $48 Billion In India Over 4 Years - NDTV
-  Amazon CEO Meets PM Modi, To Invest $48 Billion
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXFLaGJJOEV0R3kzRTlUTHNyLThKUGVLODdjemR3TXhGVDlvOWxwRno1RGljRVZud01NRXZkcXFpVGtrNU5ETkptbWU4RURxWV83UzlUVzJFWDhmTVNKSU9YODRPS09DTUFxMTl1T1ZhU3l3Tmd1enVTbmNCeGNrbnJqclFvNWtMWlJMY3dZTjBzNlZmeklaOUdENTRxVFMyNnNGSzMxYzNSMkhROTB0T2hvd2HSAbwBQVVfeXFMTXNJVFdUYkZXSmFrLTFKWlV4V2ZpWC1xZFh6aGttck1DUFIxaEpkQlFsWEVpX0QzMU5Bck1TVkF3bHBHQ2J6WUJsN051Zy1aOWxtS3NFY0F6ck1paUszUHZvblhTcFVrcjNvX2FjWFQwejFhazVBcTJNM3VkbHdpRTB0MlNRcjBpVU1MMHRDN2tWYjVBbGlwclFncDdFejhzN0JTaFdjZE5TVFQwRVVlcG96aWxrUkRITU9PbnA?oc=5
-
-- Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push - NDTV
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1WV2FnUDBHQktnV0p1bnUxVjlINzFRUTF1MDhnX09EeV93TUkyblVfX1ZZeFp3dG8zSzJYTHNub1lfSWlXZmNtRWVyTmp3SVV4Z1hHMjBSLTdzNWR2SjZNeXExQzVKSjNpU1pfU1k0Ujl3RHlWV3NvS04xS0xPUlI1MnVLWndqNFlHSmg1bVV1YXNRbEpyQUVzYkhlU1ZKQjJqbU4wUEg3SVo2NmRF0gG3AUFVX3lxTE1EUDV0amdIT09kMU5mald4Nzk2bnI5MzhRWjdrWGlPY2paUFAxTUJmNWhiNDBNWDFxQUR5eUt1R29qYVF3bXpVeExGSGtzWTFBMGEtc2JzSjBmV0d3R2RtdlZmSl95NlRnY0JldUxWWTVYdkdENWxwNlI0X04yV1ZkSkd1Y2JSUUhKcmhNY2poMXA0My1fX0RpeS16NzloX0g0T0huWDhYbUs5YVpOeTR4dHo5Rjg5Yw?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-26 09:00:04 UTC_
+_Last updated: 2026-06-26 14:15:40 UTC_
