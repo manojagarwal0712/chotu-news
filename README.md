@@ -1,5 +1,13 @@
 # 📰 Daily News Summaries
 
+- Forest pond ‘poisoned’ in mass hunting attempt, 3 men arrested in Madhya Pradesh
+  
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-forest-pond-poisoned-chital-sambar-poaching-arrests-katni-10759370/
+
+- No potato, onion & steep petrol: A Manipur district feels pinch of conflict
+  
+  🔗 https://indianexpress.com/article/india/manipur-blockades-kangpokpi-food-fuel-shortage-10759265/
+
 - Goa may get a Kochi-style water metro. Here’s the plan
   
   🔗 https://indianexpress.com/article/india/goa-water-metro-project-plan-kochi-model-routes-sarbananda-sonowal-10759164/
@@ -8,17 +16,13 @@
   
   🔗 https://indianexpress.com/article/india/textbook-error-odisha-suspends-ex-scert-director-10758971/
 
-- New report warns of Myanmar trafficking route, Telegram, opioids threat
+- As Myanmar becomes leading source of illicit opium, why India has a cause for concern at hand
   
   🔗 https://indianexpress.com/article/india/ncb-annual-report-2025-myanmar-drug-corridor-synthetic-opioids-telegram-10758917/
 
-- India-Japan summit to be held in New Delhi, Guwahati ‘dropped’ as possible venue
+- Nasa Artemis Moon missions face risk from ageing launch infrastructure, says report
   
-  🔗 https://indianexpress.com/article/india/india-japan-summit-to-be-held-in-new-delhi-guwahati-dropped-as-possible-venue-10758890/
-
-- Can Himanta Sarma government in Assam stop Aadhaar cards for all above 18? Experts differ
-  
-  🔗 https://indianexpress.com/article/india/assam-himanta-biswa-sarma-adult-aadhaar-card-ban-legal-uidai-act-10758882/
+  🔗 https://indianexpress.com/article/technology/science/nasa-artemis-moon-missions-face-risk-from-ageing-launch-infrastructure-says-report-10759216/
 
 - Antarctic sea squirt could help unlock a new skin cancer treatment, scientists say
   
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-announces-new-finance-app-expands-portfolio-tracking-and-market-intelligence-10758822/
 
-- ChatGPT 5.6 rollout may begin with limited access, report claims
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-5-6-rollout-may-begin-with-limited-access-report-claims-10758678/
+- Law firms hired by HDFC Bank find no basis for governance doubts raised by former chair Chakraborty
+  HDFC bank’s board is likely to take a call on chief executive Jag
+  🔗 https://www.livemint.com/companies/law-firms-hired-by-hdfc-bank-find-no-basis-for-governance-doubts-raised-by-former-chair-chakraborty-11782496115964.html
 
 - OpenAI may push IPO to next year: What's behind the delay?
   OpenAI is considering delaying its IPO until next year. The company had previously prepared for a listing this year.
@@ -56,9 +60,17 @@
   Offers are valid until June 30, 2026. Customers can enjoy deals on products like mix
   🔗 https://www.livemint.com/companies/news/jiomarts-digi-utsav-sale-kicks-off-june-28-with-discounts-on-5g-phones-electronics-details-here-11782465121166.html
 
-- IPO delay? OpenAI considering pushing back listing to 2027 amid volatility in tech stocks, says report
-  OpenAI is considering delaying its IPO until 2027 due to recent tech stock volatility. CEO Sam Altman aims for a $1 trillion valuation.
-  🔗 https://www.livemint.com/companies/news/openai-ipo-delay-chatgpt-ceo-sam-altman-push-back-listing-to-2027-aim-1-trillion-valuation-technology-stocks-volatility-11782460910097.html
+- Gold, silver rates today: Comex gold extends rebound above $4,100; silver gains for second day as dollar weakens
+  Gold and silver prices increased for the second day, aided by a weaker US dollar. Gold rose to $4,111, despite continuing a decline, while silver reached $59.53
+  🔗 https://www.livemint.com/market/gold-silver-rates-today-comex-gold-extends-rebound-above-4-100-silver-gains-for-second-day-as-dollar-weakens-11782485641916.html
+
+- Crude oil prices tumble 5% as Strait of Hormuz traffic rebounds; Brent plunges 20% in June
+  Brent crude prices plummeted to $72 as supply concerns eased with resumed shipping through the Strait of Hormuz. The weekly decline reaches 10%, while June losses hit 20
+  🔗 https://www.livemint.com/market/stock-market-news/crude-oil-prices-tumble-5-as-strait-of-hormuz-traffic-rebounds-brent-plunges-20-in-june-11782492072765.html
+
+- Can an OpenAI IPO delay derail the AI chip rally? Here's why it matters
+  A potential delay in OpenAI's IPO has triggered selling in global technology stocks. Investors are increasingly selective in their stock choices, marking a shift in sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/can-an-openai-ipo-delay-derail-the-ai-chip-rally-heres-why-it-matters-11782484750309.html
 
 - BEML shares to be in focus on Monday after securing additional $5.35 million Middle East export order
   BEML Ltd. secured a $5.35 million export order, raising its contract total to $41.73 million. The company's international order book reached $112
@@ -67,18 +79,6 @@
 - Goldman sees big tech stocks turning attractive amid chip volatility, 'you want to diversify toward hyperscalers'
   Big tech stocks could turn more attractive in the artificial intelligence trade as chipmakers show continued volatility. Goldman Sachs
   🔗 https://www.livemint.com/market/goldman-sees-big-tech-stocks-turning-attractive-amid-chip-volatility-you-want-to-diversify-toward-hyperscalers-11782477441260.html
-
-- US stock market today: S&amp;P 500, Nasdaq futures slide up to 1% as global tech sell-off resumes
-  Nasdaq futures dropped 1.1%, amid concerns over high valuations, production cuts, and rising market volatility.
-  🔗 https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-slide-up-to-1-as-global-tech-sell-off-resumes-11782472705947.html
-
-- West Asia peace deal limits India Inc’s profitability hit to 100 bps: Report
-  Crisil Ratings reports that falling crude oil prices may lessen the profitability hit for India Inc. this fiscal year. The anticipated impact on operating margins is now
-  🔗 https://www.livemint.com/market/stock-market-news/west-asia-peace-deal-may-limit-india-inc-s-profitability-hit-to-100-bps-crisil-ratings-11782470015123.html
-
-- Multibagger HDFC AMC to announce June quarter results on this date. Check details
-  HDFC AMC's board will meet on July 15, 2026, to review financial results for June 2026. The firm launched a new sustainable investment strategy, HDFC Growth for GOOD Portfolio
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-hdfc-amc-to-announce-june-quarter-results-on-this-date-check-details-11782466522067.html
 
 - India's robotics funding doubles in 2026 first-half, but scale seems far away
   In 2025, Indian robotics startups raised less than 1% of the capital secured by US robotics startups and about 2% of that raised in China.
@@ -100,6 +100,38 @@
   Two powerful earthquakes struck Venezuela within minutes of each other. Several Android users reported receiving Google earthquake alerts before the tremors reached them.
   🔗 https://www.livemint.com/technology/tech-news/google-alerted-users-seconds-before-venezuelas-earthquake-heres-how-android-phones-detect-tremors-11782384678408.html
 
+- S&P 500 heads for losing week, chip stocks add to their losses on Friday: Live updates - CNBC
+  S&amp;P 500 heads for losing week, chip stocks add
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
+
+- Stock Market Today: Nasdaq Edges Higher; SpaceX in Focus — Live Updates - WSJ
+  Stock Market Today: Nasdaq Edges Higher;
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1FXVTFneFp1clJtNnM1RTFSd3NyeDBabDdGLXRtRDE5TXhvRXhyYTBGVjhoS1ZSSDdZbGdsRW5MY09qb2ZvSHRYTnZzYlZtV3NXc0tFcHdiMFR3blNNY1dHbV9yR0c3OHdMR3ZOR0VZNWRkNWJaNVlrb0FWSVB1UVJWbTRKdk0?oc=5
+
+- Asia stock markets slide as tech shares slump - BBC
+  Asia stock markets slide as tech
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
+
+- Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq waver as report
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUxfV0MyWktiYm15QjNLNXliUkV5WmhYcWxTUUFTN1Bxci1QSjlBWGRmTHluVjFkeUUtMDQ3U196N0VnZ1ZTM0E2NFYtU3lISDFSNHNVSmdPWG1IZ2x0YTBNcXQxejNQQk1OTFhSeTlCWjVxSkczYkN5QnpBbHUzR0ZLZUZwb3dyQ05HbmwybU5RT0c0VW5VT2gyNzVrT3FhdjRBTU5LTnBhZHBhLVZsRzN2QTZKNFM0VVZJLWNITFVwZWk2eTBlWHpiU3VoazZlMmt3MTF3YkNpUUdZTG1v?oc=5
+
+- Stock Market Today: Stocks Slip as Tech Sell-Off Continues; S&P 500, Nasdaq on Track For Weekly Losses - Investopedia
+  S&amp;P 500, Nasdaq on Track For Weekly Losses
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5
+
+- IMF chief economist says Fed reduction in rate guidance is 'entirely appropriate'
+  The IMF's chief economist Pierre-Olivier Gourinchas has endorsed Federal Reserve Chair Kevin Warsh's move to reduce explicit forward guidance on monetary policy. He said overly rigid guidance proved costly when inflation surged, as it tied
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/imf-chief-economist-says-fed-reduction-in-rate-guidance-is-entirely-appropriate/articleshow/132020989.cms
+
+- Silver Consumer Electricals concludes Rs 150 cr pre-IPO secondary share sale
+  Silver Consumer Electricals, renowned for its pumps and motors, has successfully raised Rs 150 crore through a pre-IPO secondary share sale. A 2.59% stake was sold by a promoter group member to investor Riyaz Suter
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/silver-consumer-electricals-concludes-rs-150-cr-pre-ipo-secondary-share-sale/articleshow/132019877.cms
+
+- Fidelity Investments buys 2 pc stake in Lodha Developers for Rs 1,864 crore
+  Fidelity Investments has strategically acquired a 2% stake in Lodha Developers, amounting to Rs 1,864 crore, through open market operations. The acquisition involves nearly 2 crore shares purchased from promoter entities Hightown Constructions and Home
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/fidelity-investments-buys-2-pc-stake-in-lodha-developers-for-rs-1864-crore/articleshow/132019863.cms
+
 - US stocks Today | US stocks open lower as chip stocks resume slide
   The Dow Jones, S&amp;P 500, and Nasdaq Composite all opened lower. Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms
@@ -108,97 +140,85 @@
   David Swensen emphasised the importance of maintaining an equity bias for long-term investors. Despite short-term volatility, equities reward patience and discipline.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms
 
-- Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq drops 1% at open as chip stocks resume slide
-  
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-talks-hormuz-deal-brent-crude-oil-fed-warsh-micron-apple-spacex-intel-chip-stock-price-news-26th-june-2026/liveblog/132016225.cms
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- Power Grid of India board okays raising borrowing limit to Rs 2.2 lakh cr
-  The board of Power Grid Corporation has approved a substantial raise in its borrowing limit to Rs 2.2 lakh crore. The company intends to obtain USD 500 million in foreign currency resources via External Commercial Borrowings.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/power-grid-of-india-board-okays-raising-borrowing-limit-to-rs-2-2-lakh-cr/articleshow/132014308.cms
+- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
+  India's growth story not recognised by global rating agencies:
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
 
-- Strong bet! SBI Mutual Fund investors already sitting on 3x returns ahead of IPO launch
-  SBI Mutual Fund’s unlisted shares have delivered nearly 3.8x returns over the past three years, helped by sharp price appreciation and a 3:1 bonus issue, ahead of its proposed IPO. With Se
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/strong-bet-sbi-mutual-fund-investors-already-sitting-on-3x-returns-ahead-of-ipo-launch/articleshow/132012545.cms
-
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
-
-- Youth urged to join campaign for a drug-free India - The Hindu
-  The Hindu has published an article on the
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
-
-- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
-  India tops medals tally with seven gold at ISSF Junior World Championship in
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
-
-- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
-  India's 1st Hydrogen Train Gets Approval
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
-
-- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
-  Ayodhya, Ram Mandir: Row over
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- Youth urged to join campaign for a drug-free India - The Hindu
-  The Hindu has published an article on the
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
+- India news: Government sends help to quake-hit Venezuela - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
 
-- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
-  India tops medals tally with seven gold at ISSF Junior World Championship in
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
-  India's 1st Hydrogen Train Gets Approval
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
+- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
+  India's growth story not recognised by global rating agencies:
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
 
-- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
-  Ayodhya, Ram Mandir: Row over
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- Youth urged to join campaign for a drug-free India - The Hindu
-  The Hindu has published an article on the
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
+- India news: Government sends help to quake-hit Venezuela - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
 
-- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
-  India tops medals tally with seven gold at ISSF Junior World Championship in
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
-  India's 1st Hydrogen Train Gets Approval
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
+- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
+  India's growth story not recognised by global rating agencies:
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
 
-- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
-  Ayodhya, Ram Mandir: Row over
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- Youth urged to join campaign for a drug-free India - The Hindu
-  The Hindu has published an article on the
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGxVOXRlUUZxRWw2SUJQZzQ1YUZPYzFXdmNuQ2ttVzlxMnZ3a29nX2ZDaTIxZTc1NzNyRjJYdW1EWW1nSFFZUUVTNmpGaHlYZVBxZE1ZVkc2NEwyN3pLQl9OSkZBY2FsY1J4UV9TNGZiVjVPNFJUVUZBbEhNSDFWRE1LRklrd2FxMFNNSWFrTnUySGI2dTQxQldZdVkzWXJqU3ZZa0lJR0M0Nk9kZ25uV2J0N1plajlfOWxwdXFyNi1KUdIByAFBVV95cUxQWUtfcW1xNUxJVHJ5c2t3SGVuTzkwc2ZNcE5EdllmYVBLN3ZLUFZQNXRnYmlhc1ZScnA0X1BkRmMzZkNhRDRKblNIbEE4aHF3ZjVuWVdBdVVqMW1kQjZBbHRvaXB1UFBmTGhKcEdkclNxdHprQXZtTW5kX19iTFYySFFQbVpYdWdfV1ZPcG42ZklYVGZ5eU1WaW9RQXdNd0FmLVBVYmZydTh3alNmc016UmxMS2YtV0lWZVdXbm5mZ3V5LVdiTWc3cw?oc=5
+- India news: Government sends help to quake-hit Venezuela - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
 
-- India tops medals tally with seven gold at ISSF Junior World Championship in Germany - News On AIR
-  India tops medals tally with seven gold at ISSF Junior World Championship in
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlXbEJNbkdVc1R1TTR0MW9vS25lQjlzSkpqRTRzNHBTMWZqUEpPc2thR205MFNCY0hPY2FvcENKLTlnSXJzZ1BER0xxS2FuOUt3czVTTUdUekhBczRoMlp6WEVMQ2UzY0hyelRUOFA2RHZfT3JIMlJBWGpPSEE3NUtYbzBmeUhPVFBjeVhqb0VQUDdqbkdmdzcteFl1TTRia01PaWlmUnkzbEo1OEpJ?oc=5
+- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
+  Couple Returns After 15 Years In US To Build
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
 
-- India's 1st Hydrogen Train Gets Approval. Here Is What Makes It Special - NDTV
-  India's 1st Hydrogen Train Gets Approval
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxObG50Y1VCbEpsa3NPWFBYXzRSUzIza3Nrd2I1Y1ZUZUVUeUsycXNTM2o3ZzdUVm12Ni1lNGlkRXoya0dfendpUnZ6UGs3R1ZSVnRsajJHaUdKYXh4cWhGMm03S2dSOG9OdzExd1BaRm45SmxIRVVKSEpxcFBpTkxYRU9wRnZucENtWVpKWUZDbC1xMzVJTlBiMnNNUEp3N1Izd2tKTjVYUXlNb25TbzVTVEFVcFLSAbwBQVVfeXFMTkw2MGxsdDRtUmxFMS15RDNYUEhzcXhYWS1IUEFXYUpEWmdTc0FiT1V5YjRSVURSYkNZY2JjbFR4SXYxblJaVWFJel9Zbkd1amRoNUZ3ZFBrdURGUHFaUkRMVmxueWlFX2Z0Rjcwa1JIVVQ2THhLSTVSbGJrejZkNzhOd3NubjEwNDZNMTZlQjNteVh5Tl9nZ0lNbi1pRFVYWjdtc2lyWWdKeFJQX0FrZ19FLU56R19LVktDVV8?oc=5
+- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
+  India's growth story not recognised by global rating agencies:
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
 
-- Ayodhya, Ram Mandir: Row over alleged theft of donations from Indian temple - bbc.com
-  Ayodhya, Ram Mandir: Row over
+- Row over alleged theft of donations from India's landmark Ram temple - BBC
+  Row over alleged theft of donations from India's
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
+
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
+
+- India news: Government sends help to quake-hit Venezuela - dw.com
+  &nbsp;&n
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-26 14:15:40 UTC_
+_Last updated: 2026-06-26 19:45:05 UTC_
