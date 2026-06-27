@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
+- Red Fort blast: Absconding key suspect among 3 named in NIA supplementary chargesheet
+  
+  🔗 https://indianexpress.com/article/india/red-fort-blast-case-nia-files-charges-against-3-more-accused-10760419/
+
+- Marathon through meadows: Baramulla’s rural run draws 1,000 participants
+  
+  🔗 https://indianexpress.com/article/india/zoonrun-baramulla-first-rural-marathon-jammu-kashmir-fitness-10760321/
+
+- 15-minute current booking rule boosts Vande Bharat train ridership across Southern Railway
+  
+  🔗 https://indianexpress.com/article/india/15-minute-current-booking-rule-boosts-vande-bharat-train-ridership-across-southern-railway-10760277/
+
+- India’s first hydrogen train undergoes Delhi-Jind trial run ahead of launch
+  
+  🔗 https://indianexpress.com/article/india/india-first-hydrogen-train-delhi-jind-sonipat-trial-run-ahead-of-launch-10759232/
+
 - New railway line through MP tiger corridor gets in-principle forest nod
   
   🔗 https://indianexpress.com/article/india/satpura-melghat-tiger-corridor-railway-line-forest-clearance-10760091/
 
-- Trump to visit India early 2027 as trade deal enters final stretch: US envoy Sergio Gor
+- Can Nasa save its ageing Swift observatory? Inside the $30-million rescue plan
   
-  🔗 https://indianexpress.com/article/india/trump-india-visit-2027-sergio-gor-us-ambassador-trade-deal-modi-10759904/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/can-nasa-save-its-ageing-swift-observatory-inside-30-million-rescue-plan-10760447/
 
-- India News LIVE Updates, 27 June 2026: PM Modi leaves for Seychelles; mortal remains of Indians killed in Qatar explosion repatriated
+- Living with the Motorola Razr Fold for a month: Here’s what I learnt
   
-  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-27-june-2026-minister-cucumber-subsidy-venezuela-toll-hormuz-10759872/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/motorola-razr-fold-2026-review-10760249/
 
-- Gold Rate Today, June 27: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- 11 ways Google says Gemini can transform productivity at work
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-june-27-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10759871/
-
-- Star of Kerala’s anti-drug crackdown: A distraught mother
-  
-  🔗 https://indianexpress.com/article/india/mini-antony-kerala-mother-behind-anti-drug-drive-operation-toofan-vd-satheesan-ramesh-chennithala-10759759/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/11-ways-google-says-gemini-can-transform-productivity-at-work-10760291/
 
 - Vi offers 3-month Spotify Premium free on select postpaid plans
   
@@ -28,37 +40,29 @@
   
   🔗 https://indianexpress.com/article/technology/science/june-strawberry-moon-2026-watch-india-10759978/
 
-- OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-defers-public-rollout-of-gpt%e2%80%915-6-as-us-seeks-early-access-to-frontier-ai-models-10759804/
+- Who is Prabhjeet Singh? IIT-IIM alumnus and Uber veteran named OpenAI's India MD
+  Prabhjeet Singh has been appointed Managing Director for India. His experience
+  🔗 https://www.livemint.com/companies/news/who-is-prabhjeet-singh-iit-iim-alumnus-and-uber-veteran-named-openais-india-md-11782554477257.html
 
-- Anthropic resumes limited Mythos 5 rollout after US eases restrictions
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-resumes-limited-mythos-5-rollout-after-us-eases-restrictions-10759685/
+- Anthropic's lowest-paid H-1B hire still earns over  ₹1 crore, filings show, as its top techie gets  ₹13.06 crore
+  New H-1B filings reveal Anthropic's pay bands, from  ₹1.07 crore
+  🔗 https://www.livemint.com/companies/news/anthropics-lowest-paid-h-1b-hire-still-earns-over-1-crore-filings-show-as-its-top-techie-gets-13-06-crore-11782554175778.html
 
-- Researcher wins $1,00,000 prize for decoding Zebra Finch calls using AI
-  
-  🔗 https://indianexpress.com/article/technology/science/researcher-wins-100000-prize-for-decoding-zebra-finch-calls-using-ai-10759218/
+- Ashok Vaswani to step down as Kotak Mahindra Bank CEO after 31 December
+  Kotak Mahindra Bank has initiated the process
+  🔗 https://www.livemint.com/companies/news/ashok-vaswani-to-step-down-as-kotak-mahindra-bank-ceo-after-december-31-successor-search-begins-11782554753783.html
 
-- US court refuses to dismiss Gautam Adani case, questions settlement bid
-  The court gives the US government
-  🔗 https://www.livemint.com/companies/news/gautam-adani-us-bribery-case-court-ruling-settlement-dismissal-11782544995550.html
+- Oracle layoffs: 500 more employees lose their jobs — What we know about the affected departments
+  This marks the second round of job cuts in Romania, following a previous reduction of 400 positions last year.
+  🔗 https://www.livemint.com/companies/news/oracle-layoffs-500-more-employees-lose-their-jobs-what-we-know-about-the-affected-departments-11782550565959.html
 
-- ITC Chairman Sanjiv Puri's remuneration fell 6.8% in FY26 on back of lower performance bonus: Here's how much he made
-  ITC Chairman and MD Sanjiv Puri's remuneration fell 6.8 per
-  🔗 https://www.livemint.com/companies/news/itc-chairman-sanjiv-puris-remuneration-fell-6-8-in-fy26-on-back-of-lower-performance-bonus-heres-how-much-he-made-11782545254168.html
+- Persistent Systems makes its biggest bet yet with $1.3 billion Nagarro deal
+  The acquisition would reorder India's IT rankings, propelling Pers
+  🔗 https://www.livemint.com/companies/news/persistent-systems-nagarro-1-3-billion-acquisition-india-it-mphasis-coforge-11782546603556.html
 
-- Atanu Chakraborty terms HDFC Bank's legal review superfluous
-  Atanu Chakraborty resigned as HDFC Bank chairman in March. Appointing external
-  🔗 https://www.livemint.com/companies/news/atanu-chakraborty-hdfc-bank-legal-review-report-sashidhar-jagdishan-11782534635153.html
-
-- Trump administration clears Anthropic to roll out Claude Mythos 5 to over 100 organisations: Report
-  The US government has permitted Anthropic to release its Claude Myth
-  🔗 https://www.livemint.com/companies/news/trump-administration-clears-anthropic-to-roll-out-claude-mythos-5-to-over-100-organisations-report-11782521730751.html
-
-- Why Equirus is avoiding loss-making startups in its  ₹1,500 crore fund
-  Equirus new fund launch comes as India’s startup funding market becomes more selective. Early
-  🔗 https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html
+- Turtlemint Fintech IPO GMP signals discounted market debut on 29 June; check subscription and other details
+  Turtlemint's IPO, open from June 19 to 21, was subscribed 0.68 times. It aims to grow its tech capabilities and brand presence with the raised
+  🔗 https://www.livemint.com/market/ipo/turtlemint-fintech-ipo-gmp-signals-discounted-market-debut-on-29-june-check-subscription-and-other-details-11782549685614.html
 
 - Vijay Kedia explains why every bull market ends the same way—and where the next opportunity could be
   Vijay Kedia shares insights on market cycles, explaining that investment opportunities rotate through phases of optimism, euphoria, and correction. He encourages investors to recognize patterns
@@ -75,10 +79,6 @@
 - Stocks to buy below  ₹100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell
   Bank Nifty's trading range is set between 57,000 and 59,000. Breakouts suggest future trends. Analyst Mehul Kothari advises buying Trident, UCO Bank, and
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-below-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11782531566876.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 29 June 2026
-  Dr Reddy's Labs, M&amp
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-29-june-2026-11782529949126.html
 
 - Moto Pad 70 Pro launched in India with 13-inch 3.5K display, AI features and 10,200mAh battery
   The Moto Pad 70 Pro features a 13-inch 3.5K display, Snapdragon 8s Gen 4 processor, and
@@ -104,121 +104,101 @@
   Nasdaq Composite posts fifth losing session Friday as chip
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
 
-- Stock Market News, June 26, 2026: Nasdaq Edges Lower to Close Tough Week - WSJ
-  The WSJ looks at the future of the Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1FXVTFneFp1clJtNnM1RTFSd3NyeDBabDdGLXRtRDE5TXhvRXhyYTBGVjhoS1ZSSDdZbGdsRW5MY09qb2ZvSHRYTnZzYlZtV3NXc0tFcHdiMFR3blNNY1dHbV9yR0c3OHdMR3ZOR0VZNWRkNWJaNVlrb0FWSVB1UVJWbTRKdk0?oc=5
-
 - Markets News, June 26, 2026: S&P 500, Nasdaq Post Weekly Losses as Tech Sell-Off Continues - Investopedia
   The S&amp;P 500, Nasdaq Post Weekly Loss
   🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5
 
-- Prediction Markets Let You Bet on Anything. That's a Problem - CNET
-  Prediction Markets Let You Bet on Anything
-  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGxGOVVkMWxycFFrNTQyaGQwcDJkSnNzZWhKQTM4UUFsZ3VOeEd4aUZSdUZiM2Y3Sl9BQW1wZnJ6Wkd0Rkdoa296MkJzQkVCV3VQeGQyLXBDMDVDS3ZfbU1UQ25IVFFaZlhpbFRSbTJLbE1XSHRweG1PTDZjRXBHblFPZk9yZw?oc=5
+- China's consumer market: Strong resilience and promising upgrading - news.cgtn.com
+  China's consumer market: Strong
+  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPTVFFc1pkaEZGQWx4VXg4MFMyeC1qM1BMdktjV29Fb1l3cDJXR0xtMzJyemVFQmoxRTM4NVZEdVFzbGkyZ1JTMVJHWkdXQnh1Y3ZFU2tjMFM3SlVuVW9JclljeC12Sy03TnBpclh1TGJISW42S0tZdUhfbHRkRkRNTzczdG1ZS2lfbk1iamg2YjhvaFRoeWNpb1pPUmg5VEhsVUpFdThHSVI0X0c0M0F3M0ZFUVk1X2dFYUhxN3BRaw?oc=5
+
+- These stocks are the most oversold after a turbulent week for the market - CNBC
+  These stocks are the most oversold after a turbulent week
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzc4bXVXblpxMW5LVVNqUUhmNlV3OHF6X0EwZFdTak10eDlhMkEzd3dUVkFDMnRCbWhBWE10aUo0Q3l2bll6RWhTWEl0a2tMRDlrMUtZRWdFa2hrbFZ2MmNBU3JsR2E4Z25EVkN1aVBENlh5ZmJGUEZ6Zkp2dkVLMERBTXZNdTdTdGhHRDF2NmZxbWZ5WTUtbWxqNENJaE9hLVFUajVsSDZCclpnaEE?oc=5
 
 - Asia stock markets slide as tech shares slump - BBC
   Asia stock markets slide as tech
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
 
+- Companies should focus on business growth, profitability rather than just share price: NSE chief
+  NSE MD and CEO Ashish Chauhan urged companies to prioritize building sustainable businesses and long-term value. He emphasized that market valuation should reflect genuine business performance and growth.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/companies-should-focus-on-business-growth-profitability-rather-than-just-share-price-nse-chief/articleshow/132031843.cms
+
+- Indian issuers hold dollar bond plans amid demand for higher yields
+  Banks and PSUs may now turn to loans or wait for calmer global bond markets. Recent deals show widening spreads over US Treasuries, prompting issuers to reconsider timing.
+  🔗 https://economictimes.indiatimes.com/markets/bonds/indian-issuers-hold-dollar-bond-plans-amid-demand-for-higher-yields/articleshow/132031654.cms
+
+- Dalal Street Week Ahead: Nifty to test crucial 24,500 level; breakout may define next trend
+  Nifty hovered near a crucial resistance zone between 24,160 and 24,500. Technical indicators suggest caution, with a decisive move above this hurdle needed to fuel further upside. Investors are advised to maintain a selective approach, focusing on
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dala-street-week-ahead-nifty-to-test-crucial-24500-level-breakout-may-define-next-trend/articleshow/132031360.cms
+
+- Chris Wood’s big warning: The specific risk that will finally trigger the end of AI trade
+  Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms
+
 - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition
   Goldman Sachs’ India equity portfolio fell 6% in CY26 amid mixed stock performance. While 18 stocks declined sharply, eight delivered
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms
 
-- NSE IPO to value exchange at Rs 5 lakh crore? 2 scenarios every investor should watch
-  NSE's proposed IPO could value the exchange at around Rs 5 lakh crore, making it one of India's most valuable listed financial institutions. Centrum outlines two scenarios that could shape post-listing performance.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-to-value-exchange-at-rs-5-lakh-crore-2-scenarios-every-investor-should-watch/articleshow/132030714.cms
-
-- Bitcoin struggles under $60,000 amid persistent ETF withdrawals. Here is what experts say
-  Major altcoins saw mixed movements, with some gaining up to 4%. Analysts suggest a potential dip to $55,500-$56,000 if Bitcoin breaks key support. Overall market sentiment remains cautious, reflecting a broader decline in risk
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-struggles-under-60000-amid-persistent-etf-withdrawals-here-is-what-experts-say/articleshow/132030661.cms
-
-- ETMarkets Smart Talk | AI and semiconductors remain the best global investment themes today: Niteen Dongare
-  AI and semiconductors remain the most compelling long-term investment themes, says Niteen Dongare of Anand Rathi International Ventures. He recommends allocating 20-30% of portfolios to global markets
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-and-semiconductors-remain-the-best-global-investment-themes-today-niteen-dongare/articleshow/132030176.cms
-
-- Sebi rejects Anil Ambani's settlement request over Reliance Infrastructure
-  The Securities and Exchange Board of India cited parallel investigations by other agencies. This marks the second settlement rejection for Ambani. The group categorically denies the claims.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-rejects-anil-ambanis-settlement-request-over-reliance-infrastructure/articleshow/132029893.cms
+- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
+  Mirwaiz Umar Farooq
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
 
 - Kerala: The Indian state trying to ensure no one grows old alone - BBC
   Kerala: The Indian state trying to ensure no
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
+  India launches world’s first nuclear process heat
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
 
-- Pearl Global Industries - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition - The Economic Times
-  The Economic Times reports that Goldman Sachs' India bets are paying off. Goldman Sachs’ India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPZFJ0VXJPUURsdkhMc0dDUzdvd2hHTnExeE13NlRCMnV5aTBzeDlqbjFCZXd0Yzl3VVhVV2xrMS1DNXJldXNsNmJycGFZRlNRVEtBb2I4ajFIVU5rbzBlNWNLZ0VWc0ZXc2ZjR1N0WTB1QkdZUHVyYlR0TVNxVlNpUkZ5UEEtQ2t6Z3JMWDNiSm11Qm9nRkdCZ3ZaMDdXajVPZGd4aHlZYTZTYWZnTnBIaXNxbWZBckxHNTVNZGJXZU1EcV96S0RBRUNpVU40dmFQNnplUy1Qc182TEpnRmVfV2tHYW8tX25GR0ZVQkNraEZJZVdjb0YxNDhsOGo2VkkxTEVVYmlLc1d5QQ?oc=5
+- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to assist
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
 
-- Seychelles backs India’s bid for permanent seat in UNSC - News On AIR
-  Seychelles backs India’s
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZk9Wak5Ta3dGbHA5OWs4QUpWb291Q0h3T2dYeExfSnZENjY4MjN5WkVBUnpmcUZybmQ5WWhrVzBPVS0yRkZtMVhMZjNBS0JDU2RyRVlqRlN2ZWkzUlRxczFLRHlVbkFrdzl2UmNjTzR1RUhxQXdaaUdOenQtWDFaOGhSbE5GT0E?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- From engineering student to OpenAI India chief: Prabhjeet Singh's inspiring career journey - The Times of India
-  From engineering student to OpenAI India chief: Prabhje
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXpsUnVPRTBiVGUwdHcyNi1ock8zc2ZzMEpoQzd2eWpadTNzSEJnckpsRVBudVhBZ1RWSHRfajVsX3VQZkt2czJIaGgxa1FlZ3RsMXpYeUFOVmIyOVJPZmg4aWV5VHRJMEVGc3lhUDlWRVJibEVTYmc4bzA3WjM0SzNZb0JaMjNNaFFJb01tYUx4aUduTnJrZ2IwNWtTZ2RwcnEyMHFMYTM1eGpaWkdEOWZtYkhOWW82a1BqYnNOQm0wMDFoUTZLRHJzMG44VjFFS0NCczBTUlhFSGVjQXB4NmRDYkxQbFVpMmFhYmF3bHFGc18zUnlTaNIB_gFBVV95cUxPREdIQVkxYWdPUDRpT0JZbWM0RzJzMWJlM1UzcjJKTkZnajQ1M1hsVWQydEs0ckQyelNWYmVwVVRoX1VyZDJESnNjcVlmYkFWZjZVWVYyWmRUOTNoSWZlV1ZWTXcyTk9DUjV0ZGNvQnZnSUZwTG9xT2RIRERkeHFIMXV2UWlvVUs4eEVRV3lweTN5X1piTFUxX2RmX2ZFbzc2MVZ0S2pGUUtDN1E4dmZReGFmUUtkTEhWa2FqLWYxUlNTODFLbEQzd1VCUmVmNzl5U09jUERzU2ZGUW9fTWVPd2hkY1ZYNmQ3dHB1a0JqZWdwWkNta25ZTHZfamtiQQ?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
-
-- Pearl Global Industries - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition - The Economic Times
-  The Economic Times reports that Goldman Sachs' India bets are paying off. Goldman Sachs’ India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPZFJ0VXJPUURsdkhMc0dDUzdvd2hHTnExeE13NlRCMnV5aTBzeDlqbjFCZXd0Yzl3VVhVV2xrMS1DNXJldXNsNmJycGFZRlNRVEtBb2I4ajFIVU5rbzBlNWNLZ0VWc0ZXc2ZjR1N0WTB1QkdZUHVyYlR0TVNxVlNpUkZ5UEEtQ2t6Z3JMWDNiSm11Qm9nRkdCZ3ZaMDdXajVPZGd4aHlZYTZTYWZnTnBIaXNxbWZBckxHNTVNZGJXZU1EcV96S0RBRUNpVU40dmFQNnplUy1Qc182TEpnRmVfV2tHYW8tX25GR0ZVQkNraEZJZVdjb0YxNDhsOGo2VkkxTEVVYmlLc1d5QQ?oc=5
-
-- Seychelles backs India’s bid for permanent seat in UNSC - News On AIR
-  Seychelles backs India’s
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZk9Wak5Ta3dGbHA5OWs4QUpWb291Q0h3T2dYeExfSnZENjY4MjN5WkVBUnpmcUZybmQ5WWhrVzBPVS0yRkZtMVhMZjNBS0JDU2RyRVlqRlN2ZWkzUlRxczFLRHlVbkFrdzl2UmNjTzR1RUhxQXdaaUdOenQtWDFaOGhSbE5GT0E?oc=5
-
-- From engineering student to OpenAI India chief: Prabhjeet Singh's inspiring career journey - The Times of India
-  From engineering student to OpenAI India chief: Prabhje
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXpsUnVPRTBiVGUwdHcyNi1ock8zc2ZzMEpoQzd2eWpadTNzSEJnckpsRVBudVhBZ1RWSHRfajVsX3VQZkt2czJIaGgxa1FlZ3RsMXpYeUFOVmIyOVJPZmg4aWV5VHRJMEVGc3lhUDlWRVJibEVTYmc4bzA3WjM0SzNZb0JaMjNNaFFJb01tYUx4aUduTnJrZ2IwNWtTZ2RwcnEyMHFMYTM1eGpaWkdEOWZtYkhOWW82a1BqYnNOQm0wMDFoUTZLRHJzMG44VjFFS0NCczBTUlhFSGVjQXB4NmRDYkxQbFVpMmFhYmF3bHFGc18zUnlTaNIB_gFBVV95cUxPREdIQVkxYWdPUDRpT0JZbWM0RzJzMWJlM1UzcjJKTkZnajQ1M1hsVWQydEs0ckQyelNWYmVwVVRoX1VyZDJESnNjcVlmYkFWZjZVWVYyWmRUOTNoSWZlV1ZWTXcyTk9DUjV0ZGNvQnZnSUZwTG9xT2RIRERkeHFIMXV2UWlvVUs4eEVRV3lweTN5X1piTFUxX2RmX2ZFbzc2MVZ0S2pGUUtDN1E4dmZReGFmUUtkTEhWa2FqLWYxUlNTODFLbEQzd1VCUmVmNzl5U09jUERzU2ZGUW9fTWVPd2hkY1ZYNmQ3dHB1a0JqZWdwWkNta25ZTHZfamtiQQ?oc=5
+- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
+  Mirwaiz Umar Farooq
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
 
 - Kerala: The Indian state trying to ensure no one grows old alone - BBC
   Kerala: The Indian state trying to ensure no
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
+  India launches world’s first nuclear process heat
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
 
-- Pearl Global Industries - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition - The Economic Times
-  The Economic Times reports that Goldman Sachs' India bets are paying off. Goldman Sachs’ India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPZFJ0VXJPUURsdkhMc0dDUzdvd2hHTnExeE13NlRCMnV5aTBzeDlqbjFCZXd0Yzl3VVhVV2xrMS1DNXJldXNsNmJycGFZRlNRVEtBb2I4ajFIVU5rbzBlNWNLZ0VWc0ZXc2ZjR1N0WTB1QkdZUHVyYlR0TVNxVlNpUkZ5UEEtQ2t6Z3JMWDNiSm11Qm9nRkdCZ3ZaMDdXajVPZGd4aHlZYTZTYWZnTnBIaXNxbWZBckxHNTVNZGJXZU1EcV96S0RBRUNpVU40dmFQNnplUy1Qc182TEpnRmVfV2tHYW8tX25GR0ZVQkNraEZJZVdjb0YxNDhsOGo2VkkxTEVVYmlLc1d5QQ?oc=5
+- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to assist
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
 
-- Seychelles backs India’s bid for permanent seat in UNSC - News On AIR
-  Seychelles backs India’s
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZk9Wak5Ta3dGbHA5OWs4QUpWb291Q0h3T2dYeExfSnZENjY4MjN5WkVBUnpmcUZybmQ5WWhrVzBPVS0yRkZtMVhMZjNBS0JDU2RyRVlqRlN2ZWkzUlRxczFLRHlVbkFrdzl2UmNjTzR1RUhxQXdaaUdOenQtWDFaOGhSbE5GT0E?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- From engineering student to OpenAI India chief: Prabhjeet Singh's inspiring career journey - The Times of India
-  From engineering student to OpenAI India chief: Prabhje
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXpsUnVPRTBiVGUwdHcyNi1ock8zc2ZzMEpoQzd2eWpadTNzSEJnckpsRVBudVhBZ1RWSHRfajVsX3VQZkt2czJIaGgxa1FlZ3RsMXpYeUFOVmIyOVJPZmg4aWV5VHRJMEVGc3lhUDlWRVJibEVTYmc4bzA3WjM0SzNZb0JaMjNNaFFJb01tYUx4aUduTnJrZ2IwNWtTZ2RwcnEyMHFMYTM1eGpaWkdEOWZtYkhOWW82a1BqYnNOQm0wMDFoUTZLRHJzMG44VjFFS0NCczBTUlhFSGVjQXB4NmRDYkxQbFVpMmFhYmF3bHFGc18zUnlTaNIB_gFBVV95cUxPREdIQVkxYWdPUDRpT0JZbWM0RzJzMWJlM1UzcjJKTkZnajQ1M1hsVWQydEs0ckQyelNWYmVwVVRoX1VyZDJESnNjcVlmYkFWZjZVWVYyWmRUOTNoSWZlV1ZWTXcyTk9DUjV0ZGNvQnZnSUZwTG9xT2RIRERkeHFIMXV2UWlvVUs4eEVRV3lweTN5X1piTFUxX2RmX2ZFbzc2MVZ0S2pGUUtDN1E4dmZReGFmUUtkTEhWa2FqLWYxUlNTODFLbEQzd1VCUmVmNzl5U09jUERzU2ZGUW9fTWVPd2hkY1ZYNmQ3dHB1a0JqZWdwWkNta25ZTHZfamtiQQ?oc=5
+- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
+  Mirwaiz Umar Farooq
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
 
 - Kerala: The Indian state trying to ensure no one grows old alone - BBC
   Kerala: The Indian state trying to ensure no
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
 
-- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
-  94-year-old Andhra Woman
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
+  India launches world’s first nuclear process heat
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
 
-- Pearl Global Industries - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition - The Economic Times
-  The Economic Times reports that Goldman Sachs' India bets are paying off. Goldman Sachs’ India
-  🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxPZFJ0VXJPUURsdkhMc0dDUzdvd2hHTnExeE13NlRCMnV5aTBzeDlqbjFCZXd0Yzl3VVhVV2xrMS1DNXJldXNsNmJycGFZRlNRVEtBb2I4ajFIVU5rbzBlNWNLZ0VWc0ZXc2ZjR1N0WTB1QkdZUHVyYlR0TVNxVlNpUkZ5UEEtQ2t6Z3JMWDNiSm11Qm9nRkdCZ3ZaMDdXajVPZGd4aHlZYTZTYWZnTnBIaXNxbWZBckxHNTVNZGJXZU1EcV96S0RBRUNpVU40dmFQNnplUy1Qc182TEpnRmVfV2tHYW8tX25GR0ZVQkNraEZJZVdjb0YxNDhsOGo2VkkxTEVVYmlLc1d5QQ?oc=5
+- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to assist
+  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
 
-- Seychelles backs India’s bid for permanent seat in UNSC - News On AIR
-  Seychelles backs India’s
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQZk9Wak5Ta3dGbHA5OWs4QUpWb291Q0h3T2dYeExfSnZENjY4MjN5WkVBUnpmcUZybmQ5WWhrVzBPVS0yRkZtMVhMZjNBS0JDU2RyRVlqRlN2ZWkzUlRxczFLRHlVbkFrdzl2UmNjTzR1RUhxQXdaaUdOenQtWDFaOGhSbE5GT0E?oc=5
-
-- From engineering student to OpenAI India chief: Prabhjeet Singh's inspiring career journey - The Times of India
-  From engineering student to OpenAI India chief: Prabhje
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXpsUnVPRTBiVGUwdHcyNi1ock8zc2ZzMEpoQzd2eWpadTNzSEJnckpsRVBudVhBZ1RWSHRfajVsX3VQZkt2czJIaGgxa1FlZ3RsMXpYeUFOVmIyOVJPZmg4aWV5VHRJMEVGc3lhUDlWRVJibEVTYmc4bzA3WjM0SzNZb0JaMjNNaFFJb01tYUx4aUduTnJrZ2IwNWtTZ2RwcnEyMHFMYTM1eGpaWkdEOWZtYkhOWW82a1BqYnNOQm0wMDFoUTZLRHJzMG44VjFFS0NCczBTUlhFSGVjQXB4NmRDYkxQbFVpMmFhYmF3bHFGc18zUnlTaNIB_gFBVV95cUxPREdIQVkxYWdPUDRpT0JZbWM0RzJzMWJlM1UzcjJKTkZnajQ1M1hsVWQydEs0ckQyelNWYmVwVVRoX1VyZDJESnNjcVlmYkFWZjZVWVYyWmRUOTNoSWZlV1ZWTXcyTk9DUjV0ZGNvQnZnSUZwTG9xT2RIRERkeHFIMXV2UWlvVUs4eEVRV3lweTN5X1piTFUxX2RmX2ZFbzc2MVZ0S2pGUUtDN1E4dmZReGFmUUtkTEhWa2FqLWYxUlNTODFLbEQzd1VCUmVmNzl5U09jUERzU2ZGUW9fTWVPd2hkY1ZYNmQ3dHB1a0JqZWdwWkNta25ZTHZfamtiQQ?oc=5
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-27 08:33:57 UTC_
+_Last updated: 2026-06-27 13:25:34 UTC_
