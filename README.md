@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Forest pond ‘poisoned’ in mass hunting attempt, 3 men arrested in Madhya Pradesh
+- Madhya Pradesh forest official suspended for feeding ‘poha’  to sambar deer
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-forest-pond-poisoned-chital-sambar-poaching-arrests-katni-10759370/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-forest-official-suspended-for-feeding-poha-to-sambar-deer-10759580/
 
-- No potato, onion & steep petrol: A Manipur district feels pinch of conflict
+- On Muharram, Mirwaiz Umar Farooq’s appeal to Narendra Modi: ‘Revive spirit of engagement’
   
-  🔗 https://indianexpress.com/article/india/manipur-blockades-kangpokpi-food-fuel-shortage-10759265/
+  🔗 https://indianexpress.com/article/india/on-muharram-mirwaiz-umar-farooqs-appeal-to-narendra-modi-revive-spirit-of-engagement-10759582/
 
-- Goa may get a Kochi-style water metro. Here’s the plan
+- ‘You will tell us what faith is’: Yogi Adityanath says SP, Congress testing Ram bhakts’ patience after Opposition doubles down on SC-monitored probe
   
-  🔗 https://indianexpress.com/article/india/goa-water-metro-project-plan-kochi-model-routes-sarbananda-sonowal-10759164/
+  🔗 https://indianexpress.com/article/india/you-will-tell-us-what-faith-is-yogi-adityanath-says-sp-congress-testing-ram-bhakts-patience-after-opposition-doubles-down-on-sc-monitored-probe-10759586/
 
-- Isaac Newton the pilot: Odisha suspends key officials for school text book errors
+- Japan PM Takaichi in Delhi from July 1-3 for annual summit: MEA
   
-  🔗 https://indianexpress.com/article/india/textbook-error-odisha-suspends-ex-scert-director-10758971/
+  🔗 https://indianexpress.com/article/india/japan-pm-takaichi-in-delhi-from-july-1-3-for-annual-summit-mea-10759588/
 
-- As Myanmar becomes leading source of illicit opium, why India has a cause for concern at hand
+- Congress appoints Scheduled Caste department chief as UP AICC in-charge
   
-  🔗 https://indianexpress.com/article/india/ncb-annual-report-2025-myanmar-drug-corridor-synthetic-opioids-telegram-10758917/
+  🔗 https://indianexpress.com/article/india/congress-appoints-scheduled-caste-department-chief-as-up-aicc-in-charge-10759590/
+
+- Anthropic resumes limited Mythos 5 rollout after US eases restrictions
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-resumes-limited-mythos-5-rollout-after-us-eases-restrictions-10759685/
+
+- Researcher wins $1,00,000 prize for decoding Zebra Finch calls using AI
+  
+  🔗 https://indianexpress.com/article/technology/science/researcher-wins-100000-prize-for-decoding-zebra-finch-calls-using-ai-10759218/
+
+- Tech is key for climate adaptation, but don’t ignore local knowledge: CSTEP’s Indu Murthy
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/climate-adaptation-technologies-india-indu-murthy-interview-10759067/
 
 - Nasa Artemis Moon missions face risk from ageing launch infrastructure, says report
   
@@ -28,17 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/science/antarctic-sea-squirt-could-help-unlock-a-new-skin-cancer-treatment-scientists-say-10759043/
 
-- Samsung readies $648 billion bet, report says, as AI boom reshapes South Korea
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-readies-648-billion-bet-report-says-as-ai-boom-reshapes-south-korea-10758937/
+- Trump administration clears Anthropic to roll out Claude Mythos 5 to over 100 organisations: Report
+  The US government has permitted Anthropic to release its Claude Myth
+  🔗 https://www.livemint.com/companies/news/trump-administration-clears-anthropic-to-roll-out-claude-mythos-5-to-over-100-organisations-report-11782521730751.html
 
-- ‘Developers are moving from writing code to orchestrating AI agents’: AWS’s Jeff Barr
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/aws-jeff-barr-kiro-developers-coding-ai-agents-ai-apps-10758468/
-
-- Google announces new Finance app, expands portfolio tracking and market intelligence
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-announces-new-finance-app-expands-portfolio-tracking-and-market-intelligence-10758822/
+- Why Equirus is avoiding loss-making startups in its  ₹1,500 crore fund
+  Equirus new fund launch comes as India’s startup funding market becomes more selective. Early
+  🔗 https://www.livemint.com/companies/news/why-equirus-is-avoiding-loss-making-startups-in-its-1-500-crore-fund-11782469777507.html
 
 - Law firms hired by HDFC Bank find no basis for governance doubts raised by former chair Chakraborty
   HDFC bank’s board is likely to take a call on chief executive Jag
@@ -51,14 +59,6 @@
 - Volkswagen plans up to 100,000 job cuts and possible plant closures
   Volkswagen AG plans to cut up to 100,000 jobs and close four German factories.
   🔗 https://www.livemint.com/companies/news/volkswagen-plans-up-to-100-000-job-cuts-and-possible-plant-closures-11782478463254.html
-
-- Who is Shankh Mitra? Indian-origin CEO with  ₹7,000-crore pay package ranked world's second-highest paid executive
-  Indian-origin executive Shankh Mitra has become the world's second-highest paid CEO among S&amp;amp;P 500 companies. Mitra ranked behind Elon Musk, while
-  🔗 https://www.livemint.com/companies/people/who-is-shankh-mitra-indian-origin-ceo-with-rs-7-000-crore-pay-package-ranked-worlds-second-highest-paid-executive-11782474486421.html
-
-- JioMart's Digi Utsav sale kicks off June 28 with discounts on 5G phones, electronics - details here
-  Offers are valid until June 30, 2026. Customers can enjoy deals on products like mix
-  🔗 https://www.livemint.com/companies/news/jiomarts-digi-utsav-sale-kicks-off-june-28-with-discounts-on-5g-phones-electronics-details-here-11782465121166.html
 
 - Gold, silver rates today: Comex gold extends rebound above $4,100; silver gains for second day as dollar weakens
   Gold and silver prices increased for the second day, aided by a weaker US dollar. Gold rose to $4,111, despite continuing a decline, while silver reached $59.53
@@ -100,25 +100,29 @@
   Two powerful earthquakes struck Venezuela within minutes of each other. Several Android users reported receiving Google earthquake alerts before the tremors reached them.
   🔗 https://www.livemint.com/technology/tech-news/google-alerted-users-seconds-before-venezuelas-earthquake-heres-how-android-phones-detect-tremors-11782384678408.html
 
-- S&P 500 heads for losing week, chip stocks add to their losses on Friday: Live updates - CNBC
-  S&amp;P 500 heads for losing week, chip stocks add
+- Nasdaq Composite posts fifth losing session Friday as chip stocks tumble: Live updates - CNBC
+  Nasdaq Composite posts fifth losing session Friday as chip
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
 
-- Stock Market Today: Nasdaq Edges Higher; SpaceX in Focus — Live Updates - WSJ
-  Stock Market Today: Nasdaq Edges Higher;
+- Stock Market News, June 26, 2026: Nasdaq Edges Lower to Close Tough Week - WSJ
+  The WSJ looks at the future of the Nasdaq
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1FXVTFneFp1clJtNnM1RTFSd3NyeDBabDdGLXRtRDE5TXhvRXhyYTBGVjhoS1ZSSDdZbGdsRW5MY09qb2ZvSHRYTnZzYlZtV3NXc0tFcHdiMFR3blNNY1dHbV9yR0c3OHdMR3ZOR0VZNWRkNWJaNVlrb0FWSVB1UVJWbTRKdk0?oc=5
 
 - Asia stock markets slide as tech shares slump - BBC
   Asia stock markets slide as tech
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
 
-- Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq waver as report
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUxfV0MyWktiYm15QjNLNXliUkV5WmhYcWxTUUFTN1Bxci1QSjlBWGRmTHluVjFkeUUtMDQ3U196N0VnZ1ZTM0E2NFYtU3lISDFSNHNVSmdPWG1IZ2x0YTBNcXQxejNQQk1OTFhSeTlCWjVxSkczYkN5QnpBbHUzR0ZLZUZwb3dyQ05HbmwybU5RT0c0VW5VT2gyNzVrT3FhdjRBTU5LTnBhZHBhLVZsRzN2QTZKNFM0VVZJLWNITFVwZWk2eTBlWHpiU3VoazZlMmt3MTF3YkNpUUdZTG1v?oc=5
+- Tech Volatility Pulls Global Stocks Lower Again: Markets Wrap - Bloomberg.com
+  Tech Volatility Pulls Global St
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmhBZXBiblBOay1PYmE5SERtZC1ac3IwVnYwakxPVk53SFd6U0t0c2ZaWTgtZndlc1ZTUWMxTkFVaURzZFVHOFpoQUZWMngzaXl1TFdvYUJOb3J4WEVpTHp5TzJrTWR5Z1pMUnBPQ0R3bjRQM0hwM09uc3AzTzlWSG10MF9PTzFFYk1RVjJEZFpvTFZDaE9XOS1STnNtOGNpR3I2OWRrYm5BRG0wc3BJVDZoRkk?oc=5
 
-- Stock Market Today: Stocks Slip as Tech Sell-Off Continues; S&P 500, Nasdaq on Track For Weekly Losses - Investopedia
-  S&amp;P 500, Nasdaq on Track For Weekly Losses
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5
+- Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techs - Yahoo Finance
+  Yahoo Finance reports that OpenAI IPO delay rattles techs. Dow
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxOXzdydllMRl9ySjRxX3IwWHVVdkcyRngyTXFoMVFibXVzTnNjOFJqODJJbHByaFRfR0EtMzlkOFp2c0poZk9zbDA3YWNTRDRSS3h3R2tfN2lzUlNFakIyTWplWlVsQzR1M0FVRm84bVdzT3JncmxBTTMtUWJTZHIycENRNGl2bHJWVUMtcmZtQTJ1MktaZXRZTFA3MjNObjR3bmFsWnN5RFl5VDliaXNEc3BZRERsWFk4MXh4UWN4NU1PSTdmb2xmX0s2SHhvaU03TGFjWlhxQQ?oc=5
+
+- US stocks: US market ends lower as tech stocks weigh on sentiment
+  Wall Street ended lower on Friday, with AI chip stocks experiencing a significant downturn. Inflationary pressures, fueled by energy prices and chip costs, remain a concern.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-chips-tumble-and-moderna-rallies/articleshow/132024472.cms
 
 - IMF chief economist says Fed reduction in rate guidance is 'entirely appropriate'
   The IMF's chief economist Pierre-Olivier Gourinchas has endorsed Federal Reserve Chair Kevin Warsh's move to reduce explicit forward guidance on monetary policy. He said overly rigid guidance proved costly when inflation surged, as it tied
@@ -136,89 +140,85 @@
   The Dow Jones, S&amp;P 500, and Nasdaq Composite all opened lower. Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms
 
-- Quote of the day by David Swensen: "If you’re investing with a long time horizon, having an equity bias makes sense; stocks go up in the long run"
-  David Swensen emphasised the importance of maintaining an equity bias for long-term investors. Despite short-term volatility, equities reward patience and discipline.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms
+- Names Of 6 Soldiers Killed In Action During Operation Sindoor Released For 1st Time - NDTV
+  Names Of 6 Soldiers Killed In Action During Operation Sindoor Released
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkN4N0F3T0Z4a01rRWdPckhvSEdFYXlNU2JTNUg5amYyLUVfcmpGaG9DT2hzSHlVNFdVMGl2akFJSjJNNzlvMGh1T3BGWkhhR2lLX1hLNkNxd056eFc1Sjk4aEZ1RXY3NTBlV1NVajVMYTB3YzluQmd4dWVJTTliWENzaXdkUUN0YjFvb0hUdUstcTkxaUdyTmRMMDg3SVFmRHZ1TlBGZVBGMHdvVXBDY244RWRNMUhrRjlCak5XaGJ0Z9IBygFBVV95cUxQNXhUNGxuclYwNDdCZDljaVA2am1saFlRSFpQUVFvTFJKa2kzUFdRYkF6enFmZjV1SnoxUDhYZGdDVjdiQVI1T2tFTWVUdWNqNHgyampGYWlaUTJVMjB6VDQ2T0VOc1pSQWpwNF8xZi1JQ05OT21UQnVqWVVjWk9XQmY3YU9rZGN1b1cxcHd2d1draWFmZ09meXhBLTlkbUFHbHZhTHZETjVIRkxmWjRjMHhfRmZneUhxWWxBZmE0OG52SUliZ1lNMU9R?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- India launches Operation Amistad to support earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to support
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWk1d010U1Y4N08xTFdWZEZNVEtCSmR0QTZ1RnpyamhnT2dDTkZMVndWdU5pak53VG5JTHJfR2V1ZnNrTHZzV0h2bEI0SEpEYlRETE9GZzdyWHA4UkhOOUd1MnVoelhLWkdqNnRnd21ucE1hRkN4c3FJcDJYVUdkUlBEZS1POWpqaHZkaHhJVnNGTmFOM3VpNmlR?oc=5
 
-- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
-  India's growth story not recognised by global rating agencies:
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
-
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
+- The Hindu Morning Digest: June 27, 2026 - The Hindu
+  The Hindu Morning Digest: June
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2JJWlQwbkRSb0s2SDJqa3pyM1VPMlFhOHBSZHl5RFJKU29MVkFIcVNHZ0dReHBTczdPMjV2N2pXa1JfQkxlRmpnOVhiTDc3SGhaSFcyRFdFaXJYanBwOEZrbTVhNzA5cnQ3TUxaNGNTVU1GVTBSZXdheE1VTWdaWkl4UdIBigFBVV95cUxPaFhrblJCVy1PZEtURzdzWkdDRFBUMHJHT2czcE15akdnOC1BY2JibEx6a19xS0Q1U3NBOEpMbjN4YU9pZ0Vvb0FsRUNZb1lINXctNG51Y1Rhem81Z0VKeFM3d0M1M2hJSHFtZjd4S2pIeTZiOTE4eEZobkxmOTdJWVNGaUw0V05RT3c?oc=5
 
 - Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
   Earthquakes Hit Venezuela, But Tremors Could Be
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- India news: Government sends help to quake-hit Venezuela - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
+- Commerce Minister Piyush Goyal says India-UK ties moving towards defining milestone with CETA - News On AIR
+  Commerce Minister Piyush Goyal says India-UK ties moving
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE81VGQwd3pvZkExZzhVZVpGbzRlbHBnLXdwZHc2cUg2NkhnQTVKUXhDSG53MFd0dkZDNHgxZklzRWpEUlpycnY2MFJmR3g1QzAwX1dmaXktMm1qRS1UNVBxZjg4VkhsTlRTZk5jTXBLSkFjY2xMVVYzbWtQR29OTE14ZzlZdTFRQldCUm9EMVdvRjlxQW9zakVzT0RmeGhhQVIyWWNVd19lVTVRN1lBdUJBVXJSUE9yRi1B?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- Names Of 6 Soldiers Killed In Action During Operation Sindoor Released For 1st Time - NDTV
+  Names Of 6 Soldiers Killed In Action During Operation Sindoor Released
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkN4N0F3T0Z4a01rRWdPckhvSEdFYXlNU2JTNUg5amYyLUVfcmpGaG9DT2hzSHlVNFdVMGl2akFJSjJNNzlvMGh1T3BGWkhhR2lLX1hLNkNxd056eFc1Sjk4aEZ1RXY3NTBlV1NVajVMYTB3YzluQmd4dWVJTTliWENzaXdkUUN0YjFvb0hUdUstcTkxaUdyTmRMMDg3SVFmRHZ1TlBGZVBGMHdvVXBDY244RWRNMUhrRjlCak5XaGJ0Z9IBygFBVV95cUxQNXhUNGxuclYwNDdCZDljaVA2am1saFlRSFpQUVFvTFJKa2kzUFdRYkF6enFmZjV1SnoxUDhYZGdDVjdiQVI1T2tFTWVUdWNqNHgyampGYWlaUTJVMjB6VDQ2T0VOc1pSQWpwNF8xZi1JQ05OT21UQnVqWVVjWk9XQmY3YU9rZGN1b1cxcHd2d1draWFmZ09meXhBLTlkbUFHbHZhTHZETjVIRkxmWjRjMHhfRmZneUhxWWxBZmE0OG52SUliZ1lNMU9R?oc=5
 
-- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
-  India's growth story not recognised by global rating agencies:
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
+- India launches Operation Amistad to support earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to support
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWk1d010U1Y4N08xTFdWZEZNVEtCSmR0QTZ1RnpyamhnT2dDTkZMVndWdU5pak53VG5JTHJfR2V1ZnNrTHZzV0h2bEI0SEpEYlRETE9GZzdyWHA4UkhOOUd1MnVoelhLWkdqNnRnd21ucE1hRkN4c3FJcDJYVUdkUlBEZS1POWpqaHZkaHhJVnNGTmFOM3VpNmlR?oc=5
 
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
-
-- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
-  Earthquakes Hit Venezuela, But Tremors Could Be
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
-
-- India news: Government sends help to quake-hit Venezuela - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
-
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
-
-- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
-  India's growth story not recognised by global rating agencies:
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
-
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
+- The Hindu Morning Digest: June 27, 2026 - The Hindu
+  The Hindu Morning Digest: June
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2JJWlQwbkRSb0s2SDJqa3pyM1VPMlFhOHBSZHl5RFJKU29MVkFIcVNHZ0dReHBTczdPMjV2N2pXa1JfQkxlRmpnOVhiTDc3SGhaSFcyRFdFaXJYanBwOEZrbTVhNzA5cnQ3TUxaNGNTVU1GVTBSZXdheE1VTWdaWkl4UdIBigFBVV95cUxPaFhrblJCVy1PZEtURzdzWkdDRFBUMHJHT2czcE15akdnOC1BY2JibEx6a19xS0Q1U3NBOEpMbjN4YU9pZ0Vvb0FsRUNZb1lINXctNG51Y1Rhem81Z0VKeFM3d0M1M2hJSHFtZjd4S2pIeTZiOTE4eEZobkxmOTdJWVNGaUw0V05RT3c?oc=5
 
 - Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
   Earthquakes Hit Venezuela, But Tremors Could Be
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- India news: Government sends help to quake-hit Venezuela - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
+- Commerce Minister Piyush Goyal says India-UK ties moving towards defining milestone with CETA - News On AIR
+  Commerce Minister Piyush Goyal says India-UK ties moving
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE81VGQwd3pvZkExZzhVZVpGbzRlbHBnLXdwZHc2cUg2NkhnQTVKUXhDSG53MFd0dkZDNHgxZklzRWpEUlpycnY2MFJmR3g1QzAwX1dmaXktMm1qRS1UNVBxZjg4VkhsTlRTZk5jTXBLSkFjY2xMVVYzbWtQR29OTE14ZzlZdTFRQldCUm9EMVdvRjlxQW9zakVzT0RmeGhhQVIyWWNVd19lVTVRN1lBdUJBVXJSUE9yRi1B?oc=5
 
-- Couple Returns After 15 Years In US To Build Startups In Bengaluru - NDTV
-  Couple Returns After 15 Years In US To Build
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNY182OFhwTEctRGJfSmpacjV4dnZNd25tVnZOak1WTFc0Yzc4eENmQ3RGV2dscW5kLXZSaTZVYjlvN1gzTVoycjlTTXFUaXZjdG1lSm1tMzZDbTJpaXdEMEZzWmhOWVU0cGxYQ1pYU2VQVWd1U1AxVms5MEl1bzd6RWV0Q09aTktmNWxLNHZJY2xna2k2NEVjOVlvMExiMkNxTUNFc3QtQjBKWnNXSjBmUTNiSF_SAbwBQVVfeXFMTnlILTh6c1REUGF0RUVrZUhudk83UkJSME54akZGd0NsNTgwelBYTXNMOVdQY0hLRTZ3WUp5cnRScDNBa05tNjBvd3Q3TFRpczN5ZjJIcW1RVjBjNDZsaXREVjVnTlJ4RWZMWXJDUjVMZmRzN0RndVgteUdKbkwxTXVBbmlsUHJCcU1kemJDeFlsTFg0MDRUc0Q4YmN2b1hfRzE4d0ZJWlFwWl9yZFEzT1U2ZVVTQjhtc0htdlg?oc=5
+- Names Of 6 Soldiers Killed In Action During Operation Sindoor Released For 1st Time - NDTV
+  Names Of 6 Soldiers Killed In Action During Operation Sindoor Released
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkN4N0F3T0Z4a01rRWdPckhvSEdFYXlNU2JTNUg5amYyLUVfcmpGaG9DT2hzSHlVNFdVMGl2akFJSjJNNzlvMGh1T3BGWkhhR2lLX1hLNkNxd056eFc1Sjk4aEZ1RXY3NTBlV1NVajVMYTB3YzluQmd4dWVJTTliWENzaXdkUUN0YjFvb0hUdUstcTkxaUdyTmRMMDg3SVFmRHZ1TlBGZVBGMHdvVXBDY244RWRNMUhrRjlCak5XaGJ0Z9IBygFBVV95cUxQNXhUNGxuclYwNDdCZDljaVA2am1saFlRSFpQUVFvTFJKa2kzUFdRYkF6enFmZjV1SnoxUDhYZGdDVjdiQVI1T2tFTWVUdWNqNHgyampGYWlaUTJVMjB6VDQ2T0VOc1pSQWpwNF8xZi1JQ05OT21UQnVqWVVjWk9XQmY3YU9rZGN1b1cxcHd2d1draWFmZ09meXhBLTlkbUFHbHZhTHZETjVIRkxmWjRjMHhfRmZneUhxWWxBZmE0OG52SUliZ1lNMU9R?oc=5
 
-- India's growth story not recognised by global rating agencies: Piyush Goyal - The Economic Times
-  India's growth story not recognised by global rating agencies:
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0h2LXRCQU1uWDJpV1J6UlRmT2p2eXZKSjhRV2dPRnVHZDYtc2F0VmxScll5Zk1LMmhwSVktb2dpcWJBa3B5YXJzTWFLc1E3ckJVQk5zVjkwcnhNQzFSOFZfVTYwSFd0Uk5sdlp1RnhGYWxOdmV0MUM0TEtpNnlfSWdrcDdFdV9icGtFMnVIX1R1TDVPSTVSekhNZXN1MHM3RkpUaGlSZkc1Q3A2M3ZRWE9RREdUdGFNRGdoTjA0M3pTU3YwYTRQeHRKVGE3NmNhajZSOFlUQzRRcHN3TFlHbkU4SHBCYzhuU0RtRzJZb1NzcThYR0HSAdoBQVVfeXFMUEdKbm5XZmstREc4bTRnR1EwZld3cEVEajhaV3pEVXBZNmxOUC1QVVdKdHk3WDQwVUV3dHh5LTZkS1lLbHlNanlILTNWVFBCSmdYVmxfdDhHRG41WE1MOUNZand4MWt4RzU1ZEgzV3R5ZGVxdFFmTXcyTUJ4ZFF3bEphZjEwcEQ2QW9qVG9KVEwzQXNUMHJreEQ5UXZIZ0FvbGlYajByM2RVcHFVd2c0NE9ReGc5cDRvbXRxYUFITEZiNDFqLU9sd2dhQVNQZVVObGhyc0hKVUp2eUE?oc=5
+- India launches Operation Amistad to support earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to support
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWk1d010U1Y4N08xTFdWZEZNVEtCSmR0QTZ1RnpyamhnT2dDTkZMVndWdU5pak53VG5JTHJfR2V1ZnNrTHZzV0h2bEI0SEpEYlRETE9GZzdyWHA4UkhOOUd1MnVoelhLWkdqNnRnd21ucE1hRkN4c3FJcDJYVUdkUlBEZS1POWpqaHZkaHhJVnNGTmFOM3VpNmlR?oc=5
 
-- Row over alleged theft of donations from India's landmark Ram temple - BBC
-  Row over alleged theft of donations from India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcnBmbkJfT2ptRldaUDd4SThNRGZTcFA0bDlINzBqUDhna0VadEF4OWpWUUVNaUdXS2o3dzAyMTZjeDgyWndRRzhpUjNBSV9Td2p1Z3BWazJvdw?oc=5
+- The Hindu Morning Digest: June 27, 2026 - The Hindu
+  The Hindu Morning Digest: June
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2JJWlQwbkRSb0s2SDJqa3pyM1VPMlFhOHBSZHl5RFJKU29MVkFIcVNHZ0dReHBTczdPMjV2N2pXa1JfQkxlRmpnOVhiTDc3SGhaSFcyRFdFaXJYanBwOEZrbTVhNzA5cnQ3TUxaNGNTVU1GVTBSZXdheE1VTWdaWkl4UdIBigFBVV95cUxPaFhrblJCVy1PZEtURzdzWkdDRFBUMHJHT2czcE15akdnOC1BY2JibEx6a19xS0Q1U3NBOEpMbjN4YU9pZ0Vvb0FsRUNZb1lINXctNG51Y1Rhem81Z0VKeFM3d0M1M2hJSHFtZjd4S2pIeTZiOTE4eEZobkxmOTdJWVNGaUw0V05RT3c?oc=5
 
 - Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
   Earthquakes Hit Venezuela, But Tremors Could Be
   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
 
-- India news: Government sends help to quake-hit Venezuela - dw.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lBM01zREg5eDRIMDNXd2R3WVFRVHBObFg3S0hQSTNDRmNmbzk5Zm0tZTU2aThJazNOMHBEQzVYUGFxWUQ1cUZYUGJ3YXV2d19WbkJmUXJoNUw2WTdIT3dERGpBSm4yWjFIckJHbWxJT0FGcFdOVVRXWi1ENmZULVpVX3NUY0tuY2NYM3MtaDhmNE1YTXc?oc=5
+- Commerce Minister Piyush Goyal says India-UK ties moving towards defining milestone with CETA - News On AIR
+  Commerce Minister Piyush Goyal says India-UK ties moving
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE81VGQwd3pvZkExZzhVZVpGbzRlbHBnLXdwZHc2cUg2NkhnQTVKUXhDSG53MFd0dkZDNHgxZklzRWpEUlpycnY2MFJmR3g1QzAwX1dmaXktMm1qRS1UNVBxZjg4VkhsTlRTZk5jTXBLSkFjY2xMVVYzbWtQR29OTE14ZzlZdTFRQldCUm9EMVdvRjlxQW9zakVzT0RmeGhhQVIyWWNVd19lVTVRN1lBdUJBVXJSUE9yRi1B?oc=5
+
+- Names Of 6 Soldiers Killed In Action During Operation Sindoor Released For 1st Time - NDTV
+  Names Of 6 Soldiers Killed In Action During Operation Sindoor Released
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkN4N0F3T0Z4a01rRWdPckhvSEdFYXlNU2JTNUg5amYyLUVfcmpGaG9DT2hzSHlVNFdVMGl2akFJSjJNNzlvMGh1T3BGWkhhR2lLX1hLNkNxd056eFc1Sjk4aEZ1RXY3NTBlV1NVajVMYTB3YzluQmd4dWVJTTliWENzaXdkUUN0YjFvb0hUdUstcTkxaUdyTmRMMDg3SVFmRHZ1TlBGZVBGMHdvVXBDY244RWRNMUhrRjlCak5XaGJ0Z9IBygFBVV95cUxQNXhUNGxuclYwNDdCZDljaVA2am1saFlRSFpQUVFvTFJKa2kzUFdRYkF6enFmZjV1SnoxUDhYZGdDVjdiQVI1T2tFTWVUdWNqNHgyampGYWlaUTJVMjB6VDQ2T0VOc1pSQWpwNF8xZi1JQ05OT21UQnVqWVVjWk9XQmY3YU9rZGN1b1cxcHd2d1draWFmZ09meXhBLTlkbUFHbHZhTHZETjVIRkxmWjRjMHhfRmZneUhxWWxBZmE0OG52SUliZ1lNMU9R?oc=5
+
+- India launches Operation Amistad to support earthquake-hit Venezuela - News On AIR
+  India launches Operation Amistad to support
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWk1d010U1Y4N08xTFdWZEZNVEtCSmR0QTZ1RnpyamhnT2dDTkZMVndWdU5pak53VG5JTHJfR2V1ZnNrTHZzV0h2bEI0SEpEYlRETE9GZzdyWHA4UkhOOUd1MnVoelhLWkdqNnRnd21ucE1hRkN4c3FJcDJYVUdkUlBEZS1POWpqaHZkaHhJVnNGTmFOM3VpNmlR?oc=5
+
+- The Hindu Morning Digest: June 27, 2026 - The Hindu
+  The Hindu Morning Digest: June
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2JJWlQwbkRSb0s2SDJqa3pyM1VPMlFhOHBSZHl5RFJKU29MVkFIcVNHZ0dReHBTczdPMjV2N2pXa1JfQkxlRmpnOVhiTDc3SGhaSFcyRFdFaXJYanBwOEZrbTVhNzA5cnQ3TUxaNGNTVU1GVTBSZXdheE1VTWdaWkl4UdIBigFBVV95cUxPaFhrblJCVy1PZEtURzdzWkdDRFBUMHJHT2czcE15akdnOC1BY2JibEx6a19xS0Q1U3NBOEpMbjN4YU9pZ0Vvb0FsRUNZb1lINXctNG51Y1Rhem81Z0VKeFM3d0M1M2hJSHFtZjd4S2pIeTZiOTE4eEZobkxmOTdJWVNGaUw0V05RT3c?oc=5
+
+- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
+  Earthquakes Hit Venezuela, But Tremors Could Be
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
+
+- Commerce Minister Piyush Goyal says India-UK ties moving towards defining milestone with CETA - News On AIR
+  Commerce Minister Piyush Goyal says India-UK ties moving
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE81VGQwd3pvZkExZzhVZVpGbzRlbHBnLXdwZHc2cUg2NkhnQTVKUXhDSG53MFd0dkZDNHgxZklzRWpEUlpycnY2MFJmR3g1QzAwX1dmaXktMm1qRS1UNVBxZjg4VkhsTlRTZk5jTXBLSkFjY2xMVVYzbWtQR29OTE14ZzlZdTFRQldCUm9EMVdvRjlxQW9zakVzT0RmeGhhQVIyWWNVd19lVTVRN1lBdUJBVXJSUE9yRi1B?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-26 19:45:05 UTC_
+_Last updated: 2026-06-27 02:44:31 UTC_
