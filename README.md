@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Red Fort blast: Absconding key suspect among 3 named in NIA supplementary chargesheet
+- Delhi-Varanasi bullet train to cut Jewar-Lucknow travel time to just 1 hour 40 minutes: Ashwini Vaishnaw
   
-  🔗 https://indianexpress.com/article/india/red-fort-blast-case-nia-files-charges-against-3-more-accused-10760419/
+  🔗 https://indianexpress.com/article/india/delhi-varanasi-bullet-train-jewar-lucknow-travel-time-1-hour-40-minutes-ashwini-vaishnaw-10760690/
 
-- Marathon through meadows: Baramulla’s rural run draws 1,000 participants
+- Assam Police say ‘mass casualty terror attack’ foiled; 2 ULFA-I cadres arrested
   
-  🔗 https://indianexpress.com/article/india/zoonrun-baramulla-first-rural-marathon-jammu-kashmir-fitness-10760321/
+  🔗 https://indianexpress.com/article/india/assam-police-ulfa-i-arrest-tinsukia-terror-attack-foiled-10760643/
 
-- 15-minute current booking rule boosts Vande Bharat train ridership across Southern Railway
+- Ram Temple theft | As probe widens, Trust confirms: Gen secy Champat Rai, trustee Anil Mishra have quit
   
-  🔗 https://indianexpress.com/article/india/15-minute-current-booking-rule-boosts-vande-bharat-train-ridership-across-southern-railway-10760277/
+  🔗 https://indianexpress.com/article/india/ayodhya-ram-temple-donation-theft-champat-rai-anil-mishra-resign-10760615/
 
-- India’s first hydrogen train undergoes Delhi-Jind trial run ahead of launch
+- PM arrives in Seychelles, to mark 50 yrs of ties, chart future
   
-  🔗 https://indianexpress.com/article/india/india-first-hydrogen-train-delhi-jind-sonipat-trial-run-ahead-of-launch-10759232/
+  🔗 https://indianexpress.com/article/india/pm-modi-seychelles-visit-national-day-patrick-herminie-bilateral-talks-10760591/
 
-- New railway line through MP tiger corridor gets in-principle forest nod
+- Manickam Tagore appointed new Tamil Nadu Congress chief
   
-  🔗 https://indianexpress.com/article/india/satpura-melghat-tiger-corridor-railway-line-forest-clearance-10760091/
+  🔗 https://indianexpress.com/article/india/manickam-tagore-appointed-new-tamil-nadu-congress-chief-10760595/
+
+- What is Slate Auto, and how is its $25,000 electric truck different from other EVs?
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-slate-auto-and-how-is-its-25000-electric-truck-different-from-other-evs-10760723/
 
 - Can Nasa save its ageing Swift observatory? Inside the $30-million rescue plan
   
@@ -35,10 +39,6 @@
 - Vi offers 3-month Spotify Premium free on select postpaid plans
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/vi-offers-3-month-spotify-premium-free-on-select-postpaid-plans-10760021/
-
-- June Strawberry Moon 2026: What is it, when to watch it in India
-  
-  🔗 https://indianexpress.com/article/technology/science/june-strawberry-moon-2026-watch-india-10759978/
 
 - Who is Prabhjeet Singh? IIT-IIM alumnus and Uber veteran named OpenAI's India MD
   Prabhjeet Singh has been appointed Managing Director for India. His experience
@@ -80,6 +80,10 @@
   Bank Nifty's trading range is set between 57,000 and 59,000. Breakouts suggest future trends. Analyst Mehul Kothari advises buying Trident, UCO Bank, and
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-below-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11782531566876.html
 
+- Soaring iPad, Xbox prices reveal pain of memory chip mess
+  Apple and Microsoft increased prices for Xbox consoles, Macs, and iPads due to
+  🔗 https://www.livemint.com/technology/tech-news/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess-11782572012586.html
+
 - Moto Pad 70 Pro launched in India with 13-inch 3.5K display, AI features and 10,200mAh battery
   The Moto Pad 70 Pro features a 13-inch 3.5K display, Snapdragon 8s Gen 4 processor, and
   🔗 https://www.livemint.com/technology/gadgets/moto-pad-70-pro-launched-in-india-with-13-inch-3-5k-display-ai-features-and-10-200mah-battery-11782543307469.html
@@ -96,29 +100,29 @@
   In 2025, Indian robotics startups raised less than 1% of the capital secured by US robotics startups and about 2% of that raised in China.
   🔗 https://www.livemint.com/technology/india-robotics-funding-startups-technology-government-initiatives-inflection-point-cheque-sizes-rd-11782447544869.html
 
-- iPhone Ultra launch back on track after Apple fixes critical foldable issue: Report
-  Apple's foldable iPhone is set for a September launch after resolving
-  🔗 https://www.livemint.com/technology/gadgets/iphone-ultra-launch-back-on-track-after-apple-fixes-critical-foldable-issue-report-11782451429741.html
-
 - Nasdaq Composite posts fifth losing session Friday as chip stocks tumble: Live updates - CNBC
   Nasdaq Composite posts fifth losing session Friday as chip
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5
 
-- Markets News, June 26, 2026: S&P 500, Nasdaq Post Weekly Losses as Tech Sell-Off Continues - Investopedia
-  The S&amp;P 500, Nasdaq Post Weekly Loss
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5
+- Stock Market News, June 26, 2026: Nasdaq Edges Lower to Close Tough Week - WSJ
+  The WSJ looks at the future of the Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1FXVTFneFp1clJtNnM1RTFSd3NyeDBabDdGLXRtRDE5TXhvRXhyYTBGVjhoS1ZSSDdZbGdsRW5MY09qb2ZvSHRYTnZzYlZtV3NXc0tFcHdiMFR3blNNY1dHbV9yR0c3OHdMR3ZOR0VZNWRkNWJaNVlrb0FWSVB1UVJWbTRKdk0?oc=5
 
-- China's consumer market: Strong resilience and promising upgrading - news.cgtn.com
-  China's consumer market: Strong
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxPTVFFc1pkaEZGQWx4VXg4MFMyeC1qM1BMdktjV29Fb1l3cDJXR0xtMzJyemVFQmoxRTM4NVZEdVFzbGkyZ1JTMVJHWkdXQnh1Y3ZFU2tjMFM3SlVuVW9JclljeC12Sy03TnBpclh1TGJISW42S0tZdUhfbHRkRkRNTzczdG1ZS2lfbk1iamg2YjhvaFRoeWNpb1pPUmg5VEhsVUpFdThHSVI0X0c0M0F3M0ZFUVk1X2dFYUhxN3BRaw?oc=5
+- The AI bubble has further to run despite the looming crash - The Guardian
+  The AI bubble has further to run despite the looming
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjRCWlNfV3FObDNlajFQQi1LeHlUM0tuaGExcUVQWnk2dFpTdGFCZENpeEFyVTdZbnE2dGp3eUh3dEU1UzdPeDVZU0Y0RGZkQ20zbmdMbGVSOVhCQ05vanJ5Y2haWi1YUkIwemFlTkNmRkFnTERPenowUmtyTXFpLUM3eUNjVUp6X3c2U0RPTV92QVk?oc=5
 
-- These stocks are the most oversold after a turbulent week for the market - CNBC
-  These stocks are the most oversold after a turbulent week
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzc4bXVXblpxMW5LVVNqUUhmNlV3OHF6X0EwZFdTak10eDlhMkEzd3dUVkFDMnRCbWhBWE10aUo0Q3l2bll6RWhTWEl0a2tMRDlrMUtZRWdFa2hrbFZ2MmNBU3JsR2E4Z25EVkN1aVBENlh5ZmJGUEZ6Zkp2dkVLMERBTXZNdTdTdGhHRDF2NmZxbWZ5WTUtbWxqNENJaE9hLVFUajVsSDZCclpnaEE?oc=5
+- Collector conducts surprise inspection at Hukumpeta weekly market - The Hindu
+  The Hindu has published a story on
+  🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcVBzaGRfM2hTYTNGZXhGSDQ3UThta3c3OWd6V251aGdPcjM0MXdSN2JUSHhJZXNuUHpDUFVuM1BGX3pBVkNSeHVHdDFnVkRIVUJRSHJCalZNR1BWM2ZCRU9BeDR5TGFjcWdRSnlrLWVOU1hJaXVsSmttU0dPa2dQbGJ4cnJEUWdaYi1IVGRmZFRXc050S3dDTkY3SEFWdm9tOGJXQnZvU3VWMG1vLWZaMjFPNE11b3dnTG9CRDRVZTBlYXhuUkRHc0p0M3J1SjNKaFHSAdgBQVVfeXFMUDZ5TWk3MGRFN1JCb29QTks4OGtHalNFTkE2RXNCRWJXaTNCXzhsNzVRTzF2SGJEcEJzVjFHWVdyRTF3bHBwamNPd2h0SnJJVEpnX05TOFBFMFlIZHZVcUtQQXJ6QmsyQ3NYazI4aHR4OFo3VnpnZzBlQ05CQWRtWlR1QmRSNnYxVlNubFRxbmR2eGNLd0VzQjBpUXBEU2pmeVh4V0w4WTA3OTdHLVdRNWtTb2FwSmdPVDZHSkd2NXJqM2VXY0xBaGhnNDZWdXZ4d0d4NUdGOEt0?oc=5
 
-- Asia stock markets slide as tech shares slump - BBC
-  Asia stock markets slide as tech
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yY292VGtTTzBmU0cwQm9acEdZam84VFFWUGhxb1IxZnlCbldtcjV2Sm4tRDl1bFRQRFUwaHJ0RjFQY0czOGpwRUZsMFU0ODNpWVJENWNmVjVuUQ?oc=5
+- Why investors may want to prioritize bond markets outside the U.S. - CNBC
+  Why investors may want to prioritize bond markets outside
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0pWdkdxOWJ6MGNSdVdYV1U2REF2RnY2cjFtRGR6cjl4bWJOT0wxOEZtOENLUnUwMTlxR014QTE4a2o4eFo3T1ZCN21VWGtfV3NPd3VHRkRCUVBpX0x6X3o2c0F1a2R2N3FjZnN0dFZOdS1aWWM2QkxRWU5yLXJ3dE5mTzFhSGlZMHVqZFBxVUZiMEYxVFFJckdtQdIBoAFBVV95cUxQX0F4bVRkRkRmZmNYUzFqWXcyaEVlOGZ2OW9UaXAwWF94N2FwY195NXpqZTRTZXU2QjZtZHczMU1iRG9jaF9ubjRablY0clh1d0M1WW1WTTlzLUtXaFFNRFNhWjkzTGMxUWN1QVh6eDRpM3V1RFFybHg0VGM5ckxhSFlyeWc4MGdqTi00Vzdkc20zRWZnZzNRdlluSTlwNDlV?oc=5
+
+- The FII U-turn nobody noticed: These 6 stocks became multibaggers
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/the-fii-u-turn-nobody-noticed-these-6-stocks-became-multibaggers/videoshow/132035639.cms
 
 - Companies should focus on business growth, profitability rather than just share price: NSE chief
   NSE MD and CEO Ashish Chauhan urged companies to prioritize building sustainable businesses and long-term value. He emphasized that market valuation should reflect genuine business performance and growth.
@@ -136,69 +140,85 @@
   Jefferies strategist Chris Wood believes the AI boom will end not because of a chip glut, but when investors realise hyperscalers cannot generate adequate returns on massive AI investments.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms
 
-- Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition
-  Goldman Sachs’ India equity portfolio fell 6% in CY26 amid mixed stock performance. While 18 stocks declined sharply, eight delivered
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms
+- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
+  Mirwaiz Umar Farooq
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded - NDTV
+  Bangladesh-China Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXJMOHNjYnVuWTMzMm9kQXRqMVEwZ0RWcmRIZ3pUby1TSzVKdDNaZmtrdVNQbHR5UUR3eFU5ZTNTUUdfN3RxZ3NESEh0UkRZVklWX21SdlBxRHhva1ZLdDc0VjludjV5NGlpeWRwVlhOLWVySXZjcm9mU05zZWE0ZlRVbE1wUXR1ajBwbWdOUThZVHhRaEpXR3VIdmIzaTBhZl9ENVlGcHUzc05ST1VobjFVSzRkTVh20gHAAUFVX3lxTFBveUNiVWVNcF91eXZtV25ISjZYUWtCTlNrbXdVM0pGY0ZkTUs4Z2JXWXVyc2Z3Sjdsa2RXY0NkMEN0UHFGNHJxZmZXNjBhVkVYdmlPRTdkdk9fbTBqYXhVTVhWRTN1RWIxSDdyWDF4dUd6QmFEajBVMzZrNUI2ZmFrRXQzUUtjLXhBTS1PMlhMWmItT3dPV3FPcjBKNEZlVmc0TE9Ud3ZwdzQ2T2RTNTJUVElqSy1hYzYwdnVtOGpYMg?oc=5
+
+- Father Lynches Two Children After Fight With Wife In Tripura - NDTV
+  Father Lynches Two Children After Fight With
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmpwWFpXOTZaSEdZZVcyb0Vsa2o1dk9MMUJFRDRaUlBFSS1UQ1RVSEt1cDB2VEhtcUlBTTBkdzNnbzU0MEtvZ3dfdlgyTE9FdlFGRE9pSHQ4R2V0WU80dktZQjdpM05EZkV2M2l3OG51Sk1xSTQ0al9qNXRXeG1VVVllcVZENF9DYTdnRkhEVFQyMGRnaHREdU9KRTdHNTJVLWxB0gGrAUFVX3lxTE1YcWZPYXlPXy1PMFQtQnB5ckg5ZVQxNGtTZUpKOF91b25HXzVyUU5scXEtRmlFaUtOVW5OQmgweExSV2M1dnNraWplUmRDRDU4c3E5bWRVa2lsUjJiV2N0NGZkcWZrNVNpaUl4RFB2Q1Z2eXdYMjF0THB4U3hjZUxscEZwVWJ3RlJ2UVFFaF9RT1J1NHdCdmRZdG9reDRXM01ZZ2xPYk9NTEZIcw?oc=5
+
+- CBI Attaches Rs 53 Crore Assets Of Former Assam Top Cop In Corruption Case - NDTV
+  CBI Attaches Rs 53 Crore Assets Of Former Ass
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTRnOTBjZmhKQUZjMjJnS0hjOEQ5bFFnZHc2YjYxVFFlREtfQWdrYUo1LWEtaUZEdWNJa0pLTzJJREhUZE00dnIza1NHUXZ3UTRsMVMwQUk3a05uQmQ2Tk1ObWhVZHl4R20tYzFDVDRlTjFTVUlsNFlMZjZSUC14QmdwY2VaVGc4UEVRWWg4OVV0UEFXYkZKaVcxVWJKRDBMaU9lalIzYm5DOURSWGZyMFY4VGZuZ9IBvgFBVV95cUxQemxmSVRjLUZYS0RKamJFSm1ReWxQbjBRbUp1cUZjUEtYcWhxdDltVGxwbnJVWVF6YlR4RHBST3Z5RHpwYUFockQtTFFnQ2ZWOXRYMENHYUh1S20ybVc1YkJ2bks5N0tuU09kVThnLUY2M3lpRHpBZlpPWGU1VHhOV3RoSElMU2VyRTBQb0d6clR0U0NJaTcxT0JZcFVrWnBVQUFLLVVPLVFEeWs4dmQwdTZPUXllaS12N3BOWEtR?oc=5
 
 - Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
   Mirwaiz Umar Farooq
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
 
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
 
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
+- Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded - NDTV
+  Bangladesh-China Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXJMOHNjYnVuWTMzMm9kQXRqMVEwZ0RWcmRIZ3pUby1TSzVKdDNaZmtrdVNQbHR5UUR3eFU5ZTNTUUdfN3RxZ3NESEh0UkRZVklWX21SdlBxRHhva1ZLdDc0VjludjV5NGlpeWRwVlhOLWVySXZjcm9mU05zZWE0ZlRVbE1wUXR1ajBwbWdOUThZVHhRaEpXR3VIdmIzaTBhZl9ENVlGcHUzc05ST1VobjFVSzRkTVh20gHAAUFVX3lxTFBveUNiVWVNcF91eXZtV25ISjZYUWtCTlNrbXdVM0pGY0ZkTUs4Z2JXWXVyc2Z3Sjdsa2RXY0NkMEN0UHFGNHJxZmZXNjBhVkVYdmlPRTdkdk9fbTBqYXhVTVhWRTN1RWIxSDdyWDF4dUd6QmFEajBVMzZrNUI2ZmFrRXQzUUtjLXhBTS1PMlhMWmItT3dPV3FPcjBKNEZlVmc0TE9Ud3ZwdzQ2T2RTNTJUVElqSy1hYzYwdnVtOGpYMg?oc=5
 
-- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
-  India launches Operation Amistad to assist
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
+- Father Lynches Two Children After Fight With Wife In Tripura - NDTV
+  Father Lynches Two Children After Fight With
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmpwWFpXOTZaSEdZZVcyb0Vsa2o1dk9MMUJFRDRaUlBFSS1UQ1RVSEt1cDB2VEhtcUlBTTBkdzNnbzU0MEtvZ3dfdlgyTE9FdlFGRE9pSHQ4R2V0WU80dktZQjdpM05EZkV2M2l3OG51Sk1xSTQ0al9qNXRXeG1VVVllcVZENF9DYTdnRkhEVFQyMGRnaHREdU9KRTdHNTJVLWxB0gGrAUFVX3lxTE1YcWZPYXlPXy1PMFQtQnB5ckg5ZVQxNGtTZUpKOF91b25HXzVyUU5scXEtRmlFaUtOVW5OQmgweExSV2M1dnNraWplUmRDRDU4c3E5bWRVa2lsUjJiV2N0NGZkcWZrNVNpaUl4RFB2Q1Z2eXdYMjF0THB4U3hjZUxscEZwVWJ3RlJ2UVFFaF9RT1J1NHdCdmRZdG9reDRXM01ZZ2xPYk9NTEZIcw?oc=5
 
-- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
-  Earthquakes Hit Venezuela, But Tremors Could Be
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
-
-- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
-  Mirwaiz Umar Farooq
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
-
-- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
-  India launches Operation Amistad to assist
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
-
-- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
-  Earthquakes Hit Venezuela, But Tremors Could Be
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
+- CBI Attaches Rs 53 Crore Assets Of Former Assam Top Cop In Corruption Case - NDTV
+  CBI Attaches Rs 53 Crore Assets Of Former Ass
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTRnOTBjZmhKQUZjMjJnS0hjOEQ5bFFnZHc2YjYxVFFlREtfQWdrYUo1LWEtaUZEdWNJa0pLTzJJREhUZE00dnIza1NHUXZ3UTRsMVMwQUk3a05uQmQ2Tk1ObWhVZHl4R20tYzFDVDRlTjFTVUlsNFlMZjZSUC14QmdwY2VaVGc4UEVRWWg4OVV0UEFXYkZKaVcxVWJKRDBMaU9lalIzYm5DOURSWGZyMFY4VGZuZ9IBvgFBVV95cUxQemxmSVRjLUZYS0RKamJFSm1ReWxQbjBRbUp1cUZjUEtYcWhxdDltVGxwbnJVWVF6YlR4RHBST3Z5RHpwYUFockQtTFFnQ2ZWOXRYMENHYUh1S20ybVc1YkJ2bks5N0tuU09kVThnLUY2M3lpRHpBZlpPWGU1VHhOV3RoSElMU2VyRTBQb0d6clR0U0NJaTcxT0JZcFVrWnBVQUFLLVVPLVFEeWs4dmQwdTZPUXllaS12N3BOWEtR?oc=5
 
 - Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
   Mirwaiz Umar Farooq
   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
 
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
 
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
+- Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded - NDTV
+  Bangladesh-China Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXJMOHNjYnVuWTMzMm9kQXRqMVEwZ0RWcmRIZ3pUby1TSzVKdDNaZmtrdVNQbHR5UUR3eFU5ZTNTUUdfN3RxZ3NESEh0UkRZVklWX21SdlBxRHhva1ZLdDc0VjludjV5NGlpeWRwVlhOLWVySXZjcm9mU05zZWE0ZlRVbE1wUXR1ajBwbWdOUThZVHhRaEpXR3VIdmIzaTBhZl9ENVlGcHUzc05ST1VobjFVSzRkTVh20gHAAUFVX3lxTFBveUNiVWVNcF91eXZtV25ISjZYUWtCTlNrbXdVM0pGY0ZkTUs4Z2JXWXVyc2Z3Sjdsa2RXY0NkMEN0UHFGNHJxZmZXNjBhVkVYdmlPRTdkdk9fbTBqYXhVTVhWRTN1RWIxSDdyWDF4dUd6QmFEajBVMzZrNUI2ZmFrRXQzUUtjLXhBTS1PMlhMWmItT3dPV3FPcjBKNEZlVmc0TE9Ud3ZwdzQ2T2RTNTJUVElqSy1hYzYwdnVtOGpYMg?oc=5
 
-- India launches Operation Amistad to assist earthquake-hit Venezuela - News On AIR
-  India launches Operation Amistad to assist
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3FUS0RRSHpTeTVjSzRkNllnRGh5TGctOGhPTm9pb2pBSUZ4YW5qTkstTXRMdGM5VHQ1OHpoYUprTU82LU1MeHp0c0VKbXN2S3Mwb3lpaWxheDRPVEpkTU9oTkxXN0hQQ1JOUWxNbjRFdTRLRVJSSzQ2aWVBczN0VnlTZ0dkYVFKWG52Ny13RUt3bVVQNlducw?oc=5
+- Father Lynches Two Children After Fight With Wife In Tripura - NDTV
+  Father Lynches Two Children After Fight With
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmpwWFpXOTZaSEdZZVcyb0Vsa2o1dk9MMUJFRDRaUlBFSS1UQ1RVSEt1cDB2VEhtcUlBTTBkdzNnbzU0MEtvZ3dfdlgyTE9FdlFGRE9pSHQ4R2V0WU80dktZQjdpM05EZkV2M2l3OG51Sk1xSTQ0al9qNXRXeG1VVVllcVZENF9DYTdnRkhEVFQyMGRnaHREdU9KRTdHNTJVLWxB0gGrAUFVX3lxTE1YcWZPYXlPXy1PMFQtQnB5ckg5ZVQxNGtTZUpKOF91b25HXzVyUU5scXEtRmlFaUtOVW5OQmgweExSV2M1dnNraWplUmRDRDU4c3E5bWRVa2lsUjJiV2N0NGZkcWZrNVNpaUl4RFB2Q1Z2eXdYMjF0THB4U3hjZUxscEZwVWJ3RlJ2UVFFaF9RT1J1NHdCdmRZdG9reDRXM01ZZ2xPYk9NTEZIcw?oc=5
 
-- Earthquakes Hit Venezuela, But Tremors Could Be Felt 14,000 km Away In India - NDTV
-  Earthquakes Hit Venezuela, But Tremors Could Be
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW9NZ3c4d0YwNERvRXphNkxTbk1PMmd3clhRNURBM1U2d2E3MFJvWGhWVHdkSmxoWTlLM0w3WjVqZUx2eXQ3NFB2cXhwY2VGcVFISUVzemNhYTF6MG41emtvWVVyam1icE5ZaVRQV2lRWTQ2cWtLa2x4VmRBdFNOVmQ5enJsOEZUWHV1eG0xSTVhQjQ2TzJOODRuZU1pdmVUQVN5QXhwcDkwUnc1czI1aXpMQmhvWV9hTnZXSmE5ZnExSnfSAcsBQVVfeXFMTmdfZm5VQ2RCeWJQLTBYcGRrYjEtb0Z0UEZ5ZFdPTDIxbW1XQzdqbE51c2dUeXdWdUtUQ2d1amxPdXNvV0lpRUxOaGNYVlZFNjZTdENGRkVNRGtOeHRMTVlzNVR6ckdQdFRIOW00dVkwUTc1VVNPNDFsM2s3bjExTUtLT3cyY3A3YmdiWFQ3dndRODVuNFNmc1J5ekxwUjRKWnBndDdmbTV1RDc1aE1CZEVOMkpGVnNRQlNHOUwwcmgwRE8zUUZtYUlCUUE?oc=5
+- CBI Attaches Rs 53 Crore Assets Of Former Assam Top Cop In Corruption Case - NDTV
+  CBI Attaches Rs 53 Crore Assets Of Former Ass
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTRnOTBjZmhKQUZjMjJnS0hjOEQ5bFFnZHc2YjYxVFFlREtfQWdrYUo1LWEtaUZEdWNJa0pLTzJJREhUZE00dnIza1NHUXZ3UTRsMVMwQUk3a05uQmQ2Tk1ObWhVZHl4R20tYzFDVDRlTjFTVUlsNFlMZjZSUC14QmdwY2VaVGc4UEVRWWg4OVV0UEFXYkZKaVcxVWJKRDBMaU9lalIzYm5DOURSWGZyMFY4VGZuZ9IBvgFBVV95cUxQemxmSVRjLUZYS0RKamJFSm1ReWxQbjBRbUp1cUZjUEtYcWhxdDltVGxwbnJVWVF6YlR4RHBST3Z5RHpwYUFockQtTFFnQ2ZWOXRYMENHYUh1S20ybVc1YkJ2bks5N0tuU09kVThnLUY2M3lpRHpBZlpPWGU1VHhOV3RoSElMU2VyRTBQb0d6clR0U0NJaTcxT0JZcFVrWnBVQUFLLVVPLVFEeWs4dmQwdTZPUXllaS12N3BOWEtR?oc=5
+
+- Mirwaiz Umar Farooq Calls For Direct Talks Between India, Pakistan - NDTV
+  Mirwaiz Umar Farooq
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUtNcDJTdVIxa2NrZTExaXEwTXV1T2Uzdi1WczQtT0JZWHlpYnM2SEZ2THk4aDZkUUNoYWJPZF82Ylg3WGVkSUVIaHk2R3pkNGdMbmlmVkg2M1FjeENSQ2QyQmVLX2p5akNtVTdDVEY5ZTdNQ3FWRnBPQlRURnRnTXM0TVJFYWZFcVRjYzgxYnFLLUxpdEVhRjh6cEpRM044cXotS1BlSGhTd9IBsgFBVV95cUxQR1dON2lGcUlrak5YQW0xZWNTNmhqaWF0c1dxQVFUOVVCUThtZXo0X1FHdThlS010UFpLSWY2ejE4NDNUNDNLNnFhM05kS3JuSkNvUTRwbUF4eW50MUtWS3gzTUFpdzE3VnVIR3p3RmtTZm0tUHRISDB1clZkU2xVVlYyQWoyVWNOMzFtRkx3c1FsVFlNaGR4UWtvTHg3Z3Uzbl9DQVZoLVFIUWtsYkZRaDln?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded - NDTV
+  Bangladesh-China Joint Statement
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXJMOHNjYnVuWTMzMm9kQXRqMVEwZ0RWcmRIZ3pUby1TSzVKdDNaZmtrdVNQbHR5UUR3eFU5ZTNTUUdfN3RxZ3NESEh0UkRZVklWX21SdlBxRHhva1ZLdDc0VjludjV5NGlpeWRwVlhOLWVySXZjcm9mU05zZWE0ZlRVbE1wUXR1ajBwbWdOUThZVHhRaEpXR3VIdmIzaTBhZl9ENVlGcHUzc05ST1VobjFVSzRkTVh20gHAAUFVX3lxTFBveUNiVWVNcF91eXZtV25ISjZYUWtCTlNrbXdVM0pGY0ZkTUs4Z2JXWXVyc2Z3Sjdsa2RXY0NkMEN0UHFGNHJxZmZXNjBhVkVYdmlPRTdkdk9fbTBqYXhVTVhWRTN1RWIxSDdyWDF4dUd6QmFEajBVMzZrNUI2ZmFrRXQzUUtjLXhBTS1PMlhMWmItT3dPV3FPcjBKNEZlVmc0TE9Ud3ZwdzQ2T2RTNTJUVElqSy1hYzYwdnVtOGpYMg?oc=5
+
+- Father Lynches Two Children After Fight With Wife In Tripura - NDTV
+  Father Lynches Two Children After Fight With
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmpwWFpXOTZaSEdZZVcyb0Vsa2o1dk9MMUJFRDRaUlBFSS1UQ1RVSEt1cDB2VEhtcUlBTTBkdzNnbzU0MEtvZ3dfdlgyTE9FdlFGRE9pSHQ4R2V0WU80dktZQjdpM05EZkV2M2l3OG51Sk1xSTQ0al9qNXRXeG1VVVllcVZENF9DYTdnRkhEVFQyMGRnaHREdU9KRTdHNTJVLWxB0gGrAUFVX3lxTE1YcWZPYXlPXy1PMFQtQnB5ckg5ZVQxNGtTZUpKOF91b25HXzVyUU5scXEtRmlFaUtOVW5OQmgweExSV2M1dnNraWplUmRDRDU4c3E5bWRVa2lsUjJiV2N0NGZkcWZrNVNpaUl4RFB2Q1Z2eXdYMjF0THB4U3hjZUxscEZwVWJ3RlJ2UVFFaF9RT1J1NHdCdmRZdG9reDRXM01ZZ2xPYk9NTEZIcw?oc=5
+
+- CBI Attaches Rs 53 Crore Assets Of Former Assam Top Cop In Corruption Case - NDTV
+  CBI Attaches Rs 53 Crore Assets Of Former Ass
+  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTRnOTBjZmhKQUZjMjJnS0hjOEQ5bFFnZHc2YjYxVFFlREtfQWdrYUo1LWEtaUZEdWNJa0pLTzJJREhUZE00dnIza1NHUXZ3UTRsMVMwQUk3a05uQmQ2Tk1ObWhVZHl4R20tYzFDVDRlTjFTVUlsNFlMZjZSUC14QmdwY2VaVGc4UEVRWWg4OVV0UEFXYkZKaVcxVWJKRDBMaU9lalIzYm5DOURSWGZyMFY4VGZuZ9IBvgFBVV95cUxQemxmSVRjLUZYS0RKamJFSm1ReWxQbjBRbUp1cUZjUEtYcWhxdDltVGxwbnJVWVF6YlR4RHBST3Z5RHpwYUFockQtTFFnQ2ZWOXRYMENHYUh1S20ybVc1YkJ2bks5N0tuU09kVThnLUY2M3lpRHpBZlpPWGU1VHhOV3RoSElMU2VyRTBQb0d6clR0U0NJaTcxT0JZcFVrWnBVQUFLLVVPLVFEeWs4dmQwdTZPUXllaS12N3BOWEtR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-27 13:25:34 UTC_
+_Last updated: 2026-06-27 19:16:09 UTC_
