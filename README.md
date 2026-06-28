@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ‘Look inwards’: India slams Pakistan after Karachi attack accusations
+- June 2026 set to be fifth driest-ever since 1901; monsoon advance over parts of north likely in early July
   
-  🔗 https://indianexpress.com/article/india/india-rejects-pakistan-karachi-attack-allegations-mea-statement-10761646/
+  🔗 https://indianexpress.com/article/india/june-2026-driest-monsoon-north-july-10761894/
 
-- No ambulance, no bridge: Woman gives birth while carried on cot across river, video goes viral
+- Government flags priority intervention need in 25 of 58 tiger reserves with low, absent tigers
   
-  🔗 https://indianexpress.com/article/india/woman-give-birth-cot-river-viral-video-chhindwara-madhya-pradesh-10761529/
+  🔗 https://indianexpress.com/article/india/tiger-reintroduction-sariska-government-tiger-reserve-10761863/
 
-- PM Modi in Seychelles: India seeks Indian Ocean as ‘Ocean of Opportunity’
+- Modi meets Mauritius PM Navinchandra Ramgoolam in Seychelles
   
-  🔗 https://indianexpress.com/article/india/pm-modi-in-seychelles-india-seeks-indian-ocean-as-ocean-of-opportunity-10761514/
+  🔗 https://indianexpress.com/article/india/modi-meets-mauritius-pm-navinchandra-ramgoolam-in-seychelles-10761829/
 
-- Indian Railways to roll out new wagon design policy in July to boost freight transport
+- Rain havoc: Railway bridge collapses in Assam, flash floods in Arunachal
   
-  🔗 https://indianexpress.com/article/india/indian-railways-new-wagon-design-policy-july-key-reforms-explained-10761387/
+  🔗 https://indianexpress.com/article/india/assam-flood-dhemaji-railway-bridge-collapse-arunachal-pradesh-landslide-rain-10761828/
 
-- Mann Ki Baat: Modi ‘grateful to every citizen’ for supporting austerity call
+- Assam: Heavy rain disrupts rail traffic, check full list of affected trains
   
-  🔗 https://indianexpress.com/article/india/pm-modi-mann-ki-baat-austerity-appeal-west-asia-crisis-self-reliance-10761290/
+  🔗 https://indianexpress.com/article/india/assam-train-services-suspended-archipathar-simen-chapari-heavy-rainfall-travel-advisory-10761794/
 
 - Nothing CMF Watch 3 Pro review: Premium design, long battery life under Rs 8,000
   
@@ -56,9 +56,13 @@
   The proptech firm is seeking a $2 billion valuation for its planned public listing next
   🔗 https://www.livemint.com/companies/square-yards-ipo-2-billion-valuation-300-million-fundraise-11782613142020.html
 
-- Asian Paints is still searching for that perfect finish in home decor
-  Asian Paints' bath fittings, kitchens and lighting business has either declined
-  🔗 https://www.livemint.com/companies/news/asian-paints-home-decor-bet-yet-to-pay-off-11782463682386.html
+- Depth over breadth: Piramal Consumer Healthcare takes a leaf out of the modern FMCG playbook
+  The company is cutting new product launches by half and doubling down on quick commerce to chase a $200 million revenue target by 2030
+  🔗 https://www.livemint.com/companies/news/piramal-consumer-healthcare-otc-drug-market-india-11782474692356.html
+
+- Tax, policy changes making equities more attractive for investors, likely to sustain inflows: JP Morgan
+  Government policy measures and changes in the tax treatment of various financial products have made equities increasingly attractive.
+  🔗 https://www.livemint.com/market/tax-policy-changes-making-equities-more-attractive-for-investors-likely-to-sustain-inflows-jp-morgan-11782663870242.html
 
 - Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now
   Aditya Infotech's stock has rallied 427% since its IPO in July last year. This has pushed its valuation to
@@ -75,10 +79,6 @@
 - Mcap of 6 of top-10 most valued firms surges by  ₹88,678 crore; ICICI Bank biggest gainer
   During the week, the BSE Sensex advanced 297.57 points,
   🔗 https://www.livemint.com/market/stock-market-news/mcap-of-6-of-top-10-most-valued-firms-surges-by-88-678-crore-icici-bank-biggest-gainer-11782630290683.html
-
-- Upcoming IPOs: Aastha Spinex IPO, Knack Packaging IPO among new issues scheduled for next week; check list here
-  Of the 11 IPOs slated for next week, two mainboard issues will open for subscription. In the SME segment, around nine public issues will
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-aastha-spinex-ipo-knack-packaging-ipo-among-new-issues-scheduled-for-next-week-check-list-11782627353968.html
 
 - iPhone 18 Pro, iPhone 18 Pro Max could see up to $200 price hike, says report
   The iPhone 18 Pro could be priced at $1,200-$1,300, if the new report is to be believed. Apple could
@@ -100,6 +100,26 @@
   Cybersecurity researchers warn that scammers are exploiting GTA 6 hype
   🔗 https://www.livemint.com/technology/tech-news/gta-6-fraud-websites-are-offering-early-access-but-just-stealing-your-bank-detail-11782607528691.html
 
+- Why investors may want to prioritize bond markets outside the U.S. - CNBC
+  Why investors may want to prioritize bond markets outside
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0pWdkdxOWJ6MGNSdVdYV1U2REF2RnY2cjFtRGR6cjl4bWJOT0wxOEZtOENLUnUwMTlxR014QTE4a2o4eFo3T1ZCN21VWGtfV3NPd3VHRkRCUVBpX0x6X3o2c0F1a2R2N3FjZnN0dFZOdS1aWWM2QkxRWU5yLXJ3dE5mTzFhSGlZMHVqZFBxVUZiMEYxVFFJckdtQdIBoAFBVV95cUxQX0F4bVRkRkRmZmNYUzFqWXcyaEVlOGZ2OW9UaXAwWF94N2FwY195NXpqZTRTZXU2QjZtZHczMU1iRG9jaF9ubjRablY0clh1d0M1WW1WTTlzLUtXaFFNRFNhWjkzTGMxUWN1QVh6eDRpM3V1RFFybHg0VGM5ckxhSFlyeWc4MGdqTi00Vzdkc20zRWZnZzNRdlluSTlwNDlV?oc=5
+
+- Stock Market News, June 23, 2026: Tech Slide Deepens as AI Fears Get Worse - WSJ
+  WSJ: Tech Slide Deepens as AI Fears Get
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxORU55eHdYdkt5V3pydzQ2aDlIQ1Z1RVJHSnNhTjU5YW0ydjZ3Rm9TT3hUZmh4NlBhN3FfMlFhSUQ0eDhqRTdaU1laNjAtUV9mZFQzd0xzQ2RJUHR3RWlyVjk2eW5EYmtfbzQzNTdadjYwWmpVSUJPYURGUm9HdjhUSFVVODBRNGc?oc=5
+
+- Minister for Cooperatives inspects renovated wholesale market on Bazaar Road in Arakkonam - The Hindu
+  Arakkonam's wholesale market has been renovated
+  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVG9YUXlEaWpmUWl3NXFwMjZ2aFRNLU9ObjQ5WGluVWJacDFQWVN3aXQ5OXhJVjNYODRvSWo4Vi1NWktmN0ZEdmpLcXhaRzRqaDNPWGJlVkdpUmNJUXZrX2RTak9rM09uSXdqcTZDcWFWVjB6MGY2WXUteURRWnlyM3VDZkZOa29KSWl2cXJNTHpMVUtOYktZaWtJeDc5WVRCOEhPUjB2UGVqV28tb2x4d0dCZDQ1QTdTZUJuTldTaTdRLVdKbWNyVTRpVXR5WGlfZHhHWEpMYnZSRHo2MjZiekg1RElwRkVVeUlaUnp0dVHSAfcBQVVfeXFMUExWeHpCTk9vbWh2U2prZmQ2VEN0Q1ZKMWZhRWNXYkY4S2pGbUdPT2ZEZWdzeGs5ZDAxUkdYd2pXOFZ6QXE0YVJPdUF5U3BvZFRNR21FSzVwOElsNmIyLW9DbWVaTE5HNXpCTUhKSEZkZzdELWxtb3Z0MjBnX1V3Rnh0VnVSa3V1YmVhU05PckV6ZW04WTRldUZWb29ubUhkTU56ZUNST3l5NFhKNDB5TWJEX0NXNlJnUWI2UTZpSGoxTllmeVZVTThVS0NrODJYVVdVV0tUZkxlSG44bTNSWWJpWExNRDNsM0F1VDRVV2YwNzZJSXp6WQ?oc=5
+
+- Bond Heavyweights Target a Market Sweet Spot for New Warsh Era - Bloomberg.com
+  Bond Heavyweights Target a Market Sweet Spot
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUNxSTRDcFIwTml5ZDN4WURHS29QcHZBUkQxSFFOeE84N3J3b2ZvaDJWcmdqcFZKZlM4WFFYY1ZxRkdBcDltM212Y2ZSc2JPOTQ5ZUlOMzJBcmI4Sl9zZUlEUkdQZmo5Vk9mUmFvOWI3c2lvcU1wRHZRS3JFNlRBMkJJQTA0MUp0TjJOUTVzbDhuYkNQV2tjem9RTDg0QzNvZkpYMUEzSzdua2VZUDZJMnB0cw?oc=5
+
+- Ed Miliband as chancellor would benefit every part of the UK – and the bond markets | Josh Ryan-Collins - The Guardian
+  Ed Miliband as chancellor would benefit every part of the UK – and the bond markets, says
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXVuOU84Y0pnbnJYaEcwa3hZaExYTjg5T20xdE4xZjR1RlQ5MENKWThfdmVYaGZYS21fTktPLUtxUkdhV2llcUZpMHFueGUxdWU1RS1jY1R1SE1sVkJEeFJsUXdZc3dXdTNfUWNtd1JaSlNwWkdaaDdra2ZMdUEzWURrWGdTZWc0SXg5S29xdzlIOFgzaGdDcUJHTnhsaHlNTXc?oc=5
+
 - Gold, silver face fresh test as US dollar, Iran crisis to shape week ahead: Analysts
   Gold and silver are facing downward pressure as investors digest escalating US-Iran tensions, crude oil price shifts, and crucial economic data. Analysts suggest a continued corrective trend for precious metals, with the US dollar's strength and subdued industrial demand
   🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-face-fresh-test-as-us-dollar-iran-crisis-to-shape-week-ahead-analysts/articleshow/132050245.cms
@@ -119,6 +139,86 @@
 - 11 penny stocks plunge up to 55% in a month. Should investors worry?
   Penny stocks often attract investors with their low entry prices and potential for rapid
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-plunge-up-to-55-in-a-month-should-investors-worry/slideshow/132046234.cms
+
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Aurangzeb's akhbarat: The empire that ran on news reports - and what they reveal about Mughal India - BBC
+  Aurangzeb's akhbarat: The empire that ran on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSC05TW9Yd0JCSF9oSHVFWGQwRkdJMzdteTdXVVN3ZHZ2VTVkWXJlWGpMSElnd2ZxSWhfRExUV1Znenpidi0zRnhDLUYwaEFCQVQ1dGhNQjdBUQ?oc=5
+
+- ‘Look Inwards’: India Rejects Pakistan's 'Baseless' Karachi Attack Allegations - The Times of India
+  India rejects Pakistan's 'Baseless' Karachi attack
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWTdtekNmNk42dW5fbWNTN1ZTSVQ0ekxuUHFMNGRjUjBSQmFhV3JOQU0tazhjend3T3JBckJEWUkwUFp6MVA5elhTbTJXbU9PbXBDOHU0V040UkUxcDEyaVlaZ0RCUDBJVmpJYnRmNkZGN25hTWNvNmtkSkxRVEhRTXhId0RSaUlwTGVuVWxIQmZIRGtHWHBmU1g2OVhlaFhRVWFaakFPQnFib0t2WWNMZVZYdjNFZHZkdWEtSWo4ckdjSUYtYW1oODRXazhsLVpwNl9fZWhtUWRpWlZt0gHiAUFVX3lxTE1TX0gwNjJld0VqeDNBLWlyb1pSUS1NSlZxbUJIbVJiblFZZkNnMG54WWF1NFY4cnJkbTI0Ymkwb3FrZzROczhOTnBjdkJRTUtqeGstd1ZISTdObFoxUkRJLUFxM05wcmY5T1dUanBzbTRIdkRaUHZ1bXRhcnpNbGc3STZwcDdkVDBGWWVjWldyZEFMdWo4M2RORTJLZDNXVDVhVDZZeFFlRmEyeUgyZnIzc0JMblBzczRTZzRpVFdpY19DN0hxb0hnZU9fZ1BYb3ZuMkc1N3E2Rkp0WXE0ZUpnWEE?oc=5
+
+- Govt. rejects Pakistan’s allegations linking India to Karachi attack - The Hindu
+  The Hindu has published a report on the
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0R0c0RhV3FXLUZTNnBJT0lGVkR5WV9wUHU3bnhDVEUwY2ZlS1FzN3dSVGN1bldRb2tvUGpFZDNxdkRNSUw2Zy1vY3VRUnVZX3JZTkVkVzBaNFFfbWFNeF9JalRRQ0VKYzZycVdqbG5aWFE3VU1jODdma0FMTUFFNTRLQU52Z2szUDFMQ0JkOTM5bFl1TUZaLWp2WnN2bG5SZ3hEU2NobFhyLV91RUJjOVF30gG4AUFVX3lxTE5qTG11SEVteDZ0dVZQU1A2b1hTa0FuVUItS0lQbU5IUDhlX0JENVFUR1hSQXJGbXM1OWxfZ0N5bHpNWG9rY2tBdTJwU1UxMW9PM2wyUmE2LVhsZEdHTmNHeDZ2QTVVcWNKMXJXaXBjUFdfVjV2Sk16VVEtSkRkbVdjYzlWSHFqQVFyMmVpTFpPN2lBNTZCYWNrLW5MbWxMLVlaWjNIZnFWaTAxRVBhUEoydkJMYkNla1o?oc=5
+
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Aurangzeb's akhbarat: The empire that ran on news reports - and what they reveal about Mughal India - BBC
+  Aurangzeb's akhbarat: The empire that ran on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSC05TW9Yd0JCSF9oSHVFWGQwRkdJMzdteTdXVVN3ZHZ2VTVkWXJlWGpMSElnd2ZxSWhfRExUV1Znenpidi0zRnhDLUYwaEFCQVQ1dGhNQjdBUQ?oc=5
+
+- ‘Look Inwards’: India Rejects Pakistan's 'Baseless' Karachi Attack Allegations - The Times of India
+  India rejects Pakistan's 'Baseless' Karachi attack
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWTdtekNmNk42dW5fbWNTN1ZTSVQ0ekxuUHFMNGRjUjBSQmFhV3JOQU0tazhjend3T3JBckJEWUkwUFp6MVA5elhTbTJXbU9PbXBDOHU0V040UkUxcDEyaVlaZ0RCUDBJVmpJYnRmNkZGN25hTWNvNmtkSkxRVEhRTXhId0RSaUlwTGVuVWxIQmZIRGtHWHBmU1g2OVhlaFhRVWFaakFPQnFib0t2WWNMZVZYdjNFZHZkdWEtSWo4ckdjSUYtYW1oODRXazhsLVpwNl9fZWhtUWRpWlZt0gHiAUFVX3lxTE1TX0gwNjJld0VqeDNBLWlyb1pSUS1NSlZxbUJIbVJiblFZZkNnMG54WWF1NFY4cnJkbTI0Ymkwb3FrZzROczhOTnBjdkJRTUtqeGstd1ZISTdObFoxUkRJLUFxM05wcmY5T1dUanBzbTRIdkRaUHZ1bXRhcnpNbGc3STZwcDdkVDBGWWVjWldyZEFMdWo4M2RORTJLZDNXVDVhVDZZeFFlRmEyeUgyZnIzc0JMblBzczRTZzRpVFdpY19DN0hxb0hnZU9fZ1BYb3ZuMkc1N3E2Rkp0WXE0ZUpnWEE?oc=5
+
+- Govt. rejects Pakistan’s allegations linking India to Karachi attack - The Hindu
+  The Hindu has published a report on the
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0R0c0RhV3FXLUZTNnBJT0lGVkR5WV9wUHU3bnhDVEUwY2ZlS1FzN3dSVGN1bldRb2tvUGpFZDNxdkRNSUw2Zy1vY3VRUnVZX3JZTkVkVzBaNFFfbWFNeF9JalRRQ0VKYzZycVdqbG5aWFE3VU1jODdma0FMTUFFNTRLQU52Z2szUDFMQ0JkOTM5bFl1TUZaLWp2WnN2bG5SZ3hEU2NobFhyLV91RUJjOVF30gG4AUFVX3lxTE5qTG11SEVteDZ0dVZQU1A2b1hTa0FuVUItS0lQbU5IUDhlX0JENVFUR1hSQXJGbXM1OWxfZ0N5bHpNWG9rY2tBdTJwU1UxMW9PM2wyUmE2LVhsZEdHTmNHeDZ2QTVVcWNKMXJXaXBjUFdfVjV2Sk16VVEtSkRkbVdjYzlWSHFqQVFyMmVpTFpPN2lBNTZCYWNrLW5MbWxMLVlaWjNIZnFWaTAxRVBhUEoydkJMYkNla1o?oc=5
+
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Aurangzeb's akhbarat: The empire that ran on news reports - and what they reveal about Mughal India - BBC
+  Aurangzeb's akhbarat: The empire that ran on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSC05TW9Yd0JCSF9oSHVFWGQwRkdJMzdteTdXVVN3ZHZ2VTVkWXJlWGpMSElnd2ZxSWhfRExUV1Znenpidi0zRnhDLUYwaEFCQVQ1dGhNQjdBUQ?oc=5
+
+- ‘Look Inwards’: India Rejects Pakistan's 'Baseless' Karachi Attack Allegations - The Times of India
+  India rejects Pakistan's 'Baseless' Karachi attack
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWTdtekNmNk42dW5fbWNTN1ZTSVQ0ekxuUHFMNGRjUjBSQmFhV3JOQU0tazhjend3T3JBckJEWUkwUFp6MVA5elhTbTJXbU9PbXBDOHU0V040UkUxcDEyaVlaZ0RCUDBJVmpJYnRmNkZGN25hTWNvNmtkSkxRVEhRTXhId0RSaUlwTGVuVWxIQmZIRGtHWHBmU1g2OVhlaFhRVWFaakFPQnFib0t2WWNMZVZYdjNFZHZkdWEtSWo4ckdjSUYtYW1oODRXazhsLVpwNl9fZWhtUWRpWlZt0gHiAUFVX3lxTE1TX0gwNjJld0VqeDNBLWlyb1pSUS1NSlZxbUJIbVJiblFZZkNnMG54WWF1NFY4cnJkbTI0Ymkwb3FrZzROczhOTnBjdkJRTUtqeGstd1ZISTdObFoxUkRJLUFxM05wcmY5T1dUanBzbTRIdkRaUHZ1bXRhcnpNbGc3STZwcDdkVDBGWWVjWldyZEFMdWo4M2RORTJLZDNXVDVhVDZZeFFlRmEyeUgyZnIzc0JMblBzczRTZzRpVFdpY19DN0hxb0hnZU9fZ1BYb3ZuMkc1N3E2Rkp0WXE0ZUpnWEE?oc=5
+
+- Govt. rejects Pakistan’s allegations linking India to Karachi attack - The Hindu
+  The Hindu has published a report on the
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0R0c0RhV3FXLUZTNnBJT0lGVkR5WV9wUHU3bnhDVEUwY2ZlS1FzN3dSVGN1bldRb2tvUGpFZDNxdkRNSUw2Zy1vY3VRUnVZX3JZTkVkVzBaNFFfbWFNeF9JalRRQ0VKYzZycVdqbG5aWFE3VU1jODdma0FMTUFFNTRLQU52Z2szUDFMQ0JkOTM5bFl1TUZaLWp2WnN2bG5SZ3hEU2NobFhyLV91RUJjOVF30gG4AUFVX3lxTE5qTG11SEVteDZ0dVZQU1A2b1hTa0FuVUItS0lQbU5IUDhlX0JENVFUR1hSQXJGbXM1OWxfZ0N5bHpNWG9rY2tBdTJwU1UxMW9PM2wyUmE2LVhsZEdHTmNHeDZ2QTVVcWNKMXJXaXBjUFdfVjV2Sk16VVEtSkRkbVdjYzlWSHFqQVFyMmVpTFpPN2lBNTZCYWNrLW5MbWxMLVlaWjNIZnFWaTAxRVBhUEoydkJMYkNla1o?oc=5
+
+- 94-Year-Old Andhra Woman Gives Up US Passport For Indian Citizenship - NDTV
+  94-year-old Andhra Woman
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDgxLUNyLW9nbGxvWlNKcHA4NndLWmxvMzcxMWtlNGVOc3BxODZLal9ZbHVaNC1fTmNQcnFOOEtNU2FZek9Kb3BOZ3V0Z1dZLXB4R0xkZFp4dGlGQ1Nzd1JuUmF4TVR6Zkx1UHNZYk9fMV9Id1dfbmlUTDRWYWxtQ3F6dlptX1d4VkV0T2VVdUF5MjhlakpMVU5faFZtUXhBUThYS1J4NTR5S3l5WklvZjF1dUFQLW9ZbnhBUXhJOXNmWkN3dlHSAc4BQVVfeXFMTUtNME1jc1VJci1wSFVXTGdpbEtHdEJ0WWJmdGhfREhrSWlLY3lZZVpYSGFkem5DRzNSLVJ5ZEdoaVZHSTdWSnpNbWJVY3lENzdiMldpYmRpU2UtUjBwWnNzU3VqVjI3WmVUdUREUzFCT3NVVGhUbEVkZUw2RHp5SE40aUNKeUV1OUI2SXo3cnU1RGYzYVlMMFhtSGJVR3NYT2ljemNBY1pKY0tYdHh4bDduNkVwaXVDRElISEZURXVINlZ2UmV1YVpMdEJxWkE?oc=5
+
+- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
+  India, Pakistan hold fresh round of Track 2 talks.
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+
+- Aurangzeb's akhbarat: The empire that ran on news reports - and what they reveal about Mughal India - BBC
+  Aurangzeb's akhbarat: The empire that ran on
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSC05TW9Yd0JCSF9oSHVFWGQwRkdJMzdteTdXVVN3ZHZ2VTVkWXJlWGpMSElnd2ZxSWhfRExUV1Znenpidi0zRnhDLUYwaEFCQVQ1dGhNQjdBUQ?oc=5
+
+- ‘Look Inwards’: India Rejects Pakistan's 'Baseless' Karachi Attack Allegations - The Times of India
+  India rejects Pakistan's 'Baseless' Karachi attack
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWTdtekNmNk42dW5fbWNTN1ZTSVQ0ekxuUHFMNGRjUjBSQmFhV3JOQU0tazhjend3T3JBckJEWUkwUFp6MVA5elhTbTJXbU9PbXBDOHU0V040UkUxcDEyaVlaZ0RCUDBJVmpJYnRmNkZGN25hTWNvNmtkSkxRVEhRTXhId0RSaUlwTGVuVWxIQmZIRGtHWHBmU1g2OVhlaFhRVWFaakFPQnFib0t2WWNMZVZYdjNFZHZkdWEtSWo4ckdjSUYtYW1oODRXazhsLVpwNl9fZWhtUWRpWlZt0gHiAUFVX3lxTE1TX0gwNjJld0VqeDNBLWlyb1pSUS1NSlZxbUJIbVJiblFZZkNnMG54WWF1NFY4cnJkbTI0Ymkwb3FrZzROczhOTnBjdkJRTUtqeGstd1ZISTdObFoxUkRJLUFxM05wcmY5T1dUanBzbTRIdkRaUHZ1bXRhcnpNbGc3STZwcDdkVDBGWWVjWldyZEFMdWo4M2RORTJLZDNXVDVhVDZZeFFlRmEyeUgyZnIzc0JMblBzczRTZzRpVFdpY19DN0hxb0hnZU9fZ1BYb3ZuMkc1N3E2Rkp0WXE0ZUpnWEE?oc=5
+
+- Govt. rejects Pakistan’s allegations linking India to Karachi attack - The Hindu
+  The Hindu has published a report on the
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0R0c0RhV3FXLUZTNnBJT0lGVkR5WV9wUHU3bnhDVEUwY2ZlS1FzN3dSVGN1bldRb2tvUGpFZDNxdkRNSUw2Zy1vY3VRUnVZX3JZTkVkVzBaNFFfbWFNeF9JalRRQ0VKYzZycVdqbG5aWFE3VU1jODdma0FMTUFFNTRLQU52Z2szUDFMQ0JkOTM5bFl1TUZaLWp2WnN2bG5SZ3hEU2NobFhyLV91RUJjOVF30gG4AUFVX3lxTE5qTG11SEVteDZ0dVZQU1A2b1hTa0FuVUItS0lQbU5IUDhlX0JENVFUR1hSQXJGbXM1OWxfZ0N5bHpNWG9rY2tBdTJwU1UxMW9PM2wyUmE2LVhsZEdHTmNHeDZ2QTVVcWNKMXJXaXBjUFdfVjV2Sk16VVEtSkRkbVdjYzlWSHFqQVFyMmVpTFpPN2lBNTZCYWNrLW5MbWxMLVlaWjNIZnFWaTAxRVBhUEoydkJMYkNla1o?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -149,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-28 13:28:50 UTC_
+_Last updated: 2026-06-28 19:15:09 UTC_
