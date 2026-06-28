@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
+- ‘Look inwards’: India slams Pakistan after Karachi attack accusations
+  
+  🔗 https://indianexpress.com/article/india/india-rejects-pakistan-karachi-attack-allegations-mea-statement-10761646/
+
+- No ambulance, no bridge: Woman gives birth while carried on cot across river, video goes viral
+  
+  🔗 https://indianexpress.com/article/india/woman-give-birth-cot-river-viral-video-chhindwara-madhya-pradesh-10761529/
+
+- PM Modi in Seychelles: India seeks Indian Ocean as ‘Ocean of Opportunity’
+  
+  🔗 https://indianexpress.com/article/india/pm-modi-in-seychelles-india-seeks-indian-ocean-as-ocean-of-opportunity-10761514/
+
+- Indian Railways to roll out new wagon design policy in July to boost freight transport
+  
+  🔗 https://indianexpress.com/article/india/indian-railways-new-wagon-design-policy-july-key-reforms-explained-10761387/
+
 - Mann Ki Baat: Modi ‘grateful to every citizen’ for supporting austerity call
   
   🔗 https://indianexpress.com/article/india/pm-modi-mann-ki-baat-austerity-appeal-west-asia-crisis-self-reliance-10761290/
 
-- 100 schoolgirls fall ill after ‘drinking water stored in plastic tank’; teacher, warden suspended
+- Nothing CMF Watch 3 Pro review: Premium design, long battery life under Rs 8,000
   
-  🔗 https://indianexpress.com/article/india/jharkhand-garhwa-kgbv-school-girls-ill-water-tank-contamination-suspension-10761371/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/nothing-cmf-watch-3-pro-review-2026-10761542/
 
-- Pilgrims stranded in Nepal, MEA issues Mansarovar Yatra advisory
+- Netflix now requires a unique email ID for every profile login: What it means for users
   
-  🔗 https://indianexpress.com/article/india/mea-kailash-mansarovar-yatra-advisory-indians-stranded-nepal-chinese-visa-10761146/
-
-- They thought the gods were angry. Then a Chhattisgarh village began joining the dots between 8 murders
-  
-  🔗 https://indianexpress.com/article/india/chhattisgarh-village-8-murders-ramsahay-jaiswal-10761203/
-
-- India weather update: Heavy rain alert in Assam, Bengal and 15+ states; heatwave traps Delhi, UP
-  
-  🔗 https://indianexpress.com/article/india/monsoon-rainfall-india-alert-imd-june-28-weather-heatwave-update-10760952/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/netflix-requires-unique-email-id-profile-login-10761446/
 
 - OpenAI unveils GPT-5.6 Sol, Terra, and Luna but almost no one can use them yet: Here’s why
   
@@ -32,33 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/us-seizes-nearly-400-websites-that-were-illegally-streaming-world-cup-doj-says-10761044/
 
-- Australia toughens kids’ social media ban, doubles potential penalties for tech firms
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/australia-toughens-kids-social-media-ban-doubles-potential-penalties-for-tech-firms-10761032/
+- Raymond’s aerospace vertical growth outpaces precision engineering business
+  JK Maini Global Aerospace is clocking a 25% expansion rate and has locked in a  ₹
+  🔗 https://www.livemint.com/companies/news/raymond-jkmgal-shifts-to-aerospace-assemblies-amid-india-manufacturing-boom-11782620557793.html
 
-- What is Slate Auto, and how is its $25,000 electric truck different from other EVs?
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/what-is-slate-auto-and-how-is-its-25000-electric-truck-different-from-other-evs-10760723/
+- Persistent eyes $5 billion annual revenue by 2031 with mega Nagarro buyout
+  The proposed $1.3-billion deal would double the combined group's European business and add crucial SAP and
+  🔗 https://www.livemint.com/companies/persistent-eyes-5-billion-annual-revenue-by-2031-with-mega-nagarro-buyout-11782642521776.html
+
+- NoBroker enters home salon market, stays away from instant help for now
+  NoBroker has launched Zivora in Bengaluru and plans to enter NC
+  🔗 https://www.livemint.com/companies/start-ups/nobroker-home-salon-services-instant-help-urban-company-yesmadam-snabbit-pronto-11782622762429.html
 
 - Proptech unicorn Square Yards engages bankers for $300-mn IPO
   The proptech firm is seeking a $2 billion valuation for its planned public listing next
   🔗 https://www.livemint.com/companies/square-yards-ipo-2-billion-valuation-300-million-fundraise-11782613142020.html
 
-- Depth over breadth: Piramal Consumer Healthcare takes a leaf out of the modern FMCG playbook
-  The company is cutting new product launches by half and doubling down on quick commerce to chase a $200 million revenue target by 2030
-  🔗 https://www.livemint.com/companies/news/piramal-consumer-healthcare-otc-drug-market-india-11782474692356.html
-
 - Asian Paints is still searching for that perfect finish in home decor
   Asian Paints' bath fittings, kitchens and lighting business has either declined
   🔗 https://www.livemint.com/companies/news/asian-paints-home-decor-bet-yet-to-pay-off-11782463682386.html
 
-- Who is Prabhjeet Singh? IIT-IIM alumnus and Uber veteran named OpenAI's India MD
-  Prabhjeet Singh has been appointed Managing Director for India. His experience
-  🔗 https://www.livemint.com/companies/news/who-is-prabhjeet-singh-iit-iim-alumnus-and-uber-veteran-named-openais-india-md-11782554477257.html
+- Aditya Infotech: investors need to focus on far range clarity as valuation looks stretched for now
+  Aditya Infotech's stock has rallied 427% since its IPO in July last year. This has pushed its valuation to
+  🔗 https://www.livemint.com/market/mark-to-market/aditya-infotech-stock-analysis-ipo-stock-valuation-growth-outlook-11782641401757.html
 
-- Anthropic's lowest-paid H-1B hire still earns over  ₹1 crore, filings show, as its top techie gets  ₹13.06 crore
-  New H-1B filings reveal Anthropic's pay bands, from  ₹1.07 crore
-  🔗 https://www.livemint.com/companies/news/anthropics-lowest-paid-h-1b-hire-still-earns-over-1-crore-filings-show-as-its-top-techie-gets-13-06-crore-11782554175778.html
+- Expert view: How rising global bond yields impact the Indian stock market?
+  Foreign investors have not only stayed away from Indian equities but have also shown
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-how-rising-in-global-bond-yields-impact-indian-stock-market-11782636070309.html
 
 - Mukul Agrawal-owned multibagger stock will remain in focus tomorrow. Do you own?
   PTC Industries share price has slipped 5% in a week and year-to-date (
@@ -71,14 +79,6 @@
 - Upcoming IPOs: Aastha Spinex IPO, Knack Packaging IPO among new issues scheduled for next week; check list here
   Of the 11 IPOs slated for next week, two mainboard issues will open for subscription. In the SME segment, around nine public issues will
   🔗 https://www.livemint.com/market/ipo/upcoming-ipos-aastha-spinex-ipo-knack-packaging-ipo-among-new-issues-scheduled-for-next-week-check-list-11782627353968.html
-
-- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war?
-  Nifty reclaimed and sustained levels above the crucial 24,000 mark.
-  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-11782621997610.html
-
-- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 29 June 2026
-  The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-29-june-2026-11782618272489.html
 
 - iPhone 18 Pro, iPhone 18 Pro Max could see up to $200 price hike, says report
   The iPhone 18 Pro could be priced at $1,200-$1,300, if the new report is to be believed. Apple could
@@ -100,6 +100,14 @@
   Cybersecurity researchers warn that scammers are exploiting GTA 6 hype
   🔗 https://www.livemint.com/technology/tech-news/gta-6-fraud-websites-are-offering-early-access-but-just-stealing-your-bank-detail-11782607528691.html
 
+- Gold, silver face fresh test as US dollar, Iran crisis to shape week ahead: Analysts
+  Gold and silver are facing downward pressure as investors digest escalating US-Iran tensions, crude oil price shifts, and crucial economic data. Analysts suggest a continued corrective trend for precious metals, with the US dollar's strength and subdued industrial demand
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-face-fresh-test-as-us-dollar-iran-crisis-to-shape-week-ahead-analysts/articleshow/132050245.cms
+
+- Ahead of Market: 10 things that will decide D-Street action on Monday
+  Indian markets closed marginally higher on Thursday after a volatile expiry session. Sentiment stayed mixed amid profit booking, FII outflows and macro cues. Markets were shut on Friday for Muharram.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/132048171.cms
+
 - Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner
   ICICI Bank led the surge, followed by HDFC Bank and Reliance Industries. Bharti Airtel, TCS, and LIC experienced significant valuation drops.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-6-of-top-10-most-valued-firms-climbs-rs-88678-cr-icici-bank-biggest-winner/articleshow/132046789.cms
@@ -111,94 +119,6 @@
 - 11 penny stocks plunge up to 55% in a month. Should investors worry?
   Penny stocks often attract investors with their low entry prices and potential for rapid
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-plunge-up-to-55-in-a-month-should-investors-worry/slideshow/132046234.cms
-
-- When to book profits and when to sit tight: Timeless investing lessons from Jesse Livermore
-  Jesse Livermore’s timeless investing principles offer clarity on one of the toughest market decisions, when to book profits and when to hold on. His approach emphasises patience in winners, quick loss-cutting
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/when-to-book-profits-and-when-to-sit-tight-timeless-investing-lessons-from-jesse-livermore/articleshow/132046055.cms
-
-- Funding the 'mother of all cycles': Chris Wood cuts Indian stocks to double down on South Korean chip giants
-  Christopher Wood has cut select Indian equities to increase exposure to South Korean chipmakers. He views memory stocks as core beneficiaries, citing strong demand, attractive valuations and structural shifts.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/funding-the-mother-of-all-cycles-chris-wood-cuts-indian-stocks-to-double-down-on-south-korean-chip-giants/articleshow/132045664.cms
-
-- PM Modi Meets World's Oldest Living Land Animal During Seychelles Visit - NDTV
-  PM Modi Meets World's Oldest Living
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURORFVzMmVBdGFPQWpsdTBGdzdDajVVRFVWUEF4RTVmenpmYzFFdllvbm1vSEJ6RnFEMEdHWVBGN0hZQkFnYVF5bG1SX1U0eU9ybEhyNjlpS2lOSU84cTkxRUN6dnJUTGR0WjVUSW0zbEpJdWtjYkowSnpWVW40dTZCRVVpSmE5bF9rYlk0M1VHV25ObFBTVkQxN2MwNG5JOGVqMXVSU1VKV1VwREJ3SVlsbFpOSnNPQ21OZDY5c3BpWXBCblRjSXNUelJzSUnSAdcBQVVfeXFMTWhIYktvY2w1elJrd3JlOFFfZWpmekxQbFpHV1Qza1pObUVPLW4tN0taVVlmLXd6bmR4R2RHRGVkN0phckJvM1d5WWduVFBpdWVCNUZ4R05ybms3dHIwUUxDOWVBTGFXMjBpTWt1N3NuS2hVcUQ3eGlvdUZnUktQVEtpcl9NVzBfVzNkOGV4TjhZcVljY1hYSzI3MnNYMWI4Nl9Sa1Z6RHpEZGQyS0U3b2Jyd1k4NmltUHY2SGExN2liSVRDU3F6b2g4TlFiTExfTndTQ3FfMTQ?oc=5
-
-- India news: PM Modi embarks on two-day Seychelles visit - DW.com
-  India news: PM Modi embarks
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1NBZnVBRTNDZDBvTHhoMHlMRmExdmZBck44eERPMjlDRDdESmxPZjBjYlhoaWhjaVI2MVF5UWhlUWRpd2I2MExLM09YS2oyd0EyZUJ4aUhZSWVITWpMVUV1Qm5rMUs5MC12TnZWdnFtR0wyYjM0cXM5T0NnX2F6VDNJelFYVW9IY3RJcE4yM242UXhx?oc=5
-
-- 'Indian Ocean is our shared home': PM Modi highlights India-Seychelles ties after signing key MoUs - The Economic Times
-  'Indian Ocean is our shared home': PM Modi highlights India-Sey
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzVRSUY3SlpSUWNsTFdySXFoSDVhMXRxa1VDaXBBQjVoM2o2TjNPTzNpWHNPV3JEcGt1SmNLQWpReW9vYlZPSVBoZ1V5YUFCbFY2YjR0R1l0dk5QY2xZekxBRVoxR2tiSmstVzhiSHVEenhlUnl0Y2VqeW9yU3JiaWFETGxpdFlOODhhLWp2N0VuN2JHTHBSQzEzOGxnSllvanh0a0hzNzItaDhaY1BuWTJfblhIdFZ0ZGNkSmJkU2hueHQ2bTBzSkFycm1LWWhidWxxQlNjYkdlMUd6QVNjTU1pOGtVX2dNdm5rV1FXSGRlRjNLYmxBMWZxMzlsd9IB9wFBVV95cUxPaVU1cmdRZXNiQWNQeUNvaDA3MmJTeExrZjBOMHdQTERCRy0ySmdFdVVyVEYxMEFGU0NjUkFhZXJzNi04clhzZjF6dVYxcHoyRVpwcnlSOE50YlNMZWNHVWNXMGZLT0NJOEZWOXc1VENpemRobUJuQUk0b2ZudWVsb0trOWFVT0o0dUJuUWFuQ0hHUThrYURTQk9YUnIwVy1YanFjYUxKSmVmLS1sWk1iTU92ZFVmNnN1bUt4ZWo4aEp4VTVwOGZweWFDQ0R5bjN1T1FlWmtKRmdaR2tDSUVfT0p3eDg3czlZWC1zcFp2Z1dOQVhkeXNv?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
-
-- PM Modi Meets World's Oldest Living Land Animal During Seychelles Visit - NDTV
-  PM Modi Meets World's Oldest Living
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURORFVzMmVBdGFPQWpsdTBGdzdDajVVRFVWUEF4RTVmenpmYzFFdllvbm1vSEJ6RnFEMEdHWVBGN0hZQkFnYVF5bG1SX1U0eU9ybEhyNjlpS2lOSU84cTkxRUN6dnJUTGR0WjVUSW0zbEpJdWtjYkowSnpWVW40dTZCRVVpSmE5bF9rYlk0M1VHV25ObFBTVkQxN2MwNG5JOGVqMXVSU1VKV1VwREJ3SVlsbFpOSnNPQ21OZDY5c3BpWXBCblRjSXNUelJzSUnSAdcBQVVfeXFMTWhIYktvY2w1elJrd3JlOFFfZWpmekxQbFpHV1Qza1pObUVPLW4tN0taVVlmLXd6bmR4R2RHRGVkN0phckJvM1d5WWduVFBpdWVCNUZ4R05ybms3dHIwUUxDOWVBTGFXMjBpTWt1N3NuS2hVcUQ3eGlvdUZnUktQVEtpcl9NVzBfVzNkOGV4TjhZcVljY1hYSzI3MnNYMWI4Nl9Sa1Z6RHpEZGQyS0U3b2Jyd1k4NmltUHY2SGExN2liSVRDU3F6b2g4TlFiTExfTndTQ3FfMTQ?oc=5
-
-- India news: PM Modi embarks on two-day Seychelles visit - DW.com
-  India news: PM Modi embarks
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1NBZnVBRTNDZDBvTHhoMHlMRmExdmZBck44eERPMjlDRDdESmxPZjBjYlhoaWhjaVI2MVF5UWhlUWRpd2I2MExLM09YS2oyd0EyZUJ4aUhZSWVITWpMVUV1Qm5rMUs5MC12TnZWdnFtR0wyYjM0cXM5T0NnX2F6VDNJelFYVW9IY3RJcE4yM242UXhx?oc=5
-
-- 'Indian Ocean is our shared home': PM Modi highlights India-Seychelles ties after signing key MoUs - The Economic Times
-  'Indian Ocean is our shared home': PM Modi highlights India-Sey
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzVRSUY3SlpSUWNsTFdySXFoSDVhMXRxa1VDaXBBQjVoM2o2TjNPTzNpWHNPV3JEcGt1SmNLQWpReW9vYlZPSVBoZ1V5YUFCbFY2YjR0R1l0dk5QY2xZekxBRVoxR2tiSmstVzhiSHVEenhlUnl0Y2VqeW9yU3JiaWFETGxpdFlOODhhLWp2N0VuN2JHTHBSQzEzOGxnSllvanh0a0hzNzItaDhaY1BuWTJfblhIdFZ0ZGNkSmJkU2hueHQ2bTBzSkFycm1LWWhidWxxQlNjYkdlMUd6QVNjTU1pOGtVX2dNdm5rV1FXSGRlRjNLYmxBMWZxMzlsd9IB9wFBVV95cUxPaVU1cmdRZXNiQWNQeUNvaDA3MmJTeExrZjBOMHdQTERCRy0ySmdFdVVyVEYxMEFGU0NjUkFhZXJzNi04clhzZjF6dVYxcHoyRVpwcnlSOE50YlNMZWNHVWNXMGZLT0NJOEZWOXc1VENpemRobUJuQUk0b2ZudWVsb0trOWFVT0o0dUJuUWFuQ0hHUThrYURTQk9YUnIwVy1YanFjYUxKSmVmLS1sWk1iTU92ZFVmNnN1bUt4ZWo4aEp4VTVwOGZweWFDQ0R5bjN1T1FlWmtKRmdaR2tDSUVfT0p3eDg3czlZWC1zcFp2Z1dOQVhkeXNv?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
-
-- PM Modi Meets World's Oldest Living Land Animal During Seychelles Visit - NDTV
-  PM Modi Meets World's Oldest Living
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURORFVzMmVBdGFPQWpsdTBGdzdDajVVRFVWUEF4RTVmenpmYzFFdllvbm1vSEJ6RnFEMEdHWVBGN0hZQkFnYVF5bG1SX1U0eU9ybEhyNjlpS2lOSU84cTkxRUN6dnJUTGR0WjVUSW0zbEpJdWtjYkowSnpWVW40dTZCRVVpSmE5bF9rYlk0M1VHV25ObFBTVkQxN2MwNG5JOGVqMXVSU1VKV1VwREJ3SVlsbFpOSnNPQ21OZDY5c3BpWXBCblRjSXNUelJzSUnSAdcBQVVfeXFMTWhIYktvY2w1elJrd3JlOFFfZWpmekxQbFpHV1Qza1pObUVPLW4tN0taVVlmLXd6bmR4R2RHRGVkN0phckJvM1d5WWduVFBpdWVCNUZ4R05ybms3dHIwUUxDOWVBTGFXMjBpTWt1N3NuS2hVcUQ3eGlvdUZnUktQVEtpcl9NVzBfVzNkOGV4TjhZcVljY1hYSzI3MnNYMWI4Nl9Sa1Z6RHpEZGQyS0U3b2Jyd1k4NmltUHY2SGExN2liSVRDU3F6b2g4TlFiTExfTndTQ3FfMTQ?oc=5
-
-- India news: PM Modi embarks on two-day Seychelles visit - DW.com
-  India news: PM Modi embarks
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1NBZnVBRTNDZDBvTHhoMHlMRmExdmZBck44eERPMjlDRDdESmxPZjBjYlhoaWhjaVI2MVF5UWhlUWRpd2I2MExLM09YS2oyd0EyZUJ4aUhZSWVITWpMVUV1Qm5rMUs5MC12TnZWdnFtR0wyYjM0cXM5T0NnX2F6VDNJelFYVW9IY3RJcE4yM242UXhx?oc=5
-
-- 'Indian Ocean is our shared home': PM Modi highlights India-Seychelles ties after signing key MoUs - The Economic Times
-  'Indian Ocean is our shared home': PM Modi highlights India-Sey
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzVRSUY3SlpSUWNsTFdySXFoSDVhMXRxa1VDaXBBQjVoM2o2TjNPTzNpWHNPV3JEcGt1SmNLQWpReW9vYlZPSVBoZ1V5YUFCbFY2YjR0R1l0dk5QY2xZekxBRVoxR2tiSmstVzhiSHVEenhlUnl0Y2VqeW9yU3JiaWFETGxpdFlOODhhLWp2N0VuN2JHTHBSQzEzOGxnSllvanh0a0hzNzItaDhaY1BuWTJfblhIdFZ0ZGNkSmJkU2hueHQ2bTBzSkFycm1LWWhidWxxQlNjYkdlMUd6QVNjTU1pOGtVX2dNdm5rV1FXSGRlRjNLYmxBMWZxMzlsd9IB9wFBVV95cUxPaVU1cmdRZXNiQWNQeUNvaDA3MmJTeExrZjBOMHdQTERCRy0ySmdFdVVyVEYxMEFGU0NjUkFhZXJzNi04clhzZjF6dVYxcHoyRVpwcnlSOE50YlNMZWNHVWNXMGZLT0NJOEZWOXc1VENpemRobUJuQUk0b2ZudWVsb0trOWFVT0o0dUJuUWFuQ0hHUThrYURTQk9YUnIwVy1YanFjYUxKSmVmLS1sWk1iTU92ZFVmNnN1bUt4ZWo4aEp4VTVwOGZweWFDQ0R5bjN1T1FlWmtKRmdaR2tDSUVfT0p3eDg3czlZWC1zcFp2Z1dOQVhkeXNv?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
-
-- PM Modi Meets World's Oldest Living Land Animal During Seychelles Visit - NDTV
-  PM Modi Meets World's Oldest Living
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOeURORFVzMmVBdGFPQWpsdTBGdzdDajVVRFVWUEF4RTVmenpmYzFFdllvbm1vSEJ6RnFEMEdHWVBGN0hZQkFnYVF5bG1SX1U0eU9ybEhyNjlpS2lOSU84cTkxRUN6dnJUTGR0WjVUSW0zbEpJdWtjYkowSnpWVW40dTZCRVVpSmE5bF9rYlk0M1VHV25ObFBTVkQxN2MwNG5JOGVqMXVSU1VKV1VwREJ3SVlsbFpOSnNPQ21OZDY5c3BpWXBCblRjSXNUelJzSUnSAdcBQVVfeXFMTWhIYktvY2w1elJrd3JlOFFfZWpmekxQbFpHV1Qza1pObUVPLW4tN0taVVlmLXd6bmR4R2RHRGVkN0phckJvM1d5WWduVFBpdWVCNUZ4R05ybms3dHIwUUxDOWVBTGFXMjBpTWt1N3NuS2hVcUQ3eGlvdUZnUktQVEtpcl9NVzBfVzNkOGV4TjhZcVljY1hYSzI3MnNYMWI4Nl9Sa1Z6RHpEZGQyS0U3b2Jyd1k4NmltUHY2SGExN2liSVRDU3F6b2g4TlFiTExfTndTQ3FfMTQ?oc=5
-
-- India news: PM Modi embarks on two-day Seychelles visit - DW.com
-  India news: PM Modi embarks
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1NBZnVBRTNDZDBvTHhoMHlMRmExdmZBck44eERPMjlDRDdESmxPZjBjYlhoaWhjaVI2MVF5UWhlUWRpd2I2MExLM09YS2oyd0EyZUJ4aUhZSWVITWpMVUV1Qm5rMUs5MC12TnZWdnFtR0wyYjM0cXM5T0NnX2F6VDNJelFYVW9IY3RJcE4yM242UXhx?oc=5
-
-- 'Indian Ocean is our shared home': PM Modi highlights India-Seychelles ties after signing key MoUs - The Economic Times
-  'Indian Ocean is our shared home': PM Modi highlights India-Sey
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzVRSUY3SlpSUWNsTFdySXFoSDVhMXRxa1VDaXBBQjVoM2o2TjNPTzNpWHNPV3JEcGt1SmNLQWpReW9vYlZPSVBoZ1V5YUFCbFY2YjR0R1l0dk5QY2xZekxBRVoxR2tiSmstVzhiSHVEenhlUnl0Y2VqeW9yU3JiaWFETGxpdFlOODhhLWp2N0VuN2JHTHBSQzEzOGxnSllvanh0a0hzNzItaDhaY1BuWTJfblhIdFZ0ZGNkSmJkU2hueHQ2bTBzSkFycm1LWWhidWxxQlNjYkdlMUd6QVNjTU1pOGtVX2dNdm5rV1FXSGRlRjNLYmxBMWZxMzlsd9IB9wFBVV95cUxPaVU1cmdRZXNiQWNQeUNvaDA3MmJTeExrZjBOMHdQTERCRy0ySmdFdVVyVEYxMEFGU0NjUkFhZXJzNi04clhzZjF6dVYxcHoyRVpwcnlSOE50YlNMZWNHVWNXMGZLT0NJOEZWOXc1VENpemRobUJuQUk0b2ZudWVsb0trOWFVT0o0dUJuUWFuQ0hHUThrYURTQk9YUnIwVy1YanFjYUxKSmVmLS1sWk1iTU92ZFVmNnN1bUt4ZWo4aEp4VTVwOGZweWFDQ0R5bjN1T1FlWmtKRmdaR2tDSUVfT0p3eDg3czlZWC1zcFp2Z1dOQVhkeXNv?oc=5
-
-- Kerala: The Indian state trying to ensure no one grows old alone - BBC
-  Kerala: The Indian state trying to ensure no
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2N2enBreWNzeVRySEw1RVFOSk9iWEkzdkVEeGFkWEdDV2xUM0xyeEVDMVF0RVNFMUtvSENYQ1d1dHdETzBJdXBHa2tyZVNnYjdjZUJWLXVDQQ?oc=5
-
-- India launches world’s first nuclear process heat-based hydrogen production facility - News On AIR
-  India launches world’s first nuclear process heat
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmYwOXNZQ2NqYmMtQ1VCODhpdWlSVFBiZm1vTXd6RjJwTklBRDkzaFZwS3JZSHJ6a0lpbWdoR3NoRHNOUWpIYUVmYTlucDZNNG5Bczd6QlByelhYVnE3bkdzaG5zYXFwWTVrSzMwc215V0xhM3p6VC1taWR6ajdYNHB3RG8xcE1SMHpXWGhuWHJUVDBNNUtfUGlaSjZUak5JTFZ1MXRqUmxIdzI0cmRmYTJn?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +149,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-28 08:49:11 UTC_
+_Last updated: 2026-06-28 13:28:50 UTC_
