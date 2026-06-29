@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Goats and cattle form half of cheetah prey in Kuno, chital 42%: Report
+- From ‘Nimbooda’ to ‘Rind Posh Maal’: Bollywood songs in Odisha textbooks trigger row
   
-  🔗 https://indianexpress.com/article/india/goats-cattle-cheetah-prey-kuno-chital-hunt-10763241/
+  🔗 https://indianexpress.com/article/india/nimbooda-rind-posh-maal-bollywood-songs-odisha-textbooks-10763462/
 
-- The Daily Catch-Up: Ram Temple case in Supreme Court and other top stories
+- Jharkhand peon fired for ‘stealing tea and biscuits’, court sets aside ‘grossly disproportionate’ punishment
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-ram-temple-sc-hearing-monsoon-deficit-chhattisgarh-poisoning-case-10763208/
+  🔗 https://indianexpress.com/article/india/jharkhand-hc-reinstates-drda-peon-tea-biscuits-case-10762964/
 
-- Why was young nurse Sarla Bhat killed in Srinagar? 36 years on, chargesheet offers answers
+- Rajnath Singh releases DFP-2026, will enhance efficiency, timely execution of R&D projects
   
-  🔗 https://indianexpress.com/article/india/sarla-bhat-murder-case-yasin-malik-jklf-chargesheet-10763258/
+  🔗 https://indianexpress.com/article/india/rajnath-singh-releases-dfp-2026-will-enhance-efficiency-timely-execution-of-rd-projects-10763457/
 
-- Inside ‘Spectrum’: Tamil Nadu’s new system to predict and stop repeat sexual offenders
+- Rs 97-crore Arakkonam Yard remodeling completed: Southern Railway’s biggest yard to improve train operations
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-police-color-database-sexual-offenders-women-crime-10763251/
+  🔗 https://indianexpress.com/article/india/rs-97-crore-arakkonam-yard-remodeling-completed-southern-railways-biggest-yard-to-improve-train-operations-10763395/
 
-- From corruption charges to quality certification: UDF’s reversal on labour contract society
+- ‘Desperate acts of violence’: India condemns Pakistan airstrikes on Afghan territory
   
-  🔗 https://indianexpress.com/article/india/udf-labour-contract-society-corruption-charges-quality-certification-10763028/
+  🔗 https://indianexpress.com/article/india/india-pakistan-airstrikes-afghan-territory-10763421/
+
+- WhatsApp begins username reservations, chat without sharing your phone number soon
+  
+  🔗 https://indianexpress.com/article/technology/whatsapp-username-reservations-how-to-reserve-10763322/
 
 - Tech updates (June 29, 2026): Samsung Galaxy M47, Infinix Note 60 Pro, Salesforce, DashORM, and more
   
@@ -36,29 +40,33 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/amble-one-ev-buggy-former-apple-audi-execs-10762652/
 
-- Apple seeks approval to buy chips from blacklisted Chinese company: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-seeks-approval-to-buy-chips-from-blacklisted-chinese-company-report-10762646/
+- Layoff looms as Tech industry sheds over 1 lakh jobs in first half of 2026 amid AI-led cost cuts
+  Companies like Cloudflare, Cisco, and LinkedIn are also reducing staff
+  🔗 https://www.livemint.com/companies/news/layoff-looms-as-tech-industry-sheds-over-1-lakh-jobs-in-first-half-of-2026-amid-ai-led-cost-cuts-11782745148281.html
 
-- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
-  China Responds To India's Concerns
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
+- Yes Bank plans to raise up to  ₹16,000 crore through equity, debt
+  The bank said these were enabling provisions and would be subject to shareholders’
+  🔗 https://www.livemint.com/companies/news/yes-bank-plans-to-raise-up-to-16-000-crore-through-equity-debt-11782742948422.html
 
-- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
-  India, Pakistan hold fresh round of Track 2 talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+- Volkswagen layoffs: Work council says European carmaker cannot scrap job until 2030 amid 1 lakh job cuts plan
+  The works council insists the employee guarantee until 2030 must be upheld. Volkswagen's proposal to shut four German factories and cut up to 100,000
+  🔗 https://www.livemint.com/companies/news/volkswagen-layoffs-work-council-says-european-carmaker-cannot-scrap-job-until-2030-amid-1-lakh-job-cuts-plan-11782739466881.html
 
-- Heatwave news: Why 43°C feels different in Europe than in India - The Indian Express
-  The Indian Express reports that the heatwave is expected to
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS25kYjBOa0lBbEhaeUVJY0plYUpUWG84VlZyakJ2QVJhRVJmZVhnN1Z3YXdGWDQ0WE5KakFxenFtWXFsZkIyWXpvS01jaE9CaVVUNkxpMVJSQjByNVdoMW1WRWVYMnVfQmNoRUhYZGdURV9jd3dOall2Wm9EYjl3VUwtcFZiemV6cTlYY0pvNUtHYUVCeEtfS0xUVHZpQ3RpbktyVFN4cFpTMUpOTjdQdDU0N2xvbUMwOGdF0gHCAUFVX3lxTFBuajQ2aFZZWW0zcWxJUUxzLVRWbVJrVTlDUTlTbzFGbnVaYzd1VF9pcGVXYnhXWjF1Y0ZnQ1E5VVRlRFRwNGhLeU5oYTZhNVpidU1XVlZxVTJTZ3hURFRRSTlCaHA3LUFHU0lHT0ctTE16R0xKY0lxeUJobTdmSDB0WG1TdXhNVno4UTJUYzVuYUFzOFBaRGNuYTBEd3BiZFViSlZtemZUMVRUZ1RydWNTdTNXajZYQ241OEtKaG5jMlJn?oc=5
+- AI isn't the biggest regulatory worry for Indian startups, data governance is: Survey
+  44% of respondents identified data governance and digital trust regulations as their primary regulatory concern. The study was based on a survey of 550 ecosystem participants, including 350 startups,
+  🔗 https://www.livemint.com/companies/news/ai-isnt-the-biggest-regulatory-worry-for-indian-startups-data-governance-is-survey-11782730264762.html
 
-- Video: Slapped By Friend, Gujarat Man Climbs Mobile Tower, Demands Apology - NDTV
-  A man in Gujarat has climbed a mobile tower
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0t1SUFhVjdHc3pMV1dHcUxLX29FckJWVmZoeTVRblJzUkZHTWpvYjBab2VyeGdUME1lUUh4RWZFMXM3b09VbjBXR2UyeEFzNWRoZXlTSkpmSEM1SEV6V0o0RENRSTh2RW1BM3I0MGNobHl6WEFWX2NuWnVUSG9YeHlhc1Ntd2Z0UjdDY3JCUzhUWHNJVVdZUjhzZ3VuN04yRlBGZWg1bUcxYUZrZEk4cUFtNGR5RzBXSmtn0gHDAUFVX3lxTFBCT1FYN0NtSXdKYktaTTFMYXU5ZXk0T0doUVV4NGNBVWpSNlRtcG15QjZMQTRWQ0I4Vkd0RVVWeFNwVDJ1N08tbEc2YWppeWNQdGRWaGtGR3JhVDN3cHVESjJZaFE1OHJZdjFoMHM4VjgtMXRUMi1tbjdlUWNnSWcyVXFHQmpFMWV2bFp4bHVvSzRpMkZMY0R4T3k5WXhMNHdudlpvMWlTRzFDb19qSlFMWGhBaDZnNXAyTVk0TmJ3ekxmWQ?oc=5
+- PayU swings to Ebitda profit in FY26 as payments, credit businesses rally
+  Prosus-owned fintech firm swung to an $18-million full-year
+  🔗 https://www.livemint.com/companies/company-results/payu-ebitda-profit-fy26-payments-credit-businesses-rally-higher-margin-products-prosus-11782728510773.html
 
-- Herbalife And IIT Madras Launch India's First Plant Cell Fermentation Centre - NDTV
-  Herbalife And IIT Madras Launch
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFAyYTl1MEV4YjFkSmdzakFGaUU4b0JwV1FQS250eU5fQklybzd6US0xV2JtcUJWSmJmVUp4bkZoclItUkNHRHlITzJiWnJkRU9pXzR0LUtxWnRjcTRIaDZtQkVnLUI5Q2VncnhwcVlsamxwc2o1R2NQSElFYldfcDJqdWNEQmFESUY4NzE3M3lhQmJ6a2JQWG94YjRpYVhzMURnb2FIS3h0V1gyMjVIU3NuUUdwdFnSAb8BQVVfeXFMUGdGRjBsRGZXS0g1bDlGRGpuNU9UQ1JKMVBNRzVDcDBHUkRCbVNmRWNFUlJsYTZMeWR2dlVSTmxyeDdjbkFZamJGUjZUSzNSMVpwSVlvc05icFhLTDlHazlnRnVBRVFiTnFJc084cU15VlFkcHB4U2FUMGdoZDFYYVhSQk9xUHBGeVRDYVhROUNGS0d3ZGZjS0QxZE54RFBFeGVPYWFVVDNBRHE1bU9fR1FEUTBBN2V4Q0l5ODh3Zmc?oc=5
+- SpaceX shares slide 32% from record high, but remain 13% above IPO price
+  SpaceX's shares have dropped 32% from their peak after a record-breaking IPO. Despite this, the stock remains above its IPO price.
+  🔗 https://www.livemint.com/market/stock-market-news/spacex-shares-slide-32-from-record-high-but-remain-13-above-ipo-price-11782752072175.html
+
+- Gold, silver rates today: Comex gold and silver prices fall as Middle East tensions spark Fed rate hike fears
+  Comex gold futures dropped to an intraday low of $4,012. Silver fell to $57.84, marking a significant downturn for both metals.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-prices-fall-as-middle-east-tensions-spark-fed-rate-hike-fears-11782743153479.html
 
 - Comcast shares surge 17% as company announces NBCUniversal, Sky spin-off plan
   Comcast shares rose 17% to $27.10 after announcing plans to spin off NBCUniversal and Sky. This move aims to help both entities focus on
@@ -72,73 +80,65 @@
   S&amp;amp;P 500 futures increased by 0.08%, while Nasdaq 100 futures gained 1.1%.
   🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-jump-as-investors-buy-the-tech-dip-oil-near-4-month-low-11782731695020.html
 
-- Expert view: See compelling setup for Indian stocks to outperform, says Bajaj Finserv Asset Management's head of equity
-  With improving foreign investor sentiment and attractive valuations, now may be the time for disciplined, long-term investment in equities.
-  🔗 https://www.livemint.com/market/stock-market-news/expert-view-see-compelling-setup-for-indian-stocks-to-outperform-says-bajaj-finserv-asset-managements-head-of-equity-11782733558052.html
+- WhatsApp to let users chat without sharing phone numbers: Username feature coming soon
+   WhatsApp, which says it has more than 3 billion users globally, has until now allowed users to be contacted
+  🔗 https://www.livemint.com/technology/apps/whatsapp-to-let-users-chat-without-sharing-phone-numbers-username-feature-coming-soon-11782752334524.html
 
-- GIP-backed Pristine Logistics takes confidential route to IPO; picks Axis, CLSA, SBI as book managers
-  The proposed listing of Pristine fits the pattern of infrastructure asset monetization in India. A record  ₹12.2 trillion government capital expenditure budget is
-  🔗 https://www.livemint.com/market/ipo/pristine-logistics-ipo-confidential-drhp-gip-axis-clsa-sbi-11782726092043.html
+- Will iPhone 17 Pro Max cost nearly  ₹2 lakh in India? Leak suggests so
+  The iPhone 17 Pro, currently priced at  ₹1,34,900, could reportedly retail between  � 1,54,
+  🔗 https://www.livemint.com/technology/will-iphone-17-pro-max-cost-nearly-rs-2-lakh-in-india-leak-suggests-so-11782740413634.html
 
-- Stock Market Today: Nasdaq Rises, Comcast Stock Jumps on Split Plans — Live Updates - WSJ
-  The WSJ reports that Comcast is planning to split into two
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5
+- Samsung Galaxy M47 5G launched in India with 6,000mAh battery, 50MP OIS camera
+  Samsung has launched the Galaxy M47 5G in India with a price of  ₹22,999. The phone features a
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-m47-5g-launched-in-india-with-6-000mah-battery-50mp-ois-camera-11782719455467.html
 
-- Stock market today: S&P 500, Nasdaq, Dow rise as US and Iran call a halt to attacks - Yahoo Finance
-  Stock market today: S&amp;P 500, Nasdaq, Dow rise
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0FSelVOV005QXlFX093NXJvalhjUTdZNG1neXdRYWt5SlJuRjRuOWh6clJUMDdfWWVocmhpQk5yMXZyMnE4akVWeEtKTDZGTTJhbGVhWEFNeEt3aWl1dWVDVHJub254MkphQ3haZDRPRXkyQXVRdGZZS3JibUhaZVlKeDlVaWdaUlY3YklTU1pwTVJkbGNsZmdR?oc=5
+- Apple prepares smart glasses to take on Meta, launch tipped for next year
+  Apple could be looking to leverage its strong ecosystem to bring in buyers, a report claims. Apple is eyeing the smart glasses market
+  🔗 https://www.livemint.com/technology/gadgets/apple-prepares-smart-glasses-to-take-on-meta-launch-tipped-for-next-year-11782715814905.html
 
-- Stock Market Today: Major Indexes Rebound From Last Week's Tech Sell-Off; Comcast Stock Jumps on Plan to Split - Investopedia
-  Stock Market Today: Major Indexes Rebound From Last Week's Tech Sell-
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlhNMlJCbk8tR0M0Z3V1VEFoUzM1eV9jbmg1X2VBNUJHODdKYlotaTJEbUNpc256QU1LTFBJWHd0c0drb3p6UEdRYi1iQkdReXltbnZMenpaNm96bGp3WkpYWG9PZ3EzQjVTeUhZT1JvTlNrQ1BJOXhldGhrU3BsT1pJM3RWbHJPOEw1Ym9EdmQ?oc=5
+- iPhone 18 Pro launch date, expected price, processor and camera upgrades
+  Leaks suggest Apple's iPhone 18 Pro lineup may launch on September 8 or 9. The phone is
+  🔗 https://www.livemint.com/technology/gadgets/iphone-18-pro-launch-date-expected-price-processor-and-camera-upgrades-11782703711679.html
 
-- The stock market rally that’s making some people rich and everyone else miserable - CNN
-  The stock market rally that’s making some people
-  🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5
+- Nasdaq, NYSE to ring opening bell from Oval Office for Trump Accounts launch, Hassett tells CNBC
+  Nasdaq and NYSE plan a rare joint opening bell from the Oval Office next week to promote Donald Trump’s new child investment scheme. The program offers $1,000 seed funding for eligible US children.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-nyse-to-ring-opening-bell-from-oval-office-for-trump-accounts-launch-hassett-tells-cnbc/articleshow/132074863.cms
 
-- Closing Bell: Nifty below 24,000, Sensex down 372 pts; auto, banks drag, metal, pharma gain - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxOTVJqRkhQSjJSY3NQZjJieUNvTktrSWpxVkZudjlBMmlRMUF6Z21zMnplVUhFdnBPOUMxazMxa3d5NG8yaUZkXzFtekhOMWVVckh6ekY3djE0SzQ4MGVSWWJxbjNJOFRxWD
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOTVJqRkhQSjJSY3NQZjJieUNvTktrSWpxVkZudjlBMmlRMUF6Z21zMnplVUhFdnBPOUMxazMxa3d5NG8yaUZkXzFtekhOMWVVckh6ekY3djE0SzQ4MGVSWWJxbjNJOFRxWDR5MjNmemNzTTRRaFpNYUNaX0lXMDJGMWRYLXB5clV3cS1iV1AyeTlaODFoWlpycWdUMTI5YXZtYS1DMlJYRDd3ZlYzQWpfNkdmNmxXVjZrX1k4RDJBVkthajcyMnd6T2ZsRkhoWngwbVNBVkZRdzdFb3EyNVRENXQ4Ujh4VHBfQXVWNGRqRWI0U3pFUkw0cGFLQnliczFHUmFNTk45ak1fUjNMLWx1eV9lUdIBmAJBVV95cUxQQnZTTnVkMjd1ZGRlQ0hTcFBLYVUyNzQwU3pXWTlHNm55YlRhSjlqTHBPNGFWZk81N0Rvb1ViTW13YkhROVM0Y3FtTGFDM3g0UFdPU1B2T1h6NDNuRHREdWxubkMtalNyMjV4ZnlsMTEwY2JlQ1pWelAxOExkeVhJaDFfZFlKNDdKMWZXV1BfbGFTQlc1dHdUVTFQWFRNbXZPbkZ4aHZOMUg5Z3ZZNEItaHZVWDMwMnRadmcwU1h2NDhoMVd4VDNNRnZqMzRnQ09fNy1FUXF3NDdtOXR1T0VCV2U0NDBSNlNxVGVWdDZUTkd1OUZaTjJXRXBOUm5GT0N0dWUyN29OS3BGM1VRekFsSGJxVG1iYVZR?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Tuesday
+  Sensex fell 372 points and Nifty lost 110. Analysts advised a buy-on-dips strategy above the key 23,800 support level.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132074909.cms
+
+- SIS approves share buyback of up to Rs 120 crore. Check details
+  SIS has approved a proposed Rs 120 crore share buyback at a maximum price of Rs 478.50 per share. The move could lift cumulative shareholder returns to about
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sis-approves-share-buyback-of-up-to-rs-120-crore-check-details/articleshow/132074807.cms
+
+- Google parent Alphabet debuts in Dow Jones index in tech tilt
+  Google parent Alphabet's shares entered the Dow Jones Industrial Average on Monday. The move signals a tech shift in the blue
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/google-parent-alphabet-debuts-in-dow-jones-index-in-tech-tilt/articleshow/132074610.cms
 
 - Market Trading Guide: Finolex Cables among 2 stock recommendations for Tuesday
   Domestic equities closed higher on positive Asian cues, falling crude oil prices and hopes of an India-US trade deal. Analysts recommend buying Finolex Cables and
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-2-stock-recommendations-for-tuesday/articleshow/132074015.cms
 
-- Microsoft shares head for worst month since 2000 as AI concerns wipe out $570 billion
-  Microsoft shares are heading for their worst month since 2000, falling 17% in June. Concerns over heavy AI spending and delayed returns erased $570 billion in value.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/microsoft-shares-head-for-worst-month-since-2000-as-ai-concerns-wipe-out-570-billion/articleshow/132073656.cms
-
-- Yes Bank to raise up to $1.7 billion via equity, debt issue
-  Yes Bank is poised to raise up to ₹160 billion through a strategic mix of equity and debt offerings. The board has approved an equity issuance of as much as ⁹75 billion. This approach is designed to strengthen the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-to-raise-up-to-1-7-billion-via-equity-debt-issue/articleshow/132073288.cms
-
-- US stocks today: US stocks climb as US, Iran halt attacks; Comcast surges on spin-off plan
-  Wall Street's indices surged on Monday, lifted by a decrease in Middle East tensions and Comcast’s intention to divide into two separate firms. While investors exude cautious optimism, regional conflicts still loom large.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-climb-as-us-iran-halt-attacks-comcast-surges-on-spin-off-plan/articleshow/132073077.cms
-
-- Eswari Global Metal Industries files papers for Rs 1,100-1,300-cr IPO
-  Eswari Global Metal Industries is poised for a major Initial Public Offering. The company has showcased impressive financial achievements for the nine-month period concluding December 2025.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/eswari-global-metal-industries-files-papers-for-rs-1100-1300-cr-ipo/articleshow/132073055.cms
-
 - China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
   China Responds To India's Concerns
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
 
-- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
-  India, Pakistan hold fresh round of Track 2 talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Heatwave news: Why 43°C feels different in Europe than in India - The Indian Express
-  The Indian Express reports that the heatwave is expected to
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS25kYjBOa0lBbEhaeUVJY0plYUpUWG84VlZyakJ2QVJhRVJmZVhnN1Z3YXdGWDQ0WE5KakFxenFtWXFsZkIyWXpvS01jaE9CaVVUNkxpMVJSQjByNVdoMW1WRWVYMnVfQmNoRUhYZGdURV9jd3dOall2Wm9EYjl3VUwtcFZiemV6cTlYY0pvNUtHYUVCeEtfS0xUVHZpQ3RpbktyVFN4cFpTMUpOTjdQdDU0N2xvbUMwOGdF0gHCAUFVX3lxTFBuajQ2aFZZWW0zcWxJUUxzLVRWbVJrVTlDUTlTbzFGbnVaYzd1VF9pcGVXYnhXWjF1Y0ZnQ1E5VVRlRFRwNGhLeU5oYTZhNVpidU1XVlZxVTJTZ3hURFRRSTlCaHA3LUFHU0lHT0ctTE16R0xKY0lxeUJobTdmSDB0WG1TdXhNVno4UTJUYzVuYUFzOFBaRGNuYTBEd3BiZFViSlZtemZUMVRUZ1RydWNTdTNXajZYQ241OEtKaG5jMlJn?oc=5
+- Delhi Peak Power Demand Hits All-Time High Of 8,748 MW Amid Heatwave - NDTV
+  Delhi Peak Power Demand Hits All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDdUdjcyczB3N0t6UVRsQVRjN0drT1V0RUg1Zjl5OEhSamVsblExMVdvYkxLSi0yRnQ1OXFNaGliUzBBNjFyVTgzRThlSjZ1ZkNEdWtub0haMnhVRG9uUVlOX2JzX1N4RUs3ZTNIT3dNbUZiRzl6TVl5a3FxSlZXWWoydmxtVVoxOHBHU2xLNkVLTC1WS3I1aVVQVUNDbUNjdXpLQnZIeGRoUFhiREHSAbYBQVVfeXFMTVBZMmxhSTRRNmFsR2dKX296RnJPLTR5eG5XRWVFZ3c3cWs4aWpNX3pEdnBMbjJkYXptZFRxRkVWdEYzeE0wX3kxY3JVZUN3NkZ5M1l0S1Q5TEd6d3JOY0JvQWp4QkJSVTBQd2xzRGl6UkpCMzM3VG4zS3p3U2lOQTZhZ01PaFRBMmZYd1FqT1dYR2h3S3dPb3B2N2ZXM0ZaZkZDR1ZqSEpTOENNeTB1cGduWWhiR1E?oc=5
 
-- Video: Slapped By Friend, Gujarat Man Climbs Mobile Tower, Demands Apology - NDTV
-  A man in Gujarat has climbed a mobile tower
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0t1SUFhVjdHc3pMV1dHcUxLX29FckJWVmZoeTVRblJzUkZHTWpvYjBab2VyeGdUME1lUUh4RWZFMXM3b09VbjBXR2UyeEFzNWRoZXlTSkpmSEM1SEV6V0o0RENRSTh2RW1BM3I0MGNobHl6WEFWX2NuWnVUSG9YeHlhc1Ntd2Z0UjdDY3JCUzhUWHNJVVdZUjhzZ3VuN04yRlBGZWg1bUcxYUZrZEk4cUFtNGR5RzBXSmtn0gHDAUFVX3lxTFBCT1FYN0NtSXdKYktaTTFMYXU5ZXk0T0doUVV4NGNBVWpSNlRtcG15QjZMQTRWQ0I4Vkd0RVVWeFNwVDJ1N08tbEc2YWppeWNQdGRWaGtGR3JhVDN3cHVESjJZaFE1OHJZdjFoMHM4VjgtMXRUMi1tbjdlUWNnSWcyVXFHQmpFMWV2bFp4bHVvSzRpMkZMY0R4T3k5WXhMNHdudlpvMWlTRzFDb19qSlFMWGhBaDZnNXAyTVk0TmJ3ekxmWQ?oc=5
+- Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy - The Times of India
+  The Times of India is a leading English-language newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWE1vWVJpRDVLLXpnbExhU3ZfN3dPOW1FNjIySEJ2Qzk0VGZOYjNPeXVfVXluVXV0UmhpZHF2aGNnaXc4TmNzQTZ3QWFONzQtSVJVMm1ueWhGQUZoLXVSUkJST1A1eUt5WjNGZUx2Vm84S0twOEVnYlQ2R3ZsMGo0b1VqUW01SnN3SkhxRHpMOHdVQ0NVRVZuTkx4OE90OThYakVYWlduekRXZXpBR2RWc3MwOVlkcHlrSUdlSDFPWHpSalhGM3pmQXBHbWNwYVgxVjV1V2pRUVFsQ2hiVkh1anRyYzNadHc1YUdmS3J5SHo4d9IB9wFBVV95cUxOVUxzZTNLNEFDNFNndW1YeksyRjY4bDl3NmY0TUVMemVCTWdVX2dPbVd3TkFkSy04R0x0OXA0Z2dGaHh0Zm1mRFZBNkZBbEhOYmFyX0tKaWJJalo5dmxLQlVTcm53WHFZTG5DdGZjRXJUNEg5SllhOW0zekFjX2p1NUZsdFRGNWVPMlR2VDU4eXB1c3JtdkllMWZ6VDJLOWk3emtsSDlfWXhnRTJ2MlVacGpiMVBlY3lzM1I5cV9acG5JQTBRQ1lFdElnN09vSHNBclpBYVZjSVBWN1hKVDR5VkdPV1ExLXJzU1hQMFJpUktRc0tmbkxR?oc=5
 
-- Herbalife And IIT Madras Launch India's First Plant Cell Fermentation Centre - NDTV
-  Herbalife And IIT Madras Launch
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFAyYTl1MEV4YjFkSmdzakFGaUU4b0JwV1FQS250eU5fQklybzd6US0xV2JtcUJWSmJmVUp4bkZoclItUkNHRHlITzJiWnJkRU9pXzR0LUtxWnRjcTRIaDZtQkVnLUI5Q2VncnhwcVlsamxwc2o1R2NQSElFYldfcDJqdWNEQmFESUY4NzE3M3lhQmJ6a2JQWG94YjRpYVhzMURnb2FIS3h0V1gyMjVIU3NuUUdwdFnSAb8BQVVfeXFMUGdGRjBsRGZXS0g1bDlGRGpuNU9UQ1JKMVBNRzVDcDBHUkRCbVNmRWNFUlJsYTZMeWR2dlVSTmxyeDdjbkFZamJGUjZUSzNSMVpwSVlvc05icFhLTDlHazlnRnVBRVFiTnFJc084cU15VlFkcHB4U2FUMGdoZDFYYVhSQk9xUHBGeVRDYVhROUNGS0d3ZGZjS0QxZE54RFBFeGVPYWFVVDNBRHE1bU9fR1FEUTBBN2V4Q0l5ODh3Zmc?oc=5
+- Inside Indian Delegation That Will Visit Iran For Supreme Leader's Funeral - NDTV
+  Indian Delegation That Will Visit Iran For
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTc1VjdubUZnbUN1a0xyeUlzSERRcVJiR2ZzWEhyXzlwd2RCaUhDYzBINERrRk5ubWJqLS1NbDF2TUVRaVlOMEM1VEswbXdaSGU0NlIzWGxkS1h1R2NrOTdwZU5rejNBMHVQR3VOcTAtZzZXbEZDT2gwN1F5V1M4RlpqWVQ2Smo4TWRVY0ItTGppYlZ3YjJaeGIwMWQxN0dqMlJUeGtDb1FnSnpGOXY3R245SUvSAbwBQVVfeXFMUGp6cWJJb19XRzU4R05ORFpMWmIzZ3JpYmZFcjJMTXdyQ3hzUGJDbUhDZlFyOXdVU2pkRTVhUWczMEppcUh3S01xNERHekJJMjRNUUN0RDR5Rjd3UWRNVDZUdjU1cXAyU2RxeEdmWjlhNEVKb2VqZUdMZVpSNExLdHJyQTBkQ2UtTUduc2l4V3ZyLWU1c19VTDFoV1ZkQnZLeTh2TW9USU00VFl2UjJnZW9CR0hZUUFtejF2ZjE?oc=5
 
 - Exclusive: Lightbox-Backed Nua In Talks To Raise $25 Mn From Peak XV, Others
   Lightbox-Backed Nua In Talks To Raise $25 Mn From Peak XV, Others. D2C femtech brand Nua is in talks to raise $20 Mn (about �
@@ -164,81 +164,61 @@
   China Responds To India's Concerns
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
 
-- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
-  India, Pakistan hold fresh round of Track 2 talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Heatwave news: Why 43°C feels different in Europe than in India - The Indian Express
-  The Indian Express reports that the heatwave is expected to
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS25kYjBOa0lBbEhaeUVJY0plYUpUWG84VlZyakJ2QVJhRVJmZVhnN1Z3YXdGWDQ0WE5KakFxenFtWXFsZkIyWXpvS01jaE9CaVVUNkxpMVJSQjByNVdoMW1WRWVYMnVfQmNoRUhYZGdURV9jd3dOall2Wm9EYjl3VUwtcFZiemV6cTlYY0pvNUtHYUVCeEtfS0xUVHZpQ3RpbktyVFN4cFpTMUpOTjdQdDU0N2xvbUMwOGdF0gHCAUFVX3lxTFBuajQ2aFZZWW0zcWxJUUxzLVRWbVJrVTlDUTlTbzFGbnVaYzd1VF9pcGVXYnhXWjF1Y0ZnQ1E5VVRlRFRwNGhLeU5oYTZhNVpidU1XVlZxVTJTZ3hURFRRSTlCaHA3LUFHU0lHT0ctTE16R0xKY0lxeUJobTdmSDB0WG1TdXhNVno4UTJUYzVuYUFzOFBaRGNuYTBEd3BiZFViSlZtemZUMVRUZ1RydWNTdTNXajZYQ241OEtKaG5jMlJn?oc=5
+- Delhi Peak Power Demand Hits All-Time High Of 8,748 MW Amid Heatwave - NDTV
+  Delhi Peak Power Demand Hits All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDdUdjcyczB3N0t6UVRsQVRjN0drT1V0RUg1Zjl5OEhSamVsblExMVdvYkxLSi0yRnQ1OXFNaGliUzBBNjFyVTgzRThlSjZ1ZkNEdWtub0haMnhVRG9uUVlOX2JzX1N4RUs3ZTNIT3dNbUZiRzl6TVl5a3FxSlZXWWoydmxtVVoxOHBHU2xLNkVLTC1WS3I1aVVQVUNDbUNjdXpLQnZIeGRoUFhiREHSAbYBQVVfeXFMTVBZMmxhSTRRNmFsR2dKX296RnJPLTR5eG5XRWVFZ3c3cWs4aWpNX3pEdnBMbjJkYXptZFRxRkVWdEYzeE0wX3kxY3JVZUN3NkZ5M1l0S1Q5TEd6d3JOY0JvQWp4QkJSVTBQd2xzRGl6UkpCMzM3VG4zS3p3U2lOQTZhZ01PaFRBMmZYd1FqT1dYR2h3S3dPb3B2N2ZXM0ZaZkZDR1ZqSEpTOENNeTB1cGduWWhiR1E?oc=5
 
-- Video: Slapped By Friend, Gujarat Man Climbs Mobile Tower, Demands Apology - NDTV
-  A man in Gujarat has climbed a mobile tower
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0t1SUFhVjdHc3pMV1dHcUxLX29FckJWVmZoeTVRblJzUkZHTWpvYjBab2VyeGdUME1lUUh4RWZFMXM3b09VbjBXR2UyeEFzNWRoZXlTSkpmSEM1SEV6V0o0RENRSTh2RW1BM3I0MGNobHl6WEFWX2NuWnVUSG9YeHlhc1Ntd2Z0UjdDY3JCUzhUWHNJVVdZUjhzZ3VuN04yRlBGZWg1bUcxYUZrZEk4cUFtNGR5RzBXSmtn0gHDAUFVX3lxTFBCT1FYN0NtSXdKYktaTTFMYXU5ZXk0T0doUVV4NGNBVWpSNlRtcG15QjZMQTRWQ0I4Vkd0RVVWeFNwVDJ1N08tbEc2YWppeWNQdGRWaGtGR3JhVDN3cHVESjJZaFE1OHJZdjFoMHM4VjgtMXRUMi1tbjdlUWNnSWcyVXFHQmpFMWV2bFp4bHVvSzRpMkZMY0R4T3k5WXhMNHdudlpvMWlTRzFDb19qSlFMWGhBaDZnNXAyTVk0TmJ3ekxmWQ?oc=5
+- Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy - The Times of India
+  The Times of India is a leading English-language newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWE1vWVJpRDVLLXpnbExhU3ZfN3dPOW1FNjIySEJ2Qzk0VGZOYjNPeXVfVXluVXV0UmhpZHF2aGNnaXc4TmNzQTZ3QWFONzQtSVJVMm1ueWhGQUZoLXVSUkJST1A1eUt5WjNGZUx2Vm84S0twOEVnYlQ2R3ZsMGo0b1VqUW01SnN3SkhxRHpMOHdVQ0NVRVZuTkx4OE90OThYakVYWlduekRXZXpBR2RWc3MwOVlkcHlrSUdlSDFPWHpSalhGM3pmQXBHbWNwYVgxVjV1V2pRUVFsQ2hiVkh1anRyYzNadHc1YUdmS3J5SHo4d9IB9wFBVV95cUxOVUxzZTNLNEFDNFNndW1YeksyRjY4bDl3NmY0TUVMemVCTWdVX2dPbVd3TkFkSy04R0x0OXA0Z2dGaHh0Zm1mRFZBNkZBbEhOYmFyX0tKaWJJalo5dmxLQlVTcm53WHFZTG5DdGZjRXJUNEg5SllhOW0zekFjX2p1NUZsdFRGNWVPMlR2VDU4eXB1c3JtdkllMWZ6VDJLOWk3emtsSDlfWXhnRTJ2MlVacGpiMVBlY3lzM1I5cV9acG5JQTBRQ1lFdElnN09vSHNBclpBYVZjSVBWN1hKVDR5VkdPV1ExLXJzU1hQMFJpUktRc0tmbkxR?oc=5
 
-- Herbalife And IIT Madras Launch India's First Plant Cell Fermentation Centre - NDTV
-  Herbalife And IIT Madras Launch
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFAyYTl1MEV4YjFkSmdzakFGaUU4b0JwV1FQS250eU5fQklybzd6US0xV2JtcUJWSmJmVUp4bkZoclItUkNHRHlITzJiWnJkRU9pXzR0LUtxWnRjcTRIaDZtQkVnLUI5Q2VncnhwcVlsamxwc2o1R2NQSElFYldfcDJqdWNEQmFESUY4NzE3M3lhQmJ6a2JQWG94YjRpYVhzMURnb2FIS3h0V1gyMjVIU3NuUUdwdFnSAb8BQVVfeXFMUGdGRjBsRGZXS0g1bDlGRGpuNU9UQ1JKMVBNRzVDcDBHUkRCbVNmRWNFUlJsYTZMeWR2dlVSTmxyeDdjbkFZamJGUjZUSzNSMVpwSVlvc05icFhLTDlHazlnRnVBRVFiTnFJc084cU15VlFkcHB4U2FUMGdoZDFYYVhSQk9xUHBGeVRDYVhROUNGS0d3ZGZjS0QxZE54RFBFeGVPYWFVVDNBRHE1bU9fR1FEUTBBN2V4Q0l5ODh3Zmc?oc=5
+- Inside Indian Delegation That Will Visit Iran For Supreme Leader's Funeral - NDTV
+  Indian Delegation That Will Visit Iran For
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTc1VjdubUZnbUN1a0xyeUlzSERRcVJiR2ZzWEhyXzlwd2RCaUhDYzBINERrRk5ubWJqLS1NbDF2TUVRaVlOMEM1VEswbXdaSGU0NlIzWGxkS1h1R2NrOTdwZU5rejNBMHVQR3VOcTAtZzZXbEZDT2gwN1F5V1M4RlpqWVQ2Smo4TWRVY0ItTGppYlZ3YjJaeGIwMWQxN0dqMlJUeGtDb1FnSnpGOXY3R245SUvSAbwBQVVfeXFMUGp6cWJJb19XRzU4R05ORFpMWmIzZ3JpYmZFcjJMTXdyQ3hzUGJDbUhDZlFyOXdVU2pkRTVhUWczMEppcUh3S01xNERHekJJMjRNUUN0RDR5Rjd3UWRNVDZUdjU1cXAyU2RxeEdmWjlhNEVKb2VqZUdMZVpSNExLdHJyQTBkQ2UtTUduc2l4V3ZyLWU1c19VTDFoV1ZkQnZLeTh2TW9USU00VFl2UjJnZW9CR0hZUUFtejF2ZjE?oc=5
 
 - China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
   China Responds To India's Concerns
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
 
-- India, Pakistan hold fresh round of Track 2 talks | India News - Hindustan Times
-  India, Pakistan hold fresh round of Track 2 talks.
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFWV0N3cUZ1aDJRYjQ3Q0pDamxoQk9ZNWhlR1pzMGNZWFZEamFVbnZwYlZRTl9PRGU2SjM1VjFGbzdDQjZLOElyWDd4SDNiWVNZWEdtXy0ySExMNnVHVFZPWUFpWExkc0hqbG8zeVlLcWZqclZocnduVk8tNFFRWHNXaWRYRDI1UFlfRi1VdXRYdFB4V1pWckwxeXZYWVnSAaQBQVVfeXFMUEZZR2I1akZxZ0NWY1c3RmtrOVg2SWM2dEp3VXI3QW02T0J6T01sQ1NrVlhlcXM1MnVmc29PWkxNRy1YQjJCRVI4UDdLSk1YaEtEcXkwR2FpYWg0MzdGY0VlSS1ydFZWTjdVLWJIaFFtdWFZTmJRUXhiY3hZQzYtS3Z6RzhSVTN1Uk1lcUs4V0RqVlFEbjJkenFqQVZhN1hwSGwtZVc?oc=5
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Heatwave news: Why 43°C feels different in Europe than in India - The Indian Express
-  The Indian Express reports that the heatwave is expected to
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS25kYjBOa0lBbEhaeUVJY0plYUpUWG84VlZyakJ2QVJhRVJmZVhnN1Z3YXdGWDQ0WE5KakFxenFtWXFsZkIyWXpvS01jaE9CaVVUNkxpMVJSQjByNVdoMW1WRWVYMnVfQmNoRUhYZGdURV9jd3dOall2Wm9EYjl3VUwtcFZiemV6cTlYY0pvNUtHYUVCeEtfS0xUVHZpQ3RpbktyVFN4cFpTMUpOTjdQdDU0N2xvbUMwOGdF0gHCAUFVX3lxTFBuajQ2aFZZWW0zcWxJUUxzLVRWbVJrVTlDUTlTbzFGbnVaYzd1VF9pcGVXYnhXWjF1Y0ZnQ1E5VVRlRFRwNGhLeU5oYTZhNVpidU1XVlZxVTJTZ3hURFRRSTlCaHA3LUFHU0lHT0ctTE16R0xKY0lxeUJobTdmSDB0WG1TdXhNVno4UTJUYzVuYUFzOFBaRGNuYTBEd3BiZFViSlZtemZUMVRUZ1RydWNTdTNXajZYQ241OEtKaG5jMlJn?oc=5
+- Delhi Peak Power Demand Hits All-Time High Of 8,748 MW Amid Heatwave - NDTV
+  Delhi Peak Power Demand Hits All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDdUdjcyczB3N0t6UVRsQVRjN0drT1V0RUg1Zjl5OEhSamVsblExMVdvYkxLSi0yRnQ1OXFNaGliUzBBNjFyVTgzRThlSjZ1ZkNEdWtub0haMnhVRG9uUVlOX2JzX1N4RUs3ZTNIT3dNbUZiRzl6TVl5a3FxSlZXWWoydmxtVVoxOHBHU2xLNkVLTC1WS3I1aVVQVUNDbUNjdXpLQnZIeGRoUFhiREHSAbYBQVVfeXFMTVBZMmxhSTRRNmFsR2dKX296RnJPLTR5eG5XRWVFZ3c3cWs4aWpNX3pEdnBMbjJkYXptZFRxRkVWdEYzeE0wX3kxY3JVZUN3NkZ5M1l0S1Q5TEd6d3JOY0JvQWp4QkJSVTBQd2xzRGl6UkpCMzM3VG4zS3p3U2lOQTZhZ01PaFRBMmZYd1FqT1dYR2h3S3dPb3B2N2ZXM0ZaZkZDR1ZqSEpTOENNeTB1cGduWWhiR1E?oc=5
 
-- Video: Slapped By Friend, Gujarat Man Climbs Mobile Tower, Demands Apology - NDTV
-  A man in Gujarat has climbed a mobile tower
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0t1SUFhVjdHc3pMV1dHcUxLX29FckJWVmZoeTVRblJzUkZHTWpvYjBab2VyeGdUME1lUUh4RWZFMXM3b09VbjBXR2UyeEFzNWRoZXlTSkpmSEM1SEV6V0o0RENRSTh2RW1BM3I0MGNobHl6WEFWX2NuWnVUSG9YeHlhc1Ntd2Z0UjdDY3JCUzhUWHNJVVdZUjhzZ3VuN04yRlBGZWg1bUcxYUZrZEk4cUFtNGR5RzBXSmtn0gHDAUFVX3lxTFBCT1FYN0NtSXdKYktaTTFMYXU5ZXk0T0doUVV4NGNBVWpSNlRtcG15QjZMQTRWQ0I4Vkd0RVVWeFNwVDJ1N08tbEc2YWppeWNQdGRWaGtGR3JhVDN3cHVESjJZaFE1OHJZdjFoMHM4VjgtMXRUMi1tbjdlUWNnSWcyVXFHQmpFMWV2bFp4bHVvSzRpMkZMY0R4T3k5WXhMNHdudlpvMWlTRzFDb19qSlFMWGhBaDZnNXAyTVk0TmJ3ekxmWQ?oc=5
+- Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy - The Times of India
+  The Times of India is a leading English-language newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWE1vWVJpRDVLLXpnbExhU3ZfN3dPOW1FNjIySEJ2Qzk0VGZOYjNPeXVfVXluVXV0UmhpZHF2aGNnaXc4TmNzQTZ3QWFONzQtSVJVMm1ueWhGQUZoLXVSUkJST1A1eUt5WjNGZUx2Vm84S0twOEVnYlQ2R3ZsMGo0b1VqUW01SnN3SkhxRHpMOHdVQ0NVRVZuTkx4OE90OThYakVYWlduekRXZXpBR2RWc3MwOVlkcHlrSUdlSDFPWHpSalhGM3pmQXBHbWNwYVgxVjV1V2pRUVFsQ2hiVkh1anRyYzNadHc1YUdmS3J5SHo4d9IB9wFBVV95cUxOVUxzZTNLNEFDNFNndW1YeksyRjY4bDl3NmY0TUVMemVCTWdVX2dPbVd3TkFkSy04R0x0OXA0Z2dGaHh0Zm1mRFZBNkZBbEhOYmFyX0tKaWJJalo5dmxLQlVTcm53WHFZTG5DdGZjRXJUNEg5SllhOW0zekFjX2p1NUZsdFRGNWVPMlR2VDU4eXB1c3JtdkllMWZ6VDJLOWk3emtsSDlfWXhnRTJ2MlVacGpiMVBlY3lzM1I5cV9acG5JQTBRQ1lFdElnN09vSHNBclpBYVZjSVBWN1hKVDR5VkdPV1ExLXJzU1hQMFJpUktRc0tmbkxR?oc=5
 
-- Herbalife And IIT Madras Launch India's First Plant Cell Fermentation Centre - NDTV
-  Herbalife And IIT Madras Launch
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFAyYTl1MEV4YjFkSmdzakFGaUU4b0JwV1FQS250eU5fQklybzd6US0xV2JtcUJWSmJmVUp4bkZoclItUkNHRHlITzJiWnJkRU9pXzR0LUtxWnRjcTRIaDZtQkVnLUI5Q2VncnhwcVlsamxwc2o1R2NQSElFYldfcDJqdWNEQmFESUY4NzE3M3lhQmJ6a2JQWG94YjRpYVhzMURnb2FIS3h0V1gyMjVIU3NuUUdwdFnSAb8BQVVfeXFMUGdGRjBsRGZXS0g1bDlGRGpuNU9UQ1JKMVBNRzVDcDBHUkRCbVNmRWNFUlJsYTZMeWR2dlVSTmxyeDdjbkFZamJGUjZUSzNSMVpwSVlvc05icFhLTDlHazlnRnVBRVFiTnFJc084cU15VlFkcHB4U2FUMGdoZDFYYVhSQk9xUHBGeVRDYVhROUNGS0d3ZGZjS0QxZE54RFBFeGVPYWFVVDNBRHE1bU9fR1FEUTBBN2V4Q0l5ODh3Zmc?oc=5
+- Inside Indian Delegation That Will Visit Iran For Supreme Leader's Funeral - NDTV
+  Indian Delegation That Will Visit Iran For
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTc1VjdubUZnbUN1a0xyeUlzSERRcVJiR2ZzWEhyXzlwd2RCaUhDYzBINERrRk5ubWJqLS1NbDF2TUVRaVlOMEM1VEswbXdaSGU0NlIzWGxkS1h1R2NrOTdwZU5rejNBMHVQR3VOcTAtZzZXbEZDT2gwN1F5V1M4RlpqWVQ2Smo4TWRVY0ItTGppYlZ3YjJaeGIwMWQxN0dqMlJUeGtDb1FnSnpGOXY3R245SUvSAbwBQVVfeXFMUGp6cWJJb19XRzU4R05ORFpMWmIzZ3JpYmZFcjJMTXdyQ3hzUGJDbUhDZlFyOXdVU2pkRTVhUWczMEppcUh3S01xNERHekJJMjRNUUN0RDR5Rjd3UWRNVDZUdjU1cXAyU2RxeEdmWjlhNEVKb2VqZUdMZVpSNExLdHJyQTBkQ2UtTUduc2l4V3ZyLWU1c19VTDFoV1ZkQnZLeTh2TW9USU00VFl2UjJnZW9CR0hZUUFtejF2ZjE?oc=5
 
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
+  China Responds To India's Concerns
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
 
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+- Delhi Peak Power Demand Hits All-Time High Of 8,748 MW Amid Heatwave - NDTV
+  Delhi Peak Power Demand Hits All-Time High
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDdUdjcyczB3N0t6UVRsQVRjN0drT1V0RUg1Zjl5OEhSamVsblExMVdvYkxLSi0yRnQ1OXFNaGliUzBBNjFyVTgzRThlSjZ1ZkNEdWtub0haMnhVRG9uUVlOX2JzX1N4RUs3ZTNIT3dNbUZiRzl6TVl5a3FxSlZXWWoydmxtVVoxOHBHU2xLNkVLTC1WS3I1aVVQVUNDbUNjdXpLQnZIeGRoUFhiREHSAbYBQVVfeXFMTVBZMmxhSTRRNmFsR2dKX296RnJPLTR5eG5XRWVFZ3c3cWs4aWpNX3pEdnBMbjJkYXptZFRxRkVWdEYzeE0wX3kxY3JVZUN3NkZ5M1l0S1Q5TEd6d3JOY0JvQWp4QkJSVTBQd2xzRGl6UkpCMzM3VG4zS3p3U2lOQTZhZ01PaFRBMmZYd1FqT1dYR2h3S3dPb3B2N2ZXM0ZaZkZDR1ZqSEpTOENNeTB1cGduWWhiR1E?oc=5
 
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+- Safran vs Rolls-Royce: The AMCA engine race that could shape India's aerospace autonomy - The Times of India
+  The Times of India is a leading English-language newspaper in India.
+  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWE1vWVJpRDVLLXpnbExhU3ZfN3dPOW1FNjIySEJ2Qzk0VGZOYjNPeXVfVXluVXV0UmhpZHF2aGNnaXc4TmNzQTZ3QWFONzQtSVJVMm1ueWhGQUZoLXVSUkJST1A1eUt5WjNGZUx2Vm84S0twOEVnYlQ2R3ZsMGo0b1VqUW01SnN3SkhxRHpMOHdVQ0NVRVZuTkx4OE90OThYakVYWlduekRXZXpBR2RWc3MwOVlkcHlrSUdlSDFPWHpSalhGM3pmQXBHbWNwYVgxVjV1V2pRUVFsQ2hiVkh1anRyYzNadHc1YUdmS3J5SHo4d9IB9wFBVV95cUxOVUxzZTNLNEFDNFNndW1YeksyRjY4bDl3NmY0TUVMemVCTWdVX2dPbVd3TkFkSy04R0x0OXA0Z2dGaHh0Zm1mRFZBNkZBbEhOYmFyX0tKaWJJalo5dmxLQlVTcm53WHFZTG5DdGZjRXJUNEg5SllhOW0zekFjX2p1NUZsdFRGNWVPMlR2VDU4eXB1c3JtdkllMWZ6VDJLOWk3emtsSDlfWXhnRTJ2MlVacGpiMVBlY3lzM1I5cV9acG5JQTBRQ1lFdElnN09vSHNBclpBYVZjSVBWN1hKVDR5VkdPV1ExLXJzU1hQMFJpUktRc0tmbkxR?oc=5
 
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- South Korea unveils $880bn chip and AI investment plan - BBC
-  South Korea unveils $880bn
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN0EtSXZQQkI5UC1zMmR2SXdBTnNzMlV2YjV4UnBPa2I0aGZHbS1SM2Mxb3pWZEg5eGpseTFxS0lsMkdjb3Y1N05GNjRNSmFWQWdxaS1rVUF0Zw?oc=5
-
-- Comcast Announces Plans to Separate Media and Technology Businesses into Two Leading Public Companies - Comcast Corporation
-  Comcast Announces Plans to Separate Media and Technology Businesses
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWWVMeXR4bW5uMmY3ZEZOUkVQTThXRDM3cFB2UWFfRzE1R0VNSXQxN3pYVVgwQnhSRlFnV3hOWjgtYjNIeU5DbE82VS1Ja28ybjJhOXZzUHNpRlM0TWFlQmpmVmdsbEU5T3g4N3NSYVRicHlmOFpXVXhiVnlvUnpBSEpTZmJsM0JWS3RGamgzNlprNFdmVXQzZElMWWJkS3FzaUJYaHpEbXVIbS1fdW9IbnI1eXJTVTEwZU9ETUFBTFpNRkZWOWxENkpuamtmZ0FQRFJVOVBGdWpTZ3VuYnJN?oc=5
-
-- How Europe's heatwave is driving demand for cooling technology - news.cgtn.com
-  How Europe's heatwave is driving
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3dNTGg1RXRKM0hRLTFJNlozOUI3dEhWNFNmR0F6UnVPX0cxRFhpZkVEQWo3cktybEdBWDFvMTlESG1RT0pidDZXWlRsVmN4bW02cmV1WC1rbHpyUWYtUl9ZTWI4Z3JqOUNUVXFybGozM2ZTOE9Iclc1eXByemFfMy1aeHZyaVF3cExNMHBTT011ZGlKdWxHYU5fdWRYVklwb3lqbUF3cDBBaHN4RVFtTllvcE5zenh4LThJ?oc=5
-
-- India becomes first to produce hydrogen using nuclear heat. What is this technology? - ThePrint
-  India becomes first to produce hydrogen using nuclear heat.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTlnTF9lYXpvNUFGdnRXdFY0Z0dZNXpjVTZwMkY5U0FQX3B1VlJ4c0dJLUVtQm4tQlRValRmdDlnVGY4cDU1dUZ0aFNYRkFvQjVXdlJ4MUxXUEw3TTA2dFV3Yml3YjBmLWZxM0dKT2ExcS1yUkgyN1h0R0ItYWc2X1BoekYyb2fSAYwBQVVfeXFMTmt4N1pmaW9CNDV5NHJ3M3E3cXA4SUM0UjJJQVdaTDE4eDZ0YXp6YTJoeEROMkIzd0JSUVdCUXktZ0syUDZpYTZTYkFobUowa19yVzRqa3NNdTFYX01wUjV2VkUtNkVnVmhzUjI4a29hS3RGY3U1Q0xlZGFWdnRsdWRiRXM1TDlhRzhXWkI?oc=5
-
-- NextSTEP-3 A: Lunar Enabling Technology - NASA (.gov)
-  NextSTEP-3
-  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPTi0zN0tqcGNWbTJZNUlmTXBXZDY5UEp3Qm1GVTRCSU9FQTlDdDE5N3ZxVzBxUlQtTGxpRE5VVG5xMk0xYlFFalBxQnZpek95cHVpVUtzcjd4S1hPZm5zU2tndFp1X1NZU1lReHh3ampEWnl3MlRINXdGQjhfWDVtOWMycGc?oc=5
+- Inside Indian Delegation That Will Visit Iran For Supreme Leader's Funeral - NDTV
+  Indian Delegation That Will Visit Iran For
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTc1VjdubUZnbUN1a0xyeUlzSERRcVJiR2ZzWEhyXzlwd2RCaUhDYzBINERrRk5ubWJqLS1NbDF2TUVRaVlOMEM1VEswbXdaSGU0NlIzWGxkS1h1R2NrOTdwZU5rejNBMHVQR3VOcTAtZzZXbEZDT2gwN1F5V1M4RlpqWVQ2Smo4TWRVY0ItTGppYlZ3YjJaeGIwMWQxN0dqMlJUeGtDb1FnSnpGOXY3R245SUvSAbwBQVVfeXFMUGp6cWJJb19XRzU4R05ORFpMWmIzZ3JpYmZFcjJMTXdyQ3hzUGJDbUhDZlFyOXdVU2pkRTVhUWczMEppcUh3S01xNERHekJJMjRNUUN0RDR5Rjd3UWRNVDZUdjU1cXAyU2RxeEdmWjlhNEVKb2VqZUdMZVpSNExLdHJyQTBkQ2UtTUduc2l4V3ZyLWU1c19VTDFoV1ZkQnZLeTh2TW9USU00VFl2UjJnZW9CR0hZUUFtejF2ZjE?oc=5
 
 
-_Last updated: 2026-06-29 15:40:41 UTC_
+_Last updated: 2026-06-29 19:53:48 UTC_
