@@ -1,87 +1,91 @@
 # 📰 Daily News Summaries
 
-- When Indian Lieutenant, Pakistan Major swapped cigarettes, chocolate at Kargil
+- Heatwave bakes Delhi, North India; relief hope as IMD forecasts rain
   
-  🔗 https://indianexpress.com/article/india/when-indian-lieutenant-pakistan-major-swapped-cigarettes-chocolate-at-kargil-10763535/
+  🔗 https://indianexpress.com/article/india/delhi-north-india-heatwave-rain-forecast-imd-10764378/
 
-- Why teenaged girl from an Odisha hamlet died in Tamil Nadu unit 1,500 km from home
+- In-laws refuse help to search Bihar woman. Family found her headless body
   
-  🔗 https://indianexpress.com/article/india/girls-death-in-tamil-nadu-gas-leak-spotlights-desperate-migration-in-odisha-tribal-hamlet-10763614/
+  🔗 https://indianexpress.com/article/india/patna-bihar-banka-priyanka-kumari-murder-case-inlaws-arrested-10764340/
 
-- Kolkata Police to review ex-editor’s passport application file; Kerala CM urges Suvendu to step in
+- 23 Opposition parties write to Chief Justice of India over SIR
   
-  🔗 https://indianexpress.com/article/india/kolkata-police-to-review-ex-editor-r-rajagopals-passport-application-file-kerala-cm-v-d-satheesan-urges-suvendu-adhikari-to-step-in-10763630/
+  🔗 https://indianexpress.com/article/india/opposition-letter-cji-sir-eci-election-commission-conduct-10764144/
 
-- Courts must remain vigilant guardians of constitutional supremacy: CJI Surya Kant in Sweden
+- 747 foreign nationals held in India in drug cases, most from Nepal: Report
   
-  🔗 https://indianexpress.com/article/india/courts-must-remain-vigilant-guardians-of-constitutional-supremacy-cji-surya-kant-in-sweden-10763642/
+  🔗 https://indianexpress.com/article/india/ncb-annual-report-2025-foreign-nationals-arrested-india-narcotics-10763945/
 
-- Government sets up study group to strengthen film industry; Prasoon Joshi to lead team
+- Gold Rate Today, June 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/government-sets-up-study-group-to-strengthen-film-industry-prasoon-joshi-to-lead-team-10763572/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-june-30-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10763844/
 
-- WhatsApp begins username reservations, chat without sharing your phone number soon
+- Uber expands safety features in India with ambulance support, video recordings
   
-  🔗 https://indianexpress.com/article/technology/whatsapp-username-reservations-how-to-reserve-10763322/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/uber-india-surakshit-safety-conference-new-features-10764460/
 
-- Tech updates (June 29, 2026): Samsung Galaxy M47, Infinix Note 60 Pro, Salesforce, DashORM, and more
+- Kobo now syncs with StoryGraph, offering an alternative to Kindle-Goodreads
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-june-29-2026-samsung-galaxy-m47-infinix-note-60-pro-salesforce-dashorm-10763048/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/kobo-storygraph-integration-reading-progress-sync-10764338/
 
-- Total Solar Eclipse on August 12, 2026: Will it be visible in India? Here’s what to know
+- Sony hints at next PlayStation with possible handheld focus
   
-  🔗 https://indianexpress.com/article/technology/science/total-solar-eclipse-august-12-date-time-location-what-to-know-10763038/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-hints-at-next-playstation-with-possible-handheld-focus-10764285/
 
-- NASA’s James Webb telescope reveals millions of hidden stars in ‘Cigar’ galaxy: Why it matters
+- OpenAI teases first hardware product, set to launch July 15
   
-  🔗 https://indianexpress.com/article/technology/science/nasa-james-webb-telescope-hidden-stars-cigar-galaxy-10762981/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-teases-first-hardware-product-set-to-launch-july-15-10764238/
 
-- Former Apple, Audi execs build a $25,000 EV buggy that is unlike any other
+- WhatsApp rolls out usernames: How to claim yours before someone else does
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/amble-one-ev-buggy-former-apple-audi-execs-10762652/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-to-reserve-whatsapp-username-why-it-matters-10764128/
 
-- The great startup scramble for compliance clarity as privacy law deadline nears
-  Legal experts say confusion over exemptions, data governance, AI use, and vendor management is driving a surge in compliance requests.
-  🔗 https://www.livemint.com/companies/start-ups/startup-clarity-privacy-dpdp-ai-legal-compliance-11782724245590.html
+- BlaBlaCar bets on India growth, eyes subscription-led monetisation shift
+  An expanding network of national highways and expressways, rising car ownership and growing willingness to travel short distances have helped drive the company’
+  🔗 https://www.livemint.com/companies/blablacar-india-expansion-long-distance-carpooling-11782783395086.html
 
-- Layoff looms as Tech industry sheds over 1 lakh jobs in first half of 2026 amid AI-led cost cuts
-  Companies like Cloudflare, Cisco, and LinkedIn are also reducing staff
-  🔗 https://www.livemint.com/companies/news/layoff-looms-as-tech-industry-sheds-over-1-lakh-jobs-in-first-half-of-2026-amid-ai-led-cost-cuts-11782745148281.html
+- South Korea's KVIC courts Indian venture funds as allocation evolves to a more structured strategy
+  South Korean institutional investors and government funds like KVIC are scouting for partnerships with Indian VC firms. They are signaling a strategic shift toward funding India
+  🔗 https://www.livemint.com/companies/news/south-korean-investors-kvic-india-venture-capital-startups-deeptech-semiconductors-ai-11782791573995.html
 
-- Yes Bank plans to raise up to  ₹16,000 crore through equity, debt
-  The bank said these were enabling provisions and would be subject to shareholders’
-  🔗 https://www.livemint.com/companies/news/yes-bank-plans-to-raise-up-to-16-000-crore-through-equity-debt-11782742948422.html
+- Adani Ports sells 49% stake in Vizhinjam port to shipping major MSC's unit in $1.4 bn deal
+  Adani Ports will sell 49% stake in its Vizhinjam port to Mediterranean Shipping Co's unit for $1.4 billion. Partnership looks to increase traffic and improve
+  🔗 https://www.livemint.com/companies/adani-ports-stake-sale-vizhinjam-port-shipping-msc-11782797512118.html
 
-- Volkswagen layoffs: Work council says European carmaker cannot scrap job until 2030 amid 1 lakh job cuts plan
-  The works council insists the employee guarantee until 2030 must be upheld. Volkswagen's proposal to shut four German factories and cut up to 100,000
-  🔗 https://www.livemint.com/companies/news/volkswagen-layoffs-work-council-says-european-carmaker-cannot-scrap-job-until-2030-amid-1-lakh-job-cuts-plan-11782739466881.html
+- Vedanta Oil is investing to double output. Can it reverse a decade of decline?
+  The company aims to produce more than 150,000 barrels of oil equivalent per day (boepd) by FY29. That is up from 87,000
+  🔗 https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html
 
-- AI isn't the biggest regulatory worry for Indian startups, data governance is: Survey
-  44% of respondents identified data governance and digital trust regulations as their primary regulatory concern. The study was based on a survey of 550 ecosystem participants, including 350 startups,
-  🔗 https://www.livemint.com/companies/news/ai-isnt-the-biggest-regulatory-worry-for-indian-startups-data-governance-is-survey-11782730264762.html
+- Mid caps expected to trump the large caps again, this time through acquisitions
+  Indian mid-cap IT firms are using acquisitions to accelerate growth. They are positioning themselves to add more incremental revenue than larger peers
+  🔗 https://www.livemint.com/companies/indian-it-services-acquisitions-coforge-persistent-systems-mphasis-hexaware-infosys-wipro-tcs-hcltech-tech-mahindra-11782745821453.html
 
-- Stock market today: Gift Nifty hints muted start; US-Iran talks to global markets - 7 stocks to buy or sell
-  Sensex and Nifty 50 expected to open positively on Tuesday. Experts suggest cautious trading influenced by upcoming negotiations and regional developments.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-iran-talks-to-global-markets-7-stocks-to-buy-or-sell-11782783429732.html
+- Penny stock under  ₹10 hits 5% upper circuit. Details here
+  A-1 Limited's shares reached  ₹7.30, capped at a 5% limit, after becoming the primary dealer for Ishan Dyes
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-details-here-11782809584903.html
 
-- Buy or sell: Gift Nifty up, Vaishali Parekh recommends three stocks to buy today — 30 June 2026
-  Vaishali Parekh recommends three stocks to buy today
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-up-vaishali-parekh-recommends-three-stocks-to-buy-today-30-june-2026-11782784177767.html
+- Gold vs Silver: Which commodity offers better return potential in H2 CY26?
+  During the first half of CY26, Comex gold prices have fallen more than 7%, while silver has corrected over 16%. In the domestic market, while MCX gold price has gained roughly 4% on a in 2026
+  🔗 https://www.livemint.com/market/commodities/gold-vs-silver-which-commodity-offers-better-return-potential-in-h2-cy26-11782809412555.html
 
-- Stocks to watch: HDFC Bank, Bajaj Auto, Yes Bank among shares in focus today; check list here
-  On Monday, the Sensex declined 372.10 points, or 0.48%, to settle at 76,728.37
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-hdfc-bank-bajaj-auto-yes-bank-among-shares-in-focus-today-check-list-here-11782784812585.html
+- Upcoming IPO: Fibe parent Social Worth Technologies files DRHP with SEBI for IPO
+  Parent company of Fibe, Social Worth Technologies Ltd, filed for an IPO aiming to raise up to  ₹750 crore. Proceeds will support its subsidiary EarlySalary Services
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-fibe-parent-social-worth-technologies-files-drhp-with-sebi-for-ipo-11782809506549.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 30 June
-  Gift Nifty was trading around 23,994 level, a premium of nearly 21 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-30-june-11782784045317.html
+- Waaree Energies: US Customs’ ruling may be a temporary blip amid robust domestic outlook
+  Waaree Energies shares fell 4% following a US Customs ruling on tariff evasion for imports from Vietnam and Malaysia. Facing
+  🔗 https://www.livemint.com/market/mark-to-market/waaree-energies-us-customs-tariff-ruling-stock-impact-11782798074822.html
 
-- Crude oil prices fall on possible US-Iran talks; Brent near $72 per barrel
-  Brent crude futures for August delivery, set to expire on Tuesday, fell 1.
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-fall-on-possible-us-iran-talks-brent-near-72-per-barrel-11782783756605.html
+- Waterways Leisure Tourism IPO listing tomorrow. Here’s what GMP signals about share debut on Dalal Street
+  According to websites tracking grey market activity, the GMP today stands at - �
+  🔗 https://www.livemint.com/market/ipo/waterways-leisure-tourism-ipo-listing-tomorrow-here-s-what-gmp-signals-about-share-debut-on-dalal-street-11782805958782.html
 
-- WhatsApp to let users reserve usernames from this week: Here's how it works
-  WhatsApp introduces a username system to reduce the need to give in your phone numbers. The company is also allowing users to select
+- OnePlus N6 5G launched in India with 8,000mAh battery, Dimensity 6360 Apex processor: Check price and specs
+  The OnePlus N6 features a 6.75-inch HD display
+  🔗 https://www.livemint.com/technology/gadgets/oneplus-n6-5g-launched-in-india-with-8-000mah-battery-dimensity-6360-apex-processor-check-price-and-specs-11782802743259.html
+
+- WhatsApp to let users reserve usernames from next week: Here's how it works
+   WhatsApp introduces a username system to eliminate the need to share your phone number. The company will allow users to
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-to-let-users-reserve-usernames-from-this-week-heres-how-it-works-11782782244825.html
 
 - WhatsApp to let users chat without sharing phone numbers: Username feature coming soon
@@ -96,69 +100,45 @@
   Samsung has launched the Galaxy M47 5G in India with a price of  ₹22,999. The phone features a
   🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-m47-5g-launched-in-india-with-6-000mah-battery-50mp-ois-camera-11782719455467.html
 
-- Apple prepares smart glasses to take on Meta, launch tipped for next year
-  Apple could be looking to leverage its strong ecosystem to bring in buyers, a report claims. Apple is eyeing the smart glasses market
-  🔗 https://www.livemint.com/technology/gadgets/apple-prepares-smart-glasses-to-take-on-meta-launch-tipped-for-next-year-11782715814905.html
+- Stock Market News, June 29, 2026: Nasdaq Jumps 2%, Breaks Losing Streak - WSJ
+  The WSJ reports that Nasdaq Jumps 2
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5
 
-- PRISM’s IPO filing mentions Zostel case, CCI investigation
-  Sebi says 'adverse' outcome in legal proceedings involving Zostel may adversely affect its business, reputation, prospects, results of operation and financial condition.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-ipo-filing-mentions-zostel-case-cci-investigation/articleshow/132082095.cms
+- Stock futures inch higher after the Dow posts new record close: Live updates - CNBC
+  Stock futures inch higher after the Dow posts new record close
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9CM1dGdkpCSmFKeGFienZ2WDdlRDNrU3NuVTU1Sy03UVpYTFFNM3FpbjVqQ3c4amxIWUJiWkhDU0dVcjZkMk5VQW05bXZVanptT1dDUV82dENhdEl5cDM5T2RxYWlsbW0zamZIWXNhV0phU19RTE5B0gF8QVVfeXFMTnhTYUJ4MVBFanRjSUVBMS1KUm9GWTFGelpUdTVQb0RtTmwxaDVLOXVqR3ZwNE50RUxtWnZXVnJ5d3BfejdtVktGR3VhM3FGUndHNTBfcUNCcGVPTlZnUmRJc2RORjc0TEVSV1NPdDlXQjdkMDVpRFRndm9GTQ?oc=5
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bajaj-auto-zee-share-price-30-june-2026/liveblog/132082129.cms
+- Markets News, June 29, 2026: Dow Closes at Record; S&P 500, Nasdaq Rebound After Tech Sell-Off; Comcast Stock Surges on Plan to Split - Investopedia
+  The Dow closed at a record high for the first time ever on Tuesday.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlhNMlJCbk8tR0M0Z3V1VEFoUzM1eV9jbmg1X2VBNUJHODdKYlotaTJEbUNpc256QU1LTFBJWHd0c0drb3p6UEdRYi1iQkdReXltbnZMenpaNm96bGp3WkpYWG9PZ3EzQjVTeUhZT1JvTlNrQ1BJOXhldGhrU3BsT1pJM3RWbHJPOEw1Ym9EdmQ?oc=5
 
-- 6 IPOs opening for subscription today with GMPs up to 28%. Check all details
-  The fresh offerings come amid mixed investor interest in the SME segment. Listing performance has remained muted in recent weeks, prompting investors to focus more
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/6-ipos-opening-for-subscription-today-with-gmps-up-to-28-check-all-details/articleshow/132082045.cms
+- The Original Prediction Market Boosters Have Qualms About the Boom - Bloomberg.com
+  The original Prediction Market Boosters have Qual
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObS15MHVYZERRUW9JdjgtbE9CQXRQZGQ1ZWhjM0p3WEhfa0czd3I1QVRxUjBNbVVLTWxWczBaMGRrZENnRm04dmdGT01xRF96NDA4VGY5ZXF1SGtXOTV1a21HbEtPdTZiM3pmSkRydlVYaTB5RlFoNW1SNFVJUjNMVWstTDloUUNKaHBMTHhKRUJUWW9FTDhMM2gzWmotWE5jcW05ZVg4SHF3RW5yMndqUGo1OHZpM0Y0UHJOaUc0bmI?oc=5
 
-- Oil Price Today (June 30): Brent crude falls to $72/barrel as investors await US-Iran talks
-  Brent crude fell nearly 11% last week to mark its third week of loss. US West Texas ‌Intermediate (WTI) crude futures fell around 0.7% to $70.28 per barrel.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-30-brent-crude-falls-to-72/barrel-as-investors-await-us-iran-talks/articleshow/132082021.cms
+- 'If you spend all day in a fish market, you’ll carry the smell of fish': Harsh Goenka's shares an importan - The Economic Times
+  'If you spend all day in a fish market, you’ll carry the smell of fish
+  🔗 https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaFh3Ty12aHdXaWhObmdpZkNDdXZsQ19faWN3LU1uWmZpUE9RZ29ZWnA0ektXUmZBZHotNmZKaW9weFZGSGV0LW5sWEtQYlhMLW9YRkxuV042UFNSVHpaa0tQdDlCTXhlZlZNMnlNRll6YzBPUHhFOWpfOE5yRHBNWEVBS0Y3ZjFfbkpRUFd1RV94R1hORlBEeDNXaDlLSTFDMWMtUHBSRDBZbkNMQVhqcTVaamdEd1FhbFFlMzVZX1dSSEFTSXZKWHZfOVFnSmRJQ0pRMHg5RWdmQlNHdTUwMnl4NHJXQlNMV0JLV0N4blZXWWd0SEE1VWE4Y1h4b3pGT2pYWGxKZDBfXzNjOWM5X1dBWEdaZGswYUFvZDdFQTBDQ3lSZkhyd1pGVkQtNFJ5S3oxeFF1enVkb3lfTEdaeVJSd2FCVC12cmp3MGdXaDhYTnpEcXfSAc8CQVVfeXFMTXQ0MWRGOHZYSlhqV1d4cXRKQU9SSkQtUU96R1hJbVJWUnF6VXFNa3U0THRLY1BlWmxkZ0lDaTVtdlAydWJoZGtrWnhpdm1ublBiV2w2Zm5ScEUwWFRsT1gyTHREd0lGSC1vbDlIQmt1Rzlxd01CVklEbG1GMlpUT3lJb1JGMUJaLUlSWjBzaUEwWEVHVGtPTkdpOGhuNm85SFZYMmJkbV9sRVJ4cUNvNkxETE04U2NQZEZpWnd5d3pTejMxd2ZBeDFxWl9xaW4tekhKVWJKNG5aR3Fxa0tWZjdVcmlsWl9nZ2JmenQwXzJXX201WFJPTVhtSjNZTXp1eWFPMzBjbWZDT0xRbDh2N0JTck5Bb01oaF96clVuUVB5c0doRWtaMnNWTjBGdTBJQktybTRENEdaQkxjS2xHY0Y5emJfMG5NTzdZckFQYk0?oc=5
 
-- Positive Breakout: These 8 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily time frame,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/132081997.cms
+- Australian shares slip on inflation concerns, miners top drags
+  The benchmark S&amp;P/ASX 200 index closed 0.5% lower at 8,778.70 on the final trading day of the current financial year
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/australian-shares-slip-on-inflation-concerns-miners-top-drags/articleshow/132088823.cms
 
-- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
-  China Responds To India's Concerns
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
+- Water crisis ahead? PL Capital says water deficit creates Rs 20 lakh cr infra opportunity, picks 3 stocks
+  PL Capital expects sustained growth across water treatment, recycling and wastewater management. VA Tech Wabag, Enviro Infra Engineers and Denta Water are key beneficiaries.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/water-crisis-ahead-pl-capital-says-water-deficit-creates-rs-20-lakh-cr-infra-opportunity-picks-3-stocks/articleshow/132088642.cms
 
-- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
-  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
+- Europe's STOXX 600 on track for biggest quarterly gain in over five years on AI boost
+  European markets are soaring, marking their best quarterly performance in over five years. Optimism surrounding artificial intelligence and a de-escalation of Middle East tensions are fueling the rally. Technology stocks, particularly chipmakers like ASML and STMicro
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/europes-stoxx-600-on-track-for-biggest-quarterly-gain-in-over-five-years-on-ai-boost/articleshow/132088465.cms
 
-- Indian Army dismisses reports of PLA encroachment into Arunachal Pradesh - News On AIR
-  Indian Army dismisses reports of PLA encroachment into
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkNNQnBRbFVaWF92Uk1Oc0gxamZTVkxHcklRY3Fha0VMS1BSNjNhYS16WWxfR2ZyWF9lZjlkSnl4NndHYzFydnUtdU03X1U2UE0zQU5LWGxOX09xbDdwRjl4RTRtYmFDdzE1MG42cVVVSmcwaDJ3eFFJS0xtUzFrY2NDdzFGb21oODRmSDFnODNQLVRJMnF5OHM2WTh6eGc?oc=5
+- Pankaj Tibrewal sees stronger top-line growth driving India's next earnings cycle
+  Indian companies are poised to navigate input cost pressures and sustain growth. Experts anticipate stronger revenue growth than anticipated. Despite near-term challenges, double-digit Nifty earnings growth is projected.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/top-line-growth-could-surprise-as-india-inc-enters-a-new-earnings-cycle-pankaj-tibrewal/articleshow/132088290.cms
 
-- "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
-  "Blatant Act Of Aggression":
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
-
-- "Look Inwards": India Slams Pak Over "Baseless" Karachi Attack Claims - NDTV
-  "Look Inwards": India Slams
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFyeTVlMDBDNElpdzFGbGp3WC1KZ2NIdW9sWllQajBVamtqTnJ5MjQzeERtYjZORTBIRlNDa0RYUHFPRElDVk1ncFpsYi1ibnRpNUMyN2FQM0dOXzBHTmZXMlpUSmFLbEJib05LazNia2VRanA5d2FHUlBvc00wNE10bVJWSmtyTlZKaVlQbUN1VWZWZFR3dzJVR1NIMkV5LWpMS1lGTE1uS05WSlRmcGtRb9IBuwFBVV95cUxNejk1TzQ2Si04NnZ6S3BEODNxVjJPMHV6UTRmMEVwYWNXU1dMT3UyS3VVZDBtQVc2aVptS1pGbUd5WFhOU05aN3BWSmVjb1ZibWw1clZRZkZ0T05IWk5ncFViQ0tyTF95aFp3Z1pUQWV5NlpqWF9fcml1TlpYWVZVVjBibko1NXBuc1dQb2tCaEgyb1I4bGFHU3ZxTWx4WUxob0xOU3FucWcwVUhxTjlxQ0huX3JEZzhxaFBR?oc=5
-
-- Ecommerce’s Logistics Game, Nua Eyes $25 Mn & More
-  After ecommerce, Amazon and Flipkart are now locking horns in the logistics arena.
-  🔗 https://inc42.com/buzz/ecommerces-logistics-game-nua-eyes-25-mn-more/
-
-- 3one4 Capital Floats $15 Mn Fund To Back Under-Represented Founders
-  Venture capital (VC) firm 3one4 Capital has banded together with British International Investment (BII) to float a new $
-  🔗 https://inc42.com/buzz/3one4-capital-floats-15-mn-fund-to-back-under-represented-founders/
-
-- Kapture CX Bags $10 Mn To Take Its AI-Powered CRM Tools Global
-  AI-powered SaaS platform Kapture CX has raised $10 Mn (₹94.5 Cr) as part
-  🔗 https://inc42.com/buzz/kapture-cx-bags-10-mn-to-take-its-ai-powered-crm-tools-global/
-
-- Flipkart, Amazon Flex Logistics Muscles; Will It Bring New Growth Levers?
-  When Delhivery acquired Ecom Express in 2025, the Indian logistics industry read it as a consolidation play — a larger&#8230;
-  🔗 https://inc42.com/features/flipkart-amazon-flex-logistics-muscles-will-it-bring-new-growth-levers/
-
-- Exclusive: Lightbox-Backed Nua In Talks To Raise $25 Mn From Peak XV, Others
-  Lightbox-Backed Nua In Talks To Raise $25 Mn From Peak XV, Others. D2C femtech brand Nua is in talks to raise $20 Mn (about �
-  🔗 https://inc42.com/buzz/lightbox-backed-nua-in-talks-to-raise-25-mn-from-peak-xv-others/
+- Gold poised for biggest monthly drop since 2008 amid Fed rate hike expectations
+  Gold prices are experiencing a significant monthly drop, nearing their largest decline since 2008. This downturn is driven by expectations of Federal Reserve interest rate hikes aimed at controlling inflation. A strong US dollar further dampens gold's appeal as an inflation hedge
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gold-poised-for-biggest-monthly-drop-since-2008-amid-fed-rate-hike-expectations/articleshow/132087982.cms
 
 - China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
   China Responds To India's Concerns
@@ -168,17 +148,37 @@
   India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Indian Army dismisses reports of PLA encroachment into Arunachal Pradesh - News On AIR
-  Indian Army dismisses reports of PLA encroachment into
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkNNQnBRbFVaWF92Uk1Oc0gxamZTVkxHcklRY3Fha0VMS1BSNjNhYS16WWxfR2ZyWF9lZjlkSnl4NndHYzFydnUtdU03X1U2UE0zQU5LWGxOX09xbDdwRjl4RTRtYmFDdzE1MG42cVVVSmcwaDJ3eFFJS0xtUzFrY2NDdzFGb21oODRmSDFnODNQLVRJMnF5OHM2WTh6eGc?oc=5
+- Loved and loathed: The making of India's viral liver doctor - BBC
+  The viral liver doctor is a controversial figure
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
+
+- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
+  India strongly condemns air-strikes by Pakistan on Afghan
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
 
 - "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
   "Blatant Act Of Aggression":
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
 
-- "Look Inwards": India Slams Pak Over "Baseless" Karachi Attack Claims - NDTV
-  "Look Inwards": India Slams
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFyeTVlMDBDNElpdzFGbGp3WC1KZ2NIdW9sWllQajBVamtqTnJ5MjQzeERtYjZORTBIRlNDa0RYUHFPRElDVk1ncFpsYi1ibnRpNUMyN2FQM0dOXzBHTmZXMlpUSmFLbEJib05LazNia2VRanA5d2FHUlBvc00wNE10bVJWSmtyTlZKaVlQbUN1VWZWZFR3dzJVR1NIMkV5LWpMS1lGTE1uS05WSlRmcGtRb9IBuwFBVV95cUxNejk1TzQ2Si04NnZ6S3BEODNxVjJPMHV6UTRmMEVwYWNXU1dMT3UyS3VVZDBtQVc2aVptS1pGbUd5WFhOU05aN3BWSmVjb1ZibWw1clZRZkZ0T05IWk5ncFViQ0tyTF95aFp3Z1pUQWV5NlpqWF9fcml1TlpYWVZVVjBibko1NXBuc1dQb2tCaEgyb1I4bGFHU3ZxTWx4WUxob0xOU3FucWcwVUhxTjlxQ0huX3JEZzhxaFBR?oc=5
+- The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business
+  D2C kitchenware startup The Indus Valley has raised $17 Mn (around ₹161 Cr) in its Series B funding round.
+  🔗 https://inc42.com/buzz/the-indus-valley-raises-17-mn-to-scale-d2c-kitchenware-business/
+
+- Lending Tech Startup Fibe Files For ₹750 Cr IPO
+  Lending tech startup Fibe (formerly EarlySalary) has filed its DRHP with SEBI for an IPO which will comprise a fresh&#8230;.
+  🔗 https://inc42.com/buzz/lending-tech-startup-fibe-files-for-%e2%82%b9750-cr-ipo/
+
+- Ola Electric, Ather Energy Rally On Delhi’s ₹15,000 Cr EV Policy
+  Shares of EV companies gained in early trade today after the Delhi government approved the new EV policy aimed at&#8230.
+  🔗 https://inc42.com/buzz/ola-electric-ather-energy-rally-on-delhis-%e2%82%b915000-cr-ev-policy/
+
+- D2C’s New Media Playbook
+  Everybody wants to own the media, and the country’s fastest-growing new-age consumer brands are no exception. Faced with
+  🔗 https://inc42.com/features/d2cs-new-media-playbook/
+
+- OYO Parent PRISM Files Updated DRHP For ₹6,650 Cr IPO
+  Hospitality unicorn OYO’s parent PRISM has filed its updated draft red herring prospectus (UDRHP) with SEBI for a ₹6
+  🔗 https://inc42.com/buzz/oyo-parent-prism-files-updated-drhp-for-%e2%82%b96650-cr-ipo/
 
 - China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
   China Responds To India's Concerns
@@ -188,17 +188,37 @@
   India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Indian Army dismisses reports of PLA encroachment into Arunachal Pradesh - News On AIR
-  Indian Army dismisses reports of PLA encroachment into
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkNNQnBRbFVaWF92Uk1Oc0gxamZTVkxHcklRY3Fha0VMS1BSNjNhYS16WWxfR2ZyWF9lZjlkSnl4NndHYzFydnUtdU03X1U2UE0zQU5LWGxOX09xbDdwRjl4RTRtYmFDdzE1MG42cVVVSmcwaDJ3eFFJS0xtUzFrY2NDdzFGb21oODRmSDFnODNQLVRJMnF5OHM2WTh6eGc?oc=5
+- Loved and loathed: The making of India's viral liver doctor - BBC
+  The viral liver doctor is a controversial figure
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
+
+- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
+  India strongly condemns air-strikes by Pakistan on Afghan
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
 
 - "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
   "Blatant Act Of Aggression":
   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
 
-- "Look Inwards": India Slams Pak Over "Baseless" Karachi Attack Claims - NDTV
-  "Look Inwards": India Slams
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFyeTVlMDBDNElpdzFGbGp3WC1KZ2NIdW9sWllQajBVamtqTnJ5MjQzeERtYjZORTBIRlNDa0RYUHFPRElDVk1ncFpsYi1ibnRpNUMyN2FQM0dOXzBHTmZXMlpUSmFLbEJib05LazNia2VRanA5d2FHUlBvc00wNE10bVJWSmtyTlZKaVlQbUN1VWZWZFR3dzJVR1NIMkV5LWpMS1lGTE1uS05WSlRmcGtRb9IBuwFBVV95cUxNejk1TzQ2Si04NnZ6S3BEODNxVjJPMHV6UTRmMEVwYWNXU1dMT3UyS3VVZDBtQVc2aVptS1pGbUd5WFhOU05aN3BWSmVjb1ZibWw1clZRZkZ0T05IWk5ncFViQ0tyTF95aFp3Z1pUQWV5NlpqWF9fcml1TlpYWVZVVjBibko1NXBuc1dQb2tCaEgyb1I4bGFHU3ZxTWx4WUxob0xOU3FucWcwVUhxTjlxQ0huX3JEZzhxaFBR?oc=5
+- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
+  China Responds To India's Concerns
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
+
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
+
+- Loved and loathed: The making of India's viral liver doctor - BBC
+  The viral liver doctor is a controversial figure
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
+
+- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
+  India strongly condemns air-strikes by Pakistan on Afghan
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
+
+- "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
+  "Blatant Act Of Aggression":
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-30 02:52:23 UTC_
+_Last updated: 2026-06-30 09:28:39 UTC_
