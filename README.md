@@ -1,84 +1,84 @@
 # 📰 Daily News Summaries
 
-- PM Modi boosts maritime ties with Seychelles - The Times of India
-  PM Modi boosts maritime ties with Sey
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
+- After June deficit, July to see below-normal rainfall too: IMD
+  
+  🔗 https://indianexpress.com/article/india/imd-july-rainfall-forecast-june-rainfall-deficit-india-monsoon-el-nino-10765171/
 
-- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
+- Protest against ‘economic blockade’ in Manipur escalates as Kuki-Zo groups try to enter ‘buffer zone’
+  
+  🔗 https://indianexpress.com/article/india/protest-economic-blockade-manipur-kuki-zo-groups-buffer-zone-10765190/
 
-- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
-  PM Modi Chairs High-
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
+- India committed to safe, orderly, and legal migration: Jaishankar
+  
+  🔗 https://indianexpress.com/article/india/s-jaishankar-mobility-forum-legal-migration-emigrate-portal-silver-economy-10765123/
 
-- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
-  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
+- Amit Shah launches FCRA 2.0 portal: Monitoring foreign donations in real time gets a boost
+  
+  🔗 https://indianexpress.com/article/india/amit-shah-launches-fcra-2-portal-e-oci-card-10765069/
 
-- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
-  India’s Net External Liabilities Decline to 209.9
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
+- Are UP prisoners eating ‘unsafe’ spices? Report shows batch failed quality tests
+  
+  🔗 https://indianexpress.com/article/india/up-prisoners-unsafe-spices-quality-tests-10765046/
 
-- Anti-drug awareness programme held at Nehru Institute of Engineering and Technology in Coimbatore - The Hindu
-  Anti-drug awareness programme held at Nehru Institute of Engineering
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUWtEX0UtUjJKSTZBcGxIdTA0eXlKWFZ6TmJSNnNwU0NtYU5DeW1ab0NBMFdEZ19qcV9LaFg3aHA5NHMtUFlHZEtYN2ZHcHdxY1R4MFZRZ2RjTDhiWDV4RlZGQkpOc3dxTmZKTjVtMkE4ZURLT05ZdloxWUo3aHg5NlNyNDJrbklfbk9BOVRCcDY3dUVNRWg3NFdxOFB0djVPSnZkbmwwaXBDN3kxYWVaMERHSm82NjdSSzdEaGRqT0lSNUZKY2tSNGVmSFY0Y2hULTNxWkpUN0hwRDd6di1fdjBIWUFIYkd0SHF2Uk03aVBfc3lWRkJkVtIB_wFBVV95cUxNV0VsNEM0RjRGX0NqSE1mLTVTcFI3U1JMNTRmQlRIcE9vRWlWSTEtSkN4MkowaFlmU1ZULU5IWmY0MEFXQVU0d1htdHpvNWZEME1ZSEwzNk52RGZCd3B3UWFrTnoxQmI4ZlduT3pLOTZ5bWEzUUdXLU9paFRXYXRkSWQ3R3BHU2Z0R0E4U0ZMbHdXTzk5dW1BTFpnWkc3cFBYcldtQ1BXTGFFYTNPLXRzM2JLN0padmdyYUJWRHZKQTdINEFERHJSOU5Oc3pkYS1QZHRJNnRSTE81bm1JeDZoUTEzTFUxS1hXYlo1cFJJWVJEQlhxWnozSHVLc3hnaG8?oc=5
+- Japan’s Hayabusa2 prepares for record-close asteroid flyby on July 5
+  
+  🔗 https://indianexpress.com/article/technology/science/japans-hayabusa2-prepares-for-record-close-asteroid-flyby-on-july-5-10764891/
 
-- Gartner Identifies Top Supply Chain Technology Trends for 2026 - Gartner
-  Gartner Identifies Top Supply
-  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVZkX1BKWW1FYmU4b1NCbWNqYWl0U2NRdnc2SnVkbllSMy0xUDVVRTZmYUdJRDEtNFg3TnpvbU0ybXhiTVJSQm9PdGVmN01ZVUE2Y0wzd1lyTTQ0eDVuZXhpV3k0Y0d3WmJfUUNkRkpMdC1rUEllUE8wa1RBZFM0WldiY19hOV93d1Y2OGR1MDBfWUFTZkdZdEJGT0lpVlFnSUV2MXVfRWRBVVdraENOZTdVUVFmTEd2ek9TTk5WTG1VQQ?oc=5
+- Tech updates (June 30, 2026): OnePlus N6, Galaxy A27 5G, boltt smartphones, more
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-june-30-2026-oneplus-n6-galaxy-a27-5g-boltt-smartphones-more-10764897/
 
-- Valeo Secures Contract for Next-Generation Radar Technology with North American OEM - Valeo
-  Valeo Secures Contract for Next-
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVNQdWFCMGVsTXdYcTNlQ2hSNDFnT0lxNGlEa0ExRFBQNE1MXzBNWWRXcmROSlZ4V3doV2ZLZU1KM1o2VWVFVGRra1RkWWYxblJYaE5zSGtYSnFnS0Y4UnkyU1NoZkU3TllVRlJWYndoTHk1aDV4dm4xNy1oODhxdWk1NHhndjhmVEhaU19Xem5kdGtiNU1VVmphMHdYck1FX1ltQ1BBdzlkbHZIbHc?oc=5
+- WhatsApp Plus now in India: Price, features and everything you need to know
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/whatsapp-plus-now-in-india-price-features-and-everything-you-need-to-know-10764671/
 
-- NI firms to invest £8m in welding robots - BBC
-  NI firms to invest £8
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jYmhHTVBPR3gyODBjNk5KNTNKUFppUzJkSVFWNUpLdUI2WFRIOGxOc2laSkg1QlZxODAzaXZVT285MlB1RFlvZGVYZUhmekNHbWlTOXZLbHFhQQ?oc=5
+- Google makes Gemini’s personalised image generation free for eligible users in US
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/google-makes-geminis-personalised-image-generation-free-for-eligible-users-in-us-10764615/
 
-- Four days to make victims fall in love: How global scammers use US tech to fleece people - AP News
-  &nbsp;&ngt;<font color="#6f6f
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGFTRm9hWk9lTkJFcWVBOHZjUnhlc081RUN5UjBaWUNfM0lTOGZTX01Wa1BtODlmSGRaX3JYX0pUQjBmVjJCdlZSeERUQ1lFa2ZLWkEzREg1VERpOFhTZ0JoUmd1SkpFZW5IZGF3MXVzOFlmbEZZTXpMbXdWdnA2dFNkaGFIdVVmak9QUVVxZ3FxSlFRYlBWajVZRWFLSWgzTFBjMU5KUHA1Zm5I?oc=5
+- Apple’s future OLED Macs, iPads may deliver richer colours
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apples-future-oled-macs-ipads-may-deliver-richer-colours-10764626/
 
-- Mint Explainer | Can Zerodha crack India’s investment banking business?
-  A merchant banking licence would allow Zerodha to advise companies on fundraising, IPO and other capital market transactions. Can it carve out a niche in a business dominated by established
-  🔗 https://www.livemint.com/companies/news/zerodha-investment-banking-merchant-banking-broking-industry-india-11782816175320.html
+- Agnikul and Finland’s ICEYE team up to build and launch radar satellites from India
+  The partnership aims to cut reliance on foreign launch providers for strategic missions. It also aims to positioning India
+  🔗 https://www.livemint.com/companies/news/agnikul-cosmos-iceye-space-startups-india-11782805545828.html
 
-- Dalmia Bharat sees easing cost pressures, stays the course on expansion
-  Dalmia Bharat says West Asia tensions are easing, but the impact of the war
-  🔗 https://www.livemint.com/companies/news/dalmia-bharat-cement-industry-india-cement-prices-west-asia-war-11782810272533.html
+- Fibe’s IPO papers flag reliance on unsecured, repeat lending
+  The DRHP also shows large default loss guarantee payouts, signalling that the business is not just a pure fee-led f
+  🔗 https://www.livemint.com/companies/news/fibes-ipo-papers-flag-reliance-on-unsecured-repeat-lending-11782828846350.html
 
-- Flipkart bets on SuperCoins to outlast India's discount wars
-  Loyalty programmes are replacing one-time discounts as
-  🔗 https://www.livemint.com/companies/news/flipkart-supercoins-loyalty-programme-uber-rewards-ecosystem-ecommerce-strategy-11782811544515.html
+- ACME-IHI JV gets $3 billion CfD subsidy for Odisha green ammonia project
+  The Gopalpur project, with an annual capacity of 405,000 tonnes, will supply green ammonia to IHI Corp., as well as other Japanese customers.
+  🔗 https://www.livemint.com/companies/news/acmeihi-jv-gets-3-billion-cfd-subsidy-for-odisha-green-ammonia-hydrogen-project-11782828586409.html
 
-- Noel Tata steps down as Voltas chairman days after Trent exit
-  Noel Tata, 69, said this would be his last AGM as Chairman of Voltas.
-  🔗 https://www.livemint.com/companies/people/noel-tata-steps-down-as-voltas-chairman-days-after-trent-exit-11782816317293.html
+- Kotak Bank to buy Deutsche Bank’s India retail business for  ₹282 crore
+  Kotak Bank's acquisition of Deutsche Bank’s retail banking will add about  ₹29,000 crore in
+  🔗 https://www.livemint.com/companies/kotak-mahindra-bank-deutsche-bank-india-retail-business-wealth-management-11782825149925.html
 
-- Uber launches in-app ride video recording, ambulance feature in India; Nitin Gadkari lauds road safety push
-  The new announcements were made during Uber Surakshit: Safety Never Stops. Nitin Gadkari, Union Minister for Road Transport &amp;amp; Highways was the
-  🔗 https://www.livemint.com/companies/news/uber-launches-in-app-ride-video-recording-ambulance-feature-in-india-nitin-gadkari-lauds-road-safety-push-accidents-11782814940677.html
+- Rahul Bhatia hires trusted InterGlobe executive as IndiGo's new HR chief in latest leadership reshuffle
+  Kanwal Jeet Singh Bakshi will take charge on 20 July. He succeeds Sukh
+  🔗 https://www.livemint.com/companies/news/indigo-chro-appointment-rahul-bhatia-11782828568079.html
 
-- Wall Street opens little changed on final day of stellar quarter
-  The Dow Jones Industrial Average fell 0.03%, the S
+- Nike shares slip ahead of Q4 results as investors await signs of turnaround
+  Nike stock was trading 0.22% lower, down $0.09 at $41.39. The shares have fallen 34.66% so far this
+  🔗 https://www.livemint.com/market/stock-market-news/nike-shares-slip-ahead-of-q4-results-as-investors-await-signs-of-turnaround-11782838957570.html
+
+- KPIT Technologies flags weak June-quarter performance; margins under pressure
+  KPIT Technologies projects a revenue drop in Q1FY27 due to European OEM adjustments. Still, the company is optimistic for FY27, emphasizing strong business fundamentals
+  🔗 https://www.livemint.com/market/stock-market-news/kpit-technologies-flags-weak-june-quarter-performance-margins-under-pressure-11782837827469.html
+
+- Gold, silver rates today: Comex gold slips below $4,000, silver falls $1.6 amid US Fed rate hike fears
+  Gold and silver prices fluctuated on June 30. Gold fell to $3,955, nearing a 12% monthly decline. Silver dropped 21% in June, reflecting overall market correction.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-below-4-000-silver-falls-1-6-amid-us-fed-rate-hike-fears-11782831254381.html
+
+- AI-fuelled chip stock rally hits speed bump despite record quarterly gains
+  Micron, Intel, AMD, and Sandisk have faced pressure amid concerns about the sustainability of AI-driven stock performance. Despite recent declines, semiconductor stocks are still set for record
+  🔗 https://www.livemint.com/market/stock-market-news/aifuelled-chip-stock-rally-hits-speed-bump-despite-record-quarterly-gains-11782830140643.html
+
+- Wall Street edges higher on final day of stellar quarter, Nvidia rises 1%, Concentrix sheds 17.7%
+  The S&amp;amp;P 500 rose 0.3%, the Dow Jones Industrial Average was up
   🔗 https://www.livemint.com/market/stock-market-news/wall-street-opens-little-changed-on-final-day-of-stellar-quarter-11782827080180.html
-
-- Small-cap multibagger Cupid Ltd extends rally; stock surges 47% in June, 800% in a year
-  Cupid's stock surged 800% in the past year, fueled by strong investor interest. The company's revenue guidance for FY27 has been raised.
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-multibagger-cupid-ltd-extends-rally-stock-surges-47-in-june-800-in-a-year-11782824869515.html
-
-- US stocks poised for strongest quarterly performance in six years as AI optimism lifts markets
-  S&amp;amp;P 500 futures were up 0.2%, while Nasdaq 100 futures gained 0.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-poised-for-strongest-quarterly-performance-in-six-years-as-ai-optimism-lifts-markets-11782825017405.html
-
-- Nifty 50 sheds 9% in H1CY26: Is the Indian stock market ripe for a solid rebound in the second half of the year?
-  Nifty 50 has suffered a massive loss of almost 9% in the first half of the calendar year 2026. Experts predict a potential recovery for the Indian stock market in the latter half of
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sheds-9-in-h1cy26-is-the-indian-stock-market-ripe-for-a-solid-rebound-in-the-second-half-of-the-year-11782821838363.html
-
-- US stock market today: S&amp;P 500, Nasdaq edge higher as tech rally extends; Wall Street eyes strong H1 finish
-  US stock futures rose as technology and chip stocks continued to rebound. S&amp;amp;P 500 and Nasdaq 100 saw notable gains, driven by optimism in AI investments.
-  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-edge-higher-as-tech-rally-extends-wall-street-eyes-strong-h1-finish-11782818686713.html
 
 - Samsung Galaxy A27 5G debuts in India with 120Hz AMOLED display, price starts at  ₹28,999
   The Samsung Galaxy A27 5G features a 6.7-inch Full HD+ Super AM
@@ -100,6 +100,34 @@
   The iPhone 17 Pro, currently priced at  ₹1,34,900, could reportedly retail between  � 1,54,
   🔗 https://www.livemint.com/technology/will-iphone-17-pro-max-cost-nearly-rs-2-lakh-in-india-leak-suggests-so-11782740413634.html
 
+- Dow rises as index heads for best first half in 5 years, Nasdaq set for best quarter since 2020: Live updates - CNBC
+  Dow rises as index heads for best first half in 5 years. Nasdaq set for best
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9CM1dGdkpCSmFKeGFienZ2WDdlRDNrU3NuVTU1Sy03UVpYTFFNM3FpbjVqQ3c4amxIWUJiWkhDU0dVcjZkMk5VQW05bXZVanptT1dDUV82dENhdEl5cDM5T2RxYWlsbW0zamZIWXNhV0phU19RTE5B0gF8QVVfeXFMTnhTYUJ4MVBFanRjSUVBMS1KUm9GWTFGelpUdTVQb0RtTmwxaDVLOXVqR3ZwNE50RUxtWnZXVnJ5d3BfejdtVktGR3VhM3FGUndHNTBfcUNCcGVPTlZnUmRJc2RORjc0TEVSV1NPdDlXQjdkMDVpRFRndm9GTQ?oc=5
+
+- Iran war and AI boom drive wild ride on global markets - Reuters
+  Iran war and AI boom drive wild ride on
+  🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5
+
+- Stock Market Today: Nasdaq Advances, on Track to Wrap Quarter With 20% Gain - WSJ
+  Nasdaq on Track to Wrap Quarter With 20%
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWNqTm9mX0lhRWVFSElPSGVoamhzX3k3R3BCd2NvTFdaQUZ2c0R1b3hWWmYxc0wxN2JRUUZOaU5adElHTWJpeUZxNUUxVjVYQ1J6YjF1c2l1Y2xQbkc1WGstR0V0b0g0WEh1SlJJNlhJMnNuQ3NHNy1oc1B4YkMzQ1lQQmNjWWM?oc=5
+
+- China’s humanoid robots have captivated the world. A rental market is exposing their limits - CNN
+  China's humanoid robots have captivated the world. A rental
+  🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVlZRlFKOERXb0hkNDM3em5VRnBYZHlIZm1ob1Y1TEwxdjhPQS1WMUtuYi1iT1JGYnhnTWtraHNLRU9SaENVMTF0LXpzYnV2bmk4OWxQZlJYR09zQUhLcTFQaWpLd0IyTmg0RWlYWjlTNEdFVEVETHNmLU8zTXFDeHJSc3FJQQ?oc=5
+
+- Closing Bell: Sensex, Nifty end lower in volatile June expiry session; pharma, realty buck trend - Moneycontrol.com
+  The Sensex, Nifty end lower in volatile June expiry
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxPUm1mM0JveGZCQWdaYzVlYnRsX3hvaVJHbTZfWXFzUllvMFBkMFZyMjVyVjVVdkdqTTl6NlFrdFJfRXBPeWVsUTdseEhXSHZkRkh6QmxETG9TOWtsWEhqeXZ1RmJQYThFM0d3a2IwUUdQQU1qLXhJWWVpcWlWVlp6OHB2SkNHSGhpdW95SEQ0bGZNN0dBS2NiYzNFdGhSbVpRRzREQWVBb2hGY3BlVWdOdmJwSnp0VngzZUtPbkZvLXVlam5Dcm5hRjJqNVlyUVAtdEdiZGtYXzlXOEVzeTQ0d0N2SGNNMVJPdDNONTdfMDEtRjBFRFdNZ2RmNW5lZWRrWUp4bXE4WTM5aVZ2bURqWlRQd9IBmAJBVV95cUxNLTdHTk1GdDhkQjZXbEZra0ZGQS1xM3JqRV8wemtUVFlqLTY0ZDV6WDlzUTgxRTlOR2U5TV9NWUU3SlgtSmd5bFNQS2tGdkpRaGJnN0JmZnBSa05nYTZsSndJX19zTUowUjdtSVo2T19EdVJhckY2dE04V0swM2tSYjR0NVNKaXdpb1dETGFLQmxrRXk0Z3ZJcTBHb0lyTHR2UFFEUXhWX0IwNWV6R21WcnhYWjBlT2tUOHc1d1NDLW9MTWlyUnVWOWhiYk0wblBmZWRFM2xiQlpTSWxTV0VfVHMweF9lTDVBUjVILXk2NHlzNl85ZTBtdjZLRld1czVrdmlGNkJsdHhwU3pWNzVvcFJaNFJyeDVU?oc=5
+
+- Ahead of Market: 10 things that will decide stock market action on Wednesday
+  Sensex lost nearly 250 points and Nifty fell over 80. Analysts expect recovery if the index holds above the crucial 23,800 support level.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132096635.cms
+
+- Market Trading Guide: Ather Energy among 4 stocks to buy on Wednesday
+  Nifty ended 80 points lower on monthly expiry, forming a bearish candle. Analysts maintained a positive outlook above the 21-DMA. They recommended ITC Hot
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ather-energy-among-4-stocks-to-buy-on-wednesday/slideshow/132095942.cms
+
 - US Stocks: Oppenheimer makes rare cuts to top US investment banks, backs alternative asset managers
   Oppenheimer has downgraded major U.S. investment banks like Goldman Sachs and Morgan Stanley. The brokerage advises selling these large-cap banks and instead investing in alternative asset managers.
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-oppenheimer-makes-rare-cuts-to-top-us-investment-banks-backs-alternative-asset-managers/articleshow/132094565.cms
@@ -108,37 +136,37 @@
   Indian equities are showing signs of a potential rebound, with attractive valuations and improved currency stability. Sectors like manufacturing and healthcare are highlighted as promising, while caution is advised for oil &amp; gas and IT services.
   🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-underperformance-sets-stage-for-recovery-says-jm-financials-deepak-gupta/articleshow/132094438.cms
 
-- US stocks today: US stocks subdued at open on final trading day of strong quarter
-  Wall Street's main indexes opened flat on Tuesday. Tuesday was the final trading ‌day of
+- US stocks today: US stocks  set for strongest quarter in years as risk appetite holds despite US-Iran war
+  US stock markets are showing remarkable strength, with major indexes poised for their best quarterly gains in years. Investors remain optimistic about a continued bull run, with a recent dip in tech stocks potentially
   🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-at-open-on-final-trading-day-of-strong-quarter/articleshow/132094399.cms
 
-- European Securities authority approves recognition for India clearing corporation
-  The European Securities and Markets Authority has granted essential recognition to India's Clearing Corporation, putting an end to a prolonged dispute. By signing a memorandum of understanding, this resolution avoids possible capital adequacy complications for financial institutions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/european-securities-authority-approves-recognition-for-india-clearing-corporation/articleshow/132093727.cms
+- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
+  Delhi High Court cancels bail of school staffer in minor rape case.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
 
-- Quote of the day by Edward Thorp: "Hoaxes, frauds, manias, and other large-scale financial irrationalities have been with us from the beginnings of the markets in the seventeenth century, long before the Internet."
-  Financial markets have historically succumbed to waves of greed and fear. Edward Thorp's insights confirm that human emotions, not just technology, drive speculative bubbles.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edward-thorp-hoaxes-frauds-manias-and-other-large-scale-financial-irrationalities-have-been-with-us-from-the-beginnings-of-the-markets-in-the-seventeenth-century-long-before-the-internet-/articleshow/132083945.cms
+- Assam Launches Drive Against Illegal Sawmills, Forest Minister Warns Of Action - NDTV
+  Assam Launches Drive Against Illegal Sawm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2dqX3pXZUNITmxVSzczQTlTMW1Wbk82NnJYOVVCb3Mxa0dnMXc4bkVadmptVmRfcEtzeWVoS2MzSE43dHhvWTN2dW04REJ5RG0xODJXQ1k1NTRjN0QwUk5mUHc2MHZyaEJnWmFlR2VsWlhXeTItOEN5UkhiN1d4a0RubUp4RXhCSldNTkFaRUE1X0FYZlBPZVFIS19fa1N6Y1Nfbjl3M3lpLUxuRlhLak5Rb3RpbVNva2fSAcIBQVVfeXFMUEdMSHNxZDFDdmxMa1RMazkyeFZ4NjZIZ2l3SXk2MzVXREN1b1BEbDVQdnkwbkRZa3VBeFR0aW02eXNVLVlBNjNQNjB5MjFWaEthVkFIN2lfNmVXSjhsM2tTQ0hPSnY3T1RfMUZQSm9feGxucGM3WE9rUVdXZzVuYVl0dXYyX1Z5M2s2eEdFNnpoWGk2NG9iOUhLMGtESzVuRWNDVzVBaXVTamU0THRTd2FUQkZUNS1YQUhaal9NM0xtaEE?oc=5
 
-- PM Modi boosts maritime ties with Seychelles - The Times of India
-  PM Modi boosts maritime ties with Sey
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
+- In Graphics: How GST cuts triggered a rally for Indian businesses - The Economic Times
+  The Economic Times reports that the GST cuts triggered a
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxOX0RMcGRveXh5OXRWc2pYOWdiS0YwQkJRMWRJdGNLNi11MlZXZ3NsWFpCMEp4ZDhzZXYzemx0bWpGSk5nRmpKLXNUWThRd1pEUkJMcGxpOXBpMFppdWpxcm9uVFJHQ0NKcjQwbWpYSEhnN2RKczg3QUZJczlfdXY5MnpEMjg4N3A3YUJaQ2FRTzBnXzVwY1pwbUVEWTgxdjlyX1BpWFZkSi1uV2pzQWFXUGhPR3VkUDRNRHh5bWhycXFzNXBRNk1pWnZrZEk2WVBMeU9ZOEMzQWxiMzRJQnJIMjZKUDd1c0FVeHdkR2l3R3hseGFBOFloN0pKdGZuMVgwblUxVmY1NU93dEdRWUF5MGJMbmpIZHM3TFVzY2V0Mm9qaWVqeDloTVJtY0QyWWx4b2RfQXZzUWlUQ2Z0RVHSAdoBQVVfeXFMUENEM3pfSnVKbTZ1VDBJNEZVdkR5cGVXazc3eGN2WVJpb3laQmo2dUtwaGc5MDYzWlJqRE9pM29Pc21ZclU4d0hZanhmN1pYMzBmSV9kWEdOT0QwTzdQdDhMVGZHUDNmZjJHOGtwS2xRLTVZOE43MGRhQmpVMGR2UXRndE52YnJ5VUM1bDdqY25FSlVja0FCdkRNM1o5TlRzb2Q1eXlpX016MW9MY1BnQ2s2cXFQdlhnUzlIc01XclNrM0Y5c0h6bVNFcWwxTU41QllfNkx3ak5XY1E?oc=5
 
-- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
+- What NSE and Jio Platforms IPOs reveal about India's changing economy - BBC
+  What NSE and Jio Platforms IP
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcHF4eGNDQUJraW9NdHEyaW5ueHhZcUF3QUdKNjVnS1pYbTM0QVFWcV9qaG45d0E1TFJvMEVmNWxOUG03M280NTVtSGp5MHJDa1FBemZZZ2pyUQ?oc=5
 
-- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
-  PM Modi Chairs High-
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
+- Government announces major initiatives to strengthen Indian film industry - News On AIR
+  Government announces major initiatives to strengthen Indian film industry
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDZVM0JTQ21CanZxRDZSTHRQYkRRYWNTMTFqTGg4alZ0UmVkU0pHSTVJWnQ5T0ZfamhIcVJjRk9zXzd4M1Q3SXl4OFBBWnpvbFFZcDhsTFVqRGJLaFBaV0J4QlpzRXVPWTRpMlZtS2syTnF5QVlwdHNEOHNpeG5LSlBGU3BTaHU5X3c1OU85U0x4RHdRMk5RZlh0RXJidEk0?oc=5
 
-- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
-  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
+- A Look At PRISM’s Legal Battles
+  OYO Parent PRISM files updated draft red herring prospectus (UDRHP) with the SEBI. OYO-parent PRISM has set its sight to list.
+  🔗 https://inc42.com/buzz/from-human-trafficking-case-to-feud-with-zostel-a-look-at-prisms-legal-battles/
 
-- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
-  India’s Net External Liabilities Decline to 209.9
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
+- Indian Startup Funding Slips 9% To $5.2 Bn In H1 2026
+  Indian Startup Funding Slips 9% To $5.2 Bn In H1 2026.
+  🔗 https://inc42.com/features/indian-startup-funding-slips-9-to-5-2-bn-in-h1-2026/
 
 - IPO-Bound Fibe’s FY26 PAT More Than Doubles To ₹257 Cr
   Ahead of filing for an IPO, digital lending startup Fibe posted its strongest financial performance yet.
@@ -152,33 +180,45 @@
   Electric two-wheeler (E2W) registrations continued to see tepid growth in June, with total sales rising 5% to 1.81 Lakh units.
   🔗 https://inc42.com/buzz/e2w-registrations-grow-5-mom-in-june-to-1-81-lakh-units-tvs-retains-top-spot/
 
-- Tata Electronics Data Breach Exposed Apple’s iPhone 18 Pro Supply Chain: Report
-  Apple&#8217;s closely guarded supply chain was reportedly exposed after sensitive supplier lists, component details, and alleged images of its upcoming products were leaked.
-  🔗 https://inc42.com/buzz/tata-electronics-data-breach-exposed-apples-iphone-18-pro-supply-chain-report/
+- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
+  Delhi High Court cancels bail of school staffer in minor rape case.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
 
-- The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business
-  D2C kitchenware startup The Indus Valley has raised $17 Mn (around ₹161 Cr) in its Series B funding round.
-  🔗 https://inc42.com/buzz/the-indus-valley-raises-17-mn-to-scale-d2c-kitchenware-business/
+- Assam Launches Drive Against Illegal Sawmills, Forest Minister Warns Of Action - NDTV
+  Assam Launches Drive Against Illegal Sawm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2dqX3pXZUNITmxVSzczQTlTMW1Wbk82NnJYOVVCb3Mxa0dnMXc4bkVadmptVmRfcEtzeWVoS2MzSE43dHhvWTN2dW04REJ5RG0xODJXQ1k1NTRjN0QwUk5mUHc2MHZyaEJnWmFlR2VsWlhXeTItOEN5UkhiN1d4a0RubUp4RXhCSldNTkFaRUE1X0FYZlBPZVFIS19fa1N6Y1Nfbjl3M3lpLUxuRlhLak5Rb3RpbVNva2fSAcIBQVVfeXFMUEdMSHNxZDFDdmxMa1RMazkyeFZ4NjZIZ2l3SXk2MzVXREN1b1BEbDVQdnkwbkRZa3VBeFR0aW02eXNVLVlBNjNQNjB5MjFWaEthVkFIN2lfNmVXSjhsM2tTQ0hPSnY3T1RfMUZQSm9feGxucGM3WE9rUVdXZzVuYVl0dXYyX1Z5M2s2eEdFNnpoWGk2NG9iOUhLMGtESzVuRWNDVzVBaXVTamU0THRTd2FUQkZUNS1YQUhaal9NM0xtaEE?oc=5
 
-- PM Modi boosts maritime ties with Seychelles - The Times of India
-  PM Modi boosts maritime ties with Sey
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
+- In Graphics: How GST cuts triggered a rally for Indian businesses - The Economic Times
+  The Economic Times reports that the GST cuts triggered a
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxOX0RMcGRveXh5OXRWc2pYOWdiS0YwQkJRMWRJdGNLNi11MlZXZ3NsWFpCMEp4ZDhzZXYzemx0bWpGSk5nRmpKLXNUWThRd1pEUkJMcGxpOXBpMFppdWpxcm9uVFJHQ0NKcjQwbWpYSEhnN2RKczg3QUZJczlfdXY5MnpEMjg4N3A3YUJaQ2FRTzBnXzVwY1pwbUVEWTgxdjlyX1BpWFZkSi1uV2pzQWFXUGhPR3VkUDRNRHh5bWhycXFzNXBRNk1pWnZrZEk2WVBMeU9ZOEMzQWxiMzRJQnJIMjZKUDd1c0FVeHdkR2l3R3hseGFBOFloN0pKdGZuMVgwblUxVmY1NU93dEdRWUF5MGJMbmpIZHM3TFVzY2V0Mm9qaWVqeDloTVJtY0QyWWx4b2RfQXZzUWlUQ2Z0RVHSAdoBQVVfeXFMUENEM3pfSnVKbTZ1VDBJNEZVdkR5cGVXazc3eGN2WVJpb3laQmo2dUtwaGc5MDYzWlJqRE9pM29Pc21ZclU4d0hZanhmN1pYMzBmSV9kWEdOT0QwTzdQdDhMVGZHUDNmZjJHOGtwS2xRLTVZOE43MGRhQmpVMGR2UXRndE52YnJ5VUM1bDdqY25FSlVja0FCdkRNM1o5TlRzb2Q1eXlpX016MW9MY1BnQ2s2cXFQdlhnUzlIc01XclNrM0Y5c0h6bVNFcWwxTU41QllfNkx3ak5XY1E?oc=5
 
-- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
-  &nbsp;<font color="#
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
+- What NSE and Jio Platforms IPOs reveal about India's changing economy - BBC
+  What NSE and Jio Platforms IP
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcHF4eGNDQUJraW9NdHEyaW5ueHhZcUF3QUdKNjVnS1pYbTM0QVFWcV9qaG45d0E1TFJvMEVmNWxOUG03M280NTVtSGp5MHJDa1FBemZZZ2pyUQ?oc=5
 
-- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
-  PM Modi Chairs High-
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
+- Government announces major initiatives to strengthen Indian film industry - News On AIR
+  Government announces major initiatives to strengthen Indian film industry
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDZVM0JTQ21CanZxRDZSTHRQYkRRYWNTMTFqTGg4alZ0UmVkU0pHSTVJWnQ5T0ZfamhIcVJjRk9zXzd4M1Q3SXl4OFBBWnpvbFFZcDhsTFVqRGJLaFBaV0J4QlpzRXVPWTRpMlZtS2syTnF5QVlwdHNEOHNpeG5LSlBGU3BTaHU5X3c1OU85U0x4RHdRMk5RZlh0RXJidEk0?oc=5
 
-- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
-  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
+- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
+  Delhi High Court cancels bail of school staffer in minor rape case.
+  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
 
-- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
-  India’s Net External Liabilities Decline to 209.9
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
+- Assam Launches Drive Against Illegal Sawmills, Forest Minister Warns Of Action - NDTV
+  Assam Launches Drive Against Illegal Sawm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2dqX3pXZUNITmxVSzczQTlTMW1Wbk82NnJYOVVCb3Mxa0dnMXc4bkVadmptVmRfcEtzeWVoS2MzSE43dHhvWTN2dW04REJ5RG0xODJXQ1k1NTRjN0QwUk5mUHc2MHZyaEJnWmFlR2VsWlhXeTItOEN5UkhiN1d4a0RubUp4RXhCSldNTkFaRUE1X0FYZlBPZVFIS19fa1N6Y1Nfbjl3M3lpLUxuRlhLak5Rb3RpbVNva2fSAcIBQVVfeXFMUEdMSHNxZDFDdmxMa1RMazkyeFZ4NjZIZ2l3SXk2MzVXREN1b1BEbDVQdnkwbkRZa3VBeFR0aW02eXNVLVlBNjNQNjB5MjFWaEthVkFIN2lfNmVXSjhsM2tTQ0hPSnY3T1RfMUZQSm9feGxucGM3WE9rUVdXZzVuYVl0dXYyX1Z5M2s2eEdFNnpoWGk2NG9iOUhLMGtESzVuRWNDVzVBaXVTamU0THRTd2FUQkZUNS1YQUhaal9NM0xtaEE?oc=5
+
+- In Graphics: How GST cuts triggered a rally for Indian businesses - The Economic Times
+  The Economic Times reports that the GST cuts triggered a
+  🔗 https://news.google.com/rss/articles/CBMivgJBVV95cUxOX0RMcGRveXh5OXRWc2pYOWdiS0YwQkJRMWRJdGNLNi11MlZXZ3NsWFpCMEp4ZDhzZXYzemx0bWpGSk5nRmpKLXNUWThRd1pEUkJMcGxpOXBpMFppdWpxcm9uVFJHQ0NKcjQwbWpYSEhnN2RKczg3QUZJczlfdXY5MnpEMjg4N3A3YUJaQ2FRTzBnXzVwY1pwbUVEWTgxdjlyX1BpWFZkSi1uV2pzQWFXUGhPR3VkUDRNRHh5bWhycXFzNXBRNk1pWnZrZEk2WVBMeU9ZOEMzQWxiMzRJQnJIMjZKUDd1c0FVeHdkR2l3R3hseGFBOFloN0pKdGZuMVgwblUxVmY1NU93dEdRWUF5MGJMbmpIZHM3TFVzY2V0Mm9qaWVqeDloTVJtY0QyWWx4b2RfQXZzUWlUQ2Z0RVHSAdoBQVVfeXFMUENEM3pfSnVKbTZ1VDBJNEZVdkR5cGVXazc3eGN2WVJpb3laQmo2dUtwaGc5MDYzWlJqRE9pM29Pc21ZclU4d0hZanhmN1pYMzBmSV9kWEdOT0QwTzdQdDhMVGZHUDNmZjJHOGtwS2xRLTVZOE43MGRhQmpVMGR2UXRndE52YnJ5VUM1bDdqY25FSlVja0FCdkRNM1o5TlRzb2Q1eXlpX016MW9MY1BnQ2s2cXFQdlhnUzlIc01XclNrM0Y5c0h6bVNFcWwxTU41QllfNkx3ak5XY1E?oc=5
+
+- What NSE and Jio Platforms IPOs reveal about India's changing economy - BBC
+  What NSE and Jio Platforms IP
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcHF4eGNDQUJraW9NdHEyaW5ueHhZcUF3QUdKNjVnS1pYbTM0QVFWcV9qaG45d0E1TFJvMEVmNWxOUG03M280NTVtSGp5MHJDa1FBemZZZ2pyUQ?oc=5
+
+- Government announces major initiatives to strengthen Indian film industry - News On AIR
+  Government announces major initiatives to strengthen Indian film industry
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDZVM0JTQ21CanZxRDZSTHRQYkRRYWNTMTFqTGg4alZ0UmVkU0pHSTVJWnQ5T0ZfamhIcVJjRk9zXzd4M1Q3SXl4OFBBWnpvbFFZcDhsTFVqRGJLaFBaV0J4QlpzRXVPWTRpMlZtS2syTnF5QVlwdHNEOHNpeG5LSlBGU3BTaHU5X3c1OU85U0x4RHdRMk5RZlh0RXJidEk0?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -209,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-30 14:11:41 UTC_
+_Last updated: 2026-06-30 19:51:22 UTC_
