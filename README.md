@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Heatwave bakes Delhi, North India; relief hope as IMD forecasts rain
-  
-  🔗 https://indianexpress.com/article/india/delhi-north-india-heatwave-rain-forecast-imd-10764378/
+- PM Modi boosts maritime ties with Seychelles - The Times of India
+  PM Modi boosts maritime ties with Sey
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
 
-- In-laws refuse help to search Bihar woman. Family found her headless body
-  
-  🔗 https://indianexpress.com/article/india/patna-bihar-banka-priyanka-kumari-murder-case-inlaws-arrested-10764340/
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- 23 Opposition parties write to Chief Justice of India over SIR
-  
-  🔗 https://indianexpress.com/article/india/opposition-letter-cji-sir-eci-election-commission-conduct-10764144/
+- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
+  PM Modi Chairs High-
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
 
-- 747 foreign nationals held in India in drug cases, most from Nepal: Report
-  
-  🔗 https://indianexpress.com/article/india/ncb-annual-report-2025-foreign-nationals-arrested-india-narcotics-10763945/
+- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
+  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Gold Rate Today, June 30: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
-  
-  🔗 https://indianexpress.com/article/india/gold-rate-today-june-30-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10763844/
+- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
+  India’s Net External Liabilities Decline to 209.9
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
 
-- Uber expands safety features in India with ambulance support, video recordings
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/uber-india-surakshit-safety-conference-new-features-10764460/
+- Anti-drug awareness programme held at Nehru Institute of Engineering and Technology in Coimbatore - The Hindu
+  Anti-drug awareness programme held at Nehru Institute of Engineering
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUWtEX0UtUjJKSTZBcGxIdTA0eXlKWFZ6TmJSNnNwU0NtYU5DeW1ab0NBMFdEZ19qcV9LaFg3aHA5NHMtUFlHZEtYN2ZHcHdxY1R4MFZRZ2RjTDhiWDV4RlZGQkpOc3dxTmZKTjVtMkE4ZURLT05ZdloxWUo3aHg5NlNyNDJrbklfbk9BOVRCcDY3dUVNRWg3NFdxOFB0djVPSnZkbmwwaXBDN3kxYWVaMERHSm82NjdSSzdEaGRqT0lSNUZKY2tSNGVmSFY0Y2hULTNxWkpUN0hwRDd6di1fdjBIWUFIYkd0SHF2Uk03aVBfc3lWRkJkVtIB_wFBVV95cUxNV0VsNEM0RjRGX0NqSE1mLTVTcFI3U1JMNTRmQlRIcE9vRWlWSTEtSkN4MkowaFlmU1ZULU5IWmY0MEFXQVU0d1htdHpvNWZEME1ZSEwzNk52RGZCd3B3UWFrTnoxQmI4ZlduT3pLOTZ5bWEzUUdXLU9paFRXYXRkSWQ3R3BHU2Z0R0E4U0ZMbHdXTzk5dW1BTFpnWkc3cFBYcldtQ1BXTGFFYTNPLXRzM2JLN0padmdyYUJWRHZKQTdINEFERHJSOU5Oc3pkYS1QZHRJNnRSTE81bm1JeDZoUTEzTFUxS1hXYlo1cFJJWVJEQlhxWnozSHVLc3hnaG8?oc=5
 
-- Kobo now syncs with StoryGraph, offering an alternative to Kindle-Goodreads
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/kobo-storygraph-integration-reading-progress-sync-10764338/
+- Gartner Identifies Top Supply Chain Technology Trends for 2026 - Gartner
+  Gartner Identifies Top Supply
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTVZkX1BKWW1FYmU4b1NCbWNqYWl0U2NRdnc2SnVkbllSMy0xUDVVRTZmYUdJRDEtNFg3TnpvbU0ybXhiTVJSQm9PdGVmN01ZVUE2Y0wzd1lyTTQ0eDVuZXhpV3k0Y0d3WmJfUUNkRkpMdC1rUEllUE8wa1RBZFM0WldiY19hOV93d1Y2OGR1MDBfWUFTZkdZdEJGT0lpVlFnSUV2MXVfRWRBVVdraENOZTdVUVFmTEd2ek9TTk5WTG1VQQ?oc=5
 
-- Sony hints at next PlayStation with possible handheld focus
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sony-hints-at-next-playstation-with-possible-handheld-focus-10764285/
+- Valeo Secures Contract for Next-Generation Radar Technology with North American OEM - Valeo
+  Valeo Secures Contract for Next-
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVNQdWFCMGVsTXdYcTNlQ2hSNDFnT0lxNGlEa0ExRFBQNE1MXzBNWWRXcmROSlZ4V3doV2ZLZU1KM1o2VWVFVGRra1RkWWYxblJYaE5zSGtYSnFnS0Y4UnkyU1NoZkU3TllVRlJWYndoTHk1aDV4dm4xNy1oODhxdWk1NHhndjhmVEhaU19Xem5kdGtiNU1VVmphMHdYck1FX1ltQ1BBdzlkbHZIbHc?oc=5
 
-- OpenAI teases first hardware product, set to launch July 15
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-teases-first-hardware-product-set-to-launch-july-15-10764238/
+- NI firms to invest £8m in welding robots - BBC
+  NI firms to invest £8
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jYmhHTVBPR3gyODBjNk5KNTNKUFppUzJkSVFWNUpLdUI2WFRIOGxOc2laSkg1QlZxODAzaXZVT285MlB1RFlvZGVYZUhmekNHbWlTOXZLbHFhQQ?oc=5
 
-- WhatsApp rolls out usernames: How to claim yours before someone else does
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-to-reserve-whatsapp-username-why-it-matters-10764128/
+- Four days to make victims fall in love: How global scammers use US tech to fleece people - AP News
+  &nbsp;&ngt;<font color="#6f6f
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGFTRm9hWk9lTkJFcWVBOHZjUnhlc081RUN5UjBaWUNfM0lTOGZTX01Wa1BtODlmSGRaX3JYX0pUQjBmVjJCdlZSeERUQ1lFa2ZLWkEzREg1VERpOFhTZ0JoUmd1SkpFZW5IZGF3MXVzOFlmbEZZTXpMbXdWdnA2dFNkaGFIdVVmak9QUVVxZ3FxSlFRYlBWajVZRWFLSWgzTFBjMU5KUHA1Zm5I?oc=5
 
-- BlaBlaCar bets on India growth, eyes subscription-led monetisation shift
-  An expanding network of national highways and expressways, rising car ownership and growing willingness to travel short distances have helped drive the company’
-  🔗 https://www.livemint.com/companies/blablacar-india-expansion-long-distance-carpooling-11782783395086.html
+- Mint Explainer | Can Zerodha crack India’s investment banking business?
+  A merchant banking licence would allow Zerodha to advise companies on fundraising, IPO and other capital market transactions. Can it carve out a niche in a business dominated by established
+  🔗 https://www.livemint.com/companies/news/zerodha-investment-banking-merchant-banking-broking-industry-india-11782816175320.html
 
-- South Korea's KVIC courts Indian venture funds as allocation evolves to a more structured strategy
-  South Korean institutional investors and government funds like KVIC are scouting for partnerships with Indian VC firms. They are signaling a strategic shift toward funding India
-  🔗 https://www.livemint.com/companies/news/south-korean-investors-kvic-india-venture-capital-startups-deeptech-semiconductors-ai-11782791573995.html
+- Dalmia Bharat sees easing cost pressures, stays the course on expansion
+  Dalmia Bharat says West Asia tensions are easing, but the impact of the war
+  🔗 https://www.livemint.com/companies/news/dalmia-bharat-cement-industry-india-cement-prices-west-asia-war-11782810272533.html
 
-- Adani Ports sells 49% stake in Vizhinjam port to shipping major MSC's unit in $1.4 bn deal
-  Adani Ports will sell 49% stake in its Vizhinjam port to Mediterranean Shipping Co's unit for $1.4 billion. Partnership looks to increase traffic and improve
-  🔗 https://www.livemint.com/companies/adani-ports-stake-sale-vizhinjam-port-shipping-msc-11782797512118.html
+- Flipkart bets on SuperCoins to outlast India's discount wars
+  Loyalty programmes are replacing one-time discounts as
+  🔗 https://www.livemint.com/companies/news/flipkart-supercoins-loyalty-programme-uber-rewards-ecosystem-ecommerce-strategy-11782811544515.html
 
-- Vedanta Oil is investing to double output. Can it reverse a decade of decline?
-  The company aims to produce more than 150,000 barrels of oil equivalent per day (boepd) by FY29. That is up from 87,000
-  🔗 https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html
+- Noel Tata steps down as Voltas chairman days after Trent exit
+  Noel Tata, 69, said this would be his last AGM as Chairman of Voltas.
+  🔗 https://www.livemint.com/companies/people/noel-tata-steps-down-as-voltas-chairman-days-after-trent-exit-11782816317293.html
 
-- Mid caps expected to trump the large caps again, this time through acquisitions
-  Indian mid-cap IT firms are using acquisitions to accelerate growth. They are positioning themselves to add more incremental revenue than larger peers
-  🔗 https://www.livemint.com/companies/indian-it-services-acquisitions-coforge-persistent-systems-mphasis-hexaware-infosys-wipro-tcs-hcltech-tech-mahindra-11782745821453.html
+- Uber launches in-app ride video recording, ambulance feature in India; Nitin Gadkari lauds road safety push
+  The new announcements were made during Uber Surakshit: Safety Never Stops. Nitin Gadkari, Union Minister for Road Transport &amp;amp; Highways was the
+  🔗 https://www.livemint.com/companies/news/uber-launches-in-app-ride-video-recording-ambulance-feature-in-india-nitin-gadkari-lauds-road-safety-push-accidents-11782814940677.html
 
-- Penny stock under  ₹10 hits 5% upper circuit. Details here
-  A-1 Limited's shares reached  ₹7.30, capped at a 5% limit, after becoming the primary dealer for Ishan Dyes
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-details-here-11782809584903.html
+- Wall Street opens little changed on final day of stellar quarter
+  The Dow Jones Industrial Average fell 0.03%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-opens-little-changed-on-final-day-of-stellar-quarter-11782827080180.html
 
-- Gold vs Silver: Which commodity offers better return potential in H2 CY26?
-  During the first half of CY26, Comex gold prices have fallen more than 7%, while silver has corrected over 16%. In the domestic market, while MCX gold price has gained roughly 4% on a in 2026
-  🔗 https://www.livemint.com/market/commodities/gold-vs-silver-which-commodity-offers-better-return-potential-in-h2-cy26-11782809412555.html
+- Small-cap multibagger Cupid Ltd extends rally; stock surges 47% in June, 800% in a year
+  Cupid's stock surged 800% in the past year, fueled by strong investor interest. The company's revenue guidance for FY27 has been raised.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-multibagger-cupid-ltd-extends-rally-stock-surges-47-in-june-800-in-a-year-11782824869515.html
 
-- Upcoming IPO: Fibe parent Social Worth Technologies files DRHP with SEBI for IPO
-  Parent company of Fibe, Social Worth Technologies Ltd, filed for an IPO aiming to raise up to  ₹750 crore. Proceeds will support its subsidiary EarlySalary Services
-  🔗 https://www.livemint.com/market/ipo/upcoming-ipo-fibe-parent-social-worth-technologies-files-drhp-with-sebi-for-ipo-11782809506549.html
+- US stocks poised for strongest quarterly performance in six years as AI optimism lifts markets
+  S&amp;amp;P 500 futures were up 0.2%, while Nasdaq 100 futures gained 0.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stocks-poised-for-strongest-quarterly-performance-in-six-years-as-ai-optimism-lifts-markets-11782825017405.html
 
-- Waaree Energies: US Customs’ ruling may be a temporary blip amid robust domestic outlook
-  Waaree Energies shares fell 4% following a US Customs ruling on tariff evasion for imports from Vietnam and Malaysia. Facing
-  🔗 https://www.livemint.com/market/mark-to-market/waaree-energies-us-customs-tariff-ruling-stock-impact-11782798074822.html
+- Nifty 50 sheds 9% in H1CY26: Is the Indian stock market ripe for a solid rebound in the second half of the year?
+  Nifty 50 has suffered a massive loss of almost 9% in the first half of the calendar year 2026. Experts predict a potential recovery for the Indian stock market in the latter half of
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sheds-9-in-h1cy26-is-the-indian-stock-market-ripe-for-a-solid-rebound-in-the-second-half-of-the-year-11782821838363.html
 
-- Waterways Leisure Tourism IPO listing tomorrow. Here’s what GMP signals about share debut on Dalal Street
-  According to websites tracking grey market activity, the GMP today stands at - �
-  🔗 https://www.livemint.com/market/ipo/waterways-leisure-tourism-ipo-listing-tomorrow-here-s-what-gmp-signals-about-share-debut-on-dalal-street-11782805958782.html
+- US stock market today: S&amp;P 500, Nasdaq edge higher as tech rally extends; Wall Street eyes strong H1 finish
+  US stock futures rose as technology and chip stocks continued to rebound. S&amp;amp;P 500 and Nasdaq 100 saw notable gains, driven by optimism in AI investments.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-edge-higher-as-tech-rally-extends-wall-street-eyes-strong-h1-finish-11782818686713.html
+
+- Samsung Galaxy A27 5G debuts in India with 120Hz AMOLED display, price starts at  ₹28,999
+  The Samsung Galaxy A27 5G features a 6.7-inch Full HD+ Super AM
+  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-a27-5g-debuts-in-india-with-120hz-amoled-display-price-starts-at-rs-28999-11782803426405.html
 
 - OnePlus N6 5G launched in India with 8,000mAh battery, Dimensity 6360 Apex processor: Check price and specs
   The OnePlus N6 features a 6.75-inch HD display
@@ -96,129 +100,85 @@
   The iPhone 17 Pro, currently priced at  ₹1,34,900, could reportedly retail between  � 1,54,
   🔗 https://www.livemint.com/technology/will-iphone-17-pro-max-cost-nearly-rs-2-lakh-in-india-leak-suggests-so-11782740413634.html
 
-- Samsung Galaxy M47 5G launched in India with 6,000mAh battery, 50MP OIS camera
-  Samsung has launched the Galaxy M47 5G in India with a price of  ₹22,999. The phone features a
-  🔗 https://www.livemint.com/technology/gadgets/samsung-galaxy-m47-5g-launched-in-india-with-6-000mah-battery-50mp-ois-camera-11782719455467.html
+- US Stocks: Oppenheimer makes rare cuts to top US investment banks, backs alternative asset managers
+  Oppenheimer has downgraded major U.S. investment banks like Goldman Sachs and Morgan Stanley. The brokerage advises selling these large-cap banks and instead investing in alternative asset managers.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-oppenheimer-makes-rare-cuts-to-top-us-investment-banks-backs-alternative-asset-managers/articleshow/132094565.cms
 
-- Stock Market News, June 29, 2026: Nasdaq Jumps 2%, Breaks Losing Streak - WSJ
-  The WSJ reports that Nasdaq Jumps 2
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5
+- India's underperformance sets stage for recovery, says JM Financial's Deepak Gupta
+  Indian equities are showing signs of a potential rebound, with attractive valuations and improved currency stability. Sectors like manufacturing and healthcare are highlighted as promising, while caution is advised for oil &amp; gas and IT services.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/indias-underperformance-sets-stage-for-recovery-says-jm-financials-deepak-gupta/articleshow/132094438.cms
 
-- Stock futures inch higher after the Dow posts new record close: Live updates - CNBC
-  Stock futures inch higher after the Dow posts new record close
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9CM1dGdkpCSmFKeGFienZ2WDdlRDNrU3NuVTU1Sy03UVpYTFFNM3FpbjVqQ3c4amxIWUJiWkhDU0dVcjZkMk5VQW05bXZVanptT1dDUV82dENhdEl5cDM5T2RxYWlsbW0zamZIWXNhV0phU19RTE5B0gF8QVVfeXFMTnhTYUJ4MVBFanRjSUVBMS1KUm9GWTFGelpUdTVQb0RtTmwxaDVLOXVqR3ZwNE50RUxtWnZXVnJ5d3BfejdtVktGR3VhM3FGUndHNTBfcUNCcGVPTlZnUmRJc2RORjc0TEVSV1NPdDlXQjdkMDVpRFRndm9GTQ?oc=5
+- US stocks today: US stocks subdued at open on final trading day of strong quarter
+  Wall Street's main indexes opened flat on Tuesday. Tuesday was the final trading ‌day of
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-at-open-on-final-trading-day-of-strong-quarter/articleshow/132094399.cms
 
-- Markets News, June 29, 2026: Dow Closes at Record; S&P 500, Nasdaq Rebound After Tech Sell-Off; Comcast Stock Surges on Plan to Split - Investopedia
-  The Dow closed at a record high for the first time ever on Tuesday.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlhNMlJCbk8tR0M0Z3V1VEFoUzM1eV9jbmg1X2VBNUJHODdKYlotaTJEbUNpc256QU1LTFBJWHd0c0drb3p6UEdRYi1iQkdReXltbnZMenpaNm96bGp3WkpYWG9PZ3EzQjVTeUhZT1JvTlNrQ1BJOXhldGhrU3BsT1pJM3RWbHJPOEw1Ym9EdmQ?oc=5
+- European Securities authority approves recognition for India clearing corporation
+  The European Securities and Markets Authority has granted essential recognition to India's Clearing Corporation, putting an end to a prolonged dispute. By signing a memorandum of understanding, this resolution avoids possible capital adequacy complications for financial institutions.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/european-securities-authority-approves-recognition-for-india-clearing-corporation/articleshow/132093727.cms
 
-- The Original Prediction Market Boosters Have Qualms About the Boom - Bloomberg.com
-  The original Prediction Market Boosters have Qual
-  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxObS15MHVYZERRUW9JdjgtbE9CQXRQZGQ1ZWhjM0p3WEhfa0czd3I1QVRxUjBNbVVLTWxWczBaMGRrZENnRm04dmdGT01xRF96NDA4VGY5ZXF1SGtXOTV1a21HbEtPdTZiM3pmSkRydlVYaTB5RlFoNW1SNFVJUjNMVWstTDloUUNKaHBMTHhKRUJUWW9FTDhMM2gzWmotWE5jcW05ZVg4SHF3RW5yMndqUGo1OHZpM0Y0UHJOaUc0bmI?oc=5
+- Quote of the day by Edward Thorp: "Hoaxes, frauds, manias, and other large-scale financial irrationalities have been with us from the beginnings of the markets in the seventeenth century, long before the Internet."
+  Financial markets have historically succumbed to waves of greed and fear. Edward Thorp's insights confirm that human emotions, not just technology, drive speculative bubbles.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edward-thorp-hoaxes-frauds-manias-and-other-large-scale-financial-irrationalities-have-been-with-us-from-the-beginnings-of-the-markets-in-the-seventeenth-century-long-before-the-internet-/articleshow/132083945.cms
 
-- 'If you spend all day in a fish market, you’ll carry the smell of fish': Harsh Goenka's shares an importan - The Economic Times
-  'If you spend all day in a fish market, you’ll carry the smell of fish
-  🔗 https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaFh3Ty12aHdXaWhObmdpZkNDdXZsQ19faWN3LU1uWmZpUE9RZ29ZWnA0ektXUmZBZHotNmZKaW9weFZGSGV0LW5sWEtQYlhMLW9YRkxuV042UFNSVHpaa0tQdDlCTXhlZlZNMnlNRll6YzBPUHhFOWpfOE5yRHBNWEVBS0Y3ZjFfbkpRUFd1RV94R1hORlBEeDNXaDlLSTFDMWMtUHBSRDBZbkNMQVhqcTVaamdEd1FhbFFlMzVZX1dSSEFTSXZKWHZfOVFnSmRJQ0pRMHg5RWdmQlNHdTUwMnl4NHJXQlNMV0JLV0N4blZXWWd0SEE1VWE4Y1h4b3pGT2pYWGxKZDBfXzNjOWM5X1dBWEdaZGswYUFvZDdFQTBDQ3lSZkhyd1pGVkQtNFJ5S3oxeFF1enVkb3lfTEdaeVJSd2FCVC12cmp3MGdXaDhYTnpEcXfSAc8CQVVfeXFMTXQ0MWRGOHZYSlhqV1d4cXRKQU9SSkQtUU96R1hJbVJWUnF6VXFNa3U0THRLY1BlWmxkZ0lDaTVtdlAydWJoZGtrWnhpdm1ublBiV2w2Zm5ScEUwWFRsT1gyTHREd0lGSC1vbDlIQmt1Rzlxd01CVklEbG1GMlpUT3lJb1JGMUJaLUlSWjBzaUEwWEVHVGtPTkdpOGhuNm85SFZYMmJkbV9sRVJ4cUNvNkxETE04U2NQZEZpWnd5d3pTejMxd2ZBeDFxWl9xaW4tekhKVWJKNG5aR3Fxa0tWZjdVcmlsWl9nZ2JmenQwXzJXX201WFJPTVhtSjNZTXp1eWFPMzBjbWZDT0xRbDh2N0JTck5Bb01oaF96clVuUVB5c0doRWtaMnNWTjBGdTBJQktybTRENEdaQkxjS2xHY0Y5emJfMG5NTzdZckFQYk0?oc=5
+- PM Modi boosts maritime ties with Seychelles - The Times of India
+  PM Modi boosts maritime ties with Sey
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
 
-- Australian shares slip on inflation concerns, miners top drags
-  The benchmark S&amp;P/ASX 200 index closed 0.5% lower at 8,778.70 on the final trading day of the current financial year
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/australian-shares-slip-on-inflation-concerns-miners-top-drags/articleshow/132088823.cms
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- Water crisis ahead? PL Capital says water deficit creates Rs 20 lakh cr infra opportunity, picks 3 stocks
-  PL Capital expects sustained growth across water treatment, recycling and wastewater management. VA Tech Wabag, Enviro Infra Engineers and Denta Water are key beneficiaries.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/water-crisis-ahead-pl-capital-says-water-deficit-creates-rs-20-lakh-cr-infra-opportunity-picks-3-stocks/articleshow/132088642.cms
-
-- Europe's STOXX 600 on track for biggest quarterly gain in over five years on AI boost
-  European markets are soaring, marking their best quarterly performance in over five years. Optimism surrounding artificial intelligence and a de-escalation of Middle East tensions are fueling the rally. Technology stocks, particularly chipmakers like ASML and STMicro
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/europes-stoxx-600-on-track-for-biggest-quarterly-gain-in-over-five-years-on-ai-boost/articleshow/132088465.cms
-
-- Pankaj Tibrewal sees stronger top-line growth driving India's next earnings cycle
-  Indian companies are poised to navigate input cost pressures and sustain growth. Experts anticipate stronger revenue growth than anticipated. Despite near-term challenges, double-digit Nifty earnings growth is projected.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/top-line-growth-could-surprise-as-india-inc-enters-a-new-earnings-cycle-pankaj-tibrewal/articleshow/132088290.cms
-
-- Gold poised for biggest monthly drop since 2008 amid Fed rate hike expectations
-  Gold prices are experiencing a significant monthly drop, nearing their largest decline since 2008. This downturn is driven by expectations of Federal Reserve interest rate hikes aimed at controlling inflation. A strong US dollar further dampens gold's appeal as an inflation hedge
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/gold-poised-for-biggest-monthly-drop-since-2008-amid-fed-rate-hike-expectations/articleshow/132087982.cms
-
-- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
-  China Responds To India's Concerns
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
+- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
+  PM Modi Chairs High-
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
 
 - India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
   India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Loved and loathed: The making of India's viral liver doctor - BBC
-  The viral liver doctor is a controversial figure
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
+- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
+  India’s Net External Liabilities Decline to 209.9
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
 
-- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
-  India strongly condemns air-strikes by Pakistan on Afghan
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
+- IPO-Bound Fibe’s FY26 PAT More Than Doubles To ₹257 Cr
+  Ahead of filing for an IPO, digital lending startup Fibe posted its strongest financial performance yet.
+  🔗 https://inc42.com/buzz/ipo-bound-fibes-fy26-pat-more-than-doubles-to-%e2%82%b9257-cr/
 
-- "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
-  "Blatant Act Of Aggression":
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
+- Finance Ministry Approves ₹1.25 Lakh Cr Outlay For Semiconductor Mission 2.0
+  Finance Ministry Approves ₹1.25 Lakh Cr Outlay For Semiconductor Mission 2.0. Centre has moved a step closer towards launching the India Semiconduct
+  🔗 https://inc42.com/buzz/finance-ministry-approves-%e2%82%b91-25-lakh-cr-outlay-for-semiconductor-mission-2-0/
+
+- E2W Registrations Grow 5% MoM In June To 1.81 Lakh Units, TVS Retains Top Spot
+  Electric two-wheeler (E2W) registrations continued to see tepid growth in June, with total sales rising 5% to 1.81 Lakh units.
+  🔗 https://inc42.com/buzz/e2w-registrations-grow-5-mom-in-june-to-1-81-lakh-units-tvs-retains-top-spot/
+
+- Tata Electronics Data Breach Exposed Apple’s iPhone 18 Pro Supply Chain: Report
+  Apple&#8217;s closely guarded supply chain was reportedly exposed after sensitive supplier lists, component details, and alleged images of its upcoming products were leaked.
+  🔗 https://inc42.com/buzz/tata-electronics-data-breach-exposed-apples-iphone-18-pro-supply-chain-report/
 
 - The Indus Valley Raises $17 Mn To Scale D2C Kitchenware Business
   D2C kitchenware startup The Indus Valley has raised $17 Mn (around ₹161 Cr) in its Series B funding round.
   🔗 https://inc42.com/buzz/the-indus-valley-raises-17-mn-to-scale-d2c-kitchenware-business/
 
-- Lending Tech Startup Fibe Files For ₹750 Cr IPO
-  Lending tech startup Fibe (formerly EarlySalary) has filed its DRHP with SEBI for an IPO which will comprise a fresh&#8230;.
-  🔗 https://inc42.com/buzz/lending-tech-startup-fibe-files-for-%e2%82%b9750-cr-ipo/
+- PM Modi boosts maritime ties with Seychelles - The Times of India
+  PM Modi boosts maritime ties with Sey
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDU4b0N2ZHc1R3IzODNFb2RWeGR0N0ZvNE5FZnhRTENaNmRzbGZDbUt4NHB3SVFwc0ZQOTVkdGRCQy10TEpGVW1vcnNtVi1uOEluTi14Qmk4aWtMQmkzTG02d0Uwdi1PUUR5ZjNzOV8xX2htTE45QnQweURuaDM4Z2ttdHNlcjVCRENvTE5jVy1fMmQyVm0tWXVKekxpV19yclVyTXk5cnlGeENWZHRON01ndW01WE5FcXk40gHAAUFVX3lxTE1Bd0xsMHhZZkJzVW10QUN6Nnd4RHc4eG1fVS0zdnpzc3VPLWNxc0RGS2I5MGw5SDhoejZyY1RjZmhGU1VmZFI2NTJVRk1LQkljc1YyODZaNUJ5V2Vkc1F6MnFXSFNEMWs0Snp6b2djODF6aDAyNVlpX3hZY0ZFazRMMEpURUtfMHdLSHAxVFJYTmxXVFRtRVJLRWNyTkRDYnNGX0tfUk5TaXRGX3dyZnRRVDRkZHRDOV9EYkZkMlpyLQ?oc=5
 
-- Ola Electric, Ather Energy Rally On Delhi’s ₹15,000 Cr EV Policy
-  Shares of EV companies gained in early trade today after the Delhi government approved the new EV policy aimed at&#8230.
-  🔗 https://inc42.com/buzz/ola-electric-ather-energy-rally-on-delhis-%e2%82%b915000-cr-ev-policy/
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- D2C’s New Media Playbook
-  Everybody wants to own the media, and the country’s fastest-growing new-age consumer brands are no exception. Faced with
-  🔗 https://inc42.com/features/d2cs-new-media-playbook/
-
-- OYO Parent PRISM Files Updated DRHP For ₹6,650 Cr IPO
-  Hospitality unicorn OYO’s parent PRISM has filed its updated draft red herring prospectus (UDRHP) with SEBI for a ₹6
-  🔗 https://inc42.com/buzz/oyo-parent-prism-files-updated-drhp-for-%e2%82%b96650-cr-ipo/
-
-- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
-  China Responds To India's Concerns
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
+- PM Modi Chairs High-Level Meet With Top Bureaucrats - NDTV
+  PM Modi Chairs High-
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzJXdFBOejE5TE9sMGwtNkM3MUZHeVlmOHA4VXdPR3cwQVdzXzNvMEhDWWxycW1QbmVFRmI1cU5HLTBpWUhJVnZxWGw3Wm9MSjdrQzcta3NaU3ZKRWhmYU4zY29UT1FlU0hzTTVjNnJodG1UdW8tNFFPRjcwQzlpcklBUzg5T0Q0eklZWkpoMDRjbWdTM0hWRDc4aGtNU3RjUjNFWFQzM3JyX0VwRGFzSVNqTdIBuwFBVV95cUxNLUtVQTVoVGQxS3djWU5Oc3ZlQl9xRFc1SDcwZDRtSlROeTJYdFhISENaZHFwYi0tWUhmckFyOXQxMlBhYzhOeDhmLTEtNEtnZWxkTkN1MGFna0U5amQ2ZEFXelBRTXRlajhrakVva0tLcmRTaVJpOVhHeWV3VG5SRlNnaGRLcW96QVB5Uk1RSzdqSUo1aWluVEhRS1l4OEl1Zkl3TUNERE5vM2hvLWJjOENKUG5vZjNDOTJB?oc=5
 
 - India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
   India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
 
-- Loved and loathed: The making of India's viral liver doctor - BBC
-  The viral liver doctor is a controversial figure
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
-
-- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
-  India strongly condemns air-strikes by Pakistan on Afghan
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
-
-- "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
-  "Blatant Act Of Aggression":
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
-
-- China Responds To India's Concerns Over Teesta Cooperation With Bangladesh - NDTV
-  China Responds To India's Concerns
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUlLWFNRV2hyZDVpOGpWVHgyLVI1NThNU01CTHN6T1Zycl8yNXNLMTlnOUJ1Xzczd25zMTZSdW9sUXhheUM0Wm9sU0ZvNDE4cDh5TW5RMWM1SlpVUUpISVNYSVl0aDY0M29Tb0RlNmpNZGtJblpTYm5kWWd0eVRLZmZpVWZ4dG9ma3BqVmw2aUdDYXBHdkhXVE9sdV9IVW9ENG94cV9TaXp5R2owVmNIalZPZ0vSAbwBQVVfeXFMTTl3YlFnNGNwclZVUGpHbV9DcC14QlFTd3k0bUNVbk5aN1pRN0kycEhWdXd5eHBtRXZiWjFvZXJJT3lxOXZpOXZzaEtFTTdSTXlDWDEyXzV4SVZiR3p3OExIZTVjdGFxS0pWVDJWMVN5YXdRdjJ2UnpEYmZXWkZma0NzOUhKR1pLT1lRXzA2WXY5QnMzVjVsWjFqZ0kzdUhiaXBTbDgtOWNSd2hhUnh5RGJJWDBscWdIUm5SYlc?oc=5
-
-- India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3 killed with several workers feared trapped - The Indian Express
-  India News Highlights, 29 June 2026: Wall collapses in Jaipur, 3
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0puWjQtbEdXcDVGLXM5ZjluZkNBcW00MkszajFVcC1lM0JsZW9aUWlsTTdfekxkeTJWSHNCVTl6SmJNWkt3aVJFMkVpTXA0d1Y5bnVCYWRtWUllZG5rSlJna3R0aTgwdVdhU1puRjZ6VkNMa1lxVXJsNlg5cW9aNmVxTTZ5b01wWHF5YndTQ1lTNjIwdWFsclp5cGlXQ2w4NXdTSVF0UGdJaUZHdzZ6eU1CTl9ya2FZeWNnNUl2Yi1Vb3Zmc3N2REpxWndoS0xkNXp3Y0llblBJR03SAeIBQVVfeXFMT2NNd2t4ajQwcE0tNjZQWUNtZ0hIdUU4dGl6Y2dUX2hwUG5fWmlJRXNrTVF5QXdNZE5QVl9oWTVmc1FkdV9tOVJod201ckJRNjB1c1VHMkNqeno0ajBMZUw4bHZmWnJzZ1c5cjJZWTBCZlVaY3JvSjhfQ3g3a0lMUjRjTl9iNnd2aTY4Qk1Fd2V0clZXeUZUdk9WR0Rvc3Q4Y0JMVmpBa1Q0VndrNVo4cS1DVWJTWTRMT2VITEJQMXJ2U3ZGay01cUJJd0VHRl8yRUZRb2E5Mnc3UzJzYmtxTWlIZw?oc=5
-
-- Loved and loathed: The making of India's viral liver doctor - BBC
-  The viral liver doctor is a controversial figure
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Yc0NWV1VCSEc0OGpwNWRqUW9JaHBKOUplMXBpMHBRTFpJQ1lwVUwyVDJ3azNDaUJoaHRvVENlNTBSUDRBTzY4QUFya3pjUThTaUZKMzJTOHpRQQ?oc=5
-
-- India strongly condemns air-strikes by Pakistan on Afghan territory : MEA - News On AIR
-  India strongly condemns air-strikes by Pakistan on Afghan
-  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOYjZVcGVTemp4V18tRWpmeXVyMWROUEl2b1gzNEpCRnc0S2FqVGp1ZjNCeHF6ck05RDZsZERqOXdzbDJDMG9xZGxrd01NOTJ1a24zV3YtXzcyOXFLN3dhWUVNc013YWplTFdzbWQ4VjlvT1lXVmNnSUR4SV9SOTVScFV2Q2lrQ1dMdkJqRDlIdGhOQlhuUDZuUGJIdTA1Zw?oc=5
-
-- "Blatant Act Of Aggression": India Slams Pak For Strikes In Afghanistan - NDTV
-  "Blatant Act Of Aggression":
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGJmNjFlLU1WaHptX3NlYmxjMEFMOUd3b2ZMaWEzejR5TWR4ckxaVDNmNHo4b2FFb0NPdEtNNkNjOGdJUENEeGJncS1XeGFnRFRlNGVSUzRvMkY2NGFSRVBzcDRBMHpkeUhGcnNTRWk3d1FpUTlzUjQtUDVfT0t0MERQVjNsZ0dVajd1NXpKSG45bkxTUldoOWRMMTc5N21obVdPd01FaE1fUzdWTnczcm5KbnbSAbwBQVVfeXFMT0VKRTJnZV9tZHJoSGJpZHAtNjlaRGdmWGQ2aVMxR01ZalBOZGpNb2hMTWE2dDljemExYzAxNVU4em5FRml6eFQ3VkF0aGZxazBhRzVfdlM3cjlrejd1UGxYOU5yMTRudldtSl9adEhxS0VKRFVSaEFSY1g5QkREMTAzcnhRQmhZN2thVWxheEFiX2NxVmtiSFJ3V3NaT05uMHNiTW14Y29kOXBiRVRMZHd6Vks2Y3dkb2tlNzQ?oc=5
+- India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March - News On AIR
+  India’s Net External Liabilities Decline to 209.9
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkQzemdxN3QtaE9XY25keTdPekVObEVLZ21sYzVHOUh0WE9uOEx1WDlmLXhSak5HaFJ4R25hVGU0UGtVMzI4ZDR2aW8yelFIWEZwYXZadF91VTBGbGZ2RFFXZFRiVUxEY2kyaFRGQk1hRlAxUWczN1M5NDJvaERDM1dOOUxZOEpDTFRTNUZjYjdPZ1RqRXlXX3V6WmtUTHVZZHpKbF9yeTBNaVBSVVE?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +209,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-06-30 09:28:39 UTC_
+_Last updated: 2026-06-30 14:11:41 UTC_
