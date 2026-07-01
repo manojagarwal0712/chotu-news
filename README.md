@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- The Daily Catch-Up: What UP wants, US Supreme Court birthright citizenship ruling & and other top news
+- General Dhiraj Seth takes over as Army Chief, unveils ‘VIJAY’ roadmap
   
-  🔗 https://indianexpress.com/article/india/the-daily-catch-up-up-us-supreme-court-birthright-citizenship-ruling-top-news-10766851/
+  🔗 https://indianexpress.com/article/india/general-dhiraj-seth-takes-charge-31st-chief-of-army-staff-vijay-plan-10766990/
 
-- Deepening strategic ties with India amid global uncertainty: Japan’s Takaichi
+- Foreign Secretary Vikram Misri gets one-year extension in service
   
-  🔗 https://indianexpress.com/article/india/japan-pm-sanae-takaichi-new-delhi-india-visit-narendra-modi-10766869/
+  🔗 https://indianexpress.com/article/india/foreign-secretary-vikram-misri-gets-one-year-extension-service-july-2027-10766984/
 
-- Vijay’s TVK gained from defections. Now it says its own MLAs are being poached
+- Centre asks WhatsApp to not launch username feature in India
   
-  🔗 https://indianexpress.com/article/india/tvk-dmk-poaching-war-vijay-stalin-mla-bribe-allegations-tamil-nadu-10766819/
+  🔗 https://indianexpress.com/article/india/whatsapp-username-feature-centre-stops-rollout-india-online-fraud-10766943/
 
-- Minors recruited, documents forged: Probe into Tamil Nadu gas leak deaths opens can of worms
+- Uttarakhand scraps Madrasa Board, now gets common authority for all minority educational institutions
   
-  🔗 https://indianexpress.com/article/india/tamil-nadu-seafood-factory-gas-leak-odisha-minor-recruitment-scam-10766671/
+  🔗 https://indianexpress.com/article/india/uttarakhand-abolishes-madrasa-board-minority-education-authority-usame-rules-10766893/
 
-- Meghalaya honeymoon murder-accused labelled ‘army deserter’ in bungled memo
+- ‘Saddest day for the country’: Congress slams Centre as VB-G RAM G wage rates get notified
   
-  🔗 https://indianexpress.com/article/india/meghalaya-hc-raja-sonam-raghuvanshi-honeymoon-murder-bail-police-10766674/
+  🔗 https://indianexpress.com/article/india/congress-criticises-vbg-ramg-act-mgnrega-rural-wage-rates-notification-10766888/
 
 - Rocket Lab halts Japanese radar satellite launch seconds before liftoff
   
@@ -40,25 +40,37 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-spark-to-macos-adds-app-integrations-and-real-time-tracking-features-10766412/
 
-- Swedish court orders Google to pay $1.46 bn for favouring its price comparisons
-  A Swedish court ordered Google to pay 14.3 billion kronor ($1.46
-  🔗 https://www.livemint.com/companies/news/swedish-court-orders-google-to-pay-1-46-bn-for-favouring-its-price-comparisons-11782912508238.html
+- Zee promoter family aims to raise stake, infuse  ₹3,143 crore via warrants
+  The promoters have proposed to eventually hike Sunbright International’s shareholding in Zee Entertainment from the current 0.18% to a little over 20%. This would take the Subhash Chandra
+  🔗 https://www.livemint.com/companies/news/goenkas-to-hike-stake-pump-3-143-crore-in-zee-entertainment-11782923656517.html
 
-- Accenture continues to expands India footprint with  ₹355-crore Pune lease
-  The IT giant is doubling down on Grade-A tech hubs to grow its presence and consolidate its distributed teams. It highlights sustained demand
-  🔗 https://www.livemint.com/companies/news/accenture-continues-to-expands-india-footprint-with-355-crore-pune-lease-11782899580975.html
+- WhatsApp username feature has defenses against scams — Meta says it has ‘systems to detect and remove...’
+  Users will still require a phone number to use WhatsApp. Meta has “built multiple layers of defense against scams” into WhatsApp
+  🔗 https://www.livemint.com/companies/news/whatsapp-username-feature-has-defenses-against-scams-meta-says-it-has-systems-to-detect-and-remove-11782921014392.html
 
-- Mint Explainer | Who owns the Vadilal brand? A decades-old family dispute surfaces again
-  A decades-old family settlement unravels over allegations of
-  🔗 https://www.livemint.com/companies/news/vadilal-family-dispute-bombay-high-court-trademark-food-quality-explained-11782884183281.html
+- Prudential-HCL joint venture becomes India’s eighth standalone health insurer
+  The regulator's approval anchors a massive overhaul of the multinational's domestic strategy. It follows its recent announcement
+  🔗 https://www.livemint.com/companies/news/prudential-hcl-health-irdai-approval-11782915502104.html
 
-- HSBC signs 1.2 million sq ft GCC deal with Prestige Group in Bengaluru
-  HSBC has signed an LOI with Prestige Group for a 1.2 million sq ft, 20-year campus lease in Bengaluru. The bank will occupy Prestige Lakeshore
-  🔗 https://www.livemint.com/companies/news/hsbc-signs-1-2-million-sq-ft-gcc-deal-with-prestige-group-in-bengaluru-11782897349903.html
+- Meta contractors posed as teenagers to test ChatGPT, Gemini on suicide, sex prompts: Report
+  Hundreds of contractors working on a Meta project allegedly posed as minors to test how AI chatbots responded to prompts involving suicide, sex,
+  🔗 https://www.livemint.com/companies/news/meta-contractors-posed-as-teenagers-to-test-chatgpt-gemini-on-suicide-sex-prompts-report-11782915429928.html
 
-- TikTok plans to cut nearly 300 more jobs at its European hub in Dublin; some at-risk staff may be redeployed
-  TikTok plans to cut approximately 300 jobs at its Dublin hub. Staff may be moved to other positions within the firm.
-  🔗 https://www.livemint.com/companies/news/tiktok-plans-to-cut-nearly-300-more-jobs-at-its-european-hub-in-dublin-some-at-risk-staff-may-be-redeployed-11782899474896.html
+- Govt directs Meta to stall rollout of WhatsApp usernames over cyberfraud risks
+  The IT ministry has given the social media giant three days to submit an explanation. There are concerns that the privacy-focused update could easily
+  🔗 https://www.livemint.com/companies/news/whatsapp-username-feature-meity-whatsapp-order-11782917343095.html
+
+- Gold, silver prices today: Comex gains as softer US jobs data, Warsh remarks ease Fed hike bets
+   markets are pricing a 65% chance of a September rate hike as employment data falls short of expectations. Gold and silver prices rose on July 1 after a poor quarterly performance.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-rebound-as-softer-us-jobs-data-warshs-comments-ease-fed-rate-hike-fears-11782918145012.html
+
+- Meta Platforms surges 12% on report of AI cloud service plans to rival Amazon, Microsoft
+   Meta Platforms' shares rose nearly 12% after reports of launching a cloud computing business aimed at selling AI services. The initiative, part of Meta Compute, could
+  🔗 https://www.livemint.com/market/stock-market-news/meta-platforms-surges-12-on-report-of-ai-cloud-service-plans-to-rival-amazon-microsoft-11782918704250.html
+
+- Adani Green Energy to announce June quarter results on this date. Check details
+  Adani Green Energy's Board will meet on July 22, 2026, to approve financial results for Q1FY27. For the March ending quarter,
+  🔗 https://www.livemint.com/market/stock-market-news/adani-green-energy-to-announce-june-quarter-results-on-this-date-check-details-11782917518229.html
 
 - Indian Bank Q1 business update: Lender reports 13.3% growth in deposits, advances rise 13.9%
   Indian Bank reported a 13.6% YoY growth in total business to  ₹15.28 lakh crore for Q1 FY26. Deposits rose 13.3%
@@ -67,18 +79,6 @@
 - Multibagger Paisalo Digital hits 20% upper circuit as promoters raise stake to 46.72%
   Paisalo Digital's shares hit a 20% upper circuit at  ₹71 after promoters increased their stake to 46.72%. This marks a steady rise in shareholding from 26
   🔗 https://www.livemint.com/market/stock-market-news/multibagger-paisalo-digital-hits-20-upper-circuit-as-promoters-raise-stake-to-4672-11782910092370.html
-
-- Gold price drops below $4,000, down 12% in June - biggest monthly decline since 2008: what lies ahead?
-  Gold has fallen below the critical $4,000 level, sliding to around $3,960. Analysts predict potential rebounds due to oversold conditions.
-  🔗 https://www.livemint.com/market/commodities/gold-price-drops-below-4-000-down-12-in-june-biggest-monthly-decline-since-2008-gold-price-outlook-ahead-11782901102197.html
-
-- Top Gainers &amp; losers on 1 July: Reliance Power, Delhivery, Eternal, Paytm, MCX, Dabur India among top gainers
-  The Indian stock market opened positively in July, led by strong buying in realty, FMCG, and auto stocks. However, IT and metal sectors saw declines as geopolitical tensions
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-1-july-reliance-power-delhivery-eternal-paytm-mcx-dabur-india-among-top-gainers-11782899650729.html
-
-- Sensex rises over 400 points, Nifty 50 ends above 24,000; investors earn over  ₹2 lakh crore in a day
-  Equity benchmark Sensex clocked a gain of 444 points, or 0.58%, to close at 76
-  🔗 https://www.livemint.com/market/stock-market-news/sensex-rises-over-400-points-nifty-50-ends-above-24-000-investors-earn-over-2-lakh-crore-in-a-day-11782899842056.html
 
 - WhatsApp usernames could open the platform to impersonations and scams, warn cybersecurity experts: Here is how
    WhatsApp is launching usernames for privacy, enabling users to interact without disclosing phone numbers. While this can protect user identity, experts warn of risks like impersonation and scams.
@@ -100,125 +100,105 @@
    WhatsApp introduces a username system to eliminate the need to share your phone number. The company will allow users to
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-to-let-users-reserve-usernames-from-this-week-heres-how-it-works-11782782244825.html
 
-- Stock Market Today: Dow Opens Lower, Warsh Dodges Questions on July Rate Decision — Live Updates - WSJ
-  The Dow opens lower, S&amp;P 500, Nasdaq futures pull back after AI rally regains its mojo. Dow closes lower as investors dump chip stocks after blockbuster first half.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5
+- US Federal Reserve chair Kevin Warsh says he will stick by 2% inflation target, vows to bring in real-time economic data for making interest rate decisions
+  Federal Reserve Chairman Kevin Warsh declared unwavering commitment to the 2% inflation target. Warsh emphasized the Fed's independence and announced plans to leverage real-time economic
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-chair-kevin-warsh-says-he-will-stick-by-2-inflation-target-vows-to-bring-in-real-time-economic-data-for-making-interest-rate-decisions/articleshow/132120138.cms
 
-- How SEBI used airline bookings, WhatsApp chats, food orders to crack a Rs 144 crore... - Moneycontrol.com
-  How SEBI used airline bookings, WhatsApp chats, food orders
-  🔗 https://news.google.com/rss/articles/CBMigAJBVV95cUxQc1BWNWpSZURCZF9XODVvZFlsVnFseFk4ekJ0UGZNNGFwcHNkVUpSa0xySjJPUkF3cGhCVXpRLUxkcll5NG90Vl9oUmNaVmhLeFpnT2hfeVVoOFlSZkxxWEJTTmtadklDcmoyRE91WmVzU09kMDhoaHJ4ZWhmR0hyOTR4WFlsSmQ4UWY1bkdNdGliMW5fN3duenN3NmhuX2prUW1RcEtwNE1obkY1aU1NS2hLMGFWdmdtbWdIWEtFcktRbGtvd1U2ZGJ4d2lMSlJvSjdrc2I1SzhEb21WSmdiLVRlUzVmQmhvTE5aVjdKaFdyYkhqWjRwNlJfOFNxMENv0gGGAkFVX3lxTE15cHNQdUZyT0tZdloyMU5WSFBIT1hWODJVX1BON1JudnpHNk9sX0hLUXNmbGRtYW1mVFV4YWFlWXh3ZzRDQTlnTXNGR0xoczNGS3h4bmdWYVZnRHJVdUVtcjhMekJ2Mm1vSjV5UjVuQlRrQnNNTWhZNWlaeV9ycE9jTGhLX09DUVdaM1JnbmRlay1PSzk4MkIxUVcwQTE0Q3BOVWpHVm82VVNuZ2dNZWp6Y3Nlb01Zamo0YTNPMzlrMDE2bHB5dW53V096MzFkTGpMdWVvMlhFQmtQRlJmdk5xSWZ1MWZXQ1BKUWJtT3ZJbUZFRGFCX3NUMGFTcWJ0UEVnallOV1E?oc=5
+- Uber-backed Lime rides IPO wave to $1.73 billion valuation in Nasdaq debut
+  Uber-backed Lime jumped 8% in its Nasdaq debut. IPO reflects renewed investor interest in new listings amid volatile markets. Lime, operating in 230+ cities, remains loss-making.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/uber-backed-lime-rides-ipo-wave-to-1-73-billion-valuation-in-nasdaq-debut/articleshow/132120460.cms
 
-- World stocks pause after rally as focus turns to Warsh - Reuters
-  World stocks pause after rally as focus turns
-  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWIzbFBrbzZhVDlNVmQwbktCbmZIV3VBQnc1d1dhUnYtbm45SDZZa1NZVXE0Vkh3V1QwTDVqT1ZwYUI0Zk9kYTlyRGRTN0NLMllyRmNLcXlDbUd4WXZ0RXZxcDUza0VKUWIyeFdoQjA2WTRGYWktZ0FkNklQWnZRX3J6NA?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Thursday
+  Indian equities rebounded after two sessions of losses. Sensex rising 444 points and Nifty reclaiming 24,000. Easing geopolitical tensions, trade deal optimism and lower
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132119002.cms
 
-- Meta considered buying Kalshi before developing its own prediction market app - NPR
-  Meta considered buying Kalshi before developing its
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnFrS2ZwbmY1Zm9CWlE4UU9Md2Vwc19fS1FnUzNQUDJGVkh5aXQ1WDdSVkFNeXVybnhKZFRWZ0R3VFczZFFxMVdnaEhSb2xRNDFRbzJuY1JnYnY1c1B5azdHWXJVMnUyY1FuTmF4dFhlV0VWcm1mUFVCVDZuRDdwR25aNUNlZHFyV1djdzJrTG5aM1ZiX0FB?oc=5
+- Market Trading Guide: TBO Tek among 2 stock recommendations for Wednesday
+  Domestic equities ended higher, supported by positive Asian cues. A sharp drop in crude prices following improved traffic at the Strait of Horm
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tbo-tek-among-2-stock-recommendations-for-wednesday/articleshow/132118726.cms
 
-- Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 444 pts higher, Nifty tops 24K; Eternal so... - The Economic Times
-  The Sensex ends 444 pts higher, Nifty tops 24K; Eternal so...
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQQ21GV2FpOVZqblBzM3BLQTB6M2FxSUk1WjAzUUV0eHdWSE1lOV9xN3hESjkwNmxKMFluVm9Xc0o4RXpYV3lhZFM4TTRaR09XU1hwcWQweTQ1anNOSFZ2STZRazhtM1VMenJ3NHl5Sy14QTdDVUNkZzdGdWoybGNfTVRhVzllMFVkOFJjTUQ5SVRhYWE5cEJiVHVvY29DRXdLZlVKV0FhMTZGb2w5UEtBdmRUMzdNd3VyZHZNOUdxdmtQeUpkY3Mtb3dFc2FRQ21xWWtlWTFtOVIyalhudzV6Qk16U3QtTUU1LXpPM0poQVkySGxnT2FKTEluX1doaVlXVWs0VHJEUjlHVWRzeW1weVI3SdIBmAJBVV95cUxOY1FhQVFDWi1nRC1WUUk0a2VETngxbF9wR1JiU2dGbEczcm9NV1JGSFg1bHV2ZmlrWHYtWmZxVllJbi1IUXF1dEtHanVWR1hKdnYtYWNKTFpMdFI0dE95VmFDdGd0VFNfSFlUOUdEcTZLSnRGVlViTkFabnFVd2JmSXE5aUJXaTBEbDgycDM1YlRmeTc2TlB6S21tMW1BMVc1NDE5UGpPZGRzd0R6b0xNc25xV3pNYmVxaUJoOGd1QTRoOVpGdU5KQ3J4ODFjdno4NURjQXU3OGRyM29VU3pCWWU2WlpPOXRiRURZSGtxeXpZTmNKN085bGZPMUZzdjBNeUsya0owVWg2VUVJQzBsNjcxb3E4Qmh0?oc=5
+- From WhatsApp chats to food orders: How Sebi cracked a Rs 144 crore stock manipulation scheme
+  Sebi uncovered alleged Rs 144 crore pump-and-dump scheme by analysing airline bookings, hotel stays, food delivery records, WhatsApp chats, telecom data and banking trails
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-chats-to-food-orders-how-sebi-cracked-a-rs-144-crore-stock-manipulation-scheme/articleshow/132118593.cms
 
-- US Stocks: Nike shares fall on grim sales outlook; China woes hit turnaround plans
-  Shares of Nike fell as investors raised alarms over the slow pace of recovery with CEO Elliott Hill at the helm for nearly two years. Analysts highlight a sluggish revival in both the sportswear sector and international markets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nike-shares-fall-on-grim-sales-outlook-china-woes-hit-turnaround-plans/articleshow/132116899.cms
+- Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek dialogue on Kashmir, resumption of bilateral ties - The Hindu
+  Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOWFJkLW9NZW5rY21rN1p5NkZ0S2I0ZHVaM1F6bEdOckd2Y25vZDhhc1VLdHVvcTlZWDNkbjFNYTBjb2ZvdkIzT2R2LU5JZGt3R3RUMURWZG01eUR2NjBZZEZweGhTZWxoaXJOeUQ3VFZBSUN6RzM3T0c0REpaM0Y0NlhLVmcwTHlZR3pBeEhwVWFzMnI3ZDhCWk9nSDJWUldrSHZoTVFLTWVaUjh5Z1RCR0hpRG5yYi1mNXBISUhkRVVEUlZ1RURRU1h0b3k3RUxwazdsYnJ2TUNfMEZEVkx3c2paZXZrSjVWWmc1Z0JZMzJsUG84bEwtcFVBdnh3clNzLWR6UmxULXJ4WUZyQi12R1l1c9IBmgJBVV95cUxNREdXOFRWLXFmejhjTnVSbkdFNGlBa21uQ3ZpcEpJaUZOc2NtamZmcEZNZGxCM0ZQQVpjLU13eE5WaFBGQ3FfMUFGTW1fQ3ZTWk4wWEt4M1ZrWmY1NjdiY2xpdTFIUjg1SlNkZ2tPUHlKc2t2QlJnakttV19jYzVfbUN1Q3VjSk9hUEZFbEROSlUyRkpxWS1MdzNUdENjdjd4RWhKcWhCZ1VpMzZoRzROeEFaVm1FSk5EVExhTXV1TUhOOVJUNXlEUk9UOER5by01TkRkZGxMMTdoc21kSllJbDVDQktlNzJSMFMzWkcyNHBObkpBaVRHZVZNQXpodWszeXRYLW16YVNBcUo0dlJIemJwc3RkeTlyeUE?oc=5
 
-- Nithin Kamath reveals Zerodha's playbook: No ads, no sales targets, customer-first approach
-  CEO Nithin Kamath said Zerodha's growth stems from prioritising customer interests over aggressive expansion. He highlighted transparency, word-of-mouth
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-reveals-zerodhas-playbook-no-ads-no-sales-targets-customer-first-approach/articleshow/132116836.cms
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- US stocks today: US stocks slip at open as US-Iran tensions cloud start to second half
-  The Dow, S&amp;P 500 and Nasdaq declined at the open, signalling a cautious start to the second half of 2026. Renewed U.S.-Iran tensions weighed on sentiment and clouded Middle East peace prospects
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-slip-at-open-as-us-iran-tensions-cloud-start-to-second-half/articleshow/132116754.cms
+- Japan PM arrives in Delhi; delighted to host you on your first visit to India, says PM Modi - Hindustan Times
+  Japan PM arrives in Delhi; delighted to host you on your first visit to India,
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOdWEybWMyMV9oYkFESHRiSElUU1ZvUTU4ZzVwYVYxcm9VY211a0VoSmhKdkNSU2FKYVJsSi1nc2JlbTQ5ODd6ck9vdmNzMHBCaGUxYm5IQVBKSUs1QTJuN0Rzd1lEU2lweGxRbDBaUnU3Uk55U3pQMUdXQl9XU0doVGxGVzduaUo0ck8wZmNhMzJGZHd0QWxfTnE1bGJIT2F5UWQyN1Z2S1lJaXhuV19LVTZVbFpNZlI2Z28zMmtnc0tURGFISG5Yb0U2RGNCQlV3SW56MGY2a1NNZVJ2UUtWX3RSbzV4Qnl0R1A0OGpBeWpmMnZGZzZ6SWk2Umx2YmFJU01qei1tRQ?oc=5
 
-- Pump-and-dump operation: Sebi bans 221 entities for up to 7 years; Hanif Shekh fined Rs 10 cr
-  Sebi has taken significant action against a large-scale pump-and-dump operation. 221 parties, including the alleged ringleader Hanif Shekh, have been barred from participating in the securities market for up to seven years.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pump-and-dump-operation-sebi-bans-221-entities-for-up-to-7-years-hanif-shekh-fined-rs-10-cr/articleshow/132115449.cms
+- India news Highlights, 1 July 2026: Adani didn’t consult us for ports deal, says Kerala CM - The Indian Express
+  India news Highlights, 1 July 2026: Adani didn't consult us for
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFFuTmVJY0Z6aVpTcHM2MnBDRWNEcFFxSU84bGo1UzRvUXl6U3ZTTUdQUllXOWxEbHNjWXU1a2F4aGNDT29OZVZYWWhJcDI2Q2J6VzFSV3FSYU9ZMFlfYUtTNF90MjVzaEFWLTlJUVNSTzRISVl2djRLNVlPcWlMTGliYVVnZUNqOWFuS29zWWlDTl80X204Skt4T1FRUUQwNTZHUmM0MjRUT3pUTW5scXdxTDdwMjFZNjVqREJ2TE91dExfREdfWVYwY3BBRGRfeHl0YXdHRdIB3gFBVV95cUxOS2djdVRza3RTR3lRMFFfWkRQcGxuQkVKYnVoZGFfRzI4Ykc2bmltZ2ZvdFlPWUZCUTVYbEczRE5TUVhockVPNWNNT25PU01XYXdKdFBINHBTZnhPOE1QelFzRkx2d0NOQW1YNVJQbFFrR0F5TTFQTEdqSlZyS3VCZ0ZEX3pLVm5wUVRPb0VZUEp6LVFhUlFvcWlBcXc0bHNrNXF5THJzVU5nT3F6dV9sdXJPTHBidDZIMy1RTkxUSWtVcW1jSHM0NnI5WDVReUREN0x5Y0JYdGNTNVJQYWc?oc=5
 
-- Quote of the day by Edwin Lefevre: "It is not the certainty of disaster ahead but the uncertainty of better days to come that keeps the investor from buying"
-  History shows strong rallies often begin with weak sentiment. Uncertainty presents a chance to acquire quality assets at good prices. Successful investing hinges on discipline.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edwin-lefevre-it-is-not-the-certainty-of-disaster-ahead-but-the-uncertainty-of-better-days-to-come-that-keeps-the-investor-from-buying/articleshow/132106135.cms
+- Fake Call Centre Busted In Uttarakhand, 11 Arrested For Duping Job Seekers - NDTV
+  Fake Call Centre Busted In Uttarakhand,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFva2lTQ3BpUDRBTThVRUYxOVRYVURFTzFoU09SMFM0bTZkbm9md0lQZTBrUmJTYnpBVzBzZHloTlZkakJHMzVoNEVPLXdfZkh6NmdNQlNicHVsQXNoRDhOckNVTWhHU1RUcmJXQktfQ0RFWUNmZjlFRnpSOThLY2VpSVFPUkZPUEVvUnUxQnZFaVo4dmRkZXJzdXRhSnowajlDNXVoN3VlMktwT0V1QTBCT0c?oc=5
 
-- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
-  Delhi High Court cancels bail of school staffer in minor rape case.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
+- Govt Asks Meta To Pause WhatsApp Username Rollout: Report
+  The Centre has reportedly issued a notice to Meta to pause the rollout of WhatsApp’s proposed username feature in India.
+  🔗 https://inc42.com/buzz/govt-asks-meta-to-pause-whatsapp-username-rollout-report/
 
-- "We Are Half Dead": Gurugram Family Seeks Justice For Son Run Over By Thar - NDTV
-  "We Are Half Dead": Gurugram Family Seeks
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcVhCZVVFLXk0ODdRN0g3aGp1MThVQ1RselZzdnc1eEhTc2l6SWFGXzZuU20xMFBBTFVkVmUxSEF2SmJkRkhwcWt5OUdaLXUzUFlPbDJQTWNIREpTYzNTS0dhbVh2Ni03RU1vSnJoc1pyR2FEX1R5RU1xRElteDlWb2F0amFzcVg3Mlo3a3V0bWVTcFBXbndXSldqaEhSSnhnNXE2SjB5WVNtZjZjRXRGa1lYcmRlaFQ4U1c5RG9wRUkwOEJsY1puRzZ2bHBmTEJvV3lodVV4UWlXRXVpRVN5UVdSTThUNVRaSC16NUtIQ0VsOWs5NlNCYWk4QdIBgwJBVV95cUxOYW9xeXQtdEoxR0JSd0VjMTZVRlVRSFdJSGEtdXVoMjNUdlJPd3MwY3hzTzF0NFMzSGpPN3M5eW5ERHlsOFdwUGZJX0ZkdW1LbzhrdDVtS05nZzdTVEpFLVg1RUdpOXdkYzNxRWVRTXNZdGFueWsxcE1jb2paYkpyYlpSWG5BYTE1bmM5VEN6bVE3cVRxM2xuM0Y5QmZ2TmVYZU14OXRFUWZxbFoxbWNyeUNaZEFqNHYwVmN3djItQVhxUWpDd2JpWnNOd2FkSmhiNm1GbExDSU5nY0NTUHVBWnoxUEtBVmk4N1hIZkcyT2VoUmlVMFBKTDhkLVltbmItbmJR?oc=5
+- PRISM DRHP: A Look At Shareholding Pattern & Key Personnel
+  OYO parent PRISM has filed its updated DRHP for a fresh issue-only IPO with the SEBI.
+  🔗 https://inc42.com/buzz/prism-drhp-a-look-at-shareholding-pattern-key-personnel/
 
-- Who's A Trusted Ally? US Official's India-China Comparison With Phone Example - NDTV
-  The US and China have been at odds over
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGdPOFZxUnpzQjF1b2VwUnVESVZ4emhzcS16MV9qME9TRmNIeVZzanRmNzBWNXd2SU1VbEhBU2ZjaXBsajhpWlJWZ0R0OWl6UFc4R19jRkFvSmllZFRaZ0xpTG1vbE5KV3RpTXdidFBqZ1p3VkE5VG51OVdHMjlPc2xvdnR4NXBKNXY0NHRMVGJXMkxjdjlxWlB2dXVvZFFoUmplZ1F2WjB0NU5fR2FyWTJlbjhjUdIBvgFBVV95cUxQdm9fQXpSb1lrZmF5RzJWUmRNZVN3WlpKd1NQYjZPUmtjNVBLYm5tRjA5TGtWSTg1TnBvQ3ZYREJYbVd4bF9fTS1IMXFmOTlTZ0tId3NuTjhRQnlpN1ltZTdEQVRYX0RLZ2k4S0dDMlNGRERGaDd4emd2eVc4WW5LY1E3aWFGQVlNM0FvMWR6WkFvY2wzcWxLYks2dzFzT25HaTBfblZ6YW5HRjBlMW1uTVdLTUJ4QThtbHd2RnZB?oc=5
+- Fibe IPO Pitch: More Than A Personal Loan Platform, But Will Investors Buy In?
+  Earlier this week, Pune-based Fibe filed its draft red herring prospectus (DRHP) with the market regulator SEBI.
+  🔗 https://inc42.com/features/fibe-ipo-pitch-more-than-a-personal-loan-platform-but-will-investors-buy-in/
 
-- Bill To Sack Jailed Ministers Back On Track, Likely In Monsoon Session - NDTV
-  Bill To Sack Jailed Ministers Back On Track,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2J0WXA0NGxtMk1YUWxTUVJmVlZtbFBKNjdaZHc0Sks0dEdIVWFKbTNMbnNLTEVhSnNuUHktSDd1WmJSTU5YUkgzT1ROa3FiNWJCNW5PVUp4WUVzOWZaR2ZGWE9iWUNNcHQ1Q0FfLTUwM3BPUlV5ZEExY0N2aW9PTExlRWxNTkdaOTU1Z0xZbkUxbVJPVFVncU12SUhtNDV4b1ZaeXJLV2trTGJqXzFj0gG3AUFVX3lxTE9qUnh1OGdwSVhaNktPX0tHZ0lLS1FDMy14Y0cyajB0aHJjNjRHUm0wNzZKTlJOam9ycnBhOERDWnM1SnVXV3B4aG5kS2E0NVRLSWI5NXFtMTd5Nm5hVkZJdmJ0eklNZnhZT25McWNwb25vZGNpZmhfNEZ3ck01TUhuUjJpRmdMRWdXNXpWZkpzSHNhODd6ZUJlbWJUbTBCNlZWZzdlaG9la3RyT3hnSjRfZGQ4eHVzWQ?oc=5
+- Hyderabad Startup Funding Soars In H1 2026, Delhi, Mumbai Funding Dips
+  The first half of 2026 delivered a surprising twist to the typical stories about what cities startup investors favour.
+  🔗 https://inc42.com/buzz/hyderabad-startup-funding-soars-in-h1-2026-delhi-mumbai-funding-dips/
 
-- CJP's Abhijeet Dipke: Why India's cockroach protesters are still on the streets in over 40C heat - BBC
-  CJP's Abhijeet Dipke: Why India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbjVUMjJfRjN6VFFNZ2I4bm5pTFdlb2dRLXJRQkF5TTZ0QTBvSWs5TmdaUlJpU0l5V2ZYbGoyQW8zT0Q5emc1dXB2QktHaEEwNmdOWlloYWVIdw?oc=5
+- Meru Cabs Withdraws 7-Year-Old Predatory Pricing Appeal Against Ola, Uber
+  Cab-hailing company Meru Travel Solutions (Meru Cabs), whose consumer mobility business now operates under the Alyte brand,
+  🔗 https://inc42.com/buzz/meru-cabs-withdraws-7-year-old-predatory-pricing-appeal-against-ola-uber/
 
-- Spense Raises $2.8 Mn From Arkam Ventures To Build Secured Lending Infra
-  India&#8217;s fintech ecosystem chased the dream of using technology and alternative data to lend to millions.
-  🔗 https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/
+- Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek dialogue on Kashmir, resumption of bilateral ties - The Hindu
+  Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOWFJkLW9NZW5rY21rN1p5NkZ0S2I0ZHVaM1F6bEdOckd2Y25vZDhhc1VLdHVvcTlZWDNkbjFNYTBjb2ZvdkIzT2R2LU5JZGt3R3RUMURWZG01eUR2NjBZZEZweGhTZWxoaXJOeUQ3VFZBSUN6RzM3T0c0REpaM0Y0NlhLVmcwTHlZR3pBeEhwVWFzMnI3ZDhCWk9nSDJWUldrSHZoTVFLTWVaUjh5Z1RCR0hpRG5yYi1mNXBISUhkRVVEUlZ1RURRU1h0b3k3RUxwazdsYnJ2TUNfMEZEVkx3c2paZXZrSjVWWmc1Z0JZMzJsUG84bEwtcFVBdnh3clNzLWR6UmxULXJ4WUZyQi12R1l1c9IBmgJBVV95cUxNREdXOFRWLXFmejhjTnVSbkdFNGlBa21uQ3ZpcEpJaUZOc2NtamZmcEZNZGxCM0ZQQVpjLU13eE5WaFBGQ3FfMUFGTW1fQ3ZTWk4wWEt4M1ZrWmY1NjdiY2xpdTFIUjg1SlNkZ2tPUHlKc2t2QlJnakttV19jYzVfbUN1Q3VjSk9hUEZFbEROSlUyRkpxWS1MdzNUdENjdjd4RWhKcWhCZ1VpMzZoRzROeEFaVm1FSk5EVExhTXV1TUhOOVJUNXlEUk9UOER5by01TkRkZGxMMTdoc21kSllJbDVDQktlNzJSMFMzWkcyNHBObkpBaVRHZVZNQXpodWszeXRYLW16YVNBcUo0dlJIemJwc3RkeTlyeUE?oc=5
 
-- 30 Startups To Watch: Startups That Caught Our Eye In June 2026
-  June was quite an eventful month for the world’s third-largest startup ecosystem. One of the most talked-about moments last month was the launch of Tinder.
-  🔗 https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-june-2026/
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- Dovetail Capital Raises ₹100 Cr To Expand Asset Servicing Business Globally
-  Investment asset servicing startup Dovetail Capital has raised about $10.5 million in its Series A round.
-  🔗 https://inc42.com/buzz/dovetail-capital-raises-%e2%82%b9100-cr-to-expand-asset-servicing-business-globally/
+- Japan PM arrives in Delhi; delighted to host you on your first visit to India, says PM Modi - Hindustan Times
+  Japan PM arrives in Delhi; delighted to host you on your first visit to India,
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOdWEybWMyMV9oYkFESHRiSElUU1ZvUTU4ZzVwYVYxcm9VY211a0VoSmhKdkNSU2FKYVJsSi1nc2JlbTQ5ODd6ck9vdmNzMHBCaGUxYm5IQVBKSUs1QTJuN0Rzd1lEU2lweGxRbDBaUnU3Uk55U3pQMUdXQl9XU0doVGxGVzduaUo0ck8wZmNhMzJGZHd0QWxfTnE1bGJIT2F5UWQyN1Z2S1lJaXhuV19LVTZVbFpNZlI2Z28zMmtnc0tURGFISG5Yb0U2RGNCQlV3SW56MGY2a1NNZVJ2UUtWX3RSbzV4Qnl0R1A0OGpBeWpmMnZGZzZ6SWk2Umx2YmFJU01qei1tRQ?oc=5
 
-- MapmyIndia Appoints Ex-CEO Rohan Verma As Joint MD
-  Over a year after stepping down from the role of CEO and executive director, Rohan Verma has taken charge of the company.
-  🔗 https://inc42.com/buzz/mapmyindia-appoints-ex-ceo-rohan-verma-as-joint-md/
+- India news Highlights, 1 July 2026: Adani didn’t consult us for ports deal, says Kerala CM - The Indian Express
+  India news Highlights, 1 July 2026: Adani didn't consult us for
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFFuTmVJY0Z6aVpTcHM2MnBDRWNEcFFxSU84bGo1UzRvUXl6U3ZTTUdQUllXOWxEbHNjWXU1a2F4aGNDT29OZVZYWWhJcDI2Q2J6VzFSV3FSYU9ZMFlfYUtTNF90MjVzaEFWLTlJUVNSTzRISVl2djRLNVlPcWlMTGliYVVnZUNqOWFuS29zWWlDTl80X204Skt4T1FRUUQwNTZHUmM0MjRUT3pUTW5scXdxTDdwMjFZNjVqREJ2TE91dExfREdfWVYwY3BBRGRfeHl0YXdHRdIB3gFBVV95cUxOS2djdVRza3RTR3lRMFFfWkRQcGxuQkVKYnVoZGFfRzI4Ykc2bmltZ2ZvdFlPWUZCUTVYbEczRE5TUVhockVPNWNNT25PU01XYXdKdFBINHBTZnhPOE1QelFzRkx2d0NOQW1YNVJQbFFrR0F5TTFQTEdqSlZyS3VCZ0ZEX3pLVm5wUVRPb0VZUEp6LVFhUlFvcWlBcXc0bHNrNXF5THJzVU5nT3F6dV9sdXJPTHBidDZIMy1RTkxUSWtVcW1jSHM0NnI5WDVReUREN0x5Y0JYdGNTNVJQYWc?oc=5
 
-- Supply6 Nets ₹48 Cr To Expand Product Portfolio, Enter New Markets
-  D2C nutrition and wellness startup Supply6 has raised about $5 million in a funding round led by Unilever.
-  🔗 https://inc42.com/buzz/supply6-nets-%e2%82%b948-cr-to-expand-product-portfolio-enter-new-markets/
+- Fake Call Centre Busted In Uttarakhand, 11 Arrested For Duping Job Seekers - NDTV
+  Fake Call Centre Busted In Uttarakhand,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFva2lTQ3BpUDRBTThVRUYxOVRYVURFTzFoU09SMFM0bTZkbm9md0lQZTBrUmJTYnpBVzBzZHloTlZkakJHMzVoNEVPLXdfZkh6NmdNQlNicHVsQXNoRDhOckNVTWhHU1RUcmJXQktfQ0RFWUNmZjlFRnpSOThLY2VpSVFPUkZPUEVvUnUxQnZFaVo4dmRkZXJzdXRhSnowajlDNXVoN3VlMktwT0V1QTBCT0c?oc=5
 
-- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
-  Delhi High Court cancels bail of school staffer in minor rape case.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
+- Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek dialogue on Kashmir, resumption of bilateral ties - The Hindu
+  Over 100 individuals from India, Pakistan sign open letter to Modi, Shehbaz; seek
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxOWFJkLW9NZW5rY21rN1p5NkZ0S2I0ZHVaM1F6bEdOckd2Y25vZDhhc1VLdHVvcTlZWDNkbjFNYTBjb2ZvdkIzT2R2LU5JZGt3R3RUMURWZG01eUR2NjBZZEZweGhTZWxoaXJOeUQ3VFZBSUN6RzM3T0c0REpaM0Y0NlhLVmcwTHlZR3pBeEhwVWFzMnI3ZDhCWk9nSDJWUldrSHZoTVFLTWVaUjh5Z1RCR0hpRG5yYi1mNXBISUhkRVVEUlZ1RURRU1h0b3k3RUxwazdsYnJ2TUNfMEZEVkx3c2paZXZrSjVWWmc1Z0JZMzJsUG84bEwtcFVBdnh3clNzLWR6UmxULXJ4WUZyQi12R1l1c9IBmgJBVV95cUxNREdXOFRWLXFmejhjTnVSbkdFNGlBa21uQ3ZpcEpJaUZOc2NtamZmcEZNZGxCM0ZQQVpjLU13eE5WaFBGQ3FfMUFGTW1fQ3ZTWk4wWEt4M1ZrWmY1NjdiY2xpdTFIUjg1SlNkZ2tPUHlKc2t2QlJnakttV19jYzVfbUN1Q3VjSk9hUEZFbEROSlUyRkpxWS1MdzNUdENjdjd4RWhKcWhCZ1VpMzZoRzROeEFaVm1FSk5EVExhTXV1TUhOOVJUNXlEUk9UOER5by01TkRkZGxMMTdoc21kSllJbDVDQktlNzJSMFMzWkcyNHBObkpBaVRHZVZNQXpodWszeXRYLW16YVNBcUo0dlJIemJwc3RkeTlyeUE?oc=5
 
-- "We Are Half Dead": Gurugram Family Seeks Justice For Son Run Over By Thar - NDTV
-  "We Are Half Dead": Gurugram Family Seeks
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcVhCZVVFLXk0ODdRN0g3aGp1MThVQ1RselZzdnc1eEhTc2l6SWFGXzZuU20xMFBBTFVkVmUxSEF2SmJkRkhwcWt5OUdaLXUzUFlPbDJQTWNIREpTYzNTS0dhbVh2Ni03RU1vSnJoc1pyR2FEX1R5RU1xRElteDlWb2F0amFzcVg3Mlo3a3V0bWVTcFBXbndXSldqaEhSSnhnNXE2SjB5WVNtZjZjRXRGa1lYcmRlaFQ4U1c5RG9wRUkwOEJsY1puRzZ2bHBmTEJvV3lodVV4UWlXRXVpRVN5UVdSTThUNVRaSC16NUtIQ0VsOWs5NlNCYWk4QdIBgwJBVV95cUxOYW9xeXQtdEoxR0JSd0VjMTZVRlVRSFdJSGEtdXVoMjNUdlJPd3MwY3hzTzF0NFMzSGpPN3M5eW5ERHlsOFdwUGZJX0ZkdW1LbzhrdDVtS05nZzdTVEpFLVg1RUdpOXdkYzNxRWVRTXNZdGFueWsxcE1jb2paYkpyYlpSWG5BYTE1bmM5VEN6bVE3cVRxM2xuM0Y5QmZ2TmVYZU14OXRFUWZxbFoxbWNyeUNaZEFqNHYwVmN3djItQVhxUWpDd2JpWnNOd2FkSmhiNm1GbExDSU5nY0NTUHVBWnoxUEtBVmk4N1hIZkcyT2VoUmlVMFBKTDhkLVltbmItbmJR?oc=5
+- Cabinet Reshuffle Buzz: When And What It Could Look Like - NDTV
+  &nbsp;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQcTJYeUpKVm41RUFkck41eFlES1BLUWFCYmJ2MlFjcFpRaXZ3cFNSRmlXWUFuRHRoUUdVak5WbFpRejdjTWRSeG1HMnNkTGlHY3NGX2RIalhqREw3T21QaXhwZi1tWnQ3aGFtMmdjQ0lPc2Jza2xMN0M0Q2FlODBTRnAwODBMOFNFbzBXdXAwLTBxbFZldVl0WHJUeVFFZEgxTlZv0gGrAUFVX3lxTE13eDM0a2hFMS1iMlExMGhmWnlhOUJjVTVTX3NDU1d3NnZmTWJYZ1JFRUx5UHRvdjd6TC1QeHVHM09EdkswTVpnX1VTMGZ5cWp3NnFkN2c4Z0tRVk5xTGxVUEMzWGRFTF9kbGNVM0E0OXozdjlTR2Z2X1pnLV9HaWtJcTFjcVJ0dXpLODJDa2QxaTZhT0FFMXZEXzVoYzRycFJmSERjUGoyeG43OA?oc=5
 
-- Who's A Trusted Ally? US Official's India-China Comparison With Phone Example - NDTV
-  The US and China have been at odds over
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGdPOFZxUnpzQjF1b2VwUnVESVZ4emhzcS16MV9qME9TRmNIeVZzanRmNzBWNXd2SU1VbEhBU2ZjaXBsajhpWlJWZ0R0OWl6UFc4R19jRkFvSmllZFRaZ0xpTG1vbE5KV3RpTXdidFBqZ1p3VkE5VG51OVdHMjlPc2xvdnR4NXBKNXY0NHRMVGJXMkxjdjlxWlB2dXVvZFFoUmplZ1F2WjB0NU5fR2FyWTJlbjhjUdIBvgFBVV95cUxQdm9fQXpSb1lrZmF5RzJWUmRNZVN3WlpKd1NQYjZPUmtjNVBLYm5tRjA5TGtWSTg1TnBvQ3ZYREJYbVd4bF9fTS1IMXFmOTlTZ0tId3NuTjhRQnlpN1ltZTdEQVRYX0RLZ2k4S0dDMlNGRERGaDd4emd2eVc4WW5LY1E3aWFGQVlNM0FvMWR6WkFvY2wzcWxLYks2dzFzT25HaTBfblZ6YW5HRjBlMW1uTVdLTUJ4QThtbHd2RnZB?oc=5
+- Japan PM arrives in Delhi; delighted to host you on your first visit to India, says PM Modi - Hindustan Times
+  Japan PM arrives in Delhi; delighted to host you on your first visit to India,
+  🔗 https://news.google.com/rss/articles/CBMihwJBVV95cUxOdWEybWMyMV9oYkFESHRiSElUU1ZvUTU4ZzVwYVYxcm9VY211a0VoSmhKdkNSU2FKYVJsSi1nc2JlbTQ5ODd6ck9vdmNzMHBCaGUxYm5IQVBKSUs1QTJuN0Rzd1lEU2lweGxRbDBaUnU3Uk55U3pQMUdXQl9XU0doVGxGVzduaUo0ck8wZmNhMzJGZHd0QWxfTnE1bGJIT2F5UWQyN1Z2S1lJaXhuV19LVTZVbFpNZlI2Z28zMmtnc0tURGFISG5Yb0U2RGNCQlV3SW56MGY2a1NNZVJ2UUtWX3RSbzV4Qnl0R1A0OGpBeWpmMnZGZzZ6SWk2Umx2YmFJU01qei1tRQ?oc=5
 
-- Bill To Sack Jailed Ministers Back On Track, Likely In Monsoon Session - NDTV
-  Bill To Sack Jailed Ministers Back On Track,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2J0WXA0NGxtMk1YUWxTUVJmVlZtbFBKNjdaZHc0Sks0dEdIVWFKbTNMbnNLTEVhSnNuUHktSDd1WmJSTU5YUkgzT1ROa3FiNWJCNW5PVUp4WUVzOWZaR2ZGWE9iWUNNcHQ1Q0FfLTUwM3BPUlV5ZEExY0N2aW9PTExlRWxNTkdaOTU1Z0xZbkUxbVJPVFVncU12SUhtNDV4b1ZaeXJLV2trTGJqXzFj0gG3AUFVX3lxTE9qUnh1OGdwSVhaNktPX0tHZ0lLS1FDMy14Y0cyajB0aHJjNjRHUm0wNzZKTlJOam9ycnBhOERDWnM1SnVXV3B4aG5kS2E0NVRLSWI5NXFtMTd5Nm5hVkZJdmJ0eklNZnhZT25McWNwb25vZGNpZmhfNEZ3ck01TUhuUjJpRmdMRWdXNXpWZkpzSHNhODd6ZUJlbWJUbTBCNlZWZzdlaG9la3RyT3hnSjRfZGQ4eHVzWQ?oc=5
+- India news Highlights, 1 July 2026: Adani didn’t consult us for ports deal, says Kerala CM - The Indian Express
+  India news Highlights, 1 July 2026: Adani didn't consult us for
+  🔗 https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFFuTmVJY0Z6aVpTcHM2MnBDRWNEcFFxSU84bGo1UzRvUXl6U3ZTTUdQUllXOWxEbHNjWXU1a2F4aGNDT29OZVZYWWhJcDI2Q2J6VzFSV3FSYU9ZMFlfYUtTNF90MjVzaEFWLTlJUVNSTzRISVl2djRLNVlPcWlMTGliYVVnZUNqOWFuS29zWWlDTl80X204Skt4T1FRUUQwNTZHUmM0MjRUT3pUTW5scXdxTDdwMjFZNjVqREJ2TE91dExfREdfWVYwY3BBRGRfeHl0YXdHRdIB3gFBVV95cUxOS2djdVRza3RTR3lRMFFfWkRQcGxuQkVKYnVoZGFfRzI4Ykc2bmltZ2ZvdFlPWUZCUTVYbEczRE5TUVhockVPNWNNT25PU01XYXdKdFBINHBTZnhPOE1QelFzRkx2d0NOQW1YNVJQbFFrR0F5TTFQTEdqSlZyS3VCZ0ZEX3pLVm5wUVRPb0VZUEp6LVFhUlFvcWlBcXc0bHNrNXF5THJzVU5nT3F6dV9sdXJPTHBidDZIMy1RTkxUSWtVcW1jSHM0NnI5WDVReUREN0x5Y0JYdGNTNVJQYWc?oc=5
 
-- CJP's Abhijeet Dipke: Why India's cockroach protesters are still on the streets in over 40C heat - BBC
-  CJP's Abhijeet Dipke: Why India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbjVUMjJfRjN6VFFNZ2I4bm5pTFdlb2dRLXJRQkF5TTZ0QTBvSWs5TmdaUlJpU0l5V2ZYbGoyQW8zT0Q5emc1dXB2QktHaEEwNmdOWlloYWVIdw?oc=5
-
-- India news Highlights, 30 June 2026—Delhi High Court cancels bail of school staffer in minor rape case - The Indian Express
-  Delhi High Court cancels bail of school staffer in minor rape case.
-  🔗 https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkRpT09QLUN0WWZ1QkIzenhvamwwM0xWRFVSM05ZWUJjUEJ1Z0xtcGprOGljYWRFaUFGdWJIUXpuejNDbHdURktsT0NnNktzMUxRWGVyeWJIT1dwYkpCLXlVeVJYTXJwS0RObGZEeTFhdDhGQ212X2FCUWdoQV9NdGlvaklJM3RpRmFCdHp0QXF0UG40QTFSOUF4R0tJdzNoV1d5UVBLWEJGcTRZYlM2YlozRkFBeUhfckJuSkRGLTR2RzRqQ3I5VER4bUtuV2VOWG1RM3pTam1wOUhEb3ktcGsxN0dkd9IB7AFBVV95cUxNaWhYMlVYN0RvV0F4VnR5dS1fbXJReEwxbWZIeWtLai1aX2MyNlhUODA4TGcwamp5TzNRcy10U1VMVFpuTElHVC1Vb1ZETVRqWDM0ZUVyR05pM0hMRm1ueF8yXzNDalY4cmtYQk9QdS1yVEh4aHZBSHBKLTBDV29idWQ4RU5uX1N3dnZfSGtjeTJOcTdOY1Bfd1VEa1prNTRaY0Y2M1RZU0lZbDNlRW9IeGFMLWxJd3oxM0pHM2R1Qmd6eHI5VlcwdWNJd0RWX3pvY3piTjN5UjVOY1RwNkFzZk13NzVLZ1laVXRsVw?oc=5
-
-- "We Are Half Dead": Gurugram Family Seeks Justice For Son Run Over By Thar - NDTV
-  "We Are Half Dead": Gurugram Family Seeks
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcVhCZVVFLXk0ODdRN0g3aGp1MThVQ1RselZzdnc1eEhTc2l6SWFGXzZuU20xMFBBTFVkVmUxSEF2SmJkRkhwcWt5OUdaLXUzUFlPbDJQTWNIREpTYzNTS0dhbVh2Ni03RU1vSnJoc1pyR2FEX1R5RU1xRElteDlWb2F0amFzcVg3Mlo3a3V0bWVTcFBXbndXSldqaEhSSnhnNXE2SjB5WVNtZjZjRXRGa1lYcmRlaFQ4U1c5RG9wRUkwOEJsY1puRzZ2bHBmTEJvV3lodVV4UWlXRXVpRVN5UVdSTThUNVRaSC16NUtIQ0VsOWs5NlNCYWk4QdIBgwJBVV95cUxOYW9xeXQtdEoxR0JSd0VjMTZVRlVRSFdJSGEtdXVoMjNUdlJPd3MwY3hzTzF0NFMzSGpPN3M5eW5ERHlsOFdwUGZJX0ZkdW1LbzhrdDVtS05nZzdTVEpFLVg1RUdpOXdkYzNxRWVRTXNZdGFueWsxcE1jb2paYkpyYlpSWG5BYTE1bmM5VEN6bVE3cVRxM2xuM0Y5QmZ2TmVYZU14OXRFUWZxbFoxbWNyeUNaZEFqNHYwVmN3djItQVhxUWpDd2JpWnNOd2FkSmhiNm1GbExDSU5nY0NTUHVBWnoxUEtBVmk4N1hIZkcyT2VoUmlVMFBKTDhkLVltbmItbmJR?oc=5
-
-- Who's A Trusted Ally? US Official's India-China Comparison With Phone Example - NDTV
-  The US and China have been at odds over
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGdPOFZxUnpzQjF1b2VwUnVESVZ4emhzcS16MV9qME9TRmNIeVZzanRmNzBWNXd2SU1VbEhBU2ZjaXBsajhpWlJWZ0R0OWl6UFc4R19jRkFvSmllZFRaZ0xpTG1vbE5KV3RpTXdidFBqZ1p3VkE5VG51OVdHMjlPc2xvdnR4NXBKNXY0NHRMVGJXMkxjdjlxWlB2dXVvZFFoUmplZ1F2WjB0NU5fR2FyWTJlbjhjUdIBvgFBVV95cUxQdm9fQXpSb1lrZmF5RzJWUmRNZVN3WlpKd1NQYjZPUmtjNVBLYm5tRjA5TGtWSTg1TnBvQ3ZYREJYbVd4bF9fTS1IMXFmOTlTZ0tId3NuTjhRQnlpN1ltZTdEQVRYX0RLZ2k4S0dDMlNGRERGaDd4emd2eVc4WW5LY1E3aWFGQVlNM0FvMWR6WkFvY2wzcWxLYks2dzFzT25HaTBfblZ6YW5HRjBlMW1uTVdLTUJ4QThtbHd2RnZB?oc=5
-
-- Bill To Sack Jailed Ministers Back On Track, Likely In Monsoon Session - NDTV
-  Bill To Sack Jailed Ministers Back On Track,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2J0WXA0NGxtMk1YUWxTUVJmVlZtbFBKNjdaZHc0Sks0dEdIVWFKbTNMbnNLTEVhSnNuUHktSDd1WmJSTU5YUkgzT1ROa3FiNWJCNW5PVUp4WUVzOWZaR2ZGWE9iWUNNcHQ1Q0FfLTUwM3BPUlV5ZEExY0N2aW9PTExlRWxNTkdaOTU1Z0xZbkUxbVJPVFVncU12SUhtNDV4b1ZaeXJLV2trTGJqXzFj0gG3AUFVX3lxTE9qUnh1OGdwSVhaNktPX0tHZ0lLS1FDMy14Y0cyajB0aHJjNjRHUm0wNzZKTlJOam9ycnBhOERDWnM1SnVXV3B4aG5kS2E0NVRLSWI5NXFtMTd5Nm5hVkZJdmJ0eklNZnhZT25McWNwb25vZGNpZmhfNEZ3ck01TUhuUjJpRmdMRWdXNXpWZkpzSHNhODd6ZUJlbWJUbTBCNlZWZzdlaG9la3RyT3hnSjRfZGQ4eHVzWQ?oc=5
-
-- CJP's Abhijeet Dipke: Why India's cockroach protesters are still on the streets in over 40C heat - BBC
-  CJP's Abhijeet Dipke: Why India's
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbjVUMjJfRjN6VFFNZ2I4bm5pTFdlb2dRLXJRQkF5TTZ0QTBvSWs5TmdaUlJpU0l5V2ZYbGoyQW8zT0Q5emc1dXB2QktHaEEwNmdOWlloYWVIdw?oc=5
+- Fake Call Centre Busted In Uttarakhand, 11 Arrested For Duping Job Seekers - NDTV
+  Fake Call Centre Busted In Uttarakhand,
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHFva2lTQ3BpUDRBTThVRUYxOVRYVURFTzFoU09SMFM0bTZkbm9md0lQZTBrUmJTYnpBVzBzZHloTlZkakJHMzVoNEVPLXdfZkh6NmdNQlNicHVsQXNoRDhOckNVTWhHU1RUcmJXQktfQ0RFWUNmZjlFRnpSOThLY2VpSVFPUkZPUEVvUnUxQnZFaVo4dmRkZXJzdXRhSnowajlDNXVoN3VlMktwT0V1QTBCT0c?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-01 14:26:51 UTC_
+_Last updated: 2026-07-01 19:49:58 UTC_
