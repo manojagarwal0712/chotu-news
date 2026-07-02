@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Artificial lake, monument park, riverfront: Jammu is reinventing itself before Amarnath Yatra
+- Modi, Takaichi discuss West Asia crisis, Ukraine conflict, condemn cross-border terror from Pakistan
   
-  🔗 https://indianexpress.com/article/india/jammu-amarnath-yatra-tawi-riverfront-monument-park-tourism-10768482/
+  🔗 https://indianexpress.com/article/india/modi-takaichi-discuss-west-asia-crisis-ukraine-conflict-condemn-cross-border-terror-from-pakistan-10768800/
 
-- The Daily Catch-Up: Why Mehbooba Mufti is going to Iran, and other top news
+- Shia leader Aga Hassan stopped from boarding Delhi-Tehran flight for Ayatollah Ali Khamenei funeral, his son claims
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-mehbooba-mufti-iran-top-news-10768443/
+  🔗 https://indianexpress.com/article/india/shia-leader-aga-hassan-stopped-from-boarding-delhi-tehran-flight-for-ayatollah-ali-khamenei-funeral-his-son-claims-10768791/
 
-- ‘12 million watched unreleased movie’: No bail after Vijay starrer Jana Nayagan leaks
+- Ram Temple ‘theft’ row: Footage shows 5 key accused removing, hiding cash bundles
   
-  🔗 https://indianexpress.com/article/india/jana-nayagan-piracy-case-madras-hc-bail-denied-vijay-10768374/
+  🔗 https://indianexpress.com/article/india/ram-temple-theft-row-footage-accused-hiding-cash-bundles-10768710/
 
-- Can CBSE skip parliamentary panel queries? Ministry, Opposition spar over accountability
+- Vijay’s party welcomes 4 ex-ministers, several ex-MLAs as exodus from AIADMK continues
   
-  🔗 https://indianexpress.com/article/india/parliamentary-panel-cbse-row-questions-chairperson-education-ministry-10768198/
+  🔗 https://indianexpress.com/article/india/aiadmk-leaders-join-tvk-c-vijayabaskar-m-r-vijayabhaskar-defection-10768612/
 
-- Unprecedented security in place as first batch of Amarnath pilgrims arrive in Kashmir
+- Why Kashmir’s mutton shortage cuts deeper than the dinner table
   
-  🔗 https://indianexpress.com/article/india/unprecedented-security-first-batch-amarnath-pilgrims-kashmir-10768113/
+  🔗 https://indianexpress.com/article/india/why-kashmirs-mutton-shortage-cuts-deeper-than-the-dinner-table-10768616/
 
 - Tech updates (July 2, 2026): Oura Ring Prime Day deals, Huawei Band 11, Phone (4b) RCB edition, more
   
@@ -40,185 +40,145 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ubtech-brings-companion-robots-closer-to-consumers-with-new-u1-humanoid-series-10767968/
 
-- "PoK Not Part Of Pakistan": Protesters Warn Islamabad Of Reaching Out To India - NDTV
-  "PoK Not Part Of Pakistan": Protesters Warn Islamabad
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmVwdGI4cmdBcnJWVTA3MFZwSHVudXhaOU5SNEQtLWp1WXF3MmFqOG9pSVdqSzJQM3BGZFhybTREajJKVVpxV2VyUERVWW0xcXRoZk1WYU5XZlA0dDVzRzNySXk3c2xidXJtSVl4Wjhfdmx5SnZwcmh5Nm1nbjgzdFdfd3pLZS1DWC1QOW5vcHRkTV9BdTVlYmtNVGdFWTh1S1pSZldMbHRCRFIxTEpsSzZJbk13Q2RjT2FObGMzV2JwU3VqMFVtQXpJdU05WHpoM3ZFRNIB3AFBVV95cUxPRVJpSW5NYThGUldGb3o0dVZDQUNxWVJpSVgzODVQdHJaeDhqSWY3N2JSTXBtT3NJV0hJUGFBQURYaGpQankyRmh6N3VqX0VZcU1uTkY1NFlGOFozUUZYdDVGZ0JzdThJSEVUM1VBaHpaRjVaUEg1S005ZS16bWJ0QmFBTHVickNHVDlYRUpzaTBJMlFqbjYxRlFjT0ZvY2x0NWV4cFM2NGlER3NHZXZOUkJCTjdGbVFVUFNMQkk3ckVYWUtqN3lkVU40alEtRnlJek1iNVREVUJ0dXp2?oc=5
+- Air India slashes fuel surcharges on long-haul international flights as oil prices fall: How airfares will change
+  The fuel surcharge for flights to North America and Australia has been lowered to $200 per ticket from $280. For services to Europe and the UK
+  🔗 https://www.livemint.com/companies/news/air-india-slashes-fuel-surcharges-on-long-haul-international-flights-as-oil-prices-fall-11783011633049.html
 
-- Fake Marriage Racket Busted In Delhi, 3 Arrested: Police - NDTV
-  Fake Marriage Racket Busted In
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXBJOV9yOHF2SkZVbTJxUURhYlpyRlVLTXU3Nmg0VXRNbTFMVy1NN3N6dFNuSjRIdW11dnNFQ0ZOQ0JzWkVSVjUtbE0yS3dIeFBJd3FKeWdBMG14YU05NFVsclNZbVYzZ04xeHVPM0xVNkJnTGRJbGVtVTA3ZEdiNEczYjZXWDNDRG42VGk5R0VwNU92NXpSWnRDTdIBowFBVV95cUxQWXkyQjh5NXlWMFpiYkZVQVlsSGtreVg0WkFnb3ZnNlZZUEt0TW9WM2RIa1ZBeldZUEV4WGJ5aHg1ckVtNGd3cVo5ZWh2cU9iM3RZYm8zN080N0JTcEJQU0hPWnptQ2M4M19YaVpkb1g4MFRQcnJzTDUtcUp5UE9EZzJkU24xd2ptMExhX0ZXbmRPUy01M3lpNkJyTUt1NzFpWW5F?oc=5
+- US ‘meritocratic’ made rise possible: Indra Nooyi says, ‘would never be Pepsi CEO in any other country, including India’
+  Indra Nooyi, former PepsiCo CEO believes that the US meritocratic system, enabled her rise. She said she never would have been “a chief executive of a global company in any other country, including
+  🔗 https://www.livemint.com/companies/news/us-meritocratic-made-rise-possible-indra-nooyi-says-would-never-have-been-pepsi-ceo-in-any-other-country-including-india-11783008355864.html
 
-- Air India Express Resumes Flights To All Middle East Destinations - NDTV
-  Air India Express Resumes Flights To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5EcnJIUFJMUUZtamU3Zjl6YjRIQS1jZTNyOW1BOWNna2l4ejg4SFQxNEw3RlVDYm5LS0hRNExsU3Z2djNqWEtZTmc3TzY3NmRfSjFjMk9sRkJvVWt2UnU1eUg4SWF6QmdjczV2TXh3T3lESGI1UnFKS1QxRHl2UFA0VUFNYXFKYXU5M3BaNHhkTlEyUHhXMm5GV2xPMk10VjZ1R2JTYjZvd9IBsgFBVV95cUxQX2Z0QUJRWDczTDlPbHkxWWRvSUw0aENRdkpUUDhJSmJxUTJ3cm9sMk8xV0ZackZlcE5lVE9OR1VxODZtLWVUaVdLeUNLRFZQMnhubFEzQ25kcDVNcmh6N1pMbmNqaFdCSnI3SDZ4bkoyNWJncXl4RkdYdEJ4SHVjN3VHTFE3MFBBb0NTSUJHTUZWbEdvNVY2ZV9fVFZNUFJuaWNKTFFnM2dnM1R2QW1kLWtn?oc=5
+- Trump administration and Anthropic did not have talks about government taking stakes in the AI firm: Report
+  The Trump administration and Anthropic have not discussed government stakes in the AI firm. The comments came after a media report suggested that OpenAI might
+  🔗 https://www.livemint.com/companies/news/trump-administration-and-anthropic-did-not-have-talks-about-government-taking-stakes-in-the-ai-firm-report-11783009870738.html
 
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRn
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
+- Adani Enterprises launches $1.05 billion share sale, begins second phase of  ₹16,600 crore fundraising
+  Gautam Adani-led Adani Enterprises is returning to the equity market with a qualified institutional placement to raise at least $1.05
+  🔗 https://www.livemint.com/companies/gautam-adani-enterprises-stock-share-sale-fundraising-qip-rights-issue-11783001732983.html
 
-- 'You have to earn': Former India cricketer says Vaibhav Sooryavanshi should not replace 'fabulous' Sanju - The Times of India
-  'You have to earn': Former India cricketer says Vaibhav
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxNZFFLZHlmWVd6aV9XQU9hazdNSUlmVUFfOC15NXllNjVFd2Z1YzFaZmh6UWVqTFhfNVozZjJjbmtRcXRJVGo3YS1XN1luTC0wR1kwWjRiQl8xY0hfNlQwNlBBVWJyU19MNTdHOEF2YjZxdmNBNVpuN2s2T3pJaWVnYVRhaWg2WE9QUnBvU2k2RldnY25ZLS1uODg2Skx4eER4S3NFMG9sUEdvVHd5MVVna2tlcTFyR2ZIZDh3Nml4c1MwM0E3czEyWjVHWHlCQWZveUhRUVFyR0hXTnpxVWU4RFJKc0phUUdWOWFuRC1Jd3FULVlWQjg4THN0MnJxZHRqSVlvYUl2M1dQUEdtLTFmZ0pZbmNPOWNTdUQxQ9IBogJBVV95cUxObDEyd3F3Ti04MUhFSzZNVjl1RkdNQ2laZ2NheU1RNUhUbWRLcGNELXBfal96UTVsZjB1b0FvbFJZOXY3dWc5TWdHbDlPYVFKOEFWWDByRGJrX3dOR21OaDFhTnk3YzMyY0MtTkNXR1BUbjBLZE54N1IwUXp0RTM4bE1aYUx2MUE2Vy0ySGl4X3FnVWhmY0REblhLVWxVWHpCTDQ3blJBNXlCNTZCbTdySlNlZHhpNGJjZGYxYmdLVVA5MkpmNlJBbzFKM04zQ1BFZ1ZaWGtNX0h5dElyNDl4aG5DbkpLMkNOdHo4ZWMzVVJNdHVNdm1PbU5KZnZ0OHloQlRuYndfcC1sSVBQUFE2M2JZalNBYmxmTUZ0Q01Va0RUdw?oc=5
+- Adani flagship seeks $1 billion via placement, terms show
+  Adani Enterprises Ltd. is seeking to raise as much as 100 billion rupees ($1 billion) through a sale of shares. The ports-to-power conglomerate
+  🔗 https://www.livemint.com/companies/news/adani-flagship-seeks-1-billion-via-placement-terms-show-11783006683194.html
 
-- Stock Market News, July 1, 2026: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision - WSJ
-  The WSJ published a story on July 1, 2026,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5
+- WhatsApp issues username FAQs amid govt scrutiny—Can someone find you with it? Could you be impersonated? Check details
+  WhatsApp has released detailed set of frequently asked questions (FAQs) for users on its new username feature following controversy over
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-issues-username-faqs-amid-govt-scrutiny-can-someone-find-you-with-it-could-you-be-impersonated-check-details-11783012805972.html
 
-- Stock market today: Nasdaq dips, Dow and S&P 500 rise as markets weigh Kevin Warsh's remarks - Yahoo! Finance Canada
-  The Dow and S&amp;P 500 rise as markets weigh Kevin Warsh
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmkzakVvYXk3eHpmVkFNMGFRei01dXhySGsyT24wRTlBQzYxZHJmeEk2VGxwRWRzTi1RbS1kWHhHOG9RdFNYY3IzbW9VRmpZX1RyS2JNOGNEaW1EMU96UURqNmlheEdEWnJpclVva0prb1d3bHNkalRHX0hiRnhBSVY2U2dxaEh0cDdjdS1mRkJPOVk1eFlrUDlhcy1fYWMxanNQT28tR3lzNzhjY1IxOUhiTC1wXzdnTDNWcUZHVQ?oc=5
+- Oppo Reno 16, Reno 16c launched in India: Check price, specs and more
+  Oppo has launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at 
+  🔗 https://www.livemint.com/technology/gadgets/oppo-reno-16-reno-16c-launched-in-india-check-price-specs-and-more-11782977448046.html
 
-- Stock futures gain as chip stocks bounce, weak jobs report eases interest rate pressure: Live updates - CNBC
-  Stock futures gain as chip stocks bounce, weak jobs report eases interest
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
+- Meta plans to rent AI computing power as it takes on AWS, Google Cloud: Report
+   Meta is developing a cloud infrastructure to sell AI computing access. It
+  🔗 https://www.livemint.com/technology/tech-news/meta-plans-to-rent-ai-computing-power-as-it-takes-on-aws-google-cloud-report-11782956128039.html
 
-- Jobs Report Today: Stock Futures Jump After June Hiring Misses Expectations — Live Updates - WSJ
-  Jobs Report Today: Stock Futures Jump After June H
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5ERzdWcTBwekVjWjdVRzRseWxIZm9KZ0dPTk1yc2hDaHNXMm5nVTRLMzZVYlpfOW83LU9DdmlHTEJHTGpaZTNmUDJ2cTd2bmRSbUpvZUFZTi1kM2gzQUY5bWhLWTlaM1pMTGVUMjRTVDhGZ3duMFo0T2N4NWE5UQ?oc=5
+- WhatsApp usernames could open the platform to impersonations and scams, warn cybersecurity experts: Here is how
+   WhatsApp is launching usernames for privacy, enabling users to interact without disclosing phone numbers. While this can protect user identity, experts warn of risks like impersonation and scams.
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-usernames-could-open-the-platform-to-impersonations-and-scams-warn-cybersecurity-experts-11782886397673.html
 
-- Sensex settles 550 pts higher, Nifty closes above 24,150: US-Iran talks among 7 key factors behind market... - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnFUdzlLZlA5ckFpNG9sT29kcXc2YnlFb2N2c2pnUF9IQVo3WWpQOHptbVRnRkVBTUtNUmpEYjV1Z2xTLUpJNnFUaHJCY0d6RXhjR2FuY0d1N0k1dWRkSWNkWGlWVDQwRU
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnFUdzlLZlA5ckFpNG9sT29kcXc2YnlFb2N2c2pnUF9IQVo3WWpQOHptbVRnRkVBTUtNUmpEYjV1Z2xTLUpJNnFUaHJCY0d6RXhjR2FuY0d1N0k1dWRkSWNkWGlWVDQwRUQtTlJsQlpoeHBxUHp3R2otWThyVzZBb0tEUnhxQ1VRWGJUb1ZqbWRWbDBzRFdEcnR2a0dnRE9MeEs1U1pWZEI3VzJyU0FNSEIyYndwQkNKNjducjBmRlhJZy05bTEtYkZ3OEI2X29LV1M2c2lpb3dlRnR1a0FPMG5jR09HY1hpTWFR0gHwAUFVX3lxTE1Ob1hjTkNyMjZFUTVRNWJyOGNlTk5FZDhrTktBYndrMDZBSE1lbHpBWWZfVjR0b0lkelhfSXM3UEdVYlhFaE5wQmdvRWx2MnctLXVNWVc2RDItdjl5ZkwyMTk5b2VyYjBMYzNtMzBGR054VExPRlZKQktnVXRKV20zc1NvSWM0STg2V2VHdzZCVk5NTUJ5Z244Rk1kM0pRdG9sdExKenJFN1VUTmJqTGZmRjJTWUUtdkV0dG5meWozaDRPMTM4N2JOV1U5TFRFRjdQdF9pU2pHRG1JWWNiUHdERjltRVNhenVKcXBXQU0zTw?oc=5
+- Key details about iPhone 18 Pro leak online after hackers gain access to 630 GB data from Tata Electronics
+  Leaks from Tata Electronics reveal details about Apple's upcoming iPhone 18 Pro, including component suppliers and internal documents. This breach, involving over 200,000 files, threatens Apple's
+  🔗 https://www.livemint.com/technology/tech-news/details-about-iphone-18-pro-leak-tata-electronics-hack-630-gb-data-dark-web-11782881167034.html
 
-- Unlike many big technology companies, cafeteria meals are not free at Nvidia; as analysts say: Deeply roo - The Times of India
-  Unlike many big technology companies, cafeteria meals are not free at Nvidia; as analysts say:
-  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNa0c5M1pQZVpra2o5ZTROZXpsbXNlSFhHVUk4c0l2bDlRQ2tZSE4xUFowWmFIOU5EaG5OblQ3QlFYUDMwNUdLcWwtYmJvMjBDNjE4QlN1WUV4ZURTT2FtRVp3MXB3OHdoTi1tRmNudTJycnhHTFNkMTZrTElvcW9OLXNob0tBNnpVTGFrV3g5RFNOb2U4U0VqRTlRYzJES2pqMkpQczdUUjFpVWsyQkpHM0tTejN2X1JMcE4wRWplMUt1aGExRm5Ib1Z3bURMcV9hczRHQkZKckhkQWhuLVBFQUJyUTRuVEZmd3RIWDBJZkRhQnh5MElLaFV3ZmZoMHdpb3Zua0s4b0paVktVU1hpTWdQWGlNZ1ZfTURkdE9iWFZHQkpZcmhOVGdCX1Q4WldW0gG2AkFVX3lxTFB2dG9PX3BUSG1mSzlwd01ZempSMTBhT3VKRlJzNldUVFUtTGloeDRWcENVZkJKZ3ByWlRtVm1QWnRSOGVRdFYwVU5wMFdFbkRvLUVGS2lnelZrakJEeXNsSUUxbll3UUF3YjhiUWNCcjVuT3d1UzVRamxlWHkzSnJTLThUOV9xOXprb0FPZDBucHdaaTRFdUZGUy0zaFR0Z1RZZmtVT3lPemt5Yy1Da2dOaTB0NnJ5Tm0zWFhQLXNScl9rTW5aNEZ2MDJZVFp3aDNDREtRNzNIbG9SNF9xc1hpYkdHZUNBLXNvdzVvMnp5NGp2TGlhVFFfbWFWQnZIYnZhWlBYOVM4YmdrWTRzdHBzWlNXMzhwNEljRk5wRWZ4cnRwNUd2YjYwVGx1dk1kOV9TbmtjS3c?oc=5
+- US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally
+  The VanEck Semiconductor ETF plunged over 5%, led by Micron, Intel, and AMD. Concerns over potential AI computing oversupply, fueled by Meta's plans, prompted investors to re-evaluate lofty valuations
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms
 
-- Flipkart appoints Vinay Vaidya as senior vice president of technology for supply chain - The Economic Times
-  Flipkart appoints Vinay Vaidya as senior
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRng2Y0Y3OEU0b2RDWERMYTBsbzFmMU56cHN3VXlWTWxjUnJaMTNHM0h2NXRtU1ozdGh3Q2VzRkVacWg1Rmh2dVEwTTI0Ui1WRFNvS0YzRVRVUDNMT3lrVldvU1RJeDhXdEhxbms0ZHdQekRtdnRZaFZwRUtiQndIV3lvZGZCcHI4enh5RE5XRE9fTXZJd3d0NFl4cnlMRjlDWmFtUzlFWWMxc3RRa0lXTmFoTjRQZS1VRTRZUE13QWNOT0dibFR3LU0wOC1ZXzNqRmxiVktaaWhESVZsYlcxWkUwMzZ0end1Q2ViRVFJcjY3ZHdiYVlyS9IB_gFBVV95cUxPdllDU252MTBicWRaZ1NIaVpTLTY5N29TdFpCWm9xQW5KWnREaFNNR0hGbHlTUnd2Yy1ZdjhCLU1QZUZNNmRsZ3RpdVk1Yy1LWExwNlNiZHFTS0doMVR0OVhmdy1BRk9CZzk0QXAtZ1RRRGNhMkRSYVlvWEkyQ1FqQVdSNjFiU2JPSkpQdTFOdTREWTV4a0R6Y2VYU0doay1Ja2thNWhhZFBhZllJcnJOMlpOZlBvcWRWZHlNS1E4amFmTzdqSmRyVEZBQnFGcEpNRE9LLVhhb1NTRHlmWC10ajlHcENtdUJocEVEdll6R1dDcEZpaHgxV2JUYmdFZw?oc=5
+- Icra cuts Utkarsh Small Finance Bank ratings on weak asset quality
+  Icra downgraded Utkarsh Small Finance Bank's debt ratings. High credit costs, fresh slippages and lower operating profitability weighed on the lender.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/icra-cuts-utkarsh-small-finance-bank-ratings-on-weak-asset-quality/articleshow/132141926.cms
 
-- Claude Science is Anthropic’s newest flagship product - MIT Technology Review
-  Claude Science is Anthropic�
-  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Friday
+  Indian equities rallied as easing Middle East tensions pushed crude prices lower and dovish Fed remarks boosted sentiment. Sensex gained nearly 580 points, while analysts expect Q1
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132141863.cms
 
-- The Trionda Story: The Technology Inside the 2026 FIFA World Cup Ball - sify.com
-  The Trionda Story: The Technology Inside the
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWpEQmFNdVVNOW9xNjZsazVUbHNlMXk3OGZCRmdmaWdEUVB1eEx4NXhFU1hFV3NWcnpwQXVSVmRSSTlKbHVGWUd1TWhyUGRyY1pSVVZ1TUxCajJFaC13dDJlNXhxd0luUjZsTGpBdHNOVkJTSVZOd2NVbTZRUGU5d0lGX2xhQXY3djNTY1JZdUhyd2gwVEVLTFlZWGhDTWFuX2I4?oc=5
+- Market Trading Guide: Suven Life Sciences among 2 stock recommendations for Friday
+  Analysts recommend buying NDR Auto and Suven Life Sciences after bullish breakouts. Investors await US jobs data, the India–Japan summit and Q1FY27
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms
 
-- Why WhatsApp’s usernames feature has sparked a showdown with Indian government - The Indian Express
-  Why WhatsApp’s usernames feature has sparked
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPeS11LXl6Y1VsZmlPd3dpNkxvaE8zd1B1SFdudlQ1a0ZmTnA3SnJwS0JlVFRSVjdFSDVEdVVCR3dYUk5ySlA1NVdNSmtELWdzWmtjYU1NTXZWRWdwM2JkOEh3STk1bTNrQW1nS0NwNjllTXhkZnk0V1A0dXlWd2ZXNUJLVzNmRnpBOUNoNm9pckVPRDVYQXNKc2pab3ZheGlKNDlKc1VyNNIBrgFBVV95cUxPdFdqRlQtWjJILWg1cDJ6UXhDcXBfTVV1M1EzVW9ZcXFyY3hZZnZfTXZEODFGeWh0SnpFMUJFVDl6VHpucDVxNGQ0ZDRfc1NpMlJ6SzYwSm9kWHpHVFkwNzZYd3pBMFpxdnhPYjRpTnB4N3hGT1d0Mkg5bWo1T3NqcGctd2RNSGVtWkZPSGVSdEhsUkM3d0g1V2FCZXpjOElZSEloNF95RHV3UHdUYWc?oc=5
+- MacRitchie to sell up to $200 million stake in India's PB Fintech, term sheet shows
+  MacRitchie Investments is set to divest up to $200 million in PB Fintech, the parent company of Policybazaar and Paisabazaar. This move involves selling approximately 2.6% of the company's outstanding shares
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms
 
-- Stock Market News, July 1, 2026: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision - WSJ
-  The WSJ published a story on July 1, 2026,
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Stock market today: Nasdaq dips, Dow and S&P 500 rise as markets weigh Kevin Warsh's remarks - Yahoo! Finance Canada
-  The Dow and S&amp;P 500 rise as markets weigh Kevin Warsh
-  🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmkzakVvYXk3eHpmVkFNMGFRei01dXhySGsyT24wRTlBQzYxZHJmeEk2VGxwRWRzTi1RbS1kWHhHOG9RdFNYY3IzbW9VRmpZX1RyS2JNOGNEaW1EMU96UURqNmlheEdEWnJpclVva0prb1d3bHNkalRHX0hiRnhBSVY2U2dxaEh0cDdjdS1mRkJPOVk1eFlrUDlhcy1fYWMxanNQT28tR3lzNzhjY1IxOUhiTC1wXzdnTDNWcUZHVQ?oc=5
+- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
+  Got 38 parasites in brain after India visit, says UK woman. 3 facts
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
 
-- Stock futures gain as chip stocks bounce, weak jobs report eases interest rate pressure: Live updates - CNBC
-  Stock futures gain as chip stocks bounce, weak jobs report eases interest
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
+- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
+  Mehbooba Mufti, J&amp
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
 
-- Jobs Report Today: Stock Futures Jump After June Hiring Misses Expectations — Live Updates - WSJ
-  Jobs Report Today: Stock Futures Jump After June H
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5ERzdWcTBwekVjWjdVRzRseWxIZm9KZ0dPTk1yc2hDaHNXMm5nVTRLMzZVYlpfOW83LU9DdmlHTEJHTGpaZTNmUDJ2cTd2bmRSbUpvZUFZTi1kM2gzQUY5bWhLWTlaM1pMTGVUMjRTVDhGZ3duMFo0T2N4NWE5UQ?oc=5
+- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
+  'Will Surrender Before Court': Jailed
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
 
-- Sensex settles 550 pts higher, Nifty closes above 24,150: US-Iran talks among 7 key factors behind market... - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnFUdzlLZlA5ckFpNG9sT29kcXc2YnlFb2N2c2pnUF9IQVo3WWpQOHptbVRnRkVBTUtNUmpEYjV1Z2xTLUpJNnFUaHJCY0d6RXhjR2FuY0d1N0k1dWRkSWNkWGlWVDQwRU
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnFUdzlLZlA5ckFpNG9sT29kcXc2YnlFb2N2c2pnUF9IQVo3WWpQOHptbVRnRkVBTUtNUmpEYjV1Z2xTLUpJNnFUaHJCY0d6RXhjR2FuY0d1N0k1dWRkSWNkWGlWVDQwRUQtTlJsQlpoeHBxUHp3R2otWThyVzZBb0tEUnhxQ1VRWGJUb1ZqbWRWbDBzRFdEcnR2a0dnRE9MeEs1U1pWZEI3VzJyU0FNSEIyYndwQkNKNjducjBmRlhJZy05bTEtYkZ3OEI2X29LV1M2c2lpb3dlRnR1a0FPMG5jR09HY1hpTWFR0gHwAUFVX3lxTE1Ob1hjTkNyMjZFUTVRNWJyOGNlTk5FZDhrTktBYndrMDZBSE1lbHpBWWZfVjR0b0lkelhfSXM3UEdVYlhFaE5wQmdvRWx2MnctLXVNWVc2RDItdjl5ZkwyMTk5b2VyYjBMYzNtMzBGR054VExPRlZKQktnVXRKV20zc1NvSWM0STg2V2VHdzZCVk5NTUJ5Z244Rk1kM0pRdG9sdExKenJFN1VUTmJqTGZmRjJTWUUtdkV0dG5meWozaDRPMTM4N2JOV1U5TFRFRjdQdF9pU2pHRG1JWWNiUHdERjltRVNhenVKcXBXQU0zTw?oc=5
+- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
+  Army Chief Dhiraj Seth Calls On
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
 
-- Tata Motors PV Q1 update: Sales jump 46%; JLR volumes hit by supply disruptions and Middle East conflict
-  Tata Motors reported a 46% rise in passenger vehicle sales for the June quarter. However, Jaguar Land Rover posted lower volumes due to supply disruptions.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-q1-update-sales-jump-46-jlr-volumes-hit-by-supply-disruptions-and-middle-east-conflict/articleshow/132139701.cms
+- WhatsApp Username Debate: Will Hiding Phone Numbers Reduce Or Fuel Frauds?
+  Meta’s latest WhatsApp feature has landed in a classic catch-22 situation. The company wants to enhance user privacy on the app.
+  🔗 https://inc42.com/features/whatsapp-username-debate-will-hiding-phone-numbers-reduce-or-fuel-frauds/
 
-- Quote of the day by Francois Rochon: "People always have this emotional relationship with stocks, and once they have been bitten by something, it takes a while to get back into it"
-  Francois Rochon emphasizes emotional discipline. He urges investors to focus on long-term fundamentals rather than short-term volatility. Building a diversified portfolio is crucial for navigating market fluctuations.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-francois-rochon-people-always-have-this-emotional-relationship-with-stocks-and-once-they-have-been-bitten-by-something-it-takes-a-while-to-get-back-into-it/articleshow/132129240.cms
+- BCT Ventures Nets ₹42 Cr To Build AI-Led Nutrition & Wellness Brands
+  Nutrition and wellness-focused ecommerce startup BCT Ventures has raised $4.4 million in a seed funding round.
+  🔗 https://inc42.com/buzz/bct-ventures-nets-%e2%82%b942-cr-to-build-ai-led-nutrition-wellness-brands/
 
-- No longer magnificent? How Apple, Microsoft and other Mag 7 stocks are crumbling under AI pressure
-  The Magnificent Seven are underperforming as investors question whether massive AI spending will generate adequate returns. With $2.3 trillion erased in June, markets are shifting focus from
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/no-longer-magnificent-how-apple-microsoft-and-other-mag-7-stocks-are-crumbling-under-ai-pressure/articleshow/132139180.cms
+- Sports Retail Brand PlayBlue Bags $2.7 Mn To Expand Into Offline Retail
+  Sports retail startup PlayBlue has secured $2.7 Mn (₹25.7 Cr) in a seed funding round.
+  🔗 https://inc42.com/buzz/sports-retail-brand-playblue-bags-2-7-mn-to-expand-into-offline-retail/
 
-- US construction spending inches up in May, but homebuilding weak
-  In May, US construction spending edged up by a mere 0.1%, influenced by increased mortgage rates partly due to tensions in the Middle East. While there was a slight boost in residential renovations, new single-family housing projects saw a
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-construction-spending-inches-up-in-may-but-homebuilding-weak/articleshow/132139099.cms
-
-- RERA Gurugram approves 51 real estate projects
-  Gurugram's RERA has approved 51 real estate projects, amounting to approximately $4 billion in investments from January to June 2026. Rs 25,000 crore is allocated to just 11 flagship projects, underscoring the area
-  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rera-gurugram-approves-51-real-estate-projects/articleshow/132139062.cms
-
-- "PoK Not Part Of Pakistan": Protesters Warn Islamabad Of Reaching Out To India - NDTV
-  "PoK Not Part Of Pakistan": Protesters Warn Islamabad
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmVwdGI4cmdBcnJWVTA3MFZwSHVudXhaOU5SNEQtLWp1WXF3MmFqOG9pSVdqSzJQM3BGZFhybTREajJKVVpxV2VyUERVWW0xcXRoZk1WYU5XZlA0dDVzRzNySXk3c2xidXJtSVl4Wjhfdmx5SnZwcmh5Nm1nbjgzdFdfd3pLZS1DWC1QOW5vcHRkTV9BdTVlYmtNVGdFWTh1S1pSZldMbHRCRFIxTEpsSzZJbk13Q2RjT2FObGMzV2JwU3VqMFVtQXpJdU05WHpoM3ZFRNIB3AFBVV95cUxPRVJpSW5NYThGUldGb3o0dVZDQUNxWVJpSVgzODVQdHJaeDhqSWY3N2JSTXBtT3NJV0hJUGFBQURYaGpQankyRmh6N3VqX0VZcU1uTkY1NFlGOFozUUZYdDVGZ0JzdThJSEVUM1VBaHpaRjVaUEg1S005ZS16bWJ0QmFBTHVickNHVDlYRUpzaTBJMlFqbjYxRlFjT0ZvY2x0NWV4cFM2NGlER3NHZXZOUkJCTjdGbVFVUFNMQkk3ckVYWUtqN3lkVU40alEtRnlJek1iNVREVUJ0dXp2?oc=5
-
-- Fake Marriage Racket Busted In Delhi, 3 Arrested: Police - NDTV
-  Fake Marriage Racket Busted In
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXBJOV9yOHF2SkZVbTJxUURhYlpyRlVLTXU3Nmg0VXRNbTFMVy1NN3N6dFNuSjRIdW11dnNFQ0ZOQ0JzWkVSVjUtbE0yS3dIeFBJd3FKeWdBMG14YU05NFVsclNZbVYzZ04xeHVPM0xVNkJnTGRJbGVtVTA3ZEdiNEczYjZXWDNDRG42VGk5R0VwNU92NXpSWnRDTdIBowFBVV95cUxQWXkyQjh5NXlWMFpiYkZVQVlsSGtreVg0WkFnb3ZnNlZZUEt0TW9WM2RIa1ZBeldZUEV4WGJ5aHg1ckVtNGd3cVo5ZWh2cU9iM3RZYm8zN080N0JTcEJQU0hPWnptQ2M4M19YaVpkb1g4MFRQcnJzTDUtcUp5UE9EZzJkU24xd2ptMExhX0ZXbmRPUy01M3lpNkJyTUt1NzFpWW5F?oc=5
-
-- Air India Express Resumes Flights To All Middle East Destinations - NDTV
-  Air India Express Resumes Flights To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5EcnJIUFJMUUZtamU3Zjl6YjRIQS1jZTNyOW1BOWNna2l4ejg4SFQxNEw3RlVDYm5LS0hRNExsU3Z2djNqWEtZTmc3TzY3NmRfSjFjMk9sRkJvVWt2UnU1eUg4SWF6QmdjczV2TXh3T3lESGI1UnFKS1QxRHl2UFA0VUFNYXFKYXU5M3BaNHhkTlEyUHhXMm5GV2xPMk10VjZ1R2JTYjZvd9IBsgFBVV95cUxQX2Z0QUJRWDczTDlPbHkxWWRvSUw0aENRdkpUUDhJSmJxUTJ3cm9sMk8xV0ZackZlcE5lVE9OR1VxODZtLWVUaVdLeUNLRFZQMnhubFEzQ25kcDVNcmh6N1pMbmNqaFdCSnI3SDZ4bkoyNWJncXl4RkdYdEJ4SHVjN3VHTFE3MFBBb0NTSUJHTUZWbEdvNVY2ZV9fVFZNUFJuaWNKTFFnM2dnM1R2QW1kLWtn?oc=5
-
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRn
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
-
-- 'You have to earn': Former India cricketer says Vaibhav Sooryavanshi should not replace 'fabulous' Sanju - The Times of India
-  'You have to earn': Former India cricketer says Vaibhav
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxNZFFLZHlmWVd6aV9XQU9hazdNSUlmVUFfOC15NXllNjVFd2Z1YzFaZmh6UWVqTFhfNVozZjJjbmtRcXRJVGo3YS1XN1luTC0wR1kwWjRiQl8xY0hfNlQwNlBBVWJyU19MNTdHOEF2YjZxdmNBNVpuN2s2T3pJaWVnYVRhaWg2WE9QUnBvU2k2RldnY25ZLS1uODg2Skx4eER4S3NFMG9sUEdvVHd5MVVna2tlcTFyR2ZIZDh3Nml4c1MwM0E3czEyWjVHWHlCQWZveUhRUVFyR0hXTnpxVWU4RFJKc0phUUdWOWFuRC1Jd3FULVlWQjg4THN0MnJxZHRqSVlvYUl2M1dQUEdtLTFmZ0pZbmNPOWNTdUQxQ9IBogJBVV95cUxObDEyd3F3Ti04MUhFSzZNVjl1RkdNQ2laZ2NheU1RNUhUbWRLcGNELXBfal96UTVsZjB1b0FvbFJZOXY3dWc5TWdHbDlPYVFKOEFWWDByRGJrX3dOR21OaDFhTnk3YzMyY0MtTkNXR1BUbjBLZE54N1IwUXp0RTM4bE1aYUx2MUE2Vy0ySGl4X3FnVWhmY0REblhLVWxVWHpCTDQ3blJBNXlCNTZCbTdySlNlZHhpNGJjZGYxYmdLVVA5MkpmNlJBbzFKM04zQ1BFZ1ZaWGtNX0h5dElyNDl4aG5DbkpLMkNOdHo4ZWMzVVJNdHVNdm1PbU5KZnZ0OHloQlRuYndfcC1sSVBQUFE2M2JZalNBYmxmTUZ0Q01Va0RUdw?oc=5
+- Amazon India Launches Probe Into Fatal Fire At Partner Warehouse
+  Ecommerce major Amazon India has reportedly launched an internal investigation into a fire at one of its third-party delivery partner.
+  🔗 https://inc42.com/buzz/amazon-india-launches-probe-into-fatal-fire-at-partner-warehouse/
 
 - Blinkit’s Meghalaya Entry Stalls After Tribal Council Refuses Trading Licence
   Eternal&#8217;s quick commerce arm Blinkit has hit a road block in Meghalaya.
   🔗 https://inc42.com/buzz/blinkits-meghalaya-entry-stalls-after-tribal-council-refuses-trading-licence/
 
-- Inside Fibe’s Cap Table: Shareholding Pattern & ₹113 Cr Pre-IPO Share Sale By Cofounders
-  After Kissht and Aye Finance, Fibe (erstwhile EarlySalary) is looking to become the third lending tech startup to go public.
-  🔗 https://inc42.com/buzz/inside-fibes-cap-table-shareholding-pattern-%e2%82%b9113-cr-pre-ipo-share-sale-by-cofounders/
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- What’s Behind H1 2026’s Mega Deal Slump?
-  While the overall investment sentiment remained largely stable in the first half of 2026 (H1 2026), investor appetite for late deals fell.
-  🔗 https://inc42.com/buzz/whats-behind-h1-2026s-mega-deal-slump/
+- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
+  Got 38 parasites in brain after India visit, says UK woman. 3 facts
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
 
-- Ninjacart Nets $6 Mn From Accel, Nandan Nilekani; Eyes IPO In 2 Years
-  B2B agritech soonicorn Ninjacart has raised $6 Mn in the first tranche of a larger funding round.
-  🔗 https://inc42.com/buzz/ninjacart-nets-6-mn-from-accel-nandan-nilekani-eyes-ipo-in-2-years/
+- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
+  Mehbooba Mufti, J&amp
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
 
-- Swara Baby Products Files DRHP, Parent FirstCry To Sell Shares Worth ₹300 Cr
-  Contract manufacturer Swara Baby Products has filed its DRHP with SEBI for a ₹1,000&#8230;.
-  🔗 https://inc42.com/buzz/swara-baby-products-files-drhp-parent-firstcry-to-sell-shares-worth-%e2%82%b9300-cr/
+- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
+  'Will Surrender Before Court': Jailed
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
 
-- "PoK Not Part Of Pakistan": Protesters Warn Islamabad Of Reaching Out To India - NDTV
-  "PoK Not Part Of Pakistan": Protesters Warn Islamabad
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmVwdGI4cmdBcnJWVTA3MFZwSHVudXhaOU5SNEQtLWp1WXF3MmFqOG9pSVdqSzJQM3BGZFhybTREajJKVVpxV2VyUERVWW0xcXRoZk1WYU5XZlA0dDVzRzNySXk3c2xidXJtSVl4Wjhfdmx5SnZwcmh5Nm1nbjgzdFdfd3pLZS1DWC1QOW5vcHRkTV9BdTVlYmtNVGdFWTh1S1pSZldMbHRCRFIxTEpsSzZJbk13Q2RjT2FObGMzV2JwU3VqMFVtQXpJdU05WHpoM3ZFRNIB3AFBVV95cUxPRVJpSW5NYThGUldGb3o0dVZDQUNxWVJpSVgzODVQdHJaeDhqSWY3N2JSTXBtT3NJV0hJUGFBQURYaGpQankyRmh6N3VqX0VZcU1uTkY1NFlGOFozUUZYdDVGZ0JzdThJSEVUM1VBaHpaRjVaUEg1S005ZS16bWJ0QmFBTHVickNHVDlYRUpzaTBJMlFqbjYxRlFjT0ZvY2x0NWV4cFM2NGlER3NHZXZOUkJCTjdGbVFVUFNMQkk3ckVYWUtqN3lkVU40alEtRnlJek1iNVREVUJ0dXp2?oc=5
+- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
+  Army Chief Dhiraj Seth Calls On
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
 
-- Fake Marriage Racket Busted In Delhi, 3 Arrested: Police - NDTV
-  Fake Marriage Racket Busted In
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXBJOV9yOHF2SkZVbTJxUURhYlpyRlVLTXU3Nmg0VXRNbTFMVy1NN3N6dFNuSjRIdW11dnNFQ0ZOQ0JzWkVSVjUtbE0yS3dIeFBJd3FKeWdBMG14YU05NFVsclNZbVYzZ04xeHVPM0xVNkJnTGRJbGVtVTA3ZEdiNEczYjZXWDNDRG42VGk5R0VwNU92NXpSWnRDTdIBowFBVV95cUxQWXkyQjh5NXlWMFpiYkZVQVlsSGtreVg0WkFnb3ZnNlZZUEt0TW9WM2RIa1ZBeldZUEV4WGJ5aHg1ckVtNGd3cVo5ZWh2cU9iM3RZYm8zN080N0JTcEJQU0hPWnptQ2M4M19YaVpkb1g4MFRQcnJzTDUtcUp5UE9EZzJkU24xd2ptMExhX0ZXbmRPUy01M3lpNkJyTUt1NzFpWW5F?oc=5
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Air India Express Resumes Flights To All Middle East Destinations - NDTV
-  Air India Express Resumes Flights To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5EcnJIUFJMUUZtamU3Zjl6YjRIQS1jZTNyOW1BOWNna2l4ejg4SFQxNEw3RlVDYm5LS0hRNExsU3Z2djNqWEtZTmc3TzY3NmRfSjFjMk9sRkJvVWt2UnU1eUg4SWF6QmdjczV2TXh3T3lESGI1UnFKS1QxRHl2UFA0VUFNYXFKYXU5M3BaNHhkTlEyUHhXMm5GV2xPMk10VjZ1R2JTYjZvd9IBsgFBVV95cUxQX2Z0QUJRWDczTDlPbHkxWWRvSUw0aENRdkpUUDhJSmJxUTJ3cm9sMk8xV0ZackZlcE5lVE9OR1VxODZtLWVUaVdLeUNLRFZQMnhubFEzQ25kcDVNcmh6N1pMbmNqaFdCSnI3SDZ4bkoyNWJncXl4RkdYdEJ4SHVjN3VHTFE3MFBBb0NTSUJHTUZWbEdvNVY2ZV9fVFZNUFJuaWNKTFFnM2dnM1R2QW1kLWtn?oc=5
+- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
+  Got 38 parasites in brain after India visit, says UK woman. 3 facts
+  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
 
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRn
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
+- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
+  Mehbooba Mufti, J&amp
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
 
-- 'You have to earn': Former India cricketer says Vaibhav Sooryavanshi should not replace 'fabulous' Sanju - The Times of India
-  'You have to earn': Former India cricketer says Vaibhav
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxNZFFLZHlmWVd6aV9XQU9hazdNSUlmVUFfOC15NXllNjVFd2Z1YzFaZmh6UWVqTFhfNVozZjJjbmtRcXRJVGo3YS1XN1luTC0wR1kwWjRiQl8xY0hfNlQwNlBBVWJyU19MNTdHOEF2YjZxdmNBNVpuN2s2T3pJaWVnYVRhaWg2WE9QUnBvU2k2RldnY25ZLS1uODg2Skx4eER4S3NFMG9sUEdvVHd5MVVna2tlcTFyR2ZIZDh3Nml4c1MwM0E3czEyWjVHWHlCQWZveUhRUVFyR0hXTnpxVWU4RFJKc0phUUdWOWFuRC1Jd3FULVlWQjg4THN0MnJxZHRqSVlvYUl2M1dQUEdtLTFmZ0pZbmNPOWNTdUQxQ9IBogJBVV95cUxObDEyd3F3Ti04MUhFSzZNVjl1RkdNQ2laZ2NheU1RNUhUbWRLcGNELXBfal96UTVsZjB1b0FvbFJZOXY3dWc5TWdHbDlPYVFKOEFWWDByRGJrX3dOR21OaDFhTnk3YzMyY0MtTkNXR1BUbjBLZE54N1IwUXp0RTM4bE1aYUx2MUE2Vy0ySGl4X3FnVWhmY0REblhLVWxVWHpCTDQ3blJBNXlCNTZCbTdySlNlZHhpNGJjZGYxYmdLVVA5MkpmNlJBbzFKM04zQ1BFZ1ZaWGtNX0h5dElyNDl4aG5DbkpLMkNOdHo4ZWMzVVJNdHVNdm1PbU5KZnZ0OHloQlRuYndfcC1sSVBQUFE2M2JZalNBYmxmTUZ0Q01Va0RUdw?oc=5
+- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
+  'Will Surrender Before Court': Jailed
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
 
-- "PoK Not Part Of Pakistan": Protesters Warn Islamabad Of Reaching Out To India - NDTV
-  "PoK Not Part Of Pakistan": Protesters Warn Islamabad
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmVwdGI4cmdBcnJWVTA3MFZwSHVudXhaOU5SNEQtLWp1WXF3MmFqOG9pSVdqSzJQM3BGZFhybTREajJKVVpxV2VyUERVWW0xcXRoZk1WYU5XZlA0dDVzRzNySXk3c2xidXJtSVl4Wjhfdmx5SnZwcmh5Nm1nbjgzdFdfd3pLZS1DWC1QOW5vcHRkTV9BdTVlYmtNVGdFWTh1S1pSZldMbHRCRFIxTEpsSzZJbk13Q2RjT2FObGMzV2JwU3VqMFVtQXpJdU05WHpoM3ZFRNIB3AFBVV95cUxPRVJpSW5NYThGUldGb3o0dVZDQUNxWVJpSVgzODVQdHJaeDhqSWY3N2JSTXBtT3NJV0hJUGFBQURYaGpQankyRmh6N3VqX0VZcU1uTkY1NFlGOFozUUZYdDVGZ0JzdThJSEVUM1VBaHpaRjVaUEg1S005ZS16bWJ0QmFBTHVickNHVDlYRUpzaTBJMlFqbjYxRlFjT0ZvY2x0NWV4cFM2NGlER3NHZXZOUkJCTjdGbVFVUFNMQkk3ckVYWUtqN3lkVU40alEtRnlJek1iNVREVUJ0dXp2?oc=5
-
-- Fake Marriage Racket Busted In Delhi, 3 Arrested: Police - NDTV
-  Fake Marriage Racket Busted In
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXBJOV9yOHF2SkZVbTJxUURhYlpyRlVLTXU3Nmg0VXRNbTFMVy1NN3N6dFNuSjRIdW11dnNFQ0ZOQ0JzWkVSVjUtbE0yS3dIeFBJd3FKeWdBMG14YU05NFVsclNZbVYzZ04xeHVPM0xVNkJnTGRJbGVtVTA3ZEdiNEczYjZXWDNDRG42VGk5R0VwNU92NXpSWnRDTdIBowFBVV95cUxQWXkyQjh5NXlWMFpiYkZVQVlsSGtreVg0WkFnb3ZnNlZZUEt0TW9WM2RIa1ZBeldZUEV4WGJ5aHg1ckVtNGd3cVo5ZWh2cU9iM3RZYm8zN080N0JTcEJQU0hPWnptQ2M4M19YaVpkb1g4MFRQcnJzTDUtcUp5UE9EZzJkU24xd2ptMExhX0ZXbmRPUy01M3lpNkJyTUt1NzFpWW5F?oc=5
-
-- Air India Express Resumes Flights To All Middle East Destinations - NDTV
-  Air India Express Resumes Flights To
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5EcnJIUFJMUUZtamU3Zjl6YjRIQS1jZTNyOW1BOWNna2l4ejg4SFQxNEw3RlVDYm5LS0hRNExsU3Z2djNqWEtZTmc3TzY3NmRfSjFjMk9sRkJvVWt2UnU1eUg4SWF6QmdjczV2TXh3T3lESGI1UnFKS1QxRHl2UFA0VUFNYXFKYXU5M3BaNHhkTlEyUHhXMm5GV2xPMk10VjZ1R2JTYjZvd9IBsgFBVV95cUxQX2Z0QUJRWDczTDlPbHkxWWRvSUw0aENRdkpUUDhJSmJxUTJ3cm9sMk8xV0ZackZlcE5lVE9OR1VxODZtLWVUaVdLeUNLRFZQMnhubFEzQ25kcDVNcmh6N1pMbmNqaFdCSnI3SDZ4bkoyNWJncXl4RkdYdEJ4SHVjN3VHTFE3MFBBb0NTSUJHTUZWbEdvNVY2ZV9fVFZNUFJuaWNKTFFnM2dnM1R2QW1kLWtn?oc=5
-
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRn
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
-
-- 'You have to earn': Former India cricketer says Vaibhav Sooryavanshi should not replace 'fabulous' Sanju - The Times of India
-  'You have to earn': Former India cricketer says Vaibhav
-  🔗 https://news.google.com/rss/articles/CBMinAJBVV95cUxNZFFLZHlmWVd6aV9XQU9hazdNSUlmVUFfOC15NXllNjVFd2Z1YzFaZmh6UWVqTFhfNVozZjJjbmtRcXRJVGo3YS1XN1luTC0wR1kwWjRiQl8xY0hfNlQwNlBBVWJyU19MNTdHOEF2YjZxdmNBNVpuN2s2T3pJaWVnYVRhaWg2WE9QUnBvU2k2RldnY25ZLS1uODg2Skx4eER4S3NFMG9sUEdvVHd5MVVna2tlcTFyR2ZIZDh3Nml4c1MwM0E3czEyWjVHWHlCQWZveUhRUVFyR0hXTnpxVWU4RFJKc0phUUdWOWFuRC1Jd3FULVlWQjg4THN0MnJxZHRqSVlvYUl2M1dQUEdtLTFmZ0pZbmNPOWNTdUQxQ9IBogJBVV95cUxObDEyd3F3Ti04MUhFSzZNVjl1RkdNQ2laZ2NheU1RNUhUbWRLcGNELXBfal96UTVsZjB1b0FvbFJZOXY3dWc5TWdHbDlPYVFKOEFWWDByRGJrX3dOR21OaDFhTnk3YzMyY0MtTkNXR1BUbjBLZE54N1IwUXp0RTM4bE1aYUx2MUE2Vy0ySGl4X3FnVWhmY0REblhLVWxVWHpCTDQ3blJBNXlCNTZCbTdySlNlZHhpNGJjZGYxYmdLVVA5MkpmNlJBbzFKM04zQ1BFZ1ZaWGtNX0h5dElyNDl4aG5DbkpLMkNOdHo4ZWMzVVJNdHVNdm1PbU5KZnZ0OHloQlRuYndfcC1sSVBQUFE2M2JZalNBYmxmTUZ0Q01Va0RUdw?oc=5
+- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
+  Army Chief Dhiraj Seth Calls On
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -240,13 +200,5 @@
   Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
   🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
-
-
-_Last updated: 2026-07-02 13:50:45 UTC_
+_Last updated: 2026-07-02 19:20:21 UTC_
