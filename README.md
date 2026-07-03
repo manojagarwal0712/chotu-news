@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Modi, Takaichi discuss West Asia crisis, Ukraine conflict, condemn cross-border terror from Pakistan
+- In Chhattisgarh’s dense Hasdeo forests, environmental nod granted for mining in Kente extension coal block
   
-  🔗 https://indianexpress.com/article/india/modi-takaichi-discuss-west-asia-crisis-ukraine-conflict-condemn-cross-border-terror-from-pakistan-10768800/
+  🔗 https://indianexpress.com/article/india/in-chhattisgarhs-dense-hasdeo-forests-environmental-nod-granted-for-mining-in-kente-extension-coal-block-10768918/
 
-- Shia leader Aga Hassan stopped from boarding Delhi-Tehran flight for Ayatollah Ali Khamenei funeral, his son claims
+- ‘Curious’ to ‘Jaish link’: Behind the arrest of Jaipur woman with a secret online life
   
-  🔗 https://indianexpress.com/article/india/shia-leader-aga-hassan-stopped-from-boarding-delhi-tehran-flight-for-ayatollah-ali-khamenei-funeral-his-son-claims-10768791/
+  🔗 https://indianexpress.com/article/india/jaipur-woman-arrest-jaish-e-mohammed-online-radicalisation-10768897/
 
-- Ram Temple ‘theft’ row: Footage shows 5 key accused removing, hiding cash bundles
+- Material science expert appointed new Department of Science and Technology Secretary
   
-  🔗 https://indianexpress.com/article/india/ram-temple-theft-row-footage-accused-hiding-cash-bundles-10768710/
+  🔗 https://indianexpress.com/article/india/material-science-expert-appointed-new-department-of-science-and-technology-secretary-10768959/
 
-- Vijay’s party welcomes 4 ex-ministers, several ex-MLAs as exodus from AIADMK continues
+- INS Trikand foils piracy attempt on merchant vessel in Gulf of Aden
   
-  🔗 https://indianexpress.com/article/india/aiadmk-leaders-join-tvk-c-vijayabaskar-m-r-vijayabhaskar-defection-10768612/
+  🔗 https://indianexpress.com/article/india/ins-trikand-foils-piracy-attempt-on-merchant-vessel-in-gulf-of-aden-10768931/
 
-- Why Kashmir’s mutton shortage cuts deeper than the dinner table
+- TMC leader flags MPs’ safety in letter to Speaker Om Birla after mob attacks Mahua Moitra in Nadia
   
-  🔗 https://indianexpress.com/article/india/why-kashmirs-mutton-shortage-cuts-deeper-than-the-dinner-table-10768616/
+  🔗 https://indianexpress.com/article/india/tmc-leader-flags-mps-safety-om-birla-after-mob-attacks-mahua-moitra-nadia-10768825/
 
 - Tech updates (July 2, 2026): Oura Ring Prime Day deals, Huawei Band 11, Phone (4b) RCB edition, more
   
@@ -40,6 +40,14 @@
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/ubtech-brings-companion-robots-closer-to-consumers-with-new-u1-humanoid-series-10767968/
 
+- Tata Agratas increases loan to more than £1 billion, pushes back repayment deadline as battery project accelerates
+  Tata Group's UK battery unit Agratas will draw £1.15 billion in loans, a 53% increase. Lenders extend repayment deadline to September 2027
+  🔗 https://www.livemint.com/companies/tata-group-agratas-loan-debt-jaguar-land-rover-jlr-batteries-uk-government-energy-11782989055376.html
+
+- Ferrari's former design house is hanging by a thread—extended by Tech Mahindra
+  The acquisition of Pininfarina was meant to diversify Tech Mahindra into high-
+  🔗 https://www.livemint.com/companies/news/tech-mahindra-pininfarina-losses-capital-support-financial-drag-11782962832340.html
+
 - Air India slashes fuel surcharges on long-haul international flights as oil prices fall: How airfares will change
   The fuel surcharge for flights to North America and Australia has been lowered to $200 per ticket from $280. For services to Europe and the UK
   🔗 https://www.livemint.com/companies/news/air-india-slashes-fuel-surcharges-on-long-haul-international-flights-as-oil-prices-fall-11783011633049.html
@@ -52,13 +60,25 @@
   The Trump administration and Anthropic have not discussed government stakes in the AI firm. The comments came after a media report suggested that OpenAI might
   🔗 https://www.livemint.com/companies/news/trump-administration-and-anthropic-did-not-have-talks-about-government-taking-stakes-in-the-ai-firm-report-11783009870738.html
 
-- Adani Enterprises launches $1.05 billion share sale, begins second phase of  ₹16,600 crore fundraising
-  Gautam Adani-led Adani Enterprises is returning to the equity market with a qualified institutional placement to raise at least $1.05
-  🔗 https://www.livemint.com/companies/gautam-adani-enterprises-stock-share-sale-fundraising-qip-rights-issue-11783001732983.html
+- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 3 July 2026
+  Sensex and Nifty 50 set to open positively on Friday, influenced by Wall Street gains, despite Asian market weakness. The Nifty IT sector led a rally as broader markets maintained bullish sentiment
+  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-3-july-2026-11783042438748.html
 
-- Adani flagship seeks $1 billion via placement, terms show
-  Adani Enterprises Ltd. is seeking to raise as much as 100 billion rupees ($1 billion) through a sale of shares. The ports-to-power conglomerate
-  🔗 https://www.livemint.com/companies/news/adani-flagship-seeks-1-billion-via-placement-terms-show-11783006683194.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 July
+  Gift Nifty was trading around 24,416 level, a premium of nearly 151 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-3-july-11783043114967.html
+
+- From Gift Nifty, US nonfarm payrolls to gold rates: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,447 level, a premium of nearly 182 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-nonfarm-payrolls-to-gold-rates-10-key-things-that-changed-for-indian-stock-market-overnight-11783041891758.html
+
+- Stock recommendations for 3 July from MarketSmith India
+  MarketSmith India reveals its top stock recommendations for today, 3 July. Get expert insights into
+  🔗 https://www.livemint.com/market/stock-market-news/stock-recommendations-for-3-july-from-marketsmith-india-11783004843885.html
+
+- Raja Venkatraman recommends two stocks for 3 July
+  Market expert Raja Venkatraman shares his top stock picks for
+  🔗 https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-3-july-11783008353886.html
 
 - WhatsApp issues username FAQs amid govt scrutiny—Can someone find you with it? Could you be impersonated? Check details
   WhatsApp has released detailed set of frequently asked questions (FAQs) for users on its new username feature following controversy over
@@ -80,45 +100,29 @@
   Leaks from Tata Electronics reveal details about Apple's upcoming iPhone 18 Pro, including component suppliers and internal documents. This breach, involving over 200,000 files, threatens Apple's
   🔗 https://www.livemint.com/technology/tech-news/details-about-iphone-18-pro-leak-tata-electronics-hack-630-gb-data-dark-web-11782881167034.html
 
-- US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally
-  The VanEck Semiconductor ETF plunged over 5%, led by Micron, Intel, and AMD. Concerns over potential AI computing oversupply, fueled by Meta's plans, prompted investors to re-evaluate lofty valuations
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms
+- Sensex, Nifty, Live Today, 2026-07-03
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-marico-adani-enterprises-share-price-03-july-2026/liveblog/132150721.cms
 
-- Icra cuts Utkarsh Small Finance Bank ratings on weak asset quality
-  Icra downgraded Utkarsh Small Finance Bank's debt ratings. High credit costs, fresh slippages and lower operating profitability weighed on the lender.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/icra-cuts-utkarsh-small-finance-bank-ratings-on-weak-asset-quality/articleshow/132141926.cms
+- IC Electricals IPO opens today: Grey market signals a strong 40% listing premium
+  IC Electricals is launching its Rs 47.91 crore NSE SME IPO. IPO will remain open from July 3 to July 7, 2026.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ic-electricals-ipo-opens-today-grey-market-signals-a-strong-40-listing-premium/articleshow/132134866.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Friday
-  Indian equities rallied as easing Middle East tensions pushed crude prices lower and dovish Fed remarks boosted sentiment. Sensex gained nearly 580 points, while analysts expect Q1
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132141863.cms
+- Dollar heads for weekly drop as jobs data dims Fed hike bets
+  The US dollar experienced its sharpest weekly decline in almost three months. This eased market expectations for immediate Federal Reserve rate hikes. Other major currencies like the euro and sterling also saw gains.
+  🔗 https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-drop-as-jobs-data-dims-fed-hike-bets/articleshow/132150672.cms
 
-- Market Trading Guide: Suven Life Sciences among 2 stock recommendations for Friday
-  Analysts recommend buying NDR Auto and Suven Life Sciences after bullish breakouts. Investors await US jobs data, the India–Japan summit and Q1FY27
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms
+- Gold heads for first weekly rise in five on easing Fed rate hike bets
+  Gold prices surged on Friday, marking its first weekly gain in five weeks. This uptick is attributed to softer-than-expected U.S. jobs data. The weaker payroll numbers have eased inflation concerns, boosting bullion's appeal.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-first-weekly-rise-in-five-on-easing-fed-rate-hike-bets/articleshow/132150648.cms
 
-- MacRitchie to sell up to $200 million stake in India's PB Fintech, term sheet shows
-  MacRitchie Investments is set to divest up to $200 million in PB Fintech, the parent company of Policybazaar and Paisabazaar. This move involves selling approximately 2.6% of the company's outstanding shares
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms
+- D-St set for a positive opening as GIFT Nifty signals firm start
+  Indian equities saw a positive close on Thursday, with the Nifty climbing 0.5% to 24,175. The market's fear gauge, India VIX, also declined significantly.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132150507.cms
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
-
-- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
-  Got 38 parasites in brain after India visit, says UK woman. 3 facts
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
-
-- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
-  Mehbooba Mufti, J&amp
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
-
-- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
-  'Will Surrender Before Court': Jailed
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
-
-- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
-  Army Chief Dhiraj Seth Calls On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
+- Govt Sends Notices To Telegram & Signal Over Username Feature
+  The Centre has widened its scrutiny of username-based messaging platforms by sending notices to Telegram and Signal.
+  🔗 https://inc42.com/buzz/govt-sends-notices-to-telegram-signal-over-username-feature/
 
 - WhatsApp Username Debate: Will Hiding Phone Numbers Reduce Or Fuel Frauds?
   Meta’s latest WhatsApp feature has landed in a classic catch-22 situation. The company wants to enhance user privacy on the app.
@@ -136,69 +140,25 @@
   Ecommerce major Amazon India has reportedly launched an internal investigation into a fire at one of its third-party delivery partner.
   🔗 https://inc42.com/buzz/amazon-india-launches-probe-into-fatal-fire-at-partner-warehouse/
 
-- Blinkit’s Meghalaya Entry Stalls After Tribal Council Refuses Trading Licence
-  Eternal&#8217;s quick commerce arm Blinkit has hit a road block in Meghalaya.
-  🔗 https://inc42.com/buzz/blinkits-meghalaya-entry-stalls-after-tribal-council-refuses-trading-licence/
+- Children are adopting AI technologies more than three times faster than adults - UNICEF
+  Children are adopting AI technologies more than three times faster
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWkwTkpzMjU1aDZMSEQzbzctQXBBT2tMc0M0Y0t5MERFX1BPbFR3aDNYcUc5QTJQNE5FRnJ0VDFnTU5VMU9OZmtRYlcyVXgwanNrOUVjLTVod2hfbU4xVGs3ck0xSzV5Y0tCVDJ1QWFTdzVkNmdLaFhhalpwTlpzNW9uSjNER1g2cG5JMS0tUWExTHFVSXE0emx0VXFSdmdNVHNCamFFaGNTZw?oc=5
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
+- Sree Chitra Tirunal Institute for Medical Sciences and Technology opens pay ward facility - The Hindu
+  Sree Chitra Tirunal Institute of Medical Sciences and
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTWkwdFZKOFBrbzE2RmNsa3dxYlpkWjZ1T1Vjbko4SVZibTJ5VWwzc1k4WXV0UUMyN3dFbTVFS3FrR093RUE3c3FIRnYyTGtia0V5MmVfaDF4NGJLdFZ2ajl5Q29ZOGdQMnRRTVF2NjFlT3ktWjlVVHkwOEhUWjJ0MjRrWXBwckxubkRxMTNaUjhONWdYX3lJRnJpVUtGdkR0UWFIQ2hkQ0MtUGJmS1ZGWE0zVUUtUTlrQzZDWHpGRDVaWkdNOS13RF9rek1qZWRkV1pTNnFrMnpjSFg1TURWYk1id2kwMnYwSTVj0gHyAUFVX3lxTE1EQTNGTUdRTWswaVJKcFVObDc1STYteldpVUdwMmNQejM3dXNYOGJkejNsYnM4UjBwbDVabFBxZ1ZzSEQwUUZJSnpIOG00ZDZmTzdMRUd3THQxdnZrZktIVFpOM0hLZ0tSZWN3SmtQLUNITkd5VXFBY1ZtcTMzXzBicmxuQjB2ZFk1elk2eUl1S1F1R0VUbUxoM0xDU1A1YUFJMHpmd1ZWVkswNGhHeFhIM0U3NWIxdzVFaHRlVVJfN1BuSGJJYWhaTlVfMHVmXzFOYTB0cmMzSzhRTHdQM2VCNGNtSGNldnFuM1hwY2ZtdVZn?oc=5
 
-- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
-  Got 38 parasites in brain after India visit, says UK woman. 3 facts
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
+- PM Modi And Takaichi Deepen India-Japan Ties On AI And Technology - NDTV
+  PM Modi And Takaichi Deepen India
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekM5MjRxMDh4aTQ0M3YySUZSQmtaVld0bDJXQWVJV2xJZ0xXSjRlY2w5VW5jbTRxcV9mT2JiT0RfR0FUNHY5M2xpcUVDQ0ZiT2RTcy1MZzYyTEEwekl5ZGNIS2hmT0tWWE1iX0FkemFtVWthX21qODF4NHBTZ1VFSXhRVUFZb2xMMGhFZFJpTDZ1M0xaV0ZpcV9vSVJkbnNpX1Bqd1ViZGkxQdIBsgFBVV95cUxPcTlqQWJRYnFIZmNFQ3hUODNuTGVYVzEtQ0RNMC1TZkx4aEozb1Rxd0MweTZ2WGgxdVA3T2diSUt0UGVsMG5FTE9GeFpIN2tOaW5scUt1aXZ3TnAwZ1ptRUpJN0hHOU9Od3IySUdjdXRyTlR0WF9jUDVNMHlCZ1BIblp1c2hQNGxYc01oazFzSW5iOUY2enFVeU1jYklDSUgybFg2WWU4Zk9fYkxoMXg2aDln?oc=5
 
-- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
-  Mehbooba Mufti, J&amp
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
+- Why WhatsApp’s usernames feature has sparked a showdown with Indian government - The Indian Express
+  Why WhatsApp’s usernames feature has sparked
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPeS11LXl6Y1VsZmlPd3dpNkxvaE8zd1B1SFdudlQ1a0ZmTnA3SnJwS0JlVFRSVjdFSDVEdVVCR3dYUk5ySlA1NVdNSmtELWdzWmtjYU1NTXZWRWdwM2JkOEh3STk1bTNrQW1nS0NwNjllTXhkZnk0V1A0dXlWd2ZXNUJLVzNmRnpBOUNoNm9pckVPRDVYQXNKc2pab3ZheGlKNDlKc1VyNNIBrgFBVV95cUxPdFdqRlQtWjJILWg1cDJ6UXhDcXBfTVV1M1EzVW9ZcXFyY3hZZnZfTXZEODFGeWh0SnpFMUJFVDl6VHpucDVxNGQ0ZDRfc1NpMlJ6SzYwSm9kWHpHVFkwNzZYd3pBMFpxdnhPYjRpTnB4N3hGT1d0Mkg5bWo1T3NqcGctd2RNSGVtWkZPSGVSdEhsUkM3d0g1V2FCZXpjOElZSEloNF95RHV3UHdUYWc?oc=5
 
-- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
-  'Will Surrender Before Court': Jailed
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
-
-- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
-  Army Chief Dhiraj Seth Calls On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
-
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
-
-- Got 38 parasites in brain after India visit, says UK woman. 3 facts and a question - India Today
-  Got 38 parasites in brain after India visit, says UK woman. 3 facts
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEtUX2djTGZMWGFYbFprNmlNZU5fd2FTb1dicVMtNGZGLUcxaV9VemwxZTVhU19XbGk5RFJDUDNfMzF6NjdXcDEtVVlEOTA1YkZlUDZtemZpMXBua0dMNzZLZjl0djRWZUZSd1llQlZfQ0VTQ3AzYzdmckZ5S2xFSUpLS0VWNF9QckYyN0Q1YlhPZnZTME16ajQ3QVBVX3RVU2R2bmNtNjdkbl81SlRRRDVIVXZhTlpqY0dycC1aNW5YRUlJM1VnaGpSeFNaZzhJOWYyTzBsVjBuTXZTTXNqY09OX1pVOFIyWnFQTNIB8gFBVV95cUxORHpramNpN1lvY1RITmUzOFRDcWY5SllPMmNockJ6UnFnLUZidVVxRnZtYW9LVFNtMHlSVEMyOVVteEFEbWQyamJXWlVMM0FGZU43dVdDV1d4Ty1kNlVIdHBEN1RlQWxCQjhuZEhqRzRhOEtpNWRoTmRiYUFQajlIWk1HdllsNW5NX3hXdGJJYnk5dFh6ZkFvQThiMkV6dDF3SFA2RHRWSTJ5WE5CSlZuelV0UjcyQlhWLUluMmc4WEZ2WTlnX21KQmxySEU1VmxMY1FITkI3eW4xNjJEaWJEOU5GbThSdE9pb3QtSWF2OXZ5Zw?oc=5
-
-- Mehbooba Mufti, J&K politicians fly to Iran for Khamenei funeral - The Times of India
-  Mehbooba Mufti, J&amp
-  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0hrOUJRbXdONU9HSWJ0ZDZlcXh0MlJ3YUJqdElsNkZlVWkzcHVhZTdhaDFYVVRySmFlY1JFRVZldDI1dmlnZGpDRU82NkFieE0zeFh4NllOY2VKaTZoRzNKSFVURDNRVXEyVEhVSXk5OHQxQlpLdzNWU1pnM2RmZWozNVRtRThsWU5LVktseWVmcGFrU0ZQaGNYcmZpZTU3NFY4azBsaldnenpqM1c3NGxZa0lFeE9zS3RkbXNILU5nU3JQam9scjFB0gHPAUFVX3lxTE9xd0owNWFhMDVvVkJJeVJWWWhHX2Z5WnlxdFl2am5KZG8tMlZJR05SVUZXNWtTRW5BbTdOVWRRX0NYbmNUdXNCa3NlZ2U5aEllTjl1ZW1LZkVuUnpHSjBxeTRiRFFKMHlLSElXMkxMMTZCVWNYTTFYOGlXdHZtdkF0bm9mUWhnUllHaC1hbFpRekgySXdiT2dhNmZvOFU2a2Z3dEhkaDFuM1duVTdVRXRHR1dHY1dIYXFQcTdSY3JGV3FWRW84eC1hWnA1SDZscw?oc=5
-
-- 'Will Surrender Before Court': Jailed Gangster On Salman Khan House Firing - NDTV
-  'Will Surrender Before Court': Jailed
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjAtMG5GUnY5T2tPR2xmU29WOTEybHFRd1ZWcEZxZi1OSm1JSk82NTdBZkpEcFp0cGhMc1hDRmwyVk9hdno5XzMzYzFmWnZFdWR3UzRULWp2clVRX25vYVpGODhEc1d4NWw3ajRaemVxNGt2UTlOaHhidXFieDhBYjNIdlhqV3hyY1ZfaTl2Q3hVYTlUcy1ET292eURaUU1EbkVfVFplN3BVWnhNeTVkRE1n0gG6AUFVX3lxTE11cHJBNlJIVGhwX1JwdEZMXzdCNmhNV05VRGMzUEJZTmd3amNpenlYWE9TS0lNQjc2bmhtS0lJV2tWWVVqQ0IwTXZ3dklyMU1ieExuVEktLWx1YUxkVTRfcmp6aDkxbXdDNTUzQ2J3RVp4NC0wdjJfQ21MZE5vSzA4ZmVBYjBfQUZpai0xOTJXdEhhMFdkaDIxdjdkTFBVei1sLUpGSnAyZU4wdFNGYllDcy1TNlltaHRqUQ?oc=5
-
-- Army Chief Dhiraj Seth Calls On Defence Minister Rajnath Singh - NDTV
-  Army Chief Dhiraj Seth Calls On
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxQWktUalNsNUsycGRkREJCV3dOYzYwaVpaYXloOVlqWFpUZW9nRmd4OGZfRVo2cGNhVFJpRmE5NEtxM3BkUG9NM185LWlDRkkxVTNtRGNmd21pVklYU3dvQy0tcUIyZDRkdnNFcmc2WlR1WVdvUm82MVJ3bGROX2lKRHktWi1PcUhLSl9tbks0VE1fTTk1c3h0ZEo4S2ZCYTdmdUg1Q3hR0gGuAUFVX3lxTE15c0NCTmk3V0pNaDFrS3pKSk9QdEQtN3JUbkM0bDB5THozRVJuOU1KVm1kQzJWdkVPRnVVNFZNdmZvbFBJVWJFZVcwZVJnYXViSl9ndmNXOTZybFp2dGpYWFNSMWlWanZGQTE4MldFOGg5Z1NBS0JoenpVU3Z3LU8xc01Tbmc1ZTJ1WklVMXpOVXhhR1JncFBVYWVQSE56dUxfTTdKYVhzV2VLOTVtUQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+- Unlike many big technology companies, cafeteria meals are not free at Nvidia; as analysts say: Deeply roo - The Times of India
+  Unlike many big technology companies, cafeteria meals are not free at Nvidia; as analysts say:
+  🔗 https://news.google.com/rss/articles/CBMisAJBVV95cUxNa0c5M1pQZVpra2o5ZTROZXpsbXNlSFhHVUk4c0l2bDlRQ2tZSE4xUFowWmFIOU5EaG5OblQ3QlFYUDMwNUdLcWwtYmJvMjBDNjE4QlN1WUV4ZURTT2FtRVp3MXB3OHdoTi1tRmNudTJycnhHTFNkMTZrTElvcW9OLXNob0tBNnpVTGFrV3g5RFNOb2U4U0VqRTlRYzJES2pqMkpQczdUUjFpVWsyQkpHM0tTejN2X1JMcE4wRWplMUt1aGExRm5Ib1Z3bURMcV9hczRHQkZKckhkQWhuLVBFQUJyUTRuVEZmd3RIWDBJZkRhQnh5MElLaFV3ZmZoMHdpb3Zua0s4b0paVktVU1hpTWdQWGlNZ1ZfTURkdE9iWFZHQkpZcmhOVGdCX1Q4WldW0gG2AkFVX3lxTFB2dG9PX3BUSG1mSzlwd01ZempSMTBhT3VKRlJzNldUVFUtTGloeDRWcENVZkJKZ3ByWlRtVm1QWnRSOGVRdFYwVU5wMFdFbkRvLUVGS2lnelZrakJEeXNsSUUxbll3UUF3YjhiUWNCcjVuT3d1UzVRamxlWHkzSnJTLThUOV9xOXprb0FPZDBucHdaaTRFdUZGUy0zaFR0Z1RZZmtVT3lPemt5Yy1Da2dOaTB0NnJ5Tm0zWFhQLXNScl9rTW5aNEZ2MDJZVFp3aDNDREtRNzNIbG9SNF9xc1hpYkdHZUNBLXNvdzVvMnp5NGp2TGlhVFFfbWFWQnZIYnZhWlBYOVM4YmdrWTRzdHBzWlNXMzhwNEljRk5wRWZ4cnRwNUd2YjYwVGx1dk1kOV9TbmtjS3c?oc=5
 
 
-_Last updated: 2026-07-02 19:20:21 UTC_
+_Last updated: 2026-07-03 02:29:55 UTC_
