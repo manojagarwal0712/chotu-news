@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Matcha tea, now from India: Assam estate sells first India-made batch
+- 4 Chinese firms with factories in India cleared to bid for power projects
   
-  🔗 https://indianexpress.com/article/india/matcha-tea-now-from-india-assam-estate-sells-first-india-made-batch-10770091/
+  🔗 https://indianexpress.com/article/india/chinese-power-equipment-firms-government-tenders-two-year-exemption-10770333/
 
-- Khatu Shyam rail project: Sundarpura station construction to begin next year; 9 new stations planned to boost connectivity
+- BJP youth leader booked for ‘sexually harassing’ doctor inside Madhya Pradesh hospital
   
-  🔗 https://indianexpress.com/article/india/khatu-shyam-rail-project-sundarpura-station-9-new-stations-rajasthan-10769980/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-bjp-yuva-morcha-leader-booked-sagar-medical-college-doctor-harassment-juda-protest-10770319/
 
-- 6 years on, new Indore hospital exists only on paper, but hiring in full swing
+- Former VP Jagdeep Dhankhar undergoes successful angioplasty, gets two stents
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-indore-khajrana-civil-hospital-staff-appointed-no-building-land-dispute-10770008/
+  🔗 https://indianexpress.com/article/india/former-vp-jagdeep-dhankhar-successful-angioplasty-stents-10770308/
 
-- Defence body clears proposals to acquire ‘Akash Tarang’, MRSAM, VSHORADS, jet-based Kamikaze drones for Armed Forces
+- PM Modi on six-day tour of Indonesia, Australia, New Zealand from July 6
   
-  🔗 https://indianexpress.com/article/india/defence-acquisition-council-rs-52000-crore-procurement-akash-tarang-mrsam-10770024/
+  🔗 https://indianexpress.com/article/india/pm-narendra-modi-visit-indonesia-australia-new-zealand-mea-act-east-policy-10770216/
 
-- Month after Assam ‘stalker’ attack kills cousin, teen girl dies in ICU
+- Amrit Bharat Station Scheme: Redevelopment of Rajasthan’s 151-year-old Gandhinagar Jaipur railway station nears completion
   
-  🔗 https://indianexpress.com/article/india/assam-nalbari-student-dies-gmch-aasu-leader-attack-accused-encounter-10769846/
+  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-gandhinagar-jaipur-railway-station-redevelopment-nears-completion-10770103/
+
+- Google Maps Lists can make travel planning much easier; here’s how
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-maps-lists-can-make-travel-planning-much-easier-heres-how-10770237/
+
+- Nasa’s Swift boost mission begins as LINK spacecraft sets out to save observatory
+  
+  🔗 https://indianexpress.com/article/technology/science/nasas-swift-boost-mission-begins-as-link-spacecraft-sets-out-to-save-observatory-10770238/
 
 - Galaxy Glasses leak reveals buttons, gestures, and camera controls ahead of launch
   
@@ -32,13 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-may-launch-16-new-products-by-end-of-2026-heres-a-look-at-upcoming-devices-10769744/
 
-- After Apple, Nothing, Vivo and Realme raise prices of select smartphones
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/after-apple-nothing-vivo-and-realme-raise-prices-of-select-smartphones-10769804/
-
-- India investigating Tata data leak that exposed Apple iPhone secrets
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets-10769725/
+- Victorinox bets bigger on India with exclusive stores, e-commerce push
+  The Swiss brand unveiled its India Vision 2030 roadmap, targeting five exclusive stores by 2028. It also plans to launch a dedicated e-commerce platform and wider
+  🔗 https://www.livemint.com/companies/news/victorinox-india-vision-2030exclusivestoresecommerceexpansionswitzerlandwatchbrand-11783081830850.html
 
 - JSW Steel kicks off  ₹16,350 crore low-carbon steel project in Andhra Pradesh
   The electric arc furnace plant is part of the steelmaker's  �
@@ -56,29 +60,25 @@
   The deal assures HCLTech $228 million in annual
   🔗 https://www.livemint.com/companies/hcltech-three-year-mega-deal-drought-1-14-billion-contract-european-client-europe-revenue-tcs-infosys-coforge-11783054387804.html
 
-- Tata Agratas increases loan to more than £1 billion, pushes back repayment deadline as battery project accelerates
-  Tata Group's UK battery unit Agratas will draw £1.15 billion in loans, a 53% increase. Lenders extend repayment deadline to September 2027
-  🔗 https://www.livemint.com/companies/tata-group-agratas-loan-debt-jaguar-land-rover-jlr-batteries-uk-government-energy-11782989055376.html
+- Senco Gold Q1 update: Revenue jumps 60% on festive demand; SSSG at 38%, 8 new showrooms opened
+  Senco Gold's June quarter results showed a 60% increase in revenue and strong same-store sales. The company opened eight new showrooms and plans 12-15 more.
+  🔗 https://www.livemint.com/market/stock-market-news/senco-gold-q1-update-revenue-jumps-60-on-festive-demand-sssg-at-38-8-new-showrooms-opened-11783098521414.html
 
-- Godrej Consumer expects high-teens Q1 revenue growth on strong volumes; margins seen lower
-  Godrej Consumer Products projects a high-teens revenue growth for
-  🔗 https://www.livemint.com/market/stock-market-news/godrej-consumer-expects-high-teens-q1-revenue-growth-on-strong-volumes-margins-seen-lower-11783084403636.html
+- KPIT Tech shares plunge 25% in five days to nearly four-year low after weak revenue outlook. Is the worst over?
+  KPIT Technologies shares dropped 25% to  ₹558.65 this week. Brokerages downgraded the stock amid concerns over revenue declines and uncertain recovery.
+  🔗 https://www.livemint.com/market/stock-market-news/kpit-tech-shares-plunge-25-in-five-days-to-nearly-four-year-low-after-weak-revenue-outlook-is-the-worst-over-11783091888730.html
 
-- Allcargo Global debuts on NSE, BSE following demerger from Allcargo Logistics
-  Allcargo Global Limited has listed its shares on the NSE and BSE under the ticker symbol AGL. The Group now has four focused entities to drive sustainable growth
-  🔗 https://www.livemint.com/market/stock-market-news/allcargo-global-debuts-on-nse-bse-following-demerger-from-allcargo-logistics-11783081558568.html
+- Gold, silver prices today: Comex gold and silver extend rally as weak US jobs data cools Fed rate hike fears
+  Comex gold futures climbed to $4,208, while silver futures reached $63.50. Employment data indicated a slowdown, lowering rate-hike expectations.
+  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-rally-as-weak-us-jobs-data-cools-fed-rate-hike-fears-11783007280731.html
 
-- Atharva Polyplast IPO allotment date likely today. GMP, steps to check share allotment status online on BSE, MUFG Intime
-  Atharva Polyplast's IPO allotment is expected today, with shares allocated proportionally to retail investors due to high oversubscription. Refunds for unsuccessful applicants will begin
-  🔗 https://www.livemint.com/market/stock-market-news/atharva-polyplast-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-on-bse-mufg-intime-11783077914675.html
+- Pulse of the Street: Realty and healthcare lifts markets, but weak rupee clouds rally
+   Markets rose nearly 1% this week as softer crude oil prices, easing volatility and buying in real estate, healthcare and consumption stocks lifted sentiment. However, weakness in capital goods and power, along with
+  🔗 https://www.livemint.com/market/realty-and-healthcare-lifts-markets-but-weak-rupee-clouds-rally-11783082572693.html
 
-- Aswath Damodaran predicts this for the future of AI: The next Amazon won't be Nvidia or OpenAI
-  Damodaran believes AI will neither drastically eliminate jobs nor be a fleeting trend. For investors, the lesson is that potential long-term AI winners might not yet be obvious.
-  🔗 https://www.livemint.com/market/stock-market-news/aswath-damodaran-predicts-this-for-the-future-of-ai-the-next-amazon-wont-be-nvidia-or-openai-11783072285016.html
-
-- Top Gainers &amp; Losers on 3 July: Zensar Tech, HFCL, IndusInd Bank, Muthoot Finance, Lupin among top gainers
-  The Indian stock market rose on July 3 before retreating as profit-taking emerged. The Nifty 50 closed up 0.40%, while the Sensex gained 0.35%. Realty led gains, but
-  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-july-zensar-tech-hfcl-indusind-bank-muthoot-finance-lupin-among-top-gainers-11783072829424.html
+- Sebi introduces auto-pledge framework for unpaid client securities. What does it mean for investors?
+   securities purchased outside the Margin Trading Facility that remain unpaid will continue to be credited directly to the client
+  🔗 https://www.livemint.com/market/stock-market-news/sebi-introduces-auto-pledge-framework-for-unpaid-client-securities-what-does-it-mean-for-investors-11783083361487.html
 
 - WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
    WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
@@ -100,17 +100,17 @@
   Oppo has launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at 
   🔗 https://www.livemint.com/technology/gadgets/oppo-reno-16-reno-16c-launched-in-india-check-price-specs-and-more-11782977448046.html
 
-- Global stock markets mixed as South Korea jumps, shrugging off chip slump: Live updates - CNBC
-  &nbsp;&ngt;<font color="#
+- Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates - CNBC
+  Global stock markets close higher as Europe's benchmark hits 52
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5
-
-- Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of jobs report - Yahoo Finance
-  The Dow, S&amp;P 500, Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5
 
 - Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates - CNBC
   Dow jumps nearly 600 points to record close. Nasdaq slides as
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
+
+- Stock Market News, July 2, 2026: Dow Rises, Nasdaq Falls After June Jobs Report - WSJ
+  The WSJ looks at the impact of the June jobs report
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE5ERzdWcTBwekVjWjdVRzRseWxIZm9KZ0dPTk1yc2hDaHNXMm5nVTRLMzZVYlpfOW83LU9DdmlHTEJHTGpaZTNmUDJ2cTd2bmRSbUpvZUFZTi1kM2gzQUY5bWhLWTlaM1pMTGVUMjRTVDhGZ3duMFo0T2N4NWE5UQ?oc=5
 
 - European Stocks Head for Best Week Since May: Markets Wrap - Bloomberg.com
   European Stocks Head for Best Week Since
@@ -120,45 +120,53 @@
   <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeH
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeHJTeC1OWDFtbTdfdDJTaXZhVHJrWjlTeTRXZ3MxeFpaeWRUQ25XcHdxQUI3RDJlV0FIVXo1VXBxcWo4RldKbE9GckRzYjBEUzd4dlhYV0liWXlIM9IBwwFBVV95cUxPdUVFN1hHVnN4MlBjV1dWbGhCWGVrbFlXTlFkdjRNeGdEc1JYMHBrUy1CYkM1ZGd6d1RQYW1ldmRaWmNVNG5NeDJOUHBFN003UVlhZXAzVWdtRzdDVm9obmdieVVrc0hoa0k5UWFPM1lRSjVsZjFHNkpFX2NMRVZuak1GMlY3UVFHS3QyWFN5OWNYSUFGUXVQbVZDNVFhT080YUR3Z1hpSTlCdERfT0l6ZVhZQ185dDJfR1ptMU5zanRPNzQ?oc=5
 
+- LME approves Adani's major copper smelter in India as listed brand
+  The London Metal Exchange has approved Adani Copper for delivery against its contracts. The move may boost India’s copper self-reliance and reduce import dependence.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/lme-approves-adanis-major-copper-smelter-in-india-as-listed-brand/articleshow/132166327.cms
+
+- Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing
+  Manipal Health Enterprises, with the support of Singapore's Temasek, has successfully obtained approval from SEBI for its initial public offering. This ambitious hospital chain is targeting one of the largest IPOs in India's healthcare landscape, aiming
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/temasek-backed-manipal-health-gets-sebi-approval-for-india-ipo-eyes-july-listing/articleshow/132164458.cms
+
+- Moneyview, Chandan Steel get Sebi's approval for IPOs
+  Sebi has granted approval for the Initial Public Offerings of fintech unicorn Moneyview and Chandan Steel. Moneyview strives to raise Rs 1,500 crore through a combination of fresh issues and offer for sale.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/moneyview-chandan-steel-get-sebis-approval-for-ipos/articleshow/132163475.cms
+
 - India's Godrej Consumer expects volume-driven first-quarter revenue rise
   Godrej Consumer anticipates a robust first quarter, projecting high-teen consolidated revenue growth driven by solid underlying volume increases. Key international markets, including Indonesia and the GUAM region, demonstrated strong performance.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms
 
-- Dabur India posts strong quarterly outlook as price hikes cushion inflation hit
+- Dabur Q1 updates: Co expects double-digit revenue growth as rural demand stays ahead of urban
   Dabur India anticipates a significant boost in its first-quarter profit, driven by strategic price hikes. Strong double-digit growth is projected across key international markets like Egypt and Turkey.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms
 
-- Sebi changes rules on unpaid client securities to ease broker operations
-  SEBI has revised rules for handling unpaid client securities. Changes aim to align with direct payouts, improve operational efficiency and strengthen investor protection.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-changes-rules-on-unpaid-client-securities-to-ease-broker-operations/articleshow/132161829.cms
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- Global stocks: UAE markets end higher; IHC gains on India aluminium venture
-  Dubai's index surged 1.1%, driven by the strength of its financial and industrial sectors. Abu Dhabi's benchmark climbed 0.9%. This bullish sentiment is rooted in anticipated shifts in U.S. interest rates.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-uae-markets-end-higher-ihc-gains-on-india-aluminium-venture/articleshow/132161637.cms
+- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
+  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
 
-- Quote of the day by Fred C. Kelly: "We may forgive ourselves for owning a market dullard when the rest of the market is also in the doldrums, but it is disheartening to see one’s favorite resting as quietly as a castor-oil bottle while the rest of the market goes gaily upward"
-  Fred C. Kelly's wisdom highlights that patience and conviction are crucial. Successful investing demands emotional discipline, focusing on long-term value.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fred-c-kelly-we-may-forgive-ourselves-for-owning-a-market-dullard-when-the-rest-of-the-market-is-also-in-the-doldrums-but-it-is-disheartening-to-see-ones-favorite-resting-as-quietly-as-a-castor-oil-bottle-while-the-rest-of-the-market-goes-gaily-upward/articleshow/132152924.cms
+- Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
+  Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
 
 - Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
   Piyush Goyal Recalls "Night
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
-  The Times of India is a leading newspaper in India. It is based in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
+- JCO injured in landmine blast in J&K's Rajouri - The Times of India
+  JCO injured in landmine blast in J
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
 
-- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
-  Bengaluru: India arrest after allegations of caregivers putting toddlers in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
+- [Update] Karnataka HC Refuses Stay On State’s Gig Workers Act, Directs Platforms To Deposit Welfare Fee
+  The Karnataka High Court has declined to stay the Karnataka Platform-Based Gig Workers.
+  🔗 https://inc42.com/buzz/eternal-meesho-other-consumer-tech-unicorns-challenge-karnatakas-gig-worker-law/
 
-- India news: Kotak to buy Deutsche Bank retail operations - DW.com
-  Kotak to buy Deutsche Bank
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
-
-- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
-  Finance Minister Nirmala invites French investors to partner with India’
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
+- [Update] Temasek Offloads PB Fintech Shares Worth ₹1,633.6 Cr
+  Temasek, via its holding entity Macritchie Investments Pte Ltd, sold 1.02 Cr shares.
+  🔗 https://inc42.com/buzz/pb-fintech-slumps-over-8-after-%e2%82%b91741-cr-block-deal/
 
 - Centre Summons Meta Over Instagram Ads Promoting Child Sexual Abuse
   IT minister Ashwini Vaishnaw has reportedly directed MeitY to summon Meta executives to clarify on Instagram ads.
@@ -172,53 +180,45 @@
   AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology grew.
   🔗 https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/
 
-- Centre Plans New Legal Framework To Tighten Oversight Of VPN Providers
-  Delhi HC Issues Notice To Centre On Plea Challenging CERT-In’s Mandate For VPN Providers. Centre reportedly working on a fresh legal framework to regulate virtual private network (
-  🔗 https://inc42.com/buzz/centre-plans-new-legal-framework-to-tighten-oversight-of-vpn-providers/
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- Fintech Unicorn Moneyview Gets SEBI Approval For ₹1,500 Cr+ IPO
-  Fintech unicorn Moneyview has received SEBI’s approval to proceed with its proposed IPO.
-  🔗 https://inc42.com/buzz/fintech-unicorn-moneyview-gets-sebi-approval-for-%e2%82%b91500-cr-ipo/
+- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
+  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
-
-- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
-  The Times of India is a leading newspaper in India. It is based in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
-
-- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
-  Bengaluru: India arrest after allegations of caregivers putting toddlers in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
-
-- India news: Kotak to buy Deutsche Bank retail operations - DW.com
-  Kotak to buy Deutsche Bank
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
-
-- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
-  Finance Minister Nirmala invites French investors to partner with India’
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
+- Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
+  Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
 
 - Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
   Piyush Goyal Recalls "Night
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
-  The Times of India is a leading newspaper in India. It is based in New Delhi.
-  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
+- JCO injured in landmine blast in J&K's Rajouri - The Times of India
+  JCO injured in landmine blast in J
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
 
-- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
-  Bengaluru: India arrest after allegations of caregivers putting toddlers in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- India news: Kotak to buy Deutsche Bank retail operations - DW.com
-  Kotak to buy Deutsche Bank
-  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
+- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
+  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
 
-- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
-  Finance Minister Nirmala invites French investors to partner with India’
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
+- Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
+  Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
+
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
+
+- JCO injured in landmine blast in J&K's Rajouri - The Times of India
+  JCO injured in landmine blast in J
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-03 13:55:08 UTC_
+_Last updated: 2026-07-03 19:14:49 UTC_
