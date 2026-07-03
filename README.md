@@ -1,46 +1,58 @@
 # 📰 Daily News Summaries
 
-- PM Modi’s maiden visit to New Zealand next week; first meet after trade deal
+- Matcha tea, now from India: Assam estate sells first India-made batch
   
-  🔗 https://indianexpress.com/article/india/pm-modi-visit-new-zealand-next-week-fta-10769513/
+  🔗 https://indianexpress.com/article/india/matcha-tea-now-from-india-assam-estate-sells-first-india-made-batch-10770091/
 
-- Supreme Court refuses to cancel Sonam Raghuvanshi’s bail in Meghalaya honeymoon murder
+- Khatu Shyam rail project: Sundarpura station construction to begin next year; 9 new stations planned to boost connectivity
   
-  🔗 https://indianexpress.com/article/india/sonam-raghuvanshi-raja-raghuvanshi-murder-bail-supreme-court-meghalaya-high-court-10769477/
+  🔗 https://indianexpress.com/article/india/khatu-shyam-rail-project-sundarpura-station-9-new-stations-rajasthan-10769980/
 
-- Does E20 petrol reduce mileage of your car, bike? Centre answers
+- 6 years on, new Indore hospital exists only on paper, but hiring in full swing
   
-  🔗 https://indianexpress.com/article/india/e20-petrol-ethanol-reduces-mileage-of-car-bike-hardeep-puri-10769363/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-indore-khajrana-civil-hospital-staff-appointed-no-building-land-dispute-10770008/
 
-- Gold Rate Today, July 3: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Defence body clears proposals to acquire ‘Akash Tarang’, MRSAM, VSHORADS, jet-based Kamikaze drones for Armed Forces
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-july-3-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10769230/
+  🔗 https://indianexpress.com/article/india/defence-acquisition-council-rs-52000-crore-procurement-akash-tarang-mrsam-10770024/
 
-- India news LIVE updates, 3 July 2026: Centre asks to remove apps being used to remotely disable electric vehicles
+- Month after Assam ‘stalker’ attack kills cousin, teen girl dies in ICU
   
-  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-3-july-2026-thane-electrocution-mumbai-orange-alert-ram-temple-theft-10769169/
+  🔗 https://indianexpress.com/article/india/assam-nalbari-student-dies-gmch-aasu-leader-attack-accused-encounter-10769846/
 
-- Meta launches Pocket, an AI app that can generate games with simple prompts
+- Galaxy Glasses leak reveals buttons, gestures, and camera controls ahead of launch
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-launches-pocket-an-ai-app-that-can-generate-games-with-simple-prompts-10769538/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/galaxy-glasses-leak-reveals-buttons-gestures-and-camera-controls-ahead-of-launch-10770020/
 
-- Anthropic in talks with Samsung for a potential AI chip collaboration: Report
+- Bought it, never got it: How online shopping scams are evolving
   
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-discusses-potential-ai-chip-collaboration-with-samsung-report-10769462/
+  🔗 https://indianexpress.com/article/technology/the-safe-side-how-to-avoid-shopping-scams-10769934/
 
-- Meta’s Zuckerberg says AI agent tech progressing slower than expected
+- Apple may launch 16 new products by end of 2026: Here’s a look at upcoming devices
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/metas-zuckerberg-says-ai-agent-tech-progressing-slower-than-expected-10769142/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-may-launch-16-new-products-by-end-of-2026-heres-a-look-at-upcoming-devices-10769744/
 
-- The 100-year Glacier mystery: Scientists finally crack secret behind Antarctica’s Blood Falls
+- After Apple, Nothing, Vivo and Realme raise prices of select smartphones
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/the-100-year-glacier-mystery-scientists-finally-crack-secret-behind-antarcticas-blood-falls-10769101/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/after-apple-nothing-vivo-and-realme-raise-prices-of-select-smartphones-10769804/
 
-- Tech updates (July 2, 2026): Oura Ring Prime Day deals, Huawei Band 11, Phone (4b) RCB edition, more
+- India investigating Tata data leak that exposed Apple iPhone secrets
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-updates-july-2-2026-oura-ring-prime-day-deals-huawei-band-11-phone-4b-rcb-edition-more-10768354/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets-10769725/
 
-- HCLTech ends three-year mega-deal drought with $1.14 billion contract from European client
+- JSW Steel kicks off  ₹16,350 crore low-carbon steel project in Andhra Pradesh
+  The electric arc furnace plant is part of the steelmaker's  �
+  🔗 https://www.livemint.com/companies/news/jsw-steel-rs16350-crore-rayalaseema-andhra-pradesh-low-carbon-steel-project-11783074293325.html
+
+- Bank of Baroda's  ₹5,700 crore NMC settlement to weigh on FY27 profitability
+  A one-time legal payout equivalent to nearly 28% of the lender's FY26 net profit is expected to dent earnings.
+  🔗 https://www.livemint.com/companies/news/bank-of-baroda-nmc-health-settlement-rs-5700-crore-profitability-hit-fy27-11783065578045.html
+
+- Food inflation reshaped household consumption in FY26, says Nestle India CMD
+  Nestle India declared a special dividend of  ₹2 per equity share with a face value of
+  🔗 https://www.livemint.com/companies/news/nestle-india-fy26-nestle-india-share-price-fmcg-india-rural-demand-11783068688228.html
+
+- HCLTech said to have won $1.14 billion contract from Mercedes-Benz, ending three-year mega-deal drought
   The deal assures HCLTech $228 million in annual
   🔗 https://www.livemint.com/companies/hcltech-three-year-mega-deal-drought-1-14-billion-contract-european-client-europe-revenue-tcs-infosys-coforge-11783054387804.html
 
@@ -48,37 +60,25 @@
   Tata Group's UK battery unit Agratas will draw £1.15 billion in loans, a 53% increase. Lenders extend repayment deadline to September 2027
   🔗 https://www.livemint.com/companies/tata-group-agratas-loan-debt-jaguar-land-rover-jlr-batteries-uk-government-energy-11782989055376.html
 
-- Ferrari's former design house is hanging by a thread—extended by Tech Mahindra
-  The acquisition of Pininfarina was meant to diversify Tech Mahindra into high-
-  🔗 https://www.livemint.com/companies/news/tech-mahindra-pininfarina-losses-capital-support-financial-drag-11782962832340.html
+- Godrej Consumer expects high-teens Q1 revenue growth on strong volumes; margins seen lower
+  Godrej Consumer Products projects a high-teens revenue growth for
+  🔗 https://www.livemint.com/market/stock-market-news/godrej-consumer-expects-high-teens-q1-revenue-growth-on-strong-volumes-margins-seen-lower-11783084403636.html
 
-- Air India slashes fuel surcharges on long-haul international flights as oil prices fall: How airfares will change
-  The fuel surcharge for flights to North America and Australia has been lowered to $200 per ticket from $280. For services to Europe and the UK
-  🔗 https://www.livemint.com/companies/news/air-india-slashes-fuel-surcharges-on-long-haul-international-flights-as-oil-prices-fall-11783011633049.html
+- Allcargo Global debuts on NSE, BSE following demerger from Allcargo Logistics
+  Allcargo Global Limited has listed its shares on the NSE and BSE under the ticker symbol AGL. The Group now has four focused entities to drive sustainable growth
+  🔗 https://www.livemint.com/market/stock-market-news/allcargo-global-debuts-on-nse-bse-following-demerger-from-allcargo-logistics-11783081558568.html
 
-- US ‘meritocratic’ made rise possible: Indra Nooyi says, ‘would never be Pepsi CEO in any other country, including India’
-  Indra Nooyi, former PepsiCo CEO believes that the US meritocratic system, enabled her rise. She said she never would have been “a chief executive of a global company in any other country, including
-  🔗 https://www.livemint.com/companies/news/us-meritocratic-made-rise-possible-indra-nooyi-says-would-never-have-been-pepsi-ceo-in-any-other-country-including-india-11783008355864.html
+- Atharva Polyplast IPO allotment date likely today. GMP, steps to check share allotment status online on BSE, MUFG Intime
+  Atharva Polyplast's IPO allotment is expected today, with shares allocated proportionally to retail investors due to high oversubscription. Refunds for unsuccessful applicants will begin
+  🔗 https://www.livemint.com/market/stock-market-news/atharva-polyplast-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-on-bse-mufg-intime-11783077914675.html
 
-- Market strategy: How should investors rebalance portfolios for H2CY26? Analysts favour banks, auto, metals, healthcare
-  The Nifty 50 index is currently trading at a 12-month forward P/E ratio of 18.8x. This is around a 10% discount to its long-period average (LPA) of 21x
-  🔗 https://www.livemint.com/market/stock-market-news/market-strategy-how-should-investors-rebalance-portfolios-for-h2cy26-analysts-favour-banks-auto-metals-healthcare-11783066012459.html
+- Aswath Damodaran predicts this for the future of AI: The next Amazon won't be Nvidia or OpenAI
+  Damodaran believes AI will neither drastically eliminate jobs nor be a fleeting trend. For investors, the lesson is that potential long-term AI winners might not yet be obvious.
+  🔗 https://www.livemint.com/market/stock-market-news/aswath-damodaran-predicts-this-for-the-future-of-ai-the-next-amazon-wont-be-nvidia-or-openai-11783072285016.html
 
-- Multibagger stock: Indiabulls share price zooms 5% to its 52-week high following stock market rally
-  Indiabulls share price jumped 5% to hit its 52-week high of  ₹29.50 on Friday, July 3. The multibagger stock has rallied
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-stock-indiabulls-share-price-zooms-5-to-its-52-week-high-following-indian-stock-market-rally-11783064271642.html
-
-- Can US Fed hike rates aggressively this year? How a 50 bps rate increase could impact Indian stock market
-  Experts highlight potential impacts on the Indian stock market. As inflation remains above target, the reactions of both the US and Indian markets could shift dramatically.
-  🔗 https://www.livemint.com/market/stock-market-news/can-us-fed-hike-rates-aggressively-this-year-how-a-50-bps-rate-increase-could-impact-indian-stock-market-11783062432794.html
-
-- Waterways Leisure Tourism shares hit 10% upper circuit for second straight day. Newly listed stock nears its issue price
-  Waterways Leisure Tourism share price surged to the upper circuit for the second session on 3 July. Analysts suggest sustained buying interest indicates a potential long-term opportunity.
-  🔗 https://www.livemint.com/market/stock-market-news/waterways-leisure-tourism-shares-hit-10-upper-circuit-for-second-straight-day-newly-listed-stock-nears-its-issue-price-11783061698016.html
-
-- Small-cap stock under  ₹50: Sindhu Trade Links up over 8%. Do you own?
-  Sindhu Trade Links share price has gained 8% in one month. The smallcap stock has surged 40% in six months. Over the past five years, shares have delivered multibagger returns of 760%.
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-sindhu-trade-links-up-over-8-do-you-own-11783062033447.html
+- Top Gainers &amp; Losers on 3 July: Zensar Tech, HFCL, IndusInd Bank, Muthoot Finance, Lupin among top gainers
+  The Indian stock market rose on July 3 before retreating as profit-taking emerged. The Nifty 50 closed up 0.40%, while the Sensex gained 0.35%. Realty led gains, but
+  🔗 https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-july-zensar-tech-hfcl-indusind-bank-muthoot-finance-lupin-among-top-gainers-11783072829424.html
 
 - WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
    WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
@@ -100,105 +100,125 @@
   Oppo has launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at 
   🔗 https://www.livemint.com/technology/gadgets/oppo-reno-16-reno-16c-launched-in-india-check-price-specs-and-more-11782977448046.html
 
-- Citi sees Brent crude sliding to $60 as supply fears ease
-  Citi expects Brent crude to fall to $60 a barrel by year-end as shipping through the Strait of Hormuz normalises and supply concerns ease. Goldman Sachs and Morgan Stanley also expect a supply surplus.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/citi-sees-brent-crude-sliding-to-60-as-supply-fears-ease/articleshow/132156275.cms
+- Global stock markets mixed as South Korea jumps, shrugging off chip slump: Live updates - CNBC
+  &nbsp;&ngt;<font color="#
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5
 
-- Japan's Nikkei rises, ekes out weekly gain on Fed bets, domestic growth signs
-  Japanese stocks experienced an optimistic week with the Nikkei 225 showing an upward trend on Friday. The market reacted positively to a weaker US jobs report, changing investor sentiment. With rising services activity in Japan, the Topix also notched
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-ekes-out-weekly-gain-on-fed-bets-domestic-growth-signs/articleshow/132156183.cms
+- Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of jobs report - Yahoo Finance
+  The Dow, S&amp;P 500, Nasdaq
+  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5
 
-- Explained: Why Tesla shares crashed 7% to record worst single-day fall in 1 year despite record Q2 sales
-  Tesla shares plunged over 7% despite the EV maker reporting record second-quarter deliveries that beat Wall Street estimates. Analysts attributed the sell-off to profit booking after the stock's recent rally.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-tesla-shares-crashed-7-to-record-worst-single-day-fall-in-1-year-despite-record-q2-sales/articleshow/132156170.cms
+- Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates - CNBC
+  Dow jumps nearly 600 points to record close. Nasdaq slides as
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
 
-- Sumitomo Chemical shares soar 11%, record biggest single-day surge in nearly 2 years. Here’s why
-  Sumitomo Chemical India shares surged around 11% as heavy volumes and a major development at its parent's Korean subsidiary lifted sentiment. Dongwoo Fine-Chem’s joint venture with Samsung Electro-Mechanics for
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sumitomo-chemical-shares-soar-11-record-biggest-single-day-surge-in-nearly-2-years-heres-why/articleshow/132155722.cms
+- European Stocks Head for Best Week Since May: Markets Wrap - Bloomberg.com
+  European Stocks Head for Best Week Since
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFp2a0lWdU9xbS1UbTZUeE9lWEQyNGsxTHB6LUJVVVJoSkJuWFA1enVrLS1CeUdqOHpKVlo0a00yN0Z0V29aSHdLdk9LMzVfaXpvRUMtZFpXd0FqZ1RWSjVGWTM2VUludFl6eEYwMnp1TnB6ZWNHVVJNdG1TUXNIMkJ1VW9TQzQ1YXBQOGw4Znptd21a?oc=5
 
-- Global Market: Australian shares log best week in 3 as Fed-hike bets cool; banks, miners lead
-  Australian shares posted their strongest week in three, driven by a global surge in commodity and financial stocks. Miners and banks, key components of the Australian market, led the gains, with gold stocks experiencing a significant uplift.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-australian-shares-log-best-week-in-3-as-fed-hike-bets-cool-banks-miners-lead/articleshow/132155317.cms
+- Stock markets surge in early trade; Sensex jumps 546 points - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeH
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeHJTeC1OWDFtbTdfdDJTaXZhVHJrWjlTeTRXZ3MxeFpaeWRUQ25XcHdxQUI3RDJlV0FIVXo1VXBxcWo4RldKbE9GckRzYjBEUzd4dlhYV0liWXlIM9IBwwFBVV95cUxPdUVFN1hHVnN4MlBjV1dWbGhCWGVrbFlXTlFkdjRNeGdEc1JYMHBrUy1CYkM1ZGd6d1RQYW1ldmRaWmNVNG5NeDJOUHBFN003UVlhZXAzVWdtRzdDVm9obmdieVVrc0hoa0k5UWFPM1lRSjVsZjFHNkpFX2NMRVZuak1GMlY3UVFHS3QyWFN5OWNYSUFGUXVQbVZDNVFhT080YUR3Z1hpSTlCdERfT0l6ZVhZQ185dDJfR1ptMU5zanRPNzQ?oc=5
 
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  India-Japan Summit 2026 LIVE: Japan, India Working Together
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
+- India's Godrej Consumer expects volume-driven first-quarter revenue rise
+  Godrej Consumer anticipates a robust first quarter, projecting high-teen consolidated revenue growth driven by solid underlying volume increases. Key international markets, including Indonesia and the GUAM region, demonstrated strong performance.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms
 
-- India's Tokyo drift: PMs open new chapter in ties - The Times of India
-  The Times of India reported that the two leaders
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxONmVhTWIwTGV0LThhbUlrY1RwaGhaZ1VBRXN0NkR2Wl9UTmVjanFnV3RXeWp1VjVxNjBuMFZhNHZNcE1BVFpsMWtGemxsN2gwYkRUV3lsSHRSVmRUT1lkeEtpLThmMHF3X0tiYi1BcVdSLTRZUTQ2a2ZvOG9LZHFkdzVOT2xyeFdKUExMX2Fub0tlWlo2eHZYZGdLNmJOYTlRMExKV1R3b0U0ZFdOSWVNTTRxNy1zZ9IBuwFBVV95cUxPZlJPaWxEd2dnSnlEbjN2akp2Mzd6ZnNEZjIyWWh0OThfc1QwT2QwQXVMbHJoc3F5dXBDZ1g2VUNWT1M2RjJFZmw4YVJhcmZlSFA5b1ZLeTFMcHEyZlNralRaMERsRDJHdEszV0h6S1RVSTR0TUJLMWEybTZJLW8yenB3WmZ1aHZCNW9mS25ybV8zMXRkZ2JhSW5OeENOeW1MLVhsblB3MW5vTzl4YkdxNk9QNWNJWHpsRkFZ?oc=5
+- Dabur India posts strong quarterly outlook as price hikes cushion inflation hit
+  Dabur India anticipates a significant boost in its first-quarter profit, driven by strategic price hikes. Strong double-digit growth is projected across key international markets like Egypt and Turkey.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms
 
-- Strategic stockpiling to AI ecosystem, the India-Japan roadmap’s out - The Indian Express
-  The Indian Express has published an exclusive interview with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVdxVkZWZVNIZGVSMTdjZ2FKN0dUdDVkSXhpeXkySFc5ZzhHNEd4NW1jd0xtQjJRMmVfTmNaYXlxM3QzdHduNW5hSktZd1ZnYWY5X0pVT2Uyd185TzNfajdCalcwX0xLT3JaX2lwY2FPWGYyVElRTTZ0ek1NdGdzMGtkcFNVM18tQmFtSTlsMEhWcFgwZjM0QkhmUkUtaTlxU2l4Q1JTWHNZOVpYRXNz0gG2AUFVX3lxTE10Mzk2cllaUDNKbUNnaHM0US1QVnJKUzJvMHZneEI3VUVEdzRhS3RZRHNwWFB0R0xzM1J5SkRkZXJqV2lMaWxpd1N3TEZRSzRIVVJ3eXRyT0J5bTM1SWVuUnh5QTVfM1U5MHFCa1dkRDFFYWRyalZ2R2hqb2MwbHBEMmU2aEtEQ3dvajEwZTBhYW1TZ25wWjlmekJILUt4ZFY0ZGtLekgwQWgtZW1ReW13UDZfcjJ3?oc=5
+- Sebi changes rules on unpaid client securities to ease broker operations
+  SEBI has revised rules for handling unpaid client securities. Changes aim to align with direct payouts, improve operational efficiency and strengthen investor protection.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-changes-rules-on-unpaid-client-securities-to-ease-broker-operations/articleshow/132161829.cms
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
+- Global stocks: UAE markets end higher; IHC gains on India aluminium venture
+  Dubai's index surged 1.1%, driven by the strength of its financial and industrial sectors. Abu Dhabi's benchmark climbed 0.9%. This bullish sentiment is rooted in anticipated shifts in U.S. interest rates.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-uae-markets-end-higher-ihc-gains-on-india-aluminium-venture/articleshow/132161637.cms
 
-- Instagram running ads promoting child sexual abuse material in India, BBC finds - BBC
-  Instagram running ads promoting child sexual abuse material in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCc0o0M0ZyQldObVJvOTJHbHBNZzFKZ1N0d1N3LTBSZzVGTmk1blZGQzJ1djY4bHNIV2hSbTJVRE1DZ3pyWmxpWmlEX0NiZHo4TlpXRXU0Tk5Cdw?oc=5
-
-- Paytm Subsidiary Receives Payments Licence From Luxembourg Authorities
-  Paytm has secured a payment institution licence for its step-down Luxembourg-based subsidiary, Paytm Europe Payments S.A.
-  🔗 https://inc42.com/buzz/paytm-subsidiary-receives-payments-licence-from-luxembourg-authorities/
-
-- RBI Calls Cryptocurrency A Threat To Economy, Opposes Its Legalisation
-  Reiterating its long-standing opposition to virtual digital assets (VDAs), the RBI told a parliamentary panel that cryptocurrencies pose a threat.
-  🔗 https://inc42.com/buzz/rbi-calls-cryptocurrency-a-threat-to-economy-opposes-its-legalisation/
-
-- How Nudge Is Reinventing Ecommerce For The Agentic AI Era
-  The way people discover products online is changing fast, and ecommerce brands are struggling to keep up.
-  🔗 https://inc42.com/startups/how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era/
-
-- PB Fintech Slumps Over 8% After ₹1,741 Cr Block Deal
-  Shares of PB Fintech, the parent company of Policybazaar, plunged over 8% in early trade after a block deal.
-  🔗 https://inc42.com/buzz/pb-fintech-slumps-over-8-after-%e2%82%b91741-cr-block-deal/
-
-- Udaan In Fresh Crisis, Mega Deal Slump In H1 & More
-  Udaan has run into a fresh crisis. Overseas creditors have initiated insolvency proceedings.
-  🔗 https://inc42.com/buzz/udaan-in-fresh-crisis-mega-deal-slump-in-h1-more/
-
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  India-Japan Summit 2026 LIVE: Japan, India Working Together
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
-
-- India's Tokyo drift: PMs open new chapter in ties - The Times of India
-  The Times of India reported that the two leaders
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxONmVhTWIwTGV0LThhbUlrY1RwaGhaZ1VBRXN0NkR2Wl9UTmVjanFnV3RXeWp1VjVxNjBuMFZhNHZNcE1BVFpsMWtGemxsN2gwYkRUV3lsSHRSVmRUT1lkeEtpLThmMHF3X0tiYi1BcVdSLTRZUTQ2a2ZvOG9LZHFkdzVOT2xyeFdKUExMX2Fub0tlWlo2eHZYZGdLNmJOYTlRMExKV1R3b0U0ZFdOSWVNTTRxNy1zZ9IBuwFBVV95cUxPZlJPaWxEd2dnSnlEbjN2akp2Mzd6ZnNEZjIyWWh0OThfc1QwT2QwQXVMbHJoc3F5dXBDZ1g2VUNWT1M2RjJFZmw4YVJhcmZlSFA5b1ZLeTFMcHEyZlNralRaMERsRDJHdEszV0h6S1RVSTR0TUJLMWEybTZJLW8yenB3WmZ1aHZCNW9mS25ybV8zMXRkZ2JhSW5OeENOeW1MLVhsblB3MW5vTzl4YkdxNk9QNWNJWHpsRkFZ?oc=5
-
-- Strategic stockpiling to AI ecosystem, the India-Japan roadmap’s out - The Indian Express
-  The Indian Express has published an exclusive interview with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVdxVkZWZVNIZGVSMTdjZ2FKN0dUdDVkSXhpeXkySFc5ZzhHNEd4NW1jd0xtQjJRMmVfTmNaYXlxM3QzdHduNW5hSktZd1ZnYWY5X0pVT2Uyd185TzNfajdCalcwX0xLT3JaX2lwY2FPWGYyVElRTTZ0ek1NdGdzMGtkcFNVM18tQmFtSTlsMEhWcFgwZjM0QkhmUkUtaTlxU2l4Q1JTWHNZOVpYRXNz0gG2AUFVX3lxTE10Mzk2cllaUDNKbUNnaHM0US1QVnJKUzJvMHZneEI3VUVEdzRhS3RZRHNwWFB0R0xzM1J5SkRkZXJqV2lMaWxpd1N3TEZRSzRIVVJ3eXRyT0J5bTM1SWVuUnh5QTVfM1U5MHFCa1dkRDFFYWRyalZ2R2hqb2MwbHBEMmU2aEtEQ3dvajEwZTBhYW1TZ25wWjlmekJILUt4ZFY0ZGtLekgwQWgtZW1ReW13UDZfcjJ3?oc=5
+- Quote of the day by Fred C. Kelly: "We may forgive ourselves for owning a market dullard when the rest of the market is also in the doldrums, but it is disheartening to see one’s favorite resting as quietly as a castor-oil bottle while the rest of the market goes gaily upward"
+  Fred C. Kelly's wisdom highlights that patience and conviction are crucial. Successful investing demands emotional discipline, focusing on long-term value.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fred-c-kelly-we-may-forgive-ourselves-for-owning-a-market-dullard-when-the-rest-of-the-market-is-also-in-the-doldrums-but-it-is-disheartening-to-see-ones-favorite-resting-as-quietly-as-a-castor-oil-bottle-while-the-rest-of-the-market-goes-gaily-upward/articleshow/132152924.cms
 
 - Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
   Piyush Goyal Recalls "Night
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Instagram running ads promoting child sexual abuse material in India, BBC finds - BBC
-  Instagram running ads promoting child sexual abuse material in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCc0o0M0ZyQldObVJvOTJHbHBNZzFKZ1N0d1N3LTBSZzVGTmk1blZGQzJ1djY4bHNIV2hSbTJVRE1DZ3pyWmxpWmlEX0NiZHo4TlpXRXU0Tk5Cdw?oc=5
+- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
+  The Times of India is a leading newspaper in India. It is based in New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
 
-- India-Japan Summit 2026 LIVE: Japan, India Working Together To Promote Industry In Northeast: Piyush Goyal - NDTV
-  India-Japan Summit 2026 LIVE: Japan, India Working Together
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxPd0h0TU9ndDBvd2xxVTdpZTNGT19RWUhEcXQ4U2ZwdGZXUkxSRF8zamVMSUpKYmxRMHd3MkNtR1puN0hHRHlhUG1od014VV8yVUp2VU13SllFMW9pOTQtbkg5Z215cWJuRnpTZ00zSy1uWmZIQWp3TDV3R3J2RjN2ak9keHZGOUNwdGNqSnJLcTI1M3FFQVN1WmN1dHhRNElXV09CaVdtYkVPUlFUbnZ0a2M0V2N6dFVoSlUzV1hzNmM4dVpIbjUtSHBZakNoZGVqcExXZm1EeEIyQ2R5Mnc5OWNUM1pJdlo5SUpiNlA1aVBOaVNOd1llZEFLeGd6emZGUy1PY24yVXNocEJITW51bUhfdERBc2hM0gGgAkFVX3lxTFBobEtvS29QamZYTEJORUJjZzhENEVta2pWdk5PeE5BSVlMYWNWX1kxUTdaaEJkZ0lsRjh2a2FiY3oyVlZ2VkVVT2VUb0ltREY2QldGSWwxWkdnV0NkWjRaNE4xSzZDQVpVMTJ5TUQ1ZFhoZ05UX2ZIU2ZPSEJqYktnbVg3VXRjT2JJcEpPbXVUZGMxMlo4NElhZ0p2UFZkYmphM01iTXVwcGp4UjItM1JDVVo1ak5QZXRLQzZPX0s3amRBU2NaWTFYUXo0VnYwb1RYSDVqaTZNQ1ZJNVNlS0EzRU9HMGQwZC15dGpvZy1CR3NQNVN6QzlGZWVVVV8xNktpZWVxMkRVblQwMENuUDZkT3R6Z2JiV2JPZk9NUkltLQ?oc=5
+- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
+  Bengaluru: India arrest after allegations of caregivers putting toddlers in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
 
-- India's Tokyo drift: PMs open new chapter in ties - The Times of India
-  The Times of India reported that the two leaders
-  🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxONmVhTWIwTGV0LThhbUlrY1RwaGhaZ1VBRXN0NkR2Wl9UTmVjanFnV3RXeWp1VjVxNjBuMFZhNHZNcE1BVFpsMWtGemxsN2gwYkRUV3lsSHRSVmRUT1lkeEtpLThmMHF3X0tiYi1BcVdSLTRZUTQ2a2ZvOG9LZHFkdzVOT2xyeFdKUExMX2Fub0tlWlo2eHZYZGdLNmJOYTlRMExKV1R3b0U0ZFdOSWVNTTRxNy1zZ9IBuwFBVV95cUxPZlJPaWxEd2dnSnlEbjN2akp2Mzd6ZnNEZjIyWWh0OThfc1QwT2QwQXVMbHJoc3F5dXBDZ1g2VUNWT1M2RjJFZmw4YVJhcmZlSFA5b1ZLeTFMcHEyZlNralRaMERsRDJHdEszV0h6S1RVSTR0TUJLMWEybTZJLW8yenB3WmZ1aHZCNW9mS25ybV8zMXRkZ2JhSW5OeENOeW1MLVhsblB3MW5vTzl4YkdxNk9QNWNJWHpsRkFZ?oc=5
+- India news: Kotak to buy Deutsche Bank retail operations - DW.com
+  Kotak to buy Deutsche Bank
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
 
-- Strategic stockpiling to AI ecosystem, the India-Japan roadmap’s out - The Indian Express
-  The Indian Express has published an exclusive interview with
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVdxVkZWZVNIZGVSMTdjZ2FKN0dUdDVkSXhpeXkySFc5ZzhHNEd4NW1jd0xtQjJRMmVfTmNaYXlxM3QzdHduNW5hSktZd1ZnYWY5X0pVT2Uyd185TzNfajdCalcwX0xLT3JaX2lwY2FPWGYyVElRTTZ0ek1NdGdzMGtkcFNVM18tQmFtSTlsMEhWcFgwZjM0QkhmUkUtaTlxU2l4Q1JTWHNZOVpYRXNz0gG2AUFVX3lxTE10Mzk2cllaUDNKbUNnaHM0US1QVnJKUzJvMHZneEI3VUVEdzRhS3RZRHNwWFB0R0xzM1J5SkRkZXJqV2lMaWxpd1N3TEZRSzRIVVJ3eXRyT0J5bTM1SWVuUnh5QTVfM1U5MHFCa1dkRDFFYWRyalZ2R2hqb2MwbHBEMmU2aEtEQ3dvajEwZTBhYW1TZ25wWjlmekJILUt4ZFY0ZGtLekgwQWgtZW1ReW13UDZfcjJ3?oc=5
+- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
+  Finance Minister Nirmala invites French investors to partner with India’
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
+
+- Centre Summons Meta Over Instagram Ads Promoting Child Sexual Abuse
+  IT minister Ashwini Vaishnaw has reportedly directed MeitY to summon Meta executives to clarify on Instagram ads.
+  🔗 https://inc42.com/buzz/centre-summons-meta-over-instagram-ads-promoting-child-sexual-abuse/
+
+- GoDaddy Challenges HC Order Targeting Fake Domain Names: Report
+  Internet domain name registrar GoDaddy, along with domain registrars Namecheap and Hosting Concepts, has reportedly challenged a Delhi High
+  🔗 https://inc42.com/buzz/godaddy-challenges-hc-order-targeting-fake-domain-names-report/
+
+- Indian AI Startup Funding Soars Over 4X YoY In H1 2026, But Is It Enough To Compete Globally?
+  AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology grew.
+  🔗 https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/
+
+- Centre Plans New Legal Framework To Tighten Oversight Of VPN Providers
+  Delhi HC Issues Notice To Centre On Plea Challenging CERT-In’s Mandate For VPN Providers. Centre reportedly working on a fresh legal framework to regulate virtual private network (
+  🔗 https://inc42.com/buzz/centre-plans-new-legal-framework-to-tighten-oversight-of-vpn-providers/
+
+- Fintech Unicorn Moneyview Gets SEBI Approval For ₹1,500 Cr+ IPO
+  Fintech unicorn Moneyview has received SEBI’s approval to proceed with its proposed IPO.
+  🔗 https://inc42.com/buzz/fintech-unicorn-moneyview-gets-sebi-approval-for-%e2%82%b91500-cr-ipo/
 
 - Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
   Piyush Goyal Recalls "Night
   🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Instagram running ads promoting child sexual abuse material in India, BBC finds - BBC
-  Instagram running ads promoting child sexual abuse material in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCc0o0M0ZyQldObVJvOTJHbHBNZzFKZ1N0d1N3LTBSZzVGTmk1blZGQzJ1djY4bHNIV2hSbTJVRE1DZ3pyWmxpWmlEX0NiZHo4TlpXRXU0Tk5Cdw?oc=5
+- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
+  The Times of India is a leading newspaper in India. It is based in New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
+
+- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
+  Bengaluru: India arrest after allegations of caregivers putting toddlers in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
+
+- India news: Kotak to buy Deutsche Bank retail operations - DW.com
+  Kotak to buy Deutsche Bank
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
+
+- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
+  Finance Minister Nirmala invites French investors to partner with India’
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
+
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
+
+- Evening news wrap: RSS demands strict action over Ram Temple donation scam; Centre summons Meta over Inst - The Times of India
+  The Times of India is a leading newspaper in India. It is based in New Delhi.
+  🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxNbGJaNGZZM0FXd2tNNWZseVJfVUVmWVo2a0tFcUtRRHlkcmhXRmExbVNTcmxrQURjWUNMd0RTenZfQ2Y2QW1KbjdDNEd6b3FPQUVSYVR5Nks3cVplN2xOSks1TU5aQ2pBbjdDNE9iVklpQklvZVhWVWpLM2N5VXJBQTFNQTJucmpwZ09WX0g3V0VobFpUZVVJNkcxajdSWTBhVEJLZTk1OTFLLXJyY2hFT2k1ajB0OFJOc25ZakxKMktMS1Q4NllVeEY3ZTBuZ0VBVTNibXF3dU9MT1d4M0hNVHIxYjdqeFZOM3pSeGlIT0JBRXJ5T093ZjFLTnNIV0NPS2tDelRab3ZyTGV2dlV0Y2oyUHNSdzdHQTJhN05fek5qYlNNQlk5RFNhODFnejRraWhPSE5hcnJRd0430gHCAkFVX3lxTFA2eWxjN0NxSFNmNmU5T0h4YWlELWxUVXV0SVNFODk2UnhQZmpDYjFXUExjcWhIM3hwQVZCS0tRTUZ3ZjVkbHZ6LUs1MGZiR0pVSUpsb285UFR2bV85QlRHQVB4bFNHTTZ2Vm02WHBfdXVaODFyZGVFazBOV1hyWGh3cl90SldkS3d0azlUNy1pZjdfMmRlOFVndGVXRUtIQUR1TE4zeEJqSmNySTB5SlZDV3dnYlc4ZEtNVm1XU3pXUU13SXEzSDRTdEx6dXR3Y1RxdEg2NmYxUHJ6OUIyQWJzdFE4ZHBVdjFYU3hBaDJEdl9ZZ1JHUlIwNFdseWZOR2ctbm5LY2poRC1SVHFKWXNyUFlzd2RLOEwyc1ljeUhFN2lJV0YtYlNiWFphaV9Jekw2Q2VYNVRtem8tVFI5Y2dHbWc?oc=5
+
+- Bengaluru: India arrest after allegations of caregivers putting toddlers in washing machine at Capgemini daycare centre - BBC
+  Bengaluru: India arrest after allegations of caregivers putting toddlers in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUkhyc08zZTR1OUx2NzkxOEVXbmtVNjkyLWdpWHFHcDd6MU9VU0ozd2VqTXJSbGFMY1FINld1Qk5JLVVSM1I1OU05T2R2czNJRHVmYmxrUGdrQQ?oc=5
+
+- India news: Kotak to buy Deutsche Bank retail operations - DW.com
+  Kotak to buy Deutsche Bank
+  🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFp3MHk1R1lXSkNGUFZZT1ppRUZvM3ozaFhtenZDTTZZc05FbWRWQkJqUzNwNmcwUy1uWDdiMWpFNE05bHZ6RmlpWmQtM1VGYTh6b3pkbzRicm1Qb3lyOUpRdTA4SUlJM1dCYkVOOXlFN3ZjNFE0eXZ3RnhxMWRVcm45eHdENFp1QVJvMHRwd3lzRm8xSFE?oc=5
+
+- Finance Minister Nirmala invites French investors to partner with India’s journey towards Viksit Bharat 2047 - News On AIR
+  Finance Minister Nirmala invites French investors to partner with India’
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmh2NGZDTmN1RVoyVVRhSjVvcVo0NzZNTHZJZzNRUTNXVnQwM0ZtZGs4TUpLbGw4V1h2cHFOVWdMU0MtUUZWNlNnN291cUtCNk94RFRaTjVPWHZfY0Y4V29lemVuSEdRckZvZ3lSUkFjd25namZuSkowOTJZLWN4QXFiWHJtWmljOTdLd0ZRaXVGOUhnVjVhZDM3V0lwMnVHZ09MenRDQW5ERjV0Zk9sSVVPQQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-03 08:59:00 UTC_
+_Last updated: 2026-07-03 13:55:08 UTC_
