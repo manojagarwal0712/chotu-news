@@ -1,24 +1,32 @@
 # 📰 Daily News Summaries
 
-- Centre issues notice to Telegram over pirated movies, seeks action in 15 days
+- ‘Emission reduction’: Centre issues fresh draft targets for iron and steel sector
+  
+  🔗 https://indianexpress.com/article/india/emission-reduction-centre-issues-fresh-draft-targets-for-iron-and-steel-sector-10771486/
+
+- PM Modi credits ‘jalwa’ of India’s diplomacy for beating West Asia fuel crisis: ‘history will record it’
+  
+  🔗 https://indianexpress.com/article/india/pm-narendra-modi-rajasthan-balotra-refinery-lpg-price-west-asia-energy-crisis-10771377/
+
+- Centre designates 23 terrorists: Who they are and the charges against them
+  
+  🔗 https://indianexpress.com/article/india/centre-designates-23-terrorists-full-list-allegations-explained-10771321/
+
+- Ahmedabad bullet train station to be developed as a multimodal transport hub with kite-inspired design
+  
+  🔗 https://indianexpress.com/article/india/ahmedabad-bullet-train-station-multimodal-transport-hub-kite-inspired-design-10771194/
+
+- Pirated movies, OTT content: Government notice to Telegram, seeks report in 15 days
   
   🔗 https://indianexpress.com/article/india/centre-issues-notice-to-telegram-over-pirated-movies-seeks-action-in-15-days-10771096/
 
-- Gold Rate Today, July 4: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Isro’s Chandrayaan-3 reveals link to Earth’s first lunar meteorite
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-july-4-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10770786/
+  🔗 https://indianexpress.com/article/technology/science/isros-chandrayaan-3-reveals-link-to-earths-first-lunar-meteorite-10771464/
 
-- Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
+- 5 best alternatives to Google Chrome and Safari in 2026
   
-  🔗 https://indianexpress.com/article/india/jaish-lashkar-operatives-terrorists-j-k-attack-10770758/
-
-- Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
-  
-  🔗 https://indianexpress.com/article/india/centre-designates-23-jem-let-operatives-terrorists-jk-attack-links-10770706/
-
-- Cop among 4 killed in two separate road accidents in J-K
-  
-  🔗 https://indianexpress.com/article/india/jammu-and-kashmir-road-accidents-10770728/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/5-best-alternatives-to-google-chrome-and-safari-in-2026-10771207/
 
 - AI hiring outpaces overall IT recruitment in India, report shows
   
@@ -31,14 +39,6 @@
 - More Indians are returning from the US, but tech jobs are getting harder to find: Survey
   
   🔗 https://indianexpress.com/article/technology/us-visa-india-tech-jobs-survey-10770661/
-
-- Stronger chest, back muscles linked to lower heart attack risk, AI study finds
-  
-  🔗 https://indianexpress.com/article/technology/science/stronger-chest-back-muscles-linked-to-lower-heart-attack-risk-ai-study-finds-10769892/
-
-- Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/
 
 - Why is Bank of Baroda paying $600 million to settle a case?
   NMC founder B.R. Shetty has long accused senior Bank of Baroda officials of colluding with former NMC executives in a fraud. The bank has asserted that the settlement was reached without any admission of
@@ -60,6 +60,10 @@
   Nestle India declared a special dividend of  ₹2 per equity share with a face value of
   🔗 https://www.livemint.com/companies/news/nestle-india-fy26-nestle-india-share-price-fmcg-india-rural-demand-11783068688228.html
 
+- This small-cap stock has doubled investor wealth in just 3 months; check details
+  Bluspring Enterprises has seen a remarkable 112% surge in three months. The stock reached a 52-week high of  ₹131.60 following substantial order wins
+  🔗 https://www.livemint.com/market/this-multibagger-small-cap-stock-bluspring-enterprises-share-has-doubled-investor-wealth-in-just-3-months-check-details-11783159836339.html
+
 - Yes Bank Q1 business update is out; shares to be in focus on Monday: Check details
   CASA deposits rose 14.3% YoY, while the bank's board approved a proposal to raise  ₹16,000 crore through equity and debt issuances. Yes Bank
   🔗 https://www.livemint.com/market/stock-market-news/yes-bank-q1-business-update-is-out-yes-bank-share-price-to-be-in-focus-on-monday-check-details-11783152374971.html
@@ -75,10 +79,6 @@
 - Will Bulls remain in control in July? History says Nifty 50 has a 72% success rate
   July historically benefits the Nifty 50, showing gains 18 of 25 years. With a 72% success rate and an average return of 2.19%, macroeconomic factors
   🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-outlook-will-bulls-remain-in-control-in-july-history-says-nifty-50-has-a-72-success-rate-11783137916668.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 6 July 2026
-  Max Healthcare, Ultratech Cement, Indian Hotels are stocks to buy on
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-july-2026-11783133610327.html
 
 - WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
    WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
@@ -100,25 +100,53 @@
   Oppo has launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at 
   🔗 https://www.livemint.com/technology/gadgets/oppo-reno-16-reno-16c-launched-in-india-check-price-specs-and-more-11782977448046.html
 
+- F&amp;O Talk: Smallcap index better placed than Nifty, says Sudeep Shah; picks 9 stocks for next week
+  SBI Securities expects Nifty's breakout to strengthen if it crosses 24,450. The brokerage also highlights Aurobindo Pharma, DLF, Titan and Oberoi Re
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms
+
+- How Did Trump Make $1.4 Billion From Crypto?
+  
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/how-did-trump-make-1-4-billion-from-crypto/videoshow/132179547.cms
+
+- Raamdeo Agrawal's 7 book recommendations for stock market investors
+  Motilal Oswal Chairman Raamdeo Agrawal says purposeful reading shapes better investors. He recommends seven timeless investing books, including works by Peter Lynch, Warren Buffett
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/7-books-for-stock-market-investors-recommended-by-raamdeo-agrawal/articleshow/132178504.cms
+
+- Retail investors bet on these 10 small-cap stocks; they rally up to 185% in 3 months
+  Retail investors raised stakes in 195 Nifty Smallcap 500 stocks during the March 2026 quarter. Four stocks turned multibaggers, while Cemindia Projects
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-bet-on-these-10-small-cap-stocks-they-rally-up-to-185-in-3-months/slideshow/132178345.cms
+
 - Bitcoin trades near $62,000; inflation, geopolitical risks remain key market drivers
   Bitcoin rebounded near $62,000 after recovering from last week's lows. Investors remain cautious amid inflation, geopolitical tensions, energy prices.
   🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-62000-inflation-geopolitical-risks-remain-key-market-drivers/articleshow/132177558.cms
 
-- Gold’s sharp correction: What lies ahead for prices?
-  Gold has corrected sharply from record highs. Experts view the decline as a technical correction. They recommend staggered buying and long-term holding.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/golds-sharp-correction-what-lies-ahead-for-prices/articleshow/132177503.cms
+- 'India's position on Indus Waters Treaty consistent': MEA responds to Pakistan's 'warnings' | India News - Hindustan Times
+  'India's position on Indus Waters Treaty consistent': MEA responds
+  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEdGWV8zZ0tuZ2FINUg1bTBmUS1KZDN6SU9pSWdCRXBhYmZsMVBLd0FydUVOME9INTVDWDhVVTdFTXY4aEE1cVdqOVd0aHJINkJQdWlPSHdvTktraFByVW1rOEVUaEtrQTc1d1B6NHdTTkc4WDJ3dnVEbnZFVHkyT0tTM2lkbDRBQ19vRFpNdVJfVVJFRXZvOXpya0drdTdHY2dFRTRjQjlZRUw5cEw3cmY5NmZZZEZZNUh6Yk9rQ2dWZkgtVzl3VWtiV1NKU1kzd1B1TW5ZRkw0VTdL0gHiAUFVX3lxTFBVcUg1Q2YxTkRQVEc2cVBEc1NSWHFUNkJWTW5sSlZJWnlnVy1MWEhDZWFwX3hrR09NR2cyRjQwVmg5TjRyUmdFLWlCbzVRbE5sZXE0TnNzcTQ1MG1zeGtCNTJiazdMQ19xdkwzLU4yNmNPWkd2WkxycDZ0aHE2RFY1VmdjbVdGUzYzSFZETnloNVpMSDg5R0lJTmJEY1pWRUFYT0ljLXZJYk1xOWFxd1MzRkNPYXdEdXp5UUhZZjhaMlMtOWt1ME85V2RnTzlqTFNWbnZOc1JpalZXZldJTkNMb0E?oc=5
 
-- IPO Calendar: Mainboard IPO of Kusumgar among 3 new public offers on investors radar next week
-  Kusumgar's ₹650 crore IPO will open on July 8 with a 33% grey market premium. The engineered fabrics maker, serving defence and aerospace sectors,
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-mainboard-ipo-of-kusumgar-among-3-new-public-offers-on-investors-radar-next-week/articleshow/132177446.cms
+- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
+  Piyush Goyal Recalls "Night
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
 
-- Top picks! Redington, among 5 stocks with upside potential of up to 27%. Do you own any?
-  Monarch Networth Capital has maintained Buy ratings on Pricol, Redington, Sundram Fasteners, Travel Food Services and Viyash Scientific. The brokerage sees upside
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/top-picks-redington-among-5-stocks-with-upside-potential-of-up-to-27-do-you-own-any/slideshow/132176857.cms
+- How Rs 52,000 crore worth of equipment will strengthen India's borders - The Times of India
+  How Rs 52,000 crore worth of equipment will strengthen India
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWhIYUV4dTQ2LTQxV2VoN0dZY0tUdkdJekNPN0tmUkZETTVsdWFGZE52RzRqQkZKZkYxeC1FVm9JQm5HbDZjZHFzNE5TeW5zOVlMTmtlUmw0bHVfZDBicjIwSllTNDdyd1F3RlM4ZVJmM01DT24xVHE1MnNRbzRudjFmTVl2UGpmMXFXQVVMUEVYV1RHMmtuRGU5X3pkclE0cHRvallOZWgxWXlxcGgwS0hYaXpNeENQYm81TzNGX3JVZl9ZZEk1NXJHdWtyYVl6cFpoN29ETUtCVjjSAeABQVVfeXFMT0ZkT0ZySk1TQ0RGRVpLQkNkbXZnODFOU1YtUVl5RTBMZWRTcmxrQnhxQkNoUDAtWVFkS2ZjeVlveU5qa1RZQmJwajkya2YySnllM21hcWhXN1VncVphV25raEc0YTVJS2dMWFVja2kzU2N0eXZnR01GNmdFWGI2a0hQWnkydWtEUXpRUFJRdUJUYjdtcUx0SEhsMDZkX3FKcXVEdmUyeDg3REVmVC1pMThnSUptNHBvTnUzeE9pZzhPTXVxcmpYTTd3N3MwaHlqaUJXY3JJMXBEeVlXa1NOTzE?oc=5
 
-- Why the capital cycle approach is a powerful framework for long-term investing
-  Edward Chancellor advocates the capital cycle approach. He argues disciplined capacity, rational competition and long-term thinking can uncover overlooked opportunities.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/why-the-capital-cycle-approach-is-a-powerful-framework-for-long-term-investing/articleshow/132176751.cms
+- Jamaat-e-Islami Alleges 'Motivated' Demolitions, Raises SIR Concerns - NDTV
+  Jamaat-e
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnRWSkFCaE14MUJKVHk0aGUxSVl1SC1lUGtjRWxWVkV0eS1YdDNJdEZJUUlHN01aRXVYbkpsSzRKNjBfV0ZuWEpIdk5xU1hzVlVaRGg5LUxFRWxsUXdMdTZjdmI1dWhjQnc0MThsVklEWlRzV2JQVFdhdlgxYU9lazRVVVZOelhNM0dNc0cwaVJLVlZmZ3U4ekVnUFp5NWpReHotekZ5X3hCZ9IBsgFBVV95cUxPNGRObXI0YmRwUFkzR2JTVFhsNmpVcTBubnhEUGlLX2R6RENoUWQzODJneVlUN1ExMlM1OXBJTE9zMGg3dGtpT0Rla3hnMFMtQmVYTkFtekJLUWhGc0g3ZnhNZEN2T2oyeXc0TjZQMFJRdC02SWtEN2l0b2FfTUFMaU5sRTIwSTd2VUhOcmx5Z2RScm5RQS1UMkZuMTA1amlhdkdZR0Z2MkU1ZUY3SlhlOWhR?oc=5
+
+- DK Shivakumar Launches Praja Seva Department To Resolve Public Grievances - NDTV
+  DK Shivakumar Launches Praja
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmZmN1NlWlk5ZlNld2pJZHlfSDhvZ1V1djFjLXdUMkNxa2MwZGFNbGVPS2lsSTJ5bG9CLUdVNDh5WmdGUEhlRHI0UmtjTlYzWk96Q09YbTN5SWhPTFMyS1BONERrb0haOXk4MlVpeTFqQ0dJdWxRVk9zQk1GZFZnTnNiaHZlblBTYUxSYXVSR1hscW9SUDYzZVhuOEJoWk1nUXhpT0NkLTNOcklXbmtWUjNOeC3SAbwBQVVfeXFMTk53U1d2eHZqTGh4MnFMM1J1bVBIX2xuWXdtNWFFY1JWQ2pMYnpWYld0cFdmbXlFWUFLVnBjTFJ6NmlRNUlJSzNHanFGWWw5UTJlZ1FpSXFZRDMyZzZxTkx3UmZGaTRmM1ZJbDRIVjFvTFhEeXhEOWpLMEpISUNYV19yX25kRnFsVEZNVHBrRk9URDM0SUlpWU5xMmZXZWd3X3dmOENBV2hBNi03ZHgtVnI0RWNGdV9wVjB4SGQ?oc=5
+
+- Remote EV Shutdowns Expose India’s Connected Device Security Gap
+  Social media feeds over the past week have been flooded with videos of people accessing the battery management systems.
+  🔗 https://inc42.com/features/remote-ev-shutdowns-expose-indias-connected-device-security-gap/
+
+- Now, Telegram Receives Notice From Centre For Distributing Pirated Films
+  Messaging platform Telegram has now received another notice over alleged dissemination of pirated films.
+  🔗 https://inc42.com/buzz/now-telegram-receives-notice-from-centre-for-distributing-pirated-films/
 
 - From The Indus Valley To Incuspaze — Indian Startups Raised $105 Mn This Week
   Indian startup funding plummeted in the final week of June after a sizable uptick last week.
@@ -131,14 +159,6 @@
 - [Update] Temasek Offloads PB Fintech Shares Worth ₹1,633.6 Cr
   Temasek, via its holding entity Macritchie Investments Pte Ltd, sold 1.02 Cr shares.
   🔗 https://inc42.com/buzz/pb-fintech-slumps-over-8-after-%e2%82%b91741-cr-block-deal/
-
-- Centre Summons Meta Over Instagram Ads Promoting Child Sexual Abuse
-  IT minister Ashwini Vaishnaw has reportedly directed MeitY to summon Meta executives to clarify on Instagram ads.
-  🔗 https://inc42.com/buzz/centre-summons-meta-over-instagram-ads-promoting-child-sexual-abuse/
-
-- GoDaddy Challenges HC Order Targeting Fake Domain Names: Report
-  Internet domain name registrar GoDaddy, along with domain registrars Namecheap and Hosting Concepts, has reportedly challenged a Delhi High
-  🔗 https://inc42.com/buzz/godaddy-challenges-hc-order-targeting-fake-domain-names-report/
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -169,4 +189,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-04 08:32:35 UTC_
+_Last updated: 2026-07-04 13:14:43 UTC_
