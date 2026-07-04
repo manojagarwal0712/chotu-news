@@ -1,6 +1,14 @@
 # 📰 Daily News Summaries
 
-- 4 Chinese firms with factories in India cleared to bid for power projects
+- Manipur MLA brutally assaulted in 2023 to be laid to rest 4 months after his death
+  
+  🔗 https://indianexpress.com/article/india/manipur-mla-brutally-assaulted-in-2023-to-be-laid-to-rest-4-months-after-his-death-10770412/
+
+- ‘Will never win genuine recognition’: China on India-Japan ‘free and open Indo-Pacific’ stand
+  
+  🔗 https://indianexpress.com/article/india/beijing-comments-on-free-and-open-indo-pacific-critical-minerals-10770439/
+
+- Four Chinese firms with factories in  India cleared to bid for power projects
   
   🔗 https://indianexpress.com/article/india/chinese-power-equipment-firms-government-tenders-two-year-exemption-10770333/
 
@@ -12,13 +20,9 @@
   
   🔗 https://indianexpress.com/article/india/former-vp-jagdeep-dhankhar-successful-angioplasty-stents-10770308/
 
-- PM Modi on six-day tour of Indonesia, Australia, New Zealand from July 6
+- Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag
   
-  🔗 https://indianexpress.com/article/india/pm-narendra-modi-visit-indonesia-australia-new-zealand-mea-act-east-policy-10770216/
-
-- Amrit Bharat Station Scheme: Redevelopment of Rajasthan’s 151-year-old Gandhinagar Jaipur railway station nears completion
-  
-  🔗 https://indianexpress.com/article/india/amrit-bharat-station-scheme-gandhinagar-jaipur-railway-station-redevelopment-nears-completion-10770103/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/
 
 - Google Maps Lists can make travel planning much easier; here’s how
   
@@ -36,9 +40,9 @@
   
   🔗 https://indianexpress.com/article/technology/the-safe-side-how-to-avoid-shopping-scams-10769934/
 
-- Apple may launch 16 new products by end of 2026: Here’s a look at upcoming devices
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-may-launch-16-new-products-by-end-of-2026-heres-a-look-at-upcoming-devices-10769744/
+- Why is Bank of Baroda paying $600 million to settle a case?
+  NMC founder B.R. Shetty has long accused senior Bank of Baroda officials of colluding with former NMC executives in a fraud. The bank has asserted that the settlement was reached without any admission of
+  🔗 https://www.livemint.com/companies/news/why-is-bank-of-baroda-paying-600-million-to-settle-a-case-nmc-health-11783080779016.html
 
 - Victorinox bets bigger on India with exclusive stores, e-commerce push
   The Swiss brand unveiled its India Vision 2030 roadmap, targeting five exclusive stores by 2028. It also plans to launch a dedicated e-commerce platform and wider
@@ -56,9 +60,17 @@
   Nestle India declared a special dividend of  ₹2 per equity share with a face value of
   🔗 https://www.livemint.com/companies/news/nestle-india-fy26-nestle-india-share-price-fmcg-india-rural-demand-11783068688228.html
 
-- HCLTech said to have won $1.14 billion contract from Mercedes-Benz, ending three-year mega-deal drought
-  The deal assures HCLTech $228 million in annual
-  🔗 https://www.livemint.com/companies/hcltech-three-year-mega-deal-drought-1-14-billion-contract-european-client-europe-revenue-tcs-infosys-coforge-11783054387804.html
+- Only one old-school haven stands firm during Iran war as gold, others lose luster
+  Iran war has put a question mark next to several of these former flights to safety. Investors usually flock to so-called traditional
+  🔗 https://www.livemint.com/market/only-one-old-school-haven-stands-firm-during-iran-war-as-gold-others-lose-luster-11783130090122.html
+
+- TVS Motor accelerates in Q1, but valuation leaves little room for error
+  TVS Motor posted record Q1FY27 sales on strong exports and EV growth. But with shares at 32x FY28 earnings, execution
+  🔗 https://www.livemint.com/market/mark-to-market/tvs-motor-accelerates-in-q1-but-valuation-leaves-little-room-for-error-ev-11783064637262.html
+
+- Gold prices have fallen. Here's what could trigger the next rally
+  Trade policy, inflation, geopolitics, recession fears and central bank buying will determine whether
+  🔗 https://www.livemint.com/market/commodities/gold-price-forecast-what-could-trigger-the-next-rally-2026-11783076811520.html
 
 - Senco Gold Q1 update: Revenue jumps 60% on festive demand; SSSG at 38%, 8 new showrooms opened
   Senco Gold's June quarter results showed a 60% increase in revenue and strong same-store sales. The company opened eight new showrooms and plans 12-15 more.
@@ -67,18 +79,6 @@
 - KPIT Tech shares plunge 25% in five days to nearly four-year low after weak revenue outlook. Is the worst over?
   KPIT Technologies shares dropped 25% to  ₹558.65 this week. Brokerages downgraded the stock amid concerns over revenue declines and uncertain recovery.
   🔗 https://www.livemint.com/market/stock-market-news/kpit-tech-shares-plunge-25-in-five-days-to-nearly-four-year-low-after-weak-revenue-outlook-is-the-worst-over-11783091888730.html
-
-- Gold, silver prices today: Comex gold and silver extend rally as weak US jobs data cools Fed rate hike fears
-  Comex gold futures climbed to $4,208, while silver futures reached $63.50. Employment data indicated a slowdown, lowering rate-hike expectations.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-rally-as-weak-us-jobs-data-cools-fed-rate-hike-fears-11783007280731.html
-
-- Pulse of the Street: Realty and healthcare lifts markets, but weak rupee clouds rally
-   Markets rose nearly 1% this week as softer crude oil prices, easing volatility and buying in real estate, healthcare and consumption stocks lifted sentiment. However, weakness in capital goods and power, along with
-  🔗 https://www.livemint.com/market/realty-and-healthcare-lifts-markets-but-weak-rupee-clouds-rally-11783082572693.html
-
-- Sebi introduces auto-pledge framework for unpaid client securities. What does it mean for investors?
-   securities purchased outside the Margin Trading Facility that remain unpaid will continue to be credited directly to the client
-  🔗 https://www.livemint.com/market/stock-market-news/sebi-introduces-auto-pledge-framework-for-unpaid-client-securities-what-does-it-mean-for-investors-11783083361487.html
 
 - WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
    WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
@@ -100,10 +100,6 @@
   Oppo has launched the Reno 16 series featuring Snapdragon processors and AMOLED displays. Prices in India start at 
   🔗 https://www.livemint.com/technology/gadgets/oppo-reno-16-reno-16c-launched-in-india-check-price-specs-and-more-11782977448046.html
 
-- Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates - CNBC
-  Global stock markets close higher as Europe's benchmark hits 52
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5
-
 - Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates - CNBC
   Dow jumps nearly 600 points to record close. Nasdaq slides as
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
@@ -119,6 +115,10 @@
 - Stock markets surge in early trade; Sensex jumps 546 points - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeH
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU8zSTBDcFBUX1RWSkkxbXlHVHE0bzNfVXJOaDRlQzd6WmxuUEd0cVpnSFdwM3RQd0REakMtR3RJNE9QWWFGc0dtNHVQeTBabkd2aTFMU2VMc3VzbGN5SV9LQWRaRHRYeHJTeC1OWDFtbTdfdDJTaXZhVHJrWjlTeTRXZ3MxeFpaeWRUQ25XcHdxQUI3RDJlV0FIVXo1VXBxcWo4RldKbE9GckRzYjBEUzd4dlhYV0liWXlIM9IBwwFBVV95cUxPdUVFN1hHVnN4MlBjV1dWbGhCWGVrbFlXTlFkdjRNeGdEc1JYMHBrUy1CYkM1ZGd6d1RQYW1ldmRaWmNVNG5NeDJOUHBFN003UVlhZXAzVWdtRzdDVm9obmdieVVrc0hoa0k5UWFPM1lRSjVsZjFHNkpFX2NMRVZuak1GMlY3UVFHS3QyWFN5OWNYSUFGUXVQbVZDNVFhT080YUR3Z1hpSTlCdERfT0l6ZVhZQ185dDJfR1ptMU5zanRPNzQ?oc=5
+
+- Nepal looks beyond India for new tea markets, focuses on quality after export disruption - Telegraph India
+  Nepal looks beyond India for new tea markets, focuses on
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejljd2ZaeXhXd0ZVR3ZFWE1JbHViaWZQenBINlhDcDd3QUpwRl9TWWFFRmgtMFpaYjBmdVhZaTlENTVVQTliRG5Kb0JyQTBIeFVZT1VqenlMeXI1UG8xcTdweHpocTlEVXdRTmhPdHhGc3cteHAwbFZUOGMwV3dvYjY3dDJjUFE4X3lZWVlHLXpjMjRvazZ4a28yRkJRaE5aRjF2dFJZc1o0d1VqUHd2ZzkweGtrOVRHenR3MUh3ZzFJMnlpTDRURUthWjBvUHJ5UVpOUVhR0gHbAUFVX3lxTE13bjhRcDBFTG45YTRPMmRiZ1pyMnNabGNDd3ZWNzJ3XzhBWl9RNzk3TzB5YWFCdGZkZWpkRlVYY0FwczViaWVjWGtQOUl0WnF6bFF2blAyakNaYThGUWtlaERiSFZ2YTk3andNSi11clhUZ0s3TmxGT1FlLU92dWhTLTBkdXc4cm1GcjlENFlaNEVpcFd2VXFqdzRmejlBSWQ5S3dORnpsMjVwb0t0a0poWlFoVU5OVGFZekh0eHpnWDBGS2VBZmd1cUdlY1JvYnJFQ3BjWmdSYm1EOA?oc=5
 
 - LME approves Adani's major copper smelter in India as listed brand
   The London Metal Exchange has approved Adani Copper for delivery against its contracts. The move may boost India’s copper self-reliance and reduce import dependence.
@@ -140,25 +140,25 @@
   Dabur India anticipates a significant boost in its first-quarter profit, driven by strategic price hikes. Strong double-digit growth is projected across key international markets like Egypt and Turkey.
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms
 
+- Indian Sailor's Organs Missing From Repatriated Body, New Delhi Seeks Answers From Venezuela - NDTV
+  Indian Sailor's Organs Missing From Repatriated Body
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDNwVGFfRFpYY3BQdFdhMENQdWthNXFoYWcwLUdhRlJ4Qy15dWFENU1iMWxIODdwTVhad0t5WC1FWDlDWWNKSkVhTDhYN0gycWlfRVVvLTBrR2NSdmo4R2xwUmRUTWFjdkc1SU5wbUo3WW85TkRidmg3SHd5RHhvQmpnYkRKejhnbHZESjg1c3pSZ002Y0o4SVBWQ0pYWTExSG9xbWFNVlctM2lYZWNINXNyQ0U2QlF2UFY5dVg2TXZpYTVnaVJTUVB4c9IB0wFBVV95cUxQNnhYQ0xham5nOUlHdkp3QnVoc1l0NzZ6YmRpWXZMZU1uRHJSd0tXVVRDbG5ndzVWT2FDVGFBbFU1X0owRVBUcGpQZER1T0wzTDl1TkR4ZHRuOXA2bnNlUmpNX1RORnpURGNwRHRiWWFkejlId0ExYVROUU1YTW5GSnZ6T2pJd1lVVS03eXoyN1BVb2JvRU5jb2lRSm5TQ2lzR3dpdFFGNkVSanh3TDhTV3pPQ21IQUlvMTFxT3lLV1dfdWpmMG92VXV0ai1Ib2lzYUJR?oc=5
+
 - "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
   "Stand Unchanged": India Stays Firm
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
-  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
+- Indus water pact to stay suspended, asserts India - The Times of India
+  Indus water pact to stay suspended, asserts
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUZWQVp6LVZzRVIyeFJDWTBKTzdCR1NxTDdWbUJjbjNNRmhCM1J0Z0F1aXZ2S1c1b2NYMDBfMTdGWVNZN0p6TGtPRmxIaHp5bUhOeEhZYXNHWkhJRk44eHZGRU9SLWFrY2JJSHFDdlpqeUNPNFBRSmxOSTE5cjFjbGx1VkVHdzh1UjBvc0piYmw1bk9fcjlHTjllb2ZnR1VpYUttdVVEcXdkQlg4VldfYmdNcGM3c2vSAbwBQVVfeXFMT1p2T0hkM2Nnc1RQYlYxMDZiV201SFYwcWJxcUx2WnRNcnlRR2JRRTJhXzc3dVRDY3FkUDVpa2h5bDFUaGlPeGs1UU0yX1VGdFhGTE9HUHJPWWNYZUlPX2IzcTRNdHFrYy1WanVyNFBvdWtZX2FZc21RdUktV1Y3TGp0NE95dHpkWGRNSmtuUmVIYXVsNC1PZHBFY0k4dDFJWFcxQTBkQS1XMFNuZWFQcnBjSHZiTE1iOC1GUUU?oc=5
 
 - Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
   Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
-
-- JCO injured in landmine blast in J&K's Rajouri - The Times of India
-  JCO injured in landmine blast in J
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
+- West Bengal: The fight over eggs in India's mid-day meals - BBC
+  West Bengal: The fight over eggs in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
 
 - [Update] Karnataka HC Refuses Stay On State’s Gig Workers Act, Directs Platforms To Deposit Welfare Fee
   The Karnataka High Court has declined to stay the Karnataka Platform-Based Gig Workers.
@@ -180,45 +180,45 @@
   AI emerged as the defining theme of the Indian startup ecosystem in H1 2026. As conversations around the nascent technology grew.
   🔗 https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/
 
-- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
-  "Stand Unchanged": India Stays Firm
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
-
-- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
-  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
-
-- Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
-  Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
-
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
-
-- JCO injured in landmine blast in J&K's Rajouri - The Times of India
-  JCO injured in landmine blast in J
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
+- Indian Sailor's Organs Missing From Repatriated Body, New Delhi Seeks Answers From Venezuela - NDTV
+  Indian Sailor's Organs Missing From Repatriated Body
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDNwVGFfRFpYY3BQdFdhMENQdWthNXFoYWcwLUdhRlJ4Qy15dWFENU1iMWxIODdwTVhad0t5WC1FWDlDWWNKSkVhTDhYN0gycWlfRVVvLTBrR2NSdmo4R2xwUmRUTWFjdkc1SU5wbUo3WW85TkRidmg3SHd5RHhvQmpnYkRKejhnbHZESjg1c3pSZ002Y0o4SVBWQ0pYWTExSG9xbWFNVlctM2lYZWNINXNyQ0U2QlF2UFY5dVg2TXZpYTVnaVJTUVB4c9IB0wFBVV95cUxQNnhYQ0xham5nOUlHdkp3QnVoc1l0NzZ6YmRpWXZMZU1uRHJSd0tXVVRDbG5ndzVWT2FDVGFBbFU1X0owRVBUcGpQZER1T0wzTDl1TkR4ZHRuOXA2bnNlUmpNX1RORnpURGNwRHRiWWFkejlId0ExYVROUU1YTW5GSnZ6T2pJd1lVVS03eXoyN1BVb2JvRU5jb2lRSm5TQ2lzR3dpdFFGNkVSanh3TDhTV3pPQ21IQUlvMTFxT3lLV1dfdWpmMG92VXV0ai1Ib2lzYUJR?oc=5
 
 - "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
   "Stand Unchanged": India Stays Firm
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- 'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abeyance'; conveys views on Teest - The Times of India
-  'Pakistan must stop backing terror': India says Indus Waters Treaty 'in abey
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxQU2N5bWZMRmNjMldUeE5hUnh0U2d3OEhzUGoyeWlLT0ZJc0pFSG1VdnFVQXZfX1ktQ1dHOVdpeFF4N0cxVW9fSWZMNmlXT21JVDBmMTJiODA0eUJPZ1ZaUm1laTJVSmExTkNkOWlhenRwcV9Wc1N2VWs2R1V0ZUxlc2tVeENGZ21aREFaRGNwenR5blZGcjhya2dZLVFyRWIxVDRXN1IyazlXTHg2aExCc2psZFc2eHNhVG5CalBSUURoLXpNNEtBcTJWVFhtTlQzdVplNmNHcVMzLW1KVC1DWGVMYm52OU1PaG9raTR6SFFCWlUxVWJjc3RteHdQZVBBM2xvd3YxV0x4RW1sZlNN0gGUAkFVX3lxTE1WZy1qVVRDSERPYXhkQVhKVGRPX2taTDJZRE1kc1REN1JacENfZXRRdks1aVc5TjlyU09OclBTWTk5cEliMXp5QWNYbTlpdlNUS25QdzkzYlY4RHg0eVg4U3VKMG1reGMtczlYZFJsWUhmQ0JxVkxoRmZQa0RnYzA3REZtZWF1R1doTkdteEtHMGdkNG9sdUM0cE15SGJZOTFUa3ZzNE85VVVPUzQ5ZDZ3b0N4UGV2LWphaElqV3h4eDcyQXJSbWl4T2tHWGc5bXNSQWxua05kc1VlZ21QaTBBc2dKVElrRzNSNWV2aTRiemdNX2FvWDVQR21ndk91cHVzT2dlSEtiVzh0OTFMY25fc2VXTg?oc=5
+- Indus water pact to stay suspended, asserts India - The Times of India
+  Indus water pact to stay suspended, asserts
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUZWQVp6LVZzRVIyeFJDWTBKTzdCR1NxTDdWbUJjbjNNRmhCM1J0Z0F1aXZ2S1c1b2NYMDBfMTdGWVNZN0p6TGtPRmxIaHp5bUhOeEhZYXNHWkhJRk44eHZGRU9SLWFrY2JJSHFDdlpqeUNPNFBRSmxOSTE5cjFjbGx1VkVHdzh1UjBvc0piYmw1bk9fcjlHTjllb2ZnR1VpYUttdVVEcXdkQlg4VldfYmdNcGM3c2vSAbwBQVVfeXFMT1p2T0hkM2Nnc1RQYlYxMDZiV201SFYwcWJxcUx2WnRNcnlRR2JRRTJhXzc3dVRDY3FkUDVpa2h5bDFUaGlPeGs1UU0yX1VGdFhGTE9HUHJPWWNYZUlPX2IzcTRNdHFrYy1WanVyNFBvdWtZX2FZc21RdUktV1Y3TGp0NE95dHpkWGRNSmtuUmVIYXVsNC1PZHBFY0k4dDFJWFcxQTBkQS1XMFNuZWFQcnBjSHZiTE1iOC1GUUU?oc=5
 
 - Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
   Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
   🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
 
-- Piyush Goyal Recalls "Nightmare" His Team Faced During US-India Trade Talks - NDTV
-  Piyush Goyal Recalls "Night
-  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEtuTWpzbHRUNllsaVl1ZEY1bmVjRkZhUUgtMWRHU3h4NkE0aDZ4VXBMbTBYQngwNTh4T2FJZFRlRDcxUkJ1MDR0MWlSNFZvYXJhQXhlaEFGRnJkbjVzSUlySGhkbDlmMFV1Y3c0d2hid3lGYVp2S29sczlLQlUyVUFRUVpDU1FKLXlaczQ1OUVqVDNTSmRnNnF2OTfSAaQBQVVfeXFMT2RGckpqTGtMM2RLWmwyNlJRbGRWSmtwdTRIa09mQzdHYXU1dkZEREhjUVlTN1dxTHR1TmlyVHNtelk0X1p3RGs4T0RKTUlvYTZWUmRDNTRpaUZwblVTRnV0TTdPSEp2ZUVyN3d0TTF5cEJaSlhIeTZrVEU2THVtVHMtbUJOQWZYR1MtMDQ5NG4wZUtyM3NsakpjbUZ0Wno2RlhBN0o?oc=5
+- West Bengal: The fight over eggs in India's mid-day meals - BBC
+  West Bengal: The fight over eggs in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
 
-- JCO injured in landmine blast in J&K's Rajouri - The Times of India
-  JCO injured in landmine blast in J
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG00MjNLRXRiR2lBU0N4SnhnU0JtQ3dSZFk0eWVFcllxNjlDbDAxZHVONXJLbktPSW1JT2I4ZUc3ODkzeTBGS3B4MGhlRk1WRUtlTU8tSWdqX3RBRmZ4YTZMSW4wODlFSEFNUUVXdVBaTFNoZWViZFlrVVQ0bFpVZHRZS2FuazBFd0o2Y0k3VFBzaVFjSlNsMDN6QnhONHg1d01DRUg3MWlELVBETEhVa1hR?oc=5
+- Indian Sailor's Organs Missing From Repatriated Body, New Delhi Seeks Answers From Venezuela - NDTV
+  Indian Sailor's Organs Missing From Repatriated Body
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxQSDNwVGFfRFpYY3BQdFdhMENQdWthNXFoYWcwLUdhRlJ4Qy15dWFENU1iMWxIODdwTVhad0t5WC1FWDlDWWNKSkVhTDhYN0gycWlfRVVvLTBrR2NSdmo4R2xwUmRUTWFjdkc1SU5wbUo3WW85TkRidmg3SHd5RHhvQmpnYkRKejhnbHZESjg1c3pSZ002Y0o4SVBWQ0pYWTExSG9xbWFNVlctM2lYZWNINXNyQ0U2QlF2UFY5dVg2TXZpYTVnaVJTUVB4c9IB0wFBVV95cUxQNnhYQ0xham5nOUlHdkp3QnVoc1l0NzZ6YmRpWXZMZU1uRHJSd0tXVVRDbG5ndzVWT2FDVGFBbFU1X0owRVBUcGpQZER1T0wzTDl1TkR4ZHRuOXA2bnNlUmpNX1RORnpURGNwRHRiWWFkejlId0ExYVROUU1YTW5GSnZ6T2pJd1lVVS03eXoyN1BVb2JvRU5jb2lRSm5TQ2lzR3dpdFFGNkVSanh3TDhTV3pPQ21IQUlvMTFxT3lLV1dfdWpmMG92VXV0ai1Ib2lzYUJR?oc=5
+
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
+
+- Indus water pact to stay suspended, asserts India - The Times of India
+  Indus water pact to stay suspended, asserts
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUZWQVp6LVZzRVIyeFJDWTBKTzdCR1NxTDdWbUJjbjNNRmhCM1J0Z0F1aXZ2S1c1b2NYMDBfMTdGWVNZN0p6TGtPRmxIaHp5bUhOeEhZYXNHWkhJRk44eHZGRU9SLWFrY2JJSHFDdlpqeUNPNFBRSmxOSTE5cjFjbGx1VkVHdzh1UjBvc0piYmw1bk9fcjlHTjllb2ZnR1VpYUttdVVEcXdkQlg4VldfYmdNcGM3c2vSAbwBQVVfeXFMT1p2T0hkM2Nnc1RQYlYxMDZiV201SFYwcWJxcUx2WnRNcnlRR2JRRTJhXzc3dVRDY3FkUDVpa2h5bDFUaGlPeGs1UU0yX1VGdFhGTE9HUHJPWWNYZUlPX2IzcTRNdHFrYy1WanVyNFBvdWtZX2FZc21RdUktV1Y3TGp0NE95dHpkWGRNSmtuUmVIYXVsNC1PZHBFY0k4dDFJWFcxQTBkQS1XMFNuZWFQcnBjSHZiTE1iOC1GUUU?oc=5
+
+- Government says Indus Waters Treaty remains suspended; Pakistan must renounce support to cross-border terrorism - News On AIR
+  Government says Indus Waters Treaty remains suspended. Pakistan must renounce support
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHZlWWRRSFItNFJiczhlcnlmWnVRN2xhby01QU5yR0hPallJMmROSDZYWjNKLTRtZm92T3o2TFBtYUw3VXlhX200RTJaVjRRb2pYQmNsT1c0bGR6NVNiNTVaYm9teGE3UnIxQ2NaTGJzeng4QTZKNnRpZjBlQ21xVXk0MnhEUldUWjJWZFJ5VUc4WDI0YXVMMWRNb3hpYjk0LVdOZFhB?oc=5
+
+- West Bengal: The fight over eggs in India's mid-day meals - BBC
+  West Bengal: The fight over eggs in
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-03 19:14:49 UTC_
+_Last updated: 2026-07-04 02:28:36 UTC_
