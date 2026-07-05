@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
-  "Stand Unchanged": India Stays Firm
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
+- Brahmapur-Udhna Amrit Bharat Express to run daily: Train number, route, stops, time table
+  
+  🔗 https://indianexpress.com/article/india/brahmapur-udhna-amrit-bharat-express-daily-train-number-route-stops-timetable-10772491/
 
-- Indian markets hit record highs amid positive global cues - News On AIR
-  Indian markets hit record highs amid positive global cues
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05tNmpseERNMmNEVkJnMHVtQ1ZZU1RlS19HdVNueV9ZNm5RWnYtdll5UFc2cVZYSUlIcFMwRmxRUFVBekVuSWFlUE5oV3pWSlZuYnpfNHgwenNXZGxJdXk1enlnQkNLcTdEejNtTV9LZm1EOUd1VnNxRERmQWlWaDRGRUk2Y2xSbUxB?oc=5
+- 6 fishermen vanish at sea: Desperate search operation underway off Visakhapatnam
+  
+  🔗 https://indianexpress.com/article/india/fishermen-vanish-at-sea-desperate-search-operation-underway-off-visakhapatnam-10772398/
 
-- Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol from India are incorrect - News On AIR
-  Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHY2Z3ptUnBxeHcwWVFYaWxFckg0VS1CNVVEM0p6VEdZLTJ4MkJIWk16VHdqTktmeDB3NV9WaTNsMWoyWGdZWUlNenNvbTZxS1lIWGxuMzJWX0w1T3FfTnFqb0hqaTJFRURIMFFTS2N5Q1VvUE1sQV9jXzRSOTJyQlNMRHY5VGtrVGNHQk5HRE9zeFJuWDZ1SUtocVRUWjhPaDZ6NERiOWdQZFl3WlVxZFRSNFUxZXppNXF2MHN4NUhqa3RJX09rSnMta0dfXzl3Z0l1LVNEdGVWT1pkSHd4Vm53?oc=5
+- Odisha SIR: 20 lakh deletions in draft voter list; Oppn flags exclusion over ‘minor anomalies’
+  
+  🔗 https://indianexpress.com/article/india/odisha-sir-deletions-draft-voter-list-opp-minor-anomalies-10772392/
 
-- Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI Governance | Akashvani News - News On AIR
-  Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTg5R3JkbGlHb1hyMzFqelgxQWZuNlBtN0ctdVNKRko4cEtzdXNVVnN4ckZ1ZjFQMmk2enZoOFFOei0tWEd6MkF0UjFFYmVRdDkzWkM4T2o0bXV3YVp5RzAzaklydDdGd1pZNlRRX244Y083anFYYXlxSzVtYVJPQ1pOMUtTaXVZTGc3Y2hjRzVTV2FZVEF2Yy12WE9oNjhFZUFubmpDYXF0cGl5cWRieUc0TjF5aE1NeXZzb2dLQlV2TGZ0ZXpsUnk5NENWRHYtSzgxNGZnQ2MzbGs?oc=5
+- Mumbai-Ahmedabad bullet train project: India’s largest rail tunnel boring machine begins work
+  
+  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-project-largest-rail-tbm-begins-work-vikhroli-10772067/
 
-- West Bengal: The fight over eggs in India's mid-day meals - BBC
-  West Bengal: The fight over eggs in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
+- Hours after gunfight, security forces tighten cordon in Shopian, say 2 militants hiding
+  
+  🔗 https://indianexpress.com/article/india/gunfight-security-forces-cordon-jammu-kashmir-shopian-militants-10772261/
 
-- What we learned from Aston Martin F1's Technology Forum - The Race
-  Aston Martin F1's Technology Forum
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhDc3pIREZkUDkydjZMUjc2dlFYTjBoMUtvUWUwd1V0RGU3ZTVBZFgxWFhBZm94NzJxOHpmQVZPMmxtOTZwVFMzWXRTRjJoam1DUWU3ZkNEVkU3Qzg4Y0g2UXNROEFFOXdScWJSOXNEc1pGMlpyNWFrZ0I4Vm5qV19mMkJJTTJsUGNF?oc=5
+- Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/alibaba-ban-claude-code-us-china-ai-10772429/
 
-- UKtech50 2026: The most influential people in UK technology - Computer Weekly
-  The most influential people in UK technology
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEJrRXdoa0hQSVptc1ctcGtzanhkWWZPU3BEaDhfRzVpZEpUbVR3eFJ2Z3J3ckh3a3hocmQzNFdsb09YbFBkUXhiMWo2ZlB3cmJPaU9TdEd4WlJsMG5mdUVWTnhwdXRxWlRXWDlCU0NvVXNodzBQbV9qZUQtVUkxWnhkWmUwNTRLVHAwam4wS0hrWXJWcGZQc09QQWZOdzlmMmpILUp2UQ?oc=5
+- Microsoft creates new business unit to help large enterprises set up tailored AI solutions
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-unit-ai-solutions-large-enterprises-10772236/
 
-- How technology helps effective learning in NEET preparation - The Hindu
-  The Hindu has published an article on
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVFNUFhNQV9zakJuRi1Ybjh0dkRueFNNaWtaRkNqNEZCdlNxNm5vbXA2TS1mRDZMc0dPdmtubUFGSC0yQ0RKSG5KU01NbmdJOVR5T2x0SjNDQTJXUmd4Tjk3WlM4dk1ZYlZkMGpvakNqWE9abnBhME95aGx5c3pQRXVtMTRIemRyaGNpUE8tbTk5NUFMTXFTQmZNQ3ZUUW9abFN5OXVSVlgzeFktRGhHTWVIQXnSAbsBQVVfeXFMUG1sZExZdEdncmFXdmttXzlqams2XzMxX1IzY3ZoUFA0d0ZNSjhEalhzSzAxQjJseUoyc2RDUkFtd0xRMERVZkhka3pJNEpMdXN3ck80X21hOHhqeFdXcVZrUjYtbWNiMnZXUU5kZUg5ZkZZdVhfUEMtYjhhYUVPSVZVa3dQaUZ1MW16dFllVnFLSlNPakZjbV9jZVk5dWE3N2dDcVNyUVVwaTBQUW8tTk9xQzZETy11c0VEdw?oc=5
+- HP EliteBoard G1a review: A computer, a keyboard, or a 2-in-1 device?
+  
+  🔗 https://indianexpress.com/article/technology/tech-reviews/hp-eliteboard-g1a-review-10772127/
 
-- Goldman Sachs top economist agrees that millions of Americans will lose jobs to AI; but rejects the idea - The Times of India
-  Goldman Sachs top economist agrees that millions of Americans will lose jobs to AI; but rejects the
-  🔗 https://news.google.com/rss/articles/CBMi-gJBVV95cUxPczNWYlRXUVgyS3JYN2FLRHlEbDBwSkVqaTc2UkVEWko5a0ZaS1VWVV80LTRZZEhiQmN0dUpid0t2dXEyTldubG92QWdjM1JnbjNuQlRzRDkydmMzT0NxazVEVURxT2hzQlBqT3F1WWdLeTlQamw2TTRCRkNVdUFmeVEtV0Nsb3JSbTg0MEx1aUhhWndDVm5LR0FCRDgxWEtNS21WcE52WC1QeUpPTnVISGdweF9JT0xpR0RnTUcxby1pQmF4ZkszUFVSUUNHdjFudjZ3ZlhqS2Z2LXpaU01xc0QtelhuemJrTzNncEFKdnJyT2ZPZ0JjQnNSd1MzQl9zNWtJazZxTWJoMzBtaTZyTW04c0VQd0xLS2hfUHV0RUhRYUVYajVDUzdOcUNwR3hnQVNhTUVNZlhiM3F5bkVzclRLWTdISFBWVnNFcW1vbTVnN0QtZlg0a2k4c0NRSklBeWdqcWFkdDN6UXd0NnpFQmV5MzUySjh0SWfSAf8CQVVfeXFMTjBXN0dxTE02UzQ3bXJpLUNFal9jNDZnSHpiM0pxdXJpa29TX3dBX2g2UDlzTk1nM2FMbmxyYkhNMXgtdEMyNWVIZXBuS09SX21WdURSZnJRR0lBVHVIbFEzakVvUjJySWFaOGNQN0ZSdkZCTHlFcndNdFVocVZWNk1NelNSRHU2MkNaYmt5RjU5YktWRkU5RGRfX09rd1VIMzNoTHozQTdrZGtLRTdEOXd1NG1kbHBmLUNNVjhhWV8yUVo1dU8tQ0hFTC00a2RwbE9vM0dsUHo3SEg4QnpSalpBdzF4TmdHMHMzMFVJOGZnVXpnMGNzcHRGTGd0YmxwRGFyc1hBbmNYejgwSEVlSGdDVmZuRkx5T0NkSEtmRmZ4MjRmbWlMTjJFVXJJc2dFT2E5QlNFNVUxR1JtdktGd3Myc3N1djVFN3RjZndPcVVfYUlzOHV2cXNLd09qeWtnMktId0U4MExCY2ZhTmhySVQyam40ckIzeDZRNWNNQkE?oc=5
+- For one small business, AI was key to a quick start and expansion
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-10772094/
 
-- Opinion | Technology Ruined Our Lazy Days at the Lake - The New York Times
-  The New York Times published an opinion piece on technology.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFE1Znc2bXhfTWhfaTFpSUc1VUw0NVRlRjFfR2RPWHZENGcwdjktajFSSzJBX182TmxkRkRBUV9xY1BQeDM5TVFkQVlZTEMzVTFyYy1lXzFGSmtpUWc3M3BLY0FOenRJR0hQQmxLRWJ0WWdQT3pCakFBZVUwb2w5RHJNY3hGclFKTW9HR2llQkZwZw?oc=5
+- Microsoft disclosure provides rare glimpse of tax haven tactics
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-disclosure-provides-rare-glimpse-of-tax-haven-tactics-10772059/
+
+- Tesla puts the brakes on AI costs, caps staff spending at  ₹19,000 weekly, starting July 6
+  Tesla is limiting staff spending on AI tools to  ₹19,000 per week starting July 6. Some engineers reportedly spent
+  🔗 https://www.livemint.com/companies/news/tesla-puts-the-brakes-on-ai-costs-caps-staff-spending-at-19-000-weekly-starting-july-6-11783253981165.html
+
+- Govt extends deadline for WhatsApp's response over username issue to July 9: Report
+   Meta-owned platform's recently announced usernames feature that will allow users to communicate without sharing
+  🔗 https://www.livemint.com/companies/news/govt-extends-deadline-for-whatsapps-response-over-username-issue-to-july-9-11783254457364.html
+
+- ICICI Bank, Prudential sign undertaking to defuse conflict-of-interest concerns ahead of Bharti Life deal
+  The undertaking seeks to address potential conflicts of interest arising from Prudential's proposed acquisition of Bharti Life.
+  🔗 https://www.livemint.com/companies/news/icici-bank-prudential-conflict-of-interest-bharti-life-deal-irdai-11783236967052.html
 
 - India's outbound travel defies West Asia turmoil as Thailand, Australia, Singapore and US woo tourists
   Thailand has recorded 1.19 million Indian arrivals in 2026. Singapore has received nearly half a million visitors
@@ -48,17 +60,13 @@
   Firms like MyGate, Nobrokerhood and Park+ are using their access to affluent
   🔗 https://www.livemint.com/companies/community-apps-find-new-ways-to-cash-in-on-gated-communities-mygate-park-nobrokerhood-11783061252622.html
 
-- Is Greaves Cotton's diversification strategy starting to pay off?
-  The engineering company says businesses spanning energy, industrial solutions and exports are reducing its reliance on diesel three-
-  🔗 https://www.livemint.com/companies/news/greaves-cotton-diversification-three-wheeler-engine-dependence-acquisitions-growth-11783084940603.html
+- Upcoming IPOs: Kusumgar IPO, Laser Power &amp; Infra IPO among new issues scheduled for next week; check list here
+  Kusumgar IPO and Laser Power &amp;amp; Infra IPO are among the mainboard IPOs to open next week. They will collectively raise over  ₹1,
+  🔗 https://www.livemint.com/market/ipo/upcoming-ipos-kusumgar-ipo-laser-power-infra-ipo-among-new-issues-scheduled-for-next-week-check-list-here-11783242218348.html
 
-- Akasa Air expands fleet to 40 aircraft with delivery of ninth Boeing 737 MAX in 2026
-  The aircraft was ferried to India via a multi-stop route that began in Seattle, United States, continued through Reykj
-  🔗 https://www.livemint.com/companies/news/akasa-air-expands-fleet-to-40-aircraft-with-delivery-of-ninth-boeing-737-max-in-2026-11783185868258.html
-
-- OpenAI mulls 5% US government stake to share AI wealth with Americans: Report
-  The move could create an unusual relationship between the government and one of the world's leading AI companies.
-  🔗 https://www.livemint.com/companies/news/openai-weighs-5-stake-for-us-government-amid-ai-wealth-sharing-push-11783174040786.html
+- Expert view: Q1FY27 results likely to remain muted, recovery from Q2 onwards, says Vinod Nair
+  Despite mixed market trend, underlying market tone remains constructive. While profit booking is visible in some segments, buying interest is emerging in other pockets
+  🔗 https://www.livemint.com/market/stock-market-news/expert-view-q1fy27-results-likely-to-remain-muted-recovery-from-q2-onwards-says-vinod-nair-11783240292734.html
 
 - Mcap of 6 of top-10 most valued firms surges by  ₹1 lakh crore; Airtel, Bajaj Finance top gainers
   During the week, the BSE Sensex advanced 663.44 points, or 0
@@ -71,14 +79,6 @@
 - Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 6 July 2026
   The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
   🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-6-july-2026-11783223337985.html
-
-- Buy or sell: Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday - 6 July 2026
-  Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-three-stocks-to-buy-on-monday-6-july-2026-11783178957866.html
-
-- Q3 results to US-Iran war: Top five triggers that may dictate the Indian stock market this week
-  On Friday, the Sensex advanced 262 points, or 0.34%, to close at 77,763.91. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for
-  🔗 https://www.livemint.com/market/stock-market-news/q3-results-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11783166393809.html
 
 - iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know
   Apple could be teasing a new AirPods Pro with cameras with the
@@ -100,25 +100,17 @@
   WhatsApp has released detailed set of frequently asked questions (FAQs) for users on its new username feature following controversy over
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-issues-username-faqs-amid-govt-scrutiny-can-someone-find-you-with-it-could-you-be-impersonated-check-details-11783012805972.html
 
-- Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates - CNBC
-  Global stock markets close higher as Europe's benchmark hits 52
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5
+- Ahead of Market: 10 things that will decide stock market action on Monday
+  Indian stock markets surged on Friday, with Sensex and Nifty posting gains exceeding 0.3%. This upward trend was fueled by a calmer Middle East situation, reduced expectations of US Federal Reserve rate
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132194145.cms
 
-- The Hottest Stock Markets Lead to the Biggest Losses - The New York Times
-  The Hottest Stock Markets Lead to the Biggest
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBjdHNPS2RITUNEd0lNRUNKbU9iSE5UeEFhbFpMdUdTdld1QUg3ZFZtZTY2VkkwM2dkQ0xZR2VWYldvN1FaQWxsc0JkdnY5R2FWLTlWSVJCb0lDWTQ0eTFiNVlweWl1WjdHckJwU3RiUGxwRmtNWVAtYlBlOU5yUQ?oc=5
+- Tips from Britain's ‘Own Buffett’: Timeless investing lessons for building long-term wealth
+  Legendary investor Anthony Bolton reveals his secrets to market outperformance. He stresses temperament over intellect, advocating independent thinking and emotional discipline. Bolton's approach emphasises a clear investment thesis.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/tips-from-britains-own-buffett-timeless-investing-lessons-for-building-long-term-wealth/articleshow/132193823.cms
 
-- Market recap: Top-10 firms add Rs 1 lakh crore in market capitalisation; Airtel, Bajaj Finance lead gains - The Times of India
-  Airtel, Bajaj Finance lead gains in India's stock market.
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxOQmExS0I0WE44aFVYbzljazlmYmVrTnRiT2NDTFBmSDc0VDRtVXRONEoyMkNMOUdsQ2FDd0RCQjJPNjRGaVlYa0piRERRNDRPV3ZManJOeDZZRzRoSkxpT2s4WUh6WG01Q0JJUGlEWm9KX3RCM19fVVJVQk9PRFQ2RFFzRXFYTEwwTTQtejR3SFMwemZPUm5ObVdUanhNOUpBa05iNTI1NEotV09qQUxDSjVNc2V2X21IYWRiSHFwN1NrMmxJcElLTmFRZ0NXdjByU2JDbUdnU2RQR2pFZ3VlNEJRcG82aDV1cWVvWXl1SHA5NHdTNWFybm9yaElJUzV0bml2aENfOElqVHptY1k2b0FHaTJ6dVHSAZwCQVVfeXFMTS01WURXR0RhMV85QlRRN090dXJ4Z1E2WEhSc2V4UGMwSGJqNUkzUlhzVnVsWmtVU0Q3ZlhjazJONGhjZUtsZHpQX1M4bUtENlRkUnVTS2x6UkhCdjRvem9ZbFlZM3pzQkVZREEtVjBFZkFzangybjZFeFZ0ODFUN0FvSGVBZGdtajJNOGdlb3FaU19Rd3lSZHV2d2dVV0Iwc2huQzA2Y2hWOVBsVk1fTmFRNWFNanF5MkMzY3NackJIVUk0Wm0wLW5admtLaWhRN2x4QllOenNuY3VkN1BJNTViNzdVQmx2cU0yZWVkbXJoalJnS1hNc0RpaGhSZU0zLTh3MnNiS2M0MTZtLWpTU2hHYjBrOHJQVjRkLTY?oc=5
-
-- Six of India's top-10 firms add Rs 1 lakh crore in mcap; Airtel, Bajaj Finance shine - Moneycontrol.com
-  Six of India's top-10 firms add Rs 1 lakh crore in
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxORE1GejZyVmM5MkpkYS1rR0pZMDgxYV8yRFRvbXY5VGFxay1RUVJPQmJnZ1IwT0ZFRlNEUmdad1RvWUx5Q2ZNU1NMVlZmTURYR25xbnBuc1FIR2NtN1ctUnJKVXBFLTZVZlRmLUhiTDJWckhoMk9DYURQYUlOQjR1VHlVM3F6UUlkQTdWZkZZdmdSYl9CZlVFNzBQTHdkVm9RNzRHc1FlV3F0SUJfVldVcnFITGxrcTl0TlhubGdIOWRaNEF5MmpjOFQ2Nk9EYXJwLVp5eE80dUdMOWVtejlBUtIB5gFBVV95cUxQZ3pFOW5BOHFjbXA4Q0pSM21Dc1RGVkM4b0JWN1VJX0x4NXJZQ3BlNnFRcS1MWUhEbmZDWUFYanVoNnh6cVY3aEhwenM2YkRxZVYxWTZONTlhQ2NRQmpVZ1hGcmxwVFpjUXNBYUw0ak9mdk02X0xVRFpXMlZRV3pEeU1yaEdNWnhvVWRxREpTckVOQkMxNVhMN1RraGpMNmY5Z0E2Nm5BbGN2OUFHbC1XeC1Za21zNDNicjdVRWNNZjlmQzd2bEk4NmVFcGR4WlloMTBobjlqelVETVdUUkJ0OVVuenVQQQ?oc=5
-
-- Mcap of 6 of top-10 most valued firms surges ₹1 lakh cr; Airtel, Bajaj Fin top winners - BusinessLine
-  Mcap of 6 of top-10 most valued firms surges ₹
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV1NNV1N5WllKTzZyb1JCNm1RNEM4NnNiSU9fOXZCYUFtV0FsYWhnOGwtT0xQbXRyTjJOb2xRcVJFYUlIWlNpU0dSU0xremI1TkxvME4tbzQwTXhtaHpyS013djlhS0xzVzFVVzVYUXprQ25jUWpPTjVlYjBUY201cV9xUloyRUxZUzg1OUE5SkVYMmZyOUlkaXVDYUxzeTJHaFM3RVFzZTlZVFZnNW1HcmlaRnZyczZUdmNWRFVWd21Ud2xVSUZlcjRkSmdzckljNndaUFNsb3h1M3B2X0x5eGF30gHoAUFVX3lxTE1VUGlId1VVcGJOcVgyZU9adnZqOVZFYUIyd2ROVnJkMkxwcUgxb05Rdy1WRHpFcEh6NGFvbTRZMlcxRFhKNnVVUG00d2Y3R3ZMMXJVUlF1c0lCX29HSzFQM1kxdlFaQmRzTW5SaDZQbkNpZ2tvekVHNGZmVTRtdVo2VmN4R3J6TXBRMVI0MHhKWnY3U0F6XzJ3LXhyLWt4UV9fck0tS2tHX3JtMXo0eGRLU0UzNjdqOGQ4N0x6N3haUm9mLXN6SUJPc08zVmo2Z013SjZWSndVT1A2Nm9xTnp5VWpfaVY3eFA?oc=5
+- Cube Highways Trust plans Rs 5,000-cr IPO this month; eyes broader investor base
+   Cube Highways Trust is set to launch a substantial Initial Public Offering worth Rs 5,000 crore this month. The trust emphasizes disciplined growth and reliable distributions.
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-plans-rs-5000-cr-ipo-this-month-eyes-broader-investor-base/articleshow/132193784.cms
 
 - What Warren Buffett learnt from buying his first stock at age of 11 amid World War II
   Warren Buffett was born on August 30, 1930 in the town of Omaha, in the US. He studied under Benjamin Graham while pursuing a business degree at Columbia University.
@@ -128,37 +120,29 @@
   India's real estate market is seeing a K-shaped recovery, with major developers outperforming smaller ones. Leading companies are gaining market share due to strong finances
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/buy-lodha-developers-aditya-birla-real-estate-organised-players-to-benefit-from-housing-market-consolidation-siddhartha-khemka/articleshow/132192263.cms
 
-- M-cap of 6 of top-10 most valued firms surges Rs 1 lakh cr; Airtel, Bajaj Fin top winners
-  The surge was largely attributed to Bharti Airtel and Bajaj Finance. Even though a few prominent firms faced valuation declines, overall market sentiment remained positive, buoyed by optimism surrounding global monetary policies.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-6-of-top-10-most-valued-firms-surges-rs-1-lakh-cr-airtel-bajaj-fin-top-winners/articleshow/132192191.cms
-
-- 11 largecap stocks with upside potential of up to 50%. Do you own any?
-  Indian investors are eyeing significant gains as analyst forecasts highlight 11 largecap BSE stocks poised for 25% to 50% growth in the next year. Companies like Swiggy, ICICI Prud
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/11-largecap-stocks-with-upside-potential-of-up-to-50-do-you-own-any/slideshow/132191645.cms
-
-- Bonus issues, stock splits &amp; dividends: Titan, JSW Steel among 49 stocks turning ex-date this week. Do you own any?
-  The list remains tentative, as more companies may announce record dates for dividends, bonus issues and stock splits during the week. Investors must hold shares of these companies in their demat accounts on the record
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-titan-jsw-steel-among-49-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132191539.cms
+- India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express
+  India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTZ5SHBBdEs3WV96YVVqWWhHazJFbGE4QWFNdGZsdHU2UG9zTEM0Z0xSbXlkWXN4VEg0dFRRNGhibTNOa0JjUmdEbG5ITzlMSllrdFktd2JGck9ITXYxbjkyNFNLZmloQkEwb0hNZXhpUlctZHZ2MHNzanB2MTdkMlJMb3hvODdoaENMUVd3R3dmWi04cnAwQnR4WDFUZjZnTzZaX045TkZzTHJSTkVYU2U0ckRNeks0M2ctNzFLTEsyMV90WTE1Z0Juc004RHJaX2hNeWRab3ZpU3FValNrWNIB5wFBVV95cUxOWDM2UzBQTUF0WE4zNGo5ZW5nMmFLTWJZamlnSlRQbGROc3p3VGtNdDdkZlBWZ1Q3Q0o5SXdyeVRpQXFSakd2eDZ6QjFESmhDQWd0V1JRYVJDbW1RZElEU29HTEhJeGI0V011ZWFicEk4NE44RjJ0RVhDQ1FLSWFiZGd6TnZub2ZIbFdKMkhXQ3ZKNjlhd3JadUtWMFNUS1ViNkxCV0t0N1JkYjFMamdtLWNIV2VHWkctN0ZNY0phMWVnSnZ4M2NXYk5tdkNVLTFoSlVPb0luOVloZFItTEhNTnM0WXJ1NTg?oc=5
 
 - "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
   "Stand Unchanged": India Stays Firm
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- Indian markets hit record highs amid positive global cues - News On AIR
-  Indian markets hit record highs amid positive global cues
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05tNmpseERNMmNEVkJnMHVtQ1ZZU1RlS19HdVNueV9ZNm5RWnYtdll5UFc2cVZYSUlIcFMwRmxRUFVBekVuSWFlUE5oV3pWSlZuYnpfNHgwenNXZGxJdXk1enlnQkNLcTdEejNtTV9LZm1EOUd1VnNxRERmQWlWaDRGRUk2Y2xSbUxB?oc=5
+- Monsoon to continue in 'active phase' over central India: IMD - The Times of India
+  Monsoon to continue in 'active phase' over central
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTgtOUtFQlRMdzBRX09mQnU3M0tseWluRk8xaGotV2NoT1prY283NlN0cHB2LWljRU1ha1o1bkhRbjkzcERVbWdzMlV0T3Zoem96Mkw1MFo3bWVzWmxMRGdDamttZkFNbURybkYwbUVUc3FrclRBMmJ6UnhtMF9mYW5sSWtKYkpKV2VKZlBrN29QTzUxYXJIZDFTd2tYT09aeU51azg2b1ZTQUpOQXdjazlvV3U1NFJNNDZsRlJSeHRoay1X0gHKAUFVX3lxTFBqSDgxTG4wOENOMjcxbE9oM2otaEhCNll3M0l2VUFWR0FyQ2dXbkVVeUgtMVhPZmVMd01XejRTNC1RR0ItODJqNFE3N2NIeUZIMzA0aWczZE5QODcyVXB6c3pXWFlRSENJU19aUWphZ0ZzWHVKR1d0TXFBMDFVNTl1bEd3THpobGJUQU5LU240MW9LbUdtOVlqYURmenZBamF1NDRCN0IySnpvcmxpMG5MWmtOYXdmYjAyQlNWNHhlaElWM0JVaXBYM2c?oc=5
 
-- Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol from India are incorrect - News On AIR
-  Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHY2Z3ptUnBxeHcwWVFYaWxFckg0VS1CNVVEM0p6VEdZLTJ4MkJIWk16VHdqTktmeDB3NV9WaTNsMWoyWGdZWUlNenNvbTZxS1lIWGxuMzJWX0w1T3FfTnFqb0hqaTJFRURIMFFTS2N5Q1VvUE1sQV9jXzRSOTJyQlNMRHY5VGtrVGNHQk5HRE9zeFJuWDZ1SUtocVRUWjhPaDZ6NERiOWdQZFl3WlVxZFRSNFUxZXppNXF2MHN4NUhqa3RJX09rSnMta0dfXzl3Z0l1LVNEdGVWT1pkSHd4Vm53?oc=5
+- Monsoon tracker July 5 LIVE: Monsoon gains strength across India; Mumbai air traffic hit, alerts in Kerala, Odisha - The Hindu
+  The Hindu reports monsoon has hit Mumbai, Odisha and other parts of
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQU8zU255TkRrR0tud21tWDJDMHlUeWFyYWRFWnZselRBU0dDLWYwb1VSbTBrT05CT0t1dnloYTVucTBCVnJxMGFITXl1N2NPMzhkT2NtUm9UVWFGU3oyTVR0TFBacmhDbEdYR3JnZ2VwS1RSZ2sxc2VyTEFWT0F4YmNHQW1DaUhFRlhhblBzZU9DdnllaHRDVTlYalFOLTdWVHFkUDhxMHk2TVdVTWoyY0lfUDVPMlJYYTJxdlFwQnl5ZnRVTXNON3dKNnZsSnFPTkdzczYxbWZQM05sSDJYSS1FYUbSAesBQVVfeXFMUGtkVk5kRkRWcjRXbmhkQmFQYW1rNV9PMUtHa2JpRlZvVUhFS2xsT3Bxa1VPaExHREJqa0F4STBUdTFhbjk3WU9ENDY5T0FVcUNSbXc5aHVlZG42dmsyZ3NaWTVUbTczUzkzSENna2c3UEhGcUVDbm50ZDFCbFlNaC1NV1E5MFI2ZEVKZE8xTDNDYWNTUmNnY2xrLThhb0R0YWxidmh0NENMWC05aGg1M09ZRnBsWXdUa1pCVDJ4Umc3al9xdXU4VlhTUzgtQll0WmJ0djVMNXl4bE9vRlctTUpGVF9nakpQeS02SQ?oc=5
 
-- Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI Governance | Akashvani News - News On AIR
-  Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTg5R3JkbGlHb1hyMzFqelgxQWZuNlBtN0ctdVNKRko4cEtzdXNVVnN4ckZ1ZjFQMmk2enZoOFFOei0tWEd6MkF0UjFFYmVRdDkzWkM4T2o0bXV3YVp5RzAzaklydDdGd1pZNlRRX244Y083anFYYXlxSzVtYVJPQ1pOMUtTaXVZTGc3Y2hjRzVTV2FZVEF2Yy12WE9oNjhFZUFubmpDYXF0cGl5cWRieUc0TjF5aE1NeXZzb2dLQlV2TGZ0ZXpsUnk5NENWRHYtSzgxNGZnQ2MzbGs?oc=5
+- Mumbai On Red Alert As Weather Agency Warns Of Extremely Heavy Rainfall - NDTV
+  Mumbai On Red Alert As Weather Agency Warns
+  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFFQSDkzZ25kMVg1SEl0eHhVQ1hhcXh3c3dZSkV1S2xTWjBTeC1tNVZzSWxPOFVrX3ZEaTlXT0xwNnZTTV9xQUFXbUVvaTNvcDNIMDAwMVdncHJMY2RiaUdoSWZMZUxNMlNRNFdTR19zcGh5emVTRmF1dzZLdGpEQUo5Vkc1eVRZOGo3bmVfbThIZGpBQUd2ZXFETE4weDNzVWQ1SnhOaXVjclMydzE2OURSOHhqRTFzNi1NLVBUbkxmNVRwVHhCeHlRT1ZBMmpQNzhJc2RHY0l6UVnSAeMBQVVfeXFMTV9uaE5rUGxzRjRnZm16R29RRUdSQkJ4cVhMZzVRdVB3dlNjM1dvaUd4U3Y5YmFmTkdPanlQekZRb2Z1NExrNk1SajlGY2V5bngwMHN5cmVqWGRFYjhqUGpwblVOQWNTaF9iVUhlYkZUYUF0cmNGeTd6QW9UYjBFSXRNbW5hdUlUS1FtSHd4MXhhMnBjTXk2ZGhSZnJCOFdnaGlRT2NXa25zdVRyMFRjeUQ2VENsUTNJeUtfTmZKSktFTVVnRzRmdGpiVm1iNmVoNjBLQ1FUdG9lc204RjNlM3pIeWc?oc=5
 
-- West Bengal: The fight over eggs in India's mid-day meals - BBC
-  West Bengal: The fight over eggs in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
+- The Legal Battle That Could Reshape India’s Gig Economy
+  The amount is not being demanded by the state as a charity. It is demanded in terms of promulgation of Karnataka gig workers law.
+  🔗 https://inc42.com/features/the-legal-battle-that-could-reshape-indias-gig-economy/
 
 - Dream 11’s Wealthtech Fantasy Is Over
   Can you really build a house on sand? Well, you can, but it is futile. And that is exactly what we are trying to
@@ -176,89 +160,33 @@
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
 
-- Meet The Top 10 Indian Startup Investors Of H1 2026
-  Indian startup funding was muted in the first half of 2026, declining 9% YoY to $5.2 Bn raised.
-  🔗 https://inc42.com/buzz/meet-the-top-10-indian-startup-investors-of-h1-2026/
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
-  "Stand Unchanged": India Stays Firm
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Indian markets hit record highs amid positive global cues - News On AIR
-  Indian markets hit record highs amid positive global cues
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05tNmpseERNMmNEVkJnMHVtQ1ZZU1RlS19HdVNueV9ZNm5RWnYtdll5UFc2cVZYSUlIcFMwRmxRUFVBekVuSWFlUE5oV3pWSlZuYnpfNHgwenNXZGxJdXk1enlnQkNLcTdEejNtTV9LZm1EOUd1VnNxRERmQWlWaDRGRUk2Y2xSbUxB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol from India are incorrect - News On AIR
-  Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHY2Z3ptUnBxeHcwWVFYaWxFckg0VS1CNVVEM0p6VEdZLTJ4MkJIWk16VHdqTktmeDB3NV9WaTNsMWoyWGdZWUlNenNvbTZxS1lIWGxuMzJWX0w1T3FfTnFqb0hqaTJFRURIMFFTS2N5Q1VvUE1sQV9jXzRSOTJyQlNMRHY5VGtrVGNHQk5HRE9zeFJuWDZ1SUtocVRUWjhPaDZ6NERiOWdQZFl3WlVxZFRSNFUxZXppNXF2MHN4NUhqa3RJX09rSnMta0dfXzl3Z0l1LVNEdGVWT1pkSHd4Vm53?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI Governance | Akashvani News - News On AIR
-  Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTg5R3JkbGlHb1hyMzFqelgxQWZuNlBtN0ctdVNKRko4cEtzdXNVVnN4ckZ1ZjFQMmk2enZoOFFOei0tWEd6MkF0UjFFYmVRdDkzWkM4T2o0bXV3YVp5RzAzaklydDdGd1pZNlRRX244Y083anFYYXlxSzVtYVJPQ1pOMUtTaXVZTGc3Y2hjRzVTV2FZVEF2Yy12WE9oNjhFZUFubmpDYXF0cGl5cWRieUc0TjF5aE1NeXZzb2dLQlV2TGZ0ZXpsUnk5NENWRHYtSzgxNGZnQ2MzbGs?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- West Bengal: The fight over eggs in India's mid-day meals - BBC
-  West Bengal: The fight over eggs in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
-  "Stand Unchanged": India Stays Firm
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
-
-- Indian markets hit record highs amid positive global cues - News On AIR
-  Indian markets hit record highs amid positive global cues
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05tNmpseERNMmNEVkJnMHVtQ1ZZU1RlS19HdVNueV9ZNm5RWnYtdll5UFc2cVZYSUlIcFMwRmxRUFVBekVuSWFlUE5oV3pWSlZuYnpfNHgwenNXZGxJdXk1enlnQkNLcTdEejNtTV9LZm1EOUd1VnNxRERmQWlWaDRGRUk2Y2xSbUxB?oc=5
-
-- Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol from India are incorrect - News On AIR
-  Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHY2Z3ptUnBxeHcwWVFYaWxFckg0VS1CNVVEM0p6VEdZLTJ4MkJIWk16VHdqTktmeDB3NV9WaTNsMWoyWGdZWUlNenNvbTZxS1lIWGxuMzJWX0w1T3FfTnFqb0hqaTJFRURIMFFTS2N5Q1VvUE1sQV9jXzRSOTJyQlNMRHY5VGtrVGNHQk5HRE9zeFJuWDZ1SUtocVRUWjhPaDZ6NERiOWdQZFl3WlVxZFRSNFUxZXppNXF2MHN4NUhqa3RJX09rSnMta0dfXzl3Z0l1LVNEdGVWT1pkSHd4Vm53?oc=5
-
-- Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI Governance | Akashvani News - News On AIR
-  Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTg5R3JkbGlHb1hyMzFqelgxQWZuNlBtN0ctdVNKRko4cEtzdXNVVnN4ckZ1ZjFQMmk2enZoOFFOei0tWEd6MkF0UjFFYmVRdDkzWkM4T2o0bXV3YVp5RzAzaklydDdGd1pZNlRRX244Y083anFYYXlxSzVtYVJPQ1pOMUtTaXVZTGc3Y2hjRzVTV2FZVEF2Yy12WE9oNjhFZUFubmpDYXF0cGl5cWRieUc0TjF5aE1NeXZzb2dLQlV2TGZ0ZXpsUnk5NENWRHYtSzgxNGZnQ2MzbGs?oc=5
-
-- West Bengal: The fight over eggs in India's mid-day meals - BBC
-  West Bengal: The fight over eggs in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
-
-- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
-  "Stand Unchanged": India Stays Firm
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
-
-- Indian markets hit record highs amid positive global cues - News On AIR
-  Indian markets hit record highs amid positive global cues
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV05tNmpseERNMmNEVkJnMHVtQ1ZZU1RlS19HdVNueV9ZNm5RWnYtdll5UFc2cVZYSUlIcFMwRmxRUFVBekVuSWFlUE5oV3pWSlZuYnpfNHgwenNXZGxJdXk1enlnQkNLcTdEejNtTV9LZm1EOUd1VnNxRERmQWlWaDRGRUk2Y2xSbUxB?oc=5
-
-- Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol from India are incorrect - News On AIR
-  Petroleum and Natural Gas Ministry refutes claims that Bhutan declined offer to import E20 petrol
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHY2Z3ptUnBxeHcwWVFYaWxFckg0VS1CNVVEM0p6VEdZLTJ4MkJIWk16VHdqTktmeDB3NV9WaTNsMWoyWGdZWUlNenNvbTZxS1lIWGxuMzJWX0w1T3FfTnFqb0hqaTJFRURIMFFTS2N5Q1VvUE1sQV9jXzRSOTJyQlNMRHY5VGtrVGNHQk5HRE9zeFJuWDZ1SUtocVRUWjhPaDZ6NERiOWdQZFl3WlVxZFRSNFUxZXppNXF2MHN4NUhqa3RJX09rSnMta0dfXzl3Z0l1LVNEdGVWT1pkSHd4Vm53?oc=5
-
-- Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI Governance | Akashvani News - News On AIR
-  Union Minister Kirti Vardhan Singh leads Indian delegation to Geneva in inaugural UN Global Dialogue on AI
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTg5R3JkbGlHb1hyMzFqelgxQWZuNlBtN0ctdVNKRko4cEtzdXNVVnN4ckZ1ZjFQMmk2enZoOFFOei0tWEd6MkF0UjFFYmVRdDkzWkM4T2o0bXV3YVp5RzAzaklydDdGd1pZNlRRX244Y083anFYYXlxSzVtYVJPQ1pOMUtTaXVZTGc3Y2hjRzVTV2FZVEF2Yy12WE9oNjhFZUFubmpDYXF0cGl5cWRieUc0TjF5aE1NeXZzb2dLQlV2TGZ0ZXpsUnk5NENWRHYtSzgxNGZnQ2MzbGs?oc=5
-
-- West Bengal: The fight over eggs in India's mid-day meals - BBC
-  West Bengal: The fight over eggs in
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzODJGMVQtZ0NjRHp0NUExTVdFUGIzSHdJc2dCcnJoQUZJeUtFSEVaZ2w1U3RVVHF1R0ZUQWpuRHJabUlUdV9CX3Vqd0hCTHlXdlpCa01RYmJRUQ?oc=5
-
-- What we learned from Aston Martin F1's Technology Forum - The Race
-  Aston Martin F1's Technology Forum
-  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDhDc3pIREZkUDkydjZMUjc2dlFYTjBoMUtvUWUwd1V0RGU3ZTVBZFgxWFhBZm94NzJxOHpmQVZPMmxtOTZwVFMzWXRTRjJoam1DUWU3ZkNEVkU3Qzg4Y0g2UXNROEFFOXdScWJSOXNEc1pGMlpyNWFrZ0I4Vm5qV19mMkJJTTJsUGNF?oc=5
-
-- UKtech50 2026: The most influential people in UK technology - Computer Weekly
-  The most influential people in UK technology
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEJrRXdoa0hQSVptc1ctcGtzanhkWWZPU3BEaDhfRzVpZEpUbVR3eFJ2Z3J3ckh3a3hocmQzNFdsb09YbFBkUXhiMWo2ZlB3cmJPaU9TdEd4WlJsMG5mdUVWTnhwdXRxWlRXWDlCU0NvVXNodzBQbV9qZUQtVUkxWnhkWmUwNTRLVHAwam4wS0hrWXJWcGZQc09QQWZOdzlmMmpILUp2UQ?oc=5
-
-- How technology helps effective learning in NEET preparation - The Hindu
-  The Hindu has published an article on
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVFNUFhNQV9zakJuRi1Ybjh0dkRueFNNaWtaRkNqNEZCdlNxNm5vbXA2TS1mRDZMc0dPdmtubUFGSC0yQ0RKSG5KU01NbmdJOVR5T2x0SjNDQTJXUmd4Tjk3WlM4dk1ZYlZkMGpvakNqWE9abnBhME95aGx5c3pQRXVtMTRIemRyaGNpUE8tbTk5NUFMTXFTQmZNQ3ZUUW9abFN5OXVSVlgzeFktRGhHTWVIQXnSAbsBQVVfeXFMUG1sZExZdEdncmFXdmttXzlqams2XzMxX1IzY3ZoUFA0d0ZNSjhEalhzSzAxQjJseUoyc2RDUkFtd0xRMERVZkhka3pJNEpMdXN3ck80X21hOHhqeFdXcVZrUjYtbWNiMnZXUU5kZUg5ZkZZdVhfUEMtYjhhYUVPSVZVa3dQaUZ1MW16dFllVnFLSlNPakZjbV9jZVk5dWE3N2dDcVNyUVVwaTBQUW8tTk9xQzZETy11c0VEdw?oc=5
-
-- Goldman Sachs top economist agrees that millions of Americans will lose jobs to AI; but rejects the idea - The Times of India
-  Goldman Sachs top economist agrees that millions of Americans will lose jobs to AI; but rejects the
-  🔗 https://news.google.com/rss/articles/CBMi-gJBVV95cUxPczNWYlRXUVgyS3JYN2FLRHlEbDBwSkVqaTc2UkVEWko5a0ZaS1VWVV80LTRZZEhiQmN0dUpid0t2dXEyTldubG92QWdjM1JnbjNuQlRzRDkydmMzT0NxazVEVURxT2hzQlBqT3F1WWdLeTlQamw2TTRCRkNVdUFmeVEtV0Nsb3JSbTg0MEx1aUhhWndDVm5LR0FCRDgxWEtNS21WcE52WC1QeUpPTnVISGdweF9JT0xpR0RnTUcxby1pQmF4ZkszUFVSUUNHdjFudjZ3ZlhqS2Z2LXpaU01xc0QtelhuemJrTzNncEFKdnJyT2ZPZ0JjQnNSd1MzQl9zNWtJazZxTWJoMzBtaTZyTW04c0VQd0xLS2hfUHV0RUhRYUVYajVDUzdOcUNwR3hnQVNhTUVNZlhiM3F5bkVzclRLWTdISFBWVnNFcW1vbTVnN0QtZlg0a2k4c0NRSklBeWdqcWFkdDN6UXd0NnpFQmV5MzUySjh0SWfSAf8CQVVfeXFMTjBXN0dxTE02UzQ3bXJpLUNFal9jNDZnSHpiM0pxdXJpa29TX3dBX2g2UDlzTk1nM2FMbmxyYkhNMXgtdEMyNWVIZXBuS09SX21WdURSZnJRR0lBVHVIbFEzakVvUjJySWFaOGNQN0ZSdkZCTHlFcndNdFVocVZWNk1NelNSRHU2MkNaYmt5RjU5YktWRkU5RGRfX09rd1VIMzNoTHozQTdrZGtLRTdEOXd1NG1kbHBmLUNNVjhhWV8yUVo1dU8tQ0hFTC00a2RwbE9vM0dsUHo3SEg4QnpSalpBdzF4TmdHMHMzMFVJOGZnVXpnMGNzcHRGTGd0YmxwRGFyc1hBbmNYejgwSEVlSGdDVmZuRkx5T0NkSEtmRmZ4MjRmbWlMTjJFVXJJc2dFT2E5QlNFNVUxR1JtdktGd3Myc3N1djVFN3RjZndPcVVfYUlzOHV2cXNLd09qeWtnMktId0U4MExCY2ZhTmhySVQyam40ckIzeDZRNWNNQkE?oc=5
-
-- Opinion | Technology Ruined Our Lazy Days at the Lake - The New York Times
-  The New York Times published an opinion piece on technology.
-  🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFE1Znc2bXhfTWhfaTFpSUc1VUw0NVRlRjFfR2RPWHZENGcwdjktajFSSzJBX182TmxkRkRBUV9xY1BQeDM5TVFkQVlZTEMzVTFyYy1lXzFGSmtpUWc3M3BLY0FOenRJR0hQQmxLRWJ0WWdQT3pCakFBZVUwb2w5RHJNY3hGclFKTW9HR2llQkZwZw?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-05 08:51:01 UTC_
+_Last updated: 2026-07-05 13:23:18 UTC_
