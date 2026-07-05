@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
+- School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher
+  
+  🔗 https://indianexpress.com/article/india/jk-school-library-books-withdrawn-uapa-fir-publisher-premises-searched-separatism-row-10772815/
+
+- Puri-Koraput Express launch: Train number, route, stops, timetable
+  
+  🔗 https://indianexpress.com/article/india/puri-koraput-express-launch-train-number-route-stops-timetable-10772693/
+
+- Elephant that faced off with tigers, patrolled Kaziranga for decades laid to rest with guard of honour
+  
+  🔗 https://indianexpress.com/article/india/kaziranga-patrol-elephant-joymala-dies-66-guard-honour-tiger-10772734/
+
+- Heavy rainfall to lash coastal Maharashtra, Gujarat, Chhattisgarh; IMD issues red alert
+  
+  🔗 https://indianexpress.com/article/india/imd-weather-update-bay-of-bengal-depression-heavy-rain-red-alert-mumbai-odisha-gujarat-10772718/
+
 - Brahmapur-Udhna Amrit Bharat Express to run daily: Train number, route, stops, time table
   
   🔗 https://indianexpress.com/article/india/brahmapur-udhna-amrit-bharat-express-daily-train-number-route-stops-timetable-10772491/
-
-- 6 fishermen vanish at sea: Desperate search operation underway off Visakhapatnam
-  
-  🔗 https://indianexpress.com/article/india/fishermen-vanish-at-sea-desperate-search-operation-underway-off-visakhapatnam-10772398/
-
-- Odisha SIR: 20 lakh deletions in draft voter list; Oppn flags exclusion over ‘minor anomalies’
-  
-  🔗 https://indianexpress.com/article/india/odisha-sir-deletions-draft-voter-list-opp-minor-anomalies-10772392/
-
-- Mumbai-Ahmedabad bullet train project: India’s largest rail tunnel boring machine begins work
-  
-  🔗 https://indianexpress.com/article/india/mumbai-ahmedabad-bullet-train-project-largest-rail-tbm-begins-work-vikhroli-10772067/
-
-- Hours after gunfight, security forces tighten cordon in Shopian, say 2 militants hiding
-  
-  🔗 https://indianexpress.com/article/india/gunfight-security-forces-cordon-jammu-kashmir-shopian-militants-10772261/
 
 - Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates
   
@@ -40,6 +40,18 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/microsoft-disclosure-provides-rare-glimpse-of-tax-haven-tactics-10772059/
 
+- 'America's still at the top': Why Perplexity CEO Aravind Srinivas says US is best place to build a startup
+  Perplexity CEO and co-founder Aravind Srinivas says he always thought America's the only country where a person can
+  🔗 https://www.livemint.com/companies/people/america-is-still-at-the-top-why-perplexity-ceo-aravind-srinivas-says-is-best-place-to-build-a-startup-11783265576074.html
+
+- Europe’s richest man Bernard Arnault told to pay nearly  ₹245 crore in taxes – How much is net worth of LVMH founder?
+  French court orders LVMH CEO Bernard Arnault and his wife to pay nearly 
+  🔗 https://www.livemint.com/companies/people/europes-richest-man-bernard-arnault-told-to-pay-nearly-245-crore-in-taxes-how-much-is-net-worth-of-lvmh-founder-11783260479069.html
+
+- Nykaa expects Q1 revenue growth near 30% on fashion rebound
+  SN E-Commerce Ventures expects GMV growth near 30-33
+  🔗 https://www.livemint.com/companies/news/nykaa-june-quarter-update-fashion-growth-beauty-industry-india-11783256747509.html
+
 - Tesla puts the brakes on AI costs, caps staff spending at  ₹19,000 weekly, starting July 6
   Tesla is limiting staff spending on AI tools to  ₹19,000 per week starting July 6. Some engineers reportedly spent
   🔗 https://www.livemint.com/companies/news/tesla-puts-the-brakes-on-ai-costs-caps-staff-spending-at-19-000-weekly-starting-july-6-11783253981165.html
@@ -47,18 +59,6 @@
 - Govt extends deadline for WhatsApp's response over username issue to July 9: Report
    Meta-owned platform's recently announced usernames feature that will allow users to communicate without sharing
   🔗 https://www.livemint.com/companies/news/govt-extends-deadline-for-whatsapps-response-over-username-issue-to-july-9-11783254457364.html
-
-- ICICI Bank, Prudential sign undertaking to defuse conflict-of-interest concerns ahead of Bharti Life deal
-  The undertaking seeks to address potential conflicts of interest arising from Prudential's proposed acquisition of Bharti Life.
-  🔗 https://www.livemint.com/companies/news/icici-bank-prudential-conflict-of-interest-bharti-life-deal-irdai-11783236967052.html
-
-- India's outbound travel defies West Asia turmoil as Thailand, Australia, Singapore and US woo tourists
-  Thailand has recorded 1.19 million Indian arrivals in 2026. Singapore has received nearly half a million visitors
-  🔗 https://www.livemint.com/companies/news/india-outbound-travel-international-tourism-west-asia-war-overseas-travel-indian-tourists-thailand-tourism-11783222543135.html
-
-- Community apps find new ways to cash in on gated communities
-  Firms like MyGate, Nobrokerhood and Park+ are using their access to affluent
-  🔗 https://www.livemint.com/companies/community-apps-find-new-ways-to-cash-in-on-gated-communities-mygate-park-nobrokerhood-11783061252622.html
 
 - Upcoming IPOs: Kusumgar IPO, Laser Power &amp; Infra IPO among new issues scheduled for next week; check list here
   Kusumgar IPO and Laser Power &amp;amp; Infra IPO are among the mainboard IPOs to open next week. They will collectively raise over  ₹1,
@@ -120,25 +120,25 @@
   India's real estate market is seeing a K-shaped recovery, with major developers outperforming smaller ones. Leading companies are gaining market share due to strong finances
   🔗 https://economictimes.indiatimes.com/markets/stocks/news/buy-lodha-developers-aditya-birla-real-estate-organised-players-to-benefit-from-housing-market-consolidation-siddhartha-khemka/articleshow/132192263.cms
 
-- India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express
-  India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near
-  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTZ5SHBBdEs3WV96YVVqWWhHazJFbGE4QWFNdGZsdHU2UG9zTEM0Z0xSbXlkWXN4VEg0dFRRNGhibTNOa0JjUmdEbG5ITzlMSllrdFktd2JGck9ITXYxbjkyNFNLZmloQkEwb0hNZXhpUlctZHZ2MHNzanB2MTdkMlJMb3hvODdoaENMUVd3R3dmWi04cnAwQnR4WDFUZjZnTzZaX045TkZzTHJSTkVYU2U0ckRNeks0M2ctNzFLTEsyMV90WTE1Z0Juc004RHJaX2hNeWRab3ZpU3FValNrWNIB5wFBVV95cUxOWDM2UzBQTUF0WE4zNGo5ZW5nMmFLTWJZamlnSlRQbGROc3p3VGtNdDdkZlBWZ1Q3Q0o5SXdyeVRpQXFSakd2eDZ6QjFESmhDQWd0V1JRYVJDbW1RZElEU29HTEhJeGI0V011ZWFicEk4NE44RjJ0RVhDQ1FLSWFiZGd6TnZub2ZIbFdKMkhXQ3ZKNjlhd3JadUtWMFNUS1ViNkxCV0t0N1JkYjFMamdtLWNIV2VHWkctN0ZNY0phMWVnSnZ4M2NXYk5tdkNVLTFoSlVPb0luOVloZFItTEhNTnM0WXJ1NTg?oc=5
-
 - "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
   "Stand Unchanged": India Stays Firm
   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
 
-- Monsoon to continue in 'active phase' over central India: IMD - The Times of India
-  Monsoon to continue in 'active phase' over central
-  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTgtOUtFQlRMdzBRX09mQnU3M0tseWluRk8xaGotV2NoT1prY283NlN0cHB2LWljRU1ha1o1bkhRbjkzcERVbWdzMlV0T3Zoem96Mkw1MFo3bWVzWmxMRGdDamttZkFNbURybkYwbUVUc3FrclRBMmJ6UnhtMF9mYW5sSWtKYkpKV2VKZlBrN29QTzUxYXJIZDFTd2tYT09aeU51azg2b1ZTQUpOQXdjazlvV3U1NFJNNDZsRlJSeHRoay1X0gHKAUFVX3lxTFBqSDgxTG4wOENOMjcxbE9oM2otaEhCNll3M0l2VUFWR0FyQ2dXbkVVeUgtMVhPZmVMd01XejRTNC1RR0ItODJqNFE3N2NIeUZIMzA0aWczZE5QODcyVXB6c3pXWFlRSENJU19aUWphZ0ZzWHVKR1d0TXFBMDFVNTl1bEd3THpobGJUQU5LU240MW9LbUdtOVlqYURmenZBamF1NDRCN0IySnpvcmxpMG5MWmtOYXdmYjAyQlNWNHhlaElWM0JVaXBYM2c?oc=5
+- India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express
+  India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTZ5SHBBdEs3WV96YVVqWWhHazJFbGE4QWFNdGZsdHU2UG9zTEM0Z0xSbXlkWXN4VEg0dFRRNGhibTNOa0JjUmdEbG5ITzlMSllrdFktd2JGck9ITXYxbjkyNFNLZmloQkEwb0hNZXhpUlctZHZ2MHNzanB2MTdkMlJMb3hvODdoaENMUVd3R3dmWi04cnAwQnR4WDFUZjZnTzZaX045TkZzTHJSTkVYU2U0ckRNeks0M2ctNzFLTEsyMV90WTE1Z0Juc004RHJaX2hNeWRab3ZpU3FValNrWNIB5wFBVV95cUxOWDM2UzBQTUF0WE4zNGo5ZW5nMmFLTWJZamlnSlRQbGROc3p3VGtNdDdkZlBWZ1Q3Q0o5SXdyeVRpQXFSakd2eDZ6QjFESmhDQWd0V1JRYVJDbW1RZElEU29HTEhJeGI0V011ZWFicEk4NE44RjJ0RVhDQ1FLSWFiZGd6TnZub2ZIbFdKMkhXQ3ZKNjlhd3JadUtWMFNUS1ViNkxCV0t0N1JkYjFMamdtLWNIV2VHWkctN0ZNY0phMWVnSnZ4M2NXYk5tdkNVLTFoSlVPb0luOVloZFItTEhNTnM0WXJ1NTg?oc=5
 
-- Monsoon tracker July 5 LIVE: Monsoon gains strength across India; Mumbai air traffic hit, alerts in Kerala, Odisha - The Hindu
-  The Hindu reports monsoon has hit Mumbai, Odisha and other parts of
+- E20 debate explained: Mileage loss, engine concerns and what's next - The Times of India
+  The Times of India published a story on the E20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHJEX1lvUWZhOHpvR1A4bHFhTlFhYWxGZWt4ek5mb2VpcEpjS3EzdURQRzhyMFpqUC1EdUd0VVJoOV9XaHVkTWxwZkNmMW40ajNDLWc2Q3JGMllWYWFQWTdQRHBDUWt3MGZ3TUV2QlplaEFRV3Bqb190elhFOWpGR1pubGI5SV9iNE9zWHlwUS1UM1lSMXB0VGlNLTVmemZ0SlBoRGZMWDk4T2JRS0tjbEhrQ3RTS1o3V3B3cU1DRkY0VVIwN0FUaU9RRGLSAdIBQVVfeXFMT0REVkNZakxVR1lUSG5XM1gySC1uWUtCdFROY2VremZZa25fWUNJS1VNdUxWTWJmdnpLVVJsaXZPdjJBMlFZLTZ1bmZwU09ZenRuRHBzQ1JJQzhnVEppZnFZd3k1SlRqNHA0VWFINno5WENEekNQYUY4eHhfMFc2S3F5eFNjcE9ja05QTnVsSDFDYzdGbEY1Z29jNUtiVjFtMi0wWjdMRjRjd1B0ZlF4SzU3OVBnSGdDSVR1MWdhVEdRNmJ4T19kQ1l4M29XaW84UGpR?oc=5
+
+- Satluj Movie News | Diljit Dosanjh's Satluj Removed From Zee5 In India Two Days After Release - NDTV
+  Diljit Dosanjh's Satluj removed from Z
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUNXRXRZSTU5azFFWDBKU0dfejVtS25FWW1sT2pmVXpyZVUyUzUzYUMyT0pMcDhVZ1VvOXg2WHp2cEcxTzBOVWhCVExXMXQ4aTZucGVyTUpXOUVpQ3NFdTN0bzBVMl9RRWFvUWRzMXFjNmZOd3lCWjdGMUl1ZDdsbkozUTFOa0Z1MGVqdklKdGFOTVY2X3hXYzBVRGI5MUM1dGpVY0laYmY1QWlNS3pzV1Nqak5FZWcyM3RBRWxsTFQ0by1wOWc?oc=5
+
+- Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal, Kerala, Odisha on alert | Live updates - The Hindu
+  Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal
   🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQU8zU255TkRrR0tud21tWDJDMHlUeWFyYWRFWnZselRBU0dDLWYwb1VSbTBrT05CT0t1dnloYTVucTBCVnJxMGFITXl1N2NPMzhkT2NtUm9UVWFGU3oyTVR0TFBacmhDbEdYR3JnZ2VwS1RSZ2sxc2VyTEFWT0F4YmNHQW1DaUhFRlhhblBzZU9DdnllaHRDVTlYalFOLTdWVHFkUDhxMHk2TVdVTWoyY0lfUDVPMlJYYTJxdlFwQnl5ZnRVTXNON3dKNnZsSnFPTkdzczYxbWZQM05sSDJYSS1FYUbSAesBQVVfeXFMUGtkVk5kRkRWcjRXbmhkQmFQYW1rNV9PMUtHa2JpRlZvVUhFS2xsT3Bxa1VPaExHREJqa0F4STBUdTFhbjk3WU9ENDY5T0FVcUNSbXc5aHVlZG42dmsyZ3NaWTVUbTczUzkzSENna2c3UEhGcUVDbm50ZDFCbFlNaC1NV1E5MFI2ZEVKZE8xTDNDYWNTUmNnY2xrLThhb0R0YWxidmh0NENMWC05aGg1M09ZRnBsWXdUa1pCVDJ4Umc3al9xdXU4VlhTUzgtQll0WmJ0djVMNXl4bE9vRlctTUpGVF9nakpQeS02SQ?oc=5
-
-- Mumbai On Red Alert As Weather Agency Warns Of Extremely Heavy Rainfall - NDTV
-  Mumbai On Red Alert As Weather Agency Warns
-  🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFFQSDkzZ25kMVg1SEl0eHhVQ1hhcXh3c3dZSkV1S2xTWjBTeC1tNVZzSWxPOFVrX3ZEaTlXT0xwNnZTTV9xQUFXbUVvaTNvcDNIMDAwMVdncHJMY2RiaUdoSWZMZUxNMlNRNFdTR19zcGh5emVTRmF1dzZLdGpEQUo5Vkc1eVRZOGo3bmVfbThIZGpBQUd2ZXFETE4weDNzVWQ1SnhOaXVjclMydzE2OURSOHhqRTFzNi1NLVBUbkxmNVRwVHhCeHlRT1ZBMmpQNzhJc2RHY0l6UVnSAeMBQVVfeXFMTV9uaE5rUGxzRjRnZm16R29RRUdSQkJ4cVhMZzVRdVB3dlNjM1dvaUd4U3Y5YmFmTkdPanlQekZRb2Z1NExrNk1SajlGY2V5bngwMHN5cmVqWGRFYjhqUGpwblVOQWNTaF9iVUhlYkZUYUF0cmNGeTd6QW9UYjBFSXRNbW5hdUlUS1FtSHd4MXhhMnBjTXk2ZGhSZnJCOFdnaGlRT2NXa25zdVRyMFRjeUQ2VENsUTNJeUtfTmZKSktFTVVnRzRmdGpiVm1iNmVoNjBLQ1FUdG9lc204RjNlM3pIeWc?oc=5
 
 - The Legal Battle That Could Reshape India’s Gig Economy
   The amount is not being demanded by the state as a charity. It is demanded in terms of promulgation of Karnataka gig workers law.
@@ -159,6 +159,46 @@
 - Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
   For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
   🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
+
+- India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express
+  India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTZ5SHBBdEs3WV96YVVqWWhHazJFbGE4QWFNdGZsdHU2UG9zTEM0Z0xSbXlkWXN4VEg0dFRRNGhibTNOa0JjUmdEbG5ITzlMSllrdFktd2JGck9ITXYxbjkyNFNLZmloQkEwb0hNZXhpUlctZHZ2MHNzanB2MTdkMlJMb3hvODdoaENMUVd3R3dmWi04cnAwQnR4WDFUZjZnTzZaX045TkZzTHJSTkVYU2U0ckRNeks0M2ctNzFLTEsyMV90WTE1Z0Juc004RHJaX2hNeWRab3ZpU3FValNrWNIB5wFBVV95cUxOWDM2UzBQTUF0WE4zNGo5ZW5nMmFLTWJZamlnSlRQbGROc3p3VGtNdDdkZlBWZ1Q3Q0o5SXdyeVRpQXFSakd2eDZ6QjFESmhDQWd0V1JRYVJDbW1RZElEU29HTEhJeGI0V011ZWFicEk4NE44RjJ0RVhDQ1FLSWFiZGd6TnZub2ZIbFdKMkhXQ3ZKNjlhd3JadUtWMFNUS1ViNkxCV0t0N1JkYjFMamdtLWNIV2VHWkctN0ZNY0phMWVnSnZ4M2NXYk5tdkNVLTFoSlVPb0luOVloZFItTEhNTnM0WXJ1NTg?oc=5
+
+- E20 debate explained: Mileage loss, engine concerns and what's next - The Times of India
+  The Times of India published a story on the E20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHJEX1lvUWZhOHpvR1A4bHFhTlFhYWxGZWt4ek5mb2VpcEpjS3EzdURQRzhyMFpqUC1EdUd0VVJoOV9XaHVkTWxwZkNmMW40ajNDLWc2Q3JGMllWYWFQWTdQRHBDUWt3MGZ3TUV2QlplaEFRV3Bqb190elhFOWpGR1pubGI5SV9iNE9zWHlwUS1UM1lSMXB0VGlNLTVmemZ0SlBoRGZMWDk4T2JRS0tjbEhrQ3RTS1o3V3B3cU1DRkY0VVIwN0FUaU9RRGLSAdIBQVVfeXFMT0REVkNZakxVR1lUSG5XM1gySC1uWUtCdFROY2VremZZa25fWUNJS1VNdUxWTWJmdnpLVVJsaXZPdjJBMlFZLTZ1bmZwU09ZenRuRHBzQ1JJQzhnVEppZnFZd3k1SlRqNHA0VWFINno5WENEekNQYUY4eHhfMFc2S3F5eFNjcE9ja05QTnVsSDFDYzdGbEY1Z29jNUtiVjFtMi0wWjdMRjRjd1B0ZlF4SzU3OVBnSGdDSVR1MWdhVEdRNmJ4T19kQ1l4M29XaW84UGpR?oc=5
+
+- Satluj Movie News | Diljit Dosanjh's Satluj Removed From Zee5 In India Two Days After Release - NDTV
+  Diljit Dosanjh's Satluj removed from Z
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUNXRXRZSTU5azFFWDBKU0dfejVtS25FWW1sT2pmVXpyZVUyUzUzYUMyT0pMcDhVZ1VvOXg2WHp2cEcxTzBOVWhCVExXMXQ4aTZucGVyTUpXOUVpQ3NFdTN0bzBVMl9RRWFvUWRzMXFjNmZOd3lCWjdGMUl1ZDdsbkozUTFOa0Z1MGVqdklKdGFOTVY2X3hXYzBVRGI5MUM1dGpVY0laYmY1QWlNS3pzV1Nqak5FZWcyM3RBRWxsTFQ0by1wOWc?oc=5
+
+- Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal, Kerala, Odisha on alert | Live updates - The Hindu
+  Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQU8zU255TkRrR0tud21tWDJDMHlUeWFyYWRFWnZselRBU0dDLWYwb1VSbTBrT05CT0t1dnloYTVucTBCVnJxMGFITXl1N2NPMzhkT2NtUm9UVWFGU3oyTVR0TFBacmhDbEdYR3JnZ2VwS1RSZ2sxc2VyTEFWT0F4YmNHQW1DaUhFRlhhblBzZU9DdnllaHRDVTlYalFOLTdWVHFkUDhxMHk2TVdVTWoyY0lfUDVPMlJYYTJxdlFwQnl5ZnRVTXNON3dKNnZsSnFPTkdzczYxbWZQM05sSDJYSS1FYUbSAesBQVVfeXFMUGtkVk5kRkRWcjRXbmhkQmFQYW1rNV9PMUtHa2JpRlZvVUhFS2xsT3Bxa1VPaExHREJqa0F4STBUdTFhbjk3WU9ENDY5T0FVcUNSbXc5aHVlZG42dmsyZ3NaWTVUbTczUzkzSENna2c3UEhGcUVDbm50ZDFCbFlNaC1NV1E5MFI2ZEVKZE8xTDNDYWNTUmNnY2xrLThhb0R0YWxidmh0NENMWC05aGg1M09ZRnBsWXdUa1pCVDJ4Umc3al9xdXU4VlhTUzgtQll0WmJ0djVMNXl4bE9vRlctTUpGVF9nakpQeS02SQ?oc=5
+
+- "Stand Unchanged": India Stays Firm On Indus Waters Amid Pak Threats - NDTV
+  "Stand Unchanged": India Stays Firm
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDdIVTI4R0RoX0tCd2dQRGZFS2gyMVBaR3AxODRYVVNjc2xJdmxlbmdaNXYweW5sSGNQNWpQZnBobnBvUVdSZHRVbHRIYzFaUzFhc2tzZFRoYmtValo3RFB1ekJhNDRTUDctbEtZMGdyWjhUazFoaFF2ZnkyUlo5aXlCZDdobkhHQXFlUUZjeTVpWkMxeXJvUmFMTEgwbmFaVlRKTU1KN0lrc1RteXRfLUlVUzhrTTNaWkHSAcIBQVVfeXFMUHJTUFM4YlpQc3VscXpJSDdBYlg0cF9oN041VVdmMVlXRHJrdWE0WUdrd0ZMU3BxN3NYMWY3TTIyaEthNlFGdjJ2a0dvQTRyZUNRRzUyUzUwMVQ1dU5leEY4YURuR2lsZm1IV01iX1FSUnpCaEl2ZkV6TE1Ta1FmdGZUTEFmU2gwaEwxRUNkUHRUUHowSVBRMWVKUTZHaFBPc1ZJX1hXeWtQdXZyd1RxNU5iT3kwTDB5WVNaZTFsM0c3bXc?oc=5
+
+- India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near Punjab National Bank - The Indian Express
+  India news LIVE updates, 5 July 2026: Fire breaks out at Delhi factory near
+  🔗 https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTZ5SHBBdEs3WV96YVVqWWhHazJFbGE4QWFNdGZsdHU2UG9zTEM0Z0xSbXlkWXN4VEg0dFRRNGhibTNOa0JjUmdEbG5ITzlMSllrdFktd2JGck9ITXYxbjkyNFNLZmloQkEwb0hNZXhpUlctZHZ2MHNzanB2MTdkMlJMb3hvODdoaENMUVd3R3dmWi04cnAwQnR4WDFUZjZnTzZaX045TkZzTHJSTkVYU2U0ckRNeks0M2ctNzFLTEsyMV90WTE1Z0Juc004RHJaX2hNeWRab3ZpU3FValNrWNIB5wFBVV95cUxOWDM2UzBQTUF0WE4zNGo5ZW5nMmFLTWJZamlnSlRQbGROc3p3VGtNdDdkZlBWZ1Q3Q0o5SXdyeVRpQXFSakd2eDZ6QjFESmhDQWd0V1JRYVJDbW1RZElEU29HTEhJeGI0V011ZWFicEk4NE44RjJ0RVhDQ1FLSWFiZGd6TnZub2ZIbFdKMkhXQ3ZKNjlhd3JadUtWMFNUS1ViNkxCV0t0N1JkYjFMamdtLWNIV2VHWkctN0ZNY0phMWVnSnZ4M2NXYk5tdkNVLTFoSlVPb0luOVloZFItTEhNTnM0WXJ1NTg?oc=5
+
+- E20 debate explained: Mileage loss, engine concerns and what's next - The Times of India
+  The Times of India published a story on the E20
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHJEX1lvUWZhOHpvR1A4bHFhTlFhYWxGZWt4ek5mb2VpcEpjS3EzdURQRzhyMFpqUC1EdUd0VVJoOV9XaHVkTWxwZkNmMW40ajNDLWc2Q3JGMllWYWFQWTdQRHBDUWt3MGZ3TUV2QlplaEFRV3Bqb190elhFOWpGR1pubGI5SV9iNE9zWHlwUS1UM1lSMXB0VGlNLTVmemZ0SlBoRGZMWDk4T2JRS0tjbEhrQ3RTS1o3V3B3cU1DRkY0VVIwN0FUaU9RRGLSAdIBQVVfeXFMT0REVkNZakxVR1lUSG5XM1gySC1uWUtCdFROY2VremZZa25fWUNJS1VNdUxWTWJmdnpLVVJsaXZPdjJBMlFZLTZ1bmZwU09ZenRuRHBzQ1JJQzhnVEppZnFZd3k1SlRqNHA0VWFINno5WENEekNQYUY4eHhfMFc2S3F5eFNjcE9ja05QTnVsSDFDYzdGbEY1Z29jNUtiVjFtMi0wWjdMRjRjd1B0ZlF4SzU3OVBnSGdDSVR1MWdhVEdRNmJ4T19kQ1l4M29XaW84UGpR?oc=5
+
+- Satluj Movie News | Diljit Dosanjh's Satluj Removed From Zee5 In India Two Days After Release - NDTV
+  Diljit Dosanjh's Satluj removed from Z
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUNXRXRZSTU5azFFWDBKU0dfejVtS25FWW1sT2pmVXpyZVUyUzUzYUMyT0pMcDhVZ1VvOXg2WHp2cEcxTzBOVWhCVExXMXQ4aTZucGVyTUpXOUVpQ3NFdTN0bzBVMl9RRWFvUWRzMXFjNmZOd3lCWjdGMUl1ZDdsbkozUTFOa0Z1MGVqdklKdGFOTVY2X3hXYzBVRGI5MUM1dGpVY0laYmY1QWlNS3pzV1Nqak5FZWcyM3RBRWxsTFQ0by1wOWc?oc=5
+
+- Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal, Kerala, Odisha on alert | Live updates - The Hindu
+  Monsoon disrupts lives across India; Mumbai air traffic hit, Himachal
+  🔗 https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQU8zU255TkRrR0tud21tWDJDMHlUeWFyYWRFWnZselRBU0dDLWYwb1VSbTBrT05CT0t1dnloYTVucTBCVnJxMGFITXl1N2NPMzhkT2NtUm9UVWFGU3oyTVR0TFBacmhDbEdYR3JnZ2VwS1RSZ2sxc2VyTEFWT0F4YmNHQW1DaUhFRlhhblBzZU9DdnllaHRDVTlYalFOLTdWVHFkUDhxMHk2TVdVTWoyY0lfUDVPMlJYYTJxdlFwQnl5ZnRVTXNON3dKNnZsSnFPTkdzczYxbWZQM05sSDJYSS1FYUbSAesBQVVfeXFMUGtkVk5kRkRWcjRXbmhkQmFQYW1rNV9PMUtHa2JpRlZvVUhFS2xsT3Bxa1VPaExHREJqa0F4STBUdTFhbjk3WU9ENDY5T0FVcUNSbXc5aHVlZG42dmsyZ3NaWTVUbTczUzkzSENna2c3UEhGcUVDbm50ZDFCbFlNaC1NV1E5MFI2ZEVKZE8xTDNDYWNTUmNnY2xrLThhb0R0YWxidmh0NENMWC05aGg1M09ZRnBsWXdUa1pCVDJ4Umc3al9xdXU4VlhTUzgtQll0WmJ0djVMNXl4bE9vRlctTUpGVF9nakpQeS02SQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-05 13:23:18 UTC_
+_Last updated: 2026-07-05 19:12:38 UTC_
