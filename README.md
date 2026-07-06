@@ -1,24 +1,36 @@
 # 📰 Daily News Summaries
 
-- Hafiz Saeed named in NIA supplementary chargesheet over Pahalgam terror attack
+- Railways to run 300 special trains for Puri Rath Yatra, 100 for Onam in Kerala: Ashwini Vaishnaw
   
-  🔗 https://indianexpress.com/article/india/pahalgam-terror-attack-nia-chargesheet-hafiz-saeed-let-trf-10773860/
+  🔗 https://indianexpress.com/article/india/indian-railways-300-special-trains-puri-rath-yatra-100-onam-ashwini-vaishnaw-10773937/
 
-- Centre will start cooperative life insurance firm on the lines of Bharat Taxi: Amit Shah
+- Aerial ‘joyride’ over Patna at Rs 2,100 part of Bihar’s major heli-tourism push
   
-  🔗 https://indianexpress.com/article/india/amit-shah-cooperative-life-insurance-utility-aggregator-announcement-10773763/
+  🔗 https://indianexpress.com/article/india/patna-helicopter-joyride-rs-2100-bihar-heli-tourism-push-10774292/
 
-- Navy to commission indigenous stealth frigate Mahendragiri this week
+- The Daily Catch-Up: Deluge, Diljit and other top stories of the day
   
-  🔗 https://indianexpress.com/article/india/indian-navy-mahendragiri-project-17a-stealth-frigate-warship-commissioning-10773722/
+  🔗 https://indianexpress.com/article/india/daily-catch-up-mumbai-rain-prashant-kishor-bihar-bypoll-diljit-dosanjh-10774186/
 
-- Behind living woman’s funeral in Jharkhand: inter-caste marriage, family ‘honour’
+- ‘Day not far when Jammu & Kashmir will have a BJP government’: BJP chief Nitin Nabin
   
-  🔗 https://indianexpress.com/article/india/jharkhand-symbolic-funeral-inter-caste-marriage-chatra-10773599/
+  🔗 https://indianexpress.com/article/india/day-not-far-when-jammu-kashmir-will-have-a-bjp-government-bjp-chief-nitin-nabin-10774214/
 
-- BJP’s Rajya Sabha tally likely to go up by 3 with a no-challenge election
+- 2 Assam Rifles personnel killed in Manipur militant ambush
   
-  🔗 https://indianexpress.com/article/india/rajya-sabha-seats-bypolls-west-bengal-10773534/
+  🔗 https://indianexpress.com/article/india/assam-rifles-personnel-killed-manipur-militant-ambush-10774222/
+
+- Can frequent navigation protect against Alzheimer’s? Study offers clues
+  
+  🔗 https://indianexpress.com/article/technology/science/can-frequent-navigation-protect-against-alzheimers-study-offers-clues-10774039/
+
+- AI copyright battle: Midjourney wants Disney, Universal, Warner Bros to disclose projects
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-copyright-battle-midjourney-wants-disney-universal-warner-bros-to-disclose-projects-10774038/
+
+- Apple orders 10 million foldable iPhone Ultra units as launch nears: Reports
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-orders-10-million-foldable-iphone-ultra-units-as-launch-nears-reports-10773929/
 
 - Sony’s PlayStation game discs will still be available after 2028, but there’s a catch
   
@@ -28,177 +40,165 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-eyes-record-quarterly-profit-as-ai-memory-boom-drives-chip-sales-10773294/
 
-- Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/alibaba-ban-claude-code-us-china-ai-10772429/
+- Lockheed Martin snaps up Ultra Maritime in $3.45 billion naval defence push: All about the deal
+  The deal comes at a time when defence companies are benefiting from a
+  🔗 https://www.livemint.com/companies/lockheed-martin-snaps-up-ultra-maritime-in-3-45-billion-naval-defence-push-all-about-the-deal-11783340963138.html
 
-- Microsoft creates new business unit to help large enterprises set up tailored AI solutions
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-unit-ai-solutions-large-enterprises-10772236/
+- LIC chief sees protection plans driving growth
+  R. Doraiswamy notes a shift towards term- and protection-oriented solutions. He flags the
+  🔗 https://www.livemint.com/companies/news/lic-protection-products-strategy-r-doraiswamy-annual-report-global-economy-gst-waiver-11783343245385.html
 
-- HP EliteBoard G1a review: A computer, a keyboard, or a 2-in-1 device?
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/hp-eliteboard-g1a-review-10772127/
+- NCR market will be as big or bigger than Mumbai for Oberoi Realty: Vikas Oberoi
+  Mumbai-based luxury developer's maiden project in Gurugram drew a staggering  ₹30,000 crore order
+  🔗 https://www.livemint.com/companies/news/oberoi-realty-gurugram-three-sixty-north-11783329294883.html
 
-- Who is Maya Tata? Noel Tata's daughter to drive Westside’s e-commerce push
-  Maya Tata is the CEO of Tata Digital. She began her career in finance at Tata Capital before moving
-  🔗 https://www.livemint.com/companies/people/who-is-maya-tata-noel-tatas-daughter-ratan-tata-niece-to-drive-westside-s-e-commerce-push-11783327546875.html
+- Microsoft Layoffs: Xbox cuts 4,800 jobs and plans to spin off four gaming studios
+  Microsoft is set to impact hundreds of developers across some of the gaming industry's most respected
+  🔗 https://www.livemint.com/companies/news/microsoft-cuts-4-800-jobs-as-xbox-unit-downsizes-and-plans-to-spin-off-four-gaming-studios-11783342793362.html
 
-- Suzuki Motor arm Next Bharat Ventures launches  ₹2,000 crore second impact fund to back rural entrepreneurs
-  Next Bharat Venture’s second fund will focus on agriculture,
-  🔗 https://www.livemint.com/companies/news/suzuki-motor-arm-next-bharat-ventures-venture-capital-india-startups-11783319829258.html
+- India office market defies global turmoil with GCC-led leasing
+  The office market logged record H1 2026 leasing of 45.5 million sq ft. GCCs alone accounted for 43% of demand, with CBRE expecting them to drive over 40% of full-year
+  🔗 https://www.livemint.com/companies/news/india-office-market-defies-global-turmoil-with-gcc-led-leasing-11783167834495.html
 
-- True North cashes out $2 billion for investors as PE firms step up exits
-  This comes on the back of exits from portfolio firms like FedFina, Niva Bupa, Biocon
-  🔗 https://www.livemint.com/companies/news/true-north-private-equity-limited-partners-startup-investment-india-11783273204186.html
+- Rentomojo gets SEBI nod for raising funds through IPO launch. Details here
+  Furniture rental startup Rentomojo has received SEBI observations for its IPO. The IPO aims to raise up to  ₹150 crore for expansion and debt repayment.
+  🔗 https://www.livemint.com/market/rentomojo-gets-sebi-nod-for-raising-funds-through-ipo-launch-details-here-11783348145301.html
 
-- Epigamia to expand production capacity as value-added dairy market heats up
-  Epigamia is expanding manufacturing capacity as its new CEO and COO settle in following 50% growth over two years. Greek
-  🔗 https://www.livemint.com/companies/start-ups/epigamia-verlinvest-production-capacity-expansion-value-added-dairy-market-manufacturing-plant-greek-yoghurt-11783273177012.html
+- Q1FY27 IT earnings preview: Brokerages see mixed quarter as AI, macro headwinds weigh on growth
+  June-quarter earnings season begins amid muted expectations for tech companies due to macroeconomic uncertainty and AI disruptions. Analysts foresee weaker Q1 FY27 growth.
+  🔗 https://www.livemint.com/market/stock-market-news/q1fy27-it-earnings-preview-brokerages-see-mixed-quarter-as-ai-macro-headwinds-weigh-on-growth-11783340273440.html
 
-- Lenders temper Vi business plan, seek group's guarantor for massive loan
-  Lenders are prevailing upon the company to scale back its financial projections. They are also demanding a corporate guarantee from another Aditya B
-  🔗 https://www.livemint.com/companies/news/vodafone-idea-vi-lenders-business-plan-loan-guarantee-aditya-birla-sbi-11783239174672.html
+- Wall Street edges higher as chip stocks rebound
+  The S&amp;amp;P 500 rose 0.4%, the Nasdaq Composite gained 0.
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-as-chip-stocks-rebound-11783345550088.html
 
-- S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
-  S&amp;P 500 and Nasdaq futures extend gains after a
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5
+- US stock market today: S&amp;P, Nasdaq futures jump up to 1% as tech stocks recover; crude oil extends decline
+  US stock futures rose, led by gains in tech shares and falling crude prices. Nasdaq 100 futures rose 1%, while the Dow remained stable.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-nasdaq-futures-jump-up-to-1-as-tech-stocks-recover-crude-oil-extends-decline-11783334605387.html
 
-- Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week - Yahoo Finance
-  The S&amp;P 500, Nasdaq
-  🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxOY18wb0pOSlhyNk1jSU1HSmJZZm0xY0RNc0xmTkhfTEg4RFNsQV85dnBzUzJqQ0IxMENFWElUUG95S1JlWVRDNm9xYy13ek1lOG5WaFdZVU43OV9KVmx1N2JqR1owamlTa2FIOWdEdHBVU0RvakxnTlJhazV0WTNfRWp4SU1RMkpJUjEzOUNzckJDREd0Sk9DbQ?oc=5
+- Ather Energy Is said to plan $200 million India share sale
+  The electric two-wheeler maker has appointed HSBC Holdings Plc, Axis Capital Ltd
+  🔗 https://www.livemint.com/market/ipo/ather-energy-is-said-to-plan-200-million-india-share-sale-11783339172273.html
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex jumps over 550 pts, Nifty above 24,400; auto,... - The Economic Times
-  <ol><li><a href="https://news.google.com/rss/articles/CBMilAJBVV95cUxOb0d6Y25YQ04ya0VlZGN2eWN1SnBqcVNabEZNc2RwbDhMbkdES3V6aGdZd0UweXJHXzJWUHVua2RZMG1xekxrckJNcDFtamp0WUViR2FjN1R0Nm45UTdISnNJQ1dPeVJWTF
-  🔗 https://news.google.com/rss/articles/CBMilAJBVV95cUxOb0d6Y25YQ04ya0VlZGN2eWN1SnBqcVNabEZNc2RwbDhMbkdES3V6aGdZd0UweXJHXzJWUHVua2RZMG1xekxrckJNcDFtamp0WUViR2FjN1R0Nm45UTdISnNJQ1dPeVJWTFV3Z3dfRjlST3EwOWV2S3BkWVhFSnR1YlUxZWJvRXRuZEpCLVBpeldHYURIbVRhTDZSUnF4cUljbk5ibUNWTFlCRHVBUjlEYWNEb2hVWDluRVdSSWdFZml3OG1GVW52MktpWWlITlc4cmRsZV9VajkzWXFPV3ROcU10bjlraXR1Rzk2SV9UYV9LZjJsbWdVTVkxRWRRR0NTclRMckpzcjNHcGtKdHo4YzBwUDnSAZoCQVVfeXFMTnM1QmNPMjJjd1JfbDh5MFMyTzVXZlI1akVUdHNTcTVXSllPYWxmSFBNS19vTWM1NVNMSkNpd2QzMWlsU3EwTTRTVHlfUU1qQkZNMmwtVlFuZGx4bGpyMXBqT2NFMUhaZm40b1ZfNm9JMlFqUzJIQXdtdkZyRjNQeGdpUVBGYTFUTHZZZjh1Q1Q3VVBmemlrTGxNV2pZeHlZTS1FTVhOZmxWdHpua1FKLVhFNnBMSEJnTjBlTDNSZzg4SlJhTDhHWTUzUGVwMy1Jb3MwdmFJRHl3YnVVcTJ2N05xUWVCamZCT0VkclpVN0NiXy1wazViYkNVbllyQkFMRC1wU2RveVVDRElHMFRBeGloV1BIV1R3WXZB?oc=5
+- Apple could bring back its iPhone X playbook for the iPhone Ultra
+  Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-
+  🔗 https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html
 
-- Stalled AI Rally Has More Eyeing Old-Guard Stocks: Markets Pulse - Bloomberg.com
-  Stalled AI Rally Has More Eyeing
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXlnTTFBdnBDMUNQbVdOeFhrQzk0VmJRNFRBdDYzSWdBbjR5WlI1Q3dhX0pBUWVGcHJEMUVlc3FDVjZKNWpfSUZOVWJsRjlTMDdxWUVuRzRMcU5CeFBDdzNuY1haLThYWkdLRnJ1TlFxWnRFdjRiOXVTOXRFdkJxM1FHcTBpS0ZoMFJBNDRlYVZkUFAyYktuSjQ1WTRNZ2d3dnBvRHNFS29wODgzbFFwWFQwOFk?oc=5
+- New AI agent can hack systems and deploy ransomware without human help
+  JADEPUFFER exploited a critical vulnerability to infiltrate systems. A new report reveals that AI agents can autonom
+  🔗 https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html
 
-- A global hub for fake luxury goods, Vietnam cracks down on its black market - BBC
-  A global hub for fake luxury goods, Vietnam cracks down on
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE90VWJvQXpEd1loeWpZWm41MXY0NVludEZ4c1VicWF5a0dqYXE5UGpQLTVWdTFoZG9VRjNrTmJtMXN0M1Vfelh3cEJrd0JvVzBMdTliczFZczFmQQ?oc=5
+- iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know
+  Apple could be teasing a new AirPods Pro with cameras with the
+  🔗 https://www.livemint.com/technology/tech-news/ios-27-beta-2-leak-reveals-new-clue-about-apples-camera-equipped-airpods-heres-what-we-know-11783218215836.html
 
-- Mumbai University draws flak for using 'AI-based technologies' for creating study material content - The Times of India
-  Mumbai University draws flak for using 'AI-based technologies'
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzBNSm83VTlxVERSWVRLUGhiYkhVajVmMWR6Z0lUVXBtTVctRW5QQm05YkFMN3lOLWpKMlZsRThRRHltTV81STJOY0kwWXZKVGg2VlFkeVRUVjByMTcza1RjUmZYTjJmcmdRYTU0NnJ3bFIyRFFLUlR4eXRtYmlXR1hZc1RGWG1xNXJDVXBaTWNhN0Fwb0VZVFBHUlNjemhjUGc1cU9CNWdfUGhzSUw0ejkxSE1kS19qVEhUNkYtM2hJaUd5Y1ZxbVZ0Y043UUtwU2VYVmd3VmpsZGE4M0hETllYTml2djA2bDJBUVdFdUNqNTF2ZnQyTWtjMnRIMEoxNHhn0gGIAkFVX3lxTE16ZUUzSzZScTVMS2V4RWhuMkx5em11Uk1SX2oxZ2JBOGVDMzBsNzhSUFQ3Z2czWVhfcXdEQVhMcXBweF85T25IYlVnSl9iTmo3TVdVQ19FUWpjM3dQRW8wVW85YkUxT240d1ZUQS1QbV9vdlBnUXRHTy1Cc1BVd0tqVmtfbXVlRTVzTmgzYmtZMmU2S2lxYTlXN3VJTHp6Tl82MHdubjFMZEtzbUdMemQxS0p6VEdzX0w5aTlRSnJ2NEJKMy1GdHRSZ2xTeW9XRVl6TTBybVVtZ2xYRkEwYnVPZ1dON2NrMUduaHdYblQtLWluYTNrM3VYLW9Zd1hYd2pzckx4akVpaA?oc=5
+- WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
+   WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-usernames-will-they-make-indias-digital-conversations-safer-or-less-trustworthy-experts-weigh-in-zoho-signal-11783060388147.html
 
-- Hormuz Trap: Four Technology Deficiencies Stand In The Way Of India's Energy Independence - Swarajya
-  Hormuz Trap: Four Technology Deficiencies Stand
-  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFQxMUpRNi0zZEpjVjdsbVFxOXhVOVJLV0ZoU3AybndNbUktdE02ZWd5bGdPZExCRW9tX05BRnFTR0lpS2wyVWpkY0xNbHY4S3M3QUw5cGlkWWZIU0dlQW1EMEQwUXgzOTEwWERER19NUFBoUXliWkxZTHpCU1VqVWh5X3BGY3hoSUdpRTltOE1tdm9oTGRmdXNCWWl4bGNBSVFMZW4xeEFnWGtlTGlqa2xEYW9XNmotNm5r0gHLAUFVX3lxTE1CMnhOcmFjVDI2Q3Mxc3BYZ3EwQXBHRjViUTBpMzhnVklIWjk5QWRpcGViSVpfaXo5VnRETE84dXRvWlVBVDdVdmRRWk1NMHg3VV9KcVk5WDRRT3NlZnFvQWV2dkN6d2tFZ0lWWFQ0Z2FaTzBDNXI4T0NGU1Y4b0pEbm5UZlhoNWF6YzNIYWIxa2M5dUNOaFFmSmFfak94b3FnSGJwVHk3cTJNU2RnOGtfRzZQcWo5dWVISkIxUWZ4ZDdKcmxzbkRtSnFJ?oc=5
+- WhatsApp username row: Zoho's Arattai to disable username feature
+  Zoho's Arattai will remove its username
+  🔗 https://www.livemint.com/technology/tech-news/whatsapp-username-row-zohos-arattai-to-disable-username-feature-11783058599480.html
 
-- Technology and talent transformation at TAFE - BusinessLine
-  The company is
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0thNUUxR1RkV01sOHVFcGRMNzg0Wld6ZUNldGJqX1FzNTZoVGstZEVWUW5MWEEweHVHa3JMdXprMEd2dUNSclRpVnRPUnBFRnppcWkwLXhyUC1GdVlrdE10dWpDRk1kVzAxcndwSWpFckVhZDRzSjFXWVhtdVF2U2RlVzJEaEFRd2I2NjhZaEVBSHUzUW9EWVdNRXhQd2JpRkdGVlR4SmZWX2pHVU9Ja25qbUxlVElMQTR4Z3hJUW5Db0XSAcoBQVVfeXFMUFlCS0ZEQXRHbzlmRjFmLU1oWk1IcGRjSmxEQmlsQXdNT0pVTGY3LTI3MDN0MXdwdVJDN2hBTUp6OTlEVDl5TUVTNDhjcnh2RkdiTExMcmJ6M3FHZ3FTTWgwaWRfdjI5Y1ZaY2RzeDI4OEIycVI2bjN5ZjFRa3pWUnN3U19RODVjdWlqMHVzeEMwSURkMUZMem1KZGZIa1l2LTZ4NFNINkFqbnk5TW5naDN1YXZtVlFYUFhBN1h2Q2MtQm5wdkkwN2E0UQ?oc=5
+- SK Hynix's $28 billion US IPO to test its $1 trillion AI rally. Here's how
+  SK Hynix has launched a US share sale targeting about $28 billion through a Nasdaq listing. The proceeds will fund semiconductor expansion.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynixs-28-billion-us-ipo-to-test-its-1-trillion-ai-rally-heres-how/articleshow/132219088.cms
 
-- AI job disruption has come for Ireland’s technology sector - ThePrint
-  AI job disruption has come for Ireland
-  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3lkc0RXZTFVbEE0SF9PSEcydkYwb1dWQ2tWM05yaHhXT21lV0xpYVgyWEptV01obkRDMWpzLVpJWDh4NWhaZ09EYktzZWJWMWx3WDdFblRJY04wV01lT1psMTFPNkxDTTFjeTFWM2RRa0pVMTBJb1d3WFZDTkNVMC1ZRU1pbmpycm1iLWxMYkQxQm9oVGNj0gGcAUFVX3lxTFB6QmpVNzFwTWJKUVpDR1BtLURmaFFRVnd1c3dEQTlyTzBHX3Q3Um4zc2RabEs2NE5OZklsb1o2ZzJtcG1tMDE3SkNJbmh3MmFDSEt4SWstZXVSdnE1NmxCRTIyY3hVaUZhbWE3b3BNRzd0LS0zZGw1TGhLT054RWtTZTFWajR1ajl0Q1lvZFhNNF9ESzdtRHp1R0lLVQ?oc=5
+- AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says
+  Morgan Stanley has recommended a strategic pivot in market investments. This shift is fueled by expectations of reduced rate hikes and a decline in oil prices. As major players invest significantly in AI infrastructure, investors are seeking tangible outcomes.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-investors-may-pivot-to-hyperscalers-from-chipmakers-morgan-stanley-says/articleshow/132218137.cms
 
-- Dreame Technology Expands Smart Living Portfolio in India with the Launch of the Affordable High-Performance L50 Plus and L50 Robotic Vacuum Cleaners - TheWire.in
-  Dreame Technology Expands Smart Living Portfolio in India with the Launch of the Affordable High-
-  🔗 https://news.google.com/rss/articles/CBMilwJBVV95cUxNRlpvWHRDejhLRWV3NXBYLUxqdUdGMmtKSlcwS2JYaGgwN2RyMzZkUTZJdTFiZ0FCMUVTRFVZeDk0OFlPNG5md2NUYVZyMnBKY3hmWlBUNXJ3emhVbXRxSGZNOTFIZDY2RGRaeng5ckpSWGU2enZTdGNQZUE0b3NKRGFuTjNBYmIzWXQtbzhRaGFiQW9fbFRocW96R1JZZVJIWHZiU0VBU21MSENtS1U5OVFqVUVoR1VPNHlsQ2taWEI2bFNsQlZGdG5sbi01eDRlUEtjRTl3NlphWThiVjhKc05kU3RvSmVqWFNielQ4MWRjLS1zV0tjZzd3dThYbmVyZnVtMXlFc3Rua2hmaS1rc2s0WnZ2blXSAZwCQVVfeXFMTzNnbGhZbG1sMHJZMmh2OGY5ZENOSlF5cjRXVkRqc3pzQjhsb1JyV1NqRUp1VFh1Zm45dWJMenBtT3JJU0piLU53VVBwdGNrcmxIVlNuQW9kTElkVUJLeFRpbXMzQ1NyY3ZTbmNSMTYxTnNfMDFtN2JiUnZRLTVXbXV1MXE4MWVUbnpuLUp1TG9pUUFpWG11SHBpckxYSnVwb3UtbEx0SFhZR3dMYkt6LWhJdFptbzQ1TXQydExmZVVaNUpWLWdtcUdHSmJkX3J4V1JpRmJjaUtrSnFCOE8zaExuSlI3NVlOSHZaUk14bS1GMFZsajhXX3hqQ2ROQlBuT1JjWDJrNklaWWNKU2NTOHVHV0ZRVWc1TDJsTVY?oc=5
+- Trump rings Wall Street's opening bells as he ties his presidency to stock market gains
+  The initiative promotes "Trump Accounts" for children's investments. Inflation, however, continues to impact public approval.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/trump-rings-wall-streets-opening-bells-as-he-ties-his-presidency-to-stock-market-gains/articleshow/132218009.cms
 
-- Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report
-  India's market regulator is set to nearly double the number of stocks available for short selling. Collateral requirements are also slated for reduction. Move follows past tightening of rules and seek to include more liquid shares.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-aims-to-ease-shorting-by-nearly-doubling-stocks-eligible-for-borrowing-report/articleshow/132213829.cms
+- India's office leasing hits record as multinationals expand despite global uncertainty
+  In the first half of 2026, India's office market saw unprecedented growth, with a staggering 45.5 million square feet leased. Despite global challenges, India stands out as an attractive locale owing to its talent pool, cost benefits,
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-office-leasing-hits-record-as-multinationals-expand-despite-global-uncertainty/articleshow/132217778.cms
 
-- Raymond shares rise 4% after former BEL chief joins defence business
-  Raymond shares rose nearly 4% after the company appointed former Bharat Electronics Chairman and Managing Director Bhanu Prakash Srivastava as CEO of its defence business.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/raymond-shares-rise-4-after-former-bel-chief-joins-defence-business/articleshow/132213306.cms
-
-- Nomura names M&amp;M, Hyundai, Ather Energy as top picks after June auto sales; says EV penetration at inflection point
-  Nomura remains positive on India's automobile sector after strong June sales. The brokerage expects continued momentum driven by new launches and improving charging infrastructure.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nomura-names-mm-hyundai-ather-energy-as-top-picks-after-june-auto-sales-says-ev-penetration-at-inflection-point/articleshow/132212635.cms
-
-- FIIs bet on midcaps: 10 stocks that surged up to 70% in just 3 months
-   Relaxo Footwears, BHEL, Motilal Oswal Financial Services and Bank of Maharashtra were among the top performers. Several midcap stocks delivered strong gains after FI
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/fiis-bet-on-midcaps-10-stocks-that-surged-up-to-70-in-just-3-months/slideshow/132212218.cms
-
-- 10 Nifty stocks Motilal Oswal recommends buying ahead of Q1 results. What can shareholders expect?
-  Motilal Oswal expects Nifty earnings to grow 10%, the fastest pace in four quarters. The brokerage has identified 10 stocks, including Bharti Airtel, SBI, ICICI Bank, M&amp;
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-motilal-oswal-recommends-buying-ahead-of-q1-results-what-can-shareholders-expect/articleshow/132211533.cms
+- US stocks today: S&amp;P 500, Nasdaq gain as chip stocks rebound
+  U.S. markets were mixed, with the S&amp;P 500 and Nasdaq rising on a rebound in chip stocks. Investors are focused on upcoming Fed minutes and the start of earnings season.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-higher-as-chip-shares-recover/articleshow/132217728.cms
 
 - "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
   "Could Be Misused By Anti-India Forces":
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
 
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Have support from India: Netanyahu counters Vance - The Hindu
-  The Hindu reports that the
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDF0dnRVUEFWYW5jTlYzMTRZMjhaMGVPZ19vVEZOVTl4dzBqR0ZwX3R3YXJ1MG11WDhLeV9lTWtpenE5WjdxNzlPY0tmX1hpWUpQM3g5dF9RVWxHNURfTV9TSWxKeFJCQm0zckxHanZPb1k1TnoxWUdwOTFCUmlUOU5qQnZ2WUtLVnluVktLcTdkYTdpM2t3bmo3clJSNEVEMkNFb3NINTlQRzdiN1djczR30gG4AUFVX3lxTE5YbE9rNWNDMFhncENERVVhcU9yVlVlSklOdmtaVTdrRm5jN0dQQzJTV2Mza3BLWHd6QWYwWG9pUDQzeTZWWkdqV3lwRnMyQ2dhb2U0NExEUVBVLTFHQnRFUEN2QkotMTBsTUs3RDZYNWRTWW5IdUk1Qjc5MFkyNFZXSUxKMlp1ekIwaWZPcFdLY3UtRTdZY1ZWbk12OGRnelFEX2Y3dlh4RWdrT3hNay1xWWY0WVI5NmE?oc=5
+- Delhi Records Hottest July Day In 2 Years At 38.6 Degrees Celsius - NDTV
+  Delhi Records Hottest July Day In 2 Years
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemNpNEtZZkt0SXZnT1J2OHpDV2NVWlBjYWZSYl8wQzR0d3F1VDlZYTVKMEhJQVpydGcxdks0WU1Hak4wX2xCMUpIZERLVkUwNXBDYWpydmszY0dZXzVEMEVmUXRBU0hwc3hvOUpSYm94MnZ5eXFuVlhONGtSNmlfem9nWWxxaFRqSlF4UnF4T3RKTVhyQWlhVkNaRVlCbWxKRmFhaWRSRjhfZ9IBsgFBVV95cUxQSzdyblJlTTctM0hadlF3Yy1RNnJSRXpRUXd4cFZ0MTFHYXlhM0NBclN0dkJ4VEtTdjdEQUF0Tmc2Z1FfbzBxU2R4T1daTFFqU2tpMjhtUFl4TjFkQk9lX0NESTFqTWF4bjhNRTY0M21MckM5djJzenJDOVozNEZJQnh2UTJKMXQ0bWdyN1UwTXJVNFJXSnlGZ1pITWk0enhyN0VaQUtrMGtUcjJKYUgyNWdR?oc=5
 
-- 'Tremendous support in India': Netanyahu denies US being Israel's only ally, counters JD Vance | India News - Hindustan Times
-  'Tremendous support in India': Netanyahu denies US being Israel's only
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVh3YkdOUHZ0QXY1M09QUnJ5YTNtcUJYSG5VZVJGMXNLRTgxZmtzOXJZOTRIckdTeDI4TFR2NFdvSjR1V3JsTGxaSjdIaXA4d01uZ0JNWmIxcUtFeERYQldZbWF2ZnExMDBkMTNGOWNxcnhNMTBweHp4d1ItUEF1b3IxN2Q5NU5BVkhTel9iaWstSXgxV0tIdTdJYnBvN2NJWjhRVE9XM19FRUxobkhlcVBLdklhTUV5TXdxUUJWNEhvMC1rQk1wcFFJVVB3XzAyNlJPbVRtMWdFbFBMUk9pRmVSN3poellnTG9CX2lqZHdOSnBFN0xGZlEzLTJsNzd2eFYw0gGIAkFVX3lxTFBCX2VhajVtcDljdFFycTBxaDJ5d0ZRQktCQWZJTmpnNFBpQ3dqSkVwcWNpbmg2Mm55ZS1pb05fYWtOQlZ3ZC1NN3A2ajE3Qm5zMzRuRWYyM3Zoc2pYS1daMEM2NzBCZ3poWlNTc3ZXaGFpaFJsNFluQzE5eXR4aEdCVHJtRlNya3J6Y180NFpNRkk4bHI5QTJyN29QTVUxRVctaUhQRk1QajNkN0pZRFdXVUYxeUpSVVdRXzEzaklEOXk3V25INU5iQWhoeE01a0xXeDlKUG44MlBIdGh0SG1ZRmNVRTRBOXZ0YWV4anpGX3lYQS1kTFVZdkF2VWVnLW9lNlAxTGYtWQ?oc=5
+- 2 Assam Rifles Soldiers Killed In Action After Convoy Ambushed In Manipur - NDTV
+  2 Assam Rifles Soldiers Killed In Action After
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdG1JSlV4eUFQOUU2MXNVTXo0VFZlZnlGcTlMZTNMeVE4Y2hnemFTbjI2YkRDODI4R2c2aGRxRzV1OWtmNkhod19PZUl5Umk5NkZPdWVIVVJXaldNNlh2VDh2dXZ6czRGRkpYZG04UXNZa21IdjZuU2p5bUIxTnRINUZyTjhIdER1TzlsUEc1VmpZTV9zVmdCWHloRGo1clZlWDE3ZzhJRVdSUFdMRGMtV0lFVEvSAbwBQVVfeXFMUE1uNWhpeTRwWEpzU0RVVE5YSURIc2hpUXF1VlZUZkJybFJmVWFIZXRPNm54ZlVxa0tjZEl3TDZxOHhTb3BmTVU3RjFHM2FMWXR2UUxKbDgtRHVHd0NZZk5fcDZsTHNtSjFHSmNfc25FYU00Q2xCVXM0djZkM0cxY0ZvZGMtb19ndEJfYzRDa3ltUXZ4VHkxYk9ZRmV1RDFnWFV4bXlNUWdLenVMejc4VlVycGJnNlN1Q3NOTTg?oc=5
 
-- O.P. Jindal Global University Hosts 3rd India–Japan Higher Education Forum 2026 In Tokyo - Live Law
-  O.P. Jindal Global University Hosts 3rd India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWl6cXBwand6eXBPYjZqNC1qU09iX2RnQTRiTFFRVnRobjZBazROVC1INUVGcXJrVUdnd1lkMzVKMXJULUt6d0Q2SDMxaDI1UTJCN1BORGNlLWZwMkh3VERpSzNqNUJhTjZqT0JaOXJzR1k5ZnNMUkU5YUZRckFRcTlLc0F2bkZkMEZOV05sYWI2THY3R2VUZEdRb3FKRkNQdmF6ZzZsU2NyUTJ0b2JZdkdXQktPODRzMFVfNXpqVGVnR096R2fSAcsBQVVfeXFMTlRBSFlSTGVVdEtxUnVKd3VtWmYwNWdvN0pmb0ppa19QRGpvdEJYZ1FOOUVBQ2pYZWg0WHVpMDQzeDhrMnp0RGg4VVJaNFUtZTZmOUdqbmg0eGpobk9tY01BOHdXelhtTjV5UUROM3ExMW4xdmZlSUROdDFPRDBMclE1Vnc5V2lzckZzWHZjY3VKQVZrcXF1SVFsUTNoa0FDN3RyUU9JWV9sSDBFbFJ5cV9DeUk4Tlk1LWdDV3R2V3JVWlZucE4xSUpKVjg?oc=5
+- Video: Lion Clenches Gujarat Man On Ground For 30 Minutes - NDTV
+  Lion clenches man on ground
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPd0FiLUo1M0VVcE9kY0hwOXNZaXNQSGtadXY2WHRiclJEcnFUeTZsS284a2oyekktbVZhRm5RWXh5Z055NkQ4QXUyOWpOQjgwWEVGWW1aZDljSEZFbzRDU2xrQ0tLWXJid2NTaHc0MnZad2VISHBCR3JqYlhkR2pib2pVUlVTQUhjN1gwUWxMY05lRWo1U0JxYmZUWnZ2QdIBpgFBVV95cUxOX09oSFR0OGJnekRIbE9DZllXTWdTVmRVSTcwMkh2VS1jXzV5VnZYNlBNaDllb1hSeEtKWkhnNFhiVmRIUEdDNkg0ckktWnRJSkZGczQ5ay1KWmdFTzI5aldQUlRQMXRWWFR6ZkIweExleTVIRlJZdHdQUFJyQjhWUGtCbll0VkxfSmh2d0ZLRnV6a0VQMzNJY2c5dzBTZHJoaFhkMjRR?oc=5
 
-- Apple Restores Card Payments For App Store, iCloud In India: Report
-  Apple has reportedly resumed accepting credit and debit card payments for App Store purchases and subscription services.
-  🔗 https://inc42.com/buzz/apple-restores-card-payments-for-app-store-icloud-in-india-report/
+- Flipkart Launches Second ESOP Liquidity Event In 12 Months
+  Walmart-owned ecommerce major Flipkart has announced its second ESOP liquidity event over the past year, allowing eligible employees to sell.
+  🔗 https://inc42.com/buzz/flipkart-launches-second-esop-liquidity-event/
 
-- Enterprise AI Startup C5i Files Confidential IPO Papers With SEBI
-  Data analytics and AI startup C5i, erstwhile known as Course5 Intelligence has filed its draft red herring prospectus.
-  🔗 https://inc42.com/buzz/enterprise-ai-startup-c5i-files-confidential-ipo-papers-with-sebi/
+- RentoMojo Gets SEBI Nod For IPO
+  SEBI has cleared furniture and appliance rental startup RentoMojo’s IPO.
+  🔗 https://inc42.com/buzz/sebi-greenlights-rentomojos-ipo/
 
-- Nykaa Shares Hit 52-Week High After Bullish Q1 Growth Outlook
-  Shares of beauty and personal care (BPC) major Nykaa surged over 3% to hit a fresh 52-week high of �
-  🔗 https://inc42.com/buzz/nykaa-shares-hit-52-week-high-after-bullish-q1-growth-outlook/
+- Capillary Technologies’ Subsidiary Hit By €3 Mn Cyber Fraud
+  SaaS company Capillary Technologies announced that one of its “recently acquired step-down subsidiaries” has been hit by a cyber-enabled banking.
+  🔗 https://inc42.com/buzz/capillary-technologies-subsidiary-hit-by-e3-mn-cyber-fraud/
 
-- Zeta Founder Bhavin Turakhia Launches Enterprise AI Startup Neo
-  Zeta founder Bhavin Turakhia has launched a new AI startup, Neo, with a personal investment of $30 Mn.
-  🔗 https://inc42.com/buzz/zeta-founder-bhavin-turakhia-launches-enterprise-ai-startup-neo/
+- Exclusive: Graph AI In Talks To Raise $14 Mn From Insight Partners, Others
+  Pharmaceutical-sector focused AI startup Graph AI is in talks to raise $14 Mn (about ₹133 Cr) in a Series A&#8230.
+  🔗 https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/
 
-- Next Bharat Ventures Launches ₹2,000 Cr Second Impact Fund
-  Suzuki’s Next Bharat Ventures Launches ₹2,000 Cr Second Fund For Indian Impact Startups.
-  🔗 https://inc42.com/buzz/next-bharat-ventures-launches-%e2%82%b92000-cr-second-impact-fund/
-
-- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
-  "Could Be Misused By Anti-India Forces":
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
-
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
-
-- Have support from India: Netanyahu counters Vance - The Hindu
-  The Hindu reports that the
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDF0dnRVUEFWYW5jTlYzMTRZMjhaMGVPZ19vVEZOVTl4dzBqR0ZwX3R3YXJ1MG11WDhLeV9lTWtpenE5WjdxNzlPY0tmX1hpWUpQM3g5dF9RVWxHNURfTV9TSWxKeFJCQm0zckxHanZPb1k1TnoxWUdwOTFCUmlUOU5qQnZ2WUtLVnluVktLcTdkYTdpM2t3bmo3clJSNEVEMkNFb3NINTlQRzdiN1djczR30gG4AUFVX3lxTE5YbE9rNWNDMFhncENERVVhcU9yVlVlSklOdmtaVTdrRm5jN0dQQzJTV2Mza3BLWHd6QWYwWG9pUDQzeTZWWkdqV3lwRnMyQ2dhb2U0NExEUVBVLTFHQnRFUEN2QkotMTBsTUs3RDZYNWRTWW5IdUk1Qjc5MFkyNFZXSUxKMlp1ekIwaWZPcFdLY3UtRTdZY1ZWbk12OGRnelFEX2Y3dlh4RWdrT3hNay1xWWY0WVI5NmE?oc=5
-
-- 'Tremendous support in India': Netanyahu denies US being Israel's only ally, counters JD Vance | India News - Hindustan Times
-  'Tremendous support in India': Netanyahu denies US being Israel's only
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVh3YkdOUHZ0QXY1M09QUnJ5YTNtcUJYSG5VZVJGMXNLRTgxZmtzOXJZOTRIckdTeDI4TFR2NFdvSjR1V3JsTGxaSjdIaXA4d01uZ0JNWmIxcUtFeERYQldZbWF2ZnExMDBkMTNGOWNxcnhNMTBweHp4d1ItUEF1b3IxN2Q5NU5BVkhTel9iaWstSXgxV0tIdTdJYnBvN2NJWjhRVE9XM19FRUxobkhlcVBLdklhTUV5TXdxUUJWNEhvMC1rQk1wcFFJVVB3XzAyNlJPbVRtMWdFbFBMUk9pRmVSN3poellnTG9CX2lqZHdOSnBFN0xGZlEzLTJsNzd2eFYw0gGIAkFVX3lxTFBCX2VhajVtcDljdFFycTBxaDJ5d0ZRQktCQWZJTmpnNFBpQ3dqSkVwcWNpbmg2Mm55ZS1pb05fYWtOQlZ3ZC1NN3A2ajE3Qm5zMzRuRWYyM3Zoc2pYS1daMEM2NzBCZ3poWlNTc3ZXaGFpaFJsNFluQzE5eXR4aEdCVHJtRlNya3J6Y180NFpNRkk4bHI5QTJyN29QTVUxRVctaUhQRk1QajNkN0pZRFdXVUYxeUpSVVdRXzEzaklEOXk3V25INU5iQWhoeE01a0xXeDlKUG44MlBIdGh0SG1ZRmNVRTRBOXZ0YWV4anpGX3lYQS1kTFVZdkF2VWVnLW9lNlAxTGYtWQ?oc=5
-
-- O.P. Jindal Global University Hosts 3rd India–Japan Higher Education Forum 2026 In Tokyo - Live Law
-  O.P. Jindal Global University Hosts 3rd India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWl6cXBwand6eXBPYjZqNC1qU09iX2RnQTRiTFFRVnRobjZBazROVC1INUVGcXJrVUdnd1lkMzVKMXJULUt6d0Q2SDMxaDI1UTJCN1BORGNlLWZwMkh3VERpSzNqNUJhTjZqT0JaOXJzR1k5ZnNMUkU5YUZRckFRcTlLc0F2bkZkMEZOV05sYWI2THY3R2VUZEdRb3FKRkNQdmF6ZzZsU2NyUTJ0b2JZdkdXQktPODRzMFVfNXpqVGVnR096R2fSAcsBQVVfeXFMTlRBSFlSTGVVdEtxUnVKd3VtWmYwNWdvN0pmb0ppa19QRGpvdEJYZ1FOOUVBQ2pYZWg0WHVpMDQzeDhrMnp0RGg4VVJaNFUtZTZmOUdqbmg0eGpobk9tY01BOHdXelhtTjV5UUROM3ExMW4xdmZlSUROdDFPRDBMclE1Vnc5V2lzckZzWHZjY3VKQVZrcXF1SVFsUTNoa0FDN3RyUU9JWV9sSDBFbFJ5cV9DeUk4Tlk1LWdDV3R2V3JVWlZucE4xSUpKVjg?oc=5
+- PhonePe Insurance Arm’s CEO Vishal Gupta Steps Down
+  PhonePe Insurance Broking Services’ CEO Vishal Gupta has quit and founded.
+  🔗 https://inc42.com/buzz/phonepe-insurance-arms-ceo-vishal-gupta-steps-down/
 
 - "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
   "Could Be Misused By Anti-India Forces":
   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
 
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Have support from India: Netanyahu counters Vance - The Hindu
-  The Hindu reports that the
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQbDF0dnRVUEFWYW5jTlYzMTRZMjhaMGVPZ19vVEZOVTl4dzBqR0ZwX3R3YXJ1MG11WDhLeV9lTWtpenE5WjdxNzlPY0tmX1hpWUpQM3g5dF9RVWxHNURfTV9TSWxKeFJCQm0zckxHanZPb1k1TnoxWUdwOTFCUmlUOU5qQnZ2WUtLVnluVktLcTdkYTdpM2t3bmo3clJSNEVEMkNFb3NINTlQRzdiN1djczR30gG4AUFVX3lxTE5YbE9rNWNDMFhncENERVVhcU9yVlVlSklOdmtaVTdrRm5jN0dQQzJTV2Mza3BLWHd6QWYwWG9pUDQzeTZWWkdqV3lwRnMyQ2dhb2U0NExEUVBVLTFHQnRFUEN2QkotMTBsTUs3RDZYNWRTWW5IdUk1Qjc5MFkyNFZXSUxKMlp1ekIwaWZPcFdLY3UtRTdZY1ZWbk12OGRnelFEX2Y3dlh4RWdrT3hNay1xWWY0WVI5NmE?oc=5
+- Delhi Records Hottest July Day In 2 Years At 38.6 Degrees Celsius - NDTV
+  Delhi Records Hottest July Day In 2 Years
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemNpNEtZZkt0SXZnT1J2OHpDV2NVWlBjYWZSYl8wQzR0d3F1VDlZYTVKMEhJQVpydGcxdks0WU1Hak4wX2xCMUpIZERLVkUwNXBDYWpydmszY0dZXzVEMEVmUXRBU0hwc3hvOUpSYm94MnZ5eXFuVlhONGtSNmlfem9nWWxxaFRqSlF4UnF4T3RKTVhyQWlhVkNaRVlCbWxKRmFhaWRSRjhfZ9IBsgFBVV95cUxQSzdyblJlTTctM0hadlF3Yy1RNnJSRXpRUXd4cFZ0MTFHYXlhM0NBclN0dkJ4VEtTdjdEQUF0Tmc2Z1FfbzBxU2R4T1daTFFqU2tpMjhtUFl4TjFkQk9lX0NESTFqTWF4bjhNRTY0M21MckM5djJzenJDOVozNEZJQnh2UTJKMXQ0bWdyN1UwTXJVNFJXSnlGZ1pITWk0enhyN0VaQUtrMGtUcjJKYUgyNWdR?oc=5
 
-- 'Tremendous support in India': Netanyahu denies US being Israel's only ally, counters JD Vance | India News - Hindustan Times
-  'Tremendous support in India': Netanyahu denies US being Israel's only
-  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxOMVh3YkdOUHZ0QXY1M09QUnJ5YTNtcUJYSG5VZVJGMXNLRTgxZmtzOXJZOTRIckdTeDI4TFR2NFdvSjR1V3JsTGxaSjdIaXA4d01uZ0JNWmIxcUtFeERYQldZbWF2ZnExMDBkMTNGOWNxcnhNMTBweHp4d1ItUEF1b3IxN2Q5NU5BVkhTel9iaWstSXgxV0tIdTdJYnBvN2NJWjhRVE9XM19FRUxobkhlcVBLdklhTUV5TXdxUUJWNEhvMC1rQk1wcFFJVVB3XzAyNlJPbVRtMWdFbFBMUk9pRmVSN3poellnTG9CX2lqZHdOSnBFN0xGZlEzLTJsNzd2eFYw0gGIAkFVX3lxTFBCX2VhajVtcDljdFFycTBxaDJ5d0ZRQktCQWZJTmpnNFBpQ3dqSkVwcWNpbmg2Mm55ZS1pb05fYWtOQlZ3ZC1NN3A2ajE3Qm5zMzRuRWYyM3Zoc2pYS1daMEM2NzBCZ3poWlNTc3ZXaGFpaFJsNFluQzE5eXR4aEdCVHJtRlNya3J6Y180NFpNRkk4bHI5QTJyN29QTVUxRVctaUhQRk1QajNkN0pZRFdXVUYxeUpSVVdRXzEzaklEOXk3V25INU5iQWhoeE01a0xXeDlKUG44MlBIdGh0SG1ZRmNVRTRBOXZ0YWV4anpGX3lYQS1kTFVZdkF2VWVnLW9lNlAxTGYtWQ?oc=5
+- 2 Assam Rifles Soldiers Killed In Action After Convoy Ambushed In Manipur - NDTV
+  2 Assam Rifles Soldiers Killed In Action After
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdG1JSlV4eUFQOUU2MXNVTXo0VFZlZnlGcTlMZTNMeVE4Y2hnemFTbjI2YkRDODI4R2c2aGRxRzV1OWtmNkhod19PZUl5Umk5NkZPdWVIVVJXaldNNlh2VDh2dXZ6czRGRkpYZG04UXNZa21IdjZuU2p5bUIxTnRINUZyTjhIdER1TzlsUEc1VmpZTV9zVmdCWHloRGo1clZlWDE3ZzhJRVdSUFdMRGMtV0lFVEvSAbwBQVVfeXFMUE1uNWhpeTRwWEpzU0RVVE5YSURIc2hpUXF1VlZUZkJybFJmVWFIZXRPNm54ZlVxa0tjZEl3TDZxOHhTb3BmTVU3RjFHM2FMWXR2UUxKbDgtRHVHd0NZZk5fcDZsTHNtSjFHSmNfc25FYU00Q2xCVXM0djZkM0cxY0ZvZGMtb19ndEJfYzRDa3ltUXZ4VHkxYk9ZRmV1RDFnWFV4bXlNUWdLenVMejc4VlVycGJnNlN1Q3NOTTg?oc=5
 
-- O.P. Jindal Global University Hosts 3rd India–Japan Higher Education Forum 2026 In Tokyo - Live Law
-  O.P. Jindal Global University Hosts 3rd India
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWl6cXBwand6eXBPYjZqNC1qU09iX2RnQTRiTFFRVnRobjZBazROVC1INUVGcXJrVUdnd1lkMzVKMXJULUt6d0Q2SDMxaDI1UTJCN1BORGNlLWZwMkh3VERpSzNqNUJhTjZqT0JaOXJzR1k5ZnNMUkU5YUZRckFRcTlLc0F2bkZkMEZOV05sYWI2THY3R2VUZEdRb3FKRkNQdmF6ZzZsU2NyUTJ0b2JZdkdXQktPODRzMFVfNXpqVGVnR096R2fSAcsBQVVfeXFMTlRBSFlSTGVVdEtxUnVKd3VtWmYwNWdvN0pmb0ppa19QRGpvdEJYZ1FOOUVBQ2pYZWg0WHVpMDQzeDhrMnp0RGg4VVJaNFUtZTZmOUdqbmg0eGpobk9tY01BOHdXelhtTjV5UUROM3ExMW4xdmZlSUROdDFPRDBMclE1Vnc5V2lzckZzWHZjY3VKQVZrcXF1SVFsUTNoa0FDN3RyUU9JWV9sSDBFbFJ5cV9DeUk4Tlk1LWdDV3R2V3JVWlZucE4xSUpKVjg?oc=5
+- Video: Lion Clenches Gujarat Man On Ground For 30 Minutes - NDTV
+  Lion clenches man on ground
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPd0FiLUo1M0VVcE9kY0hwOXNZaXNQSGtadXY2WHRiclJEcnFUeTZsS284a2oyekktbVZhRm5RWXh5Z055NkQ4QXUyOWpOQjgwWEVGWW1aZDljSEZFbzRDU2xrQ0tLWXJid2NTaHc0MnZad2VISHBCR3JqYlhkR2pib2pVUlVTQUhjN1gwUWxMY05lRWo1U0JxYmZUWnZ2QdIBpgFBVV95cUxOX09oSFR0OGJnekRIbE9DZllXTWdTVmRVSTcwMkh2VS1jXzV5VnZYNlBNaDllb1hSeEtKWkhnNFhiVmRIUEdDNkg0ckktWnRJSkZGczQ5ay1KWmdFTzI5aldQUlRQMXRWWFR6ZkIweExleTVIRlJZdHdQUFJyQjhWUGtCbll0VkxfSmh2d0ZLRnV6a0VQMzNJY2c5dzBTZHJoaFhkMjRR?oc=5
+
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
+
+- Delhi Records Hottest July Day In 2 Years At 38.6 Degrees Celsius - NDTV
+  Delhi Records Hottest July Day In 2 Years
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNemNpNEtZZkt0SXZnT1J2OHpDV2NVWlBjYWZSYl8wQzR0d3F1VDlZYTVKMEhJQVpydGcxdks0WU1Hak4wX2xCMUpIZERLVkUwNXBDYWpydmszY0dZXzVEMEVmUXRBU0hwc3hvOUpSYm94MnZ5eXFuVlhONGtSNmlfem9nWWxxaFRqSlF4UnF4T3RKTVhyQWlhVkNaRVlCbWxKRmFhaWRSRjhfZ9IBsgFBVV95cUxQSzdyblJlTTctM0hadlF3Yy1RNnJSRXpRUXd4cFZ0MTFHYXlhM0NBclN0dkJ4VEtTdjdEQUF0Tmc2Z1FfbzBxU2R4T1daTFFqU2tpMjhtUFl4TjFkQk9lX0NESTFqTWF4bjhNRTY0M21MckM5djJzenJDOVozNEZJQnh2UTJKMXQ0bWdyN1UwTXJVNFJXSnlGZ1pITWk0enhyN0VaQUtrMGtUcjJKYUgyNWdR?oc=5
+
+- 2 Assam Rifles Soldiers Killed In Action After Convoy Ambushed In Manipur - NDTV
+  2 Assam Rifles Soldiers Killed In Action After
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPdG1JSlV4eUFQOUU2MXNVTXo0VFZlZnlGcTlMZTNMeVE4Y2hnemFTbjI2YkRDODI4R2c2aGRxRzV1OWtmNkhod19PZUl5Umk5NkZPdWVIVVJXaldNNlh2VDh2dXZ6czRGRkpYZG04UXNZa21IdjZuU2p5bUIxTnRINUZyTjhIdER1TzlsUEc1VmpZTV9zVmdCWHloRGo1clZlWDE3ZzhJRVdSUFdMRGMtV0lFVEvSAbwBQVVfeXFMUE1uNWhpeTRwWEpzU0RVVE5YSURIc2hpUXF1VlZUZkJybFJmVWFIZXRPNm54ZlVxa0tjZEl3TDZxOHhTb3BmTVU3RjFHM2FMWXR2UUxKbDgtRHVHd0NZZk5fcDZsTHNtSjFHSmNfc25FYU00Q2xCVXM0djZkM0cxY0ZvZGMtb19ndEJfYzRDa3ltUXZ4VHkxYk9ZRmV1RDFnWFV4bXlNUWdLenVMejc4VlVycGJnNlN1Q3NOTTg?oc=5
+
+- Video: Lion Clenches Gujarat Man On Ground For 30 Minutes - NDTV
+  Lion clenches man on ground
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPd0FiLUo1M0VVcE9kY0hwOXNZaXNQSGtadXY2WHRiclJEcnFUeTZsS284a2oyekktbVZhRm5RWXh5Z055NkQ4QXUyOWpOQjgwWEVGWW1aZDljSEZFbzRDU2xrQ0tLWXJid2NTaHc0MnZad2VISHBCR3JqYlhkR2pib2pVUlVTQUhjN1gwUWxMY05lRWo1U0JxYmZUWnZ2QdIBpgFBVV95cUxOX09oSFR0OGJnekRIbE9DZllXTWdTVmRVSTcwMkh2VS1jXzV5VnZYNlBNaDllb1hSeEtKWkhnNFhiVmRIUEdDNkg0ckktWnRJSkZGczQ5ay1KWmdFTzI5aldQUlRQMXRWWFR6ZkIweExleTVIRlJZdHdQUFJyQjhWUGtCbll0VkxfSmh2d0ZLRnV6a0VQMzNJY2c5dzBTZHJoaFhkMjRR?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -229,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-06 10:10:21 UTC_
+_Last updated: 2026-07-06 15:23:56 UTC_
