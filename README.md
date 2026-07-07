@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Why the Congress won’t attend UCC hearings in Rajasthan
+- The Daily Catch-Up: An unusual purge in Environment Ministry, and more
   
-  🔗 https://indianexpress.com/article/india/why-the-congress-wont-attend-ucc-hearings-in-rajasthan-10775452/
+  🔗 https://indianexpress.com/article/india/daily-catch-up-india-top-stories-bengal-case-ethanol-policy-alpha-box-office-10775924/
 
-- India to supply 2 BrahMos missile batteries worth $200 million to Indonesia
+- Rath Yatra abroad: At odds with ISKCON, Puri temple admin writes to President, PM
   
-  🔗 https://indianexpress.com/article/india/india-indonesia-brahmos-missile-deal-200-million-defense-agreement-10775460/
+  🔗 https://indianexpress.com/article/india/rath-yatra-abroad-iskcon-puri-temple-admin-pm-10775829/
 
-- Flash floods, mudslides in J-K: Highway blocked for 2nd day, houses and buildings damaged
+- ‘Baseless allegations’: Ram Temple former chief’s first reaction after Trust exit
   
-  🔗 https://indianexpress.com/article/india/flash-floods-thathri-jammu-and-kashmir-houses-buildings-damaged-highway-blocked-10775401/
+  🔗 https://indianexpress.com/article/india/ayodhya-ram-temple-champat-rai-resignation-donation-theft-sit-probe-10775891/
 
-- Hindu members in Waqf Board: Political storm in Madhya Pradesh, Congress MLA vows to move court
+- Citizen scientist’s discovery uncovers unique ‘bow-and-arrow’ radio galaxy
   
-  🔗 https://indianexpress.com/article/india/madhya-pradesh-waqf-board-hindu-members-waqf-amendment-act-2025-mohan-yadav-10775390/
+  🔗 https://indianexpress.com/article/india/indian-astronomers-scientists-bow-and-arrow-radio-galaxy-10775495/
 
-- ‘NEET exam over’: Centre okays unblocking of Cockroach Janta Party’s X handle
+- Before deadly Kerala tunnel collapse, warning from district collector was ignored
   
-  🔗 https://indianexpress.com/article/india/cockroach-janta-party-x-account-unblocked-delhi-high-court-neet-dharmendra-pradhan-abhijeet-dipke-10775347/
+  🔗 https://indianexpress.com/article/india/kerala-wayanad-twin-tunnel-landslide-disaster-warning-ignored-10775518/
+
+- How Chinese researchers just mapped human brain 478 times faster than an NVIDIA A100
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-chinese-researchers-just-mapped-human-brain-478-times-faster-than-an-nvidia-a100-10775584/
+
+- ChatGPT down: OpenAI confirms outage as users report problems with image generation
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-down-openai-confirms-outage-as-users-report-problems-with-image-generation-10775702/
+
+- Nothing debuts new Phone 4b series to broaden consumer base
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-debuts-new-phone-4b-series-amid-memory-shortages-10775458/
+
+- Nothing Phone 4b hands-on: Not for geeks, but designed for mainstream users
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-phone-4b-hands-on-not-for-geeks-but-designed-for-mainstream-users-10775451/
 
 - iOS 27 beta lets users customise Siri’s voice with new AI controls
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-beta-lets-users-customise-siris-voice-with-new-ai-controls-10775269/
 
-- Anthropic researchers find Claude has a hidden ‘thinking’ workspace: Here’s what it means
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-hidden-workspace-what-it-means-10775230/
+- Cult.fit bets beyond gyms while remaining hooked on India's top four cities
+  Cult.fit is expanding beyond gym memberships through products, corporate wellness, advertising and franchises. Cult.fit
+  🔗 https://www.livemint.com/companies/cult-fit-ipo-business-model-revenue-diversification-growth-strategy-11783413454698.html
 
-- Why AI ‘girlfriends’, virtual companions may no longer be accessible in China from July 15
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-girlfriends-virtual-companions-china-crackdown-10775012/
+- Godrej Pet Care to build broader pet products portfolio after Ninja debut
+  Godrej Pet Care plans to expand Ninja beyond dry dog food into wet food, treats and cat food. It targets India's
+  🔗 https://www.livemint.com/companies/godrej-pet-care-godrej-consumer-products-gcpl-ninja-dog-food-pet-food-india-wet-dog-food-cat-food-pet-treats-11783406733317.html
 
-- Ghostly squid, glowing worms among 31 alien-like species discovered off Brazil coast
-  
-  🔗 https://indianexpress.com/article/technology/science/ghostly-squid-glowing-worms-among-31-alien-like-species-discovered-off-brazil-coast-10774838/
+- Beyond generics: Glenmark resets agenda with a bold 10-year pivot to global drug innovation, says chairman Saldanha
+  Glenmark chairman Glenn Saldanha says the way forward is a mix
+  🔗 https://www.livemint.com/companies/news/glenmark-drug-innovation-10-year-pivot-glenn-saldanha-beyond-generics-ichnos-glenmark-innovation-isb-2001-cancer-therapy-11783407573743.html
 
-- Microsoft warns of more changes after 4,800 layoffs amid broader restructuring
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-layoffs-xbox-ai-10774772/
+- Hotel chains loosen purse strings for marquee asset makeovers
+  Leading Indian hotel chains aim to enhance their pricing power and profit margins
+  🔗 https://www.livemint.com/companies/news/hotel-chains-loosen-purse-strings-for-marquee-asset-makeovers-oberoi-lemon-tree-trident-11783401831971.html
 
-- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
-  'Gratitude To Friendly India': Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
+- FMCG companies hopeful of healthy Q1 growth despite inflationary headwinds
+  Calibrated price hikes have helped Indian FMCG
+  🔗 https://www.livemint.com/companies/news/fmcg-companies-healthy-q1-growth-inflationary-headwinds-price-hikes-sales-volumes-raw-material-costs-margin-pressure-11783395026662.html
 
-- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
-  India's Indo-Pacific push puts China on
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
+- Wall Street: Nasdaq, S&amp;P 500 slip as chip stocks decline
+  The Dow Jones Industrial Average rose 0.09%, the S
+  🔗 https://www.livemint.com/market/stock-market-news/wall-street-nasdaq-s-p-500-slip-as-chip-stocks-decline-11783431898699.html
 
-- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
-  India's landmark Ram temple overhauls board after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
+- Wipro to declare Q1FY27 results, interim dividend on this date. Check details
+  Wipro's board will meet on July 16 to approve Q1FY27 results. The company also considers an interim dividend
+  🔗 https://www.livemint.com/market/stock-market-news/wipro-to-declare-q1fy27-results-interim-dividend-on-this-date-check-details-11783430229204.html
 
-- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
-  Video captures terrifying moment landslide hits Wayanad, 1 dead
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
+- Penny stock under  ₹10 rallies for second straight session, jumps another 8%; here's why
+  Golden Legend Leasing and Finance Ltd. shares rose 8.3% to  ₹9.46 after announcing a new wholly owned subsidiary, G
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-rallies-for-second-straight-session-jumps-another-8-heres-why-11783428844969.html
 
-- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
-  PM in Indonesia LIVE: Modi hails new 'golden chapter in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
+- Cochin Shipyard OFS: Govt to exercise green-shoe option after 3.52x Day 1 subscription
+  The government will now sell the full 5
+  🔗 https://www.livemint.com/market/stock-market-news/cochin-shipyard-ofs-green-shoe-option-oversubscribed-day-1-govt-divestment-11783428373389.html
 
-- NSE IPO: From derivatives dominance to dividends, Jefferies flags five key positives
-  The exchange commands 70% of India's revenues and focuses on equity derivatives. Positive growth prospects maintain NSE's attractiveness in the exchange market.
-  🔗 https://www.livemint.com/market/ipo/nse-ipo-from-derivatives-dominance-to-dividends-jefferies-flags-five-key-positives-11783415146761.html
+- US stock market today: S&amp;P 500, Nasdaq futures edge lower as chip stocks retreat; crude oil prices rise
+  S&amp;amp;P 500 futures dropped 0.2%, while Nasdaq fell 0.8%. Investor focus shifts to upcoming earnings from Delta and PepsiCo.
+  🔗 https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-lower-as-chip-stocks-retreat-crude-oil-prices-rise-11783422729837.html
 
-- Multibagger TARC shares jump 12% as Q1 pre-sales triple, collections surge 80%
-  The company reports ongoing construction progress and plans for luxury projects, indicating a strong market presence and demand. TARC shares rose 12.3% to  ₹142.
-  🔗 https://www.livemint.com/market/stock-market-news/multibagger-tarc-shares-jump-12-as-q1-pre-sales-triple-collections-surge-80-11783415338976.html
-
-- Knack Packaging IPO listing in focus. Here's what GMP signals ahead of debut
-  Knack Packaging share price will be listed on Wednesday, 8 July. The shares are commanding a strong premium in the
-  🔗 https://www.livemint.com/market/ipo/knack-packaging-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11783392457168.html
-
-- Swiggy share price jumps 6% after this foreign investment update. Do you own?
-  Swiggy disclosed that foreign investment is at 49.76%, with domestic ownership exceeding 50%. This clarification confirms no changes in management, voting rights, or ownership status.
-  🔗 https://www.livemint.com/market/stock-market-news/swiggy-share-price-jumps-6-after-this-foreign-investment-update-do-you-own-11783412312159.html
-
-- FMCG sector Q1 results preview: Healthy topline growth likely, margin to be resilient despite inflation pressure
-  FMCG companies expected to report healthy revenue growth in Q1FY27. Both rural and urban demand are expected to have remained resilient, with no major divergence.
-  🔗 https://www.livemint.com/market/stock-market-news/fmcg-sector-q1-results-preview-healthy-topline-growth-likely-margin-to-be-resilient-despite-inflation-pressure-11783411772957.html
+- ChatGPT image generation down- OpenAI says ‘implementing mitigation’
+  ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images
+  🔗 https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html
 
 - Apple now asks users before sending Apple Intelligence requests to Google Cloud
   Apple's new AI features require users to share data with
@@ -96,129 +100,125 @@
   JADEPUFFER exploited a critical vulnerability to infiltrate systems. A new report reveals that AI agents can autonom
   🔗 https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html
 
-- iOS 27 beta 2 leak reveals new clue about Apple's camera-equipped AirPods: Here's what we know
-  Apple could be teasing a new AirPods Pro with cameras with the
-  🔗 https://www.livemint.com/technology/tech-news/ios-27-beta-2-leak-reveals-new-clue-about-apples-camera-equipped-airpods-heres-what-we-know-11783218215836.html
-
-- Stock futures are mixed after Dow tops 53,000 for first time: Live updates - CNBC
-  Stock futures are mixed after Dow tops 53,000 for
+- Nasdaq futures fall as chip stocks struggle: Live updates - CNBC
+  Nasdaq futures fall as chip stocks struggle. Dow Poised to Add to Record Highs.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBQWkNlWldGeENRRWhGMVgxMkRMNGFvZXhlUnV6SG94aXZHbzdvZUVMQmVTTFMyNUdxS1pOUFQzMWJzcU9jZHVnaEI0TDZtZzZyTkNqazJBa21fTGlZUy1UM2g1ZjZGbWVNMjJ2N2xZWXQxcjBSS0hr0gF8QVVfeXFMUGZwYTE1emhaenhwR0l1X2VYa3phU1pqamhoTjJaZWZOdERQcWtVS0pmZ1REZjNVdjlqWTE3V3g5dFI1bG91eGFUWDN6WlBVeVpKZExUNmFXN01OMElZOVJTMmFjeEtKMlBPNTQ3OU1GMVhIZEN3UUh4NzhGRw?oc=5
 
-- Stock Market Today: Samsung Sparks Tech Selloff Despite Strong Results — Live Updates - WSJ
-  &nbsp;&ngt;&
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVk1jYVRUUlQ4RlJQZlRtb1VjQW8wUU84eC1JOF9WSUdhcThGSFZKOUhEZWYzanBCVEFSU2Rwa2J2UmlGMHBCX21sMXNycFRoXzl3LUVZdWpQY0R1LUV0eWZ2TTkyeVVuTHozS2RoNmJ0SVl1aHFoSFZXbkdmZ3NpaGpfMVc5Zzg?oc=5
-
-- Markets News, July 6, 2026: Major Indexes End Monday Higher as AI-Tied Stocks Rebound; Dow Closes at Record After Crossing 53000 for First Time - Investopedia
-  Dow closes at record after crossing 53,000 for first time.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPalZtVE15RmJrZndsbzJUTHRNbFFibDlOa1paVjlYRzNTa2tydzZFdnFFZGtLc3YxNl95bTlEM3hlNm5teXZPS1M1OGxZcVZTQmk4eWpCNXVRVXUyVzdfTjNfVUtHYXFMZlVScDhLT05HeWxTSFRPZmY4dU9KcHRYNWpwUFh2anIzUVZZYUcxV1o?oc=5
-
-- Samsung’s Record Profit Wasn’t Enough for Markets Facing a Tech Selloff - Bloomberg.com
-  Samsung's Record Profit Wasn’t
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3pYYm56UDRsNWV0aWJITXNUd1hESlY0TXJHS1o0VmRMbU9NSXdLd1IwTmVDMFF4Y0NoU3RjNjRGY2tPNFhycnBSLUk2N3p3MVpvUVpicGNlWkpzWW1KQV9UbEd2WTV4VnA4cGZtZ2pLYlc1ajgwNkgtMkVYVUZGZnRrMFpwcVh6Yk9qQXJrUUZzb1pLRjZPYk1XWWV0U3JGd0VWSHQwWE5oeXZiZHkxemt0cEhfbU5qRXVKN2Zfbm52MzA?oc=5
-
 - Stock markets climb in early trade on foreign fund inflows - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkFKUHFsNElwczRWemRseWd0NE1tbXd4SGhuVVVJMFltZVh2OUo0dW9STkxQWjJkRjRyNGNIZS1uaUNrOGNpMHRSREN0bnd6UnZLd0YycHVFY2lGV2FYSk1oWHhpSzNNYn
+  The Hindu reports that the Indian stock market
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkFKUHFsNElwczRWemRseWd0NE1tbXd4SGhuVVVJMFltZVh2OUo0dW9STkxQWjJkRjRyNGNIZS1uaUNrOGNpMHRSREN0bnd6UnZLd0YycHVFY2lGV2FYSk1oWHhpSzNNYnlreEpVUEtUbEpvTTR3YUZDSFdvMV9qUENzV0FLNVpyX2VCVEJkSEtma3JYc1h0WE52Z3FibXNxM3RWZXgyYlZ2SWsxZF8wMjdBLTRVa3paTmdJa9IBwwFBVV95cUxOZ0czUEs2S3A5ZGgyZk9TQ2MxVDB2aDU3YzhTazRieWZzN05zdlhuTkw3OEEyeUJiMVJwZ1dHX205bXIzUEtIWHVpeWNuSUthWlN5X0l6V2pMTllRdTRtUnZCR29CdWRUV0plTnZXaXNBMWl1dzFSUkZweUJheF9hVlJkMHRJc1Q3c0VwX1BaRWJ1ZkNTVmpNRktVWWs1bE11YmszM0VUcGN6NXpDVjgzOWtLQTI5bXJLTlBtYmpmYVlEMVU?oc=5
 
-- Global Market: Britain's bond market poses early fiscal test for Andy Burnham
-  Britain's government bond market is expected to be a key test for Andy Burnham's economic credibility. Investors scrutinise his commitment to fiscal discipline amid mounting spending pressures.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-britains-bond-market-poses-early-fiscal-test-for-andy-burnham/articleshow/132235449.cms
+- Stock markets snap 4-day rally amid profit booking, Sensex declines 104.35 points - Telegraph India
+  Stock markets snap 4-day rally amid profit booking,
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjhGSHNlRVREb01lRVROSGVTcThuTHZaZFJ1Wm1CV3M0UXVKNVJhTWtTa1JfYmw4YTlXdVp5Q0ZGcmUyRE9LeG4tYTFEZGcxZjIyTVI3YXJSNTJtWENMMmVSSzQwVFgwYkhCVUlpNlhqMU1iRlh4enV6N1B5eFkzc1pTMm9sYWNBYkhnWEd2eDBQLThLMGVCV05fX05HLU9BVDAyWUlkZWZXSVVHS0x1ejhvT3k5Qm55WUd4Tmk1V3dkemJQb1ZydnFXOWLSAdIBQVVfeXFMTjhRLTAyM0ZleENKS19sNDVJT3Vid3ZJT3JOcGpTZ1ZYVFg0ekxvV2RIdzNzbHJjWktGWFQwMG1IdDk5YldWQU1VbElFbGRxREZTR3FPZmlPRnJPZmp5N3d5RGQ4TnM4UFpUVFMwc3R0NmhNaUxUc19hWk5nZ0Q5M3R3Mm1NaWcyanVnNFpIWlFZSndZOVRBVV9pdVg0Wi1uNjgzRnVjTFRNdVN5bzQwWE9MV3EwODlIelBVUkdOd0pvMUxlSHFhQ2h1WXNHeUl0OW1B?oc=5
 
-- TCS, Infosys and other Indian IT stocks rise up to 4% after AI worries trigger Kospi selloff
-  Indian IT stocks climbed despite a sharp sell-off in Asian chipmakers. Investors positioned for Q1 earnings. Investors worry that AI could hurt billing growth, reduce manpower-linked revenue.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-and-other-indian-it-stocks-rise-up-to-4-after-ai-worries-trigger-kospi-selloff/articleshow/132235253.cms
+- BSE, MCX shares fall up to 4% as Jefferies sees IPO-bound NSE as more diversified - Moneycontrol.com
+  " target="_blank">BSE, MCX shares
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGctMFVGb08zb0kyUXFIaE1zUS1Ib2xZdzQ5OFlUSXQxRU4xQzE5RGF2cW5FckNoZ0I0eHBzaTcyOHc1SWNKNUxRWk14Y0ZjWVJ0c21FTGl6X205cU5uSlRrWWVyaEJYUVBaN2tQLXY2WUIwZ0I5RFk0ZnQ1OTlMMW5Nay16RTNKOFdXaFVjUWQzcXQ3anU5UHUtaUVtSk1QMnZSU0ZtaWI3aFJDQldBaEQxbTV4OGxPckZXdW5kdFBDMkRNWC15YzA1ZGJPdC1oWFpPZNIB2gFBVV95cUxNSjUxU1F3aE83ZUpqbF9CWjBvakF3X1NSaHFsM2JuV0NfR2RhbjBJbmFuRzRfYy1NMFFYV2hLUmJmTGhNWG9STENqOFR3UjdHNDRsQXBYZjNFdTR1TEhtWktfVlc4Y2FoVEdsZk5fVTRwR0RoalV1bndpTnJ0ZTZqc1hqRGg3TmhjYnNxZzZNWklTcFEwckxkUFBOaTFkbGxQY3NpUmFuM1NCMm42ODJMX04wUld2dF9zSDF1TTRhd2JUWFJHWU9MUjlfVl9FNjB6b19vdk9WblUtQQ?oc=5
 
-- MF Picks: 13 stocks surge up to 230% in just 3 months; 3 turn multibaggers
-  Thirteen BSE 500 stocks surged 60%–230% in just over three months. HFCL, Cemindia Projects
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-stocks-surge-up-to-230-in-just-3-months-3-turn-multibaggers/slideshow/132235012.cms
+- Weekly Markets Monitor - Gold enters H2 - World Gold Council
+  The World Gold Council releases its
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxPLW1zaXZLaHVmejJVcHJXQklzOHcwNERjaWNueld0b0hmWFEyUXY0aWkzYXNaZXNMeU9ydWFyUEJQelhQUzRHOUxVZmhsRFUyZGozNElqZDlKNTRlWGhmMW1BVWVpb0dhQmZ5N3FhU216WjRnTGZINWZtTTFTLURUWUlqWmtxZjNMOEVOQVB3?oc=5
 
-- Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY
-   Info Edge shares rose sharply after the company reported a 14.4% year-on-year rise in Q1FY27 standalone billings. Investor sentiment was also supported by the Coding Ninjas acquisition
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-surge-11-after-q1fy27-billings-rise-14-yoy/articleshow/132234550.cms
+- US stocks today: Nasdaq falls at open as DeepSeek's AI chip push rattles markets
+  Nasdaq opens lower on Tuesday. Investors question momentum of ⁠the ⁡AI-led rally. China's DeepSeek making its own
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-falls-at-open-as-deepseeks-ai-chip-push-rattles-markets/articleshow/132241077.cms
 
-- Global Market: Asian refiners turn to cheaper Gulf oil despite Saudi price cuts
-  Saudi Arabia significantly reduced crude oil prices for Asian buyers this month. Rival Gulf producers are offering better value and deeper discounts to attract customers. Weak demand across Asia, especially in China, further impacts Saudi oil sales.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-refiners-turn-to-cheaper-gulf-oil-despite-saudi-price-cuts/articleshow/132234383.cms
+- NCDEX revives black pepper futures to boost India's price discovery
+  NCDEX relaunched black pepper futures after more than a decade. The contract offers farmers, traders and exporters a regulated platform for hedging.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/ncdex-revives-black-pepper-futures-to-boost-indias-price-discovery/articleshow/132240949.cms
 
-- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
-  'Gratitude To Friendly India': Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
+- PepsiCo and more: Jim Cramer says market rotation is creating buying chances, picks 4 stocks
+  Jim Cramer said the latest market rotation has created attractive buying opportunities. He highlighted PepsiCo, Starbucks, Constellation Brands, TJX Companies and Johnson &amp;
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pepsico-and-more-jim-cramer-says-market-rotation-is-creating-buying-chances-picks-4-stocks/articleshow/132240940.cms
 
-- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
-  India's Indo-Pacific push puts China on
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
+- Cochin Shipyard OFS subscribed 3.52 times on Day 1; retail investors get to bid tomorrow
+  The government's Cochin Shipyard offer for sale drew robust institutional demand. Retail bidding opens next, while the sale advances the government's disinvestment and public float expansion
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-ofs-subscribed-3-52-times-on-day-1-retail-investors-get-to-bid-tomorrow/articleshow/132240890.cms
 
-- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
-  India's landmark Ram temple overhauls board after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
+- Quote of the day by George Soros: "A boom/bust process occurs only when market prices find a way to influence the so-called fundamentals that are supposed to be reflected in market prices."
+  George Soros observed that market prices influence economic fundamentals. Rising prices attract buyers and encourage business expansion, which alters underlying conditions. Falling prices reduce confidence and tighten credit, accelerating downturns.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-george-soros-a-boom/bust-process-occurs-only-when-market-prices-find-a-way-to-influence-the-so-called-fundamentals-that-are-supposed-to-be-reflected-in-market-prices-/articleshow/132230539.cms
 
-- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
-  Video captures terrifying moment landslide hits Wayanad, 1 dead
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
-
-- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
-  PM in Indonesia LIVE: Modi hails new 'golden chapter in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
-
-- D2C Footwear Brand Fizzy Goblet Onboards Kareena Kapoor As Investor
-  D2C footwear and accessories brand Fizzy Goblet has onboarded Kareena Kapoor Khan as a strategic investor.
-  🔗 https://inc42.com/buzz/d2c-footwear-brand-fizzy-goblet-onboards-kareena-kapoor-as-investor/
-
-- Koo Cofounder Mayank Bidawatka Shuts New Startup PicSee
-  Koo cofounder Mayank Bidawatka has shut his AI-enabled mutual photo sharing startup, PicSee.
-  🔗 https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/
-
-- Centre Directed ZEE5 To Remove Diljit Dosanjh-Starrer Satluj Under IT Rules
-  A day after Diljit Dosanjh-starrer Satluj was taken down from streaming platform ZEE5, it emerged that
-  🔗 https://inc42.com/buzz/centre-directed-zee5-to-remove-diljit-dosanjh-starrer-satluj-under-it-rules/
-
-- Chocolate Finds Its D2C Sweet Spot
-  In June 2026, Manam Chocolate raised a $9 Mn Series A round. This marked a notable move in India’s consumer market.
-  🔗 https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/
-
-- Cult.fit Files Draft Papers For ₹4,000 Cr IPO
-  Fitness unicorn Cult.fit has filed its draft red herring prospectus (DRHP) to raise over ₹950 Cr through its IPO.
-  🔗 https://inc42.com/buzz/cult-fit-files-draft-papers-for-over-%e2%82%b9950-cr-ipo/
-
-- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
-  'Gratitude To Friendly India': Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
 
 - India's Indo-Pacific push puts China on notice | India News - Hindustan Times
   India's Indo-Pacific push puts China on
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
-  India's landmark Ram temple overhauls board after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
+- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFE?oc=5
 
-- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
-  Video captures terrifying moment landslide hits Wayanad, 1 dead
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
+- India, France Hold First Joint Working Group Meeting On Critical Minerals - NDTV
+  India, France Hold First Joint Working Group Meeting
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNenF4RGRtYWduZlhYR0htWU0teEUzTUVMaDFBWU1RU2JZNzRDaXFIa205Y3p3RU42dEpxSFhucnc3V2UxNDBsWFpUTHZLY0FHaVhzRHU5LUZNcUdwUUxLV01IYkxwRkxPaVp2T2cwQW9QdlNxNjAybHZ0TEFSYzVfSnJQUkpwNEhJb25ZSG1BMHZPZHhGVlZfSmdPYnI3SlBaZmxJSkdYRmNRVkhHWkhibmRYVdIBuwFBVV95cUxNY0h1WnVQVFZNNmZKQ0w5YmRvdS1JZDlWSjlJRWxDRWUwNUg4a1FtV2VzV25JcHJmdTJYY2U1aExsVXhEWE43SllEemlHX1JrSjVXNTRzT2VGUmllWWtXUTQ4RWY3WHBVWEtiTEV0czNpMXVHSUw0TVBZcWRGcTBBc200djhvclZvWlpod2h6Y0FMQmRLblJMbjgxOVI0UFJHVl9pY3RfblFMZlRNdmJzRjRWMmN3MzdyVGc0?oc=5
 
-- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
-  PM in Indonesia LIVE: Modi hails new 'golden chapter in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
+- Bangladesh Wants To Strengthen Ties With India: PM Rahman's Top Adviser - NDTV
+  Bangladesh Wants To Strengthen
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1VlU1FVaFdlbmNDZjRkUk1wVk5idkthaC1SdzgtVU9RZVhKQUxUTWhmMmJQb3FOY1o3Q2puOGlyQi1zbkhWTDl6RnJEajFiWXJVMVhYN1F0bWg3N3RQOE83Vy1CY3loVFlGMzFhNnptNExodllHVzk1Q0Fvc1JYX2JYOHdQQVN3UjJzMWhkYXFKbGxTbTZGbllYOXIxRUhES2tzb1NteVM1UVZGb21FTG9HNjBiT25tbHlYMGx5cW9xTGpXb3ZnV3I1T3ByUXPSAdcBQVVfeXFMT2k2WXlJRE9NN3BXaUVqRlBJR1R2R2NPZ3VSaUJTbERENHRaRVpuaUdYT1RJRmpCcDhNQmRqSm9zMVc5amJQU3V2dC0tLVBoVlhucE44SWJOeXVTZmpESWV4TkdVUlo3SjFGLWMydmFvaU91amR2X1ZTcWZSWk1nQkQwNERINWZMX1BjZXRiMk9LMlhOX1hVbFpNY09FLUxUb1Z1enFjY1RXQ2NtTXRvRndodXd5R0JNS0U5N0pEUXhTTm5ydF9MWEE5d04zU1lnMng0WG9nWmM?oc=5
 
-- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
-  'Gratitude To Friendly India': Iran
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
 
 - India's Indo-Pacific push puts China on notice | India News - Hindustan Times
   India's Indo-Pacific push puts China on
   🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
-  India's landmark Ram temple overhauls board after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
+- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFE?oc=5
 
-- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
-  Video captures terrifying moment landslide hits Wayanad, 1 dead
-  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
+- India, France Hold First Joint Working Group Meeting On Critical Minerals - NDTV
+  India, France Hold First Joint Working Group Meeting
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNenF4RGRtYWduZlhYR0htWU0teEUzTUVMaDFBWU1RU2JZNzRDaXFIa205Y3p3RU42dEpxSFhucnc3V2UxNDBsWFpUTHZLY0FHaVhzRHU5LUZNcUdwUUxLV01IYkxwRkxPaVp2T2cwQW9QdlNxNjAybHZ0TEFSYzVfSnJQUkpwNEhJb25ZSG1BMHZPZHhGVlZfSmdPYnI3SlBaZmxJSkdYRmNRVkhHWkhibmRYVdIBuwFBVV95cUxNY0h1WnVQVFZNNmZKQ0w5YmRvdS1JZDlWSjlJRWxDRWUwNUg4a1FtV2VzV25JcHJmdTJYY2U1aExsVXhEWE43SllEemlHX1JrSjVXNTRzT2VGUmllWWtXUTQ4RWY3WHBVWEtiTEV0czNpMXVHSUw0TVBZcWRGcTBBc200djhvclZvWlpod2h6Y0FMQmRLblJMbjgxOVI0UFJHVl9pY3RfblFMZlRNdmJzRjRWMmN3MzdyVGc0?oc=5
 
-- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
-  PM in Indonesia LIVE: Modi hails new 'golden chapter in
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
+- Bangladesh Wants To Strengthen Ties With India: PM Rahman's Top Adviser - NDTV
+  Bangladesh Wants To Strengthen
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1VlU1FVaFdlbmNDZjRkUk1wVk5idkthaC1SdzgtVU9RZVhKQUxUTWhmMmJQb3FOY1o3Q2puOGlyQi1zbkhWTDl6RnJEajFiWXJVMVhYN1F0bWg3N3RQOE83Vy1CY3loVFlGMzFhNnptNExodllHVzk1Q0Fvc1JYX2JYOHdQQVN3UjJzMWhkYXFKbGxTbTZGbllYOXIxRUhES2tzb1NteVM1UVZGb21FTG9HNjBiT25tbHlYMGx5cW9xTGpXb3ZnV3I1T3ByUXPSAdcBQVVfeXFMT2k2WXlJRE9NN3BXaUVqRlBJR1R2R2NPZ3VSaUJTbERENHRaRVpuaUdYT1RJRmpCcDhNQmRqSm9zMVc5amJQU3V2dC0tLVBoVlhucE44SWJOeXVTZmpESWV4TkdVUlo3SjFGLWMydmFvaU91amR2X1ZTcWZSWk1nQkQwNERINWZMX1BjZXRiMk9LMlhOX1hVbFpNY09FLUxUb1Z1enFjY1RXQ2NtTXRvRndodXd5R0JNS0U5N0pEUXhTTm5ydF9MWEE5d04zU1lnMng0WG9nWmM?oc=5
+
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
+
+- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFE?oc=5
+
+- India, France Hold First Joint Working Group Meeting On Critical Minerals - NDTV
+  India, France Hold First Joint Working Group Meeting
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNenF4RGRtYWduZlhYR0htWU0teEUzTUVMaDFBWU1RU2JZNzRDaXFIa205Y3p3RU42dEpxSFhucnc3V2UxNDBsWFpUTHZLY0FHaVhzRHU5LUZNcUdwUUxLV01IYkxwRkxPaVp2T2cwQW9QdlNxNjAybHZ0TEFSYzVfSnJQUkpwNEhJb25ZSG1BMHZPZHhGVlZfSmdPYnI3SlBaZmxJSkdYRmNRVkhHWkhibmRYVdIBuwFBVV95cUxNY0h1WnVQVFZNNmZKQ0w5YmRvdS1JZDlWSjlJRWxDRWUwNUg4a1FtV2VzV25JcHJmdTJYY2U1aExsVXhEWE43SllEemlHX1JrSjVXNTRzT2VGUmllWWtXUTQ4RWY3WHBVWEtiTEV0czNpMXVHSUw0TVBZcWRGcTBBc200djhvclZvWlpod2h6Y0FMQmRLblJMbjgxOVI0UFJHVl9pY3RfblFMZlRNdmJzRjRWMmN3MzdyVGc0?oc=5
+
+- Bangladesh Wants To Strengthen Ties With India: PM Rahman's Top Adviser - NDTV
+  Bangladesh Wants To Strengthen
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1VlU1FVaFdlbmNDZjRkUk1wVk5idkthaC1SdzgtVU9RZVhKQUxUTWhmMmJQb3FOY1o3Q2puOGlyQi1zbkhWTDl6RnJEajFiWXJVMVhYN1F0bWg3N3RQOE83Vy1CY3loVFlGMzFhNnptNExodllHVzk1Q0Fvc1JYX2JYOHdQQVN3UjJzMWhkYXFKbGxTbTZGbllYOXIxRUhES2tzb1NteVM1UVZGb21FTG9HNjBiT25tbHlYMGx5cW9xTGpXb3ZnV3I1T3ByUXPSAdcBQVVfeXFMT2k2WXlJRE9NN3BXaUVqRlBJR1R2R2NPZ3VSaUJTbERENHRaRVpuaUdYT1RJRmpCcDhNQmRqSm9zMVc5amJQU3V2dC0tLVBoVlhucE44SWJOeXVTZmpESWV4TkdVUlo3SjFGLWMydmFvaU91amR2X1ZTcWZSWk1nQkQwNERINWZMX1BjZXRiMk9LMlhOX1hVbFpNY09FLUxUb1Z1enFjY1RXQ2NtTXRvRndodXd5R0JNS0U5N0pEUXhTTm5ydF9MWEE5d04zU1lnMng0WG9nWmM?oc=5
+
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
+
+- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
+  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFE?oc=5
+
+- India, France Hold First Joint Working Group Meeting On Critical Minerals - NDTV
+  India, France Hold First Joint Working Group Meeting
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNenF4RGRtYWduZlhYR0htWU0teEUzTUVMaDFBWU1RU2JZNzRDaXFIa205Y3p3RU42dEpxSFhucnc3V2UxNDBsWFpUTHZLY0FHaVhzRHU5LUZNcUdwUUxLV01IYkxwRkxPaVp2T2cwQW9QdlNxNjAybHZ0TEFSYzVfSnJQUkpwNEhJb25ZSG1BMHZPZHhGVlZfSmdPYnI3SlBaZmxJSkdYRmNRVkhHWkhibmRYVdIBuwFBVV95cUxNY0h1WnVQVFZNNmZKQ0w5YmRvdS1JZDlWSjlJRWxDRWUwNUg4a1FtV2VzV25JcHJmdTJYY2U1aExsVXhEWE43SllEemlHX1JrSjVXNTRzT2VGUmllWWtXUTQ4RWY3WHBVWEtiTEV0czNpMXVHSUw0TVBZcWRGcTBBc200djhvclZvWlpod2h6Y0FMQmRLblJMbjgxOVI0UFJHVl9pY3RfblFMZlRNdmJzRjRWMmN3MzdyVGc0?oc=5
+
+- Bangladesh Wants To Strengthen Ties With India: PM Rahman's Top Adviser - NDTV
+  Bangladesh Wants To Strengthen
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1VlU1FVaFdlbmNDZjRkUk1wVk5idkthaC1SdzgtVU9RZVhKQUxUTWhmMmJQb3FOY1o3Q2puOGlyQi1zbkhWTDl6RnJEajFiWXJVMVhYN1F0bWg3N3RQOE83Vy1CY3loVFlGMzFhNnptNExodllHVzk1Q0Fvc1JYX2JYOHdQQVN3UjJzMWhkYXFKbGxTbTZGbllYOXIxRUhES2tzb1NteVM1UVZGb21FTG9HNjBiT25tbHlYMGx5cW9xTGpXb3ZnV3I1T3ByUXPSAdcBQVVfeXFMT2k2WXlJRE9NN3BXaUVqRlBJR1R2R2NPZ3VSaUJTbERENHRaRVpuaUdYT1RJRmpCcDhNQmRqSm9zMVc5amJQU3V2dC0tLVBoVlhucE44SWJOeXVTZmpESWV4TkdVUlo3SjFGLWMydmFvaU91amR2X1ZTcWZSWk1nQkQwNERINWZMX1BjZXRiMk9LMlhOX1hVbFpNY09FLUxUb1Z1enFjY1RXQ2NtTXRvRndodXd5R0JNS0U5N0pEUXhTTm5ydF9MWEE5d04zU1lnMng0WG9nWmM?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-07 09:36:03 UTC_
+_Last updated: 2026-07-07 14:21:03 UTC_
