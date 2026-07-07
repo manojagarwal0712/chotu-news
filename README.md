@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
+- Capsized boat, 6 missing crew, one man’s 2-hour swim in rough seas: Search on for Andhra fishermen
+  
+  🔗 https://indianexpress.com/article/india/capsized-boat-6-missing-crew-one-mans-2-hour-swim-in-rough-seas-search-on-for-andhra-fishermen-10774587/
+
+- Convention centre, museum: Nod sought for work at Indira Point, India’s southernmost tip
+  
+  🔗 https://indianexpress.com/article/india/indira-point-lighthouse-development-andaman-and-nicobar-project-10774605/
+
+- Purge in Minister Bhupender Yadav’s office: Private Secretary, two Additional PSs removed
+  
+  🔗 https://indianexpress.com/article/india/purge-in-minister-bhupender-yadavs-office-private-secretary-two-additional-pss-removed-10774597/
+
+- PM Narendra Modi’s three-nation tour: Defence, critical minerals on table at India-Indonesia meeting today
+  
+  🔗 https://indianexpress.com/article/india/pm-narendra-modis-three-nation-tour-defence-critical-minerals-on-table-at-india-indonesia-meeting-today-10774654/
+
 - ‘Organisational committees valid until 2027’: Mamata Banerjee faction to poll body over rebel group’s claim on party
   
   🔗 https://indianexpress.com/article/india/organisational-committees-valid-until-2027-mamata-banerjee-faction-to-ec-over-rebel-groups-claim-on-party-10774466/
 
-- Goa may stop issuing new licences for rental Thars amid rising accidents
+- Microsoft warns of more changes after 4,800 layoffs amid broader restructuring
   
-  🔗 https://indianexpress.com/article/india/goa-rental-thar-licences-rising-road-accidents-10774430/
-
-- Railways to run 300 special trains for Puri Rath Yatra, 100 for Onam in Kerala: Ashwini Vaishnaw
-  
-  🔗 https://indianexpress.com/article/india/indian-railways-300-special-trains-puri-rath-yatra-100-onam-ashwini-vaishnaw-10773937/
-
-- Aerial ‘joyride’ over Patna at Rs 2,100 part of Bihar’s major heli-tourism push
-  
-  🔗 https://indianexpress.com/article/india/patna-helicopter-joyride-rs-2100-bihar-heli-tourism-push-10774292/
-
-- The Daily Catch-Up: Deluge, Diljit and other top stories of the day
-  
-  🔗 https://indianexpress.com/article/india/daily-catch-up-mumbai-rain-prashant-kishor-bihar-bypoll-diljit-dosanjh-10774186/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-layoffs-xbox-ai-10774772/
 
 - Can frequent navigation protect against Alzheimer’s? Study offers clues
   
@@ -36,9 +40,13 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/sonys-playstation-game-discs-will-still-be-available-after-2028-but-theres-a-catch-10773554/
 
-- Samsung eyes record quarterly profit as AI memory boom drives chip sales
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-eyes-record-quarterly-profit-as-ai-memory-boom-drives-chip-sales-10773294/
+- In a flurry of deals, Adani mobilizes $10 bn in a week for capex boost
+  The flurry of deals marks one of the largest capital-raising exercises by an Indian conglomerate in recent years. The fund mobilization spans equity raises, stake sales and long-
+  🔗 https://www.livemint.com/companies/in-a-flurry-of-deals-adani-mobilizes-10-bn-in-a-week-for-capex-boost-11783341008140.html
+
+- Skyroot Aerospace: building the Uber for space, one launch at a time
+  Skyroot is preparing for Vikram 1, a mission that will make it the first private Indian company to launch a commercial satellite. Co-founded by former Isro scientists Pawan Kumar Chandana and Naga
+  🔗 https://www.livemint.com/companies/people/skyroot-aerospace-building-the-uber-for-space-mission-aagaman-vikram-1-test-flight-11783332303149.html
 
 - Microsoft Layoffs: Xbox CEO Asha Sharma acknowledges 'business is not healthy', flags weak margins amid 3200 job cuts
   The restructuring is aimed at simplifying Xbox's operations and redirecting resources towards larger projects.
@@ -52,33 +60,25 @@
   The deal comes at a time when defence companies are benefiting from a
   🔗 https://www.livemint.com/companies/lockheed-martin-snaps-up-ultra-maritime-in-3-45-billion-naval-defence-push-all-about-the-deal-11783340963138.html
 
-- LIC chief sees protection plans driving growth
-  R. Doraiswamy notes a shift towards term- and protection-oriented solutions. He flags the
-  🔗 https://www.livemint.com/companies/news/lic-protection-products-strategy-r-doraiswamy-annual-report-global-economy-gst-waiver-11783343245385.html
+- Stock market today: Gift Nifty hints positive start; eight day trading stocks to buy on Tuesday, 7 July
+  Sensex rose 521.16 points, while the Nifty 50 gained 159.50 points. Despite mixed Asian trends, foreign institutional buying supports the market amid easing geopolitical tensions.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-positive-start-eight-day-trading-stocks-to-buy-on-tuesday-7-july-11783388554604.html
 
-- NCR market will be as big or bigger than Mumbai for Oberoi Realty: Vikas Oberoi
-  Mumbai-based luxury developer's maiden project in Gurugram drew a staggering  ₹30,000 crore order
-  🔗 https://www.livemint.com/companies/news/oberoi-realty-gurugram-three-sixty-north-11783329294883.html
+- Vaishali Parekh recommends three intraday stocks to buy or sell on Monday — 7 July 2026
+   Vaishali Parekh recommends three stocks to buy today. Lloyds Engineering Works, RBL
+  🔗 https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-three-intraday-stocks-to-buy-or-sell-on-monday-7-july-2026-11783388720148.html
 
-- Gold, silver prices today: Comex gold tops $4,200, silver nears $64 as recovery rally extends; Fed minutes in focus
-  Gold futures rose to $4,215, and silver to $63.73, marking a recovery from prior losses.
-  🔗 https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-tops-4-200-silver-approaches-64-in-recovery-rally-fed-minutes-in-focus-11783353576517.html
+- Stocks to watch: Cochin Shipyard, Trent, Titan among shares in focus today; check list here
+  The Nifty was trading near the 24,578 mark, up over 95 points from
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-trent-titan-among-shares-in-focus-today-check-list-here-11783358048849.html
 
-- Trent Q1 business update: Revenue grows 19%, store network expands
-  Tata Group's Trent reported a 19% YoY revenue growth to  ₹5,666 crore for the June quarter. Trent's share rebounded strongly after a significant decline, up 17.
-  🔗 https://www.livemint.com/market/stock-market-news/trent-q1-business-update-revenue-grows-19-store-network-expands-11783351068512.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 July
+  Gift Nifty was trading around 24,584 level, a premium of nearly 102 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-july-11783388515333.html
 
-- Rentomojo gets SEBI nod for raising funds through IPO launch. Details here
-  Furniture rental startup Rentomojo has received SEBI observations for its IPO. The IPO aims to raise up to  ₹150 crore for expansion and debt repayment.
-  🔗 https://www.livemint.com/market/rentomojo-gets-sebi-nod-for-raising-funds-through-ipo-launch-details-here-11783348145301.html
-
-- Q1FY27 IT earnings preview: Brokerages see mixed quarter as AI, macro headwinds weigh on growth
-  June-quarter earnings season begins amid muted expectations for tech companies due to macroeconomic uncertainty and AI disruptions. Analysts foresee weaker Q1 FY27 growth.
-  🔗 https://www.livemint.com/market/stock-market-news/q1fy27-it-earnings-preview-brokerages-see-mixed-quarter-as-ai-macro-headwinds-weigh-on-growth-11783340273440.html
-
-- Wall Street: S&amp;P 500, Nasdaq surge as chip stocks rebound, Broadcom jumps 5.7%, Micron adds 2.8%
-  The Dow Jones Industrial Average fell 0.28%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-as-chip-stocks-rebound-11783345550088.html
+- Asian stocks today: Nikkei, Kospi fall over 4% as technology stocks weigh; Samsung shares slide
+  South Korea's Kospi fell 4%, while the small-cap Kosdaq index slipped 0.72%. Japan's
+  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-nikkei-kospi-fall-over-4-as-technology-stocks-weigh-samsung-shares-slide-11783385379378.html
 
 - Apple could bring back its iPhone X playbook for the iPhone Ultra
   Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-
@@ -100,45 +100,45 @@
   Zoho's Arattai will remove its username
   🔗 https://www.livemint.com/technology/tech-news/whatsapp-username-row-zohos-arattai-to-disable-username-feature-11783058599480.html
 
-- Nasdaq jumps to start new week led by chip stocks, Dow briefly tops 53,000 for first time: Live updates - CNBC
-  Nasdaq jumps to start new week led by chip stocks. Dow briefly tops 53
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5
-
-- Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks — Live Updates - WSJ
-  The WSJ reports that Nasdaq rises at start of Busy
+- Stock Market News, July 6, 2026: Dow Rises to Record, Nasdaq Starts Busy Tech Week With Gains - WSJ
+  The WSJ looks at the biggest stories in the stock market for July
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFJTZkhkcG5wbHdKMjB6Rlc3MmN1V00xdkVjd200c3FqU3poWndNcTgyT2dCelZCcm9RYkMyRjUybk53LTI0aEpLbk5nOVBZdXVmb2lWUTF6LVZPQXRTbjN1VWxrSTlGXzZZRXY2NTlWMkdmSS1DdzlidDNHR0llWl9mQ2NhMk0?oc=5
 
-- Stock market today: Nasdaq leads S&P 500, Dow higher as tech jitters ease - Yahoo Finance
-  Nasdaq leads S&amp;P 500, Dow
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQTktvaWU4WlZaV3VGWTBZSGVkMUhpNG5aQ0FZUDN4TXdYTzBrc2gwWTJXS1VIaVFKYTZSVHNTc0Z6dnFvLU5sUE00a3lpS1ZoNzBkVXpRRjc1cDZuUEtZemhOV05nVXNQZlFtMEo4Vy1BeGdFdkFzaUQ2VWNJNGhRcXJJY0dvUWxTMWFXQUFrZFBSTGdEZ2tIOTlhRzhEUHNWN0RmYVNodXZEN0VR?oc=5
+- Tech Stocks’ Rebound Stalls, Dollar Edges Higher: Markets Wrap - Bloomberg.com
+  Tech Stocks’ Rebound
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNQms1OXFMOUJXelktWldaTmFkR0E0NHoyQWx6THBGZV9zVUI3UXFiQ2lDaElWRG1POERvVXk4WGl6MDBBbTgzTWQzZC1Hak1SeFloQ1BValhNdlBqS2k2NmJIaG1jVkJWYUdFX0Noa3RBVVhBQVRhd3NyR1d5SFphR2hpX21iLVFHVllUT2EtNGlRRFls?oc=5
 
-- Saudis Make Biggest Oil Price Cut in Decades as Market Weakens - Bloomberg.com
-  Saudis Make Biggest Oil Price Cut
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXc2cVpUZmV2UjAyR2djd1V3ZFdYUXV4NVFTLUY4VWptanVhcXJGOHNoVjZxRGRsR25LNVQ4Tjl2dlR3Q2dqaHRLM2ZlSWYzSlY4ZUNSWlVPVDFkT2ZrN29tNTlVR0hjTmVJd1N3c005dGROamVqbktrZnpxdFFsc1Z6THFabXNpVGE0SURPd0VCTHd6SFF6Mjktd0dFN083SmY5YWw2RUg5Q3JRQm1DNlpoMA?oc=5
+- Stock futures are little changed after Dow tops 53,000 for first time: Live updates - CNBC
+  Stock futures are little changed after Dow tops 53,000 for
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBQWkNlWldGeENRRWhGMVgxMkRMNGFvZXhlUnV6SG94aXZHbzdvZUVMQmVTTFMyNUdxS1pOUFQzMWJzcU9jZHVnaEI0TDZtZzZyTkNqazJBa21fTGlZUy1UM2g1ZjZGbWVNMjJ2N2xZWXQxcjBSS0hr0gF8QVVfeXFMUGZwYTE1emhaenhwR0l1X2VYa3phU1pqamhoTjJaZWZOdERQcWtVS0pmZ1REZjNVdjlqWTE3V3g5dFI1bG91eGFUWDN6WlBVeVpKZExUNmFXN01OMElZOVJTMmFjeEtKMlBPNTQ3OU1GMVhIZEN3UUh4NzhGRw?oc=5
 
-- Markets rise for fourth straight session - The Hindu
-  &nbsp;&
-  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxQbm5yc1ZPYkdPU3BWYTJ4bl9RdEdadi1lazVBZU82blU3Z2M4cGdfOFZObXdudjlNVEFXZ0cyUmowYUVzWXRtTFlGVUN2ZDFyeDlOa0lZcjFDX1JjZnZVdEJueFJvaUZkNUZWR182dXFZZXN6TFBobmJweS1mTDV5eVBYOUQzb0pWc09wU1hqM0dfajdXTHhVdHFR0gGgAUFVX3lxTE5Wanhxb2RCaUdBSnpiNFNTcXY5MGZWYTlsdFRIN2ZIX053WmMzei1PVURuOGdaeC1RX1BSemQydDV4VExXWi1yRzZ2VkMxemR6NFFBTEVJS19SRVRZaF9ZVUJoTzBsaXFERFJyVFljMktHQ1lOaUt1YVRRMmlYMkhyZ0llSHdfMkdGWXo1VVhmOHlWNmVFTkFsX0RTX0hrbjg?oc=5
+- Wall Street Warms to India’s Markets as Oil Pressures Fade - Bloomberg.com
+  Wall Street Warms to India’
+  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVA4M3NVTnlxVi15OXFhd1MtVEh1Z3FCcEdPM2s3cnZrN0JCQ0lzVUVVc3VKak12VGtDOUVfRlNhUkUyTER5bzd4RGlKaEl5b0hBWl83c19QWjJ4MTExS3BaU182cWtqU1g2bGZ2M0xDeGhIR3Q4RHdQYmN1YUpXbjJucE45N1A5S3Y5eUtOdWE5VlY4aEVVNVRXcHgxLXdJdmhGNHVRcHpYc3B1V2c?oc=5
 
-- NY Fed says supply chain pressures eased in June
-  The New York Fed index fell to 1.25 as Middle East disruptions showed signs of easing. Improved transit through the Strait of Hormuz and softer oil prices are expected to moderate inflation.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-says-supply-chain-pressures-eased-in-june/articleshow/132223240.cms
+- Sensex Today | Stock Market Live: GIFT Nifty indicates a firm start; US markets gains, Kospi down 5.6% - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQUnpXajhNMDVLUmV2NmMxdnp1Wkp1bi1WcDR5Q2trU2pxeExBOXhTSEVIeGVJUkc1TDBKalRySnRVT3F5UDFHbEpMeFg3aXpTVVZTT2Y2WWVfTC1zZ3JhV0pWR3BKSUh6Z1
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQUnpXajhNMDVLUmV2NmMxdnp1Wkp1bi1WcDR5Q2trU2pxeExBOXhTSEVIeGVJUkc1TDBKalRySnRVT3F5UDFHbEpMeFg3aXpTVVZTT2Y2WWVfTC1zZ3JhV0pWR3BKSUh6Z1BLNjQ1TDc5MUhEUFpDNTNqelY2ZnFybVNZalFGbXF0bG9ybnpRT0d3TW1VZTdkV2VGYkowWHRISGdNSElMY1p0aURLN0JDRjZtd29uMzlKYk1EQmxyVWNGbjI5aGRsc21XY0FyTjE4c05GLWNrZE45Y3habjdfczRQVmVGLWZIZVdHM3JPSHA1Y3g3ZWEzTDBwTjhzMHotZEwtZXQydUtyLUw4WElBVE9WMNIBmAJBVV95cUxNTXd2eC1hY3lkVVUzU0w5MDhxQnlIRm96dWpHbU15ajNNN1RYdnFFWkV3WVN5OHo2THlCdGJzZUVWd09IZTQ3TXFDVHl4ZERpM0pzVGgxXzN5SlRyak14d2VrV1NxYUU3YTNVWnZIOVEyQjhNa0xNdTVPcmdxaWNlVGswSzZfUUpWdzJmRnlZaklGSW1JdUgyRHZjWlZrNGNoWWpFdm02aGV4SzVsSzE2VTZXbXRKaW93eElFRFFhallJNFo0S2V3bWx6dFlzaVBRV29jN3pZc1NUUWMyZGZFV2ZuMnlQMDV5cDZYaTIydTFmUnYwQlpOQjhtdzkwYmVSME90c21XbEZlQVRQaWplOV9GbGZhOFdR?oc=5
 
-- EasyJet shares reveal deal risk as $7.3 billion takeover advances
-  EasyJet shares surged after agreeing in principle to a £5.5 billion takeover. But stock remained below the offer price amid concerns over EU ownership rules.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shares-reveal-deal-risk-as-7-3-billion-takeover-advances/articleshow/132222023.cms
+- Oil Price Today (July 7): Crude oil snaps 2-day fall as projectile hits tanker in Hormuz. Where are prices headed?
+  Brent crude futures rose 28 cents, or 0.39%, to $72.29 a barrel. U.S. West Texas Intermediate (WTI) crude gained 29
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-7-crude-oil-snaps-2-day-fall-as-projectile-hits-tanker-in-hormuz-where-are-prices-headed/articleshow/132228645.cms
 
-- TeraWulf jumps on $19 billion data center lease deal with Anthropic
-  TeraWulf signed a 20-year lease with Anthropic for AI data center infrastructure. The deal supports its shift from bitcoin mining to AI services. The company will also sell its Abernathy stake, freeing
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/terawulf-jumps-on-19-billion-data-center-lease-deal-with-anthropic/articleshow/132221952.cms
+- Bajaj Auto buyback to close today: Should you tender shares in Rs 5,633 crore buyback? Here's what analysts say
+  The two-wheeler major launched its share buyback on July 1. It aimed to buy back 46.94 lakh shares or 1.68% of
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-buyback-to-close-today-should-you-tender-shares-in-rs-5633-crore-buyback-heres-what-analysts-say/articleshow/132228578.cms
 
-- Microsoft shares fall over 1% after company announces to layoff 4,800
-  The Xbox gaming division will experience the deepest reductions, with around 3,200 roles eliminated. This restructuring follows substantial investments in gaming, including the Activision Blizzard acquisition
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-shares-fall-over-1-after-company-announces-to-layoff-4800/articleshow/132221182.cms
+- Positive Breakout: These 8 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily time frame,
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/132228531.cms
 
-- Ahead of Market: 10 things that will decide stock market action on Tuesday
-  Sensex jumped 521 points and Nifty closed above 24,430. Improved monsoon prospects, renewed FII buying, stable crude prices and optimism around earnings supported sentiment
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132220890.cms
+- Wall Street warms to India’s markets as oil pressures fade
+  India had fallen out of favor as investors chased markets with greater exposure to the artificial intelligence boom. The energy shock triggered by the US-Iran war stoked concerns about the country’s external finances.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-warms-to-indias-markets-as-oil-pressures-fade/articleshow/132228488.cms
+
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-trent-share-price-07-july-2026/liveblog/132228439.cms
 
 - "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
   "Could Be Misused By Anti-India Forces":
@@ -148,17 +148,21 @@
   'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
 
-- 70 Applied For Citizenship In Assam Under New law, 6 Got It: Government - NDTV
-  70 Applied For Citizenship In Assam Under New law,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHVORERBbHVqQTRBMTIyYlg4cU1WSTAtcUMwc193UUhZeC02UTZoMnFCMVNpR0tXV1V4ZVNQeGlzNm42Z2lldE1ERE8wbkhwck01eDB4ZlQ2d1JyLTZZZTlPdktXNWpiaTA5ZTBzOFAwM3Y4ZVJ1U0ZfZXFDckNTbmd3T3pGRWExc3FHcHFJWldYbjV6R3RDM3Uyd3VxdG5MbllaSS1JbTI2NUlfRFBF0gG3AUFVX3lxTE5wTXFpU2dNOTVIZXc5SjlxM21Dd04zcU9mUjhRODJFVGxWT3ZqMTBkSVVrejhIQ0VxZ2l0Q1BtNVBCMld1d0JNeVE5a3pKR1RYNUJ6OXY0OTZmbkRqbnpZYnpLQlZTZzlJcHFoQmdQdmswemVZdEhSQlZPMEhkb1psaFdlMUVVWmxoS1ExUFVIdExxV3VxVURZNXhiZTFnUjlwb2wxMG1JcHBsWXNRZGhoZTEzVzBMOA?oc=5
+- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
+  China and Bangladesh in Teesta tango. Why it's
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
 
-- ‘Participation fatigue’ a growing concern for Gram Sabhas, says study - The Times of India
-  ‘Participation fatigue’ a growing concern for
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUZEWU1JNkM1azlTU2tudTZWTW91MjJnc2J5bDFsbUo2X01rQ3pmYlg4Rk5PQjdHWWVHbmdudURsZk1hcUdaWk42SmpINExLWWFrbk1BdDA5ZV9zbzRzUmNlcFpBYUg3MGttZUVMNlZYLVVMZldsdWVjcEFodmlRQVJwRnRIeXZOSmtLaXYta010MFNPckU0UFJYU1JOdWxxNV8xQkhVX2V2RVhpQkhNRm9aS3lZQThjWXNlbElPb0YwcnZ1RE1PVVE5TXB4Rlk?oc=5
+- India news: Mumbai building collapse amid rains kills 6 - DW.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
 
-- New rural employment scheme prioritises water security works - The Times of India
-  New rural employment scheme prioritises water security works
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRERIWVJIY25ieGlUeFNtc1AzOFRwTkVzUmZnaXpSR3IxbGZqeDZVM3VCNDhDZm95VU0zQndYTUFodThLUzFYZGt1a2l2N0JZZHNMV19kS0xwSjd6ZVV5VzdiSmJTMWZIRWh2ZGNNa0dsNkhsdEdEdVo3d0hzWU9RdzJVam9KSWgwdGJqRmRsMUh6R3BLYXNmYWw5eEE1bVVPakh6Q09ES1BDaTBRZGg0MHFJUU5hdzk5UVFyVUVRNG5HN2VyMGJ30gHMAUFVX3lxTE8xS0JLcmhkMEloRi10aGZZSnRFN25xd09uNEFXbnREdnB3aV9kcGRaYmhfUEtLekl5TWJBWjhGTkhKZVd1c0tpVmZqZ0pmcVgzOWVMSnduVGtManFqMktoM3VGdDg1a0tZMklKZVFkUk1oUkZxUW80Y3VDdHZMSDQtRGxQN3ZSOHh3LUVpRzFnWVMtUTV6LW9McDB1d3Y2Ym5QZk5wektLb1c1RERXXzZyeUp2X3lpdWNoenlheHdYbGJocEt0czVuQnJxcQ?oc=5
+- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
+  . Emergency Teams Deployed Across City.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
+
+- Indian Startup IPO Tracker 2026
+  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
+  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
 
 - Info Edge To Acquire Remaining 45% Stake In Coding Ninjas For ₹40 Cr
   Sanjeev Bikhchandani-led internet giant Info Edge is acquiring the remaining 45.36% stake in upskilling platform
@@ -176,9 +180,25 @@
   Walmart-owned ecommerce major Flipkart has announced its second ESOP liquidity event over the past year, allowing eligible employees to sell.
   🔗 https://inc42.com/buzz/flipkart-launches-second-esop-liquidity-event/
 
-- RentoMojo Gets SEBI Nod For IPO
-  SEBI has cleared furniture and appliance rental startup RentoMojo’s IPO.
-  🔗 https://inc42.com/buzz/sebi-greenlights-rentomojos-ipo/
+- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
+  "Could Be Misused By Anti-India Forces":
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+
+- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
+  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+
+- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
+  China and Bangladesh in Teesta tango. Why it's
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
+
+- India news: Mumbai building collapse amid rains kills 6 - DW.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
+
+- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
+  . Emergency Teams Deployed Across City.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
 
 - "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
   "Could Be Misused By Anti-India Forces":
@@ -188,65 +208,17 @@
   'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
   🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
 
-- 70 Applied For Citizenship In Assam Under New law, 6 Got It: Government - NDTV
-  70 Applied For Citizenship In Assam Under New law,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHVORERBbHVqQTRBMTIyYlg4cU1WSTAtcUMwc193UUhZeC02UTZoMnFCMVNpR0tXV1V4ZVNQeGlzNm42Z2lldE1ERE8wbkhwck01eDB4ZlQ2d1JyLTZZZTlPdktXNWpiaTA5ZTBzOFAwM3Y4ZVJ1U0ZfZXFDckNTbmd3T3pGRWExc3FHcHFJWldYbjV6R3RDM3Uyd3VxdG5MbllaSS1JbTI2NUlfRFBF0gG3AUFVX3lxTE5wTXFpU2dNOTVIZXc5SjlxM21Dd04zcU9mUjhRODJFVGxWT3ZqMTBkSVVrejhIQ0VxZ2l0Q1BtNVBCMld1d0JNeVE5a3pKR1RYNUJ6OXY0OTZmbkRqbnpZYnpLQlZTZzlJcHFoQmdQdmswemVZdEhSQlZPMEhkb1psaFdlMUVVWmxoS1ExUFVIdExxV3VxVURZNXhiZTFnUjlwb2wxMG1JcHBsWXNRZGhoZTEzVzBMOA?oc=5
+- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
+  China and Bangladesh in Teesta tango. Why it's
+  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
 
-- ‘Participation fatigue’ a growing concern for Gram Sabhas, says study - The Times of India
-  ‘Participation fatigue’ a growing concern for
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUZEWU1JNkM1azlTU2tudTZWTW91MjJnc2J5bDFsbUo2X01rQ3pmYlg4Rk5PQjdHWWVHbmdudURsZk1hcUdaWk42SmpINExLWWFrbk1BdDA5ZV9zbzRzUmNlcFpBYUg3MGttZUVMNlZYLVVMZldsdWVjcEFodmlRQVJwRnRIeXZOSmtLaXYta010MFNPckU0UFJYU1JOdWxxNV8xQkhVX2V2RVhpQkhNRm9aS3lZQThjWXNlbElPb0YwcnZ1RE1PVVE5TXB4Rlk?oc=5
+- India news: Mumbai building collapse amid rains kills 6 - DW.com
+  &nbsp; &nbsp
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
 
-- New rural employment scheme prioritises water security works - The Times of India
-  New rural employment scheme prioritises water security works
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRERIWVJIY25ieGlUeFNtc1AzOFRwTkVzUmZnaXpSR3IxbGZqeDZVM3VCNDhDZm95VU0zQndYTUFodThLUzFYZGt1a2l2N0JZZHNMV19kS0xwSjd6ZVV5VzdiSmJTMWZIRWh2ZGNNa0dsNkhsdEdEdVo3d0hzWU9RdzJVam9KSWgwdGJqRmRsMUh6R3BLYXNmYWw5eEE1bVVPakh6Q09ES1BDaTBRZGg0MHFJUU5hdzk5UVFyVUVRNG5HN2VyMGJ30gHMAUFVX3lxTE8xS0JLcmhkMEloRi10aGZZSnRFN25xd09uNEFXbnREdnB3aV9kcGRaYmhfUEtLekl5TWJBWjhGTkhKZVd1c0tpVmZqZ0pmcVgzOWVMSnduVGtManFqMktoM3VGdDg1a0tZMklKZVFkUk1oUkZxUW80Y3VDdHZMSDQtRGxQN3ZSOHh3LUVpRzFnWVMtUTV6LW9McDB1d3Y2Ym5QZk5wektLb1c1RERXXzZyeUp2X3lpdWNoenlheHdYbGJocEt0czVuQnJxcQ?oc=5
-
-- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
-  "Could Be Misused By Anti-India Forces":
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
-
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
-
-- 70 Applied For Citizenship In Assam Under New law, 6 Got It: Government - NDTV
-  70 Applied For Citizenship In Assam Under New law,
-  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHVORERBbHVqQTRBMTIyYlg4cU1WSTAtcUMwc193UUhZeC02UTZoMnFCMVNpR0tXV1V4ZVNQeGlzNm42Z2lldE1ERE8wbkhwck01eDB4ZlQ2d1JyLTZZZTlPdktXNWpiaTA5ZTBzOFAwM3Y4ZVJ1U0ZfZXFDckNTbmd3T3pGRWExc3FHcHFJWldYbjV6R3RDM3Uyd3VxdG5MbllaSS1JbTI2NUlfRFBF0gG3AUFVX3lxTE5wTXFpU2dNOTVIZXc5SjlxM21Dd04zcU9mUjhRODJFVGxWT3ZqMTBkSVVrejhIQ0VxZ2l0Q1BtNVBCMld1d0JNeVE5a3pKR1RYNUJ6OXY0OTZmbkRqbnpZYnpLQlZTZzlJcHFoQmdQdmswemVZdEhSQlZPMEhkb1psaFdlMUVVWmxoS1ExUFVIdExxV3VxVURZNXhiZTFnUjlwb2wxMG1JcHBsWXNRZGhoZTEzVzBMOA?oc=5
-
-- ‘Participation fatigue’ a growing concern for Gram Sabhas, says study - The Times of India
-  ‘Participation fatigue’ a growing concern for
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUZEWU1JNkM1azlTU2tudTZWTW91MjJnc2J5bDFsbUo2X01rQ3pmYlg4Rk5PQjdHWWVHbmdudURsZk1hcUdaWk42SmpINExLWWFrbk1BdDA5ZV9zbzRzUmNlcFpBYUg3MGttZUVMNlZYLVVMZldsdWVjcEFodmlRQVJwRnRIeXZOSmtLaXYta010MFNPckU0UFJYU1JOdWxxNV8xQkhVX2V2RVhpQkhNRm9aS3lZQThjWXNlbElPb0YwcnZ1RE1PVVE5TXB4Rlk?oc=5
-
-- New rural employment scheme prioritises water security works - The Times of India
-  New rural employment scheme prioritises water security works
-  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxNRERIWVJIY25ieGlUeFNtc1AzOFRwTkVzUmZnaXpSR3IxbGZqeDZVM3VCNDhDZm95VU0zQndYTUFodThLUzFYZGt1a2l2N0JZZHNMV19kS0xwSjd6ZVV5VzdiSmJTMWZIRWh2ZGNNa0dsNkhsdEdEdVo3d0hzWU9RdzJVam9KSWgwdGJqRmRsMUh6R3BLYXNmYWw5eEE1bVVPakh6Q09ES1BDaTBRZGg0MHFJUU5hdzk5UVFyVUVRNG5HN2VyMGJ30gHMAUFVX3lxTE8xS0JLcmhkMEloRi10aGZZSnRFN25xd09uNEFXbnREdnB3aV9kcGRaYmhfUEtLekl5TWJBWjhGTkhKZVd1c0tpVmZqZ0pmcVgzOWVMSnduVGtManFqMktoM3VGdDg1a0tZMklKZVFkUk1oUkZxUW80Y3VDdHZMSDQtRGxQN3ZSOHh3LUVpRzFnWVMtUTV6LW9McDB1d3Y2Ym5QZk5wektLb1c1RERXXzZyeUp2X3lpdWNoenlheHdYbGJocEt0czVuQnJxcQ?oc=5
-
-- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
-  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
-
-- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
-  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
-
-- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
-  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
-  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
-
-- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
-  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
-  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
-
-- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
-  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
-  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
-
-- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
-  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
-  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
+- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
+  . Emergency Teams Deployed Across City.
+  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
 
 
-_Last updated: 2026-07-06 19:51:31 UTC_
+_Last updated: 2026-07-07 02:37:58 UTC_
