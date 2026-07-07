@@ -1,84 +1,92 @@
 # 📰 Daily News Summaries
 
-- Capsized boat, 6 missing crew, one man’s 2-hour swim in rough seas: Search on for Andhra fishermen
+- Why the Congress won’t attend UCC hearings in Rajasthan
   
-  🔗 https://indianexpress.com/article/india/capsized-boat-6-missing-crew-one-mans-2-hour-swim-in-rough-seas-search-on-for-andhra-fishermen-10774587/
+  🔗 https://indianexpress.com/article/india/why-the-congress-wont-attend-ucc-hearings-in-rajasthan-10775452/
 
-- Convention centre, museum: Nod sought for work at Indira Point, India’s southernmost tip
+- India to supply 2 BrahMos missile batteries worth $200 million to Indonesia
   
-  🔗 https://indianexpress.com/article/india/indira-point-lighthouse-development-andaman-and-nicobar-project-10774605/
+  🔗 https://indianexpress.com/article/india/india-indonesia-brahmos-missile-deal-200-million-defense-agreement-10775460/
 
-- Purge in Minister Bhupender Yadav’s office: Private Secretary, two Additional PSs removed
+- Flash floods, mudslides in J-K: Highway blocked for 2nd day, houses and buildings damaged
   
-  🔗 https://indianexpress.com/article/india/purge-in-minister-bhupender-yadavs-office-private-secretary-two-additional-pss-removed-10774597/
+  🔗 https://indianexpress.com/article/india/flash-floods-thathri-jammu-and-kashmir-houses-buildings-damaged-highway-blocked-10775401/
 
-- PM Narendra Modi’s three-nation tour: Defence, critical minerals on table at India-Indonesia meeting today
+- Hindu members in Waqf Board: Political storm in Madhya Pradesh, Congress MLA vows to move court
   
-  🔗 https://indianexpress.com/article/india/pm-narendra-modis-three-nation-tour-defence-critical-minerals-on-table-at-india-indonesia-meeting-today-10774654/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-waqf-board-hindu-members-waqf-amendment-act-2025-mohan-yadav-10775390/
 
-- ‘Organisational committees valid until 2027’: Mamata Banerjee faction to poll body over rebel group’s claim on party
+- ‘NEET exam over’: Centre okays unblocking of Cockroach Janta Party’s X handle
   
-  🔗 https://indianexpress.com/article/india/organisational-committees-valid-until-2027-mamata-banerjee-faction-to-ec-over-rebel-groups-claim-on-party-10774466/
+  🔗 https://indianexpress.com/article/india/cockroach-janta-party-x-account-unblocked-delhi-high-court-neet-dharmendra-pradhan-abhijeet-dipke-10775347/
+
+- iOS 27 beta lets users customise Siri’s voice with new AI controls
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-beta-lets-users-customise-siris-voice-with-new-ai-controls-10775269/
+
+- Anthropic researchers find Claude has a hidden ‘thinking’ workspace: Here’s what it means
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-hidden-workspace-what-it-means-10775230/
+
+- Why AI ‘girlfriends’, virtual companions may no longer be accessible in China from July 15
+  
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/ai-girlfriends-virtual-companions-china-crackdown-10775012/
+
+- Ghostly squid, glowing worms among 31 alien-like species discovered off Brazil coast
+  
+  🔗 https://indianexpress.com/article/technology/science/ghostly-squid-glowing-worms-among-31-alien-like-species-discovered-off-brazil-coast-10774838/
 
 - Microsoft warns of more changes after 4,800 layoffs amid broader restructuring
   
   🔗 https://indianexpress.com/article/technology/artificial-intelligence/microsoft-layoffs-xbox-ai-10774772/
 
-- Can frequent navigation protect against Alzheimer’s? Study offers clues
-  
-  🔗 https://indianexpress.com/article/technology/science/can-frequent-navigation-protect-against-alzheimers-study-offers-clues-10774039/
+- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
+  'Gratitude To Friendly India': Iran
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
 
-- AI copyright battle: Midjourney wants Disney, Universal, Warner Bros to disclose projects
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ai-copyright-battle-midjourney-wants-disney-universal-warner-bros-to-disclose-projects-10774038/
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Apple orders 10 million foldable iPhone Ultra units as launch nears: Reports
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/apple-orders-10-million-foldable-iphone-ultra-units-as-launch-nears-reports-10773929/
+- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
+  India's landmark Ram temple overhauls board after
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
 
-- Sony’s PlayStation game discs will still be available after 2028, but there’s a catch
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/sonys-playstation-game-discs-will-still-be-available-after-2028-but-theres-a-catch-10773554/
+- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
+  Video captures terrifying moment landslide hits Wayanad, 1 dead
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
 
-- In a flurry of deals, Adani mobilizes $10 bn in a week for capex boost
-  The flurry of deals marks one of the largest capital-raising exercises by an Indian conglomerate in recent years. The fund mobilization spans equity raises, stake sales and long-
-  🔗 https://www.livemint.com/companies/in-a-flurry-of-deals-adani-mobilizes-10-bn-in-a-week-for-capex-boost-11783341008140.html
+- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
+  PM in Indonesia LIVE: Modi hails new 'golden chapter in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
 
-- Skyroot Aerospace: building the Uber for space, one launch at a time
-  Skyroot is preparing for Vikram 1, a mission that will make it the first private Indian company to launch a commercial satellite. Co-founded by former Isro scientists Pawan Kumar Chandana and Naga
-  🔗 https://www.livemint.com/companies/people/skyroot-aerospace-building-the-uber-for-space-mission-aagaman-vikram-1-test-flight-11783332303149.html
+- NSE IPO: From derivatives dominance to dividends, Jefferies flags five key positives
+  The exchange commands 70% of India's revenues and focuses on equity derivatives. Positive growth prospects maintain NSE's attractiveness in the exchange market.
+  🔗 https://www.livemint.com/market/ipo/nse-ipo-from-derivatives-dominance-to-dividends-jefferies-flags-five-key-positives-11783415146761.html
 
-- Microsoft Layoffs: Xbox CEO Asha Sharma acknowledges 'business is not healthy', flags weak margins amid 3200 job cuts
-  The restructuring is aimed at simplifying Xbox's operations and redirecting resources towards larger projects.
-  🔗 https://www.livemint.com/companies/people/microsoft-layoffs-xbox-ceo-asha-sharma-acknowledges-business-is-not-healthy-flags-weak-margins-amid-3200-job-cuts-11783356212016.html
+- Multibagger TARC shares jump 12% as Q1 pre-sales triple, collections surge 80%
+  The company reports ongoing construction progress and plans for luxury projects, indicating a strong market presence and demand. TARC shares rose 12.3% to  ₹142.
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-tarc-shares-jump-12-as-q1-pre-sales-triple-collections-surge-80-11783415338976.html
 
-- ICICI Prudential board approves reclassifying Prudential as an investor
-  ICICI Prudential Life Insurance's board approved seeking Irdai's nod to
-  🔗 https://www.livemint.com/companies/news/prudential-icici-prudential-life-promoter-reclassification-bharti-life-insurance-deal-irdai-11783346624327.html
+- Knack Packaging IPO listing in focus. Here's what GMP signals ahead of debut
+  Knack Packaging share price will be listed on Wednesday, 8 July. The shares are commanding a strong premium in the
+  🔗 https://www.livemint.com/market/ipo/knack-packaging-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11783392457168.html
 
-- Lockheed Martin snaps up Ultra Maritime in $3.45 billion naval defence push: All about the deal
-  The deal comes at a time when defence companies are benefiting from a
-  🔗 https://www.livemint.com/companies/lockheed-martin-snaps-up-ultra-maritime-in-3-45-billion-naval-defence-push-all-about-the-deal-11783340963138.html
+- Swiggy share price jumps 6% after this foreign investment update. Do you own?
+  Swiggy disclosed that foreign investment is at 49.76%, with domestic ownership exceeding 50%. This clarification confirms no changes in management, voting rights, or ownership status.
+  🔗 https://www.livemint.com/market/stock-market-news/swiggy-share-price-jumps-6-after-this-foreign-investment-update-do-you-own-11783412312159.html
 
-- Stock market today: Gift Nifty hints positive start; eight day trading stocks to buy on Tuesday, 7 July
-  Sensex rose 521.16 points, while the Nifty 50 gained 159.50 points. Despite mixed Asian trends, foreign institutional buying supports the market amid easing geopolitical tensions.
-  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-positive-start-eight-day-trading-stocks-to-buy-on-tuesday-7-july-11783388554604.html
+- FMCG sector Q1 results preview: Healthy topline growth likely, margin to be resilient despite inflation pressure
+  FMCG companies expected to report healthy revenue growth in Q1FY27. Both rural and urban demand are expected to have remained resilient, with no major divergence.
+  🔗 https://www.livemint.com/market/stock-market-news/fmcg-sector-q1-results-preview-healthy-topline-growth-likely-margin-to-be-resilient-despite-inflation-pressure-11783411772957.html
 
-- Vaishali Parekh recommends three intraday stocks to buy or sell on Monday — 7 July 2026
-   Vaishali Parekh recommends three stocks to buy today. Lloyds Engineering Works, RBL
-  🔗 https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-three-intraday-stocks-to-buy-or-sell-on-monday-7-july-2026-11783388720148.html
+- Apple now asks users before sending Apple Intelligence requests to Google Cloud
+  Apple's new AI features require users to share data with
+  🔗 https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html
 
-- Stocks to watch: Cochin Shipyard, Trent, Titan among shares in focus today; check list here
-  The Nifty was trading near the 24,578 mark, up over 95 points from
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-trent-titan-among-shares-in-focus-today-check-list-here-11783358048849.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 July
-  Gift Nifty was trading around 24,584 level, a premium of nearly 102 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-july-11783388515333.html
-
-- Asian stocks today: Nikkei, Kospi fall over 4% as technology stocks weigh; Samsung shares slide
-  South Korea's Kospi fell 4%, while the small-cap Kosdaq index slipped 0.72%. Japan's
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-nikkei-kospi-fall-over-4-as-technology-stocks-weigh-samsung-shares-slide-11783385379378.html
+- Apple finally brings back card payments for subscriptions and App Store purchases in India
+  Apple resumesdcard payments for App Store purchases in India after a four-year
+  🔗 https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html
 
 - Apple could bring back its iPhone X playbook for the iPhone Ultra
   Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-
@@ -92,133 +100,153 @@
   Apple could be teasing a new AirPods Pro with cameras with the
   🔗 https://www.livemint.com/technology/tech-news/ios-27-beta-2-leak-reveals-new-clue-about-apples-camera-equipped-airpods-heres-what-we-know-11783218215836.html
 
-- WhatsApp usernames: Will they make India's digital conversations safer or less trustworthy? Experts weigh in
-   WhatsApp's move towards usernames is more than a feature update. As digital platforms evolve in India,
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-usernames-will-they-make-indias-digital-conversations-safer-or-less-trustworthy-experts-weigh-in-zoho-signal-11783060388147.html
-
-- WhatsApp username row: Zoho's Arattai to disable username feature
-  Zoho's Arattai will remove its username
-  🔗 https://www.livemint.com/technology/tech-news/whatsapp-username-row-zohos-arattai-to-disable-username-feature-11783058599480.html
-
-- Stock Market News, July 6, 2026: Dow Rises to Record, Nasdaq Starts Busy Tech Week With Gains - WSJ
-  The WSJ looks at the biggest stories in the stock market for July
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFJTZkhkcG5wbHdKMjB6Rlc3MmN1V00xdkVjd200c3FqU3poWndNcTgyT2dCelZCcm9RYkMyRjUybk53LTI0aEpLbk5nOVBZdXVmb2lWUTF6LVZPQXRTbjN1VWxrSTlGXzZZRXY2NTlWMkdmSS1DdzlidDNHR0llWl9mQ2NhMk0?oc=5
-
-- Tech Stocks’ Rebound Stalls, Dollar Edges Higher: Markets Wrap - Bloomberg.com
-  Tech Stocks’ Rebound
-  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNQms1OXFMOUJXelktWldaTmFkR0E0NHoyQWx6THBGZV9zVUI3UXFiQ2lDaElWRG1POERvVXk4WGl6MDBBbTgzTWQzZC1Hak1SeFloQ1BValhNdlBqS2k2NmJIaG1jVkJWYUdFX0Noa3RBVVhBQVRhd3NyR1d5SFphR2hpX21iLVFHVllUT2EtNGlRRFls?oc=5
-
-- Stock futures are little changed after Dow tops 53,000 for first time: Live updates - CNBC
-  Stock futures are little changed after Dow tops 53,000 for
+- Stock futures are mixed after Dow tops 53,000 for first time: Live updates - CNBC
+  Stock futures are mixed after Dow tops 53,000 for
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFBQWkNlWldGeENRRWhGMVgxMkRMNGFvZXhlUnV6SG94aXZHbzdvZUVMQmVTTFMyNUdxS1pOUFQzMWJzcU9jZHVnaEI0TDZtZzZyTkNqazJBa21fTGlZUy1UM2g1ZjZGbWVNMjJ2N2xZWXQxcjBSS0hr0gF8QVVfeXFMUGZwYTE1emhaenhwR0l1X2VYa3phU1pqamhoTjJaZWZOdERQcWtVS0pmZ1REZjNVdjlqWTE3V3g5dFI1bG91eGFUWDN6WlBVeVpKZExUNmFXN01OMElZOVJTMmFjeEtKMlBPNTQ3OU1GMVhIZEN3UUh4NzhGRw?oc=5
 
-- Wall Street Warms to India’s Markets as Oil Pressures Fade - Bloomberg.com
-  Wall Street Warms to India’
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVA4M3NVTnlxVi15OXFhd1MtVEh1Z3FCcEdPM2s3cnZrN0JCQ0lzVUVVc3VKak12VGtDOUVfRlNhUkUyTER5bzd4RGlKaEl5b0hBWl83c19QWjJ4MTExS3BaU182cWtqU1g2bGZ2M0xDeGhIR3Q4RHdQYmN1YUpXbjJucE45N1A5S3Y5eUtOdWE5VlY4aEVVNVRXcHgxLXdJdmhGNHVRcHpYc3B1V2c?oc=5
+- Stock Market Today: Samsung Sparks Tech Selloff Despite Strong Results — Live Updates - WSJ
+  &nbsp;&ngt;&
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVk1jYVRUUlQ4RlJQZlRtb1VjQW8wUU84eC1JOF9WSUdhcThGSFZKOUhEZWYzanBCVEFSU2Rwa2J2UmlGMHBCX21sMXNycFRoXzl3LUVZdWpQY0R1LUV0eWZ2TTkyeVVuTHozS2RoNmJ0SVl1aHFoSFZXbkdmZ3NpaGpfMVc5Zzg?oc=5
 
-- Sensex Today | Stock Market Live: GIFT Nifty indicates a firm start; US markets gains, Kospi down 5.6% - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQUnpXajhNMDVLUmV2NmMxdnp1Wkp1bi1WcDR5Q2trU2pxeExBOXhTSEVIeGVJUkc1TDBKalRySnRVT3F5UDFHbEpMeFg3aXpTVVZTT2Y2WWVfTC1zZ3JhV0pWR3BKSUh6Z1
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxQUnpXajhNMDVLUmV2NmMxdnp1Wkp1bi1WcDR5Q2trU2pxeExBOXhTSEVIeGVJUkc1TDBKalRySnRVT3F5UDFHbEpMeFg3aXpTVVZTT2Y2WWVfTC1zZ3JhV0pWR3BKSUh6Z1BLNjQ1TDc5MUhEUFpDNTNqelY2ZnFybVNZalFGbXF0bG9ybnpRT0d3TW1VZTdkV2VGYkowWHRISGdNSElMY1p0aURLN0JDRjZtd29uMzlKYk1EQmxyVWNGbjI5aGRsc21XY0FyTjE4c05GLWNrZE45Y3habjdfczRQVmVGLWZIZVdHM3JPSHA1Y3g3ZWEzTDBwTjhzMHotZEwtZXQydUtyLUw4WElBVE9WMNIBmAJBVV95cUxNTXd2eC1hY3lkVVUzU0w5MDhxQnlIRm96dWpHbU15ajNNN1RYdnFFWkV3WVN5OHo2THlCdGJzZUVWd09IZTQ3TXFDVHl4ZERpM0pzVGgxXzN5SlRyak14d2VrV1NxYUU3YTNVWnZIOVEyQjhNa0xNdTVPcmdxaWNlVGswSzZfUUpWdzJmRnlZaklGSW1JdUgyRHZjWlZrNGNoWWpFdm02aGV4SzVsSzE2VTZXbXRKaW93eElFRFFhallJNFo0S2V3bWx6dFlzaVBRV29jN3pZc1NUUWMyZGZFV2ZuMnlQMDV5cDZYaTIydTFmUnYwQlpOQjhtdzkwYmVSME90c21XbEZlQVRQaWplOV9GbGZhOFdR?oc=5
+- Markets News, July 6, 2026: Major Indexes End Monday Higher as AI-Tied Stocks Rebound; Dow Closes at Record After Crossing 53000 for First Time - Investopedia
+  Dow closes at record after crossing 53,000 for first time.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxPalZtVE15RmJrZndsbzJUTHRNbFFibDlOa1paVjlYRzNTa2tydzZFdnFFZGtLc3YxNl95bTlEM3hlNm5teXZPS1M1OGxZcVZTQmk4eWpCNXVRVXUyVzdfTjNfVUtHYXFMZlVScDhLT05HeWxTSFRPZmY4dU9KcHRYNWpwUFh2anIzUVZZYUcxV1o?oc=5
 
-- Oil Price Today (July 7): Crude oil snaps 2-day fall as projectile hits tanker in Hormuz. Where are prices headed?
-  Brent crude futures rose 28 cents, or 0.39%, to $72.29 a barrel. U.S. West Texas Intermediate (WTI) crude gained 29
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-7-crude-oil-snaps-2-day-fall-as-projectile-hits-tanker-in-hormuz-where-are-prices-headed/articleshow/132228645.cms
+- Samsung’s Record Profit Wasn’t Enough for Markets Facing a Tech Selloff - Bloomberg.com
+  Samsung's Record Profit Wasn’t
+  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3pYYm56UDRsNWV0aWJITXNUd1hESlY0TXJHS1o0VmRMbU9NSXdLd1IwTmVDMFF4Y0NoU3RjNjRGY2tPNFhycnBSLUk2N3p3MVpvUVpicGNlWkpzWW1KQV9UbEd2WTV4VnA4cGZtZ2pLYlc1ajgwNkgtMkVYVUZGZnRrMFpwcVh6Yk9qQXJrUUZzb1pLRjZPYk1XWWV0U3JGd0VWSHQwWE5oeXZiZHkxemt0cEhfbU5qRXVKN2Zfbm52MzA?oc=5
 
-- Bajaj Auto buyback to close today: Should you tender shares in Rs 5,633 crore buyback? Here's what analysts say
-  The two-wheeler major launched its share buyback on July 1. It aimed to buy back 46.94 lakh shares or 1.68% of
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-buyback-to-close-today-should-you-tender-shares-in-rs-5633-crore-buyback-heres-what-analysts-say/articleshow/132228578.cms
+- Stock markets climb in early trade on foreign fund inflows - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkFKUHFsNElwczRWemRseWd0NE1tbXd4SGhuVVVJMFltZVh2OUo0dW9STkxQWjJkRjRyNGNIZS1uaUNrOGNpMHRSREN0bnd6UnZLd0YycHVFY2lGV2FYSk1oWHhpSzNNYn
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkFKUHFsNElwczRWemRseWd0NE1tbXd4SGhuVVVJMFltZVh2OUo0dW9STkxQWjJkRjRyNGNIZS1uaUNrOGNpMHRSREN0bnd6UnZLd0YycHVFY2lGV2FYSk1oWHhpSzNNYnlreEpVUEtUbEpvTTR3YUZDSFdvMV9qUENzV0FLNVpyX2VCVEJkSEtma3JYc1h0WE52Z3FibXNxM3RWZXgyYlZ2SWsxZF8wMjdBLTRVa3paTmdJa9IBwwFBVV95cUxOZ0czUEs2S3A5ZGgyZk9TQ2MxVDB2aDU3YzhTazRieWZzN05zdlhuTkw3OEEyeUJiMVJwZ1dHX205bXIzUEtIWHVpeWNuSUthWlN5X0l6V2pMTllRdTRtUnZCR29CdWRUV0plTnZXaXNBMWl1dzFSUkZweUJheF9hVlJkMHRJc1Q3c0VwX1BaRWJ1ZkNTVmpNRktVWWs1bE11YmszM0VUcGN6NXpDVjgzOWtLQTI5bXJLTlBtYmpmYVlEMVU?oc=5
 
-- Positive Breakout: These 8 stocks cross above their 200 DMAs
-  As long as the stock is priced above the 200-day SMA on the daily time frame,
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/132228531.cms
+- Global Market: Britain's bond market poses early fiscal test for Andy Burnham
+  Britain's government bond market is expected to be a key test for Andy Burnham's economic credibility. Investors scrutinise his commitment to fiscal discipline amid mounting spending pressures.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-britains-bond-market-poses-early-fiscal-test-for-andy-burnham/articleshow/132235449.cms
 
-- Wall Street warms to India’s markets as oil pressures fade
-  India had fallen out of favor as investors chased markets with greater exposure to the artificial intelligence boom. The energy shock triggered by the US-Iran war stoked concerns about the country’s external finances.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-warms-to-indias-markets-as-oil-pressures-fade/articleshow/132228488.cms
+- TCS, Infosys and other Indian IT stocks rise up to 4% after AI worries trigger Kospi selloff
+  Indian IT stocks climbed despite a sharp sell-off in Asian chipmakers. Investors positioned for Q1 earnings. Investors worry that AI could hurt billing growth, reduce manpower-linked revenue.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-and-other-indian-it-stocks-rise-up-to-4-after-ai-worries-trigger-kospi-selloff/articleshow/132235253.cms
 
-- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower
-  
-  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-trent-share-price-07-july-2026/liveblog/132228439.cms
+- MF Picks: 13 stocks surge up to 230% in just 3 months; 3 turn multibaggers
+  Thirteen BSE 500 stocks surged 60%–230% in just over three months. HFCL, Cemindia Projects
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-stocks-surge-up-to-230-in-just-3-months-3-turn-multibaggers/slideshow/132235012.cms
 
-- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
-  "Could Be Misused By Anti-India Forces":
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+- Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY
+   Info Edge shares rose sharply after the company reported a 14.4% year-on-year rise in Q1FY27 standalone billings. Investor sentiment was also supported by the Coding Ninjas acquisition
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-surge-11-after-q1fy27-billings-rise-14-yoy/articleshow/132234550.cms
 
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+- Global Market: Asian refiners turn to cheaper Gulf oil despite Saudi price cuts
+  Saudi Arabia significantly reduced crude oil prices for Asian buyers this month. Rival Gulf producers are offering better value and deeper discounts to attract customers. Weak demand across Asia, especially in China, further impacts Saudi oil sales.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-refiners-turn-to-cheaper-gulf-oil-despite-saudi-price-cuts/articleshow/132234383.cms
 
-- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
-  China and Bangladesh in Teesta tango. Why it's
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
+- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
+  'Gratitude To Friendly India': Iran
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
 
-- India news: Mumbai building collapse amid rains kills 6 - DW.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
-  . Emergency Teams Deployed Across City.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
+- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
+  India's landmark Ram temple overhauls board after
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
 
-- Indian Startup IPO Tracker 2026
-  Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
-  🔗 https://inc42.com/features/indian-startup-ipo-tracker-2026/
+- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
+  Video captures terrifying moment landslide hits Wayanad, 1 dead
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
 
-- Info Edge To Acquire Remaining 45% Stake In Coding Ninjas For ₹40 Cr
-  Sanjeev Bikhchandani-led internet giant Info Edge is acquiring the remaining 45.36% stake in upskilling platform
-  🔗 https://inc42.com/buzz/info-edge-to-acquire-remaining-45-stake-in-coding-ninjas-for-%e2%82%b940-cr/
+- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
+  PM in Indonesia LIVE: Modi hails new 'golden chapter in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
 
-- NoBroker’s Future Is Beyond Home Listings, But Will Profits Follow?
-  FY26 was a good year for us. The effort was to make sure that we balance growth and profitability.
-  🔗 https://inc42.com/features/nobrokers-future-is-beyond-home-listings-but-will-profits-follow/
+- D2C Footwear Brand Fizzy Goblet Onboards Kareena Kapoor As Investor
+  D2C footwear and accessories brand Fizzy Goblet has onboarded Kareena Kapoor Khan as a strategic investor.
+  🔗 https://inc42.com/buzz/d2c-footwear-brand-fizzy-goblet-onboards-kareena-kapoor-as-investor/
 
-- Kunal Kapoor, Ketto Cofounders Launch Healthtech Startup MetaGO
-  Actor Kunal Kapoor has partnered with crowdfunding platform Ketto’s cofounders Varun Sheth and Zaheer Adenwala
-  🔗 https://inc42.com/buzz/kunal-kapoor-ketto-cofounders-launch-healthtech-startup-metago/
+- Koo Cofounder Mayank Bidawatka Shuts New Startup PicSee
+  Koo cofounder Mayank Bidawatka has shut his AI-enabled mutual photo sharing startup, PicSee.
+  🔗 https://inc42.com/buzz/koo-cofounder-mayank-bidawatka-shuts-new-startup-picsee/
 
-- Flipkart Launches Second ESOP Liquidity Event In 12 Months
-  Walmart-owned ecommerce major Flipkart has announced its second ESOP liquidity event over the past year, allowing eligible employees to sell.
-  🔗 https://inc42.com/buzz/flipkart-launches-second-esop-liquidity-event/
+- Centre Directed ZEE5 To Remove Diljit Dosanjh-Starrer Satluj Under IT Rules
+  A day after Diljit Dosanjh-starrer Satluj was taken down from streaming platform ZEE5, it emerged that
+  🔗 https://inc42.com/buzz/centre-directed-zee5-to-remove-diljit-dosanjh-starrer-satluj-under-it-rules/
 
-- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
-  "Could Be Misused By Anti-India Forces":
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+- Chocolate Finds Its D2C Sweet Spot
+  In June 2026, Manam Chocolate raised a $9 Mn Series A round. This marked a notable move in India’s consumer market.
+  🔗 https://inc42.com/features/chocolate-finds-its-d2c-sweet-spot/
 
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+- Cult.fit Files Draft Papers For ₹4,000 Cr IPO
+  Fitness unicorn Cult.fit has filed its draft red herring prospectus (DRHP) to raise over ₹950 Cr through its IPO.
+  🔗 https://inc42.com/buzz/cult-fit-files-draft-papers-for-over-%e2%82%b9950-cr-ipo/
 
-- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
-  China and Bangladesh in Teesta tango. Why it's
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
+- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
+  'Gratitude To Friendly India': Iran
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
 
-- India news: Mumbai building collapse amid rains kills 6 - DW.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
-  . Emergency Teams Deployed Across City.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
+- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
+  India's landmark Ram temple overhauls board after
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
 
-- "Could Be Misused By Anti-India Forces": Sources On Why 'Satluj' Was Pulled Down - NDTV
-  "Could Be Misused By Anti-India Forces":
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpxcVJEejlqLWxFWG1JZWxneVBCY2lPRFhZQnhMdFZCRHpOa1NGUkN4eTdOZ3lvbkxMei1IYVNHUWE2RGVPekNqZ0k2aWdOb3p4SzVXalJoVDcxempUenBDN21IVDlBM3liOXJLa1ZFa1hoWW1oMjFVdzJzSEhDV0V4Q2VMVTV5T3BZbUMyM3B2eHRBUS1zVllsRmxqVEdhbm5ubDkzb3Z5M3VjOU12YndGa1BqbjjSAb8BQVVfeXFMTVFhVk1yYmtSU1FxOE9vcEJoaFJuLUl4ZkR1bTQzbTlrTUFHTms4UUVUZ2xPTk1OVkNXX1pvX0xYUHRpNlNjRE9XN1k3MGRqTE0zWXN6bGZFUEd3WGFOcVhSTTVncnkyTGdWSWFmbkFHWmNHczJ5NGYwVVo1OFVHLVZ1bHJkSFNHOWdIaWdFN3dCcDZ0VjduaHdBQzU2TnhxcldId0s2amhGVnJkZWJnZ2tHcHBhTGstWXZNZmFkdXM?oc=5
+- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
+  Video captures terrifying moment landslide hits Wayanad, 1 dead
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
 
-- 'We have some other friends, like India': Netanyahu pushes back after Vance calls US 'only ally' of Israe - The Times of India
-  'We have some other friends, like India,' Netanyahu pushes back after Vance calls US 'only
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEttYVZDaXQwVVJBbXJfQnh0eHJ5c004ZzJJQ1JTVWgyMUIzc2cyMGxZV19qNkpvYzVBUnpBY09TNkRLTnpjVF9VZkRCekJwWEMzUS1LSzNYVEF0UDBYT2FuUlpNMjY4dHVNWnl6T3lCY3FfcVFrQ2k4NWF1MkNadm42YldhSDFpRXRUNm1BWkkzVmFudDc0WHF0YjNNcXpXTl9HOTdXLVlOdWd2SWRycW9sRjZSMHczQVJ1NUg0YUI3MUpnV1gxc3RSV0FDRDN2dEtwU2JHU0RpcWFaa3BQcWZlNEtWMVJXYTZQRWFZcE85am1hSVl3ZTVPUlNfYVlmaGgya19TZDR1dHRI0gGSAkFVX3lxTE1zTFhvVGprSmFORXJTclFYM0g1cE83UE1Xa1R0R1F4OS1LaldKa09sc19YOFYxOTN1ODVoN2xGOFFvcFlLTS1oeFJKbDFlajFrTVBWT0RrVVpTOGdMNUU4bmpUQWMtSzNJeVZlb1NUdGlNdnNWSDUtU1VNWVhYQk9tdV9HWElaT0Z2cGJJWkRhOTBEay1ZX3g3Q1RVV2EwYUNPZHh2dm05NmZtTGZLbFY2V2kxdUdocU5WckdLZWNlbGpSdW1haXpENGtyRWF2SXhmOEp2UmtLcXQ2bjM1MVpxMEd1REZkMUJHV0R2R0ZZakc4NWl2enM0QXVJVXNJQ3pBQTNycHViWkhXSmVkY3lVRHc?oc=5
+- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
+  PM in Indonesia LIVE: Modi hails new 'golden chapter in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
 
-- China and Bangladesh in Teesta tango. Why it's not good news for India - India Today
-  China and Bangladesh in Teesta tango. Why it's
-  🔗 https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMU1qUDFvbGo2U1MxTTNob3ZydGs5R3VsU3Q2Tk1vSU1TM255Y3Z5QkhuRFg1UFBkcFVsV0ZjVW9adlh6dmc2OV9uNHBTX0dRMEZkcUwwNWJMZ1JaUG5zOW16LVgzdV9YV21ZMXJreGFnNkFMUGRZSGVZVEZ5VmVQX0xrcXZ2ZlZrcE1KQU5qanJIZDl0UWhYMXpVMUEzRjdXaC1JbS1RdTAyN3NoWWR1Ni1YYjJzNGJIdTgzSFNnMFJSd05wclRDMk45QlYtVHZ3UDNlcjlRajJoaGFZd2hYdjR0ejR4dldzaHMtWlZPcERFNFRpVkHSAfsBQVVfeXFMUG1Ta2c2VHBhWk1LcWEtRVlyY0JEZ0dVMmdFUHc3ZEp4QzJQS1I1TGRzTDNDZnl3cUp2eDNrdkF2MWxlVjN3MGFKTGtaWTNnaGpyYzZuUW9OVmVLbm42VTRHVVUwUG96N0xiMDJGSG9Ib3ZfaXMzX3FSV052a0lSSTQ2STJXR213Y1ctWlBhZXlFVTltVlByVHlyRWREM0c3S2gxT2pFMXRkS09PQUpNQ3dtTjlHNFJxLXRSRHktU0JhdTZsSlJzNmphQ2hwYzZmV3FyZmcxWWFmc3VlM2l5NWFJQzRaNEZoWVhVSExuQWRNWHFRanRxdDVFRUk?oc=5
+- 'Gratitude To Friendly India': Iran's Thank You Note Amid Khamenei's Funeral - NDTV
+  'Gratitude To Friendly India': Iran
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjczRUs4aURqczM0ZTZuVnpaZmZKbG9TajFQbDFpRzhhdVY2SWQ0VG0yVjFNWkp5aEJ4N2E5N3NLVm9McUVKX3pIRHc2ZFV6dE9OSE9FSkhMNUQ4bDEzSUVGSEJVUy1sdUpkOTZjajA1OGFSdVRiaDlVYnBpXzU5ZzBoaE1tSTJzb1I5TUNFeWgxMGFZTktkQVFCaVEtQ3NuTjVMTjVHNTFmUVJ3VE9idHhB0gG6AUFVX3lxTE9IYWJUMG1RVlJwQzZGQW5CMnVIWk9lSU9RU1JTZENDQWUzV3A5ZkdiN2xVVlo4SmtWdkdRV2RlZ29LRzZIRDZOa1lsWFJXYVF3UVJZRzBVcDU2a1c3OG5zei1Od2M5dm5kQTVGWnBtX1pGZFY5QnVvcDRjLXAzV25YUWZSOHd2NTczZVU5SG95Q2d6RFE1VWtHT2JDT1FXRlJuVXJia1RaTXF0WFBDMmlBME9GS21kWmMwUQ?oc=5
 
-- India news: Mumbai building collapse amid rains kills 6 - DW.com
-  &nbsp; &nbsp
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWk2eEJFVlg2eF9UbGpnVmtNN1V3Vy14T0FfRDlQSU5KWTcwQXJUVURDOHIxX3BNcFBzSDRFZnluMDM4ZFMyZlJkaE1ZWFdOZ0s4bnI4ZXFUdVlDWDlqUFotcHVjdGR0TkFjcVFRXzJUTktzb0xKemJZbHVoZkN3cVpkQXM2aVVrTWh5NlJTZHNyWi03MlFrMGhBaE5ueVJBYkp0Skk0SGZXQQ?oc=5
+- India's Indo-Pacific push puts China on notice | India News - Hindustan Times
+  India's Indo-Pacific push puts China on
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQX00yLW5qZk5WblctZXNrNVBtcVl2WjFNalg0M3k5MHVBSHV6V3JRZk9YRHQwNV8xWmljeTlaN1kyZC1haE10NzZJb1gzc0xCalkzcGVmR2kxdTlEdUkwUkExYUxPeEpLSkR0Z1pYd3FlZkJnUGtJQlpOM3pVbjRJbWtfM2hYWUlnWXI4cHlvTk10TzZlUVVGemhYeWcxTVc4N2Zxb2RaX1ItMXpT0gGyAUFVX3lxTE1wWm5YMmphRm91ekJwYWVhV0VsYWR6RFotTThoVFFKOUVqWG9ZWjk3bmdQMGVYZklPUUt4RTl1WDhUMlJxSHdxYkY4ckVkOTNlaFNFbTNaZUdQd05uaUtTbk9UTVBZS3FMOERadTFYdS0ya000M18zODlvdV8zNkMzYnhWWHVxaFE4ZHpRcGI2bE1qVWg5eGF5MG9UWU9kazBBTEQ3TFJlaHVqN1pXcTBiZWc?oc=5
 
-- Weather Today Live: Mumbai Rain Fury Continues For 3rd Day, Emergency Teams Deployed Across City - NDTV
-  . Emergency Teams Deployed Across City.
-  🔗 https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSjQtMURmemhGWjAxMW1LUUlpWmI0cG9UMHBPYTRGa0pKa1BocW9pOEtQT1F6TDFfYml5VDRRS1dpMzF0S1BmUk8zZkxWMko3V2hxQjVFVlVVZUFoWUh0ZDIySzRiYW1UdUxsZWpMaHdyeE11R0IycjZ2M0h2LVN3WUtiMUdzczNiVWM1V3pncDhNYmp6RlpfM2wxc3A2Z21mN204bDdycE8ySkhYUEZoQlhtSjRPZW0yaGlscFBOYXBOVnE5eU5IQzZ3dktMY1hHSVVDc1c1djhmRkRVc3ktekMwWkJYNnA5RVhVa3dBYnJ4MjV0eWlreHBicmVxYnfSAYcCQVVfeXFMUDJ4a2xqdFR3NV9TZWEzUTdsQk5vYUpSNDlLZ3J0RGxxQ1VsNkNyNE94UXRTZllMTVQtUHpTR3l6eVYyVk15ZnFoN3FrY051SlRPdzlsaEZJR2dJY20yUkJZbWRnaXU4c19GYUtVRXJVOENMNkpvOFdxTmpxZThWWC1hWll4VmV0M1RKWDY4RVBLSlg2czlMVjEwSmp5My0zUHdWVktkcWJYVllFbTE1N1daTlhWSThVOWxXckpOVFd2dGlqNmw5dWNOV2ZaUC1hS204RGlVMC1NYVBTbFVubDdNVWFCbnRZWlhjdjhLMG5jUVlHaGtRUFVtRDUzOUg1clhuNTg0ZE0?oc=5
+- India's landmark Ram temple overhauls board after alleged theft of donations - BBC
+  India's landmark Ram temple overhauls board after
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhULTZWM25TUTc1NUtNTkVLWUhQaGViWW9CX0lTcFlCSmw4NnZFb2tLcVJTRU1hMHVseWJXOGF5UDVrWS00MlJVa19ld05NbFl1UjBSeHRuZw?oc=5
+
+- Video captures terrifying moment landslide hits Wayanad, 1 dead, 7 injured - The Times of India
+  Video captures terrifying moment landslide hits Wayanad, 1 dead
+  🔗 https://news.google.com/rss/articles/CBMijwJBVV95cUxOZHBMMGZHWFJLaEJTckR6cDdQbVNELWlWWnVjeThOV3R1SzVEMWRteFhGSEs0YWhQMGM3YVdqZ1RxQ3c0dG92Xy1rdVZhSEdqdmZ4N0lCT2dwT05FVjl4Vmp5TWQwV2RRSTJzOHh5LVZPUFZiUERSZUxWOE5MRWx0UDNOdEV6TUQ0Rng1TWVCVy1vVXNaZ085QVg1U1k4aVY3NTVfLVNCblpNTHZQbUNDQ3N1VGRmbFZNSW1tZW5GZU9oQjVweGVKY3lzSzNjNWVYT1RLdXFUSndlY2FQWWVaSVZMUGlkNFU5RkFuVVhva1hYczUzaUtIeFczUS1Za3UtUTA2eEs1NXlmeEZZR09r0gGUAkFVX3lxTFBQalByeWpzems4WnRPYW5DcDdLU2luN2JmZnQzUDJnOWVHLTRqbUliNDVhcTQ5N0dxN2tZVnBDZUN2SmZDaGoxVkVWejdhN0Q4RWNoVHBLVGVrd1M3NVRuWHFzeW14VTNTY1dNTkg3UFg3ZVk2d2tGNFhNNjVWNC1lNzBlazV2SnJYT1ROdUNLcFhYN2dma3NDNDVVeUV6aUU3Zmt0ZEtvdFRHeWpwemNUVzdfSjRaRmhsLTRqS05rM1cyZU1IM1pVV3RpTUg0TDNsZWFZSzFQVjFxN2NHTTQwY0FoNlB3TmxSUVRlaVZ4LUoxSHdKVF9ybzdaYnBRbUw2ZFRFT0RmXzFPeGlQNEwxMHhSMA?oc=5
+
+- PM in Indonesia LIVE: Modi hails new 'golden chapter in India and Indonesia bilateral relations' - The Hindu
+  PM in Indonesia LIVE: Modi hails new 'golden chapter in
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVlKNDhYNi1yLVU1UURIdVdaNmZrci15V0tkS1A3Sm14VWFlaC15ZWI1SFExSEJnZHR5VEdWVENTWFhZaEg1alF2RUpxbU8yQ19rTG1nbFhIQW5RcEFGVGZiTkt6VklKNFVGN1hvMGlOM3YzQUZ3TEhuX3VpMnZHOWtZckdIWE9BUC1zNGV0YkRGNDdzWGstelR6OGRtd19KZFZCVXJwaHZiUS1QczJ6RlRKdGYwY0hfZHlzbjVDZlZSdWVZbGtuUFNoZ05xR1HSAdYBQVVfeXFMTXI0N3dhVzRKVWdialp5bU93SUVmd1pwbUNTUFFiSlpzRS1hay1USERaRFlkVXZkeHRqVFZDdmh4Q1ZDbld1ZXk4SUNtQ29Wdmt5WVlDNFNSdUtuSzMySDJUeU9Tdlh4XzBoZ1JwQ0NuUDRVNjdkTEVNT0hVYkY5Z3Y2YWcwOS16d3VfdzdKT2FqQ213a1FHeXhVOTFlUE5uZ3M1ZHViVHEyQ1VET1V3SWlMbXhfb3Zyc29YdGl3V3ZEZVJYbjFqblEyeks4dVprcFhieW1Mdw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-07 02:37:58 UTC_
+_Last updated: 2026-07-07 09:36:03 UTC_
