@@ -1,84 +1,88 @@
 # 📰 Daily News Summaries
 
-- Jaishankar meets Bahrain’s Dy PM Khalid bin Abdulla Al Khalifa
-  
-  🔗 https://indianexpress.com/article/india/jaishankar-meets-bahrains-dy-pm-khalid-bin-abdulla-al-khalifa-10776247/
+- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
 
-- Congress questions ‘clean sweep’ in Union Minister Bhupender Yadav’s office as four key aides removed
-  
-  🔗 https://indianexpress.com/article/india/congress-questions-clean-sweep-in-union-minister-bhupender-yadavs-office-as-four-key-aides-removed-10776257/
+- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- High-stakes Bihar bypoll: Who is BJP’s surprise pick to take on Prashant Kishor?
-  
-  🔗 https://indianexpress.com/article/india/high-stakes-bihar-bypoll-who-is-bjps-surprise-pick-to-take-on-prashant-kishor-10776315/
+- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
+  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
 
-- Toll tax for cars in Bihar? A govt notification, then CM Samrat Choudhary’s clarification
-  
-  🔗 https://indianexpress.com/article/india/toll-tax-for-cars-in-bihar-a-govt-notification-then-cm-samrat-choudharys-clarification-10776317/
+- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
+  US prosecutors arrest 24 in major probe into India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- 13 deer found dead in a well in Madhya Pradesh, area cordoned off, inquiry underway
-  
-  🔗 https://indianexpress.com/article/india/13-deer-found-dead-in-a-well-in-madhya-pradesh-area-cordoned-off-inquiry-underway-10776318/
+- India news: US charges suspects in Sikh separatist murder - DW.com
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
 
-- Rare gold ring among 3,000 artefacts unearthed in Netherlands valley
-  
-  🔗 https://indianexpress.com/article/technology/science/rare-gold-ring-among-3000-artefacts-unearthed-in-netherlands-valley-10776013/
+- AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns - The Guardian
+  AI models already ‘doing things their creators never intended’
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmxlY3lsd2plaG9DM0JvbVRXRTVCS1lTcU1WTUk0a3hBQmYyZXhFZlhYZnVwWFpLUlcySFloX3JYLVhMWE1udDQ3MXVraVd2ZjlIZFIyVVZYTXNsaDBiTjF2XzNmaEJuajZtQWF1cHV2czRwOVJqR2lHdVhPNVB3Mjh4MWdWT2czMTBYeVpROW5WVzkxdmt5Qmk5c1FZamgxbFR4U2RB?oc=5
 
-- ‘Robot uprising’ video goes viral: What really happened in this wild office footage from Indonesia
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/robot-uprising-video-goes-viral-what-really-happened-in-this-wild-office-footage-from-indonesia-10776015/
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
 
-- How Chinese researchers just mapped human brain 478 times faster than an NVIDIA A100
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/how-chinese-researchers-just-mapped-human-brain-478-times-faster-than-an-nvidia-a100-10775584/
+- China honors pioneers of lithium batteries and radar technology - news.cgtn.com
+  China honors pioneers of lithium batteries and
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVDN3Vid1AzTjY3cl84c3kxT0R6MEZXanhlcEVqblFGRnU0alNneS1zelFfTWpDbktKamZuSHNCeUZMVGVOZ0hoOUFKRzJPZHNURlN5RVJwYW5KODFSM1NjVDQyNzBnZVZVSlhMdkt3aVRyNlRkTlMycDVWVk45NzB2Z3l2V3RWc1JJSk5WSWIxNi1nakdnQ0cyc1I2M1lxUUFlWXAwSF90LTRYTDlNNjNEZWZtcEMwQ3ZhOQ?oc=5
 
-- ChatGPT down: OpenAI confirms outage as users report problems with image generation
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/chatgpt-down-openai-confirms-outage-as-users-report-problems-with-image-generation-10775702/
+- Broken timers trigger nationwide Telstra outage - ABC News & Headlines – Australian Broadcasting Corporation
+  Broken timers trigger nationwide Telstra outage.
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjJhQ29ZRW53QVNRV21HM3lUamdPNGV3YXlLMkYzRmNzTmtkYUFFT0tmdmRWMU11Y3d6R0puQ005RVFhcHBDMnNfWFpEMWE2Nm9KWm1uRk4yZW5nRkVOR0hJVFR4aXpaQWYwTHpONzZDWTFoMmdCUzlpWmJhRDQ1QjJjTTRSNVdxNmNxa01EQXBSRzlsY0lmVUhwVktZZnR5Z2c?oc=5
 
-- Nothing debuts new Phone 4b series to broaden consumer base
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/nothing-debuts-new-phone-4b-series-amid-memory-shortages-10775458/
+- Anantnag Police arrest 3 OGWs using facial recognition technology - Greater Kashmir
+  Anantnag Police arrest 3 O
+  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1cyOXZIR3lkckJfaEtWeEFuX2ZwVjh4aTFZdGdiZ3lXQ3N3cXMzdU9SSzdITXhFOTd2OUFkNXhLQzUxU05EeVdjR3B2X1hjUG81dHMxbVA3MEFFOEdxdEZfYUtLZHlwNmNWTDdTMVRza3VjYXRadTVESnFGZE1jeWluSFNNaDRQYzZJb3QxNUFfZWxuNURHTHBJM2V1MEF3SklvcjFFM2ttSmtiR1paSk9xTdIBuAFBVV95cUxPbFBaajlDZlpTUzBta0FGWFpBVWhwQThwNDFXczN2VG9LQ0xUVTdvUEI4amJrbGtSeFpHS2dra1JkMVB4UVJ2RVFCVlVNbWFiQWh4MnB3VXd3QlVQRlJZd1l5Q0MxSHRPOXZLNk5qRGRkSzlQaG95V010RE1nQ1RJQWRXWjdCeHFHYjhBcXhOS0RTN1lla1lsLW1PNUFGZHVNdlpPVzRxemJLc29oWlVaRE16ZUN5Mk5w?oc=5
 
-- Google will set up more AI data centres in India as demand grows, says cloud business CEO Thomas Kurian
-  A multi-year capital expansion plan will follow the $15-billion investment in Andhra Pradesh announced
-  🔗 https://www.livemint.com/companies/news/google-will-set-up-more-ai-data-centres-in-india-as-demand-grows-says-cloud-business-ceo-thomas-kurian-11783422758078.html
+- Nuvama-Cushman's maiden fund raises  ₹4000 cr, readies for second fund
+  Nuvama and Cushman &amp;amp; Wakefield's joint venture NCW has closed its maiden
+  🔗 https://www.livemint.com/companies/nuvamacushmans-maiden-fund-raises-4000-cr-readies-for-second-fund-11783454045150.html
+
+- TCS Q1 preview: CEO Krithivasan's toughest earnings test yet
+  CS reported its first revenue decline last fiscal year and three quarterly revenue contractions over the past eight quarters.
+  🔗 https://www.livemint.com/companies/news/tcs-q1-earnings-ceo-krithivasan-tcs-share-price-infosys-hcl-tech-11783482077732.html
+
+- Blue Tokai Coffee courts PE funds for its largest ever fundraise at $100 million
+  Blue Tokai has initiated talks with TPG, Temasek and ChrysCapital to raise at least $100
+  🔗 https://www.livemint.com/companies/blue-tokai-coffee-roasters-tpg-temasek-chryscapital-private-equity-fundraising-11783477661719.html
 
 - Kedaara may lead race to acquire stake in Olive PharmaScience
   The deal may value Olive
   🔗 https://www.livemint.com/companies/news/kedaara-capital-olive-pharmascience-minority-stake-crdmo-11783410467996.html
 
-- Rapido has more users than Uber and Ola. And Swiggy, Zomato, Zepto, Blinkit
-  Rapido averaged 82 million monthly active users between March and May. That put it ahead of Uber (39 million), Ola (27 million), Blink
-  🔗 https://www.livemint.com/companies/rapido-has-more-users-than-uber-and-ola-swiggy-zomato-zepto-blinkit-11783344546641.html
-
 - New GIC Re chief banks on AI, resilience for next growth phase
   State-owned reinsurer is building 'Ragini', a private AI assistant, to capture underwriting expertise. New chairman and managing director Hitesh Joshi talks to Mint
   🔗 https://www.livemint.com/companies/news/new-gic-re-chief-banks-on-ai-resilience-for-next-growth-phase-11783403933784.html
 
-- After nearly a decade of decline, DXC lays out a turnaround plan
-   DXC’s management outlined a turnaround strategy at a media briefing held alongside the
-  🔗 https://www.livemint.com/companies/after-nearly-a-decade-of-decline-dxc-lays-out-a-turnaround-plan-11783428889619.html
+- Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July
+  Pabitro Mukherjee, Deputy Vice President - Technical, Bajaj Broking, recommends five stocks poised for potential short-term gains. Discover why Reliance, Bharti Airt
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-reliance-bharti-airtel-bel-among-5-shares-bajaj-brokings-expert-recommends-for-july-11783491139690.html
 
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 8 July
-  Gift Nifty was trading around 24,225 level, a discount of nearly 215 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-8-july-11783474819908.html
+- ₹939 crore order impact? INOX India share price jumps over 5% despite muted trends in the Indian stock market
+  INOX India saw a 5% rise in its share price on July 8 after announcing orders totaling  ₹939 crore since May. The orders covered Industrial Gas
+  🔗 https://www.livemint.com/market/stock-market-news/rs-939-crore-order-impact-inox-india-share-price-jumps-over-5-despite-muted-trends-in-the-indian-stock-market-11783496868366.html
 
-- Crude oil prices jump 2% on escalating US-Iran war; Brent crude above $75 per barrel
-  Brent crude, the global benchmark, for September delivery
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-jump-2-on-escalating-us-iran-war-brent-crude-above-75-per-barrel-11783474283318.html
+- Can Nifty 50 touch 25,000 this month? Analysts see bank, auto, IT stocks driving the next leg up
+  Nifty 50 has gained nearly 2% so far in July and had climbed above the 24,500 mark in the previous session. Investors closely watch whether Nifty 50 can scale the psychologically significant 25,000 mark this month
+  🔗 https://www.livemint.com/market/stock-market-news/can-nifty-50-touch-25-000-this-month-analysts-see-bank-auto-it-stocks-driving-the-next-leg-up-11783495380333.html
 
-- From Gift Nifty, US-Iran war to crude oil prices: 7 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 24,235 level, a discount of nearly 205 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11783474170251.html
+- TCS Q1 Results on July 9: AI Strategy, Dividend, Margins — Key things to watch from IT major's earnings
+  TCS kicks off FY27 earnings on July 9. Investors will assess AI strategies, deal wins, and the impact of external factors on client spending and hiring practices.
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-q1-results-on-july-9-ai-strategy-dividend-margins-key-things-to-watch-from-it-majors-earnings-11783494698992.html
 
-- Asian stocks today: Nikkei, Kospi fall amid selloff in tech stocks, escalating US-Iran war
-  Japan’s benchmark Nikkei 225 slipped 0.55%, while the broader Topix index declined 0.7
-  🔗 https://www.livemint.com/market/stock-market-news/asian-stocks-today-nikkei-kospi-fall-amid-selloff-in-tech-stocks-escalating-us-iran-war-11783472860402.html
+- Auto sector Q1 results preview: Margin pressure looms despite strong demand; Hyundai, Tata Motors PV among top picks
+  The automobile sector is projected to see strong revenue growth in Q1FY27, fueled by high demand across various vehicle categories. However, profitability may be constrained by rising commodity costs due
+  🔗 https://www.livemint.com/market/auto-sector-q1-results-preview-margin-pressure-looms-despite-strong-demand-hyundai-tata-motors-pv-among-top-picks-11783491745871.html
 
-- Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 8 July 2026
-  The Indian stock market ended Tuesday's session on a lower note. Sumeet Bagadia
-  🔗 https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-8-july-2026-11783471647726.html
+- Pixel 11 launch date revealed: Made by Google event announced for August 12
+  Google's next Made by Google launch event is set for August
+  🔗 https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html
 
 - ChatGPT image generation down- OpenAI says ‘implementing mitigation’
   ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images
@@ -96,169 +100,153 @@
   Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-
   🔗 https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html
 
-- New AI agent can hack systems and deploy ransomware without human help
-  JADEPUFFER exploited a critical vulnerability to infiltrate systems. A new report reveals that AI agents can autonom
-  🔗 https://www.livemint.com/technology/tech-news/new-ai-agent-can-hack-systems-and-deploy-ransomware-without-human-help-11783303277707.html
-
 - Stock Market News, July 7, 2026: SpaceX Slips Below Opening Price in Glum Day for Tech Stocks - WSJ
   Stock futures little changed as investors weigh Middle East tensions and Fed minutes. Nasdaq drops 1% as chip stocks tumble and oil spikes; Dow slips below 53,000.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVk1jYVRUUlQ4RlJQZlRtb1VjQW8wUU84eC1JOF9WSUdhcThGSFZKOUhEZWYzanBCVEFSU2Rwa2J2UmlGMHBCX21sMXNycFRoXzl3LUVZdWpQY0R1LUV0eWZ2TTkyeVVuTHozS2RoNmJ0SVl1aHFoSFZXbkdmZ3NpaGpfMVc5Zzg?oc=5
 
-- Demat account openings hit four-month high in June as market rally revives retail participation - Moneycontrol.com
-  Demat account openings hit four-month high in June as
-  🔗 https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSG5mVGlqUnRyNHJ4M3AwbV9iTjhSUVZVU2lsbExxanY1aTVoWDJMOFdwRENVRWZ5cEdsVnFvaFlXdEhPRXpKZ3NkRmJFdUVkTHJ0SkRwd09nLVdyRUFudU5qZUdBM180YUxKLS1FMEhmYTA3ZENhOWtHRHNKOHpDalVhMzVrb3hpWldoSHJFNEN3d3B6ekF3UHk2TkY3VUJURnlyZ3k0S0ROYWJWcnNxVWhfYTA2QzBzdW1qcnNYY0haNE5DUUs0LUQzSWFWdVg1TGhkZGRTYkhFanFwdWhpbzEtcXBYa2xKTHpFYTd4bzBUdw?oc=5
+- Tanfac Industries secures major capital boost to drive speciality chemicals expansion - Indiatimes
+  Tanfac Industries secures major capital boost to
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT2JuMjdzdzlfanZlTDdyTVJJS0haakMya2FTT0E5UTJvaGM0UjRLemlzUXpxWExRdDJhSUl4UmlFN0ZVOHlYekY4SElXU0lLRjN1cFV4WFF5QnV2Z1dkcXk3TTV2MXhrUlhVSThZZHAzcHlMTkNQN2RiZzdhY1JRdkNJQUxwYXRsRGVZczdNRXVRaFRPX1BWejhiUGQ3TWlLR3ZWM2o2b3JhUVRrRkdOWHlZbXBaMVFaZDNaX0FEa0VDbW12ajRqM3dwLS1LcE5hMTFQM0k4Qjd5T21pSkI3N0NPVl9tVE9yRGh4a3RuTnJhVGxXRGJ6cEdNZw?oc=5
 
-- S&P Dow Jones Warns of Potential Frontier-Market Cut for Turkey - Bloomberg.com
-  &nbsp;&n
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0ZQeFVoajR1eWlSbHc1SzJXWmtYNERwZjZvc1I5b0NUTVhNTDIwWnRXT0NvZFhnRW41WWVWQWVLWGUxaUNxckFkT1lQRzBucUZqRTNpay11bGRWbFRnY2JxSG41QXItQ2tyQ3BaeUNpX2hueXNnVWVwSXJHWHk3UG8ya3BJX0VXdmZxYWFzeTNOR255Ni1yNnVFRTc1QndSQlBULTl5MnNRY2t6cVRxRFhrMmVKanlNNUlTMFVn?oc=5
+- Why short selling may be good for investors - Finshots
+  Why short selling may be good
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc2NiSWhZbzRSdU01VUxCX0JYSDl2cDB6bjdxSS0ycUVOeS05Uy1rOTdNaU1IVTk4ZnZpTG1Za0hDMy00UmxRVXpLMGxFM3JEc1lRX21ZV1o2dEdpYTlqUHZSTUdOMDhlalhtQVNJVVU5R0ZkU2hGSEdLUzNxTW8?oc=5
 
-- Stock markets climb in early trade on foreign fund inflows - The Hindu
-  The Hindu reports that the Indian stock market
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkFKUHFsNElwczRWemRseWd0NE1tbXd4SGhuVVVJMFltZVh2OUo0dW9STkxQWjJkRjRyNGNIZS1uaUNrOGNpMHRSREN0bnd6UnZLd0YycHVFY2lGV2FYSk1oWHhpSzNNYnlreEpVUEtUbEpvTTR3YUZDSFdvMV9qUENzV0FLNVpyX2VCVEJkSEtma3JYc1h0WE52Z3FibXNxM3RWZXgyYlZ2SWsxZF8wMjdBLTRVa3paTmdJa9IBwwFBVV95cUxOZ0czUEs2S3A5ZGgyZk9TQ2MxVDB2aDU3YzhTazRieWZzN05zdlhuTkw3OEEyeUJiMVJwZ1dHX205bXIzUEtIWHVpeWNuSUthWlN5X0l6V2pMTllRdTRtUnZCR29CdWRUV0plTnZXaXNBMWl1dzFSUkZweUJheF9hVlJkMHRJc1Q3c0VwX1BaRWJ1ZkNTVmpNRktVWWs1bE11YmszM0VUcGN6NXpDVjgzOWtLQTI5bXJLTlBtYmpmYVlEMVU?oc=5
+- Europe’s economy is a mess. Its stock markets are a steal - The Economist
+  Europe’s economy is a mess. Its
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnlTU3lwQkhQZXhPaUNveU5KZmxsTERIeU5FM2toQnFLTkJ4a0RMOW1RelZqZGtQeWR0ZV9ReldhM2dUT3UtZXcwaTlKZzlGU19neDh6Y1pWRTdNWnRDNU5pOVF5ZlMxUjBXWlNiVTRTUVhZNFpiY3VfZWNHMFBpUGNLWXB3eVM5cHFsS1VvbC1QVXJOX092RWpGdHhGMDdWWmJXUTlXOWlYc2NmalJGajQ2dlI?oc=5
 
-- Markets snap four-day rally: Sensex settles 500 pts lower from day's high, Nifty ends below 24,400; four... - Moneycontrol.com
-  Markets snap four-day rally: Sensex settles 500 pts lower from
-  🔗 https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWnNULWRKV2FyRGFHSXFSQUU5dXB1b2NaXzVvYUo5RjIxUDExMHlaUUh2TU1xUGZCTUZOdkxRWUhiUk85Q1pCTlcwQ0l1ZnNSdkxOWW9Qb2x2OWx1UFNvX3RFaC1WSFN2TXB3ckl6QVdldUtISVNGQ0pSMm1mVHBnM2xsc2Z3dlRmb3g2cXM3SWRaTTdWYWxkZW5hV210LWR5LTZ2bVBLS3YyUmNneGVPbk1UczFXcjU1empIWEFxT3dsUkZ5RUdnYWhlMWVHLTctdjFST2lvdHZXTEJ3ZFdyTWZGYUFXUFJPZEgtYmxRT0TSAfYBQVVfeXFMTTk0VXpOTnNSc0VuZUtXd1M4bFA4Smw4dnRsdDQzbkg5bGt0aHFqQTNYZUJTUi1jNS1nSVcwaTNNWGNHV05wVkljcHhVODluMHZoSVpZV2Zrc0lYSWNZdHYwUTQ0NUtOR3FEcWpEWHBoRHhzWFZJNnhaRGFscEJQaHNEVUR3ZXcwTEhrNU9rTXk2VDh2VHhoNk42dC1KQ2o5MFI1OU9mYS1iYWVCLTg3MlBLQTlkWlFLOEpRSmRsS1hFWFFQQldReFZ4T25RaVdRcUd4MTlCb3lxa0JmcTNkaHZwVWxkLXJTUldHMzVBWWhMTWRWQUFB?oc=5
+- Gold gains as markets await Fed minutes, US-Iran strikes cap rise - Reuters
+  Gold gains as markets await Fed minutes, US
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5
 
-- Kusumgar's Rs 650-crore IPO opens today; grey market points to nearly 40% listing gain
-  The IPO has generated significant excitement in the grey market, where it is currently trading at a Grey Market Premium (GMP) of about Rs 166 per share. At this level, the stock is expected to list around Rs 585 per
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/kusumgars-rs-650-crore-ipo-opens-today-grey-market-points-to-nearly-40-listing-gain/articleshow/132251565.cms
+- Global Market: Japanese fund managers bet big on yen bonds as BOJ policy shift lifts yields
+  Japanese asset managers are launching new bond funds as interest rates rise. This trend revives investor appetite for yen-denominated debt after decades.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-fund-managers-bet-big-on-yen-bonds-as-boj-policy-shift-lifts-yields/articleshow/132256982.cms
 
-- Knack Packaging IPO shares to debut today. Here's what GMP suggests ahead of listing
-  The IPO is currently commanding a Grey Market Premium (GMP) of around Rs 16 per share. This is about 10% higher than the upper end of the IPO price band of Rs 170.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/knack-packaging-ipo-shares-to-debut-today-heres-what-gmp-suggests-ahead-of-listing/articleshow/132251545.cms
+- Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO
+  Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception. The autonomous-driving software developer raised HK$5.89 billion in its initial public offering.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms
 
-- Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets
-  Gold prices fell to a near-weekly low as U.S. strikes on Iran boosted oil and the dollar. China's central bank reported its largest monthly gold reserve increase in over two years. Hong Kong authorities unveiled measures to bolster currency
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets/articleshow/132251502.cms
+- Big Short fame Michael Burry is betting against Nvidia, AMD, Micron and other chipmakers. Is a massive AI crash coming?
+  Michael Burry, famed for predicting the 2008 financial crisis, has increased his bearish bets against AI-linked chipmakers through the iShares Semiconductor ETF. His move has reignited concerns over stretched semic
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/big-short-fame-michael-burry-is-betting-against-nvidia-amd-micron-and-other-chipmakers-is-a-massive-ai-crash-coming/articleshow/132256730.cms
 
-- D-Street set for a negative opening as GIFT Nifty trades lower
-  Domestic markets ended lower after a four-session winning streak on Tuesday. Profit booking and weakness in Realty and Metals stocks impacted market sentiment. Foreign portfolio investors bought shares, while domestic institutional investors sold them.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132251336.cms
+- 10 microcap stocks rally up to 430% in CY26; 5 turn multibaggers: Here’s FII and MF exposure
+  Microcap stocks delivered stellar CY26 gains, with several companies rallying over 50%. Sterlite Technologies, MTAR Technologies
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-rally-up-to-430-in-cy26-5-turn-multibaggers-heres-fii-and-mf-exposure/slideshow/132256662.cms
 
-- Global Market Today: Oil rises, Asian stocks steady as US strikes Iran
-  S&amp;P 500 and Nasdaq futures showed slight gains after earlier declines in US markets. Renewed tensions risk energy market disruptions and undermine the recent US-Iran peace deal.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-rises-asian-stocks-steady-as-us-strikes-iran/articleshow/132251290.cms
+- Global Market: Japanese bond yields climb to multi-decade highs amid inflation and fiscal concerns
+  The benchmark 20-year JGB yield climbed to its highest level since 1996. Growing worries about Japan’s fiscal outlook and borrowing needs.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-to-multi-decade-highs-amid-inflation-and-fiscal-concerns/articleshow/132256277.cms
 
-- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFHSAcsBQVVfeXFMTmhrRXFkX2ZOVk5EU3pGU3ZNVkEzMWNvYWV6VFloWlJwSFpXUXdwV3VKV2FpcVp3UllaWUoyek1WTWhxa09HVDBaYnNIaHE0STRZb1dlSm5kd2g5bWl0UUc5bzk0RUM5QldMRTItRC1SbGZIZmVwck5URVc3WHgyM0xtci1LbmVkcVdaWmRrSmVWelFveEF3LWw5QlMxX29Dbnk4dEtkOHhKcElLUGRkLWJ2RVRJdXFQb3RPdnZRdWpKODhoVVJGdUJPdDA?oc=5
+- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
 
-- North India gears up for wet spell | Monsoon LIVE updates - The Hindu
-  North India gears up for wet spell. Monsoon
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjlaTVk0M3N0ZVNxYUtiRFpUVjRNNC00RzdkZGxCZlVqUWlldmxBU25VRDlnbmFRd3REWVRocWlvWkxzYk5iREliWnlrbWpxa0pnNkVER1p5d2hFUXlOcUZJLW9Vd2tPeXhzZTQ0eWhzN2l3UUJhaXJMb0FaTDI1RFdERnhhZzRrc3dmbXNjLVRHekFsTHJjQ285dEowMENFOEF0bUVGVnRRekZDUGJHNTFjX25TNjBKNE8tbk8yTUF2ak9tWEJsRmpoRFdWbE1kdk5ibU5VX2ZDOUdVaWl3RE43eE1qSnQ0X2JyYXI4amNnUVpoZ2RpUTJvMGpic09oYzk0TnlHbE9pN1o4cTJsUGJ30gGYAkFVX3lxTE1lbVgyVHZhb3loOFFnSTAwZEZnejYzWW4tSWhlR0Y1SEtGcWRWclVweXBpOGhETC15TGFNTFQtbjlxelBnV0NrSjE2YW9HNEo2V21ZTktKRXI1ZTJxQXpteXVCb3hHSEh2TXRhNkRySXpzMTM1bzdmSXZZV0lONUFPNlQtdGw0d004S2xKYmxCdlNfU2x3UWRqUWhrMzJWeXFrNF9hOURrbWdBRVFoc1RqaWRpbW9HU0NXQjZrTWphRXNPcVVNb0kyZEhLMFNxVUZIZjVGZmtVRThHY2J4ZFdfZWkzdVZOamN0d2RNTkQ3UjFNU21lSHdVbVdzajMxYUlMNC14M0Y0SDdYaUUtMlBkZEUyZzFTTGQ?oc=5
+- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- Why Gujarat villages are turning against the pride - The Times of India
-  The Times of India reports that Gujarat villages
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDZZOFNYV1lRNGtoQ2pVTWt6dExOOWhtc1FzSkx5ZWtuZE5rd0p2RG1UYXpOeGxJY2FjUUVPV3NKR3ZiZDhnemgwengyYl9RbnkxajNXS3I5eWx3R2FBeVRwc1lnc1hMNkUyOFZaSnFqRmlxQVRlZzFmaG9BSHFZZnFmcUlrcHRwczJyRkhzM1FPT3RXNWtCS0t4VDJLaHotX0JHREtKWHdKaGFPQ296ek84R2_SAboBQVVfeXFMTktkeTBXdHRfc2NBbi1Ub2xURlpkUGVjcm9SMnU4dHp2S2djcTlCeEh6SXhqaENkcjlMZVNheFVSbC1HX3AzR1liODNyRmo1aklzc0ZyUUhfcXN3cVIyUkRRWkRweXJ1bWI2SF82TkE2THI5cXhxQW9zeTlmaDV3VzFPMHNZZlRSYmpqSEtqYnFwZTg0cEhvUlc4a0dEUzlERFExUlBVX255SlpQMnZ3YjJ3T2pKQ0dVcEtB?oc=5
+- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
+  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
 
-- Weather today LIVE: Maharashtra reels under heavy rain; Delhi-NCR faces severe waterlogging, traffic chaos | India News - Hindustan Times
-  The heavy rain has caused severe waterlogging in parts of the state.
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNRlptWkhEblhSQmRVNm5GR0VfWnp3bHc2NGpjZmdaTGgxR3F5Z2cyT3FVY1gxVWlleUVfaDBzX0tLT1lnOGlFVnJQa05DM0gyUGpaZTdnZXpOWnBIYWszYU5zMEJDOVE3bVZpRW9heDRBSFJfQ0lFd3MxRkVCTFhha2FrVzQ5Mm1EeF93MW9SSFY5dDF0d2dqTTRqdTIyT0xkdVVnNmNXMVI4N1dPbUlSQ2duVmtWdFdKRXNQSTA5VVgyWlM0VHpWai1JbGV2WHFTaUwxWVYyQ0VHSFl1SUVTTTlPYWk5b3VXYmdOTGxxUmlTUUZiZXFDUGJTblFlcHZZZ2QweG95RzE3ZzF4WW1KQ9IBlgJBVV95cUxNaS1vSWN6R2ZTaTk5aUZPXzMtMlctTUVYZXY2V3hvZkRheVB5UUxnWU5qMkp2RWpkZXZ0M0FSZkJJWVNjLVBndmdNU1RvejFxS0JRUG02d1pKejlCWnpBWE5OU2tMcVIyb1FiYlhCS05xYjBGR3hIamFfTklVb0FGbDl6al80c09ZZm1fVndBRkthcUtCMmJPVC1vc0hlR0Z0YmFPdFprck1hSUJXS3B2Y2tYblFjcEQ1bEw0TzFBVUxzbFZkeEpLaXpUbHVReHpWeHJTOGtjRzJGYWF3YUplY1AxcVZhWGh3SHg2X042bk8xTEpwVTRqd3dTTzVyX1ZUQTVRSlRNVlFUV2tVZHpOWHo4dEg4dw?oc=5
+- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
+  US prosecutors arrest 24 in major probe into India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- India news: US charges suspects in Sikh separatist murder - DW.com
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
 
-- ideaForge Opens QIP, Sets Floor Price At ₹835.86
-  IdeaForge opens qualified institutional placement (QIP) to raise fresh capital.
-  🔗 https://inc42.com/buzz/ideaforge-opens-qip-sets-floor-price-at-%e2%82%b9835-86/
+- Aequs Jumps 12% To All-Time High On Nuvama’s Bullish Call
+  Shares of contract manufacturer Aequs surged as much as 12% to hit an all-time high of ₹271 apiece.
+  🔗 https://inc42.com/buzz/aequs-jumps-12-to-all-time-high-on-nuvamas-bullish-call/
 
-- [Update] Meta Denies Role As Centre Pulls Up Instagram Over Child Sexual Abuse Ads
-  Instagram ads allegedly promoted child sexual abuse material. The ads were removed from the site.
-  🔗 https://inc42.com/buzz/centre-summons-meta-over-instagram-ads-promoting-child-sexual-abuse/
+- Flipkart Expands Zero Commission Policy To All Fashion Products
+  Walmart-backed ecommerce marketplace Flipkart has expanded its zero-commission policy to cover all fashion products, irrespective of their price
+  🔗 https://inc42.com/buzz/flipkart-expands-zero-commission-policy-to-all-fashion-products/
 
-- Exclusive: Ex-BharatPe Cofounder Shashvat Nakrani In Talks To Join Luxury For You As Cofounder
-  Shashvat Nakrani, cofounder and former COO of BharatPe, is in talks to join Dubai-based luxury ecommerce platform Luxury For You.
-  🔗 https://inc42.com/buzz/ex-bharatpe-cofounder-shashvat-nakrani-in-talks-to-join-luxury-for-you-as-cofounder/
+- Dream Sports CTO Amit Sharma Quits To Start Own AI Venture
+  Dream Sports CTO Amit Sharma has quit after a decade-long stint to pursue his own venture as the Dream11 parent.
+  🔗 https://inc42.com/buzz/dream-sports-cto-amit-sharma-quits-to-start-own-ai-venture/
 
-- CCI Clears upGrad’s Unacademy Acquisition
-  The Competition Commission of India (CCI) has approved edtech major upGrad&#8217;s proposed acquisition of Unacad
-  🔗 https://inc42.com/buzz/cci-clears-upgrads-unacademy-acquisition/
+- The New Math Behind ROI In AI
+  The race to deploy AI is heating up, but organisations no longer want just deployment. They&#8217;re asking whether copil
+  🔗 https://inc42.com/features/the-new-math-behind-roi-in-ai/
 
-- Origin Fresh In Talks To Raise $10 Mn To Expand Distribution: CEO Prashanth Vasan
-  Fresh produce startup Origin Fresh is in talks to raise $10 Mn in a Series A funding round from a&#8230.
-  🔗 https://inc42.com/buzz/origin-fresh-in-talks-to-raise-10-mn-to-expand-distribution-ceo-prashanth-vasan/
+- Exclusive: Leverage Edu Forays Into South America With Acquisition Of Mundus Agency
+  Study abroad startup Leverage Edu has entered the South American market with the acquisition of Brazil-based international education company Mundus.
+  🔗 https://inc42.com/buzz/leverage-edu-forays-into-south-america-with-acquisition-of-mundus-agency/
 
-- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFHSAcsBQVVfeXFMTmhrRXFkX2ZOVk5EU3pGU3ZNVkEzMWNvYWV6VFloWlJwSFpXUXdwV3VKV2FpcVp3UllaWUoyek1WTWhxa09HVDBaYnNIaHE0STRZb1dlSm5kd2g5bWl0UUc5bzk0RUM5QldMRTItRC1SbGZIZmVwck5URVc3WHgyM0xtci1LbmVkcVdaWmRrSmVWelFveEF3LWw5QlMxX29Dbnk4dEtkOHhKcElLUGRkLWJ2RVRJdXFQb3RPdnZRdWpKODhoVVJGdUJPdDA?oc=5
+- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
 
-- North India gears up for wet spell | Monsoon LIVE updates - The Hindu
-  North India gears up for wet spell. Monsoon
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjlaTVk0M3N0ZVNxYUtiRFpUVjRNNC00RzdkZGxCZlVqUWlldmxBU25VRDlnbmFRd3REWVRocWlvWkxzYk5iREliWnlrbWpxa0pnNkVER1p5d2hFUXlOcUZJLW9Vd2tPeXhzZTQ0eWhzN2l3UUJhaXJMb0FaTDI1RFdERnhhZzRrc3dmbXNjLVRHekFsTHJjQ285dEowMENFOEF0bUVGVnRRekZDUGJHNTFjX25TNjBKNE8tbk8yTUF2ak9tWEJsRmpoRFdWbE1kdk5ibU5VX2ZDOUdVaWl3RE43eE1qSnQ0X2JyYXI4amNnUVpoZ2RpUTJvMGpic09oYzk0TnlHbE9pN1o4cTJsUGJ30gGYAkFVX3lxTE1lbVgyVHZhb3loOFFnSTAwZEZnejYzWW4tSWhlR0Y1SEtGcWRWclVweXBpOGhETC15TGFNTFQtbjlxelBnV0NrSjE2YW9HNEo2V21ZTktKRXI1ZTJxQXpteXVCb3hHSEh2TXRhNkRySXpzMTM1bzdmSXZZV0lONUFPNlQtdGw0d004S2xKYmxCdlNfU2x3UWRqUWhrMzJWeXFrNF9hOURrbWdBRVFoc1RqaWRpbW9HU0NXQjZrTWphRXNPcVVNb0kyZEhLMFNxVUZIZjVGZmtVRThHY2J4ZFdfZWkzdVZOamN0d2RNTkQ3UjFNU21lSHdVbVdzajMxYUlMNC14M0Y0SDdYaUUtMlBkZEUyZzFTTGQ?oc=5
+- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- Why Gujarat villages are turning against the pride - The Times of India
-  The Times of India reports that Gujarat villages
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDZZOFNYV1lRNGtoQ2pVTWt6dExOOWhtc1FzSkx5ZWtuZE5rd0p2RG1UYXpOeGxJY2FjUUVPV3NKR3ZiZDhnemgwengyYl9RbnkxajNXS3I5eWx3R2FBeVRwc1lnc1hMNkUyOFZaSnFqRmlxQVRlZzFmaG9BSHFZZnFmcUlrcHRwczJyRkhzM1FPT3RXNWtCS0t4VDJLaHotX0JHREtKWHdKaGFPQ296ek84R2_SAboBQVVfeXFMTktkeTBXdHRfc2NBbi1Ub2xURlpkUGVjcm9SMnU4dHp2S2djcTlCeEh6SXhqaENkcjlMZVNheFVSbC1HX3AzR1liODNyRmo1aklzc0ZyUUhfcXN3cVIyUkRRWkRweXJ1bWI2SF82TkE2THI5cXhxQW9zeTlmaDV3VzFPMHNZZlRSYmpqSEtqYnFwZTg0cEhvUlc4a0dEUzlERFExUlBVX255SlpQMnZ3YjJ3T2pKQ0dVcEtB?oc=5
+- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
+  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
 
-- Weather today LIVE: Maharashtra reels under heavy rain; Delhi-NCR faces severe waterlogging, traffic chaos | India News - Hindustan Times
-  The heavy rain has caused severe waterlogging in parts of the state.
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNRlptWkhEblhSQmRVNm5GR0VfWnp3bHc2NGpjZmdaTGgxR3F5Z2cyT3FVY1gxVWlleUVfaDBzX0tLT1lnOGlFVnJQa05DM0gyUGpaZTdnZXpOWnBIYWszYU5zMEJDOVE3bVZpRW9heDRBSFJfQ0lFd3MxRkVCTFhha2FrVzQ5Mm1EeF93MW9SSFY5dDF0d2dqTTRqdTIyT0xkdVVnNmNXMVI4N1dPbUlSQ2duVmtWdFdKRXNQSTA5VVgyWlM0VHpWai1JbGV2WHFTaUwxWVYyQ0VHSFl1SUVTTTlPYWk5b3VXYmdOTGxxUmlTUUZiZXFDUGJTblFlcHZZZ2QweG95RzE3ZzF4WW1KQ9IBlgJBVV95cUxNaS1vSWN6R2ZTaTk5aUZPXzMtMlctTUVYZXY2V3hvZkRheVB5UUxnWU5qMkp2RWpkZXZ0M0FSZkJJWVNjLVBndmdNU1RvejFxS0JRUG02d1pKejlCWnpBWE5OU2tMcVIyb1FiYlhCS05xYjBGR3hIamFfTklVb0FGbDl6al80c09ZZm1fVndBRkthcUtCMmJPVC1vc0hlR0Z0YmFPdFprck1hSUJXS3B2Y2tYblFjcEQ1bEw0TzFBVUxzbFZkeEpLaXpUbHVReHpWeHJTOGtjRzJGYWF3YUplY1AxcVZhWGh3SHg2X042bk8xTEpwVTRqd3dTTzVyX1ZUQTVRSlRNVlFUV2tVZHpOWHo4dEg4dw?oc=5
+- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
+  US prosecutors arrest 24 in major probe into India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- India news: US charges suspects in Sikh separatist murder - DW.com
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
 
-- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFHSAcsBQVVfeXFMTmhrRXFkX2ZOVk5EU3pGU3ZNVkEzMWNvYWV6VFloWlJwSFpXUXdwV3VKV2FpcVp3UllaWUoyek1WTWhxa09HVDBaYnNIaHE0STRZb1dlSm5kd2g5bWl0UUc5bzk0RUM5QldMRTItRC1SbGZIZmVwck5URVc3WHgyM0xtci1LbmVkcVdaWmRrSmVWelFveEF3LWw5QlMxX29Dbnk4dEtkOHhKcElLUGRkLWJ2RVRJdXFQb3RPdnZRdWpKODhoVVJGdUJPdDA?oc=5
+- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
+  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
 
-- North India gears up for wet spell | Monsoon LIVE updates - The Hindu
-  North India gears up for wet spell. Monsoon
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjlaTVk0M3N0ZVNxYUtiRFpUVjRNNC00RzdkZGxCZlVqUWlldmxBU25VRDlnbmFRd3REWVRocWlvWkxzYk5iREliWnlrbWpxa0pnNkVER1p5d2hFUXlOcUZJLW9Vd2tPeXhzZTQ0eWhzN2l3UUJhaXJMb0FaTDI1RFdERnhhZzRrc3dmbXNjLVRHekFsTHJjQ285dEowMENFOEF0bUVGVnRRekZDUGJHNTFjX25TNjBKNE8tbk8yTUF2ak9tWEJsRmpoRFdWbE1kdk5ibU5VX2ZDOUdVaWl3RE43eE1qSnQ0X2JyYXI4amNnUVpoZ2RpUTJvMGpic09oYzk0TnlHbE9pN1o4cTJsUGJ30gGYAkFVX3lxTE1lbVgyVHZhb3loOFFnSTAwZEZnejYzWW4tSWhlR0Y1SEtGcWRWclVweXBpOGhETC15TGFNTFQtbjlxelBnV0NrSjE2YW9HNEo2V21ZTktKRXI1ZTJxQXpteXVCb3hHSEh2TXRhNkRySXpzMTM1bzdmSXZZV0lONUFPNlQtdGw0d004S2xKYmxCdlNfU2x3UWRqUWhrMzJWeXFrNF9hOURrbWdBRVFoc1RqaWRpbW9HU0NXQjZrTWphRXNPcVVNb0kyZEhLMFNxVUZIZjVGZmtVRThHY2J4ZFdfZWkzdVZOamN0d2RNTkQ3UjFNU21lSHdVbVdzajMxYUlMNC14M0Y0SDdYaUUtMlBkZEUyZzFTTGQ?oc=5
+- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- Why Gujarat villages are turning against the pride - The Times of India
-  The Times of India reports that Gujarat villages
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDZZOFNYV1lRNGtoQ2pVTWt6dExOOWhtc1FzSkx5ZWtuZE5rd0p2RG1UYXpOeGxJY2FjUUVPV3NKR3ZiZDhnemgwengyYl9RbnkxajNXS3I5eWx3R2FBeVRwc1lnc1hMNkUyOFZaSnFqRmlxQVRlZzFmaG9BSHFZZnFmcUlrcHRwczJyRkhzM1FPT3RXNWtCS0t4VDJLaHotX0JHREtKWHdKaGFPQ296ek84R2_SAboBQVVfeXFMTktkeTBXdHRfc2NBbi1Ub2xURlpkUGVjcm9SMnU4dHp2S2djcTlCeEh6SXhqaENkcjlMZVNheFVSbC1HX3AzR1liODNyRmo1aklzc0ZyUUhfcXN3cVIyUkRRWkRweXJ1bWI2SF82TkE2THI5cXhxQW9zeTlmaDV3VzFPMHNZZlRSYmpqSEtqYnFwZTg0cEhvUlc4a0dEUzlERFExUlBVX255SlpQMnZ3YjJ3T2pKQ0dVcEtB?oc=5
+- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
+  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
+  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
 
-- Weather today LIVE: Maharashtra reels under heavy rain; Delhi-NCR faces severe waterlogging, traffic chaos | India News - Hindustan Times
-  The heavy rain has caused severe waterlogging in parts of the state.
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNRlptWkhEblhSQmRVNm5GR0VfWnp3bHc2NGpjZmdaTGgxR3F5Z2cyT3FVY1gxVWlleUVfaDBzX0tLT1lnOGlFVnJQa05DM0gyUGpaZTdnZXpOWnBIYWszYU5zMEJDOVE3bVZpRW9heDRBSFJfQ0lFd3MxRkVCTFhha2FrVzQ5Mm1EeF93MW9SSFY5dDF0d2dqTTRqdTIyT0xkdVVnNmNXMVI4N1dPbUlSQ2duVmtWdFdKRXNQSTA5VVgyWlM0VHpWai1JbGV2WHFTaUwxWVYyQ0VHSFl1SUVTTTlPYWk5b3VXYmdOTGxxUmlTUUZiZXFDUGJTblFlcHZZZ2QweG95RzE3ZzF4WW1KQ9IBlgJBVV95cUxNaS1vSWN6R2ZTaTk5aUZPXzMtMlctTUVYZXY2V3hvZkRheVB5UUxnWU5qMkp2RWpkZXZ0M0FSZkJJWVNjLVBndmdNU1RvejFxS0JRUG02d1pKejlCWnpBWE5OU2tMcVIyb1FiYlhCS05xYjBGR3hIamFfTklVb0FGbDl6al80c09ZZm1fVndBRkthcUtCMmJPVC1vc0hlR0Z0YmFPdFprck1hSUJXS3B2Y2tYblFjcEQ1bEw0TzFBVUxzbFZkeEpLaXpUbHVReHpWeHJTOGtjRzJGYWF3YUplY1AxcVZhWGh3SHg2X042bk8xTEpwVTRqd3dTTzVyX1ZUQTVRSlRNVlFUV2tVZHpOWHo4dEg4dw?oc=5
+- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
+  US prosecutors arrest 24 in major probe into India
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- India news: US charges suspects in Sikh separatist murder - DW.com
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
 
-- Astra Missiles, BrahMos Battery Defence Deals In PM Modi's Indonesia Visit - NDTV
-  <ol><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYz
-  🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjRTVHdybC1uX3liY0plbTdCcGNTZ28zV2pZbS14WE1rOUtHbWh1d2JjbTA0OHk2aklVQWRYamoxZnhiOEc3UFBXNEFuWEdueUhhQ21SNGRIaXpoVm13WklUUGpWYkdXYzQxWlpYRXk5MHRpRXFlczl0djNVZDlCOTNfVnluSFlocm9lTXVyRkJiTmxWcFVsVFhxby04elc5ZnNnLXhydXRXWTN2VVdiSDFpcm1XeGZhZHROTFZCYl82aFHSAcsBQVVfeXFMTmhrRXFkX2ZOVk5EU3pGU3ZNVkEzMWNvYWV6VFloWlJwSFpXUXdwV3VKV2FpcVp3UllaWUoyek1WTWhxa09HVDBaYnNIaHE0STRZb1dlSm5kd2g5bWl0UUc5bzk0RUM5QldMRTItRC1SbGZIZmVwck5URVc3WHgyM0xtci1LbmVkcVdaWmRrSmVWelFveEF3LWw5QlMxX29Dbnk4dEtkOHhKcElLUGRkLWJ2RVRJdXFQb3RPdnZRdWpKODhoVVJGdUJPdDA?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- North India gears up for wet spell | Monsoon LIVE updates - The Hindu
-  North India gears up for wet spell. Monsoon
-  🔗 https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjlaTVk0M3N0ZVNxYUtiRFpUVjRNNC00RzdkZGxCZlVqUWlldmxBU25VRDlnbmFRd3REWVRocWlvWkxzYk5iREliWnlrbWpxa0pnNkVER1p5d2hFUXlOcUZJLW9Vd2tPeXhzZTQ0eWhzN2l3UUJhaXJMb0FaTDI1RFdERnhhZzRrc3dmbXNjLVRHekFsTHJjQ285dEowMENFOEF0bUVGVnRRekZDUGJHNTFjX25TNjBKNE8tbk8yTUF2ak9tWEJsRmpoRFdWbE1kdk5ibU5VX2ZDOUdVaWl3RE43eE1qSnQ0X2JyYXI4amNnUVpoZ2RpUTJvMGpic09oYzk0TnlHbE9pN1o4cTJsUGJ30gGYAkFVX3lxTE1lbVgyVHZhb3loOFFnSTAwZEZnejYzWW4tSWhlR0Y1SEtGcWRWclVweXBpOGhETC15TGFNTFQtbjlxelBnV0NrSjE2YW9HNEo2V21ZTktKRXI1ZTJxQXpteXVCb3hHSEh2TXRhNkRySXpzMTM1bzdmSXZZV0lONUFPNlQtdGw0d004S2xKYmxCdlNfU2x3UWRqUWhrMzJWeXFrNF9hOURrbWdBRVFoc1RqaWRpbW9HU0NXQjZrTWphRXNPcVVNb0kyZEhLMFNxVUZIZjVGZmtVRThHY2J4ZFdfZWkzdVZOamN0d2RNTkQ3UjFNU21lSHdVbVdzajMxYUlMNC14M0Y0SDdYaUUtMlBkZEUyZzFTTGQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Why Gujarat villages are turning against the pride - The Times of India
-  The Times of India reports that Gujarat villages
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDZZOFNYV1lRNGtoQ2pVTWt6dExOOWhtc1FzSkx5ZWtuZE5rd0p2RG1UYXpOeGxJY2FjUUVPV3NKR3ZiZDhnemgwengyYl9RbnkxajNXS3I5eWx3R2FBeVRwc1lnc1hMNkUyOFZaSnFqRmlxQVRlZzFmaG9BSHFZZnFmcUlrcHRwczJyRkhzM1FPT3RXNWtCS0t4VDJLaHotX0JHREtKWHdKaGFPQ296ek84R2_SAboBQVVfeXFMTktkeTBXdHRfc2NBbi1Ub2xURlpkUGVjcm9SMnU4dHp2S2djcTlCeEh6SXhqaENkcjlMZVNheFVSbC1HX3AzR1liODNyRmo1aklzc0ZyUUhfcXN3cVIyUkRRWkRweXJ1bWI2SF82TkE2THI5cXhxQW9zeTlmaDV3VzFPMHNZZlRSYmpqSEtqYnFwZTg0cEhvUlc4a0dEUzlERFExUlBVX255SlpQMnZ3YjJ3T2pKQ0dVcEtB?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Weather today LIVE: Maharashtra reels under heavy rain; Delhi-NCR faces severe waterlogging, traffic chaos | India News - Hindustan Times
-  The heavy rain has caused severe waterlogging in parts of the state.
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxNRlptWkhEblhSQmRVNm5GR0VfWnp3bHc2NGpjZmdaTGgxR3F5Z2cyT3FVY1gxVWlleUVfaDBzX0tLT1lnOGlFVnJQa05DM0gyUGpaZTdnZXpOWnBIYWszYU5zMEJDOVE3bVZpRW9heDRBSFJfQ0lFd3MxRkVCTFhha2FrVzQ5Mm1EeF93MW9SSFY5dDF0d2dqTTRqdTIyT0xkdVVnNmNXMVI4N1dPbUlSQ2duVmtWdFdKRXNQSTA5VVgyWlM0VHpWai1JbGV2WHFTaUwxWVYyQ0VHSFl1SUVTTTlPYWk5b3VXYmdOTGxxUmlTUUZiZXFDUGJTblFlcHZZZ2QweG95RzE3ZzF4WW1KQ9IBlgJBVV95cUxNaS1vSWN6R2ZTaTk5aUZPXzMtMlctTUVYZXY2V3hvZkRheVB5UUxnWU5qMkp2RWpkZXZ0M0FSZkJJWVNjLVBndmdNU1RvejFxS0JRUG02d1pKejlCWnpBWE5OU2tMcVIyb1FiYlhCS05xYjBGR3hIamFfTklVb0FGbDl6al80c09ZZm1fVndBRkthcUtCMmJPVC1vc0hlR0Z0YmFPdFprck1hSUJXS3B2Y2tYblFjcEQ1bEw0TzFBVUxzbFZkeEpLaXpUbHVReHpWeHJTOGtjRzJGYWF3YUplY1AxcVZhWGh3SHg2X042bk8xTEpwVTRqd3dTTzVyX1ZUQTVRSlRNVlFUV2tVZHpOWHo4dEg4dw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns - The Guardian
-  AI models already ‘doing things their creators never intended’
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmxlY3lsd2plaG9DM0JvbVRXRTVCS1lTcU1WTUk0a3hBQmYyZXhFZlhYZnVwWFpLUlcySFloX3JYLVhMWE1udDQ3MXVraVd2ZjlIZFIyVVZYTXNsaDBiTjF2XzNmaEJuajZtQWF1cHV2czRwOVJqR2lHdVhPNVB3Mjh4MWdWT2czMTBYeVpROW5WVzkxdmt5Qmk5c1FZamgxbFR4U2RB?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
-
-- Telangana DGP emphasises integrity, public trust and use of technology in policing - The Hindu
-  Telangana DGP emphasises integrity, public trust
-  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYS1FNE9IT0pXNE96Nml6QWU3MnhrZ1llbnpfQkpRZkFSWUo5dzJSNnhabnlKakdYUjlhZ2JWYnMzaU1KaFdIY3RJQzFRTmtlUWNyQUVZX0wzdVZGNlVFazJKNzlxemRjS2ZLNUxWU01kUWVrS242S2lrWV9hWnBUaUxjbXZXTU1mVmJON0NocnZsLW1BQlVoSG5yNkdjbFF5Z3Nqb1k0UnFEZWMzd0ZtN2xudGpfZEE4N1lXQ1hhM0VVZzRmM0xyWmVaZmYwdE0wZ0dCVmtsdzZ2MDhlU3FsUTBB0gHoAUFVX3lxTE9WS054MXJYZ2VwdHlHZWNHcFNtczJEaVVjWHpQUHpYazdJRjc2bnl6cUpTZk9yUEtPTGVvMjlwNTdqemRiOTZDOTFSLWNjYng0eHRkNjcxRFlqVGZBUTc4bVpWVkV6MkxwOGpCRm1jdEhkQXNST1BFVC1zeHp2Y2RvejEyaE56MnJZNHpLMmFtRnBrYVRGU0x6dlhLbHY5RmFxMmhtQTlSQVBPeG5QZ0lHdGpqdHpNSGIwNndySmVoME9vMElESGNCMWFHR2c4UlR3dmlfR1lsNjd6bUk2bXQwUzViTDZUOWI?oc=5
-
-- Could India’s geothermal potential be unlocked by homegrown technology? - Dialogue Earth
-  Could India’s geothermal potential
-  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEJuczNVSERLQkVTcWFfTUZvc1o2eWhUYVJNV2pEa2VNZDY1RllrN3VTWGYzX0puTmJIXzB0MlVDQWZPY2RDYUVfNUhXbGw1Q3o1a2pvVllQU0dNS1FnNk1jU2lBUzMyek9DN2pteW1qMllhTjQwNXJ2eWZVV2RCcGwyZTZTTHdVbWxhalpocVZMRy10SU1oU2ZpTUdlS085R0tUMExR?oc=5
-
-- NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies - NASA (.gov)
-  NASA’s CAPSTONE
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1gtQU9JOWxvNmwtM0JlTV9SR0FGbjBmbUtNRW1TSmI0N1VIa1dnZThETVFwZlA5NzgzSEFRY2J6a04zemU3NGtiRFlUMldsR3pxZ0JndjFKYm5fTHItbTdyRjRxV2o4cW0tb1NOSl92UEJYUnlpTWtsS0NyOFhHNDVXSGdWSTBkZDdGcHN4cTRqUjNnenZvMXFOMm1RWWQ4NjY2aWlOTWVrOUVZZ2JyTU90UQ?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-08 02:12:53 UTC_
+_Last updated: 2026-07-08 08:20:54 UTC_
