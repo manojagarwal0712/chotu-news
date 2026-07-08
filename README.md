@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
+- India-EU FTA is more than just a trade pact… Both sides have chosen openness over protectionism: EU Ambassador Delphin
+  
+  🔗 https://indianexpress.com/article/india/india-eu-ambassador-free-trade-agreement-fta-2027-herve-delphin-tariffs-cbam-10777732/
 
-- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
+- Jalandhar Cantt railway station gets Rs 125 crore upgrade, PM Modi to inaugurate on July 17
+  
+  🔗 https://indianexpress.com/article/india/jalandhar-cantt-railway-station-rs-125-crore-redevelopment-pm-modi-july-17-10777652/
 
-- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
-  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
+- Two warnings, zero action: Why Wayanad tunnel tragedy is a ‘man-made disaster’
+  
+  🔗 https://indianexpress.com/article/india/wayanad-tunnel-project-landslide-dilip-buildcon-warnings-ignored-10777573/
 
-- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
-  US prosecutors arrest 24 in major probe into India
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
+- NIA raids 20 places in 9 states, Delhi in online radicalisation case, seizes devices
+  
+  🔗 https://indianexpress.com/article/india/nia-isis-aqis-online-radicalisation-case-raids-9-states-10777505/
 
-- India news: US charges suspects in Sikh separatist murder - DW.com
-  " target="_blank"
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
+- Parallel donation system ate into donations at Madhya Pradesh’s Baglamukhi Temple, probe ordered
+  
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-baglamukhi-temple-donation-scam-high-level-inquiry-agar-malwa-10777303/
 
 - AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns - The Guardian
   AI models already ‘doing things their creators never intended’
@@ -28,197 +28,197 @@
   From faith to technology - more of India's wealthy are
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
 
-- China honors pioneers of lithium batteries and radar technology - news.cgtn.com
-  China honors pioneers of lithium batteries and
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVDN3Vid1AzTjY3cl84c3kxT0R6MEZXanhlcEVqblFGRnU0alNneS1zelFfTWpDbktKamZuSHNCeUZMVGVOZ0hoOUFKRzJPZHNURlN5RVJwYW5KODFSM1NjVDQyNzBnZVZVSlhMdkt3aVRyNlRkTlMycDVWVk45NzB2Z3l2V3RWc1JJSk5WSWIxNi1nakdnQ0cyc1I2M1lxUUFlWXAwSF90LTRYTDlNNjNEZWZtcEMwQ3ZhOQ?oc=5
+- 30 years since Dolly the sheep was born, where is cloning technology at now? - Down To Earth
+  30 years since Dolly the sheep was born, where is cloning technology
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFdlWmJDVGMwVWk5RmlQeGdmUnNpU21XdDhjYzdfaXppek5sVlRvSG9SX3UtUkxQMXRRUVY4dF91SGNNOEQyOVhhOFdCZHNOdmZYdGpqcEwyYW0zdHFlQ0V6RmZNSlJSTkRvT2oxcjdocndkRGMtSXpiZVJBVThXcW9wZ29HdjFFTXVQMnlpUWc1OHN4bFlhOWZJNEtpVGJuemdTazFWY3pzdWFuTnJBWkxmVXFpOGhZSWRvemRRcXBXZ9IBzwFBVV95cUxONXBPcGV3bVlmVWU4bUdGT0NMMGttcjdPZWZTeGh3U3dydGZFZVN5RHJVRTRFUjVqZnlqSFRLWHZYZ2wtOTdoUzU2VDRVaF96YWtyd2txQ1JEMXVLaTdISGhtSkEtanhaYmJfS2VMQmNMaG0tWENYWlR5VlVoMG54X1ZHZUJnclRvMUU4dHI2bkJrdWQwalc1c29QZlZfWE9CUnhIdWNxRThwTVNuaHQ0TmUzVVhqZDJkSWRBZXRibG1zM0xjTzd5YmJZdDlYTGc?oc=5
 
-- Broken timers trigger nationwide Telstra outage - ABC News & Headlines – Australian Broadcasting Corporation
-  Broken timers trigger nationwide Telstra outage.
-  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjJhQ29ZRW53QVNRV21HM3lUamdPNGV3YXlLMkYzRmNzTmtkYUFFT0tmdmRWMU11Y3d6R0puQ005RVFhcHBDMnNfWFpEMWE2Nm9KWm1uRk4yZW5nRkVOR0hJVFR4aXpaQWYwTHpONzZDWTFoMmdCUzlpWmJhRDQ1QjJjTTRSNVdxNmNxa01EQXBSRzlsY0lmVUhwVktZZnR5Z2c?oc=5
+- Ford Motor launches 3rd India tech & business services centre at Cbe - BusinessLine
+  Ford Motor launches 3rd India tech & business services
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMjNrSlFKc0hvcEpJOXU3Tks3UXl2Z3p6TzdqQmwzM0stajVEOXlWUkNfMUhGdnE5cExZX254dC1XT2NzMGp5SE9yX0RpSVRETlJ1VjhfeFNhbTVQRnV3MjBxR3o2SWdEbU83U1Fzc0FBQlFZLWZvNm82QlFtZF9ITGpaQm5hMnFZRk5DVDVGZjk1YjZHZ0xnZVlXZHFTY0NVOXh1WXozMHpxZDE4NnZoRlVBVEFoR1NLa0JPeUZHckx0eXJLN3Q0bEtrcnNMR0FBQXRLVC1hR3VNdDNLRGJZbXduMUhQRHPSAe4BQVVfeXFMTzdQUEJ5bnJRZDV6N0s0VktvajdrVklSQV9PX3FBTV80QVl5WkZ0TFMwRFZGeE53WHhTMnBwNEdvRHF6eXI0dHd5cHZackRnMExiNDM4d2V5cHRaMWpWOWxpeklUUTh5YTBXU1drQURDYjNNUHNjS0l3Y19rTXNZeFkzS2YxbXVtTGx3NU1acElGTUZjRVYwTVFFY0VBdVFVVnRiWXM0eHVMeXNYb29CVGZ1eG1aZ2lEUEpmSm0yS3AtV2ZlX05HX0tteGlwUkFxdFR0QTlKbkRHaTd4eU8xSU9DYVF4MklKT0NKOUVMUQ?oc=5
 
-- Anantnag Police arrest 3 OGWs using facial recognition technology - Greater Kashmir
-  Anantnag Police arrest 3 O
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1cyOXZIR3lkckJfaEtWeEFuX2ZwVjh4aTFZdGdiZ3lXQ3N3cXMzdU9SSzdITXhFOTd2OUFkNXhLQzUxU05EeVdjR3B2X1hjUG81dHMxbVA3MEFFOEdxdEZfYUtLZHlwNmNWTDdTMVRza3VjYXRadTVESnFGZE1jeWluSFNNaDRQYzZJb3QxNUFfZWxuNURHTHBJM2V1MEF3SklvcjFFM2ttSmtiR1paSk9xTdIBuAFBVV95cUxPbFBaajlDZlpTUzBta0FGWFpBVWhwQThwNDFXczN2VG9LQ0xUVTdvUEI4amJrbGtSeFpHS2dra1JkMVB4UVJ2RVFCVlVNbWFiQWh4MnB3VXd3QlVQRlJZd1l5Q0MxSHRPOXZLNk5qRGRkSzlQaG95V010RE1nQ1RJQWRXWjdCeHFHYjhBcXhOS0RTN1lla1lsLW1PNUFGZHVNdlpPVzRxemJLc29oWlVaRE16ZUN5Mk5w?oc=5
+- PhonePe elevates Srijon Biswas to Chief Technology Officer, CoFounder Chari to become CPTO - BFSI News
+  PhonePe elevates Srijon Biswas to Chief Technology Officer
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUJKY1RwRmFnLTJkX1dqc3QxcDVTQ29VaTY2bU1FZ0o4RmNXdVdySERKZ3FwUG5UM0xIbllEb2Y3VGJFanhaT3BpTVZaS1F0UDJGZVRzamMxSkhyT3JVU18yN0JyRFQ3VFJlZl9EM250UlhpWDdoTjg2M3g1N3JGX2lJSnBBM3BVTG5ZSnZUbHJfZnphSHpGUG1qOHo0cmVsaXFESk1fLVVrZjBnbmF3SlhRWThDbUlCdXlDR0MtYWszaVoyb0p0TnU4SE9sTVpGOU41WkNBQzZaLTRtWnp4aXhqNXhuMDltRXfSAe8BQVVfeXFMTWNQQmtOOUl2dmZHUnVQZzFFaGRNNnE0dk43SF9ZSXFLeEtmU183VGRJcjMzOVRNYWdQbVhCSWpwZXZrQzBoQlplTFE3TWlQMzNYUHJnZWF2ZFlWUXJieDhXWUQ2RzFwaV80YmRmR2ZRNXcwWkNXVHVDWXFVVDJkNUJHaHc3U3g3UkN2VXdzZWFXTmotc0gtVG5lYlpLWEJqclpWX19RbWhYalozc01EVnk2TExQT0lBZEU3aHBqeDcyejlTYkZlZnFNRFdLUHItRXdUdms4V3lqNHNVamFLcXZOZmV1dDh3VUFXY3pxM3M?oc=5
 
-- Nuvama-Cushman's maiden fund raises  ₹4000 cr, readies for second fund
-  Nuvama and Cushman &amp;amp; Wakefield's joint venture NCW has closed its maiden
-  🔗 https://www.livemint.com/companies/nuvamacushmans-maiden-fund-raises-4000-cr-readies-for-second-fund-11783454045150.html
+- US prosecutors charge Indian crime boss with murder of Sikh activist in Canada - BBC
+  US prosecutors charge Indian crime boss with murder of Sikh activist
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- TCS Q1 preview: CEO Krithivasan's toughest earnings test yet
-  CS reported its first revenue decline last fiscal year and three quarterly revenue contractions over the past eight quarters.
-  🔗 https://www.livemint.com/companies/news/tcs-q1-earnings-ceo-krithivasan-tcs-share-price-infosys-hcl-tech-11783482077732.html
-
-- Blue Tokai Coffee courts PE funds for its largest ever fundraise at $100 million
-  Blue Tokai has initiated talks with TPG, Temasek and ChrysCapital to raise at least $100
-  🔗 https://www.livemint.com/companies/blue-tokai-coffee-roasters-tpg-temasek-chryscapital-private-equity-fundraising-11783477661719.html
-
-- Kedaara may lead race to acquire stake in Olive PharmaScience
-  The deal may value Olive
-  🔗 https://www.livemint.com/companies/news/kedaara-capital-olive-pharmascience-minority-stake-crdmo-11783410467996.html
-
-- New GIC Re chief banks on AI, resilience for next growth phase
-  State-owned reinsurer is building 'Ragini', a private AI assistant, to capture underwriting expertise. New chairman and managing director Hitesh Joshi talks to Mint
-  🔗 https://www.livemint.com/companies/news/new-gic-re-chief-banks-on-ai-resilience-for-next-growth-phase-11783403933784.html
-
-- Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July
-  Pabitro Mukherjee, Deputy Vice President - Technical, Bajaj Broking, recommends five stocks poised for potential short-term gains. Discover why Reliance, Bharti Airt
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-reliance-bharti-airtel-bel-among-5-shares-bajaj-brokings-expert-recommends-for-july-11783491139690.html
-
-- ₹939 crore order impact? INOX India share price jumps over 5% despite muted trends in the Indian stock market
-  INOX India saw a 5% rise in its share price on July 8 after announcing orders totaling  ₹939 crore since May. The orders covered Industrial Gas
-  🔗 https://www.livemint.com/market/stock-market-news/rs-939-crore-order-impact-inox-india-share-price-jumps-over-5-despite-muted-trends-in-the-indian-stock-market-11783496868366.html
-
-- Can Nifty 50 touch 25,000 this month? Analysts see bank, auto, IT stocks driving the next leg up
-  Nifty 50 has gained nearly 2% so far in July and had climbed above the 24,500 mark in the previous session. Investors closely watch whether Nifty 50 can scale the psychologically significant 25,000 mark this month
-  🔗 https://www.livemint.com/market/stock-market-news/can-nifty-50-touch-25-000-this-month-analysts-see-bank-auto-it-stocks-driving-the-next-leg-up-11783495380333.html
-
-- TCS Q1 Results on July 9: AI Strategy, Dividend, Margins — Key things to watch from IT major's earnings
-  TCS kicks off FY27 earnings on July 9. Investors will assess AI strategies, deal wins, and the impact of external factors on client spending and hiring practices.
-  🔗 https://www.livemint.com/market/stock-market-news/tcs-q1-results-on-july-9-ai-strategy-dividend-margins-key-things-to-watch-from-it-majors-earnings-11783494698992.html
-
-- Auto sector Q1 results preview: Margin pressure looms despite strong demand; Hyundai, Tata Motors PV among top picks
-  The automobile sector is projected to see strong revenue growth in Q1FY27, fueled by high demand across various vehicle categories. However, profitability may be constrained by rising commodity costs due
-  🔗 https://www.livemint.com/market/auto-sector-q1-results-preview-margin-pressure-looms-despite-strong-demand-hyundai-tata-motors-pv-among-top-picks-11783491745871.html
-
-- Pixel 11 launch date revealed: Made by Google event announced for August 12
-  Google's next Made by Google launch event is set for August
-  🔗 https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html
-
-- ChatGPT image generation down- OpenAI says ‘implementing mitigation’
-  ChatGPT faced a widespread outage on Tuesday, with users reporting issues generating images
-  🔗 https://www.livemint.com/technology/apps/chatgpt-image-generation-down-openai-says-implementing-mitigation-11783430068457.html
-
-- Apple now asks users before sending Apple Intelligence requests to Google Cloud
-  Apple's new AI features require users to share data with
-  🔗 https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html
-
-- Apple finally brings back card payments for subscriptions and App Store purchases in India
-  Apple resumesdcard payments for App Store purchases in India after a four-year
-  🔗 https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html
-
-- Apple could bring back its iPhone X playbook for the iPhone Ultra
-  Apple could be planning to use the iPhone X playbook with the iPhone Ultra by delaying the initial pre-
-  🔗 https://www.livemint.com/technology/gadgets/apple-could-bring-back-its-iphone-x-playbook-for-the-iphone-ultra-11783316707218.html
-
-- Stock Market News, July 7, 2026: SpaceX Slips Below Opening Price in Glum Day for Tech Stocks - WSJ
-  Stock futures little changed as investors weigh Middle East tensions and Fed minutes. Nasdaq drops 1% as chip stocks tumble and oil spikes; Dow slips below 53,000.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQVk1jYVRUUlQ4RlJQZlRtb1VjQW8wUU84eC1JOF9WSUdhcThGSFZKOUhEZWYzanBCVEFSU2Rwa2J2UmlGMHBCX21sMXNycFRoXzl3LUVZdWpQY0R1LUV0eWZ2TTkyeVVuTHozS2RoNmJ0SVl1aHFoSFZXbkdmZ3NpaGpfMVc5Zzg?oc=5
-
-- Tanfac Industries secures major capital boost to drive speciality chemicals expansion - Indiatimes
-  Tanfac Industries secures major capital boost to
-  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT2JuMjdzdzlfanZlTDdyTVJJS0haakMya2FTT0E5UTJvaGM0UjRLemlzUXpxWExRdDJhSUl4UmlFN0ZVOHlYekY4SElXU0lLRjN1cFV4WFF5QnV2Z1dkcXk3TTV2MXhrUlhVSThZZHAzcHlMTkNQN2RiZzdhY1JRdkNJQUxwYXRsRGVZczdNRXVRaFRPX1BWejhiUGQ3TWlLR3ZWM2o2b3JhUVRrRkdOWHlZbXBaMVFaZDNaX0FEa0VDbW12ajRqM3dwLS1LcE5hMTFQM0k4Qjd5T21pSkI3N0NPVl9tVE9yRGh4a3RuTnJhVGxXRGJ6cEdNZw?oc=5
-
-- Why short selling may be good for investors - Finshots
-  Why short selling may be good
-  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc2NiSWhZbzRSdU01VUxCX0JYSDl2cDB6bjdxSS0ycUVOeS05Uy1rOTdNaU1IVTk4ZnZpTG1Za0hDMy00UmxRVXpLMGxFM3JEc1lRX21ZV1o2dEdpYTlqUHZSTUdOMDhlalhtQVNJVVU5R0ZkU2hGSEdLUzNxTW8?oc=5
-
-- Europe’s economy is a mess. Its stock markets are a steal - The Economist
-  Europe’s economy is a mess. Its
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnlTU3lwQkhQZXhPaUNveU5KZmxsTERIeU5FM2toQnFLTkJ4a0RMOW1RelZqZGtQeWR0ZV9ReldhM2dUT3UtZXcwaTlKZzlGU19neDh6Y1pWRTdNWnRDNU5pOVF5ZlMxUjBXWlNiVTRTUVhZNFpiY3VfZWNHMFBpUGNLWXB3eVM5cHFsS1VvbC1QVXJOX092RWpGdHhGMDdWWmJXUTlXOWlYc2NmalJGajQ2dlI?oc=5
-
-- Gold gains as markets await Fed minutes, US-Iran strikes cap rise - Reuters
-  Gold gains as markets await Fed minutes, US
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1hzdnRhSUFjNm5yb3RRTUlITEtOd1NMOFJJNlc0VVczR0s1S295WjY5b0YyaEhIMjZxZWEtdk5WUjlPcC05dUtFaThpNGo3QVl4REZiMzIxZ252bHE4a2VRRjFUYXlfR3Myb0Y3aUlSVnplSEp5eW9YQjBvNXU1UmwySVFjaXhuXzNLMFBXNE5Rdk5IcWxqUXJZR3FvNGRjc2p2b3hoa2x3U2ZvOE5XYU1n?oc=5
-
-- Global Market: Japanese fund managers bet big on yen bonds as BOJ policy shift lifts yields
-  Japanese asset managers are launching new bond funds as interest rates rise. This trend revives investor appetite for yen-denominated debt after decades.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-fund-managers-bet-big-on-yen-bonds-as-boj-policy-shift-lifts-yields/articleshow/132256982.cms
-
-- Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO
-  Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception. The autonomous-driving software developer raised HK$5.89 billion in its initial public offering.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms
-
-- Big Short fame Michael Burry is betting against Nvidia, AMD, Micron and other chipmakers. Is a massive AI crash coming?
-  Michael Burry, famed for predicting the 2008 financial crisis, has increased his bearish bets against AI-linked chipmakers through the iShares Semiconductor ETF. His move has reignited concerns over stretched semic
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/big-short-fame-michael-burry-is-betting-against-nvidia-amd-micron-and-other-chipmakers-is-a-massive-ai-crash-coming/articleshow/132256730.cms
-
-- 10 microcap stocks rally up to 430% in CY26; 5 turn multibaggers: Here’s FII and MF exposure
-  Microcap stocks delivered stellar CY26 gains, with several companies rallying over 50%. Sterlite Technologies, MTAR Technologies
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-rally-up-to-430-in-cy26-5-turn-multibaggers-heres-fii-and-mf-exposure/slideshow/132256662.cms
-
-- Global Market: Japanese bond yields climb to multi-decade highs amid inflation and fiscal concerns
-  The benchmark 20-year JGB yield climbed to its highest level since 1996. Growing worries about Japan’s fiscal outlook and borrowing needs.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-to-multi-decade-highs-amid-inflation-and-fiscal-concerns/articleshow/132256277.cms
-
-- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
+- No evidence linking Indian Govt. to Nijjar’s killing, says Canada Police - The Hindu
+  No evidence linking Indian Govt. to Nij
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRZT0VDQlJOSVhKaUZIY0JOUDV4d08wZmlYNS1Mb3ZMRWduellycG5CMFY5ZVVQN3NvUUR6elRfQ2swMzRmR29iYmRZQ2Y4WVRxOUNQWHBfVTlMOTcyazZ6N3lBT3hYUnVJM2xFWVFxdTlZQTlUT0czeU01enE2d0NvWkR5SlpkN090Y2Y4SXM0b19ub1RubXpYUWhBbzFjaWdQb1NLQW53eG1PTkh4MDhjb1g3SlgyX1g2elpiWjJJUHRjb2lUdkFUem1ld9IB1AFBVV95cUxOLV95c05KWDNoZUd4VWM4TUtEc19YX1VLRndacl9MRk5zMWsyaTdRWUJ6RXBrSjBCMjNfWG5JeFY4Q1Y3UjlkS283MFR3M1BFaXdhS3plazdlY3c0UGk2N0JMYTkwRXFQWDlNY3JrdHFPTm90enR3RGxhRUxqYVNRS1FKaThuUUNxNHJ3UFlsOTBOWU02Ykl5V3dRY1BfRXNfMW1JTXdEUEp1NkdXNUVWYkJEZTRYUkxIQU9PM0VLQ191QU1nRFpGbTZoVmxKVHpJRzlqdA?oc=5
 
 - Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
-  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
+- Indian Navy UAV crashes near Porbandar, Gujarat; no casualties reported - The Times of India
+  Indian Navy UAV crashes near Porbandar, Gujarat
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3IxTGFfOFZheFFBbGVNU0ltZ3JfRnhwN3FSMk1CNEJwVndLLVhuSEo1QjZDSW5yTWEyWHB1d3dobkRmelh0MlpfdjFYdTJHemg1MERxZGlodEZoU0ZuZlRMRVJxS3lCaTBZVDNsOGxXZExSM21ZQW9TMmJjUk9LSVhMM1J0YjUzUmxLY01sWlBhdUVFVGx4aTY3LVVUcmoyQklmRWZoYm1SY05xLWlrTnVmSG40Y3dUWngwakNwSDd0TGo3T1A5SNIBzgFBVV95cUxQRTR6QnA3aHJfcXBqMkJRYXZkdTZqbWFZbEE3Y0l2ZWFnajgyZTZiVTlYWXhlaXpjaG1IV2pmcjhjTWowT1Q2VWN1SndLUjZ5UXpYREV5aDB2TG5LaUVteWlEVVcwZFJzY0hjaVg4WmlxWGZZVk9raXNsbjBiYlBzNUZTekxMYTZiNHJ0QTBVMy1NNWdmS0hhSlV5YTRkVG5jRC00X2ZGaS13cnRyUFZrR0phSUhFME4xU1ptNnFaWDh3NzBYUHF2WjNqSTcxQQ?oc=5
 
-- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
-  US prosecutors arrest 24 in major probe into India
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+
+- Dow futures drop more than 400 points, oil surges after Trump declares Iran ceasefire 'over': Live updates - CNBC
+  Dow futures drop more than 400 points, oil surges after Trump declares Iran
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5
+
+- Stock Market Today: Oil Price Jumps, Dow Slides at Open After Trump Says Iran Ceasefire Is 'Over' — Live Updates - WSJ
+  Stock Market Today: Oil Price Jumps, Dow Slides at Open after Trump Says Iran
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndiV0Eybkx1azMyV19iOTJCZjdXSnFYRlhIV0d0QWU4TlRXa2Job2NZYTZVODVzaHFxU3gxSGl0YVFndXhPS1FsNTg2Nl9OdzFLaFVQeTM5ZjV2dE0zbE9UN3l0MW1VY05GQzhIbFd5QzgwcERqQWtVelBrNGNCOElVaS1UY0U?oc=5
+
+- Trump orders US to cut all trade with Spain – latest updates - The Telegraph
+  Trump orders US to cut all trade with Spain – latest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlJfOHZBSWhvU2VrOFBMaTh2YmRteW1hVkFkdkdhNFc3bWhEd21oaDNSMU1ybTJWZUN5TklYVjJkNjhlQnd3dk0xSUFkZTZ4REJLNUhJa2djWlgzS0ZBSjV0bWZMbUtYUFVveDQyYjNfVXo5a2RXMlh3eW5QUGRNMERiT2FQU2VrWWttUDZVTlR2MTQ5QUEydU53?oc=5
+
+- Jim Cramer's top 10 things to watch in the stock market Wednesday - CNBC
+  Jim Cramer's top 10 things to watch in
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXNCajhucGJwS202TTRQU1NGRkQ0M2xkSjBJakRQZGpUV2J6NjZBWk1yNjlPWnctVXJHdG5fX2ZWa1ppYmE1UlE2UUNJdk8tNFpWUFNQc0RmTmswY2lfLVp6eVYxVldtQVdpVlQ3VTh6WGl5djNhdkF3MmEzWmk1TFpUVlo2YlQ1VjJ0SXFwd3J4U3E0dFN5dEc1N3k3R2FNbmFN?oc=5
+
+- Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore! Sensex, Nifty50 t - The Times of India
+  Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore.
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNC1jekxwclVodXJDTTR1TUE4NVgxYWhpbFpRYmI4cTZEN0dSWVpOUW9vUHFsWGZrT2I0cldjOE9QMWxVMkZhV3h3S2RiN2JsUW5KWGlyeWRPS0lKUXlnYVBLbmI2ZXVzZExISmhnY0I5TFFDM1B0bHBFNnhWeHlfemctV25QUW16dUJYZF9pMFFQNjJ1Um1vaDA0bWlRcHdCT0l2Uzcxb1Z5TUU3WUw3dEQ2akY5dlJDd2YwNDFXdlJZRmo1Z0k3cHYzd0kxTU5JNW9PV0UwXzU2UUN5ZnRsb1gwQUtreEUzcWJlZ2VPVFhtT1d5NGwzZjJ0VWtBcWoyLXFVS0d2Uk5WbEthbzZKRXJfWUM2eHFsbl9xZzVnVmx1TURRMUJwdjNfZE9wNzZVYzZfUHIxZngxTDJiWk90dk1R0gHHAkFVX3lxTE5yYU1tdjE1YV96UXZ2VGhJNEt3SWNLaDkxd0pxSGlCYkxlQlhVRVpySVdXQk1NQUZtd1ZVVzhXNDV1N2dTU2hFRVZlbEU2SDUtRkZpMERURjZpRnZoSFRvdlQwZmJZbEZKQ2Z2aE9waExER19xVlUxSUlYRDZCd1ZfSTJ6UlM2VHZOSm8xbG9JWTRNc2w3TlZzV2t5WTdUbExPUU9IaWN2QTM0V0JHTHR6NGFYMlVIai0zME5sQTFhVTRWLWMwY2NseE9salJyaFczMG91dDZrQldmNWxXelRfcmFvb3NVcmxVdWg2dHVUVkFrUzZtMlI5MXdfRkZKNFNBY0d5bjdIQXdyamdkbjNSLWNkQWNiN0JQQzNaT3ZDTk1CX3l2VnZ5eEdmdjYyQVFfNS05eXhGVHg4ZjcxRzZ1RlVxTUdHRQ?oc=5
+
+- AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns - The Guardian
+  AI models already ‘doing things their creators never intended’
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmxlY3lsd2plaG9DM0JvbVRXRTVCS1lTcU1WTUk0a3hBQmYyZXhFZlhYZnVwWFpLUlcySFloX3JYLVhMWE1udDQ3MXVraVd2ZjlIZFIyVVZYTXNsaDBiTjF2XzNmaEJuajZtQWF1cHV2czRwOVJqR2lHdVhPNVB3Mjh4MWdWT2czMTBYeVpROW5WVzkxdmt5Qmk5c1FZamgxbFR4U2RB?oc=5
+
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+
+- 30 years since Dolly the sheep was born, where is cloning technology at now? - Down To Earth
+  30 years since Dolly the sheep was born, where is cloning technology
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFdlWmJDVGMwVWk5RmlQeGdmUnNpU21XdDhjYzdfaXppek5sVlRvSG9SX3UtUkxQMXRRUVY4dF91SGNNOEQyOVhhOFdCZHNOdmZYdGpqcEwyYW0zdHFlQ0V6RmZNSlJSTkRvT2oxcjdocndkRGMtSXpiZVJBVThXcW9wZ29HdjFFTXVQMnlpUWc1OHN4bFlhOWZJNEtpVGJuemdTazFWY3pzdWFuTnJBWkxmVXFpOGhZSWRvemRRcXBXZ9IBzwFBVV95cUxONXBPcGV3bVlmVWU4bUdGT0NMMGttcjdPZWZTeGh3U3dydGZFZVN5RHJVRTRFUjVqZnlqSFRLWHZYZ2wtOTdoUzU2VDRVaF96YWtyd2txQ1JEMXVLaTdISGhtSkEtanhaYmJfS2VMQmNMaG0tWENYWlR5VlVoMG54X1ZHZUJnclRvMUU4dHI2bkJrdWQwalc1c29QZlZfWE9CUnhIdWNxRThwTVNuaHQ0TmUzVVhqZDJkSWRBZXRibG1zM0xjTzd5YmJZdDlYTGc?oc=5
+
+- Ford Motor launches 3rd India tech & business services centre at Cbe - BusinessLine
+  Ford Motor launches 3rd India tech & business services
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMjNrSlFKc0hvcEpJOXU3Tks3UXl2Z3p6TzdqQmwzM0stajVEOXlWUkNfMUhGdnE5cExZX254dC1XT2NzMGp5SE9yX0RpSVRETlJ1VjhfeFNhbTVQRnV3MjBxR3o2SWdEbU83U1Fzc0FBQlFZLWZvNm82QlFtZF9ITGpaQm5hMnFZRk5DVDVGZjk1YjZHZ0xnZVlXZHFTY0NVOXh1WXozMHpxZDE4NnZoRlVBVEFoR1NLa0JPeUZHckx0eXJLN3Q0bEtrcnNMR0FBQXRLVC1hR3VNdDNLRGJZbXduMUhQRHPSAe4BQVVfeXFMTzdQUEJ5bnJRZDV6N0s0VktvajdrVklSQV9PX3FBTV80QVl5WkZ0TFMwRFZGeE53WHhTMnBwNEdvRHF6eXI0dHd5cHZackRnMExiNDM4d2V5cHRaMWpWOWxpeklUUTh5YTBXU1drQURDYjNNUHNjS0l3Y19rTXNZeFkzS2YxbXVtTGx3NU1acElGTUZjRVYwTVFFY0VBdVFVVnRiWXM0eHVMeXNYb29CVGZ1eG1aZ2lEUEpmSm0yS3AtV2ZlX05HX0tteGlwUkFxdFR0QTlKbkRHaTd4eU8xSU9DYVF4MklKT0NKOUVMUQ?oc=5
+
+- PhonePe elevates Srijon Biswas to Chief Technology Officer, CoFounder Chari to become CPTO - BFSI News
+  PhonePe elevates Srijon Biswas to Chief Technology Officer
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUJKY1RwRmFnLTJkX1dqc3QxcDVTQ29VaTY2bU1FZ0o4RmNXdVdySERKZ3FwUG5UM0xIbllEb2Y3VGJFanhaT3BpTVZaS1F0UDJGZVRzamMxSkhyT3JVU18yN0JyRFQ3VFJlZl9EM250UlhpWDdoTjg2M3g1N3JGX2lJSnBBM3BVTG5ZSnZUbHJfZnphSHpGUG1qOHo0cmVsaXFESk1fLVVrZjBnbmF3SlhRWThDbUlCdXlDR0MtYWszaVoyb0p0TnU4SE9sTVpGOU41WkNBQzZaLTRtWnp4aXhqNXhuMDltRXfSAe8BQVVfeXFMTWNQQmtOOUl2dmZHUnVQZzFFaGRNNnE0dk43SF9ZSXFLeEtmU183VGRJcjMzOVRNYWdQbVhCSWpwZXZrQzBoQlplTFE3TWlQMzNYUHJnZWF2ZFlWUXJieDhXWUQ2RzFwaV80YmRmR2ZRNXcwWkNXVHVDWXFVVDJkNUJHaHc3U3g3UkN2VXdzZWFXTmotc0gtVG5lYlpLWEJqclpWX19RbWhYalozc01EVnk2TExQT0lBZEU3aHBqeDcyejlTYkZlZnFNRFdLUHItRXdUdms4V3lqNHNVamFLcXZOZmV1dDh3VUFXY3pxM3M?oc=5
+
+- Dow futures drop more than 400 points, oil surges after Trump declares Iran ceasefire 'over': Live updates - CNBC
+  Dow futures drop more than 400 points, oil surges after Trump declares Iran
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5
+
+- Stock Market Today: Oil Price Jumps, Dow Slides at Open After Trump Says Iran Ceasefire Is 'Over' — Live Updates - WSJ
+  Stock Market Today: Oil Price Jumps, Dow Slides at Open after Trump Says Iran
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndiV0Eybkx1azMyV19iOTJCZjdXSnFYRlhIV0d0QWU4TlRXa2Job2NZYTZVODVzaHFxU3gxSGl0YVFndXhPS1FsNTg2Nl9OdzFLaFVQeTM5ZjV2dE0zbE9UN3l0MW1VY05GQzhIbFd5QzgwcERqQWtVelBrNGNCOElVaS1UY0U?oc=5
+
+- Trump orders US to cut all trade with Spain – latest updates - The Telegraph
+  Trump orders US to cut all trade with Spain – latest
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlJfOHZBSWhvU2VrOFBMaTh2YmRteW1hVkFkdkdhNFc3bWhEd21oaDNSMU1ybTJWZUN5TklYVjJkNjhlQnd3dk0xSUFkZTZ4REJLNUhJa2djWlgzS0ZBSjV0bWZMbUtYUFVveDQyYjNfVXo5a2RXMlh3eW5QUGRNMERiT2FQU2VrWWttUDZVTlR2MTQ5QUEydU53?oc=5
+
+- Jim Cramer's top 10 things to watch in the stock market Wednesday - CNBC
+  Jim Cramer's top 10 things to watch in
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXNCajhucGJwS202TTRQU1NGRkQ0M2xkSjBJakRQZGpUV2J6NjZBWk1yNjlPWnctVXJHdG5fX2ZWa1ppYmE1UlE2UUNJdk8tNFpWUFNQc0RmTmswY2lfLVp6eVYxVldtQVdpVlQ3VTh6WGl5djNhdkF3MmEzWmk1TFpUVlo2YlQ1VjJ0SXFwd3J4U3E0dFN5dEc1N3k3R2FNbmFN?oc=5
+
+- Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore! Sensex, Nifty50 t - The Times of India
+  Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore.
+  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNC1jekxwclVodXJDTTR1TUE4NVgxYWhpbFpRYmI4cTZEN0dSWVpOUW9vUHFsWGZrT2I0cldjOE9QMWxVMkZhV3h3S2RiN2JsUW5KWGlyeWRPS0lKUXlnYVBLbmI2ZXVzZExISmhnY0I5TFFDM1B0bHBFNnhWeHlfemctV25QUW16dUJYZF9pMFFQNjJ1Um1vaDA0bWlRcHdCT0l2Uzcxb1Z5TUU3WUw3dEQ2akY5dlJDd2YwNDFXdlJZRmo1Z0k3cHYzd0kxTU5JNW9PV0UwXzU2UUN5ZnRsb1gwQUtreEUzcWJlZ2VPVFhtT1d5NGwzZjJ0VWtBcWoyLXFVS0d2Uk5WbEthbzZKRXJfWUM2eHFsbl9xZzVnVmx1TURRMUJwdjNfZE9wNzZVYzZfUHIxZngxTDJiWk90dk1R0gHHAkFVX3lxTE5yYU1tdjE1YV96UXZ2VGhJNEt3SWNLaDkxd0pxSGlCYkxlQlhVRVpySVdXQk1NQUZtd1ZVVzhXNDV1N2dTU2hFRVZlbEU2SDUtRkZpMERURjZpRnZoSFRvdlQwZmJZbEZKQ2Z2aE9waExER19xVlUxSUlYRDZCd1ZfSTJ6UlM2VHZOSm8xbG9JWTRNc2w3TlZzV2t5WTdUbExPUU9IaWN2QTM0V0JHTHR6NGFYMlVIai0zME5sQTFhVTRWLWMwY2NseE9salJyaFczMG91dDZrQldmNWxXelRfcmFvb3NVcmxVdWg2dHVUVkFrUzZtMlI5MXdfRkZKNFNBY0d5bjdIQXdyamdkbjNSLWNkQWNiN0JQQzNaT3ZDTk1CX3l2VnZ5eEdmdjYyQVFfNS05eXhGVHg4ZjcxRzZ1RlVxTUdHRQ?oc=5
+
+- US stocks today: Dow Jones crashes 500 points at open as Trump stops Iran peace deal
+  Dow, S&amp;P 500 and Nasdaq slip at the open. Trump said the Iran deal was over, triggering a risk-off sentiment globally.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-trump-says-iran-deal-is-over/articleshow/132265268.cms
+
+- HSBC drops 'overweight' call on EM equities on AI spending fears
+  HSBC reassessed its position on emerging markets equities, shifting to an 'overweight' stance. Rising volatility in Asian markets and ongoing concerns about AI-related expenditures. South Korean stocks have notably suffered, dipping into bear market conditions
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/hsbc-drops-overweight-call-on-em-equities-on-ai-spending-fears/articleshow/132264004.cms
+
+- Quote of the day by Henry Singleton: "Our accounting is set to maximize cash flow, not reported earnings. Smoothing reported earnings just has to take a backseat"
+  Henry Singleton emphasized cash flow over reported earnings for business success. Sustainable businesses generate strong cash, not just accounting profits. Management should focus on economic value, not quarterly earnings targets.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-henry-singleton-our-accounting-is-set-to-maximize-cash-flow-not-reported-earnings-smoothing-reported-earnings-just-has-to-take-a-backseat/articleshow/132254645.cms
+
+- Nuvama, Cushman &amp; Wakefield-backed realty fund raises Rs 4,000 cr
+  NCW real estate fund has triumphant news as it successfully closes its PRIME Offices Fund at a hefty Rs 4,000 crore. This collaboration between Nuvama and Cushman &amp; Wakefield has not only met but
+  🔗 https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nuvama-cushman-wakefield-backed-realty-fund-raises-rs-4000-cr/articleshow/132263232.cms
+
+- Dow Jones| Nasdaq | US Stock Market Today | Live: Dow Jones crashes 500 points at open as Trump stops Iran peace deal
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-ceasefire-deal-over-hormuz-brent-crude-oil-earnings-broadcom-apple-chevron-exxon-airline-stock-price-news-8th-july-2026/liveblog/132263211.cms
+
+- US prosecutors charge Indian crime boss with murder of Sikh activist in Canada - BBC
+  US prosecutors charge Indian crime boss with murder of Sikh activist
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- India news: US charges suspects in Sikh separatist murder - DW.com
-  " target="_blank"
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
-
-- Aequs Jumps 12% To All-Time High On Nuvama’s Bullish Call
-  Shares of contract manufacturer Aequs surged as much as 12% to hit an all-time high of ₹271 apiece.
-  🔗 https://inc42.com/buzz/aequs-jumps-12-to-all-time-high-on-nuvamas-bullish-call/
-
-- Flipkart Expands Zero Commission Policy To All Fashion Products
-  Walmart-backed ecommerce marketplace Flipkart has expanded its zero-commission policy to cover all fashion products, irrespective of their price
-  🔗 https://inc42.com/buzz/flipkart-expands-zero-commission-policy-to-all-fashion-products/
-
-- Dream Sports CTO Amit Sharma Quits To Start Own AI Venture
-  Dream Sports CTO Amit Sharma has quit after a decade-long stint to pursue his own venture as the Dream11 parent.
-  🔗 https://inc42.com/buzz/dream-sports-cto-amit-sharma-quits-to-start-own-ai-venture/
-
-- The New Math Behind ROI In AI
-  The race to deploy AI is heating up, but organisations no longer want just deployment. They&#8217;re asking whether copil
-  🔗 https://inc42.com/features/the-new-math-behind-roi-in-ai/
-
-- Exclusive: Leverage Edu Forays Into South America With Acquisition Of Mundus Agency
-  Study abroad startup Leverage Edu has entered the South American market with the acquisition of Brazil-based international education company Mundus.
-  🔗 https://inc42.com/buzz/leverage-edu-forays-into-south-america-with-acquisition-of-mundus-agency/
-
-- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
+- No evidence linking Indian Govt. to Nijjar’s killing, says Canada Police - The Hindu
+  No evidence linking Indian Govt. to Nij
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRZT0VDQlJOSVhKaUZIY0JOUDV4d08wZmlYNS1Mb3ZMRWduellycG5CMFY5ZVVQN3NvUUR6elRfQ2swMzRmR29iYmRZQ2Y4WVRxOUNQWHBfVTlMOTcyazZ6N3lBT3hYUnVJM2xFWVFxdTlZQTlUT0czeU01enE2d0NvWkR5SlpkN090Y2Y4SXM0b19ub1RubXpYUWhBbzFjaWdQb1NLQW53eG1PTkh4MDhjb1g3SlgyX1g2elpiWjJJUHRjb2lUdkFUem1ld9IB1AFBVV95cUxOLV95c05KWDNoZUd4VWM4TUtEc19YX1VLRndacl9MRk5zMWsyaTdRWUJ6RXBrSjBCMjNfWG5JeFY4Q1Y3UjlkS283MFR3M1BFaXdhS3plazdlY3c0UGk2N0JMYTkwRXFQWDlNY3JrdHFPTm90enR3RGxhRUxqYVNRS1FKaThuUUNxNHJ3UFlsOTBOWU02Ykl5V3dRY1BfRXNfMW1JTXdEUEp1NkdXNUVWYkJEZTRYUkxIQU9PM0VLQ191QU1nRFpGbTZoVmxKVHpJRzlqdA?oc=5
 
 - Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
-  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
+- Indian Navy UAV crashes near Porbandar, Gujarat; no casualties reported - The Times of India
+  Indian Navy UAV crashes near Porbandar, Gujarat
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3IxTGFfOFZheFFBbGVNU0ltZ3JfRnhwN3FSMk1CNEJwVndLLVhuSEo1QjZDSW5yTWEyWHB1d3dobkRmelh0MlpfdjFYdTJHemg1MERxZGlodEZoU0ZuZlRMRVJxS3lCaTBZVDNsOGxXZExSM21ZQW9TMmJjUk9LSVhMM1J0YjUzUmxLY01sWlBhdUVFVGx4aTY3LVVUcmoyQklmRWZoYm1SY05xLWlrTnVmSG40Y3dUWngwakNwSDd0TGo3T1A5SNIBzgFBVV95cUxQRTR6QnA3aHJfcXBqMkJRYXZkdTZqbWFZbEE3Y0l2ZWFnajgyZTZiVTlYWXhlaXpjaG1IV2pmcjhjTWowT1Q2VWN1SndLUjZ5UXpYREV5aDB2TG5LaUVteWlEVVcwZFJzY0hjaVg4WmlxWGZZVk9raXNsbjBiYlBzNUZTekxMYTZiNHJ0QTBVMy1NNWdmS0hhSlV5YTRkVG5jRC00X2ZGaS13cnRyUFZrR0phSUhFME4xU1ptNnFaWDh3NzBYUHF2WjNqSTcxQQ?oc=5
 
-- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
-  US prosecutors arrest 24 in major probe into India
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+
+- Novyte Banks On Agentic AI To Solve The Optimisation Puzzle In Materials Science
+  New materials are not created overnight; their development is often a slow, iterative process and in most cases, the work&#8230
+  🔗 https://inc42.com/startups/novyte-banks-on-agentic-ai-to-solve-the-optimisation-puzzle-in-materials-science/
+
+- Cult.fit DRHP: A Look At Shareholding Pattern & Key Executives
+  Gym franchise operator Cult.fit has filed its draft IPO papers with the SEBI, aiming to net up to ₹4,000 Cr&#8230.
+  🔗 https://inc42.com/buzz/cult-fit-drhp-a-look-at-shareholding-pattern-key-executives/
+
+- Elevate Education Bags ₹170 Cr To Scale AI-Led Higher Education Platform
+  Edtech startup Elevate Education, formerly known as Sunstone, has raised ₹170 Cr ($17.7 Mn) in its Series D funding round.
+  🔗 https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/
+
+- Ola Electric Faces Supplier Insolvency Petitions, Links Dispute To Ongoing Arbitration
+  Listed EV maker Ola Electric is facing insolvency petitions from two of its suppliers.
+  🔗 https://inc42.com/buzz/ola-electric-faces-supplier-insolvency-petitions-links-dispute-to-ongoing-arbitration/
+
+- PhonePe Elevates Srijon Biswas To CTO, Cofounder Rahul Chari Takes On CPTO Role
+  Fintech major PhonePe has elevated its financial services’ engineering head Srijon Biswas to the position of chief technology officer.
+  🔗 https://inc42.com/buzz/phonepe-elevates-srijon-biswas-to-cto-cofounder-rahul-chari-takes-on-cpto-role/
+
+- US prosecutors charge Indian crime boss with murder of Sikh activist in Canada - BBC
+  US prosecutors charge Indian crime boss with murder of Sikh activist
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- India news: US charges suspects in Sikh separatist murder - DW.com
-  " target="_blank"
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
-
-- PM Modi becomes first Indian Prime Minister to address Indonesian Parliament - News On AIR
-  <ol><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMG
-  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmYzbEg0ejBQLWlrR0NTVXpGamRaTXZYQVVEUXNnNTdOY09FUFY1WTItYXI5VzZEbHdtSWVoT1FqMlhZQ3p0NWxHQ2FmbGJ1VnM2M3E5ZEwybVVoSXdPcDY2QkIxRmRwMGRtQ2EwVU03SHNYWFlxdzZqX2UxdjZ6X2pJZUtQbVd3cmhHYVpSZUxyS0ZwVmswU25TT1U2RWY1R3Z4bQ?oc=5
+- No evidence linking Indian Govt. to Nijjar’s killing, says Canada Police - The Hindu
+  No evidence linking Indian Govt. to Nij
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRZT0VDQlJOSVhKaUZIY0JOUDV4d08wZmlYNS1Mb3ZMRWduellycG5CMFY5ZVVQN3NvUUR6elRfQ2swMzRmR29iYmRZQ2Y4WVRxOUNQWHBfVTlMOTcyazZ6N3lBT3hYUnVJM2xFWVFxdTlZQTlUT0czeU01enE2d0NvWkR5SlpkN090Y2Y4SXM0b19ub1RubXpYUWhBbzFjaWdQb1NLQW53eG1PTkh4MDhjb1g3SlgyX1g2elpiWjJJUHRjb2lUdkFUem1ld9IB1AFBVV95cUxOLV95c05KWDNoZUd4VWM4TUtEc19YX1VLRndacl9MRk5zMWsyaTdRWUJ6RXBrSjBCMjNfWG5JeFY4Q1Y3UjlkS283MFR3M1BFaXdhS3plazdlY3c0UGk2N0JMYTkwRXFQWDlNY3JrdHFPTm90enR3RGxhRUxqYVNRS1FKaThuUUNxNHJ3UFlsOTBOWU02Ykl5V3dRY1BfRXNfMW1JTXdEUEp1NkdXNUVWYkJEZTRYUkxIQU9PM0VLQ191QU1nRFpGbTZoVmxKVHpJRzlqdA?oc=5
 
 - Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
   " target="_blank" target
   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
 
-- John Wick, Rocket & trusted lieutenants: The Indian gangsters named in US indictments | India News - Hindustan Times
-  John Wick, Rocket & trusted lieutenants: The Indian gangsters named
-  🔗 https://news.google.com/rss/articles/CBMijAJBVV95cUxNSjY4alpVNkpRUWhGTXNSNm9lM1loUzQyOEZBX1lqcnhaYW0weWFUdjR0QUJJZXBHUU5NT09XZTZQVHUtR1BEV3ZXVTcwRWFxVVhCcTIxaTdWeWZYMGVvaXEwb2VyTkFEcDhzNU43OW1yNU9UQzJ0YTAzX1psbzV2S2NhNXhBd0d6cEozVXVndDVvdTg3ZkJXQklSbFdMUHdCUUZ4Tk43QVdLVVZqNmM2U3ZtQXQ3MHd5NERsXzU2RFFvcGE4OXhDdE5KSkgwOVZCLW5wMWZFci1FeDM0YzBtUU5uY1J2UmlYaGhiYjNEbmVmanZVanp5T081cVRkekF5NXhkekphM0k5MzBK0gGSAkFVX3lxTE1yMHJjdjVpcUpMbjA1QTEyWllhLVFaSGVkZURfNzhXTmxhVDhhck9wOVVGalFFMk1Ud1NtZ2tuSnZSemQ2ZGQ4Vkg5bmo0N2NiYkNjVFdHRkFzYlRYVmRQVGd0WGZzMlllM0hobjBKVlpVWVhIOFRtSmExUElsdVZxTlZ6bkhBak1YQmZGN3hTZUFDQzFiaVVyZUFWZkJqeWhZZUFMQk11aDhnQkExN3J6bzd3LTh1Tm9ZWVBfcWhsYTR1ak9kaE9YTTlReHlxUGViSHR0M3pDNFV5dmhxNlNIZkY5SGcwMjFQelBtelFmbVQ1NzFzTi00Ykd4eGsyc0RwS3B4TVg0b05hVnFJcExWU0E?oc=5
+- Indian Navy UAV crashes near Porbandar, Gujarat; no casualties reported - The Times of India
+  Indian Navy UAV crashes near Porbandar, Gujarat
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3IxTGFfOFZheFFBbGVNU0ltZ3JfRnhwN3FSMk1CNEJwVndLLVhuSEo1QjZDSW5yTWEyWHB1d3dobkRmelh0MlpfdjFYdTJHemg1MERxZGlodEZoU0ZuZlRMRVJxS3lCaTBZVDNsOGxXZExSM21ZQW9TMmJjUk9LSVhMM1J0YjUzUmxLY01sWlBhdUVFVGx4aTY3LVVUcmoyQklmRWZoYm1SY05xLWlrTnVmSG40Y3dUWngwakNwSDd0TGo3T1A5SNIBzgFBVV95cUxQRTR6QnA3aHJfcXBqMkJRYXZkdTZqbWFZbEE3Y0l2ZWFnajgyZTZiVTlYWXhlaXpjaG1IV2pmcjhjTWowT1Q2VWN1SndLUjZ5UXpYREV5aDB2TG5LaUVteWlEVVcwZFJzY0hjaVg4WmlxWGZZVk9raXNsbjBiYlBzNUZTekxMYTZiNHJ0QTBVMy1NNWdmS0hhSlV5YTRkVG5jRC00X2ZGaS13cnRyUFZrR0phSUhFME4xU1ptNnFaWDh3NzBYUHF2WjNqSTcxQQ?oc=5
 
-- US prosecutors arrest 24 in major probe into India-based organised crime - BBC
-  US prosecutors arrest 24 in major probe into India
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+
+- US prosecutors charge Indian crime boss with murder of Sikh activist in Canada - BBC
+  US prosecutors charge Indian crime boss with murder of Sikh activist
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
 
-- India news: US charges suspects in Sikh separatist murder - DW.com
-  " target="_blank"
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3BiUUJpUTYyRTNJY20wQTF1ZVFEQnhjanhNWnYyZ2FZQlZLNVhIRDdEVi1yOVNmNjhYT1c5SklwZHBKWGtwMlJYclBUVUc0UTJaT1dWUkltZWxLY1U2NFBVQ0NfZW9vM2JidTN6NkNOLWRqZDg3bVpQaXd5YXQxMTJYV2VlSE53VEdWbXJRWlRMS2dkZmRmcnFKM2JaaVZFRHNB?oc=5
+- No evidence linking Indian Govt. to Nijjar’s killing, says Canada Police - The Hindu
+  No evidence linking Indian Govt. to Nij
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVRZT0VDQlJOSVhKaUZIY0JOUDV4d08wZmlYNS1Mb3ZMRWduellycG5CMFY5ZVVQN3NvUUR6elRfQ2swMzRmR29iYmRZQ2Y4WVRxOUNQWHBfVTlMOTcyazZ6N3lBT3hYUnVJM2xFWVFxdTlZQTlUT0czeU01enE2d0NvWkR5SlpkN090Y2Y4SXM0b19ub1RubXpYUWhBbzFjaWdQb1NLQW53eG1PTkh4MDhjb1g3SlgyX1g2elpiWjJJUHRjb2lUdkFUem1ld9IB1AFBVV95cUxOLV95c05KWDNoZUd4VWM4TUtEc19YX1VLRndacl9MRk5zMWsyaTdRWUJ6RXBrSjBCMjNfWG5JeFY4Q1Y3UjlkS283MFR3M1BFaXdhS3plazdlY3c0UGk2N0JMYTkwRXFQWDlNY3JrdHFPTm90enR3RGxhRUxqYVNRS1FKaThuUUNxNHJ3UFlsOTBOWU02Ykl5V3dRY1BfRXNfMW1JTXdEUEp1NkdXNUVWYkJEZTRYUkxIQU9PM0VLQ191QU1nRFpGbTZoVmxKVHpJRzlqdA?oc=5
+
+- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
+  " target="_blank" target
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
+
+- Indian Navy UAV crashes near Porbandar, Gujarat; no casualties reported - The Times of India
+  Indian Navy UAV crashes near Porbandar, Gujarat
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc3IxTGFfOFZheFFBbGVNU0ltZ3JfRnhwN3FSMk1CNEJwVndLLVhuSEo1QjZDSW5yTWEyWHB1d3dobkRmelh0MlpfdjFYdTJHemg1MERxZGlodEZoU0ZuZlRMRVJxS3lCaTBZVDNsOGxXZExSM21ZQW9TMmJjUk9LSVhMM1J0YjUzUmxLY01sWlBhdUVFVGx4aTY3LVVUcmoyQklmRWZoYm1SY05xLWlrTnVmSG40Y3dUWngwakNwSDd0TGo3T1A5SNIBzgFBVV95cUxQRTR6QnA3aHJfcXBqMkJRYXZkdTZqbWFZbEE3Y0l2ZWFnajgyZTZiVTlYWXhlaXpjaG1IV2pmcjhjTWowT1Q2VWN1SndLUjZ5UXpYREV5aDB2TG5LaUVteWlEVVcwZFJzY0hjaVg4WmlxWGZZVk9raXNsbjBiYlBzNUZTekxMYTZiNHJ0QTBVMy1NNWdmS0hhSlV5YTRkVG5jRC00X2ZGaS13cnRyUFZrR0phSUhFME4xU1ptNnFaWDh3NzBYUHF2WjNqSTcxQQ?oc=5
+
+- From faith to technology - more of India's wealthy are giving to science - BBC
+  From faith to technology - more of India's wealthy are
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -249,4 +249,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-08 08:20:54 UTC_
+_Last updated: 2026-07-08 13:54:34 UTC_
