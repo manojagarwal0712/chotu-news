@@ -1,84 +1,68 @@
 # 📰 Daily News Summaries
 
-- The guest who never checked out: How one man spent 30 years outwitting luxury hotels
-  
-  🔗 https://indianexpress.com/article/india/the-guest-who-never-checked-out-how-one-man-spent-30-years-outwitting-luxury-hotels-10778033/
+- PM Modi in Australia LIVE: India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation - The Hindu
+  PM Modi in Australia LIVE: India, Australia unveil new defence declaration to
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
 
-- Shivraj Singh Chouhan, Taliban minister discuss agricultural ties
-  
-  🔗 https://indianexpress.com/article/india/shivraj-singh-chouhan-taliban-minister-discuss-agricultural-ties-10778134/
+- "Win-Win Proposition": PM Modi Urges Australian Businesses To Invest In India - NDTV
+  "Win-Win Proposition": PM Modi Ur
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjEwSjI3dzNNb25BZGFHVk9TOUs1LWFsSXNqakdnanZRam1pTGVLbllhc2o0SkpMVHRicTMwMkJGSUpPcng3TUhibW9NVEhrQnh0YkJTc2tlbHEwb2JGODZ5YWl5dnZ2WFRlVVNFeDM0cURkb3ctQ2pSSVVsN2NaX2U4SnN6VWRHbG5yUXhxMFpubDhYOTRMZzAtNm9EdllRWjBtVmViMlRua1lvTmhrMHVhZ2wxcjJj0gHAAUFVX3lxTE14WjM3OVI2S1pYQmJFeHZ5RGVSY2RxS0FtSm5YNHRjZks0MERJbF9wQnEzWVBRQkhvR0hxVElQZVFnM1VxQnNyVTF6b0xuYzgzcWFGQ00zb1ZnYlNLblVQZTkzYlhSNkM2WjNCaTNXUmFGTk5pSTdwODV3WVJ2STNKQUZUX2xkNVpEaWdOT2NoRTVaWktVdnJRQk1idV9PMTJmN3JlSzE2TTZaNVV1OElTb3dQOE9aZUQ0V0V5NzR4Mg?oc=5
 
-- Christopher Luxon interview: ‘All around the world, you see anti-immigrant bias. New Zealand has strong social licence for immigration. Indians are hugely respected’
-  
-  🔗 https://indianexpress.com/article/india/christopher-luxon-interview-all-around-the-world-you-see-anti-immigrant-bias-new-zealand-has-strong-social-licence-for-immigration-indians-are-hugely-respected-10778086/
+- How Australian Uranium Can Fuel India's Clean Energy Plans - NDTV
+  How Australian Uranium Can Fuel India
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWdMbkU5dWFVZ0JPaWg5dXNsRmNWWWJSTi11MjBUZDZ2ZGFuRTdHejhBYzZqU3JuaExZMEptMWtuZnQxUVFDY0Nqa09wX1N3VDNOeDRFSGozV3VOTVpVeF9qUE1UdV9kZWV5eDBNVDNjRVNBa3Mwclg4WlFBekdsc1RNaUdNZFlhejZoWjY5YUpOYzR4Tmx4T3VUamhrTDjSAacBQVVfeXFMT3pOR19Yd3BuWU4tb0E5aUptRXpWTk5tWmZtVHNGWFh1WlgtN0JiVUhqLU9NSTZEeXI5SGNFc2xGQ053MWNOU2sxb2pySHctcDdrZFdoM3hvMzYtMFRfN1Zrd3FvelFGX0pPYmZCVWZidzZCTUpsVHNYMW9uRDZNNEpiekcwcnFyaTU5OEo3V0Nub05XcVg2QXNXbkhUbkpzMEJwY2RFMW8?oc=5
 
-- Operation ‘Hardball’: Indian agencies shared, verified list of names and hideouts with US
-  
-  🔗 https://indianexpress.com/article/india/operation-hardball-indian-agencies-shared-verified-list-of-names-and-hideouts-with-us-10778061/
+- US President Trump says 11 jets downed during India-Pak hostilities last year, repeats role in resolution - The Economic Times
+  US President Trump says 11 jets downed during India-Pak hostilities last year, repeats
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNDJHUC1vc3hGVHlfMnZjOFh3VHMxT0tfZlluek1lQy0ydnNiSjdVSlVrT2NnY1dpcFRHbWU2ZERUU3hfZVRleXdCX2l6YkQ0YW95Y1VjVVR1eDlzdngzMkF1TDVlaG1rcDVUNVZzMmNScURpWHVMbktlTlFHQ3pQOHZ6OXZtdlY5WUVJUm1GMExSLWw0RUMwamVvZjlxVUVydXJEeW10eENKSFF5dE5SVEpsdzMtOE03MG8tREFmTGlRRVUtUGtTRWphUUpRLTNfbXdENUQzcDJYUVRoRE9HU0dLaUNob1FKNWMxc0hwMGtNRURCNzFoYUxYVF93dWV3RnpMa3FRdVRRMGtOdFYwX1g1Q0RyQ1B2cEHSAZMCQVVfeXFMT0ZrbzJMRHViZkM4dzUzWlh1OEREd0NEVlRaSmRkUUpSMXZicHIyZ3I3QXNfX21mYU9Gc0diTzcxVURzRzFmU2FuSWNHckZQTnhtLUhnTWZTOW1rWXN3STYyNkVMejRqS1dXaXNhZTdpQ3FEbnhYd3JpX1pNUTdONzVWVE9LbmJRa0tRSzJXVWFBdkQ1X0M4LXppbUVoaTVndFhaSWQwTDdBaFdRN0RXZ003WmxabmVPQTUwOTFQZkE4dEw3NmZUam1ySjQ5aWNORGdDRW9zY1VVVjRNRzhPQ0xJeTBrYjdJc3J3ZnVMaEdmZWpMN2RWbTkySmUzWHBFczZtVG1TOWswX1FJY3Z3NEVIaFE?oc=5
 
-- PM Christopher Luxon interview: ‘New Zealand, working with India, needs to remake case for a rules-based system’
-  
-  🔗 https://indianexpress.com/article/india/pm-christopher-luxon-interview-new-zealand-working-with-india-needs-to-remake-case-for-a-rules-based-system-10778058/
+- India is adding biofuels to petrol – but many drivers are unhappy - BBC
+  India is adding biofuels to petrol – but
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
 
-- OpenAI set to launch most capable GPT model after delayed rollout
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/openai-set-to-launch-most-capable-gpt-model-after-delayed-rollout-10777778/
+- Farmley looks to raise $50-75 million, taps KPMG
+  Farmley would likely use the capital to support growth, strengthen the brand and
+  🔗 https://www.livemint.com/companies/news/farmley-fundraise-kpmg-healthy-snacking-startup-series-d-round-nuts-dry-fruits-happilo-yoga-bar-11783577392230.html
 
-- Tech launches (July 8, 2026): WhatsApp Meta Business Agent, Skullcandy Method 360 ANC, Dreame L50 series, more
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-july-8-2026-whatsapp-meta-business-agent-skullcandy-method-360-anc-dreame-l50-series-10777639/
+- Ixigo bets on voice AI to power travel payments
+  Ixigo seeks an early lead as
+  🔗 https://www.livemint.com/companies/news/ixigo-voice-enabled-payments-ai-travel-rbi-compliance-voice-ai-upi-tonetag-razorpay-tara-gnaniai-11783578148888.html
 
-- Google Pixel 11 launch on August 12: Expected specs, AI features, Pixel 11 Pro Fold
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-pixel-11-launch-on-august-12-expected-specs-ai-features-pixel-11-pro-fold-10777647/
+- Vibgyor Group of Schools plans first-ever external fundraise, appoints banker for minority stake sale
+  Mumbai-based school chain is looking to sell upto 30% stake as private equity interest returns to India's K
+  🔗 https://www.livemint.com/education/news/vibgyor-schools-plans-first-ever-external-fundraise-appoints-banker-for-minority-stake-sale-education-funding-11783577141561.html
 
-- New study finds 95% of India’s public companies use dark patterns, calls for SEBI crackdown
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/95-percent-listed-companies-dark-patterns-sebi-crackdown-10777543/
+- Chandrasekaran sets up interim committee to lead Air India as search continues for CEO Campbell Wilson’s successor
+  Tata Sons appoints an interim committee, including N Chandrasekaran and Pradeep Singh Kharola, for Air India. A new CEO is sought to replace
+  🔗 https://www.livemint.com/companies/news/chandrasekaran-sets-up-interim-committee-to-lead-air-india-as-search-continues-for-ceo-campbell-wilson-s-successor-11783573923043.html
 
-- X adds a video editor to encourage creators to share original content instead of reposts
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/x-adds-a-video-editor-to-encourage-creators-to-share-original-content-instead-of-reposts-10777462/
+- Mukesh Bansal's Nurix moves beyond voice AI to bet on workflow automation
+  The startup is expanding into back-office processes after realizing that simple voice bots offer limited long-term impact for enterprises
+  🔗 https://www.livemint.com/companies/mukesh-bansal-nurix-voice-ai-startup-acquisition-verloop-it-services-fundraise-11783492536779.html
 
-- Agratas filings reveal deeper role of Chinese-owned firm in Tata's EV battery push
-  Parallel filings show a twin technology and equity alliance, marking a growing trend of strategic collaborations between the Indian
-  🔗 https://www.livemint.com/companies/news/agratas-filings-reveal-deeper-role-of-chinese-owned-firm-in-tata-s-ev-battery-push-11783504100561.html
+- Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5% as Centre waives customs duty on key electronic components
+  The government's waiver of basic customs duty on electronics manufacturing components until 2029 led to sharp stock gains for companies like Kaynes Technology. This initiative aims to enhance domestic production of electronics and
+  🔗 https://www.livemint.com/market/stock-market-news/syrma-sgs-to-kaynes-tech-ems-stocks-jump-up-to-7-5-as-centre-waives-customs-duty-on-key-electronic-components-11783587314816.html
 
-- India's oldest chip fab revamp awaits a green light six months after partners picked
-  The revival of India’s oldest chip fabrication plant has yet to move forward. The delay comes at a crucial time as the government is stepping up effort to build the country’
-  🔗 https://www.livemint.com/economy/indias-oldest-chip-fab-revamp-awaits-a-green-light-six-months-after-partners-picked-11783506296237.html
+- Penny stock under  ₹10: NBFC share jumps 7% from intraday low after this AI update
+  Golden Legand opened at  ₹9.46 apiece today. The stock touched an intraday low of
+  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nbfc-share-golden-legand-leasing-and-finance-jumps-7-from-intraday-low-after-this-ai-update-11783586284881.html
 
-- Corporate philanthropy faces a higher compliance burden
-  The new foreign contribution regulations leave companies' CSR obligations unchanged. They significantly tighten compliance for companies undertaking foreign-funded philanthropic
-  🔗 https://www.livemint.com/companies/news/fcra-amendment-rules-2026-csr-foreign-funding-ngos-compliance-11783490252223.html
+- Small-cap NBFC stock Aye Finance rises over 4%, jumps more than 60% in 3 months; do you own?
+  Aye Finance shares have surged 63% in the last three months. The stock hit a 52-week high of  ₹184.
+  🔗 https://www.livemint.com/market/stock-market-news/smallcap-nbfc-stock-aye-finance-rises-over-4-jumps-more-than-60-in-3-months-do-you-own-11783586857468.html
 
-- BlackSoil’s NBFC arm forays into solar financing through Creditfair acquisition
-  BlackSoil has acquired Credit Fair's solar financing business for about  ₹45 crore. BlackSoil
-  🔗 https://www.livemint.com/companies/blacksoil-group-credit-fair-solar-financing-rooftop-solar-renewable-energy-11783486809267.html
+- ITC Hotels to Apollo Tyres, Astral: 10 mid- and small-cap stock picks by ICICI Securities for up to 41% upside potential
+  ICICI Securities projects Narayana Hrudayalaya's target price at  ₹2,310, indicating
+  🔗 https://www.livemint.com/market/stock-market-news/itc-hotels-to-apollo-tyres-astral-10-mid-and-small-cap-stock-picks-by-icici-securities-for-up-to-41-upside-potential-11783583724817.html
 
-- Apple loses spat with EU over App Store and iPhone rules
-  Judges at the EU’s General Court in Luxembourg disagreed with Apple's challenge to the services being targeted under the Digital Markets Act.
-  🔗 https://www.livemint.com/companies/news/apple-loses-spat-with-eu-over-app-store-and-iphone-rules-11783517970968.html
+- SBI Funds Management IPO: SBI likely to earn  ₹7,365 crore from share sale; Should you buy the PSU stock?
+  SBI Funds Management IPO price band is fixed at  ₹545 -  ⁹574 per share. The company aims to raise   $11,692.91 crore through a book-built issue
+  🔗 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-sbi-likely-to-earn-rs-7-365-crore-from-share-sale-should-you-buy-the-psu-stock-11783585872101.html
 
-- Stocks to watch: Tata Steel, TCS, NALCO among shares in focus today; check list here
-  The Nifty was trading near the 23,980 mark, down over 68 points from
-  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-steel-tcs-nalco-among-shares-in-focus-today-check-list-here-11783562061334.html
-
-- SBI Funds Management IPO: Price band set at  ₹545-574 per share; check key dates, issue details
-  SBI Funds Management IPO price band is  ₹545 to  ⁹574, with subscription from July 14-16
-  🔗 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-price-band-set-at-rs-545-574-per-share-check-key-dates-issue-details-11783561311861.html
-
-- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 9 July
-  Gift Nifty was trading around 23,980 level, a premium of nearly 68 points from the Nifty futures’ previous close.
-  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-9-july-11783561641651.html
-
-- Crude oil prices extend gains on renewed US-Iran war tensions; Brent climbs above $78 per barrel
-  Brent crude futures were up 78 cents, or 1%, at $78.80 a barrel. US West Texas Intermediate (WTI)
-  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-on-renewed-us-iran-war-tensions-brent-climbs-above-78-per-barrel-11783560834001.html
-
-- From Gift Nifty, US-Iran war, oil prices to bond yields: 10 key things that changed for Indian stock market overnight
-  Gift Nifty was trading around 23,990 level, a premium of nearly 78 points from the Nifty futures�
-  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-oil-prices-to-bond-yields-10-key-things-that-changed-for-indian-stock-market-overnight-11783560749368.html
+- Meta's new AI glasses may continuously record what users see and hear: Report
+   Meta is developing AI-powered smart glasses that
+  🔗 https://www.livemint.com/technology/tech-news/metas-new-ai-glasses-may-continuously-record-what-users-see-and-hear-report-11783571961575.html
 
 - Moto G77 Power launched in India: Check price, specifications and sale date
   Moto G77 Power has a 7,000mAh battery, 50MP
@@ -96,149 +80,113 @@
   Apple's new AI features require users to share data with
   🔗 https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html
 
-- Apple finally brings back card payments for subscriptions and App Store purchases in India
-  Apple resumesdcard payments for App Store purchases in India after a four-year
-  🔗 https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html
+- Oil prices fall as markets weigh impact of US strikes on Iran - Reuters
+  Oil prices fall as markets weigh impact of US strikes
+  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5
+
+- Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal - Crude Oil Prices Today | OilPrice.com
+  Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal.
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDJlOF9PYUc2X2xpUVBzcFY1OHZ5SnFPRlYxMGFhUFVzbE9HamxvdUIwN2FHN0RXeHZkSWhEeFlGdW5WTFU5OHNPR3JuVmV6Q2ZBSlZ0U3l3bzJtVG11R2E0WktJYkVVa0tvT0t0Vjk0OXJTUDh4UVhZOVExMkZucjhSakZEbk5DUmlZOXRoV0JSRUNJMmgwd2xCVUFYQzFkNlMzQjFlMGRiRDYtTlM4cHRKNTVnYWlRZXfSAb8BQVVfeXFMT0FVN1VTWC1iNXBxb3dJLTdmN3VxY0RzV0xqRXB5M0p5NGtIR2RLX3Mzb1VLYVlrR3hyTWxVUTFMcFZXVERELS1GVHR1QnA2X1hjY0MyLVZMRjVCa01WS2NlbmZxX1o5dEhOOWw0ZWJ2b2NHYWJBYVFUdEt2MHNxWnhiS0VfQnR4WEwzMjlGZGV4b0ZSRTdsZDZ4Z2pMbFZYTGVJRFRuYVlMZ1RKaEpUQXgxbXoxc2JkSXp4Z2NrcGs?oc=5
 
 - Stock Market News, July 8, 2026: Oil Jumps After Trump Says Iran Ceasefire Is Over - WSJ
   Oil Jumps After Trump Says Iran Ceasefire Is Over.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndiV0Eybkx1azMyV19iOTJCZjdXSnFYRlhIV0d0QWU4TlRXa2Job2NZYTZVODVzaHFxU3gxSGl0YVFndXhPS1FsNTg2Nl9OdzFLaFVQeTM5ZjV2dE0zbE9UN3l0MW1VY05GQzhIbFd5QzgwcERqQWtVelBrNGNCOElVaS1UY0U?oc=5
 
-- Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes – as it happened - The Guardian
-  Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes.
-  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkRlckYyc1pYV010bE1aSE5aWGpyUk91RkZCTUpKTnR1NEc3VU5YQVEwUGF4X2Rtck5OelpLeTZTQ0tKRWoxTE8xZWtFdTMyMkhVblNuS1ZESWFaSUF2YThub2ZDeHRlT2t2S0NiUDBKVWVJREpKekNodTMwYVNTLTRvUzNBRjRVaHZjNC1SbVl0cjhRRi0xTG5IZENYbDZQRFF3SkZ3N0Q5TDI5QjlCS0NVY2szNmxtS3lVNldpYmQxTVR2N243c3BranpVaHRVMUhQX3o5WUw5NWRxSkNYMGNEOW42b3M?oc=5
+- Markets News, July 8, 2026: Dow, S&P 500 End Lower, Oil Prices Jump as Trump Says Iran Truce ‘Over,’ Threatens Further Attacks - Investopedia
+  Dow, S&amp;P 500 End Lower, Oil Prices Jump as Trump Says Iran Truce ‘Over,’ Threatens Further Attacks.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1hXc1loVXZfcGRBZVF4d1hNNjN0dENKeHVXQ0NFWG0tYldGLVpUQTgxZl9LMjZEeF9EWUdiVjY0ejVPTURVX01ZTkpzV3I1bjlubGh6OUJpNUFBNzZnb29YVzE5bm0xZTk3cFJoWmdBbHJGVkRVLXRxY1ZmRjRUeDRId3h2X3VCcF9sT19zcVo?oc=5
 
-- Markets tank as Trump says Iran peace deal ‘over’ - The New Indian Express
-  The New Indian Express is published by The Times of
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzZOdVVlWnJ0ZG9ldHd0TTZEOHZja21uaGx0U053LTlqbndTTU5KZGNJeEZkZnhpX0JhNEp4X2xRZmd3alRTWm9PZ2EwT1pqRE4yTzgzTjNtZkFXWnlicDVaVWxMLThINnZEcUVzQ21ib2V4d2tzUGZ0bVdYaVhsaFlELVhRdHJDcHRxZUF3RGcybkpGbElRZmFSbUNKYnBHUkNR0gGwAUFVX3lxTE5vc1h3NW1MeXp6MkVIamN2TjZ3c0Y1T1NHV3lSYnpKMkFGc3EyTnNtd3F4dEdfdjdZR1Ffa2Z0OXdCSjF5TXlPLTB1eGRJWGNfeFIyRUJUWS1HbkdXZkNKWENfR1QxODZyYy1Ec2tPQllvaEFOZGhXNDBYVllla25ZTlltekFHMnpzZDlzQUpsdVpaejNJWjEyZ3NKVUZNQnJxc0FrNkE2N1FUcUZ4WmVJ?oc=5
+- China’s capital markets take on Xi Jinping’s tech ambitions - The Economist
+  China’s capital markets take on
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUtOUHRqRFpxU1BlU3pZUW5CVzg2bUNEcnVjVzdNc19GVmVIdEVUdVN3aUlpUzFDeEp3R2hKaDFac3I2Z3NHTlM3bkJ1Nm5xalBUMVRiSWNyNXZGMGh6WGF0WGlCUW9kc0JUS3Z4djh4STJrMko5OWh6NFdGR29EODJBMFduZ3RQYWxRYWtfcGsyR3lUQi1kNzQza1VBc04yQjFrRFd0Vk5McmpXSDZPZ2dkdFhfRjQ?oc=5
 
-- Dow slides more than 570 points as oil spikes and Trump threatens another attack on Iran: Live updates - CNBC
-  Dow slides more than 570 points as oil spikes and Trump threatens another attack on Iran: Live updates.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5
+- India Inc's revenue growth to hit 2-year high of 11-11.5% in Q1 despite Iran war: Crisil
+  India Inc's revenue is estimated to have grown 11-11.5% year-on-year in Q1FY27, marking the fastest pace in eight quarters. While pricing power helped companies offset higher input costs amid the
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-incs-revenue-growth-to-hit-2-year-high-of-11-11-5-in-q1-despite-iran-war-crisil/articleshow/132282171.cms
 
-- Sensex Today | Stock Market Live: GIFT Nifty signals firm start; Asian markets advance as US stocks end mixed - Moneycontrol.com
-  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNWlB2ZHBkalBpY2hKZlN1LVVwNERBZ2hnbnh3NjVhUTNDR3Z0MngxcWtmV1lXXzN2VHY2SGxRaWwyZjRSaExZNy1PMXdPWWJfWjg0ZVR6bDJxaUhHaVFwVTI5cWhid0pHT0
-  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNWlB2ZHBkalBpY2hKZlN1LVVwNERBZ2hnbnh3NjVhUTNDR3Z0MngxcWtmV1lXXzN2VHY2SGxRaWwyZjRSaExZNy1PMXdPWWJfWjg0ZVR6bDJxaUhHaVFwVTI5cWhid0pHT0tzVFA2UW1IcWVTUFE0OUVVMEp6c0JvZXB4cXVJY2hPaTkzWlRTXy1qS1lFd1k3d0tFOGpSbE1KWThyUFcxdThNT3RqaWg0U3V1ZkFGUXY5RUFZSjhuR3JPSWEzVkp4eXJUVTdkZS1ORmgzeldfRmdtajFJZUZudjl0SnlUenNzb0xIaXVWSUQtZmV1Um5tc1RHeDZHd3hRaDVPR2dYUFpwX1Q0M0JvMmxvSdIBmAJBVV95cUxNSDdYSGZ2VE1YWVl3SHF5OFV3bmttT3JXeWgtdUxpMXZaeTBxeHhvV3kxc0ZNVE5fYncwVm1tNmt0RF9QbUQyamw2Z0E2Y3hZWGdpaGJKLUlCQ0l1bVRFUWtYVXhTZDlXclpJbnRSRklOd2VMcWY1WFhlQU1WM3NidDJ3dnVYc09Ta1N6TjdBSU50QlFldFJ6Ync4TjZoUXdiR0RuN2xXWDZFcl81V2UtWDJzdnRUZzRIa0gyS2h0bHFuNlhvQnRST3NvVklkdGMyQ2xXSl9pd1VDckJYY0NhUmtQNVBDWmtSd0ZVWk5rUTJReHJObnByaDlWQ0dLalpzLWhBVEttXzhSYl9lN3dUdDU3ZmM0UENQ?oc=5
+- Vedanta Oil and Gas shares rally 8%. What’s boosting investor sentiment today?
+  Vedanta Oil and Gas shares rose sharply on Thursday after reports that the Delhi High Court cleared the enforcement of $99 million in arbitral awards in favour of Vedanta and Ravva Oil.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-rally-8-whats-boosting-investor-sentiment-today/articleshow/132281761.cms
 
-- Bonus issue alert! Last day to buy Goldiam International shares for 1:3 bonus reward. Do you own?
-  Diamond jewellery maker and exporter Goldiam International has fixed July 10 (Friday) as the record date for its 1:3 bonus issue.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goldiam-international-shares-for-13-bonus-reward-do-you-own/articleshow/132275379.cms
+- How to trade Cupid shares after a massive 40% rally in a month? 2 technical experts weigh in
+  Cupid shares have rallied over 40% in the past month. Strong Q1 business momentum and an upgraded FY27 revenue outlook. Technical experts see the broader uptrend intact.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-cupid-shares-after-a-massive-40-rally-in-a-month-2-technical-experts-weigh-in/articleshow/132281590.cms
 
-- Laser Power &amp; Infra Rs 742-crore IPO opens today; GMP hints 10% listing gain
-  The company’s shares are commanding a premium of nearly Rs 21 over the upper price band of Rs 214. This suggests an estimated listing price of approximately Rs 235 per
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-rs-742-crore-ipo-opens-today-gmp-hints-10-listing-gain/articleshow/132275348.cms
+- Global Market:  China's factory inflation hits four-year high, keeping metals and industrial stocks in focus
+  Factory-gate inflation reached its fastest pace in four years during June. Producer prices rose 4.1 percent year-on-year, driven by energy and commodity costs. Consumer inflation slowed to 1.0 percent, reflecting weak domestic demand
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms
 
-- Dividend alert! Last day to buy Axis Bank, BSE and 28 other stocks for payouts worth nearly Rs 187 per share. Do you own any?
-  Under SEBI's T+1 settlement cycle, investors must purchase a company's shares at least one trading day before the record date. Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-axis-bank-bse-and-28-other-stocks-for-payouts-worth-nearly-rs-187-per-share-do-you-own-any/articleshow/132258229.cms
+- SBI Funds Management IPO: What portion is reserved for SBI's 38 lakh shareholders?
+  SBI Funds Management's Rs 11,693-crore IPO has earmarked up to 1.3 crore shares worth nearly Rs 750 crore for eligible SBI shareholders. The offer opens on July 14, with over
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-what-portion-is-reserved-for-sbis-38-lakh-shareholders/articleshow/132281042.cms
 
-- Negative Breakout: These 9 stocks cross below their 200 DMAs
-  Traders use the 200 DMA as a key indicator to determine the overall trend
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/132275258.cms
+- Meet The 20 Startups Selected For Google’s India Startup Accelerator 2026
+  Alphabet-owned Google has picked 20 homegrown startups for the 2026 cohort of its “Google for Startups Accelerator: India 2026�
+  🔗 https://inc42.com/buzz/meet-the-20-startups-selected-for-googles-india-startup-accelerator-2026/
 
-- Gold dips as Mideast hostilities revive inflation concerns
-  Gold prices experienced a decline on Thursday after recent drops. Renewed hostilities between the United States and Iran fueled inflation worries. Other precious metals like silver, platinum, and palladium saw mixed movements.
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-as-mideast-hostilities-revive-inflation-concerns/articleshow/132275202.cms
+- Honasa Consumer Projects 30% YoY Growth In Q1 FY27
+  Mamaearth's parent Honasa Consumer expects to post a 30% YoY growth in its operating revenue during the quarter.
+  🔗 https://inc42.com/buzz/honasa-consumer-projects-30-yoy-growth-in-q1-fy27/
 
-- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
-  ‘I could feel him behind me’: Hema Malini remembers Dh
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
+- Mahadev Betting App Promoter Sourabh Chandrakar Detained In Oman
+  Sourabh Chandrakar, the alleged mastermind behind the Mahadev betting app syndicate, has been detained in Oman and Indian authorities are investigating.
+  🔗 https://inc42.com/buzz/mahadev-betting-app-promoter-sourabh-chandrakar-detained-in-oman/
 
-- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
-  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
-
-- Disinheriting loving wife makes will suspicious: SC - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
-
-- India is adding biofuels to petrol – but many drivers are unhappy - BBC
-  India is adding biofuels to petrol – but
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
-
-- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
-  Ukraine Drone Blitz Is Crippling Russian Refineries
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
+- Flipkart’s Seller Playbook, Troubles At Ola Electric & More
+  Flipkart is trying the zero-commission playbook. The ecommerce major has dropped its fees on all fashion products.
+  🔗 https://inc42.com/buzz/flipkarts-seller-playbook-troubles-at-ola-electric-more/
 
 - Milo Drive Bags $2.4 Mn To Scale Electric Mobility Platform
   Electric mobility startup Milo Drive has raised $2.4 Mn (about ₹22.9 Cr) in a seed funding round.
   🔗 https://inc42.com/buzz/milo-drive-bags-2-4-mn-to-scale-electric-mobility-platform/
 
-- Novyte Banks On Agentic AI To Solve The Optimisation Puzzle In Materials Science
-  New materials are not created overnight; their development is often a slow, iterative process and in most cases, the work&#8230
-  🔗 https://inc42.com/startups/novyte-banks-on-agentic-ai-to-solve-the-optimisation-puzzle-in-materials-science/
+- PM Modi in Australia LIVE: India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation - The Hindu
+  PM Modi in Australia LIVE: India, Australia unveil new defence declaration to
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
 
-- Cult.fit DRHP: A Look At Shareholding Pattern & Key Executives
-  Gym franchise operator Cult.fit has filed its draft IPO papers with the SEBI, aiming to net up to ₹4,000 Cr&#8230.
-  🔗 https://inc42.com/buzz/cult-fit-drhp-a-look-at-shareholding-pattern-key-executives/
+- "Win-Win Proposition": PM Modi Urges Australian Businesses To Invest In India - NDTV
+  "Win-Win Proposition": PM Modi Ur
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjEwSjI3dzNNb25BZGFHVk9TOUs1LWFsSXNqakdnanZRam1pTGVLbllhc2o0SkpMVHRicTMwMkJGSUpPcng3TUhibW9NVEhrQnh0YkJTc2tlbHEwb2JGODZ5YWl5dnZ2WFRlVVNFeDM0cURkb3ctQ2pSSVVsN2NaX2U4SnN6VWRHbG5yUXhxMFpubDhYOTRMZzAtNm9EdllRWjBtVmViMlRua1lvTmhrMHVhZ2wxcjJj0gHAAUFVX3lxTE14WjM3OVI2S1pYQmJFeHZ5RGVSY2RxS0FtSm5YNHRjZks0MERJbF9wQnEzWVBRQkhvR0hxVElQZVFnM1VxQnNyVTF6b0xuYzgzcWFGQ00zb1ZnYlNLblVQZTkzYlhSNkM2WjNCaTNXUmFGTk5pSTdwODV3WVJ2STNKQUZUX2xkNVpEaWdOT2NoRTVaWktVdnJRQk1idV9PMTJmN3JlSzE2TTZaNVV1OElTb3dQOE9aZUQ0V0V5NzR4Mg?oc=5
 
-- Elevate Education Bags ₹170 Cr To Scale AI-Led Higher Education Platform
-  Edtech startup Elevate Education, formerly known as Sunstone, has raised ₹170 Cr ($17.7 Mn) in its Series D funding round.
-  🔗 https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/
+- How Australian Uranium Can Fuel India's Clean Energy Plans - NDTV
+  How Australian Uranium Can Fuel India
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWdMbkU5dWFVZ0JPaWg5dXNsRmNWWWJSTi11MjBUZDZ2ZGFuRTdHejhBYzZqU3JuaExZMEptMWtuZnQxUVFDY0Nqa09wX1N3VDNOeDRFSGozV3VOTVpVeF9qUE1UdV9kZWV5eDBNVDNjRVNBa3Mwclg4WlFBekdsc1RNaUdNZFlhejZoWjY5YUpOYzR4Tmx4T3VUamhrTDjSAacBQVVfeXFMT3pOR19Yd3BuWU4tb0E5aUptRXpWTk5tWmZtVHNGWFh1WlgtN0JiVUhqLU9NSTZEeXI5SGNFc2xGQ053MWNOU2sxb2pySHctcDdrZFdoM3hvMzYtMFRfN1Zrd3FvelFGX0pPYmZCVWZidzZCTUpsVHNYMW9uRDZNNEpiekcwcnFyaTU5OEo3V0Nub05XcVg2QXNXbkhUbkpzMEJwY2RFMW8?oc=5
 
-- Ola Electric Faces Supplier Insolvency Petitions, Links Dispute To Ongoing Arbitration
-  Listed EV maker Ola Electric is facing insolvency petitions from two of its suppliers.
-  🔗 https://inc42.com/buzz/ola-electric-faces-supplier-insolvency-petitions-links-dispute-to-ongoing-arbitration/
-
-- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
-  ‘I could feel him behind me’: Hema Malini remembers Dh
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
-
-- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
-  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
-
-- Disinheriting loving wife makes will suspicious: SC - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
+- US President Trump says 11 jets downed during India-Pak hostilities last year, repeats role in resolution - The Economic Times
+  US President Trump says 11 jets downed during India-Pak hostilities last year, repeats
+  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNDJHUC1vc3hGVHlfMnZjOFh3VHMxT0tfZlluek1lQy0ydnNiSjdVSlVrT2NnY1dpcFRHbWU2ZERUU3hfZVRleXdCX2l6YkQ0YW95Y1VjVVR1eDlzdngzMkF1TDVlaG1rcDVUNVZzMmNScURpWHVMbktlTlFHQ3pQOHZ6OXZtdlY5WUVJUm1GMExSLWw0RUMwamVvZjlxVUVydXJEeW10eENKSFF5dE5SVEpsdzMtOE03MG8tREFmTGlRRVUtUGtTRWphUUpRLTNfbXdENUQzcDJYUVRoRE9HU0dLaUNob1FKNWMxc0hwMGtNRURCNzFoYUxYVF93dWV3RnpMa3FRdVRRMGtOdFYwX1g1Q0RyQ1B2cEHSAZMCQVVfeXFMT0ZrbzJMRHViZkM4dzUzWlh1OEREd0NEVlRaSmRkUUpSMXZicHIyZ3I3QXNfX21mYU9Gc0diTzcxVURzRzFmU2FuSWNHckZQTnhtLUhnTWZTOW1rWXN3STYyNkVMejRqS1dXaXNhZTdpQ3FEbnhYd3JpX1pNUTdONzVWVE9LbmJRa0tRSzJXVWFBdkQ1X0M4LXppbUVoaTVndFhaSWQwTDdBaFdRN0RXZ003WmxabmVPQTUwOTFQZkE4dEw3NmZUam1ySjQ5aWNORGdDRW9zY1VVVjRNRzhPQ0xJeTBrYjdJc3J3ZnVMaEdmZWpMN2RWbTkySmUzWHBFczZtVG1TOWswX1FJY3Z3NEVIaFE?oc=5
 
 - India is adding biofuels to petrol – but many drivers are unhappy - BBC
   India is adding biofuels to petrol – but
   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
 
-- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
-  Ukraine Drone Blitz Is Crippling Russian Refineries
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
-  ‘I could feel him behind me’: Hema Malini remembers Dh
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
-  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- Disinheriting loving wife makes will suspicious: SC - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- India is adding biofuels to petrol – but many drivers are unhappy - BBC
-  India is adding biofuels to petrol – but
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
-  Ukraine Drone Blitz Is Crippling Russian Refineries
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
-  ‘I could feel him behind me’: Hema Malini remembers Dh
-  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
-
-- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
-  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
-  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
-
-- Disinheriting loving wife makes will suspicious: SC - The Times of India
-  The Times of India reported that the
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
-
-- India is adding biofuels to petrol – but many drivers are unhappy - BBC
-  India is adding biofuels to petrol – but
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
-
-- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
-  Ukraine Drone Blitz Is Crippling Russian Refineries
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-09 02:31:03 UTC_
+_Last updated: 2026-07-09 09:32:55 UTC_
