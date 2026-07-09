@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- ED freezes TMC’s Rs 440-cr worth bank deposits under PMLA
+- The guest who never checked out: How one man spent 30 years outwitting luxury hotels
   
-  🔗 https://indianexpress.com/article/india/ed-freezes-tmcs-rs-440-cr-worth-bank-deposits-under-pmla-10777923/
+  🔗 https://indianexpress.com/article/india/the-guest-who-never-checked-out-how-one-man-spent-30-years-outwitting-luxury-hotels-10778033/
 
-- Bitter tasting smoothie, secret Secunderabad girlfriend: techie arrested in US for wife’s murder
+- Shivraj Singh Chouhan, Taliban minister discuss agricultural ties
   
-  🔗 https://indianexpress.com/article/india/washington-police-arrest-hyderabad-techie-murder-wife-smoothie-10777885/
+  🔗 https://indianexpress.com/article/india/shivraj-singh-chouhan-taliban-minister-discuss-agricultural-ties-10778134/
 
-- Ram Temple Trust hands key role to new 3-member panel
+- Christopher Luxon interview: ‘All around the world, you see anti-immigrant bias. New Zealand has strong social licence for immigration. Indians are hugely respected’
   
-  🔗 https://indianexpress.com/article/india/ayodhya-ram-temple-donation-scam-champat-rai-letter-sit-interim-banking-team-10777893/
+  🔗 https://indianexpress.com/article/india/christopher-luxon-interview-all-around-the-world-you-see-anti-immigrant-bias-new-zealand-has-strong-social-licence-for-immigration-indians-are-hugely-respected-10778086/
 
-- Modi, Prabowo inaugurate ASI-led joint conservation project for 9th-century temple site in Indonesia
+- Operation ‘Hardball’: Indian agencies shared, verified list of names and hideouts with US
   
-  🔗 https://indianexpress.com/article/india/pm-modi-indonesia-prambanan-temple-restoration-asi-yogyakarta-unesco-10777781/
+  🔗 https://indianexpress.com/article/india/operation-hardball-indian-agencies-shared-verified-list-of-names-and-hideouts-with-us-10778061/
 
-- The Daily Catch-Up: Today’s stories you shouldn’t miss
+- PM Christopher Luxon interview: ‘New Zealand, working with India, needs to remake case for a rules-based system’
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-news-baruipur-encounter-messi-fifa-mumbai-rain-kashmir-10777466/
+  🔗 https://indianexpress.com/article/india/pm-christopher-luxon-interview-new-zealand-working-with-india-needs-to-remake-case-for-a-rules-based-system-10778058/
 
 - OpenAI set to launch most capable GPT model after delayed rollout
   
@@ -40,45 +40,45 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/x-adds-a-video-editor-to-encourage-creators-to-share-original-content-instead-of-reposts-10777462/
 
+- Agratas filings reveal deeper role of Chinese-owned firm in Tata's EV battery push
+  Parallel filings show a twin technology and equity alliance, marking a growing trend of strategic collaborations between the Indian
+  🔗 https://www.livemint.com/companies/news/agratas-filings-reveal-deeper-role-of-chinese-owned-firm-in-tata-s-ev-battery-push-11783504100561.html
+
+- India's oldest chip fab revamp awaits a green light six months after partners picked
+  The revival of India’s oldest chip fabrication plant has yet to move forward. The delay comes at a crucial time as the government is stepping up effort to build the country’
+  🔗 https://www.livemint.com/economy/indias-oldest-chip-fab-revamp-awaits-a-green-light-six-months-after-partners-picked-11783506296237.html
+
+- Corporate philanthropy faces a higher compliance burden
+  The new foreign contribution regulations leave companies' CSR obligations unchanged. They significantly tighten compliance for companies undertaking foreign-funded philanthropic
+  🔗 https://www.livemint.com/companies/news/fcra-amendment-rules-2026-csr-foreign-funding-ngos-compliance-11783490252223.html
+
+- BlackSoil’s NBFC arm forays into solar financing through Creditfair acquisition
+  BlackSoil has acquired Credit Fair's solar financing business for about  ₹45 crore. BlackSoil
+  🔗 https://www.livemint.com/companies/blacksoil-group-credit-fair-solar-financing-rooftop-solar-renewable-energy-11783486809267.html
+
 - Apple loses spat with EU over App Store and iPhone rules
   Judges at the EU’s General Court in Luxembourg disagreed with Apple's challenge to the services being targeted under the Digital Markets Act.
   🔗 https://www.livemint.com/companies/news/apple-loses-spat-with-eu-over-app-store-and-iphone-rules-11783517970968.html
 
-- Apple commits over $30 billion to Broadcom to produce billions more US chips
-  Apple has announced an expansion of its partnership with Broadcom, involving over $30 billion in investments. This agreement will facilitate
-  🔗 https://www.livemint.com/companies/news/apple-commits-over-30-billion-to-broadcom-to-produce-billions-more-us-chips-11783513234075.html
+- Stocks to watch: Tata Steel, TCS, NALCO among shares in focus today; check list here
+  The Nifty was trading near the 23,980 mark, down over 68 points from
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-steel-tcs-nalco-among-shares-in-focus-today-check-list-here-11783562061334.html
 
-- Microsoft layoff: Employees offered up to 39 weeks' pay, stock vesting; here's who gets what
-  Microsoft announced layoffs affecting 4,800 employees. Compensation varies by employee level, with options for continued stock vesting and health insurance.
-  🔗 https://www.livemint.com/companies/news/microsoft-layoff-employees-offered-up-to-39-weeks-pay-stock-vesting-heres-who-gets-what-11783504960570.html
+- SBI Funds Management IPO: Price band set at  ₹545-574 per share; check key dates, issue details
+  SBI Funds Management IPO price band is  ₹545 to  ⁹574, with subscription from July 14-16
+  🔗 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-price-band-set-at-rs-545-574-per-share-check-key-dates-issue-details-11783561311861.html
 
-- MobiKwik CFO Taku calls for MDR on UPI transactions
-  The absence of merchant discount rate means payment firms and banks continue to bear the cost of processing transactions without any revenue. Upasana Taku said that while the industry supports the government's financial inclusion goals
-  🔗 https://www.livemint.com/companies/upi-mdr-large-merchants-mobikwik-cfo-upasana-taku-11783241896555.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 9 July
+  Gift Nifty was trading around 23,980 level, a premium of nearly 68 points from the Nifty futures’ previous close.
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-9-july-11783561641651.html
 
-- Tata Steel Netherlands summoned by Dutch prosecutors over pollution violations
-  Dutch prosecutors suspect Tata Steel of multiple criminal offence, including unlawful release of harmful substances into the air.
-  🔗 https://www.livemint.com/companies/news/tata-steel-netherlands-dutch-prosecutors-pollution-violations-11783498312805.html
+- Crude oil prices extend gains on renewed US-Iran war tensions; Brent climbs above $78 per barrel
+  Brent crude futures were up 78 cents, or 1%, at $78.80 a barrel. US West Texas Intermediate (WTI)
+  🔗 https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-on-renewed-us-iran-war-tensions-brent-climbs-above-78-per-barrel-11783560834001.html
 
-- Levi Strauss shares slip ahead of Q2 earnings report as investors await impact of FIFA World Cup campaign
-  Analysts expect Levi Strauss to report earnings of 24 cents per share on revenue of $1.52
-  🔗 https://www.livemint.com/market/stock-market-news/levi-strauss-shares-slip-ahead-of-q2-earnings-report-as-investors-await-impact-of-fifa-world-cup-campaign-11783531415964.html
-
-- Laser Power &amp; Infra raises  ₹222 crore from anchor investors ahead of IPO
-  Laser Power &amp;amp; Infra Limited has raised  ₹222 crore from anchor investors. It reserves allocations for QIBs, NIIs, and retail investors, with listings expected on
-  🔗 https://www.livemint.com/market/stock-market-news/laser-power-infra-raises-rs-222-crore-from-anchor-investors-ahead-of-ipo-11783529504396.html
-
-- SBI Funds Management files RHP for IPO; issue opens on July 14
-  SBI Funds Management has filed the red herring prospectus for its IPO. The offering is a sale of up to 203.71 million shares, with SBI divesting 128.33
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-funds-management-files-rhp-for-ipo-issue-opens-on-july-14-11783526824951.html
-
-- Gold, silver prices today: Comex gold slips $107, silver drops $3 as Middle East tensions escalate; Fed minutes in focus
-  Gold dropped to $4,050 and silver fell below $60. Tensions following US strikes on Iran raised concerns over inflation and interest rates.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-slips-107-silver-drops-3-as-middle-east-tensions-escalate-fed-minutes-in-focus-11783521110993.html
-
-- Wall Street slumps after Trump says Iran deal is ‘over’, Broadcom climbs 4.2%
-  The Dow Jones Industrial Average fell 1.46%, the S&amp;amp
-  🔗 https://www.livemint.com/market/stock-market-news/wall-street-slumps-after-trump-says-iran-deal-is-over-11783518891496.html
+- From Gift Nifty, US-Iran war, oil prices to bond yields: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 23,990 level, a premium of nearly 78 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-war-oil-prices-to-bond-yields-10-key-things-that-changed-for-indian-stock-market-overnight-11783560749368.html
 
 - Moto G77 Power launched in India: Check price, specifications and sale date
   Moto G77 Power has a 7,000mAh battery, 50MP
@@ -100,45 +100,65 @@
   Apple resumesdcard payments for App Store purchases in India after a four-year
   🔗 https://www.livemint.com/technology/tech-news/apple-finally-brings-back-card-payments-for-subscriptions-and-app-store-purchases-in-india-11783396870797.html
 
-- Dow tumbles 700 points as U.S. oil tops $75 with Trump saying attacks on Iran to continue: Live updates - CNBC
-  Dow tumbles 700 points as U.S. oil tops $75 with Trump
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5
-
-- Stock Market Today: Oil Jumps After Trump Says Iran Ceasefire Is Over for Him - WSJ
-  The WSJ reports that President Donald Trump is ending the
+- Stock Market News, July 8, 2026: Oil Jumps After Trump Says Iran Ceasefire Is Over - WSJ
+  Oil Jumps After Trump Says Iran Ceasefire Is Over.
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndiV0Eybkx1azMyV19iOTJCZjdXSnFYRlhIV0d0QWU4TlRXa2Job2NZYTZVODVzaHFxU3gxSGl0YVFndXhPS1FsNTg2Nl9OdzFLaFVQeTM5ZjV2dE0zbE9UN3l0MW1VY05GQzhIbFd5QzgwcERqQWtVelBrNGNCOElVaS1UY0U?oc=5
 
-- Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC
-  &nbsp;&ngt;<font color="#6
-  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxNNm5kV3dEbXk0R1IwaFNhay1Wcjl6elJBMV9CNUNaMHd6cXpJU25tNjQ5Z294Y3B6LXdKVmhnT1JEX1U0UG02TXVHQ0lxNVprYzZLUDFELXJUeWdJekI2ZGd5dmoxdFJJNTJ2MHg4UllhRHJRMFV5aUIxTVIzWmxzNWJBMGU5ZVB4bmR1ZVptRG44V3YwTWJNaXdIdjFIVk5UT1VlblZNMGFQLTZhNlRPWGRB?oc=5
+- Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes – as it happened - The Guardian
+  Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes.
+  🔗 https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkRlckYyc1pYV010bE1aSE5aWGpyUk91RkZCTUpKTnR1NEc3VU5YQVEwUGF4X2Rtck5OelpLeTZTQ0tKRWoxTE8xZWtFdTMyMkhVblNuS1ZESWFaSUF2YThub2ZDeHRlT2t2S0NiUDBKVWVJREpKekNodTMwYVNTLTRvUzNBRjRVaHZjNC1SbVl0cjhRRi0xTG5IZENYbDZQRFF3SkZ3N0Q5TDI5QjlCS0NVY2szNmxtS3lVNldpYmQxTVR2N243c3BranpVaHRVMUhQX3o5WUw5NWRxSkNYMGNEOW42b3M?oc=5
 
-- Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore! Sensex, Nifty50 t - The Times of India
-  Stock market crash: Bloodbath on Dalal Street as investors lose around Rs 8 lakh crore.
-  🔗 https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNC1jekxwclVodXJDTTR1TUE4NVgxYWhpbFpRYmI4cTZEN0dSWVpOUW9vUHFsWGZrT2I0cldjOE9QMWxVMkZhV3h3S2RiN2JsUW5KWGlyeWRPS0lKUXlnYVBLbmI2ZXVzZExISmhnY0I5TFFDM1B0bHBFNnhWeHlfemctV25QUW16dUJYZF9pMFFQNjJ1Um1vaDA0bWlRcHdCT0l2Uzcxb1Z5TUU3WUw3dEQ2akY5dlJDd2YwNDFXdlJZRmo1Z0k3cHYzd0kxTU5JNW9PV0UwXzU2UUN5ZnRsb1gwQUtreEUzcWJlZ2VPVFhtT1d5NGwzZjJ0VWtBcWoyLXFVS0d2Uk5WbEthbzZKRXJfWUM2eHFsbl9xZzVnVmx1TURRMUJwdjNfZE9wNzZVYzZfUHIxZngxTDJiWk90dk1R0gHHAkFVX3lxTE5yYU1tdjE1YV96UXZ2VGhJNEt3SWNLaDkxd0pxSGlCYkxlQlhVRVpySVdXQk1NQUZtd1ZVVzhXNDV1N2dTU2hFRVZlbEU2SDUtRkZpMERURjZpRnZoSFRvdlQwZmJZbEZKQ2Z2aE9waExER19xVlUxSUlYRDZCd1ZfSTJ6UlM2VHZOSm8xbG9JWTRNc2w3TlZzV2t5WTdUbExPUU9IaWN2QTM0V0JHTHR6NGFYMlVIai0zME5sQTFhVTRWLWMwY2NseE9salJyaFczMG91dDZrQldmNWxXelRfcmFvb3NVcmxVdWg2dHVUVkFrUzZtMlI5MXdfRkZKNFNBY0d5bjdIQXdyamdkbjNSLWNkQWNiN0JQQzNaT3ZDTk1CX3l2VnZ5eEdmdjYyQVFfNS05eXhGVHg4ZjcxRzZ1RlVxTUdHRQ?oc=5
+- Markets tank as Trump says Iran peace deal ‘over’ - The New Indian Express
+  The New Indian Express is published by The Times of
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzZOdVVlWnJ0ZG9ldHd0TTZEOHZja21uaGx0U053LTlqbndTTU5KZGNJeEZkZnhpX0JhNEp4X2xRZmd3alRTWm9PZ2EwT1pqRE4yTzgzTjNtZkFXWnlicDVaVWxMLThINnZEcUVzQ21ib2V4d2tzUGZ0bVdYaVhsaFlELVhRdHJDcHRxZUF3RGcybkpGbElRZmFSbUNKYnBHUkNR0gGwAUFVX3lxTE5vc1h3NW1MeXp6MkVIamN2TjZ3c0Y1T1NHV3lSYnpKMkFGc3EyTnNtd3F4dEdfdjdZR1Ffa2Z0OXdCSjF5TXlPLTB1eGRJWGNfeFIyRUJUWS1HbkdXZkNKWENfR1QxODZyYy1Ec2tPQllvaEFOZGhXNDBYVllla25ZTlltekFHMnpzZDlzQUpsdVpaejNJWjEyZ3NKVUZNQnJxc0FrNkE2N1FUcUZ4WmVJ?oc=5
 
-- Europe’s economy is a mess. Its stock markets are a steal - The Economist
-  Europe’s economy is a mess. Its
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnlTU3lwQkhQZXhPaUNveU5KZmxsTERIeU5FM2toQnFLTkJ4a0RMOW1RelZqZGtQeWR0ZV9ReldhM2dUT3UtZXcwaTlKZzlGU19neDh6Y1pWRTdNWnRDNU5pOVF5ZlMxUjBXWlNiVTRTUVhZNFpiY3VfZWNHMFBpUGNLWXB3eVM5cHFsS1VvbC1QVXJOX092RWpGdHhGMDdWWmJXUTlXOWlYc2NmalJGajQ2dlI?oc=5
+- Dow slides more than 570 points as oil spikes and Trump threatens another attack on Iran: Live updates - CNBC
+  Dow slides more than 570 points as oil spikes and Trump threatens another attack on Iran: Live updates.
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5
 
-- Some US Fed officials considered rate hike on Iran war fallout, June meeting minutes reveal
-  US central bank officials discussed rising inflation at their recent meeting. Most participants saw inflation falling on its own, but some favored immediate rate hikes. The committee ultimately decided to keep interest rates steady for now.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/some-us-fed-officials-considered-rate-hike-on-iran-war-fallout-june-meeting-minutes-reveal/articleshow/132270761.cms
+- Sensex Today | Stock Market Live: GIFT Nifty signals firm start; Asian markets advance as US stocks end mixed - Moneycontrol.com
+  <ol><li><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxNWlB2ZHBkalBpY2hKZlN1LVVwNERBZ2hnbnh3NjVhUTNDR3Z0MngxcWtmV1lXXzN2VHY2SGxRaWwyZjRSaExZNy1PMXdPWWJfWjg0ZVR6bDJxaUhHaVFwVTI5cWhid0pHT0
+  🔗 https://news.google.com/rss/articles/CBMikwJBVV95cUxNWlB2ZHBkalBpY2hKZlN1LVVwNERBZ2hnbnh3NjVhUTNDR3Z0MngxcWtmV1lXXzN2VHY2SGxRaWwyZjRSaExZNy1PMXdPWWJfWjg0ZVR6bDJxaUhHaVFwVTI5cWhid0pHT0tzVFA2UW1IcWVTUFE0OUVVMEp6c0JvZXB4cXVJY2hPaTkzWlRTXy1qS1lFd1k3d0tFOGpSbE1KWThyUFcxdThNT3RqaWg0U3V1ZkFGUXY5RUFZSjhuR3JPSWEzVkp4eXJUVTdkZS1ORmgzeldfRmdtajFJZUZudjl0SnlUenNzb0xIaXVWSUQtZmV1Um5tc1RHeDZHd3hRaDVPR2dYUFpwX1Q0M0JvMmxvSdIBmAJBVV95cUxNSDdYSGZ2VE1YWVl3SHF5OFV3bmttT3JXeWgtdUxpMXZaeTBxeHhvV3kxc0ZNVE5fYncwVm1tNmt0RF9QbUQyamw2Z0E2Y3hZWGdpaGJKLUlCQ0l1bVRFUWtYVXhTZDlXclpJbnRSRklOd2VMcWY1WFhlQU1WM3NidDJ3dnVYc09Ta1N6TjdBSU50QlFldFJ6Ync4TjZoUXdiR0RuN2xXWDZFcl81V2UtWDJzdnRUZzRIa0gyS2h0bHFuNlhvQnRST3NvVklkdGMyQ2xXSl9pd1VDckJYY0NhUmtQNVBDWmtSd0ZVWk5rUTJReHJObnByaDlWQ0dLalpzLWhBVEttXzhSYl9lN3dUdDU3ZmM0UENQ?oc=5
 
-- Ahead of Market: 10 things that will decide stock market action on Thursday
-  Indian equities posted their steepest single-day decline since March. Rising crude prices, renewed Middle East tensions and weak global cues triggered broad-based selling. Analysts said
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132267520.cms
+- Bonus issue alert! Last day to buy Goldiam International shares for 1:3 bonus reward. Do you own?
+  Diamond jewellery maker and exporter Goldiam International has fixed July 10 (Friday) as the record date for its 1:3 bonus issue.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goldiam-international-shares-for-13-bonus-reward-do-you-own/articleshow/132275379.cms
 
-- BofA cuts 2026 average gold forecast, sees long-term upside
-  Bank of America has decreased its average gold forecast for 2026 by 14 percent. JPMorgan is indicating that risks to its gold predictions appear to trend negatively. Analysts are presenting a wide range of price targets for gold.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-cuts-2026-average-gold-forecast-sees-long-term-upside/articleshow/132267299.cms
+- Laser Power &amp; Infra Rs 742-crore IPO opens today; GMP hints 10% listing gain
+  The company’s shares are commanding a premium of nearly Rs 21 over the upper price band of Rs 214. This suggests an estimated listing price of approximately Rs 235 per
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/laser-power-infra-rs-742-crore-ipo-opens-today-gmp-hints-10-listing-gain/articleshow/132275348.cms
 
-- Palantir shares fall 4% as AI software stocks come under pressure
-  Palantir shares fell over 4% as investors sold high-valuation AI software stocks. Weak broader markets, insider selling, and bearish bets by Michael Burry added to pressure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/palantir-shares-fall-4-as-ai-software-stocks-come-under-pressure/articleshow/132266934.cms
+- Dividend alert! Last day to buy Axis Bank, BSE and 28 other stocks for payouts worth nearly Rs 187 per share. Do you own any?
+  Under SEBI's T+1 settlement cycle, investors must purchase a company's shares at least one trading day before the record date. Today is the last opportunity for investors to buy the shares so that they are credited to their accounts by
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-axis-bank-bse-and-28-other-stocks-for-payouts-worth-nearly-rs-187-per-share-do-you-own-any/articleshow/132258229.cms
 
-- SBI Funds Management IPO to open on July 14. Check details
-  SBI Funds Management has filed its red herring prospectus for an IPO. The listing will offer investors exposure to India’s fast-growing mutual fund industry.
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-to-open-on-july-14-check-details/articleshow/132266845.cms
+- Negative Breakout: These 9 stocks cross below their 200 DMAs
+  Traders use the 200 DMA as a key indicator to determine the overall trend
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/132275258.cms
+
+- Gold dips as Mideast hostilities revive inflation concerns
+  Gold prices experienced a decline on Thursday after recent drops. Renewed hostilities between the United States and Iran fueled inflation worries. Other precious metals like silver, platinum, and palladium saw mixed movements.
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-as-mideast-hostilities-revive-inflation-concerns/articleshow/132275202.cms
+
+- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
+  ‘I could feel him behind me’: Hema Malini remembers Dh
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
+
+- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
+  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
+
+- Disinheriting loving wife makes will suspicious: SC - The Times of India
+  The Times of India reported that the
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
+
+- India is adding biofuels to petrol – but many drivers are unhappy - BBC
+  India is adding biofuels to petrol – but
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
+
+- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
+  Ukraine Drone Blitz Is Crippling Russian Refineries
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
 
 - Milo Drive Bags $2.4 Mn To Scale Electric Mobility Platform
   Electric mobility startup Milo Drive has raised $2.4 Mn (about ₹22.9 Cr) in a seed funding round.
@@ -160,45 +180,65 @@
   Listed EV maker Ola Electric is facing insolvency petitions from two of its suppliers.
   🔗 https://inc42.com/buzz/ola-electric-faces-supplier-insolvency-petitions-links-dispute-to-ongoing-arbitration/
 
-- Indian national among inmates killed in Sri Lanka’s prison riots - The Hindu
-  Indian national among inmates killed in Sri Lanka�
-  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEVjVzhfemZhcmNERDlheFRJNnBIQzZYRmdTNmkyVkhVTTRNQ1Y3a01QdUtyVzBZSlNkQ3h5VjIxVDlMODBqS09HOWRZMWlSN2lhbG1GY0xLTFJpMkJTLXowVWRMdHRNOXk3djJaNUpXRkNzbkVqdDBzYmU0Nm1oSjJyMkx3OG80MkVla0tNdmloTGJFbjRSUzNjUTd2UV80X1VrVVlydDlwTjBDczNnejhKZkxKVy1oY3FCeWg1MmdTb3pvTXfSAcwBQVVfeXFMTjZDd3hWaWN5dTMyTVpJQVFuN3dRR2xGZHRZWnc2c0VXVUF5TFE1VmRBZzNDUEJKamp6blBtLUVpbHNiZlN3bU9tWjdRTWgtOEM1a3lUemJyeENteFlKZTBLRkhoalVFd3pxbjMtOU04ZWJ2SDhlSl9iUmI5U3JmNVVpQzV3VnJnTGxObWxoYVlOTkFDenVqWGVIYXpSaU9acnZXendvOGZ6dTNqRXpaaXc1di0tSjhKOTlrM2ZGVG5wRE15ODJaTU00VEZR?oc=5
+- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
+  ‘I could feel him behind me’: Hema Malini remembers Dh
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
 
-- India Jumps 2 Ranks As Foreign Investment Inflows Rise By 44% - NDTV
-  India Jumps 2 Ranks As Foreign Investment
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDdBQVZVUmtrWjFsY3BLWnJJSjJ4NkR5R3pHSlo2MUdpSF8xMTl2TUI5X2hOS2hiN0UtNkllNzFUc0lFd0JuN1NtZ09McEx0a3lnVG0xX3dycDB2WnBsQnZZQlgwMjhnOWtPMzFHUnJZYU5rMjVSaXJVV29LYWVVZVhVaFRrVTV1S2VXTU9tRDhQVTNwSUJoOGJxWF92ZkZxYTk00gGrAUFVX3lxTE9TazRlNVJOb1J3SWRsTWg0N2VpTGhiT1g0dlctWnd3cGQ3WUh4ZFBPcUVJc2NqUDdLdjVSbmRGTXpta2VQQkJGMmRmc0FlWE5JYmJWa2FlUlhHZ3dFNjFOeDJWcVF5LTdMUUFnZjF2MW9QUWZfckN6MWNXT2ZTcXVzTWx1d2Z5eUQwaVJucmtkN244UEJwOGV5M284YnphSnlFOE9vRGRQV1FITQ?oc=5
+- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
+  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
 
-- Manipur Civil Society Groups Rush To Delhi, Seek NRC Before Census To Identify Illegal Immigrants - NDTV
-  Manipur Civil Society Groups Rush To Delhi, Seek NRC
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmVfSE1nRUIyNEdUd2Q0MmdpazJmYzRDdUF2Rk9iRUJZcEVqaWJYelBNMGI1MlBlVERWb0Q0LUxueHF0UFZUYXQ5cWRaU0llY0dKbnpDNVZpRUUtQ2owQjVkdGhDVWpTUEM1Rjg0aGs1bDJnX05yMkZIRV83elVXVWtxTm83YVM5bWQ4YkRVRkFnbFRYdV9vY0pMdE5aajhCSUVfVHMtLTB6RWk4WExaOFdJdDFmOXVKVGNMMnFuUHQzOXJtb2Q3dVZzTENMRk4tUGNiZNIB3AFBVV95cUxPRVpBV0FMUXZnLTlIN1gwdkNJSUFzam1jb1RJZE11MEJxMllrbmZYcU5mNVNlQjRqV1dQazk0a2JrZ054LVVvbl9SbG9ydWhQU0MtODBrSUxrbnJ0SHZST2pHTHlfTmlMMEtiUTY2eGEwOGdFUGpSUDU2akRhUzFzd2V0UDNER1pOWFM0X3dzR3hTVDYwN2o4UDdwbGJFTnA2XzcwdUlna0pjeEZLeU1JZ3lGaDFXSjI0YnVRS0RrSmRvblpHeTgyS285T05aS3FSTlh5Z2RKYVc5MlJx?oc=5
+- Disinheriting loving wife makes will suspicious: SC - The Times of India
+  The Times of India reported that the
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
 
-- US prosecutors charge Indian crime boss with murder of Sikh activist in Canada - BBC
-  US prosecutors charge Indian crime boss with murder of Sikh activist
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaE5jTXVoU2o1SVdvNXY3ektHZzFFNnlPX1VkR2R5YW45SkNHRmdFODd5LVZuN1ZrcjR2SjlINVBsOHJpTEdvV2JsenI4R2h2bFJ0eUN5TFR1UQ?oc=5
+- India is adding biofuels to petrol – but many drivers are unhappy - BBC
+  India is adding biofuels to petrol – but
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
 
-- Global Crackdown On Lawrence Bishnoi Gang: 24 Arrested, Assassination Plot Busted - NDTV
-  " target="_blank" target
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVhFTFZ6VlprdUZFa1pJSGFxZkRWeEZCbnoyZElUVUo2MjBLblB1ekhVeklydW5PU3p3bjdVbGF4ck1nWDFPQTBiME1KSmd3NTZtSU9XZmpiSl9Eb1drLUdxQUVxeE5lcUhiX2NKNjZPQVNydk1Zc1Myc0J2UVlGSjdXVzZrUDI5Sl84TGlxeXMyaHo3RVhzNWZnRTZJbjN5NF9IbFdSMVZvbFNiSmxYUUdTZERtanhiOFk2QdIBxAFBVV95cUxNS3pwX1NEQVktYllTLWc2RExreTQ1dUpFSGNwTWhwWnY1N3NrZld5cERna1BzNU5iZC1tMWZZdTlMMnlTeHMybEJGSVBnMV9qNUFrWWY2bjJFYzA5ZXl2a3VtRzFHamY2SC1kMnNyT1pPck9qNERjVm1uaWdUVXdfTE5ic1E0NVY0OWVXZzJUUUo2N3R0eDNlVWhjTGEyLTBwaVNIandTM2ZZLWNTdTdVY1VrUXhBaVptV1Nwc3Z3YzQ5b3FY?oc=5
+- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
+  Ukraine Drone Blitz Is Crippling Russian Refineries
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
+  ‘I could feel him behind me’: Hema Malini remembers Dh
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
 
-- Three-day food technology, kitchen, catering expo by Tirunelveli District Chamber of Commerce and Industry - The Hindu
-  Three-day food technology, kitchen, catering expo by Tir
-  🔗 https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaV9LYVRsVVgwek1xWmJRbWs2WGVYWjBFOS1KYUwteDZmM1lwcGNMelE0Um1NUjBUdnhXcTV4X2QwZWtmR1ktY2F6ZEREMEY1elVUaDdzR3FULXZUUGNDN2RFMklDNDlnUno0X1E4YkVVM2xEVTRBbjM1LUozVm14Y1hCZXBXQXRCbFVfVDdZS1h4cmNkbmJLZ2EtUUNyU0NMYVo5VTlnajZxVzFfYkJKM09HQzdtNmhtTlN4d2lCcHhzMzNTSmp4a3haS29FaUtxMFo1d1BSTjZyV0ZiZ0l5ZUFJRUlxZWJmUjFGaUlGZks5T0lMaXUyZzM2YnNkd9IBhAJBVV95cUxOS3ByQ05FNUk1V2EtWGtsOXVPU3FVUHh5ZWEydkpkaXd6aFZvQWwzOVNuaEZTelJtX2tpTjRGRHlZSVppeHVubjc1MUZzdFZYQ2IyMC03QjZoSlY3Uk5jTzl1M3Y5bzZKcW13SVhyUElBSnFyQjNOTEdnOFdDV3dGVGlEc25aeVhkTUtaZG5BMFdQWHMtYnJLWmxSR3hQUGlJR2VTVVRBVU5wbGdwOHhES1pDa1p2bVRVR1MxRktIYk56UUJqaXpMSHBNRnR3cng4Ym5vcXphb3BkQlprc2VVZkotYUlITEZKVEx1YllqSnlwa2FpWXZ1c1pSQmtvTmxkWTh0ZQ?oc=5
+- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
+  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
 
-- L&T Vyoma and Fortanix Partner to Deliver Confidential Computing with NVIDIA Technology - Larsen & Toubro
-  Vyoma and Fortanix Partner to Deliver Confidential
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUzJHM1J6VlltS1JjUkdWRTBsNTZ2OE1CRTNlVkZKT2xnOTNCME5CVG94QWY2aW9ES2VGSGZVRTA2bzlvN1NRSUlKclVkQWhQaUdSNUtRR2pBeHhFNFdQQXVtTC1TZS1nbkpxdWEwRUFtUFhmUHFCWF8xNGU0Y2txdzI3cGxRUUtLWkk1clFiNExKTWJqaEU5TlBLWHZXT0MzdUpYMFpFZmFCMHA5Y1FCZ2RRR3l3ZEpOeEM5eUFvcmJUOTNsTzF2T0YzSGkxSHFXVzFVZktjRUctNTVTNlE?oc=5
+- Disinheriting loving wife makes will suspicious: SC - The Times of India
+  The Times of India reported that the
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
 
-- 30 years since Dolly the sheep was born, where is cloning technology at now? - The Conversation
-  30 years since Dolly the sheep was born, where is cloning
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxOekpUYmhKUTdERVQtYkU0RmxMZkI2SlVhOFRlOHRLdVNxNUFYb2JBcXpWUUFJdmNsRlppa1ZiaUZiRWdOZVIxNk5xeHNyZEYtdWtzU2Z1cmx4WHFPVzBEb0NUS2FKWkt1NVc2enJQU2VrZGhsOXV6N2k5RVlWOGFsMWNhNjhHamNsd3U3OG1hNEE4OThkcVlzMVhWZjFuSnRnRTFBVVJoRzJOeTNhT3c?oc=5
+- India is adding biofuels to petrol – but many drivers are unhappy - BBC
+  India is adding biofuels to petrol – but
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
 
-- PhonePe elevates Srijon Biswas to Chief Technology Officer, Co-Founder Chari to become CPTO - ETHRWorld.com
-  PhonePe elevates Srijon Biswas to Chief Technology
-  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlkxUW1qSk1mV1gtWElHeW1LcHoxa3YzTnVYNmc2WVRGTlZMZ25YMWlhbnJUQ25VajVITl9PYl91cG4zWGE4MVY2TmpNX2wzUlY1UlJwR1Vlb0lHRk54SDdPNU01bkdFM3oxc3hfdHJOZl9OSGdGRkIzSGJ1LWV3M0lwck80V0ZrUnFiUTZsZ0c4MWxHYXpfaVFMRC1Qem9hQm04Wm1yaDhLMmVna0pmR3U2V29HQUgzZzRYc1dqU09yYWZmbmFCUGFSSlNIZ9IB0wFBVV95cUxPMDg2NUxvR3JpanRvNWl2WFFMTWstRWlpWHlzNnJsTThlYVhhOXVMTHdNOHJscFJBVXRaZ25VT1JtZjNSU2ZuQWJJZXJiUDZETFpYWkxUVmtJYjAwMkhhZmktRE1kcW14aEl2UVlyVGdubndXQ0xvbEhxdFdIZGRvZE94SjJjdjZMTk5Mcm44MWNRcThZM0c2V2hGdVpRSDVPM29HLV9neDBnYkF0OXZPM21kYURVODlmd3JYLXFzWUJwX0Z4TDk5dHZxZHppMWs0YVFn?oc=5
+- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
+  Ukraine Drone Blitz Is Crippling Russian Refineries
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
+
+- ‘I could feel him behind me’: Hema Malini remembers Dharmendra ahead of diamond jubilee celebrations, spe - The Times of India
+  ‘I could feel him behind me’: Hema Malini remembers Dh
+  🔗 https://news.google.com/rss/articles/CBMi5gJBVV95cUxObTdMQ3J5d2pwWG9QWnMxa0JzTHh6TEhvN3NGZ21OQXdFVmVfQXRGX01EbkJWeG1uV0V6QzF2TXlBOHoxSjZzLVFSTWp1Vml2ejVmNzNuRHYtLWRITlk5ME14T1ZNWFk1dTFvV3VYZU1KZUFHS2xPekRMdGVQWkEwd1Y3OHl6bURldVBpSzdnMVJ0Q09jYVphQ1FzYlFhS2lMdGFRWHBPenBabS1fZ0tpRXpqVmtOOUxDeVNwVjhQN1VnS2NvTHVkNU5RUjJBVXdBbmkySWV6MFZMY1JFQk5vdk9mQmkwSzBVMmZ0WWpBYTNVeURqUmdubHk1aF90N3hNTk5XRnAtQzR1cXlHaFZQUXJnOU9nUjQ2VlhYMGtmWU5oU0F5U1ZMZENEWm9nbjNhSFBBbEdtdFJLSF9hX05HZ3F3RnlkZVE3REpKQUttWV9sRndXQjY0RllBYlFhUEpJNEZSOUhB0gHrAkFVX3lxTE5tSzVQTFFQUGlQZ2RCZUFqMkI3bE53TjZRRVdGT1g1cjlXVE80TmMtbVgzRXV6amZrcUJlTXlmLS1VRXhKTlNvOG5vZVBBMnU4elB6N2dnR2JncWpjQ2pmTUhaV2ZlTDBhNmc0eHZodFJBLUo4elBrRkdSWEZyMGNFZmlLb1dKQVdCWnpFT0UtYUtoMFBTdmxVb0xxODhRaDBUVl9MV01Tc0NaRDlZSkR3QnUzTnJkY2sxQXpOMGZFNExTd0dmbWlLRjZicHg5M2M2Z3EyNm5feDhfZ1g0aGcxdkpJYnFWay14VVR6ZWE1cFdrU3RoUjl1MWhHeGN3ZjctZ1RIMWJUeGlReTEwbGY4Wl9wRWV5Nk5oQU50NTFJQTBtUWVWMEdwRUdZRGRmOUh5TVlCX3p5Q1NoQnZnOXBxWVdidlJJdDh6TVJIeG9GYlBUX1ZxdHM2RlUxaDNXRXRlSVRIMnRDOGpkNA?oc=5
+
+- Weather today LIVE: Orange alert for rain in Delhi, waterlogging in Ghaziabad as downpour continues | India News - Hindustan Times
+  " target="_blank">Weather today LIVE: Orange alert for rain in Delhi
+  🔗 https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0FCWENDeEY3TzRoUjVUaUY2WlB2YzlQREM1WXhaU2Fjb1E5aUVBYzdOZDBhNTVCandNYl91bk52UjNIRXBMWEtJWm9NclU2bkFSdXRyeTVfdGExU2FzYi1jb2xPRWNWSWFQNVlsak84WUVyQmtweG5leEZCR0Nkbm9HZ0pXVHRuclVhXzZQYjhTMTNqUEtEVklVeTBrMXlzUWZ4YksycjlTQXJ5NGhOZWFqN0txNGhJYzhrMm9ucHNzQ2w2aVo1dzUxalQ4dXhWY2pWY3pfWG02cWdhTllHQ2dOamlXYWpTdkE1SGNtWEpJbTdaalBrbTd0djlpZXZQNjVRRHlwUDE1UHBJeFNqT9IBlgJBVV95cUxQbl92RkRRc2NkaDBjZzQ2em5ncnBrQTdrV2trc01Ocm5lanBKdFJXWWdya1h1WjNJYmNrSEJKU3BndzF2RW1PMjJjdHZHcENBNXlBRTlsVlFJVDg0UWxMdXN3Z2c0WndNQVZOWHE3VXZTWUpZTWhNZVlOcTYtMGgwbHV6QUlEOWpha2VvNHRENWNJUldGdGJCTU1FcXliSlIwY3FFczluVTFpbDZraU13Um1EWnhxbFRFaHRxZ1NBSzVNcWVMOC1GeGtmeDdhaGh2RUhiQXA4cW94S0MzVUdOc290bS02ZkF0emY0ZFNHMkQtLXNiTzQ2VUhuZ0NrYU1Zb2pSdzk1S0lZajNTM1NLSTJuRENBQQ?oc=5
+
+- Disinheriting loving wife makes will suspicious: SC - The Times of India
+  The Times of India reported that the
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFlUOWplMUlweDdqM0lHR3BuUlpHR3NXeWc0QjZoYUxDd1FOTzdzWFBXTzZVQTBPVFZfeWl2VkFya2V5dEt4cVM2MFZNeVdJd0YzNExPN21oT05Qc0xIR2pHQk1Eb3pqVDhyZ1hOTktpY19DMzU2WHNGa1VCOHBzNjUtMzhkbGxnU252eTRQaFNMSWd2Q1c0bG9ESHp1czRxTUJ6a2hiaGlQcEpWLVhVWDhPZVFIUm1sUnfSAb8BQVVfeXFMTXBocWZFZFVmalNVRmk0UVdvOHlsRVctOTZPMGFwRnpHZUR1YjJsbU52enNaakc5TVNqaDFWRUM2Y09NWGlJM3VzekwxYm1POHFHa1F1TFFITElqVHdTWFp2U2REbEhoUV9mMGN5T1dJc0dlc1N6ZlZ3NmRRNmxROGJvaURvZW5LZzNKMWNiNzBKTmNoemlvd0RuNEhPQ1JNQy1vam5kZmZwZ3pqamVfV0dIcmdaWDBmMVBTWWZUQzQ?oc=5
+
+- India is adding biofuels to petrol – but many drivers are unhappy - BBC
+  India is adding biofuels to petrol – but
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
+
+- Ukraine Drone Blitz Is Crippling Russian Refineries. What It Means For India - NDTV
+  Ukraine Drone Blitz Is Crippling Russian Refineries
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2ZYUkN2a2p3akdkZ2RQaFlhMkVqS0VrUE9mdk5nVE16Q1pOOEJOMmJSVHA2UEI1RVVHeDYxZWtackhGM1Vfazk1MFhNZGhwZ0RoTVU0eUFkeW1kUHViT3R4RTFpYTFpMEV1c2hwanhYa0JtYUxqMkxXNXlmNlNvYV9TeTc5VXZjOGUzNVRtYkRmQXJINkNxWXE4T29pX2plVXR6Z0UxeFRoMG02U2JtMG40SjVBWDTSAb8BQVVfeXFMT29QWkVlYzh0STNNTlZYZktxX0Z3SV9YNzJxRF82S3ZieWxkb3lwZnBfVGpTOFRIbTAtakxvbnVXeTk2Q0NNbHJTazJPY3p3bTJFeXl3bnE2UERMNmRQczZCSkVHd3NXekM0NXpLMU91Zk1MRnF2ZGphbHBuZGF5V2tFNUF0eHB4RGtCOVFabmdKX1UwdEFrcDZ0OHhsWU5sUWJvTl9YdE1iRXJYU09UZF9vWkJIRFpoeWUxc2ZxUW8?oc=5
 
 
-_Last updated: 2026-07-08 19:20:10 UTC_
+_Last updated: 2026-07-09 02:31:03 UTC_
