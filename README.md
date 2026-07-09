@@ -1,64 +1,84 @@
 # 📰 Daily News Summaries
 
-- PM Modi in Australia LIVE: India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation - The Hindu
-  PM Modi in Australia LIVE: India, Australia unveil new defence declaration to
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
+- The Daily Catch-Up: Your 3-minute evening briefing
+  
+  🔗 https://indianexpress.com/article/india/daily-catch-up-operation-hardball-e20-petrol-hotel-scam-wayanad-landslide-10779198/
 
-- "Win-Win Proposition": PM Modi Urges Australian Businesses To Invest In India - NDTV
-  "Win-Win Proposition": PM Modi Ur
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjEwSjI3dzNNb25BZGFHVk9TOUs1LWFsSXNqakdnanZRam1pTGVLbllhc2o0SkpMVHRicTMwMkJGSUpPcng3TUhibW9NVEhrQnh0YkJTc2tlbHEwb2JGODZ5YWl5dnZ2WFRlVVNFeDM0cURkb3ctQ2pSSVVsN2NaX2U4SnN6VWRHbG5yUXhxMFpubDhYOTRMZzAtNm9EdllRWjBtVmViMlRua1lvTmhrMHVhZ2wxcjJj0gHAAUFVX3lxTE14WjM3OVI2S1pYQmJFeHZ5RGVSY2RxS0FtSm5YNHRjZks0MERJbF9wQnEzWVBRQkhvR0hxVElQZVFnM1VxQnNyVTF6b0xuYzgzcWFGQ00zb1ZnYlNLblVQZTkzYlhSNkM2WjNCaTNXUmFGTk5pSTdwODV3WVJ2STNKQUZUX2xkNVpEaWdOT2NoRTVaWktVdnJRQk1idV9PMTJmN3JlSzE2TTZaNVV1OElTb3dQOE9aZUQ0V0V5NzR4Mg?oc=5
+- Screen every book you have for objectionable content: J&K government’s order to schools and coaching centres
+  
+  🔗 https://indianexpress.com/article/india/book-objectionable-content-jammu-and-kashmur-government-order-schools-coaching-centres-10779131/
 
-- How Australian Uranium Can Fuel India's Clean Energy Plans - NDTV
-  How Australian Uranium Can Fuel India
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWdMbkU5dWFVZ0JPaWg5dXNsRmNWWWJSTi11MjBUZDZ2ZGFuRTdHejhBYzZqU3JuaExZMEptMWtuZnQxUVFDY0Nqa09wX1N3VDNOeDRFSGozV3VOTVpVeF9qUE1UdV9kZWV5eDBNVDNjRVNBa3Mwclg4WlFBekdsc1RNaUdNZFlhejZoWjY5YUpOYzR4Tmx4T3VUamhrTDjSAacBQVVfeXFMT3pOR19Yd3BuWU4tb0E5aUptRXpWTk5tWmZtVHNGWFh1WlgtN0JiVUhqLU9NSTZEeXI5SGNFc2xGQ053MWNOU2sxb2pySHctcDdrZFdoM3hvMzYtMFRfN1Zrd3FvelFGX0pPYmZCVWZidzZCTUpsVHNYMW9uRDZNNEpiekcwcnFyaTU5OEo3V0Nub05XcVg2QXNXbkhUbkpzMEJwY2RFMW8?oc=5
+- Rs 6,000-crore betting app case: Accused traced to Oman, ED seeks extradition
+  
+  🔗 https://indianexpress.com/article/india/saurabh-chandrakar-mahadev-betting-app-oman-extradition-dubay-villas-seized-10778978/
 
-- US President Trump says 11 jets downed during India-Pak hostilities last year, repeats role in resolution - The Economic Times
-  US President Trump says 11 jets downed during India-Pak hostilities last year, repeats
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNDJHUC1vc3hGVHlfMnZjOFh3VHMxT0tfZlluek1lQy0ydnNiSjdVSlVrT2NnY1dpcFRHbWU2ZERUU3hfZVRleXdCX2l6YkQ0YW95Y1VjVVR1eDlzdngzMkF1TDVlaG1rcDVUNVZzMmNScURpWHVMbktlTlFHQ3pQOHZ6OXZtdlY5WUVJUm1GMExSLWw0RUMwamVvZjlxVUVydXJEeW10eENKSFF5dE5SVEpsdzMtOE03MG8tREFmTGlRRVUtUGtTRWphUUpRLTNfbXdENUQzcDJYUVRoRE9HU0dLaUNob1FKNWMxc0hwMGtNRURCNzFoYUxYVF93dWV3RnpMa3FRdVRRMGtOdFYwX1g1Q0RyQ1B2cEHSAZMCQVVfeXFMT0ZrbzJMRHViZkM4dzUzWlh1OEREd0NEVlRaSmRkUUpSMXZicHIyZ3I3QXNfX21mYU9Gc0diTzcxVURzRzFmU2FuSWNHckZQTnhtLUhnTWZTOW1rWXN3STYyNkVMejRqS1dXaXNhZTdpQ3FEbnhYd3JpX1pNUTdONzVWVE9LbmJRa0tRSzJXVWFBdkQ1X0M4LXppbUVoaTVndFhaSWQwTDdBaFdRN0RXZ003WmxabmVPQTUwOTFQZkE4dEw3NmZUam1ySjQ5aWNORGdDRW9zY1VVVjRNRzhPQ0xJeTBrYjdJc3J3ZnVMaEdmZWpMN2RWbTkySmUzWHBFczZtVG1TOWswX1FJY3Z3NEVIaFE?oc=5
+- Despite ‘major challenge’ of US tariffs, India’s seafood export hits all-time high
+  
+  🔗 https://indianexpress.com/article/india/india-seafood-shrimp-export-record-us-tariff-high-seas-fishing-10778743/
 
-- India is adding biofuels to petrol – but many drivers are unhappy - BBC
-  India is adding biofuels to petrol – but
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
+- Over 100-year-old clock tower at Kerala’s Kozhikode railway station collapses due to heavy rain
+  
+  🔗 https://indianexpress.com/article/india/kozhikode-railway-station-clock-tower-collapse-heavy-rain-kerala-10778610/
+
+- Samsung Galaxy Unpacked 2026: Date, time and what to expect
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/samsung-galaxy-unpacked-2026-when-it-is-and-what-to-expect-10779057/
+
+- India removes import duty on select smartphone and electronics parts
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/india-import-duty-cut-smartphone-components-10778877/
+
+- Google launches AI agent within Search ads in India, expands Gemini-powered ad tools
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/
+
+- Meta testing AI glasses that can continuously monitor surroundings: Report
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-testing-ai-glasses-that-can-continuously-monitor-surroundings-report-10778587/
+
+- SpaceX launches world’s first commercial nuclear-powered satellite
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spacex-launches-worlds-first-commercial-nuclear-powered-satellite-10778332/
+
+- Marico's acquired brands generate  ₹2,375 crore in FY26
+  Marico's acquired portfolio has reached meaningful scale, led by strong growth at Plix and Cosmix.
+  🔗 https://www.livemint.com/companies/news/marico-premium-brands-revenue-plix-cosmix-beardo-growth-fy26-11783599492431.html
+
+- Korea’s NH Investment picks up stake worth  ₹900 cr in Choice Equity Broking
+  Korean firm is expected to get about a 12-15% stake in Choice Equity Broking Pvt Ltd at an
+  🔗 https://www.livemint.com/companies/news/south-korea-nh-investment-stake-buy-choice-equity-broking-financial-services-11783602541508.html
+
+- Nandan Nilekani makes his largest VC bet yet in Fundamentum's Fund III
+  The goal with Fund III is to bring in foreign entities
+  🔗 https://www.livemint.com/companies/news/nandan-nilekani-vc-bet-fundamentum-partnership-fund-iii-prateek-jain-startups-consumer-tech-fintech-enterprise-ai-11783574966697.html
+
+- Air India Chairman N Chandrasekaran forms interim committee to address challenges as new CEO search continues
+  Air India Chairman N Chandrasekaran has formed an interim committee to manage the airline while searching for a new CEO.
+  🔗 https://www.livemint.com/companies/news/air-india-chairman-n-chandrasekaran-interim-committee-address-challenge-finance-safety-ceo-search-campbell-wilson-resign-11783592344770.html
 
 - Farmley looks to raise $50-75 million, taps KPMG
   Farmley would likely use the capital to support growth, strengthen the brand and
   🔗 https://www.livemint.com/companies/news/farmley-fundraise-kpmg-healthy-snacking-startup-series-d-round-nuts-dry-fruits-happilo-yoga-bar-11783577392230.html
 
-- Ixigo bets on voice AI to power travel payments
-  Ixigo seeks an early lead as
-  🔗 https://www.livemint.com/companies/news/ixigo-voice-enabled-payments-ai-travel-rbi-compliance-voice-ai-upi-tonetag-razorpay-tara-gnaniai-11783578148888.html
+- Newly listed textile stock Aastha Spintex eyes capacity expansion through Falcon Yarns acquisition
+  Aastha Spintex plans to double its spinning capacity from 7,700 MT to 17,457 MT through the acquisition of Falcon Yarns. The deal, paid in tranches, aims
+  🔗 https://www.livemint.com/market/stock-market-news/newly-listed-textile-stock-aastha-spintex-eyes-capacity-expansion-through-falcon-yarns-acquisition-11783600980389.html
 
-- Vibgyor Group of Schools plans first-ever external fundraise, appoints banker for minority stake sale
-  Mumbai-based school chain is looking to sell upto 30% stake as private equity interest returns to India's K
-  🔗 https://www.livemint.com/education/news/vibgyor-schools-plans-first-ever-external-fundraise-appoints-banker-for-minority-stake-sale-education-funding-11783577141561.html
+- Laser Power &amp; Infra IPO: Issue receives tepid response on Day 01, subscribed 0.17x; GMP signals healthy listing
+  Laser Power &amp;amp; Infra Ltd's IPO saw a weak response, subscribing only 0.17 times on Day 1. The company raised  �
+  🔗 https://www.livemint.com/market/stock-market-news/laser-power-infra-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-17x-gmp-signals-healthy-listing-11783602860868.html
 
-- Chandrasekaran sets up interim committee to lead Air India as search continues for CEO Campbell Wilson’s successor
-  Tata Sons appoints an interim committee, including N Chandrasekaran and Pradeep Singh Kharola, for Air India. A new CEO is sought to replace
-  🔗 https://www.livemint.com/companies/news/chandrasekaran-sets-up-interim-committee-to-lead-air-india-as-search-continues-for-ceo-campbell-wilson-s-successor-11783573923043.html
+- SBI Funds launches biggest IPO of 2026, price band set at  ₹545-574 per share
+  The SBI Funds IPO will
+  🔗 https://www.livemint.com/market/ipo/sbi-funds-launches-biggest-ipo-of-2026-price-band-set-at-545-574-per-share-11783578057891.html
 
-- Mukesh Bansal's Nurix moves beyond voice AI to bet on workflow automation
-  The startup is expanding into back-office processes after realizing that simple voice bots offer limited long-term impact for enterprises
-  🔗 https://www.livemint.com/companies/mukesh-bansal-nurix-voice-ai-startup-acquisition-verloop-it-services-fundraise-11783492536779.html
+- US stock market today: Wall Street edges higher as chip stocks rebound; US-Iran tensions remain in focus
+  S&amp;amp;P 500 rose 0.2% while the Nasdaq 100 gained 0.61%. Investors are cautious amid fears over energy supply disruptions.
+  🔗 https://www.livemint.com/market/us-stock-market-today-wall-street-edges-higher-as-chip-stocks-rebound-us-iran-tensions-remain-in-focus-11783596926684.html
 
-- Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5% as Centre waives customs duty on key electronic components
-  The government's waiver of basic customs duty on electronics manufacturing components until 2029 led to sharp stock gains for companies like Kaynes Technology. This initiative aims to enhance domestic production of electronics and
-  🔗 https://www.livemint.com/market/stock-market-news/syrma-sgs-to-kaynes-tech-ems-stocks-jump-up-to-7-5-as-centre-waives-customs-duty-on-key-electronic-components-11783587314816.html
-
-- Penny stock under  ₹10: NBFC share jumps 7% from intraday low after this AI update
-  Golden Legand opened at  ₹9.46 apiece today. The stock touched an intraday low of
-  🔗 https://www.livemint.com/market/stock-market-news/penny-stock-under-10-nbfc-share-golden-legand-leasing-and-finance-jumps-7-from-intraday-low-after-this-ai-update-11783586284881.html
-
-- Small-cap NBFC stock Aye Finance rises over 4%, jumps more than 60% in 3 months; do you own?
-  Aye Finance shares have surged 63% in the last three months. The stock hit a 52-week high of  ₹184.
-  🔗 https://www.livemint.com/market/stock-market-news/smallcap-nbfc-stock-aye-finance-rises-over-4-jumps-more-than-60-in-3-months-do-you-own-11783586857468.html
-
-- ITC Hotels to Apollo Tyres, Astral: 10 mid- and small-cap stock picks by ICICI Securities for up to 41% upside potential
-  ICICI Securities projects Narayana Hrudayalaya's target price at  ₹2,310, indicating
-  🔗 https://www.livemint.com/market/stock-market-news/itc-hotels-to-apollo-tyres-astral-10-mid-and-small-cap-stock-picks-by-icici-securities-for-up-to-41-upside-potential-11783583724817.html
-
-- SBI Funds Management IPO: SBI likely to earn  ₹7,365 crore from share sale; Should you buy the PSU stock?
-  SBI Funds Management IPO price band is fixed at  ₹545 -  ⁹574 per share. The company aims to raise   $11,692.91 crore through a book-built issue
-  🔗 https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-sbi-likely-to-earn-rs-7-365-crore-from-share-sale-should-you-buy-the-psu-stock-11783585872101.html
+- TCS Q1 Results: Board declares an interim dividend of  ₹12 per share. Details here
+  Tata Consultancy Services announced an interim dividend of  ₹12 per share while releasing
+  🔗 https://www.livemint.com/market/stock-market-news/tcs-q1-results-board-declares-an-interim-dividend-of-rs-12-per-share-details-here-11783593131509.html
 
 - Meta's new AI glasses may continuously record what users see and hear: Report
    Meta is developing AI-powered smart glasses that
@@ -80,85 +100,105 @@
   Apple's new AI features require users to share data with
   🔗 https://www.livemint.com/technology/tech-news/apple-now-asks-users-before-sending-apple-intelligence-requests-to-google-cloud-11783403245281.html
 
-- Oil prices fall as markets weigh impact of US strikes on Iran - Reuters
-  Oil prices fall as markets weigh impact of US strikes
-  🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5
+- AI selloff drives quant funds' worst performance since August
+  Systematic managers lost about 25% of their returns for the year, significantly affecting their overall performance. This downturn arose from substantial bets on U.S. and Asian equities.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/ai-selloff-drives-quant-funds-worst-performance-since-august/articleshow/132288844.cms
 
-- Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal - Crude Oil Prices Today | OilPrice.com
-  Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal.
-  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDJlOF9PYUc2X2xpUVBzcFY1OHZ5SnFPRlYxMGFhUFVzbE9HamxvdUIwN2FHN0RXeHZkSWhEeFlGdW5WTFU5OHNPR3JuVmV6Q2ZBSlZ0U3l3bzJtVG11R2E0WktJYkVVa0tvT0t0Vjk0OXJTUDh4UVhZOVExMkZucjhSakZEbk5DUmlZOXRoV0JSRUNJMmgwd2xCVUFYQzFkNlMzQjFlMGRiRDYtTlM4cHRKNTVnYWlRZXfSAb8BQVVfeXFMT0FVN1VTWC1iNXBxb3dJLTdmN3VxY0RzV0xqRXB5M0p5NGtIR2RLX3Mzb1VLYVlrR3hyTWxVUTFMcFZXVERELS1GVHR1QnA2X1hjY0MyLVZMRjVCa01WS2NlbmZxX1o5dEhOOWw0ZWJ2b2NHYWJBYVFUdEt2MHNxWnhiS0VfQnR4WEwzMjlGZGV4b0ZSRTdsZDZ4Z2pMbFZYTGVJRFRuYVlMZ1RKaEpUQXgxbXoxc2JkSXp4Z2NrcGs?oc=5
+- US stocks today: S&amp;P 500, Nasdaq open higher as chip stocks gain; US-Iran tensions in focus
+  Gains in chip stocks supported the S&amp;P 500 and Nasdaq. The Dow slipped at the open, reflecting geopolitical uncertainty.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-higher-as-chip-stocks-gain-us-iran-tensions-in-focus/articleshow/132288232.cms
 
-- Stock Market News, July 8, 2026: Oil Jumps After Trump Says Iran Ceasefire Is Over - WSJ
-  Oil Jumps After Trump Says Iran Ceasefire Is Over.
-  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxOYndiV0Eybkx1azMyV19iOTJCZjdXSnFYRlhIV0d0QWU4TlRXa2Job2NZYTZVODVzaHFxU3gxSGl0YVFndXhPS1FsNTg2Nl9OdzFLaFVQeTM5ZjV2dE0zbE9UN3l0MW1VY05GQzhIbFd5QzgwcERqQWtVelBrNGNCOElVaS1UY0U?oc=5
+- India’s listed new-age companies may hit $1 trillion market value by 2030: Redseer
+  India's new-age firms are set to hit a valuation of one trillion dollars by 2030. There’s a noticeable uptick in participation from domestic institutional investors in the IPO arena.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indias-listed-new-age-companies-may-hit-1-trillion-market-value-by-2030-redseer/articleshow/132288193.cms
 
-- Markets News, July 8, 2026: Dow, S&P 500 End Lower, Oil Prices Jump as Trump Says Iran Truce ‘Over,’ Threatens Further Attacks - Investopedia
-  Dow, S&amp;P 500 End Lower, Oil Prices Jump as Trump Says Iran Truce ‘Over,’ Threatens Further Attacks.
-  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1hXc1loVXZfcGRBZVF4d1hNNjN0dENKeHVXQ0NFWG0tYldGLVpUQTgxZl9LMjZEeF9EWUdiVjY0ejVPTURVX01ZTkpzV3I1bjlubGh6OUJpNUFBNzZnb29YVzE5bm0xZTk3cFJoWmdBbHJGVkRVLXRxY1ZmRjRUeDRId3h2X3VCcF9sT19zcVo?oc=5
+- Anand Rathi Wealth Q1 Results: Profit rises 24% to Rs 116 crore, revenue grows 18%
+  Anand Rathi Wealth reported a 24% rise in Q1FY27 profit to Rs 116 crore. Assets under management crossed Rs 1 lakh crore. The company achieved 24
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q1-results-profit-rises-24-to-rs-116-crore-revenue-grows-18/articleshow/132287729.cms
 
-- China’s capital markets take on Xi Jinping’s tech ambitions - The Economist
-  China’s capital markets take on
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUtOUHRqRFpxU1BlU3pZUW5CVzg2bUNEcnVjVzdNc19GVmVIdEVUdVN3aUlpUzFDeEp3R2hKaDFac3I2Z3NHTlM3bkJ1Nm5xalBUMVRiSWNyNXZGMGh6WGF0WGlCUW9kc0JUS3Z4djh4STJrMko5OWh6NFdGR29EODJBMFduZ3RQYWxRYWtfcGsyR3lUQi1kNzQza1VBc04yQjFrRFd0Vk5McmpXSDZPZ2dkdFhfRjQ?oc=5
+- Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live: S&amp;P 500, Nasdaq open higher as chip stocks gain; US-Iran tensions in focus
+  
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-attacks-hormuz-deal-brent-crude-oil-earnings-forecast-fed-minutes-levi-strauss-ubs-stock-price-news-9-july-2026/liveblog/132286529.cms
 
-- India Inc's revenue growth to hit 2-year high of 11-11.5% in Q1 despite Iran war: Crisil
-  India Inc's revenue is estimated to have grown 11-11.5% year-on-year in Q1FY27, marking the fastest pace in eight quarters. While pricing power helped companies offset higher input costs amid the
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/india-incs-revenue-growth-to-hit-2-year-high-of-11-11-5-in-q1-despite-iran-war-crisil/articleshow/132282171.cms
-
-- Vedanta Oil and Gas shares rally 8%. What’s boosting investor sentiment today?
-  Vedanta Oil and Gas shares rose sharply on Thursday after reports that the Delhi High Court cleared the enforcement of $99 million in arbitral awards in favour of Vedanta and Ravva Oil.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-rally-8-whats-boosting-investor-sentiment-today/articleshow/132281761.cms
-
-- How to trade Cupid shares after a massive 40% rally in a month? 2 technical experts weigh in
-  Cupid shares have rallied over 40% in the past month. Strong Q1 business momentum and an upgraded FY27 revenue outlook. Technical experts see the broader uptrend intact.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-cupid-shares-after-a-massive-40-rally-in-a-month-2-technical-experts-weigh-in/articleshow/132281590.cms
-
-- Global Market:  China's factory inflation hits four-year high, keeping metals and industrial stocks in focus
-  Factory-gate inflation reached its fastest pace in four years during June. Producer prices rose 4.1 percent year-on-year, driven by energy and commodity costs. Consumer inflation slowed to 1.0 percent, reflecting weak domestic demand
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms
-
-- SBI Funds Management IPO: What portion is reserved for SBI's 38 lakh shareholders?
-  SBI Funds Management's Rs 11,693-crore IPO has earmarked up to 1.3 crore shares worth nearly Rs 750 crore for eligible SBI shareholders. The offer opens on July 14, with over
-  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-what-portion-is-reserved-for-sbis-38-lakh-shareholders/articleshow/132281042.cms
-
-- Meet The 20 Startups Selected For Google’s India Startup Accelerator 2026
-  Alphabet-owned Google has picked 20 homegrown startups for the 2026 cohort of its “Google for Startups Accelerator: India 2026�
-  🔗 https://inc42.com/buzz/meet-the-20-startups-selected-for-googles-india-startup-accelerator-2026/
-
-- Honasa Consumer Projects 30% YoY Growth In Q1 FY27
-  Mamaearth's parent Honasa Consumer expects to post a 30% YoY growth in its operating revenue during the quarter.
-  🔗 https://inc42.com/buzz/honasa-consumer-projects-30-yoy-growth-in-q1-fy27/
-
-- Mahadev Betting App Promoter Sourabh Chandrakar Detained In Oman
-  Sourabh Chandrakar, the alleged mastermind behind the Mahadev betting app syndicate, has been detained in Oman and Indian authorities are investigating.
-  🔗 https://inc42.com/buzz/mahadev-betting-app-promoter-sourabh-chandrakar-detained-in-oman/
-
-- Flipkart’s Seller Playbook, Troubles At Ola Electric & More
-  Flipkart is trying the zero-commission playbook. The ecommerce major has dropped its fees on all fashion products.
-  🔗 https://inc42.com/buzz/flipkarts-seller-playbook-troubles-at-ola-electric-more/
-
-- Milo Drive Bags $2.4 Mn To Scale Electric Mobility Platform
-  Electric mobility startup Milo Drive has raised $2.4 Mn (about ₹22.9 Cr) in a seed funding round.
-  🔗 https://inc42.com/buzz/milo-drive-bags-2-4-mn-to-scale-electric-mobility-platform/
-
-- PM Modi in Australia LIVE: India, Australia unveil new defence declaration to deepen Indo-Pacific cooperation - The Hindu
-  PM Modi in Australia LIVE: India, Australia unveil new defence declaration to
+- PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust at Melbourne diaspora event - The Hindu
+  PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust
   🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
 
-- "Win-Win Proposition": PM Modi Urges Australian Businesses To Invest In India - NDTV
-  "Win-Win Proposition": PM Modi Ur
-  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjEwSjI3dzNNb25BZGFHVk9TOUs1LWFsSXNqakdnanZRam1pTGVLbllhc2o0SkpMVHRicTMwMkJGSUpPcng3TUhibW9NVEhrQnh0YkJTc2tlbHEwb2JGODZ5YWl5dnZ2WFRlVVNFeDM0cURkb3ctQ2pSSVVsN2NaX2U4SnN6VWRHbG5yUXhxMFpubDhYOTRMZzAtNm9EdllRWjBtVmViMlRua1lvTmhrMHVhZ2wxcjJj0gHAAUFVX3lxTE14WjM3OVI2S1pYQmJFeHZ5RGVSY2RxS0FtSm5YNHRjZks0MERJbF9wQnEzWVBRQkhvR0hxVElQZVFnM1VxQnNyVTF6b0xuYzgzcWFGQ00zb1ZnYlNLblVQZTkzYlhSNkM2WjNCaTNXUmFGTk5pSTdwODV3WVJ2STNKQUZUX2xkNVpEaWdOT2NoRTVaWktVdnJRQk1idV9PMTJmN3JlSzE2TTZaNVV1OElTb3dQOE9aZUQ0V0V5NzR4Mg?oc=5
+- "Milk At Home Is Australian, Tea Indian": PM Modi's Top Quotes In Melbourne - NDTV
+  "Milk At Home Is Australian, Tea Indian":
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQNXpoRXhxMTJXUzdBMEZfRmdFQXhfeGtQRFJjaUFGTGR4TXh0SEs1ODRMejREYVVYUFI1ei1rV0FjX3lKU1I4NEh5SnRxbF96S2J1SEJSM1g3czFCWmJpR2xRVTVGcVRwUW1hMjV6T0o2V0twMmhZclNTRG9yYWNwOU5xOXZ2aGw0VmJiOEVtTGhPZ21RNjNkV2dmYWhpZTliV1lRUmpnMi0yWmNyN0VPTEU4RHIxVy1vNDVjWFBEa2hBNlZydEJEd1lVSWrSAdQBQVVfeXFMTkJjNmdQa0hTTkptTHhXc2xmTzVVdVR1TlhiZzl1OWhhcjZIN3oxLXJibTEyZkdEZUsxdFotajh5SV94Ri1zQy1TUGlSeHd0THh1Z3VrOE9kb0UxU3VCTzJ3UWxRcjB2SWxjbnBBY3AxV3U4eFRsY2RqYnJqZnFjamlxdVlTQjJLQzNjZkk5THFsdkp3emVhem5OSFVTa3VFV01DakljdGQwQU1GVGRlZ05JMEgtRnlwQ0RubG9RVUhSa2I5TkxkX0JzcmlsRXRtLU9BdUw?oc=5
 
-- How Australian Uranium Can Fuel India's Clean Energy Plans - NDTV
-  How Australian Uranium Can Fuel India
-  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWdMbkU5dWFVZ0JPaWg5dXNsRmNWWWJSTi11MjBUZDZ2ZGFuRTdHejhBYzZqU3JuaExZMEptMWtuZnQxUVFDY0Nqa09wX1N3VDNOeDRFSGozV3VOTVpVeF9qUE1UdV9kZWV5eDBNVDNjRVNBa3Mwclg4WlFBekdsc1RNaUdNZFlhejZoWjY5YUpOYzR4Tmx4T3VUamhrTDjSAacBQVVfeXFMT3pOR19Yd3BuWU4tb0E5aUptRXpWTk5tWmZtVHNGWFh1WlgtN0JiVUhqLU9NSTZEeXI5SGNFc2xGQ053MWNOU2sxb2pySHctcDdrZFdoM3hvMzYtMFRfN1Zrd3FvelFGX0pPYmZCVWZidzZCTUpsVHNYMW9uRDZNNEpiekcwcnFyaTU5OEo3V0Nub05XcVg2QXNXbkhUbkpzMEJwY2RFMW8?oc=5
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
 
-- US President Trump says 11 jets downed during India-Pak hostilities last year, repeats role in resolution - The Economic Times
-  US President Trump says 11 jets downed during India-Pak hostilities last year, repeats
-  🔗 https://news.google.com/rss/articles/CBMimgJBVV95cUxNNDJHUC1vc3hGVHlfMnZjOFh3VHMxT0tfZlluek1lQy0ydnNiSjdVSlVrT2NnY1dpcFRHbWU2ZERUU3hfZVRleXdCX2l6YkQ0YW95Y1VjVVR1eDlzdngzMkF1TDVlaG1rcDVUNVZzMmNScURpWHVMbktlTlFHQ3pQOHZ6OXZtdlY5WUVJUm1GMExSLWw0RUMwamVvZjlxVUVydXJEeW10eENKSFF5dE5SVEpsdzMtOE03MG8tREFmTGlRRVUtUGtTRWphUUpRLTNfbXdENUQzcDJYUVRoRE9HU0dLaUNob1FKNWMxc0hwMGtNRURCNzFoYUxYVF93dWV3RnpMa3FRdVRRMGtOdFYwX1g1Q0RyQ1B2cEHSAZMCQVVfeXFMT0ZrbzJMRHViZkM4dzUzWlh1OEREd0NEVlRaSmRkUUpSMXZicHIyZ3I3QXNfX21mYU9Gc0diTzcxVURzRzFmU2FuSWNHckZQTnhtLUhnTWZTOW1rWXN3STYyNkVMejRqS1dXaXNhZTdpQ3FEbnhYd3JpX1pNUTdONzVWVE9LbmJRa0tRSzJXVWFBdkQ1X0M4LXppbUVoaTVndFhaSWQwTDdBaFdRN0RXZ003WmxabmVPQTUwOTFQZkE4dEw3NmZUam1ySjQ5aWNORGdDRW9zY1VVVjRNRzhPQ0xJeTBrYjdJc3J3ZnVMaEdmZWpMN2RWbTkySmUzWHBFczZtVG1TOWswX1FJY3Z3NEVIaFE?oc=5
+- Weather LIVE Updates: Monsoon Has Now Covered Entire India - NDTV
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORTctZE9ObmdXV2V5bWV2VnlEaDBFaWttcUJjS21sZ183RmYtcm5HTGlTWUhOM3hlMjVHdElsd1pxQ1RZbGdTNjZjWWdTU3picHNpaUQza0NkbS02Tlh3RFQ0dVhwbG10NWFDc1poc0xfeWdGVjRUbmhBM3J3M1k5U0UtcXppUnA4cTZjaE9BbDlzSDJ2Q2dhVVl2Y2VZazVjME15VFhTTFEwaHlsX3h6R0hSdk1mREZURm9LZGVqcnlRcmtwSThpWXc5Q2FoTl9iQjRSN0hQb0hTa04zNFNkdG0ydGRkVGl6WHBHYmJrbE53Z1hNWndPatIBgAJBVV95cUxNTk9yRWxEUzFQdXZ4dGE3ZmV4Wlg4azZDSnRrR0huOENZWGNOYmx3akdPOEZ0bjJlYy1Gek13aGtXNWpPdG16bG9XaDk2YzRQMVQwSmlYaGdjRjBWSkFnNUlDckNKV2FFMkp6Y3NFUkJERUxqRDN6SDFmdDJaYVE4cHFwR2ZtWTAtNEpEaEktZE5CM01RY2ltdTNNMTJCdE0ydXJLNll4NDEwV1JDb09Lcy11MHhfMUMzaU9DNlpURWhLY2FDM2REOVlYM2NaR2xpeHFOSGgwV0hheHROWEZMTTJBYTFLX3E0TW5wUk9zYzc5ZkY0MFRNczVWS2VLREM0?oc=5
 
-- India is adding biofuels to petrol – but many drivers are unhappy - BBC
-  India is adding biofuels to petrol – but
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUM2VKVUhkdktHanNIQlo1Z2pERUp6VmUyMHI0REp3UklkbGhvdFRPS21uU0VLOFpwek1vejFTRFFxZDhGU29wcFFZQUNyUWRJZjBhb19NY2ZNZw?oc=5
+- Monsoon covers entire India, overall rain deficit reduced to 14% - The Times of India
+  Monsoon covers entire India, overall rain deficit reduced to
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEg3YlAyZm1KTFNSM05lQk5UcC11R3hST2tQblZiMkItVzhFTV9aQjRsSk5zdW1MM1U5NXVtVEZtczYzY3k0LVFrQkNJNnJFTTNxQlpMSDVXSFFSbjUtUFE0aW5LbGJ4dDdRckVwemNfY1FiZGp5SndyOW4yOFhsUnpTSEZDamhZZ21RYWkySGlNbElxQkNtc19XSTFsalBDYzluMWpYc1pCWnZleDlBQmowWlpyX2ZMTC0zcFdTRHhGcGFqZEJhTVhB0gHPAUFVX3lxTFB6NjVDTERFOVdTcE41MlZmby1XQlpfQlFGaS1QTHpxSjVhdV9IaW0ydldNMnBRazJCNFJRWGdJX3ZEVG9URS11Q0ZPbjVFdG1NUVU3eUd1YjNkYndCV1kydXpZcllQWjBxQ0JsQVNtVXlxelRwZkdnSmozaTl1bGZVYmpLODZSWlpGeWhBZGt3eEJ0T1ZSaHRYWWI2YXphaXN4N1BXOVNVRGRabEFiUXlnN3YzV21UOV9HRWFnRzU2aG1pRUx3cHFGcm5ycVRrRQ?oc=5
+
+- Accel’s Subrata Mitra On Why AI Will Break More Founders, And How To Survive It
+  Accel partner Subrata Mitra has spent the better part of six decades on the difficult side of entrepreneurship. Mitra: AI will break more Founders, and how to survive it.
+  🔗 https://inc42.com/features/accel-subrata-mitra-on-down-but-not-out-book-interview/
+
+- How Cumin Co. Is Building An Integrated Kitchenware Brand
+  How Cumin Co. Is Building An Integrated Kitchenware Brand.
+  🔗 https://inc42.com/startups/how-cumin-co-is-building-an-integrated-kitchenware-brand/
+
+- Startup Ecosystem Mourns The Passing Of Accel’s Akhilesh Agarwal
+  The Indian startup ecosystem is mourning the loss of Akhilesh Agarwal, a widely respected investor who passed away yesterday.
+  🔗 https://inc42.com/buzz/startup-ecosystem-mourns-the-passing-of-accels-akhilesh-agarwal/
+
+- Mukesh Bansal’s Nurix AI Acquires Verloop
+  Mukesh Bansal-led enterprise AI startup Nurix AI announced its plans to acquire Verloop.io to expand its offerings across both voice and text
+  🔗 https://inc42.com/buzz/mukesh-bansals-nurix-ai-to-acquire-verloop/
+
+- Can Green SM Succeed Where BluSmart Failed?
+  When BluSmart’s cabs suddenly disappeared from the roads of Delhi NCR last year, the region&#8217;s ride-hailing market —
+  🔗 https://inc42.com/features/can-green-sm-succeed-where-blusmart-failed/
+
+- PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust at Melbourne diaspora event - The Hindu
+  PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
+
+- "Milk At Home Is Australian, Tea Indian": PM Modi's Top Quotes In Melbourne - NDTV
+  "Milk At Home Is Australian, Tea Indian":
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQNXpoRXhxMTJXUzdBMEZfRmdFQXhfeGtQRFJjaUFGTGR4TXh0SEs1ODRMejREYVVYUFI1ei1rV0FjX3lKU1I4NEh5SnRxbF96S2J1SEJSM1g3czFCWmJpR2xRVTVGcVRwUW1hMjV6T0o2V0twMmhZclNTRG9yYWNwOU5xOXZ2aGw0VmJiOEVtTGhPZ21RNjNkV2dmYWhpZTliV1lRUmpnMi0yWmNyN0VPTEU4RHIxVy1vNDVjWFBEa2hBNlZydEJEd1lVSWrSAdQBQVVfeXFMTkJjNmdQa0hTTkptTHhXc2xmTzVVdVR1TlhiZzl1OWhhcjZIN3oxLXJibTEyZkdEZUsxdFotajh5SV94Ri1zQy1TUGlSeHd0THh1Z3VrOE9kb0UxU3VCTzJ3UWxRcjB2SWxjbnBBY3AxV3U4eFRsY2RqYnJqZnFjamlxdVlTQjJLQzNjZkk5THFsdkp3emVhem5OSFVTa3VFV01DakljdGQwQU1GVGRlZ05JMEgtRnlwQ0RubG9RVUhSa2I5TkxkX0JzcmlsRXRtLU9BdUw?oc=5
+
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
+
+- Weather LIVE Updates: Monsoon Has Now Covered Entire India - NDTV
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORTctZE9ObmdXV2V5bWV2VnlEaDBFaWttcUJjS21sZ183RmYtcm5HTGlTWUhOM3hlMjVHdElsd1pxQ1RZbGdTNjZjWWdTU3picHNpaUQza0NkbS02Tlh3RFQ0dVhwbG10NWFDc1poc0xfeWdGVjRUbmhBM3J3M1k5U0UtcXppUnA4cTZjaE9BbDlzSDJ2Q2dhVVl2Y2VZazVjME15VFhTTFEwaHlsX3h6R0hSdk1mREZURm9LZGVqcnlRcmtwSThpWXc5Q2FoTl9iQjRSN0hQb0hTa04zNFNkdG0ydGRkVGl6WHBHYmJrbE53Z1hNWndPatIBgAJBVV95cUxNTk9yRWxEUzFQdXZ4dGE3ZmV4Wlg4azZDSnRrR0huOENZWGNOYmx3akdPOEZ0bjJlYy1Gek13aGtXNWpPdG16bG9XaDk2YzRQMVQwSmlYaGdjRjBWSkFnNUlDckNKV2FFMkp6Y3NFUkJERUxqRDN6SDFmdDJaYVE4cHFwR2ZtWTAtNEpEaEktZE5CM01RY2ltdTNNMTJCdE0ydXJLNll4NDEwV1JDb09Lcy11MHhfMUMzaU9DNlpURWhLY2FDM2REOVlYM2NaR2xpeHFOSGgwV0hheHROWEZMTTJBYTFLX3E0TW5wUk9zYzc5ZkY0MFRNczVWS2VLREM0?oc=5
+
+- Monsoon covers entire India, overall rain deficit reduced to 14% - The Times of India
+  Monsoon covers entire India, overall rain deficit reduced to
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEg3YlAyZm1KTFNSM05lQk5UcC11R3hST2tQblZiMkItVzhFTV9aQjRsSk5zdW1MM1U5NXVtVEZtczYzY3k0LVFrQkNJNnJFTTNxQlpMSDVXSFFSbjUtUFE0aW5LbGJ4dDdRckVwemNfY1FiZGp5SndyOW4yOFhsUnpTSEZDamhZZ21RYWkySGlNbElxQkNtc19XSTFsalBDYzluMWpYc1pCWnZleDlBQmowWlpyX2ZMTC0zcFdTRHhGcGFqZEJhTVhB0gHPAUFVX3lxTFB6NjVDTERFOVdTcE41MlZmby1XQlpfQlFGaS1QTHpxSjVhdV9IaW0ydldNMnBRazJCNFJRWGdJX3ZEVG9URS11Q0ZPbjVFdG1NUVU3eUd1YjNkYndCV1kydXpZcllQWjBxQ0JsQVNtVXlxelRwZkdnSmozaTl1bGZVYmpLODZSWlpGeWhBZGt3eEJ0T1ZSaHRYWWI2YXphaXN4N1BXOVNVRGRabEFiUXlnN3YzV21UOV9HRWFnRzU2aG1pRUx3cHFGcm5ycVRrRQ?oc=5
+
+- PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust at Melbourne diaspora event - The Hindu
+  PM Modi in Australia LIVE: PM Modi highlights India's growth, global trust
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
+
+- "Milk At Home Is Australian, Tea Indian": PM Modi's Top Quotes In Melbourne - NDTV
+  "Milk At Home Is Australian, Tea Indian":
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxQNXpoRXhxMTJXUzdBMEZfRmdFQXhfeGtQRFJjaUFGTGR4TXh0SEs1ODRMejREYVVYUFI1ei1rV0FjX3lKU1I4NEh5SnRxbF96S2J1SEJSM1g3czFCWmJpR2xRVTVGcVRwUW1hMjV6T0o2V0twMmhZclNTRG9yYWNwOU5xOXZ2aGw0VmJiOEVtTGhPZ21RNjNkV2dmYWhpZTliV1lRUmpnMi0yWmNyN0VPTEU4RHIxVy1vNDVjWFBEa2hBNlZydEJEd1lVSWrSAdQBQVVfeXFMTkJjNmdQa0hTTkptTHhXc2xmTzVVdVR1TlhiZzl1OWhhcjZIN3oxLXJibTEyZkdEZUsxdFotajh5SV94Ri1zQy1TUGlSeHd0THh1Z3VrOE9kb0UxU3VCTzJ3UWxRcjB2SWxjbnBBY3AxV3U4eFRsY2RqYnJqZnFjamlxdVlTQjJLQzNjZkk5THFsdkp3emVhem5OSFVTa3VFV01DakljdGQwQU1GVGRlZ05JMEgtRnlwQ0RubG9RVUhSa2I5TkxkX0JzcmlsRXRtLU9BdUw?oc=5
+
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
+
+- Weather LIVE Updates: Monsoon Has Now Covered Entire India - NDTV
+  " target="_blank"
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxORTctZE9ObmdXV2V5bWV2VnlEaDBFaWttcUJjS21sZ183RmYtcm5HTGlTWUhOM3hlMjVHdElsd1pxQ1RZbGdTNjZjWWdTU3picHNpaUQza0NkbS02Tlh3RFQ0dVhwbG10NWFDc1poc0xfeWdGVjRUbmhBM3J3M1k5U0UtcXppUnA4cTZjaE9BbDlzSDJ2Q2dhVVl2Y2VZazVjME15VFhTTFEwaHlsX3h6R0hSdk1mREZURm9LZGVqcnlRcmtwSThpWXc5Q2FoTl9iQjRSN0hQb0hTa04zNFNkdG0ydGRkVGl6WHBHYmJrbE53Z1hNWndPatIBgAJBVV95cUxNTk9yRWxEUzFQdXZ4dGE3ZmV4Wlg4azZDSnRrR0huOENZWGNOYmx3akdPOEZ0bjJlYy1Gek13aGtXNWpPdG16bG9XaDk2YzRQMVQwSmlYaGdjRjBWSkFnNUlDckNKV2FFMkp6Y3NFUkJERUxqRDN6SDFmdDJaYVE4cHFwR2ZtWTAtNEpEaEktZE5CM01RY2ltdTNNMTJCdE0ydXJLNll4NDEwV1JDb09Lcy11MHhfMUMzaU9DNlpURWhLY2FDM2REOVlYM2NaR2xpeHFOSGgwV0hheHROWEZMTTJBYTFLX3E0TW5wUk9zYzc5ZkY0MFRNczVWS2VLREM0?oc=5
+
+- Monsoon covers entire India, overall rain deficit reduced to 14% - The Times of India
+  Monsoon covers entire India, overall rain deficit reduced to
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEg3YlAyZm1KTFNSM05lQk5UcC11R3hST2tQblZiMkItVzhFTV9aQjRsSk5zdW1MM1U5NXVtVEZtczYzY3k0LVFrQkNJNnJFTTNxQlpMSDVXSFFSbjUtUFE0aW5LbGJ4dDdRckVwemNfY1FiZGp5SndyOW4yOFhsUnpTSEZDamhZZ21RYWkySGlNbElxQkNtc19XSTFsalBDYzluMWpYc1pCWnZleDlBQmowWlpyX2ZMTC0zcFdTRHhGcGFqZEJhTVhB0gHPAUFVX3lxTFB6NjVDTERFOVdTcE41MlZmby1XQlpfQlFGaS1QTHpxSjVhdV9IaW0ydldNMnBRazJCNFJRWGdJX3ZEVG9URS11Q0ZPbjVFdG1NUVU3eUd1YjNkYndCV1kydXpZcllQWjBxQ0JsQVNtVXlxelRwZkdnSmozaTl1bGZVYmpLODZSWlpGeWhBZGt3eEJ0T1ZSaHRYWWI2YXphaXN4N1BXOVNVRGRabEFiUXlnN3YzV21UOV9HRWFnRzU2aG1pRUx3cHFGcm5ycVRrRQ?oc=5
 
 - Buy HDFC Bank; target of Rs 1,850: ICICI Securities
   ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
@@ -189,4 +229,4 @@
   🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-09 09:32:55 UTC_
+_Last updated: 2026-07-09 14:48:45 UTC_
