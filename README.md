@@ -1,24 +1,28 @@
 # 📰 Daily News Summaries
 
-- Besides Hardeep Singh Nijjar, US charges Lawrence Bishnoi for attacks on Salman Khan, Gippy Grewal, Moosewala
+- Jharkhand unveils plan to adopt AI in governance
   
-  🔗 https://indianexpress.com/article/india/besides-hardeep-singh-nijjar-us-charges-lawrence-bishnoi-for-attacks-on-salman-khan-gippy-grewal-moosewala-10779568/
+  🔗 https://indianexpress.com/article/india/jharkhand-unveils-plan-to-adopt-ai-in-governance-10779867/
 
-- As rain continues to pound Himachal, government bans all mining activities till September
+- Madhya Pradesh Congress chief Jitu Patwari’s brother named in drug probe, political storm erupts
   
-  🔗 https://indianexpress.com/article/india/rain-himachal-pradesh-government-ban-mining-activities-september-10779479/
+  🔗 https://indianexpress.com/article/india/madhya-pradesh-congress-chief-jitu-patwaris-brother-named-in-drug-probe-political-storm-erupts-10779670/
 
-- Housed in two Australian museums, three 11th-12th century antiquities from Tamil Nadu to finally come home
+- Row over Rath Yatra abroad: After Puri royal’s latest salvo, ISKCON ‘bows out of discussion’
   
-  🔗 https://indianexpress.com/article/india/australian-museum-three-11th-12th-century-antiquities-tamil-nadu-10779420/
+  🔗 https://indianexpress.com/article/india/row-over-rath-yatra-abroad-after-puri-royals-latest-salvo-iskcon-bows-out-of-discussion-10779679/
 
-- Student killed in Uzbekistan; back home in Kerala, family links it to conversion bid
+- Think tank CSDS likely to face funding cuts from Centre
   
-  🔗 https://indianexpress.com/article/india/kerala-medical-student-killed-uzbekistan-forced-conversion-allegation-sawariya-basanth-10779422/
+  🔗 https://indianexpress.com/article/india/csds-funding-cuts-icssr-probe-maharashtra-voter-data-10779711/
 
-- The Daily Catch-Up: Your 3-minute evening briefing
+- India, Australia ink defence pacts, fast-track trade deal
   
-  🔗 https://indianexpress.com/article/india/daily-catch-up-operation-hardball-e20-petrol-hotel-scam-wayanad-landslide-10779198/
+  🔗 https://indianexpress.com/article/india/india-australia-ink-defence-pacts-fast-track-trade-deal-10779742/
+
+- Noise introduces screenless REP Band with HRV, stress and sleep tracking
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/noise-introduces-screenless-rep-band-with-hrv-stress-and-sleep-tracking-10779638/
 
 - Grok 4.5 arrives alongside OpenAI’s new voice models for live conversations
   
@@ -36,9 +40,17 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/india-import-duty-cut-smartphone-components-10778877/
 
-- Google launches AI agent within Search ads in India, expands Gemini-powered ad tools
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/
+- Honda wants more of its premium motorcycles to come to Indian factories
+  Honda Motorcycle and Scooter India plans to expand and localise its premium motorcycle range. TVS, Hero and Bajaj race to
+  🔗 https://www.livemint.com/companies/news/honda-wants-more-of-its-premium-motorcycles-to-come-to-indian-factorie-11783591093176.html
+
+- Hotels chase execution as investors check in on launch timelines
+  As India's hotel sector targets over 300,000 rooms by 2029, investment focus shifts to execution and timely openings. Delays challenge listed companies, while analysts highlight
+  🔗 https://www.livemint.com/companies/news/hotels-execution-timelines-new-projects-investors-launch-11783583657608.html
+
+- Smart bots, big bills: India Inc’s rude awakening after AI fails to lower consulting fees
+  India's top consulting and audit firms say fees haven't dropped. AI risks like hallucinations demand more senior oversight, raising costs. Firms are shifting
+  🔗 https://www.livemint.com/companies/news/india-inc-consulting-firms-advisory-firms-consulting-fees-client-billing-automated-work-senior-partners-ai-11783586546604.html
 
 - 18 months on, Dixon gets govt nod for JV with China's Vivo
   Dixon will also operate as an original equipment manufacturer, which means that the latter may, in the long run, create its own smartphone brand. The venture, in which Dixon will hold 51
@@ -48,37 +60,25 @@
   The Mumbai-based company reported first-quarter consolidated revenue of $7.62 billion. Analysts had predicted even lower numbers—$7.
   🔗 https://www.livemint.com/companies/tcs-q1-results-flat-growth-ai-demand-it-spending-11783608950194.html
 
-- BSNL launches new satellite phone at  ₹1.34 lakh in India, says 'ideal for remote ops': All you need to know
-  The device reportedly supports voice calling and SMS in areas lacking conventional cellular networks. BSNL launched a satellite phone priced at  ₹1.
-  🔗 https://www.livemint.com/companies/news/bsnl-launches-new-satellite-phone-at-rs-1-34-lakh-in-india-says-ideal-for-remote-ops-all-you-need-to-know-11783604699477.html
+- Stock market today: Gift Nifty hints positive start; eight day trading stocks to buy on Friday, 10 July
+  Indian equity benchmarks are set for a positive start. Sensex and Nifty tracking firm global markets. Recent easing tensions in the Middle East and gains in semiconductor stocks have boosted sentiment.
+  🔗 https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-positive-start-eight-day-trading-stocks-to-buy-on-friday-10-july-11783648082072.html
 
-- Iswarya Fertility Center raises  ₹350 crore from Orbimed Asia
-  The capital will fund new centres, clinical infrastructure and digital capabilities as investor interest in
-  🔗 https://www.livemint.com/companies/news/iswarya-fertility-center-raises-350-crore-from-orbimed-asia-11783605487610.html
+- Asian stocks surge as investors look past Middle East attacks
+  The renewed back-and-forth attacks have further eroded the fragile three-week-old ceasefire, bringing the spotlight back on
+  🔗 https://www.livemint.com/market/asian-stocks-surge-as-investors-look-past-middle-east-attacks-11783649256535.html
 
-- Dr Reddy's delays semaglutide supplies due to API issue
-  The company expects shipments to resume by November. It has halves FY27 supply estimate, while
-  🔗 https://www.livemint.com/companies/news/dr-reddys-delays-semaglutide-supplies-due-to-api-issue-11783604019071.html
+- Sumeet Bagadia recommends these five breakout stocks to buy today — 10 July 2026
+  Ujjivan Small Finance Bank, Bajaj Consumer Care, Shilpa Medicare, Anant
+  🔗 https://www.livemint.com/market/stock-market-news/sumeet-bagadia-recommends-these-five-breakout-stocks-to-buy-today-10-july-2026-11783647568745.html
 
-- HDFC Bank Q1 results date: Private lender to announce June quarter earnings on 18 July
-  HDFC Bank's Board of Directors to meet on
-  🔗 https://www.livemint.com/market/stock-market-news/hdfc-bank-q1-results-date-private-lender-to-announce-june-quarter-earnings-on-july-16-11783617006411.html
+- Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 July
+  Gift Nifty was trading around 24,115 level, a premium of nearly 116 points from the Nifty futures’ previous close. The trends on Gift Nifty also
+  🔗 https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-10-july-11783647954984.html
 
-- Russia's largest private lender Alfa Bank tests crypto trading, plans suite of crypto services ahead of govt legislation
-  Russia's largest private lender Alfa Bank is testing cryptocurrency trading on its investment app. The bank is planning a suite of cryptocurrency
-  🔗 https://www.livemint.com/market/cryptocurrency/russia-largest-private-lender-alfa-bank-test-crypto-trading-plan-crypto-services-duma-govt-legislation-central-bank-rule-11783612684130.html
-
-- Multibagger defence stock Apollo Micro Systems to be in focus on Friday; here's why
-  Apollo Micro Systems has signed a Share Purchase Agreement to acquire a 41.33% stake in Premier Explosives. The deal includes an open offer for additional shares and is expected to be finalized by
-  🔗 https://www.livemint.com/market/multibagger-defence-stock-apollo-micro-systems-to-be-in-focus-on-friday-heres-why-11783610760155.html
-
-- Anand Rathi Wealth Q1 Results: Net profit rises 24%; AUM tops  ₹1 lakh crore
-  Anand Rathi Wealth reported strong growth with a consolidated profit of  ₹116 crore for Q1 FY27, up 24% year-on-year. Revenue from operations
-  🔗 https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-q1-results-net-profit-rises-24-aum-tops-rs-1-lakh-crore-11783609585341.html
-
-- Newly listed textile stock Aastha Spintex eyes capacity expansion through Falcon Yarns acquisition
-  Aastha Spintex plans to double its spinning capacity from 7,700 MT to 17,457 MT through the acquisition of Falcon Yarns. The deal, paid in tranches, aims
-  🔗 https://www.livemint.com/market/stock-market-news/newly-listed-textile-stock-aastha-spintex-eyes-capacity-expansion-through-falcon-yarns-acquisition-11783600980389.html
+- From Gift Nifty, TCS Q1 results to US tech stocks rally: 10 key things that changed for Indian stock market overnight
+  Gift Nifty was trading around 24,104 level, a premium of nearly 105 points from the Nifty futures�
+  🔗 https://www.livemint.com/market/stock-market-news/from-gift-nifty-tcs-q1-results-to-us-tech-stocks-rally-10-key-things-that-changed-for-indian-stock-market-overnight-11783647005414.html
 
 - Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API
   Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and
@@ -100,45 +100,65 @@
   Google's next Made by Google launch event is set for August
   🔗 https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html
 
-- Stock Market Today: Tech Stocks Shrug Off Mideast Tensions to Rise — Live Updates - WSJ
-  Stock Market Today: Tech Stocks Shrug Off Mideast Tensions to Rise. Oil Falls as Investors Downplay Fighting Between US, Iran.
+- S&P 500 closes higher as chip stocks rise and oil prices slide - CNBC
+  S&amp;P 500 closes higher as chip
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTFB2UlJXXzJYdkQtdUh4dlpudTZWWnNGRTNybUZZc3dvQ2twQ2lqZGVFbmFELTBIeFEyYW9DdE1IUkdpZlRGdkpnYlJNX2thQ1pXc2ZYRHVlMnpPUHNjTWFHSS1kM0Rac2NFdnVMemluc1lnODhKSXlF0gF8QVVfeXFMUHJaN2NNbDVKQTNoZTJEOHZtUlE3c2twbEMxaGNFbEdMdXpLTVh6QnFkZVpWNnBGV1lWUmk5Q1JZZ3NSclllVzF6YWJmZk9fVEFoazFmXzlXaXc3bFVrUDBkRVNtR0w4cEo3T2lUZ29QYUFxbXhrelA5c3FQdA?oc=5
+
+- Stock Market News, July 9, 2026: Investors Revive AI Trade, Sparking Tech Rally - WSJ
+  Stock Market News, July 9, 2026: Investors
   🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTltN2JVczljbkw1MGc3RlB3T2NPZm1aWDhfeFVsdlRMc05DQ09PdXdQYnJfSExKT2w1Vnl1Q2J0Wnh4ZVM2Ym9EZDhScGFjcHZTN2lFdU5YNlBONzNHVTBWVHNKWndFbkp2TFMxNGx5ejNVdVNSYm1nZDNhM1BlMWVqdmJacWs?oc=5
 
-- Goldman Bans Staff Prediction Markets Bets on Finance, Politics - Bloomberg.com
-  Goldman Bans Staff Prediction Markets B
-  🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnc5SVk5elB1cEhrbjVobWhVSHFFeTItX09XSHVNQVVCVEx5QTdXRWRVdkZRZnBzWFQ4ZzBRRzVOaHlIR19id2JkY1NHbU4xVlBrM0xvYmZrWlNOQldTV3pYSHR1Zk5IY3RTSFJyNG5VVjJVeXBQZ3BBdU9BbjJPbkZCNW9fUTEtQWZWMnJ4ZVNmd3huQUpJbzFQRU9TSWd1aFltcnBhTmE0cGJhZGJrT3l6dw?oc=5
+- Oil Gains, US Stock Futures Drop on New Strikes: Markets Wrap - Bloomberg.com
+  Oil Gains, US Stock Futures Drop
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2locW1PR3lVdVdpbUZmd1ZRd3ZZM3B2aG9pOG9nRjVmaHRuQmpiSUpWb3hkY0ZhYWZ3Snh0QjJrdXBGajE5b2RkcXBtV1l2LXlremVkSWlFb043RXpYeGpOU3F4TGtVandmNkNjRkdiQ3RTUU5Cclh2Z25zM01fQlh2TFEzdkZ2aVZ4eFVSamJ4Z1Nw?oc=5
 
-- Labor market will be positive for equities the rest of the year, says Carson Group's Ryan Detrick - CNBC
-  Labor market will be positive for equities the rest of the year, says
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa20wMGFibDZEV1JSWThQNFNRLW96U3lBMFFDR0xtUnl6ZGFvMXZoTGFiNFFyN0NDbUctSy1uN0s0MHQ4ZjNScVhjSnlYb1J5R1lJNDQ5a3pyNmNCMmVyTTNHVld3akJHWnEwVzdCVkxCQ3lIT1RYX3NkTGVHTzNpaW1lWUV6MVJkWWdYZTBUYXRudkpfTF9vdU1vUEJMRWpISl84RGdnNmxjcldjTVZJeTZoUTVENmhSSjdPOUowX0xYdHlmbmZJMmVmYzl1Q2NER1IxcQ?oc=5
+- IC Electricals IPO opens today: Grey market hints at a robust 44% listing premium - The Economic Times
+  IC Electricals IPO opens today. Grey market hints at a robust 44
+  🔗 https://news.google.com/rss/articles/CBMizwJBVV95cUxNbzB4MU5iRElpMzlZbE9YN3ZLMDZxVzY2QVZYRkNVTFlKbGJkNUphVU5rUVB0ZDBkazhmTFlfSDFhV1owTm03OWlfRkd3eGlOUldVQmxfblkzZmpfOWxBUjJBblRHLWpWWGpuNEY3M3R3VWtUY0tYR25jLU9YUW1EcjNIc1hMX3VfNW16UHBERkhKdXp1SmxkVElvc3h6YW5lTThwY3ZENTRHRDFyaVBPM0tLQXY0TGxqQ2hrczRGaDFvWUQyZTB3ZnVyRHNMMUd0THhrTXFjdFJzUnNaVml6Vll4amlXOHlzTTY0U05zMEc5amhjd1pnaTVYaEp6TGFxaEpqR0E4cjBHWWNxdndTOFRYeEJUMzFkWTdOVnZqRlh6WGdOcjVEbXZiM09aMXpoMllCZk1wcmdlVWozeWJLMVJlZ0tqQ3BZSC0xbmZXOA?oc=5
 
-- Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding - CNBC
-  " target="_blank" size="5" target
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3ZDRlhMcjd2S1JjNXRDTE5xOXdvaFo3WmRzaEZYdlBEd2p4RU1KWnJHOGVILUtLQngyZ25uNXZPWUxiS2RJZlE0YlhtOE1pLUFpcVd0aHNnbk4tT2VWT1pWZU9SYm5nTDlrUktXX1NyTmc1MFp2MEJ0VjFLa0xXRC0xeXZMa1pLRkYycGNwY09zZDJqRHh0d2RJNnhFZklXTHV4QWdUWGRkNVFJ0gGyAUFVX3lxTFBaSVdWUWx1SWJXNU0zNnd0c09VSzlaYVJmNHJ4NzlHc183NHBIZFdfMUdnQmdWREwtVjY0X0x4YVpkTUthY201WWRJeERaRmM1V3k4am9qd21XNzFLT1hhNlpnOTNwUENCSHpqcncxeVpFQXZBSTZZSnhSUF9CTm1wRjE5NXN1X09TQWZpTEZGR01EVU5scmhiQS00eUY3Y1d6OVRFMnloZi00Ylg4Z291U0E?oc=5
+- Trade Spotlight: How should you trade Alembic Pharma, Alkyl Amines Chemicals, JSW Infrastructure, Syrma... - Moneycontrol.com
+  " target="_blank">Trade Spotlight: How should
+  🔗 https://news.google.com/rss/articles/CBMitAJBVV95cUxNNEpDb251Z3MzY25GX3dDRTRQc3FNUHRnNjNqTk9Zb2IxWmgtNjN6aGx4SG1qOGoyWHdIS2F6Qnd2VWF0Ulp2UDNiLThydExoVWlTQWJTV0w3N0pxX1oxbmY5M0xCV0Uyc1BpaTg4d2dISk5Dak5xTDBNZ1lEc0NDTlJTbTdHNUpKdGUzeGh5Tm9kYkNTQXluVU9waEZqR3dyaF9mU0J3S01OaVpPNTM1eWs3VXlnZ1Ayd3M5TF8xVzJhVk5iS0V0TWdyYWRsb0lMUkdBZHhBUmdWbDFraGgxNVVyaU41eUE4Q1hMZV9JSFBWUW5OT3BnR3I2clNXcFVjbHdXT0ljS1I3ckZrdzZPMlE2TUJSb2VNZ0x1YjUzNzA3VGt1Zm16d3MtcTZYdDVfcjJTQdIBugJBVV95cUxPTFgxS2Z3TGRHS0MwSTZUU0pkSGlmekJ2QWJuUnlwTnk2eUJFN0d4ZG9JZlFMdnA4WkJkalNpWXkxOVlsMWFSakNxX2ZrRXZlLXpYam5RMzlrM202WUVXWmJsdzdmcXg3VGt5VFpreTE3QThVNnpjZDJwa2IzWXJIVmxrMTRyckJzLUxHYktnTk9SUFRoajMteUR5ekJObjJPLWl0S0FLbVZfRUNxanNIY3NTTWdVTWVWVFdGOFVnX2NJcmlMYUUtVlZMVUQ4cC1SRXhLZEx5ODlsczFRNU9rWkpLdzdRZGV2R3QwaC12cFJ1ZEdzZktzcTBOTkQwYTk2SEU0TUl6WnJzNkZxU0REMXZqLWN5ZGw4aUV3bWVYMVgxZE1nTDkxa2pwNE5TS2hHVnB6dnJ6dk9GZw?oc=5
 
-- China may struggle to fund Xi Jinping’s tech dreams - The Economist
-  China may struggle to fund Xi Jinping�
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxQczVRbnlMNGNNYlVBZmQ3dzlITXlFOF9rMjNva3VfREQxUk5uaFU2WFhUTDA2NnFGS2lGM2xmc1lodEVWX2drNEgzdEprWEdrMjBmb2Z5SV96d2xQOFRTN0VZRlRSbTR1aklxdGRlb0NVQjFjcEF2N2xoU3o1RkcyWlh5dWZpWHhEVkNBSnFPdjhWaHpRQXNTQ1pMbHNrUEd6bGxWQWhOdHlhb1dDc2c?oc=5
+- IC Electricals IPO opens today: Grey market hints at a robust 44% listing premium
+  IC Electricals IPO received an overwhelming response from investors. Public issue was subscribed 420.09
+  🔗 https://economictimes.indiatimes.com/markets/ipos/fpos/ic-electricals-ipo-opens-today-grey-market-hints-at-a-robust-44-listing-premium/articleshow/132301172.cms
 
-- Groww responds to Nithin Kamath tweet: Direct mutual funds remain free for DIY investors
-  Groww assures investors direct mutual funds remain free for do-it-yourself users. The platform stated its commitment to zero-commission
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/groww-responds-to-nithin-kamath-tweet-direct-mutual-funds-remain-free-for-diy-investors/articleshow/132294144.cms
+- Oil Price Today (July 10): Crude oil up 6% this week as US and Iran continue attacks. Where are prices headed?
+  Both crude benchmarks were set to end the week higher. Brent was on course to gain about 6%, while WTI was poised
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-10-crude-oil-up-6-this-week-as-us-and-iran-continue-attacks-where-are-prices-headed/articleshow/132301147.cms
 
-- Sebi cancels registration of 12 research analysts over unpaid renewal fees
-  Sebi has cancelled twelve research analyst registrations for failing to pay renewal fees. Sebi initiated summary proceedings after receiving no replies to issued notices.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registration-of-12-research-analysts-over-unpaid-renewal-fees/articleshow/132293957.cms
+- Positive Breakout: These 14 stocks cross above their 200 DMAs
+  As long as the stock is priced above the 200-day SMA on the daily timeframe, it
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-14-stocks-cross-above-their-200-dmas/slideshow/132301123.cms
 
-- Costco shares fall over 4% as investors look past strong June sales
-   Costco shares fell over 4% despite strong June sales. Investors focused on valuation concerns and uneven regional growth.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/costco-shares-fall-over-4-as-investors-look-past-strong-june-sales/articleshow/132293680.cms
+- Goldman bans staff from participating in finance, politics prediction markets, source says
+  The policy aims to prevent conflicts of interest with the bank. Violations could lead to disciplinary action and forfeiture of gains.
+  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-bans-staff-from-participating-in-finance-politics-prediction-markets-source-says/articleshow/132301026.cms
 
-- US markets brace for renewed funding pressure as leverage rises
-  US equity funding markets remain strained as high demand for leverage, driven by tech and AI stock enthusiasm, keeps repo rates elevated. Despite some easing, risks persist due to limited dealer balance sheet capacity and concentrated positions.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-brace-for-renewed-funding-pressure-as-leverage-rises/articleshow/132293482.cms
+- Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher
+  
+  🔗 https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tcs-groww-share-price-10-july-2026/liveblog/132300988.cms
 
-- Zerodha will keep direct mutual fund plans for free, says Nithin Kamath
-  Zerodha founder Nithin Kamath reaffirmed the company’s commitment to offering direct mutual funds free of charge. He said Coin has helped investors save
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/zerodha-will-keep-direct-mutual-fund-plans-for-free-says-nithin-kamath/articleshow/132292800.cms
+- PM Modi in Australia updates: India, Australia seal landmark pacts on nuclear energy and defence - The Hindu
+  PM Modi in Australia updates: India, Australia seal landmark pacts on
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
+
+- ‘Like a father to us’: pride and protest as thousands flock to see Narendra Modi in Melbourne - The Guardian
+  ‘Like a father to us’: pride and protest as thousands flock
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmNoVUNPSFFWYnJ3aDJFVlN4N09Yc3dTb1pBTTJkVWVwVkZlRjRVeG9HQ05JV2xobkVtMkNTdmpnYkNVR216UEZKN1ZKbmdBMFZiVFRiWVFpM2J1bWFPMW1zS2szQVhkeTZnREdiNlFVaVRiQS1PZXhaZFlsNXcwRE5ERXM1QVdjWkhaUDdLZExVNzdHczZ2SEJPeC11QkFINHFnc0NNd2JpZ3c?oc=5
+
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
+
+- New Envoys, Old Tensions: Bangladesh-India Ties Enter Fresh Phase - NDTV
+  New Envoys, Old T
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3QwOWI4UWxpZHFZaXFia2tLNDcxZTloV29iQjJHV3VsalBVdnZpYzJ4WmdSVW5QeTN6NHlEejJTTmVWOWJqYlpuRXItNjJlTmtCYU80M3BXR1h6T2dJaUliRUhUYU8tYlh0VmdzU045Ujd6Vlk0R281b21GbnNrN2tUQlFXWjZvbW5jdHhfN1lCMzhabFRGR1dVVnBJb1hFYnNPMW1vb9IBrwFBVV95cUxNZGRBdDYwM0RpYzJiTEpFU3ZhTEJmemtCM1NONGZHbXc1UDd4cFFneXBKeF85TUpIRFQ2TS1Ob3hhTEJmRXN6MzBFNTVWdmN2cG52S2ZSdzdFMGZuWjRPbmF0b0dwSUZlNS1ENW55VE5KSUQtN29XVHg4MFYxemx1SUFQMk0xalNqcGJrY0QzNmNURngyeFItNU5aVlJjZmJ1MEFKRllaZThSUkdUR0pN?oc=5
+
+- India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman - News On AIR
+  India continues to emerge as preferred destination for Global Capability Centres, says
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOTF8zNGdOVnFjeW9kRFZKVVFpcTBNRUFYOXFwSFlvdnkyWE93ZW5WOXMyb2E1UTk5MGtuSTNJU0xZTXFJSWZocVhPWHlQWXpOWG45WjJub3BmTm1iTnBiZGZwbEpkeWhjQTgxYUxPc202SW1QSy1CSktYc3dQMkRmeHEzbnFZVkZHajRNVTR2UkNaczVHVnFqYmhZSmZlNXNWZXVrLW5LcWlieWo2T09UaVlyY3Q4dVV3SG03VGxQdjdZN0hPVDhqQ1hFMTFRZw?oc=5
 
 - Keyword Wars: Google Appeals Delhi HC Verdict In Hindware Trademark Case
   More than a month after the Delhi High Court (HC) imposed a fine on Google for violating the trademark of.
@@ -160,45 +180,73 @@
   How Cumin Co. Is Building An Integrated Kitchenware Brand.
   🔗 https://inc42.com/startups/how-cumin-co-is-building-an-integrated-kitchenware-brand/
 
-- ‘11 planes shot down’: Trump revives Nobel Peace Prize pitch with India-Pakistan ceasefire claim | World News - Hindustan Times
-  ‘11 planes shot down’: Trump revives Nobel Peace Prize pitch
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdjRmVTVEN280a2g4OXdFYW1JUVpIVTZWN2g1TEEzZEJOMGFHLXRjR1JMQ19lRTZOTk12TEZ3OTlYbEZtSDBWQTdmVno5S3NKVTZNUkFjckhvSEFNRUZ6UThWRmZoN0NzdE1Ma3ZTZVB0em1DY3VwNnpuV2lwZkRBRGJtSHFIUUxaN3ZFTndUOU81VGc1bHBhVXhTTlJOTUF1N1NSR2hDc2tSaXJXZWdVYjRDdTBjTERGY0JJU0ZFTC1HRjdEQ0VScUl6S3R4OEthX2k2ei1ZbW12VmloekpfUXJGX2tqMFNMTzlRVdIB8gFBVV95cUxOd1J5akpwNVRJUU1nUFlBV0FCaVMtekViYkdOMTBrUzNRQllJZnoyYXN5ZWRwTzhsX3dMOUFjUHRnZTB2ekdmRUxKZVZJQnpaaDdLV1VNYTJsdW0yNGZvMlJKNUlMZTVhdTJBd0pvWjNSQzlWd01GbGdGM2tJYWdvX0VRTGFjXzBtd1NpVWhoWmxTWThkSVpjMVl6c2EzenZyeGVXSEx4VWlydWgyUmJMSmJaZ1VRODVtMzU1WFlXdmpaVTdRVHBtX2lwVjNDUFlaTjdvMGlPVlI0Mi1oZ3ZqRG1Ec1NGdmZMRTJxUHNZTE9Wdw?oc=5
+- PM Modi in Australia updates: India, Australia seal landmark pacts on nuclear energy and defence - The Hindu
+  PM Modi in Australia updates: India, Australia seal landmark pacts on
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
 
-- 7 Killed As Heavy Rains Lash UP; Red Alert Issued For Western Districts - NDTV
-  " target="_blank">7 killed As Heavy
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTM5cnV1UFpUeWpET0VPWnIwUUpOenZtQjJVZnFEY05QX3EzUEVsV2hHaV9POHh2dGVGODRPdUppMGRmeGJUY1Q5dmt4V0VvZmRlRWtmeldQNmN1V2VRcHVmaC1fRjhha245dnNDaDIzNndtZWxOLUxieHBQVlE1SXFaeUMzU3l4Wm9TWVljN1A4aWxVZ0ttODRONWF4aGJ0Q3RkUzYwd3huTlp6alNNVNIBuAFBVV95cUxOQnJDYWZfbkMyWTVmVWszT3pSR2tLeUVfY1hlSkExTHpVaWxZUkk1c2hZRG1FSjFQZkNKRmVfQTViY2hXYVV1Uk1GU1UyVkJfcnpSZXpSbkpNdXp2TmhvQXhNMFZtdnlNNDVmY1ppaHU3X0JTVklRSk02elgxY25DazNaMS1FdnB4QlFNRWpTWVF4R1lWSi16amhUVlhTenYxeXpSYjVlX3EzSm5pNGE2T0tVZ1gxLUc2?oc=5
+- ‘Like a father to us’: pride and protest as thousands flock to see Narendra Modi in Melbourne - The Guardian
+  ‘Like a father to us’: pride and protest as thousands flock
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmNoVUNPSFFWYnJ3aDJFVlN4N09Yc3dTb1pBTTJkVWVwVkZlRjRVeG9HQ05JV2xobkVtMkNTdmpnYkNVR216UEZKN1ZKbmdBMFZiVFRiWVFpM2J1bWFPMW1zS2szQVhkeTZnREdiNlFVaVRiQS1PZXhaZFlsNXcwRE5ERXM1QVdjWkhaUDdLZExVNzdHczZ2SEJPeC11QkFINHFnc0NNd2JpZ3c?oc=5
 
-- India raises questions at WTO over interim arrangement to implement e-comm pact - The Economic Times
-  India raises questions at WTO over interim arrangement to implement e-
-  🔗 https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVGtWam44T0tWV1ZVQmZYVXlraWdLOUx4b0pybGNRald5M090MlYtV1BhWFc1SXNVNXFJWC1scXgydmNBZzBaTWV3MTVJV0JBY1ZBR3F1Q0oyUGRGMkVQb1I3bWZvRU9uRy1HVjZ2VHpnek9PLWlJR0Fwc3p3YTdZWlRrMTBNR1cxbUpzTE9KOWxTRE02azN1Y1RrbXpvNGxrYUJCY3RCcE96RFJOVHFoNWFGbzFWTkkyN05yMXBMNFFhTkd1Zkx3VHpQNXg4aHhETkEzQ0FyLTVtSjRERnJSUFNWdndVZmZ0WklvWlFKR2owdFl1aHlBYkxLVl94S3NMS25ydWVJVDFPVE1fX01mdmFVemRNUk5tcHVvZEY0dFd5NTRtSXhGb2JMNTVaczAwakhSYXY0ZzVZLXFYYXBxdTZvN0tyQURIS0FXLW1DOFhvQdIB7gFBVV95cUxQaWRFZFpmTmRmZUtvelhZb25tbzVPZkp3d19HUWFpVHJQaUlUU1IwdlV1RUlWa1pUeXRZX29GQXJLTWJLNDRZeno5S1hYSjdDS3ZpNUVYdFcwZmpPY0NfbGN1WnM2blRHSWpfeV9nNFJPRXRXdDRfQ3JsWXBmX3dYczUxeGJBX0ltLXI5NHBpM0U5aVpxQmdzbzJlbFowVkl3aVhrTTVNYmR4amItRW13a0hYVENvbnRrTnFNbmJYbGZ1SUFJN01raDB6OFJLOG1CTVRzUUVKSkhDb0NSN3VsQThvSXNDUklyRDdqMWpn?oc=5
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
 
-- Abnormal Demographic Change In Border Areas Due To Infiltration: Amit Shah - NDTV
-  Amit Shah is the head of the National
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1Bjampsc0JvOEo4OFEzSmFDZGZqS0FPZDhGS1k5Q2ZwcE4yVFBJU09nVDFLZmVjd3R4ZUdzWHRBY3BvdVRIR1JFSkhBb3VrMUxta1cybDJfa1pGa1dIU3hkdUdsSWhPUm5EeHdidXVJbUc5ei1oV1ZLZGdIdGxvazhrVWN3c0pMeG1pSktmMVB0ZU5qTWRhU2F5VjdrREdwbzRuYWJtSHVialdKYUhFckwycjTSAbwBQVVfeXFMT1hWcUtacTA5M3cwN2JKdUpNVWVRZ1hkd2VKY1NTV2JYX2NBTzJ5X0VUYWlnNkI3NFZRbi15NnhhV2ZOMF9VaVdnVzdETHNMczhBLVMtMDJZMDhZV2FhUm1qOEo3TXdvaTVIaUlLd2hLQWYybG10ZnR4TlZiUWk3dWxYcVp5d2ZVU0Iwbmk4SWhtdGtkNzlqZ1A5MXJOc0ZhQjEzemZkUWxkLVAwWExrODl4b2thQ1o0a3N4cWU?oc=5
+- New Envoys, Old Tensions: Bangladesh-India Ties Enter Fresh Phase - NDTV
+  New Envoys, Old T
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3QwOWI4UWxpZHFZaXFia2tLNDcxZTloV29iQjJHV3VsalBVdnZpYzJ4WmdSVW5QeTN6NHlEejJTTmVWOWJqYlpuRXItNjJlTmtCYU80M3BXR1h6T2dJaUliRUhUYU8tYlh0VmdzU045Ujd6Vlk0R281b21GbnNrN2tUQlFXWjZvbW5jdHhfN1lCMzhabFRGR1dVVnBJb1hFYnNPMW1vb9IBrwFBVV95cUxNZGRBdDYwM0RpYzJiTEpFU3ZhTEJmemtCM1NONGZHbXc1UDd4cFFneXBKeF85TUpIRFQ2TS1Ob3hhTEJmRXN6MzBFNTVWdmN2cG52S2ZSdzdFMGZuWjRPbmF0b0dwSUZlNS1ENW55VE5KSUQtN29XVHg4MFYxemx1SUFQMk0xalNqcGJrY0QzNmNURngyeFItNU5aVlJjZmJ1MEFKRllaZThSUkdUR0pN?oc=5
 
-- West Bengal: Indian state on the boil after 11-year-old raped and drowned in Baruipur - BBC
-  West Bengal on the boil after 11-year-old raped
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYThVS3FTTVBDblpLZjI1YVMtOVRKQmFzQ0kyS0REWU1lek9xUmxaNy1JcFJEcVMyY2pEcjNfczRZVmZNLVJUWGhRR3QwZ01rTG42ZElLSllYUQ?oc=5
+- India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman - News On AIR
+  India continues to emerge as preferred destination for Global Capability Centres, says
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOTF8zNGdOVnFjeW9kRFZKVVFpcTBNRUFYOXFwSFlvdnkyWE93ZW5WOXMyb2E1UTk5MGtuSTNJU0xZTXFJSWZocVhPWHlQWXpOWG45WjJub3BmTm1iTnBiZGZwbEpkeWhjQTgxYUxPc202SW1QSy1CSktYc3dQMkRmeHEzbnFZVkZHajRNVTR2UkNaczVHVnFqYmhZSmZlNXNWZXVrLW5LcWlieWo2T09UaVlyY3Q4dVV3SG03VGxQdjdZN0hPVDhqQ1hFMTFRZw?oc=5
 
-- ‘11 planes shot down’: Trump revives Nobel Peace Prize pitch with India-Pakistan ceasefire claim | World News - Hindustan Times
-  ‘11 planes shot down’: Trump revives Nobel Peace Prize pitch
-  🔗 https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdjRmVTVEN280a2g4OXdFYW1JUVpIVTZWN2g1TEEzZEJOMGFHLXRjR1JMQ19lRTZOTk12TEZ3OTlYbEZtSDBWQTdmVno5S3NKVTZNUkFjckhvSEFNRUZ6UThWRmZoN0NzdE1Ma3ZTZVB0em1DY3VwNnpuV2lwZkRBRGJtSHFIUUxaN3ZFTndUOU81VGc1bHBhVXhTTlJOTUF1N1NSR2hDc2tSaXJXZWdVYjRDdTBjTERGY0JJU0ZFTC1HRjdEQ0VScUl6S3R4OEthX2k2ei1ZbW12VmloekpfUXJGX2tqMFNMTzlRVdIB8gFBVV95cUxOd1J5akpwNVRJUU1nUFlBV0FCaVMtekViYkdOMTBrUzNRQllJZnoyYXN5ZWRwTzhsX3dMOUFjUHRnZTB2ekdmRUxKZVZJQnpaaDdLV1VNYTJsdW0yNGZvMlJKNUlMZTVhdTJBd0pvWjNSQzlWd01GbGdGM2tJYWdvX0VRTGFjXzBtd1NpVWhoWmxTWThkSVpjMVl6c2EzenZyeGVXSEx4VWlydWgyUmJMSmJaZ1VRODVtMzU1WFlXdmpaVTdRVHBtX2lwVjNDUFlaTjdvMGlPVlI0Mi1oZ3ZqRG1Ec1NGdmZMRTJxUHNZTE9Wdw?oc=5
+- PM Modi in Australia updates: India, Australia seal landmark pacts on nuclear energy and defence - The Hindu
+  PM Modi in Australia updates: India, Australia seal landmark pacts on
+  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTjg1VmdrTlBuNHFkMGhnMUFIaUxRU3VmRWY5enhqZEpDeUh5eF9GcmRNVlBZa2dDMjVOUVpmU09sTnctQ3RqSUdjZUo5N2xIRVBEYmprclRaTzBqTUxHRDlqbGg5UzEzdlNTVDJuSVdFOFVPSURkUGs0S3NPX29YME45ZmtRcVdqNUYtT0JaZFFYa2cyX0dFWHRfckwwZmdNR1R6S09jU2RwMDFkOERwT3NvZXhUN3BDTW9aWWpON0pqUXVzaW1pNGN2Mlg4NzBPYXVxdEN2c3RtNGJFUW8wVE4tbXUwZDhxWXYtaWIwbkJnUHcxMVZDatIB_wFBVV95cUxOMFpLR2NDSXB1eE81b2E1anhZa0ZDUUJPRVh6TlhCUFBZLWZ2Rk52V0F1aGNfN1N5dV9oa3llZnZIVjJZX1VpU3c5MnlNMGU3ZXJ5RVVSNDZKeFZyN2tYV19PWmVDWGh5cFhVd0hDeTdBWXMtYkl5a2V1SGhOamZYZUhaMkxWazBIVG56RmZWcnV3MkMzY1BUQk1hYi1rcFpBQlVPbV82eGNMaUJWUi1xR0ttbXROMk1jc1kzT1hKajRFZW1oN2RRaVlrVWhPZmVqSEw4eVNMeENXS1RXZlR1cTN3ZVhjUHQ4NVN0R2U2VlE3RzFZcmNsblJramIzam8?oc=5
 
-- 7 Killed As Heavy Rains Lash UP; Red Alert Issued For Western Districts - NDTV
-  " target="_blank">7 killed As Heavy
-  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTM5cnV1UFpUeWpET0VPWnIwUUpOenZtQjJVZnFEY05QX3EzUEVsV2hHaV9POHh2dGVGODRPdUppMGRmeGJUY1Q5dmt4V0VvZmRlRWtmeldQNmN1V2VRcHVmaC1fRjhha245dnNDaDIzNndtZWxOLUxieHBQVlE1SXFaeUMzU3l4Wm9TWVljN1A4aWxVZ0ttODRONWF4aGJ0Q3RkUzYwd3huTlp6alNNVNIBuAFBVV95cUxOQnJDYWZfbkMyWTVmVWszT3pSR2tLeUVfY1hlSkExTHpVaWxZUkk1c2hZRG1FSjFQZkNKRmVfQTViY2hXYVV1Uk1GU1UyVkJfcnpSZXpSbkpNdXp2TmhvQXhNMFZtdnlNNDVmY1ppaHU3X0JTVklRSk02elgxY25DazNaMS1FdnB4QlFNRWpTWVF4R1lWSi16amhUVlhTenYxeXpSYjVlX3EzSm5pNGE2T0tVZ1gxLUc2?oc=5
+- ‘Like a father to us’: pride and protest as thousands flock to see Narendra Modi in Melbourne - The Guardian
+  ‘Like a father to us’: pride and protest as thousands flock
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmNoVUNPSFFWYnJ3aDJFVlN4N09Yc3dTb1pBTTJkVWVwVkZlRjRVeG9HQ05JV2xobkVtMkNTdmpnYkNVR216UEZKN1ZKbmdBMFZiVFRiWVFpM2J1bWFPMW1zS2szQVhkeTZnREdiNlFVaVRiQS1PZXhaZFlsNXcwRE5ERXM1QVdjWkhaUDdLZExVNzdHczZ2SEJPeC11QkFINHFnc0NNd2JpZ3c?oc=5
 
-- India raises questions at WTO over interim arrangement to implement e-comm pact - The Economic Times
-  India raises questions at WTO over interim arrangement to implement e-
-  🔗 https://news.google.com/rss/articles/CBMi0gJBVV95cUxNVGtWam44T0tWV1ZVQmZYVXlraWdLOUx4b0pybGNRald5M090MlYtV1BhWFc1SXNVNXFJWC1scXgydmNBZzBaTWV3MTVJV0JBY1ZBR3F1Q0oyUGRGMkVQb1I3bWZvRU9uRy1HVjZ2VHpnek9PLWlJR0Fwc3p3YTdZWlRrMTBNR1cxbUpzTE9KOWxTRE02azN1Y1RrbXpvNGxrYUJCY3RCcE96RFJOVHFoNWFGbzFWTkkyN05yMXBMNFFhTkd1Zkx3VHpQNXg4aHhETkEzQ0FyLTVtSjRERnJSUFNWdndVZmZ0WklvWlFKR2owdFl1aHlBYkxLVl94S3NMS25ydWVJVDFPVE1fX01mdmFVemRNUk5tcHVvZEY0dFd5NTRtSXhGb2JMNTVaczAwakhSYXY0ZzVZLXFYYXBxdTZvN0tyQURIS0FXLW1DOFhvQdIB7gFBVV95cUxQaWRFZFpmTmRmZUtvelhZb25tbzVPZkp3d19HUWFpVHJQaUlUU1IwdlV1RUlWa1pUeXRZX29GQXJLTWJLNDRZeno5S1hYSjdDS3ZpNUVYdFcwZmpPY0NfbGN1WnM2blRHSWpfeV9nNFJPRXRXdDRfQ3JsWXBmX3dYczUxeGJBX0ltLXI5NHBpM0U5aVpxQmdzbzJlbFowVkl3aVhrTTVNYmR4amItRW13a0hYVENvbnRrTnFNbmJYbGZ1SUFJN01raDB6OFJLOG1CTVRzUUVKSkhDb0NSN3VsQThvSXNDUklyRDdqMWpn?oc=5
+- ‘Double cross, first class’: Why India’s Modi wins so many foreign awards - Al Jazeera
+  ‘Double cross, first class’: Why
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBUemt1dVk1MUZGQ0l5dEhRZ1cwMWNzMTNPc3ExOFVoUk5BWG5sS040V3NKYS1PVkI5MjRzUXZaMGtkbzlGV3BtNFJ2Ym9EcFdTZGltT2xUdnBGcTBqdE55TVE3Z1NPb2ZDT3RodzRpa0w4djRublZQQkFIX3pDZHZ2RC1LRjRSV0xsVkRPaWRUdnRvQ3g1bFh1bzBseFRDTFhSaTVPeS1LVl8w0gGyAUFVX3lxTFA3RWU2X19ZWmxXWGNHU1ZwRnBlbU15X3VOd1k3aVhQTEd2R3ZjTWN1MWdmSDNfbFhxblJkN2lUTTlmNWhmYkl1OGJGRGxVZXFSN09LTXNQTEh3NXNDSmNYbjU4MzYwUEgxNWFMbnl1VUF1QXdvZjZsUjJGQ21WMmtOTEpialVRd1FuMXRnYnJobTM2UUhCRFREb2tCYm02TVlOVzl2QUlxMlliNHR3d01hMVE?oc=5
 
-- Abnormal Demographic Change In Border Areas Due To Infiltration: Amit Shah - NDTV
-  Amit Shah is the head of the National
-  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1Bjampsc0JvOEo4OFEzSmFDZGZqS0FPZDhGS1k5Q2ZwcE4yVFBJU09nVDFLZmVjd3R4ZUdzWHRBY3BvdVRIR1JFSkhBb3VrMUxta1cybDJfa1pGa1dIU3hkdUdsSWhPUm5EeHdidXVJbUc5ei1oV1ZLZGdIdGxvazhrVWN3c0pMeG1pSktmMVB0ZU5qTWRhU2F5VjdrREdwbzRuYWJtSHVialdKYUhFckwycjTSAbwBQVVfeXFMT1hWcUtacTA5M3cwN2JKdUpNVWVRZ1hkd2VKY1NTV2JYX2NBTzJ5X0VUYWlnNkI3NFZRbi15NnhhV2ZOMF9VaVdnVzdETHNMczhBLVMtMDJZMDhZV2FhUm1qOEo3TXdvaTVIaUlLd2hLQWYybG10ZnR4TlZiUWk3dWxYcVp5d2ZVU0Iwbmk4SWhtdGtkNzlqZ1A5MXJOc0ZhQjEzemZkUWxkLVAwWExrODl4b2thQ1o0a3N4cWU?oc=5
+- New Envoys, Old Tensions: Bangladesh-India Ties Enter Fresh Phase - NDTV
+  New Envoys, Old T
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3QwOWI4UWxpZHFZaXFia2tLNDcxZTloV29iQjJHV3VsalBVdnZpYzJ4WmdSVW5QeTN6NHlEejJTTmVWOWJqYlpuRXItNjJlTmtCYU80M3BXR1h6T2dJaUliRUhUYU8tYlh0VmdzU045Ujd6Vlk0R281b21GbnNrN2tUQlFXWjZvbW5jdHhfN1lCMzhabFRGR1dVVnBJb1hFYnNPMW1vb9IBrwFBVV95cUxNZGRBdDYwM0RpYzJiTEpFU3ZhTEJmemtCM1NONGZHbXc1UDd4cFFneXBKeF85TUpIRFQ2TS1Ob3hhTEJmRXN6MzBFNTVWdmN2cG52S2ZSdzdFMGZuWjRPbmF0b0dwSUZlNS1ENW55VE5KSUQtN29XVHg4MFYxemx1SUFQMk0xalNqcGJrY0QzNmNURngyeFItNU5aVlJjZmJ1MEFKRllaZThSUkdUR0pN?oc=5
 
-- West Bengal: Indian state on the boil after 11-year-old raped and drowned in Baruipur - BBC
-  West Bengal on the boil after 11-year-old raped
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYThVS3FTTVBDblpLZjI1YVMtOVRKQmFzQ0kyS0REWU1lek9xUmxaNy1JcFJEcVMyY2pEcjNfczRZVmZNLVJUWGhRR3QwZ01rTG42ZElLSllYUQ?oc=5
+- India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman - News On AIR
+  India continues to emerge as preferred destination for Global Capability Centres, says
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxOTF8zNGdOVnFjeW9kRFZKVVFpcTBNRUFYOXFwSFlvdnkyWE93ZW5WOXMyb2E1UTk5MGtuSTNJU0xZTXFJSWZocVhPWHlQWXpOWG45WjJub3BmTm1iTnBiZGZwbEpkeWhjQTgxYUxPc202SW1QSy1CSktYc3dQMkRmeHEzbnFZVkZHajRNVTR2UkNaczVHVnFqYmhZSmZlNXNWZXVrLW5LcWlieWo2T09UaVlyY3Q4dVV3SG03VGxQdjdZN0hPVDhqQ1hFMTFRZw?oc=5
+
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
+
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
+
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
+
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
+
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
+
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-09 19:33:30 UTC_
+_Last updated: 2026-07-10 02:32:07 UTC_
