@@ -1,44 +1,52 @@
 # 📰 Daily News Summaries
 
-- Flagging church attacks, AAP’s Sanjay Singh writes to PM Narendra Modi
+- Swiggy Instamart gets 9 FSSAI notices after consumers allege food safety violations
   
-  🔗 https://indianexpress.com/article/india/flagging-church-attacks-aaps-sanjay-singh-writes-to-pm-narendra-modi-10781371/
+  🔗 https://indianexpress.com/article/india/swiggy-instamart-gets-9-fssai-notices-after-consumers-allege-food-safety-violations-10781753/
 
-- ‘Grant not suspended even during Emergency’: CSDS faculty breaks silence on funding threat
+- Modi, Luxon elevate India-New Zealand ties, chart 2030 roadmap
   
-  🔗 https://indianexpress.com/article/india/grant-not-suspended-even-during-emergency-csds-faculty-breaks-silence-on-funding-threat-10781256/
+  🔗 https://indianexpress.com/article/india/india-new-zealand-strategic-partnership-roadmap-2030-modi-luxon-10781541/
 
-- 3 tiger skins in a week: Alarm bells in Chhattisgarh after probe links 2 cops to poachers
+- Gold Rate Today, July 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
   
-  🔗 https://indianexpress.com/article/india/3-tiger-skins-in-a-week-alarm-bells-in-chhattisgarh-after-probe-links-2-cops-to-poachers-10781228/
+  🔗 https://indianexpress.com/article/india/gold-rate-today-july-10-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10781538/
 
-- Nara Lokesh at Express Adda: ‘In Andhra, Namo means Naidu ji and Modi ji ki jodi’
+- India news Live Updates 11 July 2026: Three arrested for allegedly lynching man after 11-year-old rape victim’s body found in West Bengal
   
-  🔗 https://indianexpress.com/article/india/nara-lokesh-at-express-adda-in-andhra-namo-means-naidu-ji-and-modi-ji-ki-jodi-10781326/
+  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-11-july-2026-monsoon-landslides-uttarakhand-himachal-surat-floods-10781475/
 
-- In Assam Budget, satellite city near Guwahati airport, semiconductor push
+- Weather Live Updates: Kolkata braces for more rain, clear skies in Delhi and Mumbai
   
-  🔗 https://indianexpress.com/article/india/in-assam-budget-satellite-city-near-guwahati-airport-semiconductor-push-10781313/
+  🔗 https://indianexpress.com/article/india/weather-live-updates-north-braces-for-more-rain-downpour-hits-schools-transport-in-himachal-uttarakhand-10781426/
 
-- EU tells Instagram, Facebook to change addictive features or risk fines
+- How many astronauts should live on the moon? New study points to ideal number
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/eu-tells-instagram-facebook-to-change-addictive-features-or-risk-fines-10780752/
+  🔗 https://indianexpress.com/article/technology/science/how-many-astronauts-should-live-on-the-moon-new-study-points-to-ideal-number-10781664/
 
-- Tech Launches (July 10, 2026): ASUS Vivobook AI PCs, Dell Pro Precision workstations, and more
+- Stuffcool Lumo Review: A banana-shaped charging dock that moonlights as a night light
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/tech-launches-july-10-2026-asus-vivobook-ai-pcs-dell-pro-precision-workstations-and-more-10780677/
+  🔗 https://indianexpress.com/article/technology/tech-reviews/stuffcool-lumo-review-10781503/
 
-- OpenAI to shut down ChatGPT Atlas browser: Here’s why
+- Meta AI image detector fails to identify some of its own cropped AI images: Report
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/openai-to-shut-down-chatgpt-atlas-browser-heres-why-10780589/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ai-image-detector-fails-to-identify-some-of-its-own-cropped-ai-images-report-10781471/
 
-- Meta fixes smart glasses privacy issue amid ‘always-on’ AI glasses report
+- Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation
   
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-fixes-smart-glasses-privacy-issue-amid-always-on-ai-glasses-report-10780341/
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/
 
-- 53% of Indians bought a new smartphone early due to broken glass: Corning study
+- Apple sues OpenAI, ex-employees over alleged trade secret theft tied to hardware push
   
-  🔗 https://indianexpress.com/article/technology/53-of-indians-bought-a-new-smartphone-early-due-to-broken-glass-corning-study-10780242/
+  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-sues-openai-ex-employees-over-alleged-trade-secret-theft-tied-to-hardware-push-10781372/
+
+- Chairman's exit a 'challenging event' that raised governance questions: HDFC Bank CEO
+  An independent probe by Indian and US law firms found no basis for Atanu Chakraborty's allegations.
+  🔗 https://www.livemint.com/companies/news/hdfc-bank-sashidhar-jagdishan-atanu-chakraborty-11783741260939.html
+
+- German luxury carmakers split on hybrids as EV sales surge
+  BMW dismisses hybrids as costly and unnecessary. Mercedes is betting on them to ease
+  🔗 https://www.livemint.com/companies/news/german-luxury-carmakers-split-on-hybrids-as-ev-sales-surge-11783680203547.html
 
 - Plum picks Rothschild for a record $100 mn fundraise
   D2C beauty brand Plum is gearing up for its next phase of growth, tapping Rothschild &amp;amp; Co to raise $75-100 million. If successful, the round would set a record
@@ -52,33 +60,25 @@
   The filing comes amid heightened FSSAI scrutiny of food companies and quick commerce platforms
   🔗 https://www.livemint.com/companies/news/swiggy-fssai-prohibition-order-toing-app-licence-11783688463770.html
 
-- JSW Dulux to repopularise Dulux brand acquired from Akzo Nobel, steel network for growth
-  JSW Steel is expected to give the group's paint company a huge advantage.
-  🔗 https://www.livemint.com/companies/news/jsw-dulux-dulux-brand-akzo-nobel-steel-network-parth-jindal-paint-company-11783683254960.html
+- AI chip fever returns? SK Hynix  share price surges 13% after blockbuster $26.5 billion US listing
+  SK Hynix debuted strongly on Nasdaq, raising $26.5 billion. Despite recent semiconductor stock volatility, demand for AI infrastructure drives
+  🔗 https://www.livemint.com/market/stock-market-news/ai-chip-fever-returns-sk-hynix-share-price-surges-13-after-blockbuster-26-5-billion-us-listing-11783751790334.html
 
-- Swiggy clarifies FSSAI order on Toing, says it was licence update, not food safety issue
-  Swiggy announced that the FSSAI issued a prohibition order for its Toing platform due to licence updates, not food safety issues. The order was dated July 6, 2026
-  🔗 https://www.livemint.com/companies/swiggy-clears-the-air-on-fssai-prohibition-order-against-toing-cites-licence-update-not-food-safety-concerns-11783684895744.html
+- SBI Funds Management IPO: SBI offloads 1.42% stake to 30 investors ahead of issue | Check latest GMP, IPO details
+  The SBI Funds Management IPO opens for subscription from July 14 to 16, 2026. Kotak Mahindra is the lead manager. SBI completed a pre-IPO share transfer to
+  🔗 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-sbi-offloads-1-42-stake-to-30-investors-ahead-of-issue-check-latest-gmp-ipo-details-11783747611365.html
+
+- Greed and Fear report: Christopher Wood sees 'AI fatigue' setting in. Why Jefferies is turning bullish on India
+  AI-linked stock momentum is waning as investors discuss 'AI fatigue' Jefferies prefers India's undervalued market over overhyped AI stocks.
+  🔗 https://www.livemint.com/market/stock-market-news/greed-and-fear-report-christopher-wood-sees-ai-fatigue-setting-in-why-jefferies-is-turning-bullish-on-india-11783742010435.html
+
+- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 13 July 2026
+  The Indian stock market saw significant gains on July 10, with Sensex up 1.08% and Nifty 50 rising 1.02%. Investor confidence grew from strong earnings reports and positive
+  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-july-2026-11783739561129.html
 
 - Three PSU stocks with strong expansion plans
    PSU stocks with strong expansion plans and a growing order book.
   🔗 https://www.livemint.com/market/stock-market-news/good-psu-stocks-in-india-psu-stocks-to-buy-psu-companies-with-strong-growth-11783682677438.html
-
-- Fino Payments Bank June update: Deposits rise 11%, loan referrals surge 3.5x
-  Fino Payments Bank reported an 11% year-on-year growth in deposits to  ₹2,755 crore. Its loan referral business saw a 3.5x
-  🔗 https://www.livemint.com/market/stock-market-news/fino-payments-bank-june-update-deposits-rise-11-loan-referrals-surge-35x-11783703589983.html
-
-- Gold, silver prices today: Comex extends weekly losses amid renewed Middle East tensions
-  Gold fell to an intraday low of $4,081, while silver dropped to $59.25, both recording weekly losses.
-  🔗 https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-extends-weekly-losses-amid-renewed-middle-east-tensions-11783700259415.html
-
-- SK Hynix's shares surge 14% in blockbuster US market debut amid AI frenzy
-  SK Hynix's shares surged 14% in their Nasdaq debut after a $26.
-  🔗 https://www.livemint.com/market/stock-market-news/sk-hynixs-shares-surge-14-in-blockbuster-us-market-debut-amid-ai-frenzy-11783698713620.html
-
-- SBI Funds raises  ₹1,655 crore in pre-IPO share sale
-  Azim Premji's PI Opportunities Fund-II, 360 One, Neo Group, Prashant J
-  🔗 https://www.livemint.com/market/ipo/sbi-funds-anchor-investors-ipo-azim-premji-360-one-neo-group-3p-india-equity-fund-11783691442497.html
 
 - Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API
   Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and
@@ -104,61 +104,65 @@
   S&amp;P 500 closes higher to notch a winning week, helped by tech gains. Dow, S&amp.;P 500, Nasdaq futures diverge ahead of SK Hynix's mega US IPO.
   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5
 
+- FIIs turn net buyer this week, purchase Rs 4,670 crore in Indian markets - BFSI News
+  FIIs turn net buyer this week, purchase Rs 4,
+  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVp5X2pGd0lOMzhTTlpUZXpwNHVnNWstUmstbE5IcHkwNjlQMVRoX1hiN2VyOUg5alF4djNJeFFCemtLX1FIZlkxRnpwbzhCTGdZME44RUExazNLT3BRdWt6bGNvYzJOR2NlQVZBdWtiX0U4bFhwdFhJMG5DejNEZkhKcHhwSWljSm1nSzZ3by1mLXYwUjFlbXFIVHZMUzRTUE9pckJrVW1GUVFZekk5TzVtWENUM2p1bVZvQmtHMXoxemtlZkVpMktxbGxaR2V3NG5PZTdUX2Z3aVduMEFz0gHkAUFVX3lxTFAwRF9Xb0ljQThUS1VzQ0RHbGpTZXJYTDFwOWZ6WUFoeWNERm9OQjJEckUwamlpZlIza2xqNS1yd3RCSFNYOGREOUk3aEcxelJMWmtzYXRGQnJoYnVyZjN2ekwxLTNEVV94eFYxR2tMN3FYWkdDdzBQOE05TzJXUlFYMmdLNUFpOTlpUFBrd2tlQlhnbVZoQS1JdFhHQXBvV0tZdFZCeEhfTThXM2JmUVY1UWxsT01oYks4UlRiQWFFbUtmMV9CNDlDSzJaSFNOeTl5N1VRUXRUWFdlVTNvQ3J2bGRXTA?oc=5
+
+- 5 Things to Know Before the Stock Market Opens on Friday - Investopedia
+  5 Things to Know Before the Stock Market Op
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUVmb2RJMTZXMDJMeW5HdkN3ZG0ybmNUSDB2Wng1LWI4VTN0RDJESlJRM05lOEk3MFc4aW91dmxNRGlWVXBEdHFwcDU4d3Y3NFlXZlptOUpra0lNOGJickRST0FORjNKQVdKZlRoWUNPdmtzSW5BSzNaRDBzOEN3NW1nd2hOc2pIeTc0bjl4RUEzV05LcDV1bFFSSGxNNHhsN2MxNEthQ2NDWWM?oc=5
+
+- A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk. - The New York Times
+  A.I. Has Rewarded Investors. It May Now
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0N3c19IUm5td0tEZEZZYzlkY2p5akVHc3h4SUJQSDc0VkhGQUFBWGplcDQ4QlFUN3lMOVNoa1EtazVnNlduUjhQa2hnWnFDR05FWGNSYlBibkJmeGNfQnQzSGd4d0JTUW5xLWRndzhSc2hOSHJzWDk2QmlVeG8xSE1oeWpOdHRDMEE?oc=5
+
 - Stock Market Highlights, Sensex Today: Sensex Settles 827 Points Higher Amid Positive Global Cues - NDTV
   Stock Market Highlights, Sensex Today: Sensex Settles
   🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzdUU3RBMTF4UTNIS0FTTHhxNVprVUlIQndaNXptOVNycjNSQlo0SWR1VUR5REZVY1V1VFh3UDhJOW1sc0dtQl9Kd2ZJUUpuRXZ3ZWxVcnp6M215ZW1qZ3hIdUdPUUwtSlhWVnI3VWU3RUxJRjRHT3hXZVFlZ1RLVDRxVXRtbkFYYV9ocmpnNkVDNVdHYWhfeHAwN1o4bTFrWFVPRWFic0xDVmpWVFlKdkZHaGV2R3JTdjkxZmtIU0lyVUY3U1YzN3Jib3Y0Y08tMU5mMNIB3AFBVV95cUxQZVBfTDM1cVVvTXlGQ3V5Q1pXVUdPVC1OYmdSQVdBMmppczV6R3VScHJLbzUwY3Bxa0hKU0RfbDktTHdWY1JzVDB6ak91ZGZJc0V3SVVQSUMzdi0tT2p6RUg1eVUzdVJRajVQRUF1UGswXy1odWFnWEI5ZU02MDlLU1gxNllyOTBSbDdKZllmUkppU3VyLVNtYUcyQTF1dndjbURLN3Y5MEs1bEVwTElmSm1ocHZhMmdEZGUteVJBU3dpZ1hsbU9jdTFLSW9YSE5YLTVxZXRJVFZYRkw4?oc=5
 
-- Markets surge in early trade on buying in IT stocks; Sensex jumps nearly 700 points - The Hindu
-  Markets surge in early trade on buying in IT stocks; Sensex
-  🔗 https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXRGZzNNd1pqcFJJVGVqeERZUXU5TlVpcFNEbTk1YzVKMkozbU5WWGFwQ2FaN1hhV0ROZ1B6a3czejRlSjhQYWJBbTZOcFl4Tm9LYjgwWVVQS1dQc3hxcE9XS1p1UXpyUEhqUDRyLUQ3d280dThJUTkzZ2VSVUFwX3NYMF9DZGxPUXJVYTBZT1E0V1VMa1dXbUFxUEFhSEdIdzBsOXhONWN4MkdoaHpaMzRiZFdNYW4tODRfMC1tVy1TSzdpdE41ZzBKdktvUEpleTh3WmZWZWU5UUpX0gHjAUFVX3lxTE15Z0V0MHhkYW5vX240dlpfNWtRT1dhRGtUeDQ2ZE9OZHl6LXg0V1ZNU09BZTUtU1E3QUdaT2xLNFpVc0RRT2NIZ19NcjI0Qi1aS015Zk1OVm9CX096LVVJVjduRmhwQkkxcUlUS0hvaVIteUgzWXNncUFBUmpmQWFBTHBFLV9CQ3pqQXF3dG1SWW1mclY5dUdfa2thMUhXVkdHb3ZwckROS2RpNkI0M25wTGRfelNNTGRRN1pGejlVWnF2UHU4SFdGNWIwbE9VZkFMOEJoZ09xRXFzUkpKd19zb3d3?oc=5
+- Bitcoin holds near $64,000 despite ETF outflows; crypto market remains resilient
+  Bitcoin held near $64,000 despite significant ETF outflows on July 9. Major altcoins experienced mixed performance, with some falling and others rising. The global crypto market capitalization saw a slight increase to two trillion dollars.
+  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-64000-despite-etf-outflows-crypto-market-remains-resilient/articleshow/132326051.cms
 
-- Markets rally for 2nd day, sensex up 827 points - The Times of India
-  Markets rally for 2nd day, sensex
-  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUEzZkliUGd5bFZBc2VfdUstdzhYUWFZTmk5UnpmaVBsRV9KR1U2TkczXzA1UVdVc1gzSVZoYVg5dnNKM1RQYXJncjBzZm5ab1BwNy1ndV8zR2Z0QVFoN1dsWWxXWS1xQlRzd1FxZWUxeXdaeGVnSldJN3JlcnpYSmtvSUFUTlA1OFBhcXppNUZVWnpiZEJtMW1Ob2tlLUtuYURZTVl5VHYyQ1JiVGhUblROWGNoVjBTaGx6SjRLMF9iVGJ3S2ZNRlZ2RUfSAdIBQVVfeXFMUHlQNVJjM2tOR2FDY2dWMWFsYVN6VDJtbF9zWExWQkFlWVBTQVlNdGZxS1BnRnpGTkF0bE9PZzhtUUFseDc4U2xWUnlySTZ2NE1xa19zTTNfR1JPLTdJSFNDcExYSFFTQll0MkcwZ2FLSGdOLS1yZXMwejR5ZVJnT3lnb0hsY1lsNkJueGpaOXI3VW1tVm81NVMyVG9Ja1E1RUdMb1BaV2diamZuNloyZmRldEpTZkFyakRoN3NzSzNiYkQ5MThablBXTlF1NW8zaEpB?oc=5
+- F&amp;O Talk: Mid, smallcaps to continue outperformance as Q1 begins, says Sudeep Shah; outlines Kalyan Jewellers, TCS strategy
+  Indian stock markets saw significant gains on Friday. Sensex and Nifty rising over one percent. Strong earnings from TCS and positive global sentiment boosted investor confidence.
+  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-mid-smallcaps-to-continue-outperformance-as-q1-begins-says-sudeep-shah-outlines-kalyan-jewellers-tcs-strategy/articleshow/132326016.cms
 
-- Oil Market Report - July 2026 – Analysis - IEA – International Energy Agency
-  Oil Market Report - July 2026 – Analysis.
-  🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaEpPU1htOGQxQ2xSX3RjZGZYU2hZVTZOeXQtTTdsRzNveDZVX2lYcmdXNXdITjU0NUlHUjVUcmZzaEdSVlI0WHZ0RTVWaVhvZnIxam9IanlvVU1yMldrVlZ0VGN2QQ?oc=5
+- Unique Picks: 7 stocks held by a single MF scheme in June; rally up to 120% in 3 months
+   ETMarkets identified 40 stocks held exclusively by single mutual fund schemes. Select names delivered up to
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-7-stocks-held-by-a-single-mf-scheme-in-june-rally-up-to-120-in-3-months/slideshow/132325855.cms
 
-- US stocks today: US stocks end higher as investors turn to earnings season
-  US markets ended higher with the S&amp;P 500 near record levels. Investors remain cautious ahead of earnings season and inflation data. geopolitical tensions and interest rate uncertainty continue to shape broader market sentiment.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms
+- Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf
+  Iran's objective appears to be expanding its strategic influence over the Strait of Hormuz. Crude oil prices are expected to remain elevated due to ongoing geopolitical risks. India, a major oil importer, faces increased vulnerability from these market
+  🔗 https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms
 
-- Indian Bank drops capital raising plan on lower ECL hit
-  Indian Bank has cancelled its planned share sale to raise funds. The lender's expected credit loss impact is now estimated lower than previously calculated. This means the bank will not need to raise additional capital.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms
+- Midcap bets! InCred picks 6 stocks with up to 54% upside potential. See full list
+  InCred Equities has identified six midcap stocks across sectors with upside potential of up to 54%, citing attractive valuations and
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcap-bets-incred-picks-6-stocks-with-up-to-54-upside-potential-see-full-list/slideshow/132325125.cms
 
-- SK Hynix shares jump 14% in debut on US stock market riding on AI wave
-  SK Hynix shares surged on their Nasdaq debut. Firm leads in high-bandwidth memory chips essential for AI processing. Analysts anticipate continued capital expenditure growth in global cloud and AI infrastructure.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-14-in-debut-on-us-stock-market-riding-on-ai-wave/articleshow/132316923.cms
-
-- Morgan Stanley warns AI chip rally may be running out of steam
-  Morgan Stanley's Lisa Shalett warned semiconductor stocks may be overvalued. She expects slowing AI infrastructure spending and weaker pricing power to challenge chipmakers.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-warns-ai-chip-rally-may-be-running-out-of-steam/articleshow/132315698.cms
-
-- Circle shares surge 13% on getting regulatory approval to set up US trust bank
-   Circle secured final regulatory approval from the OCC for its national trust bank. This allows the stablecoin issuer to manage its own reserves and client crypto assets. Circle is the issuer of USDC, a stablecoin pegged to the U.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/circle-wins-final-regulatory-approval-to-establish-us-trust-bank-shares-rise/articleshow/132315669.cms
-
-- India news: PM Modi makes maiden trip to New Zealand - DW.com
-  PM Modi makes maiden trip to New Zealand
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5
-
-- Modi, first PM in NZ in 40 years, to capitalise on FTA, boost ties - The Times of India
-  Modi, first PM in NZ in 40 years, to capitalise on
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1puVUpQYVo2ZnJSekk4R3FLdHRTcnIzaUpaOGs2a3pFTmRua1N5NjU0eHZlOFNJNVNoMjdPaXQwYUJTM201ckg2R3djOFk3NDJKSVpIemgtd1YzNjhlT3R0aGhGbnJMbDBIcG9ZeFN6NVc4V19iakJsNHB1c1UzRF9MT2RkdGt3STJBYW1ka0ptZXk1cm1wVl9zbnY5VTJqdWdBQjdEcVhZTEo2OXIxOTktRmpNemZfcnBjOHVqWkpiUjVScDVENmVzVdIB0AFBVV95cUxObURNU05WTDZYZDlxWUh3Nnh6VmU4N2N2cmc1YmhPbHktYll1cGVqUGJRR1FwSDVwajZ1TTVYWFZSLUxqVVJ2eC1DTTBXWm93am52cDZObEMyenRnZ0l0Wl9tRE0ySG9fcEdjTzY5cXdBVmRmZzFnY2hESVkxRHR2T1ZtUWVfcWV3d2M3RUg1SjJtT2YwcUJpZmZBUnR5ZWpjU2s5TUxrSjY4VjdmUzh5dW9ON2lDdk1BSlF0RkFRTzFCMFpBaW1oeFV3ck9mY2hC?oc=5
-
-- PM Modi hails India-New Zealand FTA as ‘historic milestone’, says it will deepen bilateral ties - The Hindu
-  PM Modi hails India-New Zealand FTA as ‘historic milestone
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGtUQndSUUxaRFJqT0hjU1lLWjlCd2lKNXBNNDF1MjRXX3VMVl9ZUFNzZjFEOGRTU2tRY25hSmgwb3JQNkVHamZua0dINk9CUHRQRkhuRnlINkJ5S0plNDc3ZWo3NDlQLXBwMmRrTjdWNmt6bmYzUUpfVms0WTZpc3NLQkVSend5dUJVQ2ZqNmZjZW5zbFN6LVZGLWpyaUtiUTFmT3Q2SDhmNWNwcmVDSzUxR1hPMnfSAb4BQVVfeXFMT1c1WFhRU3FoNW5URFltRWdTcjFUeURtajdscGwtZi0zMHE5ZUZNbHNZOERKMzBIZjE4YTFlb1ZER0dsM1VDcmRTUEZmczJISTFRQWVqVmpxMTFjYUtwMW9HYWw3UXZaZTBDZlB4UDNucjhWUG9ub2ItMVpQa0sxM0RySVRUU2xWal80OGxyZURjWlVfNnRYQ0tSQ3dxRlZZaEZ4bENTcjMyS19hYXY4OEZYVnhzTEVhd3hkVnlmZw?oc=5
+- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
 - Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
   Israel's Rafael Turns To India For Iron
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
 
-- 30% deletions in Daman & Diu SIR draft roll - The Times of India
-  30% deletions in Daman & Diu
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxON2lxM3lnWG1hZHg3WHdabWUzOVk4SjBjNnh2NEZtUHppR0tYUS02djNFRjI0b3ptZ1dlRTVrN3dwRHBXdGlhY1hjYTVkZnJKaHZta0dJUXhuWW9SVDJNOS1mWFRqcW9lY2RLV0JJRTBodXluZUx6eFVNZDhyR214Ni1ud3hXR3NscVhlRkUyVUhuTnNHYktONGVveXI5dTZrX2RJbmZLRFpaNDRX0gGyAUFVX3lxTE1XcGkzRHhOdnEwR1AtQnZPZm81YmZxS2RKMlRtaDhDNWgxVDJPVFpXYTJDQm9qOGRmVkVmelRObjY1Ymg2UXNRLVNhMW9EYVVZUnUtUHVaV3ZLTzR2ZmRMTXFobkVkckJyOFd3OW9kREc2NVpzem5qQnZIR3NMX0NKMUhEYjR1UHpaV0lfZ0pDU2dicHRYQnlWa3hVYmVPcUp4Y1I2VmZFalFzcDlTWjVnUUE?oc=5
+- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
+  No Virat Kohli, no Sachin Tendulkar:
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+
+- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
+  The 11-year-old girl was raped and
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+
+- Emily Eden: The British woman in India who drew an empire in transition - BBC
+  Emily Eden was a British woman in India who drew an
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+
+- From Elevate Education To Aukera — Indian Startups Raised $72 Mn This Week
+  Indian startup funding remained largely flat in the second week of July. Between July 4 and July 10, Indian startups raised $1.2 billion
+  🔗 https://inc42.com/features/from-elevate-education-to-aukera-indian-startups-raised-72-mn-this-week/
 
 - [Update] WhatsApp & Telegram Submit Response To Centre’s Notice On Username Feature
   After WhatsApp, Telegram has also reportedly submitted its reply to the IT ministry.
@@ -176,89 +180,85 @@
   Ola Electric faces third Insolvency Plea, Gets NCLT Notice. Sterling E-Mobility Solutions and Anevolve Mando eMobility had initiated
   🔗 https://inc42.com/buzz/ola-electric-faces-third-insolvency-petition-gets-nclt-notice/
 
-- Why Truecaller & TRAI Are Clashing Over 140 And 1600 Number Tags
-  The Telecom Regulatory Authority of India (TRAI) has clarified the purpose of the 140 and 1600 number series.
-  🔗 https://inc42.com/buzz/why-truecaller-trai-are-clashing-over-140-and-1600-number-tags/
-
-- India news: PM Modi makes maiden trip to New Zealand - DW.com
-  PM Modi makes maiden trip to New Zealand
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5
-
-- Modi, first PM in NZ in 40 years, to capitalise on FTA, boost ties - The Times of India
-  Modi, first PM in NZ in 40 years, to capitalise on
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1puVUpQYVo2ZnJSekk4R3FLdHRTcnIzaUpaOGs2a3pFTmRua1N5NjU0eHZlOFNJNVNoMjdPaXQwYUJTM201ckg2R3djOFk3NDJKSVpIemgtd1YzNjhlT3R0aGhGbnJMbDBIcG9ZeFN6NVc4V19iakJsNHB1c1UzRF9MT2RkdGt3STJBYW1ka0ptZXk1cm1wVl9zbnY5VTJqdWdBQjdEcVhZTEo2OXIxOTktRmpNemZfcnBjOHVqWkpiUjVScDVENmVzVdIB0AFBVV95cUxObURNU05WTDZYZDlxWUh3Nnh6VmU4N2N2cmc1YmhPbHktYll1cGVqUGJRR1FwSDVwajZ1TTVYWFZSLUxqVVJ2eC1DTTBXWm93am52cDZObEMyenRnZ0l0Wl9tRE0ySG9fcEdjTzY5cXdBVmRmZzFnY2hESVkxRHR2T1ZtUWVfcWV3d2M3RUg1SjJtT2YwcUJpZmZBUnR5ZWpjU2s5TUxrSjY4VjdmUzh5dW9ON2lDdk1BSlF0RkFRTzFCMFpBaW1oeFV3ck9mY2hC?oc=5
-
-- PM Modi hails India-New Zealand FTA as ‘historic milestone’, says it will deepen bilateral ties - The Hindu
-  PM Modi hails India-New Zealand FTA as ‘historic milestone
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGtUQndSUUxaRFJqT0hjU1lLWjlCd2lKNXBNNDF1MjRXX3VMVl9ZUFNzZjFEOGRTU2tRY25hSmgwb3JQNkVHamZua0dINk9CUHRQRkhuRnlINkJ5S0plNDc3ZWo3NDlQLXBwMmRrTjdWNmt6bmYzUUpfVms0WTZpc3NLQkVSend5dUJVQ2ZqNmZjZW5zbFN6LVZGLWpyaUtiUTFmT3Q2SDhmNWNwcmVDSzUxR1hPMnfSAb4BQVVfeXFMT1c1WFhRU3FoNW5URFltRWdTcjFUeURtajdscGwtZi0zMHE5ZUZNbHNZOERKMzBIZjE4YTFlb1ZER0dsM1VDcmRTUEZmczJISTFRQWVqVmpxMTFjYUtwMW9HYWw3UXZaZTBDZlB4UDNucjhWUG9ub2ItMVpQa0sxM0RySVRUU2xWal80OGxyZURjWlVfNnRYQ0tSQ3dxRlZZaEZ4bENTcjMyS19hYXY4OEZYVnhzTEVhd3hkVnlmZw?oc=5
+- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
 - Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
   Israel's Rafael Turns To India For Iron
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
 
-- 30% deletions in Daman & Diu SIR draft roll - The Times of India
-  30% deletions in Daman & Diu
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxON2lxM3lnWG1hZHg3WHdabWUzOVk4SjBjNnh2NEZtUHppR0tYUS02djNFRjI0b3ptZ1dlRTVrN3dwRHBXdGlhY1hjYTVkZnJKaHZta0dJUXhuWW9SVDJNOS1mWFRqcW9lY2RLV0JJRTBodXluZUx6eFVNZDhyR214Ni1ud3hXR3NscVhlRkUyVUhuTnNHYktONGVveXI5dTZrX2RJbmZLRFpaNDRX0gGyAUFVX3lxTE1XcGkzRHhOdnEwR1AtQnZPZm81YmZxS2RKMlRtaDhDNWgxVDJPVFpXYTJDQm9qOGRmVkVmelRObjY1Ymg2UXNRLVNhMW9EYVVZUnUtUHVaV3ZLTzR2ZmRMTXFobkVkckJyOFd3OW9kREc2NVpzem5qQnZIR3NMX0NKMUhEYjR1UHpaV0lfZ0pDU2dicHRYQnlWa3hVYmVPcUp4Y1I2VmZFalFzcDlTWjVnUUE?oc=5
+- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
+  No Virat Kohli, no Sachin Tendulkar:
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
 
-- India news: PM Modi makes maiden trip to New Zealand - DW.com
-  PM Modi makes maiden trip to New Zealand
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5
+- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
+  The 11-year-old girl was raped and
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
 
-- Modi, first PM in NZ in 40 years, to capitalise on FTA, boost ties - The Times of India
-  Modi, first PM in NZ in 40 years, to capitalise on
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1puVUpQYVo2ZnJSekk4R3FLdHRTcnIzaUpaOGs2a3pFTmRua1N5NjU0eHZlOFNJNVNoMjdPaXQwYUJTM201ckg2R3djOFk3NDJKSVpIemgtd1YzNjhlT3R0aGhGbnJMbDBIcG9ZeFN6NVc4V19iakJsNHB1c1UzRF9MT2RkdGt3STJBYW1ka0ptZXk1cm1wVl9zbnY5VTJqdWdBQjdEcVhZTEo2OXIxOTktRmpNemZfcnBjOHVqWkpiUjVScDVENmVzVdIB0AFBVV95cUxObURNU05WTDZYZDlxWUh3Nnh6VmU4N2N2cmc1YmhPbHktYll1cGVqUGJRR1FwSDVwajZ1TTVYWFZSLUxqVVJ2eC1DTTBXWm93am52cDZObEMyenRnZ0l0Wl9tRE0ySG9fcEdjTzY5cXdBVmRmZzFnY2hESVkxRHR2T1ZtUWVfcWV3d2M3RUg1SjJtT2YwcUJpZmZBUnR5ZWpjU2s5TUxrSjY4VjdmUzh5dW9ON2lDdk1BSlF0RkFRTzFCMFpBaW1oeFV3ck9mY2hC?oc=5
+- Emily Eden: The British woman in India who drew an empire in transition - BBC
+  Emily Eden was a British woman in India who drew an
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
 
-- PM Modi hails India-New Zealand FTA as ‘historic milestone’, says it will deepen bilateral ties - The Hindu
-  PM Modi hails India-New Zealand FTA as ‘historic milestone
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGtUQndSUUxaRFJqT0hjU1lLWjlCd2lKNXBNNDF1MjRXX3VMVl9ZUFNzZjFEOGRTU2tRY25hSmgwb3JQNkVHamZua0dINk9CUHRQRkhuRnlINkJ5S0plNDc3ZWo3NDlQLXBwMmRrTjdWNmt6bmYzUUpfVms0WTZpc3NLQkVSend5dUJVQ2ZqNmZjZW5zbFN6LVZGLWpyaUtiUTFmT3Q2SDhmNWNwcmVDSzUxR1hPMnfSAb4BQVVfeXFMT1c1WFhRU3FoNW5URFltRWdTcjFUeURtajdscGwtZi0zMHE5ZUZNbHNZOERKMzBIZjE4YTFlb1ZER0dsM1VDcmRTUEZmczJISTFRQWVqVmpxMTFjYUtwMW9HYWw3UXZaZTBDZlB4UDNucjhWUG9ub2ItMVpQa0sxM0RySVRUU2xWal80OGxyZURjWlVfNnRYQ0tSQ3dxRlZZaEZ4bENTcjMyS19hYXY4OEZYVnhzTEVhd3hkVnlmZw?oc=5
-
-- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
-  Israel's Rafael Turns To India For Iron
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
-
-- 30% deletions in Daman & Diu SIR draft roll - The Times of India
-  30% deletions in Daman & Diu
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxON2lxM3lnWG1hZHg3WHdabWUzOVk4SjBjNnh2NEZtUHppR0tYUS02djNFRjI0b3ptZ1dlRTVrN3dwRHBXdGlhY1hjYTVkZnJKaHZta0dJUXhuWW9SVDJNOS1mWFRqcW9lY2RLV0JJRTBodXluZUx6eFVNZDhyR214Ni1ud3hXR3NscVhlRkUyVUhuTnNHYktONGVveXI5dTZrX2RJbmZLRFpaNDRX0gGyAUFVX3lxTE1XcGkzRHhOdnEwR1AtQnZPZm81YmZxS2RKMlRtaDhDNWgxVDJPVFpXYTJDQm9qOGRmVkVmelRObjY1Ymg2UXNRLVNhMW9EYVVZUnUtUHVaV3ZLTzR2ZmRMTXFobkVkckJyOFd3OW9kREc2NVpzem5qQnZIR3NMX0NKMUhEYjR1UHpaV0lfZ0pDU2dicHRYQnlWa3hVYmVPcUp4Y1I2VmZFalFzcDlTWjVnUUE?oc=5
-
-- India news: PM Modi makes maiden trip to New Zealand - DW.com
-  PM Modi makes maiden trip to New Zealand
-  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHdubUxXYUtNeTl6X2Q1NXlzZk4xd2U0SG5tdXFveUVETGoxWWU3MVJtOWQwMnlsRVQ4ajVUaFZmOWZEN1dEVzZfX2dvSm5CaHc5QVhhZURfTDRhSkxnOXFRWVVfQjUzcFJjVzgtOG5QM3VLU25sa0dyRjlXWjJ6YlZ4TUdLQlpjZHJKS0xjOXlHUTJWT3F3S1U0NzhPeHVwRHVuRi0xdw?oc=5
-
-- Modi, first PM in NZ in 40 years, to capitalise on FTA, boost ties - The Times of India
-  Modi, first PM in NZ in 40 years, to capitalise on
-  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1puVUpQYVo2ZnJSekk4R3FLdHRTcnIzaUpaOGs2a3pFTmRua1N5NjU0eHZlOFNJNVNoMjdPaXQwYUJTM201ckg2R3djOFk3NDJKSVpIemgtd1YzNjhlT3R0aGhGbnJMbDBIcG9ZeFN6NVc4V19iakJsNHB1c1UzRF9MT2RkdGt3STJBYW1ka0ptZXk1cm1wVl9zbnY5VTJqdWdBQjdEcVhZTEo2OXIxOTktRmpNemZfcnBjOHVqWkpiUjVScDVENmVzVdIB0AFBVV95cUxObURNU05WTDZYZDlxWUh3Nnh6VmU4N2N2cmc1YmhPbHktYll1cGVqUGJRR1FwSDVwajZ1TTVYWFZSLUxqVVJ2eC1DTTBXWm93am52cDZObEMyenRnZ0l0Wl9tRE0ySG9fcEdjTzY5cXdBVmRmZzFnY2hESVkxRHR2T1ZtUWVfcWV3d2M3RUg1SjJtT2YwcUJpZmZBUnR5ZWpjU2s5TUxrSjY4VjdmUzh5dW9ON2lDdk1BSlF0RkFRTzFCMFpBaW1oeFV3ck9mY2hC?oc=5
-
-- PM Modi hails India-New Zealand FTA as ‘historic milestone’, says it will deepen bilateral ties - The Hindu
-  PM Modi hails India-New Zealand FTA as ‘historic milestone
-  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGtUQndSUUxaRFJqT0hjU1lLWjlCd2lKNXBNNDF1MjRXX3VMVl9ZUFNzZjFEOGRTU2tRY25hSmgwb3JQNkVHamZua0dINk9CUHRQRkhuRnlINkJ5S0plNDc3ZWo3NDlQLXBwMmRrTjdWNmt6bmYzUUpfVms0WTZpc3NLQkVSend5dUJVQ2ZqNmZjZW5zbFN6LVZGLWpyaUtiUTFmT3Q2SDhmNWNwcmVDSzUxR1hPMnfSAb4BQVVfeXFMT1c1WFhRU3FoNW5URFltRWdTcjFUeURtajdscGwtZi0zMHE5ZUZNbHNZOERKMzBIZjE4YTFlb1ZER0dsM1VDcmRTUEZmczJISTFRQWVqVmpxMTFjYUtwMW9HYWw3UXZaZTBDZlB4UDNucjhWUG9ub2ItMVpQa0sxM0RySVRUU2xWal80OGxyZURjWlVfNnRYQ0tSQ3dxRlZZaEZ4bENTcjMyS19hYXY4OEZYVnhzTEVhd3hkVnlmZw?oc=5
+- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
 - Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
   Israel's Rafael Turns To India For Iron
   🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
 
-- 30% deletions in Daman & Diu SIR draft roll - The Times of India
-  30% deletions in Daman & Diu
-  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxON2lxM3lnWG1hZHg3WHdabWUzOVk4SjBjNnh2NEZtUHppR0tYUS02djNFRjI0b3ptZ1dlRTVrN3dwRHBXdGlhY1hjYTVkZnJKaHZta0dJUXhuWW9SVDJNOS1mWFRqcW9lY2RLV0JJRTBodXluZUx6eFVNZDhyR214Ni1ud3hXR3NscVhlRkUyVUhuTnNHYktONGVveXI5dTZrX2RJbmZLRFpaNDRX0gGyAUFVX3lxTE1XcGkzRHhOdnEwR1AtQnZPZm81YmZxS2RKMlRtaDhDNWgxVDJPVFpXYTJDQm9qOGRmVkVmelRObjY1Ymg2UXNRLVNhMW9EYVVZUnUtUHVaV3ZLTzR2ZmRMTXFobkVkckJyOFd3OW9kREc2NVpzem5qQnZIR3NMX0NKMUhEYjR1UHpaV0lfZ0pDU2dicHRYQnlWa3hVYmVPcUp4Y1I2VmZFalFzcDlTWjVnUUE?oc=5
+- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
+  No Virat Kohli, no Sachin Tendulkar:
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
 
-- From faith to technology - more of India's wealthy are giving to science - BBC
-  From faith to technology - more of India's wealthy are
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbXNGVDVmWWltQzhDLXRFNGJ1ZHZ1NW5vdzdWa3BibDdJbTcwaDhIMm5yY3dCZi1LVTBKaThPemxwak5aaUpLV0lxY09iTnhXTUM3Qmo3NnY1UQ?oc=5
+- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
+  The 11-year-old girl was raped and
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+
+- Emily Eden: The British woman in India who drew an empire in transition - BBC
+  Emily Eden was a British woman in India who drew an
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+
+- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
+
+- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
+  Israel's Rafael Turns To India For Iron
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
+
+- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
+  No Virat Kohli, no Sachin Tendulkar:
+  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+
+- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
+  The 11-year-old girl was raped and
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+
+- Emily Eden: The British woman in India who drew an empire in transition - BBC
+  Emily Eden was a British woman in India who drew an
+  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
 
 - The public deserves socially beneficial technology in return for its AI investment - Computer Weekly
   The public deserves socially beneficial technology in return for its AI
   🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3E2bHJRQkxPVGtlZGRHcmN1MkVnSlVSNTJKQjFMMGhRT0Q4Q1k4d1l0YXFmcGxfSFF4aEdGd3lDSGc4Wk9UNVBVeXVkOWpPX1J2bTVrOTlBR2NKLV9wcnJoT2xNQ3ZJMHVsT2Z3WHl6eGVtaDAzUDFmRnEyNWdfdjVwbGFUeXZPY3JpMkZ1cW05Y0llckd2c0dVbFBhVzRkc0wtcTdnVDVpVnVzNTdkNERDQ3kxclNVVlRFRXRR?oc=5
 
-- 630 senior technology professionals keen to return to Mangaluru region under Silicon Beach Programme’s HomeComing initiative - The Hindu
-  630 senior technology professionals keen to return to Mangaluru region under Silicon Beach
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNRmtSc2FVM1pTRkp4V0liM3V1bDNSajRkZHoyUWhNUjBuSjBFS2RSal82NGNpMk1xMm5SQndpZEU0aEZOb3pMVU56dy1fWkVKT1RWZ3pSdnptbVBuUVJ4dG1VLU9icEpoNUhBMENMdElTTUtzWjdIVF9oQldQa3BzLXZaTzREQWUzbjVmdVNsbWhJVmNlTVJKRnAwcFJoUVZzSTdVM0VhT2JsRERzLXVJWlJxSl9jMWViQmIzclNrdkc5WmpYUjE4LUxVSzQwNzNYb3lXWFJyMFRZSkVLODRLSFlWSjJMUE0wVlhMU01IeE01cjRZRTJ1N09tWDJtTUlvdFl5S1liRGJZd1JQR2JTRjk0c1RYWGRq0gGfAkFVX3lxTE5ObVE0MkpEM05wVHVvYVF0VFRkWU9yNVNjMXV0bVBMaWh1d2UybmMyd3JzOUxjclhNMW1kbWJPZ0VWd0tLdnR2RnIyZjg2WDg2eVdHUFlzdUFYT3Z1cWdkNFhla1pxNElxTndkYU5acEE2R3pFdmVqblBMT0V0RmtrcGYyMVpBNjVXUjNvN1FENV94MEZSZldBcHZDd2pXc0dkMS1aYTNYUnAwNnVUaGtMTDhCNWg2NzZZbjJ2VThIUWFlUXpCSTFjUmt2VmE2R25lYjdKZHpLWWRackRuVFNLZHNpLWdMWWN5V3RlNW5ZblROSUJXT2ZITGRPd2p1aDlobmRaUWRrRGtlTlRyN19WQWtWdmJrdkRqQmNudWln?oc=5
+- Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India’s Telecom Sector and establishing a dedicated “Communication Technology Task Force” - Pib.gov.in
+  Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India�
+  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQemYzVVJ1VWN1UG5hWW1fcnU4YVczMk04UXVjTkpuM3JJT2JDdTNFVGpLdnMyVEFZWl92SzVCcXNKa3h0d3pfMHJ0NkZUaXExdnRBSHF6dWxfQkw4ck9OZHRLa2lIaTVQ?oc=5
 
 - Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting energy th - The Times of India
   Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting
   🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxORlVSMjc3OVI5Vi1yRFVrSnd1X1NCdFZjTC1ENkktSTFaRWs1dnFGdk5SOW9rXzJTTkpveWVHdTdsNmxHUDkycmZIZGNicmw5SXBoVWpzSUN0TGVGN1VrQ3FaY3JUYWdXNEJ2TXRnSTFidFJKdmxLYXBuMVRBS3lhdXQzNHpkUWVEUTdnS2Q0bjM2eS1VUENCMDc2Tl9DaWpaRGg1V3RTTXF3WHBUaEJad3I2Qk8zcXNWQmM2REFfeFJjeUJFVHdYbEdMZEkzQnlZczNidF9oRlpuR0xkWWd5WlJXMTlQQjF3cTNVcHZORE56RVRLSHdoYUJuY2tTVmxZS0VLaXRZQmpwTlZnc0pDYVB2OHotS1pPeVpndVd6MV9DMXFJS2l5NWEzVE1iZWFCamR0MWM0Q3pRTUlORENJYUhXSnUzeTVJUkZrQzFQc1l6STZBQWhxbNIB3gJBVV95cUxOWVRTZXB3QkFXbTVEckI3WmlBWldZUnpfNFJ3ak1obnRfUVhtX19yakdCUEtlNm5vNmNOcUd5TjBFX1dYUWk0Q2duZVFqUzJYNDFBejU1VU1CZlhKbGlYbkRza3duZEtEbWVHU3VMUlZ1Q1EwWEVGWHBtUVFIWmRwY2tJcHpvR19uNm95NkRzaDlBa3dYaW1rdnFnVW1OdE80OVBZMlFVV0hLN1l5c2Z3WC1GVGRzbjMyTUdXNUtpT1l6bWRUVU5FbjBNOTZBSVhhNF96UkpKbS0tTnhUcFF1SVJCcnQ3QXNxYzFEOXIyWHZuVm1Rd21ETnMtYkNiZWlLazNQdGhxcmRTSzAxZDJqaGdfbkxsM2c5MEU2VUN0ZW1zU21iMXRsbkNMVXk3NkpGbUFNbUhaSE1xdDl6ZG92UFNXSDBENXdTMEg4YWgtcl9YVDlFVExUNVFRc25Cdw?oc=5
+
+- 630 senior technology professionals keen to return to Mangaluru region under Silicon Beach Programme’s HomeComing initiative - The Hindu
+  630 senior technology professionals keen to return to Mangaluru region under Silicon Beach
+  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNRmtSc2FVM1pTRkp4V0liM3V1bDNSajRkZHoyUWhNUjBuSjBFS2RSal82NGNpMk1xMm5SQndpZEU0aEZOb3pMVU56dy1fWkVKT1RWZ3pSdnptbVBuUVJ4dG1VLU9icEpoNUhBMENMdElTTUtzWjdIVF9oQldQa3BzLXZaTzREQWUzbjVmdVNsbWhJVmNlTVJKRnAwcFJoUVZzSTdVM0VhT2JsRERzLXVJWlJxSl9jMWViQmIzclNrdkc5WmpYUjE4LUxVSzQwNzNYb3lXWFJyMFRZSkVLODRLSFlWSjJMUE0wVlhMU01IeE01cjRZRTJ1N09tWDJtTUlvdFl5S1liRGJZd1JQR2JTRjk0c1RYWGRq0gGfAkFVX3lxTE5ObVE0MkpEM05wVHVvYVF0VFRkWU9yNVNjMXV0bVBMaWh1d2UybmMyd3JzOUxjclhNMW1kbWJPZ0VWd0tLdnR2RnIyZjg2WDg2eVdHUFlzdUFYT3Z1cWdkNFhla1pxNElxTndkYU5acEE2R3pFdmVqblBMT0V0RmtrcGYyMVpBNjVXUjNvN1FENV94MEZSZldBcHZDd2pXc0dkMS1aYTNYUnAwNnVUaGtMTDhCNWg2NzZZbjJ2VThIUWFlUXpCSTFjUmt2VmE2R25lYjdKZHpLWWRackRuVFNLZHNpLWdMWWN5V3RlNW5ZblROSUJXT2ZITGRPd2p1aDlobmRaUWRrRGtlTlRyN19WQWtWdmJrdkRqQmNudWln?oc=5
 
 - 'Not up to scratch': Magpies coach slams AFL review technology - espn.in
   'Not up to scratch': Magp
   🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWZIcWdsQ1VIN2locGFJQUhxTWxNYTFVcmNkYXd3ZUQ4enVxSUVKM3Y4Ym9jMnlUVklDLUhhb3p4YURhVWltcks1dTlzdENQZUxycnVEakVWNnJVZ01JZ2hFbTNsaGppdFFyalJscWtxbjF6TW1yRkNPaHRJVnk3V2JDZ1ROWldOczJOVzE2R3k0a21acE8zWVhYd3FuSm9jU3U5MkRucnVNdFVrM1E?oc=5
 
 
-_Last updated: 2026-07-11 02:10:42 UTC_
+_Last updated: 2026-07-11 07:50:54 UTC_
