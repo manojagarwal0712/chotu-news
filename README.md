@@ -1,44 +1,56 @@
 # 📰 Daily News Summaries
 
-- Swiggy Instamart gets 9 FSSAI notices after consumers allege food safety violations
+- Kashmir’s scrutiny of academic material moves from schools to colleges
   
-  🔗 https://indianexpress.com/article/india/swiggy-instamart-gets-9-fssai-notices-after-consumers-allege-food-safety-violations-10781753/
+  🔗 https://indianexpress.com/article/india/kashmir-academic-content-audit-colleges-universities-libraries-10782132/
 
-- Modi, Luxon elevate India-New Zealand ties, chart 2030 roadmap
+- Air India, IndiGo to start flights from Jodhpur Airport’s new terminal building tomorrow
   
-  🔗 https://indianexpress.com/article/india/india-new-zealand-strategic-partnership-roadmap-2030-modi-luxon-10781541/
+  🔗 https://indianexpress.com/article/india/jodhpur-airport-new-terminal-air-india-indigo-flights-july-12-10782067/
 
-- Gold Rate Today, July 11: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+- Many of the dead in Vietnam boat tragedy worked with Lava Mobiles, are residents of Andhra Pradesh
   
-  🔗 https://indianexpress.com/article/india/gold-rate-today-july-10-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10781538/
+  🔗 https://indianexpress.com/article/india/vietnam-boat-capsize-lava-mobiles-employees-distributors-phu-quoc-deaths-10782040/
 
-- India news Live Updates 11 July 2026: Three arrested for allegedly lynching man after 11-year-old rape victim’s body found in West Bengal
+- INS Mahendragiri joins Indian Navy: Rajnath commissions indigenous stealth frigate
   
-  🔗 https://indianexpress.com/article/india/today-india-breaking-news-live-updates-11-july-2026-monsoon-landslides-uttarakhand-himachal-surat-floods-10781475/
+  🔗 https://indianexpress.com/article/india/ins-mahendragiri-joins-indian-navy-rajnath-singh-commissions-indigenous-stealth-frigate-10781958/
 
-- Weather Live Updates: Kolkata braces for more rain, clear skies in Delhi and Mumbai
+- Indian Railways coach booking: How to reserve entire train coach for weddings, tours or group travel
   
-  🔗 https://indianexpress.com/article/india/weather-live-updates-north-braces-for-more-rain-downpour-hits-schools-transport-in-himachal-uttarakhand-10781426/
+  🔗 https://indianexpress.com/article/india/indian-railways-ftr-coach-booking-rules-marriage-group-travel-10781747/
+
+- iOS 27: Apple Mail gets AI Search, Smart Replies and Siri features
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/
+
+- HyperTexting turns web into social media-style feed without algorithms
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/hypertexting-turns-web-into-social-media-style-feed-without-algorithms-10781972/
+
+- Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’
+  
+  🔗 https://indianexpress.com/article/technology/meta-pulls-ai-image-feature-after-privacy-backlash-10781889/
+
+- Spotify’s Release Radar gets new customisation filters for listeners
+  
+  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotifys-release-radar-gets-new-customisation-filters-for-listeners-10781853/
 
 - How many astronauts should live on the moon? New study points to ideal number
   
   🔗 https://indianexpress.com/article/technology/science/how-many-astronauts-should-live-on-the-moon-new-study-points-to-ideal-number-10781664/
 
-- Stuffcool Lumo Review: A banana-shaped charging dock that moonlights as a night light
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/stuffcool-lumo-review-10781503/
+- DMart Q1 results: Higher costs, slower mature-store growth weigh on margins
+  Quick commerce apps continued to squeeze urban revenue at parent firm Avenue Supermarts. The company will lean heavily on tier
+  🔗 https://www.livemint.com/companies/company-results/dmart-q1-results-avenue-supermarts-revenue-11783769096643.html
 
-- Meta AI image detector fails to identify some of its own cropped AI images: Report
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/meta-ai-image-detector-fails-to-identify-some-of-its-own-cropped-ai-images-report-10781471/
+- Meta to discontinue controversial AI feature following privacy concerns, Hollywood's SAG-AFTRA union welcomes move
+   Meta is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram accounts. The feature drew widespread criticism
+  🔗 https://www.livemint.com/companies/news/meta-discontinue-controversial-ai-feature-users-generate-images-public-instagram-privacy-concerns-hollywood-sagaftra-11783765782518.html
 
-- Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/
-
-- Apple sues OpenAI, ex-employees over alleged trade secret theft tied to hardware push
-  
-  🔗 https://indianexpress.com/article/technology/artificial-intelligence/apple-sues-openai-ex-employees-over-alleged-trade-secret-theft-tied-to-hardware-push-10781372/
+- What Apple accuses OpenAI of in explosive trade secret lawsuit? A laptop ‘not returned’, secret interviews, &amp; more
+  Apple claims OpenAI's recruitment process doubled as a vehicle for extracting proprietary
+  🔗 https://www.livemint.com/companies/news/what-apple-accuses-openai-of-in-explosive-trade-secret-lawsuit-a-laptop-not-returned-secret-interviews-and-more-11783762780348.html
 
 - Chairman's exit a 'challenging event' that raised governance questions: HDFC Bank CEO
   An independent probe by Indian and US law firms found no basis for Atanu Chakraborty's allegations.
@@ -48,17 +60,13 @@
   BMW dismisses hybrids as costly and unnecessary. Mercedes is betting on them to ease
   🔗 https://www.livemint.com/companies/news/german-luxury-carmakers-split-on-hybrids-as-ev-sales-surge-11783680203547.html
 
-- Plum picks Rothschild for a record $100 mn fundraise
-  D2C beauty brand Plum is gearing up for its next phase of growth, tapping Rothschild &amp;amp; Co to raise $75-100 million. If successful, the round would set a record
-  🔗 https://www.livemint.com/companies/plum-rothschild-d2c-beauty-personal-care-fundraise-fmcg-skincare-body-care-makeup-haircare-11783677788765.html
+- Nomura sees 22% upside in Ather Energy. Here's why it's the brokerage's top EV pick
+  Nomura maintains a 'Buy' rating on Ather Energy, raising its target price to  ₹1,470. The electric two-wheeler market is expected
+  🔗 https://www.livemint.com/market/stock-market-news/nomura-sees-22-upside-in-ather-energy-heres-why-its-the-brokerages-top-ev-pick-11783759286706.html
 
-- Apple sues OpenAI, alleges ChatGPT maker stole trade secrets to build AI hardware
-  The lawsuit alleges that OpenAI and two former Apple employees engaged in a coordinated effort to misappropriate confidential information.
-  🔗 https://www.livemint.com/companies/news/apple-sues-openai-alleges-chatgpt-maker-stole-trade-secrets-to-build-ai-hardware-11783718576429.html
-
-- Swiggy gets FSSAI order on its Toing app licence, rejigs details
-  The filing comes amid heightened FSSAI scrutiny of food companies and quick commerce platforms
-  🔗 https://www.livemint.com/companies/news/swiggy-fssai-prohibition-order-toing-app-licence-11783688463770.html
+- Why large cap and mid cap funds could be the best mutual fund to bet on now, according to Abakkus study
+  Abakkus Mutual Fund's study highlights Large &amp;amp; Mid Cap Funds as an appealing investment option.
+  🔗 https://www.livemint.com/market/stock-market-news/why-large-cap-and-mid-cap-funds-could-be-the-best-mutual-fund-to-bet-on-now-according-to-abakkus-study-11783754490006.html
 
 - AI chip fever returns? SK Hynix  share price surges 13% after blockbuster $26.5 billion US listing
   SK Hynix debuted strongly on Nasdaq, raising $26.5 billion. Despite recent semiconductor stock volatility, demand for AI infrastructure drives
@@ -71,14 +79,6 @@
 - Greed and Fear report: Christopher Wood sees 'AI fatigue' setting in. Why Jefferies is turning bullish on India
   AI-linked stock momentum is waning as investors discuss 'AI fatigue' Jefferies prefers India's undervalued market over overhyped AI stocks.
   🔗 https://www.livemint.com/market/stock-market-news/greed-and-fear-report-christopher-wood-sees-ai-fatigue-setting-in-why-jefferies-is-turning-bullish-on-india-11783742010435.html
-
-- Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 13 July 2026
-  The Indian stock market saw significant gains on July 10, with Sensex up 1.08% and Nifty 50 rising 1.02%. Investor confidence grew from strong earnings reports and positive
-  🔗 https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-july-2026-11783739561129.html
-
-- Three PSU stocks with strong expansion plans
-   PSU stocks with strong expansion plans and a growing order book.
-  🔗 https://www.livemint.com/market/stock-market-news/good-psu-stocks-in-india-psu-stocks-to-buy-psu-companies-with-strong-growth-11783682677438.html
 
 - Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API
   Zuckerberg's first activity on the platform in over three years signaled Meta's latest push to compete directly with OpenAI and
@@ -100,165 +100,153 @@
   Google's next Made by Google launch event is set for August
   🔗 https://www.livemint.com/technology/gadgets/pixel-11-launch-date-revealed-made-by-google-event-announced-for-august-12-11783480697084.html
 
-- S&P 500 closes higher to notch a winning week, helped by tech gains - CNBC
-  S&amp;P 500 closes higher to notch a winning week, helped by tech gains. Dow, S&amp.;P 500, Nasdaq futures diverge ahead of SK Hynix's mega US IPO.
-  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5
+- Stock Market News, July 10, 2026: SK Hynix Finishes Higher in U.S. Trading Debut - WSJ
+  The Wall Street Journal published a story about SK Hyn
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmtpOFJscm9XNFpFT3VoeWtZYU5FSV9Ea3ROY2lJTnN2S1FHYmpSRndocjFDZFd3REhOem9aLVNUelZFUU5Ndlg3SFJkNTB0ckpXTFFHNVhWUmtlejJVU0M1R3paUnEyWXFZLTVveTE0UXZUYlkyb1JCVklfQzJjZXRjT0NKTDQ?oc=5
 
-- FIIs turn net buyer this week, purchase Rs 4,670 crore in Indian markets - BFSI News
-  FIIs turn net buyer this week, purchase Rs 4,
-  🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVp5X2pGd0lOMzhTTlpUZXpwNHVnNWstUmstbE5IcHkwNjlQMVRoX1hiN2VyOUg5alF4djNJeFFCemtLX1FIZlkxRnpwbzhCTGdZME44RUExazNLT3BRdWt6bGNvYzJOR2NlQVZBdWtiX0U4bFhwdFhJMG5DejNEZkhKcHhwSWljSm1nSzZ3by1mLXYwUjFlbXFIVHZMUzRTUE9pckJrVW1GUVFZekk5TzVtWENUM2p1bVZvQmtHMXoxemtlZkVpMktxbGxaR2V3NG5PZTdUX2Z3aVduMEFz0gHkAUFVX3lxTFAwRF9Xb0ljQThUS1VzQ0RHbGpTZXJYTDFwOWZ6WUFoeWNERm9OQjJEckUwamlpZlIza2xqNS1yd3RCSFNYOGREOUk3aEcxelJMWmtzYXRGQnJoYnVyZjN2ekwxLTNEVV94eFYxR2tMN3FYWkdDdzBQOE05TzJXUlFYMmdLNUFpOTlpUFBrd2tlQlhnbVZoQS1JdFhHQXBvV0tZdFZCeEhfTThXM2JmUVY1UWxsT01oYks4UlRiQWFFbUtmMV9CNDlDSzJaSFNOeTl5N1VRUXRUWFdlVTNvQ3J2bGRXTA?oc=5
+- Markets News, July 10, 2026: S&P 500, Nasdaq Post Weekly Gains; Stocks Inch Higher; SK Hynix Soars in US Debut - Investopedia
+  The S&amp;P 500, Nasdaq Post Weekly Gains; Stocks In
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVBjRmI0cmVwdXJ4Y2hTZzlQN283VzNxVGlfblo1SGhaV0V3TWNpeFVtTzFpM0kteVZqRjdlSUVwZ0ZpRl9iVmdIM3RRdmktVFByME5XclRMdEFMODJFR2NBNk1xV0N3SnpWSWlRVkxVczdkQUwzdEh0THlnbXM0ckJqS1NQRXJ3VDZVU0FkOHA?oc=5
 
-- 5 Things to Know Before the Stock Market Opens on Friday - Investopedia
-  5 Things to Know Before the Stock Market Op
-  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUVmb2RJMTZXMDJMeW5HdkN3ZG0ybmNUSDB2Wng1LWI4VTN0RDJESlJRM05lOEk3MFc4aW91dmxNRGlWVXBEdHFwcDU4d3Y3NFlXZlptOUpra0lNOGJickRST0FORjNKQVdKZlRoWUNPdmtzSW5BSzNaRDBzOEN3NW1nd2hOc2pIeTc0bjl4RUEzV05LcDV1bFFSSGxNNHhsN2MxNEthQ2NDWWM?oc=5
+- Stocks Slip as Traders Trim Risk Before Weekend: Markets Wrap - Bloomberg.com
+  Stocks Slip as Traders Trim
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkw5aW1oVzVpN2ZXakdrMk8wMU1LUXFwVHBhZjVtTWoyc1ltclEweUlsWDJtM2dQS3VsQnl1SjA4R28wejNWaWZoelZMYnZNbjdpcWQ1aDFMMzltanRfU1ZVNEFLNDBOeGYyejM3STc2TzM3OTlyMEtqdW93c1FmNW93X1pjanFCZEJDMHhSS3NBYWlD?oc=5
 
-- A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk. - The New York Times
-  A.I. Has Rewarded Investors. It May Now
-  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0N3c19IUm5td0tEZEZZYzlkY2p5akVHc3h4SUJQSDc0VkhGQUFBWGplcDQ4QlFUN3lMOVNoa1EtazVnNlduUjhQa2hnWnFDR05FWGNSYlBibkJmeGNfQnQzSGd4d0JTUW5xLWRndzhSc2hOSHJzWDk2QmlVeG8xSE1oeWpOdHRDMEE?oc=5
+- Trump makes the stock market his scoreboard, but many Americans aren't even in the game - Reuters
+  Trump makes the stock market his scoreboard, but many Americans aren't
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXhqTEk3MmFXa042OTJzSHF5dGtrVGM0dFZRODA5VlM4WWk1SHpnd3ZVcHBISEFabUdRcTRIZVFINExvTmJlQ2VwQkRJd3Jjay1qTFpZRmtaeGoxYzg1ZjVuVC1STEFLY0VyeHQxLVlZa3lZd1BOdHZyZzJHYlVId1BJdXY1ZDJrM2haOVlZVTJpbnlxclpuT0RjQTdlREcxelB3NFZyV2NBWDBKZ3lGN1JTdDVSSG4xWlQtMzkyQ2Q?oc=5
 
-- Stock Market Highlights, Sensex Today: Sensex Settles 827 Points Higher Amid Positive Global Cues - NDTV
-  Stock Market Highlights, Sensex Today: Sensex Settles
-  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzdUU3RBMTF4UTNIS0FTTHhxNVprVUlIQndaNXptOVNycjNSQlo0SWR1VUR5REZVY1V1VFh3UDhJOW1sc0dtQl9Kd2ZJUUpuRXZ3ZWxVcnp6M215ZW1qZ3hIdUdPUUwtSlhWVnI3VWU3RUxJRjRHT3hXZVFlZ1RLVDRxVXRtbkFYYV9ocmpnNkVDNVdHYWhfeHAwN1o4bTFrWFVPRWFic0xDVmpWVFlKdkZHaGV2R3JTdjkxZmtIU0lyVUY3U1YzN3Jib3Y0Y08tMU5mMNIB3AFBVV95cUxQZVBfTDM1cVVvTXlGQ3V5Q1pXVUdPVC1OYmdSQVdBMmppczV6R3VScHJLbzUwY3Bxa0hKU0RfbDktTHdWY1JzVDB6ak91ZGZJc0V3SVVQSUMzdi0tT2p6RUg1eVUzdVJRajVQRUF1UGswXy1odWFnWEI5ZU02MDlLU1gxNllyOTBSbDdKZllmUkppU3VyLVNtYUcyQTF1dndjbURLN3Y5MEs1bEVwTElmSm1ocHZhMmdEZGUteVJBU3dpZ1hsbU9jdTFLSW9YSE5YLTVxZXRJVFZYRkw4?oc=5
+- Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC
+  Next week brings earnings and inflation data amid resumption of U.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQazU1a25OcHhfLTdzZVVHRkxRUlBadkxfWWxYOVVuYnVVVndOSDh4amNhazMxTHEtX0Jka2ZlLWJFUkktUl9Mbk40T1dxemtPeVdkUGxJeDdXMklvQjExRHdaRUFBRHpYdmxqa3k1a3Y5S25teUd2OFlJdWxjTGl1czdDN2t1QkRpWm1aWUJWM3k?oc=5
 
-- Bitcoin holds near $64,000 despite ETF outflows; crypto market remains resilient
-  Bitcoin held near $64,000 despite significant ETF outflows on July 9. Major altcoins experienced mixed performance, with some falling and others rising. The global crypto market capitalization saw a slight increase to two trillion dollars.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-64000-despite-etf-outflows-crypto-market-remains-resilient/articleshow/132326051.cms
+- Stock Market News, July 10, 2026: SK Hynix Finishes Higher in U.S. Trading Debut - WSJ
+  The Wall Street Journal published a story about SK Hyn
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmtpOFJscm9XNFpFT3VoeWtZYU5FSV9Ea3ROY2lJTnN2S1FHYmpSRndocjFDZFd3REhOem9aLVNUelZFUU5Ndlg3SFJkNTB0ckpXTFFHNVhWUmtlejJVU0M1R3paUnEyWXFZLTVveTE0UXZUYlkyb1JCVklfQzJjZXRjT0NKTDQ?oc=5
 
-- F&amp;O Talk: Mid, smallcaps to continue outperformance as Q1 begins, says Sudeep Shah; outlines Kalyan Jewellers, TCS strategy
-  Indian stock markets saw significant gains on Friday. Sensex and Nifty rising over one percent. Strong earnings from TCS and positive global sentiment boosted investor confidence.
-  🔗 https://economictimes.indiatimes.com/markets/expert-view/fo-talk-mid-smallcaps-to-continue-outperformance-as-q1-begins-says-sudeep-shah-outlines-kalyan-jewellers-tcs-strategy/articleshow/132326016.cms
+- Markets News, July 10, 2026: S&P 500, Nasdaq Post Weekly Gains; Stocks Inch Higher; SK Hynix Soars in US Debut - Investopedia
+  The S&amp;P 500, Nasdaq Post Weekly Gains; Stocks In
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxOaVBjRmI0cmVwdXJ4Y2hTZzlQN283VzNxVGlfblo1SGhaV0V3TWNpeFVtTzFpM0kteVZqRjdlSUVwZ0ZpRl9iVmdIM3RRdmktVFByME5XclRMdEFMODJFR2NBNk1xV0N3SnpWSWlRVkxVczdkQUwzdEh0THlnbXM0ckJqS1NQRXJ3VDZVU0FkOHA?oc=5
 
-- Unique Picks: 7 stocks held by a single MF scheme in June; rally up to 120% in 3 months
-   ETMarkets identified 40 stocks held exclusively by single mutual fund schemes. Select names delivered up to
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-7-stocks-held-by-a-single-mf-scheme-in-june-rally-up-to-120-in-3-months/slideshow/132325855.cms
+- Stocks Slip as Traders Trim Risk Before Weekend: Markets Wrap - Bloomberg.com
+  Stocks Slip as Traders Trim
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkw5aW1oVzVpN2ZXakdrMk8wMU1LUXFwVHBhZjVtTWoyc1ltclEweUlsWDJtM2dQS3VsQnl1SjA4R28wejNWaWZoelZMYnZNbjdpcWQ1aDFMMzltanRfU1ZVNEFLNDBOeGYyejM3STc2TzM3OTlyMEtqdW93c1FmNW93X1pjanFCZEJDMHhSS3NBYWlD?oc=5
 
-- Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf
-  Iran's objective appears to be expanding its strategic influence over the Strait of Hormuz. Crude oil prices are expected to remain elevated due to ongoing geopolitical risks. India, a major oil importer, faces increased vulnerability from these market
-  🔗 https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms
+- Trump makes the stock market his scoreboard, but many Americans aren't even in the game - Reuters
+  Trump makes the stock market his scoreboard, but many Americans aren't
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXhqTEk3MmFXa042OTJzSHF5dGtrVGM0dFZRODA5VlM4WWk1SHpnd3ZVcHBISEFabUdRcTRIZVFINExvTmJlQ2VwQkRJd3Jjay1qTFpZRmtaeGoxYzg1ZjVuVC1STEFLY0VyeHQxLVlZa3lZd1BOdHZyZzJHYlVId1BJdXY1ZDJrM2haOVlZVTJpbnlxclpuT0RjQTdlREcxelB3NFZyV2NBWDBKZ3lGN1JTdDVSSG4xWlQtMzkyQ2Q?oc=5
 
-- Midcap bets! InCred picks 6 stocks with up to 54% upside potential. See full list
-  InCred Equities has identified six midcap stocks across sectors with upside potential of up to 54%, citing attractive valuations and
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/midcap-bets-incred-picks-6-stocks-with-up-to-54-upside-potential-see-full-list/slideshow/132325125.cms
+- Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC
+  Next week brings earnings and inflation data amid resumption of U.
+  🔗 https://news.google.com/rss/articles/CBMikAFBVV95cUxQazU1a25OcHhfLTdzZVVHRkxRUlBadkxfWWxYOVVuYnVVVndOSDh4amNhazMxTHEtX0Jka2ZlLWJFUkktUl9Mbk40T1dxemtPeVdkUGxJeDdXMklvQjExRHdaRUFBRHpYdmxqa3k1a3Y5S25teUd2OFlJdWxjTGl1czdDN2t1QkRpWm1aWUJWM3k?oc=5
 
-- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+- "J&K Integral Part Of India": Indian Diplomat Flags Wrong Map At Dhaka Event - NDTV
+  "J&amp;K Integral Part Of India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3pDNlZPSGtROHNrdlRvMEQ5VkZ2Q0tOOFRWa2dhZ05xRVNLNHBmSm12MFpGVVo2QW1iNFVSekI2b1VRa1daZEx5NWdDNW9RNnB3OXVpMWFxckkzY0JOZVBzODA3VHZHNTBFZFNwUVg2NGIzNHNtN3dCc0NKcnkyckVGVDBHUVZ3VVhIWTd3eEJWLVJ1Q2hXTUhfQVRmN3gyakI3bk8zWENBbTd6dzZxWjBKdjZzQ1dSX29JRWFRX0NlWjYxMndMYjRWWnJZOXN5TGRBYzZWUjBXTEVnemfSAeYBQVVfeXFMTXBBS1U2LVZUUTQ3Q2JUMVpKaUxOV2hRc3prbWpoUWJJY0F1VXpGY25oR21Cb29WbldoeWdmcDRSckFiOVltWGdKY0I5RGpzbTNDMnNkMV9hQzZxRVJCdmRUTGd2elFNY2ZWaER2WHRYU0lTbDQ2eWE0WmVyQVg2aGVDYmhsM2ZDdC1FRmtua2tQTXhIcWlQZkRMYS1yWEFBMHBsNHlOZzlrLXkzUW9mSmQ1OVVNUFVZNDJMa2ZhZmtTMXJ6ajJJTjV3RUVBX0pfRkRwN3Q5ZUZaWEw0MTUtU01rbDBaNmc?oc=5
+
+- PM Modi in New Zealand LIVE: 'India-NZ Waka' ready to embark on new voyage together, says Modi at diaspora event - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
-- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
-  Israel's Rafael Turns To India For Iron
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
+- Boat With Indian Tourists Overturns In Vietnam, Rescue Ops On - NDTV
+  A boat with Indian Tourists Overturn
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3VYZGdIWGtOZHozQ2h4NExfRVBGNDNfb29QUTZnWWFibVJUNllRNHlqVVJsOHQwUTZIcHdqNk9PamZPazdhN0N2alRVN3JaMDZvRWZwNUdjX2lMNExSa2ZZT0ptYXg0eG81MDZ3OHpnV1dFNm15ZjRSS2xLdVJTREtiS19MNVlvOElPT0F6YnNPbGcxZU9SUEZiVUpkQXpRanBJ0gGrAUFVX3lxTFBUNHVraWlJZG1sMzF3cXRxcVdSbzhMWVlWa3lQWWVoTGsxRkJYOW8xbFFrTVdhSm9zUVZ1NTlWekpMeVUyRjRZN0JTbjQwTXI5UmZ5SE5yZkxNT1NmckljbWVIWl9IUF9xQnZyd0xzR0pTWi1VT3kzMC1weEh3Rm96WVZqTV92cVdocEhsMy11bTJzVW9JUnFaUFl6QV94eEJZRWl2dHBYdllvcw?oc=5
 
-- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
-  No Virat Kohli, no Sachin Tendulkar:
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue ops under way - The Times of India
+  Boat carrying several Indian tourists capsizes in Vietnam; rescue ops
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
-  The 11-year-old girl was raped and
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue efforts under way - The Hindu
+  Boat carrying several Indian tourists capsizes in Vietnam.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMW4tc1ZDcTJTaGxEUzVOa21zYTNWWlhzZ2ZFTDFmejQxU2x1NU93QXdTRVB3dkFwZ3Q5WFJOdHJBdnlYOTA2NU9BcEx3QTRraEh0VUN3RDVOUU56eXpRdUNGLXlPUUVSd1hMeUp3VUZ2RlFHMExINWZjek1pRUVJd1hNVUZSVk5OUmUzSnpTQWtkcWRTS2FQQzFsaDhTVXRTR0RHMlFZQkdyeEllckdqcV9CNFF1QlB3T3NuaUdRSGNGTGJvTmJKVklHUU5hRkJ5S1hFbHdTYnl1STZ5bmfSAeQBQVVfeXFMT2FGbGQyVVM0Z2gtT1RGdVVzOElOa1NLWG1BRTM3M0g0M3BDUWRnam1GWi1IRDRvS1dIaG9KY1h2UTlzM3o4N09JWnRFTVJNQTUwSHJudERfMzM1X2RvRjF5ZG9BRVhEaVZvWXJQM3RPZXptLUpRSnRQa01CZmJ0YjJCZi00VlRKeGRGRU1lZDNZQ3dCdVJxWURVWG1qaHBrYmxaTTVPZnhJVVJjSjBrSnZmUGJCNlQ5NnF6VUh2bTFOU1FyeFJPb21XNUEyMnptdEdHU3JDN1cwREo2MWhQeGk0WWdw?oc=5
 
-- Emily Eden: The British woman in India who drew an empire in transition - BBC
-  Emily Eden was a British woman in India who drew an
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+- Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More
+  For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to&#8230;.
+  🔗 https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/
+
+- Swiggy Instamart Receives 9 FSSAI Notices Over Alleged Sale Of Expired Products
+  Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following consumer complaints.
+  🔗 https://inc42.com/buzz/swiggy-instamart-receives-9-fssai-notices-over-alleged-sale-of-expired-products/
+
+- ideaForge Raises ₹500 Cr Via QIP; Allots 62.9 Lakh Shares
+  Listed dronetech company ideaForge closed its qualified institutional placement (QIP) on Friday (July 10), raising ₹500 Cr.
+  🔗 https://inc42.com/buzz/ideaforge-raises-%e2%82%b9500-cr-via-qip-allots-62-9-lakh-shares/
+
+- Zoho-Backed Genrobotics’ Revenue Jumps 35% YoY In FY26, Eyes ₹150 Cr Series B Round
+  Robotics startup Genrobotics saw its operating revenue rise 35% to ₹43.7 Cr in FY26.
+  🔗 https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/
 
 - From Elevate Education To Aukera — Indian Startups Raised $72 Mn This Week
   Indian startup funding remained largely flat in the second week of July. Between July 4 and July 10, Indian startups raised $1.2 billion
   🔗 https://inc42.com/features/from-elevate-education-to-aukera-indian-startups-raised-72-mn-this-week/
 
-- [Update] WhatsApp & Telegram Submit Response To Centre’s Notice On Username Feature
-  After WhatsApp, Telegram has also reportedly submitted its reply to the IT ministry.
-  🔗 https://inc42.com/buzz/meta-submits-response-to-centres-notice-on-whatsapps-username-feature/
+- "J&K Integral Part Of India": Indian Diplomat Flags Wrong Map At Dhaka Event - NDTV
+  "J&amp;K Integral Part Of India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3pDNlZPSGtROHNrdlRvMEQ5VkZ2Q0tOOFRWa2dhZ05xRVNLNHBmSm12MFpGVVo2QW1iNFVSekI2b1VRa1daZEx5NWdDNW9RNnB3OXVpMWFxckkzY0JOZVBzODA3VHZHNTBFZFNwUVg2NGIzNHNtN3dCc0NKcnkyckVGVDBHUVZ3VVhIWTd3eEJWLVJ1Q2hXTUhfQVRmN3gyakI3bk8zWENBbTd6dzZxWjBKdjZzQ1dSX29JRWFRX0NlWjYxMndMYjRWWnJZOXN5TGRBYzZWUjBXTEVnemfSAeYBQVVfeXFMTXBBS1U2LVZUUTQ3Q2JUMVpKaUxOV2hRc3prbWpoUWJJY0F1VXpGY25oR21Cb29WbldoeWdmcDRSckFiOVltWGdKY0I5RGpzbTNDMnNkMV9hQzZxRVJCdmRUTGd2elFNY2ZWaER2WHRYU0lTbDQ2eWE0WmVyQVg2aGVDYmhsM2ZDdC1FRmtua2tQTXhIcWlQZkRMYS1yWEFBMHBsNHlOZzlrLXkzUW9mSmQ1OVVNUFVZNDJMa2ZhZmtTMXJ6ajJJTjV3RUVBX0pfRkRwN3Q5ZUZaWEw0MTUtU01rbDBaNmc?oc=5
 
-- Justdial Posts ₹166 Cr Profit In Q1, CEO VSS Mani To Step Down After 30 Years
-  Justdial’s net profit rose a meagre 4.1% to ₹166 Cr in the first quarter (Q1) of fiscal&#8230. CEO VSS
-  🔗 https://inc42.com/buzz/justdial-posts-%e2%82%b9166-cr-profit-in-q1-ceo-vss-mani-to-step-down-after-30-years/
-
-- TAC Infosec Q1: Profit Zooms 137% YoY To ₹8 Cr, Revenue Up 102%
-  NSE Emerge-listed cybersecurity firm TAC Infosec’s profit after tax (PAT) zoomed nearly 137%
-  🔗 https://inc42.com/buzz/tac-infosec-q1-profit-zooms-137-yoy-to-%e2%82%b98-cr-revenue-up-102/
-
-- Ola Electric Faces Third Insolvency Petition, Gets NCLT Notice
-  Ola Electric faces third Insolvency Plea, Gets NCLT Notice. Sterling E-Mobility Solutions and Anevolve Mando eMobility had initiated
-  🔗 https://inc42.com/buzz/ola-electric-faces-third-insolvency-petition-gets-nclt-notice/
-
-- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+- PM Modi in New Zealand LIVE: 'India-NZ Waka' ready to embark on new voyage together, says Modi at diaspora event - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
-- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
-  Israel's Rafael Turns To India For Iron
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
+- Boat With Indian Tourists Overturns In Vietnam, Rescue Ops On - NDTV
+  A boat with Indian Tourists Overturn
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3VYZGdIWGtOZHozQ2h4NExfRVBGNDNfb29QUTZnWWFibVJUNllRNHlqVVJsOHQwUTZIcHdqNk9PamZPazdhN0N2alRVN3JaMDZvRWZwNUdjX2lMNExSa2ZZT0ptYXg0eG81MDZ3OHpnV1dFNm15ZjRSS2xLdVJTREtiS19MNVlvOElPT0F6YnNPbGcxZU9SUEZiVUpkQXpRanBJ0gGrAUFVX3lxTFBUNHVraWlJZG1sMzF3cXRxcVdSbzhMWVlWa3lQWWVoTGsxRkJYOW8xbFFrTVdhSm9zUVZ1NTlWekpMeVUyRjRZN0JTbjQwTXI5UmZ5SE5yZkxNT1NmckljbWVIWl9IUF9xQnZyd0xzR0pTWi1VT3kzMC1weEh3Rm96WVZqTV92cVdocEhsMy11bTJzVW9JUnFaUFl6QV94eEJZRWl2dHBYdllvcw?oc=5
 
-- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
-  No Virat Kohli, no Sachin Tendulkar:
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue ops under way - The Times of India
+  Boat carrying several Indian tourists capsizes in Vietnam; rescue ops
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
-  The 11-year-old girl was raped and
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue efforts under way - The Hindu
+  Boat carrying several Indian tourists capsizes in Vietnam.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMW4tc1ZDcTJTaGxEUzVOa21zYTNWWlhzZ2ZFTDFmejQxU2x1NU93QXdTRVB3dkFwZ3Q5WFJOdHJBdnlYOTA2NU9BcEx3QTRraEh0VUN3RDVOUU56eXpRdUNGLXlPUUVSd1hMeUp3VUZ2RlFHMExINWZjek1pRUVJd1hNVUZSVk5OUmUzSnpTQWtkcWRTS2FQQzFsaDhTVXRTR0RHMlFZQkdyeEllckdqcV9CNFF1QlB3T3NuaUdRSGNGTGJvTmJKVklHUU5hRkJ5S1hFbHdTYnl1STZ5bmfSAeQBQVVfeXFMT2FGbGQyVVM0Z2gtT1RGdVVzOElOa1NLWG1BRTM3M0g0M3BDUWRnam1GWi1IRDRvS1dIaG9KY1h2UTlzM3o4N09JWnRFTVJNQTUwSHJudERfMzM1X2RvRjF5ZG9BRVhEaVZvWXJQM3RPZXptLUpRSnRQa01CZmJ0YjJCZi00VlRKeGRGRU1lZDNZQ3dCdVJxWURVWG1qaHBrYmxaTTVPZnhJVVJjSjBrSnZmUGJCNlQ5NnF6VUh2bTFOU1FyeFJPb21XNUEyMnptdEdHU3JDN1cwREo2MWhQeGk0WWdw?oc=5
 
-- Emily Eden: The British woman in India who drew an empire in transition - BBC
-  Emily Eden was a British woman in India who drew an
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+- "J&K Integral Part Of India": Indian Diplomat Flags Wrong Map At Dhaka Event - NDTV
+  "J&amp;K Integral Part Of India
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3pDNlZPSGtROHNrdlRvMEQ5VkZ2Q0tOOFRWa2dhZ05xRVNLNHBmSm12MFpGVVo2QW1iNFVSekI2b1VRa1daZEx5NWdDNW9RNnB3OXVpMWFxckkzY0JOZVBzODA3VHZHNTBFZFNwUVg2NGIzNHNtN3dCc0NKcnkyckVGVDBHUVZ3VVhIWTd3eEJWLVJ1Q2hXTUhfQVRmN3gyakI3bk8zWENBbTd6dzZxWjBKdjZzQ1dSX29JRWFRX0NlWjYxMndMYjRWWnJZOXN5TGRBYzZWUjBXTEVnemfSAeYBQVVfeXFMTXBBS1U2LVZUUTQ3Q2JUMVpKaUxOV2hRc3prbWpoUWJJY0F1VXpGY25oR21Cb29WbldoeWdmcDRSckFiOVltWGdKY0I5RGpzbTNDMnNkMV9hQzZxRVJCdmRUTGd2elFNY2ZWaER2WHRYU0lTbDQ2eWE0WmVyQVg2aGVDYmhsM2ZDdC1FRmtua2tQTXhIcWlQZkRMYS1yWEFBMHBsNHlOZzlrLXkzUW9mSmQ1OVVNUFVZNDJMa2ZhZmtTMXJ6ajJJTjV3RUVBX0pfRkRwN3Q5ZUZaWEw0MTUtU01rbDBaNmc?oc=5
 
-- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
+- PM Modi in New Zealand LIVE: 'India-NZ Waka' ready to embark on new voyage together, says Modi at diaspora event - The Hindu
   <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
   🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
 
-- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
-  Israel's Rafael Turns To India For Iron
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
+- Boat With Indian Tourists Overturns In Vietnam, Rescue Ops On - NDTV
+  A boat with Indian Tourists Overturn
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3VYZGdIWGtOZHozQ2h4NExfRVBGNDNfb29QUTZnWWFibVJUNllRNHlqVVJsOHQwUTZIcHdqNk9PamZPazdhN0N2alRVN3JaMDZvRWZwNUdjX2lMNExSa2ZZT0ptYXg0eG81MDZ3OHpnV1dFNm15ZjRSS2xLdVJTREtiS19MNVlvOElPT0F6YnNPbGcxZU9SUEZiVUpkQXpRanBJ0gGrAUFVX3lxTFBUNHVraWlJZG1sMzF3cXRxcVdSbzhMWVlWa3lQWWVoTGsxRkJYOW8xbFFrTVdhSm9zUVZ1NTlWekpMeVUyRjRZN0JTbjQwTXI5UmZ5SE5yZkxNT1NmckljbWVIWl9IUF9xQnZyd0xzR0pTWi1VT3kzMC1weEh3Rm96WVZqTV92cVdocEhsMy11bTJzVW9JUnFaUFl6QV94eEJZRWl2dHBYdllvcw?oc=5
 
-- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
-  No Virat Kohli, no Sachin Tendulkar:
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue ops under way - The Times of India
+  Boat carrying several Indian tourists capsizes in Vietnam; rescue ops
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
-  The 11-year-old girl was raped and
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+- Boat carrying several Indian tourists capsizes in Vietnam; rescue efforts under way - The Hindu
+  Boat carrying several Indian tourists capsizes in Vietnam.
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMW4tc1ZDcTJTaGxEUzVOa21zYTNWWlhzZ2ZFTDFmejQxU2x1NU93QXdTRVB3dkFwZ3Q5WFJOdHJBdnlYOTA2NU9BcEx3QTRraEh0VUN3RDVOUU56eXpRdUNGLXlPUUVSd1hMeUp3VUZ2RlFHMExINWZjek1pRUVJd1hNVUZSVk5OUmUzSnpTQWtkcWRTS2FQQzFsaDhTVXRTR0RHMlFZQkdyeEllckdqcV9CNFF1QlB3T3NuaUdRSGNGTGJvTmJKVklHUU5hRkJ5S1hFbHdTYnl1STZ5bmfSAeQBQVVfeXFMT2FGbGQyVVM0Z2gtT1RGdVVzOElOa1NLWG1BRTM3M0g0M3BDUWRnam1GWi1IRDRvS1dIaG9KY1h2UTlzM3o4N09JWnRFTVJNQTUwSHJudERfMzM1X2RvRjF5ZG9BRVhEaVZvWXJQM3RPZXptLUpRSnRQa01CZmJ0YjJCZi00VlRKeGRGRU1lZDNZQ3dCdVJxWURVWG1qaHBrYmxaTTVPZnhJVVJjSjBrSnZmUGJCNlQ5NnF6VUh2bTFOU1FyeFJPb21XNUEyMnptdEdHU3JDN1cwREo2MWhQeGk0WWdw?oc=5
 
-- Emily Eden: The British woman in India who drew an empire in transition - BBC
-  Emily Eden was a British woman in India who drew an
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership - The Hindu
-  <ol><li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cE
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Israel's Rafael Turns To India For Iron Dome Missiles: Sources - NDTV
-  Israel's Rafael Turns To India For Iron
-  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOalZFaS1XVUhQalgtclBReHdlUWFWZWlsYmRRZjdDVlRhM3o2SWYyWkdCMlVHem4wd1pvRTdaWHRoVUVSNUVSX2JwRnM3VG5waWl2NnRTMnd3QlZZTmdYcnZLa1lfOGtteUs5d2dDT3N1SW42Ml9PUmpHUXlTd3hMUm1NcUJTSmFJRnVHS09pbEVtVWhzNjBKLU1CTGY1TldyMElV0gGrAUFVX3lxTE1fZmhIREJPaXZtRGUwZUNHbEZqNlJzaG1OT0VNTmRGUnR2RDZMSzRKdWN5LWFydmx1YlFmaXFVdGIzd3Z1X1FuNkh0by1wVmk1VHRPV1JBbV9ibXVadTk5RklSUVRUREFDcFRYR1FBTDVPTHk0TjNhT21tSVJwQmwxYmlMYkF0N3ZuX1kwRlZST3Zvdk5rSmlkM0ZxaGRqMTJSMk9OZEJxY2ZZbw?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- No Virat Kohli, no Sachin Tendulkar: Harmanpreet Kaur becomes first Indian to... - The Times of India
-  No Virat Kohli, no Sachin Tendulkar:
-  🔗 https://news.google.com/rss/articles/CBMipgJBVV95cUxNR3BYT0c2UXpJRGVVOVlXY3AyYlRGU1VqNVBxNi1kVFhoYjRWeTlCTm1fdFVsOElYdUFjVTVwMU5SWmFyT1RlcVI5eXdwWWRDX3hTeTlGTnl1aG5JM3NxTHpqWDBzdldUeFN1d3hKZDFkRDZpREFHMmZkdlFOakQ3LWFaRW15SWJsRU1yUjJTU2lBWnRQa2VSOGtTZDJ6bExCTUtHS3hhaGxFUkY5RS1IZk1MNjN5M21LX29TYVRwc1dFVXdlaFBPSW5VMXBVY09mdWpjV19keXpSUnVEc2dZU01MNkFoVTBQN0xPazc2NFZ0U1h4RXpyRFc5T0hwMW5wazJZd3otQmJQTHlzWjQtQ0FpS3hhbnlxdFlHR0QwSGZ5Ml9sbnfSAasCQVVfeXFMT1ZOMzBRaTB5dUNRRHNELWlrS0Vjb05maWlqTk01SjRQVWlnSENkSHRoSlhWVFhKNjBHaFF2dXM1b0F0ZVQtSVo3UlNQNnhPSFBuSUpxTkxpRXB3UThuaDFxWEJjZjBFVEl5RnFLaTMzRlhNNXU2eVplak5mczVXb2U3RkZGTElyLU1pNVVrS3k4VElNdU5ESFZ6c0ZqZmJGb0RwUG4yQ0hTZi1xSG8xYko1TmtuR1JCZnBBLVhIVndCaWN6NGo5R3RJSzNWTDlBQ2hmSmlLdWFnOVYzSmNueERnS21HSHlCVU0xb2hMcmdYUlU2U0hOcWdaNlJxM2pvbkhTYnNaQ3JEel93VWVURlpzLXg5SWt5VnV3cWFkbF9TNE5pczNvQnFqSGM?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Protests engulf Indian state after rape and murder of 11-year-old girl - The Guardian
-  The 11-year-old girl was raped and
-  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUF0SjZ6VDM2Mm1rRDI2cUlCMnZERkkzeDdLUTRqdVdOdG1fWjNCdFZjN05KLXN1QUhmcnloanRwalA2T1c2RGxXQUhVSXRaWlFJVmxac1VWcWYwbTI1ZlJaUE5pa1cxcmZvQkw2dzN3Y1d3bVZKakNQcWR0MjBaTU9DM1lHZC1QMnYycUI1M2tZY3NjMnpseWhqYw?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Emily Eden: The British woman in India who drew an empire in transition - BBC
-  Emily Eden was a British woman in India who drew an
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRGNyOHBwYVYyRlAyNHJPQmxTOHpFNG5SaGZCbU55bk1RNWE3a0FZNV95aEk4b1pqMU1DOTRCYW5qSEEyNHpFdjJtejYzYmgzWVdRQzROQlJXdw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- The public deserves socially beneficial technology in return for its AI investment - Computer Weekly
-  The public deserves socially beneficial technology in return for its AI
-  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3E2bHJRQkxPVGtlZGRHcmN1MkVnSlVSNTJKQjFMMGhRT0Q4Q1k4d1l0YXFmcGxfSFF4aEdGd3lDSGc4Wk9UNVBVeXVkOWpPX1J2bTVrOTlBR2NKLV9wcnJoT2xNQ3ZJMHVsT2Z3WHl6eGVtaDAzUDFmRnEyNWdfdjVwbGFUeXZPY3JpMkZ1cW05Y0llckd2c0dVbFBhVzRkc0wtcTdnVDVpVnVzNTdkNERDQ3kxclNVVlRFRXRR?oc=5
-
-- Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India’s Telecom Sector and establishing a dedicated “Communication Technology Task Force” - Pib.gov.in
-  Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India�
-  🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQemYzVVJ1VWN1UG5hWW1fcnU4YVczMk04UXVjTkpuM3JJT2JDdTNFVGpLdnMyVEFZWl92SzVCcXNKa3h0d3pfMHJ0NkZUaXExdnRBSHF6dWxfQkw4ck9OZHRLa2lIaTVQ?oc=5
-
-- Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting energy th - The Times of India
-  Scientists say coldest 'stars' in Milky Way could actually be giant alien technology harvesting
-  🔗 https://news.google.com/rss/articles/CBMi2AJBVV95cUxORlVSMjc3OVI5Vi1yRFVrSnd1X1NCdFZjTC1ENkktSTFaRWs1dnFGdk5SOW9rXzJTTkpveWVHdTdsNmxHUDkycmZIZGNicmw5SXBoVWpzSUN0TGVGN1VrQ3FaY3JUYWdXNEJ2TXRnSTFidFJKdmxLYXBuMVRBS3lhdXQzNHpkUWVEUTdnS2Q0bjM2eS1VUENCMDc2Tl9DaWpaRGg1V3RTTXF3WHBUaEJad3I2Qk8zcXNWQmM2REFfeFJjeUJFVHdYbEdMZEkzQnlZczNidF9oRlpuR0xkWWd5WlJXMTlQQjF3cTNVcHZORE56RVRLSHdoYUJuY2tTVmxZS0VLaXRZQmpwTlZnc0pDYVB2OHotS1pPeVpndVd6MV9DMXFJS2l5NWEzVE1iZWFCamR0MWM0Q3pRTUlORENJYUhXSnUzeTVJUkZrQzFQc1l6STZBQWhxbNIB3gJBVV95cUxOWVRTZXB3QkFXbTVEckI3WmlBWldZUnpfNFJ3ak1obnRfUVhtX19yakdCUEtlNm5vNmNOcUd5TjBFX1dYUWk0Q2duZVFqUzJYNDFBejU1VU1CZlhKbGlYbkRza3duZEtEbWVHU3VMUlZ1Q1EwWEVGWHBtUVFIWmRwY2tJcHpvR19uNm95NkRzaDlBa3dYaW1rdnFnVW1OdE80OVBZMlFVV0hLN1l5c2Z3WC1GVGRzbjMyTUdXNUtpT1l6bWRUVU5FbjBNOTZBSVhhNF96UkpKbS0tTnhUcFF1SVJCcnQ3QXNxYzFEOXIyWHZuVm1Rd21ETnMtYkNiZWlLazNQdGhxcmRTSzAxZDJqaGdfbkxsM2c5MEU2VUN0ZW1zU21iMXRsbkNMVXk3NkpGbUFNbUhaSE1xdDl6ZG92UFNXSDBENXdTMEg4YWgtcl9YVDlFVExUNVFRc25Cdw?oc=5
-
-- 630 senior technology professionals keen to return to Mangaluru region under Silicon Beach Programme’s HomeComing initiative - The Hindu
-  630 senior technology professionals keen to return to Mangaluru region under Silicon Beach
-  🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxNRmtSc2FVM1pTRkp4V0liM3V1bDNSajRkZHoyUWhNUjBuSjBFS2RSal82NGNpMk1xMm5SQndpZEU0aEZOb3pMVU56dy1fWkVKT1RWZ3pSdnptbVBuUVJ4dG1VLU9icEpoNUhBMENMdElTTUtzWjdIVF9oQldQa3BzLXZaTzREQWUzbjVmdVNsbWhJVmNlTVJKRnAwcFJoUVZzSTdVM0VhT2JsRERzLXVJWlJxSl9jMWViQmIzclNrdkc5WmpYUjE4LUxVSzQwNzNYb3lXWFJyMFRZSkVLODRLSFlWSjJMUE0wVlhMU01IeE01cjRZRTJ1N09tWDJtTUlvdFl5S1liRGJZd1JQR2JTRjk0c1RYWGRq0gGfAkFVX3lxTE5ObVE0MkpEM05wVHVvYVF0VFRkWU9yNVNjMXV0bVBMaWh1d2UybmMyd3JzOUxjclhNMW1kbWJPZ0VWd0tLdnR2RnIyZjg2WDg2eVdHUFlzdUFYT3Z1cWdkNFhla1pxNElxTndkYU5acEE2R3pFdmVqblBMT0V0RmtrcGYyMVpBNjVXUjNvN1FENV94MEZSZldBcHZDd2pXc0dkMS1aYTNYUnAwNnVUaGtMTDhCNWg2NzZZbjJ2VThIUWFlUXpCSTFjUmt2VmE2R25lYjdKZHpLWWRackRuVFNLZHNpLWdMWWN5V3RlNW5ZblROSUJXT2ZITGRPd2p1aDlobmRaUWRrRGtlTlRyN19WQWtWdmJrdkRqQmNudWln?oc=5
-
-- 'Not up to scratch': Magpies coach slams AFL review technology - espn.in
-  'Not up to scratch': Magp
-  🔗 https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWZIcWdsQ1VIN2locGFJQUhxTWxNYTFVcmNkYXd3ZUQ4enVxSUVKM3Y4Ym9jMnlUVklDLUhhb3p4YURhVWltcks1dTlzdENQZUxycnVEakVWNnJVZ01JZ2hFbTNsaGppdFFyalJscWtxbjF6TW1yRkNPaHRJVnk3V2JDZ1ROWldOczJOVzE2R3k0a21acE8zWVhYd3FuSm9jU3U5MkRucnVNdFVrM1E?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-11 07:50:54 UTC_
+_Last updated: 2026-07-11 13:10:26 UTC_
