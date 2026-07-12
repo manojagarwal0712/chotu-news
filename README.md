@@ -1,124 +1,128 @@
 # 📰 Daily News Summaries
 
-- Trade Minister to lead business delegation in October: ‘Canada CEPA intends to provide preferential market access in India’
-  
-  🔗 https://indianexpress.com/article/india/trade-minister-to-lead-business-delegation-in-october-canada-cepa-intends-to-provide-preferential-market-access-in-india-10782496/
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- Shekhar Suman associate under ED scanner was caught with 7.4-kg gold in UK
-  
-  🔗 https://indianexpress.com/article/india/shekhar-suman-associate-under-ed-scanner-was-caught-with-7-4-kg-gold-in-uk-10782476/
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
 
-- ‘Satluj’ row: Government panel raises UAPA spectre, ‘misuse’ by Pakistan
-  
-  🔗 https://indianexpress.com/article/india/satluj-row-government-panel-raises-uapa-spectre-misuse-by-pakistan-10782433/
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- Election Commission changes Form 6 for new voters, inserts section asking them about parents in SIR
-  
-  🔗 https://indianexpress.com/article/india/election-commission-changes-form-6-for-new-voters-inserts-section-asking-them-about-parents-in-sir-10782435/
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
 
-- Will seek extradition of Lawrence Bishnoi: US Justice Department confirms
-  
-  🔗 https://indianexpress.com/article/india/will-seek-extradition-of-lawrence-bishnoi-us-justice-department-confirms-10782434/
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
 
-- OnePlus Nord Buds 4 Review: Big on battery life and ANC
-  
-  🔗 https://indianexpress.com/article/technology/tech-reviews/oneplus-nord-buds-4-review-big-on-battery-life-and-anc-10782207/
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- iOS 27: Apple Mail gets AI Search, Smart Replies and Siri features
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
 
-- HyperTexting turns web into social media-style feed without algorithms
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/hypertexting-turns-web-into-social-media-style-feed-without-algorithms-10781972/
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’
-  
-  🔗 https://indianexpress.com/article/technology/meta-pulls-ai-image-feature-after-privacy-backlash-10781889/
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
 
-- Spotify’s Release Radar gets new customisation filters for listeners
-  
-  🔗 https://indianexpress.com/article/technology/tech-news-technology/spotifys-release-radar-gets-new-customisation-filters-for-listeners-10781853/
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
 
-- "J&K Integral Part Of India": Indian Diplomat Flags Wrong Map At Dhaka Event - NDTV
-  "J&amp;K Integral Part Of India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3pDNlZPSGtROHNrdlRvMEQ5VkZ2Q0tOOFRWa2dhZ05xRVNLNHBmSm12MFpGVVo2QW1iNFVSekI2b1VRa1daZEx5NWdDNW9RNnB3OXVpMWFxckkzY0JOZVBzODA3VHZHNTBFZFNwUVg2NGIzNHNtN3dCc0NKcnkyckVGVDBHUVZ3VVhIWTd3eEJWLVJ1Q2hXTUhfQVRmN3gyakI3bk8zWENBbTd6dzZxWjBKdjZzQ1dSX29JRWFRX0NlWjYxMndMYjRWWnJZOXN5TGRBYzZWUjBXTEVnemfSAeYBQVVfeXFMTXBBS1U2LVZUUTQ3Q2JUMVpKaUxOV2hRc3prbWpoUWJJY0F1VXpGY25oR21Cb29WbldoeWdmcDRSckFiOVltWGdKY0I5RGpzbTNDMnNkMV9hQzZxRVJCdmRUTGd2elFNY2ZWaER2WHRYU0lTbDQ2eWE0WmVyQVg2aGVDYmhsM2ZDdC1FRmtua2tQTXhIcWlQZkRMYS1yWEFBMHBsNHlOZzlrLXkzUW9mSmQ1OVVNUFVZNDJMa2ZhZmtTMXJ6ajJJTjV3RUVBX0pfRkRwN3Q5ZUZaWEw0MTUtU01rbDBaNmc?oc=5
+- NSE launches Nifty500 Ahimsa Index based on non-violence towards animals; check stocks, methodology, other key details
+  Nifty500 Ahimsa Index provides exposure to companies whose business practices align with the principles of ‘Ahimsa’ or non-violence. NSE Indices Limited, the index
+  🔗 https://www.livemint.com/market/stock-market-news/nse-launches-nifty500-ahimsa-index-based-on-non-violence-towards-animals-check-stocks-methodology-other-key-details-11783841372632.html
 
-- PM Modi in New Zealand updates: India, New Zealand elevate ties to strategic partnership - The Hindu
-  PM Modi in New Zealand updates: India, New Zealand elevate ties
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
+- Multibagger defence stock to raise  ₹3,322 crore through fresh equity issuance
+  Apollo Micro Systems is raising a total of  ₹3,322 crore via preferential
+  🔗 https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-systems-to-raise-3-322-crore-through-fresh-equity-issuance-11783836726858.html
 
-- New Zealand's Space Sector Played Key Role In Chandrayaan-3 Success, Says PM Modi - NDTV
-  New Zealand's Space Sector Played Key Role In Chandray
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDA3QU9USkJneW9MZk1GN2Z2ZjFhUVkwb2hfc2M5UUl4VURVMktBWFRpMk5pQTkyQmlib1FRVk9CZkN4aDVGMWJNUkg1Nkd5Mk5RX21hNE9kQVMtQlE3VVRtc0FPU1d5MFlsRWJtbklCMzNmN0FNWUp4X1R5UC1NX3VwZjFsWkNqQ29aSzlkZ3gwMDZyeWhaMVg5ZkNTcHpPT1REVFd1eHgybkl2YS1BNFRNSG9yNC03bnV5StIBxAFBVV95cUxOMGljamFOdWxPOXlSdVJjd2lETENiZU5OeGdscTN1YTNaRGxVYWdyeE9pSDNraW5jUDJJUlZHT1NwVXVJcjY3VDVyOFAxbUpaNFNwdGFoSWxydkRlT0NFNjk2Ym4xMlM4OEFQdmV4bm81WDU1bEkzMHdKWG03bC1EeUdnVThkOHpocFNyT2h3YXgtRXJ6MUVoVjRSZ1E0UWRNNlNqRlhmZEpHaW0xTG5meklPdEpSWmxhb1F4eEpaX3pXYVp6?oc=5
+- Q1 results 2026: HCL Tech, Wipro to Jio Financial among companies to declare Q1 results next week; check full list here
+  HCL Technologies, Wipro, Jio Financial Services, Billionbrains Garage Ventures, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank,
+  🔗 https://www.livemint.com/market/stock-market-news/q1-results-2026-hcl-tech-wipro-to-jio-financial-among-companies-to-declare-q1-results-next-week-check-full-list-here-11783830107050.html
 
-- India, New Zealand Grows Ties to Strategic Partnership; Aim to Double Trade to ₹35,000 Crore by 2030 - The Times of India
-  India, New Zealand Grows Ties to Strategic Partnership; Aim to Double Trade to �
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPandQdVFrS3dUTU11azQ5NkRPc3hadkluWTlmXzlpRktJQ2ZUMVZVUGdJTnUybHhKY2xnTmJPbXNOUmtNWjNsUmI2bVRHbFYyZE1qMS02YWdDNUMzT1V6QlQzZ0tMUW5EbmdpcWpEVHBPZUxmZUVfaDZtZHJkV05kb2FsNjhlY0NnQ0Q2bTRkcHRvdjYtaDFQeEZTX2JIZ2ZkbzlkenJibEktYW1ZaWllS01TMmE5SVNJZ1loT1NXZXhaM3BCU2dnUlZsOWFrNHBHMjJ0TmFHN2dqVEk5SG9VbndGaTVvb1FVanZ5TDNEczZPYmUwUTdjVm50aGTSAYICQVVfeXFMUHpxRE5GZFZ4UEtLWER5Q1dqYXl2QW1tTGlDLTk0eTcxTnowcFJrVDJtdF9KYWdYYjl3ZDVDS2xrem1ZWUs3U2ZqaUxGTlNRQ2FWemRJQU4tVmJRUlVDREc0S0dJSGxXbG9sZzY4ajlJUFRiV1dDTUtoaDdmT1ZNd2RKWmZMZ2VJLVoxWkhpNUpwVGFvdTUwaTE2alRabThNZEZrV0QyUGhyMEpVaTd2SkZCUGVfVG02Qk9fbDZ2M25aVVBrQV9VZkQyLVpOWkwtZFRLQ3EweHhPaWF2eklDQ25rNHZTNm44RThhYnpSSHBMcFZpajJJUnNUdTNocWRBRDRB?oc=5
+- Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?
+  For the week, the Sensex fell 0.25% to close at 77,5
+  🔗 https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11783828228866.html
 
-- Tabassum Khan: Muslim judge in India faces death threats after convicting 'cow vigilantes' for lynching - BBC
-  Tabassum Khan: Muslim judge in India faces death threats after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Db1NIZ2RkYWhjakR5QVhVVURLR0s0cU1pa2dJdExLd1U2RlpkRjFxZm9FODlPYkJZT1N2ZmN6VFdWUFdjZm9qcThybFNMMDFhSGItaW5VTmJDdw?oc=5
+- Stocks to buy under  ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 13 July 2026
+  The Indian stock ended the week on a positive note on Friday. Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks
+  🔗 https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-july-2026-11783826024848.html
 
-- Nomura sees 22% upside in Ather Energy. Here's why it's the brokerage's top EV pick
-  Nomura maintains a 'Buy' rating on Ather Energy, raising its target price to  ₹1,470. The electric two-wheeler market is expected
-  🔗 https://www.livemint.com/market/stock-market-news/nomura-sees-22-upside-in-ather-energy-heres-why-its-the-brokerages-top-ev-pick-11783759286706.html
+- Prepare for a perilous summer in markets - Financial Times
+  Financial Times: Prepare for a
+  🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxQODNUOEg4Z1JOUFkzTzdqSW5ZazBFZE1SSFFFVURUUlpJRWxCa09uQ3d1VUZnSS1DelBDNUNaUEd3Y2hnVnhBWThWdHNtSVFSeEFyaldMRkNpVVBCQnZ3RUYzTkRleFdhQ3hTSXl5Y2NlR1FybzNVQThBSk1fMmNYd05Kd0w?oc=5
 
-- Why large cap and mid cap funds could be the best mutual fund to bet on now, according to Abakkus study
-  Abakkus Mutual Fund's study highlights Large &amp;amp; Mid Cap Funds as an appealing investment option.
-  🔗 https://www.livemint.com/market/stock-market-news/why-large-cap-and-mid-cap-funds-could-be-the-best-mutual-fund-to-bet-on-now-according-to-abakkus-study-11783754490006.html
+- Stock Market News, July 10, 2026: SK Hynix Finishes Higher in U.S. Trading Debut - WSJ
+  The Wall Street Journal published a story about SK Hyn
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmtpOFJscm9XNFpFT3VoeWtZYU5FSV9Ea3ROY2lJTnN2S1FHYmpSRndocjFDZFd3REhOem9aLVNUelZFUU5Ndlg3SFJkNTB0ckpXTFFHNVhWUmtlejJVU0M1R3paUnEyWXFZLTVveTE0UXZUYlkyb1JCVklfQzJjZXRjT0NKTDQ?oc=5
 
-- AI chip fever returns? SK Hynix  share price surges 13% after blockbuster $26.5 billion US listing
-  SK Hynix debuted strongly on Nasdaq, raising $26.5 billion. Despite recent semiconductor stock volatility, demand for AI infrastructure drives
-  🔗 https://www.livemint.com/market/stock-market-news/ai-chip-fever-returns-sk-hynix-share-price-surges-13-after-blockbuster-26-5-billion-us-listing-11783751790334.html
+- Iran moves to close Strait of Hormuz. Should investors fear a Nifty crash in coming days? - The Economic Times
+  Iran moves to close Strait of Hormuz. Should investors fear a Nifty
+  🔗 https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNkxKRkt0UHQwUXBnOW9IUUFnbjN0YUpwbkl3UzREcjFZelI1V3l2U0M5VS1ZamNtR2Zrc3hjdGlDVjFPWDJ1alNSMFBrc2N5OEg5MEtPUGxIOEZxWFJSbURwWFVnaUVGZWZad00zNklGZXYyVnBhWXhBZVd6X2lTdjFSeHQxRVVocGJqNElrc2lYU0VnTVdrZ2JVYnZaaXFVVXI3NmJBUE83b25PcUUwMll3VDI2a0t2N1ZLeDc3cUpJVXAxY2xLZ2laUVo4SmZaR1NQY3JXNzVsVThEbUhaeHN6Q1ZLTVVEZDVjai1GMURMc0HSAfgBQVVfeXFMT25QaklWQlVmd2o5anBWaF9lVkVkNFpRbGoyLV9WUGwtUjBaZktaMTVJS0RuUktUMEk1eUZlRXNtMHhBYkUtejh2MVlZNTFLZ1ZTMENyNGlsNVl0bXJMcTBqN0R0S2FObnk1ZHk0ZmpIZGdIWDJJTXdSbDRmc0I1dFplbEZnVEE5VE1LYVhITXlFeFBIOGd1bk1Pcl9ZRmticmdGaE5wVEluOE1selIxajQyY1Btc3hyRnJQYlFqUVhGWHFDd0ZjVFdOd0h5VHZDeVpZaHQ1Wk5JeFVuMy0wU3FDakU0TWNPR3FhSGFOVWdhaHpmenhCWXQ?oc=5
 
-- SBI Funds Management IPO: SBI offloads 1.42% stake to 30 investors ahead of issue | Check latest GMP, IPO details
-  The SBI Funds Management IPO opens for subscription from July 14 to 16, 2026. Kotak Mahindra is the lead manager. SBI completed a pre-IPO share transfer to
-  🔗 https://www.livemint.com/market/ipo/sbi-funds-management-ipo-sbi-offloads-1-42-stake-to-30-investors-ahead-of-issue-check-latest-gmp-ipo-details-11783747611365.html
+- The Next Bull Market Could Be Built on Inventory Replenishment - Crude Oil Prices Today | OilPrice.com
+  The Next Bull Market Could Be Built on Inventory Replenishment.
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUtPWmVFM1QzdVphanNITXQ3VE1KU29hdnVwRS16YW9JQ1J1bHZoU1VhaTJGbEdvWDQwOEo4R2NBaUlMTUJzcUlBVU1tWkh3MGhueTRrNk42eENDTHJmYjlQRzJzSnpNOXBwcDVVa0FMejVKMlVZZ0pjUzFxMUdDQkxacDdianNjQVgyeUN2U3NZaDJkY3JPR1otOUROMHVDc0tCMXlSVXHSAa4BQVVfeXFMTXNqdUZrQ0l6dkY3cFBrNDFodWlja08xbG55ZkRESkxtNmtZWDNWM1E4bEpON2M1Vmw3dmhHVlBsVWpjVjc5Rno2a2VCNFdrenE3XzAyUDZsazhHOXlLSHkyOUdvOE1YbElsRXBPREJ3ZjZOQllnU2pZVW43bGhQLUNJMjhVdmlsU2I1OXNzQzh4eXgwMnQycGtxN0JsZTIyVEtVR2N1TW5ZeUVCd0x3?oc=5
 
-- Greed and Fear report: Christopher Wood sees 'AI fatigue' setting in. Why Jefferies is turning bullish on India
-  AI-linked stock momentum is waning as investors discuss 'AI fatigue' Jefferies prefers India's undervalued market over overhyped AI stocks.
-  🔗 https://www.livemint.com/market/stock-market-news/greed-and-fear-report-christopher-wood-sees-ai-fatigue-setting-in-why-jefferies-is-turning-bullish-on-india-11783742010435.html
+- The Market Divergence: Why stock selection matters more than ever - Moneycontrol.com
+  The Market Divergence: Why stock selection
+  🔗 https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV1k0b21WbHBpNTVkUXNjZzFQSVhKQU9Rb3VaRV9TVmdZbkFqbjVxNm9TaFNIbnVDVzAwSTNFVllsM1o5ODB6VzlnVGVFUzZYYUo3RnEtWUlZTG5Wd19oRndkd2t0YkhHSEtDWEVqUlBkSGxEVXBiRXp0X1hJLXhRWmM4c2E4OGhiUDdteDNJNjEwWDBZU2RaSEZpa3hNZUxhbldkSUg0aWdZbmUza1NSX1ROVlMxNy1VS2FYR3VfenprYmU5S05yedIBzgFBVV95cUxNSWV0TXZTZjhnQzBXS041SUJCeFBUV3dsNDIweEVoN0JtVnRiSDBsTXNCcHRBZFRlaDJkUnM2T0ZMd0tmUW9qT0EyN045VXhIYmNRWXNwcDl4aDVMQ2FIcnBvTXJOVTI0RkdxcWNxMGVOeVc3YzloVkFfcFBNWEloTFRKOUQ1bHg0UWE1am1nMjJpbnhGUW9DcDZNZHQ5Qks4djYwMWVFNEtuWDZtSHVpN0xUc1YxSmlpNjRiVHI4WHNMVEtYTzNlcnk0OGZndw?oc=5
 
-- SIF AUM jumps 29% to Rs 17,858 crore in June; inflows surge 171% MoM
-  Specialised Investment Funds saw assets grow significantly in June 2026. Total inflows into these funds also experienced a substantial increase. Hybrid Long-Short Funds continued their dominance within the SIF segment.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sif-aum-jumps-29-to-rs-17858-crore-in-june-inflows-surge-171-mom/articleshow/132329280.cms
+- Largecap funds no longer the best bet? Edelweiss CIO Trideep Bhattacharya explains why flexicaps may win now
+  Edelweiss CIO Trideep Bhattacharya favours flexicap and midcap funds for better growth potential. He remains underweight IT amid transition, and is bullish on financials.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/largecap-funds-no-longer-the-best-bet-edelweiss-cio-trideep-bhattacharya-explains-why-flexicaps-may-win-now/articleshow/132342040.cms
 
-- DMart Q1 results: Cons PAT up 11% to Rs 860 crore, revenue rises to Rs 18,795 crore
-  Avenue Supermarts reported an 11.3% net profit increase for the June quarter. The company's revenue from operations also saw a 14.9% year-on-year rise. EBITDA grew by 15.4
-  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q1-results-cons-pat-up-11-to-rs-860-crore-revenue-rises-to-rs-18795-crore/articleshow/132324295.cms
+- Iran moves to close Strait of Hormuz. Should investors fear a Nifty crash in coming days?
+  Indian equities are likely to remain volatile this week as escalating tensions in West Asia and the closure of the Strait of Hormuz threaten to push crude oil prices higher.
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/iran-moves-to-close-strait-of-hormuz-should-investors-fear-a-nifty-crash-in-coming-days/articleshow/132341443.cms
 
-- Nearly 60% of foreign inflows into India-focused funds withdrawn since 2024 peak: Report
-  Foreign investors have withdrawn nearly sixty percent of funds from India-focused equity. Investors pulled nine billion dollars from India funds in calendar year twenty twenty six. Gold funds saw a modest inflow after significant outflows.
-  🔗 https://economictimes.indiatimes.com/markets/stocks/news/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/articleshow/132328818.cms
+- HCL Tech Q1 preview: Revenue may dip QoQ; net profit could rise on currency depreciation
+  HCL Technologies is expected to report a mixed performance for the June quarter. Investors will closely watch AI-led demand, margins, deal wins and any changes to the company's FY
+  🔗 https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q1-preview-revenue-may-dip-qoq-net-profit-could-rise-on-currency-depreciation/articleshow/132341372.cms
 
-- George Goodman’s investing wisdom: Why sometimes the best move is to do nothing
-  George Goodman's classic book highlights investor psychology over pure logic. He stressed knowing oneself and avoiding crowd mentality. Goodman's insights remain relevant for navigating today's volatile financial markets.
-  🔗 https://economictimes.indiatimes.com/markets/us-stocks/news/george-goodmans-investing-wisdom-why-sometimes-the-best-move-is-to-do-nothing/articleshow/132327422.cms
+- 10 debt-free penny stocks under Rs 10 rally up to 1,126% in one year. Did you catch them?
+   debt-free penny stocks priced under Rs 10 have delivered outsized returns of up to 1,126% over the past year. Trendlyne data highlights sharp gains driven by liquidity and sentiment, but underlying risks remain high
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/10-debt-free-penny-stocks-under-rs-10-rally-up-to-1126-in-one-year-did-you-catch-them/articleshow/132341240.cms
 
-- Bitcoin holds near $64,000 despite ETF outflows; crypto market remains resilient
-  Bitcoin held near $64,000 despite significant ETF outflows on July 9. Major altcoins experienced mixed performance, with some falling and others rising. The global crypto market capitalization saw a slight increase to two trillion dollars.
-  🔗 https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-64000-despite-etf-outflows-crypto-market-remains-resilient/articleshow/132326051.cms
+- SBI MF among 6 IPOs on investors' radar this week. GMPs indicate listing gains up to 118%
+  India's IPO market is set for another busy week with five public issues across the mainboard and SME segments. Millworks Technologies leads the grey market premium chart, while SBI Funds
+  🔗 https://economictimes.indiatimes.com/markets/stocks/news/sbi-mf-among-6-ipos-on-investors-radar-this-week-gmps-indicate-listing-gains-up-to-118/slideshow/132341236.cms
 
-- "J&K Integral Part Of India": Indian Diplomat Flags Wrong Map At Dhaka Event - NDTV
-  "J&amp;K Integral Part Of India
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3pDNlZPSGtROHNrdlRvMEQ5VkZ2Q0tOOFRWa2dhZ05xRVNLNHBmSm12MFpGVVo2QW1iNFVSekI2b1VRa1daZEx5NWdDNW9RNnB3OXVpMWFxckkzY0JOZVBzODA3VHZHNTBFZFNwUVg2NGIzNHNtN3dCc0NKcnkyckVGVDBHUVZ3VVhIWTd3eEJWLVJ1Q2hXTUhfQVRmN3gyakI3bk8zWENBbTd6dzZxWjBKdjZzQ1dSX29JRWFRX0NlWjYxMndMYjRWWnJZOXN5TGRBYzZWUjBXTEVnemfSAeYBQVVfeXFMTXBBS1U2LVZUUTQ3Q2JUMVpKaUxOV2hRc3prbWpoUWJJY0F1VXpGY25oR21Cb29WbldoeWdmcDRSckFiOVltWGdKY0I5RGpzbTNDMnNkMV9hQzZxRVJCdmRUTGd2elFNY2ZWaER2WHRYU0lTbDQ2eWE0WmVyQVg2aGVDYmhsM2ZDdC1FRmtua2tQTXhIcWlQZkRMYS1yWEFBMHBsNHlOZzlrLXkzUW9mSmQ1OVVNUFVZNDJMa2ZhZmtTMXJ6ajJJTjV3RUVBX0pfRkRwN3Q5ZUZaWEw0MTUtU01rbDBaNmc?oc=5
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
 
-- PM Modi in New Zealand updates: India, New Zealand elevate ties to strategic partnership - The Hindu
-  PM Modi in New Zealand updates: India, New Zealand elevate ties
-  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOemExZHh6RW9aTVZnSm5qelY2YUhhV2dLQk96NGRkekdpRExVMTFpMjNvZGtEa24wMm1KcllScC1GZUNkeUF5U09XS2ZqN0dkVUdQNklfVEVvZGV2T0I4dWVjTUhPdDY0cEc5dGYtVlhfZGExVW1fb3RXZVIzX1FjNExTTnRLcGhfZHJUV0x5QzBBLWIzYXNEb3FhTUNjdlVNdGVKd3hta0xDVEVXazlqREFYa05FQ3ROb2RFcGF3ek1QclBGYUVlWnppTlRQSjDSAdYBQVVfeXFMTnU3ZXZ5M2ZlcG1HbXFkWklXOUpGREh2X2hFSzlKbDk5b1hoX3doQURpVllmSkREQ3B1alBGcUtRUGkyODZ6T0luajV6SFNFeTV1MHJ6d0ZadV9wLVFtVEhhMVM3aWh2UmdhUTFYYzRqUG1pVFh4bTRIcG5ZcVBzNVpCd1hELVlieXVudHNETjNMWGVJMlBkM1FyVXFySDhfRTcxRVo3WDRLOUtzV0pJQTBFRHJ4QXEwemF2UWNtYWpod3lqMlRuQU9XQWp2TlQwamVtMnpzUQ?oc=5
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
 
-- New Zealand's Space Sector Played Key Role In Chandrayaan-3 Success, Says PM Modi - NDTV
-  New Zealand's Space Sector Played Key Role In Chandray
-  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDA3QU9USkJneW9MZk1GN2Z2ZjFhUVkwb2hfc2M5UUl4VURVMktBWFRpMk5pQTkyQmlib1FRVk9CZkN4aDVGMWJNUkg1Nkd5Mk5RX21hNE9kQVMtQlE3VVRtc0FPU1d5MFlsRWJtbklCMzNmN0FNWUp4X1R5UC1NX3VwZjFsWkNqQ29aSzlkZ3gwMDZyeWhaMVg5ZkNTcHpPT1REVFd1eHgybkl2YS1BNFRNSG9yNC03bnV5StIBxAFBVV95cUxOMGljamFOdWxPOXlSdVJjd2lETENiZU5OeGdscTN1YTNaRGxVYWdyeE9pSDNraW5jUDJJUlZHT1NwVXVJcjY3VDVyOFAxbUpaNFNwdGFoSWxydkRlT0NFNjk2Ym4xMlM4OEFQdmV4bm81WDU1bEkzMHdKWG03bC1EeUdnVThkOHpocFNyT2h3YXgtRXJ6MUVoVjRSZ1E0UWRNNlNqRlhmZEpHaW0xTG5meklPdEpSWmxhb1F4eEpaX3pXYVp6?oc=5
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
 
-- India, New Zealand Grows Ties to Strategic Partnership; Aim to Double Trade to ₹35,000 Crore by 2030 - The Times of India
-  India, New Zealand Grows Ties to Strategic Partnership; Aim to Double Trade to �
-  🔗 https://news.google.com/rss/articles/CBMi_AFBVV95cUxPandQdVFrS3dUTU11azQ5NkRPc3hadkluWTlmXzlpRktJQ2ZUMVZVUGdJTnUybHhKY2xnTmJPbXNOUmtNWjNsUmI2bVRHbFYyZE1qMS02YWdDNUMzT1V6QlQzZ0tMUW5EbmdpcWpEVHBPZUxmZUVfaDZtZHJkV05kb2FsNjhlY0NnQ0Q2bTRkcHRvdjYtaDFQeEZTX2JIZ2ZkbzlkenJibEktYW1ZaWllS01TMmE5SVNJZ1loT1NXZXhaM3BCU2dnUlZsOWFrNHBHMjJ0TmFHN2dqVEk5SG9VbndGaTVvb1FVanZ5TDNEczZPYmUwUTdjVm50aGTSAYICQVVfeXFMUHpxRE5GZFZ4UEtLWER5Q1dqYXl2QW1tTGlDLTk0eTcxTnowcFJrVDJtdF9KYWdYYjl3ZDVDS2xrem1ZWUs3U2ZqaUxGTlNRQ2FWemRJQU4tVmJRUlVDREc0S0dJSGxXbG9sZzY4ajlJUFRiV1dDTUtoaDdmT1ZNd2RKWmZMZ2VJLVoxWkhpNUpwVGFvdTUwaTE2alRabThNZEZrV0QyUGhyMEpVaTd2SkZCUGVfVG02Qk9fbDZ2M25aVVBrQV9VZkQyLVpOWkwtZFRLQ3EweHhPaWF2eklDQ25rNHZTNm44RThhYnpSSHBMcFZpajJJUnNUdTNocWRBRDRB?oc=5
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
 
-- Tabassum Khan: Muslim judge in India faces death threats after convicting 'cow vigilantes' for lynching - BBC
-  Tabassum Khan: Muslim judge in India faces death threats after
-  🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Db1NIZ2RkYWhjakR5QVhVVURLR0s0cU1pa2dJdExLd1U2RlpkRjFxZm9FODlPYkJZT1N2ZmN6VFdWUFdjZm9qcThybFNMMDFhSGItaW5VTmJDdw?oc=5
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
+
+- Unicorn Founders Go AI Native
+  “Not using AI is like being left behind,” Apple CEO Tim Cook’s remark captures the urgency around artificial intelligence.
+  🔗 https://inc42.com/features/unicorn-founders-go-ai-native/
 
 - Indian Startup IPO Tracker 2026
   Dalal Street emerged as a founder’s paradise in 2025. 18 Indian startups listing on the bourses.
@@ -136,9 +140,65 @@
   Ecommerce enabler GoKwik has fired 100-120 employees as part of a restructuring exercise carried out over the past few weeks.
   🔗 https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/
 
-- Zetwerk Cofounder Rahul Sharma Steps Into Non Executive Role To Launch AI Venture
-  IPO-bound contract manufacturer Zetwerk's cofounder and managing director of its precision business (electronics), Rahul Sharma, is
-  🔗 https://inc42.com/buzz/zetwerk-cofounder-rahul-sharma-steps-back-from-executive-role-to-launch-ai-venture/
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
+
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
+
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
+
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
+
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
+
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
+
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
+
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
+
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
+
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
+
+- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
+  'Goes Against India's sovereignty':
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
+
+- India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations | India News - Hindustan Times
+  India asks US to drop proposed 12.5% tariff, pushes for bilateral
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWm9wMDFUbHVsbUFscnJlOGZaNWdjelZsSUQ1QVB0aDN5VzR2aUNTMXZROThxcVB3S0JBNUpia1RsRkdWY092eEI1UGw0RTBrOU80cm1mZ05lXzF5S3pOclBYVm9xdUUtV1FWQ3F6QjJEOWJ4d3VSZEo2VVZWWF9QTDBvbE12eVpxZ0xvUENCNlNMWUg4Vmk2dUswUWJMc0ltaVBXeEZYUjR1SDNMLVNzSk5GTGtLMFB4dDdGQ1JQaWpoNGhRT25PbW03eXFiVHE3R1BWbmtQX1VsOGhTd0HSAeMBQVVfeXFMTzNBX2tJdU5ZdTg4Yl9kNUkwa0REd0pJSzJHNVVQUm5hNlNkb2ZFdE1McEZYN19Femh6LWZwSm54ZmZxRHdaWWs2MkFpREIxNU53bFVlOGFUV3Y3Skd6WUlaVzFpRVlUbVhaRXhORUVDRUdSSEdNdjFnQXR6djJaRjQ1RjMtbS0zMmhLV25pMEhVOVpCbnlNU1Z2bzI3N3VsV3JtcUE1cHNYZGJkTkJPbTJ0LUt5NW1fVVB0X01tUjlDSnd2Ql9jWFFXN2hsUmlWYkZpYldTT1Vyc1JrUFRfcUhvbUE?oc=5
+
+- 15 Indian tourists killed after speedboat capsizes in Vietnam; rescue ops on - The Times of India
+  15 Indian tourists killed after speedboat capsizes in Vietnam; rescue
+  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkJpSm1jcVBBT3puNElGV3F5TE9WeG5NVGhQeko4cU9wLTBxbDVBNFlZbC0yUFVxU3Z6STNyTG5QcFdWYVMtWGdPdmxkdGRNcnM2T25SbFV2RXhTcDZ1Y2VGR2lSV083X1lqejRTTmQ3dDFqd1FJZVhaaDAtbDZLMllsaHpLOFNtWEdJTEowcUc2MVFmVGZqSDdFQ3pWWmtFU0dHTTN4TE1XRFFfeEVWc2ZOaDhSOXcwa3hrZ2UyQUVyRWZkdnFKMHpnT1lfWHJGTUdlWlhyMGFJUVRBdHfSAeMBQVVfeXFMTTlWNzdQa1M5d3NSX1FZa3BWd29GQzdqam5Pc0ZVOWtZME9sVmxXRXh3QklpanRicmJ4cEk4aWxtb1FYZ0pjQjRPbVBCWVdvTkx6dU9vb3dBR0ctblplR0xzZWVvRjhqRTdKbnVqZk9qb2s4NGcwdHJEbHNEZV82VkthLVJma1NXVlJsYVAxOWVJS2FmNGFlbzZuV3BHUkxiRDBJZm5YUWk3M2d4b1o1elFXR1VWd1hBNDNyNjZORUI1WGk0UnJXbEVkSnNWTnl5TjhSRnlfRzlWTE9qb0FrZ3djZzg?oc=5
+
+- "Unimaginable Tragedy": Lava Mobiles As Indian Associates Killed In Vietnam - NDTV
+  "Unimaginable Tragedy
+  🔗 https://news.google.com/rss/articles/CBMi-wFBVV95cUxNM1BLVG9ndXQyUVlJXzdMdXVRRmZUYmNCU1ZSNVd2MzlvWmlRUkw3M000MzlUS0h2bVVpTVVid2diYlJKSHZVSU5UMXhtQUFycU1lVG4yQm1ETld5WHZQVXgzaDBiTTVNdkhCLVFGX3dxb2FtN085em5CUzRELTdyTVdhUkp0NGFrNGlsWnNHVDBFVFpfOE54Z2dWVU95cXEtRTFhQks1V3BuaDlWNmxxdHB4TV81SVBwSlB1QnV4bHVLd1FQLVFIQjdnWkhlRm11clF4bk4wcUUyVGtUblpMMEVCaVoyNmZrX3VUbldmT29Bd3BBa2lzNGtDWdIBgwJBVV95cUxPMHItT0hNSHdTb3BXWkxOZDNBRDFRUmJSdEVHR19tUC01UzlTMUJ3cHpUQnJJZHNRdFNfSWJZTXRJVWNyalpDdGVqa3lGOFJCLVFfdnpqWE93Vl83WHZFdldzVU5vYXlpUW5HQ0xDd0xKRjc5WlU5dXg5RFdpQ3Q2Z2FSZTZwYnhMT0hpTy1oMkxEbnBvcDl3WFV6WHRzcklMblNnRXBoSU5OY2tPcFBPYXlEVEpkczZ6RWFFS2c5VWt0V2E1clo2akVyTFlxNWt4UTBpMVk4SGg0U3JxOUg4ZE1KVmZtUHJ2OHJNSkw4OU5xNC1qcE9FTnpfZi1PelE4VDM4?oc=5
+
+- Vietnam boat tragedy: Embassy begins repatriation of 15 Indians killed - The Times of India
+  Vietnam boat tragedy: Embassy begins repatriation of
+  🔗 https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmdQaGkxZm4xOEN6M0ZydmIza09FejJMUk5VeWNnRGIzQkVWdjlvdzNIMjJBQVhKNjRDT1JtQkpBbTVtZlpxeTFmSURGX1V3eGhlcFJ0dC1RT0hOZzRzc1NQQmdIN1d2QWdZdVloM195U0dEM2hhQzFHRW1QVVJlTjNpSm5vUFVlTVI4d3N3UGdTVzZpcHZLajVMODRJczU0dVhuQkVXd3NHbTM2ck8xMG9peXdxOF9PN2tlN3FucDduS2k2YnBwTjdaeDZKNjFxbEtB0gHYAUFVX3lxTE90Zi1jdjk4bHlCRzB6ZlFiTndYbW5QNHBfZXB0a0wwOEVvZThyd0JrWHZlcGlueVpDbVhyWlZqT3FMNklaNG5wWWNXcVdPd3BtdGNpY2dMQnhfcWNUUDRXWV9XSVlZWmR4VkMydlBqRUY3RVotUFZaNi1vNG5fUGg5LXRUR09aVlpVdFNhWURCbU1XMlZQUU5VQThuT0lsbzNwWlRMMWs1SWc2VndGVUNJamZBeFRTalkxM2g5UW9fd0VIZGg5TktMbzFBSVlHdjR1RHE4QjBhTw?oc=5
 
 
-_Last updated: 2026-07-12 02:12:53 UTC_
+_Last updated: 2026-07-12 08:12:05 UTC_
