@@ -1,24 +1,24 @@
 # 📰 Daily News Summaries
 
-- Agra Cantt incident: RPF personnel suspended after viral video of clash with Deputy Station Superintendent
+- Iltija Mufti says under house detention with mother Mehbooba ahead of Martyr’s Day in Kashmir
   
-  🔗 https://indianexpress.com/article/india/agra-cantt-rpf-personnel-suspended-viral-video-deputy-station-superintendent-clash-10783265/
+  🔗 https://indianexpress.com/article/india/iltija-mehbooba-mufti-house-detention-kashmir-martyrs-day-10783436/
 
-- 3 publishers arrested in J-K for books that ‘glorified separatists, militants’
+- Assam activist protesting Kaziranga luxury hotels project detained, Opposition slams ‘bid to silence’
   
-  🔗 https://indianexpress.com/article/india/jk-police-arrest-publishers-books-glorifying-separatists-maqbool-bhat-10783217/
+  🔗 https://indianexpress.com/article/india/assam-activist-protesting-kaziranga-luxury-hotels-project-detained-opposition-slams-bid-to-silence-10783421/
 
-- Chennai Metro new rule: Playing music without earphones can attract Rs 2,500 fine
+- India to hold 1-day mourning as Qatar’s former Emir Sheikh Hamad dies
   
-  🔗 https://indianexpress.com/article/india/chennai-metro-new-rule-playing-music-without-earphones-can-attract-rs-2500-fine-10783114/
+  🔗 https://indianexpress.com/article/india/india-national-mourning-july-13-qatar-former-emir-sheikh-hamad-bin-khalifa-al-thani-death-10783350/
 
-- India’s first hydrogen train: 6 things passengers should know before its launch
+- Driving road roller over seized narcotics, Himanta Biswa Sarma kicks off massive anti-drug campaign
   
-  🔗 https://indianexpress.com/article/india/indias-first-hydrogen-train-6-things-passengers-should-know-before-its-launch-10782929/
+  🔗 https://indianexpress.com/article/india/himanta-biswa-sarma-anti-drug-campaign-seized-narcotics-road-roller-10783359/
 
-- A Hyderabad businessman, a US investor with ‘Trump links’ and a derailed World Cup bid
+- Day after Vietnam boat tragedy, families seek ‘clear information’, await return of remains
   
-  🔗 https://indianexpress.com/article/india/hyderabad-businessman-us-investor-trump-links-derailed-world-cup-bid-10783020/
+  🔗 https://indianexpress.com/article/india/vietnam-boat-tragedy-families-clear-information-return-bodies-10783343/
 
 - Asus Chromebook CM32 Detachable review: This slick new 2-in-1 device is perfect for school
   
@@ -40,6 +40,10 @@
   
   🔗 https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/
 
+- TCS reshuffles top ranks, reorganizes business units amid growth push
+  The company's restructuring includes new business segments and aims to adapt to evolving market demands. Tata Consultancy Services Ltd has initiated a major leadership overhaul.
+  🔗 https://www.livemint.com/companies/tcs-reshuffles-top-ranks-reorganizes-business-units-amid-growth-push-11783833390817.html
+
 - 'Tariff repair remains important': Airtel VC says as Sunil Mittal charts next big bets — financial services, data centre
   Bharti Airtel aims to grow through financial services, data centres, and cloud. It has invested over  ₹3.3 lakh crore in digital infrastructure.
   🔗 https://www.livemint.com/companies/news/tariff-repair-remains-important-airtel-vc-says-as-sunil-mittal-charts-next-big-bets-financial-services-data-centre-11783854429048.html
@@ -56,9 +60,9 @@
   Oliver Blume feels there are ‘smarter solutions’ to save money than shutting factories. In remarks that could help defuse tensions with
   🔗 https://www.livemint.com/companies/news/volkswagen-vw-ceo-oliver-blume-says-smarter-solutions-possible-beyond-closing-plants-save-money-shut-factories-cut-costs-11783855186872.html
 
-- HDFC Bank top brass get hefty FY26 pay hikes; Deputy MD's  ₹17.14 crore pay package tops CEO Sashidhar Jagdishan's
-  HDFC Bank MD and CEO Sashidhar Jagdishan’s basic pay held steady
-  🔗 https://www.livemint.com/companies/news/hdfc-bank-ceo-sashidhar-jagdishan-earns-rs-15-13-crore-in-fy26-deputy-md-kaizad-bharucha-tops-pay-at-rs-17-14-crore-11783848698665.html
+- Week Ahead: Wall Street braces for inflation data, big bank earnings and Middle East developments
+  Investors will closely track the latest consumer and wholesale inflation figures as they assess the future direction
+  🔗 https://www.livemint.com/market/stock-market-news/week-ahead-wall-street-braces-for-inflation-data-big-bank-earnings-and-middle-east-developments-11783868386079.html
 
 - Mcap of 4 of top-10 most valued firms jumps  ₹92,995 cr; HDFC Bank, Airtel top gainers
   The gainers from the top-10 pack were RIL, HDFC Bank, Bharti Airtel and LIC. ICICI Bank
@@ -75,10 +79,6 @@
 - Inflows to multi-asset allocation funds jumps 22% MoM amid increased stock market volatility
   Multi-asset allocation funds attracted inflows of  ₹4,810.76 crore in June. This is up from 
   🔗 https://www.livemint.com/market/stock-market-news/inflows-to-multi-asset-allocation-funds-jumps-22-mom-amid-increased-stock-market-volatility-11783844452301.html
-
-- ₹2.45 to  ₹213: Multibagger penny stock turns  ₹1 lakh into  ₹87 lakh in five years
-  Cupid share price was once priced at  ₹2.43 apiece
-  🔗 https://www.livemint.com/market/stock-market-news/245-to-213-multibagger-penny-stock-cupid-turns-1-lakh-into-87-lakh-in-five-years-11783842128647.html
 
 - ‘Elon is obsessed with me again’: Sam Altman hits back as Musk invokes Apple lawsuit against OpenAI
   OpenAI CEO Sam Altman and SpaceX's Elon Musk engage in a social media dispute following the launch
@@ -140,45 +140,33 @@
   Ecommerce enabler GoKwik has fired 100-120 employees as part of a restructuring exercise carried out over the past few weeks.
   🔗 https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/
 
-- Evening news wrap: India condemns Oman vessel attack; Wangchuk's health dips amid hunger strike & more - The Times of India
-  India condemns Oman vessel attack; Wangchuk's health dips amid hunger strike.
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMmRENU9ORlctdTN1V2hqaXBBWi05Z0lqSGtZWFJxdU9PbzNpT2tjMWd3eEFnQnREOFVaV1FQVVlKdFUwWXI3NTRuZjBOOTN5cjdHZEFjSFd3aGJLd3FGdVpBNEUxOGw5amhmd0hwb3hFdDk1RnRuRkVYemw1YzlWcHdTTEdfVjVJN09mSzJLVzdKcE5hcjJJT09xU1lxSGVDZkl6LS1aenpLRWxub3ZZbzRJb0lGOUw3NU8yQmpEXzc0NkROdTVpM21XNldTTm9makV2WUV5WVlYeWg3aEZyNmdWQkg5eS12Z3BUNmp0eldaeVNBbzZxNtIB_gFBVV95cUxQWTMtQ1Z0X1FYVnJWcHg2VkR4UjN6TldZM0dnVU9FOXMwTmpWSUV6VklJSjdmei1LejY4TUYtUDl6ZU5VVDh1NnRrd2JOUWlIZGp6LTNDTWtzbG1lZlo2V1dQMWhEcUJtaHA5WDVPWnd4czIzSlc2S01yRVNaZnNSYnp0X192dTkwT1AzWGlWTmZ0QTBUaFB4UkpxU3E5eklzRFJnOW1xdExsWUdkZ3ktRm5mcEo5VjFsSVhPa2didm9ZVFdtWmV0Rk9ET0F6Q2RJQ0Zpa3NiV2ppTXQ5UE1MLTJEN1B0TjJnT2l1S1JoSnlEQVJWTXlrVll1U0R1Zw?oc=5
+- Buy HDFC Bank; target of Rs 1,850: ICICI Securities
+  ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html
 
-- 'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast amid US-Iran war | India News - Hindustan Times
-  'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk5jZ2U5WXVVRW1VYngzd2pTQTNJUndSX0R0X3kwdkw0SFk3QkpVdWJsUUM2aVJKaDZLUU84YVlQN0xjZVFTWjRWWGtoaDBJWWdoajl2TjBORXVjdmFGbm04WlBHbDlWOHQwZ2djNnVTclZ3Z1lha1VEU3hWVGh6VVBZLVdhZGtoLTFrRkd2MXd3enF1cmI3ZG5ZS2pWYTZNZzFJYU5JTFJqeXJiei1Tdk45dlZLaXpxX2x3Ul8ybFBRMFoxQlFfSjNTRmRuTUozM0Z3Mi1XYTdmX2xYMDk4aDdrTTBhWkY5bzJn0gHwAUFVX3lxTFA0cUZFbUd6QzlucVNEQVNLa3lwWkdOMGY0d3c0UWJ3RFN0OUcxeUVPa2VJeUFLUTRXR0pzWHBLaE44elVXWlR2ajEwNjRQSF9MU0Q2Z3hBQWk2cFBCTFl4d0FiN1VyYXlKM1pTUHJuUHZPU3U1UEVuNjhKWEk2dElYeXBXbE9XcHlVREdqU1RxNXZQRzBBaXZvWHlycUE4QUxTUnd1cGRJUTlabWtjMkxack45eHRvUkZ5RHhkV3BCeVV6Y3FHY3I4TDBrZHljWG9rOVl3RHJVS2VNMVZ4NHlETFFSdldTaHJaTERvQlZKNQ?oc=5
+- Buy Tejas Networks; target of Rs 1100: Emkay Global Financial
+  Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html
 
-- Indian Missing, 10 Rescued After Iran Attacks Ship In Strait Of Hormuz - NDTV
-  Indian Missing, 10 Rescued After Iran Attacks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXJoNFpQZVhPYnQ2WC0xcFNNc2FmY0I5QXBGSmk4cEpSb25kZ0VqSk9WOEI4YzI5aVUxVXFQa0RDMTFENFhvZkt6QnpQSzJ1eFp2Mnd6MW1yTlNtYXVScTlFaGZtLWVVZ1MwczA1dVl4YmxMUnFUNk9saHZLam9MRXY0OXlZcG44ZWZkck1xejhUTHotM25hQjJpdjJoV2tFSUhmU3MzUTE5YlJrNjlNLXR6bFpZOFRUVTY0UlRNaHpXMHM0NjNUVWFRMXdkZ25JNXV3Z20wN1DSAeABQVVfeXFMT3hqa1pPVUx4eE1TalBtVW92alFFZzZTcXZMZk10Um15ZlpLZmJIbjA1RTN0R2tULVJqUFNOUFM2VWI0RXJmUE14UXdFV0dacF8xTHROQWFBNW1FVlVDWlBWbDk2SG9PaGFFTGlhR0VpNllZREdfbWtmb2ZnREt3d3dXOXVrcGw1eHJoeVI0eHdybW1OTmpNQkNQUzE3TU1kZUsyZ2x1V3RxZVo4VXpWNjRhbm8tT2xjM0tJdEFfZDZSUjN5a3FTaFFtN0NmdTNFTFNvbFBQSUlPelprSHZ6UVY?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html
 
-- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
-  'Goes Against India's sovereignty':
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
+- Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial
+  Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000.
+  🔗 https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html
 
-- Monsoon tracker LIVE: Cloudburst floods hotels, houses in Pahalgam; heavy to very heavy rain lash parts of India - The Hindu
-  The Hindu reports heavy to very heavy rain lash parts of India.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcnRBNHNLbWpvNHNnM2hTanpzMm9FVThzUVNxUE5PLVFKZ2NsTG5mODRLbVFfWC1nT3RhRU92eVJfMEtQRmt5NHcwdXdnWkt5Q2o5cnlIelIyVXNfOHEyRGx5UHpVOXY2eVB1S3E1bjM5YnBBRFpTcnIwN1ZYTmtMVEw4VTVDcUlsQmhZM2lNODlIZkFhX0lEVTJkR2FFQWNrTHhKT2xBazhSMUJVQlJqdVU3MFdURmRPM1dyZ19FVGZwTWNKbFJmSklwOTVzSW5ZUzhSWWVRQlVFUmh6YS1jSlRSaVFzTFhvVnY3Q0lNc9IB9gFBVV95cUxQbWpwLVMxdFU4NHZ2NTQ3OWlfQlQ3eVJsQU5Wc1duLU9iZTRqcTUyelRrYkc1Qi1QZDUxN21raUtTWVZlSW90dU84TWFPWUdzYTFIMFF4Z3hTTUpyMkd4SXNhT2ZoMVlFUDJEenZmMWFtVzIxNEh5V1cwa1gyWVdxa3NmcHBzVGJ5amRkMHlyeTdkQjNUcTNCeUU4cHFrNGZGYjJUM1F0MEVaeENDUXhQZTVHOEJacFJmNzF4M2RUc0xIUjB6Z1p6bWZERUt5VzhBa0o5M0VWWnkyVC1KSXZUOFlPc29BeUFndnNQajgtSC1wLXU5M0E?oc=5
+- Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial
+  Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700.
+  🔗 https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html
 
-- Evening news wrap: India condemns Oman vessel attack; Wangchuk's health dips amid hunger strike & more - The Times of India
-  India condemns Oman vessel attack; Wangchuk's health dips amid hunger strike.
-  🔗 https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMmRENU9ORlctdTN1V2hqaXBBWi05Z0lqSGtZWFJxdU9PbzNpT2tjMWd3eEFnQnREOFVaV1FQVVlKdFUwWXI3NTRuZjBOOTN5cjdHZEFjSFd3aGJLd3FGdVpBNEUxOGw5amhmd0hwb3hFdDk1RnRuRkVYemw1YzlWcHdTTEdfVjVJN09mSzJLVzdKcE5hcjJJT09xU1lxSGVDZkl6LS1aenpLRWxub3ZZbzRJb0lGOUw3NU8yQmpEXzc0NkROdTVpM21XNldTTm9makV2WUV5WVlYeWg3aEZyNmdWQkg5eS12Z3BUNmp0eldaeVNBbzZxNtIB_gFBVV95cUxQWTMtQ1Z0X1FYVnJWcHg2VkR4UjN6TldZM0dnVU9FOXMwTmpWSUV6VklJSjdmei1LejY4TUYtUDl6ZU5VVDh1NnRrd2JOUWlIZGp6LTNDTWtzbG1lZlo2V1dQMWhEcUJtaHA5WDVPWnd4czIzSlc2S01yRVNaZnNSYnp0X192dTkwT1AzWGlWTmZ0QTBUaFB4UkpxU3E5eklzRFJnOW1xdExsWUdkZ3ktRm5mcEo5VjFsSVhPa2didm9ZVFdtWmV0Rk9ET0F6Q2RJQ0Zpa3NiV2ppTXQ5UE1MLTJEN1B0TjJnT2l1S1JoSnlEQVJWTXlrVll1U0R1Zw?oc=5
+- Theatres stare at another weak quarter, PVR Inox likely to report loss in Q4 due to dull content
+  PVR Inox#39;s performance in the March quarter will remain muted due to decline in ticket prices because of discounts. Big-budget movies not doing as per expectations including Fighter; and lower ad revenue as well as occupancy levels
+  🔗 https://www.moneycontrol.com/news/technology/theatres-stare-at-another-weak-quarter-pvr-inox-likely-to-report-lossq4-due-to-dull-content_17530321.html
 
-- 'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast amid US-Iran war | India News - Hindustan Times
-  'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast
-  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk5jZ2U5WXVVRW1VYngzd2pTQTNJUndSX0R0X3kwdkw0SFk3QkpVdWJsUUM2aVJKaDZLUU84YVlQN0xjZVFTWjRWWGtoaDBJWWdoajl2TjBORXVjdmFGbm04WlBHbDlWOHQwZ2djNnVTclZ3Z1lha1VEU3hWVGh6VVBZLVdhZGtoLTFrRkd2MXd3enF1cmI3ZG5ZS2pWYTZNZzFJYU5JTFJqeXJiei1Tdk45dlZLaXpxX2x3Ul8ybFBRMFoxQlFfSjNTRmRuTUozM0Z3Mi1XYTdmX2xYMDk4aDdrTTBhWkY5bzJn0gHwAUFVX3lxTFA0cUZFbUd6QzlucVNEQVNLa3lwWkdOMGY0d3c0UWJ3RFN0OUcxeUVPa2VJeUFLUTRXR0pzWHBLaE44elVXWlR2ajEwNjRQSF9MU0Q2Z3hBQWk2cFBCTFl4d0FiN1VyYXlKM1pTUHJuUHZPU3U1UEVuNjhKWEk2dElYeXBXbE9XcHlVREdqU1RxNXZQRzBBaXZvWHlycUE4QUxTUnd1cGRJUTlabWtjMkxack45eHRvUkZ5RHhkV3BCeVV6Y3FHY3I4TDBrZHljWG9rOVl3RHJVS2VNMVZ4NHlETFFSdldTaHJaTERvQlZKNQ?oc=5
-
-- Indian Missing, 10 Rescued After Iran Attacks Ship In Strait Of Hormuz - NDTV
-  Indian Missing, 10 Rescued After Iran Attacks
-  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXJoNFpQZVhPYnQ2WC0xcFNNc2FmY0I5QXBGSmk4cEpSb25kZ0VqSk9WOEI4YzI5aVUxVXFQa0RDMTFENFhvZkt6QnpQSzJ1eFp2Mnd6MW1yTlNtYXVScTlFaGZtLWVVZ1MwczA1dVl4YmxMUnFUNk9saHZLam9MRXY0OXlZcG44ZWZkck1xejhUTHotM25hQjJpdjJoV2tFSUhmU3MzUTE5YlJrNjlNLXR6bFpZOFRUVTY0UlRNaHpXMHM0NjNUVWFRMXdkZ25JNXV3Z20wN1DSAeABQVVfeXFMT3hqa1pPVUx4eE1TalBtVW92alFFZzZTcXZMZk10Um15ZlpLZmJIbjA1RTN0R2tULVJqUFNOUFM2VWI0RXJmUE14UXdFV0dacF8xTHROQWFBNW1FVlVDWlBWbDk2SG9PaGFFTGlhR0VpNllZREdfbWtmb2ZnREt3d3dXOXVrcGw1eHJoeVI0eHdybW1OTmpNQkNQUzE3TU1kZUsyZ2x1V3RxZVo4VXpWNjRhbm8tT2xjM0tJdEFfZDZSUjN5a3FTaFFtN0NmdTNFTFNvbFBQSUlPelprSHZ6UVY?oc=5
-
-- 'Goes Against India's Sovereignty': Government Panel Backs Ban On 'Satluj' - NDTV
-  'Goes Against India's sovereignty':
-  🔗 https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXRSd1RhZDBOYldrYkc1YnlCeExtMG5YWVBFclI5QnZFbC1KbVVzQWx1X0FucWRWTVE5MjhIZzVXUHVYZGFsLXl2Y2xDZUQ0Yi1Kbk5PR0FHdDRoQ1JjLXdaWFR4THlPNmJ2R3dIWnFnR21hcUhlUDZwZWRWZzlpTjZFYXVGSXh6SVJwQ1ZNR3BvX3EzVWNDaXNmRE5SM09uMW83ZTJQaERtMGR3c2p1amZWT2pMbEVQWU90azFXZktsMGJ4OUV6aDgtV0tRcGE1M1dONlh6WGU3c0hvNnfSAeYBQVVfeXFMTlhFZkxkMGtzS2hHQjBYOS1ic2ZjWS03TGhuQWpJQVFNV2c0dElCVENNc1Nac1ZDWjVMYmlrbDhUSjdVZVhhUXRQR2Q1bzR2QmR5M2J2QVlHbkxheGZTRi02OHZMNXFueTZnQjdjTjhXTE9icDBsWThlY0RNbXZvbkJNdTBzZ05PVFNvRi1MYjNtX09pa2dEcTdyblUyUUhiTHBaeEFGR243YmtaY3gxU2NZUzRKNElxZGtIemhuaVRyYk9wOE0tRGQ1WVRFbU15VEpjUG0xRjhibFRCVWFoR1A5T1BuR3c?oc=5
-
-- Monsoon tracker LIVE: Cloudburst floods hotels, houses in Pahalgam; heavy to very heavy rain lash parts of India - The Hindu
-  The Hindu reports heavy to very heavy rain lash parts of India.
-  🔗 https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcnRBNHNLbWpvNHNnM2hTanpzMm9FVThzUVNxUE5PLVFKZ2NsTG5mODRLbVFfWC1nT3RhRU92eVJfMEtQRmt5NHcwdXdnWkt5Q2o5cnlIelIyVXNfOHEyRGx5UHpVOXY2eVB1S3E1bjM5YnBBRFpTcnIwN1ZYTmtMVEw4VTVDcUlsQmhZM2lNODlIZkFhX0lEVTJkR2FFQWNrTHhKT2xBazhSMUJVQlJqdVU3MFdURmRPM1dyZ19FVGZwTWNKbFJmSklwOTVzSW5ZUzhSWWVRQlVFUmh6YS1jSlRSaVFzTFhvVnY3Q0lNc9IB9gFBVV95cUxQbWpwLVMxdFU4NHZ2NTQ3OWlfQlQ3eVJsQU5Wc1duLU9iZTRqcTUyelRrYkc1Qi1QZDUxN21raUtTWVZlSW90dU84TWFPWUdzYTFIMFF4Z3hTTUpyMkd4SXNhT2ZoMVlFUDJEenZmMWFtVzIxNEh5V1cwa1gyWVdxa3NmcHBzVGJ5amRkMHlyeTdkQjNUcTNCeUU4cHFrNGZGYjJUM1F0MEVaeENDUXhQZTVHOEJacFJmNzF4M2RUc0xIUjB6Z1p6bWZERUt5VzhBa0o5M0VWWnkyVC1KSXZUOFlPc29BeUFndnNQajgtSC1wLXU5M0E?oc=5
+- India travel trends: Search for spiritual destinations surges 97%, Delhi scores high in inquiries
+  People taking more than three trips per year has grown by 25 percent in 2023 as compared to 2019.
+  🔗 https://www.moneycontrol.com/news/technology/india-travel-trends-search-for-spiritual-destinations-surges-97-delhi-scores-highinquiries_17530161.html
 
 
-_Last updated: 2026-07-12 13:10:51 UTC_
+_Last updated: 2026-07-12 19:01:17 UTC_
